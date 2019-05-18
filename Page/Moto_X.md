@@ -10,14 +10,14 @@ MSM8960DT双核处理器（核心架构为Snapdragon 600系列所使用的Krait
 pro系列）、[Adreno](../Page/Adreno.md "wikilink")320
 四核心显示处理器、一颗的低功耗的“自然语言处理器”和一颗低功耗的“上下文语义处理器”組成，可在保证Touchless
 Control使用的情况下显著降低耗电量。这一计算处理器＋环境协处理器的设计亦被后来的[iPhone
-5S所搭载的](../Page/iPhone_5S.md "wikilink")[Apple
-A7芯片组所借鉴](https://zh.wikipedia.org/wiki/Apple_A7 "wikilink")。
+5S所搭载的](https://zh.wikipedia.org/wiki/iPhone_5S "wikilink")[Apple
+A7芯片组所借鉴](../Page/Apple_A7.md "wikilink")。
 
 为了配合Touchless Control的特色功能，Moto X搭载了来自三星的4.7寸[Super
 AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")
 720P屏幕（RGB排列），来自LG的2200mAh电池，官方宣称可以保证一整天的使用。Moto
 X使用来自OmniVision的1.4um像素尺寸的1000W像素摄像头，是继[iPhone
-5之后又一部采用](../Page/iPhone_5.md "wikilink")[Nano
+5之后又一部采用](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")[Nano
 SIM的手机](https://zh.wikipedia.org/wiki/Nano_SIM "wikilink")。
 
 Moto

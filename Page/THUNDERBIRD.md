@@ -5,7 +5,7 @@ Records Japan)代理发行。
 
   - T.M.Revolution的首张抒情单曲。
   - PV方面，与前作《[HOT
-    LIMIT](../Page/HOT_LIMIT.md "wikilink")》的奇装异服完全不同，这次是黑色衬衫和黑色领带的简单搭配，
+    LIMIT](https://zh.wikipedia.org/wiki/HOT_LIMIT "wikilink")》的奇装异服完全不同，这次是黑色衬衫和黑色领带的简单搭配，
   - 《UNDER:COVER》人气投票第6位。
   - 以这首歌继去年后再次在[紅白歌合戦上](https://zh.wikipedia.org/wiki/红白歌会 "wikilink")、穿着仿佛在和对战对手[小林幸子对抗一般的华丽衣装登场](../Page/小林幸子.md "wikilink")。(顺带一提，05年的红白上，与[小林幸子依然为对抗对手](../Page/小林幸子.md "wikilink")。)
   - 歌曲的作词者井上秋緒在杂志上发表了此曲所包含的故事的小说。

@@ -120,7 +120,7 @@ I/O的主题演讲上，Google部分汽车制造商自2014年起将着手参与�
 ## 参见
 
   - [MirrorLink](../Page/MirrorLink.md "wikilink")，一种设备协作与资讯交换的标准，提供[智能手机与车载信息娱乐系统之间的整合功能](../Page/智能手机.md "wikilink")。
-  - [CarPlay](../Page/CarPlay.md "wikilink")，[蘋果公司所推出](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，供[iOS作業系統的行動裝置与车载信息娱乐系统之间的整合功能](../Page/iOS.md "wikilink")。
+  - [CarPlay](../Page/CarPlay.md "wikilink")，[蘋果公司所推出](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，供[iOS作業系統的行動裝置与车载信息娱乐系统之间的整合功能](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 [Category:2014年软件](https://zh.wikipedia.org/wiki/Category:2014年软件 "wikilink")
 [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")

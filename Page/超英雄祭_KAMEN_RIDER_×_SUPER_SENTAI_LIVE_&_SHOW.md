@@ -1,5 +1,5 @@
 『超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE &
-SHOW』是[日本](https://zh.wikipedia.org/wiki/日本 "wikilink")[特攝的](https://zh.wikipedia.org/wiki/特攝 "wikilink")[超級戰隊系列和](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[假面騎士系列在每年](https://zh.wikipedia.org/wiki/假面騎士系列 "wikilink")1月中旬時的特別表演。
+SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia.org/wiki/特攝 "wikilink")[超級戰隊系列和](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[假面騎士系列在每年](../Page/假面騎士系列.md "wikilink")1月中旬時的特別表演。
 
 ## 概要
 
@@ -20,14 +20,14 @@ SHOW』是[日本](https://zh.wikipedia.org/wiki/日本 "wikilink")[特攝的](h
   - 日期：2012年1月10日、1月11日
   - 地點：[東京國際論壇大樓](https://zh.wikipedia.org/wiki/東京國際論壇大樓 "wikilink") A棟
     1F前廳
-  - 演員：[假面騎士Fourze](https://zh.wikipedia.org/wiki/假面騎士Fourze "wikilink")、[海賊戰隊豪快者](https://zh.wikipedia.org/wiki/海賊戰隊豪快者 "wikilink")
+  - 演員：[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")、[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")
 
 <!-- end list -->
 
   -
-    假面騎士：[福士蒼汰](https://zh.wikipedia.org/wiki/福士蒼汰 "wikilink")、[高橋龍輝](https://zh.wikipedia.org/wiki/高橋龍輝 "wikilink")、[清水富美加](https://zh.wikipedia.org/wiki/清水富美加 "wikilink")、[吉澤亮](https://zh.wikipedia.org/wiki/吉澤亮 "wikilink")、、、[志保](https://zh.wikipedia.org/wiki/志保 "wikilink")、
-    超級戰隊：[小澤亮太](https://zh.wikipedia.org/wiki/小澤亮太 "wikilink")、[山田裕貴](https://zh.wikipedia.org/wiki/山田裕貴 "wikilink")、[市道真央](https://zh.wikipedia.org/wiki/市道真央 "wikilink")、[清水一希](https://zh.wikipedia.org/wiki/清水一希 "wikilink")、[小池唯](https://zh.wikipedia.org/wiki/小池唯 "wikilink")、[池田純矢](https://zh.wikipedia.org/wiki/池田純矢 "wikilink")、
-    特別嘉賓：[渡部秀](https://zh.wikipedia.org/wiki/渡部秀 "wikilink")（1月11日）
+    假面騎士：[福士蒼汰](../Page/福士蒼汰.md "wikilink")、[高橋龍輝](../Page/高橋龍輝.md "wikilink")、[清水富美加](../Page/清水富美加.md "wikilink")、[吉澤亮](../Page/吉澤亮.md "wikilink")、、、[志保](../Page/志保.md "wikilink")、
+    超級戰隊：[小澤亮太](../Page/小澤亮太.md "wikilink")、[山田裕貴](../Page/山田裕貴.md "wikilink")、[市道真央](../Page/市道真央.md "wikilink")、[清水一希](../Page/清水一希.md "wikilink")、[小池唯](../Page/小池唯.md "wikilink")、[池田純矢](../Page/池田純矢.md "wikilink")、
+    特別嘉賓：[渡部秀](../Page/渡部秀.md "wikilink")（1月11日）
 
 <!-- end list -->
 
@@ -36,12 +36,12 @@ SHOW』是[日本](https://zh.wikipedia.org/wiki/日本 "wikilink")[特攝的](h
 <!-- end list -->
 
   -
-    假面騎士：、[土屋安娜](https://zh.wikipedia.org/wiki/土屋安娜 "wikilink")、Astronauts（、[May'n](https://zh.wikipedia.org/wiki/中林芽依 "wikilink")）、[上木彩矢](https://zh.wikipedia.org/wiki/上木彩矢 "wikilink")
+    假面騎士：、[土屋安娜](../Page/土屋安娜.md "wikilink")、Astronauts（、[May'n](https://zh.wikipedia.org/wiki/中林芽依 "wikilink")）、[上木彩矢](../Page/上木彩矢.md "wikilink")
     w
-    、[松本梨香](https://zh.wikipedia.org/wiki/松本梨香 "wikilink")、[假面騎士GIRLS](https://zh.wikipedia.org/wiki/假面騎士GIRLS "wikilink")
-    超級戰隊：、[串田晃](https://zh.wikipedia.org/wiki/串田晃 "wikilink")、[高取秀明](https://zh.wikipedia.org/wiki/高取秀明 "wikilink")、[松原剛志](https://zh.wikipedia.org/wiki/松原剛志 "wikilink")、[PSYCHIC
-    LOVER](https://zh.wikipedia.org/wiki/PSYCHIC_LOVER "wikilink")（YOFFY、IMAJO）、[岩崎貴文](https://zh.wikipedia.org/wiki/岩崎貴文 "wikilink")、[Sister
-    MAYO](https://zh.wikipedia.org/wiki/Sister_MAYO "wikilink")、[谷本貴義](https://zh.wikipedia.org/wiki/谷本貴義 "wikilink")、、[五條真由美](https://zh.wikipedia.org/wiki/五條真由美 "wikilink")、、、[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")、[NoB](https://zh.wikipedia.org/wiki/山田信夫 "wikilink")
+    、[松本梨香](../Page/松本梨香.md "wikilink")、[假面騎士GIRLS](../Page/假面騎士GIRLS.md "wikilink")
+    超級戰隊：、[串田晃](../Page/串田晃.md "wikilink")、[高取秀明](../Page/高取秀明.md "wikilink")、[松原剛志](../Page/松原剛志.md "wikilink")、[PSYCHIC
+    LOVER](../Page/PSYCHIC_LOVER.md "wikilink")（YOFFY、IMAJO）、[岩崎貴文](../Page/岩崎貴文.md "wikilink")、[Sister
+    MAYO](../Page/Sister_MAYO.md "wikilink")、[谷本貴義](../Page/谷本貴義.md "wikilink")、、[五條真由美](../Page/五條真由美.md "wikilink")、、、[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")、[NoB](../Page/山田信夫.md "wikilink")
 
 | 歌曲                                                     |
 | ------------------------------------------------------ |
@@ -82,16 +82,16 @@ SHOW』是[日本](https://zh.wikipedia.org/wiki/日本 "wikilink")[特攝的](h
   - 日期：2013年1月11日、1月12日
   - 地點：東京國際論壇大樓 A棟
   - 演員：[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")、[特命戰隊Go
-    Busters](https://zh.wikipedia.org/wiki/特命戰隊Go_Busters "wikilink")
+    Busters](../Page/特命戰隊Go_Busters.md "wikilink")
 
 <!-- end list -->
 
   -
-    假面騎士：[白石隼也](https://zh.wikipedia.org/wiki/白石隼也 "wikilink")、[奧仲麻琴](https://zh.wikipedia.org/wiki/奧仲麻琴 "wikilink")、[永瀨匡](https://zh.wikipedia.org/wiki/永瀨匡 "wikilink")、[戶塚純貴](https://zh.wikipedia.org/wiki/戶塚純貴 "wikilink")、[高山侑子](https://zh.wikipedia.org/wiki/高山侑子 "wikilink")、、
-    超級戰隊：[鈴木勝大](https://zh.wikipedia.org/wiki/鈴木勝大 "wikilink")、[馬場良馬](https://zh.wikipedia.org/wiki/馬場良馬 "wikilink")、[小宮有紗](https://zh.wikipedia.org/wiki/小宮有紗 "wikilink")、[松本寬也](https://zh.wikipedia.org/wiki/松本寬也 "wikilink")
+    假面騎士：[白石隼也](../Page/白石隼也.md "wikilink")、[奧仲麻琴](../Page/奧仲麻琴.md "wikilink")、[永瀨匡](../Page/永瀨匡.md "wikilink")、[戶塚純貴](https://zh.wikipedia.org/wiki/戶塚純貴 "wikilink")、[高山侑子](../Page/高山侑子.md "wikilink")、、
+    超級戰隊：[鈴木勝大](../Page/鈴木勝大.md "wikilink")、[馬場良馬](../Page/馬場良馬.md "wikilink")、[小宮有紗](../Page/小宮有紗.md "wikilink")、[松本寬也](../Page/松本寬也.md "wikilink")
     日替嘉賓：
       -
-        1月11日：[陳内将](https://zh.wikipedia.org/wiki/陳内将 "wikilink")、[水崎綾女](https://zh.wikipedia.org/wiki/水崎綾女 "wikilink")
+        1月11日：[陳内将](https://zh.wikipedia.org/wiki/陳内将 "wikilink")、[水崎綾女](../Page/水崎綾女.md "wikilink")
         1月12日：山田裕貴、清水一希
 
 <!-- end list -->
@@ -102,7 +102,7 @@ SHOW』是[日本](https://zh.wikipedia.org/wiki/日本 "wikilink")[特攝的](h
 
   -
     假面騎士：RIDER
-    CHIPS、土屋安娜、Astronauts（椎名慶治、May'n）、假面騎士GIRLS、[小暮閣下](https://zh.wikipedia.org/wiki/小暮閣下 "wikilink")
+    CHIPS、土屋安娜、Astronauts（椎名慶治、May'n）、假面騎士GIRLS、[小暮閣下](../Page/小暮閣下.md "wikilink")
     超級戰隊：串田晃、高取秀明、松原剛志、高橋秀幸
 
 | 歌曲                                                         |
@@ -139,16 +139,16 @@ SHOW』是[日本](https://zh.wikipedia.org/wiki/日本 "wikilink")[特攝的](h
 ### 超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE & SHOW 日本武道館2014
 
   - 日期：2014年1月15日
-  - 地點：[日本武道館](https://zh.wikipedia.org/wiki/日本武道館 "wikilink")
-  - 演員：[假面騎士鎧武](https://zh.wikipedia.org/wiki/假面騎士鎧武 "wikilink")、[獸電戰隊強龍者](https://zh.wikipedia.org/wiki/獸電戰隊強龍者 "wikilink")
+  - 地點：[日本武道館](../Page/日本武道館.md "wikilink")
+  - 演員：[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")、[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")
 
 <!-- end list -->
 
   -
-    假面騎士：[佐野岳](https://zh.wikipedia.org/wiki/佐野岳 "wikilink")、[小林豐](https://zh.wikipedia.org/wiki/小林豐 "wikilink")、[高杉真宙](https://zh.wikipedia.org/wiki/高杉真宙 "wikilink")、[志田友美](https://zh.wikipedia.org/wiki/志田友美 "wikilink")、[久保田悠來](https://zh.wikipedia.org/wiki/久保田悠來 "wikilink")、、
-    超級戰隊：[龍星涼](https://zh.wikipedia.org/wiki/龍星涼 "wikilink")、[齊藤秀翼](https://zh.wikipedia.org/wiki/齊藤秀翼 "wikilink")、[金城大和](https://zh.wikipedia.org/wiki/金城大和 "wikilink")、[塩野瑛久](https://zh.wikipedia.org/wiki/鹽野瑛久 "wikilink")、[今野鮎莉](https://zh.wikipedia.org/wiki/今野鮎莉 "wikilink")、[丸山敦史](https://zh.wikipedia.org/wiki/丸山敦史 "wikilink")、Robert
-    Baldwin、[出合正幸](https://zh.wikipedia.org/wiki/出合正幸 "wikilink")、[飯豐萬理江](https://zh.wikipedia.org/wiki/飯豐萬理江 "wikilink")、[森川智之](https://zh.wikipedia.org/wiki/森川智之 "wikilink")
-    神秘嘉賓：\[2\]、\[3\]、、[姜暢雄](https://zh.wikipedia.org/wiki/姜暢雄 "wikilink")\[4\]
+    假面騎士：[佐野岳](../Page/佐野岳.md "wikilink")、[小林豐](../Page/小林豐.md "wikilink")、[高杉真宙](../Page/高杉真宙.md "wikilink")、[志田友美](https://zh.wikipedia.org/wiki/志田友美 "wikilink")、[久保田悠來](https://zh.wikipedia.org/wiki/久保田悠來 "wikilink")、、
+    超級戰隊：[龍星涼](../Page/龍星涼.md "wikilink")、[齊藤秀翼](../Page/齊藤秀翼.md "wikilink")、[金城大和](../Page/金城大和.md "wikilink")、[塩野瑛久](https://zh.wikipedia.org/wiki/鹽野瑛久 "wikilink")、[今野鮎莉](../Page/今野鮎莉.md "wikilink")、[丸山敦史](../Page/丸山敦史.md "wikilink")、Robert
+    Baldwin、[出合正幸](../Page/出合正幸.md "wikilink")、[飯豐萬理江](../Page/飯豐萬理江.md "wikilink")、[森川智之](../Page/森川智之.md "wikilink")
+    神秘嘉賓：\[2\]、\[3\]、、[姜暢雄](../Page/姜暢雄.md "wikilink")\[4\]
 
 <!-- end list -->
 
@@ -160,7 +160,7 @@ SHOW』是[日本](https://zh.wikipedia.org/wiki/日本 "wikilink")[特攝的](h
     假面騎士：RIDER CHIPS、土屋安娜、上木彩矢 w
     TAKUYA、假面騎士GIRLS、[鎧武乃風](https://zh.wikipedia.org/wiki/湘南乃風 "wikilink")、[hitomi](https://zh.wikipedia.org/wiki/hitomi "wikilink")、
     超級戰隊：Z旗、高取秀明、松原剛志、高橋秀幸、NoB、岩崎貴文、谷本貴義、、PSYCHIC
-    LOVER（YOFFY、IMAJO）、[桃井晴子](https://zh.wikipedia.org/wiki/桃井晴子 "wikilink")、[山形幸生](https://zh.wikipedia.org/wiki/山形幸生 "wikilink")、
+    LOVER（YOFFY、IMAJO）、[桃井晴子](../Page/桃井晴子.md "wikilink")、[山形幸生](../Page/山形幸生.md "wikilink")、
 
 | 歌曲                                 |
 | ---------------------------------- |
@@ -200,17 +200,17 @@ SHOW』是[日本](https://zh.wikipedia.org/wiki/日本 "wikilink")[特攝的](h
 
   - 日期：2015年1月17日、1月18日
   - 地點：東京國際論壇 A棟
-  - 演員：[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")、[烈車戰隊特急者](https://zh.wikipedia.org/wiki/烈車戰隊特急者 "wikilink")
+  - 演員：[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")、[烈車戰隊特急者](../Page/烈車戰隊特急者.md "wikilink")
 
 <!-- end list -->
 
   -
-    假面騎士：[竹內涼真](https://zh.wikipedia.org/wiki/竹內涼真 "wikilink")、[内田理央](https://zh.wikipedia.org/wiki/內田理央 "wikilink")、[稲葉友](https://zh.wikipedia.org/wiki/稲葉友 "wikilink")、[上遠野太洸](https://zh.wikipedia.org/wiki/上遠野太洸 "wikilink")
-    超級戰隊：[志尊淳](https://zh.wikipedia.org/wiki/志尊淳 "wikilink")、[平牧仁](https://zh.wikipedia.org/wiki/平牧仁 "wikilink")、[梨里杏](https://zh.wikipedia.org/wiki/梨里杏 "wikilink")、[橫濱流星](https://zh.wikipedia.org/wiki/橫濱流星 "wikilink")、[森高愛](https://zh.wikipedia.org/wiki/森高愛 "wikilink")、[長濱慎](https://zh.wikipedia.org/wiki/長濱慎 "wikilink")
+    假面騎士：[竹內涼真](../Page/竹內涼真.md "wikilink")、[内田理央](../Page/內田理央.md "wikilink")、[稲葉友](https://zh.wikipedia.org/wiki/稲葉友 "wikilink")、[上遠野太洸](../Page/上遠野太洸.md "wikilink")
+    超級戰隊：[志尊淳](../Page/志尊淳.md "wikilink")、[平牧仁](../Page/平牧仁.md "wikilink")、[梨里杏](https://zh.wikipedia.org/wiki/梨里杏 "wikilink")、[橫濱流星](../Page/橫濱流星.md "wikilink")、[森高愛](../Page/森高愛.md "wikilink")、[長濱慎](../Page/長濱慎.md "wikilink")
     日替嘉賓：
       -
-        1月17日：[吉井憐](https://zh.wikipedia.org/wiki/吉井憐 "wikilink")、[濱野謙太](https://zh.wikipedia.org/wiki/濱野謙太 "wikilink")、、[山口勝平](https://zh.wikipedia.org/wiki/山口勝平 "wikilink")
-        1月18日：、[蕨野友也](https://zh.wikipedia.org/wiki/蕨野友也 "wikilink")、[馬場富美香](https://zh.wikipedia.org/wiki/馬場富美香 "wikilink")、
+        1月17日：[吉井憐](https://zh.wikipedia.org/wiki/吉井憐 "wikilink")、[濱野謙太](https://zh.wikipedia.org/wiki/濱野謙太 "wikilink")、、[山口勝平](../Page/山口勝平.md "wikilink")
+        1月18日：、[蕨野友也](../Page/蕨野友也.md "wikilink")、[馬場富美香](https://zh.wikipedia.org/wiki/馬場富美香 "wikilink")、
 
 <!-- end list -->
 
@@ -352,21 +352,21 @@ SHOW』是[日本](https://zh.wikipedia.org/wiki/日本 "wikilink")[特攝的](h
 
   - 日期：2016年1月20日、1月21日
   - 地點：日本武道館
-  - 演員：[假面騎士Ghost](https://zh.wikipedia.org/wiki/假面騎士Ghost "wikilink")、[手裏劍戰隊忍忍者](https://zh.wikipedia.org/wiki/手裏劍戰隊忍忍者 "wikilink")
+  - 演員：[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")、[手裏劍戰隊忍忍者](../Page/手裏劍戰隊忍忍者.md "wikilink")
 
 <!-- end list -->
 
   -
-    假面騎士：[西銘駿](https://zh.wikipedia.org/wiki/西銘駿 "wikilink")、[山本涼介](https://zh.wikipedia.org/wiki/山本涼介 "wikilink")、[大澤光](https://zh.wikipedia.org/wiki/大澤光 "wikilink")、柳喬之、[磯村勇斗](https://zh.wikipedia.org/wiki/磯村勇斗 "wikilink")
-    超級戰隊：[西川俊介](https://zh.wikipedia.org/wiki/西川俊介 "wikilink")、[松本岳](https://zh.wikipedia.org/wiki/松本岳 "wikilink")、[中村嘉惟人](https://zh.wikipedia.org/wiki/中村嘉惟人 "wikilink")、[矢野優花](https://zh.wikipedia.org/wiki/矢野優花 "wikilink")、[山谷花純](https://zh.wikipedia.org/wiki/山谷花純 "wikilink")、[多和田秀彌](https://zh.wikipedia.org/wiki/多和田秀彌 "wikilink")
+    假面騎士：[西銘駿](../Page/西銘駿.md "wikilink")、[山本涼介](../Page/山本涼介.md "wikilink")、[大澤光](../Page/大澤光.md "wikilink")、柳喬之、[磯村勇斗](../Page/磯村勇斗.md "wikilink")
+    超級戰隊：[西川俊介](../Page/西川俊介.md "wikilink")、[松本岳](../Page/松本岳.md "wikilink")、[中村嘉惟人](../Page/中村嘉惟人.md "wikilink")、[矢野優花](../Page/矢野優花.md "wikilink")、[山谷花純](../Page/山谷花純.md "wikilink")、[多和田秀彌](https://zh.wikipedia.org/wiki/多和田秀彌 "wikilink")
     神秘嘉賓：
       -
-        1月20日：[林剛史](https://zh.wikipedia.org/wiki/林剛史 "wikilink")、[伊藤陽佑](https://zh.wikipedia.org/wiki/伊藤陽佑 "wikilink")、[木下亞由美](https://zh.wikipedia.org/wiki/木下亞由美 "wikilink")、[菊地美香](https://zh.wikipedia.org/wiki/菊地美香 "wikilink")
+        1月20日：[林剛史](../Page/林剛史.md "wikilink")、[伊藤陽佑](../Page/伊藤陽佑.md "wikilink")、[木下亞由美](../Page/木下亞由美.md "wikilink")、[菊地美香](../Page/菊地美香.md "wikilink")
         1月21日：上遠野太洸
     日替嘉賓：
       -
-        1月20日：[悠木碧](https://zh.wikipedia.org/wiki/悠木碧 "wikilink")、山形幸生、
-        1月21日：[溝口琢矢](https://zh.wikipedia.org/wiki/溝口琢矢 "wikilink")、、[潘惠美](https://zh.wikipedia.org/wiki/潘惠美 "wikilink")
+        1月20日：[悠木碧](../Page/悠木碧.md "wikilink")、山形幸生、
+        1月21日：[溝口琢矢](../Page/溝口琢矢.md "wikilink")、、[潘惠美](../Page/潘惠美.md "wikilink")
 
 <!-- end list -->
 
@@ -375,7 +375,7 @@ SHOW』是[日本](https://zh.wikipedia.org/wiki/日本 "wikilink")[特攝的](h
 <!-- end list -->
 
   -
-    假面騎士：[氣志團](https://zh.wikipedia.org/wiki/氣志團 "wikilink")、松岡充、假面騎士GIRLS、RIDER
+    假面騎士：[氣志團](../Page/氣志團.md "wikilink")、松岡充、假面騎士GIRLS、RIDER
     CHIPS、m.c.A・T、TEAM BARON（小林豊、松田岳、百瀬朔）、1 FINGER、
     超級戰隊：伊勢大貴、松原剛志、高橋秀幸、NoB、谷本貴義、鎌田章吾、PSYCHIC
     LOVER（YOFFY、IMAJO）、山形幸生、岩崎貴文、Z旗、
@@ -430,18 +430,18 @@ SHOW』是[日本](https://zh.wikipedia.org/wiki/日本 "wikilink")[特攝的](h
 
   - 日期：2017年1月21日、1月22日
   - 地點：日本武道館
-  - 演員：[假面騎士EX-AID](https://zh.wikipedia.org/wiki/假面騎士EX-AID "wikilink")、[動物戰隊獸王者](https://zh.wikipedia.org/wiki/動物戰隊獸王者 "wikilink")
+  - 演員：[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")、[動物戰隊獸王者](../Page/動物戰隊獸王者.md "wikilink")
 
 <!-- end list -->
 
   -
-    假面騎士：[飯島寛騎](https://zh.wikipedia.org/wiki/飯島寛騎 "wikilink")、[瀬戶利樹](https://zh.wikipedia.org/wiki/瀨戶利樹 "wikilink")、[松本享恭](https://zh.wikipedia.org/wiki/松本享恭 "wikilink")、[松田露卡](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink")、[岩永徹也](https://zh.wikipedia.org/wiki/岩永徹也 "wikilink")、[小野塚勇人](https://zh.wikipedia.org/wiki/小野塚勇人 "wikilink")、[甲斐翔真](https://zh.wikipedia.org/wiki/甲斐翔真 "wikilink")
-    超級戰隊：[中尾暢樹](https://zh.wikipedia.org/wiki/中尾暢樹 "wikilink")、[柳美稀](https://zh.wikipedia.org/wiki/柳美稀 "wikilink")、[南羽翔平](https://zh.wikipedia.org/wiki/南羽翔平 "wikilink")、[渡邉劍](https://zh.wikipedia.org/wiki/渡邉劍 "wikilink")、[立石晴香](https://zh.wikipedia.org/wiki/立石晴香 "wikilink")、[國島直希](https://zh.wikipedia.org/wiki/國島直希 "wikilink")、[村上幸平](https://zh.wikipedia.org/wiki/村上幸平 "wikilink")
+    假面騎士：[飯島寛騎](https://zh.wikipedia.org/wiki/飯島寛騎 "wikilink")、[瀬戶利樹](../Page/瀨戶利樹.md "wikilink")、[松本享恭](../Page/松本享恭.md "wikilink")、[松田露卡](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink")、[岩永徹也](../Page/岩永徹也.md "wikilink")、[小野塚勇人](../Page/小野塚勇人.md "wikilink")、[甲斐翔真](../Page/甲斐翔真.md "wikilink")
+    超級戰隊：[中尾暢樹](../Page/中尾暢樹.md "wikilink")、[柳美稀](../Page/柳美稀.md "wikilink")、[南羽翔平](../Page/南羽翔平.md "wikilink")、[渡邉劍](https://zh.wikipedia.org/wiki/渡邉劍 "wikilink")、[立石晴香](../Page/立石晴香.md "wikilink")、[國島直希](../Page/國島直希.md "wikilink")、[村上幸平](../Page/村上幸平.md "wikilink")
     日替嘉賓：
       -
         1月21日： 町井祥真
-        1月22日：[井上和彥](https://zh.wikipedia.org/wiki/井上和彥 "wikilink")、[壽美菜子](https://zh.wikipedia.org/wiki/壽美菜子 "wikilink")
-    神秘嘉賓（22日限定）：、[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")（[岐洲匠](https://zh.wikipedia.org/wiki/岐洲匠 "wikilink")、[岸洋佑](https://zh.wikipedia.org/wiki/岸洋佑 "wikilink")、[山崎大輝](https://zh.wikipedia.org/wiki/山崎大輝 "wikilink")、[大久保櫻子](https://zh.wikipedia.org/wiki/大久保櫻子 "wikilink")、[榊原徹士](https://zh.wikipedia.org/wiki/榊原徹士 "wikilink")）、齊藤秀翼、金城大和、森高愛、松本寬也
+        1月22日：[井上和彥](../Page/井上和彥.md "wikilink")、[壽美菜子](../Page/壽美菜子.md "wikilink")
+    神秘嘉賓（22日限定）：、[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")（[岐洲匠](../Page/岐洲匠.md "wikilink")、[岸洋佑](../Page/岸洋佑.md "wikilink")、[山崎大輝](../Page/山崎大輝.md "wikilink")、[大久保櫻子](../Page/大久保櫻子.md "wikilink")、[榊原徹士](../Page/榊原徹士.md "wikilink")）、齊藤秀翼、金城大和、森高愛、松本寬也
 
 <!-- end list -->
 
@@ -450,13 +450,13 @@ SHOW』是[日本](https://zh.wikipedia.org/wiki/日本 "wikilink")[特攝的](h
 <!-- end list -->
 
   -
-    假面騎士：[三浦大知](https://zh.wikipedia.org/wiki/三浦大知 "wikilink")、[大黑摩季](https://zh.wikipedia.org/wiki/大黑摩季 "wikilink")、鎧武乃風、、、[ISSA](https://zh.wikipedia.org/wiki/DA_PUMP "wikilink")、[相川七瀨](https://zh.wikipedia.org/wiki/相川七瀨 "wikilink")、[lol](https://zh.wikipedia.org/wiki/Lol_\(團體\) "wikilink")（戰隊日出演）
+    假面騎士：[三浦大知](../Page/三浦大知.md "wikilink")、[大黑摩季](../Page/大黑摩季.md "wikilink")、鎧武乃風、、、[ISSA](../Page/DA_PUMP.md "wikilink")、[相川七瀨](../Page/相川七瀨.md "wikilink")、[lol](../Page/Lol_\(團體\).md "wikilink")（戰隊日出演）
       -
         兩日出演：松岡充、RIDER CHIPS、假面騎士GIRLS
     超級戰隊：松原剛志、高橋秀幸、NoB、谷本貴義、鎌田章吾、PSYCHIC
     LOVER（YOFFY、IMAJO）、岩崎貴文、Z旗、Sister
     MAYO、五條真由美、桃井晴子、[Girls
-    Squad](https://zh.wikipedia.org/wiki/Girls_Squad "wikilink")（木下由美、菊地美香、[森田涼花](https://zh.wikipedia.org/wiki/森田涼花 "wikilink")、[桃瀨美咲](https://zh.wikipedia.org/wiki/桃瀨美咲 "wikilink")、）
+    Squad](https://zh.wikipedia.org/wiki/Girls_Squad "wikilink")（木下由美、菊地美香、[森田涼花](../Page/森田涼花.md "wikilink")、[桃瀨美咲](../Page/桃瀨美咲.md "wikilink")、）
       -
         兩日出演：伊勢大貴、大西洋平、高取秀明
 
@@ -554,13 +554,13 @@ SHOW』是[日本](https://zh.wikipedia.org/wiki/日本 "wikilink")[特攝的](h
 
   - 日期：2018年1月24日
   - 地點：日本武道館
-  - 演員：宇宙戰隊九連者、[假面騎士Build](https://zh.wikipedia.org/wiki/假面騎士Build "wikilink")
+  - 演員：宇宙戰隊九連者、[假面騎士Build](../Page/假面騎士Build.md "wikilink")
 
 <!-- end list -->
 
   -
     假面騎士：[犬飼貴丈](https://zh.wikipedia.org/wiki/:ja:犬飼貴丈 "wikilink")、[赤楚衛二](https://zh.wikipedia.org/wiki/:ja:赤楚衛二 "wikilink")、[高田夏帆](https://zh.wikipedia.org/wiki/:ja:高田夏帆 "wikilink")、[越智友己](https://zh.wikipedia.org/wiki/:ja:越智友己 "wikilink")、[滝裕可里](https://zh.wikipedia.org/wiki/:ja:滝裕可里 "wikilink")、[水上剣星](https://zh.wikipedia.org/wiki/:ja:水上剣星 "wikilink")、[武田航平](https://zh.wikipedia.org/wiki/:ja:武田航平 "wikilink")
-    超級戰隊：[岐洲匠](https://zh.wikipedia.org/wiki/岐洲匠 "wikilink")、[岸洋佑](https://zh.wikipedia.org/wiki/岸洋佑 "wikilink")、[山崎大輝](https://zh.wikipedia.org/wiki/山崎大輝 "wikilink")、[大久保櫻子](https://zh.wikipedia.org/wiki/大久保櫻子 "wikilink")、[榊原徹士](https://zh.wikipedia.org/wiki/榊原徹士 "wikilink")、[南圭介](https://zh.wikipedia.org/wiki/:ja:南圭介 "wikilink")、[田口翔大](https://zh.wikipedia.org/wiki/:ja:田口翔大 "wikilink")\[5\]、[小野友樹](https://zh.wikipedia.org/wiki/小野友樹 "wikilink")、[神谷浩史](https://zh.wikipedia.org/wiki/神谷浩史 "wikilink")、[中井和哉](https://zh.wikipedia.org/wiki/中井和哉 "wikilink")、[大塚明夫](https://zh.wikipedia.org/wiki/大塚明夫 "wikilink")、[M.A.O](https://zh.wikipedia.org/wiki/市道真央 "wikilink")
+    超級戰隊：[岐洲匠](../Page/岐洲匠.md "wikilink")、[岸洋佑](../Page/岸洋佑.md "wikilink")、[山崎大輝](../Page/山崎大輝.md "wikilink")、[大久保櫻子](../Page/大久保櫻子.md "wikilink")、[榊原徹士](../Page/榊原徹士.md "wikilink")、[南圭介](https://zh.wikipedia.org/wiki/:ja:南圭介 "wikilink")、[田口翔大](https://zh.wikipedia.org/wiki/:ja:田口翔大 "wikilink")\[5\]、[小野友樹](../Page/小野友樹.md "wikilink")、[神谷浩史](../Page/神谷浩史.md "wikilink")、[中井和哉](../Page/中井和哉.md "wikilink")、[大塚明夫](../Page/大塚明夫.md "wikilink")、[M.A.O](../Page/市道真央.md "wikilink")
     神秘嘉賓：吉田達彥、吉田仁美
 
 <!-- end list -->
@@ -718,13 +718,13 @@ SHOW』是[日本](https://zh.wikipedia.org/wiki/日本 "wikilink")[特攝的](h
 
   - 日期：2019年1月23日
   - 地點：日本武道館
-  - 演員：[快盜戰隊魯邦連者VS警察戰隊巡邏連者](https://zh.wikipedia.org/wiki/快盜戰隊魯邦連者VS警察戰隊巡邏連者 "wikilink")、[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")
+  - 演員：[快盜戰隊魯邦連者VS警察戰隊巡邏連者](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者.md "wikilink")、[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")
 
 <!-- end list -->
 
   -
-    假面騎士：[奧野壯](https://zh.wikipedia.org/wiki/:ja:奥野壮 "wikilink")、[押田岳](https://zh.wikipedia.org/wiki/:ja:押田岳 "wikilink")、[大幡詩繪理](https://zh.wikipedia.org/wiki/:ja:大幡しえり "wikilink")、[渡邊圭祐](https://zh.wikipedia.org/wiki/:ja:渡邊圭祐 "wikilink")、[板垣李光人](https://zh.wikipedia.org/wiki/:ja:板垣李光人 "wikilink")、[紺野彩夏](https://zh.wikipedia.org/wiki/:ja:紺野彩夏 "wikilink")、[兼崎健太郎](https://zh.wikipedia.org/wiki/兼崎健太郎 "wikilink")
-    超級戰隊：[伊藤旭輝](https://zh.wikipedia.org/wiki/:ja:伊藤あさひ "wikilink")、[濱正悟](https://zh.wikipedia.org/wiki/:ja:濱正悟 "wikilink")、[工藤遙](https://zh.wikipedia.org/wiki/工藤遙 "wikilink")、[結木滉星](https://zh.wikipedia.org/wiki/:ja:結木滉星 "wikilink")、[横山涼](https://zh.wikipedia.org/wiki/:ja:横山涼 "wikilink")、[奧山和紗](https://zh.wikipedia.org/wiki/:ja:奥山かずさ "wikilink")、[元木聖也](https://zh.wikipedia.org/wiki/:ja:元木聖也 "wikilink")
+    假面騎士：[奧野壯](https://zh.wikipedia.org/wiki/:ja:奥野壮 "wikilink")、[押田岳](https://zh.wikipedia.org/wiki/:ja:押田岳 "wikilink")、[大幡詩繪理](https://zh.wikipedia.org/wiki/:ja:大幡しえり "wikilink")、[渡邊圭祐](https://zh.wikipedia.org/wiki/:ja:渡邊圭祐 "wikilink")、[板垣李光人](https://zh.wikipedia.org/wiki/:ja:板垣李光人 "wikilink")、[紺野彩夏](https://zh.wikipedia.org/wiki/:ja:紺野彩夏 "wikilink")、[兼崎健太郎](../Page/兼崎健太郎.md "wikilink")
+    超級戰隊：[伊藤旭輝](https://zh.wikipedia.org/wiki/:ja:伊藤あさひ "wikilink")、[濱正悟](https://zh.wikipedia.org/wiki/:ja:濱正悟 "wikilink")、[工藤遙](../Page/工藤遙.md "wikilink")、[結木滉星](https://zh.wikipedia.org/wiki/:ja:結木滉星 "wikilink")、[横山涼](https://zh.wikipedia.org/wiki/:ja:横山涼 "wikilink")、[奧山和紗](https://zh.wikipedia.org/wiki/:ja:奥山かずさ "wikilink")、[元木聖也](https://zh.wikipedia.org/wiki/:ja:元木聖也 "wikilink")
     神秘嘉賓：
 
 <!-- end list -->
@@ -893,4 +893,4 @@ SHOW』是[日本](https://zh.wikipedia.org/wiki/日本 "wikilink")[特攝的](h
 3.  [山本康平BLOG](http://gree.jp/yamamoto_kohei/blog/entry/677350813/)
 4.  [姜暢雄BLOG](http://ameblo.jp/kyo-nobuo/entry-11750901760.html/)
 5.  因為日本法律對於童星(子供役)的勞動時間有嚴格的規定，因此在表演中途就先行離開了
-6.  PANDORA：[小室哲哉](https://zh.wikipedia.org/wiki/小室哲哉 "wikilink")、[淺倉大介](https://zh.wikipedia.org/wiki/淺倉大介 "wikilink")
+6.  PANDORA：[小室哲哉](../Page/小室哲哉.md "wikilink")、[淺倉大介](https://zh.wikipedia.org/wiki/淺倉大介 "wikilink")

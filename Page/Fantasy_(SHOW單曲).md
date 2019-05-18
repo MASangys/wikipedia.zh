@@ -5,10 +5,10 @@
 1.  Fantasy
       - 作曲：、、、[Johan
         Alkenäs](https://zh.wikipedia.org/wiki/Johan_Alkenäs "wikilink")，作詞：[河合代介](https://zh.wikipedia.org/wiki/河合代介 "wikilink")，編曲：[陳信安](../Page/小安.md "wikilink")，監製：[鎌田匡人](https://zh.wikipedia.org/wiki/鎌田匡人 "wikilink")
-      - 《[獅子吼](https://zh.wikipedia.org/wiki/獅子吼 "wikilink")》專輯主打歌《愛投羅網》的日語版本。
+      - 《[獅子吼](../Page/獅子吼.md "wikilink")》專輯主打歌《愛投羅網》的日語版本。
 2.  Beautiful Girl
       - 作曲：[都智文](https://zh.wikipedia.org/wiki/都智文 "wikilink")，作詞：，編曲：[梁思樺](https://zh.wikipedia.org/wiki/梁思樺 "wikilink")，監製：鎌田匡人
-      - 《[獅子吼](https://zh.wikipedia.org/wiki/獅子吼 "wikilink")》專輯主打歌《我的皇后》的日語版本。
+      - 《[獅子吼](../Page/獅子吼.md "wikilink")》專輯主打歌《我的皇后》的日語版本。
 3.  Fantasy（Instrumental）
       - 只收錄在通常盤。
       - 作曲：Drew Ryan Scott、Joacim Persson、Niclas Molinder、Johan
@@ -27,9 +27,9 @@
 
 ## 音樂錄影帶
 
-| 歌名                                                    | 執導                                                  | 首播日期       | 頻道      | 附註                                                                                                                                                                                                                                                                |
-| ----------------------------------------------------- | --------------------------------------------------- | ---------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Fantasy](http://www.youtube.com/watch?v=ab5pSFnGD3Q) | [張時霖](https://zh.wikipedia.org/wiki/張時霖 "wikilink") | 2014年1月22日 | Youtube | （除歌詞[對嘴畫面外](https://zh.wikipedia.org/wiki/對嘴 "wikilink")，其他部分與中文版本相同）與南韓女子團體[Brown Eyed Girls成員](../Page/Brown_Eyed_Girls.md "wikilink")[孫佳人合作](https://zh.wikipedia.org/wiki/孫佳人 "wikilink")，並由[郭志達擔任MV的美術設計](https://zh.wikipedia.org/wiki/郭志達 "wikilink")\[5\] |
+| 歌名                                                    | 執導                                                  | 首播日期       | 頻道      | 附註                                                                                                                                                                                                                                             |
+| ----------------------------------------------------- | --------------------------------------------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Fantasy](http://www.youtube.com/watch?v=ab5pSFnGD3Q) | [張時霖](https://zh.wikipedia.org/wiki/張時霖 "wikilink") | 2014年1月22日 | Youtube | （除歌詞[對嘴畫面外](https://zh.wikipedia.org/wiki/對嘴 "wikilink")，其他部分與中文版本相同）與南韓女子團體[Brown Eyed Girls成員](../Page/Brown_Eyed_Girls.md "wikilink")[孫佳人合作](https://zh.wikipedia.org/wiki/孫佳人 "wikilink")，並由[郭志達擔任MV的美術設計](../Page/郭志達.md "wikilink")\[5\] |
 
 ## 銷售榜單成績
 

@@ -16,7 +16,7 @@ DIT型的中冷器和[EJ族一樣為上置式設計](../Page/速霸陸EJ族引�
 6,400-6,600rpm。2016年7月5日日規版小改款之際，原廠改良其引擎本體與進排氣系統，並強化[汽缸蓋與](https://zh.wikipedia.org/wiki/汽缸蓋 "wikilink")[汽缸本體接合部位的剛性](../Page/汽缸本體.md "wikilink")，使得最大馬力達207ps
 / 7,000rpm、扭力峰值21.6kg・m / 6,400-6,800rpm\[1\]。車型：
 
-1.  2012年迄今：[速霸陸BRZ](https://zh.wikipedia.org/wiki/速霸陸BRZ "wikilink")
+1.  2012年迄今：[速霸陸BRZ](../Page/速霸陸BRZ.md "wikilink")
 2.  2012年迄今：[豐田86](../Page/豐田86.md "wikilink")
 3.  2012年迄今：[賽昂FR-S](https://zh.wikipedia.org/wiki/賽昂FR-S "wikilink")（部分目錄採取豐田汽車的引擎命名，而稱為「4U-GSE型」）
 
@@ -40,7 +40,7 @@ DIT型**為「FA20T」，不過這並非官方正式名稱。此具引擎的規�
 
 ## 內部連結
 
-  - [速霸陸引擎列表](https://zh.wikipedia.org/wiki/速霸陸引擎列表 "wikilink")
+  - [速霸陸引擎列表](../Page/速霸陸引擎列表.md "wikilink")
   - [水平對臥引擎](../Page/水平對臥引擎.md "wikilink")
   - [水平對臥四缸引擎](../Page/水平對臥四缸引擎.md "wikilink")
 

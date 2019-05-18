@@ -1,5 +1,5 @@
 **《Red
-Light》**是[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[f(x)的第三張正規專輯](../Page/f\(x\)_\(組合\).md "wikilink")。於2014年7月7日發行。唱片公司為[SM
+Light》**是[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[f(x)的第三張正規專輯](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")。於2014年7月7日發行。唱片公司為[SM
 Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。
 
 ## 「Red Light」

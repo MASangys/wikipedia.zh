@@ -1,7 +1,7 @@
 **Box 公司**（又稱 Box.com， 前身為 Box.net）是一個線上文件共享以及雲端內容管理服務平台。行動版的服務，可用於
 [Android](../Page/Android.md "wikilink")
 、[BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")、
-[iOS](../Page/iOS.md "wikilink") 、
+[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") 、
 [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink") 以及 [Windows
 Phone](../Page/Windows_Phone.md "wikilink")
 上的手機\[1\]。公司總部設在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[紅木城](../Page/紅木城.md "wikilink")。Box

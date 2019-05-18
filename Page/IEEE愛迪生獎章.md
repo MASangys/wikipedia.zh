@@ -5,7 +5,7 @@ IEEE愛迪生獎章得名於發明家[湯瑪斯·愛迪生](https://zh.wikipedia
 1963年，無線電工程師學會（IRE）和美國電氣工程師協會（AIEE）合併為電機電子工程師學會（IEEE）之後，[IEEE榮譽獎章成為了最高榮譽](../Page/IEEE榮譽獎章.md "wikilink")，IEEE愛迪生獎章則是
 IEEE的主要獎項。
 
-截至2014年，只有2名IEEE愛迪生獎章得主也獲得了[諾貝爾物理學獎](https://zh.wikipedia.org/wiki/諾貝爾物理學獎 "wikilink")，他們是：[羅伯特·密立根](https://zh.wikipedia.org/wiki/羅伯特·密立根 "wikilink")（1923年）、[赤崎勇](https://zh.wikipedia.org/wiki/赤崎勇 "wikilink")（2014年）。
+截至2014年，只有2名IEEE愛迪生獎章得主也獲得了[諾貝爾物理學獎](https://zh.wikipedia.org/wiki/諾貝爾物理學獎 "wikilink")，他們是：[羅伯特·密立根](https://zh.wikipedia.org/wiki/羅伯特·密立根 "wikilink")（1923年）、[赤崎勇](../Page/赤崎勇.md "wikilink")（2014年）。
 
 ## 獲獎者
 
@@ -113,7 +113,7 @@ IEEE的主要獎項。
   - 1997:
   - 1998:
   - 1999:
-  - 2000: [西澤潤一](https://zh.wikipedia.org/wiki/西澤潤一 "wikilink")
+  - 2000: [西澤潤一](../Page/西澤潤一.md "wikilink")
   - 2001: [羅伯特·丹納德](../Page/羅伯特·丹納德.md "wikilink")
   - 2002:
   - 2003: 未授獎
@@ -125,7 +125,7 @@ IEEE的主要獎項。
   - 2009: [厲鼎毅](https://zh.wikipedia.org/wiki/厲鼎毅 "wikilink")
   - 2010: [雷·杜比](../Page/雷·杜比.md "wikilink")
   - 2011:
-    [赤崎勇](https://zh.wikipedia.org/wiki/赤崎勇 "wikilink")[Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")
+    [赤崎勇](../Page/赤崎勇.md "wikilink")[Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")
   - 2012:
   - 2013:
   - 2014: [拉爾夫·貝爾](https://zh.wikipedia.org/wiki/拉爾夫·貝爾 "wikilink")
@@ -143,12 +143,12 @@ IEEE的主要獎項。
 
   - [IEEE約翰·馮·諾伊曼獎章](../Page/约翰·冯诺依曼奖.md "wikilink")
 
-  - [IEEE理察·衛斯里·漢明獎章](https://zh.wikipedia.org/wiki/IEEE理察·衛斯里·漢明獎章 "wikilink")
+  - [IEEE理察·衛斯里·漢明獎章](../Page/IEEE理察·衛斯里·漢明獎章.md "wikilink")
 
   -
-  - [IEEE西澤潤一獎](https://zh.wikipedia.org/wiki/IEEE西澤潤一獎 "wikilink")
+  - [IEEE西澤潤一獎](../Page/IEEE西澤潤一獎.md "wikilink")
 
-  - [馬可尼獎](https://zh.wikipedia.org/wiki/馬可尼獎 "wikilink")
+  - [馬可尼獎](../Page/馬可尼獎.md "wikilink")
 
 ## 參考資料
 

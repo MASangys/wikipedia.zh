@@ -3,7 +3,7 @@
 
 DBC數碼電台最初由[香港](../Page/香港.md "wikilink")[名嘴](../Page/名嘴.md "wikilink")、前[立法會議員](https://zh.wikipedia.org/wiki/立法會議員 "wikilink")[鄭經翰創辦及兼任台長](../Page/鄭經翰.md "wikilink")。現時大股東[港區全國政協委員](https://zh.wikipedia.org/wiki/政協 "wikilink")[黃楚標](../Page/黃楚標.md "wikilink")，董事會主席[李國章](../Page/李國章.md "wikilink")[教授](../Page/教授.md "wikilink")、董事[李少光](../Page/李少光.md "wikilink")、[彭玉榮](https://zh.wikipedia.org/wiki/彭玉榮 "wikilink")，行政總裁[羅燦](https://zh.wikipedia.org/wiki/羅燦 "wikilink")\[1\]。
 
-電台曾於2012年10月至2013年1月期間停播，引發[香港數碼廣播停播風波](../Page/香港數碼廣播停播風波.md "wikilink")，於2013年1月28日復播後，由[麥潤壽接棒成為台長](../Page/麥潤壽.md "wikilink")，7條頻道中，[數碼一台](../Page/數碼一台.md "wikilink")、[數碼二台及](https://zh.wikipedia.org/wiki/數碼二台 "wikilink")[數碼五台提供節目](../Page/數碼五台.md "wikilink")，四條頻道播放類型不同歌曲及音樂\[2\]。2013年9月16日DBC數碼電台七條頻道重新整合，並且分別命名為：「**旗艦台**」（[數碼一台](../Page/數碼一台.md "wikilink")）、「**新聞台**」（[數碼二台](https://zh.wikipedia.org/wiki/數碼二台 "wikilink")）、「**財經台**」（[數碼三台](../Page/數碼三台.md "wikilink")）、「**校園台**」（[數碼四台](https://zh.wikipedia.org/wiki/數碼四台 "wikilink")）、「**笑融台**」（[數碼五台](../Page/數碼五台.md "wikilink")）、「**音樂台**」（[數碼六台](../Page/數碼六台.md "wikilink")）及「**戲曲台**」（[數碼七台](../Page/數碼七台.md "wikilink")），各台並設有即場[DJ直播節目](https://zh.wikipedia.org/wiki/DJ "wikilink")\[3\]，並於同年12月20日舉行頻道正式廣播典禮。\[4\]。
+電台曾於2012年10月至2013年1月期間停播，引發[香港數碼廣播停播風波](../Page/香港數碼廣播停播風波.md "wikilink")，於2013年1月28日復播後，由[麥潤壽接棒成為台長](../Page/麥潤壽.md "wikilink")，7條頻道中，[數碼一台](../Page/數碼一台.md "wikilink")、[數碼二台及](https://zh.wikipedia.org/wiki/數碼二台 "wikilink")[數碼五台提供節目](../Page/數碼五台.md "wikilink")，四條頻道播放類型不同歌曲及音樂\[2\]。2013年9月16日DBC數碼電台七條頻道重新整合，並且分別命名為：「**旗艦台**」（[數碼一台](../Page/數碼一台.md "wikilink")）、「**新聞台**」（[數碼二台](https://zh.wikipedia.org/wiki/數碼二台 "wikilink")）、「**財經台**」（[數碼三台](../Page/數碼三台.md "wikilink")）、「**校園台**」（[數碼四台](../Page/數碼四台.md "wikilink")）、「**笑融台**」（[數碼五台](../Page/數碼五台.md "wikilink")）、「**音樂台**」（[數碼六台](../Page/數碼六台.md "wikilink")）及「**戲曲台**」（[數碼七台](../Page/數碼七台.md "wikilink")），各台並設有即場[DJ直播節目](https://zh.wikipedia.org/wiki/DJ "wikilink")\[3\]，並於同年12月20日舉行頻道正式廣播典禮。\[4\]。
 
 2016年8月8日，電台宣佈由於香港數碼聲音廣播業務發展步伐未如理想，公司業務得不到廣告的支持，經股東及董事會議決，在同日早上知會政府交還聲音廣播牌照，而大部分員工將服務至9月7日，電台將按照牌照繼續安排廣播至局方批准停止服務為止。同年10月11日，行政長官會同行政會議（行會）批准，由10月15日起終止香港數碼廣播的數碼廣播牌照，同時電台停播\[5\]。
 
@@ -188,7 +188,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 
 8月8日，DBC數碼電台早上知會政府交還數碼聲音廣播牌照，表示由於本港數碼聲音廣播業務發展步伐未如理想，公司業務得不到廣告的支持，經股東及董事會議決交還聲音廣播牌照，而大部分員工將服務至9月7日。
 
-9月8日開始，經通訊局批准，DBC數碼電台所有頻道改為重播過往電台節目或播放音樂，其七條頻道都不會播放政府宣傳聲帶及通訊局宣傳材料\[39\]。而播放安排為[一台旗艦台](../Page/數碼一台.md "wikilink")、[三台財經台聯播](../Page/數碼三台.md "wikilink")，[二台me2獨立播放](../Page/DBC_me2.md "wikilink")，[四台華語歌曲台](https://zh.wikipedia.org/wiki/數碼四台 "wikilink")、[五台笑融台](../Page/數碼五台.md "wikilink")、[六台音樂台](../Page/數碼六台.md "wikilink")、[七台戲曲台聯播](../Page/數碼七台.md "wikilink")，電台將按照牌照繼續安排廣播至局方批准停止服務為止。網頁方面，以往的新聞財經版面以及視像直播等被移除，只保留節目表、DBC博客、聲音直播及過往節目重溫等頁面。同日起dbcTV1及dbcTV3暫停服務。
+9月8日開始，經通訊局批准，DBC數碼電台所有頻道改為重播過往電台節目或播放音樂，其七條頻道都不會播放政府宣傳聲帶及通訊局宣傳材料\[39\]。而播放安排為[一台旗艦台](../Page/數碼一台.md "wikilink")、[三台財經台聯播](../Page/數碼三台.md "wikilink")，[二台me2獨立播放](../Page/DBC_me2.md "wikilink")，[四台華語歌曲台](../Page/數碼四台.md "wikilink")、[五台笑融台](../Page/數碼五台.md "wikilink")、[六台音樂台](../Page/數碼六台.md "wikilink")、[七台戲曲台聯播](../Page/數碼七台.md "wikilink")，電台將按照牌照繼續安排廣播至局方批准停止服務為止。網頁方面，以往的新聞財經版面以及視像直播等被移除，只保留節目表、DBC博客、聲音直播及過往節目重溫等頁面。同日起dbcTV1及dbcTV3暫停服務。
 
 ## 爭議
 
@@ -256,7 +256,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
   - 贏盡油、金、股、輪、匯、債、樓
   - 廣東話財經頻道。每逢港股交易日追蹤香港股市實況，時刻留意衍生工具市場最新動態，更提供美股、外匯、商品、樓市、窩輪、牛熊證、期指、期權等不同範疇的行情資訊，讓聽眾掌握第一手資料，贏在當前，賺之有道。
 
-### [數碼四台華語歌曲台](https://zh.wikipedia.org/wiki/數碼四台 "wikilink")
+### [數碼四台華語歌曲台](../Page/數碼四台.md "wikilink")
 
   - 選台號碼：04
   - [DBC 4](https://web.archive.org/web/20140729202908/http://www.dbc.hk/radio4)
@@ -326,7 +326,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 <td><p><a href="https://zh.wikipedia.org/wiki/馮振超" title="wikilink">馮振超</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/早晨八達通" title="wikilink">早晨八達通</a>》</p></td>
 <td></td>
-<td><p>兼任<a href="../Page/now新聞台.md" title="wikilink">now新聞台</a><a href="../Page/now新聞台.md" title="wikilink">時事全方位節目主持</a>、免費報章<a href="../Page/am730.md" title="wikilink">am730副社長</a></p></td>
+<td><p>兼任<a href="https://zh.wikipedia.org/wiki/now新聞台" title="wikilink">now新聞台</a><a href="https://zh.wikipedia.org/wiki/now新聞台" title="wikilink">時事全方位節目主持</a>、免費報章<a href="https://zh.wikipedia.org/wiki/am730" title="wikilink">am730副社長</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/盧覓雪.md" title="wikilink">盧覓雪</a></p></td>
@@ -360,7 +360,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 </tr>
 <tr class="even">
 <td><p><a href="../Page/江美儀.md" title="wikilink">江美儀</a></p></td>
-<td><p>《<a href="../Page/大家真風騷.md" title="wikilink">大家真風騷</a>》、《<a href="https://zh.wikipedia.org/wiki/李居明妙論天下" title="wikilink">李居明妙論天下第二季</a>》</p></td>
+<td><p>《<a href="../Page/大家真風騷.md" title="wikilink">大家真風騷</a>》、《<a href="../Page/李居明妙論天下.md" title="wikilink">李居明妙論天下第二季</a>》</p></td>
 <td><p><a href="../Page/香港電台.md" title="wikilink">香港電台</a><a href="../Page/香港電台第二台.md" title="wikilink">第二台</a>《<a href="../Page/瘋show快活人.md" title="wikilink">瘋show快活人</a>》、DBC《<a href="https://zh.wikipedia.org/wiki/女皇頭_老襯底" title="wikilink">女皇頭 老襯底</a>》</p></td>
 <td><p>兼職<a href="https://zh.wikipedia.org/wiki/無綫電視" title="wikilink">無綫電視</a></p></td>
 </tr>
@@ -844,7 +844,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李慧芬" title="wikilink">李慧芬</a></p></td>
+<td><p><a href="../Page/李慧芬.md" title="wikilink">李慧芬</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/國金交易所" title="wikilink">國金交易所</a>》</p></td>
 <td></td>
 <td></td>

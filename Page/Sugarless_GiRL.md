@@ -4,7 +4,7 @@ GiRL**》是日本音樂組合[CAPSULE所推出的第](../Page/CAPSULE.md "wikil
 ## 概要
 
   - 距離前作「[FRUITS
-    CLiPPER](https://zh.wikipedia.org/wiki/FRUITS_CLiPPER "wikilink")」發行約10個月的原創專輯。
+    CLiPPER](../Page/FRUITS_CLiPPER.md "wikilink")」發行約10個月的原創專輯。
   - 製作了專輯同名主打曲「Sugarless GiRL」的PV，其後在精選輯「[FLASH
     BEST](../Page/FLASH_BEST.md "wikilink")」的DVD中被收錄了。
   - 專輯未收錄曲「star sniper」在iTunes上作為Bonus Track限定配信。

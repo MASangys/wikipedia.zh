@@ -90,7 +90,7 @@
 </tr>
 <tr class="even">
 <td><p>09</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盛夏光年_(歌曲)" title="wikilink">盛夏光年</a></p></td>
+<td><p><a href="../Page/盛夏光年_(歌曲).md" title="wikilink">盛夏光年</a></p></td>
 <td><p>五月天</p></td>
 <td><p>阿信</p></td>
 <td><p>阿信</p></td>
@@ -248,7 +248,7 @@
 </tr>
 <tr class="odd">
 <td><p>26</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/傷心的人別聽慢歌（貫徹快樂）" title="wikilink">傷心的人別聽慢歌（貫徹快樂）</a></p></td>
+<td><p><a href="../Page/傷心的人別聽慢歌（貫徹快樂）.md" title="wikilink">傷心的人別聽慢歌（貫徹快樂）</a></p></td>
 <td><p>五月天</p></td>
 <td><p>阿信</p></td>
 <td><p>阿信</p></td>

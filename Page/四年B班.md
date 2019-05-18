@@ -1,4 +1,4 @@
-《**四年B班**》（）是[香港電視網絡所製作的清新校園小品](../Page/香港電視網絡.md "wikilink")。此劇以[野田直希](https://zh.wikipedia.org/wiki/野田直希 "wikilink")、[張嘉晉](https://zh.wikipedia.org/wiki/張嘉晉 "wikilink")、[林淑銦](https://zh.wikipedia.org/wiki/林淑銦 "wikilink")、[羅昊康](https://zh.wikipedia.org/wiki/羅昊康 "wikilink")、[朱崇熙等小學生做主角](https://zh.wikipedia.org/wiki/朱崇熙 "wikilink")，連同飾演校園裡的學生的數十小演員及飾演老師的[陳宇琛](../Page/陳宇琛.md "wikilink")、[蔣祖曼](https://zh.wikipedia.org/wiki/蔣祖曼 "wikilink")、[郭鋒及](../Page/郭鋒_\(演員\).md "wikilink")[梁寶琪等演員主演](../Page/梁寶琪.md "wikilink")。\[1\]
+《**四年B班**》（）是[香港電視網絡所製作的清新校園小品](../Page/香港電視網絡.md "wikilink")。此劇以[野田直希](https://zh.wikipedia.org/wiki/野田直希 "wikilink")、[張嘉晉](https://zh.wikipedia.org/wiki/張嘉晉 "wikilink")、[林淑銦](https://zh.wikipedia.org/wiki/林淑銦 "wikilink")、[羅昊康](https://zh.wikipedia.org/wiki/羅昊康 "wikilink")、[朱崇熙等小學生做主角](https://zh.wikipedia.org/wiki/朱崇熙 "wikilink")，連同飾演校園裡的學生的數十小演員及飾演老師的[陳宇琛](../Page/陳宇琛.md "wikilink")、[蔣祖曼](../Page/蔣祖曼.md "wikilink")、[郭鋒及](../Page/郭鋒_\(演員\).md "wikilink")[梁寶琪等演員主演](../Page/梁寶琪.md "wikilink")。\[1\]
 
 ## 沿革
 
@@ -46,7 +46,7 @@
 討厭吃青椒及紅蘿蔔，因此將4B班學生的飯單用作墊枱</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/蔣祖曼" title="wikilink">蔣祖曼</a></strong></p></td>
+<td><p><strong><a href="../Page/蔣祖曼.md" title="wikilink">蔣祖曼</a></strong></p></td>
 <td><p><strong>謝　瑛</strong></p></td>
 <td><p><strong>謝主任</strong><br />
 訓導主任<br />
@@ -72,7 +72,7 @@
 起初對蒲卓健沒有好感，後改觀</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/呂熙" title="wikilink">呂　熙</a></strong></p></td>
+<td><p><strong><a href="../Page/呂熙.md" title="wikilink">呂　熙</a></strong></p></td>
 <td><p><strong>周文森</strong></p></td>
 <td><p><strong>周Sir</strong><br />
 體育老師<br />
@@ -105,7 +105,7 @@
 （特別客串演出）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
+<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
 <td><p>馬永雄</p></td>
 <td><p><strong>雄叔</strong><br />
 校工<br />
@@ -318,7 +318,7 @@
 | [關　葇](https://zh.wikipedia.org/wiki/關葇 "wikilink")         |            |           |
 | [英子慧](https://zh.wikipedia.org/wiki/英子慧 "wikilink")        |            |           |
 | [黃承康](https://zh.wikipedia.org/wiki/黃承康 "wikilink")        |            |           |
-| [陳冠宏](https://zh.wikipedia.org/wiki/陳冠宏 "wikilink")        |            |           |
+| [陳冠宏](../Page/陳冠宏.md "wikilink")                           |            |           |
 | [賴卓瑤](https://zh.wikipedia.org/wiki/賴卓瑤 "wikilink")        |            |           |
 | [黃璟熙](https://zh.wikipedia.org/wiki/黃璟熙 "wikilink")        |            |           |
 | [陳暐珩](https://zh.wikipedia.org/wiki/陳暐珩 "wikilink")        |            |           |
@@ -348,7 +348,7 @@
 於便服日忘記給兒子穿上便服而令他受恥笑</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/錢悅" title="wikilink">錢　悅</a></p></td>
+<td><p><a href="../Page/錢悅.md" title="wikilink">錢　悅</a></p></td>
 <td></td>
 <td><p>陳家軒之妹</p></td>
 </tr>
@@ -388,7 +388,7 @@
 
 ## 提名及獎項
 
-### [觀眾在民間電視大奬](https://zh.wikipedia.org/wiki/觀眾在民間電視大奬 "wikilink")2018
+### [觀眾在民間電視大奬](../Page/觀眾在民間電視大奬.md "wikilink")2018
 
 此劇於2018年於[香港開電視播出](../Page/香港開電視.md "wikilink")，故可獲提名資格，惟未能入圍各個獎項的最終候選名單。
 

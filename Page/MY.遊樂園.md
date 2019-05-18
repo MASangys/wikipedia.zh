@@ -47,8 +47,8 @@ Mr Mars<br />
 <tr class="even">
 <td><p>03</p></td>
 <td><p><a href="http://www.youtube.com/watch?v=g5MrLmu_pvU">傻呆呆</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/刘永辉" title="wikilink">刘永辉</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/刘永辉" title="wikilink">刘永辉</a></p></td>
+<td><p><a href="../Page/刘永辉.md" title="wikilink">刘永辉</a></p></td>
+<td><p><a href="../Page/刘永辉.md" title="wikilink">刘永辉</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -138,7 +138,7 @@ KLIMPEL, BERND</p></td>
 |width=14.2% align=center|**第四張專輯
 [90'鬧Now](../Page/90'鬧Now.md "wikilink")**
 |width=14.2% align=center|**第五個作品
-[2020愛你愛妳](https://zh.wikipedia.org/wiki/2020愛你愛妳 "wikilink")
+[2020愛你愛妳](../Page/2020愛你愛妳.md "wikilink")
 寫真 + EP**
 |width=14.2% align=center|**第五張專輯
 **MY.遊樂園***'

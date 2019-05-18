@@ -1,19 +1,19 @@
 「**Love Story**」是歌手[EXILE
-TAKAHIRO的第](../Page/TAKAHIRO.md "wikilink")2張單曲，於2014年3月5日發售。
+TAKAHIRO的第](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")2張單曲，於2014年3月5日發售。
 
 ## 解說
 
-  - 與前作「[一千零一秒](https://zh.wikipedia.org/wiki/一千零一秒 "wikilink")」相隔約9個月的新作，以「CD+DVD」、「CD
+  - 與前作「[一千零一秒](../Page/一千零一秒.md "wikilink")」相隔約9個月的新作，以「CD+DVD」、「CD
     ONLY」兩版本發售。
   - 標題曲「**Love
-    Story**」為TAKAHIRO演員出道參演的[日本電視台連續劇](../Page/日本電視台.md "wikilink")「[戰力外搜查官](https://zh.wikipedia.org/wiki/戰力外搜查官 "wikilink")」的主題曲\[1\]。
+    Story**」為TAKAHIRO演員出道參演的[日本電視台連續劇](../Page/日本電視台.md "wikilink")「[戰力外搜查官](../Page/戰力外搜查官.md "wikilink")」的主題曲\[1\]。
   - 「**Love
-    Story**」的音樂錄影帶內容以TAKAHIRO"私人的一面"為主題、反映他日常的生活電影的作品。TAKAHIRO也因此帶了他的結他跟衝浪板等私人物品，與他的真實好友一同出演。在音樂錄影帶中，能夠看到他與好友開懷暢飲，以及跟愛犬嬉戲的輕鬆樣子\[2\]。音樂錄影帶的映像於2月18日於[Youtube上公開](../Page/Youtube.md "wikilink")。
+    Story**」的音樂錄影帶內容以TAKAHIRO"私人的一面"為主題、反映他日常的生活電影的作品。TAKAHIRO也因此帶了他的結他跟衝浪板等私人物品，與他的真實好友一同出演。在音樂錄影帶中，能夠看到他與好友開懷暢飲，以及跟愛犬嬉戲的輕鬆樣子\[2\]。音樂錄影帶的映像於2月18日於[Youtube上公開](https://zh.wikipedia.org/wiki/Youtube "wikilink")。
   - 本作收錄所有樂曲皆由TAKAHIRO填詞，而於c/w曲「**Feeling**」更首次參與作曲與編曲工作\[3\]。
 
 ## 收錄曲
 
-全作詞：[TAKAHIRO](../Page/TAKAHIRO.md "wikilink")
+全作詞：[TAKAHIRO](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")
 
 **CD**
 
@@ -21,7 +21,7 @@ TAKAHIRO的第](../Page/TAKAHIRO.md "wikilink")2張單曲，於2014年3月5日�
       -
         作曲・編曲：COZZi
     <!-- end list -->
-      - 日本電視台連續劇「[戰力外搜查官](https://zh.wikipedia.org/wiki/戰力外搜查官 "wikilink")」主題歌
+      - 日本電視台連續劇「[戰力外搜查官](../Page/戰力外搜查官.md "wikilink")」主題歌
       - Samantha Thavasa meets SAMANTHA KINGZ「カバンの中に、恋をおひとつ。」電視廣告曲
 2.  **Feelings**
       -

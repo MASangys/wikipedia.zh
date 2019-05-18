@@ -43,7 +43,7 @@ Fuck Brief*。 \[35\]\[36\]\[37\]
 
 美国政府的态度由律师迈克尔·恩格尔（）所阐述，他写道：“注册请求被拒是因为被注册的商标包含了不道德的内容。‘fucking’是一个具有冒犯性和粗俗的用来描述性交的词语...
 不道德的和具有丑闻性的商标……是不能被登记的”\[38\]\[39\]USPTO依据一条1905年的法律来拒绝商标注册\[40\]在此之前专利局以同样的理由已经拒绝了44个商标申请。\[41\]\[42\]
-带有[shit的商标申请被专利局拒绝了](https://zh.wikipedia.org/wiki/shit "wikilink")50次，带有[cunt的商标申请被专利局拒绝了一次](https://zh.wikipedia.org/wiki/cunt "wikilink")。\[43\]带有[ass的商标申请被专利局接受了](https://zh.wikipedia.org/wiki/屁股 "wikilink")135次，带有[bitch的商标申请也曾经被专利局批准过几次](../Page/bitch.md "wikilink")。\[44\]\[45\]
+带有[shit的商标申请被专利局拒绝了](https://zh.wikipedia.org/wiki/shit "wikilink")50次，带有[cunt的商标申请被专利局拒绝了一次](https://zh.wikipedia.org/wiki/cunt "wikilink")。\[43\]带有[ass的商标申请被专利局接受了](https://zh.wikipedia.org/wiki/屁股 "wikilink")135次，带有[bitch的商标申请也曾经被专利局批准过几次](https://zh.wikipedia.org/wiki/bitch "wikilink")。\[44\]\[45\]
 
 作为对专利局的回应，兰达扎写道：“专利局依据2(a)条例所作出的拒绝出格了。”\[46\]\[47\] 2(a)部分，15 USC
 §1052(a)法令禁止商标中出现“不道德，欺骗性或丑闻性的内容”\[48\]\[49\]

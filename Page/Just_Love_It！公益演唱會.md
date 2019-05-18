@@ -30,7 +30,7 @@ It！公益演唱會**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikil
 <td><p><a href="https://zh.wikipedia.org/wiki/國立台灣體育運動大學" title="wikilink">國立台灣體育運動大學</a><br />
 台中校址田徑場</p></td>
 <td><p>前任鼓手錢佑達<br />
-<a href="https://zh.wikipedia.org/wiki/台灣兒童暨家庭扶助基金會" title="wikilink">台灣兒童暨家庭扶助基金會</a>30名孩童<br />
+<a href="../Page/台灣兒童暨家庭扶助基金會.md" title="wikilink">台灣兒童暨家庭扶助基金會</a>30名孩童<br />
 <a href="../Page/蔡依林.md" title="wikilink">蔡依林</a><br />
 <a href="../Page/任賢齊.md" title="wikilink">任賢齊</a></p></td>
 <td><p>「不願讓你一個人」演唱會<br />

@@ -588,7 +588,7 @@ WINGS」與「BLUE EYE」兩隊，在共9个關卡中展開多種形式的對決
 <tr class="even">
 <td><p>2</p></td>
 <td><p>李允熙、金京日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我不怕" title="wikilink">Stronger (What Doesn't Kill You)</a> - <a href="../Page/凱莉·克萊森.md" title="wikilink">Kelly Clarkson</a></p></td>
+<td><p><a href="../Page/我不怕.md" title="wikilink">Stronger (What Doesn't Kill You)</a> - <a href="../Page/凱莉·克萊森.md" title="wikilink">Kelly Clarkson</a></p></td>
 <td><p>85</p></td>
 </tr>
 <tr class="odd">
@@ -625,7 +625,7 @@ WINGS」與「BLUE EYE」兩隊，在共9个關卡中展開多種形式的對決
 <td><p>5</p></td>
 <td><p>RED 9<br />
 （河輝東 編舞）</p></td>
-<td><p>- <a href="https://zh.wikipedia.org/wiki/DJ蛇王" title="wikilink">DJ Snake</a> &amp; <a href="https://zh.wikipedia.org/wiki/Lil_Jon" title="wikilink">Lil Jon</a></p></td>
+<td><p>- <a href="../Page/DJ蛇王.md" title="wikilink">DJ Snake</a> &amp; <a href="https://zh.wikipedia.org/wiki/Lil_Jon" title="wikilink">Lil Jon</a></p></td>
 <td><p>87</p></td>
 </tr>
 <tr class="odd">
@@ -857,7 +857,7 @@ WINGS」與「BLUE EYE」兩隊，在共9个關卡中展開多種形式的對決
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>申圭尚、金京日、尹那羅</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/舞力全開5_3D" title="wikilink">Demons</a> - </p></td>
+<td><p><a href="../Page/舞力全開5_3D.md" title="wikilink">Demons</a> - </p></td>
 </tr>
 <tr class="even">
 <td><p>任金星、李智恩、朴仁秀</p></td>

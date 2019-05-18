@@ -3,7 +3,7 @@
 Code)。可以简单的理解为该资源原本确实存在，但已经被**临时**改变了位置；换而言之，就是请求的资源暂时驻留在不同的URI下\[1\]，故而除非特别指定了缓存头部指示，该状态码不可缓存。
 
 对于服务器，通常会给浏览器发送[HTTP
-Location头部来重定向到新的新位置](https://zh.wikipedia.org/wiki/HTTP_Location "wikilink")。
+Location头部来重定向到新的新位置](../Page/HTTP_Location.md "wikilink")。
 
 ## 定义
 
@@ -64,7 +64,7 @@ Server的](../Page/Apache_HTTP_Server.md "wikilink")[.htaccess](https://zh.wikip
     RewriteCond %{SERVER_PORT} 80
     RewriteRule ^(.*)$ https://example.com/$1 [R,L]
 
-等价的 [NGINX](../Page/NGINX.md "wikilink") 配置方式：
+等价的 [NGINX](https://zh.wikipedia.org/wiki/NGINX "wikilink") 配置方式：
 
     location /old/url/ {
         return 302 /new/url;
@@ -86,18 +86,17 @@ exit();
 [303响应](../Page/HTTP_303.md "wikilink") ，并且径自使用 GET 方式访问在 Location
 中规定的 URI，而无视原先请求的方法，这是不规范的实现。\[5\]
 
-因此状态码303和[307被添加了进来](https://zh.wikipedia.org/wiki/HTTP_307 "wikilink")，用以明确服务器期待客户端进行何种反应。\[6\]
+因此状态码303和[307被添加了进来](../Page/HTTP_307.md "wikilink")，用以明确服务器期待客户端进行何种反应。\[6\]
 
 ## 相關條目
 
   - [.htaccess](https://zh.wikipedia.org/wiki/.htaccess "wikilink")
   - [HTTP狀態碼](https://zh.wikipedia.org/wiki/HTTP狀態碼 "wikilink")
   - [URL重寫](../Page/URL重寫.md "wikilink")
-  - [HTTP 301](https://zh.wikipedia.org/wiki/HTTP_301 "wikilink")
+  - [HTTP 301](../Page/HTTP_301.md "wikilink")
   - [HTTP 303](../Page/HTTP_303.md "wikilink")
-  - [HTTP 307](https://zh.wikipedia.org/wiki/HTTP_307 "wikilink")
-  - [HTTP
-    Location](https://zh.wikipedia.org/wiki/HTTP_Location "wikilink")
+  - [HTTP 307](../Page/HTTP_307.md "wikilink")
+  - [HTTP Location](../Page/HTTP_Location.md "wikilink")
 
 ## 参考来源
 

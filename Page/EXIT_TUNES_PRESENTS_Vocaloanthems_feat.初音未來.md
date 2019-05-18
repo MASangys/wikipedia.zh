@@ -7,7 +7,7 @@ TUNES](../Page/EXIT_TUNES.md "wikilink")、販售元[波麗佳音](https://zh.wi
 ## 概要
 
 將VOCALOID歌曲重新灌錄與高音質化、重新書寫及調整，總共收錄18首曲子\[1\]。雖然使用「feat.初音未來」作為標題，但實際上也有其他VOCALOID參與製作，甚至BONUS
-TRACK還有使用[UTAU的](../Page/UTAU.md "wikilink")[重音teto](../Page/重音teto.md "wikilink")。封面繪製是[redjuice](https://zh.wikipedia.org/wiki/redjuice "wikilink")\[2\]。另外，公式網站上的特別內容為CHAN×CO負責封面繪製的遊戲「上海」\[3\]。
+TRACK還有使用[UTAU的](https://zh.wikipedia.org/wiki/UTAU "wikilink")[重音teto](https://zh.wikipedia.org/wiki/重音teto "wikilink")。封面繪製是[redjuice](https://zh.wikipedia.org/wiki/redjuice "wikilink")\[2\]。另外，公式網站上的特別內容為CHAN×CO負責封面繪製的遊戲「上海」\[3\]。
 
 ## 曲目
 

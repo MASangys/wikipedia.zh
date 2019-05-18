@@ -1,6 +1,6 @@
 《**A
 Class**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[miss
-A首張正規專輯](../Page/miss_A.md "wikilink")。[AQ娛樂、JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，2011年7月18日由[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。
+A首張正規專輯](https://zh.wikipedia.org/wiki/miss_A "wikilink")。[AQ娛樂、JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，2011年7月18日由[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。
 
 ## 曲目
 

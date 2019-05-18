@@ -1,10 +1,10 @@
 **Baby Kara**，是[DSP
 Media因應旗下女子團體](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[Kara成員](../Page/Kara.md "wikilink")[妮可](../Page/鄭龍珠.md "wikilink")、[知英先後約滿離隊](https://zh.wikipedia.org/wiki/姜知英 "wikilink")，所舉行的新成員遴選節目《[KARA
 PROJECT-KARA The
-Beginning](https://zh.wikipedia.org/wiki/KARA_PROJECT-KARA_The_Beginning "wikilink")》當中，由七名侯選成員組成的表演團體。成員包括[素真](https://zh.wikipedia.org/wiki/素真 "wikilink")、[時倫](https://zh.wikipedia.org/wiki/曺時倫 "wikilink")、[齡智](https://zh.wikipedia.org/wiki/許齡智 "wikilink")、[彩暻](../Page/彩暻.md "wikilink")、
+Beginning](https://zh.wikipedia.org/wiki/KARA_PROJECT-KARA_The_Beginning "wikilink")》當中，由七名侯選成員組成的表演團體。成員包括[素真](https://zh.wikipedia.org/wiki/素真 "wikilink")、[時倫](https://zh.wikipedia.org/wiki/曺時倫 "wikilink")、[齡智](../Page/許齡智.md "wikilink")、[彩暻](../Page/彩暻.md "wikilink")、
 [昭珉](https://zh.wikipedia.org/wiki/昭珉 "wikilink")、和。隨著在2014年7月1日在[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")
 Music播出的《KARA PROJECT-KARA The
-Beginning》中，成員[齡智被選為](https://zh.wikipedia.org/wiki/許齡智 "wikilink")[Kara的新成員](../Page/Kara.md "wikilink")，Baby
+Beginning》中，成員[齡智被選為](../Page/許齡智.md "wikilink")[Kara的新成員](../Page/Kara.md "wikilink")，Baby
 Kara宣傳期隨之結束。
 
 ## 經歷
@@ -26,7 +26,7 @@ Kara宣傳，並公開首位成員[素真](https://zh.wikipedia.org/wiki/素真 
 
 5月15日，公開第二位成員[時倫](https://zh.wikipedia.org/wiki/曺時倫 "wikilink")(ShiYoon)\[4\]
 
-5月16日，公開第三位成員[齡智](https://zh.wikipedia.org/wiki/許齡智 "wikilink")(YoungJi)\[5\]
+5月16日，公開第三位成員[齡智](../Page/許齡智.md "wikilink")(YoungJi)\[5\]
 
 5月17日，公開第四位成員[彩暻](../Page/彩暻.md "wikilink")(ChaeKyoung)\[6\]
 
@@ -44,7 +44,7 @@ Kara將會接受各項任務與挑戰，包括演繹[Kara名曲](../Page/Kara.md
 5月24日，票選新成員的消息被確定後，終於引起早已不滿的歌迷強烈反彈，即使隊長[奎利早前曾為此向歌迷致歉](../Page/朴奎利.md "wikilink")，仍無法平息憤怒，甚至令歌迷向唱片公司聯署、於公司門外掛起橫額表示反對。\[11\]。[Kara成員只好再度向歌迷公開表達歉意](../Page/Kara.md "wikilink")\[12\]。
 
 7月1日，最後一集《Kara Project-Kara the
-Beginning》中，總結五次累計分數與直播投票分數相加後，由得票最高的成員[齡智勝出](https://zh.wikipedia.org/wiki/許齡智 "wikilink")，正式成為[Kara第四位成員](../Page/Kara.md "wikilink")。隨著節目完結，Baby
+Beginning》中，總結五次累計分數與直播投票分數相加後，由得票最高的成員[齡智勝出](../Page/許齡智.md "wikilink")，正式成為[Kara第四位成員](../Page/Kara.md "wikilink")。隨著節目完結，Baby
 Kara活動期亦宣告結束。\[13\]
 
 12月15日，[DSP
@@ -68,7 +68,7 @@ Kara成員、[彩暻皆有到場觀看](../Page/彩暻.md "wikilink")。但成�
 2016年11月11日，Baby Kara成員[彩暻正式加入APRIL](../Page/彩暻.md "wikilink")。
 
 2016年12月1日，Baby
-Kara成員[昭珉以混聲企劃團體](https://zh.wikipedia.org/wiki/昭珉 "wikilink")[K.A.R.D身份再次出道](https://zh.wikipedia.org/wiki/K.A.R.D "wikilink")，而[Kara成員](../Page/Kara.md "wikilink")[齡智為團體的第一代隱藏成員](https://zh.wikipedia.org/wiki/許齡智 "wikilink")。
+Kara成員[昭珉以混聲企劃團體](https://zh.wikipedia.org/wiki/昭珉 "wikilink")[K.A.R.D身份再次出道](https://zh.wikipedia.org/wiki/K.A.R.D "wikilink")，而[Kara成員](../Page/Kara.md "wikilink")[齡智為團體的第一代隱藏成員](../Page/許齡智.md "wikilink")。
 
 ### 《KARA PROJECT-KARA The Beginning》各集任務與演繹歌曲
 

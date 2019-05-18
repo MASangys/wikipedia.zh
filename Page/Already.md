@@ -1,10 +1,10 @@
 《**already**》是[Not
-yet的第](https://zh.wikipedia.org/wiki/Not_yet "wikilink")1张[原创专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。由[日本古倫美亞于](https://zh.wikipedia.org/wiki/日本古倫美亞 "wikilink")2014年4月23日发行\[1\]。
+yet的第](../Page/Not_yet.md "wikilink")1张[原创专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。由[日本古倫美亞于](../Page/日本古倫美亞.md "wikilink")2014年4月23日发行\[1\]。
 
 ## 简介
 
 专辑分为附有DVD的Type-A、B，只含有CD的Type-C以及式样的Type-D共4版本发行\[2\]。专辑中收录了自第一张单曲《[週末Not
-yet](https://zh.wikipedia.org/wiki/週末Not_yet "wikilink")》（）至第五张单曲《[刺痛的花](https://zh.wikipedia.org/wiki/刺痛的花 "wikilink")》（）内的所有歌曲，并另外有包括被用作（）「BUSINESS篇」「HOLIDAY篇」广告背景音乐\[3\]的《我接受来自世界的风》（）在内的三曲新曲收录\[4\]。
+yet](../Page/週末Not_yet.md "wikilink")》（）至第五张单曲《[刺痛的花](../Page/刺痛的花.md "wikilink")》（）内的所有歌曲，并另外有包括被用作（）「BUSINESS篇」「HOLIDAY篇」广告背景音乐\[3\]的《我接受来自世界的风》（）在内的三曲新曲收录\[4\]。
 
 ## 活动
 

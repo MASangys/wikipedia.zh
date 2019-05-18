@@ -12,7 +12,7 @@ Mechanism)、行動系統、[個人通訊服務](../Page/個人通訊服務.md "
     Transactions on Computers/IEEE计算机汇刊)
   - [IEEE無線通信雜誌](https://zh.wikipedia.org/wiki/IEEE無線通信雜誌 "wikilink")(IEEE
     Wireless Communications/IEEE无线通信杂志)
-  - [IEEE無線通信學報](https://zh.wikipedia.org/wiki/IEEE無線通信學報 "wikilink")
+  - [IEEE無線通信學報](../Page/IEEE無線通信學報.md "wikilink")
   - [移動計算](https://zh.wikipedia.org/wiki/移動計算 "wikilink")(Mobile
     computing)
   - [IEEE教育學報](https://zh.wikipedia.org/wiki/IEEE教育學報 "wikilink")(IEEE
@@ -29,9 +29,9 @@ Mechanism)、行動系統、[個人通訊服務](../Page/個人通訊服務.md "
     of the IEEE/IEEE论文集杂志)
   - [移動計算和通信評論](https://zh.wikipedia.org/wiki/移動計算和通信評論 "wikilink")(Mobile
     Computing and Communications Review)
-  - [IEEE通信快報](https://zh.wikipedia.org/wiki/IEEE通信快報 "wikilink")
+  - [IEEE通信快報](../Page/IEEE通信快報.md "wikilink")
   - [IEEE/ACM網絡學報](https://zh.wikipedia.org/wiki/IEEE/ACM網絡學報 "wikilink")
-  - [IEEE通信選域期刊](https://zh.wikipedia.org/wiki/IEEE通信選域期刊 "wikilink")
+  - [IEEE通信選域期刊](../Page/IEEE通信選域期刊.md "wikilink")
 
 ## 註釋
 

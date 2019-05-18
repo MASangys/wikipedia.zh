@@ -12,7 +12,7 @@
 
   - 2005年－富士見書房《[月刊Dragon
     Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")》上初次連載長編作品〈[特蘿蒂亞
-    ～魔女的鐵鎚～](https://zh.wikipedia.org/wiki/特蘿蒂亞_～魔女的鐵鎚～ "wikilink")〉以後，就有持續在一般向漫畫雜誌上連載。
+    ～魔女的鐵鎚～](../Page/特蘿蒂亞_～魔女的鐵鎚～.md "wikilink")〉以後，就有持續在一般向漫畫雜誌上連載。
   - 2013年－[秋田書店](../Page/秋田書店.md "wikilink")《[Champion RED
     Ichigo](https://zh.wikipedia.org/wiki/Champion_RED_Ichigo "wikilink")》上連載〈VANITAS〉、秋田書店《[Champion
     RED](https://zh.wikipedia.org/wiki/Champion_RED "wikilink")》連載〈[絢爛的世界舞台](https://zh.wikipedia.org/wiki/絢爛的世界舞台 "wikilink")〉。
@@ -48,8 +48,7 @@
 
 ### 一般向
 
-  - [特蘿蒂亞
-    ～魔女的鐵鎚～](https://zh.wikipedia.org/wiki/特蘿蒂亞_～魔女的鐵鎚～ "wikilink")（[月刊Dragon
+  - [特蘿蒂亞 ～魔女的鐵鎚～](../Page/特蘿蒂亞_～魔女的鐵鎚～.md "wikilink")（[月刊Dragon
     Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")，2005年6月號～2008年3月號，[富士見書房](../Page/富士見書房.md "wikilink")，[東立出版社代理臺灣中文版](../Page/東立出版社.md "wikilink")）－全6卷。
   - [夢魘製造機](https://zh.wikipedia.org/wiki/夢魘製造機 "wikilink")（，2009年～2012年，[秋田書店](../Page/秋田書店.md "wikilink")，[青文出版社代理臺灣中文版](../Page/青文出版社.md "wikilink")）－全6卷。
   - [絢爛的世界舞台](https://zh.wikipedia.org/wiki/絢爛的世界舞台 "wikilink")（秋田書店，[長鴻出版社代理臺灣中文版](../Page/長鴻出版社.md "wikilink")）

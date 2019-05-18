@@ -29,7 +29,7 @@ Entertainment](https://zh.wikipedia.org/wiki/WM_Entertainment "wikilink")。
       -
         [Baro獨唱](../Page/Baro.md "wikilink") feat.
         [Min](https://zh.wikipedia.org/wiki/李玟暎 "wikilink")（[miss
-        A](../Page/miss_A.md "wikilink")）
+        A](https://zh.wikipedia.org/wiki/miss_A "wikilink")）
 6.  微笑（웃어봐）
 7.  Feeling
 8.  暗戀（짝사랑）
@@ -53,7 +53,7 @@ Entertainment](https://zh.wikipedia.org/wiki/WM_Entertainment "wikilink")。
       -
         [Baro獨唱](../Page/Baro.md "wikilink") feat.
         [Min](https://zh.wikipedia.org/wiki/李玟暎 "wikilink")（[miss
-        A](../Page/miss_A.md "wikilink")）
+        A](https://zh.wikipedia.org/wiki/miss_A "wikilink")）
 8.  微笑（웃어봐）
 9.  Feeling
 10. 暗戀（짝사랑）

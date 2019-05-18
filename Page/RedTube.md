@@ -20,9 +20,9 @@ Archive AG”公司。
 ## 参见
 
   - [独立媒体](https://zh.wikipedia.org/wiki/独立媒体 "wikilink")
-  - [Pornhub](https://zh.wikipedia.org/wiki/Pornhub "wikilink")
+  - [Pornhub](../Page/Pornhub.md "wikilink")
   - [病毒視訊](https://zh.wikipedia.org/wiki/病毒視訊 "wikilink")
-  - [XVideos](https://zh.wikipedia.org/wiki/XVideos "wikilink")
+  - [XVideos](../Page/XVideos.md "wikilink")
   - [YouPorn](../Page/YouPorn.md "wikilink")
 
 ## 参考文献

@@ -1,22 +1,21 @@
 ****是[Google推出的專為](../Page/Google.md "wikilink")（例如[数字电视机](https://zh.wikipedia.org/wiki/数字电视机 "wikilink")）所設計之[Android分支版本](../Page/Android.md "wikilink")。它提供一套以内容发现、为特色的用户界面，能够整合来自不同媒体服务和应用的内容，并能够与Google的其他产品联动，例如[Google智能助理](https://zh.wikipedia.org/wiki/Google智能助理 "wikilink")、[Google
-Cast](https://zh.wikipedia.org/wiki/Google_Cast "wikilink")、[Google知识图谱](../Page/Google知识图谱.md "wikilink")。
+Cast](../Page/Google_Cast.md "wikilink")、[Google知识图谱](../Page/Google知识图谱.md "wikilink")。
 
 Android
 TV发布于2014年6月。同年11月谷歌与[华硕合作推出首款使用Android](https://zh.wikipedia.org/wiki/华硕 "wikilink")
 TV系统的数字媒体播放器[Nexus
-Player](https://zh.wikipedia.org/wiki/Nexus_Player "wikilink")。[索尼](../Page/索尼.md "wikilink")、[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")、[Vu电视等一些显示设备厂商也推出了基于Android](https://zh.wikipedia.org/wiki/Vu电视 "wikilink")
+Player](../Page/Nexus_Player.md "wikilink")。[索尼](../Page/索尼.md "wikilink")、[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")、[Vu电视等一些显示设备厂商也推出了基于Android](../Page/Vu电视.md "wikilink")
 TV的产品。
 
 ## 功能
 
 Android
 TV为数字媒体播放器（包括机顶盒）和[智能电视提供软件框架和基本的应用软件](https://zh.wikipedia.org/wiki/智能电视 "wikilink")。Android
-TV的[主界面允许上下滚动](https://zh.wikipedia.org/wiki/主界面 "wikilink")，横向排列同组的内容。
+TV的[主界面允许上下滚动](../Page/主界面.md "wikilink")，横向排列同组的内容。
 
 Android TV 平台目前拥有的功能以及支持的平台有：\[1\]
 
-  - [Google
-    Cast](https://zh.wikipedia.org/wiki/Google_Cast "wikilink")：類似於
+  - [Google Cast](../Page/Google_Cast.md "wikilink")：類似於
     [Chromecast](../Page/Chromecast.md "wikilink")，可將
     [Chromebook](../Page/Chromebook.md "wikilink")、[Android](../Page/Android.md "wikilink")
     的显示投放到電視上觀賞，且串流內容會在 Android 裝置間保持同步。
@@ -31,7 +30,7 @@ Android TV 平台目前拥有的功能以及支持的平台有：\[1\]
 ### 数字媒体播放器
 
 需要外接显示器或者电视来提供多媒体视听服务。第一款基于Android TV系统的产品[Nexus
-Player就是一款数字媒体播放器而非电视机](https://zh.wikipedia.org/wiki/Nexus_Player "wikilink")。基于Android
+Player就是一款数字媒体播放器而非电视机](../Page/Nexus_Player.md "wikilink")。基于Android
 TV的数字媒体播放器还有[Nvidia Shield
 TV](https://zh.wikipedia.org/wiki/Nvidia_Shield_TV "wikilink")、[小米盒子国际版](../Page/小米盒子.md "wikilink")、Now
 E等。

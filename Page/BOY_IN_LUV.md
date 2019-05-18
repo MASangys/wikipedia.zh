@@ -1,7 +1,7 @@
 《**BOY IN LUV -Japanese
 Ver.-**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[防彈少年團的第二張日語單曲](../Page/防彈少年團.md "wikilink")，由[HITMAN
 BANG](https://zh.wikipedia.org/wiki/房時赫 "wikilink")、[Rap
-Monster](https://zh.wikipedia.org/wiki/金南俊 "wikilink")、[SUGA](https://zh.wikipedia.org/wiki/閔玧其 "wikilink")、[Supreme
+Monster](../Page/金南俊.md "wikilink")、[SUGA](../Page/閔玧其.md "wikilink")、[Supreme
 Boi作曲](https://zh.wikipedia.org/wiki/Supreme_Boi "wikilink")、作詞，並在2014年7月16日以三個不同版本推出\[1\]。
 
 ## 背景

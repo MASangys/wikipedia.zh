@@ -60,12 +60,12 @@
 
 ### 插曲
 
-| 曲別 | 歌名        | 演唱                                                                      |
-| -- | --------- | ----------------------------------------------------------------------- |
-| 插曲 | 《世界變了樣》   | [Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink") |
-| 插曲 | 《人若然忘記了愛》 | [鄭中基](../Page/鄭中基.md "wikilink")                                        |
-| 插曲 | 《美麗新香港》   | [my little airport](../Page/my_little_airport.md "wikilink")            |
-| 插曲 | 《前程錦繍》    | [群星](https://zh.wikipedia.org/wiki/群星 "wikilink")                       |
+| 曲別 | 歌名        | 演唱                                                                              |
+| -- | --------- | ------------------------------------------------------------------------------- |
+| 插曲 | 《世界變了樣》   | [Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")         |
+| 插曲 | 《人若然忘記了愛》 | [鄭中基](../Page/鄭中基.md "wikilink")                                                |
+| 插曲 | 《美麗新香港》   | [my little airport](https://zh.wikipedia.org/wiki/my_little_airport "wikilink") |
+| 插曲 | 《前程錦繍》    | [群星](https://zh.wikipedia.org/wiki/群星 "wikilink")                               |
 
 ## 加長版
 
@@ -104,8 +104,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/香港電影金像獎最佳原創電影歌曲" title="wikilink">最佳原創電影歌曲</a></p></td>
-<td><p>《美麗新香港》作曲、填词、演唱：<a href="../Page/my_little_airport.md" title="wikilink">my little airport</a></p></td>
+<td><p><a href="../Page/香港電影金像獎最佳原創電影歌曲.md" title="wikilink">最佳原創電影歌曲</a></p></td>
+<td><p>《美麗新香港》作曲、填词、演唱：<a href="https://zh.wikipedia.org/wiki/my_little_airport" title="wikilink">my little airport</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -122,7 +122,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/第9屆亞洲電影大獎" title="wikilink">第9屆亞洲電影大獎</a></p></td>
+<td><p><a href="../Page/第9屆亞洲電影大獎.md" title="wikilink">第9屆亞洲電影大獎</a></p></td>
 <td><p>最佳新演員</p></td>
 <td></td>
 <td></td>

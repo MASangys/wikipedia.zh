@@ -72,7 +72,7 @@ MEKO系列巡防艦有諸多衍生型，以下為MEKO系列各型諸元與簡介
 </tr>
 <tr class="odd">
 <td><p>MEKO 200 PN</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/瓦斯科·達伽馬級巡防艦" title="wikilink">瓦斯科·達伽馬級巡防艦</a></p></td>
+<td><p><a href="../Page/瓦斯科·達伽馬級巡防艦.md" title="wikilink">瓦斯科·達伽馬級巡防艦</a></p></td>
 <td></td>
 <td><p>3</p></td>
 <td><p>1991-</p></td>
@@ -84,7 +84,7 @@ MEKO系列巡防艦有諸多衍生型，以下為MEKO系列各型諸元與簡介
 </tr>
 <tr class="even">
 <td><p>MEKO 200 HN</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/海德拉級巡防艦" title="wikilink">海德拉級巡防艦</a></p></td>
+<td><p><a href="../Page/海德拉級巡防艦.md" title="wikilink">海德拉級巡防艦</a></p></td>
 <td></td>
 <td><p>4</p></td>
 <td><p>-1992</p></td>
@@ -96,7 +96,7 @@ MEKO系列巡防艦有諸多衍生型，以下為MEKO系列各型諸元與簡介
 </tr>
 <tr class="odd">
 <td><p>F 123</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/布蘭登堡級巡防艦" title="wikilink">布蘭登堡級巡防艦</a></p></td>
+<td><p><a href="../Page/布蘭登堡級巡防艦.md" title="wikilink">布蘭登堡級巡防艦</a></p></td>
 <td></td>
 <td><p>4</p></td>
 <td><p>1994-1996</p></td>
@@ -146,7 +146,7 @@ MEKO系列巡防艦有諸多衍生型，以下為MEKO系列各型諸元與簡介
 </tr>
 <tr class="odd">
 <td><p>F 124</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/薩克森級巡防艦" title="wikilink">薩克森級巡防艦</a></p></td>
+<td><p><a href="../Page/薩克森級巡防艦.md" title="wikilink">薩克森級巡防艦</a></p></td>
 <td></td>
 <td><p>3</p></td>
 <td><p>2002-</p></td>
@@ -158,7 +158,7 @@ MEKO系列巡防艦有諸多衍生型，以下為MEKO系列各型諸元與簡介
 </tr>
 <tr class="even">
 <td><p>MEKO 100 RMN</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吉打級護衛艦" title="wikilink">吉打級護衛艦</a></p></td>
+<td><p><a href="../Page/吉打級護衛艦.md" title="wikilink">吉打級護衛艦</a></p></td>
 <td></td>
 <td><p>6</p></td>
 <td><p>2004-</p></td>
@@ -351,7 +351,7 @@ RAM公羊防空飞弹系统](../Page/RIM-116滾體飛彈.md "wikilink")，舰体
 ### MEKO D
 
 2000年代初B\&V推出的MEKO A-200改良型號，稱為MEKO
-Delta，作戰能力與德國現役的[薩克森級巡防艦相當](https://zh.wikipedia.org/wiki/薩克森級巡防艦 "wikilink")，且具有優異的匿蹤性，上層結構近乎完全封閉並與船舷合而為一，使用X型橫截面設計。舷寬由艦首到艦尾都持續不斷地增加，俯視有如一個錐形結構，此一設計可增強耐波力、航行穩定性以及艦尾飛行甲板的面積。標準排水量約3500噸，長116m，寬19.6m，吃水4.2m，動力來源可能為複合燃氣渦輪或柴電推進（CODLAG）或者複合燃氣渦輪與柴電推進（CODLOD），可簡化動力系統結構並增加經濟效益（使用燃油較現役艦艇減少20%），最大航速約28節，航速16節時續航力約為4000海里，能在海上持續作業21天。此外自動化程度極高，乘員編制僅78名，還有容納另外35人的餘裕可載運特種部隊或指揮人員。目前有D500和D600（中/大型巡防艦）及MEKO
+Delta，作戰能力與德國現役的[薩克森級巡防艦相當](../Page/薩克森級巡防艦.md "wikilink")，且具有優異的匿蹤性，上層結構近乎完全封閉並與船舷合而為一，使用X型橫截面設計。舷寬由艦首到艦尾都持續不斷地增加，俯視有如一個錐形結構，此一設計可增強耐波力、航行穩定性以及艦尾飛行甲板的面積。標準排水量約3500噸，長116m，寬19.6m，吃水4.2m，動力來源可能為複合燃氣渦輪或柴電推進（CODLAG）或者複合燃氣渦輪與柴電推進（CODLOD），可簡化動力系統結構並增加經濟效益（使用燃油較現役艦艇減少20%），最大航速約28節，航速16節時續航力約為4000海里，能在海上持續作業21天。此外自動化程度極高，乘員編制僅78名，還有容納另外35人的餘裕可載運特種部隊或指揮人員。目前有D500和D600（中/大型巡防艦）及MEKO
 D100（中/小型巡防艦，2500噸級）的設計。
 
 ### MEKO X
@@ -375,8 +375,8 @@ MEKO系列有諸多使用國與型號，以下為MEKO系列各版本使用國概
   - ：
 
       - [德國海軍](https://zh.wikipedia.org/wiki/德國海軍 "wikilink")：
-          - [布蘭登堡級巡防艦](https://zh.wikipedia.org/wiki/布蘭登堡級巡防艦 "wikilink")：總計4艘，現役
-          - [薩克森級巡防艦](https://zh.wikipedia.org/wiki/薩克森級巡防艦 "wikilink")：總計3艘，現役
+          - [布蘭登堡級巡防艦](../Page/布蘭登堡級巡防艦.md "wikilink")：總計4艘，現役
+          - [薩克森級巡防艦](../Page/薩克森級巡防艦.md "wikilink")：總計3艘，現役
           - [巴登·符騰堡級巡防艦](https://zh.wikipedia.org/wiki/巴登·符騰堡級巡防艦 "wikilink")：建造中
           - [布伦瑞克级护卫舰](https://zh.wikipedia.org/wiki/布伦瑞克级护卫舰 "wikilink")：計畫10艘，5艘現役，5艘建造/規劃中（2019年3月）
 
@@ -408,12 +408,12 @@ MEKO系列有諸多使用國與型號，以下為MEKO系列各版本使用國概
 
       - ：
 
-          - [瓦斯科·達伽馬級巡防艦](https://zh.wikipedia.org/wiki/瓦斯科·達伽馬級巡防艦 "wikilink")：總計3艘，現役（2019年3月）
+          - [瓦斯科·達伽馬級巡防艦](../Page/瓦斯科·達伽馬級巡防艦.md "wikilink")：總計3艘，現役（2019年3月）
 
   - ：
 
       - [希臘海軍](https://zh.wikipedia.org/wiki/希臘海軍 "wikilink")：
-          - [海德拉級巡防艦](https://zh.wikipedia.org/wiki/海德拉級巡防艦 "wikilink")：總計4艘，現役
+          - [海德拉級巡防艦](../Page/海德拉級巡防艦.md "wikilink")：總計4艘，現役
 
   - /
 
@@ -429,7 +429,7 @@ MEKO系列有諸多使用國與型號，以下為MEKO系列各版本使用國概
   - ：
 
       - [馬來西亞皇家海軍](https://zh.wikipedia.org/wiki/馬來西亞皇家海軍 "wikilink")：
-          - [吉打級護衛艦](https://zh.wikipedia.org/wiki/吉打級護衛艦 "wikilink")：總計6艘，現役（2019年3月）
+          - [吉打級護衛艦](../Page/吉打級護衛艦.md "wikilink")：總計6艘，現役（2019年3月）
 
   - ：
 

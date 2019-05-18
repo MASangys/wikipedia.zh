@@ -1,8 +1,8 @@
 **洛克人EXE角色列表**介紹《[洛克人EXE](../Page/洛克人EXE_\(動畫\).md "wikilink")》、《[洛克人EXE
 AXESS](../Page/洛克人EXE_AXESS.md "wikilink")》、《[洛克人EXE
 Stream](../Page/洛克人EXE_Stream.md "wikilink")》、《[洛克人EXE
-BEAST](https://zh.wikipedia.org/wiki/洛克人EXE_BEAST "wikilink")》和《[洛克人EXE
-BEAST+](https://zh.wikipedia.org/wiki/洛克人EXE_BEAST+ "wikilink")》的登場人物及角色。本列表均以動畫版本設定為主，因此部分人物設定會跟原作有別。
+BEAST](../Page/洛克人EXE_BEAST.md "wikilink")》和《[洛克人EXE
+BEAST+](../Page/洛克人EXE_BEAST+.md "wikilink")》的登場人物及角色。本列表均以動畫版本設定為主，因此部分人物設定會跟原作有別。
 
 ## 主要登場人物
 
@@ -36,7 +36,7 @@ BEAST+](https://zh.wikipedia.org/wiki/洛克人EXE_BEAST+ "wikilink")》的登�
     第二季曾在危機之時想要用熱斗的「转换.bat」來跟蘿露雙向融合，可惜失敗（當時同步率比不上熱斗和洛克人）。但在第三季利用拉修同步晶片成功進行雙向融合，並加入雙向融合戰隊。
     第五季結束十年後與光熱斗結婚，成為家庭主婦。
 
-**蘿露**（配音員：[城雅子](https://zh.wikipedia.org/wiki/城雅子 "wikilink")（日本）／[林美秀](../Page/林美秀_\(配音員\).md "wikilink")（台灣）／[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")→[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")（香港））
+**蘿露**（配音員：[城雅子](../Page/城雅子.md "wikilink")（日本）／[林美秀](../Page/林美秀_\(配音員\).md "wikilink")（台灣）／[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")→[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")（香港））
 
   -
     美露的網路領航員。可愛又有親和力，她的實力也不容小覷，身手敏捷、常出奇不意地攻擊敵人，其蒐集資料的能力對洛克人的團隊有很大的幫助。喜歡洛克人。
@@ -227,7 +227,7 @@ BEAST+](https://zh.wikipedia.org/wiki/洛克人EXE_BEAST+ "wikilink")》的登�
 
 ## 科學署
 
-**光祐一朗**（配音員：[永野廣一](https://zh.wikipedia.org/wiki/永野廣一 "wikilink")、[川島得愛](https://zh.wikipedia.org/wiki/川島得愛 "wikilink")（Stream及其之後）（日本）／[林士程](../Page/林士程.md "wikilink")／[陳永信](../Page/陳永信.md "wikilink")（香港））
+**光祐一朗**（配音員：[永野廣一](https://zh.wikipedia.org/wiki/永野廣一 "wikilink")、[川島得愛](../Page/川島得愛.md "wikilink")（Stream及其之後）（日本）／[林士程](../Page/林士程.md "wikilink")／[陳永信](../Page/陳永信.md "wikilink")（香港））
 
   -
     熱斗的父親，光正博士之子，科學署的主任，在科學署擁有領導地位，人稱「光博士」。開發雙向融合的技術。
@@ -263,7 +263,7 @@ BEAST+](https://zh.wikipedia.org/wiki/洛克人EXE_BEAST+ "wikilink")》的登�
 
 ### WWW組織
 
-**威利博士**（配音員：[長克巳](https://zh.wikipedia.org/wiki/長克巳 "wikilink")（日本）／[源家祥](../Page/源家祥.md "wikilink")→[盧國權](../Page/盧國權.md "wikilink")→[招世亮](../Page/招世亮.md "wikilink")（香港））
+**威利博士**（配音員：[長克巳](../Page/長克巳.md "wikilink")（日本）／[源家祥](../Page/源家祥.md "wikilink")→[盧國權](../Page/盧國權.md "wikilink")→[招世亮](../Page/招世亮.md "wikilink")（香港））
 
   -
     WWW首領，是個邪惡天才，部下們都尊稱他**威利統帥**，也是大園百合子的養父。與光正博士曾经是朋友兼合作伙伴，但因理念不同而分道扬镳。第一季的終極目標為利用終極網路領航員—法老人統治世界，此計畫因法老人自爆而失敗後，暫時消聲匿跡一段時間，爾後組織了福音會，並創造具有強大破壞力的大型網路怪獸—福音。第三季開始常以資源回收的老伯形象出現，改邪归正幫助熱斗等人，並得知利卡爾重出江湖。第四季以彼方平行世界的另一個威利博士的人造腦登場，並想統治兩邊世界。
@@ -456,7 +456,7 @@ BEAST+](https://zh.wikipedia.org/wiki/洛克人EXE_BEAST+ "wikilink")》的登�
   -
     由利卡爾率領的邪惡網路領航員軍團，為裏電腦世界自行誕生的領航員，第三季出場的則為利卡爾所創造，皆野心勃勃，企图稱霸網路世界，反佔人類的生存空间。初登場於第二季，首任隊長為陰影人，第三季在陰影人死後由黑暗洛克人繼任為第二任隊長。新WWW瓦解後便取代其為新敵人，黑暗洛克人死後宣告全軍覆沒。
 
-**陰影人**（配音員：[中村秀利](https://zh.wikipedia.org/wiki/中村秀利 "wikilink")（日本）／[陳欣](../Page/陳欣_\(配音員\).md "wikilink")（香港））
+**陰影人**（配音員：[中村秀利](../Page/中村秀利.md "wikilink")（日本）／[陳欣](../Page/陳欣_\(配音員\).md "wikilink")（香港））
 
   -
     黑暗生命體首任隊長，外貌為[吸血鬼](../Page/吸血鬼.md "wikilink")，以[超音波作為攻擊能力](https://zh.wikipedia.org/wiki/超音波 "wikilink")。為了消滅人類，與利卡爾合作共謀所有犯罪事件。但多次的因黑暗晶片而差點合作破裂，但其實他自己本來就不是真心想和利卡爾合作，最後還是因為黑暗晶片的事情和利卡爾決裂，被利卡爾與雷射人的雙向融合姿態差点殺死。
@@ -644,7 +644,7 @@ BEAST+](https://zh.wikipedia.org/wiki/洛克人EXE_BEAST+ "wikilink")》的登�
   -
     與土太郎為挖洞二人組,挖的洞常常會讓炎山掉進去。
 
-**吸塵人**（配音員：[武虎](https://zh.wikipedia.org/wiki/武虎 "wikilink")（日本））
+**吸塵人**（配音員：[武虎](../Page/武虎.md "wikilink")（日本））
 
 **黑鬚船長**（配音員：[石井康嗣](../Page/石井康嗣.md "wikilink")（日本）／[朱子聰](../Page/朱子聰.md "wikilink")（香港））
 
@@ -708,7 +708,7 @@ BEAST+](https://zh.wikipedia.org/wiki/洛克人EXE_BEAST+ "wikilink")》的登�
   -
     熱斗等人的朋友。
 
-**閃電人**（配音員：[中村大樹](https://zh.wikipedia.org/wiki/中村大樹 "wikilink")（日本）／[蘇強文](../Page/蘇強文.md "wikilink")（香港））
+**閃電人**（配音員：[中村大樹](../Page/中村大樹.md "wikilink")（日本）／[蘇強文](../Page/蘇強文.md "wikilink")（香港））
 
   -
     拉伍的領航員。
@@ -728,7 +728,7 @@ BEAST+](https://zh.wikipedia.org/wiki/洛克人EXE_BEAST+ "wikilink")》的登�
   -
     熱斗等人的朋友。
 
-**風人**（配音員：[咲野俊介](https://zh.wikipedia.org/wiki/咲野俊介 "wikilink")（日本））
+**風人**（配音員：[咲野俊介](../Page/咲野俊介.md "wikilink")（日本））
 
   -
     五十嵐蘭的領航員。
@@ -743,7 +743,7 @@ BEAST+](https://zh.wikipedia.org/wiki/洛克人EXE_BEAST+ "wikilink")》的登�
   -
     丁戈的青梅竹馬。
 
-**鬼龍院櫻子**（配音員：[笹本優子](https://zh.wikipedia.org/wiki/笹本優子 "wikilink")（日本））
+**鬼龍院櫻子**（配音員：[笹本優子](../Page/笹本優子.md "wikilink")（日本））
 
   -
     綾小路家雇用的見習女僕，笨手笨腳常造成他人麻煩。

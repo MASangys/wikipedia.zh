@@ -1,6 +1,6 @@
 **INFINITE
 F**（），為韓國男子團體[INFINITE的子團體](../Page/INFINITE.md "wikilink")，由INFINITE的[成烈](https://zh.wikipedia.org/wiki/李成烈 "wikilink")、[L](../Page/金明洙.md "wikilink"),
-和[成種](https://zh.wikipedia.org/wiki/李成種 "wikilink")
+和[成種](../Page/李成種.md "wikilink")
 三名成員在2014年2月組成。[成烈為](https://zh.wikipedia.org/wiki/李成烈 "wikilink")
 INFINITE F的隊長。
 2014年2月28日至3月1日，[INFINITE於首爾舉行世界巡迴安可場](../Page/INFINITE.md "wikilink")《One
@@ -22,7 +22,7 @@ F**中的「F」代表Face、Flower、Forever等意思。
 | 原文                                                  |
 | [李成烈](https://zh.wikipedia.org/wiki/李成烈 "wikilink") |
 | [L](../Page/金明洙.md "wikilink")                      |
-| [李成種](https://zh.wikipedia.org/wiki/李成種 "wikilink") |
+| [李成種](../Page/李成種.md "wikilink")                    |
 
 ## 音樂作品
 
@@ -37,7 +37,7 @@ F**中的「F」代表Face、Flower、Forever等意思。
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張單曲《<strong><a href="https://zh.wikipedia.org/wiki/青_(INFINITE_F單曲)" title="wikilink">青</a></strong>》</p>
+<td><p>首張單曲《<strong><a href="../Page/青_(INFINITE_F單曲).md" title="wikilink">青</a></strong>》</p>
 <ul>
 <li>音源發行日期：2014年12月1日</li>
 <li>實體發行日期：2014年12月2日</li>
@@ -58,7 +58,7 @@ F**中的「F」代表Face、Flower、Forever等意思。
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張日文單曲《<strong><a href="https://zh.wikipedia.org/wiki/戀愛的預感" title="wikilink">戀愛的預感</a></strong>》（）</p>
+<td><p>首張日文單曲《<strong><a href="../Page/戀愛的預感.md" title="wikilink">戀愛的預感</a></strong>》（）</p>
 <ul>
 <li>日版發行日期：2014年11月19日</li>
 <li>臺壓發行日期：2014年12月5日</li>
@@ -88,7 +88,7 @@ F**中的「F」代表Face、Flower、Forever等意思。
 <ul>
 <li>發行日期：2012年5月22日</li>
 </ul></td>
-<td><p><a href="../Page/tvN.md" title="wikilink">tvN</a>《<a href="../Page/閉嘴！花美男樂團.md" title="wikilink">閉嘴！花美男樂團</a>》OST</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>《<a href="../Page/閉嘴！花美男樂團.md" title="wikilink">閉嘴！花美男樂團</a>》OST</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -103,30 +103,30 @@ F**中的「F」代表Face、Flower、Forever等意思。
 
 ### 電視劇
 
-|                                                             |                                                                                          |                                                                                                                                             |           |      |     |       |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---- | --- | ----- |
-| 年份                                                          | 電視台                                                                                      | 劇名                                                                                                                                          | 參演成員      | 角色   | 性質  | 集數    |
-| 2008年                                                       | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")                                 | 《[-{zh-hans:花样男子;zh-hant:花樣男子;zh-cn:花样男子;zh-tw:流星花園;zh-hk:花樣男子;zh-sg:流星花园-花样男子}-](https://zh.wikipedia.org/wiki/流星花園_\(韓國電視劇\) "wikilink")》 | 成烈        | 路人   | 客串  | 第24集  |
-| 2009年                                                       | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")                              | 《[做得好 做得妙](../Page/做得好_做得妙.md "wikilink")》                                                                                                  | 成烈        |      |     |       |
-| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《大家一起Cha Cha Cha》                                                                        | 成烈                                                                                                                                          |           |      |     |       |
-| 2011年                                                       | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                                  | 《[你睡著的時候](../Page/你睡著的時候.md "wikilink")》                                                                                                    | 成烈        | 尹少俊  | 配角  | 全集    |
-| [朝日](../Page/朝日電視台.md "wikilink")                           | 《JIU警視廳特殊犯罪搜查系》                                                                          | L                                                                                                                                           | JIU       | 配角   | 全集  |       |
-| 2012年                                                       | [tvN](../Page/TVN.md "wikilink")                                                         | 《[閉嘴！花美男樂團](../Page/閉嘴！花美男樂團.md "wikilink")》                                                                                                | L         | 李賢洙  | 男二  | 全集    |
-| [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | 《[蠑螈道士和影子操作團](https://zh.wikipedia.org/wiki/蠑螈道士和影子操作團 "wikilink")》                      | L                                                                                                                                           |           | 客串   | 第3集 |       |
-| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《[媽媽是什麼](../Page/媽媽是什麼.md "wikilink")》                                                   | L                                                                                                                                           | 金明洙       | 配角   | 全集  |       |
-| 2013年                                                       | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")                                 | 《Drama Special - 思春期Medley》                                                                                                                 | 成烈        | 學生會長 | 客串  | 第2集   |
-| [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | 《[主君的太陽](../Page/主君的太陽.md "wikilink")》                                                   | L                                                                                                                                           | 朱中元（少年）   | 客串   |     |       |
-| [Daum](https://zh.wikipedia.org/wiki/Daum "wikilink")       | 《戀愛潛能，純情的時代》                                                                             | 成烈                                                                                                                                          | 鄭記憶       | 男一   | 全集  |       |
-| 2014年                                                       | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")                              | 《[心懷叵測的恢單女](https://zh.wikipedia.org/wiki/心懷叵測的恢單女 "wikilink")》                                                                             | L         | 吉耀翰  | 配角  | 全集    |
-| [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")    | 《[Hi\! School - Love On](https://zh.wikipedia.org/wiki/Hi!_School_-_Love_On "wikilink")》 | 成烈                                                                                                                                          | 黃成烈       | 男二   | 全集  |       |
-| [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | 《[對我而言可愛的她](https://zh.wikipedia.org/wiki/對我而言可愛的她 "wikilink")》                          | L                                                                                                                                           | 時宇        | 男二   | 全集  |       |
-| 2015年                                                       | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                                  | 《[愛你的時間，7000天](../Page/愛你的時間.md "wikilink")》                                                                                                | L         | 奇成宰  | 客串  | 第2至4集 |
-| [JTBC](../Page/JTBC.md "wikilink")                          | 《[D-Day](../Page/D-Day_\(電視劇\).md "wikilink")》                                           | 成烈                                                                                                                                          | 安大吉       | 配角   | 全集  |       |
-| 2016年                                                       | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")                                 | 《分手後的第二天》                                                                                                                                   | L         | 劉嘆   | 男一  | 全集    |
-| 2017年                                                       | 騰訊                                                                                       | 《[撿來的貓男](../Page/撿來的貓男.md "wikilink")》                                                                                                      | L         | 李昊然  | 男二  | 全集    |
-| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《[君主－假面的主人](https://zh.wikipedia.org/wiki/君主－假面的主人 "wikilink")》                          | L                                                                                                                                           | 異線(與李煊同音) | 男二   | 全集  |       |
-| [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")    | 《未結案件臨時專案組》                                                                              | 成烈                                                                                                                                          | 吳犬植       | 男一   | 全集  |       |
-| [KBS1](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")    | 《[即使恨也愛你](https://zh.wikipedia.org/wiki/即使恨也愛你 "wikilink")》                              | 成烈                                                                                                                                          | 洪錫杓       | 男一   | 全集  |       |
+|                                                             |                                                                       |                                                                                                                                             |           |      |     |       |
+| ----------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---- | --- | ----- |
+| 年份                                                          | 電視台                                                                   | 劇名                                                                                                                                          | 參演成員      | 角色   | 性質  | 集數    |
+| 2008年                                                       | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")              | 《[-{zh-hans:花样男子;zh-hant:花樣男子;zh-cn:花样男子;zh-tw:流星花園;zh-hk:花樣男子;zh-sg:流星花园-花样男子}-](https://zh.wikipedia.org/wiki/流星花園_\(韓國電視劇\) "wikilink")》 | 成烈        | 路人   | 客串  | 第24集  |
+| 2009年                                                       | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")           | 《[做得好 做得妙](../Page/做得好_做得妙.md "wikilink")》                                                                                                  | 成烈        |      |     |       |
+| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《大家一起Cha Cha Cha》                                                     | 成烈                                                                                                                                          |           |      |     |       |
+| 2011年                                                       | [SBS](../Page/SBS_\(韓國\).md "wikilink")                               | 《[你睡著的時候](../Page/你睡著的時候.md "wikilink")》                                                                                                    | 成烈        | 尹少俊  | 配角  | 全集    |
+| [朝日](../Page/朝日電視台.md "wikilink")                           | 《JIU警視廳特殊犯罪搜查系》                                                       | L                                                                                                                                           | JIU       | 配角   | 全集  |       |
+| 2012年                                                       | [tvN](../Page/TVN.md "wikilink")                                      | 《[閉嘴！花美男樂團](../Page/閉嘴！花美男樂團.md "wikilink")》                                                                                                | L         | 李賢洙  | 男二  | 全集    |
+| [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | 《[蠑螈道士和影子操作團](https://zh.wikipedia.org/wiki/蠑螈道士和影子操作團 "wikilink")》   | L                                                                                                                                           |           | 客串   | 第3集 |       |
+| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《[媽媽是什麼](../Page/媽媽是什麼.md "wikilink")》                                | L                                                                                                                                           | 金明洙       | 配角   | 全集  |       |
+| 2013年                                                       | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")              | 《Drama Special - 思春期Medley》                                                                                                                 | 成烈        | 學生會長 | 客串  | 第2集   |
+| [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | 《[主君的太陽](../Page/主君的太陽.md "wikilink")》                                | L                                                                                                                                           | 朱中元（少年）   | 客串   |     |       |
+| [Daum](https://zh.wikipedia.org/wiki/Daum "wikilink")       | 《戀愛潛能，純情的時代》                                                          | 成烈                                                                                                                                          | 鄭記憶       | 男一   | 全集  |       |
+| 2014年                                                       | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")           | 《[心懷叵測的恢單女](../Page/心懷叵測的恢單女.md "wikilink")》                                                                                                | L         | 吉耀翰  | 配角  | 全集    |
+| [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")    | 《[Hi\! School - Love On](../Page/Hi!_School_-_Love_On.md "wikilink")》 | 成烈                                                                                                                                          | 黃成烈       | 男二   | 全集  |       |
+| [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | 《[對我而言可愛的她](https://zh.wikipedia.org/wiki/對我而言可愛的她 "wikilink")》       | L                                                                                                                                           | 時宇        | 男二   | 全集  |       |
+| 2015年                                                       | [SBS](../Page/SBS_\(韓國\).md "wikilink")                               | 《[愛你的時間，7000天](../Page/愛你的時間.md "wikilink")》                                                                                                | L         | 奇成宰  | 客串  | 第2至4集 |
+| [JTBC](../Page/JTBC.md "wikilink")                          | 《[D-Day](../Page/D-Day_\(電視劇\).md "wikilink")》                        | 成烈                                                                                                                                          | 安大吉       | 配角   | 全集  |       |
+| 2016年                                                       | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")              | 《分手後的第二天》                                                                                                                                   | L         | 劉嘆   | 男一  | 全集    |
+| 2017年                                                       | 騰訊                                                                    | 《[撿來的貓男](../Page/撿來的貓男.md "wikilink")》                                                                                                      | L         | 李昊然  | 男二  | 全集    |
+| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《[君主－假面的主人](../Page/君主－假面的主人.md "wikilink")》                          | L                                                                                                                                           | 異線(與李煊同音) | 男二   | 全集  |       |
+| [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")    | 《未結案件臨時專案組》                                                           | 成烈                                                                                                                                          | 吳犬植       | 男一   | 全集  |       |
+| [KBS1](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")    | 《[即使恨也愛你](../Page/即使恨也愛你.md "wikilink")》                              | 成烈                                                                                                                                          | 洪錫杓       | 男一   | 全集  |       |
 
 ### 攝影文字集
 
@@ -180,7 +180,7 @@ F**中的「F」代表Face、Flower、Forever等意思。
 <td><p>2014年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/青_(INFINITE_F單曲)" title="wikilink">青</a></p></td>
+<td><p><a href="../Page/青_(INFINITE_F單曲).md" title="wikilink">青</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>

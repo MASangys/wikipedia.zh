@@ -1,7 +1,7 @@
 **雷神导弹**（Thor）是[美国空军第一代战略](../Page/美国空军.md "wikilink")[弹道导弹](../Page/弹道导弹.md "wikilink")，名字来自北欧神话中的[雷神索爾](https://zh.wikipedia.org/wiki/雷神索爾 "wikilink")。1959年至1963年9月作为[远程弹道导弹](../Page/远程弹道导弹.md "wikilink")(IRBM)
 部署在英国。
 
-导弹高20米，直径2.4米。可携带一枚[热核弹头](https://zh.wikipedia.org/wiki/热核 "wikilink")，射程为1,850—3,700公里，从英国发射可以打到[莫斯科](../Page/莫斯科.md "wikilink")。
+导弹高20米，直径2.4米。可携带一枚[热核弹头](../Page/热核.md "wikilink")，射程为1,850—3,700公里，从英国发射可以打到[莫斯科](../Page/莫斯科.md "wikilink")。
 
 [罗伯特·特鲁阿克斯和阿道夫](https://zh.wikipedia.org/wiki/罗伯特·特鲁阿克斯 "wikilink")·泰尔1954年进行初期研制，1955年11月30日[道格拉斯飞机公司](https://zh.wikipedia.org/wiki/道格拉斯飞机公司 "wikilink")、[洛克希德公司和](../Page/洛克希德公司.md "wikilink")[北美飞机公司参与投标](../Page/北美航空.md "wikilink")，12月27日道格拉斯获得弹体建造合同，北美飞机公司下属的[洛克达因公司获得引擎合同](../Page/洛克达因公司.md "wikilink")。
 

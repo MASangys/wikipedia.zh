@@ -4,7 +4,7 @@ Records發售](../Page/SME_Records.md "wikilink")。
 ## 概要
 
 本單曲被[富士電視台採用為由](../Page/富士電視台.md "wikilink")[堺雅人主演的連續劇](../Page/堺雅人.md "wikilink")《[Legal
-high](../Page/Legal_high.md "wikilink")》主題曲\[1\]，並在[Oricon公信榜週榜獲得第六名](../Page/Oricon公信榜.md "wikilink")，是組團以來最高的排名\[2\]。
+high](https://zh.wikipedia.org/wiki/Legal_high "wikilink")》主題曲\[1\]，並在[Oricon公信榜週榜獲得第六名](../Page/Oricon公信榜.md "wikilink")，是組團以來最高的排名\[2\]。
 
 ## 收錄曲
 
@@ -32,15 +32,13 @@ high](../Page/Legal_high.md "wikilink")》主題曲\[1\]，並在[Oricon公信�
   - 初回生產限定盤B
       - 「CUE唱片出發\! 9nine全國 百聞\<一見TOUR 2013 at Zepp Tokyo/2013.5.6」Live
         DVD
-        1.  [Evolution
-            No.9](https://zh.wikipedia.org/wiki/Evolution_No.9 "wikilink")
-        2.  [Love
-            me?](https://zh.wikipedia.org/wiki/9nine_\(專輯\) "wikilink")
+        1.  [Evolution No.9](../Page/Evolution_No.9.md "wikilink")
+        2.  [Love me?](../Page/9nine_\(專輯\).md "wikilink")
   - 初回生產限定盤C
       - 「CUE唱片出發\! 9nine全國 百聞\<一見TOUR 2013 at Zepp Tokyo/2013.5.6」Live
         DVD
         1.  [困惑Confuse](../Page/SHINING☆STAR.md "wikilink")
-        2.  [少女旅行者](https://zh.wikipedia.org/wiki/少女旅行者 "wikilink")
+        2.  [少女旅行者](../Page/少女旅行者.md "wikilink")
   - 初回生產限定盤D
     1.  16頁相片集
 

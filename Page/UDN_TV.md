@@ -17,7 +17,7 @@ tv自臺灣[數位有線電視與](https://zh.wikipedia.org/wiki/數位有線電
 
 ## 參見
 
-  - [台灣媒體財團化](https://zh.wikipedia.org/wiki/台灣媒體財團化 "wikilink")
+  - [台灣媒體財團化](../Page/台灣媒體財團化.md "wikilink")
 
 <!-- end list -->
 

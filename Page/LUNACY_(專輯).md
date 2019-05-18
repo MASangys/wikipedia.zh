@@ -16,7 +16,7 @@
     :原曲：J。
     007系列電影[黑日危机日文版主題曲](https://zh.wikipedia.org/wiki/黑日危机 "wikilink")；並收錄於同名電影原聲帶之中。
     歌詞由J和Ryuichi共同創作。
-3.  [gravity](../Page/gravity_\(LUNA_SEA單曲\).md "wikilink")
+3.  [gravity](https://zh.wikipedia.org/wiki/gravity_\(LUNA_SEA單曲\) "wikilink")
       -
         原詞曲：INORAN
 4.  KISS feat. DJ KRUSH

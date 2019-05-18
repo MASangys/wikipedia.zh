@@ -27,10 +27,8 @@ Note系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[�
   - [Samsung Galaxy Note
     FE](https://zh.wikipedia.org/wiki/三星Galaxy_Note_FE "wikilink")（Note
     7翻新機）（2017）\[9\]
-  - [三星Galaxy Note
-    8](https://zh.wikipedia.org/wiki/三星Galaxy_Note_8 "wikilink")（2017）\[10\]
-  - [三星Galaxy Note
-    9](https://zh.wikipedia.org/wiki/三星Galaxy_Note_9 "wikilink")（2018）
+  - [三星Galaxy Note 8](../Page/三星Galaxy_Note_8.md "wikilink")（2017）\[10\]
+  - [三星Galaxy Note 9](../Page/三星Galaxy_Note_9.md "wikilink")（2018）
 
 ### 平板電腦
 
@@ -203,11 +201,11 @@ Qualcomm <a href="https://zh.wikipedia.org/wiki/Snapdragon_(system_on_chip)" tit
 <td><p>CPU</p></td>
 <td><p>1.4 GHz dual-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A9" title="wikilink">ARM Cortex-A9</a></p></td>
 <td><p>1.6 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A9" title="wikilink">ARM Cortex-A9</a></p></td>
-<td><p>1.9 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A15" title="wikilink">ARM Cortex-A15</a> &amp; 1.3 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A7" title="wikilink">ARM Cortex-A7</a> (3G) or 2.3 GHz quad-core <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait 400</a> (<a href="../Page/4G.md" title="wikilink">4G</a>/LTE)</p></td>
+<td><p>1.9 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A15" title="wikilink">ARM Cortex-A15</a> &amp; 1.3 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A7" title="wikilink">ARM Cortex-A7</a> (3G) or 2.3 GHz quad-core <a href="../Page/Krait_(CPU).md" title="wikilink">Krait 400</a> (<a href="../Page/4G.md" title="wikilink">4G</a>/LTE)</p></td>
 <td><p>1.7 GHz dual-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A15" title="wikilink">ARM Cortex-A15</a> &amp; 1.3 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A7" title="wikilink">ARM Cortex-A7</a></p></td>
 <td><p>1.9 GHz quad-core Cortex-A57 &amp; 1.3 GHz quad-core Cortex-A53<br />
-(Exynos) or 2.7 GHz quad-core <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait 450</a> (Snapdragon)</p></td>
-<td><p>2.7 GHz quad-core <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait 450</a></p></td>
+(Exynos) or 2.7 GHz quad-core <a href="../Page/Krait_(CPU).md" title="wikilink">Krait 450</a> (Snapdragon)</p></td>
+<td><p>2.7 GHz quad-core <a href="../Page/Krait_(CPU).md" title="wikilink">Krait 450</a></p></td>
 <td><p>1.5 GHz quad-core Cortex-A53<br />
 2.1 GHz quad-core Cortex-A57</p></td>
 <td></td>

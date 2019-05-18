@@ -351,7 +351,7 @@
 
 **阿瑪達姆（）**（[田口トモロヲ飾](https://zh.wikipedia.org/wiki/:ja:田口トモロヲ "wikilink")／香港配音：[朱子聰](../Page/朱子聰.md "wikilink")）
 
-**葛葉紘汰（）**（[佐野岳飾](https://zh.wikipedia.org/wiki/佐野岳 "wikilink")／香港配音：[周倚天](../Page/周倚天.md "wikilink")）
+**葛葉紘汰（）**（[佐野岳飾](../Page/佐野岳.md "wikilink")／香港配音：[周倚天](../Page/周倚天.md "wikilink")）
 
 
 **門矢士（）**（[井上正大飾](../Page/井上正大.md "wikilink")／香港配音：[關令翹](../Page/關令翹.md "wikilink")）
@@ -578,7 +578,7 @@ Ackah飾](https://zh.wikipedia.org/wiki/:ja:ベルナール・アッカ "wikilin
     大學時期被石井悟史拉攏參與拍攝自資電影「Le rêve route」。
     以此為契機而萌生興趣成為演員。
 
-**達郎（）**（[延山信弘飾](https://zh.wikipedia.org/wiki/:ja:延山信弘 "wikilink")／香港配音：[陳耀楠](https://zh.wikipedia.org/wiki/陳耀楠 "wikilink")）
+**達郎（）**（[延山信弘飾](https://zh.wikipedia.org/wiki/:ja:延山信弘 "wikilink")／香港配音：[陳耀楠](../Page/陳耀楠.md "wikilink")）
 
   -
     聖誕節期間為了購買禮物送給孤兒院「燕子園」的孩子們而打工賺錢的青年。
@@ -604,7 +604,7 @@ Ackah飾](https://zh.wikipedia.org/wiki/:ja:ベルナール・アッカ "wikilin
     在公園寫生的畫家。
     第19話因為[九頭蛇破壞其亡妻的肖像畫陷入絕望](https://zh.wikipedia.org/wiki/九頭蛇 "wikilink")，成為[班德斯奈奇的宿主](https://zh.wikipedia.org/wiki/愛麗絲鏡中奇遇#主要角色 "wikilink")。
 
-**謎之指揮家**（[IZAM飾](https://zh.wikipedia.org/wiki/:ja:IZAM "wikilink")／香港配音：[李安邦](https://zh.wikipedia.org/wiki/李安邦 "wikilink")）
+**謎之指揮家**（[IZAM飾](https://zh.wikipedia.org/wiki/:ja:IZAM "wikilink")／香港配音：[李安邦](../Page/李安邦.md "wikilink")）
 
   -
     [巴力西卜的宿主](../Page/巴力西卜.md "wikilink")。
@@ -684,7 +684,7 @@ Ackah飾](https://zh.wikipedia.org/wiki/:ja:ベルナール・アッカ "wikilin
     [惡靈妖精的宿主](https://zh.wikipedia.org/wiki/:ja:ボギー_\(妖精\) "wikilink")。
     受命以土屋真隆與另外五人為目標。
 
-**清水千明（）**（[新木優子飾](https://zh.wikipedia.org/wiki/新木優子 "wikilink")／香港配音：[何璐怡](../Page/何璐怡.md "wikilink")）
+**清水千明（）**（[新木優子飾](../Page/新木優子.md "wikilink")／香港配音：[何璐怡](../Page/何璐怡.md "wikilink")）
 
   -
     新進的人氣模特兒。

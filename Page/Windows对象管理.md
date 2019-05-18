@@ -23,7 +23,7 @@ NT操作系统体系结构中](../Page/Windows_NT.md "wikilink")，对象管理�
 
 对象可分为**内核对象**（Kernel objects）与**执行对象**（Executive
 objects）。内核对象表示一些基本资源，如物理设备、同步服务等等。用户态的程序不能访问内核对象。\[4\]用户态的系统服务与应用程序使用执行对象，这是[Windows
-Executive对外暴露的对象](https://zh.wikipedia.org/wiki/Windows_NT体系结构 "wikilink")，用来封装一个或多个内核对象。执行对象还用于实现
+Executive对外暴露的对象](../Page/Windows_NT体系结构.md "wikilink")，用来封装一个或多个内核对象。执行对象还用于实现
 NT 子系统或 POSIX 子系统的一些功能。
 
 Windows NT 暴露的执行对象包括:
@@ -112,7 +112,7 @@ OpenThreadToken</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/事件_(同步原语)" title="wikilink">事件</a></p></td>
+<td><p><a href="../Page/事件_(同步原语).md" title="wikilink">事件</a></p></td>
 <td><p>封装了某些信息的一个对象，用于通知某些进程。</p></td>
 <td><p>CreateEvent<br />
 CreateEventEx<br />
@@ -456,8 +456,7 @@ Attributes 成员域可以是 0，或下述标志的组合：
 
 ## 参加
 
-  - [Windows
-    NT体系结构](https://zh.wikipedia.org/wiki/Windows_NT体系结构 "wikilink")
+  - [Windows NT体系结构](../Page/Windows_NT体系结构.md "wikilink")
 
 ## 参考文献
 

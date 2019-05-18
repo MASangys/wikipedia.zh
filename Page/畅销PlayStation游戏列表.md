@@ -20,28 +20,25 @@ style="width:15%;"| 制作商 \! style="width:15%;"| 发行商 |-
 | | | |- |[最终幻想VIII](../Page/最终幻想VIII.md "wikilink") |815万\[6\] | | | |
 | |- |[哈利·波特与魔法石](../Page/哈利·波特与魔法石_\(游戏\).md "wikilink") |800万\[7\] | |
 | | |ea |- |[古墓丽影II](../Page/古墓丽影II.md "wikilink") |800万\[8\] | | | | |
-|- |[古惑狼3：扭曲](https://zh.wikipedia.org/wiki/古惑狼3：扭曲 "wikilink")
-|713万\[9\] | | | | | |-
+|- |[古惑狼3：扭曲](../Page/古惑狼3：扭曲.md "wikilink") |713万\[9\] | | | | | |-
 |[潛龍諜影](https://zh.wikipedia.org/wiki/潛龍諜影_\(遊戲\) "wikilink")
 |700万\[10\] | | | | | |-
 |[古墓奇兵](https://zh.wikipedia.org/wiki/古墓奇兵_\(1996年電子遊戲\) "wikilink")
 |700万\[11\] | | | | | |-
 |[古惑狼](https://zh.wikipedia.org/wiki/古惑狼_\(游戏\) "wikilink")
 |682万\[12\] | | | | | |-
-|[古墓丽影III：劳拉的冒险](https://zh.wikipedia.org/wiki/古墓丽影III：劳拉的冒险 "wikilink")
+|[古墓丽影III：劳拉的冒险](../Page/古墓丽影III：劳拉的冒险.md "wikilink")
 |600万\[13\] | | | | | |- |[最终幻想IX](../Page/最终幻想IX.md "wikilink")
-|530万\[14\] | | | | | |-
-|[古惑狼2：皮质反击](https://zh.wikipedia.org/wiki/古惑狼2：皮质反击 "wikilink")
+|530万\[14\] | | | | | |- |[古惑狼2：皮质反击](../Page/古惑狼2：皮质反击.md "wikilink")
 |517万 |
 
   - 美国市场387万\[15\]
   - 日本市场130万\[16\]
 
-| | | | |-
-|[古墓丽影：最后的启示](https://zh.wikipedia.org/wiki/古墓丽影：最后的启示 "wikilink")
-|500万\[17\] | | | | |<noinclude> |-
-|[生化危機2](../Page/生化危機2.md "wikilink") |496万\[18\] | | |
-| | |- |[小龙斯派罗](https://zh.wikipedia.org/wiki/小龙斯派罗_\(游戏\) "wikilink")
+| | | | |- |[古墓丽影：最后的启示](../Page/古墓丽影：最后的启示.md "wikilink") |500万\[17\] |
+| | | |<noinclude> |- |[生化危機2](../Page/生化危機2.md "wikilink") |496万\[18\]
+| | | | | |-
+|[小龙斯派罗](https://zh.wikipedia.org/wiki/小龙斯派罗_\(游戏\) "wikilink")
 |483.2万\[19\] | | | | | |-
 |[铁拳3](https://zh.wikipedia.org/wiki/铁拳3 "wikilink") |464万 |
 
@@ -69,16 +66,13 @@ style="width:15%;"| 制作商 \! style="width:15%;"| 发行商 |-
   - 美国市场200万\[28\]
   - 日本市场137万\[29\]
 
-| | | | |-
-|[托尼·霍克职业滑板](https://zh.wikipedia.org/wiki/托尼·霍克职业滑板 "wikilink")
-|332万 |
+| | | | |- |[托尼·霍克职业滑板](../Page/托尼·霍克职业滑板.md "wikilink") |332万 |
 
   - 美国市场302万\[30\]
   - 英国市场30万\[31\]
 
-| | | | |-
-|[小龙斯派罗：龙年](https://zh.wikipedia.org/wiki/小龙斯派罗：龙年 "wikilink")
-|328.3万\[32\] | | | | | |- | |322万 |
+| | | | |- |[小龙斯派罗：龙年](../Page/小龙斯派罗：龙年.md "wikilink") |328.3万\[32\] | |
+| | | |- | |322万 |
 
   - 美国市场322万\[33\]
 
@@ -158,7 +152,7 @@ SmackDown\!](https://zh.wikipedia.org/wiki/WWF_SmackDown! "wikilink")
   - 美国市场155万\[60\]
   - 英国市场30万\[61\]
 
-| | | | |- |[寄生前夜](https://zh.wikipedia.org/wiki/寄生前夜_\(遊戲\) "wikilink")
+| | | | |- |[寄生前夜](../Page/寄生前夜_\(遊戲\).md "wikilink")
 |179.9万：出货194万\[62\] |
 
   - 日本市场105万\[63\]
@@ -241,9 +235,7 @@ SmackDown\!](https://zh.wikipedia.org/wiki/WWF_SmackDown! "wikilink")
   - 美国市场132万\[88\]
   - 英国市场10万\[89\]
 
-| | | | |-
-|[极品飞车：孤注一掷](https://zh.wikipedia.org/wiki/极品飞车：孤注一掷 "wikilink")
-|139万 |
+| | | | |- |[极品飞车：孤注一掷](../Page/极品飞车：孤注一掷.md "wikilink") |139万 |
 
   - 美国市场139万\[90\]
 
@@ -267,9 +259,7 @@ SmackDown\!](https://zh.wikipedia.org/wiki/WWF_SmackDown! "wikilink")
 
   - 美国市场127万\[95\]
 
-| | | | |- |[特种部队: Stealth
-Patrol](https://zh.wikipedia.org/wiki/特种部队系列 "wikilink")
-|127万 |
+| | | | |- |[特种部队: Stealth Patrol](../Page/特种部队系列.md "wikilink") |127万 |
 
   - 美国市场127万\[96\]
 
@@ -419,8 +409,8 @@ Mahjong](https://zh.wikipedia.org/wiki/Simple系列 "wikilink") |100万 |
 
 ### PocketStation
 
-[PocketStation](https://zh.wikipedia.org/wiki/PocketStation "wikilink")
-games that have sold or shipped at least one million copies.
+[PocketStation](../Page/PocketStation.md "wikilink") games that have
+sold or shipped at least one million copies.
 
   - [井上多樂](../Page/井上多樂.md "wikilink") (日本市场110万)\[143\]
 

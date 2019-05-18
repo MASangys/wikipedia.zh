@@ -2,7 +2,7 @@
 Communications
 Society)及[IEEE信號處理學會](https://zh.wikipedia.org/wiki/IEEE信號處理學會 "wikilink")(IEEE
 Signal Processing
-Society)所出版的一年發行6次的[期刊](https://zh.wikipedia.org/wiki/期刊 "wikilink")。本期刊接受有關無線通信的各個領域的新技術，概念，實驗和應用方面的實踐和理論的論文。根據[期刊引证报告](../Page/期刊引证报告.md "wikilink")，本期刊在2012年的[影响因子為](../Page/影响因子.md "wikilink")\<2.418\>、[特徵因子](https://zh.wikipedia.org/wiki/特徵因子 "wikilink")(eigenfactor)分值為\<0.05717\>，以及[論文影響分值](https://zh.wikipedia.org/wiki/論文影響分值 "wikilink")(article
+Society)所出版的一年發行6次的[期刊](../Page/期刊.md "wikilink")。本期刊接受有關無線通信的各個領域的新技術，概念，實驗和應用方面的實踐和理論的論文。根據[期刊引证报告](../Page/期刊引证报告.md "wikilink")，本期刊在2012年的[影响因子為](../Page/影响因子.md "wikilink")\<2.418\>、[特徵因子](https://zh.wikipedia.org/wiki/特徵因子 "wikilink")(eigenfactor)分值為\<0.05717\>，以及[論文影響分值](https://zh.wikipedia.org/wiki/論文影響分值 "wikilink")(article
 influence score)為\<1.191\>。\[1\]\[2\]
 
 ## 參見

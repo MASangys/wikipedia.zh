@@ -68,7 +68,7 @@ x
   - [美能达](https://zh.wikipedia.org/wiki/美能达 "wikilink")
       - [Minolta
         AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")，美能达公司的另外一个[自动对焦系统](../Page/自动对焦.md "wikilink")
-      - [iISO](../Page/iISO.md "wikilink")，美能达公司自1988年开始使用的热靴接口，同样使用在S机身上
+      - [iISO](https://zh.wikipedia.org/wiki/iISO "wikilink")，美能达公司自1988年开始使用的热靴接口，同样使用在S机身上
   - [先进摄影系统](https://zh.wikipedia.org/wiki/先进摄影系统 "wikilink")
 
 ## 参考与引用

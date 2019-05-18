@@ -29,7 +29,7 @@
 
 ###
 
-  - [玛哈沙拉堪大学](https://zh.wikipedia.org/wiki/玛哈沙拉堪大学 "wikilink")
+  - [玛哈沙拉堪大学](../Page/玛哈沙拉堪大学.md "wikilink")
 
 ###
 

@@ -28,7 +28,7 @@ turbocharger），故最大馬力170ps / 4,800-5,600rpm，扭力峰值25.5kgf·m
 
 ## FB20型
 
-**FB20型**的排氣量為1,995c.c.、缸徑84.0mm、衝程90.0mm、壓縮比10.5：1（但[速霸陸XV則為](https://zh.wikipedia.org/wiki/速霸陸XV "wikilink")12.5：1）、缸心距113.0mm，至於馬力和扭力則依調校程度而有所差別：
+**FB20型**的排氣量為1,995c.c.、缸徑84.0mm、衝程90.0mm、壓縮比10.5：1（但[速霸陸XV則為](../Page/速霸陸XV.md "wikilink")12.5：1）、缸心距113.0mm，至於馬力和扭力則依調校程度而有所差別：
 
 1.  [自排](../Page/自动变速器.md "wikilink")、[CVT車型](../Page/無段自動變速器.md "wikilink")：最大馬力148ps
     / 6,000rpm、最大扭力20.0kgf·m / 4,200rpm。
@@ -43,7 +43,7 @@ Valve）、EGR[排氣再循環系統](../Page/排氣再循環.md "wikilink")（E
 Gas
 Recirculation）、[AVCS主動閥門控制系統與分離式引擎冷卻器等](../Page/AVCS主動閥門控制系統.md "wikilink")。車型：
 
-1.  2010年迄今：[第三、四代速霸陸Forester](https://zh.wikipedia.org/wiki/速霸陸Forester "wikilink")
+1.  2010年迄今：[第三、四代速霸陸Forester](../Page/速霸陸Forester.md "wikilink")
 2.  2011年-2016年：第四代速霸陸Impreza
 3.  2012年-2017年：第二代速霸陸XV
 4.  2013年迄今：第二代速霸陸XV Hybrid
@@ -61,12 +61,12 @@ Recirculation）、[AVCS主動閥門控制系統與分離式引擎冷卻器等](
 
 1.  2012年迄今：第四代速霸陸Forester
 2.  2012年迄今：[第五代速霸陸Legacy](../Page/速霸陸Legacy.md "wikilink")
-3.  2012年迄今：[第四、五代速霸陸Outback](https://zh.wikipedia.org/wiki/速霸陸Outback "wikilink")
-4.  2012年迄今：[速霸陸Exiga](https://zh.wikipedia.org/wiki/速霸陸Exiga "wikilink")
+3.  2012年迄今：[第四、五代速霸陸Outback](../Page/速霸陸Outback.md "wikilink")
+4.  2012年迄今：[速霸陸Exiga](../Page/速霸陸Exiga.md "wikilink")
 
 ## 內部連結
 
-  - [速霸陸引擎列表](https://zh.wikipedia.org/wiki/速霸陸引擎列表 "wikilink")
+  - [速霸陸引擎列表](../Page/速霸陸引擎列表.md "wikilink")
   - [水平對臥引擎](../Page/水平對臥引擎.md "wikilink")
   - [水平對臥四缸引擎](../Page/水平對臥四缸引擎.md "wikilink")
 

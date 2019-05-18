@@ -67,7 +67,7 @@
 <td><p>任天堂</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Wii_Fit" title="wikilink">Wii Fit</a></p></td>
+<td><p><a href="../Page/Wii_Fit.md" title="wikilink">Wii Fit</a></p></td>
 <td><p>2267萬[7]</p></td>
 <td></td>
 <td></td>
@@ -126,7 +126,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Nd_Cube" title="wikilink">Nd Cube</a>, <a href="https://zh.wikipedia.org/wiki/Nintendo_SPD" title="wikilink">Nintendo SPD</a> (Group 4)</p></td>
+<td><p><a href="../Page/Nd_Cube.md" title="wikilink">Nd Cube</a>, <a href="https://zh.wikipedia.org/wiki/Nintendo_SPD" title="wikilink">Nintendo SPD</a> (Group 4)</p></td>
 <td><p>任天堂</p></td>
 </tr>
 <tr class="odd">

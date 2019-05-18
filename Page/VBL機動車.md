@@ -48,7 +48,7 @@
 
   - [輕裝甲機動車](../Page/輕裝甲機動車.md "wikilink")
   - [悍馬](https://zh.wikipedia.org/wiki/悍馬 "wikilink")
-  - [GAZ猛虎車](https://zh.wikipedia.org/wiki/GAZ猛虎車 "wikilink")
+  - [GAZ猛虎車](../Page/GAZ猛虎車.md "wikilink")
 
 ## 外部連結
 

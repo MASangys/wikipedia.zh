@@ -39,14 +39,14 @@
 <tr class="even">
 <td><p>| <a href="../Page/GNU核心工具组.md" title="wikilink">coreutils</a></p></td>
 <td><p>基本命令</p></td>
-<td><p><strong>fileutils</strong>: <a href="https://zh.wikipedia.org/wiki/chgrp" title="wikilink">chgrp</a>, <a href="https://zh.wikipedia.org/wiki/chown" title="wikilink">chown</a>, <a href="../Page/chmod.md" title="wikilink">chmod</a>, <a href="../Page/cp_(Unix).md" title="wikilink">cp</a>, <a href="../Page/dd_(Unix).md" title="wikilink">dd</a>, <a href="https://zh.wikipedia.org/wiki/df_(Unix)" title="wikilink">df</a>, <a href="https://zh.wikipedia.org/wiki/dir_(Unix)" title="wikilink">dir</a>, <a href="../Page/du_(Unix).md" title="wikilink">du</a>, <a href="https://zh.wikipedia.org/wiki/ln_(Unix)" title="wikilink">ln</a>, <a href="../Page/ls.md" title="wikilink">ls</a>, <a href="https://zh.wikipedia.org/wiki/mkdir" title="wikilink">mkdir</a>, <a href="https://zh.wikipedia.org/wiki/mkfifo" title="wikilink">mkfifo</a>, <a href="https://zh.wikipedia.org/wiki/mknod" title="wikilink">mknod</a>, <a href="https://zh.wikipedia.org/wiki/mv" title="wikilink">mv</a>, <a href="../Page/rm_(Unix).md" title="wikilink">rm等</a><br />
-<strong>textutils</strong>: <a href="https://zh.wikipedia.org/wiki/cat_(Unix)" title="wikilink">cat</a>, <a href="https://zh.wikipedia.org/wiki/cksum" title="wikilink">cksum</a>, <a href="https://zh.wikipedia.org/wiki/head_(Unix)" title="wikilink">head</a>, <a href="https://zh.wikipedia.org/wiki/Tail_(Unix)" title="wikilink">tail</a>, <a href="../Page/md5sum.md" title="wikilink">md5sum</a>, <a href="https://zh.wikipedia.org/wiki/nl_(Unix)" title="wikilink">nl</a>, <a href="https://zh.wikipedia.org/wiki/od_(Unix)" title="wikilink">od</a>, <a href="https://zh.wikipedia.org/wiki/pr_(Unix)" title="wikilink">pr</a>, <a href="https://zh.wikipedia.org/wiki/tsort_(Unix)" title="wikilink">tsort</a>, <a href="https://zh.wikipedia.org/wiki/join_(Unix)" title="wikilink">join</a>, <a href="../Page/wc_(Unix).md" title="wikilink">wc</a>, <a href="https://zh.wikipedia.org/wiki/Tac_(Unix)" title="wikilink">tac</a>, <a href="https://zh.wikipedia.org/wiki/paste_(Unix)" title="wikilink">paste等</a><br />
-<strong>shellutils</strong>: <a href="https://zh.wikipedia.org/wiki/basename" title="wikilink">basename</a>, <a href="../Page/chroot.md" title="wikilink">chroot</a>, <a href="https://zh.wikipedia.org/wiki/date_(Unix)" title="wikilink">date</a>, <a href="https://zh.wikipedia.org/wiki/dirname" title="wikilink">dirname</a>, <a href="../Page/echo_(命令).md" title="wikilink">echo</a>, <a href="https://zh.wikipedia.org/wiki/env_(shell)" title="wikilink">env</a>, <a href="https://zh.wikipedia.org/wiki/Group_identifier_(Unix)" title="wikilink">groups</a>, <a href="https://zh.wikipedia.org/wiki/hostname" title="wikilink">hostname</a>, <a href="https://zh.wikipedia.org/wiki/nice_(Unix)" title="wikilink">nice</a>, <a href="https://zh.wikipedia.org/wiki/nohup" title="wikilink">nohup</a>, <a href="https://zh.wikipedia.org/wiki/printf" title="wikilink">printf</a>, <a href="../Page/sleep_(Unix).md" title="wikilink">sleep等</a></p></td>
+<td><p><strong>fileutils</strong>: <a href="https://zh.wikipedia.org/wiki/chgrp" title="wikilink">chgrp</a>, <a href="https://zh.wikipedia.org/wiki/chown" title="wikilink">chown</a>, <a href="https://zh.wikipedia.org/wiki/chmod" title="wikilink">chmod</a>, <a href="https://zh.wikipedia.org/wiki/cp_(Unix)" title="wikilink">cp</a>, <a href="https://zh.wikipedia.org/wiki/dd_(Unix)" title="wikilink">dd</a>, <a href="https://zh.wikipedia.org/wiki/df_(Unix)" title="wikilink">df</a>, <a href="https://zh.wikipedia.org/wiki/dir_(Unix)" title="wikilink">dir</a>, <a href="https://zh.wikipedia.org/wiki/du_(Unix)" title="wikilink">du</a>, <a href="https://zh.wikipedia.org/wiki/ln_(Unix)" title="wikilink">ln</a>, <a href="https://zh.wikipedia.org/wiki/ls" title="wikilink">ls</a>, <a href="https://zh.wikipedia.org/wiki/mkdir" title="wikilink">mkdir</a>, <a href="https://zh.wikipedia.org/wiki/mkfifo" title="wikilink">mkfifo</a>, <a href="https://zh.wikipedia.org/wiki/mknod" title="wikilink">mknod</a>, <a href="https://zh.wikipedia.org/wiki/mv" title="wikilink">mv</a>, <a href="https://zh.wikipedia.org/wiki/rm_(Unix)" title="wikilink">rm等</a><br />
+<strong>textutils</strong>: <a href="https://zh.wikipedia.org/wiki/cat_(Unix)" title="wikilink">cat</a>, <a href="https://zh.wikipedia.org/wiki/cksum" title="wikilink">cksum</a>, <a href="https://zh.wikipedia.org/wiki/head_(Unix)" title="wikilink">head</a>, <a href="https://zh.wikipedia.org/wiki/Tail_(Unix)" title="wikilink">tail</a>, <a href="https://zh.wikipedia.org/wiki/md5sum" title="wikilink">md5sum</a>, <a href="https://zh.wikipedia.org/wiki/nl_(Unix)" title="wikilink">nl</a>, <a href="https://zh.wikipedia.org/wiki/od_(Unix)" title="wikilink">od</a>, <a href="https://zh.wikipedia.org/wiki/pr_(Unix)" title="wikilink">pr</a>, <a href="https://zh.wikipedia.org/wiki/tsort_(Unix)" title="wikilink">tsort</a>, <a href="https://zh.wikipedia.org/wiki/join_(Unix)" title="wikilink">join</a>, <a href="https://zh.wikipedia.org/wiki/wc_(Unix)" title="wikilink">wc</a>, <a href="https://zh.wikipedia.org/wiki/Tac_(Unix)" title="wikilink">tac</a>, <a href="https://zh.wikipedia.org/wiki/paste_(Unix)" title="wikilink">paste等</a><br />
+<strong>shellutils</strong>: <a href="https://zh.wikipedia.org/wiki/basename" title="wikilink">basename</a>, <a href="https://zh.wikipedia.org/wiki/chroot" title="wikilink">chroot</a>, <a href="https://zh.wikipedia.org/wiki/date_(Unix)" title="wikilink">date</a>, <a href="https://zh.wikipedia.org/wiki/dirname" title="wikilink">dirname</a>, <a href="https://zh.wikipedia.org/wiki/echo_(命令)" title="wikilink">echo</a>, <a href="https://zh.wikipedia.org/wiki/env_(shell)" title="wikilink">env</a>, <a href="https://zh.wikipedia.org/wiki/Group_identifier_(Unix)" title="wikilink">groups</a>, <a href="https://zh.wikipedia.org/wiki/hostname" title="wikilink">hostname</a>, <a href="https://zh.wikipedia.org/wiki/nice_(Unix)" title="wikilink">nice</a>, <a href="https://zh.wikipedia.org/wiki/nohup" title="wikilink">nohup</a>, <a href="https://zh.wikipedia.org/wiki/printf" title="wikilink">printf</a>, <a href="https://zh.wikipedia.org/wiki/sleep_(Unix)" title="wikilink">sleep等</a></p></td>
 <td></td>
 <td><p>12-10-2011</p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="../Page/cpio.md" title="wikilink">cpio</a></p></td>
+<td><p>| <a href="https://zh.wikipedia.org/wiki/cpio" title="wikilink">cpio</a></p></td>
 <td><p>归档程序</p></td>
 <td><p>cpio</p></td>
 <td><p>2.11</p></td>
@@ -62,7 +62,7 @@
 <tr class="odd">
 <td><p>| <a href="https://zh.wikipedia.org/wiki/findutils" title="wikilink">findutils</a></p></td>
 <td><p>包含搜索实用程序</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/find" title="wikilink">find</a>, <a href="https://zh.wikipedia.org/wiki/GNU_locate" title="wikilink">locate</a>, <a href="../Page/xargs.md" title="wikilink">xargs</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/find" title="wikilink">find</a>, <a href="https://zh.wikipedia.org/wiki/GNU_locate" title="wikilink">locate</a>, <a href="https://zh.wikipedia.org/wiki/xargs" title="wikilink">xargs</a></p></td>
 <td><p>4.2.28</p></td>
 <td><p>05-8-2006</p></td>
 </tr>
@@ -74,7 +74,7 @@
 <td><p>28-10-1992</p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="../Page/grep.md" title="wikilink">grep</a></p></td>
+<td><p>| <a href="https://zh.wikipedia.org/wiki/grep" title="wikilink">grep</a></p></td>
 <td><p>在文件中搜索字符串</p></td>
 <td><p>grep</p></td>
 <td><p>2.10</p></td>
@@ -95,7 +95,7 @@
 <td><p>14-05-2011</p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="../Page/gzip.md" title="wikilink">gzip</a></p></td>
+<td><p>| <a href="https://zh.wikipedia.org/wiki/gzip" title="wikilink">gzip</a></p></td>
 <td><p>压缩程序（GZIP）</p></td>
 <td><p>gzip</p></td>
 <td></td>
@@ -111,7 +111,7 @@
 <tr class="even">
 <td><p>| <a href="https://zh.wikipedia.org/wiki/inetutils" title="wikilink">inetutils</a></p></td>
 <td><p>网络工具组</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File_Transfer_Protocol" title="wikilink">ftp</a>, <a href="../Page/telnet.md" title="wikilink">telnet</a>, <a href="https://zh.wikipedia.org/wiki/Remote_shell" title="wikilink">rsh</a>, <a href="https://zh.wikipedia.org/wiki/rlogin" title="wikilink">rlogin</a>, <a href="https://zh.wikipedia.org/wiki/tftp" title="wikilink">tftp</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File_Transfer_Protocol" title="wikilink">ftp</a>, <a href="https://zh.wikipedia.org/wiki/telnet" title="wikilink">telnet</a>, <a href="https://zh.wikipedia.org/wiki/Remote_shell" title="wikilink">rsh</a>, <a href="https://zh.wikipedia.org/wiki/rlogin" title="wikilink">rlogin</a>, <a href="https://zh.wikipedia.org/wiki/tftp" title="wikilink">tftp</a></p></td>
 <td><p>1.9</p></td>
 <td><p>31-12-2011</p></td>
 </tr>
@@ -151,7 +151,7 @@
 <td><p>2009</p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="../Page/tar.md" title="wikilink">tar</a></p></td>
+<td><p>| <a href="https://zh.wikipedia.org/wiki/tar" title="wikilink">tar</a></p></td>
 <td><p>能够创建和处理各种存档格式的归档器</p></td>
 <td><p>tar</p></td>
 <td><p>1.27</p></td>
@@ -190,7 +190,7 @@
 ## 开发工具
 
 1.  [GNU构建系统](https://zh.wikipedia.org/wiki/GNU构建系统 "wikilink") –
-    包含[autoconf和](../Page/autoconf.md "wikilink")[automake](../Page/automake.md "wikilink")
+    包含[autoconf和](https://zh.wikipedia.org/wiki/autoconf "wikilink")[automake](https://zh.wikipedia.org/wiki/automake "wikilink")
 2.  [Gnulib](https://zh.wikipedia.org/wiki/Gnulib "wikilink") –
     用于GNU编译系统的可移植运行库
 3.  [GNU Binutils](../Page/GNU_Binutils.md "wikilink") –
@@ -231,7 +231,7 @@
     Classpath](https://zh.wikipedia.org/wiki/GNU_Classpath "wikilink") –
     [Java库](../Page/Java.md "wikilink")
 18. [GNU bison](https://zh.wikipedia.org/wiki/GNU_bison "wikilink") –
-    作为[yacc替代的](../Page/yacc.md "wikilink")[语法分析器产生程序](../Page/編譯器編譯程式.md "wikilink")
+    作为[yacc替代的](https://zh.wikipedia.org/wiki/yacc "wikilink")[语法分析器产生程序](../Page/編譯器編譯程式.md "wikilink")
 19. [GNU Guile](../Page/GNU_Guile.md "wikilink") –
     嵌入式[Scheme](../Page/Scheme.md "wikilink")[解释器](https://zh.wikipedia.org/wiki/解释器 "wikilink")（[扩展语言](../Page/脚本语言.md "wikilink")）
 20. [BFD](../Page/二进制文件描述库.md "wikilink") –
@@ -263,7 +263,7 @@
 30. [GNU
     Fontutils](https://zh.wikipedia.org/wiki/GNU_Fontutils "wikilink") –
     字体管理实用程序
-31. [GNU cflow](https://zh.wikipedia.org/wiki/GNU_cflow "wikilink") –
+31. [GNU cflow](../Page/GNU_cflow.md "wikilink") –
     生成[C语言的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[调用图](https://zh.wikipedia.org/wiki/调用图 "wikilink")
 32. GNU AutoGen – An [active
     tier-style](https://zh.wikipedia.org/wiki/Comparison_of_code_generation_tools "wikilink")
@@ -317,9 +317,8 @@
     GNU操作系统的Emacs编辑器
 11. [GNU fcrypt](https://zh.wikipedia.org/wiki/GNU_fcrypt "wikilink") -
     实时加密
-12. [GNU Health](https://zh.wikipedia.org/wiki/GNU_Health "wikilink") –
-    自由的医疗和医院信息系统
-13. [GNUmed](https://zh.wikipedia.org/wiki/GNUmed "wikilink") – 医疗实践管理软件
+12. [GNU Health](../Page/GNU_Health.md "wikilink") – 自由的医疗和医院信息系统
+13. [GNUmed](../Page/GNUmed.md "wikilink") – 医疗实践管理软件
 14. [Gnumeric](../Page/Gnumeric.md "wikilink") – GNU电子表格程序
 15. [GNU
     libextractor](https://zh.wikipedia.org/wiki/GNU_libextractor "wikilink")
@@ -327,8 +326,7 @@
 16. [GNU
     LilyPond](https://zh.wikipedia.org/wiki/GNU_LilyPond "wikilink") –
     音乐排版应用
-17. [GNU Mailman](https://zh.wikipedia.org/wiki/GNU_Mailman "wikilink")
-    – GNU项目的邮件列表管理程序
+17. [GNU Mailman](../Page/GNU_Mailman.md "wikilink") – GNU项目的邮件列表管理程序
 18. [GNU Parted](../Page/GNU_Parted.md "wikilink") – 分区程序
 19. [GNU nano](https://zh.wikipedia.org/wiki/GNU_nano "wikilink") -
     文本编辑器
@@ -339,7 +337,8 @@
     并行执行shell命令（在单一主机上，或使用[SSH连接多个主机](https://zh.wikipedia.org/wiki/SSH "wikilink")）
 22. [GNU Privacy Guard](../Page/GnuPG.md "wikilink") –
     [PGP加密替代](../Page/PGP.md "wikilink")
-23. GNU [wget](../Page/wget.md "wikilink") – 高级网络和互联网文件检索工具
+23. GNU [wget](https://zh.wikipedia.org/wiki/wget "wikilink") –
+    高级网络和互联网文件检索工具
 24. [GNUnet](https://zh.wikipedia.org/wiki/GNUnet "wikilink") –
     反审查分布式点对点通信网络
 25. GNU Robots – 程序员的游戏
@@ -351,7 +350,8 @@
     [网络包](https://zh.wikipedia.org/wiki/网络包 "wikilink")
 29. GNU Ferret – Free Entity Relationship and Reverse Engineering Tool.
     SQL database designer
-30. [lsh](../Page/lsh.md "wikilink") – 安全Shell（SSH）协议第2版的实现
+30. [lsh](https://zh.wikipedia.org/wiki/lsh "wikilink") –
+    安全Shell（SSH）协议第2版的实现
 31. [Ocrad](https://zh.wikipedia.org/wiki/Ocrad "wikilink") – GNU光学字符识别
 32. GNU Stow – 软件安装管理程序
 33. GNU gcal – 日历计算及打印程序。
@@ -446,7 +446,7 @@
     - [双陆棋游戏](https://zh.wikipedia.org/wiki/双陆棋 "wikilink")
 2.  [GNUbik](https://zh.wikipedia.org/wiki/GNUbik "wikilink") -
     [魔方的自由软件实现](../Page/魔方.md "wikilink")
-3.  [GNU Chess](https://zh.wikipedia.org/wiki/GNU_Chess "wikilink") -
+3.  [GNU Chess](../Page/GNU_Chess.md "wikilink") -
     使用[glChess](https://zh.wikipedia.org/wiki/glChess "wikilink")、[Xboard或类似的国际象棋游戏引擎](https://zh.wikipedia.org/wiki/Xboard "wikilink")
 4.  [GNU Go](../Page/GNU_Go.md "wikilink") -
     [围棋的实现](../Page/围棋.md "wikilink")

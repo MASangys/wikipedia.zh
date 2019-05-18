@@ -13,7 +13,7 @@
   - [王敏德](../Page/王敏德.md "wikilink") 飾 Michael
   - [廖啟智](../Page/廖啟智.md "wikilink") 飾 天九明
   - [袁信義](https://zh.wikipedia.org/wiki/袁信義 "wikilink")
-  - [焦姣](https://zh.wikipedia.org/wiki/焦姣 "wikilink") 飾 陸母
+  - [焦姣](../Page/焦姣.md "wikilink") 飾 陸母
   - [郭政鴻](../Page/郭政鴻.md "wikilink") 飾 天九明債主手下
   - [曹榮](https://zh.wikipedia.org/wiki/曹榮 "wikilink") 飾 天九明債主手下/CIA黑警
 

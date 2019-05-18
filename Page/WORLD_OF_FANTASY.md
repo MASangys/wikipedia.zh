@@ -3,7 +3,7 @@ FANTASY**》是日本音樂組合[CAPSULE第](../Page/CAPSULE.md "wikilink")12�
 
 ## 概要
 
-  - 距離前作「[PLAYER](https://zh.wikipedia.org/wiki/PLAYER_\(CAPSULE專輯\) "wikilink")」發行約1年半的原創專輯。
+  - 距離前作「[PLAYER](../Page/PLAYER_\(CAPSULE專輯\).md "wikilink")」發行約1年半的原創專輯。
   - 最初的專輯名稱為「**KILLER
     WAVE**」，並預定在3月23日發售。後來因[日本東北地方太平洋近海地震的影響](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")，專輯延期發售及更名為「WORLD
     OF FANTASY」。

@@ -1,0 +1,40 @@
+__NOTOC__
+
+<div align="center">
+
+</div>
+
+{{/box-header|死亡主题|Portal:死亡/简介}}  {{/box-footer}}
+
+<div style="float:left; width:60%;">
+
+{{/box-header|精選條目|Portal:死亡/優良條目}}  {{/box-footer}}
+
+{{/box-header|你知道吗|Portal:死亡/你知道吗}}  {{/box-footer}}
+
+{{/box-header|推介图片|Portal:死亡/推介图片}}  {{/box-footer}}
+
+\[ 刷新\]
+
+</div>
+
+<div style="float:right; width:39%">
+
+{{/box-header|訃闻|Portal:死亡/訃聞}}  {{/box-footer}}
+
+{{/box-header|欢迎参与|Portal:死亡/欢迎参与}}  {{/box-footer}}
+
+{{/box-header|维基专题|Portal:死亡/维基专题}}  {{/box-footer}}
+
+{{/box-header|分类|Portal:死亡/分类}}  {{/box-footer}}
+
+{{/box-header|跨計劃合作|Portal:死亡/跨計劃合作}}  {{/box-footer}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|维基主题|template:portals}}  {{/box-footer|}}
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
+[Category:死亡](https://zh.wikipedia.org/wiki/Category:死亡 "wikilink")

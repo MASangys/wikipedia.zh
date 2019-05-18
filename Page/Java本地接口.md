@@ -181,8 +181,7 @@ __int64</p></td>
 签名` "L  ``qualified-class
 ;"`是由该名字指明的类。例如，签名`"Ljava/lang/String;"`是类`java.lang.String`。带前缀`[`的签名表示该类型的数组，如`[I`表示整型数组。`void`签名使用`V`代码。
 
-这些类型是可以互换的，如`jint`也可使用
-`int`，不需任何[类型转换](https://zh.wikipedia.org/wiki/类型转换 "wikilink")。
+这些类型是可以互换的，如`jint`也可使用 `int`，不需任何[类型转换](../Page/类型转换.md "wikilink")。
 
 但是，Java字符串、数组与本地字符串、数组是不同的。如果在使用`char *`代替了`jstring`，程序可能会导致JVM崩溃。
 
@@ -442,9 +441,10 @@ $ ./make.sh
     and C\#. Java Class methods and fields (which are represented as
     .NET Class properties) to be wrapped can be filtered. (Commercial)
   - [*e*X*treme*DB JNI](http://www.mcobject.com/extremedb-jni) uses Java
-     and [reflection](../Page/reflection.md "wikilink") to enable Java
-    applications to call the  database (written in C) without reliance
-    on an external database definition language
+     and
+    [reflection](https://zh.wikipedia.org/wiki/reflection "wikilink") to
+    enable Java applications to call the  database (written in C)
+    without reliance on an external database definition language
   - [JavaToDPR](http://home.pacifier.com/~mmead/jni/delphi/JavaToDPR/),
     a Delphi Project (.dpr) Stub File Generator that allows one to write
     an [Embarcadero

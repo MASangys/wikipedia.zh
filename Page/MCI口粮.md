@@ -16,7 +16,7 @@ MCI口粮外包装为一个矩形卡纸盒，期中包括一个小号扁形罐�
 
 ## 相关条目
 
-  - [Scho-Ka-Kola](https://zh.wikipedia.org/wiki/Scho-Ka-Kola "wikilink")
+  - [Scho-Ka-Kola](../Page/Scho-Ka-Kola.md "wikilink")
 
 [Category:美軍飲食](https://zh.wikipedia.org/wiki/Category:美軍飲食 "wikilink")
 [Category:20世纪美军](https://zh.wikipedia.org/wiki/Category:20世纪美军 "wikilink")

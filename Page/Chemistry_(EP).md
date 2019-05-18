@@ -1,7 +1,7 @@
 《**CHEMISTRY**》是[韓國的混聲組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Trouble
 Maker](../Page/Trouble_Maker.md "wikilink") 於2013年發行的迷你專輯。該專輯是[Trouble
 Maker繼](../Page/Trouble_Maker.md "wikilink")2011年第一隻專輯《[Trouble
-Maker](https://zh.wikipedia.org/wiki/Trouble_Maker_\(EP\) "wikilink")》發行後，時隔兩年才發行的第2張迷你專輯。
+Maker](../Page/Trouble_Maker_\(EP\).md "wikilink")》發行後，時隔兩年才發行的第2張迷你專輯。
 
 ## 概要
 

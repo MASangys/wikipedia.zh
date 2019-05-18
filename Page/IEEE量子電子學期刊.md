@@ -14,7 +14,7 @@ Photonics Society)於1965年出版。
 
 ## 參見
 
-  - [IEEE量子電子學選題期刊](https://zh.wikipedia.org/wiki/IEEE量子電子學選題期刊 "wikilink")
+  - [IEEE量子電子學選題期刊](../Page/IEEE量子電子學選題期刊.md "wikilink")
 
 ## 外部連結
 

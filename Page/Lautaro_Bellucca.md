@@ -32,7 +32,7 @@ Group正式步入個別演出和專輯灌錄的階段開始，LuKa投放更多�
 
 ## 另見
 
-  - [Kobi Arad Band](https://zh.wikipedia.org/wiki/Kobi_Arad "wikilink")
+  - [Kobi Arad Band](../Page/Kobi_Arad.md "wikilink")
 
 ## 註解
 

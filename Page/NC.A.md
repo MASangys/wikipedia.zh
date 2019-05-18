@@ -4,7 +4,7 @@ Champion作為出道舞台](../Page/Show_Champion.md "wikilink")\[2\]。該曲MV
 Day的](../Page/Girl's_Day.md "wikilink")[惠利和演員](../Page/惠利.md "wikilink")[徐芝釋演出](../Page/徐芝釋.md "wikilink")。2017年2月，JJ
 Holic
 Media經過兩星期的官方粉絲名稱招募活動後，確定NC.A的官方粉絲名稱為Ndorphin（앤돌핀）。2018年2月11日，在选秀節目《[The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》的最後一集中，NC.A獲得第3名，進入期間限定團體[UNI.T出道](https://zh.wikipedia.org/wiki/UNI.T "wikilink")，並於5月18日於[Music
+Unit](../Page/The_Unit.md "wikilink")》的最後一集中，NC.A獲得第3名，進入期間限定團體[UNI.T出道](../Page/UNI.T.md "wikilink")，並於5月18日於[Music
 Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
 
 ## 音樂作品
@@ -299,15 +299,13 @@ Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
 
 ## 戲劇
 
-  - 2013年：[tvN](../Page/tvN.md "wikilink")《[請回答1994](../Page/請回答1994.md "wikilink")》飾演
+  - 2013年：[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[請回答1994](../Page/請回答1994.md "wikilink")》飾演
     學生\[3\]（第六集）
   - 2014年：《 第二季》飾演 助手
-  - 2017年：[tvN](../Page/tvN.md "wikilink")《[犯罪心理
+  - 2017年：[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[犯罪心理
     (韓國)](https://zh.wikipedia.org/wiki/犯罪心理_\(韓國\) "wikilink")》飾演
     趙恩靜（第七集）
-  - 2018年：KBS 《[To.
-    Jenny](https://zh.wikipedia.org/wiki/To._Jenny "wikilink")》 飾演
-    Eileen
+  - 2018年：KBS 《[To. Jenny](../Page/To._Jenny.md "wikilink")》 飾演 Eileen
 
 ## 電視節目主持
 
@@ -350,8 +348,7 @@ Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
     《春節試播節目：
     [本份奧運會](https://zh.wikipedia.org/wiki/本份奧運會 "wikilink")》
   - 2017年10月28日：[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")
-    《[The
-    Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》[The Unit
+    《[The Unit](../Page/The_Unit.md "wikilink")》[The Unit
     Audition](https://www.youtube.com/watch?v=cvY3nRo-wTk)
 
 ## 廣告代言

@@ -7,7 +7,7 @@
 ## 历史
 
 1979年，[洛斯阿拉莫斯国家实验室](../Page/洛斯阿拉莫斯国家实验室.md "wikilink")（LANL）[理论生物学和生物物理学小组](http://www.t10.lanl.gov/)的等人建立了洛斯阿拉莫斯序列数据库，最终成为了公共的
-GenBank数据库的前身\[4\]。1982年，由[美国国立卫生研究院](https://zh.wikipedia.org/wiki/国立卫生研究院_\(美国\) "wikilink")、美国国家科学基金会、美国能源部和国防部共同出资，LANL与[BBN科技公司合作](https://zh.wikipedia.org/wiki/BBN科技 "wikilink")，成立了GenBank。到1983年底，已有超过2,000个序列被存储在GenBank。
+GenBank数据库的前身\[4\]。1982年，由[美国国立卫生研究院](https://zh.wikipedia.org/wiki/国立卫生研究院_\(美国\) "wikilink")、美国国家科学基金会、美国能源部和国防部共同出资，LANL与[BBN科技公司合作](../Page/BBN科技.md "wikilink")，成立了GenBank。到1983年底，已有超过2,000个序列被存储在GenBank。
 
 在20世纪80年代中期，[斯坦福大学的Intelligenetics](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")
 bioinformatics公司与LANL合作经营着GenBank项目\[5\]。作为最早的互联网[生物信息学社区项目](../Page/生物信息学.md "wikilink")，GenBank计划为生物学家打造一个[开放获取的](../Page/开放获取.md "wikilink")/Bionet消息社群。1989到1992年，GenBank被转移到新成立的[美国国家生物技术信息中心](../Page/美国国家生物技术信息中心.md "wikilink")\[6\]。
@@ -73,7 +73,7 @@ GenBank数据库还包括一些额外的数据集，不包括在这个统计内�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/红花烟草" title="wikilink">红花烟草</a> <em>Nicotiana tabacum</em></p></td>
+<td><p><a href="../Page/红花烟草.md" title="wikilink">红花烟草</a> <em>Nicotiana tabacum</em></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -122,7 +122,7 @@ GenBank数据库还包括一些额外的数据集，不包括在这个统计内�
     Database](https://zh.wikipedia.org/wiki/Human_Protein_Reference_Database "wikilink")
     (HPRD)
   - [序列分析](https://zh.wikipedia.org/wiki/序列分析 "wikilink")
-  - [UniProt](https://zh.wikipedia.org/wiki/UniProt "wikilink")
+  - [UniProt](../Page/UniProt.md "wikilink")
   - [已测序真核生物基因组列表](../Page/已测序真核生物基因组列表.md "wikilink")
   - [已测序古菌基因组列表](../Page/已测序古菌基因组列表.md "wikilink")
   - [RefSeq](https://zh.wikipedia.org/wiki/RefSeq "wikilink") — the

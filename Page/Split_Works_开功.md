@@ -188,8 +188,8 @@ Fray](https://zh.wikipedia.org/wiki/The_Fray "wikilink"), Thee Oh Sees,
 The Dodos, The Lumineers, THEESatisfaction, Untold, Unknown Mortal
 Orchestra, [Vitalic](https://zh.wikipedia.org/wiki/Vitalic "wikilink"),
 we are ENFANT TERRIBLE, Wil, [World's End
-Girlfriend](../Page/World's_End_Girlfriend.md "wikilink"), Weerd
-Science, Wye Oak（乐队）, Witch Hats, We Are Wolves, Young Knives,
+Girlfriend](https://zh.wikipedia.org/wiki/World's_End_Girlfriend "wikilink"),
+Weerd Science, Wye Oak（乐队）, Witch Hats, We Are Wolves, Young Knives,
 Yellowcard, Yacht（乐队）
 
 ## 知名国内艺人

@@ -4,7 +4,7 @@
 
 ## 历史
 
-XVideos是一个色情视频分享网站，它是一个类似于[YouTube为一般用户提供类似](../Page/YouTube.md "wikilink")[RedTube成人内容的视频网站](https://zh.wikipedia.org/wiki/RedTube "wikilink")，內容来自专业色情影片業者（有时是盗版）的影片片段，以及业余色情视频制作者。[法比安·蒂曼](https://zh.wikipedia.org/wiki/法比安·蒂曼 "wikilink")([MindGeek之所有者](https://zh.wikipedia.org/wiki/MindGeek "wikilink"))试图於2012年收购XVideos以壟斷色情网站，而XVideos的法籍業主拒绝了超过1.2亿美元的报价。2014年，XVideos企图强迫内容提供者承诺放弃从账户中删除视频或立即关闭其账户的权利而引发争议。
+XVideos是一个色情视频分享网站，它是一个类似于[YouTube为一般用户提供类似](../Page/YouTube.md "wikilink")[RedTube成人内容的视频网站](../Page/RedTube.md "wikilink")，內容来自专业色情影片業者（有时是盗版）的影片片段，以及业余色情视频制作者。[法比安·蒂曼](https://zh.wikipedia.org/wiki/法比安·蒂曼 "wikilink")([MindGeek之所有者](../Page/MindGeek.md "wikilink"))试图於2012年收购XVideos以壟斷色情网站，而XVideos的法籍業主拒绝了超过1.2亿美元的报价。2014年，XVideos企图强迫内容提供者承诺放弃从账户中删除视频或立即关闭其账户的权利而引发争议。
 
 ## 审查
 
@@ -39,7 +39,7 @@ XVideos。
 
 ## 参见
 
-  - [RedTube](https://zh.wikipedia.org/wiki/RedTube "wikilink")
+  - [RedTube](../Page/RedTube.md "wikilink")
 
 [Category:1997年建立的网站](https://zh.wikipedia.org/wiki/Category:1997年建立的网站 "wikilink")
 [Category:美國色情](https://zh.wikipedia.org/wiki/Category:美國色情 "wikilink")

@@ -3,7 +3,7 @@
 
 ## 制备
 
-将[氰化镍](https://zh.wikipedia.org/wiki/氰化镍 "wikilink")(II)溶于[氰化钾溶液](../Page/氰化钾.md "wikilink")，得到四氰合镍(II)酸钾的杏黄色溶液：\[1\]
+将[氰化镍](../Page/氰化镍.md "wikilink")(II)溶于[氰化钾溶液](../Page/氰化钾.md "wikilink")，得到四氰合镍(II)酸钾的杏黄色溶液：\[1\]
 
   -
     Ni(CN)<sub>2</sub> + 2 KCN → K<sub>2</sub>\[Ni(CN)<sub>4</sub>\]
@@ -26,7 +26,7 @@
     K<sub>2</sub>Ni(CN)<sub>4</sub> + 2HCHO → Ni(CN)<sub>2</sub> + 2
     CH<sub>2</sub>(CN)OK
 
-它可以和二羧酸进行固相反应，生成[氰化镍水合物并放出氰化氢](https://zh.wikipedia.org/wiki/氰化镍 "wikilink")：\[3\]
+它可以和二羧酸进行固相反应，生成[氰化镍水合物并放出氰化氢](../Page/氰化镍.md "wikilink")：\[3\]
 
   -
     K<sub>2</sub>\[Ni(CN)<sub>4</sub>\] +
@@ -37,7 +37,7 @@
 
 ## 相關條目
 
-  - [六氰合二镍(I)酸钾](https://zh.wikipedia.org/wiki/六氰合二镍\(I\)酸钾 "wikilink")
+  - [六氰合二镍(I)酸钾](../Page/六氰合二镍\(I\)酸钾.md "wikilink")
 
 ## 参考资料
 

@@ -2,9 +2,9 @@
 
 ## 化学性质
 
-二碘化四羰基合铁(II)在氢气气氛中加热，可以得到[二碘化二羰基铁(II)](https://zh.wikipedia.org/wiki/二碘化二羰基铁\(II\) "wikilink")，继续加热得到[一碘化二羰基铁(I)](https://zh.wikipedia.org/wiki/一碘化二羰基铁\(I\) "wikilink")，最后得到[碘化铁(I)](https://zh.wikipedia.org/wiki/碘化铁\(I\) "wikilink")。\[2\]
+二碘化四羰基合铁(II)在氢气气氛中加热，可以得到[二碘化二羰基铁(II)](https://zh.wikipedia.org/wiki/二碘化二羰基铁\(II\) "wikilink")，继续加热得到[一碘化二羰基铁(I)](https://zh.wikipedia.org/wiki/一碘化二羰基铁\(I\) "wikilink")，最后得到[碘化铁(I)](../Page/碘化铁\(I\).md "wikilink")。\[2\]
 
-和[碘在正己烷中反应](../Page/碘.md "wikilink")，则得到[碘化铁](https://zh.wikipedia.org/wiki/碘化铁 "wikilink")(III)。\[3\]
+和[碘在正己烷中反应](../Page/碘.md "wikilink")，则得到[碘化铁](../Page/碘化铁.md "wikilink")(III)。\[3\]
 
 ## 参考资料
 

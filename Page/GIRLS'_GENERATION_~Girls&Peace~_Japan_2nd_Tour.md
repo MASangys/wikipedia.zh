@@ -1,7 +1,7 @@
 **GIRLS' GENERATION \~Girls\&Peace\~ Japan 2nd
 Tour**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[少女時代第二次日本巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。這次演唱會是之後世界巡迴演唱會[GIRLS'
 GENERATION World Tour -Girls &
-Peace-的一部分](https://zh.wikipedia.org/wiki/GIRLS'_GENERATION_World_Tour_-Girls_&_Peace- "wikilink")。
+Peace-的一部分](../Page/GIRLS'_GENERATION_World_Tour_-Girls_&_Peace-.md "wikilink")。
 
 ## 概要
 

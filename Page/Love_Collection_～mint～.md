@@ -34,7 +34,7 @@ Inc.](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
     （作詞：Kana Nishino, GIORGIO13 / 作曲・編曲：GIORGIO CANCEMI）
       -
         10th單曲
-4.  **[if](../Page/if_\(西野加奈單曲\).md "wikilink")**
+4.  **[if](https://zh.wikipedia.org/wiki/if_\(西野加奈單曲\) "wikilink")**
     （作詞：Kana Nishino・GIORGIO13/ 作曲・編曲：GIORGIO CANCEMI）
       -
         11th單曲
@@ -43,7 +43,8 @@ Inc.](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
     SKARE、FAST LANE、土井ひろ(NICHION)）
       -
         13th單曲
-6.  **[glowly days](../Page/glowly_days.md "wikilink")**
+6.  **[glowly
+    days](https://zh.wikipedia.org/wiki/glowly_days "wikilink")**
     （作詞：Kana Nishino / 作曲：Marimo Wamoto / 編曲：SiZK）
       -
         2nd單曲
@@ -70,7 +71,8 @@ Inc.](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
     （作詞：Kana Nishino / 作曲：KASUMI / 編曲：SOTENBO）
       -
         4th原創專輯「Love Place」主打曲目
-12. **[Summer Girl feat. MINMI](../Page/to_LOVE.md "wikilink")**
+12. **[Summer Girl feat.
+    MINMI](https://zh.wikipedia.org/wiki/to_LOVE "wikilink")**
     （作詞：Kana Nishino, MINMI / 作曲：Jeff Miyahara, Kenji "JINO" Hino, Masa
     Kohama and MINMI / 編曲：Jeff Miyahara, Kenji "JINO" Hino, Masa Kohama）
       -

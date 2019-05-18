@@ -24,7 +24,7 @@ TRIBE於](../Page/EXILE_TRIBE.md "wikilink")2012年9月5日發行的首張單曲
 
   - **粗體**字為主唱
       - EXILE:
-        [HIRO](../Page/五十嵐廣行.md "wikilink")、[松本利夫](../Page/松本利夫.md "wikilink")、[USA](../Page/宇佐美吉啟.md "wikilink")、[MAKIDAI](../Page/MAKIDAI.md "wikilink")、**[ATSUSHI](../Page/ATSUSHI.md "wikilink")**、[AKIRA](../Page/AKIRA.md "wikilink")、**[TAKAHIRO](../Page/TAKAHIRO.md "wikilink")**
+        [HIRO](../Page/五十嵐廣行.md "wikilink")、[松本利夫](../Page/松本利夫.md "wikilink")、[USA](../Page/宇佐美吉啟.md "wikilink")、[MAKIDAI](../Page/MAKIDAI.md "wikilink")、**[ATSUSHI](../Page/ATSUSHI.md "wikilink")**、[AKIRA](../Page/AKIRA.md "wikilink")、**[TAKAHIRO](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")**
       - THE SECOND:
         [橘KENCHI](../Page/KENCHI.md "wikilink")、[黑木啓司](../Page/KEIJI.md "wikilink")、[TETSUYA](../Page/TETSUYA_\(舞者\).md "wikilink")、**[NESMITH](../Page/NESMITH.md "wikilink")**
         - **[SHOKICHI](../Page/SHOKICHI.md "wikilink")**

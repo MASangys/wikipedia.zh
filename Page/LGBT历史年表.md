@@ -21,7 +21,7 @@
 
   - 约公元前630年，一枚在[克里特岛发现的牌匾最早记录了的](https://zh.wikipedia.org/wiki/克里特岛 "wikilink")[多利安人贵族和其青少年男性之间建立的这种被称为](https://zh.wikipedia.org/wiki/多利安人 "wikilink")[古希腊少年愛的社会现象](https://zh.wikipedia.org/wiki/古希腊少年愛 "wikilink")。\[6\]
     (另见[克里特少年愛](https://zh.wikipedia.org/wiki/克里特少年愛 "wikilink")
-    )。古希腊男性之间的婚姻并不被法律所承认，但是男性可以保持长达一生的[少年愛](https://zh.wikipedia.org/wiki/少年愛 "wikilink")（少年愛这个词不同于现代，在当时没有轻佻的负面含义）,这种伙伴关系不同于异性恋婚姻在于其中年长的一方同时充当年轻一方的教育者和导师的角色。
+    )。古希腊男性之间的婚姻并不被法律所承认，但是男性可以保持长达一生的[少年愛](../Page/少年愛.md "wikilink")（少年愛这个词不同于现代，在当时没有轻佻的负面含义）,这种伙伴关系不同于异性恋婚姻在于其中年长的一方同时充当年轻一方的教育者和导师的角色。
     \[7\]
   - 希腊[莱斯博斯岛的抒情诗人](https://zh.wikipedia.org/wiki/莱斯博斯岛 "wikilink")[莎孚](../Page/莎孚.md "wikilink")(生于公元前630-612，卒于公元前570前后)，以其描绘女同性恋主题的作品著称，亚历山大居民将其位列九名抒情诗人之一。西方语言中「女同性恋者」一词（例如[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")：，[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")：，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：），即源自其居住地[莱斯博斯岛](https://zh.wikipedia.org/wiki/莱斯博斯岛 "wikilink")（現代希腊语：，拉丁字母转写：）。她于公元前600年被放逐。
 
@@ -38,7 +38,7 @@
 
   - 公元前385年，[柏拉图出版了](../Page/柏拉图.md "wikilink")[会饮篇](https://zh.wikipedia.org/wiki/会饮篇 "wikilink"),其中[斐德罗](https://zh.wikipedia.org/wiki/斐德罗 "wikilink")，[厄里克希马库斯](https://zh.wikipedia.org/wiki/厄里克希马库斯 "wikilink"),[阿里斯多芬尼斯以及其他希腊学者提出男子与男子之间的恋情是最高形式的爱恋](https://zh.wikipedia.org/wiki/阿里斯多芬尼斯 "wikilink")，与女子之间的恋情是出于色欲和功利的(参见[柏拉图式恋爱](../Page/柏拉图式恋爱.md "wikilink"))\[10\]。而苏格拉底对此持不同观点\[11\]，他在受到漂亮的[亚西比德](https://zh.wikipedia.org/wiki/亚西比德 "wikilink")([Alcibiades](../Page/阿尔西比亚德斯.md "wikilink"))的引诱时显示出极大的自我控制\[12\]。
   - 公元前350年，柏拉图出版[法律篇](https://zh.wikipedia.org/wiki/法律篇 "wikilink")，其中雅典的外来者和他们的同伴批评说同性恋是色欲的产物，并且对于社会是错误的，因为这种行为不会延续后代并会使市民不负责任。\[13\]
-  - 公元前338年，希腊城邦[底比斯的一支由](../Page/底比斯_\(希臘\).md "wikilink")150对[少年愛者组成的由精英部队](https://zh.wikipedia.org/wiki/少年愛 "wikilink")[底比斯圣队在](../Page/底比斯圣队.md "wikilink")[喀罗尼亚战役中被](https://zh.wikipedia.org/wiki/喀罗尼亚战役 "wikilink")[腓力二世的部队歼灭](../Page/腓力二世_\(马其顿\).md "wikilink")，[腓力二世为其牺牲而惋惜并赞扬了他们的英勇](../Page/腓力二世_\(马其顿\).md "wikilink")。\[14\]
+  - 公元前338年，希腊城邦[底比斯的一支由](../Page/底比斯_\(希臘\).md "wikilink")150对[少年愛者组成的由精英部队](../Page/少年愛.md "wikilink")[底比斯圣队在](../Page/底比斯圣队.md "wikilink")[喀罗尼亚战役中被](https://zh.wikipedia.org/wiki/喀罗尼亚战役 "wikilink")[腓力二世的部队歼灭](../Page/腓力二世_\(马其顿\).md "wikilink")，[腓力二世为其牺牲而惋惜并赞扬了他们的英勇](../Page/腓力二世_\(马其顿\).md "wikilink")。\[14\]
   - 公元前326年，[亚历山大大帝完成了对大部分当时所知的西方世界的征服后](../Page/亚历山大大帝.md "wikilink")，开启了[希腊化时代](https://zh.wikipedia.org/wiki/希腊化时代 "wikilink")。期间数以百万的人秉持希腊的观点，对同性恋关系呈正面态度。
 
 ## 公元前2世纪
@@ -173,14 +173,14 @@
     Case的名字为人所知。十四世纪另一对已知的同性恋者是[威尼斯的Giovanni](../Page/威尼斯.md "wikilink")
     Braganza 和 Nicoleto Marmagna。\[40\]
   - **1395年** –
-    是英国[伦敦附近活跃于](../Page/伦敦.md "wikilink")[牛津的一位](../Page/牛津.md "wikilink")[異裝](https://zh.wikipedia.org/wiki/異裝 "wikilink")[妓男](https://zh.wikipedia.org/wiki/妓男 "wikilink")，他于1395年因[異裝被逮捕和审讯](https://zh.wikipedia.org/wiki/異裝 "wikilink")。
+    是英国[伦敦附近活跃于](../Page/伦敦.md "wikilink")[牛津的一位](../Page/牛津.md "wikilink")[異裝](../Page/異裝.md "wikilink")[妓男](https://zh.wikipedia.org/wiki/妓男 "wikilink")，他于1395年因[異裝被逮捕和审讯](../Page/異裝.md "wikilink")。
 
 ## 公元15世纪
 
   - **1424年** –
     [天主教](../Page/天主教.md "wikilink")[圣徒](../Page/圣徒.md "wikilink")[锡耶纳的圣伯纳丁](https://zh.wikipedia.org/wiki/锡耶纳的圣伯纳丁 "wikilink")([Bernardio
     of
-    Siena](https://zh.wikipedia.org/wiki/聖伯爾納定 "wikilink"))在[意大利](../Page/意大利.md "wikilink")[佛罗伦萨讲道三日](../Page/佛罗伦萨.md "wikilink")，斥责[同性恋和其他形式的肉欲](https://zh.wikipedia.org/wiki/同性恋 "wikilink")，并以焚烧化妆品、假发以及其他美容装饰品的仪式结束。他同时呼吁判处[性悖軌者以](https://zh.wikipedia.org/wiki/性悖軌罪 "wikilink")[陶片放逐制驱逐流放](../Page/陶片放逐制.md "wikilink")。这种布道以及其他神职人员的做法强化并鼓动了政府更多的对于同性恋人群的迫害。\[41\]
+    Siena](../Page/聖伯爾納定.md "wikilink"))在[意大利](../Page/意大利.md "wikilink")[佛罗伦萨讲道三日](../Page/佛罗伦萨.md "wikilink")，斥责[同性恋和其他形式的肉欲](https://zh.wikipedia.org/wiki/同性恋 "wikilink")，并以焚烧化妆品、假发以及其他美容装饰品的仪式结束。他同时呼吁判处[性悖軌者以](https://zh.wikipedia.org/wiki/性悖軌罪 "wikilink")[陶片放逐制驱逐流放](../Page/陶片放逐制.md "wikilink")。这种布道以及其他神职人员的做法强化并鼓动了政府更多的对于同性恋人群的迫害。\[41\]
   - **1432年** –
     佛罗伦萨建立了第一个特别为检举性悖軌者的组织“夜间警卫”，在之后的70年里逮捕了大约1000名成年男子和男孩，判罪2000余人，大多数处以罚款。
   - **1451年** –

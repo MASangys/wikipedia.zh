@@ -1,5 +1,5 @@
 **Jetty**是一个纯粹的基于[Java的](../Page/Java.md "wikilink")[网页服务器和](https://zh.wikipedia.org/wiki/网页服务器 "wikilink")[Java
-Servlet](../Page/Java_Servlet.md "wikilink")[容器](https://zh.wikipedia.org/wiki/Web容器 "wikilink")。尽管网页服务器通常用来为人们呈现文档，但是Jetty通常在较大的软件框架中用于计算机与计算机之间的通信。Jetty作为[Eclipse基金会的一部分](https://zh.wikipedia.org/wiki/Eclipse基金会 "wikilink")，是一个[自由和](../Page/自由软件.md "wikilink")[开源项目](../Page/开放源代码.md "wikilink")。该网页服务器被用在[Apache
+Servlet](../Page/Java_Servlet.md "wikilink")[容器](https://zh.wikipedia.org/wiki/Web容器 "wikilink")。尽管网页服务器通常用来为人们呈现文档，但是Jetty通常在较大的软件框架中用于计算机与计算机之间的通信。Jetty作为[Eclipse基金会的一部分](../Page/Eclipse基金会.md "wikilink")，是一个[自由和](../Page/自由软件.md "wikilink")[开源项目](../Page/开放源代码.md "wikilink")。该网页服务器被用在[Apache
 ActiveMQ](../Page/Apache_ActiveMQ.md "wikilink")\[1\]、\[2\]、\[3\]、[Apache
 Maven](../Page/Apache_Maven.md "wikilink")、[Apache
 Spark](../Page/Apache_Spark.md "wikilink")、[Google App
@@ -50,7 +50,7 @@ Hadoop在几个模块中使用Jetty作为Web服务器，其针对了不同的用
   - TaskTracker使用Jetty接收来自JobTracker的[映射](../Page/关联数组.md "wikilink")（Map），减少并洗牌（Shuffle）操作。\[35\]
 
 Hadoop
-0.23版后，TaskTracker的洗牌操作已从Jetty替换为[Netty](https://zh.wikipedia.org/wiki/Netty "wikilink")。\[36\]
+0.23版后，TaskTracker的洗牌操作已从Jetty替换为[Netty](../Page/Netty.md "wikilink")。\[36\]
 
 ## 参见
 

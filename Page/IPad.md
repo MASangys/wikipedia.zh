@@ -2,7 +2,7 @@
 
 
 **iPad**
-()，是一個由[蘋果公司設計銷售的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[平板電腦產品系列](../Page/平板電腦.md "wikilink")，搭載蘋果的[iOS](../Page/iOS.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。iPad的[使用者介面是以](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")[多點觸控螢幕為主來進行設計](../Page/多點觸控.md "wikilink")，也包括[虛擬鍵盤](../Page/虛擬鍵盤.md "wikilink")。每一款iPad皆有內建[Wi-Fi](../Page/Wi-Fi.md "wikilink")，某些機型也同時支援[行動網路](../Page/蜂窝网络.md "wikilink")。第一款iPad在2010年4月3日推出，2012年推出[iPad
+()，是一個由[蘋果公司設計銷售的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[平板電腦產品系列](../Page/平板電腦.md "wikilink")，搭載蘋果的[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。iPad的[使用者介面是以](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")[多點觸控螢幕為主來進行設計](../Page/多點觸控.md "wikilink")，也包括[虛擬鍵盤](../Page/虛擬鍵盤.md "wikilink")。每一款iPad皆有內建[Wi-Fi](../Page/Wi-Fi.md "wikilink")，某些機型也同時支援[行動網路](../Page/蜂窝网络.md "wikilink")。第一款iPad在2010年4月3日推出，2012年推出[iPad
 mini系列](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")。自2010年發售以來，iPad已售出超過2.2億台（統計至2014年10月為止）\[1\]，佔全球平板电脑市场81%\[2\]。最近期iPad機型是在2019
 年3 月18日發佈的iPad mini5與iPad Air3。
 
@@ -10,25 +10,25 @@ iPad的基本功能包括[錄影](../Page/攝影機.md "wikilink")、[拍照](..
 Store上有超過475,000個由蘋果和其他公司為iPad設計的應用程式\[3\]，而非「被強行拉大的智慧型手機應用程式」\[4\]。
 
 2010年，[iPad
-1為後繼機種建立了許多設計標準](../Page/iPad_\(第一代\).md "wikilink")，包括9.7英寸的螢幕和實體按鈕的配置位置。
+1為後繼機種建立了許多設計標準](https://zh.wikipedia.org/wiki/iPad_\(第一代\) "wikilink")，包括9.7英寸的螢幕和實體按鈕的配置位置。
 
 2011年，[iPad
-2加入了](../Page/iPad_2.md "wikilink")[雙核](../Page/多核心處理器.md "wikilink")[Apple
+2加入了](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")[雙核](../Page/多核心處理器.md "wikilink")[Apple
 A5處理器](../Page/Apple_A5.md "wikilink")、一個VGA畫質的前置鏡頭，以及[720p的後方鏡頭](../Page/720p.md "wikilink")，可用於[FaceTime視訊通話](../Page/FaceTime.md "wikilink")。
 
 2012年，[iPad
-3採用](../Page/iPad_\(第三代\).md "wikilink")[Retina螢幕](https://zh.wikipedia.org/wiki/視網膜螢幕 "wikilink")、[Apple
+3採用](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")[Retina螢幕](https://zh.wikipedia.org/wiki/視網膜螢幕 "wikilink")、[Apple
 A5X處理器和](../Page/Apple_A5X.md "wikilink")[四核](../Page/多核心處理器.md "wikilink")[圖形處理器](https://zh.wikipedia.org/wiki/GPU "wikilink")、500萬像素相機鏡頭、高畫質[1080p影片錄製](../Page/1080p.md "wikilink")、語音輸入和[4G](../Page/4G.md "wikilink")（[LTE](https://zh.wikipedia.org/wiki/LTE "wikilink")）支援。自[iOS
-6起](../Page/iOS_6.md "wikilink")，iPad Mini與iPad
+6起](https://zh.wikipedia.org/wiki/iOS_6 "wikilink")，iPad Mini與iPad
 3以後的機種可使用[Siri語音助理功能](../Page/Siri.md "wikilink")。[iPad
-4則使用](../Page/iPad_\(第四代\).md "wikilink")[蘋果A6X處理器](https://zh.wikipedia.org/wiki/蘋果A6X "wikilink")，並將原本的30-pin
+4則使用](https://zh.wikipedia.org/wiki/iPad_\(第四代\) "wikilink")[蘋果A6X處理器](https://zh.wikipedia.org/wiki/蘋果A6X "wikilink")，並將原本的30-pin
 dock接頭改為全數位的[Lightning接头](../Page/Lightning接头.md "wikilink")。[iPad
 Mini採用了較小的](https://zh.wikipedia.org/wiki/iPad_Mini "wikilink")7.9寸螢幕，並與iPad
 2有著近似的硬體規格，但改採用Lighting接頭。
 
 2013年，[iPad
 mini與](https://zh.wikipedia.org/wiki/iPad_mini_2 "wikilink")[iPad
-Air](../Page/iPad_Air.md "wikilink")，同樣採用[A7處理器](../Page/Apple_A7.md "wikilink")、[M7動作協同處理器](https://zh.wikipedia.org/wiki/蘋果M7 "wikilink")。
+Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")，同樣採用[A7處理器](../Page/Apple_A7.md "wikilink")、[M7動作協同處理器](../Page/蘋果M7.md "wikilink")。
 
 2014年，[iPad Air
 2縮減外觀尺寸](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")，採用Apple
@@ -37,7 +37,7 @@ mini 3續沿用Apple](https://zh.wikipedia.org/wiki/iPad_mini_3 "wikilink") A7
 處理器和Apple M7動作協同處理器，並比照iPad Air 2配備Touch ID。
 
 2015年推出的[iPad
-Pro采用A](../Page/iPad_Pro.md "wikilink")9X处理器和M9动作协处理器，还可以使用全新的[Apple
+Pro采用A](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")9X处理器和M9动作协处理器，还可以使用全新的[Apple
 Pencil以及外接鍵盤](../Page/Apple_Pencil.md "wikilink")[Smart
 Keyboard](https://zh.wikipedia.org/wiki/Smart_Keyboard "wikilink")。2016年推出小尺寸9.7寸iPad
 Pro，增加了1200萬畫素鏡頭、雙色補光燈、Truretone顯示技術。2017年推出新款平價[iPad
@@ -45,14 +45,13 @@ Pro，增加了1200萬畫素鏡頭、雙色補光燈、Truretone顯示技術。2
 6S的A9处理器和M9动作协处理器。
 
 2017年推出的[iPad
-Pro(第二代)采用](../Page/iPad_Pro.md "wikilink")12.9吋和10.5吋螢幕，處理器采用A10X处理器和M10动作协处理器，最大容量512GB，也支援[Apple
+Pro(第二代)采用](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")12.9吋和10.5吋螢幕，處理器采用A10X处理器和M10动作协处理器，最大容量512GB，也支援[Apple
 Pencil以及外接鍵盤](../Page/Apple_Pencil.md "wikilink")[Smart
 Keyboard](https://zh.wikipedia.org/wiki/Smart_Keyboard "wikilink")。
 
-2018年推出新款平價[iPad
-(第6代)](https://zh.wikipedia.org/wiki/IPad_\(第六代\) "wikilink")，采用了iPhone
+2018年推出新款平價[iPad (第6代)](../Page/IPad_\(第六代\).md "wikilink")，采用了iPhone
 7的A10处理器和M10动作协处理器，還增加了使用Apple Pencil的能力。2018年推出的[iPad
-Pro(第三代)采用](../Page/iPad_Pro.md "wikilink")12.9吋和11吋螢幕，處理器采用A12X处理器和M12动作协处理器，最大容量1TB，使用全新的[Apple
+Pro(第三代)采用](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")12.9吋和11吋螢幕，處理器采用A12X处理器和M12动作协处理器，最大容量1TB，使用全新的[Apple
 Pencil 2以及新版外接鍵盤](../Page/Apple_Pencil.md "wikilink")[Smart
 Keyboard](https://zh.wikipedia.org/wiki/Smart_Keyboard "wikilink")。
 
@@ -61,7 +60,7 @@ Keyboard](https://zh.wikipedia.org/wiki/Smart_Keyboard "wikilink")。
 ### 螢幕和輸入方式
 
 第一和第二代iPad採用了1024 x 768像素的觸控式液晶螢幕，尺寸為7.75 x 5.82英寸（197 x
-148公釐），斜角距離為9.7英寸（246.4公釐），並搭配抗指紋與防刮玻璃。[史蒂夫·賈伯斯曾表示](https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯 "wikilink")7英寸的螢幕「太小以致無法表現軟體」，而10英寸是平板螢幕適合的最小尺寸\[5\]。與[iPhone相同](../Page/iPhone.md "wikilink")，iPad設計成可用手指直接控制，而一般的手套或觸控筆將無法在iPad上使用\[6\]，必須使用特別製造的手套或[电容式觸控筆](../Page/电容式感应.md "wikilink")\[7\]\[8\]。第三代起開始採用[視網膜螢幕](https://zh.wikipedia.org/wiki/視網膜螢幕 "wikilink")，[解析度提高至](https://zh.wikipedia.org/wiki/解析度 "wikilink")2048x1536像素（為原1024x768像素的4倍），甚至遠高於一般[Full
+148公釐），斜角距離為9.7英寸（246.4公釐），並搭配抗指紋與防刮玻璃。[史蒂夫·賈伯斯曾表示](https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯 "wikilink")7英寸的螢幕「太小以致無法表現軟體」，而10英寸是平板螢幕適合的最小尺寸\[5\]。與[iPhone相同](https://zh.wikipedia.org/wiki/iPhone "wikilink")，iPad設計成可用手指直接控制，而一般的手套或觸控筆將無法在iPad上使用\[6\]，必須使用特別製造的手套或[电容式觸控筆](../Page/电容式感应.md "wikilink")\[7\]\[8\]。第三代起開始採用[視網膜螢幕](https://zh.wikipedia.org/wiki/視網膜螢幕 "wikilink")，[解析度提高至](https://zh.wikipedia.org/wiki/解析度 "wikilink")2048x1536像素（為原1024x768像素的4倍），甚至遠高於一般[Full
 HD](../Page/Full_HD.md "wikilink")[電視或](https://zh.wikipedia.org/wiki/電視 "wikilink")[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[顯示器的](https://zh.wikipedia.org/wiki/顯示器 "wikilink")1920×1080解析度。
 
 螢幕也會受到其他感應器控制：環境光感應器可自動調整螢幕亮度；一個三軸[陀螺儀會感應iPad的持握方向](../Page/陀螺儀.md "wikilink")，並將螢幕調整成水平或垂直顯示。與只能對應顯示三種方向（垂直、右側水平和左側水平）的iPhone(iPhone
@@ -83,15 +82,15 @@ Leopard以上版本之作業系統的麥金塔電腦](../Page/Mac_OS_X_Snow_Leop
 iPad在底部設有兩個內建揚聲器，分別負責輸出左右聲道。第一代iPad的聲音是透過機身底部兩個以網格遮蓋的小型溝槽輸出\[14\]，iPad
 2以後至第四代為止的機種則改為從機身背面單一的網孔輸出聲音。iPad
 Air則在機身底部Lighting連接口兩側各配置了一個揚聲器，採用與[iPhone
-5類似的設計](../Page/iPhone_5.md "wikilink")。音量調整按鈕位於機身右側。機身頂部左側有一個3.5釐米的[TRRS接孔可供耳機](../Page/TRS端子.md "wikilink")、麥克風或其他設備使用，除了可輸入和輸出音訊之外，也能夠透過具有線控功能的耳機來調整音量大小。iPad也內建有一個可[錄音或供FaceTime通訊使用的](https://zh.wikipedia.org/wiki/錄音 "wikilink")[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")。
+5類似的設計](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")。音量調整按鈕位於機身右側。機身頂部左側有一個3.5釐米的[TRRS接孔可供耳機](../Page/TRS端子.md "wikilink")、麥克風或其他設備使用，除了可輸入和輸出音訊之外，也能夠透過具有線控功能的耳機來調整音量大小。iPad也內建有一個可[錄音或供FaceTime通訊使用的](https://zh.wikipedia.org/wiki/錄音 "wikilink")[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")。
 
 內建的[藍牙2.1 + EDR](../Page/藍牙.md "wikilink")（第一至四代iPad）、藍牙4.0（iPad
 Air、iPad Air 2）和藍牙4.2（iPad PRO、iPad 2017、iPad
-2018）界面可讓iPad與無線耳機和鍵盤等週邊搭配使用\[15\]。然而iOS並不支援使用藍牙來進行檔案傳輸\[16\]。透過專用的連接線或[AirPlay無線功能可將iPad的畫面或聲音輸出至電視](../Page/AirPlay.md "wikilink")、投影機、喇叭等設備。
+2018）界面可讓iPad與無線耳機和鍵盤等週邊搭配使用\[15\]。然而iOS並不支援使用藍牙來進行檔案傳輸\[16\]。透過專用的連接線或[AirPlay無線功能可將iPad的畫面或聲音輸出至電視](https://zh.wikipedia.org/wiki/AirPlay "wikilink")、投影機、喇叭等設備。
 
 ### 電池
 
-iPad使用了內建的[可充電式](../Page/蓄電池.md "wikilink")[鋰離子聚合物電池](https://zh.wikipedia.org/wiki/鋰離子聚合物電池 "wikilink")（Li-ion）。電池是由[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[新普科技](../Page/新普科技.md "wikilink")（60%）和[順達科技公司製造](https://zh.wikipedia.org/wiki/順達科技 "wikilink")\[17\]。iPad的電池是以使用2[安培的高電流進行充電而設計](../Page/安培.md "wikilink")，充電方式是使用USB連接線將iPad與包裝內附的5瓦特或12瓦特USB變壓器連接。雖然iPad亦可透過連接一般電腦上的USB接孔進行充電，但這些接孔僅能提供0.5安培的電流量，因此iPad的充電速度可能變得緩慢或完全無法充電。而在蘋果電腦產品上配有的高電量USB接孔則可提供iPad完整充電所需的電流量\[18\]。
+iPad使用了內建的[可充電式](../Page/蓄電池.md "wikilink")[鋰離子聚合物電池](../Page/鋰離子聚合物電池.md "wikilink")（Li-ion）。電池是由[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[新普科技](../Page/新普科技.md "wikilink")（60%）和[順達科技公司製造](https://zh.wikipedia.org/wiki/順達科技 "wikilink")\[17\]。iPad的電池是以使用2[安培的高電流進行充電而設計](../Page/安培.md "wikilink")，充電方式是使用USB連接線將iPad與包裝內附的5瓦特或12瓦特USB變壓器連接。雖然iPad亦可透過連接一般電腦上的USB接孔進行充電，但這些接孔僅能提供0.5安培的電流量，因此iPad的充電速度可能變得緩慢或完全無法充電。而在蘋果電腦產品上配有的高電量USB接孔則可提供iPad完整充電所需的電流量\[18\]。
 
 ### 螢幕鍵盤
 
@@ -110,22 +109,22 @@ iPad使用了內建的[可充電式](../Page/蓄電池.md "wikilink")[鋰離子�
 <td><p>iPad</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/iPad_(第一代).md" title="wikilink">iPad</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_(第一代)" title="wikilink">iPad</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/iPad_2.md" title="wikilink">iPad 2</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_2" title="wikilink">iPad 2</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/iPad_(第三代).md" title="wikilink">iPad (第三代)</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_(第三代)" title="wikilink">iPad (第三代)</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/iPad_mini_(第一代).md" title="wikilink">iPad mini</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_mini_(第一代)" title="wikilink">iPad mini</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/iPad_(第四代).md" title="wikilink">iPad (第四代)</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_(第四代)" title="wikilink">iPad (第四代)</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/iPad_Air.md" title="wikilink">iPad Air</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_Air" title="wikilink">iPad Air</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_mini_2" title="wikilink">iPad mini 2 (Retina display)</a></strong></p></td>
@@ -137,22 +136,22 @@ iPad使用了內建的[可充電式](../Page/蓄電池.md "wikilink")[鋰離子�
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_mini_3" title="wikilink">iPad mini 3</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/iPad_mini_4.md" title="wikilink">iPad mini 4</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_mini_4" title="wikilink">iPad mini 4</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/iPad_Pro.md" title="wikilink">iPad Pro (1st, 12.9'')</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">iPad Pro (1st, 12.9'')</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/iPad_Pro.md" title="wikilink">iPad Pro (1st, 9.7'')</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">iPad Pro (1st, 9.7'')</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_(2017)" title="wikilink">iPad (2017)</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/iPad_Pro.md" title="wikilink">iPad Pro (2nd, 12.9'')</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">iPad Pro (2nd, 12.9'')</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/iPad_Pro.md" title="wikilink">iPad Pro (2nd, 10.5'')</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">iPad Pro (2nd, 10.5'')</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_(2018)" title="wikilink">iPad (2018)</a></strong></p></td>
@@ -203,17 +202,17 @@ iPad使用了內建的[可充電式](../Page/蓄電池.md "wikilink")[鋰離子�
 <thead>
 <tr class="header">
 <th><p>世代</p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">12.9吋 iPad Pro</a></p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">9.7吋 iPad Pro</a></p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">12.9吋 iPad Pro</a>（第二代）</p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">10.5吋 iPad Pro</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">12.9吋 iPad Pro</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">9.7吋 iPad Pro</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">12.9吋 iPad Pro</a>（第二代）</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">10.5吋 iPad Pro</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>colspan=2 |預裝的作業系统</p></td>
 <td><p>iOS 9</p></td>
-<td><p><a href="../Page/iOS_10.md" title="wikilink">iOS 10.3.2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_10" title="wikilink">iOS 10.3.2</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -248,8 +247,8 @@ iPad使用了內建的[可充電式](../Page/蓄電池.md "wikilink")[鋰離子�
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |處理器</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A9X" title="wikilink">Apple A9X</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A10X" title="wikilink">Apple A10X</a></p></td>
+<td><p><a href="../Page/Apple_A9X.md" title="wikilink">Apple A9X</a></p></td>
+<td><p><a href="../Page/Apple_A10X.md" title="wikilink">Apple A10X</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -407,8 +406,8 @@ Wi-Fi + cellular: </p></td>
 <thead>
 <tr class="header">
 <th><p>世代</p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">12.9吋 iPad Pro</a> （第三代）</p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">11吋 iPad Pro</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">12.9吋 iPad Pro</a> （第三代）</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">11吋 iPad Pro</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -588,7 +587,7 @@ eSIM</p></td>
 <thead>
 <tr class="header">
 <th><p>Model</p></th>
-<th><p><a href="../Page/iPad_Air.md" title="wikilink">iPad Air</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Air" title="wikilink">iPad Air</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPad_Air_2" title="wikilink">iPad Air 2</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPad_Air_(第三代)" title="wikilink">iPad Air (第三代)</a></p></th>
 </tr>
@@ -608,7 +607,7 @@ eSIM</p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |支援最新的作業系統</p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a> 12.0</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.0</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -623,8 +622,8 @@ eSIM</p></td>
 <tr class="odd">
 <td><p>colspan=2 |處理器</p></td>
 <td><p><a href="../Page/Apple_A7.md" title="wikilink">64位元 Apple A7</a> 1.4 Ghz 雙核心</p></td>
-<td><p>64位元 <a href="https://zh.wikipedia.org/wiki/Apple_A8X" title="wikilink">Apple A8X</a> 1.5Ghz 三核心</p></td>
-<td><p>64位元 <a href="https://zh.wikipedia.org/wiki/Apple_A12_Bionic" title="wikilink">Apple A12</a> 2.49 GHz 六核心</p></td>
+<td><p>64位元 <a href="../Page/Apple_A8X.md" title="wikilink">Apple A8X</a> 1.5Ghz 三核心</p></td>
+<td><p>64位元 <a href="../Page/Apple_A12_Bionic.md" title="wikilink">Apple A12</a> 2.49 GHz 六核心</p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |動作感應協同處理器</p></td>
@@ -789,13 +788,13 @@ Wi-Fi + 4G model: </p></td>
 <thead>
 <tr class="header">
 <th><p>款式</p></th>
-<th><p><a href="../Page/iPad_(第一代).md" title="wikilink">iPad<br />
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第一代)" title="wikilink">iPad<br />
 <small>（第一代）</small></a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第二代)" title="wikilink">iPad<br />
 <small>（第二代）</small></a></p></th>
-<th><p><a href="../Page/iPad_(第三代).md" title="wikilink">iPad<br />
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第三代)" title="wikilink">iPad<br />
 <small>（第三代）</small></a></p></th>
-<th><p><a href="../Page/iPad_(第四代).md" title="wikilink">iPad<br />
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第四代)" title="wikilink">iPad<br />
 <small>（第四代）</small></a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第五代)" title="wikilink">iPad<br />
 <small>（第五代）</small></a></p></th>
@@ -825,7 +824,7 @@ Wi-Fi + 4G model: </p></td>
 <tr class="odd">
 <td><p>|支持的最新操作系统</p></td>
 <td><p>iOS 5.1.1</p></td>
-<td><p><a href="../Page/iOS_9.md" title="wikilink">iOS 9.3.5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_9" title="wikilink">iOS 9.3.5</a></p></td>
 <td><p>iOS 10.3.3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS12.0</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS12.0</a></p></td>
@@ -1083,13 +1082,13 @@ International: 2011年3月25日</p></td>
 </tr>
 <tr class="even">
 <td><p>款式</p></td>
-<td><p><a href="../Page/iPad_(第一代).md" title="wikilink">iPad<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第一代)" title="wikilink">iPad<br />
 <small>（第一代）</small></a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第二代)" title="wikilink">iPad<br />
 <small>（第二代）</small></a></p></td>
-<td><p><a href="../Page/iPad_(第三代).md" title="wikilink">iPad<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第三代)" title="wikilink">iPad<br />
 <small>（第三代）</small></a></p></td>
-<td><p><a href="../Page/iPad_(第四代).md" title="wikilink">iPad<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第四代)" title="wikilink">iPad<br />
 <small>（第四代）</small></a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第五代)" title="wikilink">iPad<br />
 <small>（第五代）</small></a></p></td>
@@ -1124,10 +1123,10 @@ International: 2011年3月25日</p></td>
 <thead>
 <tr class="header">
 <th><p>Model</p></th>
-<th><p><a href="../Page/iPad_mini_(第一代).md" title="wikilink">iPad mini</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_mini_(第一代)" title="wikilink">iPad mini</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPad_mini_2" title="wikilink">iPad mini 2</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPad_mini_3" title="wikilink">iPad mini 3</a></p></th>
-<th><p><a href="../Page/iPad_mini_4.md" title="wikilink">iPad mini 4</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_mini_4" title="wikilink">iPad mini 4</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPad_mini_(第五代)" title="wikilink">iPad mini (第五代)</a></p></th>
 </tr>
 </thead>
@@ -1142,10 +1141,10 @@ International: 2011年3月25日</p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |預裝的操作系統</p></td>
-<td><p><a href="../Page/iOS_6.md" title="wikilink">iOS 6</a></p></td>
-<td><p><a href="../Page/iOS_7.md" title="wikilink">iOS 7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_6" title="wikilink">iOS 6</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_7" title="wikilink">iOS 7</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iOS_8" title="wikilink">iOS 8</a></p></td>
-<td><p><a href="../Page/iOS_9.md" title="wikilink">iOS 9</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_9" title="wikilink">iOS 9</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS 12</a></p></td>
 </tr>
 <tr class="odd">
@@ -1173,7 +1172,7 @@ International: 2011年3月25日</p></td>
 <td><p>1GHz<a href="../Page/Apple_A5.md" title="wikilink">Apple A5</a></p></td>
 <td><p>1.3GHz 雙核 <a href="../Page/Apple_A7.md" title="wikilink">Apple A7</a> 專門設計的高性能低功耗系統級芯片</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Apple_A8" title="wikilink">Apple A8</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A12_Bionic" title="wikilink">Apple A12</a></p></td>
+<td><p><a href="../Page/Apple_A12_Bionic.md" title="wikilink">Apple A12</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

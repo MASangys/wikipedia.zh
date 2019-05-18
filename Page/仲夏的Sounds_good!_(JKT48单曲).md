@@ -82,7 +82,7 @@ Natalia本次落选名單。
 ### Manatsu no Sounds Good\!
 
 （Center：[Melody Nurramdhani
-Laksani](https://zh.wikipedia.org/wiki/Melody_Nurramdhani_Laksani "wikilink")）
+Laksani](../Page/Melody_Nurramdhani_Laksani.md "wikilink")）
 
   - Team J：[Aki
     Takajo](https://zh.wikipedia.org/wiki/高城亚樹 "wikilink")、Ayana

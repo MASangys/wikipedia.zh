@@ -1,9 +1,9 @@
 **SteamOS**，基於[Debian發行版而開發的](../Page/Debian.md "wikilink")[Linux](../Page/Linux.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，由[Valve公司設計開發](../Page/威尔乌.md "wikilink")，使用於[Steam
-Machine遊戲終端機上](https://zh.wikipedia.org/wiki/Steam_Machine "wikilink")。在2013年12月13日首次發佈。
+Machine遊戲終端機上](../Page/Steam_Machine.md "wikilink")。在2013年12月13日首次發佈。
 
 ## 功能
 
-SteamOS主要是為了[電子遊戲而設計](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。使用者可從他們的[Windows電腦或](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac電腦上](../Page/Mac.md "wikilink")，把遊戲直接串流到有執行SteamOS的機器上使用，在有執行[Steam程式的個人電腦上](../Page/Steam.md "wikilink")，也可以分享相同的功能。
+SteamOS主要是為了[電子遊戲而設計](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。使用者可從他們的[Windows電腦或](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac電腦上](https://zh.wikipedia.org/wiki/Mac "wikilink")，把遊戲直接串流到有執行SteamOS的機器上使用，在有執行[Steam程式的個人電腦上](../Page/Steam.md "wikilink")，也可以分享相同的功能。
 
 ## 歷史
 

@@ -4,7 +4,7 @@ OK ROCK的第5張單曲，於2011年2月16日發行。
 
 ## 簡介
 
-  - 與前作《[完全感覺Dreamer](https://zh.wikipedia.org/wiki/完全感覺Dreamer "wikilink")》相隔約1年的新作。
+  - 與前作《[完全感覺Dreamer](../Page/完全感覺Dreamer.md "wikilink")》相隔約1年的新作。
   - 初回盤封入演唱會先行抽選預約券。
   - PV於SSTV Monster Rock1月17日的節目中初次公開。
   - 本作獲得合法下載網站[RecoChoku](../Page/RecoChoku.md "wikilink")2011年年度搖滾片段跟全曲下載年間1位\[1\]。

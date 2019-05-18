@@ -1,7 +1,7 @@
 **VEGAS Pro**
 曾是[索尼推出的一款](../Page/索尼.md "wikilink")[非线性编辑软件](../Page/非線性剪輯.md "wikilink")，現在由MAGIX開發及推出。最初由
 [Sonic
-Foundry](https://zh.wikipedia.org/wiki/Sonic_Foundry "wikilink")（已被索尼收购\[1\]）开发，2003年至2016年間由索尼旗下子公司[Sony
+Foundry](../Page/Sonic_Foundry.md "wikilink")（已被索尼收购\[1\]）开发，2003年至2016年間由索尼旗下子公司[Sony
 Creative
 Software](https://zh.wikipedia.org/wiki/Sony_Creative_Software "wikilink")
 负责开发维护工作。最早的版本是作为[音频编辑软件而开发销售的](https://zh.wikipedia.org/wiki/音频编辑软件 "wikilink")，从2.0开始转型为非线性编辑软件。其特点有：无限制复合轨道视频、音频合成；支持不同分辨率视频素材在同一工程内编辑；集成特效与轨道合成工具；支持24-bit/192

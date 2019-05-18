@@ -1,0 +1,156 @@
+**吉姆·奈格利奇**（**Jim
+Negrych**，1985年3月2日－），為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[職業棒球](https://zh.wikipedia.org/wiki/職業棒球 "wikilink")[選手之一](https://zh.wikipedia.org/wiki/選手 "wikilink")。現效力於[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[中信兄弟](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink")，登錄名字為**耐克**。守備位置為[二壘手](https://zh.wikipedia.org/wiki/二壘手 "wikilink")。
+2014年5月7日正式加盟中信兄弟，其後球隊戰況漸入佳境。而耐克的打擊表現，被視為是帶動打線的主因之一\[1\]\[2\]。但同年8月27日，因左大腿四頭肌斷裂，需休養至少兩個月，球隊選擇在831洋將大限前，將耐克除役。而洋將缺額則登錄洋投桑契斯遞補。\[3\]2015年1月26日，由中信兄弟球團方面宣布，耐克正式回鍋加盟兄弟，與[佩卓組成二遊搭檔](https://zh.wikipedia.org/wiki/佩卓 "wikilink")。\[4\]2015年8月1日因球隊投手不足，需要洋投補強戰力，再度被球團解約。\[5\]
+
+## 經歷
+
+  - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[匹茲堡海盜](../Page/匹茲堡海盜.md "wikilink")（小聯盟，2006年～2010年）
+      - 2006年－短期1A－威廉波特橫鋸（Williamsport Crosscutters）－紐約─賓州聯盟（New
+        York-Penn League）
+      - 2007年－1A－希科利螯蝦（Hickory Crawdads）－南大西洋聯盟（South Atlantic League）
+      - 2008年－高階1A－林屈堡山貓（Lychburg Hillcats）－卡羅萊那聯盟（Carolina League）
+      - 2008年～2010年－2A－艾頓那曲球（Altoona Curve）－東方聯盟（Eastern League）
+      - 2010年－3A－印地安那波利斯印地安人（Indianapolis Indians）－國際聯盟（International
+        League）
+
+<!-- end list -->
+
+  - 美國職棒[佛羅里達馬林魚](https://zh.wikipedia.org/wiki/佛羅里達馬林魚 "wikilink")（小聯盟，2011年）
+      - 2011年－2A－傑克森威爾太陽（Jacksonville Suns）－南方聯盟（Southern League）
+
+<!-- end list -->
+
+  - 美國職棒[華盛頓國民](../Page/華盛頓國民.md "wikilink")（小聯盟，2012年）
+      - 2012年－2A－哈里斯堡參議員（Harrisburg Senators）－東方聯盟（Eastern League）
+      - 2012年－3A－雪城領袖（Syracuse Chiefs）－國際聯盟（International League）
+
+<!-- end list -->
+
+  - 美國職棒[多倫多藍鳥](../Page/多倫多藍鳥.md "wikilink")（小聯盟，2013年）
+      - 2013年－3A－水牛城野牛（Buffalo Bisons）－國際聯盟（International League）
+
+<!-- end list -->
+
+  - 美國大西洋聯盟蘭卡斯特巡迴表演者隊（2014年）
+  - [中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[中信兄弟](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink")（2014年～2015年）
+
+## 職棒成績
+
+### 美國職棒
+
+| 年度    | 球隊                                     | 等級       | 出賽   | 打席  | 打數  | 打點  | 得分  | 安打  | 二壘打 | 三壘打 | 全壘打 | 盜壘  | 四壞    | 三振    | 打擊率   | 上壘率   | 長打率   |
+| ----- | -------------------------------------- | -------- | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ----- | ----- | ----- | ----- | ----- |
+| 2006年 | [匹茲堡海盜](../Page/匹茲堡海盜.md "wikilink")   | 短期1A     | 42   | 166 | 146 | 17  | 12  | 39  | 7   | 2   | 2   | 1   | 13    | 19    | 0.267 | 0.327 | 0.384 |
+| 2007年 | [匹茲堡海盜](../Page/匹茲堡海盜.md "wikilink")   | 1A       | 86   | 376 | 340 | 48  | 57  | 96  | 14  | 4   | 2   | 4   | 27    | 48    | 0.282 | 0.340 | 0.365 |
+| 2008年 | [匹茲堡海盜](../Page/匹茲堡海盜.md "wikilink")   | 高階1A\~2A | 129  | 553 | 473 | 72  | 87  | 170 | 41  | 1   | 5   | 12  | 66    | 69    | 0.359 | 0.438 | 0.482 |
+| 2009年 | [匹茲堡海盜](../Page/匹茲堡海盜.md "wikilink")   | 2A       | 93   | 378 | 323 | 30  | 51  | 88  | 18  | 1   | 3   | 8   | 45    | 37    | 0.272 | 0.366 | 0.362 |
+| 2010年 | [匹茲堡海盜](../Page/匹茲堡海盜.md "wikilink")   | 2A\~3A   | 123  | 457 | 396 | 54  | 59  | 112 | 18  | 5   | 4   | 10  | 52    | 79    | 0.283 | 0.369 | 0.384 |
+| 2011年 | [邁阿密馬林魚](../Page/邁阿密馬林魚.md "wikilink") | 2A       | 121  | 458 | 398 | 46  | 60  | 121 | 22  | 1   | 5   | 11  | 45    | 52    | 0.304 | 0.370 | 0.402 |
+| 2012年 | [華盛頓國民](../Page/華盛頓國民.md "wikilink")   | 2A\~3A   | 94   | 333 | 281 | 42  | 31  | 76  | 11  | 1   | 8   | 2   | 43    | 41    | 0.270 | 0.366 | 0.402 |
+| 2013年 | [多倫多藍鳥](../Page/多倫多藍鳥.md "wikilink")   | 3A       | 108  | 437 | 382 | 44  | 60  | 109 | 27  | 1   | 3   | 5   | 44    | 63    | 0.285 | 0.360 | 0.385 |
+| 8年    | 796                                    | 3158     | 2739 | 353 | 417 | 811 | 158 | 16  | 32  | 53  | 335 | 408 | 0.296 | 0.374 | 0.401 |       |       |
+
+### 大西洋聯盟（獨立聯盟）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年度</p></th>
+<th><p>球隊</p></th>
+<th><p>出賽</p></th>
+<th><p>打席</p></th>
+<th><p>打數</p></th>
+<th><p>打點</p></th>
+<th><p>得分</p></th>
+<th><p>安打</p></th>
+<th><p>二壘打</p></th>
+<th><p>三壘打</p></th>
+<th><p>全壘打</p></th>
+<th><p>盜壘</p></th>
+<th><p>四壞</p></th>
+<th><p>三振</p></th>
+<th><p>打擊率</p></th>
+<th><p>上壘率</p></th>
+<th><p>長打率</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2014年</p></td>
+<td><p>蘭卡斯特巡迴表演者隊<br />
+（Lancaster Barnstormers）</p></td>
+<td><p>3</p></td>
+<td><p>10</p></td>
+<td><p>10</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>5</p></td>
+<td><p>2</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0.500</p></td>
+<td><p>0.500</p></td>
+<td><p>0.700</p></td>
+</tr>
+<tr class="even">
+<td><p>1年</p></td>
+<td><p>3</p></td>
+<td><p>10</p></td>
+<td><p>10</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>5</p></td>
+<td><p>2</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0.500</p></td>
+<td><p>0.500</p></td>
+<td><p>0.700</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 中華職棒
+
+|       |                                                       |     |     |     |    |    |     |     |     |     |    |    |    |       |       |       |
+| ----- | ----------------------------------------------------- | --- | --- | --- | -- | -- | --- | --- | --- | --- | -- | -- | -- | ----- | ----- | ----- |
+| 年度    | 球隊                                                    | 出賽  | 打席  | 打數  | 打點 | 得分 | 安打  | 二壘打 | 三壘打 | 全壘打 | 盜壘 | 四壞 | 三振 | 打擊率   | 上壘率   | 長打率   |
+| 2014年 | [中信兄弟](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink") | 49  | 208 | 186 | 34 | 27 | 68  | 9   | 0   | 4   | 3  | 16 | 24 | 0.366 | 0.406 | 0.478 |
+| 2015年 | [中信兄弟](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink") | 58  | 246 | 219 | 35 | 29 | 73  | 12  | 2   | 2   | 2  | 20 | 32 | 0.333 | 0.391 | 0.434 |
+| 累計    | 2年                                                    | 107 | 454 | 405 | 69 | 56 | 141 | 21  | 2   | 6   | 5  | 36 | 56 | 0.348 | 0.398 | 0.454 |
+
+## 參考文獻
+
+  - 球員成績及資訊參考[Baseball-Reference.com](http://www.baseball-reference.com/minors/player.cgi?id=negryc001jam)及[中華職棒大聯盟全球資訊網](https://web.archive.org/web/20140903064629/http://www.cpbl.com.tw/player_person.aspx?mno=E0K4)
+
+<references />
+
+## 外部連結
+
+[Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink")
+[Category:中華職棒外籍球員](https://zh.wikipedia.org/wiki/Category:中華職棒外籍球員 "wikilink")
+[Category:匹茲堡海盜隊球員](https://zh.wikipedia.org/wiki/Category:匹茲堡海盜隊球員 "wikilink")
+[Category:邁阿密馬林魚隊球員](https://zh.wikipedia.org/wiki/Category:邁阿密馬林魚隊球員 "wikilink")
+[Category:華盛頓國民隊球員](https://zh.wikipedia.org/wiki/Category:華盛頓國民隊球員 "wikilink")
+[Category:多倫多藍鳥隊球員](https://zh.wikipedia.org/wiki/Category:多倫多藍鳥隊球員 "wikilink")
+[Category:中信兄弟隊球員](https://zh.wikipedia.org/wiki/Category:中信兄弟隊球員 "wikilink")
+[Category:紐約州人](https://zh.wikipedia.org/wiki/Category:紐約州人 "wikilink")
+[Category:水牛城人](https://zh.wikipedia.org/wiki/Category:水牛城人 "wikilink")
+
+1.  [兄弟火力發揮　彭政閔：耐克拚勁帶來當頭棒喝](http://www.ettoday.net/news/20140607/365450.htm)　ETtoday
+    新聞雲，2014-6-7
+2.  [中信兄弟下半季獨走　草總：打擊串連耐克是關鍵](http://www.ettoday.net/news/20140713/377981.htm)　ETtoday
+    新聞雲，2014-7-13
+3.  [中信兄弟除役耐克
+    改登錄洋投桑契斯](http://news.ltn.com.tw/news/sports/breakingnews/1091657)　自由時報，2014-8-27
+4.  \[<http://www.cna.com.tw/news/aspt/201501260368-1.aspx>　耐克回鍋
+    兄弟雙洋砲有望\] 　中央通訊社，2015-1-26
+5.  \[<http://sports.ltn.com.tw/news/breakingnews/1397684>　中職》中信兄弟與耐克解約
+    新洋投伍鐸周日先發對義大\] 　自由時報，2015-8-1

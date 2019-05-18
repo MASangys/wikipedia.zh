@@ -7,7 +7,7 @@
 
 ## 音樂錄影帶
 
-2010年8月9日上傳於*HyunaKimVEVO*[Youtube頻道](../Page/Youtube.md "wikilink")，並於2013年1月27日上傳HD版本至*4Minute
+2010年8月9日上傳於*HyunaKimVEVO*[Youtube頻道](https://zh.wikipedia.org/wiki/Youtube "wikilink")，並於2013年1月27日上傳HD版本至*4Minute
 포미닛(Official YouTube Channel)* 。
 之後不允許使用者觀看*HyunaKimVEVO*其影片\[1\]，以集中點閱率。
 

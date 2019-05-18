@@ -59,7 +59,7 @@ XP**在引入诸多新功能的同时，亦移除诸多旧功能。下面将介�
 
 ### Service Pack 2
 
-  - [原始套接字支持大多被移除](https://zh.wikipedia.org/wiki/原始套接字 "wikilink")\[31\]。
+  - [原始套接字支持大多被移除](../Page/原始套接字.md "wikilink")\[31\]。
 
   - 数量受限\[32\]。
 

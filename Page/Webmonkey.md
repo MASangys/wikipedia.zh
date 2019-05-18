@@ -6,7 +6,7 @@ Webmonkey在2004年2月由于其母公司[Terra
 Lycos在美国裁人而关门](../Page/Lycos.md "wikilink")。于2006年2月重开，但稍后又关闭。
 
 2008年5月Webmonkey被收购连线杂志的Condé
-Nast公司收购，后者把Webmonkey作为一个[wiki重新发布](../Page/wiki.md "wikilink")。\[2\]
+Nast公司收购，后者把Webmonkey作为一个[wiki重新发布](https://zh.wikipedia.org/wiki/wiki "wikilink")。\[2\]
 
 ## 参考
 

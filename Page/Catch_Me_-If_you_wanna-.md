@@ -1,12 +1,12 @@
 《**Catch Me -If you
 wanna-**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起在日本发行的第](../Page/東方神起.md "wikilink")36张[单曲](../Page/单曲.md "wikilink")。于2013年1月16日由[avex
-trax公司发行](../Page/avex_trax.md "wikilink")。
+trax公司发行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
 单曲分为「CD+DVD」「只CD」「Bigeast盤」三种版本发行。距离上张单曲发行约半年。附属DVD中收录了《Catch Me -If you
 wanna-》与《I Know》两首歌的MV与《Catch Me -If you
-wanna-》MV的拍摄过程（只在初回限定盘中收录）。上首有MV制作的B面曲还是第32张单曲《[Superstar](https://zh.wikipedia.org/wiki/Superstar "wikilink")》的B面曲《I
+wanna-》MV的拍摄过程（只在初回限定盘中收录）。上首有MV制作的B面曲还是第32张单曲《[Superstar](../Page/Superstar.md "wikilink")》的B面曲《I
 Don't Know》。
 
 初回限定版本封入特典是封面大小的卡片（6種中随机封入1种）。「只CD」版本有CD-EXTRA与在[a-nation上现场表演的](https://zh.wikipedia.org/wiki/a-nation "wikilink")《[MAXIMUM](https://zh.wikipedia.org/wiki/MAXIMUM "wikilink")》影片

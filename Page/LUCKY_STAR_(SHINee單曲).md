@@ -5,7 +5,7 @@ STAR**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 
 2014年5月19日，[EMI音樂日本公布了SHINee第](../Page/EMI音樂日本.md "wikilink")10張單曲的消息\[1\]，而《LUCKY
 STAR》的短版音樂錄影帶則在5月29日推出\[2\]。完整的《LUCKY
-STAR》單曲則率先在2014年6月11日於[iTunes及](../Page/iTunes.md "wikilink")[RecoChoku提供購買](../Page/RecoChoku.md "wikilink")\[3\]。
+STAR》單曲則率先在2014年6月11日於[iTunes及](https://zh.wikipedia.org/wiki/iTunes "wikilink")[RecoChoku提供購買](../Page/RecoChoku.md "wikilink")\[3\]。
 
 ### 發行版本
 

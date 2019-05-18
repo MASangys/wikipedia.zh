@@ -44,7 +44,7 @@
   - 製作：[東不可止](https://zh.wikipedia.org/wiki/東不可止 "wikilink")、中沢利洋
   - 動畫製作：[東京キッズ](https://zh.wikipedia.org/wiki/東京キッズ "wikilink")
   - 出品：[東京電視台](../Page/東京電視台.md "wikilink")、[小學館集英社製作](../Page/小學館集英社製作.md "wikilink")
-  - 旁白：[池田政典](https://zh.wikipedia.org/wiki/池田政典 "wikilink")
+  - 旁白：[池田政典](../Page/池田政典.md "wikilink")
 
 ## 主題曲
 

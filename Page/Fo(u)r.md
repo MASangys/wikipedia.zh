@@ -12,7 +12,7 @@
     love](https://zh.wikipedia.org/wiki/almost_in_love "wikilink")》。但並未收錄於《One
     x One》發行的單曲《[mirage in
     blue](https://zh.wikipedia.org/wiki/mirage_in_blue/珍愛的人 "wikilink")》與《[白色氣息](../Page/白色氣息.md "wikilink")》。（《白色氣息》的完整版本收錄於同年的實驗專輯《[Hot
-    Chemistry](https://zh.wikipedia.org/wiki/Hot_Chemistry "wikilink")》中）
+    Chemistry](../Page/Hot_Chemistry.md "wikilink")》中）
   - 專輯名稱有第4張專輯（four）以及希望把這張專輯獻給珍愛的人（for）的意思。
   - 專輯發售後，於8月9日發行收錄這張專輯所有曲目的混音的專輯《[Re:fo(u)rm](https://zh.wikipedia.org/wiki/Re:fo\(u\)rm "wikilink")》。
 

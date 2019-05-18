@@ -1,5 +1,5 @@
 **Smartisan
-T1**（或称“锤子手机（T1）”\[1\]）是一款由[中国大陆科技公司](../Page/中国大陆.md "wikilink")[锤子科技开发](https://zh.wikipedia.org/wiki/锤子科技 "wikilink")、[富士康代加工的](https://zh.wikipedia.org/wiki/富士康 "wikilink")[智能手机](../Page/智能手机.md "wikilink")，原生搭载[Smartisan
+T1**（或称“锤子手机（T1）”\[1\]）是一款由[中国大陆科技公司](../Page/中国大陆.md "wikilink")[锤子科技开发](../Page/锤子科技.md "wikilink")、[富士康代加工的](https://zh.wikipedia.org/wiki/富士康 "wikilink")[智能手机](../Page/智能手机.md "wikilink")，原生搭载[Smartisan
 OS](../Page/Smartisan_OS.md "wikilink")
 1.0版本\[2\]\[3\]。2014年5月20日，锤子科技创始人[罗永浩在北京举办的锤子科技产品发布会上正式发布](../Page/罗永浩.md "wikilink")。\[4\]
 
@@ -10,7 +10,7 @@ OS](../Page/Smartisan_OS.md "wikilink")
 Smartisan
 T1[硬件外观设计由美国](../Page/硬件.md "wikilink")创始人、前[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[工业设计总监](../Page/工业设计.md "wikilink")主持设计。设计团队称，设计使用了全方位[左右对称的设计风格](https://zh.wikipedia.org/wiki/鏡射對稱 "wikilink")，整体采用圆角[矩形的造型](../Page/矩形.md "wikilink")，前后面板均采用[康宁第三代](https://zh.wikipedia.org/wiki/康宁公司 "wikilink")[大猩猩玻璃](../Page/大猩猩玻璃.md "wikilink")\[5\]\[6\]\[7\]。Smartisan
 T1采用高通[骁龙](https://zh.wikipedia.org/wiki/高通骁龙 "wikilink")801（MSM8274AC）四核[处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")，该处理器为[Krait
-400](https://zh.wikipedia.org/wiki/Krait_\(CPU\) "wikilink")[架构](https://zh.wikipedia.org/wiki/处理器架构 "wikilink")，采用28[nm的HPm节能型移动工艺技术制造](https://zh.wikipedia.org/wiki/nm "wikilink")\[8\]\[9\]。主摄像头采用索尼出品1278万有效像素[Exmor
+400](../Page/Krait_\(CPU\).md "wikilink")[架构](https://zh.wikipedia.org/wiki/处理器架构 "wikilink")，采用28[nm的HPm节能型移动工艺技术制造](https://zh.wikipedia.org/wiki/nm "wikilink")\[8\]\[9\]。主摄像头采用索尼出品1278万有效像素[Exmor
 RS™堆栈式图像传感器摄像头](../Page/Exmor.md "wikilink")，[ƒ/2.0](../Page/焦比.md "wikilink")[光圈](../Page/光圈.md "wikilink")[镜头](https://zh.wikipedia.org/wiki/镜头 "wikilink")，在影像优化方面采用同[三星电子](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[Galaxy
 S4欧版一样的](https://zh.wikipedia.org/wiki/Galaxy_S4 "wikilink")[日本](../Page/日本.md "wikilink")[富士通的](../Page/富士通.md "wikilink")影像解决方案，配合[Acutelogic](https://zh.wikipedia.org/wiki/Acutelogic "wikilink")
 4.0[白平衡算法以及](https://zh.wikipedia.org/wiki/白平衡 "wikilink")[Arcsoft的场景识别与夜景](https://zh.wikipedia.org/wiki/虹軟科技 "wikilink")[降噪技术](https://zh.wikipedia.org/wiki/降噪 "wikilink")\[10\]\[11\]\[12\]。罗永浩谈及为此曾多次赴日本与厂商进行业务洽谈\[13\]。屏幕采用日本[JDI公司的](https://zh.wikipedia.org/wiki/JDI "wikilink")4.95英寸Pixel
@@ -41,7 +41,7 @@ T1的包装盒由英国纸业合作生产，内附有缠绕在绕线器上的适
 ## 发布
 
 早在2014年5月19日，型号为SM701的锤子手机就已经被在[工信部网站上可以查找到相关信息](https://zh.wikipedia.org/wiki/工信部 "wikilink")，许可证号码为02-B217-141621\[44\]\[45\]。从当时工信部流出图片上显示手机采用近似方形的设计，有评论认为给人一种“[iPhone
-4S放大复刻版](../Page/iPhone_4S.md "wikilink")”的感觉\[46\]。
+4S放大复刻版](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")”的感觉\[46\]。
 
 2014年5月20日，锤子科技在北京[国家会议中心召开新品发布会](https://zh.wikipedia.org/wiki/国家会议中心 "wikilink")，罗永浩在发布会上表示售价分别为16GB版3000元、32GB版3150元，当天起接受预定，并在7月初正式发货\[47\]。罗永浩还表示[4G版本Smartisan](../Page/4G.md "wikilink")
 T1的16GB版售价3500元、32GB版则为3650元，前期4G版暂无[电信版](../Page/CDMA2000.md "wikilink")，预计2014年年底前上市\[48\]。
@@ -72,7 +72,7 @@ T1发布后向北京市工商行政管理局朝阳分局举报锤子科技公司
 T1硬件成本为1600-1700元人民币，首笔订单由[富士康承接](https://zh.wikipedia.org/wiki/富士康 "wikilink")，数量为20万台左右\[65\]。也有评论将Smartisan
 T1称为“史上最具争议的智能手机”\[66\]\[67\]。
 
-注：在[方舟子向北京市工商行政管理局举报后](../Page/方舟子.md "wikilink")[锤子科技即将其宣传语改为](https://zh.wikipedia.org/wiki/锤子科技 "wikilink")“全球第二好用的智能手机”；在[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iPhone
+注：在[方舟子向北京市工商行政管理局举报后](../Page/方舟子.md "wikilink")[锤子科技即将其宣传语改为](../Page/锤子科技.md "wikilink")“全球第二好用的智能手机”；在[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iPhone
 6推出后又改为](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")“我们眼中全球第二好用的智能手机”。
 
 Smartisan
@@ -86,7 +86,7 @@ T1获得2015年[IF產品設計獎金奖](../Page/IF產品設計獎.md "wikilink"
 ## 相关条目
 
   - [罗永浩](../Page/罗永浩.md "wikilink")
-  - [锤子科技](https://zh.wikipedia.org/wiki/锤子科技 "wikilink")
+  - [锤子科技](../Page/锤子科技.md "wikilink")
   - [小米手机](../Page/小米手机.md "wikilink")
 
 ## 参考来源

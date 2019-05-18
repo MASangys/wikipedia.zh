@@ -14,9 +14,9 @@ Entertainment与DalNByul Music于2014年推出的女子演唱团体，由藝瑟�
   - 2014年，8月1日，客串Kim Woo Joo《The City of Summer
     Night》MV，\[5\]，10月10日，客串Yang Song E《Smiling
     Goodbye》MV，\[6\]
-  - 2017年，4月出演《[偶像大師.KR](https://zh.wikipedia.org/wiki/偶像大師.KR "wikilink")》，7月透露已经离开Sony
+  - 2017年，4月出演《[偶像大師.KR](../Page/偶像大師.KR.md "wikilink")》，7月透露已经离开Sony
     Entertainment，10月出演KBS偶像選秀節目《[The
-    Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》。
+    Unit](../Page/The_Unit.md "wikilink")》。
 
 ## 音樂錄影帶
 

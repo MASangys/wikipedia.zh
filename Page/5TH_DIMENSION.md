@@ -53,7 +53,7 @@ Store](https://zh.wikipedia.org/wiki/iTunes_Music_Store "wikilink")・[レコチ
         作詞：桑原永江、作曲：佐藤晃 (ミュージシャン)|佐藤晃、編曲：長谷川智樹
 12. **[再會吧、那些愛憐的悲傷啊](../Page/再會吧、那些愛憐的悲傷啊.md "wikilink")**
       -
-        作詞：岩里祐穂、作曲・編曲：[布袋寅泰](https://zh.wikipedia.org/wiki/布袋寅泰 "wikilink")
+        作詞：岩里祐穂、作曲・編曲：[布袋寅泰](../Page/布袋寅泰.md "wikilink")
 13. **灰とダイヤモンド**
       -
         作詞：只野菜摘、作曲：前山田健一、編曲：近藤研二

@@ -1,5 +1,5 @@
 《**NEW
-PAGE**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland的第六張](../Page/FTIsland.md "wikilink")[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，也是他們第五張由[華納唱片（日本）發行的專輯](../Page/華納音樂集團.md "wikilink")，在2014年5月28日以四個版本：通常盤、CD+DVD初回限定A盤、CD+DVD初回限定B盤及Primadonna盤推出。三張打入Oricon單曲週榜前十名的單曲：《[幸福的理論](https://zh.wikipedia.org/wiki/幸福的理論 "wikilink")》（）、《[beautiful](https://zh.wikipedia.org/wiki/beautiful_\(FTIsland單曲\) "wikilink")》及《[未體驗Future](https://zh.wikipedia.org/wiki/未體驗Future "wikilink")》（）在專輯推出前預先發行。
+PAGE**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland的第六張](../Page/FTIsland.md "wikilink")[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，也是他們第五張由[華納唱片（日本）發行的專輯](../Page/華納音樂集團.md "wikilink")，在2014年5月28日以四個版本：通常盤、CD+DVD初回限定A盤、CD+DVD初回限定B盤及Primadonna盤推出。三張打入Oricon單曲週榜前十名的單曲：《[幸福的理論](../Page/幸福的理論.md "wikilink")》（）、《[beautiful](https://zh.wikipedia.org/wiki/beautiful_\(FTIsland單曲\) "wikilink")》及《[未體驗Future](../Page/未體驗Future.md "wikilink")》（）在專輯推出前預先發行。
 
 ## 背景
 
@@ -35,7 +35,7 @@ FREE》的音樂錄影帶同日亦公開\[4\]。
 
 3首歌曲曾以單曲形式發行：
 
-首張單曲《[幸福的理論](https://zh.wikipedia.org/wiki/幸福的理論 "wikilink")》（）在2013年7月24日發行。這歌曲由[宅見將典作曲](https://zh.wikipedia.org/wiki/宅見將典 "wikilink")，並交由填詞，打入了[Oricon單曲榜第五名](../Page/Oricon.md "wikilink")，首週銷售23,833張及在榜停留4星期\[9\]。此單曲曾收錄於精選輯《[THE
+首張單曲《[幸福的理論](../Page/幸福的理論.md "wikilink")》（）在2013年7月24日發行。這歌曲由[宅見將典作曲](https://zh.wikipedia.org/wiki/宅見將典 "wikilink")，並交由填詞，打入了[Oricon單曲榜第五名](../Page/Oricon.md "wikilink")，首週銷售23,833張及在榜停留4星期\[9\]。此單曲曾收錄於精選輯《[THE
 SINGLES
 COLLECTION](../Page/THE_SINGLES_COLLECTION_\(FTIsland專輯\).md "wikilink")》中，B面歌曲《EYES
 ON ME》也出現在《NEW PAGE》的第6首位置。
@@ -43,7 +43,7 @@ ON ME》也出現在《NEW PAGE》的第6首位置。
 第二張單曲《[beautiful](https://zh.wikipedia.org/wiki/beautiful_\(FTIsland單曲\) "wikilink")》在2014年1月22日發行。這歌曲由作曲填詞，打入了[Oricon單曲榜第八名](../Page/Oricon.md "wikilink")，首週銷售16,325張及在榜停留4星期\[10\]。B面歌曲《On
 My Way》也出現在《NEW PAGE》的第12首位置。
 
-第三張及最後一張單曲《[未體驗Future](https://zh.wikipedia.org/wiki/未體驗Future "wikilink")》（）在2014年4月2日發行。這首歌由[GAKU創作曲詞](https://zh.wikipedia.org/wiki/GAKU "wikilink")，打入了[Oricon單曲榜第五名](../Page/Oricon.md "wikilink")，首週銷售14,190張及在榜停留4星期\[11\]。B面歌曲《BORN
+第三張及最後一張單曲《[未體驗Future](../Page/未體驗Future.md "wikilink")》（）在2014年4月2日發行。這首歌由[GAKU創作曲詞](https://zh.wikipedia.org/wiki/GAKU "wikilink")，打入了[Oricon單曲榜第五名](../Page/Oricon.md "wikilink")，首週銷售14,190張及在榜停留4星期\[11\]。B面歌曲《BORN
 TO BE A ROCK'N ROLLER》也出現在《NEW PAGE》的第9首位置。
 
 ## 曲目

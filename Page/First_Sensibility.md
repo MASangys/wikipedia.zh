@@ -38,7 +38,7 @@ Sensibility**》是韓國男子團體[B.A.P首張正規專輯](../Page/B.A.P.md 
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年Gaon專輯冠軍作品列表" title="wikilink">專輯周榜</a></p></td>
+<td><p><a href="../Page/2014年Gaon專輯冠軍作品列表.md" title="wikilink">專輯周榜</a></p></td>
 <td><p>2014年2月9日－2月15日</p></td>
 <td><p>#1</p></td>
 <td><p>–</p></td>
@@ -46,7 +46,7 @@ Sensibility**》是韓國男子團體[B.A.P首張正規專輯](../Page/B.A.P.md 
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="../Page/2014年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2014年2月</p></td>
 <td><p>#1</p></td>
 <td><p>91,053</p></td>
@@ -55,7 +55,7 @@ Sensibility**》是韓國男子團體[B.A.P首張正規專輯](../Page/B.A.P.md 
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年Gaon專輯冠軍作品列表" title="wikilink">專輯年榜</a></p></td>
+<td><p><a href="../Page/2014年Gaon專輯冠軍作品列表.md" title="wikilink">專輯年榜</a></p></td>
 <td><p>2014年</p></td>
 <td><p>#13</p></td>
 <td><p>106,190</p></td>
@@ -90,7 +90,7 @@ Sensibility**》是韓國男子團體[B.A.P首張正規專輯](../Page/B.A.P.md 
 ## 外部連結
 
   - ['《First
-    Sensibility》](https://itunes.apple.com/us/album/first-sensibility/id813377586)在[iTunes](../Page/iTunes.md "wikilink")
+    Sensibility》](https://itunes.apple.com/us/album/first-sensibility/id813377586)在[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")
 
   -
 

@@ -27,9 +27,9 @@ HRC），而且能夠在-25—135[℉](../Page/华氏温标.md "wikilink")（-32
 
   - ，[M1卡宾枪所配用的刺刀](../Page/M1卡宾枪.md "wikilink")
 
-  - [M5刺刀](https://zh.wikipedia.org/wiki/M5刺刀 "wikilink")，M1加兰德所配用的新式刺刀
+  - [M5刺刀](../Page/M5刺刀.md "wikilink")，M1加兰德所配用的新式刺刀
 
-  - [M6刺刀](https://zh.wikipedia.org/wiki/M6刺刀 "wikilink")，[M14步槍所配用的新式刺刀](../Page/M14自动步枪.md "wikilink")
+  - [M6刺刀](../Page/M6刺刀.md "wikilink")，[M14步槍所配用的新式刺刀](../Page/M14自动步枪.md "wikilink")
 
   - [M7刺刀](../Page/M7刺刀.md "wikilink")，越南战争期間美國軍隊為M16／M4槍族配用的舊式刺刀
 
@@ -47,19 +47,19 @@ HRC），而且能夠在-25—135[℉](../Page/华氏温标.md "wikilink")（-32
 
   - ，更早具有類似的多功能刺刀概念
 
-  - [95式刺刀](https://zh.wikipedia.org/wiki/95式刺刀 "wikilink")，[95式](../Page/95式自動步槍.md "wikilink")／[03式步槍的刺刀](../Page/03式自動步槍.md "wikilink")，參考了M9刺刀
+  - [95式刺刀](../Page/95式刺刀.md "wikilink")，[95式](../Page/95式自動步槍.md "wikilink")／[03式步槍的刺刀](../Page/03式自動步槍.md "wikilink")，參考了M9刺刀
 
-  - [06式水下刺刀](https://zh.wikipedia.org/wiki/06式水下刺刀 "wikilink")，[06式的刺刀](https://zh.wikipedia.org/wiki/06式水下步枪 "wikilink")，可說是95式刺刀與潛水刀的混合型
+  - [06式水下刺刀](../Page/06式水下刺刀.md "wikilink")，[06式的刺刀](../Page/06式水下步枪.md "wikilink")，可說是95式刺刀與潛水刀的混合型
 
   - [格洛克刺刀](https://zh.wikipedia.org/wiki/格洛克刺刀 "wikilink")
 
-  - [KCB77刺刀](https://zh.wikipedia.org/wiki/KCB77刺刀 "wikilink")
+  - [KCB77刺刀](../Page/KCB77刺刀.md "wikilink")
 
   - [Stgw 90刺刀](https://zh.wikipedia.org/wiki/Stgw_90刺刀 "wikilink")
 
   - [UN/BN 805刺刀](https://zh.wikipedia.org/wiki/UN/BN_805刺刀 "wikilink")
 
-  - [M3格鬥刀](https://zh.wikipedia.org/wiki/M3格鬥刀 "wikilink")
+  - [M3格鬥刀](../Page/M3格鬥刀.md "wikilink")
 
 ## 參考文獻
 

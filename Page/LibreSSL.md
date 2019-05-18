@@ -1,4 +1,4 @@
-**LibreSSL**是[OpenSSL](../Page/OpenSSL.md "wikilink")[加密](../Page/密码学.md "wikilink")[软件库的一个](../Page/函式庫.md "wikilink")[分支](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")，是一个[安全套接层](https://zh.wikipedia.org/wiki/安全套接层 "wikilink")（SSL）和[传输层安全](https://zh.wikipedia.org/wiki/传输层安全 "wikilink")（TLS）协议的[开源实现](../Page/开放源代码.md "wikilink")。在OpenSSL爆出[心脏出血](https://zh.wikipedia.org/wiki/心脏出血漏洞 "wikilink")[安全漏洞之后](https://zh.wikipedia.org/wiki/计算机安全隐患 "wikilink")，一些[OpenBSD开发者于](../Page/OpenBSD.md "wikilink")2014年4月创立了LibreSSL，\[1\]\[2\]\[3\]目标是[重构OpenSSL的代码](../Page/代码重构.md "wikilink")，以提供一个更安全的替代品。\[4\]LibreSSL复刻自OpenSSL库的1.0.1g分支，它将遵循OpenBSD基金会在其他项目所使用的安全指导原则。\[5\]
+**LibreSSL**是[OpenSSL](../Page/OpenSSL.md "wikilink")[加密](../Page/密码学.md "wikilink")[软件库的一个](../Page/函式庫.md "wikilink")[分支](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")，是一个[安全套接层](https://zh.wikipedia.org/wiki/安全套接层 "wikilink")（SSL）和[传输层安全](https://zh.wikipedia.org/wiki/传输层安全 "wikilink")（TLS）协议的[开源实现](../Page/开放源代码.md "wikilink")。在OpenSSL爆出[心脏出血](../Page/心脏出血漏洞.md "wikilink")[安全漏洞之后](https://zh.wikipedia.org/wiki/计算机安全隐患 "wikilink")，一些[OpenBSD开发者于](../Page/OpenBSD.md "wikilink")2014年4月创立了LibreSSL，\[1\]\[2\]\[3\]目标是[重构OpenSSL的代码](../Page/代码重构.md "wikilink")，以提供一个更安全的替代品。\[4\]LibreSSL复刻自OpenSSL库的1.0.1g分支，它将遵循OpenBSD基金会在其他项目所使用的安全指导原则。\[5\]
 
 ## 历史
 
@@ -15,7 +15,7 @@ OpenBSD开发团队随即开始清理OpenSSL的代码，在第一周，LibreSSL�
 
 ### 加密算法
 
-原本不安全的种子生成方法（由内核原生提供）被移除，以确保随机数种子是通过安全的[随机数生成器产生的](https://zh.wikipedia.org/wiki/随机数生成器 "wikilink")。又新加入了一系列算法，包括[ChaCha20](https://zh.wikipedia.org/wiki/ChaCha20 "wikilink")-[Poly1305等](https://zh.wikipedia.org/wiki/Poly1305 "wikilink")。
+原本不安全的种子生成方法（由内核原生提供）被移除，以确保随机数种子是通过安全的[随机数生成器产生的](https://zh.wikipedia.org/wiki/随机数生成器 "wikilink")。又新加入了一系列算法，包括[ChaCha20](https://zh.wikipedia.org/wiki/ChaCha20 "wikilink")-[Poly1305等](../Page/Poly1305.md "wikilink")。
 
 ### 其他改动
 

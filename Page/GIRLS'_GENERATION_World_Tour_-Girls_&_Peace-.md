@@ -1,13 +1,13 @@
 **GIRLS' GENERATION Tour -Girls &
 Peace-**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[少女時代第三次巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。之前舉辦的日本第二次巡迴演唱會[GIRLS'
 GENERATION \~Girls\&Peace\~ Japan 2nd
-Tour是這次演唱會的一部分](https://zh.wikipedia.org/wiki/GIRLS'_GENERATION_~Girls&Peace~_Japan_2nd_Tour "wikilink")。
+Tour是這次演唱會的一部分](../Page/GIRLS'_GENERATION_~Girls&Peace~_Japan_2nd_Tour.md "wikilink")。
 
 ## 概要
 
 6月8、9日這兩天，在首爾開始首次巡迴演唱會。之前舉辦的日本第二次巡迴演唱會[GIRLS' GENERATION
 \~Girls\&Peace\~ Japan 2nd
-Tour是這次演唱會的一部分](https://zh.wikipedia.org/wiki/GIRLS'_GENERATION_~Girls&Peace~_Japan_2nd_Tour "wikilink")。特別是，[SM娛樂子公司](../Page/SM娛樂.md "wikilink")[SM
+Tour是這次演唱會的一部分](../Page/GIRLS'_GENERATION_~Girls&Peace~_Japan_2nd_Tour.md "wikilink")。特別是，[SM娛樂子公司](../Page/SM娛樂.md "wikilink")[SM
 C\&C合併了](../Page/SM娛樂.md "wikilink")[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")，並創立獨立品牌經紀公司[Woollim
 Label](https://zh.wikipedia.org/wiki/Woollim_Label "wikilink")，而旗下男子組合[TASTY作為香港站及澳門站的開場嘉賓](../Page/TASTY.md "wikilink")。
 
@@ -28,7 +28,7 @@ Label](https://zh.wikipedia.org/wiki/Woollim_Label "wikilink")，而旗下男子
 <tbody>
 <tr class="odd">
 <td><p>2013年6月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
 <td><p>總計21,232名</p></td>

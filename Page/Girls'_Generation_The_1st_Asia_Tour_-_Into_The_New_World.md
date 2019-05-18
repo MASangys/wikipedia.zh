@@ -4,7 +4,7 @@ World**是韓國女子組合[少女時代第一次個人亞洲巡迴演唱會](h
 ## 概述
 
 [SM娛樂在](../Page/SM娛樂.md "wikilink")2009年11月宣布舉辦這次演唱會。門票銷售從11月19日開始，當中首爾場門票更於開售後三分鐘內全部售罄。\[1\]
-演唱會演出了[少女時代的出道單曲](https://zh.wikipedia.org/wiki/少女時代 "wikilink")（《[再次重逢的世界](../Page/再次重逢的世界.md "wikilink")》）、兩張迷你專輯（《[Gee](https://zh.wikipedia.org/wiki/Gee "wikilink")》、《[Genie](https://zh.wikipedia.org/wiki/Genie "wikilink")》）及兩張專輯（《[少女時代](../Page/少女時代_\(專輯\).md "wikilink")》、《[Oh\!](../Page/Oh!_\(專輯\).md "wikilink")》）的大部分曲目。七場巡迴演唱會在三個城市舉行，以[首爾為首站拉開序幕](https://zh.wikipedia.org/wiki/首爾 "wikilink")，然後是[上海及](https://zh.wikipedia.org/wiki/上海 "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，共動員了五萬五千名粉絲前往入場。
+演唱會演出了[少女時代的出道單曲](https://zh.wikipedia.org/wiki/少女時代 "wikilink")（《[再次重逢的世界](../Page/再次重逢的世界.md "wikilink")》）、兩張迷你專輯（《[Gee](https://zh.wikipedia.org/wiki/Gee "wikilink")》、《[Genie](https://zh.wikipedia.org/wiki/Genie "wikilink")》）及兩張專輯（《[少女時代](../Page/少女時代_\(專輯\).md "wikilink")》、《[Oh\!](../Page/Oh!_\(專輯\).md "wikilink")》）的大部分曲目。七場巡迴演唱會在三個城市舉行，以[首爾為首站拉開序幕](../Page/首爾.md "wikilink")，然後是[上海及](https://zh.wikipedia.org/wiki/上海 "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，共動員了五萬五千名粉絲前往入場。
 
 原定於2010年7月24日在泰國曼谷舉行的演唱會，因當地發生抗議，使公演無限期延期。\[2\]
 
@@ -24,11 +24,11 @@ World**是韓國女子組合[少女時代第一次個人亞洲巡迴演唱會](h
 <tbody>
 <tr class="odd">
 <td><p>2009年12月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克公園擊劍運動場" title="wikilink">首爾奧林匹克公園擊劍運動場</a></p></td>
 <td><p>總計26,000名</p></td>
-<td><p><a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a>、<a href="../Page/溫流.md" title="wikilink">溫流</a>、<a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a>、<a href="../Page/f(x)_(組合).md" title="wikilink">f(x)</a></p></td>
+<td><p><a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a>、<a href="../Page/溫流.md" title="wikilink">溫流</a>、<a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a>、<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2009年12月20日</p></td>
@@ -40,7 +40,7 @@ World**是韓國女子組合[少女時代第一次個人亞洲巡迴演唱會](h
 </tr>
 <tr class="odd">
 <td><p>2010年2月27日 <small>(Encore)</small></p></td>
-<td><p><a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/希澈.md" title="wikilink">希澈</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/溫流.md" title="wikilink">溫流</a>、<a href="../Page/f(x)_(組合).md" title="wikilink">f(x)</a></p></td>
+<td><p><a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/希澈.md" title="wikilink">希澈</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/溫流.md" title="wikilink">溫流</a>、<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a></p></td>
 <td></td>
 <td></td>
 <td></td>

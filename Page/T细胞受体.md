@@ -12,7 +12,7 @@ T细胞受体是一个固定在[细胞膜上的异源二聚体](../Page/细胞�
 T细胞](../Page/T细胞.md "wikilink")。少数含有γ亚基和δ亚基被称为[γδ
 T细胞](../Page/T细胞.md "wikilink")\[2\]。T细胞受体会与恒定的[CD3分子一起构成T细胞受体复合体](https://zh.wikipedia.org/wiki/CD3 "wikilink")。
 
-每一个亚基都含有两个细胞外的[结构域](../Page/结构域.md "wikilink")：可变区与恒定区。这些结构域属于[免疫球蛋白超家族](https://zh.wikipedia.org/wiki/免疫球蛋白超家族 "wikilink")，由反向平行的[β折叠所构成](../Page/β折叠.md "wikilink")。恒定区靠近细胞膜，连接着跨膜区和胞内的末端，而可变区负责识别多肽/MHC复合体。每个亚基的可变区都包含三个高度易变的[互补决定区](https://zh.wikipedia.org/wiki/互补决定区 "wikilink")（complementarity
+每一个亚基都含有两个细胞外的[结构域](../Page/结构域.md "wikilink")：可变区与恒定区。这些结构域属于[免疫球蛋白超家族](https://zh.wikipedia.org/wiki/免疫球蛋白超家族 "wikilink")，由反向平行的[β折叠所构成](https://zh.wikipedia.org/wiki/β折叠 "wikilink")。恒定区靠近细胞膜，连接着跨膜区和胞内的末端，而可变区负责识别多肽/MHC复合体。每个亚基的可变区都包含三个高度易变的[互补决定区](https://zh.wikipedia.org/wiki/互补决定区 "wikilink")（complementarity
 determining regions,
 CDR）。最重要的CDR3负责直接与MHC所呈递的多肽结合。α亚基和β亚基的CDR1分别作用与多肽的N端和C端。CDR2被认为参与识别MHC。β亚基还有一个额外的CDR4，通常并不参与多肽/MHC复合体的识别，但与[超抗原的作用有关](https://zh.wikipedia.org/wiki/超抗原 "wikilink")。
 
@@ -39,7 +39,7 @@ T细胞受体与特异抗原的结合需要协同受体同时结合到MHC分子�
 
   - [辅助型T细胞表面的](https://zh.wikipedia.org/wiki/辅助型T细胞 "wikilink")[CD4分子](https://zh.wikipedia.org/wiki/CD4 "wikilink")，负责识别第二类主要组织相容性复合体（MHC
     II）
-  - [细胞毒性T细胞表面的](https://zh.wikipedia.org/wiki/细胞毒性T细胞 "wikilink")[CD8分子](https://zh.wikipedia.org/wiki/CD8 "wikilink")，负责识别第一类主要组织相容性复合体（MHC
+  - [细胞毒性T细胞表面的](../Page/细胞毒性T细胞.md "wikilink")[CD8分子](https://zh.wikipedia.org/wiki/CD8 "wikilink")，负责识别第一类主要组织相容性复合体（MHC
     I）
 
 协同受体不仅提高了T细胞受体在功能上的特异性，而且延长了T细胞与[抗原呈递细胞的作用时间](https://zh.wikipedia.org/wiki/抗原呈递细胞 "wikilink")，还是细胞内信号通路的一些分子（如[Lck](https://zh.wikipedia.org/wiki/Lck "wikilink")）的附着点。

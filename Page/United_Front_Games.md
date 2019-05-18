@@ -71,7 +71,7 @@ Informer报道已经被关闭](../Page/Game_Informer.md "wikilink")，對此官�
 </tr>
 <tr class="odd">
 <td><p>TBA</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三合會之戰" title="wikilink">三合會之戰</a>[7]</p></td>
+<td><p><a href="../Page/三合會之戰.md" title="wikilink">三合會之戰</a>[7]</p></td>
 <td></td>
 <td></td>
 </tr>

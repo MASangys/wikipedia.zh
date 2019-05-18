@@ -8,7 +8,7 @@
   - 提供了指标历史记录、计划图（“时间机器”）和微分查看
   - 提供了完全自动化的分析：与[Maven](../Page/Apache_Maven.md "wikilink")、[Ant](../Page/Apache_Ant.md "wikilink")、[Gradle和](../Page/Gradle.md "wikilink")[持续集成工具](https://zh.wikipedia.org/wiki/持续集成 "wikilink")（、[Jenkins](https://zh.wikipedia.org/wiki/Jenkins "wikilink")、[Hudson等](https://zh.wikipedia.org/wiki/Hudson "wikilink")）\[5\]\[6\]\[7\]
   - 与[Eclipse开发环境集成](../Page/Eclipse.md "wikilink")
-  - 与[JIRA](../Page/JIRA.md "wikilink")、[Mantis](https://zh.wikipedia.org/wiki/Mantis "wikilink")、[LDAP](https://zh.wikipedia.org/wiki/LDAP "wikilink")、等外部工具集
+  - 与[JIRA](../Page/JIRA.md "wikilink")、[Mantis](../Page/Mantis.md "wikilink")、[LDAP](https://zh.wikipedia.org/wiki/LDAP "wikilink")、等外部工具集
   - 支持扩展插件\[8\]\[9\]
   - 利用计算[技术债务](https://zh.wikipedia.org/wiki/技术债务 "wikilink")\[10\]
   - 支持[Tomcat](https://zh.wikipedia.org/wiki/Tomcat "wikilink")。不过计划从SonarQube

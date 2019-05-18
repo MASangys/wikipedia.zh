@@ -27,7 +27,7 @@ IIAB的[行星核心富含](../Page/行星核心.md "wikilink")[硫和](../Page/
 
 目前有117顆隕石被歸類為IIAB，還有一顆是IIAB-異常，而其中只有三顆是墬落隕石。
 
-七顆IIAB隕石的重量超過1,000公斤\[7\]，[老爺嶺隕石是其中最重的](../Page/老爺嶺隕石.md "wikilink")，並且是一顆墬落隕石\[8\]。此外，[老婦人隕石](https://zh.wikipedia.org/wiki/老婦人隕石 "wikilink")，原本尺寸為和重，是在加州發現最大，在全[美國第二大的隕石](https://zh.wikipedia.org/wiki/美國 "wikilink")\[9\]。
+七顆IIAB隕石的重量超過1,000公斤\[7\]，[老爺嶺隕石是其中最重的](../Page/老爺嶺隕石.md "wikilink")，並且是一顆墬落隕石\[8\]。此外，[老婦人隕石](../Page/老婦人隕石.md "wikilink")，原本尺寸為和重，是在加州發現最大，在全[美國第二大的隕石](https://zh.wikipedia.org/wiki/美國 "wikilink")\[9\]。
 
 ## 參考資料
 

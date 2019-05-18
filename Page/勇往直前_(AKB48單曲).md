@@ -70,7 +70,7 @@ Giraffes演唱的《早看穿你的謊言》。此版本的封面是由選拔組
 
 <!-- end list -->
 
-  - 全國[握手會活動參加券](https://zh.wikipedia.org/wiki/握手會 "wikilink")1张（僅初回限定版附贈）
+  - 全國[握手會活動參加券](../Page/握手會.md "wikilink")1张（僅初回限定版附贈）
   - 生寫真1张（僅有通常版附贈）
 
 ### Type-B
@@ -101,9 +101,9 @@ Elephants演唱的《秘密日記》。此版本的封面是由選拔組中的[�
 2.  《勇往直前》舞蹈版MV
 3.  《比昨天更喜欢》MV
 4.  《秘密日记》MV
-5.  特典影片：《[平田梨奈的](https://zh.wikipedia.org/wiki/平田梨奈 "wikilink")[伦敦报道](../Page/伦敦.md "wikilink")》（）
+5.  特典影片：《[平田梨奈的](../Page/平田梨奈.md "wikilink")[伦敦报道](../Page/伦敦.md "wikilink")》（）
       - 在美國長大、以[英語為母語的平田獲得製作團隊的推薦](https://zh.wikipedia.org/wiki/英語 "wikilink")，接下擔任[NHK音樂節目](https://zh.wikipedia.org/wiki/NHK "wikilink")《[Music
-        Japan](../Page/Music_Japan.md "wikilink")》特派員獨自前往英國倫敦採訪五人男子偶像團體[1世代](../Page/1世代.md "wikilink")（One
+        Japan](https://zh.wikipedia.org/wiki/Music_Japan "wikilink")》特派員獨自前往英國倫敦採訪五人男子偶像團體[1世代](../Page/1世代.md "wikilink")（One
         Direction）的任務。此影片紀錄了平田從臨時接到任務的委託、出發前的準備、到實際抵達倫敦後的見聞與訪問1世代前後的花絮，並由平田本人擔任[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")。
 
 <!-- end list -->
@@ -228,7 +228,7 @@ Smiling Lions的詳細成員表列如下：
   - Team B：[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")
   - Team
     4：[冈田奈奈](https://zh.wikipedia.org/wiki/冈田奈奈_\(AKB48\) "wikilink")、[西野未姫](https://zh.wikipedia.org/wiki/西野未姫 "wikilink")
-  - 研究生：[大和田南那](https://zh.wikipedia.org/wiki/大和田南那 "wikilink")
+  - 研究生：[大和田南那](../Page/大和田南那.md "wikilink")
   - SKE48 Team S：[木崎由里亞](../Page/木崎由里亞.md "wikilink")（）
   - SKE48 Team E：[木本花音](../Page/木本花音.md "wikilink")
   - SKE48 研究生：[北川绫巴](https://zh.wikipedia.org/wiki/北川绫巴 "wikilink")
@@ -237,7 +237,7 @@ Smiling Lions的詳細成員表列如下：
     M：[矢仓枫子](https://zh.wikipedia.org/wiki/矢仓枫子 "wikilink")（兼任AKB48
     Team A成员）
   - NMB48 Team BII：[薮下柊](../Page/薮下柊.md "wikilink")
-  - NMB48 研究生：[澀谷凪咲](https://zh.wikipedia.org/wiki/澀谷凪咲 "wikilink")
+  - NMB48 研究生：[澀谷凪咲](../Page/澀谷凪咲.md "wikilink")
   - HKT48 Team H :
     [宫脇咲良](https://zh.wikipedia.org/wiki/宫脇咲良 "wikilink")、[儿玉遥](https://zh.wikipedia.org/wiki/儿玉遥 "wikilink")（兼任AKB48
     Team A成员）
@@ -287,7 +287,7 @@ Baby Elephants的詳細成員列表如下：
     N成员）、[大森美优](https://zh.wikipedia.org/wiki/大森美优 "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")
   - Team
     4：[相笠萌](https://zh.wikipedia.org/wiki/相笠萌 "wikilink")、[篠崎彩奈](https://zh.wikipedia.org/wiki/篠崎彩奈 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")
-  - 研究生：[向井地美音](https://zh.wikipedia.org/wiki/向井地美音 "wikilink")
+  - 研究生：[向井地美音](../Page/向井地美音.md "wikilink")
   - SKE48 Taem
     KII：[山田瑞穗](https://zh.wikipedia.org/wiki/山田瑞穗 "wikilink")（）
   - SKE48 Team E：[东李苑](https://zh.wikipedia.org/wiki/东李苑 "wikilink")
@@ -325,7 +325,7 @@ Talking Chimpanzees的詳細成員表列如下：
   - HKT48 Team
     H：[中西智代梨](../Page/中西智代梨.md "wikilink")、[村重杏奈](../Page/村重杏奈.md "wikilink")
   - HKT48
-    研究生：[冈田栞奈](https://zh.wikipedia.org/wiki/冈田栞奈 "wikilink")、[谷真理佳](https://zh.wikipedia.org/wiki/谷真理佳 "wikilink")
+    研究生：[冈田栞奈](https://zh.wikipedia.org/wiki/冈田栞奈 "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")
 
 如果排除全員合唱的大合唱曲不計，在名單中除了HKT48的中西智代梨之外，其他成員都有參與過AKB48單曲或B面曲的經驗。
 
@@ -340,8 +340,8 @@ Talking Chimpanzees的詳細成員表列如下：
   - Team
     B：[石田晴香](../Page/石田晴香.md "wikilink")、[片山阳加](https://zh.wikipedia.org/wiki/片山阳加 "wikilink")、[小嶋菜月](../Page/小嶋菜月.md "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[名取稚菜](https://zh.wikipedia.org/wiki/名取稚菜 "wikilink")、[野中美郷](https://zh.wikipedia.org/wiki/野中美郷 "wikilink")
   - Team
-    4：[内山奈月](https://zh.wikipedia.org/wiki/内山奈月 "wikilink")、[梅田绫乃](https://zh.wikipedia.org/wiki/梅田绫乃 "wikilink")、[冈田彩花](https://zh.wikipedia.org/wiki/冈田彩花 "wikilink")、[北泽早纪](https://zh.wikipedia.org/wiki/北泽早纪 "wikilink")、[橋本耀](https://zh.wikipedia.org/wiki/橋本耀 "wikilink")
-  - 研究生：[市川爱美](https://zh.wikipedia.org/wiki/市川爱美 "wikilink")、[大川莉央](https://zh.wikipedia.org/wiki/大川莉央 "wikilink")、[込山榛香](https://zh.wikipedia.org/wiki/込山榛香 "wikilink")、[佐藤妃星](https://zh.wikipedia.org/wiki/佐藤妃星 "wikilink")、[达家真姫宝](https://zh.wikipedia.org/wiki/达家真姫宝 "wikilink")、[土保瑞希](https://zh.wikipedia.org/wiki/土保瑞希 "wikilink")、[福冈圣菜](https://zh.wikipedia.org/wiki/福冈圣菜 "wikilink")、[汤本亞美](https://zh.wikipedia.org/wiki/汤本亞美 "wikilink")
+    4：[内山奈月](https://zh.wikipedia.org/wiki/内山奈月 "wikilink")、[梅田绫乃](https://zh.wikipedia.org/wiki/梅田绫乃 "wikilink")、[冈田彩花](https://zh.wikipedia.org/wiki/冈田彩花 "wikilink")、[北泽早纪](https://zh.wikipedia.org/wiki/北泽早纪 "wikilink")、[橋本耀](../Page/橋本耀.md "wikilink")
+  - 研究生：[市川爱美](https://zh.wikipedia.org/wiki/市川爱美 "wikilink")、[大川莉央](https://zh.wikipedia.org/wiki/大川莉央 "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[佐藤妃星](https://zh.wikipedia.org/wiki/佐藤妃星 "wikilink")、[达家真姫宝](https://zh.wikipedia.org/wiki/达家真姫宝 "wikilink")、[土保瑞希](../Page/土保瑞希.md "wikilink")、[福冈圣菜](https://zh.wikipedia.org/wiki/福冈圣菜 "wikilink")、[汤本亞美](https://zh.wikipedia.org/wiki/汤本亞美 "wikilink")
   - SNH48 Team
     SII：[铃木瑪莉亞](https://zh.wikipedia.org/wiki/铃木瑪莉亞 "wikilink")（、兼任AKB48
     Team A成员）

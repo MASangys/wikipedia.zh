@@ -4,8 +4,7 @@ Music Japan發售](https://zh.wikipedia.org/wiki/EMI音乐_\(日本\) "wikilink"
 
 ## 概要
 
-  - 與上一張專輯「[Treasure
-    Box](https://zh.wikipedia.org/wiki/Treasure_Box "wikilink")」相距約9个月。
+  - 與上一張專輯「[Treasure Box](../Page/Treasure_Box.md "wikilink")」相距約9个月。
   - 收錄第8張單曲「NUMBER NINE (Japanese ver.) / 記憶
     ～君がくれた道標(みちしるべ)～」至第9張單曲「Lead
     the way / LA’booN」，共5曲。

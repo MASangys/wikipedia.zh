@@ -12,12 +12,12 @@ BABYMETAL成軍短短數年間持續打破多項紀錄，躋身為國際知名�
 ### 櫻花學院「重音部」發跡
 
 2010年11月，女性偶像團體[櫻花學院的三名重音部成員以](../Page/櫻花學院.md "wikilink")「[偶像與重金屬之融合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")」的主題結成衍生團體「BABYMETAL」\[19\]\[20\]，並以世界征服為目標\[21\]。在結成前的一個月，唱片公司[TOY'S
-FACTORY就已經在](../Page/TOY'S_FACTORY.md "wikilink")[YouTube網站上搶先發佈第一個作品](../Page/YouTube.md "wikilink")〈[心跳☆早晨](https://zh.wikipedia.org/wiki/心跳☆早晨 "wikilink")〉的音樂影片，吸引大量日本國外的網友瀏覽，留言數逾千，統計顯示觀看的人士多來自[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")、[瑞典](../Page/瑞典.md "wikilink")、[芬蘭等](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[北歐國家和](../Page/北歐.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，播放次數在兩個月內達38萬次\[22\]。2011年8月27日、28日，同樣作為櫻花學院的重音部BABYMETAL成員參加“
+FACTORY就已經在](../Page/TOY'S_FACTORY.md "wikilink")[YouTube網站上搶先發佈第一個作品](../Page/YouTube.md "wikilink")〈[心跳☆早晨](../Page/心跳☆早晨.md "wikilink")〉的音樂影片，吸引大量日本國外的網友瀏覽，留言數逾千，統計顯示觀看的人士多來自[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")、[瑞典](../Page/瑞典.md "wikilink")、[芬蘭等](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[北歐國家和](../Page/北歐.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，播放次數在兩個月內達38萬次\[22\]。2011年8月27日、28日，同樣作為櫻花學院的重音部BABYMETAL成員參加“
 2011”的演出\[23\]。10月23日，參與“櫻花學院祭☆2011”的演出。10月24日，正式發行首支單曲〈心跳☆早晨〉，在當期的[日本告示牌獨立專輯及單曲榜中排行第](https://zh.wikipedia.org/wiki/日本告示牌 "wikilink")80名\[24\]。
 
 2012年3月7日，與[另類金屬](https://zh.wikipedia.org/wiki/另類金屬 "wikilink")／[金屬核樂團Kiba](https://zh.wikipedia.org/wiki/金屬核 "wikilink")
 of Akiba合作發行單曲《[BABYMETAL × Kiba of
-Akiba](https://zh.wikipedia.org/wiki/BABYMETAL_×_Kiba_of_Akiba "wikilink")》\[25\]，在日本告示牌獨立專輯及單曲榜中排行11名\[26\]、[Oricon公信榜周榜中排行](../Page/Oricon公信榜.md "wikilink")46名\[27\]。7月，發行單曲〈[HeadBanger\!\!](https://zh.wikipedia.org/wiki/HeadBanger!! "wikilink")〉，在日本告示牌獨立專輯及單曲榜中排行衝上第3名\[28\]。8月，在日本大型音樂節「[SUMMER
+Akiba](../Page/BABYMETAL_×_Kiba_of_Akiba.md "wikilink")》\[25\]，在日本告示牌獨立專輯及單曲榜中排行11名\[26\]、[Oricon公信榜周榜中排行](../Page/Oricon公信榜.md "wikilink")46名\[27\]。7月，發行單曲〈[HeadBanger\!\!](../Page/HeadBanger!!.md "wikilink")〉，在日本告示牌獨立專輯及單曲榜中排行衝上第3名\[28\]。8月，在日本大型音樂節「[SUMMER
 SONIC](../Page/SUMMER_SONIC.md "wikilink") 2012」成為該活動史上最年輕的樂團\[29\]。
 
 ### 金屬抗爭第一章
@@ -26,7 +26,7 @@ SONIC](../Page/SUMMER_SONIC.md "wikilink") 2012」成為該活動史上最年輕
 O-EAST舉行首次專場公演](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")“I、D、Z～LEGEND『I』”，也是現場演奏樂團“神樂隊”參加的第一場公演\[30\]。公演中的影片宣布，樂團以金屬之神——狐神的指示、用金屬樂反抗主流偶像音樂的背景，開啟了「金屬抗爭第一章」\[31\]。11月到[新加坡的](../Page/新加坡.md "wikilink")「
 2012」出演，是樂團首次海外公演\[32\]。
 
-2013年1月9日，發行單曲〈[欺凌、絕對、不行](https://zh.wikipedia.org/wiki/欺凌、絕對、不行 "wikilink")〉\[33\]，獲得公信榜週榜第6名\[34\]、日本[淘兒唱片全國單曲榜第](../Page/淘兒唱片.md "wikilink")2名\[35\]。《[滾石雜誌](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")》日文版評論「破壞性的音樂與可愛的和聲，在嚴肅和幽默之間取得非常絕妙的平衡」\[36\]。然而，主唱SU-METAL在3月就必須從櫻花學院畢業，因此曾經傳出解散的傳聞，不過樂團隨即在同年2月、SU-METAL畢業前的公演上宣布將不會解散，她也會繼續留任主唱\[37\]。SU-METAL畢業後，BABYMETAL隨之脫離櫻花學院正式獨立\[38\]。5月，展開成軍以來第一次國內巡迴「-五月革命-」，四場公演共計7000名觀眾\[39\]\[40\]。6月，發行融入[江戶時代民謠](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")〈[櫻花](../Page/樱花_\(民谣\).md "wikilink")〉的單曲〈[女狐](https://zh.wikipedia.org/wiki/女狐 "wikilink")〉，名列公信週榜第7名\[41\]，此曲錄製了36種不同版本後才定案發表\[42\]。7月起開始了2013國內音樂節之旅，分別與[JAM
+2013年1月9日，發行單曲〈[欺凌、絕對、不行](../Page/欺凌、絕對、不行.md "wikilink")〉\[33\]，獲得公信榜週榜第6名\[34\]、日本[淘兒唱片全國單曲榜第](../Page/淘兒唱片.md "wikilink")2名\[35\]。《[滾石雜誌](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")》日文版評論「破壞性的音樂與可愛的和聲，在嚴肅和幽默之間取得非常絕妙的平衡」\[36\]。然而，主唱SU-METAL在3月就必須從櫻花學院畢業，因此曾經傳出解散的傳聞，不過樂團隨即在同年2月、SU-METAL畢業前的公演上宣布將不會解散，她也會繼續留任主唱\[37\]。SU-METAL畢業後，BABYMETAL隨之脫離櫻花學院正式獨立\[38\]。5月，展開成軍以來第一次國內巡迴「-五月革命-」，四場公演共計7000名觀眾\[39\]\[40\]。6月，發行融入[江戶時代民謠](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")〈[櫻花](../Page/樱花_\(民谣\).md "wikilink")〉的單曲〈[女狐](../Page/女狐.md "wikilink")〉，名列公信週榜第7名\[41\]，此曲錄製了36種不同版本後才定案發表\[42\]。7月起開始了2013國內音樂節之旅，分別與[JAM
 Project合作參加第二屆Rock](../Page/JAM_Project.md "wikilink") Beats Cancer
 FES音樂節、Summer Camp 2013音樂節、音樂節、[ROCK IN
 JAPAN音樂節](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")。
@@ -35,11 +35,11 @@ JAPAN音樂節](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")
 2013」音樂節，不但吸引美國擁有三十多年歷史的老牌金屬樂團、「鞭擊金屬四巨頭」之一的[金屬製品越洋觀賞](https://zh.wikipedia.org/wiki/金屬製品 "wikilink")\[43\]，其吉他手[柯克·哈米特更將後台合照放上網路](../Page/柯克·哈米特.md "wikilink")，引發了海外樂迷廣泛討論，此舉頗具影響力。9月，在參加了之後，10月又登上亞洲規模最大的年度重金屬音樂節「
 13」\[44\]，同時也是該音樂節史上最年輕的出演者\[45\]，其特殊的音樂風格逐漸引起全球重金屬樂迷的注意\[46\]。11月20日，首次發行的影像作品《[LIVE
 〜LEGEND I、D、Z
-APOCALYPSE〜](https://zh.wikipedia.org/wiki/LIVE_〜LEGEND_I、D、Z_APOCALYPSE〜 "wikilink")》獲得公信榜藍光綜合排行榜第7名\[47\]。12月28日，樂團回到海外初演地新加坡進行專場公演\[48\]。2014年2月2日，受[林昶佐邀請](../Page/林昶佐.md "wikilink")，在[台灣與](https://zh.wikipedia.org/wiki/台灣 "wikilink")[閃靈樂團同台共演](https://zh.wikipedia.org/wiki/閃靈樂團 "wikilink")\[49\]。7日，首次參加著名音樂節目[MUSIC
+APOCALYPSE〜](../Page/LIVE_〜LEGEND_I、D、Z_APOCALYPSE〜.md "wikilink")》獲得公信榜藍光綜合排行榜第7名\[47\]。12月28日，樂團回到海外初演地新加坡進行專場公演\[48\]。2014年2月2日，受[林昶佐邀請](../Page/林昶佐.md "wikilink")，在[台灣與](https://zh.wikipedia.org/wiki/台灣 "wikilink")[閃靈樂團同台共演](https://zh.wikipedia.org/wiki/閃靈樂團 "wikilink")\[49\]。7日，首次參加著名音樂節目[MUSIC
 STATION錄影](../Page/MUSIC_STATION.md "wikilink")。
 
-2月26日，發行首張原創同名專輯《*[BABYMETAL](https://zh.wikipedia.org/wiki/BABYMETAL_\(專輯\) "wikilink")*》\[50\]，登上公信榜第4名\[51\]、美國告示牌排行榜全球專輯榜四度位居第1名，成為53年來首見、進入熱門歌曲前40名的日本藝人\[52\]\[53\]，並在七個國家的[iTunes
-Store搖滾音樂專輯下載榜排行前十名](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")\[54\]。而BABYMETAL官方在YouTube網站上發布的該專輯收錄曲〈[給我巧克力\!\!](https://zh.wikipedia.org/wiki/給我巧克力!! "wikilink")〉演唱會影片，上傳第9天即達成100萬次點擊，至2016年底的點播數是6300萬次、留言數達7萬多\[55\]。美國報紙《[今日美國](../Page/今日美國.md "wikilink")》寫道「她們稱之為可愛金屬：一首混合死亡金屬、[電子舞曲和甜美J](../Page/電子舞曲.md "wikilink")-pop旋律的奇怪歌曲\[56\]」，美國將它列為有史以來九個最具實驗性的女團歌曲之一：「第一次聽到會覺得充滿了違和感，但你會發現自己沒多久就跟著哼起來了\[57\]」。這首擁有強烈BABYMETAL風格的曲子，成為樂團至今在國際上最成功的作品。
+2月26日，發行首張原創同名專輯《*[BABYMETAL](../Page/BABYMETAL_\(專輯\).md "wikilink")*》\[50\]，登上公信榜第4名\[51\]、美國告示牌排行榜全球專輯榜四度位居第1名，成為53年來首見、進入熱門歌曲前40名的日本藝人\[52\]\[53\]，並在七個國家的[iTunes
+Store搖滾音樂專輯下載榜排行前十名](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")\[54\]。而BABYMETAL官方在YouTube網站上發布的該專輯收錄曲〈[給我巧克力\!\!](../Page/給我巧克力!!.md "wikilink")〉演唱會影片，上傳第9天即達成100萬次點擊，至2016年底的點播數是6300萬次、留言數達7萬多\[55\]。美國報紙《[今日美國](../Page/今日美國.md "wikilink")》寫道「她們稱之為可愛金屬：一首混合死亡金屬、[電子舞曲和甜美J](../Page/電子舞曲.md "wikilink")-pop旋律的奇怪歌曲\[56\]」，美國將它列為有史以來九個最具實驗性的女團歌曲之一：「第一次聽到會覺得充滿了違和感，但你會發現自己沒多久就跟著哼起來了\[57\]」。這首擁有強烈BABYMETAL風格的曲子，成為樂團至今在國際上最成功的作品。
 
 3月，在[日本武道館舉行連續兩天專場公演](../Page/日本武道館.md "wikilink")\[58\]，共計吸引二萬人入場，以平均14.7歲的年齡更新女藝人出演武道館最年少的紀錄\[59\]。首日公演雖發生跌落2米舞台及跌傷事故，成員仍敬業繼續完成演出\[60\]。第二日公演結束之際，透過螢幕影片宣布樂團將開始海外巡迴活動\[61\]。4月3日，美國YouTube娛樂頻道「Fine
 Brothers
@@ -68,7 +68,7 @@ Storm》評選為「最大驚喜獎」與「最佳首張專輯第11名」\[90\]�
 
 5月，在墨西哥、加拿大、美國、德國、法國、瑞士、義大利、奧地利、英國、日本等地開始第二次世界巡演。同月，在日本國內發行的演唱會藍光光碟《[LIVE
 IN LONDON -BABYMETAL WORLD TOUR
-2014-](https://zh.wikipedia.org/wiki/LIVE_IN_LONDON_-BABYMETAL_WORLD_TOUR_2014- "wikilink")》獲得公信榜藍光綜合排行榜第1名，是歷史上首次十歲年齡段歌手連續兩部藍光作品於公信榜獲得第1名\[93\]。6月11日，在英國權威搖滾雜誌《Kerrang\!》主辦的「
+2014-](../Page/LIVE_IN_LONDON_-BABYMETAL_WORLD_TOUR_2014-.md "wikilink")》獲得公信榜藍光綜合排行榜第1名，是歷史上首次十歲年齡段歌手連續兩部藍光作品於公信榜獲得第1名\[93\]。6月11日，在英國權威搖滾雜誌《Kerrang\!》主辦的「
 2015」中獲得獨立精神獎，是日本樂團首次獲此殊榮\[94\]。6月16日，出席《Metal
 Hammer》主辦的“”獲得突破獎\[95\]，隨後在頒獎儀式上與英國知名的[速度金屬樂團](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")[龍族悍將同台共演](../Page/龍族悍將.md "wikilink")，由龍族悍將成員代替「神樂隊」的位置演奏\[96\]。6月下旬回到日本幕張展覽館舉辦專場公演\[97\]。7月，登上《Metal
 Hammer》雜誌封面，編輯群特意請來老牌傳奇樂團[鐵娘子的官方攝影師](../Page/鐵娘子樂團.md "wikilink")操刀拍攝\[98\]。經過金屬製品、《Metal
@@ -84,21 +84,21 @@ Station Super LIVE」演出。《》將她們列入“創建次世代的100
 
 [Babymetal_performing_at_Wembley_Arena,_London_(26201667231).jpg](https://zh.wikipedia.org/wiki/File:Babymetal_performing_at_Wembley_Arena,_London_\(26201667231\).jpg "fig:Babymetal_performing_at_Wembley_Arena,_London_(26201667231).jpg")演出，2016年4月2日\]\]
 2016年4月1日第二張專輯《*[METAL
-RESISTANCE](https://zh.wikipedia.org/wiki/METAL_RESISTANCE "wikilink")*》全球同步發行\[115\]，挾著歐美爆紅的氣勢，發行不到一周內即破10萬張銷售量，日本唱片協會隨即頒授金唱片認證獎項\[116\]。專輯登上日本公信榜第2名\[117\]、美國告示牌全球專輯榜第1名\[118\]。另外在[英國專輯排行榜登上第](../Page/英國專輯排行榜.md "wikilink")15名，更新了41年來首見日本人的最高位置\[119\]。該專輯在[澳大利亞唱片業協會榜衝上第](https://zh.wikipedia.org/wiki/澳大利亞唱片業協會榜 "wikilink")7名，也更新了日本人的紀錄\[120\]。在《Loudwire》舉辦的4月份樂迷最期待專輯票選中，該專輯在45個樂團評選中以超過6成的得票率獲選\[121\]。專輯發行次日，在英國、美國、瑞士、奧地利、荷蘭、德國、法國、日本等地展開第三次世界巡演\[122\]。巡迴首站在倫敦的音樂表演聖地[溫布利體育館登場](../Page/溫布利體育館.md "wikilink")，為日本第一組專場演出的音樂人\[123\]，約12000人滿座觀賞\[124\]，英國《[衛報](../Page/衛報.md "wikilink")》給予該場公演5顆星的滿分評價，並稱之為「BABYMETAL現象」\[125\]。同時樂團還打破溫布利周邊商品單日銷售額的最高紀錄\[126\]。此外，4月5日在美國[哥倫比亞廣播公司的脫口秀節目](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")[斯蒂芬•科爾伯特晚間秀現場演唱](https://zh.wikipedia.org/wiki/斯蒂芬·科尔伯特晚间秀 "wikilink")，成為第一組上此節目演唱的日本團體\[127\]。4月底與[任天堂合作](../Page/任天堂.md "wikilink")，在[超級瑪利歐製作大師中加入三名成員親自配音的遊戲角色](https://zh.wikipedia.org/wiki/超級瑪利歐製作大師 "wikilink")\[128\]。
+RESISTANCE](../Page/METAL_RESISTANCE.md "wikilink")*》全球同步發行\[115\]，挾著歐美爆紅的氣勢，發行不到一周內即破10萬張銷售量，日本唱片協會隨即頒授金唱片認證獎項\[116\]。專輯登上日本公信榜第2名\[117\]、美國告示牌全球專輯榜第1名\[118\]。另外在[英國專輯排行榜登上第](../Page/英國專輯排行榜.md "wikilink")15名，更新了41年來首見日本人的最高位置\[119\]。該專輯在[澳大利亞唱片業協會榜衝上第](https://zh.wikipedia.org/wiki/澳大利亞唱片業協會榜 "wikilink")7名，也更新了日本人的紀錄\[120\]。在《Loudwire》舉辦的4月份樂迷最期待專輯票選中，該專輯在45個樂團評選中以超過6成的得票率獲選\[121\]。專輯發行次日，在英國、美國、瑞士、奧地利、荷蘭、德國、法國、日本等地展開第三次世界巡演\[122\]。巡迴首站在倫敦的音樂表演聖地[溫布利體育館登場](../Page/溫布利體育館.md "wikilink")，為日本第一組專場演出的音樂人\[123\]，約12000人滿座觀賞\[124\]，英國《[衛報](../Page/衛報.md "wikilink")》給予該場公演5顆星的滿分評價，並稱之為「BABYMETAL現象」\[125\]。同時樂團還打破溫布利周邊商品單日銷售額的最高紀錄\[126\]。此外，4月5日在美國[哥倫比亞廣播公司的脫口秀節目](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")[斯蒂芬•科爾伯特晚間秀現場演唱](../Page/斯蒂芬·科尔伯特晚间秀.md "wikilink")，成為第一組上此節目演唱的日本團體\[127\]。4月底與[任天堂合作](../Page/任天堂.md "wikilink")，在[超級瑪利歐製作大師中加入三名成員親自配音的遊戲角色](https://zh.wikipedia.org/wiki/超級瑪利歐製作大師 "wikilink")\[128\]。
 [BABYMETAL,_O2_Arena,_London_(31443470776).jpg](https://zh.wikipedia.org/wiki/File:BABYMETAL,_O2_Arena,_London_\(31443470776\).jpg "fig:BABYMETAL,_O2_Arena,_London_(31443470776).jpg")
 5月，[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）明星[Triple
-H宣布](https://zh.wikipedia.org/wiki/Triple_H "wikilink")，樂團的歌曲〈[空手道](https://zh.wikipedia.org/wiki/空手道_\(歌曲\) "wikilink")〉將作為官方主題曲之一\[129\]\[130\]。6月，獲得「Kerrang\!音樂獎
+H宣布](https://zh.wikipedia.org/wiki/Triple_H "wikilink")，樂團的歌曲〈[空手道](../Page/空手道_\(歌曲\).md "wikilink")〉將作為官方主題曲之一\[129\]\[130\]。6月，獲得「Kerrang\!音樂獎
 2016」頒發最佳現場樂團獎\[131\]。接著在英國與法國兩地舉辦的「
 2016」音樂節，樂團第一次受邀便直接登上主舞台演出\[132\]。22日，《*METAL
 RESISTANCE*》入選《Metal
 Hammer》雜誌的2016年至今20大專輯\[133\]。月底，主唱SU-METAL入選《Kerrang\!》雜誌評選為當今世界50大搖滾明星的第13名\[134\]。7月，《*BABYMETAL*》在《Metal
 Hammer》雜誌評選的21世紀百大專輯榜中位居第92名\[135\]、讀者票選則為第1名\[136\]。18日，在「
-2016」與[猶太祭司主唱](../Page/猶太祭司.md "wikilink")「金屬之神」[羅柏·哈爾福德同台共演](https://zh.wikipedia.org/wiki/羅伯·哈爾福德 "wikilink")\[137\]\[138\]。在完成歐美行程後的巡演尾聲，樂團回到日本參加了四大音樂節『FUJI
+2016」與[猶太祭司主唱](../Page/猶太祭司.md "wikilink")「金屬之神」[羅柏·哈爾福德同台共演](../Page/羅伯·哈爾福德.md "wikilink")\[137\]\[138\]。在完成歐美行程後的巡演尾聲，樂團回到日本參加了四大音樂節『FUJI
 ROCK』、『SUMMER SONIC』、『RISING SUN ROCK』及『ROCK IN
 JAPAN』\[139\]。繼女神卡卡之後，美國搖滾樂團[嗆辣紅椒邀請了BABYMETAL](../Page/嗆辣紅椒.md "wikilink")，擔任他們年底在英國連續八場巡演的特別嘉賓\[140\]。
 
 9月19、20日，在日本[東京巨蛋舉行兩日公演](../Page/東京巨蛋.md "wikilink")，動員11萬人次參加，同時也是繼[X
-JAPAN後第二個在東京巨蛋單獨公演的日籍金屬樂團](../Page/X_JAPAN.md "wikilink")\[141\]。11月，美國搖滾樂團[槍與玫瑰公布](https://zh.wikipedia.org/wiki/槍與玫瑰 "wikilink")2017年1月在日本的四場巡演將由BABYMETAL擔任主要嘉賓\[142\]。11月23日，《LIVE
+JAPAN後第二個在東京巨蛋單獨公演的日籍金屬樂團](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")\[141\]。11月，美國搖滾樂團[槍與玫瑰公布](https://zh.wikipedia.org/wiki/槍與玫瑰 "wikilink")2017年1月在日本的四場巡演將由BABYMETAL擔任主要嘉賓\[142\]。11月23日，《LIVE
 AT
 WEMBLEY》藍光及DVD版銷量登上日本[亞馬遜與公信榜第](../Page/亞馬遜公司.md "wikilink")1名。12月，樂團第二張專輯《*METAL
 RESISTANCE*》的年終成績出爐，接連登上日本淘兒唱片2016年最暢銷總榜第6名\[143\]、日本亞馬遜音樂類年終銷量排行榜第13名\[144\]、日本[HMV年度最佳銷量榜第](../Page/HMV.md "wikilink")19名\[145\]、美國金屬樂媒網站「MetalSucks」票選為2016年度最佳金屬專輯第1名\[146\]、美國告示牌全球專輯榜第3名、硬搖滾專輯榜第39名，樂團也登上告示牌的全球專輯藝人榜第4名\[147\]。12月8日，官方公布將由BABYMETAL擔任2017年[金屬製品在](https://zh.wikipedia.org/wiki/金屬製品 "wikilink")[韓國的公演嘉賓](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[148\]。12月9日，《LIVE
@@ -198,7 +198,7 @@ Mizuno Yui</small></p></td>
 
   - [大村孝佳](../Page/大村孝佳.md "wikilink")（搖滾樂團[C4](https://zh.wikipedia.org/wiki/C4 "wikilink")、重金屬樂團、音樂團體、搖滾樂團成員、日本超速吉他科講師）：[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")
 
-  - [Leda](https://zh.wikipedia.org/wiki/Leda "wikilink")（前視覺系前衛金屬樂團、前重金屬樂團[Galneryus](../Page/Galneryus.md "wikilink")、前視覺系金屬樂團成員）：吉他手
+  - [Leda](../Page/Leda.md "wikilink")（前視覺系前衛金屬樂團、前重金屬樂團[Galneryus](../Page/Galneryus.md "wikilink")、前視覺系金屬樂團成員）：吉他手
 
   - （搖滾樂團成員）：吉他手
 
@@ -234,7 +234,7 @@ Mizuno Yui</small></p></td>
 
   - 野村康貴：吉他手
 
-  - [藤岡幹大](https://zh.wikipedia.org/wiki/藤岡幹大 "wikilink")<sup>歿</sup>（日本MI音樂學校超速吉他科講師、吉他教材作家）：吉他手
+  - [藤岡幹大](../Page/藤岡幹大.md "wikilink")<sup>歿</sup>（日本MI音樂學校超速吉他科講師、吉他教材作家）：吉他手
 
 ## 音樂作品
 
@@ -242,29 +242,29 @@ BABYMETAL自建團以來，至2016年中，已經共發行8張單曲、2張專�
 
 
   - <small>**單曲**</small>
-      - <small>[心跳☆早晨](https://zh.wikipedia.org/wiki/心跳☆早晨 "wikilink")</small>
-      - <small>[HeadBanger\!\!](https://zh.wikipedia.org/wiki/HeadBanger!! "wikilink")</small>
-      - <small>[欺凌、絕對、不行](https://zh.wikipedia.org/wiki/欺凌、絕對、不行 "wikilink")</small>
-      - <small>[女狐](https://zh.wikipedia.org/wiki/女狐 "wikilink")</small>
+      - <small>[心跳☆早晨](../Page/心跳☆早晨.md "wikilink")</small>
+      - <small>[HeadBanger\!\!](../Page/HeadBanger!!.md "wikilink")</small>
+      - <small>[欺凌、絕對、不行](../Page/欺凌、絕對、不行.md "wikilink")</small>
+      - <small>[女狐](../Page/女狐.md "wikilink")</small>
       - <small>[Road of
-        Resistance](https://zh.wikipedia.org/wiki/Road_of_Resistance "wikilink")</small>
-      - <small>[給我巧克力\!\!](https://zh.wikipedia.org/wiki/給我巧克力!! "wikilink")</small>
-      - <small>[空手道](https://zh.wikipedia.org/wiki/空手道_\(歌曲\) "wikilink")</small>
+        Resistance](../Page/Road_of_Resistance.md "wikilink")</small>
+      - <small>[給我巧克力\!\!](../Page/給我巧克力!!.md "wikilink")</small>
+      - <small>[空手道](../Page/空手道_\(歌曲\).md "wikilink")</small>
   - <small>**合作單曲**</small>
       - <small>[BABYMETAL × Kiba of
-        Akiba](https://zh.wikipedia.org/wiki/BABYMETAL_×_Kiba_of_Akiba "wikilink")</small>
+        Akiba](../Page/BABYMETAL_×_Kiba_of_Akiba.md "wikilink")</small>
 
 <!-- end list -->
 
   - <small>**錄音室專輯**</small>
-      - <small>[BABYMETAL](https://zh.wikipedia.org/wiki/BABYMETAL_\(專輯\) "wikilink")</small>
+      - <small>[BABYMETAL](../Page/BABYMETAL_\(專輯\).md "wikilink")</small>
       - <small>[METAL
-        RESISTANCE](https://zh.wikipedia.org/wiki/METAL_RESISTANCE "wikilink")</small>
+        RESISTANCE](../Page/METAL_RESISTANCE.md "wikilink")</small>
   - <small>**現場專輯**</small>
       - <small>[LIVE AT BUDOKAN 〜RED
-        NIGHT〜](https://zh.wikipedia.org/wiki/LIVE_AT_BUDOKAN_〜RED_NIGHT〜 "wikilink")</small>
+        NIGHT〜](../Page/LIVE_AT_BUDOKAN_〜RED_NIGHT〜.md "wikilink")</small>
       - <small>[LIVE AT BUDOKAN 〜BLACK
-        NIGHT〜](https://zh.wikipedia.org/wiki/LIVE_AT_BUDOKAN_〜BLACK_NIGHT〜 "wikilink")</small>
+        NIGHT〜](../Page/LIVE_AT_BUDOKAN_〜BLACK_NIGHT〜.md "wikilink")</small>
       - <small>BABYMETAL LEGEND "2015" 〜新春キツネ祭り〜</small>
       - <small>LIVE AT WEMBLEY</small>
   - <small>**合作參與專輯**</small>
@@ -274,13 +274,13 @@ BABYMETAL自建團以來，至2016年中，已經共發行8張單曲、2張專�
 
   - <small>**影像作品**</small>
       - <small>[LIVE 〜LEGEND I、D、Z
-        APOCALYPSE〜](https://zh.wikipedia.org/wiki/LIVE_〜LEGEND_I、D、Z_APOCALYPSE〜 "wikilink")</small>
+        APOCALYPSE〜](../Page/LIVE_〜LEGEND_I、D、Z_APOCALYPSE〜.md "wikilink")</small>
       - <small>[LIVE〜LEGEND 1999&1997
-        APOCALYPSE](https://zh.wikipedia.org/wiki/LIVE〜LEGEND_1999&1997_APOCALYPSE "wikilink")</small>
+        APOCALYPSE](../Page/LIVE〜LEGEND_1999&1997_APOCALYPSE.md "wikilink")</small>
       - <small>[LIVE AT BUDOKAN 〜RED NIGHT & BLACK NIGHT
-        APOCALYPSE〜](https://zh.wikipedia.org/wiki/LIVE_AT_BUDOKAN_〜RED_NIGHT_&_BLACK_NIGHT_APOCALYPSE〜 "wikilink")</small>
+        APOCALYPSE〜](../Page/LIVE_AT_BUDOKAN_〜RED_NIGHT_&_BLACK_NIGHT_APOCALYPSE〜.md "wikilink")</small>
       - <small>[LIVE IN LONDON -BABYMETAL WORLD TOUR
-        2014-](https://zh.wikipedia.org/wiki/LIVE_IN_LONDON_-BABYMETAL_WORLD_TOUR_2014- "wikilink")</small>
+        2014-](../Page/LIVE_IN_LONDON_-BABYMETAL_WORLD_TOUR_2014-.md "wikilink")</small>
       - <small>BABYMETAL LEGEND "2015" 〜新春キツネ祭り〜</small>
       - <small>TRILOGY - METAL RESISTANCE EPISODE III -
         <small>APOCALYPSE</small>
@@ -315,7 +315,7 @@ BABYMETAL開啟了名為「可愛金屬」的全新音樂流派，她們解釋�
   - <small>[鞭擊金屬](https://zh.wikipedia.org/wiki/鞭擊金屬 "wikilink") 與
     [鐵克諾音樂](https://zh.wikipedia.org/wiki/鐵克諾音樂 "wikilink")
     —〈給我巧克力\!\!〉</small>
-  - <small>[灣區鞭擊金屬](https://zh.wikipedia.org/wiki/灣區鞭擊金屬 "wikilink")
+  - <small>[灣區鞭擊金屬](../Page/灣區鞭擊金屬.md "wikilink")
     —〈HeadBanger\!\!〉</small>
   - <small>[死亡金屬](https://zh.wikipedia.org/wiki/死亡金屬 "wikilink") —
     〈GJ！〉</small>
@@ -362,10 +362,10 @@ Band）首次出現後，其位置也逐漸由「神樂隊」完全代替至今�
 演唱會除了三人的表演之外，也會出現SU-METAL的獨唱、神樂隊各樂手的獨奏秀，以及YUIMETAL與MOAMETAL的雙人組合「BLACK
 BABYMETAL」，該組合的表演則是走可愛路線。同時台下觀眾的組成相當多樣化，除了有重金屬樂迷、搖滾樂迷、J-POP樂迷、穿著哥德式服裝和打扮的[Coser](https://zh.wikipedia.org/wiki/Coser "wikilink")
 、偶像迷、動漫迷，也有為數不少的中高年歌迷、上班族等等\[176\]\[177\]\[178\]，將各種完全不同文化的愛好者齊聚一堂，並一起進行死牆（Wall
-Of Death）、[衝撞](https://zh.wikipedia.org/wiki/衝撞 "wikilink")（[Mosh
+Of Death）、[衝撞](../Page/衝撞.md "wikilink")（[Mosh
 Pit](https://zh.wikipedia.org/wiki/Mosh_Pit "wikilink")）、繞圈衝撞（Circle
 Pit）等重金屬文化中特有的應援動作\[179\]\[180\]。樂團的代表色是紅色和黑色\[181\]，三名成員的服裝為歌德式／龐克風格，以[聖女貞德為靈感](../Page/聖女貞德.md "wikilink")、加上維多利亞式襞襟衣領而製作的戰甲上衣，搭配蓬蓬裙和黑長襪，代表金屬少女的抗爭\[182\]\[183\]\[184\]。樂團的象徵物則是[狐神](https://zh.wikipedia.org/wiki/狐神 "wikilink")、狐面具、由[搖滾手勢變化的狐手勢](https://zh.wikipedia.org/wiki/搖滾手勢 "wikilink")（Kitsune）、以及護頸（此為致敬[X
-JAPAN的團長](../Page/X_JAPAN.md "wikilink")[YOSHIKI](../Page/YOSHIKI.md "wikilink")）\[185\]\[186\]。
+JAPAN的團長](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[YOSHIKI](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")）\[185\]\[186\]。
 
 ### 官方標誌
 
@@ -395,46 +395,46 @@ BABYMETAL有強大的幕後團隊支援，其幕後核心是集所有創作、�
 
 經常合作的詞曲創作者包括、、、、、、、、MK-METAL、NORiMETAL、RYU-METAL、TSUBOMETAL、Mish-Mosh、NORiMETAL等音樂人，成員也有親自作詞作曲，如「」。導演田中紫纹負責所有作品的插圖設計、藝術指導及live現場連環畫劇的監製，他說：「製作時比起著重於考慮偶像方面的東西，我更著重於考慮歌曲上與LIVE上的。\[198\]」。周邊商品的設計師為HIROSUKE（主唱）、服飾品牌ROLLING
 CRADLE代表、平面設計師Yutty／KiSS OF
-DEATH、及兩位插畫家KAgaMI和。現場舞蹈是由同公司的編舞家、因Perfume的獨特舞蹈與[里約奧運閉幕式聞名的](../Page/2016年夏季奧林匹克運動會閉幕式.md "wikilink")[MIKIKO老師所設計指導](https://zh.wikipedia.org/wiki/MIKIKO "wikilink")，她的編舞是以五感共鳴為目標：「給空間塗上顏色，讓音樂通過舞蹈彷彿能夠被看見，將歌詞的世界觀通過視覺擴展，最大限度引出跳舞之人的魅力。\[199\]」。新歌的舞蹈動作在巡演中經過不斷進化才會最終成型\[200\]。有些舞蹈動作則是成員自己編製的\[201\]。
+DEATH、及兩位插畫家KAgaMI和。現場舞蹈是由同公司的編舞家、因Perfume的獨特舞蹈與[里約奧運閉幕式聞名的](../Page/2016年夏季奧林匹克運動會閉幕式.md "wikilink")[MIKIKO老師所設計指導](../Page/MIKIKO.md "wikilink")，她的編舞是以五感共鳴為目標：「給空間塗上顏色，讓音樂通過舞蹈彷彿能夠被看見，將歌詞的世界觀通過視覺擴展，最大限度引出跳舞之人的魅力。\[199\]」。新歌的舞蹈動作在巡演中經過不斷進化才會最終成型\[200\]。有些舞蹈動作則是成員自己編製的\[201\]。
 
 ### 致敬
 
 BABYMETAL有許多向老牌金屬樂團致敬的元素，包含在樂曲、象徵、演唱會現場及周邊商品中。製作人KOBAMETAL在《》雜誌採訪中說：「如果BABYMETAL能為樂迷們打開金屬樂的大門，讓大家去發掘金屬樂以前的作品的話那真的很棒。BABYMETAL的歌有著大量致敬的地方，所以去尋找它們的起源會是一件樂事，最近我聽說願意去發掘音樂……花功夫去尋找這些創作原型和靈感源泉的人在減少。如果金屬樂的經典名曲透過BABYMETAL得到更廣泛的關注，我會很高興的！\[202\]」
 
   -
-    向[X JAPAN的致敬元素](../Page/X_JAPAN.md "wikilink")：
+    向[X JAPAN的致敬元素](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")：
 
 <!-- end list -->
 
   - <small>〈紅月
     Akatsuki〉與〈[紅](../Page/紅_\(X單曲\).md "wikilink")〉結構氛圍相似，歌詞都有"染紅"\[203\]</small>
   - <small>〈紅月 Akatsuki〉演唱前SU-METAL大喊「AKATSUKI
-    DA\~\~」；〈紅〉演唱前[TOSHI大喊](../Page/TOSHI.md "wikilink")「KURENAI
+    DA\~\~」；〈紅〉演唱前[TOSHI大喊](https://zh.wikipedia.org/wiki/TOSHI "wikilink")「KURENAI
     DA\~\~」\[204\]</small>
   - <small>〈紅月 Akatsuki〉雙吉他solo後半部分；與〈[Silent
     Jealousy](../Page/Silent_Jealousy.md "wikilink")〉的雙吉他solo相似，都運用了對位法\[205\]</small>
   - <small>〈No Rain No Rainbow〉與〈[ENDLESS
     RAIN](../Page/ENDLESS_RAIN.md "wikilink")〉結構氛圍相似，歌詞都有"無盡的雨"\[206\]</small>
-  - <small>〈[欺凌、絕對、不行](https://zh.wikipedia.org/wiki/欺凌、絕對、不行 "wikilink")〉中"不行不行"的舞蹈動作；與X
+  - <small>〈[欺凌、絕對、不行](../Page/欺凌、絕對、不行.md "wikilink")〉中"不行不行"的舞蹈動作；與X
     JAPAN著名的觀眾動作"X JUMP"相似\[207\]</small>
-  - <small>〈欺凌、絕對、不行〉中"飛吧！飛吧！飛吧！飛吧！"的合聲；〈X〉中，[HIDE會念一段很長的](../Page/HIDE.md "wikilink")"飛吧！飛吧！飛吧！飛吧！"來煽動現場\[208\]\[209\]</small>
+  - <small>〈欺凌、絕對、不行〉中"飛吧！飛吧！飛吧！飛吧！"的合聲；〈X〉中，[HIDE會念一段很長的](https://zh.wikipedia.org/wiki/HIDE "wikilink")"飛吧！飛吧！飛吧！飛吧！"來煽動現場\[208\]\[209\]</small>
   - <small>應援物之一是護頸；YOSHIKI因頸椎椎間盤突出，從1996年底就常戴護頸上台\[210\]</small>
   - <small>演唱會結束時會喊「WE ARE？」「BABYMETAL！」向觀眾互動；與〈X〉演出間奏固定的互動儀式「WE
     ARE？」「X！」相似\[211\]</small>
-  - <small>[LEGEND「1999」聖誕祭在台上彈奏](https://zh.wikipedia.org/wiki/LIVE〜LEGEND_1999&1997_APOCALYPSE "wikilink")[河合CR](https://zh.wikipedia.org/wiki/河合樂器製造公司 "wikilink")-40A水晶鋼琴；YOSHIKI的個人標誌之一是河合CR-40A水晶鋼琴\[212\]\[213\]</small>
+  - <small>[LEGEND「1999」聖誕祭在台上彈奏](../Page/LIVE〜LEGEND_1999&1997_APOCALYPSE.md "wikilink")[河合CR](https://zh.wikipedia.org/wiki/河合樂器製造公司 "wikilink")-40A水晶鋼琴；YOSHIKI的個人標誌之一是河合CR-40A水晶鋼琴\[212\]\[213\]</small>
   - <small>2014年在武道館宣布將離開日本展開世巡，以'JAPAN'不斷重複至Fade Out結束；X
     JAPAN的開場廣播是以'JAPAN'不斷重複至Fade Out結束\[214\]</small>
   - <small>2015年開場廣播，以BABYMETAL中的'METAL'不斷重複至Fade Out結束\[215\]</small>
   - <small>舞台上偶爾出現的[Zildjian銅鑼](../Page/蕭特知音公司.md "wikilink")；X
     JAPAN舞台上固定都會擺一面Zildjian銅鑼\[216\]</small>
   - <small>SU-METAL敲完鑼以後就昏迷；YOSHIKI在1989年[澀谷公會堂的表演中途昏倒前敲了一下鑼](../Page/澀谷公會堂.md "wikilink")\[217\]</small>
-  - <small>演唱會'[赤ぃ夜](https://zh.wikipedia.org/wiki/LIVE_AT_BUDOKAN_〜RED_NIGHT〜 "wikilink")'、'[黑ぃ夜](https://zh.wikipedia.org/wiki/LIVE_AT_BUDOKAN_〜BLACK_NIGHT〜 "wikilink")'的命名；X
+  - <small>演唱會'[赤ぃ夜](../Page/LIVE_AT_BUDOKAN_〜RED_NIGHT〜.md "wikilink")'、'[黑ぃ夜](../Page/LIVE_AT_BUDOKAN_〜BLACK_NIGHT〜.md "wikilink")'的命名；X
     JAPAN於1994年底也有過'青ぃ夜'、'白ぃ夜'的命名\[218\]</small>
-  - <small>YUIMETAL和MOAMETAL拿[二氧化碳壓縮器噴向觀眾](../Page/二氧化碳.md "wikilink")；YOSHIKI都會在〈[Orgasm](../Page/Orgasm.md "wikilink")〉進行中拿著二氧化碳壓縮瓶噴向觀眾\[219\]</small>
+  - <small>YUIMETAL和MOAMETAL拿[二氧化碳壓縮器噴向觀眾](../Page/二氧化碳.md "wikilink")；YOSHIKI都會在〈[Orgasm](https://zh.wikipedia.org/wiki/Orgasm "wikilink")〉進行中拿著二氧化碳壓縮瓶噴向觀眾\[219\]</small>
   - <small>在舉行第一次（形式上的）專場演出；X在1986年於目黑鹿鳴館舉行第一次專場演出\[220\]</small>
   - <small>目黑鹿鳴館等候進場時的背景音樂是〈Vanishing
     Love〉；這首曲子收錄在X當年聲名大噪的獨立專輯《*[Vanishing
-    Vision](https://zh.wikipedia.org/wiki/Vanishing_Vision "wikilink")*》中\[221\]</small>
+    Vision](../Page/Vanishing_Vision.md "wikilink")*》中\[221\]</small>
   - <small>煽場曲〈〉在編曲時參考了X的〈Stab Me In The
     Back〉現場煽動效果\[222\]\[223\]</small>
   - <small>在LEGEND「D」暨SU-METAL聖誕祭中的影片，提到SU-METAL在1997年出生後10天、傳奇樂團X
@@ -449,14 +449,14 @@ BABYMETAL有許多向老牌金屬樂團致敬的元素，包含在樂曲、象�
 
   - <small>〈撒嬌大作戰〉整體曲風是向[林普巴茲提特著名的](../Page/林普巴茲提特.md "wikilink")[饒舌金屬風格致敬](../Page/饒舌金屬.md "wikilink")，中間出現的歌聲取樣\[225\]</small>
   - <small>2015年橫濱體育館舞台上的巨大埃及風格狐神雕像，是向[鐵娘子的吉祥物](../Page/鐵娘子樂團.md "wikilink")的埃及扮相、也向該樂團的《**》專輯封面致敬\[226\]\[227\]</small>
-  - <small>[奧茲·奧斯本](https://zh.wikipedia.org/wiki/Ozzy_Osbourne "wikilink")、[羅尼·詹姆斯·迪歐](https://zh.wikipedia.org/wiki/Ronnie_James_Dio "wikilink")、[羅柏·哈爾福德](https://zh.wikipedia.org/wiki/羅伯·哈爾福德 "wikilink")、、[詹姆斯·海特菲爾德](https://zh.wikipedia.org/wiki/James_Hetfield "wikilink")、[柯克·哈米特](../Page/柯克·哈米特.md "wikilink")、、[戴夫·馬斯泰恩](https://zh.wikipedia.org/wiki/Dave_Mustaine "wikilink")、、、、[異教狂徒](https://zh.wikipedia.org/wiki/異教狂徒 "wikilink")、[小暮閣下等金屬名人與樂團的畫像曾出現在連環畫劇影片中](../Page/小暮閣下.md "wikilink")\[228\]\[229\]</small>
+  - <small>[奧茲·奧斯本](https://zh.wikipedia.org/wiki/Ozzy_Osbourne "wikilink")、[羅尼·詹姆斯·迪歐](https://zh.wikipedia.org/wiki/Ronnie_James_Dio "wikilink")、[羅柏·哈爾福德](../Page/羅伯·哈爾福德.md "wikilink")、、[詹姆斯·海特菲爾德](https://zh.wikipedia.org/wiki/James_Hetfield "wikilink")、[柯克·哈米特](../Page/柯克·哈米特.md "wikilink")、、[戴夫·馬斯泰恩](https://zh.wikipedia.org/wiki/Dave_Mustaine "wikilink")、、、、[異教狂徒](https://zh.wikipedia.org/wiki/異教狂徒 "wikilink")、[小暮閣下等金屬名人與樂團的畫像曾出現在連環畫劇影片中](../Page/小暮閣下.md "wikilink")\[228\]\[229\]</small>
   - <small>〈Sis. Anger〉曲名向金屬製品的曲子〈〉致敬\[230\]</small>
   - <small>金屬製品《**》專輯封面的紅色拳頭圖案，曾被狐手勢致敬\[231\]</small>
   - <small>成員的一套薄紗裙中將鉻色的類金屬材質織入，用來對金屬製品致敬\[232\]</small>
   - <small>演出〈欺凌、絕對、不行〉前時常播放的引導影片中，有一幀雙手交叉的畫面，是向[極限荷爾蒙的專輯](../Page/Maximum_The_Hormone.md "wikilink")《**》封面致敬\[233\]</small>
   - <small>一些周邊商品向[猶太祭司](../Page/猶太祭司.md "wikilink")、[摩托頭](https://zh.wikipedia.org/wiki/摩托頭 "wikilink")、、[金屬製品](https://zh.wikipedia.org/wiki/金屬製品 "wikilink")、[麥加帝斯](https://zh.wikipedia.org/wiki/麥加帝斯 "wikilink")、[超級殺手](../Page/超級殺手合唱團.md "wikilink")、[炭疽](https://zh.wikipedia.org/wiki/炭疽樂隊 "wikilink")、[聖約](../Page/聖約樂團.md "wikilink")、、[滾石等樂團的標誌風格](https://zh.wikipedia.org/wiki/滾石樂隊 "wikilink")、專輯封面致敬\[234\]\[235\]</small>
   - <small>《*METAL
-    RESISTANCE*》首批限量版封面是向[飛越地平線的](https://zh.wikipedia.org/wiki/飛越地平線樂團 "wikilink")〈〉音樂錄影帶致敬\[236\]</small>
+    RESISTANCE*》首批限量版封面是向[飛越地平線的](../Page/飛越地平線樂團.md "wikilink")〈〉音樂錄影帶致敬\[236\]</small>
   - <small>LEGEND「1999」聖誕祭上的連環畫劇影片中，提到成員YUI和MOA是「」聖飢魔II的孩子，她們二人都是1999年出生，也就是聖飢魔II全體返回地獄的那一年\[237\]</small>
 
 另外，演唱會「天下第一金屬武道會」向[七龍珠的](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")「[天下第一武道會](https://zh.wikipedia.org/wiki/天下第一武道會 "wikilink")」做了致敬。[李奧納多·達文西的名畫](https://zh.wikipedia.org/wiki/李奧納多·達文西 "wikilink")《[最後的晚餐](https://zh.wikipedia.org/wiki/最後的晚餐_\(達文西\) "wikilink")》、[桑德羅·波提切利的名畫](https://zh.wikipedia.org/wiki/桑德羅·波提切利 "wikilink")《[維納斯的誕生](https://zh.wikipedia.org/wiki/維納斯的誕生_\(波提切利\) "wikilink")》、[歐仁·德拉克羅瓦的名畫](https://zh.wikipedia.org/wiki/歐仁·德拉克羅瓦 "wikilink")《[自由引導人民](https://zh.wikipedia.org/wiki/自由引導人民 "wikilink")》、及[彼得·保羅·魯本斯所畫的](../Page/彼得·保羅·魯本斯.md "wikilink")《》都被致敬過。連環畫劇中的字幕有時也會向「[星際大戰](../Page/星際大戰.md "wikilink")」系列電影致敬，如經典的開場字幕和[黑武士達斯](https://zh.wikipedia.org/wiki/黑武士 "wikilink")·維達，三名成員也曾手持[絕地武士的](../Page/絕地.md "wikilink")[光劍在演唱會登場](https://zh.wikipedia.org/wiki/光劍 "wikilink")\[238\]\[239\]\[240\]。
@@ -465,26 +465,26 @@ BABYMETAL有許多向老牌金屬樂團致敬的元素，包含在樂曲、象�
 
 自成立以來，BABYMETAL已經與各式各樣的藝術家合作過，無論是日本還是國際上。
 
-| <small>年份</small>                                                                                                   | <small>合作對象</small>                                                                                                                             | <small>企劃內容</small>                                    | <small>來源</small> |
-| ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------- |
-| <small>2012年</small>                                                                                                | <small>金屬樂團 Kiba of Akiba</small>                                                                                                               | <small>合作發行單曲《BABYMETAL × Kiba of Akiba》</small>       | \[241\]           |
-| <small>視覺系樂團 [SuG](../Page/SuG.md "wikilink")、創作歌手 </small>                                                         | <small>舉行合作演唱會「SuG LIVE BATTLE 2012 'LIVE\! TOWER RECORDS DAY'」</small>                                                                         | \[242\]                                                |                   |
-| <small>2013年</small>                                                                                                | <small>金屬樂團[邪神大敵前吉他手](../Page/邪神大敵.md "wikilink") </small>                                                                                      | <small>單曲〈欺凌、絕對、不行〉限量版中收錄其吉他彈奏版本</small>               | \[243\]           |
-| <small>2014年</small>                                                                                                | <small>搖滾樂團 [筋肉少女帶](../Page/筋肉少女帶.md "wikilink")</small>                                                                                        | <small>舉行合作演唱會「筋肉少女帶／BABYMETAL」</small>                | \[244\]           |
-| <small>金屬樂團 [閃靈](https://zh.wikipedia.org/wiki/閃靈樂團 "wikilink")</small>                                             | <small>「完全櫻樂團 第壹團 重音偶像大對決」同台共同演出</small>                                                                                                        | \[245\]                                                |                   |
-| <small>流行歌手 [女神卡卡](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")</small>                                           | <small>連續五場「[流行藝術巡迴演唱會](https://zh.wikipedia.org/wiki/ArtRave:_The_Artpop_Ball "wikilink")」巡演的固定開場嘉賓</small>                                    | \[246\]                                                |                   |
-| <small>金屬樂團 [龍族悍將](../Page/龍族悍將.md "wikilink")</small>                                                              | <small>合力創作〈[Road of Resistance](https://zh.wikipedia.org/wiki/Road_of_Resistance "wikilink")〉，吉他部分由[李康敏與](../Page/李康敏.md "wikilink")負責</small> | \[247\]                                                |                   |
-| <small>2015年</small>                                                                                                | <small>金屬樂團 龍族悍將</small>                                                                                                                        | <small>「Download Festival 2015」音樂節的神秘嘉賓，同台共同演出</small> | \[248\]           |
-| <small>金屬樂團 龍族悍將</small>                                                                                            | <small>「Metal Hammer金神獎 2015」同台共同演出</small>                                                                                                     | \[249\]                                                |                   |
-| <small>DJ／歌手／製作人 [史奇雷克斯](../Page/史奇雷克斯.md "wikilink")</small>                                                       | <small>「 2015」音樂節的神秘嘉賓，同台共同演出</small>                                                                                                           | \[250\]                                                |                   |
-| <small>2016年</small>                                                                                                | <small>遊戲開發商 [任天堂](../Page/任天堂.md "wikilink")</small>                                                                                           | <small>為「超級瑪利歐製作大師」按成員樣貌開發的遊戲角色配音</small>              | \[251\]           |
-| <small>金屬樂團[猶太祭司主唱](../Page/猶太祭司.md "wikilink") [羅柏·哈爾福德](https://zh.wikipedia.org/wiki/羅伯·哈爾福德 "wikilink")</small> | <small>「 2016」同台共同演出</small>                                                                                                                    | \[252\]                                                |                   |
-| <small>電影公司 [華納兄弟](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")</small>                                           | <small>拍攝真人結合動畫的網路影集</small>                                                                                                                    | \[253\]                                                |                   |
-| <small>搖滾樂團 [嗆辣紅椒](../Page/嗆辣紅椒.md "wikilink")</small>                                                              | <small>連續八場「」巡演的固定特別嘉賓、同台共同演出</small>                                                                                                           | \[254\]                                                |                   |
-| <small>2017年</small>                                                                                                | <small>金屬樂團 [金屬製品](https://zh.wikipedia.org/wiki/金屬製品 "wikilink")</small>                                                                       | <small>「」巡演嘉賓</small>                                  | \[255\]           |
-| <small>搖滾樂團 [槍與玫瑰](https://zh.wikipedia.org/wiki/槍與玫瑰 "wikilink")</small>                                           | <small>連續四場「」巡演的固定特別嘉賓</small>                                                                                                                  | \[256\]                                                |                   |
-| <small>搖滾樂團 嗆辣紅椒</small>                                                                                            | <small>連續十場「The Getaway World Tour」巡演的固定特別嘉賓</small>                                                                                            | \[257\]                                                |                   |
-| <small>[新金屬樂團](../Page/新金屬.md "wikilink") [崆樂團](../Page/Korn.md "wikilink")</small>                                 | <small>連續六場「KORN US TOUR」巡演的固定特別嘉賓</small>                                                                                                      | \[258\]                                                |                   |
+| <small>年份</small>                                                                                | <small>合作對象</small>                                                                                                          | <small>企劃內容</small>                                    | <small>來源</small> |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------- |
+| <small>2012年</small>                                                                             | <small>金屬樂團 Kiba of Akiba</small>                                                                                            | <small>合作發行單曲《BABYMETAL × Kiba of Akiba》</small>       | \[241\]           |
+| <small>視覺系樂團 [SuG](../Page/SuG.md "wikilink")、創作歌手 </small>                                      | <small>舉行合作演唱會「SuG LIVE BATTLE 2012 'LIVE\! TOWER RECORDS DAY'」</small>                                                      | \[242\]                                                |                   |
+| <small>2013年</small>                                                                             | <small>金屬樂團[邪神大敵前吉他手](../Page/邪神大敵.md "wikilink") </small>                                                                   | <small>單曲〈欺凌、絕對、不行〉限量版中收錄其吉他彈奏版本</small>               | \[243\]           |
+| <small>2014年</small>                                                                             | <small>搖滾樂團 [筋肉少女帶](../Page/筋肉少女帶.md "wikilink")</small>                                                                     | <small>舉行合作演唱會「筋肉少女帶／BABYMETAL」</small>                | \[244\]           |
+| <small>金屬樂團 [閃靈](https://zh.wikipedia.org/wiki/閃靈樂團 "wikilink")</small>                          | <small>「完全櫻樂團 第壹團 重音偶像大對決」同台共同演出</small>                                                                                     | \[245\]                                                |                   |
+| <small>流行歌手 [女神卡卡](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")</small>                        | <small>連續五場「[流行藝術巡迴演唱會](https://zh.wikipedia.org/wiki/ArtRave:_The_Artpop_Ball "wikilink")」巡演的固定開場嘉賓</small>                 | \[246\]                                                |                   |
+| <small>金屬樂團 [龍族悍將](../Page/龍族悍將.md "wikilink")</small>                                           | <small>合力創作〈[Road of Resistance](../Page/Road_of_Resistance.md "wikilink")〉，吉他部分由[李康敏與](../Page/李康敏.md "wikilink")負責</small> | \[247\]                                                |                   |
+| <small>2015年</small>                                                                             | <small>金屬樂團 龍族悍將</small>                                                                                                     | <small>「Download Festival 2015」音樂節的神秘嘉賓，同台共同演出</small> | \[248\]           |
+| <small>金屬樂團 龍族悍將</small>                                                                         | <small>「Metal Hammer金神獎 2015」同台共同演出</small>                                                                                  | \[249\]                                                |                   |
+| <small>DJ／歌手／製作人 [史奇雷克斯](../Page/史奇雷克斯.md "wikilink")</small>                                    | <small>「 2015」音樂節的神秘嘉賓，同台共同演出</small>                                                                                        | \[250\]                                                |                   |
+| <small>2016年</small>                                                                             | <small>遊戲開發商 [任天堂](../Page/任天堂.md "wikilink")</small>                                                                        | <small>為「超級瑪利歐製作大師」按成員樣貌開發的遊戲角色配音</small>              | \[251\]           |
+| <small>金屬樂團[猶太祭司主唱](../Page/猶太祭司.md "wikilink") [羅柏·哈爾福德](../Page/羅伯·哈爾福德.md "wikilink")</small> | <small>「 2016」同台共同演出</small>                                                                                                 | \[252\]                                                |                   |
+| <small>電影公司 [華納兄弟](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")</small>                        | <small>拍攝真人結合動畫的網路影集</small>                                                                                                 | \[253\]                                                |                   |
+| <small>搖滾樂團 [嗆辣紅椒](../Page/嗆辣紅椒.md "wikilink")</small>                                           | <small>連續八場「」巡演的固定特別嘉賓、同台共同演出</small>                                                                                        | \[254\]                                                |                   |
+| <small>2017年</small>                                                                             | <small>金屬樂團 [金屬製品](https://zh.wikipedia.org/wiki/金屬製品 "wikilink")</small>                                                    | <small>「」巡演嘉賓</small>                                  | \[255\]           |
+| <small>搖滾樂團 [槍與玫瑰](https://zh.wikipedia.org/wiki/槍與玫瑰 "wikilink")</small>                        | <small>連續四場「」巡演的固定特別嘉賓</small>                                                                                               | \[256\]                                                |                   |
+| <small>搖滾樂團 嗆辣紅椒</small>                                                                         | <small>連續十場「The Getaway World Tour」巡演的固定特別嘉賓</small>                                                                         | \[257\]                                                |                   |
+| <small>[新金屬樂團](../Page/新金屬.md "wikilink") [崆樂團](../Page/Korn.md "wikilink")</small>              | <small>連續六場「KORN US TOUR」巡演的固定特別嘉賓</small>                                                                                   | \[258\]                                                |                   |
 
 ## 官方會員
 
@@ -506,15 +506,13 @@ BABYMETAL已收到許多音樂圈內的公開支持，如：
     [馬蒂·弗里德曼](../Page/马蒂·弗里德曼_\(音乐家\).md "wikilink")\[265\]</small>
   - <small>搖滾樂團[槍與玫瑰吉他手](https://zh.wikipedia.org/wiki/槍與玫瑰 "wikilink")
     [史萊許](../Page/史萊許.md "wikilink")\[266\]</small>
-  - <small>DJ／製作人
-    [史帝夫・青木](https://zh.wikipedia.org/wiki/史蒂夫·青木 "wikilink")\[267\]</small>
+  - <small>DJ／製作人 [史帝夫・青木](../Page/史蒂夫·青木.md "wikilink")\[267\]</small>
   - <small>歌手／製作人 \[268\]</small>
   - <small>樂團[滑結](../Page/滑結樂團.md "wikilink")／主唱 \[269\]</small>
   - <small>DJ／製作人 [史奇雷克斯](../Page/史奇雷克斯.md "wikilink")\[270\]</small>
   - <small>另類金屬樂團[盲音主唱](https://zh.wikipedia.org/wiki/盲音 "wikilink")
     \[271\]</small>
-  - <small>金屬核樂團[飛越地平線主唱](https://zh.wikipedia.org/wiki/飛越地平線樂團 "wikilink")
-    \[272\]</small>
+  - <small>金屬核樂團[飛越地平線主唱](../Page/飛越地平線樂團.md "wikilink") \[272\]</small>
   - <small>流行歌手
     [女神卡卡](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")\[273\]</small>
   - <small>影視演員／歌手 [加山雄三](../Page/加山雄三.md "wikilink")\[274\]</small>
@@ -563,12 +561,11 @@ BABYMETAL已收到許多音樂圈內的公開支持，如：
   - <small>搖滾樂團
     [槍與玫瑰](https://zh.wikipedia.org/wiki/槍與玫瑰 "wikilink")</small>
   - <small>搖滾樂團 [嗆辣紅椒](../Page/嗆辣紅椒.md "wikilink")</small>
-  - <small>搖滾樂團
-    [史密斯回聲](https://zh.wikipedia.org/wiki/史密斯回聲 "wikilink")</small>
+  - <small>搖滾樂團 [史密斯回聲](../Page/史密斯回聲.md "wikilink")</small>
   - <small>著名[工業金屬歌手](../Page/工業金屬.md "wikilink")
     [瑪麗蓮·曼森](../Page/瑪麗蓮·曼森.md "wikilink")</small>
   - <small>「驚悚搖滾教父」[埃利斯·庫珀](https://zh.wikipedia.org/wiki/埃利斯·庫珀 "wikilink")</small>
-  - <small>「殭屍鬼才」[羅伯·殭屍](https://zh.wikipedia.org/wiki/羅伯·殭屍 "wikilink")</small>
+  - <small>「殭屍鬼才」[羅伯·殭屍](../Page/羅伯·殭屍.md "wikilink")</small>
   - <small>搖滾樂團[大人物貝斯手](https://zh.wikipedia.org/wiki/大人物合唱團 "wikilink")
     [比利·席漢](https://zh.wikipedia.org/wiki/比利·席漢 "wikilink")</small>
   - <small>搖滾樂團 </small>
@@ -582,10 +579,9 @@ BABYMETAL已收到許多音樂圈內的公開支持，如：
   - <small>工業金屬樂團 </small>
   - <small>搖滾傳奇[皇后樂團吉他手](https://zh.wikipedia.org/wiki/皇后樂團 "wikilink")
     [布萊恩·梅](https://zh.wikipedia.org/wiki/Brian_May "wikilink")</small>
-  - <small>金屬核樂團
-    [飛越地平線](https://zh.wikipedia.org/wiki/飛越地平線樂團 "wikilink")</small>
+  - <small>金屬核樂團 [飛越地平線](../Page/飛越地平線樂團.md "wikilink")</small>
   - <small>重金屬始祖樂團之一 [猶太祭司與其教父級主唱](../Page/猶太祭司.md "wikilink")
-    [羅柏·哈爾福德](https://zh.wikipedia.org/wiki/羅伯·哈爾福德 "wikilink")</small>
+    [羅柏·哈爾福德](../Page/羅伯·哈爾福德.md "wikilink")</small>
   - <small>搖滾樂團 </small>
   - <small>[輾核樂團](../Page/輾核.md "wikilink") </small>
   - <small>搖滾樂團 </small>
@@ -617,7 +613,7 @@ BABYMETAL已收到許多音樂圈內的公開支持，如：
   - <small>搖滾樂團 [FLOW](../Page/FLOW_\(樂團\).md "wikilink")</small>
   - <small>搖滾樂團 [凜冽時雨](../Page/凜冽時雨.md "wikilink")</small>
   - <small>「[視覺系搖滾教父](../Page/視覺系.md "wikilink")」X JAPAN團長
-    [YOSHIKI](../Page/YOSHIKI.md "wikilink")</small>
+    [YOSHIKI](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")</small>
   - <small>流行歌手 [LiSA](../Page/LiSA.md "wikilink")</small>
 
 </div>
@@ -660,7 +656,7 @@ BABYMETAL已收到許多音樂圈內的公開支持，如：
   - <small>碾核樂團貝斯手評：
     「有這支少年樂團的存在，可以吸引更多孩子，讓他們儘早適應重的聲音。一句話，越早養成越好。有些人簡單的認為BABYMETAL被稱為金屬是種冒犯。為什麼？為什麼你會覺得冒犯了？金屬是一個大流派，有各種樂團來來去去，也有各種奇怪好笑的風格，我可能不喜歡聽那些音樂，但我覺得有趣的是沉重的電吉他用各種不同的方式演奏。對我來說，BABYMETAL就是一個很好的延伸。\[295\]」</small>
   - <small>速度金屬樂團[龍族悍將吉他手](../Page/龍族悍將.md "wikilink")[李康敏評](../Page/李康敏.md "wikilink")：
-    「我認為，可以跨界讓那些完全沒有接觸過金屬的人發現這裡，把那些人帶進這個圈子，所以說他們當下真的是一支非常重要的樂團組合。舉個例子，有很多人透過『[吉他英雄](https://zh.wikipedia.org/wiki/吉他英雄 "wikilink")』這遊戲成為金屬迷，我覺得他們就是擔任著如此重要角色的一個樂團，我們需要更多像他們那樣可以玩出不同花樣的人。\[296\]」</small>
+    「我認為，可以跨界讓那些完全沒有接觸過金屬的人發現這裡，把那些人帶進這個圈子，所以說他們當下真的是一支非常重要的樂團組合。舉個例子，有很多人透過『[吉他英雄](../Page/吉他英雄.md "wikilink")』這遊戲成為金屬迷，我覺得他們就是擔任著如此重要角色的一個樂團，我們需要更多像他們那樣可以玩出不同花樣的人。\[296\]」</small>
 
 ## 獎項及榮譽
 
@@ -1141,7 +1137,7 @@ rowspan=3 | BABYMETAL | 「」最佳新人獎\[321\] |  |- | 「Loudwire
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Youtube.md" title="wikilink">Youtube Japan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Youtube" title="wikilink">Youtube Japan</a></p></td>
 <td><p>2016年度音樂類百大熱門影片[385]</p></td>
 <td><p>21</p></td>
 <td></td>

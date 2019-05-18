@@ -1,6 +1,6 @@
 《**HIT\! HIT\!
 HIT\!**》是[Kis-My-Ft2的第](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")1張精選專輯。於2014年3月26日由[avex
-trax發售](../Page/avex_trax.md "wikilink")。
+trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

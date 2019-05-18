@@ -72,7 +72,7 @@
 
   - 田渊乔（，第8集）
 
-演员：[古田新太](https://zh.wikipedia.org/wiki/古田新太 "wikilink")
+演员：[古田新太](../Page/古田新太.md "wikilink")
 
   - 梅津（，第9—11、21、22集及大结局）
 

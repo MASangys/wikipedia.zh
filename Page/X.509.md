@@ -143,7 +143,7 @@ cert2, cert6的情况也类似。这样就允许老的用户证书可以在新�
 
 ## X.509证书样例
 
-下面是[GlobalSign颁发的用于wikipedia](https://zh.wikipedia.org/wiki/GlobalSign "wikilink").org以及一些其它Wikipedia网站X.509证书。证书颁发者填在颁发者(Issuer)字段，主题内容里是组织机构Wikipedia的描述，主题备用名称是那些采用该证书的服务器的主机名。主题公钥里的信息表明采用的是[椭圆曲线公共密钥](../Page/椭圆曲线.md "wikilink")，位于最后的签名算法表示它是由GlobalSign用其私钥并采用带[RSA加密的SHA](https://zh.wikipedia.org/wiki/RSA "wikilink")-256算法进行签名的。
+下面是[GlobalSign颁发的用于wikipedia](../Page/GlobalSign.md "wikilink").org以及一些其它Wikipedia网站X.509证书。证书颁发者填在颁发者(Issuer)字段，主题内容里是组织机构Wikipedia的描述，主题备用名称是那些采用该证书的服务器的主机名。主题公钥里的信息表明采用的是[椭圆曲线公共密钥](../Page/椭圆曲线.md "wikilink")，位于最后的签名算法表示它是由GlobalSign用其私钥并采用带[RSA加密的SHA](https://zh.wikipedia.org/wiki/RSA "wikilink")-256算法进行签名的。
 
 ### 最终实体证书（或者叫叶子证书）
 

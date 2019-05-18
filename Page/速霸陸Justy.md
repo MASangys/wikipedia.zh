@@ -44,15 +44,15 @@ Image:SUBARU TUTTO 02.JPG|大慶金美滿車尾
 ### 第二代（1994年-2003年）
 
 [Subaru_Justy.jpg](https://zh.wikipedia.org/wiki/File:Subaru_Justy.jpg "fig:Subaru_Justy.jpg")
-1994年大改款的第二代Justy在[歐洲上市](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，不過當時富士重工業暫時退出日本的[次緊湊型車市場](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")，因此並未在日本發售。1990年代[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[通用汽車集團分別擁有富士重工業](https://zh.wikipedia.org/wiki/通用汽车公司 "wikilink")、[鈴木汽車及](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[五十鈴汽車的股權](../Page/五十鈴.md "wikilink")，基於集團資源共享的原則，第二代Justy以[第二代鈴木Cultus為基礎而發展](https://zh.wikipedia.org/wiki/鈴木Cultus#第二代（SF系_1988年-1999年） "wikilink")，除廠徽銘牌外，前保桿和進氣壩造型略有不同。該款主打歐洲地區的Justy由鈴木的[匈牙利工廠](../Page/匈牙利.md "wikilink")[馬札爾鈴木公司製造供應](https://zh.wikipedia.org/wiki/馬札爾鈴木公司 "wikilink")，區分成三、五門[掀背車兩種車型](https://zh.wikipedia.org/wiki/掀背車 "wikilink")。值得一提的是，此車款的兄弟車另有龐蒂克Firefly、雪佛蘭Sprint、雪佛蘭Metro、吉優Metro、霍頓Barina、馬魯蒂1000等，分別在世界不同[國家銷售](https://zh.wikipedia.org/wiki/國家 "wikilink")。
+1994年大改款的第二代Justy在[歐洲上市](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，不過當時富士重工業暫時退出日本的[次緊湊型車市場](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")，因此並未在日本發售。1990年代[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[通用汽車集團分別擁有富士重工業](https://zh.wikipedia.org/wiki/通用汽车公司 "wikilink")、[鈴木汽車及](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[五十鈴汽車的股權](../Page/五十鈴.md "wikilink")，基於集團資源共享的原則，第二代Justy以[第二代鈴木Cultus為基礎而發展](https://zh.wikipedia.org/wiki/鈴木Cultus#第二代（SF系_1988年-1999年） "wikilink")，除廠徽銘牌外，前保桿和進氣壩造型略有不同。該款主打歐洲地區的Justy由鈴木的[匈牙利工廠](../Page/匈牙利.md "wikilink")[馬札爾鈴木公司製造供應](../Page/馬札爾鈴木公司.md "wikilink")，區分成三、五門[掀背車兩種車型](https://zh.wikipedia.org/wiki/掀背車 "wikilink")。值得一提的是，此車款的兄弟車另有龐蒂克Firefly、雪佛蘭Sprint、雪佛蘭Metro、吉優Metro、霍頓Barina、馬魯蒂1000等，分別在世界不同[國家銷售](https://zh.wikipedia.org/wiki/國家 "wikilink")。
 
 Image:Subaru Justy 1.JPG|三門掀背車 Image:Subaru Justy purple.jpg|五門掀背車
 
 ### 第三代（2003年-2007年）
 
 [Subaru_G3X_Justy.JPG](https://zh.wikipedia.org/wiki/File:Subaru_G3X_Justy.JPG "fig:Subaru_G3X_Justy.JPG")
-跟上一代一樣，大改款的第三代Justy其實以同屬通用汽車集團的[鈴木Ignis](https://zh.wikipedia.org/wiki/鈴木Ignis "wikilink")（日本版名為第一代[鈴木Swift](https://zh.wikipedia.org/wiki/鈴木Swift "wikilink")）為基礎而改造，兄弟車款尚有雪佛蘭Cruze、霍頓Cruze（[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")）等。主要銷售[歐洲市場的第三代車款被命名成](https://zh.wikipedia.org/wiki/歐洲 "wikilink")**G3X
-Justy**，車體造型設計和雪佛蘭Cruze相近，由鈴木[匈牙利工廠](../Page/匈牙利.md "wikilink")[馬札爾鈴木公司製造供應](https://zh.wikipedia.org/wiki/馬札爾鈴木公司 "wikilink")，而且僅有全時[4WD的設定](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")。
+跟上一代一樣，大改款的第三代Justy其實以同屬通用汽車集團的[鈴木Ignis](../Page/鈴木Ignis.md "wikilink")（日本版名為第一代[鈴木Swift](../Page/鈴木Swift.md "wikilink")）為基礎而改造，兄弟車款尚有雪佛蘭Cruze、霍頓Cruze（[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")）等。主要銷售[歐洲市場的第三代車款被命名成](https://zh.wikipedia.org/wiki/歐洲 "wikilink")**G3X
+Justy**，車體造型設計和雪佛蘭Cruze相近，由鈴木[匈牙利工廠](../Page/匈牙利.md "wikilink")[馬札爾鈴木公司製造供應](../Page/馬札爾鈴木公司.md "wikilink")，而且僅有全時[4WD的設定](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")。
 {{-}}
 
 ### 第四代（2007年-2011年）

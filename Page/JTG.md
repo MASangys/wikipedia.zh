@@ -14,9 +14,9 @@ JTG畢業於。他有一個女兒名叫麥迪遜。\[4\]
 
 ### [經紀人](https://zh.wikipedia.org/wiki/經紀人 "wikilink")
 
-  - [伊芙·朵芮絲](https://zh.wikipedia.org/wiki/伊芙·朵芮絲 "wikilink")
+  - [伊芙·朵芮絲](../Page/伊芙·朵芮絲.md "wikilink")
 
-  - [塔米娜·史奴卡](https://zh.wikipedia.org/wiki/塔米娜·史奴卡 "wikilink")
+  - [塔米娜·史奴卡](../Page/塔米娜·史奴卡.md "wikilink")
 
   -
 ### 進場樂

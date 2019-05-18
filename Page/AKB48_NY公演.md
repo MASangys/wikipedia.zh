@@ -10,7 +10,7 @@ NY公演**是[日本女子偶像組合](../Page/日本.md "wikilink")[AKB48在](
   - 而其後亦披露將會以特別嘉賓在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約舉行的](https://zh.wikipedia.org/wiki/紐約 "wikilink")「
     2009」演出，而同時亦會在當地的Webster Hall舉行初次海外演唱會\[8\]。
   - 而演唱會的內容亦會在2009年10月9日的[AKB48神TV第](../Page/AKB48神TV.md "wikilink")3季\[9\]及2009年11月15日於[Sky
-    PerfecTV\!播出](../Page/Sky_PerfecTV!.md "wikilink")\[10\]。
+    PerfecTV\!播出](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")\[10\]。
 
 ## 參加成員
 

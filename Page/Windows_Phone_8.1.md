@@ -58,8 +58,7 @@ Windows Phone 8.1 引進了一系列顯著的新功能，其中大多數的預�
 Now](https://zh.wikipedia.org/wiki/Google_Now "wikilink") 或是
 [Apple](https://zh.wikipedia.org/wiki/Apple "wikilink") 的
 [Siri](../Page/Siri.md "wikilink")
-。[Cortana](https://zh.wikipedia.org/wiki/Cortana "wikilink")
-姓名來自[-{zh-hans:Halo
+。[Cortana](../Page/Cortana.md "wikilink") 姓名來自[-{zh-hans:Halo
 系列;zh-hant:最後一戰系列}-遊戲的角色名](../Page/最後一戰系列.md "wikilink")，該遊戲只在微軟平台推出。
 Cortana
 的功能包括設定提醒、非聲控指令式的[自然語言辨識](https://zh.wikipedia.org/wiki/自然語言處理 "wikilink")，及利用
@@ -107,7 +106,7 @@ Windows Phone 8.1 將行動版 [Internet Explorer
 
 Windows Phone 8.1 在 8.0 GDR3 的基礎上新增藉由向下滑動多工視窗來關閉程式，就像是 [Windows
 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink") 及
-[iOS](../Page/iOS.md "wikilink")
+[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
 那樣的操作方式。從應用程式中按下返回鍵會由原本的關閉應用程式改成中止應用程式執行。\[31\]
 
 ### 多媒體
@@ -174,7 +173,7 @@ Phone 的市集也支援自動更新應用程式及手動檢查應用程式更�
 Basic.NET](https://zh.wikipedia.org/wiki/Visual_Basic.NET "wikilink")
 ([.NET](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink"))、[C++
 (CX)](https://zh.wikipedia.org/wiki/C++/CX "wikilink")，或是
-[HTML5](../Page/HTML5.md "wikilink")/[Javascript開發應用程式](../Page/Javascript.md "wikilink")，並且開發人員可以藉由共用幾乎所有的程式碼來打造適用於
+[HTML5](../Page/HTML5.md "wikilink")/[Javascript開發應用程式](https://zh.wikipedia.org/wiki/Javascript "wikilink")，並且開發人員可以藉由共用幾乎所有的程式碼來打造適用於
 Windows Phone 8.1 及 Windows 8
 的通用型應用程式，除了像是[使用者介面及手機](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")
 [API](https://zh.wikipedia.org/wiki/API "wikilink") 相關的限定平台的程式片段。\[46\]

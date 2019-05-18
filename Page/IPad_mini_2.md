@@ -5,7 +5,7 @@ mini](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")。此[平板電腦配�
 2014年10月，蘋果公司發佈[iPad mini
 3](https://zh.wikipedia.org/wiki/iPad_mini_3 "wikilink")。原有的iPad mini
 2仍繼續供售容量16GB及32GB機型，[iPad mini
-(第一代)仍繼續供售容量](../Page/iPad_mini_\(第一代\).md "wikilink")16GB機型。
+(第一代)仍繼續供售容量](https://zh.wikipedia.org/wiki/iPad_mini_\(第一代\) "wikilink")16GB機型。
 
 自2017年3月21日蘋果公司發佈[iPad
 (2017)後](https://zh.wikipedia.org/wiki/iPad_\(2017\) "wikilink")，iPad
@@ -14,11 +14,11 @@ mini 2隨即下架。
 ## 硬件
 
 採用7.9吋[-{zh-hans:Retina屏幕;zh-hant:Retina顯示器;}-](../Page/Retina显示屏.md "wikilink")（[LED背光](https://zh.wikipedia.org/wiki/LED "wikilink")），解析度增加到四倍2048×1536，配置500萬[像素後置](../Page/像素.md "wikilink")
-[iSight](../Page/iSight.md "wikilink")
+[iSight](https://zh.wikipedia.org/wiki/iSight "wikilink")
 [鏡頭](../Page/鏡頭.md "wikilink")，120 萬像素前置
 [FaceTime](../Page/FaceTime.md "wikilink") HD
 鏡頭。[處理器採用與](../Page/中央处理器.md "wikilink")
-[iPhone 5s](../Page/iPhone_5s.md "wikilink")
+[iPhone 5s](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")
 相同的[64位元](../Page/64位元.md "wikilink")[Apple
 A7處理器和M](../Page/Apple_A7.md "wikilink")7動態協同處理器，配備1GB
 RAM。此外，第二代iPad

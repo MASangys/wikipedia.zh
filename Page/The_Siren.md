@@ -5,7 +5,7 @@ Orchestra录制](../Page/伦敦爱乐乐团.md "wikilink")，并使用了和[西
 
 单曲收录了由[麦加帝斯在其专辑](../Page/麦加帝斯.md "wikilink")《》中歌曲《》的现场版。歌曲还作为白金版《Once》的附加曲目收录。
 
-2009年9月19日，乐队前主唱[安妮特·奥尔森在](https://zh.wikipedia.org/wiki/安妮特·奥尔森 "wikilink")[哈特瓦尔体育馆演唱了歌曲](https://zh.wikipedia.org/wiki/哈特瓦尔体育馆 "wikilink")，除了乐队还有两位芬兰大提琴摇滚乐队[金属启示录的大提琴手伴奏](https://zh.wikipedia.org/wiki/金属启示录 "wikilink")。
+2009年9月19日，乐队前主唱[安妮特·奥尔森在](../Page/安妮特·奥尔森.md "wikilink")[哈特瓦尔体育馆演唱了歌曲](https://zh.wikipedia.org/wiki/哈特瓦尔体育馆 "wikilink")，除了乐队还有两位芬兰大提琴摇滚乐队[金属启示录的大提琴手伴奏](https://zh.wikipedia.org/wiki/金属启示录 "wikilink")。
 
 ## 曲目列表
 

@@ -7,7 +7,7 @@ Active | author = | frequently_updated = yes | operating system =
 license = [GNU General Public
 License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")
 | website =  }}
-**Netfilter**，在[Linux內核中的一個](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")[軟體框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，用於管理網路封包。不僅具有[網路位址轉換](../Page/网络地址转换.md "wikilink")（NAT）的功能，也具備封包內容修改、以及封包過濾等[防火牆功能](https://zh.wikipedia.org/wiki/防火牆 "wikilink")。利用運作於[使用者空間的應用軟體](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")，如[iptables](../Page/iptables.md "wikilink")、[ebtables和](https://zh.wikipedia.org/wiki/ebtables "wikilink")[arptables等](https://zh.wikipedia.org/wiki/arptables "wikilink")，來控制Netfilter，系統管理者可以管理通過Linux作業系統的各種網路封包。1990年代，Netfilter在Linux
+**Netfilter**，在[Linux內核中的一個](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")[軟體框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，用於管理網路封包。不僅具有[網路位址轉換](../Page/网络地址转换.md "wikilink")（NAT）的功能，也具備封包內容修改、以及封包過濾等[防火牆功能](https://zh.wikipedia.org/wiki/防火牆 "wikilink")。利用運作於[使用者空間的應用軟體](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")，如[iptables](https://zh.wikipedia.org/wiki/iptables "wikilink")、[ebtables和](https://zh.wikipedia.org/wiki/ebtables "wikilink")[arptables等](https://zh.wikipedia.org/wiki/arptables "wikilink")，來控制Netfilter，系統管理者可以管理通過Linux作業系統的各種網路封包。1990年代，Netfilter在Linux
 2.3.15版時進入Linux內核，正式應用於Linux 2.4版。
 
 現今許多市面上許多的IP分享器或無線網路路由器（Wireless

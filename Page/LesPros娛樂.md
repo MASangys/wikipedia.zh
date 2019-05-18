@@ -1,4 +1,4 @@
-**LesPros娛樂有限公司**（），简称**LesPros**（），是一家[日本的](../Page/日本.md "wikilink")[藝能事務所](https://zh.wikipedia.org/wiki/藝能事務所 "wikilink")，屬[日本音樂事業者協會會員](https://zh.wikipedia.org/wiki/日本音樂事業者協會 "wikilink")，總部位於[東京都](../Page/東京都.md "wikilink")[品川區](../Page/品川區.md "wikilink")。LesPros娛樂旗下有眾多藝人（見[所屬藝人](https://zh.wikipedia.org/wiki/#所屬藝人 "wikilink")）。
+**LesPros娛樂有限公司**（），简称**LesPros**（），是一家[日本的](../Page/日本.md "wikilink")[藝能事務所](https://zh.wikipedia.org/wiki/藝能事務所 "wikilink")，屬[日本音樂事業者協會會員](../Page/日本音樂事業者協會.md "wikilink")，總部位於[東京都](../Page/東京都.md "wikilink")[品川區](../Page/品川區.md "wikilink")。LesPros娛樂旗下有眾多藝人（見[所屬藝人](https://zh.wikipedia.org/wiki/#所屬藝人 "wikilink")）。
 
 ## 公司歷史
 
@@ -11,7 +11,7 @@ Production系列事務所之一](../Page/Burning_Production.md "wikilink")。
 
 2001年4月，公司更名至「Levie Productions」（）\[5\]。
 
-2003年4月，加入[日本音樂事業者協會](https://zh.wikipedia.org/wiki/日本音樂事業者協會 "wikilink")\[6\]。
+2003年4月，加入[日本音樂事業者協會](../Page/日本音樂事業者協會.md "wikilink")\[6\]。
 
 2006年4月，展開第一屆「LesPros Girls」（）選秀活動\[7\]。
 
@@ -37,7 +37,7 @@ Girls」選秀活動\[12\]，更名為「LesPros次世代Star選秀2013」（）
 2013年4月，屬下公司「Holstein」更名為「LesPros Aster」（）\[14\]。
 
 2014年8月16日，LesPros參與製作的電影《[Hot
-Road](https://zh.wikipedia.org/wiki/Hot_Road_\(電影\) "wikilink")》上映。
+Road](../Page/Hot_Road_\(電影\).md "wikilink")》上映。
 
 2014年11月8日，LesPros參與製作的電影《[再一次說愛你](../Page/再一次說愛你.md "wikilink")》上映。
 
@@ -301,7 +301,7 @@ Road](https://zh.wikipedia.org/wiki/Hot_Road_\(電影\) "wikilink")》上映。
   - （引退）
 
   - [Babyraids
-    Japan](https://zh.wikipedia.org/wiki/Babyraids_Japan "wikilink")（於2018年9月24日解散）
+    Japan](../Page/Babyraids_Japan.md "wikilink")（於2018年9月24日解散）
 
   - 西川美里（）
 

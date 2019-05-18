@@ -9,7 +9,7 @@ Records發售](../Page/SME_Records.md "wikilink")。
 drops》是THE KISS Inc.「THE KISS 十人十色之愛情故事」（）的廣告歌曲\[1\]。
 
 本單曲獲hotexpress評為「色彩鮮豔的旋律，是只有十多歲的少女能夠做到的可愛，但也比前作《[夏 wanna say love
-U](https://zh.wikipedia.org/wiki/夏_wanna_say_love_U "wikilink")》顯得成熟了一點」\[2\]；Cinemaday則評價此曲為「充滿元氣的派對旋律、讓青春形象閃爍的樂曲」\[3\]。
+U](../Page/夏_wanna_say_love_U.md "wikilink")》顯得成熟了一點」\[2\]；Cinemaday則評價此曲為「充滿元氣的派對旋律、讓青春形象閃爍的樂曲」\[3\]。
 
 ## 收錄曲
 
@@ -58,9 +58,8 @@ U](https://zh.wikipedia.org/wiki/夏_wanna_say_love_U "wikilink")》顯得成熟
 
 <!-- end list -->
 
-1.  [Wonderful
-    World](https://zh.wikipedia.org/wiki/夏_wanna_say_love_U "wikilink")（We
-    are 9nine♥〜在那之後又過了1年！9nine之日特別Live〜 新宿BLAZE/2011.9.10）
+1.  [Wonderful World](../Page/夏_wanna_say_love_U.md "wikilink")（We are
+    9nine♥〜在那之後又過了1年！9nine之日特別Live〜 新宿BLAZE/2011.9.10）
 2.  We are 9nine♥〜在那之後又過了1年！9nine之日特別Live〜 新宿BLAZE offshot【本番直後編】
 3.  [交換卡片](https://zh.wikipedia.org/wiki/交換卡片 "wikilink")（Solo
     5種、團體1種、極罕有1種）

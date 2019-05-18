@@ -10,7 +10,7 @@ X。Mozart-Oz项目本身包括运行虚拟机MVM等，请见于[Mozart2-GitHub]
 
 ## 语言特性
 
-Oz大量借鉴了[Haskell](../Page/Haskell.md "wikilink")，[Lisp](../Page/Lisp.md "wikilink")，[Prolog](../Page/Prolog.md "wikilink")，[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")，[Perl](../Page/Perl.md "wikilink")，[Java等语言的特性](../Page/Java.md "wikilink")。他包含绝大多数的主要[编程范型](../Page/编程范型.md "wikilink")，包括逻辑，函数式（包括[惰性求值和](../Page/惰性求值.md "wikilink")[及早求值](https://zh.wikipedia.org/wiki/及早求值 "wikilink")）、[指令式编程](https://zh.wikipedia.org/wiki/指令式编程 "wikilink")、
+Oz大量借鉴了[Haskell](../Page/Haskell.md "wikilink")，[Lisp](https://zh.wikipedia.org/wiki/Lisp "wikilink")，[Prolog](../Page/Prolog.md "wikilink")，[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")，[Perl](../Page/Perl.md "wikilink")，[Java等语言的特性](../Page/Java.md "wikilink")。他包含绝大多数的主要[编程范型](../Page/编程范型.md "wikilink")，包括逻辑，函数式（包括[惰性求值和](../Page/惰性求值.md "wikilink")[及早求值](https://zh.wikipedia.org/wiki/及早求值 "wikilink")）、[指令式编程](https://zh.wikipedia.org/wiki/指令式编程 "wikilink")、
 [面向对象](https://zh.wikipedia.org/wiki/面向对象的程序设计 "wikilink")、[约束编程](https://zh.wikipedia.org/wiki/约束编程 "wikilink")、[分布式以及](../Page/分布式计算.md "wikilink")[并发计算等](../Page/并发计算.md "wikilink")。Oz
 的正式语法简单（详见下文提到的书中第 13 章）而实现高效.
 Oz是一个面向[并行编程的语言](https://zh.wikipedia.org/wiki/concurrency_\(computer_science\) "wikilink"),

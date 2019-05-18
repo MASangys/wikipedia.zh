@@ -35,9 +35,7 @@ Enterprise取得了COMPILE全部的电视游戏营业权](https://zh.wikipedia.o
   - [超次元游戏 海王星](https://zh.wikipedia.org/wiki/超次元游戏_海王星 "wikilink")
     2010年8月19日
   - 亞迦雷斯特戰記 2 2010年11月18日
-  - [超次元游戏
-    海王星MK2](https://zh.wikipedia.org/wiki/超次元戰記_戰機少女mk2 "wikilink")
-    2011年8月18日
+  - [超次元游戏 海王星MK2](../Page/超次元戰記_戰機少女mk2.md "wikilink") 2011年8月18日
   - 觸碰戀曲！ 〜Love Application〜 2012年2月23日
   - 征服遊戲 無限靈魂 2012年3月22日
   - [神次元游戏 海王星V](../Page/神次元戰記_戰機少女V.md "wikilink") 2012年8月30日
@@ -56,26 +54,22 @@ Enterprise取得了COMPILE全部的电视游戏营业权](https://zh.wikipedia.o
   - 〜聖魔導物語〜 2013年3月28日
   - [神次元偶像 海王星PP](../Page/神次元偶像_戰機少女PP.md "wikilink") 2013年6月20日
   - [超次次元游戏 海王星重生1](../Page/超次元戰記_戰機少女.md "wikilink") 2013年10月31日
-  - [超次次元游戏 海王星重生2
-    妹妹世代](https://zh.wikipedia.org/wiki/超次元戰記_戰機少女mk2 "wikilink")
-    2014年3月20日
+  - [超次次元游戏 海王星重生2 妹妹世代](../Page/超次元戰記_戰機少女mk2.md "wikilink") 2014年3月20日
   - 極限凸記 萌萌編年史 2014年5月15日
   - [超女神信仰 諾瓦露
     激神聖黑之心](https://zh.wikipedia.org/wiki/超女神信仰_諾瓦露_激神黑心 "wikilink")
     2014年5月29日
-  - [超次元動作 海王星U](https://zh.wikipedia.org/wiki/超次元動作_戰機少女U "wikilink")
-    2014年8月29日
+  - [超次元動作 海王星U](../Page/超次元動作_戰機少女U.md "wikilink") 2014年8月29日
   - [神次次元游戏 海王星重生3 V世紀](../Page/神次元戰記_戰機少女V.md "wikilink") 2014年12月18日
   - 魔壞神 兆力翁 2015年7月23日
   - [約會大作戰 Twin Edition
     轉世凜緒](https://zh.wikipedia.org/wiki/約會大作戰#.E9.81.8A.E6.88.B2 "wikilink")
     2015年7月30日
   - 極限凸起 萌萌水晶 2015年9月25日
-  - [激次元組合
-    海王星VS殭屍軍團](https://zh.wikipedia.org/wiki/激次元組合_戰機少女VS殭屍軍團 "wikilink")
+  - [激次元組合 海王星VS殭屍軍團](../Page/激次元組合_戰機少女VS殭屍軍團.md "wikilink")
     2015年10月15日
   - [超次元大战 海王星VS世嘉主机少女
-    梦幻合体Special](https://zh.wikipedia.org/wiki/超次元大战_海王星VS世嘉主机少女_梦幻合体Special "wikilink")
+    梦幻合体Special](../Page/超次元大战_海王星VS世嘉主机少女_梦幻合体Special.md "wikilink")
     2015年11月26日
 
 ### PlayStation 4

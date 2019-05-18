@@ -1,4 +1,4 @@
-**Twinko**為台灣的娛樂公司[紅元素娛樂旗下的第一個女子團體](https://zh.wikipedia.org/wiki/紅元素娛樂 "wikilink")，團名源自英文「**Twinkle**」，意謂如天上星辰般閃亮之意，由五個來自不同領域的女孩-[星潼](../Page/林星潼.md "wikilink")、[可青](https://zh.wikipedia.org/wiki/曾可青 "wikilink")、[凱希](../Page/徐凱希.md "wikilink")、[泫和](../Page/篠崎泫.md "wikilink")[斯亞所組成](../Page/陳斯亞.md "wikilink")。在經過三年的籌備與訓練後，2013年正式出道。2016年12月14日，[斯亞離開Twinko](../Page/陳斯亞.md "wikilink")，離開紅元素。2017年3月20日，正式宣布[語噥為Twinko的新團員](https://zh.wikipedia.org/wiki/張語噥 "wikilink")，讓Twinko升級成雙主唱；2019年，因團員徐凱希、張語噥紅元素娛樂合約陸續到期，分別加入大藝娛樂、上城娛樂經紀公司。
+**Twinko**為台灣的娛樂公司[紅元素娛樂旗下的第一個女子團體](https://zh.wikipedia.org/wiki/紅元素娛樂 "wikilink")，團名源自英文「**Twinkle**」，意謂如天上星辰般閃亮之意，由五個來自不同領域的女孩-[星潼](../Page/林星潼.md "wikilink")、[可青](https://zh.wikipedia.org/wiki/曾可青 "wikilink")、[凱希](../Page/徐凱希.md "wikilink")、[泫和](../Page/篠崎泫.md "wikilink")[斯亞所組成](../Page/陳斯亞.md "wikilink")。在經過三年的籌備與訓練後，2013年正式出道。2016年12月14日，[斯亞離開Twinko](../Page/陳斯亞.md "wikilink")，離開紅元素。2017年3月20日，正式宣布[語噥為Twinko的新團員](../Page/張語噥.md "wikilink")，讓Twinko升級成雙主唱；2019年，因團員徐凱希、張語噥紅元素娛樂合約陸續到期，分別加入大藝娛樂、上城娛樂經紀公司。
 
 ## 成員
 
@@ -17,14 +17,14 @@
 
 ### 前任成員
 
-| 成員列表                                                |
-| --------------------------------------------------- |
-| 本名                                                  |
-| [陳斯亞](../Page/陳斯亞.md "wikilink")                    |
-|                                                     |
-| [徐凱希](../Page/徐凱希.md "wikilink")                    |
-|                                                     |
-| [張語噥](https://zh.wikipedia.org/wiki/張語噥 "wikilink") |
+| 成員列表                             |
+| -------------------------------- |
+| 本名                               |
+| [陳斯亞](../Page/陳斯亞.md "wikilink") |
+|                                  |
+| [徐凱希](../Page/徐凱希.md "wikilink") |
+|                                  |
+| [張語噥](../Page/張語噥.md "wikilink") |
 
 ## 節目
 
@@ -81,7 +81,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張單曲《<a href="https://zh.wikipedia.org/wiki/Twinko_X_Crime_Craft" title="wikilink">Twinko X Crime Craft</a>》</p>
+<td><p>首張單曲《<a href="../Page/Twinko_X_Crime_Craft.md" title="wikilink">Twinko X Crime Craft</a>》</p>
 <ul>
 <li>發行日期：2013年11月14日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/國語" title="wikilink">國語</a></li>
@@ -159,7 +159,7 @@
 <tr class="even">
 <td><p><strong>Twinko</strong></p></td>
 <td><p>Crime Craft[3][4]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Twinko_X_Crime_Craft" title="wikilink">Twinko X Crime Craft</a></p></td>
+<td><p><a href="../Page/Twinko_X_Crime_Craft.md" title="wikilink">Twinko X Crime Craft</a></p></td>
 <td><p>2013年12月25日</p></td>
 <td><p>這首歌曲為<strong>Twinko</strong>成軍後推出的首張單曲</p></td>
 </tr>
@@ -211,7 +211,7 @@
 <td><p>夢遊症</p></td>
 <td><p>戀愛限定</p></td>
 <td><p>2017年4月28日</p></td>
-<td><p>電影【<a href="https://zh.wikipedia.org/wiki/最完美的女孩" title="wikilink">最完美的女孩</a>】主題曲</p></td>
+<td><p>電影【<a href="../Page/最完美的女孩.md" title="wikilink">最完美的女孩</a>】主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Twinko</strong></p></td>
@@ -270,7 +270,7 @@
 <tr class="even">
 <td><p>2015年</p></td>
 <td><p>尚未確定</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/電競高校" title="wikilink">電競高校</a>》</p></td>
+<td><p>《<a href="../Page/電競高校.md" title="wikilink">電競高校</a>》</p></td>
 <td><p>可青—<br />
 星潼—<br />
 凱希—<br />
@@ -325,7 +325,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017年4月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/最完美的女孩" title="wikilink">最完美的女孩</a></p></td>
+<td><p><a href="../Page/最完美的女孩.md" title="wikilink">最完美的女孩</a></p></td>
 <td><p>星潼-庚蒂、可青-葉欣人格之一</p></td>
 <td><p><a href="../Page/張睿家.md" title="wikilink">張睿家</a>、<a href="../Page/李毓芬.md" title="wikilink">李毓芬</a>、<a href="../Page/謝祖武.md" title="wikilink">謝祖武</a></p></td>
 <td><p>客串</p></td>

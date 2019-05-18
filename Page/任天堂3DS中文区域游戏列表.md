@@ -1,4 +1,4 @@
-[任天堂3DS是](../Page/任天堂3DS.md "wikilink")[任天堂于](../Page/任天堂.md "wikilink")2011年推出的[掌上游戏机](https://zh.wikipedia.org/wiki/掌上游戏机 "wikilink")，为[任天堂DS系列的后继机种](https://zh.wikipedia.org/wiki/任天堂DS系列 "wikilink")。公司在原版主机发行后，又陆续推出[多款改良机型](https://zh.wikipedia.org/wiki/任天堂3DS家族 "wikilink")，其中包括2012年的任天堂3DS
+[任天堂3DS是](../Page/任天堂3DS.md "wikilink")[任天堂于](../Page/任天堂.md "wikilink")2011年推出的[掌上游戏机](https://zh.wikipedia.org/wiki/掌上游戏机 "wikilink")，为[任天堂DS系列的后继机种](https://zh.wikipedia.org/wiki/任天堂DS系列 "wikilink")。公司在原版主机发行后，又陆续推出[多款改良机型](../Page/任天堂3DS家族.md "wikilink")，其中包括2012年的任天堂3DS
 XL。游戏机利用[视差障壁技術](https://zh.wikipedia.org/wiki/视差障壁 "wikilink")，可讓使用者不需配戴任何[特殊眼鏡感受立體裸眼](../Page/3D眼鏡.md "wikilink")[3D圖像效果](../Page/三维计算机图形.md "wikilink")\[1\]。任天堂香港子公司[任天堂香港和台湾子公司](https://zh.wikipedia.org/wiki/任天堂香港 "wikilink")[任天堂溥天于](../Page/任天堂溥天.md "wikilink")2012年，同步向台港澳区域推出繁体中文版3DS和3DS
 XL主机，中国大陆子公司[神游科技也于同年在当地推出iQue](../Page/神游科技.md "wikilink") 3DS XL。
 
@@ -112,7 +112,7 @@ XL主机，中国大陆子公司[神游科技也于同年在当地推出iQue](..
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/路易吉洋樓2" title="wikilink">路易吉洋樓2</a></p></td>
+<td><p><a href="../Page/路易吉洋樓2.md" title="wikilink">路易吉洋樓2</a></p></td>
 <td><p>任天堂</p></td>
 <td><p>rowspan="2" data-sort-value="20130726" | 2013年7月26日</p></td>
 <td><p>colspan="2" </p></td>
@@ -136,7 +136,7 @@ XL主机，中国大陆子公司[神游科技也于同年在当地推出iQue](..
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/怪物猎人4" title="wikilink">怪物猎人4</a></p></td>
+<td><p><a href="../Page/怪物猎人4.md" title="wikilink">怪物猎人4</a></p></td>
 <td><p>卡普空</p></td>
 <td><p>卡普空、<a href="https://zh.wikipedia.org/wiki/爱胜游戏" title="wikilink">爱胜游戏</a></p></td>
 <td><p>data-sort-value="20130914" | 2013年9月14日*</p></td>
@@ -192,7 +192,7 @@ XL主机，中国大陆子公司[神游科技也于同年在当地推出iQue](..
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/怪物猎人X" title="wikilink">怪物猎人X</a></p></td>
+<td><p><a href="../Page/怪物猎人X.md" title="wikilink">怪物猎人X</a></p></td>
 <td><p>卡普空</p></td>
 <td><p>data-sort-value="20151128" | 2015年11月28日*</p></td>
 <td></td>
@@ -208,7 +208,7 @@ XL主机，中国大陆子公司[神游科技也于同年在当地推出iQue](..
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/聖火降魔錄無雙" title="wikilink">火炎之纹章无双</a>#</p></td>
+<td><p><a href="../Page/聖火降魔錄無雙.md" title="wikilink">火炎之纹章无双</a>#</p></td>
 <td><p>任天堂</p></td>
 <td><p>data-sort-value="20170928"| 2017年9月28日*</p></td>
 <td><p>colspan="2" </p></td>
@@ -362,7 +362,7 @@ XL主机，中国大陆子公司[神游科技也于同年在当地推出iQue](..
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/塞尔达传说_众神的三角力量2" title="wikilink">塞尔达传说 众神的三角力量2</a></p></td>
+<td><p><a href="../Page/塞尔达传说_众神的三角力量2.md" title="wikilink">塞尔达传说 众神的三角力量2</a></p></td>
 <td><p>任天堂</p></td>
 <td><p>data-sort-value="20131122" | 2013年11月22日*</p></td>
 <td></td>
@@ -482,7 +482,7 @@ XL主机，中国大陆子公司[神游科技也于同年在当地推出iQue](..
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/塞尔达传说_众神的三角力量2" title="wikilink">塞尔达传说 众神的三角力量2</a></p></td>
+<td><p><a href="../Page/塞尔达传说_众神的三角力量2.md" title="wikilink">塞尔达传说 众神的三角力量2</a></p></td>
 <td><p>任天堂</p></td>
 <td><p>rowspan="6" data-sort-value="20140603" | 2014年6月3日</p></td>
 <td></td>
@@ -682,7 +682,7 @@ XL主机，中国大陆子公司[神游科技也于同年在当地推出iQue](..
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/火焰之纹章_回声_另一位英雄王" title="wikilink">火焰之纹章 回声 另一位英雄王</a></p></td>
+<td><p><a href="../Page/火焰之纹章_回声_另一位英雄王.md" title="wikilink">火焰之纹章 回声 另一位英雄王</a></p></td>
 <td><p>任天堂</p></td>
 <td><p>data-sort-value="20150715" | 2017年4月20日</p></td>
 <td></td>

@@ -587,7 +587,7 @@
     ガンキャノン)
   - [RB-79](../Page/RB-79.md "wikilink")[鐵球](https://zh.wikipedia.org/wiki/鐵球 "wikilink")([Ball](https://zh.wikipedia.org/wiki/Ball "wikilink"),
     ボール)
-  - [RX-78-2](https://zh.wikipedia.org/wiki/RX-78-2 "wikilink")[高達](https://zh.wikipedia.org/wiki/高達 "wikilink")([Gundam](../Page/Gundam.md "wikilink"),
+  - [RX-78-2](https://zh.wikipedia.org/wiki/RX-78-2 "wikilink")[高達](https://zh.wikipedia.org/wiki/高達 "wikilink")([Gundam](https://zh.wikipedia.org/wiki/Gundam "wikilink"),
     ガンダム)
   - [FF-X7](https://zh.wikipedia.org/wiki/FF-X7 "wikilink")[G-Armor](https://zh.wikipedia.org/wiki/G-Armor "wikilink")(Gアーマー)
   - [FF-X7](https://zh.wikipedia.org/wiki/FF-X7 "wikilink")[核戰機](https://zh.wikipedia.org/wiki/核戰機 "wikilink")([Core

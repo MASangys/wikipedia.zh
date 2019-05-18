@@ -22,8 +22,7 @@
   - Turk (Martial Arts)——[大塚芳忠配音](../Page/大塚芳忠.md "wikilink")\[16\]
   - Turk
     (Shotgun)——[豊口めぐみ配音](https://zh.wikipedia.org/wiki/豊口めぐみ "wikilink")\[17\]
-  - Turk
-    (Gun)——[青木麻由子配音](https://zh.wikipedia.org/wiki/青木麻由子 "wikilink")\[18\]
+  - Turk (Gun)——[青木麻由子配音](../Page/青木麻由子.md "wikilink")\[18\]
 
 ## 参考資料
 

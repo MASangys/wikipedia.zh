@@ -34,7 +34,7 @@ All-Round Appraiser Q）。
 
 ## 小說
 
-系列日文版由[角川書店發行](../Page/角川書店.md "wikilink")。第一部《万能鑑定士Q的事件簿》繁體中文版由[圓神出版社代理](https://zh.wikipedia.org/wiki/圓神出版社 "wikilink")，簡體中文版則由[天聞角川代理發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")。
+系列日文版由[角川書店發行](../Page/角川書店.md "wikilink")。第一部《万能鑑定士Q的事件簿》繁體中文版由[圓神出版社代理](../Page/圓神出版社.md "wikilink")，簡體中文版則由[天聞角川代理發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")。
 
 <table>
 <thead>
@@ -289,7 +289,7 @@ All-Round Appraiser Q）。
 
 ## 漫畫
 
-日文版由[角川書店發行](../Page/角川書店.md "wikilink")。繁體中文版由[台灣角川代理發行](../Page/台灣角川.md "wikilink")，其中香港地區代理為[香港角川](https://zh.wikipedia.org/wiki/香港角川 "wikilink")。
+日文版由[角川書店發行](../Page/角川書店.md "wikilink")。繁體中文版由[台灣角川代理發行](../Page/台灣角川.md "wikilink")，其中香港地區代理為[香港角川](../Page/香港角川.md "wikilink")。
 
 <table>
 <thead>
@@ -361,7 +361,7 @@ All-Round Appraiser Q）。
   - 流泉寺美沙：[初音映莉子](https://zh.wikipedia.org/wiki/初音映莉子 "wikilink")
   - 理查‧布爾：皮耶‧迪拉登川普
   - 朝比奈尚幸：村上弘明
-  - 荻野甲陽：[橋本潤](https://zh.wikipedia.org/wiki/橋本潤 "wikilink")
+  - 荻野甲陽：[橋本潤](../Page/橋本潤.md "wikilink")
   - 山田聰：村杉蟬之介
   - 喜屋武友禪：兒嶋一哉
   - 江來香織：角替和枝

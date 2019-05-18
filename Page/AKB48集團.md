@@ -1,12 +1,12 @@
 **AKB48集團**（，）是[日本作詞家](../Page/日本.md "wikilink")[秋元康所製作的女子](../Page/秋元康.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48及其姊妹團體](../Page/AKB48.md "wikilink")，以及這些團體所形成的[演藝企劃與品牌之合稱](https://zh.wikipedia.org/wiki/演藝 "wikilink")\[1\]\[2\]。通稱**AKB集團**（）\[3\]、**48集團**（）\[4\]，外界也使用**AKB48企劃**（）\[5\]、**AKB48家族**（）\[6\]等稱呼。有時還會使用更省略的稱呼，如**AKB48G**\[7\]、**AKBG**\[8\]、**48G**\[9\]\[10\]，或直接以**48**來表記\[11\]。
 
-AKB48集團是從日本出發、同時使用「[特許經營](../Page/加盟連鎖.md "wikilink")」的概念跨國運作的大型偶像企劃。目前在日本國內有6個團體（AKB48、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")、[HKT48](../Page/HKT48.md "wikilink")、[NGT48](https://zh.wikipedia.org/wiki/NGT48 "wikilink")、[STU48](https://zh.wikipedia.org/wiki/STU48 "wikilink")），日本以外則有4個團體（[JKT48](../Page/JKT48.md "wikilink")、[BNK48](../Page/BNK48.md "wikilink")、[AKB48
+AKB48集團是從日本出發、同時使用「[特許經營](../Page/加盟連鎖.md "wikilink")」的概念跨國運作的大型偶像企劃。目前在日本國內有6個團體（AKB48、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")、[HKT48](../Page/HKT48.md "wikilink")、[NGT48](../Page/NGT48.md "wikilink")、[STU48](../Page/STU48.md "wikilink")），日本以外則有4個團體（[JKT48](../Page/JKT48.md "wikilink")、[BNK48](../Page/BNK48.md "wikilink")、[AKB48
 Team TP](../Page/AKB48_Team_TP.md "wikilink")、[AKB48 Team
-SH](https://zh.wikipedia.org/wiki/AKB48_Team_SH "wikilink")）。在團體操作上，「AKB48集團」與「AKB48」有時不會加以區分，例如以「AKB48」名義進行的作品或活動，包括[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")、[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")、[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")、[電視節目演出等](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，除了AKB48本團之外，通常也有姊妹團體的成員參加（日本國內各團為主），實際上是整個AKB48集團在參與這些作品與活動，這在日本國內的場合尤其明顯。
+SH](../Page/AKB48_Team_SH.md "wikilink")）。在團體操作上，「AKB48集團」與「AKB48」有時不會加以區分，例如以「AKB48」名義進行的作品或活動，包括[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")、[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")、[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")、[電視節目演出等](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，除了AKB48本團之外，通常也有姊妹團體的成員參加（日本國內各團為主），實際上是整個AKB48集團在參與這些作品與活動，這在日本國內的場合尤其明顯。
 
 ## 概要
 
-[AKB48以](../Page/AKB48.md "wikilink")「可以面對面的偶像」（）為基本的運作概念，並以此概念成立多個姊妹團體，形成了AKB48集團\[12\]。各團的共通點在於各有專用的常設[劇場](../Page/劇場_\(建築\).md "wikilink")、實施定期的劇場公演、並在各地舉辦[握手會或合照會等粉絲互動活動](https://zh.wikipedia.org/wiki/握手會 "wikilink")。由於各團均有各自的活動根據地，因此具有一定的[在地偶像成分](../Page/在地偶像.md "wikilink")\[13\]。AKB48在日本全國各地的展開，源自總製作人[秋元康構思希望讓日本全國民眾都能有](../Page/秋元康.md "wikilink")「可以面對面的偶像」的體驗\[14\]，即使不方便前往[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")，也能就近在居住地最近的劇場就能接觸\[15\]。AKB48集團旗下各團的名稱，均以活動根據地所在的都市或地區的[拉丁字母](../Page/拉丁字母.md "wikilink")3字[縮寫](../Page/縮寫.md "wikilink")，加上「48」的後綴命名\[16\]。
+[AKB48以](../Page/AKB48.md "wikilink")「可以面對面的偶像」（）為基本的運作概念，並以此概念成立多個姊妹團體，形成了AKB48集團\[12\]。各團的共通點在於各有專用的常設[劇場](../Page/劇場_\(建築\).md "wikilink")、實施定期的劇場公演、並在各地舉辦[握手會或合照會等粉絲互動活動](../Page/握手會.md "wikilink")。由於各團均有各自的活動根據地，因此具有一定的[在地偶像成分](../Page/在地偶像.md "wikilink")\[13\]。AKB48在日本全國各地的展開，源自總製作人[秋元康構思希望讓日本全國民眾都能有](../Page/秋元康.md "wikilink")「可以面對面的偶像」的體驗\[14\]，即使不方便前往[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")，也能就近在居住地最近的劇場就能接觸\[15\]。AKB48集團旗下各團的名稱，均以活動根據地所在的都市或地區的[拉丁字母](../Page/拉丁字母.md "wikilink")3字[縮寫](../Page/縮寫.md "wikilink")，加上「48」的後綴命名\[16\]。
 
 AKB48集團不只在日本，也在[亞洲各地開枝散葉](https://zh.wikipedia.org/wiki/亞洲 "wikilink")\[17\]。AKB48集團在日本以外的團體，是將AKB48的整套操作系統原汁原味的向外輸出，讓世界各地的人們能接觸與接受日本的偶像文化\[18\]，可視為「[酷日本](../Page/酷日本.md "wikilink")」戰略的一環\[19\]\[20\]。AKB48集團於日本以外的各團，在日本經常被合稱為「海外姊妹團體」\[21\]\[22\]。
 
@@ -15,7 +15,7 @@ AKB48集團特色為人數眾多，並且有正規成員與[研究生](https://z
 截至2019年2月10日
 ，AKB48集團在日本國內的在籍成員總數為**394人**，包含日本以外則為**655人**（詳細請見[後述](https://zh.wikipedia.org/wiki/#人數 "wikilink")）。
 
-AKB48集團的成員如果離開團體，與一般的日本偶像團體一樣以「[畢業](https://zh.wikipedia.org/wiki/畢業_\(演藝界\) "wikilink")」稱之\[23\]。秋元康認為AKB48是只是一個過程，是為了達成未來夢想（此指藝人的志向）的踏腳石\[24\]。成員們畢業的同時，也會定期舉行新成員的徵選募集，透過「畢業」與「募集」的循環，讓團體能夠持續經營下去\[25\]。
+AKB48集團的成員如果離開團體，與一般的日本偶像團體一樣以「[畢業](../Page/畢業_\(演藝界\).md "wikilink")」稱之\[23\]。秋元康認為AKB48是只是一個過程，是為了達成未來夢想（此指藝人的志向）的踏腳石\[24\]。成員們畢業的同時，也會定期舉行新成員的徵選募集，透過「畢業」與「募集」的循環，讓團體能夠持續經營下去\[25\]。
 
 「AKB48集團」的稱呼，在AKB48成立第一個姊妹團體[SKE48時還不存在](../Page/SKE48.md "wikilink")。該稱呼首次的運用，是在2011年5月24日至6月12日舉行的演唱會《[「獻給錯過的你們」～AKB48集團全公演～](../Page/「獻給錯過的你們」～AKB48全體總動員公演～.md "wikilink")》\[26\]\[27\]，之後在2011年左右逐漸由AKB48營運方運用，至2013年4月起更被大幅使用，遂成為正式稱呼\[28\]。
 
@@ -68,14 +68,14 @@ AKB48集團的成員如果離開團體，與一般的日本偶像團體一樣以
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/NGT48" title="wikilink">NGT48</a></p></td>
+<td><p><a href="../Page/NGT48.md" title="wikilink">NGT48</a></p></td>
 <td><p>2015年8月 -</p></td>
 <td><p><a href="../Page/新潟市.md" title="wikilink">新潟市</a></p></td>
 <td><p>白色  紅色</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/STU48" title="wikilink">STU48</a></p></td>
+<td><p><a href="../Page/STU48.md" title="wikilink">STU48</a></p></td>
 <td><p>2017年3月 -</p></td>
 <td><p><a href="../Page/瀨戶內地方.md" title="wikilink">瀨戶內7縣</a></p></td>
 <td><p>水藍色與白色交叉（背景）</p></td>
@@ -117,14 +117,14 @@ AKB48集團的成員如果離開團體，與一般的日本偶像團體一樣以
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48_Team_SH" title="wikilink">AKB48 Team SH</a></p></td>
+<td><p><a href="../Page/AKB48_Team_SH.md" title="wikilink">AKB48 Team SH</a></p></td>
 <td><p>2018年 -</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海</a></p></td>
 <td><p>白色底色與  淡紅色</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/SGO48" title="wikilink">SGO48</a></p></td>
+<td><p><a href="../Page/SGO48.md" title="wikilink">SGO48</a></p></td>
 <td><p>2018年 -</p></td>
 <td></td>
 <td><p><a href="../Page/胡志明市.md" title="wikilink">胡志明市</a>（西貢）</p></td>
@@ -138,7 +138,7 @@ AKB48集團的成員如果離開團體，與一般的日本偶像團體一樣以
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/MUM48" title="wikilink">MUM48</a></p></td>
+<td><p><a href="../Page/MUM48.md" title="wikilink">MUM48</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孟買" title="wikilink">孟買</a></p></td>
@@ -364,7 +364,7 @@ TextData =
 <td><p>2017年4月12日<br />
 「<a href="https://zh.wikipedia.org/wiki/青春時計" title="wikilink">青春時計</a>」[52]</p></td>
 <td><p>2018年1月31日<br />
-「<a href="https://zh.wikipedia.org/wiki/暗闇" title="wikilink">暗闇</a>」[53]</p></td>
+「<a href="../Page/暗闇.md" title="wikilink">暗闇</a>」[53]</p></td>
 </tr>
 <tr class="even">
 <td><p>活動結束</p></td>
@@ -447,7 +447,7 @@ TextData =
 <td><p>2017年8月8日<br />
 《Aitakatta》[65]</p></td>
 <td><p>2018年12月25日<br />
-《<a href="https://zh.wikipedia.org/wiki/勇往直前_(AKB48_Team_TP單曲)" title="wikilink">勇往直前</a>》</p></td>
+《<a href="../Page/勇往直前_(AKB48_Team_TP單曲).md" title="wikilink">勇往直前</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -495,7 +495,7 @@ Entertainment\[74\]、MNL48がHallohalloとなっている。
 <tr class="even">
 <td><p>SKE48</p></td>
 <td><p>AKS</p></td>
-<td><p><a href="../Page/avex_trax.md" title="wikilink">avex trax</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax</a><br />
 （<a href="https://zh.wikipedia.org/wiki/エイベックス・エンタテインメント" title="wikilink">エイベックス・エンタテインメント</a>）</p></td>
 <td><p>SKE48劇場<br />
 （<a href="https://zh.wikipedia.org/wiki/サンシャイン栄" title="wikilink">サンシャイン栄</a> 2階）</p></td>
@@ -801,9 +801,9 @@ AKB48グループにおいては、各チームならびにグループ全体の
     *斜体*は今後、就任予定のメンバー。各グループの過去の役職など詳細については各グループの項目を参照。
       - [AKB48](https://zh.wikipedia.org/wiki/AKB48#歴代キャプテン "wikilink")
     :; チームA
-    :: キャプテン：[岡部麟](https://zh.wikipedia.org/wiki/岡部麟 "wikilink")
+    :: キャプテン：[岡部麟](../Page/岡部麟.md "wikilink")
     :; チームK
-    :: キャプテン：[込山榛香](https://zh.wikipedia.org/wiki/込山榛香 "wikilink")
+    :: キャプテン：[込山榛香](../Page/込山榛香.md "wikilink")
     :; チームB
     :: キャプテン：[高橋朱里](../Page/高橋朱里.md "wikilink")
     :; チーム4
@@ -818,7 +818,7 @@ AKB48グループにおいては、各チームならびにグループ全体の
         [斉藤真木子](https://zh.wikipedia.org/wiki/斉藤真木子 "wikilink")
 
           - チームS
-            リーダー：[北川綾巴](https://zh.wikipedia.org/wiki/北川綾巴 "wikilink")、副リーダー：不在
+            リーダー：[北川綾巴](../Page/北川綾巴.md "wikilink")、副リーダー：不在
           - チームKII
             リーダー：[大場美奈](../Page/大場美奈.md "wikilink")、副リーダー：内山命
           - チームE
@@ -832,7 +832,7 @@ AKB48グループにおいては、各チームならびにグループ全体の
           - チームM
             キャプテン：川上禮奈、副キャプテン：磯佳奈江
           - チームBII
-            キャプテン：久代梨奈、副キャプテン：[沖田彩華](https://zh.wikipedia.org/wiki/沖田彩華 "wikilink")
+            キャプテン：久代梨奈、副キャプテン：[沖田彩華](../Page/沖田彩華.md "wikilink")
 
       - [HKT48](https://zh.wikipedia.org/wiki/HKT48#歴代キャプテン "wikilink")
     :; チームH
@@ -854,7 +854,7 @@ AKB48グループにおいては、各チームならびにグループ全体の
       -
 
           -
-            キャプテン：[本間日陽](https://zh.wikipedia.org/wiki/本間日陽 "wikilink")、副キャプテン：山口真帆
+            キャプテン：[本間日陽](../Page/本間日陽.md "wikilink")、副キャプテン：山口真帆
 
       - STU48
         岡田奈々
@@ -1004,7 +1004,7 @@ AKB48グループにおいては、各チームならびにグループ全体の
 
 ## 關聯項目
 
-  - [坂道系列](https://zh.wikipedia.org/wiki/坂道系列 "wikilink")
+  - [坂道系列](../Page/坂道系列.md "wikilink")
 
 ## 外部鏈結
 
@@ -1037,7 +1037,7 @@ AKB48グループにおいては、各チームならびにグループ全体の
 
   - [AKB48グループ ×
     SHOWROOMメンバー個人配信](https://www.showroom-live.com/campaign/akb48_sr)
-    - [SHOWROOM](https://zh.wikipedia.org/wiki/SHOWROOM "wikilink")
+    - [SHOWROOM](../Page/SHOWROOM.md "wikilink")
 
   -
   -

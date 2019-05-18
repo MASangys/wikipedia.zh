@@ -4,7 +4,7 @@ Cartledge，服務於[加拿大](../Page/加拿大.md "wikilink")[皇后大學](
 ## 參見
 
   - [IEEE量子電子學期刊](../Page/IEEE量子電子學期刊.md "wikilink")
-  - [國際量子信息期刊](https://zh.wikipedia.org/wiki/國際量子信息期刊 "wikilink")
+  - [國際量子信息期刊](../Page/國際量子信息期刊.md "wikilink")
 
 ## 註釋
 

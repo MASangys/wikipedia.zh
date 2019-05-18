@@ -261,12 +261,12 @@ Not yours\!
 
 後來更和哈爾展開決戰而敗，之後戒指便被基格沃格破壞，而聖納托也被囚禁起來。
 
-在[蓋伊·加德納被](https://zh.wikipedia.org/wiki/蓋伊·加德納 "wikilink")[百烈煞擊倒後](https://zh.wikipedia.org/wiki/百烈煞 "wikilink")，聖納托穿著新的黃光戰衣，並撤退到反物質宇宙，之後歷經一年的時間打造了他的聖納托軍團\[5\]
+在[蓋伊·加德納被](https://zh.wikipedia.org/wiki/蓋伊·加德納 "wikilink")[百烈煞擊倒後](../Page/百烈煞.md "wikilink")，聖納托穿著新的黃光戰衣，並撤退到反物質宇宙，之後歷經一年的時間打造了他的聖納托軍團\[5\]
 。
 
 [聖納托軍團首領為](https://zh.wikipedia.org/wiki/聖納托軍團 "wikilink")[聖納托](https://zh.wikipedia.org/wiki/聖納托 "wikilink")
 
-燈獸：[百烈煞](https://zh.wikipedia.org/wiki/百烈煞 "wikilink")
+燈獸：[百烈煞](../Page/百烈煞.md "wikilink")
 
 #### 能力
 

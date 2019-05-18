@@ -82,7 +82,7 @@ KF-DET型[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")，最大馬
 3,000rpm。變速系統則有CVT、四速自排、五速手排等共三種，以日本測試平均[油耗可達](../Page/汽车燃油经济性.md "wikilink")24.0km/L。
 
 2012年 - 12月10日發表衍生車款「[Pleo
-Plus](https://zh.wikipedia.org/wiki/速霸陸Pleo_Plus "wikilink")」，為的兄弟車。
+Plus](../Page/速霸陸Pleo_Plus.md "wikilink")」，為的兄弟車。
 
 2013年 - 變更車型，將原先搭載CVT變速系統的車型併入Pleo Plus，並將珍珠白車色改以純白代替。
 
@@ -99,8 +99,7 @@ Interior.jpg|內裝
 ## 內部連結
 
   - [速霸陸Vivio](../Page/速霸陸Vivio.md "wikilink")
-  - [速霸陸Pleo
-    Plus](https://zh.wikipedia.org/wiki/速霸陸Pleo_Plus "wikilink")
+  - [速霸陸Pleo Plus](../Page/速霸陸Pleo_Plus.md "wikilink")
 
 ## 參考資料
 

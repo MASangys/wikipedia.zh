@@ -7,7 +7,7 @@ BEST**》是日本音樂組合[CAPSULE第](../Page/CAPSULE.md "wikilink")1張[�
   - 初回限定盤DVD收錄了「FLASH BACK (Extended-Live
     mix)」「JUMPER」「[可攜式機場](../Page/可攜式機場.md "wikilink")」「[space
     station
-    No.9](../Page/space_station_No.9.md "wikilink")」「[飛天都市計畫](../Page/飛天都市計畫.md "wikilink")」「Glider」「Sugarless
+    No.9](https://zh.wikipedia.org/wiki/space_station_No.9 "wikilink")」「[飛天都市計畫](../Page/飛天都市計畫.md "wikilink")」「Glider」「Sugarless
     GiRL」的PV。
 
 ## 收錄曲

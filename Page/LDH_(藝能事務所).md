@@ -1,5 +1,5 @@
 **株式會社LDH JAPAN**（*LDH JAPAN
-Inc.*）是[日本的](../Page/日本.md "wikilink")[演藝](https://zh.wikipedia.org/wiki/演藝 "wikilink")[經紀及綜合](../Page/經紀公司.md "wikilink")[娛樂公司](https://zh.wikipedia.org/wiki/娛樂 "wikilink")，於2002年10月17日由[放浪兄弟](../Page/放浪兄弟.md "wikilink")（EXILE）的6名初期成員出資成立。公司名稱是其成立宗旨「**<u>L</u>**ove,
+Inc.*）是[日本的](../Page/日本.md "wikilink")[演藝](https://zh.wikipedia.org/wiki/演藝 "wikilink")[經紀及綜合](../Page/經紀公司.md "wikilink")[娛樂公司](../Page/娛樂.md "wikilink")，於2002年10月17日由[放浪兄弟](../Page/放浪兄弟.md "wikilink")（EXILE）的6名初期成員出資成立。公司名稱是其成立宗旨「**<u>L</u>**ove,
 **<u>D</u>**ream,
 **<u>H</u>**appiness」的縮寫。旗下擁有[放浪一族](https://zh.wikipedia.org/wiki/放浪一族 "wikilink")（EXILE
 TRIBE）、[E.G.family等眾多](https://zh.wikipedia.org/wiki/#E.G.family "wikilink")[歌舞系的藝人及音樂組合](https://zh.wikipedia.org/wiki/歌舞系 "wikilink")。
@@ -8,7 +8,7 @@ TRIBE）、[E.G.family等眾多](https://zh.wikipedia.org/wiki/#E.G.family "wiki
 
 2002年10月17日，當時規定成立公司要資本金300萬日元，EXILE初期成員6人各出資50萬日元。在青山區的大廈成立「EXILE
 ENTERTAINMENT
-有限公司」（エグザイルエンタテイメント有限会社），由HIRO（[五十嵐廣行](../Page/五十嵐廣行.md "wikilink")）擔任第一任[代表取締役](https://zh.wikipedia.org/wiki/代表董事 "wikilink")[社長](https://zh.wikipedia.org/wiki/社長 "wikilink")，其他成員是公司職員。
+有限公司」（エグザイルエンタテイメント有限会社），由HIRO（[五十嵐廣行](../Page/五十嵐廣行.md "wikilink")）擔任第一任[代表取締役](../Page/代表董事.md "wikilink")[社長](https://zh.wikipedia.org/wiki/社長 "wikilink")，其他成員是公司職員。
 
 2003年9月18日，由[佐田真由美](../Page/佐田真由美.md "wikilink")、[巖堀SERI等所屬的模特兒經紀公司](https://zh.wikipedia.org/wiki/巖堀SERI "wikilink")「Three
 Points股份有限公司」及「EXILE
@@ -35,7 +35,7 @@ EUROPE」、及總括所有的「LDH WORLD」\[2\]。
   - [城戸愛莉](https://zh.wikipedia.org/wiki/城戸愛莉 "wikilink")
   - [桃生亜希子](https://zh.wikipedia.org/wiki/桃生亜希子 "wikilink")
   - [山口五和](https://zh.wikipedia.org/wiki/山口五和 "wikilink")
-  - [石井杏奈](https://zh.wikipedia.org/wiki/石井杏奈 "wikilink")
+  - [石井杏奈](../Page/石井杏奈.md "wikilink")
   - [Taylor鈴木](https://zh.wikipedia.org/wiki/Taylor鈴木 "wikilink")
   - [佐原Monica](https://zh.wikipedia.org/wiki/佐原Monica "wikilink")
   - [松本理沙](https://zh.wikipedia.org/wiki/松本理沙 "wikilink")
@@ -63,7 +63,7 @@ EUROPE」、及總括所有的「LDH WORLD」\[2\]。
     TRIBE](https://zh.wikipedia.org/wiki/GENERATIONS "wikilink")
   - [鹽之谷早耶香](https://zh.wikipedia.org/wiki/鹽之谷早耶香 "wikilink")
   - [THE RAMPAGE from EXILE
-    TRIBE](https://zh.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE "wikilink")
+    TRIBE](../Page/THE_RAMPAGE_from_EXILE_TRIBE.md "wikilink")
   - [克莉絲朵·凱兒](../Page/克莉絲朵·凱兒.md "wikilink")
   - Leola
   - [JAY'ED](https://zh.wikipedia.org/wiki/JAY'ED "wikilink")
@@ -95,8 +95,8 @@ EUROPE」、及總括所有的「LDH WORLD」\[2\]。
   - [小澤雄太](https://zh.wikipedia.org/wiki/小澤雄太 "wikilink")
   - [鈴木伸之](../Page/鈴木伸之.md "wikilink")
   - [町田啓太](https://zh.wikipedia.org/wiki/町田啓太 "wikilink")
-  - [小野塚勇人](https://zh.wikipedia.org/wiki/小野塚勇人 "wikilink")
-  - [野替愁平](https://zh.wikipedia.org/wiki/野替愁平 "wikilink")
+  - [小野塚勇人](../Page/小野塚勇人.md "wikilink")
+  - [野替愁平](../Page/野替愁平.md "wikilink")
   - [八木將康](https://zh.wikipedia.org/wiki/八木將康 "wikilink")
   - [佐藤寛太](https://zh.wikipedia.org/wiki/佐藤寛太 "wikilink")
 
@@ -198,8 +198,7 @@ EUROPE」、及總括所有的「LDH WORLD」\[2\]。
 
 ## 關連項目
 
-  - [EXPG](https://zh.wikipedia.org/wiki/EXPG "wikilink") -
-    LDH運營的舞蹈及聲樂學校。
+  - [EXPG](../Page/EXPG.md "wikilink") - LDH運營的舞蹈及聲樂學校。
   - [月刊EXILE](../Page/月刊EXILE.md "wikilink") - LDH magazine所發行的月刊雜誌。
 
 ## 參考資料

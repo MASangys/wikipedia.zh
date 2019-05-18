@@ -327,7 +327,7 @@ WIXOSS》於2016年2月13日公開決定，並在同年8月24放映。
 <td><p>Episode03</p></td>
 <td></td>
 <td><p>這份安穩是戲言</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/下田正美" title="wikilink">下田正美</a></p></td>
+<td><p><a href="../Page/下田正美.md" title="wikilink">下田正美</a></p></td>
 <td><p>鈴木洋平</p></td>
 <td><p>村上雄、芝田千紗<br />
 藤部生馬、德田賢朗<br />
@@ -669,7 +669,7 @@ WIXOSS》於2016年2月13日公開決定，並在同年8月24放映。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/萬代頻道" title="wikilink">萬代頻道</a></p></td>
+<td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
 <td></td>
 <td></td>
 <td></td>

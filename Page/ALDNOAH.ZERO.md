@@ -466,7 +466,7 @@ drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景
   - 音樂：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")
   - 音樂製作：[Aniplex](../Page/Aniplex.md "wikilink")
   - 動畫製作：[A-1
-    Pictures](../Page/A-1_Pictures.md "wikilink")×[TROYCA](https://zh.wikipedia.org/wiki/TROYCA "wikilink")
+    Pictures](../Page/A-1_Pictures.md "wikilink")×[TROYCA](../Page/TROYCA.md "wikilink")
   - 製作：Aniplex、[芳文社](../Page/芳文社.md "wikilink")、[TOKYO
     MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[日本BS放送](../Page/日本BS放送.md "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[MAGES](https://zh.wikipedia.org/wiki/MAGES "wikilink")、[Nitro+](../Page/Nitro+.md "wikilink")、Movic
 
@@ -742,7 +742,7 @@ Lee Min Bae</p></td>
 -This Side of Paradise-</p></td>
 <td><p>沉睡的月之少女</p></td>
 <td><p>高山克彥</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/稻垣隆行" title="wikilink">稻垣隆行</a></p></td>
+<td><p><a href="../Page/稻垣隆行.md" title="wikilink">稻垣隆行</a></p></td>
 <td><p>渡部周</p></td>
 <td><p>松本昌子、佐藤道夫</p></td>
 </tr>
@@ -774,10 +774,10 @@ Lee Min Bae</p></td>
 <td><p><br />
 -Soldiers' Pay-</p></td>
 <td><p>熱砂的進擊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大西信介" title="wikilink">大西信介</a></p></td>
+<td><p><a href="../Page/大西信介.md" title="wikilink">大西信介</a></p></td>
 <td><p>松村康弘</p></td>
 <td><p>服部憲知、向山裕治<br />
-<a href="https://zh.wikipedia.org/wiki/神戶洋行" title="wikilink">神戶洋行</a>、佐藤道夫<br />
+<a href="../Page/神戶洋行.md" title="wikilink">神戶洋行</a>、佐藤道夫<br />
 豬口美緒</p></td>
 <td></td>
 </tr>
@@ -891,7 +891,7 @@ kim bongduk</p></td>
 | 日本全國                                                              | [NICONICO直播](https://zh.wikipedia.org/wiki/NICONICO直播 "wikilink") | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink") |                                                                                                               |                                                           |           |
 | [NICONICO頻道](https://zh.wikipedia.org/wiki/NICONICO頻道 "wikilink") | 星期六 24時30分 更新                                                     |                                                       |                                                                                                               |                                                           |           |
 | [近畿廣域圈](https://zh.wikipedia.org/wiki/近畿廣域圈 "wikilink")           | [朝日放送](../Page/朝日放送.md "wikilink")                                | 2014年7月9日－9月24日                                       | 星期三 26時44分－27時14分                                                                                             | [朝日電視網](https://zh.wikipedia.org/wiki/朝日電視網 "wikilink")   |           |
-| 日本全國                                                              | [萬代頻道](https://zh.wikipedia.org/wiki/萬代頻道 "wikilink")             | 2014年7月10日－9月26日                                      | 星期四 12時00分 更新                                                                                                 | 網絡電視                                                      |           |
+| 日本全國                                                              | [萬代頻道](../Page/萬代頻道.md "wikilink")                                | 2014年7月10日－9月26日                                      | 星期四 12時00分 更新                                                                                                 | 網絡電視                                                      |           |
 | GyaO\!                                                            |                                                                   |                                                       |                                                                                                               |                                                           |           |
 | d Anime Store                                                     |                                                                   |                                                       |                                                                                                               |                                                           |           |
 | [AT-X](../Page/AT-X.md "wikilink")                                | 2014年7月12日－9月27日                                                  | 星期六 18時30分－19時00分                                     | 衞星電視                                                                                                          | 有重播                                                       |           |

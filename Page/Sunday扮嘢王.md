@@ -1,11 +1,11 @@
-《**Sunday扮嘢王**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的](../Page/電視廣播有限公司.md "wikilink")「扮嘢」綜藝節目，由[薛家燕](../Page/薛家燕.md "wikilink")、[王祖藍擔任主持](../Page/王祖藍.md "wikilink")。本節目於香港時間2014年7月27日起，逢星期日21:00-22:00於[翡翠台和](../Page/翡翠台.md "wikilink")[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，並於[myTV提供節目重溫](../Page/myTV.md "wikilink")。節目於2014年[萬千星輝頒獎典禮中獲得](../Page/萬千星輝頒獎典禮.md "wikilink")**最佳綜藝節目**以及**最佳節目主持**兩項大獎。2014[TVB
+《**Sunday扮嘢王**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的](../Page/電視廣播有限公司.md "wikilink")「扮嘢」綜藝節目，由[薛家燕](../Page/薛家燕.md "wikilink")、[王祖藍擔任主持](../Page/王祖藍.md "wikilink")。本節目於香港時間2014年7月27日起，逢星期日21:00-22:00於[翡翠台和](../Page/翡翠台.md "wikilink")[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，並於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。節目於2014年[萬千星輝頒獎典禮中獲得](../Page/萬千星輝頒獎典禮.md "wikilink")**最佳綜藝節目**以及**最佳節目主持**兩項大獎。2014[TVB
 Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 
 ## 節目簡介
 
 TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](../Page/鄭少秋.md "wikilink")、[盧海鵬](../Page/盧海鵬.md "wikilink")、「[福祿壽](../Page/福祿壽.md "wikilink")」等，贏盡觀眾掌聲！為發掘新一代「扮嘢王」接棒，由「扮嘢」天后[薛家燕與](../Page/薛家燕.md "wikilink")「百變」天王[王祖藍主持的全新遊戲綜藝節目](../Page/王祖藍.md "wikilink")《**Sunday扮嘢王**》，召集全台「扮嘢」能手來個每週大比拼，更廣邀娛樂圈中好友盡情發揮「扮嘢」潛能，扮鬼扮馬，與觀眾一同輕鬆、歡笑放暑假！
 
-兩位「扮嘢」主持每週均會分組比拼對壘！德高望重的「扮嘢」天后家燕姐率領[王俊棠](../Page/王俊棠.md "wikilink")、[魯振順](../Page/魯振順.md "wikilink")、[王維德](../Page/王維德.md "wikilink")、[鄭世豪四位猛將](../Page/鄭世豪.md "wikilink")，迎戰「百變」天王祖藍領軍的後起之秀，[蝦頭](https://zh.wikipedia.org/wiki/楊詩敏 "wikilink")、[鄭欣宜](../Page/鄭欣宜.md "wikilink")、[陳嘉佳](https://zh.wikipedia.org/wiki/陳嘉佳 "wikilink")（小寶）、[何遠東](https://zh.wikipedia.org/wiki/何遠東 "wikilink")、[張致恆](../Page/張致恆.md "wikilink")，兩隊「扮嘢高手」每週以兩至三個回合大鬥「扮嘢」絕技，爭奪代表著「扮嘢王」最高榮譽的黃金面具獎座，並由嘉賓評判及現場觀眾即場評分，累積分數最高一隊，即成為終極「扮嘢王」！
+兩位「扮嘢」主持每週均會分組比拼對壘！德高望重的「扮嘢」天后家燕姐率領[王俊棠](../Page/王俊棠.md "wikilink")、[魯振順](../Page/魯振順.md "wikilink")、[王維德](../Page/王維德.md "wikilink")、[鄭世豪四位猛將](../Page/鄭世豪.md "wikilink")，迎戰「百變」天王祖藍領軍的後起之秀，[蝦頭](https://zh.wikipedia.org/wiki/楊詩敏 "wikilink")、[鄭欣宜](../Page/鄭欣宜.md "wikilink")、[陳嘉佳](https://zh.wikipedia.org/wiki/陳嘉佳 "wikilink")（小寶）、[何遠東](../Page/何遠東.md "wikilink")、[張致恆](../Page/張致恆.md "wikilink")，兩隊「扮嘢高手」每週以兩至三個回合大鬥「扮嘢」絕技，爭奪代表著「扮嘢王」最高榮譽的黃金面具獎座，並由嘉賓評判及現場觀眾即場評分，累積分數最高一隊，即成為終極「扮嘢王」！
 
 為了承傳「扮嘢」的優良傳統，節目特設「扮嘢生力軍」環節，每集網羅兩名精於「扮嘢之術」的歌手、藝人登台比拚，展現鮮為人知的「扮嘢」本領。家燕姐與祖藍會按照「生力軍」的臨場發揮及現場觀眾的評分，決定是否將其收歸旗下，還能將「生力軍」的得分加入「己隊」當晚總分，增強實力之餘，隨時扭轉形勢！
 
@@ -26,7 +26,7 @@ TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](..
 <td><p>「扮嘢」第一戰</p></td>
 <td><p><span style="color:red;">狂派</span>：</p>
 <ul>
-<li><a href="../Page/王俊棠.md" title="wikilink">王俊棠</a>、<a href="../Page/王維德.md" title="wikilink">王維德</a>、<a href="../Page/魯振順.md" title="wikilink">魯振順</a> 飾 天堂老鳥（模仿<a href="https://zh.wikipedia.org/wiki/BOP_(組合)" title="wikilink">天堂鳥</a>）、<a href="https://zh.wikipedia.org/wiki/BOP_(組合)" title="wikilink">天堂鳥</a>——《登陸太陽》</li>
+<li><a href="../Page/王俊棠.md" title="wikilink">王俊棠</a>、<a href="../Page/王維德.md" title="wikilink">王維德</a>、<a href="../Page/魯振順.md" title="wikilink">魯振順</a> 飾 天堂老鳥（模仿<a href="../Page/BOP_(組合).md" title="wikilink">天堂鳥</a>）、<a href="../Page/BOP_(組合).md" title="wikilink">天堂鳥</a>——《登陸太陽》</li>
 <li><a href="../Page/薛家燕.md" title="wikilink">薛家燕</a> 飾 J.E.N （模仿<a href="https://zh.wikipedia.org/wiki/鄧紫棋" title="wikilink">鄧紫棋</a>）——《A.I.N.Y.》</li>
 </ul>
 <p><span style="color:blue;">搏派</span>：</p>
@@ -43,7 +43,7 @@ TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](..
 <p>扮嘢新力軍：</p>
 <ul>
 <li><a href="../Page/張振朗.md" title="wikilink">張振朗</a> 模仿 <a href="https://zh.wikipedia.org/wiki/衝上雲霄II#顧家" title="wikilink">顧夏陽</a> (<a href="../Page/張智霖.md" title="wikilink">張智霖飾</a>)——《歲月如歌》 - 加入<span style="color:red;">狂派</span></li>
-<li><a href="https://zh.wikipedia.org/wiki/方紹聰" title="wikilink">方紹聰</a> 模仿 <a href="../Page/郭富城.md" title="wikilink">郭富城</a>——《失憶諒解備忘錄》 - 進入<span style="color:green;">扮嘢回收箱</span></li>
+<li><a href="../Page/方紹聰.md" title="wikilink">方紹聰</a> 模仿 <a href="../Page/郭富城.md" title="wikilink">郭富城</a>——《失憶諒解備忘錄》 - 進入<span style="color:green;">扮嘢回收箱</span></li>
 </ul>
 <p>孤獨評判團：<a href="https://zh.wikipedia.org/wiki/王菀之" title="wikilink">王菀之</a></p></td>
 <td><p>狂派</p></td>
@@ -60,7 +60,7 @@ TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](..
 <p><span style="color:blue;">搏派</span>：</p>
 <ul>
 <li><a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">蝦　頭</a> 飾 徐子蝦（模仿<a href="../Page/徐子珊.md" title="wikilink">徐子珊</a>）、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a> 飾 Hate（模仿<a href="../Page/徐子珊.md" title="wikilink">徐子珊</a>）——《Hit Me》</li>
-<li><a href="../Page/王祖藍.md" title="wikilink">王祖藍</a> 模仿 <a href="https://zh.wikipedia.org/wiki/Faith_(組合)#成員" title="wikilink">李昀致（Sky）</a> 、<a href="../Page/張致恆.md" title="wikilink">張致恆</a> 模仿 <a href="https://zh.wikipedia.org/wiki/Faith_(組合)#成員" title="wikilink">蔡子軒（Wave）</a>、<a href="../Page/李豪.md" title="wikilink">李豪</a> 模仿 <a href="https://zh.wikipedia.org/wiki/Faith_(組合)#成員" title="wikilink">蘇曉陽（HiuYong）</a> 合飾 飛夫（模仿<a href="https://zh.wikipedia.org/wiki/Faith_(組合)" title="wikilink">Faith</a>）、<a href="https://zh.wikipedia.org/wiki/Faith_(組合)" title="wikilink">Faith</a>——《Ma Ma Easy》</li>
+<li><a href="../Page/王祖藍.md" title="wikilink">王祖藍</a> 模仿 <a href="https://zh.wikipedia.org/wiki/Faith_(組合)#成員" title="wikilink">李昀致（Sky）</a> 、<a href="../Page/張致恆.md" title="wikilink">張致恆</a> 模仿 <a href="https://zh.wikipedia.org/wiki/Faith_(組合)#成員" title="wikilink">蔡子軒（Wave）</a>、<a href="../Page/李豪.md" title="wikilink">李豪</a> 模仿 <a href="https://zh.wikipedia.org/wiki/Faith_(組合)#成員" title="wikilink">蘇曉陽（HiuYong）</a> 合飾 飛夫（模仿<a href="../Page/Faith_(組合).md" title="wikilink">Faith</a>）、<a href="../Page/Faith_(組合).md" title="wikilink">Faith</a>——《Ma Ma Easy》</li>
 </ul>
 <p>模仿趣劇《十月初五之衝上雲霄》：</p>
 <ul>
@@ -86,8 +86,8 @@ TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](..
 </ul>
 <p><span style="color:blue;">搏派</span>：</p>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">蝦　頭</a> 飾 麥瓊瓊（模仿<a href="../Page/麥玲玲.md" title="wikilink">麥玲玲</a>）、<a href="https://zh.wikipedia.org/wiki/姚兵" title="wikilink">姚兵</a> 飾 6永（模仿<a href="https://zh.wikipedia.org/wiki/陸永權" title="wikilink">陸永權</a>）、<a href="https://zh.wikipedia.org/wiki/鄭詩君" title="wikilink">C君</a>、<a href="../Page/麥玲玲.md" title="wikilink">麥玲玲</a>——《風生水起》</li>
-<li><a href="https://zh.wikipedia.org/wiki/何遠東" title="wikilink">何遠東</a> 飾 史力鴉（模仿<a href="https://zh.wikipedia.org/wiki/史力加#主角" title="wikilink">史力加</a> (<a href="../Page/黃秋生.md" title="wikilink">黃秋生配音</a>)）、<a href="https://zh.wikipedia.org/wiki/陳嘉佳" title="wikilink">小寶</a> 飾 廢corner公主（模仿<a href="https://zh.wikipedia.org/wiki/史力加#主角" title="wikilink">費歐娜公主</a> (<a href="../Page/曾秀清.md" title="wikilink">曾秀清配音</a>)）</li>
+<li><a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">蝦　頭</a> 飾 麥瓊瓊（模仿<a href="../Page/麥玲玲.md" title="wikilink">麥玲玲</a>）、<a href="../Page/姚兵.md" title="wikilink">姚兵</a> 飾 6永（模仿<a href="https://zh.wikipedia.org/wiki/陸永權" title="wikilink">陸永權</a>）、<a href="https://zh.wikipedia.org/wiki/鄭詩君" title="wikilink">C君</a>、<a href="../Page/麥玲玲.md" title="wikilink">麥玲玲</a>——《風生水起》</li>
+<li><a href="../Page/何遠東.md" title="wikilink">何遠東</a> 飾 史力鴉（模仿<a href="https://zh.wikipedia.org/wiki/史力加#主角" title="wikilink">史力加</a> (<a href="../Page/黃秋生.md" title="wikilink">黃秋生配音</a>)）、<a href="https://zh.wikipedia.org/wiki/陳嘉佳" title="wikilink">小寶</a> 飾 廢corner公主（模仿<a href="https://zh.wikipedia.org/wiki/史力加#主角" title="wikilink">費歐娜公主</a> (<a href="../Page/曾秀清.md" title="wikilink">曾秀清配音</a>)）</li>
 </ul>
 <p>模仿趣劇《來自藍星的你》：</p>
 <ul>
@@ -139,8 +139,8 @@ TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](..
 <p><span style="color:blue;">搏派</span>：</p>
 <ul>
 <li><a href="https://zh.wikipedia.org/wiki/陳嘉佳" title="wikilink">小寶</a> 飾 功夫小熊貓（模仿<a href="https://zh.wikipedia.org/wiki/功夫熊貓#主角" title="wikilink">阿寶</a> (<a href="../Page/陳奕迅.md" title="wikilink">陳奕迅配音</a>)）——《功夫小熊貓》</li>
-<li><a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">蝦　頭</a> 飾 小地毯（模仿<a href="https://zh.wikipedia.org/wiki/我係小忌廉#主角" title="wikilink">小忌廉</a> (<a href="../Page/孫明貞.md" title="wikilink">孫明貞配音</a>)）、<a href="https://zh.wikipedia.org/wiki/何遠東" title="wikilink">何遠東</a> 飾 俊輕（模仿<a href="https://zh.wikipedia.org/wiki/我係小忌廉#主角" title="wikilink">俊興</a> (<a href="https://zh.wikipedia.org/wiki/馮錦堂" title="wikilink">馮錦堂配音</a>)）——《我係小忌廉》</li>
-<li><a href="../Page/王祖藍.md" title="wikilink">王祖藍</a> 飾 矮仙人（模仿<a href="../Page/龜仙人.md" title="wikilink">龜仙人</a>）、<a href="https://zh.wikipedia.org/wiki/姚兵" title="wikilink">姚兵</a> 飾 唔通（模仿<a href="https://zh.wikipedia.org/wiki/孫悟空_(七龍珠)" title="wikilink">孫悟空</a>）、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a> 飾 魔人布甸（模仿<a href="../Page/魔人布歐.md" title="wikilink">魔人布歐</a>）、<a href="https://zh.wikipedia.org/wiki/何遠東" title="wikilink">何遠東</a> 飾 扮王（模仿<a href="https://zh.wikipedia.org/wiki/龍珠角色及譯名列表#龍珠Z" title="wikilink">界王</a>）——《龍珠》</li>
+<li><a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">蝦　頭</a> 飾 小地毯（模仿<a href="https://zh.wikipedia.org/wiki/我係小忌廉#主角" title="wikilink">小忌廉</a> (<a href="../Page/孫明貞.md" title="wikilink">孫明貞配音</a>)）、<a href="../Page/何遠東.md" title="wikilink">何遠東</a> 飾 俊輕（模仿<a href="https://zh.wikipedia.org/wiki/我係小忌廉#主角" title="wikilink">俊興</a> (<a href="https://zh.wikipedia.org/wiki/馮錦堂" title="wikilink">馮錦堂配音</a>)）——《我係小忌廉》</li>
+<li><a href="../Page/王祖藍.md" title="wikilink">王祖藍</a> 飾 矮仙人（模仿<a href="../Page/龜仙人.md" title="wikilink">龜仙人</a>）、<a href="../Page/姚兵.md" title="wikilink">姚兵</a> 飾 唔通（模仿<a href="https://zh.wikipedia.org/wiki/孫悟空_(七龍珠)" title="wikilink">孫悟空</a>）、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a> 飾 魔人布甸（模仿<a href="../Page/魔人布歐.md" title="wikilink">魔人布歐</a>）、<a href="../Page/何遠東.md" title="wikilink">何遠東</a> 飾 扮王（模仿<a href="https://zh.wikipedia.org/wiki/龍珠角色及譯名列表#龍珠Z" title="wikilink">界王</a>）——《龍珠》</li>
 </ul>
 <p>扮嘢新力軍：</p>
 <ul>
@@ -161,7 +161,7 @@ TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](..
 </ul>
 <p><span style="color:blue;">搏派</span>：</p>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/何遠東" title="wikilink">何遠東</a>、<a href="../Page/陳芷尤.md" title="wikilink">陳芷尤</a>、<a href="https://zh.wikipedia.org/wiki/劉溫馨" title="wikilink">劉溫馨</a>、<a href="../Page/林穎彤.md" title="wikilink">林穎彤</a> 飾 四個金瓜（模仿<a href="../Page/四朵金花.md" title="wikilink">四朵金花</a>：順序為<a href="../Page/沈殿霞.md" title="wikilink">沈殿霞</a>、<a href="../Page/王愛明.md" title="wikilink">王愛明</a>、<a href="../Page/汪明荃.md" title="wikilink">汪明荃</a>、<a href="../Page/張德蘭.md" title="wikilink">張德蘭</a> ）——《四朵金花》</li>
+<li><a href="../Page/何遠東.md" title="wikilink">何遠東</a>、<a href="../Page/陳芷尤.md" title="wikilink">陳芷尤</a>、<a href="../Page/劉溫馨.md" title="wikilink">劉溫馨</a>、<a href="../Page/林穎彤.md" title="wikilink">林穎彤</a> 飾 四個金瓜（模仿<a href="../Page/四朵金花.md" title="wikilink">四朵金花</a>：順序為<a href="../Page/沈殿霞.md" title="wikilink">沈殿霞</a>、<a href="../Page/王愛明.md" title="wikilink">王愛明</a>、<a href="../Page/汪明荃.md" title="wikilink">汪明荃</a>、<a href="../Page/張德蘭.md" title="wikilink">張德蘭</a> ）——《四朵金花》</li>
 <li><a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">蝦　頭</a> 飾 阿妹（模仿<a href="../Page/張惠妹.md" title="wikilink">張惠妹</a>）——《Bad Boy》</li>
 <li><a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a> 飾 沙連跌Watt（模仿<a href="../Page/席琳·狄翁.md" title="wikilink">席琳·狄翁</a>）、<a href="../Page/周子揚.md" title="wikilink">周子揚</a> 飾 Jack（模仿<a href="https://zh.wikipedia.org/wiki/泰坦尼克號_(1997年電影)#虛構人物" title="wikilink">Jack Dawson</a>）、<a href="https://zh.wikipedia.org/wiki/陳嘉佳" title="wikilink">小寶</a> 飾 Rose（模仿<a href="https://zh.wikipedia.org/wiki/泰坦尼克號_(1997年電影)#虛構人物" title="wikilink">Rose DeWitt Bukater</a>）——《My Heart Will Go On》</li>
 </ul>
@@ -179,12 +179,12 @@ TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](..
 <td><p><span style="color:red;">狂派</span>：</p>
 <ul>
 <li><a href="../Page/王俊棠.md" title="wikilink">王俊棠</a> 飾 阿D（模仿<a href="../Page/鍾鎮濤.md" title="wikilink">鍾鎮濤</a>）、<a href="../Page/王維德.md" title="wikilink">王維德</a> 飾 阿祥（模仿<a href="https://zh.wikipedia.org/wiki/葉智強" title="wikilink">葉智強</a>）、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a> 飾 塵友（模仿<a href="https://zh.wikipedia.org/wiki/陳友" title="wikilink">陳友</a>）、<a href="../Page/張振朗.md" title="wikilink">張振朗</a> 飾 阿輪（模仿<a href="../Page/譚詠麟.md" title="wikilink">譚詠麟</a>）、<a href="../Page/彭永琛.md" title="wikilink">彭永琛</a> 飾 彭健琛（模仿<a href="../Page/彭健新.md" title="wikilink">彭健新</a>） 合飾 雲喱拿（模仿<a href="../Page/溫拿樂隊.md" title="wikilink">溫拿樂隊</a>）——《齊心就事成》</li>
-<li><a href="../Page/魯振順.md" title="wikilink">魯振順</a> 飾 李滔 （模仿<a href="https://zh.wikipedia.org/wiki/拾音社#成員" title="wikilink">李滔</a>）、<a href="https://zh.wikipedia.org/wiki/何廣沛" title="wikilink">何廣沛</a> 飾 何栢誠 （模仿<a href="https://zh.wikipedia.org/wiki/拾音社#成員" title="wikilink">何栢誠</a>）、<a href="https://zh.wikipedia.org/wiki/陳華鑫" title="wikilink">陳華鑫</a>、<a href="https://zh.wikipedia.org/wiki/梁茵_(演員)" title="wikilink">梁茵</a> 合飾 拾金社（模仿<a href="https://zh.wikipedia.org/wiki/拾音社" title="wikilink">拾音社</a>）——《Kiss Kiss Kiss》</li>
-<li><a href="../Page/薛家燕.md" title="wikilink">薛家燕</a> 飾 阿姐（模仿<a href="../Page/汪明荃.md" title="wikilink">汪明荃</a>）、<a href="../Page/王俊棠.md" title="wikilink">王俊棠</a>、<a href="../Page/魯振順.md" title="wikilink">魯振順</a>、<a href="../Page/王維德.md" title="wikilink">王維德</a>、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>、<a href="../Page/張振朗.md" title="wikilink">張振朗</a>、<a href="../Page/彭永琛.md" title="wikilink">彭永琛</a>、<a href="https://zh.wikipedia.org/wiki/何廣沛" title="wikilink">何廣沛</a>——《熱咖啡》</li>
+<li><a href="../Page/魯振順.md" title="wikilink">魯振順</a> 飾 李滔 （模仿<a href="https://zh.wikipedia.org/wiki/拾音社#成員" title="wikilink">李滔</a>）、<a href="../Page/何廣沛.md" title="wikilink">何廣沛</a> 飾 何栢誠 （模仿<a href="https://zh.wikipedia.org/wiki/拾音社#成員" title="wikilink">何栢誠</a>）、<a href="../Page/陳華鑫.md" title="wikilink">陳華鑫</a>、<a href="../Page/梁茵_(演員).md" title="wikilink">梁茵</a> 合飾 拾金社（模仿<a href="../Page/拾音社.md" title="wikilink">拾音社</a>）——《Kiss Kiss Kiss》</li>
+<li><a href="../Page/薛家燕.md" title="wikilink">薛家燕</a> 飾 阿姐（模仿<a href="../Page/汪明荃.md" title="wikilink">汪明荃</a>）、<a href="../Page/王俊棠.md" title="wikilink">王俊棠</a>、<a href="../Page/魯振順.md" title="wikilink">魯振順</a>、<a href="../Page/王維德.md" title="wikilink">王維德</a>、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>、<a href="../Page/張振朗.md" title="wikilink">張振朗</a>、<a href="../Page/彭永琛.md" title="wikilink">彭永琛</a>、<a href="../Page/何廣沛.md" title="wikilink">何廣沛</a>——《熱咖啡》</li>
 </ul>
 <p><span style="color:blue;">搏派</span>：</p>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">蝦　頭</a> 飾 梅豔蝦（模仿<a href="https://zh.wikipedia.org/wiki/梅豔芳" title="wikilink">梅豔芳</a>）、<a href="../Page/王祖藍.md" title="wikilink">王祖藍</a>、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a>、<a href="https://zh.wikipedia.org/wiki/姚兵" title="wikilink">姚兵</a>、<a href="../Page/林穎彤.md" title="wikilink">林穎彤</a>——《風的季節》</li>
+<li><a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">蝦　頭</a> 飾 梅豔蝦（模仿<a href="https://zh.wikipedia.org/wiki/梅豔芳" title="wikilink">梅豔芳</a>）、<a href="../Page/王祖藍.md" title="wikilink">王祖藍</a>、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a>、<a href="../Page/姚兵.md" title="wikilink">姚兵</a>、<a href="../Page/林穎彤.md" title="wikilink">林穎彤</a>——《風的季節》</li>
 <li><a href="../Page/泰臣_(藝人).md" title="wikilink">泰　臣</a> 飾 蜜瓜（模仿光頭佬 (<a href="https://zh.wikipedia.org/wiki/最佳拍檔#演員名單" title="wikilink">麥嘉</a> 飾)）、<a href="../Page/周子揚.md" title="wikilink">周子揚</a> 飾 King Kong（模仿<a href="https://zh.wikipedia.org/wiki/最佳拍檔#演員名單" title="wikilink">KING KONG</a> (<a href="../Page/許冠傑.md" title="wikilink">許冠傑</a> 飾)）合飾 最佳拍檔（模仿<a href="../Page/最佳拍檔.md" title="wikilink">最佳拍檔</a>）——《最佳拍檔》</li>
 <li><a href="../Page/王祖藍.md" title="wikilink">王祖藍</a>、<a href="https://zh.wikipedia.org/wiki/赖慰玲" title="wikilink">赖慰玲</a>、<a href="../Page/陳芷尤.md" title="wikilink">陳芷尤</a> 飾 Espresso （模仿<a href="../Page/林芊妤.md" title="wikilink">林芊妤</a>）——《Hot Coffee》（原曲：《熱咖啡》）</li>
 </ul>
@@ -209,12 +209,12 @@ TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](..
 <p><span style="color:blue;">搏派</span>：</p>
 <ul>
 <li><a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">蝦　頭</a> 飾 阿花（模仿<a href="https://zh.wikipedia.org/wiki/As_One#成員資料" title="wikilink">邱念恩（Elfa）</a>）、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a> 飾 Shan（模仿<a href="https://zh.wikipedia.org/wiki/As_One#成員資料" title="wikilink">吳思佳（Shin）</a>）、<a href="https://zh.wikipedia.org/wiki/陳嘉佳" title="wikilink">小寶</a> 飾 Oil（模仿<a href="https://zh.wikipedia.org/wiki/黃佳宜" title="wikilink">黃佳宜（Oli）</a>）、<a href="../Page/馬蹄露_(藝人).md" title="wikilink">馬蹄露</a> 飾 Nuta（模仿<a href="https://zh.wikipedia.org/wiki/As_One#成員資料" title="wikilink">陳苑澄（Nata）</a>） 合飾 Big One（模仿<a href="../Page/As_One.md" title="wikilink">As One</a>）——《Catch Me Up》</li>
-<li><a href="../Page/泰臣_(藝人).md" title="wikilink">泰　臣</a> 模仿 <a href="https://zh.wikipedia.org/wiki/92黑玫瑰對黑玫瑰#人物角色" title="wikilink">呂奇</a>（<a href="../Page/梁家輝.md" title="wikilink">梁家輝</a> 飾）、<a href="https://zh.wikipedia.org/wiki/赖慰玲" title="wikilink">赖慰玲</a> 模仿 <a href="https://zh.wikipedia.org/wiki/92黑玫瑰對黑玫瑰#人物角色" title="wikilink">豔芬</a>（<a href="https://zh.wikipedia.org/wiki/黃韻詩" title="wikilink">黃韻詩</a> 飾）、 <a href="../Page/周子揚.md" title="wikilink">周子揚</a>、<a href="https://zh.wikipedia.org/wiki/姚兵" title="wikilink">姚兵</a> —— 《黑玫瑰》</li>
+<li><a href="../Page/泰臣_(藝人).md" title="wikilink">泰　臣</a> 模仿 <a href="https://zh.wikipedia.org/wiki/92黑玫瑰對黑玫瑰#人物角色" title="wikilink">呂奇</a>（<a href="../Page/梁家輝.md" title="wikilink">梁家輝</a> 飾）、<a href="https://zh.wikipedia.org/wiki/赖慰玲" title="wikilink">赖慰玲</a> 模仿 <a href="https://zh.wikipedia.org/wiki/92黑玫瑰對黑玫瑰#人物角色" title="wikilink">豔芬</a>（<a href="https://zh.wikipedia.org/wiki/黃韻詩" title="wikilink">黃韻詩</a> 飾）、 <a href="../Page/周子揚.md" title="wikilink">周子揚</a>、<a href="../Page/姚兵.md" title="wikilink">姚兵</a> —— 《黑玫瑰》</li>
 <li><a href="../Page/王祖藍.md" title="wikilink">王祖藍</a> 飾 小光（模仿<a href="../Page/方力申.md" title="wikilink">方力申</a>）、<a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">蝦　頭</a> 飾 鄧麗奀(Step肥)（模仿<a href="../Page/鄧麗欣.md" title="wikilink">鄧麗欣</a>(Stephy)） ——《好心好報》</li>
 </ul>
 <p>扮嘢新力軍：</p>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/莫家淦" title="wikilink">莫家淦</a> 模仿 <a href="../Page/張國榮.md" title="wikilink">張國榮</a> —— 《當年情》 - 加入<span style="color:blue;">搏派</span></li>
+<li><a href="../Page/莫家淦.md" title="wikilink">莫家淦</a> 模仿 <a href="../Page/張國榮.md" title="wikilink">張國榮</a> —— 《當年情》 - 加入<span style="color:blue;">搏派</span></li>
 <li><a href="../Page/黃建東.md" title="wikilink">黃建東</a> 模仿 <a href="../Page/羅文.md" title="wikilink">羅文</a> —— 《激光中》 - 加入<span style="color:red;">狂派</span></li>
 </ul>
 <p>孤獨評判團：<a href="../Page/阮小儀.md" title="wikilink">阮小儀</a>、<a href="../Page/方力申.md" title="wikilink">方力申</a></p></td>
@@ -226,19 +226,19 @@ TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](..
 <td><p>「沒女」招親大派對</p></td>
 <td><p><span style="color:red;">狂派</span>：</p>
 <ul>
-<li><a href="../Page/王俊棠.md" title="wikilink">王俊棠</a>、<a href="../Page/王維德.md" title="wikilink">王維德</a>、<a href="../Page/魯振順.md" title="wikilink">魯振順</a>、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>、<a href="../Page/黃建東.md" title="wikilink">黃建東</a>、<a href="https://zh.wikipedia.org/wiki/何廣沛" title="wikilink">何廣沛</a> 飾 Village Buddies（模仿<a href="../Page/村民_(樂團).md" title="wikilink">村民</a>）——《YMCA》</li>
+<li><a href="../Page/王俊棠.md" title="wikilink">王俊棠</a>、<a href="../Page/王維德.md" title="wikilink">王維德</a>、<a href="../Page/魯振順.md" title="wikilink">魯振順</a>、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>、<a href="../Page/黃建東.md" title="wikilink">黃建東</a>、<a href="../Page/何廣沛.md" title="wikilink">何廣沛</a> 飾 Village Buddies（模仿<a href="../Page/村民_(樂團).md" title="wikilink">村民</a>）——《YMCA》</li>
 <li><a href="../Page/彭永琛.md" title="wikilink">彭永琛</a> 飾 狂傑（模仿<a href="https://zh.wikipedia.org/wiki/王傑" title="wikilink">王傑</a>）、<a href="../Page/張振朗.md" title="wikilink">張振朗</a> 飾 謝檸檬（模仿<a href="../Page/謝霆鋒.md" title="wikilink">謝霆鋒</a>）——《誰明浪子心/玉蝴蝶》</li>
 </ul>
 <p><span style="color:blue;">搏派</span>：</p>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/BOP_(組合)" title="wikilink">天堂鳥</a>：<a href="https://zh.wikipedia.org/wiki/BOP_(組合)#成員" title="wikilink">葉灝基（Gordon）</a> 飾 污Wei康（模仿<a href="../Page/胡渭康.md" title="wikilink">胡渭康</a>）、<a href="https://zh.wikipedia.org/wiki/BOP_(組合)#成員" title="wikilink">許俊豪（Lincoln）</a> 飾 酸梅湯（模仿<a href="https://zh.wikipedia.org/wiki/孫明光" title="wikilink">孫明光</a>）、<a href="https://zh.wikipedia.org/wiki/BOP_(組合)#成員" title="wikilink">歐鎮源（Tyrese）</a> 飾 Lam俐（模仿<a href="../Page/林利.md" title="wikilink">林利</a>）合飾 小獅隊（模仿<a href="../Page/小虎隊_(香港).md" title="wikilink">小虎隊</a>）——《忍著淚說Goodbye》</li>
+<li><a href="../Page/BOP_(組合).md" title="wikilink">天堂鳥</a>：<a href="https://zh.wikipedia.org/wiki/BOP_(組合)#成員" title="wikilink">葉灝基（Gordon）</a> 飾 污Wei康（模仿<a href="../Page/胡渭康.md" title="wikilink">胡渭康</a>）、<a href="https://zh.wikipedia.org/wiki/BOP_(組合)#成員" title="wikilink">許俊豪（Lincoln）</a> 飾 酸梅湯（模仿<a href="https://zh.wikipedia.org/wiki/孫明光" title="wikilink">孫明光</a>）、<a href="https://zh.wikipedia.org/wiki/BOP_(組合)#成員" title="wikilink">歐鎮源（Tyrese）</a> 飾 Lam俐（模仿<a href="../Page/林利.md" title="wikilink">林利</a>）合飾 小獅隊（模仿<a href="../Page/小虎隊_(香港).md" title="wikilink">小虎隊</a>）——《忍著淚說Goodbye》</li>
 <li><a href="../Page/王祖藍.md" title="wikilink">王祖藍</a> 飾 豬主席（模仿<a href="https://zh.wikipedia.org/wiki/朱壽仁" title="wikilink">朱壽仁</a>）、<a href="../Page/彭家麗.md" title="wikilink">彭家麗</a> —— 《從不喜歡孤單一個》</li>
 </ul>
 <p>特別嘉賓：<a href="../Page/彭家麗.md" title="wikilink">彭家麗</a> ——《從今喜歡孤單一個》</p>
 <p>模仿趣劇《倩女也招親》：</p>
 <ul>
 <li><span style="color:red;">狂派</span>：<a href="../Page/薛家燕.md" title="wikilink">薛家燕</a> 飾 聖婆煩（模仿<a href="https://zh.wikipedia.org/wiki/羅蘭" title="wikilink">羅蘭</a>）、<a href="../Page/王俊棠.md" title="wikilink">王俊棠</a> 飾 捉鬼霞（模仿<a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">燕赤霞</a> (<a href="../Page/午馬.md" title="wikilink">午馬飾</a>)）、<a href="https://zh.wikipedia.org/wiki/溫超" title="wikilink">溫超</a> 飾 回魂Leon（模仿<a href="../Page/回魂夜_(1995年電影).md" title="wikilink">Leon</a> (<a href="../Page/周星馳.md" title="wikilink">周星馳飾</a>)）、<a href="../Page/沈卓盈.md" title="wikilink">沈卓盈</a> 飾 姥姥（模仿<a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">姥姥</a> (<a href="../Page/劉兆銘.md" title="wikilink">劉兆銘飾</a>)）</li>
-<li><span style="color:blue;">搏派</span>：<a href="https://zh.wikipedia.org/wiki/莫家淦" title="wikilink">莫家淦飾</a> 唔睬神（模仿<a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">寧采臣</a> (<a href="../Page/張國榮.md" title="wikilink">張國榮飾</a>)）、<a href="../Page/周子揚.md" title="wikilink">周子揚</a> 飾 狼人（模仿<a href="../Page/金鋼狼.md" title="wikilink">金鋼狼</a>）、<a href="../Page/王祖藍.md" title="wikilink">王祖藍</a> 飾 小倩／Meggie（模仿<a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">聶小倩</a> (<a href="../Page/王祖賢.md" title="wikilink">王祖賢飾</a>)／《<a href="https://zh.wikipedia.org/wiki/沒女大翻身" title="wikilink">沒女大翻身</a>》Meggie）</li>
+<li><span style="color:blue;">搏派</span>：<a href="../Page/莫家淦.md" title="wikilink">莫家淦飾</a> 唔睬神（模仿<a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">寧采臣</a> (<a href="../Page/張國榮.md" title="wikilink">張國榮飾</a>)）、<a href="../Page/周子揚.md" title="wikilink">周子揚</a> 飾 狼人（模仿<a href="../Page/金鋼狼.md" title="wikilink">金鋼狼</a>）、<a href="../Page/王祖藍.md" title="wikilink">王祖藍</a> 飾 小倩／Meggie（模仿<a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">聶小倩</a> (<a href="../Page/王祖賢.md" title="wikilink">王祖賢飾</a>)／《<a href="https://zh.wikipedia.org/wiki/沒女大翻身" title="wikilink">沒女大翻身</a>》Meggie）</li>
 </ul>
 <p>扮嘢新力軍：</p>
 <ul>
@@ -266,25 +266,25 @@ TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](..
 <li><a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">蝦　頭</a> 飾 一番娜（模仿<a href="https://zh.wikipedia.org/wiki/王菀之" title="wikilink">王菀之</a>）——《牛雜》（原曲：《留白》）</li>
 <li><a href="../Page/泰臣_(藝人).md" title="wikilink">泰　臣</a> 飾 搵光（模仿<a href="../Page/尹光.md" title="wikilink">尹光</a>）——《荷里活大酒店》</li>
 <li><a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a> 飾 技安Say（模仿<a href="https://zh.wikipedia.org/wiki/碧昂絲·諾利斯" title="wikilink">碧昂絲·諾利斯</a>）、<a href="https://zh.wikipedia.org/wiki/陳嘉佳" title="wikilink">小寶</a> 飾 Fat D Gaga（模仿<a href="../Page/Lady_Gaga.md" title="wikilink">Lady Gaga</a>）——《Telephone》</li>
-<li><a href="https://zh.wikipedia.org/wiki/BOP_(組合)" title="wikilink">天堂鳥</a>：<a href="https://zh.wikipedia.org/wiki/BOP_(組合)#成員" title="wikilink">葉灝基（Gordon）</a> 飾 菜一墊（模仿<a href="../Page/蔡一智.md" title="wikilink">蔡一智</a>）、<a href="https://zh.wikipedia.org/wiki/BOP_(組合)#成員" title="wikilink">許俊豪（Lincoln）</a> 飾 菜一碟（模仿<a href="../Page/蔡一傑.md" title="wikilink">蔡一傑</a>）、<a href="https://zh.wikipedia.org/wiki/BOP_(組合)#成員" title="wikilink">歐鎮源（Tyrese）</a> 飾 蘇至咸（模仿<a href="../Page/蘇志威.md" title="wikilink">蘇志威</a>）合飾 嫂蜢（模仿<a href="../Page/草蜢_(組合).md" title="wikilink">草蜢</a>）——《失戀（泰文版）》</li>
+<li><a href="../Page/BOP_(組合).md" title="wikilink">天堂鳥</a>：<a href="https://zh.wikipedia.org/wiki/BOP_(組合)#成員" title="wikilink">葉灝基（Gordon）</a> 飾 菜一墊（模仿<a href="../Page/蔡一智.md" title="wikilink">蔡一智</a>）、<a href="https://zh.wikipedia.org/wiki/BOP_(組合)#成員" title="wikilink">許俊豪（Lincoln）</a> 飾 菜一碟（模仿<a href="../Page/蔡一傑.md" title="wikilink">蔡一傑</a>）、<a href="https://zh.wikipedia.org/wiki/BOP_(組合)#成員" title="wikilink">歐鎮源（Tyrese）</a> 飾 蘇至咸（模仿<a href="../Page/蘇志威.md" title="wikilink">蘇志威</a>）合飾 嫂蜢（模仿<a href="../Page/草蜢_(組合).md" title="wikilink">草蜢</a>）——《失戀（泰文版）》</li>
 <li><a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a> 飾 杜麗瓜（模仿<a href="../Page/杜麗莎.md" title="wikilink">杜麗莎</a>）、<a href="../Page/杜麗莎.md" title="wikilink">杜麗莎</a> ——《仍然記得嗰一次》</li>
 <li><a href="../Page/王祖藍.md" title="wikilink">王祖藍</a> 飾 張惡友（模仿<a href="https://zh.wikipedia.org/wiki/張學友" title="wikilink">張學友</a>）、<a href="../Page/杜麗莎.md" title="wikilink">杜麗莎</a> ——《愛是永恒》</li>
 <li><a href="../Page/張致恆.md" title="wikilink">張致恆</a> 飾 Danny（模仿<a href="../Page/陳百強.md" title="wikilink">陳百強</a>）——《一生何求》</li>
-<li><a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">蝦　頭</a> 飾 梅姐（模仿<a href="https://zh.wikipedia.org/wiki/梅豔芳" title="wikilink">梅豔芳</a>）、<a href="https://zh.wikipedia.org/wiki/BOP_(組合)" title="wikilink">天堂鳥</a> 飾 嫂蜢（模仿<a href="../Page/草蜢_(組合).md" title="wikilink">草蜢</a>）——《將冰山劈開》</li>
+<li><a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">蝦　頭</a> 飾 梅姐（模仿<a href="https://zh.wikipedia.org/wiki/梅豔芳" title="wikilink">梅豔芳</a>）、<a href="../Page/BOP_(組合).md" title="wikilink">天堂鳥</a> 飾 嫂蜢（模仿<a href="../Page/草蜢_(組合).md" title="wikilink">草蜢</a>）——《將冰山劈開》</li>
 <li><a href="../Page/泰臣_(藝人).md" title="wikilink">泰　臣</a> 飾 霑叔（模仿<a href="../Page/黃霑.md" title="wikilink">黃霑</a>）——《江山如此多FUN》</li>
 <li><a href="../Page/周子揚.md" title="wikilink">周子揚</a> 飾 家駒（模仿<a href="../Page/黃家駒.md" title="wikilink">黃家駒</a>）——《光輝歲月》</li>
 </ul>
 <p>特別嘉賓：<a href="../Page/杜麗莎.md" title="wikilink">杜麗莎</a> ——《假如》</p>
 <p><span style="color:purple;">狂派搏派混合</span>：</p>
 <ul>
-<li><a href="../Page/王俊棠.md" title="wikilink">王俊棠</a> 飾 Hi 5 德（模仿<a href="../Page/劉賢德.md" title="wikilink">劉賢德</a>） 、<a href="../Page/彭永琛.md" title="wikilink">彭永琛</a> 飾 L拔（模仿<a href="../Page/雷有曜.md" title="wikilink">雷有曜</a>） 、<a href="../Page/周子揚.md" title="wikilink">周子揚</a> 飾 Pat直（模仿<a href="../Page/雷有暉.md" title="wikilink">雷有暉</a>） 、<a href="https://zh.wikipedia.org/wiki/姚兵" title="wikilink">姚兵</a> 飾 Kaly湯（模仿<a href="../Page/唐奕聰.md" title="wikilink">唐奕聰</a>） 、<a href="../Page/張致恆.md" title="wikilink">張致恆</a> 飾 Joe姨（模仿<a href="../Page/鄧建明.md" title="wikilink">鄧建明</a>）合飾 太勁（模仿<a href="../Page/太極樂隊.md" title="wikilink">太極樂隊</a>） ——《紅色跑車》</li>
-<li><a href="../Page/陳芷尤.md" title="wikilink">陳芷尤</a> 飾 Yummy（模仿<a href="https://zh.wikipedia.org/wiki/陳穎欣" title="wikilink">陳穎欣</a>） 、<a href="https://zh.wikipedia.org/wiki/劉溫馨" title="wikilink">劉溫馨</a> 飾 Subwonla（模仿<a href="https://zh.wikipedia.org/wiki/吳嘉熙" title="wikilink">吳嘉熙</a>） 、<a href="../Page/林穎彤.md" title="wikilink">林穎彤</a> 飾 Aba（模仿<a href="https://zh.wikipedia.org/wiki/趙慧珊" title="wikilink">趙慧珊</a>） 、<a href="../Page/何傲兒.md" title="wikilink">何傲兒</a> 飾 High D（模仿<a href="https://zh.wikipedia.org/wiki/李靜儀" title="wikilink">李靜儀</a>） 、<a href="../Page/陳明恩.md" title="wikilink">陳明恩</a> 飾 Jackica（模仿<a href="https://zh.wikipedia.org/wiki/蔡明芳" title="wikilink">蔡明芳</a>）合飾 Supper Girls（模仿<a href="https://zh.wikipedia.org/wiki/Super_Girls" title="wikilink">Super Girls</a>）、<a href="https://zh.wikipedia.org/wiki/Super_Girls" title="wikilink">Super Girls</a> ——《鎂光燈下》</li>
-<li><a href="../Page/李豪.md" title="wikilink">李豪</a> 飾 吳酸（模仿<a href="../Page/吳尊.md" title="wikilink">吳尊</a>） 、<a href="https://zh.wikipedia.org/wiki/莫家淦" title="wikilink">莫家淦</a> 飾 汪東星（模仿<a href="../Page/汪東城.md" title="wikilink">汪東城</a>） 、<a href="https://zh.wikipedia.org/wiki/何廣沛" title="wikilink">何廣沛</a> 飾 炎阿倫（模仿<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>）、<a href="../Page/黃耀英.md" title="wikilink">黃耀英</a> 飾 神亦瘀（模仿<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>）合飾 飛落海（模仿<a href="../Page/飛輪海.md" title="wikilink">飛輪海</a>） ——《出神入化》</li>
+<li><a href="../Page/王俊棠.md" title="wikilink">王俊棠</a> 飾 Hi 5 德（模仿<a href="../Page/劉賢德.md" title="wikilink">劉賢德</a>） 、<a href="../Page/彭永琛.md" title="wikilink">彭永琛</a> 飾 L拔（模仿<a href="../Page/雷有曜.md" title="wikilink">雷有曜</a>） 、<a href="../Page/周子揚.md" title="wikilink">周子揚</a> 飾 Pat直（模仿<a href="../Page/雷有暉.md" title="wikilink">雷有暉</a>） 、<a href="../Page/姚兵.md" title="wikilink">姚兵</a> 飾 Kaly湯（模仿<a href="../Page/唐奕聰.md" title="wikilink">唐奕聰</a>） 、<a href="../Page/張致恆.md" title="wikilink">張致恆</a> 飾 Joe姨（模仿<a href="../Page/鄧建明.md" title="wikilink">鄧建明</a>）合飾 太勁（模仿<a href="../Page/太極樂隊.md" title="wikilink">太極樂隊</a>） ——《紅色跑車》</li>
+<li><a href="../Page/陳芷尤.md" title="wikilink">陳芷尤</a> 飾 Yummy（模仿<a href="https://zh.wikipedia.org/wiki/陳穎欣" title="wikilink">陳穎欣</a>） 、<a href="../Page/劉溫馨.md" title="wikilink">劉溫馨</a> 飾 Subwonla（模仿<a href="../Page/吳嘉熙.md" title="wikilink">吳嘉熙</a>） 、<a href="../Page/林穎彤.md" title="wikilink">林穎彤</a> 飾 Aba（模仿<a href="../Page/趙慧珊.md" title="wikilink">趙慧珊</a>） 、<a href="../Page/何傲兒.md" title="wikilink">何傲兒</a> 飾 High D（模仿<a href="../Page/李靜儀.md" title="wikilink">李靜儀</a>） 、<a href="../Page/陳明恩.md" title="wikilink">陳明恩</a> 飾 Jackica（模仿<a href="https://zh.wikipedia.org/wiki/蔡明芳" title="wikilink">蔡明芳</a>）合飾 Supper Girls（模仿<a href="https://zh.wikipedia.org/wiki/Super_Girls" title="wikilink">Super Girls</a>）、<a href="https://zh.wikipedia.org/wiki/Super_Girls" title="wikilink">Super Girls</a> ——《鎂光燈下》</li>
+<li><a href="../Page/李豪.md" title="wikilink">李豪</a> 飾 吳酸（模仿<a href="../Page/吳尊.md" title="wikilink">吳尊</a>） 、<a href="../Page/莫家淦.md" title="wikilink">莫家淦</a> 飾 汪東星（模仿<a href="../Page/汪東城.md" title="wikilink">汪東城</a>） 、<a href="../Page/何廣沛.md" title="wikilink">何廣沛</a> 飾 炎阿倫（模仿<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>）、<a href="../Page/黃耀英.md" title="wikilink">黃耀英</a> 飾 神亦瘀（模仿<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>）合飾 飛落海（模仿<a href="../Page/飛輪海.md" title="wikilink">飛輪海</a>） ——《出神入化》</li>
 <li><a href="../Page/薛家燕.md" title="wikilink">薛家燕</a> 飾 葉得閒（模仿<a href="../Page/葉德嫻.md" title="wikilink">葉德嫻</a>）、<a href="../Page/C_AllStar.md" title="wikilink">C AllStar</a> ——《明星》</li>
 </ul>
 <p><span style="color:green;">扮嘢回收箱</span>：</p>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/方紹聰" title="wikilink">方紹聰</a> 飾 劉以發（模仿<a href="https://zh.wikipedia.org/wiki/劉以達" title="wikilink">劉以達</a>） 、<a href="../Page/范振鋒.md" title="wikilink">范振鋒</a> 飾 明哥（模仿<a href="../Page/黃耀明.md" title="wikilink">黃耀明</a>）合飾 疊成七塊（模仿<a href="../Page/達明一派.md" title="wikilink">達明一派</a>） ——《石頭記》</li>
+<li><a href="../Page/方紹聰.md" title="wikilink">方紹聰</a> 飾 劉以發（模仿<a href="https://zh.wikipedia.org/wiki/劉以達" title="wikilink">劉以達</a>） 、<a href="../Page/范振鋒.md" title="wikilink">范振鋒</a> 飾 明哥（模仿<a href="../Page/黃耀明.md" title="wikilink">黃耀明</a>）合飾 疊成七塊（模仿<a href="../Page/達明一派.md" title="wikilink">達明一派</a>） ——《石頭記》</li>
 </ul>
 <p>孤獨評判團：<a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森美</a> 、<a href="../Page/黃翠如.md" title="wikilink">黃翠如</a></p></td>
 <td><p>狂派</p></td>
@@ -562,21 +562,21 @@ TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](..
 
 ## 獎項
 
-### [星和無綫電視大獎2014](https://zh.wikipedia.org/wiki/星和無綫電視大獎2014 "wikilink")
+### [星和無綫電視大獎2014](../Page/星和無綫電視大獎2014.md "wikilink")
 
 | 獎項             | 獲奬單位      |
 | -------------- | --------- |
 | 「我最愛TVB綜藝資訊節目」 | Sunday扮嘢王 |
 | 「我最愛TVB綜藝節目主持」 | 薛家燕、王祖藍   |
 
-### [TVB 馬來西亞星光薈萃頒獎典禮2014](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2014 "wikilink")
+### [TVB 馬來西亞星光薈萃頒獎典禮2014](../Page/TVB_馬來西亞星光薈萃頒獎典禮2014.md "wikilink")
 
 | 獎項           | 獲奬單位      |
 | ------------ | --------- |
 | 「最喜愛TVB綜藝節目」 | Sunday扮嘢王 |
 | 「最喜愛TVB節目主持」 | 薛家燕、王祖藍   |
 
-### [萬千星輝頒獎典禮2014](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2014 "wikilink")
+### [萬千星輝頒獎典禮2014](../Page/萬千星輝頒獎典禮2014.md "wikilink")
 
 | 獎項       | 獲奬單位      |
 | -------- | --------- |

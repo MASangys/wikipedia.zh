@@ -1,6 +1,6 @@
 《**Woman**》，是2013年7月至9月於[日本電視台](../Page/日本電視台.md "wikilink")[水10時段](../Page/日本電視台週三連續劇.md "wikilink")（22:00
 -
-22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[坂元裕二編劇](../Page/坂元裕二.md "wikilink")、[滿島光主演](../Page/滿島光.md "wikilink")，此作品亦是滿島光民營電視台的初次主演作\[1\]。此劇獲2013年度的[銀河賞及](../Page/銀河賞.md "wikilink")[日本民間放送聯盟獎最優秀作品等獎項](../Page/日本民間放送聯盟.md "wikilink")，導演[水田伸生和滿島光分別獲得](https://zh.wikipedia.org/wiki/水田伸生 "wikilink")和日本電視劇三大最高榮譽的。
+22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[坂元裕二編劇](../Page/坂元裕二.md "wikilink")、[滿島光主演](../Page/滿島光.md "wikilink")，此作品亦是滿島光民營電視台的初次主演作\[1\]。此劇獲2013年度的[銀河賞及](../Page/銀河賞.md "wikilink")[日本民間放送聯盟獎最優秀作品等獎項](../Page/日本民間放送聯盟.md "wikilink")，導演[水田伸生和滿島光分別獲得](../Page/水田伸生.md "wikilink")和日本電視劇三大最高榮譽的。
 
 ## 花絮評價
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - 青柳望海：[鈴木梨央](https://zh.wikipedia.org/wiki/鈴木梨央 "wikilink")
+  - 青柳望海：[鈴木梨央](../Page/鈴木梨央.md "wikilink")
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
 
 <!-- end list -->
 
-  - 青柳陸：[高橋來](https://zh.wikipedia.org/wiki/高橋來 "wikilink")
+  - 青柳陸：[高橋來](../Page/高橋來.md "wikilink")
 
 <!-- end list -->
 
@@ -65,7 +65,7 @@
 
 <!-- end list -->
 
-  - 植杉栞：[二階堂富美](https://zh.wikipedia.org/wiki/二階堂富美 "wikilink")
+  - 植杉栞：[二階堂富美](../Page/二階堂富美.md "wikilink")
 
 <!-- end list -->
 
@@ -242,7 +242,7 @@
 
   - 編劇：[坂元裕二](../Page/坂元裕二.md "wikilink")
   - 音樂：[三宅一德](../Page/三宅一德.md "wikilink")
-  - 導演：[水田伸生](https://zh.wikipedia.org/wiki/水田伸生 "wikilink")、相澤淳
+  - 導演：[水田伸生](../Page/水田伸生.md "wikilink")、相澤淳
   - 主題歌：[androp](https://zh.wikipedia.org/wiki/androp "wikilink")《Voice》（[WARNER
     MUSIC JAPAN](../Page/日本華納音樂.md "wikilink") /
     [unBORDE](https://zh.wikipedia.org/wiki/unBORDE "wikilink")）
@@ -275,14 +275,14 @@
   - 第51回[銀河賞電視部門獎勵賞](../Page/銀河賞.md "wikilink")
   - 第30回電視部門最優秀獎
   - 2014年[日本民間放送聯盟獎年度最優秀電視劇獎](../Page/日本民間放送聯盟.md "wikilink")\[6\]
-  - 2014年[東京國際戲劇節優秀作品賞](https://zh.wikipedia.org/wiki/東京國際戲劇節 "wikilink")\[7\]
+  - 2014年[東京國際戲劇節優秀作品賞](../Page/東京國際戲劇節.md "wikilink")\[7\]
 
 ### 個人獎
 
-  - 第64回放送部門：[水田伸生](https://zh.wikipedia.org/wiki/水田伸生 "wikilink")
+  - 第64回放送部門：[水田伸生](../Page/水田伸生.md "wikilink")
   - 第68回日本放送映畫藝術大賞放送部門優秀主演女優賞：[滿島光](../Page/滿島光.md "wikilink")
   - 第40回演技賞：滿島光
-  - 2014年[東京國際戲劇節主演女優賞](https://zh.wikipedia.org/wiki/東京國際戲劇節 "wikilink")：滿島光\[8\]
+  - 2014年[東京國際戲劇節主演女優賞](../Page/東京國際戲劇節.md "wikilink")：滿島光\[8\]
 
 ## 播出日程與收視率
 

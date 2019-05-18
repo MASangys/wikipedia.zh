@@ -49,7 +49,7 @@
 部屬們都稱她為BOSS，透過李組長才得知貝偉倫的位置</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/樓學賢" title="wikilink">樓學賢</a></strong></p></td>
+<td><p><strong><a href="../Page/樓學賢.md" title="wikilink">樓學賢</a></strong></p></td>
 <td><p>堂主</p></td>
 <td><p>Hsiao-Hsien LOU</p></td>
 <td><p><strong>千風堂火藥大亨</strong><br />
@@ -77,8 +77,8 @@
 | **演員**                                              | **備註**                       |
 | [林史恩](https://zh.wikipedia.org/wiki/林史恩 "wikilink") | 攝影公司老闆                       |
 | [志傑](https://zh.wikipedia.org/wiki/志傑 "wikilink")   | 攝影公司員工                       |
-| [張哲豪](https://zh.wikipedia.org/wiki/張哲豪 "wikilink") | 攝影公司員工                       |
-| [楊志龍](https://zh.wikipedia.org/wiki/楊志龍 "wikilink") | 特務beta，BOSS的部屬               |
+| [張哲豪](../Page/張哲豪.md "wikilink")                    | 攝影公司員工                       |
+| [楊志龍](../Page/楊志龍.md "wikilink")                    | 特務beta，BOSS的部屬               |
 | [黃勁棠](https://zh.wikipedia.org/wiki/黃勁棠 "wikilink") | 特務，beta的部屬，在BOSS抵達時向她報告頻道被入侵 |
 | [廖崇宇](https://zh.wikipedia.org/wiki/廖崇宇 "wikilink") | 堂主左右護法                       |
 | [高宸熙](https://zh.wikipedia.org/wiki/高宸熙 "wikilink") | 堂主左右護法                       |

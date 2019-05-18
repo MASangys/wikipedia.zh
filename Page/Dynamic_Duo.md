@@ -115,11 +115,11 @@ Driver》。
 
 ### 固定演出
 
-|                      |                                                       |                                                                                     |    |
-| -------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------- | -- |
-| 播出日期                 | 電視台                                                   | 節目名稱                                                                                | 備註 |
-| 2017年6月30日－2017年9月1日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [Show Me The Money 6](https://zh.wikipedia.org/wiki/Show_Me_The_Money_6 "wikilink") | 導師 |
-| 2018年11月3日－          | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")           | 導師 |
+|                      |                                                       |                                                                           |    |
+| -------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------- | -- |
+| 播出日期                 | 電視台                                                   | 節目名稱                                                                      | 備註 |
+| 2017年6月30日－2017年9月1日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [Show Me The Money 6](../Page/Show_Me_The_Money_6.md "wikilink")          | 導師 |
+| 2018年11月3日－          | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink") | 導師 |
 
 ### 嘉賓
 
@@ -131,16 +131,16 @@ Driver》。
 | 2012年4月15日         | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [You & I](https://zh.wikipedia.org/wiki/You_&_I "wikilink")                      |       |
 | 2012年8月19日         | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [Running Man](../Page/Running_Man.md "wikilink")                                 | GAEKO |
 | 2013年8月23日         | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [Super Match](https://zh.wikipedia.org/wiki/Super_Match "wikilink")              |       |
-| 2014年10月31日        | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [我是男人](https://zh.wikipedia.org/wiki/我是男人 "wikilink")                            |       |
+| 2014年10月31日        | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [我是男人](../Page/我是男人.md "wikilink")                                               |       |
 | 2015年10月27日        | [JTBC](../Page/JTBC.md "wikilink")                    | [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") |       |
 | 2015年11月19日        | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [看見你的聲音 3](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")                      |       |
 | 2016年7月25日         | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [DISCO](https://zh.wikipedia.org/wiki/DISCO "wikilink")                          | 崔子    |
 | 2016年9月23日         | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [姐姐們的Slam Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")                             |       |
 | 2016年11月12、19日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [無限挑戰](../Page/無限挑戰.md "wikilink")                                               | GAEKO |
 | 2016年12月31日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [無限挑戰](../Page/無限挑戰.md "wikilink")                                               | GAEKO |
-| 2017年2月28日         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Video Star](https://zh.wikipedia.org/wiki/Video_Star "wikilink")                |       |
-| 2017年6月28日         | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [偶像戲劇工作團](https://zh.wikipedia.org/wiki/偶像戲劇工作團 "wikilink")                      |       |
-| 2018年4月7、14、21、28日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [1%的友情](https://zh.wikipedia.org/wiki/1%的友情 "wikilink")                          | 崔子    |
+| 2017年2月28日         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Video Star](../Page/Video_Star.md "wikilink")                                   |       |
+| 2017年6月28日         | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [偶像戲劇工作團](../Page/偶像戲劇工作團.md "wikilink")                                         |       |
+| 2018年4月7、14、21、28日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [1%的友情](../Page/1%的友情.md "wikilink")                                             | 崔子    |
 | 2018年4月26日、5月3日    | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Happy Together](../Page/歡樂在一起.md "wikilink")                                    |       |
 
 ## 演唱會

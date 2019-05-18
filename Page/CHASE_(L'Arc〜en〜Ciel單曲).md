@@ -6,7 +6,7 @@ L'Arc〜en〜Ciel的2011年第3彈單曲，
 12th原創專輯『[BUTTERFLY](https://zh.wikipedia.org/wiki/BUTTERFLY_\(原創專輯\) "wikilink")』的先發單曲。初回限定盤和通常盤2種版本，初回限定盤有加收1張含有「CHASE」MV的DVD，台灣有發行初回限定盤的台壓版。
 
 繼「[New
-World](../Page/New_World_\(L'Arc〜en〜Ciel單曲\).md "wikilink")」（作曲：[yukihiro](../Page/yukihiro.md "wikilink")
+World](../Page/New_World_\(L'Arc〜en〜Ciel單曲\).md "wikilink")」（作曲：[yukihiro](https://zh.wikipedia.org/wiki/yukihiro "wikilink")
 &
 [hyde](https://zh.wikipedia.org/wiki/hyde "wikilink")）之後第2首2人合作的單曲A面曲，hyde和[ken初次合作](https://zh.wikipedia.org/wiki/ken "wikilink")。
 

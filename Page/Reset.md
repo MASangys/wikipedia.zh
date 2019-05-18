@@ -1,4 +1,4 @@
-《**Reset**》（）為[韓國OCN自](https://zh.wikipedia.org/wiki/韓國 "wikilink")2014年8月24日起播出的[經典系列電視劇](https://zh.wikipedia.org/wiki/OCN_Original_Series "wikilink")（Original
+《**Reset**》（）為[韓國OCN自](https://zh.wikipedia.org/wiki/韓國 "wikilink")2014年8月24日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original
 Series），講述距公訴時效僅剩10天之際，想埋藏秘密和想揭發真相的人展開殊死搏鬥的故事。\[1\]
 
 ## 演員陣容
@@ -24,7 +24,7 @@ Series），講述距公訴時效僅剩10天之際，想埋藏秘密和想揭發
 
 ### 特別演出
 
-  - [尹博](https://zh.wikipedia.org/wiki/尹博 "wikilink") 飾演 金仁錫
+  - [尹博](../Page/尹博.md "wikilink") 飾演 金仁錫
 
 ## 收視率
 

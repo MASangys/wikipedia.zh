@@ -170,7 +170,7 @@ CID<a href="../Page/警署警長.md" title="wikilink">警長</a>，因執行任�
 名字諧音<strong>榴槤香</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/阮政峰" title="wikilink">阮政峰</a></strong></p></td>
+<td><p><strong><a href="../Page/阮政峰.md" title="wikilink">阮政峰</a></strong></p></td>
 <td><p><strong>鄧大喆</strong></p></td>
 <td><p>中學生<br />
 鄧大時、劉憐香之子<br />
@@ -423,7 +423,7 @@ Richard之女友<br />
 <td><p>順風商場保安</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭世豪" title="wikilink">鄭世豪</a></p></td>
+<td><p><a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a></p></td>
 <td><p>吳發水</p></td>
 <td><p>超市職員<br />
 於第14集因偷運奶粉而被捕</p></td>
@@ -459,7 +459,7 @@ Richard之女友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃煒溏" title="wikilink">黃煒溏</a></p></td>
+<td><p><a href="../Page/黃煒溏.md" title="wikilink">黃煒溏</a></p></td>
 <td><p>昌</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/惡霸" title="wikilink">惡霸</a><br />
 於第6集被捕</p></td>
@@ -514,7 +514,7 @@ Richard之女友<br />
 
 ## 獎項
 
-### [星和無綫電視大獎2015](https://zh.wikipedia.org/wiki/星和無綫電視大獎2015 "wikilink")
+### [星和無綫電視大獎2015](../Page/星和無綫電視大獎2015.md "wikilink")
 
 | 獎項            | 獲奬單位                                                              |
 | ------------- | ----------------------------------------------------------------- |

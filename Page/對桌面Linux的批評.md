@@ -23,7 +23,7 @@ Donald分析了許多作業系統的共享函式庫後。在他2003年一篇標�
 ### 錯過的機會
 
 桌面Linux在2010年末被兩個作家批評錯過了成為桌面應用顯著力量的機會。[PC
-World執行主編Robert](https://zh.wikipedia.org/wiki/PC_World "wikilink")
+World執行主編Robert](../Page/PC_World.md "wikilink")
 Strohmeyer表示，雖然Linux有著卓越的穩定性及安全性，以及出色的效能及可用性，但桌面Linux已經錯過它能夠成功的時間了\[10\]。Nick
 Farrell，為*TechEye*寫作的作家覺得Vista的釋出是桌面Linux錯過的搶下顯著市場佔有率的機會\[11\]。
 

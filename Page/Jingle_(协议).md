@@ -17,7 +17,7 @@ Talk的](../Page/Google_Talk.md "wikilink")[libjingle程序库](http://code.goog
 
   - [Coccinella](https://zh.wikipedia.org/wiki/Coccinella "wikilink")\[3\]\[4\]\[5\]\[6\]
 
-  - [Empathy](../Page/Empathy.md "wikilink")\[7\]（使用[Telepathy框架](https://zh.wikipedia.org/wiki/Telepathy "wikilink")）
+  - [Empathy](../Page/Empathy.md "wikilink")\[7\]（使用[Telepathy框架](../Page/Telepathy.md "wikilink")）
 
   - [FreeSWITCH](../Page/FreeSWITCH.md "wikilink")
 
@@ -35,7 +35,7 @@ Talk的](../Page/Google_Talk.md "wikilink")[libjingle程序库](http://code.goog
   - [Miranda IM](../Page/Miranda_IM.md "wikilink") (via [JGTalk
     plugin](https://web.archive.org/web/20071010121402/http://forums.miranda-im.org/showthread.php?t=13768))
 
-  - 是用于[iOSIM客户端](../Page/iOS.md "wikilink")
+  - 是用于[iOSIM客户端](https://zh.wikipedia.org/wiki/iOS "wikilink")
 
   - [Pidgin](../Page/Pidgin.md "wikilink")（Linux及Windows）
 

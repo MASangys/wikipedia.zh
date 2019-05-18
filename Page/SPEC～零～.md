@@ -11,12 +11,12 @@
   - 當麻葉子：大森曉美
   - 志村優作：
   - 南西：
-  - 紅魔鬼：[大杉漣](https://zh.wikipedia.org/wiki/大杉漣 "wikilink")
+  - 紅魔鬼：[大杉漣](../Page/大杉漣.md "wikilink")
   - 青池潤：森山樹
   - 「中部日本餃子CBC」老爹：
   - 艾拉特：安藤繪美
   - 一二三：篠原惠美
-  - 當麻天：[佐野元春](https://zh.wikipedia.org/wiki/佐野元春 "wikilink")
+  - 當麻天：[佐野元春](../Page/佐野元春.md "wikilink")
   - 當麻流夏：石田惠理
   - 當麻陽太：大坪夏己
   - 白衣男：[向井理](../Page/向井理.md "wikilink")

@@ -1,4 +1,4 @@
-**FUN4放肆樂團**（或稱**FUN4**），是[台灣樂壇的四人男子](https://zh.wikipedia.org/wiki/台灣 "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")，由[楊威宇](https://zh.wikipedia.org/wiki/楊威宇 "wikilink")、[張程勛](https://zh.wikipedia.org/wiki/張程勛 "wikilink")、[楊昆松與](https://zh.wikipedia.org/wiki/楊昆松 "wikilink")[董志倫於](https://zh.wikipedia.org/wiki/董志倫 "wikilink")2004年12月在[台北組成](https://zh.wikipedia.org/wiki/台北 "wikilink")。
+**FUN4放肆樂團**（或稱**FUN4**），是[台灣樂壇的四人男子](https://zh.wikipedia.org/wiki/台灣 "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")，由[楊威宇](../Page/楊威宇.md "wikilink")、[張程勛](https://zh.wikipedia.org/wiki/張程勛 "wikilink")、[楊昆松與](https://zh.wikipedia.org/wiki/楊昆松 "wikilink")[董志倫於](https://zh.wikipedia.org/wiki/董志倫 "wikilink")2004年12月在[台北組成](https://zh.wikipedia.org/wiki/台北 "wikilink")。
 
 ## 經歷
 
@@ -14,7 +14,7 @@
 
 2009年8月替旅遊節目《[食尚玩家](../Page/食尚玩家.md "wikilink")》創作節目主題曲《[食尚玩家](../Page/食尚玩家.md "wikilink")》以及《[就要醬完](https://zh.wikipedia.org/wiki/就要醬完 "wikilink")》。
 
-2012年12月受邀至台北市政府跨年晚會《[臺北最HIGH新年城](../Page/臺北最HIGH新年城.md "wikilink")》演出，成為台北跨年演唱會歷史最年輕的受邀搖滾樂團。
+2012年12月受邀至台北市政府跨年晚會《[臺北最HIGH新年城](https://zh.wikipedia.org/wiki/臺北最HIGH新年城 "wikilink")》演出，成為台北跨年演唱會歷史最年輕的受邀搖滾樂團。
 
 2013年，發行首張全創作專輯《[Exit
 出口](https://zh.wikipedia.org/wiki/Exit_出口 "wikilink")》。
@@ -23,7 +23,7 @@
 
 | 樂團成員本名                                              | 樂團成員暱稱 | 樂團配置   |
 | --------------------------------------------------- | ------ | ------ |
-| [楊威宇](https://zh.wikipedia.org/wiki/楊威宇 "wikilink") | 小宇     | 主唱兼吉他手 |
+| [楊威宇](../Page/楊威宇.md "wikilink")                    | 小宇     | 主唱兼吉他手 |
 | [張程勛](https://zh.wikipedia.org/wiki/張程勛 "wikilink") | 貍貓     | 吉他手    |
 | [董志倫](https://zh.wikipedia.org/wiki/董志倫 "wikilink") | 睏寶     | 貝斯手    |
 | [楊昆松](https://zh.wikipedia.org/wiki/楊昆松 "wikilink") | 木蘭     | 鼓手     |

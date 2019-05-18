@@ -1,6 +1,5 @@
 （），日本[㚻片公司](https://zh.wikipedia.org/wiki/㚻片公司 "wikilink")，成立于1993年，總部位於[東京都](../Page/東京都.md "wikilink")[世田谷區北泽](../Page/世田谷區.md "wikilink")3丁目23番地14号
-COAT FIRST
-STAGE。[代表董事江岛隼人](https://zh.wikipedia.org/wiki/代表董事 "wikilink")（一说江岛速人）。
+COAT FIRST STAGE。[代表董事江岛隼人](../Page/代表董事.md "wikilink")（一说江岛速人）。
 
 ## 公司簡介
 

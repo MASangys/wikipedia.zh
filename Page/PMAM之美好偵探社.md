@@ -1,4 +1,4 @@
-[熊熊](https://zh.wikipedia.org/wiki/卓毓彤 "wikilink"){{、w}}[陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink"){{、w}}[楊昇達](../Page/楊昇達.md "wikilink")
+[熊熊](../Page/卓毓彤.md "wikilink"){{、w}}[陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink"){{、w}}[楊昇達](../Page/楊昇達.md "wikilink")
 | judges = | voices = | narrated = | theme_music_composer = |
 opentheme = | endtheme = | composer = | country =  | language =
 [國語](https://zh.wikipedia.org/wiki/國語 "wikilink") | num_seasons = |
@@ -13,9 +13,9 @@ first_run = | first_aired = | last_aired = | channel_1 =
 picture_format_1 = | audio_format_1 = | first_run_1 = |
 first_aired_1 =  | last_aired_1 =  | preceded_by =
 《[PMAM](../Page/PMAM.md "wikilink")》 | followed_by =
-[PMAM之慾望俱樂部](https://zh.wikipedia.org/wiki/PMAM之慾望俱樂部 "wikilink")
-| related = | website = | production_website = }} 《 '''美好偵探社
-'''》，2014年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")、[中天綜合台迷你偶像劇](../Page/中天綜合台.md "wikilink")。本劇由[野火娛樂製作](https://zh.wikipedia.org/wiki/野火娛樂 "wikilink")，為紅透網路的[PMAM系列的第四季](../Page/PMAM.md "wikilink")。第四季以四個不同的案件連串，將觸角延伸到偵探社。講述是人性，但是社會是現實的。是關於正義與背叛的故事。由[竇智孔](../Page/竇智孔.md "wikilink")、[熊熊](https://zh.wikipedia.org/wiki/卓毓彤 "wikilink")、[陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink")、[楊昇達主演](../Page/楊昇達.md "wikilink")。
+[PMAM之慾望俱樂部](../Page/PMAM之慾望俱樂部.md "wikilink") | related = |
+website = | production_website = }} 《 '''美好偵探社
+'''》，2014年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")、[中天綜合台迷你偶像劇](../Page/中天綜合台.md "wikilink")。本劇由[野火娛樂製作](https://zh.wikipedia.org/wiki/野火娛樂 "wikilink")，為紅透網路的[PMAM系列的第四季](../Page/PMAM.md "wikilink")。第四季以四個不同的案件連串，將觸角延伸到偵探社。講述是人性，但是社會是現實的。是關於正義與背叛的故事。由[竇智孔](../Page/竇智孔.md "wikilink")、[熊熊](../Page/卓毓彤.md "wikilink")、[陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink")、[楊昇達主演](../Page/楊昇達.md "wikilink")。
 
 ## 播出時間
 
@@ -54,7 +54,7 @@ first_aired_1 =  | last_aired_1 =  | preceded_by =
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/卓毓彤" title="wikilink">熊熊</a></p>
+<p><a href="../Page/卓毓彤.md" title="wikilink">熊熊</a></p>
 </center></td>
 <td><center>
 <p>薇薇</p>
@@ -91,7 +91,7 @@ first_aired_1 =  | last_aired_1 =  | preceded_by =
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/陳郁涵" title="wikilink">陳艾熙</a></p>
+<p><a href="../Page/陳郁涵.md" title="wikilink">陳艾熙</a></p>
 </center></td>
 <td><center>
 <p>魏以奈（小奈）</p>
@@ -313,7 +313,7 @@ first_aired_1 =  | last_aired_1 =  | preceded_by =
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/姬天語" title="wikilink">姬天語</a></p>
+<p><a href="../Page/姬天語.md" title="wikilink">姬天語</a></p>
 </center></td>
 <td><center>
 <p>姬天語</p></td>
@@ -491,7 +491,7 @@ first_aired_1 =  | last_aired_1 =  | preceded_by =
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/郭源元" title="wikilink">郭源元</a></p>
+<p><a href="../Page/郭源元.md" title="wikilink">郭源元</a></p>
 </center></td>
 <td><center>
 <p>郭圓圓</p></td>

@@ -5,7 +5,7 @@ Anthropology**）是位於[加拿大](../Page/加拿大.md "wikilink")[溫哥華
 
 ## 历史
 
-該博物館建造于1947年。當時是爲了整理[不列顛哥倫比亞大學圖書館中的藏品所建](https://zh.wikipedia.org/wiki/不列顛哥倫比亞大學圖書館 "wikilink")。第一任館長是圖書館館長[哈利·霍索恩博士的妻子](https://zh.wikipedia.org/wiki/哈利·霍索恩 "wikilink")[奧德麗·霍索恩](https://zh.wikipedia.org/wiki/奧德麗·霍索恩 "wikilink")。1974年由[阿瑟·埃里克森設計新館](../Page/阿瑟·埃里克森.md "wikilink")。2010年在博物館前建造了倒影池。\[3\]
+該博物館建造于1947年。當時是爲了整理[不列顛哥倫比亞大學圖書館中的藏品所建](../Page/不列顛哥倫比亞大學圖書館.md "wikilink")。第一任館長是圖書館館長[哈利·霍索恩博士的妻子](https://zh.wikipedia.org/wiki/哈利·霍索恩 "wikilink")[奧德麗·霍索恩](https://zh.wikipedia.org/wiki/奧德麗·霍索恩 "wikilink")。1974年由[阿瑟·埃里克森設計新館](../Page/阿瑟·埃里克森.md "wikilink")。2010年在博物館前建造了倒影池。\[3\]
 
 該博物館亦曾出現在1999年3月9日加拿大發行的一種郵票上，攝影師是William McLennan和Jacqueline
 Gijssen，價值46¢。\[4\]

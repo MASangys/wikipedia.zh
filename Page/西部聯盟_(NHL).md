@@ -26,7 +26,7 @@
       - [卡爾加里火焰](../Page/卡爾加里火焰.md "wikilink")
       - [愛民頓油人](../Page/愛民頓油人.md "wikilink")
       - [溫哥華加人](../Page/溫哥華加人.md "wikilink")
-      - [維加斯黃金騎士](https://zh.wikipedia.org/wiki/維加斯黃金騎士 "wikilink")
+      - [維加斯黃金騎士](../Page/維加斯黃金騎士.md "wikilink")
 
 ## 参考资料
 

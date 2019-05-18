@@ -18,7 +18,7 @@
   - [廖靖雯](https://zh.wikipedia.org/wiki/廖靖雯 "wikilink")（記者，2014年7月19日、2015年3月21日至7月25日替任主持；現已離職）
   - [陳藹欣](https://zh.wikipedia.org/wiki/陳藹欣 "wikilink")（2014年7月12日、7月26日至9月20日、10月4日至11月1日替任主持及主編；2015年8月1日起為主持）
   - [趙嘉韻](https://zh.wikipedia.org/wiki/趙嘉韻 "wikilink")（2014年7月19日替任記者）
-  - [金盈](https://zh.wikipedia.org/wiki/金盈 "wikilink")（2014年7月26日替任記者）
+  - [金盈](../Page/金盈.md "wikilink")（2014年7月26日替任記者）
   - [呂文惠](https://zh.wikipedia.org/wiki/呂文惠 "wikilink")（2015年7月11日、7月25日替任記者
     ）
   - [陳倩瑩](https://zh.wikipedia.org/wiki/陳倩瑩 "wikilink")（2015年7月18日、8月1日起為記者；**非普通話記者**）

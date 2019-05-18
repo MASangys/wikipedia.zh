@@ -1,6 +1,6 @@
 **LiquidFeedback**（簡稱lqfb）是一套揉合[代議民主與](https://zh.wikipedia.org/wiki/代議民主 "wikilink")[直接民主的自由軟體](https://zh.wikipedia.org/wiki/直接民主 "wikilink")，用於形成政治意見及決策。它最主要的功能是實現「委任投票」制度（Delegated
 voting,
-[流動式民主](https://zh.wikipedia.org/wiki/委任式民主 "wikilink")），這是在政治上新的代表形式及參與形式，可以把參與者不同的見解都納入考量。
+[流動式民主](../Page/委任式民主.md "wikilink")），這是在政治上新的代表形式及參與形式，可以把參與者不同的見解都納入考量。
 
 ## 說明
 
@@ -27,8 +27,7 @@ feedback不再受傳統網路論壇的限制，可應用於協助政黨、協會
 ## 沿革
 
 LiquidFeedback 是由 Andreas Nitsche，Jan Behrens，Axel Kistner 及 Bjoern
-Swierczek 共同編寫\[3\]。這個軟體吸收了
-[流動式民主](https://zh.wikipedia.org/wiki/委任式民主 "wikilink")（Liquid
+Swierczek 共同編寫\[3\]。這個軟體吸收了 [流動式民主](../Page/委任式民主.md "wikilink")（Liquid
 Democracy）的概念 ，還包括了提案發展程序、（或稱為 Schulze 方法），以及 （Interactvie
 Democracy）等觀念，一併納入軟體操作內\[4\]。最早是因為德國海盜黨部份成員不滿意傳統政治意見的形成方式，而由「公共軟體團體」根據他們所提出的建議開發出這套軟體，於
 2009 年 10
@@ -60,7 +59,7 @@ License發佈](https://zh.wikipedia.org/wiki/MIT_License "wikilink")。同時還
 讓德國海盜黨成員之間產生熱烈討論：數據保護的擁護者批評該軟體的能力，是否真能讓每份聲明競賽，且讓選票正確地投給它們的個別作者，這乃是初衷。因為本軟體僅允許採用[記名投票](https://zh.wikipedia.org/wiki/記名投票 "wikilink")（Recorded
 vote）方式表決，可以很容易藉由投票行為判斷參與者的政治意見。這加強了政治運作的透明度，因為所有特殊利益都是公開的。
 
-雖然委任可隨時撤銷，但有些人\[6\]仍質疑[委任投票會衍生出甚至迫使權力結構產生](https://zh.wikipedia.org/wiki/委任式民主 "wikilink")。程式作者隨後提供了一個「自動移除閒置使用者」的選項\[7\]。
+雖然委任可隨時撤銷，但有些人\[6\]仍質疑[委任投票會衍生出甚至迫使權力結構產生](../Page/委任式民主.md "wikilink")。程式作者隨後提供了一個「自動移除閒置使用者」的選項\[7\]。
 
 ## 參見
 

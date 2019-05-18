@@ -130,7 +130,7 @@ Transit**），是[安徽省](../Page/安徽省.md "wikilink")[合肥市的公�
   - [快速公車](https://zh.wikipedia.org/wiki/快速公車 "wikilink")
   - [公車專用道](../Page/公車專用道.md "wikilink")
   - [快速公交系統列表](https://zh.wikipedia.org/wiki/快速公交系統列表 "wikilink")
-  - [合肥公交](https://zh.wikipedia.org/wiki/合肥公交 "wikilink")
+  - [合肥公交](../Page/合肥公交.md "wikilink")
 
 ## 备注
 

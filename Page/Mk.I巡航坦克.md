@@ -2,7 +2,7 @@
 
 ## 設計和研發
 
-在1936年，[英國陸軍部把坦克分為了兩類](https://zh.wikipedia.org/wiki/英國陸軍部 "wikilink")：一種是擁有厚重裝甲，被用於在戰爭中與敵方步兵近距離交手的[步兵坦克](https://zh.wikipedia.org/wiki/步兵坦克 "wikilink")，和能夠快速移動，並在敵人的大後方發動突襲的巡洋坦克。
+在1936年，[英國陸軍部把坦克分為了兩類](../Page/英國陸軍部.md "wikilink")：一種是擁有厚重裝甲，被用於在戰爭中與敵方步兵近距離交手的[步兵坦克](https://zh.wikipedia.org/wiki/步兵坦克 "wikilink")，和能夠快速移動，並在敵人的大後方發動突襲的巡洋坦克。
 
 1934年，在A6、[Mk.III中型坦克因成本問題都未能入役之後](https://zh.wikipedia.org/wiki/Mk.III中型坦克 "wikilink")，英國軍方要求[維克斯公司的](https://zh.wikipedia.org/wiki/維克斯-阿姆斯特朗 "wikilink")[約翰·卡登爵士被要求設計一款用於取代現有坦克的](https://zh.wikipedia.org/wiki/約翰·卡登爵士 "wikilink")“相當便宜的坦克”。這種坦克的試驗車於1936年完成，並被命名為A9E1。\[1\]
 

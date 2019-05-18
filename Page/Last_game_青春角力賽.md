@@ -1,4 +1,4 @@
-是日本漫畫家[天乃忍的](https://zh.wikipedia.org/wiki/天乃忍 "wikilink")[少女漫畫作品](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")。2011年《[LaLa](../Page/LaLa.md "wikilink")》9月號以短篇集中連載方式刊載，在得到讀者熱烈回應後，開始長期連載。自2012年2月號起、至2016年8月號完結。全56話，單行本11冊。
+是日本漫畫家[天乃忍的](../Page/天乃忍.md "wikilink")[少女漫畫作品](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")。2011年《[LaLa](../Page/LaLa.md "wikilink")》9月號以短篇集中連載方式刊載，在得到讀者熱烈回應後，開始長期連載。自2012年2月號起、至2016年8月號完結。全56話，單行本11冊。
 
 ## 故事介紹
 

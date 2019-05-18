@@ -1,4 +1,4 @@
-**USENIX**成立于1975年，当时的名字叫做**Unix用户群**，其主要目的是学习和开发[Unix以及类似系统](../Page/Unix.md "wikilink")。1977
+**USENIX**成立于1975年，当时的名字叫做**Unix用户群**，其主要目的是学习和开发[Unix以及类似系统](https://zh.wikipedia.org/wiki/Unix "wikilink")。1977
 年 6
 月，[美国电话电报公司的律师告诉用户群他们不能继续使用UNIX这个名字](https://zh.wikipedia.org/wiki/美国电话电报公司 "wikilink")，因为UNIX是美国电话电报公司所拥有的一个商标。所以这个用户群更名为“USENIX”\[1\]。此后，USENIX逐渐发展成一个倍受尊敬的由计算机[操作系统用户](../Page/操作系统.md "wikilink")，开发者和研究者所组成的机构。USENIX从创建之初就出版一份技术杂志名叫[;login:](http://www.usenix.org/publications/login/)
 
@@ -121,7 +121,7 @@ USENIX在2008年成为首家提供开源阅读服务的计算机机构。所有�
   - 1997 [布萊恩·柯林漢](../Page/布萊恩·柯林漢.md "wikilink")
   - 1996 The Software Tools Project
   - 1995 [Usenet被Jim](../Page/Usenet.md "wikilink") Ellis及Tom Truscott创造
-  - 1994 [迈克·莱斯克](https://zh.wikipedia.org/wiki/迈克·莱斯克 "wikilink")
+  - 1994 [迈克·莱斯克](../Page/迈克·莱斯克.md "wikilink")
   - 1993 [BSD](../Page/BSD.md "wikilink")
 
 ## 参考文献
@@ -136,7 +136,7 @@ USENIX在2008年成为首家提供开源阅读服务的计算机机构。所有�
 
 ## 参见
 
-  - [Unix](../Page/Unix.md "wikilink")
+  - [Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")
 
 [Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")
 [Category:系統管理](https://zh.wikipedia.org/wiki/Category:系統管理 "wikilink")

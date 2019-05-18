@@ -1,7 +1,7 @@
 《Share House》（）是韩国有线台O'live
 TV真人秀节目，講述十位工作、生活方式迥異的男女名人同住，共同使用起居室廚房等，親自體驗生活的综藝節目，讓他們之間增加更多的互動。
 
-由放送人[李尚敏](https://zh.wikipedia.org/wiki/李尚敏 "wikilink")、歌手[孫昊永](../Page/孫昊永.md "wikilink")（[G.O.D.](https://zh.wikipedia.org/wiki/G.O.D. "wikilink")）、歌手[優熙](https://zh.wikipedia.org/wiki/裴優熙 "wikilink")（[Dal★Shabet](../Page/Dal★Shabet.md "wikilink")）、模特兒[宋海娜](https://zh.wikipedia.org/wiki/宋海娜 "wikilink")、主持人[崔熙](https://zh.wikipedia.org/wiki/崔熙 "wikilink")
+由放送人[李尚敏](../Page/李尚敏.md "wikilink")、歌手[孫昊永](../Page/孫昊永.md "wikilink")（[G.O.D.](https://zh.wikipedia.org/wiki/G.O.D. "wikilink")）、歌手[優熙](https://zh.wikipedia.org/wiki/裴優熙 "wikilink")（[Dal★Shabet](../Page/Dal★Shabet.md "wikilink")）、模特兒[宋海娜](https://zh.wikipedia.org/wiki/宋海娜 "wikilink")、主持人[崔熙](../Page/崔熙.md "wikilink")
 、演員[崔星俊](../Page/崔星俊.md "wikilink")、演員[千藝瑟](https://zh.wikipedia.org/wiki/千藝瑟 "wikilink")、鞋設計師[黄英瓏](https://zh.wikipedia.org/wiki/黄英瓏 "wikilink")、時装設計師[金在雄及歌手](https://zh.wikipedia.org/wiki/金在雄 "wikilink")[金賢宇](https://zh.wikipedia.org/wiki/金賢宇 "wikilink")（[Dickpunks](https://zh.wikipedia.org/wiki/Dickpunks "wikilink")）出演。
 
 ## 節目成員
@@ -53,7 +53,7 @@ TV真人秀节目，講述十位工作、生活方式迥異的男女名人同住
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/崔熙" title="wikilink">崔熙</a><small>（）</small></p></td>
+<td><p><a href="../Page/崔熙.md" title="wikilink">崔熙</a><small>（）</small></p></td>
 <td><p>女</p></td>
 <td><p>棒球主播、主持人</p></td>
 <td></td>

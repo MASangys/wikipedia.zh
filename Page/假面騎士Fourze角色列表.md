@@ -72,7 +72,7 @@
   - 劇場版《[假面騎士×假面騎士 Wizard & Fourze
     MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》：大木美代子、操真晴人、風田三郎
   - 劇場版《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》：桐生戰兔
+    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》：桐生戰兔
 
 **歌星賢吾（）**（[高橋龍輝飾](../Page/高橋龍輝.md "wikilink")／香港配音：[李凱傑](../Page/李凱傑.md "wikilink")／台灣配音：[賈文安](https://zh.wikipedia.org/wiki/賈文安 "wikilink")）
 
@@ -820,7 +820,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
   -
     1年C班\[19\]，清唱社的社員。
 
-**江川留美（）**（[加藤侑紀飾](../Page/加藤侑紀.md "wikilink")／香港配音：[吳羨婷](https://zh.wikipedia.org/wiki/吳羨婷 "wikilink")）
+**江川留美（）**（[加藤侑紀飾](../Page/加藤侑紀.md "wikilink")／香港配音：[吳羨婷](../Page/吳羨婷.md "wikilink")）
 
   -
     2年級生，田徑社社員，曾是賢吾的國中同學，有煩惱都會找賢吾尋求幫助。
@@ -910,7 +910,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.2
     Launcher Switch。
 
-**佐久間珠惠（）**（[吉川まりあ飾](https://zh.wikipedia.org/wiki/:ja:吉川まりあ "wikilink")／香港配音：[吳羨婷](https://zh.wikipedia.org/wiki/吳羨婷 "wikilink")）
+**佐久間珠惠（）**（[吉川まりあ飾](https://zh.wikipedia.org/wiki/:ja:吉川まりあ "wikilink")／香港配音：[吳羨婷](../Page/吳羨婷.md "wikilink")）
 
   -
     3年級生，風城美羽的跟班之一。
@@ -921,7 +921,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.21
     Stealth Switch。
 
-**新田文博（）**（[宇治清高飾](https://zh.wikipedia.org/wiki/:ja:宇治清高 "wikilink")／香港配音：[李安邦](https://zh.wikipedia.org/wiki/李安邦 "wikilink")）
+**新田文博（）**（[宇治清高飾](https://zh.wikipedia.org/wiki/:ja:宇治清高 "wikilink")／香港配音：[李安邦](../Page/李安邦.md "wikilink")）
 
   -
     1年C班，西洋劍社的社員，以前曾經被JK利用過而對之有著天大仇恨。

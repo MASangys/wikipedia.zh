@@ -37,7 +37,7 @@ Funtoo拥有自己的核心网络解决方案，让用户基于预先创建的�
 
 ### 内核
 
-尽管Funtoo是一个基于源代码的发行版，但它也可以使用一个已构建好的[Linux内核](../Page/Linux内核.md "wikilink")。\[10\]Funtoo不再鼓励用户使用[Sabayon内核](../Page/Sabayon_Linux.md "wikilink")，然而，利用许多Funtoo的设计和初始化进程上的的改进，对于一个指定的使用预先编译/设置好内核的发行版，用户是可以装载它的加上了[initrd的内核的](../Page/initrd.md "wikilink")。Ubuntu的内核linux-3.2.0-17-generic已被测试可以在Funtoo上运作。这对那些想避免组建自定义内核的人是非常有利的。如果使用[boot-update](http://www.funtoo.org/wiki/Boot-Update)的话，使用其它发行版的通用内核应该会很简单。
+尽管Funtoo是一个基于源代码的发行版，但它也可以使用一个已构建好的[Linux内核](../Page/Linux内核.md "wikilink")。\[10\]Funtoo不再鼓励用户使用[Sabayon内核](../Page/Sabayon_Linux.md "wikilink")，然而，利用许多Funtoo的设计和初始化进程上的的改进，对于一个指定的使用预先编译/设置好内核的发行版，用户是可以装载它的加上了[initrd的内核的](https://zh.wikipedia.org/wiki/initrd "wikilink")。Ubuntu的内核linux-3.2.0-17-generic已被测试可以在Funtoo上运作。这对那些想避免组建自定义内核的人是非常有利的。如果使用[boot-update](http://www.funtoo.org/wiki/Boot-Update)的话，使用其它发行版的通用内核应该会很简单。
 
 ## 参见
 

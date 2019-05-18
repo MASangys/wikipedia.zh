@@ -14,19 +14,19 @@ of Congress.
 <tr class="header">
 <th><p><a href="https://zh.wikipedia.org/wiki/藏文字母" title="wikilink">藏文字母</a></p></th>
 <th><p>USLC</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/威利转写" title="wikilink">威利转写</a></p></th>
+<th><p><a href="../Page/威利转写.md" title="wikilink">威利转写</a></p></th>
 <th></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/藏文字母" title="wikilink">藏文字母</a></p></th>
 <th><p>USLC</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/威利转写" title="wikilink">威利转写</a></p></th>
+<th><p><a href="../Page/威利转写.md" title="wikilink">威利转写</a></p></th>
 <th></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/藏文字母" title="wikilink">藏文字母</a></p></th>
 <th><p>USLC</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/威利转写" title="wikilink">威利转写</a></p></th>
+<th><p><a href="../Page/威利转写.md" title="wikilink">威利转写</a></p></th>
 <th></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/藏文字母" title="wikilink">藏文字母</a></p></th>
 <th><p>USLC</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/威利转写" title="wikilink">威利转写</a></p></th>
+<th><p><a href="../Page/威利转写.md" title="wikilink">威利转写</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -570,7 +570,7 @@ of Congress.
 
   - [藏文转写系统](https://zh.wikipedia.org/wiki/藏文转写系统 "wikilink")
   - [EWTS](https://zh.wikipedia.org/wiki/EWTS "wikilink")
-  - [威利转写](https://zh.wikipedia.org/wiki/威利转写 "wikilink")
+  - [威利转写](../Page/威利转写.md "wikilink")
   - [梵文藏文轉寫體系](../Page/梵文藏文轉寫體系.md "wikilink")
 
 ## 外部链接

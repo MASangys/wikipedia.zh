@@ -1,5 +1,5 @@
 **Sony Xperia
-M**(C1905)，是[索尼移动通信于](https://zh.wikipedia.org/wiki/索尼移动通信 "wikilink")2013年6月4日在发布的[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")。在2013年8月正式推出市面，以Android4.1
+M**(C1905)，是[索尼移动通信于](../Page/索尼移动通信.md "wikilink")2013年6月4日在发布的[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")。在2013年8月正式推出市面，以Android4.1
 Jelly Bean作業系統推出，現在已經可以透過多個方法升級至Android 4.3 Jelly Bean。**Sony Xperia
 M**曾經獲得紅點設計獎。\[1\]
 
@@ -18,9 +18,9 @@ Bean作業系統已經發佈，市面上的Xperia M可以透過電腦或Wi-Fi免
 
 | 顏色 | 名稱                                                                             | 英語     | 備註 |
 | -- | ------------------------------------------------------------------------------ | ------ | -- |
-|    | [<font color="#000000">黑色</font>](https://zh.wikipedia.org/wiki/黑色 "wikilink") | Black  |    |
-|    | [<font color="#696969">白色</font>](https://zh.wikipedia.org/wiki/白色 "wikilink") | White  |    |
-|    | [<font color=#4B0080>紫色</font>](https://zh.wikipedia.org/wiki/紫色 "wikilink")   | Purple |    |
+|    | [<font color="#000000">黑色</font>](../Page/黑色.md "wikilink")                    | Black  |    |
+|    | [<font color="#696969">白色</font>](../Page/白色.md "wikilink")                    | White  |    |
+|    | [<font color=#4B0080>紫色</font>](../Page/紫色.md "wikilink")                      | Purple |    |
 |    | [<font color="#7F8000">黃色</font>](https://zh.wikipedia.org/wiki/黃色 "wikilink") | Yellow | 單卡 |
 
 ## 参考

@@ -41,14 +41,14 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年Gaon專輯冠軍作品列表" title="wikilink">專輯周榜</a></p></td>
+<td><p><a href="../Page/2014年Gaon專輯冠軍作品列表.md" title="wikilink">專輯周榜</a></p></td>
 <td><p>2014年6月22日－6月28日</p></td>
 <td><p>#3</p></td>
 <td><p>[3]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="../Page/2014年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2014年6月</p></td>
 <td><p>#10<br />
 （9,986張）</p></td>

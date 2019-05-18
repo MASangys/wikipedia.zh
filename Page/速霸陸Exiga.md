@@ -22,8 +22,8 @@ system）等，另可加價選購倒車影像顯示、[衛星導航系統](https
 CVT變速箱](https://zh.wikipedia.org/wiki/無段自動變速器#Lineartronic_CVT "wikilink")、[EyeSight行車安全輔助系統和VDC車輛動態穩定系統等配備](../Page/EyeSight.md "wikilink")，而[方向盤換檔撥片則成為全車系的標準配備](https://zh.wikipedia.org/wiki/方向盤 "wikilink")。此外新增特仕車「2.0i
 S-style」，以「2.0i」車型為基礎增添後尾翼、[HID頭燈](../Page/高強度氣體放電燈.md "wikilink")、雙排氣尾管、前霧燈、防[紅外線深色](https://zh.wikipedia.org/wiki/紅外線 "wikilink")[玻璃](../Page/玻璃.md "wikilink")、加熱除霧後視鏡、撥水加工[前擋玻璃](../Page/擋風玻璃.md "wikilink")、專用金屬藍車色塗裝等配備。
 
-同年10月20日推出由[速霸陸技術國際](https://zh.wikipedia.org/wiki/速霸陸技術國際 "wikilink")（Subaru
-Tecnica International，縮寫成STI）打造的「2.0GT tuned by
+同年10月20日推出由[速霸陸技術國際](../Page/速霸陸技術國際.md "wikilink")（Subaru Tecnica
+International，縮寫成STI）打造的「2.0GT tuned by
 STI」，限量300部。該特仕車採用STI開發與製造的避震器、[懸吊系統](../Page/懸吊系統.md "wikilink")、排氣尾管、輪圈、空力套件等，內裝則含有兩張打印STI廠徽標誌的Alcantara真皮桶型座椅，儀表板與方向盤也有STI的螢光粉紅字樣，同時前座都改成紅色車縫線，排檔座飾板也換上[碳纖維材質](../Page/碳纖維.md "wikilink")。11月2日起開始在[澳洲市場以](https://zh.wikipedia.org/wiki/澳洲 "wikilink")**速霸陸Liberty
 Exiga**之名販售，最大的不同是澳規車為三排座椅、六個座位之設定。12月24日新增2.5L水平對臥四缸SOHC
 [EJ253型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ253型 "wikilink")，搭配Lineartronic

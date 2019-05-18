@@ -29,7 +29,7 @@ Group**）是一間[美國公司](https://zh.wikipedia.org/wiki/美國 "wikilink
   - 其他網站
     其他CBS
     Interactive的網站包括[GameSpot](../Page/GameSpot.md "wikilink")、[Giant
-    Bomb](https://zh.wikipedia.org/wiki/Giant_Bomb "wikilink")、[GameFAQs](../Page/GameFAQs.md "wikilink")、[Metacritic](../Page/Metacritic.md "wikilink"),
+    Bomb](../Page/Giant_Bomb.md "wikilink")、[GameFAQs](../Page/GameFAQs.md "wikilink")、[Metacritic](../Page/Metacritic.md "wikilink"),
     [MP3.com](https://zh.wikipedia.org/wiki/MP3.com "wikilink")、[TV.com](../Page/TV.com.md "wikilink")、[Comic
     Vine和](https://zh.wikipedia.org/wiki/Comic_Vine "wikilink")[Movie
     Tome](https://zh.wikipedia.org/wiki/Movie_Tome "wikilink")，這些網站在「CNET

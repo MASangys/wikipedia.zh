@@ -251,7 +251,7 @@ RECORDS為其唱片公司。其宣傳費用為40億。跟『GEKOKU嬢』同日(2
 
 ### [HKT48成員](../Page/HKT48.md "wikilink")
 
-  - [田中菜津美](https://zh.wikipedia.org/wiki/田中菜津美 "wikilink")
+  - [田中菜津美](../Page/田中菜津美.md "wikilink")
   - [森保圓](../Page/森保圓.md "wikilink")
   - [兒玉遙](../Page/兒玉遙.md "wikilink")
   - [村重杏奈](../Page/村重杏奈.md "wikilink")

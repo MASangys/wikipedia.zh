@@ -5,7 +5,7 @@ OS操作系统](../Page/Chrome_OS.md "wikilink")。主要功能為將傳統電�
 
 Chromecast是一款仅有2英寸（72公厘，5.08厘米）长的小型设备，运行简易版的Google Chrome
 OS。通过连接[WIFI信号并插入](https://zh.wikipedia.org/wiki/WIFI "wikilink")[高畫質電視的](https://zh.wikipedia.org/wiki/高畫質電視 "wikilink")[HDMI接口](../Page/HDMI.md "wikilink")，Chromecast可以将其他设备上的内容鏡射到电视屏幕上。支持使用的[操作系统包括](../Page/操作系统.md "wikilink")[Android](../Page/Android.md "wikilink")、Chrome
-OS、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[iOS](../Page/iOS.md "wikilink")、[OS
+OS、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[OS
 X等](https://zh.wikipedia.org/wiki/OS_X "wikilink")，[个人电脑](../Page/个人电脑.md "wikilink")、[智能手机和](../Page/智能手机.md "wikilink")[平板电脑透过指定的](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")[APP即可将](https://zh.wikipedia.org/wiki/移动软件应用程序 "wikilink")[影片和音频传输至电视端](../Page/视频.md "wikilink")，[Google
 Play](../Page/Google_Play.md "wikilink")（音乐、电影）、[YouTube](../Page/YouTube.md "wikilink")、[Netflix是官方最早公布的支持Chromecast的应用服务](../Page/Netflix.md "wikilink")。\[1\]
 
@@ -143,8 +143,7 @@ SDK”的[软件开发工具包](../Page/软件开发工具包.md "wikilink")，
   - [智能电视](https://zh.wikipedia.org/wiki/智能电视 "wikilink")
   - [Chrome OS](../Page/Chrome_OS.md "wikilink")
   - [Nexus Q](../Page/Nexus_Q.md "wikilink")
-  - [Nexus
-    Player](https://zh.wikipedia.org/wiki/Nexus_Player "wikilink")
+  - [Nexus Player](../Page/Nexus_Player.md "wikilink")
   - [Google](../Page/Google.md "wikilink")
 
 ## 外部链接

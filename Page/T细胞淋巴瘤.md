@@ -35,8 +35,8 @@ T lymphoblastic)，另2％是屬於"皮膚T細胞淋巴瘤"(cutaneous T cell lym
     lymphoma)
   - [腸病相關性T細胞淋巴瘤](https://zh.wikipedia.org/wiki/腸病相關性T細胞淋巴瘤 "wikilink")(Enteropathy-associated
     T-cell lymphoma)
-  - [前體B細胞淋巴細胞白血病](https://zh.wikipedia.org/wiki/前體B細胞淋巴細胞白血病 "wikilink")(Precursor
-    B-cell lymphoblastic leukemia)
+  - [前體B細胞淋巴細胞白血病](../Page/前體B細胞淋巴細胞白血病.md "wikilink")(Precursor B-cell
+    lymphoblastic leukemia)
 
 ## 註釋
 

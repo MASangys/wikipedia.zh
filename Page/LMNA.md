@@ -62,7 +62,7 @@ with:
   - [SREBF1](https://zh.wikipedia.org/wiki/SREBF1 "wikilink")\[13\]
   - [TMPO](https://zh.wikipedia.org/wiki/Thymopoietin "wikilink")\[14\]\[15\]
   - [ZNF239](https://zh.wikipedia.org/wiki/ZNF239 "wikilink")\[16\]
-  - [SIRT1](https://zh.wikipedia.org/wiki/SIRT1 "wikilink")\[17\]
+  - [SIRT1](../Page/SIRT1.md "wikilink")\[17\]
 
 ## 参考文献
 

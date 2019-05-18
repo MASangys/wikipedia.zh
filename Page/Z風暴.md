@@ -1,4 +1,4 @@
-《**Z風暴**》（；中國大陸地区片名《**反貪風暴**》）是一部於2014年上映的香港剧情[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，[反貪風暴系列電影第一部](https://zh.wikipedia.org/wiki/反貪風暴系列電影 "wikilink")，由[林德祿执導](https://zh.wikipedia.org/wiki/林德祿 "wikilink")，[古天樂](../Page/古天樂.md "wikilink")、[林家栋](https://zh.wikipedia.org/wiki/林家栋 "wikilink")、[陈静](https://zh.wikipedia.org/wiki/陳靜_\(香港\) "wikilink")、[王敏德](../Page/王敏德.md "wikilink")、[盧海鵬及](../Page/盧海鵬.md "wikilink")[盛君領銜主演](../Page/盛君.md "wikilink")。本作中Z是指本作的貪污集團名稱「Z基金」。
+《**Z風暴**》（；中國大陸地区片名《**反貪風暴**》）是一部於2014年上映的香港剧情[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，[反貪風暴系列電影第一部](../Page/反貪風暴系列電影.md "wikilink")，由[林德祿执導](../Page/林德祿.md "wikilink")，[古天樂](../Page/古天樂.md "wikilink")、[林家栋](https://zh.wikipedia.org/wiki/林家栋 "wikilink")、[陈静](https://zh.wikipedia.org/wiki/陳靜_\(香港\) "wikilink")、[王敏德](../Page/王敏德.md "wikilink")、[盧海鵬及](../Page/盧海鵬.md "wikilink")[盛君領銜主演](../Page/盛君.md "wikilink")。本作中Z是指本作的貪污集團名稱「Z基金」。
 
 其續作為《[S風暴](https://zh.wikipedia.org/wiki/S風暴 "wikilink")》，於2016年上映，繼續由[古天樂擔任男主角](../Page/古天樂.md "wikilink")，並加入[張智霖](../Page/張智霖.md "wikilink")、[蔡少芬及](../Page/蔡少芬.md "wikilink")[林保怡等演員聯合主演](../Page/林保怡.md "wikilink")。
 
@@ -196,7 +196,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/羅浩銘" title="wikilink">羅浩銘</a></p></td>
+<td><p><a href="../Page/羅浩銘.md" title="wikilink">羅浩銘</a></p></td>
 <td><p>蔡子彬</p></td>
 <td></td>
 </tr>

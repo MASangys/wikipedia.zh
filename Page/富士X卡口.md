@@ -21,7 +21,7 @@ M
 
   - **[Fujifilm
     X-E1](https://zh.wikipedia.org/wiki/Fujifilm_X-E1 "wikilink")**:
-    2012年9月发布的机型，较X-Pro1为小，但是几乎具备全功能，但混合取景器替换为具备236万像素的[电子取景器](https://zh.wikipedia.org/wiki/电子取景器 "wikilink")。
+    2012年9月发布的机型，较X-Pro1为小，但是几乎具备全功能，但混合取景器替换为具备236万像素的[电子取景器](../Page/电子取景器.md "wikilink")。
 
 <!-- end list -->
 

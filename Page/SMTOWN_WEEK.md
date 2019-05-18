@@ -28,7 +28,7 @@ WEEK**是韓國娛樂公司[SM娛樂旗下歌手的接力演唱會](../Page/SM�
 </tr>
 <tr class="even">
 <td><p>2013年12月24日</p></td>
-<td><p><a href="../Page/f(x)_(組合).md" title="wikilink">f(x)</a> &amp; <a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a> &amp; <a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
 <td><p>Christmas Wonderland [5]</p></td>
 <td></td>
 <td></td>
@@ -91,7 +91,7 @@ WEEK**是韓國娛樂公司[SM娛樂旗下歌手的接力演唱會](../Page/SM�
     （[太妍](../Page/太妍.md "wikilink")、[潔西卡](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[珊妮](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[愈利](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
   - [SHINee](../Page/SHINee.md "wikilink")
     （[溫流](../Page/溫流.md "wikilink")、[鐘鉉](../Page/鐘鉉.md "wikilink")、[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")、[珉豪](../Page/珉豪.md "wikilink")、[泰民](../Page/泰民.md "wikilink")）
-  - [f(x)](../Page/f\(x\)_\(組合\).md "wikilink")
+  - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
     （[Victoria](../Page/宋茜.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna](../Page/朴善英.md "wikilink")、[Sulli](https://zh.wikipedia.org/wiki/崔雪莉 "wikilink")、[Krystal](../Page/鄭秀晶.md "wikilink")）
   - [EXO](../Page/EXO.md "wikilink")
     （[Xiumin](../Page/金珉錫.md "wikilink")、[Luhan](https://zh.wikipedia.org/wiki/鹿晗 "wikilink")、[Kris](../Page/吳亦凡.md "wikilink")、[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Lay](../Page/張藝興.md "wikilink")、[Baekhyun](https://zh.wikipedia.org/wiki/邊伯賢 "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鐘大 "wikilink")、[Chanyeol](https://zh.wikipedia.org/wiki/朴燦烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")、[Tao](../Page/黃子韜.md "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鍾仁 "wikilink")、[Sehun](https://zh.wikipedia.org/wiki/吳世勳_\(藝人\) "wikilink")）

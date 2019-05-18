@@ -6,7 +6,7 @@ Records發售](../Page/SME_Records.md "wikilink")。
 
 本單曲A面曲加插了[貝多芬第9號交響曲的一節選段](../Page/第9號交響曲_\(貝多芬\).md "wikilink")，因此成員在初次聆聽時對此曲作為單曲表示驚奇\[1\]。本作是自《[夏
 wanna say love
-U](https://zh.wikipedia.org/wiki/夏_wanna_say_love_U "wikilink")》七作以來再次收錄三首歌曲，而《Evolution
+U](../Page/夏_wanna_say_love_U.md "wikilink")》七作以來再次收錄三首歌曲，而《Evolution
 No.9》成為了[MBS連續電視劇](../Page/每日放送.md "wikilink")《[TANK-TOP
 FIGHTER](../Page/TANK-TOP_FIGHTER.md "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。單曲在[Oricon公信榜週榜獲得第六名](../Page/Oricon公信榜.md "wikilink")，是組團以來最高的排名\[2\]。
 

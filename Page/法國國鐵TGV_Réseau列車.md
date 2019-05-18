@@ -1,5 +1,5 @@
 **法國國鐵TGV
-Réseau列車**（），是[法國高鐵首款專為跨國路線而製造的列車](https://zh.wikipedia.org/wiki/法國 "wikilink")，由阿爾斯通於1992至1996年間製造，在1993年5月啟用，行駛在[北線及](https://zh.wikipedia.org/wiki/法國高速鐵路北線 "wikilink")[東南線上](../Page/法國高速鐵路東南線.md "wikilink")。設計上與[TGV-A近似](https://zh.wikipedia.org/wiki/法國國鐵TGV_Atlantique列車 "wikilink")，營運時速起初為300公里，其後提速至320公里，但加入比利時、荷蘭等地區的電壓。
+Réseau列車**（），是[法國高鐵首款專為跨國路線而製造的列車](https://zh.wikipedia.org/wiki/法國 "wikilink")，由阿爾斯通於1992至1996年間製造，在1993年5月啟用，行駛在[北線及](https://zh.wikipedia.org/wiki/法國高速鐵路北線 "wikilink")[東南線上](../Page/法國高速鐵路東南線.md "wikilink")。設計上與[TGV-A近似](../Page/法國國鐵TGV_Atlantique列車.md "wikilink")，營運時速起初為300公里，其後提速至320公里，但加入比利時、荷蘭等地區的電壓。
 
 ## 列車資料
 

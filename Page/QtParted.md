@@ -16,7 +16,7 @@ Manager在](../Page/KDE_Partition_Manager.md "wikilink")2005年後取代了QtPar
 
   - [KDE Partition Manager](../Page/KDE_Partition_Manager.md "wikilink")
   - [硬碟分割](https://zh.wikipedia.org/wiki/硬碟分割 "wikilink")
-  - [硬碟分割軟體列表](https://zh.wikipedia.org/wiki/硬碟分割軟體列表 "wikilink")
+  - [硬碟分割軟體列表](../Page/硬碟分割軟體列表.md "wikilink")
   - [GParted](../Page/GParted.md "wikilink")，相對於QtParted，GParted則是使用[GTK+寫成](https://zh.wikipedia.org/wiki/GTK+ "wikilink")
 
 ## 外部連結

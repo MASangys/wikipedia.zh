@@ -262,7 +262,7 @@ Saldonia共和國總統。是通過日本石油貿易協議協商確定，企圖
 
   - 原作 - [逢坂剛](../Page/逢坂剛.md "wikilink")《百舌吶喊的夜晚》《幻之翼》（集英社文庫刊）
   - 劇本 - [仁志光佑](https://zh.wikipedia.org/wiki/仁志光佑 "wikilink")
-  - 音樂 - [菅野祐悟](https://zh.wikipedia.org/wiki/菅野祐悟 "wikilink")
+  - 音樂 - [菅野祐悟](../Page/菅野祐悟.md "wikilink")
   - 導演 - [羽住英一郎](https://zh.wikipedia.org/wiki/羽住英一郎 "wikilink")
   - 副導演 - 川村直紀
   - 助理導演 - 片桐健滋
@@ -299,7 +299,7 @@ Saldonia共和國總統。是通過日本石油貿易協議協商確定，企圖
 ### 獎項
 
   - 2014年[銀河賞](../Page/銀河賞.md "wikilink")7月度月間賞
-  - 2014年[東京國際戲劇節](https://zh.wikipedia.org/wiki/東京國際戲劇節 "wikilink")
+  - 2014年[東京國際戲劇節](../Page/東京國際戲劇節.md "wikilink")
       - 作品優秀賞（連續劇部門）
       - 最佳男配角：[吉田鋼太郎](https://zh.wikipedia.org/wiki/吉田鋼太郎 "wikilink")
       - 特別賞：（支援《MOZU》等電視劇劇組的地方製片團體）

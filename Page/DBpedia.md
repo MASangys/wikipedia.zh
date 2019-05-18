@@ -39,11 +39,11 @@ SELECT ?who, ?WORK, ?genre WHERE {
 ## 使用DBpedia的相關計畫或組織
 
 DBpedia廣納了人類知識不同領域，十分多元的範疇資料。這使得它自然而然成為連結眾多資料集的樞紐，讓外部資料集能夠連結到相關的概念。\[11\]DBpedia的資料集是跟其他許多網路上不同的[開放資料資料集在RDF的層級交互相連著](../Page/開放資料.md "wikilink")。透過這些資料集，可以讓應用程式豐富DBpedia的資料。，已經有超過4500萬筆在DBpedia與外部資料集之間的交互連結產生，外部資料集包含：[Freebase
-(database)](https://zh.wikipedia.org/wiki/Freebase_\(database\) "wikilink")、[OpenCyc](https://zh.wikipedia.org/wiki/Cyc#OpenCyc "wikilink")、、、[Musicbrainz](../Page/Musicbrainz.md "wikilink")、[CIA
+(database)](https://zh.wikipedia.org/wiki/Freebase_\(database\) "wikilink")、[OpenCyc](https://zh.wikipedia.org/wiki/Cyc#OpenCyc "wikilink")、、、[Musicbrainz](https://zh.wikipedia.org/wiki/Musicbrainz "wikilink")、[CIA
 World Fact
 Book](https://zh.wikipedia.org/wiki/CIA_World_Fact_Book "wikilink")、[DBLP](https://zh.wikipedia.org/wiki/DBLP "wikilink")、[Project
 Gutenberg](https://zh.wikipedia.org/wiki/Project_Gutenberg "wikilink")、DBtune
-[Jamendo](../Page/Jamendo.md "wikilink")、[Eurostat](https://zh.wikipedia.org/wiki/Eurostat "wikilink")、[Uniprot](../Page/Uniprot.md "wikilink")、、以及等資料\[12\]\[13\]。[湯森路透公司的前導計畫](https://zh.wikipedia.org/wiki/湯森路透 "wikilink")、[紐約時報的連結開放資料計畫](https://zh.wikipedia.org/wiki/New_York_Times "wikilink")、以及[DBpedia
+[Jamendo](../Page/Jamendo.md "wikilink")、[Eurostat](https://zh.wikipedia.org/wiki/Eurostat "wikilink")、[Uniprot](https://zh.wikipedia.org/wiki/Uniprot "wikilink")、、以及等資料\[12\]\[13\]。[湯森路透公司的前導計畫](https://zh.wikipedia.org/wiki/湯森路透 "wikilink")、[紐約時報的連結開放資料計畫](https://zh.wikipedia.org/wiki/New_York_Times "wikilink")、以及[DBpedia
 Spotlight也納入了DBpedia的連結](https://zh.wikipedia.org/wiki/DBpedia_Spotlight "wikilink")\[14\]\[15\]\[16\]。[BBC也使用DBpedia來輔助其內容組織](https://zh.wikipedia.org/wiki/BBC "wikilink")\[17\]\[18\]。使用DBpedia進行語意標籤（semantic
 tagging）\[19\]。
 
@@ -68,12 +68,12 @@ Spotlight聚焦在多種不同用途的客製應用。不去聚焦於少部分�
 DBpedia
 Spotlight可公開獲取，是以一個為了測試用途而提供的[網路服務](https://zh.wikipedia.org/wiki/web_service "wikilink")，或者也可以從[Apache授權的](https://zh.wikipedia.org/wiki/Apache_License "wikilink")[Java](../Page/Java.md "wikilink")/[Scala](../Page/Scala.md "wikilink")
 API。DBpedia
-Spotlight分配也包含了一[jQuery插件](../Page/jQuery.md "wikilink")，此插件允許開發人員在網路上的任何一頁加上註解，只要在他們的頁面上增加一行文字即可\[21\]用戶端也有Java或[PHP的支援應用](../Page/PHP.md "wikilink")\[22\]。此工具可從其展示頁（demo
+Spotlight分配也包含了一[jQuery插件](https://zh.wikipedia.org/wiki/jQuery "wikilink")，此插件允許開發人員在網路上的任何一頁加上註解，只要在他們的頁面上增加一行文字即可\[21\]用戶端也有Java或[PHP的支援應用](../Page/PHP.md "wikilink")\[22\]。此工具可從其展示頁（demo
 page）裡，處理多種的英語資料\[23\]以及網路服務。國際化的支援部分，只要此語言有開維基百科即可支援\[24\]。
 
 ## 參見
 
-  - [BabelNet](https://zh.wikipedia.org/wiki/BabelNet "wikilink")
+  - [BabelNet](../Page/BabelNet.md "wikilink")
   - [Freebase](../Page/Freebase.md "wikilink")
   - [Semantic
     MediaWiki](https://zh.wikipedia.org/wiki/Semantic_MediaWiki "wikilink")

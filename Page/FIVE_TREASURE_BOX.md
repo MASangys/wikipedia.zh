@@ -4,7 +4,7 @@ BOX**》是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilin
 ## 概要
 
   - 與上一張正規專輯《[CROSS &
-    CHANGE](https://zh.wikipedia.org/wiki/CROSS_&_CHANGE "wikilink")》相距約3年2個月。
+    CHANGE](../Page/CROSS_&_CHANGE.md "wikilink")》相距約3年2個月。
   - 專輯收錄曲《Stay with me》為成員[洪基創作](../Page/李洪基.md "wikilink")。
   - 主打曲目《我希望》於2012年9月20日在[M\!
     Countdown取得](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")1位。

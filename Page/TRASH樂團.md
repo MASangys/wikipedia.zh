@@ -37,7 +37,7 @@ rock](https://zh.wikipedia.org/wiki/Alternative_rock "wikilink")、[Grunge為主
 <td><p>林伯儒（頤原）</p></td>
 <td></td>
 <td><p>鹿港</p></td>
-<td><p>2013年9月 加入，<a href="https://zh.wikipedia.org/wiki/林哲熹" title="wikilink">林哲熹親哥哥</a></p></td>
+<td><p>2013年9月 加入，<a href="../Page/林哲熹.md" title="wikilink">林哲熹親哥哥</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>貝斯</p></td>

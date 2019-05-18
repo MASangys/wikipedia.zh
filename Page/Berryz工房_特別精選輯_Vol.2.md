@@ -53,7 +53,8 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
     （作詞、作曲：淳君　編曲：[平田祥一郎](https://zh.wikipedia.org/wiki/平田祥一郎 "wikilink")）
       -
         第30張單曲
-7.  **[cha cha SING](../Page/cha_cha_SING.md "wikilink")**
+7.  **[cha cha
+    SING](https://zh.wikipedia.org/wiki/cha_cha_SING "wikilink")**
     （作詞：[Mukek
     Jongmankhong](https://zh.wikipedia.org/wiki/Mukek_Jongmankhong "wikilink")　日語填詞：淳君　作曲：[Sudsan
     Wongsamut](https://zh.wikipedia.org/wiki/Sudsan_Wongsamut "wikilink")　編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")）

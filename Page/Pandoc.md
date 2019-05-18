@@ -35,7 +35,7 @@ GPL授权协议发布](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，属�
 <li>TeX格式：包括<a href="https://zh.wikipedia.org/wiki/LaTeX" title="wikilink">LaTeX</a>、<a href="https://zh.wikipedia.org/wiki/ConTeXt" title="wikilink">ConTeXt</a>、<a href="../Page/Beamer_(LaTeX).md" title="wikilink">LaTeX Beamer</a></li>
 <li>PDF格式：需要LaTeX支持</li>
 <li>轻量级标记语言格式：包括<a href="https://zh.wikipedia.org/wiki/Markdown" title="wikilink">Markdown</a>、<a href="https://zh.wikipedia.org/wiki/reStructuredText" title="wikilink">reStructuredText</a>、<a href="https://zh.wikipedia.org/wiki/textile" title="wikilink">textile</a>、<a href="../Page/Org-模式.md" title="wikilink">Org-Mode</a>、<a href="../Page/MediaWiki.md" title="wikilink">MediaWiki标记语言</a>、<a href="https://zh.wikipedia.org/wiki/AsciiDoc" title="wikilink">AsciiDoc</a></li>
-<li>自定义格式：可使用<a href="../Page/lua.md" title="wikilink">lua自定义转换规则</a></li>
+<li>自定义格式：可使用<a href="https://zh.wikipedia.org/wiki/lua" title="wikilink">lua自定义转换规则</a></li>
 </ul></td>
 </tr>
 </tbody>

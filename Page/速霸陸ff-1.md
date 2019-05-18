@@ -15,7 +15,7 @@ layout」，也就是「[前置前驅](https://zh.wikipedia.org/wiki/前置前�
 
 1970年 -
 由於[消費者的需求改變](https://zh.wikipedia.org/wiki/消費者 "wikilink")，要求更高的[馬力](../Page/馬力.md "wikilink")，7月富士重工業改推出引擎[排氣量更大的](https://zh.wikipedia.org/wiki/排氣量 "wikilink")[速霸陸ff-1
-1300G](https://zh.wikipedia.org/wiki/速霸陸ff-1_1300G "wikilink")，既有的ff-1則改稱**速霸陸ff-1
+1300G](../Page/速霸陸ff-1_1300G.md "wikilink")，既有的ff-1則改稱**速霸陸ff-1
 1100系列**。另一方面，這款車自1970年起向[美國外銷](https://zh.wikipedia.org/wiki/美國 "wikilink")，到1973年為止共賣出1萬餘輛。
 
 Image:Subaru ff-1 Sports.jpg|四門運動版車頭 Image:Subaru ff-1 Sports
@@ -26,8 +26,7 @@ rear.jpg|四門運動版車尾 Image:Subaruff-1 1100DX 03.jpg|引擎室特寫
 ## 內部連結
 
   - [速霸陸1000](../Page/速霸陸1000.md "wikilink")
-  - [速霸陸ff-1
-    1300G](https://zh.wikipedia.org/wiki/速霸陸ff-1_1300G "wikilink")
+  - [速霸陸ff-1 1300G](../Page/速霸陸ff-1_1300G.md "wikilink")
 
 ## 外部連結
 

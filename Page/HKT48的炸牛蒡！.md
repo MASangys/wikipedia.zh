@@ -35,7 +35,7 @@
       - 阿部哲陽（搞笑二人組「」成員）
   - 特別來賓
       - [堀內健](https://zh.wikipedia.org/wiki/堀內健 "wikilink")（搞笑三人組「[海王星](https://zh.wikipedia.org/wiki/海王星_\(搞笑組合\) "wikilink")」成員）
-      - [澤部佑](https://zh.wikipedia.org/wiki/澤部佑 "wikilink")（搞笑二人組「[原市](../Page/原市.md "wikilink")」成員）
+      - [澤部佑](../Page/澤部佑.md "wikilink")（搞笑二人組「[原市](../Page/原市.md "wikilink")」成員）
 
 ## 節目內容
 

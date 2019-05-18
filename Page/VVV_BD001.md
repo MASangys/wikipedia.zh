@@ -26,7 +26,7 @@ Survey（[Spitzer](../Page/史匹哲太空望遠鏡.md "wikilink")/）等紅外�
 
 2013年7月1日，Beamín 等人提交的發現 VVV BD001
 論文被期刊方面收到\[4\]\[5\]。同年8月12日被接受並即將出版，8月14日電子版本被送到
-[arXiv](../Page/arXiv.md "wikilink")，之後在9月的《[天文与天体物理学报](../Page/天文与天体物理学报.md "wikilink")》正式出版\[6\]。
+[arXiv](https://zh.wikipedia.org/wiki/arXiv "wikilink")，之後在9月的《[天文与天体物理学报](../Page/天文与天体物理学报.md "wikilink")》正式出版\[6\]。
 
 VVV
 BD001是第一個由VVV巡天發現的棕矮星。同時因為銀心方向是天體在天球上分布密度最高區域，因此它也是第一個在銀心方向上被發現的棕矮星\[7\]。
@@ -65,7 +65,8 @@ VVV BD001被歸類為不尋常的光譜 L 型偏藍棕矮星\[10\]。
 2.
 3.
 4.
-5.  2013年7月4日，參見 [arXiv](../Page/arXiv.md "wikilink") 資料庫的電子版文件。
+5.  2013年7月4日，參見 [arXiv](https://zh.wikipedia.org/wiki/arXiv "wikilink")
+    資料庫的電子版文件。
 
 6.
 7.

@@ -1,8 +1,8 @@
 **SuperCollider** 是一个最初由 James McCartney
-在1996年发布的[编程语言和声音编程环境](../Page/编程语言.md "wikilink")，主要用于[实时](../Page/实时.md "wikilink")[声音合成和](../Page/合成器.md "wikilink")[算法作曲](https://zh.wikipedia.org/wiki/算法作曲 "wikilink")。\[1\]\[2\]
+在1996年发布的[编程语言和声音编程环境](../Page/编程语言.md "wikilink")，主要用于[实时](../Page/实时.md "wikilink")[声音合成和](../Page/合成器.md "wikilink")[算法作曲](../Page/算法作曲.md "wikilink")。\[1\]\[2\]
 
 自此之后，它逐步变成一个被科学家与艺术家们共同开发和操作声音的系统。这个高效且有表现力的[动态语言](../Page/动态语言.md "wikilink")，为[声学](../Page/声学.md "wikilink")、
-[算法音乐和](https://zh.wikipedia.org/wiki/算法作曲 "wikilink")提供了一个框架。\[3\]
+[算法音乐和](../Page/算法作曲.md "wikilink")提供了一个框架。\[3\]
 
 在2002年以[GNU通用公共许可协议发布](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")，SuperCollider
 是[自由软件](../Page/自由软件.md "wikilink")。

@@ -153,7 +153,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/朴赫權" title="wikilink">朴赫權</a></p></td>
+<p><a href="../Page/朴赫權.md" title="wikilink">朴赫權</a></p></td>
 <td><center>
 <p>王常務</p></td>
 <td></td>
@@ -177,7 +177,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/趙德賢" title="wikilink">趙德賢</a></p></td>
+<p><a href="../Page/趙德賢.md" title="wikilink">趙德賢</a></p></td>
 <td><center>
 <p>金友甲</p></td>
 <td><p>「Midas」代表</p></td>
@@ -353,9 +353,9 @@
 
 ## 同時段競爭節目
 
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[Triangle](../Page/Triangle_\(電視劇\).md "wikilink")》、《[更夫日誌](https://zh.wikipedia.org/wiki/更夫日誌 "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")：《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》、《[誘惑](https://zh.wikipedia.org/wiki/誘惑_\(韓國電視劇\) "wikilink")》
-  - [JTBC](../Page/JTBC.md "wikilink")：《[宥娜的街](https://zh.wikipedia.org/wiki/宥娜的街 "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[Triangle](../Page/Triangle_\(電視劇\).md "wikilink")》、《[更夫日誌](../Page/更夫日誌.md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink")：《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》、《[誘惑](../Page/誘惑_\(韓國電視劇\).md "wikilink")》
+  - [JTBC](../Page/JTBC.md "wikilink")：《[宥娜的街](../Page/宥娜的街.md "wikilink")》
 
 ## 腳註
 

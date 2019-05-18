@@ -1,10 +1,10 @@
-《**DoReDoRe之歌**》（）是2005年由日本動畫室[吉卜力工作室的](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")[田邊修執導](https://zh.wikipedia.org/wiki/田邊修 "wikilink")、與企業[讀賣新聞合作推出的短篇動畫](../Page/讀賣新聞.md "wikilink")
+《**DoReDoRe之歌**》（）是2005年由日本動畫室[吉卜力工作室的](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")[田邊修執導](../Page/田邊修.md "wikilink")、與企業[讀賣新聞合作推出的短篇動畫](../Page/讀賣新聞.md "wikilink")
 
 ## 作品經緯
 
 在2004年，日本報社[讀賣新聞為了慶祝公司創辦以來的](../Page/讀賣新聞.md "wikilink")130週年慶，特別邀請[吉卜力工作室的動畫導演](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")[宮崎駿](https://zh.wikipedia.org/wiki/宮崎駿 "wikilink")；為他們設計一個能代表公司形象的吉祥物。最後宮崎駿弄出以綠色眼孔狀為背景、中間放置一個閱讀新聞的擬人化小蟲子作為該角色的造型。而該角色名稱則從眾多讀者回函來信中；以日語裡頭想對事情一探究竟的字詞「」（DoReDoRe）給屏選。\[1\]
 
-之後因吉卜力旗下的動畫師[田邊修為讀賣新聞所拍攝的](https://zh.wikipedia.org/wiki/田邊修 "wikilink")130週年慶廣告動畫；獲得到當時讀賣新聞東京總部宣傳部長黑河内豐的好評，便希望田邊修能再替他們的企業形象角色DoReDoRe拍攝新廣告。而田邊修於隔年春季完成推出的DoReDoRe廣告動畫系列，是由Yamaha
+之後因吉卜力旗下的動畫師[田邊修為讀賣新聞所拍攝的](../Page/田邊修.md "wikilink")130週年慶廣告動畫；獲得到當時讀賣新聞東京總部宣傳部長黑河内豐的好評，便希望田邊修能再替他們的企業形象角色DoReDoRe拍攝新廣告。而田邊修於隔年春季完成推出的DoReDoRe廣告動畫系列，是由Yamaha
 Music旗下女歌手[拜鄉芽衣子負責其廣告配樂的](https://zh.wikipedia.org/wiki/拜鄉芽衣子 "wikilink")。\[2\]
 
 因《DoReDoRe搬家篇》於電視上映期間在幼齡層觀眾圈裡獲得廣大迴響，吉卜力的影片製作人[鈴木敏夫便進一步提案讓拜鄉芽衣子將先前的插曲製作成數分鐘完整的歌曲](../Page/鈴木敏夫.md "wikilink")，並同樣讓田邊修以此歌曲拍攝成數分鐘的短篇音樂動畫《DoReDoRe之歌》於2005年夏季播放。\[3\]\[4\]
@@ -15,7 +15,7 @@ Music旗下女歌手[拜鄉芽衣子負責其廣告配樂的](https://zh.wikiped
 
 ## 製作人員
 
-  - 導演、分鏡圖：[田邊修](https://zh.wikipedia.org/wiki/田邊修 "wikilink")
+  - 導演、分鏡圖：[田邊修](../Page/田邊修.md "wikilink")
   - 作詞、作曲、演唱：[拜鄉芽衣子](https://zh.wikipedia.org/wiki/拜鄉芽衣子 "wikilink")
   - 製作工作室：吉卜力工作室
   - 作品資金：YAMAHA MUSIC COMMUNICATIONS CO., LTD.

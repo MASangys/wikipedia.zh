@@ -105,7 +105,8 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
 <!-- end list -->
 
   -
-    配音員 - [Yuh（vistlip）](../Page/vistlip.md "wikilink")
+    配音員 -
+    [Yuh（vistlip）](https://zh.wikipedia.org/wiki/vistlip "wikilink")
     生日／不明　星座／不明　身高／175cm　體重／59kg　血型／不明
     興趣／愛撫動物等事　特技／情報活動　喜歡食物／甜食　討厭食物／白酒
     持有非凡技術的「超絕吉他手」。
@@ -398,7 +399,8 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
 
   - 製片人 - 石田健博
   - 角色設計 - 藤坂公彦
-  - 插圖製作 - [Studio DEEN](../Page/Studio_DEEN.md "wikilink")
+  - 插圖製作 - [Studio
+    DEEN](https://zh.wikipedia.org/wiki/Studio_DEEN "wikilink")
   - 劇本 - StoryWorks
   - 映像監督 - Alice From Japan 松正人
   - 樂曲製作 - 朝日電視台MUSIC
@@ -416,7 +418,7 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
 
   - 「Period」
     作詞 - 智（vistlip）／作曲 - Tohya（vistlip）／編曲・歌 -
-    [vistlip](../Page/vistlip.md "wikilink")
+    [vistlip](https://zh.wikipedia.org/wiki/vistlip "wikilink")
 
 ## 關連商品
 
@@ -567,8 +569,9 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
   - 監製 - 中山晴喜、許田周一
   - 製片人 - 丸山創、青木美菜子、服部健太郎、高橋知子、野口智
   - 動畫生產 - 和田薫
-  - 動畫製作 - [Studio DEEN](../Page/Studio_DEEN.md "wikilink")
-  - 生產 - [NAS](../Page/日本Ad_Systems.md "wikilink")
+  - 動畫製作 - [Studio
+    DEEN](https://zh.wikipedia.org/wiki/Studio_DEEN "wikilink")
+  - 生產 - [NAS](https://zh.wikipedia.org/wiki/日本Ad_Systems "wikilink")
   - 製作 - 幕末Rock製作委員会（Marvelous、NBC Universal・Entertainment
     Japan、NAS、朝日電視台 Music）
 
@@ -708,7 +711,7 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
 <td><p>第01話</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廣田光毅" title="wikilink">廣田光毅</a></p></td>
+<td><p><a href="../Page/廣田光毅.md" title="wikilink">廣田光毅</a></p></td>
 <td><p><a href="../Page/川崎逸朗.md" title="wikilink">川崎逸朗</a></p></td>
 <td><p>吉田俊司</p></td>
 <td><p>森本浩文、浅井昭人</p></td>
@@ -777,7 +780,7 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
 <td></td>
 <td></td>
 <td><p>笹野恵</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/稻垣隆行" title="wikilink">稻垣隆行</a></p></td>
+<td><p><a href="../Page/稻垣隆行.md" title="wikilink">稻垣隆行</a></p></td>
 <td><p>牧野友映</p></td>
 <td><p>鎌田均、中島美子<br />
 藤田正幸、出野喜則</p></td>

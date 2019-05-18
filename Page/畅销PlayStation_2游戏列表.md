@@ -29,7 +29,7 @@
 <td><p><a href="../Page/Rockstar_North.md" title="wikilink">Rockstar North</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/GT赛车3_A-Spec" title="wikilink">GT赛车3 A-Spec</a></p></td>
+<td><p><a href="../Page/GT赛车3_A-Spec.md" title="wikilink">GT赛车3 A-Spec</a></p></td>
 <td><p>[5]</p></td>
 <td><ul>
 <li>北美市场714万[6]</li>
@@ -171,7 +171,7 @@
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/體育類遊戲" title="wikilink">體育</a></p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/EA_Sports" title="wikilink">EA Sports</a></p></td>
+<td><p><a href="../Page/EA_Sports.md" title="wikilink">EA Sports</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/戰神II.md" title="wikilink">戰神II</a></p></td>
@@ -417,7 +417,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/古惑狼：皮质的愤怒" title="wikilink">古惑狼：皮质的愤怒</a></p></td>
+<td><p><a href="../Page/古惑狼：皮质的愤怒.md" title="wikilink">古惑狼：皮质的愤怒</a></p></td>
 <td></td>
 <td><ul>
 <li>美国市场195万[89]</li>
@@ -1116,7 +1116,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/GT赛车概念版" title="wikilink">GT赛车概念版</a></p></td>
+<td><p><a href="../Page/GT赛车概念版.md" title="wikilink">GT赛车概念版</a></p></td>
 <td><p>shipped[216][217]</p></td>
 <td></td>
 <td></td>
@@ -1125,7 +1125,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/吉他英雄" title="wikilink">吉他英雄</a></p></td>
+<td><p><a href="../Page/吉他英雄.md" title="wikilink">吉他英雄</a></p></td>
 <td><p>in the US[218]</p></td>
 <td></td>
 <td></td>
@@ -1456,7 +1456,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/皇牌空战5_未被歌颂的战争" title="wikilink">皇牌空战5 未被歌颂的战争</a></p></td>
+<td><p><a href="../Page/皇牌空战5_未被歌颂的战争.md" title="wikilink">皇牌空战5 未被歌颂的战争</a></p></td>
 <td></td>
 <td><ul>
 <li>北美市场100万[277]</li>

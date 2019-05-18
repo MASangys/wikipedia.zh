@@ -235,7 +235,7 @@
 <tr class="odd">
 <td><p>2014年6月11日</p></td>
 <td><p>SBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/都市的法則" title="wikilink">都市的法則</a></p></td>
+<td><p><a href="../Page/都市的法則.md" title="wikilink">都市的法則</a></p></td>
 <td><p>Moon</p></td>
 <td><p>已播畢，共10集</p></td>
 </tr>

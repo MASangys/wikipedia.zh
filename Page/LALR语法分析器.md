@@ -1,7 +1,7 @@
 在计算机科学中，**LALR分析器**是一种的简化形式。它可以对上下无关文法进行语法分析。**LALR**即“**L**ook-**A**head
 **LR**”。其中，Look-Ahead为“向前看”，L代表对输入进行从左到右的检查，R代表反向构造出最右推导序列。
 **LALR分析器**可以根据一种程序设计语言的正式语法的而对一段文本程序输入进行[语法分析](https://zh.wikipedia.org/wiki/语法分析 "wikilink")，从而在语法层面上判断输入程序是否合法。
-实际应用中的LALR分析器并不是由人手工写成的，而是由类似于[yacc和](../Page/yacc.md "wikilink")[GNU
+实际应用中的LALR分析器并不是由人手工写成的，而是由类似于[yacc和](https://zh.wikipedia.org/wiki/yacc "wikilink")[GNU
 Bison之类的](https://zh.wikipedia.org/wiki/GNU_Bison "wikilink")构成。由机器自动生成的代码相比较于程序员手工的代码，拥有更好的运行效率而且减少了程序员的工作量。
 
 ## 历史

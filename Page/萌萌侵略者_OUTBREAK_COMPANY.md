@@ -337,7 +337,7 @@ COMPANY**》為標題，2013年10月3日起在[TBS電視台](../Page/TBS電視�
   - 音樂制作：[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")
   - 製片人：田中潤一朗、高取昌史、有本充利、新宿五郎、相田武一郎、
   - 動畫製作人：瀧崎誠
-  - 動畫製作：[feel.](../Page/feel..md "wikilink")
+  - 動畫製作：[feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")
   - 製作：OBC製作委員会、TBS
 
 ### 主題曲
@@ -597,7 +597,7 @@ COMPANY**》為標題，2013年10月3日起在[TBS電視台](../Page/TBS電視�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NICONICO動畫.md" title="wikilink">NICONICO動畫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NICONICO動畫" title="wikilink">NICONICO動畫</a></p></td>
 <td><p>星期二 24時00分 更新</p></td>
 <td></td>
 <td></td>
@@ -614,7 +614,7 @@ COMPANY**》為標題，2013年10月3日起在[TBS電視台](../Page/TBS電視�
 有字幕<br />
 雙語廣播<br />
 有重播<br />
-<a href="../Page/myTV.md" title="wikilink">myTV提供</a>14天重溫</p></td>
+<a href="https://zh.wikipedia.org/wiki/myTV" title="wikilink">myTV提供</a>14天重溫</p></td>
 </tr>
 </tbody>
 </table>

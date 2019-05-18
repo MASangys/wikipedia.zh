@@ -1,10 +1,10 @@
 **2K Sports**是美国电子游戏开发商[Take-Two
 Interactive旗下](../Page/Take-Two_Interactive.md "wikilink")[2K
 Games的体育竞技游戏部门](../Page/2K_Games.md "wikilink")。Take-Two为了在体育竞技游戏市场上与[美国艺电旗下的](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")[EA
-Sports体育部门一决高下](https://zh.wikipedia.org/wiki/EA_Sports "wikilink")，由Take-Two收购日本[世嘉公司旗下的工作室](../Page/世嘉.md "wikilink")[Visual
+Sports体育部门一决高下](../Page/EA_Sports.md "wikilink")，由Take-Two收购日本[世嘉公司旗下的工作室](../Page/世嘉.md "wikilink")[Visual
 Concepts工作室以及其完全所有的子公司](../Page/Visual_Concepts.md "wikilink")[Kush
 Games引入旗下](https://zh.wikipedia.org/wiki/Kush_Games "wikilink")。该公司的作品中，以《[NBA
-2K](https://zh.wikipedia.org/wiki/NBA_2K系列 "wikilink")》系列最为知名，此外该公司也开发以[美国职棒大联盟为蓝本的](https://zh.wikipedia.org/wiki/美国职棒大联盟 "wikilink")《[MLB
+2K](../Page/NBA_2K系列.md "wikilink")》系列最为知名，此外该公司也开发以[美国职棒大联盟为蓝本的](https://zh.wikipedia.org/wiki/美国职棒大联盟 "wikilink")《[MLB
 2K](https://zh.wikipedia.org/wiki/MLB_2K "wikilink")》系列，以及以[世界摔角娛樂為主題的](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")《》系列，但是《WWE
 2K》系列是由Take-Two从刚刚倒闭的[THQ公司手里收购旗下的](https://zh.wikipedia.org/wiki/THQ "wikilink")工作室而来。
 
@@ -27,7 +27,7 @@ Interactive从刚刚倒闭的THQ公司手里收购旗下的Yuke's工作室，获
 
   - [MLB 2K系列](https://zh.wikipedia.org/wiki/MLB_2K "wikilink")
   - [NFL 2K系列](https://zh.wikipedia.org/wiki/NFL_2K "wikilink")
-  - [NBA 2K系列](https://zh.wikipedia.org/wiki/NBA_2K系列 "wikilink")
+  - [NBA 2K系列](../Page/NBA_2K系列.md "wikilink")
   - [NHL 2K系列](https://zh.wikipedia.org/wiki/NHL_2K "wikilink")
   - [上旋高手系列](https://zh.wikipedia.org/wiki/上旋高手 "wikilink")
   - [WWE](https://zh.wikipedia.org/wiki/WWE "wikilink") 2K系列

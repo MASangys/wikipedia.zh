@@ -41,8 +41,8 @@ Web Service (PWS), Pivotal Hadoop (PHD), Hawq 和Greenplum Database
 
   - [Microsoft Azure](../Page/Microsoft_Azure.md "wikilink")
   - [亚马逊网络服务系统](https://zh.wikipedia.org/wiki/亚马逊网络服务系统 "wikilink")
-  - [Cloudera](https://zh.wikipedia.org/wiki/Cloudera "wikilink")
-  - [Hortonworks](https://zh.wikipedia.org/wiki/Hortonworks "wikilink")
+  - [Cloudera](../Page/Cloudera.md "wikilink")
+  - [Hortonworks](../Page/Hortonworks.md "wikilink")
 
 ## 参考资料
 

@@ -1,4 +1,4 @@
-《**Jumping**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[大國男兒的第五張日語單曲](../Page/大國男兒.md "wikilink")，由作曲，[H.U.B填詞](https://zh.wikipedia.org/wiki/H.U.B "wikilink")，並在2012年3月28日由[日本索尼音樂娛樂以三個不同版本推出](../Page/日本索尼音樂娛樂.md "wikilink")。
+《**Jumping**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[大國男兒的第五張日語單曲](../Page/大國男兒.md "wikilink")，由作曲，[H.U.B填詞](../Page/H.U.B.md "wikilink")，並在2012年3月28日由[日本索尼音樂娛樂以三個不同版本推出](../Page/日本索尼音樂娛樂.md "wikilink")。
 
 ## 背景
 

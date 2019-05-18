@@ -46,12 +46,12 @@ COAST。
   - 最優秀女優獎
       - **白金獎**：**[上原亞衣](https://zh.wikipedia.org/wiki/上原亞衣 "wikilink")**\[5\]
       - **黃金獎**：**[彩美旬果](../Page/彩美旬果.md "wikilink")**
-  - 最優秀新人獎：[白石茉莉奈](https://zh.wikipedia.org/wiki/白石茉莉奈 "wikilink")\[6\]
+  - 最優秀新人獎：[白石茉莉奈](../Page/白石茉莉奈.md "wikilink")\[6\]
   - 特別獎：[麻美由真](../Page/麻美由真.md "wikilink")（大病後的復出）\[7\]
   - 話題獎
       - **[吉澤明步](../Page/吉澤明步.md "wikilink")**（入行10週年）
       - **[明日花綺羅](../Page/明日花綺羅.md "wikilink")**（擔任過兩家片商的專屬女優）
-  - 特別主持人獎：[吉川愛美](https://zh.wikipedia.org/wiki/吉川愛美 "wikilink")
+  - 特別主持人獎：[吉川愛美](../Page/吉川愛美.md "wikilink")
   - 最優秀作品獎
       - 郵購：《**AV debut**》 -
         [橘梨紗](https://zh.wikipedia.org/wiki/橘梨紗 "wikilink")
@@ -75,7 +75,7 @@ COAST。
 [城田理加](https://zh.wikipedia.org/wiki/城田理加 "wikilink")
 
 :\* 配送《**がご奉仕しちゃう
-超最新やみつきエステ**》（2014年5月1日、[PRESTIGE](../Page/Prestige.md "wikilink")）-
+超最新やみつきエステ**》（2014年5月1日、[PRESTIGE](https://zh.wikipedia.org/wiki/Prestige "wikilink")）-
 [桃谷繪里香](https://zh.wikipedia.org/wiki/桃谷繪里香 "wikilink")
 
 :\* 租賃：《'''現役女子大生\!\! 照れカワ、ふんわり18歳 AVデビュー\!\!
@@ -90,7 +90,7 @@ COAST。
   - 特別獎：**[JULIA](../Page/JULIA_\(AV女優\).md "wikilink")**
   - 話題獎：**[市川まさみ](https://zh.wikipedia.org/wiki/市川まさみ "wikilink")**
   - 特別主持人獎：**[葵司](https://zh.wikipedia.org/wiki/葵つかさ "wikilink")**
-  - 媒體獎：**[紗倉まな](https://zh.wikipedia.org/wiki/紗倉真菜 "wikilink")**
+  - 媒體獎：**[紗倉まな](../Page/紗倉真菜.md "wikilink")**
   - 最優秀作品獎
 
 :\* 郵購：《**Princess
@@ -109,36 +109,36 @@ Peach**》（2015年6月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wi
 
   - 最優秀女優獎：**三上悠亚**
   - 優秀女優獎：**[明日花绮罗](../Page/明日花綺羅.md "wikilink")**
-  - 最優秀新人獎：**[高桥圣子](https://zh.wikipedia.org/wiki/高橋聖子 "wikilink")**
-  - 優秀新人獎：**[羽咲美晴](https://zh.wikipedia.org/wiki/羽咲美晴 "wikilink")**
+  - 最優秀新人獎：**[高桥圣子](../Page/高橋聖子.md "wikilink")**
+  - 優秀新人獎：**[羽咲美晴](../Page/羽咲美晴.md "wikilink")**
   - 特別獎：**[安部未华子](../Page/安部未華子.md "wikilink")**
-  - 話題獎：**[凰香奈芽](https://zh.wikipedia.org/wiki/凰香奈芽 "wikilink")**
+  - 話題獎：**[凰香奈芽](../Page/凰香奈芽.md "wikilink")**
   - 特別主持人獎：**[椎名そら](https://zh.wikipedia.org/wiki/椎名そら "wikilink")**
-  - 媒體獎：**[桃乃木香奈](https://zh.wikipedia.org/wiki/桃乃木香奈 "wikilink")**
+  - 媒體獎：**[桃乃木香奈](../Page/桃乃木香奈.md "wikilink")**
   - 最優秀作品獎
 
 :\* 郵購：《**グラビア四天王たかしょーMUTEKI
 Debut**》（2016年5月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）-
-**[高橋しょう子](https://zh.wikipedia.org/wiki/高橋聖子 "wikilink")**
+**[高橋しょう子](../Page/高橋聖子.md "wikilink")**
 
 :\* 配送：《**グラビア四天王たかしょーMUTEKI
 Debut**》（2016年5月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）-
-**[高橋しょう子](https://zh.wikipedia.org/wiki/高橋聖子 "wikilink")**
+**[高橋しょう子](../Page/高橋聖子.md "wikilink")**
 
 :\* 租賃：《**グラビア四天王たかしょーMUTEKI
 Debut**》（2016年5月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）-
-**[高橋しょう子](https://zh.wikipedia.org/wiki/高橋聖子 "wikilink")**
+**[高橋しょう子](../Page/高橋聖子.md "wikilink")**
 
 ### 2018年
 
-  - 最優秀女優獎：**[桥本有菜](https://zh.wikipedia.org/wiki/橋本有菜 "wikilink")**
-  - 優秀女優獎：**[高桥圣子](https://zh.wikipedia.org/wiki/高橋聖子 "wikilink")**
+  - 最優秀女優獎：**[桥本有菜](../Page/橋本有菜.md "wikilink")**
+  - 優秀女優獎：**[高桥圣子](../Page/高橋聖子.md "wikilink")**
   - 最優秀新人獎：**[桜空もも](https://zh.wikipedia.org/wiki/桜空もも "wikilink")**
   - 優秀新人獎：**[水卜さくら](https://zh.wikipedia.org/wiki/水卜さくら "wikilink")**
   - 特別獎：**[松本菜奈実](https://zh.wikipedia.org/wiki/松本菜奈実 "wikilink")**
   - 話題獎：**[戸田真琴](https://zh.wikipedia.org/wiki/戸田真琴 "wikilink")**
-  - 特別主持人獎：[明里䌷](https://zh.wikipedia.org/wiki/明里紬 "wikilink")
-  - 週刊プレイボーイ獎：**[桥本有菜](https://zh.wikipedia.org/wiki/橋本有菜 "wikilink")**
+  - 特別主持人獎：[明里䌷](../Page/明里紬.md "wikilink")
+  - 週刊プレイボーイ獎：**[桥本有菜](../Page/橋本有菜.md "wikilink")**
   - 最優秀作品獎
 
 :\* 郵購：《**Fade

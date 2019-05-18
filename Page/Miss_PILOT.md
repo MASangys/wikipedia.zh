@@ -39,7 +39,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台於](..
 
 <!-- end list -->
 
-  - **岸井泰治** - [間宮祥太朗](https://zh.wikipedia.org/wiki/間宮祥太朗 "wikilink")
+  - **岸井泰治** - [間宮祥太朗](../Page/間宮祥太朗.md "wikilink")
     （香港配音：[李鎮然](../Page/李鎮然.md "wikilink")）
 
 <!-- end list -->
@@ -60,7 +60,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台於](..
 <!-- end list -->
 
   - **山田一男** -
-    [藤井流星](https://zh.wikipedia.org/wiki/藤井流星 "wikilink")（香港配音：[張方正](../Page/張方正.md "wikilink")）
+    [藤井流星](../Page/藤井流星.md "wikilink")（香港配音：[張方正](../Page/張方正.md "wikilink")）
 
 <!-- end list -->
 
@@ -114,7 +114,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台於](..
 <!-- end list -->
 
   - **铃木伦子** -
-    [菜菜緒](https://zh.wikipedia.org/wiki/菜菜緒 "wikilink")（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
+    [菜菜緒](../Page/菜菜緒.md "wikilink")（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
 
 <!-- end list -->
 

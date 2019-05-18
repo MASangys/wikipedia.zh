@@ -3,7 +3,7 @@
 ## 解說
 
   - 與前作《[Face to
-    Face](https://zh.wikipedia.org/wiki/Face_to_Face_\(CHEMISTRY專輯\) "wikilink")》相隔約兩年的新作，收錄單曲《[Life
+    Face](../Page/Face_to_Face_\(CHEMISTRY專輯\).md "wikilink")》相隔約兩年的新作，收錄單曲《[Life
     goes
     on](https://zh.wikipedia.org/wiki/Life_goes_on_\(CHEMISTRY單曲\) "wikilink")》、《[當下時刻…
     feat. 童子-T/Once

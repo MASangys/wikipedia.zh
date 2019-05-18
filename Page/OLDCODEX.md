@@ -73,8 +73,7 @@
 
   - 2012年12月26日，第二張專輯「CONTRAST SILVER」中所收錄的曲目『**HEAVEN**』由[LUNA
     SEA的吉他手](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")
-    [INORAN](https://zh.wikipedia.org/wiki/INORAN "wikilink") 製作。INORAN
-    亦出現在該曲的MV中。
+    [INORAN](../Page/INORAN.md "wikilink") 製作。INORAN 亦出現在該曲的MV中。
 
 <!-- end list -->
 
@@ -128,7 +127,7 @@
 <!-- end list -->
 
   -
-    分別出演了在[新加坡](../Page/新加坡.md "wikilink")、[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")、[台北三個場次](https://zh.wikipedia.org/wiki/台北 "wikilink")，是首次在海外獻唱。
+    分別出演了在[新加坡](../Page/新加坡.md "wikilink")、[首爾](../Page/首爾.md "wikilink")、[台北三個場次](https://zh.wikipedia.org/wiki/台北 "wikilink")，是首次在海外獻唱。
     在最終場台北場唱畢後，主唱 Ta_2 於台上承諾會再回來台灣舉行演唱會。
 
 <!-- end list -->
@@ -170,9 +169,9 @@
 <!-- end list -->
 
   - 2016年7月3日，出演由 [Anime Consortium
-    Japan](https://zh.wikipedia.org/wiki/DAISUKI "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[索尼音樂](https://zh.wikipedia.org/wiki/索尼音樂 "wikilink")、[雅慕斯](../Page/Amuse.md "wikilink")、[萬代影視與](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")[萬代南夢宮Live
-    Creative聯合舉辦的](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")「Anisong
-    World Matsuri "祭" \~Japan Band Battle\~」。
+    Japan](../Page/DAISUKI.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[索尼音樂](https://zh.wikipedia.org/wiki/索尼音樂 "wikilink")、[雅慕斯](../Page/Amuse.md "wikilink")、[萬代影視與](../Page/萬代影視.md "wikilink")[萬代南夢宮Live
+    Creative聯合舉辦的](../Page/萬代影視.md "wikilink")「Anisong World Matsuri "祭"
+    \~Japan Band Battle\~」。
 
 <!-- end list -->
 
@@ -184,7 +183,7 @@
 
   - 2016年9月～：第六次巡演「**OLDCODEX Tour 2016-2017 "FIXED ENGINE"**」於9月24日在
     Zepp DiverCity
-    揭開序幕，是本團首次單獨世界巡迴（[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")），預定明年1月14日，將三度登上日本武道館。
+    揭開序幕，是本團首次單獨世界巡迴（[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[首爾](../Page/首爾.md "wikilink")），預定明年1月14日，將三度登上日本武道館。
 
 <!-- end list -->
 
@@ -978,8 +977,7 @@ LACA-35561<br />
 
   - (2012年8月31日)
 
-  - [Lis Ani\!](https://zh.wikipedia.org/wiki/Lis_Ani! "wikilink")
-    LIVE-3 (2013年1月26日)
+  - [Lis Ani\!](../Page/Lis_Ani!.md "wikilink") LIVE-3 (2013年1月26日)
 
   - KUROBAS CUP 2013 (2013年7月7日)
 
@@ -1039,8 +1037,8 @@ LACA-35561<br />
 
   - COUNTDOWN JAPAN 16/17 (2016年12月29日)
 
-  - [BILIBILI](../Page/BiliBili.md "wikilink") MACRO LINK STAR PHASE x
-    ANISONG WORLD MATSURI 2017 (2017年7月22日)
+  - [BILIBILI](https://zh.wikipedia.org/wiki/BiliBili "wikilink") MACRO
+    LINK STAR PHASE x ANISONG WORLD MATSURI 2017 (2017年7月22日)
 
   - ROCK IN JAPAN FESTIVAL 2017 (2017年8月6日)
 

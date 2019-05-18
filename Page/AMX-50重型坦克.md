@@ -7,7 +7,7 @@ AMX-50重型坦克是一款冷戰前期由法國AMX公司設計製造的試驗�
 
 [AMX-50_100.jpg](https://zh.wikipedia.org/wiki/File:AMX-50_100.jpg "fig:AMX-50_100.jpg")
 在法国解放之后，法国人就开始了[ARL-44重型坦克的研发](https://zh.wikipedia.org/wiki/ARL_44 "wikilink")，虽然ARL44重型坦克正在研制中，也装备了威力强大的[90毫米SA
-45坦克炮](https://zh.wikipedia.org/wiki/90毫米SA_45坦克炮 "wikilink")，但是，ARL44設計上存在缺陷，且設計理念已過時，軍方最後拋棄了ARL-44\[1\]。1945年，AMX公司推出了一個新的坦克設計141工程。141工程計劃裝備一門性能與納粹德國8.8
+45坦克炮](../Page/90毫米SA_45坦克炮.md "wikilink")，但是，ARL44設計上存在缺陷，且設計理念已過時，軍方最後拋棄了ARL-44\[1\]。1945年，AMX公司推出了一個新的坦克設計141工程。141工程計劃裝備一門性能與納粹德國8.8
 cm KwK 43（88mm L/71）戰車炮接近的90毫米火炮（[90毫米SA
 45](https://zh.wikipedia.org/wiki/90毫米SA_45 "wikilink")）。後來根據此藍圖建成的原型車即（AMX）M4
 1945年式坦克（AMX M4 45）。AMX M4
@@ -26,16 +26,16 @@ Char」意爲[驅逐戰車](../Page/驅逐戰車.md "wikilink"))。該車同樣�
 ### AMX-50 100
 
 在AMX M4坦克研发失败之后，法国人开始了AMX 50坦克的研发。第一辆原型车于1949年被制造出来，当时仍安装[90毫米SA
-45坦克炮](https://zh.wikipedia.org/wiki/90毫米SA_45坦克炮 "wikilink")\[6\]。1950年春，第二辆原型车安装了100mmSA
+45坦克炮](../Page/90毫米SA_45坦克炮.md "wikilink")\[6\]。1950年春，第二辆原型车安装了100mmSA
 47火炮，并实验了两种不同的炮塔，还和AMX
 M4坦克一样在车顶安装了一门双联7.5mm赖贝尔机枪。这些原型车在1950-1952年间接受了检测，并和[ARL
 44重型坦克一起参与了](../Page/ARL_44重型坦克.md "wikilink")1950年[巴士底日的国庆节阅兵](https://zh.wikipedia.org/wiki/巴士底日 "wikilink")。\[7\]
 
 ### AMX-50 120
 
-在1953年，又有一辆安装了[120mm主炮的原型车被制造出来](https://zh.wikipedia.org/wiki/M58_120毫米坦克炮 "wikilink")，也就是被人们所熟知的AMX-50
+在1953年，又有一辆安装了[120mm主炮的原型车被制造出来](../Page/M58_120毫米坦克炮.md "wikilink")，也就是被人们所熟知的AMX-50
 120mm坦克。
-这种坦克重达63[短吨](https://zh.wikipedia.org/wiki/短吨 "wikilink")，安装了[120mm火炮](https://zh.wikipedia.org/wiki/M58_120毫米坦克炮 "wikilink")，行走长度7.35米，宽达3.4m，高达3.35m。装甲从80mm到120mm不等。安装了两门7.5mm机枪，一门在炮塔顶端，另一门作为了[同轴机枪](https://zh.wikipedia.org/wiki/同轴机枪 "wikilink")。使用了850马力的迈巴赫
+这种坦克重达63[短吨](../Page/短吨.md "wikilink")，安装了[120mm火炮](../Page/M58_120毫米坦克炮.md "wikilink")，行走长度7.35米，宽达3.4m，高达3.35m。装甲从80mm到120mm不等。安装了两门7.5mm机枪，一门在炮塔顶端，另一门作为了[同轴机枪](https://zh.wikipedia.org/wiki/同轴机枪 "wikilink")。使用了850马力的迈巴赫
 HL 295 12VC汽油机。使用了扭力杆悬挂，最大速度速达到了51千米/时。
 
 同期，法國亦設計了一款使用AMX-50 120坦克底盤、裝備120毫米主炮的驅逐戰車AMX-50
@@ -47,7 +47,7 @@ AMX-50 100和AMX-50 120都未投入量產。至該計劃被放棄，只有5輛AM
 
 ## 參見
 
-  - [埃米爾重型坦克](https://zh.wikipedia.org/wiki/埃米爾重型坦克 "wikilink")，同時代的類似設計。
+  - [埃米爾重型坦克](../Page/埃米爾重型坦克.md "wikilink")，同時代的類似設計。
 
 ## 参考
 

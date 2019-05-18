@@ -1,6 +1,6 @@
 《**AKB48
 SHOW\!**》是[日本](../Page/日本.md "wikilink")[NHK製播的一個](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，2013年10月5日起每週日晚上11時（[JST](../Page/日本標準時間.md "wikilink")）在NHK旗下的[衛星電視頻道](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[BS
-Premium播出](../Page/NHK_BS_Premium.md "wikilink")。該節目是女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48在NHK的第一個常態性冠名節目](../Page/AKB48.md "wikilink")，但除了掛名的AKB48之外，AKB48的[諸多姊妹團體](https://zh.wikipedia.org/wiki/AKB48集團 "wikilink")、以及做為AKB48「官方對手」的[坂道系列](https://zh.wikipedia.org/wiki/坂道系列 "wikilink")（[乃木坂46等團體](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")）也會不定期參與節目演出或擁有特集節目。
+Premium播出](../Page/NHK_BS_Premium.md "wikilink")。該節目是女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48在NHK的第一個常態性冠名節目](../Page/AKB48.md "wikilink")，但除了掛名的AKB48之外，AKB48的[諸多姊妹團體](../Page/AKB48集團.md "wikilink")、以及做為AKB48「官方對手」的[坂道系列](../Page/坂道系列.md "wikilink")（[乃木坂46等團體](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")）也會不定期參與節目演出或擁有特集節目。
 节目在2019年3月24日播出最后一集\[1\]。
 
 ## 簡介
@@ -1060,9 +1060,9 @@ NMB48成员[白間美瑠与成员聊天并为成员绘制](../Page/白間美瑠.
 
   - [HKT48](../Page/HKT48.md "wikilink")
 
-  - [NGT48](https://zh.wikipedia.org/wiki/NGT48 "wikilink")
+  - [NGT48](../Page/NGT48.md "wikilink")
 
-  - [STU48](https://zh.wikipedia.org/wiki/STU48 "wikilink")
+  - [STU48](../Page/STU48.md "wikilink")
 
   - [JKT48](../Page/JKT48.md "wikilink")
 
@@ -1074,7 +1074,7 @@ NMB48成员[白間美瑠与成员聊天并为成员绘制](../Page/白間美瑠.
 
   - （Ian Moore）：飾演「AKB48白熱教室」單元中的講師一角、也曾参与短剧演出（第94集）。
 
-  - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")、[櫸坂46](../Page/櫸坂46.md "wikilink")、[平假名櫸坂46→日向坂46](https://zh.wikipedia.org/wiki/日向坂46 "wikilink")：主要出演《乃木坂46
+  - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")、[櫸坂46](../Page/櫸坂46.md "wikilink")、[平假名櫸坂46→日向坂46](../Page/日向坂46.md "wikilink")：主要出演《乃木坂46
     SHOW\!》、《46 SHOW\!》、《櫸坂46 SHOW\!》
 
 <!-- end list -->
@@ -1163,11 +1163,11 @@ NMB48成员[白間美瑠与成员聊天并为成员绘制](../Page/白間美瑠.
 
 <!-- end list -->
 
-  - [绫濑遥](https://zh.wikipedia.org/wiki/绫濑遥 "wikilink")（）、[嵐](../Page/嵐.md "wikilink")、[五木宏](https://zh.wikipedia.org/wiki/五木宏 "wikilink")（）、[伍代夏子](../Page/伍代夏子.md "wikilink")、（）、（）：在第13集中作为红白歌会中的主持人与和48家族合作表演的艺人身份登场。
+  - [绫濑遥](https://zh.wikipedia.org/wiki/绫濑遥 "wikilink")（）、[嵐](../Page/嵐.md "wikilink")、[五木宏](../Page/五木宏.md "wikilink")（）、[伍代夏子](../Page/伍代夏子.md "wikilink")、（）、（）：在第13集中作为红白歌会中的主持人与和48家族合作表演的艺人身份登场。
 
   - 茅野忍（）：第23、25集中以AKB48 Group總經理及服装设计师身份登场。
 
-  - [内田裕也](https://zh.wikipedia.org/wiki/内田裕也 "wikilink")：在第37、39集与指原莉乃合作演唱歌曲。
+  - [内田裕也](../Page/内田裕也.md "wikilink")：在第37、39集与指原莉乃合作演唱歌曲。
 
   - [北川謙二](../Page/北川謙二.md "wikilink")：AKB48項目的助理制作人。
 
@@ -1179,7 +1179,7 @@ NMB48成员[白間美瑠与成员聊天并为成员绘制](../Page/白間美瑠.
 
   - ：在第147集田名部生来主办单独活动中作为嘉宾登场。
 
-  - [=LOVE](https://zh.wikipedia.org/wiki/=LOVE "wikilink")：出演《指原
+  - [=LOVE](../Page/=LOVE.md "wikilink")：出演《指原
     SHOW\!》（第163集）及部分潜入报导（第202集）等
 
   - [酷MA萌](https://zh.wikipedia.org/wiki/酷MA萌 "wikilink")：出演第197集“AKB48

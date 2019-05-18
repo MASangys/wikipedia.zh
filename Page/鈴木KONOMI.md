@@ -16,15 +16,15 @@ Night」演唱會；同年7月18日，於[Niconico動畫的節目頻道](../Page
 
 2016年1月11日，鈴木表示為了專注歌手活動，決定大學休學並上京，同時發表了移籍到（[Amuleto](../Page/Amuleto.md "wikilink")）事務所。2016年11月5日，鈴木20歲生日在[幕張展覽館舉行](../Page/幕張展覽館.md "wikilink")2016年第二十場演唱會「鈴木このみ
 Birthday Live 2016 ～Cheers\!\!\!」，同時Staff公佈鈴木飾演「[LOST
-SONG](https://zh.wikipedia.org/wiki/LOST_SONG "wikilink")」的女主角，所飾演的角色為「鈴」，作為鈴木的驚喜禮物。2016年12月31日在「鈴木このみ
+SONG](../Page/LOST_SONG.md "wikilink")」的女主角，所飾演的角色為「鈴」，作為鈴木的驚喜禮物。2016年12月31日在「鈴木このみ
 COUNTDOWN LIVE 2016～2017」獻唱首次參與作曲的「Moment」，並訂下「作詞作曲」為2017年的目標。
 
 2017年6月3日，在「鈴木このみ 3rd Live Tour 2017
 ～lead～」東京公演獻唱自己作詞作曲的歌曲「夢へ繋ぐ今」。2017年8月31日，開設官方粉絲專頁「このみExplorer」。
 
 2018年4月，鈴木以「[LOST
-SONG](https://zh.wikipedia.org/wiki/LOST_SONG "wikilink")」飾演女主角「鈴」的角色，聲優的身份出道，同時和[畑亜貴一起為](https://zh.wikipedia.org/wiki/畑亜貴 "wikilink")「[LOST
-SONG](https://zh.wikipedia.org/wiki/LOST_SONG "wikilink")」主題曲「」作詞。2018年5月19日，在[日比谷公園野外大音樂堂舉行第一次室外演唱會](../Page/日比谷野外音乐堂.md "wikilink")。
+SONG](../Page/LOST_SONG.md "wikilink")」飾演女主角「鈴」的角色，聲優的身份出道，同時和[畑亜貴一起為](https://zh.wikipedia.org/wiki/畑亜貴 "wikilink")「[LOST
+SONG](../Page/LOST_SONG.md "wikilink")」主題曲「」作詞。2018年5月19日，在[日比谷公園野外大音樂堂舉行第一次室外演唱會](../Page/日比谷野外音乐堂.md "wikilink")。
 
 ## 音樂作品
 
@@ -134,7 +134,7 @@ SONG](https://zh.wikipedia.org/wiki/LOST_SONG "wikilink")」主題曲「」作�
 </tr>
 <tr class="odd">
 <td><p>Absolute Soul</p></td>
-<td><p>電視動畫『<a href="https://zh.wikipedia.org/wiki/絕對雙刃" title="wikilink">絕對雙刃</a>』片頭曲</p></td>
+<td><p>電視動畫『<a href="../Page/絕對雙刃.md" title="wikilink">絕對雙刃</a>』片頭曲</p></td>
 <td><p>2015年</p></td>
 </tr>
 <tr class="even">
@@ -209,17 +209,17 @@ SONG](https://zh.wikipedia.org/wiki/LOST_SONG "wikilink")」主題曲「」作�
 </tr>
 <tr class="even">
 <td><p>My Days</p></td>
-<td><p>手機遊戲『<a href="https://zh.wikipedia.org/wiki/永遠的7日之都" title="wikilink">永遠的7日之都</a>』主題曲</p></td>
+<td><p>手機遊戲『<a href="../Page/永遠的7日之都.md" title="wikilink">永遠的7日之都</a>』主題曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>歌えばそこに君がいるから</p></td>
-<td><p>電視動畫『<a href="https://zh.wikipedia.org/wiki/LOST_SONG" title="wikilink">LOST SONG</a>』片頭曲</p></td>
+<td><p>電視動畫『<a href="../Page/LOST_SONG.md" title="wikilink">LOST SONG</a>』片頭曲</p></td>
 <td><p>2018年</p></td>
 </tr>
 <tr class="even">
 <td><p>アルカテイル</p></td>
-<td><p>電腦遊戲『<a href="https://zh.wikipedia.org/wiki/Summer_Pockets" title="wikilink">Summer Pockets</a>』主題曲</p></td>
+<td><p>電腦遊戲『<a href="../Page/Summer_Pockets.md" title="wikilink">Summer Pockets</a>』主題曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -229,7 +229,7 @@ SONG](https://zh.wikipedia.org/wiki/LOST_SONG "wikilink")」主題曲「」作�
 </tr>
 <tr class="even">
 <td><p>Lasting Moment</p></td>
-<td><p>電腦遊戲『<a href="https://zh.wikipedia.org/wiki/Summer_Pockets" title="wikilink">Summer Pockets</a>』片尾曲</p></td>
+<td><p>電腦遊戲『<a href="../Page/Summer_Pockets.md" title="wikilink">Summer Pockets</a>』片尾曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -239,7 +239,7 @@ SONG](https://zh.wikipedia.org/wiki/LOST_SONG "wikilink")」主題曲「」作�
 </tr>
 <tr class="even">
 <td><p>蒼の彼方</p></td>
-<td><p>電視動畫『<a href="https://zh.wikipedia.org/wiki/天空與海洋之間" title="wikilink">在天空與海洋之間</a>』片頭曲</p></td>
+<td><p>電視動畫『<a href="../Page/天空與海洋之間.md" title="wikilink">在天空與海洋之間</a>』片頭曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -254,7 +254,7 @@ SONG](https://zh.wikipedia.org/wiki/LOST_SONG "wikilink")」主題曲「」作�
 </tr>
 <tr class="odd">
 <td><p>真理の鏡、剣乃ように</p></td>
-<td><p>電視動畫『<a href="https://zh.wikipedia.org/wiki/YU-NO_在這世界盡頭詠唱愛的少女" title="wikilink">YU-NO在這世界盡頭詠唱愛的少女</a>』片尾曲</p></td>
+<td><p>電視動畫『<a href="../Page/YU-NO_在這世界盡頭詠唱愛的少女.md" title="wikilink">YU-NO在這世界盡頭詠唱愛的少女</a>』片尾曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -756,15 +756,13 @@ SONG](https://zh.wikipedia.org/wiki/LOST_SONG "wikilink")」主題曲「」作�
 
 <!-- end list -->
 
-  - [LOST
-    SONG](https://zh.wikipedia.org/wiki/LOST_SONG "wikilink")（**鈴**\[5\]）
+  - [LOST SONG](../Page/LOST_SONG.md "wikilink")（**鈴**\[5\]）
 
 ### 遊戲
 
   - [聖潔天使](../Page/聖潔天使.md "wikilink") ～第2風紀委員 少女戰鬥～（\[6\]）
   - FANTASICA: Bloodlines （月輪の唄巫 コノミ）
-  - [Summer
-    Pockets](https://zh.wikipedia.org/wiki/Summer_Pockets "wikilink")（イナリ）
+  - [Summer Pockets](../Page/Summer_Pockets.md "wikilink")（イナリ）
 
 ### 廣播
 

@@ -1,4 +1,4 @@
-**速霸陸Legacy**（）為[日本](../Page/日本.md "wikilink")[富士重工業於](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1989年起製造、販售的[緊湊型轎車或](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")[中型車](https://zh.wikipedia.org/wiki/中型車 "wikilink")，[中國的官方翻譯名稱為](../Page/中國.md "wikilink")**速霸陸力獅**。自1989年推出以來即為[速霸陸汽車的主力車種之一](../Page/速霸陸.md "wikilink")，搭載了該公司傳統的[水平對臥引擎及全時](../Page/水平對臥引擎.md "wikilink")[四輪驅動系統](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，並衍生出[速霸陸Baja](https://zh.wikipedia.org/wiki/速霸陸Baja "wikilink")、[速霸陸Outback等車款](https://zh.wikipedia.org/wiki/速霸陸Outback "wikilink")。
+**速霸陸Legacy**（）為[日本](../Page/日本.md "wikilink")[富士重工業於](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1989年起製造、販售的[緊湊型轎車或](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")[中型車](https://zh.wikipedia.org/wiki/中型車 "wikilink")，[中國的官方翻譯名稱為](../Page/中國.md "wikilink")**速霸陸力獅**。自1989年推出以來即為[速霸陸汽車的主力車種之一](../Page/速霸陸.md "wikilink")，搭載了該公司傳統的[水平對臥引擎及全時](../Page/水平對臥引擎.md "wikilink")[四輪驅動系統](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，並衍生出[速霸陸Baja](../Page/速霸陸Baja.md "wikilink")、[速霸陸Outback等車款](../Page/速霸陸Outback.md "wikilink")。
 
 車名「Legacy」在[英語中意為](https://zh.wikipedia.org/wiki/英語 "wikilink")[遺產](https://zh.wikipedia.org/wiki/遺產 "wikilink")、留給後世之物。有趣的是為了跟[澳洲專門援助](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[退伍軍人的組織](https://zh.wikipedia.org/wiki/退伍軍人 "wikilink")「」區別，這款車在當地命名為**速霸陸Liberty**。
 
@@ -22,9 +22,8 @@ of Indiana Automotive, Inc.〕）」製造，搭載2.2L
 1991年 -
 6月小改款，追加新車型「Brighton」，另外對應自排變速箱的[EJ20D型及](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ20D型 "wikilink")[EJ20E型引擎登場](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ20E型 "wikilink")。
 
-1992年 -
-8月由[速霸陸技術國際](https://zh.wikipedia.org/wiki/速霸陸技術國際 "wikilink")（Subaru
-Tecnica International，縮寫成STI）打造的「Legacy Touring Wagon
+1992年 - 8月由[速霸陸技術國際](../Page/速霸陸技術國際.md "wikilink")（Subaru Tecnica
+International，縮寫成STI）打造的「Legacy Touring Wagon
 Sti」限定發售200部，除改採專用[ECU與自排控制裝置](../Page/发动机控制器.md "wikilink")，並將[渦輪增壓器最大壓力從標準的](../Page/渦輪增壓器.md "wikilink")450mmHg改成650mmHg。隔月再發售「GT
 type S2」特仕車，具備人造皮革座椅、BBS製輪框、重新調校的懸吊系統等配備。11月則推出「Brighton
 GOLD」特仕車，具有鋁合金輪圈、中控鎖鑰匙等。
@@ -76,7 +75,7 @@ second-generation.jpg|四門轎車車頭 Image:Subaru Legacy TS-R 2nd generation
 
 #### 速霸陸Outback
 
-**主條目：[速霸陸Outback](https://zh.wikipedia.org/wiki/速霸陸Outback "wikilink")**
+**主條目：[速霸陸Outback](../Page/速霸陸Outback.md "wikilink")**
 1995年8月富士重工業以第二代Legacy為基礎，墊高[底盤的](https://zh.wikipedia.org/wiki/底盤 "wikilink")[高度](https://zh.wikipedia.org/wiki/高度 "wikilink")，運用雙色搭配、輪拱及車身下緣的黑色塑料等外型修改，並加上車頂架，成為具有休閒越野元素的車款。外銷美國、澳洲等地的車名為**速霸陸Outback**，日本本地市場則稱作**速霸陸Legacy
 Grand Wagon**。不過1997年9月日規版又改名成**速霸陸Legacy Lancaster**，雖然車尾仍貼著「Grand
 Wagon」的銘牌。1998年亦曾在美國[新英格蘭地區發售](https://zh.wikipedia.org/wiki/新英格蘭 "wikilink")**速霸陸Legacy
@@ -104,7 +103,7 @@ Assist）」之縮寫，[擋風玻璃內側上方裝置了兩具](../Page/擋風
 Dynamics Control
 System），可針對車間距離、彎路、行駛路線偏移等狀況提供警報給駕駛者。當設定[巡航定速時](../Page/巡航定速.md "wikilink")，如果與前車距離過近，系統還會自動減速\[6\]。此外，此車型尚有[HID頭燈](../Page/高強度氣體放電燈.md "wikilink")、SRS雙安全氣囊、四輪ABS[防鎖死煞車系統](../Page/防鎖死煞車系統.md "wikilink")、恆溫空調等配備。同年11月24日發售四門轎車的特別仕樣「RS
 type
-B」，裝備了倍適登（Bilstein）避震器、HID頭燈、[CD](../Page/CD.md "wikilink")/[MD音響系統等配備](../Page/MiniDisc.md "wikilink")；12月22日則發售另一特仕車「BLITZEN」，這款特仕車乃由[速霸陸技術國際和](https://zh.wikipedia.org/wiki/速霸陸技術國際 "wikilink")（Porsche
+B」，裝備了倍適登（Bilstein）避震器、HID頭燈、[CD](../Page/CD.md "wikilink")/[MD音響系統等配備](../Page/MiniDisc.md "wikilink")；12月22日則發售另一特仕車「BLITZEN」，這款特仕車乃由[速霸陸技術國際和](../Page/速霸陸技術國際.md "wikilink")（Porsche
 Design
 Group）共同開發，具備專屬前後保險桿、進氣壩、尾翼、17吋鋁合金鋼圈、前輪[限滑差速器](../Page/限滑差速器.md "wikilink")（限手排車）、鋁合金引擎蓋、Kenwood音響系統、深色車窗[玻璃等](../Page/玻璃.md "wikilink")，另可選購BLITZEN專屬內裝及座椅皮革等。
 
@@ -157,25 +156,25 @@ B」車型，原本僅有六速手排，現增加五速自排變速箱。此外3
 2006年 -
 5月24日實施小改款，頭燈及尾燈皆重新設計。由於引擎[汽缸改用最新開發的電解式線上削銳研磨](https://zh.wikipedia.org/wiki/汽缸 "wikilink")（Electrolytic
 In-process
-Dressing，縮寫成ELID），不但使每個汽缸的加工時間減半，也提升壁面細緻度與加工精度，有助於提升燃燒效率。「2.0GT」及「3.0R」二種車型導入甫於第106屆[紐約國際車展發表的](https://zh.wikipedia.org/wiki/紐約國際車展 "wikilink")「[SI-DRIVE](https://zh.wikipedia.org/wiki/SI-DRIVE "wikilink")」駕駛輔助系統，可針對不同的駕駛狀況調整電子節氣門及燃油供應。另一方面，銷往[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")「2.0R」和「2.5i」兩種車型搭載「氣電混合動力（Ecomatic
+Dressing，縮寫成ELID），不但使每個汽缸的加工時間減半，也提升壁面細緻度與加工精度，有助於提升燃燒效率。「2.0GT」及「3.0R」二種車型導入甫於第106屆[紐約國際車展發表的](https://zh.wikipedia.org/wiki/紐約國際車展 "wikilink")「[SI-DRIVE](../Page/SI-DRIVE.md "wikilink")」駕駛輔助系統，可針對不同的駕駛狀況調整電子節氣門及燃油供應。另一方面，銷往[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")「2.0R」和「2.5i」兩種車型搭載「氣電混合動力（Ecomatic
 Autogas
 Hybrid）」，這是將[LPG引擎與](../Page/液化石油气.md "wikilink")[電動馬達結合的](../Page/电动机.md "wikilink")[混合動力車](../Page/混合動力車輛.md "wikilink")\[8\]。
 
 8月8日推出由STI操刀的特別仕樣車「tuned by
-STI」，限量600輛。除了前述的[SI-DRIVE](https://zh.wikipedia.org/wiki/SI-DRIVE "wikilink")，尚有倍適登（Bilstein）懸吊系統、前後下支臂、18吋輪圈、Brembo煞車卡鉗、全車空力套件及排氣尾管；內裝方面含有麂皮及不織布組成的賽車桶椅、TI飾徽的儀表、黑色調的天花板等配備。
+STI」，限量600輛。除了前述的[SI-DRIVE](../Page/SI-DRIVE.md "wikilink")，尚有倍適登（Bilstein）懸吊系統、前後下支臂、18吋輪圈、Brembo煞車卡鉗、全車空力套件及排氣尾管；內裝方面含有麂皮及不織布組成的賽車桶椅、TI飾徽的儀表、黑色調的天花板等配備。
 
 2007年 - 4月由富士重工業在[臺灣成立的臺灣速霸陸股份有限公司](../Page/臺灣.md "wikilink")（Subaru of
 Taiwan Co.,
-Ltd.，縮寫成SOT）引進2.0L五門旅行車及衍生車款3.0L[速霸陸Outback至該市場販售](https://zh.wikipedia.org/wiki/速霸陸Outback "wikilink")。同年8月7日日本市場再度推出「tuned
+Ltd.，縮寫成SOT）引進2.0L五門旅行車及衍生車款3.0L[速霸陸Outback至該市場販售](../Page/速霸陸Outback.md "wikilink")。同年8月7日日本市場再度推出「tuned
 by
 STI」特仕車，限量600部在40天內銷售一空。其中75%購買五門旅行車型、25%購買四門轎車B4車型；60%顧客選擇自排車；平均年齡以35.8歲居多，最受歡迎的車色則是鐵灰色\[9\]。11月14日推出「2.5i
 Urban selection」特仕車，搭載2.5L水平對臥四缸SOHC
 [EJ253型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ253型 "wikilink")。
 
 2008年 -
-3月所舉行的[日內瓦汽車展上](https://zh.wikipedia.org/wiki/日內瓦汽車展 "wikilink")，富士重工業發表全世界第一具針對乘用車設計的2.0L[水平對臥四缸](../Page/水平對臥四缸引擎.md "wikilink")[柴油引擎](../Page/柴油引擎.md "wikilink")「[EE20型](https://zh.wikipedia.org/wiki/速霸陸EE20型引擎 "wikilink")」，旋即投入[歐洲市場販售](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。在[渦輪增壓器和五速手排變速箱的加持下](../Page/渦輪增壓器.md "wikilink")，可輸出最大馬力147ps
+3月所舉行的[日內瓦汽車展上](https://zh.wikipedia.org/wiki/日內瓦汽車展 "wikilink")，富士重工業發表全世界第一具針對乘用車設計的2.0L[水平對臥四缸](../Page/水平對臥四缸引擎.md "wikilink")[柴油引擎](../Page/柴油引擎.md "wikilink")「[EE20型](../Page/速霸陸EE20型引擎.md "wikilink")」，旋即投入[歐洲市場販售](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。在[渦輪增壓器和五速手排變速箱的加持下](../Page/渦輪增壓器.md "wikilink")，可輸出最大馬力147ps
 / 3,600rpm，最大扭力35.7kgf·m /
-1,800-2,400rpm。5月8日2.0L和3.0L車型追加了「[EyeSight](https://zh.wikipedia.org/wiki/EyeSight "wikilink")」行車安全輔助系統，2.5L車型則追加「[SI-DRIVE](https://zh.wikipedia.org/wiki/SI-DRIVE "wikilink")」駕駛輔助系統。同時為了慶祝富士重工業成立50周年，販售「2.0i
+1,800-2,400rpm。5月8日2.0L和3.0L車型追加了「[EyeSight](../Page/EyeSight.md "wikilink")」行車安全輔助系統，2.5L車型則追加「[SI-DRIVE](../Page/SI-DRIVE.md "wikilink")」駕駛輔助系統。同時為了慶祝富士重工業成立50周年，販售「2.0i
 Advatage Line」特仕車。5月14日由STI打造的「S402」特仕車問世，2.5L
 [EJ255型引擎經過重新調校](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ255型 "wikilink")，配合等長排氣管路、雙渦流渦輪增壓、改良引擎本體等方式，最大馬力來到285ps
 / 5,600rpm，最大扭力則是40.0kgf·m /
@@ -203,20 +202,18 @@ Image:Legacy-Blitzen.jpg|Blitzen特仕車
 5月20日四門轎車型B4、五門旅行車型及衍生車款Outback在日本同步發表，原廠找來美國著名[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")[勞勃·狄尼洛當產品代言人](../Page/罗伯特·德尼罗.md "wikilink")；短短3個星期訂單就超過4千張，比原廠預估目標多出兩倍\[11\]。第五代Legacy的車身尺碼為前四代之最，所以後座乘坐空間和行李廂容量大幅提昇。動力心臟則有2.5L水平對臥四缸SOHC
 [EJ253型和](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ253型 "wikilink")2.5L水平對臥四缸DOHC
 [EJ255型渦輪增壓兩種設定](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ255型 "wikilink")，其中前者搭配[Lineartronic
-CVT變速箱](https://zh.wikipedia.org/wiki/無段自動變速器#Lineartronic_CVT "wikilink")，具有六速手自排功能；至於後者則搭配六速手動排檔變速系統。同年10月17日臺灣總代理[台灣意美汽車引進](https://zh.wikipedia.org/wiki/台灣意美汽車 "wikilink")2.0L與2.5L兩種動力、四種車型；10月23日則獲得第30屆[日本年度風雲車的](../Page/日本年度風雲車.md "wikilink")「最佳價值」特別獎\[12\]。
+CVT變速箱](https://zh.wikipedia.org/wiki/無段自動變速器#Lineartronic_CVT "wikilink")，具有六速手自排功能；至於後者則搭配六速手動排檔變速系統。同年10月17日臺灣總代理[台灣意美汽車引進](../Page/台灣意美汽車.md "wikilink")2.0L與2.5L兩種動力、四種車型；10月23日則獲得第30屆[日本年度風雲車的](../Page/日本年度風雲車.md "wikilink")「最佳價值」特別獎\[12\]。
 
 2010年 -
-5月18日中、高端車型加裝改良版的[EyeSight行車安全輔助系統](https://zh.wikipedia.org/wiki/EyeSight "wikilink")，當車輛極為靠近前車或其他物體時，系統會向駕駛者發出警示音。萬一駕駛者沒有減速，以致進入系統所判定的撞擊區域內，EyeSight會自動介入煞車系統，降低車速以阻止碰撞或降低碰撞傷害。此外在車子[巡航定速時](../Page/巡航定速.md "wikilink")，若遇到前車減速會自動減速以保持車距，或於必要時煞停車輛。此系統使得第五代Legacy在日本市場的銷售量大增四倍，原本設定月銷量660輛，卻一舉大增至2,681輛\[13\]。
+5月18日中、高端車型加裝改良版的[EyeSight行車安全輔助系統](../Page/EyeSight.md "wikilink")，當車輛極為靠近前車或其他物體時，系統會向駕駛者發出警示音。萬一駕駛者沒有減速，以致進入系統所判定的撞擊區域內，EyeSight會自動介入煞車系統，降低車速以阻止碰撞或降低碰撞傷害。此外在車子[巡航定速時](../Page/巡航定速.md "wikilink")，若遇到前車減速會自動減速以保持車距，或於必要時煞停車輛。此系統使得第五代Legacy在日本市場的銷售量大增四倍，原本設定月銷量660輛，卻一舉大增至2,681輛\[13\]。
 
 2012年 -
 5月8日實施小改款，換上新的前後保桿及水箱護罩；內裝方面則升級座椅布料以及其他配備。在動力心臟方面，2.5L車型全面換裝新開發的[FB25型引擎](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB25型 "wikilink")，部分車型更配合[怠速熄火系統以提高燃油經濟效益](../Page/怠速熄火系統.md "wikilink")。同時2.0L車型也換裝了新開發的[FA20
-DIT型渦輪增壓引擎](https://zh.wikipedia.org/wiki/速霸陸FA族引擎#FA20_DIT型 "wikilink")，以[速霸陸BRZ的FA](https://zh.wikipedia.org/wiki/速霸陸BRZ "wikilink")20型引擎加裝雙渦流[渦輪增壓器](../Page/渦輪增壓器.md "wikilink")，馬力更為提升。[中國市場的小改款也在同年](../Page/中國.md "wikilink")8月全面上市，修改了前後保桿和前後葉子板的造型，前後輪拱更加外擴，故整體車寬增加了40mm。內裝方面，音響系統做了升級，新增木紋飾板、3.5吋[DVD螢幕和後座出風口](https://zh.wikipedia.org/wiki/DVD "wikilink")。動力來源方面，也搭載了最新研發的2.5L
+DIT型渦輪增壓引擎](https://zh.wikipedia.org/wiki/速霸陸FA族引擎#FA20_DIT型 "wikilink")，以[速霸陸BRZ的FA](../Page/速霸陸BRZ.md "wikilink")20型引擎加裝雙渦流[渦輪增壓器](../Page/渦輪增壓器.md "wikilink")，馬力更為提升。[中國市場的小改款也在同年](../Page/中國.md "wikilink")8月全面上市，修改了前後保桿和前後葉子板的造型，前後輪拱更加外擴，故整體車寬增加了40mm。內裝方面，音響系統做了升級，新增木紋飾板、3.5吋[DVD螢幕和後座出風口](https://zh.wikipedia.org/wiki/DVD "wikilink")。動力來源方面，也搭載了最新研發的2.5L
 DOHC FB25型水平對臥四缸引擎。
 
-2013年 -
-[台灣意美汽車元月推出小改款](https://zh.wikipedia.org/wiki/台灣意美汽車 "wikilink")，改換2.5L
-DOHC
-FB25型水平對臥四缸引擎，CVT無段變速箱模擬7速手動換檔，亦比舊款多出一檔。內裝方面，中控台飾板以色澤較深的金屬髮絲紋材質替代，[方向盤造型也稍微變化](https://zh.wikipedia.org/wiki/方向盤 "wikilink")，電子手煞車裝置移至中央排檔座後方。在日本市場，由[STI操刀的](https://zh.wikipedia.org/wiki/速霸陸技術國際 "wikilink")「2.5i
+2013年 - [台灣意美汽車元月推出小改款](../Page/台灣意美汽車.md "wikilink")，改換2.5L DOHC
+FB25型水平對臥四缸引擎，CVT無段變速箱模擬7速手動換檔，亦比舊款多出一檔。內裝方面，中控台飾板以色澤較深的金屬髮絲紋材質替代，[方向盤造型也稍微變化](https://zh.wikipedia.org/wiki/方向盤 "wikilink")，電子手煞車裝置移至中央排檔座後方。在日本市場，由[STI操刀的](../Page/速霸陸技術國際.md "wikilink")「2.5i
 EyeSight
 tS」特仕車於3月12日上市販售，共限量300部。水箱護罩改採網狀格柵，並鑲上「tS」徽飾；新增前下巴和車身側裙，並換上鍍鉻排氣尾管，輪圈則搭配STI專屬18吋多輻式鋁圈。內裝部分以黑色為主要鋪陳，車椅皆有紅色縫線，並在[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、椅背、排檔頭等處附上STI字樣。雖然仍沿用2.5L
 FB25型引擎，但改換專屬的懸吊系統， 包括運動化螺旋彈簧、避震器、引擎室拉桿、運動化排氣系統等。
@@ -226,7 +223,7 @@ FB25型引擎，但改換專屬的懸吊系統， 包括運動化螺旋彈簧、
 2010年5月7日美國速霸陸公司宣布召回29,443輛2009年7月31日至12月1日之間製造的第五代Legacy，由於Lineartronic
 CVT變速箱的冷卻軟管材質出現異狀，可能出現裂縫甚至破裂，使得冷卻液外漏導致引擎無法運作。同年6月24日也宣布由於方向機柱內的電線覆皮可能因受壓而破裂，導致車內電子裝置無法使用，必須召回2009年2月16日至2010年4月12日間製造的73,698輛車。
 
-2012年2月[台灣意美汽車也宣布召回](https://zh.wikipedia.org/wiki/台灣意美汽車 "wikilink")2011年至2012年製造的Legacy和Outback，以進行煞車總泵的更換檢修。由於在低溫環境下輕踩煞車時，煞車總泵內的皮碗內部移動阻力增加，導致皮碗翻轉，因而增長煞車踏板的作用行程；此番需召回的車輛共計221輛\[14\]。
+2012年2月[台灣意美汽車也宣布召回](../Page/台灣意美汽車.md "wikilink")2011年至2012年製造的Legacy和Outback，以進行煞車總泵的更換檢修。由於在低溫環境下輕踩煞車時，煞車總泵內的皮碗內部移動阻力增加，導致皮碗翻轉，因而增長煞車踏板的作用行程；此番需召回的車輛共計221輛\[14\]。
 
 Image:2010 Subaru Legacy -- NHTSA.jpg Image:2010-2012 Subaru Legacy
 sedan -- 07-11-2012.JPG Image:Subaru Legacy V Sedan interior - GMS
@@ -245,7 +242,7 @@ Shutter〕以降低風阻）及頭燈設計。由於2014年上市的[速霸陸Le
 All-Wheel Drive四輪驅動系統及Lineartronic
 CVT無段式變速系統。第六代Legacy具有主動式扭力引導系統（Active
 Torque
-Vectoring），可提升對彎道的操控性。安全配備方面除了第三代[EyeSight行車安全輔助系統](https://zh.wikipedia.org/wiki/EyeSight "wikilink")，另包含[盲點偵測系統](../Page/盲點偵測系統.md "wikilink")（Blind
+Vectoring），可提升對彎道的操控性。安全配備方面除了第三代[EyeSight行車安全輔助系統](../Page/EyeSight.md "wikilink")，另包含[盲點偵測系統](../Page/盲點偵測系統.md "wikilink")（Blind
 Spot Detection）、車道輔助系統（Lane Change Assist）、車後交通警示系統（Rear Cross Traffic
 Alert）等，以及在轉彎時能亮起的轉向感應霧燈（Steering-Responsive Foglights）。
 
@@ -254,17 +251,17 @@ Alert）等，以及在轉彎時能亮起的轉向感應霧燈（Steering-Respon
 Limited」兩種車型，外觀設計稍有出入。
 
 2015年 -
-3月25日[台灣意美汽車正式引進第六代Legacy](https://zh.wikipedia.org/wiki/台灣意美汽車 "wikilink")\[15\]，動力心臟為2.5L水平對臥四缸DOHC
-[FB25型引擎](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB25型 "wikilink")，標準配備具有真皮多功能[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、換檔撥片、雙區恆溫空調、雙前座電動座椅、7吋多點觸控多媒體影音整合系統等，可惜的是並沒有[EyeSight行車安全輔助系統](https://zh.wikipedia.org/wiki/EyeSight "wikilink")。在主被動安全方面，大改款的Outback車系皆擁有雙模式[SI-DRIVE駕駛輔助系統](https://zh.wikipedia.org/wiki/SI-DRIVE "wikilink")、BAS煞車力道輔助系統、上坡起步輔助系統、ABS[防鎖死煞車系統](../Page/防鎖死煞車系統.md "wikilink")、TCS循跡防滑控制系統、VDC[車身動態穩定控制系統](../Page/电子稳定程序.md "wikilink")、ATV主動扭力引導系統、7具[安全氣囊等設定](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。
+3月25日[台灣意美汽車正式引進第六代Legacy](../Page/台灣意美汽車.md "wikilink")\[15\]，動力心臟為2.5L水平對臥四缸DOHC
+[FB25型引擎](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB25型 "wikilink")，標準配備具有真皮多功能[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、換檔撥片、雙區恆溫空調、雙前座電動座椅、7吋多點觸控多媒體影音整合系統等，可惜的是並沒有[EyeSight行車安全輔助系統](../Page/EyeSight.md "wikilink")。在主被動安全方面，大改款的Outback車系皆擁有雙模式[SI-DRIVE駕駛輔助系統](../Page/SI-DRIVE.md "wikilink")、BAS煞車力道輔助系統、上坡起步輔助系統、ABS[防鎖死煞車系統](../Page/防鎖死煞車系統.md "wikilink")、TCS循跡防滑控制系統、VDC[車身動態穩定控制系統](../Page/电子稳定程序.md "wikilink")、ATV主動扭力引導系統、7具[安全氣囊等設定](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。
 
 2016年 -
-9月8日原廠宣佈10月3日開賣部份改良之車型，改良主要著重在[EyeSight行車安全輔助系統](https://zh.wikipedia.org/wiki/EyeSight "wikilink")，新增連續車道保持功能，且將車道保持功能的作動車速由65km/h以上改成60km/h以上，搭配可於0-100km/h全速域自動跟車（含靜止起步加速功能）的主動式巡航系統，等同具備單一車道自動駕駛的功能，可大幅減輕長途駕駛的負擔。此外，方向盤加熱功能亦列入標配。另推出限量300台的「Legacy
+9月8日原廠宣佈10月3日開賣部份改良之車型，改良主要著重在[EyeSight行車安全輔助系統](../Page/EyeSight.md "wikilink")，新增連續車道保持功能，且將車道保持功能的作動車速由65km/h以上改成60km/h以上，搭配可於0-100km/h全速域自動跟車（含靜止起步加速功能）的主動式巡航系統，等同具備單一車道自動駕駛的功能，可大幅減輕長途駕駛的負擔。此外，方向盤加熱功能亦列入標配。另推出限量300台的「Legacy
 B4 SporVita」特仕車，與義大利皮革廠Mario
 Levi合作，在座椅、車門內飾板、方向盤、排檔桿、前座中央扶手等處以棕褐色皮革與菱格紋縫線重新包覆。外觀則是換上全鍍鉻水箱護罩、鍍鉻前霧燈框及鋼琴黑底座、車尾鍍鉻飾條、車側鍍鉻後視鏡外殼等，以及四個採黑色高光澤塗裝的18吋10輻式鋁圈。
 
 2017年 -
 9月4日原廠發表小改款，10月5日上市\[16\]。EyeSight行車安全輔助系統新增倒車自動煞車功能，且全速域自動跟車的速域由0-100km/h提高至0-120km/h。重新設計的六角形細鍍鉻水箱罩、燻黑頭燈（具有自動遠近光燈功能）等，內裝中控台改用黑色鋼琴烤漆飾版輔以銀色框架，HVAC電腦恆溫空調系統面板、支援[蘋果](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[CarPlay及](https://zh.wikipedia.org/wiki/CarPlay "wikilink")[Android
-Auto的](https://zh.wikipedia.org/wiki/Android_Auto "wikilink")6.5吋車載系統或8吋車載附衛星導航系統，且中控台下方新增一對USB充電座。動力方面維持2.5L水平對臥四缸DOHC
+Auto的](../Page/Android_Auto.md "wikilink")6.5吋車載系統或8吋車載附衛星導航系統，且中控台下方新增一對USB充電座。動力方面維持2.5L水平對臥四缸DOHC
 [FB25型引擎](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB25型 "wikilink")，但透過輕量化及減少摩擦係數等工程，原廠聲稱更為安靜、加速更順暢。
 
 #### 得獎記錄
@@ -285,9 +282,9 @@ LEGACY B4 (BN9) front.JPG Image:Subaru Legacy BN 002 China
 ## 內部連結
 
   - [富士重工業](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")
-  - [速霸陸Outback](https://zh.wikipedia.org/wiki/速霸陸Outback "wikilink")
+  - [速霸陸Outback](../Page/速霸陸Outback.md "wikilink")
   - [速霸陸Levorg](https://zh.wikipedia.org/wiki/速霸陸Levorg "wikilink")
-  - [速霸陸Baja](https://zh.wikipedia.org/wiki/速霸陸Baja "wikilink")
+  - [速霸陸Baja](../Page/速霸陸Baja.md "wikilink")
 
 ## 參考資料
 

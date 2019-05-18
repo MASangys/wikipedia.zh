@@ -37,9 +37,9 @@ Winter设计。\[1\]\[2\]
   - [日本航空集团](../Page/日本航空.md "wikilink")，包括日航飞机机身的喷涂都采用Avenir
   - [AT\&T从](../Page/AT&T.md "wikilink")2005年起在其标识以及公司广告里使用Avenir。
   - 法国城市[雷恩的地铁导引系统采用Avenir](https://zh.wikipedia.org/wiki/雷恩 "wikilink")
-  - [苹果公司自](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS](../Page/iOS.md "wikilink")6的地图和一些[Siri屏幕里使用Avenir](../Page/Siri.md "wikilink")\[4\]
+  - [苹果公司自](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")6的地图和一些[Siri屏幕里使用Avenir](../Page/Siri.md "wikilink")\[4\]
     [OS X Mountain
-    Lion和](../Page/OS_X_Mountain_Lion.md "wikilink")[iWork](../Page/iWork.md "wikilink")
+    Lion和](../Page/OS_X_Mountain_Lion.md "wikilink")[iWork](https://zh.wikipedia.org/wiki/iWork "wikilink")
     for iCloud也预装了几款不同字重的Avenir和Avenir Next.
   - [星巴克的品牌形象使用Avenir](https://zh.wikipedia.org/wiki/星巴克 "wikilink")
   - [弗朗索瓦·奥朗德在](../Page/弗朗索瓦·奥朗德.md "wikilink")[2012年法国总统选举期间使用Avenir](https://zh.wikipedia.org/wiki/2012年法国总统选举 "wikilink")

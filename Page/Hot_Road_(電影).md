@@ -32,7 +32,7 @@ Brothers的主唱](https://zh.wikipedia.org/wiki/三代目J_Soul_Brothers "wikil
   - 惠理（）：[竹富聖花](https://zh.wikipedia.org/wiki/竹富聖花 "wikilink")
   - Richard（）：
   - 金霸（金パ）：[山田裕貴](../Page/山田裕貴.md "wikilink")
-  - 赤根隊長（）：[野替愁平](https://zh.wikipedia.org/wiki/野替愁平 "wikilink")
+  - 赤根隊長（）：[野替愁平](../Page/野替愁平.md "wikilink")
   - No.2 永山：[遠藤雄弥](https://zh.wikipedia.org/wiki/遠藤雄弥 "wikilink")
   - 姥姥先生（）：
   - 醫生：
@@ -41,14 +41,14 @@ Brothers的主唱](https://zh.wikipedia.org/wiki/三代目J_Soul_Brothers "wikil
 ## 歌曲
 
   - 主題曲：[尾崎豐](../Page/尾崎豐.md "wikilink")《[Oh My Little
-    Girl](https://zh.wikipedia.org/wiki/Oh_My_Little_Girl "wikilink")》
+    Girl](../Page/Oh_My_Little_Girl.md "wikilink")》
 
 ## 獎項
 
   - 第39屆[報知電影獎新人獎](../Page/報知電影獎.md "wikilink")：[登坂廣臣](../Page/登坂廣臣.md "wikilink")
   - 第27屆[日刊體育電影大獎新人獎](https://zh.wikipedia.org/wiki/日刊體育電影大獎 "wikilink")：[能年玲奈](../Page/能年玲奈.md "wikilink")
   - 第6屆最優秀新進女演員獎：能年玲奈
-  - 第24回[日本電影影評人大獎新進男演員獎](https://zh.wikipedia.org/wiki/日本電影影評人大獎 "wikilink")：登坂廣臣
+  - 第24回[日本電影影評人大獎新進男演員獎](../Page/日本電影影評人大獎.md "wikilink")：登坂廣臣
 
 ## 參考文獻
 

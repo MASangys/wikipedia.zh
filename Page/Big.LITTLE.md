@@ -26,7 +26,7 @@ switcher，IKS），晶片設計上是一個高效能CPU核心和一個低功耗
 3.11內核開始提供了big.LITTLE IKS完整實作所需內核元件模組。
 
 [蘋果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[A10
-Fusion以及A](https://zh.wikipedia.org/wiki/Apple_A10_Fusion "wikilink")10X
+Fusion以及A](../Page/Apple_A10_Fusion.md "wikilink")10X
 Fusion即採用此種big.LITTLE組態。不過，更複雜多樣的「大小核心」CPU核心分組，也是有可能的，一隻採用IKS方式的處理器上容許一個虛擬核心內有一顆以上的高效能CPU核心或低功耗CPU核心，或者是相同的CPU核心而分成主副CPU核心。[輝達的](https://zh.wikipedia.org/wiki/輝達 "wikilink")[Tegra
 3](https://zh.wikipedia.org/wiki/Tegra_3 "wikilink")
 SoC也採用類似IKS切換方式，但Tegra

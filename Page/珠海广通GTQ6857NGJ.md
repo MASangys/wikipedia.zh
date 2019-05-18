@@ -1,4 +1,4 @@
-**珠海广通GTQ6857NGJ**是[广通汽车生产的一款](https://zh.wikipedia.org/wiki/广通汽车 "wikilink")8.5米级城市公交车，以[合肥江淮HFC](https://zh.wikipedia.org/wiki/江淮汽车 "wikilink")6832NYG3型底盘为基础建设车身。该车为[液化天然气燃料驱动车辆](../Page/液化天然气.md "wikilink")，气罐侧置，发动机排放标准为[国III](https://zh.wikipedia.org/wiki/国三排放标准 "wikilink")。
+**珠海广通GTQ6857NGJ**是[广通汽车生产的一款](https://zh.wikipedia.org/wiki/广通汽车 "wikilink")8.5米级城市公交车，以[合肥江淮HFC](../Page/江淮汽车.md "wikilink")6832NYG3型底盘为基础建设车身。该车为[液化天然气燃料驱动车辆](../Page/液化天然气.md "wikilink")，气罐侧置，发动机排放标准为[国III](https://zh.wikipedia.org/wiki/国三排放标准 "wikilink")。
 
 ## 使用
 
@@ -82,12 +82,12 @@
 <td><p>（暂时未知）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/惠州公交34路" title="wikilink">34</a></p></td>
+<td><p><a href="../Page/惠州公交34路.md" title="wikilink">34</a></p></td>
 <td><p>2011.6-2011.12<br />
 2016.12-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/惠州公交38路" title="wikilink">38</a></p></td>
+<td><p><a href="../Page/惠州公交38路.md" title="wikilink">38</a></p></td>
 <td><p>2016.12-</p></td>
 </tr>
 <tr class="odd">
@@ -95,15 +95,15 @@
 <td><p>2012.9-2015.12</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/惠州公交42路" title="wikilink">42</a></p></td>
+<td><p><a href="../Page/惠州公交42路.md" title="wikilink">42</a></p></td>
 <td><p>2012.8-2013.3</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/惠州公交49路" title="wikilink">49</a></p></td>
+<td><p><a href="../Page/惠州公交49路.md" title="wikilink">49</a></p></td>
 <td><p>2014.7-2015.8</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/惠州公交50路" title="wikilink">50</a></p></td>
+<td><p><a href="../Page/惠州公交50路.md" title="wikilink">50</a></p></td>
 <td><p>2016.12-</p></td>
 </tr>
 </tbody>

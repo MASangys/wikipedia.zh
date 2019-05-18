@@ -101,7 +101,7 @@ Seven的旗下企業](../Page/Sigma_Seven.md "wikilink")\[3\]，因應原關係�
 
   - 池本真由實
 
-  - [市之瀨加那](https://zh.wikipedia.org/wiki/市之瀨加那 "wikilink")
+  - [市之瀨加那](../Page/市之瀨加那.md "wikilink")
 
   -
   - 今井輝光香
@@ -136,7 +136,7 @@ Seven的旗下企業](../Page/Sigma_Seven.md "wikilink")\[3\]，因應原關係�
 
   - 高田美穗
 
-  - [竹尾步美](https://zh.wikipedia.org/wiki/竹尾步美 "wikilink")
+  - [竹尾步美](../Page/竹尾步美.md "wikilink")
 
   - [田中知惠美](https://zh.wikipedia.org/wiki/田中知惠美 "wikilink")
 
@@ -170,7 +170,7 @@ Seven的旗下企業](../Page/Sigma_Seven.md "wikilink")\[3\]，因應原關係�
 <!-- end list -->
 
   - 松下真緒
-  - [宮下早紀](https://zh.wikipedia.org/wiki/宮下早紀 "wikilink")
+  - [宮下早紀](../Page/宮下早紀.md "wikilink")
   - [森優子](https://zh.wikipedia.org/wiki/森優子 "wikilink")
   - [森永千才](../Page/森永千才.md "wikilink")
 
@@ -195,7 +195,7 @@ Seven的旗下企業](../Page/Sigma_Seven.md "wikilink")\[3\]，因應原關係�
 
 <!-- end list -->
 
-  - [渡部紗弓](https://zh.wikipedia.org/wiki/渡部紗弓 "wikilink")
+  - [渡部紗弓](../Page/渡部紗弓.md "wikilink")
 
 ## 過往所屬聲優
 
@@ -220,7 +220,7 @@ Seven的旗下企業](../Page/Sigma_Seven.md "wikilink")\[3\]，因應原關係�
   -
   - [野町祐太](../Page/野町祐太.md "wikilink")（現所屬：[Chocolate旅團](http://chocolateryodan.wixsite.com/chocolate-ryodan)）
 
-  - [山口清裕](https://zh.wikipedia.org/wiki/山口清裕 "wikilink")（現所屬：）
+  - [山口清裕](../Page/山口清裕.md "wikilink")（現所屬：）
 
   - （現所屬：Sigma Seven）
 
@@ -232,20 +232,19 @@ Seven的旗下企業](../Page/Sigma_Seven.md "wikilink")\[3\]，因應原關係�
 
   -
   - [石原夏織](../Page/石原夏織.md "wikilink")（現所屬：[Style
-    Cube](https://zh.wikipedia.org/wiki/Style_Cube "wikilink")）
+    Cube](../Page/Style_Cube.md "wikilink")）
 
   - [大龜明日香](../Page/大龜明日香.md "wikilink")（現所屬：[Sigma
     Seven](../Page/Sigma_Seven.md "wikilink")）
 
   - [小倉唯](../Page/小倉唯.md "wikilink")（現所屬：[CLARE
-    VOICE](https://zh.wikipedia.org/wiki/CLARE_VOICE "wikilink")）
+    VOICE](../Page/CLARE_VOICE.md "wikilink")）
 
   - 鬼束彩子（現所屬：Sigma Seven）
 
   - （現所屬：Sigma Seven）
 
-  - 金丸由奈（現所屬：[Max
-    Mix](https://zh.wikipedia.org/wiki/Max_Mix "wikilink")）
+  - 金丸由奈（現所屬：[Max Mix](../Page/Max_Mix.md "wikilink")）
 
   - 木村惠子
 
@@ -269,9 +268,9 @@ Seven的旗下企業](../Page/Sigma_Seven.md "wikilink")\[3\]，因應原關係�
   -
   - 藤井沙耶香
 
-  - [渕上舞](../Page/渕上舞.md "wikilink")（現所屬：[m\&i](https://zh.wikipedia.org/wiki/INCS_toenter "wikilink")）
+  - [渕上舞](../Page/渕上舞.md "wikilink")（現所屬：[m\&i](../Page/INCS_toenter.md "wikilink")）
 
-  - （現所屬：[amuleto](../Page/amuleto.md "wikilink")）
+  - （現所屬：[amuleto](https://zh.wikipedia.org/wiki/amuleto "wikilink")）
 
   - （[自由職業](../Page/自由職業.md "wikilink")）
 

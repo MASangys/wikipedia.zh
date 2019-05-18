@@ -8,7 +8,7 @@ wedding**》是[日本](../Page/日本.md "wikilink")[偶像](https://zh.wikiped
 本單曲以初回盤A、B、C、通常盤A、B、C的6種形式發售。
 
 2013年9月27日播放的《[Music
-Station](../Page/Music_Station.md "wikilink")3小时特别节目》（[朝日電視台](../Page/朝日電視台.md "wikilink")）中初次在電視台披露\[2\]。
+Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")3小时特别节目》（[朝日電視台](../Page/朝日電視台.md "wikilink")）中初次在電視台披露\[2\]。
 
 ## 活動
 

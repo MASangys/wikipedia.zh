@@ -3,9 +3,9 @@
 EOS
 60D的後續機種](https://zh.wikipedia.org/wiki/Canon_EOS_60D "wikilink")。Canon
 EOS 70D首度採用嵌入在感光元件上的「[雙像素 CMOS
-自動對焦](https://zh.wikipedia.org/wiki/Dual_Pixel "wikilink")」（Dual
-Pixel CMOS AF），可大幅提昇 Live View 與錄影時的自動對焦效率，達到 DSLR 前所未有的錄影對焦效率，比 EOS
-700D / 100D 更快上 30%，並在搭配 STM 鏡頭時效果最佳，而如果搭配近年來推出的較新款鏡頭，也能有顯著的提昇效果\[1\]。
+自動對焦](../Page/Dual_Pixel.md "wikilink")」（Dual Pixel CMOS
+AF），可大幅提昇 Live View 與錄影時的自動對焦效率，達到 DSLR 前所未有的錄影對焦效率，比 EOS 700D /
+100D 更快上 30%，並在搭配 STM 鏡頭時效果最佳，而如果搭配近年來推出的較新款鏡頭，也能有顯著的提昇效果\[1\]。
 
 ## 特色
 
@@ -17,8 +17,7 @@ Pixel CMOS AF），可大幅提昇 Live View 與錄影時的自動對焦效率�
     [對焦速度比](https://zh.wikipedia.org/wiki/對焦 "wikilink")
     EOS 700D 快 30%
   - [感光度範圍](../Page/感光度.md "wikilink") ISO 100-12800，可擴張至 ISO 25600
-  - [連拍速度每秒](https://zh.wikipedia.org/wiki/連拍 "wikilink") 7 張（65 張 JPEG
-    或 16 張 RAW）
+  - [連拍速度每秒](../Page/連拍.md "wikilink") 7 張（65 張 JPEG 或 16 張 RAW）
   - 19 點全十字型自動對焦點（暗部對焦可支援 -0.5EV 環境）
   - 63 區 iFCL [測光系統](../Page/測光系統.md "wikilink")
   - 靜音[快門模式](../Page/快門.md "wikilink")

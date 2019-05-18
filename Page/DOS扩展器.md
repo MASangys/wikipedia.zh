@@ -36,7 +36,7 @@ DOS扩展器起初在1980年代诞生，目的是要通过[Intel
 </tbody>
 </table>
 
-DOS扩展器，是“扩展的”DOS程序，保护模式程序可藉之透明地使用底层的[MS-DOS应用接口](https://zh.wikipedia.org/wiki/MS-DOS_API "wikilink")。这很重要：因为许多由DOS所提供的函数接口　须为“16位的段:16位的偏移”形式来指向中的某一块内存；然而，保护模式以《》描述各段的特征，用段寄存器（现称“选择子”）指向《表》项，此举与实模式不兼容。芯片须切换回实模式（或[虚拟86模式](https://zh.wikipedia.org/wiki/虚拟86模式 "wikilink")）以响应某个非保护模式的请求。
+DOS扩展器，是“扩展的”DOS程序，保护模式程序可藉之透明地使用底层的[MS-DOS应用接口](../Page/MS-DOS_API.md "wikilink")。这很重要：因为许多由DOS所提供的函数接口　须为“16位的段:16位的偏移”形式来指向中的某一块内存；然而，保护模式以《》描述各段的特征，用段寄存器（现称“选择子”）指向《表》项，此举与实模式不兼容。芯片须切换回实模式（或[虚拟86模式](https://zh.wikipedia.org/wiki/虚拟86模式 "wikilink")）以响应某个非保护模式的请求。
 
 除了要“建起环境、载入程序来执行”之外，DOS扩展器还须提供（其它）转换层，这包括维护它自己在1MB实模式中的所申请的内存[缓冲器](https://zh.wikipedia.org/wiki/缓冲器 "wikilink")，这些缓存用于在底层实模式操作系统与保护模式程序之间传输数据。因为在实模式/虚拟86模式与保护模式之间切换甚为耗时，所以扩展器会复制许多实模式操作功能函数到它自己的保护模式环境内，以此减少切换次数。例如DOS在操作系统与用户级别软件之间的广泛地以[中断来通讯](https://zh.wikipedia.org/wiki/中断 "wikilink")，DOS扩展器则因而拦截许多公用硬件（例如[实时时钟](https://zh.wikipedia.org/wiki/实时时钟 "wikilink")、键盘）与软件（例如DOS自己、鼠标应用接口）的中断。许多扩展器更处理公用中断函数，例如常规视频BIOS中断函数。
 
@@ -46,7 +46,7 @@ DOS扩展器在本质上就是小型操作系统，提供了许多操作系统�
 
 可考证得DOS扩展器是由所创建，但主推者却是（以前的 Rational 系统）的386扩展器，它带来了保护模式DOS程序。後来更有
 [Watcom_c在C](https://zh.wikipedia.org/wiki/Watcom_c "wikilink")、C++与Fortran在386芯片级别上的编译器，很快就无处不在地呈现在PC应用程序、游戏（例如[id
-Software的成名软件](../Page/id_Software.md "wikilink")[毁灭战士](https://zh.wikipedia.org/wiki/毁灭战士 "wikilink")）里了。
+Software的成名软件](https://zh.wikipedia.org/wiki/id_Software "wikilink")[毁灭战士](https://zh.wikipedia.org/wiki/毁灭战士 "wikilink")）里了。
 
 开始衹是商务程序之类的内存老饕需要DOS扩展器，後来PC游戏则把DOS扩展器的需求公诸天下。结果DOS扩展器的开发就成功了，两个新软件接口被建立出来，以照顾许多潜在冲突，这些冲突源于多种已存在的内存管理方法，现统一到衹给客户程序提供唯一的接口。
 
@@ -105,10 +105,10 @@ Interface，缩写作DPMI）所代，後者在Windows 3.0
     Quarterdeck的](https://zh.wikipedia.org/wiki/Quarterdeck_Office_Systems_Quarterdeck "wikilink")
     [DESQview](https://zh.wikipedia.org/wiki/DESQview "wikilink")、DESQview/X
     多任务软件
-  - [Watcom_c在](https://zh.wikipedia.org/wiki/Watcom_c "wikilink")[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Fortran的](../Page/Fortran.md "wikilink")[x86](../Page/x86.md "wikilink")[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")
+  - [Watcom_c在](https://zh.wikipedia.org/wiki/Watcom_c "wikilink")[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Fortran的](../Page/Fortran.md "wikilink")[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")
   - 1990年代早期中期的无数DOS游戏，多用DOS/4GW，包括:
       - [id
-        Software的](../Page/id_Software.md "wikilink")[毁灭战士及其续集](https://zh.wikipedia.org/wiki/毁灭战士 "wikilink")，又如[雷神之锤
+        Software的](https://zh.wikipedia.org/wiki/id_Software "wikilink")[毁灭战士及其续集](https://zh.wikipedia.org/wiki/毁灭战士 "wikilink")，又如[雷神之锤
         (游戏)](../Page/雷神之锤_\(游戏\).md "wikilink")(用[DJGPP写的](https://zh.wikipedia.org/wiki/DJGPP "wikilink"))
       - [Looking Glass
         Studios的](https://zh.wikipedia.org/wiki/Looking_Glass_Studios "wikilink"),
@@ -120,7 +120,7 @@ Interface，缩写作DPMI）所代，後者在Windows 3.0
         兽人与人类](https://zh.wikipedia.org/wiki/魔兽争霸:_兽人与人类 "wikilink")、[魔兽争霸II：黑暗之门](../Page/魔兽争霸II：黑暗之门.md "wikilink")
       - [3D
         Realms的](https://zh.wikipedia.org/wiki/3D_Realms "wikilink")[永远的毁灭公爵](../Page/永远的毁灭公爵.md "wikilink")
-      - [Midway的](https://zh.wikipedia.org/wiki/Midway "wikilink")[真人快打系列](../Page/真人快打系列.md "wikilink")
+      - [Midway的](../Page/Midway.md "wikilink")[真人快打系列](../Page/真人快打系列.md "wikilink")
       - [西木工作室的](../Page/西木工作室.md "wikilink")[命令与征服](https://zh.wikipedia.org/wiki/命令与征服 "wikilink")、[红色警戒1](https://zh.wikipedia.org/wiki/红色警戒1 "wikilink")
       - [DMA
         Design](https://zh.wikipedia.org/wiki/DMA_Design "wikilink")（现称Rockstar
@@ -130,7 +130,8 @@ Interface，缩写作DPMI）所代，後者在Windows 3.0
     9x自称为](../Page/Windows_9x.md "wikilink")“操作系统”系列，但实为高级的更灵活扩展了MS-DOS代码的Window
       - [Windows 95](../Page/Windows_95.md "wikilink")
       - [Windows 98](../Page/Windows_98.md "wikilink")/SE
-      - [Windows ME](../Page/Windows_ME.md "wikilink")
+      - [Windows
+        ME](https://zh.wikipedia.org/wiki/Windows_ME "wikilink")
 
 ## 参考
 

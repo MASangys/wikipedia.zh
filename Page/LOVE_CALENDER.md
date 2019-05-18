@@ -24,7 +24,8 @@ CALENDER**》（）是[DECO\*27第三張原創](../Page/DECO*27.md "wikilink")[�
 ## 參加的音樂人
 
   - とぴ：Vocal
-  - [marina](../Page/marina.md "wikilink") (ex. [Girls Dead
+  - [marina](https://zh.wikipedia.org/wiki/marina "wikilink") (ex.
+    [Girls Dead
     Monster](https://zh.wikipedia.org/wiki/Girls_Dead_Monster "wikilink"))：Vocal
   - [中川翔子](../Page/中川翔子.md "wikilink")：Vocal
   - [悠木碧](../Page/悠木碧.md "wikilink")：Vocal

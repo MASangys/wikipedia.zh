@@ -30,10 +30,10 @@ de Valence Ville）10公里。
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巴黎里昂站" title="wikilink">巴黎</a>—<a href="../Page/佩皮尼昂站.md" title="wikilink">佩皮尼昂</a>/<a href="https://zh.wikipedia.org/wiki/巴塞罗那桑斯车站" title="wikilink">巴塞罗那</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/里昂帕尔迪厄站" title="wikilink">里昂</a>—<a href="https://zh.wikipedia.org/wiki/巴塞罗那桑斯车站" title="wikilink">巴塞罗那</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/里昂帕尔迪厄站.md" title="wikilink">里昂</a>—<a href="https://zh.wikipedia.org/wiki/巴塞罗那桑斯车站" title="wikilink">巴塞罗那</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/布鲁塞尔南站.md" title="wikilink">布鲁塞尔</a>/<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔欧洲</a>/<a href="https://zh.wikipedia.org/wiki/里尔弗朗德站" title="wikilink">弗朗德</a>—<a href="../Page/马赛圣夏勒站.md" title="wikilink">马赛</a>/<a href="../Page/土伦站.md" title="wikilink">土伦</a>/<a href="https://zh.wikipedia.org/wiki/尼斯城站" title="wikilink">尼斯</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/布鲁塞尔南站.md" title="wikilink">布鲁塞尔</a>/<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔欧洲</a>/<a href="https://zh.wikipedia.org/wiki/里尔弗朗德站" title="wikilink">弗朗德</a>—<a href="../Page/马赛圣夏勒站.md" title="wikilink">马赛</a>/<a href="../Page/土伦站.md" title="wikilink">土伦</a>/<a href="../Page/尼斯城站.md" title="wikilink">尼斯</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="../Page/布鲁塞尔南站.md" title="wikilink">布鲁塞尔</a>/<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔欧洲</a>/<a href="https://zh.wikipedia.org/wiki/里尔弗朗德站" title="wikilink">弗朗德</a>—<a href="../Page/蒙彼利埃圣罗克站.md" title="wikilink">蒙彼利埃</a>/<a href="../Page/佩皮尼昂站.md" title="wikilink">佩皮尼昂</a></p></td>
@@ -45,13 +45,13 @@ de Valence Ville）10公里。
 <td style="text-align: center;"><p><a href="../Page/南特站.md" title="wikilink">南特</a>/<a href="../Page/雷恩站.md" title="wikilink">雷恩</a>—<a href="../Page/蒙彼利埃圣罗克站.md" title="wikilink">蒙彼利埃</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/斯特拉斯堡站" title="wikilink">斯特拉斯堡</a>/<a href="https://zh.wikipedia.org/wiki/梅斯城站" title="wikilink">梅斯</a>/<a href="../Page/第戎城站.md" title="wikilink">第戎</a>—<a href="../Page/马赛圣夏勒站.md" title="wikilink">马赛</a>/<a href="https://zh.wikipedia.org/wiki/尼斯城站" title="wikilink">尼斯</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/斯特拉斯堡站" title="wikilink">斯特拉斯堡</a>/<a href="../Page/梅斯城站.md" title="wikilink">梅斯</a>/<a href="../Page/第戎城站.md" title="wikilink">第戎</a>—<a href="../Page/马赛圣夏勒站.md" title="wikilink">马赛</a>/<a href="../Page/尼斯城站.md" title="wikilink">尼斯</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/斯特拉斯堡站" title="wikilink">斯特拉斯堡</a>—<a href="../Page/蒙彼利埃圣罗克站.md" title="wikilink">蒙彼利埃</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/里昂帕尔迪厄站" title="wikilink">里昂帕丢</a>—<a href="https://zh.wikipedia.org/wiki/图卢兹马塔比奥站" title="wikilink">图卢兹</a>/<a href="../Page/波尔多圣让站.md" title="wikilink">波尔多</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/里昂帕尔迪厄站.md" title="wikilink">里昂帕丢</a>—<a href="https://zh.wikipedia.org/wiki/图卢兹马塔比奥站" title="wikilink">图卢兹</a>/<a href="../Page/波尔多圣让站.md" title="wikilink">波尔多</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="../Page/南锡城站.md" title="wikilink">南锡</a>/<a href="../Page/第戎城站.md" title="wikilink">第戎</a>—<a href="https://zh.wikipedia.org/wiki/图卢兹马塔比奥站" title="wikilink">图卢兹</a></p></td>
@@ -63,10 +63,10 @@ de Valence Ville）10公里。
 <td style="text-align: center;"><p><a href="../Page/阿讷西站.md" title="wikilink">阿讷西</a>—<a href="../Page/马赛圣夏勒站.md" title="wikilink">马赛</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/马恩拉瓦莱-谢西站" title="wikilink">马恩拉瓦莱-谢西</a>—<a href="../Page/马赛圣夏勒站.md" title="wikilink">马赛</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/马恩拉瓦莱-谢西站.md" title="wikilink">马恩拉瓦莱-谢西</a>—<a href="../Page/马赛圣夏勒站.md" title="wikilink">马赛</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/马恩拉瓦莱-谢西站" title="wikilink">马恩拉瓦莱-谢西</a>—<a href="../Page/蒙彼利埃圣罗克站.md" title="wikilink">蒙彼利埃</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/马恩拉瓦莱-谢西站.md" title="wikilink">马恩拉瓦莱-谢西</a>—<a href="../Page/蒙彼利埃圣罗克站.md" title="wikilink">蒙彼利埃</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="../Page/阿讷西站.md" title="wikilink">阿讷西</a>/<a href="https://zh.wikipedia.org/wiki/尚贝里沙雷索站" title="wikilink">尚贝里</a>/<a href="../Page/格勒诺布尔站.md" title="wikilink">格勒诺布尔</a>—<a href="https://zh.wikipedia.org/wiki/瓦朗斯站" title="wikilink">瓦朗斯</a></p></td>
@@ -139,7 +139,7 @@ de Valence Ville）10公里。
 <tr class="odd">
 <td style="text-align: center;"><div style="display:inline-block; text-align:right; vertical-align:middle;">
 <p><a href="https://zh.wikipedia.org/wiki/里昂圣埃克絮佩里站" title="wikilink">里昂圣埃克絮佩里站</a>←（正线）↖<br />
-<a href="https://zh.wikipedia.org/wiki/里昂帕尔迪厄站" title="wikilink">里昂帕丢站</a>←……←（）←（联络线）↙</p>
+<a href="../Page/里昂帕尔迪厄站.md" title="wikilink">里昂帕丢站</a>←……←（）←（联络线）↙</p>
 </div>
 <p>⇐<br />
 </p>

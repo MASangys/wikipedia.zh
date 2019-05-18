@@ -7,7 +7,8 @@ MARKET 84」上宣佈要在2014年推出新作動畫《ウィザード・バリ�
 BARRISTERS～弁魔士セシル）》，相關的動畫網站與宣傳影像也隨之公開。
 
 動畫《伽利略少女》的監督 梅津泰臣 於2013年年中的「[COMIC
-MARKET](../Page/COMIC_MARKET.md "wikilink") 84」上宣佈將推出全新作的原創動畫作品《WIZARD
+MARKET](https://zh.wikipedia.org/wiki/COMIC_MARKET "wikilink")
+84」上宣佈將推出全新作的原創動畫作品《WIZARD
 BARRISTERS～弁魔士賽希爾》，其相關的動畫網站近期公開了PV第三彈宣傳影像。
 
 動畫《WIZARD BARRISTERS～弁魔士賽希爾》確定2014年1月12日起於日本地區「TOKYO
@@ -234,7 +235,7 @@ MX」等各電視台開始播出。相關的主題曲分別由Lia與為劇中角
   - 音樂：小西香葉、[近藤由紀夫](https://zh.wikipedia.org/wiki/近藤由紀夫 "wikilink")（[MOKA☆](https://zh.wikipedia.org/wiki/MOKA☆ "wikilink")）
   - CG導演：[松井一樹](https://zh.wikipedia.org/wiki/松井一樹 "wikilink")
   - CG監督：[西川和宏](https://zh.wikipedia.org/wiki/西川和宏 "wikilink")
-  - 製作企劃：[GENCO](https://zh.wikipedia.org/wiki/GENCO "wikilink")
+  - 製作企劃：[GENCO](../Page/GENCO.md "wikilink")
   - 動畫製作：[ARMS](https://zh.wikipedia.org/wiki/ARMS "wikilink")
   - 製作：烏鐸夥伴
 
@@ -247,7 +248,7 @@ MX」等各電視台開始播出。相關的主題曲分別由Lia與為劇中角
 <!-- end list -->
 
   - 片尾曲「BLUE TOPAZ」
-    作詞：，作曲、編曲：奧井康介，主唱：[田邊留依](https://zh.wikipedia.org/wiki/田邊留依 "wikilink")
+    作詞：，作曲、編曲：奧井康介，主唱：[田邊留依](../Page/田邊留依.md "wikilink")
     第12話未使用。
 
 <!-- end list -->
@@ -257,7 +258,7 @@ MX」等各電視台開始播出。相關的主題曲分別由Lia與為劇中角
 「空が泣いても」（第8話）
 
   -
-    作詞：，作曲：前澤寛之，編曲：yamazo，主唱：[田邊留依](https://zh.wikipedia.org/wiki/田邊留依 "wikilink")
+    作詞：，作曲：前澤寛之，編曲：yamazo，主唱：[田邊留依](../Page/田邊留依.md "wikilink")
 
 「Butterfly Dreams」（第12話）
 
@@ -522,7 +523,7 @@ Chang Bum Chul、Lee Ju Hak</p></td>
 有重播<br />
 有字幕<br />
 雙語廣播<br />
-<a href="../Page/myTV.md" title="wikilink">myTV提供</a>14天重溫</p></td>
+<a href="https://zh.wikipedia.org/wiki/myTV" title="wikilink">myTV提供</a>14天重溫</p></td>
 </tr>
 <tr class="even">
 <td></td>

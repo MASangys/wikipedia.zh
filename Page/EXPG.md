@@ -37,7 +37,7 @@
     Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")）
   - [楓](https://zh.wikipedia.org/wiki/楓_\(舞者\) "wikilink")（[Happiness](../Page/Happiness_\(組合\).md "wikilink")、[E-Girls](https://zh.wikipedia.org/wiki/E-girls "wikilink")）
   - MIYUU（Happiness、E-girls）
-  - [春川恭亮](../Page/春川恭亮.md "wikilink")（[劇團EXILE](https://zh.wikipedia.org/wiki/劇團EXILE "wikilink")）
+  - [春川恭亮](../Page/春川恭亮.md "wikilink")（[劇團EXILE](../Page/劇團EXILE.md "wikilink")）
   - 野畑慎（[The
     ROOTLESS](https://zh.wikipedia.org/wiki/The_ROOTLESS "wikilink")）
   - [有安杏果](../Page/有安杏果.md "wikilink")（原[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")）
@@ -58,7 +58,7 @@
   - [木津玲奈](https://zh.wikipedia.org/wiki/木津玲奈 "wikilink")（原EGD、原E-girls）
   - [須田アンナ](https://zh.wikipedia.org/wiki/須田アンナ "wikilink")（原EGD、E-girls、Happiness）
   - 生田梨沙（原EGD、E-girls）
-  - [小野塚勇人](https://zh.wikipedia.org/wiki/小野塚勇人 "wikilink")（劇團EXILE）
+  - [小野塚勇人](../Page/小野塚勇人.md "wikilink")（劇團EXILE）
   - [佐原モニカ](https://zh.wikipedia.org/wiki/佐原モニカ "wikilink")
   - [chay](https://zh.wikipedia.org/wiki/chay "wikilink")
   - Meik（[J☆Dee'Z](https://zh.wikipedia.org/wiki/J☆Dee'Z "wikilink")）
@@ -69,7 +69,7 @@
   - KAZUKI（[DOBERMAN
     INFINITY](https://zh.wikipedia.org/wiki/DOBERMAN_INFINITY "wikilink")）
   - RIKU（[THE
-    RAMPAGE](https://zh.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE "wikilink")）
+    RAMPAGE](../Page/THE_RAMPAGE_from_EXILE_TRIBE.md "wikilink")）
   - 龍（THE RAMPAGE）
   - 鈴木昂秀（THE RAMPAGE）
   - 長谷川慎（THE RAMPAGE）

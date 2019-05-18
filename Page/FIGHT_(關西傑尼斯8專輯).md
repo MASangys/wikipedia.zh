@@ -3,7 +3,7 @@
 ## 概要
 
   - 睽違1年1個月的新專輯。
-  - 收錄5首單曲的，為「[T.W.L](https://zh.wikipedia.org/wiki/T.W.L/Yellow_Pansy_Street "wikilink")」、「[イエローパンジーストリート](https://zh.wikipedia.org/wiki/T.W.L/Yellow_Pansy_Street "wikilink")」、「[マイホーム](../Page/My_Home.md "wikilink")」、「[365日家族](https://zh.wikipedia.org/wiki/365日家族 "wikilink")」、「[ツブサニコイ](https://zh.wikipedia.org/wiki/愛著你的一切 "wikilink")」
+  - 收錄5首單曲的，為「[T.W.L](https://zh.wikipedia.org/wiki/T.W.L/Yellow_Pansy_Street "wikilink")」、「[イエローパンジーストリート](https://zh.wikipedia.org/wiki/T.W.L/Yellow_Pansy_Street "wikilink")」、「[マイホーム](../Page/My_Home.md "wikilink")」、「[365日家族](../Page/365日家族.md "wikilink")」、「[ツブサニコイ](../Page/愛著你的一切.md "wikilink")」
   - 初回盤的CD和通常盤的CD1收錄曲是一樣的
 
 ## 收錄歌曲

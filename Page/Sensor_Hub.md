@@ -17,7 +17,7 @@ hub：
 <tbody>
 <tr class="odd">
 <td><p>蘋果</p></td>
-<td><p><a href="../Page/iPhone_5s.md" title="wikilink">iPhone 5s</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_5s" title="wikilink">iPhone 5s</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Apple_M7" title="wikilink">Apple M7</a><br />
 <small><a href="https://zh.wikipedia.org/wiki/NXP_LPC18A1" title="wikilink">NXP LPC18A1</a>[4]</small></p></td>
 </tr>

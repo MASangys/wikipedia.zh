@@ -853,7 +853,7 @@
 <td><center>
 <p>22</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安潔莉克·克伯" title="wikilink">安潔莉克·克伯</a></p></td>
+<td><p><a href="../Page/安潔莉克·克伯.md" title="wikilink">安潔莉克·克伯</a></p></td>
 <td><p>2016年9月12日</p></td>
 <td><p>2017年1月29日</p></td>
 <td><p>20</p></td>
@@ -899,7 +899,7 @@
 <td><center>
 <p>23</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡羅利娜·普利什科娃" title="wikilink">卡罗利娜·普利什科娃</a></p></td>
+<td><p><a href="../Page/卡羅利娜·普利什科娃.md" title="wikilink">卡罗利娜·普利什科娃</a></p></td>
 <td><p>2017年7月17日</p></td>
 <td><p>2017年9月10日</p></td>
 <td><p>8</p></td>
@@ -909,7 +909,7 @@
 <td><center>
 <p>24</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/加比涅·穆古魯薩" title="wikilink">加比涅·穆古鲁萨</a></p></td>
+<td><p><a href="../Page/加比涅·穆古魯薩.md" title="wikilink">加比涅·穆古鲁萨</a></p></td>
 <td><p>2017年9月11日</p></td>
 <td><p>2017年10月8日</p></td>
 <td><p>4</p></td>
@@ -1013,7 +1013,7 @@
 </tr>
 <tr class="even">
 <td><p>12.</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安潔莉克·克伯" title="wikilink">安潔莉克·克伯</a> *</p></td>
+<td><p><a href="../Page/安潔莉克·克伯.md" title="wikilink">安潔莉克·克伯</a> *</p></td>
 <td><p>34</p></td>
 </tr>
 <tr class="odd">
@@ -1068,12 +1068,12 @@
 </tr>
 <tr class="odd">
 <td><p>23.</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡羅利娜·普利什科娃" title="wikilink">卡罗利娜·普利什科娃</a> *</p></td>
+<td><p><a href="../Page/卡羅利娜·普利什科娃.md" title="wikilink">卡罗利娜·普利什科娃</a> *</p></td>
 <td><p>8</p></td>
 </tr>
 <tr class="even">
 <td><p>24.</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/加比涅·穆古魯薩" title="wikilink">加比涅·穆古鲁萨</a> *</p></td>
+<td><p><a href="../Page/加比涅·穆古魯薩.md" title="wikilink">加比涅·穆古鲁萨</a> *</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
@@ -1115,7 +1115,7 @@
 </p></td>
 <td><p>2</p></td>
 <td><p>411</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/施特菲·葛拉芙" title="wikilink">施特菲·葛拉芙</a>, <strong><a href="https://zh.wikipedia.org/wiki/安潔莉克·克伯" title="wikilink">安潔莉克·克伯</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/施特菲·葛拉芙" title="wikilink">施特菲·葛拉芙</a>, <strong><a href="../Page/安潔莉克·克伯.md" title="wikilink">安潔莉克·克伯</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>3.</p></td>
@@ -1172,14 +1172,14 @@
 <td></td>
 <td><p>2</p></td>
 <td><p>13</p></td>
-<td><p><a href="../Page/阿蘭查·桑切斯·維卡里奧.md" title="wikilink">阿蘭查·桑琪絲·維卡里奧</a>, <strong><a href="https://zh.wikipedia.org/wiki/加比涅·穆古魯薩" title="wikilink">加比涅·穆古鲁萨</a></strong></p></td>
+<td><p><a href="../Page/阿蘭查·桑切斯·維卡里奧.md" title="wikilink">阿蘭查·桑琪絲·維卡里奧</a>, <strong><a href="../Page/加比涅·穆古魯薩.md" title="wikilink">加比涅·穆古鲁萨</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>11.</p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>8</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/卡羅利娜·普利什科娃" title="wikilink">卡羅利娜·普利什科娃</a></strong></p></td>
+<td><p><strong><a href="../Page/卡羅利娜·普利什科娃.md" title="wikilink">卡羅利娜·普利什科娃</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>12.</p></td>

@@ -1,14 +1,14 @@
-**VALSHE**（，）是日本的女性歌手。暱稱芭魯雪、巴魯雪、芭魯、巴魯等等。非常喜歡看[名偵探柯南](../Page/名偵探柯南.md "wikilink")，藝名也是來自[名偵探柯南第三部電影](../Page/名偵探柯南.md "wikilink")——[名偵探柯南：世紀末的魔術師中的巴魯雪](https://zh.wikipedia.org/wiki/名偵探柯南：世紀末的魔術師 "wikilink")・尼枯卡塔梅卡／巴魯雪肉買了嗎（バルシェ・ニクカッタベカ／バルシェ肉買ったべか）\[1\]。她在[NICONICO動畫上發表自己的翻唱作品](../Page/NICONICO動畫.md "wikilink")，以[VOCALOID的歌曲為主](../Page/VOCALOID.md "wikilink")，並以「[兩聲類](https://zh.wikipedia.org/wiki/兩聲類 "wikilink")」聞名。而出於她對[鏡音連的愛](https://zh.wikipedia.org/wiki/鏡音連 "wikilink")，她的大部分翻唱歌曲都是[鏡音連的歌](https://zh.wikipedia.org/wiki/鏡音連 "wikilink")，她曾說過「對鏡音連不能自重」，於2011年在ニコニコ動画上發表引退宣言\[2\]。所屬經紀公司為[Being
+**VALSHE**（，）是日本的女性歌手。暱稱芭魯雪、巴魯雪、芭魯、巴魯等等。非常喜歡看[名偵探柯南](../Page/名偵探柯南.md "wikilink")，藝名也是來自[名偵探柯南第三部電影](../Page/名偵探柯南.md "wikilink")——[名偵探柯南：世紀末的魔術師中的巴魯雪](https://zh.wikipedia.org/wiki/名偵探柯南：世紀末的魔術師 "wikilink")・尼枯卡塔梅卡／巴魯雪肉買了嗎（バルシェ・ニクカッタベカ／バルシェ肉買ったべか）\[1\]。她在[NICONICO動畫上發表自己的翻唱作品](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，以[VOCALOID的歌曲為主](../Page/VOCALOID.md "wikilink")，並以「[兩聲類](https://zh.wikipedia.org/wiki/兩聲類 "wikilink")」聞名。而出於她對[鏡音連的愛](https://zh.wikipedia.org/wiki/鏡音連 "wikilink")，她的大部分翻唱歌曲都是[鏡音連的歌](https://zh.wikipedia.org/wiki/鏡音連 "wikilink")，她曾說過「對鏡音連不能自重」，於2011年在ニコニコ動画上發表引退宣言\[2\]。所屬經紀公司為[Being
 Inc.](../Page/Being_\(公司\).md "wikilink")\[3\]。
 
 ## NICONICO動畫
 
 ### 活躍時代
 
-2009年，VALSHE以「バルシェ」的名義和畫師[白皙所畫的金髮藍眼畫像示人](https://zh.wikipedia.org/wiki/白皙 "wikilink")，在[NICONICO動畫上傳翻唱](../Page/NICONICO動畫.md "wikilink")[VOCALOID歌曲的影片](../Page/VOCALOID.md "wikilink")，活躍於[NICONICO動畫界](../Page/NICONICO動畫.md "wikilink")。她與[NICONICO動畫的一位翻唱歌手兼作曲家minato](../Page/NICONICO動畫.md "wikilink")（即トゥライ或流星P）合作不少次，並曾一起辦一些現場活動。\[4\]曾與[clear](../Page/clear_\(歌手\).md "wikilink")、nero、5コマスベリ、雨色、てん和K太組成「」\[5\]。
+2009年，VALSHE以「バルシェ」的名義和畫師[白皙所畫的金髮藍眼畫像示人](https://zh.wikipedia.org/wiki/白皙 "wikilink")，在[NICONICO動畫上傳翻唱](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[VOCALOID歌曲的影片](../Page/VOCALOID.md "wikilink")，活躍於[NICONICO動畫界](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。她與[NICONICO動畫的一位翻唱歌手兼作曲家minato](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")（即トゥライ或流星P）合作不少次，並曾一起辦一些現場活動。\[4\]曾與[clear](https://zh.wikipedia.org/wiki/clear_\(歌手\) "wikilink")、nero、5コマスベリ、雨色、てん和K太組成「」\[5\]。
 
-  - 2009年5月19日，VALSHE上傳了翻唱[鏡音連](https://zh.wikipedia.org/wiki/鏡音連 "wikilink")的影片，並於2010年7月7日點擊率達一百萬，成為了[NICONICO動畫界的著名翻唱歌手之一](../Page/NICONICO動畫.md "wikilink")。
-  - 2009年6月18日，VALSHE與[蛇足](https://zh.wikipedia.org/wiki/蛇足 "wikilink")、[clear合作翻唱](../Page/clear_\(歌手\).md "wikilink")「IMITATION
+  - 2009年5月19日，VALSHE上傳了翻唱[鏡音連](https://zh.wikipedia.org/wiki/鏡音連 "wikilink")的影片，並於2010年7月7日點擊率達一百萬，成為了[NICONICO動畫界的著名翻唱歌手之一](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。
+  - 2009年6月18日，VALSHE與[蛇足](https://zh.wikipedia.org/wiki/蛇足 "wikilink")、[clear合作翻唱](https://zh.wikipedia.org/wiki/clear_\(歌手\) "wikilink")「IMITATION
     BLACK
     [1](http://www.nicovideo.jp/watch/sm7381552)」，並於2010年4月10日點擊率達一百萬。
   - 2010年3月24日，VALSHE發售第一張翻唱專輯「valuable sheaves」。
@@ -18,10 +18,10 @@ Inc.](../Page/Being_\(公司\).md "wikilink")\[3\]。
 
 ### 引退
 
-2011年5月7日，VALSHE正式宣佈從[NICONICO動畫引退](../Page/NICONICO動畫.md "wikilink")。今後要以**「VALSHE」**的名義於原創音樂的事業為重，而**「バルシェ」**在[NICONICO動畫上投稿](../Page/NICONICO動畫.md "wikilink")[VOCALOID翻唱曲的活動已經結束](../Page/VOCALOID.md "wikilink")。對於這次事件，VALSHE寫了網誌感謝一直支持她的網友，並清楚說明她引退的原因。
+2011年5月7日，VALSHE正式宣佈從[NICONICO動畫引退](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。今後要以**「VALSHE」**的名義於原創音樂的事業為重，而**「バルシェ」**在[NICONICO動畫上投稿](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[VOCALOID翻唱曲的活動已經結束](../Page/VOCALOID.md "wikilink")。對於這次事件，VALSHE寫了網誌感謝一直支持她的網友，並清楚說明她引退的原因。
 \[6\]\[7\]
 
-其後VALSHE幾乎把所有她在[NICONICO動畫時代的翻唱曲全部刪除](../Page/NICONICO動畫.md "wikilink")，只剩下她跟其他翻唱歌手的作品和她一些最著名的個人作品，令不少歌迷感到惋惜。\[8\]
+其後VALSHE幾乎把所有她在[NICONICO動畫時代的翻唱曲全部刪除](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，只剩下她跟其他翻唱歌手的作品和她一些最著名的個人作品，令不少歌迷感到惋惜。\[8\]
 
 ## 職業生涯
 
@@ -41,7 +41,7 @@ Inc.](../Page/Being_\(公司\).md "wikilink")\[3\]。
   - 2013年11月30日，她於[赤坂ACT劇場首次舉辦演唱會](https://zh.wikipedia.org/wiki/赤坂ACT劇場 "wikilink")「LIVE
     THE JOKER 2013」。\[13\]\[14\]\[15\]
   - 2016年
-    VALSHE暫停個人活動，並與[minato組成雙人組合](../Page/minato.md "wikilink")-[ViCTiM](https://zh.wikipedia.org/wiki/ViCTiM "wikilink")
+    VALSHE暫停個人活動，並與[minato組成雙人組合](https://zh.wikipedia.org/wiki/minato "wikilink")-[ViCTiM](https://zh.wikipedia.org/wiki/ViCTiM "wikilink")
     \[16\]
 
 ## 歌曲
@@ -89,7 +89,7 @@ Inc.](../Page/Being_\(公司\).md "wikilink")\[3\]。
 | 1st | 2010年9月23日 | [storyteller](https://zh.wikipedia.org/wiki/storyteller "wikilink")                                         |
 | 2nd | 2014年9月24日 | [storyteller II 〜the Age Limits〜](https://zh.wikipedia.org/wiki/storyteller_II_〜the_Age_Limits〜 "wikilink") |
 | 3rd | 2015年6月24日 | [ジツロク・クモノイト](https://zh.wikipedia.org/wiki/ジツロク・クモノイト "wikilink")                                           |
-| 4th | 2016年7月27日 | [RIOT](https://zh.wikipedia.org/wiki/RIOT "wikilink")                                                       |
+| 4th | 2016年7月27日 | [RIOT](../Page/RIOT.md "wikilink")                                                                          |
 | 5th | 2018年8月22日 | [今生、絢爛につき。](https://zh.wikipedia.org/wiki/今生、絢爛につき。 "wikilink")                                             |
 |     |            |                                                                                                             |
 
@@ -109,7 +109,7 @@ Inc.](../Page/Being_\(公司\).md "wikilink")\[3\]。
 
 ## 相關條目
 
-  - [NICONICO動畫](../Page/NICONICO動畫.md "wikilink")
+  - [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")
   - [VOCALOID](../Page/VOCALOID.md "wikilink")
   - [Being Inc.](../Page/Being_\(公司\).md "wikilink")
   - [5pb. Records](../Page/5pb..md "wikilink")

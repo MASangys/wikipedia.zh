@@ -1,5 +1,5 @@
 **SHINee World III**
-是[SHINee的第三次巡回演唱会](../Page/SHINee.md "wikilink")、第一次世界巡迴演唱會，本次巡回演唱会由2014年3月8日的[首爾場揭開序幕](https://zh.wikipedia.org/wiki/首爾 "wikilink")。\[1\]
+是[SHINee的第三次巡回演唱会](../Page/SHINee.md "wikilink")、第一次世界巡迴演唱會，本次巡回演唱会由2014年3月8日的[首爾場揭開序幕](../Page/首爾.md "wikilink")。\[1\]
 
 ## 历史
 

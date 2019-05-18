@@ -36,14 +36,14 @@ F1等型号来设计](https://zh.wikipedia.org/wiki/FCM_F1 "wikilink")。儘管�
 
 在1945年2月，一个兵工團隊和部队之间的会议召开。部隊的代表指出按照原有的标准造出战车是毫无意义的，因为这样的战车甚至比不上可以从[同盟國那里免费得到](../Page/同盟國_\(第二次世界大戰\).md "wikilink")[M4雪曼战车](https://zh.wikipedia.org/wiki/M4雪曼战车 "wikilink")。因此，ARL
 44应该提高車重上限（尽管在计划阶段重量已经从43公吨提高到了48公吨）以拥有120mm[倾斜装甲以及最强力的火炮](https://zh.wikipedia.org/wiki/倾斜装甲 "wikilink")。不幸的是这种火炮無法輕易取得–外購選項為美製[76毫米炮或者](https://zh.wikipedia.org/wiki/M1_76毫米坦克炮 "wikilink")[QF
-17磅炮](https://zh.wikipedia.org/wiki/QF_17磅炮 "wikilink")。採用美製76毫米炮與原先參考指標中的75毫米L/44火炮一樣違背了當初決定研發重型坦克的初衷；英製17磅炮就1945年的標準而言勉強可用，但是需要極力爭取，能否事成和成效是否值得也是存疑；而美製90毫米火炮当时要優先配發美軍使用，就算美國未來可能同意外銷也根本緩不濟急。
+17磅炮](../Page/QF_17磅炮.md "wikilink")。採用美製76毫米炮與原先參考指標中的75毫米L/44火炮一樣違背了當初決定研發重型坦克的初衷；英製17磅炮就1945年的標準而言勉強可用，但是需要極力爭取，能否事成和成效是否值得也是存疑；而美製90毫米火炮当时要優先配發美軍使用，就算美國未來可能同意外銷也根本緩不濟急。
 
 ### 二戰後
 
 在战争结束时，只有一个木制模型被莫里斯·拉维罗特领导的工程师队伍造出。然而，战争的结束并不意味着这个工程的下马。为了使法国坦克设计业能够延续下去，並保持法国军队的士气，尽管它们再也没有任何实际上的战略上的用途，政府仍然决定生产60辆战车。1946年3月，第一辆原型车投入测试。盧瓦爾公司（[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")：Atelier
 et Chantiers de la
-Loire）生产了能够安装美制[76毫米火炮的ACL炮塔](https://zh.wikipedia.org/wiki/M1_76毫米坦克炮 "wikilink")。但很快，这个炮塔就由[施耐德制造的](https://zh.wikipedia.org/wiki/施耐德 "wikilink")，参考[FCM_F1超重型坦克坦克的设计](https://zh.wikipedia.org/wiki/FCM_F1超重型坦克 "wikilink")，能安装由高射炮改装的，带有[炮口制退器](https://zh.wikipedia.org/wiki/炮口制退器 "wikilink")，發射穿甲彈時拥有1000m/s的[炮口初速度](https://zh.wikipedia.org/wiki/炮口初速度 "wikilink")（高爆彈砲口初速则是1130m/s）的[90毫米SA
-45坦克炮的炮塔所替代](https://zh.wikipedia.org/wiki/90毫米SA_45坦克炮 "wikilink")。ARL
+Loire）生产了能够安装美制[76毫米火炮的ACL炮塔](https://zh.wikipedia.org/wiki/M1_76毫米坦克炮 "wikilink")。但很快，这个炮塔就由[施耐德制造的](https://zh.wikipedia.org/wiki/施耐德 "wikilink")，参考[FCM_F1超重型坦克坦克的设计](../Page/FCM_F1超重型坦克.md "wikilink")，能安装由高射炮改装的，带有[炮口制退器](https://zh.wikipedia.org/wiki/炮口制退器 "wikilink")，發射穿甲彈時拥有1000m/s的[炮口初速度](https://zh.wikipedia.org/wiki/炮口初速度 "wikilink")（高爆彈砲口初速则是1130m/s）的[90毫米SA
+45坦克炮的炮塔所替代](../Page/90毫米SA_45坦克炮.md "wikilink")。ARL
 44因此也是第一款使用这种火炮的法国坦克。射击实验则是从1947年6月27日开始。这款火炮被证明比用于对照的[豹式坦克的火炮更加精准](https://zh.wikipedia.org/wiki/豹式坦克 "wikilink")。\[7\]
 
 主要出于军械的升级原因，炮塔的研制和制造时间被延长。因此直到1949年，炮塔才能够适配1946年生产的库存底盘。40个底盘已由FAMH公司制造完毕，此外还有由[雷诺公司制造的另外](../Page/雷诺.md "wikilink")20个底盘。这些底盘都安装了德国的[迈巴赫
@@ -69,7 +69,7 @@ ARL
 
 总之，ARL
 44是一个不太令人满意的临时设计，后人常常把它叫做“过渡坦克”，其主要目的是为建造更重的战车提高经验。而工程师们则主要认识到了设计太重的坦克并不明智。这些在ARL
-44这个坦克工程中得到了发展的观点被用在了之后重得多的[AMX-50重型坦克上](https://zh.wikipedia.org/wiki/AMX-50重型坦克 "wikilink")。而在AMX-50計畫失敗16年之后的1966年，法国才成功地將[AMX
+44这个坦克工程中得到了发展的观点被用在了之后重得多的[AMX-50重型坦克上](../Page/AMX-50重型坦克.md "wikilink")。而在AMX-50計畫失敗16年之后的1966年，法国才成功地將[AMX
 30](https://zh.wikipedia.org/wiki/AMX_30 "wikilink")–一款[主战坦克](https://zh.wikipedia.org/wiki/主战坦克 "wikilink")–投入部隊服役。
 
 ## 服役記錄

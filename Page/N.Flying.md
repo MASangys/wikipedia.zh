@@ -87,7 +87,7 @@ PROJECT\#1》。
 
 2016年，進入[FNC娛樂當練習生](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")。2017年4月7日，出演《[Produce
 101
-S2](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")》，最終排名第39。2017年6月20日，正式加入N.Flying。
+S2](../Page/PRODUCE_101_第二季.md "wikilink")》，最終排名第39。2017年6月20日，正式加入N.Flying。
 
 ### 獨立樂團時期
 
@@ -105,7 +105,7 @@ N.Flying 將於5月20日推出首張迷你專輯《Awesome》正式出道，並�
 
 6月20日，[FNC娛樂於官網發出公告表示曾出演](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")[Mnet選秀節目](../Page/Mnet媒體.md "wikilink")《[Produce
 101
-S2](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")》的[柳會勝正式加入N](https://zh.wikipedia.org/wiki/柳會勝 "wikilink").Flying，成為樂團第五位成員。\[5\]
+S2](../Page/PRODUCE_101_第二季.md "wikilink")》的[柳會勝正式加入N](https://zh.wikipedia.org/wiki/柳會勝 "wikilink").Flying，成為樂團第五位成員。\[5\]
 
 ### 2018年
 
@@ -188,7 +188,7 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>第二張單曲《<a href="https://zh.wikipedia.org/wiki/Fly_High_Project_2_&#39;Rooftop&#39;" title="wikilink">'''FLY HIGH PROJECT #2 'ROOFTOP' '''</a>》</p>
+<td><p>第二張單曲《<a href="../Page/Fly_High_Project_2_&#39;Rooftop&#39;.md" title="wikilink">'''FLY HIGH PROJECT #2 'ROOFTOP' '''</a>》</p>
 <ul>
 <li>發行日期：2019年1月2日</li>
 <li>語言：韓語</li>
@@ -270,7 +270,7 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
 </tr>
 <tr class="odd">
 <td><p><strong>5th</strong></p></td>
-<td><p>第五張迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/Spring_Memories" title="wikilink">Spring Memories</a></strong>》</p>
+<td><p>第五張迷你專輯《<strong><a href="../Page/Spring_Memories.md" title="wikilink">Spring Memories</a></strong>》</p>
 <ul>
 <li>發行日期：2019年4月24日</li>
 <li>語言：韓語</li>
@@ -341,43 +341,43 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
 | --- | ---------- | --------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 單曲  | 2015年4月28日 | GOD                   | N PROJECT \#1                                                  | [李承協](https://zh.wikipedia.org/wiki/李承協 "wikilink")（與JIMIN（[AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")））                                                   |
 | OST | 2017年9月14日 | Another Day           | 《[犯罪心理](https://zh.wikipedia.org/wiki/犯罪心理_\(韓國\) "wikilink")》 | 柳會勝                                                                                                                                                                       |
-| OST | 2018年1月27日 | 如果你是我                 | 《[和遊記](https://zh.wikipedia.org/wiki/和遊記 "wikilink")》          | 柳會勝（與[申智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")、[徐酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")（[AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")）） |
+| OST | 2018年1月27日 | 如果你是我                 | 《[和遊記](../Page/和遊記.md "wikilink")》                             | 柳會勝（與[申智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")、[徐酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")（[AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")）） |
 | 單曲  | 2018年4月8日  | 사랑했었다（Still love you） | FNC LAB                                                        | 柳會勝（與[李洪基](../Page/李洪基.md "wikilink")）                                                                                                                                    |
 | OST | 2018年4月25日 | 예쁘다 예뻐（So pretty）     | 《[戀愛酒吧](https://zh.wikipedia.org/wiki/戀愛酒吧 "wikilink")》（연애포차）  | 全體                                                                                                                                                                        |
-| OST | 2018年9月6日  | Let Me Show You       | 《[認識的妻子](https://zh.wikipedia.org/wiki/認識的妻子 "wikilink")》      | 全體                                                                                                                                                                        |
+| OST | 2018年9月6日  | Let Me Show You       | 《[認識的妻子](../Page/認識的妻子.md "wikilink")》                         | 全體                                                                                                                                                                        |
 
 ## 影視作品
 
 ### 電視劇
 
-| 年份                                                          | 電視台                                                     | 戲劇名稱                                                      | 參與成員        | 角色      | 性質     |
-| ----------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- | ----------- | ------- | ------ |
-| 2014年                                                       | [SBS](../Page/SBS_\(韓國\).md "wikilink")                 | [現代農夫](https://zh.wikipedia.org/wiki/現代農夫 "wikilink")     | 金宰鉉         | 姜洪九     | 男配角    |
-| 2016年                                                       | [戲子](../Page/戲子_\(電視劇\).md "wikilink")                  | 李承協                                                       | THE SHOW MC | 客串Ep.18 |        |
-| [NAVER tvcast](../Page/NAVER.md "wikilink")                 | 88號街                                                    | 金宰鉉                                                       | 南宇尚         | 男配角     |        |
-| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [舉重妖精金福珠](../Page/舉重妖精金福珠.md "wikilink")                | 游泳部隊員                                                     |             |         |        |
-| 2017年                                                       | SBS                                                     | [姐姐風采依舊](https://zh.wikipedia.org/wiki/姐姐風采依舊 "wikilink") | 全體          | 結婚典禮樂團  | 客串Ep.3 |
-| MBC                                                         | [多樣的兒媳](https://zh.wikipedia.org/wiki/多樣的兒媳 "wikilink") | 金宰鉉                                                       | 金泰奇         | 男配角     |        |
-| OCN                                                         | [救救我](https://zh.wikipedia.org/wiki/救救我 "wikilink")     | 李承協                                                       |             |         |        |
-| 網路劇                                                         | 世上的所有戀愛第三季                                              | 李承協                                                       | 男主角         |         |        |
-| 2018年                                                       | Luv pub                                                 | 泰瑞                                                        |             |         |        |
-| 2019年                                                       | [MBN](https://zh.wikipedia.org/wiki/MBN "wikilink")     | [最棒的炸雞](https://zh.wikipedia.org/wiki/最棒的炸雞 "wikilink")   | 朴俊赫         | 男配角     |        |
-|                                                             |                                                         |                                                           |             |         |        |
+| 年份                                                          | 電視台                                                 | 戲劇名稱                                   | 參與成員        | 角色      | 性質     |
+| ----------------------------------------------------------- | --------------------------------------------------- | -------------------------------------- | ----------- | ------- | ------ |
+| 2014年                                                       | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [現代農夫](../Page/現代農夫.md "wikilink")     | 金宰鉉         | 姜洪九     | 男配角    |
+| 2016年                                                       | [戲子](../Page/戲子_\(電視劇\).md "wikilink")              | 李承協                                    | THE SHOW MC | 客串Ep.18 |        |
+| [NAVER tvcast](../Page/NAVER.md "wikilink")                 | 88號街                                                | 金宰鉉                                    | 南宇尚         | 男配角     |        |
+| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [舉重妖精金福珠](../Page/舉重妖精金福珠.md "wikilink")            | 游泳部隊員                                  |             |         |        |
+| 2017年                                                       | SBS                                                 | [姐姐風采依舊](../Page/姐姐風采依舊.md "wikilink") | 全體          | 結婚典禮樂團  | 客串Ep.3 |
+| MBC                                                         | [多樣的兒媳](../Page/多樣的兒媳.md "wikilink")                | 金宰鉉                                    | 金泰奇         | 男配角     |        |
+| OCN                                                         | [救救我](../Page/救救我.md "wikilink")                    | 李承協                                    |             |         |        |
+| 網路劇                                                         | 世上的所有戀愛第三季                                          | 李承協                                    | 男主角         |         |        |
+| 2018年                                                       | Luv pub                                             | 泰瑞                                     |             |         |        |
+| 2019年                                                       | [MBN](https://zh.wikipedia.org/wiki/MBN "wikilink") | [最棒的炸雞](../Page/最棒的炸雞.md "wikilink")   | 朴俊赫         | 男配角     |        |
+|                                                             |                                                     |                                        |             |         |        |
 
 ### 主持
 
-| 日期          | 電視台                                                         | 節目名稱                                                                        | 參與成員                                                                                                 | 備註                                                                                              |
-| ----------- | ----------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 2015年11月10日 | [SBS MTV](https://zh.wikipedia.org/wiki/SBS_MTV "wikilink") | [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink") | [金宰鉉](https://zh.wikipedia.org/wiki/金宰鉉 "wikilink")                                                  | Special MC(與[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、[酉奈](../Page/酉奈.md "wikilink")) |
-| 2015年11月13日 | KBS                                                         | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                       | 待機室MC (與[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink") [智愛](../Page/劉智愛.md "wikilink")) |                                                                                                 |
-|             |                                                             |                                                                             |                                                                                                      |                                                                                                 |
+| 日期          | 電視台                                                         | 節目名稱                                                     | 參與成員                                                                                                 | 備註                                                                                              |
+| ----------- | ----------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 2015年11月10日 | [SBS MTV](https://zh.wikipedia.org/wiki/SBS_MTV "wikilink") | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") | [金宰鉉](https://zh.wikipedia.org/wiki/金宰鉉 "wikilink")                                                  | Special MC(與[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、[酉奈](../Page/酉奈.md "wikilink")) |
+| 2015年11月13日 | KBS                                                         | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")    | 待機室MC (與[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink") [智愛](../Page/劉智愛.md "wikilink")) |                                                                                                 |
+|             |                                                             |                                                          |                                                                                                      |                                                                                                 |
 
 ### 固定綜藝
 
 | 日期                      | 電視台                                                             | 節目名稱                                                          | 參與成員                                              | 集數      |
 | ----------------------- | --------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- | ------- |
-| 2013年11月21日-2014年 1月 9日 | [tvN](../Page/tvN.md "wikilink")                                | [清潭洞111](https://zh.wikipedia.org/wiki/清潭洞111 "wikilink")     | 全體                                                | 8集      |
-| 2014年 3月13日-2014年 4月10日 | [tvN](../Page/tvN.md "wikilink")                                | 清潭洞111-N.Flying邁向明星之路                                         | 全體                                                | 5集      |
+| 2013年11月21日-2014年 1月 9日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")             | [清潭洞111](../Page/清潭洞111.md "wikilink")                        | 全體                                                | 8集      |
+| 2014年 3月13日-2014年 4月10日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")             | 清潭洞111-N.Flying邁向明星之路                                         | 全體                                                | 5集      |
 | 2015年 3月18日-2015年 5月20日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")           | One Night Study                                               | 全體                                                | 10集     |
 | 2015年 8月21日-2015年 9月 1日 | IDOLIC TV                                                       | EYEDOLLS                                                      | 全體                                                | 4集      |
 | 2016年12月15日-2016年12月29日 | [MBCEvery1](https://zh.wikipedia.org/wiki/MBCEvery1 "wikilink") | [HIT製造機 第三季](https://zh.wikipedia.org/wiki/HIT製造機 "wikilink") | [車勳](https://zh.wikipedia.org/wiki/車勳 "wikilink") | EP01-03 |
@@ -620,11 +620,11 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
 
 ## 廣告代言
 
-| 日期   | 廣告名稱                                                                                                                           | 參與成員                                                |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
-| 2014 | BUCKAROO 牛仔褲代言                                                                                                                 | 全體                                                  |
-| 2015 | BUCKAROO 牛仔褲代言 (與[AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink") [雪炫](https://zh.wikipedia.org/wiki/雪炫 "wikilink")) | [李承協](https://zh.wikipedia.org/wiki/李承協 "wikilink") |
-|      |                                                                                                                                |                                                     |
+| 日期   | 廣告名稱                                                                                                        | 參與成員                                                |
+| ---- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| 2014 | BUCKAROO 牛仔褲代言                                                                                              | 全體                                                  |
+| 2015 | BUCKAROO 牛仔褲代言 (與[AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink") [雪炫](../Page/雪炫.md "wikilink")) | [李承協](https://zh.wikipedia.org/wiki/李承協 "wikilink") |
+|      |                                                                                                             |                                                     |
 
 ## 演唱會
 
@@ -700,7 +700,7 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
 <td><p>2019年</p></td>
 <td><p>3月5日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td><p>Rooftop</p></td>
 <td><p>1位</p></td>
 </tr>
@@ -769,10 +769,10 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
 <td><p>2019年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Fly_High_Project_2_&#39;Rooftop&#39;" title="wikilink">FLY HIGH PROJECT #2 'ROOFTOP'</a></p></td>
+<td><p><a href="../Page/Fly_High_Project_2_&#39;Rooftop&#39;.md" title="wikilink">FLY HIGH PROJECT #2 'ROOFTOP'</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Spring_Memories" title="wikilink">Spring Memories</a></p></td>
+<td><p><a href="../Page/Spring_Memories.md" title="wikilink">Spring Memories</a></p></td>
 </tr>
 <tr class="odd">
 <td><ul>

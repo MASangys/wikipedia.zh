@@ -5,7 +5,7 @@ The After -月之归还-](../Page/最终幻想IV_The_After_-月之归还-.md "wi
 
 ## 游戏玩法
 
-合辑由[时田贵司监督](https://zh.wikipedia.org/wiki/时田贵司 "wikilink")\[4\]。其使用了[16:9的](https://zh.wikipedia.org/wiki/16:9 "wikilink")[高分辨率画面](https://zh.wikipedia.org/wiki/解像度 "wikilink")，和[任天堂DS重制版](../Page/任天堂DS.md "wikilink")《最终幻想IV》相同的[CG开场动画](https://zh.wikipedia.org/wiki/计算机图像生成技术 "wikilink")\[5\]，《月之归还》的新CG开场\[6\]，新编曲的原声\[7\]，以及可查看CG动画和[天野喜孝原画的画廊模式](../Page/天野喜孝.md "wikilink")\[8\]。
+合辑由[时田贵司监督](../Page/时田贵司.md "wikilink")\[4\]。其使用了[16:9的](https://zh.wikipedia.org/wiki/16:9 "wikilink")[高分辨率画面](https://zh.wikipedia.org/wiki/解像度 "wikilink")，和[任天堂DS重制版](../Page/任天堂DS.md "wikilink")《最终幻想IV》相同的[CG开场动画](https://zh.wikipedia.org/wiki/计算机图像生成技术 "wikilink")\[5\]，《月之归还》的新CG开场\[6\]，新编曲的原声\[7\]，以及可查看CG动画和[天野喜孝原画的画廊模式](../Page/天野喜孝.md "wikilink")\[8\]。
 
 遊戲在日本還發行了名為“超級包”的[收藏包](https://zh.wikipedia.org/wiki/特別版 "wikilink")，其中收錄遊戲指南，名為《最終幻想IV
 Complete Arts》的插畫書，以及收錄17首曲目的CD《最終幻想IV The After -月之歸還-

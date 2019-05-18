@@ -1,6 +1,6 @@
 **攻殼機動隊
 ARISE**是[士郎正宗同名漫畫](../Page/士郎正宗.md "wikilink")《[攻殼機動隊](https://zh.wikipedia.org/wiki/攻殼機動隊_\(漫畫\) "wikilink")》改編的劇場版動畫作品。[Production
-I.G公司製作](../Page/Production_I.G.md "wikilink")，导演[黃瀨和哉](https://zh.wikipedia.org/wiki/黃瀨和哉 "wikilink")，系列构成[冲方丁](../Page/冲方丁.md "wikilink")。
+I.G公司製作](../Page/Production_I.G.md "wikilink")，导演[黃瀨和哉](../Page/黃瀨和哉.md "wikilink")，系列构成[冲方丁](../Page/冲方丁.md "wikilink")。
 
 ## 劇情簡介
 
@@ -135,7 +135,7 @@ Pyrophoric Cult</p></th>
 <td><p>竹内敦志、多田俊介</p></td>
 <td><p>黄瀬和哉、原口浩</p></td>
 <td><p>工藤進、荒川直樹</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/橘正紀" title="wikilink">橘正紀</a></p></td>
+<td><p><a href="../Page/橘正紀.md" title="wikilink">橘正紀</a></p></td>
 </tr>
 <tr class="even">
 <td><p>演出</p></td>
@@ -166,7 +166,7 @@ Pyrophoric Cult</p></th>
 <td><p>立石聖、西村郁<br />
 栗田聡美、桜井邦彦</p></td>
 <td><p>中村深雪、石原満<br />
-もろゆき沙羅、<a href="https://zh.wikipedia.org/wiki/鈴木俊二" title="wikilink">鈴木俊二</a></p></td>
+もろゆき沙羅、<a href="../Page/鈴木俊二.md" title="wikilink">鈴木俊二</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>副人物設計</p></td>
@@ -295,7 +295,7 @@ Pyrophoric Cult</p></th>
 </tr>
 <tr class="even">
 <td><p>3DCGI</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Orange_(動畫工作室)" title="wikilink">Orange</a></p></td>
+<td><p><a href="../Page/Orange_(動畫工作室).md" title="wikilink">Orange</a></p></td>
 <td><p>Sublimation</p></td>
 <td></td>
 <td></td>
@@ -311,7 +311,7 @@ Pyrophoric Cult</p></th>
 </tr>
 <tr class="even">
 <td><p>製作</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/萬代影視" title="wikilink">萬代影視</a>、<a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a>、<a href="https://zh.wikipedia.org/wiki/電通" title="wikilink">電通</a>、<br />
+<td><p><a href="../Page/萬代影視.md" title="wikilink">萬代影視</a>、<a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a>、<a href="https://zh.wikipedia.org/wiki/電通" title="wikilink">電通</a>、<br />
 Production I.G、<a href="../Page/Flying_DOG.md" title="wikilink">Flying DOG</a>、東宝</p></td>
 <td></td>
 <td></td>

@@ -7,7 +7,7 @@ RPG-28於2007年由[阿布扎比國家研究和生產企業所舉辦的](../Page
 
 ## 概述
 
-RPG-28採用了與RPG-27相似的便攜式，一次射擊型單發式[反坦克](https://zh.wikipedia.org/wiki/反坦克武器 "wikilink")[火箭筒的設計](https://zh.wikipedia.org/wiki/火箭弹发射器 "wikilink")。RPG-28具有比RPG-27更大的火箭彈直徑，能夠令RPG-28實現更高的穿甲性能。
+RPG-28採用了與RPG-27相似的便攜式，一次射擊型單發式[反坦克](https://zh.wikipedia.org/wiki/反坦克武器 "wikilink")[火箭筒的設計](../Page/火箭弹发射器.md "wikilink")。RPG-28具有比RPG-27更大的火箭彈直徑，能夠令RPG-28實現更高的穿甲性能。
 
 RPG-28的口徑是125毫米，與[俄羅斯聯邦軍隊的](../Page/俄罗斯军事.md "wikilink")[T-64](../Page/T-64主战坦克.md "wikilink")／[T-72](../Page/T-72主戰坦克.md "wikilink")／[T-80](../Page/T-80主戰坦克.md "wikilink")／[T-90](../Page/T-90主戰坦克.md "wikilink")[主戰坦克的主砲口徑一致](https://zh.wikipedia.org/wiki/坦克#主戰坦克 "wikilink")，亦是目前RPG系列中最大口徑的一款。
 

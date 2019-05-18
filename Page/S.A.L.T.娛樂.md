@@ -17,7 +17,7 @@ S.A.L.T.的使命就跟「鹽」的意義相同。
 | [金晶和](../Page/金晶和.md "wikilink")                    | 2011年4月1日            | Dream factory、[SidusHQ](../Page/SidusHQ.md "wikilink")、AVA 娛樂 |
 | [朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink") | Dream factory、AVA 娛樂 |                                                               |
 | [崔聖恩](https://zh.wikipedia.org/wiki/崔聖恩 "wikilink") | 2018年7月23日           |                                                               |
-| [金善浩](https://zh.wikipedia.org/wiki/金善浩 "wikilink") | 2018年9月12日           | SY娛樂                                                          |
+| [金善浩](../Page/金善浩.md "wikilink")                    | 2018年9月12日           | SY娛樂                                                          |
 | [金周憲](https://zh.wikipedia.org/wiki/金周憲 "wikilink") | 2018年10月23日          |                                                               |
 | [이준경](https://zh.wikipedia.org/wiki/이준경 "wikilink") |                      |                                                               |
 | [장용화](https://zh.wikipedia.org/wiki/장용화 "wikilink") |                      |                                                               |

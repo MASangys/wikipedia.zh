@@ -554,7 +554,7 @@ followed_by =
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/簡愷樂" title="wikilink">簡愷樂</a></p></td>
+<p><a href="../Page/簡愷樂.md" title="wikilink">簡愷樂</a></p></td>
 <td><center>
 <p><strong>慧慧</strong></p></td>
 <td><p><strong>狀態：正常</strong><br />
@@ -768,7 +768,7 @@ followed_by =
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/樂樂媃媃" title="wikilink">樂樂</a></p></td>
+<p><a href="../Page/樂樂媃媃.md" title="wikilink">樂樂</a></p></td>
 <td><center>
 <p><strong>小朱莉亞</strong></p></td>
 <td><p><strong>狀態：正常</strong><br />
@@ -929,7 +929,7 @@ followed_by =
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/勵政達" title="wikilink">勵政達</a></p></td>
+<p><a href="../Page/勵政達.md" title="wikilink">勵政達</a></p></td>
 <td><center>
 <p><strong>高富率</strong></p></td>
 <td><p><strong>狀態：正常</strong><br />
@@ -988,7 +988,7 @@ followed_by =
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/臧一人" title="wikilink">臧一人</a></p></td>
+<p><a href="../Page/臧一人.md" title="wikilink">臧一人</a></p></td>
 <td><center>
 <p><strong>PUB老闆</strong></p></td>
 <td><p><strong>狀態：正常</strong><br />
@@ -1113,7 +1113,7 @@ H聯盟總部的掃地老人。受H聯盟的指示綁架陳偉，以及脅迫葉
 十年前，本與寒將要結婚，最後因為怕自己去討伐狄阿怖玀魔尊無法平安回來，而以傳音入密告知寒不要再等自己了。<br />
 托付脩带回了重组感情的坠子，希望寒能有一段新的感情。<br />
 36集提到目前還在大戰中，正邪大戰陷入膠著。<br />
-第40集為了守護時空和平，與夏宇在大戰中犧牲自己。受傷，需要大東去幫他療傷。<a href="https://zh.wikipedia.org/wiki/終極一班4" title="wikilink">終極一班4提及</a></p></td>
+第40集為了守護時空和平，與夏宇在大戰中犧牲自己。受傷，需要大東去幫他療傷。<a href="../Page/終極一班4.md" title="wikilink">終極一班4提及</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1168,7 +1168,7 @@ H聯盟總部的掃地老人。受H聯盟的指示綁架陳偉，以及脅迫葉
 </strong>種類：半魍魎／火的原位高階異能行者'''<br />
 夏家長子，參加大戰的其中一員，戰後失蹤。<br />
 十年前當夏天和寒結婚時，負責去載新郎，後來發現夏天失蹤，四處去尋找夏天。<br />
-第40集為了守護時空和平，與夏天在大戰中犧牲自己。<a href="https://zh.wikipedia.org/wiki/終極一家Ⅱ" title="wikilink">終極一家Ⅱ還會登場</a></p></td>
+第40集為了守護時空和平，與夏天在大戰中犧牲自己。<a href="../Page/終極一家Ⅱ.md" title="wikilink">終極一家Ⅱ還會登場</a></p></td>
 <td><center>
 <p>(20年前)<br />
 40000+</p></td>
@@ -1348,9 +1348,9 @@ H聯盟總部的掃地老人。受H聯盟的指示綁架陳偉，以及脅迫葉
 <strong>種類：高階異能行者</strong><br />
 <strong>武器：龍紋鏊</strong><br />
 20年前終極一班老大，史上最強高中生，雷婷的男朋友。<br />
-因夏天受重傷，被脩從金時空找來幫助夏天療傷。原欲參與大戰，然而因為與夏天是分身，在同一個時空力量會互相抵制，因此被脩和夏天勸回，但不顧勸為了幫助夏天所以留在鐵時空，而委託脩護送雷婷返回金時空。目前不知雷婷受重傷與失蹤的事情（現已知道），於前線作戰（詳見<a href="https://zh.wikipedia.org/wiki/終極一班4" title="wikilink">終極一班4</a>）。</p></td>
+因夏天受重傷，被脩從金時空找來幫助夏天療傷。原欲參與大戰，然而因為與夏天是分身，在同一個時空力量會互相抵制，因此被脩和夏天勸回，但不顧勸為了幫助夏天所以留在鐵時空，而委託脩護送雷婷返回金時空。目前不知雷婷受重傷與失蹤的事情（現已知道），於前線作戰（詳見<a href="../Page/終極一班4.md" title="wikilink">終極一班4</a>）。</p></td>
 <td><center>
-<p>(20年前)→9000~11500+→(10年前)15000+(遇強則強，遇弱則弱) 最後為了幫夏天恢復 戰力，所以導致汪大東變麻瓜，目前戰力已恢復→15000~25000+(詳見<a href="https://zh.wikipedia.org/wiki/終極一班4" title="wikilink">終極一班4</a>)(20年後)→45000+</p></td>
+<p>(20年前)→9000~11500+→(10年前)15000+(遇強則強，遇弱則弱) 最後為了幫夏天恢復 戰力，所以導致汪大東變麻瓜，目前戰力已恢復→15000~25000+(詳見<a href="../Page/終極一班4.md" title="wikilink">終極一班4</a>)(20年後)→45000+</p></td>
 <td><center>
 <p>1</p></td>
 </tr>
@@ -1365,7 +1365,7 @@ H聯盟總部的掃地老人。受H聯盟的指示綁架陳偉，以及脅迫葉
 <td><p><strong>狀態：正常→失蹤→遭囚禁→正常</strong><br />
 <strong>種類：高阶異能行者</strong><br />
 現任終極一班老大，汪大東的女朋友。<br />
-追隨大東到鐵時空，得知大戰危險性，仍堅持與大東生死相隨。大東幫助夏天療傷後，被勸回，不顧勸阻堅持留在鐵時空陪大東參加大戰，直到聽說終極一班有難而重返金時空，在呼延覺羅脩的護送下返回金時空。卻遭到獨孤狼的襲擊，最後掉落山崖，被獨孤狼抓走。被困在獨孤狼秘密基地，雖然辜戰和小慈的掉包之下成功被救出來，但戰力指數已歸零，現在已恢復9000又更好12000+（詳見<a href="https://zh.wikipedia.org/wiki/終極一班4" title="wikilink">終極一班4</a>）。</p></td>
+追隨大東到鐵時空，得知大戰危險性，仍堅持與大東生死相隨。大東幫助夏天療傷後，被勸回，不顧勸阻堅持留在鐵時空陪大東參加大戰，直到聽說終極一班有難而重返金時空，在呼延覺羅脩的護送下返回金時空。卻遭到獨孤狼的襲擊，最後掉落山崖，被獨孤狼抓走。被困在獨孤狼秘密基地，雖然辜戰和小慈的掉包之下成功被救出來，但戰力指數已歸零，現在已恢復9000又更好12000+（詳見<a href="../Page/終極一班4.md" title="wikilink">終極一班4</a>）。</p></td>
 <td><center>
 <p>（10年前）9000+→0→12000+</p></td>
 <td></td>
@@ -2430,7 +2430,7 @@ Open</strong></p></td>
   - <small>同時段節目：
       - [三立](../Page/三立電視.md "wikilink")：
           - [三立台灣台](../Page/三立台灣台.md "wikilink")《[世間情](../Page/世間情.md "wikilink")》
-          - [三立都會台](../Page/三立都會台.md "wikilink")《[媽咪的男朋友](https://zh.wikipedia.org/wiki/媽咪的男朋友 "wikilink")》
+          - [三立都會台](../Page/三立都會台.md "wikilink")《[媽咪的男朋友](../Page/媽咪的男朋友.md "wikilink")》
       - [民視](../Page/民視無線台.md "wikilink")《[龍飛鳳舞](../Page/龍飛鳳舞_\(電視劇\).md "wikilink")》
       - [台視](https://zh.wikipedia.org/wiki/台視主頻 "wikilink")：
           - 週一～週五《[雨後驕陽](../Page/雨後驕陽.md "wikilink")》
@@ -2440,7 +2440,7 @@ Open</strong></p></td>
           - 週一～週五《[天下第一味](../Page/天下第一味.md "wikilink")》
           - 週一～週四《[天下第一味](../Page/天下第一味.md "wikilink")》
           - 週五《[周五王見王](https://zh.wikipedia.org/wiki/周五王見王 "wikilink")》
-      - [大愛](https://zh.wikipedia.org/wiki/大愛衛星電視 "wikilink")《[幸福魔法師](https://zh.wikipedia.org/wiki/幸福魔法師_\(大愛劇場\) "wikilink")》
+      - [大愛](https://zh.wikipedia.org/wiki/大愛衛星電視 "wikilink")《[幸福魔法師](../Page/幸福魔法師_\(大愛劇場\).md "wikilink")》
   - 由[AGB尼爾森調查](https://zh.wikipedia.org/wiki/AGB尼爾森 "wikilink")，調查範圍是四歲以上收看電視之觀眾。
   - 資料來源：[中時娛樂](https://web.archive.org/web/20130126141713/http://showbiz.chinatimes.com/2009Cti/Channel/Showbiz/showbiz-rank/0%2C5137%2Ctv%2C00.html)</small>
 
@@ -2472,7 +2472,7 @@ Open</strong></p></td>
           - 週一～週五《[天下第一味](../Page/天下第一味.md "wikilink")》
           - 週一～週四《[天下第一味](../Page/天下第一味.md "wikilink")》
           - 週五《[周五王見王](https://zh.wikipedia.org/wiki/周五王見王 "wikilink")》
-      - [大愛](https://zh.wikipedia.org/wiki/大愛衛星電視 "wikilink")《[幸福魔法師](https://zh.wikipedia.org/wiki/幸福魔法師_\(大愛劇場\) "wikilink")》
+      - [大愛](https://zh.wikipedia.org/wiki/大愛衛星電視 "wikilink")《[幸福魔法師](../Page/幸福魔法師_\(大愛劇場\).md "wikilink")》
       - [八大綜合台](../Page/八大綜合台.md "wikilink")《[Good
         Doctor善良醫生](../Page/好醫生.md "wikilink")》、《[第六感任務](../Page/你是誰_\(2013年電視劇\).md "wikilink")》
       - [東森戲劇台](../Page/東森戲劇台.md "wikilink")《[奇皇后](../Page/奇皇后_\(電視劇\).md "wikilink")》
@@ -2486,7 +2486,7 @@ Open</strong></p></td>
 
 <!-- end list -->
 
-  - 1月14日，[藍心湄](../Page/藍心湄.md "wikilink")、[黃小柔](../Page/黃小柔.md "wikilink")、[宏正](https://zh.wikipedia.org/wiki/寺唯宏正 "wikilink")、[明-{杰}-](https://zh.wikipedia.org/wiki/明杰 "wikilink")、[陳博正](../Page/陳博正.md "wikilink")、[那維勳](../Page/那維勳.md "wikilink")、[蔡芷紜](https://zh.wikipedia.org/wiki/蔡芷紜 "wikilink")、[張皓明](../Page/張皓明.md "wikilink")、[王詩安於](https://zh.wikipedia.org/wiki/王詩安 "wikilink")[八大電視台一樓大廳舉辦開鏡記者會](https://zh.wikipedia.org/wiki/八大電視台 "wikilink")。\[1\]
+  - 1月14日，[藍心湄](../Page/藍心湄.md "wikilink")、[黃小柔](../Page/黃小柔.md "wikilink")、[宏正](https://zh.wikipedia.org/wiki/寺唯宏正 "wikilink")、[明-{杰}-](../Page/明杰.md "wikilink")、[陳博正](../Page/陳博正.md "wikilink")、[那維勳](../Page/那維勳.md "wikilink")、[蔡芷紜](https://zh.wikipedia.org/wiki/蔡芷紜 "wikilink")、[張皓明](../Page/張皓明.md "wikilink")、[王詩安於](https://zh.wikipedia.org/wiki/王詩安 "wikilink")[八大電視台一樓大廳舉辦開鏡記者會](https://zh.wikipedia.org/wiki/八大電視台 "wikilink")。\[1\]
   - 2月11日，[汪東城進棚錄影](../Page/汪東城.md "wikilink")，情義相挺客串。\[2\]
   - 3月24日，公開3分鐘精彩片花\[3\]
   - 4月8日，終極X寶寶來了\~一出生就會說「嗚拉巴哈」? 夏、美、懷、孕、啦！！！

@@ -60,7 +60,7 @@ Mail.com為用戶提供無限的儲存空間的電子郵件，以及2 GB的線�
 
 ### 行動客戶端
 
-Mail.com提供[Android和](../Page/Android.md "wikilink")[iOS之應用系統](../Page/iOS.md "wikilink")。
+Mail.com提供[Android和](../Page/Android.md "wikilink")[iOS之應用系統](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 ## 客戶服務問題
 

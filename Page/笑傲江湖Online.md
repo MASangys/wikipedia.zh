@@ -1,4 +1,4 @@
-《**笑傲江湖Online**》（Swordsman）是一款2013年發行的[多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")，改編自小說《[笑傲江湖](../Page/笑傲江湖.md "wikilink")》，由[完美世界研發](https://zh.wikipedia.org/wiki/完美世界 "wikilink")，在臺灣由[艾玩天地發行](https://zh.wikipedia.org/wiki/艾玩天地 "wikilink")，由[陳喬恩](../Page/陳喬恩.md "wikilink")、[蕭敬騰代言](../Page/蕭敬騰.md "wikilink")，本遊戲的主題曲是蕭敬騰改編並主唱的《[滄海一聲笑](https://zh.wikipedia.org/wiki/滄海一聲笑 "wikilink")》\[1\]，於11月20日開始封測\[2\]。
+《**笑傲江湖Online**》（Swordsman）是一款2013年發行的[多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")，改編自小說《[笑傲江湖](../Page/笑傲江湖.md "wikilink")》，由[完美世界研發](https://zh.wikipedia.org/wiki/完美世界 "wikilink")，在臺灣由[艾玩天地發行](https://zh.wikipedia.org/wiki/艾玩天地 "wikilink")，由[陳喬恩](../Page/陳喬恩.md "wikilink")、[蕭敬騰代言](../Page/蕭敬騰.md "wikilink")，本遊戲的主題曲是蕭敬騰改編並主唱的《[滄海一聲笑](../Page/滄海一聲笑.md "wikilink")》\[1\]，於11月20日開始封測\[2\]。
 
 ## 操作
 
@@ -6,7 +6,7 @@
 
 ## 內容
 
-遊戲中可從十大門派之中擇一加入，分別是：「[華山](https://zh.wikipedia.org/wiki/華山 "wikilink")」、「[唐門](../Page/唐門.md "wikilink")」、「[衡山](../Page/衡山.md "wikilink")」、「[五仙](https://zh.wikipedia.org/wiki/五仙 "wikilink")」、「[日月](https://zh.wikipedia.org/wiki/日月 "wikilink")」、「[少林](https://zh.wikipedia.org/wiki/少林 "wikilink")」、「[峨嵋](https://zh.wikipedia.org/wiki/峨嵋 "wikilink")」、「[武當](https://zh.wikipedia.org/wiki/武當 "wikilink")」、「[恆山](https://zh.wikipedia.org/wiki/恆山 "wikilink")」、「[逍遙](https://zh.wikipedia.org/wiki/逍遙 "wikilink")」。选了其中的一个门派之后不可再变\[4\]
+遊戲中可從十大門派之中擇一加入，分別是：「[華山](https://zh.wikipedia.org/wiki/華山 "wikilink")」、「[唐門](../Page/唐門.md "wikilink")」、「[衡山](../Page/衡山.md "wikilink")」、「[五仙](https://zh.wikipedia.org/wiki/五仙 "wikilink")」、「[日月](../Page/日月.md "wikilink")」、「[少林](https://zh.wikipedia.org/wiki/少林 "wikilink")」、「[峨嵋](https://zh.wikipedia.org/wiki/峨嵋 "wikilink")」、「[武當](https://zh.wikipedia.org/wiki/武當 "wikilink")」、「[恆山](https://zh.wikipedia.org/wiki/恆山 "wikilink")」、「[逍遙](https://zh.wikipedia.org/wiki/逍遙 "wikilink")」。选了其中的一个门派之后不可再变\[4\]
 
 ## 競賽
 

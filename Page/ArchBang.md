@@ -26,8 +26,8 @@ Linux](../Page/Arch_Linux.md "wikilink") 提供了一個輕量且自訂性強的
 ## 安裝
 
 ArchBang 同時提供了 [i686](https://zh.wikipedia.org/wiki/i686 "wikilink") 及
-[x86-64](../Page/x86-64.md "wikilink") 架構的 `.iso` 映像檔供 [Live
-CD](../Page/Live_CD.md "wikilink")
+[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink") 架構的 `.iso`
+映像檔供 [Live CD](../Page/Live_CD.md "wikilink")
 及安裝使用，也可以安裝在[闪存盘上](../Page/闪存盘.md "wikilink")。ArchBang
 的 Live CD 被設計成可以讓使用者在安裝前可以先測試作業系統\[9\]。
 

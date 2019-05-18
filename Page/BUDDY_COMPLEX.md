@@ -689,7 +689,7 @@ COMPLEX**》（），是[日本的](../Page/日本.md "wikilink")[日昇動畫�
 <td><p>父與子</p></td>
 <td><p>父親與孩子</p></td>
 <td><p>野村祐一</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/森邦宏" title="wikilink">森邦宏</a></p></td>
+<td><p><a href="../Page/森邦宏.md" title="wikilink">森邦宏</a></p></td>
 <td><p>南川達馬</p></td>
 <td><p>大杉尚廣<br />
 川石桃<br />
@@ -835,7 +835,7 @@ COMPLEX**》（），是[日本的](../Page/日本.md "wikilink")[日昇動畫�
 有字幕<br />
 雙語廣播<br />
 有重播<br />
-<a href="../Page/myTV.md" title="wikilink">myTV提供</a>14日重溫</p></td>
+<a href="https://zh.wikipedia.org/wiki/myTV" title="wikilink">myTV提供</a>14日重溫</p></td>
 </tr>
 <tr class="even">
 <td><p>完結篇</p></td>
@@ -898,7 +898,7 @@ COMPLEX**》（），是[日本的](../Page/日本.md "wikilink")[日昇動畫�
 有字幕<br />
 雙語廣播<br />
 有重播<br />
-<a href="../Page/myTV.md" title="wikilink">myTV提供</a>14日重溫</p></td>
+<a href="https://zh.wikipedia.org/wiki/myTV" title="wikilink">myTV提供</a>14日重溫</p></td>
 </tr>
 </tbody>
 </table>

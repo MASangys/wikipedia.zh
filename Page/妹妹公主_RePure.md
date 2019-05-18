@@ -27,7 +27,7 @@ RePure」（）。全13話。\[3\]\[4\]本作的影像畫面尺寸不是上一�
 
 :\* 規劃：[佐藤辰男](https://zh.wikipedia.org/wiki/佐藤辰男 "wikilink")
 
-:\* 系列構成：[網谷正治](https://zh.wikipedia.org/wiki/網谷正治 "wikilink")
+:\* 系列構成：[網谷正治](../Page/網谷正治.md "wikilink")
 
 :\* 角色設計：[新田靖成](../Page/新田靖成.md "wikilink")
 
@@ -50,7 +50,7 @@ PROMOTION](https://zh.wikipedia.org/wiki/OMNIBUS_PROMOTION "wikilink")
 
 :\* 製作：妹妹公主
 RePure[製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")、[MediaWorks](../Page/MediaWorks.md "wikilink")、[King
-Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[讀賣廣告社](https://zh.wikipedia.org/wiki/讀賣廣告社 "wikilink")
+Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[讀賣廣告社](../Page/讀賣廣告社.md "wikilink")
 
   - 「故事篇」製作人員
 

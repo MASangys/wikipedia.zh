@@ -18,7 +18,7 @@ Darul Ta'zim FC），简称为柔佛DT。
 9月15日，柔佛DT在[2015年亞洲足協盃八強次回合中客場以](https://zh.wikipedia.org/wiki/2015年亞洲足協盃 "wikilink")
 3–1 擊敗香港球會[南華](https://zh.wikipedia.org/wiki/南華 "wikilink")，以兩回合總成績
 4–2（首回合1–1）淘汰[南華](https://zh.wikipedia.org/wiki/南華 "wikilink")，成為首支晉級[亞洲足協盃半決賽的馬來西亞球隊](https://zh.wikipedia.org/wiki/亞洲足協盃 "wikilink")\[5\]。2015年10月17日，[科威特足总遭到](../Page/科威特.md "wikilink")[国际足联的全球禁赛处罚](https://zh.wikipedia.org/wiki/国际足联 "wikilink")，导致柔佛DT
-準決賽的对手[卡迪斯亞不能参赛](https://zh.wikipedia.org/wiki/卡迪斯亞體育會 "wikilink")，由柔佛DT
+準決賽的对手[卡迪斯亞不能参赛](../Page/卡迪斯亞體育會.md "wikilink")，由柔佛DT
 直接晋级决赛\[6\]。2015年10月31日，柔佛DT
 在[2015年亞洲足協盃决赛中客场以](https://zh.wikipedia.org/wiki/2015年亞洲足協盃 "wikilink")
 1–0
@@ -26,7 +26,7 @@ Darul Ta'zim FC），简称为柔佛DT。
 
 2016年柔佛DT成功首夺[马来西亚足总杯冠军及完成联赛](../Page/馬來西亞足總盃.md "wikilink")3连霸。
 
-2017年柔佛DT成功完成联赛4连霸之外，也完成了夺下首个[马来西亚杯冠军](../Page/馬來西亞盃.md "wikilink")。完成马来西亚足坛首个大满贯，先后成功夺得马超联赛冠军，马来西亚足总杯冠军，马来西亚杯冠军和[马来西亚慈善盾加上](https://zh.wikipedia.org/wiki/馬來西亞慈善盾 "wikilink")2015年亚洲足协杯冠军也让柔佛DT成为马来西亚最成功的足球队伍。
+2017年柔佛DT成功完成联赛4连霸之外，也完成了夺下首个[马来西亚杯冠军](../Page/馬來西亞盃.md "wikilink")。完成马来西亚足坛首个大满贯，先后成功夺得马超联赛冠军，马来西亚足总杯冠军，马来西亚杯冠军和[马来西亚慈善盾加上](../Page/馬來西亞慈善盾.md "wikilink")2015年亚洲足协杯冠军也让柔佛DT成为马来西亚最成功的足球队伍。
 
 2018年柔佛DT完全了马来西亚史无前例的联赛5连霸 。
 

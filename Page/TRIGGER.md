@@ -32,7 +32,7 @@ La Kill》。
 <tbody>
 <tr class="odd">
 <td><p>2013年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KILL_la_KILL" title="wikilink">KILL la KILL</a></p></td>
+<td><p><a href="../Page/KILL_la_KILL.md" title="wikilink">KILL la KILL</a></p></td>
 <td></td>
 <td><p>2013年10月3日－2014年3月27日</p></td>
 <td><p><a href="../Page/今石洋之.md" title="wikilink">今石洋之</a></p></td>
@@ -50,16 +50,16 @@ La Kill》。
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NINJA_SLAYER忍者殺手" title="wikilink">NINJA SLAYER忍者殺手</a></p></td>
+<td><p><a href="../Page/NINJA_SLAYER忍者殺手.md" title="wikilink">NINJA SLAYER忍者殺手</a></p></td>
 <td></td>
 <td><p>2015年4月16日－10月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/雨宮哲" title="wikilink">雨宮哲</a></p></td>
+<td><p><a href="../Page/雨宮哲.md" title="wikilink">雨宮哲</a></p></td>
 <td><p>小說</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2016年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宇宙巡警露露子" title="wikilink">宇宙巡警露露子</a></p></td>
+<td><p><a href="../Page/宇宙巡警露露子.md" title="wikilink">宇宙巡警露露子</a></p></td>
 <td></td>
 <td><p>2016年4月1日－6月24日</p></td>
 <td><p><a href="../Page/今石洋之.md" title="wikilink">今石洋之</a></p></td>
@@ -80,13 +80,13 @@ La Kill》。
 <td><p><a href="https://zh.wikipedia.org/wiki/小魔女學園" title="wikilink">小魔女學園</a></p></td>
 <td></td>
 <td><p>2017年1月8日－6月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吉成曜" title="wikilink">吉成曜</a></p></td>
+<td><p><a href="../Page/吉成曜.md" title="wikilink">吉成曜</a></p></td>
 <td><p>原創</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/DARLING_in_the_FRANXX" title="wikilink">DARLING in the FRANXX</a></p></td>
+<td><p><a href="../Page/DARLING_in_the_FRANXX.md" title="wikilink">DARLING in the FRANXX</a></p></td>
 <td></td>
 <td><p>2018年1月13日－7月7日</p></td>
 <td><p><a href="../Page/錦織敦史.md" title="wikilink">錦織敦史</a></p></td>
@@ -94,9 +94,9 @@ La Kill》。
 <td><p>與<a href="../Page/A-1_Pictures.md" title="wikilink">A-1 Pictures共同製作</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/SSSS.GRIDMAN" title="wikilink">SSSS.GRIDMAN</a></p></td>
+<td><p><a href="../Page/SSSS.GRIDMAN.md" title="wikilink">SSSS.GRIDMAN</a></p></td>
 <td><p>2018年10月7日－12月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/雨宮哲" title="wikilink">雨宮哲</a></p></td>
+<td><p><a href="../Page/雨宮哲.md" title="wikilink">雨宮哲</a></p></td>
 <td><p>特攝</p></td>
 <td></td>
 <td></td>
@@ -165,7 +165,7 @@ La Kill》。
 <td><p><a href="../Page/電光超人古立特.md" title="wikilink">電光超人古立特</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/日本動畫人展覽會" title="wikilink">日本動畫人展覽會作品</a></p></td>
+<td><p><a href="../Page/日本動畫人展覽會.md" title="wikilink">日本動畫人展覽會作品</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -184,7 +184,7 @@ La Kill》。
 <tbody>
 <tr class="odd">
 <td><p>2013年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/四百二十連敗女孩" title="wikilink">四百二十連敗女孩</a></p></td>
+<td><p><a href="../Page/四百二十連敗女孩.md" title="wikilink">四百二十連敗女孩</a></p></td>
 <td></td>
 <td><p>PV</p></td>
 <td><p><a href="../Page/Fami通文庫.md" title="wikilink">Fami通遊戲文庫</a>15周年特別企劃</p></td>
@@ -225,7 +225,7 @@ La Kill》。
 <td><p>2012年</p></td>
 <td><p><a href="../Page/BLACK★ROCK_SHOOTER.md" title="wikilink">BLACK★ROCK SHOOTER</a></p></td>
 <td></td>
-<td><p><a href="../Page/Ordet.md" title="wikilink">Ordet</a>、<a href="https://zh.wikipedia.org/wiki/三次元_(動畫製作公司)" title="wikilink">三次元</a></p></td>
+<td><p><a href="../Page/Ordet.md" title="wikilink">Ordet</a>、<a href="../Page/三次元_(動畫製作公司).md" title="wikilink">三次元</a></p></td>
 <td><p>製作協力</p></td>
 <td><p>Ultra Super Pictures 聯合企劃</p></td>
 </tr>
@@ -290,7 +290,7 @@ La Kill》。
 
   - 舛本和也
 
-  - [吉成曜](https://zh.wikipedia.org/wiki/吉成曜 "wikilink")
+  - [吉成曜](../Page/吉成曜.md "wikilink")
 
   -
 

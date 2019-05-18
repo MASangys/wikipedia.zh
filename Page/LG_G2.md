@@ -59,7 +59,7 @@ G2于2013年8月7日在纽约市的一个新闻发布会上首次亮相。
 
   - [Android裝置列表](https://zh.wikipedia.org/wiki/Android裝置列表 "wikilink")
   - [LG Optimus](https://zh.wikipedia.org/wiki/LG_Optimus "wikilink")
-  - [Nexus 5](https://zh.wikipedia.org/wiki/Nexus_5 "wikilink")
+  - [Nexus 5](../Page/Nexus_5.md "wikilink")
 
 ## 參考
 

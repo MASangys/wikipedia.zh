@@ -151,7 +151,7 @@ color=darkgreen>**導演**</font> | <font color=darkgreen>**附註**</font> |
 ## 音樂錄影帶
 
   - Hello（剪輯音樂特輯畫面而成）
-  - 享受孤獨（剪輯音樂特輯畫面而成，收錄於《[萬歲2001](https://zh.wikipedia.org/wiki/萬歲2001 "wikilink")》精選輯中）
+  - 享受孤獨（剪輯音樂特輯畫面而成，收錄於《[萬歲2001](../Page/萬歲2001.md "wikilink")》精選輯中）
 
 ## 參考資料
 

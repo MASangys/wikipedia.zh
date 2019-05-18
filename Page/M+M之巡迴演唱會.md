@@ -8,7 +8,7 @@ Blues*上，媒体认出了此为布兰妮的表演，而表演的门票亦很�
 
 每场演出大约时长12–16分钟，在每场表演中布兰妮和舞者都会表演5首歌曲的缩短版，其中包括热门歌曲《[爱的初告白](https://zh.wikipedia.org/wiki/爱的初告白_\(歌曲\) "wikilink")》（*...Baby
 One More
-Time*）与《[中你的毒](https://zh.wikipedia.org/wiki/中你的毒 "wikilink")》（*Toxic*）。每场表演会有一名男性观众获得上台的机会。布兰妮在每场演出中都为[假唱](../Page/假唱.md "wikilink")。演出获得了评论的不同评价，有些评论认为布兰妮看起来很快乐，身材很好。而另一些则认为表演欠佳。有[黄牛党将原本](https://zh.wikipedia.org/wiki/黄牛党 "wikilink")35美元的门票非法提价至200至500美元。
+Time*）与《[中你的毒](../Page/中你的毒.md "wikilink")》（*Toxic*）。每场表演会有一名男性观众获得上台的机会。布兰妮在每场演出中都为[假唱](../Page/假唱.md "wikilink")。演出获得了评论的不同评价，有些评论认为布兰妮看起来很快乐，身材很好。而另一些则认为表演欠佳。有[黄牛党将原本](https://zh.wikipedia.org/wiki/黄牛党 "wikilink")35美元的门票非法提价至200至500美元。
 
 ## 曲目列表
 
@@ -20,7 +20,7 @@ Time*）与《[中你的毒](https://zh.wikipedia.org/wiki/中你的毒 "wikilin
     on Me*）
 4.  《[做 就对了](https://zh.wikipedia.org/wiki/做_就对了 "wikilink")》（*Do
     Somethin*'）
-5.  《[中你的毒](https://zh.wikipedia.org/wiki/中你的毒 "wikilink")》（*Toxic*）
+5.  《[中你的毒](../Page/中你的毒.md "wikilink")》（*Toxic*）
 
 来源:\[1\]
 

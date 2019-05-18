@@ -96,9 +96,9 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
 
   - 02月25日－发表专辑《The Lie Lay Land》。
   - 06月－再次应邀出席Sónar[音乐节](https://zh.wikipedia.org/wiki/音乐节 "wikilink")。
-  - 11月～12月－以暖场嘉宾的身份，参与了[MONO](../Page/MONO.md "wikilink")[欧洲巡演](../Page/欧洲.md "wikilink")“European
+  - 11月～12月－以暖场嘉宾的身份，参与了[MONO](https://zh.wikipedia.org/wiki/MONO "wikilink")[欧洲巡演](../Page/欧洲.md "wikilink")“European
     Tour Fall
-    05”的每一场演出；以此为契机，同年12月14日与[MONO共同创作了专辑](../Page/MONO.md "wikilink")《Palmless
+    05”的每一场演出；以此为契机，同年12月14日与[MONO共同创作了专辑](https://zh.wikipedia.org/wiki/MONO "wikilink")《Palmless
     Prayer / Mass Murder Refrain》，由Human Highway
     Records发行，2006年9月12日由[美国厂牌Temporary](../Page/美国.md "wikilink")
     Residence发行[CD及](../Page/CD.md "wikilink")[LP两种版本](https://zh.wikipedia.org/wiki/LP "wikilink")。
@@ -373,7 +373,7 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
 <tr class="even">
 <td><p>2005年12月14日</p></td>
 <td><center>
-<p><a href="../Page/MONO.md" title="wikilink">MONO</a> &amp; world's end girlfriend</p>
+<p><a href="https://zh.wikipedia.org/wiki/MONO" title="wikilink">MONO</a> &amp; world's end girlfriend</p>
 </center></td>
 <td><p>01. Trailer 1<br />
 02. Trailer 2<br />
@@ -382,7 +382,7 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
 05. Trailer 5</p></td>
 <td><p>Human Highway Records</p></td>
 <td><p>2006年9月12日Temporary Residence Limited<a href="https://zh.wikipedia.org/wiki/北美" title="wikilink">北美发行CD及</a><a href="https://zh.wikipedia.org/wiki/LP" title="wikilink">LP</a><br />
-<a href="https://zh.wikipedia.org/wiki/作曲" title="wikilink">作曲</a>、<a href="https://zh.wikipedia.org/wiki/演奏家" title="wikilink">演奏</a>（除<a href="https://zh.wikipedia.org/wiki/管弦乐" title="wikilink">管弦乐部分</a>）及<a href="https://zh.wikipedia.org/wiki/音乐制作人" title="wikilink">制作人</a>：WEG、<a href="../Page/MONO.md" title="wikilink">MONO</a><br />
+<a href="https://zh.wikipedia.org/wiki/作曲" title="wikilink">作曲</a>、<a href="https://zh.wikipedia.org/wiki/演奏家" title="wikilink">演奏</a>（除<a href="https://zh.wikipedia.org/wiki/管弦乐" title="wikilink">管弦乐部分</a>）及<a href="https://zh.wikipedia.org/wiki/音乐制作人" title="wikilink">制作人</a>：WEG、<a href="https://zh.wikipedia.org/wiki/MONO" title="wikilink">MONO</a><br />
 <a href="https://zh.wikipedia.org/wiki/缩混" title="wikilink">缩混</a>：WEG</p></td>
 </tr>
 <tr class="odd">
@@ -456,7 +456,7 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
 06. division2-birthday resistance</p></td>
 <td><p>Virgin Babylon Records</p></td>
 <td><p>从2010年1月20日至6月20日在OTOTOY连载的分解版，<br />
-整合成两张数字EP，在OTOTOY、<a href="https://zh.wikipedia.org/wiki/Bandcamp" title="wikilink">Bandcamp等网站配信</a></p></td>
+整合成两张数字EP，在OTOTOY、<a href="../Page/Bandcamp.md" title="wikilink">Bandcamp等网站配信</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年9月14日</p></td>
@@ -579,8 +579,8 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
 <td><p>01. ゆでちゃん/Yudechang (feat.BOOL)</p></td>
 <td><p>Virgin Babylon Records</p></td>
 <td><p>POEM CORE TOKYO厂牌创立人<a href="https://zh.wikipedia.org/wiki/BOOL" title="wikilink">BOOL负责</a><a href="https://zh.wikipedia.org/wiki/作词" title="wikilink">作词及</a><a href="https://zh.wikipedia.org/wiki/朗读" title="wikilink">朗读</a><br />
-12月23日由厂牌官方<a href="https://zh.wikipedia.org/wiki/Bandcamp" title="wikilink">Bandcamp页面配信</a>，<br />
-<a href="../Page/iTunes.md" title="wikilink">iTunes及</a><a href="https://zh.wikipedia.org/wiki/Amazon" title="wikilink">Amazon等平台则从</a>2014年1月23日后陆续配信</p></td>
+12月23日由厂牌官方<a href="../Page/Bandcamp.md" title="wikilink">Bandcamp页面配信</a>，<br />
+<a href="https://zh.wikipedia.org/wiki/iTunes" title="wikilink">iTunes及</a><a href="https://zh.wikipedia.org/wiki/Amazon" title="wikilink">Amazon等平台则从</a>2014年1月23日后陆续配信</p></td>
 </tr>
 </tbody>
 </table>
@@ -953,7 +953,7 @@ world's end girlfriend名义</p></td>
 </center></td>
 <td><p><strong>If you only knew (world's end girlfriend remix)</strong></p></td>
 <td><p>AVEX ENTERTAINMENT</p></td>
-<td><p><a href="../Page/iTunes.md" title="wikilink">iTunes限定配信曲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iTunes" title="wikilink">iTunes限定配信曲</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007年8月</p></td>
@@ -1184,7 +1184,7 @@ world's end girlfriend名义</p></td>
 <td><center>
 <p>05:52</p>
 </center></td>
-<td><p>于WEG官方<a href="../Page/MySpace.md" title="wikilink">MySpace上发布供试听</a></p></td>
+<td><p>于WEG官方<a href="https://zh.wikipedia.org/wiki/MySpace" title="wikilink">MySpace上发布供试听</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2002年</p></td>

@@ -25,7 +25,7 @@ JSTL提供了一个有效的途径，以在[JSP页面中嵌入逻辑](../Page/JS
 
 ## 参见
 
-  - [统一表达式语言](https://zh.wikipedia.org/wiki/统一表达式语言 "wikilink")
+  - [统一表达式语言](../Page/统一表达式语言.md "wikilink")
 
 ## 外部链接
 

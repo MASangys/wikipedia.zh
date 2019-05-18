@@ -51,7 +51,7 @@ World》（SOA世界）杂志将iText作为企业应该使用的10种开源解�
 
 iText被嵌入在许多产品和服务中，包括[Eclipse
 BIRT](https://zh.wikipedia.org/wiki/Eclipse_BIRT "wikilink")、[Jasper
-Reports](https://zh.wikipedia.org/wiki/Jasper_Reports "wikilink")、、、[pdftk等等](../Page/pdftk.md "wikilink")。\[11\]
+Reports](https://zh.wikipedia.org/wiki/Jasper_Reports "wikilink")、、、[pdftk等等](https://zh.wikipedia.org/wiki/pdftk "wikilink")。\[11\]
 
 2008年末，iText的专有许可证可用；2009年初，iText软件公司成立，成为iText产品的全球许可方。\[12\]
 

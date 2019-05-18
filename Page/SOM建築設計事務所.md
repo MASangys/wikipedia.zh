@@ -1,4 +1,4 @@
-**SOM建築設計事務所**（，SOM）是一家是美國建築設計事務所，為客戶提供包括建築、室內設計、[都市設計](https://zh.wikipedia.org/wiki/都市設計 "wikilink")、[結構工程和土木工程等設計服務](https://zh.wikipedia.org/wiki/結構工程 "wikilink")\[1\]。事務所由路易斯·斯基德莫爾和納撒尼爾·奧因斯於1936年在[芝加哥創立](../Page/芝加哥.md "wikilink")，1939年後約翰·梅里爾加入。1937年他們在[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[紐約成立第一家分公司](https://zh.wikipedia.org/wiki/紐約 "wikilink")。SOM為世界上最大的建築設計事務所之一，主要設計類型為高層商業大廈，而SOM同時也是領導[國際風格與玻璃盒式](https://zh.wikipedia.org/wiki/國際風格 "wikilink")（glass
+**SOM建築設計事務所**（，SOM）是一家是美國建築設計事務所，為客戶提供包括建築、室內設計、[都市設計](https://zh.wikipedia.org/wiki/都市設計 "wikilink")、[結構工程和土木工程等設計服務](https://zh.wikipedia.org/wiki/結構工程 "wikilink")\[1\]。事務所由路易斯·斯基德莫爾和納撒尼爾·奧因斯於1936年在[芝加哥創立](../Page/芝加哥.md "wikilink")，1939年後約翰·梅里爾加入。1937年他們在[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[紐約成立第一家分公司](https://zh.wikipedia.org/wiki/紐約 "wikilink")。SOM為世界上最大的建築設計事務所之一，主要設計類型為高層商業大廈，而SOM同時也是領導[國際風格與玻璃盒式](../Page/國際風格.md "wikilink")（glass
 box）摩天大樓的先驅。
 
 ## 發展概況
@@ -29,7 +29,7 @@ SOM至今已獲得1,700座品質與創新的獎項\[23\]，而自1998年以來�
 [炫彩津门7津门建筑群夜景.jpg](https://zh.wikipedia.org/wiki/File:炫彩津门7津门建筑群夜景.jpg "fig:炫彩津门7津门建筑群夜景.jpg")
 SOM已完成的設計作品超過10,000項，並且分布在超過50個國家。目前SOM在[芝加哥](../Page/芝加哥.md "wikilink")、[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")、[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")、[華盛頓特區](https://zh.wikipedia.org/wiki/華盛頓特區 "wikilink")、[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、[香港](../Page/香港.md "wikilink")、[阿布達比](https://zh.wikipedia.org/wiki/阿布達比 "wikilink")、[孟買](https://zh.wikipedia.org/wiki/孟買 "wikilink")、[上海設有辦公室](https://zh.wikipedia.org/wiki/上海 "wikilink")。
 
-[哈里發塔是SOM著名設計作品之一](../Page/哈里發塔.md "wikilink")，該建築位在[阿聯](https://zh.wikipedia.org/wiki/阿聯 "wikilink")[杜拜](../Page/杜拜.md "wikilink")，在2010年開放後\[31\]\[32\]，[哈里發塔以](../Page/哈里發塔.md "wikilink")828公尺建築高度，成為目前世界上最高的摩天大樓\[33\]。該建築的總建築師為SOM內的\[34\]\[35\]，為首席結構工程師，為執行合夥人。紐約[世界貿易中心一號大樓是SOM另一項建設作品](../Page/世界貿易中心一號大樓.md "wikilink")，雖然SOM在設計競賽中撤回設計作品，但SOM仍然獲得建設合同。最後該建築設計師為[丹尼爾·里伯斯金](https://zh.wikipedia.org/wiki/丹尼爾·里伯斯金 "wikilink")，由SOM執行建設計畫。SOM另外在[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")北部有Beacon大型複合公寓社區計畫。
+[哈里發塔是SOM著名設計作品之一](../Page/哈里發塔.md "wikilink")，該建築位在[阿聯](https://zh.wikipedia.org/wiki/阿聯 "wikilink")[杜拜](../Page/杜拜.md "wikilink")，在2010年開放後\[31\]\[32\]，[哈里發塔以](../Page/哈里發塔.md "wikilink")828公尺建築高度，成為目前世界上最高的摩天大樓\[33\]。該建築的總建築師為SOM內的\[34\]\[35\]，為首席結構工程師，為執行合夥人。紐約[世界貿易中心一號大樓是SOM另一項建設作品](../Page/世界貿易中心一號大樓.md "wikilink")，雖然SOM在設計競賽中撤回設計作品，但SOM仍然獲得建設合同。最後該建築設計師為[丹尼爾·里伯斯金](../Page/丹尼爾·里伯斯金.md "wikilink")，由SOM執行建設計畫。SOM另外在[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")北部有Beacon大型複合公寓社區計畫。
 
 除了建築設計服務外，SOM也將服務擴大到[都市計畫領域](https://zh.wikipedia.org/wiki/都市計畫 "wikilink")。其代表案件在20世紀70年代，領導，重新規劃波士頓整個交通和道路。
 
@@ -75,7 +75,7 @@ SOM已完成的設計作品超過10,000項，並且分布在超過50個國家。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/美國駐法蘭克福總領事館" title="wikilink">美國駐法蘭克福總領事館</a></p></td>
+<td><p><a href="../Page/美國駐法蘭克福總領事館.md" title="wikilink">美國駐法蘭克福總領事館</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/法蘭克福" title="wikilink">法蘭克福</a></p></td>
 <td><p>1955</p></td>
 <td></td>
@@ -107,7 +107,7 @@ SOM已完成的設計作品超過10,000項，並且分布在超過50個國家。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/奥林匹克大厦" title="wikilink">奥林匹克大厦</a></p></td>
+<td><p><a href="../Page/奥林匹克大厦.md" title="wikilink">奥林匹克大厦</a></p></td>
 <td><p><a href="../Page/曼哈頓.md" title="wikilink">紐約</a></p></td>
 <td><p>1972</p></td>
 <td></td>
@@ -147,7 +147,7 @@ SOM已完成的設計作品超過10,000項，並且分布在超過50個國家。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/环球广场一号" title="wikilink">环球广场一号</a></p></td>
+<td><p><a href="../Page/环球广场一号.md" title="wikilink">环球广场一号</a></p></td>
 <td><p><a href="../Page/曼哈頓.md" title="wikilink">紐約</a></p></td>
 <td><p>1989</p></td>
 <td></td>
@@ -251,8 +251,8 @@ SOM已完成的設計作品超過10,000項，並且分布在超過50個國家。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/韓國世界貿易中心" title="wikilink">韓國世界貿易中心擴建</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/韓國世界貿易中心.md" title="wikilink">韓國世界貿易中心擴建</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td><p>2000</p></td>
 <td></td>
 <td></td>
@@ -307,7 +307,7 @@ SOM已完成的設計作品超過10,000項，並且分布在超過50個國家。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/时代华纳中心" title="wikilink">时代华纳中心</a></p></td>
+<td><p><a href="../Page/时代华纳中心.md" title="wikilink">时代华纳中心</a></p></td>
 <td><p><a href="../Page/曼哈頓.md" title="wikilink">紐約</a></p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -315,7 +315,7 @@ SOM已完成的設計作品超過10,000項，並且分布在超過50個國家。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/兰登书屋大楼" title="wikilink">兰登书屋大楼</a></p></td>
+<td><p><a href="../Page/兰登书屋大楼.md" title="wikilink">兰登书屋大楼</a></p></td>
 <td><p><a href="../Page/曼哈頓.md" title="wikilink">紐約</a></p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -348,7 +348,7 @@ SOM已完成的設計作品超過10,000項，並且分布在超過50個國家。
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td><p>2004</p></td>
 <td></td>
 <td><p>与合作</p></td>
@@ -524,7 +524,7 @@ SOM已完成的設計作品超過10,000項，並且分布在超過50個國家。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/中国国际贸易中心三期A阶段" title="wikilink">中国国际贸易中心三期主塔——国贸大厦</a></p></td>
+<td><p><a href="../Page/中国国际贸易中心三期A阶段.md" title="wikilink">中国国际贸易中心三期主塔——国贸大厦</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京</a></p></td>
 <td><p>2010</p></td>
 <td></td>

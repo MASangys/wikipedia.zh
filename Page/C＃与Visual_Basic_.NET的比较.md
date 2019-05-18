@@ -8,7 +8,7 @@ C\#和VB.NET各自有其不同的歷史，在語法上也有很大的差異。C\
 VB.NET是來自1960年代的[BASIC語言](../Page/BASIC.md "wikilink")，是「Beginner's
 All-purpose Symbolic Instruction
 Code」的縮寫，一開始BASIC在學校中教授，而且如它的名字所述的，被視為是一個基礎的程式語言。1970年代微電腦的製造商將BASIC用來做電腦系統的程式語言，以及有簡單輸入輸出控制的半作業系統。1980年代微軟也開始使用將一此語言，1990年代發展為[Visual
-basic](../Page/Visual_basic.md "wikilink")，用在window系統的快速應用程式開發\[3\]，Visual
+basic](https://zh.wikipedia.org/wiki/Visual_basic "wikilink")，用在window系統的快速應用程式開發\[3\]，Visual
 basic打敗了當時像PowerBuilder等快速應用程式開發工具\[4\]。雖然Visual
 Basic如此的成功，但在2000年代初期微軟提出.NET框架及對應的Visual
 Studio開發平台，而Visual Basic也在第六版（VB6）畫下句點。

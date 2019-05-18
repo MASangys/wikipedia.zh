@@ -10,7 +10,7 @@ Sextube在美国非常受欢迎。它的35.5%的用户来自美国。它的5.5%�
 
 ## 收购
 
-2011年6月Sextube被MindGeek收购\[2\]。在此前MindGeek已经拥有诸如[Pornhub和](https://zh.wikipedia.org/wiki/Pornhub "wikilink")[YouPorn等网站](../Page/YouPorn.md "wikilink")。
+2011年6月Sextube被MindGeek收购\[2\]。在此前MindGeek已经拥有诸如[Pornhub和](../Page/Pornhub.md "wikilink")[YouPorn等网站](../Page/YouPorn.md "wikilink")。
 
 ## 参考文献
 

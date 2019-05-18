@@ -13,7 +13,7 @@
   - 2011年1月、町田啓太、鈴木伸之加入風組\[11\]。
   - 2011年7月、華組與風組合併。施鐘泰、山下健二郎、ELLY、白濱亞嵐、町田啓太退出\[12\]。
   - 2012年2月、町田啓太再加入\[13\]。
-  - 2012年9月、[小野塚勇人](https://zh.wikipedia.org/wiki/小野塚勇人 "wikilink")、野替愁平、八木将康加入\[14\]\[15\]。
+  - 2012年9月、[小野塚勇人](../Page/小野塚勇人.md "wikilink")、野替愁平、八木将康加入\[14\]\[15\]。
   - 2013年5月、磯村洋祐退出\[16\]。
   - 2015年1月、佐藤寛太加入\[17\]。
   - 2015年9月、春川恭亮退出\[18\]。
@@ -30,8 +30,8 @@
   - [小澤雄太](https://zh.wikipedia.org/wiki/小澤雄太 "wikilink")
   - [鈴木伸之](../Page/鈴木伸之.md "wikilink")
   - [町田啓太](https://zh.wikipedia.org/wiki/町田啓太 "wikilink")
-  - [小野塚勇人](https://zh.wikipedia.org/wiki/小野塚勇人 "wikilink")
-  - [野替愁平](https://zh.wikipedia.org/wiki/野替愁平 "wikilink")
+  - [小野塚勇人](../Page/小野塚勇人.md "wikilink")
+  - [野替愁平](../Page/野替愁平.md "wikilink")
   - [八木將康](https://zh.wikipedia.org/wiki/八木將康 "wikilink")
   - [佐藤寛太](https://zh.wikipedia.org/wiki/佐藤寛太 "wikilink")
 

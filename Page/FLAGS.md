@@ -17,8 +17,7 @@ Records Japan)代理發行。
 
 ### 精选集
 
-[宴
--UTAGE-](https://zh.wikipedia.org/wiki/宴_-UTAGE- "wikilink")(\#1、\#2)
+[宴 -UTAGE-](../Page/宴_-UTAGE-.md "wikilink")(\#1、\#2)
 [GEISHA BOY –ANIME SONG
 EXPERIENCE-](https://zh.wikipedia.org/wiki/GEISHA_BOY_–ANIME_SONG_EXPERIENCE- "wikilink")(\#1、\#2)
 

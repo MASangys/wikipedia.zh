@@ -2,8 +2,7 @@
 Neo**是韓國三星電子在2014年2月推出的Android平台的高階大型螢幕平板式智慧型手機（平板手機），與[Samsung
 Galaxy Note
 II一樣](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_II "wikilink")，擁有5.55英寸螢幕，是Samsung首款採用六核心處理器的手機，同時期的競爭對手有[Sony
-Xperia Z1
-Compact](https://zh.wikipedia.org/wiki/Sony_Xperia_Z1_Compact "wikilink")。
+Xperia Z1 Compact](../Page/Sony_Xperia_Z1_Compact.md "wikilink")。
 
 ## 韓國[Snapdragon 800版本Galaxy](https://zh.wikipedia.org/wiki/骁龙 "wikilink") Note 3 Neo LTE-A
 

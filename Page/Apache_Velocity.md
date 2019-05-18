@@ -38,12 +38,12 @@ Velocity**是一个基于[Java的](../Page/Java.md "wikilink")[模板引擎](htt
 ## 参见
 
   -
-  - [FreeMarker](https://zh.wikipedia.org/wiki/FreeMarker "wikilink")
+  - [FreeMarker](../Page/FreeMarker.md "wikilink")
 
   - [JavaServer
     Pages](https://zh.wikipedia.org/wiki/JavaServer_Pages "wikilink")
 
-  - [Thymeleaf](https://zh.wikipedia.org/wiki/Thymeleaf "wikilink")
+  - [Thymeleaf](../Page/Thymeleaf.md "wikilink")
 
 ## 参考文献
 

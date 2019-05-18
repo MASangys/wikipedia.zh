@@ -158,7 +158,7 @@
 <td><p>与et cetera（以及其余的）用法相似，表示一长串未列出的名字。</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/et_cetera.md" title="wikilink">et cetera</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/et_cetera" title="wikilink">et cetera</a></strong></p></td>
 <td><p>以及其余的</p></td>
 <td><p>这一短语在现代用于表示在文中不能一一列举的事物。即etc。</p></td>
 </tr>
@@ -203,7 +203,7 @@
 <td><p>另有翻译为：“别了，它不能使之成为如此之物。”</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/et_tu,_Brute?.md" title="wikilink">et tu, Brute?</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/et_tu,_Brute?" title="wikilink">et tu, Brute?</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/布鲁图斯" title="wikilink">布鲁图斯</a>，你呢？</p></td>
 <td><p>或“布鲁图斯，连你也？”这一短语用来表示某一亲近人物的背叛。典出莎士比亚的戏剧《尤里乌斯凯撒》</p></td>
 </tr>

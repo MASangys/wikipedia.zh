@@ -3,7 +3,7 @@
 
 ## 概要
 
-2008年10月，[JVC與](../Page/JVC.md "wikilink")[建伍經營統合](https://zh.wikipedia.org/wiki/建伍 "wikilink")，兩家共同股票轉讓組成控股公司「JVC建伍控股株式会社」，JVC、建伍子公司化；JVC主要股東[松下電器持股也一併移轉](../Page/松下電器.md "wikilink")。
+2008年10月，[JVC與](../Page/JVC.md "wikilink")[建伍經營統合](../Page/建伍.md "wikilink")，兩家共同股票轉讓組成控股公司「JVC建伍控股株式会社」，JVC、建伍子公司化；JVC主要股東[松下電器持股也一併移轉](../Page/松下電器.md "wikilink")。
 
 2011年8月，JVC建伍控股[商号變更為](https://zh.wikipedia.org/wiki/商号 "wikilink")「JVC建伍株式会社」；同年10月吸收合併傘下JVC、建伍、J\&K汽車電子成為一般[產業](https://zh.wikipedia.org/wiki/產業 "wikilink")，不再是[控股公司](../Page/控股公司.md "wikilink")。併入三家子公司是圖謀經營體制效率化。\[1\]
 
@@ -70,7 +70,7 @@
 <!-- end list -->
 
   - Victor
-    高級音響和AV周邊（2011年前開發）、[裝飾藝術](../Page/裝飾藝術.md "wikilink")、[儲存裝置](../Page/儲存裝置.md "wikilink")、音樂及影像軟體（[勝利娛樂](https://zh.wikipedia.org/wiki/勝利娛樂 "wikilink")）。
+    高級音響和AV周邊（2011年前開發）、[裝飾藝術](../Page/裝飾藝術.md "wikilink")、[儲存裝置](../Page/儲存裝置.md "wikilink")、音樂及影像軟體（[勝利娛樂](../Page/勝利娛樂.md "wikilink")）。
     原日本國內通行品牌，近年來逐漸由JVC取代。
 
 <!-- end list -->
@@ -85,7 +85,7 @@
 
 ## 著名子公司
 
-  - [勝利娛樂](https://zh.wikipedia.org/wiki/勝利娛樂 "wikilink")
+  - [勝利娛樂](../Page/勝利娛樂.md "wikilink")
 
 ## 參考資料
 

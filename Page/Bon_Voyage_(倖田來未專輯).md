@@ -108,8 +108,7 @@ HOLLA〉。而後僅在廣播進行專輯的宣傳，相較於先前頻繁上音
     <!-- end list -->
       - [東京電視台動畫](../Page/東京電視台.md "wikilink")《[Total
         Eclipse](../Page/Muv-Luv_Alternative_Total_Eclipse.md "wikilink")》主題曲
-14. **[Dreaming
-    Now\!](https://zh.wikipedia.org/wiki/Dreaming_Now! "wikilink")**
+14. **[Dreaming Now\!](../Page/Dreaming_Now!.md "wikilink")**
       -
         作詞：KUMI KODA　作曲：Mistu.J
     <!-- end list -->

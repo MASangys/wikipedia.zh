@@ -1,7 +1,7 @@
 《**Another Code：R
 記憶之門**》（，）是一個[Wii](../Page/Wii.md "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[冒险游戏](../Page/冒险游戏.md "wikilink")。此遊戲由[Cing開發](../Page/Cing.md "wikilink")，[任天堂發佈](../Page/任天堂.md "wikilink")，是《[Another
 Code
-兩段記憶](https://zh.wikipedia.org/wiki/Another_Code_兩段記憶 "wikilink")》的續作。此遊戲也是Cing首個開發的Wii遊戲。\[1\]
+兩段記憶](../Page/Another_Code_兩段記憶.md "wikilink")》的續作。此遊戲也是Cing首個開發的Wii遊戲。\[1\]
 
 ## 劇情
 

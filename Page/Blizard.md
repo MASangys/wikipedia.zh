@@ -6,8 +6,8 @@ Blizard為[Being音樂事務所旗下的樂團](../Page/Being_\(公司\).md "wik
 Pioneer出道](https://zh.wikipedia.org/wiki/Warner_Music_Japan "wikilink")。由於是事務所集結年輕俊美的成員所推出的樂團，故被稱為"美型樂團"。\[1\]BLIZARD的主吉他手兼作曲者松川敏也，因其外型而被稱為"日本版的"，松川也廣獲樂迷的喜愛，被暱稱為“Ran”。在將近10年活動之中雖然做了許多嘗試，但以美型樂團成軍一事到了中期左右卻變成了阻礙，也因為先前的美貌話題，導致鮮少獲得正面的評價，讓成員們陷入苦惱之中。結果在1987年移籍加入[CBS・Sony](../Page/Sony_Music_Records.md "wikilink")，之後成員之一的下村成二郎在1989年退出樂團。雖然水野松也接任主唱之位，並在1990年發表了第7張專輯，但在1992年宣布停止活動，實際上已等同解散。\[2\]
 
 樂團解散之後，成員現今仍然各自進行自己的音樂活動，唯獨松川在1998年之後完全沒有公開活動。 他在1994年的時候，與[X
-JAPAN吉他手](../Page/X_JAPAN.md "wikilink")[PATA一起參與了X](../Page/Pata_\(吉他手\).md "wikilink")
-JAPAN知名吉他手[hide的個人巡迴演唱會](../Page/hide.md "wikilink")。另外，他也親手替[ZARD寫了幾首歌](../Page/ZARD.md "wikilink")。收錄為ZARD首張單曲《[Good-bye
+JAPAN吉他手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[PATA一起參與了X](../Page/Pata_\(吉他手\).md "wikilink")
+JAPAN知名吉他手[hide的個人巡迴演唱會](https://zh.wikipedia.org/wiki/hide "wikilink")。另外，他也親手替[ZARD寫了幾首歌](../Page/ZARD.md "wikilink")。收錄為ZARD首張單曲《[Good-bye
 My
 Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")》B面曲的《愛在黑暗中》是翻唱自BLIZARD的專輯《SHOW
 ME THE WAY》裡的《EMPTY

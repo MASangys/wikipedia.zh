@@ -1,7 +1,7 @@
 《**Happiness Charge
 光之美少女！**》（）是由[東堂泉所創作的](../Page/東堂泉.md "wikilink")[魔法少女動畫作品](../Page/魔法少女.md "wikilink")，「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」十周年之作，為第十一套作品，屬第九代光之美少女。2014年2月2日在[朝日電視台和](../Page/朝日電視台.md "wikilink")[朝日放送播放](../Page/朝日放送.md "wikilink")。
 
-本代中未再將光之美少女稱為「傳說中的戰士」，此一稱號一直到六年後的《[星光閃亮☆光之美少女](https://zh.wikipedia.org/wiki/Star☆Twinkle_光之美少女 "wikilink")》才重新啟用。
+本代中未再將光之美少女稱為「傳說中的戰士」，此一稱號一直到六年後的《[星光閃亮☆光之美少女](../Page/Star☆Twinkle_光之美少女.md "wikilink")》才重新啟用。
 
 ## 故事簡介
 
@@ -1290,7 +1290,7 @@ Mode），並用化妝筆對準鏡子旋轉，從其中釋放出巨大的，有�
 小松</p></td>
 <td><p>增田龍太郎</p></td>
 <td><p><a href="../Page/光之美少女.md" title="wikilink">黑天使</a><br />
-（<a href="https://zh.wikipedia.org/wiki/本名阳子" title="wikilink">本名阳子</a>／長峯達也／<a href="https://zh.wikipedia.org/wiki/稻上晃" title="wikilink">稻上晃</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/本名阳子" title="wikilink">本名阳子</a>／長峯達也／<a href="../Page/稻上晃.md" title="wikilink">稻上晃</a>）</p></td>
 <td><p><strong>2014年</strong><br />
 2月2日</p></td>
 <td></td>
@@ -1466,7 +1466,7 @@ Mode），並用化妝筆對準鏡子旋轉，從其中釋放出巨大的，有�
 <td><p>可愛天使、公主天使<br />
 蜂蜜天使、命運天使<br />
 <a href="../Page/光之美少女系列.md" title="wikilink">光之美少女系列第</a>500話紀念<br />
-（<a href="https://zh.wikipedia.org/wiki/中島愛" title="wikilink">中島愛</a>、<a href="../Page/潘惠美.md" title="wikilink">潘惠美</a>、<a href="https://zh.wikipedia.org/wiki/北川里奈" title="wikilink">北川里奈</a>、<a href="../Page/戶松遙.md" title="wikilink">戶松遙</a>／長峯達也／青山充）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/中島愛" title="wikilink">中島愛</a>、<a href="../Page/潘惠美.md" title="wikilink">潘惠美</a>、<a href="../Page/北川里奈.md" title="wikilink">北川里奈</a>、<a href="../Page/戶松遙.md" title="wikilink">戶松遙</a>／長峯達也／青山充）</p></td>
 <td><p>5月4日</p></td>
 </tr>
 <tr class="odd">
@@ -1695,7 +1695,7 @@ Mode），並用化妝筆對準鏡子旋轉，從其中釋放出巨大的，有�
 <td><p>稻上晃</p></td>
 <td><p>田中里綠</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Smile_光之美少女!" title="wikilink">晴朗天使</a><br />
-（<a href="https://zh.wikipedia.org/wiki/田野麻美" title="wikilink">田野麻美</a>／田中裕太／川村敏江）</p></td>
+（<a href="../Page/田野麻美.md" title="wikilink">田野麻美</a>／田中裕太／川村敏江）</p></td>
 <td><p>9月7日</p></td>
 <td></td>
 </tr>
@@ -1708,7 +1708,7 @@ Mode），並用化妝筆對準鏡子旋轉，從其中釋放出巨大的，有�
 <td><p>赤田信人</p></td>
 <td><p>田中美紀</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/心跳！光之美少女" title="wikilink">聖劍天使</a><br />
-（<a href="https://zh.wikipedia.org/wiki/宮本佳那子" title="wikilink">宮本佳那子</a>／田中裕太／高桥晃）</p></td>
+（<a href="../Page/宮本佳那子.md" title="wikilink">宮本佳那子</a>／田中裕太／高桥晃）</p></td>
 <td><p>9月14日</p></td>
 <td></td>
 </tr>
@@ -1967,7 +1967,7 @@ Mode），並用化妝筆對準鏡子旋轉，從其中釋放出巨大的，有�
 
 <!-- end list -->
 
-  - 本作在片尾曲繼續採用全3D製作動畫，並由著名女子組合[Perfume的編舞師](https://zh.wikipedia.org/wiki/Perfume "wikilink")[MIKIKO擔任舞蹈創作](https://zh.wikipedia.org/wiki/MIKIKO "wikilink")。
+  - 本作在片尾曲繼續採用全3D製作動畫，並由著名女子組合[Perfume的編舞師](https://zh.wikipedia.org/wiki/Perfume "wikilink")[MIKIKO擔任舞蹈創作](../Page/MIKIKO.md "wikilink")。
 
 <!-- end list -->
 
@@ -1975,8 +1975,7 @@ Mode），並用化妝筆對準鏡子旋轉，從其中釋放出巨大的，有�
 
 :; 「」（第9～11、28、31、35話）
 
-::
-作詞：六之見純代，作・編曲：高木洋，主唱：蜂蜜天使（[北川里奈](https://zh.wikipedia.org/wiki/北川里奈 "wikilink")）
+:: 作詞：六之見純代，作・編曲：高木洋，主唱：蜂蜜天使（[北川里奈](../Page/北川里奈.md "wikilink")）
 
 :: 此曲在劇中曾恢復我方體力并讓敵方喪失戰鬥力（納馬凱魯達及其召喚的最壞獸除外）。
 
@@ -2012,19 +2011,19 @@ Mode），並用化妝筆對準鏡子旋轉，從其中釋放出巨大的，有�
 <!-- end list -->
 
   - [All Stars New
-    Stage3上映於本作播出時](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_New_Stage3_永遠的朋友 "wikilink")，因此以本作故事初期設定為準。
+    Stage3上映於本作播出時](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")，因此以本作故事初期設定為準。
 
 <!-- end list -->
 
   -
     [光之美少女 All Stars New Stage3
-    永遠的朋友](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_New_Stage3_永遠的朋友 "wikilink")
+    永遠的朋友](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")
     [光之美少女 All Stars
-    春之嘉年華♪](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_春之嘉年華♪ "wikilink")
+    春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
     [光之美少女 All Stars
     大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
     [HUG！光之美少女♡光之美少女 All Stars
-    Memories](https://zh.wikipedia.org/wiki/HUG！光之美少女♡光之美少女_All_Stars_Memories "wikilink")
+    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
 
 ## 相關資料、補充
 

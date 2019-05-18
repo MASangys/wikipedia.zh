@@ -409,7 +409,7 @@ Voseo用法曾經在很長時期以內倍受語言學家的責難，因為他們
 
   - [西班牙語語法](https://zh.wikipedia.org/wiki/西班牙語語法 "wikilink")
   - [西班牙語動詞變位](https://zh.wikipedia.org/wiki/西班牙語動詞變位 "wikilink")
-  - [人稱代詞](https://zh.wikipedia.org/wiki/人稱代詞 "wikilink")
+  - [人稱代詞](../Page/人稱代詞.md "wikilink")
 
 ## 註釋
 

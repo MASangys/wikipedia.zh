@@ -4,8 +4,8 @@
 ## 簡介
 
   - 2011年9月\~12月動員超過50萬人的巡迴演唱會，收錄的是12/18於[大阪巨蛋的場次](../Page/大阪巨蛋.md "wikilink")，其中有穿插一小段[東京巨蛋場次的畫面](../Page/東京巨蛋.md "wikilink")。
-  - 發行首周約賣出5.3萬張，獲得[ORICONDVD部門排名第一](../Page/ORICON.md "wikilink")，連續8作首周獲得第一。
-  - 之後發行的藍光版本首周賣出了約7萬張，是2012年[ORICON藍光光碟部門年度第一](../Page/ORICON.md "wikilink")。
+  - 發行首周約賣出5.3萬張，獲得[ORICONDVD部門排名第一](https://zh.wikipedia.org/wiki/ORICON "wikilink")，連續8作首周獲得第一。
+  - 之後發行的藍光版本首周賣出了約7萬張，是2012年[ORICON藍光光碟部門年度第一](https://zh.wikipedia.org/wiki/ORICON "wikilink")。
 
 ## 收錄會場
 
@@ -47,7 +47,7 @@
 18. [ザ・マイスター](../Page/C'mon.md "wikilink")
 19. [C'mon](../Page/C'mon.md "wikilink")
 20. いつかのメリークリスマス
-21. [ultra soul](../Page/ultra_soul.md "wikilink")
+21. [ultra soul](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")
 22. [Calling](https://zh.wikipedia.org/wiki/Calling "wikilink")
 
 ## 參考資料

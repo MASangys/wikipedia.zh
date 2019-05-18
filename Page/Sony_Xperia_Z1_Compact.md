@@ -10,7 +10,7 @@ Compact**是一款由[索尼移动通信研制并发售的](../Page/索尼移动
   - 相機：2070萬畫素主相機 with
     G镜头（支援[1080p錄影](../Page/1080p.md "wikilink")）、前置鏡頭220萬畫素
   - 記憶體：內建2GB RAM，16GB
-    ROM，支援外接[microSD至](../Page/microSD.md "wikilink")64GB
+    ROM，支援外接[microSD至](https://zh.wikipedia.org/wiki/microSD "wikilink")64GB
   - 特殊功能：降噪、[NFC](https://zh.wikipedia.org/wiki/NFC "wikilink")、IP55/IP58防塵防水認證
   - 尺寸：127mm x 64.9mm x 9.5mm、137公克
   - 2G Network GSM 850 / 900 / 1800 / 1900

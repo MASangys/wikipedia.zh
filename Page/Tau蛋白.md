@@ -43,7 +43,7 @@ tau蛋白（tau包含物，pTau）的可导致配对的螺旋丝和直丝的缠�
   - [皮质基地变性](https://zh.wikipedia.org/wiki/皮质基地变性 "wikilink")
 
   -
-  - [蛋白质构象病](https://zh.wikipedia.org/wiki/蛋白质构象病 "wikilink")
+  - [蛋白质构象病](../Page/蛋白质构象病.md "wikilink")
 
   - [皮克氏病](https://zh.wikipedia.org/wiki/皮克氏病 "wikilink")
 

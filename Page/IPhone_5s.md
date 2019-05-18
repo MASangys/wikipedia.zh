@@ -1,10 +1,10 @@
 **iPhone 5s**
 是美國[蘋果公司於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2013年9月推出的[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，是第七代
-[iPhone](../Page/iPhone.md "wikilink")。
+[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")。
 
-iPhone 5s 搭載 [iOS 7](../Page/iOS_7.md "wikilink")
+iPhone 5s 搭載 [iOS 7](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")
 作為[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，手機外觀與硬體方面則首次新增了金色選項，內部電池略為增加到1560毫安时，與全新相機鏡頭（但未提升像素，僅改良使感光面積增大）、雙色閃光燈（True
-Tone）、新一代 [Apple A7](https://zh.wikipedia.org/wiki/Apple_A7 "wikilink")
+Tone）、新一代 [Apple A7](../Page/Apple_A7.md "wikilink")
 處理器、並且是全球首部採用[64位元處理器的智慧型手機](../Page/64位元.md "wikilink")。\[1\]\[2\]此外增加iOS系列硬體第一次採用，也是業界最先使用的專利按壓式[指紋辨識](https://zh.wikipedia.org/wiki/指紋辨識 "wikilink")（touch
 finger print）功能。
 
@@ -18,7 +18,7 @@ iPhone 5s 及 [iPhone
 
 iPhone 5s 搭載採用[64
 位元架構的](https://zh.wikipedia.org/wiki/64_位元 "wikilink")[Apple
-A7處理器](https://zh.wikipedia.org/wiki/Apple_A7 "wikilink")，可向下相容 [32
+A7處理器](../Page/Apple_A7.md "wikilink")，可向下相容 [32
 位元](https://zh.wikipedia.org/wiki/32_位元 "wikilink") 的應用程式（在更新至 iOS
 11 後，对 32 位元的應用程式的支持已被删除），並支持 [OpenGL
 ES](../Page/OpenGL_ES.md "wikilink")
@@ -67,7 +67,7 @@ Enclave）内，任何软件都无权限访问，且永遠不會被備份至蘋�
 
   - 慢動作錄影功能（720p 120Fps）
   - 連環快拍功能
-  - 初次設定時可免費下載[Pages](https://zh.wikipedia.org/wiki/iWork#Pages "wikilink")、[Keynote](https://zh.wikipedia.org/wiki/iWork#Keynote "wikilink")、[Numbers](https://zh.wikipedia.org/wiki/iWork#Numbers "wikilink")、[iMovie](../Page/iMovie.md "wikilink")、[iPhoto](../Page/iPhoto.md "wikilink")
+  - 初次設定時可免費下載[Pages](https://zh.wikipedia.org/wiki/iWork#Pages "wikilink")、[Keynote](https://zh.wikipedia.org/wiki/iWork#Keynote "wikilink")、[Numbers](https://zh.wikipedia.org/wiki/iWork#Numbers "wikilink")、[iMovie](https://zh.wikipedia.org/wiki/iMovie "wikilink")、[iPhoto](https://zh.wikipedia.org/wiki/iPhoto "wikilink")
     和 [GarageBand](https://zh.wikipedia.org/wiki/GarageBand "wikilink")
   - 內建
     [Podcast](https://zh.wikipedia.org/wiki/Podcast "wikilink")（前一代必須自行下載）
@@ -140,9 +140,9 @@ iOS 7.0.3 更新裡修正了加速器的誤差。
 ## 相关条目
 
   - [iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c "wikilink")
-  - [iPhone 5](../Page/iPhone_5.md "wikilink")
-  - [iOS 7](../Page/iOS_7.md "wikilink")
-  - [iPhone](../Page/iPhone.md "wikilink")
+  - [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")
+  - [iOS 7](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")
+  - [iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")
 
 ## 引用参考
 

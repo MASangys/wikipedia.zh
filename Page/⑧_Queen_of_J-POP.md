@@ -1,5 +1,5 @@
 《**⑧ Queen of
-J-POP**》是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")7枚原創專輯。於2013年9月4日發行。唱片公司為[zetima](../Page/zetima.md "wikilink")。
+J-POP**》是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")7枚原創專輯。於2013年9月4日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 

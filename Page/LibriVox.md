@@ -53,7 +53,7 @@ LibriVox的有聲書總共以33種語言發音，其中大約90％的有聲書�
     (full mirror with streaming and reviews)
   - [LibriVox](http://phobos.apple.com/WebObjects/MZSearch.woa/wa/search?id=XmIFQ9rHzow&term=Librivox)
     at [Apple.com](https://zh.wikipedia.org/wiki/Apple.com "wikilink")
-    [iTunes](../Page/iTunes.md "wikilink")
+    [iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")
   - [LibriVox](http://www.disc-shelf.com/?artist=35) at [Disc
     Shelf](https://zh.wikipedia.org/wiki/Disc_Shelf "wikilink")
 

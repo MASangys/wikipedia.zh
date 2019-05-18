@@ -69,7 +69,7 @@ CPU 都是2000 pFLOPS，等級變為無上限。\[7\]
         6版本，具有兩款表面為消光霧面材質的黑、橘色T10磚甲，比同階的磚甲貴上許多；亦有字母磚及"6"號數字磚的版本\[10\]。2015年12月17日將所有裝甲併成一般結構。
   - [風擋](https://zh.wikipedia.org/wiki/風擋 "wikilink")（Windshield）：與輕結構裝甲量相同但更耗CPU，幾乎是裝飾用，目前已移除。
   - [氦氣槽](https://zh.wikipedia.org/wiki/氦氣 "wikilink")（Helium
-    Tank）：與現實不同，遊戲中的設定是[負質量物質](https://zh.wikipedia.org/wiki/負質量 "wikilink")，也會增加[阻力](https://zh.wikipedia.org/wiki/阻力 "wikilink")。只有一種方型的形狀，現已被刪除。\[11\]
+    Tank）：與現實不同，遊戲中的設定是[負質量物質](../Page/負質量.md "wikilink")，也會增加[阻力](https://zh.wikipedia.org/wiki/阻力 "wikilink")。只有一種方型的形狀，現已被刪除。\[11\]
   - 裝甲氦氣槽（Armored
     Helium）：於2014年6月6日新增5種等級，是氦氣槽的裝甲強化版，之後又改為只剩2、4、8、10四種等級並把浮力參數改為一半。\[12\]
   - 飛機支架（Aero Rod）：比同級的其它結構部件更輕，但同時犧牲了裝甲和可連接點。有短、L形、長三種。

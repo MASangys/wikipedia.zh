@@ -12,8 +12,8 @@ MEJIBRAY，是[日本](../Page/日本.md "wikilink")2011年出道的[視覺系](
   - 擔任[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")。生日：12月15日，血型：O型。身高：172公分。出身地：橫濱。
   - 樂團經歷（括號內為當時藝名）：（るる）⇒DIS（幻希）⇒VanessA（元規）⇒MEJIBRAY（綴）
   - 受影響的樂團有[DIR EN
-    GREY](../Page/DIR_EN_GREY.md "wikilink")、[SADS](https://zh.wikipedia.org/wiki/SADS "wikilink")、[the
-    GazettE等等](../Page/the_GazettE.md "wikilink")。
+    GREY](https://zh.wikipedia.org/wiki/DIR_EN_GREY "wikilink")、[SADS](https://zh.wikipedia.org/wiki/SADS "wikilink")、[the
+    GazettE等等](https://zh.wikipedia.org/wiki/the_GazettE "wikilink")。
   - 學生時代參加劍道社。畢業後開始樂團活動，同時也因自殘、自殺未遂而反覆住院。
   - 發行單曲《DECADANCE - Counting Goats … if I can't be yours
     -》時有針對〈躁と鬱と境界〉一曲解釋自己患有[BPD](https://zh.wikipedia.org/wiki/BPD "wikilink")。
@@ -73,7 +73,7 @@ MEJIBRAY，是[日本](../Page/日本.md "wikilink")2011年出道的[視覺系](
   - 戀一和綴從前一個樂團時就一起活動，戀一選擇綴作為主唱的理由是因為「綴看起來會死在舞台上」，對於這個說法MiA也認同，而メト也因為覺得這樣的綴相當帥氣而憧憬綴。
   - 製作《Emotional【KARMA】》的時候，團員有段時間每天都住在一起。
   - 2012年7月份時，[the
-    GazettE吉他手葵在twitter上推薦了MEJIBRAY](../Page/the_GazettE.md "wikilink")，而後團員陸續推文向葵打了招呼，之後MiA也和葵私下相約喝酒過。又，綴相當崇拜the
+    GazettE吉他手葵在twitter上推薦了MEJIBRAY](https://zh.wikipedia.org/wiki/the_GazettE "wikilink")，而後團員陸續推文向葵打了招呼，之後MiA也和葵私下相約喝酒過。又，綴相當崇拜the
     GazettE，樂團曾受邀參加the GazettE在2012年8月時舉辦的「STANDING LIVE TOUR 12 -HERESY
     PRESENTS- HETERODOXY」終場。
   - 每一次的新造型都是團員各自決定，拍攝當天才會知道彼此的造型。
@@ -391,7 +391,8 @@ MEJIBRAY，是[日本](../Page/日本.md "wikilink")2011年出道的[視覺系](
 <!-- end list -->
 
   -
-    翻唱[DIR EN GREY的](../Page/DIR_EN_GREY.md "wikilink")〈Cage〉\[5\]。
+    翻唱[DIR EN
+    GREY的](https://zh.wikipedia.org/wiki/DIR_EN_GREY "wikilink")〈Cage〉\[5\]。
 
 <!-- end list -->
 

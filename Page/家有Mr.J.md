@@ -135,7 +135,7 @@ production_website = }}
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/張東晴" title="wikilink">張東晴</a></p></td>
+<p><a href="../Page/張東晴.md" title="wikilink">張東晴</a></p></td>
 <td><center>
 <p>書璉</p></td>
 <td><p>因劇情變化並沒有登場</p></td>
@@ -144,7 +144,7 @@ production_website = }}
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/林書葶" title="wikilink">林書葶</a></p></td>
+<p><a href="../Page/林書葶.md" title="wikilink">林書葶</a></p></td>
 <td><center>
 <p>書偉</p></td>
 <td><p>因劇情變化並沒有登場</p></td>

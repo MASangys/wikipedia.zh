@@ -35,11 +35,11 @@ Injection之縮寫），故壓縮比變成9.1：1。最大馬力74ps /
 
 1.  1988年-1994年：[第一代Justy](https://zh.wikipedia.org/wiki/速霸陸Justy#第一代（1984年-1994年） "wikilink")
 2.  1988年-1994年：[第一代Domingo](https://zh.wikipedia.org/wiki/速霸陸Domingo#第一代（1983年-1994年） "wikilink")
-3.  1989年-1996年：大慶金美滿（臺灣，即[Justy兄弟車](https://zh.wikipedia.org/wiki/速霸陸Justy "wikilink")）
+3.  1989年-1996年：大慶金美滿（臺灣，即[Justy兄弟車](../Page/速霸陸Justy.md "wikilink")）
 
 ## 內部連結
 
-  - [速霸陸引擎列表](https://zh.wikipedia.org/wiki/速霸陸引擎列表 "wikilink")
+  - [速霸陸引擎列表](../Page/速霸陸引擎列表.md "wikilink")
 
 ## 參考資料
 

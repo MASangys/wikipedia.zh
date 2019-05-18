@@ -303,7 +303,7 @@ Lady正式解散。
 <td><p><a href="../Page/中天娛樂台.md" title="wikilink">中天娛樂台</a></p></td>
 <td><p><a href="../Page/康熙來了.md" title="wikilink">康熙來了</a></p></td>
 <td><p>女子團體勾心鬥角大對決</p></td>
-<td><p><a href="../Page/2*Sweet.md" title="wikilink">2*Sweet</a>、Shake It Baby、<a href="../Page/Twinko.md" title="wikilink">Twinko</a>、<strong>Sun Lady</strong>、<a href="../Page/Weather_Girls.md" title="wikilink">Weather Girls</a></p></td>
+<td><p><a href="../Page/2*Sweet.md" title="wikilink">2*Sweet</a>、Shake It Baby、<a href="../Page/Twinko.md" title="wikilink">Twinko</a>、<strong>Sun Lady</strong>、<a href="https://zh.wikipedia.org/wiki/Weather_Girls" title="wikilink">Weather Girls</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014-3-2</p></td>
@@ -352,7 +352,7 @@ Lady正式解散。
 <tr class="odd">
 <td><p>2014-6-23</p></td>
 <td><p><a href="../Page/緯來綜合台.md" title="wikilink">緯來綜合台</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/來自星星的事" title="wikilink">來自星星的事</a></p></td>
+<td><p><a href="../Page/來自星星的事.md" title="wikilink">來自星星的事</a></p></td>
 <td></td>
 <td><p><strong>Sun Lady</strong>、劉爾金、<a href="https://zh.wikipedia.org/wiki/貝童彤" title="wikilink">貝童彤</a>、<a href="../Page/夏和熙.md" title="wikilink">夏和熙</a></p></td>
 </tr>
@@ -397,7 +397,7 @@ Lady正式解散。
 <td><p><a href="../Page/中天綜合台.md" title="wikilink">中天綜合台</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/真的！了不起" title="wikilink">真的！了不起</a></p></td>
 <td></td>
-<td><p><strong>Sun Lady</strong>、<a href="../Page/高山峰.md" title="wikilink">高山峰</a>、<a href="https://zh.wikipedia.org/wiki/王以璐" title="wikilink">王以璐</a>、<a href="https://zh.wikipedia.org/wiki/亞美將" title="wikilink">亞美將</a>、<a href="https://zh.wikipedia.org/wiki/于顥" title="wikilink">于顥</a></p></td>
+<td><p><strong>Sun Lady</strong>、<a href="../Page/高山峰.md" title="wikilink">高山峰</a>、<a href="https://zh.wikipedia.org/wiki/王以璐" title="wikilink">王以璐</a>、<a href="../Page/亞美將.md" title="wikilink">亞美將</a>、<a href="https://zh.wikipedia.org/wiki/于顥" title="wikilink">于顥</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2014-7-19</p></td>
@@ -433,7 +433,7 @@ Lady正式解散。
 <td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a></p></td>
 <td><p><a href="../Page/天才衝衝衝.md" title="wikilink">天才衝衝衝</a></p></td>
 <td><p>會演是英雄、聯想TEMPO、跳跳TEMPO</p></td>
-<td><p><strong>Sun Lady</strong>、<a href="../Page/吳鳳.md" title="wikilink">吳鳳</a>、<a href="https://zh.wikipedia.org/wiki/張立東" title="wikilink">張立東</a>、<a href="../Page/無尊.md" title="wikilink">無尊</a>、<a href="../Page/林又立.md" title="wikilink">林又立</a>、<a href="../Page/郭彥均.md" title="wikilink">郭彥均</a>、<a href="../Page/白雲_(台灣藝人).md" title="wikilink">白雲</a>、<a href="../Page/嚴立婷.md" title="wikilink">嚴立婷</a>、<a href="../Page/陳德烈.md" title="wikilink">陳德烈</a></p></td>
+<td><p><strong>Sun Lady</strong>、<a href="../Page/吳鳳.md" title="wikilink">吳鳳</a>、<a href="../Page/張立東.md" title="wikilink">張立東</a>、<a href="../Page/無尊.md" title="wikilink">無尊</a>、<a href="../Page/林又立.md" title="wikilink">林又立</a>、<a href="../Page/郭彥均.md" title="wikilink">郭彥均</a>、<a href="../Page/白雲_(台灣藝人).md" title="wikilink">白雲</a>、<a href="../Page/嚴立婷.md" title="wikilink">嚴立婷</a>、<a href="../Page/陳德烈.md" title="wikilink">陳德烈</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014-8-1</p></td>
@@ -447,7 +447,7 @@ Lady正式解散。
 <td><p><a href="https://zh.wikipedia.org/wiki/民視" title="wikilink">民視</a></p></td>
 <td><p><a href="../Page/綜藝大集合.md" title="wikilink">綜藝大集合</a></p></td>
 <td><p>宜蘭-冬山 中秋特別節目</p></td>
-<td><p><strong>Sun Lady</strong>、<a href="https://zh.wikipedia.org/wiki/張文綺" title="wikilink">張文綺</a>、<a href="https://zh.wikipedia.org/wiki/江莛鈞" title="wikilink">Terry</a>、<a href="https://zh.wikipedia.org/wiki/語飛" title="wikilink">語飛</a>、<a href="https://zh.wikipedia.org/wiki/王上豪" title="wikilink">王上豪</a></p></td>
+<td><p><strong>Sun Lady</strong>、<a href="https://zh.wikipedia.org/wiki/張文綺" title="wikilink">張文綺</a>、<a href="https://zh.wikipedia.org/wiki/江莛鈞" title="wikilink">Terry</a>、<a href="https://zh.wikipedia.org/wiki/語飛" title="wikilink">語飛</a>、<a href="../Page/王上豪.md" title="wikilink">王上豪</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014-10-16</p></td>
@@ -479,7 +479,7 @@ Lady正式解散。
 <td><p>農來趣淘嘉年華<br />
 103年中壢市休閒農業暨資源回收宣導活動</p></td>
 <td><p>中壢市中正公園</p></td>
-<td><p><strong>Sun Lady</strong>、<a href="https://zh.wikipedia.org/wiki/李玉璽" title="wikilink">李玉璽</a>、<a href="https://zh.wikipedia.org/wiki/陳彥允" title="wikilink">陳彥允</a>、<a href="https://zh.wikipedia.org/wiki/畢書盡" title="wikilink">畢書盡</a>、<a href="../Page/朱俐靜.md" title="wikilink">朱俐靜</a>、<a href="https://zh.wikipedia.org/wiki/陳勢安" title="wikilink">陳勢安</a></p></td>
+<td><p><strong>Sun Lady</strong>、<a href="../Page/李玉璽.md" title="wikilink">李玉璽</a>、<a href="https://zh.wikipedia.org/wiki/陳彥允" title="wikilink">陳彥允</a>、<a href="https://zh.wikipedia.org/wiki/畢書盡" title="wikilink">畢書盡</a>、<a href="../Page/朱俐靜.md" title="wikilink">朱俐靜</a>、<a href="https://zh.wikipedia.org/wiki/陳勢安" title="wikilink">陳勢安</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014-9-27</p></td>
@@ -497,7 +497,7 @@ Lady正式解散。
 <tr class="odd">
 <td><p>2014-10-12</p></td>
 <td><p>活動主持人：<a href="https://zh.wikipedia.org/wiki/圓圓_(藝人)" title="wikilink">圓圓</a>、<a href="../Page/劉俊峰.md" title="wikilink">劉俊峰</a><br />
-表演名單：<strong>Sun Lady</strong>、<a href="https://zh.wikipedia.org/wiki/家家" title="wikilink">家家</a>、<a href="https://zh.wikipedia.org/wiki/王詩安" title="wikilink">王詩安</a>、<a href="https://zh.wikipedia.org/wiki/畢書盡" title="wikilink">畢書盡</a>、<a href="https://zh.wikipedia.org/wiki/李玉璽" title="wikilink">李玉璽</a>、<a href="../Page/朱俐靜.md" title="wikilink">朱俐靜</a><br />
+表演名單：<strong>Sun Lady</strong>、<a href="https://zh.wikipedia.org/wiki/家家" title="wikilink">家家</a>、<a href="https://zh.wikipedia.org/wiki/王詩安" title="wikilink">王詩安</a>、<a href="https://zh.wikipedia.org/wiki/畢書盡" title="wikilink">畢書盡</a>、<a href="../Page/李玉璽.md" title="wikilink">李玉璽</a>、<a href="../Page/朱俐靜.md" title="wikilink">朱俐靜</a><br />
 <a href="../Page/MP魔幻力量.md" title="wikilink">MP魔幻力量</a></p></td>
 <td></td>
 <td></td>
@@ -541,8 +541,8 @@ Lady正式解散。
 103學年度迎新演唱會</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/德霖技術學院" title="wikilink">德霖技術學院</a></p></td>
 <td><p>主持人：<a href="https://zh.wikipedia.org/wiki/辰大天" title="wikilink">辰大天</a><br />
-表演名單：<a href="../Page/周定緯.md" title="wikilink">周定緯</a>、<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>、<a href="https://zh.wikipedia.org/wiki/頑童MJ116" title="wikilink">頑童MJ116</a>、<a href="../Page/徐佳瑩.md" title="wikilink">徐佳瑩</a>、<a href="https://zh.wikipedia.org/wiki/玖壹壹" title="wikilink">玖壹壹</a>、<a href="../Page/卓文萱.md" title="wikilink">卓文萱</a>、<strong>Sun Lady</strong><br />
-<a href="../Page/謝和弦.md" title="wikilink">謝和弦</a>、<a href="../Page/曾沛慈.md" title="wikilink">曾沛慈</a>、<a href="https://zh.wikipedia.org/wiki/于文文" title="wikilink">于文文</a>、<a href="../Page/MP魔幻力量.md" title="wikilink">MP魔幻力量</a></p></td>
+表演名單：<a href="../Page/周定緯.md" title="wikilink">周定緯</a>、<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>、<a href="../Page/頑童MJ116.md" title="wikilink">頑童MJ116</a>、<a href="../Page/徐佳瑩.md" title="wikilink">徐佳瑩</a>、<a href="https://zh.wikipedia.org/wiki/玖壹壹" title="wikilink">玖壹壹</a>、<a href="../Page/卓文萱.md" title="wikilink">卓文萱</a>、<strong>Sun Lady</strong><br />
+<a href="../Page/謝和弦.md" title="wikilink">謝和弦</a>、<a href="../Page/曾沛慈.md" title="wikilink">曾沛慈</a>、<a href="../Page/于文文.md" title="wikilink">于文文</a>、<a href="../Page/MP魔幻力量.md" title="wikilink">MP魔幻力量</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2014-12-14</p></td>
@@ -555,7 +555,7 @@ Lady正式解散。
 <td><p>跨年嗨Five摩幻煙火秀</p></td>
 <td><p>美麗華1樓水舞廣場</p></td>
 <td><p>主持人：<a href="https://zh.wikipedia.org/wiki/大愷" title="wikilink">大愷</a><br />
-表演名單：<strong>Sun Lady</strong>、<a href="../Page/慢慢說樂團.md" title="wikilink">慢慢說樂團</a>(<a href="../Page/利得彙.md" title="wikilink">利得彙</a>、<a href="https://zh.wikipedia.org/wiki/沈志方" title="wikilink">沈志方</a>)、<a href="https://zh.wikipedia.org/wiki/李玉璽" title="wikilink">李玉璽</a>、<a href="../Page/林凡.md" title="wikilink">林凡</a>、<a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a><br />
+表演名單：<strong>Sun Lady</strong>、<a href="../Page/慢慢說樂團.md" title="wikilink">慢慢說樂團</a>(<a href="../Page/利得彙.md" title="wikilink">利得彙</a>、<a href="https://zh.wikipedia.org/wiki/沈志方" title="wikilink">沈志方</a>)、<a href="../Page/李玉璽.md" title="wikilink">李玉璽</a>、<a href="../Page/林凡.md" title="wikilink">林凡</a>、<a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a><br />
 <a href="https://zh.wikipedia.org/wiki/陳零九" title="wikilink">陳零九</a>、<a href="../Page/李昶俊.md" title="wikilink">Echo</a></p></td>
 </tr>
 <tr class="even">

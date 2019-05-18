@@ -30,7 +30,7 @@ LG3采用[反沖作用式自动原理](../Page/反沖作用_\(槍械\).md "wikil
 
 ### 榴弹发射器的击发机构
 
-击发机构中的[击锤](https://zh.wikipedia.org/wiki/击锤 "wikilink")、击锤簧、阻铁、拉杆随击锤座安装在机匣内居左位置，击针、击发杠杆、到位保险则设置于枪机上。发射时，向前推压击发板，并通过推杆和拉杆的传动令阻铁旋转一定角度，击锤得以解脱；并在击锤簧的作用以下快速向后运动，打击击发杠杆，使之转动撞击击针，击发底火。
+击发机构中的[击锤](../Page/击锤.md "wikilink")、击锤簧、阻铁、拉杆随击锤座安装在机匣内居左位置，击针、击发杠杆、到位保险则设置于枪机上。发射时，向前推压击发板，并通过推杆和拉杆的传动令阻铁旋转一定角度，击锤得以解脱；并在击锤簧的作用以下快速向后运动，打击击发杠杆，使之转动撞击击针，击发底火。
 
 ### 榴弹发射器的供弹机构
 
@@ -78,8 +78,8 @@ LG3型40毫米自动榴弹发射器的外形尺寸仅为1,030毫米×229毫米×
 
 LG3自动榴弹发射器在2,200米距离上连发射击一组10发榴弹，散布范围一般在9×50米内，最小散布范围仅为4×20米。发射器的射击精度如此之高，是由以下几个因素决定：
 
-1.  采用了自由枪机、惯性闭锁机构，[枪机的质心位置与枪管轴线基本重合](https://zh.wikipedia.org/wiki/枪机 "wikilink")，射击时产生的纵向扭矩很小。
-2.  采用了双向[液压缓冲器](https://zh.wikipedia.org/wiki/液压缓冲器 "wikilink")，[枪机重量较小](https://zh.wikipedia.org/wiki/枪机 "wikilink")，枪机复进和后坐到位的冲击小，有利于射击精度的提高。而美国[Mk
+1.  采用了自由枪机、惯性闭锁机构，[枪机的质心位置与枪管轴线基本重合](../Page/枪机.md "wikilink")，射击时产生的纵向扭矩很小。
+2.  采用了双向[液压缓冲器](https://zh.wikipedia.org/wiki/液压缓冲器 "wikilink")，[枪机重量较小](../Page/枪机.md "wikilink")，枪机复进和后坐到位的冲击小，有利于射击精度的提高。而美国[Mk
     19 Mod
     3型发射器无液压缓冲器](../Page/Mk_19自動榴彈發射器.md "wikilink")，枪机重量较大，枪机复进和后坐到位的冲击大，对射击精度不利。
 3.  武器的射速和[三脚架的刚度匹配较合理](https://zh.wikipedia.org/wiki/三脚架 "wikilink")。另外，发射器采用了闭膛待击的击发机构。闭膛待击与美国[Mk
@@ -143,12 +143,12 @@ LG3配用的弹药主要有新研制的杀伤弹、破甲杀伤弹、训练弹�
   - [97式枪挂榴彈發射器](https://zh.wikipedia.org/wiki/97式枪挂榴彈發射器 "wikilink")
   - [04式自动榴弹发射器](../Page/04式自动榴弹发射器.md "wikilink")（QLZ-04）
   - [06式半自動榴彈發射器](../Page/06式半自動榴彈發射器.md "wikilink")（QLB-06）
-  - [10／10A式枪挂榴弹发射器](https://zh.wikipedia.org/wiki/10式枪挂榴弹发射器 "wikilink")（QLG-10／QLG-10A）
-  - [11式狙击榴弹发射器](https://zh.wikipedia.org/wiki/11式狙击榴弹发射器 "wikilink")（QLU-11）
+  - [10／10A式枪挂榴弹发射器](../Page/10式枪挂榴弹发射器.md "wikilink")（QLG-10／QLG-10A）
+  - [11式狙击榴弹发射器](../Page/11式狙击榴弹发射器.md "wikilink")（QLU-11）
   - [LG1／LG2枪挂式榴弹发射器](https://zh.wikipedia.org/wiki/LG1枪挂榴弹发射器 "wikilink")
-  - [LG4转轮式榴弹发射器](https://zh.wikipedia.org/wiki/LG4转轮式榴弹发射器 "wikilink")
-  - [LG5狙击榴弹发射器](https://zh.wikipedia.org/wiki/LG5狙击榴弹发射器 "wikilink")
-  - [LG6半自动榴弹发射器](https://zh.wikipedia.org/wiki/LG6半自动榴弹发射器 "wikilink")
+  - [LG4转轮式榴弹发射器](../Page/LG4转轮式榴弹发射器.md "wikilink")
+  - [LG5狙击榴弹发射器](../Page/LG5狙击榴弹发射器.md "wikilink")
+  - [LG6半自动榴弹发射器](../Page/LG6半自动榴弹发射器.md "wikilink")
   - [M75](../Page/M75自動榴彈發射器.md "wikilink")、[M129](https://zh.wikipedia.org/wiki/M129自動榴彈發射器 "wikilink")
   - [Mk 19](../Page/Mk_19自動榴彈發射器.md "wikilink")、[Mk
     47](../Page/Mk_47自動榴彈發射器.md "wikilink")

@@ -30,7 +30,7 @@ Virtual Machine Manager以「virt-manager」為名的軟體包在下列發行版
 
   - [Mandriva Linux](../Page/Mandriva_Linux.md "wikilink")（自2007年1月的版本起）
 
-  - [openSUSE](../Page/openSUSE.md "wikilink")（自10.3版起提供）
+  - [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")（自10.3版起提供）
 
   - [PC-BSD](https://zh.wikipedia.org/wiki/PC-BSD "wikilink")
 

@@ -1,5 +1,5 @@
 **SMTOWN Live '10 World
-Tour**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[SM娛樂從](../Page/SM娛樂.md "wikilink")2010至2011年舉辦，旗下藝人的聯合世界巡迴演唱會。這次巡演在六個城市進行，分別在[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")、[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[巴黎及](../Page/巴黎.md "wikilink")[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")。
+Tour**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[SM娛樂從](../Page/SM娛樂.md "wikilink")2010至2011年舉辦，旗下藝人的聯合世界巡迴演唱會。這次巡演在六個城市進行，分別在[首爾](../Page/首爾.md "wikilink")、[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[巴黎及](../Page/巴黎.md "wikilink")[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")。
 
 ## 歷程
 
@@ -25,7 +25,7 @@ Hobelman捕捉當晚的表演。該站被製成電影以3D形式上映和還以�
 </tr>
 <tr class="even">
 <td><p>2010年8月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a> [1]</p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a> [1]</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蠶室綜合運動場" title="wikilink">蠶室綜合運動場主體育場</a></p></td>
 <td><p>40,000名</p></td>
@@ -161,7 +161,7 @@ Hobelman捕捉當晚的表演。該站被製成電影以3D形式上映和還以�
     （[太妍](../Page/太妍.md "wikilink")、[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
   - [SHINee](../Page/SHINee.md "wikilink")
     （[溫流](../Page/溫流.md "wikilink")、[鐘鉉](../Page/鐘鉉.md "wikilink")、[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")、[珉豪](../Page/珉豪.md "wikilink")、[泰民](../Page/泰民.md "wikilink")）
-  - [f(x)](../Page/f\(x\)_\(組合\).md "wikilink")
+  - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
     （[Victoria](../Page/宋茜.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna](../Page/朴善英.md "wikilink")、[Sulli](https://zh.wikipedia.org/wiki/崔雪莉 "wikilink")、[Krystal](../Page/鄭秀晶.md "wikilink")）
 
 <!-- end list -->

@@ -56,13 +56,13 @@ Velvet出道](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。2016年至2
       - [泰一](https://zh.wikipedia.org/wiki/文泰一 "wikilink")
       - [泰容](https://zh.wikipedia.org/wiki/李泰容 "wikilink")
       - [悠太](https://zh.wikipedia.org/wiki/中本悠太 "wikilink")
-      - [道英](https://zh.wikipedia.org/wiki/道英 "wikilink")
-      - [Ten](https://zh.wikipedia.org/wiki/Ten_\(歌手\) "wikilink")
+      - [道英](../Page/道英.md "wikilink")
+      - [Ten](../Page/Ten_\(歌手\).md "wikilink")
       - [在玹](https://zh.wikipedia.org/wiki/鄭允午 "wikilink")
       - [昀昀](https://zh.wikipedia.org/wiki/董思成 "wikilink")
       - [Mark](https://zh.wikipedia.org/wiki/Mark_\(1999年\) "wikilink")
       - [Jeno](https://zh.wikipedia.org/wiki/李帝努 "wikilink")
-      - 東赫（以NCT出道後改藝名為[楷燦](https://zh.wikipedia.org/wiki/楷燦 "wikilink")）
+      - 東赫（以NCT出道後改藝名為[楷燦](../Page/楷燦.md "wikilink")）
       - [渽民](https://zh.wikipedia.org/wiki/羅渽民 "wikilink")
       - [志晟](https://zh.wikipedia.org/wiki/朴志晟 "wikilink")
 
@@ -73,7 +73,7 @@ Velvet出道](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。2016年至2
 <!-- end list -->
 
   - [NCT](../Page/NCT.md "wikilink")
-      - [Johnny](https://zh.wikipedia.org/wiki/徐煐淏 "wikilink")
+      - [Johnny](../Page/徐煐淏.md "wikilink")
 
 <!-- end list -->
 
@@ -84,7 +84,7 @@ Velvet出道](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。2016年至2
   - [NCT](../Page/NCT.md "wikilink")
       - [錕](https://zh.wikipedia.org/wiki/錕 "wikilink")
       - [廷祐](https://zh.wikipedia.org/wiki/廷祐 "wikilink")
-      - [Lucas](https://zh.wikipedia.org/wiki/黃旭熙 "wikilink")
+      - [Lucas](../Page/黃旭熙.md "wikilink")
 
 <!-- end list -->
 
@@ -105,7 +105,7 @@ Velvet出道](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。2016年至2
 
   - 韓率
       - 10月28日起参加KBS偶像选秀节目《[The
-        Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》，确认离开。
+        Unit](../Page/The_Unit.md "wikilink")》，确认离开。
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@ Velvet出道](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。2016年至2
 **2018年**
 
   - [藝洋](https://zh.wikipedia.org/wiki/徐藝洋 "wikilink")
-      - 9月19日在开设個人微博并表示已經離開，並於10月10日由龍韜娛樂宣佈加入該公司，此后参加中国[东方卫视选秀节目](../Page/东方卫视.md "wikilink")《[中国梦之声·下一站传奇](https://zh.wikipedia.org/wiki/中国梦之声·下一站传奇 "wikilink")》。
+      - 9月19日在开设個人微博并表示已經離開，並於10月10日由龍韜娛樂宣佈加入該公司，此后参加中国[东方卫视选秀节目](../Page/东方卫视.md "wikilink")《[中国梦之声·下一站传奇](../Page/中国梦之声·下一站传奇.md "wikilink")》。
 
 ### 成员变迁
 
@@ -370,12 +370,12 @@ BackgroundColors = bars:bars
 
 ### 固定節目
 
-| 播出年份           | 電視台                                                   | 節目名稱                                                      | 參與練習生                                     |
-| -------------- | ----------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------- |
-| 2014年          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | EXO 90:2014                                               | 韓率、Johnny、泰容、悠太、Ten、在玹、Mark、Jeno、東赫、渽民、志晟 |
-| 2015年          | [JTBC](../Page/JTBC.md "wikilink")                    | [非首腦會談](https://zh.wikipedia.org/wiki/非首脑会谈 "wikilink")   | 悠太                                        |
-| Disney Channel | The Mickey Mouse Club                                 | 高恩、Mark、Hina、Jeno、東赫、渽民、志晟、Herin、Lami                     |                                           |
-| 2016年          | [優酷](https://zh.wikipedia.org/wiki/优酷网 "wikilink")    | [My SMT](https://zh.wikipedia.org/wiki/My_SMT "wikilink") | Johnny、藝洋、高恩、Hina、寧寧                      |
+| 播出年份           | 電視台                                                   | 節目名稱                                                    | 參與練習生                                     |
+| -------------- | ----------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------- |
+| 2014年          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | EXO 90:2014                                             | 韓率、Johnny、泰容、悠太、Ten、在玹、Mark、Jeno、東赫、渽民、志晟 |
+| 2015年          | [JTBC](../Page/JTBC.md "wikilink")                    | [非首腦會談](https://zh.wikipedia.org/wiki/非首脑会谈 "wikilink") | 悠太                                        |
+| Disney Channel | The Mickey Mouse Club                                 | 高恩、Mark、Hina、Jeno、東赫、渽民、志晟、Herin、Lami                   |                                           |
+| 2016年          | [優酷](https://zh.wikipedia.org/wiki/优酷网 "wikilink")    | [My SMT](../Page/My_SMT.md "wikilink")                  | Johnny、藝洋、高恩、Hina、寧寧                      |
 
 影片請看：[EXO 902014
 MV](https://www.youtube.com/playlist?list=PLodoZuJm1S5i4nHwwka91UITIgxRVOH6N)
@@ -398,7 +398,7 @@ MV](https://www.youtube.com/playlist?list=PLodoZuJm1S5i4nHwwka91UITIgxRVOH6N)
 </tr>
 <tr class="odd">
 <td><p>Ep2</p></td>
-<td><p><a href="../Page/SUHO.md" title="wikilink">SUHO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SUHO" title="wikilink">SUHO</a></p></td>
 <td><p>Ten</p></td>
 <td><p>friday night<br />
 god - Dear Mom</p></td>
@@ -592,10 +592,10 @@ Shinhwa - Yo!</p></td>
 
 ### 節目主持
 
-| 播出日期              | 電視台                                                       | 節目名稱                                                      | 參與練習生  | 備註                                                                                                                                                                      |
-| ----------------- | --------------------------------------------------------- | --------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2015年1月21日-7月1日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") Music | [Show Champion](../Page/Show_Champion.md "wikilink")      | 道英、在玹  | \[6\]                                                                                                                                                                   |
-| 2016年9月19日-12月11日 | [優酷](https://zh.wikipedia.org/wiki/优酷网 "wikilink")        | [My SMT](https://zh.wikipedia.org/wiki/My_SMT "wikilink") | Johnny | 與[利特](../Page/利特.md "wikilink")（[Super Junior](../Page/Super_Junior.md "wikilink")）、[道英](https://zh.wikipedia.org/wiki/道英 "wikilink")（[NCT](../Page/NCT.md "wikilink")） |
+| 播出日期              | 電視台                                                       | 節目名稱                                                 | 參與練習生  | 備註                                                                                                                                                   |
+| ----------------- | --------------------------------------------------------- | ---------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2015年1月21日-7月1日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") Music | [Show Champion](../Page/Show_Champion.md "wikilink") | 道英、在玹  | \[6\]                                                                                                                                                |
+| 2016年9月19日-12月11日 | [優酷](https://zh.wikipedia.org/wiki/优酷网 "wikilink")        | [My SMT](../Page/My_SMT.md "wikilink")               | Johnny | 與[利特](../Page/利特.md "wikilink")（[Super Junior](../Page/Super_Junior.md "wikilink")）、[道英](../Page/道英.md "wikilink")（[NCT](../Page/NCT.md "wikilink")） |
 
 ### 雜誌寫真
 

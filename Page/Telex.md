@@ -49,7 +49,7 @@ Telex机构希望西方大型的互联网提供商和电信公司会在未来陆
 ## 知名度
 
 Telex軟件在著名電腦科技網站[Ars
-Technica上有被報導](https://zh.wikipedia.org/wiki/Ars_Technica "wikilink")。\[30\]並且在第二十屆[USENIX安全座谈会上獲得二等獎](https://zh.wikipedia.org/wiki/USENIX "wikilink")。\[31\]
+Technica上有被報導](../Page/Ars_Technica.md "wikilink")。\[30\]並且在第二十屆[USENIX安全座谈会上獲得二等獎](../Page/USENIX.md "wikilink")。\[31\]
 
 ## 參考資料
 

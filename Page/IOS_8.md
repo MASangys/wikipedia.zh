@@ -1,8 +1,8 @@
 **iOS
-8**是[美國](../Page/美国.md "wikilink")[蘋果公司旗下](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")[iOS的第八個主要版本](../Page/iOS.md "wikilink")，取代前代作業系統[iOS
-7](../Page/iOS_7.md "wikilink")。iOS
+8**是[美國](../Page/美国.md "wikilink")[蘋果公司旗下](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")[iOS的第八個主要版本](https://zh.wikipedia.org/wiki/iOS "wikilink")，取代前代作業系統[iOS
+7](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")。iOS
 8於2014年6月的[WWDC大會中首次公布](https://zh.wikipedia.org/wiki/WWDC "wikilink")，並於同年9月17日正式推出。繼任者為2015年9月16日推出的[iOS
-9](../Page/iOS_9.md "wikilink")\[1\]。
+9](https://zh.wikipedia.org/wiki/iOS_9 "wikilink")\[1\]。
 
 iOS 8做出了許多重大的改變。iOS
 8再度對使用者介面進行變更\[2\]，並首次引入[接續互通功能體系](https://zh.wikipedia.org/wiki/接續互通 "wikilink")，能不間斷的銜接[蘋果裝置的作業](https://zh.wikipedia.org/wiki/蘋果裝置 "wikilink")。接續互通包括Handoff，能在不同裝置間同步[應用程式作業](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，包括撰寫郵件及瀏覽網站等；通用剪貼板功能，能在不同裝置間同步[拷貝的文字](https://zh.wikipedia.org/wiki/复制 "wikilink")、圖片或其他內容；行動網路通話功能，在同一環境下能使用[Mac接聽](https://zh.wikipedia.org/wiki/Macintosh "wikilink")、撥打電話；及Instant
@@ -55,8 +55,8 @@ Pay的支援](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")，在設定「
 #### 8.1.1
 
 iOS 8.1.1於2014年11月17日發布。此更新改進了舊版裝置如[iPad
-2和](../Page/iPad_2.md "wikilink")[iPhone
-4s的穩定性和執行效能](../Page/iPhone_4s.md "wikilink")，並修正部分錯誤\[40\]\[41\]\[42\]。
+2和](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")[iPhone
+4s的穩定性和執行效能](https://zh.wikipedia.org/wiki/iPhone_4s "wikilink")，並修正部分錯誤\[40\]\[41\]\[42\]。
 
 #### 8.1.2
 
@@ -101,11 +101,11 @@ Music的穩定性，並修復了包括[越獄工具](../Page/越獄_\(iOS\).md "
 
 iOS
 8首度引入[接續互通功能體系](https://zh.wikipedia.org/wiki/接續互通 "wikilink")，能不間斷的銜接[蘋果裝置的作業](https://zh.wikipedia.org/wiki/蘋果裝置 "wikilink")。接續互通包括Handoff功能，能透過[無線網路或](../Page/无线网络.md "wikilink")[行動數據在不同裝置間同步應用程式作業](https://zh.wikipedia.org/wiki/行動數據 "wikilink")。在切換應用程式時，iOS
-8会自动在多工處理界面上显示出用户近期在其它裝置上使用的應用程式，以便用户開啟應用程式继续作業\[72\]\[73\]\[74\]；通用剪貼板功能，能在不同裝置間同步[拷貝的文字](https://zh.wikipedia.org/wiki/复制 "wikilink")、圖片或其他內容\[75\]\[76\]\[77\]；行動網路通話功能，在同一環境下能使用[Mac或](https://zh.wikipedia.org/wiki/Macintosh "wikilink")[iPad接聽](../Page/iPad.md "wikilink")、撥打電話\[78\]\[79\]\[80\]；及Instant
+8会自动在多工處理界面上显示出用户近期在其它裝置上使用的應用程式，以便用户開啟應用程式继续作業\[72\]\[73\]\[74\]；通用剪貼板功能，能在不同裝置間同步[拷貝的文字](https://zh.wikipedia.org/wiki/复制 "wikilink")、圖片或其他內容\[75\]\[76\]\[77\]；行動網路通話功能，在同一環境下能使用[Mac或](https://zh.wikipedia.org/wiki/Macintosh "wikilink")[iPad接聽](https://zh.wikipedia.org/wiki/iPad "wikilink")、撥打電話\[78\]\[79\]\[80\]；及Instant
 Hotspot功能，能透過Mac開啟iPhone[熱點](https://zh.wikipedia.org/wiki/热点_\(Wi-Fi\) "wikilink")\[81\]\[82\]\[83\]。
 
 由於軟體因素，接續互通只支援搭载iOS 8和[OS X
-Yosemite以上版本系统的裝置](https://zh.wikipedia.org/wiki/OS_X_Yosemite "wikilink")\[84\]\[85\]\[86\]\[87\]。
+Yosemite以上版本系统的裝置](../Page/OS_X_Yosemite.md "wikilink")\[84\]\[85\]\[86\]\[87\]。
 
 ### Spotlight
 
@@ -116,7 +116,7 @@ Store媒體內容等](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")\[88
 ### 通知中心
 
 iOS
-8的通知中心經過了重新設計，新增了[小工具功能](https://zh.wikipedia.org/wiki/Widget "wikilink")。第三方應用程式可開發附屬小工具，並由用戶加入通知中心。小工具不必透過應用程式即可顯示部分資訊，例如[ESPN運動比賽分數或](../Page/ESPN.md "wikilink")[eBay的競標資訊等](../Page/eBay.md "wikilink")。用户可以自由添加、移除小工具並排列次序\[90\]\[91\]\[92\]。
+8的通知中心經過了重新設計，新增了[小工具功能](https://zh.wikipedia.org/wiki/Widget "wikilink")。第三方應用程式可開發附屬小工具，並由用戶加入通知中心。小工具不必透過應用程式即可顯示部分資訊，例如[ESPN運動比賽分數或](../Page/ESPN.md "wikilink")[eBay的競標資訊等](https://zh.wikipedia.org/wiki/eBay "wikilink")。用户可以自由添加、移除小工具並排列次序\[90\]\[91\]\[92\]。
 
 出現於螢幕上緣的橫幅通知訊息現在加入了直接回覆功能，用戶可在不切換應用程式的情況下直接在通知橫幅中回覆簡訊、將電子郵件刪除或標示為已讀等\[93\]。
 
@@ -132,7 +132,7 @@ iOS
 ### 家人共享
 
 iOS 8首度引入家人共享功能，只要共同使用iOS 8和[OS X
-Yosemite以上版本系统的裝置](https://zh.wikipedia.org/wiki/OS_X_Yosemite "wikilink")，用户可以與最多6名家庭成员共同分享使用同一张[信用卡购买的應用程式](../Page/信用卡.md "wikilink")、[音乐及](../Page/音乐.md "wikilink")[电子书等數位內容](https://zh.wikipedia.org/wiki/电子书 "wikilink")，不需輸入個別的帳號及密碼\[103\]\[104\]\[105\]。不過，未成年成員無法看見成人購買的內容\[106\]。
+Yosemite以上版本系统的裝置](../Page/OS_X_Yosemite.md "wikilink")，用户可以與最多6名家庭成员共同分享使用同一张[信用卡购买的應用程式](../Page/信用卡.md "wikilink")、[音乐及](../Page/音乐.md "wikilink")[电子书等數位內容](https://zh.wikipedia.org/wiki/电子书 "wikilink")，不需輸入個別的帳號及密碼\[103\]\[104\]\[105\]。不過，未成年成員無法看見成人購買的內容\[106\]。
 
 家人共享功能也延伸至內建應用程式中，例如为所有家庭成员自动建立的相片串流，及自動同步的[行事历等](https://zh.wikipedia.org/wiki/行事曆_\(應用程式\) "wikilink")\[107\]\[108\]。未成年成員也可以藉由[App
 Store](../Page/App_Store_\(iOS\).md "wikilink")、[iTunes
@@ -144,7 +144,7 @@ Store等商店介面向家长传送购买请求](https://zh.wikipedia.org/wiki/i
 
 首次支援免授權行動存取，即[Wi-Fi通話功能](https://zh.wikipedia.org/wiki/Wi-Fi通話 "wikilink")，電信業者可自行決定是否啟用\[113\]\[114\]\[115\]\[116\]。
 
-內建[語音助理](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")[Siri現在支援](../Page/Siri.md "wikilink")[Shazam歌曲辨識功能](https://zh.wikipedia.org/wiki/Shazam_\(服務\) "wikilink")\[117\]。
+內建[語音助理](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")[Siri現在支援](../Page/Siri.md "wikilink")[Shazam歌曲辨識功能](../Page/Shazam_\(服務\).md "wikilink")\[117\]。
 
 ## 應用程式新增功能
 
@@ -154,13 +154,13 @@ Store等商店介面向家长传送购买请求](https://zh.wikipedia.org/wiki/i
 
 #### 相機
 
-相機應用程式首次支援[縮時攝影模式](../Page/縮時攝影.md "wikilink")，能以每秒一幀的[幀率錄製影片](https://zh.wikipedia.org/wiki/幀率 "wikilink")，並以正常影片速率播放；此外，新增的[倒數計時器可延迟拍攝三至十秒](https://zh.wikipedia.org/wiki/倒數計時 "wikilink")\[118\]\[119\]。原先只在[iPhone及](../Page/iPhone.md "wikilink")[iPod
-touch出現的](../Page/iPod_touch.md "wikilink")[全景拍攝模式](../Page/全景图.md "wikilink")，現在也支援[iPad](../Page/iPad.md "wikilink")\[120\]。
+相機應用程式首次支援[縮時攝影模式](../Page/縮時攝影.md "wikilink")，能以每秒一幀的[幀率錄製影片](https://zh.wikipedia.org/wiki/幀率 "wikilink")，並以正常影片速率播放；此外，新增的[倒數計時器可延迟拍攝三至十秒](https://zh.wikipedia.org/wiki/倒數計時 "wikilink")\[118\]\[119\]。原先只在[iPhone及](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPod
+touch出現的](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")[全景拍攝模式](../Page/全景图.md "wikilink")，現在也支援[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")\[120\]。
 
 #### iCloud相片圖庫
 
 iOS
-8引入了「iCloud相片圖庫」功能，能在登入同一[iCloud帳號的裝置間同步相片](../Page/iCloud.md "wikilink")。由於相片及影片皆以最高品質上傳，因此用戶可設定僅保留與該裝置螢幕大小相符的[快取版本](../Page/缓存.md "wikilink")，藉以減少檔案佔據的儲存空間\[121\]\[122\]。
+8引入了「iCloud相片圖庫」功能，能在登入同一[iCloud帳號的裝置間同步相片](https://zh.wikipedia.org/wiki/iCloud "wikilink")。由於相片及影片皆以最高品質上傳，因此用戶可設定僅保留與該裝置螢幕大小相符的[快取版本](../Page/缓存.md "wikilink")，藉以減少檔案佔據的儲存空間\[121\]\[122\]。
 
 #### 編輯功能
 
@@ -187,7 +187,7 @@ iOS
 ### iCloud Drive
 
 iCloud
-Drive是苹果提供的[雲端硬碟服务](https://zh.wikipedia.org/wiki/雲端硬碟 "wikilink")。这项新功能允许用户透過[iCloud用戶端應用程式及網站](../Page/iCloud.md "wikilink")，跨平台存取相片、影片、文件及音乐等數位內容\[140\]\[141\]。
+Drive是苹果提供的[雲端硬碟服务](https://zh.wikipedia.org/wiki/雲端硬碟 "wikilink")。这项新功能允许用户透過[iCloud用戶端應用程式及網站](https://zh.wikipedia.org/wiki/iCloud "wikilink")，跨平台存取相片、影片、文件及音乐等數位內容\[140\]\[141\]。
 
 ### App Store
 
@@ -204,7 +204,8 @@ iOS
 iOS
 8首次引入HomeKit[軟體框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，供開發者開發與控制[物聯網裝置相關軟體](../Page/物联网.md "wikilink")\[147\]。任何物聯網裝置想取得HomeKit支援都必須先通過蘋果的認證\[148\]，並在硬體內加入加密的協同處理器以保護用戶資料\[149\]\[150\]。
 
-在[iOS 10中](../Page/iOS_10.md "wikilink")，與HomeKit相關的功能整合為家庭應用程式\[151\]。
+在[iOS
+10中](https://zh.wikipedia.org/wiki/iOS_10 "wikilink")，與HomeKit相關的功能整合為家庭應用程式\[151\]。
 
 ### 音樂
 
@@ -236,7 +237,8 @@ ID](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")\[159\]。
 
 ### 提示
 
-iOS 8新增提示應用程式，定期提供關於[iOS的小知識](../Page/iOS.md "wikilink")\[160\]。
+iOS
+8新增提示應用程式，定期提供關於[iOS的小知識](https://zh.wikipedia.org/wiki/iOS "wikilink")\[160\]。
 
 ### 與大中華地區相關的新設計
 
@@ -267,42 +269,45 @@ iOS 8.2正式版推出後，部分用戶回報裝置出現缺字，事後發現�
 
 ## 支援裝置
 
-由於硬體限制，[iPhone 4無法升級至iOS](../Page/iPhone_4.md "wikilink")
+由於硬體限制，[iPhone
+4無法升級至iOS](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")
 8\[178\]\[179\]。
 
 ### iPhone
 
-  - [iPhone 4s](../Page/iPhone_4s.md "wikilink")
-  - [iPhone 5](../Page/iPhone_5.md "wikilink")
-  - [iPhone 5c](../Page/iPhone_5c.md "wikilink")
-  - [iPhone 5s](../Page/iPhone_5s.md "wikilink")
+  - [iPhone 4s](https://zh.wikipedia.org/wiki/iPhone_4s "wikilink")
+  - [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")
+  - [iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c "wikilink")
+  - [iPhone 5s](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")
   - [iPhone 6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")
   - [iPhone 6
     Plus](https://zh.wikipedia.org/wiki/iPhone_6_Plus "wikilink")
 
 ### iPod touch
 
-  - [iPod touch (第五代)](../Page/iPod_touch_\(第五代\).md "wikilink")
-  - [iPod touch (第六代)](../Page/iPod_touch_\(第六代\).md "wikilink")
+  - [iPod touch
+    (第五代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第五代\) "wikilink")
+  - [iPod touch
+    (第六代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第六代\) "wikilink")
 
 ### iPad
 
-  - [iPad 2](../Page/iPad_2.md "wikilink")
-  - [iPad (第三代)](../Page/iPad_\(第三代\).md "wikilink")
-  - [iPad (第四代)](../Page/iPad_\(第四代\).md "wikilink")
+  - [iPad 2](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")
+  - [iPad (第三代)](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")
+  - [iPad (第四代)](https://zh.wikipedia.org/wiki/iPad_\(第四代\) "wikilink")
   - [iPad Air
     (第一代)](https://zh.wikipedia.org/wiki/iPad_Air_\(第一代\) "wikilink")
   - [iPad Air 2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")
-  - [iPad mini (第一代)](../Page/iPad_mini_\(第一代\).md "wikilink")
-  - [iPad mini 2](../Page/iPad_mini_2.md "wikilink")
+  - [iPad mini
+    (第一代)](https://zh.wikipedia.org/wiki/iPad_mini_\(第一代\) "wikilink")
+  - [iPad mini 2](https://zh.wikipedia.org/wiki/iPad_mini_2 "wikilink")
   - [iPad mini 3](https://zh.wikipedia.org/wiki/iPad_mini_3 "wikilink")
 
 ## 參見
 
   - [Android
     Lollipop](https://zh.wikipedia.org/wiki/Android_Lollipop "wikilink")
-  - [Windows Phone
-    8.1](https://zh.wikipedia.org/wiki/Windows_Phone_8.1 "wikilink")
+  - [Windows Phone 8.1](../Page/Windows_Phone_8.1.md "wikilink")
 
 ## 外部連結
 

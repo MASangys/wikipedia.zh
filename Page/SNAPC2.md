@@ -2,7 +2,7 @@
 
 ## 相互作用
 
-SNAPC2会与[SNAPC4](https://zh.wikipedia.org/wiki/SNAPC4 "wikilink")\[3\]\[4\][相互作用](../Page/蛋白質交互作用.md "wikilink")。
+SNAPC2会与[SNAPC4](../Page/SNAPC4.md "wikilink")\[3\]\[4\][相互作用](../Page/蛋白質交互作用.md "wikilink")。
 
 ## 参考文献
 

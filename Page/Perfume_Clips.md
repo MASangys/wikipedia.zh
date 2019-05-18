@@ -23,7 +23,8 @@ U」"劇透Version"以及25個電視廣告。此外，DVD和Blu-ray的初回限�
     Love](https://zh.wikipedia.org/wiki/Baby_cruising_Love/Macaroni "wikilink")
 8.  [Macaroni](../Page/GAME_\(Perfume專輯\).md "wikilink")
 9.  [Secret Secret](../Page/GAME_\(Perfume專輯\).md "wikilink")
-10. [love the world](../Page/love_the_world.md "wikilink")
+10. [love the
+    world](https://zh.wikipedia.org/wiki/love_the_world "wikilink")
 11. [Dream Fighter](../Page/Dream_Fighter.md "wikilink")
 12. [One Room Disco](../Page/One_Room_Disco.md "wikilink")
 13. [I still love U](../Page/⊿_\(Perfume專輯\).md "wikilink")

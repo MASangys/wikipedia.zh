@@ -14,7 +14,7 @@ VIDEO OF THE YEAR」和「BEST GROUP VIDEO」獎項。
 
 1.  **STAY AWAY**
       -
-        演唱這首歌前，[tetsuya會有一段貝斯SOLO](../Page/tetsuya.md "wikilink")，用香蕉彈貝斯，然後把香蕉丟向歌迷。
+        演唱這首歌前，[tetsuya會有一段貝斯SOLO](https://zh.wikipedia.org/wiki/tetsuya "wikilink")，用香蕉彈貝斯，然後把香蕉丟向歌迷。
 2.  **get out from the shell**
       -
         8th原創專輯『[REAL](https://zh.wikipedia.org/wiki/REAL_\(原創專輯\) "wikilink")』收錄英文版。

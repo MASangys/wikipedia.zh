@@ -16,8 +16,7 @@ MOVIE》的主題曲，該電影的監製[五十嵐卓哉評價此曲為](../Pag
 2.  **溫柔的雨**（） \[4:17\]
       -
         作詞：Akuru Kagi，作曲：Yumi Moriguchi，編曲：
-3.  **[少女旅行者](https://zh.wikipedia.org/wiki/少女旅行者 "wikilink") (tofubeats
-    remix)** \[5:25\]
+3.  **[少女旅行者](../Page/少女旅行者.md "wikilink") (tofubeats remix)** \[5:25\]
 4.  colorful (Instrumental) \[4:30\]
 5.  溫柔的雨 (Instrumental)
 
@@ -29,13 +28,12 @@ MOVIE》的主題曲，該電影的監製[五十嵐卓哉評價此曲為](../Pag
 
   - 初回生產限定盤A
       - 『9nine Oneman Live"野音之9nine"@日比谷野外大音樂堂/2012.8.19』Live映像（）
-        1.  [koizora](https://zh.wikipedia.org/wiki/9nine_\(專輯\) "wikilink")
+        1.  [koizora](../Page/9nine_\(專輯\).md "wikilink")
         2.  [流星之吻](../Page/流星之吻_\(9nine單曲\).md "wikilink")
         3.  [走吧、走吧\!](../Page/流星之吻_\(9nine單曲\).md "wikilink")
   - 初回生產限定盤B
       - 『9nine Oneman Live"野音之9nine"@日比谷野外大音樂堂/2012.8.19』Live映像
-        1.  [9nine
-            o'clock](https://zh.wikipedia.org/wiki/9nine_\(專輯\) "wikilink")
+        1.  [9nine o'clock](../Page/9nine_\(專輯\).md "wikilink")
         2.  [困惑Confuse](../Page/SHINING☆STAR.md "wikilink")
         3.  [SHINING☆STAR](../Page/SHINING☆STAR.md "wikilink")
   - 期間限定初回仕樣盤（豪華STAR DRIVER盤）
@@ -50,7 +48,7 @@ MOVIE》的主題曲，該電影的監製[五十嵐卓哉評價此曲為](../Pag
   - 9nine成員Wide Cap貼紙（只限期間生產初仕樣盤）
   - [交換卡片](https://zh.wikipedia.org/wiki/交換卡片 "wikilink")（全6種）
   - 優先預購2013年3月10日Oneman Live『[Sun
-    Plaza之](https://zh.wikipedia.org/wiki/中野太陽廣場 "wikilink")9nine』公演門票
+    Plaza之](../Page/中野太陽廣場.md "wikilink")9nine』公演門票
 
 ## 商業合作
 

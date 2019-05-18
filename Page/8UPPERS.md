@@ -4,7 +4,7 @@
 
   - 睽違一年6個月的新專輯。
   - 收錄3首單曲的，為「[急☆上☆Show\!\!](../Page/急☆上☆Show!!.md "wikilink")」、「[Wonderful
-    World\!\!](https://zh.wikipedia.org/wiki/Wonderful_World!! "wikilink")」、「[LIFE〜目の前の向こうへ〜](https://zh.wikipedia.org/wiki/LIFE～朝著眼前的方向～ "wikilink")」
+    World\!\!](../Page/Wonderful_World!!.md "wikilink")」、「[LIFE〜目の前の向こうへ〜](https://zh.wikipedia.org/wiki/LIFE～朝著眼前的方向～ "wikilink")」
   - 初回盤的CD和通常盤的CD1收錄曲是一樣的
   - DVD特典 『8UPPERS FEATURE MUSIC FILM』的監督和脚本是中村哲平先生。
 
@@ -34,8 +34,7 @@
 8.  ほろりメロディー
       -
         作詞・作曲：TAKESHI 編曲：久米康隆 / TAKESHI ブラスアレンジ：YOKAN
-9.  [Wonderful
-    World\!\!](https://zh.wikipedia.org/wiki/Wonderful_World!! "wikilink")
+9.  [Wonderful World\!\!](../Page/Wonderful_World!!.md "wikilink")
       -
         作詞・作曲：ROADIE 編曲：久米康隆 ブラスアレンジ：YOKAN
 10. realize

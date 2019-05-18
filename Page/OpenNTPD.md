@@ -1,4 +1,4 @@
-**OpenNTPD**是一个[Unix系统](../Page/Unix.md "wikilink")[网络时间协议](https://zh.wikipedia.org/wiki/网络时间协议 "wikilink")（NTP）实现的[守护进程](../Page/守护进程.md "wikilink")，可以使计算机系统的本地时钟与远程NTP服务器同步。它也可以作为一个NTP兼容客户端的NTP服务器。
+**OpenNTPD**是一个[Unix系统](https://zh.wikipedia.org/wiki/Unix "wikilink")[网络时间协议](https://zh.wikipedia.org/wiki/网络时间协议 "wikilink")（NTP）实现的[守护进程](../Page/守护进程.md "wikilink")，可以使计算机系统的本地时钟与远程NTP服务器同步。它也可以作为一个NTP兼容客户端的NTP服务器。
 
 OpenNTPD作为[OpenBSD计划的一部分](../Page/OpenBSD.md "wikilink")，主要由[亨宁·布劳尔负责开发](https://zh.wikipedia.org/wiki/亨宁·布劳尔 "wikilink")。其设计目标包括安全（不可被[利用](https://zh.wikipedia.org/wiki/Exploit "wikilink")）、易于配置、在大多数情况足够精确及可在[BSD许可证下分发](../Page/BSD许可证.md "wikilink")[源代码](../Page/源代码.md "wikilink")。如[OpenSSH](../Page/OpenSSH.md "wikilink")，它另有一个单独的子项目来开发[可移植版本](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")，其为OpenBSD的版本添加了兼容性代码，且与主项目分开发布新版本。可移植版由[达伦·塔克开发](https://zh.wikipedia.org/wiki/达伦·塔克 "wikilink")。最新的可移植版发布于2006年。该项目的开发者得到了一些来自[OpenBSD基金会的资助](https://zh.wikipedia.org/wiki/OpenBSD基金会 "wikilink")。
 

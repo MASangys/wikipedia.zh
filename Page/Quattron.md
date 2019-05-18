@@ -23,9 +23,9 @@ Techologies總裁雷蒙德索内拉在“MaximumPC”雜誌所刊印的分析報
 
   - ，一套在傳統RGB三原色以外還把黃色也當成主色的顏色理論\[11\]
 
-  - [PenTile](https://zh.wikipedia.org/wiki/PenTile "wikilink")（一種使用或等子像素配置來表達的方法）
+  - [PenTile](../Page/PenTile.md "wikilink")（一種使用或等子像素配置來表達的方法）
 
-  - [WhiteMagic](https://zh.wikipedia.org/wiki/WhiteMagic "wikilink")
+  - [WhiteMagic](../Page/WhiteMagic.md "wikilink")
 
 ## 參考資料
 

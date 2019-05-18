@@ -26,11 +26,11 @@ GAME DESIGNERS
 STUDIO,INC.（株式会社ゲームデザイナーズ・スタジオ）这是一家专门为制作GBA平台游戏而成立的工作室\[4\]、任天堂还将负责史克威尔为其开发的电子游戏的海外推广发行等事宜。其中史克威尔计划为GBA平台提供的游戏中包括了《[新约
 圣剑传说](https://zh.wikipedia.org/wiki/新约_圣剑传说 "wikilink")》（，*Sword of
 Mana*），这是1991年发售的圣剑传说系列第一作《[聖劍傳說
-～最終幻想外傳～](../Page/聖劍傳說_～最終幻想外傳～.md "wikilink")》的[重制版本](https://zh.wikipedia.org/wiki/电子游戏重制 "wikilink")，并加入了新的游戏元素。\[5\]本作交由Brownie
+～最終幻想外傳～](../Page/聖劍傳說_～最終幻想外傳～.md "wikilink")》的[重制版本](../Page/电子游戏重制.md "wikilink")，并加入了新的游戏元素。\[5\]本作交由Brownie
 Brown开发，史克威尔负责日本地区的发行，而任天堂负责海外的发行。
 
 在此以后，Brownie
-Brown还接到开发任天堂历史遗留问题之一的《[地球冒险3](https://zh.wikipedia.org/wiki/地球冒险3 "wikilink")》（Mother
+Brown还接到开发任天堂历史遗留问题之一的《[地球冒险3](../Page/地球冒险3.md "wikilink")》（Mother
 3）重新开发任务。《地球冒险3》（当时正式名称为“”或“EarthBound
 64”）最早的开发平台是任天堂的主机平台[任天堂64的磁碟扩展外设](../Page/任天堂64.md "wikilink")[64DD](https://zh.wikipedia.org/wiki/Nintendo_64DD "wikilink")，并且是系列第一作以三维计算机图形技术制作。\[6\]但是由于64DD的商业失败和《地球冒险3》开发团队[APE在三维技术研发上的缓慢](https://zh.wikipedia.org/wiki/Creatures_\(公司\) "wikilink")，该作的发行计划被任天堂取消，研发也被停止雪藏。\[7\]在《地球冒险1+2》的合集在GBA平台上发行后获得正面反馈，《3》被系列制作人[糸井重里再次向任天堂请愿重新拾起并妥协转移到在GBA掌机平台上](../Page/糸井重里.md "wikilink")。Brownie
 Brown将原先已经制作出的游戏素材从三维转制成GBA可以运行的二维图形，并按照糸井重里撰写的新剧本来开发游戏；任天堂的第二方开发团队也是该系列开发团队之一的HAL研究所为Brownie
@@ -53,7 +53,7 @@ Mana）。这是《圣剑传说》系列继《玛娜之子》之后在[任天堂
 从此以后的一段时间之内，Brownie
 Brown的工作都是在为[第三方游戏厂商开发在任天堂DS上发行的游戏](https://zh.wikipedia.org/wiki/電玩開發立場#第三方開發廠 "wikilink")，比如由发行，与Feelplus工作室还有“最终幻想之父”[坂口博信创立的](../Page/坂口博信.md "wikilink")[霧行者工作室合作开发的](../Page/霧行者.md "wikilink")《[蓝龙Plus](https://zh.wikipedia.org/wiki/蓝龙Plus "wikilink")》（ブルードラゴン
 プラス，*Blue Dragon
-Plus*）\[14\]、由[Level-5开发发行的](../Page/Level-5.md "wikilink")《[雷顿教授与魔神之笛](https://zh.wikipedia.org/wiki/雷顿教授与魔神之笛 "wikilink")》中的“雷顿教授的伦敦生活”部分以及由[MMV发行的](https://zh.wikipedia.org/wiki/MMV "wikilink")《来福花园》（リヴリーガーデン，Livly
+Plus*）\[14\]、由[Level-5开发发行的](https://zh.wikipedia.org/wiki/Level-5 "wikilink")《[雷顿教授与魔神之笛](https://zh.wikipedia.org/wiki/雷顿教授与魔神之笛 "wikilink")》中的“雷顿教授的伦敦生活”部分以及由[MMV发行的](https://zh.wikipedia.org/wiki/MMV "wikilink")《来福花园》（リヴリーガーデン，Livly
 Garden）。
 
 在完成《蓝龙Plus》的工作后，Brownie
@@ -113,7 +113,7 @@ Sword of Mana）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/地球冒险3" title="wikilink">地球冒险3</a><br />
+<td><p><a href="../Page/地球冒险3.md" title="wikilink">地球冒险3</a><br />
 （Mother 3）</p></td>
 <td><p>Game Boy Advance</p></td>
 <td><p>Brownie Brown时期</p></td>
@@ -184,7 +184,7 @@ Livly Garden）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/前进！奇诺比奥队长" title="wikilink">前进！奇诺比奥队长</a></p></td>
+<td><p><a href="../Page/前进！奇诺比奥队长.md" title="wikilink">前进！奇诺比奥队长</a></p></td>
 <td><p>Wii U</p></td>
 <td><p>1-UP工作室时期，协助任天堂情报开发部东京分部第2小组开发</p></td>
 </tr>
@@ -196,8 +196,8 @@ Livly Garden）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/超级马里奥_奥德赛" title="wikilink">超级马里奥 奥德赛</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/任天堂Switch" title="wikilink">任天堂Switch</a></p></td>
+<td><p><a href="../Page/超级马里奥_奥德赛.md" title="wikilink">超级马里奥 奥德赛</a></p></td>
+<td><p><a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a></p></td>
 <td><p>1-UP工作室时期，协助<a href="../Page/任天堂企划制作本部.md" title="wikilink">任天堂企划制作本部开发</a></p></td>
 </tr>
 </tbody>

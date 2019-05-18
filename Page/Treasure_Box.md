@@ -4,8 +4,7 @@ Music Japan發售](https://zh.wikipedia.org/wiki/EMI音乐_\(日本\) "wikilink"
 
 ## 概要
 
-  - 與上一張專輯「[Jewelry
-    Box](https://zh.wikipedia.org/wiki/Jewelry_Box "wikilink")」相距約1年2个月。
+  - 與上一張專輯「[Jewelry Box](../Page/Jewelry_Box.md "wikilink")」相距約1年2个月。
   - 收錄第5張單曲「[Sexy
     Love](https://zh.wikipedia.org/wiki/Sexy_Love "wikilink")」至第7張單曲「[Target](https://zh.wikipedia.org/wiki/Target "wikilink")」，共7曲。
   - 本作分「珍珠盘」、「钻石盘」和「蓝宝石盘」3種版本。「钻石盘」收錄了DVD「每日T-ARA特别编缉篇」；「蓝宝石盘」收錄了DVD「Sexy

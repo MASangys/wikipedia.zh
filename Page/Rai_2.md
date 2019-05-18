@@ -33,8 +33,8 @@
   - *[天線寶寶](../Page/天線寶寶.md "wikilink")*
   - *[魔法俏佳人](../Page/魔法俏佳人.md "wikilink")*
   - *[閃電十一人](https://zh.wikipedia.org/wiki/閃電十一人 "wikilink")*
-  - *[妖怪手錶系列](https://zh.wikipedia.org/wiki/妖怪手錶系列 "wikilink")* (Le
-    Avventure di Yo-Kai Watch)
+  - *[妖怪手錶系列](../Page/妖怪手錶系列.md "wikilink")* (Le Avventure di Yo-Kai
+    Watch)
   - *[東京喵喵](../Page/東京喵喵.md "wikilink")*
   - *[Tom](https://zh.wikipedia.org/wiki/湯姆\(animated_TV_series\) "wikilink")*
   - *[旋風四驅王](../Page/旋風四驅王.md "wikilink")*

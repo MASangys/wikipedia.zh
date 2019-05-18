@@ -2,7 +2,7 @@
 
 ## 概述
 
-RGM-40是以[GP-30為藍本](../Page/GP-25附加型榴彈發射器.md "wikilink")，並在加裝[槍托](../Page/槍托.md "wikilink")、AK型和上翻型[立式標尺式](https://zh.wikipedia.org/wiki/立式標尺 "wikilink")[機械瞄具以後變成的獨立式肩射型版本](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")。它是一枝單發槍口裝填式武器，具有自我擊發式扳機機構，並與GP-30提供高度共同性。它的設計主要是警用用途，因此可以使用多種[非致命性彈藥](../Page/非致命性武器.md "wikilink")（即[催淚瓦斯彈](../Page/催淚彈.md "wikilink")、眩暈榴彈等）。此外，它亦可使用俄式標準型40毫米VOG-25和VOG-25P破片榴彈。\[1\]
+RGM-40是以[GP-30為藍本](../Page/GP-25附加型榴彈發射器.md "wikilink")，並在加裝[槍托](../Page/槍托.md "wikilink")、AK型和上翻型[立式標尺式](https://zh.wikipedia.org/wiki/立式標尺 "wikilink")[機械瞄具以後變成的獨立式肩射型版本](../Page/機械瞄具.md "wikilink")。它是一枝單發槍口裝填式武器，具有自我擊發式扳機機構，並與GP-30提供高度共同性。它的設計主要是警用用途，因此可以使用多種[非致命性彈藥](../Page/非致命性武器.md "wikilink")（即[催淚瓦斯彈](../Page/催淚彈.md "wikilink")、眩暈榴彈等）。此外，它亦可使用俄式標準型40毫米VOG-25和VOG-25P破片榴彈。\[1\]
 
 ## 使用國
 
@@ -30,7 +30,7 @@ RGM-40是以[GP-30為藍本](../Page/GP-25附加型榴彈發射器.md "wikilink"
   - [D型消聲榴彈發射器](https://zh.wikipedia.org/wiki/D型消聲榴彈發射器 "wikilink")
   - [DM型消聲榴彈發射器](https://zh.wikipedia.org/wiki/DM型消聲榴彈發射器 "wikilink")
   - [DP-64榴彈發射器](../Page/DP-64榴彈發射器.md "wikilink")
-  - [RGS-50榴彈發射器](https://zh.wikipedia.org/wiki/RGS-50榴彈發射器 "wikilink")
+  - [RGS-50榴彈發射器](../Page/RGS-50榴彈發射器.md "wikilink")
   - [AGS-17](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")、[AGS-30自動榴彈發射器](../Page/AGS-30阿特蘭自動榴彈發射器.md "wikilink")
   - [AGS-40／6G27自動榴彈發射器](../Page/AGS-40巴爾幹自動榴彈發射器.md "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")

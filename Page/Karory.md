@@ -10,7 +10,7 @@
   - [美好的日子
     ～不连续存在～](https://zh.wikipedia.org/wiki/美好的日子_～不连续存在～ "wikilink")（[KeroQ](../Page/KeroQ.md "wikilink")，原画）
   - [倏然之间恋上你](https://zh.wikipedia.org/wiki/倏然之间恋上你 "wikilink")（[枕](https://zh.wikipedia.org/wiki/枕_\(游戏品牌\) "wikilink")，原画）
-  - [由夢想與色彩組成的](https://zh.wikipedia.org/wiki/由夢想與色彩組成的 "wikilink")（[feng](../Page/feng.md "wikilink")、原画）
+  - [由夢想與色彩組成的](../Page/由夢想與色彩組成的.md "wikilink")（[feng](https://zh.wikipedia.org/wiki/feng "wikilink")、原画）
 
 ### 小说插画
 
@@ -50,9 +50,9 @@
 ### 動畫插圖
 
   - 电视动画[翠星上的加爾岡緹亞](https://zh.wikipedia.org/wiki/翠星上的加爾岡緹亞 "wikilink")（第4話片尾预告绘图\[1\]）
-  - 電視動畫[尋找失去的未來](https://zh.wikipedia.org/wiki/尋找失去的未來 "wikilink")（第1話片尾繪圖）
-  - 電視動畫[銃皇無盡的法夫納](https://zh.wikipedia.org/wiki/銃皇無盡的法夫納 "wikilink")（第8話片尾繪圖）
-  - 電視動畫[絕對雙刃](https://zh.wikipedia.org/wiki/絕對雙刃 "wikilink")（第10話片尾繪圖）
+  - 電視動畫[尋找失去的未來](../Page/尋找失去的未來.md "wikilink")（第1話片尾繪圖）
+  - 電視動畫[銃皇無盡的法夫納](../Page/銃皇無盡的法夫納.md "wikilink")（第8話片尾繪圖）
+  - 電視動畫[絕對雙刃](../Page/絕對雙刃.md "wikilink")（第10話片尾繪圖）
 
 ## 注释
 

@@ -69,8 +69,7 @@ TIME》佈景\]\]
   - [Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")、[Don't say
     “lazy”](https://zh.wikipedia.org/wiki/Don't_say_“lazy” "wikilink")、、[Maddy
     Candy](../Page/Maddy_Candy.md "wikilink")
-  - [放學後TEA TIME
-    II](https://zh.wikipedia.org/wiki/放學後TEA_TIME_II "wikilink")
+  - [放學後TEA TIME II](../Page/放學後TEA_TIME_II.md "wikilink")
 
 ## 外部連結
 

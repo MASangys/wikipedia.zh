@@ -2,7 +2,7 @@
 
 ## 概要
 
-自2005年10月富士重工業納入[豐田汽車體系以來](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")，為了整合集團資源，2008年4月10日三方公開發表合作開發的意向\[1\]。第一部三方合作成果的車款便是以[大發Coo為基礎而開發的](https://zh.wikipedia.org/wiki/大發Coo "wikilink")[速霸陸Dex](https://zh.wikipedia.org/wiki/速霸陸Dex "wikilink")（兄弟車是[豐田bB](../Page/豐田bB.md "wikilink")、賽揚xB），另一部則是以為原型的[第四代Justy](https://zh.wikipedia.org/wiki/速霸陸Justy#第四代（2007年-2011年） "wikilink")。雖然原型車來自豐田或大發，但富士重工業仍針對水箱護罩、葉子板、進氣壩、[車頭燈等處稍作修飾](https://zh.wikipedia.org/wiki/車頭燈 "wikilink")，和原型車作出區隔。
+自2005年10月富士重工業納入[豐田汽車體系以來](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")，為了整合集團資源，2008年4月10日三方公開發表合作開發的意向\[1\]。第一部三方合作成果的車款便是以[大發Coo為基礎而開發的](https://zh.wikipedia.org/wiki/大發Coo "wikilink")[速霸陸Dex](../Page/速霸陸Dex.md "wikilink")（兄弟車是[豐田bB](../Page/豐田bB.md "wikilink")、賽揚xB），另一部則是以為原型的[第四代Justy](https://zh.wikipedia.org/wiki/速霸陸Justy#第四代（2007年-2011年） "wikilink")。雖然原型車來自豐田或大發，但富士重工業仍針對水箱護罩、葉子板、進氣壩、[車頭燈等處稍作修飾](https://zh.wikipedia.org/wiki/車頭燈 "wikilink")，和原型車作出區隔。
 
 ## 歷史
 

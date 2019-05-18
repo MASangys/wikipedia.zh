@@ -181,7 +181,7 @@ Continued」，2014年4月30日宣布第二季標題為《**Re：␣
 <!-- end list -->
 
   -
-    超能持有者組織Freemum的首領，初登場於第二季。身旁總帶著真宮(聲：[高橋孝治](https://zh.wikipedia.org/wiki/高橋孝治 "wikilink"))、剛田(聲：[齋藤楓子](../Page/齋藤楓子.md "wikilink"))、櫻庭(聲：[木村昴](../Page/木村昴.md "wikilink"))、鈴木(聲：)、增本(聲：[德本英一郎](../Page/德本英一郎.md "wikilink"))、駿河(聲：[織田圭祐](../Page/織田圭祐.md "wikilink"))等同為超能持有者的朋友。
+    超能持有者組織Freemum的首領，初登場於第二季。身旁總帶著真宮(聲：[高橋孝治](../Page/高橋孝治.md "wikilink"))、剛田(聲：[齋藤楓子](../Page/齋藤楓子.md "wikilink"))、櫻庭(聲：[木村昴](../Page/木村昴.md "wikilink"))、鈴木(聲：)、增本(聲：[德本英一郎](../Page/德本英一郎.md "wikilink"))、駿河(聲：[織田圭祐](../Page/織田圭祐.md "wikilink"))等同為超能持有者的朋友。
     自稱建立Freemum是為了讓超能持有者有個歸處，但檯面下卻進行恐怖活動。第四集時綁架主張管制超能持有者的政府高層「博士」，企圖利用鈴木的造型能力製作面具，藉此混入政府，結果「博士」卻被斯利救出。
     事後他們雖然被警方通緝，卻因禍得福被亞特與桃香看上，雙方開始合作並在季末直播亞特與紫的戰鬥，以展現亞特的復活能力將他塑造成神明後，得到無數超能持有者的支持，然而他並不知道亞特只是在利用自己，而他在超能持有者收容設施殺死我助時也早為自己種下殺機。最後櫻庭在某大廈開的演唱會，使全橫濱都遭封鎖，石神藉此要脅政府將橫濱設為超能持有者特區，沒想到亞特在此時突然背叛並擊倒剛田、增本，石神也被他痛罵行徑噁心隨後以手槍爆頭而亡。
       -
@@ -343,8 +343,9 @@ Continued」，2014年4月30日宣布第二季標題為《**Re：␣
 
 :; 片頭曲「FLAT」
 
-:: 作詞、作曲、編曲：kz，主唱：[livetune](../Page/livetune.md "wikilink") adding
-Yuuki Ozaki（from [Galileo
+::
+作詞、作曲、編曲：kz，主唱：[livetune](https://zh.wikipedia.org/wiki/livetune "wikilink")
+adding Yuuki Ozaki（from [Galileo
 Galilei](../Page/Galileo_Galilei_\(樂團\).md "wikilink")）
 
 :; 片尾曲「Hikari」
@@ -409,7 +410,7 @@ Galilei](../Page/Galileo_Galilei_\(樂團\).md "wikilink")）
 <td><p>哥倫布的蛋</p></td>
 <td><p>熊谷純</p></td>
 <td><p>三浦和也</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/木村寬" title="wikilink">木村寬</a></p></td>
+<td><p><a href="../Page/木村寬.md" title="wikilink">木村寬</a></p></td>
 <td><p>伊藤依織子、小峰正賴</p></td>
 <td><p>Han Hyun Joong</p></td>
 <td><p>伊藤依織子</p></td>
@@ -418,7 +419,7 @@ Galilei](../Page/Galileo_Galilei_\(樂團\).md "wikilink")）
 <td><p>File-02</p></td>
 <td></td>
 <td><p>尊愛的可惡混蛋</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高橋丈夫" title="wikilink">高橋丈夫</a></p></td>
+<td><p><a href="../Page/高橋丈夫.md" title="wikilink">高橋丈夫</a></p></td>
 <td><p>上野史博</p></td>
 <td><p><a href="../Page/門智昭.md" title="wikilink">門智昭</a>、滿若高代<br />
 小磯沙矢香</p></td>
@@ -432,7 +433,7 @@ Galilei](../Page/Galileo_Galilei_\(樂團\).md "wikilink")）
 <td><p>擁有者、無擁有者</p></td>
 <td><p>高橋成世</p></td>
 <td><p>佐佐木勅嘉</p></td>
-<td><p>末田晃大、<a href="https://zh.wikipedia.org/wiki/大西陽一" title="wikilink">大西陽一</a><br />
+<td><p>末田晃大、<a href="../Page/大西陽一.md" title="wikilink">大西陽一</a><br />
 諏訪壮大、山本真理子<br />
 山口光紀</p></td>
 <td><p>伊藤依織子</p></td>
@@ -780,7 +781,7 @@ Kim Daehun</p></td>
 </tr>
 <tr class="odd">
 <td><p>日本全國</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/萬代頻道" title="wikilink">萬代頻道</a></p></td>
+<td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
 <td><p>2014年1月12日－3月29日</p></td>
 <td><p>星期日 12時00分 更新</p></td>
 <td><p>網路電視</p></td>

@@ -10,8 +10,7 @@ Central Towers Level 15 Sky Street 2014.jpg|15樓Sky Street觀景走廊，可享
 
 ## 鄰近
 
-  - [JR Gate
-    Tower](https://zh.wikipedia.org/wiki/JR_Gate_Tower "wikilink")
+  - [JR Gate Tower](../Page/JR_Gate_Tower.md "wikilink")
   - [中部地方廣場大廈](../Page/中部地方廣場大廈.md "wikilink")
   - [大名古屋ビルヂング](https://zh.wikipedia.org/wiki/大名古屋ビルヂング "wikilink")
 

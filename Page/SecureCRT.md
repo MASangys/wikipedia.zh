@@ -17,7 +17,7 @@ SecureCRT
 
 ## 参见
 
-  - [SSH客户端比较](https://zh.wikipedia.org/wiki/SSH客户端比较 "wikilink")
+  - [SSH客户端比较](../Page/SSH客户端比较.md "wikilink")
   - [PuTTY](../Page/PuTTY.md "wikilink")
   - [Cygwin/X](https://zh.wikipedia.org/wiki/Cygwin/X "wikilink")
   - [WinSCP](../Page/WinSCP.md "wikilink")

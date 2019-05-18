@@ -30,7 +30,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
   -
     本作女主角，樱花女子高中二年級生，討厭男性（屬於存有偏見的類型），但對直人意外的有信任，似乎存有好感。加入公安隊的理由是「想要射殺[色狼](../Page/色狼.md "wikilink")」，剛進學生鐵道OJT時因為新人不會被派遣危險任務而感到相當失望。
     由於受父親期待成為女警的緣故，從小就在海外進行射擊訓練與[合氣道](../Page/合氣道.md "wikilink")。
-    姓氏取自[櫻井線](https://zh.wikipedia.org/wiki/櫻井線 "wikilink")。
+    姓氏取自[櫻井線](../Page/櫻井線.md "wikilink")。
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 
   -
     在橫濱鐵道公安室·第二警戒班進行實務訓練的研修生。
-    姓氏取自[冰見線](https://zh.wikipedia.org/wiki/冰見線 "wikilink")。
+    姓氏取自[冰見線](../Page/冰見線.md "wikilink")。
 
 <!-- end list -->
 
@@ -116,7 +116,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 
   -
     [片町站長的秘書](https://zh.wikipedia.org/wiki/片町線 "wikilink")
-    姓氏取自[七尾線](https://zh.wikipedia.org/wiki/七尾線 "wikilink")。
+    姓氏取自[七尾線](../Page/七尾線.md "wikilink")。
 
 <!-- end list -->
 
@@ -140,7 +140,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 
   -
     首都圈公安隊部長。
-    姓氏取自[宇野線](https://zh.wikipedia.org/wiki/宇野線 "wikilink")。
+    姓氏取自[宇野線](../Page/宇野線.md "wikilink")。
 
 <!-- end list -->
 
@@ -262,7 +262,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
   -
     高中生，四人偶像團體「unoB」的主唱，並負責作詞、作曲。
     曾擔任一週的鐵道公安隊長。對直人有好感。
-    姓氏取自[鹿島線](https://zh.wikipedia.org/wiki/鹿島線 "wikilink")。
+    姓氏取自[鹿島線](../Page/鹿島線.md "wikilink")。
 
 <!-- end list -->
 
@@ -322,7 +322,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 
 <!-- end list -->
 
-  - [日本國鐵DD53型柴油機車](https://zh.wikipedia.org/wiki/日本國鐵DD53型柴油機車 "wikilink")
+  - [日本國鐵DD53型柴油機車](../Page/日本國鐵DD53型柴油機車.md "wikilink")
 
 <!-- end list -->
 
@@ -816,7 +816,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 
     <!-- end list -->
 
-      - [東室蘭車站](https://zh.wikipedia.org/wiki/東室蘭車站 "wikilink")
+      - [東室蘭車站](../Page/東室蘭車站.md "wikilink")
 
     <!-- end list -->
 
@@ -838,7 +838,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 
 <!-- end list -->
 
-  - [青森鐵道線](https://zh.wikipedia.org/wiki/青森鐵道線 "wikilink")
+  - [青森鐵道線](../Page/青森鐵道線.md "wikilink")
 
 <!-- end list -->
 
@@ -1107,7 +1107,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
   - 原作：「RAIL WARS\!-日本國有鐵道公安隊-」（創藝社/創藝社Clear文庫刊）
   - 原作插畫：
   - 監督：[末田宜史](https://zh.wikipedia.org/wiki/末田宜史 "wikilink")
-  - 系列構成：[鈴木雅詞](https://zh.wikipedia.org/wiki/鈴木雅詞 "wikilink")
+  - 系列構成：[鈴木雅詞](../Page/鈴木雅詞.md "wikilink")
   - 角色設計、總作畫監督：[宇野真](https://zh.wikipedia.org/wiki/宇野真 "wikilink")
   - 副角色設計、總作畫監督：小磯沙矢香
   - 道具設計：高橋成世、植田和幸

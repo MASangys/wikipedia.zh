@@ -10,17 +10,17 @@
 
 專輯內九首歌曲均有拍攝音樂錄像，並於2013年2月至2014年6月期間推出。
 
-| 曲目次序 | 歌名         | 導演                                                                                                         | 首播日期        | 首播平台                                     | 連結                                                         | 備註          |
-| ---- | ---------- | ---------------------------------------------------------------------------------------------------------- | ----------- | ---------------------------------------- | ---------------------------------------------------------- | ----------- |
-| 01   | Contagious | [麥曦茵](../Page/麥曦茵.md "wikilink")                                                                           | 2014年3月26日  | [Youtube](../Page/Youtube.md "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=869DAygGs0w) |             |
-| 02   | 周末畫報       | 比爾賈 & Bounce                                                                                               | 2013年6月2日   | [Youtube](../Page/Youtube.md "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=k-gbf-k0ON0) |             |
-| 03   | 諸葛亮        | [陳映之](https://zh.wikipedia.org/wiki/陳映之 "wikilink")                                                        | 2013年7月12日  | [Youtube](../Page/Youtube.md "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=vdueuixqPGw) |             |
-| 04   | 小小癡纏       | [薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink") & [湯駿業](../Page/湯駿業.md "wikilink")                     | 2013年12月23日 | [Youtube](../Page/Youtube.md "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=mwWBubsntAU) |             |
-| 05   | 等待的藝術      | [Kit Hung](https://zh.wikipedia.org/wiki/Kit_Hung "wikilink")                                              | 2014年2月14日  | [Youtube](../Page/Youtube.md "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=MDgam5W9hP8) |             |
-| 06   | 告別我        | [陳映之](https://zh.wikipedia.org/wiki/陳映之 "wikilink")                                                        | 2013年2月27日  | [Youtube](../Page/Youtube.md "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=EJVzXj51-Ek) |             |
-| 07   | F.night    | [薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")                                                        | 2014年6月5日   | [Youtube](../Page/Youtube.md "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=Tux9Trr9sUU) |             |
-| 08   | 復原         | [麥曦茵](../Page/麥曦茵.md "wikilink")                                                                           | 2013年10月8日  | [Youtube](../Page/Youtube.md "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=xTom4A0Pn8M) |             |
-| 09   | 宮若梅        | [湯駿業](../Page/湯駿業.md "wikilink") & [Lawt@mediviso](https://zh.wikipedia.org/wiki/Lawt@mediviso "wikilink") | 2013年11月19日 | [Youtube](../Page/Youtube.md "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=x6HQ6mcRTB8) | 內容為唱片封套拍攝花絮 |
+| 曲目次序 | 歌名         | 導演                                                                                                         | 首播日期        | 首播平台                                                        | 連結                                                         | 備註          |
+| ---- | ---------- | ---------------------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------- | ---------------------------------------------------------- | ----------- |
+| 01   | Contagious | [麥曦茵](../Page/麥曦茵.md "wikilink")                                                                           | 2014年3月26日  | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=869DAygGs0w) |             |
+| 02   | 周末畫報       | 比爾賈 & Bounce                                                                                               | 2013年6月2日   | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=k-gbf-k0ON0) |             |
+| 03   | 諸葛亮        | [陳映之](https://zh.wikipedia.org/wiki/陳映之 "wikilink")                                                        | 2013年7月12日  | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=vdueuixqPGw) |             |
+| 04   | 小小癡纏       | [薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink") & [湯駿業](../Page/湯駿業.md "wikilink")                     | 2013年12月23日 | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=mwWBubsntAU) |             |
+| 05   | 等待的藝術      | [Kit Hung](https://zh.wikipedia.org/wiki/Kit_Hung "wikilink")                                              | 2014年2月14日  | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=MDgam5W9hP8) |             |
+| 06   | 告別我        | [陳映之](https://zh.wikipedia.org/wiki/陳映之 "wikilink")                                                        | 2013年2月27日  | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=EJVzXj51-Ek) |             |
+| 07   | F.night    | [薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")                                                        | 2014年6月5日   | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=Tux9Trr9sUU) |             |
+| 08   | 復原         | [麥曦茵](../Page/麥曦茵.md "wikilink")                                                                           | 2013年10月8日  | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=xTom4A0Pn8M) |             |
+| 09   | 宮若梅        | [湯駿業](../Page/湯駿業.md "wikilink") & [Lawt@mediviso](https://zh.wikipedia.org/wiki/Lawt@mediviso "wikilink") | 2013年11月19日 | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [Youtube 官方連結](http://www.youtube.com/watch?v=x6HQ6mcRTB8) | 內容為唱片封套拍攝花絮 |
 
 ## 派台歌曲成績
 
@@ -48,7 +48,7 @@
 
 ### 歌曲《宮若梅》
 
-  - 香港：[第三十七屆十大中文金曲頒獎音樂會](https://zh.wikipedia.org/wiki/第三十七屆十大中文金曲得獎名單 "wikilink")－十大中文金曲
+  - 香港：[第三十七屆十大中文金曲頒獎音樂會](../Page/第三十七屆十大中文金曲得獎名單.md "wikilink")－十大中文金曲
 
 ## 參考資料
 

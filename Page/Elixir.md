@@ -24,7 +24,8 @@ Valim是Elixir语言的设计者。他创造该语言的目标是在维持与现
 
 以下示例可以在iex shell中运行或保存在文件中，并通过命令行键入命令运行 ` elixir  `*<filename>*.
 
-经典的 [Hello world](../Page/Hello_world.md "wikilink") 例子:
+经典的 [Hello world](https://zh.wikipedia.org/wiki/Hello_world "wikilink")
+例子:
 
 ``` iex
 iex> IO.puts("Hello World!")

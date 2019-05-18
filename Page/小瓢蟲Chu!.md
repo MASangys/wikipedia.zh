@@ -20,7 +20,7 @@ Yahoo\!巨蛋舉行演唱會時公佈組合成員](../Page/福岡巨蛋.md "wiki
     不得不做的事情〜](https://zh.wikipedia.org/wiki/AKB48_2013盛夏的巨蛋巡迴〜還有許多_不得不做的事情〜 "wikilink")」演唱會上發表成員名單，但仍未公佈名稱\[4\]。
   - 7月31日，在[札幌巨蛋舉行的公演中正式宣布組合名為](../Page/札幌巨蛋.md "wikilink")「小瓢蟲Chu\!」，並初次披露歌曲《只給你的Chu\!Chu\!Chu\!》\[5\]。歌曲其後被收錄在AKB48第33張單曲《[真心電流](../Page/真心電流.md "wikilink")》中。
   - 10月27日，小瓢蟲Chu\!主演的電視劇《》開始在[富士電視台播放](../Page/富士電視台.md "wikilink")\[6\]。
-  - 12月11日，由小瓢蟲Chu\!演唱的《選擇了的彩虹》收錄了在AKB48第34張單曲《[倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢、我兀自持續想了好多天最後有點難為情地得到了一個結論](https://zh.wikipedia.org/wiki/倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢、我兀自持續想了好多天最後有點難為情地得到了一個結論 "wikilink")》的劇場盤中。
+  - 12月11日，由小瓢蟲Chu\!演唱的《選擇了的彩虹》收錄了在AKB48第34張單曲《[倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢、我兀自持續想了好多天最後有點難為情地得到了一個結論](../Page/倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢、我兀自持續想了好多天最後有點難為情地得到了一個結論.md "wikilink")》的劇場盤中。
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@ Yahoo\!巨蛋舉行演唱會時公佈組合成員](../Page/福岡巨蛋.md "wiki
 <!-- end list -->
 
   - 1月22日，由小瓢蟲Chu\!演唱的《微笑捉迷藏》收錄在AKB48第5張專輯《[未來軌跡](../Page/未來軌跡.md "wikilink")》的Type-B中。
-  - 4月14日，小瓢蟲Chu\!所主演的新綜藝節目《[小瓢蟲Chu\!的讓全世界都迷上宣言！](https://zh.wikipedia.org/wiki/小瓢蟲Chu!的讓全世界都迷上宣言！ "wikilink")》開始在[日本電視台播放](../Page/日本電視台.md "wikilink")，是組合的首個冠名節目\[7\]。
+  - 4月14日，小瓢蟲Chu\!所主演的新綜藝節目《[小瓢蟲Chu\!的讓全世界都迷上宣言！](../Page/小瓢蟲Chu!的讓全世界都迷上宣言！.md "wikilink")》開始在[日本電視台播放](../Page/日本電視台.md "wikilink")，是組合的首個冠名節目\[7\]。
   - 4月28日，開始在節目「小瓢蟲Chu\!的讓全世界都迷上宣言！」中加插由成員配音的兩至三分鐘短篇[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")「小瓢蟲Chu\!的小蜜蜂物語」（），成員在動畫中分別化為「」（Makochu，小嶋）、「」（Mikichu，西野）、「」（Nanachu，岡田）、「」（Uhachu，北川）、「」（Nagichu，澀谷）、「」（Meruchu，田島）和「」（Miochu，朝長），是她們首次嘗試配音工作\[8\]。
 
 ## 成員
@@ -83,7 +83,7 @@ Naachan</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/北川綾巴" title="wikilink">北川綾巴</a></p></td>
+<td><p><a href="../Page/北川綾巴.md" title="wikilink">北川綾巴</a></p></td>
 <td><p><br />
 Kitagawa Ryouha</p></td>
 <td><p><br />
@@ -96,7 +96,7 @@ Uha</p></td>
 <td><p><a href="../Page/綠色.md" title="wikilink">綠色</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/澀谷凪咲" title="wikilink">澀谷凪咲</a></p></td>
+<td><p><a href="../Page/澀谷凪咲.md" title="wikilink">澀谷凪咲</a></p></td>
 <td><p><br />
 Shibuya Nagisa</p></td>
 <td><p><br />
@@ -205,7 +205,7 @@ Mio</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/初戀的雄蕊" title="wikilink">初戀的雄蕊</a>》<br />
 （）</p></td>
 <td><p>AKB48第39張單曲<br />
-《<a href="https://zh.wikipedia.org/wiki/Green_Flash_(AKB48單曲)" title="wikilink">Green Flash</a>》</p></td>
+《<a href="../Page/Green_Flash_(AKB48單曲).md" title="wikilink">Green Flash</a>》</p></td>
 <td><p>劇場盤</p></td>
 <td><p>無</p></td>
 </tr>
@@ -238,7 +238,7 @@ EDITION</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/High_Tension#清純疲勞" title="wikilink">清純疲勞</a>》<br />
 （）</p></td>
 <td><p>AKB48第46張單曲<br />
-《<a href="https://zh.wikipedia.org/wiki/High_Tension" title="wikilink">High Tension</a>》<br />
+《<a href="../Page/High_Tension.md" title="wikilink">High Tension</a>》<br />
 （）</p></td>
 <td><p>Type-E</p></td>
 <td><p>有</p></td>
@@ -254,17 +254,17 @@ EDITION</p></td>
 
   - 《》（2013年10月27日－2014年3月16日、[富士電視台每週日深夜](../Page/富士電視台.md "wikilink")
     24:55－25:10）
-  - 《[小瓢蟲Chu\!的讓全世界都迷上宣言！](https://zh.wikipedia.org/wiki/小瓢蟲Chu!的讓全世界都迷上宣言！ "wikilink")》（2014年4月14日－、[日本電視台每週一深夜](../Page/日本電視台.md "wikilink")
+  - 《[小瓢蟲Chu\!的讓全世界都迷上宣言！](../Page/小瓢蟲Chu!的讓全世界都迷上宣言！.md "wikilink")》（2014年4月14日－、[日本電視台每週一深夜](../Page/日本電視台.md "wikilink")
     24:29－24:59）\[9\]
 
 ## 抄襲衍生團體
 
 由AKB48集團研究生所組成的小瓢蟲Chu\!，擁有數個模仿惡搞的衍生團體，但與一般AKB48相關的模仿團體大都是由外人所組成的狀況不同，模仿小瓢蟲Chu\!而出現的「芋蟲Chu\!」（）與「獨角仙Chu\!」（）全都是由AKB48集團自己的成員所組成的非官方團體。
 
-其中，「芋蟲Chu\!」是一個由[冨吉明日香](https://zh.wikipedia.org/wiki/冨吉明日香 "wikilink")、[駒田京伽](https://zh.wikipedia.org/wiki/駒田京伽 "wikilink")、[後藤泉](https://zh.wikipedia.org/wiki/後藤泉 "wikilink")、[坂口理子與](https://zh.wikipedia.org/wiki/坂口理子_\(HKT48\) "wikilink")[谷真理佳等五名在綜藝與主持能力方面表現優秀的HKT](https://zh.wikipedia.org/wiki/谷真理佳 "wikilink")48二期研究生所組成的非官方團體。由於經常作為HKT48公演或演唱會中場對話時間時的搞笑話題而小有名氣，團體內的其他成員們也經常用芋蟲Chu\!的名字稱呼這幾位成員。至於「獨角仙Chu\!」則是由AKB48的6名14期研究生中，3名未能入選小瓢蟲Chu\!的成員[內山奈月](https://zh.wikipedia.org/wiki/內山奈月 "wikilink")、[橋本耀與](https://zh.wikipedia.org/wiki/橋本耀 "wikilink")[前田美月所組成](https://zh.wikipedia.org/wiki/前田美月 "wikilink")，是個有點自我嘲諷意味、但聲稱要作為小瓢蟲Chu\!的對手而活動的非官方小分隊。
+其中，「芋蟲Chu\!」是一個由[冨吉明日香](https://zh.wikipedia.org/wiki/冨吉明日香 "wikilink")、[駒田京伽](https://zh.wikipedia.org/wiki/駒田京伽 "wikilink")、[後藤泉](https://zh.wikipedia.org/wiki/後藤泉 "wikilink")、[坂口理子與](https://zh.wikipedia.org/wiki/坂口理子_\(HKT48\) "wikilink")[谷真理佳等五名在綜藝與主持能力方面表現優秀的HKT](../Page/谷真理佳.md "wikilink")48二期研究生所組成的非官方團體。由於經常作為HKT48公演或演唱會中場對話時間時的搞笑話題而小有名氣，團體內的其他成員們也經常用芋蟲Chu\!的名字稱呼這幾位成員。至於「獨角仙Chu\!」則是由AKB48的6名14期研究生中，3名未能入選小瓢蟲Chu\!的成員[內山奈月](https://zh.wikipedia.org/wiki/內山奈月 "wikilink")、[橋本耀與](../Page/橋本耀.md "wikilink")[前田美月所組成](https://zh.wikipedia.org/wiki/前田美月 "wikilink")，是個有點自我嘲諷意味、但聲稱要作為小瓢蟲Chu\!的對手而活動的非官方小分隊。
 
 原本只是成員間因為有趣而私自成立的這些衍生團體，在經過一段時間的自我宣傳後也獲得AKB48經營團隊的注意。例如在全集團於2014年8月初所舉行的大型歌迷互動活動「AKB48夏祭」中，就找來了小瓢蟲Chu\!與兩個惡搞衍生團體，共同登台進行稱為「蟲蟲對決」（）的節目單元，而在歌迷間掀起一些話題。另外，在AKB48第39張單曲《[Green
-Flash](https://zh.wikipedia.org/wiki/Green_Flash_\(AKB48單曲\) "wikilink")》的劇場盤版本中所收錄的搭配[B面曲](https://zh.wikipedia.org/wiki/B面曲 "wikilink")《初戀的雄蕊》（），則是由小瓢蟲Chu\!與獨角仙Chu\!共同演唱錄製，是AKB48集團中少數非官方自組的小團體登上正式出版唱片作品的紀錄。
+Flash](../Page/Green_Flash_\(AKB48單曲\).md "wikilink")》的劇場盤版本中所收錄的搭配[B面曲](https://zh.wikipedia.org/wiki/B面曲 "wikilink")《初戀的雄蕊》（），則是由小瓢蟲Chu\!與獨角仙Chu\!共同演唱錄製，是AKB48集團中少數非官方自組的小團體登上正式出版唱片作品的紀錄。
 
 ## 註釋
 

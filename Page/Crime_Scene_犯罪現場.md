@@ -3,11 +3,10 @@
 
 第一季於2014年5月10日起至7月12日，韓國時間每週六晚上11點播出。
 後續則有續作《[Crime Scene 犯罪現場
-(第二季)](https://zh.wikipedia.org/wiki/Crime_Scene_犯罪現場_\(第二季\) "wikilink")》和《[Crime
-Scene 犯罪現場
-(第三季)](https://zh.wikipedia.org/wiki/Crime_Scene_犯罪現場_\(第三季\) "wikilink")》。
+(第二季)](../Page/Crime_Scene_犯罪現場_\(第二季\).md "wikilink")》和《[Crime
+Scene 犯罪現場 (第三季)](../Page/Crime_Scene_犯罪現場_\(第三季\).md "wikilink")》。
 
-2016年3月27日起中國網路平台[芒果TV播出官方授權節目](https://zh.wikipedia.org/wiki/芒果TV "wikilink")《[明星大偵探](../Page/明星大偵探.md "wikilink")》\[2\]。
+2016年3月27日起中國網路平台[芒果TV播出官方授權節目](../Page/芒果TV.md "wikilink")《[明星大偵探](../Page/明星大偵探.md "wikilink")》\[2\]。
 
 ## 遊戲節目形式
 
@@ -65,7 +64,7 @@ Scene 犯罪現場
 <td><p>1</p></td>
 <td><p>2014年5月10日</p></td>
 <td><p>李德滿會長殺人事件</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、<a href="https://zh.wikipedia.org/wiki/朴芝潤" title="wikilink">朴芝潤</a>、<a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、<a href="../Page/朴芝潤.md" title="wikilink">朴芝潤</a>、<a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a><br />
 <a href="../Page/NS允智.md" title="wikilink">NS允智</a>、林方歌(律師)</p></td>
 <td><p><a href="../Page/劉憲華.md" title="wikilink">Henry</a>(<a href="../Page/Super_Junior-M.md" title="wikilink">Super Junior-M</a>)</p></td>
 <td><p>兇手：林方歌<br />
@@ -118,7 +117,7 @@ Scene 犯罪現場
 <td><p>7</p></td>
 <td><p>2014年6月21日</p></td>
 <td><p>監獄殺人事件</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、<a href="https://zh.wikipedia.org/wiki/朴芝潤" title="wikilink">朴芝潤</a>、<a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、<a href="../Page/朴芝潤.md" title="wikilink">朴芝潤</a>、<a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a><br />
 <a href="../Page/NS允智.md" title="wikilink">NS允智</a>、(律師)</p></td>
 <td><p><a href="../Page/金聖圭.md" title="wikilink">聖圭</a>(<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>)</p></td>
 <td><p>兇手：朴芝潤<br />
@@ -128,7 +127,7 @@ Scene 犯罪現場
 <td><p>8</p></td>
 <td><p>2014年6月28日</p></td>
 <td><p>高女士殺人事件</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜智賢" title="wikilink">昭宥</a>(<a href="../Page/Sistar.md" title="wikilink">Sistar</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姜智賢" title="wikilink">昭宥</a>(<a href="https://zh.wikipedia.org/wiki/Sistar" title="wikilink">Sistar</a>)</p></td>
 <td><p>兇手：洪榛浩<br />
 全炫茂、朴芝潤、NS允智、康容碩<strong>勝出</strong></p></td>
 <td></td>

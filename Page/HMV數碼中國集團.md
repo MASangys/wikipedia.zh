@@ -2,9 +2,9 @@
 
 ## 概要
 
-集團曾參與多齣電影的投資項目及製作，如電影《[3D肉蒲團之極樂寶鑑](../Page/3D肉蒲團之極樂寶鑑.md "wikilink")》、《[一路向西](../Page/一路向西.md "wikilink")》、《[Delete愛人](../Page/Delete愛人.md "wikilink")》、《[壹獄壹世界：高登闊少踎監日記](../Page/壹獄壹世界：高登闊少踎監日記.md "wikilink")》、《[猛龍特囧](../Page/猛龍特囧.md "wikilink")》、《[十月初五的月光](https://zh.wikipedia.org/wiki/十月初五的月光_\(電影\) "wikilink")》、《[導火新聞線](https://zh.wikipedia.org/wiki/導火新聞線_\(電影\) "wikilink")》、《[29+1](https://zh.wikipedia.org/wiki/29+1 "wikilink")》及《[西謊極落之太爆太子太空艙](https://zh.wikipedia.org/wiki/西謊極落之太爆太子太空艙 "wikilink")》。當中《一路向西》、《西謊極落之太爆太子太空艙》改編自網絡超人氣作者-{[向西村上春樹](https://zh.wikipedia.org/wiki/向西村上春樹 "wikilink")}-的暢銷小說；《[天生愛情狂](https://zh.wikipedia.org/wiki/天生愛情狂 "wikilink")》、《Delete愛人》、《十月初五的月光》為本港愛情片導演[葉念琛作品](../Page/葉念琛.md "wikilink")；《導火新聞線》電影版獲得[香港電視網絡有限公司授權拍攝](../Page/香港電視網絡.md "wikilink")；《29+1》改編自[彭秀慧的暢銷](../Page/彭秀慧.md "wikilink")“獨腳戲”舞台劇。
+集團曾參與多齣電影的投資項目及製作，如電影《[3D肉蒲團之極樂寶鑑](../Page/3D肉蒲團之極樂寶鑑.md "wikilink")》、《[一路向西](../Page/一路向西.md "wikilink")》、《[Delete愛人](../Page/Delete愛人.md "wikilink")》、《[壹獄壹世界：高登闊少踎監日記](../Page/壹獄壹世界：高登闊少踎監日記.md "wikilink")》、《[猛龍特囧](../Page/猛龍特囧.md "wikilink")》、《[十月初五的月光](https://zh.wikipedia.org/wiki/十月初五的月光_\(電影\) "wikilink")》、《[導火新聞線](https://zh.wikipedia.org/wiki/導火新聞線_\(電影\) "wikilink")》、《[29+1](https://zh.wikipedia.org/wiki/29+1 "wikilink")》及《[西謊極落之太爆太子太空艙](../Page/西謊極落之太爆太子太空艙.md "wikilink")》。當中《一路向西》、《西謊極落之太爆太子太空艙》改編自網絡超人氣作者-{[向西村上春樹](https://zh.wikipedia.org/wiki/向西村上春樹 "wikilink")}-的暢銷小說；《[天生愛情狂](https://zh.wikipedia.org/wiki/天生愛情狂 "wikilink")》、《Delete愛人》、《十月初五的月光》為本港愛情片導演[葉念琛作品](../Page/葉念琛.md "wikilink")；《導火新聞線》電影版獲得[香港電視網絡有限公司授權拍攝](../Page/香港電視網絡.md "wikilink")；《29+1》改編自[彭秀慧的暢銷](../Page/彭秀慧.md "wikilink")“獨腳戲”舞台劇。
 
-另外，該公司於2015年5月宣佈收購**GME中國**（前稱**環球狂熱文化娛樂**）；其後於2016年2月在該公司四周年晚宴上，宣佈成功收購**種星堂娛樂有限公司**（，簡稱**種星堂娛樂**）一半股份，旗下藝人都會在其集團投資的電影中擔當重要角色\[4\]；2016年3月21日宣布成功收購國際大型連鎖影音零售商[HMV](../Page/HMV.md "wikilink")；2017年1月10日，宣佈成功以31,500,000港元（配發43,448,275股）收購收購[鐳射企業有限公司](https://zh.wikipedia.org/wiki/鐳射企業 "wikilink")70%股權。
+另外，該公司於2015年5月宣佈收購**GME中國**（前稱**環球狂熱文化娛樂**）；其後於2016年2月在該公司四周年晚宴上，宣佈成功收購**種星堂娛樂有限公司**（，簡稱**種星堂娛樂**）一半股份，旗下藝人都會在其集團投資的電影中擔當重要角色\[4\]；2016年3月21日宣布成功收購國際大型連鎖影音零售商[HMV](../Page/HMV.md "wikilink")；2017年1月10日，宣佈成功以31,500,000港元（配發43,448,275股）收購收購[鐳射企業有限公司](../Page/鐳射企業.md "wikilink")70%股權。
 
 該公司於2016年11月，斥資4,650萬元收購香港本地OTT影視點播平台Anyplex。
 
@@ -17,7 +17,7 @@ Light
 Limited在其入稟狀中指稱，該公司2015年7月與被告訂立為期4年的租約，把涉案的舖位租給被告，現時每月租金約159萬港元，被告上月開始欠租，連同其他拖欠的雜費，合共欠該公司約342.3萬港元；另外，位於中環萬年大廈地庫的hmv分店業主Pridemax
 Limited則在其入稟狀指稱，該公司2016年9月與被告訂立為期6年的租約，以每月100萬港元把該地庫租給被告，被告上月開始欠租，連同其他拖欠的雜費，合共欠該公司約143.7萬港元。\[9\]。
 
-旗下藝人[SIS樂印姊妹](../Page/SIS樂印姊妹.md "wikilink")、[譚芷昀](https://zh.wikipedia.org/wiki/譚芷昀 "wikilink")、[陳永馨](https://zh.wikipedia.org/wiki/陳永馨 "wikilink")、[譚順生的唱片合約由](https://zh.wikipedia.org/wiki/譚順生 "wikilink")**GME中國**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md "wikilink")；[鄭欣宜的唱片合約由](../Page/鄭欣宜.md "wikilink")**Passionfruit
+旗下藝人[SIS樂印姊妹](../Page/SIS樂印姊妹.md "wikilink")、[譚芷昀](https://zh.wikipedia.org/wiki/譚芷昀 "wikilink")、[陳永馨](../Page/陳永馨.md "wikilink")、[譚順生的唱片合約由](../Page/譚順生.md "wikilink")**GME中國**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md "wikilink")；[鄭欣宜的唱片合約由](../Page/鄭欣宜.md "wikilink")**Passionfruit
 Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md "wikilink")\[10\]；[鄧健泓的唱片合約由](../Page/鄧健泓.md "wikilink")[星娛樂代理發行](../Page/中星集團.md "wikilink")；[周柏豪](../Page/周柏豪.md "wikilink")、[連詩雅的唱片合約由](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")[星夢娛樂代理出品及發行](https://zh.wikipedia.org/wiki/星夢娛樂 "wikilink")。
 
 ## 旗下藝人
@@ -37,7 +37,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 （<strong>Passionfruit Records</strong>）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳永馨" title="wikilink">陳永馨</a><br />
+<td><p><a href="../Page/陳永馨.md" title="wikilink">陳永馨</a><br />
 （<strong>GME中國</strong>唱片合約代理出品及發行）</p></td>
 </tr>
 <tr class="even">
@@ -66,7 +66,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 （<strong>Passionfruit Records</strong>）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳永馨" title="wikilink">陳永馨</a><br />
+<td><p><a href="../Page/陳永馨.md" title="wikilink">陳永馨</a><br />
 （<strong>GME中國</strong>唱片合約代理出品及發行）</p></td>
 </tr>
 <tr class="even">
@@ -76,7 +76,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <td><p><strong>藝人</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳嘉莉" title="wikilink">陳嘉莉</a></p></td>
+<td><p><a href="../Page/陳嘉莉.md" title="wikilink">陳嘉莉</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/林雪.md" title="wikilink">林　雪</a></p></td>
@@ -88,7 +88,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <td><p><strong>歌星</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄧月平" title="wikilink">鄧月平</a></p></td>
+<td><p><a href="../Page/鄧月平.md" title="wikilink">鄧月平</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>組合</strong></p></td>
@@ -100,7 +100,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <td><p><strong>藝人</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/唐紫睿" title="wikilink">唐紫睿</a></p></td>
+<td><p><a href="../Page/唐紫睿.md" title="wikilink">唐紫睿</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/莉妍" title="wikilink">莉　妍</a></p></td>
@@ -109,7 +109,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <td><p><a href="https://zh.wikipedia.org/wiki/門東毅" title="wikilink">門東毅</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/種星堂" title="wikilink">種星堂娛樂</a></strong></p></td>
+<td><p><strong><a href="../Page/種星堂.md" title="wikilink">種星堂娛樂</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>歌星</strong></p></td>
@@ -139,7 +139,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <td><p><a href="https://zh.wikipedia.org/wiki/胡耀輝" title="wikilink">胡耀輝</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/種星堂" title="wikilink">種星堂娛樂</a></strong></p></td>
+<td><p><strong><a href="../Page/種星堂.md" title="wikilink">種星堂娛樂</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>藝人</strong></p></td>
@@ -250,13 +250,13 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <td><p><a href="https://zh.wikipedia.org/wiki/黄雪瑩" title="wikilink">黄雪瑩</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李元玲" title="wikilink">李元玲</a></p></td>
+<td><p><a href="../Page/李元玲.md" title="wikilink">李元玲</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/范植偉.md" title="wikilink">范植偉</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/種星堂" title="wikilink">種星堂娛樂</a></strong></p></td>
+<td><p><strong><a href="../Page/種星堂.md" title="wikilink">種星堂娛樂</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>藝人</strong></p></td>
@@ -265,7 +265,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <td><p><a href="../Page/周汶錡.md" title="wikilink">周汶錡</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳瀅" title="wikilink">陳　瀅</a><br />
+<td><p><a href="../Page/陳瀅.md" title="wikilink">陳　瀅</a><br />
 已加盟<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a>／<a href="../Page/邵氏兄弟.md" title="wikilink">邵氏兄弟</a></p></td>
 </tr>
 <tr class="even">
@@ -402,8 +402,8 @@ The Menu (Movie)</p></td>
 <td style="text-align: center;"><p><a href="../Page/吳孟達.md" title="wikilink">吳孟達</a>、<a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、<a href="../Page/周家怡.md" title="wikilink">周家怡</a>、<br />
 <a href="../Page/楊淇_(香港演員).md" title="wikilink">楊　淇</a>、<a href="../Page/方健儀.md" title="wikilink">方健儀</a>、<a href="../Page/張建聲.md" title="wikilink">張建聲</a>、<br />
 <a href="../Page/姜文杰.md" title="wikilink">姜文杰</a>、<a href="https://zh.wikipedia.org/wiki/郭峰_(演員)" title="wikilink">郭　峰</a>、<a href="../Page/陳穎妍.md" title="wikilink">陳穎妍</a>、<br />
-<a href="../Page/楊天經.md" title="wikilink">楊天經</a>、<a href="../Page/李楓_(演員).md" title="wikilink">李　楓</a>、<a href="https://zh.wikipedia.org/wiki/鮑康兒" title="wikilink">鮑康兒</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/方俊華" title="wikilink">方俊華</a></p></td>
+<a href="../Page/楊天經.md" title="wikilink">楊天經</a>、<a href="../Page/李楓_(演員).md" title="wikilink">李　楓</a>、<a href="../Page/鮑康兒.md" title="wikilink">鮑康兒</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/方俊華.md" title="wikilink">方俊華</a></p></td>
 <td style="text-align: center;"><p>|<a href="http://www.china3d8078.com/film/detail.html?film_id=45">網頁</a></p></td>
 <td style="text-align: center;"><p>主：導火新聞線主題音樂（<a href="https://zh.wikipedia.org/wiki/江暉_(演員)" title="wikilink">江　暉作曲</a>）<br />
 尾：We're Not Afraid（<a href="../Page/陳詩慧.md" title="wikilink">陳詩慧</a> Feat. <a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、<a href="../Page/周家怡.md" title="wikilink">周家怡</a>、<a href="../Page/楊淇_(香港演員).md" title="wikilink">楊　淇</a>、<a href="https://zh.wikipedia.org/wiki/Kamfun_Group" title="wikilink">Kamfun Group</a>）</p></td>
@@ -413,7 +413,7 @@ The Menu (Movie)</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/小男人週記3之吾家有喜" title="wikilink">小男人週記3之吾家有喜</a><br />
 The Yuppie Fantasia 3</p></td>
 <td style="text-align: center;"><p><a href="../Page/鄭丹瑞.md" title="wikilink">鄭丹瑞</a>、<a href="../Page/周秀娜.md" title="wikilink">周秀娜</a>、<a href="https://zh.wikipedia.org/wiki/陳友" title="wikilink">陳　友</a>、<br />
-<a href="../Page/蔡瀚億.md" title="wikilink">蔡瀚億</a>、<a href="../Page/張繼聰.md" title="wikilink">張繼聰</a>、<a href="https://zh.wikipedia.org/wiki/鄧月平" title="wikilink">鄧月平</a>、<br />
+<a href="../Page/蔡瀚億.md" title="wikilink">蔡瀚億</a>、<a href="../Page/張繼聰.md" title="wikilink">張繼聰</a>、<a href="../Page/鄧月平.md" title="wikilink">鄧月平</a>、<br />
 <a href="../Page/黎彼得.md" title="wikilink">黎彼得</a>、<a href="../Page/文雋.md" title="wikilink">文　雋</a>、<a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">蝦　頭</a>、<br />
 <a href="../Page/談善言.md" title="wikilink">談善言</a>、<a href="../Page/葛民輝.md" title="wikilink">葛民輝</a>、<a href="../Page/鄭伊健.md" title="wikilink">鄭伊健</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/鄭丹瑞.md" title="wikilink">鄭丹瑞</a></p></td>
@@ -428,21 +428,21 @@ The Yuppie Fantasia 3</p></td>
 <td style="text-align: center;"><p><a href="../Page/周秀娜.md" title="wikilink">周秀娜</a>、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a>、<a href="../Page/金燕玲.md" title="wikilink">金燕玲</a>、<br />
 <a href="../Page/蔡瀚億.md" title="wikilink">蔡瀚億</a>、<a href="https://zh.wikipedia.org/wiki/楊尚斌" title="wikilink">楊尚斌</a>、<a href="../Page/梁祖堯.md" title="wikilink">梁祖堯</a>、<br />
 <a href="../Page/鄭丹瑞.md" title="wikilink">鄭丹瑞</a>、<a href="../Page/葛民輝.md" title="wikilink">葛民輝</a>、<a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、<br />
-<a href="../Page/周家怡.md" title="wikilink">周家怡</a>、<a href="https://zh.wikipedia.org/wiki/賴慰玲" title="wikilink">賴慰玲</a>、<a href="../Page/陳慧敏_(歌手).md" title="wikilink">陳慧敏</a>、<br />
+<a href="../Page/周家怡.md" title="wikilink">周家怡</a>、<a href="../Page/賴慰玲.md" title="wikilink">賴慰玲</a>、<a href="../Page/陳慧敏_(歌手).md" title="wikilink">陳慧敏</a>、<br />
 <a href="../Page/簡淑兒.md" title="wikilink">簡淑兒</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/彭秀慧.md" title="wikilink">彭秀慧</a></p></td>
 <td style="text-align: center;"><p><a href="http://www.china3d8078.com/film/detail.html?film_id=47">網頁</a></p></td>
-<td style="text-align: center;"><p>主：Fake a Smile（<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a> Feat. <a href="https://zh.wikipedia.org/wiki/李拾壹" title="wikilink">李拾壹</a>）<br />
-插：一個旅人（<a href="../Page/Rubberband.md" title="wikilink">6號</a>@<a href="../Page/Rubberband.md" title="wikilink">Rubberband</a>）</p></td>
+<td style="text-align: center;"><p>主：Fake a Smile（<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a> Feat. <a href="../Page/李拾壹.md" title="wikilink">李拾壹</a>）<br />
+插：一個旅人（<a href="https://zh.wikipedia.org/wiki/Rubberband" title="wikilink">6號</a>@<a href="https://zh.wikipedia.org/wiki/Rubberband" title="wikilink">Rubberband</a>）</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2017年9月7日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/西謊極落之太爆太子太空艙" title="wikilink">西謊極落之太爆太子太空艙</a><br />
+<td style="text-align: center;"><p><a href="../Page/西謊極落之太爆太子太空艙.md" title="wikilink">西謊極落之太爆太子太空艙</a><br />
 The Sinking City From the Space Capsule</p></td>
 <td style="text-align: center;"><p><a href="../Page/周柏豪.md" title="wikilink">周柏豪</a>、<a href="https://zh.wikipedia.org/wiki/連詩雅" title="wikilink">連詩雅</a>、<a href="../Page/雨僑.md" title="wikilink">雨　僑</a>、<br />
 <a href="../Page/張繼聰.md" title="wikilink">張繼聰</a>、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a>、<a href="../Page/蔡瀚億.md" title="wikilink">蔡瀚億</a>、<br />
 <a href="../Page/林盛斌.md" title="wikilink">林盛斌</a>、<a href="https://zh.wikipedia.org/wiki/林敏聰" title="wikilink">林敏聰</a>、<a href="../Page/陳詩慧.md" title="wikilink">陳詩慧</a>、<br />
-<a href="../Page/周祉君.md" title="wikilink">周祉君</a>、<a href="https://zh.wikipedia.org/wiki/杜小喬" title="wikilink">杜小喬</a>、<a href="../Page/莊思敏.md" title="wikilink">莊思敏</a>、<br />
+<a href="../Page/周祉君.md" title="wikilink">周祉君</a>、<a href="../Page/杜小喬.md" title="wikilink">杜小喬</a>、<a href="../Page/莊思敏.md" title="wikilink">莊思敏</a>、<br />
 <a href="../Page/宋本中.md" title="wikilink">宋本中</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳漢邦" title="wikilink">吳漢邦</a><br />
 <a href="https://zh.wikipedia.org/wiki/吳兆麟_(導演)" title="wikilink">吳兆麟</a></p></td>
@@ -467,7 +467,7 @@ Always Be With You</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/棟篤特工" title="wikilink">棟篤特工</a><br />
 Agent Mr. Chan</p></td>
 <td style="text-align: center;"><p><a href="../Page/黃子華.md" title="wikilink">黃子華</a>、<a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a>、<a href="../Page/鄭丹瑞.md" title="wikilink">鄭丹瑞</a>、<br />
-<a href="../Page/蘇麗珊.md" title="wikilink">蘇麗珊</a>、<a href="https://zh.wikipedia.org/wiki/鄭詩君" title="wikilink">鄭詩君</a>、<a href="https://zh.wikipedia.org/wiki/鄧月平" title="wikilink">鄧月平</a>、<br />
+<a href="../Page/蘇麗珊.md" title="wikilink">蘇麗珊</a>、<a href="https://zh.wikipedia.org/wiki/鄭詩君" title="wikilink">鄭詩君</a>、<a href="../Page/鄧月平.md" title="wikilink">鄧月平</a>、<br />
 <a href="../Page/鄭中基.md" title="wikilink">鄭中基</a>、<a href="../Page/張建聲.md" title="wikilink">張建聲</a>、<a href="../Page/林雪.md" title="wikilink">林　雪</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張家傑" title="wikilink">張家傑</a></p></td>
 <td style="text-align: center;"><p><a href="http://www.china3d8078.com/film/detail.html?film_id=68">網頁</a></p></td>
@@ -475,7 +475,7 @@ Agent Mr. Chan</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2018年6月21日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/洩密者" title="wikilink">洩密者們</a><br />
+<td style="text-align: center;"><p><a href="../Page/洩密者.md" title="wikilink">洩密者們</a><br />
 The Leaker</p></td>
 <td style="text-align: center;"><p><a href="../Page/吳鎮宇.md" title="wikilink">吳鎮宇</a>、<a href="../Page/張智霖.md" title="wikilink">張智霖</a>、<a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a>、<br />
 <a href="../Page/周秀娜.md" title="wikilink">周秀娜</a>、<a href="https://zh.wikipedia.org/wiki/鄭則士" title="wikilink">鄭則士</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a>、<br />
@@ -487,11 +487,11 @@ The Leaker</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2018年11月15日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/冰封俠：時空行者" title="wikilink">冰封俠：時空行者</a><br />
+<td style="text-align: center;"><p><a href="../Page/冰封俠：時空行者.md" title="wikilink">冰封俠：時空行者</a><br />
 Iceman: The Time Traveller</p></td>
 <td style="text-align: center;"><p><a href="../Page/甄子丹.md" title="wikilink">甄子丹</a>、<a href="../Page/任達華.md" title="wikilink">任達華</a>、<a href="https://zh.wikipedia.org/wiki/黃聖依" title="wikilink">黃聖依</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/王寶強" title="wikilink">王寶強</a>、<a href="https://zh.wikipedia.org/wiki/倉田保昭" title="wikilink">倉田保昭</a>、<a href="https://zh.wikipedia.org/wiki/喻亢" title="wikilink">喻　亢</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/葉偉民" title="wikilink">葉偉民</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/葉偉民.md" title="wikilink">葉偉民</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>|主：冰封（<a href="../Page/蕭敬騰.md" title="wikilink">蕭敬騰</a>）</p></td>
 </tr>
@@ -501,7 +501,7 @@ Iceman: The Time Traveller</p></td>
 Deception of the Novelist</p></td>
 <td style="text-align: center;"><p><a href="../Page/張建聲.md" title="wikilink">張建聲</a>、<a href="../Page/松岡李那.md" title="wikilink">松岡李那</a>、<a href="../Page/何佩瑜.md" title="wikilink">何佩瑜</a>、<br />
 <a href="../Page/陳浩民.md" title="wikilink">陳浩民</a>、<a href="https://zh.wikipedia.org/wiki/陸永權" title="wikilink">陸永權</a>、<a href="https://zh.wikipedia.org/wiki/鄭詩君" title="wikilink">鄭詩君</a>、<br />
-<a href="../Page/趙永洪.md" title="wikilink">趙永洪</a>、<a href="https://zh.wikipedia.org/wiki/陳嘉莉" title="wikilink">陳嘉莉</a>、<a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、<br />
+<a href="../Page/趙永洪.md" title="wikilink">趙永洪</a>、<a href="../Page/陳嘉莉.md" title="wikilink">陳嘉莉</a>、<a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、<br />
 <a href="../Page/鄒文正.md" title="wikilink">鄒文正</a>、<a href="../Page/吳岱融.md" title="wikilink">吳岱融</a>、<a href="../Page/陳國坤.md" title="wikilink">陳國坤</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/孫立基" title="wikilink">孫立基</a></p></td>
 <td style="text-align: center;"></td>
@@ -546,11 +546,11 @@ Deception of the Novelist</p></td>
 Dark Secret</p></td>
 <td style="text-align: center;"><p><a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、<a href="../Page/郭偉亮.md" title="wikilink">Eric Kwok</a>、<br />
 <a href="../Page/尹揚明.md" title="wikilink">尹揚明</a>、<a href="https://zh.wikipedia.org/wiki/李靜蓮" title="wikilink">李靜蓮</a>、<a href="https://zh.wikipedia.org/wiki/薛國斌" title="wikilink">薛國斌</a>、<br />
-<a href="../Page/鄒文正.md" title="wikilink">鄒文正</a>、<a href="https://zh.wikipedia.org/wiki/張雷" title="wikilink">張　雷</a>、<a href="https://zh.wikipedia.org/wiki/布志綸" title="wikilink">布志綸</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/伍倩彤" title="wikilink">伍倩彤</a>、<a href="https://zh.wikipedia.org/wiki/黃竣鋒" title="wikilink">黃竣鋒</a>、<a href="https://zh.wikipedia.org/wiki/伍熹賢" title="wikilink">伍熹賢</a></p></td>
+<a href="../Page/鄒文正.md" title="wikilink">鄒文正</a>、<a href="https://zh.wikipedia.org/wiki/張雷" title="wikilink">張　雷</a>、<a href="../Page/布志綸.md" title="wikilink">布志綸</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/伍倩彤" title="wikilink">伍倩彤</a>、<a href="../Page/黃竣鋒.md" title="wikilink">黃竣鋒</a>、<a href="https://zh.wikipedia.org/wiki/伍熹賢" title="wikilink">伍熹賢</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭英偉" title="wikilink">鄭英偉</a></p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主：暗算天機主題音樂（<a href="https://zh.wikipedia.org/wiki/韋啟良" title="wikilink">韋啟良作曲</a>）<br />
+<td style="text-align: center;"><p>主：暗算天機主題音樂（<a href="../Page/韋啟良.md" title="wikilink">韋啟良作曲</a>）<br />
 尾：天機泄露（獨唱版）（<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>）<br />
 尾：天機泄露（合唱版）（<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>）</p></td>
 </tr>
@@ -563,14 +563,14 @@ Dark Secret</p></td>
 Hong Kong West Side Stories</p></td>
 <td style="text-align: center;"><p><a href="../Page/張繼聰.md" title="wikilink">張繼聰</a>、<a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、<a href="../Page/張建聲.md" title="wikilink">張建聲</a>、<br />
 <a href="../Page/林雪.md" title="wikilink">林　雪</a>、<a href="../Page/趙永洪.md" title="wikilink">趙永洪</a>、<a href="https://zh.wikipedia.org/wiki/趙善恆" title="wikilink">趙善恆</a> @ <a href="../Page/ToNick.md" title="wikilink">ToNick</a>、<br />
-<a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a>、<a href="../Page/石詠莉.md" title="wikilink">石詠莉</a>、<a href="https://zh.wikipedia.org/wiki/廖子妤" title="wikilink">廖子妤</a>、<br />
+<a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a>、<a href="../Page/石詠莉.md" title="wikilink">石詠莉</a>、<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<br />
 <a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="https://zh.wikipedia.org/wiki/李美琪_(香港)" title="wikilink">李美琪</a>、<br />
-<a href="../Page/李尚正.md" title="wikilink">李尚正</a>、<a href="https://zh.wikipedia.org/wiki/黎紀君" title="wikilink">黎紀君</a>、、<br />
-<a href="https://zh.wikipedia.org/wiki/張沛樂" title="wikilink">張沛樂</a>、、<a href="https://zh.wikipedia.org/wiki/王嘉偉" title="wikilink">東方昇</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/杜小喬" title="wikilink">杜小喬</a>、<a href="../Page/甄詠珊.md" title="wikilink">甄詠珊</a>、<a href="../Page/陳意嵐.md" title="wikilink">陳意嵐</a>、<br />
+<a href="../Page/李尚正.md" title="wikilink">李尚正</a>、<a href="../Page/黎紀君.md" title="wikilink">黎紀君</a>、、<br />
+<a href="../Page/張沛樂.md" title="wikilink">張沛樂</a>、、<a href="https://zh.wikipedia.org/wiki/王嘉偉" title="wikilink">東方昇</a>、<br />
+<a href="../Page/杜小喬.md" title="wikilink">杜小喬</a>、<a href="../Page/甄詠珊.md" title="wikilink">甄詠珊</a>、<a href="../Page/陳意嵐.md" title="wikilink">陳意嵐</a>、<br />
 <a href="../Page/吳浣儀.md" title="wikilink">吳浣儀</a>、<a href="../Page/陳詩慧.md" title="wikilink">陳詩慧</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/譚杏藍" title="wikilink">譚杏藍</a>、<a href="../Page/白健恩.md" title="wikilink">白健恩</a>、、<br />
-<a href="https://zh.wikipedia.org/wiki/陳嘉莉" title="wikilink">陳嘉莉</a>、<a href="https://zh.wikipedia.org/wiki/Super_Girls" title="wikilink">Super Girls</a>（<a href="../Page/蔡明思.md" title="wikilink">蔡明思</a>、<a href="https://zh.wikipedia.org/wiki/陳穎欣" title="wikilink">陳穎欣</a>）</p></td>
+<a href="../Page/譚杏藍.md" title="wikilink">譚杏藍</a>、<a href="../Page/白健恩.md" title="wikilink">白健恩</a>、、<br />
+<a href="../Page/陳嘉莉.md" title="wikilink">陳嘉莉</a>、<a href="https://zh.wikipedia.org/wiki/Super_Girls" title="wikilink">Super Girls</a>（<a href="../Page/蔡明思.md" title="wikilink">蔡明思</a>、<a href="https://zh.wikipedia.org/wiki/陳穎欣" title="wikilink">陳穎欣</a>）</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳漢邦" title="wikilink">吳漢邦</a><br />
 <a href="https://zh.wikipedia.org/wiki/吳兆麟_(導演)" title="wikilink">吳兆麟</a></p></td>
 <td style="text-align: center;"></td>
@@ -582,9 +582,9 @@ Hong Kong West Side Stories</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/性敢中環" title="wikilink">性敢中環</a><br />
 Central</p></td>
 <td style="text-align: center;"><p><a href="../Page/何佩瑜.md" title="wikilink">何佩瑜</a>、<a href="https://zh.wikipedia.org/wiki/連詩雅" title="wikilink">連詩雅</a>、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a>、<br />
-<a href="../Page/雨僑.md" title="wikilink">雨　僑</a>、<a href="https://zh.wikipedia.org/wiki/陳嘉莉" title="wikilink">陳嘉莉</a>、<a href="../Page/孫耀威.md" title="wikilink">孫耀威</a>、<br />
-<a href="../Page/郭偉亮.md" title="wikilink">Eric Kwok</a>、<a href="https://zh.wikipedia.org/wiki/栢天男" title="wikilink">栢天男</a>、<a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a>、<br />
-<a href="../Page/蔡瀚億.md" title="wikilink">蔡瀚億</a>、<a href="../Page/鄒文正.md" title="wikilink">鄒文正</a>、<a href="https://zh.wikipedia.org/wiki/陳綺雯" title="wikilink">陳綺雯</a>、<br />
+<a href="../Page/雨僑.md" title="wikilink">雨　僑</a>、<a href="../Page/陳嘉莉.md" title="wikilink">陳嘉莉</a>、<a href="../Page/孫耀威.md" title="wikilink">孫耀威</a>、<br />
+<a href="../Page/郭偉亮.md" title="wikilink">Eric Kwok</a>、<a href="../Page/栢天男.md" title="wikilink">栢天男</a>、<a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a>、<br />
+<a href="../Page/蔡瀚億.md" title="wikilink">蔡瀚億</a>、<a href="../Page/鄒文正.md" title="wikilink">鄒文正</a>、<a href="../Page/陳綺雯.md" title="wikilink">陳綺雯</a>、<br />
 <a href="../Page/白健恩.md" title="wikilink">白健恩</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳錦強" title="wikilink">陳錦強</a></p></td>
 <td style="text-align: center;"></td>
@@ -753,7 +753,7 @@ Central</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/譚順生" title="wikilink">譚順生</a></p></td>
+<td><p><a href="../Page/譚順生.md" title="wikilink">譚順生</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/想到舊年" title="wikilink">想到舊年</a></p></td>
 <td><p>6月16日</p></td>
 <td><p>明日話今天</p></td>
@@ -809,7 +809,7 @@ Central</p></td>
 <td></td>
 <td></td>
 <td><p>I'll Be With You<br />
-<small>（<a href="../Page/奇妙電視.md" title="wikilink">奇妙電視電視劇</a>《<a href="https://zh.wikipedia.org/wiki/閃婚100天" title="wikilink">閃婚100天</a>》主題曲）</small></p></td>
+<small>（<a href="../Page/奇妙電視.md" title="wikilink">奇妙電視電視劇</a>《<a href="../Page/閃婚100天.md" title="wikilink">閃婚100天</a>》主題曲）</small></p></td>
 <td><p>心頭大石</p></td>
 <td><p>死不了的</p></td>
 <td><p>一切天空早注定</p></td>
@@ -820,7 +820,7 @@ Central</p></td>
 <td></td>
 <td></td>
 <td><p>太空艙<br />
-<small>（電影《<a href="https://zh.wikipedia.org/wiki/西謊極落之太爆太子太空艙" title="wikilink">西謊極落之太爆太子太空艙</a>》主題曲）</small></p></td>
+<small>（電影《<a href="../Page/西謊極落之太爆太子太空艙.md" title="wikilink">西謊極落之太爆太子太空艙</a>》主題曲）</small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -848,7 +848,7 @@ Central</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/杜小喬" title="wikilink">杜小喬</a></p></td>
+<td><p><a href="../Page/杜小喬.md" title="wikilink">杜小喬</a></p></td>
 <td></td>
 <td></td>
 <td><p>泡泡裡的空氣</p></td>
@@ -872,7 +872,7 @@ Central</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳永馨" title="wikilink">陳永馨</a></p></td>
+<td><p><a href="../Page/陳永馨.md" title="wikilink">陳永馨</a></p></td>
 <td></td>
 <td></td>
 <td><p>愛只為你寫</p></td>
@@ -882,7 +882,7 @@ Central</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄧月平" title="wikilink">鄧月平</a></p></td>
+<td><p><a href="../Page/鄧月平.md" title="wikilink">鄧月平</a></p></td>
 <td></td>
 <td></td>
 <td><p>女神經</p></td>
@@ -1006,7 +1006,7 @@ Central</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/石詠莉.md" title="wikilink">石詠莉</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/聽聽Sukie&#39;s" title="wikilink">聽聽Sukie's</a></p></td>
+<td><p><a href="../Page/聽聽Sukie&#39;s.md" title="wikilink">聽聽Sukie's</a></p></td>
 <td><p>7月3日</p></td>
 <td><p>結他低泣時</p></td>
 <td><p>如泣如訴</p></td>
@@ -1036,7 +1036,7 @@ Central</p></td>
 <td><p>Be Yourself</p></td>
 <td><p>I'll Be There<br />
 <small>（<a href="../Page/香港電視網絡.md" title="wikilink">香港電視網絡電視劇</a><br />
-《<a href="https://zh.wikipedia.org/wiki/選戰" title="wikilink">選戰</a>》插曲）</small></p></td>
+《<a href="../Page/選戰.md" title="wikilink">選戰</a>》插曲）</small></p></td>
 <td><p>It's My Dream</p></td>
 <td></td>
 <td></td>
@@ -1074,7 +1074,7 @@ Central</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/石詠莉.md" title="wikilink">石詠莉</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Welcome_2_My_Destination" title="wikilink">Sukie S Welcome<br />
+<td><p><a href="../Page/Welcome_2_My_Destination.md" title="wikilink">Sukie S Welcome<br />
 2 My Destination</a></p></td>
 <td><p>9月25日</p></td>
 <td><p>第三類接觸</p></td>
@@ -1096,7 +1096,7 @@ Central</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/石詠莉.md" title="wikilink">石詠莉</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Welcome_2_My_Destination" title="wikilink">Sukie S Welcome<br />
+<td><p><a href="../Page/Welcome_2_My_Destination.md" title="wikilink">Sukie S Welcome<br />
 2 My Destination<br />
 （特別版）</a><br />
 <small>（CD + Live CD）</small></p></td>
@@ -1193,7 +1193,7 @@ Central</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Freeze.md" title="wikilink">Freeze</a></p></td>
-<td><p><a href="../Page/Golden_eyes.md" title="wikilink">Golden Eyes</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Golden_eyes" title="wikilink">Golden Eyes</a></p></td>
 <td><p>11月29日</p></td>
 <td><p>情場大後備</p></td>
 <td><p>金睛火眼<br />
@@ -1346,7 +1346,7 @@ Central</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/杜德偉.md" title="wikilink">杜德偉</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Best_Sixteen" title="wikilink">The Best Sixteen</a><br />
+<td><p><a href="../Page/The_Best_Sixteen.md" title="wikilink">The Best Sixteen</a><br />
 （粵語新曲加精選）</p></td>
 <td><p>8月18日</p></td>
 <td><p>影子舞</p></td>
@@ -1427,7 +1427,7 @@ Central</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/何浩文" title="wikilink">何浩文</a></p></td>
+<td><p><a href="../Page/何浩文.md" title="wikilink">何浩文</a></p></td>
 <td></td>
 <td></td>
 <td><p>Say You Love Me</p></td>
@@ -1588,7 +1588,7 @@ Central</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭融.md" title="wikilink">鄭　融</a></p></td>
-<td><p><a href="../Page/Honey.md" title="wikilink">Honey</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Honey" title="wikilink">Honey</a></p></td>
 <td><p>11月9日</p></td>
 <td><p>Honey</p></td>
 <td><p>想入非非</p></td>
@@ -1954,7 +1954,7 @@ Central</p></td>
 <td><p>小孩</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Keep_Going_(周柏豪專輯)" title="wikilink">Keep Going</a></p></td>
+<td><p><a href="../Page/Keep_Going_(周柏豪專輯).md" title="wikilink">Keep Going</a></p></td>
 <td><p>9月16日</p></td>
 <td><p>現在已夜深</p></td>
 <td><p>自由意志</p></td>
@@ -2027,7 +2027,7 @@ Central</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/周柏豪.md" title="wikilink">周柏豪</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/One_Step_Closer" title="wikilink">One Step Closer</a></p></td>
+<td><p><a href="../Page/One_Step_Closer.md" title="wikilink">One Step Closer</a></p></td>
 <td><p>4月7日</p></td>
 <td><p>有生一天</p></td>
 <td><p>終於我們<br />
@@ -2165,13 +2165,13 @@ Central</p></td>
 
   - 的頁面
 
-  - [中國3D數碼娛樂](http://www.youtube.com/china3ddigital)在[Youtube的頁面](../Page/Youtube.md "wikilink")
+  - [中國3D數碼娛樂](http://www.youtube.com/china3ddigital)在[Youtube的頁面](https://zh.wikipedia.org/wiki/Youtube "wikilink")
 
-  - [GME中國](http://www.youtube.com/gmegroupasia)在[Youtube的頁面](../Page/Youtube.md "wikilink")
+  - [GME中國](http://www.youtube.com/gmegroupasia)在[Youtube的頁面](https://zh.wikipedia.org/wiki/Youtube "wikilink")
 
-  - [GME中國](http://www.youtube.com/user/gmemusicofficial)在[Youtube的頁面](../Page/Youtube.md "wikilink")
+  - [GME中國](http://www.youtube.com/user/gmemusicofficial)在[Youtube的頁面](https://zh.wikipedia.org/wiki/Youtube "wikilink")
 
-  - [種星堂娛樂](http://www.youtube.com/user/StarzEntertainmentHK)在[Youtube的頁面](../Page/Youtube.md "wikilink")
+  - [種星堂娛樂](http://www.youtube.com/user/StarzEntertainmentHK)在[Youtube的頁面](https://zh.wikipedia.org/wiki/Youtube "wikilink")
 
 [Category:香港電影公司](https://zh.wikipedia.org/wiki/Category:香港電影公司 "wikilink")
 [Category:香港唱片公司](https://zh.wikipedia.org/wiki/Category:香港唱片公司 "wikilink")

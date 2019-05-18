@@ -1,5 +1,5 @@
 **Enigmail**是一个[Mozilla
-Thunderbird和](../Page/Mozilla_Thunderbird.md "wikilink")[SeaMonkey](../Page/SeaMonkey.md "wikilink")[网络套件的](https://zh.wikipedia.org/wiki/网络套件 "wikilink")[数据加密和解密](https://zh.wikipedia.org/wiki/加密 "wikilink")[扩展](https://zh.wikipedia.org/wiki/附加组件_\(Mozilla\) "wikilink")，提供了[OpenPGP的电子邮件](https://zh.wikipedia.org/wiki/OpenPGP "wikilink")[公钥加密和签名功能](../Page/公开密钥加密.md "wikilink")。Enigmail可以在[Microsoft
+Thunderbird和](../Page/Mozilla_Thunderbird.md "wikilink")[SeaMonkey](../Page/SeaMonkey.md "wikilink")[网络套件的](https://zh.wikipedia.org/wiki/网络套件 "wikilink")[数据加密和解密](https://zh.wikipedia.org/wiki/加密 "wikilink")[扩展](../Page/附加组件_\(Mozilla\).md "wikilink")，提供了[OpenPGP的电子邮件](https://zh.wikipedia.org/wiki/OpenPGP "wikilink")[公钥加密和签名功能](../Page/公开密钥加密.md "wikilink")。Enigmail可以在[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[类Unix和](../Page/类Unix系统.md "wikilink")[Mac
 OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[操作系统下运行](../Page/操作系统.md "wikilink")。它的[加密功能由](../Page/密码学.md "wikilink")[GNU

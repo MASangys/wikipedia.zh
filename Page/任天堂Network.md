@@ -7,7 +7,7 @@ Connection并行运行。其主要竞争对手是[索尼電腦娛樂的](https:/
 Network和](../Page/PlayStation_Network.md "wikilink")[微软的](../Page/微软.md "wikilink")[Xbox
 Live](../Page/Xbox_Live.md "wikilink")。
 
-[任天堂Switch並未使用任天堂Network作為其在線平台](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")，而是使用收費營運的[任天堂Switch線上服務平台](https://zh.wikipedia.org/wiki/任天堂Switch線上服務 "wikilink")。
+[任天堂Switch並未使用任天堂Network作為其在線平台](../Page/任天堂Switch.md "wikilink")，而是使用收費營運的[任天堂Switch線上服務平台](../Page/任天堂Switch線上服務.md "wikilink")。
 
 ## 历史
 

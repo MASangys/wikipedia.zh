@@ -7,7 +7,7 @@ Uru名义活动。由于本名、年龄等个人-{zh-cn:信息;zh-tw:資訊;}-�
 
 2016年3月，发表了开办个人演唱会的消息，收到了10倍于预计席位的申请。
 
-2016年6月，发表了个人第一张单曲《-{zh-cn:星星里的你;zh-tw:星星中的你;}-》（[有村架纯主演电影](../Page/有村架純.md "wikilink")《[夏美的萤火虫](https://zh.wikipedia.org/wiki/夏美的螢火蟲 "wikilink")》的主题曲），正式出道\[3\]。
+2016年6月，发表了个人第一张单曲《-{zh-cn:星星里的你;zh-tw:星星中的你;}-》（[有村架纯主演电影](../Page/有村架純.md "wikilink")《[夏美的萤火虫](../Page/夏美的螢火蟲.md "wikilink")》的主题曲），正式出道\[3\]。
 
 2017年11月，发表了第五张单曲《奇迹》（[绫野刚主演电视剧](../Page/綾野剛.md "wikilink")《[产科医鸿鸟](https://zh.wikipedia.org/wiki/產科醫鴻鳥 "wikilink")》第二季主题曲）\[4\]。
 
@@ -86,7 +86,7 @@ Uru名义活动。由于本名、年龄等个人-{zh-cn:信息;zh-tw:資訊;}-�
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>2018年12月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/序幕" title="wikilink">序幕</a></p></td>
+<td><p><a href="../Page/序幕.md" title="wikilink">序幕</a></p></td>
 <td><p>AICL-3611/2</p>
 <hr />
 <p>AICL-3613</p></td>
@@ -135,7 +135,7 @@ Uru名义活动。由于本名、年龄等个人-{zh-cn:信息;zh-tw:資訊;}-�
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p>電影《<a href="https://zh.wikipedia.org/wiki/夏美的螢火蟲" title="wikilink">夏美的螢火蟲</a>》主題曲[8]</p></td>
+<td><p>電影《<a href="../Page/夏美的螢火蟲.md" title="wikilink">夏美的螢火蟲</a>》主題曲[8]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -151,7 +151,7 @@ Uru名义活动。由于本名、年龄等个人-{zh-cn:信息;zh-tw:資訊;}-�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/幸福的記憶" title="wikilink">幸福的記憶</a>》主題曲[10]</p></td>
+<td><p>電視劇《<a href="../Page/幸福的記憶.md" title="wikilink">幸福的記憶</a>》主題曲[10]</p></td>
 </tr>
 <tr class="even">
 <td></td>

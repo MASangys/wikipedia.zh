@@ -3,7 +3,7 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 
 此時段在早年於[KBS
 1TV播映](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")，後因製作成本於2009年播畢《青春禮讚》，並將該劇由原定120集減少至75集後暫停。在此之後，KBS電視台僅於兩年後便恢復此時段，並改由[KBS
-2TV播放](https://zh.wikipedia.org/wiki/KBS_2TV "wikilink")，取代原本以現代為背景的[晨間連續劇](https://zh.wikipedia.org/wiki/KBS晨間連續劇 "wikilink")。然而，在時段恢復後，劇集收視率出現每部劇比前一部劇稍低的情況，由2011年《福熙姐》的平均12.5%跌至2018年《波濤啊，波濤啊》的平均7.4%。加上，時代劇背景令廣告難以在劇集中置入，使劇集拍攝成本難以透過廣告收益減少。因此，KBS再於2018年8月廢除此時段。
+2TV播放](https://zh.wikipedia.org/wiki/KBS_2TV "wikilink")，取代原本以現代為背景的[晨間連續劇](../Page/KBS晨間連續劇.md "wikilink")。然而，在時段恢復後，劇集收視率出現每部劇比前一部劇稍低的情況，由2011年《福熙姐》的平均12.5%跌至2018年《波濤啊，波濤啊》的平均7.4%。加上，時代劇背景令廣告難以在劇集中置入，使劇集拍攝成本難以透過廣告收益減少。因此，KBS再於2018年8月廢除此時段。
 
 ## 播放時間
 
@@ -134,7 +134,7 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/路_(韓國電視劇)" title="wikilink">路</a><br />
 </p></td>
 <td style="text-align: center;"><p>144</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鮮于銀淑" title="wikilink">鮮-{于}-銀淑</a>、<a href="../Page/鄭愛利.md" title="wikilink">鄭愛利</a>、<a href="../Page/柳惠利.md" title="wikilink">柳惠利</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/鮮于銀淑.md" title="wikilink">鮮-{于}-銀淑</a>、<a href="../Page/鄭愛利.md" title="wikilink">鄭愛利</a>、<a href="../Page/柳惠利.md" title="wikilink">柳惠利</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴英俊" title="wikilink">朴英俊</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴智賢" title="wikilink">朴智賢</a></p></td>
 <td style="text-align: center;"></td>
@@ -284,7 +284,7 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/你與我的歌" title="wikilink">你與我的歌</a><br />
 </p></td>
 <td style="text-align: center;"><p>119</p></td>
-<td style="text-align: center;"><p><a href="../Page/廉晶雅.md" title="wikilink">廉晶雅</a>、<a href="https://zh.wikipedia.org/wiki/音貞熙" title="wikilink">音貞熙</a>、<a href="../Page/李昌勳.md" title="wikilink">李昌勳</a>、<a href="https://zh.wikipedia.org/wiki/金明樹" title="wikilink">金明樹</a>、<a href="../Page/金英玉.md" title="wikilink">金英玉</a>、<a href="https://zh.wikipedia.org/wiki/嚴侑信" title="wikilink">嚴侑信</a>、<a href="https://zh.wikipedia.org/wiki/鮮于銀淑" title="wikilink">鮮-{于}-銀淑</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/廉晶雅.md" title="wikilink">廉晶雅</a>、<a href="https://zh.wikipedia.org/wiki/音貞熙" title="wikilink">音貞熙</a>、<a href="../Page/李昌勳.md" title="wikilink">李昌勳</a>、<a href="https://zh.wikipedia.org/wiki/金明樹" title="wikilink">金明樹</a>、<a href="../Page/金英玉.md" title="wikilink">金英玉</a>、<a href="https://zh.wikipedia.org/wiki/嚴侑信" title="wikilink">嚴侑信</a>、<a href="../Page/鮮于銀淑.md" title="wikilink">鮮-{于}-銀淑</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/鄭成孝.md" title="wikilink">鄭成孝</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋正琳" title="wikilink">宋正琳</a></p></td>
 <td style="text-align: center;"></td>
@@ -295,7 +295,7 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/恩雅的花園" title="wikilink">恩雅的花園</a><br />
 </p></td>
 <td style="text-align: center;"><p>168</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吉用祐" title="wikilink">吉用祐</a>、<a href="../Page/鄭愛利.md" title="wikilink">鄭愛利</a>、<a href="../Page/獨孤永宰.md" title="wikilink">獨孤永宰</a>、<a href="https://zh.wikipedia.org/wiki/徐仁錫" title="wikilink">徐仁錫</a>、<a href="https://zh.wikipedia.org/wiki/尹美羅" title="wikilink">尹美羅</a>、<a href="../Page/琴寶羅.md" title="wikilink">琴寶羅</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吉用祐.md" title="wikilink">吉用祐</a>、<a href="../Page/鄭愛利.md" title="wikilink">鄭愛利</a>、<a href="../Page/獨孤永宰.md" title="wikilink">獨孤永宰</a>、<a href="https://zh.wikipedia.org/wiki/徐仁錫" title="wikilink">徐仁錫</a>、<a href="../Page/尹美羅.md" title="wikilink">尹美羅</a>、<a href="../Page/琴寶羅.md" title="wikilink">琴寶羅</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹昌範" title="wikilink">尹昌範</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金惠琳_(編劇)" title="wikilink">金惠琳</a></p></td>
 <td style="text-align: center;"></td>
@@ -334,7 +334,7 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/你_(韓國電視劇)" title="wikilink">你</a><br />
 </p></td>
 <td style="text-align: center;"><p>132</p></td>
-<td style="text-align: center;"><p><a href="../Page/金慧渲.md" title="wikilink">金慧渲</a>、<a href="../Page/獨孤永宰.md" title="wikilink">獨孤永宰</a>、<a href="../Page/金海淑.md" title="wikilink">金海淑</a>、<a href="../Page/鄭普碩.md" title="wikilink">鄭普碩</a>、<a href="https://zh.wikipedia.org/wiki/金秉世" title="wikilink">金秉世</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金慧渲.md" title="wikilink">金慧渲</a>、<a href="../Page/獨孤永宰.md" title="wikilink">獨孤永宰</a>、<a href="../Page/金海淑.md" title="wikilink">金海淑</a>、<a href="../Page/鄭普碩.md" title="wikilink">鄭普碩</a>、<a href="../Page/金秉世.md" title="wikilink">金秉世</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/洪星德" title="wikilink">洪星德</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李德載" title="wikilink">李德載</a></p></td>
 <td style="text-align: center;"></td>
@@ -395,7 +395,7 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/約定_(韓國電視劇)" title="wikilink">約定</a><br />
 </p></td>
 <td style="text-align: center;"><p>168</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/薛秀真" title="wikilink">薛秀真</a>、<a href="https://zh.wikipedia.org/wiki/鄭在昆" title="wikilink">鄭在昆</a>、<a href="https://zh.wikipedia.org/wiki/全銜" title="wikilink">全銜</a>、<a href="https://zh.wikipedia.org/wiki/金容琳" title="wikilink">金容琳</a>、<a href="https://zh.wikipedia.org/wiki/李瑩河" title="wikilink">李瑩河</a>、<a href="https://zh.wikipedia.org/wiki/李德華" title="wikilink">李德華</a>、<a href="https://zh.wikipedia.org/wiki/金圭哲" title="wikilink">金圭哲</a>、<a href="https://zh.wikipedia.org/wiki/嚴侑信" title="wikilink">嚴侑信</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/薛秀真" title="wikilink">薛秀真</a>、<a href="https://zh.wikipedia.org/wiki/鄭在昆" title="wikilink">鄭在昆</a>、<a href="https://zh.wikipedia.org/wiki/全銜" title="wikilink">全銜</a>、<a href="https://zh.wikipedia.org/wiki/金容琳" title="wikilink">金容琳</a>、<a href="https://zh.wikipedia.org/wiki/李瑩河" title="wikilink">李瑩河</a>、<a href="https://zh.wikipedia.org/wiki/李德華" title="wikilink">李德華</a>、<a href="../Page/金圭哲.md" title="wikilink">金圭哲</a>、<a href="https://zh.wikipedia.org/wiki/嚴侑信" title="wikilink">嚴侑信</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓正熙" title="wikilink">韓正熙</a>、<a href="https://zh.wikipedia.org/wiki/池英洙" title="wikilink">池英洙</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋正琳" title="wikilink">宋正琳</a></p></td>
 <td style="text-align: center;"></td>
@@ -434,7 +434,7 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梅花戀歌" title="wikilink">梅花戀歌</a><br />
 </p></td>
 <td style="text-align: center;"><p>168</p></td>
-<td style="text-align: center;"><p><a href="../Page/林志恩.md" title="wikilink">林志恩</a>、<a href="../Page/李周炫.md" title="wikilink">李周炫</a>、黃恩河、<a href="https://zh.wikipedia.org/wiki/全洋子" title="wikilink">全洋子</a>、<a href="../Page/潘曉靜.md" title="wikilink">潘曉靜</a>、<a href="https://zh.wikipedia.org/wiki/金娜雲" title="wikilink">金娜雲</a>、<a href="https://zh.wikipedia.org/wiki/金炯子" title="wikilink">金炯子</a>、<a href="../Page/柳惠利.md" title="wikilink">柳惠利</a>、<a href="https://zh.wikipedia.org/wiki/金圭哲" title="wikilink">金圭哲</a>、<a href="https://zh.wikipedia.org/wiki/成東日" title="wikilink">成東日</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/林志恩.md" title="wikilink">林志恩</a>、<a href="../Page/李周炫.md" title="wikilink">李周炫</a>、黃恩河、<a href="https://zh.wikipedia.org/wiki/全洋子" title="wikilink">全洋子</a>、<a href="../Page/潘曉靜.md" title="wikilink">潘曉靜</a>、<a href="../Page/金娜雲.md" title="wikilink">金娜雲</a>、<a href="https://zh.wikipedia.org/wiki/金炯子" title="wikilink">金炯子</a>、<a href="../Page/柳惠利.md" title="wikilink">柳惠利</a>、<a href="../Page/金圭哲.md" title="wikilink">金圭哲</a>、<a href="https://zh.wikipedia.org/wiki/成東日" title="wikilink">成東日</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金明旭" title="wikilink">金明旭</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/具賢淑" title="wikilink">具賢淑</a></p></td>
 <td style="text-align: center;"></td>
@@ -534,9 +534,9 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/薔薇_(韓國電視劇)" title="wikilink">薔薇</a><br />
 </p></td>
 <td style="text-align: center;"><p>180</p></td>
-<td style="text-align: center;"><p><a href="../Page/全美善.md" title="wikilink">全美善</a>、<a href="../Page/安妍紅.md" title="wikilink">安妍紅</a>、<a href="../Page/南成鎮.md" title="wikilink">南成鎮</a>、<a href="https://zh.wikipedia.org/wiki/徐仁錫" title="wikilink">徐仁錫</a>、<a href="../Page/李輝香.md" title="wikilink">李輝香</a>、<a href="../Page/朴仁煥.md" title="wikilink">朴仁煥</a>、<a href="https://zh.wikipedia.org/wiki/金日宇" title="wikilink">金日宇</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/全美善.md" title="wikilink">全美善</a>、<a href="../Page/安妍紅.md" title="wikilink">安妍紅</a>、<a href="../Page/南成鎮.md" title="wikilink">南成鎮</a>、<a href="https://zh.wikipedia.org/wiki/徐仁錫" title="wikilink">徐仁錫</a>、<a href="../Page/李輝香.md" title="wikilink">李輝香</a>、<a href="../Page/朴仁煥.md" title="wikilink">朴仁煥</a>、<a href="../Page/金日宇.md" title="wikilink">金日宇</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/申賢洙" title="wikilink">申賢洙</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴賢珠" title="wikilink">朴賢珠</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朴賢珠.md" title="wikilink">朴賢珠</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -662,8 +662,8 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/變江與你相遇" title="wikilink">變江與你相遇</a><br />
 </p></td>
 <td style="text-align: center;"><p>198</p></td>
-<td style="text-align: center;"><p><a href="../Page/金允慶.md" title="wikilink">金允慶</a>、<a href="https://zh.wikipedia.org/wiki/金赫" title="wikilink">金赫</a>、<a href="../Page/李必模.md" title="wikilink">李必模</a>、<a href="../Page/潘曉靜.md" title="wikilink">潘曉靜</a>、<a href="../Page/李孝正.md" title="wikilink">李孝正</a>、<a href="../Page/金美淑.md" title="wikilink">金美淑</a>、<a href="../Page/甄美里.md" title="wikilink">甄美里</a>、<a href="https://zh.wikipedia.org/wiki/鄭性模" title="wikilink">鄭性模</a>、<a href="../Page/高恩美.md" title="wikilink">高恩美</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/全成洪" title="wikilink">全成洪</a>、<a href="https://zh.wikipedia.org/wiki/金元錫" title="wikilink">金元錫</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金允慶.md" title="wikilink">金允慶</a>、<a href="https://zh.wikipedia.org/wiki/金赫" title="wikilink">金赫</a>、<a href="../Page/李必模.md" title="wikilink">李必模</a>、<a href="../Page/潘曉靜.md" title="wikilink">潘曉靜</a>、<a href="../Page/李孝正.md" title="wikilink">李孝正</a>、<a href="../Page/金美淑.md" title="wikilink">金美淑</a>、<a href="../Page/甄美里.md" title="wikilink">甄美里</a>、<a href="../Page/鄭性模.md" title="wikilink">鄭性模</a>、<a href="../Page/高恩美.md" title="wikilink">高恩美</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/全成洪" title="wikilink">全成洪</a>、<a href="../Page/金元錫.md" title="wikilink">金元錫</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李琴琳" title="wikilink">李琴琳</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -762,7 +762,7 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/大姐_(韓國電視劇)" title="wikilink">大姐</a><br />
 </p></td>
 <td style="text-align: center;"><p>150</p></td>
-<td style="text-align: center;"><p><a href="../Page/全慧珍.md" title="wikilink">全慧珍</a>、<a href="https://zh.wikipedia.org/wiki/吳盛恩" title="wikilink">吳盛恩</a>、<a href="https://zh.wikipedia.org/wiki/鄭多英" title="wikilink">鄭多英</a>、<a href="../Page/崔哲浩.md" title="wikilink">崔哲浩</a>、<a href="https://zh.wikipedia.org/wiki/金日宇" title="wikilink">金日宇</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/全慧珍.md" title="wikilink">全慧珍</a>、<a href="https://zh.wikipedia.org/wiki/吳盛恩" title="wikilink">吳盛恩</a>、<a href="https://zh.wikipedia.org/wiki/鄭多英" title="wikilink">鄭多英</a>、<a href="../Page/崔哲浩.md" title="wikilink">崔哲浩</a>、<a href="../Page/金日宇.md" title="wikilink">金日宇</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/洪星德" title="wikilink">洪星德</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李世英" title="wikilink">李世英</a>、<a href="https://zh.wikipedia.org/wiki/胡英玉" title="wikilink">胡英玉</a></p></td>
 <td style="text-align: center;"></td>
@@ -801,7 +801,7 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/青春禮讚" title="wikilink">青春禮讚</a><br />
 </p></td>
 <td style="text-align: center;"><p>75</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/劉多仁" title="wikilink">劉多仁</a>、<a href="https://zh.wikipedia.org/wiki/金東健" title="wikilink">金東健</a>、<a href="https://zh.wikipedia.org/wiki/李仁_(演員)" title="wikilink">李仁</a>、<a href="https://zh.wikipedia.org/wiki/金英俊" title="wikilink">金英俊</a>、<a href="https://zh.wikipedia.org/wiki/韓汝雲" title="wikilink">韓汝雲</a>、<a href="https://zh.wikipedia.org/wiki/文寶玲" title="wikilink">文寶玲</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/劉多仁.md" title="wikilink">劉多仁</a>、<a href="https://zh.wikipedia.org/wiki/金東健" title="wikilink">金東健</a>、<a href="../Page/李仁_(演員).md" title="wikilink">李仁</a>、<a href="https://zh.wikipedia.org/wiki/金英俊" title="wikilink">金英俊</a>、<a href="https://zh.wikipedia.org/wiki/韓汝雲" title="wikilink">韓汝雲</a>、<a href="../Page/文寶玲.md" title="wikilink">文寶玲</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李振書" title="wikilink">李振書</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔民基" title="wikilink">崔民基</a></p></td>
 <td style="text-align: center;"></td>
@@ -879,7 +879,7 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <td style="text-align: center;"><p><a href="../Page/愛情啊愛情啊.md" title="wikilink">愛情啊愛情啊</a><br />
 </p></td>
 <td style="text-align: center;"><p>175</p></td>
-<td style="text-align: center;"><p><a href="../Page/黃善熙.md" title="wikilink">黃善熙</a>、<a href="../Page/宋旻晶.md" title="wikilink">宋旻晶</a>、<a href="https://zh.wikipedia.org/wiki/吳昶錫" title="wikilink">吳昶錫</a>、<a href="https://zh.wikipedia.org/wiki/金山浩" title="wikilink">金山浩</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/黃善熙.md" title="wikilink">黃善熙</a>、<a href="../Page/宋旻晶.md" title="wikilink">宋旻晶</a>、<a href="../Page/吳昶錫.md" title="wikilink">吳昶錫</a>、<a href="../Page/金山浩.md" title="wikilink">金山浩</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李德健" title="wikilink">李德健</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/鄭賢珉.md" title="wikilink">鄭賢珉</a>、<a href="https://zh.wikipedia.org/wiki/孫智惠" title="wikilink">孫智惠</a></p></td>
 <td style="text-align: center;"></td>
@@ -918,7 +918,7 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <td style="text-align: center;"><p><a href="../Page/蔘生.md" title="wikilink">蔘生</a><br />
 </p></td>
 <td style="text-align: center;"><p>120</p></td>
-<td style="text-align: center;"><p><a href="../Page/洪雅凜.md" title="wikilink">洪雅凜</a>、<a href="../Page/孫星允.md" title="wikilink">孫星允</a>、<a href="https://zh.wikipedia.org/wiki/車道鎮" title="wikilink">車道鎮</a>、<a href="../Page/池一株.md" title="wikilink">池一株</a>、<a href="../Page/李雅賢.md" title="wikilink">李雅賢</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/洪雅凜.md" title="wikilink">洪雅凜</a>、<a href="../Page/孫星允.md" title="wikilink">孫星允</a>、<a href="../Page/車道鎮.md" title="wikilink">車道鎮</a>、<a href="../Page/池一株.md" title="wikilink">池一株</a>、<a href="../Page/李雅賢.md" title="wikilink">李雅賢</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金元勇" title="wikilink">金元勇</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李恩珠_(編劇)" title="wikilink">李恩珠</a></p></td>
 <td style="text-align: center;"></td>
@@ -929,7 +929,7 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <td style="text-align: center;"><p><a href="../Page/恩熙.md" title="wikilink">恩熙</a><br />
 </p></td>
 <td style="text-align: center;"><p>140</p></td>
-<td style="text-align: center;"><p><a href="../Page/景收真.md" title="wikilink">景收真</a>、<a href="https://zh.wikipedia.org/wiki/李仁_(演員)" title="wikilink">李　仁</a>、<a href="https://zh.wikipedia.org/wiki/崔允孝" title="wikilink">崔允孝</a>、<a href="https://zh.wikipedia.org/wiki/鄭民鎮" title="wikilink">鄭民鎮</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/景收真.md" title="wikilink">景收真</a>、<a href="../Page/李仁_(演員).md" title="wikilink">李　仁</a>、<a href="https://zh.wikipedia.org/wiki/崔允孝" title="wikilink">崔允孝</a>、<a href="https://zh.wikipedia.org/wiki/鄭民鎮" title="wikilink">鄭民鎮</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓哲京" title="wikilink">韓哲京</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李常敏" title="wikilink">李常敏</a>、<a href="https://zh.wikipedia.org/wiki/安洪蘭" title="wikilink">安洪蘭</a></p></td>
 <td style="text-align: center;"></td>
@@ -965,10 +965,10 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <tr class="odd">
 <td style="text-align: center;"><p>2014年1月6日－<br />
 2014年8月22日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/純金的地" title="wikilink">純金的地</a><br />
+<td style="text-align: center;"><p><a href="../Page/純金的地.md" title="wikilink">純金的地</a><br />
 </p></td>
 <td style="text-align: center;"><p>163</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/姜藝瑟" title="wikilink">姜藝瑟</a>、<a href="https://zh.wikipedia.org/wiki/姜恩卓" title="wikilink">姜恩卓</a>、<a href="https://zh.wikipedia.org/wiki/白勝熙" title="wikilink">白勝熙</a>、<a href="https://zh.wikipedia.org/wiki/李秉勳" title="wikilink">李秉勳</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/姜藝瑟.md" title="wikilink">姜藝瑟</a>、<a href="../Page/姜恩卓.md" title="wikilink">姜恩卓</a>、<a href="https://zh.wikipedia.org/wiki/白勝熙" title="wikilink">白勝熙</a>、<a href="https://zh.wikipedia.org/wiki/李秉勳" title="wikilink">李秉勳</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/申賢洙" title="wikilink">申賢洙</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李善熙" title="wikilink">李善熙</a></p></td>
 <td style="text-align: center;"></td>
@@ -976,10 +976,10 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <tr class="even">
 <td style="text-align: center;"><p>2014年8月25日－<br />
 2015年2月27日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/一片丹心蒲公英" title="wikilink">一片丹心蒲公英</a><br />
+<td style="text-align: center;"><p><a href="../Page/一片丹心蒲公英.md" title="wikilink">一片丹心蒲公英</a><br />
 </p></td>
 <td style="text-align: center;"><p>134</p></td>
-<td style="text-align: center;"><p><a href="../Page/金佳恩.md" title="wikilink">金佳恩</a>、<a href="../Page/洪仁永.md" title="wikilink">洪仁永</a>、<a href="https://zh.wikipedia.org/wiki/尹善宇" title="wikilink">尹善宇</a>、<a href="https://zh.wikipedia.org/wiki/全承彬" title="wikilink">全承彬</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金佳恩.md" title="wikilink">金佳恩</a>、<a href="../Page/洪仁永.md" title="wikilink">洪仁永</a>、<a href="../Page/尹善宇.md" title="wikilink">尹善宇</a>、<a href="https://zh.wikipedia.org/wiki/全承彬" title="wikilink">全承彬</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/申昌碩" title="wikilink">申昌碩</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李海晶" title="wikilink">李海晶</a>、<a href="https://zh.wikipedia.org/wiki/廉日浩" title="wikilink">廉日浩</a></p></td>
 <td style="text-align: center;"></td>
@@ -1015,7 +1015,7 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <tr class="odd">
 <td style="text-align: center;"><p>2015年3月2日－<br />
 2015年8月28日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/依然綠茵的日子" title="wikilink">依然綠茵的日子</a><br />
+<td style="text-align: center;"><p><a href="../Page/依然綠茵的日子.md" title="wikilink">依然綠茵的日子</a><br />
 </p></td>
 <td style="text-align: center;"><p>129</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋昰昀" title="wikilink">宋昰昀</a>、<a href="../Page/李海宇.md" title="wikilink">李海宇</a>、<a href="https://zh.wikipedia.org/wiki/鄭怡娟" title="wikilink">鄭怡娟</a>、<a href="https://zh.wikipedia.org/wiki/金民修" title="wikilink">金民修</a></p></td>
@@ -1029,7 +1029,7 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <td style="text-align: center;"><p><a href="../Page/星星閃爍.md" title="wikilink">星星閃爍</a><br />
 </p></td>
 <td style="text-align: center;"><p>128</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/高媛熙" title="wikilink">高媛熙</a>、<a href="https://zh.wikipedia.org/wiki/李夏率" title="wikilink">李夏率</a>、<a href="https://zh.wikipedia.org/wiki/徐允兒" title="wikilink">徐允兒</a>、<a href="https://zh.wikipedia.org/wiki/車道鎮" title="wikilink">車道鎮</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/高媛熙.md" title="wikilink">高媛熙</a>、<a href="https://zh.wikipedia.org/wiki/李夏率" title="wikilink">李夏率</a>、<a href="https://zh.wikipedia.org/wiki/徐允兒" title="wikilink">徐允兒</a>、<a href="../Page/車道鎮.md" title="wikilink">車道鎮</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/權桂紅" title="wikilink">權桂紅</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/柳銀河" title="wikilink">柳銀河</a>、<a href="https://zh.wikipedia.org/wiki/趙昭瑩" title="wikilink">趙昭瑩</a></p></td>
 <td style="text-align: center;"></td>
@@ -1068,7 +1068,7 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <td style="text-align: center;"><p><a href="../Page/我心中的花雨.md" title="wikilink">我心中的花雨</a><br />
 </p></td>
 <td style="text-align: center;"><p>128</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/羅海嶺" title="wikilink">羅海嶺</a>、<a href="https://zh.wikipedia.org/wiki/李昌旭" title="wikilink">李昌旭</a>、<a href="https://zh.wikipedia.org/wiki/池恩誠" title="wikilink">池恩誠</a>、<a href="https://zh.wikipedia.org/wiki/鄭怡娟" title="wikilink">鄭怡娟</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/羅海嶺" title="wikilink">羅海嶺</a>、<a href="../Page/李昌旭.md" title="wikilink">李昌旭</a>、<a href="https://zh.wikipedia.org/wiki/池恩誠" title="wikilink">池恩誠</a>、<a href="https://zh.wikipedia.org/wiki/鄭怡娟" title="wikilink">鄭怡娟</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/魚秀善" title="wikilink">魚秀善</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/韓熙貞.md" title="wikilink">韓熙貞</a></p></td>
 <td style="text-align: center;"></td>
@@ -1076,10 +1076,10 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <tr class="even">
 <td style="text-align: center;"><p>2016年9月7日－<br />
 2017年2月24日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/在天空中的太陽" title="wikilink">在天空中的太陽</a><br />
+<td style="text-align: center;"><p><a href="../Page/在天空中的太陽.md" title="wikilink">在天空中的太陽</a><br />
 </p></td>
 <td style="text-align: center;"><p>121</p></td>
-<td style="text-align: center;"><p><a href="../Page/尹兒貞.md" title="wikilink">尹兒貞</a>、<a href="../Page/李珉宇.md" title="wikilink">李珉宇</a>、<a href="../Page/盧英學.md" title="wikilink">盧英學</a>、<a href="https://zh.wikipedia.org/wiki/金惠智" title="wikilink">金惠智</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/尹兒貞.md" title="wikilink">尹兒貞</a>、<a href="../Page/李珉宇.md" title="wikilink">李珉宇</a>、<a href="../Page/盧英學.md" title="wikilink">盧英學</a>、<a href="../Page/金惠智.md" title="wikilink">金惠智</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金信一" title="wikilink">金信一</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金智完" title="wikilink">金智完</a>、<a href="https://zh.wikipedia.org/wiki/李珍錫" title="wikilink">李珍錫</a></p></td>
 <td style="text-align: center;"></td>
@@ -1115,10 +1115,10 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <tr class="odd">
 <td style="text-align: center;"><p>2017年2月27日－<br />
 2017年8月11日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/那女人的大海" title="wikilink">那女人的大海</a><br />
+<td style="text-align: center;"><p><a href="../Page/那女人的大海.md" title="wikilink">那女人的大海</a><br />
 </p></td>
 <td style="text-align: center;"><p>120</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳丞芽" title="wikilink">吳丞芽</a>、<a href="../Page/韓宥伊.md" title="wikilink">韓宥伊</a>、、<a href="https://zh.wikipedia.org/wiki/金株英" title="wikilink">金株英</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳丞芽" title="wikilink">吳丞芽</a>、<a href="../Page/韓宥伊.md" title="wikilink">韓宥伊</a>、、<a href="../Page/金株英.md" title="wikilink">金株英</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓哲慶" title="wikilink">韓哲慶</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金美靜" title="wikilink">金美靜</a>、<a href="https://zh.wikipedia.org/wiki/李正大" title="wikilink">李正大</a></p></td>
 <td style="text-align: center;"></td>
@@ -1126,10 +1126,10 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <tr class="even">
 <td style="text-align: center;"><p>2017年8月14日－<br />
 2018年2月9日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/花開了，達順啊" title="wikilink">花開了，達順啊</a><br />
+<td style="text-align: center;"><p><a href="../Page/花開了，達順啊.md" title="wikilink">花開了，達順啊</a><br />
 </p></td>
 <td style="text-align: center;"><p>129</p></td>
-<td style="text-align: center;"><p><a href="../Page/洪雅凜.md" title="wikilink">洪雅凜</a>、<a href="https://zh.wikipedia.org/wiki/宋元錫" title="wikilink">宋元錫</a>、、</p></td>
+<td style="text-align: center;"><p><a href="../Page/洪雅凜.md" title="wikilink">洪雅凜</a>、<a href="../Page/宋元錫.md" title="wikilink">宋元錫</a>、、</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/申昌碩" title="wikilink">申昌碩</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/文英勳" title="wikilink">文英勳</a></p></td>
 <td style="text-align: center;"></td>
@@ -1165,10 +1165,10 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 <tr class="odd">
 <td style="text-align: center;"><p>2018年2月12日－<br />
 2018年8月31日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/波濤啊，波濤啊" title="wikilink">波濤啊，波濤啊</a><br />
+<td style="text-align: center;"><p><a href="../Page/波濤啊，波濤啊.md" title="wikilink">波濤啊，波濤啊</a><br />
 </p></td>
 <td style="text-align: center;"><p>143</p></td>
-<td style="text-align: center;"><p><a href="../Page/雅英.md" title="wikilink">趙慈英</a>、<a href="https://zh.wikipedia.org/wiki/TRAX" title="wikilink">金見佑</a>、<a href="https://zh.wikipedia.org/wiki/朴正旭" title="wikilink">朴正旭</a>、</p></td>
+<td style="text-align: center;"><p><a href="../Page/雅英.md" title="wikilink">趙慈英</a>、<a href="https://zh.wikipedia.org/wiki/TRAX" title="wikilink">金見佑</a>、<a href="../Page/朴正旭.md" title="wikilink">朴正旭</a>、</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李德健" title="wikilink">李德健</a></p></td>
 <td style="text-align: center;"><p>李賢在、李香元</p></td>
 <td style="text-align: center;"></td>
@@ -1192,7 +1192,7 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
     2TV晨間連續劇](https://zh.wikipedia.org/wiki/KBS_2TV晨間連續劇 "wikilink")
   - [MBC晨間連續劇](../Page/MBC晨間連續劇.md "wikilink")
   - [SBS晨間連續劇](../Page/SBS晨間連續劇.md "wikilink")
-  - [tvN晨間連續劇](../Page/tvN晨間連續劇.md "wikilink")
+  - [tvN晨間連續劇](https://zh.wikipedia.org/wiki/tvN晨間連續劇 "wikilink")
   - [JTBC晨間連續劇](https://zh.wikipedia.org/wiki/JTBC晨間連續劇 "wikilink")
 
 [Category:KBS_TV小說](https://zh.wikipedia.org/wiki/Category:KBS_TV小說 "wikilink")

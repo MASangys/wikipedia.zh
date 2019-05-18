@@ -11,7 +11,7 @@ Magic可以安全的將硬碟恢復至出廠狀態。其中一個主要的[固�
 Magic將他們的固態硬碟恢復至出廠狀態。
 
 Parted
-Magic支持讀寫各種現代的[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，如[ext3](../Page/ext3.md "wikilink")、[ext4](../Page/ext4.md "wikilink")、[FAT](../Page/FAT.md "wikilink")、[exFAT以及](../Page/exFAT.md "wikilink")[NTFS](../Page/NTFS.md "wikilink")，因此能夠在[Microsoft
+Magic支持讀寫各種現代的[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，如[ext3](https://zh.wikipedia.org/wiki/ext3 "wikilink")、[ext4](https://zh.wikipedia.org/wiki/ext4 "wikilink")、[FAT](../Page/FAT.md "wikilink")、[exFAT以及](https://zh.wikipedia.org/wiki/exFAT "wikilink")[NTFS](../Page/NTFS.md "wikilink")，因此能夠在[Microsoft
 Windows及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[GNU/Linux的檔案系統下使用](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")。
 
 此發行版中包含了區域網路及網際網路的支援，並包含[Firefox網路瀏覽器](../Page/Firefox.md "wikilink")\[3\]。
@@ -19,7 +19,7 @@ Windows及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[GNU/Linu
 ## 評價
 
 Parted Magic得到了主流科技雜誌及網站許多正面的評價\[4\]\[5\]，[PC
-World提到其在多種作業系統上的資料復原有相當好的表現](https://zh.wikipedia.org/wiki/PC_World "wikilink")，而且是免費的。該雜誌的編輯提到：
+World提到其在多種作業系統上的資料復原有相當好的表現](../Page/PC_World.md "wikilink")，而且是免費的。該雜誌的編輯提到：
 
 > “我只能說這是個必須下載的工具軟體，而且它是免費的\[6\]。”
 
@@ -28,12 +28,12 @@ World提到其在多種作業系統上的資料復原有相當好的表現](http
 ## 系統需求
 
 Parted Magic 11.11.11版原生支援[Intel
-x86以及](../Page/x86.md "wikilink")[x86-64處理器](../Page/x86-64.md "wikilink")，並要求電腦要有至少[i586級的Intel相容處理器以及](../Page/奔騰.md "wikilink")175[MB的](https://zh.wikipedia.org/wiki/百萬位元組 "wikilink")[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")\[8\]
+x86以及](https://zh.wikipedia.org/wiki/x86 "wikilink")[x86-64處理器](https://zh.wikipedia.org/wiki/x86-64 "wikilink")，並要求電腦要有至少[i586級的Intel相容處理器以及](../Page/奔騰.md "wikilink")175[MB的](https://zh.wikipedia.org/wiki/百萬位元組 "wikilink")[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")\[8\]
 
 ## 參見
 
   - [硬碟分割](https://zh.wikipedia.org/wiki/硬碟分割 "wikilink")
-  - [硬碟分割軟體列表](https://zh.wikipedia.org/wiki/硬碟分割軟體列表 "wikilink")
+  - [硬碟分割軟體列表](../Page/硬碟分割軟體列表.md "wikilink")
 
 ## 註釋
 

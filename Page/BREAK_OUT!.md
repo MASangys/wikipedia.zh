@@ -1,12 +1,12 @@
 《**BREAK
 OUT\!**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起在日本发行的第](../Page/東方神起.md "wikilink")29张[单曲](../Page/单曲.md "wikilink")。于2010年1月27日由[avex
-trax公司下属厂牌](../Page/avex_trax.md "wikilink")[rhythm
-zone发行](../Page/rhythm_zone.md "wikilink")。
+trax公司下属厂牌](https://zh.wikipedia.org/wiki/avex_trax "wikilink")[rhythm
+zone发行](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
 这首单曲距上张单曲《[Stand by
-U](https://zh.wikipedia.org/wiki/Stand_by_U "wikilink")》发行相隔约半年，是组合以5人体制发表的最后一首新录制单曲。
+U](../Page/Stand_by_U.md "wikilink")》发行相隔约半年，是组合以5人体制发表的最后一首新录制单曲。
 
 单曲分为「CD+DVD」「只CD」两种版本发行，前者有收录主打歌《BREAK
 OUT\!》的MV与MV的拍摄过程（只在初回限定盘中收录），在MV中金俊秀借助特殊的化妆技术变身为了老年人，后者则收录有《BREAK

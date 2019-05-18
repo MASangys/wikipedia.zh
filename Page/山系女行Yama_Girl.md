@@ -1,7 +1,6 @@
 《**山系女行Yama
-Girl**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的旅遊節目第一輯由](../Page/電視廣播有限公司.md "wikilink")[李佳芯](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")、[蔡思貝](https://zh.wikipedia.org/wiki/蔡思貝 "wikilink")、[陳嘉寶](https://zh.wikipedia.org/wiki/陳嘉寶 "wikilink")、[王敏奕](../Page/王敏奕.md "wikilink")、[曹思詩](https://zh.wikipedia.org/wiki/曹思詩 "wikilink")、[葉麗嘉](https://zh.wikipedia.org/wiki/葉麗嘉 "wikilink")、[方珈悠擔任主持](../Page/方珈悠.md "wikilink")，第二輯則由[蔣家旻](../Page/蔣家旻.md "wikilink")、[歐陽巧瑩](../Page/歐陽巧瑩.md "wikilink")、[陳婉衡](https://zh.wikipedia.org/wiki/陳婉衡 "wikilink")、[張秀文](../Page/張秀文.md "wikilink")、[陳偉琪擔任主持](../Page/陳偉琪.md "wikilink")。本節目於[J2首播](../Page/J2.md "wikilink")，第一輯於2014年6月6日至9月12日，[香港時間逢星期五](../Page/香港時間.md "wikilink")21:00-21:30在[J2播出](../Page/J2.md "wikilink")，及於[myTV提供網上節目重溫](../Page/myTV.md "wikilink")（集數上傳後一個月後會刪除），第二輯於2014年11月28日至2015年1月2日，[香港時間逢星期五](../Page/香港時間.md "wikilink")21:00-21:30在J2播出。本節目是《[Go\!
-Yama
-Girl](https://zh.wikipedia.org/wiki/Go!_Yama_Girl "wikilink")》的半小時全紀錄版本。\[1\]\[2\]
+Girl**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的旅遊節目第一輯由](../Page/電視廣播有限公司.md "wikilink")[李佳芯](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")、[蔡思貝](https://zh.wikipedia.org/wiki/蔡思貝 "wikilink")、[陳嘉寶](https://zh.wikipedia.org/wiki/陳嘉寶 "wikilink")、[王敏奕](../Page/王敏奕.md "wikilink")、[曹思詩](../Page/曹思詩.md "wikilink")、[葉麗嘉](https://zh.wikipedia.org/wiki/葉麗嘉 "wikilink")、[方珈悠擔任主持](../Page/方珈悠.md "wikilink")，第二輯則由[蔣家旻](../Page/蔣家旻.md "wikilink")、[歐陽巧瑩](../Page/歐陽巧瑩.md "wikilink")、[陳婉衡](../Page/陳婉衡.md "wikilink")、[張秀文](../Page/張秀文.md "wikilink")、[陳偉琪擔任主持](../Page/陳偉琪.md "wikilink")。本節目於[J2首播](../Page/J2.md "wikilink")，第一輯於2014年6月6日至9月12日，[香港時間逢星期五](../Page/香港時間.md "wikilink")21:00-21:30在[J2播出](../Page/J2.md "wikilink")，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後一個月後會刪除），第二輯於2014年11月28日至2015年1月2日，[香港時間逢星期五](../Page/香港時間.md "wikilink")21:00-21:30在J2播出。本節目是《[Go\!
+Yama Girl](../Page/Go!_Yama_Girl.md "wikilink")》的半小時全紀錄版本。\[1\]\[2\]
 
 ## 每集內容
 

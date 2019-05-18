@@ -1,5 +1,5 @@
 "Snow (Hey Oh)" 是[嗆辣紅椒](../Page/嗆辣紅椒.md "wikilink")
-在2006年[第49届格莱美奖的获奖作品](../Page/第49届格莱美奖.md "wikilink")，来自于双专辑《[星戰競技場](../Page/星戰競技場.md "wikilink")》。该曲发布后迅速在[Billboard的现代摇滚乐列表上获得首位](https://zh.wikipedia.org/wiki/Billboard "wikilink")，并在该位置连续保持了五星期。这首歌是他们第11首榜首曲目。主唱[安東尼·基德斯表示](https://zh.wikipedia.org/wiki/安東尼·基德斯 "wikilink")，这首歌「是关于生存和重新开始。我把一切都弄得一团糟，但我有雪白的一张画纸让我从新开始」\[1\]
+在2006年[第49届格莱美奖的获奖作品](../Page/第49届格莱美奖.md "wikilink")，来自于双专辑《[星戰競技場](../Page/星戰競技場.md "wikilink")》。该曲发布后迅速在[Billboard的现代摇滚乐列表上获得首位](https://zh.wikipedia.org/wiki/Billboard "wikilink")，并在该位置连续保持了五星期。这首歌是他们第11首榜首曲目。主唱[安東尼·基德斯表示](../Page/安東尼·基德斯.md "wikilink")，这首歌「是关于生存和重新开始。我把一切都弄得一团糟，但我有雪白的一张画纸让我从新开始」\[1\]
 
 然而乐队在星戰競技場巡回演出结束5年之后才首次登台演出这首歌，已是2012年6月28日，当时他们在荷兰进行[I'm with
 You巡回演出](https://zh.wikipedia.org/wiki/I'm_with_You "wikilink")。

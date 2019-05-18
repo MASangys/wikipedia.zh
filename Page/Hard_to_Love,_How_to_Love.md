@@ -18,7 +18,7 @@ Sorry」則提前於專輯發行前以數位單曲方式公開音源。不同於
 
 <!-- end list -->
 
-  - 7月15日，公司在推特及臉書放上每個成員的單獨宣傳照，從斗俊開始，東雲結尾，並透露專輯將收錄8首歌曲。\[6\]主打歌Shadow的MV預告片也會於7月16日在[BEAST官方](https://zh.wikipedia.org/wiki/BEAST "wikilink")[Youtube平台上公開](../Page/Youtube.md "wikilink")，而MV完整版則會在7月19日專輯發行當天公開。
+  - 7月15日，公司在推特及臉書放上每個成員的單獨宣傳照，從斗俊開始，東雲結尾，並透露專輯將收錄8首歌曲。\[6\]主打歌Shadow的MV預告片也會於7月16日在[BEAST官方](https://zh.wikipedia.org/wiki/BEAST "wikilink")[Youtube平台上公開](https://zh.wikipedia.org/wiki/Youtube "wikilink")，而MV完整版則會在7月19日專輯發行當天公開。
 
 ## 內容
 

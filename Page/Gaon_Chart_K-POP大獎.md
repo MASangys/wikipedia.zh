@@ -26,7 +26,7 @@ Chart統計數據授獎的年度大型頒獎禮，自2012年開始於每年二�
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2012年2月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td><p>三星信用卡廳</p></td>
 <td><p>、<a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a></p></td>
 <td></td>
@@ -37,7 +37,7 @@ Chart統計數據授獎的年度大型頒獎禮，自2012年開始於每年二�
 <td><p>2013年2月13日</p></td>
 <td><p><a href="../Page/奧林匹克公園_(首爾).md" title="wikilink">奧林匹克公園奧林匹克館</a></p></td>
 <td><p>朱榮勳、<a href="../Page/孙佳人.md" title="wikilink">GaIn</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS_Joy" title="wikilink">KBS Joy</a>、<a href="https://zh.wikipedia.org/wiki/KBS_Drama" title="wikilink">KBS Drama</a>、<a href="https://zh.wikipedia.org/wiki/KBS_W" title="wikilink">KBS W</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS_Joy" title="wikilink">KBS Joy</a>、<a href="https://zh.wikipedia.org/wiki/KBS_Drama" title="wikilink">KBS Drama</a>、<a href="../Page/KBS_W.md" title="wikilink">KBS W</a></p></td>
 <td><p>[2]</p></td>
 <td></td>
 </tr>
@@ -89,7 +89,7 @@ Chart統計數據授獎的年度大型頒獎禮，自2012年開始於每年二�
 <tr class="even">
 <td><p>8</p></td>
 <td><p>2019年1月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="https://zh.wikipedia.org/wiki/南希·麥多尼" title="wikilink">Nancy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/南希·麥多尼.md" title="wikilink">Nancy</a></p></td>
 <td><p>[8]</p></td>
 <td></td>
 <td></td>
@@ -165,7 +165,7 @@ Chart頒獎禮音源部門評選新規則：2016年12個音源部門獲獎者的
 <td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
 <td><p><a href="../Page/任昌丁.md" title="wikilink">任昌丁</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/IU" title="wikilink">IU</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Jennie_(韓國歌手)" title="wikilink">Jennie</a></p></td>
+<td><p><a href="../Page/Jennie_(韓國歌手).md" title="wikilink">Jennie</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -187,11 +187,11 @@ Chart頒獎禮音源部門評選新規則：2016年12個音源部門獲獎者的
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>2016年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a></p></td>
+<td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/城市札卡巴" title="wikilink">城市札卡巴</a></p></td>
+<td><p><a href="../Page/城市札卡巴.md" title="wikilink">城市札卡巴</a></p></td>
 <td><p><a href="../Page/SISTAR.md" title="wikilink">SISTAR</a></p></td>
 <td><p><a href="../Page/Wonder_Girls.md" title="wikilink">Wonder Girls</a></p></td>
 <td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a></p></td>
@@ -203,10 +203,10 @@ Chart頒獎禮音源部門評選新規則：2016年12個音源部門獲獎者的
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mad_Clown" title="wikilink">Mad Clown</a></p></td>
+<td><p><a href="../Page/Mad_Clown.md" title="wikilink">Mad Clown</a></p></td>
 <td><p><a href="../Page/Naul.md" title="wikilink">Naul</a></p></td>
 <td><p><a href="../Page/MC夢.md" title="wikilink">MC夢</a></p></td>
-<td><p><a href="../Page/miss_A.md" title="wikilink">miss A</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/miss_A" title="wikilink">miss A</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a></p></td>
@@ -246,9 +246,9 @@ Chart頒獎禮音源部門評選新規則：2016年12個音源部門獲獎者的
 <td><p><a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a></p></td>
 <td><p><a href="../Page/San_E.md" title="wikilink">San E</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/姜智賢" title="wikilink">昭宥</a> X<br />
-<a href="https://zh.wikipedia.org/wiki/Mad_Clown" title="wikilink">Mad Clown</a></p></td>
+<a href="../Page/Mad_Clown.md" title="wikilink">Mad Clown</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/IU_(歌手)" title="wikilink">IU</a></p></td>
-<td><p><a href="../Page/miss_A.md" title="wikilink">miss A</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/miss_A" title="wikilink">miss A</a></p></td>
 <td><p><a href="../Page/徐仁國.md" title="wikilink">徐仁國</a> X<br />
 </p></td>
 </tr>
@@ -409,17 +409,17 @@ Chart頒獎禮專輯部門評選新規則：2016年4個專輯部門獲獎者的�
 
 ### 年度新人獎
 
-| 屆數 | 年份    | 男子                                                             | 女子                                                    | 男子團體                                                                 | 女子團體                                                                                                                         | 音源 | 专辑 |
-| -- | ----- | -------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -- | -- |
-| 8  | 2018年 | \-                                                             | \-                                                    | [(G)I-DLE](https://zh.wikipedia.org/wiki/\(G\)I-DLE "wikilink")、HAON | [IZ\*ONE](https://zh.wikipedia.org/wiki/IZ*ONE "wikilink")、[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink") |    |    |
-| 7  | 2017年 | \-                                                             | \-                                                    | [禹元宰](https://zh.wikipedia.org/wiki/禹元宰 "wikilink")                  | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")                                                              |    |    |
-| 6  | 2016年 | \-                                                             | \-                                                    | [BLACKPINK](../Page/BLACKPINK.md "wikilink")                         | [NCT 127](https://zh.wikipedia.org/wiki/NCT_127 "wikilink")                                                                  |    |    |
-| 5  | 2015年 | \-                                                             | [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink") | [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")          | \-                                                                                                                           |    |    |
-|    |       |                                                                |                                                       |                                                                      |                                                                                                                              |    |    |
-| 4  | 2014年 | \-                                                             | [WINNER](../Page/WINNER.md "wikilink")                | [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")          | \-                                                                                                                           |    |    |
-| 3  | 2013年 | [鄭俊英](../Page/鄭俊英.md "wikilink")                               | [金藝琳](../Page/金藝琳.md "wikilink")                      | [防彈少年團](../Page/防彈少年團.md "wikilink")                                 | [Ladies' Code](../Page/Ladies'_Code.md "wikilink")                                                                           | \- |    |
-| 2  | 2012年 | [John Park](https://zh.wikipedia.org/wiki/約翰·安德魯·朴 "wikilink") | [Ailee](../Page/李艺真.md "wikilink")                    | [B.A.P](../Page/B.A.P.md "wikilink")                                 | [Hello Venus](../Page/Hello_Venus.md "wikilink")                                                                             | \- |    |
-| 1  | 2011年 | [許閣](../Page/許閣.md "wikilink")                                 | [金輔炅](https://zh.wikipedia.org/wiki/金輔炅 "wikilink")   | [B1A4](../Page/B1A4.md "wikilink")                                   | [Apink](../Page/Apink.md "wikilink")                                                                                         | \- |    |
+| 屆數 | 年份    | 男子                                                             | 女子                                                    | 男子團體                                                        | 女子團體                                                                                                      | 音源 | 专辑 |
+| -- | ----- | -------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -- | -- |
+| 8  | 2018年 | \-                                                             | \-                                                    | [(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")、HAON           | [IZ\*ONE](../Page/IZ*ONE.md "wikilink")、[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink") |    |    |
+| 7  | 2017年 | \-                                                             | \-                                                    | [禹元宰](../Page/禹元宰.md "wikilink")                            | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")                                           |    |    |
+| 6  | 2016年 | \-                                                             | \-                                                    | [BLACKPINK](../Page/BLACKPINK.md "wikilink")                | [NCT 127](https://zh.wikipedia.org/wiki/NCT_127 "wikilink")                                               |    |    |
+| 5  | 2015年 | \-                                                             | [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink") | [GFRIEND](../Page/GFRIEND.md "wikilink")                    | \-                                                                                                        |    |    |
+|    |       |                                                                |                                                       |                                                             |                                                                                                           |    |    |
+| 4  | 2014年 | \-                                                             | [WINNER](../Page/WINNER.md "wikilink")                | [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink") | \-                                                                                                        |    |    |
+| 3  | 2013年 | [鄭俊英](../Page/鄭俊英.md "wikilink")                               | [金藝琳](../Page/金藝琳.md "wikilink")                      | [防彈少年團](../Page/防彈少年團.md "wikilink")                        | [Ladies' Code](../Page/Ladies'_Code.md "wikilink")                                                        | \- |    |
+| 2  | 2012年 | [John Park](https://zh.wikipedia.org/wiki/約翰·安德魯·朴 "wikilink") | [Ailee](../Page/李艺真.md "wikilink")                    | [B.A.P](../Page/B.A.P.md "wikilink")                        | [Hello Venus](../Page/Hello_Venus.md "wikilink")                                                          | \- |    |
+| 1  | 2011年 | [許閣](../Page/許閣.md "wikilink")                                 | [金輔炅](../Page/金輔炅.md "wikilink")                      | [B1A4](../Page/B1A4.md "wikilink")                          | [Apink](../Page/Apink.md "wikilink")                                                                      | \- |    |
 
 ### 人氣獎
 
@@ -477,7 +477,7 @@ Chart頒獎禮專輯部門評選新規則：2016年4個專輯部門獲獎者的�
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>2016年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韓東根" title="wikilink">韓東根</a><br />
+<td><p><a href="../Page/韓東根.md" title="wikilink">韓東根</a><br />
 （Ballad部門）</p></td>
 </tr>
 <tr class="even">
@@ -531,7 +531,7 @@ Chart頒獎禮專輯部門評選新規則：2016年4個專輯部門獲獎者的�
 |    |       |                                                         |                                          |
 | 7  | 2017年 | [尹鍾信](../Page/尹鍾信.md "wikilink")                        | 歌手                                       |
 | 6  | 2016年 | [水晶男孩](../Page/水晶男孩.md "wikilink")                      | 團體                                       |
-| 4  | 2014年 | [申海澈](https://zh.wikipedia.org/wiki/申海澈 "wikilink")     | 歌手                                       |
+| 4  | 2014年 | [申海澈](../Page/申海澈.md "wikilink")                        | 歌手                                       |
 | 3  | 2013年 | [趙容弼](https://zh.wikipedia.org/wiki/趙容弼 "wikilink")     | 歌手                                       |
 | 2  | 2012年 | 洪勝成                                                     | [Cube娛樂代表](../Page/Cube娛樂.md "wikilink") |
 | 1  | 2011年 | [李秀滿](https://zh.wikipedia.org/wiki/李秀滿 "wikilink")     | [SM娛樂社長](../Page/SM娛樂.md "wikilink")     |
@@ -549,7 +549,7 @@ Chart頒獎禮專輯部門評選新規則：2016年4個專輯部門獲獎者的�
 | 6  | 2016年 | [SHINee](../Page/SHINee.md "wikilink")                          | K-POP世界韓流明星獎                              |
 | 5  | 2015年 | [防彈少年團](../Page/防彈少年團.md "wikilink")                            | K-POP世界韓流明星獎                              |
 |    |       |                                                                 |                                           |
-| 4  | 2014年 | [KARA](../Page/KARA.md "wikilink")                              | K-POP世界韓流明星獎                              |
+| 4  | 2014年 | [KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")           | K-POP世界韓流明星獎                              |
 | 3  | 2013年 | [2NE1](../Page/2NE1.md "wikilink")                              | K-POP世界韓流明星獎                              |
 | 2  | 2012年 | [CNBLUE](../Page/CNBLUE.md "wikilink")                          | 年度韓流特別獎                                   |
 | 1  | 2011年 | [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")           | [Oricon特別獎](../Page/Oricon.md "wikilink") |
@@ -686,16 +686,16 @@ Chart頒獎禮專輯部門評選新規則：2016年4個專輯部門獲獎者的�
 
 #### 作曲家獎
 
-| 屆數 | 年份    | 得獎者                                                   |
-| -- | ----- | ----------------------------------------------------- |
-| 7  | 2017年 | PDOGG                                                 |
-| 6  | 2016年 | [黑眼必勝](https://zh.wikipedia.org/wiki/黑眼必勝 "wikilink") |
-| 5  | 2015年 |                                                       |
-|    |       |                                                       |
-| 4  | 2014年 | 金道勳                                                   |
-| 3  | 2013年 | 二段橫踢                                                  |
-| 2  | 2012年 | Teddy                                                 |
-| 1  | 2011年 | 尹尚                                                    |
+| 屆數 | 年份    | 得獎者                                |
+| -- | ----- | ---------------------------------- |
+| 7  | 2017年 | PDOGG                              |
+| 6  | 2016年 | [黑眼必勝](../Page/黑眼必勝.md "wikilink") |
+| 5  | 2015年 |                                    |
+|    |       |                                    |
+| 4  | 2014年 | 金道勳                                |
+| 3  | 2013年 | 二段橫踢                               |
+| 2  | 2012年 | Teddy                              |
+| 1  | 2011年 | 尹尚                                 |
 
 #### 編舞獎
 
@@ -745,7 +745,7 @@ Chart頒獎禮專輯部門評選新規則：2016年4個專輯部門獲獎者的�
 | -- | ----- | ------------- | ------------------------------------------------------------------------------ |
 | 8  | 2018年 | 世界韓流明星獎       | [SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")                |
 | 8  | 2018年 | 世界新人獎（男子部門）   | [THE BOYZ](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")                  |
-| 8  | 2018年 | 世界新人獎（女子部門）   | [MOMOLAND](https://zh.wikipedia.org/wiki/MOMOLAND "wikilink")                  |
+| 8  | 2018年 | 世界新人獎（女子部門）   | [MOMOLAND](../Page/MOMOLAND.md "wikilink")                                     |
 | 7  | 2017年 | 世界新人獎         | [BLACKPINK](../Page/BLACKPINK.md "wikilink")                                   |
 | 5  | 2015年 | 世界新人獎（男子部門）   | [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink")                            |
 | 5  | 2015年 | 世界新人獎（女子部門）   | [AOA](../Page/AOA.md "wikilink")                                               |

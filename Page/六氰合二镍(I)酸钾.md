@@ -2,11 +2,11 @@
 
 ## 制备
 
-在液[氨中](../Page/氨.md "wikilink")，用金属[钾还原](../Page/钾.md "wikilink")[四氰合镍(II)酸钾可以得到六氰合二镍](https://zh.wikipedia.org/wiki/四氰合镍\(II\)酸钾 "wikilink")(I)酸钾。\[1\]
+在液[氨中](../Page/氨.md "wikilink")，用金属[钾还原](../Page/钾.md "wikilink")[四氰合镍(II)酸钾可以得到六氰合二镍](../Page/四氰合镍\(II\)酸钾.md "wikilink")(I)酸钾。\[1\]
 
 ## 化学性质
 
-六氰合二镍(I)酸钾可以在液氨中，被钾进一步还原为[四氰合镍(0)酸钾](https://zh.wikipedia.org/wiki/四氰合镍\(0\)酸钾 "wikilink")
+六氰合二镍(I)酸钾可以在液氨中，被钾进一步还原为[四氰合镍(0)酸钾](../Page/四氰合镍\(0\)酸钾.md "wikilink")
 - K<sub>4</sub>\[Ni(CN)<sub>4</sub>\]。
 
 其水溶液在氰离子的存在下会缓慢氧化：\[2\]

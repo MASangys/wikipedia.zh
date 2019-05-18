@@ -1,4 +1,4 @@
-**MOOC学院**是[果壳网旗下产品](../Page/果壳网.md "wikilink")\[1\]，是中國最大的[MOOC学习者交流社区](https://zh.wikipedia.org/wiki/MOOC "wikilink")\[2\]。网站收录[Coursera](../Page/Coursera.md "wikilink")、[Udacity](../Page/Udacity.md "wikilink")、[edX等主要网站MOOC课程链接和内容简介](../Page/edX.md "wikilink")，并提供让学习者互相交流的讨论区和课程笔记区。
+**MOOC学院**是[果壳网旗下产品](../Page/果壳网.md "wikilink")\[1\]，是中國最大的[MOOC学习者交流社区](https://zh.wikipedia.org/wiki/MOOC "wikilink")\[2\]。网站收录[Coursera](../Page/Coursera.md "wikilink")、[Udacity](../Page/Udacity.md "wikilink")、[edX等主要网站MOOC课程链接和内容简介](https://zh.wikipedia.org/wiki/edX "wikilink")，并提供让学习者互相交流的讨论区和课程笔记区。
 2013年9月，果壳网MOOC学院加入Coursera全球翻译合作项目\[3\]。
 
 ## 成立

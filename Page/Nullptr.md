@@ -3,7 +3,7 @@ Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")\[3\]，部分使
 
 ## 定義
 
-在C语言中，[空指標可以使用](https://zh.wikipedia.org/wiki/空指標 "wikilink")`(void
+在C语言中，[空指標可以使用](../Page/空指標.md "wikilink")`(void
 *)0;`來表示，且標準庫中也是如此定義，但在C++语言中，由于对语法的类型检查更为严格，因而空指针的值就不能表示为`(void
 *)0;`。例如，空指针的值表示为`FILE *fp=(void
 *)0;`编译报错。所以至少自[C++98开始](https://zh.wikipedia.org/wiki/C++98 "wikilink")`#define
@@ -50,11 +50,11 @@ std::nullptr_t定义在标准头文件`<`[`cstddef`](https://zh.wikipedia.org/wi
 
 ## nullptr_t
 
-nullptr_t是[字面常數nullptr的資料型態](https://zh.wikipedia.org/wiki/字面常量_\(C语言\) "wikilink")\[9\]。它是一種特殊的類型，並不是一種指標類型也不是指向任何種變數型態的指標類型。nullptr_t位於std命名空間中，且定義於<cstddef>標頭檔中\[10\]。可透過is_null_pointer來檢查物件是否為這種型態\[11\]。
+nullptr_t是[字面常數nullptr的資料型態](../Page/字面常量_\(C语言\).md "wikilink")\[9\]。它是一種特殊的類型，並不是一種指標類型也不是指向任何種變數型態的指標類型。nullptr_t位於std命名空間中，且定義於<cstddef>標頭檔中\[10\]。可透過is_null_pointer來檢查物件是否為這種型態\[11\]。
 
 ## 參見
 
-  - [空指標](https://zh.wikipedia.org/wiki/空指標 "wikilink")
+  - [空指標](../Page/空指標.md "wikilink")
 
 ## 参考文献
 

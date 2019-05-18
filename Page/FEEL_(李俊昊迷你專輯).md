@@ -56,13 +56,13 @@
 <tr class="odd">
 <td><p>韓國</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年Gaon專輯冠軍作品列表" title="wikilink">專輯周榜</a></p></td>
+<td><p><a href="../Page/2014年Gaon專輯冠軍作品列表.md" title="wikilink">專輯周榜</a></p></td>
 <td><p>2014年8月17日－8月23日</p></td>
 <td><p>#5</p></td>
 <td><p>[11]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="../Page/2014年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2014年8月</p></td>
 <td><p>#11<br />
 （6,698張）</p></td>

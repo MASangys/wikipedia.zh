@@ -112,14 +112,14 @@ slprj）可藉由塗有紅色提示漆的彈尖的彈丸來辨別。該彈藥曾
   - [M60通用機槍](../Page/M60通用機槍.md "wikilink")，[美國軍隊於](../Page/美军.md "wikilink")1960年代至1990年代的7.62×51毫米通用機槍
   - [住友62式7.62毫米機槍](https://zh.wikipedia.org/wiki/住友62式7.62毫米機槍 "wikilink")，[日本於](../Page/日本.md "wikilink")1960年代至現在的7.62×51毫米現役通用機槍
   - [CETME Ameli](../Page/CETME輕機槍.md "wikilink")
-  - [SS-77通用機槍](../Page/SS-77通用機槍.md "wikilink")，[南非國防軍現役通用機槍](https://zh.wikipedia.org/wiki/南非國防軍 "wikilink")
+  - [SS-77通用機槍](../Page/SS-77通用機槍.md "wikilink")，[南非國防軍現役通用機槍](../Page/南非國防軍.md "wikilink")
   - [UKM-2000](../Page/UKM-2000通用機槍.md "wikilink")，[波兰製造的](https://zh.wikipedia.org/wiki/波兰 "wikilink")7.62×51毫米通用機槍
   - [M60E4／Mk 43 Mod
     0/1](https://zh.wikipedia.org/wiki/M60通用機槍#M60E4及Mk_43_Mod_0/1 "wikilink")，為[特種部隊任務而開發的M](../Page/特種部隊.md "wikilink")60通用機槍衍生型
   - [國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")
   - [FN MAG](../Page/FN_MAG通用機槍.md "wikilink")，Ksp 58的原型
   - [M240](../Page/M240通用機槍.md "wikilink")，美國軍隊現役通用機槍，同Ksp 58衍生自FN MAG
-  - [L7](https://zh.wikipedia.org/wiki/L7通用機槍 "wikilink")，[英國軍隊現役通用機槍](../Page/英國軍隊.md "wikilink")，同Ksp
+  - [L7](../Page/L7通用機槍.md "wikilink")，[英國軍隊現役通用機槍](../Page/英國軍隊.md "wikilink")，同Ksp
     58衍生自FN MAG
   - [CQ
     7.62毫米通用机枪](https://zh.wikipedia.org/wiki/CS/LM1型通用机枪 "wikilink")，中國彷製的FN

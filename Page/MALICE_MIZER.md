@@ -27,7 +27,7 @@ MIZER的現場演出與他們的音樂同樣著名，擁有豪華古代[服裝�
   - 1994年7月24日：[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")『memoire』發行。12月27日TETSU
     (Vo) 退團、暫時停止活動。
   - 1995年10月10日：Gackt.C加入。
-  - 1999年1月1日：[Gackt退團單飛](../Page/Gackt.md "wikilink")。
+  - 1999年1月1日：[Gackt退團單飛](https://zh.wikipedia.org/wiki/Gackt "wikilink")。
   - 1999年6月21日：Kami因[蛛網膜下腔出血猝逝](https://zh.wikipedia.org/wiki/蛛網膜下腔出血 "wikilink")。
   - 2000年7月26日：Klaha参加演出。7月、Klaha正式加入。
   - 2001年12月31日：MALICE MIZER停止活動。
@@ -52,7 +52,7 @@ MIZER的現場演出與他們的音樂同樣著名，擁有豪華古代[服裝�
 | 2000年8月23日  | [薔薇の聖堂](https://zh.wikipedia.org/wiki/薔薇の聖堂 "wikilink") | 初回專輯為A5大小                                                                                                                                 |                   |
 | 1st         | 2005年10月5日                                              | [La Collection "merveilles" -L'édition Limitée-](https://zh.wikipedia.org/wiki/La_Collection_"merveilles"_-L'édition_Limitée- "wikilink") | CD+DVD+DVD+DVD豪華版 |
 | 第3期         |                                                         |                                                                                                                                           |                   |
-| 1st         | 2006年7月19日                                              | [La Collection des Singles](https://zh.wikipedia.org/wiki/La_Collection_des_Singles "wikilink")                                           | CD+DVD            |
+| 1st         | 2006年7月19日                                              | [La Collection des Singles](../Page/La_Collection_des_Singles.md "wikilink")                                                              | CD+DVD            |
 |             |                                                         |                                                                                                                                           |                   |
 
 ## 參考資料

@@ -11,7 +11,7 @@ studio](../Page/GIZA_studio.md "wikilink")。
 
 ## 商業搭配
 
-  - [CBC](https://zh.wikipedia.org/wiki/CBC电视台_\(日本\) "wikilink")・[TBS系動畫](../Page/東京放送控股.md "wikilink")「」片頭曲（\#1）
+  - [CBC](../Page/CBC电视台_\(日本\).md "wikilink")・[TBS系動畫](../Page/東京放送控股.md "wikilink")「」片頭曲（\#1）
 
 ## 收錄專輯
 

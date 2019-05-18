@@ -1,4 +1,4 @@
-**OK牧場槍戰**，是1881年發生在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[亞利桑那領地](https://zh.wikipedia.org/wiki/亞利桑那領地 "wikilink")[湯姆斯通的一場](https://zh.wikipedia.org/wiki/湯姆斯通 "wikilink")[槍戰](https://zh.wikipedia.org/wiki/槍戰 "wikilink")。
+**OK牧場槍戰**，是1881年發生在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[亞利桑那領地](../Page/亞利桑那領地.md "wikilink")[湯姆斯通的一場](https://zh.wikipedia.org/wiki/湯姆斯通 "wikilink")[槍戰](https://zh.wikipedia.org/wiki/槍戰 "wikilink")。
 
 ## 背景
 

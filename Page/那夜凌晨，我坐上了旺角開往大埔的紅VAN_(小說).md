@@ -1,4 +1,4 @@
-《**那夜凌晨，我坐上了旺角開往大埔的紅van**》（，簡稱「紅van」）是[香港](../Page/香港.md "wikilink")[網絡小說作家](../Page/網絡小說.md "wikilink")的科幻長篇小說。小說最先於香港網上討論區[高登討論區上連載](../Page/高登討論區.md "wikilink")；期後由於小說追隨者眾多，有出版社為作者將故事印刷出實體書籍，並於香港各大書店出售。小說期後被改編成[同名電影](https://zh.wikipedia.org/wiki/那夜凌晨，我坐上了旺角開往大埔的紅VAN_\(電影\) "wikilink")，由香港[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")[陳果執導](https://zh.wikipedia.org/wiki/陳果 "wikilink")，於2013年開拍，並於2014年4月10日上映\[1\]\[2\]。
+《**那夜凌晨，我坐上了旺角開往大埔的紅van**》（，簡稱「紅van」）是[香港](../Page/香港.md "wikilink")[網絡小說作家](../Page/網絡小說.md "wikilink")的科幻長篇小說。小說最先於香港網上討論區[高登討論區上連載](../Page/高登討論區.md "wikilink")；期後由於小說追隨者眾多，有出版社為作者將故事印刷出實體書籍，並於香港各大書店出售。小說期後被改編成[同名電影](../Page/那夜凌晨，我坐上了旺角開往大埔的紅VAN_\(電影\).md "wikilink")，由香港[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")[陳果執導](https://zh.wikipedia.org/wiki/陳果 "wikilink")，於2013年開拍，並於2014年4月10日上映\[1\]\[2\]。
 
 ## 故事大綱
 
@@ -49,7 +49,7 @@ Pizza
 
 ## 相關音樂創作
 
-香港獨立樂隊**[ISoFeel](https://zh.wikipedia.org/wiki/ISoFeel "wikilink")**(現為樂隊**[Fabel](../Page/Fabel.md "wikilink")**)在小說連載期間，為小說創作兩首相關歌曲《那夜凌晨》和《望》。\[16\]
+香港獨立樂隊**[ISoFeel](../Page/ISoFeel.md "wikilink")**(現為樂隊**[Fabel](../Page/Fabel.md "wikilink")**)在小說連載期間，為小說創作兩首相關歌曲《那夜凌晨》和《望》。\[16\]
 
 ## 參考資料
 

@@ -161,7 +161,7 @@
 特別喜愛吃<a href="../Page/魚翅.md" title="wikilink">魚翅</a>、<a href="../Page/鮑魚.md" title="wikilink">鮑魚和喝</a><a href="https://zh.wikipedia.org/wiki/紅酒" title="wikilink">紅酒</a>，于《<a href="https://zh.wikipedia.org/wiki/老表，毕业喇！" title="wikilink">老表，毕业喇！</a>》第30集为了环保而戒食鱼翅并喜欢《<a href="https://zh.wikipedia.org/wiki/老表，你好嘢！" title="wikilink">老表，你好嘢！</a>》里的蔡芯的咖喱鱼蛋<br />
 口頭禪：可能我<a href="https://zh.wikipedia.org/wiki/洋人" title="wikilink">鬼仔性格</a><br />
 於第29集成為「魚流感」帶菌者，令香港爆發突發性腎上腺素過激兼流行性魚流感，於第30集康復并改邪歸正（實際上並没有認真反省）<br />
-參見《<a href="https://zh.wikipedia.org/wiki/老表，畢業喇！" title="wikilink">老表，畢業喇！</a>》</p></td>
+參見《<a href="../Page/老表，畢業喇！.md" title="wikilink">老表，畢業喇！</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/鄧鎧汶" title="wikilink">鄧鎧汶</a></p></td>
@@ -414,12 +414,12 @@ SRK（Soft Rice King）高材生，後為 HRR（Hard Rice Reborn）監督和訓�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/曾建怡" title="wikilink">曾建怡</a></p></td>
+<td><p><a href="../Page/曾建怡.md" title="wikilink">曾建怡</a></p></td>
 <td><p>吳　美</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/潘冠霖" title="wikilink">潘冠霖</a></p></td>
+<td><p><a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a></p></td>
 <td><p>李　愛</p></td>
 <td></td>
 </tr>
@@ -523,7 +523,7 @@ SRK（Soft Rice King）高材生，後為 HRR（Hard Rice Reborn）監督和訓�
 後被金礦送往荷里活發展</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/姚兵" title="wikilink">姚　兵</a></p></td>
+<td><p><a href="../Page/姚兵.md" title="wikilink">姚　兵</a></p></td>
 <td><p>西門慶</p></td>
 <td><p>簽約藝人</p></td>
 </tr>
@@ -534,13 +534,13 @@ SRK（Soft Rice King）高材生，後為 HRR（Hard Rice Reborn）監督和訓�
 馬利亞之好友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/方紹聰" title="wikilink">方紹聰</a></p></td>
+<td><p><a href="../Page/方紹聰.md" title="wikilink">方紹聰</a></p></td>
 <td><p>陸電池</p></td>
 <td><p>露宿者／簽約歌手／街頭樂器組合隊「半紅不黑」成員<br />
 馬利亞之好友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳康健" title="wikilink">陳康健</a></p></td>
+<td><p><a href="../Page/陳康健.md" title="wikilink">陳康健</a></p></td>
 <td><p>黃鋁罐</p></td>
 <td><p>露宿者／簽約歌手／街頭樂器組合隊「半紅不黑」成員<br />
 馬利亞之好友</p></td>
@@ -572,7 +572,7 @@ SRK（Soft Rice King）高材生，後為 HRR（Hard Rice Reborn）監督和訓�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朱斐斐" title="wikilink">朱斐斐</a></p></td>
+<td><p><a href="../Page/朱斐斐.md" title="wikilink">朱斐斐</a></p></td>
 <td></td>
 <td><p>金礦助手</p></td>
 </tr>
@@ -623,7 +623,7 @@ SRK（Soft Rice King）高材生，後為 HRR（Hard Rice Reborn）監督和訓�
 妒忌林在野</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/何遠東" title="wikilink">何遠東</a></p></td>
+<td><p><a href="../Page/何遠東.md" title="wikilink">何遠東</a></p></td>
 <td><p>費柴<br />
 <small>(費音:秘)</p></td>
 <td><p>「聯群傑黨」黨員<br />
@@ -642,7 +642,7 @@ SRK（Soft Rice King）高材生，後為 HRR（Hard Rice Reborn）監督和訓�
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李麗霞" title="wikilink">李麗霞</a></p></td>
+<td><p><a href="../Page/李麗霞.md" title="wikilink">李麗霞</a></p></td>
 <td><p>垃圾卿</p></td>
 <td><p>倒垃圾工人</p></td>
 </tr>
@@ -667,7 +667,7 @@ SRK（Soft Rice King）高材生，後為 HRR（Hard Rice Reborn）監督和訓�
 針對高音</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林映輝" title="wikilink">林映輝</a></p></td>
+<td><p><a href="../Page/林映輝.md" title="wikilink">林映輝</a></p></td>
 <td><p>安　仔</p></td>
 <td><p>《偷偷張望》主持</p></td>
 </tr>
@@ -694,7 +694,7 @@ SRK（Soft Rice King）高材生，後為 HRR（Hard Rice Reborn）監督和訓�
 鍾情邵寶高</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/劉溫馨" title="wikilink">劉溫馨</a></p></td>
+<td><p><a href="../Page/劉溫馨.md" title="wikilink">劉溫馨</a></p></td>
 <td><p>美女</p></td>
 <td><p>參賽姐</p></td>
 </tr>
@@ -704,7 +704,7 @@ SRK（Soft Rice King）高材生，後為 HRR（Hard Rice Reborn）監督和訓�
 <td><p>殯儀館老闆</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/許思敏" title="wikilink">許思敏</a></p></td>
+<td><p><a href="../Page/許思敏.md" title="wikilink">許思敏</a></p></td>
 <td><p>夏惠儀</p></td>
 <td></td>
 </tr>
@@ -715,7 +715,7 @@ SRK（Soft Rice King）高材生，後為 HRR（Hard Rice Reborn）監督和訓�
 健身教練應徵者</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李偉健" title="wikilink">李偉健</a></p></td>
+<td><p><a href="../Page/李偉健.md" title="wikilink">李偉健</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1013,7 +1013,7 @@ Eric Kwok之妻</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李麗霞" title="wikilink">黑　妹</a></p></td>
+<td><p><a href="../Page/李麗霞.md" title="wikilink">黑　妹</a></p></td>
 <td><p>第9集</p></td>
 <td></td>
 <td></td>
@@ -1245,8 +1245,8 @@ Eric Kwok之妻</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>張繼聰、<a href="https://zh.wikipedia.org/wiki/陳康健" title="wikilink">陳康健</a>、<a href="../Page/張彥博.md" title="wikilink">張彥博</a><br />
-<a href="https://zh.wikipedia.org/wiki/陳建文" title="wikilink">陳建文</a>、<a href="https://zh.wikipedia.org/wiki/方紹聰" title="wikilink">方紹聰</a></p></td>
+<td><p>張繼聰、<a href="../Page/陳康健.md" title="wikilink">陳康健</a>、<a href="../Page/張彥博.md" title="wikilink">張彥博</a><br />
+<a href="https://zh.wikipedia.org/wiki/陳建文" title="wikilink">陳建文</a>、<a href="../Page/方紹聰.md" title="wikilink">方紹聰</a></p></td>
 <td><p><a href="../Page/Beyond.md" title="wikilink">Beyond</a></p></td>
 <td><p>活著便精彩</p></td>
 <td><p>第22、25集</p></td>
@@ -1279,7 +1279,7 @@ Eric Kwok之妻</p></td>
 </tr>
 <tr class="odd">
 <td><p>郭晉安、<a href="https://zh.wikipedia.org/wiki/路芙" title="wikilink">路　芙</a>、<a href="../Page/吳沚默.md" title="wikilink">吳沚默</a><br />
-<a href="../Page/李家聲.md" title="wikilink">李家聲</a>、<a href="https://zh.wikipedia.org/wiki/潘冠霖" title="wikilink">潘冠霖</a>、黑　妹</p></td>
+<a href="../Page/李家聲.md" title="wikilink">李家聲</a>、<a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a>、黑　妹</p></td>
 <td><p>王菀之、<a href="../Page/王祖藍.md" title="wikilink">王祖藍</a></p></td>
 <td><p>大家</p></td>
 <td><p>第22集</p></td>
@@ -1409,7 +1409,7 @@ Eric Kwok之妻</p></td>
 
 ### 迴響
 
-  - 受本劇[蔣志光](../Page/蔣志光.md "wikilink")、[韋綺姍](../Page/韋綺姍.md "wikilink")、黑妹、[小寶等帶動的全城熱話影響](../Page/小寶.md "wikilink")，TVB亦於[2015無綫節目巡禮之中發佈讓以前的歌手再次發光發熱的節目](https://zh.wikipedia.org/wiki/2015無綫節目巡禮 "wikilink")《我要再成名》的（製作）計劃，其後於2017年製作同類的懷舊音樂節目[流行經典50年](https://zh.wikipedia.org/wiki/流行經典50年 "wikilink")。
+  - 受本劇[蔣志光](../Page/蔣志光.md "wikilink")、[韋綺姍](../Page/韋綺姍.md "wikilink")、黑妹、[小寶等帶動的全城熱話影響](../Page/小寶.md "wikilink")，TVB亦於[2015無綫節目巡禮之中發佈讓以前的歌手再次發光發熱的節目](../Page/2015無綫節目巡禮.md "wikilink")《我要再成名》的（製作）計劃，其後於2017年製作同類的懷舊音樂節目[流行經典50年](https://zh.wikipedia.org/wiki/流行經典50年 "wikilink")。
 
 ## 記事
 
@@ -1480,7 +1480,7 @@ Eric Kwok之妻</p></td>
 
 ## 獎項
 
-### [萬千星輝頒獎典禮2014](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2014 "wikilink")
+### [萬千星輝頒獎典禮2014](../Page/萬千星輝頒獎典禮2014.md "wikilink")
 
 <table style="width:56%;">
 <colgroup>

@@ -50,12 +50,12 @@ Software](https://zh.wikipedia.org/wiki/GNOME_Software "wikilink")
 
   - [Conary](../Page/Conary.md "wikilink")
 
-  - [DNF](https://zh.wikipedia.org/wiki/DNF_\(软件\) "wikilink")
+  - [DNF](../Page/DNF_\(软件\).md "wikilink")
 
   - [Sabayon
     Linux的](../Page/Sabayon_Linux.md "wikilink")[Entropy](http://wiki.sabayonlinux.org/index.php?title=En:Entropy)
 
-  - [Opkg](https://zh.wikipedia.org/wiki/Opkg "wikilink")
+  - [Opkg](../Page/Opkg.md "wikilink")
 
   -
   - [poldek](http://poldek.pld-linux.org/)
@@ -69,9 +69,9 @@ Software](https://zh.wikipedia.org/wiki/GNOME_Software "wikilink")
 
   - [YUM](https://zh.wikipedia.org/wiki/Yellow_Dog_Updater_Modified "wikilink")
 
-  - [ZYpp](https://zh.wikipedia.org/wiki/ZYpp "wikilink")
+  - [ZYpp](../Page/ZYpp.md "wikilink")
 
-  - [urpmi](../Page/urpmi.md "wikilink")
+  - [urpmi](https://zh.wikipedia.org/wiki/urpmi "wikilink")
 
 ## 參見
 

@@ -12,7 +12,7 @@ SHOCK**）是[索尼互動娛樂为](../Page/索尼互動娛樂.md "wikilink")[P
 [PS1_Dual_Analog_with_Box.jpg](https://zh.wikipedia.org/wiki/File:PS1_Dual_Analog_with_Box.jpg "fig:PS1_Dual_Analog_with_Box.jpg")
 DualShock和其前代双摇杆控制器一样，有两个类比摇杆。但与之不同的是，DualShock的类比摇杆顶部为磨砂橡胶材质并略微凸起，而双摇杆控制器为光滑塑料材质并且稍微凹陷。DualShock控制器相比双摇杆控制器控制器另外还添加了L3/R3按钮，通过按下类比摇杆触发。外观方面，DualShock控制器拥有更长的把手，L2/R2键略微不同。
 
-许多PlayStation游戏都支持DualShock控制器，在其发行后不久，包括《[古惑狼3：扭曲](https://zh.wikipedia.org/wiki/古惑狼3：扭曲 "wikilink")》、《[小龙斯派罗](https://zh.wikipedia.org/wiki/小龙斯派罗_\(游戏\) "wikilink")》和《[铁拳3](https://zh.wikipedia.org/wiki/铁拳3 "wikilink")》在内的大多数游戏都添加了对双摇杆和震动功能的支持。[卡普空甚至重置了](../Page/卡普空.md "wikilink")《[生化危机](../Page/生化危机_\(1996年游戏\).md "wikilink")》游戏并发布了《[生化危机：导演的剪辑](../Page/生化危机_\(1996年游戏\).md "wikilink")》和《[生化危机2](https://zh.wikipedia.org/wiki/生化危机2 "wikilink")》，增加了对DualShock控制器的支持。许多游戏专门为DualShock的震动机能进行设计，列如《Porsche
+许多PlayStation游戏都支持DualShock控制器，在其发行后不久，包括《[古惑狼3：扭曲](../Page/古惑狼3：扭曲.md "wikilink")》、《[小龙斯派罗](https://zh.wikipedia.org/wiki/小龙斯派罗_\(游戏\) "wikilink")》和《[铁拳3](https://zh.wikipedia.org/wiki/铁拳3 "wikilink")》在内的大多数游戏都添加了对双摇杆和震动功能的支持。[卡普空甚至重置了](../Page/卡普空.md "wikilink")《[生化危机](../Page/生化危机_\(1996年游戏\).md "wikilink")》游戏并发布了《[生化危机：导演的剪辑](../Page/生化危机_\(1996年游戏\).md "wikilink")》和《[生化危机2](https://zh.wikipedia.org/wiki/生化危机2 "wikilink")》，增加了对DualShock控制器的支持。许多游戏专门为DualShock的震动机能进行设计，列如《Porsche
 Challenge》和《古惑狼2》。还有一些游戏对双震动马达设计进行优化，用来产生更加立体的震动感觉，列如《[GT賽車](../Page/GT賽車_\(1997年遊戲\).md "wikilink")》和《[雷神之锤II](../Page/雷神之锤II.md "wikilink")》。1999年发布的PlayStation热门游戏《[捉猴啦](../Page/捉猴啦.md "wikilink")》是第一个强制需要DualShock控制器进行游玩的游戏，其游戏玩法需要同时使用两个摇杆。2000年，[PS
 one上市销售](https://zh.wikipedia.org/wiki/PS_one "wikilink")，附带的是一个稍微不同的DualShock控制器（SCPH-110），与原版相差不多，但其颜色为纯白色，并且控制器中间为PS
 one标志替代了原来的PlayStation标志，大多数的按钮和摇杆都略微比原版增大，连接插头的形状也从圆形改为半圆形。
@@ -20,7 +20,7 @@ one标志替代了原来的PlayStation标志，大多数的按钮和摇杆都略
 DualShock也与[PlayStation
 2兼容](../Page/PlayStation_2.md "wikilink")，这是因为DualShock和DualShock
 2使用同样的接口和传输协议。但是，某些需要使用DualShock
-2的压力感应按钮的PS2游戏，如《[絕命保鑣](https://zh.wikipedia.org/wiki/絕命保鑣 "wikilink")》，与DualShock并不兼容。如果在PlayStation
+2的压力感应按钮的PS2游戏，如《[絕命保鑣](../Page/絕命保鑣.md "wikilink")》，与DualShock并不兼容。如果在PlayStation
 2上游玩PlayStation游戏时，DualShock完全与PlayStation 2兼容。
 
 ### DualShock 2
@@ -50,10 +50,10 @@ DualShock 3和Sixaxis控制器的顶部，展示USB
 Mini-B端口，显示控制器编号的[发光二极管和压力感应L](https://zh.wikipedia.org/wiki/发光二极管 "wikilink")1/L2肩部按键\]\]
 **DualShock
 3**无线控制器（SCPH-98050/CECHZC2）是索尼電腦娛樂于2007年[东京电玩展上首次发布的与](../Page/东京电玩展.md "wikilink")[PlayStation
-3电子游戏机配套的游戏控制器](../Page/PlayStation_3.md "wikilink")。用来替代原本与机器搭配销售的[Sixaxis无线控制器](https://zh.wikipedia.org/wiki/Sixaxis "wikilink")。DualShock
-3控制器与[Sixaxis控制器类似](https://zh.wikipedia.org/wiki/Sixaxis "wikilink")，但添加了震动反馈机能。2007年3月，经过一场漫长的，索尼与在庭外和解。同意索尼在原本没有震动反馈的[Sixaxis控制器中添加震动马达](https://zh.wikipedia.org/wiki/Sixaxis "wikilink")。\[4\]DualShock
+3电子游戏机配套的游戏控制器](../Page/PlayStation_3.md "wikilink")。用来替代原本与机器搭配销售的[Sixaxis无线控制器](../Page/Sixaxis.md "wikilink")。DualShock
+3控制器与[Sixaxis控制器类似](../Page/Sixaxis.md "wikilink")，但添加了震动反馈机能。2007年3月，经过一场漫长的，索尼与在庭外和解。同意索尼在原本没有震动反馈的[Sixaxis控制器中添加震动马达](../Page/Sixaxis.md "wikilink")。\[4\]DualShock
 3同时拥有振动和运动感应机能，且可以同时使用，不会相互干扰。DualShock
-3和[Sixaxis一样也有一个USB](https://zh.wikipedia.org/wiki/Sixaxis "wikilink")
+3和[Sixaxis一样也有一个USB](../Page/Sixaxis.md "wikilink")
 mini-B端口用于充电和数据传输。使用PlayStation
 3进行绑定后，还能通过[蓝牙在](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")[PSP
 Go上使用](https://zh.wikipedia.org/wiki/PSP_Go "wikilink")。
@@ -155,15 +155,15 @@ V2于2016年9月15日发售。\[39\]
 4（CUH-ZCT2）目前拥有黑色、冰川白色、城市迷彩色、波浪蓝色（蓝色前面板，黑色后背）、岩浆红色（红色前面板，黑色后背）、金色、银色、日落橙色、水晶透明色、红色水晶透明色、蓝色水晶透明色以及最近新推出的钢黑色和午夜蓝色\[46\]。
 
 还有一部分限量版DualShock 4，与机器或游戏捆绑销售，比如PlayStation 20周年[PlayStation
-4捆绑包](../Page/PlayStation_4.md "wikilink")、《》、《[蝙蝠俠：阿卡漢騎士](https://zh.wikipedia.org/wiki/蝙蝠俠：阿卡漢騎士 "wikilink")》、《[潛龍諜影V
-幻痛](../Page/潛龍諜影V_幻痛.md "wikilink")》、《[使命召唤：黑色行动III](https://zh.wikipedia.org/wiki/使命召唤：黑色行动III "wikilink")》、\[47\]
+4捆绑包](../Page/PlayStation_4.md "wikilink")、《》、《[蝙蝠俠：阿卡漢騎士](../Page/蝙蝠俠：阿卡漢騎士.md "wikilink")》、《[潛龍諜影V
+幻痛](../Page/潛龍諜影V_幻痛.md "wikilink")》、《[使命召唤：黑色行动III](../Page/使命召唤：黑色行动III.md "wikilink")》、\[47\]
 《[神秘海域4：盗贼末路](https://zh.wikipedia.org/wiki/神秘海域4：盗贼末路 "wikilink")》、《》、《[怪物猎人
-世界](https://zh.wikipedia.org/wiki/怪物猎人_世界 "wikilink")》和《[戰神](https://zh.wikipedia.org/wiki/戰神_\(2018年遊戲\) "wikilink")》[PlayStation
+世界](../Page/怪物猎人_世界.md "wikilink")》和《[戰神](../Page/戰神_\(2018年遊戲\).md "wikilink")》[PlayStation
 4捆绑包中的限量DualShock](../Page/PlayStation_4.md "wikilink") 4控制器。
 
 ## 艾美奖
 
-2007年1月8日，美国国家电视艺术与科学学院授予DualShock系列控制器“视频游戏控制器的周边开发和技术影响”艾美奖。\[48\]索尼最初报道称，[Sixaxis无线控制器获得了这个奖项](https://zh.wikipedia.org/wiki/Sixaxis "wikilink")，\[49\]之后修正了新闻稿。\[50\]
+2007年1月8日，美国国家电视艺术与科学学院授予DualShock系列控制器“视频游戏控制器的周边开发和技术影响”艾美奖。\[48\]索尼最初报道称，[Sixaxis无线控制器获得了这个奖项](../Page/Sixaxis.md "wikilink")，\[49\]之后修正了新闻稿。\[50\]
 
 ## 参见
 
@@ -171,8 +171,7 @@ V2于2016年9月15日发售。\[39\]
 
   - ，拥有两个类比摇杆的PlayStation控制器。
 
-  - [Sixaxis](https://zh.wikipedia.org/wiki/Sixaxis "wikilink")，没有内部震动电机的DualShock
-    3控制器。
+  - [Sixaxis](../Page/Sixaxis.md "wikilink")，没有内部震动电机的DualShock 3控制器。
 
 {{-}}
 

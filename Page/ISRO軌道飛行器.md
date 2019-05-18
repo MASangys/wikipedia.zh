@@ -54,7 +54,7 @@ ISRO主席宣布OV將在2014年進行飛行測試。如同SRE-1任務，太空�
 （Hindustan Aeronautics Limited）將第一批太空艙的結構體送交給ISRO。\[18\]\[19\]
 ISRO的[維克拉姆·薩拉巴伊太空中心將為太空艙裝配維生](https://zh.wikipedia.org/wiki/維克拉姆·薩拉巴伊太空中心 "wikilink")、導航、控制等必要系統。ISRO於2014年12月18日用[GSLV
 Mk
-III火箭進行一項實驗性](https://zh.wikipedia.org/wiki/地球同步衛星運載火箭3型號 "wikilink")[次軌道的無人發射測試](https://zh.wikipedia.org/wiki/次軌道太空飛行 "wikilink")。上午9:30，GSLV
+III火箭進行一項實驗性](https://zh.wikipedia.org/wiki/地球同步衛星運載火箭3型號 "wikilink")[次軌道的無人發射測試](../Page/次軌道太空飛行.md "wikilink")。上午9:30，GSLV
 Mk
 III在[薩迪什·達萬太空中心升空](https://zh.wikipedia.org/wiki/薩迪什·達萬太空中心 "wikilink")。\[20\]
 （實驗性質，無人）\[21\]乘員艙在海拔126 km處與火箭分離。推進器在抵達海拔80 km之前控制方向並降速。到達80 km之後推進器關閉，大氣阻力進一步減緩太空艙的速度。此時太空艙的擋熱板預期承受超過1600 °C的溫度。降落傘在15 km開啟，太空艙在安達曼和尼科巴群島附近，孟加拉灣海面上軟著陸。這次發射的目的是測試入軌、分離、重返程序以及乘員艙的系統。也測試了太空艙的分離、擋熱板、氣動煞車、降落傘、Retrorocket（降落前提供反作用力的推進器）、落水與漂浮等系統。並依照程序從孟加拉灣收回了乘員艙。\[22\]\[23\]

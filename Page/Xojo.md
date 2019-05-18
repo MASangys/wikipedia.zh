@@ -2,7 +2,7 @@
 [XojoCodeEditor.jpg](https://zh.wikipedia.org/wiki/File:XojoCodeEditor.jpg "fig:XojoCodeEditor.jpg")
 **Xojo**（读作“啁啾”）是一个[跨平台编程语言及多平台开发工具](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，能为[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac
 OS
-X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux這三种](../Page/Linux.md "wikilink")[操作系統编写具有](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[图形用户界面的桌面](../Page/图形用户界面.md "wikilink")（Desktop）程序、没有[图形用户界面的](../Page/图形用户界面.md "wikilink")[控制台或后台服务程序](https://zh.wikipedia.org/wiki/控制台 "wikilink")、网络（Web）程序（有嵌入网络服务器功能的可独立运行版本以及支持[Apache和](https://zh.wikipedia.org/wiki/Apache "wikilink")[IIS的](https://zh.wikipedia.org/wiki/IIS "wikilink")[CGI两种方式](https://zh.wikipedia.org/wiki/CGI "wikilink")），并即将支持[iOS等移动平台](../Page/iOS.md "wikilink")。Xojo通过交叉编译在开发平台上为各种[操作系統生成本机代码的原生的应用程序](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，即程序由CPU可以直接执行的指令组成，几乎所有界面[控件也都是相应](../Page/控件.md "wikilink")[操作系統的原生界面](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[控件](../Page/控件.md "wikilink")。
+X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux這三种](../Page/Linux.md "wikilink")[操作系統编写具有](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[图形用户界面的桌面](../Page/图形用户界面.md "wikilink")（Desktop）程序、没有[图形用户界面的](../Page/图形用户界面.md "wikilink")[控制台或后台服务程序](https://zh.wikipedia.org/wiki/控制台 "wikilink")、网络（Web）程序（有嵌入网络服务器功能的可独立运行版本以及支持[Apache和](https://zh.wikipedia.org/wiki/Apache "wikilink")[IIS的](https://zh.wikipedia.org/wiki/IIS "wikilink")[CGI两种方式](https://zh.wikipedia.org/wiki/CGI "wikilink")），并即将支持[iOS等移动平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。Xojo通过交叉编译在开发平台上为各种[操作系統生成本机代码的原生的应用程序](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，即程序由CPU可以直接执行的指令组成，几乎所有界面[控件也都是相应](../Page/控件.md "wikilink")[操作系統的原生界面](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[控件](../Page/控件.md "wikilink")。
 
 Xojo语言是完全[面向对象](https://zh.wikipedia.org/wiki/面向对象 "wikilink")（[物件導向](https://zh.wikipedia.org/wiki/物件導向 "wikilink")）的编程语言，支持继承、重构、多态，像[Java和](../Page/Java.md "wikilink")[C\#一样支持类接口](../Page/C♯.md "wikilink")（class
 interface）和命名空间（名称空间，namespace）。除此之外，还有委托（delegate）、反射/自省（introspection）等现代编程语言所具有的功能。Xojo语言是强类型语言，所有变量需要先定义后使用。
@@ -11,14 +11,14 @@ Xojo的[集成开发环境](../Page/集成开发环境.md "wikilink")（[整合�
 
 Xojo的编译器曾经可以为[X86](../Page/X86.md "wikilink")、[68K](https://zh.wikipedia.org/wiki/68K "wikilink")、[PowerPC三大类芯片编译原生程序](../Page/PowerPC.md "wikilink")，随着后两者的衰落，目前只支持Intel
 X86系列及其兼容芯片，能为Windows生成PE格式可执行文件，为Mac OS
-X生成Mach-O格式程序包（以前还支持PEF格式的单一可执行文件），为Linux生成ELF格式的可执行文件。Xojo的编译器后端将在不久的将来采用[LLVM代替自行编写的编译器](../Page/LLVM.md "wikilink")，从而能为[iOS和安卓等移动系统所支持的CPU编译原生应用程序](../Page/iOS.md "wikilink")。
+X生成Mach-O格式程序包（以前还支持PEF格式的单一可执行文件），为Linux生成ELF格式的可执行文件。Xojo的编译器后端将在不久的将来采用[LLVM代替自行编写的编译器](../Page/LLVM.md "wikilink")，从而能为[iOS和安卓等移动系统所支持的CPU编译原生应用程序](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 Xojo目前支持的操作系统程序库包括[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
 Windows上的Win32及兼容API，[Apple](https://zh.wikipedia.org/wiki/Apple "wikilink")
 Mac OS
 X系统的[Carbon框架和](https://zh.wikipedia.org/wiki/Carbon框架 "wikilink")[Cocoa框架](https://zh.wikipedia.org/wiki/Cocoa框架 "wikilink")，Linux上的GTK图形界面。以前还曾支持过Mac
 OS Classic平台，并且将会支持iOS的[Cocoa
-Touch开发框架](https://zh.wikipedia.org/wiki/Cocoa_Touch "wikilink")。Xojo提供插件（plugin）开发包[SDK](https://zh.wikipedia.org/wiki/SDK "wikilink")，使用户能将用C/C++等语言编写的程序库进行包装后在Xojo程序中调用。Xojo的Mac
+Touch开发框架](../Page/Cocoa_Touch.md "wikilink")。Xojo提供插件（plugin）开发包[SDK](https://zh.wikipedia.org/wiki/SDK "wikilink")，使用户能将用C/C++等语言编写的程序库进行包装后在Xojo程序中调用。Xojo的Mac
 OS
 X程序还支持嵌入[AppleScript脚本](../Page/AppleScript.md "wikilink")，所嵌入的脚本可以作为工程中的一个全局方法来调用，在Windows上则支持大部分ActiveX控件。Xojo语言通过与VB类似的Declare语句提供对操作系统[API和各平台上的动态库](https://zh.wikipedia.org/wiki/API "wikilink")、静态库文件中的函数进行直接调用。
 
@@ -46,7 +46,7 @@ IDE的自动化脚本功能让Xojo在编译程序之后自动将程序所需的�
 ### Mac平台
 
 Xojo诞生之时，Apple自己的Mac OS
-X平台开发工具[XCode还未面世](../Page/XCode.md "wikilink")，因此不久就与[CodeWarrior](https://zh.wikipedia.org/wiki/CodeWarrior "wikilink")（时为[摩托罗拉下属](../Page/摩托罗拉.md "wikilink")[飞思卡尔公司的产品](../Page/飞思卡尔.md "wikilink")）一起成为了Mac
+X平台开发工具[XCode还未面世](https://zh.wikipedia.org/wiki/XCode "wikilink")，因此不久就与[CodeWarrior](https://zh.wikipedia.org/wiki/CodeWarrior "wikilink")（时为[摩托罗拉下属](../Page/摩托罗拉.md "wikilink")[飞思卡尔公司的产品](../Page/飞思卡尔.md "wikilink")）一起成为了Mac
 OS X平台上的重要开发工具，在1999～2001年连续三届获得Apple Design
 Award提名，曾被Mac用户界著名的Macworld杂志给与了4.5只“老鼠”的好评（满分为5只，但极少打出满分），在2003
 MacInTouch读者评选中被评为最佳开发工具。

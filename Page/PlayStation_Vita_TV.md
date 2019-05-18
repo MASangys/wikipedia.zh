@@ -6,8 +6,8 @@ Vita](../Page/PlayStation_Vita.md "wikilink")[掌上游戏机的非手持主机�
 
 PSVita TV可以运行许多[PlayStation
 Vita游戏和应用程序](../Page/PlayStation_Vita.md "wikilink")，通过[DualShock
-3或](https://zh.wikipedia.org/wiki/DualShock "wikilink")[DualShock
-4手柄进行控制](https://zh.wikipedia.org/wiki/DualShock "wikilink")。游戏及应用程序可以使用物理卡带或通过[PlayStation
+3或](../Page/DualShock.md "wikilink")[DualShock
+4手柄进行控制](../Page/DualShock.md "wikilink")。游戏及应用程序可以使用物理卡带或通过[PlayStation
 Store在线下载](../Page/PlayStation_Store.md "wikilink")。但是，并非所有游戏及应用程序内容都与PSVita
 TV设备兼容，因为这些游戏及应用程序需要使用PS Vita设备中的某些功能（例如陀螺仪和麦克风），而PSVita TV没有这些功能。
 
@@ -18,7 +18,7 @@ TV设备兼容，因为这些游戏及应用程序需要使用PS Vita设备中�
 
 该主机于2013年11月14日在日本上市，以9954日元（含税）的价格出售。而另外一种配备8 GB的PS
 Vita存储卡和一个[DualShock
-3手柄的捆绑版本零售价为](https://zh.wikipedia.org/wiki/DualShock "wikilink")14994日元（含税）\[7\]。
+3手柄的捆绑版本零售价为](../Page/DualShock.md "wikilink")14994日元（含税）\[7\]。
 
 索尼电脑娱乐公司首席执行官表示索尼希望能够使用PSVita
 TV打入中国游戏市场。在2013年时，中国大陆市场[禁止销售电子游戏机](https://zh.wikipedia.org/wiki/中国大陆游戏机历史 "wikilink")\[8\]。PSVita
@@ -41,8 +41,8 @@ TV\[14\]。索尼之后确认PS TV在美洲和欧洲已于2015年底停止发货
 
 [PlayStation-TV-BL.jpg](https://zh.wikipedia.org/wiki/File:PlayStation-TV-BL.jpg "fig:PlayStation-TV-BL.jpg")
 主机通过[HDMI连接显示器](../Page/HDMI.md "wikilink")，而并非通过内置屏幕。使用者可以使用[DualShock
-3手柄进行控制](https://zh.wikipedia.org/wiki/DualShock "wikilink")\[16\]（在2014年3月25日发布的3.10固件更新新增了对[DualShock
-4手柄的支持](https://zh.wikipedia.org/wiki/DualShock "wikilink")\[17\]），由于手柄缺少许多PlayStation
+3手柄进行控制](../Page/DualShock.md "wikilink")\[16\]（在2014年3月25日发布的3.10固件更新新增了对[DualShock
+4手柄的支持](../Page/DualShock.md "wikilink")\[17\]），由于手柄缺少许多PlayStation
 Vita的功能，部分需要这些功能的游戏及应用程序无法在PSVita TV上运行。列如部分使用PlayStation
 Vita的麦克风、摄像头、陀螺仪功能的游戏，将无法在PSVita
 TV上运行。\[18\]该设备可以兼容100多款PlayStation
@@ -75,7 +75,7 @@ Portable相同的型号和类型的电源适配器](../Page/PlayStation_Portable
 
 ## 评价
 
-《[PC World](https://zh.wikipedia.org/wiki/PC_World "wikilink")》 称PSVita
+《[PC World](../Page/PC_World.md "wikilink")》 称PSVita
 TV可能是索尼最令人兴奋的新产品之一，它可以为PS4提供重要的优势\[28\]。
 
 各家媒体的评论员都将PSVita TV设备与其他微型游戏机或机顶盒进行了比较，包括流媒体设备（如[Apple

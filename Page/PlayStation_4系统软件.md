@@ -96,7 +96,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </dl>
 <ul>
 <li>此系統軟件更新將提升系統性能。</li>
-<li>支援在<a href="../Page/iOS.md" title="wikilink">iOS裝置上透過PS</a>4 Remote Play遙控遊玩。</li>
+<li>支援在<a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS裝置上透過PS</a>4 Remote Play遙控遊玩。</li>
 <li>可自行設定將〇或×按鈕做為「決定」鍵。</li>
 </ul></td>
 </tr>

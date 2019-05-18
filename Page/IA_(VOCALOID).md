@@ -19,7 +19,7 @@ Pack（）兩種，前者只包含聲音庫，而後者顧名思義即為初次�
 另外，IA的新聲音庫「IA ROCKS -ARIA ON THE
 PLANETES-」於6月27日發售\[5\]。[Jin](https://zh.wikipedia.org/wiki/Jin "wikilink")（自然之敵P）獲准預先使用IA
 ROCKS製作「[Inner
-Arts](http://www.nicovideo.jp/watch/sm23612988)」並上傳至[NICONICO動畫](../Page/NICONICO動畫.md "wikilink")，該曲曾登上《VOCALOID排行週刊》（）榜首。
+Arts](http://www.nicovideo.jp/watch/sm23612988)」並上傳至[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，該曲曾登上《VOCALOID排行週刊》（）榜首。
 
   - 支援語言：[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")
   - 擅長的節奏（[BPM](https://zh.wikipedia.org/wiki/BPM "wikilink")）：63\~228BPM
@@ -51,7 +51,7 @@ Arts](http://www.nicovideo.jp/watch/sm23612988)」並上傳至[NICONICO動畫](.
 ### CeVIO Creative Studio聲庫
 
 在2017年3月1日推出了使用[CeVIO Creative
-Studio作為引擎的說話聲庫](https://zh.wikipedia.org/wiki/CeVIO_Creative_Studio "wikilink")，名為IA
+Studio作為引擎的說話聲庫](../Page/CeVIO_Creative_Studio.md "wikilink")，名為IA
 Talk -ARIA ON THE PLANETES-。
 
 在2018年6月28日推出使用CeVIO Creative Studio作為引擎的英語歌唱聲庫，名為IA ENGLISH C -ARIA ON
@@ -93,7 +93,7 @@ PLACE亦在其官方網站上提供了一些[自由的素材](http://1stplace.co
 ### 作品系列
 
   - 1stPlace旗下创作者[Jin的](https://zh.wikipedia.org/wiki/Jin "wikilink")[陽炎Project系列曲目](https://zh.wikipedia.org/wiki/陽炎Project "wikilink")。
-  - [終焉之栞](https://zh.wikipedia.org/wiki/終焉之栞 "wikilink")
+  - [終焉之栞](../Page/終焉之栞.md "wikilink")
 
 ### 週刊VOCALOID排行榜榜首的歌曲
 
@@ -307,7 +307,7 @@ PLANETES-立体化手办于2013年3月发售，该手办还原了IA绘师赤坂�
 IA在[PSV平台的](../Page/PlayStation_Vita.md "wikilink")[角色扮演游戏](../Page/角色扮演游戏.md "wikilink")（）中出現，同時演唱了其主題曲之一，於DLC中收錄。
 
 [GROOVE
-COASTER中收錄了IA的音樂](https://zh.wikipedia.org/wiki/GROOVE_COASTER "wikilink")，包括[Jin的](https://zh.wikipedia.org/wiki/Jin "wikilink")[陽炎Project曲](https://zh.wikipedia.org/wiki/陽炎Project "wikilink")\[12\]，該遊戲為[街機遊戲](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")，亦提供[iOS平台版本](../Page/iOS.md "wikilink")。
+COASTER中收錄了IA的音樂](https://zh.wikipedia.org/wiki/GROOVE_COASTER "wikilink")，包括[Jin的](https://zh.wikipedia.org/wiki/Jin "wikilink")[陽炎Project曲](https://zh.wikipedia.org/wiki/陽炎Project "wikilink")\[12\]，該遊戲為[街機遊戲](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")，亦提供[iOS平台版本](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 由Marvelous AQL与VOCALOID聯合製作的音乐节奏游戏《IA/VT
 COLORFUL》或將於2014年7月31日登陆[PSV平台](../Page/PlayStation_Vita.md "wikilink")\[13\]，後在官網發發布延至2014年11月的消息，最後定於2015年7月30日發售。游戏名称是「IA
@@ -331,7 +331,7 @@ BIRTH」「IA/02 COLOR」为中心的既有曲，IA的其他新曲也有机会�
   -
 
   - [「赤坂アカ」的個人資料](http://www.pixiv.net/member.php?id=3127667) -
-    IA人設繪師赤坂アカ在[pixiv上的頁面](../Page/pixiv.md "wikilink")
+    IA人設繪師赤坂アカ在[pixiv上的頁面](https://zh.wikipedia.org/wiki/pixiv "wikilink")
 
   - [ROxIA可愛不設限WANNA BE FREE
     可愛さ無限大](https://tro.gnjoy.com.tw/Event/ACT_20171005_moeCelebrity/ROandIA?_ga=2.146606769.428033775.1511774054-980578254.1511774054/)

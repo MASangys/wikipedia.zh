@@ -810,7 +810,7 @@ Firefox發佈紀錄](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")�
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Firefox_3" title="wikilink">Firefox 3</a></strong></p></td>
 <td><p>1.9</p></td>
 <td><p>3.0a1</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/大帕拉迪索國家公園" title="wikilink">Gran Paradiso</a></em></p></td>
+<td><p><em><a href="../Page/大帕拉迪索國家公園.md" title="wikilink">Gran Paradiso</a></em></p></td>
 <td><p>2006年12月8日</p></td>
 <td><p><em>第一個Firefox 3.0預覽版</em>[73]</p></td>
 </tr>
@@ -937,7 +937,7 @@ Firefox發佈紀錄](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")�
 <tr class="odd">
 <td><p>3.0</p></td>
 <td><p><em>Firefox 3.0<br />
-<small>"<a href="https://zh.wikipedia.org/wiki/大帕拉迪索國家公園" title="wikilink">Gran Paradiso</a>"</em></p></td>
+<small>"<a href="../Page/大帕拉迪索國家公園.md" title="wikilink">Gran Paradiso</a>"</em></p></td>
 <td><p>2008年6月17日</p></td>
 <td><p><em>官方版Firefox 3.0釋出</em>[89]</p>
 <ul>
@@ -1857,7 +1857,7 @@ Firefox發佈紀錄](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")�
 <tr class="odd">
 <td><p>4.0</p></td>
 <td><p><em>Firefox 4.0<br />
-<small>"<a href="https://zh.wikipedia.org/wiki/土木庫馬奎國家公園" title="wikilink">Tumucumaque</a>"</small></em></p></td>
+<small>"<a href="../Page/土木庫馬奎國家公園.md" title="wikilink">Tumucumaque</a>"</small></em></p></td>
 <td><p>2011年3月22日</p></td>
 <td><p><em>官方版Firefox 4.0釋出</em>[195]</p>
 <ul>
@@ -7504,7 +7504,7 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 <li>使用Service Workers工具模擬送出Push訊息</li>
 <li>使用about:debugging工具中的Service Worker「開始」按鈕啟動已註冊的Service Worker</li>
 <li>影響附加元件相容性的變更</li>
-<li>支援<a href="https://zh.wikipedia.org/wiki/ChaCha20" title="wikilink">ChaCha20</a>/<a href="https://zh.wikipedia.org/wiki/Poly1305" title="wikilink">Poly1305密文組</a></li>
+<li>支援<a href="https://zh.wikipedia.org/wiki/ChaCha20" title="wikilink">ChaCha20</a>/<a href="../Page/Poly1305.md" title="wikilink">Poly1305密文組</a></li>
 <li>在適應性設計檢視模式中自訂使用者代理字串</li>
 <li>網頁主控台的智慧多行輸入</li>
 <li>支援TextTrack物件cuechange事件</li>

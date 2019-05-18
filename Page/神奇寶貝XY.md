@@ -2,8 +2,8 @@
 X·Y](https://zh.wikipedia.org/wiki/神奇宝贝_X·Y "wikilink")》为蓝本的原作[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。接檔《[神奇寶貝超級願望](../Page/神奇寶貝超級願望.md "wikilink")》。本作的主题是「美丽」、「-{zh-hans:牽;
 zh-hk:牽; zh-tw:羈}-絆」、「超進化」等，观众可以在这部新作中感受到明显的画质提升、着重针对人物心理的描写和全新的剧情设定。
 
-由本作起的神奇宝贝系列台灣及香港代理商改為[曼迪傳播](../Page/曼迪傳播.md "wikilink")\[1\]。香港於2014年7月13日起在[翡翠台播映](../Page/翡翠台.md "wikilink")，並即日在[myTV](../Page/myTV.md "wikilink")（改為[myTV
-SUPER](../Page/myTV_SUPER.md "wikilink")）上載粵語配音版本供香港觀眾於14天內重溫；同時翡翠台亦會以[高清](https://zh.wikipedia.org/wiki/高清 "wikilink")（[數碼訊號](../Page/香港數碼地面電視廣播.md "wikilink")）和[4:3](https://zh.wikipedia.org/wiki/4:3 "wikilink")[標清](https://zh.wikipedia.org/wiki/標清 "wikilink")（[模擬訊號](https://zh.wikipedia.org/wiki/模擬訊號 "wikilink")）同步播放。台灣則於2014年8月3日到2015年7月19日於[東森幼幼台播映](../Page/東森幼幼台.md "wikilink")，而[華視於](https://zh.wikipedia.org/wiki/華視 "wikilink")2015年9月11日起播映，[MOMO親子台則於](../Page/MOMO親子台.md "wikilink")2016年起播映。
+由本作起的神奇宝贝系列台灣及香港代理商改為[曼迪傳播](../Page/曼迪傳播.md "wikilink")\[1\]。香港於2014年7月13日起在[翡翠台播映](../Page/翡翠台.md "wikilink")，並即日在[myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")（改為[myTV
+SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")）上載粵語配音版本供香港觀眾於14天內重溫；同時翡翠台亦會以[高清](https://zh.wikipedia.org/wiki/高清 "wikilink")（[數碼訊號](../Page/香港數碼地面電視廣播.md "wikilink")）和[4:3](https://zh.wikipedia.org/wiki/4:3 "wikilink")[標清](https://zh.wikipedia.org/wiki/標清 "wikilink")（[模擬訊號](https://zh.wikipedia.org/wiki/模擬訊號 "wikilink")）同步播放。台灣則於2014年8月3日到2015年7月19日於[東森幼幼台播映](../Page/東森幼幼台.md "wikilink")，而[華視於](https://zh.wikipedia.org/wiki/華視 "wikilink")2015年9月11日起播映，[MOMO親子台則於](../Page/MOMO親子台.md "wikilink")2016年起播映。
 
 ## 故事概要
 
@@ -1646,7 +1646,7 @@ VS超級沙奈朵</p></td>
 | 神奇寶貝XY系列 |                                                                                                  |                                     |                                     |
 | 中文       | 日本英文名                                                                                            | 美國官方名                               | 日本                                  |
 | 17       | [破壞之繭與蒂安希](https://zh.wikipedia.org/wiki/Pokemon_the_movie_XY_破壞之繭與蒂安希 "wikilink")               | Cocoon of Destruction & Diancie     | Diancie & the Cocoon of Destruction |
-| 18       | [光環的超魔神 胡帕](https://zh.wikipedia.org/wiki/Pokemon_the_movie_XY_光環的超魔神_胡帕 "wikilink")             | The Archdjinni of the Rings - Hoopa | Hoopa & the Clash of Ages           |
+| 18       | [光環的超魔神 胡帕](../Page/Pokemon_the_movie_XY_光環的超魔神_胡帕.md "wikilink")                                | The Archdjinni of the Rings - Hoopa | Hoopa & the Clash of Ages           |
 | 19       | [波爾凱尼恩與機關人偶瑪機雅娜](https://zh.wikipedia.org/wiki/Pokemon_the_movie_XY&Z_波爾凱尼恩與機關人偶瑪機雅娜 "wikilink") | Volcanion & the Mechanical Magearna | Volcanion & the Mechanical Marvel   |
 |          |                                                                                                  |                                     |                                     |
 

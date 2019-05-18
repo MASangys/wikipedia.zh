@@ -73,7 +73,7 @@
   - 片頭曲「[NO
     FUTURE](https://zh.wikipedia.org/wiki/NO_FUTURE "wikilink")」
     作詞、主唱：[相川七瀨](../Page/相川七瀨.md "wikilink")
-    作曲：[布袋寅泰](https://zh.wikipedia.org/wiki/布袋寅泰 "wikilink")
+    作曲：[布袋寅泰](../Page/布袋寅泰.md "wikilink")
     編曲：太田要
     出版商：mortord
   - 片尾曲「流離人」

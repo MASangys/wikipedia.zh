@@ -1,4 +1,4 @@
-，為日本[TBS電視台自](../Page/TBS電視台.md "wikilink")2014年4月14日起至6月止播出的週一晚間八點檔（[月八](https://zh.wikipedia.org/wiki/週一懸疑劇院 "wikilink")）。由[北村一輝主演](../Page/北村一輝.md "wikilink")。
+，為日本[TBS電視台自](../Page/TBS電視台.md "wikilink")2014年4月14日起至6月止播出的週一晚間八點檔（[月八](../Page/週一懸疑劇院.md "wikilink")）。由[北村一輝主演](../Page/北村一輝.md "wikilink")。
 
 ## 登场角色
 

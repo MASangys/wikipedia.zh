@@ -794,7 +794,7 @@ Fourze鎧甲</p></td>
 
 「**TEPPEN STAR**」
 
-  - 演唱：[hitomi](../Page/hitomi.md "wikilink")
+  - 演唱：[hitomi](https://zh.wikipedia.org/wiki/hitomi "wikilink")
   - 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")
   - 作曲：[JIN](https://zh.wikipedia.org/wiki/JIN "wikilink")
 

@@ -9,7 +9,7 @@ PC兼容機](https://zh.wikipedia.org/wiki/IBM_PC兼容機 "wikilink")[主開機
   - PXELINUX\[2\]
     ，用來從裝設了[預啟動執行環境的網路伺服器開機](https://zh.wikipedia.org/wiki/預啟動執行環境 "wikilink")。
   - EXTLINUX\[3\]
-    ，用來從[Linux的](../Page/Linux.md "wikilink")[ext2](../Page/ext2.md "wikilink")／[ext3](../Page/ext3.md "wikilink")／[ext4或](../Page/ext4.md "wikilink")[Btrfs檔案系統開機](../Page/Btrfs.md "wikilink")。
+    ，用來從[Linux的](../Page/Linux.md "wikilink")[ext2](https://zh.wikipedia.org/wiki/ext2 "wikilink")／[ext3](https://zh.wikipedia.org/wiki/ext3 "wikilink")／[ext4或](https://zh.wikipedia.org/wiki/ext4 "wikilink")[Btrfs檔案系統開機](../Page/Btrfs.md "wikilink")。
   - MEMDISK\[4\]
     ，用來從上述啟動較舊的作業系統（如[MS-DOS](../Page/MS-DOS.md "wikilink")）。
   - 兩個獨立的選單系統。

@@ -33,7 +33,7 @@ Lover**[歐陸舞曲Eurodance的曲風融合酷勁節奏與甜美輕快](https:/
 
 ### 3.熱帶氣旋
 
-  - 詞 : [徐世珍](https://zh.wikipedia.org/wiki/徐世珍 "wikilink")
+  - 詞 : [徐世珍](../Page/徐世珍.md "wikilink")
   - 曲 : [Claire
     Rodrigues](https://zh.wikipedia.org/wiki/Claire_Rodrigues "wikilink")
     /[Micayle

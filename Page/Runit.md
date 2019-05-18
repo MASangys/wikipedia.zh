@@ -3,7 +3,7 @@ OS
 X、\*BSD和Solaris操作系统上运行的、有“开创性”的[daemontools的](https://zh.wikipedia.org/wiki/daemontools "wikilink")“再实现”。\[1\]runit可并行启动系统服务，这样可以加快操作系统的启动。\[2\]
 
 如[System V
-init](../Page/init.md "wikilink")，runit是所有其他进程直接或间接的[父进程](../Page/子进程.md "wikilink")。它是在[启动过程中第一个运行的进程](https://zh.wikipedia.org/wiki/引导程序 "wikilink")，并继续运行直至系统关闭。
+init](https://zh.wikipedia.org/wiki/init "wikilink")，runit是所有其他进程直接或间接的[父进程](../Page/子进程.md "wikilink")。它是在[启动过程中第一个运行的进程](https://zh.wikipedia.org/wiki/引导程序 "wikilink")，并继续运行直至系统关闭。
 
 ## 设计
 

@@ -23,9 +23,9 @@ S\&W口徑的彈匣是由](../Page/.40_S&W.md "wikilink")[钢製成](../Page/钢
 
 SAF系列生產了四個版本：具有一個固定式[聚合物](../Page/聚合物.md "wikilink")[槍托的標準型號](../Page/槍托.md "wikilink")、具有一個可向左側折疊的管狀金屬槍托的標準型號、具有整體式[消聲器及折疊式槍托的型號](../Page/抑制器.md "wikilink")（SAF-SD），和迷你SAF。
 
-迷你SAF非常緊湊，類似於[MP5K的設計](../Page/HK_MP5冲锋枪.md "wikilink")，長度只有304.8毫米（12英寸）的它實際上是一枝[個人防衛武器](../Page/個人防衛武器.md "wikilink")。它具有一根114.3毫米（4.5英寸）短槍管，不安裝[槍托](../Page/槍托.md "wikilink")，一般以尾部裝上取代（雖然模塊式設計使其仍可裝上標準型SAF的固定式[聚合物槍托和左側折疊式管狀金屬槍托](../Page/聚合物.md "wikilink")），和一個[垂直](https://zh.wikipedia.org/wiki/垂直前握把 "wikilink")[前握把](../Page/輔助握把.md "wikilink")。迷你SAF可以使用標準的30發彈匣，但亦具有特殊的20發短彈匣，以縮小攜帶尺寸，便於隱藏。所有版本都具有可調節海拔的柱狀[準星](https://zh.wikipedia.org/wiki/照準器 "wikilink")，和可調節風偏的覘孔式[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")。
+迷你SAF非常緊湊，類似於[MP5K的設計](../Page/HK_MP5冲锋枪.md "wikilink")，長度只有304.8毫米（12英寸）的它實際上是一枝[個人防衛武器](../Page/個人防衛武器.md "wikilink")。它具有一根114.3毫米（4.5英寸）短槍管，不安裝[槍托](../Page/槍托.md "wikilink")，一般以尾部裝上取代（雖然模塊式設計使其仍可裝上標準型SAF的固定式[聚合物槍托和左側折疊式管狀金屬槍托](../Page/聚合物.md "wikilink")），和一個[垂直](https://zh.wikipedia.org/wiki/垂直前握把 "wikilink")[前握把](../Page/輔助握把.md "wikilink")。迷你SAF可以使用標準的30發彈匣，但亦具有特殊的20發短彈匣，以縮小攜帶尺寸，便於隱藏。所有版本都具有可調節海拔的柱狀[準星](../Page/照準器.md "wikilink")，和可調節風偏的覘孔式[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")。
 
-其新型版本，SAF-200二百週年紀念版，正由FAMAE和[智利陸軍進行測試](https://zh.wikipedia.org/wiki/智利陸軍 "wikilink")。它包括一個全新的可伸縮和折疊式槍托，一個新型的護木，護木底部具有[直角前握把](https://zh.wikipedia.org/wiki/直角前握把 "wikilink")，並提供安裝[光學瞄準鏡和橫向附件的](../Page/瞄准镜.md "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")。戰術導軌在其他SAF型號上是可選購加裝配備，但在SAF-200上則是標準配備。\[1\]
+其新型版本，SAF-200二百週年紀念版，正由FAMAE和[智利陸軍進行測試](https://zh.wikipedia.org/wiki/智利陸軍 "wikilink")。它包括一個全新的可伸縮和折疊式槍托，一個新型的護木，護木底部具有[直角前握把](../Page/直角前握把.md "wikilink")，並提供安裝[光學瞄準鏡和橫向附件的](../Page/瞄准镜.md "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")。戰術導軌在其他SAF型號上是可選購加裝配備，但在SAF-200上則是標準配備。\[1\]
 [Subametralladora_FAMAE_SAF-200.jpg](https://zh.wikipedia.org/wiki/File:Subametralladora_FAMAE_SAF-200.jpg "fig:Subametralladora_FAMAE_SAF-200.jpg")
 
 ## 採用

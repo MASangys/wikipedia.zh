@@ -22,7 +22,7 @@
 
   - 媚空︰[秋元才加](../Page/秋元才加.md "wikilink")
 
-  - 四道︰[大杉漣](https://zh.wikipedia.org/wiki/大杉漣 "wikilink")
+  - 四道︰[大杉漣](../Page/大杉漣.md "wikilink")
 
   - 毒島榮治︰[哀川翔](https://zh.wikipedia.org/wiki/哀川翔 "wikilink")
 

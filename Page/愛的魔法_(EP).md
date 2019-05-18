@@ -64,7 +64,7 @@
 <td><p>6.</p></td>
 <td><p>第五季</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/林立基" title="wikilink">林立基</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/周沂" title="wikilink">周沂</a></p></td>
+<td><p><a href="../Page/周沂.md" title="wikilink">周沂</a></p></td>
 <td><p>黃安弘</p></td>
 <td><p>韋景雲</p></td>
 </tr>
@@ -93,11 +93,11 @@
 
 ## 音樂錄影帶
 
-| \#  | 歌名     | 導演              | 首播日期       | 頻道                                                   |
-| --- | ------ | --------------- | ---------- | ---------------------------------------------------- |
-| 1\. | 男生乙個   | 詹可達             | 2013年6月10日 | [Youtube](../Page/Youtube.md "wikilink")@Stars Shine |
-| 2\. | 小心愛情   | Jacky@Concept X | 2013年9月9日  | [Youtube](../Page/Youtube.md "wikilink")@Stars Shine |
-| 3\. | 只怪是我不好 | 詹可達             | 2013年9月9日  | [Youtube](../Page/Youtube.md "wikilink")@Stars Shine |
+| \#  | 歌名     | 導演              | 首播日期       | 頻道                                                                      |
+| --- | ------ | --------------- | ---------- | ----------------------------------------------------------------------- |
+| 1\. | 男生乙個   | 詹可達             | 2013年6月10日 | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")@Stars Shine |
+| 2\. | 小心愛情   | Jacky@Concept X | 2013年9月9日  | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")@Stars Shine |
+| 3\. | 只怪是我不好 | 詹可達             | 2013年9月9日  | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")@Stars Shine |
 
 ## 唱片銷量榜
 

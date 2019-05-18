@@ -24,7 +24,7 @@ system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | langu
 
 ## 用法
 
-**Checkstyle**构建成一个[JAR文件中](https://zh.wikipedia.org/wiki/JAR_\(文件格式\) "wikilink")，继可以运行在[Java虚拟机上](../Page/Java虚拟机.md "wikilink")，又可以作为一个[Apache
+**Checkstyle**构建成一个[JAR文件中](../Page/JAR_\(文件格式\).md "wikilink")，继可以运行在[Java虚拟机上](../Page/Java虚拟机.md "wikilink")，又可以作为一个[Apache
 Ant任务](../Page/Apache_Ant.md "wikilink")。它还可以集成到[集成开发环境或其他工具中](../Page/集成开发环境.md "wikilink")。
 
 Checkstyle插件还可以提供其他功能，例如:

@@ -29,7 +29,7 @@ Taiwan**，是由2010年至2014年由台灣及日本聯合舉辦的[超級戰隊
   - 日期：2012年9月15日～9月16日
   - 時間：11:00、15:00、19:00（日本語場15日限定）
   - 地點：台北國際會議中心
-  - 登場英雄：[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")、[假面騎士Diend](../Page/假面騎士DECADE.md "wikilink")、[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")、[假面騎士Accel](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")、侍戰隊真劍者、[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")
+  - 登場英雄：[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")、[假面騎士Diend](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")、[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")、[假面騎士Accel](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")、侍戰隊真劍者、[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")
   - 登場敵人：
   - 中場表演：[桃太洛斯](../Page/假面騎士電王角色列表.md "wikilink")、修卡戰鬥員
 

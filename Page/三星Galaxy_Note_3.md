@@ -1,6 +1,6 @@
 **Samsung Galaxy Note
 3**是一款由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子所生產的一款建構於](../Page/三星電子.md "wikilink")[安卓平台的高端大螢幕平板式](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")（[平板手機](https://zh.wikipedia.org/wiki/平板手機 "wikilink")），於2013年9月4日於[德國柏林](https://zh.wikipedia.org/wiki/德國 "wikilink")[IFA展上的三星產品發表會上發佈](../Page/柏林國際廣播展.md "wikilink")\[1\]。同期的最大競爭對手是Apple
-[iPhone 5及](../Page/iPhone_5.md "wikilink")[HTC One
+[iPhone 5及](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")[HTC One
 (M7)](../Page/HTC_One_\(M7\).md "wikilink")。
 
 繼承上一代機型（[Galaxy Note
@@ -46,7 +46,7 @@ Bean”和三星專有的[TouchWiz NatureUX
 2.5用戶界面和軟件](../Page/TouchWiz.md "wikilink")。Note
 3的軟件中增加了手寫筆導向的功能; 從它的機抽出，用筆針按壓手寫筆按鈕手寫筆懸停在顯示激活的懸浮指令(Air
 Command)
-[環形選單提供快捷方式手寫筆導向功能](https://zh.wikipedia.org/wiki/環形選單 "wikilink")，如[行動記事](../Page/便利貼.md "wikilink")（屏幕上的便簽使用[手寫識別來檢測其內容並提供相關操作](https://zh.wikipedia.org/wiki/手写识别 "wikilink")，例如在[Google地圖上查找地址和撥號電話號碼](../Page/Google地图.md "wikilink")），Screen
+[環形選單提供快捷方式手寫筆導向功能](https://zh.wikipedia.org/wiki/環形選單 "wikilink")，如[行動記事](../Page/便利貼.md "wikilink")（屏幕上的便簽使用[手寫識別來檢測其內容並提供相關操作](../Page/手写识别.md "wikilink")，例如在[Google地圖上查找地址和撥號電話號碼](../Page/Google地图.md "wikilink")），Screen
 Write（註釋工具），Pen Window（允許用戶繪製彈出窗口來運行某些應用程序），搜索工具S
 Finder和Scrapbook。多窗口功能也通過擴展的應用程序支持進行更新，能夠運行單個應用程序的多個實例以及在應用程序之間[拖放內容的功能](https://zh.wikipedia.org/wiki/拖放 "wikilink")。該設備還附帶一個稱為My
 Magazine 的[新聞聚合器應用程序](../Page/聚合器.md "wikilink")，可通過從屏幕底部向上滑動以及S

@@ -4,7 +4,7 @@ MORE\!**》是日本音樂組合[CAPSULE所推出的第](../Page/CAPSULE.md "wik
 ## 概要
 
   - 距離前作「[FLASH
-    BACK](https://zh.wikipedia.org/wiki/FLASH_BACK "wikilink")」發行約1年的原創專輯。是組合首次以「CD
+    BACK](../Page/FLASH_BACK.md "wikilink")」發行約1年的原創專輯。是組合首次以「CD
     Only」和初回限定盤「CD＋DVD」兩種形態發售專輯。
   - 本專輯登上Oricon專輯周榜第六位，是CAPSULE首次有專輯打進Oricon榜頭十位置。
   - 由2008年12月至2009年3月，舉辦了為專輯而設的Club Tour『capsule Club Tour 「MORE\!

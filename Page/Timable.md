@@ -22,7 +22,7 @@ scalable、writable。Timable
   - 2011年12月：成為數碼港受培育公司 \[1\]\[2\]
   - 2012年4月：Timable與[雅虎香港合作](../Page/雅虎香港.md "wikilink")，發佈“Timable on
     Yahoo\!” \[3\]\[4\]
-  - 2012年8月31日：推出[iPhone手機應用程式](../Page/iPhone.md "wikilink")
+  - 2012年8月31日：推出[iPhone手機應用程式](https://zh.wikipedia.org/wiki/iPhone "wikilink")
   - 2013年10月13日：推出[Android手機應用程式](../Page/Android.md "wikilink")
 
 ## 獎項

@@ -20,9 +20,11 @@ Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 7.  **signal** (4:56)
 8.  **obbligato** (6:12)
 9.  **木苺の茂みに（懸鉤子繁茂處）** (5:47)
-10. **[満天](../Page/to_the_beginning.md "wikilink")** (5:12)
+10. **[満天](https://zh.wikipedia.org/wiki/to_the_beginning "wikilink")**
+    (5:12)
       - 電視動畫《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》第18、19話片尾曲
-11. **[to the beginning](../Page/to_the_beginning.md "wikilink")**
+11. **[to the
+    beginning](https://zh.wikipedia.org/wiki/to_the_beginning "wikilink")**
     (4:16)
       - 電視動畫《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》第二期主題曲
 12. **[ひかりふる](../Page/聖光.md "wikilink")（聖光）** (4:53)

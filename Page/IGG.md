@@ -54,7 +54,7 @@ IGG股份於同日上午11時47分起短暫停牌\[8\]對於全年業績疑被�
 <tr class="even">
 <td><p>Castle Clash</p></td>
 <td><p>街機動作類</p></td>
-<td><p>安卓、<a href="../Page/iOS.md" title="wikilink">iOS</a></p></td>
+<td><p>安卓、<a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a></p></td>
 <td><p><a href="../Page/城堡爭霸.md" title="wikilink">城堡爭霸</a></p></td>
 </tr>
 <tr class="odd">

@@ -1,4 +1,4 @@
-是以[kakifly的](../Page/kakifly.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》為題材，[世嘉公司於](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink")2010年9月30日發售的[音樂遊戲](../Page/音樂遊戲.md "wikilink")。2012年6月21日在[PS3平台上推出HD版本](https://zh.wikipedia.org/wiki/PS3 "wikilink")。
+是以[kakifly的](https://zh.wikipedia.org/wiki/kakifly "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》為題材，[世嘉公司於](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink")2010年9月30日發售的[音樂遊戲](../Page/音樂遊戲.md "wikilink")。2012年6月21日在[PS3平台上推出HD版本](https://zh.wikipedia.org/wiki/PS3 "wikilink")。
 
 ## 概要
 

@@ -28,7 +28,7 @@ SIN3A与下列蛋白有[相互作用](../Page/蛋白質交互作用.md "wikilink
     2](https://zh.wikipedia.org/wiki/Nuclear_receptor_co-repressor_2 "wikilink"),\[42\]\[43\]
   - [OGT](https://zh.wikipedia.org/wiki/OGT_\(gene\) "wikilink")\[44\]
   - [PHF12](https://zh.wikipedia.org/wiki/PHF12 "wikilink"),\[45\]
-  - [早幼粒细胞白血病蛋白](https://zh.wikipedia.org/wiki/早幼粒细胞白血病蛋白 "wikilink")\[46\]
+  - [早幼粒细胞白血病蛋白](../Page/早幼粒细胞白血病蛋白.md "wikilink")\[46\]
   - [RBBP4](https://zh.wikipedia.org/wiki/RBBP4 "wikilink"),\[47\]\[48\]
   - [RBBP7](https://zh.wikipedia.org/wiki/RBBP7 "wikilink"),\[49\]\[50\]
   - [SAP130](https://zh.wikipedia.org/wiki/SAP130 "wikilink"),\[51\]

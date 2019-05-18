@@ -23,7 +23,7 @@ Zion的功能尚不完善（例如没有[均衡器](https://zh.wikipedia.org/wik
     9以上及](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")[DirectShow支持](../Page/DirectShow.md "wikilink")，如果系统渲染链被修改可能导致WMA无法播放）。
   - 支持MP3、APE、Ogg、WMA、FLAC标签体系。
   - 支持
-    [APL](https://zh.wikipedia.org/wiki/APL "wikilink")、[FPL](https://zh.wikipedia.org/wiki/FPL "wikilink")、[M3U](https://zh.wikipedia.org/wiki/M3U "wikilink")/[M3U8](https://zh.wikipedia.org/wiki/M3U8 "wikilink")、[PLS](https://zh.wikipedia.org/wiki/PLS "wikilink")、[TTPL](https://zh.wikipedia.org/wiki/TTPL "wikilink")/[TTPL](https://zh.wikipedia.org/wiki/TTPL "wikilink")、[ASX](https://zh.wikipedia.org/wiki/ASX "wikilink")、[WPL播放列表格式](https://zh.wikipedia.org/wiki/WPL "wikilink")，支持[CUE](https://zh.wikipedia.org/wiki/CUE "wikilink")（压缩状态有效）及其自动去重。
+    [APL](https://zh.wikipedia.org/wiki/APL "wikilink")、[FPL](https://zh.wikipedia.org/wiki/FPL "wikilink")、[M3U](../Page/M3U.md "wikilink")/[M3U8](https://zh.wikipedia.org/wiki/M3U8 "wikilink")、[PLS](https://zh.wikipedia.org/wiki/PLS "wikilink")、[TTPL](https://zh.wikipedia.org/wiki/TTPL "wikilink")/[TTPL](https://zh.wikipedia.org/wiki/TTPL "wikilink")、[ASX](https://zh.wikipedia.org/wiki/ASX "wikilink")、[WPL播放列表格式](https://zh.wikipedia.org/wiki/WPL "wikilink")，支持[CUE](https://zh.wikipedia.org/wiki/CUE "wikilink")（压缩状态有效）及其自动去重。
 
 ## 特性
 
@@ -62,8 +62,8 @@ Vista和[Windows
 
 ## 参见
 
-  - [foobar2000](../Page/foobar2000.md "wikilink")
-  - [Mcool](https://zh.wikipedia.org/wiki/Mcool "wikilink")
+  - [foobar2000](https://zh.wikipedia.org/wiki/foobar2000 "wikilink")
+  - [Mcool](../Page/Mcool.md "wikilink")
   - [Winamp](../Page/Winamp.md "wikilink")
   - [千千静听](https://zh.wikipedia.org/wiki/千千静听 "wikilink")
   - [绿色软件](https://zh.wikipedia.org/wiki/绿色软件 "wikilink")

@@ -1,5 +1,5 @@
-**Fabel**（前名**[ISoFeel](https://zh.wikipedia.org/wiki/ISoFeel "wikilink")**）是[香港樂壇的二人](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")，由主音[盧祝君](https://zh.wikipedia.org/wiki/盧祝君 "wikilink")（LoLo）與[Jimmy
-Fung組成](https://zh.wikipedia.org/wiki/馮慶聰 "wikilink")。
+**Fabel**（前名**[ISoFeel](../Page/ISoFeel.md "wikilink")**）是[香港樂壇的二人](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")，由主音[盧祝君](../Page/盧祝君.md "wikilink")（LoLo）與[Jimmy
+Fung組成](../Page/馮慶聰.md "wikilink")。
 
 ## 簡介
 
@@ -28,7 +28,7 @@ One](https://zh.wikipedia.org/wiki/We_Are_One "wikilink")》，也獲得了[2013
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/We_Are_One_(專輯)" title="wikilink">We Are One</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/We_Are_One_(專輯).md" title="wikilink">We Are One</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/神馬音樂" title="wikilink">神馬音樂</a></p></td>
 <td style="text-align: left;"><p>2013年12月20日</p></td>
@@ -43,7 +43,7 @@ One](https://zh.wikipedia.org/wiki/We_Are_One "wikilink")》，也獲得了[2013
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>2nd</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/SH叫T" title="wikilink">SH叫T</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/SH叫T.md" title="wikilink">SH叫T</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/神馬音樂" title="wikilink">神馬音樂</a></p></td>
 <td style="text-align: left;"><p>2017年11月3日</p></td>
@@ -73,27 +73,27 @@ One](https://zh.wikipedia.org/wiki/We_Are_One "wikilink")》，也獲得了[2013
 
 ## 派台歌曲成績
 
-| **派台歌曲成績**                                                               |
-| ------------------------------------------------------------------------ |
-| 唱片                                                                       |
-| **2013年**                                                                |
-| [We Are One](https://zh.wikipedia.org/wiki/We_Are_One_\(專輯\) "wikilink") |
-| We Are One                                                               |
-| **2014年**                                                                |
-| We Are One                                                               |
-| We Are One                                                               |
-| We Are One                                                               |
-| [SH叫T](https://zh.wikipedia.org/wiki/SH叫T "wikilink")                    |
-| **2016年**                                                                |
-| SH叫T                                                                     |
-| SH叫T                                                                     |
-| **2017年**                                                                |
-| SH叫T                                                                     |
-| SH叫T                                                                     |
-| SH叫T                                                                     |
-| **2018年**                                                                |
-| SH叫T                                                                     |
-|                                                                          |
+| **派台歌曲成績**                                            |
+| ----------------------------------------------------- |
+| 唱片                                                    |
+| **2013年**                                             |
+| [We Are One](../Page/We_Are_One_\(專輯\).md "wikilink") |
+| We Are One                                            |
+| **2014年**                                             |
+| We Are One                                            |
+| We Are One                                            |
+| We Are One                                            |
+| [SH叫T](../Page/SH叫T.md "wikilink")                    |
+| **2016年**                                             |
+| SH叫T                                                  |
+| SH叫T                                                  |
+| **2017年**                                             |
+| SH叫T                                                  |
+| SH叫T                                                  |
+| SH叫T                                                  |
+| **2018年**                                             |
+| SH叫T                                                  |
+|                                                       |
 
 | **各台冠軍歌總數** |
 | ----------- |
@@ -135,7 +135,7 @@ One](https://zh.wikipedia.org/wiki/We_Are_One "wikilink")》，也獲得了[2013
 <tr class="odd">
 <td style="text-align: left;"><p><strong>2017</strong></p></td>
 <td style="text-align: left;"><ul>
-<li><a href="https://zh.wikipedia.org/wiki/2017年度新城勁爆頒獎禮得獎名單" title="wikilink">新城勁爆頒獎禮2017</a> - 勁爆十二樂勢力</li>
+<li><a href="../Page/2017年度新城勁爆頒獎禮得獎名單.md" title="wikilink">新城勁爆頒獎禮2017</a> - 勁爆十二樂勢力</li>
 </ul></td>
 </tr>
 </tbody>

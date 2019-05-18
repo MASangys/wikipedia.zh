@@ -389,10 +389,10 @@ Lady（淑女候補生）可以當上「Top of Lady（首席淑女）」，即�
     Entertainment](https://zh.wikipedia.org/wiki/愛貝娛樂 "wikilink")、[SONIC
     GROOVE](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")、
   - 助理理製：岡村武真、渡邊愛美、森田和寬
-  - 動畫監製：川﨑とも子、[茂垣弘道](https://zh.wikipedia.org/wiki/茂垣弘道 "wikilink")
+  - 動畫監製：川﨑とも子、[茂垣弘道](../Page/茂垣弘道.md "wikilink")
   - 製作人：吉野文（東京電視台）、大野亮介、可知秀幸
   - 動畫制作：[STUDIO
-    COMET](https://zh.wikipedia.org/wiki/STUDIO_COMET "wikilink")、[ZEXCS](../Page/ZEXCS.md "wikilink")
+    COMET](../Page/STUDIO_COMET.md "wikilink")、[ZEXCS](../Page/ZEXCS.md "wikilink")
   - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[MediaNet](../Page/MediaNet.md "wikilink")、
 
 ### 主題曲
@@ -435,7 +435,7 @@ GROOVE發售](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。
 <td><p>淑女的修養Lady Go！</p></td>
 <td><p><a href="../Page/高橋奈津子.md" title="wikilink">高橋奈津子</a></p></td>
 <td><p><a href="../Page/川崎逸朗.md" title="wikilink">川崎逸朗</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山本天志" title="wikilink">山本天志</a></p></td>
+<td><p><a href="../Page/山本天志.md" title="wikilink">山本天志</a></p></td>
 <td><p>中野彰子<br />
 矢澤泰史<br />
 南伸一郎</p></td>
@@ -496,7 +496,7 @@ GROOVE發售](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。
 <td></td>
 <td><p>Lady就該擁有繁星！</p></td>
 <td><p>淑女就應得到星星</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/稻垣隆行" title="wikilink">稻垣隆行</a></p></td>
+<td><p><a href="../Page/稻垣隆行.md" title="wikilink">稻垣隆行</a></p></td>
 <td><p>萩原露光</p></td>
 <td><p>鶴田愛<br />
 鈴木光</p></td>
@@ -523,7 +523,7 @@ GROOVE發售](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。
 <td><p>獵獲Lady的心吧！</p></td>
 <td><p>射獵淑女的心吧！</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/石踊宏" title="wikilink">石踊宏</a></p></td>
+<td><p><a href="../Page/石踊宏.md" title="wikilink">石踊宏</a></p></td>
 <td><p>加藤莊</p></td>
 <td><p>谷津美彌子<br />
 宮川知子</p></td>
@@ -765,7 +765,7 @@ GROOVE發售](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。
 <td><p>咖喱王子殿下</p></td>
 <td><p>咖喱之王子殿下</p></td>
 <td><p>橫谷昌宏</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小寺勝之" title="wikilink">小寺勝之</a></p></td>
+<td><p><a href="../Page/小寺勝之.md" title="wikilink">小寺勝之</a></p></td>
 <td><p>關田修</p></td>
 <td><p>九鬼朱<br />
 山村俊了<br />

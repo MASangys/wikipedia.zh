@@ -3,7 +3,7 @@ IV型**（），是一款由[瑞士联邦铁路与](https://zh.wikipedia.org/wik
 
 ## 历史
 
-1954年，“全欧快车委员会（）”在荷兰[海牙成立](../Page/海牙.md "wikilink")，旨在建立便捷及舒适的国际化[全欧快车](../Page/全欧快车.md "wikilink")（）网络。与会委员们一致认为，这些服务应该使用[柴油动车组开行](https://zh.wikipedia.org/wiki/柴油动车组 "wikilink")\[1\]。为此，[法国国家铁路及](../Page/法国国家铁路.md "wikilink")[意大利铁路进一步完善了其自身的柴油列车](../Page/意大利铁路.md "wikilink")，[德国联邦铁路也提供新造的](https://zh.wikipedia.org/wiki/德国联邦铁路 "wikilink")[VT11.5型柴油动车组担当](https://zh.wikipedia.org/wiki/德国联邦铁路VT11.5型柴油动车组 "wikilink")。而[瑞士联邦铁路与](https://zh.wikipedia.org/wiki/瑞士联邦铁路 "wikilink")[荷兰铁路则同意开发一款共用的柴油动车组](https://zh.wikipedia.org/wiki/荷兰铁路 "wikilink")。这款动车组的设计理念由4节编组构成，包括1节[动力车头](https://zh.wikipedia.org/wiki/动车组动车 "wikilink")、2节含[餐车的](https://zh.wikipedia.org/wiki/餐车 "wikilink")[中部车厢以及](https://zh.wikipedia.org/wiki/动车组拖车 "wikilink")1节[控制车](https://zh.wikipedia.org/wiki/控制车 "wikilink")。[瑞士方面将此定型为RAm型](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，[荷兰方面则定型为DE](../Page/荷兰.md "wikilink")
+1954年，“全欧快车委员会（）”在荷兰[海牙成立](../Page/海牙.md "wikilink")，旨在建立便捷及舒适的国际化[全欧快车](../Page/全欧快车.md "wikilink")（）网络。与会委员们一致认为，这些服务应该使用[柴油动车组开行](https://zh.wikipedia.org/wiki/柴油动车组 "wikilink")\[1\]。为此，[法国国家铁路及](../Page/法国国家铁路.md "wikilink")[意大利铁路进一步完善了其自身的柴油列车](../Page/意大利铁路.md "wikilink")，[德国联邦铁路也提供新造的](https://zh.wikipedia.org/wiki/德国联邦铁路 "wikilink")[VT11.5型柴油动车组担当](../Page/德国联邦铁路VT11.5型柴油动车组.md "wikilink")。而[瑞士联邦铁路与](https://zh.wikipedia.org/wiki/瑞士联邦铁路 "wikilink")[荷兰铁路则同意开发一款共用的柴油动车组](https://zh.wikipedia.org/wiki/荷兰铁路 "wikilink")。这款动车组的设计理念由4节编组构成，包括1节[动力车头](https://zh.wikipedia.org/wiki/动车组动车 "wikilink")、2节含[餐车的](https://zh.wikipedia.org/wiki/餐车 "wikilink")[中部车厢以及](https://zh.wikipedia.org/wiki/动车组拖车 "wikilink")1节[控制车](https://zh.wikipedia.org/wiki/控制车 "wikilink")。[瑞士方面将此定型为RAm型](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，[荷兰方面则定型为DE](../Page/荷兰.md "wikilink")
 IV型。新车组计划生产5列，其中两列由瑞士联邦铁路持有（RAm 501号及502号），三列由荷兰铁路持有（DE
 1001号至1003号），但它们均在[苏黎世进行整备](../Page/苏黎世.md "wikilink")\[2\]。
 
@@ -52,15 +52,15 @@ IV型动车组仍然继续使用，并担当雪绒花号服务直至1974年终�
 IV型动车组被全数售予了[加拿大的](../Page/加拿大.md "wikilink")。该[私营铁路公司利用原全欧快车列车投入](https://zh.wikipedia.org/wiki/私營鐵路 "wikilink")[多伦多](../Page/多伦多.md "wikilink")－[蒂明斯间全长](../Page/蒂明斯.md "wikilink")388公里的线路中使用\[13\]。这些车辆被增设了御寒保温设备，并按照加拿大的标准安装了新的前照灯、示廓灯、信号箱和铃铛。部分还更换了新的车窗及座椅套。然而在加拿大寒冷的[冬季](../Page/冬季.md "wikilink")，动力车头的表现并不能令人信服。有三组车厢自1979年起图定由[美国的标准化机车](../Page/美国.md "wikilink")进行牵引，并运用至1992年。对控制车厢的改装则被放弃，因此列车仅在前端由机车牵引，并在[港湾式月台需要换挂](https://zh.wikipedia.org/wiki/港湾式月台 "wikilink")\[14\]。
 
 在诺斯兰铁路于1997年更换使用加拿大的新车底后，有5节RAm型/DE
-IV型动车组的车厢通过瑞士的“全欧快车经典协会（）”运回[欧洲](../Page/欧洲.md "wikilink")，以便能够在再度加工后用于担当旅游列车服务\[15\]。由于轮箍限界使用北美标准而无法满足欧洲铁路的要求，它们在[汉堡港被搁置了数个月之久](https://zh.wikipedia.org/wiki/汉堡港 "wikilink")，随后被分散存放于[德国及瑞士](../Page/德国.md "wikilink")。荷兰全欧快车基金会（）在此期间收购了这些车厢，并于2006年6月将它们转移至[兹沃勒](../Page/兹沃勒.md "wikilink")，由负责加工改造。根据计划，它们会在未来由一组新造的动力车头牵引使用\[16\]。
+IV型动车组的车厢通过瑞士的“全欧快车经典协会（）”运回[欧洲](../Page/欧洲.md "wikilink")，以便能够在再度加工后用于担当旅游列车服务\[15\]。由于轮箍限界使用北美标准而无法满足欧洲铁路的要求，它们在[汉堡港被搁置了数个月之久](../Page/汉堡港.md "wikilink")，随后被分散存放于[德国及瑞士](../Page/德国.md "wikilink")。荷兰全欧快车基金会（）在此期间收购了这些车厢，并于2006年6月将它们转移至[兹沃勒](../Page/兹沃勒.md "wikilink")，由负责加工改造。根据计划，它们会在未来由一组新造的动力车头牵引使用\[16\]。
 
 ## 参见
 
   - [瑞士联邦铁路RAe TEE
-    II型电力动车组](https://zh.wikipedia.org/wiki/瑞士联邦铁路RAe_TEE_II型电力动车组 "wikilink")：瑞士联邦铁路用于担当全欧快车服务的电力动车组
+    II型电力动车组](../Page/瑞士联邦铁路RAe_TEE_II型电力动车组.md "wikilink")：瑞士联邦铁路用于担当全欧快车服务的电力动车组
   - [意大利国家铁路ALn
-    442-448型柴油动车组](https://zh.wikipedia.org/wiki/意大利国家铁路ALn_442-448型柴油动车组 "wikilink")：意大利国家铁路用于担当全欧快车服务的柴油动车组
-  - [德国联邦铁路VT11.5型柴油动车组](https://zh.wikipedia.org/wiki/德国联邦铁路VT11.5型柴油动车组 "wikilink")：德国联邦铁路用于担当全欧快车服务的柴油动车组
+    442-448型柴油动车组](../Page/意大利国家铁路ALn_442-448型柴油动车组.md "wikilink")：意大利国家铁路用于担当全欧快车服务的柴油动车组
+  - [德国联邦铁路VT11.5型柴油动车组](../Page/德国联邦铁路VT11.5型柴油动车组.md "wikilink")：德国联邦铁路用于担当全欧快车服务的柴油动车组
 
 ## 注释
 

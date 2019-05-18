@@ -1,7 +1,7 @@
 **JAPAN FIRST TOUR GIRLS'
 GENERATION**是韓國女子組合[少女時代第一次日本巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。這次日本巡演是之後舉行[GIRLS'
 GENERATION
-TOUR的一部分](https://zh.wikipedia.org/wiki/GIRLS'_GENERATION_TOUR "wikilink")，舞台的設計、配置設備都是一樣。
+TOUR的一部分](../Page/GIRLS'_GENERATION_TOUR.md "wikilink")，舞台的設計、配置設備都是一樣。
 這場演唱會是[少女時代在日本出道](https://zh.wikipedia.org/wiki/少女時代 "wikilink")9個月的首個巡迴演唱會，原本只舉辦7場巡演動員7萬名觀眾，由於反應熱烈，一共有45萬張門票申請人的高峰，因此增加場次為14場。
 
 ## 概要

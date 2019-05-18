@@ -65,7 +65,7 @@ Romeo》。並在同年7月22日推出重新包裝版專輯《BE BACK》\[1\]，
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年Gaon專輯冠軍作品列表" title="wikilink">專輯周榜</a></p></td>
+<td><p><a href="../Page/2014年Gaon專輯冠軍作品列表.md" title="wikilink">專輯周榜</a></p></td>
 <td><p>2014年5月18日－5月24日</p></td>
 <td><p>#1</p></td>
 <td><p>[3]</p></td>
@@ -89,7 +89,7 @@ Romeo》。並在同年7月22日推出重新包裝版專輯《BE BACK》\[1\]，
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="../Page/2014年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2014年5月</p></td>
 <td><p>#3<br />
 （138,798張）</p></td>
@@ -108,7 +108,7 @@ Romeo》。並在同年7月22日推出重新包裝版專輯《BE BACK》\[1\]，
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年Gaon專輯冠軍作品列表" title="wikilink">專輯年榜</a></p></td>
+<td><p><a href="../Page/2014年Gaon專輯冠軍作品列表.md" title="wikilink">專輯年榜</a></p></td>
 <td><p>2014年</p></td>
 <td><p>#7<br />
 （152,479張）</p></td>

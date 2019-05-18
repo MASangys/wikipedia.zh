@@ -3,8 +3,7 @@ Elektronika**（）是由[奥地利艺术和哲学联合](https://zh.wikipedia.o
 每年所举办的[大会](https://zh.wikipedia.org/wiki/会议 "wikilink")，侧重于性和[技术间的话题](../Page/技术.md "wikilink")。它始于2007年\[2\]
 。这大会的策展人是。过往大会的演讲人包括, ,, , ，,
 ，Thrillhammer\[[http://www.thethrillhammer.com\]的Allen](http://www.thethrillhammer.com%5D的Allen)
-Stein以及[Fucking
-Machines的一些工程师](https://zh.wikipedia.org/wiki/Fucking_Machines "wikilink")。
+Stein以及[Fucking Machines的一些工程师](../Page/Fucking_Machines.md "wikilink")。
 
 ## 参见
 

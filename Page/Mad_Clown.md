@@ -118,7 +118,7 @@ X娱乐](../Page/STARSHIP娛樂.md "wikilink")，於2018年合約期滿未續約
 | 2013年9月10日  | 《Stupid in love》     |          | [韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")                 |                                  |
 | 2013年11月22日 | 《brilliant is》       |          |                                                                   |                                  |
 | 2015年3月18日  | 《Two Lovers》         |          | [Davichi](../Page/Davichi.md "wikilink")                          |                                  |
-| 2015年7月10日  | 《털어（Get Low）》        |          | [周憲](https://zh.wikipedia.org/wiki/李周憲 "wikilink")                |                                  |
+| 2015年7月10日  | 《털어（Get Low）》        |          | [周憲](../Page/李周憲.md "wikilink")                                   |                                  |
 | 2015年11月18日 | 《못먹는 감（Sour Grapes）》 |          | [San E](../Page/San_E.md "wikilink")                              |                                  |
 | 2016年2月18日  | 《만화처럼》               |          | [Brother Su](https://zh.wikipedia.org/wiki/Brother_Su "wikilink") |                                  |
 | 2016年9月29日  | 《그게 뭐라고》             |          | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")         | <small>VINTAGE BOX VOL.1</small> |
@@ -130,10 +130,10 @@ X娱乐](../Page/STARSHIP娛樂.md "wikilink")，於2018年合約期滿未續約
 
 ### 固定綜藝節目
 
-| 年份    | **電視頻道** | **節目名稱**                                                                              | 集數 | **备注** |
-| ----- | -------- | ------------------------------------------------------------------------------------- | -- | ------ |
-| 2013年 |          | 《Show me the money 2》                                                                 |    |        |
-| 2016年 |          | 《[Show Me The Money 5](https://zh.wikipedia.org/wiki/Show_Me_The_Money_5 "wikilink")》 |    |        |
+| 年份    | **電視頻道** | **節目名稱**                                                           | 集數 | **备注** |
+| ----- | -------- | ------------------------------------------------------------------ | -- | ------ |
+| 2013年 |          | 《Show me the money 2》                                              |    |        |
+| 2016年 |          | 《[Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")》 |    |        |
 
 ## Mad Clown參加的其他演唱會
 

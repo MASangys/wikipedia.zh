@@ -15,7 +15,7 @@ Fusion，整合[CPU和](https://zh.wikipedia.org/wiki/CPU "wikilink")[GPU](https
 | Trinity       | 已發售        | A10-5800K 等                 | 32nm [SOI](../Page/SOI.md "wikilink") | 17W\~100W                                           | 2-4 [Piledrivers](../Page/AMD_Piledriver.md "wikilink")                 | 128\~384     |
 | Richland      | 已發售        | A10-6800K 等                 | 32nm [SOI](../Page/SOI.md "wikilink") | 17W\~100W                                           | 2-4 [Piledrivers](../Page/AMD_Piledriver.md "wikilink")                 | 128\~384     |
 | Kaveri        | 已發售        | A10-7850K等                  | 28nm [SOI](../Page/SOI.md "wikilink") | 15W\~95W                                            | 2-4 [Steamrollers](../Page/AMD_Steamroller.md "wikilink")               | 256\~512     |
-| Kabini        | 已發售        | Athlon 5350 ,Sempron 3850 等 | 28nm [SOI](../Page/SOI.md "wikilink") | 9\~25W                                              | 2-4 [Jaguar](https://zh.wikipedia.org/wiki/AMD_Jaguar "wikilink")       | 128          |
+| Kabini        | 已發售        | Athlon 5350 ,Sempron 3850 等 | 28nm [SOI](../Page/SOI.md "wikilink") | 9\~25W                                              | 2-4 [Jaguar](../Page/AMD_Jaguar.md "wikilink")                          | 128          |
 | Beema         | 已發售        | A6 6410 ,A4 6310 等          | 28nm [SOI](../Page/SOI.md "wikilink") | 15W                                                 | 2-4 [Puma](https://zh.wikipedia.org/wiki/AMD_Puma "wikilink")           | 128          |
 | Mullins       | 已發售        | A10 Micro 6700T , 等         | 28nm [SOI](../Page/SOI.md "wikilink") | 15W                                                 | 2-4 [Puma](https://zh.wikipedia.org/wiki/AMD_Puma "wikilink")           | 128          |
 | Carrizo       | 已發售        | Athlon X4 835, 845          | 28nm[SOI](../Page/SOI.md "wikilink")  | 45W\~65W                                            | 2-4 [Excavator](https://zh.wikipedia.org/wiki/AMD_Excavator "wikilink") | \--          |
@@ -2441,7 +2441,7 @@ A12-9720P[27][28]</p></td>
   - 采用[格罗方德](../Page/格芯.md "wikilink")14 nm制程
   - [晶体管](../Page/晶体管.md "wikilink"): 4.95 billion
   - 核心面积: 210 mm²
-  - [Socket AM4](https://zh.wikipedia.org/wiki/Socket_AM4 "wikilink")
+  - [Socket AM4](../Page/Socket_AM4.md "wikilink")
   - [Zen微架构CPU核心](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")
   - MMX, [SSE](../Page/SSE.md "wikilink"),
     [SSE2](../Page/SSE2.md "wikilink"),
@@ -2449,7 +2449,7 @@ A12-9720P[27][28]</p></td>
     [SSSE3](../Page/SSSE3.md "wikilink"),
     [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
     [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4 "wikilink"),
+    [SSE4a](../Page/SSE4.md "wikilink"),
     [AMD64](../Page/X86-64.md "wikilink"),
     [AMD-V](../Page/X86虚拟化.md "wikilink"),
     [AES](https://zh.wikipedia.org/wiki/AES "wikilink"),
@@ -2458,8 +2458,7 @@ A12-9720P[27][28]</p></td>
     1.1](https://zh.wikipedia.org/wiki/AVX_1.1 "wikilink"),
     [AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink"),
     [FMA3](../Page/FMA指令集.md "wikilink"), F16C, ABM, BMI1, BMI2,
-    [RdRand](https://zh.wikipedia.org/wiki/RdRand "wikilink"), Turbo
-    Core
+    [RdRand](../Page/RdRand.md "wikilink"), Turbo Core
   - GPU基于第五代GCN
   - VCN 1.0
 
@@ -3194,9 +3193,7 @@ support</p></th>
     (GCN)
   - 支援SSE4.1, SSE4.2, AVX, AES, F16C, BMI1
   - 支援Intelligent Turbo Boost
-  - 內置 [ARM
-    Cortex-A5](https://zh.wikipedia.org/wiki/ARM_Cortex-A5 "wikilink")
-    做為
+  - 內置 [ARM Cortex-A5](../Page/ARM_Cortex-A5.md "wikilink") 做為
     [TrustZone](https://zh.wikipedia.org/wiki/TrustZone "wikilink")
 
 #### Mullins
@@ -3690,7 +3687,7 @@ support</p></th>
 
   - 採用[Socket
     FT3b](https://zh.wikipedia.org/wiki/Socket_FT3b "wikilink")(BGA-769)腳位
-  - CPU基於[Puma架構](../Page/Puma.md "wikilink")
+  - CPU基於[Puma架構](https://zh.wikipedia.org/wiki/Puma "wikilink")
 
 <table>
 <thead>
@@ -3961,7 +3958,7 @@ support</p></th>
 
   - 採用[Socket
     FT3b腳位](https://zh.wikipedia.org/wiki/Socket_FT3b "wikilink")(BGA-769)
-  - 2核心配置基於[Puma架構](../Page/Puma.md "wikilink")
+  - 2核心配置基於[Puma架構](https://zh.wikipedia.org/wiki/Puma "wikilink")
   - GPU最高1CU配置基於[GCN架構支援](https://zh.wikipedia.org/wiki/GCN "wikilink")[DirctX](https://zh.wikipedia.org/wiki/DirctX "wikilink")12
   - 支援單通道ECC DDR3
 

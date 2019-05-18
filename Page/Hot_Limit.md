@@ -13,7 +13,7 @@ Records Japan)代理發行。
     PRESSURE》、《HEAT CAPACITY》的PV上。
   - 在出道十周年与Hello Kitty的合作活动上，出现了穿着此套衣装的凯蒂猫。
   - 2008年，由HIGH and MIGHTY COLOR 翻唱，並在此歌曲的發售十週年後隔日發行同名單曲。
-  - 2016年，動畫《[ReLIFE](https://zh.wikipedia.org/wiki/ReLIFE "wikilink")》第二集片尾曲。
+  - 2016年，動畫《[ReLIFE](../Page/ReLIFE.md "wikilink")》第二集片尾曲。
   - 2017年，由手機音樂遊戲《[バンドやろうぜ！](https://zh.wikipedia.org/wiki/バンドやろうぜ！ "wikilink")》中的Fairy
     April樂團主唱 鳳葵陽（[蒼井翔太](../Page/蒼井翔太.md "wikilink")）翻唱。
   - 2018年11月30日，偶像大師灰姑娘系列

@@ -19,7 +19,7 @@
   - [Frederik和Tanssiorkesteri](https://zh.wikipedia.org/wiki/Frederik "wikilink")
     Lossimies录制了歌曲的芬兰语版本，题为“Volga”。
   - 香港流行歌手[林子祥演唱了廣東歌改编版](../Page/林子祥.md "wikilink")，题为《世運在莫斯科》。
-  - 在中国大陆，[大张伟演唱了替词歌曲](https://zh.wikipedia.org/wiki/大张伟 "wikilink")《奋斗》。
+  - 在中国大陆，[大张伟演唱了替词歌曲](../Page/大张伟.md "wikilink")《奋斗》。
   - Georgie Dann在1980年演唱了歌曲的西班牙语版。
   - [HammerFall专辑](https://zh.wikipedia.org/wiki/HammerFall "wikilink")《Legacy
     of Kings》中歌曲《At the End of the Rainbow》的副歌一定程度上受到了《Moskau》副歌的影响。

@@ -1,5 +1,5 @@
 [2014_Subaru_Legacy_with_EyeSight_technology_001.jpg](https://zh.wikipedia.org/wiki/File:2014_Subaru_Legacy_with_EyeSight_technology_001.jpg "fig:2014_Subaru_Legacy_with_EyeSight_technology_001.jpg")
-**EyeSight**乃[日本](../Page/日本.md "wikilink")[富士重工業自](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")2004年起與[日立製作所合作開發之行車安全輔助系統](https://zh.wikipedia.org/wiki/日立 "wikilink")，曾獲得2011年第21屆[RJC年度風雲車年度最佳技術獎](https://zh.wikipedia.org/wiki/RJC年度風雲車 "wikilink")、2012年、2013年第10屆新機械振興獎經濟產業大臣獎\[1\]、2015年度[好設計獎](../Page/好設計獎.md "wikilink")\[2\]等獎項；目前該系統已陸續搭載於該公司生產之[Legacy](../Page/速霸陸Legacy.md "wikilink")、[Outback](https://zh.wikipedia.org/wiki/速霸陸Outback "wikilink")、[Exiga](https://zh.wikipedia.org/wiki/速霸陸Exiga "wikilink")、[Forester](https://zh.wikipedia.org/wiki/速霸陸Forester "wikilink")、[Impreza](../Page/速霸陸Impreza.md "wikilink")、[XV](https://zh.wikipedia.org/wiki/速霸陸XV "wikilink")、[WRX等車種](https://zh.wikipedia.org/wiki/速霸陸WRX "wikilink")。
+**EyeSight**乃[日本](../Page/日本.md "wikilink")[富士重工業自](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")2004年起與[日立製作所合作開發之行車安全輔助系統](https://zh.wikipedia.org/wiki/日立 "wikilink")，曾獲得2011年第21屆[RJC年度風雲車年度最佳技術獎](https://zh.wikipedia.org/wiki/RJC年度風雲車 "wikilink")、2012年、2013年第10屆新機械振興獎經濟產業大臣獎\[1\]、2015年度[好設計獎](../Page/好設計獎.md "wikilink")\[2\]等獎項；目前該系統已陸續搭載於該公司生產之[Legacy](../Page/速霸陸Legacy.md "wikilink")、[Outback](../Page/速霸陸Outback.md "wikilink")、[Exiga](../Page/速霸陸Exiga.md "wikilink")、[Forester](../Page/速霸陸Forester.md "wikilink")、[Impreza](../Page/速霸陸Impreza.md "wikilink")、[XV](../Page/速霸陸XV.md "wikilink")、[WRX等車種](https://zh.wikipedia.org/wiki/速霸陸WRX "wikilink")。
 
 ## 歷史與概要
 
@@ -7,7 +7,7 @@
 Driving Assist，縮寫成ADA）」。1999年9月24日首度將ADA系統量產，搭載於[第三代Legacy Lancaster
 ADA車型上](https://zh.wikipedia.org/wiki/速霸陸Legacy#第三代BE/BH系（1998年-2003年） "wikilink")。原廠在[擋風玻璃內側上方裝設兩具](../Page/擋風玻璃.md "wikilink")[CCD攝影鏡頭](../Page/感光耦合元件.md "wikilink")，配合VDC車輛動態控制系統（Vehicle
 Dynamics Control
-System），可針對車間距離、彎路、行駛路線偏移等狀況提供警報給駕駛人。當設定[巡航定速時](../Page/巡航定速.md "wikilink")，萬一與前車的距離過近，系統還會自動減速\[3\]。因此，ADA系統可說是EyeSight的前身。2004年該公司獲得[日立製作所麾下](https://zh.wikipedia.org/wiki/日立 "wikilink")（）的技術奧援，結合後者的單眼式攝影機，以及二家公司共同開發的影像處理系統軟體，進一步發展成**EyeSight**行車安全輔助系統\[4\]。此系統陸續使用在[第四代Legacy和](https://zh.wikipedia.org/wiki/速霸陸Legacy#第四代BL/BP系（2003年-2009年） "wikilink")[速霸陸Exiga上](https://zh.wikipedia.org/wiki/速霸陸Exiga "wikilink")，獲得不少好評。
+System），可針對車間距離、彎路、行駛路線偏移等狀況提供警報給駕駛人。當設定[巡航定速時](../Page/巡航定速.md "wikilink")，萬一與前車的距離過近，系統還會自動減速\[3\]。因此，ADA系統可說是EyeSight的前身。2004年該公司獲得[日立製作所麾下](https://zh.wikipedia.org/wiki/日立 "wikilink")（）的技術奧援，結合後者的單眼式攝影機，以及二家公司共同開發的影像處理系統軟體，進一步發展成**EyeSight**行車安全輔助系統\[4\]。此系統陸續使用在[第四代Legacy和](https://zh.wikipedia.org/wiki/速霸陸Legacy#第四代BL/BP系（2003年-2009年） "wikilink")[速霸陸Exiga上](../Page/速霸陸Exiga.md "wikilink")，獲得不少好評。
 
 2010年精進為第二代EyeSight，整合了更多功能：
 

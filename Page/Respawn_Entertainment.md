@@ -35,13 +35,13 @@ Entertainment。EA将通过1.51亿美元的现金和以股份形式的1.64亿美
 
 ## 開發遊戲作品
 
-| 年份    | 遊戲名稱                                                                    | 平台                                                                                                                   | 發行商                                               |
-| ----- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| 2014年 | 《[泰坦天降](../Page/泰坦天降.md "wikilink")》                                    | [Xbox One](../Page/Xbox_One.md "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[PC](../Page/PC.md "wikilink") | [藝電](https://zh.wikipedia.org/wiki/藝電 "wikilink") |
-| 2016年 | 《[泰坦天降2](https://zh.wikipedia.org/wiki/泰坦天降2 "wikilink")》               | Xbox One、[PlayStation 4](../Page/PlayStation_4.md "wikilink")、PC                                                     | 藝電                                                |
-| 2019年 | 《[Apex英雄](https://zh.wikipedia.org/wiki/Apex英雄 "wikilink")》             | Xbox One、PlayStation 4、PC                                                                                            | 藝電                                                |
-| 2019年 | 《[星球大戰 絕地：組織殞落](https://zh.wikipedia.org/wiki/星球大戰_絕地：組織殞落 "wikilink")》 | Xbox One、PlayStation 4、PC                                                                                            | 藝電                                                |
-|       |                                                                         |                                                                                                                      |                                                   |
+| 年份    | 遊戲名稱                                                      | 平台                                                                                                                   | 發行商                                               |
+| ----- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| 2014年 | 《[泰坦天降](../Page/泰坦天降.md "wikilink")》                      | [Xbox One](../Page/Xbox_One.md "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[PC](../Page/PC.md "wikilink") | [藝電](https://zh.wikipedia.org/wiki/藝電 "wikilink") |
+| 2016年 | 《[泰坦天降2](https://zh.wikipedia.org/wiki/泰坦天降2 "wikilink")》 | Xbox One、[PlayStation 4](../Page/PlayStation_4.md "wikilink")、PC                                                     | 藝電                                                |
+| 2019年 | 《[Apex英雄](../Page/Apex英雄.md "wikilink")》                  | Xbox One、PlayStation 4、PC                                                                                            | 藝電                                                |
+| 2019年 | 《[星球大戰 絕地：組織殞落](../Page/星球大戰_絕地：組織殞落.md "wikilink")》      | Xbox One、PlayStation 4、PC                                                                                            | 藝電                                                |
+|       |                                                           |                                                                                                                      |                                                   |
 
 ## 相關條目
 

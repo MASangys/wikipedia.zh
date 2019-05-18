@@ -104,7 +104,7 @@ Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時
   - 艾美結月 / 強龍粉（聲） - [今野鮎莉](../Page/今野鮎莉.md "wikilink")
   - 空蟬丸 / 強龍金（聲） - [丸山敦史](../Page/丸山敦史.md "wikilink")
   - 天野美琴（Meeko） - [中村静香](../Page/中村静香.md "wikilink")
-  - 雷姆雅 - [桃瀨美咲](https://zh.wikipedia.org/wiki/桃瀨美咲 "wikilink")
+  - 雷姆雅 - [桃瀨美咲](../Page/桃瀨美咲.md "wikilink")
   - 艾絲 -
 
 ### 配音演出
@@ -120,7 +120,7 @@ Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時
 ### ED特別出演
 
   - [J聯盟](https://zh.wikipedia.org/wiki/日本職業足球聯盟 "wikilink")
-      - [FC東京](https://zh.wikipedia.org/wiki/FC東京 "wikilink")：[德永悠平](../Page/德永悠平.md "wikilink")、[森重真人](https://zh.wikipedia.org/wiki/森重真人 "wikilink")、[平山相太](../Page/平山相太.md "wikilink")、東京Dronpa
+      - [FC東京](https://zh.wikipedia.org/wiki/FC東京 "wikilink")：[德永悠平](../Page/德永悠平.md "wikilink")、[森重真人](../Page/森重真人.md "wikilink")、[平山相太](../Page/平山相太.md "wikilink")、東京Dronpa
       - [鹿島鹿角](../Page/鹿島鹿角.md "wikilink")：しかお
       - [柏雷素爾](../Page/柏雷素爾.md "wikilink")：レイくん
       - [橫濱水手](https://zh.wikipedia.org/wiki/橫濱水手 "wikilink")：マリノスケ

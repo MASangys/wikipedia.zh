@@ -25,7 +25,7 @@ III**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](
 <td><p>2012年6月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新竹" title="wikilink">新竹</a> </p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新竹縣立體育場" title="wikilink">新竹縣立體育場</a> [2]</p></td>
+<td><p><a href="../Page/新竹縣立體育場.md" title="wikilink">新竹縣立體育場</a> [2]</p></td>
 <td><p>30,000名</p></td>
 </tr>
 <tr class="even">
@@ -44,7 +44,7 @@ III**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](
 </tr>
 <tr class="even">
 <td><p>2012年8月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蠶室棒球場" title="wikilink">蠶室棒球場</a> [4][5]</p></td>
 <td><p>40,000名</p></td>
@@ -168,7 +168,7 @@ III**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](
     （[太妍](../Page/太妍.md "wikilink")、[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[俞利](../Page/俞利.md "wikilink")(缺席首站洛杉機場演出)、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")(缺席首站洛杉機場演出)、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
   - [SHINee](../Page/SHINee.md "wikilink")
     （[溫流](../Page/溫流.md "wikilink")、[鐘鉉](../Page/鐘鉉.md "wikilink")、[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")、[珉豪](../Page/珉豪.md "wikilink")(缺席首爾、雅加達、北京及日本場演出)、[泰民](../Page/泰民.md "wikilink")）
-  - [f(x)](../Page/f\(x\)_\(組合\).md "wikilink")
+  - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
     （[Victoria](../Page/宋茜.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna](../Page/朴善英.md "wikilink")、[Sulli](https://zh.wikipedia.org/wiki/崔雪莉 "wikilink")(缺席東京、首爾及雅加達場演出)、[Krystal](../Page/鄭秀晶.md "wikilink")）
   - [EXO](../Page/EXO.md "wikilink")
     （[Xiumin](../Page/金珉錫.md "wikilink")、[鹿晗](https://zh.wikipedia.org/wiki/鹿晗 "wikilink")、[Kris](../Page/吳亦凡.md "wikilink")、[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Lay](../Page/張藝興.md "wikilink")、[伯賢](https://zh.wikipedia.org/wiki/伯賢 "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鐘大 "wikilink")、[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")、[Tao](../Page/黃子韜.md "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鍾仁 "wikilink")、[世勳](https://zh.wikipedia.org/wiki/世勳 "wikilink")）

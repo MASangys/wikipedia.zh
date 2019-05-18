@@ -1,4 +1,4 @@
-**速霸陸BRZ**（）為2012年起[日本](../Page/日本.md "wikilink")[富士重工業製造](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")、販售的四人座雙門[跑車](https://zh.wikipedia.org/wiki/跑車 "wikilink")。由於同屬[豐田集團的關係](https://zh.wikipedia.org/wiki/豐田集團 "wikilink")，該款車和[豐田86](../Page/豐田86.md "wikilink")、賽揚FR-S實屬為兄弟車，而這些兄弟車皆在富士重工業的群馬工廠製造。
+**速霸陸BRZ**（）為2012年起[日本](../Page/日本.md "wikilink")[富士重工業製造](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")、販售的四人座雙門[跑車](https://zh.wikipedia.org/wiki/跑車 "wikilink")。由於同屬[豐田集團的關係](../Page/豐田集團.md "wikilink")，該款車和[豐田86](../Page/豐田86.md "wikilink")、賽揚FR-S實屬為兄弟車，而這些兄弟車皆在富士重工業的群馬工廠製造。
 
 車名「BRZ」來自[英語中](https://zh.wikipedia.org/wiki/英語 "wikilink")「**B**oxer引擎」、「**R**ear
 Wheel
@@ -9,7 +9,7 @@ Drive（[後輪驅動](https://zh.wikipedia.org/wiki/後輪驅動 "wikilink")）
 2011年 -
 3月1日在[日內瓦車展上公開](https://zh.wikipedia.org/wiki/日內瓦汽車展 "wikilink")「BOXER
 Sports Car
-Architecture」，藉由展出車架輪廓的方式（請參看下方左上角第一張照片）向世人昭告新開發的跑車\[2\]；同年8月23日的[法蘭克福車展則宣布車名為](../Page/法蘭克福車展.md "wikilink")**速霸陸BRZ**；11月13日[速霸陸技術國際](https://zh.wikipedia.org/wiki/速霸陸技術國際 "wikilink")（Subaru
+Architecture」，藉由展出車架輪廓的方式（請參看下方左上角第一張照片）向世人昭告新開發的跑車\[2\]；同年8月23日的[法蘭克福車展則宣布車名為](../Page/法蘭克福車展.md "wikilink")**速霸陸BRZ**；11月13日[速霸陸技術國際](../Page/速霸陸技術國際.md "wikilink")（Subaru
 Technology International，縮寫成STI）宣布將以跟共同打造的BRZ參加2012年（）的SUPER
 GT（GT300）級，該比賽乃由（）主辦\[3\]。同年11月30日舉辦的[東京車展上](../Page/東京車展.md "wikilink")，原廠一同公開BRZ量產原型車及BRZ
 GT300仕樣車。
@@ -27,15 +27,15 @@ GT300仕樣車。
       - 駕駛座追加四點式三吋快拆式安全帶。
       - 追加[托森式限滑差速器](../Page/托森式限滑差速器.md "wikilink")。
 
-2012年7月26日[香港總代理意美汽車引進右駕版BRZ](../Page/香港.md "wikilink")，共分六速手排及六速自排兩種版本。8月臺灣總代理[台灣意美汽車公布引進的規格](https://zh.wikipedia.org/wiki/台灣意美汽車 "wikilink")、配備及價格，並於翌年2月開始交車。該公司引進六速手排及六速自排兩種版本，動力心臟一樣為2.0L
+2012年7月26日[香港總代理意美汽車引進右駕版BRZ](../Page/香港.md "wikilink")，共分六速手排及六速自排兩種版本。8月臺灣總代理[台灣意美汽車公布引進的規格](../Page/台灣意美汽車.md "wikilink")、配備及價格，並於翌年2月開始交車。該公司引進六速手排及六速自排兩種版本，動力心臟一樣為2.0L
 FA20型，標準配備含雙前座、雙前座側邊與車側氣簾等六具[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、[ABS](../Page/防鎖死煞車系統.md "wikilink")+[EBD](https://zh.wikipedia.org/wiki/電子制動力分配系統 "wikilink")+BAS煞車系統、VSC[動態穩定控制系統](../Page/电子稳定程序.md "wikilink")、TCS循跡防滑控制系統、後座ISO-FIX兒童安全座椅固定座、引擎啟動按鈕、雙區恆溫空調系統、電熱座椅、[巡航定速系統](../Page/巡航定速.md "wikilink")、車側後視鏡除霧功能、附光感應自動啟閉功能的[HID頭燈](../Page/高強度氣體放電燈.md "wikilink")、[LED晝行燈等](../Page/發光二極管.md "wikilink")。至於[中國市場](../Page/中國.md "wikilink")，則遲至翌年9月才上市。
 
 2013年 -
 8月19日日本當地發表由STI打造、限量500輛的「tS」特仕車。其中包含前下擾流飾板、18吋STI黑色鋁合金輪圈、兩段式角度可調的輕量化乾式碳纖維尾翼、Recaro代工之安全帶、整合側邊氣囊並擁有STI徽飾的Recaro賽車座椅、平光碳纖維車內飾板、紅色STI字樣的真皮鑰匙套等；另外儀表板上方以麂皮包覆，儀表也是STI專屬樣式。[底盤部分加裝引擎室拉桿](https://zh.wikipedia.org/wiki/底盤 "wikilink")、前工字樑強化拉桿、避震器，由Brembo代工的前四活塞、後雙活塞之煞車系統。STI額外調校了VSC[動態穩定控制系統](../Page/电子稳定程序.md "wikilink")，降低其介入程度以便提升車輛操控表現。
 
 2015年 - 6月30日原廠宣布發售限量300部的「BRZ
-tS」特仕車\[5\]，由[速霸陸技術國際操刀的全車空力套件](https://zh.wikipedia.org/wiki/速霸陸技術國際 "wikilink")、黑色18吋鋁圈、煞車系統、引擎室拉桿、專屬運動化懸吊系統、桶型賽車座椅、專屬排檔頭等配備。同年7月1日速霸陸北美分公司宣佈推出限量500輛的「HyperBlue」特仕車\[6\]，除了水藍色車身塗裝與藍黑雙色調內裝之外，車載多媒體系統升級為STARLINK
-6.2系統，具有6.2吋全彩觸控螢幕、[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")、[CD](../Page/CD.md "wikilink")、[藍牙](../Page/藍牙.md "wikilink")、[iPod連接](../Page/iPod.md "wikilink")、倒車顯影等功能。
+tS」特仕車\[5\]，由[速霸陸技術國際操刀的全車空力套件](../Page/速霸陸技術國際.md "wikilink")、黑色18吋鋁圈、煞車系統、引擎室拉桿、專屬運動化懸吊系統、桶型賽車座椅、專屬排檔頭等配備。同年7月1日速霸陸北美分公司宣佈推出限量500輛的「HyperBlue」特仕車\[6\]，除了水藍色車身塗裝與藍黑雙色調內裝之外，車載多媒體系統升級為STARLINK
+6.2系統，具有6.2吋全彩觸控螢幕、[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")、[CD](../Page/CD.md "wikilink")、[藍牙](../Page/藍牙.md "wikilink")、[iPod連接](https://zh.wikipedia.org/wiki/iPod "wikilink")、倒車顯影等功能。
 
 2016年 -
 5月26日速霸陸美國分公司宣布小改款\[7\]，更換前保桿造型，頭燈、霧燈、晝行燈、尾燈一律改為[LED](../Page/發光二極管.md "wikilink")，變換成十輻17吋消光黑鋁圈；為了減重，尾翼以[鋁合金製成](../Page/鋁合金.md "wikilink")。內裝部分沒有多大變動，三環式[儀表板最右側換成](../Page/汽車儀表.md "wikilink")4.2吋[液晶螢幕](../Page/液晶显示器.md "wikilink")，可以顯示G值、油門踏板位置、煞車力道、轉向角度、機油與水溫溫度、電池電壓、單圈計時時間等資訊。重新設計的[方向盤新增多功能快捷按鍵](https://zh.wikipedia.org/wiki/方向盤 "wikilink")，另可加價選購6.2吋的Subaru

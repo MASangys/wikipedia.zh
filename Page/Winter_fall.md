@@ -3,7 +3,7 @@ fall**」是[L'Arc〜en〜Ciel的第](https://zh.wikipedia.org/wiki/L'Arc〜en�
 
 ## 簡介
 
-鼓手'''[yukihiro正式加入後的首張單曲](../Page/yukihiro.md "wikilink")，也是5th原創專輯『[HEART](https://zh.wikipedia.org/wiki/HEART_\(原創專輯\) "wikilink")』的先發單曲。
+鼓手'''[yukihiro正式加入後的首張單曲](https://zh.wikipedia.org/wiki/yukihiro "wikilink")，也是5th原創專輯『[HEART](https://zh.wikipedia.org/wiki/HEART_\(原創專輯\) "wikilink")』的先發單曲。
 
 L'Arc〜en〜Ciel首次榮獲ORICON單曲榜冠軍的作品。
 
@@ -18,7 +18,7 @@ L'Arc〜en〜Ciel首次榮獲ORICON單曲榜冠軍的作品。
         REINCARNATION」率先曝光。歌名是從「The curtain falls（落幕）」和「失戀」而來。
         [ken是以夏天為主題來作曲](https://zh.wikipedia.org/wiki/ken "wikilink")，hyde則是以冬天為概念寫下歌詞。
         廣播節目『[山田尚的Radio Unlimited
-        DX](https://zh.wikipedia.org/wiki/山田尚的Radio_Unlimited_DX "wikilink")』中，搖滾樂團[GLAY的](../Page/GLAY.md "wikilink")[TAKURO曾說自己喜歡這首歌曲和](../Page/TAKURO.md "wikilink")「[As
+        DX](https://zh.wikipedia.org/wiki/山田尚的Radio_Unlimited_DX "wikilink")』中，搖滾樂團[GLAY的](../Page/GLAY.md "wikilink")[TAKURO曾說自己喜歡這首歌曲和](https://zh.wikipedia.org/wiki/TAKURO "wikilink")「[As
         if in a
         dream](https://zh.wikipedia.org/wiki/DUNE_\(原創專輯\) "wikilink")」、「[預感](https://zh.wikipedia.org/wiki/DUNE_\(原創專輯\) "wikilink")」。
 2.  **metropolis**

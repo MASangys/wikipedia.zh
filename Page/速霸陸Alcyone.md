@@ -28,8 +28,7 @@ Alcyone.jpg|EA82型水平對臥四缸引擎
 
 ## 內部連結
 
-  - [速霸陸Alcyone
-    SVX](https://zh.wikipedia.org/wiki/速霸陸Alcyone_SVX "wikilink")
+  - [速霸陸Alcyone SVX](../Page/速霸陸Alcyone_SVX.md "wikilink")
 
 ## 外部連結
 

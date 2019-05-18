@@ -8,7 +8,7 @@
 
 2013年7月3日，[洪任諭宣布推出完整](../Page/洪任諭.md "wikilink")[LXDE套件的Qt端口](../Page/LXDE.md "wikilink")。\[5\]2013年7月21日，[Razor-qt和](../Page/Razor-qt.md "wikilink")[LXDE宣布决定合并这两个项目](../Page/LXDE.md "wikilink")。\[6\]\[7\]这一合并意味着GTK+和Qt版本将首先共存，但最终将放弃[GTK+版本](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，后续将集中在Qt端口上。\[8\]LXDE-Qt和Razor-qt的合并后更名为LXQt\[9\]并于2014年5月7日发布了第一个版本0.7.0。\[10\]
 
-随着0.13版本于2018年5月21日发布，LXQT项目正式从[LXDE中分离出来](../Page/LXDE.md "wikilink")，并转移到一个独立的[Github团体](../Page/Github.md "wikilink")。\[11\]
+随着0.13版本于2018年5月21日发布，LXQT项目正式从[LXDE中分离出来](../Page/LXDE.md "wikilink")，并转移到一个独立的[Github团体](https://zh.wikipedia.org/wiki/Github "wikilink")。\[11\]
 
 ## 软件组件
 
@@ -35,9 +35,9 @@ LXQt由许多模块化组件组成，其中一些组件依赖于[Qt和](../Page/
 <td><p><a href="../Page/网页浏览器.md" title="wikilink">网页浏览器</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/簡單顯示管理器" title="wikilink">sddm</a></p></td>
+<td><p><a href="../Page/簡單顯示管理器.md" title="wikilink">sddm</a></p></td>
 <td></td>
-<td><p>用于LXQt和<a href="../Page/QML.md" title="wikilink">QML的</a><a href="https://zh.wikipedia.org/wiki/簡單顯示管理器" title="wikilink">簡單顯示管理器</a></p></td>
+<td><p>用于LXQt和<a href="../Page/QML.md" title="wikilink">QML的</a><a href="../Page/簡單顯示管理器.md" title="wikilink">簡單顯示管理器</a></p></td>
 </tr>
 <tr class="even">
 <td><p>lximage-qt</p></td>
@@ -47,7 +47,7 @@ LXQt由许多模块化组件组成，其中一些组件依赖于[Qt和](../Page/
 <tr class="odd">
 <td><p>lxmenu-data</p></td>
 <td></td>
-<td><p><a href="../Page/freedesktop.org.md" title="wikilink">freedesktop.org桌面菜单所需的文件</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/freedesktop.org" title="wikilink">freedesktop.org桌面菜单所需的文件</a></p></td>
 </tr>
 <tr class="even">
 <td><p>lxqt-about</p></td>
@@ -166,12 +166,12 @@ LXQt由许多模块化组件组成，其中一些组件依赖于[Qt和](../Page/
 <tr class="even">
 <td><p>0.8.0</p></td>
 <td><p>[15]</p></td>
-<td><p>完美<a href="https://zh.wikipedia.org/wiki/兼容性" title="wikilink">兼容</a><a href="../Page/Qt.md" title="wikilink">Qt 5</a></p></td>
+<td><p>完美<a href="../Page/兼容性.md" title="wikilink">兼容</a><a href="../Page/Qt.md" title="wikilink">Qt 5</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>0.9</p></td>
 <td></td>
-<td><p>大量的清理和<a href="../Page/代码重构.md" title="wikilink">重构代码</a>。取消与<a href="../Page/Qt.md" title="wikilink">Qt 4的</a><a href="https://zh.wikipedia.org/wiki/兼容性" title="wikilink">兼容</a>，需要安装<a href="../Page/Qt.md" title="wikilink">Qt 5和</a><a href="https://zh.wikipedia.org/wiki/KDE_Frameworks_5" title="wikilink">KDE Frameworks 5</a>，最低版本要求为<a href="../Page/Qt.md" title="wikilink">Qt 5.3</a>。[16]</p></td>
+<td><p>大量的清理和<a href="../Page/代码重构.md" title="wikilink">重构代码</a>。取消与<a href="../Page/Qt.md" title="wikilink">Qt 4的</a><a href="../Page/兼容性.md" title="wikilink">兼容</a>，需要安装<a href="../Page/Qt.md" title="wikilink">Qt 5和</a><a href="https://zh.wikipedia.org/wiki/KDE_Frameworks_5" title="wikilink">KDE Frameworks 5</a>，最低版本要求为<a href="../Page/Qt.md" title="wikilink">Qt 5.3</a>。[16]</p></td>
 </tr>
 <tr class="even">
 <td><p>0.10</p></td>

@@ -13,7 +13,7 @@ Server（高级服务器）版本。\[3\]
 工作站版本只允许10个客户端并发访问文件服务器，不支持Mac客户端。\[4\]
 
 Windows NT
-3.5包括集成的[Winsock和](https://zh.wikipedia.org/wiki/Winsock "wikilink")[TCP/IP支持](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")。\[5\]（它的前任Windows
+3.5包括集成的[Winsock和](../Page/Winsock.md "wikilink")[TCP/IP支持](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")。\[5\]（它的前任Windows
 NT 3.1，只包括了TCP/IP的一个基于[AT\&T](../Page/AT&T.md "wikilink") [UNIX System
 V的](../Page/UNIX_System_V.md "wikilink")“”应用程序接口的不完整实现。）Windows NT
 3.5中的TCP/IP和IPX/SPX协议栈被改写。\[6\] [NetBIOS over

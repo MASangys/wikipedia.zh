@@ -108,7 +108,7 @@ Works製作的原創電視動畫](https://zh.wikipedia.org/wiki/P.A._Works "wiki
   - 音響監督：[辻谷耕史](../Page/辻谷耕史.md "wikilink")
   - 音樂：[松田彬人](../Page/松田彬人.md "wikilink")
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")
-  - 執行製作人：福場一義、[齋藤滋](https://zh.wikipedia.org/wiki/齋藤滋 "wikilink")、難波秀行、臼井久人、松永芳幸
+  - 執行製作人：福場一義、[齋藤滋](../Page/齋藤滋.md "wikilink")、難波秀行、臼井久人、松永芳幸
   - 製片人：大島靖、岡村武真、和田洋介、吉江輝成、山崎史紀、[堀川憲司](../Page/堀川憲司.md "wikilink")
   - 企劃製作：永谷敬之
   - 動畫製作：[P.A.
@@ -121,7 +121,7 @@ Works製作的原創電視動畫](https://zh.wikipedia.org/wiki/P.A._Works "wiki
     作詞、主唱：[ChouCho](../Page/ChouCho.md "wikilink")，作曲、編曲：渡邊拓也
     第13話當作片尾曲使用。
   - 片尾曲「」
-    作詞：，作曲：佐佐木淳，主唱：[nano.RIPE](../Page/nano.RIPE.md "wikilink")
+    作詞：，作曲：佐佐木淳，主唱：[nano.RIPE](https://zh.wikipedia.org/wiki/nano.RIPE "wikilink")
     第13話未使用。
   - 插曲「」（第13話）
     作詞、主唱：ChouCho，作曲、編曲：

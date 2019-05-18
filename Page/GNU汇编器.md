@@ -1,7 +1,7 @@
 **GNU汇编器**（），是由[GNU计划所使用的](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")[汇编器](https://zh.wikipedia.org/wiki/汇编器 "wikilink")，一般称为**gas**，或依其可执行文件名称简称为**as**。它是[GCC的默认](../Page/GCC.md "wikilink")[后端](https://zh.wikipedia.org/wiki/后端 "wikilink")。它用于汇编[GNU操作系统](../Page/GNU.md "wikilink")、[Linux内核以及其他各种软件](../Page/Linux内核.md "wikilink")。它是[GNU
 Binutils包的一部分](../Page/GNU_Binutils.md "wikilink")。
 
-GAS的[可执行文件被命名为](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")[`as`](https://zh.wikipedia.org/wiki/As_\(Unix\) "wikilink")，[Unix汇编器的标准名称](../Page/Unix.md "wikilink")。GAS是[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，可以运行或为不同的[计算机系统结构编译](../Page/计算机系统结构.md "wikilink")。GAS依据[GNU通用公共许可证第三版发布](../Page/GNU通用公共许可证.md "wikilink")，为[自由软件](../Page/自由软件.md "wikilink")。
+GAS的[可执行文件被命名为](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")[`as`](https://zh.wikipedia.org/wiki/As_\(Unix\) "wikilink")，[Unix汇编器的标准名称](https://zh.wikipedia.org/wiki/Unix "wikilink")。GAS是[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，可以运行或为不同的[计算机系统结构编译](../Page/计算机系统结构.md "wikilink")。GAS依据[GNU通用公共许可证第三版发布](../Page/GNU通用公共许可证.md "wikilink")，为[自由软件](../Page/自由软件.md "wikilink")。
 
 ## 通用语法
 
@@ -69,7 +69,7 @@ msg:
 
 ## 批评
 
-那些更习惯于Intel语法的人认为，比起其他汇编器，在[x86和](../Page/x86.md "wikilink")[x86-64平台上不支持使用Intel语法就是一大败笔](../Page/x86-64.md "wikilink")。
+那些更习惯于Intel语法的人认为，比起其他汇编器，在[x86和](https://zh.wikipedia.org/wiki/x86 "wikilink")[x86-64平台上不支持使用Intel语法就是一大败笔](https://zh.wikipedia.org/wiki/x86-64 "wikilink")。
 
 然而，自从2.10版本，Intel语法可以通过使用`.intel_syntax`指令使用。\[3\]\[4\]\[5\]
 

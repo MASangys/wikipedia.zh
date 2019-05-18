@@ -1,5 +1,5 @@
 **《We Are The
-One》**是[張繼聰的第九張](../Page/張繼聰.md "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2012年10月18日推出。這張唱片亦有收錄上隻EP《[5+](https://zh.wikipedia.org/wiki/5+ "wikilink")》的歌曲。
+One》**是[張繼聰的第九張](../Page/張繼聰.md "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2012年10月18日推出。這張唱片亦有收錄上隻EP《[5+](../Page/5+.md "wikilink")》的歌曲。
 
 ## 曲目
 

@@ -42,10 +42,10 @@ Tools](../Page/DAEMON_Tools.md "wikilink")」。然而，AcetoneISO在掛載時�
 ## 限制
 
   - 無法像[Daemon
-    Tools中](../Page/Daemon_Tools.md "wikilink")，可以在掛載中模擬出防拷保護。
+    Tools中](https://zh.wikipedia.org/wiki/Daemon_Tools "wikilink")，可以在掛載中模擬出防拷保護。
   - 無法正確的掛載有多個區段的映像檔。只有第一個會被顯示。
   - 轉換有多個區段的映像檔會導致資料遺失。只有第一個區段可以被正確的轉換。
-  - 只能在[x86與](../Page/x86.md "wikilink")[x86-64的CPU架構下轉換其他映像檔為ISO檔](../Page/x86-64.md "wikilink")，其為PowerISO的限制
+  - 只能在[x86與](https://zh.wikipedia.org/wiki/x86 "wikilink")[x86-64的CPU架構下轉換其他映像檔為ISO檔](https://zh.wikipedia.org/wiki/x86-64 "wikilink")，其為PowerISO的限制
 
 ## 在地化
 

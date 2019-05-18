@@ -10,7 +10,7 @@ drop**》是[L'Arc〜en〜Ciel的第](https://zh.wikipedia.org/wiki/L'Arc〜en�
 1.  **snow drop**
       -
         [富士電視台](../Page/富士電視台.md "wikilink")《[辣妹女警隊](https://zh.wikipedia.org/wiki/辣妹女警隊 "wikilink")》日劇主題曲。
-        [tetsuya看完動畫](../Page/tetsuya.md "wikilink")《[龍龍與忠狗](../Page/龍龍與忠狗.md "wikilink")》後寫了這首曲子，[hyde寫的歌詞也是以這部動畫為基礎](https://zh.wikipedia.org/wiki/hyde "wikilink")。
+        [tetsuya看完動畫](https://zh.wikipedia.org/wiki/tetsuya "wikilink")《[龍龍與忠狗](../Page/龍龍與忠狗.md "wikilink")》後寫了這首曲子，[hyde寫的歌詞也是以這部動畫為基礎](https://zh.wikipedia.org/wiki/hyde "wikilink")。
         單曲版本收錄在2003年精選輯《[The Best of L'Arc〜en〜Ciel
         1998-2000](https://zh.wikipedia.org/wiki/The_Best_of_L'Arc〜en〜Ciel_1998-2000 "wikilink")》。（海外部分，韓國、台灣版的《[Clicked
         Singles Best

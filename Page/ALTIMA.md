@@ -2,7 +2,7 @@
 
 ## 概要
 
-ALTIMA是由來自[m.o.v.e樂隊的瀨川素公](../Page/m.o.v.e.md "wikilink")（MOTSU）作为队长，負責作詞和[Rap](https://zh.wikipedia.org/wiki/Rap "wikilink")；[黑崎真音](../Page/黑崎真音.md "wikilink")（MAON）擔任作詞和歌手；[fripSide的](https://zh.wikipedia.org/wiki/fripSide "wikilink")[八木沼悟志](../Page/八木沼悟志.md "wikilink")（SAT）作為鍵盤手和作曲者3人組成的日本動漫流行音樂樂隊（[J-pop](https://zh.wikipedia.org/wiki/J-pop "wikilink")）\[1\]。
+ALTIMA是由來自[m.o.v.e樂隊的瀨川素公](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")（MOTSU）作为队长，負責作詞和[Rap](https://zh.wikipedia.org/wiki/Rap "wikilink")；[黑崎真音](../Page/黑崎真音.md "wikilink")（MAON）擔任作詞和歌手；[fripSide的](https://zh.wikipedia.org/wiki/fripSide "wikilink")[八木沼悟志](../Page/八木沼悟志.md "wikilink")（SAT）作為鍵盤手和作曲者3人組成的日本動漫流行音樂樂隊（[J-pop](https://zh.wikipedia.org/wiki/J-pop "wikilink")）\[1\]。
 
 樂隊主要以電子琴和Rap為特色，樂曲風格華麗求變，在リスアニ等多地進行過出演。
 

@@ -18,8 +18,8 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Beautiful_Soup" title="wikilink">Beautiful Soup</a>[2]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Python软件基金会许可证" title="wikilink">Python S. F. L.</a></p></td>
+<td><p><a href="../Page/Beautiful_Soup.md" title="wikilink">Beautiful Soup</a>[2]</p></td>
+<td><p><a href="../Page/Python软件基金会许可证.md" title="wikilink">Python S. F. L.</a></p></td>
 <td><p><a href="../Page/Python.md" title="wikilink">Python</a></p></td>
 <td><p>2013-05-31</p></td>
 <td></td>
@@ -135,7 +135,7 @@
 <td><p>？</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/libxml2.md" title="wikilink">libxml2</a> <a href="http://www.xmlsoft.org/html/libxml-HTMLparser.html">HTMLparser</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/libxml2" title="wikilink">libxml2</a> <a href="http://www.xmlsoft.org/html/libxml-HTMLparser.html">HTMLparser</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MIT许可证" title="wikilink">MIT许可证</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/C语言" title="wikilink">C</a></p></td>
 <td><p>2012-09-11[12]</p></td>

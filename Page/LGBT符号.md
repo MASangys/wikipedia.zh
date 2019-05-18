@@ -79,7 +79,7 @@ Boswell在1993年绘制，包括了底部一个构成女性符号的十字，右
 [Transgender_symbol.png](https://zh.wikipedia.org/wiki/File:Transgender_symbol.png "fig:Transgender_symbol.png")
 另一个版本是从原版修改而成，标志含义也包括那些根本不属于在性别谱的那些没有性别的人，由Rumpus Parable在2013年创作。 {{-}}
 [A_Transfeminist-Symbol_black-and-white.svg](https://zh.wikipedia.org/wiki/File:A_Transfeminist-Symbol_black-and-white.svg "fig:A_Transfeminist-Symbol_black-and-white.svg")
-跨性別女性主義符號象徵[跨性別女性主義](https://zh.wikipedia.org/wiki/跨性別女性主義 "wikilink")，是由跨性別符號與[女性主義符號的結合](../Page/女性主義.md "wikilink")。
+跨性別女性主義符號象徵[跨性別女性主義](../Page/跨性別女性主義.md "wikilink")，是由跨性別符號與[女性主義符號的結合](../Page/女性主義.md "wikilink")。
 {{-}}
 [Transgender_Pride_flag.svg](https://zh.wikipedia.org/wiki/File:Transgender_Pride_flag.svg "fig:Transgender_Pride_flag.svg")
 另一个跨性别的象征是跨性别骄傲旗帜，由跨性别女性Monica

@@ -45,9 +45,8 @@ M852
   - [狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")
   - [M14](../Page/M14自动步枪.md "wikilink")
   - [AWC G2](https://zh.wikipedia.org/wiki/AWC_G2狙擊步槍 "wikilink")
-  - [SRSS BullDog
-    762](https://zh.wikipedia.org/wiki/SRSS鬥牛犬762自動步槍 "wikilink")
-  - [以色列科技](https://zh.wikipedia.org/wiki/以色列科技 "wikilink")
+  - [SRSS BullDog 762](../Page/SRSS鬥牛犬762自動步槍.md "wikilink")
+  - [以色列科技](../Page/以色列科技.md "wikilink")
 
 ## 資料來源
 

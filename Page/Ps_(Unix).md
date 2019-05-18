@@ -17,7 +17,7 @@ cmdlet的预定义[命令别名](https://zh.wikipedia.org/wiki/alias_\(命令\) 
 18585 pts/0    00:00:00 ps
 ```
 
-用户还可以利用`ps`命令和[`grep`](../Page/grep.md "wikilink")结合（参见[`pgrep`](https://zh.wikipedia.org/wiki/pgrep "wikilink")和[`pkill`](https://zh.wikipedia.org/wiki/pkill "wikilink")命令）来查找一个进程的信息，例如它的进程ID：
+用户还可以利用`ps`命令和[`grep`](https://zh.wikipedia.org/wiki/grep "wikilink")结合（参见[`pgrep`](https://zh.wikipedia.org/wiki/pgrep "wikilink")和[`pkill`](https://zh.wikipedia.org/wiki/pkill "wikilink")命令）来查找一个进程的信息，例如它的进程ID：
 
 ``` bash
 $ # 查找`firefox-bin`的PID为2701
@@ -74,7 +74,7 @@ auxww”。
 
 ## 参见
 
-  - [任务管理器](https://zh.wikipedia.org/wiki/任务管理器 "wikilink")
+  - [任务管理器](../Page/任务管理器.md "wikilink")
   - [`kill`](https://zh.wikipedia.org/wiki/kill_\(命令\) "wikilink")
   - [Unix实用程序列表](../Page/Unix实用程序列表.md "wikilink")
   - [`nmon`](https://zh.wikipedia.org/wiki/nmon "wikilink") —

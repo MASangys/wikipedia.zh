@@ -1,7 +1,7 @@
 《**LINE OFFLINE
 上班族**》（），是从2013年1月7日开始在[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")（[關東限定](https://zh.wikipedia.org/wiki/關東 "wikilink")）播放的5分鐘短篇動畫（[泡麵番](https://zh.wikipedia.org/wiki/泡麵番 "wikilink")）\[1\]，描述了各个登场人物在公司中的日常生活。2013年8月12日起，每週一至週五晚上7點在[八大綜合台播出](../Page/八大綜合台.md "wikilink")。2017年11月27日起，每週一至週五晚上9點55分在[ViuTV播出](../Page/ViuTV.md "wikilink")，但於2018年3月6日起改為每週二至週六深夜12點30分在[ViuTV播出](../Page/ViuTV.md "wikilink")。
 
-本動畫為[LINE的](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")[衍生作品](https://zh.wikipedia.org/wiki/衍生作品 "wikilink")。
+本動畫為[LINE的](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")[衍生作品](../Page/衍生作品.md "wikilink")。
 
 ## 登場人物
 
@@ -24,7 +24,7 @@
     饅頭人(穆恩)的上司。有点不可靠。但待員工十分好。
   -  JAMES（台譯：詹姆士課長）
     声 - [風間勇刀](../Page/風間勇刀.md "wikilink")（日本）；
-    [鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")（台灣）；[簡懷甄](https://zh.wikipedia.org/wiki/簡懷甄 "wikilink")（香港）
+    [鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")（台灣）；[簡懷甄](../Page/簡懷甄.md "wikilink")（香港）
     Line Corporation的社長兒子，超級自戀狂，在自己位子和四周擺放了48面鏡子來確保自己的英俊。
     雖然是社長的兒子，但並沒有因此怠懶，在動畫第72集因用默劇表演成功挽救企劃演說的危機而得到美國著名默劇演員的賞識，在公司的引薦下前往美國學習，似乎正為此要跟同伴分開而煩惱中。
   -  JESSICA（台譯：潔西卡）

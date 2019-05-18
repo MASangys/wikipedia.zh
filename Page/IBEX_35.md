@@ -2,7 +2,7 @@
 [IBEX_35_21-01-2008_24-01-2008.svg](https://zh.wikipedia.org/wiki/File:IBEX_35_21-01-2008_24-01-2008.svg "fig:IBEX_35_21-01-2008_24-01-2008.svg")
 
 **IBEX 35**（；；IBEX是**Índice Bursatil
-Español**的縮寫，字面意思是西班牙交易指數）是[西班牙](../Page/西班牙.md "wikilink")[馬德里證券交易所的基準](https://zh.wikipedia.org/wiki/馬德里證券交易所 "wikilink")[股市指數](https://zh.wikipedia.org/wiki/股市指數 "wikilink")，於1992年啟用，由[西班牙證券市場公司的子公司Sociedad](https://zh.wikipedia.org/wiki/西班牙證券市場公司 "wikilink")
+Español**的縮寫，字面意思是西班牙交易指數）是[西班牙](../Page/西班牙.md "wikilink")[馬德里證券交易所的基準](https://zh.wikipedia.org/wiki/馬德里證券交易所 "wikilink")[股市指數](https://zh.wikipedia.org/wiki/股市指數 "wikilink")，於1992年啟用，由[西班牙證券市場公司的子公司Sociedad](../Page/西班牙證券市場公司.md "wikilink")
 de Bolsas計算并管理。IBEX
 35是一種市值加權指數，包含35個在[馬德里證券交易所綜合指數中最具](https://zh.wikipedia.org/wiki/馬德里證券交易所綜合指數 "wikilink")[流動性的西班牙股票](https://zh.wikipedia.org/wiki/市場流動性 "wikilink")，每年調整兩次。\[1\]
 IBEX
@@ -65,7 +65,7 @@ IBEX
 <tbody>
 <tr class="odd">
 <td><p>ANA</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿驰奥纳" title="wikilink">阿驰奥纳</a></p></td>
+<td><p><a href="../Page/阿驰奥纳.md" title="wikilink">阿驰奥纳</a></p></td>
 <td><p><a href="../Page/阿尔科文达斯.md" title="wikilink">阿尔科文达斯</a></p></td>
 <td><p>建筑</p></td>
 <td><p><a href="http://www.bolsamadrid.es/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0125220311">ES0125220311</a></p></td>
@@ -73,7 +73,7 @@ IBEX
 </tr>
 <tr class="even">
 <td><p>ACX</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿塞里諾克斯" title="wikilink">阿塞里諾克斯</a></p></td>
+<td><p><a href="../Page/阿塞里諾克斯.md" title="wikilink">阿塞里諾克斯</a></p></td>
 <td><p><a href="../Page/马德里.md" title="wikilink">马德里</a></p></td>
 <td><p>材料金属</p></td>
 <td><p><a href="http://www.bolsamadrid.es/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0132105018">ES0132105018</a></p></td>
@@ -137,7 +137,7 @@ IBEX
 </tr>
 <tr class="even">
 <td><p>BKT</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西班牙洲際銀行" title="wikilink">西班牙洲際銀行</a></p></td>
+<td><p><a href="../Page/西班牙洲際銀行.md" title="wikilink">西班牙洲際銀行</a></p></td>
 <td><p><a href="../Page/马德里.md" title="wikilink">马德里</a></p></td>
 <td><p>金融</p></td>
 <td><p><a href="http://www.bolsamadrid.es/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0113679I37">ES0113679I37</a></p></td>
@@ -153,7 +153,7 @@ IBEX
 </tr>
 <tr class="even">
 <td><p>CABK</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/凱克薩銀行" title="wikilink">凱克薩銀行</a></p></td>
+<td><p><a href="../Page/凱克薩銀行.md" title="wikilink">凱克薩銀行</a></p></td>
 <td><p><a href="../Page/瓦倫西亞.md" title="wikilink">瓦倫西亞</a></p></td>
 <td><p>金融</p></td>
 <td><p><a href="http://www.bolsamadrid.es/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0140609019">ES0140609019</a></p></td>
@@ -177,7 +177,7 @@ IBEX
 </tr>
 <tr class="odd">
 <td><p>ENG</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西班牙国家天然气公司" title="wikilink">西班牙国家天然气公司</a></p></td>
+<td><p><a href="../Page/西班牙国家天然气公司.md" title="wikilink">西班牙国家天然气公司</a></p></td>
 <td><p><a href="../Page/马德里.md" title="wikilink">马德里</a></p></td>
 <td><p>能源</p></td>
 <td><p><a href="http://www.bolsamadrid.es/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0130960018">ES0130960018</a></p></td>
@@ -209,7 +209,7 @@ IBEX
 </tr>
 <tr class="odd">
 <td><p>GRF</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/基立福" title="wikilink">基立福</a></p></td>
+<td><p><a href="../Page/基立福.md" title="wikilink">基立福</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴塞罗那" title="wikilink">巴塞罗那</a></p></td>
 <td><p>健康</p></td>
 <td><p><a href="http://www.bolsamadrid.es/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0171996087">ES0171996087</a></p></td>
@@ -217,7 +217,7 @@ IBEX
 </tr>
 <tr class="even">
 <td><p>IAG</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/國際航空集團" title="wikilink">國際航空集團</a></p></td>
+<td><p><a href="../Page/國際航空集團.md" title="wikilink">國際航空集團</a></p></td>
 <td><p><a href="../Page/马德里.md" title="wikilink">马德里</a></p></td>
 <td><p>交通运输</p></td>
 <td><p><a href="http://www.bolsamadrid.es/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0177542018">ES0177542018</a></p></td>

@@ -54,7 +54,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/何塞·霍金斯" title="wikilink">何塞·霍金斯</a></p></td>
+<td><p><a href="../Page/何塞·霍金斯.md" title="wikilink">何塞·霍金斯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/後衛" title="wikilink">後衛</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/西雅圖超音速" title="wikilink">西雅圖超音速</a></p></td>

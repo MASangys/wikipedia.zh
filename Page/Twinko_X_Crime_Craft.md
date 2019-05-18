@@ -24,7 +24,7 @@ Craft**）為最新「自然系」女子團體[Twinko的首張數位單曲](../P
 <td></td>
 <td></td>
 <td><p>2013年12月25日</p></td>
-<td><p><a href="../Page/Youtube.md" title="wikilink">Youtube</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Youtube" title="wikilink">Youtube</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

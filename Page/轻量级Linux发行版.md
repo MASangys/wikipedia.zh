@@ -4,9 +4,8 @@ GHz的處理器及1 GB的RAM\[1\]\[2\]\[3\]。
 
 ## 被認為較輕量的發行版
 
-  - [Alpine
-    Linux](https://zh.wikipedia.org/wiki/Alpine_Linux "wikilink") －
-    注重安全的發行版，使用了[uClibc及](../Page/uClibc.md "wikilink")[BusyBox因而較輕量](../Page/BusyBox.md "wikilink")\[4\]。最小下載大小是60
+  - [Alpine Linux](../Page/Alpine_Linux.md "wikilink") －
+    注重安全的發行版，使用了[uClibc及](https://zh.wikipedia.org/wiki/uClibc "wikilink")[BusyBox因而較輕量](../Page/BusyBox.md "wikilink")\[4\]。最小下載大小是60
     MB；基本系統（包含可執行核心）在5 MB以下。
 
   - － [MEPIS](https://zh.wikipedia.org/wiki/MEPIS "wikilink")
@@ -19,15 +18,17 @@ GHz的處理器及1 GB的RAM\[1\]\[2\]\[3\]。
     可以在[Intel 80386及](../Page/Intel_80386.md "wikilink")3
     MB的RAM下運行\[6\]\[7\]。
 
-  - [Bodhi Linux](https://zh.wikipedia.org/wiki/Bodhi_Linux "wikilink")
-    － 基於[Ubuntu長期支援版本的輕量級發行版](../Page/Ubuntu.md "wikilink")\[8\]。
+  - [Bodhi Linux](../Page/Bodhi_Linux.md "wikilink") －
+    基於[Ubuntu長期支援版本的輕量級發行版](../Page/Ubuntu.md "wikilink")\[8\]。
 
   - [CrunchBang
     Linux](https://zh.wikipedia.org/wiki/CrunchBang_Linux "wikilink") －
     相對較大的(771
     MB)基於[Debian的](../Page/Debian.md "wikilink")，主要設計來加強速度及易用性的發行版\[9\]\[10\]。
 
-  - [Damn Small Linux](../Page/Damn_Small_Linux.md "wikilink") － 下載大小約50
+  - [Damn Small
+    Linux](https://zh.wikipedia.org/wiki/Damn_Small_Linux "wikilink") －
+    下載大小約50
     MB。額外的軟體在“DSL擴展”中提供。擴展是使用必需額外安裝的Debian的APT工具。“輕到足以在486DX及16MB的RAM上執行”\[11\]\[12\]。
 
   - －
@@ -42,8 +43,7 @@ GHz的處理器及1 GB的RAM\[1\]\[2\]\[3\]。
 
   - － 基於MicroCore Linux，只有14 MB的發行版\[16\]。
 
-  - [Peppermint Linux
-    OS](https://zh.wikipedia.org/wiki/Peppermint_Linux_OS "wikilink") －
+  - [Peppermint Linux OS](../Page/Peppermint_Linux_OS.md "wikilink") －
     基於Lubuntu\[17\]。
 
   - － 它只有不到300

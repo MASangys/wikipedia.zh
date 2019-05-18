@@ -4,9 +4,9 @@
 
 1966年，为了替换经过长年使用而老化的[易安迪](../Page/易安迪.md "wikilink")[F系列柴油机车](https://zh.wikipedia.org/wiki/易安迪F系列柴油机车 "wikilink")，聖塔菲鐵路决定尽快采购一批新型干线客运柴油机车。由于通用电气公司能够在最短时间内交付新车，而且还可以提供较优惠的[折价贴换以便聖塔菲鐵路处理已被淘汰的旧型机车](https://zh.wikipedia.org/wiki/折价贴换 "wikilink")，因此聖塔菲鐵路决定向通用电气公司订购10台U28CG型柴油机车。虽然聖塔菲鐵路对U28CG型柴油机车颇为满意，但由于仍沿用美国干线调车机车常用的外走廊[罩式车体](https://zh.wikipedia.org/wiki/罩式车体 "wikilink")，因此看起来像货运机车而不像客运机车，牵引旅客列车时显得格格不入。
 
-1967年，为了进一步扩充客运机车车队，聖塔菲鐵路又分别向通用电气和易安迪订购了U30CG、[FP45型客运柴油机车](https://zh.wikipedia.org/wiki/FP45型柴油机车 "wikilink")。U30CG型柴油机车是在U30C型柴油机车基础上改良而成的客运机车，型号当中的“U”代表“通用”系列、“30”代表单节功率为3000马力、“C”代表[机车轴式为](../Page/机车轴式.md "wikilink")[Co-Co](https://zh.wikipedia.org/wiki/Co-Co "wikilink")、“G”代表搭载有[蒸汽锅炉](https://zh.wikipedia.org/wiki/蒸汽锅炉 "wikilink")。机车采用单端司机室和内走廊布置的[棚式车体](https://zh.wikipedia.org/wiki/棚式车体 "wikilink")，车体正面的全宽度弧形车头和车体侧墙的波纹不锈钢板是其外观上的最大特点。车内安装有一台用来为[旅客列车供暖的维帕](https://zh.wikipedia.org/wiki/旅客列车 "wikilink")-克萊森式蒸汽锅炉。
+1967年，为了进一步扩充客运机车车队，聖塔菲鐵路又分别向通用电气和易安迪订购了U30CG、[FP45型客运柴油机车](../Page/FP45型柴油机车.md "wikilink")。U30CG型柴油机车是在U30C型柴油机车基础上改良而成的客运机车，型号当中的“U”代表“通用”系列、“30”代表单节功率为3000马力、“C”代表[机车轴式为](../Page/机车轴式.md "wikilink")[Co-Co](https://zh.wikipedia.org/wiki/Co-Co "wikilink")、“G”代表搭载有[蒸汽锅炉](https://zh.wikipedia.org/wiki/蒸汽锅炉 "wikilink")。机车采用单端司机室和内走廊布置的[棚式车体](https://zh.wikipedia.org/wiki/棚式车体 "wikilink")，车体正面的全宽度弧形车头和车体侧墙的波纹不锈钢板是其外观上的最大特点。车内安装有一台用来为[旅客列车供暖的维帕](https://zh.wikipedia.org/wiki/旅客列车 "wikilink")-克萊森式蒸汽锅炉。
 
-机车装用一台16[气缸](https://zh.wikipedia.org/wiki/气缸 "wikilink")、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、[涡轮增压的](../Page/渦輪增壓器.md "wikilink")[FDL16型](https://zh.wikipedia.org/wiki/通用电气7FDL系列柴油机 "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，额定功率为3000马力。传动系统采用交—直流电传动，柴油机直接驱动一台GTA-11型[三相交流](https://zh.wikipedia.org/wiki/三相交流电 "wikilink")[同步发电机](../Page/交流發電機.md "wikilink")，发出的三相交流电经[硅](../Page/硅.md "wikilink")[二极管](../Page/二極管.md "wikilink")[整流器整流为直流电后](../Page/整流器.md "wikilink")，供给六台[并联的GE](../Page/並聯電路.md "wikilink")-752型[串励直流](../Page/直流电动机.md "wikilink")[牵引电动机](https://zh.wikipedia.org/wiki/牽引電動機 "wikilink")。此外，还更换了牵引电动机的主动齿轮以提高最大运行速度，牵引齿轮传动比从U30C型柴油机车的74：18改为77：26，最高速度亦由113公里/小时（70英里/小时）提高至150公里/小时（93英里/小时）。机车走行部为两台由通用电气公司开发的FB3型浮动摇枕式[转向架](../Page/轉向架.md "wikilink")。
+机车装用一台16[气缸](https://zh.wikipedia.org/wiki/气缸 "wikilink")、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、[涡轮增压的](../Page/渦輪增壓器.md "wikilink")[FDL16型](../Page/通用电气7FDL系列柴油机.md "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，额定功率为3000马力。传动系统采用交—直流电传动，柴油机直接驱动一台GTA-11型[三相交流](https://zh.wikipedia.org/wiki/三相交流电 "wikilink")[同步发电机](../Page/交流發電機.md "wikilink")，发出的三相交流电经[硅](../Page/硅.md "wikilink")[二极管](../Page/二極管.md "wikilink")[整流器整流为直流电后](../Page/整流器.md "wikilink")，供给六台[并联的GE](../Page/並聯電路.md "wikilink")-752型[串励直流](../Page/直流电动机.md "wikilink")[牵引电动机](https://zh.wikipedia.org/wiki/牽引電動機 "wikilink")。此外，还更换了牵引电动机的主动齿轮以提高最大运行速度，牵引齿轮传动比从U30C型柴油机车的74：18改为77：26，最高速度亦由113公里/小时（70英里/小时）提高至150公里/小时（93英里/小时）。机车走行部为两台由通用电气公司开发的FB3型浮动摇枕式[转向架](../Page/轉向架.md "wikilink")。
 
 ## 运用历史
 
@@ -16,8 +16,8 @@ U30CG型柴油机车于1967年11月交付聖塔菲鐵路\[1\]，机车编号为�
 
 ## 参看
 
-  - [U30B型柴油机车](https://zh.wikipedia.org/wiki/U30B型柴油机车 "wikilink")
-  - [U30C型柴油机车](https://zh.wikipedia.org/wiki/U30C型柴油机车 "wikilink")
+  - [U30B型柴油机车](../Page/U30B型柴油机车.md "wikilink")
+  - [U30C型柴油机车](../Page/U30C型柴油机车.md "wikilink")
   - [P30CH型柴油机车](https://zh.wikipedia.org/wiki/P30CH型柴油机车 "wikilink")
 
 ## 参考文献

@@ -24,7 +24,7 @@ Drive免費網路儲存空間](https://zh.wikipedia.org/wiki/Google_Drive "wikil
   - 後置相機：HTC UltraPixel影像技術相機鏡頭。BSI 感測器、像素尺寸 2.0 µm、感測器尺寸 1/3 吋、專用 HTC
     ImageChip 2獨立晶片、F2.0光圈、與28mm鏡頭、1080p Full HD 錄影、具備 HDR 錄影功能。
   - 後置閃光燈：五級智慧閃光燈，可根據物體距離自動設定。
-  - 後置相機[連拍功能](https://zh.wikipedia.org/wiki/連拍 "wikilink")：可連續拍攝多張照片。
+  - 後置相機[連拍功能](../Page/連拍.md "wikilink")：可連續拍攝多張照片。
   - 後置相機可錄製慢動作影片，播放時可隨意調整播放速度。
   - VideoPic：後置相機可同時拍攝HD影片與照片。
   - 相片集：HTC Zoe™ 實境相簿具備連拍合成、最佳表情和物件移除功能。相片集具備 Video Highlights 生活微電影以及

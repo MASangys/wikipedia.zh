@@ -15,7 +15,8 @@
         作詞：、作曲：[Shihori](../Page/Shihori.md "wikilink")（）、編曲：木村篤史
 2.  **你之前给的**（）
       -
-        作詞:桃色幸運草Z & [miwa](../Page/miwa.md "wikilink")、作曲:miwa、編曲：
+        作詞:桃色幸運草Z &
+        [miwa](https://zh.wikipedia.org/wiki/miwa "wikilink")、作曲:miwa、編曲：
 3.  GOUNN（off vocal ver.）
 4.  你之前给的（off vocal ver.）
 
@@ -48,7 +49,7 @@
 **你之前给的**
 
   - [A.Guitar](../Page/原聲吉他.md "wikilink") &
-    Chorus：[miwa](../Page/miwa.md "wikilink")
+    Chorus：[miwa](https://zh.wikipedia.org/wiki/miwa "wikilink")
   - [E.Guitar](../Page/电吉他.md "wikilink"), Other Instruments &
     Programming :
 

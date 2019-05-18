@@ -1,4 +1,4 @@
-**RBS-15**（机器人系统-15）是一种远程次音速[发射后不管](https://zh.wikipedia.org/wiki/发射后不管 "wikilink")[地對地導彈及](https://zh.wikipedia.org/wiki/地對地導彈 "wikilink")[反舰](https://zh.wikipedia.org/wiki/反舰导弹 "wikilink")[空对面导弹](https://zh.wikipedia.org/wiki/空对面导弹 "wikilink")，新推出的改版**Mk.
+**RBS-15**（机器人系统-15）是一种远程次音速[发射后不管](https://zh.wikipedia.org/wiki/发射后不管 "wikilink")[地對地導彈及](https://zh.wikipedia.org/wiki/地對地導彈 "wikilink")[反舰](https://zh.wikipedia.org/wiki/反舰导弹 "wikilink")[空对面导弹](../Page/空对面导弹.md "wikilink")，新推出的改版**Mk.
 III**又有了对陆[战区外攻击能力](https://zh.wikipedia.org/wiki/战区外 "wikilink")，它由[萨博博福斯动力开发](https://zh.wikipedia.org/wiki/萨博博福斯动力 "wikilink")。
 
 ## 开发

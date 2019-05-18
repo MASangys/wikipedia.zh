@@ -3,7 +3,7 @@ M**（）是[韓國的一家唱片製作發行公司](https://zh.wikipedia.org/w
 
 LOEN娛樂前身是成立於1978年的Seoul
 Records（首爾唱片），1982年首爾唱片正式進行登記，2005年由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SK集團的子公司](https://zh.wikipedia.org/wiki/SK集團 "wikilink")[SK
-Telecom收購](https://zh.wikipedia.org/wiki/SK_Telecom "wikilink")。2008年，收購韓國數位音樂平台[Melon](https://zh.wikipedia.org/wiki/Melon "wikilink")。2016年被[Kakao收購](https://zh.wikipedia.org/wiki/Kakao "wikilink")，2018年公司名稱由LOEN娛樂改為Kakao
+Telecom收購](https://zh.wikipedia.org/wiki/SK_Telecom "wikilink")。2008年，收購韓國數位音樂平台[Melon](../Page/Melon.md "wikilink")。2016年被[Kakao收購](../Page/Kakao.md "wikilink")，2018年公司名稱由LOEN娛樂改為Kakao
 M。
 
 Kakao M
@@ -33,7 +33,7 @@ MUSIC()更名為「[1theK](https://zh.wikipedia.org/wiki/1theK "wikilink")」()�
 2015年11月25日，LOEN娛樂宣佈決定投資[A
 Cube娛樂的](https://zh.wikipedia.org/wiki/A_Cube娛樂 "wikilink")70%股份，以此增加LOEN在製作、藝人經紀部分的競爭力。
 
-2016年1月11日，韓國移動信息服務提供商[Kakao集團表示將以](https://zh.wikipedia.org/wiki/Kakao "wikilink")1.9兆韓元（15.7億美元）的價格收購韓國頂級音樂流媒體服務提供商LOEN娛樂有限公司76.4%的股份，以開拓新的收入來源。\[3\]
+2016年1月11日，韓國移動信息服務提供商[Kakao集團表示將以](../Page/Kakao.md "wikilink")1.9兆韓元（15.7億美元）的價格收購韓國頂級音樂流媒體服務提供商LOEN娛樂有限公司76.4%的股份，以開拓新的收入來源。\[3\]
 
 2016年3月2日，LOEN娛樂旗下的[A
 Cube娛樂宣佈將正式更名為](https://zh.wikipedia.org/wiki/A_Cube娛樂 "wikilink")「[Plan
@@ -95,7 +95,7 @@ Playground for Music and You” 。\[12\]\[13\]
 ### 作家、製作人
 
   -
-  - [Ra.D](https://zh.wikipedia.org/wiki/Ra.D "wikilink")
+  - [Ra.D](../Page/Ra.D.md "wikilink")
 
   - [KZ](https://zh.wikipedia.org/wiki/KZ "wikilink")
 
@@ -114,11 +114,11 @@ Playground for Music and You” 。\[12\]\[13\]
   - WS Entertainment：2006年建立，Seoul Records旗下，與韓國華納音樂、SK-KTB Music
     Investment Fund合作。
   - [Collaboddari
-    Label](https://zh.wikipedia.org/wiki/Collaboddari_Label "wikilink")：2014年建立，代表及製作人為[新沙洞老虎](https://zh.wikipedia.org/wiki/新沙洞老虎 "wikilink")。
+    Label](https://zh.wikipedia.org/wiki/Collaboddari_Label "wikilink")：2014年建立，代表及製作人為[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")。
 
 ### 已離開藝人
 
-  - [Run](../Page/Run.md "wikilink")
+  - [Run](https://zh.wikipedia.org/wiki/Run "wikilink")
 
   - [GaIn](https://zh.wikipedia.org/wiki/孫佳人 "wikilink")（[Brown Eyed
     Girls成員](../Page/Brown_Eyed_Girls.md "wikilink")；現屬APOP娛樂）
@@ -127,15 +127,15 @@ Playground for Music and You” 。\[12\]\[13\]
 
   - Cheska（前[FIESTAR成員](../Page/FIESTAR.md "wikilink")）
 
-  - [金伊娜](https://zh.wikipedia.org/wiki/金伊娜 "wikilink")（作詞家）
+  - [金伊娜](../Page/金伊娜.md "wikilink")（作詞家）
 
 ### 已離開練習生
 
   - 朴相鉉（藝名「天動」，為[MBLAQ前成員](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")，現屬APOP娛樂）
   - [金甫娥](../Page/金甫娥.md "wikilink")（[Spica](../Page/SPICA_\(組合\).md "wikilink")，現屬[B2M娛樂](../Page/B2M娛樂.md "wikilink")）
-  - [丁恩妃](https://zh.wikipedia.org/wiki/丁恩妃 "wikilink")（藝名「Eunha」，[GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")，現屬[Source
+  - [丁恩妃](https://zh.wikipedia.org/wiki/丁恩妃 "wikilink")（藝名「Eunha」，[GFRIEND](../Page/GFRIEND.md "wikilink")，現屬[Source
     Music](https://zh.wikipedia.org/wiki/Source_Music "wikilink")）
-  - [崔裕娜](../Page/Yuju.md "wikilink")（藝名「Yuju」，[GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")，現屬[Source
+  - [崔裕娜](../Page/Yuju.md "wikilink")（藝名「Yuju」，[GFRIEND](../Page/GFRIEND.md "wikilink")，現屬[Source
     Music](https://zh.wikipedia.org/wiki/Source_Music "wikilink")）
   - [安恩真](../Page/安恩真.md "wikilink")（前[DIA](https://zh.wikipedia.org/wiki/DIA "wikilink")）
   - 沈彩誾（[PRODUCE 101參賽者](../Page/PRODUCE_101.md "wikilink")）
@@ -143,24 +143,21 @@ Playground for Music and You” 。\[12\]\[13\]
     Tag](https://zh.wikipedia.org/wiki/Hash_Tag "wikilink")，現屬LUK
     Factory）
   - [金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink")（[PRODUCE 101
-    第二季參賽者](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")，[JBJ](https://zh.wikipedia.org/wiki/JBJ "wikilink")，現屬春娛樂）
-  - [李秀敏](https://zh.wikipedia.org/wiki/李秀敏_\(1999年\) "wikilink")（音譯）（[PRODUCE
+    第二季參賽者](../Page/PRODUCE_101_第二季.md "wikilink")，[JBJ](../Page/JBJ.md "wikilink")，現屬春娛樂）
+  - [李秀敏](../Page/李秀敏_\(1999年\).md "wikilink")（音譯）（[PRODUCE
     101](../Page/PRODUCE_101.md "wikilink"), [K-pop Star
-    6](https://zh.wikipedia.org/wiki/K-pop_Star_6 "wikilink") ,
+    6](../Page/K-pop_Star_6.md "wikilink") ,
     [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")）參賽者
-  - 朴昭妍（[K-pop Star
-    2](https://zh.wikipedia.org/wiki/K-pop_Star_2 "wikilink"), [PRODUCE
+  - 朴昭妍（[K-pop Star 2](../Page/K-pop_Star_2.md "wikilink"), [PRODUCE
     101](../Page/PRODUCE_101.md "wikilink")）參賽者
   - 金決宥（原名為**金甫沅**，[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")）参赛者
   - 申帥賢（[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink") ,
-    [PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")）参赛者
+    [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")）参赛者
   - 李彩正（[PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")）参赛者(現屬MND17娛樂旗下練習生)
+    48](../Page/PRODUCE_48.md "wikilink")）参赛者(現屬MND17娛樂旗下練習生)
   - [金建學](https://zh.wikipedia.org/wiki/金建學 "wikilink")（藝名「LEE
     DO」，[ONEUS](https://zh.wikipedia.org/wiki/ONEUS "wikilink")，現屬[Rainbow
-    Bridge
-    World](https://zh.wikipedia.org/wiki/Rainbow_Bridge_World "wikilink")）
+    Bridge World](../Page/Rainbow_Bridge_World.md "wikilink")）
 
 **音樂作品**
 
@@ -212,9 +209,9 @@ Playground for Music and You” 。\[12\]\[13\]
 
   - [許閣](../Page/許閣.md "wikilink")
 
-  - [VICTON](https://zh.wikipedia.org/wiki/VICTON "wikilink")
+  - [VICTON](../Page/VICTON.md "wikilink")
 
-  - [林智民](https://zh.wikipedia.org/wiki/林智民 "wikilink")
+  - [林智民](../Page/林智民.md "wikilink")
 
 ### 演員
 
@@ -227,9 +224,8 @@ Playground for Music and You” 。\[12\]\[13\]
 
   - [PlayM
     BOYS](https://zh.wikipedia.org/wiki/PlayM_BOYS "wikilink")（前稱[FAVEBOYS](https://zh.wikipedia.org/wiki/FAVEBOYS "wikilink")、[STARHILLBOYS](https://zh.wikipedia.org/wiki/STARHILLBOYS "wikilink")）\[14\]\[15\]\[16\]
-      - [林智民](https://zh.wikipedia.org/wiki/林智民 "wikilink")（01年5月22日，[THE
-        FAN第](https://zh.wikipedia.org/wiki/THE_FAN "wikilink")3名，[THE
-        FAN
+      - [林智民](../Page/林智民.md "wikilink")（01年5月22日，[THE
+        FAN第](../Page/THE_FAN.md "wikilink")3名，[THE FAN
         TOP5](https://zh.wikipedia.org/wiki/THE_FAN_TOP5 "wikilink")）
       - [全暏炎](https://zh.wikipedia.org/wiki/全暏炎 "wikilink")（02年2月21日，[Under
         19第](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")1名，[1THE9](https://zh.wikipedia.org/wiki/1THE9 "wikilink")）
@@ -241,7 +237,7 @@ Playground for Music and You” 。\[12\]\[13\]
         19前](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")19強）
       - [林亨頻](https://zh.wikipedia.org/wiki/林亨頻 "wikilink")（01年3月3日，[Under
         19第](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")35名，[Super
-        Band](https://zh.wikipedia.org/wiki/Super_Band_\(韓國綜藝\) "wikilink")）
+        Band](../Page/Super_Band_\(韓國綜藝\).md "wikilink")）
 
 ### 女練習生
 
@@ -250,8 +246,7 @@ Playground for Music and You” 。\[12\]\[13\]
 ### [The Five文化產業專門會社](https://zh.wikipedia.org/wiki/The_Five文化產業專門會社 "wikilink")
 
   - 韓語：더파이브문화산업전문회사
-  - 2018年成立，負責[THE
-    FAN相關事務](https://zh.wikipedia.org/wiki/THE_FAN "wikilink")
+  - 2018年成立，負責[THE FAN相關事務](../Page/THE_FAN.md "wikilink")
   - [THE FAN
     TOP5](https://zh.wikipedia.org/wiki/THE_FAN_TOP5 "wikilink")（限定活動）
 
@@ -271,7 +266,7 @@ Playground for Music and You” 。\[12\]\[13\]
   - [FIESTAR](../Page/FIESTAR.md "wikilink")
   - [History](../Page/History_\(樂團\).md "wikilink")（團體已解散，成員合約未完）
   - [I.B.I](../Page/I.B.I.md "wikilink")（限定組合）
-  - [JBJ](https://zh.wikipedia.org/wiki/JBJ "wikilink")（限定組合）
+  - [JBJ](../Page/JBJ.md "wikilink")（限定組合）
 
 ### [Plan A娛樂](../Page/Plan_A娛樂.md "wikilink")
 
@@ -394,10 +389,10 @@ Playground for Music and You” 。\[12\]\[13\]
 
 ## 電視劇製作
 
-### [Studio Dragon Corporation](https://zh.wikipedia.org/wiki/Studio_Dragon_Corporation "wikilink")
+### [Studio Dragon Corporation](../Page/Studio_Dragon_Corporation.md "wikilink")
 
 2017年5月，公司宣布与[Studio Dragon
-Corporation](https://zh.wikipedia.org/wiki/Studio_Dragon_Corporation "wikilink")（[CJ
+Corporation](../Page/Studio_Dragon_Corporation.md "wikilink")（[CJ
 E\&M的子公司](../Page/CJ集团.md "wikilink")）正式合作製作。\[17\]
 
 ### Kakao M製作
@@ -408,23 +403,21 @@ E\&M的子公司](../Page/CJ集团.md "wikilink")）正式合作製作。\[17\]
 ### [MEGA MONSTER製作](https://zh.wikipedia.org/wiki/MEGA_MONSTER "wikilink")
 
 MEGA MONSTER（原STORY PLANT)是Kakao M与[Studio Dragon
-Corporation](https://zh.wikipedia.org/wiki/Studio_Dragon_Corporation "wikilink")（[CJ
+Corporation](../Page/Studio_Dragon_Corporation.md "wikilink")（[CJ
 E\&M的子公司](../Page/CJ集团.md "wikilink")）合作的一家戏剧制作公司。该公司将在[2018年制作四部电视剧](../Page/2018年.md "wikilink")。
 
   - 2015年：NAVER TV/ONSTYLE
     《[我們分手了](../Page/我們分手了_\(韓國網路劇\).md "wikilink")》
     ([CJ E\&M](../Page/CJ集团.md "wikilink")、[YG K
-    Plus与合作伙伴关系](https://zh.wikipedia.org/wiki/YG_K_Plus "wikilink"))
+    Plus与合作伙伴关系](../Page/YG_K_Plus.md "wikilink"))
   - 2015年：[tvN](../Page/TVN.md "wikilink")
-    《[不哭鳥](https://zh.wikipedia.org/wiki/不哭鳥 "wikilink")》
-  - 2015年：tvN 《[Heart to
-    Heart](https://zh.wikipedia.org/wiki/Heart_to_Heart "wikilink")》
-    ([綠蛇傳媒与合作伙伴关系](https://zh.wikipedia.org/wiki/綠蛇傳媒 "wikilink"))
+    《[不哭鳥](../Page/不哭鳥.md "wikilink")》
+  - 2015年：tvN 《[Heart to Heart](../Page/Heart_to_Heart.md "wikilink")》
+    ([綠蛇傳媒与合作伙伴关系](../Page/綠蛇傳媒.md "wikilink"))
   - 2016年：[MBC](../Page/文化廣播公司.md "wikilink")
     《[家和萬事成](../Page/家和萬事成.md "wikilink")》
-  - 2018年：MBC 《[赤月青日](https://zh.wikipedia.org/wiki/赤月青日 "wikilink")》
-  - 2019年：tvN 《[觸及真心](https://zh.wikipedia.org/wiki/觸及真心 "wikilink")》
-    (ZIUM CONTENT与合作伙伴关系)
+  - 2018年：MBC 《[赤月青日](../Page/赤月青日.md "wikilink")》
+  - 2019年：tvN 《[觸及真心](../Page/觸及真心.md "wikilink")》 (ZIUM CONTENT与合作伙伴关系)
 
 ### [Krispy Studio製作](https://zh.wikipedia.org/wiki/Krispy_Studio "wikilink")
 
@@ -433,7 +426,7 @@ E\&M的子公司](../Page/CJ集团.md "wikilink")）合作的一家戏剧制作�
 
 ## 相關業務
 
-  - [Melon](https://zh.wikipedia.org/wiki/Melon "wikilink")
+  - [Melon](../Page/Melon.md "wikilink")
 
 ## 參考資料
 

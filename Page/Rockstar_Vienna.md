@@ -16,7 +16,7 @@ Games。\[2\]\[3\]截至2005年，公司宣稱擁有100名員工。\[4\]
 Vienna；當日早上，安保人員阻止員工進入辦公室。\[5\]在Rockstar
 Vienna關閉之前，他們曾移植了[Rockstar
 Toronto和](../Page/Rockstar_Toronto.md "wikilink")[San
-Diego製作的主機遊戲](https://zh.wikipedia.org/wiki/Rockstar_San_Diego "wikilink")。關閉後，工作室未完成的作品被轉移到[Rockstar
+Diego製作的主機遊戲](../Page/Rockstar_San_Diego.md "wikilink")。關閉後，工作室未完成的作品被轉移到[Rockstar
 London繼續完成](../Page/Rockstar_London.md "wikilink")。\[6\]Rockstar
 London接手的工作中包括了《[俠盜獵魔2](../Page/俠盜獵魔2.md "wikilink")》。儘管Rockstar
 Vienna已經開發《俠盜獵魔2》長達兩年之久，但在最終產品中，55名Rockstar

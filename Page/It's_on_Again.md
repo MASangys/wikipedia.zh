@@ -18,8 +18,8 @@ and film composer [Hans
 Zimmer](https://zh.wikipedia.org/wiki/Hans_Zimmer "wikilink"), the
 latter of whom scores the film.\[4\] On March 31, "It's on Again" was
 uploaded to Keys' official
-[Soundcloud](../Page/Soundcloud.md "wikilink") page\[5\] and impacted
-[mainstream
+[Soundcloud](https://zh.wikipedia.org/wiki/Soundcloud "wikilink")
+page\[5\] and impacted [mainstream
 urban](https://zh.wikipedia.org/wiki/urban_contemporary "wikilink")
 radio in the United States.\[6\] The following day, it was released
 [digitally](https://zh.wikipedia.org/wiki/music_download "wikilink") as

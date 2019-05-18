@@ -35,7 +35,7 @@ extent 容量的整数倍。当一个进程创建一个文件的时候，文件�
   - [HPFS](https://zh.wikipedia.org/wiki/HPFS "wikilink") - High
     Performance File Syzstem -
     [OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink") and
-    [eComStation](../Page/eComStation.md "wikilink").
+    [eComStation](https://zh.wikipedia.org/wiki/eComStation "wikilink").
   - [JFS](https://zh.wikipedia.org/wiki/IBM_Journaled_File_System_2_\(JFS2\) "wikilink")
     - Journaled File System - Used by
     [AIX](https://zh.wikipedia.org/wiki/AIX_\(operating_system\) "wikilink"),

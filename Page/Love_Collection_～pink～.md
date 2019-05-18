@@ -6,7 +6,7 @@ Inc.](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
 ## 概要
 
   - 與精選專輯「[Love Collection
-    ～mint～](https://zh.wikipedia.org/wiki/Love_Collection_～mint～ "wikilink")」同時發行。
+    ～mint～](../Page/Love_Collection_～mint～.md "wikilink")」同時發行。
   - 收錄第1張單曲「[I](../Page/I_\(西野加奈單曲\).md "wikilink")」至第21張單曲「[淚色](../Page/淚色.md "wikilink")」，共22首A面曲。
   - 除了單曲，此專輯更收錄第1張專輯「[LOVE
     one.](../Page/LOVE_one..md "wikilink")」至第4張專輯「[Love
@@ -15,7 +15,7 @@ Inc.](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
   - 「初回限定盤」收錄了單曲和專輯主打曲等，共25首歌曲的PV。
   - 在9月16日於[Oricon公信榜專輯週榜取得第](../Page/Oricon公信榜.md "wikilink")2名。
   - 同時，與專輯同時發行的「[Love Collection
-    ～mint～](https://zh.wikipedia.org/wiki/Love_Collection_～mint～ "wikilink")」於[Oricon公信榜專輯週榜取得第](../Page/Oricon公信榜.md "wikilink")1名，繼[藤圭子](../Page/藤圭子.md "wikilink")、[濱崎步和](../Page/濱崎步.md "wikilink")[JUJU後](../Page/JUJU.md "wikilink")，第四位佔據Oricon首兩位的女歌手。
+    ～mint～](../Page/Love_Collection_～mint～.md "wikilink")」於[Oricon公信榜專輯週榜取得第](../Page/Oricon公信榜.md "wikilink")1名，繼[藤圭子](../Page/藤圭子.md "wikilink")、[濱崎步和](../Page/濱崎步.md "wikilink")[JUJU後](../Page/JUJU.md "wikilink")，第四位佔據Oricon首兩位的女歌手。
 
 ## 收錄內容
 

@@ -1,9 +1,9 @@
 《**Together
 Forever**》是由[理查德·艾斯利在](../Page/理查德·艾斯利.md "wikilink")1988年6月18日發行的歌曲，也曾經是[告示牌百强单曲榜排名第一的歌曲](../Page/告示牌百强单曲榜.md "wikilink")。
 
-當時它在[英國單曲排行榜是被](../Page/英國單曲排行榜.md "wikilink")《[家有芳鄰](https://zh.wikipedia.org/wiki/家有芳鄰 "wikilink")》演員[凯莉·米洛首次發行的單曲](../Page/凯莉·米洛.md "wikilink")《》擠下而排名第二。它的和音結構與旋律類似於《[Never
+當時它在[英國單曲排行榜是被](../Page/英國單曲排行榜.md "wikilink")《[家有芳鄰](../Page/家有芳鄰.md "wikilink")》演員[凯莉·米洛首次發行的單曲](../Page/凯莉·米洛.md "wikilink")《》擠下而排名第二。它的和音結構與旋律類似於《[Never
 Gonna Give You
-Up](../Page/Never_Gonna_Give_You_Up.md "wikilink")》，可能是因為它們在同時期皆由所製作。
+Up](https://zh.wikipedia.org/wiki/Never_Gonna_Give_You_Up "wikilink")》，可能是因為它們在同時期皆由所製作。
 
 ## 翻唱版本
 

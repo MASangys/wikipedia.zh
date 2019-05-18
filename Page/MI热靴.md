@@ -7,7 +7,7 @@ Shoe）是索尼公司于2012年9月推出的一种[热靴接口](../Page/热靴
 
 ## 概况
 
-索尼在2005年接收[柯尼卡美能达公司相机事业部门](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")，沿用其机型于1988年开始配置使用的[iISO热靴](../Page/iISO.md "wikilink")。因为物理上与ISO518热靴不兼容，对于通用性附件支持不好，及希望增加新的功能，索尼公司于2012年9月随α99一同，发布了新款的MI热靴（Multi
+索尼在2005年接收[柯尼卡美能达公司相机事业部门](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")，沿用其机型于1988年开始配置使用的[iISO热靴](https://zh.wikipedia.org/wiki/iISO "wikilink")。因为物理上与ISO518热靴不兼容，对于通用性附件支持不好，及希望增加新的功能，索尼公司于2012年9月随α99一同，发布了新款的MI热靴（Multi
 Interface）接口\[2\]，字面为“**多接口热靴**”。
 
 ## 电气规范
@@ -117,7 +117,7 @@ Interface）接口\[2\]，字面为“**多接口热靴**”。
 ## 参见
 
   - [热靴](../Page/热靴.md "wikilink")
-      - [iISO热靴](../Page/iISO.md "wikilink")，索尼之前从[美能达方面继承使用的热靴接口](https://zh.wikipedia.org/wiki/美能达 "wikilink")
+      - [iISO热靴](https://zh.wikipedia.org/wiki/iISO "wikilink")，索尼之前从[美能达方面继承使用的热靴接口](https://zh.wikipedia.org/wiki/美能达 "wikilink")
 
 ## 参考与引用
 

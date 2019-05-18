@@ -15,7 +15,7 @@ larmes au fond du cloître humide?"（甚麼淚水打濕了迴廊的底部？）
   - [电台司令寫](../Page/电台司令.md "wikilink")[OK电脑中的歌曲時曾受此曲啟發](../Page/OK电脑.md "wikilink")。
   - 電影[忘了、忘不了和](../Page/忘了、忘不了.md "wikilink")[钢琴家的配樂包括此曲](../Page/钢琴家_\(电影\).md "wikilink")。
   - 此曲被應用於電視連續劇[白宫群英第五季的劇集中](../Page/白宫群英.md "wikilink")。
-  - 此曲在小說[格雷的五十道陰影中被提及](../Page/格雷的五十道陰影.md "wikilink")，並在[同名電影中出現](https://zh.wikipedia.org/wiki/格雷的五十道陰影_\(電影\) "wikilink")。
+  - 此曲在小說[格雷的五十道陰影中被提及](../Page/格雷的五十道陰影.md "wikilink")，並在[同名電影中出現](../Page/格雷的五十道陰影_\(電影\).md "wikilink")。
 
 ## 參考
 

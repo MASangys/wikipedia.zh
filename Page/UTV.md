@@ -29,16 +29,16 @@ Network將停止提供服務](https://zh.wikipedia.org/wiki/Cartoon_Network "wik
 2016年4月7日，UTV透過官網表示[KMTV將於](https://zh.wikipedia.org/wiki/w:en:KMTV_Asia "wikilink")2015年5月9日起成為收費頻道。\[9\]
 
 2016年6月3日，[Channel
-M第](https://zh.wikipedia.org/wiki/Channel_M "wikilink")524頻道改名為[tvN](../Page/tvN_Asia.md "wikilink")。
+M第](https://zh.wikipedia.org/wiki/Channel_M "wikilink")524頻道改名為[tvN](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")。
 
-2017年12月1日，UTV收費頻道之[tvN](../Page/tvN_Asia.md "wikilink")、[國家地理野生高清頻道](../Page/國家地理野生頻道.md "wikilink")、[衛視中文台停播](../Page/衛視中文台.md "wikilink")。\[10\]
+2017年12月1日，UTV收費頻道之[tvN](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、[國家地理野生高清頻道](../Page/國家地理野生頻道.md "wikilink")、[衛視中文台停播](../Page/衛視中文台.md "wikilink")。\[10\]
 
 UTV的應用程式除了適用於香港外，將會在短期內擴展至澳門、印尼、新加坡、馬來西亞、泰國和中國大陸的廣東省地區。
 
 ## 收看方法
 
 由於持有大氣電波的「China Mobile Hong Kong Corporation
-Limited」已由香港電視網絡收購，現時中國移動香港的UTV支援[Android平台和](../Page/Android.md "wikilink")[iOS平台](../Page/iOS.md "wikilink")，使用者可在以Android或iOS作為[作業系統的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[手提電話或](https://zh.wikipedia.org/wiki/手提電話 "wikilink")[平板電腦上安裝UTV的](../Page/平板電腦.md "wikilink")[應用程式收看頻道](https://zh.wikipedia.org/wiki/流動軟件應用程式 "wikilink")，或使用由UTV自行推出的以Android作為作業系統的UTV
+Limited」已由香港電視網絡收購，現時中國移動香港的UTV支援[Android平台和](../Page/Android.md "wikilink")[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")，使用者可在以Android或iOS作為[作業系統的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[手提電話或](https://zh.wikipedia.org/wiki/手提電話 "wikilink")[平板電腦上安裝UTV的](../Page/平板電腦.md "wikilink")[應用程式收看頻道](https://zh.wikipedia.org/wiki/流動軟件應用程式 "wikilink")，或使用由UTV自行推出的以Android作為作業系統的UTV
 Dongle。\[11\]UTV Dongle具有HDMI插頭，插在電視機上直接使用。\[12\]
 
 觀眾不用與UTV簽約即可收看UTV提供的免費頻道，而收看收費頻道亦不需簽約，只需按月收費。\[13\]
@@ -79,7 +79,7 @@ APP應用程式。
 |    523     |    [美亞高清電影台](../Page/美亞電影台.md "wikilink")     |                                 美亞高清電影台停止提供服務\[18\]                                  |                                  |
 | 2016年2月1日  |                      522                      |               [互動新聞台](https://zh.wikipedia.org/wiki/互動新聞台 "wikilink")                |        互動新聞台停止提供服務\[19\]         |
 |    527     | [Cartoon Network](../Page/卡通頻道.md "wikilink") |                             Cartoon Network停止提供服務\[20\]                              |                                  |
-| 2017年12月1日 |                      524                      |                        [tvN](../Page/tvN_Asia.md "wikilink")                         |         tvN停止提供服務\[21\]          |
+| 2017年12月1日 |                      524                      |               [tvN](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")               |         tvN停止提供服務\[21\]          |
 |    525     | [國家地理野生高清頻道](../Page/國家地理野生頻道.md "wikilink")  |                                 國家地理野生頻道停止提供服務\[22\]                                 |                                  |
 |    526     |     [衛視中文台](../Page/衛視中文台.md "wikilink")      |                                  衛視中文台停止提供服務\[23\]                                   |                                  |
 |            |                                               |                                                                                      |                                  |

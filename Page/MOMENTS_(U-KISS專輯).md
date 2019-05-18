@@ -1,5 +1,5 @@
 《**MOMENTS**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS的第](../Page/U-KISS.md "wikilink")8枚迷你專輯。於2013年10月31日發行。唱片公司為[NH
-Media](https://zh.wikipedia.org/wiki/NH_Media "wikilink")。
+Media](../Page/NH_Media.md "wikilink")。
 
 ## 概要
 
@@ -105,7 +105,7 @@ Media](https://zh.wikipedia.org/wiki/NH_Media "wikilink")。
 <td><p>韓國</p></td>
 <td><p>2013年10月31日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NH_Media" title="wikilink">NH Media</a><br />
+<td><p><a href="../Page/NH_Media.md" title="wikilink">NH Media</a><br />
 <a href="https://zh.wikipedia.org/wiki/TSN_Company" title="wikilink">TSN Company</a></p></td>
 </tr>
 </tbody>

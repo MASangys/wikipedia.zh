@@ -1,13 +1,13 @@
 **Happy
 Face娛樂**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，成立在2008年，當前藝人包括[Dreamcatcher等多名藝人](../Page/Dreamcatcher.md "wikilink")。2019年2月，成立為[Dreamcatcher專屬部門公司Dreamcatcher](../Page/Dreamcatcher.md "wikilink")
-Company，3月，成立為[D1CE專屬部門公司D](https://zh.wikipedia.org/wiki/D1CE "wikilink")1CE娛樂。
+Company，3月，成立為[D1CE專屬部門公司D](../Page/D1CE.md "wikilink")1CE娛樂。
 
 ## 旗下藝人
 
 ### 組合
 
   - [Dreamcatcher](../Page/Dreamcatcher.md "wikilink")
-  - [D1CE](https://zh.wikipedia.org/wiki/D1CE "wikilink")
+  - [D1CE](../Page/D1CE.md "wikilink")
 
 ### 個人歌手
 
@@ -18,8 +18,7 @@ Company，3月，成立為[D1CE專屬部門公司D](https://zh.wikipedia.org/wik
 ## 旗下練習生
 
   - 金俊亨
-  - 元鉉植《[PRODUCE X
-    101](https://zh.wikipedia.org/wiki/PRODUCE_X_101 "wikilink")》
+  - 元鉉植《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》
   - 金正祐《[Under
     Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")》
   - 滑川光祐《[Under
@@ -45,18 +44,18 @@ Company，3月，成立為[D1CE專屬部門公司D](https://zh.wikipedia.org/wik
       -
       - [佳恩](../Page/佳恩_\(1992年出生\).md "wikilink")
 
-      - [世理](https://zh.wikipedia.org/wiki/世理 "wikilink")
+      - [世理](../Page/世理.md "wikilink")
 
       - [雅英](../Page/雅英.md "wikilink")
 
       - [秀彬](../Page/秀彬.md "wikilink")
 
-      - [優熙](https://zh.wikipedia.org/wiki/優熙 "wikilink")（[UNI.T](https://zh.wikipedia.org/wiki/UNI.T "wikilink")）
+      - [優熙](../Page/優熙.md "wikilink")（[UNI.T](../Page/UNI.T.md "wikilink")）
 
 ### 昔日練習生
 
-  - 黃世真（[WANNA.B](https://zh.wikipedia.org/wiki/WANNA.B "wikilink")）
-  - 朴喜晙（[VAV](https://zh.wikipedia.org/wiki/VAV "wikilink")）
+  - 黃世真（[WANNA.B](../Page/WANNA.B.md "wikilink")）
+  - 朴喜晙（[VAV](../Page/VAV.md "wikilink")）
   - 李承桓（[ROMEO](../Page/ROMEO_\(韓國組合\).md "wikilink")）
   - 《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》
       - 金智盛
@@ -75,7 +74,7 @@ Company，3月，成立為[D1CE專屬部門公司D](https://zh.wikipedia.org/wik
 
   - H Next Boys
       - 丁元澈（A6P、《[PRODUCE 101
-        第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")》、MY.st）
+        第二季](../Page/PRODUCE_101_第二季.md "wikilink")》、MY.st）
       - 李鍾旻
       - 朴炯珍
       - 趙允燦

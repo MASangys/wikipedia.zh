@@ -1,5 +1,5 @@
 [VIX.png](https://zh.wikipedia.org/wiki/File:VIX.png "fig:VIX.png")
-**VIX指数**是**芝加哥期权交易所市场波动率指数**的[交易代码](https://zh.wikipedia.org/wiki/股票代号 "wikilink")，常见于衡量[标准普尔500指数期权的](https://zh.wikipedia.org/wiki/标准普尔500指数 "wikilink")[隐含波动性](https://zh.wikipedia.org/wiki/隐含波动性 "wikilink")。通常被称为“恐慌指数”或“恐慌指标”，它是了解市场对未来30天市场[波动性预期的一种衡量方法](https://zh.wikipedia.org/wiki/波动性 "wikilink")。
+**VIX指数**是**芝加哥期权交易所市场波动率指数**的[交易代码](https://zh.wikipedia.org/wiki/股票代号 "wikilink")，常见于衡量[标准普尔500指数期权的](../Page/标准普尔500指数.md "wikilink")[隐含波动性](https://zh.wikipedia.org/wiki/隐含波动性 "wikilink")。通常被称为“恐慌指数”或“恐慌指标”，它是了解市场对未来30天市场[波动性预期的一种衡量方法](../Page/波动性.md "wikilink")。
 
 波动性指数的概念，以及基于此种指数的金融工具最早是由梅纳赫姆·布伦纳教授和丹·盖莱教授于1986年提出的。布伦纳教授和盖莱教授的科研论文《对冲波动性变化的新型金融工具》发表于1989年7/8月期的《金融分析师期刊》
 \[1\]
@@ -14,9 +14,9 @@ VIX指数用年化百分比表示，并且大致反映出标准普尔500指数�
 
 ## 详述
 
-实时计算并发布VIX指数。理论上来讲，VIX指数是一系列[标准普尔500指数期权的价格](https://zh.wikipedia.org/wiki/标准普尔500指数 "wikilink")[加权指数](https://zh.wikipedia.org/wiki/权重 "wikilink")。2004年3月26日，有史以来第一次基于VIX指数的期货交易在芝加哥期货交易所完成。
+实时计算并发布VIX指数。理论上来讲，VIX指数是一系列[标准普尔500指数期权的价格](../Page/标准普尔500指数.md "wikilink")[加权指数](../Page/权重.md "wikilink")。2004年3月26日，有史以来第一次基于VIX指数的期货交易在芝加哥期货交易所完成。
 
-2006年2月24日，VIX指数期权交易变为可能。有几只[ETF](https://zh.wikipedia.org/wiki/ETF "wikilink")（交易所交易基金）试图追踪其表现。公式运用了以平滑后[估计函数作为计算方法](https://zh.wikipedia.org/wiki/估计函数 "wikilink")\[5\]。其目标是估计标准普尔500指数在未来30天的隐含波动性。
+2006年2月24日，VIX指数期权交易变为可能。有几只[ETF](../Page/ETF.md "wikilink")（交易所交易基金）试图追踪其表现。公式运用了以平滑后[估计函数作为计算方法](https://zh.wikipedia.org/wiki/估计函数 "wikilink")\[5\]。其目标是估计标准普尔500指数在未来30天的隐含波动性。
 
 需要注意VIX指数是的波动率，并不是的波动性（波动性是方差的平方根，即[标准差](https://zh.wikipedia.org/wiki/标准差 "wikilink")）。
 方差互换可以完全通过简单的看跌期权和看涨期权进行静态复制，但波动率互换需要进行动态对冲。
@@ -36,7 +36,7 @@ VIX指数用年化百分比表示，并且大致反映出标准普尔500指数�
 
   - VIX指数期货合约，于2004年开始交易。
   - 交易所上市VIX指数期权，于2006年2月开始交易。
-  - VIX指数期货[交易所交易债券和](https://zh.wikipedia.org/wiki/交易所交易债券 "wikilink")[交易所交易基金](https://zh.wikipedia.org/wiki/ETF "wikilink")，例如：
+  - VIX指数期货[交易所交易债券和](https://zh.wikipedia.org/wiki/交易所交易债券 "wikilink")[交易所交易基金](../Page/ETF.md "wikilink")，例如：
       - 标准普尔500 VIX指数短期期货交易所交易债券（）和标准普尔500
         VIX指数中期交易所交易债券（）由2009年2月由巴克莱银行iPath发行。
       - 标准普尔500 VIX指数交易所交易基金（）由于2010年6月发行。

@@ -1,4 +1,4 @@
-**`time`**是一个[Unix](../Page/Unix.md "wikilink")[操作系统上的命令](../Page/操作系统.md "wikilink")。它可以用于确定执行特定[命令持续的时间](../Page/命令_\(计算机\).md "wikilink")。
+**`time`**是一个[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")[操作系统上的命令](../Page/操作系统.md "wikilink")。它可以用于确定执行特定[命令持续的时间](../Page/命令_\(计算机\).md "wikilink")。
 
 ## 用法
 
@@ -9,7 +9,7 @@ time ls
 ```
 
 当命令完成时，`time`
-将计算并报告执行[`ls`](../Page/ls.md "wikilink")命令所花费的用户[CPU时间](https://zh.wikipedia.org/wiki/CPU时间 "wikilink")、系统CPU时间和真实时间。不同版本的命令输出格式不一，有的会给予额外的统计数据，如下面的例子：
+将计算并报告执行[`ls`](https://zh.wikipedia.org/wiki/ls "wikilink")命令所花费的用户[CPU时间](https://zh.wikipedia.org/wiki/CPU时间 "wikilink")、系统CPU时间和真实时间。不同版本的命令输出格式不一，有的会给予额外的统计数据，如下面的例子：
 
 ``` bash
  $ time host wikipedia.org
@@ -19,7 +19,7 @@ time ls
 ```
 
 time(1) 可以作为一个独立的程序存在（如[GNU](../Page/GNU.md "wikilink")
-time）或作为[shell内建命令](../Page/Unix_shell.md "wikilink")（例如在[tcsh或](../Page/tcsh.md "wikilink")[zsh中](https://zh.wikipedia.org/wiki/zsh "wikilink")）。
+time）或作为[shell内建命令](../Page/Unix_shell.md "wikilink")（例如在[tcsh或](https://zh.wikipedia.org/wiki/tcsh "wikilink")[zsh中](https://zh.wikipedia.org/wiki/zsh "wikilink")）。
 
 ## 用户时间与系统时间
 

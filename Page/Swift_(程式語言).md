@@ -1,5 +1,5 @@
 **Swift**是一種支持[多编程范式和](https://zh.wikipedia.org/wiki/多编程范式 "wikilink")[編譯式的編程語言](https://zh.wikipedia.org/wiki/編譯 "wikilink")，是用來撰寫[macOS/OS
-X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[iOS](../Page/iOS.md "wikilink")、[watchOS和](https://zh.wikipedia.org/wiki/watchOS "wikilink")[tvOS的语言之一](https://zh.wikipedia.org/wiki/tvOS "wikilink")\[1\]。
+X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[watchOS和](https://zh.wikipedia.org/wiki/watchOS "wikilink")[tvOS的语言之一](https://zh.wikipedia.org/wiki/tvOS "wikilink")\[1\]。
 2014年，其在[苹果开发者年会](https://zh.wikipedia.org/wiki/WWDC "wikilink")（WWDC）發布。設計Swift時，[蘋果公司有意讓Swift與](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Objective-C共存在蘋果公司的](../Page/Objective-C.md "wikilink")[作業系統上](https://zh.wikipedia.org/wiki/作業系統 "wikilink")\[2\]。
 
 ## 歷史
@@ -8,7 +8,7 @@ X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[iOS](../Page/iOS.md "wikili
 编程语言的設計工作，以一年時間，完成基本架構後，他領導了一個設計團隊大力參與其中。Swift大約歷經4年的開發期，2014年6月發表。
 
 苹果宣称Swift的特点是：快速、现代、安全、互动，而且明顯優於Objective-C语言。Swift以[LLVM編譯](../Page/LLVM.md "wikilink")，可以使用现有的[Cocoa和](../Page/Cocoa.md "wikilink")[Cocoa
-Touch框架](https://zh.wikipedia.org/wiki/Cocoa_Touch "wikilink")。Xcode
+Touch框架](../Page/Cocoa_Touch.md "wikilink")。Xcode
 Playgrounds功能是Swift为苹果开发工具带来的最大创新，该功能提供強大的互动效果，能让Swift源代碼在[撰寫过程中能即時显示出其執行結果](../Page/读取﹣求值﹣输出循环.md "wikilink")。拉特纳本人强调，Playgrounds很大程度是受到理念的启发。\[3\]
 
 2015年6月8日，蘋果於[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink")2015上宣布，Swift將[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，包括[编译器和](https://zh.wikipedia.org/wiki/编译器 "wikilink")[标准库](../Page/标准库.md "wikilink")。\[4\]
@@ -47,7 +47,7 @@ var str = "hello,"; str += " world"
 過去Cocoa（以及Cocoa
 Touch）的架構總是被分成兩種版本，一種是可變的（mutable），也就是可以在執行時期（runtime）改變；另一種是不可變的（immutable），其初始值不可改變，例如NSArray與NSMutableArray就是陣列的兩種版本。在Swift語言的世界裡仍延續這個傳統，但更簡化為使用
 let 關鍵字去設定常數（constant variable）。至於可變的(Mutable)物件則使用 var
-關鍵字。Swift语言使用類似[C\#或](../Page/C♯.md "wikilink")[Javascript的var定義變數](../Page/Javascript.md "wikilink")，但特性又不盡相同，Swift不會直接指派初始值給變數，亦即變數不會有預設值，所以使用var變數之前必须先初始化，不然會發生編譯時期的錯誤。
+關鍵字。Swift语言使用類似[C\#或](../Page/C♯.md "wikilink")[Javascript的var定義變數](https://zh.wikipedia.org/wiki/Javascript "wikilink")，但特性又不盡相同，Swift不會直接指派初始值給變數，亦即變數不會有預設值，所以使用var變數之前必须先初始化，不然會發生編譯時期的錯誤。
 
 為了方便使用，Swift還提供Optional的定義來宣告nil-free
 references。宣告Optional只需要在类型后面加上問號（?）即可。一旦var變數宣告为Optional的，其初始值就會被預設為nil。Optional本質上是enum，有定義None和Some兩種类型，nil即是Optional.None。

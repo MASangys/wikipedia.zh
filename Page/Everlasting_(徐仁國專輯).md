@@ -1,6 +1,6 @@
 《**Everlasting**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[徐仁國的首張](../Page/徐仁國.md "wikilink")[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2014年1月15日以兩個版本：Type-A及Type-B推出。兩張單曲：《》及《[We
 Can Dance
-Tonight](https://zh.wikipedia.org/wiki/We_Can_Dance_Tonight "wikilink")》在專輯推出前預先發行。
+Tonight](../Page/We_Can_Dance_Tonight.md "wikilink")》在專輯推出前預先發行。
 
 ## 背景
 
@@ -25,7 +25,7 @@ Tonight](https://zh.wikipedia.org/wiki/We_Can_Dance_Tonight "wikilink")》在專
 Inside My Heart》也出現在《Everlasting》的第8首位置。
 
 第二張單曲及最後一張單曲《[We Can Dance
-Tonight](https://zh.wikipedia.org/wiki/We_Can_Dance_Tonight "wikilink")》在2013年10月16日發行。這歌曲由[INP作曲填詞](https://zh.wikipedia.org/wiki/INP "wikilink")，[Justin協作作曲](../Page/Justin.md "wikilink")，進入了[Oricon單曲榜第二十一名](../Page/Oricon.md "wikilink")，首週銷售3,796張及在榜停留2星期\[6\]。B面歌曲《My
+Tonight](../Page/We_Can_Dance_Tonight.md "wikilink")》在2013年10月16日發行。這歌曲由[INP作曲填詞](https://zh.wikipedia.org/wiki/INP "wikilink")，[Justin協作作曲](../Page/Justin.md "wikilink")，進入了[Oricon單曲榜第二十一名](../Page/Oricon.md "wikilink")，首週銷售3,796張及在榜停留2星期\[6\]。B面歌曲《My
 Voice》也出現在《Everlasting》的第3首位置。
 
 ## 曲目

@@ -3,12 +3,12 @@
 
 ## 歷史
 
-Linux核心從1996年開始就包含了二進制blob\[2\]。而清除二進制blob的工作則由[gNewSense在](../Page/gNewSense.md "wikilink")2006年開始。2007年，BLAG有了更多的進展，Linux-libre就此誕生\[3\]\[4\]。Linux-libre是由(FSFLA)所開發，[自由软件基金会認可](../Page/自由软件基金会.md "wikilink")\[5\]，作為[自由軟體基金會認可的Linux發行版的一部份](https://zh.wikipedia.org/wiki/自由軟體基金會認可的Linux發行版 "wikilink")。它在2012年3月成為了GNU計畫的其中一個軟體包\[6\]，Alexandre
+Linux核心從1996年開始就包含了二進制blob\[2\]。而清除二進制blob的工作則由[gNewSense在](https://zh.wikipedia.org/wiki/gNewSense "wikilink")2006年開始。2007年，BLAG有了更多的進展，Linux-libre就此誕生\[3\]\[4\]。Linux-libre是由(FSFLA)所開發，[自由软件基金会認可](../Page/自由软件基金会.md "wikilink")\[5\]，作為[自由軟體基金會認可的Linux發行版的一部份](https://zh.wikipedia.org/wiki/自由軟體基金會認可的Linux發行版 "wikilink")。它在2012年3月成為了GNU計畫的其中一個軟體包\[6\]，Alexandre
 Oliva是此專案的維護者。
 
 ## 專有韌體的移除方法
 
-移除過程需要用到稱為*deblob-main*的[指令碼](../Page/脚本语言.md "wikilink")\[7\]。這個指令碼是由[gNewSense所啟發](../Page/gNewSense.md "wikilink")。Jeff
+移除過程需要用到稱為*deblob-main*的[指令碼](../Page/脚本语言.md "wikilink")\[7\]。這個指令碼是由[gNewSense所啟發](https://zh.wikipedia.org/wiki/gNewSense "wikilink")。Jeff
 Moe做了後續的修改以符合發行版的需求。
 而有另一個*deblob-check*腳本是用來檢查被懷疑包含了專有軟體的核心源檔案、[修補程式或是被壓縮的源檔案](https://zh.wikipedia.org/wiki/修補程式 "wikilink")\[8\]。
 
@@ -37,7 +37,7 @@ Moe做了後續的修改以符合發行版的需求。
 
   - \[16\]
 
-  - [gNewSense](../Page/gNewSense.md "wikilink")
+  - [gNewSense](https://zh.wikipedia.org/wiki/gNewSense "wikilink")
 
   -
   - [Parabola

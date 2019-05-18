@@ -19,7 +19,7 @@ Junior的第六次巡回演唱會](../Page/Super_Junior.md "wikilink")，2014年
 <tbody>
 <tr class="odd">
 <td><p>2014年9月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p>首爾蠶室室內體育館 [4][5][6]</p></td>
 </tr>
@@ -139,7 +139,7 @@ Junior的第六次巡回演唱會](../Page/Super_Junior.md "wikilink")，2014年
 </tr>
 <tr class="odd">
 <td><p>2015年7月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
 </tr>

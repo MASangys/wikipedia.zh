@@ -264,7 +264,7 @@ N-SONIC是創新的意思，N 是 Neo 的意思，SONIC 則是音速。
 <td style="text-align: left;"><ul>
 <li><a href="../Page/香港亞洲流行音樂節.md" title="wikilink">香港亞洲流行音樂節</a>－最佳舞台演繹大獎</li>
 <li><a href="https://zh.wikipedia.org/wiki/2014年度新城國語力頒獎禮得獎名單" title="wikilink">2014年度新城國語力頒獎禮</a>－新城國語力跳舞歌曲獎《不要再見》、新城國語力亞洲新人王</li>
-<li><a href="https://zh.wikipedia.org/wiki/2014年度新城勁爆頒獎禮得獎名單" title="wikilink">2014年度新城勁爆頒獎禮</a>－勁爆國語歌曲獎《Run &amp;Run》、新城勁爆亞洲新人王</li>
+<li><a href="../Page/2014年度新城勁爆頒獎禮得獎名單.md" title="wikilink">2014年度新城勁爆頒獎禮</a>－勁爆國語歌曲獎《Run &amp;Run》、新城勁爆亞洲新人王</li>
 </ul></td>
 </tr>
 <tr class="even">

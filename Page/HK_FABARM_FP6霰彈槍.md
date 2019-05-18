@@ -5,14 +5,14 @@ S.p.A.）所研製和生產，並且由[德国](../Page/德国.md "wikilink")[�
 
 ## 歷史
 
-在1998年[德国](../Page/德国.md "wikilink")[黑克勒-科赫與](../Page/黑克勒&科赫.md "wikilink")[伯奈利中斷了商業合作以後](https://zh.wikipedia.org/wiki/伯奈利 "wikilink")，前者就改為與[費巴爾姆公司合作](https://zh.wikipedia.org/wiki/費巴爾姆公司 "wikilink")，以銷售由後者生產的那些霰彈槍取代原來的整條進口線。\[1\]該生產線具有各款獵用和運動用途霰彈槍，分別以上下式雙管、水平式雙管、半自動（自動裝填）和[泵动式操作](https://zh.wikipedia.org/wiki/泵动式 "wikilink")，包括青年型在內的型號。對於軍事、執法機關及家庭防衛使用方面，黑克勒-科赫推出了四款FP6型號的衍生型。
+在1998年[德国](../Page/德国.md "wikilink")[黑克勒-科赫與](../Page/黑克勒&科赫.md "wikilink")[伯奈利中斷了商業合作以後](../Page/伯奈利.md "wikilink")，前者就改為與[費巴爾姆公司合作](https://zh.wikipedia.org/wiki/費巴爾姆公司 "wikilink")，以銷售由後者生產的那些霰彈槍取代原來的整條進口線。\[1\]該生產線具有各款獵用和運動用途霰彈槍，分別以上下式雙管、水平式雙管、半自動（自動裝填）和[泵动式操作](https://zh.wikipedia.org/wiki/泵动式 "wikilink")，包括青年型在內的型號。對於軍事、執法機關及家庭防衛使用方面，黑克勒-科赫推出了四款FP6型號的衍生型。
 
 ## 設計細節
 
 FABARM FP6的[機匣是由輕量級](https://zh.wikipedia.org/wiki/機匣 "wikilink")[ERGAL
 55](../Page/7075鋁合金.md "wikilink")[合金所機械加工製造](../Page/合金.md "wikilink")，並且以鑽孔和[螺絲安裝](../Page/螺絲.md "wikilink")[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")。四款衍生型當中有三款於出售時帶有裝上的[MIL-STD-1913戰術導軌用以安裝光學瞄準鏡或其配件](../Page/皮卡汀尼導軌.md "wikilink")，而前[護木的底部的前端邊緣也具有鑽孔以接受安裝配件導軌](https://zh.wikipedia.org/wiki/護木 "wikilink")。除了短管型號以外，FABARM霰彈槍於出售時帶有採用了他們獨有的「三孔」（）式槍管，這是一個具有三個獨立的內孔剖面的深部鑽孔式機械加工槍管。從[膛室的上面和導錐開始](../Page/膛室.md "wikilink")，內膛被擴大至18.8毫米（0.7401英吋）以緩和[後座力](../Page/後座力.md "wikilink")，而在槍管中間的第二剖面逐步縮小至18.4毫米（0.7244英吋）以模擬出微縮口狀內膛的剖面以增加初速。最後的內膛是FABARM[喉缩系統](https://zh.wikipedia.org/wiki/喉缩 "wikilink")，其中包括緊隨著槍口微縮口狀剖面的標準型收束器，以改進射擊模式和分佈情況。\[2\]槍口具有螺紋處理以接受裝上5種不同的收束器或[槍口制退／補償器](../Page/砲口制動器.md "wikilink")。有些型號於出售時還具有通風式。
 
-該武器的特點包括鍍鉻式扳機、滑動式槍機的釋放按鈕和霰彈藥筒框。還有一個超大尺寸的三角形按鈕式保險。扳機組件由兩根插銷保持固定在[機匣中](https://zh.wikipedia.org/wiki/機匣 "wikilink")，這使得在清潔和維修時拆卸扳機組件變得很容易。某些型號具有翻轉式[準星](https://zh.wikipedia.org/wiki/照準器 "wikilink")（近戰時可作為低剖面瞄準具），而其他的則配備了小型片狀瞄準具。其他型號則配備了[鬼環式瞄具](https://zh.wikipedia.org/wiki/機械瞄具#鬼環 "wikilink")。\[3\]
+該武器的特點包括鍍鉻式扳機、滑動式槍機的釋放按鈕和霰彈藥筒框。還有一個超大尺寸的三角形按鈕式保險。扳機組件由兩根插銷保持固定在[機匣中](https://zh.wikipedia.org/wiki/機匣 "wikilink")，這使得在清潔和維修時拆卸扳機組件變得很容易。某些型號具有翻轉式[準星](../Page/照準器.md "wikilink")（近戰時可作為低剖面瞄準具），而其他的則配備了小型片狀瞄準具。其他型號則配備了[鬼環式瞄具](https://zh.wikipedia.org/wiki/機械瞄具#鬼環 "wikilink")。\[3\]
 
 前[護木和](https://zh.wikipedia.org/wiki/護木 "wikilink")[槍托都是由](../Page/槍托.md "wikilink")[黑色人工合成](../Page/黑色.md "wikilink")[聚合物所製造](../Page/聚合物.md "wikilink")，而後者還在尾部裝有一塊由合成[橡膠所製造的後座](../Page/橡膠.md "wikilink")。其中一個型號以重型鋼絲製折疊式槍托和取代了槍托。各個型號分別為具有黑色[陽極保護](../Page/陽極.md "wikilink")[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，啞光表面處理，或是[碳纖維](../Page/碳纖維.md "wikilink")[增強表面處理](https://zh.wikipedia.org/wiki/碳纖維增強聚合物 "wikilink")。
 
@@ -29,12 +29,12 @@ FP6與其他泵动式霰彈槍一樣，可滑動的前護木通過兩根操作�
 黑克勒-科赫推出了FP6的四款衍生型。\[5\]
 
   - 標準型FP6（H\&K
-    40621HS），配備了508毫米（20英吋）「三孔」（）式槍管，黑色保護[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，穿孔式，小型片狀[準星](https://zh.wikipedia.org/wiki/照準器 "wikilink")，固定式合成[槍托](../Page/槍托.md "wikilink")，和圓形前[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。
+    40621HS），配備了508毫米（20英吋）「三孔」（）式槍管，黑色保護[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，穿孔式，小型片狀[準星](../Page/照準器.md "wikilink")，固定式合成[槍托](../Page/槍托.md "wikilink")，和圓形前[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。
   - 碳纖維表面處理型號（H\&K
-    40621CF），配備了508毫米（20英吋）「三孔」（）式槍管，無，[機匣安裝型](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，小型片狀[準星](https://zh.wikipedia.org/wiki/照準器 "wikilink")，固定式合成槍托，和圓形前[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。
-  - 折疊式槍托及型號，配備了508毫米（20英吋）「三孔」（）式槍管，無，[機匣安裝型](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，和一個大型翻轉片狀[準星](https://zh.wikipedia.org/wiki/照準器 "wikilink")。
+    40621CF），配備了508毫米（20英吋）「三孔」（）式槍管，無，[機匣安裝型](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，小型片狀[準星](../Page/照準器.md "wikilink")，固定式合成槍托，和圓形前[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。
+  - 折疊式槍托及型號，配備了508毫米（20英吋）「三孔」（）式槍管，無，[機匣安裝型](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，和一個大型翻轉片狀[準星](../Page/照準器.md "wikilink")。
   - 戰術短管型號，FP6突入型（H\&K
-    40621T），配備了355.6毫米（14英吋）槍管，啞光表面處理，穿孔式，[機匣安裝型](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，大型翻轉片狀[準星](https://zh.wikipedia.org/wiki/照準器 "wikilink")，固定式合成槍托，和輪廓形前[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。這款衍生型全長為857.25毫米（33.75英吋），並且受到美國（簡稱：NFA）條例歸類為[第二類槍械](https://zh.wikipedia.org/wiki/第二類槍械 "wikilink")。
+    40621T），配備了355.6毫米（14英吋）槍管，啞光表面處理，穿孔式，[機匣安裝型](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，大型翻轉片狀[準星](../Page/照準器.md "wikilink")，固定式合成槍托，和輪廓形前[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。這款衍生型全長為857.25毫米（33.75英吋），並且受到美國（簡稱：NFA）條例歸類為[第二類槍械](https://zh.wikipedia.org/wiki/第二類槍械 "wikilink")。
 
 ## 使用國
 
@@ -60,7 +60,7 @@ FP6與其他泵动式霰彈槍一樣，可滑動的前護木通過兩根操作�
     George
     Stacy，[丹尼斯·萊瑞飾演](https://zh.wikipedia.org/wiki/丹尼斯·萊瑞 "wikilink")）所使用。
   - 2013年—《[-{zh-cn:溫暖的屍體; zh-tw:殭屍哪有這麼帥;
-    zh-hk:熱血喪男;}-](../Page/熱血喪男.md "wikilink")》：裝上穿孔式、和[機械瞄具並且被茱莉](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")·皮諾（Julie
+    zh-hk:熱血喪男;}-](../Page/熱血喪男.md "wikilink")》：裝上穿孔式、和[機械瞄具並且被茱莉](../Page/機械瞄具.md "wikilink")·皮諾（Julie
     Grigio，[泰瑞莎·帕瑪飾演](https://zh.wikipedia.org/wiki/泰瑞莎·帕瑪 "wikilink")）所使用。
 
 ### 电視節目
@@ -76,8 +76,7 @@ FP6與其他泵动式霰彈槍一樣，可滑動的前護木通過兩根操作�
 
 ## 參見
 
-  - [FABARM
-    SDASS戰術型泵動式霰彈槍](https://zh.wikipedia.org/wiki/FABARM_SDASS戰術型泵動式霰彈槍 "wikilink")
+  - [FABARM SDASS戰術型泵動式霰彈槍](../Page/FABARM_SDASS戰術型泵動式霰彈槍.md "wikilink")
   - [FABARM
     SAT-8半自動霰彈槍](https://zh.wikipedia.org/wiki/FABARM_SAT-8半自動霰彈槍 "wikilink")
   - [黑克勒-科赫武器列表](../Page/黑克勒-科赫武器列表.md "wikilink")

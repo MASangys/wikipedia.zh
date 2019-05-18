@@ -10,7 +10,7 @@ Media的首席执行官也是曾经AOL的主管之一的杰夫·班考夫相中�
 Verge](../Page/The_Verge.md "wikilink")，其新颖的页面设计和的纪实的数码产品评测视频，以及像[微软](../Page/微软.md "wikilink")、[宝马等赞助商的支持](https://zh.wikipedia.org/wiki/宝马 "wikilink")；这些让格兰特开始重新考虑班考夫的邀请。\[2\]
 
 在2012年1月时，格兰特从Joystiq辞职并带着几个他的团队成员来到了这个新的项目。此外他还分别从游戏网站[Kotaku和游戏杂志](../Page/Kotaku.md "wikilink")《[The
-Escapist](https://zh.wikipedia.org/wiki/The_Escapist "wikilink")》招募来了它们的首席编辑布莱恩·奎森特（Brian
+Escapist](../Page/The_Escapist.md "wikilink")》招募来了它们的首席编辑布莱恩·奎森特（Brian
 Crecente）和洛斯·皮茨（Russ Pitts）；至此的团队人数达到了16人。\[3\]
 作为新网站的首席编辑，格兰特说他加入这家新的网站是想通过Polygon在探究游戏幕后的方面和游戏开发流程的事情，让人们能感受到这家网站的价值，并以此来获得能有一个可以完全重新定义游戏网站的机会。\[4\]\[5\]
 网站的管理编辑，贾斯汀·麦肯沃伊认为Polygon将会反映“游戏开发中人性的那一面以及聚焦发生在人们身上的事情”。\[6\]

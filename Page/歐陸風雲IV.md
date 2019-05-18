@@ -1,5 +1,5 @@
 《**歐陸風雲IV**》（）是由[Paradox Development
-Studio開發的](https://zh.wikipedia.org/wiki/Paradox_Development_Studio "wikilink")[即時戰略遊戲](../Page/即时战略游戏.md "wikilink")，在2013年8月13日由[Paradox
+Studio開發的](../Page/Paradox_Development_Studio.md "wikilink")[即時戰略遊戲](../Page/即时战略游戏.md "wikilink")，在2013年8月13日由[Paradox
 Interactive發行](../Page/Paradox_Interactive.md "wikilink")，是《[歐陸風雲III](../Page/歐陸風雲III.md "wikilink")》的后续版本，以[1444年到](../Page/1444年.md "wikilink")[1821年](https://zh.wikipedia.org/wiki/1821年 "wikilink")，歷經[大航海時代](https://zh.wikipedia.org/wiki/大航海時代 "wikilink")、[文藝復興](https://zh.wikipedia.org/wiki/文藝復興 "wikilink")、西歐殖民時代、至[法國大革命的歐洲關鍵時代為背景的歷史戰略遊戲](https://zh.wikipedia.org/wiki/法國大革命 "wikilink")。玩家可以扮演這段時期“全球任何一個國家”；東起[日本](../Page/日本.md "wikilink")、西至[美洲新大陸](../Page/美洲.md "wikilink")，這些國家的未來，端看玩家是順應局勢變為[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")[霸主](https://zh.wikipedia.org/wiki/霸主 "wikilink")、或通過穷兵黩武成為[軍事](../Page/軍事.md "wikilink")[帝國](https://zh.wikipedia.org/wiki/帝國 "wikilink")。
 
 ## 遊戲內容
@@ -248,7 +248,7 @@ Interactive發行](../Page/Paradox_Interactive.md "wikilink")，是《[歐陸風
 <td><p>无</p></td>
 <td><p>主要变化：欧洲事件组、外交界面、AI</p>
 <ul>
-<li>增加更多<a href="../Page/三十年戰爭.md" title="wikilink">三十年戰爭和</a><a href="https://zh.wikipedia.org/wiki/拿破仑时代" title="wikilink">拿破仑时代相關事件</a></li>
+<li>增加更多<a href="../Page/三十年戰爭.md" title="wikilink">三十年戰爭和</a><a href="../Page/拿破仑时代.md" title="wikilink">拿破仑时代相關事件</a></li>
 <li><strong>重大更新：加強外交功能並擴大地圖省份將近2倍</strong></li>
 <li>修改叛亂和戰鬥機制並增強AI</li>
 <li><strong>重要更新：增加新附庸類型——衛戍國（March）</strong></li>
@@ -499,7 +499,7 @@ Interactive發行](../Page/Paradox_Interactive.md "wikilink")，是《[歐陸風
 <ul>
 <li>增加地圖共享功能和海軍任務</li>
 <li>增加貿易聯盟及傭兵系統</li>
-<li>增加北非與地中海相關事件，同時加強<a href="https://zh.wikipedia.org/wiki/巴巴里海盗" title="wikilink">海盜系統</a></li>
+<li>增加北非與地中海相關事件，同時加強<a href="../Page/巴巴里海盗.md" title="wikilink">海盜系統</a></li>
 </ul></td>
 </tr>
 <tr class="odd">

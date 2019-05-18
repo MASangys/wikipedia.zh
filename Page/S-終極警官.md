@@ -20,7 +20,7 @@ Comic](../Page/Big_Comic.md "wikilink")》開始連載，至2013年10月已經�
     主角。警察廳刑事局搜查第一課NPS的隊員、階級為[巡査](https://zh.wikipedia.org/wiki/巡査 "wikilink")。曾為拳擊手，小時候朋友父母被人殺害的場景一直存在他記憶中難以抹去，而決定投入警界。
     連續劇中原為派出所的巡查，在一次的槍擊案件中挺身營救同伴，被NPS隊長香椎所看中，因認同隊長的理念決定加入NPS。小時候與結弦父母一起出門與結弦一同目睹了結弦父母被歹徒所殺害，而立志成為拳擊手保護他人，因拳擊會長的一句話「你的手並非用來打倒對手，而是用來守護人的」，轉而投入警界。
   - 香椎秀樹- 41歳
-    演 - [大森南朋](https://zh.wikipedia.org/wiki/大森南朋 "wikilink")
+    演 - [大森南朋](../Page/大森南朋.md "wikilink")
     警察廳刑事局捜査第一課NPS隊長、階級為[警視](../Page/警視.md "wikilink")。在警察學校中以第一名畢業，拿過警察廳長官獎2回、警視總監獎4回的前SAT。
     劇中在新宿槍擊事件上看到了神御藏的英勇表現，在進行身家調查後以NPS的理念說服了神御藏加入團隊。
   - 速田仁 - 35歳
@@ -34,7 +34,7 @@ Comic](../Page/Big_Comic.md "wikilink")》開始連載，至2013年10月已經�
     警察廳刑事局捜査第一課NPS隊員、階級為[巡査部長](https://zh.wikipedia.org/wiki/巡査部長 "wikilink")。負責[警察犬的訓練](https://zh.wikipedia.org/wiki/警察犬 "wikilink")。不只對訓練精通，對於化學藥品也有相當知識，在事件發生時在NPS技術班中相當活躍。
   - 林伊琉真 - 26歳
     演 - [新垣結衣](../Page/新垣結衣.md "wikilink")（香港配音：）
-    警察廳刑事局搜查第一課NPS隊員、階級為巡査。為NPS的新隊員中**唯一女性隊員**。宮崎縣出身。為前[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")[中央即應集團](https://zh.wikipedia.org/wiki/中央即應集團 "wikilink")[特殊作戰群成員](https://zh.wikipedia.org/wiki/特殊作戰群 "wikilink")。
+    警察廳刑事局搜查第一課NPS隊員、階級為巡査。為NPS的新隊員中**唯一女性隊員**。宮崎縣出身。為前[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")[中央即應集團](../Page/中央即應集團.md "wikilink")[特殊作戰群成員](https://zh.wikipedia.org/wiki/特殊作戰群 "wikilink")。
 
 ### 警視廳SAT
 
@@ -129,7 +129,7 @@ Police Safetyrescue）本劇為有著「守護之手」之稱的主角神御藏�
     霧山六郎〈68〉 -
     [近藤正臣](https://zh.wikipedia.org/wiki/近藤正臣 "wikilink")（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
     香椎秀樹〈41〉 -
-    [大森南朋](https://zh.wikipedia.org/wiki/大森南朋 "wikilink")（香港配音：[陳卓智](../Page/陳卓智.md "wikilink")）
+    [大森南朋](../Page/大森南朋.md "wikilink")（香港配音：[陳卓智](../Page/陳卓智.md "wikilink")）
     中丸文夫〈45〉 -
     [高嶋政宏](../Page/高嶋政宏.md "wikilink")（香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
     古橋誠二郎〈34〉 -
@@ -173,7 +173,7 @@ Police Safetyrescue）本劇為有著「守護之手」之稱的主角神御藏�
   - 棟方佑介〈享年33〉 - [原田裕章](https://zh.wikipedia.org/wiki/原田裕章 "wikilink")
     結弦的父親。
   - 奥村麻美 - [八木菜菜花](https://zh.wikipedia.org/wiki/八木菜菜花 "wikilink")
-    中井千里 - [彌香](https://zh.wikipedia.org/wiki/彌香 "wikilink")
+    中井千里 - [彌香](../Page/彌香.md "wikilink")
     前島美香 - 安納（Santoz Ana）
     以上3人為結弦的護理師同事。
   - 正木圭吾 -
@@ -428,7 +428,7 @@ Police Safetyrescue）本劇為有著「守護之手」之稱的主角神御藏�
 
   - 正木圭吾 - [小田切讓](https://zh.wikipedia.org/wiki/小田切讓 "wikilink")
     香椎秀樹〈41〉 -
-    [大森南朋](https://zh.wikipedia.org/wiki/大森南朋 "wikilink")（香港配音：[李家傑](../Page/李家傑_\(配音員\).md "wikilink")）
+    [大森南朋](../Page/大森南朋.md "wikilink")（香港配音：[李家傑](../Page/李家傑_\(配音員\).md "wikilink")）
     古橋誠二郎〈34〉 - [池内博之](../Page/池内博之.md "wikilink")
     速田仁〈35〉 - [平山浩行](../Page/平山浩行.md "wikilink")
     梶尾龍一〈31〉 - [高橋努](../Page/高橋努.md "wikilink")

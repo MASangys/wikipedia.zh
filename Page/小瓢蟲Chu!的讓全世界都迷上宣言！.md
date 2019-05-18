@@ -1,4 +1,4 @@
-《**小瓢蟲Chu\!的讓全世界都迷上宣言！**》（）是[日本電視台於](../Page/日本電視台.md "wikilink")2014年4月15日至7月8日間播出的一個深夜檔[綜藝節目](../Page/綜藝節目.md "wikilink")。該節目是[日本女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48集團下屬的衍生團體](https://zh.wikipedia.org/wiki/AKB48集團 "wikilink")[小瓢蟲Chu\!的冠名節目](https://zh.wikipedia.org/wiki/小瓢蟲Chu! "wikilink")，由小瓢蟲Chu\!的7名成員領銜演出，並由資深[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[土田晃之擔任](https://zh.wikipedia.org/wiki/土田晃之 "wikilink")[節目主持](https://zh.wikipedia.org/wiki/主持人 "wikilink")。節目於每週一晚間25時29分（相當於週二凌晨1時29分）開始，每集片長30分鐘，播出一季共12集。
+《**小瓢蟲Chu\!的讓全世界都迷上宣言！**》（）是[日本電視台於](../Page/日本電視台.md "wikilink")2014年4月15日至7月8日間播出的一個深夜檔[綜藝節目](../Page/綜藝節目.md "wikilink")。該節目是[日本女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48集團下屬的衍生團體](../Page/AKB48集團.md "wikilink")[小瓢蟲Chu\!的冠名節目](../Page/小瓢蟲Chu!.md "wikilink")，由小瓢蟲Chu\!的7名成員領銜演出，並由資深[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[土田晃之擔任](../Page/土田晃之.md "wikilink")[節目主持](https://zh.wikipedia.org/wiki/主持人 "wikilink")。節目於每週一晚間25時29分（相當於週二凌晨1時29分）開始，每集片長30分鐘，播出一季共12集。
 
 ## 簡介
 
@@ -19,13 +19,13 @@ AKB48集團的衍生團體「小瓢蟲Chu\!」，是一個集合了[AKB48](../Pa
 
 <!-- end list -->
 
-  - [土田晃之](https://zh.wikipedia.org/wiki/土田晃之 "wikilink")（主持人）
+  - [土田晃之](../Page/土田晃之.md "wikilink")（主持人）
 
-  - [小瓢蟲Chu\!](https://zh.wikipedia.org/wiki/小瓢蟲Chu! "wikilink")（）
+  - [小瓢蟲Chu\!](../Page/小瓢蟲Chu!.md "wikilink")（）
 
-      - AKB48：[岡田奈奈](../Page/岡田奈奈_\(AKB48\).md "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[西野未姬](https://zh.wikipedia.org/wiki/西野未姬 "wikilink")
-      - SKE48：[北川綾巴](https://zh.wikipedia.org/wiki/北川綾巴 "wikilink")
-      - NMB48：[澀谷凪咲](https://zh.wikipedia.org/wiki/澀谷凪咲 "wikilink")
+      - AKB48：[岡田奈奈](../Page/岡田奈奈_\(AKB48\).md "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[西野未姬](../Page/西野未姬.md "wikilink")
+      - SKE48：[北川綾巴](../Page/北川綾巴.md "wikilink")
+      - NMB48：[澀谷凪咲](../Page/澀谷凪咲.md "wikilink")
       - HKT48：[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[朝長美櫻](../Page/朝長美櫻.md "wikilink")
 
   - （，[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")）

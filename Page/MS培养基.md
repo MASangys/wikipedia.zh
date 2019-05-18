@@ -44,7 +44,7 @@
   - [吡哆醇盐酸盐](../Page/吡哆醇.md "wikilink") **0.5 mg/l**
   - [硫胺盐酸盐](../Page/硫胺.md "wikilink")**0.1 mg/l**
   - [IAA](../Page/吲哚-3-乙酸.md "wikilink") **1–30 mg/l**
-  - [激动素](https://zh.wikipedia.org/wiki/激动素 "wikilink") **0.04–10 mg/l**
+  - [激动素](../Page/激动素.md "wikilink") **0.04–10 mg/l**
   - [甘氨酸](../Page/甘氨酸.md "wikilink") (重结晶) **2.0 mg/l**
   - [乙二胺](../Page/乙二胺.md "wikilink") **1.0 g/l**
 

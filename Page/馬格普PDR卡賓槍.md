@@ -1,8 +1,8 @@
-**馬格普PDR**（PDR為個人防衛步槍的[英語縮寫](https://zh.wikipedia.org/wiki/英語 "wikilink")）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[馬格普工業公司正在研製的一種](https://zh.wikipedia.org/wiki/馬格普工業公司 "wikilink")[5.56×45毫米口徑](../Page/5.56×45mm_NATO.md "wikilink")[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")（[個人防衛武器](../Page/個人防衛武器.md "wikilink")），研製目的是旨在取代在軍隊中服役的部份[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")、[M9手槍和](https://zh.wikipedia.org/wiki/M9手槍 "wikilink")[M4卡賓槍等武器](../Page/M4卡賓槍.md "wikilink")。由於此槍在外觀上具有相當豐富的「[未來主義](https://zh.wikipedia.org/wiki/未來主義 "wikilink")」風格，因而受到大眾的關注。
+**馬格普PDR**（PDR為個人防衛步槍的[英語縮寫](https://zh.wikipedia.org/wiki/英語 "wikilink")）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[馬格普工業公司正在研製的一種](../Page/馬格普工業公司.md "wikilink")[5.56×45毫米口徑](../Page/5.56×45mm_NATO.md "wikilink")[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")（[個人防衛武器](../Page/個人防衛武器.md "wikilink")），研製目的是旨在取代在軍隊中服役的部份[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")、[M9手槍和](https://zh.wikipedia.org/wiki/M9手槍 "wikilink")[M4卡賓槍等武器](../Page/M4卡賓槍.md "wikilink")。由於此槍在外觀上具有相當豐富的「[未來主義](https://zh.wikipedia.org/wiki/未來主義 "wikilink")」風格，因而受到大眾的關注。
 
 ## 概述
 
-馬格普PDR為一種採用[導氣原理](https://zh.wikipedia.org/wiki/氣動式 "wikilink")，[滾轉式槍機運作的個人防衛武器系統](../Page/滾轉式槍機.md "wikilink")，其槍身採用了[犢牛式設計](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")，並顯得相當短小和緊湊。該槍亦是少數地採用標準口徑的個人防衛武器，目的是為了能讓使用方減低在戰場上的後勤負擔。其載彈量為20或30發，並採用由馬格普工業公司生產的P-MAG彈匣供彈，但亦可對應其他[STANAG彈匣](../Page/STANAG彈匣.md "wikilink")。本槍的標準瞄具為[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")，用戶也可在[機匣頂部的戰術導軌上裝上各種瞄準鏡](https://zh.wikipedia.org/wiki/機匣 "wikilink")。
+馬格普PDR為一種採用[導氣原理](https://zh.wikipedia.org/wiki/氣動式 "wikilink")，[滾轉式槍機運作的個人防衛武器系統](../Page/滾轉式槍機.md "wikilink")，其槍身採用了[犢牛式設計](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")，並顯得相當短小和緊湊。該槍亦是少數地採用標準口徑的個人防衛武器，目的是為了能讓使用方減低在戰場上的後勤負擔。其載彈量為20或30發，並採用由馬格普工業公司生產的P-MAG彈匣供彈，但亦可對應其他[STANAG彈匣](../Page/STANAG彈匣.md "wikilink")。本槍的標準瞄具為[機械瞄具](../Page/機械瞄具.md "wikilink")，用戶也可在[機匣頂部的戰術導軌上裝上各種瞄準鏡](https://zh.wikipedia.org/wiki/機匣 "wikilink")。
 
 ## 衍生型
 

@@ -1,11 +1,11 @@
-**Upstart**是一个[基于事件的](../Page/事件驅動程式設計.md "wikilink")[init程式](../Page/init.md "wikilink")
-，用于替代传统的[init](../Page/init.md "wikilink")（多种[类Unix计算机](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统启动时用于执行任务的程序](../Page/操作系统.md "wikilink")）。它是由[Canonical公司前雇员](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")[Scott
+**Upstart**是一个[基于事件的](../Page/事件驅動程式設計.md "wikilink")[init程式](https://zh.wikipedia.org/wiki/init "wikilink")
+，用于替代传统的[init](https://zh.wikipedia.org/wiki/init "wikilink")（多种[类Unix计算机](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统启动时用于执行任务的程序](../Page/操作系统.md "wikilink")）。它是由[Canonical公司前雇员](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")[Scott
 James
 Remnant所写](https://zh.wikipedia.org/wiki/Scott_James_Remnant "wikilink")。
 
 ## 解释
 
-传统的init进程原本只负责在开机后将计算机带入正常运行状态，并且在正常关机前关闭服务。因此，它的设计是严格[同步的](https://zh.wikipedia.org/wiki/同步_\(计算机科学\) "wikilink")，且会[阻塞未来的任务](https://zh.wikipedia.org/wiki/阻塞_\(计算机\) "wikilink")，直到完成当前任务。因为受限于准备或清除函数，它的任务也是事先定义的。这使得它无法简洁地处理现代[桌面计算机上的各种非启动任务](https://zh.wikipedia.org/wiki/桌面计算机 "wikilink")，其中包括：
+传统的init进程原本只负责在开机后将计算机带入正常运行状态，并且在正常关机前关闭服务。因此，它的设计是严格[同步的](../Page/同步_\(计算机科学\).md "wikilink")，且会[阻塞未来的任务](https://zh.wikipedia.org/wiki/阻塞_\(计算机\) "wikilink")，直到完成当前任务。因为受限于准备或清除函数，它的任务也是事先定义的。这使得它无法简洁地处理现代[桌面计算机上的各种非启动任务](https://zh.wikipedia.org/wiki/桌面计算机 "wikilink")，其中包括：
 
   - 机器运行时添加或删除[U盘和其他便携式存储](https://zh.wikipedia.org/wiki/U盘 "wikilink")/网络设备
   - 发现并扫描新存储设备而不锁定系统，尤其是当磁盘没被扫描就不运行时
@@ -17,7 +17,7 @@ Upstart的事件驱动模型允许它以异步方式对生成的事件作出回�
 
 Upstart是异步工作的；它在系统运行时监督服务，并且在开关机时启动和关闭任务和服务。
 
-对[sysvinit简单的过渡和完善的](https://zh.wikipedia.org/wiki/sysvinit "wikilink")[向后兼容是明确的设计目标](../Page/向下兼容.md "wikilink")；\[2\]因此，Upstart能运行未经修改的sysvinit脚本。因此，与大多数其他的init替代（除了[systemd和](../Page/systemd.md "wikilink")[OpenRC](https://zh.wikipedia.org/wiki/OpenRC "wikilink")）不同，它们通常假设并要求彻底的过渡，以正常运行，且不支持新旧启动方法混合的环境。\[3\]
+对[sysvinit简单的过渡和完善的](https://zh.wikipedia.org/wiki/sysvinit "wikilink")[向后兼容是明确的设计目标](../Page/向下兼容.md "wikilink")；\[2\]因此，Upstart能运行未经修改的sysvinit脚本。因此，与大多数其他的init替代（除了[systemd和](https://zh.wikipedia.org/wiki/systemd "wikilink")[OpenRC](https://zh.wikipedia.org/wiki/OpenRC "wikilink")）不同，它们通常假设并要求彻底的过渡，以正常运行，且不支持新旧启动方法混合的环境。\[3\]
 
 通过使用initctl输入自定义的单一事件，或整合更多更复杂事件的事件桥，Upstart允许扩展其事件模型。\[4\]默认情况下，Upstart包括接口（socket）、dbus、udev、文件及dconf事件桥；另外，可以有更多种桥（例如[Mach端口桥](../Page/Mach.md "wikilink")，或devd（[FreeBSD系统上](../Page/FreeBSD.md "wikilink")）桥）。\[5\]
 
@@ -36,7 +36,7 @@ Upstart是异步工作的；它在系统运行时监督服务，并且在开关�
   - [Ubuntu首次在](../Page/Ubuntu.md "wikilink")2006年底*[6.10 (Edgy
     Eft)](https://zh.wikipedia.org/wiki/Ubuntu发行版列表#Ubuntu_6.10_\(Edgy_Eft\) "wikilink")*版中包含Upstart，以取代[sysvinit](https://zh.wikipedia.org/wiki/sysvinit "wikilink")。Ubuntu
     9.10(Karmic Koala) Alpha
-    6中推出可原生启动的Upstart。\[9\]反过来，在2014年Debian项目决定在未来的版本中使用[systemd后](../Page/systemd.md "wikilink")，Ubuntu在15.04起亦改用systemd，以保持与上游一致。\[10\]\[11\]
+    6中推出可原生启动的Upstart。\[9\]反过来，在2014年Debian项目决定在未来的版本中使用[systemd后](https://zh.wikipedia.org/wiki/systemd "wikilink")，Ubuntu在15.04起亦改用systemd，以保持与上游一致。\[10\]\[11\]
 
   - 在[Fedora](../Page/Fedora.md "wikilink")
     9中，Upstart替换了[sysvinit](https://zh.wikipedia.org/wiki/sysvinit "wikilink")，然而，systemd在Fedora15版本替代了Upstart。\[12\]\[13\]
@@ -49,8 +49,8 @@ Upstart是异步工作的；它在系统运行时监督服务，并且在开关�
     Linux](../Page/Oracle_Linux.md "wikilink")。RHEL
     7中将使用systemd。\[15\]\[16\]
 
-  - [openSUSE在](../Page/openSUSE.md "wikilink")11.3 Milestone
-    4版包含了upstart，但未作为默认。\[17\]在openSUSE
+  - [openSUSE在](https://zh.wikipedia.org/wiki/openSUSE "wikilink")11.3
+    Milestone 4版包含了upstart，但未作为默认。\[17\]在openSUSE
     12.1版中，systemd取代Upstart作为默认init系统。\[18\]
 
   - Upstart被用于[惠普](../Page/惠普.md "wikilink")[Palm
@@ -65,7 +65,7 @@ Upstart是异步工作的；它在系统运行时监督服务，并且在开关�
 
   - [服务管理工具](https://zh.wikipedia.org/wiki/服务管理工具 "wikilink")
   - [OpenRC](https://zh.wikipedia.org/wiki/OpenRC "wikilink")
-  - [systemd](../Page/systemd.md "wikilink")
+  - [systemd](https://zh.wikipedia.org/wiki/systemd "wikilink")
 
 ## 参考
 
@@ -80,7 +80,7 @@ Upstart是异步工作的；它在系统运行时监督服务，并且在开关�
     Cookbook](http://upstart.ubuntu.com/cookbook/upstart_cookbook.pdf)
 
   - 初始化系统比较：[part 1](https://lwn.net/Articles/578209/)和[part 2](https://lwn.net/Articles/578210/)
-    ([LWN.net](https://zh.wikipedia.org/wiki/LWN.net "wikilink"))
+    ([LWN.net](../Page/LWN.net.md "wikilink"))
 
 [Category:Unix进程和任务管理相关软件](https://zh.wikipedia.org/wiki/Category:Unix进程和任务管理相关软件 "wikilink")
 [Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")

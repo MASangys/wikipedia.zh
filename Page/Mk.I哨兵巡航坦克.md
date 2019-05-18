@@ -3,7 +3,7 @@
 ## 歷史
 
 AC Mk.I(在1940年11月開始研發，計劃安裝[QF
-2磅炮](https://zh.wikipedia.org/wiki/QF_2磅炮 "wikilink")。它是一款真正的[巡航坦克](https://zh.wikipedia.org/wiki/巡航坦克 "wikilink")，類似于加拿大的[白羊坦克](../Page/白羊坦克.md "wikilink")，澳大利亞的巡航坦克設計上借鑑了美國[M3李戰車的發動機](../Page/M3李戰車.md "wikilink")，傳動系統和底盤。但是裝甲來得更厚，並且炮塔的樣式比較接近英國的[巡航坦克](https://zh.wikipedia.org/wiki/巡航坦克 "wikilink")。但是，1942年，爲了能夠趕上德國的坦克設計水平，設計指標更偏向于美式的[中型坦克](../Page/中型坦克.md "wikilink")。
+2磅炮](../Page/QF_2磅炮.md "wikilink")。它是一款真正的[巡航坦克](https://zh.wikipedia.org/wiki/巡航坦克 "wikilink")，類似于加拿大的[白羊坦克](../Page/白羊坦克.md "wikilink")，澳大利亞的巡航坦克設計上借鑑了美國[M3李戰車的發動機](../Page/M3李戰車.md "wikilink")，傳動系統和底盤。但是裝甲來得更厚，並且炮塔的樣式比較接近英國的[巡航坦克](https://zh.wikipedia.org/wiki/巡航坦克 "wikilink")。但是，1942年，爲了能夠趕上德國的坦克設計水平，設計指標更偏向于美式的[中型坦克](../Page/中型坦克.md "wikilink")。
 
 因為澳大利亞以前缺乏坦克的設計經驗，一個代表團被派往美國考察M3“李”戰車的設計。同時，英國派出了一名有著多年坦克設計經驗的炮兵軍官，W.D.沃森
 MC上校。他在1940年12月抵達了澳大利亞。\[2\]
@@ -31,7 +31,7 @@ AC3同樣由3台V8引擎驅動，不過 他們現在呈放射狀地安裝在一�
 [AC_E1(AWM_P03498.010).jpg](https://zh.wikipedia.org/wiki/File:AC_E1\(AWM_P03498.010\).jpg "fig:AC_E1(AWM_P03498.010).jpg")
 
 爲了進一步提高該坦克的火力，一種能夠安裝當時[盟軍最先進的反坦克炮](https://zh.wikipedia.org/wiki/盟軍 "wikilink")——[QF
-17磅炮的炮塔被研發出來](https://zh.wikipedia.org/wiki/QF_17磅炮 "wikilink")。\[6\]並被安裝在了AC4坦克上。這種炮塔款式更新，尺寸更大，被安裝在一個70英寸（合1778mm）的炮塔座圈上。爲了安裝這個炮塔，發動機的佈局變得緊湊了一些。\[7\]
+17磅炮的炮塔被研發出來](../Page/QF_17磅炮.md "wikilink")。\[6\]並被安裝在了AC4坦克上。這種炮塔款式更新，尺寸更大，被安裝在一個70英寸（合1778mm）的炮塔座圈上。爲了安裝這個炮塔，發動機的佈局變得緊湊了一些。\[7\]
 
 ## 服役
 

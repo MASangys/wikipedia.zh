@@ -23,7 +23,7 @@ BS1自](../Page/NHK_BS1.md "wikilink")2011年（[平成23年](https://zh.wikiped
       - 「[KBS新聞廣場](https://zh.wikipedia.org/wiki/KBS新聞廣場 "wikilink")」韓國KBS
       - 「中国新闻」[CCTV-4](https://zh.wikipedia.org/wiki/CCTV-4 "wikilink")
       - 「[ABC世界新聞](../Page/ABC世界新聞.md "wikilink")」[美國廣播公司](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")
-      - 「[今日新聞](https://zh.wikipedia.org/wiki/今日新聞_\(德國\) "wikilink")」德國ARD（僅禮拜日）
+      - 「[今日新聞](../Page/今日新聞_\(德國\).md "wikilink")」德國ARD（僅禮拜日）
       - 「heute」德國ZDF
       - 「Вести」俄羅斯RTR
   - 禮拜一至禮拜五12:25-12:50
@@ -59,8 +59,7 @@ BS1自](../Page/NHK_BS1.md "wikilink")2011年（[平成23年](https://zh.wikiped
       - 「Main News」香港ATV
       - [泰國CH9](https://zh.wikipedia.org/wiki/MCOT "wikilink")
       - 「Thời sự」越南VTV4
-      - 「The World
-        Tonight」[菲律賓ABS-CBN](https://zh.wikipedia.org/wiki/ABS-CBN "wikilink")
+      - 「The World Tonight」[菲律賓ABS-CBN](../Page/ABS-CBN.md "wikilink")
 
 ### World Wave Tonight
 
@@ -79,8 +78,8 @@ BS1自](../Page/NHK_BS1.md "wikilink")2011年（[平成23年](https://zh.wikiped
 | 由野田和德住同時主持，或由高橋和佐野主持                                               |                |           |
 | [小穴薫](https://zh.wikipedia.org/wiki/小穴薫 "wikilink")                | 17點的Asia       |           |
 | [高尾潤](https://zh.wikipedia.org/wiki/高尾潤 "wikilink")                | Tonight        |           |
-| [鎌倉千秋](https://zh.wikipedia.org/wiki/鎌倉千秋 "wikilink")              |                |           |
-| [黑木奈奈](https://zh.wikipedia.org/wiki/黑木奈奈 "wikilink")              |                |           |
+| [鎌倉千秋](../Page/鎌倉千秋.md "wikilink")                                 |                |           |
+| [黑木奈奈](../Page/黑木奈奈.md "wikilink")                                 |                |           |
 
 ## 參考資料
 

@@ -1,7 +1,7 @@
 《***Mycelium Running: How Mushrooms Can Help Save the
 World***》是美國[真菌學家](../Page/真菌學.md "wikilink")[保羅·史塔曼茲的第六本著作](https://zh.wikipedia.org/wiki/保羅·史塔曼茲 "wikilink")，由在2005年出版。
 
-在本書中，史塔曼茲主要探討將[真菌應用在](https://zh.wikipedia.org/wiki/真菌 "wikilink")[生物修復](https://zh.wikipedia.org/wiki/生物修復 "wikilink")--即[真菌修復的方法](../Page/真菌修復.md "wikilink")，他詳細描述了以無毒的[菌絲體抑制](../Page/菌絲體.md "wikilink")[螞蟻](https://zh.wikipedia.org/wiki/螞蟻 "wikilink")、[白蟻等昆蟲的方法](../Page/白蟻.md "wikilink")，甚至還可利用真菌治療[炭疽病](../Page/炭疽病.md "wikilink")、[天花或中和](https://zh.wikipedia.org/wiki/天花 "wikilink")[神經毒素](../Page/神經毒素.md "wikilink")\[1\]\[2\]。
+在本書中，史塔曼茲主要探討將[真菌應用在](../Page/真菌.md "wikilink")[生物修復](../Page/生物修復.md "wikilink")--即[真菌修復的方法](../Page/真菌修復.md "wikilink")，他詳細描述了以無毒的[菌絲體抑制](../Page/菌絲體.md "wikilink")[螞蟻](https://zh.wikipedia.org/wiki/螞蟻 "wikilink")、[白蟻等昆蟲的方法](../Page/白蟻.md "wikilink")，甚至還可利用真菌治療[炭疽病](../Page/炭疽病.md "wikilink")、[天花或中和](https://zh.wikipedia.org/wiki/天花 "wikilink")[神經毒素](../Page/神經毒素.md "wikilink")\[1\]\[2\]。
 
 ## 參考資料
 

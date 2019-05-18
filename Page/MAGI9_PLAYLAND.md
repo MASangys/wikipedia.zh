@@ -5,12 +5,12 @@ Records發行](../Page/SME_Records.md "wikilink")\[1\]。
 ## 概要
 
 《MAGI9
-PLAYLAND》是9nine距離前一張專輯《》約1年4個月後再次發行的新專輯。除通常盤以外，本作亦同時發行「初回生產限定盤A」和「初回生產限定盤B」，共計三個版本。當中「初回生產限定盤A」附帶的[DVD收錄了](https://zh.wikipedia.org/wiki/DVD "wikilink")3首單曲A面曲之音樂影片、以及[西脇彩華在](https://zh.wikipedia.org/wiki/西脇彩華 "wikilink")2014年3月與姊姊[Perfume的](https://zh.wikipedia.org/wiki/Perfume "wikilink")[西脇綾香首次合演的](https://zh.wikipedia.org/wiki/Perfume "wikilink")「Perfume
+PLAYLAND》是9nine距離前一張專輯《》約1年4個月後再次發行的新專輯。除通常盤以外，本作亦同時發行「初回生產限定盤A」和「初回生產限定盤B」，共計三個版本。當中「初回生產限定盤A」附帶的[DVD收錄了](https://zh.wikipedia.org/wiki/DVD "wikilink")3首單曲A面曲之音樂影片、以及[西脇彩華在](../Page/西脇彩華.md "wikilink")2014年3月與姊姊[Perfume的](https://zh.wikipedia.org/wiki/Perfume "wikilink")[西脇綾香首次合演的](https://zh.wikipedia.org/wiki/Perfume "wikilink")「Perfume
 FES\!\! 2014」特典影片；「初回生產限定盤B」則附送24頁相片集。\[2\]
 
 ## 收錄曲
 
-1.  [Re:](https://zh.wikipedia.org/wiki/Re:_\(9nine單曲\) "wikilink")
+1.  [Re:](../Page/Re:_\(9nine單曲\).md "wikilink")
 2.  Forget-U-not
 3.  [With You/With
     Me](https://zh.wikipedia.org/wiki/With_You/With_Me "wikilink")
@@ -23,8 +23,7 @@ FES\!\! 2014」特典影片；「初回生產限定盤B」則附送24頁相片�
 10. To be continued...
 11. 【fu:】
 12. D.N.A.
-13. [Evolution
-    No.9](https://zh.wikipedia.org/wiki/Evolution_No.9 "wikilink")
+13. [Evolution No.9](../Page/Evolution_No.9.md "wikilink")
 14. ALGORITHM+LOVE
 15. Prism Drops & Falls
 
@@ -75,7 +74,7 @@ FES\!\! 2014」特典影片；「初回生產限定盤B」則附送24頁相片�
 ## 參見
 
   - 《[Cling
-    Cling](https://zh.wikipedia.org/wiki/Cling_Cling "wikilink")》：Perfume於同年7月發行的單曲，同樣收錄了西脇姊妹共演的特典影片。
+    Cling](../Page/Cling_Cling.md "wikilink")》：Perfume於同年7月發行的單曲，同樣收錄了西脇姊妹共演的特典影片。
 
 ## 參考文獻
 

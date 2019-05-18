@@ -195,7 +195,7 @@ AF兼容卡口的单反和](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")
 
 <!-- end list -->
 
-  - [电子取景器](https://zh.wikipedia.org/wiki/电子取景器 "wikilink")
+  - [电子取景器](../Page/电子取景器.md "wikilink")
   - [MI热靴](../Page/MI热靴.md "wikilink")
   - [索尼NEX系列相机配件列表](../Page/索尼NEX系列相机配件列表.md "wikilink")
 

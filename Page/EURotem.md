@@ -1,9 +1,9 @@
 [Bostanci1.JPG](https://zh.wikipedia.org/wiki/File:Bostanci1.JPG "fig:Bostanci1.JPG")
-****，全名為現代（）是一間鐵路製造公司，該公司由[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[現代Rotem與](../Page/現代Rotem.md "wikilink")[土耳其](../Page/土耳其.md "wikilink")[TÜVASAŞ合資於](https://zh.wikipedia.org/wiki/TÜVASAŞ "wikilink")2006年成立\[1\]，並於2007年開始投產。\[2\]EURotem於[土耳其](../Page/土耳其.md "wikilink")[阿達帕扎勒設立工廠進行列車組裝](https://zh.wikipedia.org/wiki/阿達帕扎勒 "wikilink")、製造業務。目前該公司正與[土耳其國鐵合作進行土耳其高速鐵路計畫列車的設計作業](https://zh.wikipedia.org/wiki/土耳其國家鐵路 "wikilink")。\[3\]
+****，全名為現代（）是一間鐵路製造公司，該公司由[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[現代Rotem與](../Page/現代Rotem.md "wikilink")[土耳其](../Page/土耳其.md "wikilink")[TÜVASAŞ合資於](https://zh.wikipedia.org/wiki/TÜVASAŞ "wikilink")2006年成立\[1\]，並於2007年開始投產。\[2\]EURotem於[土耳其](../Page/土耳其.md "wikilink")[阿達帕扎勒設立工廠進行列車組裝](https://zh.wikipedia.org/wiki/阿達帕扎勒 "wikilink")、製造業務。目前該公司正與[土耳其國鐵合作進行土耳其高速鐵路計畫列車的設計作業](../Page/土耳其國家鐵路.md "wikilink")。\[3\]
 
 ## 製造史
 
-目前EURotem已經製造出24輛[柴聯車](../Page/柴聯車.md "wikilink")\[4\]、96輛[電聯車](../Page/電聯車.md "wikilink")\[5\]，柴聯車部分營運於[土耳其國鐵](https://zh.wikipedia.org/wiki/土耳其國家鐵路 "wikilink")，電聯車部分營運於伊斯坦布爾地鐵。\[6\]
+目前EURotem已經製造出24輛[柴聯車](../Page/柴聯車.md "wikilink")\[4\]、96輛[電聯車](../Page/電聯車.md "wikilink")\[5\]，柴聯車部分營運於[土耳其國鐵](../Page/土耳其國家鐵路.md "wikilink")，電聯車部分營運於伊斯坦布爾地鐵。\[6\]
 
 ## 參考
 

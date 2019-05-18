@@ -1,12 +1,12 @@
 **Mad Head
-Limited（瘋頭）**，簡稱**Madhead**，是位於[香港的](../Page/香港.md "wikilink")[手機遊戲開發商兼營運商](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，於2008年創立\[1\]，其產品《[神魔之塔](https://zh.wikipedia.org/wiki/神魔之塔 "wikilink")》是目前聞名於亚洲地區的遊戲。[雲遊控股於](https://zh.wikipedia.org/wiki/雲遊控股 "wikilink")2014年3月以7,000萬美元收購Madhead的25％權益\[2\]，但並未成功\[3\]\[4\]。
+Limited（瘋頭）**，簡稱**Madhead**，是位於[香港的](../Page/香港.md "wikilink")[手機遊戲開發商兼營運商](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，於2008年創立\[1\]，其產品《[神魔之塔](../Page/神魔之塔.md "wikilink")》是目前聞名於亚洲地區的遊戲。[雲遊控股於](https://zh.wikipedia.org/wiki/雲遊控股 "wikilink")2014年3月以7,000萬美元收購Madhead的25％權益\[2\]，但並未成功\[3\]\[4\]。
 [Madhead_booth,_Taipei_Game_Show_20170123.jpg](https://zh.wikipedia.org/wiki/File:Madhead_booth,_Taipei_Game_Show_20170123.jpg "fig:Madhead_booth,_Taipei_Game_Show_20170123.jpg")，Madhead攤位\]\]
 
 ## 遊戲
 
-  - [神魔之塔](https://zh.wikipedia.org/wiki/神魔之塔 "wikilink")：2013年推出
+  - [神魔之塔](../Page/神魔之塔.md "wikilink")：2013年推出
   - [時空之門](../Page/時空之門.md "wikilink")：2016年推出，已於2018年2月11日結束營運
-  - [夢界物語](https://zh.wikipedia.org/wiki/夢界物語 "wikilink")：2017年推出，已於2018年6月3日結束營運（該作品已授權於**天剛資訊**海外版本暫定命名為《夢界物語日韓版》）
+  - [夢界物語](../Page/夢界物語.md "wikilink")：2017年推出，已於2018年6月3日結束營運（該作品已授權於**天剛資訊**海外版本暫定命名為《夢界物語日韓版》）
   - [1000斜線](https://zh.wikipedia.org/wiki/1000斜線 "wikilink")
   - [跳樓逃生！](https://zh.wikipedia.org/wiki/跳樓逃生！ "wikilink")
   - [瘋狂的自由落體騎](https://zh.wikipedia.org/wiki/瘋狂的自由落體騎 "wikilink")

@@ -1,6 +1,6 @@
 **Redmi**（中文名为**红米**）是中国科技公司[小米科技旗下的子品牌](https://zh.wikipedia.org/wiki/小米科技 "wikilink")，目前主要对外销售[智能手机](../Page/智能手机.md "wikilink")，于2013年7月31日随第一代红米手机正式推出。红米手机系列被小米定义为“小米手机的青春版”，主打中端及入门级市场，产品价格区间自500元至1700元人民币不等。包含「红米数字系列」、「红米Note」、「红米Pro」三个分支产品线，红米数字系列又根据市场需要，分为Plus、S、X、NoteX、A等5个衍生品类。
 
-自红米手机系列推出以来，其销量便一直趋于火爆，甚至一度高于小米系列手机的销量。红米手机系列的推出极度压缩了中国国内中低端智能手机市场中山寨机、无牌机的生存空间，对中国国内中低端智能手机的品牌化和品质提升做出了一定的贡献。但随着2016年开始小米手机系列销量的下滑，售价低廉的红米手机系列也逐渐成为小米品牌知名度和高端化的一大障碍。而自2017年开始，[荣耀等品牌向中低端市场的延伸也对红米手机系列的销量产生了一定影响](https://zh.wikipedia.org/wiki/荣耀 "wikilink")。
+自红米手机系列推出以来，其销量便一直趋于火爆，甚至一度高于小米系列手机的销量。红米手机系列的推出极度压缩了中国国内中低端智能手机市场中山寨机、无牌机的生存空间，对中国国内中低端智能手机的品牌化和品质提升做出了一定的贡献。但随着2016年开始小米手机系列销量的下滑，售价低廉的红米手机系列也逐渐成为小米品牌知名度和高端化的一大障碍。而自2017年开始，[荣耀等品牌向中低端市场的延伸也对红米手机系列的销量产生了一定影响](../Page/荣耀.md "wikilink")。
 
 2019年1月3日，小米科技向外宣布，紅米手機成為小米旗下的獨立品牌，并启用红米在国际市场的品牌名称“Redmi”作为该独立品牌的名称。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]。独立之后的红米手机将接替现有的小米手机系列，成为主打线上渠道，追求极致性价比和用户体验的手机品牌。
 
@@ -20,7 +20,7 @@ X的机型。
 截至2018年底，小米在红米手机系列推出的产品类别如下：
 
   - **红米数字系列**：以红米+数字为商品名称的红米手机主力产品序列。
-    红米数字系列前两代机型设计为可换电池的塑料机身，3、4、5代为不可更换电池的三段式机身，[6代为不可更换电池的塑料机身](https://zh.wikipedia.org/wiki/紅米手機6 "wikilink")。处理器选用方面则在[第一代和第六代使用了联发科技的Soc](https://zh.wikipedia.org/wiki/红米手机_\(2013年\) "wikilink")，二至五代选用了高通4系或6系（[红米3](../Page/红米手机3.md "wikilink")，骁龙616）的处理器。其中，红米手机一代和三代另推出了增强机型红米1S和[红米3S](../Page/红米手机3S.md "wikilink")，[红米5增加了大屏高性能版本](https://zh.wikipedia.org/wiki/紅米手機5 "wikilink")[红米5Plus](https://zh.wikipedia.org/wiki/紅米手機5_Plus "wikilink")，红米6增加了三段式机身设计的[红米6Pro](https://zh.wikipedia.org/wiki/紅米6_Pro "wikilink")，这两款手机均搭载了骁龙625处理器。
+    红米数字系列前两代机型设计为可换电池的塑料机身，3、4、5代为不可更换电池的三段式机身，[6代为不可更换电池的塑料机身](https://zh.wikipedia.org/wiki/紅米手機6 "wikilink")。处理器选用方面则在[第一代和第六代使用了联发科技的Soc](../Page/红米手机_\(2013年\).md "wikilink")，二至五代选用了高通4系或6系（[红米3](../Page/红米手机3.md "wikilink")，骁龙616）的处理器。其中，红米手机一代和三代另推出了增强机型红米1S和[红米3S](../Page/红米手机3S.md "wikilink")，[红米5增加了大屏高性能版本](../Page/紅米手機5.md "wikilink")[红米5Plus](../Page/紅米手機5_Plus.md "wikilink")，红米6增加了三段式机身设计的[红米6Pro](../Page/紅米6_Pro.md "wikilink")，这两款手机均搭载了骁龙625处理器。
       - **红米A系列**：以红米+数字+A为商品名称的红米手机入门级产品序列。衍生代码A意为“青春版”，是Adolescent的首字母。
         该系列为小米科技研发的智能手机中售价最低的系列，自红米2发布后增设此序列，但3代不推出A系列机型。所有红米A系列手机均采用了塑料机身设计，其中红米2A设计为可换电池，其余为不可更换电池。红米2A高配版、4A、5A采用高通4系列处理器，2A标准版采用展讯处理器，6A采用联发科技A系列处理器。
       - **红米S系列**：以红米+数字+S为商品名称的红米手机中端产品序列。衍生代码S意为自拍，是Selfie的首字母。
@@ -55,7 +55,7 @@ X的机型。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/红米手机_(2013年)" title="wikilink">红米手机</a></p></td>
+<td><p><a href="../Page/红米手机_(2013年).md" title="wikilink">红米手机</a></p></td>
 <td><p>移动3G版<br />
 （双卡双待）</p></td>
 <td><p>2013.7.31</p></td>
@@ -84,7 +84,7 @@ MT6589T</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/紅米手機1S" title="wikilink">红米手机1S</a></p></td>
+<td><p><a href="../Page/紅米手機1S.md" title="wikilink">红米手机1S</a></p></td>
 <td><p>电信3G版<br />
 （双卡双待）</p></td>
 <td><p>2014.2.14</p></td>
@@ -315,7 +315,7 @@ GFF全贴合</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/紅米手機5A" title="wikilink">红米手机5A</a></p></td>
+<td><p><a href="../Page/紅米手機5A.md" title="wikilink">红米手机5A</a></p></td>
 <td><p>2017.10.20</p></td>
 <td><p>高通骁龙425<br />
 （MSM8917）</p></td>
@@ -329,7 +329,7 @@ GFF全贴合</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/紅米手機5" title="wikilink">红米手机5</a></p></td>
+<td><p><a href="../Page/紅米手機5.md" title="wikilink">红米手机5</a></p></td>
 <td><p>2017.12.7</p></td>
 <td><p>高通骁龙450<br />
 （SDM450）</p></td>
@@ -346,7 +346,7 @@ GFF全贴合</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/紅米手機5_Plus" title="wikilink">红米手机5 Plus</a></p></td>
+<td><p><a href="../Page/紅米手機5_Plus.md" title="wikilink">红米手机5 Plus</a></p></td>
 <td><p>高通骁龙625<br />
 （MSM8953）</p></td>
 <td><p>5.9英寸18:9比例<br />
@@ -379,7 +379,7 @@ GFF全贴合</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/紅米手機6A" title="wikilink">红米手机6A</a></p></td>
+<td><p><a href="../Page/紅米手機6A.md" title="wikilink">红米手机6A</a></p></td>
 <td><p>联发科A22</p></td>
 <td><p>2GB RAM<br />
 16GB ROM</p></td>
@@ -412,7 +412,7 @@ GFF全贴合</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Redmi_7" title="wikilink">Redmi 7</a></p></td>
+<td><p><a href="../Page/Redmi_7.md" title="wikilink">Redmi 7</a></p></td>
 <td><p>2019.3.18</p></td>
 <td><p>高通骁龙632<br />
 （SDM632）</p></td>
@@ -577,7 +577,7 @@ GFF全贴合</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/紅米Note_4" title="wikilink">红米Note 4</a></p></td>
+<td><p><a href="../Page/紅米Note_4.md" title="wikilink">红米Note 4</a></p></td>
 <td><p>标准版</p></td>
 <td><p>2016.8.25</p></td>
 <td><p>联发科X20</p></td>
@@ -592,7 +592,7 @@ GFF全贴合</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/紅米Note_4X" title="wikilink">红米Note 4X</a></p></td>
+<td><p><a href="../Page/紅米Note_4X.md" title="wikilink">红米Note 4X</a></p></td>
 <td><p>标准版</p></td>
 <td><p>2017.2.13</p></td>
 <td><p>高通骁龙625<br />
@@ -633,7 +633,7 @@ GFF全贴合</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/紅米Note_5A" title="wikilink">红米Note 5A</a></p></td>
+<td><p><a href="../Page/紅米Note_5A.md" title="wikilink">红米Note 5A</a></p></td>
 <td><p>标准版</p></td>
 <td><p>2017.8.21</p></td>
 <td><p>高通骁龙425<br />
@@ -664,7 +664,7 @@ GFF全贴合</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/紅米Note_5" title="wikilink">红米Note 5</a></p></td>
+<td><p><a href="../Page/紅米Note_5.md" title="wikilink">红米Note 5</a></p></td>
 <td><p>标准版</p></td>
 <td><p>2018.3.16</p></td>
 <td><p>高通骁龙636<br />
@@ -681,7 +681,7 @@ GFF全贴合</p></td>
 <td><p>[34]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/紅米Note_6_Pro" title="wikilink">紅米Note 6 Pro</a></p></td>
+<td><p><a href="../Page/紅米Note_6_Pro.md" title="wikilink">紅米Note 6 Pro</a></p></td>
 <td><p>标准版</p></td>
 <td><p>2018.9.27</p></td>
 <td><p>高通骁龙636<br />
@@ -697,7 +697,7 @@ GFF全贴合</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/紅米Note_7" title="wikilink">红米Note 7</a></p></td>
+<td><p><a href="../Page/紅米Note_7.md" title="wikilink">红米Note 7</a></p></td>
 <td><p>大陆市场标准版</p></td>
 <td><p>2019.1.10</p></td>
 <td><p>高通骁龙660<br />

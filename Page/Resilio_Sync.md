@@ -1,6 +1,6 @@
 **Resilio Sync**（曾经名为“BitTorrent
 Sync”）是由[BitTorrent公司开发的](https://zh.wikipedia.org/wiki/BitTorrent公司 "wikilink")[专有的](../Page/专有软件.md "wikilink")[对等网络](https://zh.wikipedia.org/wiki/对等网络 "wikilink")[数据同步工具](https://zh.wikipedia.org/wiki/数据同步 "wikilink")，可在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[OS
-X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Android](../Page/Android.md "wikilink")、[iOS和](../Page/iOS.md "wikilink")[FreeBSD上使用](../Page/FreeBSD.md "wikilink")\[1\]。其可在局域网、互联网上通过安全的、分布式的[P2P技术在不同设备之间同步文件](https://zh.wikipedia.org/wiki/peer_to_peer "wikilink")。
+X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Android](../Page/Android.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[FreeBSD上使用](../Page/FreeBSD.md "wikilink")\[1\]。其可在局域网、互联网上通过安全的、分布式的[P2P技术在不同设备之间同步文件](https://zh.wikipedia.org/wiki/peer_to_peer "wikilink")。
 
 尽管Resilio
 Sync开发者不认为这是传统文件同步工具（如[Dropbox](../Page/Dropbox.md "wikilink")）的竞争者或替代品，但已有人开始注意到这个与众不同的同步工具了\[2\]\[3\]。这主要是由于Resilio
@@ -81,7 +81,7 @@ Sync）在中国遭到了前所未有的封杀……”，数码荔枝一并停�
   - [FreeBSD](../Page/FreeBSD.md "wikilink")
   - [NAS设备](https://zh.wikipedia.org/wiki/網路儲存設備 "wikilink")\[24\]
   - [Android](../Page/Android.md "wikilink")
-  - [iOS](../Page/iOS.md "wikilink")
+  - [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
 
 ## 同类软件
 

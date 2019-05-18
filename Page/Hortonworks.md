@@ -12,8 +12,8 @@ Ventures。
 
 ## 类似厂商
 
-  - [Cloudera](https://zh.wikipedia.org/wiki/Cloudera "wikilink")
-  - [Pivotal](https://zh.wikipedia.org/wiki/Pivotal "wikilink")
+  - [Cloudera](../Page/Cloudera.md "wikilink")
+  - [Pivotal](../Page/Pivotal.md "wikilink")
 
 ## 外部链接
 

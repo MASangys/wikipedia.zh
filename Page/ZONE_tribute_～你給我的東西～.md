@@ -3,7 +3,7 @@
 ## 解說
 
 隨著時間逼近在歌曲〈[secret base
-～你給我的東西～](../Page/secret_base_～你給我的東西～.md "wikilink")〉所唱到的「10年後的8月」，歌迷們在網路上鼓噪起ZONE復活說與期盼ZONE復出的論調\[1\]。在此氛圍中發生了[東日本大震災](../Page/東日本大震災.md "wikilink")（[东北地方太平洋近海地震](https://zh.wikipedia.org/wiki/2011年日本东北地方太平洋近海地震 "wikilink")）。ZONE成員[MIYU](https://zh.wikipedia.org/wiki/長瀨實夕 "wikilink")、[MAIKO](https://zh.wikipedia.org/wiki/MAIKO_\(個人歌手\) "wikilink")、[TOMOKA聚首時討論](https://zh.wikipedia.org/wiki/西村朝香 "wikilink")「我們能夠幫上什麼忙嗎?」的結果，「希望能夠透過音樂為受災者帶來力量（MAIKO）」\[2\]，決定於2011年4月1日，限定期間再次集結。
+～你給我的東西～](https://zh.wikipedia.org/wiki/secret_base_～你給我的東西～ "wikilink")〉所唱到的「10年後的8月」，歌迷們在網路上鼓噪起ZONE復活說與期盼ZONE復出的論調\[1\]。在此氛圍中發生了[東日本大震災](../Page/東日本大震災.md "wikilink")（[东北地方太平洋近海地震](https://zh.wikipedia.org/wiki/2011年日本东北地方太平洋近海地震 "wikilink")）。ZONE成員[MIYU](https://zh.wikipedia.org/wiki/長瀨實夕 "wikilink")、[MAIKO](https://zh.wikipedia.org/wiki/MAIKO_\(個人歌手\) "wikilink")、[TOMOKA聚首時討論](https://zh.wikipedia.org/wiki/西村朝香 "wikilink")「我們能夠幫上什麼忙嗎?」的結果，「希望能夠透過音樂為受災者帶來力量（MAIKO）」\[2\]，決定於2011年4月1日，限定期間再次集結。
 
 隨著再次集結的消息公佈，同時發表了2011年8月14、15日於[赤坂BLITZ的演唱會](../Page/赤坂BLITZ.md "wikilink")，發售由眾歌手翻唱的本專輯並收錄ZONE自己演唱的〈secret
 base

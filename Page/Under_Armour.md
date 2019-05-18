@@ -44,7 +44,7 @@ Armour。
 ## 市場主要競爭對手
 
 UA的市場對手有[Adidas](https://zh.wikipedia.org/wiki/Adidas "wikilink")、[Asics](https://zh.wikipedia.org/wiki/Asics "wikilink")、[Mizuno](https://zh.wikipedia.org/wiki/Mizuno "wikilink")、[New
-Balance](https://zh.wikipedia.org/wiki/New_Balance "wikilink")、[NIKE](https://zh.wikipedia.org/wiki/NIKE "wikilink")、[Puma等](../Page/Puma.md "wikilink")。
+Balance](https://zh.wikipedia.org/wiki/New_Balance "wikilink")、[NIKE](https://zh.wikipedia.org/wiki/NIKE "wikilink")、[Puma等](https://zh.wikipedia.org/wiki/Puma "wikilink")。
 
 ## 參考資料
 

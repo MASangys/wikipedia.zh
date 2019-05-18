@@ -9,7 +9,7 @@
   - 初回盤限定收錄演唱會「CHEMISTRY 2006 TOUR
     fo(u)r」的[埼玉場次映像以及二人於節目AYASAN超男子](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")《五花八門淺草橋》的選秀會精華片段的DVD。DVD內容並未有單獨發行計劃，而是收錄於其後單獨發行的[藍光光碟中](../Page/藍光光碟.md "wikilink")。CD歌詞本以不同顏色區分川畑與堂珍各自演唱的部分。
   - 自《[Hot
-    Chemistry](https://zh.wikipedia.org/wiki/Hot_Chemistry "wikilink")》以來約1年10個月的冠軍專輯\[2\]。
+    Chemistry](../Page/Hot_Chemistry.md "wikilink")》以來約1年10個月的冠軍專輯\[2\]。
 
 ## 收錄曲
 
@@ -30,7 +30,7 @@
     United〜](../Page/找尋著妳_〜New_Jersey_United〜.md "wikilink")**
       -
         第4張單曲
-5.  **[FLOATIN'](https://zh.wikipedia.org/wiki/FLOATIN' "wikilink")**
+5.  **[FLOATIN'](../Page/FLOATIN'.md "wikilink")**
       -
         第5張單曲
 6.  **[It Takes

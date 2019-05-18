@@ -26,7 +26,7 @@ B'z〜**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikip
 12. [ONE](https://zh.wikipedia.org/wiki/ギリギリchop "wikilink") 　(4:11)
 13. [Everlasting](../Page/GREEN_\(B'z專輯\).md "wikilink")　(3:40)
 14. [GOLD](../Page/GOLD_\(B'z單曲\).md "wikilink") 　(5:35)
-15. [SNOW](https://zh.wikipedia.org/wiki/FRIENDS_II "wikilink")　(9:42)
+15. [SNOW](../Page/FRIENDS_II.md "wikilink")　(9:42)
 
 ## 製作人員
 

@@ -30,8 +30,7 @@ arm suspension）。
 5月追加「RX-SS」新車型，將以往的ECVT變速系統，改成六速手排模式SportShift手自排系統。該變速系統乃[保時捷汽車與富士重工業共同開發](https://zh.wikipedia.org/wiki/保時捷 "wikilink")，原本在1995年第31屆東京車展展出「Vivio
 RX-T」[概念車時公開發表](../Page/概念車.md "wikilink")，直到此時才正式使用於量產車。9月小改款，並追加「GX-SS」新車型。
 
-1998年 -
-10月原廠宣布停產，實質上的後繼車款為[Pleo](https://zh.wikipedia.org/wiki/速霸陸Pleo "wikilink")。
+1998年 - 10月原廠宣布停產，實質上的後繼車款為[Pleo](../Page/速霸陸Pleo.md "wikilink")。
 
 ### 車型一覽
 
@@ -88,9 +87,9 @@ RX-T」[概念車時公開發表](../Page/概念車.md "wikilink")，直到此�
   - **RX-R
     S1型**：屬於RX-R型的特別仕樣車，具有專屬銀色車身塗裝、隔熱反射前擋玻璃、抗紫外線車窗、Kenwood音響系統等標準配備。1992年9月曾以慶祝富士重工業推行全時四輪驅動20周年的名義發售，翌年7月再以該公司成立40周年重新發售。
   - **RX-R Special Version型**：為了紀念Vivio在1993年（Safari
-    Rally）奪得A-5級的優勝，1995年5月原廠發售限量200部的紀念車型。具有[速霸陸技術國際](https://zh.wikipedia.org/wiki/速霸陸技術國際 "wikilink")（Subaru
+    Rally）奪得A-5級的優勝，1995年5月原廠發售限量200部的紀念車型。具有[速霸陸技術國際](../Page/速霸陸技術國際.md "wikilink")（Subaru
     Tecnica International，縮寫成STI）和PIAA共同開發的霧燈、製Legalis
-    K尾段、[建伍音響系統等配備](https://zh.wikipedia.org/wiki/建伍 "wikilink")。
+    K尾段、[建伍音響系統等配備](../Page/建伍.md "wikilink")。
   - **RX-RA型**：具有全時四輪驅動系統的車型，「RA」便是速霸陸汽車對競速車款的共通記號，故此車型去除了空調系統、電動窗、電動調整後視鏡等跟競速賽事無關的配備，比RX-R型減少20[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")。專用[ECU](../Page/发动机控制器.md "wikilink")、一至四檔齒比比較綿密的手排變速箱、經過強化的[懸吊系統](../Page/懸吊系統.md "wikilink")、後輪機械式[限滑差速器等](../Page/限滑差速器.md "wikilink")，皆是為了競速賽事而設定。
   - **RX-SS型**：動力來源改成658c.c.直列四缸SOHC
     [EN07E型引擎加上六速手排模式SportShift手自排變速系統](https://zh.wikipedia.org/wiki/速霸陸EN族引擎#EN07E型（自然進氣、EMPi） "wikilink")，車身上的銘牌及雙色塗裝是最大的差異。
@@ -140,7 +139,7 @@ Villaseñor），共有4輛Vivio投入此番賽事。
 ## 內部連結
 
   - [速霸陸Rex](../Page/速霸陸Rex.md "wikilink")
-  - [速霸陸Pleo](https://zh.wikipedia.org/wiki/速霸陸Pleo "wikilink")
+  - [速霸陸Pleo](../Page/速霸陸Pleo.md "wikilink")
   - [貴航雲雀](https://zh.wikipedia.org/wiki/貴航雲雀 "wikilink")
 
 ## 參考資料

@@ -1,4 +1,4 @@
-《**一直**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本女性](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[aiko的第](../Page/aiko.md "wikilink")29張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年11月23日發行。
+《**一直**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本女性](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")29張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年11月23日發行。
 
 ## 簡介
 

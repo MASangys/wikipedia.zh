@@ -8,7 +8,7 @@ feat.初音未來**》是2012年1月18日發布的，藉由[初音未來等歌�
 VOCALOID曲的再灌錄、高音質化、重新寫曲與調整，共計收錄18曲。雖然專輯的標題是「feat.
 初音未來」，但實際上也有使用除此之外的VOCALOID。本作為[EXIT
 TUNES
-VOCALOID合輯系列的第十作](https://zh.wikipedia.org/wiki/EXIT_TUNES_VOCALOID合輯系列 "wikilink")，於官網上有公開慶祝\[1\]。另外，本作收錄暗軌。
+VOCALOID合輯系列的第十作](../Page/EXIT_TUNES_VOCALOID合輯系列.md "wikilink")，於官網上有公開慶祝\[1\]。另外，本作收錄暗軌。
 
 ## 曲目
 

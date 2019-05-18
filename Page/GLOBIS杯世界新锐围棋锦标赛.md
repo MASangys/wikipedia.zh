@@ -2,14 +2,14 @@
 
 ## 历届四强
 
-| 届   | 年     | 冠军                                                  | 亚军                                                  | 季军                                                       | 殿军                                                    |
-| --- | ----- | --------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------- |
-| 第1届 | 2014年 | [一力辽](https://zh.wikipedia.org/wiki/一力辽 "wikilink") | [许家元](https://zh.wikipedia.org/wiki/许家元 "wikilink") | [连笑](https://zh.wikipedia.org/wiki/连笑 "wikilink")        | [夏晨琨](https://zh.wikipedia.org/wiki/夏晨琨 "wikilink")   |
-| 第2届 | 2015年 | [黄云嵩](../Page/黄云嵩.md "wikilink")                    | [罗玄](https://zh.wikipedia.org/wiki/罗玄 "wikilink")   | [李钦诚](https://zh.wikipedia.org/wiki/李钦诚 "wikilink")      | [李东勳](https://zh.wikipedia.org/wiki/李东勳 "wikilink")   |
-| 第3届 | 2016年 | 李钦诚                                                 | 许家元                                                 | [卞相壹](https://zh.wikipedia.org/wiki/卞相壹 "wikilink")      | [杨鼎新](../Page/杨鼎新.md "wikilink")                      |
-| 第4届 | 2017年 | [申真谞](../Page/申真谞.md "wikilink")                    | 卞相壹                                                 | 一力辽                                                      | [芝野虎丸](https://zh.wikipedia.org/wiki/芝野虎丸 "wikilink") |
-| 第5届 | 2018年 | [许嘉阳](https://zh.wikipedia.org/wiki/许嘉阳 "wikilink") | [申旻埈](https://zh.wikipedia.org/wiki/申旻埈 "wikilink") | 申真谞                                                      | 李东勋                                                   |
-| 第6届 | 2019年 | 申旻埈                                                 | [王泽锦](https://zh.wikipedia.org/wiki/王泽锦 "wikilink") | [丁浩](https://zh.wikipedia.org/wiki/丁浩_\(围棋\) "wikilink") | 申真谞                                                   |
+| 届   | 年     | 冠军                                                  | 亚军                                                  | 季军                                                       | 殿军                                                  |
+| --- | ----- | --------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------- |
+| 第1届 | 2014年 | [一力辽](https://zh.wikipedia.org/wiki/一力辽 "wikilink") | [许家元](https://zh.wikipedia.org/wiki/许家元 "wikilink") | [连笑](https://zh.wikipedia.org/wiki/连笑 "wikilink")        | [夏晨琨](../Page/夏晨琨.md "wikilink")                    |
+| 第2届 | 2015年 | [黄云嵩](../Page/黄云嵩.md "wikilink")                    | [罗玄](https://zh.wikipedia.org/wiki/罗玄 "wikilink")   | [李钦诚](https://zh.wikipedia.org/wiki/李钦诚 "wikilink")      | [李东勳](https://zh.wikipedia.org/wiki/李东勳 "wikilink") |
+| 第3届 | 2016年 | 李钦诚                                                 | 许家元                                                 | [卞相壹](../Page/卞相壹.md "wikilink")                         | [杨鼎新](../Page/杨鼎新.md "wikilink")                    |
+| 第4届 | 2017年 | [申真谞](../Page/申真谞.md "wikilink")                    | 卞相壹                                                 | 一力辽                                                      | [芝野虎丸](../Page/芝野虎丸.md "wikilink")                  |
+| 第5届 | 2018年 | [许嘉阳](../Page/许嘉阳.md "wikilink")                    | [申旻埈](https://zh.wikipedia.org/wiki/申旻埈 "wikilink") | 申真谞                                                      | 李东勋                                                 |
+| 第6届 | 2019年 | 申旻埈                                                 | [王泽锦](../Page/王泽锦.md "wikilink")                    | [丁浩](https://zh.wikipedia.org/wiki/丁浩_\(围棋\) "wikilink") | 申真谞                                                 |
 
 ## 第1届
 
@@ -19,7 +19,7 @@
 
   - ：[崔精四段](../Page/崔精.md "wikilink")（17岁）、[申真谞二段](../Page/申真谞.md "wikilink")（14岁）、[罗玄四段](https://zh.wikipedia.org/wiki/罗玄 "wikilink")（19岁）；\[2\]
 
-  - ：[连笑七段](https://zh.wikipedia.org/wiki/连笑 "wikilink")、[夏晨琨三段](https://zh.wikipedia.org/wiki/夏晨琨 "wikilink")、[李钦诚初段](https://zh.wikipedia.org/wiki/李钦诚 "wikilink")
+  - ：[连笑七段](https://zh.wikipedia.org/wiki/连笑 "wikilink")、[夏晨琨三段](../Page/夏晨琨.md "wikilink")、[李钦诚初段](https://zh.wikipedia.org/wiki/李钦诚 "wikilink")
 
   - ：[鹤田和志二段](https://zh.wikipedia.org/wiki/鹤田和志 "wikilink")、[孙喆三段](../Page/孙喆.md "wikilink")、[许家元二段](https://zh.wikipedia.org/wiki/许家元 "wikilink")、[一力辽七段](https://zh.wikipedia.org/wiki/一力辽 "wikilink")、[伊田笃史八段](https://zh.wikipedia.org/wiki/伊田笃史 "wikilink")、[小山空也初段](https://zh.wikipedia.org/wiki/小山空也 "wikilink")
 
@@ -342,7 +342,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/余正麒" title="wikilink">余正麒</a></strong> 七段</p></td>
+<td><p><strong><a href="../Page/余正麒.md" title="wikilink">余正麒</a></strong> 七段</p></td>
 <td><p>余正麒<br />
 黑半目胜</p></td>
 <td></td>
@@ -790,12 +790,12 @@
 
 胜者组
 
-| 棋手                                                       | 第一轮  | 第二轮 |
-| -------------------------------------------------------- | ---- | --- |
-| [卞相壹](https://zh.wikipedia.org/wiki/卞相壹 "wikilink") 五段   | 卞相壹  | 卞相壹 |
-| [許家元](../Page/許家元.md "wikilink") 四段                      |      |     |
-| [芝野虎丸](https://zh.wikipedia.org/wiki/芝野虎丸 "wikilink") 三段 | 芝野虎丸 |     |
-| [簡靖庭](https://zh.wikipedia.org/wiki/簡靖庭 "wikilink") 二段   |      |     |
+| 棋手                                                     | 第一轮  | 第二轮 |
+| ------------------------------------------------------ | ---- | --- |
+| [卞相壹](../Page/卞相壹.md "wikilink") 五段                    | 卞相壹  | 卞相壹 |
+| [許家元](../Page/許家元.md "wikilink") 四段                    |      |     |
+| [芝野虎丸](../Page/芝野虎丸.md "wikilink") 三段                  | 芝野虎丸 |     |
+| [簡靖庭](https://zh.wikipedia.org/wiki/簡靖庭 "wikilink") 二段 |      |     |
 
 败者组
 

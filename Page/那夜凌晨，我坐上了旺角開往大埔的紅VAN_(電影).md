@@ -19,7 +19,7 @@
 | [文詠珊](../Page/文詠珊.md "wikilink")                    | [鄭可欣](../Page/鄭可欣.md "wikilink")                    | Yuki：與小說中女主角同名。                                                          |
 | [任達華](../Page/任達華.md "wikilink")                    | [田志傑](https://zh.wikipedia.org/wiki/田志傑 "wikilink") | 發叔：對應小說中的「中年男子」。                                                         |
 | [惠英紅](../Page/惠英紅.md "wikilink")                    | [蔣篤慧](../Page/蔣篤慧.md "wikilink")                    | 穆秀英（神婆英/英姐），原創角色。                                                        |
-| [林　雪](../Page/林雪.md "wikilink")                     | [邱展文](https://zh.wikipedia.org/wiki/邱展文 "wikilink") | 紅van 司機：對應小說中的「小巴司機」。                                                    |
+| [林　雪](../Page/林雪.md "wikilink")                     | [邱展文](../Page/邱展文.md "wikilink")                    | 紅van 司機：對應小說中的「小巴司機」。                                                    |
 | [徐天佑](../Page/徐天佑.md "wikilink")                    | [莊汶錡](https://zh.wikipedia.org/wiki/莊汶錡 "wikilink") | 阿信/眼鏡青年（結合了小說中的「阿信」和「眼鏡青年」\[9\]）。                                        |
 | [李璨琛](../Page/李璨琛.md "wikilink")                    | [蘇振威](../Page/蘇振威.md "wikilink")                    | 盲輝：對應小說中的「白粉男」。                                                          |
 | [卓韻芝](../Page/卓韻芝.md "wikilink")                    | [巫玉羚](../Page/巫玉羚.md "wikilink")                    | Pat：對應小說中的「睇波女」，「睇波男」之妻。                                                 |
@@ -172,13 +172,13 @@ Van》，並打算邀請香港導演[陳果執導](https://zh.wikipedia.org/wiki
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/第9屆亞洲電影大獎" title="wikilink">第9屆亞洲電影大獎</a></p></td>
+<td><p><a href="../Page/第9屆亞洲電影大獎.md" title="wikilink">第9屆亞洲電影大獎</a></p></td>
 <td><p>最佳視覺效果</p></td>
 <td><p>唐家偉、羅偉豪、謝兆基、梁展鋒</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年度YAHOO!搜尋人氣大獎得獎名單" title="wikilink">YAHOO!人氣大獎2014</a></p></td>
+<td><p><a href="../Page/2014年度YAHOO!搜尋人氣大獎得獎名單.md" title="wikilink">YAHOO!人氣大獎2014</a></p></td>
 <td><p>本地電影</p></td>
 <td><p>/</p></td>
 <td></td>

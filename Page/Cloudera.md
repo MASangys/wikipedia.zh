@@ -32,8 +32,8 @@ DB](../Page/Berkeley_DB.md "wikilink")（2006年被甲骨文收购）的创始�
 
 ## 类似厂商
 
-  - [Hortonworks](https://zh.wikipedia.org/wiki/Hortonworks "wikilink")
-  - [Pivotal](https://zh.wikipedia.org/wiki/Pivotal "wikilink")
+  - [Hortonworks](../Page/Hortonworks.md "wikilink")
+  - [Pivotal](../Page/Pivotal.md "wikilink")
 
 ## 外部链接
 

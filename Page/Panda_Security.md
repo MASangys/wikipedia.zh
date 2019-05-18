@@ -2,7 +2,7 @@
 Urizarbarrena所創立。一開始該公司只專注於開發與生產[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")；後來他擴展其產品線，目前涵蓋了[防火牆軟體](https://zh.wikipedia.org/wiki/防火牆 "wikilink")、反[垃圾電郵軟體](../Page/垃圾電郵.md "wikilink")、反間諜軟體、資訊犯罪防護、反駭客、反撥號器、反WiFi入侵、攔截不適宜的網站，與其他面向一般家庭或企業使用者的系統管理和安全工具。
 
 熊貓安全公司與其他防毒公司(如：Avast\!,
-[Avira](../Page/Avira_AntiVirus.md "wikilink")，[BitDefender](../Page/BitDefender.md "wikilink")，[ESET](../Page/ESET.md "wikilink"),
+[Avira](../Page/Avira_AntiVirus.md "wikilink")，[BitDefender](https://zh.wikipedia.org/wiki/BitDefender "wikilink")，[ESET](../Page/ESET.md "wikilink"),
 [F-Secure](https://zh.wikipedia.org/wiki/F-Secure "wikilink")，[卡巴斯基](../Page/卡巴斯基實驗室.md "wikilink")，[McAfee](https://zh.wikipedia.org/wiki/McAfee "wikilink"),
 Sophos和[賽門鐵克](https://zh.wikipedia.org/wiki/賽門鐵克 "wikilink")[等等](../Page/防毒軟體列表.md "wikilink"))相互競爭。
 

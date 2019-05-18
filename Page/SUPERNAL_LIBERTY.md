@@ -67,7 +67,7 @@ DIAMOND](../Page/ULTIMATE_DIAMOND.md "wikilink")》以来4年又10個月再次�
       -
         作詞：前山田健一、作曲：[伊藤賢治](../Page/伊藤賢治.md "wikilink")、前山田健一、編曲：伊藤賢治
     <!-- end list -->
-      - [iOS](../Page/iOS.md "wikilink")/[Android版](../Page/Android.md "wikilink")「乖離性百萬亞瑟王」主題歌
+      - [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")/[Android版](../Page/Android.md "wikilink")「乖離性百萬亞瑟王」主題歌
 14. ****
       -
         作詞、作曲、編曲：矢吹俊郎

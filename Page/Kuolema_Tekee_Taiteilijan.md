@@ -5,7 +5,7 @@ Taiteilijan**》是芬兰[交响金属乐团](https://zh.wikipedia.org/wiki/交�
 Tomorrow](https://zh.wikipedia.org/wiki/End_of_an_Era "wikilink")》的尾声中可以听到管弦乐/器乐版的《Kuolema
 Tekee Taiteilijan》。
 
-虽然前夜愿主唱[安妮特·奥尔森不能说一口流利的芬兰语](https://zh.wikipedia.org/wiki/安妮特·奥尔森 "wikilink")，但其在斯德哥尔摩Kulturfestival上在没有乐队的情况下，配以管弦乐伴奏演唱了此歌曲\[2\]。
+虽然前夜愿主唱[安妮特·奥尔森不能说一口流利的芬兰语](../Page/安妮特·奥尔森.md "wikilink")，但其在斯德哥尔摩Kulturfestival上在没有乐队的情况下，配以管弦乐伴奏演唱了此歌曲\[2\]。
 
 ## 曲目列表
 
@@ -15,7 +15,7 @@ Tekee Taiteilijan》。
 3.  [Creek Mary's
     Blood](https://zh.wikipedia.org/wiki/Creek_Mary's_Blood "wikilink")（[声乐编曲](https://zh.wikipedia.org/wiki/声乐 "wikilink")）
 4.  [Where Were You Last
-    Night](https://zh.wikipedia.org/wiki/Where_Were_You_Last_Night "wikilink")（仅限日本版）
+    Night](../Page/Where_Were_You_Last_Night.md "wikilink")（仅限日本版）
 5.  [Wish I Had an
     Angel](https://zh.wikipedia.org/wiki/Wish_I_Had_an_Angel "wikilink")
     （样本音乐）（仅限日本版）

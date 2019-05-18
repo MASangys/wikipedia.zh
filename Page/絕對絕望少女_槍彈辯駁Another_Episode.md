@@ -1,6 +1,6 @@
 是於[PlayStation
 Vita上的](../Page/PlayStation_Vita.md "wikilink")[第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/第三人稱射擊遊戲 "wikilink")，最初於2014年9月在日本发售\[1\]。由[Spike
-Chunsoft](https://zh.wikipedia.org/wiki/Spike_Chunsoft "wikilink")（）公司所開發。本作是槍彈辯駁系列第一款動作冒險遊戲，主題關鍵字為「迷幻流行驚悚」。
+Chunsoft](../Page/Spike_Chunsoft.md "wikilink")（）公司所開發。本作是槍彈辯駁系列第一款動作冒險遊戲，主題關鍵字為「迷幻流行驚悚」。
 
 ## 劇情
 
@@ -175,7 +175,7 @@ Chunsoft](https://zh.wikipedia.org/wiki/Spike_Chunsoft "wikilink")（）公司�
 <!-- end list -->
 
   -
-    配音員：[石黑千尋](https://zh.wikipedia.org/wiki/石黑千尋 "wikilink")
+    配音員：[石黑千尋](../Page/石黑千尋.md "wikilink")
     與「超高中級的占卜師」葉隠康比呂同姓，舉止成熟的女人。實際身份是葉隠康比呂的母親。
     個性有些我行我素且散漫，平時愛抽菸，還曾經混過太妹，讓人難以想像過去的本業其實是護士，但是性格率直且熱心，時常給予苗木困協助。
     不知為何對自己的兒子有異常高的評價，認為他簡直就是一個完美超人，連腐川聽了都感到難以置信。

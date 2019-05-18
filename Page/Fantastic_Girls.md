@@ -1,5 +1,5 @@
 '''Fantastic Girls
-'''（）是[韩国女子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[KARA在日本发行的第四弹日语原作專輯](../Page/KARA.md "wikilink")，于2013年8月28日由[UNIVERSAL
+'''（）是[韩国女子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[KARA在日本发行的第四弹日语原作專輯](https://zh.wikipedia.org/wiki/KARA "wikilink")，于2013年8月28日由[UNIVERSAL
 SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
 
 ## 曲目

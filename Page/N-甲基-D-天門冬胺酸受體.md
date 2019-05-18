@@ -7,7 +7,7 @@ NMDA受體是一種離子型麩胺酸鹽受體的特別型態。[NMDA](https://z
 
 ## 參見
 
-  - [中西重忠](https://zh.wikipedia.org/wiki/中西重忠 "wikilink")
+  - [中西重忠](../Page/中西重忠.md "wikilink")
   - [沼正作](../Page/沼正作.md "wikilink")
 
 ## 參考文獻

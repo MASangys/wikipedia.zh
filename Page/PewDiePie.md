@@ -1,6 +1,6 @@
 **菲利克斯·阿爾維德·烏爾夫·谢尔贝里**\[1\]\[2\]（，\[3\]  \[4\]、
-、\[5\]，），網名**PewDiePie**（、），[瑞典籍](../Page/瑞典.md "wikilink")[YouTuber](https://zh.wikipedia.org/wiki/YouTuber "wikilink")，以拍攝遊戲遊玩（）與評論影片聞名，後來主要集中上傳特定題材的喜劇影片。他的YouTube頻道崛起速度極快，頻道訂閱人數在2013年由350萬迅速爬升到1,200萬，於2013年8月成為[在YouTube上訂閱人數最多的頻道](https://zh.wikipedia.org/wiki/在YouTube上訂閱人數最多的用戶列表 "wikilink")；除了在2013年11月及12月期間兩度被YouTube的官方頻道「[YouTube
-Spotlight](../Page/YouTube聚光燈.md "wikilink")」超越外，他的頻道一直居於訂閱數榜首\[6\]。2019年3月27日，經歷2019年2月至3月中的後，PewDiePie正式被印度影音公司「[T-Series](https://zh.wikipedia.org/wiki/T-Series "wikilink")」超越，第三度成為YouTube的第二多訂閲數的頻道，雖然曾在同年4月1日重奪YouTube第一多訂閱數頻道的寳座，但13天後已無以為繼。
+、\[5\]，），網名**PewDiePie**（、），[瑞典籍](../Page/瑞典.md "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")，以拍攝遊戲遊玩（）與評論影片聞名，後來主要集中上傳特定題材的喜劇影片。他的YouTube頻道崛起速度極快，頻道訂閱人數在2013年由350萬迅速爬升到1,200萬，於2013年8月成為[在YouTube上訂閱人數最多的頻道](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")；除了在2013年11月及12月期間兩度被YouTube的官方頻道「[YouTube
+Spotlight](../Page/YouTube聚光燈.md "wikilink")」超越外，他的頻道一直居於訂閱數榜首\[6\]。2019年3月27日，經歷2019年2月至3月中的後，PewDiePie正式被印度影音公司「[T-Series](../Page/T-Series.md "wikilink")」超越，第三度成為YouTube的第二多訂閲數的頻道，雖然曾在同年4月1日重奪YouTube第一多訂閱數頻道的寳座，但13天後已無以為繼。
 
 ## 早年生活
 
@@ -18,13 +18,13 @@ PewDiePie的[YouTube頻道創建于](../Page/YouTube.md "wikilink")2010年4月�
 Social
 Show）\[21\]\[22\]，當時與其競爭的對手主要有[珍娜·瑪柏](../Page/珍娜·瑪柏.md "wikilink")、[Smosh和](../Page/Smosh.md "wikilink")\[23\]。2013年5月，PewDiePie於[新加坡贏得了瑞典社會之星獎](../Page/新加坡.md "wikilink")\[24\]，除此之外，他還在頒獎晚會直播期間介紹了獲得提名的最流行的遊戲\[25\]。然後在2013年6月，PewDiePie的頻道訂閱人數快速突破800萬與900萬的大關\[26\]\[27\]。在2012年和2013年中，PewDiePie的頻道一直是YouTube上成長最快的頻道\[28\]。
 
-2013年7月，他的訂閱人數超越了珍娜·瑪柏的記錄，成為YouTube第二大訂閱人數的頻道，而在2013年8月15日，​​他以接近1200萬的訂閱數，從Smosh手中奪去他們長期佔領的[YouTube訂閱人數第一名的寶座](https://zh.wikipedia.org/wiki/在YouTube上訂閱人數最多的用戶列表 "wikilink")\[29\]\[30\]\[31\]。雖然已經成為第一名，但PewDiePie的頻道訂閱人數仍然沒有停止，2013年11月達到1500萬\[32\]，但在突破1500萬的翌日，PewDiePie的訂閱人數被YouTube的官方頻道YouTube
+2013年7月，他的訂閱人數超越了珍娜·瑪柏的記錄，成為YouTube第二大訂閱人數的頻道，而在2013年8月15日，​​他以接近1200萬的訂閱數，從Smosh手中奪去他們長期佔領的[YouTube訂閱人數第一名的寶座](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")\[29\]\[30\]\[31\]。雖然已經成為第一名，但PewDiePie的頻道訂閱人數仍然沒有停止，2013年11月達到1500萬\[32\]，但在突破1500萬的翌日，PewDiePie的訂閱人數被YouTube的官方頻道YouTube
 Spotlight超越\[33\]。在同一個月，PewDiePie表示，他不喜歡YouTube的新評論系統\[34\]，後來在2013年12月，PewDiePie再度超越YouTube的官方頻道，成為YouTube上最受歡迎的頻道。在2013年，PewDiePie的頻道訂閱數從350萬飆升至1900萬\[35\]。而在2015年10月，總觀看次數已達到100億\[36\]。2016年12月頻道訂閱數突破五千萬，為YouTube史上第一個達到如此成就之人。在2014年3月，PewDiePie改變了自己的影片製作模式，宣布他將會縮減上傳的頻率。PewDiePie也拒絕僱用編輯來幫助他與他的影片推出，稱：「我需要的YouTube是在YouTube上。」\[37\]
 
-2018年9月，[T-Series因著印度的網路開始普及](https://zh.wikipedia.org/wiki/T-Series "wikilink")，而以極快的速度成長，在10月與PewDiePie只是相差了1百萬的訂閱。在年底已幾乎追上排行第一的他，為避免被超越，部分頻道和粉絲們開始積極吸引更多觀眾訂閱，其中賈斯汀·羅伯茨（Justin
+2018年9月，[T-Series因著印度的網路開始普及](../Page/T-Series.md "wikilink")，而以極快的速度成長，在10月與PewDiePie只是相差了1百萬的訂閱。在年底已幾乎追上排行第一的他，為避免被超越，部分頻道和粉絲們開始積極吸引更多觀眾訂閱，其中賈斯汀·羅伯茨（Justin
 Roberts）甚至在紐約[時代廣場的螢幕刊登廣告](https://zh.wikipedia.org/wiki/時代廣場 "wikilink")\[38\]，而PewDiePie本人則發佈了單曲《婊子千層麵》（*Bitch
 Lasagna*）以作回應\[39\]，但他本人指自己其實並不在意T-Series\[40\]。在此期間，PewDiePie的頻道獲得大量訂閱數，其中單在12月便有662萬，與2017年的總獲得訂閱數700萬相差不遠\[41\]。
-2019年3月15日，參與[基督城清真寺槍擊案的一名行兇者在攻擊前說過](https://zh.wikipedia.org/wiki/基督城清真寺槍擊案 "wikilink")「訂閱
+2019年3月15日，參與[基督城清真寺槍擊案的一名行兇者在攻擊前說過](../Page/基督城清真寺槍擊案.md "wikilink")「訂閱
 PewDiePie」。作為回應，PewDiePie在Twitter上寫道：「剛得知新西蘭基督城的可怕消息，這人說出我的名字，令我感到極度嘔心。我的心與受害人、家屬及所有受影響人士同在」\[42\]。同年3月27日，T-Series成功維持約十萬的訂閱數差距達一天，正式成為YouTube擁有最多訂閱者的頻道\[43\]。四天後，PewDiePie與Roomie和合作推出單曲《恭喜》（*Congratulations*），內裡提到該公司曾給予他一封[停終信函和其首席執行官的逃稅醜聞](https://zh.wikipedia.org/wiki/停止並終止 "wikilink")\[44\]。憑藉這首歌曲，PewDiePie在4月1日重奪第一名的位置\[45\]\[46\]但13天後已無以為繼。
 
 ## 頻道特色
@@ -59,7 +59,7 @@ Wallenstein）批評PewDiePie的影片是「侵略性的愚蠢」和「心理上
 
 #### 種族歧視爭議
 
-2017年1月11日，PewDiePie上傳了一段影片，評論[自由工作者中介網站](https://zh.wikipedia.org/wiki/自由工作者 "wikilink")[Fiverr所提供的服務](https://zh.wikipedia.org/wiki/Fiverr "wikilink")。Fiverr上的自由工作者會列明他們的服務範圍，客戶則透過向他們支付5美元來下訂各種服務；該段影片當中，PewDiePie向印度籍Fiverr用戶「Funny
+2017年1月11日，PewDiePie上傳了一段影片，評論[自由工作者中介網站](https://zh.wikipedia.org/wiki/自由工作者 "wikilink")[Fiverr所提供的服務](../Page/Fiverr.md "wikilink")。Fiverr上的自由工作者會列明他們的服務範圍，客戶則透過向他們支付5美元來下訂各種服務；該段影片當中，PewDiePie向印度籍Fiverr用戶「Funny
 Guys」下訂，要求他們高舉寫着「[猶太人都去死](https://zh.wikipedia.org/wiki/猶太人 "wikilink")」（Death
 To All
 Jews）的紙牌手舞足蹈，拍攝一段影片\[68\]\[69\]；他表示其原意為向Fiverr上的自由工作者提出過分、離譜的要求，以嘲諷該網站提供的服務荒謬可笑、言過其實，未料到對方會照單全收\[70\]。他在同段影片末段中道歉，表明自己只是在開玩笑而絕不贊同[反猶太主義](https://zh.wikipedia.org/wiki/反猶太主義 "wikilink")\[71\]。這段影片引起不少非議，更招致部分[極右派](../Page/極右派.md "wikilink")、[新納粹主義者及](../Page/新納粹主義.md "wikilink")[白人至上主义者附會](https://zh.wikipedia.org/wiki/白人至上主义 "wikilink")、稱讚。2月12日，Pewdiepie在[Tumblr上發文](https://zh.wikipedia.org/wiki/Tumblr "wikilink")，再三重申自己不支持任何形式的仇恨言論，指其影片僅為娛樂而不帶任何政治立場，亦無意冒犯他人，但為當中的冒犯性笑話感到抱歉\[72\]。
@@ -70,7 +70,7 @@ Studios持有、PewDiePie創辦的網絡頻道「Revelmode」；YouTube方面亦
 Red網絡節目](https://zh.wikipedia.org/wiki/YouTube_Red "wikilink")《Scare
 PewDiePie》第二季。2月16日，PewDiePie上傳影片，公開回應以上爭議。他指他明白笑話帶有冒犯成份並為此致歉，但他指摘大眾媒體對他的報道往往嘩眾取寵，在這次事件中更對他口誅筆伐，把他在影片中的諸多笑話抽離語境，斷章取義、捕風捉影，以求將他誣蔑成種族主義者；他又質疑《[華爾街日報](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")》在聯絡他本人了解原委之前，就直接向迪士尼及YouTube方面施壓，招致該兩家公司與他斷絕關係\[74\]。
 
-同年9月，PewDiePie直播遊玩《[絕地求生](https://zh.wikipedia.org/wiki/絕地求生 "wikilink")》時意外說出「[黑鬼](../Page/黑鬼.md "wikilink")」（Nigger）一詞\[75\]。為此，遊戲開發商的共同創辦人形容他「比潛伏的[種族主義者更不堪](https://zh.wikipedia.org/wiki/種族主義 "wikilink")」，宣稱將會對PewDiePie的《[看火人](../Page/看火人.md "wikilink")》遊玩影片作出[數位千禧年版權申訴](https://zh.wikipedia.org/wiki/數位千禧年著作權法 "wikilink")，並鼓勵其他遊戲開發者傚法\[76\]\[77\]。之後，PewDiePie上傳影片，為他在直播中使用的言詞道歉，並表示：「我不會為說出那個詞找藉口，因為這根本沒有藉口可言。我對自己感到失望，因為我就像從沒在過去的爭議中汲取教訓一樣，而使用那詞是不行的。如果我冒犯，傷害或辜負到所有這一切的人，我很抱歉。以我這種地位，我應當懂得改進。」\[78\]至於版權問題方面，PewDiePie認為瓦納曼作為開發者的確有權令他的影片遭下架，但這並不代表可以-{撤消}-其過去的影片，但他同時亦表示無意攻擊和與瓦納曼展開法律訴訟\[79\]。
+同年9月，PewDiePie直播遊玩《[絕地求生](../Page/絕地求生.md "wikilink")》時意外說出「[黑鬼](../Page/黑鬼.md "wikilink")」（Nigger）一詞\[75\]。為此，遊戲開發商的共同創辦人形容他「比潛伏的[種族主義者更不堪](https://zh.wikipedia.org/wiki/種族主義 "wikilink")」，宣稱將會對PewDiePie的《[看火人](../Page/看火人.md "wikilink")》遊玩影片作出[數位千禧年版權申訴](https://zh.wikipedia.org/wiki/數位千禧年著作權法 "wikilink")，並鼓勵其他遊戲開發者傚法\[76\]\[77\]。之後，PewDiePie上傳影片，為他在直播中使用的言詞道歉，並表示：「我不會為說出那個詞找藉口，因為這根本沒有藉口可言。我對自己感到失望，因為我就像從沒在過去的爭議中汲取教訓一樣，而使用那詞是不行的。如果我冒犯，傷害或辜負到所有這一切的人，我很抱歉。以我這種地位，我應當懂得改進。」\[78\]至於版權問題方面，PewDiePie認為瓦納曼作為開發者的確有權令他的影片遭下架，但這並不代表可以-{撤消}-其過去的影片，但他同時亦表示無意攻擊和與瓦納曼展開法律訴訟\[79\]。
 
 ## 個人生活
 
@@ -204,7 +204,7 @@ What the fuck PewDiePie\!）\[89\]。而在《像素戰爭3》中，其中一方
 
 ## 參見
 
-  - [在YouTube上訂閱人數最多的用戶列表](https://zh.wikipedia.org/wiki/在YouTube上訂閱人數最多的用戶列表 "wikilink")
+  - [在YouTube上訂閱人數最多的用戶列表](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")
 
 ## 腳註
 

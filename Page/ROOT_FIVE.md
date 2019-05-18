@@ -1,18 +1,17 @@
 **ROOT
-FIVE**(即[√5](https://zh.wikipedia.org/wiki/√5 "wikilink")，譯:[根號五](https://zh.wikipedia.org/wiki/根號五 "wikilink"))是由日本影音分享網站「[NICONICO動畫](../Page/NICONICO動畫.md "wikilink")」當中以「試唱」類別出身的五位人氣男性素人歌手所組成的團體。2011年以[MERRY
+FIVE**(即[√5](https://zh.wikipedia.org/wiki/√5 "wikilink")，譯:[根號五](https://zh.wikipedia.org/wiki/根號五 "wikilink"))是由日本影音分享網站「[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")」當中以「試唱」類別出身的五位人氣男性素人歌手所組成的團體。2011年以[MERRY
 GO ROUND](http://www.nicovideo.jp/watch/sm16202181/)正式出道。
 
 ## 簡介
 
   - [√5](https://zh.wikipedia.org/wiki/√5 "wikilink")(**ROOT
-    FIVE**)是日本的影音分享網站「[NICONICO動畫](../Page/NICONICO動畫.md "wikilink")」裡其中活耀於「試唱」類別的五位人氣男性素人歌手「[koma'n](https://zh.wikipedia.org/wiki/koma'n "wikilink")」、「[蛇足](https://zh.wikipedia.org/wiki/蛇足 "wikilink")」、「[ぽこた](https://zh.wikipedia.org/wiki/ぽこた "wikilink")」、「[みーちゃん](https://zh.wikipedia.org/wiki/みーちゃん "wikilink")」、「[けったろ](https://zh.wikipedia.org/wiki/けったろ "wikilink")」所組成的團體。
+    FIVE**)是日本的影音分享網站「[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")」裡其中活耀於「試唱」類別的五位人氣男性素人歌手「[koma'n](https://zh.wikipedia.org/wiki/koma'n "wikilink")」、「[蛇足](https://zh.wikipedia.org/wiki/蛇足 "wikilink")」、「[ぽこた](https://zh.wikipedia.org/wiki/ぽこた "wikilink")」、「[みーちゃん](https://zh.wikipedia.org/wiki/みーちゃん "wikilink")」、「[けったろ](https://zh.wikipedia.org/wiki/けったろ "wikilink")」所組成的團體。
   - [√5的團名是從粉絲們募集而來的團名中選出決定的](https://zh.wikipedia.org/wiki/√5 "wikilink")。
-  - 五位成員在影音分享網站中投稿的影片擁有總計超過3000萬次的點閱紀錄，成員各自除音樂活動外也參與[日劇與](https://zh.wikipedia.org/wiki/日劇 "wikilink")[舞台劇之演出等活動](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")，在[社群網站的](https://zh.wikipedia.org/wiki/社群網站 "wikilink")[FACEBOOK](../Page/FACEBOOK.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")、[噗浪裡也擁有眾多的粉絲十分有人氣](../Page/噗浪.md "wikilink")。
-  - [ROOT
-    FIVE於](https://zh.wikipedia.org/wiki/ROOT_FIVE "wikilink")2011年11月18日投稿[【√5】MERRY
+  - 五位成員在影音分享網站中投稿的影片擁有總計超過3000萬次的點閱紀錄，成員各自除音樂活動外也參與[日劇與](https://zh.wikipedia.org/wiki/日劇 "wikilink")[舞台劇之演出等活動](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")，在[社群網站的](https://zh.wikipedia.org/wiki/社群網站 "wikilink")[FACEBOOK](https://zh.wikipedia.org/wiki/FACEBOOK "wikilink")、[Twitter](../Page/Twitter.md "wikilink")、[噗浪裡也擁有眾多的粉絲十分有人氣](../Page/噗浪.md "wikilink")。
+  - [ROOT FIVE於](../Page/ROOT_FIVE.md "wikilink")2011年11月18日投稿[【√5】MERRY
     GO ROUND
     PV【組んでみた】](http://www.nicovideo.jp/watch/sm16202181)正式出道，目前隸屬日本[avex
-    trax旗下藝人](../Page/avex_trax.md "wikilink")。
+    trax旗下藝人](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 現任成員
 
@@ -29,7 +28,7 @@ GO ROUND](http://www.nicovideo.jp/watch/sm16202181/)正式出道。
 <!-- end list -->
 
   - 為團中最年少的成員也是**ROOT FIVE**的隊長。
-  - 2008年開始於影音分享網站「[NICONICO動畫](../Page/NICONICO動畫.md "wikilink")」投稿作品，舊投稿名「こまん」。
+  - 2008年開始於影音分享網站「[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")」投稿作品，舊投稿名「こまん」。
   - 3歲開始學鋼琴，也有樂曲的編曲／作曲等相關創作，**ROOT
     FIVE**的作品中就有[koma'n作詞作曲的作品](https://zh.wikipedia.org/wiki/koma'n "wikilink")。
   - 鋼琴演奏者的身分也十分有人氣。
@@ -43,7 +42,7 @@ GO ROUND](http://www.nicovideo.jp/watch/sm16202181/)正式出道。
 
 <!-- end list -->
 
-  - 2008年開始於影音分享網站「[NICONICO動畫](../Page/NICONICO動畫.md "wikilink")」投稿作品。
+  - 2008年開始於影音分享網站「[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")」投稿作品。
   - 以歌手身分活動外，也參與[舞台劇演出等活躍於多種領域](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")。
   - 唱腔與[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[GACKT相似](../Page/GACKT.md "wikilink")，兩人曾合作拍[廣告](../Page/廣告.md "wikilink")。
   - 外表與[日本](../Page/日本.md "wikilink")[川越達也](https://zh.wikipedia.org/wiki/川越達也 "wikilink")[主廚神似](https://zh.wikipedia.org/wiki/主廚 "wikilink")，兩人曾合作拍[MV](https://zh.wikipedia.org/wiki/MV "wikilink")。
@@ -60,7 +59,7 @@ GO ROUND](http://www.nicovideo.jp/watch/sm16202181/)正式出道。
 <!-- end list -->
 
   - 「[みーちゃん](https://zh.wikipedia.org/wiki/みーちゃん "wikilink")」的漢字正確寫法是「未ーちゃん」。
-  - 2009年開始於影音分享網站「[NICONICO動畫](../Page/NICONICO動畫.md "wikilink")」投稿作品。
+  - 2009年開始於影音分享網站「[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")」投稿作品。
   - 因渾厚的低音與可愛的個性兩者間的反差而搏得廣大的人氣。
 
 
@@ -74,7 +73,7 @@ GO ROUND](http://www.nicovideo.jp/watch/sm16202181/)正式出道。
 <!-- end list -->
 
   - **ROOT FIVE**的[饒舌擔當](../Page/饒舌.md "wikilink")。
-  - 2008年開始於影音分享網站「[NICONICO動畫](../Page/NICONICO動畫.md "wikilink")」投稿作品。
+  - 2008年開始於影音分享網站「[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")」投稿作品。
   - 參與日劇「[花樣少男少女](https://zh.wikipedia.org/wiki/花樣少男少女 "wikilink")」演出等也以[演員身分展開活動](https://zh.wikipedia.org/wiki/演員 "wikilink")。
   - 同時是[TOTAL
     OBJECTION的成員](https://zh.wikipedia.org/wiki/TOTAL_OBJECTION "wikilink")。
@@ -93,7 +92,7 @@ GO ROUND](http://www.nicovideo.jp/watch/sm16202181/)正式出道。
 <!-- end list -->
 
   - 為團中最年長成員。
-  - 2008年開始於影音分享網站「[NICONICO動畫](../Page/NICONICO動畫.md "wikilink")」投稿作品。
+  - 2008年開始於影音分享網站「[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")」投稿作品。
   - 由於性感的嗓音與個性，而得到「殿下」這個暱稱。
   - 為遊戲「[熱砂の楽園](https://zh.wikipedia.org/wiki/熱砂の楽園 "wikilink")」唱主題曲。
   - 為動畫「[蟲奉行](../Page/蟲奉行.md "wikilink")」唱片頭曲。
@@ -165,7 +164,7 @@ ROUND](https://zh.wikipedia.org/wiki/MERRY_GO_ROUND "wikilink")\[
     01 純愛妄想
     (作詞・作曲・編曲:[koma'n](https://zh.wikipedia.org/wiki/ROOT_FIVE#koma.27n "wikilink"))
     02 告白的預演練習 -another story-
-    (作詞・作曲・編曲:[HoneyWorks](https://zh.wikipedia.org/wiki/HoneyWorks "wikilink"))　
+    (作詞・作曲・編曲:[HoneyWorks](../Page/HoneyWorks.md "wikilink"))　
     03 純愛妄想 (Instrumental)
     04 告白的預演練習 -another story- (Instrumental)
 
@@ -227,7 +226,8 @@ Treasure](https://zh.wikipedia.org/wiki/Love_Treasure "wikilink")\[
     (作詞・作曲:[koma'n](https://zh.wikipedia.org/wiki/ROOT_FIVE#koma.27n "wikilink"))
     12 心愛的人 (作詞・作曲:
     [doriko](https://zh.wikipedia.org/wiki/doriko "wikilink"))
-    13 地球最後的告白 (作詞・作曲:[kemu](../Page/kemu.md "wikilink"))
+    13 地球最後的告白
+    (作詞・作曲:[kemu](https://zh.wikipedia.org/wiki/kemu "wikilink"))
     14 櫻花雨
     (作詞・作曲:[halyosy](https://zh.wikipedia.org/wiki/halyosy "wikilink"))
 
@@ -308,13 +308,14 @@ FIVE](https://zh.wikipedia.org/wiki/the_BEST_of_ROOT_FIVE "wikilink")\[
     02 Mr.Music
     (作詞:[れるりり](https://zh.wikipedia.org/wiki/れるりり "wikilink")・[ロンチーノ=ペペ](https://zh.wikipedia.org/wiki/ロンチーノ=ペペ "wikilink")・[かごめP](https://zh.wikipedia.org/wiki/かごめP "wikilink")(英語詞)/作曲:[れるりり](https://zh.wikipedia.org/wiki/れるりり "wikilink")・[ロンチーノ=ペペ](https://zh.wikipedia.org/wiki/ロンチーノ=ペペ "wikilink")/編曲:[れるりり](https://zh.wikipedia.org/wiki/れるりり "wikilink")）
     03 告白的預演練習 -another story-
-    (作詞・作曲・編曲:[HoneyWorks](https://zh.wikipedia.org/wiki/HoneyWorks "wikilink"))
+    (作詞・作曲・編曲:[HoneyWorks](../Page/HoneyWorks.md "wikilink"))
     04
     跑吧(作詞・作曲・編曲:[ハヤシケイ](https://zh.wikipedia.org/wiki/ハヤシケイ "wikilink"))
     05 [Just Be
     Friends](../Page/Just_Be_Friends.md "wikilink")(作詞・作曲:[Dixie
     Flatline](https://zh.wikipedia.org/wiki/Dixie_Flatline "wikilink"))
-    06 地球最後的告白 (作詞・作曲:[kemu](../Page/kemu.md "wikilink"))
+    06 地球最後的告白
+    (作詞・作曲:[kemu](https://zh.wikipedia.org/wiki/kemu "wikilink"))
     07 櫻花雨
     (作詞・作曲:[halyosy](https://zh.wikipedia.org/wiki/halyosy "wikilink"))
     08 忌妒的答案

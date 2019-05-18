@@ -3,10 +3,10 @@ Face**》（相對論）是日本組合[化學超男子於](../Page/化學超男
 
 ## 解說
 
-  - 與前作《[fo(u)r](../Page/fo\(u\)r.md "wikilink")》相隔約2年3個月的新原創專輯，收錄單曲《[約定的地方](https://zh.wikipedia.org/wiki/約定的地方 "wikilink")》、《[遠影
+  - 與前作《[fo(u)r](https://zh.wikipedia.org/wiki/fo\(u\)r "wikilink")》相隔約2年3個月的新原創專輯，收錄單曲《[約定的地方](https://zh.wikipedia.org/wiki/約定的地方 "wikilink")》、《[遠影
     feat. John
     Legend](https://zh.wikipedia.org/wiki/遠影_feat._John_Legend "wikilink")》《[天空的奇跡](https://zh.wikipedia.org/wiki/天空的奇跡 "wikilink")》、《[This
-    Night](https://zh.wikipedia.org/wiki/This_Night "wikilink")》、《[靜默之川](https://zh.wikipedia.org/wiki/靜默之川 "wikilink")》與《[輝煌夜](https://zh.wikipedia.org/wiki/輝煌夜 "wikilink")》，其中《約定的地方》與《遠影
+    Night](https://zh.wikipedia.org/wiki/This_Night "wikilink")》、《[靜默之川](../Page/靜默之川.md "wikilink")》與《[輝煌夜](https://zh.wikipedia.org/wiki/輝煌夜 "wikilink")》，其中《約定的地方》與《遠影
     feat. John Legend》曾收錄於早前的精選輯《[ALL THE
     BEST](../Page/ALL_THE_BEST.md "wikilink")》。初回盤為特殊紙盒包裝。
   - 專輯的名字《Face to
@@ -24,12 +24,12 @@ Face**》（相對論）是日本組合[化學超男子於](../Page/化學超男
     <!-- end list -->
       -
         序曲。制作下一首歌曲《天空的奇跡》時、同曲所衍生的歌。企劃專輯《[Hot
-        Chemistry](https://zh.wikipedia.org/wiki/Hot_Chemistry "wikilink")》約3年以來的專輯序曲。
+        Chemistry](../Page/Hot_Chemistry.md "wikilink")》約3年以來的專輯序曲。
 2.  **[天空的奇跡](https://zh.wikipedia.org/wiki/天空的奇跡 "wikilink")**
       - 作詞：谷口尚久 作曲：谷口尚久 編曲：CHOKKAKU
     <!-- end list -->
       -
-        第20張單曲。[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")「[au](../Page/au_\(行動電話\).md "wikilink")
+        第20張單曲。[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")「[au](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")
         AQUOS Mobile W51SH」廣告歌曲。
 3.  **你的吻**
       - 作詞：田中花乃 作曲:谷口尚久 編曲：鹽川滿己
@@ -84,7 +84,7 @@ Face**》（相對論）是日本組合[化學超男子於](../Page/化學超男
         第18張單曲。電影「[打獵季節](../Page/打獵季節.md "wikilink")」日語版插曲。
 12. **deep inside of you**
       - 作詞：大智 作曲：大智、宮崎誠 編曲：youwhich
-13. **[靜默之川](https://zh.wikipedia.org/wiki/靜默之川 "wikilink")**
+13. **[靜默之川](../Page/靜默之川.md "wikilink")**
       - 作詞：[秋元康](../Page/秋元康.md "wikilink") 作曲：井上義正 編曲：CHOKKAKU
     <!-- end list -->
       -

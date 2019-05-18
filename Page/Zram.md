@@ -2,7 +2,7 @@
 
 即使RAM的价格相对较低（），zram仍有利于[嵌入式设备](https://zh.wikipedia.org/wiki/嵌入式设备 "wikilink")、[上网本和其它相似的低端硬件设备](../Page/上网本.md "wikilink")。这些设备通常使用[固态存储](https://zh.wikipedia.org/wiki/固态存储 "wikilink")，它们由于其固有性质而寿命有限，因而避免以其提供交换空间可防止其迅速磨损。此外，使用zRAM还可显著降低Linux系统用于交换的[I/O](https://zh.wikipedia.org/wiki/I/O "wikilink")\[3\]\[4\]。
 
-zram于3.14合并入[Linux内核主线](https://zh.wikipedia.org/wiki/Linux内核主线 "wikilink")，并于2014年3月30日发布\[5\]。截至发布于2014年6月8日的Linux内核3.15，zram可支持[LZ4](https://zh.wikipedia.org/wiki/LZ4_\(压缩算法\) "wikilink")[压缩算法](../Page/数据压缩.md "wikilink")，而[LZO仍然作为默认的压缩后端](https://zh.wikipedia.org/wiki/LZO "wikilink")。内核3.15中的修改还改进了性能，以及经由[sysfs切换压缩算法的能力](../Page/sysfs.md "wikilink")\[6\]。
+zram于3.14合并入[Linux内核主线](https://zh.wikipedia.org/wiki/Linux内核主线 "wikilink")，并于2014年3月30日发布\[5\]。截至发布于2014年6月8日的Linux内核3.15，zram可支持[LZ4](https://zh.wikipedia.org/wiki/LZ4_\(压缩算法\) "wikilink")[压缩算法](../Page/数据压缩.md "wikilink")，而[LZO仍然作为默认的压缩后端](https://zh.wikipedia.org/wiki/LZO "wikilink")。内核3.15中的修改还改进了性能，以及经由[sysfs切换压缩算法的能力](https://zh.wikipedia.org/wiki/sysfs "wikilink")\[6\]。
 
 Google在[Chrome
 OS中使用zram](../Page/Chrome_OS.md "wikilink")，它也成为了[Android](../Page/Android.md "wikilink")

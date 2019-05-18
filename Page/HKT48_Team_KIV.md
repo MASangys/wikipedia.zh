@@ -16,8 +16,8 @@ KIV組成成員的名單在隊伍首度宣佈成立至實際開始運作之間�
         H被打散，其中8名原Team H成員與8名升格的研究生組成新成立的Team KIV，並指定由多田愛佳擔任隊長。
       - 2月24日：在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[台場](https://zh.wikipedia.org/wiki/台場 "wikilink")所舉辦的[AKB48集團大組閣祭中](https://zh.wikipedia.org/wiki/AKB48集團大組閣祭 "wikilink")，宣佈4名研究生的補升格訊息，其中加入Team
         KIV的是[深川舞子與](https://zh.wikipedia.org/wiki/#深川舞子 "wikilink")[草場愛](https://zh.wikipedia.org/wiki/#草場愛 "wikilink")。除此之外，原本已公告要加入Team
-        KIV的[谷真理佳改移籍至SKE](https://zh.wikipedia.org/wiki/谷真理佳 "wikilink")48
-        Team E，但取而代之的Team E成員之一的木本花音宣佈至Team
+        KIV的[谷真理佳改移籍至SKE](../Page/谷真理佳.md "wikilink")48 Team
+        E，但取而代之的Team E成員之一的木本花音宣佈至Team
         KIV兼任。分隊總人數由16人增加至18人，並配合全集團各分隊追加副隊長的政策，指定宮脇咲良擔任副隊長。
       - 3月21日：在[福岡太陽宮](https://zh.wikipedia.org/wiki/福岡太陽宮 "wikilink")（）舉辦的九州巡迴演唱會最後一場活動之夜間公演的安可時段，新任的AKB48集團總經理[茅野忍](https://zh.wikipedia.org/wiki/茅野忍 "wikilink")（）上台宣佈追加升格4名研究生的訊息，其中加入Team
         KIV的為[伊藤來笑與](https://zh.wikipedia.org/wiki/#伊藤來笑 "wikilink")[岩花詩乃](https://zh.wikipedia.org/wiki/#岩花詩乃 "wikilink")。至此HKT48的二期研究生全體都升格為正式成員，而Team
@@ -39,7 +39,7 @@ KIV組成成員的名單在隊伍首度宣佈成立至實際開始運作之間�
         KIV的是[運上弘菜與](https://zh.wikipedia.org/wiki/#運上弘菜 "wikilink")[地頭江音音](https://zh.wikipedia.org/wiki/#地頭江音音 "wikilink")。分隊總人數由14人增加至16人。
   - 2018年：
       - 2月27日：田中優香舉辦畢業公演并正式離團。分隊成員人數減少成為15人。
-      - 10月29日：宮脇咲良因专任[IZ\*ONE暂停于HKT](https://zh.wikipedia.org/wiki/IZ*ONE "wikilink")48的活动。分隊成員人數減少成為14人。
+      - 10月29日：宮脇咲良因专任[IZ\*ONE暂停于HKT](../Page/IZ*ONE.md "wikilink")48的活动。分隊成員人數減少成為14人。
       - 11月26日：在HKT48 8周年纪念公演中，宣佈5名选秀3期研究生的升格訊息，其中加入Team
         KIV的是[馬場彩華](https://zh.wikipedia.org/wiki/#馬場彩華 "wikilink")。分隊總人數由14人增加至15人。
 
@@ -53,7 +53,7 @@ KIV名义发表的歌曲包括收录于第3張单曲《[櫻花，大家一起來
 《[去夏威夷吧](https://zh.wikipedia.org/wiki/去夏威夷吧 "wikilink")》（），第六張單曲
 《[吵死了！](../Page/吵死了！.md "wikilink")》Type-B版本中收錄的 《看见梦想的Team
 KIV》（），及第八張單曲
-《[最棒了唷](https://zh.wikipedia.org/wiki/最棒了唷 "wikilink")》Type-C版本中收錄的
+《[最棒了唷](../Page/最棒了唷.md "wikilink")》Type-C版本中收錄的
 《[Go
 Bananas\!](https://zh.wikipedia.org/wiki/Go_Bananas! "wikilink")》。而Team
 KIV的首齣剧场公演“[剧场的女神](https://zh.wikipedia.org/wiki/Team_B_5th_Stage“剧场的女神”#HKT48_Team_KIV_1st_Stage“剧场的女神” "wikilink")”，则是於2014年5月8日起于HKT48剧场不定期演出。在2016年3月31日的最终场“剧场的女神”结束后，Team
@@ -188,7 +188,7 @@ H創隊時升格的16名成員之一。相對於團體中的其他成員，熊�
       - 《[那一天的風鈴](https://zh.wikipedia.org/wiki/那一天的風鈴 "wikilink")》（）：以Waiting
         Girls的成員身份參與演唱。Waiting
         Girls是由171名有參與[第四次總選舉但沒有入圍前](../Page/AKB48第27張單曲選拔總選舉.md "wikilink")64名的圈外成員所共同組成，演唱大合唱曲《那一天的風鈴》。
-  - 《[倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢、我兀自持續想了好多天最後有點難為情地得到了一個結論](https://zh.wikipedia.org/wiki/倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢、我兀自持續想了好多天最後有點難為情地得到了一個結論 "wikilink")》（，第34張單曲）收錄曲：
+  - 《[倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢、我兀自持續想了好多天最後有點難為情地得到了一個結論](../Page/倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢、我兀自持續想了好多天最後有點難為情地得到了一個結論.md "wikilink")》（，第34張單曲）收錄曲：
       - 《[眨眼3次](https://zh.wikipedia.org/wiki/眨眼3次 "wikilink")》（）：收錄於Type-H版本中的《眨眼3次》是AKB48單曲唱片中所收錄的HKT48演唱曲。雖然是一首B面曲，但參與的實際上大都是單曲選拔組的主力成員，因此此曲也可非正式地視為是熊澤第一次入選選拔組的紀錄。
 
 <!-- end list -->
@@ -257,7 +257,7 @@ KIV之創隊成員名單之中。
 <!-- end list -->
 
   - 《[Green
-    Flash](https://zh.wikipedia.org/wiki/Green_Flash_\(AKB48單曲\) "wikilink")》，AKB48第39張單曲）收錄曲：
+    Flash](../Page/Green_Flash_\(AKB48單曲\).md "wikilink")》，AKB48第39張單曲）收錄曲：
       - 《[大人列車](https://zh.wikipedia.org/wiki/大人列車 "wikilink")》：收錄於Type
         H版本中的B面曲，是命名為「HKT48選拔」的臨時小隊之演唱曲，該小隊大部分是由HKT48的單曲選拔組成員組成。
 
@@ -267,7 +267,7 @@ KIV之創隊成員名單之中。
 KIV之創隊成員名單之中。除此之外，朝長也在同年2月的AKB48集團大組閣祭中，被點名至[AKB48](../Page/AKB48.md "wikilink")
 Team B兼任。
 
-朝長是HKT48的二期生之中最受幕後營運重點培養的成員之一，除了自團體第一首原創歌曲《[初戀蝴蝶](https://zh.wikipedia.org/wiki/初戀蝴蝶 "wikilink")》開始就一直是選拔組成員外，自第二張單曲《哈密瓜汁》起開始與田島芽瑠搭配、以研究生的身份擔任HKT48的雙center。除此之外，朝長也是創立時成員全為研究生的跨姊妹團體小隊「[小瓢蟲Chu\!](https://zh.wikipedia.org/wiki/小瓢蟲Chu! "wikilink")」（）的一員，並在Team
+朝長是HKT48的二期生之中最受幕後營運重點培養的成員之一，除了自團體第一首原創歌曲《[初戀蝴蝶](https://zh.wikipedia.org/wiki/初戀蝴蝶 "wikilink")》開始就一直是選拔組成員外，自第二張單曲《哈密瓜汁》起開始與田島芽瑠搭配、以研究生的身份擔任HKT48的雙center。除此之外，朝長也是創立時成員全為研究生的跨姊妹團體小隊「[小瓢蟲Chu\!](../Page/小瓢蟲Chu!.md "wikilink")」（）的一員，並在Team
 KIV成立之後的第一首隊曲《與前男友的哥哥交往這回事》（）中，與一期生宮脇咲良共同擔任分隊的center。
 
 在劇場公演中的自我介紹詞為「想要美櫻的笑臉嗎？只要一笑眼睛就會變成[腰果的形狀](../Page/腰果.md "wikilink")，我是暱稱Mio的朝長美櫻。」（），朝長經常在電視節目或公演中提及因為太緊張而不自覺的在人前用非常高亢的假音說話，並且以音痴的形象廣為人知甚至變成上節目時被戲弄的搞笑梗。雖然在HKT48的二期生中屬於年紀較小的一群，但朝長卻受到資深成員指原莉乃的稱讚，透露其私底下是個懂事程度異於同齡的認真成員。朝長也曾在錄製冠名節目《[HKT48的御出掛](https://zh.wikipedia.org/wiki/HKT48的御出掛 "wikilink")》外景時因為同期與後輩們太過我行我素造成工作人員的困擾，而召集眾人進行說教，並因此獲得擔任節目講評的[後藤輝基好評](../Page/後藤輝基.md "wikilink")。
@@ -400,7 +400,7 @@ KIV。森保官方暱稱是與名字相同的「」（Madoka），但成員與�
 International Piano Concours in
 Japan）等日本全國性的鋼琴比賽中獲得少年組前8與中學生組第9名的成績，在加入HKT48後森保除了有時會在演唱會中擔任鋼琴伴奏外，也曾在富士電視台於2013年底時播出的藝能界特殊才藝競賽節目《》中，與姊妹團體成員[生田繪梨花](../Page/生田繪梨花.md "wikilink")（[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")）、[松井咲子](../Page/松井咲子.md "wikilink")（AKB48）與其他擅長鋼琴演奏的藝人同台較勁，而受到注目。
 
-在歌曲作品的參與上，森保也一直是HKT48單曲選拔組的固定成員，並且在AKB48於2014年底推出的第38張單曲《[希望無限](https://zh.wikipedia.org/wiki/希望無限 "wikilink")》（）中首次入選AKB48的單曲選拔組。在媒體曝光上，除了經常在HKT48的主演節目中獲得出鏡機會外，也在擁有自己的冠名[電台廣播節目](../Page/電台廣播.md "wikilink")《》（）。
+在歌曲作品的參與上，森保也一直是HKT48單曲選拔組的固定成員，並且在AKB48於2014年底推出的第38張單曲《[希望無限](../Page/希望無限.md "wikilink")》（）中首次入選AKB48的單曲選拔組。在媒體曝光上，除了經常在HKT48的主演節目中獲得出鏡機會外，也在擁有自己的冠名[電台廣播節目](../Page/電台廣播.md "wikilink")《》（）。
 
 ## 暂停活动的成员
 
@@ -408,7 +408,7 @@ Japan）等日本全國性的鋼琴比賽中獲得少年組前8與中學生組�
 
 **宮脇咲良**（，1998年3月19日－），[鹿兒島縣出身](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")，是Team
 KIV的副隊長，與AKB48 Team A的兼任成員。宮脇是HKT48創立時的21名一期生之一，也是第一個分隊Team
-H創隊時升格的16名成員之一。暱稱「」（Sakura）或「」（Sakuratan）的宮脇是HKT48在創團之後第一次參與AKB48集團的單曲總選舉（2012年的[第四屆總選舉](../Page/AKB48第27張單曲選拔總選舉.md "wikilink")）時，唯一一個進入前64名入選範圍內的成員，而被認為是HKT48的王牌（Ace）候選人之一。雖然未曾實際在HKT48的單曲作品的A面曲中擔任過center，但卻多次擔任B面曲的center，數次入選AKB48的單曲選拔組名單，並獲選AKB48第38張單曲《[希望無限](https://zh.wikipedia.org/wiki/希望無限 "wikilink")》（）的雙center之一，成為HKT48的成員中除了[指原莉乃外](../Page/指原莉乃.md "wikilink")，第二個擔任過AKB48單曲center的成員。目前宮脇咲良因专任[IZ\*ONE暂停于HKT](https://zh.wikipedia.org/wiki/IZ*ONE "wikilink")48的活动。
+H創隊時升格的16名成員之一。暱稱「」（Sakura）或「」（Sakuratan）的宮脇是HKT48在創團之後第一次參與AKB48集團的單曲總選舉（2012年的[第四屆總選舉](../Page/AKB48第27張單曲選拔總選舉.md "wikilink")）時，唯一一個進入前64名入選範圍內的成員，而被認為是HKT48的王牌（Ace）候選人之一。雖然未曾實際在HKT48的單曲作品的A面曲中擔任過center，但卻多次擔任B面曲的center，數次入選AKB48的單曲選拔組名單，並獲選AKB48第38張單曲《[希望無限](../Page/希望無限.md "wikilink")》（）的雙center之一，成為HKT48的成員中除了[指原莉乃外](../Page/指原莉乃.md "wikilink")，第二個擔任過AKB48單曲center的成員。目前宮脇咲良因专任[IZ\*ONE暂停于HKT](../Page/IZ*ONE.md "wikilink")48的活动。
 
 宮脇咲良是平均年齡較低的HKT48中少數在入團前就擁有演藝經歷的成員，自小學三年級起就開始在[鹿兒島市的](https://zh.wikipedia.org/wiki/鹿兒島市 "wikilink")[歌劇學校接受訓練](https://zh.wikipedia.org/wiki/歌劇 "wikilink")，之後成為[童星經紀公司花生製作](../Page/童星.md "wikilink")（Nuts
 Production）旗下的藝人，參與過[四季劇團的](https://zh.wikipedia.org/wiki/四季劇團 "wikilink")[歌舞劇](https://zh.wikipedia.org/wiki/歌舞劇 "wikilink")《[獅子王](https://zh.wikipedia.org/wiki/獅子王 "wikilink")》之演出，甚至赴[紐約](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[百老匯接受短期的舞蹈與歌唱訓練](../Page/百老匯.md "wikilink")。
@@ -610,4 +610,4 @@ KIV成員中年紀也是最小，但卻擁有遠超過同齡女性平均值的�
 [Category:HKT48成員](https://zh.wikipedia.org/wiki/Category:HKT48成員 "wikilink")
 
 1.
-2.  「芋蟲Chu\!」是模仿惡搞自組成時成為全為研究生的AKB48集團跨姊妹團七人衍生團體[小瓢蟲Chu\!](https://zh.wikipedia.org/wiki/小瓢蟲Chu! "wikilink")（），成員共有五人，分別是富吉明日香、後藤泉、[駒田京伽](https://zh.wikipedia.org/wiki/駒田京伽 "wikilink")、[坂口理子與](https://zh.wikipedia.org/wiki/坂口理子_\(HKT48\) "wikilink")[谷真理佳](https://zh.wikipedia.org/wiki/谷真理佳 "wikilink")。
+2.  「芋蟲Chu\!」是模仿惡搞自組成時成為全為研究生的AKB48集團跨姊妹團七人衍生團體[小瓢蟲Chu\!](../Page/小瓢蟲Chu!.md "wikilink")（），成員共有五人，分別是富吉明日香、後藤泉、[駒田京伽](https://zh.wikipedia.org/wiki/駒田京伽 "wikilink")、[坂口理子與](https://zh.wikipedia.org/wiki/坂口理子_\(HKT48\) "wikilink")[谷真理佳](../Page/谷真理佳.md "wikilink")。

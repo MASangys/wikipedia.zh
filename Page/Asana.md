@@ -3,7 +3,7 @@
 在[Facebook时](../Page/Facebook.md "wikilink")，他们一起工作来改善其员工的工作效率。\[3\]
 
 Asana被数以千计的团队所使用。\[4\]其中包括公司例如[Twitter](../Page/Twitter.md "wikilink")、[Foursquare](../Page/Foursquare.md "wikilink")\[5\]、[LinkedIn](https://zh.wikipedia.org/wiki/LinkedIn "wikilink")、[Disqus](../Page/Disqus.md "wikilink")\[6\]、[Airbnb](https://zh.wikipedia.org/wiki/Airbnb "wikilink")、[Rdio](https://zh.wikipedia.org/wiki/Rdio "wikilink")、[AdParlor](https://zh.wikipedia.org/wiki/AdParlor "wikilink")、[Flapps](https://zh.wikipedia.org/wiki/Flapps "wikilink")、GDG
-Shanghai、TECH2IPO\[7\]、[優步和Entelo](https://zh.wikipedia.org/wiki/優步 "wikilink")。\[8\]
+Shanghai、TECH2IPO\[7\]、[優步和Entelo](../Page/優步.md "wikilink")。\[8\]
 
 ## API
 
@@ -14,7 +14,7 @@ Shanghai、TECH2IPO\[7\]、[優步和Entelo](https://zh.wikipedia.org/wiki/優�
 
   - [Basecamp
     (software)](https://zh.wikipedia.org/wiki/Basecamp_\(software\) "wikilink")
-  - [Trello](https://zh.wikipedia.org/wiki/Trello "wikilink")
+  - [Trello](../Page/Trello.md "wikilink")
   - [Kona](https://www.kona.com/welcome/)
   - [Clinked](Https://Clinked.com)
 

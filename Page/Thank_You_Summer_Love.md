@@ -1,5 +1,5 @@
 「**Thank You Summer
-Love**」（）是[KARA的第](../Page/KARA.md "wikilink")9張日文[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年7月24日由[UNIVERSAL
+Love**」（）是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")9張日文[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年7月24日由[UNIVERSAL
 SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
 
 ## 版本

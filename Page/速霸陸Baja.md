@@ -1,5 +1,5 @@
 **速霸陸Baja**（）為[日本](../Page/日本.md "wikilink")[富士重工業在](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")2003年至2006年間製造、販售的四門[皮卡貨車或](../Page/皮卡.md "wikilink")（coupé
-utility），專門外銷[北美洲](../Page/北美洲.md "wikilink")、[歐洲等市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。本車款乃衍生自第二代[速霸陸Outback](https://zh.wikipedia.org/wiki/速霸陸Outback "wikilink")，將後車廂改為車斗之設計。
+utility），專門外銷[北美洲](../Page/北美洲.md "wikilink")、[歐洲等市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。本車款乃衍生自第二代[速霸陸Outback](../Page/速霸陸Outback.md "wikilink")，將後車廂改為車斗之設計。
 
 車名「Baja」取自[下加利福尼亞半島](https://zh.wikipedia.org/wiki/下加利福尼亞半島 "wikilink")（），也就是著名的越野車比賽的舉辦地點。
 
@@ -9,7 +9,7 @@ utility），專門外銷[北美洲](../Page/北美洲.md "wikilink")、[歐洲�
 utility）[速霸陸BRAT](../Page/速霸陸BRAT.md "wikilink")，專門外銷北美洲、歐洲、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[紐西蘭等地](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，銷售成績不俗。2000年[底特律車展上](../Page/底特律車展.md "wikilink")，富士重工業公開一輛名為「ST-X」的[概念車](../Page/概念車.md "wikilink")，這輛車乃出自彼得·田（Peter
 Tenn）領軍的北美速霸陸設計團隊之手。2002年7月這輛車正式由[印第安那州](https://zh.wikipedia.org/wiki/印第安那州 "wikilink")[拉斐特的](https://zh.wikipedia.org/wiki/拉斐特_\(印第安纳州\) "wikilink")「速霸陸五十鈴汽車廠（同年12月起改稱〔Subaru
 of Indiana Automotive,
-Inc.〕）」量產製造，其機械結構、[底盤平台等皆取自第二代](https://zh.wikipedia.org/wiki/底盤 "wikilink")[速霸陸Outback](https://zh.wikipedia.org/wiki/速霸陸Outback "wikilink")，後行李廂改為可載運物品的車斗。除了美國當地，這款車也在[加拿大](../Page/加拿大.md "wikilink")、[智利等市場銷售](../Page/智利.md "wikilink")。
+Inc.〕）」量產製造，其機械結構、[底盤平台等皆取自第二代](https://zh.wikipedia.org/wiki/底盤 "wikilink")[速霸陸Outback](../Page/速霸陸Outback.md "wikilink")，後行李廂改為可載運物品的車斗。除了美國當地，這款車也在[加拿大](../Page/加拿大.md "wikilink")、[智利等市場銷售](../Page/智利.md "wikilink")。
 
 2004年 - 追加一具2.5L水平對臥四缸DOHC
 [EJ255型](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ255型 "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")，最大馬力是210hp
@@ -27,7 +27,7 @@ Image:Subaru--Baja.jpg Image:Subaru-Baja.jpg Image:SubaruBaja.jpg
 ## 內部連結
 
   - [速霸陸Legacy](../Page/速霸陸Legacy.md "wikilink")
-  - [速霸陸Outback](https://zh.wikipedia.org/wiki/速霸陸Outback "wikilink")
+  - [速霸陸Outback](../Page/速霸陸Outback.md "wikilink")
 
 ## 外部連結
 

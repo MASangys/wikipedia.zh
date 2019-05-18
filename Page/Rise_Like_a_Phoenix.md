@@ -7,7 +7,7 @@ Phoenix**，中譯為**鳳凰涅槃**（或譯作**浴火鳳凰**），為奧地
 ## 音樂錄影帶
 
 "Rise Like a
-Phoenix"的音樂錄影帶於2014年3月18日首次發佈到[youtube上](../Page/youtube.md "wikilink")，總長3:05。\[4\]
+Phoenix"的音樂錄影帶於2014年3月18日首次發佈到[youtube上](https://zh.wikipedia.org/wiki/youtube "wikilink")，總長3:05。\[4\]
 
 ## 曲目列表
 

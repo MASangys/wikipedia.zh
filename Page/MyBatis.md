@@ -1,15 +1,15 @@
 **MyBatis**是一个[Java](../Page/Java.md "wikilink")，它通过[XML描述符或注解把](../Page/XML.md "wikilink")[对象与](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")[存储过程或](https://zh.wikipedia.org/wiki/存储过程 "wikilink")[SQL语句关联起来](../Page/SQL.md "wikilink")。
 
 MyBatis是在[Apache许可证](../Page/Apache许可证.md "wikilink")
-2.0下分发的[自由软件](../Page/自由软件.md "wikilink")，是[iBATIS](../Page/iBATIS.md "wikilink")
-3.0的[分支版本](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")。其维护团队也包含[iBATIS的初创成员](../Page/iBATIS.md "wikilink")。
+2.0下分发的[自由软件](../Page/自由软件.md "wikilink")，是[iBATIS](https://zh.wikipedia.org/wiki/iBATIS "wikilink")
+3.0的[分支版本](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")。其维护团队也包含[iBATIS的初创成员](https://zh.wikipedia.org/wiki/iBATIS "wikilink")。
 
 ## 功能概况
 
 与其他的[对象关系映射框架不同](../Page/对象关系映射.md "wikilink")，MyBatis并没有将[Java](../Page/Java.md "wikilink")[对象与](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")[数据库表关联起来](../Page/数据库.md "wikilink")，而是将Java方法与[SQL语句关联](../Page/SQL.md "wikilink")。MyBatis允许用户充分利用[数据库的各种功能](../Page/数据库.md "wikilink")，例如存储过程、[视图](../Page/视图.md "wikilink")、各种复杂的查询以及某数据库的专有特性。如果要对遗留数据库、不规范的数据库进行操作，或者要完全控制SQL的执行，MyBatis是一个不错的选择。
 
 与[JDBC相比](https://zh.wikipedia.org/wiki/JDBC "wikilink")，MyBatis简化了相关代码：SQL语句在一行代码中就能执行。MyBatis提供了一个映射引擎，声明式的把SQL语句执行结果与对象树映射起来。通过使用一种内建的类XML表达式语言，或者使用[Apache
-Velocity集成的插件](https://zh.wikipedia.org/wiki/Apache_Velocity "wikilink")，SQL语句可以被动态的生成。
+Velocity集成的插件](../Page/Apache_Velocity.md "wikilink")，SQL语句可以被动态的生成。
 
 MyBatis与[Spring
 Framework和](../Page/Spring_Framework.md "wikilink")集成，这使开发者免于依赖性问题。
@@ -105,7 +105,7 @@ public class BlogServiceImpl implements BlogService {
 ## Velocity语言
 
 Velocity语言[驱动程序允许用户使用](../Page/驱动程序.md "wikilink")[Apache
-Velocity来快速生成动态SQL查询](https://zh.wikipedia.org/wiki/Apache_Velocity "wikilink")。
+Velocity来快速生成动态SQL查询](../Page/Apache_Velocity.md "wikilink")。
 
 ``` xml
 <select id="findPerson" lang="velocity">
@@ -130,10 +130,11 @@ Migrations可以查询当前数据库的状态，应用或恢复对的变更。�
 
 ## 历史
 
-MyBatis项目继承自[iBATIS](../Page/iBATIS.md "wikilink")
-3.0，其维护团队也包含[iBATIS的初创成员](../Page/iBATIS.md "wikilink")。
+MyBatis项目继承自[iBATIS](https://zh.wikipedia.org/wiki/iBATIS "wikilink")
+3.0，其维护团队也包含[iBATIS的初创成员](https://zh.wikipedia.org/wiki/iBATIS "wikilink")。
 
-2010年5月19日项目创建。当时Apache [iBATIS](../Page/iBATIS.md "wikilink")
+2010年5月19日项目创建。当时Apache
+[iBATIS](https://zh.wikipedia.org/wiki/iBATIS "wikilink")
 3.0发布，其开发团队宣布会在新的名字、新的站点中继续开发\[3\]。
 
 2013年11月10日，项目迁移到了[GitHub](../Page/GitHub.md "wikilink")。\[4\]
@@ -142,11 +143,11 @@ MyBatis项目继承自[iBATIS](../Page/iBATIS.md "wikilink")
 
   - [Hibernate](../Page/Hibernate.md "wikilink")
 
-  - [iBATIS](../Page/iBATIS.md "wikilink")
+  - [iBATIS](https://zh.wikipedia.org/wiki/iBATIS "wikilink")
 
   - [JDBC](https://zh.wikipedia.org/wiki/JDBC "wikilink")
 
-  - [Java持久化API](https://zh.wikipedia.org/wiki/Java持久化API "wikilink")（JPA）
+  - [Java持久化API](../Page/Java持久化API.md "wikilink")（JPA）
 
   -
   -

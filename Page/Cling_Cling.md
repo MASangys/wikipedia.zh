@@ -33,7 +33,7 @@ Records/Universal J](../Page/環球音樂_\(日本\).md "wikilink")。
 ## 參見
 
   - 《[MAGI9
-    PLAYLAND](https://zh.wikipedia.org/wiki/MAGI9_PLAYLAND "wikilink")》：[9nine於同年](../Page/9nine.md "wikilink")6月發行的專輯，同樣收錄了西脇姊妹共演的特典影片。
+    PLAYLAND](../Page/MAGI9_PLAYLAND.md "wikilink")》：[9nine於同年](../Page/9nine.md "wikilink")6月發行的專輯，同樣收錄了西脇姊妹共演的特典影片。
 
 ## 資料來源
 

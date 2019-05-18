@@ -1,4 +1,4 @@
-是一部紀念《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》作者[藤子·F·不二雄诞辰](../Page/藤子·F·不二雄.md "wikilink")80週年的[系列首部](https://zh.wikipedia.org/wiki/哆啦A夢電影作品 "wikilink")[3D电影](https://zh.wikipedia.org/wiki/3D电影 "wikilink")，於2014年8月8日在[日本上映](../Page/日本.md "wikilink")，內容结合了原著漫畫：《-{zh-tw:從未來之國千里迢迢而来;zh-cn:来自未来的机器猫}-》、《蛋中的静香》、《静香！再见！》、《雪山上的浪漫史》、《[大雄的結婚前夜](../Page/大雄的結婚前夜.md "wikilink")》、《再见哆啦A梦》和《[哆啦A梦回來了](https://zh.wikipedia.org/wiki/哆啦A梦回來了 "wikilink")》等篇目的经典剧情，由《[永遠的三丁目的夕陽](../Page/永遠的三丁目的夕陽.md "wikilink")》系列與《[永遠的0](../Page/永遠的0.md "wikilink")》編劇[山崎貴執筆](https://zh.wikipedia.org/wiki/山崎貴 "wikilink")，由《[麻吉妖怪島](../Page/麻吉妖怪島.md "wikilink")》[导演](https://zh.wikipedia.org/wiki/导演 "wikilink")[八木龍一與](https://zh.wikipedia.org/wiki/八木龍一 "wikilink")[山崎貴共同執導](https://zh.wikipedia.org/wiki/山崎貴 "wikilink")。在2014年10月24日举行的[东京国际电影节上](https://zh.wikipedia.org/wiki/东京国际电影节 "wikilink")，本片的英语配音版首次上映\[1\]。
+是一部紀念《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》作者[藤子·F·不二雄诞辰](../Page/藤子·F·不二雄.md "wikilink")80週年的[系列首部](https://zh.wikipedia.org/wiki/哆啦A夢電影作品 "wikilink")[3D电影](https://zh.wikipedia.org/wiki/3D电影 "wikilink")，於2014年8月8日在[日本上映](../Page/日本.md "wikilink")，內容结合了原著漫畫：《-{zh-tw:從未來之國千里迢迢而来;zh-cn:来自未来的机器猫}-》、《蛋中的静香》、《静香！再见！》、《雪山上的浪漫史》、《[大雄的結婚前夜](../Page/大雄的結婚前夜.md "wikilink")》、《再见哆啦A梦》和《[哆啦A梦回來了](https://zh.wikipedia.org/wiki/哆啦A梦回來了 "wikilink")》等篇目的经典剧情，由《[永遠的三丁目的夕陽](../Page/永遠的三丁目的夕陽.md "wikilink")》系列與《[永遠的0](../Page/永遠的0.md "wikilink")》編劇[山崎貴執筆](https://zh.wikipedia.org/wiki/山崎貴 "wikilink")，由《[麻吉妖怪島](../Page/麻吉妖怪島.md "wikilink")》[导演](https://zh.wikipedia.org/wiki/导演 "wikilink")[八木龍一與](../Page/八木龍一.md "wikilink")[山崎貴共同執導](https://zh.wikipedia.org/wiki/山崎貴 "wikilink")。在2014年10月24日举行的[东京国际电影节上](https://zh.wikipedia.org/wiki/东京国际电影节 "wikilink")，本片的英语配音版首次上映\[1\]。
 
 本電影既是[香港多年來聲演多啦A夢的資深](../Page/香港.md "wikilink")[配音員](../Page/配音員.md "wikilink")[林保全的遺作](../Page/林保全.md "wikilink")，亦是第四代胖虎配音員[陳卓智暫別](../Page/陳卓智.md "wikilink")[無綫電視前的最後作品](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")。
 
@@ -64,7 +64,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><strong><a href="../Page/出木杉英才.md" title="wikilink">出木杉</a></strong></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/萩野志保子" title="wikilink">萩野志保子</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/萩野志保子.md" title="wikilink">萩野志保子</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><strong><a href="../Page/哆啦美.md" title="wikilink">哆啦美</a></strong></p></td>
@@ -107,7 +107,7 @@
   - 劇本：[山崎貴](https://zh.wikipedia.org/wiki/山崎貴 "wikilink")
   - 導演：八木龍一、山崎貴
   - 製作：2014-{zh-hant:「;zh-hans:《}-STAND BY ME
-    哆啦A夢-{zh-hant:」;zh-hans:》}-製作委員會（[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")、[藤子·F·不二雄製作公司](../Page/藤子·F·不二雄製作公司.md "wikilink")、[小學館](../Page/小學館.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")、[小學館集英社製作](../Page/小學館集英社製作.md "wikilink")、[東寶](../Page/東寶.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[白組](https://zh.wikipedia.org/wiki/白組 "wikilink")、[ROBOT](https://zh.wikipedia.org/wiki/ROBOT "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[名～電](../Page/名古屋電視台.md "wikilink")、阿部秀司事務所、[北海道電視台](../Page/北海道電視台.md "wikilink")、[九州朝日放送](https://zh.wikipedia.org/wiki/九州朝日放送 "wikilink")、[廣島HOME電視台](https://zh.wikipedia.org/wiki/廣島HOME電視台 "wikilink")）
+    哆啦A夢-{zh-hant:」;zh-hans:》}-製作委員會（[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")、[藤子·F·不二雄製作公司](../Page/藤子·F·不二雄製作公司.md "wikilink")、[小學館](../Page/小學館.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")、[小學館集英社製作](../Page/小學館集英社製作.md "wikilink")、[東寶](../Page/東寶.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[白組](../Page/白組.md "wikilink")、[ROBOT](https://zh.wikipedia.org/wiki/ROBOT "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[名～電](../Page/名古屋電視台.md "wikilink")、阿部秀司事務所、[北海道電視台](../Page/北海道電視台.md "wikilink")、[九州朝日放送](https://zh.wikipedia.org/wiki/九州朝日放送 "wikilink")、[廣島HOME電視台](https://zh.wikipedia.org/wiki/廣島HOME電視台 "wikilink")）
   - 製作：SHIN-EI動畫、白組、ROBOT
   - 製作協力：藤子·F·不二雄製作公司、阿部秀司事務所
   - 發行：東寶
@@ -141,13 +141,13 @@
 <p>《<a href="https://zh.wikipedia.org/wiki/向日葵的約定" title="wikilink">向日葵的約定</a>》<br />
 （）</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/秦基博" title="wikilink">秦基博</a></p></td>
+<p><a href="../Page/秦基博.md" title="wikilink">秦基博</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/秦基博" title="wikilink">秦基博</a></p></td>
+<p><a href="../Page/秦基博.md" title="wikilink">秦基博</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/秦基博" title="wikilink">秦基博</a>、皆川真人</p></td>
+<p><a href="../Page/秦基博.md" title="wikilink">秦基博</a>、皆川真人</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/秦基博" title="wikilink">秦基博</a></p></td>
+<p><a href="../Page/秦基博.md" title="wikilink">秦基博</a></p></td>
 <td><center>
 <p>日本創作歌手</p></td>
 </tr>
@@ -171,7 +171,7 @@
 <td><center>
 <p><a href="../Page/王雅君.md" title="wikilink">王雅君</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/秦基博" title="wikilink">秦基博</a></p></td>
+<p><a href="../Page/秦基博.md" title="wikilink">秦基博</a></p></td>
 <td></td>
 <td><p>|</p>
 <center>
@@ -195,7 +195,7 @@
 
 ## 票房
 
-影片在全球60个国家和地区上映，包括[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳门](https://zh.wikipedia.org/wiki/澳门 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")、[文莱](https://zh.wikipedia.org/wiki/文莱 "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[泰国](../Page/泰国.md "wikilink")、[老挝](../Page/老挝.md "wikilink")、[柬埔寨](../Page/柬埔寨.md "wikilink")、[缅甸](https://zh.wikipedia.org/wiki/缅甸 "wikilink")、[菲律宾](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")、[印度尼西亚](../Page/印度尼西亚.md "wikilink")、[印度](../Page/印度.md "wikilink")、[尼泊尔](../Page/尼泊尔.md "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")、[孟加拉国](../Page/孟加拉国.md "wikilink")、[斯里兰卡](https://zh.wikipedia.org/wiki/斯里兰卡 "wikilink")、[马尔代夫](../Page/马尔代夫.md "wikilink")、[不丹](../Page/不丹.md "wikilink")、[阿尔及利亚](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")、[阿富汗](../Page/阿富汗.md "wikilink")、[巴林](../Page/巴林.md "wikilink")、[乍得](../Page/乍得.md "wikilink")、[科摩罗](https://zh.wikipedia.org/wiki/科摩罗 "wikilink")、[吉布提](../Page/吉布提.md "wikilink")、[埃及](../Page/埃及.md "wikilink")、[厄立特里亚](../Page/厄立特里亚.md "wikilink")、[伊拉克](../Page/伊拉克.md "wikilink")、[约旦](../Page/约旦.md "wikilink")、[科威特](../Page/科威特.md "wikilink")、[黎巴嫩](../Page/黎巴嫩.md "wikilink")、[利比亚](../Page/利比亚.md "wikilink")、[毛里塔尼亚](../Page/毛里塔尼亚.md "wikilink")、[摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")、[阿曼](../Page/阿曼.md "wikilink")、[巴勒斯坦](https://zh.wikipedia.org/wiki/巴勒斯坦 "wikilink")、[卡塔尔](../Page/卡塔尔.md "wikilink")、[沙特阿拉伯](../Page/沙特阿拉伯.md "wikilink")、[索马里](../Page/索马里.md "wikilink")、[苏丹](https://zh.wikipedia.org/wiki/苏丹 "wikilink")、[南苏丹](https://zh.wikipedia.org/wiki/南苏丹 "wikilink")、[叙利亚](../Page/叙利亚.md "wikilink")、[突尼斯](https://zh.wikipedia.org/wiki/突尼斯 "wikilink")、[阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")、[西撒哈拉](../Page/西撒哈拉.md "wikilink")、[也门](../Page/也门.md "wikilink")、[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")、[埃塞俄比亚](../Page/埃塞俄比亚.md "wikilink")、[意大利](../Page/意大利.md "wikilink")、[圣马力诺](../Page/圣马力诺.md "wikilink")、[梵蒂冈](../Page/梵蒂冈.md "wikilink")、[马耳他](../Page/马耳他.md "wikilink")、[摩纳哥](../Page/摩纳哥.md "wikilink")、[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[法国和](https://zh.wikipedia.org/wiki/法国 "wikilink")[美国](../Page/美国.md "wikilink")\[3\]\[4\]\[5\]\[6\]。
+影片在全球60个国家和地区上映，包括[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳门](https://zh.wikipedia.org/wiki/澳门 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")、[文莱](https://zh.wikipedia.org/wiki/文莱 "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[泰国](../Page/泰国.md "wikilink")、[老挝](../Page/老挝.md "wikilink")、[柬埔寨](../Page/柬埔寨.md "wikilink")、[缅甸](https://zh.wikipedia.org/wiki/缅甸 "wikilink")、[菲律宾](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")、[印度尼西亚](../Page/印度尼西亚.md "wikilink")、[印度](../Page/印度.md "wikilink")、[尼泊尔](../Page/尼泊尔.md "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")、[孟加拉国](../Page/孟加拉国.md "wikilink")、[斯里兰卡](https://zh.wikipedia.org/wiki/斯里兰卡 "wikilink")、[马尔代夫](../Page/马尔代夫.md "wikilink")、[不丹](../Page/不丹.md "wikilink")、[阿尔及利亚](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")、[阿富汗](../Page/阿富汗.md "wikilink")、[巴林](../Page/巴林.md "wikilink")、[乍得](../Page/乍得.md "wikilink")、[科摩罗](https://zh.wikipedia.org/wiki/科摩罗 "wikilink")、[吉布提](../Page/吉布提.md "wikilink")、[埃及](../Page/埃及.md "wikilink")、[厄立特里亚](../Page/厄立特里亚.md "wikilink")、[伊拉克](../Page/伊拉克.md "wikilink")、[约旦](../Page/约旦.md "wikilink")、[科威特](../Page/科威特.md "wikilink")、[黎巴嫩](../Page/黎巴嫩.md "wikilink")、[利比亚](../Page/利比亚.md "wikilink")、[毛里塔尼亚](../Page/毛里塔尼亚.md "wikilink")、[摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")、[阿曼](../Page/阿曼.md "wikilink")、[巴勒斯坦](../Page/巴勒斯坦.md "wikilink")、[卡塔尔](../Page/卡塔尔.md "wikilink")、[沙特阿拉伯](../Page/沙特阿拉伯.md "wikilink")、[索马里](../Page/索马里.md "wikilink")、[苏丹](https://zh.wikipedia.org/wiki/苏丹 "wikilink")、[南苏丹](https://zh.wikipedia.org/wiki/南苏丹 "wikilink")、[叙利亚](../Page/叙利亚.md "wikilink")、[突尼斯](https://zh.wikipedia.org/wiki/突尼斯 "wikilink")、[阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")、[西撒哈拉](../Page/西撒哈拉.md "wikilink")、[也门](../Page/也门.md "wikilink")、[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")、[埃塞俄比亚](../Page/埃塞俄比亚.md "wikilink")、[意大利](../Page/意大利.md "wikilink")、[圣马力诺](../Page/圣马力诺.md "wikilink")、[梵蒂冈](../Page/梵蒂冈.md "wikilink")、[马耳他](../Page/马耳他.md "wikilink")、[摩纳哥](../Page/摩纳哥.md "wikilink")、[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[法国和](https://zh.wikipedia.org/wiki/法国 "wikilink")[美国](../Page/美国.md "wikilink")\[3\]\[4\]\[5\]\[6\]。
 
 影片于2014年8月8日在日本上映，上映後40日累计達到70億日圓\[7\]、第76日突破80億日圓\[8\]，為2014年日本上映電影票房首位\[9\]。票房收入在上映以來曾經連續5週獲得票房首位\[10\]。
 

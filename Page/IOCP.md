@@ -13,7 +13,7 @@ IOCP对象内部有一个先进先出（FIFO）队列，用于存放IOCP所关�
 
 ## Windows操作系统
 
-IOCP是唯一一个不需要安全属性的[Windows内核对象](https://zh.wikipedia.org/wiki/Windows对象管理 "wikilink")。
+IOCP是唯一一个不需要安全属性的[Windows内核对象](../Page/Windows对象管理.md "wikilink")。
 这是因为IO完成端口在设计时就是只在一个进程中使用。
 
 使用CreateIoCompletionPort函数创建一个新的IOCP，或把socket或文件句柄与一个已存在的IOCP关联起来。

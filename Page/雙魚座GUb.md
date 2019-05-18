@@ -1,5 +1,5 @@
 **雙魚座GUb**（**GU Piscium b**、**GU Psc
-b**）\[1\]是一顆以直接攝影方式發現的行星質量天體。它和母恆星[雙魚座GU的軌道半長軸高達](https://zh.wikipedia.org/wiki/雙魚座GU "wikilink")，並且在天球上的視[角距離達到](https://zh.wikipedia.org/wiki/角距離 "wikilink")42[角秒](https://zh.wikipedia.org/wiki/角秒 "wikilink")\[2\]\[3\]。該行星在天球上的座標為[赤經](https://zh.wikipedia.org/wiki/赤經 "wikilink")，[赤緯](https://zh.wikipedia.org/wiki/赤緯 "wikilink")，距離地球約\[4\]。
+b**）\[1\]是一顆以直接攝影方式發現的行星質量天體。它和母恆星[雙魚座GU的軌道半長軸高達](../Page/雙魚座GU.md "wikilink")，並且在天球上的視[角距離達到](https://zh.wikipedia.org/wiki/角距離 "wikilink")42[角秒](https://zh.wikipedia.org/wiki/角秒 "wikilink")\[2\]\[3\]。該行星在天球上的座標為[赤經](https://zh.wikipedia.org/wiki/赤經 "wikilink")，[赤緯](https://zh.wikipedia.org/wiki/赤緯 "wikilink")，距離地球約\[4\]。
 
 ## 特徵
 

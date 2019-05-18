@@ -36,7 +36,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[大橋彩香](../Page/大橋彩香.md "wikilink")（聲）、吉河順央（歌・動畫前期）、市倉有菜（歌・動畫後期）／港：[黃昕瑜](../Page/黃昕瑜.md "wikilink")、[鄭麗麗](../Page/鄭麗麗.md "wikilink")（代配）／台：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（動畫版第1、2部）、[劉如蘋](../Page/劉如蘋.md "wikilink")（第1集）、[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")（動畫版第3部）、[連思宇](../Page/連思宇.md "wikilink")（STARS第70集）
+    配音員：日：[大橋彩香](../Page/大橋彩香.md "wikilink")（聲）、吉河順央（歌・動畫前期）、市倉有菜（歌・動畫後期）／港：[黃昕瑜](../Page/黃昕瑜.md "wikilink")、[鄭麗麗](../Page/鄭麗麗.md "wikilink")（代配）／台：[馮嘉德](../Page/馮嘉德.md "wikilink")（動畫版第1、2部）、[劉如蘋](../Page/劉如蘋.md "wikilink")（第1集）、[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")（動畫版第3部）、[連思宇](../Page/連思宇.md "wikilink")（STARS第70集）
     8月3日出生，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，血型[AB型](https://zh.wikipedia.org/wiki/AB型 "wikilink")。
     街機第1彈開始即登場。
     常用品牌：**SPICY AGEHA**
@@ -59,7 +59,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[沼倉愛美](../Page/沼倉愛美.md "wikilink")（聲）、山崎萌（歌・動畫前期）、美谷玲實（歌・動畫後期）／港：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")／台：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（動畫版第1、2部）、[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起、劇場版）、[劉如蘋](../Page/劉如蘋.md "wikilink")（STARS第70集）
+    配音員：日：[沼倉愛美](../Page/沼倉愛美.md "wikilink")（聲）、山崎萌（歌・動畫前期）、美谷玲實（歌・動畫後期）／港：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")（動畫版第1、2部）、[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起、劇場版）、[劉如蘋](../Page/劉如蘋.md "wikilink")（STARS第70集）
     12月26日出生，[摩羯座](../Page/摩羯座.md "wikilink")，血型[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")。
     街機第3彈開始登場，於動畫19集登場。
     常用品牌：**Loli Gothic**
@@ -70,7 +70,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[安野希世乃](https://zh.wikipedia.org/wiki/安野希世乃 "wikilink")（聲）、愛野繪理（歌）／港：[成瑤孆](../Page/成瑤孆.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")（動畫版第1、2部）、[傅其慧](../Page/傅其慧.md "wikilink")（遊戲版）、[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起、劇場版）
+    配音員：日：[安野希世乃](../Page/安野希世乃.md "wikilink")（聲）、愛野繪理（歌）／港：[成瑤孆](../Page/成瑤孆.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")（動畫版第1、2部）、[傅其慧](../Page/傅其慧.md "wikilink")（遊戲版）、[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起、劇場版）
     4月6日出生，[白羊座](../Page/白羊座.md "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
     街機第4彈開始登場，於動畫26集登場。
     常用品牌：**Aurora Fantasy**
@@ -92,7 +92,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")（聲）、市倉有菜（歌）／港：[魏惠娥](../Page/魏惠娥.md "wikilink")／台：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（動畫版第1、2部）、[龍顯蕙](../Page/龍顯蕙.md "wikilink")→[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起）、[張乃文](https://zh.wikipedia.org/wiki/張乃文_\(配音員\) "wikilink")（劇場版）
+    配音員：日：[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")（聲）、市倉有菜（歌）／港：[魏惠娥](../Page/魏惠娥.md "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")（動畫版第1、2部）、[龍顯蕙](../Page/龍顯蕙.md "wikilink")→[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起）、[張乃文](../Page/張乃文_\(配音員\).md "wikilink")（劇場版）
     1月11日出生，[摩羯座](../Page/摩羯座.md "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
     常用品牌：**FUTURING GIRL**
     最喜歡的食物是巧克力奶油蛋糕。討厭碳酸飲料（如可樂）。
@@ -173,7 +173,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[齋藤綾](https://zh.wikipedia.org/wiki/齋藤綾 "wikilink")（聲）、天音美穗（歌）／港：[吳羨婷](../Page/吳羨婷.md "wikilink")／台：[李昀晴](../Page/李昀晴.md "wikilink")
+    配音員：日：[齋藤綾](../Page/齋藤綾.md "wikilink")（聲）、天音美穗（歌）／港：[吳羨婷](../Page/吳羨婷.md "wikilink")／台：[李昀晴](../Page/李昀晴.md "wikilink")
     7月31日出生，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")
     。
     街機2015年第2彈與動畫109話登場。
@@ -202,7 +202,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[川上千尋](https://zh.wikipedia.org/wiki/川上千尋 "wikilink")（聲）、星咲花那（歌）／港：[何璐怡](../Page/何璐怡.md "wikilink")／台：[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")
+    配音員：日：[川上千尋](../Page/川上千尋.md "wikilink")（聲）、星咲花那（歌）／港：[何璐怡](../Page/何璐怡.md "wikilink")／台：[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")
     2月14日出生，[水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。
     街機2015年第4彈與動畫127話登場。
     常用品牌：**Angely Sugar**
@@ -227,7 +227,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[福沙奈惠](../Page/福沙奈惠.md "wikilink")（聲）、松岡七瀬（歌）／台：[張乃文](https://zh.wikipedia.org/wiki/張乃文_\(配音員\) "wikilink")
+    配音員：日：[福沙奈惠](../Page/福沙奈惠.md "wikilink")（聲）、松岡七瀬（歌）／台：[張乃文](../Page/張乃文_\(配音員\).md "wikilink")
     12月14日出生，射手座，血型A型。
     預定於街機2016年第1彈與動畫153話登場登場。
     常用品牌：**Dolly devil**
@@ -237,7 +237,7 @@
 ### 夢幻學院
 
   -
-    配音員：日：[石原夏織](../Page/石原夏織.md "wikilink")（聲）、上花楓裏（歌）／港：[何璐怡](../Page/何璐怡.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")（動畫版第2部）→[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")（動畫版第3部）→[張乃文](https://zh.wikipedia.org/wiki/張乃文_\(配音員\) "wikilink")（動畫版第4部、劇場版）
+    配音員：日：[石原夏織](../Page/石原夏織.md "wikilink")（聲）、上花楓裏（歌）／港：[何璐怡](../Page/何璐怡.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")（動畫版第2部）→[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")（動畫版第3部）→[張乃文](../Page/張乃文_\(配音員\).md "wikilink")（動畫版第4部、劇場版）
     11月11日出生，[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。街機2014年第1彈與動畫第51集登場。夢想學院的插班新人，與小莓同屆。喜歡的品牌是「**Swing
     ROCK**」。
     入學前和朋友經營樂團，是持有絕對音感的音樂少女。家中經營咖啡廳，非常喜歡貓。被說可愛時會害羞。於第94集與小莓組成二人組合「**2wings**」。
@@ -246,7 +246,7 @@
 <!-- end list -->
 
   -
-    配音員：日：（聲）、市倉有菜（歌）／港：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")／台：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（動畫版第2部）→[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起、劇場版）
+    配音員：日：（聲）、市倉有菜（歌）／港：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")（動畫版第2部）→[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起、劇場版）
     12月3日出生，[射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。街機2014年第1彈與動畫第51集登場。夢想學院學生、與小莓同屆。喜歡的品牌是「**MAGICAL
     TOY**」。
     在學校內選擇製作人課程，並擔任星羅的專屬製作人。日夜都為星羅的製作操心，但對自己的事非常不在行。常喝「腦力閃電 (Brain
@@ -267,7 +267,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[富岡美沙子](../Page/富岡美沙子.md "wikilink")（聲）、愛野繪理（歌）／港：[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")→[廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink")（第139集起）／台：[傅其慧](../Page/傅其慧.md "wikilink")（動畫版第2部）、[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")（動畫版第3部起）、[張乃文](https://zh.wikipedia.org/wiki/張乃文_\(配音員\) "wikilink")（劇場版）
+    配音員：日：[富岡美沙子](../Page/富岡美沙子.md "wikilink")（聲）、愛野繪理（歌）／港：[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")→[廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink")（第139集起）／台：[傅其慧](../Page/傅其慧.md "wikilink")（動畫版第2部）、[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")（動畫版第3部起）、[張乃文](../Page/張乃文_\(配音員\).md "wikilink")（劇場版）
     4月18日出生，[白羊座](../Page/白羊座.md "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。街機2014年第3彈與動畫第68集登場。與小莓同屆。喜歡的品牌是「**Aurora
     Fantasy**」。
     人氣偶像，擅長美妝造型。家境相當富裕，買下大片山地經營牧場，在那裡遇見院長，被說服加入夢幻學院。
@@ -275,7 +275,7 @@
 ### 其他
 
   -
-    配音員：日：[壽美菜子](../Page/壽美菜子.md "wikilink")（聲）、笹鎌里須子（歌）／港：[詹健兒](../Page/詹健兒.md "wikilink")／台：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（動畫版第1、2部）→[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")（動畫版第3部起、劇場版）→[石-{采}-薇](../Page/石采薇.md "wikilink")（STARS第70集）
+    配音員：日：[壽美菜子](../Page/壽美菜子.md "wikilink")（聲）、笹鎌里須子（歌）／港：[詹健兒](../Page/詹健兒.md "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")（動畫版第1、2部）→[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")（動畫版第3部起、劇場版）→[石-{采}-薇](../Page/石采薇.md "wikilink")（STARS第70集）
     9月18日出生，[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")
     身高165cm。
     街機2013年開始以NPC身分登場，第六彈及2014年第四彈開始可以玩家身分出場。
@@ -288,7 +288,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[洲崎绫](https://zh.wikipedia.org/wiki/洲崎绫 "wikilink")（聲）、巴山萌菜（歌）／港：[張頌欣](../Page/張頌欣.md "wikilink")／台：[傅其慧](../Page/傅其慧.md "wikilink")（動畫版第1、2部）→[龍顯蕙](../Page/龍顯蕙.md "wikilink")（動畫版第3部）→[張乃文](https://zh.wikipedia.org/wiki/張乃文_\(配音員\) "wikilink")（動畫版第4部、劇場版）
+    配音員：日：[洲崎绫](https://zh.wikipedia.org/wiki/洲崎绫 "wikilink")（聲）、巴山萌菜（歌）／港：[張頌欣](../Page/張頌欣.md "wikilink")／台：[傅其慧](../Page/傅其慧.md "wikilink")（動畫版第1、2部）→[龍顯蕙](../Page/龍顯蕙.md "wikilink")（動畫版第3部）→[張乃文](../Page/張乃文_\(配音員\).md "wikilink")（動畫版第4部、劇場版）
     7月7日出生，[巨蟹座](../Page/巨蟹座.md "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")
     身高163cm。街機2014年第4彈與動畫第78集正式登場。喜歡的品牌是「**ViVid Kiss**」。
     突然與美月一起以雙人組合「**WM**」名義進入演藝圈的神秘新人。在花店工作，對花語以及服裝品味都很在行。
@@ -329,7 +329,7 @@
 ### 主要相關者
 
   -
-    配音員：日：[松谷彼哉](https://zh.wikipedia.org/wiki/松谷彼哉 "wikilink")、りさ（歌）／港：[朱妙蘭](../Page/朱妙蘭.md "wikilink")→[陸惠玲](../Page/陸惠玲.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")（第1、2部）→[龍顯蕙](../Page/龍顯蕙.md "wikilink")（第3部起與劇場版）
+    配音員：日：[松谷彼哉](../Page/松谷彼哉.md "wikilink")、りさ（歌）／港：[朱妙蘭](../Page/朱妙蘭.md "wikilink")→[陸惠玲](../Page/陸惠玲.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")（第1、2部）→[龍顯蕙](../Page/龍顯蕙.md "wikilink")（第3部起與劇場版）
     星光學園的學園長。從演藝圈引退之前為傳說的偶像組合「假面舞會」的成員，過去的藝名為「姬」。在事業巔峰時為了繼承父親光石陽太郎的事業而引退，同時成為星光學園學園長。
     對學生採用開放性發展，但會主導各類的演出工作機會接洽，也會給予現煩惱的學生幫助。
     偶像氣場是「薔薇與閃亮泡泡」。
@@ -353,7 +353,7 @@
 ### 學校學生
 
   -
-    配音員：日：[福沙奈惠](../Page/福沙奈惠.md "wikilink")／港：[吳羨婷](../Page/吳羨婷.md "wikilink")／台：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")
+    配音員：日：[福沙奈惠](../Page/福沙奈惠.md "wikilink")／港：[吳羨婷](../Page/吳羨婷.md "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")
     小莓的的同年級生，日本與美國的混血兒，與同學朝美組成女子雙重唱「SPLASH」。
 
 <!-- end list -->
@@ -378,7 +378,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[雨宮天](https://zh.wikipedia.org/wiki/雨宮天 "wikilink")／港：[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")／台：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")
+    配音員：日：[雨宮天](https://zh.wikipedia.org/wiki/雨宮天 "wikilink")／港：[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")
     第12話登場，由於父母在美國工作而無法與她一起過聖誕節，同時想念童年看過的大聖誕樹；因此小莓她們就爽快地答應她，而去砍伐一棵大樹當作聖誕樹，讓她不再難過。
 
 <!-- end list -->
@@ -537,7 +537,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[安野希世乃](https://zh.wikipedia.org/wiki/安野希世乃 "wikilink")
+    配音員：日：[安野希世乃](../Page/安野希世乃.md "wikilink")
 
 <!-- end list -->
 
@@ -623,7 +623,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[中惠光城](https://zh.wikipedia.org/wiki/中惠光城 "wikilink")
+    配音員：日：[中惠光城](../Page/中惠光城.md "wikilink")
     明里的同班同學，血型A型，身高155cm，街機2015年系列活動卡出場。
 
 <!-- end list -->
@@ -634,7 +634,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[清水彩香](../Page/清水彩香.md "wikilink")／台：[張乃文](https://zh.wikipedia.org/wiki/張乃文_\(配音員\) "wikilink")
+    配音員：日：[清水彩香](../Page/清水彩香.md "wikilink")／台：[張乃文](../Page/張乃文_\(配音員\).md "wikilink")
     明里的隔壁班同學，被稱為「完美的女士」。喜歡的品牌是「Dreamy Crown」。
     希望從瀨名翼得到特別卡片，曾被拒絕。為了與瀨名翼見面而跟着明里，但看到明里的表演後決定待自己的能力有所提升再拜託他。
 
@@ -659,7 +659,7 @@
 ### 學校職員
 
   -
-    配音員：日：[奧原彩](https://zh.wikipedia.org/wiki/奧原彩 "wikilink")／台：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")
+    配音員：日：[奧原彩](https://zh.wikipedia.org/wiki/奧原彩 "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")
     星光學園的教師，負責衣裝課程。
 
 <!-- end list -->
@@ -695,7 +695,7 @@
 ## 藝能工作者
 
   -
-    配音員：日：[淺川悠](../Page/淺川悠.md "wikilink")／港：[黃玉娟](../Page/黃玉娟.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")(動畫版)、[張乃文](https://zh.wikipedia.org/wiki/張乃文_\(配音員\) "wikilink")(劇場版)
+    配音員：日：[淺川悠](../Page/淺川悠.md "wikilink")／港：[黃玉娟](../Page/黃玉娟.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")(動畫版)、[張乃文](../Page/張乃文_\(配音員\).md "wikilink")(劇場版)
     第3話開始登場。美月的經紀人，個性冷漠嚴肅。
 
 <!-- end list -->
@@ -714,7 +714,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[宇垣秀成](https://zh.wikipedia.org/wiki/宇垣秀成 "wikilink")／港：[張錦江](../Page/張錦江.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")
+    配音員：日：[宇垣秀成](../Page/宇垣秀成.md "wikilink")／港：[張錦江](../Page/張錦江.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")
     第12話登場。電視台動作片導演。
 
 <!-- end list -->
@@ -738,7 +738,7 @@
 <!-- end list -->
 
   - 、
-    配音員：日：[神田朱未](../Page/神田朱未.md "wikilink")、[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")／／港：[何璐怡](../Page/何璐怡.md "wikilink")、[張頌欣](../Page/張頌欣.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")、[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")
+    配音員：日：[神田朱未](../Page/神田朱未.md "wikilink")、[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")／／港：[何璐怡](../Page/何璐怡.md "wikilink")、[張頌欣](../Page/張頌欣.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")、[馮嘉德](../Page/馮嘉德.md "wikilink")
     第14話登場。星光畢業生，現為職業演員。
 
 <!-- end list -->
@@ -750,7 +750,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[仲野裕](https://zh.wikipedia.org/wiki/仲野裕 "wikilink")／港：[蕭徽勇](../Page/蕭徽勇.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")
+    配音員：日：[仲野裕](../Page/仲野裕.md "wikilink")／港：[蕭徽勇](../Page/蕭徽勇.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")
     第21話登場。
 
 <!-- end list -->
@@ -785,19 +785,19 @@
 <!-- end list -->
 
   -
-    配音員：日：[藤村步](../Page/藤村步.md "wikilink")、こだまさおい（歌）／台：[張乃文](https://zh.wikipedia.org/wiki/張乃文_\(配音員\) "wikilink")
+    配音員：日：[藤村步](../Page/藤村步.md "wikilink")、こだまさおい（歌）／台：[張乃文](../Page/張乃文_\(配音員\).md "wikilink")
     劇場版登場。歌手兼作曲家，被莓她們邀請為莓的特別演唱會作一曲。與涼川為舊識。
 
 <!-- end list -->
 
   -
-    配音員：日：[藤田茜](../Page/藤田茜.md "wikilink")／台：[張乃文](https://zh.wikipedia.org/wiki/張乃文_\(配音員\) "wikilink")
+    配音員：日：[藤田茜](../Page/藤田茜.md "wikilink")／台：[張乃文](../Page/張乃文_\(配音員\).md "wikilink")
     第158話登場。就讀沖繩美麗海Beat學園的沖繩偶像，曾在一次東京的舞蹈選拔時與凜相識，喜歡凜的舞蹈。
 
 ## 設計師
 
   -
-    配音員：日：[井上喜久子](../Page/井上喜久子.md "wikilink")／港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")／台：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（第1、2部）→[李昀晴](../Page/李昀晴.md "wikilink")（第3部起與劇場版）
+    配音員：日：[井上喜久子](../Page/井上喜久子.md "wikilink")／港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")（第1、2部）→[李昀晴](../Page/李昀晴.md "wikilink")（第3部起與劇場版）
     第9話登場。「**Angely
     Sugar**」的總設計師，與光石和林檎是熟人，同時是天羽圓的祖母，是位和藹的老婦。因為看到莓的努力而授予非常稀有的特別卡片。在林檎打算改行時，曾告訴林檎自己的幸福要由自己決定。
 
@@ -901,7 +901,7 @@
 ## 家人
 
   -
-    配音員：日：[能登麻美子](../Page/能登麻美子.md "wikilink")、えいみ（歌）／港：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")、[黃淑芬](../Page/黃淑芬.md "wikilink")（代配）／台：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")(第1、2部)→[李昀晴](../Page/李昀晴.md "wikilink")(第3部、劇場版)
+    配音員：日：[能登麻美子](../Page/能登麻美子.md "wikilink")、えいみ（歌）／港：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")、[黃淑芬](../Page/黃淑芬.md "wikilink")（代配）／台：[馮嘉德](../Page/馮嘉德.md "wikilink")(第1、2部)→[李昀晴](../Page/李昀晴.md "wikilink")(第3部、劇場版)
     莓的母親，便當店「全能便當（なんでも弁当）」店主。性格溫和，支持女兒的任何決定。名字的發音同日文中的[蘋果](https://zh.wikipedia.org/wiki/蘋果 "wikilink")。
     第47話揭露事實上過去是傳說的偶像組合『假面舞會』成員「宮」，但因為想親近支持者而希望經營便當店，與搭檔「姬」一致決定解散組合。
     暫時只有『Soleil』、星宮賴智、神崎美月、大空明里、光石織姬、夢咲提亞拉、強尼別府和天羽明日香知道其身份。
@@ -923,7 +923,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[田村睦心](../Page/田村睦心.md "wikilink")／港：[胡家豪](../Page/胡家豪.md "wikilink")／台：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")
+    配音員：日：[田村睦心](../Page/田村睦心.md "wikilink")／港：[胡家豪](../Page/胡家豪.md "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")
     櫻的雙胞胎哥哥，也是自家劇團「北大路劇場」的表演者。非常保護妹妹，對柔弱的妹妹住校入學初時表示反對，最後看了她的表演之後決定放手支持她的決定。
 
 <!-- end list -->
@@ -941,7 +941,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[宮本佳那子](https://zh.wikipedia.org/wiki/宮本佳那子 "wikilink")→[加隈亞衣](../Page/加隈亞衣.md "wikilink")／港：[成瑤孆](../Page/成瑤孆.md "wikilink")→[廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink")／台：[江銘珊](https://zh.wikipedia.org/wiki/江銘珊 "wikilink")(第1、2部)→[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")(第3部)
+    配音員：日：[宮本佳那子](../Page/宮本佳那子.md "wikilink")→[加隈亞衣](../Page/加隈亞衣.md "wikilink")／港：[成瑤孆](../Page/成瑤孆.md "wikilink")→[廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink")／台：[江銘珊](https://zh.wikipedia.org/wiki/江銘珊 "wikilink")(第1、2部)→[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")(第3部)
     星羅的妹妹，與賴智同校同年級的隔壁班學生（國中時代以後為同班級），非常崇拜莓。與賴智認識後一起以自家店面宣傳身邊偶像的活動消息。出生於聖誔節，而希英瑠這名字為法語的聖誔節。
     第172集表示已轉進夢想學園就讀。
     對動物過敏。
@@ -955,13 +955,13 @@
 <!-- end list -->
 
   -
-    配音員：日：[荻野晴朗](https://zh.wikipedia.org/wiki/荻野晴朗 "wikilink")／港：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")／台：[李勇](https://zh.wikipedia.org/wiki/李勇 "wikilink")
+    配音員：日：[荻野晴朗](../Page/荻野晴朗.md "wikilink")／港：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")／台：[李勇](https://zh.wikipedia.org/wiki/李勇 "wikilink")
     明里的父親。地理學家，說話總離不開地理的話題每次都會被明里阻止，因為一旦開始，就不會停下來。
 
 <!-- end list -->
 
   -
-    配音員：日：[冰上恭子](../Page/冰上恭子.md "wikilink")／港：[黃玉娟](../Page/黃玉娟.md "wikilink")／台：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")(第2部)→[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")(第3部)
+    配音員：日：[冰上恭子](../Page/冰上恭子.md "wikilink")／港：[黃玉娟](../Page/黃玉娟.md "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")(第2部)→[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")(第3部)
     明里的母親。儘管女兒的追星路一直失敗，仍持續支持她。
 
 <!-- end list -->
@@ -1069,35 +1069,35 @@
 
 ## 登場季數
 
-| 配音                                                      | 角色        | 登場季數        |
-| ------------------------------------------------------- | --------- | ----------- |
-| 1                                                       | 2         | 3           |
-| [諸星堇](../Page/諸星堇.md "wikilink")                        | 星宮莓       | colspan="2" |
-| [田所梓](../Page/田所梓.md "wikilink")                        | 霧矢葵       | colspan="2" |
-| [大橋彩香](../Page/大橋彩香.md "wikilink")                      | 紫吹蘭       | colspan="2" |
-| [壽美菜子](../Page/壽美菜子.md "wikilink")                      | 神崎美月      | colspan="2" |
-| [黑澤朋世](../Page/黑澤朋世.md "wikilink")                      | 有栖川乙女     | colspan="1" |
-| [沼倉愛美](../Page/沼倉愛美.md "wikilink")                      | 藤堂百合香     | colspan="1" |
-| [安野希世乃](https://zh.wikipedia.org/wiki/安野希世乃 "wikilink") | 北大路櫻      | colspan="1" |
-| [三村優奈](https://zh.wikipedia.org/wiki/三村優奈 "wikilink")   | 一之瀨楓      | colspan="1" |
-| [瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")                    | 神谷詩音      | colspan="4" |
-| [森谷里美](https://zh.wikipedia.org/wiki/森谷里美 "wikilink")   | 三輪光       | colspan="4" |
-| [洲崎綾](../Page/洲崎綾.md "wikilink")                        | 夏樹未來(實玖琉) | colspan="1" |
-| [石原夏織](../Page/石原夏織.md "wikilink")                      | 音城星羅      | colspan="1" |
-| [秋奈](https://zh.wikipedia.org/wiki/秋奈 "wikilink")       | 冴草紀伊      | colspan="1" |
-| [高橋未奈美](../Page/高橋未奈美.md "wikilink")                    | 風澤空       | colspan="1" |
-| [富岡美沙子](../Page/富岡美沙子.md "wikilink")                    | 姬里瑪莉亞     | colspan="1" |
-| [下地紫野](../Page/下地紫野.md "wikilink")                      | 大空明里      | colspan="1" |
-| [和久井優](../Page/和久井優.md "wikilink")                      | 冰上堇       | colspan="2" |
-| [石川由依](../Page/石川由依.md "wikilink")                      | 新條雛姬      | colspan="2" |
-| [齋藤綾](https://zh.wikipedia.org/wiki/齋藤綾 "wikilink")     | 紅林珠璃      | colspan="2" |
-| [高田憂希](../Page/高田憂希.md "wikilink")                      | 黑澤凜       | colspan="2" |
-| [川上千尋](https://zh.wikipedia.org/wiki/川上千尋 "wikilink")   | 天羽圓香      | colspan="2" |
-| [關根明良](../Page/關根明良.md "wikilink")                      | 藤原雅       | colspan="2" |
-| [伊藤加奈惠](../Page/伊藤加奈惠.md "wikilink")                    | 栗栖心音      | colspan="2" |
-| [小岩井小鳥](../Page/小岩井小鳥.md "wikilink")                    | 大地乃乃      | colspan="3" |
-| [福沙奈惠](../Page/福沙奈惠.md "wikilink")                      | 白樺梨沙      | colspan="3" |
-|                                                         |           |             |
+| 配音                                                    | 角色        | 登場季數        |
+| ----------------------------------------------------- | --------- | ----------- |
+| 1                                                     | 2         | 3           |
+| [諸星堇](../Page/諸星堇.md "wikilink")                      | 星宮莓       | colspan="2" |
+| [田所梓](../Page/田所梓.md "wikilink")                      | 霧矢葵       | colspan="2" |
+| [大橋彩香](../Page/大橋彩香.md "wikilink")                    | 紫吹蘭       | colspan="2" |
+| [壽美菜子](../Page/壽美菜子.md "wikilink")                    | 神崎美月      | colspan="2" |
+| [黑澤朋世](../Page/黑澤朋世.md "wikilink")                    | 有栖川乙女     | colspan="1" |
+| [沼倉愛美](../Page/沼倉愛美.md "wikilink")                    | 藤堂百合香     | colspan="1" |
+| [安野希世乃](../Page/安野希世乃.md "wikilink")                  | 北大路櫻      | colspan="1" |
+| [三村優奈](https://zh.wikipedia.org/wiki/三村優奈 "wikilink") | 一之瀨楓      | colspan="1" |
+| [瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")                  | 神谷詩音      | colspan="4" |
+| [森谷里美](https://zh.wikipedia.org/wiki/森谷里美 "wikilink") | 三輪光       | colspan="4" |
+| [洲崎綾](../Page/洲崎綾.md "wikilink")                      | 夏樹未來(實玖琉) | colspan="1" |
+| [石原夏織](../Page/石原夏織.md "wikilink")                    | 音城星羅      | colspan="1" |
+| [秋奈](https://zh.wikipedia.org/wiki/秋奈 "wikilink")     | 冴草紀伊      | colspan="1" |
+| [高橋未奈美](../Page/高橋未奈美.md "wikilink")                  | 風澤空       | colspan="1" |
+| [富岡美沙子](../Page/富岡美沙子.md "wikilink")                  | 姬里瑪莉亞     | colspan="1" |
+| [下地紫野](../Page/下地紫野.md "wikilink")                    | 大空明里      | colspan="1" |
+| [和久井優](../Page/和久井優.md "wikilink")                    | 冰上堇       | colspan="2" |
+| [石川由依](../Page/石川由依.md "wikilink")                    | 新條雛姬      | colspan="2" |
+| [齋藤綾](../Page/齋藤綾.md "wikilink")                      | 紅林珠璃      | colspan="2" |
+| [高田憂希](../Page/高田憂希.md "wikilink")                    | 黑澤凜       | colspan="2" |
+| [川上千尋](../Page/川上千尋.md "wikilink")                    | 天羽圓香      | colspan="2" |
+| [關根明良](../Page/關根明良.md "wikilink")                    | 藤原雅       | colspan="2" |
+| [伊藤加奈惠](../Page/伊藤加奈惠.md "wikilink")                  | 栗栖心音      | colspan="2" |
+| [小岩井小鳥](../Page/小岩井小鳥.md "wikilink")                  | 大地乃乃      | colspan="3" |
+| [福沙奈惠](../Page/福沙奈惠.md "wikilink")                    | 白樺梨沙      | colspan="3" |
+|                                                       |           |             |
 
 ## 注釋
 

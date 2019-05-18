@@ -1,6 +1,6 @@
 《**MIRACLE**》（奇蹟）是[日本演唱團體](../Page/日本.md "wikilink")[第三代J Soul
 Brothers的第](../Page/J_Soul_Brothers.md "wikilink")3張原創專輯。2013年1月1日發行，唱片公司為[rhythm
-zone](../Page/rhythm_zone.md "wikilink")。
+zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
@@ -112,11 +112,11 @@ zone](../Page/rhythm_zone.md "wikilink")。
 1.  Opening
 2.  [LET'S PARTY](../Page/0〜ZERO〜.md "wikilink")
 3.  [1st
-    Place](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(第三代J_Soul_Brothers專輯\) "wikilink")
+    Place](../Page/J_Soul_Brothers_\(第三代J_Soul_Brothers專輯\).md "wikilink")
 4.  [FIELD OF
-    DREAMS](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(第三代J_Soul_Brothers專輯\) "wikilink")
+    DREAMS](../Page/J_Soul_Brothers_\(第三代J_Soul_Brothers專輯\).md "wikilink")
 5.  [Kiss You Tonight](../Page/0〜ZERO〜.md "wikilink")
-6.  [Always](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(第三代J_Soul_Brothers專輯\) "wikilink")
+6.  [Always](../Page/J_Soul_Brothers_\(第三代J_Soul_Brothers專輯\).md "wikilink")
 7.  [LOVE
     SONG](../Page/LOVE_SONG_\(第三代J_Soul_Brothers單曲\).md "wikilink")
 8.  [SOUTHSIDE](https://zh.wikipedia.org/wiki/TRIBAL_SOUL "wikilink")
@@ -129,7 +129,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 14. [反覆掙扎](../Page/反覆掙扎.md "wikilink")
 15. [Powder Snow ～永無止境的冬季～](../Page/Powder_Snow_～永無止境的冬季～.md "wikilink")
 16. LOOK @ US NOW\!
-17. [GENERATION](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(第三代J_Soul_Brothers專輯\) "wikilink")
+17. [GENERATION](../Page/J_Soul_Brothers_\(第三代J_Soul_Brothers專輯\).md "wikilink")
     -next- / 三代目J Soul Brothers + [GENERATIONS from EXILE
     TRIBE](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")
 18. [（YOU SHINE）THE WORLD](../Page/0〜ZERO〜.md "wikilink")
@@ -140,7 +140,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
     Soul](https://zh.wikipedia.org/wiki/TRIBAL_SOUL "wikilink")
 22. [I Can Do It](https://zh.wikipedia.org/wiki/TRIBAL_SOUL "wikilink")
 23. 24karats Medley -0〜ZERO〜 Ver.- \[ENCORE\]
-24. [新時代](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(第三代J_Soul_Brothers專輯\) "wikilink")
+24. [新時代](../Page/J_Soul_Brothers_\(第三代J_Soul_Brothers專輯\).md "wikilink")
     \[ENCORE\]
 
 ## 備註

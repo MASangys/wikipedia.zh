@@ -5,7 +5,7 @@ Records于](https://zh.wikipedia.org/wiki/King_Records "wikilink")2014年7月2�
 
 专辑分为附有DVD的初回限定盘、只含有CD的通常盘及与合作的Samantha
 Vega盘共3版本发行\[2\]，初回版与通常版的CD收录曲目相同。专辑中收录了自第一张单曲《[Dear
-J](../Page/Dear_J.md "wikilink")》至第五张单曲《[little](../Page/little.md "wikilink")》内的所有单曲以及《[Wanna
+J](../Page/Dear_J.md "wikilink")》至第五张单曲《[little](https://zh.wikipedia.org/wiki/little "wikilink")》内的所有单曲以及《[Wanna
 be
 now](../Page/Wanna_be_now.md "wikilink")》与《[爱的耳环](https://zh.wikipedia.org/wiki/爱的耳环 "wikilink")》（）两首下载限定的歌曲，并收录另外四曲新曲，共15首歌曲\[3\]。
 

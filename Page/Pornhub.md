@@ -1,6 +1,6 @@
 **Pornhub**是一个[加拿大的](../Page/加拿大.md "wikilink")[色情](../Page/色情.md "wikilink")[影片分享網站](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")。它是目前最大的[色情影片网站之一](../Page/成人网站.md "wikilink")，服務分享遍及全球。\[1\]
 Pornhub于2007年在[魁北克省](https://zh.wikipedia.org/wiki/魁北克 "wikilink")[蒙特利尔市成立](../Page/蒙特利尔.md "wikilink")。它是一个免费的，由广告支持的网站。除了专业色情内容，网站也提供业余色情内容。Pornhub在[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[伦敦市](../Page/伦敦.md "wikilink")、[美国](../Page/美国.md "wikilink")[加利福尼亚州](https://zh.wikipedia.org/wiki/加利福尼亚 "wikilink")[旧金山市](../Page/旧金山.md "wikilink")、美国[得克萨斯州](https://zh.wikipedia.org/wiki/得克萨斯 "wikilink")[休斯敦市以及美国](../Page/休斯敦.md "wikilink")[路易斯安那州](https://zh.wikipedia.org/wiki/路易斯安那 "wikilink")[新奥尔良市均有分部和服务器](../Page/新奥尔良.md "wikilink")。
-2010年3月Pornhub被[MindGeek收購](https://zh.wikipedia.org/wiki/MindGeek "wikilink")，MindGeek同时拥有许多其他的色情网站。\[2\]
+2010年3月Pornhub被[MindGeek收購](../Page/MindGeek.md "wikilink")，MindGeek同时拥有许多其他的色情网站。\[2\]
 
 Pornhub在很多国家受到管制。Pornhub的经营以盈利为目的，但是也有一部分是免费的，专门为性生活爱好者或其他有关成年人提供信息交流或共享平台。在诸如日本、美国等国家，成人网站这一性产业呈现异常繁荣的景象，相关的产业也应运而生。pornhub有一部分成人网站提供健康的性信息指导或介绍。大部分则以提供淫秽和色情内容为主。\[3\]
 
@@ -8,7 +8,7 @@ Pornhub在很多国家受到管制。Pornhub的经营以盈利为目的，但是
 
 ### 观众
 
-截止于2009年，世界上三大色情网站分别为[RedTube](https://zh.wikipedia.org/wiki/RedTube "wikilink")、[YouPorn和Pornhub](../Page/YouPorn.md "wikilink")。它们的总访问量为一亿人次。\[4\]
+截止于2009年，世界上三大色情网站分别为[RedTube](../Page/RedTube.md "wikilink")、[YouPorn和Pornhub](../Page/YouPorn.md "wikilink")。它们的总访问量为一亿人次。\[4\]
 
 ### 侵犯版权起诉
 

@@ -10,15 +10,13 @@ Records發行](../Page/SME_Records.md "wikilink")。
 1.  **Fly** \[4:14\]
       -
         作詞：Takashi Morisawa，作曲：kaji，編曲：Shogo Ohnishi
-2.  **[少女旅行者](https://zh.wikipedia.org/wiki/少女旅行者 "wikilink")** \[4:42\]
+2.  **[少女旅行者](../Page/少女旅行者.md "wikilink")** \[4:42\]
       -
         作詞：tzk，作曲、編曲：Kouichiro Takahashi
-3.  **[滴答☆2NITE](https://zh.wikipedia.org/wiki/滴答☆2NITE "wikilink")**
-    \[3:36\]
+3.  **[滴答☆2NITE](../Page/滴答☆2NITE.md "wikilink")** \[3:36\]
       -
         作詞、作曲：Yoshihiro Saito，編曲：Kouichiro Takahashi
-4.  **[夏 wanna say love
-    U](https://zh.wikipedia.org/wiki/夏_wanna_say_love_U "wikilink")**
+4.  **[夏 wanna say love U](../Page/夏_wanna_say_love_U.md "wikilink")**
     \[4:23\]
       -
         作詞：tzk，作曲、編曲：Kouichiro Takahashi
@@ -31,9 +29,7 @@ Records發行](../Page/SME_Records.md "wikilink")。
 7.  **[Cross Over](../Page/Cross_Over.md "wikilink")** \[4:46\]
       -
         作詞：Nozomi Maezawa，作曲：Takahiro Furukawa，編曲：Shunsuke Tsuri
-8.  **[too
-    blue](https://zh.wikipedia.org/wiki/夏_wanna_say_love_U "wikilink")**
-    \[4:38\]
+8.  **[too blue](../Page/夏_wanna_say_love_U.md "wikilink")** \[4:38\]
       -
         作詞：Mary Tan，作曲、編曲：Tomoyoshi Suzuki
 9.  **Love me?** \[3:47\]

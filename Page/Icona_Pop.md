@@ -49,7 +49,7 @@ Dove）及Starsmith合作過。\[6\]
     Weekend](https://zh.wikipedia.org/wiki/Ready_for_the_Weekend "wikilink")》也在2012年9月11日發行。這兩首單曲都有收錄在她們2012年10月16日發行的第二張加長版專輯。《*I
     Love It*》也被採用為《[Samsung Galaxy
     S4](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S4 "wikilink")》的廣告曲。\[8\]
-  - 而她們的單曲專輯《*Iconic*》在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[iTunes的樂曲榜進到](../Page/iTunes.md "wikilink")21名。\[9\]
+  - 而她們的單曲專輯《*Iconic*》在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[iTunes的樂曲榜進到](https://zh.wikipedia.org/wiki/iTunes "wikilink")21名。\[9\]
   - 2013年，她們也與[Passion
     Pit及](https://zh.wikipedia.org/wiki/Passion_Pit "wikilink")[Matt &
     Kim在](https://zh.wikipedia.org/wiki/Matt_&_Kim "wikilink")[美國進行巡迴演唱](https://zh.wikipedia.org/wiki/美國 "wikilink")。

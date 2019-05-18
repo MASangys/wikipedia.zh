@@ -9,7 +9,7 @@ Entertainment。\[2\]公司由兩部分組成，其中Mobius Entertainment負責
 Entertainment則負責[全动态影像和](https://zh.wikipedia.org/wiki/全动态影像 "wikilink")[電腦成像](../Page/電腦成像.md "wikilink")。\[3\]公司約有30人，他們專注於開發如[Game
 Boy Advance](../Page/Game_Boy_Advance.md "wikilink")、[PlayStation
 Portable等](../Page/PlayStation_Portable.md "wikilink")[掌上遊戲平台的遊戲](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")\[4\]，同時也開發如[Playstation
-2等](../Page/Playstation_2.md "wikilink")[電子遊戲機平台的遊戲](../Page/電子遊戲機.md "wikilink")。公司總部位於利茲Pudsey。\[5\]除了開發自家遊戲，他們還為其他廠商開發遊戲。例如在2003年，他們開發了GBA版本的馬克思·佩恩。\[6\]
+2等](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")[電子遊戲機平台的遊戲](../Page/電子遊戲機.md "wikilink")。公司總部位於利茲Pudsey。\[5\]除了開發自家遊戲，他們還為其他廠商開發遊戲。例如在2003年，他們開發了GBA版本的馬克思·佩恩。\[6\]
 
 2004年4月8日，Rockstar Games宣布收購了Mobius Entertainment，收購後的公司更名為Rockstar
 Leeds。\[7\]在成為Rockstar Games的一員後，Rockstar Leeds在[Rockstar
@@ -43,8 +43,8 @@ Leeds曾刊登招聘廣告聘請程序員，目的是幫助其他工作室的開
 | 2007                           | [俠盜獵魔2](../Page/俠盜獵魔2.md "wikilink")                                | PSP                                                                                                                                                                                   |
 | 2007                           | 戰士聯盟幫                                                               | PSP                                                                                                                                                                                   |
 | 2007                           | 實況桌球                                                                | [Wii](../Page/Wii.md "wikilink")                                                                                                                                                      |
-| 2009                           | [俠盜獵車手：血戰唐人街](../Page/俠盜獵車手：血戰唐人街.md "wikilink")                    | [Nintendo DS](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")、PSP、[iOS](../Page/iOS.md "wikilink")                                                                              |
-| 2009                           | 韵律大师                                                                | PSP、[iOS](../Page/iOS.md "wikilink")                                                                                                                                                  |
+| 2009                           | [俠盜獵車手：血戰唐人街](../Page/俠盜獵車手：血戰唐人街.md "wikilink")                    | [Nintendo DS](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")、PSP、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")                                                           |
+| 2009                           | 韵律大师                                                                | PSP、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")                                                                                                                               |
 | 2011                           | [黑色洛城](../Page/黑色洛城.md "wikilink")                                  | [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[13\]、[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink") |
 | 2012                           | [江湖本色3](https://zh.wikipedia.org/wiki/江湖本色3 "wikilink")             | Microsoft Windows、PS3、Xbox 360                                                                                                                                                        |
 | 2013                           | [俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")                              | PS3、Xbox 360、PC、PS4、Xbox One                                                                                                                                                          |

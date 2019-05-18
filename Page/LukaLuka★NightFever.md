@@ -2,7 +2,7 @@
 
 ## 概要
 
-最初是SAM（Samfree）於[NICONICO動畫上所發布的](../Page/NICONICO動畫.md "wikilink")[巡音流歌樂曲](../Page/巡音流歌.md "wikilink")，投稿於2009年2月12日。2010年達到170萬播放次數\[1\]。而在此之後，歌手[實谷奈奈的翻唱達到](https://zh.wikipedia.org/wiki/實谷奈奈 "wikilink")150萬播放次數，[DANCEROID的愛川梢的該曲編舞也達到](../Page/DANCEROID.md "wikilink")200萬播放次數\[2\]\[3\]。
+最初是SAM（Samfree）於[NICONICO動畫上所發布的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[巡音流歌樂曲](../Page/巡音流歌.md "wikilink")，投稿於2009年2月12日。2010年達到170萬播放次數\[1\]。而在此之後，歌手[實谷奈奈的翻唱達到](https://zh.wikipedia.org/wiki/實谷奈奈 "wikilink")150萬播放次數，[DANCEROID的愛川梢的該曲編舞也達到](../Page/DANCEROID.md "wikilink")200萬播放次數\[2\]\[3\]。
 
 ## 商業化
 

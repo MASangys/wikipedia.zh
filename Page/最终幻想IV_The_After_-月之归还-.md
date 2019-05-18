@@ -2,7 +2,7 @@
 Software和](../Page/Matrix_Software.md "wikilink")[史克威尔艾尼克斯合作開發的](../Page/史克威尔艾尼克斯.md "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，为1991年[史克威尔公司](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")[游戏](../Page/游戏.md "wikilink")《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》的後傳。遊戲最初于2008年在日本手機平臺發行。2009年在北美、欧洲和日本[WiiWare平台发布强化移植版](../Page/WiiWare.md "wikilink")\[1\]\[2\]\[3\]。2011年，本作与《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》捆绑在一起作为PlayStation
 Portable游戏《[最終幻想IV
 完美收藏輯](https://zh.wikipedia.org/wiki/最終幻想IV_完美收藏輯 "wikilink")》发售，其中另收錄衔接原作与本作剧情的全新游戏《最终幻想IV
-间奏》。遊戲於[Android和](../Page/Android.md "wikilink")[iOS平台發行](../Page/iOS.md "wikilink")3D重製版\[4\]。為適應歐美版標題，日本WiiWare移植版和PlayStation
+间奏》。遊戲於[Android和](../Page/Android.md "wikilink")[iOS平台發行](https://zh.wikipedia.org/wiki/iOS "wikilink")3D重製版\[4\]。為適應歐美版標題，日本WiiWare移植版和PlayStation
 Portable合輯的遊戲名改為。
 
 《月之歸還》設定於《最終幻想IV》17年之後，遊戲講述了原作角色及其子女的故事，每一篇章都有新的反派，設定了一連串威脅藍星命運的神秘事件\[5\]。游戏大量使用本传的资源、地点与游戏机制，然而作品采用了更高质量的角色图像，并加入了一些新的游戏系统\[6\]\[7\]。
@@ -36,7 +36,7 @@ Advance版的增强图像，同时游戏进一步将角色图标质量提高到�
 
 ## 開發
 
-在發行[任天堂DS重製版](../Page/任天堂DS.md "wikilink")《[最終幻想IV](https://zh.wikipedia.org/wiki/最終幻想IV_\(任天堂DS\) "wikilink")》不久之前，執行製作人[時田貴司稱在監督重製版之時](https://zh.wikipedia.org/wiki/時田貴司 "wikilink")，他們還在探討創作一部後續情節，並討論創作一部新的行動電話作品。原作的編劇時田
+在發行[任天堂DS重製版](../Page/任天堂DS.md "wikilink")《[最終幻想IV](../Page/最終幻想IV_\(任天堂DS\).md "wikilink")》不久之前，執行製作人[時田貴司稱在監督重製版之時](https://zh.wikipedia.org/wiki/時田貴司 "wikilink")，他們還在探討創作一部後續情節，並討論創作一部新的行動電話作品。原作的編劇時田
 確定，以行動電話形式發行續作是個好方法，因為這讓玩家在玩完DS重製版後很快便能玩到該遊戲。透過以篇章形式發行遊戲，他也希望玩家能大概像日本動漫連載那樣，期待將來的篇章，而非一次完成遊戲的厭倦\[14\]。
 
 儘管遊戲觀感上和原版《最終幻想IV》大致相同，但其也加入了了新遊戲元素，前六部最終幻想遊戲的點繪師[涩谷和子重新创作了新](https://zh.wikipedia.org/wiki/涩谷和子 "wikilink")、高清的角色图像；天野喜孝重新绘制了插画；时田以前的同事，史克威尔艾尼克斯的分镜画师Akira
@@ -59,7 +59,7 @@ WiiWare移植版在手机版基础上增强了图像，包括加大了[屏幕分
 2009年，游戏强化移植版通过[WiiWare服务发行](../Page/WiiWare.md "wikilink")。虽然章节形式沿用了手机版，但发行方式变化了。玩家购买收录“序章”“塞尔多亚篇”和“凯因篇”的本篇，而附加篇章随后将以附加形式发行。倒数第二篇和分为两部分的本篇将一次发行。在两个版本中，玩家可以在游戏结束后储存设定和角色的状态、装备，并能继续探索各个篇章，并寻找新道具与完成新任务。本作游戏、《最终幻想IV》与新剧本《最终幻想
 间奏》打包收录于[PlayStation
 Portable合辑游戏](../Page/PlayStation_Portable.md "wikilink")《[最终幻想IV
-完美收藏辑](https://zh.wikipedia.org/wiki/最终幻想IV_完美收藏辑 "wikilink")》中，并于2011年发行。与《最终幻想IV》任天堂DS重制版风格相同的3D重制版游戏宣布于[iOS和](../Page/iOS.md "wikilink")[Android平台发行](../Page/Android.md "wikilink")
+完美收藏辑](https://zh.wikipedia.org/wiki/最终幻想IV_完美收藏辑 "wikilink")》中，并于2011年发行。与《最终幻想IV》任天堂DS重制版风格相同的3D重制版游戏宣布于[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android平台发行](../Page/Android.md "wikilink")
 \[20\]。
 
 <table>

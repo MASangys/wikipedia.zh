@@ -23,7 +23,7 @@ OS作業系統裝置](../Page/Firefox_OS.md "wikilink")。
 <tbody>
 <tr class="odd">
 <td><p>Alcatel Mobile(TCL)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Alcatel_One_Touch_Fire" title="wikilink">Alcatel One Touch Fire</a>[1]</p></td>
+<td><p><a href="../Page/Alcatel_One_Touch_Fire.md" title="wikilink">Alcatel One Touch Fire</a>[1]</p></td>
 <td><p>2013-07-12</p></td>
 <td><p>1.0.1</p></td>
 <td><p><a href="../Page/HVGA.md" title="wikilink">320x480 HVGA</a></p></td>
@@ -219,7 +219,7 @@ OS作業系統裝置](../Page/Firefox_OS.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>Geeksphone</p></td>
-<td><p><a href="../Page/Revolution.md" title="wikilink">Revolution</a>[15]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Revolution" title="wikilink">Revolution</a>[15]</p></td>
 <td><p>2014-02-20</p></td>
 <td><p>1.2.0/Android 4.2.2</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/qHD" title="wikilink">540x960 qHD</a></p></td>
@@ -387,7 +387,7 @@ OS作業系統裝置](../Page/Firefox_OS.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>ZTE</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ZTE_Open" title="wikilink">ZTE Open</a>[24]</p></td>
+<td><p><a href="../Page/ZTE_Open.md" title="wikilink">ZTE Open</a>[24]</p></td>
 <td><p>2013-07-02</p></td>
 <td><p>1.0.1</p></td>
 <td><p><a href="../Page/HVGA.md" title="wikilink">320x480 HVGA</a></p></td>

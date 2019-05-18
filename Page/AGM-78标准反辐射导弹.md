@@ -2,7 +2,7 @@
 
 ## 概况
 
-它是在1960年代晚期为[美国海军开发的](https://zh.wikipedia.org/wiki/美国海军 "wikilink")，用于取代性能令人不满足的[AGM-45百舌鸟导弹](https://zh.wikipedia.org/wiki/AGM-45百舌鸟导弹 "wikilink")。后者的弹头装药量少，導引性能差。于是通用公司接受了任务，开发一种以[标准-1](https://zh.wikipedia.org/wiki/RIM-66导弹 "wikilink")[面对空导弹为基础的](https://zh.wikipedia.org/wiki/面对空导弹 "wikilink")[空对面导弹](https://zh.wikipedia.org/wiki/空对地导弹 "wikilink")。这种开发的成本很低，1967年仅用了一年开发时间就进行了测试，1968年初就列装部队\[2\]。
+它是在1960年代晚期为[美国海军开发的](https://zh.wikipedia.org/wiki/美国海军 "wikilink")，用于取代性能令人不满足的[AGM-45百舌鸟导弹](../Page/AGM-45百舌鸟导弹.md "wikilink")。后者的弹头装药量少，導引性能差。于是通用公司接受了任务，开发一种以[标准-1](https://zh.wikipedia.org/wiki/RIM-66导弹 "wikilink")[面对空导弹为基础的](https://zh.wikipedia.org/wiki/面对空导弹 "wikilink")[空对面导弹](https://zh.wikipedia.org/wiki/空对地导弹 "wikilink")。这种开发的成本很低，1967年仅用了一年开发时间就进行了测试，1968年初就列装部队\[2\]。
 
 AGM-78外号「starm」，是标准[反辐射导弹](https://zh.wikipedia.org/wiki/反辐射导弹 "wikilink")（Standard
 ARM）缩写得来的混合词。第一种型号为A1 Mod

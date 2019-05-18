@@ -1,4 +1,4 @@
-**[TVB8的台灣版](../Page/TVB8.md "wikilink")**是由[TVBS營運](https://zh.wikipedia.org/wiki/TVBS "wikilink")，屬於联意制作股份有限公司（[TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink")）的家族頻道之一，亦是TVBS的第一个[高畫質綜合頻道](https://zh.wikipedia.org/wiki/高畫質 "wikilink")。2017年8月2日深夜因執照到期停播，並原頻開播**[TVBS精采台](https://zh.wikipedia.org/wiki/TVBS精采台 "wikilink")**。
+**[TVB8的台灣版](../Page/TVB8.md "wikilink")**是由[TVBS營運](https://zh.wikipedia.org/wiki/TVBS "wikilink")，屬於联意制作股份有限公司（[TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink")）的家族頻道之一，亦是TVBS的第一个[高畫質綜合頻道](https://zh.wikipedia.org/wiki/高畫質 "wikilink")。2017年8月2日深夜因執照到期停播，並原頻開播**[TVBS精采台](../Page/TVBS精采台.md "wikilink")**。
 
 ## 歷史
 
@@ -35,7 +35,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><strong><a href="https://zh.wikipedia.org/wiki/公公出宮" title="wikilink">公公出宮</a></strong></p></td>
+<p><strong><a href="../Page/公公出宮.md" title="wikilink">公公出宮</a></strong></p></td>
 <td><center>
 <p>03:00～04:00</p></td>
 <td><center>
@@ -148,7 +148,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><strong><a href="https://zh.wikipedia.org/wiki/公公出宮" title="wikilink">公公出宮</a></strong></p></td>
+<p><strong><a href="../Page/公公出宮.md" title="wikilink">公公出宮</a></strong></p></td>
 <td><center>
 <p>17:00～18:00</p></td>
 <td><center>

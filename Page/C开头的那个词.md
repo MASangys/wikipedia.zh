@@ -1,6 +1,6 @@
 **《C开头的那个词》**（）是[美国](../Page/美国.md "wikilink")[情景喜剧](../Page/情景喜剧.md "wikilink")《[我为喜剧狂](https://zh.wikipedia.org/wiki/我为喜剧狂 "wikilink")》[第1季的第](https://zh.wikipedia.org/wiki/我为喜剧狂_\(第1季\) "wikilink")14集，由剧集主创人、[执行制片人兼女主演](https://zh.wikipedia.org/wiki/执行制片人 "wikilink")[蒂娜·菲编剧](../Page/蒂娜·菲.md "wikilink")，亚当·伯恩斯坦执导，2007年2月15日通过[全国广播公司在美国](../Page/全国广播公司.md "wikilink")[首播](https://zh.wikipedia.org/wiki/首演 "wikilink")。本集节目的[客串演员包括凯文](../Page/友情客串.md "wikilink")·布朗、格里兹·查普曼、瑞秋·德拉彻、约翰·卢兹、凯斯·鲍威尔、朗尼·罗斯、[雷普·汤恩和查琳](../Page/雷普·汤恩.md "wikilink")·易。
 
-在这一集中，全国广播公司[电视节目](../Page/电视节目.md "wikilink")《与崔西·乔丹》首席[编剧丽兹](https://zh.wikipedia.org/wiki/编剧 "wikilink")·莱蒙（，蒂娜·菲饰）由于受到手下编剧的批评而决定今后要更宽容待人。公司副总裁杰克·唐纳吉（，[亚历克·鲍德温饰](https://zh.wikipedia.org/wiki/亚历克·鲍德温 "wikilink")）带男演员崔西·乔丹（，[崔西·摩根饰](https://zh.wikipedia.org/wiki/崔西·摩根 "wikilink")）去参加一场有公司高层人士参与的高尔夫球活动，希望能够给[通用电气首席执行官唐](../Page/通用电气.md "wikilink")·盖斯留下好印象，以便将来接班，可摩根觉得自己受到了歧视，还决定来玩一场“真心话大冒险”，于是一切都乱套了。
+在这一集中，全国广播公司[电视节目](../Page/电视节目.md "wikilink")《与崔西·乔丹》首席[编剧丽兹](https://zh.wikipedia.org/wiki/编剧 "wikilink")·莱蒙（，蒂娜·菲饰）由于受到手下编剧的批评而决定今后要更宽容待人。公司副总裁杰克·唐纳吉（，[亚历克·鲍德温饰](https://zh.wikipedia.org/wiki/亚历克·鲍德温 "wikilink")）带男演员崔西·乔丹（，[崔西·摩根饰](../Page/崔西·摩根.md "wikilink")）去参加一场有公司高层人士参与的高尔夫球活动，希望能够给[通用电气首席执行官唐](../Page/通用电气.md "wikilink")·盖斯留下好印象，以便将来接班，可摩根觉得自己受到了歧视，还决定来玩一场“真心话大冒险”，于是一切都乱套了。
 
 《C开头的那个词》获得了电视评论员较为正面的评价。根据[尼尔森收视率调查的数据](https://zh.wikipedia.org/wiki/尼尔森收视率调查 "wikilink")，本集在美国首播时一共有约500万户家庭观看，在18-49岁年龄段人群中收获了2.5
 / 6的收视率。

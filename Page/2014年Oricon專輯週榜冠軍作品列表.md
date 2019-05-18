@@ -56,7 +56,7 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 </tr>
 <tr class="odd">
 <td><p>2月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/未來軌跡" title="wikilink">未來軌跡</a></p></td>
+<td><p><a href="../Page/未來軌跡.md" title="wikilink">未來軌跡</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>原創</p></td>
 <td><p>96.2</p></td>
@@ -72,7 +72,7 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 </tr>
 <tr class="odd">
 <td><p>2月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_II_AGE" title="wikilink">THE II AGE</a></p></td>
+<td><p><a href="../Page/THE_II_AGE.md" title="wikilink">THE II AGE</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE" title="wikilink">THE SECOND from EXILE</a></p></td>
 <td><p>原創</p></td>
 <td><p>5.1</p></td>
@@ -96,7 +96,7 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 </tr>
 <tr class="even">
 <td><p>3月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Bon_Voyage_(倖田來未專輯)" title="wikilink">Bon Voyage</a></p></td>
+<td><p><a href="../Page/Bon_Voyage_(倖田來未專輯).md" title="wikilink">Bon Voyage</a></p></td>
 <td><p><a href="../Page/倖田來未.md" title="wikilink">倖田來未</a></p></td>
 <td><p>原創</p></td>
 <td><p>4.6</p></td>
@@ -128,7 +128,7 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 </tr>
 <tr class="even">
 <td><p>4月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/HIT!_HIT!_HIT!" title="wikilink">HIT! HIT! HIT!</a></p></td>
+<td><p><a href="../Page/HIT!_HIT!_HIT!.md" title="wikilink">HIT! HIT! HIT!</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Kis-My-Ft2" title="wikilink">Kis-My-Ft2</a></p></td>
 <td><p>精選</p></td>
 <td><p>21.8</p></td>
@@ -152,7 +152,7 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 </tr>
 <tr class="odd">
 <td><p>4月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SUPERNAL_LIBERTY" title="wikilink">SUPERNAL LIBERTY</a></p></td>
+<td><p><a href="../Page/SUPERNAL_LIBERTY.md" title="wikilink">SUPERNAL LIBERTY</a></p></td>
 <td><p><a href="../Page/水樹奈奈.md" title="wikilink">水樹奈奈</a></p></td>
 <td><p>原創</p></td>
 <td><p>7.6</p></td>
@@ -192,7 +192,7 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 </tr>
 <tr class="even">
 <td><p>6月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Singing_Bird" title="wikilink">Singing Bird</a></p></td>
+<td><p><a href="../Page/Singing_Bird.md" title="wikilink">Singing Bird</a></p></td>
 <td><p><a href="../Page/稻葉浩志.md" title="wikilink">稻葉浩志</a></p></td>
 <td><p>原創</p></td>
 <td><p>7.8</p></td>
@@ -201,14 +201,14 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 <tr class="odd">
 <td><p>6月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/泡沫般的愛情" title="wikilink">泡沫般的愛情</a></p></td>
-<td><p><a href="../Page/aiko.md" title="wikilink">aiko</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/aiko" title="wikilink">aiko</a></p></td>
 <td><p>原創</p></td>
 <td><p>8.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>6月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ballada" title="wikilink">Ballada</a></p></td>
+<td><p><a href="../Page/Ballada.md" title="wikilink">Ballada</a></p></td>
 <td><p><a href="../Page/安室奈美惠.md" title="wikilink">安室奈美惠</a></p></td>
 <td><p>精選</p></td>
 <td><p>25.5</p></td>
@@ -240,7 +240,7 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 </tr>
 <tr class="even">
 <td><p>7月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Kis-My-Journey" title="wikilink">Kis-My-Journey</a></p></td>
+<td><p><a href="../Page/Kis-My-Journey.md" title="wikilink">Kis-My-Journey</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Kis-My-Ft2" title="wikilink">Kis-My-Ft2</a></p></td>
 <td><p>原創</p></td>
 <td><p>24.6</p></td>
@@ -281,7 +281,7 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 <tr class="odd">
 <td><p>8月18日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Johnny&#39;s_WEST" title="wikilink">Johnny's WEST</a></p></td>
+<td><p><a href="../Page/Johnny&#39;s_WEST.md" title="wikilink">Johnny's WEST</a></p></td>
 <td><p>原創</p></td>
 <td><p>8.3</p></td>
 <td><p>1</p></td>
@@ -368,7 +368,7 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 </tr>
 <tr class="even">
 <td><p>11月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_DIGITALIAN" title="wikilink">THE DIGITALIAN</a></p></td>
+<td><p><a href="../Page/THE_DIGITALIAN.md" title="wikilink">THE DIGITALIAN</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>原創</p></td>
 <td><p>66.0</p></td>
@@ -384,7 +384,7 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 </tr>
 <tr class="even">
 <td><p>11月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/關西傑尼斯主義" title="wikilink">關西傑尼斯主義</a></p></td>
+<td><p><a href="../Page/關西傑尼斯主義.md" title="wikilink">關西傑尼斯主義</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>原創</p></td>
 <td><p>29.4</p></td>
@@ -424,7 +424,7 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 </tr>
 <tr class="odd">
 <td><p>12月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/M_album" title="wikilink">M album</a></p></td>
+<td><p><a href="../Page/M_album.md" title="wikilink">M album</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>原創</p></td>
 <td><p>13.4</p></td>

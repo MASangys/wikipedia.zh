@@ -27,7 +27,7 @@ WAMN的前身香港天樂英文新聞部於2013年前借用當地大學所提供
 
 ### WAMN Radio
 
-電台服務，提供聲音廣播，並可於[iTunes重溫](../Page/iTunes.md "wikilink")。
+電台服務，提供聲音廣播，並可於[iTunes重溫](https://zh.wikipedia.org/wiki/iTunes "wikilink")。
 
 ### WAMN網站
 

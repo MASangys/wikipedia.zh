@@ -1,5 +1,5 @@
 **Kali Linux**
-是基于[Debian的](../Page/Debian.md "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")，设计用于[數位鑑識和](https://zh.wikipedia.org/wiki/數位鑑識 "wikilink")[渗透测试](https://zh.wikipedia.org/wiki/渗透测试 "wikilink")。由
+是基于[Debian的](../Page/Debian.md "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")，设计用于[數位鑑識和](../Page/數位鑑識.md "wikilink")[渗透测试](https://zh.wikipedia.org/wiki/渗透测试 "wikilink")。由
 Offensive Security Ltd 维护和资助。
 
 Kali
@@ -42,7 +42,7 @@ Kali Linux 包含许多的安全工具，比如：\[3\]
 
   - [Aircrack-ng](../Page/Aircrack-NG.md "wikilink")
 
-  - [Burp suite](https://zh.wikipedia.org/wiki/Burp_suite "wikilink")
+  - [Burp suite](../Page/Burp_suite.md "wikilink")
 
   - Cisco Global Exploiter, a hacking tool used to find and exploit
     vulnerabilities in Cisco Network systems

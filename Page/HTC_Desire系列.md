@@ -16,7 +16,7 @@ Desire系列**是[宏達電旗下的產品系列](https://zh.wikipedia.org/wiki/
   - [Desire XC](https://zh.wikipedia.org/wiki/HTC_Desire_XC "wikilink")
   - [Desire L](https://zh.wikipedia.org/wiki/HTC_Desire_L "wikilink")
   - [Desire Q](https://zh.wikipedia.org/wiki/HTC_Desire_Q "wikilink")
-  - [Desire P](https://zh.wikipedia.org/wiki/HTC_Desire_P "wikilink")
+  - [Desire P](../Page/HTC_Desire_P.md "wikilink")
   - [Desire U](https://zh.wikipedia.org/wiki/HTC_Desire_U "wikilink")
   - [Desire
     200](https://zh.wikipedia.org/wiki/HTC_Desire_200 "wikilink")
@@ -44,8 +44,7 @@ Desire系列**是[宏達電旗下的產品系列](https://zh.wikipedia.org/wiki/
     512](https://zh.wikipedia.org/wiki/HTC_Desire_512 "wikilink")
   - [Desire 516（Desire 516C·Desire 516G·Desire
     316）](https://zh.wikipedia.org/wiki/HTC_Desire_516 "wikilink")
-  - [Desire
-    610](https://zh.wikipedia.org/wiki/HTC_Desire_610 "wikilink")
+  - [Desire 610](../Page/HTC_Desire_610.md "wikilink")
   - [Desire
     612](https://zh.wikipedia.org/wiki/HTC_Desire_612 "wikilink")
   - [Desire
@@ -56,8 +55,7 @@ Desire系列**是[宏達電旗下的產品系列](https://zh.wikipedia.org/wiki/
     816G）](../Page/HTC_Desire_816.md "wikilink")
   - [Desire 820（Desire 820G+·Desire 820Q·Desire 820S·Desire
     820S全民飛揚版）](https://zh.wikipedia.org/wiki/HTC_Desire_820 "wikilink")
-  - [Desire
-    Eye](https://zh.wikipedia.org/wiki/HTC_Desire_Eye "wikilink")
+  - [Desire Eye](../Page/HTC_Desire_Eye.md "wikilink")
   - [Desire
     326G](https://zh.wikipedia.org/wiki/HTC_Desire_326G "wikilink")
   - [Desire
@@ -74,8 +72,7 @@ Desire系列**是[宏達電旗下的產品系列](https://zh.wikipedia.org/wiki/
     7088）](https://zh.wikipedia.org/wiki/HTC_Desire_700 "wikilink")
   - [Desire 728（Desire
     728G）](https://zh.wikipedia.org/wiki/HTC_Desire_728 "wikilink")
-  - [Desire
-    826](https://zh.wikipedia.org/wiki/HTC_Desire_826 "wikilink")
+  - [Desire 826](../Page/HTC_Desire_826.md "wikilink")
   - [Desire
     828](https://zh.wikipedia.org/wiki/HTC_Desire_828 "wikilink")
   - [Desire
@@ -92,10 +89,8 @@ Desire系列**是[宏達電旗下的產品系列](https://zh.wikipedia.org/wiki/
     828](https://zh.wikipedia.org/wiki/HTC_Desire_828 "wikilink")
   - [Desire
     830](https://zh.wikipedia.org/wiki/HTC_Desire_830 "wikilink")
-  - [Desire 10
-    pro](https://zh.wikipedia.org/wiki/HTC_Desire_10_pro "wikilink")
-  - [Desire 10
-    lifestyle](https://zh.wikipedia.org/wiki/HTC_Desire_10_lifestyle "wikilink")
+  - [Desire 10 pro](../Page/HTC_Desire_10_pro.md "wikilink")
+  - [Desire 10 lifestyle](../Page/HTC_Desire_10_lifestyle.md "wikilink")
   - [htc desire
     12](https://zh.wikipedia.org/wiki/htc_desire_12 "wikilink")
   - [htc desire
@@ -117,7 +112,7 @@ Desire系列**是[宏達電旗下的產品系列](https://zh.wikipedia.org/wiki/
 <th><p><a href="https://zh.wikipedia.org/wiki/HTC_Desire_601" title="wikilink">HTC Desire 601</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/HTC_Desire_700" title="wikilink">HTC Desire 700</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/HTC_Desire_310" title="wikilink">HTC Desire 310</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/HTC_Desire_610" title="wikilink">HTC Desire 610</a></p></th>
+<th><p><a href="../Page/HTC_Desire_610.md" title="wikilink">HTC Desire 610</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/HTC_Desire_620" title="wikilink">HTC Desire 620</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/HTC_Desire_616" title="wikilink">HTC Desire 616</a></p></th>
 <th><p><a href="../Page/HTC_Desire_816.md" title="wikilink">HTC Desire 816</a></p></th>
@@ -239,12 +234,12 @@ D </p></td>
 </tr>
 <tr class="even">
 <td><p>CPU</p></td>
-<td><p>1 GHz <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="https://zh.wikipedia.org/wiki/Scorpion_(CPU)" title="wikilink">Scorpion</a></p></td>
-<td><p>600 MHz <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A5" title="wikilink">ARM Cortex-A5</a></p></td>
-<td><p>1 GHz dual-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A5" title="wikilink">ARM Cortex-A5</a></p></td>
-<td><p>1.2 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A5" title="wikilink">ARM Cortex-A5</a></p></td>
-<td><p>1.4 GHz dual-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait 300</a></p></td>
-<td><p>1.2 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A5" title="wikilink">ARM Cortex-A5</a></p></td>
+<td><p>1 GHz <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="../Page/Scorpion_(CPU).md" title="wikilink">Scorpion</a></p></td>
+<td><p>600 MHz <a href="../Page/ARM_Cortex-A5.md" title="wikilink">ARM Cortex-A5</a></p></td>
+<td><p>1 GHz dual-core <a href="../Page/ARM_Cortex-A5.md" title="wikilink">ARM Cortex-A5</a></p></td>
+<td><p>1.2 GHz quad-core <a href="../Page/ARM_Cortex-A5.md" title="wikilink">ARM Cortex-A5</a></p></td>
+<td><p>1.4 GHz dual-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="../Page/Krait_(CPU).md" title="wikilink">Krait 300</a></p></td>
+<td><p>1.2 GHz quad-core <a href="../Page/ARM_Cortex-A5.md" title="wikilink">ARM Cortex-A5</a></p></td>
 <td><p>1.3 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A7" title="wikilink">ARM Cortex-A7</a></p></td>
 <td><p>1.2 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A7" title="wikilink">ARM Cortex-A7</a></p></td>
 <td><p>1.2 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A53" title="wikilink">ARM Cortex-A53</a></p></td>

@@ -1,5 +1,5 @@
 是[Compile
-Heart旗下](https://zh.wikipedia.org/wiki/Compile_Heart "wikilink")[電子角色扮演遊戲品牌](../Page/電子角色扮演遊戲.md "wikilink")「Galapagos」的第一款作品，最初於2013年發售。邪神設計由[天野喜孝負責](../Page/天野喜孝.md "wikilink")，女神設計由[平野克幸負責](https://zh.wikipedia.org/wiki/平野克幸 "wikilink")，[角色設計由](https://zh.wikipedia.org/wiki/角色設計 "wikilink")[つなこ負責](https://zh.wikipedia.org/wiki/つなこ "wikilink")。
+Heart旗下](../Page/Compile_Heart.md "wikilink")[電子角色扮演遊戲品牌](../Page/電子角色扮演遊戲.md "wikilink")「Galapagos」的第一款作品，最初於2013年發售。邪神設計由[天野喜孝負責](../Page/天野喜孝.md "wikilink")，女神設計由[平野克幸負責](https://zh.wikipedia.org/wiki/平野克幸 "wikilink")，[角色設計由](https://zh.wikipedia.org/wiki/角色設計 "wikilink")[つなこ負責](https://zh.wikipedia.org/wiki/つなこ "wikilink")。
 
 ## 故事簡介\[1\]
 

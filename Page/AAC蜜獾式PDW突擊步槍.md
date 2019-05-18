@@ -44,7 +44,7 @@ AAC蜜獾式PDW是以M4上的上下[機匣為藍本](https://zh.wikipedia.org/wi
 ## 取代
 
 截至2013年，[先進武器公司的重點是努力生產消聲器](https://zh.wikipedia.org/wiki/先進武器公司 "wikilink")，而退出步槍生產市場。在轉型為消聲器生產的過程中，該項目被擱置，而[西格&紹爾推出了其同口徑產品](../Page/西格&紹爾.md "wikilink")[SIG
-MCX](https://zh.wikipedia.org/wiki/SIG_MCX突擊步槍 "wikilink")，取代了蜜獾式成為多功能[個人防衛武器](../Page/個人防衛武器.md "wikilink")\[5\]雷明登戶外公司的零附件和消聲器總監傑夫·斯蒂爾（Jeff
+MCX](../Page/SIG_MCX突擊步槍.md "wikilink")，取代了蜜獾式成為多功能[個人防衛武器](../Page/個人防衛武器.md "wikilink")\[5\]雷明登戶外公司的零附件和消聲器總監傑夫·斯蒂爾（Jeff
 Still）表示：“我們決定退出步槍製造業務。”“我們會將把所有的努力都集中在消聲器和相關附件以上。”\[6\]
 
 ## 流行文化
@@ -55,22 +55,21 @@ Still）表示：“我們決定退出步槍製造業務。”“我們會將把
     zh-tw:決勝時刻：黑暗行動2; zh-hk:使命召喚：黑色行動2;
     zh-mo:使命召喚：黑色行動2;}-](https://zh.wikipedia.org/wiki/決勝時刻：黑色行動2 "wikilink")》（Call
     of Duty: Black Ops
-    II）：[追加下载内容](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")「革命」（Revolution）武器之一。只在聯機模式中登場。以AAC蜜獾式為藍本，命名為「和平衛士」（Peacekeeper），白色槍身，造型上裝有不可使用的[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、類似MagPul
-    AFG的[直角前握把和折疊式](https://zh.wikipedia.org/wiki/直角前握把 "wikilink")[槍托](../Page/槍托.md "wikilink")，發射[5.7×28毫米子彈](../Page/5.7×28mm.md "wikilink")。30發[彈匣](../Page/彈匣.md "wikilink")（可使用改裝：延長彈匣增至40發），初始攜彈量為90發，最高攜彈量為240發。可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[快速重裝彈匣](https://zh.wikipedia.org/wiki/彈匣並聯 "wikilink")、、[前握把](../Page/輔助握把.md "wikilink")、快速抽出握把、、[長槍管](../Page/槍管.md "wikilink")、目標搜索器、可調節槍托、[延長彈匣](../Page/彈匣.md "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")、毫米波掃描器。
-  - 2012年—《[战争前线](https://zh.wikipedia.org/wiki/战争前线 "wikilink")》（Warface）：命名为“AAC蜜獾”，哑黑色枪身，使用[Magpul
+    II）：[追加下载内容](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")「革命」（Revolution）武器之一。只在聯機模式中登場。以AAC蜜獾式為藍本，命名為「和平衛士」（Peacekeeper），白色槍身，造型上裝有不可使用的[戰術燈](../Page/戰術燈.md "wikilink")、類似MagPul
+    AFG的[直角前握把和折疊式](../Page/直角前握把.md "wikilink")[槍托](../Page/槍托.md "wikilink")，發射[5.7×28毫米子彈](../Page/5.7×28mm.md "wikilink")。30發[彈匣](../Page/彈匣.md "wikilink")（可使用改裝：延長彈匣增至40發），初始攜彈量為90發，最高攜彈量為240發。可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[快速重裝彈匣](../Page/彈匣並聯.md "wikilink")、、[前握把](../Page/輔助握把.md "wikilink")、快速抽出握把、、[長槍管](../Page/槍管.md "wikilink")、目標搜索器、可調節槍托、[延長彈匣](../Page/彈匣.md "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")、毫米波掃描器。
+  - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：命名为“AAC蜜獾”，哑黑色枪身，使用[Magpul
     PMAG彈匣](../Page/彈匣.md "wikilink")。30发弹匣，为工程兵专用武器，只能通过抽奖获得，拥有黄金版本，强化威力与射程，均可以改装战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")、[冲锋枪握把](https://zh.wikipedia.org/wiki/宽型前握把 "wikilink")、冲锋枪握把架）以及瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、冲锋枪普通瞄准镜、冲锋枪高级瞄准镜、[冲锋枪专家瞄准镜](https://zh.wikipedia.org/wiki/Leupold_Mark_4_CQ/T光学瞄准镜 "wikilink")），无法改装枪口，视为自带[消音器与](../Page/抑制器.md "wikilink")[抑制器](https://zh.wikipedia.org/wiki/防火帽 "wikilink")。
   - 2013年—《[-{zh-cn:细胞分裂;
     zh-tw:縱橫諜海;}-：黑名單](../Page/縱橫諜海：黑名單.md "wikilink")》（Splinter
     Cell:
     Blacklist）：命名為「蜜獾式」，30發[彈匣](../Page/彈匣.md "wikilink")（SvM時只有20發），內置[消音器](../Page/抑制器.md "wikilink")。可以使用[MagPul
-    AFG直角前握把](https://zh.wikipedia.org/wiki/直角前握把 "wikilink")、[Aimpoint
-    T1
+    AFG直角前握把](../Page/直角前握把.md "wikilink")、[Aimpoint T1
     Micro紅點鏡](https://zh.wikipedia.org/wiki/Aimpoint_T1_Micro紅點鏡 "wikilink")、。
   - 2013年—《[-{zh-cn:使命召唤：幽灵;
     zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》（Call
     of Duty: Ghosts）：命名為「蜜獾式」，黑色槍身，造型上裝有自定義和[Magpul
-    PMAG彈匣](../Page/彈匣.md "wikilink")，30發[彈匣](../Page/彈匣.md "wikilink")（聯機模式時可使用改裝：延長彈匣增至45發），初始攜彈量為90發（聯機模式），最高攜彈量為300發（故事模式）和180發（聯機模式），內置[消音器](../Page/抑制器.md "wikilink")。故事模式之中被美國精銳部隊「魅影」（Ghosts）與敵軍「聯邦」（Federation）雙方所使用；聯機模式時可以使用[紅點鏡](../Page/紅點鏡.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、、[可變倍率反射式瞄準鏡](https://zh.wikipedia.org/wiki/望遠鏡放大倍數 "wikilink")、[熱能探測混合式瞄準鏡](../Page/热能.md "wikilink")、追踪器瞄準鏡、[前握把](../Page/輔助握把.md "wikilink")、[槍管下掛式散彈槍](https://zh.wikipedia.org/wiki/連發式配件槍管下掛式發射器 "wikilink")、[槍管下掛式榴弹发射器](../Page/FN_EGLM附加型榴彈發射器.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")、[半自動](https://zh.wikipedia.org/wiki/半自動槍械 "wikilink")、[三發點放](../Page/三發點放.md "wikilink")；滅絕模式時亦可使用。
+    PMAG彈匣](../Page/彈匣.md "wikilink")，30發[彈匣](../Page/彈匣.md "wikilink")（聯機模式時可使用改裝：延長彈匣增至45發），初始攜彈量為90發（聯機模式），最高攜彈量為300發（故事模式）和180發（聯機模式），內置[消音器](../Page/抑制器.md "wikilink")。故事模式之中被美國精銳部隊「魅影」（Ghosts）與敵軍「聯邦」（Federation）雙方所使用；聯機模式時可以使用[紅點鏡](../Page/紅點鏡.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、、[可變倍率反射式瞄準鏡](https://zh.wikipedia.org/wiki/望遠鏡放大倍數 "wikilink")、[熱能探測混合式瞄準鏡](../Page/热能.md "wikilink")、追踪器瞄準鏡、[前握把](../Page/輔助握把.md "wikilink")、[槍管下掛式散彈槍](../Page/連發式配件槍管下掛式發射器.md "wikilink")、[槍管下掛式榴弹发射器](../Page/FN_EGLM附加型榴彈發射器.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")、[半自動](https://zh.wikipedia.org/wiki/半自動槍械 "wikilink")、[三發點放](../Page/三發點放.md "wikilink")；滅絕模式時亦可使用。
   - 2016年—《[-{zh-hans:使命召唤：现代战争;
     zh-hant:決勝時刻：現代戰爭;}-重製版](../Page/決勝時刻4：現代戰爭.md "wikilink")》（Call
     of Duty: Modern Warfare Remastered）：於2017年8月8日新增到遊戲內，命名為「Lynx
@@ -82,13 +81,13 @@ Still）表示：“我們決定退出步槍製造業務。”“我們會將把
   - [HK MP5冲锋枪](../Page/HK_MP5冲锋枪.md "wikilink")
   - [Floro個人防衛武器](https://zh.wikipedia.org/wiki/Floro個人防衛武器 "wikilink")
   - [AO-46個人防衛武器](../Page/AO-46個人防衛武器.md "wikilink")
-  - [馬格普PDR卡賓槍](https://zh.wikipedia.org/wiki/馬格普PDR卡賓槍 "wikilink")
+  - [馬格普PDR卡賓槍](../Page/馬格普PDR卡賓槍.md "wikilink")
   - [國際動力MKS突擊步槍](https://zh.wikipedia.org/wiki/國際動力MKS突擊步槍 "wikilink")
   - [KAC PDW突擊步槍](https://zh.wikipedia.org/wiki/KAC_PDW突擊步槍 "wikilink")
   - [GA PDW突擊步槍](https://zh.wikipedia.org/wiki/GA_PDW突擊步槍 "wikilink")
   - [Hezi
     SM-1卡賓槍](https://zh.wikipedia.org/wiki/Hezi_SM-1卡賓槍 "wikilink")
-  - [SIG MCX突擊步槍](https://zh.wikipedia.org/wiki/SIG_MCX突擊步槍 "wikilink")
+  - [SIG MCX突擊步槍](../Page/SIG_MCX突擊步槍.md "wikilink")
   - [AAC M7運動步槍](https://zh.wikipedia.org/wiki/AAC_M7運動步槍 "wikilink")
 
 ## 資料來源

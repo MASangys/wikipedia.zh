@@ -22,7 +22,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2015年LPGA巡迴賽" title="wikilink">2015</a></p></td>
 <td><p>4月23日至26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高寶璟" title="wikilink">高寶璟</a> <small>(2)</small></p></td>
+<td><p><a href="../Page/高寶璟.md" title="wikilink">高寶璟</a> <small>(2)</small></p></td>
 <td></td>
 <td><p>67-72-71-70=280</p></td>
 <td><p>−8</p></td>
@@ -33,7 +33,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2014年LPGA巡迴賽" title="wikilink">2014</a></p></td>
 <td><p>4月24日至27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高寶璟" title="wikilink">高寶璟</a></p></td>
+<td><p><a href="../Page/高寶璟.md" title="wikilink">高寶璟</a></p></td>
 <td></td>
 <td><p>68-71-68-69=276</p></td>
 <td><p>−12</p></td>

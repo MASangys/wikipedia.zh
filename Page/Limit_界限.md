@@ -99,7 +99,7 @@
   - 今野水希 -
     [櫻庭奈奈美](../Page/櫻庭奈奈美.md "wikilink")（童年：[宮永柚葵](https://zh.wikipedia.org/wiki/宮永柚葵 "wikilink")）（粵語配音：[黃昕瑜](../Page/黃昕瑜.md "wikilink")）
   - 神矢知惠子 -
-    [土屋太鳳](https://zh.wikipedia.org/wiki/土屋太鳳 "wikilink")（粵語配音：[吳羨婷](https://zh.wikipedia.org/wiki/吳羨婷 "wikilink")）
+    [土屋太鳳](../Page/土屋太鳳.md "wikilink")（粵語配音：[吳羨婷](../Page/吳羨婷.md "wikilink")）
   - 日向晴明 -
     [鈴木勝大](../Page/鈴木勝大.md "wikilink")（粵語配音：[鍾見麟](../Page/鍾見麟.md "wikilink")）
   - 市之瀨春 -
@@ -143,7 +143,7 @@
 
 ### 音樂
 
-  - 主題歌：[bump.y](../Page/bump.y.md "wikilink")《SAVAGE
+  - 主題歌：[bump.y](https://zh.wikipedia.org/wiki/bump.y "wikilink")《SAVAGE
     HEAVEN》（[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")）
 
 ### 製作人員

@@ -40,9 +40,9 @@ Talk」。
   - 2013年8月9日：由於直播《[屈臣氏FIVB世界女排大獎賽－香港2013](../Page/世界女排大獎賽.md "wikilink")》，當日暫停播映。
   - 2013年11月22日：由於直播《2013 [Mnet Asian Music
     Awards](https://zh.wikipedia.org/wiki/Mnet_Asian_Music_Awards "wikilink")》，當日暫停播映。
-  - 2013年12月26日：由於直播《[新城勁爆頒獎禮2013](https://zh.wikipedia.org/wiki/2013年度新城勁爆頒獎禮得獎名單 "wikilink")》，當日暫停播映。
+  - 2013年12月26日：由於直播《[新城勁爆頒獎禮2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink")》，當日暫停播映。
   - 2013年12月30日：由於20:00直播《[梅艷芳‧10‧思念‧音樂會](https://zh.wikipedia.org/wiki/梅艷芳‧10‧思念‧音樂會 "wikilink")》，當日改為19:00-20:00播出。
-  - 2014年1月30日：由於播出《[2014超級巨星紅白藝能大賞](https://zh.wikipedia.org/wiki/2014超級巨星紅白藝能大賞 "wikilink")》，當日暫停播映。
+  - 2014年1月30日：由於播出《[2014超級巨星紅白藝能大賞](../Page/2014超級巨星紅白藝能大賞.md "wikilink")》，當日暫停播映。
   - 2014年1月31日：當日改為19:00-20:00播出。
   - 2014年2月22日：由於直播《[第九屆KKBOX風雲榜](https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜#第九屆_2014 "wikilink")》，當日暫停播映。
   - 2014年3月28日：由於直播《[香港亞洲流行音樂節](../Page/香港亞洲流行音樂節.md "wikilink")2014》，當日改為19:00-20:00播出。
@@ -57,7 +57,7 @@ Talk」。
     Awards](https://zh.wikipedia.org/wiki/Mnet_Asian_Music_Awards "wikilink")》，當日暫停播映。
   - 2014年12月31日：當日另於22:30-00:30播出新年倒數節目《娛樂新聞報道：**除夕星級倒數派對**》。
   - 2015年2月8日：由於直播《[第十屆KKBOX風雲榜](https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜#第十屆_2015 "wikilink")》，當日暫停播映。
-  - 2015年2月18日：由於播出《[2015超級巨星紅白藝能大賞](https://zh.wikipedia.org/wiki/2015超級巨星紅白藝能大賞 "wikilink")》，當日暫停播映。
+  - 2015年2月18日：由於播出《[2015超級巨星紅白藝能大賞](../Page/2015超級巨星紅白藝能大賞.md "wikilink")》，當日暫停播映。
   - 2015年4月19日：由於直播《[第三十四屆香港電影金像獎頒獎典禮紅地氈盛況](https://zh.wikipedia.org/wiki/第34屆香港電影金像獎 "wikilink")》，當日改為19:15-20:00播出。
   - 2015年6月16日：由於直播《[2018
     FIFA俄羅斯世界盃](https://zh.wikipedia.org/wiki/2018年世界盃足球賽 "wikilink")[亞洲區外圍賽－香港
@@ -93,8 +93,8 @@ Talk」。
   - 2017年1月28日：當日改為20:00-21:00播出。
   - 2017年3月4日：由於直播《[賽馬直擊 -
     杜拜超級星期六賽馬日](https://zh.wikipedia.org/wiki/賽馬直擊 "wikilink")》，當日暫停播映。
-  - 2017年3月21日：由於直播《[第十一屆亞洲電影大獎](https://zh.wikipedia.org/wiki/第11屆亞洲電影大獎 "wikilink")》，當日改為19:00-19:30播出。
-  - 2017年4月9日：由於播映《[第三十六屆香港電影金像獎頒獎典禮紅地氈盛況](https://zh.wikipedia.org/wiki/第36屆香港電影金像獎 "wikilink")》，當日暫停播映。
+  - 2017年3月21日：由於直播《[第十一屆亞洲電影大獎](../Page/第11屆亞洲電影大獎.md "wikilink")》，當日改為19:00-19:30播出。
+  - 2017年4月9日：由於播映《[第三十六屆香港電影金像獎頒獎典禮紅地氈盛況](../Page/第36屆香港電影金像獎.md "wikilink")》，當日暫停播映。
   - 2017年4月16日：由於播映《[2017巴黎時裝周](https://zh.wikipedia.org/wiki/2017巴黎時裝周 "wikilink")》，當日暫停播映。
   - 2017年5月20日：由於播映《[兒童青少年粵劇折子戲大賽](https://zh.wikipedia.org/wiki/兒童青少年粵劇折子戲大賽 "wikilink")》，當日暫停播映。
   - 2017年7月8日：由於直播《[賽馬直擊 -
@@ -107,7 +107,7 @@ Talk」。
   - 2018年1月27日：由於直播《[賽馬直擊 -
     大都會錦標賽馬日](https://zh.wikipedia.org/wiki/賽馬直擊 "wikilink")》，當日暫停播映。
   - 2018年2月3日：由於播映《[PRODUCE 101
-    男團出動](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")》及《[搜搜首爾](https://zh.wikipedia.org/wiki/搜搜首爾 "wikilink")》，當日暫停播映。
+    男團出動](../Page/PRODUCE_101_第二季.md "wikilink")》及《[搜搜首爾](https://zh.wikipedia.org/wiki/搜搜首爾 "wikilink")》，當日暫停播映。
   - 2018年2月16日：當日改為20:00-21:00播出。
   - 2018年3月10日：由於直播《[賽馬直擊 -
     杜拜超級星期六賽馬日](https://zh.wikipedia.org/wiki/賽馬直擊 "wikilink")》，當日暫停播映。

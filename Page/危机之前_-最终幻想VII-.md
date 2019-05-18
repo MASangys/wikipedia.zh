@@ -14,7 +14,7 @@ Mobile旗下的](https://zh.wikipedia.org/wiki/ソフトバンクモバイル "w
 ## 开发
 
 本作是史克威尔艾尼克斯首个专门为[手机平台开发的原创游戏](../Page/移动电话.md "wikilink")，其以包月的形式发布在[NTT
-DoCoMo旗下](../Page/NTT_DoCoMo.md "wikilink")[FOMA品牌iMode产品线下](https://zh.wikipedia.org/wiki/Freedom_of_Mobile_Multimedia_Access "wikilink")
+DoCoMo旗下](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[FOMA品牌iMode产品线下](https://zh.wikipedia.org/wiki/Freedom_of_Mobile_Multimedia_Access "wikilink")
 \[5\]。本作也是“[最终幻想VII补完计划](../Page/最终幻想VII补完计划.md "wikilink")”系列中第二个被公布的作品，但却在《[最终幻想VII
 降临之子](../Page/最终幻想VII_降临之子.md "wikilink")》因[后期制作而推迟上映时率先发售](https://zh.wikipedia.org/wiki/后期制作 "wikilink")
 \[6\]\[7\]。在2005年[E3展前新闻发布会上](https://zh.wikipedia.org/wiki/E3 "wikilink")，史克威尔艾尼克斯宣布游戏的英文版本将于2006年在美国发布

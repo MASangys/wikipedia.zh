@@ -1,11 +1,11 @@
-**速霸陸EA族引擎**為[日本](../Page/日本.md "wikilink")[富士重工業在](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1966年至1994年之間開發製造的一系列[水平對臥四缸](../Page/水平對臥四缸引擎.md "wikilink")[汽油](../Page/汽油.md "wikilink")[往復式發動機](https://zh.wikipedia.org/wiki/往復式發動機 "wikilink")，此條目一併記述[速霸陸Alcyone所搭載的ER](https://zh.wikipedia.org/wiki/速霸陸Alcyone "wikilink")27型[水平對臥六缸引擎](../Page/水平對臥六缸引擎.md "wikilink")。
+**速霸陸EA族引擎**為[日本](../Page/日本.md "wikilink")[富士重工業在](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1966年至1994年之間開發製造的一系列[水平對臥四缸](../Page/水平對臥四缸引擎.md "wikilink")[汽油](../Page/汽油.md "wikilink")[往復式發動機](https://zh.wikipedia.org/wiki/往復式發動機 "wikilink")，此條目一併記述[速霸陸Alcyone所搭載的ER](../Page/速霸陸Alcyone.md "wikilink")27型[水平對臥六缸引擎](../Page/水平對臥六缸引擎.md "wikilink")。
 
 ## 概要
 
 經過數次的實驗試作，富士重工業終於在1966年推出的[速霸陸1000上搭載此族類引擎的第一款](../Page/速霸陸1000.md "wikilink")「EA41型」。受到速霸陸1000開發計劃主導者[百瀨晉六的理念影響](../Page/百瀨晉六.md "wikilink")，[速霸陸汽車往後的造車觀念都朝著](../Page/速霸陸.md "wikilink")「更輕量化、更緊湊的[水平對臥引擎](../Page/水平對臥引擎.md "wikilink")」進行，相對地在1980年代此一理念也受到外界嘲諷。譬如1970年代中期其他車廠陸續將OHV頂桿式汽門機構進化至[SOHC單頂置凸輪軸汽門機構](https://zh.wikipedia.org/wiki/顶置凸轮轴#单顶置凸轮轴（SOHC） "wikilink")，可是富士重工業仍謹守著OHV結構。直到1984年第三代速霸陸Leone上市，其裝載的1.8L
 EA82型引擎才改成SOHC結構，但1.6L版本仍採OHV構造。雖然OHV機構具有效率差、[重量過大](../Page/重量.md "wikilink")、後勤維修難度增加等缺點，但該公司技術人員墨守成規，沒有隨著市場變化的腳步前進，OHV結構的EA族引擎在轉速高、出力高的引擎潮流中反而是個異數。
 
-比方1982年第二代速霸陸Leone縱然搭載附有[渦輪增壓器的EA](../Page/渦輪增壓器.md "wikilink")81T型引擎，但OHV結構使得最高容許轉速不能超過5,500rpm。雖然最大[馬力達](../Page/馬力.md "wikilink")120ps，但競爭對手的同級SOHC渦輪增壓引擎已一舉超越135ps；1989年登場的EA82T型渦輪增壓引擎輸出135ps的馬力，而改成[DOHC結構的競爭對手已然突破](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")160ps。結果在這場追逐馬力輸出的競賽中，速霸陸的水平對臥引擎在市場上留下「落伍」的負面評價。此外，1987年面世的[速霸陸Alcyone所搭載的ER](https://zh.wikipedia.org/wiki/速霸陸Alcyone "wikilink")27型，乃是EA82型追加二[汽缸衍生而出的](https://zh.wikipedia.org/wiki/汽缸 "wikilink")[水平對臥六缸引擎](../Page/水平對臥六缸引擎.md "wikilink")。可是該車款的銷售成績不佳，ER27型也未留下任何好評價。
+比方1982年第二代速霸陸Leone縱然搭載附有[渦輪增壓器的EA](../Page/渦輪增壓器.md "wikilink")81T型引擎，但OHV結構使得最高容許轉速不能超過5,500rpm。雖然最大[馬力達](../Page/馬力.md "wikilink")120ps，但競爭對手的同級SOHC渦輪增壓引擎已一舉超越135ps；1989年登場的EA82T型渦輪增壓引擎輸出135ps的馬力，而改成[DOHC結構的競爭對手已然突破](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")160ps。結果在這場追逐馬力輸出的競賽中，速霸陸的水平對臥引擎在市場上留下「落伍」的負面評價。此外，1987年面世的[速霸陸Alcyone所搭載的ER](../Page/速霸陸Alcyone.md "wikilink")27型，乃是EA82型追加二[汽缸衍生而出的](https://zh.wikipedia.org/wiki/汽缸 "wikilink")[水平對臥六缸引擎](../Page/水平對臥六缸引擎.md "wikilink")。可是該車款的銷售成績不佳，ER27型也未留下任何好評價。
 
 日本社團法人（）將1966年的EA52型及1975年的EA71型評選為「日本汽車技術240選」\[1\]。
 
@@ -64,8 +64,7 @@ EA82型引擎才改成SOHC結構，但1.6L版本仍採OHV構造。雖然OHV機�
 排氣量1,267.5c.c.的**EA62型**引擎是該系列中唯一將排氣埠設計在後方的，其缸徑82mm、衝程60mm、壓縮比9.0：1，最大馬力達80ps
 / 6,400rpm，扭力峰值為10.1kgf·m / 4,000rpm。車型：
 
-1.  1970年-1972年：[速霸陸ff-1
-    1300G](https://zh.wikipedia.org/wiki/速霸陸ff-1_1300G "wikilink")
+1.  1970年-1972年：[速霸陸ff-1 1300G](../Page/速霸陸ff-1_1300G.md "wikilink")
 
 ### EA62S型
 
@@ -119,11 +118,11 @@ Carburettor）雙[化油器可榨出](../Page/化油器.md "wikilink")93hp /
 
 1.  1976年-1979年：第一代速霸陸Leone
 2.  1979年-1984年：第二代速霸陸Leone
-3.  1978年-1981年：[速霸陸BRAT](https://zh.wikipedia.org/wiki/速霸陸BRAT "wikilink")
+3.  1978年-1981年：[速霸陸BRAT](../Page/速霸陸BRAT.md "wikilink")
 
 ## EA72型
 
-**EA72型**乃是實驗性產物，本質上是將EA82型的SOHC單頂置凸輪軸汽門機構裝在EA71型。1989年時富士重工業正力推裝載[EJ15型、EJ16型引擎的](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎 "wikilink")[速霸陸Legacy](https://zh.wikipedia.org/wiki/速霸陸Legacy "wikilink")，直接影響到採用EA族系列引擎的[第三代Leone的產品陣容](https://zh.wikipedia.org/wiki/速霸陸Leone#第三代（1984年-1994年） "wikilink")，是以該具引擎未曾真正搭載於任何速霸陸的市售車款。排氣量1,595c.c.、缸徑92mm、衝程60mm、SOHC單頂置凸輪軸汽門機構，而最大馬力及扭力峰值未公開。
+**EA72型**乃是實驗性產物，本質上是將EA82型的SOHC單頂置凸輪軸汽門機構裝在EA71型。1989年時富士重工業正力推裝載[EJ15型、EJ16型引擎的](../Page/速霸陸EJ族引擎.md "wikilink")[速霸陸Legacy](../Page/速霸陸Legacy.md "wikilink")，直接影響到採用EA族系列引擎的[第三代Leone的產品陣容](https://zh.wikipedia.org/wiki/速霸陸Leone#第三代（1984年-1994年） "wikilink")，是以該具引擎未曾真正搭載於任何速霸陸的市售車款。排氣量1,595c.c.、缸徑92mm、衝程60mm、SOHC單頂置凸輪軸汽門機構，而最大馬力及扭力峰值未公開。
 
 ## EA81型
 
@@ -131,7 +130,7 @@ Carburettor）雙[化油器可榨出](../Page/化油器.md "wikilink")93hp /
 5,600rpm、最大扭力15.0kgf·m / 3,600rpm。車型：
 
 1.  1980年-1989年：第二、三代速霸陸Leone
-2.  1981年-1994年：[速霸陸BRAT](https://zh.wikipedia.org/wiki/速霸陸BRAT "wikilink")
+2.  1981年-1994年：[速霸陸BRAT](../Page/速霸陸BRAT.md "wikilink")
 
 ### EA81S型
 
@@ -139,7 +138,7 @@ Carburettor）雙[化油器可榨出](../Page/化油器.md "wikilink")93hp /
 6,000rpm，扭力峰值則是15.0kgf·m / 4,000rpm。車型：
 
 1.  1983年-1984年：第二代速霸陸Leone
-2.  1983年-1984年：[速霸陸BRAT](https://zh.wikipedia.org/wiki/速霸陸BRAT "wikilink")（[北美洲市場](../Page/北美洲.md "wikilink")）
+2.  1983年-1984年：[速霸陸BRAT](../Page/速霸陸BRAT.md "wikilink")（[北美洲市場](../Page/北美洲.md "wikilink")）
 
 ### EA81T型
 
@@ -154,7 +153,7 @@ injection之縮寫）搭配[渦輪增壓器的EA](../Page/渦輪增壓器.md "wi
 
 [Subaru_EA82_Leone_1989.jpg](https://zh.wikipedia.org/wiki/File:Subaru_EA82_Leone_1989.jpg "fig:Subaru_EA82_Leone_1989.jpg")
 **EA82型**乃是該族引擎中最後發展的，陸續採用了化油器、SPI單點燃油噴射裝置（single point fuel
-injection之縮寫）、MPI多點燃油噴射裝置等供油方式。身為此族最後開發的引擎，EA82型確立了[SOHC單頂置凸輪軸汽門機構及MPI多點燃油噴射裝置等兩個方向](https://zh.wikipedia.org/wiki/顶置凸轮轴#单顶置凸轮轴（SOHC） "wikilink")，使後續的[速霸陸EJ族引擎得以發展下去](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎 "wikilink")。排氣量為1,781c.c.、缸徑92mm、衝程67mm、壓縮比分別是8.7：1（化油器版）/9.0：1（SPI版）/9.5：1（MPI版）。
+injection之縮寫）、MPI多點燃油噴射裝置等供油方式。身為此族最後開發的引擎，EA82型確立了[SOHC單頂置凸輪軸汽門機構及MPI多點燃油噴射裝置等兩個方向](https://zh.wikipedia.org/wiki/顶置凸轮轴#单顶置凸轮轴（SOHC） "wikilink")，使後續的[速霸陸EJ族引擎得以發展下去](../Page/速霸陸EJ族引擎.md "wikilink")。排氣量為1,781c.c.、缸徑92mm、衝程67mm、壓縮比分別是8.7：1（化油器版）/9.0：1（SPI版）/9.5：1（MPI版）。
 最大馬力：
 
   - 化油器版：85ps / 5,200rpm
@@ -170,7 +169,7 @@ injection之縮寫）、MPI多點燃油噴射裝置等供油方式。身為此�
 車型：
 
 1.  1985年-1994年：[第三代速霸陸Leone](https://zh.wikipedia.org/wiki/速霸陸Leone#第三代（1984年-1994年） "wikilink")
-2.  1985年-1991年：[速霸陸Alcyone](https://zh.wikipedia.org/wiki/速霸陸Alcyone "wikilink")
+2.  1985年-1991年：[速霸陸Alcyone](../Page/速霸陸Alcyone.md "wikilink")
 
 ### EA82T型
 
@@ -180,7 +179,7 @@ VF7型[渦輪增壓器而成](../Page/渦輪增壓器.md "wikilink")，壓縮比
 2,800rpm，但其他日系車廠的1.8L[直列四缸渦輪增壓引擎採用DOHC構造](../Page/直列四缸引擎.md "wikilink")，最高馬力已突破160ps，使得富士重工業的銷售陷入困境。車型：
 
 1.  1985年-1994年：[第三代速霸陸Leone](https://zh.wikipedia.org/wiki/速霸陸Leone#第三代（1984年-1994年） "wikilink")
-2.  1985年-1991年：[速霸陸Alcyone](https://zh.wikipedia.org/wiki/速霸陸Alcyone "wikilink")
+2.  1985年-1991年：[速霸陸Alcyone](../Page/速霸陸Alcyone.md "wikilink")
 
 ## ER27型
 
@@ -192,7 +191,7 @@ VF7型[渦輪增壓器而成](../Page/渦輪增壓器.md "wikilink")，壓縮比
 
 ## 內部連結
 
-  - [速霸陸引擎列表](https://zh.wikipedia.org/wiki/速霸陸引擎列表 "wikilink")
+  - [速霸陸引擎列表](../Page/速霸陸引擎列表.md "wikilink")
   - [水平對臥引擎](../Page/水平對臥引擎.md "wikilink")
   - [水平對臥四缸引擎](../Page/水平對臥四缸引擎.md "wikilink")
   - [水平對臥六缸引擎](../Page/水平對臥六缸引擎.md "wikilink")

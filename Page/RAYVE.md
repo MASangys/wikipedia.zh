@@ -3,7 +3,7 @@ ROBE發售](https://zh.wikipedia.org/wiki/RONDO_ROBE "wikilink")。\[1\]。
 
 ## 概要
 
-這是2012年出道的Ray第一張專輯。除了一如既往由[I've擔任製作人外](../Page/I've.md "wikilink")，同是I've所屬的歌手[川田真美及前成員之一](../Page/川田真美.md "wikilink")[KOTOKO參與填詞](../Page/KOTOKO.md "wikilink")。Ray在這個專輯也首次嘗試作詞。
+這是2012年出道的Ray第一張專輯。除了一如既往由[I've擔任製作人外](../Page/I've.md "wikilink")，同是I've所屬的歌手[川田真美及前成員之一](../Page/川田真美.md "wikilink")[KOTOKO參與填詞](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")。Ray在這個專輯也首次嘗試作詞。
 
 初回限定盤封入的DVD收錄了「As for me」PV、PV製作花絮、特別焦點(Special
 Spot)及「sign」「告白」「楽園PROJECT」「Recall」的跳舞版。
@@ -16,7 +16,7 @@ Spot)及「sign」「告白」「楽園PROJECT」「Recall」的跳舞版。
         作曲、編曲：[中澤伴行](https://zh.wikipedia.org/wiki/中澤伴行 "wikilink")
 2.  **告白** \[5:30\]
       -
-        作詞：[KOTOKO](../Page/KOTOKO.md "wikilink"),
+        作詞：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink"),
         作曲：[折戶伸治](../Page/折戶伸治.md "wikilink"),
         編曲：[高瀬一矢](https://zh.wikipedia.org/wiki/高瀬一矢 "wikilink")
         [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[在那個夏天等待](../Page/在那個夏天等待.md "wikilink")』印象曲
@@ -56,8 +56,7 @@ Spot)及「sign」「告白」「楽園PROJECT」「Recall」的跳舞版。
 10. **Sweet days** \[3:49\]
       -
         作詞：PA-NON,作曲、編曲：尾崎武士
-11. **[Recall](https://zh.wikipedia.org/wiki/Recall "wikilink")**
-    \[4:25\]
+11. **[Recall](../Page/Recall.md "wikilink")** \[4:25\]
       -
         作詞：川田真美,作曲、編曲：[井内舞子](../Page/井内舞子.md "wikilink")
         PSP遊戲『[AMNESIA](https://zh.wikipedia.org/wiki/AMNESIA "wikilink")』動畫化作品的片尾曲。

@@ -127,7 +127,7 @@ Bridge微架構開始](../Page/Sandy_Bridge微架構.md "wikilink")，Intel把�
 | Core i7-5930K | 玩家超頻 | 6 / 12 | 3.5 GHz (3.7 GHz) | 6×256 KB | 15 MB | 無      | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2133 MHz | 140 W | [LGA 2011-3](../Page/LGA_2011.md "wikilink") |
 | Core i7-5960X | 極致版  | 8 / 16 | 3.0 GHz (3.5 GHz) | 8×256 KB | 20 MB | 無      | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2133 MHz | 140 W | [LGA 2011-3](../Page/LGA_2011.md "wikilink") |
 
-### [Broadwell微架構](https://zh.wikipedia.org/wiki/Broadwell微架構 "wikilink")
+### [Broadwell微架構](../Page/Broadwell微架構.md "wikilink")
 
 #### Broadwell-H (14 nm)
 
@@ -168,11 +168,11 @@ Bridge微架構開始](../Page/Sandy_Bridge微架構.md "wikilink")，Intel把�
 
 #### Skylake-X (14 nm)
 
-| 型號            | 市場區隔 | 核心/執行緒 | 時脈頻率（Turbo Boost 2 / 3） | 快取       | 顯示晶片    | 記憶體控制器 | TDP                                                            | 插槽    | 出品日期                                                          |
-| ------------- | ---- | ------ | ----------------------- | -------- | ------- | ------ | -------------------------------------------------------------- | ----- | ------------------------------------------------------------- |
-| L2            | L3   |        |                         |          |         |        |                                                                |       |                                                               |
-| Core i7-7800X | 極致版  | 6 / 12 | 3.5 GHz (4.0 GHz)       | 6×256 KB | 8.25 MB | 無      | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2400 MHz | 140 W | [LGA 2066](https://zh.wikipedia.org/wiki/LGA_2066 "wikilink") |
-| Core i7-7820X | 極致版  | 8 / 16 | 3.6 GHz (4.3 / 4.5 GHz) | 8×256 KB | 11 MB   | 無      | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2666 MHz | 140 W | [LGA 2066](https://zh.wikipedia.org/wiki/LGA_2066 "wikilink") |
+| 型號            | 市場區隔 | 核心/執行緒 | 時脈頻率（Turbo Boost 2 / 3） | 快取       | 顯示晶片    | 記憶體控制器 | TDP                                                            | 插槽    | 出品日期                                       |
+| ------------- | ---- | ------ | ----------------------- | -------- | ------- | ------ | -------------------------------------------------------------- | ----- | ------------------------------------------ |
+| L2            | L3   |        |                         |          |         |        |                                                                |       |                                            |
+| Core i7-7800X | 極致版  | 6 / 12 | 3.5 GHz (4.0 GHz)       | 6×256 KB | 8.25 MB | 無      | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2400 MHz | 140 W | [LGA 2066](../Page/LGA_2066.md "wikilink") |
+| Core i7-7820X | 極致版  | 8 / 16 | 3.6 GHz (4.3 / 4.5 GHz) | 8×256 KB | 11 MB   | 無      | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2666 MHz | 140 W | [LGA 2066](../Page/LGA_2066.md "wikilink") |
 
 ### [Kaby Lake微架構](../Page/Kaby_Lake微架構.md "wikilink")
 
@@ -239,7 +239,7 @@ Bridge微架構開始](../Page/Sandy_Bridge微架構.md "wikilink")，Intel把�
 <td><p>無</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2666 MHz</p></td>
 <td><p>112 W</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LGA_2066" title="wikilink">LGA 2066</a></p></td>
+<td><p><a href="../Page/LGA_2066.md" title="wikilink">LGA 2066</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -575,7 +575,7 @@ BGA-1023</p></td>
 
 #### Haswell-H [MCP](https://zh.wikipedia.org/wiki/MCP "wikilink")(四核) (22 nm)
 
-### [Broadwell微架構](https://zh.wikipedia.org/wiki/Broadwell微架構 "wikilink")
+### [Broadwell微架構](../Page/Broadwell微架構.md "wikilink")
 
 #### Broadwell-H [MCP](https://zh.wikipedia.org/wiki/MCP "wikilink")(四核) (14 nm)
 

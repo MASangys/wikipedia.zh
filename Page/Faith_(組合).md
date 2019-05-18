@@ -34,7 +34,7 @@ Faith的成員均為90後\[1\]，最初經紀公司只簽下就讀於香港大�
 
 ## 經歷
 
-Faith與同年出道的[BOP被批評為](https://zh.wikipedia.org/wiki/BOP_\(組合\) "wikilink")「[MK
+Faith與同年出道的[BOP被批評為](../Page/BOP_\(組合\).md "wikilink")「[MK
 POP](https://zh.wikipedia.org/wiki/MK_POP "wikilink")」，音樂錄影帶製作粗濫\[2\]。
 
 2015年5月8日Faith於聖母玫瑰書院作表演嘉賓，並公佈新成員Dawn和River，作出4人的首次公開表演（當日Wave並沒有出席表演），並表示Faith日後以四人組合活動。但成員之一的Wave於其個人Instagram表示對當天表演及新成員加入並不知情。
@@ -79,7 +79,7 @@ FAITH
 
   - 2014年8月25日，FAITH 「飯聚玩唱會」
   - 2015年5月8日,
-    首次以4人組合形式(成員Wave沒有參與)參與由[聖母玫瑰書院舉辦的校內歌唱比賽作表演嘉賓](https://zh.wikipedia.org/wiki/聖母玫瑰書院 "wikilink")
+    首次以4人組合形式(成員Wave沒有參與)參與由[聖母玫瑰書院舉辦的校內歌唱比賽作表演嘉賓](../Page/聖母玫瑰書院.md "wikilink")
   - 2019年5月2日，Michael重返FAITH
 
 ## 派台歌曲成績

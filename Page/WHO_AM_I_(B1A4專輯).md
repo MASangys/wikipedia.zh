@@ -42,7 +42,7 @@ I**》是韓國男子組合[B1A4第二張正規專輯](../Page/B1A4.md "wikilink
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年Gaon專輯冠軍作品列表" title="wikilink">專輯周榜</a></p></td>
+<td><p><a href="../Page/2014年Gaon專輯冠軍作品列表.md" title="wikilink">專輯周榜</a></p></td>
 <td><p>2014年1月18日－1月25日</p></td>
 <td><p>#1</p></td>
 <td><p>–</p></td>
@@ -59,7 +59,7 @@ I**》是韓國男子組合[B1A4第二張正規專輯](../Page/B1A4.md "wikilink
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="../Page/2014年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2014年1月</p></td>
 <td><p>#2</p></td>
 <td><p>99,675</p></td>
@@ -68,7 +68,7 @@ I**》是韓國男子組合[B1A4第二張正規專輯](../Page/B1A4.md "wikilink
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年Gaon專輯冠軍作品列表" title="wikilink">專輯年榜</a></p></td>
+<td><p><a href="../Page/2014年Gaon專輯冠軍作品列表.md" title="wikilink">專輯年榜</a></p></td>
 <td><p>2014年</p></td>
 <td><p>#10</p></td>
 <td><p>134,449</p></td>

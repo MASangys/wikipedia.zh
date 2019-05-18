@@ -15,7 +15,7 @@ AMOLED屏幕](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")，分辨率
 ### 软件及交互
 
 运行搭载[Touchwiz Nature UX
-UI的](../Page/Touchwiz.md "wikilink")[Android4.1.2操作系统](https://zh.wikipedia.org/wiki/Android4.1.2 "wikilink")；内置的Smart
+UI的](https://zh.wikipedia.org/wiki/Touchwiz "wikilink")[Android4.1.2操作系统](https://zh.wikipedia.org/wiki/Android4.1.2 "wikilink")；内置的Smart
 Stay可检测使用者眼球动作，当用户紧盯屏幕时，屏幕不会休眠。
 
 ## 参考

@@ -37,7 +37,7 @@
 </tr>
 <tr class="even">
 <td><p>1月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/聲音_(關西傑尼斯8單曲)" title="wikilink">聲音</a></p></td>
+<td><p><a href="../Page/聲音_(關西傑尼斯8單曲).md" title="wikilink">聲音</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>20.6</p></td>
 <td><p>1</p></td>
@@ -65,28 +65,28 @@
 </tr>
 <tr class="even">
 <td><p>2月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Bittersweet" title="wikilink">Bittersweet</a></p></td>
+<td><p><a href="../Page/Bittersweet.md" title="wikilink">Bittersweet</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>51.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KING_OF_男！" title="wikilink">KING OF 男！</a></p></td>
+<td><p><a href="../Page/KING_OF_男！.md" title="wikilink">KING OF 男！</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>35.3</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>3月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/勇往直前_(AKB48單曲)" title="wikilink">勇往直前</a></p></td>
+<td><p><a href="../Page/勇往直前_(AKB48單曲).md" title="wikilink">勇往直前</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>109.1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/光的信號" title="wikilink">光的信號</a></p></td>
+<td><p><a href="../Page/光的信號.md" title="wikilink">光的信號</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Kis-My-Ft2" title="wikilink">Kis-My-Ft2</a></p></td>
 <td><p>20.3</p></td>
 <td><p>1</p></td>
@@ -136,20 +136,20 @@
 <tr class="even">
 <td><p>5月5日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Johnny&#39;s_WEST" title="wikilink">Johnny's WEST</a></p></td>
+<td><p><a href="../Page/Johnny&#39;s_WEST.md" title="wikilink">Johnny's WEST</a></p></td>
 <td><p>26.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GUTS!" title="wikilink">GUTS!</a></p></td>
+<td><p><a href="../Page/GUTS!.md" title="wikilink">GUTS!</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>50.1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>5月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/哭泣也無所謂喔" title="wikilink">哭泣也無所謂喔</a></p></td>
+<td><p><a href="../Page/哭泣也無所謂喔.md" title="wikilink">哭泣也無所謂喔</a></p></td>
 <td><p><a href="../Page/桃色幸運草Z.md" title="wikilink">桃色幸運草Z</a></p></td>
 <td><p>6.7</p></td>
 <td><p>1</p></td>
@@ -163,14 +163,14 @@
 </tr>
 <tr class="even">
 <td><p>6月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拉布拉多獵犬_(AKB48單曲)" title="wikilink">拉布拉多獵犬</a></p></td>
+<td><p><a href="../Page/拉布拉多獵犬_(AKB48單曲).md" title="wikilink">拉布拉多獵犬</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>166.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/無人知曉" title="wikilink">無人知曉</a></p></td>
+<td><p><a href="../Page/無人知曉.md" title="wikilink">無人知曉</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>46.2</p></td>
 <td><p>1</p></td>
@@ -198,7 +198,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/R.Y.U.S.E.I." title="wikilink">R.Y.U.S.E.I.</a></p></td>
+<td><p><a href="../Page/R.Y.U.S.E.I..md" title="wikilink">R.Y.U.S.E.I.</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/三代目J_Soul_Brothers" title="wikilink">三代目J Soul Brothers</a></p></td>
 <td><p>16.2</p></td>
 <td><p>1</p></td>
@@ -226,21 +226,21 @@
 </tr>
 <tr class="odd">
 <td><p>8月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NEW_HORIZON" title="wikilink">NEW HORIZON</a></p></td>
+<td><p><a href="../Page/NEW_HORIZON.md" title="wikilink">NEW HORIZON</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EXILE" title="wikilink">EXILE</a></p></td>
 <td><p>14.8</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>8月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/笨拙的太陽" title="wikilink">笨拙的太陽</a></p></td>
+<td><p><a href="../Page/笨拙的太陽.md" title="wikilink">笨拙的太陽</a></p></td>
 <td><p><a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
 <td><p>32.4</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ER2_(關西傑尼斯8單曲)" title="wikilink">ER2</a></p></td>
+<td><p><a href="../Page/ER2_(關西傑尼斯8單曲).md" title="wikilink">ER2</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>20.8</p></td>
 <td><p>1</p></td>
@@ -303,7 +303,7 @@
 </tr>
 <tr class="even">
 <td><p>10月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第幾次的藍天？" title="wikilink">第幾次的藍天？</a></p></td>
+<td><p><a href="../Page/第幾次的藍天？.md" title="wikilink">第幾次的藍天？</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></p></td>
 <td><p>47.9</p></td>
 <td><p>1</p></td>
@@ -325,20 +325,20 @@
 <tr class="odd">
 <td><p>11月10日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Dream5" title="wikilink">Dream5</a> + <a href="https://zh.wikipedia.org/wiki/妖怪手錶角色列表#英勇族" title="wikilink">體操隊長</a></p></td>
+<td><p><a href="../Page/Dream5.md" title="wikilink">Dream5</a> + <a href="https://zh.wikipedia.org/wiki/妖怪手錶角色列表#英勇族" title="wikilink">體操隊長</a></p></td>
 <td><p>6.6</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>11月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/真不像我" title="wikilink">真不像我</a></p></td>
+<td><p><a href="../Page/真不像我.md" title="wikilink">真不像我</a></p></td>
 <td><p><a href="../Page/NMB48.md" title="wikilink">NMB48</a></p></td>
 <td><p>42.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/沒有鑰匙的盒子" title="wikilink">沒有鑰匙的盒子</a></p></td>
+<td><p><a href="../Page/沒有鑰匙的盒子.md" title="wikilink">沒有鑰匙的盒子</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>15.2</p></td>
 <td><p>1</p></td>
@@ -352,28 +352,28 @@
 </tr>
 <tr class="odd">
 <td><p>12月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/希望無限" title="wikilink">希望無限</a></p></td>
+<td><p><a href="../Page/希望無限.md" title="wikilink">希望無限</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>113.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>12月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/努力進行曲" title="wikilink">努力進行曲</a></p></td>
+<td><p><a href="../Page/努力進行曲.md" title="wikilink">努力進行曲</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>20.1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/12月的袋鼠" title="wikilink">12月的袋鼠</a></p></td>
+<td><p><a href="../Page/12月的袋鼠.md" title="wikilink">12月的袋鼠</a></p></td>
 <td><p><a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
 <td><p>38.6</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>12月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mamacita_(單曲)" title="wikilink">MAMACITA -AYAYA-</a></p></td>
+<td><p><a href="../Page/Mamacita_(單曲).md" title="wikilink">MAMACITA -AYAYA-</a></p></td>
 <td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a></p></td>
 <td><p>6.5</p></td>
 <td><p>1</p></td>
@@ -390,7 +390,7 @@
 
 ## 參見
 
-  - [2014年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2014年Oricon專輯週榜冠軍作品列表 "wikilink")
+  - [2014年Oricon專輯週榜冠軍作品列表](../Page/2014年Oricon專輯週榜冠軍作品列表.md "wikilink")
 
 ## 參考資料
 

@@ -81,7 +81,7 @@ Platform）模組化平臺為基礎而開發的新車款，車身尺寸與上一
 [FB16型](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB16型 "wikilink")、2.0L水平對臥四缸DOHC
 [FB20型等二種引擎](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB20型 "wikilink")，但重新調校後的輸出表現更好。
 
-同年6月8日[台灣意美汽車正式引進臺灣](https://zh.wikipedia.org/wiki/台灣意美汽車 "wikilink")，配置2.0L水平對臥四缸DOHC
+同年6月8日[台灣意美汽車正式引進臺灣](../Page/台灣意美汽車.md "wikilink")，配置2.0L水平對臥四缸DOHC
 [FB20型引擎單一動力設定](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB20型 "wikilink")，可惜沒有引入[EyeSight行車安全輔助系統的配備](../Page/EyeSight.md "wikilink")。遲至同年12月，才正式導入限量200台具備[EyeSight行車安全輔助系統](../Page/EyeSight.md "wikilink")。
 
 Image:Subaru XV 2.0i-S EyeSight (DBA-GT7) interior.jpg|內裝
@@ -91,7 +91,7 @@ Image:Subaru XV 2.0i-S EyeSight (DBA-GT7) interior.jpg|內裝
 ## 內部連結
 
   - [速霸陸Impreza](../Page/速霸陸Impreza.md "wikilink")
-  - [馬自達CX-3](https://zh.wikipedia.org/wiki/馬自達CX-3 "wikilink")
+  - [馬自達CX-3](../Page/馬自達CX-3.md "wikilink")
   - [日產Juke](../Page/日產Juke.md "wikilink")
 
 ## 外部連結

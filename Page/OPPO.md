@@ -6,7 +6,7 @@
 
 ### 影音产品时期
 
-2000年，OPPO品牌从[廣東步步高電子工業有限公司](https://zh.wikipedia.org/wiki/步步高電子 "wikilink")（其是生产[vivo智能手机的母公司](../Page/vivo.md "wikilink")）逐渐独立，OPPO商标开始在全球注册。
+2000年，OPPO品牌从[廣東步步高電子工業有限公司](https://zh.wikipedia.org/wiki/步步高電子 "wikilink")（其是生产[vivo智能手机的母公司](https://zh.wikipedia.org/wiki/vivo "wikilink")）逐渐独立，OPPO商标开始在全球注册。
 
 2004年，OPPO（中国）公司正式成立，開展在中國大陸的事業，制作专业高清DVD播放机等类型数码视听产品。
 
@@ -29,13 +29,11 @@ Finder](https://zh.wikipedia.org/wiki/OPPO_Finder "wikilink")。
 2012年12月，OPPO發布智能手機[OPPO Find
 5](https://zh.wikipedia.org/wiki/OPPO_Find_5 "wikilink")。
 
-2013年4月，OPPO推出基於[Android的定制系統](../Page/Android.md "wikilink")[ColorOS](https://zh.wikipedia.org/wiki/ColorOS "wikilink")。
+2013年4月，OPPO推出基於[Android的定制系統](../Page/Android.md "wikilink")[ColorOS](../Page/ColorOS.md "wikilink")。
 
-2013年9月，OPPO發布智能手機[OPPO
-N1](https://zh.wikipedia.org/wiki/OPPO_N1 "wikilink")。\[2\]\[3\]
+2013年9月，OPPO發布智能手機[OPPO N1](../Page/OPPO_N1.md "wikilink")。\[2\]\[3\]
 
-2014年3月，OPPO發布智能手機[OPPO Find
-7](https://zh.wikipedia.org/wiki/OPPO_Find_7 "wikilink")。
+2014年3月，OPPO發布智能手機[OPPO Find 7](../Page/OPPO_Find_7.md "wikilink")。
 
 2014年6月，OPPO發布智能手機[OPPO N1
 Mini和](https://zh.wikipedia.org/wiki/OPPO_N1_Mini "wikilink")[OPPO
@@ -74,7 +72,7 @@ R11 Plus](https://zh.wikipedia.org/wiki/OPPO_R11_/_R11_Plus "wikilink")。
 
 2017年10月，OPPO發布智慧型手機[OPPO
 F5](https://zh.wikipedia.org/wiki/OPPO_A75 "wikilink")、[OPPO F5
-Youth](https://zh.wikipedia.org/wiki/OPPO_A73 "wikilink")。
+Youth](../Page/OPPO_A73.md "wikilink")。
 
 2017年11月2日，[OPPO
 R11s及](https://zh.wikipedia.org/wiki/OPPO_R11s_/_R11s_Plus "wikilink")[OPPO
@@ -86,7 +84,7 @@ R15](https://zh.wikipedia.org/wiki/OPPO_R15_/_R15_Pro "wikilink")、[OPPO
 R15 Pro](https://zh.wikipedia.org/wiki/OPPO_R15_/_R15_Pro "wikilink")。
 
 2018年6月，OPPO宣布Find系列回歸，推出Find系列新機[OPPO Find
-X](https://zh.wikipedia.org/wiki/OPPO_Find_X "wikilink")，稱為「未來旗艦」。
+X](../Page/OPPO_Find_X.md "wikilink")，稱為「未來旗艦」。
 
 2018年8月，OPPO發布智慧型手機[OPPO
 R17](https://zh.wikipedia.org/wiki/OPPO_R17_/_R17_Pro "wikilink")、[OPPO
@@ -98,11 +96,11 @@ R17 Pro](https://zh.wikipedia.org/wiki/OPPO_R17_/_R17_Pro "wikilink")。
 
 Find系列為OPPO的雙旗艦系列之一，“旗艦級”的規格著稱。從2011年发布的首支手機Find me開始，共出了Find
 me、Finder、Find 5、Find 7五款手機。OPPO在2018年6月1日宣佈Find系列新機[Find
-X](https://zh.wikipedia.org/wiki/OPPO_Find_X "wikilink")，稱為“未來旗艦”。
+X](../Page/OPPO_Find_X.md "wikilink")，稱為“未來旗艦”。
 
 ### N系列
 
-N系列為OPPO的雙旗艦系列之一，以相機由可旋轉200度以上的旋轉鏡頭著称，從2013年发布的首支手機[N1開始](https://zh.wikipedia.org/wiki/OPPO_N1 "wikilink")，共出了[N1](https://zh.wikipedia.org/wiki/OPPO_N1 "wikilink")、N1
+N系列為OPPO的雙旗艦系列之一，以相機由可旋轉200度以上的旋轉鏡頭著称，從2013年发布的首支手機[N1開始](../Page/OPPO_N1.md "wikilink")，共出了[N1](../Page/OPPO_N1.md "wikilink")、N1
 mini、N3三款手機。N3之後均暫無再推出續作。
 
 ### R系列
@@ -148,9 +146,8 @@ OPPO R系列
 
 F系列為OPPO的中端手機系列，宣傳以前置相機自拍美顏為主要特色。從2015年發表的首支手機開始，共有F1、F1s、F1 Plus、F3、F3
 Plus、[F5](https://zh.wikipedia.org/wiki/OPPO_A75 "wikilink")、[F5
-Youth](https://zh.wikipedia.org/wiki/OPPO_A73 "wikilink")、F7 、[F7
-Youth](https://zh.wikipedia.org/wiki/OPPO_A73s "wikilink") 、 F9（F9 Pro）和
-F11 Pro。
+Youth](../Page/OPPO_A73.md "wikilink")、F7 、[F7
+Youth](../Page/OPPO_A73s.md "wikilink") 、 F9（F9 Pro）和 F11 Pro。
 
 值得注意的是，R9與F1
 Plus為同款手機，僅因區分各國市場而在不同國家而有不同稱呼。為了全球命名統一化及市場區隔，F系列自F3開始，均只有在[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[菲律賓等國家販售](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")。未來在[中國大陸](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[澳洲和](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[紐西蘭市場都不會有F系列之手機](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，取而代之的是A系列。
@@ -208,7 +205,7 @@ A系列為OPPO的中低端手機系列，以前置相機自拍美顏及獨立三
 <td><p>海外市場均命名為OPPO F5 (除了台灣，新加坡，澳洲和紐西蘭市場)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/OPPO_A73" title="wikilink">A73</a></p></td>
+<td><p><a href="../Page/OPPO_A73.md" title="wikilink">A73</a></p></td>
 <td><p> <strong>NT$7,990</strong></p></td>
 <td><p>聯發科MT6763T (Helio P23)</p></td>
 <td><p>海外市場均命名為OPPO F5 Youth (除了台灣，新加坡，澳洲和紐西蘭市場)</p></td>
@@ -238,7 +235,7 @@ A系列為OPPO的中低端手機系列，以前置相機自拍美顏及獨立三
 <td><p>發表於2018年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/OPPO_A73s" title="wikilink">A73s</a></p></td>
+<td><p><a href="../Page/OPPO_A73s.md" title="wikilink">A73s</a></p></td>
 <td><p> <strong>NT$8,990</strong></p></td>
 <td><p>聯發科MT6771 (Helio P60)</p></td>
 <td><p>發表於2018年; 印度市場命名為Realme 1</p></td>
@@ -303,7 +300,7 @@ OPPO在特定市場為其手機邀請明星代言人，擴大產品與品牌知�
   - [楊冪](../Page/杨幂.md "wikilink")
   - [李易峰](../Page/李易峰.md "wikilink")
   - [楊洋](https://zh.wikipedia.org/wiki/杨洋 "wikilink")
-  - TFBOYS [王俊凱](https://zh.wikipedia.org/wiki/王俊凯 "wikilink")
+  - TFBOYS [王俊凱](../Page/王俊凯.md "wikilink")
   - [迪麗熱巴](https://zh.wikipedia.org/wiki/迪丽热巴 "wikilink") (包括 馬來西亞 市場）
   - [陳偉霆](../Page/陳偉霆.md "wikilink")
   - [張一山](../Page/张一山.md "wikilink")
@@ -319,7 +316,7 @@ OPPO在特定市場為其手機邀請明星代言人，擴大產品與品牌知�
 
   - Neelofa
   - [林明禎 (Min Chen)](../Page/林明禎.md "wikilink")
-  - [周興哲 (Eric Chou)](https://zh.wikipedia.org/wiki/周興哲 "wikilink")
+  - [周興哲 (Eric Chou)](../Page/周興哲.md "wikilink")
   - Fattah Amin
   - Ayda Jebat
   - Zahirah Macwilson

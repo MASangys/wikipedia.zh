@@ -1,10 +1,10 @@
 《**Rage
-on**》是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[OLDCODEX的第](https://zh.wikipedia.org/wiki/OLDCODEX "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年7月17日由[Lantis發行](../Page/Lantis.md "wikilink")。
+on**》是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[OLDCODEX的第](../Page/OLDCODEX.md "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年7月17日由[Lantis發行](../Page/Lantis.md "wikilink")。
 
 ## 簡介
 
 《Rage
-on》是[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[OLDCODEX自從上一張單曲](https://zh.wikipedia.org/wiki/OLDCODEX "wikilink")《The
+on》是[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[OLDCODEX自從上一張單曲](../Page/OLDCODEX.md "wikilink")《The
 Misfit Go》以來，相隔兩個月發行的最新單曲。表題曲「Rage
 on」曾被2013年7月至9月在[朝日放送](../Page/朝日放送.md "wikilink")、[TOKYO
 MX等台播出的](../Page/東京都會電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[Free！](../Page/Free!.md "wikilink")》選為片頭主題曲使用，也是該樂團的首張被選為電視動畫片頭曲的A面歌曲。

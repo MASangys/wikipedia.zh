@@ -1,5 +1,5 @@
-《**完整愛**》是[香港女子團體](../Page/香港.md "wikilink")[Twins成員](https://zh.wikipedia.org/wiki/Twins "wikilink")[鍾欣潼的第二張個人國語EP](../Page/鍾欣潼.md "wikilink")，亦是第四張個人專輯。唱片共收錄5首歌曲。2014年5月27日[iTunes開始預購](../Page/iTunes.md "wikilink")，2014年6月19日正式發行。iTunes上架兩版本**《普通版》**\[1\]
-及**《豪華版》**\[2\]。台灣由[种子音乐代理發行香港进口版](https://zh.wikipedia.org/wiki/种子音乐 "wikilink")，发行日期为6月20日。此張EP宣傳計畫並未赴[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[星](../Page/新加坡.md "wikilink")[馬等地做宣傳](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。好友[蘇見信亦為阿嬌量身打造](https://zh.wikipedia.org/wiki/蘇見信 "wikilink")《一輩子》，同名電影《[完整愛](https://zh.wikipedia.org/wiki/完整愛_\(微電影\) "wikilink")》更找來了好閨蜜[張韶涵](../Page/張韶涵.md "wikilink")、同門師弟[羅力威及台灣歌手](../Page/羅力威.md "wikilink")[周湯豪出演](../Page/周湯豪.md "wikilink")，赴臺北拍攝取景，由導演[陳映之操手](https://zh.wikipedia.org/wiki/陳映之 "wikilink")。\[3\]\[4\]
+《**完整愛**》是[香港女子團體](../Page/香港.md "wikilink")[Twins成員](https://zh.wikipedia.org/wiki/Twins "wikilink")[鍾欣潼的第二張個人國語EP](../Page/鍾欣潼.md "wikilink")，亦是第四張個人專輯。唱片共收錄5首歌曲。2014年5月27日[iTunes開始預購](https://zh.wikipedia.org/wiki/iTunes "wikilink")，2014年6月19日正式發行。iTunes上架兩版本**《普通版》**\[1\]
+及**《豪華版》**\[2\]。台灣由[种子音乐代理發行香港进口版](https://zh.wikipedia.org/wiki/种子音乐 "wikilink")，发行日期为6月20日。此張EP宣傳計畫並未赴[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[星](../Page/新加坡.md "wikilink")[馬等地做宣傳](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。好友[蘇見信亦為阿嬌量身打造](https://zh.wikipedia.org/wiki/蘇見信 "wikilink")《一輩子》，同名電影《[完整愛](../Page/完整愛_\(微電影\).md "wikilink")》更找來了好閨蜜[張韶涵](../Page/張韶涵.md "wikilink")、同門師弟[羅力威及台灣歌手](../Page/羅力威.md "wikilink")[周湯豪出演](../Page/周湯豪.md "wikilink")，赴臺北拍攝取景，由導演[陳映之操手](https://zh.wikipedia.org/wiki/陳映之 "wikilink")。\[3\]\[4\]
 
 ## 曲目
 
@@ -49,13 +49,13 @@
 <tbody>
 <tr class="odd">
 <td><p>1.</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/一輩子_(鍾欣潼單曲)" title="wikilink">一輩子</a></p></td>
+<td><p><a href="../Page/一輩子_(鍾欣潼單曲).md" title="wikilink">一輩子</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蘇見信" title="wikilink">蘇見信</a></p></td>
 <td><p>蘇見信</p></td>
 <td><p><a href="../Page/黃中平.md" title="wikilink">黃中平</a></p></td>
 <td><p>2014年4月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a><br />
-<a href="../Page/Youtube.md" title="wikilink">Youtube</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/Youtube" title="wikilink">Youtube</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2.</p></td>
@@ -95,12 +95,12 @@ Youtube</p></td>
   -
 ### 单曲點閱率
 
-| 歌曲                                                            | [音悅台](https://zh.wikipedia.org/wiki/音悅台 "wikilink") | [QQ音樂](https://zh.wikipedia.org/wiki/QQ音樂 "wikilink") | [Youtube](../Page/Youtube.md "wikilink") |
-| ------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------- |
-| [一輩子](https://zh.wikipedia.org/wiki/一輩子_\(鍾欣潼單曲\) "wikilink") | 7,545,184次\*                                        | 950,221次\*                                            | 52,078次\*                                |
-| 完整愛                                                           | 2,556,426次\*                                        | 1,116,420次\*                                          | 102,136次\*                               |
-| 星星的眼淚                                                         | 229,435次\*                                          | 1,130,235次\*                                          | 62,773次\*                                |
-| 因為什麼                                                          | 328,089次\*                                          | 276,673次\*                                            | 14,112次\*                                |
+| 歌曲                                         | [音悅台](https://zh.wikipedia.org/wiki/音悅台 "wikilink") | [QQ音樂](https://zh.wikipedia.org/wiki/QQ音樂 "wikilink") | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") |
+| ------------------------------------------ | --------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------- |
+| [一輩子](../Page/一輩子_\(鍾欣潼單曲\).md "wikilink") | 7,545,184次\*                                        | 950,221次\*                                            | 52,078次\*                                                   |
+| 完整愛                                        | 2,556,426次\*                                        | 1,116,420次\*                                          | 102,136次\*                                                  |
+| 星星的眼淚                                      | 229,435次\*                                          | 1,130,235次\*                                          | 62,773次\*                                                   |
+| 因為什麼                                       | 328,089次\*                                          | 276,673次\*                                            | 14,112次\*                                                   |
 
   - \-{\*}- 代表官方首發平台
   - 點閱率陸續上升(2014/7/23更新)
@@ -122,7 +122,7 @@ Youtube</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1.</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/完整愛_(微電影)" title="wikilink">完整愛</a></p></td>
+<td><p><a href="../Page/完整愛_(微電影).md" title="wikilink">完整愛</a></p></td>
 <td><p>第一集</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳映之" title="wikilink">陳映之</a></p></td>
 <td><p><a href="../Page/周湯豪.md" title="wikilink">周湯豪</a><br />
@@ -134,7 +134,7 @@ Youtube</p></td>
 </tr>
 <tr class="even">
 <td><p>2.</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/完整愛_(微電影)" title="wikilink">完整愛</a></p></td>
+<td><p><a href="../Page/完整愛_(微電影).md" title="wikilink">完整愛</a></p></td>
 <td><p>第二集</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳映之" title="wikilink">陳映之</a></p></td>
 <td><p><a href="../Page/周湯豪.md" title="wikilink">周湯豪</a><br />
@@ -146,7 +146,7 @@ Youtube</p></td>
 </tr>
 <tr class="odd">
 <td><p>3.</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/完整愛_(微電影)" title="wikilink">完整愛</a></p></td>
+<td><p><a href="../Page/完整愛_(微電影).md" title="wikilink">完整愛</a></p></td>
 <td><p>第三集</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳映之" title="wikilink">陳映之</a></p></td>
 <td><p><a href="../Page/周湯豪.md" title="wikilink">周湯豪</a><br />
@@ -163,10 +163,10 @@ Youtube</p></td>
 
 ### 香港
 
-| 歌曲                                                            | 903 | RTHK | 997 | TVB   | TVB8 | 新城國語力 |
-| ------------------------------------------------------------- | --- | ---- | --- | ----- | ---- | ----- |
-| [一輩子](https://zh.wikipedia.org/wiki/一輩子_\(鍾欣潼單曲\) "wikilink") | \-  | \-   | \-  | 9     | 3    | 2     |
-| 星星的眼淚                                                         | \-  | 16   | \-  | **1** | 3    | **1** |
+| 歌曲                                         | 903 | RTHK | 997 | TVB   | TVB8 | 新城國語力 |
+| ------------------------------------------ | --- | ---- | --- | ----- | ---- | ----- |
+| [一輩子](../Page/一輩子_\(鍾欣潼單曲\).md "wikilink") | \-  | \-   | \-  | 9     | 3    | 2     |
+| 星星的眼淚                                      | \-  | 16   | \-  | **1** | 3    | **1** |
 
 ### 中國
 

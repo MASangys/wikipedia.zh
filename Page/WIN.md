@@ -56,7 +56,7 @@ V與](../Page/Channel_V.md "wikilink")[FOX
 cable的](https://zh.wikipedia.org/wiki/FOX_cable "wikilink")[Channel
 M撥出](https://zh.wikipedia.org/wiki/Channel_M "wikilink")，使[亞洲地區的觀眾可同步觀看](https://zh.wikipedia.org/wiki/亞洲地區 "wikilink")。此節目也將在中國網站[優酷同步上傳](https://zh.wikipedia.org/wiki/優酷 "wikilink")。\[2\]**節目名稱為「WIN」，涵義是「WHO
 IS
-NEXT?」。**成員將分成A隊和B隊進行激烈競爭，而且不同於其他的徵選節目，競爭的結果會取決於觀眾，獲勝的隊伍會立即出道，並得到團名「[WINNER](https://zh.wikipedia.org/wiki/WINNER "wikilink")」，失敗的隊伍則會即時解散。\[3\]最終由A隊勝出成為Winner，而B隊則是通過2014年另一生存賽[Mix\&Match加入新成員並於](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")2015年以團名[iKON出道](https://zh.wikipedia.org/wiki/iKON "wikilink")。
+NEXT?」。**成員將分成A隊和B隊進行激烈競爭，而且不同於其他的徵選節目，競爭的結果會取決於觀眾，獲勝的隊伍會立即出道，並得到團名「[WINNER](../Page/WINNER.md "wikilink")」，失敗的隊伍則會即時解散。\[3\]最終由A隊勝出成為Winner，而B隊則是通過2014年另一生存賽[Mix\&Match加入新成員並於](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")2015年以團名[iKON出道](https://zh.wikipedia.org/wiki/iKON "wikilink")。
 
 ## 競賽成員
 
@@ -68,20 +68,20 @@ A隊由5位成員組成，平均年齡20歲；B隊由6位成員組成，平均�
 | 漢字                                                  |
 | [姜昇潤](../Page/姜昇潤.md "wikilink")                    |
 | [宋旻浩](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink") |
-| [金秦禹](https://zh.wikipedia.org/wiki/金秦禹 "wikilink") |
-| [李昇勳](https://zh.wikipedia.org/wiki/李昇勳 "wikilink") |
+| [金秦禹](../Page/金秦禹.md "wikilink")                    |
+| [李昇勳](../Page/李昇勳.md "wikilink")                    |
 | [南太鉉](https://zh.wikipedia.org/wiki/南太鉉 "wikilink") |
 
-| B隊成員\[5\]                                                          |
-| ------------------------------------------------------------------ |
-| 本名                                                                 |
-| 漢字                                                                 |
-| [B.I](../Page/B.I.md "wikilink")（金韓彬）                              |
-| [金振煥](https://zh.wikipedia.org/wiki/金振煥 "wikilink")                |
-| [宋允亨](../Page/宋允亨.md "wikilink")                                   |
-| [Bobby](https://zh.wikipedia.org/wiki/金知元_\(饒舌者\) "wikilink")（金知元） |
-| [金東赫](https://zh.wikipedia.org/wiki/金東赫 "wikilink")                |
-| [具俊會](https://zh.wikipedia.org/wiki/具俊會 "wikilink")                |
+| B隊成員\[5\]                                       |
+| ----------------------------------------------- |
+| 本名                                              |
+| 漢字                                              |
+| [B.I](../Page/B.I.md "wikilink")（金韓彬）           |
+| [金振煥](../Page/金振煥.md "wikilink")                |
+| [宋允亨](../Page/宋允亨.md "wikilink")                |
+| [Bobby](../Page/金知元_\(饒舌者\).md "wikilink")（金知元） |
+| [金東赫](../Page/金東赫.md "wikilink")                |
+| [具俊會](../Page/具俊會.md "wikilink")                |
 
 ## 參考資料
 

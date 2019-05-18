@@ -56,7 +56,7 @@ FS歌唱實力堅強，其中《分開以後》、《可不可以你也剛好喜
 <ul>
 <li>發行日期：2013年12月8日</li>
 <li>語言：國語</li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/海蝶音樂" title="wikilink">海螺音樂</a></li>
+<li>唱片公司：<a href="../Page/海蝶音樂.md" title="wikilink">海螺音樂</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li>全世界都以為我們在一起</li>
@@ -86,7 +86,7 @@ FS歌唱實力堅強，其中《分開以後》、《可不可以你也剛好喜
 <ul>
 <li>發行日期：2014年9月19日</li>
 <li>語言：國語</li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/海蝶音樂" title="wikilink">海螺音樂</a></li>
+<li>唱片公司：<a href="../Page/海蝶音樂.md" title="wikilink">海螺音樂</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li>吻的溫度</li>
@@ -148,8 +148,7 @@ FS歌唱實力堅強，其中《分開以後》、《可不可以你也剛好喜
 
 電影
 
-  - 2013 [哥妹俩之惊历48](https://zh.wikipedia.org/wiki/哥妹俩之惊历48 "wikilink")（
-    Fuying ）
+  - 2013 [哥妹俩之惊历48](../Page/哥妹俩之惊历48.md "wikilink")（ Fuying ）
   - 2014 阿炳馬到功成 特別客串
   - 2015 [小電影](../Page/小电影_\(电影\).md "wikilink")
   - 2015 再見，我愛你
@@ -194,8 +193,7 @@ MV
   - 2015
     第五屆[全球流行音樂金榜](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink")
     年度最佳組合
-  - 2016 Neway K歌頒獎典禮
-    [JOOX](https://zh.wikipedia.org/wiki/Joox "wikilink") 人氣獎
+  - 2016 Neway K歌頒獎典禮 [JOOX](../Page/Joox.md "wikilink") 人氣獎
   - 2016 Neway K歌頒獎典禮 5大熱門獨家K歌獎 - 海
   - 2016 Neway K歌頒獎典禮 NEWAY 10大熱門MV獎 - 愛一個人不一定要在一起
   - 2016 Neway K歌頒獎典禮 我最喜愛演唱組合獎 金獎

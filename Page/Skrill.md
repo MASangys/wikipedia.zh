@@ -15,7 +15,7 @@ Moneybookers支付系统是由Moneybookers有限公司拥有和经营的，其�
 
 2010年2月，《[星期日泰晤士报](https://zh.wikipedia.org/wiki/星期日泰晤士报 "wikilink")》评价Moneybookers是英国排名增长最快的[私募股权投资](../Page/私人股权投资.md "wikilink")
 （通过投资收益比较）。 截至2012年5月，该公司已经拥有了2500万客户，其中包括120,000 商家账户，
-\[7\]并集成了一些知名品牌，如[Facebook](../Page/Facebook.md "wikilink")、[Skype和](../Page/Skype.md "wikilink")[eBay的全球在线支付体系](../Page/eBay.md "wikilink")。
+\[7\]并集成了一些知名品牌，如[Facebook](../Page/Facebook.md "wikilink")、[Skype和](../Page/Skype.md "wikilink")[eBay的全球在线支付体系](https://zh.wikipedia.org/wiki/eBay "wikilink")。
 
 ### 品牌重塑
 

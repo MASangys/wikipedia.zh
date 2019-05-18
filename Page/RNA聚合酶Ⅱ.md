@@ -26,7 +26,7 @@ Rutter）最终发现了一种额外的[RNAP](../Page/RNA聚合酶.md "wikilink"
 
   - [转录](../Page/转录.md "wikilink")
 
-  - [真核转录](https://zh.wikipedia.org/wiki/真核转录 "wikilink")
+  - [真核转录](../Page/真核转录.md "wikilink")
 
 ## 参考文献
 

@@ -38,13 +38,13 @@ Windows用户而言](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 ## Apache Ant的Zip/JAR支持
 
 在[Apache
-Ant构建工具中有其自己的包](../Page/Apache_Ant.md "wikilink")——org.apache.tools.zip，用来读写Zip和JAR归档文件，并包括对[Unix](../Page/Unix.md "wikilink")[文件系统的支持](../Page/文件系统.md "wikilink")。org.apache.tools.zip包发布在Apache软件基金会许可下，并被设计成在Ant之外使用。
+Ant构建工具中有其自己的包](../Page/Apache_Ant.md "wikilink")——org.apache.tools.zip，用来读写Zip和JAR归档文件，并包括对[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")[文件系统的支持](../Page/文件系统.md "wikilink")。org.apache.tools.zip包发布在Apache软件基金会许可下，并被设计成在Ant之外使用。
 
 ## 相关格式
 
 几种相关的文件格式建立在JAR格式的基础上：
 
-  - [WAR](https://zh.wikipedia.org/wiki/WAR_\(文件格式\) "wikilink")
+  - [WAR](../Page/WAR_\(文件格式\).md "wikilink")
     （Web应用程序归档，)，也是一种Java归档，存储[XML文件](../Page/XML.md "wikilink")、Java类、[JSP和Web应用程序中的其他文件](../Page/JSP.md "wikilink")。
 
   - [RAR](https://zh.wikipedia.org/wiki/Java_EE连接器架构 "wikilink")（资源适配器归档，），这里不是指[RAR文件格式](../Page/RAR.md "wikilink")），也是一种Java归档，存储[XML文件](../Page/XML.md "wikilink")、Java类和[Java

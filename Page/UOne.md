@@ -1,4 +1,4 @@
-**UOne**是[香港](../Page/香港.md "wikilink")[美亞電視與](https://zh.wikipedia.org/wiki/美亞電視 "wikilink")[中國移動香港附屬的流動電視服務](../Page/中國移動香港.md "wikilink")[UTV經營而擁有的一條以](https://zh.wikipedia.org/wiki/UTV "wikilink")[廣東話廣播的娛樂性綜合頻道](https://zh.wikipedia.org/wiki/廣東話 "wikilink")，已於2015年12月1日停播，由[C+
+**UOne**是[香港](../Page/香港.md "wikilink")[美亞電視與](https://zh.wikipedia.org/wiki/美亞電視 "wikilink")[中國移動香港附屬的流動電視服務](../Page/中國移動香港.md "wikilink")[UTV經營而擁有的一條以](../Page/UTV.md "wikilink")[廣東話廣播的娛樂性綜合頻道](https://zh.wikipedia.org/wiki/廣東話 "wikilink")，已於2015年12月1日停播，由[C+
 頻道取代](../Page/C+_頻道.md "wikilink")。
 
 ## 播放節目

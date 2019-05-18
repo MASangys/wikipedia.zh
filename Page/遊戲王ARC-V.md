@@ -100,7 +100,7 @@
   - 製作人：佐佐木亮（第1話）→松山進（第2－57話）、数野高輔（第58－話）（東京電視台）、平山亜希子
   - 總製作人：実松照晃
   - 旁白：山路和弘
-  - 動畫制作：[GALLOP](https://zh.wikipedia.org/wiki/GALLOP_\(動畫工作室\) "wikilink")
+  - 動畫制作：[GALLOP](../Page/GALLOP_\(動畫工作室\).md "wikilink")
   - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[NAS](../Page/日本AD_SYSTEMS.md "wikilink")
 
 ## 主題曲

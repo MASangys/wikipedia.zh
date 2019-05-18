@@ -10,7 +10,7 @@ Informer](../Page/Game_Informer.md "wikilink")》雜誌上首度公開\[2\]。
 
 ## 概要
 
-《[上古卷軸Online](https://zh.wikipedia.org/wiki/上古卷軸Online "wikilink")》的背景設定在泰姆瑞爾大陸（Tamriel）2E
+《[上古卷軸Online](../Page/上古卷軸Online.md "wikilink")》的背景設定在泰姆瑞爾大陸（Tamriel）2E
 582年，故事劇情與其他作品有間接關聯。背景設定發生在《[上古卷軸V：無界天際](https://zh.wikipedia.org/wiki/上古卷軸V：無界天際 "wikilink")》的千年前，同時也是《[上古卷軸III：魔捲晨風](https://zh.wikipedia.org/wiki/上古卷軸III：魔捲晨風 "wikilink")》和《[上古卷軸IV：遺忘之都](https://zh.wikipedia.org/wiki/上古卷軸IV：遺忘之都 "wikilink")》的八百年前。
 在阿卡維爾蛇人皇帝-賽爾瓦因·朱拉克(Savirien
 Chorak)被暗殺後的空位期間（Interregnum）發生了聯盟戰爭（Alliance

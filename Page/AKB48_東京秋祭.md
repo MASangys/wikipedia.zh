@@ -1,5 +1,5 @@
 '''AKB48 東京秋祭
-'''（）是日本偶像組合[AKB48於](../Page/AKB48.md "wikilink")2010年10月9日至10日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[葛西臨海公園舉行的戶外](https://zh.wikipedia.org/wiki/葛西臨海公園 "wikilink")[卡啦OK比賽及演唱會](https://zh.wikipedia.org/wiki/卡啦OK "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]。
+'''（）是日本偶像組合[AKB48於](../Page/AKB48.md "wikilink")2010年10月9日至10日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[葛西臨海公園舉行的戶外](../Page/葛西臨海公園.md "wikilink")[卡啦OK比賽及演唱會](https://zh.wikipedia.org/wiki/卡啦OK "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]。
 
 ## 概要
 
@@ -73,7 +73,7 @@
   - SDN48
       - [近藤沙耶香](../Page/近藤沙耶香.md "wikilink")
   - [NMB48](../Page/NMB48.md "wikilink")（研究生）
-      - [太田裡織菜](https://zh.wikipedia.org/wiki/太田裡織菜 "wikilink")、[小笠原茉由](../Page/小笠原茉由.md "wikilink")、[沖田彩華](https://zh.wikipedia.org/wiki/沖田彩華 "wikilink")、[門脇佳奈子](../Page/門脇佳奈子.md "wikilink")、[川上禮奈](https://zh.wikipedia.org/wiki/川上禮奈 "wikilink")、[岸野里香](../Page/岸野里香.md "wikilink")、[木下春奈](../Page/木下春奈.md "wikilink")、[木下百花](../Page/木下百花.md "wikilink")、[小谷里步](https://zh.wikipedia.org/wiki/小谷里步 "wikilink")、[小柳有沙](https://zh.wikipedia.org/wiki/小柳有沙 "wikilink")、[近藤里奈](../Page/近藤里奈.md "wikilink")、[篠原栞那](../Page/篠原栞那.md "wikilink")、[上西惠](../Page/上西惠.md "wikilink")、[白間美瑠](../Page/白間美瑠.md "wikilink")、[原深月](https://zh.wikipedia.org/wiki/原深月 "wikilink")、[肥川彩愛](../Page/肥川彩愛.md "wikilink")、[福本愛菜](../Page/福本愛菜.md "wikilink")、[松田栞](https://zh.wikipedia.org/wiki/松田栞 "wikilink")、[森彩華](https://zh.wikipedia.org/wiki/森彩華 "wikilink")、[山內彩花](https://zh.wikipedia.org/wiki/山內彩花 "wikilink")、[山岸奈津美](https://zh.wikipedia.org/wiki/山岸奈津美 "wikilink")、[山口夕輝](../Page/山口夕輝.md "wikilink")、[山田菜菜](../Page/山田菜菜.md "wikilink")、[山本彩](../Page/山本彩.md "wikilink")、[吉田朱里](../Page/吉田朱里.md "wikilink")、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")
+      - [太田裡織菜](https://zh.wikipedia.org/wiki/太田裡織菜 "wikilink")、[小笠原茉由](../Page/小笠原茉由.md "wikilink")、[沖田彩華](../Page/沖田彩華.md "wikilink")、[門脇佳奈子](../Page/門脇佳奈子.md "wikilink")、[川上禮奈](https://zh.wikipedia.org/wiki/川上禮奈 "wikilink")、[岸野里香](../Page/岸野里香.md "wikilink")、[木下春奈](../Page/木下春奈.md "wikilink")、[木下百花](../Page/木下百花.md "wikilink")、[小谷里步](https://zh.wikipedia.org/wiki/小谷里步 "wikilink")、[小柳有沙](https://zh.wikipedia.org/wiki/小柳有沙 "wikilink")、[近藤里奈](../Page/近藤里奈.md "wikilink")、[篠原栞那](../Page/篠原栞那.md "wikilink")、[上西惠](../Page/上西惠.md "wikilink")、[白間美瑠](../Page/白間美瑠.md "wikilink")、[原深月](https://zh.wikipedia.org/wiki/原深月 "wikilink")、[肥川彩愛](../Page/肥川彩愛.md "wikilink")、[福本愛菜](../Page/福本愛菜.md "wikilink")、[松田栞](https://zh.wikipedia.org/wiki/松田栞 "wikilink")、[森彩華](https://zh.wikipedia.org/wiki/森彩華 "wikilink")、[山內彩花](https://zh.wikipedia.org/wiki/山內彩花 "wikilink")、[山岸奈津美](https://zh.wikipedia.org/wiki/山岸奈津美 "wikilink")、[山口夕輝](../Page/山口夕輝.md "wikilink")、[山田菜菜](../Page/山田菜菜.md "wikilink")、[山本彩](../Page/山本彩.md "wikilink")、[吉田朱里](../Page/吉田朱里.md "wikilink")、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")
 
 #### 只參加10月10日
 
@@ -134,7 +134,7 @@
     - 野中、仁藤
 18. **[櫻桃](../Page/櫻桃_\(單曲\).md "wikilink")**（）／[大塚愛](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")
     - 加藤、金澤
-19. **[Touch](https://zh.wikipedia.org/wiki/Touch_\(岩崎良美歌曲\) "wikilink")**（）／[岩崎良美](../Page/岩崎良美.md "wikilink")
+19. **[Touch](../Page/Touch_\(岩崎良美歌曲\).md "wikilink")**（）／[岩崎良美](../Page/岩崎良美.md "wikilink")
     - 竹內
 20. **[戀愛吧女孩](../Page/戀愛吧女孩.md "wikilink")**（）／[田村由香里](../Page/田村由香里.md "wikilink")
     - 多田
@@ -144,7 +144,7 @@
     BIRD](../Page/BLUE_BIRD.md "wikilink")**／[濱崎步](../Page/濱崎步.md "wikilink")
     - 內田
 23. **內田真由美猜拳比賽**
-24. ****（）／[櫻真耶](https://zh.wikipedia.org/wiki/櫻真耶 "wikilink") - 中村
+24. ****（）／[櫻真耶](../Page/櫻真耶.md "wikilink") - 中村
 25. **[津輕海峽冬景色](https://zh.wikipedia.org/wiki/津輕海峽冬景色 "wikilink")**（）／[石川小百合](../Page/石川小百合.md "wikilink")
     - 岩佐
 26. **一發藝9** - 岩佐
@@ -165,7 +165,7 @@
 37. **[和你在一起的平安夜](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink")**（）
     - 野中、松井咲（彈奏）
 38. **[love the
-    world](../Page/love_the_world.md "wikilink")**／[Perfume](https://zh.wikipedia.org/wiki/Perfume "wikilink")
+    world](https://zh.wikipedia.org/wiki/love_the_world "wikilink")**／[Perfume](https://zh.wikipedia.org/wiki/Perfume "wikilink")
     - 佐藤堇
 39. **[黑白之吻](../Page/黑白之吻.md "wikilink")**（）／[SID](https://zh.wikipedia.org/wiki/SID_\(樂團\) "wikilink")
     - [國王唱片製作人](../Page/國王唱片.md "wikilink")．湯淺順司
@@ -297,7 +297,7 @@
 12. **[記憶的兩難](https://zh.wikipedia.org/wiki/向日葵組_2nd_Stage「不要讓夢想死去」 "wikilink")**（）
     - 增田、佐藤夏
 13. **[secret base
-    ～你給我的東西～](../Page/secret_base_～你給我的東西～.md "wikilink")**（）／[ZONE](../Page/ZONE.md "wikilink")
+    ～你給我的東西～](https://zh.wikipedia.org/wiki/secret_base_～你給我的東西～ "wikilink")**（）／[ZONE](../Page/ZONE.md "wikilink")
     - SONE（宮崎、北原、峯岸、指原）
 14. **一發藝4** - 藤江、近野
 15. **借物時間** - 篠田、前田、小嶋、松井珠、高橋、宮崎
@@ -317,7 +317,7 @@
     橫山、森、島崎、竹內、大場、永尾、山內、島田、中村
 26. **一發藝7** - 市川、仲俁、伊豆田、小林茉、入山、金澤、加藤玲、藤田、阿部
 27. **AKB人口普查** - 野呂、佐藤由、NaChu
-28. ****／[氣志團](https://zh.wikipedia.org/wiki/氣志團 "wikilink") - 小嶋、高橋、峯岸
+28. ****／[氣志團](../Page/氣志團.md "wikilink") - 小嶋、高橋、峯岸
 29. **[SAY
     YES](../Page/SAY_YES_\(恰克與飛鳥單曲\).md "wikilink")**／[恰克與飛鳥](../Page/恰克與飛鳥.md "wikilink")
     - AKB48劇場經理．[戶賀崎智信](../Page/戶賀崎智信.md "wikilink")、SKE48劇場經理．湯淺洋

@@ -904,7 +904,7 @@ YZPB-8009（DVD）</p></td>
 | **ヴィーナスと蒼き七つの海**                                                                                                                                                    | アフィリア・サーガ5周年記念ワンマンツアー「ヴィーナスと蒼き七つの海」テーマソング                                                                                                     |
 | **Never say Never**                                                                                                                                                 | TVアニメ『[ISUCA](https://zh.wikipedia.org/wiki/ISUCA "wikilink")-イスカ-』オープニングテーマ                                                                  |
 | **ハツコイ///ストライプ**                                                                                                                                                    | PC用ソフト『PRETTY×CATION2』オープニングテーマ                                                                                                               |
-| **Embrace Blade**                                                                                                                                                   | TVアニメ『[対魔導学園35試験小隊](https://zh.wikipedia.org/wiki/對魔導學園35試驗小隊 "wikilink")』オープニングテーマ                                                           |
+| **Embrace Blade**                                                                                                                                                   | TVアニメ『[対魔導学園35試験小隊](../Page/對魔導學園35試驗小隊.md "wikilink")』オープニングテーマ                                                                              |
 
 ## 出演
 

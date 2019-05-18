@@ -6,7 +6,7 @@ KILL**》或《**斬-{}-服少女**》（）是由[中島一基創作的日本�
 紅蓮螺巖》一系列相關的制作人員。
 
 動畫於2013年10月3日由[MBS電視台開始放送](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")，由[TRIGGER擔綱製作](../Page/TRIGGER.md "wikilink")。漫畫版由[輕小說插畫家](../Page/輕小說.md "wikilink")作畫，在《[Young
-Ace](https://zh.wikipedia.org/wiki/Young_Ace "wikilink")》2013年10月號（9月4日發售）上開始連載。
+Ace](../Page/Young_Ace.md "wikilink")》2013年10月號（9月4日發售）上開始連載。
 
 2014年3月29日宣布將於同年9月3日發售的的第九卷[Blu-Ray](https://zh.wikipedia.org/wiki/Blu-Ray "wikilink")、[DVD-Video中隨行放送第](../Page/DVD-Video.md "wikilink")25話。
 __TOC__
@@ -449,7 +449,7 @@ __TOC__
 <!-- end list -->
 
   -
-    皋月的母亲，同時也是Revocs企業的[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")。頭髮是[彩虹色的](https://zh.wikipedia.org/wiki/彩虹 "wikilink")，穿著天鵝般的羽毛裝。在故事開始之前便與生命戰維的本體有密不可分的關係。吸收鳳凰丸後，具有能夠完全支配並控制所有生命戰維的能力，就連心臟是生命戰維所構成的流子也不例外。
+    皋月的母亲，同時也是Revocs企業的[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")。頭髮是[彩虹色的](../Page/彩虹.md "wikilink")，穿著天鵝般的羽毛裝。在故事開始之前便與生命戰維的本體有密不可分的關係。吸收鳳凰丸後，具有能夠完全支配並控制所有生命戰維的能力，就連心臟是生命戰維所構成的流子也不例外。
     在大文化體育祭時啟動了「本能字島生命戰維化計畫」，但遭到皋月暗地裡背叛並從背後偷襲，非但毫髮無傷，還反過來制服皐月。隨後在對抗流子以及皐月的戰役中將其雙雙擊倒，並且徒手穿破流子的胸口取出其心臟，包括自己在內的眾人這才發現流子也是生命戰維的一員，並且也是自己的次女。
     為了完成地球生命戰維化的計畫而無所不用其極，具有壓倒性的單兵作戰能力以及不輸給疾風閃刃及旋風斬奸的速度和破壞力。最終目的是要打造出「」。之後更穿上纐纈，以壓倒性的優勢輕鬆應付鮮血及純潔。並在這之後以吸收縫所有生命戰維修復自身及與生命戰維火箭融合，以火箭前往宇宙並啟動
     Revocs
@@ -1105,7 +1105,7 @@ BS播放</p></td>
 <thead>
 <tr class="header">
 <th><p>冊數</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/KADOKAWA" title="wikilink">KADOKAWA</a></p></th>
+<th><p><a href="../Page/KADOKAWA.md" title="wikilink">KADOKAWA</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1129,7 +1129,7 @@ BS播放</p></td>
 [動作](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[格鬥類遊戲](../Page/格鬥遊戲.md "wikilink")《KILL
 la KILL the GAME -異布-》（キルラキル ザ・ゲーム -異布-），由Aplus負責開發、[Arc System
 Works發行](../Page/Arc_System_Works.md "wikilink")，將推出[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")（[Steam](../Page/Steam.md "wikilink")）、[PlayStation
-4與](../Page/PlayStation_4.md "wikilink")[任天堂Switch版本](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")，預定於2019年7月25日發售，\[4\]此外遊戲也將支援官方繁簡中文。\[5\]\[6\]
+4與](../Page/PlayStation_4.md "wikilink")[任天堂Switch版本](../Page/任天堂Switch.md "wikilink")，預定於2019年7月25日發售，\[4\]此外遊戲也將支援官方繁簡中文。\[5\]\[6\]
 
 ## 參考資料
 

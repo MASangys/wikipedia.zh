@@ -1,5 +1,5 @@
 《**KARA
-Collection**》（）是[韩国女子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[KARA在日本发行的首张日文特别专辑](../Page/KARA.md "wikilink")，于2012年9月5日由[UNIVERSAL
+Collection**》（）是[韩国女子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[KARA在日本发行的首张日文特别专辑](https://zh.wikipedia.org/wiki/KARA "wikilink")，于2012年9月5日由[UNIVERSAL
 SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
 
 ## 收录曲目

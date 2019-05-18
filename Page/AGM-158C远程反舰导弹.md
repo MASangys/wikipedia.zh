@@ -8,8 +8,8 @@
 ## 参考条目
 
   - [鷹擊12反艦飛彈](../Page/鷹擊12反艦飛彈.md "wikilink")
-  - [布拉莫斯导弹](https://zh.wikipedia.org/wiki/布拉莫斯导弹 "wikilink")
-  - [AGM-158联合空面导弹](https://zh.wikipedia.org/wiki/AGM-158联合空面导弹 "wikilink")
+  - [布拉莫斯导弹](../Page/布拉莫斯导弹.md "wikilink")
+  - [AGM-158联合空面导弹](../Page/AGM-158联合空面导弹.md "wikilink")
 
 ## 参考文献
 

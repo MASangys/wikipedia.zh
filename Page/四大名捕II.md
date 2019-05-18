@@ -66,7 +66,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/曹炳琨" title="wikilink">曹炳琨</a></p></td>
+<td><p><a href="../Page/曹炳琨.md" title="wikilink">曹炳琨</a></p></td>
 <td><p>蔡相</p></td>
 <td><p>表面上文质彬彬、身体虚弱[20]。</p></td>
 <td></td>
@@ -122,7 +122,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Lollipop@F" title="wikilink">Lollipop@F</a><br />
-<a href="https://zh.wikipedia.org/wiki/劉峻緯" title="wikilink">劉峻緯</a><br />
+<a href="../Page/劉峻緯.md" title="wikilink">劉峻緯</a><br />
 （阿緯）</p></td>
 <td><p>蔣磊</p></td>
 <td><p>六扇门守衛。</p></td>

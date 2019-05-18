@@ -20,7 +20,7 @@
 小隊成員以軍階排列：Kururu 曹長 \> Keroro 軍曹 \> Giroro 伍長 \> Dororo 兵長 \> Tamama 二等兵
 
   - [Keroro 軍曹](../Page/Keroro.md "wikilink")（）
-    配音：日本→[渡邊久美子](../Page/渡邊久美子.md "wikilink")；台灣→[雷碧文](../Page/雷碧文.md "wikilink")；香港→[方淑儀](https://zh.wikipedia.org/wiki/方淑儀 "wikilink")（有線電視）／[張雪儀](../Page/張雪儀.md "wikilink")（第二季
+    配音：日本→[渡邊久美子](../Page/渡邊久美子.md "wikilink")；台灣→[雷碧文](../Page/雷碧文.md "wikilink")；香港→[方淑儀](../Page/方淑儀.md "wikilink")（有線電視）／[張雪儀](../Page/張雪儀.md "wikilink")（第二季
     DVD/VCD）／[周文瑛](../Page/周文瑛.md "wikilink")（第一季、電影）→[陸惠玲](../Page/陸惠玲.md "wikilink")（第二季後）、[許盈](../Page/許盈.md "wikilink")<small>（代配）</small>（無綫電視）
     本作主角。Keroro小隊的隊長，受K隆星人追崇。最擅長做家務，最喜愛組裝[高達模型](https://zh.wikipedia.org/wiki/高達模型 "wikilink")，Tamama、摩亞、Karara喜歡的對象，多時扮女生。養主兼好友是日向冬樹，他們的友誼是非常珍貴。
 
@@ -48,7 +48,7 @@
 <!-- end list -->
 
   - Kururu 曹長（）
-    配音：日本→[子安武人](../Page/子安武人.md "wikilink")；台灣→[黃天佑](../Page/黃天佑.md "wikilink")；香港→[陳冠宏](https://zh.wikipedia.org/wiki/陳冠宏 "wikilink")（有線電視）／[黎家希](../Page/黎家希.md "wikilink")（第二季
+    配音：日本→[子安武人](../Page/子安武人.md "wikilink")；台灣→[黃天佑](../Page/黃天佑.md "wikilink")；香港→[陳冠宏](../Page/陳冠宏.md "wikilink")（有線電視）／[黎家希](../Page/黎家希.md "wikilink")（第二季
     DVD/VCD）／[雷霆](../Page/雷霆.md "wikilink")、[蘇強文](../Page/蘇強文.md "wikilink")<small>（代配）</small>（無綫電視）
     Keroro小隊的作戰通讯參謀，養主是北城睦實，但與Keroro等人一起居住在日向家。笑聲陰濕的發明家，最愛咖哩飯，花名為「黃仔」。雖然他很聰明，但他發明的東西一定會為人帶來麻煩。
     名稱來源來自日語的**旋轉**，耳朵可用作插電腦傳輸線、散播電波或通訊。Keroro小隊的軍師兼高階通信參謀。體色為黃色，戴著螺旋狀的古怪眼鏡，因此看不到他的眼睛表情(眼睛極可能為紅色，因為他變身為月島Kulu子時眼睛就是紅色的)；帽子上的記號為漩渦狀的圖形。幼時體色原是淺藍色，當年撿到把幼時Keroro、Giroro等人困住的Kero球，聽到裡面Keroro的求救。Kululu便要求要請他吃一世[咖哩飯](../Page/咖哩.md "wikilink")。Keroro得救後守諾言，用Kero球變出的超大[咖哩飯](../Page/咖哩.md "wikilink")，但因為太大而壓在Kururu身上。浸泡在黃色的咖哩後，Kururu變成現在的樣子。（小kero
@@ -392,7 +392,7 @@ Land》的讀者投稿產生，設定為K隆軍特殊部隊、實驗部隊出身
     在動畫版162集登場，體色為淺綠色，額頭上的記號是一個「J」形的漩渦記號，是一個比Keroro小隊年紀大的K隆星人。在口周圍留著蓬鬆的鬍鬚。最喜歡把腳踏高，再摸著滿是鬍子的下巴，說一些別人聽不懂的話。角色造型曾刊登於《Keroro
     Land Vol.10》的封面，同時亦設定參與「那個時候的Keroro軍曹」系列。
 
-**Mushishi**（　配音：日本→[飯塚昭三](https://zh.wikipedia.org/wiki/飯塚昭三 "wikilink")；香港→[張炳強](../Page/張炳強.md "wikilink")）
+**Mushishi**（　配音：日本→[飯塚昭三](../Page/飯塚昭三.md "wikilink")；香港→[張炳強](../Page/張炳強.md "wikilink")）
 
   -
     在動畫版181集登場，體色為藍綠色，懂得使用昆蟲的暗殺者。額頭上的記號是一個類似昆蟲的圖案，在口附近留著鬍鬚。由於喜愛宇宙昆蟲。所以頭的部分不是帽子而是盛載著很多昆蟲的青綠色昆蟲箱。

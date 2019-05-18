@@ -7,7 +7,7 @@
 樂團歌曲的歌詞基本上全部都是以[英語編寫](https://zh.wikipedia.org/wiki/英語 "wikilink")，一直到了第二張專輯《Dowsing
 For The Future》才首次推出日語歌曲。
 
-BIGMAMA曾被媒體稱為另一四人搖滾組合[［Alexandros］的](https://zh.wikipedia.org/wiki/［Alexandros］ "wikilink")「兄弟團」\[3\]。
+BIGMAMA曾被媒體稱為另一四人搖滾組合[［Alexandros］的](../Page/［Alexandros］.md "wikilink")「兄弟團」\[3\]。
 
 ## 成員
 

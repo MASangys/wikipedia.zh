@@ -1,4 +1,4 @@
-《**當我想起你**》是[张学友的](../Page/张学友.md "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2000年7月推出。專輯收錄了[迪士尼卡通電影](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")《[恐龍](https://zh.wikipedia.org/wiki/恐龍_\(電影\) "wikilink")》主題曲，並分別錄製成粵語、國語及英語三個版本。
+《**當我想起你**》是[张学友的](../Page/张学友.md "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2000年7月推出。專輯收錄了[迪士尼卡通電影](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")《[恐龍](../Page/恐龍_\(電影\).md "wikilink")》主題曲，並分別錄製成粵語、國語及英語三個版本。
 
 ## 曲目
 

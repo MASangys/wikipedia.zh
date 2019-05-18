@@ -107,22 +107,22 @@ NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")》，香淑合格。在
 
 ### 綜藝節目
 
-|                   |                                                            |                                                                 |                 |                    |
-| ----------------- | ---------------------------------------------------------- | --------------------------------------------------------------- | --------------- | ------------------ |
-| 播放日期              | 電視台／播放平台                                                   | 節目名稱                                                            | 參與成員            | 備註                 |
-| 2013年7月2日         | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")      | [娛樂新聞 Star Cam 1](https://www.youtube.com/watch?v=6lZdnuuRheQ)  | 全體              | －                  |
-| 2013年7月3日         | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")      | [娛樂新聞 Star Cam 2](https://www.youtube.com/watch?v=k4FGui_rdpc)  | 全體              | －                  |
-| 2013年7月13日－11月23日 | [tvN](../Page/tvN.md "wikilink")                           | [SNL Korea](https://zh.wikipedia.org/wiki/SNL_Korea "wikilink") | 香淑、慧潾、Da Som、多恩 | 延峻未成年無法演出，其他人皆固定演出 |
-| 2013年7月20日        | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")     | 全體              | －                  |
-| 2013年8月18日－10月27日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")        | 尋笑人                                                             | 多恩              | 固定演出，10/13為全體演出    |
-| 2013年9月25日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") every1 | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                | 全體              | 與A-JAX，8/20錄影      |
-| 2013年11月23日       | [JTBC](../Page/JTBC.md "wikilink")                         | [隱藏歌手第二季](../Page/隱藏歌手.md "wikilink")                           | 延峻              | IU篇，10/23錄影        |
-| 2014年1月31日        | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")        | 明星 vs 國民挑戰者                                                     | 全體              | －                  |
-| 2014年2月2日         | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")        | [出發夢之隊2](https://zh.wikipedia.org/wiki/出發夢之隊2 "wikilink")       | 全體              | －                  |
-| 2015年6月19日－9月4日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")        | [秘密武器 她](../Page/秘密武器_她.md "wikilink")                          | 多恩              | 固定演出               |
-| 2016年1月13日        | CUBE TV                                                    | Audition Truck EP.2                                             | 慧潾              | －                  |
-| 2016年1月20日        | CUBE TV                                                    | Audition Truck EP.3                                             | 慧潾              | －                  |
-| 2016年2月8日         | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")        | 全國偶像親友歌唱大賽                                                      | 全體，但以多恩為主       | 多恩與朋友一起演出          |
+|                   |                                                            |                                                                |                 |                    |
+| ----------------- | ---------------------------------------------------------- | -------------------------------------------------------------- | --------------- | ------------------ |
+| 播放日期              | 電視台／播放平台                                                   | 節目名稱                                                           | 參與成員            | 備註                 |
+| 2013年7月2日         | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")      | [娛樂新聞 Star Cam 1](https://www.youtube.com/watch?v=6lZdnuuRheQ) | 全體              | －                  |
+| 2013年7月3日         | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")      | [娛樂新聞 Star Cam 2](https://www.youtube.com/watch?v=k4FGui_rdpc) | 全體              | －                  |
+| 2013年7月13日－11月23日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")        | [SNL Korea](../Page/SNL_Korea.md "wikilink")                   | 香淑、慧潾、Da Som、多恩 | 延峻未成年無法演出，其他人皆固定演出 |
+| 2013年7月20日        | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")    | 全體              | －                  |
+| 2013年8月18日－10月27日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")        | 尋笑人                                                            | 多恩              | 固定演出，10/13為全體演出    |
+| 2013年9月25日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") every1 | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")               | 全體              | 與A-JAX，8/20錄影      |
+| 2013年11月23日       | [JTBC](../Page/JTBC.md "wikilink")                         | [隱藏歌手第二季](../Page/隱藏歌手.md "wikilink")                          | 延峻              | IU篇，10/23錄影        |
+| 2014年1月31日        | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")        | 明星 vs 國民挑戰者                                                    | 全體              | －                  |
+| 2014年2月2日         | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")        | [出發夢之隊2](https://zh.wikipedia.org/wiki/出發夢之隊2 "wikilink")      | 全體              | －                  |
+| 2015年6月19日－9月4日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")        | [秘密武器 她](../Page/秘密武器_她.md "wikilink")                         | 多恩              | 固定演出               |
+| 2016年1月13日        | CUBE TV                                                    | Audition Truck EP.2                                            | 慧潾              | －                  |
+| 2016年1月20日        | CUBE TV                                                    | Audition Truck EP.3                                            | 慧潾              | －                  |
+| 2016年2月8日         | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")        | 全國偶像親友歌唱大賽                                                     | 全體，但以多恩為主       | 多恩與朋友一起演出          |
 
 ### 電台
 
@@ -144,8 +144,8 @@ NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")》，香淑合格。在
 
   - 2013年：SBS《[出生的祕密](../Page/出生的祕密.md "wikilink")》（香淑，飾演李善瑛童年時期）
   - 2013年：SBS《[欲戴王冠，必承其重－繼承者們](https://zh.wikipedia.org/wiki/欲戴王冠，必承其重－繼承者們 "wikilink")》（全體，第四集客串）
-  - 2014年：[tvN](../Page/tvN.md "wikilink")《[剩餘公主](https://zh.wikipedia.org/wiki/剩餘公主 "wikilink")》（香淑，客串）
-  - 2015年：[TV朝鮮](../Page/TV朝鮮.md "wikilink")／tvN《[偉大的故事](https://zh.wikipedia.org/wiki/偉大的故事 "wikilink")－[入試的定石](https://zh.wikipedia.org/wiki/偉大的故事#入試的定石 "wikilink")》（香淑）
+  - 2014年：[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[剩餘公主](https://zh.wikipedia.org/wiki/剩餘公主 "wikilink")》（香淑，客串）
+  - 2015年：[TV朝鮮](../Page/TV朝鮮.md "wikilink")／tvN《[偉大的故事](../Page/偉大的故事.md "wikilink")－[入試的定石](https://zh.wikipedia.org/wiki/偉大的故事#入試的定石 "wikilink")》（香淑）
   - 2016年：Naver tvcast《疾風計劃》（香淑，飾演李日順）
 
 ## 廣告代言

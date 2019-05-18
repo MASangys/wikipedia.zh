@@ -2,7 +2,7 @@
 
 ## 相互作用
 
-SNAPC3能与[SNAPC1](https://zh.wikipedia.org/wiki/SNAPC1 "wikilink")\[3\]\[4\]和[视网膜母细胞瘤蛋白](../Page/视网膜母细胞瘤蛋白.md "wikilink")\[5\]发生[相互作用](../Page/蛋白質交互作用.md "wikilink")。
+SNAPC3能与[SNAPC1](../Page/SNAPC1.md "wikilink")\[3\]\[4\]和[视网膜母细胞瘤蛋白](../Page/视网膜母细胞瘤蛋白.md "wikilink")\[5\]发生[相互作用](../Page/蛋白質交互作用.md "wikilink")。
 
 ## 参考文献
 

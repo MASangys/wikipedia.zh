@@ -6,11 +6,11 @@
 
 ## 历史
 
-尽管原核[细胞骨架是后来才提出的概念](../Page/细胞骨架.md "wikilink")，但FtsZ是第一个被发现的[原核细胞骨架蛋白](https://zh.wikipedia.org/wiki/原核细胞骨架 "wikilink")。早在1950年代時，及其同事在筛选[细菌的细胞分裂相关基因时即发现了它](../Page/细菌.md "wikilink")\[1\]，而至1991年時[乔·鲁特肯豪斯和](../Page/乔·鲁特肯豪斯.md "wikilink")[毕尔飞发现於](https://zh.wikipedia.org/wiki/毕尔飞 "wikilink")[细胞分裂时FtsZ组成了](../Page/细胞分裂.md "wikilink")[Z环](https://zh.wikipedia.org/wiki/Z环 "wikilink")。在的[叶绿体中发现的核编码的FtsZ是其分裂所必须的](../Page/叶绿体.md "wikilink")，这也是第一个发现的[细胞器分裂必须蛋白](https://zh.wikipedia.org/wiki/细胞器 "wikilink")\[2\]。
+尽管原核[细胞骨架是后来才提出的概念](../Page/细胞骨架.md "wikilink")，但FtsZ是第一个被发现的[原核细胞骨架蛋白](../Page/原核细胞骨架.md "wikilink")。早在1950年代時，及其同事在筛选[细菌的细胞分裂相关基因时即发现了它](../Page/细菌.md "wikilink")\[1\]，而至1991年時[乔·鲁特肯豪斯和](../Page/乔·鲁特肯豪斯.md "wikilink")[毕尔飞发现於](https://zh.wikipedia.org/wiki/毕尔飞 "wikilink")[细胞分裂时FtsZ组成了](../Page/细胞分裂.md "wikilink")[Z环](https://zh.wikipedia.org/wiki/Z环 "wikilink")。在的[叶绿体中发现的核编码的FtsZ是其分裂所必须的](../Page/叶绿体.md "wikilink")，这也是第一个发现的[细胞器分裂必须蛋白](https://zh.wikipedia.org/wiki/细胞器 "wikilink")\[2\]。
 
 ## 功能
 
-在[细胞分裂中](../Page/细胞分裂.md "wikilink")，FtsZ是第一个移动到分裂处的蛋白，并招募其它相关蛋白来生成两个新细胞之间的[细胞壁](https://zh.wikipedia.org/wiki/细胞壁 "wikilink")。FtsZ在原核生物细胞分裂中的作用相当于[肌动蛋白在真核生物细胞分裂中的作用](../Page/肌动蛋白.md "wikilink")，但不像真核生物中出现的[肌動蛋白](https://zh.wikipedia.org/wiki/肌動蛋白 "wikilink")-[肌球蛋白环](https://zh.wikipedia.org/wiki/肌球蛋白 "wikilink")，[FtsZ并没有已知的](https://zh.wikipedia.org/wiki/FtsZ "wikilink")[马达蛋白与之结合](https://zh.wikipedia.org/wiki/马达蛋白 "wikilink")。因此，[胞質分裂力的起源仍不清楚](https://zh.wikipedia.org/wiki/胞質分裂 "wikilink")，但科學家認為新[細胞壁的局部合成為該力的一部分](../Page/細胞壁.md "wikilink")。在歐薩哇（Osawa）2009年的一项[脂质体实验中](https://zh.wikipedia.org/wiki/脂质 "wikilink")，[FtsZ显示了它能在没有其它](https://zh.wikipedia.org/wiki/FtsZ "wikilink")[蛋白存在下施加收缩力的能力](../Page/蛋白.md "wikilink")\[3\]。
+在[细胞分裂中](../Page/细胞分裂.md "wikilink")，FtsZ是第一个移动到分裂处的蛋白，并招募其它相关蛋白来生成两个新细胞之间的[细胞壁](https://zh.wikipedia.org/wiki/细胞壁 "wikilink")。FtsZ在原核生物细胞分裂中的作用相当于[肌动蛋白在真核生物细胞分裂中的作用](../Page/肌动蛋白.md "wikilink")，但不像真核生物中出现的[肌動蛋白](https://zh.wikipedia.org/wiki/肌動蛋白 "wikilink")-[肌球蛋白环](https://zh.wikipedia.org/wiki/肌球蛋白 "wikilink")，[FtsZ并没有已知的](../Page/FtsZ.md "wikilink")[马达蛋白与之结合](https://zh.wikipedia.org/wiki/马达蛋白 "wikilink")。因此，[胞質分裂力的起源仍不清楚](https://zh.wikipedia.org/wiki/胞質分裂 "wikilink")，但科學家認為新[細胞壁的局部合成為該力的一部分](../Page/細胞壁.md "wikilink")。在歐薩哇（Osawa）2009年的一项[脂质体实验中](https://zh.wikipedia.org/wiki/脂质 "wikilink")，[FtsZ显示了它能在没有其它](../Page/FtsZ.md "wikilink")[蛋白存在下施加收缩力的能力](../Page/蛋白.md "wikilink")\[3\]。
 
 ## 参考文献
 

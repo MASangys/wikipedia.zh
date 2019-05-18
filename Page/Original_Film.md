@@ -1,5 +1,5 @@
 **Original Film**
-是由[尼爾·H·摩里茲创办的美国电影制作公司](https://zh.wikipedia.org/wiki/尼爾·H·摩里茲 "wikilink")。
+是由[尼爾·H·摩里茲创办的美国电影制作公司](../Page/尼爾·H·摩里茲.md "wikilink")。
 
 ## 影片目录
 
@@ -281,7 +281,7 @@
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/玩命關頭7" title="wikilink">玩命關頭7</a></p></td>
+<td><p><a href="../Page/玩命關頭7.md" title="wikilink">玩命關頭7</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -5,7 +5,7 @@ World**》是[L'Arc〜en〜Ciel的第](https://zh.wikipedia.org/wiki/L'Arc〜en�
 
 L'Arc〜en〜Ciel的2005年第2彈單曲。台灣有發行台壓版
 
-到上一張單曲為止，L'Arc〜en〜Ciel單曲A面曲的歌詞部分全部由hyde所寫，這張單曲是第1次由hyde以外的團員作詞。作詞者：[yukihiro](../Page/yukihiro.md "wikilink")，關於作詞的部分他曾說：「用日文寫歌詞還真難」。以往yukihiro作詞的2首歌曲收錄在《[ray](https://zh.wikipedia.org/wiki/ray_\(原創專輯\) "wikilink")》，都不是日文歌詞（「L'heure」是[法文](https://zh.wikipedia.org/wiki/法文 "wikilink")、「trick」是[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")）。作曲由hyde創作副歌、yukihiro則負責其他部分。
+到上一張單曲為止，L'Arc〜en〜Ciel單曲A面曲的歌詞部分全部由hyde所寫，這張單曲是第1次由hyde以外的團員作詞。作詞者：[yukihiro](https://zh.wikipedia.org/wiki/yukihiro "wikilink")，關於作詞的部分他曾說：「用日文寫歌詞還真難」。以往yukihiro作詞的2首歌曲收錄在《[ray](https://zh.wikipedia.org/wiki/ray_\(原創專輯\) "wikilink")》，都不是日文歌詞（「L'heure」是[法文](https://zh.wikipedia.org/wiki/法文 "wikilink")、「trick」是[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")）。作曲由hyde創作副歌、yukihiro則負責其他部分。
 
 初回限定盤：CD標籤彩色印刷。
 

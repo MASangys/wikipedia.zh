@@ -6,15 +6,15 @@
 
 \[1\]
 
-| 屆數              | 大獎                                                                                          | 最优秀演技賞                                                                                                         | 优秀演技賞                                                 |
-| --------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| 男子              | 女子                                                                                          | 男子                                                                                                             | 女子                                                    |
-| 第1屆（1993年）      | [李美淑](../Page/李美淑.md "wikilink")《》                                                          | [朴重勋](https://zh.wikipedia.org/wiki/朴重勋 "wikilink")《》                                                          | [金慧渲](../Page/金慧渲.md "wikilink")《》                    |
-| 第2屆（1994年）      | [崔明吉](https://zh.wikipedia.org/wiki/崔明吉_\(艺人\) "wikilink")《》                                | [韓振熙](../Page/韓振熙.md "wikilink")《》                                                                             | [崔真實](../Page/崔真實.md "wikilink")《》                    |
-| 第3屆（1995年）      | [崔民秀](../Page/崔民秀.md "wikilink")《[沙漏](https://zh.wikipedia.org/wiki/沙漏_\(电视剧\) "wikilink")》 | [朴相元](https://zh.wikipedia.org/wiki/朴相元 "wikilink")《[沙漏](https://zh.wikipedia.org/wiki/沙漏_\(电视剧\) "wikilink")》 | [崔真實](../Page/崔真實.md "wikilink")《、》                   |
-| 第4屆（1996年）      | [朴根滢](https://zh.wikipedia.org/wiki/朴根滢 "wikilink")《》                                       | [李正吉](../Page/李正吉.md "wikilink")《》                                                                             | [李辉香](https://zh.wikipedia.org/wiki/李辉香 "wikilink")《》 |
-| 第5屆（1998年）\[2\] | [金喜善](../Page/金喜善.md "wikilink")《》                                                          | [金旻钟](https://zh.wikipedia.org/wiki/金旻钟 "wikilink")《》                                                          | [李英爱](https://zh.wikipedia.org/wiki/李英爱 "wikilink")《》 |
-| 第6屆（1999年）      | [沈银河](https://zh.wikipedia.org/wiki/沈银河 "wikilink")《》                                       | [李璟荣](https://zh.wikipedia.org/wiki/李璟荣 "wikilink")《、》                                                         | [金姈爱](https://zh.wikipedia.org/wiki/金姈爱 "wikilink")《》 |
+| 屆數              | 大獎                                                                                          | 最优秀演技賞                                                                                      | 优秀演技賞                                                 |
+| --------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| 男子              | 女子                                                                                          | 男子                                                                                          | 女子                                                    |
+| 第1屆（1993年）      | [李美淑](../Page/李美淑.md "wikilink")《》                                                          | [朴重勋](https://zh.wikipedia.org/wiki/朴重勋 "wikilink")《》                                       | [金慧渲](../Page/金慧渲.md "wikilink")《》                    |
+| 第2屆（1994年）      | [崔明吉](https://zh.wikipedia.org/wiki/崔明吉_\(艺人\) "wikilink")《》                                | [韓振熙](../Page/韓振熙.md "wikilink")《》                                                          | [崔真實](../Page/崔真實.md "wikilink")《》                    |
+| 第3屆（1995年）      | [崔民秀](../Page/崔民秀.md "wikilink")《[沙漏](https://zh.wikipedia.org/wiki/沙漏_\(电视剧\) "wikilink")》 | [朴相元](../Page/朴相元.md "wikilink")《[沙漏](https://zh.wikipedia.org/wiki/沙漏_\(电视剧\) "wikilink")》 | [崔真實](../Page/崔真實.md "wikilink")《、》                   |
+| 第4屆（1996年）      | [朴根滢](https://zh.wikipedia.org/wiki/朴根滢 "wikilink")《》                                       | [李正吉](../Page/李正吉.md "wikilink")《》                                                          | [李辉香](https://zh.wikipedia.org/wiki/李辉香 "wikilink")《》 |
+| 第5屆（1998年）\[2\] | [金喜善](../Page/金喜善.md "wikilink")《》                                                          | [金旻钟](https://zh.wikipedia.org/wiki/金旻钟 "wikilink")《》                                       | [李英爱](https://zh.wikipedia.org/wiki/李英爱 "wikilink")《》 |
+| 第6屆（1999年）      | [沈银河](https://zh.wikipedia.org/wiki/沈银河 "wikilink")《》                                       | [李璟荣](https://zh.wikipedia.org/wiki/李璟荣 "wikilink")《、》                                      | [金姈爱](https://zh.wikipedia.org/wiki/金姈爱 "wikilink")《》 |
 
 ### 2000年代
 
@@ -61,7 +61,7 @@
 （2002年）</p></td>
 <td><p><a href="../Page/安在模.md" title="wikilink">安在模</a>《》</p></td>
 <td><p><a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a>《<a href="../Page/大望.md" title="wikilink">大望</a>》</p></td>
-<td><p><a href="../Page/全道嬿.md" title="wikilink">全道嬿</a>《<a href="https://zh.wikipedia.org/wiki/射星" title="wikilink">射星</a>》</p></td>
+<td><p><a href="../Page/全道嬿.md" title="wikilink">全道嬿</a>《<a href="../Page/射星.md" title="wikilink">射星</a>》</p></td>
 <td><p><a href="../Page/高洙.md" title="wikilink">高洙</a>《<a href="https://zh.wikipedia.org/wiki/纯真年代_(韩国电视剧)" title="wikilink">纯真年代</a>》<br />
 <a href="https://zh.wikipedia.org/wiki/韩载锡" title="wikilink">韩载锡</a>《<a href="../Page/大望.md" title="wikilink">大望</a>》<br />
 <a href="../Page/金太祐.md" title="wikilink">金太祐</a>《》</p></td>
@@ -118,7 +118,7 @@
 <tr class="even">
 <td><p>第15屆（2008年）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/文瑾莹" title="wikilink">文瑾莹</a>《<a href="https://zh.wikipedia.org/wiki/风之画师" title="wikilink">风之画师</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李准基" title="wikilink">李准基</a>《<a href="https://zh.wikipedia.org/wiki/一枝梅" title="wikilink">一枝梅</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李准基" title="wikilink">李准基</a>《<a href="../Page/一枝梅.md" title="wikilink">一枝梅</a>》</p></td>
 <td><p><a href="../Page/金荷娜.md" title="wikilink">金荷娜</a>《<a href="../Page/On_Air.md" title="wikilink">On Air</a>》<br />
 <a href="../Page/宋玧妸.md" title="wikilink">宋玧妸</a>《<a href="../Page/On_Air.md" title="wikilink">On Air</a>》</p></td>
 <td><p><a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a>《<a href="https://zh.wikipedia.org/wiki/老千_(电视剧)" title="wikilink">老千</a>》<br />
@@ -243,32 +243,32 @@
 <td><p><a href="../Page/全智賢.md" title="wikilink">全智賢</a>《<a href="../Page/來自星星的你.md" title="wikilink">來自星星的你</a>》</p></td>
 <td><p><a href="../Page/朴有天.md" title="wikilink">朴有天</a>《<a href="../Page/Three_Days.md" title="wikilink">Three Days</a>》<br />
 <a href="https://zh.wikipedia.org/wiki/金秀賢_(男演员)" title="wikilink">金秀賢</a>《<a href="../Page/來自星星的你.md" title="wikilink">來自星星的你</a>》<br />
-<a href="../Page/李帝勳.md" title="wikilink">李帝勳</a>《<a href="https://zh.wikipedia.org/wiki/秘密之門" title="wikilink">秘密之門</a>》</p></td>
+<a href="../Page/李帝勳.md" title="wikilink">李帝勳</a>《<a href="../Page/秘密之門.md" title="wikilink">秘密之門</a>》</p></td>
 <td><p><a href="../Page/孔曉振.md" title="wikilink">孔曉振</a>《<a href="https://zh.wikipedia.org/wiki/沒關係，是愛情啊" title="wikilink">沒關係，是愛情啊</a>》<br />
 <a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a>《<a href="https://zh.wikipedia.org/wiki/匹诺曹_(电视剧)" title="wikilink">匹诺曹</a>》<br />
-<a href="https://zh.wikipedia.org/wiki/黃正音" title="wikilink">黃正音</a>《<a href="https://zh.wikipedia.org/wiki/無盡的愛_(2014年電視劇)" title="wikilink">無盡的愛</a>》</p></td>
+<a href="https://zh.wikipedia.org/wiki/黃正音" title="wikilink">黃正音</a>《<a href="../Page/無盡的愛_(2014年電視劇).md" title="wikilink">無盡的愛</a>》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/成東日" title="wikilink">成東日</a>《<a href="https://zh.wikipedia.org/wiki/沒關係，是愛情啊" title="wikilink">沒關係，是愛情啊</a>》<br />
 <a href="../Page/申成祿.md" title="wikilink">申成祿</a>《<a href="../Page/來自星星的你.md" title="wikilink">來自星星的你</a>》<br />
 <a href="../Page/宋昶儀.md" title="wikilink">宋昶儀</a>《<a href="https://zh.wikipedia.org/wiki/结婚三次的女人" title="wikilink">结婚三次的女人</a>》</p></td>
 <td><p><a href="../Page/蘇怡賢.md" title="wikilink">蘇怡賢</a>《<a href="../Page/Three_Days.md" title="wikilink">Three Days</a>》<br />
-<a href="../Page/韓藝瑟.md" title="wikilink">韓藝瑟</a>《<a href="https://zh.wikipedia.org/wiki/美女的誕生" title="wikilink">美女的誕生</a>》<br />
-<a href="https://zh.wikipedia.org/wiki/崔貞允" title="wikilink">崔貞允</a>《<a href="https://zh.wikipedia.org/wiki/清潭洞醜聞" title="wikilink">清潭洞醜聞</a>》</p></td>
+<a href="../Page/韓藝瑟.md" title="wikilink">韓藝瑟</a>《<a href="../Page/美女的誕生.md" title="wikilink">美女的誕生</a>》<br />
+<a href="https://zh.wikipedia.org/wiki/崔貞允" title="wikilink">崔貞允</a>《<a href="../Page/清潭洞醜聞.md" title="wikilink">清潭洞醜聞</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p>第22屆（2015年）</p></td>
 <td><p><a href="../Page/周元_(韓國).md" title="wikilink">周元</a>《<a href="https://zh.wikipedia.org/wiki/龍八夷" title="wikilink">龍八夷</a>》</p></td>
-<td><p><a href="../Page/朴有天.md" title="wikilink">朴有天</a>《<a href="https://zh.wikipedia.org/wiki/看見味道的少女" title="wikilink">看見味道的少女</a>》<br />
-<a href="../Page/劉俊相.md" title="wikilink">劉俊相</a>《<a href="https://zh.wikipedia.org/wiki/聽到傳聞" title="wikilink">聽到傳聞</a>》<br />
-<a href="../Page/曹在顯.md" title="wikilink">曹在顯</a>《<a href="https://zh.wikipedia.org/wiki/Punch_(電視劇)" title="wikilink">Punch</a>》<br />
+<td><p><a href="../Page/朴有天.md" title="wikilink">朴有天</a>《<a href="../Page/看見味道的少女.md" title="wikilink">看見味道的少女</a>》<br />
+<a href="../Page/劉俊相.md" title="wikilink">劉俊相</a>《<a href="../Page/聽到傳聞.md" title="wikilink">聽到傳聞</a>》<br />
+<a href="../Page/曹在顯.md" title="wikilink">曹在顯</a>《<a href="../Page/Punch_(電視劇).md" title="wikilink">Punch</a>》<br />
 <a href="../Page/劉亞仁.md" title="wikilink">劉亞仁</a>《<a href="../Page/六龍飛天.md" title="wikilink">六龍飛天</a>》</p></td>
 <td><p><a href="../Page/金泰希.md" title="wikilink">金泰希</a>《<a href="https://zh.wikipedia.org/wiki/龍八夷" title="wikilink">龍八夷</a>》<br />
-<a href="../Page/崔明吉_(藝人).md" title="wikilink">崔明吉</a>《<a href="https://zh.wikipedia.org/wiki/Punch_(電視劇)" title="wikilink">Punch</a>》<br />
+<a href="../Page/崔明吉_(藝人).md" title="wikilink">崔明吉</a>《<a href="../Page/Punch_(電視劇).md" title="wikilink">Punch</a>》<br />
 <a href="../Page/金賢珠.md" title="wikilink">金賢珠</a>《<a href="../Page/我有愛人了.md" title="wikilink">我有愛人了</a>》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/朴炯植" title="wikilink">朴炯植</a>《<a href="../Page/上流社會_(電視劇).md" title="wikilink">上流社會</a>》<br />
-<a href="https://zh.wikipedia.org/wiki/朱智勳" title="wikilink">朱智勳</a>《<a href="https://zh.wikipedia.org/wiki/假面_(電視劇)" title="wikilink">假面</a>》<br />
+<a href="https://zh.wikipedia.org/wiki/朱智勳" title="wikilink">朱智勳</a>《<a href="../Page/假面_(電視劇).md" title="wikilink">假面</a>》<br />
 <a href="https://zh.wikipedia.org/wiki/卞耀漢" title="wikilink">卞耀漢</a>《<a href="../Page/六龍飛天.md" title="wikilink">六龍飛天</a>》</p></td>
 <td><p><a href="../Page/文瑾瑩.md" title="wikilink">文瑾瑩</a>《<a href="https://zh.wikipedia.org/wiki/村莊：阿雉阿拉的祕密" title="wikilink">村莊：阿雉阿拉的祕密</a>》<br />
-<a href="../Page/高我星.md" title="wikilink">高我星</a>《<a href="https://zh.wikipedia.org/wiki/聽到傳聞" title="wikilink">聽到傳聞</a>》<br />
+<a href="../Page/高我星.md" title="wikilink">高我星</a>《<a href="../Page/聽到傳聞.md" title="wikilink">聽到傳聞</a>》<br />
 <a href="../Page/申世景.md" title="wikilink">申世景</a>《<a href="../Page/六龍飛天.md" title="wikilink">六龍飛天</a>》</p></td>
 </tr>
 <tr class="even">
@@ -295,36 +295,36 @@
 <tr class="odd">
 <td><p>第24屆（2017年）</p></td>
 <td><p><a href="../Page/池晟.md" title="wikilink">池晟</a>《<a href="https://zh.wikipedia.org/wiki/被告人" title="wikilink">被告人</a>》</p></td>
-<td><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a>《<a href="https://zh.wikipedia.org/wiki/操作_(電視劇)" title="wikilink">操作</a>》<br />
-<a href="../Page/李鍾碩.md" title="wikilink">李鍾碩</a>《<a href="https://zh.wikipedia.org/wiki/當你沉睡時" title="wikilink">當你沉睡時</a>》<br />
-<a href="../Page/孫暢敏.md" title="wikilink">孫暢敏</a>《<a href="https://zh.wikipedia.org/wiki/姐姐風采依舊" title="wikilink">姐姐風采依舊</a>》</p></td>
+<td><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a>《<a href="../Page/操作_(電視劇).md" title="wikilink">操作</a>》<br />
+<a href="../Page/李鍾碩.md" title="wikilink">李鍾碩</a>《<a href="../Page/當你沉睡時.md" title="wikilink">當你沉睡時</a>》<br />
+<a href="../Page/孫暢敏.md" title="wikilink">孫暢敏</a>《<a href="../Page/姐姐風采依舊.md" title="wikilink">姐姐風采依舊</a>》</p></td>
 <td><p><a href="../Page/李寶英.md" title="wikilink">李寶英</a>《<a href="https://zh.wikipedia.org/wiki/悄悄話" title="wikilink">悄悄話</a>》<br />
-<a href="https://zh.wikipedia.org/wiki/裴秀智" title="wikilink">裴秀智</a>《<a href="https://zh.wikipedia.org/wiki/當你沉睡時" title="wikilink">當你沉睡時</a>》<br />
-<a href="../Page/張瑞希.md" title="wikilink">張瑞希</a>《<a href="https://zh.wikipedia.org/wiki/姐姐風采依舊" title="wikilink">姐姐風采依舊</a>》</p></td>
+<a href="https://zh.wikipedia.org/wiki/裴秀智" title="wikilink">裴秀智</a>《<a href="../Page/當你沉睡時.md" title="wikilink">當你沉睡時</a>》<br />
+<a href="../Page/張瑞希.md" title="wikilink">張瑞希</a>《<a href="../Page/姐姐風采依舊.md" title="wikilink">姐姐風采依舊</a>》</p></td>
 <td><p><a href="../Page/權律.md" title="wikilink">權律</a>《<a href="https://zh.wikipedia.org/wiki/悄悄話" title="wikilink">悄悄話</a>》<br />
-<a href="../Page/李相燁.md" title="wikilink">李相燁</a>《<a href="https://zh.wikipedia.org/wiki/當你沉睡時" title="wikilink">當你沉睡時</a>》<br />
-<a href="../Page/安內相.md" title="wikilink">安內相</a>《<a href="https://zh.wikipedia.org/wiki/姐姐風采依舊" title="wikilink">姐姐風采依舊</a>》</p></td>
+<a href="../Page/李相燁.md" title="wikilink">李相燁</a>《<a href="../Page/當你沉睡時.md" title="wikilink">當你沉睡時</a>》<br />
+<a href="../Page/安內相.md" title="wikilink">安內相</a>《<a href="../Page/姐姐風采依舊.md" title="wikilink">姐姐風采依舊</a>》</p></td>
 <td><p><a href="../Page/朴世榮.md" title="wikilink">朴世榮</a>《<a href="https://zh.wikipedia.org/wiki/悄悄話" title="wikilink">悄悄話</a>》<br />
-<a href="../Page/南志鉉.md" title="wikilink">南志鉉</a>《<a href="https://zh.wikipedia.org/wiki/奇怪的搭檔" title="wikilink">奇怪的搭檔</a>》<br />
-<a href="../Page/孫汝恩.md" title="wikilink">孫汝恩</a>《<a href="https://zh.wikipedia.org/wiki/姐姐風采依舊" title="wikilink">姐姐風采依舊</a>》</p></td>
+<a href="../Page/南志鉉.md" title="wikilink">南志鉉</a>《<a href="../Page/奇怪的搭檔.md" title="wikilink">奇怪的搭檔</a>》<br />
+<a href="../Page/孫汝恩.md" title="wikilink">孫汝恩</a>《<a href="../Page/姐姐風采依舊.md" title="wikilink">姐姐風采依舊</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>第25屆（2018年）</p></td>
-<td><p><a href="../Page/甘宇成.md" title="wikilink">甘宇成</a>《<a href="https://zh.wikipedia.org/wiki/要先接吻嗎？" title="wikilink">要先接吻嗎？</a>》<br />
-<a href="../Page/金宣兒.md" title="wikilink">金宣兒</a>《<a href="https://zh.wikipedia.org/wiki/要先接吻嗎？" title="wikilink">要先接吻嗎？</a>》</p></td>
+<td><p><a href="../Page/甘宇成.md" title="wikilink">甘宇成</a>《<a href="../Page/要先接吻嗎？.md" title="wikilink">要先接吻嗎？</a>》<br />
+<a href="../Page/金宣兒.md" title="wikilink">金宣兒</a>《<a href="../Page/要先接吻嗎？.md" title="wikilink">要先接吻嗎？</a>》</p></td>
 <td><p><a href="../Page/李帝勳.md" title="wikilink">李帝勳</a>《<a href="https://zh.wikipedia.org/wiki/狐狸新娘星" title="wikilink">狐狸新娘星</a>》<br />
-<a href="../Page/崔振赫.md" title="wikilink">崔振赫</a>《<a href="https://zh.wikipedia.org/wiki/皇后的品格" title="wikilink">皇后的品格</a>》<br />
-<a href="../Page/申成祿.md" title="wikilink">申成祿</a>《<a href="https://zh.wikipedia.org/wiki/皇后的品格" title="wikilink">皇后的品格</a>》<br />
-<a href="../Page/金載沅.md" title="wikilink">金載沅</a>《<a href="https://zh.wikipedia.org/wiki/如果是她的話" title="wikilink">如果是她的話</a>》</p></td>
-<td><p><a href="../Page/申惠善.md" title="wikilink">申惠善</a>《<a href="https://zh.wikipedia.org/wiki/雖然30但仍17" title="wikilink">雖然30但仍17</a>》<br />
-<a href="../Page/張娜拉.md" title="wikilink">張娜拉</a>《<a href="https://zh.wikipedia.org/wiki/皇后的品格" title="wikilink">皇后的品格</a>》<br />
-<a href="../Page/宋玧妸.md" title="wikilink">宋玧妸</a>《<a href="https://zh.wikipedia.org/wiki/Secret_Mother" title="wikilink">Secret Mother</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/梁世宗_(韓國)" title="wikilink">梁世宗</a>《<a href="https://zh.wikipedia.org/wiki/雖然30但仍17" title="wikilink">雖然30但仍17</a>》<br />
-<a href="../Page/尹施允.md" title="wikilink">尹施允</a>《<a href="https://zh.wikipedia.org/wiki/致親愛的法官大人" title="wikilink">致親愛的法官大人</a>》<br />
-<a href="../Page/鄭雄仁.md" title="wikilink">鄭雄仁</a>《<a href="https://zh.wikipedia.org/wiki/Ms.Ma，復仇的女神" title="wikilink">Ms.Ma，復仇的女神</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡秀彬" title="wikilink">蔡秀彬</a>《<a href="https://zh.wikipedia.org/wiki/狐狸新娘星" title="wikilink">狐狸新娘星</a>》<br />
-<a href="../Page/徐智慧_(1984年).md" title="wikilink">徐智慧</a>《<a href="https://zh.wikipedia.org/wiki/胸腔外科-盜取心臟的醫生們" title="wikilink">胸腔外科-盜取心臟的醫生們</a>》<br />
-<a href="../Page/金素妍.md" title="wikilink">金素妍</a>《<a href="https://zh.wikipedia.org/wiki/Secret_Mother" title="wikilink">Secret Mother</a>》</p></td>
+<a href="../Page/崔振赫.md" title="wikilink">崔振赫</a>《<a href="../Page/皇后的品格.md" title="wikilink">皇后的品格</a>》<br />
+<a href="../Page/申成祿.md" title="wikilink">申成祿</a>《<a href="../Page/皇后的品格.md" title="wikilink">皇后的品格</a>》<br />
+<a href="../Page/金載沅.md" title="wikilink">金載沅</a>《<a href="../Page/如果是她的話.md" title="wikilink">如果是她的話</a>》</p></td>
+<td><p><a href="../Page/申惠善.md" title="wikilink">申惠善</a>《<a href="../Page/雖然30但仍17.md" title="wikilink">雖然30但仍17</a>》<br />
+<a href="../Page/張娜拉.md" title="wikilink">張娜拉</a>《<a href="../Page/皇后的品格.md" title="wikilink">皇后的品格</a>》<br />
+<a href="../Page/宋玧妸.md" title="wikilink">宋玧妸</a>《<a href="../Page/Secret_Mother.md" title="wikilink">Secret Mother</a>》</p></td>
+<td><p><a href="../Page/梁世宗_(韓國).md" title="wikilink">梁世宗</a>《<a href="../Page/雖然30但仍17.md" title="wikilink">雖然30但仍17</a>》<br />
+<a href="../Page/尹施允.md" title="wikilink">尹施允</a>《<a href="../Page/致親愛的法官大人.md" title="wikilink">致親愛的法官大人</a>》<br />
+<a href="../Page/鄭雄仁.md" title="wikilink">鄭雄仁</a>《<a href="../Page/Ms.Ma，復仇的女神.md" title="wikilink">Ms.Ma，復仇的女神</a>》</p></td>
+<td><p><a href="../Page/蔡秀彬.md" title="wikilink">蔡秀彬</a>《<a href="https://zh.wikipedia.org/wiki/狐狸新娘星" title="wikilink">狐狸新娘星</a>》<br />
+<a href="../Page/徐智慧_(1984年).md" title="wikilink">徐智慧</a>《<a href="../Page/胸腔外科-盜取心臟的醫生們.md" title="wikilink">胸腔外科-盜取心臟的醫生們</a>》<br />
+<a href="../Page/金素妍.md" title="wikilink">金素妍</a>《<a href="../Page/Secret_Mother.md" title="wikilink">Secret Mother</a>》</p></td>
 </tr>
 </tbody>
 </table>
@@ -478,7 +478,7 @@
 <tr class="even">
 <td><p>男子助演賞</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孙贤周" title="wikilink">孙贤周</a>（）<br />
-<a href="https://zh.wikipedia.org/wiki/崔鐘煥" title="wikilink">崔鐘煥</a>（<a href="../Page/女人天下.md" title="wikilink">女人天下</a>）</p></td>
+<a href="../Page/崔鐘煥.md" title="wikilink">崔鐘煥</a>（<a href="../Page/女人天下.md" title="wikilink">女人天下</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>女子助演賞</p></td>
@@ -550,7 +550,7 @@
 </tr>
 <tr class="odd">
 <td><p>女子最优秀演技賞</p></td>
-<td><p><a href="../Page/全道嬿.md" title="wikilink">全道嬿</a>（<a href="https://zh.wikipedia.org/wiki/射星" title="wikilink">射星</a>）</p></td>
+<td><p><a href="../Page/全道嬿.md" title="wikilink">全道嬿</a>（<a href="../Page/射星.md" title="wikilink">射星</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>男子Drama Special优秀演技賞</p></td>
@@ -587,7 +587,7 @@
 <tr class="even">
 <td><p>男子助演賞</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李原种" title="wikilink">李原种</a>（）<br />
-<a href="https://zh.wikipedia.org/wiki/朴俊奎" title="wikilink">朴俊奎</a>（）</p></td>
+<a href="../Page/朴俊奎.md" title="wikilink">朴俊奎</a>（）</p></td>
 </tr>
 <tr class="odd">
 <td><p>女子助演賞</p></td>
@@ -598,18 +598,18 @@
 <td><p>十大明星賞</p></td>
 <td><p><a href="../Page/安在模.md" title="wikilink">安在模</a>（）<br />
 <a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a>（<a href="../Page/大望.md" title="wikilink">大望</a>、<a href="../Page/明朗少女成功记.md" title="wikilink">明朗少女成功记</a>）<br />
-<a href="../Page/全道嬿.md" title="wikilink">全道嬿</a>（<a href="https://zh.wikipedia.org/wiki/射星" title="wikilink">射星</a>）<br />
+<a href="../Page/全道嬿.md" title="wikilink">全道嬿</a>（<a href="../Page/射星.md" title="wikilink">射星</a>）<br />
 <a href="../Page/高洙.md" title="wikilink">高洙</a>（<a href="https://zh.wikipedia.org/wiki/纯真年代_(韩国电视剧)" title="wikilink">纯真年代</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/韩载锡" title="wikilink">韩载锡</a>（<a href="../Page/大望.md" title="wikilink">大望</a>、<a href="https://zh.wikipedia.org/wiki/玻璃鞋_(电视剧)" title="wikilink">玻璃鞋</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/金贤珠" title="wikilink">金贤珠</a>（<a href="https://zh.wikipedia.org/wiki/玻璃鞋_(电视剧)" title="wikilink">玻璃鞋</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/金载沅" title="wikilink">金载沅</a>（）<br />
-<a href="https://zh.wikipedia.org/wiki/赵寅成" title="wikilink">赵寅成</a>（<a href="https://zh.wikipedia.org/wiki/射星" title="wikilink">射星</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/赵寅成" title="wikilink">赵寅成</a>（<a href="../Page/射星.md" title="wikilink">射星</a>）<br />
 <a href="../Page/張娜拉.md" title="wikilink">張娜拉</a>（<a href="../Page/明朗少女成功记.md" title="wikilink">明朗少女成功记</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/苏有珍" title="wikilink">苏有珍</a>（）</p></td>
 </tr>
 <tr class="odd">
 <td><p>人气賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/赵寅成" title="wikilink">赵寅成</a>（<a href="https://zh.wikipedia.org/wiki/射星" title="wikilink">射星</a>）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/赵寅成" title="wikilink">赵寅成</a>（<a href="../Page/射星.md" title="wikilink">射星</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/金载沅" title="wikilink">金载沅</a>（）<br />
 <a href="https://zh.wikipedia.org/wiki/苏有珍" title="wikilink">苏有珍</a>（）<br />
 <a href="../Page/金敏喜.md" title="wikilink">金敏喜</a>（<a href="https://zh.wikipedia.org/wiki/纯真年代_(韩国电视剧)" title="wikilink">纯真年代</a>）</p></td>
@@ -845,7 +845,7 @@
 </tr>
 <tr class="even">
 <td><p>功劳賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林玄植" title="wikilink">林玄植</a></p></td>
+<td><p><a href="../Page/林玄植.md" title="wikilink">林玄植</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>新星賞</p></td>
@@ -1209,7 +1209,7 @@
 </tr>
 <tr class="even">
 <td><p>男子最优秀演技賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>（<a href="https://zh.wikipedia.org/wiki/一枝梅" title="wikilink">一枝梅</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>（<a href="../Page/一枝梅.md" title="wikilink">一枝梅</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>女子最优秀演技賞</p></td>
@@ -1218,7 +1218,7 @@
 </tr>
 <tr class="even">
 <td><p>PD賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韩孝周" title="wikilink">韩孝周</a>（<a href="https://zh.wikipedia.org/wiki/一枝梅" title="wikilink">一枝梅</a>）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/韩孝周" title="wikilink">韩孝周</a>（<a href="../Page/一枝梅.md" title="wikilink">一枝梅</a>）<br />
 <a href="../Page/奉太奎.md" title="wikilink">奉太奎</a>（<a href="https://zh.wikipedia.org/wiki/全职妈妈" title="wikilink">全职妈妈</a>）<br />
 <a href="../Page/文晶熙.md" title="wikilink">文晶熙</a>（<a href="../Page/我的甜美都市.md" title="wikilink">我的甜美都市</a>、<a href="../Page/小媳婦與少奶奶.md" title="wikilink">小媳婦與少奶奶</a>）</p></td>
 </tr>
@@ -1257,7 +1257,7 @@
 </tr>
 <tr class="odd">
 <td><p>男子Drama Special助演賞</p></td>
-<td><p><a href="../Page/李文植.md" title="wikilink">李文植</a>（<a href="https://zh.wikipedia.org/wiki/一枝梅" title="wikilink">一枝梅</a>）</p></td>
+<td><p><a href="../Page/李文植.md" title="wikilink">李文植</a>（<a href="../Page/一枝梅.md" title="wikilink">一枝梅</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>女子Drama Special助演賞</p></td>
@@ -1274,7 +1274,7 @@
 <tr class="odd">
 <td><p>十大明星賞</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/文瑾莹" title="wikilink">文瑾莹</a>（<a href="https://zh.wikipedia.org/wiki/风之画师" title="wikilink">风之画师</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>（<a href="https://zh.wikipedia.org/wiki/一枝梅" title="wikilink">一枝梅</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>（<a href="../Page/一枝梅.md" title="wikilink">一枝梅</a>）<br />
 <a href="../Page/朴容夏.md" title="wikilink">朴容夏</a>（<a href="../Page/On_Air.md" title="wikilink">On Air</a>）<br />
 <a href="../Page/金荷娜.md" title="wikilink">金荷娜</a>（<a href="../Page/On_Air.md" title="wikilink">On Air</a>）<br />
 <a href="../Page/宋玧妸.md" title="wikilink">宋玧妸</a>（<a href="../Page/On_Air.md" title="wikilink">On Air</a>）<br />
@@ -1286,7 +1286,7 @@
 </tr>
 <tr class="even">
 <td><p>人气賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>（<a href="https://zh.wikipedia.org/wiki/一枝梅" title="wikilink">一枝梅</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>（<a href="../Page/一枝梅.md" title="wikilink">一枝梅</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>最佳CP獎</p></td>
@@ -1294,7 +1294,7 @@
 </tr>
 <tr class="even">
 <td><p>功劳獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/文英南" title="wikilink">文英南</a>（<a href="https://zh.wikipedia.org/wiki/糟糠之妻俱乐部" title="wikilink">糟糠之妻俱乐部</a>）</p></td>
+<td><p><a href="../Page/文英南.md" title="wikilink">文英南</a>（<a href="https://zh.wikipedia.org/wiki/糟糠之妻俱乐部" title="wikilink">糟糠之妻俱乐部</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>新星獎</p></td>
@@ -1311,8 +1311,8 @@
 </tr>
 <tr class="even">
 <td><p>童星獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吕珍九" title="wikilink">吕珍九</a>（<a href="https://zh.wikipedia.org/wiki/一枝梅" title="wikilink">一枝梅</a>、<a href="https://zh.wikipedia.org/wiki/老千_(电视剧)" title="wikilink">老千</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/金裕贞" title="wikilink">金裕贞</a>（<a href="https://zh.wikipedia.org/wiki/一枝梅" title="wikilink">一枝梅</a>、<a href="https://zh.wikipedia.org/wiki/风之画师" title="wikilink">风之画师</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吕珍九" title="wikilink">吕珍九</a>（<a href="../Page/一枝梅.md" title="wikilink">一枝梅</a>、<a href="https://zh.wikipedia.org/wiki/老千_(电视剧)" title="wikilink">老千</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/金裕贞" title="wikilink">金裕贞</a>（<a href="../Page/一枝梅.md" title="wikilink">一枝梅</a>、<a href="https://zh.wikipedia.org/wiki/风之画师" title="wikilink">风之画师</a>）</p></td>
 </tr>
 </tbody>
 </table>
@@ -1387,7 +1387,7 @@
 </tr>
 <tr class="odd">
 <td><p>男子连续剧助演賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/崔俊用" title="wikilink">崔俊用</a>（<a href="https://zh.wikipedia.org/wiki/妻子的诱惑" title="wikilink">妻子的诱惑</a>）</p></td>
+<td><p><a href="../Page/崔俊用.md" title="wikilink">崔俊用</a>（<a href="https://zh.wikipedia.org/wiki/妻子的诱惑" title="wikilink">妻子的诱惑</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>女子连续剧助演賞</p></td>
@@ -1539,145 +1539,145 @@
 
 ### 第20届（2013年）
 
-| 主持：[李宝英](https://zh.wikipedia.org/wiki/李宝英 "wikilink")、[李輝宰](https://zh.wikipedia.org/wiki/李輝宰 "wikilink")、[金宇彬](../Page/金宇彬.md "wikilink") |
-| ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 獎項                                                                                                                                          |
-| 大賞                                                                                                                                          |
-| 特別賞                                                                                                                                         |
-| 男子迷你劇最優秀演技賞                                                                                                                                 |
-| 女子迷你劇最優秀演技賞                                                                                                                                 |
-| 男子中篇劇最優秀演技賞                                                                                                                                 |
-| 女子中篇劇最優秀演技賞                                                                                                                                 |
-| 男子長篇劇最優秀演技賞                                                                                                                                 |
-| 女子長篇劇最優秀演技賞                                                                                                                                 |
-| 男子迷你劇優秀演技賞                                                                                                                                  |
-| 女子迷你劇優秀演技賞                                                                                                                                  |
-| 男子中篇劇優秀演技賞                                                                                                                                  |
-| 女子中篇劇優秀演技賞                                                                                                                                  |
-| 男子長篇劇優秀演技賞                                                                                                                                  |
-| 女子長篇劇優秀演技賞                                                                                                                                  |
-| PD賞                                                                                                                                         |
-| 男子迷你劇特別演技賞                                                                                                                                  |
-| 女子迷你劇特別演技賞                                                                                                                                  |
-| 男子中篇劇特別演技賞                                                                                                                                  |
-| 女子中篇劇特別演技賞                                                                                                                                  |
-| 男子長篇劇特別演技賞                                                                                                                                  |
-| 女子長篇劇特別演技賞                                                                                                                                  |
-| 男子獨幕劇特別演技賞                                                                                                                                  |
-| 女子獨幕劇特別演技賞                                                                                                                                  |
-| 最佳CP賞                                                                                                                                       |
-| 人氣賞                                                                                                                                         |
-| 十大明星賞                                                                                                                                       |
-| 功勞賞                                                                                                                                         |
-| 新星賞                                                                                                                                         |
-| 最佳着装獎                                                                                                                                       |
+| 主持：[李宝英](https://zh.wikipedia.org/wiki/李宝英 "wikilink")、[李輝宰](../Page/李輝宰.md "wikilink")、[金宇彬](../Page/金宇彬.md "wikilink") |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| 獎項                                                                                                                       |
+| 大賞                                                                                                                       |
+| 特別賞                                                                                                                      |
+| 男子迷你劇最優秀演技賞                                                                                                              |
+| 女子迷你劇最優秀演技賞                                                                                                              |
+| 男子中篇劇最優秀演技賞                                                                                                              |
+| 女子中篇劇最優秀演技賞                                                                                                              |
+| 男子長篇劇最優秀演技賞                                                                                                              |
+| 女子長篇劇最優秀演技賞                                                                                                              |
+| 男子迷你劇優秀演技賞                                                                                                               |
+| 女子迷你劇優秀演技賞                                                                                                               |
+| 男子中篇劇優秀演技賞                                                                                                               |
+| 女子中篇劇優秀演技賞                                                                                                               |
+| 男子長篇劇優秀演技賞                                                                                                               |
+| 女子長篇劇優秀演技賞                                                                                                               |
+| PD賞                                                                                                                      |
+| 男子迷你劇特別演技賞                                                                                                               |
+| 女子迷你劇特別演技賞                                                                                                               |
+| 男子中篇劇特別演技賞                                                                                                               |
+| 女子中篇劇特別演技賞                                                                                                               |
+| 男子長篇劇特別演技賞                                                                                                               |
+| 女子長篇劇特別演技賞                                                                                                               |
+| 男子獨幕劇特別演技賞                                                                                                               |
+| 女子獨幕劇特別演技賞                                                                                                               |
+| 最佳CP賞                                                                                                                    |
+| 人氣賞                                                                                                                      |
+| 十大明星賞                                                                                                                    |
+| 功勞賞                                                                                                                      |
+| 新星賞                                                                                                                      |
+| 最佳着装獎                                                                                                                    |
 
 ### 第21届（2014年）
 
-| 主持：[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")、[李輝宰](https://zh.wikipedia.org/wiki/李輝宰 "wikilink")、[朴敘俊](../Page/朴敘俊.md "wikilink") |
-| ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 獎項                                                                                                                                          |
-| 大賞                                                                                                                                          |
-| 男子迷你劇最優秀演技賞                                                                                                                                 |
-| 女子迷你劇最優秀演技賞                                                                                                                                 |
-| 男子中篇劇最優秀演技賞                                                                                                                                 |
-| 女子中篇劇最優秀演技賞                                                                                                                                 |
-| 男子長篇劇最優秀演技賞                                                                                                                                 |
-| 女子長篇劇最優秀演技賞                                                                                                                                 |
-| 特別賞                                                                                                                                         |
-| 男子迷你劇優秀演技賞                                                                                                                                  |
-| 女子迷你劇優秀演技賞                                                                                                                                  |
-| 男子中篇劇優秀演技賞                                                                                                                                  |
-| 女子中篇劇優秀演技賞                                                                                                                                  |
-| 男子長篇劇優秀演技賞                                                                                                                                  |
-| 女子長篇劇優秀演技賞                                                                                                                                  |
-| PD賞                                                                                                                                         |
-| 男子迷你劇特別演技賞                                                                                                                                  |
-| 女子迷你劇特別演技賞                                                                                                                                  |
-| 男子中篇劇特別演技賞                                                                                                                                  |
-| 女子中篇劇特別演技賞                                                                                                                                  |
-| 男子長篇劇特別演技賞                                                                                                                                  |
-| 女子長篇劇特別演技賞                                                                                                                                  |
-| 男子獨幕劇特別演技賞                                                                                                                                  |
-| 女子獨幕劇特別演技賞                                                                                                                                  |
-| 最佳CP賞                                                                                                                                       |
-| 人氣賞                                                                                                                                         |
-| 十大明星賞                                                                                                                                       |
-| 功勞賞                                                                                                                                         |
-| 新星賞                                                                                                                                         |
-|                                                                                                                                             |
+| 主持：[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")、[李輝宰](../Page/李輝宰.md "wikilink")、[朴敘俊](../Page/朴敘俊.md "wikilink") |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| 獎項                                                                                                                       |
+| 大賞                                                                                                                       |
+| 男子迷你劇最優秀演技賞                                                                                                              |
+| 女子迷你劇最優秀演技賞                                                                                                              |
+| 男子中篇劇最優秀演技賞                                                                                                              |
+| 女子中篇劇最優秀演技賞                                                                                                              |
+| 男子長篇劇最優秀演技賞                                                                                                              |
+| 女子長篇劇最優秀演技賞                                                                                                              |
+| 特別賞                                                                                                                      |
+| 男子迷你劇優秀演技賞                                                                                                               |
+| 女子迷你劇優秀演技賞                                                                                                               |
+| 男子中篇劇優秀演技賞                                                                                                               |
+| 女子中篇劇優秀演技賞                                                                                                               |
+| 男子長篇劇優秀演技賞                                                                                                               |
+| 女子長篇劇優秀演技賞                                                                                                               |
+| PD賞                                                                                                                      |
+| 男子迷你劇特別演技賞                                                                                                               |
+| 女子迷你劇特別演技賞                                                                                                               |
+| 男子中篇劇特別演技賞                                                                                                               |
+| 女子中篇劇特別演技賞                                                                                                               |
+| 男子長篇劇特別演技賞                                                                                                               |
+| 女子長篇劇特別演技賞                                                                                                               |
+| 男子獨幕劇特別演技賞                                                                                                               |
+| 女子獨幕劇特別演技賞                                                                                                               |
+| 最佳CP賞                                                                                                                    |
+| 人氣賞                                                                                                                      |
+| 十大明星賞                                                                                                                    |
+| 功勞賞                                                                                                                      |
+| 新星賞                                                                                                                      |
+|                                                                                                                          |
 
 ### 第22届（2015年）
 
-| 主持：[劉俊相](../Page/劉俊相.md "wikilink")、[李輝宰](https://zh.wikipedia.org/wiki/李輝宰 "wikilink")、[林智妍](https://zh.wikipedia.org/wiki/林智妍 "wikilink") |
-| ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 獎項                                                                                                                                          |
-| 大賞                                                                                                                                          |
-| 男子迷你劇最優秀演技賞                                                                                                                                 |
-| 女子迷你劇最優秀演技賞                                                                                                                                 |
-| 男子中篇劇最優秀演技賞                                                                                                                                 |
-| 女子中篇劇最優秀演技賞                                                                                                                                 |
-| 男子長篇劇最優秀演技賞                                                                                                                                 |
-| 女子長篇劇最優秀演技賞                                                                                                                                 |
-| 男子迷你劇優秀演技賞                                                                                                                                  |
-| 女子迷你劇優秀演技賞                                                                                                                                  |
-| 男子中篇劇優秀演技賞                                                                                                                                  |
-| 女子中篇劇優秀演技賞                                                                                                                                  |
-| 男子長篇劇優秀演技賞                                                                                                                                  |
-| 女子長篇劇優秀演技賞                                                                                                                                  |
-| PD賞                                                                                                                                         |
-| 男子迷你劇特別演技賞                                                                                                                                  |
-| 女子迷你劇特別演技賞                                                                                                                                  |
-| 男子中篇劇特別演技賞                                                                                                                                  |
-| 女子中篇劇特別演技賞                                                                                                                                  |
-| 男子長篇劇特別演技賞                                                                                                                                  |
-| 女子長篇劇特別演技賞                                                                                                                                  |
-| 男子日日劇特別演技賞                                                                                                                                  |
-| 女子日日劇特別演技賞                                                                                                                                  |
-| 最佳CP賞                                                                                                                                       |
-| 人氣賞                                                                                                                                         |
-| 中國人氣賞                                                                                                                                       |
-| 十大明星賞                                                                                                                                       |
-| 功勞賞                                                                                                                                         |
-| 新星賞                                                                                                                                         |
-|                                                                                                                                             |
+| 主持：[劉俊相](../Page/劉俊相.md "wikilink")、[李輝宰](../Page/李輝宰.md "wikilink")、[林智妍](https://zh.wikipedia.org/wiki/林智妍 "wikilink") |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| 獎項                                                                                                                       |
+| 大賞                                                                                                                       |
+| 男子迷你劇最優秀演技賞                                                                                                              |
+| 女子迷你劇最優秀演技賞                                                                                                              |
+| 男子中篇劇最優秀演技賞                                                                                                              |
+| 女子中篇劇最優秀演技賞                                                                                                              |
+| 男子長篇劇最優秀演技賞                                                                                                              |
+| 女子長篇劇最優秀演技賞                                                                                                              |
+| 男子迷你劇優秀演技賞                                                                                                               |
+| 女子迷你劇優秀演技賞                                                                                                               |
+| 男子中篇劇優秀演技賞                                                                                                               |
+| 女子中篇劇優秀演技賞                                                                                                               |
+| 男子長篇劇優秀演技賞                                                                                                               |
+| 女子長篇劇優秀演技賞                                                                                                               |
+| PD賞                                                                                                                      |
+| 男子迷你劇特別演技賞                                                                                                               |
+| 女子迷你劇特別演技賞                                                                                                               |
+| 男子中篇劇特別演技賞                                                                                                               |
+| 女子中篇劇特別演技賞                                                                                                               |
+| 男子長篇劇特別演技賞                                                                                                               |
+| 女子長篇劇特別演技賞                                                                                                               |
+| 男子日日劇特別演技賞                                                                                                               |
+| 女子日日劇特別演技賞                                                                                                               |
+| 最佳CP賞                                                                                                                    |
+| 人氣賞                                                                                                                      |
+| 中國人氣賞                                                                                                                    |
+| 十大明星賞                                                                                                                    |
+| 功勞賞                                                                                                                      |
+| 新星賞                                                                                                                      |
+|                                                                                                                          |
 
 ### 第23届（2016年）
 
-| 主持：[张根硕](https://zh.wikipedia.org/wiki/张根硕 "wikilink")、[李輝宰](https://zh.wikipedia.org/wiki/李輝宰 "wikilink")、[珉雅](https://zh.wikipedia.org/wiki/珉雅 "wikilink") |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 獎項                                                                                                                                                           |
-| 大賞                                                                                                                                                           |
-| 幻想、體裁類電視劇 男子最優秀演技賞                                                                                                                                           |
-| 幻想、體裁類電視劇 女子最優秀演技賞                                                                                                                                           |
-| 浪漫類電視劇 男子最優秀演技賞                                                                                                                                              |
-| 浪漫類電視劇 女子最優秀演技賞                                                                                                                                              |
-| 長篇電視劇 男子最優秀演技賞                                                                                                                                               |
-| 長篇電視劇 女子最優秀演技賞                                                                                                                                               |
-| 幻想類電視劇 男子優秀演技賞                                                                                                                                               |
-| 幻想類電視劇 女子優秀演技賞                                                                                                                                               |
-| 體裁類電視劇 男子優秀演技賞                                                                                                                                               |
-| 體裁類電視劇 女子優秀演技賞                                                                                                                                               |
-| 浪漫類電視劇 男子優秀演技賞                                                                                                                                               |
-| 浪漫類電視劇 女子優秀演技賞                                                                                                                                               |
-| 長篇電視劇 男子優秀演技賞                                                                                                                                                |
-| 長篇電視劇 女子優秀演技賞                                                                                                                                                |
-| 幻想類電視劇 男子特別演技賞                                                                                                                                               |
-| 幻想類電視劇 女子特別演技賞                                                                                                                                               |
-| 體裁類電視劇 男子特別演技賞                                                                                                                                               |
-| 體裁類電視劇 女子特別演技賞                                                                                                                                               |
-| 浪漫類電視劇 男子特別演技賞                                                                                                                                               |
-| 浪漫類電視劇 女子特別演技賞                                                                                                                                               |
-| 長篇電視劇 男子特別演技賞                                                                                                                                                |
-| 長篇電視劇 女子特別演技賞                                                                                                                                                |
-| 最佳CP賞                                                                                                                                                        |
-| 韓流明星賞                                                                                                                                                        |
-| 十大明星賞                                                                                                                                                        |
-| 功勞賞                                                                                                                                                          |
-| 新星賞                                                                                                                                                          |
-| IDOL ACADEMY Kiss匠人賞                                                                                                                                         |
-| IDOL ACADEMY 吃相賞                                                                                                                                             |
-| IDOL ACADEMY 感動人物賞                                                                                                                                           |
+| 主持：[张根硕](https://zh.wikipedia.org/wiki/张根硕 "wikilink")、[李輝宰](../Page/李輝宰.md "wikilink")、[珉雅](https://zh.wikipedia.org/wiki/珉雅 "wikilink") |
+| ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 獎項                                                                                                                                        |
+| 大賞                                                                                                                                        |
+| 幻想、體裁類電視劇 男子最優秀演技賞                                                                                                                        |
+| 幻想、體裁類電視劇 女子最優秀演技賞                                                                                                                        |
+| 浪漫類電視劇 男子最優秀演技賞                                                                                                                           |
+| 浪漫類電視劇 女子最優秀演技賞                                                                                                                           |
+| 長篇電視劇 男子最優秀演技賞                                                                                                                            |
+| 長篇電視劇 女子最優秀演技賞                                                                                                                            |
+| 幻想類電視劇 男子優秀演技賞                                                                                                                            |
+| 幻想類電視劇 女子優秀演技賞                                                                                                                            |
+| 體裁類電視劇 男子優秀演技賞                                                                                                                            |
+| 體裁類電視劇 女子優秀演技賞                                                                                                                            |
+| 浪漫類電視劇 男子優秀演技賞                                                                                                                            |
+| 浪漫類電視劇 女子優秀演技賞                                                                                                                            |
+| 長篇電視劇 男子優秀演技賞                                                                                                                             |
+| 長篇電視劇 女子優秀演技賞                                                                                                                             |
+| 幻想類電視劇 男子特別演技賞                                                                                                                            |
+| 幻想類電視劇 女子特別演技賞                                                                                                                            |
+| 體裁類電視劇 男子特別演技賞                                                                                                                            |
+| 體裁類電視劇 女子特別演技賞                                                                                                                            |
+| 浪漫類電視劇 男子特別演技賞                                                                                                                            |
+| 浪漫類電視劇 女子特別演技賞                                                                                                                            |
+| 長篇電視劇 男子特別演技賞                                                                                                                             |
+| 長篇電視劇 女子特別演技賞                                                                                                                             |
+| 最佳CP賞                                                                                                                                     |
+| 韓流明星賞                                                                                                                                     |
+| 十大明星賞                                                                                                                                     |
+| 功勞賞                                                                                                                                       |
+| 新星賞                                                                                                                                       |
+| IDOL ACADEMY Kiss匠人賞                                                                                                                      |
+| IDOL ACADEMY 吃相賞                                                                                                                          |
+| IDOL ACADEMY 感動人物賞                                                                                                                        |
 
 ### 第24届（2017年）
 

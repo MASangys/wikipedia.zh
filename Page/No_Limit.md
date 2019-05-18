@@ -1,6 +1,6 @@
 《**No
 Limit**》為[日本團體](../Page/日本.md "wikilink")[放浪兄弟的第](../Page/放浪兄弟.md "wikilink")43張單曲，由[rhythm
-zone於](../Page/rhythm_zone.md "wikilink")2013年9月25日發行。
+zone於](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")2013年9月25日發行。
 
 ## 概要
 
@@ -11,7 +11,7 @@ Song](../Page/Flower_Song.md "wikilink")》後約三個月再次發行的新單�
 
 A面曲《No Limit》被選為[零系可口可樂](../Page/零系可口可樂.md "wikilink")「Endless
 Crave篇」和「Endless Crave -No
-Limit-篇」電視廣告歌曲，廣告由[MAKIDAI](../Page/MAKIDAI.md "wikilink")、[AKIRA](../Page/AKIRA.md "wikilink")、[TAKAHIRO](../Page/TAKAHIRO.md "wikilink")、[KENCHI](../Page/KENCHI.md "wikilink")、[KEIJI以及](../Page/KEIJI.md "wikilink")[TETSUYA出演](../Page/TETSUYA_\(舞者\).md "wikilink")\[2\]\[3\]；而B面曲則收錄了[EXILE
+Limit-篇」電視廣告歌曲，廣告由[MAKIDAI](../Page/MAKIDAI.md "wikilink")、[AKIRA](../Page/AKIRA.md "wikilink")、[TAKAHIRO](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")、[KENCHI](../Page/KENCHI.md "wikilink")、[KEIJI以及](../Page/KEIJI.md "wikilink")[TETSUYA出演](../Page/TETSUYA_\(舞者\).md "wikilink")\[2\]\[3\]；而B面曲則收錄了[EXILE
 ATSUSHI的](https://zh.wikipedia.org/wiki/EXILE_ATSUSHI "wikilink")「L'EST
 ROSE」廣告歌曲《Colorful Love》。
 

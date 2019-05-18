@@ -19,8 +19,7 @@ style="width:10%;"| 类型 \! style="width:15%;"| 开发商 \! style="width:15%;
 |[Rockstar North](../Page/Rockstar_North.md "wikilink") |[Rockstar
 Games](../Page/Rockstar_Games.md "wikilink") |-
 |[決勝時刻：黑色行動](../Page/決勝時刻：黑色行動.md "wikilink")
-|1200万\[2\] | | |第一人称射击游戏
-|[Treyarch](https://zh.wikipedia.org/wiki/Treyarch "wikilink")
+|1200万\[2\] | | |第一人称射击游戏 |[Treyarch](../Page/Treyarch.md "wikilink")
 |[美国动视](https://zh.wikipedia.org/wiki/美国动视 "wikilink") |-
 |[最後一戰3](../Page/最後一戰3.md "wikilink") |810万\[3\] | |
 |[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")
@@ -41,10 +40,10 @@ Games](../Page/Rockstar_Games.md "wikilink") |-
 |[美国动视](https://zh.wikipedia.org/wiki/美国动视 "wikilink") |-
 |[戰爭機器](../Page/戰爭機器_\(遊戲\).md "wikilink") |500万\[11\] | |
 |[第三人称射击游戏](https://zh.wikipedia.org/wiki/第三人称射击游戏 "wikilink")
-|[Epic Games](https://zh.wikipedia.org/wiki/Epic_Games "wikilink")
-|微软游戏工作室 |- |[戰爭機器2](../Page/戰爭機器2.md "wikilink") |500万\[12\]
-| | |第三人称射击游戏 |Epic Games |微软游戏工作室<includeonly> |}</includeonly>
-<noinclude> |- |[最後一戰：瑞曲之戰](../Page/最後一戰：瑞曲之戰.md "wikilink") |479万 |
+|[Epic Games](../Page/Epic_Games.md "wikilink") |微软游戏工作室 |-
+|[戰爭機器2](../Page/戰爭機器2.md "wikilink") |500万\[12\] | | |第三人称射击游戏
+|Epic Games |微软游戏工作室<includeonly> |}</includeonly> <noinclude> |-
+|[最後一戰：瑞曲之戰](../Page/最後一戰：瑞曲之戰.md "wikilink") |479万 |
 
   - 北美市场474万\[13\]
   - 日本市场53,126\[14\]
@@ -129,8 +128,9 @@ Studios](https://zh.wikipedia.org/wiki/Bethesda_Game_Studios "wikilink")
 |[2K Games](../Page/2K_Games.md "wikilink") |- | |美国市场187万\[48\] | |
 |[體育類遊戲](https://zh.wikipedia.org/wiki/體育類遊戲 "wikilink") |[EA
 Tiburon](../Page/EA_Tiburon.md "wikilink") |[EA
-Sports](https://zh.wikipedia.org/wiki/EA_Sports "wikilink") |-
-|[荒野大镖客：救赎](../Page/荒野大镖客：救赎.md "wikilink") |186.5万 |
+Sports](../Page/EA_Sports.md "wikilink") |-
+|[荒野大镖客：救赎](../Page/荒野大镖客：救赎.md "wikilink")
+|186.5万 |
 
   - 美国市场152.8万\[49\]\[50\]
   - 英国市场30万\[51\]
@@ -182,8 +182,8 @@ shooter](https://zh.wikipedia.org/wiki/Tactical_shooter "wikilink")
 |150万\[68\] | | |第一人称射击游戏 |[Irrational
 Games](../Page/Irrational_Games.md "wikilink") |2K Games |- |
 |150万\[69\] | | |第三人称射击游戏 |[Realtime
-Worlds](https://zh.wikipedia.org/wiki/Realtime_Worlds "wikilink")
-|微软游戏工作室 |- |[辐射3](../Page/辐射3.md "wikilink") |151万 |
+Worlds](../Page/Realtime_Worlds.md "wikilink") |微软游戏工作室 |-
+|[辐射3](../Page/辐射3.md "wikilink") |151万 |
 
   - 北美市场114万\[70\]
   - 63,548 regular, 6,681 Game of the Year edition，4,262 Platinum

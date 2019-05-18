@@ -67,7 +67,7 @@ i全系列型號均全數支援，不過這些處理器同時也支援DDR3L記�
 Ridge」的[AMD
 APU](https://zh.wikipedia.org/wiki/AMD_APU "wikilink")，僅支援DDR4
 SDRAM，採用[Socket
-AM4插座](https://zh.wikipedia.org/wiki/Socket_AM4 "wikilink")。\[57\]2017年3月發表的基於[Zen微架構的](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")[Ryzen系列處理器上](https://zh.wikipedia.org/wiki/AMD_Ryzen "wikilink")，這些處理器也使用Socket
+AM4插座](../Page/Socket_AM4.md "wikilink")。\[57\]2017年3月發表的基於[Zen微架構的](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")[Ryzen系列處理器上](../Page/AMD_Ryzen.md "wikilink")，這些處理器也使用Socket
 AM4，僅支援DDR4記憶體。
 
 ## 效能提升
@@ -532,7 +532,7 @@ DDR4-3200AC</p></td>
   - [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
   - [DDR2 SDRAM](../Page/DDR2_SDRAM.md "wikilink")
   - [DDR3 SDRAM](../Page/DDR3_SDRAM.md "wikilink")
-  - [GDDR6](https://zh.wikipedia.org/wiki/GDDR6 "wikilink")
+  - [GDDR6](../Page/GDDR6.md "wikilink")
   - [RDRAM](../Page/RDRAM.md "wikilink")
 
 ## 腳註

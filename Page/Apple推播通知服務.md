@@ -1,7 +1,7 @@
 **Apple
-推送通知服务**是[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")2009年6月17日随[iOS](../Page/iOS.md "wikilink")
+推送通知服务**是[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")2009年6月17日随[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
 3.0推出的一项服务。\[1\]它通过长IP连接[推送技术从第三方应用向苹果设备提供推送](../Page/推送技术.md "wikilink")，通知中可能包括标记、声音、提醒/横幅。在[iOS
-5中](../Page/iOS_5.md "wikilink")，[通知中心加强了推送和本地通知的用户体验](https://zh.wikipedia.org/wiki/通知中心 "wikilink")。Apple
+5中](https://zh.wikipedia.org/wiki/iOS_5 "wikilink")，[通知中心加强了推送和本地通知的用户体验](https://zh.wikipedia.org/wiki/通知中心 "wikilink")。Apple
 推送通知服务也以API的形式添加到了[Mac OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") v10.7
 “[Lion](../Page/Mac_OS_X_Lion.md "wikilink")”中以便开发者使用，\[2\]并在[OS X

@@ -4,10 +4,10 @@
 
   - [麻省理工學院](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")（）
   - [東京都市大學](../Page/東京都市大學.md "wikilink")（）
-  - [前橋工科大學](https://zh.wikipedia.org/wiki/前橋工科大學 "wikilink")（）
+  - [前橋工科大學](../Page/前橋工科大學.md "wikilink")（）
   - [緬甸神學院](../Page/緬甸神學院.md "wikilink")（）
   - [室蘭工業大學](../Page/室蘭工業大學.md "wikilink")（）
-  - [瑪布亞科技學院](https://zh.wikipedia.org/wiki/瑪布亞科技學院 "wikilink")（）
+  - [瑪布亞科技學院](../Page/瑪布亞科技學院.md "wikilink")（）
 
 ## 其他
 

@@ -4,7 +4,7 @@
 6的[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。使用了高通四核心Snapdragon
 400處理器、4.7吋960x540 Super LCD2螢幕、F/2.4的800萬畫素相機、130萬畫素前置相機、HTC BoomSound™
 立體聲音響，內建8GB [ROM](../Page/唯讀記憶體.md "wikilink")、1GB
-[RAM](https://zh.wikipedia.org/wiki/隨機存取存儲器 "wikilink")，支援[microSD最高可以擴充到](../Page/microSD.md "wikilink")128GB。除擁有HTC
+[RAM](https://zh.wikipedia.org/wiki/隨機存取存儲器 "wikilink")，支援[microSD最高可以擴充到](https://zh.wikipedia.org/wiki/microSD "wikilink")128GB。除擁有HTC
 BlinkFeed™ 首頁外，更提供Video
 Highlights生活微電影能將拍攝的照片與影片自動轉輯為精華影片，內建多種主題特效與配樂及多種相片編輯功能，慢動作影片還可任意選擇片段，加以慢速播放。\[1\]
 

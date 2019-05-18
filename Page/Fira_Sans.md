@@ -19,7 +19,7 @@ Sans，添加了更多语言支持，并将在未来持续更新。\[3\]
 
   - [Fira
     Sans字型](https://github.com/buildingfirefoxos/Building-Blocks/tree/gh-pages/fonts/FiraSans)，在[GitHub](../Page/GitHub.md "wikilink")
-  - [FiraGO字型](https://github.com/bBoxType/FiraGO)，在[Github](../Page/Github.md "wikilink")
+  - [FiraGO字型](https://github.com/bBoxType/FiraGO)，在[Github](https://zh.wikipedia.org/wiki/Github "wikilink")
 
 [Category:Firefox_OS](https://zh.wikipedia.org/wiki/Category:Firefox_OS "wikilink")
 [Category:无衬线字体](https://zh.wikipedia.org/wiki/Category:无衬线字体 "wikilink")

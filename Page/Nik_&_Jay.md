@@ -25,7 +25,7 @@ himlen"（亲近天堂）。
 <th style="text-align: center;"><p>发行年</p></th>
 <th style="text-align: center;"><p>唱片</p></th>
 <th style="text-align: center;"><p>最高排名</p></th>
-<th style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/音乐唱片销售认证" title="wikilink">音乐唱片销售认证</a></p></th>
+<th style="text-align: center;"><p><a href="../Page/音乐唱片销售认证.md" title="wikilink">音乐唱片销售认证</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -83,7 +83,7 @@ himlen"（亲近天堂）。
 <th style="text-align: center;"><p>发行年</p></th>
 <th style="text-align: center;"><p>唱片</p></th>
 <th style="text-align: center;"><p>最高排名</p></th>
-<th style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/音乐唱片销售认证" title="wikilink">音乐唱片销售认证</a></p></th>
+<th style="text-align: center;"><p><a href="../Page/音乐唱片销售认证.md" title="wikilink">音乐唱片销售认证</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -117,7 +117,7 @@ himlen"（亲近天堂）。
 <th style="text-align: center;"><p>发行年</p></th>
 <th style="text-align: center;"><p>唱片</p></th>
 <th style="text-align: center;"><p>最高排名</p></th>
-<th style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/音乐唱片销售认证" title="wikilink">音乐唱片销售认证</a></p></th>
+<th style="text-align: center;"><p><a href="../Page/音乐唱片销售认证.md" title="wikilink">音乐唱片销售认证</a></p></th>
 <th style="text-align: center;"><p>注明</p></th>
 </tr>
 </thead>
@@ -162,7 +162,7 @@ himlen"（亲近天堂）。
 <th style="text-align: center;"><p>发行年</p></th>
 <th style="text-align: center;"><p>唱片</p></th>
 <th style="text-align: center;"><p>最高排名</p></th>
-<th style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/音乐唱片销售认证" title="wikilink">音乐唱片销售认证</a></p></th>
+<th style="text-align: center;"><p><a href="../Page/音乐唱片销售认证.md" title="wikilink">音乐唱片销售认证</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -196,7 +196,7 @@ himlen"（亲近天堂）。
 <th><p>发行年</p></th>
 <th><p>单曲</p></th>
 <th><p>最高排名</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/音乐唱片销售认证" title="wikilink">音乐唱片销售认证</a></p></th>
+<th><p><a href="../Page/音乐唱片销售认证.md" title="wikilink">音乐唱片销售认证</a></p></th>
 <th><p>唱片</p></th>
 </tr>
 </thead>
@@ -450,7 +450,7 @@ himlen"（亲近天堂）。
 <th><p>发行年</p></th>
 <th><p>单曲</p></th>
 <th><p>最高排名</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/音乐唱片销售认证" title="wikilink">音乐唱片销售认证</a></p></th>
+<th><p><a href="../Page/音乐唱片销售认证.md" title="wikilink">音乐唱片销售认证</a></p></th>
 <th><p>唱片</p></th>
 </tr>
 </thead>

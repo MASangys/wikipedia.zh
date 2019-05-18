@@ -5,7 +5,7 @@ Ukorochennaya，意為：短狙擊步槍；型號編號：OTs-03，）是一款�
 
 ## 歷史
 
-早在1970年，就開始在SVD的基礎上為[空降部隊研製一款縮短型狙擊步槍的設計](../Page/空降部隊.md "wikilink")，但在那之前的工業生產處理沒有出現。直到在1990年代初期，因應[俄罗斯联邦内务部](../Page/俄罗斯联邦内务部.md "wikilink")，如旗下[特種部隊](../Page/特種部隊.md "wikilink")[特別用途機動單位](https://zh.wikipedia.org/wiki/特別用途機動單位 "wikilink")（，簡稱：ОМОН；[俄语罗马化](../Page/俄语罗马化.md "wikilink")：，簡稱：OMON）的要求，為了方便在建築物中進行火力支援而研發的。
+早在1970年，就開始在SVD的基礎上為[空降部隊研製一款縮短型狙擊步槍的設計](../Page/空降部隊.md "wikilink")，但在那之前的工業生產處理沒有出現。直到在1990年代初期，因應[俄罗斯联邦内务部](../Page/俄罗斯联邦内务部.md "wikilink")，如旗下[特種部隊](../Page/特種部隊.md "wikilink")[特別用途機動單位](../Page/特別用途機動單位.md "wikilink")（，簡稱：ОМОН；[俄语罗马化](../Page/俄语罗马化.md "wikilink")：，簡稱：OMON）的要求，為了方便在建築物中進行火力支援而研發的。
 由於特警隊平均交火距離不超過100公尺（109.36
 [码](https://zh.wikipedia.org/wiki/码 "wikilink")，328.08英尺），因此短管的SVU並無損其較短的有效射程，加上其870毫米（34.25英吋）的槍身於狹小空間內運動遊刃有餘，因此這款狙擊武器適合[城市環境](../Page/城鎮戰.md "wikilink")。內務部接收了SVU以後不久，再要研發一個可連續射擊的版本（即SVU-A）。\[1\]
 
@@ -15,7 +15,7 @@ SVU被發現在[第一次車臣戰爭期間首次使用](../Page/第一次車臣
 
 雖然[7.62×54R](../Page/7.62×54mmR.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈的威力綽綽有餘](../Page/子彈.md "wikilink")，但是為了抑止[後座力並增加射擊穩定度](../Page/後座力.md "wikilink")，SVU加入一種特殊的大型[槍口制退器](../Page/砲口制動器.md "wikilink")。它採用了與、[消聲器等其他槍口裝置整合在一起的三重檔板設計](../Page/抑制器.md "wikilink")；據信可以消除高達40％的反衝力道，而步槍的槍口[噪音也藉由加入了消聲器的結構而有所改善](../Page/噪音.md "wikilink")。[槍托與片狀彈簧的彈性為非剛性與](../Page/槍托.md "wikilink")[機匣連接的](https://zh.wikipedia.org/wiki/機匣 "wikilink")。SVU在SVD之上的其他主要改進包括更換槍托、、扳機和瞄準鏡的安裝位置，亦將[槍管縮短了](../Page/槍管.md "wikilink")100毫米，使武器取得了完美的平衡。SVU-A和SVU-AS更採用了經過改進、類似[斯泰爾AUG突擊步槍的射控扳機機構](../Page/斯泰爾AUG突擊步槍.md "wikilink")，輕按扳機只能單發，完全按下扳機便是[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。\[2\]該槍的零件是由[聚酰胺所製成](../Page/聚酰胺.md "wikilink")。\[3\]
 
-雖然SVU保留了[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")，但由於槍身縮短，以致於傳統[照門與](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星均改為摺疊式以免干擾PSO](https://zh.wikipedia.org/wiki/照準器 "wikilink")-1光學瞄準鏡操作；而且SVU幾乎總是裝上具有照明的[PSO-1光學瞄準鏡](../Page/PSO-1光學瞄準鏡.md "wikilink")，但也可以安裝其他俄羅斯瞄準鏡。PSO-1光學瞄準鏡的分劃板是在全世界上的狙擊鏡之中幾乎是獨一無二的設計，位於其分劃的左下角測距板，在中間可以發現具有[彈著補助](https://zh.wikipedia.org/wiki/彈著補助 "wikilink")（，簡稱：BDC）的多重「∧」（人字形）設計，以及分劃板中心的左右兩邊的風偏測距儀規正板標記。分劃板也是由放射性[氚光所照明](../Page/氚.md "wikilink")，而不是一個小型電池供電式電燈照明。SVU還配備了一個可調節式特製[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，為了保證[自由浮動式槍管的](../Page/自由浮動式槍管.md "wikilink")[精度不會受到影響](../Page/準確與精密.md "wikilink")，而安裝在扳機以前的[護木上](https://zh.wikipedia.org/wiki/護木 "wikilink")，通過一根連桿延伸至接近槍口的位置。雖然對於狙擊步槍而言是多餘的，SVU的[刺刀](../Page/刺刀.md "wikilink")設置於前[護木下方](https://zh.wikipedia.org/wiki/護木 "wikilink")。
+雖然SVU保留了[機械瞄具](../Page/機械瞄具.md "wikilink")，但由於槍身縮短，以致於傳統[照門與](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星均改為摺疊式以免干擾PSO](../Page/照準器.md "wikilink")-1光學瞄準鏡操作；而且SVU幾乎總是裝上具有照明的[PSO-1光學瞄準鏡](../Page/PSO-1光學瞄準鏡.md "wikilink")，但也可以安裝其他俄羅斯瞄準鏡。PSO-1光學瞄準鏡的分劃板是在全世界上的狙擊鏡之中幾乎是獨一無二的設計，位於其分劃的左下角測距板，在中間可以發現具有[彈著補助](https://zh.wikipedia.org/wiki/彈著補助 "wikilink")（，簡稱：BDC）的多重「∧」（人字形）設計，以及分劃板中心的左右兩邊的風偏測距儀規正板標記。分劃板也是由放射性[氚光所照明](../Page/氚.md "wikilink")，而不是一個小型電池供電式電燈照明。SVU還配備了一個可調節式特製[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，為了保證[自由浮動式槍管的](../Page/自由浮動式槍管.md "wikilink")[精度不會受到影響](../Page/準確與精密.md "wikilink")，而安裝在扳機以前的[護木上](https://zh.wikipedia.org/wiki/護木 "wikilink")，通過一根連桿延伸至接近槍口的位置。雖然對於狙擊步槍而言是多餘的，SVU的[刺刀](../Page/刺刀.md "wikilink")設置於前[護木下方](https://zh.wikipedia.org/wiki/護木 "wikilink")。
 
 SVU在中距離的射擊精度類似於SVD。SVU-A和SVU-AS雖然能[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")，但是只能在緊急情況（例如在近身混戰之中，遇上了構成威脅狙擊手的生命時）以下使用，因為發射威力強大的子彈和步槍的輕便槍身會令全自動射擊時的[後座力非常驚人](../Page/後座力.md "wikilink")，而且狙擊步槍本身也不允許長時間全自動射擊。\[4\]
 
@@ -43,7 +43,7 @@ SVU在中距離的射擊精度類似於SVD。SVU-A和SVU-AS雖然能[全自動�
 <td><p>SVD-M</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/CS/LR19型狙擊步槍" title="wikilink">CS/LR19</a></p></td>
 <td><p>獵用步槍“Tigr-9”[10]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SVDK狙擊步槍" title="wikilink">SVDK</a></p></td>
+<td><p><a href="../Page/SVDK狙擊步槍.md" title="wikilink">SVDK</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/子彈.md" title="wikilink">子彈</a>：</p></td>
@@ -129,11 +129,11 @@ SVU在中距離的射擊精度類似於SVD。SVU-A和SVU-AS雖然能[全自動�
     zh-mo:使命召喚：黑色行動2;}-](https://zh.wikipedia.org/wiki/決勝時刻：黑色行動2 "wikilink")》：型號為SVU-AS，命名為「SVU-AS」，具有暗紅色[碳纖維效果的前](../Page/碳纖維.md "wikilink")[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")，奇怪的沒有空倉掛機。使用12發[彈匣](../Page/彈匣.md "wikilink")（可使用改裝：延長彈匣，故事模式時增至17發，聯機模式時則增至16發），初始攜彈量為108發（故事模式）、36發（聯機模式）和96發（殭屍模式），最高攜彈量為240發（故事模式）、96發（聯機模式）和96發（殭屍模式）並具有其預設狙擊鏡。故事模式時完成「得不償失」（[Pyrrhic
     Victory](../Page/皮洛士式胜利.md "wikilink")）戰役以後解鎖，並於2025年戰役中使用；聯機模式之中於等級4解鎖，並可以使用[消音器](../Page/抑制器.md "wikilink")、[彈道](../Page/弹道学.md "wikilink")[處理器](../Page/中央处理器.md "wikilink")、[可變倍率式瞄準鏡](https://zh.wikipedia.org/wiki/望远镜放大倍数 "wikilink")（狙擊鏡）、快速重裝彈匣、、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[AN/PEQ-2A](https://zh.wikipedia.org/wiki/AN/PEQ-2雷射瞄準器 "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[雙波段式瞄準鏡](https://zh.wikipedia.org/wiki/雙波段式瞄準鏡 "wikilink")；殭屍模式時需要1,000點點數從神秘箱隨機取得，另有一款衍生型稱作「神出鬼沒的面紗效用器」（Shadowy
     Veil Utilizer），12發彈匣，最高攜彈量提升至192發，並可以使用可變倍率式瞄準鏡。
-  - 2012年—《[战争前线](https://zh.wikipedia.org/wiki/战争前线 "wikilink")》：型号为SVU-AS，命名为“SVU-AS”，哑黑色枪身并以加装导轨镜桥而非直接使用[PSO-1光學瞄準鏡](../Page/PSO-1光學瞄準鏡.md "wikilink")，使用全自动射击模式，15发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")。为狙击手专用武器，通过抽奖获得，可以改装瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜、[狙击枪4x短程瞄准镜](https://zh.wikipedia.org/wiki/Trijicon_TR20瞄准镜 "wikilink")、狙击槍5x快速瞄准镜），并可以以通过更换战术导轨配件的方式选择脚架收纳或者展开。默认为收纳脚架，提高武器切换速度以及腰射精度；展开脚架的效果等同于特殊狙击枪双脚架，奇怪的拥有消音器却不算为消音武器。拥有黄金版本，增加腰射精度以及载弹量。
+  - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》：型号为SVU-AS，命名为“SVU-AS”，哑黑色枪身并以加装导轨镜桥而非直接使用[PSO-1光學瞄準鏡](../Page/PSO-1光學瞄準鏡.md "wikilink")，使用全自动射击模式，15发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")。为狙击手专用武器，通过抽奖获得，可以改装瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜、[狙击枪4x短程瞄准镜](https://zh.wikipedia.org/wiki/Trijicon_TR20瞄准镜 "wikilink")、狙击槍5x快速瞄准镜），并可以以通过更换战术导轨配件的方式选择脚架收纳或者展开。默认为收纳脚架，提高武器切换速度以及腰射精度；展开脚架的效果等同于特殊狙击枪双脚架，奇怪的拥有消音器却不算为消音武器。拥有黄金版本，增加腰射精度以及载弹量。
   - 2013年—《[-{zh-cn:细胞分裂;
     zh-tw:縱橫諜海;}-：黑名單](../Page/縱橫諜海：黑名單.md "wikilink")》：型號為SVU，命名為「SVU」。敵方的SVU會裝上[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
   - 2013年—《[-{zh-cn:使命召唤：幽灵;
-    zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》：型號為SVU-AS，命名為「SVU-AS」，黑色槍身，10發（故事模式）和17發（聯機模式）[彈匣](../Page/彈匣.md "wikilink")（聯機模式時可使用改裝：延長彈匣增至27發），初始攜彈量為36發（聯機模式），最高攜彈量為108發（聯機模式），具有其預設狙擊鏡。故事模式之中被敵軍「聯邦」（Federation）所使用；聯機模式時可以使用[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/EOTech全息瞄準鏡 "wikilink")、[熱能探測混合式瞄準鏡](../Page/热能.md "wikilink")、、[消音器](../Page/抑制器.md "wikilink")、[槍口制退器](../Page/砲口制動器.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")、[三發點放](../Page/三發點放.md "wikilink")。
+    zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》：型號為SVU-AS，命名為「SVU-AS」，黑色槍身，10發（故事模式）和17發（聯機模式）[彈匣](../Page/彈匣.md "wikilink")（聯機模式時可使用改裝：延長彈匣增至27發），初始攜彈量為36發（聯機模式），最高攜彈量為108發（聯機模式），具有其預設狙擊鏡。故事模式之中被敵軍「聯邦」（Federation）所使用；聯機模式時可以使用[機械瞄具](../Page/機械瞄具.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/EOTech全息瞄準鏡 "wikilink")、[熱能探測混合式瞄準鏡](../Page/热能.md "wikilink")、、[消音器](../Page/抑制器.md "wikilink")、[槍口制退器](../Page/砲口制動器.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")、[三發點放](../Page/三發點放.md "wikilink")。
   - 2015年—《[-{zh-cn:彩虹六号：围攻行动;
     zh-tw:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》：被[俄罗斯特种部队所使用](../Page/俄罗斯特种部队.md "wikilink")，命名為「OTs-03」。
 
@@ -153,9 +153,8 @@ MAKS-2009.jpg|2009年[莫斯科国际航空航天展览会](../Page/莫斯科国
 ## 參見
 
   - [SVD狙擊步槍](../Page/SVD狙擊步槍.md "wikilink")
-  - [SVDK狙擊步槍](https://zh.wikipedia.org/wiki/SVDK狙擊步槍 "wikilink")
-  - [ORSIS
-    T-5000](https://zh.wikipedia.org/wiki/奧爾西T-5000狙擊步槍 "wikilink")
+  - [SVDK狙擊步槍](../Page/SVDK狙擊步槍.md "wikilink")
+  - [ORSIS T-5000](../Page/奧爾西T-5000狙擊步槍.md "wikilink")
   - [SVD](../Page/SVD狙擊步槍.md "wikilink")
   - [SV-98](../Page/SV-98狙擊步槍.md "wikilink")
   - [SV-99](../Page/SV-99狙擊步槍.md "wikilink")

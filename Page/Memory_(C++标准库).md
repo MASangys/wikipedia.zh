@@ -13,7 +13,7 @@
 
 ## 智能指针
 
-[智能指针是指当指针对象的生命期结束析构时](../Page/智能指针.md "wikilink")，同时把指针所指的对象也delete或者[引用计数减](https://zh.wikipedia.org/wiki/引用计数 "wikilink")1。
+[智能指针是指当指针对象的生命期结束析构时](../Page/智能指针.md "wikilink")，同时把指针所指的对象也delete或者[引用计数减](../Page/引用计数.md "wikilink")1。
 
 ### unique_ptr
 

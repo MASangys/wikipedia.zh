@@ -59,7 +59,7 @@ feat.初音ミク](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalonexus
 <td><p>2009年6月17日</p></td>
 <td><p>QWCE-00110</p></td>
 <td><p>10位</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三輪士郎" title="wikilink">三輪士郎</a></p></td>
+<td><p><a href="../Page/三輪士郎.md" title="wikilink">三輪士郎</a></p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
@@ -150,19 +150,19 @@ feat.初音ミク](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalonexus
 
 ○為參加，-為否、△為參加但未正名。
 
-| \# | [初音未來](../Page/初音未來.md "wikilink") | [鏡音鈴、連](../Page/鏡音鈴、連.md "wikilink") | [巡音流歌](../Page/巡音流歌.md "wikilink") | [MEIKO](../Page/MEIKO.md "wikilink") | [KAITO](../Page/KAITO.md "wikilink") | [Gackpoid](../Page/Gackpoid.md "wikilink") | [Megpoid](../Page/Megpoid.md "wikilink") | IA | MAYU | [Lily](../Page/Lily.md "wikilink") | [重音teto](../Page/重音teto.md "wikilink") |
-| -- | ---------------------------------- | ------------------------------------ | ---------------------------------- | ------------------------------------ | ------------------------------------ | ------------------------------------------ | ---------------------------------------- | -- | ---- | ---------------------------------- | -------------------------------------- |
-| 1  | ○                                  | \-                                   | \-                                 | \-                                   | \-                                   | \-                                         | \-                                       | \- | \-   | \-                                 | \-                                     |
-| 2  | ○                                  | ○                                    | ○                                  | ○                                    | ○                                    | \-                                         | \-                                       | \- | \-   | \-                                 | \-                                     |
-| 3  | ○                                  | ○                                    | ○                                  | \-                                   | \-                                   | \-                                         | \-                                       | \- | \-   | \-                                 | \-                                     |
-| 4  | ○                                  | ○                                    | ○                                  | ○                                    | ○                                    | △\[18\]                                    | \-                                       | \- | \-   | \-                                 | \-                                     |
-| 5  | ○                                  | ○                                    | ○                                  | ○                                    | ○                                    | \-                                         | \-                                       | \- | \-   | \-                                 | ○\[19\]                                |
-| 6  | ○                                  | ○                                    | ○                                  | ○                                    | ○                                    | ○                                          | ○                                        | \- | \-   | \-                                 | \-                                     |
-| 7  | ○                                  | ○                                    | ○                                  | ○                                    | ○                                    | ○                                          | ○                                        | \- | \-   | \-                                 | \-                                     |
-| 8  | ○                                  | ○                                    | ○                                  | ○                                    | ○                                    | ○                                          | ○                                        | \- | \-   | \-                                 | \-                                     |
-| 9  | ○                                  | ○                                    | ○                                  | ○                                    | ○                                    | ○                                          | ○                                        | \- | \-   | \-                                 | \-                                     |
-| 10 | ○                                  | ○                                    | ○                                  | ○                                    | ○                                    | ○                                          | ○                                        | ○  | \-   | \-                                 | \-                                     |
-| 11 | ○                                  | ○                                    | ○                                  | ○                                    | ○                                    | ○                                          | ○                                        | ○  | ○    | ○                                  | \-                                     |
+| \# | [初音未來](../Page/初音未來.md "wikilink") | [鏡音鈴、連](../Page/鏡音鈴、連.md "wikilink") | [巡音流歌](../Page/巡音流歌.md "wikilink") | [MEIKO](https://zh.wikipedia.org/wiki/MEIKO "wikilink") | [KAITO](https://zh.wikipedia.org/wiki/KAITO "wikilink") | [Gackpoid](../Page/Gackpoid.md "wikilink") | [Megpoid](../Page/Megpoid.md "wikilink") | IA | MAYU | [Lily](../Page/Lily.md "wikilink") | [重音teto](https://zh.wikipedia.org/wiki/重音teto "wikilink") |
+| -- | ---------------------------------- | ------------------------------------ | ---------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------ | ---------------------------------------- | -- | ---- | ---------------------------------- | --------------------------------------------------------- |
+| 1  | ○                                  | \-                                   | \-                                 | \-                                                      | \-                                                      | \-                                         | \-                                       | \- | \-   | \-                                 | \-                                                        |
+| 2  | ○                                  | ○                                    | ○                                  | ○                                                       | ○                                                       | \-                                         | \-                                       | \- | \-   | \-                                 | \-                                                        |
+| 3  | ○                                  | ○                                    | ○                                  | \-                                                      | \-                                                      | \-                                         | \-                                       | \- | \-   | \-                                 | \-                                                        |
+| 4  | ○                                  | ○                                    | ○                                  | ○                                                       | ○                                                       | △\[18\]                                    | \-                                       | \- | \-   | \-                                 | \-                                                        |
+| 5  | ○                                  | ○                                    | ○                                  | ○                                                       | ○                                                       | \-                                         | \-                                       | \- | \-   | \-                                 | ○\[19\]                                                   |
+| 6  | ○                                  | ○                                    | ○                                  | ○                                                       | ○                                                       | ○                                          | ○                                        | \- | \-   | \-                                 | \-                                                        |
+| 7  | ○                                  | ○                                    | ○                                  | ○                                                       | ○                                                       | ○                                          | ○                                        | \- | \-   | \-                                 | \-                                                        |
+| 8  | ○                                  | ○                                    | ○                                  | ○                                                       | ○                                                       | ○                                          | ○                                        | \- | \-   | \-                                 | \-                                                        |
+| 9  | ○                                  | ○                                    | ○                                  | ○                                                       | ○                                                       | ○                                          | ○                                        | \- | \-   | \-                                 | \-                                                        |
+| 10 | ○                                  | ○                                    | ○                                  | ○                                                       | ○                                                       | ○                                          | ○                                        | ○  | \-   | \-                                 | \-                                                        |
+| 11 | ○                                  | ○                                    | ○                                  | ○                                                       | ○                                                       | ○                                          | ○                                        | ○  | ○    | ○                                  | \-                                                        |
 
 ### 參與的創作者
 
@@ -172,12 +172,12 @@ feat.初音ミク](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalonexus
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/cosMo" title="wikilink">cosMo@暴走P</a>（EXIT TUNES）</li>
 <li><a href="../Page/OSTER_project.md" title="wikilink">OSTER project</a>（MOER→<a href="../Page/5pb..md" title="wikilink">5pb.</a>→<a href="https://zh.wikipedia.org/wiki/ドワンゴ・ユーザーエンタテインメント" title="wikilink">dmARTS</a>）</li>
-<li><a href="../Page/livetune.md" title="wikilink">livetune</a>（<a href="https://zh.wikipedia.org/wiki/ビクターエンタテインメント" title="wikilink">ビクターエンタテインメント</a>→<a href="https://zh.wikipedia.org/wiki/トイズファクトリー" title="wikilink">トイズファクトリー</a>）</li>
+<li><a href="https://zh.wikipedia.org/wiki/livetune" title="wikilink">livetune</a>（<a href="https://zh.wikipedia.org/wiki/ビクターエンタテインメント" title="wikilink">ビクターエンタテインメント</a>→<a href="https://zh.wikipedia.org/wiki/トイズファクトリー" title="wikilink">トイズファクトリー</a>）</li>
 <li><a href="https://zh.wikipedia.org/wiki/doriko" title="wikilink">doriko</a>（MOER→5pb.→dmARTS）</li>
 <li>azuma（EXIT TUNES）</li>
 <li><p>（EXIT TUNES）</p></li>
 <li><a href="https://zh.wikipedia.org/wiki/baker_(日本的音樂家)" title="wikilink">baker</a>（ビクターエンタテインメント）</li>
-<li><a href="../Page/minato.md" title="wikilink">minato</a>（MOER）</li>
+<li><a href="https://zh.wikipedia.org/wiki/minato" title="wikilink">minato</a>（MOER）</li>
 <li><a href="https://zh.wikipedia.org/wiki/トラボルタ" title="wikilink">トラボルタ</a>（EXIT TUNES）</li>
 <li><a href="https://zh.wikipedia.org/wiki/WhiteFlame" title="wikilink">WhiteFlame</a>（<a href="https://zh.wikipedia.org/wiki/ティー_ワイ_エンタテインメント" title="wikilink">ティー ワイ エンタテインメント</a>→<a href="https://zh.wikipedia.org/wiki/HPQ_(エイベックスのレコードレーベル)" title="wikilink">HPQ</a>）</li>
 <li><a href="https://zh.wikipedia.org/wiki/ラマーズP" title="wikilink">ラマーズP</a>（EXIT TUNES）</li>
@@ -185,7 +185,7 @@ feat.初音ミク](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalonexus
 <li><p>（EXIT TUNES）</p></li>
 <li><a href="https://zh.wikipedia.org/wiki/ジミーサムP" title="wikilink">ジミーサムP</a>（MOER→5pb.→EXIT TUNES）</li>
 <li><p>（EXIT TUNES）</p></li>
-<li><a href="https://zh.wikipedia.org/wiki/WOWAKA" title="wikilink">wowaka</a>（BALLOOM）</li>
+<li><a href="../Page/WOWAKA.md" title="wikilink">wowaka</a>（BALLOOM）</li>
 <li>うたたP（EXIT TUNES）</li>
 <li><a href="../Page/米津玄師.md" title="wikilink">ハチ(米津玄師)</a>（<a href="https://zh.wikipedia.org/wiki/ユニバーサルミュージック_(日本)" title="wikilink">ユニバーサルミュージック</a>）</li>
 <li>otetsu（EXIT TUNES）</li>
@@ -216,7 +216,7 @@ feat.初音ミク](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalonexus
 <li><a href="https://zh.wikipedia.org/wiki/Jin" title="wikilink">じん</a>（1st PLACE）</li>
 <li>150P（ビクターエンタテインメント）</li>
 <li><a href="https://zh.wikipedia.org/wiki/buzzG" title="wikilink">buzzG</a>（ビクターエンタテインメント→EXIT TUNES）</li>
-<li><a href="../Page/kemu.md" title="wikilink">kemu</a>（<a href="https://zh.wikipedia.org/wiki/HPQ_(エイベックスのレコードレーベル)" title="wikilink">HPQ</a>）</li>
+<li><a href="https://zh.wikipedia.org/wiki/kemu" title="wikilink">kemu</a>（<a href="https://zh.wikipedia.org/wiki/HPQ_(エイベックスのレコードレーベル)" title="wikilink">HPQ</a>）</li>
 <li>keeno（EXIT TUNES）</li>
 </ul></td>
 </tr>

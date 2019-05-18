@@ -4,7 +4,7 @@ GO**」是[L'Arc〜en〜Ciel的第](https://zh.wikipedia.org/wiki/L'Arc〜en〜C
 ## 簡介
 
 距離上1張單曲《[Spirit dreams inside -another
-dream-](https://zh.wikipedia.org/wiki/Spirit_dreams_inside_-another_dream- "wikilink")》相隔2年5個月，長期活動休止後的首發單曲。
+dream-](../Page/Spirit_dreams_inside_-another_dream-.md "wikilink")》相隔2年5個月，長期活動休止後的首發單曲。
 
 B面曲收錄「READY STEADY
 GO」抽取4位團員各自負責的部分的版本，意味著：『缺少任何一個部分都不是L'Arc〜en〜Ciel的音樂』。

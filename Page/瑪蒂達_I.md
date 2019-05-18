@@ -25,8 +25,7 @@ I**）（A11）\[1\]是一种[英国於](https://zh.wikipedia.org/wiki/英国 "w
 
 ## 参看
 
-  - [FCM
-    36法国一种类似的双人步兵坦克](https://zh.wikipedia.org/wiki/FCM_36 "wikilink")
+  - [FCM 36法国一种类似的双人步兵坦克](../Page/FCM_36.md "wikilink")
   - [英国坦克列表](https://zh.wikipedia.org/wiki/英国坦克列表 "wikilink")
 
 ## 注释

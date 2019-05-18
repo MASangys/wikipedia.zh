@@ -365,11 +365,11 @@
 
 ### 演出概要
 
-  - 举办时间与地点：7月13日，[福岡县](https://zh.wikipedia.org/wiki/福岡县 "wikilink")[海之中道](https://zh.wikipedia.org/wiki/海之中道 "wikilink")[海濱公園](../Page/海之中道海濱公園.md "wikilink")（）
+  - 举办时间与地点：7月13日，[福岡县](https://zh.wikipedia.org/wiki/福岡县 "wikilink")[海之中道](../Page/海之中道.md "wikilink")[海濱公園](../Page/海之中道海濱公園.md "wikilink")（）
   - 开场/开演时间：14:00/17:00
-  - 在当日的演唱会上，74岁的摇滚歌手[内田裕也作为惊喜嘉宾登场登场与指原莉乃合作](https://zh.wikipedia.org/wiki/内田裕也 "wikilink")，演唱了他在时隔29年之后发行的新单曲《[Shake
+  - 在当日的演唱会上，74岁的摇滚歌手[内田裕也作为惊喜嘉宾登场登场与指原莉乃合作](../Page/内田裕也.md "wikilink")，演唱了他在时隔29年之后发行的新单曲《[Shake
     It Up,
-    Baby](https://zh.wikipedia.org/wiki/Shake_It_Up,_Baby "wikilink")》，引起现场观众惊呼。另外，在之前剧场公演中受伤的Team
+    Baby](../Page/Shake_It_Up,_Baby.md "wikilink")》，引起现场观众惊呼。另外，在之前剧场公演中受伤的Team
     KIV的[岡田栞奈在演出尾端登场加入演唱](https://zh.wikipedia.org/wiki/岡田栞奈 "wikilink")，正式复归舞台。
 
 ### 曲目
@@ -396,9 +396,8 @@
     森保×穴井、松岡菜×神志那
 13. 《[向日葵](../Page/向日葵组_1st_Stage“我的太阳”.md "wikilink")》（） -
     岡本、坂口、田島、駒田、植木
-14. 《[Shake It Up,
-    Baby](https://zh.wikipedia.org/wiki/Shake_It_Up,_Baby "wikilink")》（）
-    - 内田裕也 feat. 指原莉乃
+14. 《[Shake It Up, Baby](../Page/Shake_It_Up,_Baby.md "wikilink")》（） -
+    内田裕也 feat. 指原莉乃
 15. 《厚臉皮的嘴唇》 - 田中美、矢吹
 16. 《初恋蝴蝶》 - 秋吉、穴井、兒玉、指原、田島、松岡、多田、木本、朝長、渕上、宮脇、村重、本村、森保
 17. 《求求你华伦亭》 - 全員

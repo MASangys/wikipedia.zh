@@ -32,7 +32,7 @@ Yesterday》為他們取回跳舞音樂的頭銜。當中《回想/December》�
 Love》在1998年10月推出，這次Turbo涉獵了不同類型的音樂包括拉丁樂、[高科技舞曲](https://zh.wikipedia.org/wiki/高科技舞曲 "wikilink")、[節奏藍調](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")、[嘻哈以及民謠](../Page/嘻哈音樂.md "wikilink")。首支主打歌《有了愛人》（）被外間評論為對Turbo是一個新鮮和滑稽的轉接點；接下來的《X:
 The Greatest Love》則是他們一貫的風格，顯示Turbo依然強勁，令他們獲得了1998年最受歡迎藝人的獎項。
 
-但Turbo再一次面臨解體。Turbo與[H.O.T.](../Page/H.O.T..md "wikilink")、[S.E.S.](https://zh.wikipedia.org/wiki/S.E.S._\(組合\) "wikilink")、[FIN.K.L](../Page/FIN.K.L.md "wikilink")、[酷龍及](../Page/酷龍.md "wikilink")[水晶男孩等團體代表韓國應邀參加](../Page/水晶男孩.md "wikilink")1998年12月30日舉行的亞洲超級音樂會。這個音樂會雲集了來自亞洲各地包括日本、香港、馬來西亞和台灣的歌手，同時會在韓國，中國和日本現場直播。由於金鐘國在演唱會和經理人公司發生爭拗，故他在音樂會中以[假唱和不鞠躬離開以示抗議](../Page/假唱.md "wikilink")，這粗魯的行為在KBS
+但Turbo再一次面臨解體。Turbo與[H.O.T.](../Page/H.O.T..md "wikilink")、[S.E.S.](../Page/S.E.S._\(組合\).md "wikilink")、[FIN.K.L](../Page/FIN.K.L.md "wikilink")、[酷龍及](../Page/酷龍.md "wikilink")[水晶男孩等團體代表韓國應邀參加](../Page/水晶男孩.md "wikilink")1998年12月30日舉行的亞洲超級音樂會。這個音樂會雲集了來自亞洲各地包括日本、香港、馬來西亞和台灣的歌手，同時會在韓國，中國和日本現場直播。由於金鐘國在演唱會和經理人公司發生爭拗，故他在音樂會中以[假唱和不鞠躬離開以示抗議](../Page/假唱.md "wikilink")，這粗魯的行為在KBS
 1TV現場直播時受到包括韓國高層政要的觀眾之嚴厲批評。由於此次事件，金鐘國和Turbo被禁止在電視上亮相。
 
 隨著1999年10月封殺令解除，Turbo只用了四個月去全力完成他們第五張專輯《Email my

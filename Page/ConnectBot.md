@@ -17,7 +17,7 @@ Play上的下载次数超过](../Page/Google_Play.md "wikilink")1,000,000次，�
 
 ## 参见
 
-  - [SSH客户端比较](https://zh.wikipedia.org/wiki/SSH客户端比较 "wikilink")
+  - [SSH客户端比较](../Page/SSH客户端比较.md "wikilink")
   - [Secure Shell](../Page/Secure_Shell.md "wikilink")
 
 ## 参考

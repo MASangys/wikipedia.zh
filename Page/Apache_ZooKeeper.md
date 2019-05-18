@@ -4,7 +4,7 @@ ZooKeeper曾经是[Hadoop的一个子项目](https://zh.wikipedia.org/wiki/Hadoo
 
 ZooKeeper的架构通过冗余服务实现。因此，如果第一次无应答，客户端就可以询问另一台ZooKeeper主机。ZooKeeper节点将它们的数据存储于一个分层的命名空间，非常类似于一个文件系统或一个[前缀树结构](https://zh.wikipedia.org/wiki/前缀树 "wikilink")。客户端可以在节点读写，从而以这种方式拥有一个共享的配置服务。更新是[全序的](https://zh.wikipedia.org/wiki/全序 "wikilink")。\[1\]
 
-使用ZooKeeper的公司包括[Rackspace](../Page/Rackspace.md "wikilink")、[雅虎](../Page/雅虎.md "wikilink")\[2\]和[eBay](../Page/eBay.md "wikilink")，以及类似于像[Solr这样的开源](../Page/Solr.md "wikilink")系统。\[3\]
+使用ZooKeeper的公司包括[Rackspace](../Page/Rackspace.md "wikilink")、[雅虎](../Page/雅虎.md "wikilink")\[2\]和[eBay](https://zh.wikipedia.org/wiki/eBay "wikilink")，以及类似于像[Solr这样的开源](../Page/Solr.md "wikilink")系统。\[3\]
 
 ## 典型用例
 

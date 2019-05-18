@@ -12,7 +12,7 @@ V4L2是V4L的第二個版本。Video4Linux2修復了一些設計上的程式錯�
 
 ## 支援Video4Linux的軟體
 
-  - [aMSN](../Page/aMSN.md "wikilink")
+  - [aMSN](https://zh.wikipedia.org/wiki/aMSN "wikilink")
 
   - [DVswitch](https://web.archive.org/web/20080708184246/http://dvswitch.alioth.debian.org/)
 

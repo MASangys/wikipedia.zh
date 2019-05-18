@@ -51,7 +51,7 @@ Type-C還支援[DisplayPort](../Page/DisplayPort.md "wikilink")\[6\]，功能與
 
   - [USB](../Page/USB.md "wikilink")
   - [USB 3.0](../Page/USB_3.0.md "wikilink")
-  - [USB 3.2](https://zh.wikipedia.org/wiki/USB_3.2 "wikilink")
+  - [USB 3.2](../Page/USB_3.2.md "wikilink")
 
 ## 參考資料
 

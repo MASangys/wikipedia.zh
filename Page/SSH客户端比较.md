@@ -38,7 +38,7 @@ Shell](../Page/Secure_Shell.md "wikilink")（SSH）协议连接到[远程计算�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://zh.wikipedia.org/wiki/ConnectBot" title="wikilink">ConnectBot</a></p></td>
+<td><p>| <a href="../Page/ConnectBot.md" title="wikilink">ConnectBot</a></p></td>
 <td><p>Kenny Root / Jeffrey Sharkey</p></td>
 <td></td>
 <td></td>
@@ -58,7 +58,7 @@ Shell](../Page/Secure_Shell.md "wikilink")（SSH）协议连接到[远程计算�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://zh.wikipedia.org/wiki/Dropbear" title="wikilink">Dropbear</a></p></td>
+<td><p>| <a href="../Page/Dropbear.md" title="wikilink">Dropbear</a></p></td>
 <td><p>Matt Johnston</p></td>
 <td></td>
 <td></td>
@@ -128,7 +128,7 @@ Shell](../Page/Secure_Shell.md "wikilink")（SSH）协议连接到[远程计算�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="../Page/lsh.md" title="wikilink">lsh</a></p></td>
+<td><p>| <a href="https://zh.wikipedia.org/wiki/lsh" title="wikilink">lsh</a></p></td>
 <td><p>Niels Möller</p></td>
 <td></td>
 <td></td>
@@ -153,7 +153,7 @@ Shell](../Page/Secure_Shell.md "wikilink")（SSH）协议连接到[远程计算�
 <td></td>
 <td></td>
 <td><p>2016-12-12 4.5.5.5</p></td>
-<td><p><a href="../Page/OpenSSH.md" title="wikilink">OpenSSH</a>, <a href="../Page/Telnet.md" title="wikilink">Telnet</a>, <a href="https://zh.wikipedia.org/wiki/FTP" title="wikilink">FTP</a>, <a href="https://zh.wikipedia.org/wiki/vncviewer" title="wikilink">vncviewer</a>, <a href="https://zh.wikipedia.org/wiki/rdesktop" title="wikilink">rdesktop</a>, <a href="../Page/Unix.md" title="wikilink">cu</a>, <a href="https://zh.wikipedia.org/wiki/remote-tty" title="wikilink">remote-tty</a>, <a href="../Page/mosh.md" title="wikilink">mosh</a>, <a href="https://zh.wikipedia.org/wiki/cadaver" title="wikilink">cadaver</a></p></td>
+<td><p><a href="../Page/OpenSSH.md" title="wikilink">OpenSSH</a>, <a href="../Page/Telnet.md" title="wikilink">Telnet</a>, <a href="https://zh.wikipedia.org/wiki/FTP" title="wikilink">FTP</a>, <a href="https://zh.wikipedia.org/wiki/vncviewer" title="wikilink">vncviewer</a>, <a href="https://zh.wikipedia.org/wiki/rdesktop" title="wikilink">rdesktop</a>, <a href="https://zh.wikipedia.org/wiki/Unix" title="wikilink">cu</a>, <a href="https://zh.wikipedia.org/wiki/remote-tty" title="wikilink">remote-tty</a>, <a href="https://zh.wikipedia.org/wiki/mosh" title="wikilink">mosh</a>, <a href="https://zh.wikipedia.org/wiki/cadaver" title="wikilink">cadaver</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -188,7 +188,7 @@ Shell](../Page/Secure_Shell.md "wikilink")（SSH）协议连接到[远程计算�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="https://zh.wikipedia.org/wiki/SecureCRT" title="wikilink">SecureCRT</a></p></td>
+<td><p>| <a href="../Page/SecureCRT.md" title="wikilink">SecureCRT</a></p></td>
 <td><p>VanDyke Software</p></td>
 <td></td>
 <td></td>
@@ -343,7 +343,7 @@ SSH客户端所设计运行的[操作系统或](../Page/操作系统.md "wikilin
 <th><p><a href="https://zh.wikipedia.org/wiki/z/OS" title="wikilink">z/OS</a></p></th>
 <th><p><a href="../Page/IBM_AIX.md" title="wikilink">AIX</a></p></th>
 <th><p><a href="../Page/HP-UX.md" title="wikilink">HP-UX</a></p></th>
-<th><p><a href="../Page/iOS.md" title="wikilink">iOS</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a></p></th>
 <th><p><a href="../Page/Android.md" title="wikilink">Android</a></p></th>
 <th><p><a href="../Page/Maemo.md" title="wikilink">Maemo</a></p></th>
 <th><p><a href="../Page/Windows_Phone.md" title="wikilink">Windows Phone</a></p></th>
@@ -369,7 +369,7 @@ SSH客户端所设计运行的[操作系统或](../Page/操作系统.md "wikilin
 <td></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="https://zh.wikipedia.org/wiki/ConnectBot" title="wikilink">ConnectBot</a></p></td>
+<td><p>| <a href="../Page/ConnectBot.md" title="wikilink">ConnectBot</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -387,7 +387,7 @@ SSH客户端所设计运行的[操作系统或](../Page/操作系统.md "wikilin
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://zh.wikipedia.org/wiki/Dropbear" title="wikilink">Dropbear</a></p></td>
+<td><p>| <a href="../Page/Dropbear.md" title="wikilink">Dropbear</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -441,7 +441,7 @@ SSH客户端所设计运行的[操作系统或](../Page/操作系统.md "wikilin
 <td></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="../Page/lsh.md" title="wikilink">lsh</a></p></td>
+<td><p>| <a href="https://zh.wikipedia.org/wiki/lsh" title="wikilink">lsh</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -603,7 +603,7 @@ SSH客户端所设计运行的[操作系统或](../Page/操作系统.md "wikilin
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://zh.wikipedia.org/wiki/SecureCRT" title="wikilink">SecureCRT</a></p></td>
+<td><p>| <a href="../Page/SecureCRT.md" title="wikilink">SecureCRT</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -813,7 +813,7 @@ SSH客户端所设计运行的[操作系统或](../Page/操作系统.md "wikilin
 <td><p><a href="https://zh.wikipedia.org/wiki/z/OS" title="wikilink">z/OS</a></p></td>
 <td><p><a href="../Page/IBM_AIX.md" title="wikilink">AIX</a></p></td>
 <td><p><a href="../Page/HP-UX.md" title="wikilink">HP-UX</a></p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a></p></td>
 <td><p><a href="../Page/Android.md" title="wikilink">Android</a></p></td>
 <td><p><a href="../Page/Maemo.md" title="wikilink">Maemo</a></p></td>
 <td><p><a href="../Page/Windows_Phone.md" title="wikilink">Windows Phone</a></p></td>
@@ -871,7 +871,7 @@ SSH客户端所设计运行的[操作系统或](../Page/操作系统.md "wikilin
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://zh.wikipedia.org/wiki/Dropbear" title="wikilink">Dropbear</a></p></td>
+<td><p>| <a href="../Page/Dropbear.md" title="wikilink">Dropbear</a></p></td>
 <td><p><a href="../Page/命令行界面.md" title="wikilink">命令行</a></p></td>
 <td></td>
 <td></td>
@@ -885,7 +885,7 @@ SSH客户端所设计运行的[操作系统或](../Page/操作系统.md "wikilin
 <td></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="../Page/lsh.md" title="wikilink">lsh</a></p></td>
+<td><p>| <a href="https://zh.wikipedia.org/wiki/lsh" title="wikilink">lsh</a></p></td>
 <td><p><a href="../Page/命令行界面.md" title="wikilink">命令行</a></p></td>
 <td></td>
 <td></td>
@@ -1011,7 +1011,7 @@ SSH客户端所设计运行的[操作系统或](../Page/操作系统.md "wikilin
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://zh.wikipedia.org/wiki/SecureCRT" title="wikilink">SecureCRT</a></p></td>
+<td><p>| <a href="../Page/SecureCRT.md" title="wikilink">SecureCRT</a></p></td>
 <td><p><a href="../Page/图形用户界面.md" title="wikilink">GUI</a></p></td>
 <td></td>
 <td></td>
@@ -1163,7 +1163,7 @@ SSH客户端所设计运行的[操作系统或](../Page/操作系统.md "wikilin
 映射</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/分页浏览器" title="wikilink">会话<br />
 标签</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/ZMODEM" title="wikilink">ZMODEM转移</a></p></th>
+<th><p><a href="../Page/ZMODEM.md" title="wikilink">ZMODEM转移</a></p></th>
 <th><p>在缓冲区中<br />
 查找文字</p></th>
 <th><p>鼠标输入</p></th>
@@ -1328,7 +1328,7 @@ SSH客户端所设计运行的[操作系统或](../Page/操作系统.md "wikilin
 <td></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="https://zh.wikipedia.org/wiki/SecureCRT" title="wikilink">SecureCRT</a></p></td>
+<td><p>| <a href="../Page/SecureCRT.md" title="wikilink">SecureCRT</a></p></td>
 <td></td>
 <td></td>
 <td></td>

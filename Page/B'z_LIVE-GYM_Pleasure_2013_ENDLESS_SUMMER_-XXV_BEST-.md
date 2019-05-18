@@ -22,7 +22,7 @@ BEST-**》，是日本樂團[B'z的第](../Page/B'z.md "wikilink")19張LIVE作�
 
 ### 支援樂手
 
-  - [增田隆宣](https://zh.wikipedia.org/wiki/增田隆宣 "wikilink")：[鍵盤手](../Page/鍵盤樂器.md "wikilink")
+  - [增田隆宣](../Page/增田隆宣.md "wikilink")：[鍵盤手](../Page/鍵盤樂器.md "wikilink")
 
   - ：[鼓手](../Page/爵士鼓.md "wikilink")
 
@@ -47,9 +47,9 @@ BEST-**》，是日本樂團[B'z的第](../Page/B'z.md "wikilink")19張LIVE作�
 
 <!-- end list -->
 
-1.  **[Endless Summer](https://zh.wikipedia.org/wiki/有頂天 "wikilink")**
+1.  **[Endless Summer](../Page/有頂天.md "wikilink")**
       -
-        雖為巡迴演唱會的標題曲，但（在當時）卻是未發表的新曲。B'z王道的[硬式搖滾風格](../Page/硬式搖滾.md "wikilink")。後收錄在2015年1月發售的第51張單曲《[有頂天](https://zh.wikipedia.org/wiki/有頂天 "wikilink")》的2nd
+        雖為巡迴演唱會的標題曲，但（在當時）卻是未發表的新曲。B'z王道的[硬式搖滾風格](../Page/硬式搖滾.md "wikilink")。後收錄在2015年1月發售的第51張單曲《[有頂天](../Page/有頂天.md "wikilink")》的2nd
         beat。
 2.  **[ZERO](https://zh.wikipedia.org/wiki/ZERO "wikilink")**
       -
@@ -99,9 +99,10 @@ BEST-**》，是日本樂團[B'z的第](../Page/B'z.md "wikilink")19張LIVE作�
       -
 20. **[RUN](../Page/RUN.md "wikilink")**
       -
-21. **[juice](../Page/juice.md "wikilink")**
+21. **[juice](https://zh.wikipedia.org/wiki/juice "wikilink")**
       -
-22. **[ultra soul](../Page/ultra_soul.md "wikilink")**
+22. **[ultra
+    soul](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")**
       -
 
 ### Hall Tour Final公演 & Tour Documentary

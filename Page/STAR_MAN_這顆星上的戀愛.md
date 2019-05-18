@@ -158,14 +158,14 @@
 
 <!-- end list -->
 
-  - ：[木南晴夏](https://zh.wikipedia.org/wiki/木南晴夏 "wikilink")
+  - ：[木南晴夏](../Page/木南晴夏.md "wikilink")
 
 ## 製作人員
 
   - 編劇：[岡田惠和](../Page/岡田惠和.md "wikilink")
   - 音樂：\[2\]\[3\]
   - 導演：[堤幸彦](../Page/堤幸彦.md "wikilink")
-  - 主題歌：[YUKI](../Page/YUKI_\(歌手\).md "wikilink")《[STARMANN](https://zh.wikipedia.org/wiki/STARMANN "wikilink")》（[Epic
+  - 主題歌：[YUKI](../Page/YUKI_\(歌手\).md "wikilink")《[STARMANN](../Page/STARMANN.md "wikilink")》（[Epic
     Records
     Japan](https://zh.wikipedia.org/wiki/Epic_Records_Japan "wikilink")）\[4\]
   - 編劇STAFF：中村千明

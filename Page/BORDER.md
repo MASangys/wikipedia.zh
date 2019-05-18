@@ -4,8 +4,7 @@
 
 ## 漫畫
 
-於2013年12月号至2015年5月号《[Young
-Ace](https://zh.wikipedia.org/wiki/Young_Ace "wikilink")》連載。
+於2013年12月号至2015年5月号《[Young Ace](../Page/Young_Ace.md "wikilink")》連載。
 
 ## 小說
 
@@ -199,7 +198,7 @@ Ace](https://zh.wikipedia.org/wiki/Young_Ace "wikilink")》連載。
 <tr class="even">
 <td><p>赤井</p></td>
 <td><p>44歲</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/古田新太" title="wikilink">古田新太</a></p></td>
+<td><p><a href="../Page/古田新太.md" title="wikilink">古田新太</a></p></td>
 </tr>
 <tr class="odd">
 <td><div class="NavFrame">
@@ -728,7 +727,7 @@ Ace](https://zh.wikipedia.org/wiki/Young_Ace "wikilink")》連載。
 <tr class="even">
 <td><p>丸田</p></td>
 <td><p>法式餐廳「艷陽天」店長</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/池田政典" title="wikilink">池田政典</a></p></td>
+<td><p><a href="../Page/池田政典.md" title="wikilink">池田政典</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><font color=yellow>角色</p></td>
@@ -768,7 +767,7 @@ Ace](https://zh.wikipedia.org/wiki/Young_Ace "wikilink")》連載。
 <tr class="even">
 <td><p>安藤周夫</p></td>
 <td><p>明星玩具公司職員</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大森南朋" title="wikilink">大森南朋</a></p></td>
+<td><p><a href="../Page/大森南朋.md" title="wikilink">大森南朋</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>天川真理子</p></td>
@@ -783,7 +782,7 @@ Ace](https://zh.wikipedia.org/wiki/Young_Ace "wikilink")》連載。
 <tr class="odd">
 <td><p>天川弘志</p></td>
 <td><p>誘拐事件被害人</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/二宮慶多" title="wikilink">二宮慶多</a></p></td>
+<td><p><a href="../Page/二宮慶多.md" title="wikilink">二宮慶多</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -1291,7 +1290,7 @@ Ace](https://zh.wikipedia.org/wiki/Young_Ace "wikilink")》連載。
 [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
 [Category:金城一紀](https://zh.wikipedia.org/wiki/Category:金城一紀 "wikilink")
 
-1.  當初電視劇發表為[池賴廣](https://zh.wikipedia.org/wiki/池賴廣 "wikilink")。
+1.  當初電視劇發表為[池賴廣](../Page/池賴廣.md "wikilink")。
 
 2.
 

@@ -1,5 +1,5 @@
 **GeeksPhone
-Peak**是一款由西班牙GeeksPhone公司所推出的中高階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，此款手機是針對開發者用於測試和開發，不適合一般使用者日常所使用\[1\]。Peak和[Keon是市場上首款採用](../Page/Geeksphone_Keon.md "wikilink")[Firefox
+Peak**是一款由西班牙GeeksPhone公司所推出的中高階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，此款手機是針對開發者用於測試和開發，不適合一般使用者日常所使用\[1\]。Peak和[Keon是市場上首款採用](https://zh.wikipedia.org/wiki/Geeksphone_Keon "wikilink")[Firefox
 OS系統的行動裝置](../Page/Firefox_OS.md "wikilink")。
 
 2013年4月23日，GeeksPhone Keon和Peak正式發售，並於幾小時之內銷售一空\[2\]。

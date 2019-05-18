@@ -2,7 +2,7 @@
 超級瑪利歐兄弟U](https://zh.wikipedia.org/wiki/新_超級瑪利歐兄弟U "wikilink")》的外傳作品，以追加下載內容及盒裝版遊戲兩種方式進行銷售。此遊戲是為慶祝路易30周年紀念活動中的唯一一款家用主機遊戲，也是唯一一個沒有出現瑪利歐的《新超級瑪利歐兄弟系列》遊戲。復刻版組成《新
 超級瑪利歐兄弟U+新超級路易吉U》（New Super Mario Bros. U + New Super Luigi U），連同[Wii
 U本機綁售](../Page/Wii_U.md "wikilink")。此版本未在日本發售。\[1\]
-此遊戲也會在《[任天堂eShop](https://zh.wikipedia.org/wiki/任天堂eShop "wikilink")》開放。
+此遊戲也會在《[任天堂eShop](../Page/任天堂eShop.md "wikilink")》開放。
 
 ## 玩法
 

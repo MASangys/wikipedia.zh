@@ -33,7 +33,7 @@ Bros.）製作的卡通電視節目。也是DC系列《[少年悍將](https://zh
 
 <!-- end list -->
 
-  - [酷姬／瑞雯／渡鸦](https://zh.wikipedia.org/wiki/渡鸦_\(DC漫画\) "wikilink")（Raven）
+  - [酷姬／瑞雯／渡鸦](../Page/渡鸦_\(DC漫画\).md "wikilink")（Raven）
     配音：美國→[泰拉·史壯](https://zh.wikipedia.org/wiki/:en:Tara_Strong "wikilink")
     台灣→[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")
     本名：瑞雯·瑞秋·羅斯（Raven Rachel Roth）
@@ -57,7 +57,7 @@ Bros.）製作的卡通電視節目。也是DC系列《[少年悍將](https://zh
 
 <!-- end list -->
 
-  - [人皮獸](https://zh.wikipedia.org/wiki/人皮獸 "wikilink")（Beast boy）
+  - [人皮獸](../Page/人皮獸.md "wikilink")（Beast boy）
     配音：美國→[葛瑞格·塞普斯](https://zh.wikipedia.org/wiki/:en:Greg_Cipes "wikilink")
     台灣→[楊凱凱](../Page/楊凱凱.md "wikilink")
     本名：加菲·馬克·羅根（Garfield Mark "Gar" Logan）
@@ -112,7 +112,7 @@ Bros.）製作的卡通電視節目。也是DC系列《[少年悍將](https://zh
 
 <!-- end list -->
 
-  - [第三任羅賓蒂姆·德雷克/紅羅賓](https://zh.wikipedia.org/wiki/蒂姆·德雷克 "wikilink")（Robin）
+  - [第三任羅賓蒂姆·德雷克/紅羅賓](../Page/蒂姆·德雷克.md "wikilink")（Robin）
     配音：美國→[史考特·門維爾](https://zh.wikipedia.org/wiki/:en:Scott_Menville "wikilink")
     本名：蒂姆·德雷克（Timothy Jackson "Tim" Drake）
     第三任羅賓擔任者，在第二季第12集「最佳羅賓」中登場。本作中其性格更加冷酷。
@@ -223,13 +223,12 @@ Bros.）製作的卡通電視節目。也是DC系列《[少年悍將](https://zh
 
 <!-- end list -->
 
-  - [羅絲·威爾森](https://zh.wikipedia.org/wiki/羅絲·威爾森 "wikilink") (Rose
-    Wilson)
+  - [羅絲·威爾森](../Page/羅絲·威爾森.md "wikilink") (Rose Wilson)
     在前作並未出現，但在本作視為敵人，出現於"酷學校"以及"拯救男生大作戰上下兩集"，被關在少年監護所，曾和酷姬互有共識而成為朋友，但因後續糾紛分裂，打算毀了少年悍將，缺點是太酷了，真摯感情對他是致命傷。根據前作漫畫可知其為史萊德的女兒。
 
 <!-- end list -->
 
-  - [殺手蛾](https://zh.wikipedia.org/wiki/殺手蛾 "wikilink") (Killer Moth)
+  - [殺手蛾](../Page/殺手蛾.md "wikilink") (Killer Moth)
     絲絲原來的主人，在前作第二季第六集“與真命天子有約”之後以為絲絲週丟而寫了尋寵啟示，在羅賓歸還絲絲後本想把絲絲變成一個可以摧毀雀躍城的天蚕。
 
 <!-- end list -->

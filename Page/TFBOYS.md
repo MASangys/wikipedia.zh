@@ -59,7 +59,7 @@ Boys**，又稱**加油男孩**\[1\]），2013年[中國大陸推出的男子團
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/我们的时光" title="wikilink">我们的时光</a>》</p>
+<td><p>《<a href="../Page/我们的时光.md" title="wikilink">我们的时光</a>》</p>
 <ul>
 <li>發行日期：2017年12月8日</li>
 <li>發行商：</li>
@@ -93,7 +93,7 @@ Boys**，又稱**加油男孩**\[1\]），2013年[中國大陸推出的男子團
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Heart_梦·出发" title="wikilink">Heart 梦·出发</a>》</p>
+<td><p>《<a href="../Page/Heart_梦·出发.md" title="wikilink">Heart 梦·出发</a>》</p>
 <ul>
 <li>發行日期：2013年10月18日、2014年1月(DVD)</li>
 <li>發行商：<a href="../Page/星外星唱片.md" title="wikilink">星外星唱片</a></li>
@@ -128,7 +128,7 @@ Boys**，又稱**加油男孩**\[1\]），2013年[中國大陸推出的男子團
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/青春修炼手册" title="wikilink">青春修炼手册</a>》</p>
+<td><p>《<a href="../Page/青春修炼手册.md" title="wikilink">青春修炼手册</a>》</p>
 <ul>
 <li>發行日期：2014年10月17日、2015年3月(DVD)</li>
 <li>發行商：重慶出版集團天健電子音像出版社</li>
@@ -143,7 +143,7 @@ Boys**，又稱**加油男孩**\[1\]），2013年[中國大陸推出的男子團
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/大梦想家_(专辑)" title="wikilink">大梦想家</a>》</p>
+<td><p>《<a href="../Page/大梦想家_(专辑).md" title="wikilink">大梦想家</a>》</p>
 <ul>
 <li>發行日期：2016年7月20日</li>
 <li>發行商：<a href="https://zh.wikipedia.org/wiki/索尼音乐娱乐中国" title="wikilink">索尼音樂娛樂中國控股有限公司</a></li>
@@ -169,7 +169,7 @@ Boys**，又稱**加油男孩**\[1\]），2013年[中國大陸推出的男子團
 | 不息之河            | 電影《[勇士](../Page/勇士_\(2011年电影\).md "wikilink")》主題曲                            |                                                                |
 | 瞳孔裡的太陽          | [世界艾滋病日公益曲](../Page/世界艾滋病日.md "wikilink")，與群星合唱                              |                                                                |
 | 2017年           | 同一秒快樂                                                                        | [快樂大本營](https://zh.wikipedia.org/wiki/快樂大本營 "wikilink")20周年主題曲 |
-| 加油！Amigo！       | 《[我们的少年时代](https://zh.wikipedia.org/wiki/我们的少年时代 "wikilink")》主题曲             |                                                                |
+| 加油！Amigo！       | 《[我们的少年时代](../Page/我们的少年时代.md "wikilink")》主题曲                                |                                                                |
 | Tonight Forever | 與[王力宏合唱](../Page/王力宏.md "wikilink")                                          |                                                                |
 | 2018年           | 贊贊新時代                                                                        | 公益曲，與群星合唱                                                      |
 | 我和2035有個約       | 央視春晚節目限定曲                                                                    |                                                                |
@@ -275,7 +275,7 @@ Boys**，又稱**加油男孩**\[1\]），2013年[中國大陸推出的男子團
 <td></td>
 </tr>
 <tr class="even">
-<td><p>十大金曲《<a href="https://zh.wikipedia.org/wiki/青春修炼手册" title="wikilink">青春修炼手册</a>》</p></td>
+<td><p>十大金曲《<a href="../Page/青春修炼手册.md" title="wikilink">青春修炼手册</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -332,13 +332,13 @@ Boys**，又稱**加油男孩**\[1\]），2013年[中國大陸推出的男子團
 <td><p>4月13日</p></td>
 <td><p><a href="../Page/光线传媒.md" title="wikilink">光线传媒</a></p></td>
 <td><p>2015第十五届音乐风云榜年度盛典</p></td>
-<td><p>最受欢迎歌曲《<a href="https://zh.wikipedia.org/wiki/青春修炼手册" title="wikilink">青春修炼手册</a>》</p></td>
+<td><p>最受欢迎歌曲《<a href="../Page/青春修炼手册.md" title="wikilink">青春修炼手册</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>组委会推荐十大金曲之一《<a href="https://zh.wikipedia.org/wiki/青春修炼手册" title="wikilink">青春修炼手册</a>》</p></td>
+<td><p>组委会推荐十大金曲之一《<a href="../Page/青春修炼手册.md" title="wikilink">青春修炼手册</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -633,7 +633,7 @@ Boys**，又稱**加油男孩**\[1\]），2013年[中國大陸推出的男子團
 <td><p>2016年8月13日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/廣州" title="wikilink">廣州</a></p></td>
 <td><p>廣州國際體育演藝中心</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/芒果TV" title="wikilink">芒果TV</a></p></td>
+<td><p><a href="../Page/芒果TV.md" title="wikilink">芒果TV</a></p></td>
 </tr>
 </tbody>
 </table>

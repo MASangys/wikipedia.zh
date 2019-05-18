@@ -10,14 +10,14 @@ livetune 成立於 2007年，原為 kz 和 かじゅきP 兩人成立的同人�
 退出社團，livetune 成為 kz 的個人企劃團體。livetune
 最初使用[VOCALOID軟體製作歌曲](../Page/VOCALOID.md "wikilink")，2009年起始和商業音樂家合作，包括擔綱偶像團體
 [ClariS](../Page/ClariS.md "wikilink")、歌手 Yun\*chi 的音樂製作人，參與歌手
-[KOTOKO](../Page/KOTOKO.md "wikilink")、[平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")、偶像團體[嵐的專輯製作](../Page/嵐.md "wikilink")。
+[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")、[平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")、偶像團體[嵐的專輯製作](../Page/嵐.md "wikilink")。
 
 livetune
 為最早商業出道的[VOCALOID音樂團體](../Page/VOCALOID.md "wikilink")，首張專輯《Re:packaged》也是歷史上首次將「[初音未來](../Page/初音未來.md "wikilink")」名稱列入標題、首張使用初音未來肖像當作封面的商業專輯。\[1\]
 
 ### 2007年－2009年
 
-2007年9月，livetune使用VOCALOID軟體「初音未來」製作樂曲「**Packaged**」，發表於[NICONICO動畫網站和](../Page/NICONICO動畫.md "wikilink")[muzie](https://zh.wikipedia.org/wiki/muzie "wikilink")。連串作品贏得諸多注目和人氣，成為初音未來流行文化的推手。\[2\]
+2007年9月，livetune使用VOCALOID軟體「初音未來」製作樂曲「**Packaged**」，發表於[NICONICO動畫網站和](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[muzie](https://zh.wikipedia.org/wiki/muzie "wikilink")。連串作品贏得諸多注目和人氣，成為初音未來流行文化的推手。\[2\]
 
 2007年12月，在日本[同人誌販售會](../Page/同人誌即賣會.md "wikilink") Comiket73
 發行自行製作的ＣＤ《**Re:packaged**》，瞬間完售供不應求。\[3\]
@@ -44,7 +44,7 @@ Baby / Yellow》雙主打單曲其中的「Yellow」「I Wanna Be Your World」�
 [Supercell](https://zh.wikipedia.org/wiki/Supercell "wikilink")、[Yanaginagi](https://zh.wikipedia.org/wiki/Yanaginagi "wikilink")
 等音樂家。\[13\]
 
-2011年，livetune持續與[ClariS合作並參與歌手](../Page/ClariS.md "wikilink")[KOTOKO的個人專輯](../Page/KOTOKO.md "wikilink")，之後陸續與數多歌手合作歌曲，包括Yun\*chi、黑崎真音、トゥワイル。
+2011年，livetune持續與[ClariS合作並參與歌手](../Page/ClariS.md "wikilink")[KOTOKO的個人專輯](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")，之後陸續與數多歌手合作歌曲，包括Yun\*chi、黑崎真音、トゥワイル。
 
 ### 2012年－
 
@@ -88,13 +88,13 @@ Clapper**》。\[20\]
 
 ### 單曲
 
-| 系列  | 發行日期       | 標題                | 歌手                                                           | 唱片公司          | [Oricon公信榜](../Page/Oricon公信榜.md "wikilink") | 備註                                                                                     |
-| --- | ---------- | ----------------- | ------------------------------------------------------------ | ------------- | -------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 1st | 2012年9月26日 | **Transfer**      | [中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")、Yun\*chi | TOY'S FACTORY | 第29名\[28\]                                   |                                                                                        |
-| 2nd | 2013年6月5日  | **Take Your Way** | Fukase(from SEKAI NO OWARI)、RinOikawa(from Q;indivi)         | TOY'S FACTORY | 第12名\[29\]                                   | 電視動畫[《惡魔倖存者2》主題曲](../Page/惡魔倖存者2.md "wikilink")                                        |
-| 3rd | 2014年3月5日  | **FLAT**          | Yuuki Ozaki(from Galileo Galilei)                            | TOY'S FACTORY |                                              | 電視動畫[《HAMATORA ─超能偵探社─》主題曲](https://zh.wikipedia.org/wiki/HAMATORA_─超能偵探社─ "wikilink") |
-| 4th | 2014年9月3日  | **千の翼**           | livetune adding Takuro Sugawara(from 9mm Parabellum Bullet)  | TOY'S FACTORY |                                              | 電視動畫[《Re：␣ 超能偵探社》主題曲](https://zh.wikipedia.org/wiki/HAMATORA_─超能偵探社─ "wikilink")       |
-|     |            |                   |                                                              |               |                                              |                                                                                        |
+| 系列  | 發行日期       | 標題                | 歌手                                                           | 唱片公司          | [Oricon公信榜](../Page/Oricon公信榜.md "wikilink") | 備註                                                                  |
+| --- | ---------- | ----------------- | ------------------------------------------------------------ | ------------- | -------------------------------------------- | ------------------------------------------------------------------- |
+| 1st | 2012年9月26日 | **Transfer**      | [中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")、Yun\*chi | TOY'S FACTORY | 第29名\[28\]                                   |                                                                     |
+| 2nd | 2013年6月5日  | **Take Your Way** | Fukase(from SEKAI NO OWARI)、RinOikawa(from Q;indivi)         | TOY'S FACTORY | 第12名\[29\]                                   | 電視動畫[《惡魔倖存者2》主題曲](../Page/惡魔倖存者2.md "wikilink")                     |
+| 3rd | 2014年3月5日  | **FLAT**          | Yuuki Ozaki(from Galileo Galilei)                            | TOY'S FACTORY |                                              | 電視動畫[《HAMATORA ─超能偵探社─》主題曲](../Page/HAMATORA_─超能偵探社─.md "wikilink") |
+| 4th | 2014年9月3日  | **千の翼**           | livetune adding Takuro Sugawara(from 9mm Parabellum Bullet)  | TOY'S FACTORY |                                              | 電視動畫[《Re：␣ 超能偵探社》主題曲](../Page/HAMATORA_─超能偵探社─.md "wikilink")       |
+|     |            |                   |                                                              |               |                                              |                                                                     |
 
 ### 合作單曲
 

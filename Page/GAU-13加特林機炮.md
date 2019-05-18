@@ -27,9 +27,9 @@ GPU-5/A的研製目的是為了可在各式各樣的美國戰術飛機，包括[
   - [M61火神式機砲](../Page/M61火神式機砲.md "wikilink")
   - [M134迷你砲機槍](../Page/M134迷你砲機槍.md "wikilink")
   - [XM214微型砲機槍](../Page/XM214微型砲機槍.md "wikilink")
-  - [M197加特林機炮](https://zh.wikipedia.org/wiki/M197加特林機炮 "wikilink")
+  - [M197加特林機炮](../Page/M197加特林機炮.md "wikilink")
   - [Mk 44巨蝮二式鏈炮](../Page/Mk_44巨蝮二式鏈炮.md "wikilink")
-  - [亞丁轉輪式機炮](https://zh.wikipedia.org/wiki/亞丁轉輪式機炮 "wikilink")
+  - [亞丁轉輪式機炮](../Page/亞丁轉輪式機炮.md "wikilink")
   - [BK-27機炮](../Page/BK-27機炮.md "wikilink")
 
 ## 資料來源

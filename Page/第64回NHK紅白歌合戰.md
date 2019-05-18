@@ -5,14 +5,14 @@
   - 2013年9月5日
     NHK會長在記者會中正式發表本屆紅白歌合戰的消息\[1\]。
   - 2013年10月18日
-    在[NHK音樂廳前室外的特别會場上宣佈了本年度的主持人名單](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")。紅組的主持人是該年度[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[八重之櫻](../Page/八重之櫻.md "wikilink")》女主角[綾瀨遙](../Page/綾瀨遙.md "wikilink")（）、白組主持人是[嵐](../Page/嵐.md "wikilink")、而綜合主持人是[有働由美子](https://zh.wikipedia.org/wiki/有働由美子 "wikilink")。同时，也發佈了本屆的主题，稱為「歌曲在這裏」（）\[2\]。記者會當日，紅白兩組主持人乘坐着[加長轎車進場](https://zh.wikipedia.org/wiki/加長轎車 "wikilink")。
+    在[NHK音樂廳前室外的特别會場上宣佈了本年度的主持人名單](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")。紅組的主持人是該年度[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[八重之櫻](../Page/八重之櫻.md "wikilink")》女主角[綾瀨遙](../Page/綾瀨遙.md "wikilink")（）、白組主持人是[嵐](../Page/嵐.md "wikilink")、而綜合主持人是[有働由美子](../Page/有働由美子.md "wikilink")。同时，也發佈了本屆的主题，稱為「歌曲在這裏」（）\[2\]。記者會當日，紅白兩組主持人乘坐着[加長轎車進場](https://zh.wikipedia.org/wiki/加長轎車 "wikilink")。
   - 2013年11月20日
     於[晨間小說連續劇](https://zh.wikipedia.org/wiki/晨間小說連續劇 "wikilink")《[小海女](https://zh.wikipedia.org/wiki/小海女 "wikilink")》（）中飾演主人公天野秋（）的[能年玲奈被委任為本屆紅白宣傳大使](../Page/能年玲奈.md "wikilink")\[3\]。
   - 2013年11月25日
     正式發表了出演本屆紅白歌合戰的51組出演歌手名單\[4\]。
   - 2013年12月5日
     宣佈了直播時段中的第二聲道“紅白幕後Talk
-    Channel”（）的主持人是（）与，而負責[電台廣播解說的在則是](https://zh.wikipedia.org/wiki/電台 "wikilink")与[久保田祐佳](https://zh.wikipedia.org/wiki/久保田祐佳 "wikilink")
+    Channel”（）的主持人是（）与，而負責[電台廣播解說的在則是](https://zh.wikipedia.org/wiki/電台 "wikilink")与[久保田祐佳](../Page/久保田祐佳.md "wikilink")
   - 2013年12月18日
     發佈了當日的演唱歌曲名單\[5\]。
   - 2013年12月24日
@@ -32,8 +32,8 @@
 
   - 紅組：[綾瀨遙](../Page/綾瀨遙.md "wikilink")（）（本年度[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[八重之櫻](../Page/八重之櫻.md "wikilink")》主演）
   - 白組：[嵐](../Page/嵐.md "wikilink")（[大野智](../Page/大野智.md "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")、[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[二宮和也](../Page/二宮和也.md "wikilink")、[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")）
-  - 綜合：[有働由美子](https://zh.wikipedia.org/wiki/有働由美子 "wikilink")（[NHK東京播報室](../Page/NHK放送中心.md "wikilink")）
-  - 電台廣播解說：、[久保田祐佳](https://zh.wikipedia.org/wiki/久保田祐佳 "wikilink")
+  - 綜合：[有働由美子](../Page/有働由美子.md "wikilink")（[NHK東京播報室](../Page/NHK放送中心.md "wikilink")）
+  - 電台廣播解說：、[久保田祐佳](../Page/久保田祐佳.md "wikilink")
   - 电视第二声道“红白幕后Talk Channel”：（）、
 
 ## 出場歌手
@@ -90,7 +90,7 @@
 </tr>
 <tr class="even">
 <td><p>15</p></td>
-<td><p><strong><a href="../Page/miwa.md" title="wikilink">miwa</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/miwa" title="wikilink">miwa</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
@@ -125,7 +125,7 @@
 </tr>
 <tr class="even">
 <td><p>27</p></td>
-<td><p><a href="../Page/aiko.md" title="wikilink">aiko</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/aiko" title="wikilink">aiko</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
@@ -156,7 +156,7 @@
 </tr>
 <tr class="odd">
 <td><p>38</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/水森香織" title="wikilink">水森香織</a><br />
+<td><p><a href="../Page/水森香織.md" title="wikilink">水森香織</a><br />
 （）</p></td>
 </tr>
 <tr class="even">

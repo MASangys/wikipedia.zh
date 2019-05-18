@@ -1,10 +1,9 @@
 **Poppler**（或称为 libpoppler）是一个用来渲染 [PDF
 文档的自由程序库](https://zh.wikipedia.org/wiki/Pdf文档 "wikilink")，其开发受
-[freedesktop.org](../Page/freedesktop.org.md "wikilink") 支持。它是
-[GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")
-系统上同类程序库中最为常用的\[1\]，并被开源桌面环境
-[GNOME](../Page/GNOME.md "wikilink") 和 [KDE](../Page/KDE.md "wikilink")
-上的 PDF 阅读器所使用。
+[freedesktop.org](https://zh.wikipedia.org/wiki/freedesktop.org "wikilink")
+支持。它是 [GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")
+系统上同类程序库中最为常用的\[1\]，并被开源桌面环境 [GNOME](../Page/GNOME.md "wikilink")
+和 [KDE](../Page/KDE.md "wikilink") 上的 PDF 阅读器所使用。
 
 项目发起者 Kristian Høgsberg 有两个目标：\[2\]
 
@@ -40,7 +39,7 @@ Problem with Popplers”一集。\[6\]
 <td><p><a href="../Page/FLTK.md" title="wikilink">FLTK</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/KPDF" title="wikilink">KPDF</a></p></td>
+<td><p><a href="../Page/KPDF.md" title="wikilink">KPDF</a></p></td>
 <td><p><a href="../Page/Qt.md" title="wikilink">Qt</a></p></td>
 </tr>
 <tr class="even">
@@ -85,7 +84,7 @@ Problem with Popplers”一集。\[6\]
 ## 特性
 
 Poppler可以使用[Cairo和Splash两个后端绘制PDF文档](https://zh.wikipedia.org/wiki/Cairo_\(繪圖\) "wikilink")，而它的特性又取决于所使用的后端。一个基于[Qt4绘制框架的第三方后端](../Page/Qt.md "wikilink")“Arthur”也是可用的，但是并不完整，而且已不再是活跃开发状态了。\[8\]
-[Glib](../Page/Glib.md "wikilink")，Qt3和Qt4的绑定提供了对Poppler后端的交互界面。尽管Qt3和Qt4绑定仅仅支持Splash后端，有一组可用的补丁支持使用Cairo后端的Qt4绑定。\[9\]然而，Poppler
+[Glib](https://zh.wikipedia.org/wiki/Glib "wikilink")，Qt3和Qt4的绑定提供了对Poppler后端的交互界面。尽管Qt3和Qt4绑定仅仅支持Splash后端，有一组可用的补丁支持使用Cairo后端的Qt4绑定。\[9\]然而，Poppler
 项目现在依然不希望将这个特性添加到 Poppler 库中。\[10\]
 
 后端的一些特点包括：
@@ -102,7 +101,7 @@ Poppler可以使用[Cairo和Splash两个后端绘制PDF文档](https://zh.wikipe
 
 Poppler还有一个文字渲染后端，可以从[命令行实用程序](../Page/命令行界面.md "wikilink") pdftotext
 调用。它可以用来在命令行下从 PDF 文件中搜索字符串（比如说同
-[`grep`](../Page/grep.md "wikilink")连用）。\[13\]
+[`grep`](https://zh.wikipedia.org/wiki/grep "wikilink")连用）。\[13\]
 
 具体的方法示例：
 

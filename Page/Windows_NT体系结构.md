@@ -55,7 +55,7 @@ Windows
 NT的[核心态能访问所有硬件资源](https://zh.wikipedia.org/wiki/核心态 "wikilink")，在保护内存区上执行代码。\[4\]
 控制了调度、线程优先级、内存管理、硬件交互；禁止了用户态的程序与服务访问关键资源，用户态进程必须请求核心态执行这类操作。
 
-[x86硬件体系结构支持四种CPU优先级](../Page/x86.md "wikilink")：0到3。仅有0与3这两种优先级被Windows操作系统使用。用户态程序运行在优先级3，核心态运行在优先级0（特权级别）。也分别称作「ring
+[x86硬件体系结构支持四种CPU优先级](https://zh.wikipedia.org/wiki/x86 "wikilink")：0到3。仅有0与3这两种优先级被Windows操作系统使用。用户态程序运行在优先级3，核心态运行在优先级0（特权级别）。也分别称作「ring
 3」与「ring
 0」。这使得具有了只有2个优先级的[RISC平台的可移植性](https://zh.wikipedia.org/wiki/RISC "wikilink")。\[5\]但是打破了[OS/2应用程序包含的I](https://zh.wikipedia.org/wiki/OS/2 "wikilink")/O特权段的兼容性\[6\]
 
@@ -124,7 +124,7 @@ process）。服务进程是用户态下的程序，类似于[类Unix系统的](
 
   - 安全引用监视（SRM）
     强制实行安全规则的子系统。\[9\]
-    通过[访问控制表](https://zh.wikipedia.org/wiki/访问控制表 "wikilink")（ACLs）确定一个对象或资源可以被访问。访问控制表由访问控制条目(ACEs)组成。ACE包含了[安全标识符](https://zh.wikipedia.org/wiki/安全标识符 "wikilink")（SID）与授予的操作列表，使得用户帐户、用户组账号、登录会话\[10\]具有对资源的允许、不允许、审核（audit）等权限.\[11\]
+    通过[访问控制表](https://zh.wikipedia.org/wiki/访问控制表 "wikilink")（ACLs）确定一个对象或资源可以被访问。访问控制表由访问控制条目(ACEs)组成。ACE包含了[安全标识符](../Page/安全标识符.md "wikilink")（SID）与授予的操作列表，使得用户帐户、用户组账号、登录会话\[10\]具有对资源的允许、不允许、审核（audit）等权限.\[11\]
 
 <!-- end list -->
 
@@ -161,7 +161,7 @@ Driver Model](../Page/Windows_Driver_Model.md "wikilink")
 
   - [ReactOS](https://zh.wikipedia.org/wiki/ReactOS "wikilink")：\[14\]
     类Windows的开源操作系统，与Windows在 API级别兼容
-  - [wine](../Page/wine.md "wikilink")：\[15\]在非Windows系统上运行Win32程序的开源中间层，逻辑上与Windows在
+  - [wine](https://zh.wikipedia.org/wiki/wine "wikilink")：\[15\]在非Windows系统上运行Win32程序的开源中间层，逻辑上与Windows在
     API 级别兼容
   - [Windows Research
     Kernel](https://zh.wikipedia.org/wiki/Windows_Research_Kernel "wikilink")：\[16\]Microsoft向高校和政府开放的用于研究的部分内核源码

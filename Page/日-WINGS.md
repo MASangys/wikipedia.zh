@@ -2,7 +2,7 @@
 
 与专辑在1999年11月同时发行的还有另一张相似概念的专辑《[月-WINGS](https://zh.wikipedia.org/wiki/月-WINGS "wikilink")》。两张专辑都收录了为她为夜会系列（1989年－1998年每年12月的例行演奏）创作的歌曲。
 
-中岛在第三首乐曲《有朝一日进入梦想》（）中和宫下文一二重唱，该歌曲由担任中岛1990年代专辑主要编曲的[大卫·坎贝尔编曲](https://zh.wikipedia.org/wiki/大卫·坎贝尔 "wikilink")。同样的，在第六首歌曲《我不知道你的语言》（）中，坎贝尔的夫人雷文·肯恩演唱人声。专辑首个曲目《竹之歌》由台湾歌手[任贤齐翻唱为](https://zh.wikipedia.org/wiki/任贤齐 "wikilink")《天涯》，并作为其主演电视剧《[笑傲江湖](https://zh.wikipedia.org/wiki/笑傲江湖_\(2000年臺灣電視劇\) "wikilink")》的片尾曲。
+中岛在第三首乐曲《有朝一日进入梦想》（）中和宫下文一二重唱，该歌曲由担任中岛1990年代专辑主要编曲的[大卫·坎贝尔编曲](../Page/大卫·坎贝尔.md "wikilink")。同样的，在第六首歌曲《我不知道你的语言》（）中，坎贝尔的夫人雷文·肯恩演唱人声。专辑首个曲目《竹之歌》由台湾歌手[任贤齐翻唱为](https://zh.wikipedia.org/wiki/任贤齐 "wikilink")《天涯》，并作为其主演电视剧《[笑傲江湖](https://zh.wikipedia.org/wiki/笑傲江湖_\(2000年臺灣電視劇\) "wikilink")》的片尾曲。
 
 专辑为了促销而为首个歌曲拍摄了[音乐视频](https://zh.wikipedia.org/wiki/音乐视频 "wikilink")，然而《日》后来成为了中岛销量最不成功的专辑之一。在这些专辑发行后，她离开自出道以来的合作的唱片公司[Pony
 Canyon](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")。

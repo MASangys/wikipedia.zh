@@ -1,7 +1,7 @@
 {{ otheruses | Hush }}
 
 《**Hush**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[miss
-A第二張正規專輯](../Page/miss_A.md "wikilink")。[AQ娛樂、JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，2013年11月6日由KT
+A第二張正規專輯](https://zh.wikipedia.org/wiki/miss_A "wikilink")。[AQ娛樂、JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，2013年11月6日由KT
 Music發行。同名歌曲〈Hush〉為專輯主打歌曲。
 
 ## 曲目

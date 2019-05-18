@@ -270,7 +270,7 @@ Cup)是一項賽車運動系列賽。在2012年由[大眾汽車創辦](https://z
 <tr class="odd">
 <td><p>5-6</p></td>
 <td><p>7月4-5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大鵬灣國際賽車場" title="wikilink">大鵬灣國際賽車場</a></p></td>
+<td><p><a href="../Page/大鵬灣國際賽車場.md" title="wikilink">大鵬灣國際賽車場</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

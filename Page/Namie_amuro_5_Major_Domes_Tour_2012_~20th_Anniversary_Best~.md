@@ -15,7 +15,7 @@ Best\~》為[日本歌手](../Page/日本.md "wikilink")[安室奈美惠於](../
   - 本作的2CD收錄的場次一般被認為東京某場，可於〈[In The Spotlight
     (TOKYO)](../Page/Uncontrolled.md "wikilink")〉中聽到安室喊的是「東京Dome」。
   - 本作於藍光綜合榜及DVD綜合榜奪冠，是繼《[namie amuro BEST FICTION TOUR
-    2008-2009](../Page/namie_amuro_BEST_FICTION_TOUR_2008-2009.md "wikilink")》以來的第二次，此項紀錄為女性藝人第一位擁有兩個雙榜奪冠紀錄，超越了[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[AKB48](../Page/AKB48.md "wikilink")、[KARA](../Page/KARA.md "wikilink")，並與[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")、[Mr.Children並列擁有兩次雙榜奪冠紀錄](../Page/Mr.Children.md "wikilink")。
+    2008-2009](https://zh.wikipedia.org/wiki/namie_amuro_BEST_FICTION_TOUR_2008-2009 "wikilink")》以來的第二次，此項紀錄為女性藝人第一位擁有兩個雙榜奪冠紀錄，超越了[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[AKB48](../Page/AKB48.md "wikilink")、[KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")，並與[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")、[Mr.Children並列擁有兩次雙榜奪冠紀錄](../Page/Mr.Children.md "wikilink")。
   - 「2CD租借盤」於3月27日於租借商店發行。
   - 亞洲巡迴演唱會「namie amuro ASIA TOUR 2013」中將歌單裡的〈Go Round〉改為全英文詞的〈GO ROUND
     ('N ROUND 'N ROUND)〉、〈YEAH-OH〉改為全英文詞的「SINGING "YEAH-OH"」、〈你愛我嗎
@@ -94,7 +94,8 @@ Best\~》為[日本歌手](../Page/日本.md "wikilink")[安室奈美惠於](../
 
     <li value=16>
 
-    **[a walk in the park](../Page/a_walk_in_the_park.md "wikilink")**
+    **[a walk in the
+    park](https://zh.wikipedia.org/wiki/a_walk_in_the_park "wikilink")**
 
 2.  **[SWEET 19
     BLUES](https://zh.wikipedia.org/wiki/SWEET_19_BLUES_\(曲\) "wikilink")**

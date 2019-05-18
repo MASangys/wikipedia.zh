@@ -8,7 +8,7 @@
 
 它使用了*cdebconf*（一個使用[C語言寫](https://zh.wikipedia.org/wiki/C語言 "wikilink")實作）來實現在安裝時同時進行配置。
 
-它原先只支援文字模式及[ncurses](../Page/ncurses.md "wikilink")。圖形前端（使用[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")、[DirectFB編寫](https://zh.wikipedia.org/wiki/DirectFB "wikilink")）於Debian
+它原先只支援文字模式及[ncurses](https://zh.wikipedia.org/wiki/ncurses "wikilink")。圖形前端（使用[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")、[DirectFB編寫](https://zh.wikipedia.org/wiki/DirectFB "wikilink")）於Debian
 4.0（代號：“etch”)一同釋出。從Debian 6.0（代號：
 “Squeeze”）開始，它使用[X.org來代替](https://zh.wikipedia.org/wiki/X.org "wikilink")[DirectFB](https://zh.wikipedia.org/wiki/DirectFB "wikilink")。
 

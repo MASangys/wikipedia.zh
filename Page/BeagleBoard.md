@@ -85,7 +85,7 @@ Capes 可以被堆积装入 BeagleBone (同时可安装 4 块）。这些 Capes 
 Dedicated single mini-USB client port (no additional 2-port hub)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Micro-HDMI" title="wikilink">Micro-HDMI</a>, cape add-ons</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Micro-HDMI" title="wikilink">Micro-HDMI</a>, cape add-ons</p></td>
-<td><p>2 GB 8-bit <a href="https://zh.wikipedia.org/wiki/eMMC" title="wikilink">eMMC</a> (<a href="https://zh.wikipedia.org/wiki/Ångström_distribution" title="wikilink">Ångström</a> pre-installed), <a href="../Page/microSD.md" title="wikilink">microSD</a> card 3.3 V Supported (No Card Supplied)</p></td>
+<td><p>2 GB 8-bit <a href="https://zh.wikipedia.org/wiki/eMMC" title="wikilink">eMMC</a> (<a href="https://zh.wikipedia.org/wiki/Ångström_distribution" title="wikilink">Ångström</a> pre-installed), <a href="https://zh.wikipedia.org/wiki/microSD" title="wikilink">microSD</a> card 3.3 V Supported (No Card Supplied)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Fast_Ethernet" title="wikilink">Fast Ethernet</a></p></td>
 </tr>
 <tr class="odd">
@@ -146,7 +146,7 @@ Dedicated single mini-USB client port (no additional 2-port hub)</p></td>
 [Fedora](../Page/Fedora.md "wikilink"),
 [Android](../Page/Android.md "wikilink"),
 [Ubuntu](../Page/Ubuntu.md "wikilink"),
-[openSUSE](../Page/openSUSE.md "wikilink") 和
+[openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink") 和
 [Ångström](https://zh.wikipedia.org/wiki/埃格斯特朗套件 "wikilink") 已支持
 BeagleBoard 的硬件。BeagleBoard 也支持
 [FreeBSD](../Page/FreeBSD.md "wikilink"),

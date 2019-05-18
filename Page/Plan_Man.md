@@ -11,19 +11,17 @@ Man**》（）是一部2014年上映的[韓國電影](../Page/韓國電影.md "w
 
   - [鄭在詠](../Page/鄭在詠.md "wikilink") 飾演 韓正錫
   - [韓志旼](../Page/韓志旼.md "wikilink") 飾演 劉素晶
-  - [張光](https://zh.wikipedia.org/wiki/張光_\(演員\) "wikilink") 飾演 具尚允
+  - [張光](../Page/張光_\(演員\).md "wikilink") 飾演 具尚允
   - [金智英](https://zh.wikipedia.org/wiki/金智英 "wikilink") 飾演 精神科醫師
   - [車藝蓮](../Page/車藝蓮.md "wikilink") 飾演 李智媛
   - [崔元英](../Page/崔元英.md "wikilink") 飾演 姜炳秀
-  - [朱鎮模](https://zh.wikipedia.org/wiki/朱鎮模_\(1958年\) "wikilink") 飾演
-    洗衣店老闆
-  - [朴真珠](https://zh.wikipedia.org/wiki/朴真珠 "wikilink") 飾演 銀河
+  - [朱鎮模](../Page/朱鎮模_\(1958年\).md "wikilink") 飾演 洗衣店老闆
+  - [朴真珠](../Page/朴真珠.md "wikilink") 飾演 銀河
   - [成秉淑](../Page/成秉淑.md "wikilink") 飾演 美英
-  - [河在淑](https://zh.wikipedia.org/wiki/河在淑 "wikilink") 飾演
-    做任何事都覺得很煩惱的無助女
+  - [河在淑](../Page/河在淑.md "wikilink") 飾演 做任何事都覺得很煩惱的無助女
   - [李寒娜](https://zh.wikipedia.org/wiki/李寒娜 "wikilink") 飾演 雨衣少女
   - [權賢尚](../Page/權賢尚.md "wikilink") 飾演 過去和素晶一起組樂隊的男生
-  - [崔秉默](https://zh.wikipedia.org/wiki/崔秉默 "wikilink") 飾演 審查委員
+  - [崔秉默](../Page/崔秉默.md "wikilink") 飾演 審查委員
 
 ## 外部連結
 

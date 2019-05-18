@@ -10,7 +10,7 @@ FM城市之音、馬來西亞MY FM、新加坡[UFM
 ## 評獎根據
 
 Hito流行音樂頒獎典禮所有獎項源，根據[HitFM聯播網全年度](https://zh.wikipedia.org/wiki/HitFM聯播網 "wikilink")52週(統計時間：前年12月至去年11月)的「Hito排行榜」總積分來結算。也依據唱片行銷售量
-(含[玫瑰唱片](https://zh.wikipedia.org/wiki/玫瑰唱片 "wikilink")、大眾唱片、五大唱片、佳佳唱片等全台各大唱片行)、[數位音樂下載](../Page/數位音樂下載.md "wikilink")(包含[KKBOX](../Page/KKBOX.md "wikilink")、[ezPeer和各鈴聲下載榜](../Page/Mymusic.md "wikilink"))，以及Hit
+(含[玫瑰唱片](https://zh.wikipedia.org/wiki/玫瑰唱片 "wikilink")、大眾唱片、五大唱片、佳佳唱片等全台各大唱片行)、[數位音樂下載](../Page/數位音樂下載.md "wikilink")(包含[KKBOX](../Page/KKBOX.md "wikilink")、[ezPeer和各鈴聲下載榜](https://zh.wikipedia.org/wiki/Mymusic "wikilink"))，以及Hit
 Fm聯播網AIR PLAY（聽眾點播、網站票選和電台播出率等）。
 
 同一日中國[城市之音聯播網](https://zh.wikipedia.org/wiki/城市之音 "wikilink")，馬來西亞[MY

@@ -8,7 +8,7 @@
 Rubble」一樣強壯而命名\[3\]。
 
 年幼時曾加入名為「We Zaa
-Cool」的舞團（與[YG娛樂旗下女子組合](../Page/YG娛樂.md "wikilink")[BLACKPINK的成員](../Page/BLACKPINK.md "wikilink")[Lisa同為該舞團的成員](https://zh.wikipedia.org/wiki/Lisa_\(泰國歌手\) "wikilink")），四處參加比賽和表演，2009年曾多次在泰國歌唱節目《LG
+Cool」的舞團（與[YG娛樂旗下女子組合](../Page/YG娛樂.md "wikilink")[BLACKPINK的成員](../Page/BLACKPINK.md "wikilink")[Lisa同為該舞團的成員](../Page/Lisa_\(泰國歌手\).md "wikilink")），四處參加比賽和表演，2009年曾多次在泰國歌唱節目《LG
 Entertainer》亮相表演。BamBam尤其擅長模仿Rain的舞蹈，2007年在泰國參加Rain Cover
 Dance比賽獲得冠軍，雖然因此得到[JYP娛樂培訓的機會](../Page/JYP娛樂.md "wikilink")，但考慮到年紀太小，最終並未前往，直到後來開始拍攝廣告，才再次受到JYP娛樂星探的注意，受邀參加甄選\[4\]，2010年5月前往韓國JYP娛樂展開約3年半的練習生訓練生活。
 
@@ -47,8 +47,7 @@ FEATHER」。
 
   - 2015年
     [優酷](https://zh.wikipedia.org/wiki/優酷網 "wikilink")、[土豆](https://zh.wikipedia.org/wiki/土豆網 "wikilink")《[Dream
-    Knight
-    玩偶騎士](https://zh.wikipedia.org/wiki/Dream_Knight "wikilink")》飾
+    Knight 玩偶騎士](../Page/Dream_Knight.md "wikilink")》飾
     BamBam（男配角）（2015年1月27日－2015年3月5日）
 
 ## 綜藝作品
@@ -60,7 +59,7 @@ FEATHER」。
   - 2016年
     [JTBC](../Page/JTBC.md "wikilink")《[我朋友的家在哪裡](https://zh.wikipedia.org/wiki/我朋友的家在哪裡 "wikilink")》（2016年3月6日、13日、20日、27日），與Jackson
   - 2016年
-    [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[真正的男人](https://zh.wikipedia.org/wiki/真正的男人 "wikilink")》同伴入伍特輯（2016年5月15日－2016年7月10日），與Jackson
+    [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[真正的男人](../Page/真正的男人.md "wikilink")》同伴入伍特輯（2016年5月15日－2016年7月10日），與Jackson
   - 2016年 K STAR《任意演員》（2016年6月14日- 2016年9月6日）
 
 ### 綜藝節目
@@ -68,7 +67,7 @@ FEATHER」。
   - 2017年 [泰國Channel 3](../Page/泰國第3電視台.md "wikilink")《3 zap》
   - 2017年 泰國Channel 3《Today Show》
   - 2017年 泰國Workpoint
-    TV《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》泰國版，與[Mark](../Page/段宜恩.md "wikilink")、[榮宰](https://zh.wikipedia.org/wiki/崔榮宰 "wikilink")、[有謙](https://zh.wikipedia.org/wiki/金有謙 "wikilink")
+    TV《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》泰國版，與[Mark](../Page/段宜恩.md "wikilink")、[榮宰](../Page/崔榮宰.md "wikilink")、[有謙](https://zh.wikipedia.org/wiki/金有謙 "wikilink")
   - 2018年 泰國Workpoint TV《[蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》泰國版
   - 2018年 [泰國Channel
     7](../Page/7頻道_HD.md "wikilink")《[超人回來了](https://zh.wikipedia.org/wiki/超人回來了 "wikilink")》泰國版
@@ -76,11 +75,11 @@ FEATHER」。
     [JTBC](../Page/JTBC.md "wikilink")《[認識的哥哥](../Page/認識的哥哥.md "wikilink")》EP.141（2018年8月18日）
   - 2019年 泰國True4U《GOT7的Real Thai》EP.6－13 特別節目
   - 2019年
-    [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[超級實習生](https://zh.wikipedia.org/wiki/超級實習生 "wikilink")》EP7－8（2019年3月7、14日）
+    [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[超級實習生](../Page/超級實習生.md "wikilink")》EP7－8（2019年3月7、14日）
   - 2019年 泰國Channel 3《At Ten Day》
   - 2019年 泰國Workpoint TV《The Flash Quiz》
   - 2019年
-    [SBS](../Page/SBS_\(韓國\).md "wikilink")《[傳說中的大魚](https://zh.wikipedia.org/wiki/傳說中的大魚 "wikilink")》EP.2－3（2019年4月12、19日）
+    [SBS](../Page/SBS_\(韓國\).md "wikilink")《[傳說中的大魚](../Page/傳說中的大魚.md "wikilink")》EP.2－3（2019年4月12、19日）
 
 ### 主持
 
@@ -108,8 +107,8 @@ FEATHER」。
     [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》（2018年10月7日）特別MC
   - 2018年 Mnet《[M\! Countdown × KCON 2018
     THAILAND](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》（2018年9月30日錄製，10月11日放送）特別MC
-  - 2019年 [Jus2](https://zh.wikipedia.org/wiki/JUS2 "wikilink") <FOCUS>
-    PREMIERE SHOWCASE TOUR 雅加達站（2019年4月21日）、曼谷站（2019年4月26-28日）特別MC
+  - 2019年 [Jus2](../Page/JUS2.md "wikilink") <FOCUS> PREMIERE SHOWCASE
+    TOUR 雅加達站（2019年4月21日）、曼谷站（2019年4月26-28日）特別MC
 
 ## 廣告代言
 
@@ -124,8 +123,7 @@ FEATHER」。
   - 2018-19年 泰國 [Vivo手機 V9、V11、V11i、V15](../Page/Vivo.md "wikilink")
   - 2018-19年 泰國 RESTIER 樂睡恬寢具
   - 2018-19年 泰國 [AIS通信](../Page/AIS通信.md "wikilink") NEXT G
-  - 2018-19年 泰國 [Shopee
-    蝦皮購物](https://zh.wikipedia.org/wiki/蝦皮購物 "wikilink")
+  - 2018-19年 泰國 [Shopee 蝦皮購物](../Page/蝦皮購物.md "wikilink")
   - 2018-19年 泰國 [Lee牛仔褲](../Page/Lee.md "wikilink") LEExBAMBAM 服裝聯名款
   - 2018-19年 泰國
     [UNICEF聯合國兒童基金會](https://zh.wikipedia.org/wiki/聯合國兒童基金會 "wikilink")

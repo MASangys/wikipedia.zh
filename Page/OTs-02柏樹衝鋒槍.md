@@ -1,4 +1,4 @@
-**OTs-02柏樹**（）是一種由[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[圖拉兵工廠的TsKIB](https://zh.wikipedia.org/wiki/圖拉兵工廠 "wikilink")
+**OTs-02柏樹**（）是一種由[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[圖拉兵工廠的TsKIB](../Page/圖拉兵工廠.md "wikilink")
 SOO設計局於1970年代初設計，1991年才開始服役的[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")。該槍目前主要列裝於俄羅斯境內的各個執法機構，當中包括俄羅斯[警察及](../Page/警察.md "wikilink")[俄羅斯內務部](https://zh.wikipedia.org/wiki/俄羅斯內務部 "wikilink")。
 
 ## 設計特徵

@@ -7,7 +7,7 @@ DOGTV在创立之初仅由[考克斯通讯公司和](https://zh.wikipedia.org/wi
 
 运营商考虑将DOGTV推广到国际，目前正准备进军[韩国和](https://zh.wikipedia.org/wiki/韩国 "wikilink")[日本](../Page/日本.md "wikilink")\[5\]。但暂没有进入[中国大陆或](../Page/中国大陆.md "wikilink")[台湾市场的计划](https://zh.wikipedia.org/wiki/台湾 "wikilink")。
 
-2017年4月，香港已經由[ViuTVsix購買DOGTV播放](https://zh.wikipedia.org/wiki/ViuTVsix "wikilink")。
+2017年4月，香港已經由[ViuTVsix購買DOGTV播放](../Page/ViuTVsix.md "wikilink")。
 
 ## 参考资料
 

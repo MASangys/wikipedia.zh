@@ -46,7 +46,7 @@ Nobody*）是於2006年改编自日本漫畫家[久保帶人作品](https://zh.w
 </tr>
 <tr class="even">
 <td><p>'''<a href="../Page/山本元柳齋重國.md" title="wikilink">山本元柳齋重國</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/塚田正昭" title="wikilink">塚田正昭</a></p></td>
+<td><p><a href="../Page/塚田正昭.md" title="wikilink">塚田正昭</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/碎蜂" title="wikilink">碎蜂</a></p></td>
@@ -90,7 +90,7 @@ Nobody*）是於2006年改编自日本漫畫家[久保帶人作品](https://zh.w
 </tr>
 <tr class="odd">
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/護廷十三隊#十番隊（巡邏警備隊）" title="wikilink">松本亂菊</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松谷彼哉" title="wikilink">松谷彼哉</a></p></td>
+<td><p><a href="../Page/松谷彼哉.md" title="wikilink">松谷彼哉</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/護廷十三隊#十一番隊（戰鬥專屬隊）" title="wikilink">草鹿八千流</a></p></td>
@@ -196,7 +196,7 @@ Nobody*）是於2006年改编自日本漫畫家[久保帶人作品](https://zh.w
 
   - 原作：[久保帶人](https://zh.wikipedia.org/wiki/久保帶人 "wikilink")
   - 導演：[阿部記之](../Page/阿部記之.md "wikilink")
-  - 劇本：[十川誠志](https://zh.wikipedia.org/wiki/十川誠志 "wikilink")
+  - 劇本：[十川誠志](../Page/十川誠志.md "wikilink")
   - 角色設定：[工藤昌史](https://zh.wikipedia.org/wiki/工藤昌史 "wikilink")
   - 音樂：[鷺巢詩郎](../Page/鷺巢詩郎.md "wikilink")
 

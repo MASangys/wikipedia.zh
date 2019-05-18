@@ -13,7 +13,7 @@ Now和若干其他功能。
 [Nexus_5_(1).jpg](https://zh.wikipedia.org/wiki/File:Nexus_5_\(1\).jpg "fig:Nexus_5_(1).jpg")
 
 外观方面采用了与[Nexus 7
-(2013)相同的](https://zh.wikipedia.org/wiki/Nexus_7_\(2013\) "wikilink")[聚碳酸酯外壳](../Page/聚碳酸酯.md "wikilink")，有黑色、白色和红色可选。其中白色手机的机身正面仍为黑色，但听筒部位为白色，红色版本手机也采用了相同的样式。
+(2013)相同的](../Page/Nexus_7_\(2013\).md "wikilink")[聚碳酸酯外壳](../Page/聚碳酸酯.md "wikilink")，有黑色、白色和红色可选。其中白色手机的机身正面仍为黑色，但听筒部位为白色，红色版本手机也采用了相同的样式。
 
 硬件配置方面与[LG
 G2相似](../Page/LG_G2.md "wikilink")，搭配了一枚2.3GHz的[Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink")
@@ -28,7 +28,7 @@ Nexus
 5支持[4G网络](../Page/4G.md "wikilink")。分为北美版（LG-D820）和国际版（LG-D821），两个版本之间的差异主要在网络制式方面。\[2\]\[3\]
 
 与[Nexus 4相同](../Page/Nexus_4.md "wikilink")，Nexus
-5没有[microSD卡插槽](../Page/microSD.md "wikilink")，在屏幕底部有一颗彩色[LED通知灯](https://zh.wikipedia.org/wiki/LED "wikilink")。
+5没有[microSD卡插槽](https://zh.wikipedia.org/wiki/microSD "wikilink")，在屏幕底部有一颗彩色[LED通知灯](https://zh.wikipedia.org/wiki/LED "wikilink")。
 
 值得注意的是，Nexus 5
 搭载了[步数检测器和](https://zh.wikipedia.org/wiki/步数检测器 "wikilink")[计步器](https://zh.wikipedia.org/wiki/计步器 "wikilink")。这两个传感器让应用程序可以轻松的记录用户在走路、跑步或爬楼梯时走过的步数。两个传感器均采用了低功耗设计。
@@ -38,7 +38,7 @@ Nexus
 [2013_Taipei_IT_Month_LG-D821_20131203.jpg](https://zh.wikipedia.org/wiki/File:2013_Taipei_IT_Month_LG-D821_20131203.jpg "fig:2013_Taipei_IT_Month_LG-D821_20131203.jpg")
 
 Nexus 5是市面上第一款搭配[Android](../Page/Android.md "wikilink") 4.4
-KitKat的智能手机。新加入了[HDR+照片拍摄模式](https://zh.wikipedia.org/wiki/HDR+ "wikilink")、[Google即时桌面](https://zh.wikipedia.org/wiki/Google即时桌面 "wikilink")、[屏幕录制程序和其他新功能和改进功能](https://zh.wikipedia.org/wiki/屏幕录制 "wikilink")。
+KitKat的智能手机。新加入了[HDR+照片拍摄模式](https://zh.wikipedia.org/wiki/HDR+ "wikilink")、[Google即时桌面](../Page/Google即时桌面.md "wikilink")、[屏幕录制程序和其他新功能和改进功能](https://zh.wikipedia.org/wiki/屏幕录制 "wikilink")。
 
 Nexus 5也是市面上第一款可以在手机设置的开发者模式中选择在[Android
 Runtime](https://zh.wikipedia.org/wiki/Android_Runtime "wikilink")\[4\]

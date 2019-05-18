@@ -1,6 +1,6 @@
 **The New ASUS PadFone
 Infinity**是[臺灣電腦公司](../Page/臺灣.md "wikilink")[華碩電腦於](https://zh.wikipedia.org/wiki/華碩電腦 "wikilink")2013年9月18日所推出的高階智慧型手機產品，是此系列[PadFone
-Inifinity的小幅改款之作](../Page/華碩Padfone_Infinity.md "wikilink")，針對CPU升級以及使用者介面做了些許的改變。此機也因為華碩與[GARMIN導航結束合作關係](https://zh.wikipedia.org/wiki/GARMIN "wikilink")，並無內建GARMIN應用程式。
+Inifinity的小幅改款之作](https://zh.wikipedia.org/wiki/華碩Padfone_Infinity "wikilink")，針對CPU升級以及使用者介面做了些許的改變。此機也因為華碩與[GARMIN導航結束合作關係](https://zh.wikipedia.org/wiki/GARMIN "wikilink")，並無內建GARMIN應用程式。
 
 ## 技術規格
 

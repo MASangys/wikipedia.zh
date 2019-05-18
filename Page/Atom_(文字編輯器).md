@@ -1,18 +1,18 @@
-**Atom**是由[GitHub開發的](../Page/GitHub.md "wikilink")[自由及开放源代码的](../Page/自由及开放源代码软件.md "wikilink")[文字與程式碼編輯器](https://zh.wikipedia.org/wiki/文字編輯器 "wikilink")\[1\]\[2\]，支援[macOS](../Page/macOS.md "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux作業系統](../Page/Linux.md "wikilink")\[3\]，支援[Node.js所寫的外掛程式](../Page/Node.js.md "wikilink")\[4\]，並內建由[Github提供的](../Page/GitHub.md "wikilink")[Git版本控制系統](../Page/Git.md "wikilink")。多數的延伸套件皆為開放原始碼授權，並由社群建置與維護\[5\]。Atom基於使用[Chromium和Node](../Page/Chromium.md "wikilink").js的跨平台应用框架[Electron](https://zh.wikipedia.org/wiki/Electron "wikilink")（最初名为Atom
-Shell），并使用[CoffeeScript和](../Page/CoffeeScript.md "wikilink")[Less撰寫](../Page/LESS_\(层叠样式表\).md "wikilink")\[6\]。Atom也可當作[IDE使用](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")\[7\]\[8\]\[9\]。被它的开发者称为“21
+**Atom**是由[GitHub開發的](../Page/GitHub.md "wikilink")[自由及开放源代码的](../Page/自由及开放源代码软件.md "wikilink")[文字與程式碼編輯器](https://zh.wikipedia.org/wiki/文字編輯器 "wikilink")\[1\]\[2\]，支援[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux作業系統](../Page/Linux.md "wikilink")\[3\]，支援[Node.js所寫的外掛程式](../Page/Node.js.md "wikilink")\[4\]，並內建由[Github提供的](../Page/GitHub.md "wikilink")[Git版本控制系統](../Page/Git.md "wikilink")。多數的延伸套件皆為開放原始碼授權，並由社群建置與維護\[5\]。Atom基於使用[Chromium和Node](../Page/Chromium.md "wikilink").js的跨平台应用框架[Electron](../Page/Electron.md "wikilink")（最初名为Atom
+Shell），并使用[CoffeeScript和](../Page/CoffeeScript.md "wikilink")[Less撰寫](https://zh.wikipedia.org/wiki/LESS_\(层叠样式表\) "wikilink")\[6\]。Atom也可當作[IDE使用](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")\[7\]\[8\]\[9\]。被它的开发者称为“21
 世纪的“黑客”文本编辑器（hackable text editor for the 21st
 Century）”。\[10\]自2014年5月6日起，Atom的核心程式、套件管理器以及Atom基於Chromium的桌面程式框架皆使用[MIT授權條款釋出](https://zh.wikipedia.org/wiki/MIT授權條款 "wikilink")\[11\]\[12\]。
 
 ## 语言支持
 
 依靠内置的默认插件，Atom
-v1.5.1在某些方面支持以下[程序语言或](https://zh.wikipedia.org/wiki/程序语言 "wikilink")[标记语言](https://zh.wikipedia.org/wiki/标记语言 "wikilink")：[HTML](../Page/HTML.md "wikilink")、[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、[Less](../Page/LESS_\(层叠样式表\).md "wikilink")、[Sass](../Page/Sass.md "wikilink")、[GitHub
+v1.5.1在某些方面支持以下[程序语言或](https://zh.wikipedia.org/wiki/程序语言 "wikilink")[标记语言](https://zh.wikipedia.org/wiki/标记语言 "wikilink")：[HTML](../Page/HTML.md "wikilink")、[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、[Less](https://zh.wikipedia.org/wiki/LESS_\(层叠样式表\) "wikilink")、[Sass](../Page/Sass.md "wikilink")、[GitHub
 Flavored
 Markdown](https://zh.wikipedia.org/wiki/Markdown "wikilink")、[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")/[C++](../Page/C++.md "wikilink")、[C\#](../Page/C♯.md "wikilink")、[Go](../Page/Go.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[JSON](../Page/JSON.md "wikilink")、[CoffeeScript](../Page/CoffeeScript.md "wikilink")、[Python](../Page/Python.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Ruby
 on Rails](../Page/Ruby_on_Rails.md "wikilink")、[shell
 script](https://zh.wikipedia.org/wiki/shell_script "wikilink")、[Clojure](https://zh.wikipedia.org/wiki/Clojure "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Git](https://zh.wikipedia.org/wiki/Git_\(software\) "wikilink")、[Make](../Page/Make.md "wikilink")、[Property
 List
-(Apple)](../Page/蘋果開發工具.md "wikilink")、[TOML](https://zh.wikipedia.org/wiki/TOML "wikilink")、[XML](../Page/XML.md "wikilink")、[YAML](../Page/YAML.md "wikilink")、[Mustache](https://zh.wikipedia.org/wiki/Mustache_\(模板系统\) "wikilink")、[Julia和](../Page/Julia_\(编程语言\).md "wikilink")[SQL](../Page/SQL.md "wikilink")。
+(Apple)](../Page/蘋果開發工具.md "wikilink")、[TOML](../Page/TOML.md "wikilink")、[XML](../Page/XML.md "wikilink")、[YAML](../Page/YAML.md "wikilink")、[Mustache](https://zh.wikipedia.org/wiki/Mustache_\(模板系统\) "wikilink")、[Julia和](../Page/Julia_\(编程语言\).md "wikilink")[SQL](../Page/SQL.md "wikilink")。
 
 ## 插件
 

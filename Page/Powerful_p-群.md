@@ -1,4 +1,4 @@
-在[數學的](https://zh.wikipedia.org/wiki/數學 "wikilink")[群論中](https://zh.wikipedia.org/wiki/群論 "wikilink")，特別在[*p*-群和](../Page/p-群.md "wikilink")[pro-*p*-群的研究中](https://zh.wikipedia.org/wiki/pro-p-group "wikilink")，**powerful
+在[數學的](https://zh.wikipedia.org/wiki/數學 "wikilink")[群論中](https://zh.wikipedia.org/wiki/群論 "wikilink")，特別在[*p*-群和](https://zh.wikipedia.org/wiki/p-群 "wikilink")[pro-*p*-群的研究中](https://zh.wikipedia.org/wiki/pro-p-group "wikilink")，**powerful
 *p*-群**是一個起著重要作用的概念。這個概念是在引入的，該文中並給出了幾個應用，包括[Schur乘子的一些結果](https://zh.wikipedia.org/wiki/Schur乘子 "wikilink")。powerful
 *p*-群用於*p*-群的[自同構研究](https://zh.wikipedia.org/wiki/自同構 "wikilink")，[受限制的Burnside問題的解答](https://zh.wikipedia.org/wiki/受限制的Burnside問題 "wikilink")，以coclass猜想作出的有限*p*-群分類，及給出了很好的方法去理解解析pro-*p*-群
 。
@@ -18,7 +18,8 @@ powerful
 *p*-群提供了簡單方法去描繪[*p*-進解析群](https://zh.wikipedia.org/wiki/p-進數 "wikilink")（在*p*-進數上為[流形的群](../Page/流形.md "wikilink")）的特性：一個有限生成pro-*p*群是*p*-進解析的，當且僅當這個群包含一個powerful的[開](https://zh.wikipedia.org/wiki/開集 "wikilink")[正規子群](https://zh.wikipedia.org/wiki/正規子群 "wikilink")。這是[Michel
 Lazard](https://zh.wikipedia.org/wiki/Michel_Lazard "wikilink")(1965)一個深刻結果的特例。
 
-一些與阿貝爾[*p*-群相似的性質有](../Page/p-群.md "wikilink")：若\(G\)是powerful *p*-群，則：
+一些與阿貝爾[*p*-群相似的性質有](https://zh.wikipedia.org/wiki/p-群 "wikilink")：若\(G\)是powerful
+*p*-群，則：
 
   - \(G\)的[Frattini子群](https://zh.wikipedia.org/wiki/Frattini子群 "wikilink")\(\Phi(G)\)有性質\(\Phi(G) = G^p\)
   - \(G^{p^k} = \{g^{p^k}|g\in G\}\)對所有\(k\geq 1.\)。就是以\(p^k\)次冪*生成的群*，正是\(p^k\)次冪的*集合*。

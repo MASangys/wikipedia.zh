@@ -264,7 +264,7 @@ Ceceo指的是歷史上的與均發為清齒-齒齦噝音/s̄/（與相似）的
 ## 參見
 
   - [西班牙語字母](https://zh.wikipedia.org/wiki/西班牙語字母 "wikilink")
-  - [Yeísmo](https://zh.wikipedia.org/wiki/Yeísmo "wikilink")
+  - [Yeísmo](../Page/Yeísmo.md "wikilink")
   - [四假名](https://zh.wikipedia.org/wiki/四假名 "wikilink")：[日語中的類似現象](https://zh.wikipedia.org/wiki/日語 "wikilink")。
 
 ## 註釋

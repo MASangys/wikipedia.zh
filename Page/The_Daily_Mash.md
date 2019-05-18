@@ -1,4 +1,4 @@
-****是一家对时事和其它新闻报道提供[戏仿评论的](https://zh.wikipedia.org/wiki/戏仿 "wikilink")[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[讽刺](../Page/讽刺.md "wikilink")[网站](https://zh.wikipedia.org/wiki/网站 "wikilink")。《[星期日泰晤士報](../Page/星期日泰晤士報.md "wikilink")》前时政记者尼尔·拉弗蒂（）和《[苏格兰人报](https://zh.wikipedia.org/wiki/苏格兰人报 "wikilink")》前财经版编辑保罗·斯托克斯（）于2007年创办了这家网站，并且留任主编。两人都通过网站的广告和商品赚取收入，还会聘请[自由撰稿人](https://zh.wikipedia.org/wiki/自由撰稿人 "wikilink")。网站上发表的文章以其[荒诞](https://zh.wikipedia.org/wiki/超现实主义幽默 "wikilink")、的幽默和有见地的政治讽刺获得了好评，被认为与美国的《[洋葱报](../Page/洋葱报.md "wikilink")》相比也毫不逊色。
+****是一家对时事和其它新闻报道提供[戏仿评论的](https://zh.wikipedia.org/wiki/戏仿 "wikilink")[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[讽刺](../Page/讽刺.md "wikilink")[网站](https://zh.wikipedia.org/wiki/网站 "wikilink")。《[星期日泰晤士報](../Page/星期日泰晤士報.md "wikilink")》前时政记者尼尔·拉弗蒂（）和《[苏格兰人报](../Page/苏格兰人报.md "wikilink")》前财经版编辑保罗·斯托克斯（）于2007年创办了这家网站，并且留任主编。两人都通过网站的广告和商品赚取收入，还会聘请[自由撰稿人](https://zh.wikipedia.org/wiki/自由撰稿人 "wikilink")。网站上发表的文章以其[荒诞](https://zh.wikipedia.org/wiki/超现实主义幽默 "wikilink")、的幽默和有见地的政治讽刺获得了好评，被认为与美国的《[洋葱报](../Page/洋葱报.md "wikilink")》相比也毫不逊色。
 
 ## 历史
 

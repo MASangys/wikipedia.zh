@@ -189,7 +189,7 @@ PenTile是由Candice H. Brown Elliott所發明的。
   - [ZTE
     Blade](https://zh.wikipedia.org/wiki/ZTE_Blade "wikilink")（僅限OLED變種）
 
-  - [Nexus 6](https://zh.wikipedia.org/wiki/Nexus_6 "wikilink")
+  - [Nexus 6](../Page/Nexus_6.md "wikilink")
 
 ## PenTile RGBW
 

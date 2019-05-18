@@ -1,4 +1,4 @@
-電子遊戲《[最終幻想](https://zh.wikipedia.org/wiki/最終幻想_\(遊戲\) "wikilink")》和《[最終幻想II](https://zh.wikipedia.org/wiki/最終幻想II "wikilink")》的音樂由系列長期作曲者[植松伸夫譜曲](../Page/植松伸夫.md "wikilink")，他之後又為其他7部最終幻想遊戲譜曲。雖然兩部遊戲是分開譜曲的，但其經常一起發行。合輯《最終幻想I·II全曲集》收錄了兩部遊戲幾乎全部的音樂，其由DataM/Polystar於1989莫阿米發行，後來又由[NTT出版於](https://zh.wikipedia.org/wiki/NTT出版 "wikilink")1994年再版。《交響組曲最終幻想》收錄[服部克久與其子服部隆之前兩部遊戲的](../Page/服部克久.md "wikilink")[改編樂](https://zh.wikipedia.org/wiki/改編 "wikilink")，由DataM於1989年發行，後於1994年由NTT出版/Polystar再版。另一個改編專輯《最終幻想I·II原聲音樂》由植松伸夫和[關戶剛所做](https://zh.wikipedia.org/wiki/關戶剛 "wikilink")，由[DigiCube於](https://zh.wikipedia.org/wiki/DigiCube "wikilink")2002年發行，[史克威爾艾尼克斯於](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")2004年再次發行。
+電子遊戲《[最終幻想](https://zh.wikipedia.org/wiki/最終幻想_\(遊戲\) "wikilink")》和《[最終幻想II](https://zh.wikipedia.org/wiki/最終幻想II "wikilink")》的音樂由系列長期作曲者[植松伸夫譜曲](../Page/植松伸夫.md "wikilink")，他之後又為其他7部最終幻想遊戲譜曲。雖然兩部遊戲是分開譜曲的，但其經常一起發行。合輯《最終幻想I·II全曲集》收錄了兩部遊戲幾乎全部的音樂，其由DataM/Polystar於1989莫阿米發行，後來又由[NTT出版於](https://zh.wikipedia.org/wiki/NTT出版 "wikilink")1994年再版。《交響組曲最終幻想》收錄[服部克久與其子服部隆之前兩部遊戲的](../Page/服部克久.md "wikilink")[改編樂](https://zh.wikipedia.org/wiki/改編 "wikilink")，由DataM於1989年發行，後於1994年由NTT出版/Polystar再版。另一個改編專輯《最終幻想I·II原聲音樂》由植松伸夫和[關戶剛所做](../Page/關戶剛.md "wikilink")，由[DigiCube於](../Page/DigiCube.md "wikilink")2002年發行，[史克威爾艾尼克斯於](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")2004年再次發行。
 
 音樂獲得媒體好評；評論通常稱讚原版音樂的質量和力量，改變樂曲也獲得良好反響。《主題曲》和《馬托婭的洞窟》等曲目直到今天還依然受歡迎，在管絃音樂會上多次演出，並收錄於史克威爾艾尼克斯內外出版的改編專輯與合輯中。
 
@@ -31,7 +31,7 @@ Central的艾萨克·恩格尔霍恩也很喜歡專輯，稱其是“精彩”�
 
 ## 最終幻想I·II原聲音樂
 
-《最終幻想I·II原聲音樂》（）是遊戲[PlayStation版](https://zh.wikipedia.org/wiki/PlayStation "wikilink")《[最终幻想I·II珍藏包](https://zh.wikipedia.org/wiki/最终幻想I·II珍藏包 "wikilink")》的原聲專輯。原聲收錄原版音樂因PlayStation聲音機能提升而重編的樂曲。曲目由植松伸夫譜寫，並由植松和[關戶剛重編](https://zh.wikipedia.org/wiki/關戶剛 "wikilink")。專輯收錄兩碟65首曲目，記1小時42分30秒。專輯由DigiCube於2002年10月23日首發，後由史克威爾艾尼克斯於2004年9月23日再版。原版目錄號為SSCX-10071\~2，再版目錄號為SQEX-10032\~3。首張碟片收錄植松伸夫為《最終幻想》重編的音樂，第二張碟片收錄關戶剛為《最終幻想II》重編的音樂\[19\]。
+《最終幻想I·II原聲音樂》（）是遊戲[PlayStation版](https://zh.wikipedia.org/wiki/PlayStation "wikilink")《[最终幻想I·II珍藏包](https://zh.wikipedia.org/wiki/最终幻想I·II珍藏包 "wikilink")》的原聲專輯。原聲收錄原版音樂因PlayStation聲音機能提升而重編的樂曲。曲目由植松伸夫譜寫，並由植松和[關戶剛重編](../Page/關戶剛.md "wikilink")。專輯收錄兩碟65首曲目，記1小時42分30秒。專輯由DigiCube於2002年10月23日首發，後由史克威爾艾尼克斯於2004年9月23日再版。原版目錄號為SSCX-10071\~2，再版目錄號為SQEX-10032\~3。首張碟片收錄植松伸夫為《最終幻想》重編的音樂，第二張碟片收錄關戶剛為《最終幻想II》重編的音樂\[19\]。
 
 《最終幻想I·II原聲音樂》獲得好評並登上日本[公信榜第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")87位，Square
 Enix Music Online的盧斯卡稱讚了關戶剛在編曲方面的影響，並將專輯推薦給最終幻想鐵杆愛好者\[20\]\[21\] 。

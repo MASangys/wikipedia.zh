@@ -2,7 +2,7 @@
 Star選拔生存戰**》（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台](../Page/SBS_\(韓國\).md "wikilink")《[星期天真好](../Page/星期天真好.md "wikilink")》綜藝時段的一部綜藝節目（二部時為《[Running
 Man](../Page/Running_Man.md "wikilink")》）。作為大型選秀音樂節目《K-pop
 Star》的第一季，節目自2011年12月4日開始接檔《[減肥淘汰賽
-Victory](https://zh.wikipedia.org/wiki/減肥淘汰賽_Victory "wikilink")》逢[韓國時間星期日下午](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")5時10分播出，每集約90分鐘。
+Victory](../Page/減肥淘汰賽_Victory.md "wikilink")》逢[韓國時間星期日下午](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")5時10分播出，每集約90分鐘。
 
 節目聯合韓國三大[經紀公司](../Page/經紀公司.md "wikilink")（[SM娛樂](../Page/SM娛樂.md "wikilink")、[YG娛樂](../Page/YG娛樂.md "wikilink")、[JYP娛樂](../Page/JYP娛樂.md "wikilink")）對來自全球各地熱愛[K-pop的人才進行選拔](../Page/韓國流行音樂.md "wikilink")，參賽者透過重重關卡成為下個「韓流明星」，冠軍可以選擇與三間公司之一簽約並獲得三億韓圓。\[1\]節目評審由各經紀公司的代表（[BoA](https://zh.wikipedia.org/wiki/寳兒 "wikilink")、[朴軫永](../Page/朴軫永.md "wikilink")、[梁鉉錫](../Page/梁鉉錫.md "wikilink")）擔任。\[2\]
 
@@ -16,24 +16,24 @@ Victory](https://zh.wikipedia.org/wiki/減肥淘汰賽_Victory "wikilink")》逢
 
 ### 第一集
 
-| 序號 | 姓名/隊名                                                | 表演內容                                                               | 合格/不合格 | 結果 |
-| -- | ---------------------------------------------------- | ------------------------------------------------------------------ | ------ | -- |
-| YG | JYP                                                  | SM                                                                 |        |    |
-| 1  | 손안나                                                  | If I Ain't Got You - Alicia Keys                                   | X      | X  |
-| 2  | 이바램                                                  | 인생은 즐거워 - 제시카 H.O                                                  | X      | X  |
-| 3  | 김보라                                                  | Rock and Roll - Led Zeppelin                                       | X      | X  |
-| 4  | 표애랑                                                  | 미아 - 박정현                                                           | X      | X  |
-| 5  | 이해나                                                  | Halo - [Beyonce](https://zh.wikipedia.org/wiki/Beyonce "wikilink") | X      | X  |
-| 6  | [任多榮](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink") | 예감 좋은 날 - Rumble Fish / 이젠 그랬으면 좋겠네 - 조용필                          | X      | O  |
-| 7  | 김철연                                                  | Come Back Home - 서태지와 아이들                                          | O      | X  |
-| 8  | 손미진                                                  | Loving You Was Like a Party - Marlena Shaw                         | O      | O  |
-| 9  | 김나윤                                                  | Fallin' - Alicia Keys                                              | O      | O  |
-| 10 | [白娥娟](../Page/白娥娟.md "wikilink")                     | Poker Face - [Lady GaGa](../Page/Lady_GaGa.md "wikilink")          | O      | O  |
-| 11 | 에린 영                                                 | Titanium - David Guetta                                            | O      | X  |
-| 12 | 마이클 라이언                                              | Just Dance - [Lady GaGa](../Page/Lady_GaGa.md "wikilink")          | X      | X  |
-| 13 | 박정은                                                  | (舞蹈)                                                               | O      | O  |
-| 14 | 김수환                                                  | 하고 싶은 말 - 이석훈(노래) / (舞蹈)                                           | O      | X  |
-|    |                                                      |                                                                    |        |    |
+| 序號 | 姓名/隊名                                                | 表演內容                                                                         | 合格/不合格 | 結果 |
+| -- | ---------------------------------------------------- | ---------------------------------------------------------------------------- | ------ | -- |
+| YG | JYP                                                  | SM                                                                           |        |    |
+| 1  | 손안나                                                  | If I Ain't Got You - Alicia Keys                                             | X      | X  |
+| 2  | 이바램                                                  | 인생은 즐거워 - 제시카 H.O                                                            | X      | X  |
+| 3  | 김보라                                                  | Rock and Roll - Led Zeppelin                                                 | X      | X  |
+| 4  | 표애랑                                                  | 미아 - 박정현                                                                     | X      | X  |
+| 5  | 이해나                                                  | Halo - [Beyonce](https://zh.wikipedia.org/wiki/Beyonce "wikilink")           | X      | X  |
+| 6  | [任多榮](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink") | 예감 좋은 날 - Rumble Fish / 이젠 그랬으면 좋겠네 - 조용필                                    | X      | O  |
+| 7  | 김철연                                                  | Come Back Home - 서태지와 아이들                                                    | O      | X  |
+| 8  | 손미진                                                  | Loving You Was Like a Party - Marlena Shaw                                   | O      | O  |
+| 9  | 김나윤                                                  | Fallin' - Alicia Keys                                                        | O      | O  |
+| 10 | [白娥娟](../Page/白娥娟.md "wikilink")                     | Poker Face - [Lady GaGa](https://zh.wikipedia.org/wiki/Lady_GaGa "wikilink") | O      | O  |
+| 11 | 에린 영                                                 | Titanium - David Guetta                                                      | O      | X  |
+| 12 | 마이클 라이언                                              | Just Dance - [Lady GaGa](https://zh.wikipedia.org/wiki/Lady_GaGa "wikilink") | X      | X  |
+| 13 | 박정은                                                  | (舞蹈)                                                                         | O      | O  |
+| 14 | 김수환                                                  | 하고 싶은 말 - 이석훈(노래) / (舞蹈)                                                     | O      | X  |
+|    |                                                      |                                                                              |        |    |
 
 ### 第二集
 

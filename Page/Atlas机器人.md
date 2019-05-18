@@ -14,7 +14,7 @@ derived_from =
 
 ## 设计和开发
 
-Atlas的的设计和生产是由DARPA，美国国防部的一个机构，负责监督与[波士顿动力公司合作](https://zh.wikipedia.org/wiki/波士顿动力公司 "wikilink")。机器人的一只手由Sandia国家实验室开发的，而另一个是由[iRobot公司开发](../Page/iRobot.md "wikilink")。\[2\]在2013年，[国防高等研究计划署](https://zh.wikipedia.org/wiki/国防高等研究计划署 "wikilink")（DARPA）的项目经理吉尔普拉特（Gill
+Atlas的的设计和生产是由DARPA，美国国防部的一个机构，负责监督与[波士顿动力公司合作](https://zh.wikipedia.org/wiki/波士顿动力公司 "wikilink")。机器人的一只手由Sandia国家实验室开发的，而另一个是由[iRobot公司开发](https://zh.wikipedia.org/wiki/iRobot "wikilink")。\[2\]在2013年，[国防高等研究计划署](https://zh.wikipedia.org/wiki/国防高等研究计划署 "wikilink")（DARPA）的项目经理吉尔普拉特（Gill
 Pratt）把Atlas机器人的原型版本和小孩子相比较，他说：“一个1岁的孩子几乎不能走路，1岁的孩子摔倒了很多......这就是我们现在处于的状态。“\[3\]
 
 Atlas机器人是基于波士顿动力公司早期的*PETMAN*人形机器人，它有四个[液压驱动的四肢](https://zh.wikipedia.org/wiki/液压 "wikilink")。\[4\]

@@ -1,6 +1,6 @@
 《**Bad But
 Good**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[miss
-A出道首張單曲專輯](../Page/miss_A.md "wikilink")，[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，於2010年7月1日由[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。〈Bad
+A出道首張單曲專輯](https://zh.wikipedia.org/wiki/miss_A "wikilink")，[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，於2010年7月1日由[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。〈Bad
 Girl Good Girl〉為專輯主打歌曲。
 
 ## 曲目

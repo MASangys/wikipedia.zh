@@ -1,5 +1,5 @@
 **OPPO Find
-7**是一款由[OPPO公司研製的](https://zh.wikipedia.org/wiki/OPPO "wikilink")[Android](../Page/Android.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，為第一支採用了2K解析度螢幕的智慧型手機。
+7**是一款由[OPPO公司研製的](../Page/OPPO.md "wikilink")[Android](../Page/Android.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，為第一支採用了2K解析度螢幕的智慧型手機。
 
 在中國，共有標準版(內部代號為**X9077**)、輕裝版(內部代號為**X9007**)。在海外，共有兩種版本，分別是 OPPO Find
 7(內部代號為**X9076**、OPPO Find 7a(內部代號為**X9006**)。

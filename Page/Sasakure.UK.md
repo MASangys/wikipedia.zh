@@ -18,7 +18,7 @@ sasakure.UK
 創作活動，使用別名義「chocolate max」投稿了樂曲「★SweeT
 DiscoverY★」大受歡迎、作品中暖洋洋的音色和自製圖像贏得一定人氣，另有名義「TJ.hangneil」投稿作品「神威」。
 
-2007年末，在[NICONICO動畫網站投稿](../Page/NICONICO動畫.md "wikilink")[VOCALOID樂曲](../Page/VOCALOID.md "wikilink")，認為使用VOCALOID創作是「希望寫出只有VOCALOID能表現出來的歌曲」\[6\]，2009年發表的VOCALOID作品皆獲得絕大人氣。
+2007年末，在[NICONICO動畫網站投稿](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[VOCALOID樂曲](../Page/VOCALOID.md "wikilink")，認為使用VOCALOID創作是「希望寫出只有VOCALOID能表現出來的歌曲」\[6\]，2009年發表的VOCALOID作品皆獲得絕大人氣。
 
 2010年3月正式出道，發行第一張商業專輯《**ボーカロイドは終末鳥の夢を見るか？**（VOCALOID會夢見終結之鳥嗎？）》\[7\]，專輯使用了當時尚未發售的[初音未來Append音源](../Page/初音未來.md "wikilink")。負責開發[初音未來的製作人佐佐木涉表示](../Page/初音未來.md "wikilink")「以VOCALOID為名，將聲音的碎片保存起來，這些聲音將失去些什麼？能得到什麼樣的魅力？使用這些聲音說出愛的話語，又真的帶著情感和意識嗎？sasakure.UK
 的音樂世界揉合了流行和嚴肅層面，探討VOCALOID而言什麼是最重要的。」\[8\]
@@ -29,8 +29,8 @@ sasakure.UK 歌曲「**\*ハロー、プラネット。**」中的故事設定�
 本人負責擔綱製作人和遊戲音樂。\[9\]
 
 2011年，擔綱遊戲《》主題曲「SeventH-HeaveN」。\[10\]年末組成與歌手
-[marina](../Page/marina.md "wikilink") 組成搖滾團體「**有形ランペイジ UK
-Rampage**」。\[11\]
+[marina](https://zh.wikipedia.org/wiki/marina "wikilink")
+組成搖滾團體「**有形ランペイジ UK Rampage**」。\[11\]
 
 2012年發行了第二張商業專輯《幻実アイソーポス》，首度邀請真人歌手與VOCALOID共演。\[12\]\[13\]與
 [DECO\*27](../Page/DECO*27.md "wikilink")

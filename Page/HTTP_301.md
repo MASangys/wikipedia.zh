@@ -1,7 +1,7 @@
 **301 Move Permanently**
 是[HTTP协议中的一个状态码](https://zh.wikipedia.org/wiki/HTTP协议 "wikilink")（Status
 Code）。可以简单地理解为该资源已经被永久改变了位置\[1\]，通常会发送[HTTP
-Location来](https://zh.wikipedia.org/wiki/HTTP_Location "wikilink")[重定向到正确的新位置](https://zh.wikipedia.org/wiki/重定向 "wikilink")。
+Location来](../Page/HTTP_Location.md "wikilink")[重定向到正确的新位置](https://zh.wikipedia.org/wiki/重定向 "wikilink")。
 
 返回301请求码进行跳转被[Google认为是将网站地址由](../Page/Google.md "wikilink") HTTP 迁移到
 [HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink") 的最佳方法。\[2\]
@@ -59,7 +59,7 @@ Server的](../Page/Apache_HTTP_Server.md "wikilink")[.htaccess](https://zh.wikip
     RewriteCond %{SERVER_PORT} 80
     RewriteRule ^(.*)$ https://example.com/$1 [R,L]
 
-等价的 [NGINX](../Page/NGINX.md "wikilink") 配置方式：
+等价的 [NGINX](https://zh.wikipedia.org/wiki/NGINX "wikilink") 配置方式：
 
     location /old/url/ {
         return 301 /new/url;
@@ -78,7 +78,7 @@ exit();
 ## 客户端实现问题
 
 当某些HTTP/1.0客户端收到该状态码时，可能会将POST方法改为GET方法，继续向新地址发出请求，这是错误的实现——故而后续标准引入了[HTTP
-307](https://zh.wikipedia.org/wiki/HTTP_307 "wikilink")。\[8\]
+307](../Page/HTTP_307.md "wikilink")。\[8\]
 
 ## 搜索引擎优化
 
@@ -89,11 +89,10 @@ exit();
   - [.htaccess](https://zh.wikipedia.org/wiki/.htaccess "wikilink")
   - [HTTP狀態碼](https://zh.wikipedia.org/wiki/HTTP狀態碼 "wikilink")
   - [URL重寫](../Page/URL重寫.md "wikilink")
-  - [HTTP 302](https://zh.wikipedia.org/wiki/HTTP_302 "wikilink")
+  - [HTTP 302](../Page/HTTP_302.md "wikilink")
   - [HTTP 303](../Page/HTTP_303.md "wikilink")
-  - [HTTP 307](https://zh.wikipedia.org/wiki/HTTP_307 "wikilink")
-  - [HTTP
-    Location](https://zh.wikipedia.org/wiki/HTTP_Location "wikilink")
+  - [HTTP 307](../Page/HTTP_307.md "wikilink")
+  - [HTTP Location](../Page/HTTP_Location.md "wikilink")
 
 ## 参考文献
 

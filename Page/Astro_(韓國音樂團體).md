@@ -84,17 +84,17 @@ PRESENT》兩版本年曆。
 | ------------------------------------------------------------ |
 | 藝名                                                           |
 | 英文                                                           |
-| [MJ](https://zh.wikipedia.org/wiki/MJ_\(ASTRO\) "wikilink")  |
+| [MJ](../Page/MJ_\(ASTRO\).md "wikilink")                     |
 | MJ                                                           |
-| [JIN JIN](https://zh.wikipedia.org/wiki/朴真祐 "wikilink")      |
+| [JIN JIN](../Page/朴真祐.md "wikilink")                         |
 | JIN JIN                                                      |
 | [車銀優](https://zh.wikipedia.org/wiki/車銀優_\(韓國歌手\) "wikilink") |
 | Cha Eun Woo                                                  |
 | [文彬](../Page/文彬_\(韓國歌手\).md "wikilink")                      |
 | Moon Bin                                                     |
-| [Rocky](https://zh.wikipedia.org/wiki/朴敏赫 "wikilink")        |
+| [Rocky](../Page/朴敏赫.md "wikilink")                           |
 | Rocky                                                        |
-| [尹產賀](https://zh.wikipedia.org/wiki/尹產賀 "wikilink")          |
+| [尹產賀](../Page/尹產賀.md "wikilink")                             |
 | Yoon San Ha                                                  |
 
 ## 音樂作品
@@ -142,7 +142,7 @@ PRESENT》兩版本年曆。
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Summer_Vibes" title="wikilink">Summer Vibes</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Summer_Vibes.md" title="wikilink">Summer Vibes</a></strong>》</p>
 <ul>
 <li>發行日期：2016年7月1日</li>
 <li>語言：韓語</li>
@@ -152,7 +152,7 @@ PRESENT》兩版本年曆。
 </tr>
 <tr class="even">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Autumn_Story" title="wikilink">Autumn Story</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Autumn_Story.md" title="wikilink">Autumn Story</a></strong>》</p>
 <ul>
 <li>發行日期：2016年11月10日</li>
 <li>語言：韓語</li>
@@ -253,13 +253,13 @@ PRESENT》兩版本年曆。
 
 ### 原聲帶
 
-|             |                     |                                                                                    |       |     |
-| ----------- | ------------------- | ---------------------------------------------------------------------------------- | ----- | --- |
-| 發行日期        | 歌曲                  | 原聲帶                                                                                | 時長    | 演唱者 |
-| 2018年8月31日  | Rainbow Falling     | 《[我的ID是江南美人](https://zh.wikipedia.org/wiki/我的ID是江南美人 "wikilink")》OST part.7        | 04:17 | 車銀優 |
-| 2018年10月2日  | Get Myself With You | 《[Top Management](https://zh.wikipedia.org/wiki/Top_Management "wikilink")》S.O.U.L | 04:12 | 車銀優 |
-| 2018年11月15日 | Together            | 《[Top Management](https://zh.wikipedia.org/wiki/Top_Management "wikilink")》OST     | 03:01 | 車銀優 |
-| 2019年2月5日   | 내 삶의 전부(我人生的全部)     | 《하나뿐인 내편》OST part.28                                                               | 03:28 | MJ  |
+|             |                     |                                                                 |       |     |
+| ----------- | ------------------- | --------------------------------------------------------------- | ----- | --- |
+| 發行日期        | 歌曲                  | 原聲帶                                                             | 時長    | 演唱者 |
+| 2018年8月31日  | Rainbow Falling     | 《[我的ID是江南美人](../Page/我的ID是江南美人.md "wikilink")》OST part.7        | 04:17 | 車銀優 |
+| 2018年10月2日  | Get Myself With You | 《[Top Management](../Page/Top_Management.md "wikilink")》S.O.U.L | 04:12 | 車銀優 |
+| 2018年11月15日 | Together            | 《[Top Management](../Page/Top_Management.md "wikilink")》OST     | 03:01 | 車銀優 |
+| 2019年2月5日   | 내 삶의 전부(我人生的全部)     | 《하나뿐인 내편》OST part.28                                            | 03:28 | MJ  |
 
 ### Fantagio 家族專輯FM201.8
 
@@ -285,7 +285,7 @@ PRESENT》兩版本年曆。
 <td><p>2018年4月30日</p></td>
 <td><p>언어 영역<br />
 （語言領域）</p></td>
-<td><p>文彬 &amp; <a href="https://zh.wikipedia.org/wiki/Weki_Meki" title="wikilink">Weki Meki</a>(Suyeon)</p></td>
+<td><p>文彬 &amp; <a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a>(Suyeon)</p></td>
 <td><p>03:11</p></td>
 </tr>
 <tr class="even">
@@ -300,7 +300,7 @@ PRESENT》兩版本年曆。
 <td><p>2018年8月30日</p></td>
 <td><p>오늘처럼<br />
 (Like Today)</p></td>
-<td><p>MJ &amp; <a href="https://zh.wikipedia.org/wiki/Weki_Meki" title="wikilink">Weki Meki</a>(Lucy)</p></td>
+<td><p>MJ &amp; <a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a>(Lucy)</p></td>
 <td><p>03:44</p></td>
 </tr>
 <tr class="even">
@@ -314,7 +314,7 @@ PRESENT》兩版本年曆。
 <td><p>12Hz</p></td>
 <td><p>2018年12月13日</p></td>
 <td><p>All I Want</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ASTRO" title="wikilink">ASTRO</a>, <a href="https://zh.wikipedia.org/wiki/Weki_Meki" title="wikilink">Weki Meki</a>, <a href="../Page/Hello_Venus.md" title="wikilink">Hello Venus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ASTRO" title="wikilink">ASTRO</a>, <a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a>, <a href="../Page/Hello_Venus.md" title="wikilink">Hello Venus</a></p></td>
 <td><p>4:00</p></td>
 </tr>
 </tbody>
@@ -356,19 +356,19 @@ PRESENT》兩版本年曆。
 
 ### 網路劇
 
-|           |                                                     |                                                                           |     |     |     |
-| --------- | --------------------------------------------------- | ------------------------------------------------------------------------- | --- | --- | --- |
-| 年份        | 播放平台                                                | 劇名                                                                        | 演出  | 角色  | 備註  |
-| 2015      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [To Be Continued](../Page/To_Be_Continued.md "wikilink")                  | 全體  | 主角  | 男主角 |
-| 2016      | [NAVER](../Page/NAVER.md "wikilink")                | 我的浪漫曖昧食譜                                                                  | 車銀優 | 車銀優 | 男主角 |
-| 2017      | [NAVER](../Page/NAVER.md "wikilink")                | 偶像權限代理                                                                    | 文彬  | 練習生 | 客串  |
-| oksusu TV | 復仇筆記                                                | 車銀優                                                                       | 車銀優 | 男配角 |     |
-| MJ        | MJ                                                  | 客串                                                                        |     |     |     |
-| JINJIN    | JINJIN                                              |                                                                           |     |     |     |
-| 文彬        | 文彬                                                  |                                                                           |     |     |     |
-| Rocky     | Rocky                                               |                                                                           |     |     |     |
-| 尹產賀       | 尹產賀                                                 |                                                                           |     |     |     |
-| 2018      | [YouTube](../Page/YouTube.md "wikilink")            | [Top Management](https://zh.wikipedia.org/wiki/Top_Management "wikilink") | 車銀優 | 禹延宇 | 男主角 |
+|           |                                                     |                                                          |     |     |     |
+| --------- | --------------------------------------------------- | -------------------------------------------------------- | --- | --- | --- |
+| 年份        | 播放平台                                                | 劇名                                                       | 演出  | 角色  | 備註  |
+| 2015      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [To Be Continued](../Page/To_Be_Continued.md "wikilink") | 全體  | 主角  | 男主角 |
+| 2016      | [NAVER](../Page/NAVER.md "wikilink")                | 我的浪漫曖昧食譜                                                 | 車銀優 | 車銀優 | 男主角 |
+| 2017      | [NAVER](../Page/NAVER.md "wikilink")                | 偶像權限代理                                                   | 文彬  | 練習生 | 客串  |
+| oksusu TV | 復仇筆記                                                | 車銀優                                                      | 車銀優 | 男配角 |     |
+| MJ        | MJ                                                  | 客串                                                       |     |     |     |
+| JINJIN    | JINJIN                                              |                                                          |     |     |     |
+| 文彬        | 文彬                                                  |                                                          |     |     |     |
+| Rocky     | Rocky                                               |                                                          |     |     |     |
+| 尹產賀       | 尹產賀                                                 |                                                          |     |     |     |
+| 2018      | [YouTube](../Page/YouTube.md "wikilink")            | [Top Management](../Page/Top_Management.md "wikilink")   | 車銀優 | 禹延宇 | 男主角 |
 
 ### 電視劇
 
@@ -394,7 +394,7 @@ PRESENT》兩版本年曆。
 <tr class="odd">
 <td><p>2015</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/七顛八起具海拉" title="wikilink">七顛八起具海拉</a></p></td>
+<td><p><a href="../Page/七顛八起具海拉.md" title="wikilink">七顛八起具海拉</a></p></td>
 <td><p>文彬<br />
 Rocky</p></td>
 <td><p>練習生</p></td>
@@ -403,7 +403,7 @@ Rocky</p></td>
 <tr class="even">
 <td><p>2017</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/最佳的一擊" title="wikilink">最佳的一擊</a></p></td>
+<td><p><a href="../Page/最佳的一擊.md" title="wikilink">最佳的一擊</a></p></td>
 <td><p>車銀優</p></td>
 <td><p>MJ</p></td>
 <td><p>男配角</p></td>
@@ -411,7 +411,7 @@ Rocky</p></td>
 <tr class="odd">
 <td><p>2018</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我的ID是江南美人" title="wikilink">我的ID是江南美人</a></p></td>
+<td><p><a href="../Page/我的ID是江南美人.md" title="wikilink">我的ID是江南美人</a></p></td>
 <td><p>車銀優</p></td>
 <td><p>都炅錫</p></td>
 <td><p>男主角</p></td>
@@ -857,21 +857,21 @@ Rocky</p></td>
 
 ### 2016年
 
-| 首張迷你專輯《Spring Up》                                                           |
-| --------------------------------------------------------------------------- |
-| 節目名稱                                                                        |
-| Hide & Seek                                                                 |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                        |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")      |
-| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")              |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")          |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")                    |
-| [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink") |
-| OK\! Ready                                                                  |
-| Show Champion                                                               |
-| 人氣歌謠                                                                        |
-| Cat's Eye                                                                   |
-| THE SHOW                                                                    |
+| 首張迷你專輯《Spring Up》                                                      |
+| ---------------------------------------------------------------------- |
+| 節目名稱                                                                   |
+| Hide & Seek                                                            |
+| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
+| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")         |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               |
+| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
+| OK\! Ready                                                             |
+| Show Champion                                                          |
+| 人氣歌謠                                                                   |
+| Cat's Eye                                                              |
+| THE SHOW                                                               |
 
 | 第二張迷你專輯《Summer Vibes》 |
 | --------------------- |
@@ -957,42 +957,42 @@ Rocky</p></td>
 | Again                |
 | M\! Countdown        |
 
-| 第四張迷你專輯《Dream Part.01》                                                      |
-| --------------------------------------------------------------------------- |
-| 節目名稱                                                                        |
-| Baby                                                                        |
-| [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink") |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                        |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")      |
-| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")              |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")          |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")                    |
-| Simply K-Pop                                                                |
-| 너라서（Because It's You）                                                       |
-| [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink") |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                        |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")      |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")          |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")                    |
+| 第四張迷你專輯《Dream Part.01》                                                 |
+| ---------------------------------------------------------------------- |
+| 節目名稱                                                                   |
+| Baby                                                                   |
+| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
+| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
+| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")         |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               |
+| Simply K-Pop                                                           |
+| 너라서（Because It's You）                                                  |
+| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
+| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               |
 
-| 第五張迷你專輯《Dream Part.02》                                                      |
-| --------------------------------------------------------------------------- |
-| 節目名稱                                                                        |
-| 니가 불어와 (Crazy Sexy Cool)                                                    |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")      |
-| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")              |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")                    |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                        |
-| Simply K-Pop                                                                |
-| [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink") |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")          |
-| RUN                                                                         |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")      |
-| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")              |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                        |
-| Simply K-Pop                                                                |
-| 어느새 우린 (Better With You)                                                    |
-| [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink") |
+| 第五張迷你專輯《Dream Part.02》                                                 |
+| ---------------------------------------------------------------------- |
+| 節目名稱                                                                   |
+| 니가 불어와 (Crazy Sexy Cool)                                               |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
+| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")         |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")               |
+| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
+| Simply K-Pop                                                           |
+| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
+| RUN                                                                    |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
+| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")         |
+| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
+| Simply K-Pop                                                           |
+| 어느새 우린 (Better With You)                                               |
+| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
 
 ### 特別舞台
 
@@ -1288,10 +1288,10 @@ Rocky</p></td>
 <td><p><a href="../Page/Spring_Up.md" title="wikilink">Spring Up</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Summer_Vibes" title="wikilink">Summer Vibes</a></p></td>
+<td><p><a href="../Page/Summer_Vibes.md" title="wikilink">Summer Vibes</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Autumn_Story" title="wikilink">Autumn Story</a></p></td>
+<td><p><a href="../Page/Autumn_Story.md" title="wikilink">Autumn Story</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>

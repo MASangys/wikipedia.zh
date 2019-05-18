@@ -152,7 +152,7 @@ Milk、Garn。
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>8th</strong></p></td>
-<td style="text-align: left;"><p>第九張單曲《<strong><a href="../Page/My_Boy.md" title="wikilink">My Boy</a></strong>》</p>
+<td style="text-align: left;"><p>第九張單曲《<strong><a href="https://zh.wikipedia.org/wiki/My_Boy" title="wikilink">My Boy</a></strong>》</p>
 <ul>
 <li>發行日期：2014年3月27日</li>
 <li>語言：泰語</li>

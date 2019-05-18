@@ -10,22 +10,17 @@ Grey**（）\[1\]是[日本](../Page/日本.md "wikilink")[galgame开发公司Gu
   - 2006年9月29日 - PP -ピアニッシモ- 操リ人形ノ輪舞
   - 2007年4月6日 - 和之匣
   - 2008年7月4日 - [壳之少女](https://zh.wikipedia.org/wiki/壳之少女 "wikilink")
-      - 2013年2月8日 -
-        [虚之少女](https://zh.wikipedia.org/wiki/虚之少女 "wikilink")
+      - 2013年2月8日 - [虚之少女](../Page/虚之少女.md "wikilink")
   - 2009年12月11日 -
   - 2010年12月3日 - Innocent Grey premium box（《恋狱月狂病》、《壳之少女》等4部作品合集\[2\]）
   - 2014年4月18日 - [FLOWERS -Le volume sur
-    printemps-](https://zh.wikipedia.org/wiki/FLOWERS "wikilink")
-    （春篇）（※全年龄）
+    printemps-](../Page/FLOWERS.md "wikilink") （春篇）（※全年龄）
       - 2015年4月17日 - [FLOWERS -Le volume sur
-        été-](https://zh.wikipedia.org/wiki/FLOWERS "wikilink")
-        （夏篇）（※全年龄）
+        été-](../Page/FLOWERS.md "wikilink") （夏篇）（※全年龄）
       - 2016年5月27日 - [FLOWERS -Le volume sur
-        automne-](https://zh.wikipedia.org/wiki/FLOWERS "wikilink")
-        （秋篇）（※全年龄）
+        automne-](../Page/FLOWERS.md "wikilink") （秋篇）（※全年龄）
       - 2017年9月15日 - [FLOWERS -Le volume sur
-        hiver-](https://zh.wikipedia.org/wiki/FLOWERS "wikilink")
-        （冬篇）（※全年龄）
+        hiver-](../Page/FLOWERS.md "wikilink") （冬篇）（※全年龄）
 
 ### Noesis
 

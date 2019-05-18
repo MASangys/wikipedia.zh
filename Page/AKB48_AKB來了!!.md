@@ -402,8 +402,8 @@ AKB來了\!\!**（）是日本偶像組合[AKB48於](../Page/AKB48.md "wikilink"
 
 ## DVD
 
-演唱會的[DVD同樣由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS於](../Page/AKS.md "wikilink")2010年11月28日發行。共分為普通DVD版本、DVD及[microSD版本及Premium](../Page/microSD.md "wikilink")
-Box版本。普通DVD版本與DVD及[microSD版本分為Team](../Page/microSD.md "wikilink")
+演唱會的[DVD同樣由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS於](../Page/AKS.md "wikilink")2010年11月28日發行。共分為普通DVD版本、DVD及[microSD版本及Premium](https://zh.wikipedia.org/wiki/microSD "wikilink")
+Box版本。普通DVD版本與DVD及[microSD版本分為Team](https://zh.wikipedia.org/wiki/microSD "wikilink")
 A、Team K及Team B三款，各附有1枚DVD、1張生寫真及1張收集卡，而microSD亦收錄演唱會內容供手機觀賞。而Premium
 Box則有9枚DVD，分別收錄8場公演及特典映像。此外亦附送5張生寫真、1張收集卡及128頁的演唱會寫真集\[47\]\[48\]。
 

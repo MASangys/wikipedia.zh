@@ -47,7 +47,7 @@ Acquire」。\[4\]以下為Acquire開發的遊戲\[5\]：
 
 <!-- end list -->
 
-  - [秋葉原妄想物語](https://zh.wikipedia.org/wiki/秋葉原妄想物語 "wikilink")（2016）
+  - [秋葉原妄想物語](../Page/秋葉原妄想物語.md "wikilink")（2016）
 
 ### 其他
 

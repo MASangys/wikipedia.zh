@@ -1,6 +1,6 @@
 **NCAA籃球聯賽最傑出球員**（英文：NCAA Basketball Tournament **M**ost **O**utstanding
 **P**layer），簡稱**MOP獎**，為一年一度的籃球獎項，由[美聯社選出頒發給](https://zh.wikipedia.org/wiki/美聯社 "wikilink")[NCAA男子與女子籃球在](https://zh.wikipedia.org/wiki/NCAA "wikilink")**最终四強賽**（俗稱**Final
-Four**）中表現最傑出的球員。MOP獎通常頒發給冠軍隊的球員，特別是從1981年起取消季軍戰之后。最近一位非冠軍隊伍的得主為1983年的[哈基姆·歐拉朱萬](https://zh.wikipedia.org/wiki/哈基姆·歐拉朱萬 "wikilink")，而最近一位非冠軍隊伍的女性得主為1991年的[唐·斯特丽](https://zh.wikipedia.org/wiki/唐·斯特丽 "wikilink")。NCAA史上只有一位非先發球員得到此獎：2013年[路易斯維爾大學的](../Page/路易斯維爾大學.md "wikilink")[Luke
+Four**）中表現最傑出的球員。MOP獎通常頒發給冠軍隊的球員，特別是從1981年起取消季軍戰之后。最近一位非冠軍隊伍的得主為1983年的[哈基姆·歐拉朱萬](https://zh.wikipedia.org/wiki/哈基姆·歐拉朱萬 "wikilink")，而最近一位非冠軍隊伍的女性得主為1991年的[唐·斯特丽](../Page/唐·斯特丽.md "wikilink")。NCAA史上只有一位非先發球員得到此獎：2013年[路易斯維爾大學的](../Page/路易斯維爾大學.md "wikilink")[Luke
 Hancock](https://zh.wikipedia.org/wiki/Luke_Hancock "wikilink")。
 
 ## 歷年得獎者
@@ -135,8 +135,7 @@ Hancock](https://zh.wikipedia.org/wiki/Luke_Hancock "wikilink")。
   - 2012 –
     [安東尼·戴維斯](https://zh.wikipedia.org/wiki/安東尼·戴維斯_\(籃球員\) "wikilink")，肯塔基大學
   - 2013 – ，路易斯維爾大學
-  - 2014 –
-    [沙巴茲·奈皮爾](https://zh.wikipedia.org/wiki/沙巴茲·奈皮爾 "wikilink")，康乃狄克大學
+  - 2014 – [沙巴茲·奈皮爾](../Page/沙巴茲·奈皮爾.md "wikilink")，康乃狄克大學
   - 2015 -
     [泰厄斯•瓊斯](https://zh.wikipedia.org/wiki/泰厄斯•瓊斯 "wikilink"),[杜克大學](https://zh.wikipedia.org/wiki/杜克大學 "wikilink")
 
@@ -160,7 +159,7 @@ Hancock](https://zh.wikipedia.org/wiki/Luke_Hancock "wikilink")。
   - 1990 – [Jennifer
     Azzi](https://zh.wikipedia.org/wiki/Jennifer_Azzi "wikilink")，史丹佛大學
   - 1991 –
-    [唐·斯特丽](https://zh.wikipedia.org/wiki/唐·斯特丽 "wikilink")，[維吉尼亞大學](https://zh.wikipedia.org/wiki/維吉尼亞大學 "wikilink")
+    [唐·斯特丽](../Page/唐·斯特丽.md "wikilink")，[維吉尼亞大學](https://zh.wikipedia.org/wiki/維吉尼亞大學 "wikilink")
   - 1992 – [Molly
     Goodenbour](https://zh.wikipedia.org/wiki/Molly_Goodenbour "wikilink")，史丹佛大學
   - 1993 – [Sheryl
@@ -180,30 +179,22 @@ Hancock](https://zh.wikipedia.org/wiki/Luke_Hancock "wikilink")。
     Ralph](https://zh.wikipedia.org/wiki/Shea_Ralph "wikilink")，康乃狄克大學
   - 2001 – [Ruth
     Riley](https://zh.wikipedia.org/wiki/Ruth_Riley "wikilink")，[聖母大學](../Page/聖母大學.md "wikilink")
-  - 2002 –
-    [斯温·卡什](https://zh.wikipedia.org/wiki/斯温·卡什 "wikilink")，康乃狄克大學
-  - 2003 –
-    [黛安娜·陶乐西](https://zh.wikipedia.org/wiki/黛安娜·陶乐西 "wikilink")，康乃狄克大學
+  - 2002 – [斯温·卡什](../Page/斯温·卡什.md "wikilink")，康乃狄克大學
+  - 2003 – [黛安娜·陶乐西](../Page/黛安娜·陶乐西.md "wikilink")，康乃狄克大學
   - 2004 – Diana Taurasi，康乃狄克大學
   - 2005 – [Sophia
     Young](https://zh.wikipedia.org/wiki/Sophia_Young "wikilink")，[貝勒大學](../Page/貝勒大學.md "wikilink")
   - 2006 – [Laura
     Harper](https://zh.wikipedia.org/wiki/Laura_Harper "wikilink")，[馬里蘭大學學院市分校](../Page/馬里蘭大學學院市分校.md "wikilink")
-  - 2007 –
-    [坎达丝·帕克](https://zh.wikipedia.org/wiki/坎达丝·帕克 "wikilink")，田納西大學
+  - 2007 – [坎达丝·帕克](../Page/坎达丝·帕克.md "wikilink")，田納西大學
   - 2008 – Candace Parker，田納西大學
-  - 2009 –
-    [蒂娜·查尔斯](https://zh.wikipedia.org/wiki/蒂娜·查尔斯 "wikilink")，康乃狄克大學
-  - 2010 –
-    [玛雅·摩尔](https://zh.wikipedia.org/wiki/玛雅·摩尔 "wikilink")，康乃狄克大學
+  - 2009 – [蒂娜·查尔斯](../Page/蒂娜·查尔斯.md "wikilink")，康乃狄克大學
+  - 2010 – [玛雅·摩尔](../Page/玛雅·摩尔.md "wikilink")，康乃狄克大學
   - 2011 – [Danielle
     Adams](https://zh.wikipedia.org/wiki/Danielle_Adams "wikilink")，[德州農工大學](https://zh.wikipedia.org/wiki/德州農工大學 "wikilink")
-  - 2012 –
-    [布里特妮·格里娜](https://zh.wikipedia.org/wiki/布里特妮·格里娜 "wikilink")，貝勒大學
-  - 2013 –
-    [布里安娜·斯图尔特](https://zh.wikipedia.org/wiki/布里安娜·斯图尔特 "wikilink")，康乃狄克大學
-  - 2014 –
-    [布里安娜·斯图尔特](https://zh.wikipedia.org/wiki/布里安娜·斯图尔特 "wikilink")，康乃狄克大學
+  - 2012 – [布里特妮·格里娜](../Page/布里特妮·格里娜.md "wikilink")，貝勒大學
+  - 2013 – [布里安娜·斯图尔特](../Page/布里安娜·斯图尔特.md "wikilink")，康乃狄克大學
+  - 2014 – [布里安娜·斯图尔特](../Page/布里安娜·斯图尔特.md "wikilink")，康乃狄克大學
 
 ## 資料來源與外部連結
 

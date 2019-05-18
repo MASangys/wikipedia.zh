@@ -1,5 +1,5 @@
 **uname**（*unix
-name*的简写）是一个[Unix和](../Page/Unix.md "wikilink")[类Unix](../Page/类Unix系统.md "wikilink")[操作系统上的](../Page/操作系统.md "wikilink")[程序](../Page/计算机程序.md "wikilink")，可以打印当前计算机和操作系统的名称、版本及其他细节。`uname`系统调用和命令第一次出现在[PWB/UNIX上](https://zh.wikipedia.org/wiki/PWB/UNIX "wikilink")。这两个由[POSIX指定](https://zh.wikipedia.org/wiki/POSIX "wikilink")。\[1\]\[2\]
+name*的简写）是一个[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix](../Page/类Unix系统.md "wikilink")[操作系统上的](../Page/操作系统.md "wikilink")[程序](../Page/计算机程序.md "wikilink")，可以打印当前计算机和操作系统的名称、版本及其他细节。`uname`系统调用和命令第一次出现在[PWB/UNIX上](https://zh.wikipedia.org/wiki/PWB/UNIX "wikilink")。这两个由[POSIX指定](https://zh.wikipedia.org/wiki/POSIX "wikilink")。\[1\]\[2\]
 
 一些Unix变种，如[AT\&T](../Page/AT&T.md "wikilink") [System
 V](https://zh.wikipedia.org/wiki/System_V "wikilink")3.0版，包含了相关的`setname`程序，用来改变uname报告的值。
@@ -13,7 +13,7 @@ V](https://zh.wikipedia.org/wiki/System_V "wikilink")3.0版，包含了相关的
 `Darwin Roadrunner.local 10.3.0 Darwin Kernel Version 10.3.0: Fri
 Feb 26 11:58:09 PST 2010; root:xnu-1504.3.12~1/RELEASE_I386 i386`
 
-下表包含了各种版本的`uname`在各种平台上的例子。\[3\]在[bash](../Page/bash.md "wikilink")
+下表包含了各种版本的`uname`在各种平台上的例子。\[3\]在[bash](https://zh.wikipedia.org/wiki/bash "wikilink")
 shell中，[环境变量](../Page/环境变量.md "wikilink")**OSTYPE**包含一个与`uname
 -o`类似（但不完全相同）的值。
 
@@ -132,7 +132,7 @@ shell中，[环境变量](../Page/环境变量.md "wikilink")**OSTYPE**包含一
 <td><p>5.11</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/openSUSE.md" title="wikilink">openSUSE</a> 10.3, Core2-duo 64-bit</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/openSUSE" title="wikilink">openSUSE</a> 10.3, Core2-duo 64-bit</p></td>
 <td><p><a href="../Page/Linux.md" title="wikilink">Linux</a></p></td>
 <td><p>GNU/Linux</p></td>
 <td><p>x86_64</p></td>

@@ -1,6 +1,6 @@
 《**Jessica &
 Krystal**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[On
-Style有線電視台的實境節目](https://zh.wikipedia.org/wiki/On_Style "wikilink")。節目主角為韓國人氣親姐妹[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")（播出时）和[f(x)成員](../Page/f\(x\)_\(組合\).md "wikilink")[Krystal](../Page/鄭秀晶.md "wikilink")，姐妹被安排到屬於兩人的住所（下稱JK
+Style有線電視台的實境節目](https://zh.wikipedia.org/wiki/On_Style "wikilink")。節目主角為韓國人氣親姐妹[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")（播出时）和[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[Krystal](../Page/鄭秀晶.md "wikilink")，姐妹被安排到屬於兩人的住所（下稱JK
 House）居住，透過節目向觀眾展現日常生活中的真實面貌，讓公眾重新認識她們，於2014年6月3日正式首播，於8月5日播出最後一集。\[1\]
 
 ## 背景
@@ -10,7 +10,7 @@ House）居住，透過節目向觀眾展現日常生活中的真實面貌，讓
   - OnStyle相關人員表示將製作新實境節目《Jessica & Krystal》，貼身捕捉 Jessica 與 Krystal
     的日常生活畫面。
   - 受到[世越號沉沒事故影響](https://zh.wikipedia.org/wiki/世越號沉沒事故 "wikilink")，首播由原定5月6日推遲至6月3日。
-  - 2014年6月3日正式首播，[首爾時間每週二播放一集](https://zh.wikipedia.org/wiki/首爾 "wikilink")，於8月5號播出最後一集\[3\]\[4\]。
+  - 2014年6月3日正式首播，[首爾時間每週二播放一集](../Page/首爾.md "wikilink")，於8月5號播出最後一集\[3\]\[4\]。
   - 《Jessica &
     Krystal》結束後，[少女時代分隊](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[TaeTiSeo將於](../Page/少女時代-太蒂徐.md "wikilink")8月25日接捧成為OnStyle
     "Real Stars"系列的下一個明星[真人實境秀](../Page/真人實境秀.md "wikilink")\[5\]\[6\]。
@@ -147,8 +147,8 @@ House）居住，透過節目向觀眾展現日常生活中的真實面貌，讓
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica曝肚臍秘密</a>[12]<br />
 <a href="../Page/鄭秀晶.md" title="wikilink">Krystal透姐妹吵架先道歉</a></p></td>
 <td><p>43分26秒</p></td>
-<td><p><a href="../Page/f(x)_(組合).md" title="wikilink">f(x)</a>、金貞英(個人造型師、<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica朋友</a>)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica與朋友前往購物</a>、<a href="../Page/f(x)_(組合).md" title="wikilink">f(x)第三張正規專輯</a>《<a href="https://zh.wikipedia.org/wiki/Red_Light" title="wikilink">Red Light</a>》MV拍攝現場</p>
+<td><p><a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a>、金貞英(個人造型師、<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica朋友</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica與朋友前往購物</a>、<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)第三張正規專輯</a>《<a href="../Page/Red_Light.md" title="wikilink">Red Light</a>》MV拍攝現場</p>
 <p>Jessica服裝喜好公開，也透露跟在同一家醫院出生的Tiffany不同－討厭淡粉紅色</p>
 <p>Krystal對Jessica購物而生氣，找妹妹幫－<a href="https://zh.wikipedia.org/wiki/劉逸雲" title="wikilink">Amber和</a><a href="../Page/朴善英.md" title="wikilink">Luna吐苦水</a></p>
 <p>Krystal透姐妹吵架先道歉，但Luna肯定不會，因為不甘要向比自己大97秒的雙胞胎低聲下氣</p>
@@ -163,8 +163,8 @@ House）居住，透過節目向觀眾展現日常生活中的真實面貌，讓
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica逗萌娃遭揩油</a>[13]<br />
 <a href="../Page/鄭秀晶.md" title="wikilink">Krystal逼婚</a><a href="../Page/宋茜.md" title="wikilink">宋茜催嫁人</a></p></td>
 <td><p>45分50秒</p></td>
-<td><p><a href="../Page/f(x)_(組合).md" title="wikilink">f(x)</a>、Yuan Min(造型師、美國出生，日本長大的<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica朋友</a>，已有家室)、Leo （她的孩子，當時1歲）金貞英(造型師、<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica朋友</a>)</p></td>
-<td><p><a href="../Page/宋茜.md" title="wikilink">Victoria</a>、<a href="../Page/朴善英.md" title="wikilink">Luna到訪</a> JK House，這次，Krystal留在家裡 <a href="../Page/f(x)_(組合).md" title="wikilink">f(x)</a>《<a href="https://zh.wikipedia.org/wiki/Red_Light" title="wikilink">Red Light</a>》在 <a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown</a> 的回歸舞台，<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a>、Yuan Min(造型師、美國出生，日本長大的<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica朋友</a>，已有家室)、Leo （她的孩子，當時1歲）金貞英(造型師、<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica朋友</a>)</p></td>
+<td><p><a href="../Page/宋茜.md" title="wikilink">Victoria</a>、<a href="../Page/朴善英.md" title="wikilink">Luna到訪</a> JK House，這次，Krystal留在家裡 <a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a>《<a href="../Page/Red_Light.md" title="wikilink">Red Light</a>》在 <a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown</a> 的回歸舞台，<br />
 <a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica因</a><a href="../Page/少女时代.md" title="wikilink">少女時代演唱會前往</a><a href="../Page/日本.md" title="wikilink">日本東京</a>，與金貞英和Yuan Min到時裝店購物，和試驗<a href="../Page/米其林指南.md" title="wikilink">米其林一星</a>，<a href="../Page/銀座.md" title="wikilink">銀座的高級壽司鐵板餐廳</a></p>
 <p>Victoria與Tiffany不同，喜歡被冰箱隱藏攝錄機偷拍</p></td>
 </tr>
@@ -177,8 +177,8 @@ House）居住，透過節目向觀眾展現日常生活中的真實面貌，讓
 <td><p>姐妹踏“<a href="../Page/我們結婚了.md" title="wikilink">我結</a>”之旅<br />
 <a href="../Page/鄭秀晶.md" title="wikilink">Krystal勞累惹姐心疼</a></p></td>
 <td><p>43分44秒</p></td>
-<td><p><a href="../Page/f(x)_(組合).md" title="wikilink">f(x)</a> (<a href="../Page/宋茜.md" title="wikilink">Victoria</a>、<a href="../Page/朴善英.md" title="wikilink">Luna</a>)</p></td>
-<td><p><a href="../Page/f(x)_(組合).md" title="wikilink">f(x)成員前往保齡球場</a>，Luna初次打保齡球，雖然Krystal依然保持水準，但依然需要經紀人提點，才成功補球和打全中 幾天後，姐妹重逢，Jessica剛回國，在週五遊覽<a href="https://zh.wikipedia.org/wiki/南山_(首爾)" title="wikilink">南山和</a><a href="../Page/N首爾塔.md" title="wikilink">南山塔頂峰</a></p>
+<td><p><a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a> (<a href="../Page/宋茜.md" title="wikilink">Victoria</a>、<a href="../Page/朴善英.md" title="wikilink">Luna</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)成員前往保齡球場</a>，Luna初次打保齡球，雖然Krystal依然保持水準，但依然需要經紀人提點，才成功補球和打全中 幾天後，姐妹重逢，Jessica剛回國，在週五遊覽<a href="https://zh.wikipedia.org/wiki/南山_(首爾)" title="wikilink">南山和</a><a href="../Page/N首爾塔.md" title="wikilink">南山塔頂峰</a></p>
 <p>回到JK家裡烘烤藍莓蛋塔，但因為Krystal過於勞累而放棄，由Jessica獨力完成，但蛋塔皮全燒焦，連僅存的兩個也打破，所以把禮包打理好後回自己家，準備早上離境。</p></td>
 </tr>
 <tr class="even">
@@ -208,7 +208,7 @@ House）居住，透過節目向觀眾展現日常生活中的真實面貌，讓
 <td><p>單浩志（本節目幕後配音，前<a href="../Page/终极格斗冠军赛.md" title="wikilink">UFC韓語解說員</a>，Jessica粉絲） 金泰亨（韓國頂級廚師第二季亞軍，Krystal粉絲）</p>
 <p>金貞英(造型師)</p></td>
 <td><p>在Open House下集，金泰亨完成海鮮沙拉 翌日，JK到三星洞拍時裝宣傳海報，由金貞英為監督</p>
-<p>幾天後，Krystal 為姐姐製造的<a href="https://zh.wikipedia.org/wiki/睡衣朋友" title="wikilink">睡衣姐妹計劃</a>，因為兩人都是宅女，所以從小跟父母渡假都是多數呆在酒店。當晚也是錄製尾聲，發表下車感想[16]、Jessica透露她覺得妹妹比想像中專業、獨立。</p></td>
+<p>幾天後，Krystal 為姐姐製造的<a href="../Page/睡衣朋友.md" title="wikilink">睡衣姐妹計劃</a>，因為兩人都是宅女，所以從小跟父母渡假都是多數呆在酒店。當晚也是錄製尾聲，發表下車感想[16]、Jessica透露她覺得妹妹比想像中專業、獨立。</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>

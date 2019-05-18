@@ -24,7 +24,7 @@ log4j团队创建了log4j的继任者，版本号为[2.0](http://logging.apache.
 
 ## 配置log4j 1.2
 
-有三种方法来配置log4j：通过[.properties文件](https://zh.wikipedia.org/wiki/.properties "wikilink")，通过[XML文件](../Page/XML.md "wikilink")，通过Java代码。通过上述任意方法，你可以定义log4j的三个主要组件：Logger、Appender和Layout。通过文件配置log4j，具有无需修改应用即可打开或关闭日志的好处。例如，应用程序可以在日志关闭的情况下运行，直到问题出现后，再日志功能可以简单地通过修改配置文件重新打开。
+有三种方法来配置log4j：通过[.properties文件](../Page/.properties.md "wikilink")，通过[XML文件](../Page/XML.md "wikilink")，通过Java代码。通过上述任意方法，你可以定义log4j的三个主要组件：Logger、Appender和Layout。通过文件配置log4j，具有无需修改应用即可打开或关闭日志的好处。例如，应用程序可以在日志关闭的情况下运行，直到问题出现后，再日志功能可以简单地通过修改配置文件重新打开。
 
 **Logger**（记录器）是日志的逻辑文件名。其使用已知的Java应用程序的名称。每个记录器当前以什么日志记录级别（FATAL、ERROR等）记录是独立配置的。在log4j的早期版本中，这些被称为类别（category）和优先级（priority），但现在他们分别被称为logger（记录器）和level（级别）。
 

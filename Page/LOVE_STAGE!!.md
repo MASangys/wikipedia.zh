@@ -28,7 +28,7 @@ STAGE\!\!**》（）是[影木榮貴和](../Page/影木榮貴.md "wikilink")[藏
   -
     泉水年長7歲的哥哥，生日4月8日。人氣搖滾樂團「CRUSHERZ」的主唱。非常溺愛弟弟。最愛相樂玲。
     《BACK STAGE\!\!》的主角。
-    人物原型為[DAIGO](../Page/DAIGO.md "wikilink")，「CRUSHERZ」則為「[BREAKERZ](../Page/BREAKERZ.md "wikilink")」。
+    人物原型為[DAIGO](https://zh.wikipedia.org/wiki/DAIGO "wikilink")，「CRUSHERZ」則為「[BREAKERZ](../Page/BREAKERZ.md "wikilink")」。
 
 <!-- end list -->
 
@@ -169,7 +169,7 @@ STAGE\!\!**》（）是[影木榮貴和](../Page/影木榮貴.md "wikilink")[藏
 ### 製作人員
 
   - 原作 -
-    [影木榮貴](../Page/影木榮貴.md "wikilink")×[藏王大志](../Page/津田美樹代.md "wikilink")（[KADOKAWA](https://zh.wikipedia.org/wiki/KADOKAWA "wikilink")
+    [影木榮貴](../Page/影木榮貴.md "wikilink")×[藏王大志](../Page/津田美樹代.md "wikilink")（[KADOKAWA](../Page/KADOKAWA.md "wikilink")
     [角川書店](../Page/角川書店.md "wikilink")「CIEL」連載）
   - 監督 - [笠井賢一](../Page/笠井賢一.md "wikilink")
   - 系列構成 - [横手美智子](../Page/横手美智子.md "wikilink")
@@ -193,8 +193,7 @@ STAGE\!\!**》（）是[影木榮貴和](../Page/影木榮貴.md "wikilink")[藏
 ### 主題曲
 
   - 片頭曲「LΦVEST」
-    作詞：勇-YOU-，作曲、編曲：[太田雅友](https://zh.wikipedia.org/wiki/太田雅友 "wikilink")，歌：SCREEN
-    mode
+    作詞：勇-YOU-，作曲、編曲：[太田雅友](../Page/太田雅友.md "wikilink")，歌：SCREEN mode
   - 片尾曲「CLICK YOUR HEART\!\!」
     作詞：，作曲：太田雅友（SCREEN
     mode），編曲：EFFY（FirstCall），歌：[山本和臣](../Page/山本和臣.md "wikilink")
@@ -295,7 +294,7 @@ STAGE\!\!**》（）是[影木榮貴和](../Page/影木榮貴.md "wikilink")[藏
 <td></td>
 <td><p>哪邊才是正確的</p></td>
 <td><p>高田耕一</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鈴木洋平" title="wikilink">鈴木洋平</a></p></td>
+<td><p><a href="../Page/鈴木洋平.md" title="wikilink">鈴木洋平</a></p></td>
 <td><p>松岡謙治、<br />
 櫻井司、鄉津春香<br />
 能海知佳</p></td>

@@ -69,7 +69,7 @@
 
   - 史順宜，香港[新城電台節目主持人](../Page/新城電台.md "wikilink")
 
-  - 香港[天盟娛樂旗下五人跳唱女子組合](https://zh.wikipedia.org/wiki/天盟娛樂 "wikilink")
+  - 香港[天盟娛樂旗下五人跳唱女子組合](../Page/天盟娛樂.md "wikilink")
 
 ## 地點
 

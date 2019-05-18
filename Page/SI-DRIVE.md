@@ -7,7 +7,7 @@
 2006年4月14日第106屆[紐約國際車展中](https://zh.wikipedia.org/wiki/紐約國際車展 "wikilink")，富士重工業首度發表此一最新技術。在排檔桿附近有一顆旋鈕，分成「Intelligent」、「Sport」、「Sport
 Sharp」三種模式，駕駛人可針對不同的行車狀態旋轉此鈕，則此系統通過控制[行車電腦](../Page/发动机控制器.md "wikilink")、（transmission
 control
-unit）及電子油門控制器，來調整電子節氣門及燃油供應\[1\]。目前該系統已廣泛應用於該公司生產的[速霸陸Legacy](../Page/速霸陸Legacy.md "wikilink")、[速霸陸Forester](https://zh.wikipedia.org/wiki/速霸陸Forester "wikilink")、[速霸陸Exiga等車種](https://zh.wikipedia.org/wiki/速霸陸Exiga "wikilink")。
+unit）及電子油門控制器，來調整電子節氣門及燃油供應\[1\]。目前該系統已廣泛應用於該公司生產的[速霸陸Legacy](../Page/速霸陸Legacy.md "wikilink")、[速霸陸Forester](../Page/速霸陸Forester.md "wikilink")、[速霸陸Exiga等車種](../Page/速霸陸Exiga.md "wikilink")。
 
 ### 智慧模式（Intelligent）
 

@@ -58,7 +58,7 @@ One遊戲](../Page/Xbox_One.md "wikilink")。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>HALO Wars 2 <a href="https://zh.wikipedia.org/wiki/星環戰役2" title="wikilink">最後一戰：星環戰役2</a></p></td>
+<td><p>HALO Wars 2 <a href="../Page/星環戰役2.md" title="wikilink">最後一戰：星環戰役2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/即時戰略遊戲" title="wikilink">即時戰略</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Studios" title="wikilink">微軟工作室</a></p></td>
 <td><p>微軟工作室</p></td>
@@ -70,7 +70,7 @@ One遊戲](../Page/Xbox_One.md "wikilink")。
 <td><p>[1]</p></td>
 </tr>
 <tr class="even">
-<td><p>CAPHEAD <a href="https://zh.wikipedia.org/wiki/茶杯頭" title="wikilink">茶杯頭</a></p></td>
+<td><p>CAPHEAD <a href="../Page/茶杯頭.md" title="wikilink">茶杯頭</a></p></td>
 <td><p>動作</p></td>
 <td><p>StudioMDHR Entertainment</p></td>
 <td><p>StudioMDHR Entertainment</p></td>
@@ -131,7 +131,7 @@ Ghost Recon: Wildlands <a href="../Page/火線獵殺：野境.md" title="wikilin
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Outlast 2 <a href="https://zh.wikipedia.org/wiki/絕命精神病院2" title="wikilink">絕命精神病院2</a></p></td>
+<td><p>Outlast 2 <a href="../Page/絕命精神病院2.md" title="wikilink">絕命精神病院2</a></p></td>
 <td><p>恐怖、第一人稱動作、<a href="https://zh.wikipedia.org/wiki/隱蔽類遊戲" title="wikilink">潛行</a></p></td>
 <td><p>Red Barrels</p></td>
 <td><p>Red Barrels</p></td>
@@ -143,9 +143,9 @@ Ghost Recon: Wildlands <a href="../Page/火線獵殺：野境.md" title="wikilin
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Prey <a href="https://zh.wikipedia.org/wiki/獵魂_(2017年遊戲)" title="wikilink">獵魂(掠食)</a></p></td>
+<td><p>Prey <a href="../Page/獵魂_(2017年遊戲).md" title="wikilink">獵魂(掠食)</a></p></td>
 <td><p>動作</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Arkane_Studios" title="wikilink">Arkane Studios</a></p></td>
+<td><p><a href="../Page/Arkane_Studios.md" title="wikilink">Arkane Studios</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/貝塞斯達軟件" title="wikilink">Bethesda貝塞斯達</a></p></td>
 <td></td>
 <td></td>
@@ -240,7 +240,7 @@ Studio Wildcard</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Star Wars Battlefront II <a href="https://zh.wikipedia.org/wiki/星際大戰：戰場前線II" title="wikilink">星際大戰：戰場前線II</a></p></td>
+<td><p>Star Wars Battlefront II <a href="../Page/星際大戰：戰場前線II.md" title="wikilink">星際大戰：戰場前線II</a></p></td>
 <td><p>體育</p></td>
 <td><p><a href="../Page/EA_DICE.md" title="wikilink">EA DICE</a></p></td>
 <td><p>EA藝電</p></td>
@@ -360,7 +360,7 @@ Studio Wildcard</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Dark Souls Remastered <a href="https://zh.wikipedia.org/wiki/黑暗靈魂" title="wikilink">黑暗靈魂重製版</a></p></td>
+<td><p>Dark Souls Remastered <a href="../Page/黑暗靈魂.md" title="wikilink">黑暗靈魂重製版</a></p></td>
 <td><p>動作冒險</p></td>
 <td><p><a href="../Page/FromSoftware.md" title="wikilink">FromSoftware</a></p></td>
 <td><p>萬代南夢宮娛樂</p></td>
@@ -397,7 +397,7 @@ Studio Wildcard</p></td>
 <td><p>[8]</p></td>
 </tr>
 <tr class="odd">
-<td><p>NieR:Automata <a href="https://zh.wikipedia.org/wiki/尼爾：自動人形" title="wikilink">尼爾：自動人形</a></p></td>
+<td><p>NieR:Automata <a href="../Page/尼爾：自動人形.md" title="wikilink">尼爾：自動人形</a></p></td>
 <td><p>動作角色扮演</p></td>
 <td><p><a href="../Page/白金工作室.md" title="wikilink">白金工作室</a></p></td>
 <td><p>史克威爾艾尼克斯</p></td>
@@ -445,7 +445,7 @@ Studio Wildcard</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Winning Eleven/PES 2019 <a href="https://zh.wikipedia.org/wiki/實況足球2019" title="wikilink">實況足球2019</a></p></td>
+<td><p>Winning Eleven/PES 2019 <a href="../Page/實況足球2019.md" title="wikilink">實況足球2019</a></p></td>
 <td><p>體育</p></td>
 <td><p>PES Productions</p></td>
 <td><p><a href="../Page/科樂美.md" title="wikilink">Konami科樂美</a></p></td>
@@ -457,7 +457,7 @@ Studio Wildcard</p></td>
 <td><p>[11]</p></td>
 </tr>
 <tr class="even">
-<td><p>PLAYERUNKNOWN'S BATTLEGROUNDS <a href="https://zh.wikipedia.org/wiki/絕地求生" title="wikilink">絕地求生</a></p></td>
+<td><p>PLAYERUNKNOWN'S BATTLEGROUNDS <a href="../Page/絕地求生.md" title="wikilink">絕地求生</a></p></td>
 <td><p>射擊、生存、第一人稱、第三人稱</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/藍洞" title="wikilink">Bluehole藍洞</a></p></td>
 <td><p>微軟工作室</p></td>
@@ -469,7 +469,7 @@ Studio Wildcard</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>NBA 2K19 <a href="https://zh.wikipedia.org/wiki/NBA_2K19" title="wikilink">NBA 2K19</a></p></td>
+<td><p>NBA 2K19 <a href="../Page/NBA_2K19.md" title="wikilink">NBA 2K19</a></p></td>
 <td><p>體育</p></td>
 <td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
 <td><p><a href="../Page/2K_Sports.md" title="wikilink">2K Sports</a></p></td>
@@ -493,7 +493,7 @@ Studio Wildcard</p></td>
 <td><p>[12]</p></td>
 </tr>
 <tr class="odd">
-<td><p>FIFA 19 <a href="https://zh.wikipedia.org/wiki/FIFA_19" title="wikilink">FIFA 19</a></p></td>
+<td><p>FIFA 19 <a href="../Page/FIFA_19.md" title="wikilink">FIFA 19</a></p></td>
 <td><p>體育</p></td>
 <td><p>EA藝電</p></td>
 <td><p>EA藝電</p></td>
@@ -505,7 +505,7 @@ Studio Wildcard</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>無双OROCHI 3 <a href="https://zh.wikipedia.org/wiki/無雙OROCHI_蛇魔_3" title="wikilink">大蛇無雙3</a></p></td>
+<td><p>無双OROCHI 3 <a href="../Page/無雙OROCHI_蛇魔_3.md" title="wikilink">大蛇無雙3</a></p></td>
 <td><p><a href="../Page/砍殺遊戲.md" title="wikilink">砍殺</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/光榮特庫摩" title="wikilink">光榮特庫摩</a></p></td>
@@ -529,7 +529,7 @@ Studio Wildcard</p></td>
 <td><p>[14]</p></td>
 </tr>
 <tr class="even">
-<td><p>Soulcalibur VI <a href="https://zh.wikipedia.org/wiki/劍魂VI" title="wikilink">劍魂VI</a></p></td>
+<td><p>Soulcalibur VI <a href="../Page/劍魂VI.md" title="wikilink">劍魂VI</a></p></td>
 <td><p>格鬥</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南夢宮" title="wikilink">Project Soul</a></p></td>
 <td><p>萬代南夢宮娛樂</p></td>
@@ -541,7 +541,7 @@ Studio Wildcard</p></td>
 <td><p>[15]</p></td>
 </tr>
 <tr class="odd">
-<td><p>Red Dead Redemption 2 <a href="https://zh.wikipedia.org/wiki/碧血狂殺2" title="wikilink">碧血狂殺2</a></p></td>
+<td><p>Red Dead Redemption 2 <a href="../Page/碧血狂殺2.md" title="wikilink">碧血狂殺2</a></p></td>
 <td><p>第三人稱射擊</p></td>
 <td><p>Rockstar North</p></td>
 <td><p>Rockstar Games</p></td>
@@ -565,10 +565,10 @@ Studio Wildcard</p></td>
 <td><p>[17]</p></td>
 </tr>
 <tr class="odd">
-<td><p>Darksiders III <a href="https://zh.wikipedia.org/wiki/末世騎士III" title="wikilink">末世騎士III</a></p></td>
+<td><p>Darksiders III <a href="../Page/末世騎士III.md" title="wikilink">末世騎士III</a></p></td>
 <td><p>動作冒險、砍殺</p></td>
 <td><p>Gunfire Games</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THQ_Nordic" title="wikilink">THQ Nordic</a></p></td>
+<td><p><a href="../Page/THQ_Nordic.md" title="wikilink">THQ Nordic</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -579,7 +579,7 @@ Studio Wildcard</p></td>
 <tr class="even">
 <td><p>Just Cause 4 <a href="https://zh.wikipedia.org/wiki/正當防衛4" title="wikilink">正當防衛4</a></p></td>
 <td><p>動作冒險</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/雪崩工作室" title="wikilink">雪崩工作室</a></p></td>
+<td><p><a href="../Page/雪崩工作室.md" title="wikilink">雪崩工作室</a></p></td>
 <td><p>史克威爾艾尼克斯</p></td>
 <td></td>
 <td></td>
@@ -649,7 +649,7 @@ Studio Wildcard</p></td>
 <td><p>[24]</p></td>
 </tr>
 <tr class="even">
-<td><p>Metro Exodus <a href="https://zh.wikipedia.org/wiki/戰慄深隧：流亡" title="wikilink">戰慄深隧：流亡</a></p></td>
+<td><p>Metro Exodus <a href="../Page/戰慄深隧：流亡.md" title="wikilink">戰慄深隧：流亡</a></p></td>
 <td><p>第一人稱射擊、生存恐怖</p></td>
 <td><p><a href="../Page/4A_Games.md" title="wikilink">4A Games</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
@@ -661,9 +661,9 @@ Studio Wildcard</p></td>
 <td><p>[25]</p></td>
 </tr>
 <tr class="odd">
-<td><p>JUMP FORCE <a href="https://zh.wikipedia.org/wiki/JUMP_FORCE" title="wikilink">JUMP FORCE</a></p></td>
+<td><p>JUMP FORCE <a href="../Page/JUMP_FORCE.md" title="wikilink">JUMP FORCE</a></p></td>
 <td><p>格鬥</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Spike_Chunsoft" title="wikilink">Spike Chunsoft</a></p></td>
+<td><p><a href="../Page/Spike_Chunsoft.md" title="wikilink">Spike Chunsoft</a></p></td>
 <td><p>萬代南夢宮娛樂</p></td>
 <td></td>
 <td></td>
@@ -685,7 +685,7 @@ Studio Wildcard</p></td>
 <td><p>[27]</p></td>
 </tr>
 <tr class="odd">
-<td><p>Anthem <a href="https://zh.wikipedia.org/wiki/冒險聖歌" title="wikilink">冒險聖歌</a></p></td>
+<td><p>Anthem <a href="../Page/冒險聖歌.md" title="wikilink">冒險聖歌</a></p></td>
 <td><p>第三人稱射擊</p></td>
 <td><p>BioWare</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/藝電" title="wikilink">EA藝電</a></p></td>
@@ -697,7 +697,7 @@ Studio Wildcard</p></td>
 <td><p>[28]</p></td>
 </tr>
 <tr class="even">
-<td><p>Crackdown 3 <a href="https://zh.wikipedia.org/wiki/除暴戰警3" title="wikilink">除暴戰警3</a></p></td>
+<td><p>Crackdown 3 <a href="../Page/除暴戰警3.md" title="wikilink">除暴戰警3</a></p></td>
 <td><p>動作、射擊、第三人稱</p></td>
 <td><p>Sumo Digital/Reagent Games</p></td>
 <td><p>微軟工作室</p></td>
@@ -721,7 +721,7 @@ Studio Wildcard</p></td>
 <td><p>[30]</p></td>
 </tr>
 <tr class="even">
-<td><p>Devil May Cry 5 <a href="https://zh.wikipedia.org/wiki/惡魔獵人5" title="wikilink">惡魔獵人5</a></p></td>
+<td><p>Devil May Cry 5 <a href="../Page/惡魔獵人5.md" title="wikilink">惡魔獵人5</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/動作遊戲" title="wikilink">動作</a></p></td>
 <td><p>Capcom</p></td>
 <td><p>Capcom</p></td>
@@ -745,7 +745,7 @@ Studio Wildcard</p></td>
 <td><p>[32]</p></td>
 </tr>
 <tr class="even">
-<td><p>Sekiro: Shadows Die Twice <a href="https://zh.wikipedia.org/wiki/隻狼：暗影雙死" title="wikilink">隻狼：暗影雙死</a></p></td>
+<td><p>Sekiro: Shadows Die Twice <a href="../Page/隻狼：暗影雙死.md" title="wikilink">隻狼：暗影雙死</a></p></td>
 <td><p>動作冒險</p></td>
 <td><p>FromSoftware</p></td>
 <td><p>動視</p></td>
@@ -784,7 +784,7 @@ Studio Wildcard</p></td>
 <td><p>Mortal Kombat 11 <a href="https://zh.wikipedia.org/wiki/真人快打" title="wikilink">真人快打 11</a></p></td>
 <td><p>格鬥</p></td>
 <td><p>Nether Realm Studios</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/華納兄弟互動娛樂" title="wikilink">華納兄弟互動娛樂</a></p></td>
+<td><p><a href="../Page/華納兄弟互動娛樂.md" title="wikilink">華納兄弟互動娛樂</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -891,7 +891,7 @@ Studio Wildcard</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/異形：孤立" title="wikilink">異形：孤立</a></p></td>
+<td><p><a href="../Page/異形：孤立.md" title="wikilink">異形：孤立</a></p></td>
 <td><p>First-person <a href="https://zh.wikipedia.org/wiki/survival_horror" title="wikilink">survival horror</a>, <a href="https://zh.wikipedia.org/wiki/隱蔽類遊戲" title="wikilink">隱蔽類</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/The_Creative_Assembly" title="wikilink">The Creative Assembly</a></p></td>
 <td><p><a href="../Page/世嘉.md" title="wikilink">世嘉</a></p></td>
@@ -1184,7 +1184,7 @@ Studio Wildcard</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EA_Sports_UFC" title="wikilink">EA Sports UFC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Fighting_game" title="wikilink">Fighting</a>, <a href="https://zh.wikipedia.org/wiki/體育類遊戲" title="wikilink">體育類</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/EA_Sports" title="wikilink">EA Sports</a></p></td>
+<td><p><a href="../Page/EA_Sports.md" title="wikilink">EA Sports</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1405,7 +1405,7 @@ Studio Wildcard</p></td>
 <td><p>[85]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/天国：拯救" title="wikilink">天国：拯救</a></p></td>
+<td><p><a href="../Page/天国：拯救.md" title="wikilink">天国：拯救</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/动作角色扮演游戏" title="wikilink">动作角色扮演</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Warhorse_Studios" title="wikilink">Warhorse Studios</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
@@ -1434,7 +1434,7 @@ Studio Wildcard</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Legend_of_Raven" title="wikilink">Legend of Raven</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Fighting_game" title="wikilink">Fighter</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Circle_Edge" title="wikilink">Circle Edge</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Nicalis" title="wikilink">Nicalis</a></p></td>
+<td><p><a href="../Page/Nicalis.md" title="wikilink">Nicalis</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1590,7 +1590,7 @@ Studio Wildcard</p></td>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Middle_Earth:_Shadow_of_Mordor" title="wikilink">Middle Earth: Shadow of Mordor</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Action-adventure_game" title="wikilink">Action-adventure</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Monolith_Productions" title="wikilink">Monolith Productions</a></p></td>
+<td><p><a href="../Page/Monolith_Productions.md" title="wikilink">Monolith Productions</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Warner_Bros._Interactive" title="wikilink">Warner Bros. Interactive</a></p></td>
 <td></td>
 <td></td>
@@ -1642,7 +1642,7 @@ Studio Wildcard</p></td>
 <td><p>[104]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/骑马与砍杀：战团" title="wikilink">骑马与砍杀：战团</a></p></td>
+<td><p><a href="../Page/骑马与砍杀：战团.md" title="wikilink">骑马与砍杀：战团</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/动作角色扮演游戏" title="wikilink">动作角色扮演</a>, <a href="https://zh.wikipedia.org/wiki/战略游戏" title="wikilink">战略</a></p></td>
 <td><p><a href="../Page/TaleWorlds.md" title="wikilink">TaleWorlds</a></p></td>
 <td><p><a href="../Page/Paradox_Interactive.md" title="wikilink">Paradox Interactive</a></p></td>
@@ -1655,7 +1655,7 @@ Studio Wildcard</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/NBA_2K14" title="wikilink">NBA 2K14</a></p></td>
+<td><p><a href="../Page/NBA_2K14.md" title="wikilink">NBA 2K14</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/體育類遊戲" title="wikilink">體育類</a></p></td>
 <td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
 <td><p><a href="../Page/2K_Sports.md" title="wikilink">2K Sports</a></p></td>
@@ -1905,7 +1905,7 @@ Studio Wildcard</p></td>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Sunset_Overdrive" title="wikilink">Sunset Overdrive</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Open_world" title="wikilink">Open world</a>, <a href="https://zh.wikipedia.org/wiki/Shooter_video_game" title="wikilink">Shooter</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Insomniac_Games" title="wikilink">Insomniac Games</a></p></td>
+<td><p><a href="../Page/Insomniac_Games.md" title="wikilink">Insomniac Games</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/微軟工作室" title="wikilink">微軟工作室</a></p></td>
 <td></td>
 <td></td>
@@ -1985,7 +1985,7 @@ Studio Wildcard</p></td>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/汤姆克兰西：全境封锁" title="wikilink">汤姆克兰西：全境封锁</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第三人稱射擊" title="wikilink">第三人稱射擊</a>, <a href="https://zh.wikipedia.org/wiki/Action_role-playing_game" title="wikilink">Action role-playing</a></p></td>
-<td><p><a href="../Page/ubisoft_Massive.md" title="wikilink">ubisoft Massive</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ubisoft_Massive" title="wikilink">ubisoft Massive</a></p></td>
 <td><p><a href="../Page/育碧.md" title="wikilink">育碧</a></p></td>
 <td></td>
 <td></td>
@@ -2102,8 +2102,8 @@ Studio Wildcard</p></td>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Wonder_Flick" title="wikilink">Wonder Flick</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Role-playing_video_game" title="wikilink">角色扮演</a></p></td>
-<td><p><a href="../Page/Level-5.md" title="wikilink">Level-5</a></p></td>
-<td><p><a href="../Page/Level-5.md" title="wikilink">Level-5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Level-5" title="wikilink">Level-5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Level-5" title="wikilink">Level-5</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2126,7 +2126,7 @@ Studio Wildcard</p></td>
 <td><p>[144]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/动物园大亨_(2013年)" title="wikilink">动物园大亨</a></p></td>
+<td><p><a href="../Page/动物园大亨_(2013年).md" title="wikilink">动物园大亨</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/模拟经营" title="wikilink">模拟经营</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Frontier_Developments" title="wikilink">Frontier Developments</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/微軟工作室" title="wikilink">微軟工作室</a></p></td>

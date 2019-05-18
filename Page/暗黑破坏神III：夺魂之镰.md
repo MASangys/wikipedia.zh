@@ -4,7 +4,7 @@
 OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Xbox
 360](../Page/Xbox_360.md "wikilink")、[Xbox
 One](../Page/Xbox_One.md "wikilink")、[Playstation
-3和](../Page/Playstation_3.md "wikilink")[PlayStation
+3和](https://zh.wikipedia.org/wiki/Playstation_3 "wikilink")[PlayStation
 4執行](../Page/PlayStation_4.md "wikilink")。\[3\]
 
 本資料片將新增冒險模式、懸賞任務、涅法雷姆祕境、第三工匠-靈喻師\[4\]，而Xbox

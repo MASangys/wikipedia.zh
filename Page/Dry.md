@@ -20,7 +20,7 @@ Free》推出後解散。
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Dry_One" title="wikilink">Dry One</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/Dry_One.md" title="wikilink">Dry One</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
 <td style="text-align: left;"><p><a href="../Page/正東唱片.md" title="wikilink">正東唱片</a></p></td>
 <td style="text-align: left;"><p>1997年3月</p></td>
@@ -37,7 +37,7 @@ Free》推出後解散。
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>2nd</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Dry_Two" title="wikilink">Dry Two</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/Dry_Two.md" title="wikilink">Dry Two</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/正東唱片.md" title="wikilink">正東唱片</a></p></td>
 <td style="text-align: left;"><p>1998年1月</p></td>
@@ -56,7 +56,7 @@ Free》推出後解散。
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>3rd</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Dry_Free" title="wikilink">Dry Free</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/Dry_Free.md" title="wikilink">Dry Free</a></p></td>
 <td style="text-align: left;"><p>新曲+精選</p></td>
 <td style="text-align: left;"><p><a href="../Page/正東唱片.md" title="wikilink">正東唱片</a></p></td>
 <td style="text-align: left;"><p>1998年8月</p></td>
@@ -136,24 +136,24 @@ Free》推出後解散。
 
 ## 派台歌曲紀錄
 
-| **派台歌曲成績**                                                    |
-| ------------------------------------------------------------- |
-| 唱片                                                            |
-| **1996年**                                                     |
-| [Dry One](https://zh.wikipedia.org/wiki/Dry_One "wikilink")   |
-| Dry One                                                       |
-| [誰願放手精選17首](../Page/誰願放手精選17首.md "wikilink")                  |
-| **1997年**                                                     |
-| Dry One                                                       |
-| Dry One                                                       |
-| Dry One                                                       |
-| [Dry Two](https://zh.wikipedia.org/wiki/Dry_Two "wikilink")   |
-| Dry Two                                                       |
-| **1998年**                                                     |
-| Dry Two                                                       |
-| [Dry Free](https://zh.wikipedia.org/wiki/Dry_Free "wikilink") |
-| Dry Free                                                      |
-| Dry Free                                                      |
+| **派台歌曲成績**                                   |
+| -------------------------------------------- |
+| 唱片                                           |
+| **1996年**                                    |
+| [Dry One](../Page/Dry_One.md "wikilink")     |
+| Dry One                                      |
+| [誰願放手精選17首](../Page/誰願放手精選17首.md "wikilink") |
+| **1997年**                                    |
+| Dry One                                      |
+| Dry One                                      |
+| Dry One                                      |
+| [Dry Two](../Page/Dry_Two.md "wikilink")     |
+| Dry Two                                      |
+| **1998年**                                    |
+| Dry Two                                      |
+| [Dry Free](../Page/Dry_Free.md "wikilink")   |
+| Dry Free                                     |
+| Dry Free                                     |
 
 | **各台冠軍歌總數** |
 | ----------- |

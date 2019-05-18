@@ -173,7 +173,7 @@ Poppunk（流行朋克）及Britpop（英伦摇滚）等。并且专辑有众多
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iTunes.md" title="wikilink">iTunes</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iTunes" title="wikilink">iTunes</a></p></td>
 <td><p>综合单曲榜</p></td>
 <td><p><a href="../Page/日本.md" title="wikilink">日本</a></p></td>
 <td><p>2013/10/15</p></td>
@@ -309,7 +309,7 @@ Poppunk（流行朋克）及Britpop（英伦摇滚）等。并且专辑有众多
 <td><p>23.08%</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ORICON.md" title="wikilink">ORICON</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ORICON" title="wikilink">ORICON</a></p></td>
 <td><p>CD專輯排行榜</p></td>
 <td><p><a href="../Page/日本.md" title="wikilink">日本</a></p></td>
 <td><p>2013/10/28－11/03</p></td>

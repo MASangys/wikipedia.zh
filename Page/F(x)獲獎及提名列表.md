@@ -20,7 +20,7 @@
 
 <span style="font-size: 9pt">**f(x)獲獎及提名列表**</span>
 
-**f(x)獲獎及提名列表**主要列舉[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")**[f(x)](../Page/f\(x\)_\(組合\).md "wikilink")**由出道至今於頒獎典禮的獲獎及提名。
+**f(x)獲獎及提名列表**主要列舉[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")**[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")**由出道至今於頒獎典禮的獲獎及提名。
 
 ## 韓國音樂頒獎典禮
 
@@ -773,7 +773,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2015</p></td>
-<td style="text-align: center;"><p>Amber（<a href="https://zh.wikipedia.org/wiki/真正的男人" title="wikilink">真正的男人</a>）</p></td>
+<td style="text-align: center;"><p>Amber（<a href="../Page/真正的男人.md" title="wikilink">真正的男人</a>）</p></td>
 <td style="text-align: center;"><p>女子新人奖（綜藝部門）</p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1291,7 +1291,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><strong>《<a href="https://zh.wikipedia.org/wiki/Red_Light" title="wikilink">Red Light</a>》</strong></p></td>
+<td style="text-align: center;"><p><strong>《<a href="../Page/Red_Light.md" title="wikilink">Red Light</a>》</strong></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

@@ -1,0 +1,51 @@
+<div style="float:right; width:100%">
+
+{{/box-header|<big>冷战主题</big>|/简介|}} {{/简介}} {{/box-footer|}}
+
+</div>
+
+<div style="float:left; width:60%;">
+
+{{/box-header|特色条目|/特色条目|}} {{/特色条目}} {{/box-footer|}}
+
+{{/box-header|特色人物|/特色人物|}} {{/特色人物}} {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:39%">
+
+{{/box-header|分类|/分类|}} {{/分类}} {{/box-footer|}}
+
+{{/box-header|名言|/名言|}} {{/名言}} {{/box-footer|}}
+
+{{/box-header|你知道吗|/你知道吗|}} {{/你知道吗}} {{/box-footer|}}
+
+{{/box-header|欢迎参与|/欢迎参与|}} {{/欢迎参与}} {{/box-footer|}}
+
+{{/box-header|维基专题|/专题|}} {{/专题}} {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|主要话题|/主要话题|}} {{/主要话题}} {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|相关主题|/相关主题|}} {{/相关主题}} {{/box-footer|}}
+
+{{/box-header|其他主题|/其他主题|}} {{/其他主题}} {{/box-footer|}}
+
+{{/box-header|维基媒体计划|/Wikimedia|}} {{/Wikimedia}} {{/box-footer|}}
+
+</div>
+
+__NOTOC__ __NOEDITSECTION__
+
+[Category:冷战主题](https://zh.wikipedia.org/wiki/Category:冷战主题 "wikilink")
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
+[Category:冷战](https://zh.wikipedia.org/wiki/Category:冷战 "wikilink")
+[Category:历史主题](https://zh.wikipedia.org/wiki/Category:历史主题 "wikilink")
+[Category:政治主题](https://zh.wikipedia.org/wiki/Category:政治主题 "wikilink")

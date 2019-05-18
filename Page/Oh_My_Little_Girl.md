@@ -61,7 +61,7 @@ GIRL》在[雙A面單曲](../Page/A面與B面.md "wikilink")《》中以單曲�
 
   - [富士電視台系列](../Page/富士電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《》[主題曲](../Page/主題曲.md "wikilink")（1994年）
   - 電影《[-{zh-cn:热血之路;zh-hk:HOT ROAD;zh-tw:HOT
-    ROAD}-](https://zh.wikipedia.org/wiki/Hot_Road_\(電影\) "wikilink")》主題曲（2014年）
+    ROAD}-](../Page/Hot_Road_\(電影\).md "wikilink")》主題曲（2014年）
 
 ## 收錄專輯
 

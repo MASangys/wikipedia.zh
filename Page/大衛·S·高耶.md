@@ -1,4 +1,4 @@
-**大衛·山繆·高耶**（，）是一位美國男編劇、監製、導演、小說家和漫畫書作家。他的編劇作品包括《[刀鋒戰士三部曲](https://zh.wikipedia.org/wiki/刀鋒戰士系列電影 "wikilink")》、[克里斯托弗·諾蘭的](https://zh.wikipedia.org/wiki/克里斯托弗·諾蘭 "wikilink")《[黑暗騎士三部曲](https://zh.wikipedia.org/wiki/黑暗騎士三部曲 "wikilink")》、《[移魂都市](../Page/移魂都市.md "wikilink")》和《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》。
+**大衛·山繆·高耶**（，）是一位美國男編劇、監製、導演、小說家和漫畫書作家。他的編劇作品包括《[刀鋒戰士三部曲](https://zh.wikipedia.org/wiki/刀鋒戰士系列電影 "wikilink")》、[克里斯托弗·諾蘭的](https://zh.wikipedia.org/wiki/克里斯托弗·諾蘭 "wikilink")《[黑暗騎士三部曲](../Page/黑暗騎士三部曲.md "wikilink")》、《[移魂都市](../Page/移魂都市.md "wikilink")》和《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》。
 
 而他執導的四部故事片分別有《[心靈推手](https://zh.wikipedia.org/wiki/心靈推手 "wikilink")》、《[刀鋒戰士3](../Page/刀鋒戰士3.md "wikilink")》、《[幽靈人口](https://zh.wikipedia.org/wiki/幽靈人口_\(電影\) "wikilink")》和《[生靈勿進](https://zh.wikipedia.org/wiki/生靈勿進 "wikilink")》。高耶也擔任[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《[決勝時刻：黑色行動](../Page/決勝時刻：黑色行動.md "wikilink")》、《[決勝時刻：黑色行動2](https://zh.wikipedia.org/wiki/決勝時刻：黑色行動2 "wikilink")》的聯合編劇。他因《[蝙蝠俠：開戰時刻](../Page/蝙蝠俠：開戰時刻.md "wikilink")》和《移魂都市》贏得了[土星獎最佳劇本](../Page/土星獎.md "wikilink")，並提名四項[雨果獎](https://zh.wikipedia.org/wiki/雨果獎 "wikilink")。
 
@@ -24,7 +24,7 @@
 
   - 《[截殺威龍](https://zh.wikipedia.org/wiki/截殺威龍 "wikilink")》（1990）
   - 《[魔靈鬼娃](https://zh.wikipedia.org/wiki/魔靈鬼娃 "wikilink")》（1992）
-  - 《[超越終結者](https://zh.wikipedia.org/wiki/超越終結者 "wikilink")》（1992，未掛名）
+  - 《[超越終結者](../Page/超越終結者.md "wikilink")》（1992，未掛名）
   - 《[異形殺機](https://zh.wikipedia.org/wiki/異形殺機 "wikilink")》（1994）
   - 《[魔誡追緝令](https://zh.wikipedia.org/wiki/魔誡追緝令 "wikilink")》（1996）
   - 《[移魂都市](../Page/移魂都市.md "wikilink")》（1998）
@@ -57,8 +57,8 @@
     Good Days」、「White To Play」、「137 Sekunden」、「A561984」、「The Garden of
     Forking Paths」（2009-2010）
   - 《[達文西惡魔](https://zh.wikipedia.org/wiki/達文西惡魔 "wikilink")》（2013）
-  - 《[康斯坦汀：驅魔神探](https://zh.wikipedia.org/wiki/康斯坦汀：驅魔神探_\(電視劇\) "wikilink")》聯合編劇；試播集和第3集（2014-2015）\[8\]
-  - 《[超人前傳](https://zh.wikipedia.org/wiki/氪星_\(电视剧\) "wikilink")》（2018）
+  - 《[康斯坦汀：驅魔神探](../Page/康斯坦汀：驅魔神探_\(電視劇\).md "wikilink")》聯合編劇；試播集和第3集（2014-2015）\[8\]
+  - 《[超人前傳](../Page/氪星_\(电视剧\).md "wikilink")》（2018）
 
 #### 電子遊戲
 
@@ -93,10 +93,10 @@
   - 《[超時空感應](https://zh.wikipedia.org/wiki/超時空感應 "wikilink")》（2009）
   - 《[3D惡靈戰警：復仇時刻](https://zh.wikipedia.org/wiki/3D惡靈戰警：復仇時刻 "wikilink")》（2012）
   - 《[達文西惡魔](https://zh.wikipedia.org/wiki/達文西惡魔 "wikilink")》（2012）
-  - 《[康斯坦汀：驅魔神探](https://zh.wikipedia.org/wiki/康斯坦汀：驅魔神探_\(電視劇\) "wikilink")》（2014）
+  - 《[康斯坦汀：驅魔神探](../Page/康斯坦汀：驅魔神探_\(電視劇\).md "wikilink")》（2014）
   - 《[森林](https://zh.wikipedia.org/wiki/森林_\(2016年電影\) "wikilink")》（2016）
   - 《[智慧囚屋](https://zh.wikipedia.org/wiki/智慧囚屋 "wikilink")》（2018）
-  - 《[暗殺國度](https://zh.wikipedia.org/wiki/暗殺國度 "wikilink")》（2018）
+  - 《[暗殺國度](../Page/暗殺國度.md "wikilink")》（2018）
 
 ## 參考資料
 

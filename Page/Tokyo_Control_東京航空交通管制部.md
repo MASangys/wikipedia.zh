@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - **結成昇**（簡稱**YU**），46歲，[時任三郎飾演](https://zh.wikipedia.org/wiki/時任三郎 "wikilink")，主幹管制官
+  - **結成昇**（簡稱**YU**），46歲，[時任三郎飾演](../Page/時任三郎.md "wikilink")，主幹管制官
 
 <!-- end list -->
 

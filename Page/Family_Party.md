@@ -3,7 +3,7 @@ Pamyu的第](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")9張[單
 
 ## 概要
 
-與前作《[夢想起跑～鈴～鈴](https://zh.wikipedia.org/wiki/夢想起跑～鈴～鈴 "wikilink")》相隔約2個月。單曲分為初回限定盤和通常盤2種形態發售，歌曲依照慣例由[中田康貴擔任製作人](../Page/中田康貴.md "wikilink")。
+與前作《[夢想起跑～鈴～鈴](../Page/夢想起跑～鈴～鈴.md "wikilink")》相隔約2個月。單曲分為初回限定盤和通常盤2種形態發售，歌曲依照慣例由[中田康貴擔任製作人](../Page/中田康貴.md "wikilink")。
 
 ## 收錄曲
 

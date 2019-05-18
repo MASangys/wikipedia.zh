@@ -3,7 +3,7 @@
 
 此外[假面騎士系列作品](../Page/假面騎士系列.md "wikilink")《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》劇場版《[劇場版
 假面騎士鎧武
-足球大決戰！黃金果實爭奪杯！](https://zh.wikipedia.org/wiki/劇場版_假面騎士鎧武_足球大決戰！黃金果實爭奪杯！ "wikilink")》亦同步上映。
+足球大決戰！黃金果實爭奪杯！](../Page/劇場版_假面騎士鎧武_足球大決戰！黃金果實爭奪杯！.md "wikilink")》亦同步上映。
 
 ## 概要
 
@@ -91,12 +91,12 @@
 
 ## 演員
 
-  - 來斗/ 特急1號（聲）- [志尊淳](https://zh.wikipedia.org/wiki/志尊淳 "wikilink")
-  - 十勝/ 特急2號（聲）- [平牧仁](https://zh.wikipedia.org/wiki/平牧仁 "wikilink")
+  - 來斗/ 特急1號（聲）- [志尊淳](../Page/志尊淳.md "wikilink")
+  - 十勝/ 特急2號（聲）- [平牧仁](../Page/平牧仁.md "wikilink")
   - 澪/ 特急3號（聲）- [小島梨里杏](../Page/小島梨里杏.md "wikilink")
   - 光/ 特急4號（聲）- [橫濱流星](../Page/橫濱流星.md "wikilink")
   - 神樂/ 特急5號（聲）- [森高愛](../Page/森高愛.md "wikilink")
-  - 虹野明/ 特急6號（聲）- [長濱慎](https://zh.wikipedia.org/wiki/長濱慎 "wikilink")
+  - 虹野明/ 特急6號（聲）- [長濱慎](../Page/長濱慎.md "wikilink")
   - 闇黑皇帝Ｚ- [大口兼悟](https://zh.wikipedia.org/wiki/大口兼悟 "wikilink")
   - レディ- [福原遙](../Page/福原遙.md "wikilink")
   - 車長- [關根勤](https://zh.wikipedia.org/wiki/關根勤 "wikilink")

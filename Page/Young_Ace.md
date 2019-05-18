@@ -28,7 +28,7 @@ Ace**》（）是創刊於2009年的[日本月刊](../Page/日本.md "wikilink")
 <tr class="even">
 <td><p><a href="../Page/黑鷺屍體宅配便.md" title="wikilink">黑鷺屍體宅配便</a><br />
 （）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山崎峰水" title="wikilink">山崎峰水</a></p></td>
+<td><p><a href="../Page/山崎峰水.md" title="wikilink">山崎峰水</a></p></td>
 <td><p>大塚英志</p></td>
 <td><p>Vol.1<br />
 2009年7月4日</p></td>
@@ -112,7 +112,7 @@ Ace**》（）是創刊於2009年的[日本月刊](../Page/日本.md "wikilink")
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/文豪Stray_Dogs" title="wikilink">文豪Stray Dogs</a><br />
 （）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/春河35" title="wikilink">春河35</a></p></td>
+<td><p><a href="../Page/春河35.md" title="wikilink">春河35</a></p></td>
 <td></td>
 <td><p>2013年1月號</p></td>
 <td><p>連載中</p></td>

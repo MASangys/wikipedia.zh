@@ -1,4 +1,4 @@
-是[三屋咲悠撰寫](https://zh.wikipedia.org/wiki/三屋咲悠 "wikilink")，[okiura繪製插畫的](https://zh.wikipedia.org/wiki/okiura "wikilink")[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")\[1\]\[2\]，[MF文庫J](../Page/MF文庫J.md "wikilink")（[Media
+是[三屋咲悠撰寫](../Page/三屋咲悠.md "wikilink")，[okiura繪製插畫的](https://zh.wikipedia.org/wiki/okiura "wikilink")[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")\[1\]\[2\]，[MF文庫J](../Page/MF文庫J.md "wikilink")（[Media
 Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由[尖端出版代理](../Page/尖端出版.md "wikilink")，譯者陳冠安；简体中文版预定由[天闻角川代理发行](../Page/天闻角川.md "wikilink")，[湖南美术出版社出版](../Page/湖南美术出版社.md "wikilink")。2015年10月至12月首播[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 ## 故事簡介
@@ -877,7 +877,7 @@ Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由
 『**學戰都市Asterisk 外傳**』
 
   -
-    原作：[三屋咲悠](https://zh.wikipedia.org/wiki/三屋咲悠 "wikilink")／角色原案：okiura
+    原作：[三屋咲悠](../Page/三屋咲悠.md "wikilink")／角色原案：okiura
     ，由[MF文庫出版](https://zh.wikipedia.org/wiki/MF文庫 "wikilink")。台灣由[尖端出版代理出版](../Page/尖端出版.md "wikilink")。
 
 <table>
@@ -914,7 +914,7 @@ Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由
 ### 漫畫
 
   -
-    原作：[三屋咲悠](https://zh.wikipedia.org/wiki/三屋咲悠 "wikilink")／作畫：にんげん／角色原案：okiura
+    原作：[三屋咲悠](../Page/三屋咲悠.md "wikilink")／作畫：にんげん／角色原案：okiura
 
 | 書名(日)                                                          | <small>發售日期</small> | [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") | 書名(台)             | 出版日期        | [EAN](https://zh.wikipedia.org/wiki/EAN "wikilink")/[ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") |
 | -------------------------------------------------------------- | ------------------- | ----------------------------------------------------- | ----------------- | ----------- | --------------------------------------------------------------------------------------------------------- |
@@ -926,7 +926,7 @@ Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由
 『**學戰都市Asterisk 外傳**』
 
   -
-    原作：[三屋咲悠](https://zh.wikipedia.org/wiki/三屋咲悠 "wikilink")／作畫：茜錆／角色原案：okiura
+    原作：[三屋咲悠](../Page/三屋咲悠.md "wikilink")／作畫：茜錆／角色原案：okiura
     ，由[講談社代理出版](https://zh.wikipedia.org/wiki/講談社 "wikilink")。已完結。
 
 | 書名(日)                                                   | <small>發售日期</small> | [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") |
@@ -949,7 +949,7 @@ Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由
 
   - 總監督：[小野學](https://zh.wikipedia.org/wiki/小野學_\(動畫導演\) "wikilink")
   - 監督：瀨藤健嗣
-  - 角色設計、總作畫監督：[川上哲也](https://zh.wikipedia.org/wiki/川上哲也 "wikilink")
+  - 角色設計、總作畫監督：[川上哲也](../Page/川上哲也.md "wikilink")
   - 美術監督：森岡賢一
   - 色彩設計：松山菱子
   - 動畫監督：渡邊幸浩
@@ -970,8 +970,7 @@ Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由
   -
 
       -
-        作曲、編曲：WEST
-        GROUND，作詞、主唱：[西澤幸奏](https://zh.wikipedia.org/wiki/西澤幸奏 "wikilink")
+        作曲、編曲：WEST GROUND，作詞、主唱：[西澤幸奏](../Page/西澤幸奏.md "wikilink")
 
 :; 片尾曲「Waiting for the rain」（第1話－第12話）
 
@@ -1007,8 +1006,7 @@ Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由
   -
 
       -
-        作曲、編曲：WEST
-        GROUND，作詞、主唱：[西澤幸奏](https://zh.wikipedia.org/wiki/西澤幸奏 "wikilink")
+        作曲、編曲：WEST GROUND，作詞、主唱：[西澤幸奏](../Page/西澤幸奏.md "wikilink")
 
 :; 片尾曲「-words of love」（第13話－第23話）
 

@@ -47,5 +47,4 @@
 [Category:網絡爆紅短片](https://zh.wikipedia.org/wiki/Category:網絡爆紅短片 "wikilink")
 
 1.  [1](http://edition.cnn.com/2009/TECH/09/15/auto.tune.news.iphone/index.html?_s=PM:TECH)
-    John D.
-    Sutter，[時代雜誌](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")，2009年9月
+    John D. Sutter，[時代雜誌](../Page/時代雜誌.md "wikilink")，2009年9月

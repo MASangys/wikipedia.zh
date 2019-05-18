@@ -1,4 +1,4 @@
-[proline_model.jpg](https://zh.wikipedia.org/wiki/File:proline_model.jpg "fig:proline_model.jpg")[MolyMod](https://zh.wikipedia.org/wiki/MolyMod "wikilink")[球棒模型](../Page/球棒模型.md "wikilink")。
+[proline_model.jpg](https://zh.wikipedia.org/wiki/File:proline_model.jpg "fig:proline_model.jpg")[MolyMod](../Page/MolyMod.md "wikilink")[球棒模型](../Page/球棒模型.md "wikilink")。
 這些模型通常遵守CPK配色。\]\]
 [CPK-coloring-periodic-table.svg](https://zh.wikipedia.org/wiki/File:CPK-coloring-periodic-table.svg "fig:CPK-coloring-periodic-table.svg")。\]\]
 在[化學中](../Page/化學.md "wikilink")，**CPK配色**是一種國際通用的[原子或](../Page/原子.md "wikilink")[分子](../Page/分子.md "wikilink")[模型的配色方式](https://zh.wikipedia.org/wiki/模型 "wikilink")，也是最常用、最多人使用的[分子模型上色方式](https://zh.wikipedia.org/wiki/分子模型 "wikilink")，可用於各種[分子模型或](https://zh.wikipedia.org/wiki/分子模型 "wikilink")[元素標示](https://zh.wikipedia.org/wiki/元素 "wikilink")，最常用於[CPK模型](https://zh.wikipedia.org/wiki/CPK模型 "wikilink")、[球棒模型和](../Page/球棒模型.md "wikilink")[空間填充模型](https://zh.wikipedia.org/wiki/空間填充模型 "wikilink")。該配色方式由CPK模型的設計者Corey、Pauling（[萊納斯·鮑林](../Page/萊納斯·鮑林.md "wikilink")）與Koltun提出且改進。

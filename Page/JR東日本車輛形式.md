@@ -12,15 +12,15 @@
   - **電力機車**
       - [EF55形](../Page/日本國鐵EF55型電力機車.md "wikilink")（保存車）
       - [EF58形](../Page/日本國鐵EF58型電力機車.md "wikilink")（保存車）
-      - [EF60形](https://zh.wikipedia.org/wiki/日本國鐵EF60型電力機車 "wikilink")（保存車）
-      - [EF64形](https://zh.wikipedia.org/wiki/日本國鐵EF64型電力機車 "wikilink")
-      - [EF65形](https://zh.wikipedia.org/wiki/日本國鐵EF65型電力機車 "wikilink")
+      - [EF60形](../Page/日本國鐵EF60型電力機車.md "wikilink")（保存車）
+      - [EF64形](../Page/日本國鐵EF64型電力機車.md "wikilink")
+      - [EF65形](../Page/日本國鐵EF65型電力機車.md "wikilink")
       - [ED75形](../Page/日本國鐵ED75型電力機車.md "wikilink")
       - [EF81形](https://zh.wikipedia.org/wiki/日本國鐵EF81型電力機車 "wikilink")
       - [EF510形](../Page/JR貨物EF510型電力機車.md "wikilink")
   - **柴油機車**
       - [DD14形](https://zh.wikipedia.org/wiki/日本國鐵DD14型柴油機車 "wikilink")（除雪用）
-      - [DD16形](https://zh.wikipedia.org/wiki/日本國鐵DD16型柴油機車 "wikilink")
+      - [DD16形](../Page/日本國鐵DD16型柴油機車.md "wikilink")
       - [DD51形](https://zh.wikipedia.org/wiki/日本國鐵DD51型柴油機車 "wikilink")
       - [DE10形](https://zh.wikipedia.org/wiki/日本國鐵DE10型柴油機車 "wikilink")
       - [DE11形](https://zh.wikipedia.org/wiki/日本國鐵DE11型柴油機車 "wikilink")
@@ -41,7 +41,7 @@
       - [183系](https://zh.wikipedia.org/wiki/日本國鐵183系電力動車組 "wikilink")
       - [185系](https://zh.wikipedia.org/wiki/日本國鐵185系電力動車組 "wikilink")
       - [189系](https://zh.wikipedia.org/wiki/日本國鐵183系電力動車組 "wikilink")
-      - [251系](https://zh.wikipedia.org/wiki/JR東日本251系電力動車組 "wikilink")（スーパービュー踊り子）
+      - [251系](../Page/JR東日本251系電力動車組.md "wikilink")（スーパービュー踊り子）
       - [253系](../Page/JR東日本253系電力動車組.md "wikilink")（日光・きぬがわ）
       - [255系](../Page/JR東日本255系電力動車組.md "wikilink")（しおさい・わかしお・さざなみ）
       - [E257系](https://zh.wikipedia.org/wiki/JR東日本E257系電力動車組 "wikilink")（あずさ・かいじ・わかしお・さざなみ・しおさい・あやめ）
@@ -55,7 +55,7 @@
       - [E657系](../Page/JR東日本E657系電力動車組.md "wikilink")（スーパーひたち・フレッシュひたち）
       - [E751系](https://zh.wikipedia.org/wiki/JR東日本E751系電力動車組 "wikilink")（つがる）
   - **近郊形**
-      - [115系](https://zh.wikipedia.org/wiki/日本國鐵115系電力動車組 "wikilink")
+      - [115系](../Page/日本國鐵115系電力動車組.md "wikilink")
       - [211系](../Page/日本國鐵211系電力動車組.md "wikilink")
       - [215系](../Page/JR東日本215系電力動車組.md "wikilink")
       - [E217系](../Page/JR東日本E217系電力動車組.md "wikilink")
@@ -152,17 +152,17 @@
   - **蒸氣機車**
       - C58形（[363号機](https://zh.wikipedia.org/wiki/日本國鐵C58型蒸氣機車#363号機 "wikilink")・[秩父鐵道移籍](../Page/秩父鐵道.md "wikilink")）
   - **電力機車**
-      - [EF62形](https://zh.wikipedia.org/wiki/日本國鐵EF62型電力機車 "wikilink")
+      - [EF62形](../Page/日本國鐵EF62型電力機車.md "wikilink")
       - [EF63形](../Page/日本國鐵EF63型電力機車.md "wikilink")
-      - [ED77形](https://zh.wikipedia.org/wiki/日本國鐵ED77型電力機車 "wikilink")
-      - [ED78形](https://zh.wikipedia.org/wiki/日本國鐵ED78型電力機車 "wikilink")
-      - [EF71形](https://zh.wikipedia.org/wiki/日本國鐵EF71型電力機車 "wikilink")
+      - [ED77形](../Page/日本國鐵ED77型電力機車.md "wikilink")
+      - [ED78形](../Page/日本國鐵ED78型電力機車.md "wikilink")
+      - [EF71形](../Page/日本國鐵EF71型電力機車.md "wikilink")
   - **柴油機車**
       - [DD15形](https://zh.wikipedia.org/wiki/日本國鐵DD15型柴油機車 "wikilink")（除雪用）
       - [DD17形](https://zh.wikipedia.org/wiki/日本國鐵DD17型柴油機車 "wikilink")（除雪用）
       - [DD18形](https://zh.wikipedia.org/wiki/JR東日本DD18型柴油機車 "wikilink")（除雪用・標準軌）
       - [DD19形](https://zh.wikipedia.org/wiki/JR東日本DD19型柴油機車 "wikilink")（除雪用・標準軌）
-      - [DD53形](https://zh.wikipedia.org/wiki/日本國鐵DD53型柴油機車 "wikilink")（除雪用）
+      - [DD53形](../Page/日本國鐵DD53型柴油機車.md "wikilink")（除雪用）
 
 ### 電力動車組
 

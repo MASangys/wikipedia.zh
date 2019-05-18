@@ -24,7 +24,7 @@ N**'（、\[1\]），[日本女性](../Page/日本.md "wikilink")[漫画家](htt
 
 <!-- end list -->
 
-  - 『[下流梗不存在的灰暗世界](https://zh.wikipedia.org/wiki/下流梗不存在的灰暗世界 "wikilink")』：『[月刊Comic
+  - 『[下流梗不存在的灰暗世界](../Page/下流梗不存在的灰暗世界.md "wikilink")』：『[月刊Comic
     BLADE](../Page/月刊Comic_BLADE.md "wikilink")』2014年5月號-2016年3月號，全4卷。
   - 『學生會副會長矢上小百合非常努力！』（）：『[Champion
     RED](https://zh.wikipedia.org/wiki/Champion_RED "wikilink")』2014年8月號-2016年7月號，全4卷，[秋田書店出版](../Page/秋田書店.md "wikilink")。

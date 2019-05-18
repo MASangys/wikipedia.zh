@@ -1,4 +1,4 @@
-**ColorOS**是一個開放原始碼的行動作業系統的二級市場套件，由[OPPO開發的一款基於](https://zh.wikipedia.org/wiki/OPPO "wikilink")[AOSP的](https://zh.wikipedia.org/wiki/AOSP "wikilink")[Android裝置固件](../Page/Android.md "wikilink")\[1\]。
+**ColorOS**是一個開放原始碼的行動作業系統的二級市場套件，由[OPPO開發的一款基於](../Page/OPPO.md "wikilink")[AOSP的](https://zh.wikipedia.org/wiki/AOSP "wikilink")[Android裝置固件](../Page/Android.md "wikilink")\[1\]。
 
 ## 軟件
 
@@ -6,7 +6,7 @@ ColorOS添加了OPPO賬戶和內置自家軟件，可在綁定的手機中同步
 
 OPPO軟件商店擁有下載應用程式功能。
 
-ColorOS雲服務是[OPPO開發的](https://zh.wikipedia.org/wiki/OPPO "wikilink")[雲端功能](https://zh.wikipedia.org/wiki/雲端 "wikilink")，同時開放網頁端。使用者可以綁定華為帳號，將聯絡人、短信、相冊及系統設定上傳同步至伺服器進行備份，並且使用電腦或者其他ColorOS裝置存取數據。可以在網頁端修改、增添和刪除相關數據。找回手機功能可以在網頁端使用找回手機功能定位手機當前位置，同時可以查看該裝置的狀態、所使用的手機號碼，並可以遠端控制手機發聲、鎖定和擦除數據。若手機處於離線狀態，用戶可選擇透過運營商發送一條短信遠端激活該功能。
+ColorOS雲服務是[OPPO開發的](../Page/OPPO.md "wikilink")[雲端功能](https://zh.wikipedia.org/wiki/雲端 "wikilink")，同時開放網頁端。使用者可以綁定華為帳號，將聯絡人、短信、相冊及系統設定上傳同步至伺服器進行備份，並且使用電腦或者其他ColorOS裝置存取數據。可以在網頁端修改、增添和刪除相關數據。找回手機功能可以在網頁端使用找回手機功能定位手機當前位置，同時可以查看該裝置的狀態、所使用的手機號碼，並可以遠端控制手機發聲、鎖定和擦除數據。若手機處於離線狀態，用戶可選擇透過運營商發送一條短信遠端激活該功能。
 
 ## 歷史版本
 
@@ -40,13 +40,13 @@ ColorOS雲服務是[OPPO開發的](https://zh.wikipedia.org/wiki/OPPO "wikilink"
 </tr>
 <tr class="even">
 <td><p>ColorOS 5.0</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Oreo" title="wikilink">Android 8.1 Oreo</a></p></td>
+<td><p><a href="../Page/Android_Oreo.md" title="wikilink">Android 8.1 Oreo</a></p></td>
 <td><p>5.2</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ColorOS 6.0</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Pie" title="wikilink">Android 9.0 Pie</a></p></td>
+<td><p><a href="../Page/Android_Pie.md" title="wikilink">Android 9.0 Pie</a></p></td>
 <td><p>6.0</p></td>
 <td><p>2018年12月29日</p></td>
 </tr>

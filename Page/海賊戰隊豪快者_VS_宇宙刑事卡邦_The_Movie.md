@@ -58,7 +58,7 @@ Movie](https://zh.wikipedia.org/wiki/宇宙刑事卡邦_The_Movie "wikilink")**�
   -
     曾於宇宙犯罪組織**魔空**手中保衛地球和平的傳奇刑警。本作利用假藉逮捕豪快者之計，逼出阿修拉達的真面目。
 
-**宇宙警察總裁威巴爾**<small>（宇宙警察総裁ウィーバル，[佐野史郎聲](https://zh.wikipedia.org/wiki/佐野史郎 "wikilink")）</small>
+**宇宙警察總裁威巴爾**<small>（宇宙警察総裁ウィーバル，[佐野史郎聲](../Page/佐野史郎.md "wikilink")）</small>
 
   -
     命令卡邦逮捕豪快者們，但實際身分卻是宇宙殘虐帝國的惡黨，同時也是「魔空監獄」獄長－阿修拉達。

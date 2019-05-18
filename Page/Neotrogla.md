@@ -1,4 +1,4 @@
-***Neotrogla***，是[啮虫目](https://zh.wikipedia.org/wiki/啮虫总目 "wikilink")（Psocodea）[小啮虫亚目下的一个](https://zh.wikipedia.org/wiki/小啮虫亚目 "wikilink")[属](https://zh.wikipedia.org/wiki/属_\(生物\) "wikilink")。该属生物较为特别之处在于其与众不同的生殖器官，雌体具有类似[阴茎结构](../Page/阴茎.md "wikilink")，而雄体则具有[阴道结构](../Page/阴道.md "wikilink")。
+***Neotrogla***，是[啮虫目](../Page/啮虫总目.md "wikilink")（Psocodea）[小啮虫亚目下的一个](../Page/小啮虫亚目.md "wikilink")[属](https://zh.wikipedia.org/wiki/属_\(生物\) "wikilink")。该属生物较为特别之处在于其与众不同的生殖器官，雌体具有类似[阴茎结构](../Page/阴茎.md "wikilink")，而雄体则具有[阴道结构](../Page/阴道.md "wikilink")。
 
 ### 生殖
 

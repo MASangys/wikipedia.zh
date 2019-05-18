@@ -1,5 +1,5 @@
 **iPad
-Air**是由[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的[iPad平板電腦](https://zh.wikipedia.org/wiki/iPad "wikilink")，它延續[配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad](../Page/iPad_\(第四代\).md "wikilink")，但机型因参考了iPad
+Air**是由[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的[iPad平板電腦](https://zh.wikipedia.org/wiki/iPad "wikilink")，它延續[配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad](https://zh.wikipedia.org/wiki/iPad_\(第四代\) "wikilink")，但机型因参考了iPad
 Mini的设计，使得其更薄、更輕巧，2013年10月22日於[美国](../Page/美国.md "wikilink")[加州](../Page/加利福尼亚州.md "wikilink")[旧金山发布](../Page/旧金山.md "wikilink")，同年11月1日起正式发售\[1\]，Air的設計語言主導了之後平板的輕量化設計，所以Air系列同屬iPad系列第5個世代。
 
 2014年10月，蘋果公司發佈[iPad Air
@@ -19,16 +19,16 @@ Mavericks](../Page/OS_X_Mavericks.md "wikilink")（版本10.9）中的设计风�
 该服务允许用户自[iTunes
 Store中预览和下载由](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[Xcode和](../Page/Xcode.md "wikilink")[iOS
 SDK组件开发并由苹果公司发布的](https://zh.wikipedia.org/wiki/iOS_SDK "wikilink")[应用](https://zh.wikipedia.org/wiki/流動軟件應用程式 "wikilink")。自苹果[App
-Store中可以使用](https://zh.wikipedia.org/wiki/App_Store "wikilink")[GarageBand](https://zh.wikipedia.org/wiki/GarageBand "wikilink")、[iMovie](../Page/iMovie.md "wikilink")、[iPhoto以及](../Page/iPhoto.md "wikilink")[iWork套件](../Page/iWork.md "wikilink")（[Pages](../Page/Pages.md "wikilink")、[Keynote和](../Page/Keynote.md "wikilink")[Numbers](../Page/Numbers.md "wikilink")）等\[6\]。
+Store中可以使用](https://zh.wikipedia.org/wiki/App_Store "wikilink")[GarageBand](https://zh.wikipedia.org/wiki/GarageBand "wikilink")、[iMovie](https://zh.wikipedia.org/wiki/iMovie "wikilink")、[iPhoto以及](https://zh.wikipedia.org/wiki/iPhoto "wikilink")[iWork套件](https://zh.wikipedia.org/wiki/iWork "wikilink")（[Pages](../Page/Pages.md "wikilink")、[Keynote和](../Page/Keynote.md "wikilink")[Numbers](../Page/Numbers.md "wikilink")）等\[6\]。
 
 iPad
 Air带有一些预装的应用程序，包括[Siri的](../Page/Siri.md "wikilink")、[Safari浏览器](../Page/Safari.md "wikilink")、邮件、照片、视频、音乐、iTunes应用程序商店、地图、便笺、日历、游戏中心、Photo
 Booth和联系人等\[7\]。
 
 虽然这款平板电脑并未设计为可以通过行動網路拨打电话，但用户依然可以通过Wi-Fi或行動網路利用耳机或内置扬声器和麦克风来使用[VoIP应用程序](../Page/VoIP.md "wikilink")，比如[Skype](../Page/Skype.md "wikilink")\[8\]。该设备具有一款使用与[iPhone
-4S相同语音识别技术的](../Page/iPhone_4S.md "wikilink")[听写应用程序](https://zh.wikipedia.org/wiki/听写 "wikilink")。用户所讲的语句将被iPad键入其所述至屏幕上显示出来，由于该功能依靠苹果的服务器来翻译对话，因此需要iPad连结上因特网（通过wifi或者蜂窝数据连接）\[9\]。
+4S相同语音识别技术的](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")[听写应用程序](https://zh.wikipedia.org/wiki/听写 "wikilink")。用户所讲的语句将被iPad键入其所述至屏幕上显示出来，由于该功能依靠苹果的服务器来翻译对话，因此需要iPad连结上因特网（通过wifi或者蜂窝数据连接）\[9\]。
 iPad
-Air附有一款可选的[iBooks应用程序](https://zh.wikipedia.org/wiki/iBooks "wikilink")，它支持显示的[ePub格式书籍和其他从iBookstore下载下来的内容](../Page/EPUB.md "wikilink")\[10\]。几家主流的图书出版商，其中包括[企鹅出版社](../Page/企鹅出版集团.md "wikilink")、[哈珀柯林斯](https://zh.wikipedia.org/wiki/哈珀柯林斯 "wikilink")、[西蒙与舒斯特以及](https://zh.wikipedia.org/wiki/西蒙与舒斯特 "wikilink")[麦克米伦等确认将致力于为iPad设备平台出版电子书籍](../Page/麥克米倫出版公司.md "wikilink")\[11\]。尽管此举致使包括[Amazon
+Air附有一款可选的[iBooks应用程序](https://zh.wikipedia.org/wiki/iBooks "wikilink")，它支持显示的[ePub格式书籍和其他从iBookstore下载下来的内容](../Page/EPUB.md "wikilink")\[10\]。几家主流的图书出版商，其中包括[企鹅出版社](../Page/企鹅出版集团.md "wikilink")、[哈珀柯林斯](../Page/哈珀柯林斯.md "wikilink")、[西蒙与舒斯特以及](https://zh.wikipedia.org/wiki/西蒙与舒斯特 "wikilink")[麦克米伦等确认将致力于为iPad设备平台出版电子书籍](../Page/麥克米倫出版公司.md "wikilink")\[11\]。尽管此举致使包括[Amazon
 Kindle和](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink")[Barnes
 & Noble
 Nook都成为了直接的竞争对手](https://zh.wikipedia.org/wiki/Nook阅读器系列 "wikilink")\[12\]，[Amazon.com和](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")[Barnes
@@ -40,14 +40,15 @@ Store购买](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")。用户可�
 
 ### 设计
 
-iPad Air是自[iPad 2以来](../Page/iPad_2.md "wikilink")，iPad系列首次重大的设计变更，现iPad
+iPad Air是自[iPad
+2以来](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")，iPad系列首次重大的设计变更，现iPad
 Air外形较以往产品更轻薄，仅厚7.5毫米，重量也從上代的652公克大幅降至469公克(Wi-Fi版本)，有着与[iPad
 mini系列相似的窄屏幕边框设计](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")\[18\]。它使用与之前的iPad大小相同的经超薄化处理的9.7英寸的Retina显示屏面板\[19\]。
 
 ### 硬件
 
 iPad Air的硬件组件继承自[iPhone
-5s](../Page/iPhone_5s.md "wikilink")，诸如[64位](https://zh.wikipedia.org/wiki/64位 "wikilink")[苹果A7晶片系统和苹果M](https://zh.wikipedia.org/wiki/苹果A7 "wikilink")7协处理器。它还包含一个500万像素后置摄像头，一个FaceTime
+5s](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")，诸如[64位](https://zh.wikipedia.org/wiki/64位 "wikilink")[苹果A7晶片系统和苹果M](https://zh.wikipedia.org/wiki/苹果A7 "wikilink")7协处理器。它还包含一个500万像素后置摄像头，一个FaceTime
 HD前置摄像头，支持[802.11n](https://zh.wikipedia.org/wiki/802.11n "wikilink")，有约12小时的电池寿命。\[20\]
 
 同前几代iPad和iPhone产品一样，iPad Air机身上有四个按键和一个电源键。
@@ -58,7 +59,7 @@ HD前置摄像头，支持[802.11n](https://zh.wikipedia.org/wiki/802.11n "wikil
 <thead>
 <tr class="header">
 <th><p>型号</p></th>
-<th><p><a href="../Page/iPad_(第四代).md" title="wikilink">iPad</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第四代)" title="wikilink">iPad</a><br />
 <small>配備Retina显示屏</small></p></th>
 <th><p>iPad Air</p></th>
 </tr>
@@ -160,7 +161,7 @@ HD前置摄像头，支持[802.11n](https://zh.wikipedia.org/wiki/802.11n "wikil
 </tr>
 <tr class="even">
 <td><p><a href="../Page/操作系统.md" title="wikilink">操作系统</a></p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a> 6<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 6<br />
 可升級至iOS 10.3.3</p></td>
 <td><p>iOS 7.0.3<br />
 可升級至<a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS 12</a></p></td>
@@ -172,7 +173,7 @@ HD前置摄像头，支持[802.11n](https://zh.wikipedia.org/wiki/802.11n "wikil
 </tr>
 <tr class="even">
 <td><p>電池</p></td>
-<td><p>内置不可拆卸的可充电<a href="https://zh.wikipedia.org/wiki/鋰離子聚合物電池" title="wikilink">鋰離子聚合物電池</a></p>
+<td><p>内置不可拆卸的可充电<a href="../Page/鋰離子聚合物電池.md" title="wikilink">鋰離子聚合物電池</a></p>
 <dl>
 <dt></dt>
 <dd>-{zh-cn:使用无线网络浏览网页、观看视频;zh-hk:以Wi-Fi瀏覽網頁、觀看影片;zh-tw:Wi-Fi無線上網、觀看影片;}-、或聆聽音樂10小時
@@ -239,7 +240,7 @@ HD前置摄像头，支持[802.11n](https://zh.wikipedia.org/wiki/802.11n "wikil
 </tr>
 <tr class="even">
 <td><p>后置</p></td>
-<td><p><a href="../Page/iSight.md" title="wikilink">iSight</a>-{zh-cn:摄像头;zh-hk:鏡頭;zh-tw:攝錄鏡頭;}-：</p>
+<td><p><a href="https://zh.wikipedia.org/wiki/iSight" title="wikilink">iSight</a>-{zh-cn:摄像头;zh-hk:鏡頭;zh-tw:攝錄鏡頭;}-：</p>
 <dl>
 <dt></dt>
 <dd>500萬像素照片、自動對焦、-{zh-cn:面部检测;zh-hk:面孔識別功能;zh-tw:臉孔偵測功能;}-、-{zh-cn:背照式感光;zh-hk:背置式光線感應;zh-tw:背照式技術;}-、

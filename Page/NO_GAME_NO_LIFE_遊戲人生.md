@@ -3,7 +3,7 @@ LIFE）是由[榎宫祐創作的日本](https://zh.wikipedia.org/wiki/榎宫祐 
 Factory的](../Page/Media_Factory.md "wikilink")[MF文庫J出版](../Page/MF文庫J.md "wikilink")，繁體中文版由[東立出版社代理發售](../Page/東立出版社.md "wikilink")，譯者為林憲權。
 
 此作自2013年1月27日起[漫畫化並於](https://zh.wikipedia.org/wiki/漫畫化 "wikilink")[青年](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")《[月刊Comic
-Alive](../Page/月刊Comic_Alive.md "wikilink")》開始連載，由榎宫祐和共同創作。其中為2013年7月28日MF文库於其宣传活动「夏之学园祭2013」上宣佈動畫化企劃的五部MF文庫J輕小說之一\[1\]\[2\]。這個作品在「[這本輕小說真厲害！](../Page/這本輕小說真厲害！.md "wikilink")」2013年度的作品綜合排行中獲得第16名\[3\]、2014年獲得第10名、2015年獲得第3名，並在新作部門獲得第2名，亦曾經獲得第二屆「[店員最愛輕小說大賞](https://zh.wikipedia.org/wiki/店員最愛輕小說大賞 "wikilink")」第2名\[4\]。在[讀賣新聞社主辦的SUGOI](../Page/讀賣新聞.md "wikilink")
+Alive](../Page/月刊Comic_Alive.md "wikilink")》開始連載，由榎宫祐和共同創作。其中為2013年7月28日MF文库於其宣传活动「夏之学园祭2013」上宣佈動畫化企劃的五部MF文庫J輕小說之一\[1\]\[2\]。這個作品在「[這本輕小說真厲害！](../Page/這本輕小說真厲害！.md "wikilink")」2013年度的作品綜合排行中獲得第16名\[3\]、2014年獲得第10名、2015年獲得第3名，並在新作部門獲得第2名，亦曾經獲得第二屆「[店員最愛輕小說大賞](../Page/店員最愛輕小說大賞.md "wikilink")」第2名\[4\]。在[讀賣新聞社主辦的SUGOI](../Page/讀賣新聞.md "wikilink")
 JAPAN Award 2015「最想向海外介紹的日本流行文化」評選中獲得輕小說部門第4名。\[5\]\[6\]
 小說總銷量已突破250萬冊。\[7\]
 
@@ -571,7 +571,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[KBS京都](https://zh.
   - 原作、角色原案：[榎宮祐](../Page/榎宮祐.md "wikilink")（[MF文庫J](../Page/MF文庫J.md "wikilink")『NO
     GAME NO LIFE』／[KADOKAWA](../Page/角川書店.md "wikilink") [Media
     Factory刊](../Page/Media_Factory.md "wikilink")）
-  - 監督：[石塚敦子](https://zh.wikipedia.org/wiki/石塚敦子 "wikilink")
+  - 監督：[石塚敦子](../Page/石塚敦子.md "wikilink")
   - 系列構成：[花田十輝](https://zh.wikipedia.org/wiki/花田十輝 "wikilink")
   - 角色設計、總作畫監督：大館康二
   - 美術監督：岩瀨榮治
@@ -583,7 +583,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[KBS京都](https://zh.
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 音樂：SUPER
     SWEEP（[細江慎治](https://zh.wikipedia.org/wiki/細江慎治 "wikilink")、[佐宗綾子](https://zh.wikipedia.org/wiki/佐宗綾子 "wikilink")、江口孝宏、田中文久）
-  - 音樂製作：[KADOKAWA](https://zh.wikipedia.org/wiki/KADOKAWA "wikilink")（[Media
+  - 音樂製作：[KADOKAWA](../Page/KADOKAWA.md "wikilink")（[Media
     Factory](../Page/Media_Factory.md "wikilink")）
   - 音樂製作人：篠原一雄
   - 製片人：田中翔、清水朝子、深尾聰志、清水美佳、林洋平
@@ -628,7 +628,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[KBS京都](https://zh.
 <td></td>
 <td><p>外行人（Beginner）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/花田十輝" title="wikilink">花田十輝</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/石塚敦子" title="wikilink">石塚敦子</a></p></td>
+<td><p><a href="../Page/石塚敦子.md" title="wikilink">石塚敦子</a></p></td>
 <td><p>大館康二</p></td>
 <td><p>第1卷</p></td>
 <td></td>
@@ -681,7 +681,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[KBS京都](https://zh.
 <td><p>第6話</p></td>
 <td></td>
 <td><p>一步（Interesting）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/下山健人" title="wikilink">下山健人</a></p></td>
+<td><p><a href="../Page/下山健人.md" title="wikilink">下山健人</a></p></td>
 <td><p>細川秀樹</p></td>
 <td><p><a href="../Page/濱田邦彥.md" title="wikilink">濱田邦彥</a></p></td>
 <td></td>
@@ -768,8 +768,8 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[KBS京都](https://zh.
 | 日本全國                                                              | [BS11](../Page/日本BS放送.md "wikilink")                          | 2014年4月11日－6月27日                                      | 星期五 23時30分－24時00分                                                                                             | 衛星電視                                                  | 「[ANIME+](../Page/ANIME+.md "wikilink")」節目 |
 | [NICONICO直播](https://zh.wikipedia.org/wiki/NICONICO直播 "wikilink") | 星期五 24時30分－25時00分                                             | [網路電視](https://zh.wikipedia.org/wiki/網路電視 "wikilink") |                                                                                                               |                                                       |                                            |
 | [NICONICO頻道](https://zh.wikipedia.org/wiki/NICONICO頻道 "wikilink") | 星期五 25時00分 更新                                                 |                                                       |                                                                                                               |                                                       |                                            |
-| [NICONICO動畫](../Page/NICONICO動畫.md "wikilink")                    | 2014年4月12日－6月28日                                              | 星期六 24時30分 更新                                         |                                                                                                               |                                                       |                                            |
-| [萬代頻道](https://zh.wikipedia.org/wiki/萬代頻道 "wikilink")             | 2014年4月18日－                                                   | 星期四 24時00分 更新                                         |                                                                                                               |                                                       |                                            |
+| [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 2014年4月12日－6月28日                                              | 星期六 24時30分 更新                                         |                                                                                                               |                                                       |                                            |
+| [萬代頻道](../Page/萬代頻道.md "wikilink")                                | 2014年4月18日－                                                   | 星期四 24時00分 更新                                         |                                                                                                               |                                                       |                                            |
 
 ### 映像特典
 
@@ -915,7 +915,7 @@ ZMCZ-9307（通常盤）</p></td>
 
   - 原作、角色原案：[榎宮祐](../Page/榎宮祐.md "wikilink")（[MF文庫J](../Page/MF文庫J.md "wikilink")『NO
     GAME NO LIFE』／[KADOKAWA刊](../Page/角川書店.md "wikilink")）
-  - 監督：[石塚敦子](https://zh.wikipedia.org/wiki/石塚敦子 "wikilink")
+  - 監督：[石塚敦子](../Page/石塚敦子.md "wikilink")
   - 劇本：[花田十輝](https://zh.wikipedia.org/wiki/花田十輝 "wikilink")
   - 角色設計、總作畫監督：田崎聰
   - 概念藝術：發智和宏
@@ -926,7 +926,7 @@ ZMCZ-9307（通常盤）</p></td>
   - 攝影監督：川下裕樹、伏原茜
   - 編輯：木村佳史子
   - 音樂：藤澤慶昌
-  - 音樂製作：[KADOKAWA](https://zh.wikipedia.org/wiki/KADOKAWA "wikilink")
+  - 音樂製作：[KADOKAWA](../Page/KADOKAWA.md "wikilink")
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 音響效果：小山恭正
   - 音響制作：MAGIC CAPSULE
@@ -943,9 +943,9 @@ ZMCZ-9307（通常盤）</p></td>
 
 ### 动画Neta
 
-  - 第2话12:42处空说出“异世界的秘密道具”时neta了《[哆啦A梦](https://zh.wikipedia.org/wiki/哆啦A梦 "wikilink")》。13:33处史蒂芙发出了《[JOJO的奇妙冒险](../Page/JOJO的奇妙冒险.md "wikilink")》中的[DIO的叫声](https://zh.wikipedia.org/wiki/DIO "wikilink")。预告部分neta了2010年6月E3游戏大展中，《全能之神
+  - 第2话12:42处空说出“异世界的秘密道具”时neta了《[哆啦A梦](https://zh.wikipedia.org/wiki/哆啦A梦 "wikilink")》。13:33处史蒂芙发出了《[JOJO的奇妙冒险](https://zh.wikipedia.org/wiki/JOJO的奇妙冒险 "wikilink")》中的[DIO的叫声](https://zh.wikipedia.org/wiki/DIO "wikilink")。预告部分neta了2010年6月E3游戏大展中，《全能之神
     梅塔特隆的升天》的PV中主人公的一句经典死亡FLAG“这样的装备没问题吗”。
-  - 第3话中裁判长neta《[逆转裁判](https://zh.wikipedia.org/wiki/逆转裁判 "wikilink")》，2:11处空喊出了《[逆转裁判](https://zh.wikipedia.org/wiki/逆转裁判 "wikilink")》系列名台词“異議あり”（我反对），同时响起的BGM为系列追求曲的变调。8:16处空说出了《[JOJO的奇妙冒险](../Page/JOJO的奇妙冒险.md "wikilink")》第四部角色[岸边露伴的名台词](https://zh.wikipedia.org/wiki/岸边露伴 "wikilink")“”（但是我拒绝），并且画风也变成JOJO画风。
+  - 第3话中裁判长neta《[逆转裁判](https://zh.wikipedia.org/wiki/逆转裁判 "wikilink")》，2:11处空喊出了《[逆转裁判](https://zh.wikipedia.org/wiki/逆转裁判 "wikilink")》系列名台词“異議あり”（我反对），同时响起的BGM为系列追求曲的变调。8:16处空说出了《[JOJO的奇妙冒险](https://zh.wikipedia.org/wiki/JOJO的奇妙冒险 "wikilink")》第四部角色[岸边露伴的名台词](https://zh.wikipedia.org/wiki/岸边露伴 "wikilink")“”（但是我拒绝），并且画风也变成JOJO画风。
   - 第3话的预告部分neta了FC上的游戏《[北野武的挑战书](https://zh.wikipedia.org/wiki/北野武的挑战书 "wikilink")》。
   - 第4话12:57处空的台词中明确提到了游戏《文明》。
   - 第5话20:09-20:25处再现了小说中对《[天空之城](../Page/天空之城.md "wikilink")》的neta。

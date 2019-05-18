@@ -9,13 +9,13 @@ X Yosemite，2014年10月16日正式上市，使用者可以免費使用。
 
 蘋果在WWDC的介紹中表示，OS X Yosemite將注重界面、應用和iOS设备连续性（Continuity）三個方面。在界面上，OS X
 Yosemite圖標設計類似[iOS
-7](../Page/iOS_7.md "wikilink")，趨向扁平化，視窗則改用了半透明導航欄，同時也採用全新[字體設計](https://zh.wikipedia.org/wiki/字體 "wikilink")\[1\]。
+7](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")，趨向扁平化，視窗則改用了半透明導航欄，同時也採用全新[字體設計](https://zh.wikipedia.org/wiki/字體 "wikilink")\[1\]。
 
   - [通知中心](https://zh.wikipedia.org/wiki/通知中心 "wikilink")：增加了日曆、日程、時鐘、天氣等小應用程式\[2\]。
   - [Safari](../Page/Safari.md "wikilink")：搜尋列整合搜尋建議項目和書籤，強化[WebGL](../Page/WebGL.md "wikilink")、[SPDY](../Page/SPDY.md "wikilink")、IndexedDB、[JavaScript](../Page/JavaScript.md "wikilink")、[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、[HTML5影片技術](../Page/HTML5.md "wikilink")，進一步節省電力。\[3\]
   - 深色模式：可將選單改為黑色。\[4\]
   - [Spotlight搜尋](https://zh.wikipedia.org/wiki/Spotlight "wikilink")：可搜尋App、開啟檔案\[5\]；支持單位轉換（如[貨幣](../Page/貨幣.md "wikilink")）\[6\]。
-  - [iCloud](../Page/iCloud.md "wikilink") Drive：相容OS
+  - [iCloud](https://zh.wikipedia.org/wiki/iCloud "wikilink") Drive：相容OS
     X、iOS，[Windows作業系統平台](https://zh.wikipedia.org/wiki/Windows "wikilink")。\[7\]
   - [Mail](https://zh.wikipedia.org/wiki/郵件_\(OS_X\) "wikilink")：可透過iCloud寄送大檔案附件功能，最大可傳送5[GB檔案](https://zh.wikipedia.org/wiki/GB "wikilink")\[8\]；新增Mark
     Up以透過觸控版進行線上簽署\[9\]。
@@ -40,7 +40,7 @@ GB的記憶體和8 GB的儲存空間，以及OS X 10.6.8（Snow Leopard）或以
 
 Yosemite支援下列麥金塔電腦：
 
-  - [iMac](../Page/iMac.md "wikilink")（2007年中或以後）
+  - [iMac](https://zh.wikipedia.org/wiki/iMac "wikilink")（2007年中或以後）
   - [MacBook](../Page/MacBook.md "wikilink")（13吋鋁製機身：2008年末或以後）（13吋：2009年或以後）12
     Inch: Early 2015
   - [MacBook

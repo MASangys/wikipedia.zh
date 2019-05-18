@@ -281,7 +281,7 @@
 
 ## DVD
 
-演唱會的[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS在](../Page/AKS.md "wikilink")2010年10月2日發行。演唱會的演出內容及幕後花絮分別收錄在4枚DVD，並附送1張生寫真及收集卡。此外，亦同時發售同樣收錄了演唱會的演出內容的[microSD及DVD版本](../Page/microSD.md "wikilink")，以及Premium
+演唱會的[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS在](../Page/AKS.md "wikilink")2010年10月2日發行。演唱會的演出內容及幕後花絮分別收錄在4枚DVD，並附送1張生寫真及收集卡。此外，亦同時發售同樣收錄了演唱會的演出內容的[microSD及DVD版本](https://zh.wikipedia.org/wiki/microSD "wikilink")，以及Premium
 Box版本。Premium Box共有3個版本，分別是Team A、Team K及Team
 B版本，內容包括4枚DVD、5張生寫真、1張收集卡及128頁的演唱會寫真集\[53\]\[54\]\[55\]。
 

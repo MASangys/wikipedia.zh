@@ -25,9 +25,9 @@
   - [恩斯特·奥古斯特
     (汉诺威王储)](https://zh.wikipedia.org/wiki/恩斯特·奥古斯特_\(汉诺威王储\) "wikilink")（1983生）
 
-  - [厄尼·班克斯](https://zh.wikipedia.org/wiki/厄尼·班克斯 "wikilink")（1931–2015），美國棒球運動員
+  - [厄尼·班克斯](../Page/厄尼·班克斯.md "wikilink")（1931–2015），美國棒球運動員
 
-  - [欧内斯特·贝文](https://zh.wikipedia.org/wiki/欧内斯特·贝文 "wikilink")（1881–1951），英國政治家
+  - [欧内斯特·贝文](../Page/欧内斯特·贝文.md "wikilink")（1881–1951），英國政治家
 
   - [喧尼斯·鮑寧](../Page/喧尼斯·鮑寧.md "wikilink")（1917–2012），美國演員
 

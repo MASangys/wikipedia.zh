@@ -7,7 +7,7 @@
 自小學二年級至高中時代學習了十年的鋼琴，\[1\] 中學時代學習用電腦軟體製作音樂、中學二年級開始作曲，\[2\] 2003年起始在 muzie
 網站發表純演奏樂曲（目前已關閉使用者頁面）。\[3\]
 
-2007年9月，在[NICONICO動畫網站投稿了使用](../Page/NICONICO動畫.md "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")[初音未來所製作的](../Page/初音未來.md "wikilink")「（戀愛VOC@LOID）」，一夕廣受歡迎，至今點閱率已超過百萬。\[4\]「」描寫[初音未來與創作者之間的戀愛歌曲](../Page/初音未來.md "wikilink")，賦予初音未來的角色形象並帶起VOCALOID原創曲風潮，對當時的[VOCALOID音樂圈帶來極大的影響](../Page/VOCALOID.md "wikilink")，成為[初音未來流行文化的推手](../Page/初音未來.md "wikilink")。\[5\]
+2007年9月，在[NICONICO動畫網站投稿了使用](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")[初音未來所製作的](../Page/初音未來.md "wikilink")「（戀愛VOC@LOID）」，一夕廣受歡迎，至今點閱率已超過百萬。\[4\]「」描寫[初音未來與創作者之間的戀愛歌曲](../Page/初音未來.md "wikilink")，賦予初音未來的角色形象並帶起VOCALOID原創曲風潮，對當時的[VOCALOID音樂圈帶來極大的影響](../Page/VOCALOID.md "wikilink")，成為[初音未來流行文化的推手](../Page/初音未來.md "wikilink")。\[5\]
 
 在NICONICO網站投稿時使用「（軟綿綿大耳狗）」的名義發表作品，也常使用[大耳狗在作品動畫中](../Page/肉桂狗.md "wikilink")。另一個網路聽眾所取的別名「」來自模擬VOCALOID主持電台的影片「（戀愛廣播）」之中，[初音未來詢問](../Page/初音未來.md "wikilink")
 OSTER
@@ -68,7 +68,7 @@ Trip\!\!**》全張專輯製作。\[23\]\[24\]
 2013年，參與遊戲「[初音未來 project
 DIVA-F](https://zh.wikipedia.org/wiki/初音未來_-Project_DIVA- "wikilink")」以及「Megpoid
 the Music♯」提供VOCALOID樂曲。參與遊戲「beatmania IIDX 21 SPADA」提供樂曲。和音樂家
-[sasakure.UK](../Page/sasakure.UK.md "wikilink")
+[sasakure.UK](https://zh.wikipedia.org/wiki/sasakure.UK "wikilink")
 共同合作、參與[全家便利商店與初音未來企劃單曲](../Page/全家便利商店.md "wikilink")《COMING
 DAYS》。\[25\]
 
@@ -188,7 +188,7 @@ DAYS》。\[25\]
 <td></td>
 <td><p>－</p></td>
 <td><p>CD</p></td>
-<td><p><a href="../Page/sasakure.UK.md" title="wikilink">sasakure.UK</a>×OSTER project</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/sasakure.UK" title="wikilink">sasakure.UK</a>×OSTER project</p></td>
 </tr>
 </tbody>
 </table>

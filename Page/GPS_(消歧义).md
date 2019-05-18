@@ -40,5 +40,4 @@
   - [园径句型](https://zh.wikipedia.org/wiki/园径句型 "wikilink")（Garden Path
     Sentence），一种读者乍看之下会诠释出错误意义，但事实上无文法错误的句子。
 
-  - [砂拉越政党联盟](https://zh.wikipedia.org/wiki/砂拉越政党联盟 "wikilink")（Gabubgan
-    Parti Sarawak）的缩写。
+  - [砂拉越政党联盟](../Page/砂拉越政党联盟.md "wikilink")（Gabubgan Parti Sarawak）的缩写。

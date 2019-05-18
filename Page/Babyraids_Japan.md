@@ -1,5 +1,5 @@
 **Babyraids
-JAPAN**（），[日本五人女子團體](../Page/日本.md "wikilink")，隸屬[LesPros娛樂旗下](https://zh.wikipedia.org/wiki/LesPros娛樂 "wikilink")，於2018年9月24日解散\[1\]。
+JAPAN**（），[日本五人女子團體](../Page/日本.md "wikilink")，隸屬[LesPros娛樂旗下](../Page/LesPros娛樂.md "wikilink")，於2018年9月24日解散\[1\]。
 
 ## 成員
 

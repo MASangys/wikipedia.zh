@@ -1,6 +1,6 @@
 《**愛迷ELEGY**》（）是[DECO\*27的第二張原創](../Page/DECO*27.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2010年12月15日由[U/M/A/A發售](https://zh.wikipedia.org/wiki/U/M/A/A "wikilink")。
 
-收錄[DECO\*27於動畫網站](../Page/DECO*27.md "wikilink")[NICONICO動畫上以](../Page/NICONICO動畫.md "wikilink")[初音未來](../Page/初音未來.md "wikilink")、[Megpoid等VOCALOID創作並發表的樂曲](../Page/Megpoid.md "wikilink")，以及DECO\*27自身與女性歌手marina的翻唱\[1\]。
+收錄[DECO\*27於動畫網站](../Page/DECO*27.md "wikilink")[NICONICO動畫上以](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[初音未來](../Page/初音未來.md "wikilink")、[Megpoid等VOCALOID創作並發表的樂曲](../Page/Megpoid.md "wikilink")，以及DECO\*27自身與女性歌手marina的翻唱\[1\]。
 
 ## 曲目
 
@@ -18,13 +18,14 @@ GUMI」由[柴崎幸作詞](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")�
 ## 參與的音樂人
 
   - とぴ：Vocal
-  - [marina](../Page/marina.md "wikilink")（ex. [Girls Dead
+  - [marina](https://zh.wikipedia.org/wiki/marina "wikilink")（ex. [Girls
+    Dead
     Monster](https://zh.wikipedia.org/wiki/Girls_Dead_Monster "wikilink"))）：Vocal
   - [mirto](https://zh.wikipedia.org/wiki/mirto "wikilink")：Vocal
   - [永友聖也](https://zh.wikipedia.org/wiki/永友聖也 "wikilink")（[キャプテンストライダム](https://zh.wikipedia.org/wiki/キャプテンストライダム "wikilink")、[ARUYO](https://zh.wikipedia.org/wiki/ARUYO "wikilink")）：Guitar
   - [梶山剛](https://zh.wikipedia.org/wiki/梶山剛 "wikilink")（ex.
     [スパルタローカルズ](https://zh.wikipedia.org/wiki/スパルタローカルズ "wikilink")）：Drums
-  - [sasakure.UK](../Page/sasakure.UK.md "wikilink")：Remixer
+  - [sasakure.UK](https://zh.wikipedia.org/wiki/sasakure.UK "wikilink")：Remixer
   - [ELECTROCUTICA](https://zh.wikipedia.org/wiki/ELECTROCUTICA "wikilink")：Remixer
   - [kous](https://zh.wikipedia.org/wiki/kous "wikilink")：Remixer
 

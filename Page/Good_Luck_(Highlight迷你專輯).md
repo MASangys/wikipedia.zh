@@ -59,7 +59,7 @@ Luck》，在2014年6月10日公開先行曲《如今再也不是》（）\[1\]�
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年Gaon專輯冠軍作品列表" title="wikilink">專輯周榜</a></p></td>
+<td><p><a href="../Page/2014年Gaon專輯冠軍作品列表.md" title="wikilink">專輯周榜</a></p></td>
 <td><p>2014年6月15日－6月21日</p></td>
 <td><p>#1</p></td>
 <td><p>–</p></td>
@@ -76,7 +76,7 @@ Luck》，在2014年6月10日公開先行曲《如今再也不是》（）\[1\]�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="../Page/2014年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2014年6月</p></td>
 <td><p>#1</p></td>
 <td><p>88,800</p></td>
@@ -85,7 +85,7 @@ Luck》，在2014年6月10日公開先行曲《如今再也不是》（）\[1\]�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年Gaon專輯冠軍作品列表" title="wikilink">專輯年榜</a></p></td>
+<td><p><a href="../Page/2014年Gaon專輯冠軍作品列表.md" title="wikilink">專輯年榜</a></p></td>
 <td><p>2014年</p></td>
 <td><p>#9</p></td>
 <td><p>134,449</p></td>

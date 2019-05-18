@@ -36,7 +36,7 @@ Mk.IIA最終被[A15十字軍坦克所取代](../Page/十字軍坦克.md "wikilin
 
 ## 作戰歷史
 
-[法國戰役中](../Page/法國戰役.md "wikilink")，[英國遠征軍](https://zh.wikipedia.org/wiki/英國遠征軍 "wikilink")[第一裝甲師配備了少量Mk](https://zh.wikipedia.org/wiki/第一裝甲師 "wikilink").IV和Mk.IVA。但是大部分都在[加萊被拋棄](https://zh.wikipedia.org/wiki/加萊 "wikilink")。那些參與了作戰的坦克在作戰中完全不是德軍的對手。從1940年10月開始，Mk.IVA巡航坦克被送到北非，并與早先的[Mk.I巡航坦克和](../Page/Mk.I巡航坦克.md "wikilink")[Mk.II巡航坦克共同作戰](https://zh.wikipedia.org/wiki/Mk.II巡航坦克 "wikilink")。因為Mk.IVA并沒有生產太多，因此英國的裝甲旅一般都會同時裝備較慢（時速10-20英里/小時）的Mk.I、Mk.II巡航坦克和較快的Mk.IVA巡航坦克、[Mk.VI輕型坦克](https://zh.wikipedia.org/wiki/Mk.VI輕型坦克 "wikilink")（當時充當[巡航坦克](https://zh.wikipedia.org/wiki/巡航坦克 "wikilink")）。但這種配置造成了戰術上和后勤供應上的問題。然而，Mk.IVA卻很受其成員歡迎。其唯一的較明顯的缺點就是缺乏QF
+[法國戰役中](../Page/法國戰役.md "wikilink")，[英國遠征軍](https://zh.wikipedia.org/wiki/英國遠征軍 "wikilink")[第一裝甲師配備了少量Mk](https://zh.wikipedia.org/wiki/第一裝甲師 "wikilink").IV和Mk.IVA。但是大部分都在[加萊被拋棄](https://zh.wikipedia.org/wiki/加萊 "wikilink")。那些參與了作戰的坦克在作戰中完全不是德軍的對手。從1940年10月開始，Mk.IVA巡航坦克被送到北非，并與早先的[Mk.I巡航坦克和](../Page/Mk.I巡航坦克.md "wikilink")[Mk.II巡航坦克共同作戰](../Page/Mk.II巡航坦克.md "wikilink")。因為Mk.IVA并沒有生產太多，因此英國的裝甲旅一般都會同時裝備較慢（時速10-20英里/小時）的Mk.I、Mk.II巡航坦克和較快的Mk.IVA巡航坦克、[Mk.VI輕型坦克](https://zh.wikipedia.org/wiki/Mk.VI輕型坦克 "wikilink")（當時充當[巡航坦克](https://zh.wikipedia.org/wiki/巡航坦克 "wikilink")）。但這種配置造成了戰術上和后勤供應上的問題。然而，Mk.IVA卻很受其成員歡迎。其唯一的較明顯的缺點就是缺乏QF
 2磅炮的高爆彈。和同期的英國坦克相似，它在反坦克炮下顯得十分脆弱，能夠抵抗的也不過是機槍罷了。但是，總體上，Mk.IV巡航坦克還是比較可靠，2磅炮在1941年晚期以前對付[軸心國的坦克也還是游刃有余](https://zh.wikipedia.org/wiki/軸心國 "wikilink")。它最終被[十字軍坦克取代](../Page/十字軍坦克.md "wikilink")，十字軍坦克其實就是加大號的Mk.IV坦克加上更厚的裝甲。
 
 ### 使用部隊

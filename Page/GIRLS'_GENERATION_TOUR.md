@@ -1,7 +1,7 @@
 **GIRLS' GENERATION
 TOUR**是韓國女子組合[少女時代第二次亞洲巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。這次巡演的一部分是在日本舉行的The
 1st Japan Arena Tour，舞台的設計、配置設備都是一樣。
-[少女時代這次巡演一共有七套服裝的變化](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。2011年7月23日[首爾開始巡演](https://zh.wikipedia.org/wiki/首爾 "wikilink")，之後在[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[香港舉行](../Page/香港.md "wikilink")，2012年2月12日在[曼谷完成最後一次巡演](../Page/曼谷.md "wikilink")。
+[少女時代這次巡演一共有七套服裝的變化](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。2011年7月23日[首爾開始巡演](../Page/首爾.md "wikilink")，之後在[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[香港舉行](../Page/香港.md "wikilink")，2012年2月12日在[曼谷完成最後一次巡演](../Page/曼谷.md "wikilink")。
 
 ## 概述
 
@@ -34,7 +34,7 @@ Boys〉的表演舞台首次推出。\[3\]
 <tbody>
 <tr class="odd">
 <td><p>2011年7月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
 <td><p>總計20,000名 [6]</p></td>

@@ -35,7 +35,7 @@
 <td><p>每週二 18:00-19:02（日本時間）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/華語劇台" title="wikilink">華語劇台</a></p></td>
+<td><p><a href="../Page/華語劇台.md" title="wikilink">華語劇台</a></p></td>
 <td></td>
 <td><p>|2016年10月16日</p></td>
 <td><p>每週日 13:00-14:30</p></td>
@@ -75,7 +75,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/華語劇台" title="wikilink">華語劇台</a></p></td>
+<td><p><a href="../Page/華語劇台.md" title="wikilink">華語劇台</a></p></td>
 <td></td>
 <td><p>2016年10月16日</p></td>
 <td><p>每週日 16:30-18:00</p></td>
@@ -231,7 +231,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/楊晴" title="wikilink">楊晴</a></p></td>
+<p><a href="../Page/楊晴.md" title="wikilink">楊晴</a></p></td>
 <td><center>
 <p>廖巧如</p></td>
 <td><p>穩贏樂團Keyboard手、是王牧群的女朋友（及後為未婚妻和妻子）。知道周書宇離開BS的事知道周書宇和徐立達與楊佳欣決裂的事，怕樂團正式解散。現在是音樂老師。後來當周書宇和林維真認定戀情後，她與王牧群宣布婚禮的消息。</p></td>
@@ -264,7 +264,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/林予晞" title="wikilink">林予晞</a></p></td>
+<p><a href="../Page/林予晞.md" title="wikilink">林予晞</a></p></td>
 <td><center>
 <p>關關</p></td>
 <td><p>周書宇的前助理、楊佳欣的助理、BS娛樂公司員工。盡責上進認真負責的好助理。在周書宇決定離開BS時，因經理為所有員工調升薪水，而關關的家境狀況不允許他失去這份薪水，無法跟著周書宇離開BS。在公司慶祝總監離職時，只有他為了總監的離去而難過哭泣。之後秘密為林維真加油打氣，也檢舉了阿松和阿修的留言。</p></td>
@@ -433,7 +433,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/蔡明修" title="wikilink">蔡明修</a></p></td>
+<p><a href="../Page/蔡明修.md" title="wikilink">蔡明修</a></p></td>
 <td><center>
 <p>總幹事</p></td>
 <td><p>2006<a href="https://zh.wikipedia.org/wiki/雲林縣" title="wikilink">雲林縣溫泉鄉跨年聯歡晚會主辦負責人</a></p></td>
@@ -554,7 +554,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/左左右右" title="wikilink">左左</a></p></td>
+<p><a href="../Page/左左右右.md" title="wikilink">左左</a></p></td>
 <td><center>
 <p>童年的林維真/左左</p></td>
 <td><p>與千芮一起拍攝豆奶廣告，而得「豆奶小天-{后}-」之稱。在《一鳴驚人》成為林維真的臨時伴舞</p></td>
@@ -563,7 +563,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/左左右右" title="wikilink">右右</a></p></td>
+<p><a href="../Page/左左右右.md" title="wikilink">右右</a></p></td>
 <td><center>
 <p>童年的千芮/右右</p></td>
 <td><p>與林維真一起拍攝豆奶廣告，而得「豆奶小天-{后}-」之稱。在《一鳴驚人》成為林維真的臨時伴舞</p></td>
@@ -921,7 +921,7 @@
 | 平均收視率                                                                                              | 0.57  |                                  |      |         |     |
 |                                                                                                    |       |                                  |      |         |     |
 
-  - <small>同時段劇集：[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")《[回到愛以前](../Page/回到愛以前.md "wikilink")》／《[愛上兩個我](https://zh.wikipedia.org/wiki/愛上兩個我 "wikilink")》、[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")《[主君的太陽](../Page/主君的太陽.md "wikilink")》／《[勇敢說出我愛你](https://zh.wikipedia.org/wiki/勇敢說出我愛你 "wikilink")》、[民視](https://zh.wikipedia.org/wiki/民視 "wikilink")《[真愛配方](../Page/真愛配方.md "wikilink")》／《[你照亮我星球](../Page/你照亮我星球.md "wikilink")》
+  - <small>同時段劇集：[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")《[回到愛以前](../Page/回到愛以前.md "wikilink")》／《[愛上兩個我](../Page/愛上兩個我.md "wikilink")》、[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")《[主君的太陽](../Page/主君的太陽.md "wikilink")》／《[勇敢說出我愛你](https://zh.wikipedia.org/wiki/勇敢說出我愛你 "wikilink")》、[民視](https://zh.wikipedia.org/wiki/民視 "wikilink")《[真愛配方](../Page/真愛配方.md "wikilink")》／《[你照亮我星球](../Page/你照亮我星球.md "wikilink")》
   - 由[AGB尼爾森調查](https://zh.wikipedia.org/wiki/AGB尼爾森 "wikilink")，調查範圍是四歲以上收看電視之觀眾。
   - 資料來源：[中時娛樂](https://zh.wikipedia.org/wiki/中時娛樂 "wikilink")</small>
 
@@ -941,7 +941,7 @@
   - 協力編劇：馮勃棣、王雨晴、月彙、詹小米
   - 編審：連凱鴻、藍文希、邵慧婷、王千賀
   - 導演：林子平
-  - 企劃：[林予晞](https://zh.wikipedia.org/wiki/林予晞 "wikilink")、蔡菁怡
+  - 企劃：[林予晞](../Page/林予晞.md "wikilink")、蔡菁怡
   - 商務整合：黃瀞儀、張喜寧
   - 藝人統籌：劉珈妍
   - 藝人管理：洪源聰

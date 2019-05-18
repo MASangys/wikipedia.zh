@@ -3,7 +3,7 @@
 ## 概要
 
   - 距離前作「[MORE\! MORE\!
-    MORE\!](https://zh.wikipedia.org/wiki/MORE!_MORE!_MORE! "wikilink")」發行約1年半的原創專輯。以「CD
+    MORE\!](../Page/MORE!_MORE!_MORE!.md "wikilink")」發行約1年半的原創專輯。以「CD
     Only」和初回限定盤「CD＋DVD」兩種形態發售。
   - 發售當日是主音[越島稔子的](../Page/越島稔子.md "wikilink")30歲生日。
   - 和中田製作的電影原聲大碟「LIAR GAME 2 〜シーズン2＆劇場版 オリジナルサウンド トラック〜」同時發售。

@@ -1,6 +1,6 @@
 **BIRT**（Business Intelligence and Reporting
 Tools，商业智能和报告工具，曾被中国分公司译作**百灵**）项目是一个[开源软件项目](../Page/开源软件.md "wikilink")，其为应用和[Web应用程序](../Page/网络应用程序.md "wikilink")（特别是那些基于[Java和](../Page/Java.md "wikilink")[Java
-EE的应用](https://zh.wikipedia.org/wiki/Java_EE "wikilink")）提供了报表和[商业智能功能](../Page/商业智能.md "wikilink")。BIRT是[Eclipse基金会下属的一个顶级软件项目](https://zh.wikipedia.org/wiki/Eclipse基金会 "wikilink")，也是一个独立的、由软件供应商和[开源社区组成的非营利联盟](../Page/自由软件运动.md "wikilink")。
+EE的应用](https://zh.wikipedia.org/wiki/Java_EE "wikilink")）提供了报表和[商业智能功能](../Page/商业智能.md "wikilink")。BIRT是[Eclipse基金会下属的一个顶级软件项目](../Page/Eclipse基金会.md "wikilink")，也是一个独立的、由软件供应商和[开源社区组成的非营利联盟](../Page/自由软件运动.md "wikilink")。
 
 该项目的目标是解决在典型应用中广泛存在的报表需求\[1\]，包括从业务级别或企业级别的各种报表，到多维[联机分析处理](https://zh.wikipedia.org/wiki/联机分析处理 "wikilink")（OLAP）。从一开始该项目就关注并提供了能使的应用开发者轻松地设计报表、并在应用中集成报表的软件。
 

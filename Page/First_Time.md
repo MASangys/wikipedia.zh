@@ -1,5 +1,5 @@
 《**First
-Time**》（）是[日本女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")1張原創專輯。於1998年7月8日發行。唱片公司為[zetima](../Page/zetima.md "wikilink")。
+Time**》（）是[日本女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")1張原創專輯。於1998年7月8日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 

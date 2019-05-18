@@ -64,25 +64,25 @@ SmackDown存在的爭鬥](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDo
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>The Real Americans (<a href="../Page/傑克·史威格.md" title="wikilink">Jack Swagger</a> and <a href="https://zh.wikipedia.org/wiki/安東尼奧·希薩羅" title="wikilink">Antonio Cesaro</a>) (with ) defeated <a href="../Page/桑提諾·馬瑞拉.md" title="wikilink">Santino Marella</a> and <a href="../Page/巨人哈利.md" title="wikilink">The Great Khali</a> (with <a href="https://zh.wikipedia.org/wiki/小精靈_(摔角手)" title="wikilink">Hornswoggle</a>)</p></td>
+<td><p>The Real Americans (<a href="../Page/傑克·史威格.md" title="wikilink">Jack Swagger</a> and <a href="https://zh.wikipedia.org/wiki/安東尼奧·希薩羅" title="wikilink">Antonio Cesaro</a>) (with ) defeated <a href="../Page/桑提諾·馬瑞拉.md" title="wikilink">Santino Marella</a> and <a href="../Page/巨人哈利.md" title="wikilink">The Great Khali</a> (with <a href="../Page/小精靈_(摔角手).md" title="wikilink">Hornswoggle</a>)</p></td>
 <td><p>[3]</p></td>
 <td><p>7:11</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p><a href="../Page/柯爾提斯·艾克賽爾.md" title="wikilink">Curtis Axel</a> (c) (with <a href="../Page/保羅·黑門.md" title="wikilink">Paul Heyman</a>) defeated <a href="https://zh.wikipedia.org/wiki/R-Truth" title="wikilink">R-Truth</a></p></td>
+<td><p><a href="../Page/柯爾提斯·艾克賽爾.md" title="wikilink">Curtis Axel</a> (c) (with <a href="../Page/保羅·黑門.md" title="wikilink">Paul Heyman</a>) defeated <a href="../Page/R-Truth.md" title="wikilink">R-Truth</a></p></td>
 <td><p>for the <a href="https://zh.wikipedia.org/wiki/WWE洲際冠軍" title="wikilink">WWE Intercontinental Championship</a>[4]</p></td>
 <td><p>7:36</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AJ_Lee" title="wikilink">AJ Lee</a> (c) (with <a href="https://zh.wikipedia.org/wiki/塔米娜·史奴卡" title="wikilink">Tamina Snuka</a>) defeated <a href="https://zh.wikipedia.org/wiki/Brie_Bella" title="wikilink">Brie Bella</a> (with <a href="https://zh.wikipedia.org/wiki/Nikki_Bella" title="wikilink">Nikki Bella</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AJ_Lee" title="wikilink">AJ Lee</a> (c) (with <a href="../Page/塔米娜·史奴卡.md" title="wikilink">Tamina Snuka</a>) defeated <a href="https://zh.wikipedia.org/wiki/Brie_Bella" title="wikilink">Brie Bella</a> (with <a href="https://zh.wikipedia.org/wiki/Nikki_Bella" title="wikilink">Nikki Bella</a>)</p></td>
 <td><p>for the <a href="../Page/WWE麗人冠軍.md" title="wikilink">WWE Divas Championship</a>[5]</p></td>
 <td><p>6:37</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/達斯汀·羅茲" title="wikilink">Goldust</a> and <a href="../Page/寇帝·羅茲.md" title="wikilink">Cody Rhodes</a> (with <a href="https://zh.wikipedia.org/wiki/德斯提·羅茲" title="wikilink">Dusty Rhodes</a>) defeated <a href="../Page/神盾軍.md" title="wikilink">The Shield</a> (<a href="../Page/羅曼·瑞恩斯.md" title="wikilink">Roman Reigns</a> and <a href="../Page/賽特·羅林斯.md" title="wikilink">Seth Rollins</a>) (with <a href="../Page/迪恩·安布羅斯.md" title="wikilink">Dean Ambrose</a>)</p></td>
+<td><p><a href="../Page/達斯汀·羅茲.md" title="wikilink">Goldust</a> and <a href="../Page/寇帝·羅茲.md" title="wikilink">Cody Rhodes</a> (with <a href="https://zh.wikipedia.org/wiki/德斯提·羅茲" title="wikilink">Dusty Rhodes</a>) defeated <a href="../Page/神盾軍.md" title="wikilink">The Shield</a> (<a href="../Page/羅曼·瑞恩斯.md" title="wikilink">Roman Reigns</a> and <a href="../Page/賽特·羅林斯.md" title="wikilink">Seth Rollins</a>) (with <a href="../Page/迪恩·安布羅斯.md" title="wikilink">Dean Ambrose</a>)</p></td>
 <td><p><br />
 Since Goldust and Cody won, they were reinstated by <a href="https://zh.wikipedia.org/wiki/世界摔角娛樂" title="wikilink">WWE</a>.<br />
 Had The Shield won, Dusty would have lost his job as an <a href="../Page/WWE_NXT.md" title="wikilink">NXT</a> trainer and the Rhodes family would have been banned from WWE.[6]</p></td>
@@ -90,7 +90,7 @@ Had The Shield won, Dusty would have lost his job as an <a href="../Page/WWE_NXT
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/布雷·外耶特" title="wikilink">Bray Wyatt</a> (with <a href="https://zh.wikipedia.org/wiki/盧克·哈波爾" title="wikilink">Luke Harper</a> and <a href="https://zh.wikipedia.org/wiki/埃爾伊克·洛望" title="wikilink">Erick Rowan</a>) defeated <a href="../Page/科菲·京斯頓.md" title="wikilink">Kofi Kingston</a></p></td>
+<td><p><a href="../Page/布雷·外耶特.md" title="wikilink">Bray Wyatt</a> (with <a href="../Page/盧克·哈波爾.md" title="wikilink">Luke Harper</a> and <a href="https://zh.wikipedia.org/wiki/埃爾伊克·洛望" title="wikilink">Erick Rowan</a>) defeated <a href="../Page/科菲·京斯頓.md" title="wikilink">Kofi Kingston</a></p></td>
 <td><p>[7]</p></td>
 <td><p>8:27</p></td>
 </tr>

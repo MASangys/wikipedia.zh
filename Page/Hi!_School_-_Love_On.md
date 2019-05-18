@@ -43,23 +43,23 @@ On**》\[1\]（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K
 | 角色  | 演員                                                  | 角色介紹                          |
 | --- | --------------------------------------------------- | ----------------------------- |
 | 黃成烈 | [李成烈](https://zh.wikipedia.org/wiki/李成烈 "wikilink") | 18歲，天堂高中在校生，喜歡瑟菲。後為優鉉弟弟。      |
-| 安智惠 | [崔秀琳](https://zh.wikipedia.org/wiki/崔秀琳 "wikilink") | 成烈的後母，優鉉的生母。天堂高中的老師。          |
+| 安智惠 | [崔秀琳](../Page/崔秀琳.md "wikilink")                    | 成烈的後母，優鉉的生母。天堂高中的老師。          |
 | 黃佑鎮 | [趙軟祐](../Page/趙軟祐.md "wikilink")                    | 成烈的爸爸，工作是警察，最後辭掉警察的工作，全心投入家庭。 |
 
 ### 天堂高中二年3班
 
 | 角色  | 演員                                                  | 角色介紹                              |
 | --- | --------------------------------------------------- | --------------------------------- |
-| 姜基修 | [申玹卓](https://zh.wikipedia.org/wiki/申玹卓 "wikilink") | 18歲，天堂高中在校生，申優鉉的好友,喜歡羅英恩。         |
+| 姜基修 | [申玹卓](../Page/申玹卓.md "wikilink")                    | 18歲，天堂高中在校生，申優鉉的好友,喜歡羅英恩。         |
 | 崔宰碩 | [金永宰](https://zh.wikipedia.org/wiki/金永宰 "wikilink") | 天堂高校的老大，看申優鉉不順眼，喜歡李多律。            |
 | 羅英恩 | [金敏英](../Page/金敏英.md "wikilink")                    | 18歲，天堂高在校生，和李藝娜為朋友，單戀黃成烈，後喜歡姜基修。  |
 | 李藝娜 | [羅海嶺](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink") | 18歲，天堂高在校生，對申優鉉一見鍾情。              |
-| 高天植 | [李時厚](https://zh.wikipedia.org/wiki/李時厚 "wikilink") | 18歲，在第二集時優鉉轉學到班上時的同桌，為宰碩一行人欺負的對象。 |
-| 楊泰昊 | [白承憲](https://zh.wikipedia.org/wiki/白承憲 "wikilink") | 18歲，天堂高在校生，崔宰碩的手下，喜歡金珠兒。          |
+| 高天植 | [李時厚](../Page/李時厚.md "wikilink")                    | 18歲，在第二集時優鉉轉學到班上時的同桌，為宰碩一行人欺負的對象。 |
+| 楊泰昊 | [白承憲](../Page/白承憲.md "wikilink")                    | 18歲，天堂高在校生，崔宰碩的手下，喜歡金珠兒。          |
 | 朴秉旭 | [金玟錫](https://zh.wikipedia.org/wiki/金玟錫 "wikilink") | 18歲，天堂高在校生，崔宰碩的手下。                |
 | 李碩勳 | [Chang Jae](../Page/MR._MR_\(組合\).md "wikilink")    | 班上第二名，第四集被宰碩威脅協助考試作弊。             |
 | 李多律 | [金智兒](https://zh.wikipedia.org/wiki/金智兒 "wikilink") | 喜歡宰碩，對演戲有興趣。                      |
-| 金珠兒 | [鄭幼敏](https://zh.wikipedia.org/wiki/鄭侑敏 "wikilink") | 班上副班長，在美式速食店打工，家中有個賭博父親。後來喜歡楊泰昊。  |
+| 金珠兒 | [鄭幼敏](../Page/鄭侑敏.md "wikilink")                    | 班上副班長，在美式速食店打工，家中有個賭博父親。後來喜歡楊泰昊。  |
 |     |                                                     |                                   |
 
 ### 天使
@@ -69,7 +69,7 @@ On**》\[1\]（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K
 
 ### 天堂高中老師
 
-  - [金廣植](https://zh.wikipedia.org/wiki/金廣植 "wikilink") 飾演 金廣植
+  - [金廣植](../Page/金廣植.md "wikilink") 飾演 金廣植
 
   - [韓秀妍](../Page/韓秀妍.md "wikilink") 飾演 崔素珍
 
@@ -259,8 +259,8 @@ On**》\[1\]（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K
 ## 同時段競爭作品
 
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[媽媽的庭院](../Page/媽媽的庭院.md "wikilink")》、《[狎鷗亭白夜](https://zh.wikipedia.org/wiki/狎鷗亭白夜 "wikilink")》
-  - [tvN](../Page/TVN.md "wikilink")：《[不要戀愛要結婚](https://zh.wikipedia.org/wiki/不要戀愛要結婚 "wikilink")》、《[九數少年](https://zh.wikipedia.org/wiki/九數少年 "wikilink")》、《[未生](https://zh.wikipedia.org/wiki/未生 "wikilink")》
-  - [JTBC](../Page/JTBC.md "wikilink")：《[下女們](https://zh.wikipedia.org/wiki/下女們 "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink")：《[不要戀愛要結婚](../Page/不要戀愛要結婚.md "wikilink")》、《[九數少年](../Page/九數少年.md "wikilink")》、《[未生](../Page/未生.md "wikilink")》
+  - [JTBC](../Page/JTBC.md "wikilink")：《[下女們](../Page/下女們.md "wikilink")》
 
 ## 參考資料
 

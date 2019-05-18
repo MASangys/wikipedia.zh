@@ -23,7 +23,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a>(<a href="../Page/Windows_2000.md" title="wikilink">2000</a>/<a href="../Page/Windows_XP.md" title="wikilink">XP</a>/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>)<br />
 <a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a><br />
 <a href="https://zh.wikipedia.org/wiki/PSP" title="wikilink">PSP</a><br />
-<a href="../Page/iPod_Touch.md" title="wikilink">iPod Touch</a>、<a href="../Page/iPhone.md" title="wikilink">iPhone</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/iPod_Touch" title="wikilink">iPod Touch</a>、<a href="https://zh.wikipedia.org/wiki/iPhone" title="wikilink">iPhone</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ADV" title="wikilink">ADV</a></p></td>
 <td><p>2008年，<a href="../Page/澀谷.md" title="wikilink">澀谷</a></p></td>
 <td><p>2008年4月25日</p></td>
@@ -37,7 +37,7 @@
 Windows XP/Vista/<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a><br />
 <a href="https://zh.wikipedia.org/wiki/PS3" title="wikilink">PS3</a><br />
 <a href="../Page/PlayStation_Vita.md" title="wikilink">PS Vita</a><br />
-iPhone/iPod touch/<a href="../Page/iPad.md" title="wikilink">iPad</a>（<a href="../Page/iOS.md" title="wikilink">iOS</a>）</p></td>
+iPhone/iPod touch/<a href="https://zh.wikipedia.org/wiki/iPad" title="wikilink">iPad</a>（<a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a>）</p></td>
 <td><p>2010年，<a href="../Page/秋葉原.md" title="wikilink">秋葉原</a></p></td>
 <td><p>2009年10月15日</p></td>
 <td></td>
@@ -70,7 +70,7 @@ PS Vita</p></td>
 </tr>
 <tr class="odd">
 <td><p>命運石之門0</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/命運石之門0" title="wikilink">Steins;Gate 0</a></p></td>
+<td><p><a href="../Page/命運石之門0.md" title="wikilink">Steins;Gate 0</a></p></td>
 <td></td>
 <td><p>PS4<br />
 PS3<br />
@@ -84,7 +84,7 @@ Windows: 7/8.1/10</p></td>
 </tr>
 <tr class="even">
 <td><p>機器人筆記DaSH</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/機器人筆記DaSH" title="wikilink">Robotics;Notes DaSH</a></p></td>
+<td><p><a href="../Page/機器人筆記DaSH.md" title="wikilink">Robotics;Notes DaSH</a></p></td>
 <td></td>
 <td><p>PS4<br />
 <a href="https://zh.wikipedia.org/wiki/Nintendo_Switch" title="wikilink">Nintendo Switch</a></p></td>
