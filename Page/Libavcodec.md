@@ -1,6 +1,6 @@
 **libavcodec**是一款[LGPL](../Page/GNU宽通用公共许可证.md "wikilink")[自由软件编解码库](../Page/自由软件.md "wikilink")，用于视频和音频数据的编解码工作。带有这个名字的库有[FFmpeg项目和](../Page/FFmpeg.md "wikilink")[Libav项目](https://zh.wikipedia.org/wiki/Libav "wikilink")，但是它们却彼此不兼容。
 
-libavcodec是个集成了许多开源多媒体应用和框架。常见的[MPlayer](../Page/MPlayer.md "wikilink")、[xine和](https://zh.wikipedia.org/wiki/xine "wikilink")[VLC媒体播放器都使用它作为它们的主要内置解码引擎](https://zh.wikipedia.org/wiki/VLC "wikilink")，用于许多音频视频格式在所有支持的平台上的重放。它也被[ffdshow试用解码器用作主要的解码库](../Page/ffdshow.md "wikilink")。libavcodec也被用于视频编辑和转换应用，例如[Avidemux](../Page/Avidemux.md "wikilink")、或者[Kdenlive既用它解码也用其编码](../Page/Kdenlive.md "wikilink")。
+libavcodec是个集成了许多开源多媒体应用和框架。常见的[MPlayer](../Page/MPlayer.md "wikilink")、[xine和](https://zh.wikipedia.org/wiki/xine "wikilink")[VLC媒体播放器都使用它作为它们的主要内置解码引擎](https://zh.wikipedia.org/wiki/VLC "wikilink")，用于许多音频视频格式在所有支持的平台上的重放。它也被[ffdshow试用解码器用作主要的解码库](https://zh.wikipedia.org/wiki/ffdshow "wikilink")。libavcodec也被用于视频编辑和转换应用，例如[Avidemux](../Page/Avidemux.md "wikilink")、或者[Kdenlive既用它解码也用其编码](../Page/Kdenlive.md "wikilink")。
 
 libavcodec包含了解码器和为实现若干专有格式而存在的编码器。其本身在[逆向工程方面的工作就是libavcodec发展成长的一部分](../Page/逆向工程.md "wikilink")。在标准的libavcodec框架下，有着这些有效的编解码器为使用原始的编解码器带来很大的益处，最明显的就是提升了移植性。另一些方面也增加了它的表现力，因为libavcodec包含了一份标准库，它高度优化了常见建立块的实现，比如[DCT和色彩空间转换](https://zh.wikipedia.org/wiki/DCT "wikilink")。但是，即便libavcodec致力于将字节提取级别的解码来实现最终结果，这样的重现中出现的错误和丢失的特征有时候能导致回放固定文件的兼容性问题。
 
@@ -27,9 +27,10 @@ libavcodec包含如下的編解碼：\[1\]
   - [H.261](../Page/H.261.md "wikilink")
   - [H.263](../Page/H.263.md "wikilink")
   - [H.264/MPEG-4
-    AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")（原生解碼，編碼則透過[x264](../Page/x264.md "wikilink")）
+    AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")（原生解碼，編碼則透過[x264](https://zh.wikipedia.org/wiki/x264 "wikilink")）
   - [Huffyuv](https://zh.wikipedia.org/wiki/Huffyuv "wikilink")
-  - [id Software](../Page/id_Software.md "wikilink") RoQ Video
+  - [id Software](https://zh.wikipedia.org/wiki/id_Software "wikilink")
+    RoQ Video
   - [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
     [Indeo](https://zh.wikipedia.org/wiki/Indeo "wikilink")（僅解碼功能）
   - [Lagarith](https://zh.wikipedia.org/wiki/Lagarith "wikilink")（僅解碼功能）
@@ -65,7 +66,7 @@ libavcodec包含如下的編解碼：\[1\]
   - RealVideo RV30 and RV40（僅解碼功能）
   - [Smacker
     video](https://zh.wikipedia.org/wiki/Smacker_video "wikilink")（僅解碼功能）
-  - [Snow](../Page/Snow.md "wikilink")
+  - [Snow](https://zh.wikipedia.org/wiki/Snow "wikilink")
   - [Sorenson](https://zh.wikipedia.org/wiki/Sorenson "wikilink")
     [SVQ1](https://zh.wikipedia.org/wiki/SVQ1 "wikilink")
   - Sorenson
@@ -197,7 +198,7 @@ libavcodec含蓋列下的音頻編解碼格式：\[2\]
   - [VLC](https://zh.wikipedia.org/wiki/VLC_media_player "wikilink")
   - [xine](https://zh.wikipedia.org/wiki/xine "wikilink")
   - [PotPlayer](../Page/PotPlayer.md "wikilink")
-  - [IINA](https://zh.wikipedia.org/wiki/IINA "wikilink")
+  - [IINA](../Page/IINA.md "wikilink")
 
 ### 音頻播放器
 
@@ -241,13 +242,12 @@ libavcodec含蓋列下的音頻編解碼格式：\[2\]
 
   -
   -
-  - [ffmpeg2theora](../Page/ffmpeg2theora.md "wikilink")
+  - [ffmpeg2theora](https://zh.wikipedia.org/wiki/ffmpeg2theora "wikilink")
 
 ### 視訊庫
 
   - [GPAC](https://zh.wikipedia.org/wiki/GPAC_Project_on_Advanced_Content "wikilink")
-  - [Media Lovin'
-    Toolkit](https://zh.wikipedia.org/wiki/Media_Lovin'_Toolkit "wikilink")
+  - [Media Lovin' Toolkit](../Page/Media_Lovin'_Toolkit.md "wikilink")
 
 ### 光碟制作
 
@@ -266,7 +266,7 @@ libavcodec含蓋列下的音頻編解碼格式：\[2\]
 
   - [Ekiga](https://zh.wikipedia.org/wiki/Ekiga "wikilink")
   - [QuteCom](https://zh.wikipedia.org/wiki/QuteCom "wikilink")
-  - [Linphone](https://zh.wikipedia.org/wiki/Linphone "wikilink")
+  - [Linphone](../Page/Linphone.md "wikilink")
 
 ### 多媒體流伺服器
 
@@ -276,10 +276,10 @@ libavcodec含蓋列下的音頻編解碼格式：\[2\]
 
 ### 多媒體架構
 
-  - [ffdshow](../Page/ffdshow.md "wikilink")（将 libavcodec 包装为
-    [DirectShow](../Page/DirectShow.md "wikilink")
-    滤镜，并添加后处理工序以增强图像质量；安装后可自动为
-    Windows 上使用 DirectShow 架构的播放器所调用，包括 [Windows Media
+  - [ffdshow](https://zh.wikipedia.org/wiki/ffdshow "wikilink")（将
+    libavcodec 包装为 [DirectShow](../Page/DirectShow.md "wikilink")
+    滤镜，并添加后处理工序以增强图像质量；安装后可自动为 Windows 上使用 DirectShow
+    架构的播放器所调用，包括 [Windows Media
     Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")、[Media
     Player
     Classic](../Page/Media_Player_Classic.md "wikilink")、[Winamp](../Page/Winamp.md "wikilink")

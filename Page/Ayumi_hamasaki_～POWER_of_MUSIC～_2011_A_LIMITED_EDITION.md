@@ -22,10 +22,10 @@ Queen』SPECIAL LIMITED BOX限定發售（詳情見[Party Queen
 
 ## 曲目1
 
-1.  [forgiveness](../Page/forgiveness.md "wikilink")
+1.  [forgiveness](https://zh.wikipedia.org/wiki/forgiveness "wikilink")
 2.  [progress](../Page/FIVE_\(濱崎步專輯\).md "wikilink")
 3.  [M](../Page/M_\(濱崎步單曲\).md "wikilink")
-4.  [decision](../Page/talkin'_2_myself.md "wikilink")
+4.  [decision](https://zh.wikipedia.org/wiki/talkin'_2_myself "wikilink")
 5.  [Catcher In The Light](../Page/MY_STORY.md "wikilink")
 6.  [walking proud](../Page/MY_STORY.md "wikilink")
 7.  [part of Me](../Page/A_BEST_2.md "wikilink")
@@ -36,18 +36,19 @@ Queen』SPECIAL LIMITED BOX限定發售（詳情見[Party Queen
 12. [ANother song feat. URATA
     NAOYA](../Page/FIVE_\(濱崎步專輯\).md "wikilink")
 13. [Why... feat. JUNO](../Page/FIVE_\(濱崎步專輯\).md "wikilink")
-14. [vogue](../Page/vogue_\(濱崎步單曲\).md "wikilink") ～ [Far
-    away](../Page/Far_away.md "wikilink") ～
+14. [vogue](https://zh.wikipedia.org/wiki/vogue_\(濱崎步單曲\) "wikilink") ～
+    [Far away](../Page/Far_away.md "wikilink") ～
     [SEASONS](../Page/SEASONS.md "wikilink")
 15. [WONDERLAND](../Page/MY_STORY.md "wikilink")
 16. [Bold &
     Delicious](https://zh.wikipedia.org/wiki/Bold&Delicious/Pride "wikilink")
 17. [Mirrorcle World](../Page/Mirrorcle_World.md "wikilink")
-18. [evolution](../Page/evolution_\(濱崎步單曲\).md "wikilink")
+18. [evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")
 19. [Boys & Girls](../Page/Boys_&_Girls.md "wikilink")
 20. [Born To
     Be...](https://zh.wikipedia.org/wiki/Startin'/Born_To_Be... "wikilink")
-21. [a song is born](../Page/a_song_is_born.md "wikilink")
+21. [a song is
+    born](https://zh.wikipedia.org/wiki/a_song_is_born "wikilink")
 22. [Thank U](../Page/Love_songs_\(濱崎步專輯\).md "wikilink")
 
 ## 曲目2

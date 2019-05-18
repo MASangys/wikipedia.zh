@@ -2,7 +2,7 @@
 8平台的](../Page/Windows_Phone_8.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，2012年9月5日上市。它拥有一颗1.5GHz的双核Qualcomm
 [Snapdragon S4
 MSM8960处理器](https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_S4 "wikilink")，支持[GSM](../Page/GSM.md "wikilink")、[WCDMA和](https://zh.wikipedia.org/wiki/WCDMA "wikilink")[LTE网络](https://zh.wikipedia.org/wiki/LTE "wikilink")，搭载一块使用[AMOLED和](../Page/AMOLED.md "wikilink")[ClearBlack技术的](https://zh.wikipedia.org/wiki/ClearBlack "wikilink")4.3寸电容式触摸屏以及一颗800万像素的[蔡司镜头以及双LED闪光灯](../Page/蔡司公司.md "wikilink")。Lumia
-820并未内建[Qi无线充电模组](https://zh.wikipedia.org/wiki/Qi_\(無線充電標準\) "wikilink")。需要另配支持Qi无线充电的外壳方可无线充电。
+820并未内建[Qi无线充电模组](../Page/Qi_\(無線充電標準\).md "wikilink")。需要另配支持Qi无线充电的外壳方可无线充电。
 
 ## 參考資料
 

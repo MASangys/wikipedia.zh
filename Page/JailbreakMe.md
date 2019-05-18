@@ -1,10 +1,10 @@
-**JailbreakMe**是一个[iOS](../Page/iOS.md "wikilink")[越狱工具](https://zh.wikipedia.org/wiki/iOS越獄 "wikilink")，由越狱开发者comex维护并开发\[1\]。JailbreakMe利用了[iOS版](../Page/iOS.md "wikilink")[Safari的漏洞使浏览器崩溃来达到越狱的目的](../Page/Safari.md "wikilink")，如JailbreakMe
+**JailbreakMe**是一个[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[越狱工具](https://zh.wikipedia.org/wiki/iOS越獄 "wikilink")，由越狱开发者comex维护并开发\[1\]。JailbreakMe利用了[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")[Safari的漏洞使浏览器崩溃来达到越狱的目的](../Page/Safari.md "wikilink")，如JailbreakMe
 3.0就利用了Safari显示[PDF文稿时的一个漏洞](https://zh.wikipedia.org/wiki/PDF "wikilink")。\[2\]
 不同于
-、[redsn0w](../Page/redsn0w.md "wikilink")、[Absinthe](https://zh.wikipedia.org/wiki/Absinthe "wikilink")等其他越狱工具，使用JailbreakMe越狱时不需要连接至一台Mac或PC。在使得Safari崩溃后，会自动添加[Cydia到桌面](../Page/Cydia.md "wikilink")。首次运行Cydia后，就可以完成越狱了。JailbreakMe所有版本均为完美越狱，即不需要引导启动。越狱时仅需打开Safari浏览器，登入[jailbreakme.com](http://www.jailbreakme.com)即可。
+、[redsn0w](https://zh.wikipedia.org/wiki/redsn0w "wikilink")、[Absinthe](https://zh.wikipedia.org/wiki/Absinthe "wikilink")等其他越狱工具，使用JailbreakMe越狱时不需要连接至一台Mac或PC。在使得Safari崩溃后，会自动添加[Cydia到桌面](../Page/Cydia.md "wikilink")。首次运行Cydia后，就可以完成越狱了。JailbreakMe所有版本均为完美越狱，即不需要引导启动。越狱时仅需打开Safari浏览器，登入[jailbreakme.com](http://www.jailbreakme.com)即可。
 [JailbreakMe_3.0.png](https://zh.wikipedia.org/wiki/File:JailbreakMe_3.0.png "fig:JailbreakMe_3.0.png")
-JailbreakMe的第一个版本是在2007年用于越狱基于1.1.1固件的第一代[iPhone和](../Page/iPhone.md "wikilink")[iPod
-touch的](../Page/iPod_touch.md "wikilink")。JailbreakMe的第二个版本出现于2010年8月用于基于4.0.1或更早版本的越狱。JailbreakMe的第三个版本发布于2011年7月，用以越狱4.3到4.3.3固件。已经至少有两百万的设备通过JailbreakMe
+JailbreakMe的第一个版本是在2007年用于越狱基于1.1.1固件的第一代[iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPod
+touch的](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。JailbreakMe的第二个版本出现于2010年8月用于基于4.0.1或更早版本的越狱。JailbreakMe的第三个版本发布于2011年7月，用以越狱4.3到4.3.3固件。已经至少有两百万的设备通过JailbreakMe
 3.0越狱\[3\] 。但是随着comex被苹果招安，他也宣布了不再从事越狱开发。但是JailbreakMe依然会提供越狱服务\[4\]。
 
 ## 版本
@@ -12,7 +12,7 @@ touch的](../Page/iPod_touch.md "wikilink")。JailbreakMe的第二个版本出�
 ### JailbreakMe 1.0
 
 1.0的JailbreakMe开始于2007年，提供用于1.1.1固件的第一代iPhone和iPod
-touch越狱，它利用了一个Safari的[tiff漏洞来安装](../Page/tiff.md "wikilink")[installer.app](../Page/installer.app.md "wikilink")\[5\]。苹果通过1.1.2固件修复了这个漏洞。
+touch越狱，它利用了一个Safari的[tiff漏洞来安装](https://zh.wikipedia.org/wiki/tiff "wikilink")[installer.app](https://zh.wikipedia.org/wiki/installer.app "wikilink")\[5\]。苹果通过1.1.2固件修复了这个漏洞。
 
 ### JailbreakMe 2.0 Star
 
@@ -33,7 +33,7 @@ JailbreakMe 3.0于2011年7月6日发布。适用于iOS 4.3-4.3.3的所有iOS设�
 
 ## 被苹果招安后的JailbreakMe
 
-comex在2011年8月被苹果以实习生身份聘用，他在[twitter上宣称以后不再从事越狱活动](../Page/twitter.md "wikilink")\[12\]。但是JailbreakMe依然会提供越狱服务，但是不会提供新版本的iOS的越狱服务。
+comex在2011年8月被苹果以实习生身份聘用，他在[twitter上宣称以后不再从事越狱活动](https://zh.wikipedia.org/wiki/twitter "wikilink")\[12\]。但是JailbreakMe依然会提供越狱服务，但是不会提供新版本的iOS的越狱服务。
 
 ## 支持设备
 
@@ -51,25 +51,25 @@ comex在2011年8月被苹果以实习生身份聘用，他在[twitter上宣称�
 <td><p>3.1.2 到 3.1.3</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_3G.md" title="wikilink">iPhone 3G</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_3G" title="wikilink">iPhone 3G</a></p></td>
 <td><p>3.1.2 到 4.0.1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPhone_3GS.md" title="wikilink">iPhone 3GS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_3GS" title="wikilink">iPhone 3GS</a></p></td>
 <td><p>3.1.2 到 4.0.1, 4.3 到 4.3.3</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_4.md" title="wikilink">iPhone 4</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_4" title="wikilink">iPhone 4</a><br />
 <small><a href="../Page/GSM.md" title="wikilink">GSM版本</a></small></p></td>
 <td><p>4.0 到 4.0.1, 4.3 到 4.3.3</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPhone_4.md" title="wikilink">iPhone 4</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_4" title="wikilink">iPhone 4</a><br />
 <small><a href="https://zh.wikipedia.org/wiki/CDMA" title="wikilink">CDMA版本</a></small></p></td>
 <td><p>4.2.6 到 4.2.8</p></td>
 </tr>
 <tr class="even">
-<td><p>第一代<a href="../Page/iPod_Touch.md" title="wikilink">iPod Touch</a></p></td>
+<td><p>第一代<a href="https://zh.wikipedia.org/wiki/iPod_Touch" title="wikilink">iPod Touch</a></p></td>
 <td><p>3.1.2 到 3.1.3</p></td>
 </tr>
 <tr class="odd">
@@ -101,7 +101,7 @@ comex在2011年8月被苹果以实习生身份聘用，他在[twitter上宣称�
 <td><p>3.2 到 3.2.1, 4.3 到 4.3.3</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPad_2.md" title="wikilink">iPad 2</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_2" title="wikilink">iPad 2</a><br />
 <small>Wi-Fi 版本</small></p></td>
 <td><p>4.3.3 </p></td>
 </tr>

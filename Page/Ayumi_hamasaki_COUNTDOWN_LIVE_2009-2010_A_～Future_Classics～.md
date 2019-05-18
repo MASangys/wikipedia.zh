@@ -27,7 +27,7 @@
 11. [1 LOVE](../Page/Secret_\(濱崎步專輯\).md "wikilink")
 12. [until that Day...](../Page/Secret_\(濱崎步專輯\).md "wikilink")
 13. [Humming 7/4](../Page/MY_STORY.md "wikilink")
-14. [evolution](../Page/evolution_\(濱崎步單曲\).md "wikilink")
+14. [evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")
 15. [Startin'](https://zh.wikipedia.org/wiki/Startin'/Born_To_Be... "wikilink")
 
 ### Disc2

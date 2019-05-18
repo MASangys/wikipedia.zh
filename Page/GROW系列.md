@@ -24,7 +24,7 @@
 
 儘管遊戲簡單，但《GROW》系列收到的評論基本上都是正面的。\[15\]《[PC
 Gamer](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")》的賈茲·麥克杜格爾指出遊戲簡單的卡通視覺效果為玩家們產生了一個超現實的遊戲體驗
-，並建議系列中部份較複雜的遊戲可以設置[多人模式](https://zh.wikipedia.org/wiki/多人遊戲 "wikilink")。\[16\][岩石、紙、獵槍的亞歷克](https://zh.wikipedia.org/wiki/岩石、紙、獵槍 "wikilink")·米爾把此遊戲系列描述為「可愛的」和「夢一般的」\[17\]，而《[衛報](../Page/衛報.md "wikilink")》的納奧米·阿爾德曼則把它描述為「迷人的」、「異想天開的」、以及「兒童友好的」。\[18\]Indiegames.com的邁克爾·羅斯指出《GROW》系列遊戲讓玩家「感覺一切都很好」，並把遊戲體驗描述為「在博物館的展覽內按下按鈕……以觀賞世界的發展」。\[19\][GameSetWatch的埃里克](https://zh.wikipedia.org/wiki/GameSetWatch "wikilink")·沙威利則稱讚On在遊戲中利用幽默鼓勵正在摸索的玩家。\[20\]On有規律性地上載《GROW》系列遊戲亦吸引不同的評論家，如《[纽约时报](../Page/纽约时报.md "wikilink")》的查爾斯·赫羅爾德、\[21\]遊戲開發者[戴文·葛羅斯曼](https://zh.wikipedia.org/wiki/戴文·葛羅斯曼 "wikilink")\[22\]、以及遊戲開發商[Spry
+，並建議系列中部份較複雜的遊戲可以設置[多人模式](https://zh.wikipedia.org/wiki/多人遊戲 "wikilink")。\[16\][岩石、紙、獵槍的亞歷克](https://zh.wikipedia.org/wiki/岩石、紙、獵槍 "wikilink")·米爾把此遊戲系列描述為「可愛的」和「夢一般的」\[17\]，而《[衛報](../Page/衛報.md "wikilink")》的納奧米·阿爾德曼則把它描述為「迷人的」、「異想天開的」、以及「兒童友好的」。\[18\]Indiegames.com的邁克爾·羅斯指出《GROW》系列遊戲讓玩家「感覺一切都很好」，並把遊戲體驗描述為「在博物館的展覽內按下按鈕……以觀賞世界的發展」。\[19\][GameSetWatch的埃里克](https://zh.wikipedia.org/wiki/GameSetWatch "wikilink")·沙威利則稱讚On在遊戲中利用幽默鼓勵正在摸索的玩家。\[20\]On有規律性地上載《GROW》系列遊戲亦吸引不同的評論家，如《[纽约时报](../Page/纽约时报.md "wikilink")》的查爾斯·赫羅爾德、\[21\]遊戲開發者[戴文·葛羅斯曼](../Page/戴文·葛羅斯曼.md "wikilink")\[22\]、以及遊戲開發商[Spry
 Fox](https://zh.wikipedia.org/wiki/Spry_Fox "wikilink")。\[23\]
 
 另一方面，《GROW》系列獲得的負面評論則主要批評系列中所有遊戲過於公式化，每個遊戲的差別不大。但是，他們亦承認《GROW

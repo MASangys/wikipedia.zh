@@ -12,7 +12,7 @@
 
 ## 另见
 
-  - [亚洲同性结合状态](https://zh.wikipedia.org/wiki/亚洲同性结合状态 "wikilink")
+  - [亚洲同性结合状态](../Page/亚洲同性结合状态.md "wikilink")
   - [各地LGBT权利](https://zh.wikipedia.org/wiki/各地LGBT权利 "wikilink")
   - [歐洲LGBT权益](https://zh.wikipedia.org/wiki/歐洲LGBT权益 "wikilink")
   - [美洲LGBT权益](https://zh.wikipedia.org/wiki/美洲LGBT权益 "wikilink")

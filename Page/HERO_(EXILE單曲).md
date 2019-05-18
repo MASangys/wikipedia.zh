@@ -9,7 +9,7 @@
   - ATSUSHI說，「到目前為止自己想表現得比人更好而勉強放入假聲，於是自己1人在角力。但是這首歌打算是抱著以EXILE的真正魅力來取勝的心情，全部沒放入多餘的即興表演和假聲。以歌詞和歌聲決勝負。這是與作EXILE的我自己的1個回答」。
   - PV攝影是於[洛杉磯進行](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。
   - 26th單人《[I
-    Believe](https://zh.wikipedia.org/wiki/I_Believe_\(EXILE單曲\) "wikilink")》，及精選專輯《[EXILE
+    Believe](../Page/I_Believe_\(EXILE單曲\).md "wikilink")》，及精選專輯《[EXILE
     CATCHY BEST](../Page/EXILE_CATCHY_BEST.md "wikilink")》以ATSUSHI,
     TAKAHIRO再次錄音的版本被收錄。
 

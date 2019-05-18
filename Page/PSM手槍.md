@@ -72,7 +72,7 @@ PSM手槍原先是打算提供給[蘇聯軍隊中的高階軍官作自衛之用]
   - [PB消音手槍](../Page/PB消音手槍.md "wikilink")
   - [PSS消音手槍](../Page/PSS消音手槍.md "wikilink")
   - [瓦爾特PP手槍](../Page/瓦爾特PP手槍.md "wikilink")
-  - [SIG P230手槍](https://zh.wikipedia.org/wiki/SIG_P230手槍 "wikilink")
+  - [SIG P230手槍](../Page/SIG_P230手槍.md "wikilink")
   - [64式手槍](https://zh.wikipedia.org/wiki/64式手槍 "wikilink")
 
 ## 參考文獻

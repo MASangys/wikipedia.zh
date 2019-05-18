@@ -1,4 +1,4 @@
-**Hemiperfect數**（）是指一[正整數的](https://zh.wikipedia.org/wiki/正整數 "wikilink")[過剩指數為奇數](https://zh.wikipedia.org/wiki/過剩指數 "wikilink")[除以2](https://zh.wikipedia.org/wiki/除以二 "wikilink")，過剩指數（abundancy
+**Hemiperfect數**（）是指一[正整數的](https://zh.wikipedia.org/wiki/正整數 "wikilink")[過剩指數為奇數](https://zh.wikipedia.org/wiki/過剩指數 "wikilink")[除以2](../Page/除以二.md "wikilink")，過剩指數（abundancy
 index）就是[除數函數](../Page/除數函數.md "wikilink")（包括本身的所有正因數和）除以正整數後的結果。
 
 針對一大於2的[奇數](https://zh.wikipedia.org/wiki/奇數 "wikilink")

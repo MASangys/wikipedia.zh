@@ -158,9 +158,9 @@ JR東日本共打造了4種不同編組的5列新車，投入三個不同地區�
 </tbody>
 </table>
 
-第一列投入營運的HB-E300，是配合2010年10月的[信州地方旅遊活動](https://zh.wikipedia.org/wiki/地方旅遊活動 "wikilink")「到未知的地方走走，[信州](https://zh.wikipedia.org/wiki/信州 "wikilink")」（）而於10月2日起投入[信越本線](../Page/信越本線.md "wikilink")、[篠之井線與大糸線上行駛](https://zh.wikipedia.org/wiki/篠之井線 "wikilink")，成為往返於[長野](https://zh.wikipedia.org/wiki/長野車站 "wikilink")、[松本與](../Page/松本車站.md "wikilink")[南小谷等車站之間的臨時快速列車](https://zh.wikipedia.org/wiki/南小谷車站 "wikilink")「ResortView故鄉號」（）。在地方旅遊活動舉行期間為每日發車的ResortView故鄉號，在活動期間結束後自2011年1月起恢復週六與假日才行駛的觀光列車型態。
+第一列投入營運的HB-E300，是配合2010年10月的[信州地方旅遊活動](https://zh.wikipedia.org/wiki/地方旅遊活動 "wikilink")「到未知的地方走走，[信州](https://zh.wikipedia.org/wiki/信州 "wikilink")」（）而於10月2日起投入[信越本線](../Page/信越本線.md "wikilink")、[篠之井線與大糸線上行駛](../Page/篠之井線.md "wikilink")，成為往返於[長野](https://zh.wikipedia.org/wiki/長野車站 "wikilink")、[松本與](../Page/松本車站.md "wikilink")[南小谷等車站之間的臨時快速列車](https://zh.wikipedia.org/wiki/南小谷車站 "wikilink")「ResortView故鄉號」（）。在地方旅遊活動舉行期間為每日發車的ResortView故鄉號，在活動期間結束後自2011年1月起恢復週六與假日才行駛的觀光列車型態。
 
-2010年12月4日[東北新幹線延長路線至](../Page/東北新幹線.md "wikilink")[新青森](https://zh.wikipedia.org/wiki/新青森車站 "wikilink")，伴隨新路段的營運JR東日本進行大幅度的時刻表變動，使用HB-E300的「Resort翌檜號」（）與「Resort白神號」（）青池編組也分別投入營運。其中Resort翌檜主要是行駛於津輕線與大湊線上，而Resort白神號則是行駛於五能線與[青森鐵道線](https://zh.wikipedia.org/wiki/青森鐵道線 "wikilink")（）上。
+2010年12月4日[東北新幹線延長路線至](../Page/東北新幹線.md "wikilink")[新青森](https://zh.wikipedia.org/wiki/新青森車站 "wikilink")，伴隨新路段的營運JR東日本進行大幅度的時刻表變動，使用HB-E300的「Resort翌檜號」（）與「Resort白神號」（）青池編組也分別投入營運。其中Resort翌檜主要是行駛於津輕線與大湊線上，而Resort白神號則是行駛於五能線與[青森鐵道線](../Page/青森鐵道線.md "wikilink")（）上。
 
 ## 註釋
 

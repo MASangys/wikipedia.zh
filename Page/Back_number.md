@@ -152,7 +152,7 @@ number」，變成沒用的東西。\[1\]
 <tr class="even">
 <td><p>14th</p></td>
 <td><p>2015年11月18日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Christmas_Song_(back_number單曲)" title="wikilink">Christmas Song</a></strong></p></td>
+<td><p><strong><a href="../Page/Christmas_Song_(back_number單曲).md" title="wikilink">Christmas Song</a></strong></p></td>
 <td><p>2</p></td>
 <td></td>
 </tr>
@@ -345,7 +345,7 @@ number」，變成沒用的東西。\[1\]
 </tr>
 <tr class="even">
 <td><p><strong>瞬き</strong></p></td>
-<td><p>電影《<a href="https://zh.wikipedia.org/wiki/跨越8年的新娘" title="wikilink">跨越8年的新娘</a>》主題曲</p></td>
+<td><p>電影《<a href="../Page/跨越8年的新娘.md" title="wikilink">跨越8年的新娘</a>》主題曲</p></td>
 </tr>
 <tr class="odd">
 <td></td>

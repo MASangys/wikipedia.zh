@@ -35,12 +35,12 @@ Super131出道前以足迹計劃‘給我十分鐘，你將會改變’的口號
 | **[巴飛](https://zh.wikipedia.org/wiki/李祐誠 "wikilink")** |
 | **[黎開](https://zh.wikipedia.org/wiki/黎勝柏 "wikilink")** |
 | **[子浩](https://zh.wikipedia.org/wiki/吳子浩 "wikilink")** |
-| **[子豪](https://zh.wikipedia.org/wiki/柯家豪 "wikilink")** |
+| **[子豪](../Page/柯家豪.md "wikilink")**                    |
 |                                                        |
 
 **離開成員**
 
-  - 吳宗翰<small>（[吳東諺](https://zh.wikipedia.org/wiki/吳東諺 "wikilink")）</small>，生日是，因腳傷於出道前退團，现为Yellow
+  - 吳宗翰<small>（[吳東諺](../Page/吳東諺.md "wikilink")）</small>，生日是，因腳傷於出道前退團，现为Yellow
     skin乐队主唱，并且已经在台湾开小型售票演唱会。
 
 參演民視[我的老師叫小賀](https://zh.wikipedia.org/wiki/我的老師叫小賀 "wikilink")，並於民視尾牙表演讓自己受傷退團的空翻，成功克服恐懼。

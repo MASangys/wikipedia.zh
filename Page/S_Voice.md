@@ -2,7 +2,7 @@
 Voice**是一个[智慧型個人助理及](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")，为一个内置的且仅可运行于[三星Galaxy系列中的应用](https://zh.wikipedia.org/wiki/三星Galaxy系列 "wikilink")。该应用程序使用，通过委派一组[Web服务请求](../Page/Web服务.md "wikilink")，可回答问题，提出建议，执行行动，回答簡單問題，甚至可以在鎖定螢幕中使用捷徑。\[1\]\[2\]此应用基于智能语音助手。\[3\]
 
 Galaxy S5及之后的三星Android设备中，S
-Voice使用[Nuance代替Vlingo](https://zh.wikipedia.org/wiki/Nuance_Communications "wikilink")。
+Voice使用[Nuance代替Vlingo](../Page/Nuance_Communications.md "wikilink")。
 
 S
 Voice在进行部分操作时具有语音功能，包括用户提问，打开应用程序，设置提醒，更新社交网站（如[Facebook或](../Page/Facebook.md "wikilink")[Twitter](../Page/Twitter.md "wikilink")）以及导航。S
@@ -14,11 +14,11 @@ Voice还提供高效的多任务处理以及部分情况下自动激活功能，
 
 ## 参见
 
-  - [Bixby](https://zh.wikipedia.org/wiki/Bixby "wikilink")
+  - [Bixby](../Page/Bixby.md "wikilink")
   - [Google即时](../Page/Google即时.md "wikilink")
   - [Siri](../Page/Siri.md "wikilink")
   - [Tellme](https://zh.wikipedia.org/wiki/Tellme "wikilink")
-  - [科大讯飞](https://zh.wikipedia.org/wiki/科大讯飞 "wikilink")
+  - [科大讯飞](../Page/科大讯飞.md "wikilink")
   - [hidi](https://zh.wikipedia.org/wiki/hidi "wikilink")
 
 ## 参考资料

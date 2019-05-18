@@ -6,7 +6,7 @@ iReport等](https://zh.wikipedia.org/wiki/CNN_iReport "wikilink")\[1\]。
 「PeoPo」是英文「people
 post」的[縮寫](../Page/縮寫.md "wikilink")，強調每個人都有發聲權利，落實公民近用（）媒體權；也取[台語](https://zh.wikipedia.org/wiki/閩南語 "wikilink")「撇步」（[絕招](https://zh.wikipedia.org/wiki/絕招 "wikilink")）的諧音，希望公民、閱聽大眾能夠分享自己的專業領域與知識，強化[草根媒體](https://zh.wikipedia.org/wiki/草根媒體 "wikilink")。PeoPo自我定位為一個跨越網路與電視的平台\[2\]。
 
-2016年6月9日，針對PeoPo公民記者[洪素珠](https://zh.wikipedia.org/wiki/洪素珠 "wikilink")（[筆名](../Page/筆名.md "wikilink")「素素」）[辱罵外省老兵事件](../Page/洪素珠事件.md "wikilink")，PeoPo召集人[余至理說](https://zh.wikipedia.org/wiki/余至理 "wikilink")，PeoPo類似[facebook或](../Page/facebook.md "wikilink")[YouTube](../Page/YouTube.md "wikilink")，任何人申請帳號都可以在PeoPo發布報導，台灣公視與公民記者之間沒有從屬關係，公民記者上傳內容必須自負責任；而且台灣公視要求PeoPo公民記者不能自印[名片](../Page/名片.md "wikilink")，PeoPo也沒有發給公民記者名片\[3\]。2016年6月10日，台灣公視發布[新聞稿表示](../Page/新聞稿.md "wikilink")，為維護PeoPo的公正性與榮譽，PeoPo實施[實名制](https://zh.wikipedia.org/wiki/實名制 "wikilink")，公民記者必須同意遵守《公民新聞平台使用規範》與《公民記者自律公約》；PeoPo不會對公民記者報導內容做事前審查，但會密切關注各報導的內容是否違反上列規範與公約；公民記者有權檢舉違規報導，PeoPo有權刪除違規報導\[4\]。
+2016年6月9日，針對PeoPo公民記者[洪素珠](https://zh.wikipedia.org/wiki/洪素珠 "wikilink")（[筆名](../Page/筆名.md "wikilink")「素素」）[辱罵外省老兵事件](../Page/洪素珠事件.md "wikilink")，PeoPo召集人[余至理說](https://zh.wikipedia.org/wiki/余至理 "wikilink")，PeoPo類似[facebook或](https://zh.wikipedia.org/wiki/facebook "wikilink")[YouTube](../Page/YouTube.md "wikilink")，任何人申請帳號都可以在PeoPo發布報導，台灣公視與公民記者之間沒有從屬關係，公民記者上傳內容必須自負責任；而且台灣公視要求PeoPo公民記者不能自印[名片](../Page/名片.md "wikilink")，PeoPo也沒有發給公民記者名片\[3\]。2016年6月10日，台灣公視發布[新聞稿表示](../Page/新聞稿.md "wikilink")，為維護PeoPo的公正性與榮譽，PeoPo實施[實名制](https://zh.wikipedia.org/wiki/實名制 "wikilink")，公民記者必須同意遵守《公民新聞平台使用規範》與《公民記者自律公約》；PeoPo不會對公民記者報導內容做事前審查，但會密切關注各報導的內容是否違反上列規範與公約；公民記者有權檢舉違規報導，PeoPo有權刪除違規報導\[4\]。
 
 ## 組織
 
@@ -19,7 +19,7 @@ PeoPo主要架構分為台灣北、中、南、東四大區，在台灣十所大
   - 官方新聞通路
 
 無線電視包括[公共電視台](https://zh.wikipedia.org/wiki/公共電視台 "wikilink")、[原住民族電視台](https://zh.wikipedia.org/wiki/原住民族電視台 "wikilink")；網路[新媒體](../Page/新媒體.md "wikilink")、PeoPo
-Webcast、[iTunes](../Page/iTunes.md "wikilink")
+Webcast、[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")
 Podcasting。2009年4月27日，選輯PeoPo新聞影片而成的公民新聞節目《PeoPo公民新聞報》在[公視主頻與](../Page/公視主頻.md "wikilink")[公視2台開播](../Page/公視2台.md "wikilink")。
 
 ## 關注議題

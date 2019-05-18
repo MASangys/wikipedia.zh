@@ -1,7 +1,7 @@
 "**Mein
 Land**"（德译：我的国土）是[Rammstein的一首单曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")，后收录于精选集[Made
 in Germany
-1995–2011](https://zh.wikipedia.org/wiki/Made_in_Germany_1995–2011 "wikilink")。2011年11月11日在德国、奥地利、瑞士发布，11月14日在全球范围内发布。\[1\]
+1995–2011](../Page/Made_in_Germany_1995–2011.md "wikilink")。2011年11月11日在德国、奥地利、瑞士发布，11月14日在全球范围内发布。\[1\]
 
 封面设计参照了[海滩男孩的专辑](https://zh.wikipedia.org/wiki/海滩男孩 "wikilink")。
 

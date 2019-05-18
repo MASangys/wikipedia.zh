@@ -1,5 +1,5 @@
 《**TANK-TOP
-FIGHTER**》（日文：）（中文：**無袖戰士**）或譯（**背心戰士**）是[日本](../Page/日本.md "wikilink")[TBS電視台及](../Page/TBS電視台.md "wikilink")[MBS電視台於日本](https://zh.wikipedia.org/wiki/MBS电视台 "wikilink")[2013年4月開始播放的](https://zh.wikipedia.org/wiki/2013年4月 "wikilink")，主角是由歌手兼演員之[小野惠令奈所飾演的西木果衣](../Page/小野惠令奈.md "wikilink")。編劇為山岡潤平及守口悠介等人。
+FIGHTER**》（日文：）（中文：**無袖戰士**）或譯（**背心戰士**）是[日本](../Page/日本.md "wikilink")[TBS電視台及](../Page/TBS電視台.md "wikilink")[MBS電視台於日本](../Page/MBS电视台.md "wikilink")[2013年4月開始播放的](../Page/2013年4月.md "wikilink")，主角是由歌手兼演員之[小野惠令奈所飾演的西木果衣](../Page/小野惠令奈.md "wikilink")。編劇為山岡潤平及守口悠介等人。
 
 [廣告標語為](../Page/廣告標語.md "wikilink")「戦わなければ、私じゃない」（意為：不戰鬥的話，就不是我）
 
@@ -12,7 +12,7 @@ FIGHTER**》（日文：）（中文：**無袖戰士**）或譯（**背心戰�
   - 4月18日本劇之宣傳節目\[タンクトップファイター～スタート直前ＳＰ美女祭～\]於MBS電視台及TBS電視台播出。
   - 4月19日,本劇之發報會於東京舉行。
   - 4月19日,由劇中友情出演的[川島海荷所屬之女子團隊](../Page/川島海荷.md "wikilink")([9nine](../Page/9nine.md "wikilink"))主唱之劇中片頭曲《[Evolution
-    No.9](https://zh.wikipedia.org/wiki/Evolution_No.9 "wikilink")》會於6月12日發售。
+    No.9](../Page/Evolution_No.9.md "wikilink")》會於6月12日發售。
   - 6月18日,本劇DVD之會於9月6日發售。
 
 ## 劇情簡介

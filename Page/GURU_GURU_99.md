@@ -27,11 +27,11 @@
   - [中島健人](../Page/中島健人.md "wikilink")（[Sexy
     Zone](../Page/Sexy_Zone.md "wikilink")）
       - 冤大頭19新成員。
-  - [田中圭](https://zh.wikipedia.org/wiki/田中圭 "wikilink")
+  - [田中圭](../Page/田中圭.md "wikilink")
       - 冤大頭19新成員。冤大頭19後半戰加入（9月13日），承接大杉漣累積的金額參賽。
-  - 阿信（[千鳥](https://zh.wikipedia.org/wiki/千鳥_\(搞笑組合\) "wikilink")）
+  - 阿信（[千鳥](../Page/千鳥_\(搞笑組合\).md "wikilink")）
       - 冤大頭20新成員。
-  - [土屋太鳳](https://zh.wikipedia.org/wiki/土屋太鳳 "wikilink")
+  - [土屋太鳳](../Page/土屋太鳳.md "wikilink")
       - 冤大頭20新成員。
 
 ##### 固定班底以外的出演者
@@ -71,13 +71,13 @@
       - 參加冤大頭15。
   - [柳葉敏郎](../Page/柳葉敏郎.md "wikilink")
       - 參加冤大頭16—17。
-  - [二階堂富美](https://zh.wikipedia.org/wiki/二階堂富美 "wikilink")
+  - [二階堂富美](../Page/二階堂富美.md "wikilink")
       - 參加冤大頭17—18。
   - [渡邊直美](../Page/渡邊直美.md "wikilink")
       - 參加冤大頭18—19。
-  - [大杉漣](https://zh.wikipedia.org/wiki/大杉漣 "wikilink")
+  - [大杉漣](../Page/大杉漣.md "wikilink")
       - 參加冤大頭18—19。擔任固定班底期間於2018年2月21日突然病逝。
-  - [橋本環奈](https://zh.wikipedia.org/wiki/橋本環奈 "wikilink")
+  - [橋本環奈](../Page/橋本環奈.md "wikilink")
       - 參加冤大頭19。
 
 #### 「冤大頭」以外環節的固定出演者
@@ -111,9 +111,9 @@
 
   - [田代政](../Page/田代政.md "wikilink")
 
-  - [柳原可奈子](https://zh.wikipedia.org/wiki/柳原可奈子 "wikilink")
+  - [柳原可奈子](../Page/柳原可奈子.md "wikilink")
 
-  - [尹孫河](https://zh.wikipedia.org/wiki/尹孫河 "wikilink")
+  - [尹孫河](../Page/尹孫河.md "wikilink")
 
   - [藏野孝洋](https://zh.wikipedia.org/wiki/藏野孝洋 "wikilink")（[130R](https://zh.wikipedia.org/wiki/130R "wikilink")）
 
@@ -125,7 +125,7 @@
 
   - [森口博子](../Page/森口博子.md "wikilink")
 
-  - [螢原徹](https://zh.wikipedia.org/wiki/螢原徹 "wikilink")（[雨後敢死隊](https://zh.wikipedia.org/wiki/雨後敢死隊 "wikilink")）
+  - [螢原徹](../Page/螢原徹.md "wikilink")（[雨後敢死隊](https://zh.wikipedia.org/wiki/雨後敢死隊 "wikilink")）
 
   - [Michael富岡](https://zh.wikipedia.org/wiki/Michael富岡 "wikilink")
 

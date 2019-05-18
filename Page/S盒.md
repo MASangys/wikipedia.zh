@@ -1,4 +1,4 @@
-在[密码学中](../Page/密码学.md "wikilink")，一个**S盒**（**S**ubstitution-**box**，**替换盒**）是[對稱密鑰加密算法执行替换计算的基本结构](https://zh.wikipedia.org/wiki/對稱密鑰加密 "wikilink")。在[块密码中](https://zh.wikipedia.org/wiki/块密码 "wikilink")，它们通常用于模糊密钥与[密文之间的关系](https://zh.wikipedia.org/wiki/密文 "wikilink")——[香农的](../Page/克劳德·香农.md "wikilink")[混淆理论](https://zh.wikipedia.org/wiki/混淆与扩散 "wikilink")\[1\]。
+在[密码学中](../Page/密码学.md "wikilink")，一个**S盒**（**S**ubstitution-**box**，**替换盒**）是[對稱密鑰加密算法执行替换计算的基本结构](../Page/對稱密鑰加密.md "wikilink")。在[块密码中](https://zh.wikipedia.org/wiki/块密码 "wikilink")，它们通常用于模糊密钥与[密文之间的关系](https://zh.wikipedia.org/wiki/密文 "wikilink")——[香农的](../Page/克劳德·香农.md "wikilink")[混淆理论](https://zh.wikipedia.org/wiki/混淆与扩散 "wikilink")\[1\]。
 
 通常，S-Box接受特定数量的输入比特*m*，并将其转换为特定数量的输出比特*n*，其中*n*
 不一定等于*m*\[2\]。一个*m*×*n*的S盒可以通过包含2<sup>*m*</sup>条目，每条目*n*比特的[查找表实现](../Page/查找表.md "wikilink")。S盒通常是固定的（例如[DES和](https://zh.wikipedia.org/wiki/DES "wikilink")[AES加密算法](../Page/高级加密标准.md "wikilink")）,

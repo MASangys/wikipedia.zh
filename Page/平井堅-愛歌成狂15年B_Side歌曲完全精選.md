@@ -110,7 +110,7 @@
       - Words: Taku Tada・Ken Hirai 、Music: Masahito Nakano・Ken
         Hirai、Remixed by Stephane K
 8.  **[POP STAR × fake star（MASH UP
-    version）](../Page/fake_star.md "wikilink")**
+    version）](https://zh.wikipedia.org/wiki/fake_star "wikilink")**
       - Words・Music: Ken Hirai、Remixed by metalmouse
 9.  **[Come Back 〜FILUR Deep Down & Low
     Remix〜](../Page/生命之歌～另一章～.md "wikilink")**

@@ -9,7 +9,7 @@
   - 重量：18.7噸
   - 最快速度：72公里/小時
   - 續航距離：600公里
-  - 主武裝：100毫米口徑2A70線膛炮+[AT-10反坦克飛彈](https://zh.wikipedia.org/wiki/9K116指節套環反坦克導彈 "wikilink")+30毫米口徑[2A72機炮](https://zh.wikipedia.org/wiki/希普諾夫2A72機炮 "wikilink")
+  - 主武裝：100毫米口徑2A70線膛炮+[AT-10反坦克飛彈](../Page/9K116指節套環反坦克導彈.md "wikilink")+30毫米口徑[2A72機炮](https://zh.wikipedia.org/wiki/希普諾夫2A72機炮 "wikilink")
   - 副武裝：7.62毫米口徑PKT同軸機槍X3
   - 發動機：一個500匹馬力UTD-29M水冷式柴油發動機
 
@@ -38,7 +38,7 @@ BMP-3的火力極為強大，炮塔上裝有一門100毫米口徑2A70型線膛�
 <th><p><a href="../Page/M2布雷德利.md" title="wikilink">M2布雷德利</a> </p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/Bionix步兵戰車" title="wikilink">Bionix步兵戰車</a> </p></th>
 <th><p><a href="../Page/89式裝甲戰鬥車.md" title="wikilink">89式裝甲戰鬥車</a> </p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/BMP-3步兵戰車" title="wikilink">BMP-3步兵戰車</a> </p></th>
+<th><p><a href="../Page/BMP-3步兵戰車.md" title="wikilink">BMP-3步兵戰車</a> </p></th>
 <th><p><a href="../Page/T-15步兵戰車.md" title="wikilink">T-15步兵戰車</a> </p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/BMD-4步兵戰車" title="wikilink">BMD-4步兵戰車</a> </p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/NIFV步兵戰車" title="wikilink">NIFV步兵戰車</a> </p></th>
@@ -137,14 +137,14 @@ BMP-3的火力極為強大，炮塔上裝有一門100毫米口徑2A70型線膛�
 <td><p><small>Bionix 25:<a href="https://zh.wikipedia.org/wiki/M242" title="wikilink">M242</a> 25 毫米機炮<br />
 Bionix II:Mk 44巨蝮二式鏈炮<br />
 7.62 mm同轴机枪</small></p></td>
-<td><p><small><a href="https://zh.wikipedia.org/wiki/歐瑞康GDF雙管高射炮" title="wikilink">90口徑35mm機砲KDE</a><br />
+<td><p><small><a href="../Page/歐瑞康GDF雙管高射炮.md" title="wikilink">90口徑35mm機砲KDE</a><br />
 <a href="../Page/79式反載具飛彈.md" title="wikilink">79式反載具飛彈</a><br />
 <a href="../Page/住友74式7.62毫米車載機槍.md" title="wikilink">74式車載7.62mm機槍</a></small></p></td>
-<td><p><small>100毫米口徑<a href="https://zh.wikipedia.org/wiki/2A70線膛炮" title="wikilink">2A70線膛炮</a>（<a href="https://zh.wikipedia.org/wiki/9K116指節套環反坦克導彈" title="wikilink">AT-10反坦克飛彈</a>）<br />
+<td><p><small>100毫米口徑<a href="https://zh.wikipedia.org/wiki/2A70線膛炮" title="wikilink">2A70線膛炮</a>（<a href="../Page/9K116指節套環反坦克導彈.md" title="wikilink">AT-10反坦克飛彈</a>）<br />
 30 mm <a href="https://zh.wikipedia.org/wiki/希普诺夫2A72机炮" title="wikilink">2A72机炮</a></small></p></td>
-<td><p><small><a href="https://zh.wikipedia.org/wiki/希普諾夫2A42機炮" title="wikilink">2A42 30毫米機炮</a><br />
+<td><p><small><a href="../Page/希普諾夫2A42機炮.md" title="wikilink">2A42 30毫米機炮</a><br />
 <a href="../Page/PK通用機槍.md" title="wikilink">PKT 7.62毫米同軸機槍</a><br />
-<a href="https://zh.wikipedia.org/wiki/9M133短號反坦克导弹" title="wikilink">9M133短號反坦克飛彈</a><br />
+<a href="../Page/9M133短號反坦克导弹.md" title="wikilink">9M133短號反坦克飛彈</a><br />
 Afghanit主動防禦系統</small></p></td>
 <td><p><small>2A70型100毫米线膛炮<br />
 <a href="https://zh.wikipedia.org/wiki/希普諾夫2A72機炮" title="wikilink">2A72型</a>30mm 机关炮<br />

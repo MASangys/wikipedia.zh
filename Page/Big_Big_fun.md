@@ -1,5 +1,5 @@
 Big Big fun（前身：TVB
-fun）是由無綫電視推出首個智能手機應用程式，於2011年8月2日正式面世，程式設[iOS和](../Page/iOS.md "wikilink")[Andriod兩個版本](https://zh.wikipedia.org/wiki/Andriod "wikilink")，可供家庭觀眾於指定節目時段內進行互動投票。
+fun）是由無綫電視推出首個智能手機應用程式，於2011年8月2日正式面世，程式設[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Andriod兩個版本](https://zh.wikipedia.org/wiki/Andriod "wikilink")，可供家庭觀眾於指定節目時段內進行互動投票。
 
 ## 歷史
 

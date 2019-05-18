@@ -1,4 +1,4 @@
-**Jin**（，），也被稱為**自然之敵P**（），是[日本](../Page/日本.md "wikilink")[音乐家](https://zh.wikipedia.org/wiki/音乐家 "wikilink")、[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")，主要使用[初音未來和](../Page/初音未來.md "wikilink")[IA等](https://zh.wikipedia.org/wiki/IA_\(VOCALOID\) "wikilink")[VOCALOID軟體來創作歌曲](../Page/VOCALOID.md "wikilink")。
+**Jin**（，），也被稱為**自然之敵P**（），是[日本](../Page/日本.md "wikilink")[音乐家](https://zh.wikipedia.org/wiki/音乐家 "wikilink")、[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")，主要使用[初音未來和](../Page/初音未來.md "wikilink")[IA等](../Page/IA_\(VOCALOID\).md "wikilink")[VOCALOID軟體來創作歌曲](../Page/VOCALOID.md "wikilink")。
 2011年發佈[陽炎計劃第一首歌曲](../Page/陽炎計劃.md "wikilink")，2012年開始發表小說。
 
 ## 簡歷

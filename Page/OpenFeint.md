@@ -1,6 +1,6 @@
 **OpenFeint**（原名**Aurora
-Feint**）\[1\]，是一個在[Android和](../Page/Android.md "wikilink")[iOS平台上的](../Page/iOS.md "wikilink")[手機遊戲運行的](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")[社交網路服務](../Page/社交網路服務.md "wikilink")，主要競爭对手有[Game
-Center](https://zh.wikipedia.org/wiki/Game_Center "wikilink")。使用者可將遊戲進度上傳至平台中，解鎖各個成就，或使用排行榜互相比較成績等。該平台的軟體以[軟體開發套件的形式釋出](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")，開發者可以自行將此功能加入自己開發的遊戲內。\[2\]
+Feint**）\[1\]，是一個在[Android和](../Page/Android.md "wikilink")[iOS平台上的](https://zh.wikipedia.org/wiki/iOS "wikilink")[手機遊戲運行的](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")[社交網路服務](../Page/社交網路服務.md "wikilink")，主要競爭对手有[Game
+Center](../Page/Game_Center.md "wikilink")。使用者可將遊戲進度上傳至平台中，解鎖各個成就，或使用排行榜互相比較成績等。該平台的軟體以[軟體開發套件的形式釋出](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")，開發者可以自行將此功能加入自己開發的遊戲內。\[2\]
 
 OpenFeint於2012年12月14日被整合進[GREE平台中](https://zh.wikipedia.org/wiki/GREE平台 "wikilink")，不再被支援。\[3\]
 
@@ -10,7 +10,7 @@ OpenFeint的開發者Danielle Cassley與Jason Vitron於2008年成立Aurora
 Feint公司，並聯合其他開發者於2009年2月17日推出OpenFeint平台。\[4\]\[5\]
 
 2009年6月推出2.0版，標榜著此平台可以讓任何一個開發者免費放進遊戲當中。2009年8月14日推出的2.1版，以其「個人挑戰」最為特色，開發者可以訂定各種挑戰讓玩家過關，且此次更新亦可使玩家增加朋友的帳號。OpenFeint最大的競爭對手[Game
-Center也亦於隔月推出](https://zh.wikipedia.org/wiki/Game_Center "wikilink")。\[6\]2010年1月8日推出了2.4版，變換了新的設計並推出OpenFeint
+Center也亦於隔月推出](../Page/Game_Center.md "wikilink")。\[6\]2010年1月8日推出了2.4版，變換了新的設計並推出OpenFeint
 Game
 Channel獨立的[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。直到2010年1月，[App
 Store上已有超過](../Page/App_Store_\(iOS\).md "wikilink")900個應用程式內建OpenFeint、一千萬個使用者使用該平台。\[7\]同年9月，OpenFeint團隊發出公告將會支援Android系統。
@@ -38,8 +38,7 @@ Citron及OpenFeint團隊留在GREE。
 
 ## 參見
 
-  - 相似服務包括[Game
-    Center](https://zh.wikipedia.org/wiki/Game_Center "wikilink")、[Gameloft
+  - 相似服務包括[Game Center](../Page/Game_Center.md "wikilink")、[Gameloft
     Live](https://zh.wikipedia.org/wiki/Gameloft_Live "wikilink")、[Scoreloop](https://zh.wikipedia.org/wiki/Scoreloop "wikilink")、[OpenXLive等](../Page/OpenXLive.md "wikilink")。
 
 ## 參考資料

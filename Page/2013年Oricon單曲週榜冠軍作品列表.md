@@ -31,14 +31,14 @@
 </tr>
 <tr class="odd">
 <td><p>1月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mystery_Virgin" title="wikilink">Mystery Virgin</a></p></td>
+<td><p><a href="../Page/Mystery_Virgin.md" title="wikilink">Mystery Virgin</a></p></td>
 <td><p><a href="../Page/山田涼介.md" title="wikilink">山田涼介</a></p></td>
 <td><p>18.9</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>1月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Catch_Me_-If_you_wanna-" title="wikilink">Catch Me -If you wanna-</a></p></td>
+<td><p><a href="../Page/Catch_Me_-If_you_wanna-.md" title="wikilink">Catch Me -If you wanna-</a></p></td>
 <td><p><a href="../Page/東方神起.md" title="wikilink">東方神起</a></p></td>
 <td><p>13.7</p></td>
 <td><p>1</p></td>
@@ -73,7 +73,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/So_long!" title="wikilink">So long!</a></p></td>
+<td><p><a href="../Page/So_long!.md" title="wikilink">So long!</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>103.6</p></td>
 <td><p>1</p></td>
@@ -94,14 +94,14 @@
 </tr>
 <tr class="even">
 <td><p>3月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/你就是希望" title="wikilink">你就是希望</a></p></td>
+<td><p><a href="../Page/你就是希望.md" title="wikilink">你就是希望</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></p></td>
 <td><p>24.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/喜歡！喜歡！小跳步！" title="wikilink">喜歡！喜歡！小跳步！</a></p></td>
+<td><p><a href="../Page/喜歡！喜歡！小跳步！.md" title="wikilink">喜歡！喜歡！小跳步！</a></p></td>
 <td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a></p></td>
 <td><p>25.0</p></td>
 <td><p>1</p></td>
@@ -115,7 +115,7 @@
 </tr>
 <tr class="odd">
 <td><p>4月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/放浪榮耀_～因為如此深愛這世界～" title="wikilink">放浪榮耀 ～因為如此深愛這世界～</a></p></td>
+<td><p><a href="../Page/放浪榮耀_～因為如此深愛這世界～.md" title="wikilink">放浪榮耀 ～因為如此深愛這世界～</a></p></td>
 <td><p><a href="../Page/放浪兄弟.md" title="wikilink">EXILE</a></p></td>
 <td><p>56.5</p></td>
 <td><p>1</p></td>
@@ -164,14 +164,14 @@
 </tr>
 <tr class="even">
 <td><p>6月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/再見自由式" title="wikilink">再見自由式</a></p></td>
+<td><p><a href="../Page/再見自由式.md" title="wikilink">再見自由式</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>176.3</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Endless_Game" title="wikilink">Endless Game</a></p></td>
+<td><p><a href="../Page/Endless_Game.md" title="wikilink">Endless Game</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>47.8</p></td>
 <td><p>1</p></td>
@@ -185,21 +185,21 @@
 </tr>
 <tr class="odd">
 <td><p>6月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/眼淚的回答" title="wikilink">眼淚的回答</a></p></td>
+<td><p><a href="../Page/眼淚的回答.md" title="wikilink">眼淚的回答</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>24.9</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>7月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我們的發現" title="wikilink">我們的發現</a></p></td>
+<td><p><a href="../Page/我們的發現.md" title="wikilink">我們的發現</a></p></td>
 <td><p><a href="../Page/NMB48.md" title="wikilink">NMB48</a></p></td>
 <td><p>48.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Come_On_A_My_House" title="wikilink">Come On A My House</a></p></td>
+<td><p><a href="../Page/Come_On_A_My_House.md" title="wikilink">Come On A My House</a></p></td>
 <td><p><a href="../Page/Hey!_Say!_JUMP.md" title="wikilink">Hey! Say! JUMP</a></p></td>
 <td><p>21.8</p></td>
 <td><p>1</p></td>
@@ -214,13 +214,13 @@
 <tr class="odd">
 <td><p>7月22日</p></td>
 <td><p><a href="../Page/BURNING_UP.md" title="wikilink">BURNING UP</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/EXILE_TRIBE" title="wikilink">EXILE TRIBE</a></p></td>
+<td><p><a href="../Page/EXILE_TRIBE.md" title="wikilink">EXILE TRIBE</a></p></td>
 <td><p>26.4</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>7月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/美麗的閃電" title="wikilink">美麗的閃電</a></p></td>
+<td><p><a href="../Page/美麗的閃電.md" title="wikilink">美麗的閃電</a></p></td>
 <td><p><a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
 <td><p>51.1</p></td>
 <td><p>1</p></td>
@@ -255,7 +255,7 @@
 </tr>
 <tr class="odd">
 <td><p>9月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戀愛的幸運餅乾" title="wikilink">戀愛的幸運餅乾</a></p></td>
+<td><p><a href="../Page/戀愛的幸運餅乾.md" title="wikilink">戀愛的幸運餅乾</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>133.0</p></td>
 <td><p>1</p></td>
@@ -269,7 +269,7 @@
 </tr>
 <tr class="odd">
 <td><p>9月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/甜瓜汁_(HKT48單曲)" title="wikilink">哈密瓜汁</a></p></td>
+<td><p><a href="../Page/甜瓜汁_(HKT48單曲).md" title="wikilink">哈密瓜汁</a></p></td>
 <td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a></p></td>
 <td><p>26.9</p></td>
 <td><p>1</p></td>
@@ -283,21 +283,21 @@
 </tr>
 <tr class="odd">
 <td><p>9月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/放浪榮耀_～因為如此深愛這世界～" title="wikilink">放浪榮耀 ～因為如此深愛這世界～</a></p></td>
+<td><p><a href="../Page/放浪榮耀_～因為如此深愛這世界～.md" title="wikilink">放浪榮耀 ～因為如此深愛這世界～</a></p></td>
 <td><p><a href="../Page/放浪兄弟.md" title="wikilink">EXILE</a></p></td>
 <td><p>11.2</p></td>
 <td><p>25</p></td>
 </tr>
 <tr class="even">
 <td><p>10月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/刺痛的花" title="wikilink">刺痛的花</a></p></td>
+<td><p><a href="../Page/刺痛的花.md" title="wikilink">刺痛的花</a></p></td>
 <td><p><a href="../Page/Not_yet.md" title="wikilink">Not yet</a></p></td>
 <td><p>10.8</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大蔥鴨們" title="wikilink">大蔥鴨們</a></p></td>
+<td><p><a href="../Page/大蔥鴨們.md" title="wikilink">大蔥鴨們</a></p></td>
 <td><p><a href="../Page/NMB48.md" title="wikilink">NMB48</a></p></td>
 <td><p>37.5</p></td>
 <td><p>1</p></td>
@@ -325,7 +325,7 @@
 </tr>
 <tr class="odd">
 <td><p>11月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/真心電流" title="wikilink">真心電流</a></p></td>
+<td><p><a href="../Page/真心電流.md" title="wikilink">真心電流</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>120.4</p></td>
 <td><p>1</p></td>
@@ -333,7 +333,7 @@
 <tr class="even">
 <td><p>11月18日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/再見☆感謝" title="wikilink">再見☆感謝</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/東京下町古書店" title="wikilink">堀田家BAND</a></p></td>
+<td><p><a href="../Page/東京下町古書店.md" title="wikilink">堀田家BAND</a></p></td>
 <td><p>8.2</p></td>
 <td><p>1</p></td>
 </tr>
@@ -353,14 +353,14 @@
 </tr>
 <tr class="odd">
 <td><p>12月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/髮夾_(單曲)" title="wikilink">髮夾</a></p></td>
+<td><p><a href="../Page/髮夾_(單曲).md" title="wikilink">髮夾</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></p></td>
 <td><p>39.5</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>12月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/心空模樣" title="wikilink">心空模樣</a></p></td>
+<td><p><a href="../Page/心空模樣.md" title="wikilink">心空模樣</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>19.3</p></td>
 <td><p>1</p></td>
@@ -391,7 +391,7 @@
 
 ## 參見
 
-  - [2013年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2013年Oricon專輯週榜冠軍作品列表 "wikilink")
+  - [2013年Oricon專輯週榜冠軍作品列表](../Page/2013年Oricon專輯週榜冠軍作品列表.md "wikilink")
 
 ## 參考資料
 

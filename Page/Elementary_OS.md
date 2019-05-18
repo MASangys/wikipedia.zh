@@ -3,16 +3,15 @@ OS**是一个基于[Ubuntu的桌面](../Page/Ubuntu.md "wikilink")[Linux发行�
 这个桌面环境出众的原因是它深度集成了其他elementary
 OS应用程序，如Plank（一个基于[Docky的Dock](https://zh.wikipedia.org/wiki/Docky "wikilink")）、Midori（默认的[网页浏览器](../Page/网页浏览器.md "wikilink")）或Scratch（一个简单的文本编辑器）。该发行版使用基于[Mutter的Gala作为其](https://zh.wikipedia.org/wiki/Mutter "wikilink")[窗口管理器](https://zh.wikipedia.org/wiki/窗口管理器 "wikilink")\[2\]。
 
-这个发行版是从为Ubuntu设计的一套主题和应用程序发展而来的\[3\]。由于是基于Ubuntu的，因此与Ubuntu的仓库和包完全兼容。它使用Ubuntu自己的[软件中心来处理软件的安装和卸载](https://zh.wikipedia.org/wiki/Ubuntu软件中心 "wikilink")。其类似于[macOS的界面致力于使新用户不需要费太大力气就可以根据直觉使用](../Page/macOS.md "wikilink")。2018年被評為最好的桌面發行版\[4\]
+这个发行版是从为Ubuntu设计的一套主题和应用程序发展而来的\[3\]。由于是基于Ubuntu的，因此与Ubuntu的仓库和包完全兼容。它使用Ubuntu自己的[软件中心来处理软件的安装和卸载](https://zh.wikipedia.org/wiki/Ubuntu软件中心 "wikilink")。其类似于[macOS的界面致力于使新用户不需要费太大力气就可以根据直觉使用](https://zh.wikipedia.org/wiki/macOS "wikilink")。2018年被評為最好的桌面發行版\[4\]
 
 ## 特点
 
 elementary OS *Luna*默认安装了以下应用程序\[5\]。
 
-  - Phanteon
-    Greeter：基于[LightDM的会话管理器](https://zh.wikipedia.org/wiki/LightDM "wikilink")。
+  - Phanteon Greeter：基于[LightDM的会话管理器](../Page/LightDM.md "wikilink")。
   - WingPanel：上面板，类似于Ubuntu的[Unity和](../Page/Unity_\(使用者介面\).md "wikilink")[GNOME
-    Shell的上面板](https://zh.wikipedia.org/wiki/GNOME_Shell "wikilink")。
+    Shell的上面板](../Page/GNOME_Shell.md "wikilink")。
   - Slingshot：WingPanel中的应用程序启动器。
   - Plank：基于[Docky的](https://zh.wikipedia.org/wiki/Docky "wikilink")[Dock](https://zh.wikipedia.org/wiki/Dock "wikilink")。
   - Switchboard：设置应用程序（或[控制面板](../Page/控制面板.md "wikilink")）。

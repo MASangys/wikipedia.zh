@@ -236,7 +236,7 @@
 <td><p><strong>星仔</strong><br />
 向芊兒之養子<br />
 葛子輝、周夜虹之子<br />
-患有先天<a href="https://zh.wikipedia.org/wiki/膽管" title="wikilink">膽管閉塞</a>，其後惡化為<a href="https://zh.wikipedia.org/wiki/肝衰竭" title="wikilink">肝衰竭</a><br />
+患有先天<a href="https://zh.wikipedia.org/wiki/膽管" title="wikilink">膽管閉塞</a>，其後惡化為<a href="../Page/肝衰竭.md" title="wikilink">肝衰竭</a><br />
 於第24集獲周夜虹捐贈肝臟後完全康復</p></td>
 </tr>
 </tbody>
@@ -342,7 +342,7 @@
 參見上輯《<strong><a href="../Page/On_Call_36小時.md" title="wikilink">On Call 36小時</a></strong>》</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林景程" title="wikilink">林景程</a></p></td>
+<td><p><a href="../Page/林景程.md" title="wikilink">林景程</a></p></td>
 <td><p>胡名泰</p></td>
 <td><p><strong>明太子</strong><br />
 骨科專科實習醫生<br />
@@ -350,7 +350,7 @@
 楊沛聰、羅安迪、崔瑞華之好友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/謝東閔_(香港)" title="wikilink">謝東閔</a></p></td>
+<td><p><a href="../Page/謝東閔_(香港).md" title="wikilink">謝東閔</a></p></td>
 <td><p>崔瑞華</p></td>
 <td><p><strong>吹水華</strong><br />
 神經外科專科實習醫生<br />
@@ -368,7 +368,7 @@
 胡名泰之傾慕對象，後為女友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/謝卓言" title="wikilink">謝卓言</a></p></td>
+<td><p><a href="../Page/謝卓言.md" title="wikilink">謝卓言</a></p></td>
 <td><p>羅安迪</p></td>
 <td><p><strong>Andy</strong><br />
 骨科專科實習醫生<br />
@@ -451,14 +451,14 @@
 參見上輯《<strong><a href="../Page/On_Call_36小時.md" title="wikilink">On Call 36小時</a></strong>》</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/謝東閔_(香港)" title="wikilink">謝東閔</a></p></td>
+<td><p><a href="../Page/謝東閔_(香港).md" title="wikilink">謝東閔</a></p></td>
 <td><p>崔瑞華</p></td>
 <td><p><strong>吹水華</strong><br />
 神經外科專科實習醫生<br />
 參見上輯《<strong><a href="../Page/On_Call_36小時.md" title="wikilink">On Call 36小時</a></strong>》</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/譚坤倫" title="wikilink">譚坤倫</a></p></td>
+<td><p><a href="../Page/譚坤倫.md" title="wikilink">譚坤倫</a></p></td>
 <td><p>丁志傑</p></td>
 <td><p><strong>傑仔</strong><br />
 神经外科實習醫生</p></td>
@@ -500,12 +500,12 @@
 <td><p>神經外科護士</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/張韋怡" title="wikilink">張韋怡</a></p></td>
+<td><p><a href="../Page/張韋怡.md" title="wikilink">張韋怡</a></p></td>
 <td><p>韋翠瑩</p></td>
 <td><p>神經外科護士</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳婉婷_(演員)" title="wikilink">陳婉婷</a></p></td>
+<td><p><a href="../Page/陳婉婷_(演員).md" title="wikilink">陳婉婷</a></p></td>
 <td><p>阮俏俏</p></td>
 <td><p>神經外科護士</p></td>
 </tr>
@@ -592,13 +592,13 @@
 參見上輯《<strong><a href="../Page/On_Call_36小時.md" title="wikilink">On Call 36小時</a></strong>》</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林景程" title="wikilink">林景程</a></p></td>
+<td><p><a href="../Page/林景程.md" title="wikilink">林景程</a></p></td>
 <td><p>胡名泰</p></td>
 <td><p><strong>明太子</strong><br />
 骨科專科實習醫生</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/謝卓言" title="wikilink">謝卓言</a></p></td>
+<td><p><a href="../Page/謝卓言.md" title="wikilink">謝卓言</a></p></td>
 <td><p>羅安迪</p></td>
 <td><p><strong>Andy</strong><br />
 骨科專科實習醫生</p></td>
@@ -610,7 +610,7 @@
 骨科專科醫生</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/楊斯雅" title="wikilink">楊斯雅</a></p></td>
+<td><p><a href="../Page/楊斯雅.md" title="wikilink">楊斯雅</a></p></td>
 <td><p>艾嘉嘉</p></td>
 <td><p><strong>嘉嘉</strong><br />
 骨科實習醫生</p></td>
@@ -637,7 +637,7 @@
 參見<a href="https://zh.wikipedia.org/wiki/#洛家" title="wikilink"><strong>洛家</strong></a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/張明偉" title="wikilink">張明偉</a></p></td>
+<td><p><a href="../Page/張明偉.md" title="wikilink">張明偉</a></p></td>
 <td><p>翁景濤</p></td>
 <td><p><strong>阿濤</strong><br />
 病理科實習醫生</p></td>
@@ -721,13 +721,13 @@
 
 #### 兒科／婦產科／麻醉科
 
-|                                                     |        |           |
-| --------------------------------------------------- | ------ | --------- |
-| **演員**                                              | **角色** | **暱稱／關係** |
-| [陳　琪](../Page/陳琪_\(香港藝員\).md "wikilink")            | 蘇在言    | 兒科专科醫生    |
-| [溫裕紅](../Page/溫裕紅.md "wikilink")                    | 馬英嵐    | 婦產科专科醫生   |
-| [吳幸美](https://zh.wikipedia.org/wiki/吳幸美 "wikilink") | 高依琪    | 兒科护士长     |
-| [柯　嵐](https://zh.wikipedia.org/wiki/柯嵐 "wikilink")  |        | 麻醉科醫生     |
+|                                                    |        |           |
+| -------------------------------------------------- | ------ | --------- |
+| **演員**                                             | **角色** | **暱稱／關係** |
+| [陳　琪](../Page/陳琪_\(香港藝員\).md "wikilink")           | 蘇在言    | 兒科专科醫生    |
+| [溫裕紅](../Page/溫裕紅.md "wikilink")                   | 馬英嵐    | 婦產科专科醫生   |
+| [吳幸美](../Page/吳幸美.md "wikilink")                   | 高依琪    | 兒科护士长     |
+| [柯　嵐](https://zh.wikipedia.org/wiki/柯嵐 "wikilink") |        | 麻醉科醫生     |
 
 #### 其他部門之護士
 
@@ -759,12 +759,12 @@
 <td><p>護士</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/潘冠霖" title="wikilink">潘冠霖</a></p></td>
+<td><p><a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a></p></td>
 <td><p>張惠明</p></td>
 <td><p>護士</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/夏竹欣" title="wikilink">夏竹欣</a></p></td>
+<td><p><a href="../Page/夏竹欣.md" title="wikilink">夏竹欣</a></p></td>
 <td><p>祝詠秋</p></td>
 <td><p>護士</p></td>
 </tr>
@@ -784,12 +784,12 @@
 <td><p>護士</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/周麗欣" title="wikilink">周麗欣</a></p></td>
+<td><p><a href="../Page/周麗欣.md" title="wikilink">周麗欣</a></p></td>
 <td><p>蕭以利</p></td>
 <td><p>護士</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李君妍" title="wikilink">李君妍</a></p></td>
+<td><p><a href="../Page/李君妍.md" title="wikilink">李君妍</a></p></td>
 <td><p>馬慧真</p></td>
 <td><p>護士</p></td>
 </tr>
@@ -799,7 +799,7 @@
 <td><p>護士</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/梁茵_(演員)" title="wikilink">梁　茵</a></p></td>
+<td><p><a href="../Page/梁茵_(演員).md" title="wikilink">梁　茵</a></p></td>
 <td></td>
 <td><p>護士</p></td>
 </tr>
@@ -809,12 +809,12 @@
 <td><p>護士</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳華鑫" title="wikilink">陳華鑫</a></p></td>
+<td><p><a href="../Page/陳華鑫.md" title="wikilink">陳華鑫</a></p></td>
 <td></td>
 <td><p>護士</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳潔玲" title="wikilink">陳潔玲</a></p></td>
+<td><p><a href="../Page/陳潔玲.md" title="wikilink">陳潔玲</a></p></td>
 <td></td>
 <td><p>護士</p></td>
 </tr>
@@ -899,7 +899,7 @@
 患有<a href="https://zh.wikipedia.org/wiki/紅斑狼瘡症" title="wikilink">紅斑狼瘡症</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/何君誠" title="wikilink">何君誠</a></p></td>
+<td><p><a href="../Page/何君誠.md" title="wikilink">何君誠</a></p></td>
 <td><p>麥英祺</p></td>
 <td><p>咖啡店職員</p></td>
 </tr>
@@ -909,7 +909,7 @@
 <td><p>咖啡店職員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/唐嘉麟" title="wikilink">唐嘉麟</a></p></td>
+<td><p><a href="../Page/唐嘉麟.md" title="wikilink">唐嘉麟</a></p></td>
 <td><p>廖天宇</p></td>
 <td></td>
 </tr>
@@ -1005,7 +1005,7 @@ Monica之生意夥伴<br />
 屠家敏之繼子</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃子恆" title="wikilink">黃子恆</a></p></td>
+<td><p><a href="../Page/黃子恆.md" title="wikilink">黃子恆</a></p></td>
 <td><p>馮勉坤</p></td>
 <td><p>周夜虹之夫</p></td>
 </tr>
@@ -1093,7 +1093,7 @@ Monica之生意夥伴<br />
 
 ## 獎項殊榮
 
-### [TVB 馬來西亞星光薈萃頒獎典禮2013](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2013 "wikilink")
+### [TVB 馬來西亞星光薈萃頒獎典禮2013](../Page/TVB_馬來西亞星光薈萃頒獎典禮2013.md "wikilink")
 
 <table style="width:64%;">
 <colgroup>
@@ -1201,7 +1201,7 @@ Monica之生意夥伴<br />
 </tbody>
 </table>
 
-### [萬千星輝頒獎典禮2013](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2013 "wikilink")
+### [萬千星輝頒獎典禮2013](../Page/萬千星輝頒獎典禮2013.md "wikilink")
 
 <table style="width:64%;">
 <colgroup>
@@ -1308,7 +1308,7 @@ Monica之生意夥伴<br />
 </tbody>
 </table>
 
-### [2013年度勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/2013年度勁歌金曲得獎名單 "wikilink")
+### [2013年度勁歌金曲頒獎典禮](../Page/2013年度勁歌金曲得獎名單.md "wikilink")
 
 <table style="width:64%;">
 <colgroup>
@@ -1341,7 +1341,7 @@ Monica之生意夥伴<br />
 </tbody>
 </table>
 
-### [星和無綫電視大獎2014](https://zh.wikipedia.org/wiki/星和無綫電視大獎2014 "wikilink")
+### [星和無綫電視大獎2014](../Page/星和無綫電視大獎2014.md "wikilink")
 
 | 獎項          | 獲奬單位     |
 | ----------- | -------- |

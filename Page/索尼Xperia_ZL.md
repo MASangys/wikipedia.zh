@@ -55,8 +55,7 @@ Certified認證，並可登入Sony Entertainment Network。
   - [索尼移動](https://zh.wikipedia.org/wiki/索尼移動 "wikilink")
   - [Xperia](../Page/Xperia.md "wikilink")
   - [Sony Xperia Z](../Page/Sony_Xperia_Z.md "wikilink")
-  - [Sony Xperia
-    ZR](https://zh.wikipedia.org/wiki/Sony_Xperia_ZR "wikilink")
+  - [Sony Xperia ZR](../Page/Sony_Xperia_ZR.md "wikilink")
   - [Sony Xperia Z
     Ultra](https://zh.wikipedia.org/wiki/Sony_Xperia_Z_Ultra "wikilink")
 

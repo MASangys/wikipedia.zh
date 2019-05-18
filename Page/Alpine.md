@@ -33,20 +33,15 @@
   -
 ### 美国
 
-  - [阿爾派因
-    (迪卡爾布縣)](https://zh.wikipedia.org/wiki/阿爾派因_\(迪卡爾布縣\) "wikilink")，位于亚拉巴马州
+  - [阿爾派因 (迪卡爾布縣)](../Page/阿爾派因_\(迪卡爾布縣\).md "wikilink")，位于亚拉巴马州
 
-  - [阿爾派因
-    (塔拉迪加縣)](https://zh.wikipedia.org/wiki/阿爾派因_\(塔拉迪加縣\) "wikilink")，位于亚拉巴马州
+  - [阿爾派因 (塔拉迪加縣)](../Page/阿爾派因_\(塔拉迪加縣\).md "wikilink")，位于亚拉巴马州
 
-  - [阿爾派因
-    (阿拉斯加州)](https://zh.wikipedia.org/wiki/阿爾派因_\(阿拉斯加州\) "wikilink")
+  - [阿爾派因 (阿拉斯加州)](../Page/阿爾派因_\(阿拉斯加州\).md "wikilink")
 
-  - [阿爾派因
-    (亞利桑那州)](https://zh.wikipedia.org/wiki/阿爾派因_\(亞利桑那州\) "wikilink")
+  - [阿爾派因 (亞利桑那州)](../Page/阿爾派因_\(亞利桑那州\).md "wikilink")
 
-  - [阿爾派恩
-    (加利福尼亞州)](https://zh.wikipedia.org/wiki/阿爾派恩_\(加利福尼亞州\) "wikilink")，人口普查指定地区
+  - [阿爾派恩 (加利福尼亞州)](../Page/阿爾派恩_\(加利福尼亞州\).md "wikilink")，人口普查指定地区
 
   -
   -
@@ -94,8 +89,7 @@
   -
   -
   -
-  - [Alpine
-    Linux](https://zh.wikipedia.org/wiki/Alpine_Linux "wikilink")，一个Linux发行版
+  - [Alpine Linux](../Page/Alpine_Linux.md "wikilink")，一个Linux发行版
 
   - Alpine，奥克西唐语中的一个子集
 

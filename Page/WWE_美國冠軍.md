@@ -1,4 +1,4 @@
-**WWE美國冠軍**（），是隸屬於[世界摔角娛樂的一冠軍項目](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")，它於1975年成立當時（NWA）旗下的推廣聯盟（也就是後來的吉姆·克羅基特促進聯盟及[世界冠軍摔角](https://zh.wikipedia.org/wiki/世界冠軍摔角 "wikilink")）。WWE美國冠軍是次要冠軍項目，通常在較低等的場合或節目時段中都會有冠軍賽，有時亦會在[付費收看節目舉行冠軍賽](https://zh.wikipedia.org/wiki/世界摔角娛樂付費收看節目 "wikilink")。
+**WWE美國冠軍**（），是隸屬於[世界摔角娛樂的一冠軍項目](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")，它於1975年成立當時（NWA）旗下的推廣聯盟（也就是後來的吉姆·克羅基特促進聯盟及[世界冠軍摔角](../Page/世界冠軍摔角.md "wikilink")）。WWE美國冠軍是次要冠軍項目，通常在較低等的場合或節目時段中都會有冠軍賽，有時亦會在[付費收看節目舉行冠軍賽](https://zh.wikipedia.org/wiki/世界摔角娛樂付費收看節目 "wikilink")。
 
 ## 歷史
 
@@ -11,12 +11,12 @@ NWA美國重量級冠軍在中大西洋冠軍摔角仍是最重要的冠軍項�
 2001年3月，世界摔角聯盟收購了世界冠軍摔角。作為收購的一部分，WCW美國重量級冠軍成為了世界摔角聯盟的資產。而在整個2001年裡面，，隨著「入侵」情節，冠軍名稱更改為WCW美國冠軍。而在，WCW美國冠軍與WWE洲際冠軍合併了：時任WCW美國冠軍[Edge擊敗了時任WWE洲際冠軍](../Page/Edge_\(摔角手\).md "wikilink")，成為了新的WWE洲際冠軍，而WCW美國冠軍則停用。
 
 2003年7月，時任[WWE
-SmackDown](https://zh.wikipedia.org/wiki/WWE_SmackDown "wikilink")[總經理](https://zh.wikipedia.org/wiki/總經理 "wikilink")[史蒂芬妮·麥馬漢將WCW美國冠軍恢復並更名為WWE美國冠軍](../Page/史蒂芬妮·麥馬漢.md "wikilink")，進而成為SmackDown品牌的次要冠軍項目。而在，[艾迪·葛雷洛擊敗了](https://zh.wikipedia.org/wiki/艾迪·葛雷洛 "wikilink")[克里斯·班瓦](https://zh.wikipedia.org/wiki/克里斯·班瓦 "wikilink")，成為WWE美國冠軍恢復後的首任冠軍。而在這個動作不久之後，WWE洲際冠軍成為[Raw品牌的次要冠軍項目](https://zh.wikipedia.org/wiki/WWE_Raw "wikilink")，以與SmackDown品牌有相對應等級的冠軍項目。WWE美國冠軍持續在SmackDown品牌之下，直到2009年4月13日，時任WWE美國冠軍[蒙特爾·凡特維斯·波特在](https://zh.wikipedia.org/wiki/蒙特爾·凡特維斯·波特 "wikilink")被改隸屬於Raw品牌，而WWE美國冠軍也隨之改隸屬於Raw品牌。2011年4月26日，時任WWE美國冠軍[席莫斯在](https://zh.wikipedia.org/wiki/席莫斯 "wikilink")被改隸屬於SmackDown品牌，而WWE美國冠軍也隨之改隸屬於SmackDown品牌。5天過後，隸屬於Raw品牌的[科菲·京斯頓在](https://zh.wikipedia.org/wiki/科菲·京斯頓 "wikilink")擊敗了席莫斯，而WWE美國冠軍也隨之改隸屬於Raw品牌。2011年8月29日，從「Supershows」模式實施了之後，所有的冠軍項目都不在專屬於任何一個品牌。
+SmackDown](https://zh.wikipedia.org/wiki/WWE_SmackDown "wikilink")[總經理](https://zh.wikipedia.org/wiki/總經理 "wikilink")[史蒂芬妮·麥馬漢將WCW美國冠軍恢復並更名為WWE美國冠軍](../Page/史蒂芬妮·麥馬漢.md "wikilink")，進而成為SmackDown品牌的次要冠軍項目。而在，[艾迪·葛雷洛擊敗了](../Page/艾迪·葛雷洛.md "wikilink")[克里斯·班瓦](https://zh.wikipedia.org/wiki/克里斯·班瓦 "wikilink")，成為WWE美國冠軍恢復後的首任冠軍。而在這個動作不久之後，WWE洲際冠軍成為[Raw品牌的次要冠軍項目](../Page/WWE_Raw.md "wikilink")，以與SmackDown品牌有相對應等級的冠軍項目。WWE美國冠軍持續在SmackDown品牌之下，直到2009年4月13日，時任WWE美國冠軍[蒙特爾·凡特維斯·波特在](https://zh.wikipedia.org/wiki/蒙特爾·凡特維斯·波特 "wikilink")被改隸屬於Raw品牌，而WWE美國冠軍也隨之改隸屬於Raw品牌。2011年4月26日，時任WWE美國冠軍[席莫斯在](../Page/席莫斯.md "wikilink")被改隸屬於SmackDown品牌，而WWE美國冠軍也隨之改隸屬於SmackDown品牌。5天過後，隸屬於Raw品牌的[科菲·京斯頓在](../Page/科菲·京斯頓.md "wikilink")擊敗了席莫斯，而WWE美國冠軍也隨之改隸屬於Raw品牌。2011年8月29日，從「Supershows」模式實施了之後，所有的冠軍項目都不在專屬於任何一個品牌。
 
 ## 記錄
 
 [Ambrose_USA_Champion.jpg](https://zh.wikipedia.org/wiki/File:Ambrose_USA_Champion.jpg "fig:Ambrose_USA_Champion.jpg")\]\]
-WWE美國冠軍的首任冠軍，是1975年獲勝的[哈利·瑞斯](https://zh.wikipedia.org/wiki/哈利·瑞斯 "wikilink")，而曾有78位選手成為WWE美國冠軍。WWE美國冠軍的最長連任時間保持人是[萊克斯·魯格](https://zh.wikipedia.org/wiki/萊克斯·魯格 "wikilink")，其記錄從1989年5月22日到1990年10月27日，共計523天。萊克斯·魯格亦是WWE美國冠軍總計連任最長時間的保持人，共計948天。WWE美國冠軍的最短連任時間保持人是[冷石·史蒂夫·奧斯汀](../Page/冷石·史蒂夫·奧斯汀.md "wikilink")，其記錄為5分鐘。WWE美國冠軍的最年長冠軍王者是56歲的[泰瑞·放克](https://zh.wikipedia.org/wiki/泰瑞·放克 "wikilink")，最年輕冠軍王者是20歲的[大衛·福萊爾](https://zh.wikipedia.org/wiki/大衛·福萊爾 "wikilink")。WWE美國冠軍的最多勝利次數保持人是[布雷特·哈特](https://zh.wikipedia.org/wiki/布雷特·哈特 "wikilink")、[瑞克·福萊爾](../Page/瑞克·福萊爾.md "wikilink")、[克里斯·班瓦](https://zh.wikipedia.org/wiki/克里斯·班瓦 "wikilink")、[萊克斯·魯格和](https://zh.wikipedia.org/wiki/萊克斯·魯格 "wikilink")，其記錄為5次；其實瑞克·福萊爾衛冕過6次、但是其中一次衛冕沒有官方紀錄。\[2\]
+WWE美國冠軍的首任冠軍，是1975年獲勝的[哈利·瑞斯](https://zh.wikipedia.org/wiki/哈利·瑞斯 "wikilink")，而曾有78位選手成為WWE美國冠軍。WWE美國冠軍的最長連任時間保持人是[萊克斯·魯格](../Page/萊克斯·魯格.md "wikilink")，其記錄從1989年5月22日到1990年10月27日，共計523天。萊克斯·魯格亦是WWE美國冠軍總計連任最長時間的保持人，共計948天。WWE美國冠軍的最短連任時間保持人是[冷石·史蒂夫·奧斯汀](../Page/冷石·史蒂夫·奧斯汀.md "wikilink")，其記錄為5分鐘。WWE美國冠軍的最年長冠軍王者是56歲的[泰瑞·放克](https://zh.wikipedia.org/wiki/泰瑞·放克 "wikilink")，最年輕冠軍王者是20歲的[大衛·福萊爾](https://zh.wikipedia.org/wiki/大衛·福萊爾 "wikilink")。WWE美國冠軍的最多勝利次數保持人是[布雷特·哈特](../Page/布雷特·哈特.md "wikilink")、[瑞克·福萊爾](../Page/瑞克·福萊爾.md "wikilink")、[克里斯·班瓦](https://zh.wikipedia.org/wiki/克里斯·班瓦 "wikilink")、[萊克斯·魯格和](../Page/萊克斯·魯格.md "wikilink")，其記錄為5次；其實瑞克·福萊爾衛冕過6次、但是其中一次衛冕沒有官方紀錄。\[2\]
 
 ## 參考文獻
 

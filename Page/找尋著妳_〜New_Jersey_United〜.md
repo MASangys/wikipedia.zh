@@ -37,7 +37,7 @@ DISC 2 / DVD
     (作詞:TATSUTANO JUN　作曲:SAGISU SHIRO)
       -
 3.  **找尋著妳 ～Seamo Nator & DJ TAKI-SHIT Remix feat. CRYSTAL BOY ([NOBODY
-    KNOWS](../Page/nobodyknows+.md "wikilink"))**
+    KNOWS](https://zh.wikipedia.org/wiki/nobodyknows+ "wikilink"))**
     (作詞・作曲:KAWAGUCHI DAISUKE)
       -
 4.  **Running Away (Spanish Passion)**

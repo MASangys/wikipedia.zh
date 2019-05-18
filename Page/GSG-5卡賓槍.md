@@ -7,7 +7,7 @@ MP5衝鋒槍極為相似](https://zh.wikipedia.org/wiki/HK_MP5衝鋒槍 "wikilin
 
 GSG-5的供彈具包括2、10、15和22發容量的[彈匣和](../Page/彈匣.md "wikilink")110發容量的[彈鼓](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")。
 
-在瞄具方面，GSG-5採用了來自MP5的可調式鼓式[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")。除此之外，用戶也可透過於其[機匣頂部裝上戰術導軌來對應各種](https://zh.wikipedia.org/wiki/機匣 "wikilink")[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")。
+在瞄具方面，GSG-5採用了來自MP5的可調式鼓式[機械瞄具](../Page/機械瞄具.md "wikilink")。除此之外，用戶也可透過於其[機匣頂部裝上戰術導軌來對應各種](https://zh.wikipedia.org/wiki/機匣 "wikilink")[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")。
 
 ## 訴訟
 

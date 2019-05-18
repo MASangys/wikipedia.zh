@@ -1,4 +1,4 @@
-是由[史克威尔艾尼克斯发行的](../Page/史克威尔艾尼克斯.md "wikilink")[任天堂DS平台](../Page/任天堂DS.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。游戏是《[勇者斗恶龙怪兽篇Joker](https://zh.wikipedia.org/wiki/勇者斗恶龙怪兽篇Joker "wikilink")》的续作，也是[勇者斗恶龙怪兽系列的第五部作品](https://zh.wikipedia.org/wiki/勇者斗恶龙怪兽系列 "wikilink")。游戏于2010年4月28日在日本发行，2011年9月19日和10月7日在北美和欧洲发行\[1\]。游戏扩展版本于2011年3月31日在日本发行，其增加了一些怪兽与能力，而游戏情节相同。
+是由[史克威尔艾尼克斯发行的](../Page/史克威尔艾尼克斯.md "wikilink")[任天堂DS平台](../Page/任天堂DS.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。游戏是《[勇者斗恶龙怪兽篇Joker](../Page/勇者斗恶龙怪兽篇Joker.md "wikilink")》的续作，也是[勇者斗恶龙怪兽系列的第五部作品](https://zh.wikipedia.org/wiki/勇者斗恶龙怪兽系列 "wikilink")。游戏于2010年4月28日在日本发行，2011年9月19日和10月7日在北美和欧洲发行\[1\]。游戏扩展版本于2011年3月31日在日本发行，其增加了一些怪兽与能力，而游戏情节相同。
 
 ## 游戏玩法
 

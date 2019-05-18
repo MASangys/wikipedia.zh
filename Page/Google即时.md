@@ -1,5 +1,5 @@
 [Nexus_7_with_Google_Now.jpg](https://zh.wikipedia.org/wiki/File:Nexus_7_with_Google_Now.jpg "fig:Nexus_7_with_Google_Now.jpg")
-**Discover**（中文：**Google即時資訊**\[1\]）是一款由[Google開發的](../Page/Google.md "wikilink")[智慧型個人助理軟體](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")，擴充了[Google搜尋](https://zh.wikipedia.org/wiki/Google搜尋 "wikilink")[手機應用程式的功能](https://zh.wikipedia.org/wiki/手機應用程式 "wikilink")，**Discover**最初在[Android](../Page/Android.md "wikilink")、[iOS及](../Page/iOS.md "wikilink")[Google
+**Discover**（中文：**Google即時資訊**\[1\]）是一款由[Google開發的](../Page/Google.md "wikilink")[智慧型個人助理軟體](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")，擴充了[Google搜尋](https://zh.wikipedia.org/wiki/Google搜尋 "wikilink")[手機應用程式的功能](https://zh.wikipedia.org/wiki/手機應用程式 "wikilink")，**Discover**最初在[Android](../Page/Android.md "wikilink")、[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Google
 Chrome上使用](../Page/Google_Chrome.md "wikilink")，後來Google從[Google
 Chrome上移除](../Page/Google_Chrome.md "wikilink")\[2\]。**Discover**最早的名稱為**Google
 Now**，後改名為**Google Feed**，最終定名為**Discover**\[3\]。
@@ -14,7 +14,7 @@ Nexus](../Page/Galaxy_Nexus.md "wikilink")。
 Science）將Google Now評選為2012年的「年度創新」（）。\[4\]
 
 2013年4月29日，Google
-Now可在[iOS版本的](../Page/iOS.md "wikilink")[Google搜尋行動應用程式內使用](https://zh.wikipedia.org/wiki/Google搜尋 "wikilink")。
+Now可在[iOS版本的](https://zh.wikipedia.org/wiki/iOS "wikilink")[Google搜尋行動應用程式內使用](https://zh.wikipedia.org/wiki/Google搜尋 "wikilink")。
 
 ## 历史
 
@@ -43,7 +43,7 @@ Chrome的[代碼審查紀錄](https://zh.wikipedia.org/wiki/代碼審查 "wikili
 Now也有望被添加到Google
 Chrome的桌面版本。\[12\]根據[CNET的塞斯](../Page/CNET.md "wikilink")·羅森布拉特（Seth
 Rosenblatt），謠傳2013年11月Google
-Now將會被當作是[iGoogle的替代功能](../Page/iGoogle.md "wikilink")。\[13\]2013年5月15日，在Google
+Now將會被當作是[iGoogle的替代功能](https://zh.wikipedia.org/wiki/iGoogle "wikilink")。\[13\]2013年5月15日，在Google
 I/O上，Google宣布即將在桌面平台推出Google Now，但只能能透過Google Chrome或Google Chrome
 OS使用。\[14\]後來Google把Google Now從桌面平台Chrome中移除\[15\]。
 
@@ -187,13 +187,12 @@ Google”即可开始语音搜索。
   - [hidi](https://zh.wikipedia.org/wiki/hidi "wikilink")，僅支援中國版的[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[HTC
     One](https://zh.wikipedia.org/wiki/HTC_One "wikilink")
 
-  - [S
-    Voice](https://zh.wikipedia.org/wiki/S_Voice "wikilink")，三星[Samsung
+  - [S Voice](../Page/S_Voice.md "wikilink")，三星[Samsung
     Galaxy](https://zh.wikipedia.org/wiki/Samsung_Galaxy "wikilink")
 
-  - [Siri](../Page/Siri.md "wikilink")，蘋果[iPhone](../Page/iPhone.md "wikilink")
+  - [Siri](../Page/Siri.md "wikilink")，蘋果[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")
 
-  - [Cortana](https://zh.wikipedia.org/wiki/Cortana "wikilink")，[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")
+  - [Cortana](../Page/Cortana.md "wikilink")，[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")
 
 ## 参考资料
 

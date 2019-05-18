@@ -11,18 +11,19 @@ Anniversary）是日本歌手[濱崎步於](../Page/濱崎步.md "wikilink")2007
 ## 曲目
 
 1.  [starting over](../Page/Duty.md "wikilink")
-2.  [talkin' 2 myself](../Page/talkin'_2_myself.md "wikilink")
+2.  [talkin' 2
+    myself](https://zh.wikipedia.org/wiki/talkin'_2_myself "wikilink")
 3.  [STEP
     you](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")
 4.  [Ladies Night](../Page/\(miss\)understood.md "wikilink")
 5.  [fated](https://zh.wikipedia.org/wiki/glitter/fated "wikilink")
 6.  [Together When...](../Page/Together_When....md "wikilink")
-7.  [decision](../Page/talkin'_2_myself.md "wikilink")
+7.  [decision](https://zh.wikipedia.org/wiki/talkin'_2_myself "wikilink")
 8.  [SURREAL](../Page/SURREAL.md "wikilink")
 9.  [Bold &
     Delicious](https://zh.wikipedia.org/wiki/Bold_&_Delicious/Pride "wikilink")
 10. [RAINBOW](../Page/A_BALLADS.md "wikilink")
-11. [evolution](../Page/evolution_\(濱崎步單曲\).md "wikilink")
+11. [evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")
 12. [Boys & Girls](../Page/Boys_&_Girls.md "wikilink")
 13. [glitter](https://zh.wikipedia.org/wiki/glitter/fated "wikilink")
 

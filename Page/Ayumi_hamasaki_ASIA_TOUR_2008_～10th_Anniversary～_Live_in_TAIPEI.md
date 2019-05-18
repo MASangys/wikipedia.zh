@@ -19,19 +19,20 @@ DVD特典影像收錄「全公演MC集」。
 
 1.  [reBiRTH](../Page/GUILTY.md "wikilink")
 2.  [The Judgement Day](../Page/GUILTY.md "wikilink")
-3.  [talkin' 2 myself](../Page/talkin'_2_myself.md "wikilink")
+3.  [talkin' 2
+    myself](https://zh.wikipedia.org/wiki/talkin'_2_myself "wikilink")
 4.  [A Song for ××](../Page/A_Song_for_××.md "wikilink")
 5.  [Depend on you](../Page/Depend_on_you.md "wikilink")
 6.  [Fly high](../Page/Fly_high.md "wikilink")
 7.  [(don' t)Leave me alone](../Page/GUILTY.md "wikilink")
-8.  [decision](../Page/talkin'_2_myself.md "wikilink")
+8.  [decision](https://zh.wikipedia.org/wiki/talkin'_2_myself "wikilink")
 9.  [my name's WOMEN](../Page/MY_STORY.md "wikilink")
 10. [Marionette -prelude-](../Page/GUILTY.md "wikilink")
 11. [Marionette](../Page/GUILTY.md "wikilink")
 12. [HANABI](../Page/H_\(濱崎步單曲\).md "wikilink")
 13. [End roll](../Page/A_\(濱崎步單曲\).md "wikilink")
 14. [tasking](../Page/\(miss\)understood.md "wikilink")
-15. [SURREAL](../Page/SURREAL.md "wikilink")／[evolution](../Page/evolution_\(濱崎步單曲\).md "wikilink")／SURREAL
+15. [SURREAL](../Page/SURREAL.md "wikilink")／[evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")／SURREAL
 16. [Mirrorcle World](../Page/Mirrorcle_World.md "wikilink")
 
 </div>

@@ -1,9 +1,9 @@
 **MAS Modèle
-36**是一种[法國製的军用](https://zh.wikipedia.org/wiki/法國 "wikilink")[手动枪机](https://zh.wikipedia.org/wiki/手动枪机 "wikilink")[步枪](../Page/步枪.md "wikilink")，它在1936年被首次采用，以替换当时服役的[贝蒂埃步枪和](https://zh.wikipedia.org/wiki/Berthier_rifle "wikilink")[勒贝尔M1886式步枪](https://zh.wikipedia.org/wiki/勒貝爾M1886步槍 "wikilink")，并在[二战期间服役](https://zh.wikipedia.org/wiki/二战 "wikilink")。MAS-36由法国仅有的几间国营兵工厂之一——聖埃蒂安武器製造廠（MAS）生產。
+36**是一种[法國製的军用](https://zh.wikipedia.org/wiki/法國 "wikilink")[手动枪机](https://zh.wikipedia.org/wiki/手动枪机 "wikilink")[步枪](../Page/步枪.md "wikilink")，它在1936年被首次采用，以替换当时服役的[贝蒂埃步枪和](https://zh.wikipedia.org/wiki/Berthier_rifle "wikilink")[勒贝尔M1886式步枪](../Page/勒貝爾M1886步槍.md "wikilink")，并在[二战期间服役](https://zh.wikipedia.org/wiki/二战 "wikilink")。MAS-36由法国仅有的几间国营兵工厂之一——聖埃蒂安武器製造廠（MAS）生產。
 
 ## 简介
 
-MAS-36是一种短小、轻便的[卡宾枪型步枪](../Page/卡宾枪.md "wikilink")，使用两段式枪托，與其他步枪相比，其机匣也更加光滑。此枪使用1929年开始制造的现代无底缘弹[7.5×54毫米法国步枪弹](https://zh.wikipedia.org/wiki/7.5×54mm法國步槍彈 "wikilink")，这是[FM-24/29輕機槍所用的](https://zh.wikipedia.org/wiki/FM-24/29輕機槍 "wikilink")的缩短版。此款步枪设计时融入了法国参加[一战时积累的经验](https://zh.wikipedia.org/wiki/一战 "wikilink")，并借鉴了战争中使用的其他步枪的特性，如英国的[李-恩菲爾德步槍](../Page/李-恩菲爾德步槍.md "wikilink")（枪机后方设置闭锁突耳保证可靠性）、美国的[恩菲尔德M1917步枪](https://zh.wikipedia.org/wiki/恩菲尔德M1917 "wikilink")（枪机柄朝下弯曲，加入[觇空照门](https://zh.wikipedia.org/wiki/照门 "wikilink")）与德国[毛瑟枪](https://zh.wikipedia.org/wiki/毛瑟枪 "wikilink")
+MAS-36是一种短小、轻便的[卡宾枪型步枪](../Page/卡宾枪.md "wikilink")，使用两段式枪托，與其他步枪相比，其机匣也更加光滑。此枪使用1929年开始制造的现代无底缘弹[7.5×54毫米法国步枪弹](../Page/7.5×54mm法國步槍彈.md "wikilink")，这是[FM-24/29輕機槍所用的](https://zh.wikipedia.org/wiki/FM-24/29輕機槍 "wikilink")的缩短版。此款步枪设计时融入了法国参加[一战时积累的经验](https://zh.wikipedia.org/wiki/一战 "wikilink")，并借鉴了战争中使用的其他步枪的特性，如英国的[李-恩菲爾德步槍](../Page/李-恩菲爾德步槍.md "wikilink")（枪机后方设置闭锁突耳保证可靠性）、美国的[恩菲尔德M1917步枪](https://zh.wikipedia.org/wiki/恩菲尔德M1917 "wikilink")（枪机柄朝下弯曲，加入[觇空照门](https://zh.wikipedia.org/wiki/照门 "wikilink")）与德国[毛瑟枪](https://zh.wikipedia.org/wiki/毛瑟枪 "wikilink")
 （5
 发盒型弹倉），以造出“丑陋、粗糙但又极为健壮可靠”的军用步枪。\[1\]MAS-36步枪的拉机柄特别的朝前弯曲，借此使士兵的手可以更方便地操控之，\[2\]同时还有个相对较短的枪管。在后方的大孔觇孔照门，和在前方的尖头[准星的高度](https://zh.wikipedia.org/wiki/准星 "wikilink")，都可以调整，以适合不同的射程。另外，恰如当时的法国步枪的特点，MAS-36並無手动[保险装置](https://zh.wikipedia.org/wiki/保险装置 "wikilink")。\[3\]
 
@@ -13,7 +13,7 @@ MAS-36是一种短小、轻便的[卡宾枪型步枪](../Page/卡宾枪.md "wiki
 ## 背景
 
 虽然此枪的本意是用来取代[勒贝尔M1886步枪](https://zh.wikipedia.org/wiki/勒贝尔M1886步枪 "wikilink")、[贝蒂埃步枪以及](https://zh.wikipedia.org/wiki/贝蒂埃步枪 "wikilink")[贝蒂埃卡宾枪](https://zh.wikipedia.org/wiki/贝蒂埃卡宾枪 "wikilink")，但由于政府的资金问题，MAS-36的生產也受到限制，并与其他早期的步枪一起在法国及其殖民地军队中服役。在[二战期间](https://zh.wikipedia.org/wiki/二战 "wikilink")，MAS-36常为前线的步兵队所配备，其他部队与预备役军队则使用勒贝尔步枪和贝蒂埃步枪。在[法国战役之后](https://zh.wikipedia.org/wiki/法国战役 "wikilink")，德国获得了大批MAS-36步枪，并将之重命名为Gewehr
-242(f)，而后发放给德国在法国占领区的守备队，后来也以之配备[人民冲锋队](https://zh.wikipedia.org/wiki/人民冲锋队 "wikilink")。\[4\]
+242(f)，而后发放给德国在法国占领区的守备队，后来也以之配备[人民冲锋队](../Page/人民冲锋队.md "wikilink")。\[4\]
 
 ## 二战后的使用
 

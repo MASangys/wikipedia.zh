@@ -7,7 +7,7 @@ X**」，是一个[谷歌公司运行的秘密实验室](https://zh.wikipedia.or
 X有八個計畫項目，包括無人飛機、[谷歌眼镜](https://zh.wikipedia.org/wiki/谷歌眼镜 "wikilink")、[Google
 Driverless
 Car](https://zh.wikipedia.org/wiki/Google_Driverless_Car "wikilink")、[Project
-Loon](https://zh.wikipedia.org/wiki/Project_Loon "wikilink")。
+Loon](../Page/Project_Loon.md "wikilink")。
 
 ### 無人飛機
 
@@ -21,7 +21,7 @@ Air。2014年8月28日公開計畫時，它已經在谷歌發展兩年左右，�
 ### Google Driverless Car(自动驾驶汽车）
 
 [Google Driverless
-Car不需要驾驶者就能启动](https://zh.wikipedia.org/wiki/Google_Driverless_Car "wikilink")、行驶以及停止。目前正在测试，已驾驶了48万公里。\[7\]项目由[Google街景的共同发明人](https://zh.wikipedia.org/wiki/Google街景 "wikilink")[塞巴斯蒂安·特龙](https://zh.wikipedia.org/wiki/塞巴斯蒂安·特龙 "wikilink")（Sebastian
+Car不需要驾驶者就能启动](https://zh.wikipedia.org/wiki/Google_Driverless_Car "wikilink")、行驶以及停止。目前正在测试，已驾驶了48万公里。\[7\]项目由[Google街景的共同发明人](https://zh.wikipedia.org/wiki/Google街景 "wikilink")[塞巴斯蒂安·特龙](../Page/塞巴斯蒂安·特龙.md "wikilink")（Sebastian
 Thrun）领导。\[8\]谷歌的工程人员使用7辆试验车，其中6辆是[丰田普锐斯](https://zh.wikipedia.org/wiki/丰田普锐斯 "wikilink")，一辆是[奥迪TT](../Page/奥迪TT.md "wikilink")\[9\]。这些车在[加州几条道路上测试](https://zh.wikipedia.org/wiki/加州 "wikilink")，其中包括旧金山湾区的[九曲花街](../Page/倫巴底街_\(三藩市\).md "wikilink")。这些车辆使用照相机、雷达感应器和激光测距机来[“看”其他的交通状况](https://zh.wikipedia.org/wiki/計算機視覺 "wikilink")，并且使用详细地图来为前方的道路导航。谷歌说，这些车辆比有人驾驶的车更安全，因为它们能更迅速、更有效地作出反应。然而，在所有的测试中，都有人坐在駕駛座上於必要時可以随时控制车辆。\[10\]
 2012年4月1日，Google展示了他们的使用自动驾驶技术的赛车，命名为10^100（十的一百次方，也就是["Googol"](../Page/古戈爾.md "wikilink")，"Google"这个单词的词源）
 2012年5月8日，在美国[内华达州允许无人驾驶汽车上路](../Page/内华达州.md "wikilink")3个月后，機動車輛管理局（Department
@@ -31,7 +31,7 @@ Vehicles）为Google的无人驾驶汽车颁发了一张合法[车牌](https://z
 ### Project Loon
 
 [Project
-Loon目的是希望透過架設在離地](https://zh.wikipedia.org/wiki/Project_Loon "wikilink")20公里的[熱氣球](https://zh.wikipedia.org/wiki/熱氣球 "wikilink")，成為網絡接點，為[發展中國家提供廉價及穩定的網路連線](https://zh.wikipedia.org/wiki/發展中國家 "wikilink")。Google
+Loon目的是希望透過架設在離地](../Page/Project_Loon.md "wikilink")20公里的[熱氣球](https://zh.wikipedia.org/wiki/熱氣球 "wikilink")，成為網絡接點，為[發展中國家提供廉價及穩定的網路連線](https://zh.wikipedia.org/wiki/發展中國家 "wikilink")。Google
 X利用了18個月時間研究，終於2013年6月在[紐西蘭進行實驗](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，谷歌其後表示希望在[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[智利](../Page/智利.md "wikilink")、[烏拉圭](https://zh.wikipedia.org/wiki/烏拉圭 "wikilink")、[巴拉圭及](../Page/巴拉圭.md "wikilink")[阿根廷形成一個熱氣球網絡](../Page/阿根廷.md "wikilink")。
 
 ### 其他

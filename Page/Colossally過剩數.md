@@ -13,7 +13,7 @@
 
 ## 歷史
 
-Colossally過剩數最早是由[斯里尼瓦瑟·拉马努金所發現](../Page/斯里尼瓦瑟·拉马努金.md "wikilink")，他在1915年提出的相關[高合成數的論文中原來有包括有Colossally過剩數的相關研究](https://zh.wikipedia.org/wiki/高合成數 "wikilink")\[2\]。不過因為期刊發行單位[倫敦數學學會的財務問題](../Page/倫敦數學學會.md "wikilink")，拉马努金為了減少論文的篇幅，願意刪除論文中有關Colossally過剩數的內容\[3\]。拉马努金的研究和[黎曼猜想有關](https://zh.wikipedia.org/wiki/黎曼猜想 "wikilink")．配合他提出的有關Colossally過剩數上下限的假設，可以證明一個稱為Robin不等式的不等式在所有的正整數*n*時都成立\[4\]。
+Colossally過剩數最早是由[斯里尼瓦瑟·拉马努金所發現](../Page/斯里尼瓦瑟·拉马努金.md "wikilink")，他在1915年提出的相關[高合成數的論文中原來有包括有Colossally過剩數的相關研究](https://zh.wikipedia.org/wiki/高合成數 "wikilink")\[2\]。不過因為期刊發行單位[倫敦數學學會的財務問題](../Page/倫敦數學學會.md "wikilink")，拉马努金為了減少論文的篇幅，願意刪除論文中有關Colossally過剩數的內容\[3\]。拉马努金的研究和[黎曼猜想有關](../Page/黎曼猜想.md "wikilink")．配合他提出的有關Colossally過剩數上下限的假設，可以證明一個稱為Robin不等式的不等式在所有的正整數*n*時都成立\[4\]。
 
 拉马努金發現的Colossally過剩數比及[保羅·艾狄胥所發現的類似整數要嚴格一些些](https://zh.wikipedia.org/wiki/保羅·艾狄胥 "wikilink")\[5\]。
 
@@ -43,10 +43,10 @@ Alaoglu及保羅·艾狄胥的猜想尚未被證實或推翻。若其猜想成�
 ## 和黎曼猜想的關係
 
 1980年代Guy
-Robin證明[黎曼猜想等於以下的不等式對於所有大於](https://zh.wikipedia.org/wiki/黎曼猜想 "wikilink")5040的正整數都成立\[10\]：
+Robin證明[黎曼猜想等於以下的不等式對於所有大於](../Page/黎曼猜想.md "wikilink")5040的正整數都成立\[10\]：
 
 \[\sigma(n)<e^\gamma n \log\log n.\,\]
-當*n* = 5040時上述等式不成立，但Robin證明若黎曼猜想成立時，上述不等式只有在*n*=5040時會不成立，其餘條件都會成立，上述不等式稱為Robin不等式。若除了5040外，仍有其他正整數使Robin不等式不成立，該正整數一定是Colossally過剩數，因此[黎曼猜想也等於上述不等式對於所有大於](https://zh.wikipedia.org/wiki/黎曼猜想 "wikilink")5040的Colossally過剩數都成立。
+當*n* = 5040時上述等式不成立，但Robin證明若黎曼猜想成立時，上述不等式只有在*n*=5040時會不成立，其餘條件都會成立，上述不等式稱為Robin不等式。若除了5040外，仍有其他正整數使Robin不等式不成立，該正整數一定是Colossally過剩數，因此[黎曼猜想也等於上述不等式對於所有大於](../Page/黎曼猜想.md "wikilink")5040的Colossally過剩數都成立。
 
 ## 參考資料
 

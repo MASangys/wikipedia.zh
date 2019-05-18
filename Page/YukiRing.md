@@ -4,7 +4,7 @@
 
 唱片品牌名是以柏木的暱稱「」（Yukirin）命名\[3\]。柏木由紀也因此成為AKB48史上首個擁有独自唱片品牌\[4\]的成員。
 
-2012年7月發表柏木的獨立出道，当初這個唱片品牌的網站在11月1日11日14時的時候是一個倒計時網站\[5\]。2013年2月6日，柏木主演的劇集「[Mielino柏木](https://zh.wikipedia.org/wiki/蜜愛莉諾柏木 "wikilink")」主題曲\[6\]獨立出道單曲「[草莓小蛋糕](https://zh.wikipedia.org/wiki/草莓小蛋糕 "wikilink")」發售。
+2012年7月發表柏木的獨立出道，当初這個唱片品牌的網站在11月1日11日14時的時候是一個倒計時網站\[5\]。2013年2月6日，柏木主演的劇集「[Mielino柏木](../Page/蜜愛莉諾柏木.md "wikilink")」主題曲\[6\]獨立出道單曲「[草莓小蛋糕](https://zh.wikipedia.org/wiki/草莓小蛋糕 "wikilink")」發售。
 
 ## 發售作品
 
@@ -75,7 +75,7 @@ AVC1-62294</p></td>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2013年10月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Birthday_wedding" title="wikilink">Birthday wedding</a></p></td>
+<td><p><a href="../Page/Birthday_wedding.md" title="wikilink">Birthday wedding</a></p></td>
 <td><p>2位</p></td>
 <td><p>9位</p></td>
 <td><p>96位</p></td>

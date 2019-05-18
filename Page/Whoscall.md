@@ -5,7 +5,7 @@
 ## 特色與功能
 
   - 即時辨識來電者資訊：透過[社群回報與網路搜尋](https://zh.wikipedia.org/wiki/社群 "wikilink")，於來電的第一時間辨識陌生電話背景資訊，亦可事後查詢來電者背景。
-  - [封鎖惡意來電](https://zh.wikipedia.org/wiki/封鎖 "wikilink")：立即封鎖惡意電話，減少來自[詐騙集團電話的騷擾](../Page/詐騙集團.md "wikilink")。
+  - [封鎖惡意來電](../Page/封鎖.md "wikilink")：立即封鎖惡意電話，減少來自[詐騙集團電話的騷擾](../Page/詐騙集團.md "wikilink")。
   - 超過7億筆全球電話資訊：擁有全球各地[黃頁](../Page/黃頁.md "wikilink")、網頁搜尋、公開資料等全球7億筆電話資訊。
   - [Whoscall
     Card](https://card.whoscall.com/zh-TW/)：個人化去電顯示介面與號碼資訊頁面，有手機就能做生意。
@@ -65,7 +65,7 @@ Whoscall Card於 Whoscall Android版 4.3 開始開放使用者進行Beta測試�
   - 2016年7月26日：與[中華民國](../Page/中華民國.md "wikilink")[內政部](https://zh.wikipedia.org/wiki/中華民國內政部 "wikilink")[警政署](https://zh.wikipedia.org/wiki/警政署 "wikilink")[刑事警察局](https://zh.wikipedia.org/wiki/刑事警察局 "wikilink")165簽訂合作備忘錄，協同165反詐騙專線打擊詐騙電話\[30\]
   - 2016年9月14日：iOS版推出即時來電辨識、新增封鎖功能。\[31\]
   - 2016年11月：全球下載量突破5000萬，每月辨識號碼近億次。
-  - 2016年12月：與[中華電信](https://zh.wikipedia.org/wiki/中華電信 "wikilink")、[是方電訊合作](https://zh.wikipedia.org/wiki/是方電訊 "wikilink")，推廣
+  - 2016年12月：與[中華電信](https://zh.wikipedia.org/wiki/中華電信 "wikilink")、[是方電訊合作](../Page/是方電訊.md "wikilink")，推廣
     Whoscall Card。
   - 2017年5月4日：與台灣大哥大合作，推廣安心通話管家、阻絕家庭成員遭騙。
   - 2017年7月18日：與韓國金管會簽訂MOU。
@@ -528,7 +528,7 @@ Whoscall Card於 Whoscall Android版 4.3 開始開放使用者進行Beta測試�
 </tbody>
 </table>
 
-### [iOS](../Page/iOS.md "wikilink")
+### [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
 
 ### [Windows Phone](../Page/Windows_Phone.md "wikilink")
 

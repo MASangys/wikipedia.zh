@@ -15,7 +15,7 @@ DVD特典影像收錄幕後花絮。
 
 1.  [GREEN](https://zh.wikipedia.org/wiki/Days/GREEN "wikilink")
 2.  [Will](https://zh.wikipedia.org/wiki/HEAVEN "wikilink")
-3.  [vogue](../Page/vogue_\(濱崎步單曲\).md "wikilink")
+3.  [vogue](https://zh.wikipedia.org/wiki/vogue_\(濱崎步單曲\) "wikilink")
 4.  [HONEY](../Page/MY_STORY.md "wikilink")
 5.  [ANGEL'S SONG](../Page/Memorial_address.md "wikilink")
 6.  [End of the World](../Page/Duty.md "wikilink")
@@ -39,7 +39,7 @@ DVD特典影像收錄幕後花絮。
 2.  [Hana](../Page/A_Song_for_××.md "wikilink")
 3.  [too late](../Page/A_\(濱崎步單曲\).md "wikilink")
 4.  [UNITE\!](../Page/UNITE!.md "wikilink")
-5.  [SURREAL](../Page/SURREAL.md "wikilink")〜[evolution](../Page/evolution_\(濱崎步單曲\).md "wikilink")〜SURREAL
+5.  [SURREAL](../Page/SURREAL.md "wikilink")〜[evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")〜SURREAL
 6.  [Who...](../Page/LOVEppears.md "wikilink")
 7.  [Trauma](../Page/A_\(濱崎步單曲\).md "wikilink")
 8.  [independent](../Page/H_\(濱崎步單曲\).md "wikilink")

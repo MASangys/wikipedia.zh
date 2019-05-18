@@ -6,9 +6,9 @@
   - 由[AKB48的Team](../Page/AKB48.md "wikilink") A（第1話）、Team K（第2話）、Team
     B（第3話）的成員出演1話完結的電視劇3夜連續播放。
   - 在「你會為AKB48哭泣嗎」的概念下，以喜悅的淚水、悲傷的淚水、憤怒的淚水、幸福的淚水等的故事構成。
-  - 第3夜播放後直播的《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》内利用[數碼播放](https://zh.wikipedia.org/wiki/數碼播放 "wikilink")，觀眾能進行投票選出「最好的作品」和「最好演技的成員」\[1\]。優勝隊伍能獲得2013年4月開始在日本電視台播放的由[福田雄一導演與編劇的](https://zh.wikipedia.org/wiki/福田雄一 "wikilink")[喜劇作品演出權](../Page/喜劇.md "wikilink")。投票的結果，最優秀女優賞是[島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")，最優秀作品賞是第3夜（Team
+  - 第3夜播放後直播的《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》内利用[數碼播放](https://zh.wikipedia.org/wiki/數碼播放 "wikilink")，觀眾能進行投票選出「最好的作品」和「最好演技的成員」\[1\]。優勝隊伍能獲得2013年4月開始在日本電視台播放的由[福田雄一導演與編劇的](../Page/福田雄一.md "wikilink")[喜劇作品演出權](../Page/喜劇.md "wikilink")。投票的結果，最優秀女優賞是[島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")，最優秀作品賞是第3夜（Team
     B），而作為優勝獎勵的，則是自4月13日開播的Team
-    B冠名綜藝節目《[週六夜兒童機器](https://zh.wikipedia.org/wiki/週六夜兒童機器 "wikilink")》（）。
+    B冠名綜藝節目《[週六夜兒童機器](../Page/週六夜兒童機器.md "wikilink")》（）。
 
 ## 角色
 
@@ -90,8 +90,7 @@
 
 <!-- end list -->
 
-  - **鈴木 照男（すずき てるお）** -
-    [大杉漣](https://zh.wikipedia.org/wiki/大杉漣 "wikilink")
+  - **鈴木 照男（すずき てるお）** - [大杉漣](../Page/大杉漣.md "wikilink")
 
 <!-- end list -->
 
@@ -305,7 +304,7 @@
   - 製作人：西野真貴、渡邉浩仁（[日テレアックスオン](https://zh.wikipedia.org/wiki/日テレアックスオン "wikilink")）、柳内久仁子（日テレアックスオン）
   - 製作：日テレアックスオン
   - 企劃・制作：[日本電視台](../Page/日本電視台.md "wikilink")
-  - 製作著作：日本電視台／[VAP](https://zh.wikipedia.org/wiki/VAP "wikilink")
+  - 製作著作：日本電視台／[VAP](../Page/VAP.md "wikilink")
 
 ## 音樂
 

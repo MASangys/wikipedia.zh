@@ -10,7 +10,7 @@ Arithmetic〉中提出，應用在[音樂理論及視覺和諧度的研究中](h
 
 ## 應用
 
-在[和聲的研究中](https://zh.wikipedia.org/wiki/和聲 "wikilink")，許多[音程可以表示為Superparticular數的比例](../Page/音程.md "wikilink")。此時可以用找出所有分母及分子均為[光滑數的音程](https://zh.wikipedia.org/wiki/光滑數 "wikilink")\[1\]。
+在[和聲的研究中](https://zh.wikipedia.org/wiki/和聲 "wikilink")，許多[音程可以表示為Superparticular數的比例](../Page/音程.md "wikilink")。此時可以用找出所有分母及分子均為[光滑數的音程](../Page/光滑數.md "wikilink")\[1\]。
 
 ## 比例英文名稱及相關的音程
 
@@ -52,7 +52,7 @@ Arithmetic〉中提出，應用在[音樂理論及視覺和諧度的研究中](h
 <tr class="odd">
 <td><p>6:5</p></td>
 <td><p>sesquiquintum</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小三度" title="wikilink">小三度</a></p></td>
+<td><p><a href="../Page/小三度.md" title="wikilink">小三度</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -64,7 +64,7 @@ Arithmetic〉中提出，應用在[音樂理論及視覺和諧度的研究中](h
 <tr class="odd">
 <td><p>9:8</p></td>
 <td><p>sesquioctavum</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大二度" title="wikilink">大二度</a></p></td>
+<td><p><a href="../Page/大二度.md" title="wikilink">大二度</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

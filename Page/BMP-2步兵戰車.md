@@ -9,7 +9,7 @@
   - 重量：14.3噸
   - 最快速度：65公里/小時
   - 續航距離：500公里
-  - 主武裝：30毫米口徑[希普諾夫2A42機炮](https://zh.wikipedia.org/wiki/希普諾夫2A42機炮 "wikilink")+AT-4反坦克飛彈
+  - 主武裝：30毫米口徑[希普諾夫2A42機炮](../Page/希普諾夫2A42機炮.md "wikilink")+AT-4反坦克飛彈
   - 副武裝：7.62毫米口徑PKT同軸機槍
   - 發動機：一個300匹馬力UTD-20水冷式柴油
 
@@ -38,7 +38,7 @@
 
 **BMP-2M**
 
-大幅現代化改裝版本，增加了[AGS-17](https://zh.wikipedia.org/wiki/AGS-17 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，裝備4枚[9M133短號反坦克导弹](https://zh.wikipedia.org/wiki/9M133短號反坦克导弹 "wikilink")，[阿爾及利亞於](https://zh.wikipedia.org/wiki/阿爾及利亞 "wikilink")2005年簽暑了針對300輛BMP-2M的改良方案。
+大幅現代化改裝版本，增加了[AGS-17](https://zh.wikipedia.org/wiki/AGS-17 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，裝備4枚[9M133短號反坦克导弹](../Page/9M133短號反坦克导弹.md "wikilink")，[阿爾及利亞於](https://zh.wikipedia.org/wiki/阿爾及利亞 "wikilink")2005年簽暑了針對300輛BMP-2M的改良方案。
 
 **國外改裝**
 
@@ -56,7 +56,7 @@
   - [伊拉克戰爭](https://zh.wikipedia.org/wiki/伊拉克戰爭 "wikilink")
   - [2008年南奧塞提亞戰爭](https://zh.wikipedia.org/wiki/2008年南奧塞提亞戰爭 "wikilink")
   - [敘利亞內戰](https://zh.wikipedia.org/wiki/敘利亞內戰 "wikilink")
-  - [烏克蘭親俄羅斯武裝衝突](https://zh.wikipedia.org/wiki/顿巴斯战争 "wikilink")
+  - [烏克蘭親俄羅斯武裝衝突](../Page/顿巴斯战争.md "wikilink")
 
 ## 使用國家
 
@@ -139,7 +139,7 @@
 ## 相關條目
 
   - [BMP-1步兵戰車](../Page/BMP-1步兵戰車.md "wikilink")
-  - [BMP-3步兵戰車](https://zh.wikipedia.org/wiki/BMP-3步兵戰車 "wikilink")
+  - [BMP-3步兵戰車](../Page/BMP-3步兵戰車.md "wikilink")
   - [86式步兵戰車](https://zh.wikipedia.org/wiki/ZBD-86步兵戰車 "wikilink")
 
 ## 參考文獻

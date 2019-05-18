@@ -144,7 +144,8 @@ Music樂壇民意指數頒獎禮2012**，於2013年1月16日假[九龍灣國際�
 
 ## 參看
 
-  - [SINA Music樂壇民意指數頒獎禮](../Page/SINA_Music樂壇民意指數頒獎禮.md "wikilink")
+  - [SINA
+    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
 
 [Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink")
 [Category:2012年](https://zh.wikipedia.org/wiki/Category:2012年 "wikilink")

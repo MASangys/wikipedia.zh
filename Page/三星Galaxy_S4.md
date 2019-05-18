@@ -7,8 +7,9 @@ Galaxy S 系列的第四代](../Page/三星Galaxy_S系列.md "wikilink")\[2\]。
 Samsung Unpacked 2013 Episode 1 上正式发布\[3\]。同年4月開始於155個國家發售。
 
 根據三星电子公佈的資料，截至2013年5月22日，三星Galaxy S4在全球共出貨一千萬支，目前已知銷售量4000萬支。而Galaxy
-S4同期的最大競爭對手是Apple [iPhone 5及](../Page/iPhone_5.md "wikilink")[HTC
-One (M7)](../Page/HTC_One_\(M7\).md "wikilink")。
+S4同期的最大競爭對手是Apple [iPhone
+5及](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")[HTC One
+(M7)](../Page/HTC_One_\(M7\).md "wikilink")。
 
 ## 型号
 
@@ -266,7 +267,7 @@ One (M7)](../Page/HTC_One_\(M7\).md "wikilink")。
   - **系統內置應用程式過大**：由於系統內置的ChatOn、S Travel等程式，以致16GB版本的可用空間僅有8
     [GB](https://zh.wikipedia.org/wiki/GB "wikilink")，近50%儲存容量都被手機的作業系統及內建應用程式佔據，限制用戶可使用的儲存空間\[18\]\[19\]。三星回應「目的為了提供更高的顯示解析度及更強大的功能」，而「為了提供使用者最佳的行動產品經驗，三星讓
     Galaxy S4
-    提供[microSD](../Page/microSD.md "wikilink")[記憶卡插槽](../Page/記憶卡.md "wikilink")，以擴充記憶容量」\[20\]。
+    提供[microSD](https://zh.wikipedia.org/wiki/microSD "wikilink")[記憶卡插槽](../Page/記憶卡.md "wikilink")，以擴充記憶容量」\[20\]。
   - **不允許 app 安裝在記憶卡**：[CNET報導指出](../Page/CNET.md "wikilink")，三星並不允許 app
     安裝在記憶卡上，導致很多遊戲無法安裝在S4上。一些先進的遊戲需要大量記憶空間支援，例如《Real Racing 3》便需要 1.2GB
     的手機空間支援。因此 S4 若只剩 8GB

@@ -1,7 +1,7 @@
 以下是由[日昇動畫和](../Page/日昇動畫.md "wikilink")[Lantis的聯合策划](../Page/Lantis.md "wikilink")**《[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")》的相關音樂專輯**的列表。
 
 「LoveLive\!」的CD僅在日本國內發行，在中文地區尚無正式代理。本條目的專輯、曲目標題採用「日文原名（中文翻譯）」的格式。中文翻譯採用直譯，[盛大簡體中文版](https://zh.wikipedia.org/wiki/盛大游戏 "wikilink")《[LoveLive\!
-學園偶像祭](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像祭 "wikilink")》在更新至4.0版本之前雖然有曲名的中文翻譯，但譯文與原文字面意思有較大出入，故未予採用。
+學園偶像祭](../Page/LoveLive!_學園偶像祭.md "wikilink")》在更新至4.0版本之前雖然有曲名的中文翻譯，但譯文與原文字面意思有較大出入，故未予採用。
 
 ## 編號單曲
 
@@ -15,7 +15,7 @@
 <th><p>發售日</p></th>
 <th><p>標題</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/規格產品編號" title="wikilink">規格編號</a></p></th>
+<th><p><a href="../Page/規格產品編號.md" title="wikilink">規格編號</a></p></th>
 <th><p>Oricon周榜最高排名</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -27,7 +27,7 @@
 <td><p>2010年8月13日（<a href="../Page/Comic_Market.md" title="wikilink">夏CM（C78）限定版</a>）<br />
 2010年8月25日（通常版）</p></td>
 <td><p><strong></strong><br />
-（<a href="https://zh.wikipedia.org/wiki/我們的LIVE_與你的LIFE" title="wikilink">我們的LIVE 與你的LIFE</a>）</p></td>
+（<a href="../Page/我們的LIVE_與你的LIFE.md" title="wikilink">我們的LIVE 與你的LIFE</a>）</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>+<a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a><br />
 12cmCD</p></td>
 <td><p>LACM-4738</p></td>
@@ -37,7 +37,7 @@
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2010年12月22日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Snow_halation" title="wikilink">Snow halation</a></strong></p></td>
+<td><p><strong><a href="../Page/Snow_halation.md" title="wikilink">Snow halation</a></strong></p></td>
 <td><p>CD+DVD<br />
 12cmCD</p></td>
 <td><p>LACM-4774</p></td>
@@ -69,7 +69,7 @@
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2012年9月5日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Wonderful_Rush" title="wikilink">Wonderful Rush</a></strong></p></td>
+<td><p><strong><a href="../Page/Wonderful_Rush.md" title="wikilink">Wonderful Rush</a></strong></p></td>
 <td><p>CD+DVD<br />
 12cm</p></td>
 <td><p>LACM-4979</p></td>
@@ -346,7 +346,7 @@ CD（第1至4首為樂曲部份，第5首以後為廣播劇部份〔原案：[�
 <th><p>發售日</p></th>
 <th><p>標題</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/規格產品編號" title="wikilink">規格編號</a></p></th>
+<th><p><a href="../Page/規格產品編號.md" title="wikilink">規格編號</a></p></th>
 <th><p>Oricon周榜最高排名</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -379,7 +379,7 @@ LACM-14471</p></td>
 <tr class="odd">
 <td><p>3rd Single</p></td>
 <td><p>2017年4月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/HAPPY_PARTY_TRAIN" title="wikilink">HAPPY PARTY TRAIN</a></p></td>
+<td><p><a href="../Page/HAPPY_PARTY_TRAIN.md" title="wikilink">HAPPY PARTY TRAIN</a></p></td>
 <td><p>CD+BD<br />
 CD+DVD</p></td>
 <td><p>LACM-14590<br />
@@ -3328,18 +3328,18 @@ GREEN-FUND；歌：AZALEA（松浦果南（諏訪奈奈香）、黒澤黛雅（�
 
 ## 合作单曲
 
-| 發售日         | 標題                              | [規格編號](https://zh.wikipedia.org/wiki/規格產品編號 "wikilink") | Oricon周榜最高排名 | 合作项目                                                                               |
-| ----------- | ------------------------------- | ------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------- |
-| μ's         |                                 |                                                         |              |                                                                                    |
-| 2013年4月24日  | **天使たちの福音〜feat.μ's〈LoveLive！〉** | LACA-15293                                              | 61           | PS3遊戲「神様と運命革命のパラドクス」                                                               |
-| 2014年1月29日  | **／Paradise Live**              | LACM-14181                                              | 4            | 手機遊戲《[LoveLive\! 學園偶像祭](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像祭 "wikilink")》 |
-| 2014年10月1日  | **Shangri-La Shower**           | LACM-14260                                              | 5            | PSV遊戲「ラブライブ！ School idol paradise」                                                 |
-| 2015年4月22日  | ****                            | LACM-14341                                              | 連載企劃「」       |                                                                                    |
-| 2015年10月28日 | **HEART to HEART\!**            | LACM-14412                                              | 3            | 手機遊戲《LoveLive\! 學園偶像祭》                                                             |
-| Aqours      |                                 |                                                         |              |                                                                                    |
-| 2016年11月23日 | ****                            | LACM-14560                                              | 3            | 手機遊戲《LoveLive\! 學園偶像祭》                                                             |
-| 2017年6月30日  | '''Landing action Yeah          | '''                                                     | LACM-14600   | Aqours Next Step\! Project                                                         |
-|             |                                 |                                                         |              |                                                                                    |
+| 發售日         | 標題                              | [規格編號](../Page/規格產品編號.md "wikilink") | Oricon周榜最高排名 | 合作项目                                                            |
+| ----------- | ------------------------------- | ------------------------------------ | ------------ | --------------------------------------------------------------- |
+| μ's         |                                 |                                      |              |                                                                 |
+| 2013年4月24日  | **天使たちの福音〜feat.μ's〈LoveLive！〉** | LACA-15293                           | 61           | PS3遊戲「神様と運命革命のパラドクス」                                            |
+| 2014年1月29日  | **／Paradise Live**              | LACM-14181                           | 4            | 手機遊戲《[LoveLive\! 學園偶像祭](../Page/LoveLive!_學園偶像祭.md "wikilink")》 |
+| 2014年10月1日  | **Shangri-La Shower**           | LACM-14260                           | 5            | PSV遊戲「ラブライブ！ School idol paradise」                              |
+| 2015年4月22日  | ****                            | LACM-14341                           | 連載企劃「」       |                                                                 |
+| 2015年10月28日 | **HEART to HEART\!**            | LACM-14412                           | 3            | 手機遊戲《LoveLive\! 學園偶像祭》                                          |
+| Aqours      |                                 |                                      |              |                                                                 |
+| 2016年11月23日 | ****                            | LACM-14560                           | 3            | 手機遊戲《LoveLive\! 學園偶像祭》                                          |
+| 2017年6月30日  | '''Landing action Yeah          | '''                                  | LACM-14600   | Aqours Next Step\! Project                                      |
+|             |                                 |                                      |              |                                                                 |
 
 合作单曲一覽
 
@@ -3388,7 +3388,7 @@ GREEN-FUND；歌：AZALEA（松浦果南（諏訪奈奈香）、黒澤黛雅（�
 #### タカラモノズ／Paradise Live
 
 **《／Paradise Live》**於2014年1月29日發售，收錄了節奏動作向的手機遊戲《[LoveLive\!
-學園偶像祭](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像祭 "wikilink")》配信的原創音樂「」、「Paradise
+學園偶像祭](../Page/LoveLive!_學園偶像祭.md "wikilink")》配信的原創音樂「」、「Paradise
 Live」，由μ's演唱。
 
   - 收錄內容\[34\]

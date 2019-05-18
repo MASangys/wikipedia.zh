@@ -72,8 +72,7 @@ rain](https://zh.wikipedia.org/wiki/After_rain "wikilink")》是一首為了此�
 
 <!-- end list -->
 
-  - 《[AKB48
-    光榮時刻](https://zh.wikipedia.org/wiki/AKB48_光榮時刻 "wikilink")》（）：AKB48紀錄片系列的第四部
+  - 《[AKB48 光榮時刻](../Page/AKB48_光榮時刻.md "wikilink")》（）：AKB48紀錄片系列的第四部
 
 ## 外部連結
 

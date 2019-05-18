@@ -14,10 +14,10 @@ Jackdaw）以壯大船員隊伍。
 ### 登場人物
 
   -
-    主條目：[刺客教條系列角色列表](https://zh.wikipedia.org/wiki/刺客教條系列角色列表 "wikilink")
+    主條目：[刺客教條系列角色列表](../Page/刺客教條系列角色列表.md "wikilink")
 
 遊戲主角是愛德華·肯威（Edward
-Kenway，由[麥特·萊恩聲演和捕捉動作](https://zh.wikipedia.org/wiki/麥特·萊恩 "wikilink")）\[3\]，在成為刺客前乃一名[威爾斯海盜](https://zh.wikipedia.org/wiki/威爾斯 "wikilink")\[4\]。愛德華也是《[刺客教條III](https://zh.wikipedia.org/wiki/刺客教條III "wikilink")》兩名主角海爾森·肯威（Haytham
+Kenway，由[麥特·萊恩聲演和捕捉動作](../Page/麥特·萊恩.md "wikilink")）\[3\]，在成為刺客前乃一名[威爾斯海盜](https://zh.wikipedia.org/wiki/威爾斯 "wikilink")\[4\]。愛德華也是《[刺客教條III](https://zh.wikipedia.org/wiki/刺客教條III "wikilink")》兩名主角海爾森·肯威（Haytham
 Kenway）的父親以及拉頓哈给顿（Ratonhnhaké:ton）的祖父。
 
 ## 劇情
@@ -120,7 +120,7 @@ Pirates\!多於任何一款刺客教條系列作品\[105\]。評論對主角作�
 
 ## 軼事
 
-同樣由育碧軟件公司開發之2014電子遊戲《[看門狗](https://zh.wikipedia.org/wiki/看門狗_\(遊戲\) "wikilink")》曾在本遊戲中提及：玩家駭入之其中一台Abstergo電腦中，其中一封電郵之寄件者乃布盧姆（Blume）——《看門狗》中發明超級電腦「中央操作系統」（CtOS，Central
+同樣由育碧軟件公司開發之2014電子遊戲《[看門狗](../Page/看門狗_\(遊戲\).md "wikilink")》曾在本遊戲中提及：玩家駭入之其中一台Abstergo電腦中，其中一封電郵之寄件者乃布盧姆（Blume）——《看門狗》中發明超級電腦「中央操作系統」（CtOS，Central
 Operating
 System）並控制了[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[芝加哥市內每一件電子儀器之企業](../Page/芝加哥.md "wikilink")。電郵內寫道「布盧姆引導未來」（The
 Future Is In Blume）及「我們期待與你共事」（We look Forward To Working With

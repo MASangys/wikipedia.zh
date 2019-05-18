@@ -12,7 +12,7 @@ THROUGH](../Page/BREAK_THROUGH.md "wikilink")』為止，皆是單曲與專輯�
 關於B'z單曲CD的收錄曲，在4th單曲「[BE
 THERE](../Page/BE_THERE.md "wikilink")」以後，單曲曲目1表記為「1st
 beat」（First Beat）、曲目2表記為「2nd beat」（Second Beat）\[1\]。在31st單曲「[ultra
-soul](../Page/ultra_soul.md "wikilink")」以後，亦發售了收錄曲有3首以上的單曲，該情況下表記為「3rd
+soul](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")」以後，亦發售了收錄曲有3首以上的單曲，該情況下表記為「3rd
 beat」（Third beat）、「4th beat」、「5th beat」。雙A面單曲的情況，亦採用將曲目2表記為「2nd beat」。
 
 「2nd beat」及「3rd
@@ -21,7 +21,7 @@ SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")」發售同時，除了將�
 THERE」起至13th單曲「[裸足の女神](https://zh.wikipedia.org/wiki/裸足の女神 "wikilink")」為止的單曲10作品Maxi
 Single化重新發售以外，2017年亦發售了[Boxset](https://zh.wikipedia.org/wiki/Boxset "wikilink")『[B'z
 COMPLETE SINGLE
-BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因此歌曲已變得可能入手。
+BOX](../Page/B'z_COMPLETE_SINGLE_BOX.md "wikilink")』，因此歌曲已變得可能入手。
 
 ## 單曲
 
@@ -304,7 +304,7 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 <tr class="even">
 <td><p>17th</p></td>
 <td><p>1995年<a href="https://zh.wikipedia.org/wiki/7月7日" title="wikilink">7月7日</a></p></td>
-<td><p><strong><a href="../Page/love_me,_I_love_you.md" title="wikilink">love me, I love you</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/love_me,_I_love_you" title="wikilink">love me, I love you</a></strong></p></td>
 <td><p>8cmCD</p></td>
 <td><p>BMDR-1020</p></td>
 <td></td>
@@ -389,7 +389,7 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 <td><p><strong><a href="../Page/HOME_(B&#39;z單曲).md" title="wikilink">HOME</a></strong></p></td>
 <td><p>8cmCD</p></td>
 <td><p>BMDR-2017</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Ballads_〜Love_&amp;_B&#39;z〜" title="wikilink">The Ballads 〜Love &amp; B'z〜</a></p></td>
+<td><p><a href="../Page/The_Ballads_〜Love_&amp;_B&#39;z〜.md" title="wikilink">The Ballads 〜Love &amp; B'z〜</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -422,7 +422,7 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 <tr class="odd">
 <td><p>29th</p></td>
 <td><p>2000年<a href="https://zh.wikipedia.org/wiki/7月12日" title="wikilink">7月12日</a></p></td>
-<td><p><strong><a href="../Page/juice.md" title="wikilink">juice</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/juice" title="wikilink">juice</a></strong></p></td>
 <td><p>12cmCD</p></td>
 <td><p>BMCR-7043</p></td>
 <td></td>
@@ -440,7 +440,7 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 <tr class="odd">
 <td><p>31st</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/3月14日.md" title="wikilink">3月14日</a></p></td>
-<td><p><strong><a href="../Page/ultra_soul.md" title="wikilink">ultra soul</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/ultra_soul" title="wikilink">ultra soul</a></strong></p></td>
 <td><p>12cmCD</p></td>
 <td><p>BMCR-7048</p></td>
 <td><p><a href="../Page/GREEN_(B&#39;z專輯).md" title="wikilink">GREEN</a></p></td>
@@ -695,7 +695,7 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 <td><p><strong><a href="../Page/GO_FOR_IT,_BABY_-記憶的山脈-.md" title="wikilink">GO FOR IT, BABY -キオクの山脈-</a></strong></p></td>
 <td><p>12cmCD+DVD</p></td>
 <td><p>BMCV-4014（初回限定盤）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/B&#39;z_The_Best_XXV_1999-2012" title="wikilink">B'z The Best XXV 1999-2012</a></p></td>
+<td><p><a href="../Page/B&#39;z_The_Best_XXV_1999-2012.md" title="wikilink">B'z The Best XXV 1999-2012</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -710,10 +710,10 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 <tr class="odd">
 <td><p>51st</p></td>
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/1月14日.md" title="wikilink">1月14日</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/有頂天" title="wikilink">有頂天</a></strong></p></td>
+<td><p><strong><a href="../Page/有頂天.md" title="wikilink">有頂天</a></strong></p></td>
 <td><p>12cmCD+DVD</p></td>
 <td><p>BMCV-5020（初回限定盤）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/EPIC_DAY" title="wikilink">EPIC DAY</a></p></td>
+<td><p><a href="../Page/EPIC_DAY.md" title="wikilink">EPIC DAY</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -728,7 +728,7 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 <tr class="odd">
 <td><p>52nd</p></td>
 <td><p>2015年<a href="../Page/6月10日.md" title="wikilink">6月10日</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/RED" title="wikilink">RED</a></strong></p></td>
+<td><p><strong><a href="../Page/RED.md" title="wikilink">RED</a></strong></p></td>
 <td><p>12cmCD+DVD</p></td>
 <td><p>BMCV-5022（初回限定盤）</p></td>
 <td><p>未收錄於專輯</p></td>
@@ -758,7 +758,7 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/声明/Still_Alive" title="wikilink">-{声}-明／Still Alive</a></strong></p></td>
 <td><p>12cmCD+DVD</p></td>
 <td><p>BMCV-4020（初回限定盤）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/DINOSAUR" title="wikilink">DINOSAUR</a></p></td>
+<td><p><a href="../Page/DINOSAUR.md" title="wikilink">DINOSAUR</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -827,15 +827,15 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 | CD                                                                  | BMCV-8030（通常盤）                                                                                |                                                                                   |                                                            |                           |        |
 | 18th                                                                | [2011年](../Page/2011年.md "wikilink")[7月27日](https://zh.wikipedia.org/wiki/7月27日 "wikilink")   | **[C'mon](../Page/C'mon.md "wikilink")**                                          | CD+DVD                                                     | BMCV-8034（初回限定盤）          |        |
 | CD                                                                  | BMCV-8035（通常盤）                                                                                |                                                                                   |                                                            |                           |        |
-| 19th                                                                | [2015年](../Page/2015年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")                        | **[EPIC DAY](https://zh.wikipedia.org/wiki/EPIC_DAY "wikilink")**                 | CD+原創演唱會周邊                                                 | BMCV-8046（LIVE-GYM 2015盤） |        |
+| 19th                                                                | [2015年](../Page/2015年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")                        | **[EPIC DAY](../Page/EPIC_DAY.md "wikilink")**                                    | CD+原創演唱會周邊                                                 | BMCV-8046（LIVE-GYM 2015盤） |        |
 | CD+DVD                                                              | BMCV-8047（初回限定盤）                                                                              |                                                                                   |                                                            |                           |        |
 | [LP](../Page/黑膠唱片.md "wikilink")+封入下載卡片                             | BMJV-8048（黑膠唱片）                                                                               |                                                                                   |                                                            |                           |        |
 | CD                                                                  | BMCV-8048（通常盤）                                                                                |                                                                                   |                                                            |                           |        |
-| 20th                                                                | [2017年](../Page/2017年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")                    | **[DINOSAUR](https://zh.wikipedia.org/wiki/DINOSAUR "wikilink")**                 | CD+DVD                                                     | BMCV-8052（初回限定盤A）         |        |
+| 20th                                                                | [2017年](../Page/2017年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")                    | **[DINOSAUR](../Page/DINOSAUR.md "wikilink")**                                    | CD+DVD                                                     | BMCV-8052（初回限定盤A）         |        |
 |                                                                     |                                                                                               |                                                                                   |                                                            |                           |        |
 | CD+[Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink") | BMCV-8053（初回限定盤B）                                                                             |                                                                                   |                                                            |                           |        |
 | CD                                                                  | BMCV-8054（通常盤）                                                                                |                                                                                   |                                                            |                           |        |
-| 21st                                                                | [2019年](../Page/2019年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")                      | **[NEW LOVE](https://zh.wikipedia.org/wiki/NEW_LOVE "wikilink")**                 | CD+原創T恤                                                    | BMCV-8055（初回生產限定盤）        | TBA    |
+| 21st                                                                | [2019年](../Page/2019年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")                      | **[NEW LOVE](../Page/NEW_LOVE.md "wikilink")**                                    | CD+原創T恤                                                    | BMCV-8055（初回生產限定盤）        | TBA    |
 | CD                                                                  | BMCV-8056（通常盤）                                                                                |                                                                                   |                                                            |                           |        |
 | LP                                                                  | BMJV-8056（黑膠唱片）                                                                               |                                                                                   |                                                            |                           |        |
 
@@ -872,7 +872,7 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p><a href="../Page/1990年.md" title="wikilink">1990年</a><a href="../Page/6月21日.md" title="wikilink">6月21日</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/WICKED_BEAT" title="wikilink">WICKED BEAT</a></strong></p></td>
+<td><p><strong><a href="../Page/WICKED_BEAT.md" title="wikilink">WICKED BEAT</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>BVCR-9002</p></td>
 <td><p>第3位</p></td>
@@ -888,7 +888,7 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><a href="../Page/5月29日.md" title="wikilink">5月29日</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/MARS_(B&#39;z專輯)" title="wikilink">MARS</a></strong></p></td>
+<td><p><strong><a href="../Page/MARS_(B&#39;z專輯).md" title="wikilink">MARS</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>BVCR-9009</p></td>
 <td><p>第1位</p></td>
@@ -904,7 +904,7 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 <tr class="odd">
 <td><p>4th</p></td>
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><a href="../Page/12月9日.md" title="wikilink">12月9日</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/FRIENDS_(B&#39;z專輯)" title="wikilink">FRIENDS</a></strong></p></td>
+<td><p><strong><a href="../Page/FRIENDS_(B&#39;z專輯).md" title="wikilink">FRIENDS</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>BMCR-9015</p></td>
 <td></td>
@@ -912,7 +912,7 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 <tr class="even">
 <td><p>5th</p></td>
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a><a href="../Page/11月25日.md" title="wikilink">11月25日</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/FRIENDS_II" title="wikilink">FRIENDS II</a></strong></p></td>
+<td><p><strong><a href="../Page/FRIENDS_II.md" title="wikilink">FRIENDS II</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>BMCR-7011</p></td>
 <td></td>
@@ -922,22 +922,22 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 
 ### 精選輯
 
-|     | 發售日                                                                                                   | 標題                                                                                                    | 規格                                                   | 規格編號         | ORICON |
-| --- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------ | ------ |
-| 1st | [1998年](../Page/1998年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")                              | **[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")**                          | [CD](https://zh.wikipedia.org/wiki/CD-DA "wikilink") | BMCR-7024    | 第1位    |
-| 2nd | 1998年[9月20日](../Page/9月20日.md "wikilink")                                                             | **[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")**                          | CD                                                   | BMCR-7029    |        |
-| \-  | [2000年](../Page/2000年.md "wikilink")[2月23日](../Page/2月23日.md "wikilink")                              | **[B'z The "Mixture"](https://zh.wikipedia.org/wiki/B'z_The_"Mixture" "wikilink")**\[13\]             | CD                                                   | BVCR-14002   |        |
-| 3rd | [2002年](../Page/2002年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")                            | **[The Ballads 〜Love & B'z〜](https://zh.wikipedia.org/wiki/The_Ballads_〜Love_&_B'z〜 "wikilink")**     | CD                                                   | BMCV-8007    |        |
-| 4th | [2005年](../Page/2005年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")                            | **[B'z The Best "Pleasure II"](../Page/B'z_The_Best_"Pleasure_II".md "wikilink")**                    | CD                                                   | BMCV-8017    |        |
-| 5th | [2008年](../Page/2008年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")                              | **[B'z The Best "ULTRA Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")**              | 2CD+[DVD](../Page/DVD-Video.md "wikilink")           | BMCV-8020〜21 |        |
-| 2CD | BMCV-8022〜23                                                                                          |                                                                                                       |                                                      |              |        |
-| 6th | 2008年[9月17日](../Page/9月17日.md "wikilink")                                                             | **[B'z The Best "ULTRA Treasure"](../Page/B'z_The_Best_"ULTRA_Treasure".md "wikilink")**              | 2CD+DVD                                              | BMCV-8024〜25 |        |
-| 3CD | BMCV-8026〜28                                                                                          |                                                                                                       |                                                      |              |        |
-| 7th | [2013年](../Page/2013年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink")                              | **[B'z The Best XXV 1988-1998](https://zh.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")** | 2CD+DVD                                              | BMCV-8036〜37 |        |
-| 2CD | BMCV-8038〜39                                                                                          |                                                                                                       |                                                      |              |        |
-| 8th | **[B'z The Best XXV 1999-2012](https://zh.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")** | 2CD+DVD                                                                                               | BMCV-8040〜41                                         | 第2位          |        |
-| 2CD | BMCV-8042〜43                                                                                          |                                                                                                       |                                                      |              |        |
-|     |                                                                                                       |                                                                                                       |                                                      |              |        |
+|     | 發售日                                                                                | 標題                                                                                        | 規格                                                   | 規格編號         | ORICON |
+| --- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------ | ------ |
+| 1st | [1998年](../Page/1998年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")           | **[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")**              | [CD](https://zh.wikipedia.org/wiki/CD-DA "wikilink") | BMCR-7024    | 第1位    |
+| 2nd | 1998年[9月20日](../Page/9月20日.md "wikilink")                                          | **[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")**              | CD                                                   | BMCR-7029    |        |
+| \-  | [2000年](../Page/2000年.md "wikilink")[2月23日](../Page/2月23日.md "wikilink")           | **[B'z The "Mixture"](https://zh.wikipedia.org/wiki/B'z_The_"Mixture" "wikilink")**\[13\] | CD                                                   | BVCR-14002   |        |
+| 3rd | [2002年](../Page/2002年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")         | **[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")**            | CD                                                   | BMCV-8007    |        |
+| 4th | [2005年](../Page/2005年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")         | **[B'z The Best "Pleasure II"](../Page/B'z_The_Best_"Pleasure_II".md "wikilink")**        | CD                                                   | BMCV-8017    |        |
+| 5th | [2008年](../Page/2008年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")           | **[B'z The Best "ULTRA Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")**  | 2CD+[DVD](../Page/DVD-Video.md "wikilink")           | BMCV-8020〜21 |        |
+| 2CD | BMCV-8022〜23                                                                       |                                                                                           |                                                      |              |        |
+| 6th | 2008年[9月17日](../Page/9月17日.md "wikilink")                                          | **[B'z The Best "ULTRA Treasure"](../Page/B'z_The_Best_"ULTRA_Treasure".md "wikilink")**  | 2CD+DVD                                              | BMCV-8024〜25 |        |
+| 3CD | BMCV-8026〜28                                                                       |                                                                                           |                                                      |              |        |
+| 7th | [2013年](../Page/2013年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink")           | **[B'z The Best XXV 1988-1998](../Page/B'z_The_Best_XXV_1988-1998.md "wikilink")**        | 2CD+DVD                                              | BMCV-8036〜37 |        |
+| 2CD | BMCV-8038〜39                                                                       |                                                                                           |                                                      |              |        |
+| 8th | **[B'z The Best XXV 1999-2012](../Page/B'z_The_Best_XXV_1999-2012.md "wikilink")** | 2CD+DVD                                                                                   | BMCV-8040〜41                                         | 第2位          |        |
+| 2CD | BMCV-8042〜43                                                                       |                                                                                           |                                                      |              |        |
+|     |                                                                                    |                                                                                           |                                                      |              |        |
 
 #### 非官方精選輯
 
@@ -963,11 +963,11 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 
 #### Boxset
 
-| 上架開始日・發售日                                                                | 標題                                                                                              | 規格                                                                                             | 備考・規格編號                                                                                    |
-| ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [2005年](../Page/2005年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")   | **[The Complete B'z](https://zh.wikipedia.org/wiki/The_Complete_B'z "wikilink")**               | [數位下載](../Page/數位音樂下載.md "wikilink")                                                           | 在[iTunes Music Store上的限定上架](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")（現已停止上架） |
-| [2017年](../Page/2017年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink") | **[B'z COMPLETE SINGLE BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")** | 53[CD](https://zh.wikipedia.org/wiki/CD-DA "wikilink")+2[DVD](../Page/DVD-Video.md "wikilink") | BMCD-8001【Black Edition】                                                                   |
-| 2017年12月                                                                 | BMCD-8002【Trailer Edition】（[7-Eleven限定完全預約接單生産](../Page/7-Eleven.md "wikilink")）                |                                                                                                |                                                                                            |
+| 上架開始日・發售日                                                                | 標題                                                                                | 規格                                                                                             | 備考・規格編號                                                                                    |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [2005年](../Page/2005年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")   | **[The Complete B'z](https://zh.wikipedia.org/wiki/The_Complete_B'z "wikilink")** | [數位下載](../Page/數位音樂下載.md "wikilink")                                                           | 在[iTunes Music Store上的限定上架](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")（現已停止上架） |
+| [2017年](../Page/2017年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink") | **[B'z COMPLETE SINGLE BOX](../Page/B'z_COMPLETE_SINGLE_BOX.md "wikilink")**      | 53[CD](https://zh.wikipedia.org/wiki/CD-DA "wikilink")+2[DVD](../Page/DVD-Video.md "wikilink") | BMCD-8001【Black Edition】                                                                   |
+| 2017年12月                                                                 | BMCD-8002【Trailer Edition】（[7-Eleven限定完全預約接單生産](../Page/7-Eleven.md "wikilink")）  |                                                                                                |                                                                                            |
 
 ## 影像作品
 
@@ -1176,7 +1176,7 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 <tr class="even">
 <td><p>-</p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/5月30日.md" title="wikilink">5月30日</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/B&#39;z_LIVE-GYM_2011_-C&#39;mon-" title="wikilink">B'z LIVE-GYM 2011 -C'mon-</a></strong></p></td>
+<td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_2011_-C&#39;mon-.md" title="wikilink">B'z LIVE-GYM 2011 -C'mon-</a></strong></p></td>
 <td><p>DVD</p></td>
 <td><p>BMBV-5013〜5014</p></td>
 </tr>
@@ -1211,14 +1211,14 @@ BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，因�
 <tr class="odd">
 <td><p>-</p></td>
 <td><p>2013年<a href="../Page/3月27日.md" title="wikilink">3月27日</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/B&#39;z_LIVE-GYM_2001_-ELEVEN-" title="wikilink">B'z LIVE-GYM 2001 -ELEVEN-</a></strong></p></td>
+<td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_2001_-ELEVEN-.md" title="wikilink">B'z LIVE-GYM 2001 -ELEVEN-</a></strong></p></td>
 <td><p>DVD</p></td>
 <td><p>BMBV-5019〜5020</p></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/1月29日.md" title="wikilink">1月29日</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/B&#39;z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST-" title="wikilink">B'z LIVE-GYM Pleasure 2013 ENDLESS SUMMER -XXV BEST-</a></strong></p></td>
+<td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST-.md" title="wikilink">B'z LIVE-GYM Pleasure 2013 ENDLESS SUMMER -XXV BEST-</a></strong></p></td>
 <td><p>DVD</p></td>
 <td><p>BMBV-5021〜5024（完全盤）<br />
 BMBV-5025〜5026（通常盤）</p></td>
@@ -1234,7 +1234,7 @@ BMXV-5025（通常盤）</p></td>
 <tr class="even">
 <td><p>-</p></td>
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/2月24日.md" title="wikilink">2月24日</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/B&#39;z_LIVE-GYM_2015_-EPIC_NIGHT-" title="wikilink">B'z LIVE-GYM 2015 -EPIC NIGHT-</a></strong></p></td>
+<td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_2015_-EPIC_NIGHT-.md" title="wikilink">B'z LIVE-GYM 2015 -EPIC NIGHT-</a></strong></p></td>
 <td><p>DVD</p></td>
 <td><p>BMBV-5029〜5030</p></td>
 </tr>
@@ -1248,7 +1248,7 @@ BMXV-5025（通常盤）</p></td>
 <tr class="even">
 <td><p>-</p></td>
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/7月4日.md" title="wikilink">7月4日</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/B&#39;z_LIVE-GYM_2017-2018_&quot;LIVE_DINOSAUR&quot;" title="wikilink">B'z LIVE-GYM 2017-2018 "LIVE DINOSAUR"</a></strong></p></td>
+<td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_2017-2018_&quot;LIVE_DINOSAUR&quot;.md" title="wikilink">B'z LIVE-GYM 2017-2018 "LIVE DINOSAUR"</a></strong></p></td>
 <td><p>DVD</p></td>
 <td><p>BMBV-5033〜5034</p></td>
 </tr>
@@ -1262,7 +1262,7 @@ BMXV-5025（通常盤）</p></td>
 <tr class="even">
 <td><p>-</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/3月13日.md" title="wikilink">3月13日</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/B&#39;z_LIVE-GYM_Pleasure_2018_-HINOTORI-" title="wikilink"><strong>B'z LIVE-GYM Pleasure 2018 -HINOTORI-</strong></a></p></td>
+<td><p><a href="../Page/B&#39;z_LIVE-GYM_Pleasure_2018_-HINOTORI-.md" title="wikilink"><strong>B'z LIVE-GYM Pleasure 2018 -HINOTORI-</strong></a></p></td>
 <td><p>DVD＋<a href="https://zh.wikipedia.org/wiki/Compact_Disc" title="wikilink">CD</a>[14]</p></td>
 <td><p>BMBV-5035～5037</p></td>
 </tr>
@@ -1322,7 +1322,7 @@ BMXV-5025（通常盤）</p></td>
 <td><p><strong></strong></p></td>
 <td><p>「HEAT」</p></td>
 <td></td>
-<td><p>作為B'z首次的樂曲提供，為<a href="../Page/金賢重.md" title="wikilink">金賢重全新創作的歌曲</a>，稻葉亦參加了<a href="../Page/和聲歌手.md" title="wikilink">和聲</a>、松本亦參加了<a href="../Page/吉他.md" title="wikilink">吉他</a>[18]。在2013年發售的精選輯『<a href="https://zh.wikipedia.org/wiki/B&#39;z_The_Best_XXV_1988-1998" title="wikilink">B'z The Best XXV 1988-1998</a>』中，收錄了自我翻唱版。</p></td>
+<td><p>作為B'z首次的樂曲提供，為<a href="../Page/金賢重.md" title="wikilink">金賢重全新創作的歌曲</a>，稻葉亦參加了<a href="../Page/和聲歌手.md" title="wikilink">和聲</a>、松本亦參加了<a href="../Page/吉他.md" title="wikilink">吉他</a>[18]。在2013年發售的精選輯『<a href="../Page/B&#39;z_The_Best_XXV_1988-1998.md" title="wikilink">B'z The Best XXV 1988-1998</a>』中，收錄了自我翻唱版。</p></td>
 </tr>
 <tr class="even">
 <td><p>CD+DVD（初回限定盤B）</p></td>
@@ -1414,7 +1414,7 @@ BMXV-5025（通常盤）</p></td>
 <tr class="odd">
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/9月29日.md" title="wikilink">9月29日</a></p></td>
 <td><p><strong>すぽると! MEMORIAL 〜Sweat and Tears〜</strong></p></td>
-<td><p>「<a href="../Page/ultra_soul.md" title="wikilink">ROCK man</a>」</p></td>
+<td><p>「<a href="https://zh.wikipedia.org/wiki/ultra_soul" title="wikilink">ROCK man</a>」</p></td>
 <td><p>CD</p></td>
 <td><p>富士電視台系『』主題歌集。</p></td>
 </tr>
@@ -1433,7 +1433,7 @@ BMXV-5025（通常盤）</p></td>
 「<a href="https://zh.wikipedia.org/wiki/裸足の女神" title="wikilink">裸足の女神</a>」<br />
 </p></td>
 <td><p>4CD</p></td>
-<td><p>Being<a href="https://zh.wikipedia.org/wiki/郵購買賣" title="wikilink">郵購限定</a><a href="https://zh.wikipedia.org/wiki/合輯" title="wikilink">合輯</a>。</p></td>
+<td><p>Being<a href="../Page/郵購買賣.md" title="wikilink">郵購限定</a><a href="https://zh.wikipedia.org/wiki/合輯" title="wikilink">合輯</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/12月13日.md" title="wikilink">12月13日</a></p></td>
@@ -1455,7 +1455,7 @@ BMXV-5025（通常盤）</p></td>
 <tr class="even">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a>12月</p></td>
 <td><p><strong></strong></p></td>
-<td><p>「<a href="../Page/ultra_soul.md" title="wikilink">ultra soul</a>」<br />
+<td><p>「<a href="https://zh.wikipedia.org/wiki/ultra_soul" title="wikilink">ultra soul</a>」<br />
 「ギリギリchop」<br />
 「<a href="../Page/Calling_(B&#39;z單曲).md" title="wikilink">Calling</a>」<br />
 「<a href="../Page/OCEAN_(B&#39;z單曲).md" title="wikilink">OCEAN</a>」</p></td>
@@ -1479,7 +1479,7 @@ BMXV-5025（通常盤）</p></td>
 <tr class="odd">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/10月22日.md" title="wikilink">10月22日</a></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_5_～名偵探柯南_主題曲集5～" title="wikilink">THE BEST OF DETECTIVE CONAN 5 〜名探偵コナン テーマ曲集5〜</a></strong></p></td>
-<td><p>「<a href="https://zh.wikipedia.org/wiki/B&#39;z_The_Best_XXV_1999-2012" title="wikilink">Q&amp;A</a>」<br />
+<td><p>「<a href="../Page/B&#39;z_The_Best_XXV_1999-2012.md" title="wikilink">Q&amp;A</a>」<br />
 「<a href="../Page/C&#39;mon.md" title="wikilink">ピルグリム</a>」</p></td>
 <td><p>CD+DVD（初回限定盤）</p></td>
 <td><p>動畫『名偵探柯南』主題曲集。</p></td>
@@ -1733,7 +1733,7 @@ BMXV-5025（通常盤）</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
 <td><p><strong>RISKY 〜 Brotherhood</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/CD-DA" title="wikilink">CD</a></p></td>
-<td><p>伴隨著在臺灣與香港舉辦「<a href="https://zh.wikipedia.org/wiki/LIVE-GYM" title="wikilink">LIVE-GYM</a>」成為了B'z首次的海外公演，<a href="../Page/VERMILLION_RECORDS.md" title="wikilink">Rooms RECORDS與當地唱片公司合作</a>，在日本國內已發售的原創專輯7作中，追加演唱會音源各2曲作為Bonus Track發售。此外，在當時的最新專輯『<a href="../Page/ELEVEN.md" title="wikilink">ELEVEN</a>』中，無收錄Bonus Track。</p></td>
+<td><p>伴隨著在臺灣與香港舉辦「<a href="../Page/LIVE-GYM.md" title="wikilink">LIVE-GYM</a>」成為了B'z首次的海外公演，<a href="../Page/VERMILLION_RECORDS.md" title="wikilink">Rooms RECORDS與當地唱片公司合作</a>，在日本國內已發售的原創專輯7作中，追加演唱會音源各2曲作為Bonus Track發售。此外，在當時的最新專輯『<a href="../Page/ELEVEN.md" title="wikilink">ELEVEN</a>』中，無收錄Bonus Track。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1772,8 +1772,7 @@ BMXV-5025（通常盤）</p></td>
 
 ### 紀念品
 
-給官方粉絲俱樂部「[B'z
-Party](https://zh.wikipedia.org/wiki/B'z_Party "wikilink")」會員的贈呈紀念品。
+給官方粉絲俱樂部「[B'z Party](../Page/B'z_Party.md "wikilink")」會員的贈呈紀念品。
 
 | 贈呈時期    | 標題                                                       | 規格                                                  |
 | ------- | -------------------------------------------------------- | --------------------------------------------------- |

@@ -9,8 +9,8 @@ RPG-27是由[前苏联國家研究和生產企業](../Page/苏联.md "wikilink")
 
 ## 設計細節
 
-[Tula_State_Museum_of_Weapons_(79-58).jpg](https://zh.wikipedia.org/wiki/File:Tula_State_Museum_of_Weapons_\(79-58\).jpg "fig:Tula_State_Museum_of_Weapons_(79-58).jpg")、[RPG-26](../Page/RPG-26.md "wikilink")、RPG-27、[RPG-29和](../Page/RPG-29.md "wikilink")[RPO-A大黃蜂火箭筒](https://zh.wikipedia.org/wiki/RPO-A大黃蜂火箭筒 "wikilink")。\]\]
-RPG-27與RPG-26相同的是在於採用單筒式結構，發射筒兼作包裝筒，一次性使用（實際上與[AT4有些類似](../Page/AT4反坦克火箭筒.md "wikilink")）。發射筒由平紋玻璃纖維布浸塗樹酯卷製而成，兩端和中部有鋁製加強圈，上面裝有與RPG-22、RPG-26相同的簡易折疊式[機械瞄具和發射](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")、擊發機構，右側有背帶環和背帶組件。出廠時，發射筒預先裝好火箭彈，兩端使用橡膠盂密封，並且由[钢圈所固定](../Page/钢.md "wikilink")。發射、擊發機構由按鈕式扳機、扳機彈簧、擊發桿、擊發桿簧、導管、擊針組件等組成。平時後瞄準具П形板將扳機掩蓋起來，與帶拉環的橫向保險銷一起，作為貯存、運輸和攜行過程中的雙保險裝置，以確保使用安全。發射時，扣住拉環，撥出保險銷，豎起後瞄準具П型板，則擊發桿簧處於壓縮狀態，按壓扳機，即可射擊。只需6秒就能從攜行模式轉換到戰鬥模式。
+[Tula_State_Museum_of_Weapons_(79-58).jpg](https://zh.wikipedia.org/wiki/File:Tula_State_Museum_of_Weapons_\(79-58\).jpg "fig:Tula_State_Museum_of_Weapons_(79-58).jpg")、[RPG-26](../Page/RPG-26.md "wikilink")、RPG-27、[RPG-29和](../Page/RPG-29.md "wikilink")[RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")。\]\]
+RPG-27與RPG-26相同的是在於採用單筒式結構，發射筒兼作包裝筒，一次性使用（實際上與[AT4有些類似](../Page/AT4反坦克火箭筒.md "wikilink")）。發射筒由平紋玻璃纖維布浸塗樹酯卷製而成，兩端和中部有鋁製加強圈，上面裝有與RPG-22、RPG-26相同的簡易折疊式[機械瞄具和發射](../Page/機械瞄具.md "wikilink")、擊發機構，右側有背帶環和背帶組件。出廠時，發射筒預先裝好火箭彈，兩端使用橡膠盂密封，並且由[钢圈所固定](../Page/钢.md "wikilink")。發射、擊發機構由按鈕式扳機、扳機彈簧、擊發桿、擊發桿簧、導管、擊針組件等組成。平時後瞄準具П形板將扳機掩蓋起來，與帶拉環的橫向保險銷一起，作為貯存、運輸和攜行過程中的雙保險裝置，以確保使用安全。發射時，扣住拉環，撥出保險銷，豎起後瞄準具П型板，則擊發桿簧處於壓縮狀態，按壓扳機，即可射擊。只需6秒就能從攜行模式轉換到戰鬥模式。
 
 RPG-27發射​​PG-27（）105毫米火箭彈，以同期研製的為基礎，其[彈頭為](../Page/彈頭.md "wikilink")[锥形装药](https://zh.wikipedia.org/wiki/锥形装药 "wikilink")[反戰車高爆彈頭](../Page/高爆反坦克彈.md "wikilink")（，簡稱：HEAT），可以將主戰坦克本身的裝甲連[爆炸反應裝甲](https://zh.wikipedia.org/wiki/装甲#反應裝甲 "wikilink")（，簡稱：ERA）或是坦克的履帶側裙一併一擊貫穿。它可以在200公尺（218.72碼，656.17英尺）以內一擊貫穿大約600毫米的傳統[軋壓均質裝甲連](../Page/軋壓均質裝甲.md "wikilink")[爆炸反應裝甲](../Page/反应装甲.md "wikilink")（無爆炸反應裝甲則增至750毫米），1.5公尺的[磚牆或是](../Page/磚.md "wikilink")3.7米公尺的[钢筋混凝土牆](../Page/钢筋混凝土.md "wikilink")，比起破壞力不足以對付現代[裝甲車輛的PG](../Page/装甲车.md "wikilink")-18和PG-22具有更大威力。\[4\]
 
@@ -52,14 +52,14 @@ RPG-27還有一種衍生型名為RShG-1，改用[燃料空氣炸彈裝藥](../Pa
 
       - [RPG-26](../Page/RPG-26.md "wikilink")
 
-      - [RPG-28](https://zh.wikipedia.org/wiki/RPG-28 "wikilink")
+      - [RPG-28](../Page/RPG-28.md "wikilink")
 
       - [RPG-29](../Page/RPG-29.md "wikilink")
 
-      - [RPG-30](https://zh.wikipedia.org/wiki/RPG-30 "wikilink")
+      - [RPG-30](../Page/RPG-30.md "wikilink")
 
       - [RPG-32](../Page/RPG-32.md "wikilink")
-  - [RPO-A大黃蜂火箭筒](https://zh.wikipedia.org/wiki/RPO-A大黃蜂火箭筒 "wikilink")
+  - [RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")
   - [M72 LAW](../Page/M72輕型反裝甲武器.md "wikilink")
   - [AT4](../Page/AT4反坦克火箭筒.md "wikilink")
   - [MATADOR](../Page/鬥牛士火箭筒.md "wikilink")

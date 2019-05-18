@@ -1,5 +1,5 @@
 《**Pretty
-Girl**》是[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KARA的第](../Page/KARA.md "wikilink")2張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2008年12月4日發行。唱片公司為DSP
+Girl**》是[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")2張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2008年12月4日發行。唱片公司為DSP
 Media。
 
 ## 收錄內容

@@ -6,7 +6,8 @@ RECORDS發售](https://zh.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
 ### 初回盤A
 
 1.  **光**
-      - 作詞・作曲：[DAIGO](../Page/DAIGO.md "wikilink") / 編曲：BREAKERZ
+      - 作詞・作曲：[DAIGO](https://zh.wikipedia.org/wiki/DAIGO "wikilink") /
+        編曲：BREAKERZ
     <!-- end list -->
       -
         [讀賣電視台制作](../Page/讀賣電視台.md "wikilink")・[日本電視台系動畫](../Page/日本電視台.md "wikilink")《[名偵探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")》片尾曲。

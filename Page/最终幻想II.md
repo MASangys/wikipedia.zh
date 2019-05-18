@@ -1,7 +1,7 @@
-是由[史克威爾開發](../Page/史克威爾.md "wikilink")，並於1988年在[任天堂](../Page/任天堂.md "wikilink")[FC遊戲機平臺發行的奇幻](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")[電子角色扮演遊戲](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")，遊戲是[最終幻想系列的第二部作品](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")。遊戲於後來多次[重製](https://zh.wikipedia.org/wiki/電子遊戲重製 "wikilink")，重製平臺包括[WonderSwan
+是由[史克威爾開發](../Page/史克威爾.md "wikilink")，並於1988年在[任天堂](../Page/任天堂.md "wikilink")[FC遊戲機平臺發行的奇幻](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，遊戲是[最終幻想系列的第二部作品](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")。遊戲於後來多次[重製](https://zh.wikipedia.org/wiki/電子遊戲重製 "wikilink")，重製平臺包括[WonderSwan
 Color](../Page/WonderSwan_Color.md "wikilink")、[索尼](../Page/索尼.md "wikilink")[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")、[Game
 Boy Color](../Page/Game_Boy_Color.md "wikilink")、[PlayStation
-Portable以及多個行動電話與智慧型手機](../Page/PlayStation_Portable.md "wikilink")。由於《最終幻想II》和《[最終幻想III](https://zh.wikipedia.org/wiki/最終幻想III "wikilink")》都沒有在日本以外首發，為避免北美玩家困惑，《[最終幻想IV](../Page/最終幻想IV.md "wikilink")》在北美發售時以“最終幻想II”為題。遊戲最新的重製版是[iOS和](../Page/iOS.md "wikilink")[Android版](../Page/Android.md "wikilink")，其分別於2010年和2012年在全球發行。
+Portable以及多個行動電話與智慧型手機](../Page/PlayStation_Portable.md "wikilink")。由於《最終幻想II》和《[最終幻想III](https://zh.wikipedia.org/wiki/最終幻想III "wikilink")》都沒有在日本以外首發，為避免北美玩家困惑，《[最終幻想IV](../Page/最終幻想IV.md "wikilink")》在北美發售時以“最終幻想II”為題。遊戲最新的重製版是[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android版](../Page/Android.md "wikilink")，其分別於2010年和2012年在全球發行。
 
 遊戲故事圍繞著四個父母被帕拉美琪亞帝國軍隊殺害的年輕人的故事。四人中的三人加入了帝國反抗軍，完成任務來獲得新魔法和武器、毀壞敵人的超級武器、並營救領導者。在擊敗了帝國和皇帝後，三人組找到了成為黑騎士的第四個年輕人，他取代了之前的皇帝並準備攻擊反抗軍。在與他對峙時，重生成為惡魔的皇帝出現，並準備毀滅世界。然而四名主角決定合力消滅他，並最終在他的魔法城堡中消滅了他。Game
 Boy Color版在遊戲完成後增加了劇情，講述了幾個在遊戲中犧牲的配角打敗互生皇帝的故事。
@@ -23,7 +23,7 @@ Boy Color版在遊戲完成後增加了劇情，講述了幾個在遊戲中犧�
 雖然《最終幻想》更多聚焦於遊戲系統，但[坂口博信决定第二作更多强调于角色发展](../Page/坂口博信.md "wikilink")。為了讓角色感覺更像現實中的人類，能讓玩家體驗到悲傷或開心這類情感\[13\]。《最終幻想II》還讓玩家角色在正常劇情中死亡。音樂作曲者[植松伸夫最初反對創造這種死亡場景](../Page/植松伸夫.md "wikilink")，但最終同意了坂口的观点。在游戏系统上，当客串角色在剧本中死亡时，玩家将无法复活他们或收回其装备武器\[14\]。
 
 菲利奥尼尔和（在寺田憲史的小說中名為）是系列角色跨界格鬥遊戲《[最終幻想
-紛爭](https://zh.wikipedia.org/wiki/最終幻想_紛爭 "wikilink")》中《最終幻想II》的主人公和反派，菲利奥尼尔被設定為能操縱多把武器的熱血漢（原作藝術畫概念）。菲利奧尼爾日版由[綠川光配音](../Page/綠川光.md "wikilink")，英文版由[约翰尼·扬·博施配音](https://zh.wikipedia.org/wiki/约翰尼·扬·博施 "wikilink")；馬提烏斯日版由[堀内贤雄配音](https://zh.wikipedia.org/wiki/堀内贤雄 "wikilink")，英文版由克里斯托弗·科里·史密斯配音。在《最終幻想II》PlayStation版開場FMV（全动态视频）中，菲利奧尼爾由[小尾元政配音](../Page/小尾元政.md "wikilink")，瑪莉亞由[下屋則子配音](../Page/下屋則子.md "wikilink")，蓋由[三宅健太配音](../Page/三宅健太.md "wikilink")，萊恩哈特由[山口隆行配音](https://zh.wikipedia.org/wiki/山口隆行 "wikilink")。
+紛爭](https://zh.wikipedia.org/wiki/最終幻想_紛爭 "wikilink")》中《最終幻想II》的主人公和反派，菲利奥尼尔被設定為能操縱多把武器的熱血漢（原作藝術畫概念）。菲利奧尼爾日版由[綠川光配音](../Page/綠川光.md "wikilink")，英文版由[约翰尼·扬·博施配音](https://zh.wikipedia.org/wiki/约翰尼·扬·博施 "wikilink")；馬提烏斯日版由[堀内贤雄配音](https://zh.wikipedia.org/wiki/堀内贤雄 "wikilink")，英文版由克里斯托弗·科里·史密斯配音。在《最終幻想II》PlayStation版開場FMV（全动态视频）中，菲利奧尼爾由[小尾元政配音](../Page/小尾元政.md "wikilink")，瑪莉亞由[下屋則子配音](../Page/下屋則子.md "wikilink")，蓋由[三宅健太配音](../Page/三宅健太.md "wikilink")，萊恩哈特由[山口隆行配音](../Page/山口隆行.md "wikilink")。
 
 ### 劇情
 
@@ -41,14 +41,14 @@ Advance》中新增了一個稱作“靈魂重生”的通關後任務。新增�
 ## 開發
 
 在系列首作《Final
-Fantasy》面世前，[史克威爾決定相信有發展續作的可能性](../Page/史克威爾.md "wikilink")，於首發即出貨了40万份遊戲\[15\]，而最初的FC版本更進一步超過預期，首作累計在日本出貨了52萬份\[16\]。在成功開啟續作《最終幻想II》開發時，由於初始就沒有固定的理念，因而其最終決定不使用前作的角色與地點，而是從一個新方向展開\[17\]\[18\]。系列首作的主[策劃](https://zh.wikipedia.org/wiki/遊戲設計 "wikilink")[坂口博信為調節較大的開發團隊而一人擔當](../Page/坂口博信.md "wikilink")[總監](https://zh.wikipedia.org/wiki/電子遊戲製作人 "wikilink")\[19\]。開發者使用了第一作獲得的經驗，即更注重將故事創意融于新的遊戲系統與遊戲世界，因而他們首先全面創作了《最終幻想II》的情節，遊戲系統則圍繞著情節構建\[20\]。較之於第一部遊戲，經驗值系統在本作中改為更接近現實的成長系統。前作的一些開發人員在《最終幻想II》中擔任相同的工作。作品情節再次由坂口創作，具體的劇本則由寺田憲史編寫\[21\]\[22\]。[植松伸夫和前作一樣譜寫音樂](../Page/植松伸夫.md "wikilink")，[天野喜孝再次擔當藝術概念設計](../Page/天野喜孝.md "wikilink")\[23\]。和前作相同，[納賽爾·吉貝利負責編程](https://zh.wikipedia.org/wiki/納賽爾·吉貝利 "wikilink")\[24\]。在遊戲開發中，吉貝利由於工作簽證期滿而不得不從日本回到美國[加利福尼亞](https://zh.wikipedia.org/wiki/加利福尼亞 "wikilink")[萨克拉门托](https://zh.wikipedia.org/wiki/萨克拉门托 "wikilink")。其余的开发人员帶著必要的材料與設備，随他到萨克拉门托完成遊戲製作\[25\]。遊戲在首作發佈之後不到一年便發行了\[26\]。
+Fantasy》面世前，[史克威爾決定相信有發展續作的可能性](../Page/史克威爾.md "wikilink")，於首發即出貨了40万份遊戲\[15\]，而最初的FC版本更進一步超過預期，首作累計在日本出貨了52萬份\[16\]。在成功開啟續作《最終幻想II》開發時，由於初始就沒有固定的理念，因而其最終決定不使用前作的角色與地點，而是從一個新方向展開\[17\]\[18\]。系列首作的主[策劃](https://zh.wikipedia.org/wiki/遊戲設計 "wikilink")[坂口博信為調節較大的開發團隊而一人擔當](../Page/坂口博信.md "wikilink")[總監](../Page/電子遊戲製作人.md "wikilink")\[19\]。開發者使用了第一作獲得的經驗，即更注重將故事創意融于新的遊戲系統與遊戲世界，因而他們首先全面創作了《最終幻想II》的情節，遊戲系統則圍繞著情節構建\[20\]。較之於第一部遊戲，經驗值系統在本作中改為更接近現實的成長系統。前作的一些開發人員在《最終幻想II》中擔任相同的工作。作品情節再次由坂口創作，具體的劇本則由寺田憲史編寫\[21\]\[22\]。[植松伸夫和前作一樣譜寫音樂](../Page/植松伸夫.md "wikilink")，[天野喜孝再次擔當藝術概念設計](../Page/天野喜孝.md "wikilink")\[23\]。和前作相同，[納賽爾·吉貝利負責編程](https://zh.wikipedia.org/wiki/納賽爾·吉貝利 "wikilink")\[24\]。在遊戲開發中，吉貝利由於工作簽證期滿而不得不從日本回到美國[加利福尼亞](https://zh.wikipedia.org/wiki/加利福尼亞 "wikilink")[萨克拉门托](https://zh.wikipedia.org/wiki/萨克拉门托 "wikilink")。其余的开发人员帶著必要的材料與設備，随他到萨克拉门托完成遊戲製作\[25\]。遊戲在首作發佈之後不到一年便發行了\[26\]。
 
 遊戲由劇本作者寺田憲史改編為小說《最終幻想2
 夢魔的迷宮》，天野喜孝插畫，小說于1989年4月由[角川書店在日本發行](../Page/角川書店.md "wikilink")\[27\]。
 
 ## 音樂
 
-[《最終幻想II》的音樂後來由](https://zh.wikipedia.org/wiki/最終幻想I和II的音樂 "wikilink")[關戶剛為WonderSwan](https://zh.wikipedia.org/wiki/關戶剛 "wikilink")
+[《最終幻想II》的音樂後來由](../Page/最終幻想I和II的音樂.md "wikilink")[關戶剛為WonderSwan](../Page/關戶剛.md "wikilink")
 Color、PlayStation和Game Boy
 Color重製版而重新編曲。雖然《最終幻想II》的音樂和《最終幻想》音樂是分別譜寫的，但二者經常打包收錄於一張專輯中。首張專輯《最終幻想I·II全音樂》與1989年發行，後於1994年再版\[28\]。兩個原聲的重編專輯《交響組曲最終幻想》也於1989年發行。PlayStation版遊戲的音樂合輯《最終幻想&最終幻想II原聲專輯》與2002年發行，並於2004年再版\[29\]\[30\]。《最終幻想II》的音樂還在各種官方音樂會與現場專輯中出現，如管絃音樂會現場專輯《20020220
 最終幻想音樂會》，其中選取了包括本作在內系列各遊戲的音樂\[31\]。此外，[皇家斯德哥爾摩交響管絃樂團在巡迴音樂會](https://zh.wikipedia.org/wiki/皇家斯德哥爾摩交響管絃樂團 "wikilink")《Distant
@@ -68,7 +68,7 @@ Portable版](../Page/PlayStation_Portable.md "wikilink")，2009年6月16日在�
 [Virtual Console版](../Page/Virtual_Console.md "wikilink")\[34\]。
 
 《最終幻想I·II》合輯對原版遊戲做了小修改。WonderSwan
-Color重製版首發與2001年5月3日，隨後在該平臺發行了帶有附加內容的特別版\[35\]。该版本完全使用16位元世代技术重绘游戏画面，使用更大的角色图标，由[關戶剛重混音樂](https://zh.wikipedia.org/wiki/關戶剛 "wikilink")，並為戰鬥背景配上了全圖像\[36\]。PlayStation版較WonderSwan
+Color重製版首發與2001年5月3日，隨後在該平臺發行了帶有附加內容的特別版\[35\]。该版本完全使用16位元世代技术重绘游戏画面，使用更大的角色图标，由[關戶剛重混音樂](../Page/關戶剛.md "wikilink")，並為戰鬥背景配上了全圖像\[36\]。PlayStation版較WonderSwan
 Color版圖像改進更大，音樂依然由關戶剛重混，因發揮了PlayStation的聲音機能，音質得以提升。關戶還未新的[過場動畫譜寫了幾首新曲目](https://zh.wikipedia.org/wiki/過場動畫 "wikilink")。遊戲單獨在日本發行，並和一代以《最終幻想I·II
 珍藏版》（Final Fantasy I·II Premium Collection）為題在發行（北美版題為“Final Fantasy
 Origins”），這是遊戲首次在日本以外發售\[37\]。2012年12月8日，收錄重製版的《最終幻想25週年紀念超級包》（Final
@@ -88,7 +88,7 @@ Portable移植版，並為觸摸螢幕做了適應性調整\[44\]。
 
 繼1990年任天堂北美《最終幻想》發行的成功，史克威爾北美子公司[史克威爾軟體開始](https://zh.wikipedia.org/wiki/史克威爾軟體 "wikilink")《最終幻想II》英文[在地化的工作](https://zh.wikipedia.org/wiki/在地化 "wikilink")，並定名為“最終幻想II：帕拉卡上的暗影”（Final
 Fantasy II: Dark Shadow Over
-Palakia）。這項工作由後來翻譯《[最終幻想IV](../Page/最終幻想IV.md "wikilink")》和《[聖劍傳說2](https://zh.wikipedia.org/wiki/聖劍傳說2 "wikilink")》劇本的森山薰負責。雖然[測試版已經製成](https://zh.wikipedia.org/wiki/測試版 "wikilink")，而且遊戲也在史克威爾軟體的幾個貿易刊物上打了廣告，但長開發週期、日本原版遊戲已顯古老，以及FC的下一代遊戲機[超級任天堂的面世](../Page/超級任天堂.md "wikilink")，讓史克威爾軟體放棄《最終幻想II》的本地化，轉而投入最新發行的《最終幻想IV》\[45\]\[46\]。
+Palakia）。這項工作由後來翻譯《[最終幻想IV](../Page/最終幻想IV.md "wikilink")》和《[聖劍傳說2](../Page/聖劍傳說2.md "wikilink")》劇本的森山薰負責。雖然[測試版已經製成](https://zh.wikipedia.org/wiki/測試版 "wikilink")，而且遊戲也在史克威爾軟體的幾個貿易刊物上打了廣告，但長開發週期、日本原版遊戲已顯古老，以及FC的下一代遊戲機[超級任天堂的面世](../Page/超級任天堂.md "wikilink")，讓史克威爾軟體放棄《最終幻想II》的本地化，轉而投入最新發行的《最終幻想IV》\[45\]\[46\]。
 
 雖然北美NES版《最終幻想II》的樣本卡匣已經製成，但森本自己也承認工程遠未完成，“我們用於每個遊戲的只有非常有限的記憶體容量，這絕非真正的‘翻譯’，而是砍掉信息再補回來，而且我們的老闆當時沒有理解為英文版投入的額外工作”\[47\]。2003年，收錄於《Final
 Fantasy Origins》的遊戲最終為英文區受眾發行，遊戲在柏木章的監督下使用了全新的翻譯。

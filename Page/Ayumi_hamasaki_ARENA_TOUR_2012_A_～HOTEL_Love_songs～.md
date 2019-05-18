@@ -26,7 +26,7 @@ songs～）是日本歌手[濱崎步於](../Page/濱崎步.md "wikilink")2012年
 3.  feedback
 4.  [Tell me why](../Page/Party_Queen_\(濱崎步專輯\).md "wikilink")
 5.  [reminds me](../Page/Party_Queen_\(濱崎步專輯\).md "wikilink")
-6.  [appears](../Page/appears.md "wikilink")
+6.  [appears](https://zh.wikipedia.org/wiki/appears "wikilink")
 7.  [Missing](../Page/LOVE_\(濱崎步專輯\).md "wikilink")
 8.  [a cup of tea](../Page/Party_Queen_\(濱崎步專輯\).md "wikilink")
 9.  [Shake It♥](../Page/Party_Queen_\(濱崎步專輯\).md "wikilink")
@@ -41,12 +41,13 @@ songs～）是日本歌手[濱崎步於](../Page/濱崎步.md "wikilink")2012年
 17. [Ladies Night](../Page/\(miss\)understood.md "wikilink")
 18. [Party queen](../Page/Party_Queen_\(濱崎步專輯\).md "wikilink")
 19. [SURREAL](../Page/SURREAL.md "wikilink") ～
-    [evolution](../Page/evolution_\(濱崎步單曲\).md "wikilink") ～
-    [SURREAL](../Page/SURREAL.md "wikilink")
+    [evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")
+    ～ [SURREAL](../Page/SURREAL.md "wikilink")
 20. [Love song](../Page/Love_songs_\(濱崎步專輯\).md "wikilink")
 21. One Night Carnival
 22. [Boys & Girls](../Page/Boys_&_Girls.md "wikilink")
-23. [how beautiful you are](../Page/how_beautiful_you_are.md "wikilink")
+23. [how beautiful you
+    are](https://zh.wikipedia.org/wiki/how_beautiful_you_are "wikilink")
 24. [Thank U](../Page/Love_songs_\(濱崎步專輯\).md "wikilink")
 
 <!-- end list -->

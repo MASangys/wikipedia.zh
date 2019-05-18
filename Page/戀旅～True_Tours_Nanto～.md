@@ -68,7 +68,7 @@ Works以南礪市為舞台打造的旅遊宣傳動畫](https://zh.wikipedia.org/
   -
 
       -
-        歌：[eufonius](../Page/eufonius.md "wikilink")\[2\]、作詞：riya、作曲・編曲：ただすけ
+        歌：[eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink")\[2\]、作詞：riya、作曲・編曲：ただすけ
 
 <!-- end list -->
 
@@ -79,7 +79,7 @@ Works以南礪市為舞台打造的旅遊宣傳動畫](https://zh.wikipedia.org/
   -
 
       -
-        歌：[eufonius](../Page/eufonius.md "wikilink")、作詞：riya、作曲・編曲：ただすけ
+        歌：[eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink")、作詞：riya、作曲・編曲：ただすけ
 
 <!-- end list -->
 
@@ -90,7 +90,7 @@ Works以南礪市為舞台打造的旅遊宣傳動畫](https://zh.wikipedia.org/
   -
 
       -
-        歌：[eufonius](../Page/eufonius.md "wikilink")、作詞・作曲：riya、編曲：bermei.inazawa
+        歌：[eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink")、作詞・作曲：riya、編曲：bermei.inazawa
 
 ### 各話標題
 

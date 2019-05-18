@@ -9,7 +9,7 @@ RPG-26是在RPG-22的基礎上改進設計而成，在1986年裝備部隊，於1
 
 ## 設計細節
 
-RPG-26與RPG-22的最大區別是在於採用單筒式結構，發射筒兼作包裝筒，一次性使用（實際上與[AT4有些類似](../Page/AT4反坦克火箭筒.md "wikilink")）。發射筒由平紋玻璃纖維布浸塗樹酯卷製而成，兩端和中部有鋁製加強圈，上面裝有與RPG-22相同的簡易折疊式[機械瞄具和發射](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")、擊發機構，右側有背帶環和背帶組件。出廠時，發射筒預先裝好火箭[破甲彈](../Page/高爆反坦克彈.md "wikilink")，兩端使用橡膠盂密封，並由鋼圈固定。發射、擊發機構由按鈕式扳機、扳機簧、擊發桿、擊發桿簧、導管、擊針組件等組成。平時後瞄準具П形板將扳機掩蓋起來，與帶拉環的橫向保險銷一起，作為貯存、運輸和攜行過程中的雙保險裝置，以確保使用安全。發射時，扣住拉環，撥出保險銷，豎起後瞄準具П型板，則擊發桿簧處於壓縮狀態，按壓扳機，即可射擊。從攜行狀態到戰鬥狀態的轉換時間只需6秒。除了機械瞄具，還可裝上放大2.5倍、視場12°的光學瞄準鏡。
+RPG-26與RPG-22的最大區別是在於採用單筒式結構，發射筒兼作包裝筒，一次性使用（實際上與[AT4有些類似](../Page/AT4反坦克火箭筒.md "wikilink")）。發射筒由平紋玻璃纖維布浸塗樹酯卷製而成，兩端和中部有鋁製加強圈，上面裝有與RPG-22相同的簡易折疊式[機械瞄具和發射](../Page/機械瞄具.md "wikilink")、擊發機構，右側有背帶環和背帶組件。出廠時，發射筒預先裝好火箭[破甲彈](../Page/高爆反坦克彈.md "wikilink")，兩端使用橡膠盂密封，並由鋼圈固定。發射、擊發機構由按鈕式扳機、扳機簧、擊發桿、擊發桿簧、導管、擊針組件等組成。平時後瞄準具П形板將扳機掩蓋起來，與帶拉環的橫向保險銷一起，作為貯存、運輸和攜行過程中的雙保險裝置，以確保使用安全。發射時，扣住拉環，撥出保險銷，豎起後瞄準具П型板，則擊發桿簧處於壓縮狀態，按壓扳機，即可射擊。從攜行狀態到戰鬥狀態的轉換時間只需6秒。除了機械瞄具，還可裝上放大2.5倍、視場12°的光學瞄準鏡。
 
 RPG-26發射​​PG-26（）72.5毫米破甲火箭彈，其[彈頭採用了](../Page/彈頭.md "wikilink")[锥形装药結構](https://zh.wikipedia.org/wiki/锥形装药 "wikilink")，炸高約227毫米，它可以一擊貫穿大約440毫米的傳統[軋壓均質裝甲](../Page/軋壓均質裝甲.md "wikilink")，0.5米的[磚牆或是](../Page/磚.md "wikilink")1米的[钢筋混凝土牆](../Page/钢筋混凝土.md "wikilink")，比起破壞力不足以對付現代[裝甲車輛的PG](../Page/装甲车.md "wikilink")-18和PG-22更具威力。VP-26（）壓電引信由頭部壓電機構和底部機構兩部分組成。該引信採用複式保險，具有較高的安全性。引信中的膛內點火機構、自炸雷管、慣性保險機構、隔離機構等都自成一體，裝入引信體各自的孔內。最大發火角為75[°](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")。發動機燃燒室用高強度鋁合金製成，高燃速推進劑採用毛刷式裝藥結構，藥管由彈性膠粘結在固藥板上，燃燒時間短。火箭彈飛離筒口時，折合刀型尾翼會展開並且提供靜穩定力矩並使彈微旋，以提高[彈道穩定性](../Page/弹道学.md "wikilink")。
 
@@ -46,10 +46,10 @@ RPG-26還有一種衍生型名為RShG-2，改用[燃料空氣炸彈裝藥](../Pa
 ## 圖集
 
 <File:2011>. День защиты детей в Донецке
-046.jpg|[RPO-A大黃蜂火箭筒](https://zh.wikipedia.org/wiki/RPO-A大黃蜂火箭筒 "wikilink")、[RPG-22](../Page/RPG-22.md "wikilink")、RPG-26和[RPG-18](../Page/RPG-18.md "wikilink")
+046.jpg|[RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")、[RPG-22](../Page/RPG-22.md "wikilink")、RPG-26和[RPG-18](../Page/RPG-18.md "wikilink")
 <File:2011>. День защиты детей в Донецке 047.jpg| <File:Tula> State
 Museum of Weapons
-(79-58).jpg|在圖拉國家武器博物館上展出的[RPG-18](../Page/RPG-18.md "wikilink")、RPG-26、[RPG-27](https://zh.wikipedia.org/wiki/RPG-27 "wikilink")、[RPG-29和](../Page/RPG-29.md "wikilink")[RPO-A大黃蜂火箭筒](https://zh.wikipedia.org/wiki/RPO-A大黃蜂火箭筒 "wikilink")
+(79-58).jpg|在圖拉國家武器博物館上展出的[RPG-18](../Page/RPG-18.md "wikilink")、RPG-26、[RPG-27](../Page/RPG-27.md "wikilink")、[RPG-29和](../Page/RPG-29.md "wikilink")[RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")
 <File:Tula> State Museum of Weapons
 (79-59).jpg|在圖拉國家武器博物館上展出的[RPG-18和RPG](../Page/RPG-18.md "wikilink")-26
 
@@ -62,7 +62,7 @@ Museum of Weapons
     Восьмого）：被[俄軍士兵和](https://zh.wikipedia.org/wiki/俄軍 "wikilink")[格魯吉亞軍士兵所使用](https://zh.wikipedia.org/wiki/格魯吉亞軍 "wikilink")。
   - 2016年—《[-{zh-hans:硬核大战; zh-hk:爆機特攻;
     zh-tw:超狂亨利;}-](https://zh.wikipedia.org/wiki/硬核大戰 "wikilink")》（Hardcore
-    Henry）：出現在武器庫當中，後來被吉米（Jimmy，[沙托·科普利飾演](https://zh.wikipedia.org/wiki/沙托·科普利 "wikilink")）摧毀敵方客貨車時所使用。
+    Henry）：出現在武器庫當中，後來被吉米（Jimmy，[沙托·科普利飾演](../Page/沙托·科普利.md "wikilink")）摧毀敵方客貨車時所使用。
 
 ## 參見
 
@@ -74,12 +74,12 @@ Museum of Weapons
       - [RPG-16](../Page/RPG-16.md "wikilink")
       - [RPG-18](../Page/RPG-18.md "wikilink")
       - [RPG-22](../Page/RPG-22.md "wikilink")
-      - [RPG-27](https://zh.wikipedia.org/wiki/RPG-27 "wikilink")
-      - [RPG-28](https://zh.wikipedia.org/wiki/RPG-28 "wikilink")
+      - [RPG-27](../Page/RPG-27.md "wikilink")
+      - [RPG-28](../Page/RPG-28.md "wikilink")
       - [RPG-29](../Page/RPG-29.md "wikilink")
-      - [RPG-30](https://zh.wikipedia.org/wiki/RPG-30 "wikilink")
+      - [RPG-30](../Page/RPG-30.md "wikilink")
       - [RPG-32](../Page/RPG-32.md "wikilink")
-  - [RPO-A大黃蜂火箭筒](https://zh.wikipedia.org/wiki/RPO-A大黃蜂火箭筒 "wikilink")
+  - [RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")
   - [M72 LAW](../Page/M72輕型反裝甲武器.md "wikilink")
   - [AT4](../Page/AT4反坦克火箭筒.md "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")

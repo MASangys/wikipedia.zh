@@ -8,7 +8,7 @@ Believe**》為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](https:/
   - 優先購入「CD+DVD」的人會得到[J Soul
     Brothers特製信用卡型貼紙](../Page/J_Soul_Brothers.md "wikilink")。
   - 音樂影片（PV）的映像是使用著[MAKIDAI的](../Page/MAKIDAI.md "wikilink")32歲的生日聚會所拍攝到的東西。
-  - [TAKAHIRO作詞的歌曲是繼](../Page/TAKAHIRO.md "wikilink")《[Dream
+  - [TAKAHIRO作詞的歌曲是繼](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")《[Dream
     Catcher](../Page/EXILE_EVOLUTION.md "wikilink")》之後的第2曲，單曲的話則是首次。
   - 2007年12月11日現場直播的《Best Artist2007\]》內，唱這首歌時發生了音響收不到ATSUSHI的聲音的事故。
 

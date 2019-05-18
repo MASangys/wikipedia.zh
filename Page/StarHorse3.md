@@ -63,7 +63,7 @@ Lite紀念賽賽事及以後，玩家只能生產古馬。
 
 <!-- end list -->
 
-  - [三連單](https://zh.wikipedia.org/wiki/三連單 "wikilink")（[三重彩](https://zh.wikipedia.org/wiki/三重彩 "wikilink"))可以讓玩家以0.1注下注
+  - [三連單](https://zh.wikipedia.org/wiki/三連單 "wikilink")（[三重彩](../Page/三重彩.md "wikilink"))可以讓玩家以0.1注下注
   - 新設了種馬的等級
 
 ### 傳說模式

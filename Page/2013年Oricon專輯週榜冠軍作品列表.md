@@ -126,7 +126,7 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 </tr>
 <tr class="even">
 <td><p>4月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Good向前衝！" title="wikilink">Good向前衝！</a></p></td>
+<td><p><a href="../Page/Good向前衝！.md" title="wikilink">Good向前衝！</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Kis-My-Ft2" title="wikilink">Kis-My-Ft2</a></p></td>
 <td><p>原創</p></td>
 <td><p>22.2</p></td>
@@ -142,7 +142,7 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 </tr>
 <tr class="even">
 <td><p>4月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/5TH_DIMENSION" title="wikilink">5TH DIMENSION</a></p></td>
+<td><p><a href="../Page/5TH_DIMENSION.md" title="wikilink">5TH DIMENSION</a></p></td>
 <td><p><a href="../Page/桃色幸運草Z.md" title="wikilink">桃色幸運草Z</a></p></td>
 <td><p>原創</p></td>
 <td><p>18.0</p></td>
@@ -150,7 +150,7 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 </tr>
 <tr class="odd">
 <td><p>4月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Lesson_1" title="wikilink">Lesson 1</a></p></td>
+<td><p><a href="../Page/Lesson_1.md" title="wikilink">Lesson 1</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/E-Girls" title="wikilink">E-Girls</a></p></td>
 <td><p>原創</p></td>
 <td><p>5.7</p></td>
@@ -190,8 +190,8 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 </tr>
 <tr class="even">
 <td><p>6月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Delight" title="wikilink">Delight</a></p></td>
-<td><p><a href="../Page/miwa.md" title="wikilink">miwa</a></p></td>
+<td><p><a href="../Page/Delight.md" title="wikilink">Delight</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/miwa" title="wikilink">miwa</a></p></td>
 <td><p>原創</p></td>
 <td><p>6.9</p></td>
 <td><p>1</p></td>
@@ -206,15 +206,15 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 </tr>
 <tr class="even">
 <td><p>6月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/當你墜入愛河" title="wikilink">當你墜入愛河</a></p></td>
-<td><p><a href="../Page/Infinite.md" title="wikilink">Infinite</a></p></td>
+<td><p><a href="../Page/當你墜入愛河.md" title="wikilink">當你墜入愛河</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Infinite" title="wikilink">Infinite</a></p></td>
 <td><p>原創</p></td>
 <td><p>7.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/B&#39;z_The_Best_XXV_1988-1998" title="wikilink">B'z The Best XXV 1988-1998</a></p></td>
+<td><p><a href="../Page/B&#39;z_The_Best_XXV_1988-1998.md" title="wikilink">B'z The Best XXV 1988-1998</a></p></td>
 <td><p><a href="../Page/B&#39;z.md" title="wikilink">B'z</a></p></td>
 <td><p>精選</p></td>
 <td><p>38.6</p></td>
@@ -230,7 +230,7 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 </tr>
 <tr class="odd">
 <td><p>7月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/這什麼啊" title="wikilink">這什麼啊</a></p></td>
+<td><p><a href="../Page/這什麼啊.md" title="wikilink">這什麼啊</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu" title="wikilink">Kyary Pamyu Pamyu</a></p></td>
 <td><p>原創</p></td>
 <td><p>12.6</p></td>
@@ -239,14 +239,14 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 <tr class="even">
 <td><p>7月15日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BUMP_OF_CHICKEN" title="wikilink">BUMP OF CHICKEN</a></p></td>
+<td><p><a href="../Page/BUMP_OF_CHICKEN.md" title="wikilink">BUMP OF CHICKEN</a></p></td>
 <td><p>精選</p></td>
 <td><p>17.3</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FEEL_(安室奈美惠專輯)" title="wikilink">FEEL</a></p></td>
+<td><p><a href="../Page/FEEL_(安室奈美惠專輯).md" title="wikilink">FEEL</a></p></td>
 <td><p><a href="../Page/安室奈美惠.md" title="wikilink">安室奈美惠</a></p></td>
 <td><p>原創</p></td>
 <td><p>24.8</p></td>
@@ -262,7 +262,7 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 </tr>
 <tr class="odd">
 <td><p>8月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/I_(生物股長專輯)" title="wikilink">I</a></p></td>
+<td><p><a href="../Page/I_(生物股長專輯).md" title="wikilink">I</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/生物股長" title="wikilink">生物股長</a></p></td>
 <td><p>原創</p></td>
 <td><p>11.2</p></td>
@@ -295,14 +295,14 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 <tr class="odd">
 <td><p>9月2日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/冰室京介" title="wikilink">冰室京介</a></p></td>
+<td><p><a href="../Page/冰室京介.md" title="wikilink">冰室京介</a></p></td>
 <td><p>精選</p></td>
 <td><p>6.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>9月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小海女歌曲专辑" title="wikilink">小海女歌曲专辑</a></p></td>
+<td><p><a href="../Page/小海女歌曲专辑.md" title="wikilink">小海女歌曲专辑</a></p></td>
 <td><p>群星</p></td>
 <td><p>原聲</p></td>
 <td><p>7.4</p></td>
@@ -310,7 +310,7 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 </tr>
 <tr class="odd">
 <td><p>9月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Love_Collection_～mint～" title="wikilink">Love Collection ～mint～</a></p></td>
+<td><p><a href="../Page/Love_Collection_～mint～.md" title="wikilink">Love Collection ～mint～</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/西野加奈" title="wikilink">西野加奈</a></p></td>
 <td><p>精選</p></td>
 <td><p>14.7</p></td>
@@ -326,7 +326,7 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 </tr>
 <tr class="odd">
 <td><p>9月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Eighth_Wonder_(AAA專輯)" title="wikilink">Eighth Wonder</a></p></td>
+<td><p><a href="../Page/Eighth_Wonder_(AAA專輯).md" title="wikilink">Eighth Wonder</a></p></td>
 <td><p><a href="../Page/AAA_(團體).md" title="wikilink">AAA</a></p></td>
 <td><p>原創</p></td>
 <td><p>4.6</p></td>
@@ -334,7 +334,7 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 </tr>
 <tr class="even">
 <td><p>10月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Superfly_BEST" title="wikilink">Superfly BEST</a></p></td>
+<td><p><a href="../Page/Superfly_BEST.md" title="wikilink">Superfly BEST</a></p></td>
 <td><p><a href="../Page/Superfly.md" title="wikilink">Superfly</a></p></td>
 <td><p>精選</p></td>
 <td><p>15.7</p></td>
@@ -342,7 +342,7 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 </tr>
 <tr class="odd">
 <td><p>10月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LEVEL3" title="wikilink">LEVEL3</a></p></td>
+<td><p><a href="../Page/LEVEL3.md" title="wikilink">LEVEL3</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
 <td><p>原創</p></td>
 <td><p>16.6</p></td>
@@ -350,7 +350,7 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 </tr>
 <tr class="even">
 <td><p>10月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Superfly_BEST" title="wikilink">Superfly BEST</a></p></td>
+<td><p><a href="../Page/Superfly_BEST.md" title="wikilink">Superfly BEST</a></p></td>
 <td><p><a href="../Page/Superfly.md" title="wikilink">Superfly</a></p></td>
 <td><p>精選</p></td>
 <td><p>3.1</p></td>
@@ -366,7 +366,7 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 </tr>
 <tr class="even">
 <td><p>11月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LOVE_(嵐)" title="wikilink">LOVE</a></p></td>
+<td><p><a href="../Page/LOVE_(嵐).md" title="wikilink">LOVE</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>原創</p></td>
 <td><p>67.0</p></td>
@@ -390,7 +390,7 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 </tr>
 <tr class="odd">
 <td><p>11月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GENERATIONS_(GENERATIONS專輯)" title="wikilink">GENERATIONS</a></p></td>
+<td><p><a href="../Page/GENERATIONS_(GENERATIONS專輯).md" title="wikilink">GENERATIONS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE" title="wikilink">GENERATIONS from EXILE TRIBE</a></p></td>
 <td><p>原創</p></td>
 <td><p>4.9</p></td>
@@ -414,7 +414,7 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 </tr>
 <tr class="even">
 <td><p>12月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/L_album" title="wikilink">L album</a></p></td>
+<td><p><a href="../Page/L_album.md" title="wikilink">L album</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>原創</p></td>
 <td><p>13.7</p></td>
@@ -422,7 +422,7 @@ Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://
 </tr>
 <tr class="odd">
 <td><p>12月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Love_&amp;_Peace_(少女時代專輯)" title="wikilink">LOVE &amp; PEACE</a></p></td>
+<td><p><a href="../Page/Love_&amp;_Peace_(少女時代專輯).md" title="wikilink">LOVE &amp; PEACE</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a></p></td>
 <td><p>原創</p></td>
 <td><p>12.9</p></td>

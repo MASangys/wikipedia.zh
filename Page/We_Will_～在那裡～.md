@@ -25,7 +25,8 @@
         You](../Page/EX-STYLE_～Kiss_You～.md "wikilink")》的演唱版本。
 3.  song for you (Live Version) \[5:44\]
       -
-        第4張單曲《[song for you](../Page/song_for_you.md "wikilink")》的演唱版本。
+        第4張單曲《[song for
+        you](https://zh.wikipedia.org/wiki/song_for_you "wikilink")》的演唱版本。
 4.  We Will 〜在那裡〜 (Instrumental)
 
 [Category:放浪兄弟歌曲](https://zh.wikipedia.org/wiki/Category:放浪兄弟歌曲 "wikilink")

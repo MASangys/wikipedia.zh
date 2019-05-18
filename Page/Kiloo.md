@@ -3,7 +3,7 @@ Møller）于2000年建立，\[1\]并专注于为[手機和手持裝置开发遊
 
 Kiloo最知名的游戏是与SYBO
 Games合作，于2012年春季开发的《[地铁跑酷](../Page/地铁跑酷.md "wikilink")》（*Subway
-Surfers*）。2012年5月31日，遊戲在[iOS平台被AppAdvice评为本週遊戲](../Page/iOS.md "wikilink")。\[2\]在9月，该游戏称将推出[Android版本](../Page/Android.md "wikilink")，吸引更多的热心玩家。\[3\]在Android版本推出一個月後，《地鐵跑酷》进入[Facebook應用程序中](../Page/Facebook.md "wikilink")，每月活躍用户成長速度排行的前20名。\[4\]直至2014年7月，《地鐵跑酷》在各平台上累積超過5億次下載。
+Surfers*）。2012年5月31日，遊戲在[iOS平台被AppAdvice评为本週遊戲](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[2\]在9月，该游戏称将推出[Android版本](../Page/Android.md "wikilink")，吸引更多的热心玩家。\[3\]在Android版本推出一個月後，《地鐵跑酷》进入[Facebook應用程序中](../Page/Facebook.md "wikilink")，每月活躍用户成長速度排行的前20名。\[4\]直至2014年7月，《地鐵跑酷》在各平台上累積超過5億次下載。
 
 ## 历史
 
@@ -53,8 +53,8 @@ Store、Google Play商店和Windows Phone 8商店發行。軟體中包括以下�
   - 豌豆公主，[羅傑·摩爾](../Page/罗杰·摩尔.md "wikilink")。
   - 醜小鴨，[史蒂芬·弗萊](../Page/史蒂芬·弗莱.md "wikilink")。
   - 賣火柴的小女孩，[伊旺·麥奎格](https://zh.wikipedia.org/wiki/伊万·迈克格雷戈 "wikilink")。
-  - 國王的新衣，[瓊·考琳絲](https://zh.wikipedia.org/wiki/瓊·考琳絲 "wikilink")。
-  - 冰雪女王，[喬安娜·拉姆利](https://zh.wikipedia.org/wiki/喬安娜·拉姆利 "wikilink")。
+  - 國王的新衣，[瓊·考琳絲](../Page/瓊·考琳絲.md "wikilink")。
+  - 冰雪女王，[喬安娜·拉姆利](../Page/喬安娜·拉姆利.md "wikilink")。
   - 小克勞斯和大克勞斯，[米高·肯恩](https://zh.wikipedia.org/wiki/米高·肯恩 "wikilink")。
   - 小美人魚，[戴维·沃廉姆斯](https://zh.wikipedia.org/wiki/戴维·沃廉姆斯 "wikilink")。
 

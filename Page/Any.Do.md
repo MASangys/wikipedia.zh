@@ -1,4 +1,4 @@
-**Any.Do**是一个界面简洁的[跨平台免费日程管理应用](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，提供[Android](../Page/Android.md "wikilink")、[iOS客户端](../Page/iOS.md "wikilink")，以及[Chrome浏览器扩展](https://zh.wikipedia.org/wiki/Chrome "wikilink")、网页版，允许登陆用户同步日程,并与用户的[Google
+**Any.Do**是一个界面简洁的[跨平台免费日程管理应用](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，提供[Android](../Page/Android.md "wikilink")、[iOS客户端](https://zh.wikipedia.org/wiki/iOS "wikilink")，以及[Chrome浏览器扩展](https://zh.wikipedia.org/wiki/Chrome "wikilink")、网页版，允许登陆用户同步日程,并与用户的[Google
 Tasks同步](https://zh.wikipedia.org/wiki/Google_Tasks "wikilink")。Any.Do支持管理任务优先级、设定提醒等，支持与他人合作处理任务，还支持语音输入。Any.Do允许通过文件夹和时间分类，前者允许用户将日程归为个人、工作以及自定义文件夹，后者允许将日程归为今天、明天、即将到来、某天。Any.Do还拥有Any.Do时间（Any.Do
 Moment）功能，可以更加有趣的方式管理日程。\[1\]
 

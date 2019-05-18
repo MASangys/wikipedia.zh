@@ -6,7 +6,8 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
   - 與上一張專輯《[愛的專輯⑧](../Page/愛的專輯⑧.md "wikilink")》相距約11個月。
   - 收錄第28張單曲《[Be元氣
     ＜只要嘗試便能做到\!＞](../Page/Be元氣_＜只要嘗試便能做到!＞.md "wikilink")》至第30張單曲《[WANT\!](../Page/WANT!.md "wikilink")》3首A面曲，以及《[cha
-    cha SING](../Page/cha_cha_SING.md "wikilink")》B面曲《Momochi\!
+    cha
+    SING](https://zh.wikipedia.org/wiki/cha_cha_SING "wikilink")》B面曲《Momochi\!
     饒恕我吧♡體操》的Remix版本、《[沒有你活不下去](../Page/沒有你活不下去.md "wikilink")》的全新版本和新曲等，一共10首歌曲。
   - 本作分「初回限定盤」和「CD盤」2種版本。
   - 「初回限定盤」收錄了新曲《亂七八糟〜（各成員 Solo
@@ -43,7 +44,8 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
         第28張單曲
 7.  **率直的我**（）
     （作詞、作曲：淳君 編曲：上杉洋史）
-8.  **[cha cha SING](../Page/cha_cha_SING.md "wikilink")**
+8.  **[cha cha
+    SING](https://zh.wikipedia.org/wiki/cha_cha_SING "wikilink")**
     （作詞：[Mukek
     Jongmankhong](https://zh.wikipedia.org/wiki/Mukek_Jongmankhong "wikilink")　日語填詞：淳君　作曲：[Sudsan
     Wongsamut](https://zh.wikipedia.org/wiki/Sudsan_Wongsamut "wikilink")　編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")）
@@ -53,7 +55,8 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
     （作詞、作曲：淳君　編曲：[AKIRA](../Page/AKIRA.md "wikilink")）
       -
         第1張單曲
-10. **[Momochi\! 饒恕我吧♡體操](../Page/cha_cha_SING.md "wikilink")（饒恕我
+10. **[Momochi\!
+    饒恕我吧♡體操](https://zh.wikipedia.org/wiki/cha_cha_SING "wikilink")（饒恕我
     Remix）**（）
     （作詞、作曲：淳君　編曲：[原田ナオ](https://zh.wikipedia.org/wiki/原田ナオ "wikilink")）
       -

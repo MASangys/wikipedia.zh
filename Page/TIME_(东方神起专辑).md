@@ -1,12 +1,12 @@
 《**TIME**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[東方神起的第](../Page/東方神起.md "wikilink")6枚原創日語專輯，於2013年3月6日發行。唱片公司為[avex
-trax](../Page/avex_trax.md "wikilink")。
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
   - 距離上一張錄音室專輯《[TONE](../Page/TONE.md "wikilink")》相隔一年半之後發行，是東方神起二人體制下活動再開後的第二張專輯。
-  - 收錄第34張單曲《[STILL](https://zh.wikipedia.org/wiki/STILL "wikilink")》至第36張單曲《[Catch
-    Me -If you
-    wanna-](https://zh.wikipedia.org/wiki/Catch_Me_-If_you_wanna- "wikilink")》的3首A面曲和3首B面曲。
+  - 收錄第34張單曲《[STILL](../Page/STILL.md "wikilink")》至第36張單曲《[Catch Me -If
+    you
+    wanna-](../Page/Catch_Me_-If_you_wanna-.md "wikilink")》的3首A面曲和3首B面曲。
   - 新曲《逢いたくて逢いたくてたまらない》（想見妳想見妳如此的想見妳）是[江崎固力果](../Page/江崎固力果.md "wikilink")「牧場しぼり」的電視廣告歌曲。
   - 新曲《HUMANOIDS》是東方神起第六張正規專輯Repackage《[HUMANOIDS](../Page/CATCH_ME.md "wikilink")》主打歌曲《Humanoids》的日語版本。
   - 新曲《One and Only
@@ -31,7 +31,7 @@ trax](../Page/avex_trax.md "wikilink")。
         作詞：H.U.B.、作曲：Paul Drew / Greig Watts / Pete Barringer / Chris
         Wortley、編曲：Paul Drew / Greig Watts
 2.  **[Catch Me -If you
-    wanna-](https://zh.wikipedia.org/wiki/Catch_Me_-If_you_wanna- "wikilink")**
+    wanna-](../Page/Catch_Me_-If_you_wanna-.md "wikilink")**
       -
         作詞：Yoo,Young Jin ・ 日本語詞：H.U.B.、作曲：Yoo,Young Jin、編曲：Yoo,Young Jin
         36th單曲、[關西電視台電視劇](../Page/關西電視台.md "wikilink")「[沙希](../Page/沙希_\(電視劇\).md "wikilink")」主題曲
@@ -47,7 +47,7 @@ trax](../Page/avex_trax.md "wikilink")。
         WHITE JAM BEATZ、編曲：ヒロイズム / SHIROSE from WHITE JAM / SHIMADA from
         WHITE JAM BEATZ
         34th單曲《STILL》B面曲、BeeTV電視劇「L et M わたしがあなたを愛する理由、そのほかの物語」主題曲
-5.  **[STILL](https://zh.wikipedia.org/wiki/STILL "wikilink")**
+5.  **[STILL](../Page/STILL.md "wikilink")**
       -
         作詞：井上慎二郎、作曲：井上慎二郎、編曲：井上慎二郎
         34th單曲、[江崎固力果](../Page/江崎固力果.md "wikilink")「牧場しぼり」電視廣告歌曲
@@ -72,7 +72,7 @@ trax](../Page/avex_trax.md "wikilink")。
         Donald“hAZEL”Sales ・ 日本語詞：H.U.B.、作曲：Thomas Troelsen /
         Donald“hAZEL”Sales、編曲：Thomas Troelsen / Donald“hAZEL”Sales
         6th正規專輯Repackage《[HUMANOIDS](../Page/CATCH_ME.md "wikilink")》主打歌曲《Humanoids》的日語版本
-10. **[ANDROID](../Page/ANDROID.md "wikilink")**
+10. **[ANDROID](https://zh.wikipedia.org/wiki/ANDROID "wikilink")**
       -
         作詞：H.U.B.、作曲：Anders Grahn / Grace Tither / Emil Carlin、編曲：Anders
         Grahn / Grace Tither / Emil Carlin

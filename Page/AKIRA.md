@@ -5,7 +5,7 @@ Unique”、“Rag
 Pound”。2006年加入“放浪兄弟（EXILE）”，多次受邀拍攝電影、電視劇、舞台劇，亦參與配音、廣播、廣告代言。2009年在電影《CHANTO
 TSUTAERU》飾演“北史郎”獲“日本電影批評家大獎新人獎”，此作品亦在紐約、蒙特利爾、威尼斯等地受矚目。\[1\]。
 
-[神奈川縣](../Page/神奈川縣.md "wikilink")[大和市出身](../Page/大和市.md "wikilink")、[靜岡縣](../Page/靜岡縣.md "wikilink")[磐田市成長](../Page/磐田市.md "wikilink")。[LDH所屬](https://zh.wikipedia.org/wiki/LDH_\(藝能事務所\) "wikilink")。
+[神奈川縣](../Page/神奈川縣.md "wikilink")[大和市出身](../Page/大和市.md "wikilink")、[靜岡縣](../Page/靜岡縣.md "wikilink")[磐田市成長](../Page/磐田市.md "wikilink")。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。
 
 ## 來歷
 
@@ -15,7 +15,7 @@ Unique」。之後第二章開幕的2006年6月，被邀請加入EXILE。
 
 2008年以TBS系日劇「[Around40](../Page/Around40.md "wikilink")」、電影「[流星花園F](https://zh.wikipedia.org/wiki/流星花園F "wikilink")」成功演員出道。
 
-2009年、首次於第9屆紐約亞洲影展、及第33屆[蒙特利爾世界電影節展出的電影作品](../Page/蒙特利爾世界電影節.md "wikilink")『[ちゃんと伝える](https://zh.wikipedia.org/wiki/ちゃんと伝える "wikilink")』擔任主角、更榮獲第19屆[日本電影影評人大獎的新人獎](https://zh.wikipedia.org/wiki/日本電影影評人大獎 "wikilink")\[2\]。
+2009年、首次於第9屆紐約亞洲影展、及第33屆[蒙特利爾世界電影節展出的電影作品](../Page/蒙特利爾世界電影節.md "wikilink")『[ちゃんと伝える](https://zh.wikipedia.org/wiki/ちゃんと伝える "wikilink")』擔任主角、更榮獲第19屆[日本電影影評人大獎的新人獎](../Page/日本電影影評人大獎.md "wikilink")\[2\]。
 
 參與演出2010年9月公開（中國・台灣・香港、而日本則於2011年9月公開）由[劉偉強監督的作品](../Page/劉偉強.md "wikilink")『[精武風雲・陳真](https://zh.wikipedia.org/wiki/精武風雲・陳真 "wikilink")』，令他於亞洲電影界出道。
 
@@ -137,7 +137,7 @@ SECOND](../Page/EXILE_THE_SECOND.md "wikilink")。
   - 麒麟飲品「大人的麒麟檸檬」（2011年6月 - ）
   - GREE「聖戦Cerberus」（2011年11月 - 2012年）
   - NTT Communications「050 plus」（2011年11月 - 2013年）
-  - [TOYOTA](https://zh.wikipedia.org/wiki/TOYOTA "wikilink")「[WISH](../Page/豐田WISH.md "wikilink")」（2012年4月
+  - [TOYOTA](https://zh.wikipedia.org/wiki/TOYOTA "wikilink")「[WISH](https://zh.wikipedia.org/wiki/豐田WISH "wikilink")」（2012年4月
     - ）
   - [富士通](../Page/富士通.md "wikilink")「[FMV](https://zh.wikipedia.org/wiki/FMV "wikilink")」（2012年6月
     - ）
@@ -169,9 +169,9 @@ SECOND](../Page/EXILE_THE_SECOND.md "wikilink")。
 
   - [EXILE THE SECOND](../Page/EXILE_THE_SECOND.md "wikilink")「[YEAH\!\!
     YEAH\!\!
-    YEAH\!\!](https://zh.wikipedia.org/wiki/YEAH!!_YEAH!!_YEAH!! "wikilink")」（2016年）
+    YEAH\!\!](../Page/YEAH!!_YEAH!!_YEAH!!.md "wikilink")」（2016年）
   - EXILE THE SECOND「[Shut up\!\! Shut up\!\! Shut
-    up\!\!](https://zh.wikipedia.org/wiki/Shut_up!!_Shut_up!!_Shut_up!! "wikilink")」（2016年）
+    up\!\!](../Page/Shut_up!!_Shut_up!!_Shut_up!!.md "wikilink")」（2016年）
 
 ## 作品
 

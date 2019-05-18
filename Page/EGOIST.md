@@ -28,7 +28,7 @@ NAMCO）全新合作技術，讓2.5次元偶像女神「EGOIST」走出螢幕，
 
 2017年4月，由原先[Sony Music
 Records移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/Sony_Music_Records.md "wikilink")[SACRA
-MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。\[9\]
+MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[9\]
 
 ## 虚拟形象
 
@@ -44,18 +44,18 @@ EGOIST形象角色即為《罪惡王冠》的女主角楪祈，這點可以從�
 
 ### 單曲
 
-| 編號    | 發售日         | 標題                                                                                                          | 規格編號        | [Oricon最高排名](../Page/Oricon.md "wikilink") |
-| ----- | ----------- | ----------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------ |
-| 初回限定盤 | 通常盤         | 期間生產限定盤/動畫盤                                                                                                 |             |                                            |
-| 1st   | 2011年11月30日 | ****                                                                                                        | SVWC-7796   | SVWC-7798                                  |
-| 2nd   | 2012年3月7日   | ****                                                                                                        | SVWC-7832   | SVWC-7834                                  |
-| 3rd   | 2012年12月5日  | ****                                                                                                        | SRCL-8147   | SRCL-8149                                  |
-| 4th   | 2013年3月6日   | **[All Alone With You](https://zh.wikipedia.org/wiki/與你同行_\(自我主張單曲\) "wikilink")**                          | SRCL-8238/9 | SRCL-8240                                  |
-| 5th   | 2014年11月19日 | ****                                                                                                        | SRCL-8637/8 | SRCL-8639                                  |
-| 6th   | 2015年11月11日 | ****                                                                                                        | SRCL-8925/6 | SRCL-8927                                  |
-| 7th   | 2016年5月25日  | **[KABANERI OF THE IRON FORTRESS](https://zh.wikipedia.org/wiki/KABANERI_OF_THE_IRON_FORTRESS "wikilink")** | SRCL-9068/9 | SRCL-9070                                  |
-| 8th   | 2017年8月16日  | ****                                                                                                        | VVCL-1078/9 | VVCL-1080                                  |
-| 9th   | 2019年5月15日  | ****                                                                                                        | VVCL-1440/2 | VVCL-1443                                  |
+| 編號    | 發售日         | 標題                                                                                       | 規格編號        | [Oricon最高排名](../Page/Oricon.md "wikilink") |
+| ----- | ----------- | ---------------------------------------------------------------------------------------- | ----------- | ------------------------------------------ |
+| 初回限定盤 | 通常盤         | 期間生產限定盤/動畫盤                                                                              |             |                                            |
+| 1st   | 2011年11月30日 | ****                                                                                     | SVWC-7796   | SVWC-7798                                  |
+| 2nd   | 2012年3月7日   | ****                                                                                     | SVWC-7832   | SVWC-7834                                  |
+| 3rd   | 2012年12月5日  | ****                                                                                     | SRCL-8147   | SRCL-8149                                  |
+| 4th   | 2013年3月6日   | **[All Alone With You](https://zh.wikipedia.org/wiki/與你同行_\(自我主張單曲\) "wikilink")**       | SRCL-8238/9 | SRCL-8240                                  |
+| 5th   | 2014年11月19日 | ****                                                                                     | SRCL-8637/8 | SRCL-8639                                  |
+| 6th   | 2015年11月11日 | ****                                                                                     | SRCL-8925/6 | SRCL-8927                                  |
+| 7th   | 2016年5月25日  | **[KABANERI OF THE IRON FORTRESS](../Page/KABANERI_OF_THE_IRON_FORTRESS.md "wikilink")** | SRCL-9068/9 | SRCL-9070                                  |
+| 8th   | 2017年8月16日  | ****                                                                                     | VVCL-1078/9 | VVCL-1080                                  |
+| 9th   | 2019年5月15日  | ****                                                                                     | VVCL-1440/2 | VVCL-1443                                  |
 
 ### 配信限定
 
@@ -87,7 +87,7 @@ EGOIST形象角色即為《罪惡王冠》的女主角楪祈，這點可以從�
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>2012年9月19日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Extra_terrestrial_Biological_Entities" title="wikilink">Extra terrestrial Biological Entities</a></strong></p></td>
+<td><p><strong><a href="../Page/Extra_terrestrial_Biological_Entities.md" title="wikilink">Extra terrestrial Biological Entities</a></strong></p></td>
 <td><p>SRCL-8091/2</p></td>
 <td><p>SRCL-8093</p></td>
 </tr>
@@ -107,10 +107,10 @@ VVCL-1153/4（B）</p></td>
   - ryo(supercell) feat.chelly 「Great Distance」(2015年5月20日)
       - 「Great Distance」- 3DS遊戲《勇氣默示錄2：終結次元》的OP
       - 「Last Song」- 3DS遊戲《勇氣默示錄2：終結次元》的ED
-  - [Aimer](https://zh.wikipedia.org/wiki/Aimer "wikilink")「[ninelie
+  - [Aimer](../Page/Aimer.md "wikilink")「[ninelie
     EP](https://zh.wikipedia.org/wiki/ninelie_EP "wikilink")」（2016年5月11日）
       - 「ninelie」（Aimer with chelly） -
-        電視動畫《[甲鐵城的卡巴內里](https://zh.wikipedia.org/wiki/甲鐵城的卡巴內里 "wikilink")》片尾曲
+        電視動畫《[甲鐵城的卡巴內里](../Page/甲鐵城的卡巴內里.md "wikilink")》片尾曲
   - [TRUSTRICK](https://zh.wikipedia.org/wiki/TRUSTRICK "wikilink")
     「TRICK」 (2016年10月26日)
       - 「TRICK feat.chelly (EGOIST) 」
@@ -154,7 +154,7 @@ VVCL-1153/4（B）</p></td>
 </tr>
 <tr class="odd">
 <td><p>リローデッド</p></td>
-<td><p>劇場動畫《<a href="https://zh.wikipedia.org/wiki/虐殺器官" title="wikilink">虐殺器官</a>》主題歌</p></td>
+<td><p>劇場動畫《<a href="../Page/虐殺器官.md" title="wikilink">虐殺器官</a>》主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p>Ghost of a smile</p></td>
@@ -162,15 +162,15 @@ VVCL-1153/4（B）</p></td>
 </tr>
 <tr class="odd">
 <td><p>Door</p></td>
-<td><p>劇場動畫《<a href="https://zh.wikipedia.org/wiki/屍者的帝國" title="wikilink">屍者的帝國</a>》主題歌</p></td>
+<td><p>劇場動畫《<a href="../Page/屍者的帝國.md" title="wikilink">屍者的帝國</a>》主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p>KABANERI OF THE IRON FORTRESS</p></td>
-<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/甲鐵城的卡巴內里" title="wikilink">甲鐵城的卡巴內里</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="../Page/甲鐵城的卡巴內里.md" title="wikilink">甲鐵城的卡巴內里</a>》片頭曲</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/ninelie_EP" title="wikilink">ninelie EP</a>（<a href="https://zh.wikipedia.org/wiki/Aimer" title="wikilink">Aimer</a> with chelly）</p></td>
-<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/甲鐵城的卡巴內里" title="wikilink">甲鐵城的卡巴內里</a>》片尾曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ninelie_EP" title="wikilink">ninelie EP</a>（<a href="../Page/Aimer.md" title="wikilink">Aimer</a> with chelly）</p></td>
+<td><p>電視動畫《<a href="../Page/甲鐵城的卡巴內里.md" title="wikilink">甲鐵城的卡巴內里</a>》片尾曲</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -178,7 +178,7 @@ VVCL-1153/4（B）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>劇場版《<a href="https://zh.wikipedia.org/wiki/甲鐵城的卡巴內里" title="wikilink">甲鐵城的卡巴內里 海門決戰</a>》主題曲</p></td>
+<td><p>劇場版《<a href="../Page/甲鐵城的卡巴內里.md" title="wikilink">甲鐵城的卡巴內里 海門決戰</a>》主題曲</p></td>
 </tr>
 </tbody>
 </table>

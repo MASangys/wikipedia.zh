@@ -1,4 +1,4 @@
-**evasi0n**是[iOS的](../Page/iOS.md "wikilink")[越獄工具](https://zh.wikipedia.org/wiki/iOS越獄 "wikilink")，針對版本6.0\~6.1.2或7.0\~7.0.5(evasi0n7)進行完美越獄。
+**evasi0n**是[iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[越獄工具](https://zh.wikipedia.org/wiki/iOS越獄 "wikilink")，針對版本6.0\~6.1.2或7.0\~7.0.5(evasi0n7)進行完美越獄。
 
 目前6.1.3\~6.1.5的完美越獄由ih8sn0w以及其他黑客的[p0sixspwn釋出](https://zh.wikipedia.org/wiki/p0sixspwn "wikilink")。
 

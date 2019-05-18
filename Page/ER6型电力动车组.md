@@ -8,12 +8,12 @@
 
   - [ER1型电力动车组](../Page/ER1型电力动车组.md "wikilink")
   - [ER2型电力动车组](../Page/ER2型电力动车组.md "wikilink")
-  - [ER7型电力动车组](https://zh.wikipedia.org/wiki/ER7型电力动车组 "wikilink")
+  - [ER7型电力动车组](../Page/ER7型电力动车组.md "wikilink")
   - [ER9型电力动车组](../Page/ER9型电力动车组.md "wikilink")
-  - [ER10型电力动车组](https://zh.wikipedia.org/wiki/ER10型电力动车组 "wikilink")
-  - [ER11型电力动车组](https://zh.wikipedia.org/wiki/ER11型电力动车组 "wikilink")
-  - [ER12型电力动车组](https://zh.wikipedia.org/wiki/ER12型电力动车组 "wikilink")
-  - [ER22型电力动车组](https://zh.wikipedia.org/wiki/ER22型电力动车组 "wikilink")
+  - [ER10型电力动车组](../Page/ER10型电力动车组.md "wikilink")
+  - [ER11型电力动车组](../Page/ER11型电力动车组.md "wikilink")
+  - [ER12型电力动车组](../Page/ER12型电力动车组.md "wikilink")
+  - [ER22型电力动车组](../Page/ER22型电力动车组.md "wikilink")
 
 ## 参考文献
 

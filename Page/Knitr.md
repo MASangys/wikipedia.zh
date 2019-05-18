@@ -4,7 +4,7 @@ GPL](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")\[3\]。
 knitr的编写受到[Sweave影响](https://zh.wikipedia.org/wiki/Sweave "wikilink")，但模块化程度更高，扩展方便，支持文档类型也更多（Sweave主要用于LaTeX文档）。例如它支持R
 Markdown格式\[4\]，RPubs网站\[5\]是一个很好的应用示例。其它扩展包括：缓存、[TikZ图形](https://zh.wikipedia.org/wiki/TikZ "wikilink")、多语言支持（如[Python](../Page/Python.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Shell和](https://zh.wikipedia.org/wiki/Shell "wikilink")[CoffeeScript等](../Page/CoffeeScript.md "wikilink")）。
 
-目前支持knitr的编辑器有[RStudio](https://zh.wikipedia.org/wiki/RStudio "wikilink")、[LyX和](../Page/LyX.md "wikilink")[Emacs](../Page/Emacs.md "wikilink")/ESS。
+目前支持knitr的编辑器有[RStudio](../Page/RStudio.md "wikilink")、[LyX和](../Page/LyX.md "wikilink")[Emacs](../Page/Emacs.md "wikilink")/ESS。
 
 ## 同时参见
 

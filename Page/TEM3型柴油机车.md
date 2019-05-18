@@ -9,7 +9,7 @@
 ## 参看
 
   - [TEM2型柴油机车](../Page/TEM2型柴油机车.md "wikilink")
-  - [TEM4型柴油机车](https://zh.wikipedia.org/wiki/TEM4型柴油机车 "wikilink")
+  - [TEM4型柴油机车](../Page/TEM4型柴油机车.md "wikilink")
 
 ## 参考文献
 

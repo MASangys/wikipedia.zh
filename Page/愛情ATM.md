@@ -1,8 +1,8 @@
 [丁春誠](../Page/丁春誠.md "wikilink"){{、w}}[鄒承恩](../Page/鄒承恩.md "wikilink"){{、w}}
 [房思瑜](../Page/房思瑜.md "wikilink"){{、w}}[楊奇煜](../Page/楊奇煜.md "wikilink"){{、w}}[穆熙妍](../Page/穆熙妍.md "wikilink")
 | judges = | voices = | narrated = | theme_music_composer = |
-opentheme = [四個朋友](https://zh.wikipedia.org/wiki/四個朋友 "wikilink")〈因為有你〉
-| endtheme = 蘭馨〈擦去的愛〉 | composer = 周崇崑 | country =  | language =
+opentheme = [四個朋友](../Page/四個朋友.md "wikilink")〈因為有你〉 | endtheme =
+蘭馨〈擦去的愛〉 | composer = 周崇崑 | country =  | language =
 依劇情混用[台語](../Page/臺灣話.md "wikilink")、[國語等語言](../Page/中華民國國語.md "wikilink")
 | num_seasons = | num_episodes = 13集 | list_episodes = | slogan =
 **我是你的愛情，你是我的ATM** | executive_producer = | supervising_producer =
@@ -19,7 +19,7 @@ audio_format_1 = | first_run_1 =  | first_aired_1 =  |
 last_aired_1 =  | status = | preceded_by = | followed_by = | related
 = | website = <http://program.ftv.com.tw/progList.aspx?id=160> |
 production_website = | imdb_id = 6362798 }}
-，2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")，本齣戲為[民視第二部](https://zh.wikipedia.org/wiki/民視 "wikilink")[台灣流行劇](https://zh.wikipedia.org/wiki/台灣流行劇 "wikilink")，由新遊戲時代製作有限公司製作。由[劉品言](../Page/劉品言.md "wikilink")、[丁春誠](../Page/丁春誠.md "wikilink")、[鄒承恩](../Page/鄒承恩.md "wikilink")、[房思瑜](../Page/房思瑜.md "wikilink")、[楊奇煜](../Page/楊奇煜.md "wikilink")、[穆熙妍主演](../Page/穆熙妍.md "wikilink")。2013年1月中旬開拍。[民視於](https://zh.wikipedia.org/wiki/民視 "wikilink")2013年11月10日晚上10點首播，[八大綜合台於](../Page/八大綜合台.md "wikilink")2013年11月16日晚上9點播出，2014年2月2日播出最終回。全劇共13集，接檔《[我愛你愛你愛我](https://zh.wikipedia.org/wiki/我愛你愛你愛我 "wikilink")
+，2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")，本齣戲為[民視第二部](https://zh.wikipedia.org/wiki/民視 "wikilink")[台灣流行劇](https://zh.wikipedia.org/wiki/台灣流行劇 "wikilink")，由新遊戲時代製作有限公司製作。由[劉品言](../Page/劉品言.md "wikilink")、[丁春誠](../Page/丁春誠.md "wikilink")、[鄒承恩](../Page/鄒承恩.md "wikilink")、[房思瑜](../Page/房思瑜.md "wikilink")、[楊奇煜](../Page/楊奇煜.md "wikilink")、[穆熙妍主演](../Page/穆熙妍.md "wikilink")。2013年1月中旬開拍。[民視於](https://zh.wikipedia.org/wiki/民視 "wikilink")2013年11月10日晚上10點首播，[八大綜合台於](../Page/八大綜合台.md "wikilink")2013年11月16日晚上9點播出，2014年2月2日播出最終回。全劇共13集，接檔《[我愛你愛你愛我](../Page/我愛你愛你愛我.md "wikilink")
 I.U.U.I》。
 
 ## 播出時間
@@ -319,7 +319,7 @@ I.U.U.I》。
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/張東晴" title="wikilink">張東晴</a></p></td>
+<p><a href="../Page/張東晴.md" title="wikilink">張東晴</a></p></td>
 <td><center>
 <p>林小可</p></td>
 <td><p>盛哥的前女友，已過世</p></td>
@@ -349,7 +349,7 @@ I.U.U.I》。
 <tr class="even">
 <td><p>片頭曲</p></td>
 <td><p>因為有你</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/四個朋友" title="wikilink">四個朋友</a><br />
+<td><p><a href="../Page/四個朋友.md" title="wikilink">四個朋友</a><br />
 (林正、鄭宇伶、蘭馨、劉佳銘)</p></td>
 <td><p>朱翊維</p></td>
 <td><p>林正</p></td>
@@ -501,7 +501,7 @@ I.U.U.I》。
 </tbody>
 </table>
 
-  - <small>同時段劇集：[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")《[回到愛以前](https://zh.wikipedia.org/wiki/回到愛以前 "wikilink")》、[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")《[金牌老爸](https://zh.wikipedia.org/wiki/金牌老爸 "wikilink")》、[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")《[女王的誕生](https://zh.wikipedia.org/wiki/女王的誕生 "wikilink")》
+  - <small>同時段劇集：[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")《[回到愛以前](../Page/回到愛以前.md "wikilink")》、[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")《[金牌老爸](../Page/金牌老爸.md "wikilink")》、[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")《[女王的誕生](../Page/女王的誕生.md "wikilink")》
   - 由[AGB尼爾森調查](https://zh.wikipedia.org/wiki/AGB尼爾森 "wikilink")，調查範圍是四歲以上收看電視之觀眾。</small>
   - 資料來源：[中時娛樂](https://web.archive.org/web/20100821094248/http://showbiz.chinatimes.com/2009Cti/Channel/Showbiz/showbiz-rank/0,5137,tv,00.html)</small>
 

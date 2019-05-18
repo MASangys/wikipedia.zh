@@ -1,4 +1,4 @@
-《**月刊EXILE**》為[LDH發行的](https://zh.wikipedia.org/wiki/LDH_\(藝能事務所\) "wikilink")[月刊雜誌](https://zh.wikipedia.org/wiki/月刊雜誌 "wikilink")。於2008年6月27日創刊\[1\]。每月27日於日本發行。
+《**月刊EXILE**》為[LDH發行的](../Page/LDH_\(藝能事務所\).md "wikilink")[月刊雜誌](https://zh.wikipedia.org/wiki/月刊雜誌 "wikilink")。於2008年6月27日創刊\[1\]。每月27日於日本發行。
 
 ## 概要
 
@@ -10,7 +10,7 @@
   - [MATSU](../Page/松本利夫.md "wikilink")「MATSU's Best Hit Enertainment」
   - [USA](../Page/宇佐美吉啟.md "wikilink")「A List of 100 DREAMS」
   - [MAKIDAI](../Page/MAKIDAI.md "wikilink")「TATH NOTE」
-  - [TAKAHIRO](../Page/TAKAHIRO.md "wikilink")「絵具バカ日誌」
+  - [TAKAHIRO](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")「絵具バカ日誌」
   - [KENCHI](../Page/KENCHI.md "wikilink")「REMEMBER SCREEN」
   - [KEIJI](../Page/KEIJI.md "wikilink")「IN THE MIX」
   - [TETSUYA](../Page/TETSUYA_\(舞者\).md "wikilink")「Feeling
@@ -25,8 +25,7 @@
   - [GENERATIONS from EXILE
     TRIBE](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")「VARIOUS
     EXPRESSIONS」
-  - [劇團EXILE](https://zh.wikipedia.org/wiki/劇團EXILE "wikilink")「THE
-    FOOTPRINT OF ACTIVITY」
+  - [劇團EXILE](../Page/劇團EXILE.md "wikilink")「THE FOOTPRINT OF ACTIVITY」
 
 ### 過去的連載
 

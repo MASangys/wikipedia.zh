@@ -24,7 +24,7 @@ Repeats，SRSR）\[13\]。2002年SRSR被重命名为CRISPR，其中一部分基�
 
 科学家还研究了来自的更简单的CRISPR系统，其依赖于蛋白。Cas9内切核酸酶是包含两个小RNA分子的四组分系统\[15\]。
 
-[詹妮弗·杜德纳](../Page/詹妮弗·杜德纳.md "wikilink")、[埃马纽埃尔·卡彭蒂耶及](https://zh.wikipedia.org/wiki/埃马纽埃尔·卡彭蒂耶 "wikilink")[張鋒各自独立的探索CRISPR关联蛋白](https://zh.wikipedia.org/wiki/張鋒 "wikilink")，了解细菌如何在它们的免疫防御使用间隔（spacer）。他们共同研究一个比较简单的依赖于称为Cas9蛋白质的CRISPR系统。
+[詹妮弗·杜德纳](../Page/詹妮弗·杜德纳.md "wikilink")、[埃马纽埃尔·卡彭蒂耶及](../Page/埃马纽埃尔·卡彭蒂耶.md "wikilink")[張鋒各自独立的探索CRISPR关联蛋白](https://zh.wikipedia.org/wiki/張鋒 "wikilink")，了解细菌如何在它们的免疫防御使用间隔（spacer）。他们共同研究一个比较简单的依赖于称为Cas9蛋白质的CRISPR系统。
 
 ### Cpf1
 
@@ -33,7 +33,7 @@ Repeats，SRSR）\[13\]。2002年SRSR被重命名为CRISPR，其中一部分基�
 
 ## 評價
 
-在2012年和2013年，CRISPR是《》年度突破的第二名。在2015年，它是该奖项的赢家。CRISPR在2014年和2016年被《[麻省理工科技評論](https://zh.wikipedia.org/wiki/麻省理工科技評論 "wikilink")》评为10项突破技术之一\[19\]\[20\]。
+在2012年和2013年，CRISPR是《》年度突破的第二名。在2015年，它是该奖项的赢家。CRISPR在2014年和2016年被《[麻省理工科技評論](../Page/麻省理工科技評論.md "wikilink")》评为10项突破技术之一\[19\]\[20\]。
 
 ## 參考文獻
 
@@ -57,7 +57,7 @@ Repeats，SRSR）\[13\]。2002年SRSR被重命名为CRISPR，其中一部分基�
   -
 ## 参阅
 
-  - [基因编辑婴儿事件](https://zh.wikipedia.org/wiki/基因编辑婴儿事件 "wikilink")
+  - [基因编辑婴儿事件](../Page/基因编辑婴儿事件.md "wikilink")
   - [基因剔除](https://zh.wikipedia.org/wiki/基因剔除 "wikilink")
   - [RNA干扰](../Page/RNA干扰.md "wikilink")
   - [小干擾RNA](https://zh.wikipedia.org/wiki/小干擾RNA "wikilink")（SiRNA）
@@ -71,7 +71,7 @@ Repeats，SRSR）\[13\]。2002年SRSR被重命名为CRISPR，其中一部分基�
 
   - [Advanced Gene Editing:
     CRISPR-Cas9](https://fas.org/sgp/crs/misc/R44824.pdf) [Congressional
-    Research Service](https://zh.wikipedia.org/wiki/國會研究處 "wikilink")
+    Research Service](../Page/國會研究處.md "wikilink")
 
   - [Jennifer Doudna talk: Genome Engineering with CRISPR-Cas9: Birth of
     a Breakthrough

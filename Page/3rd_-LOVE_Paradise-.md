@@ -1,10 +1,10 @@
 《**3rd -LOVE
-Paradise-**》（）是[日本女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")3張原創專輯。於2000年3月29日發行。唱片公司為[zetima](../Page/zetima.md "wikilink")。
+Paradise-**》（）是[日本女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")3張原創專輯。於2000年3月29日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
   - 與上一張原創專輯《[Second
-    Morning](https://zh.wikipedia.org/wiki/Second_Morning "wikilink")》相距約8個月。
+    Morning](../Page/Second_Morning.md "wikilink")》相距約8個月。
   - 收錄第7張單曲《[LOVE
     MACHINE](../Page/LOVE_MACHINE.md "wikilink")》和第8張單曲《[戀愛熱舞站](../Page/戀愛熱舞站.md "wikilink")》共2首A面曲。
   - 三期成員[後藤真希加入後第一張原創專輯](../Page/後藤真希.md "wikilink")。此專輯是[早安少女组。以七人形式演唱的](https://zh.wikipedia.org/wiki/早安少女组。 "wikilink")，一期成员[石黑彩只参与一張單曲](../Page/石黑彩.md "wikilink")（[LOVE

@@ -212,7 +212,7 @@
 
 ## 電視動畫
 
-於2013年4月在[東京電視台](../Page/東京電視台.md "wikilink")、[NICONICO動畫播放](../Page/NICONICO動畫.md "wikilink")。
+於2013年4月在[東京電視台](../Page/東京電視台.md "wikilink")、[NICONICO動畫播放](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。
 
 ### 製作人員
 
@@ -389,11 +389,11 @@
 
 ### 播放電視台
 
-| 播放地區                                                    | 播放電視台                                          | 播放日期                | 播放時間（[UTC+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播網                                | 備註 |
-| ------------------------------------------------------- | ---------------------------------------------- | ------------------- | ------------------------------------------------------------- | ------------------------------------ | -- |
-| [關東廣域圈](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink") | [東京電視台](../Page/東京電視台.md "wikilink")           | 2013年4月9日 - 6月25日   | 星期二 25時35分 - 25時40分                                           | [東京電視網](../Page/東京電視網.md "wikilink") |    |
-| 日本全國                                                    | [NICONICO動畫](../Page/NICONICO動畫.md "wikilink") | 星期二 25時40分 更新       | [網路電視](https://zh.wikipedia.org/wiki/網路電視 "wikilink")         | 有片尾曲                                 |    |
-| [AT-X](../Page/AT-X.md "wikilink")                      | 2013年4月16日 - 7月2日                              | 星期二 21時25分 - 21時30分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")         | 有重播                                  |    |
+| 播放地區                                                    | 播放電視台                                                             | 播放日期                | 播放時間（[UTC+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播網                                | 備註 |
+| ------------------------------------------------------- | ----------------------------------------------------------------- | ------------------- | ------------------------------------------------------------- | ------------------------------------ | -- |
+| [關東廣域圈](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink") | [東京電視台](../Page/東京電視台.md "wikilink")                              | 2013年4月9日 - 6月25日   | 星期二 25時35分 - 25時40分                                           | [東京電視網](../Page/東京電視網.md "wikilink") |    |
+| 日本全國                                                    | [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 星期二 25時40分 更新       | [網路電視](https://zh.wikipedia.org/wiki/網路電視 "wikilink")         | 有片尾曲                                 |    |
+| [AT-X](../Page/AT-X.md "wikilink")                      | 2013年4月16日 - 7月2日                                                 | 星期二 21時25分 - 21時30分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")         | 有重播                                  |    |
 
 ## 參考資料
 

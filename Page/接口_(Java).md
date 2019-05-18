@@ -103,11 +103,11 @@ prey)`，當一個類別實現`VenomousPredator`的時候，它將同時實現�
 
   - 是一個[marker
     interface](https://zh.wikipedia.org/wiki/marker_interface "wikilink")
-    沒有任何介面或是欄位，僅有一個空的主體，它被用來表示一個類別可以被[序列化](../Page/序列化.md "wikilink")。它的[Javadoc描述了他是如何運作](https://zh.wikipedia.org/wiki/Javadoc "wikilink")，而且不需要被強制編程。
+    沒有任何介面或是欄位，僅有一個空的主體，它被用來表示一個類別可以被[序列化](../Page/序列化.md "wikilink")。它的[Javadoc描述了他是如何運作](../Page/Javadoc.md "wikilink")，而且不需要被強制編程。
 
 ## 另見
 
-  - [Mixin](https://zh.wikipedia.org/wiki/Mixin "wikilink")
+  - [Mixin](../Page/Mixin.md "wikilink")
   - [Traits](https://zh.wikipedia.org/wiki/Trait_\(computer_programming\) "wikilink")
 
 ## 參考文獻

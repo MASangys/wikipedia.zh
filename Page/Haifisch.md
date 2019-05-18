@@ -12,14 +12,14 @@ Schneider殴打并焚烧](https://zh.wikipedia.org/wiki/Christoph_Schneider "wik
 hast](../Page/Du_hast.md "wikilink")"），攀岩时钢丝绳被[Richard
 Kruspe切断](https://zh.wikipedia.org/wiki/Richard_Kruspe "wikilink")（"[Ohne
 dich](https://zh.wikipedia.org/wiki/Ohne_dich "wikilink")"），探月时太空服里的氧气管被[Oliver
-Riedel拔出](https://zh.wikipedia.org/wiki/Oliver_Riedel "wikilink")（"[Amerika](https://zh.wikipedia.org/wiki/Amerika "wikilink")"），[Christian
+Riedel拔出](https://zh.wikipedia.org/wiki/Oliver_Riedel "wikilink")（"[Amerika](../Page/Amerika.md "wikilink")"），[Christian
 Lorenz对肥胖的Lindemann进行强制灌食致死](https://zh.wikipedia.org/wiki/Christian_Lorenz "wikilink")（对电影[七宗罪表示致敬](https://zh.wikipedia.org/wiki/七宗罪_\(电影\) "wikilink")，"[Mein
 Teil](../Page/Mein_Teil.md "wikilink")"和"[Keine
-Lust](https://zh.wikipedia.org/wiki/Keine_Lust "wikilink")"），Lindemann装扮成白雪公主打[Paul
+Lust](../Page/Keine_Lust.md "wikilink")"），Lindemann装扮成白雪公主打[Paul
 Landers](https://zh.wikipedia.org/wiki/Paul_Landers "wikilink")（"[Sonne](../Page/Sonne.md "wikilink")"）。Landers走出门和Kruspe打斗，随后乐队成员开始他们之间的决斗，Lorenz掉入了坟墓，发现棺材是空的。长着胡子的Lindemann仍然活着，他在[夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")[瓦胡岛](https://zh.wikipedia.org/wiki/瓦胡岛 "wikilink")，他写了张明信片："Viele
 Grüße vom Arsch der
 Welt"（德译：来自荒野的问候），并展示了他抓了条[鼬鲨](https://zh.wikipedia.org/wiki/鼬鲨 "wikilink")，也似乎是MV"[Mein
-Land](https://zh.wikipedia.org/wiki/Mein_Land "wikilink")"的前奏。
+Land](../Page/Mein_Land.md "wikilink")"的前奏。
 
 [Category:2010年单曲](https://zh.wikipedia.org/wiki/Category:2010年单曲 "wikilink")
 [Category:Rammstein歌曲](https://zh.wikipedia.org/wiki/Category:Rammstein歌曲 "wikilink")

@@ -31,7 +31,7 @@ EnergyPlus也可用于[模拟](https://zh.wikipedia.org/wiki/模拟 "wikilink")[
 
 ## 模块化\[8\]
 
-  - EnergyPlus的良好组织的模块概念使增加特征和连接其他程序变得容易。[FORTRAN](../Page/FORTRAN.md "wikilink")90被用于开发EnergyPlus，是基于该语言的以下特点：
+  - EnergyPlus的良好组织的模块概念使增加特征和连接其他程序变得容易。[FORTRAN](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")90被用于开发EnergyPlus，是基于该语言的以下特点：
   - 由于这是在许多平台有良好[编译工具的现代模块化语言](https://zh.wikipedia.org/wiki/编译 "wikilink")
   - 允许类似于[C语言的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[数据结构和混合语言模块](../Page/数据结构.md "wikilink")
   - 提供开始[面向对象的结构](https://zh.wikipedia.org/wiki/面向对象 "wikilink")

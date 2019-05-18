@@ -68,7 +68,7 @@ DK2-114，保存于[呼和浩特铁路局包头西机务段](https://zh.wikipedi
 
 ### 机车保存
 
-DK5-250，保存于[沈阳铁路陈列馆](https://zh.wikipedia.org/wiki/沈阳铁路陈列馆 "wikilink")。
+DK5-250，保存于[沈阳铁路陈列馆](../Page/沈阳铁路陈列馆.md "wikilink")。
 
 <references />
 

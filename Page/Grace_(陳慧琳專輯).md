@@ -1,6 +1,5 @@
 《**Grace**》為[陳慧琳首張日語專輯](../Page/陳慧琳.md "wikilink")，2002年1月30日於[日本正式發售](../Page/日本.md "wikilink")。此專輯一共收錄了10首日語歌曲。香港版本於2002年2月28日推出，追加收錄1996年粵語作品《[旅人](https://zh.wikipedia.org/wiki/旅人 "wikilink")》、1997年日語作品《[開始是狡猾的清晨](https://zh.wikipedia.org/wiki/開始是狡猾的清晨 "wikilink")》及
-派台歌曲《[Ask](https://zh.wikipedia.org/wiki/Ask_\(陳慧琳單曲\) "wikilink")》的 PV
-。
+派台歌曲《[Ask](../Page/Ask_\(陳慧琳單曲\).md "wikilink")》的 PV 。
 
 ## 收錄內容
 
@@ -19,7 +18,7 @@
 
 ### 派台歌曲
 
-1.  [Ask](https://zh.wikipedia.org/wiki/Ask_\(陳慧琳單曲\) "wikilink")
+1.  [Ask](../Page/Ask_\(陳慧琳單曲\).md "wikilink")
 
 ### 版本
 

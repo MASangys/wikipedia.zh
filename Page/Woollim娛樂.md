@@ -21,7 +21,7 @@ Entertainment*'（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 <td><p>2010年6月9日</p></td>
 <td><p><a href="../Page/INFINITE.md" title="wikilink">INFINITE</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/男" title="wikilink">男</a></p></td>
-<td><p><a href="../Page/金聖圭.md" title="wikilink">聖圭</a>、<a href="https://zh.wikipedia.org/wiki/東雨" title="wikilink">東雨</a>、<a href="https://zh.wikipedia.org/wiki/南優賢" title="wikilink">優鉉</a>、<a href="https://zh.wikipedia.org/wiki/成烈" title="wikilink">成烈</a>、<a href="../Page/金明洙.md" title="wikilink">L</a>、<a href="https://zh.wikipedia.org/wiki/李成種" title="wikilink">成鍾</a></p></td>
+<td><p><a href="../Page/金聖圭.md" title="wikilink">聖圭</a>、<a href="https://zh.wikipedia.org/wiki/東雨" title="wikilink">東雨</a>、<a href="https://zh.wikipedia.org/wiki/南優賢" title="wikilink">優鉉</a>、<a href="https://zh.wikipedia.org/wiki/成烈" title="wikilink">成烈</a>、<a href="../Page/金明洙.md" title="wikilink">L</a>、<a href="../Page/李成種.md" title="wikilink">成鍾</a></p></td>
 <td><p><a href="../Page/金聖圭.md" title="wikilink">聖圭</a></p></td>
 <td><p>活動中</p></td>
 <td><p>INSPIRIT (인스피릿)</p></td>
@@ -41,7 +41,7 @@ Entertainment*'（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 <td><p>2014年11月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/女" title="wikilink">女</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Baby_Soul" title="wikilink">Baby Soul</a>、<a href="https://zh.wikipedia.org/wiki/劉智愛" title="wikilink">智愛</a>、<a href="../Page/徐智秀.md" title="wikilink">智秀</a>、<a href="../Page/李美珠.md" title="wikilink">美珠</a>、<a href="../Page/Kei.md" title="wikilink">Kei</a>、<a href="../Page/Jin_(Lovelyz).md" title="wikilink">JIN</a>、<a href="../Page/柳洙正.md" title="wikilink">洙正</a>、<a href="../Page/鄭叡仁.md" title="wikilink">叡仁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Baby_Soul" title="wikilink">Baby Soul</a>、<a href="../Page/劉智愛.md" title="wikilink">智愛</a>、<a href="../Page/徐智秀.md" title="wikilink">智秀</a>、<a href="../Page/李美珠.md" title="wikilink">美珠</a>、<a href="../Page/Kei.md" title="wikilink">Kei</a>、<a href="../Page/Jin_(Lovelyz).md" title="wikilink">JIN</a>、<a href="../Page/柳洙正.md" title="wikilink">洙正</a>、<a href="../Page/鄭叡仁.md" title="wikilink">叡仁</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Baby_Soul" title="wikilink">Baby Soul</a></p></td>
 <td><p>活動中</p></td>
 <td><p>Lovelinus (러블리너스)</p></td>
@@ -49,10 +49,10 @@ Entertainment*'（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 </tr>
 <tr class="odd">
 <td><p>2017年8月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Golden_Child" title="wikilink">Golden Child</a></p></td>
+<td><p><a href="../Page/Golden_Child.md" title="wikilink">Golden Child</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/男" title="wikilink">男</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李大烈" title="wikilink">大烈</a>、<a href="https://zh.wikipedia.org/wiki/崔聖允" title="wikilink">Y</a>、<a href="https://zh.wikipedia.org/wiki/李長埈" title="wikilink">長埈</a>、<a href="https://zh.wikipedia.org/wiki/孫永宅" title="wikilink">TAG</a> 、<a href="https://zh.wikipedia.org/wiki/裴勝民" title="wikilink">勝民</a>、<a href="https://zh.wikipedia.org/wiki/奉宰鉉" title="wikilink">宰鉉</a>、<a href="https://zh.wikipedia.org/wiki/金知範" title="wikilink">知範</a>、<a href="https://zh.wikipedia.org/wiki/金東炫_(Golden_Child_成員)" title="wikilink">東炫</a>、<a href="https://zh.wikipedia.org/wiki/洪周燦" title="wikilink">周燦</a>、<a href="https://zh.wikipedia.org/wiki/崔普閔" title="wikilink">普閔</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李大烈" title="wikilink">大烈</a></p></td>
+<td><p><a href="../Page/李大烈.md" title="wikilink">大烈</a>、<a href="https://zh.wikipedia.org/wiki/崔聖允" title="wikilink">Y</a>、<a href="https://zh.wikipedia.org/wiki/李長埈" title="wikilink">長埈</a>、<a href="https://zh.wikipedia.org/wiki/孫永宅" title="wikilink">TAG</a> 、<a href="https://zh.wikipedia.org/wiki/裴勝民" title="wikilink">勝民</a>、<a href="https://zh.wikipedia.org/wiki/奉宰鉉" title="wikilink">宰鉉</a>、<a href="https://zh.wikipedia.org/wiki/金知範" title="wikilink">知範</a>、<a href="https://zh.wikipedia.org/wiki/金東炫_(Golden_Child_成員)" title="wikilink">東炫</a>、<a href="https://zh.wikipedia.org/wiki/洪周燦" title="wikilink">周燦</a>、<a href="https://zh.wikipedia.org/wiki/崔普閔" title="wikilink">普閔</a></p></td>
+<td><p><a href="../Page/李大烈.md" title="wikilink">大烈</a></p></td>
 <td><p>活動中</p></td>
 <td><p>Goldenness (골드니스)</p></td>
 <td></td>
@@ -98,9 +98,9 @@ Entertainment*'（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 <tr class="even">
 <td><p>2014年11月19日（日）<br />
 2014年12月1日（韓）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/INFINITE_F" title="wikilink">INFINITE F</a></p></td>
+<td><p><a href="../Page/INFINITE_F.md" title="wikilink">INFINITE F</a></p></td>
 <td><p>男</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李成烈" title="wikilink">成烈</a>、<a href="../Page/金明洙.md" title="wikilink">L</a>、<a href="https://zh.wikipedia.org/wiki/李成種" title="wikilink">成鍾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李成烈" title="wikilink">成烈</a>、<a href="../Page/金明洙.md" title="wikilink">L</a>、<a href="../Page/李成種.md" title="wikilink">成鍾</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李成烈" title="wikilink">成烈</a></p></td>
 <td><p>活動中</p></td>
 <td><p>INSPIRIT (인스피릿)</p></td>
@@ -150,7 +150,7 @@ Entertainment*'（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 <tr class="even">
 <td><p>2013年4月24日</p></td>
 <td><p>2014年11月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/劉智愛" title="wikilink">智愛</a></p></td>
+<td><p><a href="../Page/劉智愛.md" title="wikilink">智愛</a></p></td>
 <td><p>女</p></td>
 <td><p>Lovelinus (러블리너스)</p></td>
 <td><p><strong>-</strong></p></td>
@@ -214,7 +214,7 @@ Entertainment*'（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 <tr class="even">
 <td><p>2019年2月27日</p></td>
 <td><p>2017年8月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Golden_Child" title="wikilink">周燦</a></p></td>
+<td><p><a href="../Page/Golden_Child.md" title="wikilink">周燦</a></p></td>
 <td><p>男</p></td>
 <td><p>Goldenness（골드니스）</p></td>
 <td><p>-</p></td>
@@ -233,34 +233,26 @@ Entertainment*'（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 ### 女練習生
 
   - [權恩妃](https://zh.wikipedia.org/wiki/權恩妃 "wikilink")（[Ye-A](https://zh.wikipedia.org/wiki/Ye-A "wikilink")、[PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")、[IZ\*ONE](https://zh.wikipedia.org/wiki/IZ*ONE "wikilink")）
-  - [金采源](https://zh.wikipedia.org/wiki/金采源 "wikilink")（[PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")、[IZ\*ONE](https://zh.wikipedia.org/wiki/IZ*ONE "wikilink")）
+    48](../Page/PRODUCE_48.md "wikilink")、[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）
+  - [金采源](../Page/金采源.md "wikilink")（[PRODUCE
+    48](../Page/PRODUCE_48.md "wikilink")、[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）
   - [高橋朱里](../Page/高橋朱里.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")、[PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")）
+    48](../Page/PRODUCE_48.md "wikilink")）
   - 金蓮熙（2000-12-06）
-  - 金秀潤（2001-03-17 [PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")）
+  - 金秀潤（2001-03-17 [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")）
   - 徐胤卿（2001-11-01）
-  - 金素嬉（2003-08-14 [PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")）
+  - 金素嬉（2003-08-14 [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")）
   - 鄭多玹（2005-04-29）
   - 尹素允
 
 ### 男練習生
 
-  - 車俊昊（[PRODUCE X
-    101](https://zh.wikipedia.org/wiki/PRODUCE_X_101 "wikilink")）
-  - 金東玧（[PRODUCE X
-    101](https://zh.wikipedia.org/wiki/PRODUCE_X_101 "wikilink")）
-  - 黃允盛（[PRODUCE X
-    101](https://zh.wikipedia.org/wiki/PRODUCE_X_101 "wikilink")）
-  - 朱昌玉（[PRODUCE X
-    101](https://zh.wikipedia.org/wiki/PRODUCE_X_101 "wikilink")）
-  - 金敏緒（[PRODUCE X
-    101](https://zh.wikipedia.org/wiki/PRODUCE_X_101 "wikilink")）
-  - 文俊浩（[PRODUCE X
-    101](https://zh.wikipedia.org/wiki/PRODUCE_X_101 "wikilink")）
+  - 車俊昊（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - 金東玧（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - 黃允盛（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - 朱昌玉（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - 金敏緒（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - 文俊浩（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 ## 離開藝人
 
@@ -275,13 +267,12 @@ Entertainment*'（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
     (黃智宣)](https://zh.wikipedia.org/wiki/黃智善_\(1979年\) "wikilink")
   - [郭正旭](../Page/郭正旭.md "wikilink")
   - [TASTY](../Page/TASTY.md "wikilink")（2012年 — 2015年）
-  - [Nell](https://zh.wikipedia.org/wiki/Nell_\(樂團\) "wikilink")（2006年 —
-    2016年）
-  - [李憐惟](https://zh.wikipedia.org/wiki/李憐惟 "wikilink")（2016年 — 2017年）
+  - [Nell](../Page/Nell_\(樂團\).md "wikilink")（2006年 — 2016年）
+  - [李憐惟](../Page/李憐惟.md "wikilink")（2016年 — 2017年）
   - [Hoya](../Page/Hoya.md "wikilink")（2010年 — 2017年）
   - [金玟錫](https://zh.wikipedia.org/wiki/金玟錫 "wikilink")（2014年 — 2017年）
   - 朴在錫（2017年 — 2018年）
-  - [吳炫旻](https://zh.wikipedia.org/wiki/吳炫旻 "wikilink")（2017年 — 2018年）
+  - [吳炫旻](../Page/吳炫旻.md "wikilink")（2017年 — 2018年）
 
 ### 曾經所屬企劃組合／子團
 
@@ -296,19 +287,17 @@ Entertainment*'（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
   - [安宰孝](https://zh.wikipedia.org/wiki/安宰孝 "wikilink")（[INFINITE預備成員](../Page/INFINITE.md "wikilink")，後以[Block
     B岀道](../Page/Block_B.md "wikilink")）
   - 吳成鍾（曾以[SPEED出道](../Page/SPEED_\(韓國音樂團體\).md "wikilink")，現為個人歌手）
-  - 崔宇赫（以[Like A
-    Movie出道](https://zh.wikipedia.org/wiki/Like_A_Movie "wikilink")）
-  - [李婁彬](https://zh.wikipedia.org/wiki/李婁彬 "wikilink")（曾參與《[少年24](../Page/少年24.md "wikilink")》、《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，後以[1TEAM出道](https://zh.wikipedia.org/wiki/1TEAM "wikilink")）
-  - [全雄](https://zh.wikipedia.org/wiki/全雄 "wikilink")（曾是[JYP娛樂及](../Page/JYP娛樂.md "wikilink")[YG娛樂練習生](../Page/YG娛樂.md "wikilink")，後以[AB6IX出道](https://zh.wikipedia.org/wiki/AB6IX "wikilink")）
+  - 崔宇赫（以[Like A Movie出道](../Page/Like_A_Movie.md "wikilink")）
+  - [李婁彬](../Page/李婁彬.md "wikilink")（曾參與《[少年24](../Page/少年24.md "wikilink")》、《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，後以[1TEAM出道](../Page/1TEAM.md "wikilink")）
+  - [全雄](../Page/全雄.md "wikilink")（曾是[JYP娛樂及](../Page/JYP娛樂.md "wikilink")[YG娛樂練習生](../Page/YG娛樂.md "wikilink")，後以[AB6IX出道](../Page/AB6IX.md "wikilink")）
   - 具寶慧（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後以[Heart
-    Rabbit
-    Girls出道](https://zh.wikipedia.org/wiki/Heart_Rabbit_Girls "wikilink")）
+    Rabbit Girls出道](../Page/Heart_Rabbit_Girls.md "wikilink")）
   - [曺承希](../Page/曺承希.md "wikilink")（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，曾以[F-VE
     DOLLS](../Page/F-VE_DOLLS.md "wikilink")、[DIA出道](https://zh.wikipedia.org/wiki/DIA "wikilink")，現為演員）
   - [韓書仁](https://zh.wikipedia.org/wiki/吳連卿 "wikilink")（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，曾以[The
     SeeYa](../Page/The_SeeYa.md "wikilink")、[F-VE
     DOLLS出道](../Page/F-VE_DOLLS.md "wikilink")，現為個人歌手）
-  - 崔允瑄（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後以[SONAMOO出道](https://zh.wikipedia.org/wiki/SONAMOO "wikilink")）
+  - 崔允瑄（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後以[SONAMOO出道](../Page/SONAMOO.md "wikilink")）
   - [奇熙賢](../Page/奇熙賢.md "wikilink")（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後以[DIA出道](https://zh.wikipedia.org/wiki/DIA "wikilink")）
   - 朴允珠（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後轉到Ulala
     Company練習）
@@ -329,7 +318,7 @@ Group](../Page/華納音樂集團.md "wikilink")、[Sony Music
 Entertainment](../Page/索尼音樂娛樂.md "wikilink")
 等國際主要音樂公司的藝人，開始深入了解商標化的經營。首先，SM
 C\&C 首先合併了旗下擁有
-[INFINITE](../Page/INFINITE.md "wikilink")、[Nell](https://zh.wikipedia.org/wiki/Nell_\(樂團\) "wikilink")、[TASTY](../Page/TASTY.md "wikilink")
+[INFINITE](../Page/INFINITE.md "wikilink")、[Nell](../Page/Nell_\(樂團\).md "wikilink")、[TASTY](../Page/TASTY.md "wikilink")
 等藝人的 [Woollim
 Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")，並決定經營一個與現存的SM
 Entertainment 不同的獨立品牌「[Woollim

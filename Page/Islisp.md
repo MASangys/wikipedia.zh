@@ -1,5 +1,5 @@
 **ISLISP** (也可以写作 **ISLisp**) 是一种
-[Lisp家族的](../Page/Lisp.md "wikilink")[编程语言](../Page/编程语言.md "wikilink")，
+[Lisp家族的](https://zh.wikipedia.org/wiki/Lisp "wikilink")[编程语言](../Page/编程语言.md "wikilink")，
 由ISO工作组ISO/IEC JTC 1/SC 22/WG 16（通常简称为SC22/WG16或WG16）进行标准化工作。
 该工作的主要成果是一个国际标准，ISO/IEC13816:1997(E)，由ISO出版。该标准在2007年更新并重新发布ISO/IEC13816:2007(E)。虽然官方公布是通过ISO，ISLISP语言规范的版本被认为是[公有领域的](../Page/公有领域.md "wikilink")。
 

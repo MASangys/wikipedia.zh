@@ -4,7 +4,7 @@ Snow**》是[花澤香菜以个人名义发表的第](../Page/花澤香菜.md "w
 ## 概要
 
 距前作《[happy
-endings](../Page/happy_endings.md "wikilink")》发行兩个月后发行的第四张单曲、以「冬」作为主题。本張單曲是花澤香菜於2012年一整年間分別以春夏秋冬四季的印象來作為形象企劃系列的最後一張單曲。
+endings](https://zh.wikipedia.org/wiki/happy_endings "wikilink")》发行兩个月后发行的第四张单曲、以「冬」作为主题。本張單曲是花澤香菜於2012年一整年間分別以春夏秋冬四季的印象來作為形象企劃系列的最後一張單曲。
 
 ## 收錄曲目
 

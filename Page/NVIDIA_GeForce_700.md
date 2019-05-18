@@ -175,8 +175,7 @@ GeForce 700系列的桌上型顯示核心，首發實際上是GeForce GTX TITAN�
     列表數據絕大部分來源於輝達的公版顯示卡的資料，實際數據會因不同廠商推出的非公版型號而有所出入；另外GF108、GF117以及GF119的時脈數據標示為：CUDA核心時脈/渲染器時脈
   - <sup>8</sup> GeForce GTX 750\[37\]以及GeForce GTX 750
     Ti採用的是『Maxwell』架構的顯示核心\[38\]\[39\]\[40\]，詳見[NVIDIA
-    GeForce
-    800系列](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_800 "wikilink")
+    GeForce 800系列](../Page/NVIDIA_GeForce_800.md "wikilink")
   - <sup>9</sup> GeForce GT
     740只有非公版顯示卡，實際顯示核心、視訊記憶體之時脈會與NVIDIA發布的資料有所差異。\[41\]
 
@@ -229,7 +228,7 @@ GeForce 700系列的桌上型顯示核心，首發實際上是GeForce GTX TITAN�
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Vulkan_(API)" title="wikilink">Vulkan</a></p></td>
+<td><p><a href="../Page/Vulkan_(API).md" title="wikilink">Vulkan</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/單精度浮點數" title="wikilink">單精度浮點數</a></p></td>
 <td><p><a href="../Page/雙精度浮點數.md" title="wikilink">雙精度浮點數</a></p></td>
 </tr>
@@ -789,7 +788,7 @@ GK104-325-A2</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Vulkan_(API)" title="wikilink">Vulkan</a></p></td>
+<td><p><a href="../Page/Vulkan_(API).md" title="wikilink">Vulkan</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/單精度浮點數" title="wikilink">單精度浮點數</a></p></td>
 <td><p><a href="../Page/雙精度浮點數.md" title="wikilink">雙精度浮點數</a></p></td>
 </tr>

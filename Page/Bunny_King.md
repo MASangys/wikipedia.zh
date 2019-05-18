@@ -1,6 +1,6 @@
 **Bunny King**為[香港設計品牌](../Page/香港.md "wikilink")**[Dream
 Capsule](https://zh.wikipedia.org/wiki/Dream_Capsule "wikilink")**其下的一個[卡通人物系列](https://zh.wikipedia.org/wiki/卡通人物 "wikilink")，於2007年創立。Bunny
-King是一隻愛瞪眼發呆的卡通兔仔。沒有天生異禀，卻是自然界的統治者\[1\]。日常生活是四出[旅行](https://zh.wikipedia.org/wiki/旅行 "wikilink")[冒險](https://zh.wikipedia.org/wiki/冒險 "wikilink")，興趣是揮動那支來歷不明的骷髏[權杖](https://zh.wikipedia.org/wiki/權杖 "wikilink")。毫無才能的Bunny
+King是一隻愛瞪眼發呆的卡通兔仔。沒有天生異禀，卻是自然界的統治者\[1\]。日常生活是四出[旅行](https://zh.wikipedia.org/wiki/旅行 "wikilink")[冒險](../Page/冒險.md "wikilink")，興趣是揮動那支來歷不明的骷髏[權杖](https://zh.wikipedia.org/wiki/權杖 "wikilink")。毫無才能的Bunny
 King為何能成為大自然的統治者至今仍是個[謎](https://zh.wikipedia.org/wiki/謎 "wikilink")。
 [HK_Kennedy_Town_Belcher's_西寶城_Westwood_mall_logo_Xmas_decoration_Bunny_King_Dec-2011.jpg](https://zh.wikipedia.org/wiki/File:HK_Kennedy_Town_Belcher's_西寶城_Westwood_mall_logo_Xmas_decoration_Bunny_King_Dec-2011.jpg "fig:HK_Kennedy_Town_Belcher's_西寶城_Westwood_mall_logo_Xmas_decoration_Bunny_King_Dec-2011.jpg")\]\]
 [HK_Kennedy_Town_Belcher's_西寶城_Westwood_mall_Xmas_tree_Bunny_King_Dec-2011.jpg](https://zh.wikipedia.org/wiki/File:HK_Kennedy_Town_Belcher's_西寶城_Westwood_mall_Xmas_tree_Bunny_King_Dec-2011.jpg "fig:HK_Kennedy_Town_Belcher's_西寶城_Westwood_mall_Xmas_tree_Bunny_King_Dec-2011.jpg")\]\]
@@ -133,7 +133,7 @@ King首度合作的產品
 8月 – Dream
 Capsule網站推出全新版本，加入[網上商店版面](https://zh.wikipedia.org/wiki/網上商店 "wikilink")
 9月 – Dream Capsule
-[Facebook專頁支持者人數突破](../Page/FACEBOOK.md "wikilink")5000人
+[Facebook專頁支持者人數突破](https://zh.wikipedia.org/wiki/FACEBOOK "wikilink")5000人
 12月 –
 於[港灣豪庭廣場舉行](../Page/港灣豪庭.md "wikilink")[聖誕節活動](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")：Bunny
 King聖誕繽紛王國

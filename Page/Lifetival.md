@@ -11,7 +11,7 @@ Story》，於節目中擔任時裝[模特兒](../Page/模特兒.md "wikilink")�
 
 ### 現任
 
-  - [黃心美](https://zh.wikipedia.org/wiki/黃心美 "wikilink")
+  - [黃心美](../Page/黃心美.md "wikilink")
 
   - [駱振偉](../Page/駱振偉.md "wikilink")
 

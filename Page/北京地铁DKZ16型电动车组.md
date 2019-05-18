@@ -61,7 +61,7 @@ DKZ16型由[长春轨道客车和](https://zh.wikipedia.org/wiki/长春轨道客
 
 ### 第1部分
 
-列车从[长春轨道客车出发](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")，经[哈大铁路](https://zh.wikipedia.org/wiki/哈大铁路 "wikilink")、[沈山铁路](../Page/沈山铁路.md "wikilink")、[京秦铁路](../Page/京秦铁路.md "wikilink")、[双沙铁路到达](../Page/双沙铁路.md "wikilink")[小红门站](https://zh.wikipedia.org/wiki/小红门站_\(铁路\) "wikilink")，之后进入与[北京地铁车辆厂的联络线](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")，通过[北京地铁车辆厂和](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")[宋家庄停车场的联络线](../Page/宋家庄停车场.md "wikilink")，到达[宋家庄停车场](../Page/宋家庄停车场.md "wikilink")。之后进入[5号线](../Page/北京地铁5号线.md "wikilink")，再通过[5号线和](../Page/北京地铁5号线.md "wikilink")[1号线的联络线进入](../Page/北京地铁1号线.md "wikilink")[1号线](../Page/北京地铁1号线.md "wikilink")，最后再通过[1号线和](../Page/北京地铁1号线.md "wikilink")[2号线的联络线进入](../Page/北京地铁2号线.md "wikilink")[2号线](../Page/北京地铁2号线.md "wikilink")，到达[太平湖车辆段](https://zh.wikipedia.org/wiki/太平湖车辆段 "wikilink")。
+列车从[长春轨道客车出发](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")，经[哈大铁路](https://zh.wikipedia.org/wiki/哈大铁路 "wikilink")、[沈山铁路](../Page/沈山铁路.md "wikilink")、[京秦铁路](../Page/京秦铁路.md "wikilink")、[双沙铁路到达](../Page/双沙铁路.md "wikilink")[小红门站](../Page/小红门站_\(铁路\).md "wikilink")，之后进入与[北京地铁车辆厂的联络线](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")，通过[北京地铁车辆厂和](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")[宋家庄停车场的联络线](../Page/宋家庄停车场.md "wikilink")，到达[宋家庄停车场](../Page/宋家庄停车场.md "wikilink")。之后进入[5号线](../Page/北京地铁5号线.md "wikilink")，再通过[5号线和](../Page/北京地铁5号线.md "wikilink")[1号线的联络线进入](../Page/北京地铁1号线.md "wikilink")[1号线](../Page/北京地铁1号线.md "wikilink")，最后再通过[1号线和](../Page/北京地铁1号线.md "wikilink")[2号线的联络线进入](../Page/北京地铁2号线.md "wikilink")[2号线](../Page/北京地铁2号线.md "wikilink")，到达[太平湖车辆段](https://zh.wikipedia.org/wiki/太平湖车辆段 "wikilink")。
 
 ### 第2部分
 

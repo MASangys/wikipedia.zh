@@ -15,12 +15,12 @@ long\!》與《GIVE ME FIVE\!》同樣，標題中沒有包含「櫻花」的文
 这张单曲分為Type-A、-K、-B以及劇場盤4種發售\[3\]。
 
 《So long\!》是[日本電視台系列](../Page/日本電視台.md "wikilink")3夜連續劇《[So
-long\!](https://zh.wikipedia.org/wiki/So_long_!_\(日本電視劇\) "wikilink")》的主題曲，同样以樱花为主题的《變成櫻花樹》也曾被被同電視台在2011年播放的劇集《[來自櫻花的信
+long\!](../Page/So_long_!_\(日本電視劇\).md "wikilink")》的主題曲，同样以樱花为主题的《變成櫻花樹》也曾被被同電視台在2011年播放的劇集《[來自櫻花的信
 ～AKB48
 各自的畢業故事～](../Page/來自櫻花的信_～AKB48_各自的畢業故事～.md "wikilink")》启用为主題曲。这首主打曲在2013年1月22日[TBS播放的音樂節目](../Page/TBS電視台.md "wikilink")《[火曜曲！](https://zh.wikipedia.org/wiki/火曜曲！ "wikilink")》上初次披露，也是[渡邊麻友首次擔任主打曲的中心位置](../Page/渡邊麻友.md "wikilink")。
 
 A面曲「So
-Long\!」[MV的导演是](https://zh.wikipedia.org/wiki/MV "wikilink")[大林宣彦](https://zh.wikipedia.org/wiki/大林宣彦 "wikilink")，此MV长達64分鐘，相当于一部大長編音樂電影，大幅超過之前最长的《GIVE
+Long\!」[MV的导演是](https://zh.wikipedia.org/wiki/MV "wikilink")[大林宣彦](../Page/大林宣彦.md "wikilink")，此MV长達64分鐘，相当于一部大長編音樂電影，大幅超過之前最长的《GIVE
 ME
 FIVE\!》的34分鐘，也是AKB48史上最長。考慮在音樂節目的播放，也有摘錄了只限於曲子部分的「短版」。演员[高嶋政宏](../Page/高嶋政宏.md "wikilink")、、、、猪俣南、、[茂木健一郎亦有出演](../Page/茂木健一郎.md "wikilink")。MV的取景地在[新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")[長岡市](../Page/長岡市.md "wikilink")、、等地。
 
@@ -100,7 +100,7 @@ FIVE\!》的34分鐘，也是AKB48史上最長。考慮在音樂節目的播放�
       -
         （作詞：秋元康、作曲：、編曲：野中MASA雄一）
     <!-- end list -->
-      - [光荣特库摩](../Page/光荣特库摩.md "wikilink")《[AKB48之野望](https://zh.wikipedia.org/wiki/AKB48之野望 "wikilink")》广告曲\[12\]\[13\]
+      - [光荣特库摩](../Page/光荣特库摩.md "wikilink")《[AKB48之野望](../Page/AKB48之野望.md "wikilink")》广告曲\[12\]\[13\]
 4.  《So long\!》（off vocal ver.）
 5.  《Waiting room》（off vocal ver.）
 6.  《在哪里踩到狗屎了吗?》（ off vocal ver.）
@@ -159,7 +159,7 @@ long\!》的成員共有16名\[14\]，全是來自AKB48、SKE48、NMB48與HKT48�
 
 **「Under Girls」名義**
 
-（Center：[川荣李奈](https://zh.wikipedia.org/wiki/川荣李奈 "wikilink")、[田島芽瑠](https://zh.wikipedia.org/wiki/田島芽瑠 "wikilink")）
+（Center：[川荣李奈](https://zh.wikipedia.org/wiki/川荣李奈 "wikilink")、[田島芽瑠](../Page/田島芽瑠.md "wikilink")）
 
   - Team
     A：[入山杏奈](../Page/入山杏奈.md "wikilink")、大島涼花、[川荣李奈](https://zh.wikipedia.org/wiki/川荣李奈 "wikilink")、[菊地彩香](../Page/菊地彩香.md "wikilink")（）、[高橋朱里](../Page/高橋朱里.md "wikilink")
@@ -170,10 +170,10 @@ long\!》的成員共有16名\[14\]，全是來自AKB48、SKE48、NMB48與HKT48�
   - SKE48 Team
     S：[木崎由里亚](https://zh.wikipedia.org/wiki/木崎由里亚 "wikilink")（）、（）、[須田亚香里](https://zh.wikipedia.org/wiki/須田亚香里 "wikilink")
   - SKE48 Team
-    E：[木本花音](../Page/木本花音.md "wikilink")、[古畑奈和](https://zh.wikipedia.org/wiki/古畑奈和 "wikilink")
+    E：[木本花音](../Page/木本花音.md "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")
   - NMB48 Team N：[山田菜菜](../Page/山田菜菜.md "wikilink")
   - NMB48 Team M：[矢倉楓子](../Page/矢倉楓子.md "wikilink")
-  - NMB48 Team BII：[薮下柊](https://zh.wikipedia.org/wiki/薮下柊 "wikilink")
+  - NMB48 Team BII：[薮下柊](../Page/薮下柊.md "wikilink")
   - HKT48 Team
     H：[多田愛佳](../Page/多田愛佳.md "wikilink")、[兒玉遥](https://zh.wikipedia.org/wiki/兒玉遥 "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")
   - HKT48 研究生：田島芽瑠
@@ -190,7 +190,7 @@ long\!》的成員共有16名\[14\]，全是來自AKB48、SKE48、NMB48與HKT48�
 （Center：渡邊麻友、高橋南）
 
   - Team
-    A：[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、入山杏奈、[岩田華怜](../Page/岩田華怜.md "wikilink")、[大島涼花](https://zh.wikipedia.org/wiki/大島涼花 "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、川荣李奈、菊地彩香、小林茉里奈、[佐藤堇](../Page/佐藤堇.md "wikilink")（）、篠田麻里子、高橋朱里、高橋南、[田野優花](../Page/田野優花.md "wikilink")、[中塚智実](https://zh.wikipedia.org/wiki/中塚智実 "wikilink")、[仲俣汐里](https://zh.wikipedia.org/wiki/仲俣汐里 "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[松井咲子](../Page/松井咲子.md "wikilink")、[森川彩香](https://zh.wikipedia.org/wiki/森川彩香 "wikilink")、渡邊麻友
+    A：[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、入山杏奈、[岩田華怜](../Page/岩田華怜.md "wikilink")、[大島涼花](../Page/大島涼花.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、川荣李奈、菊地彩香、小林茉里奈、[佐藤堇](../Page/佐藤堇.md "wikilink")（）、篠田麻里子、高橋朱里、高橋南、[田野優花](../Page/田野優花.md "wikilink")、[中塚智実](https://zh.wikipedia.org/wiki/中塚智実 "wikilink")、[仲俣汐里](https://zh.wikipedia.org/wiki/仲俣汐里 "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[松井咲子](../Page/松井咲子.md "wikilink")、[森川彩香](https://zh.wikipedia.org/wiki/森川彩香 "wikilink")、渡邊麻友
   - AKB48 Team A / NMB48 Team
     N：[小谷里歩](https://zh.wikipedia.org/wiki/小谷里歩 "wikilink")、横山由依
 
@@ -222,7 +222,7 @@ long\!》的成員共有16名\[14\]，全是來自AKB48、SKE48、NMB48與HKT48�
 
 （Center：小嶋真子）
 
-  - 研究生：[相笠萌](https://zh.wikipedia.org/wiki/相笠萌 "wikilink")、[岩立沙穗](https://zh.wikipedia.org/wiki/岩立沙穗 "wikilink")、[内山奈月](https://zh.wikipedia.org/wiki/内山奈月 "wikilink")、[梅田綾乃](https://zh.wikipedia.org/wiki/梅田綾乃 "wikilink")、[大森美優](https://zh.wikipedia.org/wiki/大森美優 "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[冈田奈奈](https://zh.wikipedia.org/wiki/冈田奈奈_\(AKB48\) "wikilink")、[北澤早紀](https://zh.wikipedia.org/wiki/北澤早紀 "wikilink")、[小嶋真子](https://zh.wikipedia.org/wiki/小嶋真子 "wikilink")、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")、[篠崎彩奈](https://zh.wikipedia.org/wiki/篠崎彩奈 "wikilink")、[髙島祐利奈](https://zh.wikipedia.org/wiki/髙島祐利奈 "wikilink")、[西野未姫](https://zh.wikipedia.org/wiki/西野未姫 "wikilink")、[橋本耀](https://zh.wikipedia.org/wiki/橋本耀 "wikilink")、[平田梨奈](https://zh.wikipedia.org/wiki/平田梨奈 "wikilink")、[前田美月](https://zh.wikipedia.org/wiki/前田美月 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")、[茂木忍](https://zh.wikipedia.org/wiki/茂木忍 "wikilink")
+  - 研究生：[相笠萌](https://zh.wikipedia.org/wiki/相笠萌 "wikilink")、[岩立沙穗](../Page/岩立沙穗.md "wikilink")、[内山奈月](https://zh.wikipedia.org/wiki/内山奈月 "wikilink")、[梅田綾乃](../Page/梅田綾乃.md "wikilink")、[大森美優](https://zh.wikipedia.org/wiki/大森美優 "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[冈田奈奈](https://zh.wikipedia.org/wiki/冈田奈奈_\(AKB48\) "wikilink")、[北澤早紀](../Page/北澤早紀.md "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")、[篠崎彩奈](https://zh.wikipedia.org/wiki/篠崎彩奈 "wikilink")、[髙島祐利奈](https://zh.wikipedia.org/wiki/髙島祐利奈 "wikilink")、[西野未姫](https://zh.wikipedia.org/wiki/西野未姫 "wikilink")、[橋本耀](../Page/橋本耀.md "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")、[前田美月](https://zh.wikipedia.org/wiki/前田美月 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")、[茂木忍](../Page/茂木忍.md "wikilink")
       -
         2月1日降格的峯岸没有参加这首歌的录制。
 

@@ -6,7 +6,7 @@ feelings**》為[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md
   - 與下張單曲相比，出道曲較沒那麼有認知度。
   - 一直以來都未收錄專輯，直到精選輯《[Single
     Best](../Page/Single_Best.md "wikilink")》以及《[The Back
-    Best](https://zh.wikipedia.org/wiki/The_Back_Best "wikilink")》才將這張單曲的兩曲都收錄近專輯裡，〈no
+    Best](../Page/The_Back_Best.md "wikilink")》才將這張單曲的兩曲都收錄近專輯裡，〈no
     fear〉為柴崎幸首次作詞的曲子。
 
 ## 發行版本

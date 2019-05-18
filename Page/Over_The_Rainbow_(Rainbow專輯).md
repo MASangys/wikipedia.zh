@@ -84,7 +84,7 @@ Music](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
 4.  [Kiss](https://zh.wikipedia.org/wiki/Gossip_Girl "wikilink")
 5.  [A](../Page/A_\(Rainbow單曲\).md "wikilink")
 6.  [Mach](../Page/Mach_\(Rainbow單曲\).md "wikilink")
-7.  [To Me (내게로..)](https://zh.wikipedia.org/wiki/SO_女 "wikilink")
+7.  [To Me (내게로..)](../Page/SO_女.md "wikilink")
 8.  [Sweet
     Dream](https://zh.wikipedia.org/wiki/SO_女_\(Repackage\) "wikilink")
 9.  [Candy

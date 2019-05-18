@@ -6,7 +6,7 @@ Server 2003和](../Page/Windows_Server_2003.md "wikilink")[Windows
 XP等用戶亦可下載安裝](../Page/Windows_XP.md "wikilink")。\[1\]
 
 Malgun Gothic有常規體、[粗體兩個字重](../Page/粗體.md "wikilink")，英文部分採用了[Segoe
-UI的字符](https://zh.wikipedia.org/wiki/Segoe_UI "wikilink")，韓文部分較傳統黑體（如[方黑體和](https://zh.wikipedia.org/wiki/方黑體 "wikilink")[圓黑體](https://zh.wikipedia.org/wiki/圓黑體 "wikilink")）做了筆畫上的調整，以更好地配合[ClearType的平滑顯示效果](../Page/ClearType.md "wikilink")。早期版本沒有[漢字部分](https://zh.wikipedia.org/wiki/漢字 "wikilink")，直至6.22版增加。在Windows
+UI的字符](https://zh.wikipedia.org/wiki/Segoe_UI "wikilink")，韓文部分較傳統黑體（如[方黑體和](../Page/方黑體.md "wikilink")[圓黑體](https://zh.wikipedia.org/wiki/圓黑體 "wikilink")）做了筆畫上的調整，以更好地配合[ClearType的平滑顯示效果](../Page/ClearType.md "wikilink")。早期版本沒有[漢字部分](https://zh.wikipedia.org/wiki/漢字 "wikilink")，直至6.22版增加。在Windows
 8（6.22版）和Windows
 8.1（6.50版）中還可以通過[複雜文字編排將舊式韓文的字母組合成文字](../Page/複雜文字編排.md "wikilink")。
 

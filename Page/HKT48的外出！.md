@@ -54,7 +54,7 @@
 
   - （第58集）：同樣擔任《Skyrocket Company》主持人的藝人。
 
-  - [大島涼花](https://zh.wikipedia.org/wiki/大島涼花 "wikilink")、[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")、[竹內美宥](../Page/竹內美宥.md "wikilink")、[田野優花](../Page/田野優花.md "wikilink")（第58集）：[AKB48成員](../Page/AKB48.md "wikilink")，因參與演出AKB48自己的電視節目《[AKB48的你是誰？](../Page/AKB48的你是誰？.md "wikilink")》（）半途，遇到HKT48成員突襲拜訪打歌，而在節目外景中出鏡。
+  - [大島涼花](../Page/大島涼花.md "wikilink")、[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")、[竹內美宥](../Page/竹內美宥.md "wikilink")、[田野優花](../Page/田野優花.md "wikilink")（第58集）：[AKB48成員](../Page/AKB48.md "wikilink")，因參與演出AKB48自己的電視節目《[AKB48的你是誰？](../Page/AKB48的你是誰？.md "wikilink")》（）半途，遇到HKT48成員突襲拜訪打歌，而在節目外景中出鏡。
 
   - （第62、63集）：HKT48成員前往研習表演技巧的Showmanship劇團（）之主持人。
 
@@ -166,7 +166,7 @@
 <td><p>29</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/上野.md" title="wikilink">上野</a>（<a href="https://zh.wikipedia.org/wiki/阿美橫丁" title="wikilink">阿美橫丁</a>）</p></td>
+<td><p><a href="../Page/上野.md" title="wikilink">上野</a>（<a href="../Page/阿美橫丁.md" title="wikilink">阿美橫丁</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>30</p></td>

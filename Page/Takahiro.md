@@ -18,10 +18,10 @@ WISH〜」中、不僅以EXILE身份參與，也以個人身份參與演出。�
 SPADES](https://zh.wikipedia.org/wiki/ACE_OF_SPADES "wikilink")」(黑桃ACE)。
 
 2013年6月26日、以**EXILE
-TAKAHIRO**身份發行單曲「[一千零一秒](https://zh.wikipedia.org/wiki/一千零一秒 "wikilink")」作個人出道。
+TAKAHIRO**身份發行單曲「[一千零一秒](../Page/一千零一秒.md "wikilink")」作個人出道。
 
-2014年以1月開始的[日本電視台電視連續劇](../Page/日本電視台.md "wikilink")『[戰力外搜查官](https://zh.wikipedia.org/wiki/戰力外搜查官 "wikilink")』演員出道。3月5日，發行以自己有份參加演出『戰力外搜查官』的主題曲、第2張單曲「[Love
-Story](https://zh.wikipedia.org/wiki/Love_Story_\(TAKAHIRO單曲\) "wikilink")」。4月1日開始擔任富士電視台系列「[森田一義アワー
+2014年以1月開始的[日本電視台電視連續劇](../Page/日本電視台.md "wikilink")『[戰力外搜查官](../Page/戰力外搜查官.md "wikilink")』演員出道。3月5日，發行以自己有份參加演出『戰力外搜查官』的主題曲、第2張單曲「[Love
+Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")」。4月1日開始擔任富士電視台系列「[森田一義アワー
 笑っていいとも\!](https://zh.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")」的後續新節目『[バイキング](https://zh.wikipedia.org/wiki/バイキング_\(テレビ番組\) "wikilink")』星期二的司儀，由他及NAOTO每週交替擔當。
 
 ## 人物
@@ -31,7 +31,7 @@ Story](https://zh.wikipedia.org/wiki/Love_Story_\(TAKAHIRO單曲\) "wikilink")�
   - 於[日本電視台的選抜節目](../Page/日本電視台.md "wikilink")『[歌スタ\!\!](https://zh.wikipedia.org/wiki/歌スタ!! "wikilink")』中合格\[6\]。
   - 2007年3月1日，為母校[長崎縣立佐世保東翔高級中學的畢業典禮進行驚喜現場演唱](https://zh.wikipedia.org/wiki/長崎縣立佐世保東翔高級中學 "wikilink")\[7\]。
   - [GLAY的歌迷](../Page/GLAY.md "wikilink")\[8\]。
-  - 2015年因拍攝電視劇《[戦力外捜査官〜SPECIAL](https://zh.wikipedia.org/wiki/戰力外搜查官 "wikilink")》而與[武井咲傳出戀情](../Page/武井咲.md "wikilink")，並數度被週刊報導。2017年9月1日，兩人聯合發布親筆聲明，表示交往兩年半，已於2017年9月1日結婚入籍，妻子武井當時已懷有3個月的身孕\[9\]。
+  - 2015年因拍攝電視劇《[戦力外捜査官〜SPECIAL](../Page/戰力外搜查官.md "wikilink")》而與[武井咲傳出戀情](../Page/武井咲.md "wikilink")，並數度被週刊報導。2017年9月1日，兩人聯合發布親筆聲明，表示交往兩年半，已於2017年9月1日結婚入籍，妻子武井當時已懷有3個月的身孕\[9\]。
 
 ## 参加團體
 
@@ -46,11 +46,11 @@ Story](https://zh.wikipedia.org/wiki/Love_Story_\(TAKAHIRO單曲\) "wikilink")�
 
 ### 單曲
 
-|     | 發售日        | 標題                                                                                  | 排名 |
-| --- | ---------- | ----------------------------------------------------------------------------------- | -- |
-| 1st | 2013年6月26日 | '''[一千零一秒](https://zh.wikipedia.org/wiki/一千零一秒 "wikilink")                          | 2位 |
-| 2nd | 2014年3月5日  | '''[Love Story](https://zh.wikipedia.org/wiki/Love_Story_\(TAKAHIRO單曲\) "wikilink") | 3位 |
-| 3nd | 2017年10月4日 | '''[Eternal Love](https://zh.wikipedia.org/wiki/Eternal_Love "wikilink")            | 3位 |
+|     | 發售日        | 標題                                                                       | 排名 |
+| --- | ---------- | ------------------------------------------------------------------------ | -- |
+| 1st | 2013年6月26日 | '''[一千零一秒](../Page/一千零一秒.md "wikilink")                                  | 2位 |
+| 2nd | 2014年3月5日  | '''[Love Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")         | 3位 |
+| 3nd | 2017年10月4日 | '''[Eternal Love](https://zh.wikipedia.org/wiki/Eternal_Love "wikilink") | 3位 |
 
 ### 配信單曲
 
@@ -112,7 +112,7 @@ Story](https://zh.wikipedia.org/wiki/Love_Story_\(TAKAHIRO單曲\) "wikilink")�
   -
     EXILE TAKAHIRO + NESMITH, SHOKICHI (二代目J Soul Brothers)的合作作品。
     收錄於二代目 J Soul Brothers專輯『[J Soul
-    Brothers](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(J_Soul_Brothers專輯\) "wikilink")』。
+    Brothers](../Page/J_Soul_Brothers_\(J_Soul_Brothers專輯\).md "wikilink")』。
 
 ### 参加作品
 
@@ -155,7 +155,7 @@ Story](https://zh.wikipedia.org/wiki/Love_Story_\(TAKAHIRO單曲\) "wikilink")�
 </tr>
 <tr class="even">
 <td><p>I Believe</p></td>
-<td><p>單曲「<a href="https://zh.wikipedia.org/wiki/I_Believe_(EXILE單曲)" title="wikilink">I Believe</a>」</p></td>
+<td><p>單曲「<a href="../Page/I_Believe_(EXILE單曲).md" title="wikilink">I Believe</a>」</p></td>
 <td><p>作曲是浅田将明</p></td>
 <td></td>
 </tr>
@@ -182,7 +182,7 @@ Story](https://zh.wikipedia.org/wiki/Love_Story_\(TAKAHIRO單曲\) "wikilink")�
 <td><p>I Believe (New Ver.)</p></td>
 <td><p>EXILE</p></td>
 <td><p>專輯「給珍愛的未來」（X'mas Album『EXILE CHRISTMAS』）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/I_Believe_(EXILE單曲)" title="wikilink">I Believe的另外版本</a>。</p></td>
+<td><p><a href="../Page/I_Believe_(EXILE單曲).md" title="wikilink">I Believe的另外版本</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Your Smile</p></td>
@@ -325,7 +325,7 @@ Story](https://zh.wikipedia.org/wiki/Love_Story_\(TAKAHIRO單曲\) "wikilink")�
 
 ### 戲劇
 
-  - [戰力外搜查官](https://zh.wikipedia.org/wiki/戰力外搜查官 "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、2014年1月
+  - [戰力外搜查官](../Page/戰力外搜查官.md "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、2014年1月
     - 3月） 飾演 設樂恭介
   - [WILD
     HEROES](https://zh.wikipedia.org/wiki/WILD_HEROES "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、2015年4月
@@ -351,7 +351,7 @@ Story](https://zh.wikipedia.org/wiki/Love_Story_\(TAKAHIRO單曲\) "wikilink")�
 
 ### CM
 
-  - [TOYOTA](https://zh.wikipedia.org/wiki/TOYOTA "wikilink")「[WISH](../Page/豐田WISH.md "wikilink")」（2009年）
+  - [TOYOTA](https://zh.wikipedia.org/wiki/TOYOTA "wikilink")「[WISH](https://zh.wikipedia.org/wiki/豐田WISH "wikilink")」（2009年）
   - [明治製菓](../Page/明治製菓.md "wikilink")「Fran」（2009年）
   - [樂敦製藥](../Page/樂敦製藥.md "wikilink")「樂敦Z\!」（2010年3月 - 、2011年6月 - ）
   - 麒麟飲品「大人的麒麟檸檬」（2010年4月 - 、2011年6月 - ）

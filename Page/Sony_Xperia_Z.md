@@ -64,7 +64,7 @@ Companion更新為[Android](../Page/Android.md "wikilink") 5.0.2。
   - 導航
   - 在地服務
   - FM收音機
-  - [WALKMAN](../Page/WALKMAN.md "wikilink")，SONY獨家隨身聽的音樂程式。
+  - [WALKMAN](https://zh.wikipedia.org/wiki/WALKMAN "wikilink")，SONY獨家隨身聽的音樂程式。
   - 新聞與氣象
   - 電影工作室
   - 下載
@@ -112,8 +112,7 @@ Up》MV中女主角拿**Sony Xperia Z**自拍。
   - [Xperia](../Page/Xperia.md "wikilink")
   - [Sony Xperia
     ZL](https://zh.wikipedia.org/wiki/Sony_Xperia_ZL "wikilink")
-  - [Sony Xperia
-    ZR](https://zh.wikipedia.org/wiki/Sony_Xperia_ZR "wikilink")
+  - [Sony Xperia ZR](../Page/Sony_Xperia_ZR.md "wikilink")
   - [Sony Xperia Z
     Ultra](https://zh.wikipedia.org/wiki/Sony_Xperia_Z_Ultra "wikilink")
 

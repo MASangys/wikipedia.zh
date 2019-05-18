@@ -1,6 +1,6 @@
 「**Ballad
 Collection**」（抒情精選）是[AAA的第](../Page/AAA_\(團體\).md "wikilink")1枚概念專輯。於2013年3月13日發行。唱片公司為[avex
-trax](../Page/avex_trax.md "wikilink")。
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -13,7 +13,7 @@ trax](../Page/avex_trax.md "wikilink")。
     day」和第31張單曲「[SAILING](../Page/SAILING.md "wikilink")」的B面曲「WISHES」。
   - 除了單曲，此專輯更收錄第1張專輯「[ATTACK](../Page/ATTACK_\(AAA專輯\).md "wikilink")」的「邂逅的力量」和「我們的手」、第2張專輯「[ALL](../Page/ALL_\(AAA專輯\).md "wikilink")」的「未完成」、第5張專輯「[HEARTFUL](../Page/HEARTFUL.md "wikilink")」的「FIELD」、第6張專輯「[Buzz
     Communication](../Page/Buzz_Communication.md "wikilink")」的「one more
-    tomorrow」；第2張迷你專輯「[ALL/2](https://zh.wikipedia.org/wiki/ALL/2 "wikilink")」的「夢想的片段」、第3張迷你專輯「[alohAAA\!](../Page/alohAAA!.md "wikilink")」的「Wonderful
+    tomorrow」；第2張迷你專輯「[ALL/2](https://zh.wikipedia.org/wiki/ALL/2 "wikilink")」的「夢想的片段」、第3張迷你專輯「[alohAAA\!](https://zh.wikipedia.org/wiki/alohAAA! "wikilink")」的「Wonderful
     Life」和第4張迷你專輯「[CHOICE IS
     YOURS](../Page/CHOICE_IS_YOURS.md "wikilink")」的「我所驚覺的任性自由」。
   - 本作分「初回限定盤（Jacket A 2CDs+Goods）」、「Jacket B 2CDs」、「Jacket C CD盤」3種版本。
@@ -68,7 +68,8 @@ trax](../Page/avex_trax.md "wikilink")。
       -
         17th單曲・「MIRAGE」的B面曲
         [浦田直也](../Page/浦田直也.md "wikilink")・[末吉秀太主唱](../Page/末吉秀太.md "wikilink")
-8.  **[Wonderful Life](../Page/alohAAA!.md "wikilink")**
+8.  **[Wonderful
+    Life](https://zh.wikipedia.org/wiki/alohAAA! "wikilink")**
     （作詞：中島有紀 作曲：Sin）
       -
         3rd迷你專輯「alohAAA\!」曲目
@@ -106,7 +107,7 @@ trax](../Page/avex_trax.md "wikilink")。
 1.  [Last Love](../Page/777_～TRIPLE_SEVEN～.md "wikilink")
       -
         [西島隆弘主唱](../Page/西島隆弘.md "wikilink")
-2.  [HORIZON](../Page/depArture.md "wikilink")
+2.  [HORIZON](https://zh.wikipedia.org/wiki/depArture "wikilink")
       -
         [宇野實彩子主唱](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")
 3.  [啟程之歌](../Page/啟程之歌_\(AAA單曲\).md "wikilink")（旅ダチノウタ）

@@ -6,7 +6,7 @@ Collection～**》（）是改编自[日本](../Page/日本.md "wikilink")[漫�
   - 此專輯为纪念動畫《[名偵探柯南](https://zh.wikipedia.org/wiki/名侦探柯南_\(动画\) "wikilink")》播映10周年而发布的第3張「名侦探柯南系列音乐作品集」。
   - 与未收录非[Being歌手演唱曲目的](../Page/Being_\(公司\).md "wikilink")《[THE BEST OF
     DETECTIVE CONAN ～名偵探柯南
-    主題曲集～](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_～名偵探柯南_主題曲集～ "wikilink")》不同，本作也收录非Being歌手[杏子](https://zh.wikipedia.org/wiki/杏子_\(歌手\) "wikilink")（所属）的《Happy
+    主題曲集～](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_～名偵探柯南_主題曲集～ "wikilink")》不同，本作也收录非Being歌手[杏子](../Page/杏子_\(歌手\).md "wikilink")（所属）的《Happy
     Birthday》。
   - 《Happy Birthday》僅收錄在此專輯，而其他所有曲目均有被收录在前两张作品以及之后的唱片专辑中。
 

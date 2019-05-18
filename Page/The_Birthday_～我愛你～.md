@@ -94,7 +94,7 @@ Amo〜）為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](https://zh
   - EXILE / [EXILE BALLAD
     BEST](../Page/EXILE_BALLAD_BEST.md "wikilink")（\#1,4）
   - [J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink") / [J Soul
-    Brothers](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(J_Soul_Brothers專輯\) "wikilink")（\#3）
+    Brothers](../Page/J_Soul_Brothers_\(J_Soul_Brothers專輯\).md "wikilink")（\#3）
   - [m-flo](https://zh.wikipedia.org/wiki/m-flo "wikilink") / [m-flo
     inside -WORKS BEST
     III-](https://zh.wikipedia.org/wiki/m-flo_inside_-WORKS_BEST_III- "wikilink")（\#2）

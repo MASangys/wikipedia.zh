@@ -29,7 +29,7 @@ B合作过，在Mutter巡演期间Rammstein演奏过这歌曲两次。
 ## 作品列表
 
   - 《[Hea Hoa Hoa Hea Hea
-    Hoa](https://zh.wikipedia.org/wiki/Hea_Hoa_Hoa_Hea_Hea_Hoa "wikilink")》（1989年）
+    Hoa](../Page/Hea_Hoa_Hoa_Hea_Hea_Hoa.md "wikilink")》（1989年）
   - 《[Wir kriegen Euch
     alle](https://zh.wikipedia.org/wiki/Wir_kriegen_Euch_alle "wikilink")》（1991年）
   - 《[Die Maske des Roten

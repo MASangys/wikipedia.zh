@@ -41,7 +41,8 @@ Cover**》（百色倖感翻唱選輯）為[日本歌手](../Page/日本.md "wik
 
 <!-- end list -->
 
-1.  （）【[hide with Spread Beaver](../Page/hide.md "wikilink")／1998年】
+1.  （）【[hide with Spread
+    Beaver](https://zh.wikipedia.org/wiki/hide "wikilink")／1998年】
 
       -
         作詞: hide　作曲: hide　編曲：Eric Nano

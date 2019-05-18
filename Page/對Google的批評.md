@@ -8,7 +8,7 @@ useful）\[3\]，但Google如何完成此使命引起了关注。与相关的大
 
 #### 可視量少且漸減
 
-搜索結果號稱從約[百萬項到](https://zh.wikipedia.org/wiki/1_E6 "wikilink")[百億項](https://zh.wikipedia.org/wiki/1_E10 "wikilink")，但為人所詬病的是，漸變成用戶實際只能看到前100項～1000項，每一次用相同[關鍵字看到的結果皆是與上次相近的一兩百項](https://zh.wikipedia.org/wiki/關鍵字 "wikilink")，常不能滿足使用者所想找的[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")，得轉用其它[搜索引擎](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")。
+搜索結果號稱從約[百萬項到](https://zh.wikipedia.org/wiki/1_E6 "wikilink")[百億項](https://zh.wikipedia.org/wiki/1_E10 "wikilink")，但為人所詬病的是，漸變成用戶實際只能看到前100項～1000項，每一次用相同[關鍵字看到的結果皆是與上次相近的一兩百項](https://zh.wikipedia.org/wiki/關鍵字 "wikilink")，常不能滿足使用者所想找的[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")，得轉用其它[搜索引擎](../Page/搜索引擎.md "wikilink")。
 
 在2007年，奥地利研究人员观察到使用Google引擎“现实接口”（reality
 interface）的倾向。普通用户和记者往往依赖于Google搜索结果的第一页，并认为所有未列出的并不重要，或者仅仅是不存在的。研究人员说，“Google已经成为我们整个现实主界面。确切的说：通过Google界面，用户得到的搜索结果通常意味着一种整体的印象，事实上，如果Google还集成了其他研究工具，人们只能看到可以看到的一小部分。”\[4\]
@@ -25,7 +25,7 @@ Schmidt）在2007年的《[金融时报](https://zh.wikipedia.org/wiki/金融时
 
 ## 审查
 
-Google一直被批评其为遵守各国法律而[审查搜索结果](../Page/Google审查.md "wikilink")\[8\]，最特别的例子是Google从2006年1月至2010年3月在中国大陆经营。2017年7月，一篇被稱爲「[Google的意識形態迴音室](https://zh.wikipedia.org/wiki/Google的意識形態迴音室 "wikilink")」從內部流出，Google在第一時間開除了這篇備忘錄的作者，被評論爲對言論自由的控制\[9\]。
+Google一直被批评其为遵守各国法律而[审查搜索结果](../Page/Google审查.md "wikilink")\[8\]，最特别的例子是Google从2006年1月至2010年3月在中国大陆经营。2017年7月，一篇被稱爲「[Google的意識形態迴音室](../Page/Google的意識形態迴音室.md "wikilink")」從內部流出，Google在第一時間開除了這篇備忘錄的作者，被評論爲對言論自由的控制\[9\]。
 
 ## 专卖，限制贸易
 
@@ -75,8 +75,8 @@ Play等Google应用授权使用费](../Page/Google_Play.md "wikilink")\[24\]。
 ### 参与美国军方项目
 
 美国军方于2017年4月创建Maven项目，该项目的首要任务是帮助军方有效地处理空中无人机每天收集的大量视频片段。Google发言人称，它正在向美国国防部提供用于机器学习应用的
-[TensorFlow](https://zh.wikipedia.org/wiki/TensorFlow "wikilink") API
-接口用于 Maven 项目。2018年3月，一些 Google
+[TensorFlow](../Page/TensorFlow.md "wikilink") API 接口用于 Maven
+项目。2018年3月，一些 Google
 员工在内部邮件中分享该消息后，点燃了部分人的愤怒情绪。而另一些人则认为双方的这次技术合作关乎机器学习发展和使用的道德问题。技术社区普遍担心军事和工业结合体，会被作为不正当杀人利器\[28\]。隨著事情的發酵有近
 4000 名 Google 员工在内部请愿书中表示反对 Maven 项目，要求 Google
 立即停止合作并制定新政策，以防止未来再次参与军事任务。更有十余名
@@ -89,7 +89,7 @@ Google 员工通过辞职抗议 Google
 
 ### 重返中国传闻
 
-2017年春季，谷歌内部启动代号[“Dragonfly”（蜻蜓）的项目](https://zh.wikipedia.org/wiki/蜻蜓計畫 "wikilink")，可以自动过滤被中国[防火长城屏蔽的网站](../Page/防火长城.md "wikilink")。
+2017年春季，谷歌内部启动代号[“Dragonfly”（蜻蜓）的项目](../Page/蜻蜓計畫.md "wikilink")，可以自动过滤被中国[防火长城屏蔽的网站](../Page/防火长城.md "wikilink")。
 
 一名谷歌团队成员，因不认同公司和政府合作“打压人民”，于是向媒体曝光有关计划。“Dragonfly”項目最終得到Google高管證實\[32\]。一些谷歌员工对公司的中国相关项目表达抗议，要求调职或辞职\[33\]。一千多名谷歌公司员工对谷歌为中国秘密开发审查版谷歌搜索引擎同样表示不满，联名写信要求公司扩大透明度，以便让员工了解他们所从事工作的道德后果。
 
@@ -100,7 +100,7 @@ Google 员工通过辞职抗议 Google
 
 包括[国际特赦](https://zh.wikipedia.org/wiki/国际特赦组织 "wikilink")、[人权观察](../Page/人权观察.md "wikilink")、[无国界记者](../Page/无国界记者.md "wikilink")、[国际笔会和](../Page/国际笔会.md "wikilink")[中国人权组织在内的](../Page/中国人权_\(组织\).md "wikilink")14个世界主要国际人权组织联名致信谷歌首席执行官[桑德尔·皮查伊](https://zh.wikipedia.org/wiki/桑德尔·皮查伊 "wikilink")，称谷歌为中国开发审查版搜索引擎是“谷歌在人权上的投降，令人担忧”，而且会导致公司“直接参与人权侵犯或在这个问题上难脱干系”，并表示“审查版搜索引擎将侵犯中国数亿互联网用户的言论自由和隐私权”\[36\]。
 
-美国副总统[彭斯](https://zh.wikipedia.org/wiki/迈克·彭斯 "wikilink")2018年10月4日在[哈德逊研究所就美国政府的中国政策问题发表演说时也呼吁谷歌应立即终止](https://zh.wikipedia.org/wiki/哈德逊研究所 "wikilink")“蜻蜓”应用的开发。他认为该应用将加强共产党的审查，并损害中国消费者的隐私\[37\]。
+美国副总统[彭斯](../Page/迈克·彭斯.md "wikilink")2018年10月4日在[哈德逊研究所就美国政府的中国政策问题发表演说时也呼吁谷歌应立即终止](https://zh.wikipedia.org/wiki/哈德逊研究所 "wikilink")“蜻蜓”应用的开发。他认为该应用将加强共产党的审查，并损害中国消费者的隐私\[37\]。
 
 Google母公司[Alphabet的董事长](../Page/Alphabet.md "wikilink")[约翰·轩尼诗承认](https://zh.wikipedia.org/wiki/约翰·轩尼诗 "wikilink")，谷歌如果回到中国市场将不得不违背公司的“核心价值”\[38\]。
 

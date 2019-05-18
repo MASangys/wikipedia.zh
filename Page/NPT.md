@@ -26,7 +26,7 @@
 
 ## 科技
 
-  - [美國國家標準管螺紋](https://zh.wikipedia.org/wiki/美國國家標準管螺紋 "wikilink")：用於連接管道和配件的錐形螺紋的美國標準。
+  - [美國國家標準管螺紋](../Page/美國國家標準管螺紋.md "wikilink")：用於連接管道和配件的錐形螺紋的美國標準。
 
   - Nested Page Tables, the former name of , a hardware-assisted
     virtualization technology by AMD (Advanced Micro Devices)

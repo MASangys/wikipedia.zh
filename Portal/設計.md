@@ -1,0 +1,261 @@
+__NOTOC__ __NOEDITSECTION__
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+歡迎來到**[設計](../Page/設計.md "wikilink")**主題！
+
+**設計**是一門關於[美學與](https://zh.wikipedia.org/wiki/美學 "wikilink")[商業的專門領域](https://zh.wikipedia.org/wiki/商業 "wikilink")，[設計史中涵蓋廣泛的知名](../Page/設計史.md "wikilink")[設計師故事與創新](https://zh.wikipedia.org/wiki/設計師 "wikilink")，包羅萬象，維基百科邀請您透過此主題頁，細細瞭解其迷人之處。
+
+</div>
+
+<div style="text-align: center;font-size: 80%;align:middle;padding-top:15px;padding-bottom:15px;">
+
+[Amazing_Stories_v01_n01_p002_North_American_Institute_2.png](https://zh.wikipedia.org/wiki/File:Amazing_Stories_v01_n01_p002_North_American_Institute_2.png "fig:Amazing_Stories_v01_n01_p002_North_American_Institute_2.png")
+\[ 強制-{zh-hans:刷新缓存; zh-hant:清除快取;}-\]
+
+</div>
+
+<table border="0" cellpadding="5" cellspacing="3" width="100%">
+
+<tr>
+
+<td>
+
+<table border="0" cellpadding="5" cellspacing="3" width="100%" style="border: 0px solid #00C000;-moz-border-radius: 10px 10px 10px 10px;padding: .4em .9em .9em;background:#f8faf0">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div>
+
+<h3>
+
+[<File:06wiki-zn-frontpage-icon.png>](https://zh.wikipedia.org/wiki/File:06wiki-zn-frontpage-icon.png "fig:File:06wiki-zn-frontpage-icon.png")
+專欄
+
+</h3>
+
+</div>
+
+<table border="0" cellpadding="2" cellspacing="1" width="100%" style="border: 0px solid #00C000;-moz-border-radius: 10px 10px 10px 10px;padding: .4em .9em .9em;background:#fff">
+
+<span style="font-size: 75%; ">僅局部呈現設計領域的大略範圍</span>
+
+<tr>
+
+<td width="33%" align="center">
+
+[Peacock_terms_(PSF).png](https://zh.wikipedia.org/wiki/File:Peacock_terms_\(PSF\).png "fig:Peacock_terms_(PSF).png")
+**[视觉传达设计](../Page/视觉传达设计.md "wikilink")**<span style="font-size: 80%;">（[分類](https://zh.wikipedia.org/wiki/:en:Category:傳達設計 "wikilink")）</span>
+<span style="font-size: 90%;">[平面設計](https://zh.wikipedia.org/wiki/平面設計 "wikilink")
+- [廣告](../Page/廣告.md "wikilink") -
+[書籍設計](https://zh.wikipedia.org/wiki/書籍設計 "wikilink")</span>
+
+</td>
+
+<td width="33%" align="center">
+
+[Promontory_(PSF).png](https://zh.wikipedia.org/wiki/File:Promontory_\(PSF\).png "fig:Promontory_(PSF).png")
+**[環境設計](https://zh.wikipedia.org/wiki/環境設計 "wikilink")**<span style="font-size: 80%;">（[分類](https://zh.wikipedia.org/wiki/Category:環境 "wikilink")）</span>
+<span style="font-size: 90%;">[室内设计](../Page/室内设计.md "wikilink") -
+[城市设计](../Page/城市设计.md "wikilink")</span>
+
+</td>
+
+<td width="33%" align="center">
+
+[Frogs_(PSF).png](https://zh.wikipedia.org/wiki/File:Frogs_\(PSF\).png "fig:Frogs_(PSF).png")
+**[時裝設計](https://zh.wikipedia.org/wiki/時裝設計 "wikilink")**<span style="font-size: 80%;">（[分類](https://zh.wikipedia.org/wiki/:en:Category:時尚 "wikilink")）</span>
+<span style="font-size: 90%;">[服裝設計師](https://zh.wikipedia.org/wiki/Category:服裝設計師 "wikilink")
+- [珠寶](../Page/珠寶.md "wikilink")</span>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+[Jet_engine_(PSF).png](https://zh.wikipedia.org/wiki/File:Jet_engine_\(PSF\).png "fig:Jet_engine_(PSF).png")
+**[工業設計](https://zh.wikipedia.org/wiki/工業設計 "wikilink")**<span style="font-size: 80%;">（[分類](https://zh.wikipedia.org/wiki/:en:Category:工業設計 "wikilink")）</span>
+<span style="font-size: 90%;">[汽車設計](../Page/汽車設計.md "wikilink") -
+[家具](../Page/家具.md "wikilink") -
+[包裝](../Page/包裝.md "wikilink")</span>
+
+</td>
+
+<td align="center">
+
+[Albrecht_Dürer_-_Hand_-_WGA07265.jpg](https://zh.wikipedia.org/wiki/File:Albrecht_Dürer_-_Hand_-_WGA07265.jpg "fig:Albrecht_Dürer_-_Hand_-_WGA07265.jpg")
+**[互動設計](https://zh.wikipedia.org/wiki/互動設計 "wikilink")**<span style="font-size: 80%;">（[分類](https://zh.wikipedia.org/wiki/:en:Category:人機互動 "wikilink")）</span>
+<span style="font-size: 90%;">[游戏设计](../Page/游戏设计.md "wikilink") -
+[网页设计](../Page/网页设计.md "wikilink")</span>
+
+</td>
+
+<td align="center">
+
+[Choix_gradue_ecritures.jpg](https://zh.wikipedia.org/wiki/File:Choix_gradue_ecritures.jpg "fig:Choix_gradue_ecritures.jpg")
+**其他設計領域**
+<span style="font-size: 90%;">[软件设计](https://zh.wikipedia.org/wiki/软件设计 "wikilink")
+- [建筑设计](../Page/建筑设计.md "wikilink")</span>
+
+</td>
+
+</tr>
+
+</table>
+
+<div>
+
+<h3>
+
+[<File:03wiki-zn-frontpage-icon.gif>](https://zh.wikipedia.org/wiki/File:03wiki-zn-frontpage-icon.gif "fig:File:03wiki-zn-frontpage-icon.gif")
+維基
+
+</h3>
+
+</div>
+
+<table border="0" cellpadding="2" cellspacing="1" width="100%"  style="border: 0px solid #00C000;-moz-border-radius: 10px 10px 10px 10px;padding: .4em .9em .9em;background:#fff">
+
+<span style="font-size: 75%; ">重質不重量，少即是多，一起來貢獻設計相關的優質條目吧！</span>
+
+<tr>
+
+<td align="center">
+
+[Art_of_Bookbinding_p098_Registered_Cutting_Machine.png](https://zh.wikipedia.org/wiki/File:Art_of_Bookbinding_p098_Registered_Cutting_Machine.png "fig:Art_of_Bookbinding_p098_Registered_Cutting_Machine.png")
+**[設計維基人](https://zh.wikipedia.org/wiki/Wikipedia:艺术设计兴趣小组维基人列表 "wikilink")**
+<span style="font-size: 90%;">[繪圖專家](https://zh.wikipedia.org/wiki/Category:維基繪圖專家 "wikilink")
+-
+[設計專家](https://zh.wikipedia.org/wiki/Category:維基設計專家 "wikilink")</span>
+
+</td>
+
+<td align="center">
+
+[Suffrage_universel.png](https://zh.wikipedia.org/wiki/File:Suffrage_universel.png "fig:Suffrage_universel.png")
+**徵求條目**<span style="font-size: 70%;">（[編輯](http://zh.wikipedia.org/w/index.php?title=Portal:%E8%A8%AD%E8%A8%88/%E5%BE%B5%E6%B1%82%E6%A2%9D%E7%9B%AE&action=edit)）</span>
+<span style="font-size: 90%;"> {{/徵求條目}} </span>
+
+</td>
+
+<td align="center">
+
+[Skrifmaskin,_Smith_Premier-maskin,_Nordisk_familjebok.png](https://zh.wikipedia.org/wiki/File:Skrifmaskin,_Smith_Premier-maskin,_Nordisk_familjebok.png "fig:Skrifmaskin,_Smith_Premier-maskin,_Nordisk_familjebok.png")
+**徵求擴充**<span style="font-size: 70%;">（[編輯](http://zh.wikipedia.org/w/index.php?title=Portal:%E8%A8%AD%E8%A8%88/%E5%BE%B5%E6%B1%82%E6%93%B4%E5%85%85&action=edit)）</span>
+<span style="font-size: 90%;"> {{/徵求擴充}} </span>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+<td width="50%" valign="top">
+
+<table border="0" cellpadding="5" cellspacing="3" width="100%">
+
+<tr >
+
+<td style="text-align:right">
+
+<span style="font-size: 75%;">請注意：下列三欄隨機播放內容，與「維基百科特色條目評選，新進條目評選」等並無關係。</span>
+
+</tr>
+
+</td>
+
+<tr>
+
+<td>
+
+<div style="border: 0px solid #00C000;-moz-border-radius: 10px 10px 10px 10px;padding: .4em .9em .9em;background:#F2F2EE">
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<div style="border: 0px solid #00C000;-moz-border-radius: 10px 10px 10px 10px;padding: .4em .9em .9em;background:#faf3f0">
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<div style="border: 0px solid #00C000;-moz-border-radius: 10px 10px 10px 10px;padding: .4em .9em .9em;background:#F7F0F0">
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="100%" colspan="2">
+
+<div class="MainPageBG" style="padding: .5em 1em 0; margin: 0 3px 3px; border-bottom: 2px solid #ccc">
+
+<h3 id="lang">
+
+目錄
+
+</h3>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="100%" colspan="2">
+
+<div class="MainPageBG" style="padding: .5em 1em 1em; margin: 3px;">
+
+</div>
+
+<div class="MainPageBG" style="padding: .5em 1em 0; margin: 3px 3px 0; text-align: center;">
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</table>
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
+[Category:设计](https://zh.wikipedia.org/wiki/Category:设计 "wikilink")

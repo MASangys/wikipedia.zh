@@ -28,7 +28,7 @@ Music Book**為主題，是一本新書結集，以攝影、畫畫和文字為�
 <td><p>冷笑話[2]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳映之" title="wikilink">陳映之</a></p></td>
 <td><p>2013年1月25日</p></td>
-<td><p><a href="../Page/Youtube.md" title="wikilink">Youtube</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Youtube" title="wikilink">Youtube</a></p></td>
 <td></td>
 </tr>
 </tbody>

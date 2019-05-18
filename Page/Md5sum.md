@@ -11,7 +11,7 @@
 
 ## 分布
 
-在多数[Unix](../Page/Unix.md "wikilink")、[Linux与其他](../Page/Linux.md "wikilink")[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统或](../Page/操作系统.md "wikilink")[兼容层都默认安装了](../Page/兼容层.md "wikilink")`md5sum`工具，而其他操作系统（包括[Microsoft
+在多数[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Linux与其他](../Page/Linux.md "wikilink")[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统或](../Page/操作系统.md "wikilink")[兼容层都默认安装了](../Page/兼容层.md "wikilink")`md5sum`工具，而其他操作系统（包括[Microsoft
 Windows与](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[BSD的变体](../Page/BSD.md "wikilink")[Mac
 OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")）也有相似的工具。在FreeBSD上，有同样功用的工具名为`md5`，但其亦带有额外的特性。

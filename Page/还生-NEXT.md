@@ -1,9 +1,9 @@
 [张新英](https://zh.wikipedia.org/wiki/张新英 "wikilink"){{、w}}[柳秀荣](https://zh.wikipedia.org/wiki/柳秀荣 "wikilink"){{、w}}
-[李宗秀](https://zh.wikipedia.org/wiki/李宗秀 "wikilink") | judges = | voices
-= | narrated = | theme_music_composer = | opentheme = | endtheme = |
-composer = | country =  | language =
-[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons =
-| num_episodes = 14 | list_episodes = | executive_producer = |
+[李宗秀](../Page/李宗秀.md "wikilink") | judges = | voices = | narrated = |
+theme_music_composer = | opentheme = | endtheme = | composer = |
+country =  | language =
+[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons
+= | num_episodes = 14 | list_episodes = | executive_producer = |
 producer = | editor = | location = | cinematography = | camera = |
 runtime = | company = | distributor = | channel =
 [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") |
@@ -82,7 +82,7 @@ production_website = }}
 爱上胞妹柳花</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李宗秀" title="wikilink">李宗秀</a></p></td>
+<td><p><a href="../Page/李宗秀.md" title="wikilink">李宗秀</a></p></td>
 <td><p><strong>闵基寿</strong><br />
 话剧演员<br />
 贞花男友</p></td>

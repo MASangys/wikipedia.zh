@@ -7,14 +7,14 @@ io是一組在[臺灣島發跡的](https://zh.wikipedia.org/wiki/臺灣島 "wiki
 
 2007年，第一任貝斯手[李宇瀚加入](https://zh.wikipedia.org/wiki/李宇瀚 "wikilink")，使io樂團的陣容確立。2009年10月9日，貝斯手李宇瀚因私人因素選擇離團並回到[香港定居](../Page/香港.md "wikilink")，第二任貝斯手[簡瑞松則在出席io樂團的一場表演之後被他們的音樂所震撼](https://zh.wikipedia.org/wiki/簡瑞松 "wikilink")，因緣際會下加入成為團員。
 
-2010年12月25日，獨立發行首張全創作專輯《[就算今天贏了，明天又會如何？](https://zh.wikipedia.org/wiki/就算今天贏了，明天又會如何？ "wikilink")》，專輯歌曲《真實》被選入[中華音樂人交流協會年度十大單曲](https://zh.wikipedia.org/wiki/中華音樂人交流協會 "wikilink")\[1\]。
+2010年12月25日，獨立發行首張全創作專輯《[就算今天贏了，明天又會如何？](https://zh.wikipedia.org/wiki/就算今天贏了，明天又會如何？ "wikilink")》，專輯歌曲《真實》被選入[中華音樂人交流協會年度十大單曲](../Page/中華音樂人交流協會.md "wikilink")\[1\]。
 
 2011年，io成為[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[利物浦音樂節](https://zh.wikipedia.org/wiki/利物浦音樂節 "wikilink")（Liverpool
 Sound City
 festival）的台灣代表，也成為[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[草莓音樂節的台灣代表](https://zh.wikipedia.org/wiki/草莓音樂節 "wikilink")\[2\]；並參與[國家地理頻道紀錄片](../Page/國家地理頻道.md "wikilink")《愛上真台灣：華語樂之路》的訪問\[3\]。也因為入圍第22屆[金曲獎最佳新人及最佳樂團的緣故](../Page/金曲獎.md "wikilink")，io在[台北小巨蛋舉行的頒獎典禮演奏了出道作品](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")
 《真實》\[4\]。
 
-2012年，io加入[滾石唱片](../Page/滾石唱片.md "wikilink")，同年11月發行第二張專輯《[到頭來瘋的難道是我？](https://zh.wikipedia.org/wiki/到頭來瘋的難道是我？ "wikilink")》\[5\]。
+2012年，io加入[滾石唱片](../Page/滾石唱片.md "wikilink")，同年11月發行第二張專輯《[到頭來瘋的難道是我？](../Page/到頭來瘋的難道是我？.md "wikilink")》\[5\]。
 
 2014年6月，io在Legacy
 Taipei舉辦了「少了一個你」演唱會中，公佈了當時的貝斯手Sho將無限期請假。因為Sho私人因素而離團，也宣告了io樂團從此回到了最原始的三人編制。12月，io結束與滾石娛樂的經紀約，轉而與艾歐音樂簽約。
@@ -23,7 +23,7 @@ Taipei舉辦了「少了一個你」演唱會中，公佈了當時的貝斯手Sh
 Matters
 Live」。10月，io樂團再次受邀代表台灣前往美國[紐約參加CMJ音樂節](https://zh.wikipedia.org/wiki/紐約 "wikilink")。12月18日，io樂團舉辦木衛一演唱會並同步推出第三張正規專輯《III》。
 
-2015年12月，io樂團加盟[喜鵲娛樂](https://zh.wikipedia.org/wiki/喜鵲娛樂 "wikilink")\[6\]。
+2015年12月，io樂團加盟[喜鵲娛樂](../Page/喜鵲娛樂.md "wikilink")\[6\]。
 
 2016年，io擔任Luxgen S3 代言人
 
@@ -36,7 +36,7 @@ Live」。10月，io樂團再次受邀代表台灣前往美國[紐約參加CMJ�
 ### 專輯
 
   - 2010年12月25日：《就算今天贏了，明天又會如何？》
-  - 2012年11月30日：《[到頭來瘋的難道是我？](https://zh.wikipedia.org/wiki/到頭來瘋的難道是我？ "wikilink")》
+  - 2012年11月30日：《[到頭來瘋的難道是我？](../Page/到頭來瘋的難道是我？.md "wikilink")》
   - 2015年12月18日：《III》
 
 ### EP
@@ -111,7 +111,7 @@ Live」。10月，io樂團再次受邀代表台灣前往美國[紐約參加CMJ�
 <td><p>2013</p></td>
 <td><p><a href="../Page/第24屆金曲獎.md" title="wikilink">第24屆金曲獎</a></p></td>
 <td><p>最佳樂團獎</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/到頭來瘋的難道是我？" title="wikilink">到頭來瘋的難道是我？</a>》</p></td>
+<td><p>《<a href="../Page/到頭來瘋的難道是我？.md" title="wikilink">到頭來瘋的難道是我？</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">

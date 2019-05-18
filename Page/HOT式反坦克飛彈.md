@@ -50,12 +50,12 @@ HOT式基本型，1964年開始研製至1977年裝備部隊
   -
 ## 相關條目
 
-  - [米蘭反坦克飛彈](https://zh.wikipedia.org/wiki/米蘭反坦克飛彈 "wikilink")
+  - [米蘭反坦克飛彈](../Page/米蘭反坦克飛彈.md "wikilink")
   - [紅箭-8反坦克飛彈](https://zh.wikipedia.org/wiki/紅箭-8反坦克飛彈 "wikilink")
   - [BGM-71拖式飛彈](../Page/BGM-71拖式飛彈.md "wikilink")
-  - [ERYX反坦克導彈](https://zh.wikipedia.org/wiki/ERYX反坦克導彈 "wikilink")
-  - [9K112眼鏡蛇反坦克導彈](https://zh.wikipedia.org/wiki/9K112眼鏡蛇反坦克導彈 "wikilink")
-  - [9M133短號反坦克导弹](https://zh.wikipedia.org/wiki/9M133短號反坦克导弹 "wikilink")
+  - [ERYX反坦克導彈](../Page/ERYX反坦克導彈.md "wikilink")
+  - [9K112眼鏡蛇反坦克導彈](../Page/9K112眼鏡蛇反坦克導彈.md "wikilink")
+  - [9M133短號反坦克导弹](../Page/9M133短號反坦克导弹.md "wikilink")
 
 [Category:法国导弹](https://zh.wikipedia.org/wiki/Category:法国导弹 "wikilink")
 [Category:德国导弹](https://zh.wikipedia.org/wiki/Category:德国导弹 "wikilink")

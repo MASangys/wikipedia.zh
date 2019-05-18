@@ -1,6 +1,6 @@
 **Pocket**（前称**Read It
 Later**）是一个用于管理[互联网文章的](../Page/互联网.md "wikilink")[应用程序及服务](../Page/应用程序.md "wikilink")，目前已有[OS
-X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[iOS](../Page/iOS.md "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows
+X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows
 Phone](../Page/Windows_Phone.md "wikilink")、[BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")、[Kobo
 eReader等平台的客户端](https://zh.wikipedia.org/wiki/Kobo_eReader "wikilink")，各種浏览器中亦有其附加元件。\[1\]Pocket以前只可以用于[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")\[2\]。
 
@@ -13,7 +13,7 @@ eReader等平台的客户端](https://zh.wikipedia.org/wiki/Kobo_eReader "wikili
 Read It Later最早由Nathan
 Weiner于2007年8月发布。随着产品使用人数的增多，他在用户数量达到几百万时將办公室搬至了[硅谷](../Page/硅谷.md "wikilink")。另外四人加入了Read
 It Later团队。Nathan的創造Read It Later是為了製造像TiVo公司网页内容的应用程序。Nathan
-Weiner不担心[iOS的](../Page/iOS.md "wikilink")[Instapaper及](https://zh.wikipedia.org/wiki/Instapaper "wikilink")[Safari](../Page/Safari.md "wikilink")“阅读列表”功能的竞争，他指出只有不到1%的用户使用iOS平台的Safari浏览器。\[6\]
+Weiner不担心[iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[Instapaper及](../Page/Instapaper.md "wikilink")[Safari](../Page/Safari.md "wikilink")“阅读列表”功能的竞争，他指出只有不到1%的用户使用iOS平台的Safari浏览器。\[6\]
 
 后来在2012年获得了250万美元的2011年和额外的500万美元的[风险投资](../Page/风险投资.md "wikilink")。除了一些无名[天使投资人](https://zh.wikipedia.org/wiki/天使投资人 "wikilink")，资金来自基金会的资金，基线风险投资公司，Google风险投资公司，以及创始人集体投资。\[7\]
 
@@ -27,7 +27,7 @@ Premium，增加了文章的存储空间并提供了更强大的搜索。\[8\]
 
 截止2014年5月，该应用程序拥有1200万用户s\[10\]，共计10亿次保存\[11\]。2007-2011年，用户总共存放了 1.7
 亿条项目，但在2012年有 2.4
-亿个项目被存至Pocket。\[12\]\[13\]根据[Techcrunch](../Page/Techcrunch.md "wikilink")，每天下載量達10,000，而其中有些是其它应用程序的需求，例如[Twitter](../Page/Twitter.md "wikilink")
+亿个项目被存至Pocket。\[12\]\[13\]根据[Techcrunch](https://zh.wikipedia.org/wiki/Techcrunch "wikilink")，每天下載量達10,000，而其中有些是其它应用程序的需求，例如[Twitter](../Page/Twitter.md "wikilink")
 Read It
 Later的[API](https://zh.wikipedia.org/wiki/API "wikilink")。\[14\]\[15\]
 
@@ -43,7 +43,7 @@ Later工作较Instapaper更好，他说，“它使我心爱的Instapaper的外�
 
 ## 参见
 
-  - [Instapaper](https://zh.wikipedia.org/wiki/Instapaper "wikilink")
+  - [Instapaper](../Page/Instapaper.md "wikilink")
   - [Pinboard](https://zh.wikipedia.org/wiki/Pinboard "wikilink")
   - [IFTTT](../Page/IFTTT.md "wikilink")
 

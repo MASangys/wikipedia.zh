@@ -5,7 +5,7 @@ DOOR**》是[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄�
 
   - EXILE首次推出的配信數位單曲。
   - [iTunes
-    Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、[mora提供音樂配信服務網站供配信](../Page/mora.md "wikilink")。iTunes
+    Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、[mora提供音樂配信服務網站供配信](https://zh.wikipedia.org/wiki/mora "wikilink")。iTunes
     Store就配信於世界全22個國家。
   - 這首歌有《THE NEXT DOOR》(日語版本)和《THE NEXT DOOR -INDESTRUCTIBLE-》(全篇英語詞)版本。
   - 這首成為《街頭霸王世界項目》的主題歌。

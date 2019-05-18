@@ -1,4 +1,4 @@
-《**GJ部**》（）為日本作家[新木伸所撰寫的輕小說系列](https://zh.wikipedia.org/wiki/新木伸 "wikilink")，插畫為[あるや](https://zh.wikipedia.org/wiki/あるや "wikilink")。2010年3月至2012年3月，《**GJ部**》全9卷刊行。2012年7月宣布動畫化。\[1\]2013年1月起於[日本電視台播放](../Page/日本電視台.md "wikilink")。新系列《**GJ部中等部**》（）於2012年4月發行。
+《**GJ部**》（）為日本作家[新木伸所撰寫的輕小說系列](../Page/新木伸.md "wikilink")，插畫為[あるや](https://zh.wikipedia.org/wiki/あるや "wikilink")。2010年3月至2012年3月，《**GJ部**》全9卷刊行。2012年7月宣布動畫化。\[1\]2013年1月起於[日本電視台播放](../Page/日本電視台.md "wikilink")。新系列《**GJ部中等部**》（）於2012年4月發行。
 
 2014年3月21日官方公開動畫30秒宣傳影片，即將推出特別篇OVA動畫《GJ部@》，《GJ部@》OVA於2014年5月5日在[BS日本電視台播出一小時的特別節目](../Page/BS日本.md "wikilink")，2014年5月14日於日本發售[Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")&[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，收錄46分鐘的本篇影像與特典影像。
 
@@ -76,7 +76,7 @@
 ## 小說
 
   - 《GJ部》
-    [新木伸](https://zh.wikipedia.org/wiki/新木伸 "wikilink")（著）、あるや（插圖）、[GAGAGA文庫](../Page/GAGAGA文庫.md "wikilink")（[小學館](../Page/小學館.md "wikilink")）、全9卷
+    [新木伸](../Page/新木伸.md "wikilink")（著）、あるや（插圖）、[GAGAGA文庫](../Page/GAGAGA文庫.md "wikilink")（[小學館](../Page/小學館.md "wikilink")）、全9卷
 
 <table>
 <thead>
@@ -205,10 +205,10 @@
 
 ### 工作人員\[2\]
 
-  - 原作：[新木伸](https://zh.wikipedia.org/wiki/新木伸 "wikilink")（[小學館](../Page/小學館.md "wikilink")「[GAGAGA文庫](../Page/GAGAGA文庫.md "wikilink")」發行）
+  - 原作：[新木伸](../Page/新木伸.md "wikilink")（[小學館](../Page/小學館.md "wikilink")「[GAGAGA文庫](../Page/GAGAGA文庫.md "wikilink")」發行）
   - 角色原案：あるや
   - 監督：藤原佳幸
-  - 系列構成和脚本：[子安秀明](https://zh.wikipedia.org/wiki/子安秀明 "wikilink")
+  - 系列構成和脚本：[子安秀明](../Page/子安秀明.md "wikilink")
   - 角色設計：[大島美和](https://zh.wikipedia.org/wiki/大島美和 "wikilink")
   - 道具設計：曾我篤史、松本惠
   - 總作画監督：曾我篤史
@@ -223,7 +223,7 @@
   - 總製作人：[森實陽三](https://zh.wikipedia.org/wiki/森實陽三 "wikilink")
   - 製作人：植野浩之、渡部智明、田村學、伊藤隼之介
   - 動畫製作人：鎌田肇
-  - 動畫制作：[動畫工房](https://zh.wikipedia.org/wiki/動畫工房 "wikilink")
+  - 動畫制作：[動畫工房](../Page/動畫工房.md "wikilink")
   - 製作著作：GJ部保護者会、日本電視台、Vap
 
 ### 主題曲\[3\]

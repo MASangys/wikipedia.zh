@@ -117,7 +117,7 @@ Ultraman**』（原題：）是[日本的](../Page/日本.md "wikilink")[電視�
 <td><p>科学警備隊へのチャレンジ</p></td>
 <td></td>
 <td><p>吉川惣司</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/布川郁司" title="wikilink">布川郁司</a></p></td>
+<td><p><a href="../Page/布川郁司.md" title="wikilink">布川郁司</a></p></td>
 <td><p>安濃高志</p></td>
 </tr>
 <tr class="even">
@@ -288,8 +288,8 @@ Ultraman**』（原題：）是[日本的](../Page/日本.md "wikilink")[電視�
 <td><p>10月17日</p></td>
 <td><p>悪魔のUFO大襲来</p></td>
 <td><p>若槻文三</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/白土武" title="wikilink">白土武</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/又野弘道" title="wikilink">又野弘道</a></p></td>
+<td><p><a href="../Page/白土武.md" title="wikilink">白土武</a></p></td>
+<td><p><a href="../Page/又野弘道.md" title="wikilink">又野弘道</a></p></td>
 <td><p>侵略星人 ジャダン<br />
 双頭怪獸 ジャゴン</p></td>
 </tr>
@@ -307,7 +307,7 @@ Ultraman**』（原題：）是[日本的](../Page/日本.md "wikilink")[電視�
 <td><p>10月31日</p></td>
 <td><p>ウルトラの女戦士</p></td>
 <td><p>吉川惣司</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/神田武幸" title="wikilink">橫山裕一郎</a></p></td>
+<td><p><a href="../Page/神田武幸.md" title="wikilink">橫山裕一郎</a></p></td>
 <td><p>辻勝之</p></td>
 <td><p>宇宙星獸 ガルバドス</p></td>
 </tr>

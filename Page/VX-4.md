@@ -10,7 +10,7 @@
   - [美国海军历史](https://zh.wikipedia.org/wiki/美国海军历史 "wikilink")
   - [已退役美国海军飞机中队列表](https://zh.wikipedia.org/wiki/已退役美国海军飞机中队列表 "wikilink")
   - [美国海军飞机中队列表](https://zh.wikipedia.org/wiki/美国海军飞机中队列表 "wikilink")
-  - [VX-9](https://zh.wikipedia.org/wiki/VX-9 "wikilink")
+  - [VX-9](../Page/VX-9.md "wikilink")
 
 ## 参考文献
 

@@ -2,7 +2,7 @@
 《**TPB AFK: The Pirate Bay Away From
 Keyboard**》是一部[紀錄片](../Page/紀錄片.md "wikilink")，由賽門·克羅斯執導，改編自[海盜灣](../Page/海盜灣.md "wikilink")[BT](../Page/BitTorrent_\(软件\).md "wikilink")[種子網站三位創始人](../Page/种子文件.md "wikilink")、、的真實故事。自2008年夏天開始拍攝，至2012年8月25日結束拍攝\[1\]，並於2013年2月8日發行\[2\]\[3\]。
 
-在[上訴法院的審判之後](https://zh.wikipedia.org/wiki/上訴法院 "wikilink")，影片的網站自2010年8月28日上線啟用，與[Kickstarter網路募款網站合作預計募款](https://zh.wikipedia.org/wiki/Kickstarter "wikilink")2萬5千美元來雇用一名電影編輯人員。但是募款活動在三天時間總共收到51424美元\[4\]\[5\]\[6\]。在2011年2月，[瑞典政府的](../Page/瑞典政府.md "wikilink")還額外給予這部影片補助達20萬[瑞典克朗](../Page/瑞典克朗.md "wikilink")（約3萬1千美元）\[7\]。
+在[上訴法院的審判之後](https://zh.wikipedia.org/wiki/上訴法院 "wikilink")，影片的網站自2010年8月28日上線啟用，與[Kickstarter網路募款網站合作預計募款](../Page/Kickstarter.md "wikilink")2萬5千美元來雇用一名電影編輯人員。但是募款活動在三天時間總共收到51424美元\[4\]\[5\]\[6\]。在2011年2月，[瑞典政府的](../Page/瑞典政府.md "wikilink")還額外給予這部影片補助達20萬[瑞典克朗](../Page/瑞典克朗.md "wikilink")（約3萬1千美元）\[7\]。
 
 影片將會由[海盜灣與其他的](../Page/海盜灣.md "wikilink")[BT網站以](../Page/BitTorrent_\(协议\).md "wikilink")[CC授權來發行](../Page/创作共用.md "wikilink")。影片DVD將會發送給那些贊助[海盜灣開發人員的支持者](../Page/海盜灣.md "wikilink")\[8\]。
 

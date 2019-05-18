@@ -1,4 +1,4 @@
-《**guitarissimo**》是日本女歌手[miwa的第](../Page/miwa.md "wikilink")1張專輯，於2011年4月6日由[Sony
+《**guitarissimo**》是日本女歌手[miwa的第](https://zh.wikipedia.org/wiki/miwa "wikilink")1張專輯，於2011年4月6日由[Sony
 Music
 Records發行](../Page/Sony_Music_Records.md "wikilink")。「guitarissimo」由「guitar」（[結他](https://zh.wikipedia.org/wiki/結他 "wikilink")）和「issimo」組成，其中「issimo」在[意大利文中有](https://zh.wikipedia.org/wiki/意大利文 "wikilink")「非常」之意。\[1\]
 
@@ -17,7 +17,7 @@ live tour 2011
 
 專輯收錄了14首歌曲，其中包括miwa自出道以來發行的五張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")（《[don't
 cry
-anymore](../Page/don't_cry_anymore.md "wikilink")》至《[春天來臨時](../Page/春天來臨時.md "wikilink")》）。\[9\]以下是其他歌曲：
+anymore](https://zh.wikipedia.org/wiki/don't_cry_anymore "wikilink")》至《[春天來臨時](../Page/春天來臨時.md "wikilink")》）。\[9\]以下是其他歌曲：
 
   - **不可思議！！**（）：明快的歌曲，歌詞描述主角因為戀人未能注意自己換了髮型、忘記了兩人的紀念日等漠不關心的態度而發怒，但「因為你那笑臉，便會不禁原諒你」。\[10\]
   - **friend
@@ -27,7 +27,7 @@ anymore](../Page/don't_cry_anymore.md "wikilink")》至《[春天來臨時](../P
     days**：歌詞以「車站的CD店已經不見了」一句開首，描述回憶裏的一個城市慢慢變遷，以及過往跟戀人在那個城市過的生活。\[13\]
   - **醒不來的夢**（）：歌中主角在喜歡的人不在身邊的夜晚，痛苦得想造醒不來的夢。\[14\]
   - **目黑川（string version）**（）：出道單曲《[don't cry
-    anymore](../Page/don't_cry_anymore.md "wikilink")》B面曲的弦樂版本，以[目黑川為背景](../Page/目黑川.md "wikilink")。\[15\]
+    anymore](https://zh.wikipedia.org/wiki/don't_cry_anymore "wikilink")》B面曲的弦樂版本，以[目黑川為背景](../Page/目黑川.md "wikilink")。\[15\]
   - **初夏**（）：歌詞描述[遠距離戀愛的一對戀人即將迎來夏天](../Page/遠距離戀愛.md "wikilink")，其中包含「太陽」、「海風」等字眼。\[16\]
   - **我們的未來**（）：以男生角度寫成的歌曲，歌詞描述主角須轉到一間「遙遠的學校」（）上學，以及他離開前跟喜歡的人相處的時光。\[17\]
   - **堅強**（）：歌詞描述主角為了邁向新的地方，所以想變得堅強；包含「平日的巴士站」（）、「電話和短訊」（）等跟主角相符的事物。\[18\]這首歌是miwa在高中時寫的歌曲。\[19\]

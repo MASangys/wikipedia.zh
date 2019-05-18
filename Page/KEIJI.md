@@ -2,7 +2,7 @@
 THE SECOND的表演者](../Page/EXILE_THE_SECOND.md "wikilink")。原[J Soul
 Brothers](../Page/J_Soul_Brothers.md "wikilink")。
 
-[宮崎縣](../Page/宮崎縣.md "wikilink")[宮崎郡](../Page/宮崎郡.md "wikilink")[清武町](../Page/清武町.md "wikilink")（今[宮崎市](../Page/宮崎市.md "wikilink")）出身。[LDH所屬](https://zh.wikipedia.org/wiki/LDH_\(藝能事務所\) "wikilink")。
+[宮崎縣](../Page/宮崎縣.md "wikilink")[宮崎郡](../Page/宮崎郡.md "wikilink")[清武町](../Page/清武町.md "wikilink")（今[宮崎市](../Page/宮崎市.md "wikilink")）出身。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。
 2014年7月，藝名從KEIJI改為本名的黑木啓司。
 
 ## 來歷
@@ -64,21 +64,19 @@ EXILE](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")」的成�
   - [我無法戀愛的理由](../Page/我無法戀愛的理由.md "wikilink")（富士電視台、2011年10月 - 12月） 飾演
     川端亮一
   - 金曜プレステージ特別企画・悪女たちのメス（富士電視台、2011年12月9日）飾演 中村真彦
-  - [最棒的離婚](https://zh.wikipedia.org/wiki/最棒的離婚 "wikilink")
-    第3話（富士電視台、2013年1月24日）飾演 大村圭輔
-  - [紳士大主廚](https://zh.wikipedia.org/wiki/紳士大主廚 "wikilink")（[CBC](../Page/中部日本放送.md "wikilink")、2013年4月
+  - [最棒的離婚](../Page/最棒的離婚.md "wikilink") 第3話（富士電視台、2013年1月24日）飾演 大村圭輔
+  - [紳士大主廚](../Page/紳士大主廚.md "wikilink")（[CBC](../Page/中部日本放送.md "wikilink")、2013年4月
     - ）飾演 **伊達英雄**
-  - [最後的灰姑娘](https://zh.wikipedia.org/wiki/最後的灰姑娘 "wikilink") 第10 -
-    11話（富士電視台、2013年6月） 飾演 近藤卓
+  - [最後的灰姑娘](../Page/最後的灰姑娘.md "wikilink") 第10 - 11話（富士電視台、2013年6月） 飾演
+    近藤卓
   - 幸せになる3つの買い物「ウェディングドレスを買った女」（[關西電視台](../Page/關西電視台.md "wikilink")、2013年6月25日）
     飾演 増田真澄
   - 金曜プレステージ 壮絶\! 女のミステリー第3弾『強行犯係・魚住久江〜ドルチェ2』（富士電視台、2013年11月15日）飾演 井上高志
   - [Bitter
     Blood](https://zh.wikipedia.org/wiki/Bitter_Blood "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")、2014年4月
     - 6月）飾演 鷹野浩次
-  - [殘念丈夫](https://zh.wikipedia.org/wiki/殘念丈夫 "wikilink")（富士電視台，2015年1月
-    - 3月）飾演 須藤俊也
-  - [戰力外搜查官](https://zh.wikipedia.org/wiki/戰力外搜查官 "wikilink")2時間SP（2015年3月21日、日本電視台）
+  - [殘念丈夫](../Page/殘念丈夫.md "wikilink")（富士電視台，2015年1月 - 3月）飾演 須藤俊也
+  - [戰力外搜查官](../Page/戰力外搜查官.md "wikilink")2時間SP（2015年3月21日、日本電視台）
   - [WILD
     HEROES](https://zh.wikipedia.org/wiki/WILD_HEROES "wikilink")（2015年4月
     -、日本電視台） 飾演 林田典明(テンテン)
@@ -127,8 +125,7 @@ EXILE](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")」的成�
 ### 配信節目
 
   - BPM〜BEST PEOPLE's MUSIC〜（2016年9月 -
-    、[AbemaTV](https://zh.wikipedia.org/wiki/AbemaTV "wikilink")） - MC
-    \[9\]
+    、[AbemaTV](../Page/AbemaTV.md "wikilink")） - MC \[9\]
 
 ### 廣告
 
@@ -193,8 +190,7 @@ EXILE](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")」的成�
 [Category:宮崎縣出身人物](https://zh.wikipedia.org/wiki/Category:宮崎縣出身人物 "wikilink")
 
 1.   みやざき応援団
-2.  『[月刊EXILE](https://zh.wikipedia.org/wiki/月刊EXILE "wikilink")』2012年12月号
-    P135
+2.  『[月刊EXILE](../Page/月刊EXILE.md "wikilink")』2012年12月号 P135
 3.  2009年11月28日播映的「[EXH〜EXILE
     HOUSE〜](https://zh.wikipedia.org/wiki/EXH〜EXILE_HOUSE〜 "wikilink")」
 4.  [「発表！」](http://ameblo.jp/tatsuyakawagoe/entry-11375924843.html?frm_src=thumb_module)川越達也オフィシャルブログ
@@ -205,5 +201,4 @@ EXILE](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")」的成�
 7.
 8.
 9.
-10. 『[月刊EXILE](https://zh.wikipedia.org/wiki/月刊EXILE "wikilink")』2012年12月号
-    P135
+10. 『[月刊EXILE](../Page/月刊EXILE.md "wikilink")』2012年12月号 P135

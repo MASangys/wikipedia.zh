@@ -1,4 +1,4 @@
-《**Nine：九回時間旅行**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](../Page/tvN.md "wikilink")2013年3月11日播出的[月火迷你連續劇](../Page/TvN月火連續劇.md "wikilink")，由[李陣郁](../Page/李陣郁.md "wikilink")、[趙胤熙主演](../Page/趙胤熙.md "wikilink")，知名劇作家[宋在貞](../Page/宋在貞.md "wikilink")(《[順風婦產科](../Page/順風婦產科.md "wikilink")》、《[搞笑一家親](https://zh.wikipedia.org/wiki/搞笑一家親 "wikilink")》、《[仁顯王后的男人](../Page/仁顯王后的男人.md "wikilink")》)執筆。企劃時間超過三年，首播前已事先拍好8集、完成15集的劇本，在習慣邊拍邊播的韓國電視圈實屬罕見。本劇亦為韓國有線電視台首部到海外取景（[尼泊爾](https://zh.wikipedia.org/wiki/尼泊爾 "wikilink")）的電視劇，製作費為59億韓元，\[1\]為韓國電視史上第一部被美國收購版權的作品，美國版預計由製作，並在[ABC播放](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")。\[2\]\[3\]
+《**Nine：九回時間旅行**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](https://zh.wikipedia.org/wiki/tvN "wikilink")2013年3月11日播出的[月火迷你連續劇](../Page/TvN月火連續劇.md "wikilink")，由[李陣郁](../Page/李陣郁.md "wikilink")、[趙胤熙主演](../Page/趙胤熙.md "wikilink")，知名劇作家[宋在貞](../Page/宋在貞.md "wikilink")(《[順風婦產科](../Page/順風婦產科.md "wikilink")》、《[搞笑一家親](https://zh.wikipedia.org/wiki/搞笑一家親 "wikilink")》、《[仁顯王后的男人](../Page/仁顯王后的男人.md "wikilink")》)執筆。企劃時間超過三年，首播前已事先拍好8集、完成15集的劇本，在習慣邊拍邊播的韓國電視圈實屬罕見。本劇亦為韓國有線電視台首部到海外取景（[尼泊爾](https://zh.wikipedia.org/wiki/尼泊爾 "wikilink")）的電視劇，製作費為59億韓元，\[1\]為韓國電視史上第一部被美國收購版權的作品，美國版預計由製作，並在[ABC播放](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")。\[2\]\[3\]
 
 ## 劇情簡介
 
@@ -131,7 +131,7 @@
 <td><center>
 <p>－</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/全國煥" title="wikilink">全國煥</a><small>（47）</small></p></td>
+<p><a href="../Page/全國煥.md" title="wikilink">全國煥</a><small>（47）</small></p></td>
 <td><p>宣友的父親</p>
 <p>1992年——明世醫院院長</p>
 <p>總是心懷不安，凡事要親自確認才行，認為自己的判斷是最正確的，過於自我是他的致命缺點。不輕易相信別人，一旦認為好的人就不會對他有絲毫懷疑，正因為這樣，把想要守護的家人甚至連他自己都毀了。</p></td>
@@ -171,9 +171,9 @@
 <td><center>
 <p>韓英勳[8]</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李承俊" title="wikilink">李承俊</a><small>（38）</small></p></td>
+<p><a href="../Page/李承俊.md" title="wikilink">李承俊</a><small>（38）</small></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李伊庚" title="wikilink">李伊庚</a><small>（18）</small></p></td>
+<p><a href="../Page/李伊庚.md" title="wikilink">李伊庚</a><small>（18）</small></p></td>
 <td><p>宣友的竹馬故友</p>
 <p>2012年——神經外科醫生</p>
 <p>二十年來一直在宣友身邊的朋友，很清楚他的個性是無論遇到什麼困難都不會迴避的。對於宣友的嚴重頭痛直覺很不妙，親自確認了病況，真的很不情願從自己口中宣告朋友的生命期限只剩下一年，看著他這樣飽受痛苦，內心十分焦急。</p>
@@ -187,7 +187,7 @@
 <td><center>
 <p>崔正哲[9]</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/鄭東煥" title="wikilink">鄭東煥</a><small>（67）</small><br />
+<p><a href="../Page/鄭東煥.md" title="wikilink">鄭東煥</a><small>（67）</small><br />
 <small>青年：<a href="../Page/徐東沅.md" title="wikilink">徐東沅</a></small></p></td>
 <td><center>
 <p>鄭東煥<small>（47）</small></p></td>
@@ -203,7 +203,7 @@
 <td><center>
 <p>吳哲民</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/嚴孝燮" title="wikilink">嚴孝燮</a><small>（52）</small></p></td>
+<p><a href="../Page/嚴孝燮.md" title="wikilink">嚴孝燮</a><small>（52）</small></p></td>
 <td><center>
 <p>嚴孝燮<small>（32）</small></p></td>
 <td><p>宣友的上司</p>
@@ -216,7 +216,7 @@
 <td><center>
 <p>金範錫</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/延濟旭" title="wikilink">延濟旭</a><small>（34）</small></p></td>
+<p><a href="../Page/延濟旭.md" title="wikilink">延濟旭</a><small>（34）</small></p></td>
 <td><center>
 <p>－</p></td>
 <td><p>宣友的後輩記者</p>
@@ -246,7 +246,7 @@
 <td><p>勾引宣友的女同事</p>
 <p>2013年——CBM電視台女主播</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/吳梅" title="wikilink">吳梅</a></p></td>
+<p><a href="../Page/吳梅.md" title="wikilink">吳梅</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -283,7 +283,7 @@
 <td><center>
 <p><a href="../Page/李應敬.md" title="wikilink">李應敬</a><small>（51）</small></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/賈得熙" title="wikilink">賈得熙</a><small>（31）</small></p></td>
+<p><a href="../Page/賈得熙.md" title="wikilink">賈得熙</a><small>（31）</small></p></td>
 <td><p>政宇過去的戀人</p>
 <p>2012年——美國僑胞</p>
 <p>很久之前移民到美國，與一名富有且老實的僑胞律師再婚。過了一段長時間的平靜生活，在韓國所牽扯的風波已經變得很模糊，回憶也都淡忘了。</p>
@@ -330,13 +330,13 @@
 <p>1992年——女高二年級學生</p>
 <p>比任何人都清楚自己的漂亮，故作公主姿態。知道了宣友的家庭背景，所以與他陷入愛情，但是在宣友家出事後就斷絕聯繫了。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/吳梅" title="wikilink">吳梅</a></p></td>
+<p><a href="../Page/吳梅.md" title="wikilink">吳梅</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>朱尚宇</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李漢偉" title="wikilink">李漢偉</a></p></td>
+<p><a href="../Page/李漢偉.md" title="wikilink">李漢偉</a></p></td>
 <td><center>
 <p>－</p></td>
 <td><p>律師，有進再婚的丈夫。</p></td>
@@ -356,7 +356,7 @@
 <tr class="odd">
 <td></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/朴元相" title="wikilink">朴元相</a></p></td>
+<p><a href="../Page/朴元相.md" title="wikilink">朴元相</a></p></td>
 <td><center>
 <p>－</p></td>
 <td><p>在尼泊爾將正宇死亡相關訊息告知宣友的警察</p></td>
@@ -365,7 +365,7 @@
 <tr class="even">
 <td></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/崔雄" title="wikilink">崔雄</a></p></td>
+<p><a href="../Page/崔雄.md" title="wikilink">崔雄</a></p></td>
 <td><center>
 <p>－</p></td>
 <td><p>崔正哲的秘書</p></td>
@@ -568,7 +568,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/第50屆百想藝術大獎" title="wikilink">第50屆百想藝術大獎</a></p></td>
+<td><p><a href="../Page/第50屆百想藝術大獎.md" title="wikilink">第50屆百想藝術大獎</a></p></td>
 <td><p>男子人氣獎</p></td>
 <td><p>李陣郁</p></td>
 <td></td>

@@ -1,4 +1,4 @@
-**WWE洲際冠軍**（），是隸屬於[世界摔角娛樂的一](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")[冠軍項目](https://zh.wikipedia.org/wiki/冠軍 "wikilink")。WWE洲際冠軍在1975年成立於世界摔角娛樂的前身，也就是當時的世界摔角聯盟（WWF）。WWE洲際冠軍是次要冠軍項目，通常在中等的場和或節目時段中都會有冠軍賽，有時亦會在[付費收看節目舉行冠軍賽](https://zh.wikipedia.org/wiki/世界摔角娛樂付費收看節目 "wikilink")。特別的是，[柯爾提斯·艾克賽爾與他的父親](https://zh.wikipedia.org/wiki/柯爾提斯·艾克賽爾 "wikilink")[柯爾提·漢尼格是世界摔角娛樂的歷史上](https://zh.wikipedia.org/wiki/柯爾提·漢尼格 "wikilink")，第一對都獲得過WWE洲際冠軍的父子檔。
+**WWE洲際冠軍**（），是隸屬於[世界摔角娛樂的一](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")[冠軍項目](https://zh.wikipedia.org/wiki/冠軍 "wikilink")。WWE洲際冠軍在1975年成立於世界摔角娛樂的前身，也就是當時的世界摔角聯盟（WWF）。WWE洲際冠軍是次要冠軍項目，通常在中等的場和或節目時段中都會有冠軍賽，有時亦會在[付費收看節目舉行冠軍賽](https://zh.wikipedia.org/wiki/世界摔角娛樂付費收看節目 "wikilink")。特別的是，[柯爾提斯·艾克賽爾與他的父親](../Page/柯爾提斯·艾克賽爾.md "wikilink")[柯爾提·漢尼格是世界摔角娛樂的歷史上](../Page/柯爾提·漢尼格.md "wikilink")，第一對都獲得過WWE洲際冠軍的父子檔。
 
 ## 詞源
 
@@ -6,7 +6,7 @@
 
 1985年，WWE洲際冠軍腰帶改變了樣式：中央板的設計將[地圖移動至](https://zh.wikipedia.org/wiki/地圖 "wikilink")[大西洋中央](../Page/大西洋.md "wikilink")，而除了原有的北美洲和南美洲外，還增加了[歐洲和](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[西部非洲](https://zh.wikipedia.org/wiki/西部非洲 "wikilink")。
 
-1989年4月10日，WWE洲際冠軍首次在北美洲以外舉行冠軍賽，是由[終極戰士和](https://zh.wikipedia.org/wiki/終極戰士_\(摔角手\) "wikilink")在[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[米蘭舉行](../Page/米蘭.md "wikilink")。\[1\]1991年3月30日，WWE洲際冠軍在首次在[亞洲舉行冠軍賽](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，是由[完美先生和](https://zh.wikipedia.org/wiki/柯爾提·漢尼格 "wikilink")在[日本](../Page/日本.md "wikilink")[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")舉行。\[2\]而WWE洲際冠軍冠軍賽則是在1997年4月6日首次來到了非洲，是由[巨石強森和](../Page/巨石強森.md "wikilink")在[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[德爾班舉行](https://zh.wikipedia.org/wiki/德爾班 "wikilink")。\[3\]而在2005年4月7日，WWE洲際冠軍首次在[大洋洲舉行冠軍賽](../Page/大洋洲.md "wikilink")，是由和在[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[布里斯本舉行](https://zh.wikipedia.org/wiki/布里斯本 "wikilink")。\[4\]
+1989年4月10日，WWE洲際冠軍首次在北美洲以外舉行冠軍賽，是由[終極戰士和](../Page/終極戰士_\(摔角手\).md "wikilink")在[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[米蘭舉行](../Page/米蘭.md "wikilink")。\[1\]1991年3月30日，WWE洲際冠軍在首次在[亞洲舉行冠軍賽](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，是由[完美先生和](../Page/柯爾提·漢尼格.md "wikilink")在[日本](../Page/日本.md "wikilink")[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")舉行。\[2\]而WWE洲際冠軍冠軍賽則是在1997年4月6日首次來到了非洲，是由[巨石強森和](../Page/巨石強森.md "wikilink")在[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[德爾班舉行](https://zh.wikipedia.org/wiki/德爾班 "wikilink")。\[3\]而在2005年4月7日，WWE洲際冠軍首次在[大洋洲舉行冠軍賽](../Page/大洋洲.md "wikilink")，是由和在[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[布里斯本舉行](https://zh.wikipedia.org/wiki/布里斯本 "wikilink")。\[4\]
 
 從1997年開始，歐洲專門由[WWE歐洲冠軍代表](https://zh.wikipedia.org/wiki/WWE歐洲冠軍 "wikilink")，直到2002年與WWE洲際冠軍合併。
 

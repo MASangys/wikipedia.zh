@@ -1,5 +1,5 @@
 |} **Metra電鐵線**（Metra Electric
-District）是由[芝加哥通勤鐵路運營的一條](../Page/芝加哥通勤鐵路.md "wikilink")[通勤鐵路線](https://zh.wikipedia.org/wiki/通勤鐵路 "wikilink")，聯結芝加哥市中心和南郊。列車由市中心[千禧車站](https://zh.wikipedia.org/wiki/千禧車站 "wikilink")（舊稱廊道夫街車站）發車，全線使用[電聯車](../Page/電聯車.md "wikilink")。列車行經原[伊利諾伊中央鐵路](https://zh.wikipedia.org/wiki/伊利諾伊中央鐵路 "wikilink")[巴拿馬特快旅客列車的線路](https://zh.wikipedia.org/wiki/巴拿馬特快 "wikilink")，故在Metra時刻表上以“亮巴拿馬橙色”作為標注。\[1\]
+District）是由[芝加哥通勤鐵路運營的一條](../Page/芝加哥通勤鐵路.md "wikilink")[通勤鐵路線](https://zh.wikipedia.org/wiki/通勤鐵路 "wikilink")，聯結芝加哥市中心和南郊。列車由市中心[千禧車站](../Page/千禧車站.md "wikilink")（舊稱廊道夫街車站）發車，全線使用[電聯車](../Page/電聯車.md "wikilink")。列車行經原[伊利諾伊中央鐵路](https://zh.wikipedia.org/wiki/伊利諾伊中央鐵路 "wikilink")[巴拿馬特快旅客列車的線路](https://zh.wikipedia.org/wiki/巴拿馬特快 "wikilink")，故在Metra時刻表上以“亮巴拿馬橙色”作為標注。\[1\]
 
 Metra電鐵線為芝加哥僅有兩條由電氣化鐵路運營的客運列車線路，亦是芝加哥通勤铁路系統中唯一的電氣化線路，此外Metra電鐵線還是芝加哥通勤铁路系統內唯一具有三分支的線路。電氣化方式為1500V[架空電纜供電](https://zh.wikipedia.org/wiki/架空電纜 "wikilink")，全部車站均為高[月台以適應電聯車停靠](https://zh.wikipedia.org/wiki/月台 "wikilink")。Metra電鐵線和另一條通往北[印第安納州的電氣化通勤鐵路](https://zh.wikipedia.org/wiki/印第安納州 "wikilink")[南岸線
 (NICTD)在](https://zh.wikipedia.org/wiki/南岸線_\(NICTD\) "wikilink")[肯辛頓站以北共用線路和車站](https://zh.wikipedia.org/wiki/肯辛頓站 "wikilink")。
@@ -8,7 +8,7 @@ Metra電鐵線為芝加哥僅有兩條由電氣化鐵路運營的客運列車線
 
 ### 蒸汽時代
 
-Metra電鐵線的前身是[伊利諾伊中央鐵路營運的一條服務於芝加哥近郊的通勤鐵路線](https://zh.wikipedia.org/wiki/伊利諾伊中央鐵路 "wikilink")，亦是全美東北地區外的第一條城市通勤鐵路線。全線於1856年7月21日開通，由伊利諾伊中央鐵路市區車站（今[千禧車站](https://zh.wikipedia.org/wiki/千禧車站 "wikilink")）至[海德公園](https://zh.wikipedia.org/wiki/海德公園_\(芝加哥\) "wikilink")。由於1893年[芝加哥哥伦布纪念博览会在](../Page/芝加哥哥伦布纪念博览会.md "wikilink")[傑克遜公園舉辦](https://zh.wikipedia.org/wiki/傑克遜公園_\(芝加哥\) "wikilink")，部分線路高架化。
+Metra電鐵線的前身是[伊利諾伊中央鐵路營運的一條服務於芝加哥近郊的通勤鐵路線](https://zh.wikipedia.org/wiki/伊利諾伊中央鐵路 "wikilink")，亦是全美東北地區外的第一條城市通勤鐵路線。全線於1856年7月21日開通，由伊利諾伊中央鐵路市區車站（今[千禧車站](../Page/千禧車站.md "wikilink")）至[海德公園](https://zh.wikipedia.org/wiki/海德公園_\(芝加哥\) "wikilink")。由於1893年[芝加哥哥伦布纪念博览会在](../Page/芝加哥哥伦布纪念博览会.md "wikilink")[傑克遜公園舉辦](https://zh.wikipedia.org/wiki/傑克遜公園_\(芝加哥\) "wikilink")，部分線路高架化。
 
 起初，列車經由[密歇根湖畔的鐵路線進入芝加哥市區](../Page/密歇根湖.md "wikilink")，線路建築在湖內的[栈桥上](https://zh.wikipedia.org/wiki/栈桥 "wikilink")。1871年的[芝加哥大火後](../Page/芝加哥大火.md "wikilink")，倒塌的建築物殘餘傾入密歇根湖，使湖岸線向內推移形成了今天的[格兰特公园](https://zh.wikipedia.org/wiki/格兰特公园 "wikilink")，伊利諾伊中央鐵路亦在該地上重修線路，使其完全位於內陸。
 
@@ -19,13 +19,13 @@ Metra電鐵線的前身是[伊利諾伊中央鐵路營運的一條服務於芝�
 [19681102_03_IC_Electric.jpg](https://zh.wikipedia.org/wiki/File:19681102_03_IC_Electric.jpg "fig:19681102_03_IC_Electric.jpg")，攝於1968年\]\]
 20世紀初，伊利諾伊中央鐵路在芝加哥日均收發300餘次蒸汽列車。1919年，伊利諾伊中央鐵路和芝加哥市政府合作修築一條坡台，北至市區，南至[霍姆伍德](https://zh.wikipedia.org/wiki/霍姆伍德_\(伊利諾伊州\) "wikilink")。鐵路修築於坡台上，公路則通過橋隧跨越鐵路線。此舉使得伊利諾伊鐵路芝加哥市内正線上的大部分[平交道口被撤銷](https://zh.wikipedia.org/wiki/道口 "wikilink")（僅剩里奇頓公園站以南的一個）。線路向南並穿過一條私營公路向南延伸至[大學城](https://zh.wikipedia.org/wiki/大學城_\(伊利諾伊州\) "wikilink")。南芝加哥支線則需要穿過較多的平交道口。
 
-線路路基改造的同時，電氣化改造亦隨後進行。1926年，從市區至麥特森區間完成電氣化改造。伊利諾伊中央鐵路對通勤鐵路全線實行電氣化改造，改造完成後稱為“伊利諾伊中央鐵路電鐵線”。在伊利諾伊中央鐵路的主線路基上並列電氣化的通勤列車專用線（西側路軌），以及非電氣化的城際和貨運列車線路（東側）。主線在[麥考密克會展中心附近分離成兩支](https://zh.wikipedia.org/wiki/麥考密克會展中心 "wikilink")：非電氣化兩條路軌向西進入新建立的[中央車站](https://zh.wikipedia.org/wiki/中央車站_\(芝加哥\) "wikilink")（1893年啟用），而電化線路則繼續向北進入原伊利諾伊中央鐵路的總站廊道夫街車站。
+線路路基改造的同時，電氣化改造亦隨後進行。1926年，從市區至麥特森區間完成電氣化改造。伊利諾伊中央鐵路對通勤鐵路全線實行電氣化改造，改造完成後稱為“伊利諾伊中央鐵路電鐵線”。在伊利諾伊中央鐵路的主線路基上並列電氣化的通勤列車專用線（西側路軌），以及非電氣化的城際和貨運列車線路（東側）。主線在[麥考密克會展中心附近分離成兩支](https://zh.wikipedia.org/wiki/麥考密克會展中心 "wikilink")：非電氣化兩條路軌向西進入新建立的[中央車站](../Page/中央車站_\(芝加哥\).md "wikilink")（1893年啟用），而電化線路則繼續向北進入原伊利諾伊中央鐵路的總站廊道夫街車站。
 
 1946年，電鐵線主線南端終點從麥特森向南延長1.1英里（1.8公里），至[車輛段南側](https://zh.wikipedia.org/wiki/車輛段 "wikilink")，為[里奇頓公園站](https://zh.wikipedia.org/wiki/里奇頓公園站_\(Metra\) "wikilink")。\[2\]
 
 “伊利諾伊中央鐵路電鐵線”曾是芝加哥最繁忙的通勤鐵路線，每日運送大量市内及市郊通勤乘客。1927年電氣化完工的首年，電鐵線一共運送了2600萬人次的乘客，1929年客流量上升至3500萬人次，1946年達到頂峰的4700萬人次。
 
-伊利諾伊中央鐵路主線在羅斯福大街（[中央車站](https://zh.wikipedia.org/wiki/中央車站_\(芝加哥\) "wikilink")）至53街區間為六線鐵路（1962年其中兩線拆除），53街至111街為[四線鐵路](../Page/四線鐵路.md "wikilink")，111街以南主線以及南芝加哥支線為[雙線鐵路](https://zh.wikipedia.org/wiki/雙線鐵路 "wikilink")，藍島支線為[單線鐵路](../Page/單線鐵路.md "wikilink")。
+伊利諾伊中央鐵路主線在羅斯福大街（[中央車站](../Page/中央車站_\(芝加哥\).md "wikilink")）至53街區間為六線鐵路（1962年其中兩線拆除），53街至111街為[四線鐵路](../Page/四線鐵路.md "wikilink")，111街以南主線以及南芝加哥支線為[雙線鐵路](https://zh.wikipedia.org/wiki/雙線鐵路 "wikilink")，藍島支線為[單線鐵路](../Page/單線鐵路.md "wikilink")。
 
 #### 1972年鐵路事故
 

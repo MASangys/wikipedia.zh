@@ -44,7 +44,8 @@ Messe福岡 |- |align="center"|2006年7月25日、26日
 
 1.  [Opening](https://zh.wikipedia.org/wiki/Opening "wikilink")
 2.  [Passion](https://zh.wikipedia.org/wiki/Passion "wikilink")
-3.  [This Is Love](../Page/This_Is_Love.md "wikilink")
+3.  [This Is
+    Love](https://zh.wikipedia.org/wiki/This_Is_Love "wikilink")
 4.  [traveling](https://zh.wikipedia.org/wiki/traveling "wikilink")
 5.  [Movin' on without you](../Page/Movin'_on_without_you.md "wikilink")
 6.  [SAKURA

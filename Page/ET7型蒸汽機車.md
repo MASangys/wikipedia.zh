@@ -1,4 +1,4 @@
-**ET7**型蒸汽机车是[中国铁路所使用的一款轴式为](https://zh.wikipedia.org/wiki/中国铁路 "wikilink")0-8-0T的水柜式[蒸汽机车](https://zh.wikipedia.org/wiki/蒸汽机车 "wikilink")。该车原型为[波兰铁路](../Page/波兰国家铁路.md "wikilink")[T2D型蒸汽机车](https://zh.wikipedia.org/wiki/T2D型蒸汽机车 "wikilink")，由波兰工厂在1961年到1962年期间为中国制造了90台。\[1\]该款机车基本上运用于路外各工矿企业，直到20世纪90年代。\[2\]应当注意的是，本型机车的调节阀操纵杆安装位置与波兰国内自用之T2D型蒸汽机车不同，且部分机车在运用过程中由水柜式变为[煤水车式](https://zh.wikipedia.org/wiki/煤水车 "wikilink")\[3\]。
+**ET7**型蒸汽机车是[中国铁路所使用的一款轴式为](https://zh.wikipedia.org/wiki/中国铁路 "wikilink")0-8-0T的水柜式[蒸汽机车](https://zh.wikipedia.org/wiki/蒸汽机车 "wikilink")。该车原型为[波兰铁路](../Page/波兰国家铁路.md "wikilink")[T2D型蒸汽机车](../Page/T2D型蒸汽机车.md "wikilink")，由波兰工厂在1961年到1962年期间为中国制造了90台。\[1\]该款机车基本上运用于路外各工矿企业，直到20世纪90年代。\[2\]应当注意的是，本型机车的调节阀操纵杆安装位置与波兰国内自用之T2D型蒸汽机车不同，且部分机车在运用过程中由水柜式变为[煤水车式](https://zh.wikipedia.org/wiki/煤水车 "wikilink")\[3\]。
 
 ## 保存
 
@@ -6,7 +6,7 @@
 
 ## 参见
 
-  - [T2D型蒸汽机车](https://zh.wikipedia.org/wiki/T2D型蒸汽机车 "wikilink")
+  - [T2D型蒸汽机车](../Page/T2D型蒸汽机车.md "wikilink")
   - [XK13型蒸汽机车](https://zh.wikipedia.org/wiki/XK13型蒸汽机车 "wikilink")
 
 ## 参考资料

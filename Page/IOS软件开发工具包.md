@@ -8,8 +8,8 @@ Store上架審查機制後，如果是付費軟體，銷售總額蘋果抽30%，
 
 ## 开发历史
 
-2007年10月17日，乔布斯在苹果网站的一封公开信上宣布[软件开发工具包于](../Page/软件开发工具包.md "wikilink")2008年2月提供给第三方开发商。软件开发工具包于2008年3月6日发布，允许开发者开发[iPhone](../Page/iPhone.md "wikilink")、[iPod
-touch应用程序](../Page/iPod_touch.md "wikilink")，并且通过“iPhone模拟器”对其进行测试。
+2007年10月17日，乔布斯在苹果网站的一封公开信上宣布[软件开发工具包于](../Page/软件开发工具包.md "wikilink")2008年2月提供给第三方开发商。软件开发工具包于2008年3月6日发布，允许开发者开发[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPod
+touch应用程序](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")，并且通过“iPhone模拟器”对其进行测试。
 
 自从[Xcode](../Page/Xcode.md "wikilink")
 3.1发布以后，Xcode就成为了iOS软件开发工具包的开发环境。和[Mac
@@ -376,7 +376,7 @@ Touch上运行，\[1\]允许自带的应用程序从其他的来源下载代码�
 ## 软件版权
 
 IOS软件开发工具包本身是可以免费下载的，但开发人员如果希望向[App
-Store发布应用](https://zh.wikipedia.org/wiki/App_Store "wikilink")，就必需加入[iOS开发者计划](../Page/iOS开发者计划.md "wikilink")，加入需要付款以获得苹果的批准。加入后开发人员们将会得到一个牌照，可以用这个牌照将编写的软件发布到苹果的[App
+Store发布应用](https://zh.wikipedia.org/wiki/App_Store "wikilink")，就必需加入[iOS开发者计划](https://zh.wikipedia.org/wiki/iOS开发者计划 "wikilink")，加入需要付款以获得苹果的批准。加入后开发人员们将会得到一个牌照，可以用这个牌照将编写的软件发布到苹果的[App
 Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")。这个发布软件的形式的出现使人们不能根据[GPLv3的授权代码发布软件](https://zh.wikipedia.org/wiki/GPLv3 "wikilink")。任何根据GPLv3任何代码的开发者也必须得到GPLv3的授权。同时，开发商在散发布已经由GPLv3
 授权的应用软件的同时必须提供由苹果公司提供的密匙以允许该软件修改版本的上载。\[6\]
 

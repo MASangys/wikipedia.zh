@@ -12,7 +12,7 @@ Train」（）的[KiYa
 E991型](https://zh.wikipedia.org/wiki/JR東日本KiYa_E991型柴聯車 "wikilink")（）實驗車。根據E991型的實驗結果，JR東日本委託[東急車輛製造打造三輛試產車](../Page/東急車輛製造.md "wikilink")，於2006年末出廠，並在2007年（[平成](../Page/平成.md "wikilink")19年）7月31日時配屬至[小海線營業所](https://zh.wikipedia.org/wiki/小海線營業所 "wikilink")，於旗下的高海拔山區路線——[小海線進行營運](../Page/小海線.md "wikilink")，成為全世界最早投入實際營運的混合動力車輛。
 
 利用KiHa
-E200試產車實際投入營運的過程中所收集到的各種資料，JR東日本在2010年時推出了第一款正式量產的混合動力列車、觀光用一般柴聯車[HB-E300系](https://zh.wikipedia.org/wiki/JR東日本HB-E300系柴聯車 "wikilink")。JR東日本計畫在以
+E200試產車實際投入營運的過程中所收集到的各種資料，JR東日本在2010年時推出了第一款正式量產的混合動力列車、觀光用一般柴聯車[HB-E300系](../Page/JR東日本HB-E300系柴聯車.md "wikilink")。JR東日本計畫在以
 E200投入運行兩年之後所收集到的資料，作為是否將該車型全面導入量產的檢討基礎，甚至評估並考慮利用它來替換小海線上所使用的其他[KiHa
 110系車輛](https://zh.wikipedia.org/wiki/JR東日本KiHa_110系柴聯車 "wikilink")，但具體的計畫尚未發表。
 
@@ -59,7 +59,7 @@ E200。
 
 ## 相關條目
 
-  - [JR東日本HB-E300系柴聯車](https://zh.wikipedia.org/wiki/JR東日本HB-E300系柴聯車 "wikilink")
+  - [JR東日本HB-E300系柴聯車](../Page/JR東日本HB-E300系柴聯車.md "wikilink")
 
 ## 參考文獻
 

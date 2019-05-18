@@ -26,14 +26,14 @@ Tuxera NTFS是个可用于内部和外部存储、经过性能优化，具备容
 NTFS已经在市场上一些最新的高端电视、电视机顶盒、智能手机、平板电脑、路由器、网络附属存储和其他设备上使用。Tuxera
 NTFS目前适用于安卓和其他Linux平台、还有QNX、[WinCE](https://zh.wikipedia.org/wiki/WinCE "wikilink")
 Series 40、[Nucleus
-RTOS和](../Page/Nucleus_RTOS.md "wikilink")[VxWorks等](../Page/VxWorks.md "wikilink")。Tuxera同时也适用于许多构架，如[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink")、[MIPS](https://zh.wikipedia.org/wiki/MIPS "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")、[SuperH和](../Page/SuperH.md "wikilink")[x86等](../Page/x86.md "wikilink")。
+RTOS和](../Page/Nucleus_RTOS.md "wikilink")[VxWorks等](../Page/VxWorks.md "wikilink")。Tuxera同时也适用于许多构架，如[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink")、[MIPS](https://zh.wikipedia.org/wiki/MIPS "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")、[SuperH和](../Page/SuperH.md "wikilink")[x86等](https://zh.wikipedia.org/wiki/x86 "wikilink")。
 
 #### Tuxera exFAT
 
 Tuxera
-exFAT是Tuxera公司2009年与微软开始合作之后推出的世界上首个商用版本的[exFAT文件系统驱动](../Page/exFAT.md "wikilink")。和Tuxera
+exFAT是Tuxera公司2009年与微软开始合作之后推出的世界上首个商用版本的[exFAT文件系统驱动](https://zh.wikipedia.org/wiki/exFAT "wikilink")。和Tuxera
 NTFS一样，Tuxera exFAT也同样具备良好的性能和容错性。Tuxera
-exFAT目前已经在最新的[宝马和](https://zh.wikipedia.org/wiki/宝马 "wikilink")[奥迪轿车](../Page/奥迪.md "wikilink")，[华硕](https://zh.wikipedia.org/wiki/华硕 "wikilink")、[富士通](../Page/富士通.md "wikilink")、[松下](https://zh.wikipedia.org/wiki/松下 "wikilink")、[泛泰和其他著名品牌的旗舰安卓智能手机和平板电脑上使用](https://zh.wikipedia.org/wiki/泛泰 "wikilink")。
+exFAT目前已经在最新的[宝马和](https://zh.wikipedia.org/wiki/宝马 "wikilink")[奥迪轿车](../Page/奥迪.md "wikilink")，[华硕](https://zh.wikipedia.org/wiki/华硕 "wikilink")、[富士通](../Page/富士通.md "wikilink")、[松下](https://zh.wikipedia.org/wiki/松下 "wikilink")、[泛泰和其他著名品牌的旗舰安卓智能手机和平板电脑上使用](../Page/泛泰.md "wikilink")。
 
 #### Tuxera FAT
 
@@ -65,7 +65,7 @@ Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 ## 参见
 
   - [NTFS](../Page/NTFS.md "wikilink")
-  - [exFAT](../Page/exFAT.md "wikilink")
+  - [exFAT](https://zh.wikipedia.org/wiki/exFAT "wikilink")
   - [FAT](../Page/FAT.md "wikilink")
 
 ## 参考资料

@@ -12,15 +12,15 @@ WWE
 
 然而，WWE冠軍的起源是開始於旗下有各個促進聯盟的。1950年代，世界摔角娛樂的前身國會大廈摔角公司是國家摔角聯盟的促進聯盟，1963年，國會大廈摔角公司的高層掌握了國家摔角聯盟的控股和經營權。在此期間，巴迪·羅渣士是，直到1月24日[路·塞茲擊敗了巴迪](../Page/路·塞茲.md "wikilink")·羅渣士成為新任冠軍。
 
-對於結果的爭議，國會大廈摔角公司從國家摔角聯盟脫離，成立世界廣泛摔角聯盟。而世界廣泛摔角聯盟從原有的NWA世界重量級冠軍[分拆出來新的冠軍頭銜WWWF世界重量級冠軍](https://zh.wikipedia.org/wiki/衍生作品 "wikilink")，並經由在[里約熱內盧舉行與](https://zh.wikipedia.org/wiki/里約熱內盧 "wikilink")進行一個未經證實的比賽產生出首任冠軍巴迪·羅渣士。
+對於結果的爭議，國會大廈摔角公司從國家摔角聯盟脫離，成立世界廣泛摔角聯盟。而世界廣泛摔角聯盟從原有的NWA世界重量級冠軍[分拆出來新的冠軍頭銜WWWF世界重量級冠軍](../Page/衍生作品.md "wikilink")，並經由在[里約熱內盧舉行與](https://zh.wikipedia.org/wiki/里約熱內盧 "wikilink")進行一個未經證實的比賽產生出首任冠軍巴迪·羅渣士。
 
 1979年，世界廣泛摔角聯盟再次隸屬於國家摔角聯盟，而世界廣泛摔角聯盟也更名為世界摔角聯盟。1983年，世界摔角聯盟再次從國家摔角聯盟脫離，WWWF世界重量級冠軍也改稱為WWF世界重量級冠軍。1990年代後，WWF世界重量級冠軍改稱為WWF冠軍。
 
 ### 名聲起步
 
-[BrunoSeasonParade.jpg](https://zh.wikipedia.org/wiki/File:BrunoSeasonParade.jpg "fig:BrunoSeasonParade.jpg")[布魯諾·山瑪提諾衛冕了冠軍頭銜](https://zh.wikipedia.org/wiki/布魯諾·山瑪提諾 "wikilink")2,803天，為衛冕最長的歷史記錄。\]\]
+[BrunoSeasonParade.jpg](https://zh.wikipedia.org/wiki/File:BrunoSeasonParade.jpg "fig:BrunoSeasonParade.jpg")[布魯諾·山瑪提諾衛冕了冠軍頭銜](../Page/布魯諾·山瑪提諾.md "wikilink")2,803天，為衛冕最長的歷史記錄。\]\]
 
-1991年，國家摔角聯盟的促進聯盟[世界冠軍摔角創立了](https://zh.wikipedia.org/wiki/世界冠軍摔角 "wikilink")[WCW世界重量級冠軍](https://zh.wikipedia.org/wiki/WCW世界重量級冠軍 "wikilink")，做為補充國家摔角聯盟的冠軍項目。
+1991年，國家摔角聯盟的促進聯盟[世界冠軍摔角創立了](../Page/世界冠軍摔角.md "wikilink")[WCW世界重量級冠軍](https://zh.wikipedia.org/wiki/WCW世界重量級冠軍 "wikilink")，做為補充國家摔角聯盟的冠軍項目。
 
 而後，世界冠軍摔角從國家摔角聯盟脫離，晉身成為世界摔角聯盟的競爭對手。世界冠軍摔角與世界摔角聯盟皆發展成為主流並參與了[收視率的戰爭](https://zh.wikipedia.org/wiki/尼爾森收視系統 "wikilink")，也就是所謂的。在收視戰的尾聲，世界冠軍摔角的財政開始衰退，最終於2001年3月被世界摔角聯盟收購。\[3\]根據收購的內容，世界摔角聯盟擁有了世界冠軍摔角的媒體庫、人才合約、冠軍項目和其餘等資產。
 
@@ -39,7 +39,7 @@ H合併兩個冠軍](https://zh.wikipedia.org/wiki/Triple_H "wikilink")。\[5\]\
 持續衛冕四個月後，克里斯·傑利可在被Triple
 H擊敗，而[瑞克·福萊爾在摔角狂熱X](../Page/瑞克·福萊爾.md "wikilink")8後的WWE
 Raw上頒發給Triple H新款式的WWF冠軍腰帶，而Triple
-H在衛冕一個月後，在被[霍克·霍肯擊敗](https://zh.wikipedia.org/wiki/霍克·霍肯 "wikilink")。
+H在衛冕一個月後，在被[霍克·霍肯擊敗](../Page/霍克·霍肯.md "wikilink")。
 
 許多的改變就從這裡開始，像是[送葬者這類的摔角巨星被安排到在以WWE](../Page/送葬者_\(摔角手\).md "wikilink")
 Raw為主的電視節目出場，而WWE Raw和[WWE
@@ -49,7 +49,7 @@ SmackDown也安排了許多冠軍賽和掛名管理者](https://zh.wikipedia.org
 Raw和WWE
 SmackDown的[總經理後](https://zh.wikipedia.org/wiki/總經理 "wikilink")，史蒂芬妮·麥馬漢將WWE無可爭議的冠軍[布洛克·雷斯納納入SmackDown品牌](../Page/布洛克·雷斯納.md "wikilink")，使得Raw品牌沒有持有任何一個世界冠軍頭銜。\[9\]\[10\]
 
-9月2日，針對兩個品牌間冠軍頭銜的爭議後，艾瑞克·比紹夫宣布將從WWE無可爭議的冠軍，獨立出新的冠軍[世界重量級冠軍](https://zh.wikipedia.org/wiki/世界重量級冠軍_\(WWE\) "wikilink")。而後，WWE無可爭議的冠軍也改稱為WWE冠軍。
+9月2日，針對兩個品牌間冠軍頭銜的爭議後，艾瑞克·比紹夫宣布將從WWE無可爭議的冠軍，獨立出新的冠軍[世界重量級冠軍](../Page/世界重量級冠軍_\(WWE\).md "wikilink")。而後，WWE無可爭議的冠軍也改稱為WWE冠軍。
 
 ### 品牌指定
 
@@ -68,7 +68,7 @@ SmackDown，他們兩個將會經營這兩個品牌。瑞克·福萊爾和文斯
 Punk在故事情節裡表示要於](../Page/CM_Punk.md "wikilink")7月17日也是他的合約到期日將帶著WWE冠軍離開世界摔角娛樂。在公事包大戰中，CM
 Punk成功擊敗了衛冕的約翰·希納，並帶走了WWE冠軍腰帶實體。而文斯·麥馬漢在隔一天的WWE
 Raw宣布WWE冠軍將空缺之後，7月25日，[雷·密斯特里歐在WWE](../Page/雷·密斯特里歐.md "wikilink")
-Raw的八人混戰擊敗了[米茲](https://zh.wikipedia.org/wiki/米茲 "wikilink")，並成為WWE冠軍，但在當天晚上就被約翰·希納擊敗，而他的衛冕次數也達到了九次。而隨著約翰·希納的勝利，CM
+Raw的八人混戰擊敗了[米茲](../Page/米茲.md "wikilink")，並成為WWE冠軍，但在當天晚上就被約翰·希納擊敗，而他的衛冕次數也達到了九次。而隨著約翰·希納的勝利，CM
 Punk帶著自己的WWE冠軍腰帶回到了世界摔角娛樂，形成了同時有兩位WWE冠軍和兩條WWE冠軍腰帶的特殊情形。\[14\]隨後在，CM
 Punk擊敗了約翰·希納進而鞏固他聲稱的冠軍頭銜。
 
@@ -78,7 +78,7 @@ Punk擊敗了約翰·希納進而鞏固他聲稱的冠軍頭銜。
 
 [Randy_Orton_at_WM30.jpg](https://zh.wikipedia.org/wiki/File:Randy_Orton_at_WM30.jpg "fig:Randy_Orton_at_WM30.jpg")與WWE世界重量級冠軍腰帶於[摔角狂熱XXX](https://zh.wikipedia.org/wiki/摔角狂熱XXX "wikilink")\]\]
 
-2013年12月15日，舉行了WWE冠軍和[世界重量級冠軍的TLC賽制WWE冠軍與世界重量級冠軍冠軍戰](https://zh.wikipedia.org/wiki/世界重量級冠軍_\(WWE\) "wikilink")，賽事結果由時任WWE冠軍的[蘭迪·歐頓擊敗了時任世界重量級冠軍的](../Page/蘭迪·歐頓.md "wikilink")​約翰·希納。
+2013年12月15日，舉行了WWE冠軍和[世界重量級冠軍的TLC賽制WWE冠軍與世界重量級冠軍冠軍戰](../Page/世界重量級冠軍_\(WWE\).md "wikilink")，賽事結果由時任WWE冠軍的[蘭迪·歐頓擊敗了時任世界重量級冠軍的](../Page/蘭迪·歐頓.md "wikilink")​約翰·希納。
 
 2013年12月16日，WWE冠軍與世界重量級冠軍合併，改稱為WWE世界重量級冠軍，改制後首任冠軍是[蘭迪·歐頓](../Page/蘭迪·歐頓.md "wikilink")。\[15\]</ref>合併後的WWE世界重量級冠軍視為是WWE冠軍的延續，而世界重量級冠軍的實體腰帶將隸屬WWE世界重量級冠軍繼續保留，至於冠軍項目則將退役。\[16\]
 
@@ -90,8 +90,7 @@ Superstar"微調式腰帶\]\]
 
 WWE世界重量級冠軍腰帶對於特定的人物有不同的特殊設計款出現：
 
-  - [終極戰士](https://zh.wikipedia.org/wiki/終極戰士_\(摔角手\) "wikilink") -
-    白色、藍色和紫色皮革腰帶
+  - [終極戰士](../Page/終極戰士_\(摔角手\).md "wikilink") - 白色、藍色和紫色皮革腰帶
   - [冷石·史蒂夫·奧斯汀](../Page/冷石·史蒂夫·奧斯汀.md "wikilink") - 吸菸骷髏腰帶
   - [Edge](../Page/Edge_\(摔角手\).md "wikilink") - 限制級巨星微調式腰帶
 
@@ -104,9 +103,9 @@ Raw」側板被換成了「WWE
 Champion」側板。此外，微調式腰帶還有一個特點，那就是腰帶的[白銀末端](../Page/銀.md "wikilink")。
 
 2013年2月18日，巨石強森在[WWE
-Raw發表了新的WWE冠軍腰帶](https://zh.wikipedia.org/wiki/WWE_Raw "wikilink")（新的腰帶部分是由[超炫美式機車的](../Page/超炫美式機車.md "wikilink")所設計）。\[20\]新的腰帶是以黑色皮革為底鑲上鑽石的世界摔角娛樂標誌，正下方有冠軍的英文單字（CHAMPION），這一代的WWE冠軍腰帶的特點是沒有像往常一樣的選手名牌，而是改成可上選手鑲上個人特色徽章的側板。\[21\]\[22\]\[23\]
+Raw發表了新的WWE冠軍腰帶](../Page/WWE_Raw.md "wikilink")（新的腰帶部分是由[超炫美式機車的](../Page/超炫美式機車.md "wikilink")所設計）。\[20\]新的腰帶是以黑色皮革為底鑲上鑽石的世界摔角娛樂標誌，正下方有冠軍的英文單字（CHAMPION），這一代的WWE冠軍腰帶的特點是沒有像往常一樣的選手名牌，而是改成可上選手鑲上個人特色徽章的側板。\[21\]\[22\]\[23\]
 
-金塊腰帶，曾用於[WCW冠軍](https://zh.wikipedia.org/wiki/WCW冠軍 "wikilink")、[世界重量級冠軍](https://zh.wikipedia.org/wiki/世界重量級冠軍_\(WWE\) "wikilink")、其他冠軍及克里斯·傑利可和Triple
+金塊腰帶，曾用於[WCW冠軍](https://zh.wikipedia.org/wiki/WCW冠軍 "wikilink")、[世界重量級冠軍](../Page/世界重量級冠軍_\(WWE\).md "wikilink")、其他冠軍及克里斯·傑利可和Triple
 H的無可爭議冠軍。\[24\]而繼2013年WWE冠軍與世界重量級冠軍合併後，金塊腰帶與WWE冠軍腰帶共同代表WWE世界重量級冠軍。\[25\]
 \[26\]
 

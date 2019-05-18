@@ -11,7 +11,7 @@ bromide)，是一種用於測量[細胞的](https://zh.wikipedia.org/wiki/細胞
 
 ## 相關探討
 
-與**MTT試驗**相似的**XTT試驗**，其原理、步驟大致相同，都是利用[粒線體內部](https://zh.wikipedia.org/wiki/粒線體 "wikilink")[酶的活性](../Page/酶.md "wikilink")，將特定的[四唑鹽類進行轉化](https://zh.wikipedia.org/wiki/四唑 "wikilink")，再測量其[吸光度](https://zh.wikipedia.org/wiki/吸光度 "wikilink")，用以得知細胞增殖的方法。
+與**MTT試驗**相似的**XTT試驗**，其原理、步驟大致相同，都是利用[粒線體內部](https://zh.wikipedia.org/wiki/粒線體 "wikilink")[酶的活性](../Page/酶.md "wikilink")，將特定的[四唑鹽類進行轉化](../Page/四唑.md "wikilink")，再測量其[吸光度](https://zh.wikipedia.org/wiki/吸光度 "wikilink")，用以得知細胞增殖的方法。
 
 然而**XTT**的產物為[水溶性](https://zh.wikipedia.org/wiki/水溶性 "wikilink")，且靈敏度較好。\[3\]
 

@@ -80,7 +80,7 @@ SRCL-8153（C type）</p></td>
 | B-Bird  | OVA《[機動戰士GUNDAM UC](../Page/機動戰士GUNDAM_UC.md "wikilink") episode 4 “在重力井底”》主題歌                                                                          |
 | ARCADIA | [PS Vita用遊戲軟件](../Page/PlayStation_Vita.md "wikilink")《[Fate/stay night \[Réalta Nua](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")\]》開場主題曲 |
 | ENERGY  | [日本電視動畫](../Page/日本電視動畫.md "wikilink")《[Vividred Operation](../Page/Vividred_Operation.md "wikilink")》片頭曲                                               |
-| イノセント   | 日本電視動畫《[伽利略少女](https://zh.wikipedia.org/wiki/伽利略少女 "wikilink")》片尾曲                                                                                      |
+| イノセント   | 日本電視動畫《[伽利略少女](../Page/伽利略少女.md "wikilink")》片尾曲                                                                                                         |
 
 ## 參考資料
 

@@ -1,4 +1,4 @@
-**霍普金斯號驅逐艦（[舷號DD](https://zh.wikipedia.org/wiki/美國海軍艦體編號 "wikilink")-6）**是一艘隸屬於[美國海軍的](../Page/美國海軍.md "wikilink")[驅逐艦](https://zh.wikipedia.org/wiki/驅逐艦 "wikilink")，為[班布里奇級驅逐艦的六號艦](https://zh.wikipedia.org/wiki/班布里奇級驅逐艦 "wikilink")。她是美軍第一艘以霍普金斯為名的軍艦，以紀念[美國獨立戰爭時期的](../Page/美國獨立戰爭.md "wikilink")[私掠准將](../Page/私掠.md "wikilink")[伊薩克·霍普金斯](https://zh.wikipedia.org/wiki/伊薩克·霍普金斯 "wikilink")（Esek
+**霍普金斯號驅逐艦（[舷號DD](https://zh.wikipedia.org/wiki/美國海軍艦體編號 "wikilink")-6）**是一艘隸屬於[美國海軍的](../Page/美國海軍.md "wikilink")[驅逐艦](https://zh.wikipedia.org/wiki/驅逐艦 "wikilink")，為[班布里奇級驅逐艦的六號艦](../Page/班布里奇級驅逐艦.md "wikilink")。她是美軍第一艘以霍普金斯為名的軍艦，以紀念[美國獨立戰爭時期的](../Page/美國獨立戰爭.md "wikilink")[私掠准將](../Page/私掠.md "wikilink")[伊薩克·霍普金斯](https://zh.wikipedia.org/wiki/伊薩克·霍普金斯 "wikilink")（Esek
 Hopkins）。
 
 霍普金斯號在1899年於[夏蘭·荷令斯威鋼鐵廠](https://zh.wikipedia.org/wiki/夏蘭·荷令斯威鋼鐵廠 "wikilink")（Harlan

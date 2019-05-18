@@ -8,7 +8,7 @@ thatgamecompany的第一部作品是陈星汉学生时期的获奖作品——Fl
 
 ## 公司历史
 
-2005年秋，[凯莉·圣迪亚戈和](../Page/凯莉·圣迪亚戈.md "wikilink")[陈星汉开始考虑自己创业的可能](../Page/陈星汉.md "wikilink")，他们想创立一间自己的电子游戏公司。他们两位当时是[南加州大学电影艺术学院的互动媒体系的硕士生](https://zh.wikipedia.org/wiki/南加州大学电影艺术学院 "wikilink")，并且在他们的毕业季；在此不久之前，他们与其他几位同学一起开发的一款名为《[云](../Page/云_\(游戏\).md "wikilink")》（Cloud）的电子游戏刚刚发布。\[1\]
+2005年秋，[凯莉·圣迪亚戈和](../Page/凯莉·圣迪亚戈.md "wikilink")[陈星汉开始考虑自己创业的可能](../Page/陈星汉.md "wikilink")，他们想创立一间自己的电子游戏公司。他们两位当时是[南加州大学电影艺术学院的互动媒体系的硕士生](../Page/南加州大学电影艺术学院.md "wikilink")，并且在他们的毕业季；在此不久之前，他们与其他几位同学一起开发的一款名为《[云](../Page/云_\(游戏\).md "wikilink")》（Cloud）的电子游戏刚刚发布。\[1\]
 这个开发小组将这个开放项目作为一个实验项目，他们希望通过该项目来达到“展现一些跟以往那些电子游戏不同的东西”，并且以此来确认这种类型游戏被受到公众关注和感兴趣的程度。\[2\]
 随着《云》获得了相当正面回馈，这促使陈星汉和凯莉·圣迪亚戈开始考虑在离开学校后创立自己的公司，以继续制作这种类似《云》的电子游戏：不基于游戏流水线作业制作，却能激发出玩家们的感情与情绪。\[3\]
 
@@ -40,7 +40,7 @@ International Game Summit）上曾透露该信息。\[19\]
 《花》的开发周期为2年，不过其中30-40%的时间是被团队用来进行游戏原型设定。之后在决定了游戏要用到的要素后，开发团队又花费了半年左右的时间最终完成了《花》。\[22\]
 《花》在2009年2月在PlayStation
 Network网络商店上架后，继承了《流》的优秀口碑、好评如潮，并且进入了该年度的PSN下载销量榜前十名；《花》也获得了若干奖项，有代表性的例如：2009年度美国互动艺术与科学学会颁发的“年度休闲游戏”、2009年斯派克电子游戏盛典所颁发的“‘[激浪动力](../Page/激浪.md "wikilink")’最佳独立游戏”、英国电影和电视艺术奖的“艺术成就奖”等。\[23\]\[24\]
-在完成《花》的开发后，thatgamecompany终于也搬进了他们在西洛杉矶圣莫妮卡自己的办公室，毗邻索尼北美的王牌工作室[顽皮狗](https://zh.wikipedia.org/wiki/顽皮狗 "wikilink")。\[25\]
+在完成《花》的开发后，thatgamecompany终于也搬进了他们在西洛杉矶圣莫妮卡自己的办公室，毗邻索尼北美的王牌工作室[顽皮狗](../Page/顽皮狗.md "wikilink")。\[25\]
 
 thatgamecompany最新的作品也是它与索尼合约中最后一款作品是《[旅途](https://zh.wikipedia.org/wiki/旅途 "wikilink")》，该作已于2012年3月在PlayStation
 Network网络商店上架。《旅途》的开发团队规模扩展到14个人左右，不过凯莉并不在开发人员之列；\[26\]
@@ -50,7 +50,7 @@ Network网络商店上架。《旅途》的开发团队规模扩展到14个人�
 Network网络商店上架后，它一举打破之前PSN的销售记录，成为迄今北美和欧洲地区下载销售速度最快的游戏。\[31\]
 不仅如此，《旅途》也继续thatgamecompany的优秀品质，获得了相当高的游戏评价。它从2012年到2013年获奖无数，像2012年IGN年度游戏等。
 
-在完成与索尼签订的三款游戏的合约后，thatgamecompany也翻到了新的一页。团队中几位成员也离开thatgamecompany去寻找其他的机遇挑战：作为公司联合创始人之一的凯莉·圣迪亚戈离开并进入[OUYA负责开发者管理](../Page/OUYA.md "wikilink")；游戏设计师克里斯·贝尔离开后建立了自己的工作室The
+在完成与索尼签订的三款游戏的合约后，thatgamecompany也翻到了新的一页。团队中几位成员也离开thatgamecompany去寻找其他的机遇挑战：作为公司联合创始人之一的凯莉·圣迪亚戈离开并进入[OUYA负责开发者管理](https://zh.wikipedia.org/wiki/OUYA "wikilink")；游戏设计师克里斯·贝尔离开后建立了自己的工作室The
 Willderness；《旅途》的制作人罗宾·汉妮卡辞职并加入游戏公司[Tiny
 Speck制作MMORPG](https://zh.wikipedia.org/wiki/Tiny_Speck "wikilink")；美术指导马特·纳瓦（Matt
 Nava）与首席设计师尼克·克拉克和作曲[奥斯丁·温特里三人创建了他们自己的游戏工作室GiantSquid](../Page/奥斯丁·温特里.md "wikilink")。\[32\]\[33\]\[34\]\[35\]
@@ -93,7 +93,7 @@ thatgamecompany的员工们并不反感动作游戏。在他们制作自己的�
 <td><p><a href="../Page/流_(遊戲).md" title="wikilink">流</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/益智游戏" title="wikilink">益智</a></p></td>
 <td><p><a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a>、<a href="../Page/PlayStation_Vita.md" title="wikilink">PlayStation Vita</a></p></td>
+<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="../Page/PlayStation_Vita.md" title="wikilink">PlayStation Vita</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/索尼电脑娱乐" title="wikilink">索尼电脑娱乐</a></p></td>
 <td><p>PSP、PSV及PS4版本由SuperVillain Studios负责移植开发</p></td>
 </tr>
@@ -101,7 +101,7 @@ thatgamecompany的员工们并不反感动作游戏。在他们制作自己的�
 <td><p>2009</p></td>
 <td><p><a href="../Page/花_(游戏).md" title="wikilink">花</a></p></td>
 <td><p><a href="../Page/冒险游戏.md" title="wikilink">冒险</a></p></td>
-<td><p>PlayStation 3、<a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a>、<br />
+<td><p>PlayStation 3、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<br />
 <a href="../Page/PlayStation_Vita.md" title="wikilink">PlayStation Vita</a></p></td>
 <td><p>索尼电脑娱乐</p></td>
 <td><p>PSV及PS4版本由<a href="../Page/蓝点游戏工作室.md" title="wikilink">Bluepoint Games负责移植开发</a></p></td>
@@ -116,9 +116,9 @@ thatgamecompany的员工们并不反感动作游戏。在他们制作自己的�
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/光遇" title="wikilink">光遇</a></p></td>
+<td><p><a href="../Page/光遇.md" title="wikilink">光遇</a></p></td>
 <td><p>冒险</p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a>、<a href="../Page/Apple_TV.md" title="wikilink">Apple TV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a>、<a href="../Page/Apple_TV.md" title="wikilink">Apple TV</a></p></td>
 <td><p>Thatgamecompany</p></td>
 <td><p>中国大陆地区由<a href="../Page/网易.md" title="wikilink">网易代理</a></p></td>
 </tr>

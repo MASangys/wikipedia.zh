@@ -16,7 +16,7 @@
 6.  [A Song for ××](../Page/A_Song_for_××.md "wikilink")
 7.  [No way to say](../Page/No_way_to_say.md "wikilink")
 8.  [Free & Easy](../Page/Free_&_Easy.md "wikilink")
-9.  [evolution](../Page/evolution_\(濱崎步單曲\).md "wikilink")
+9.  [evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")
 10. [flower garden](../Page/I_am....md "wikilink")
 11. [until that Day...](../Page/Secret_\(濱崎步專輯\).md "wikilink")
 12. [AUDIENCE](../Page/AUDIENCE.md "wikilink")

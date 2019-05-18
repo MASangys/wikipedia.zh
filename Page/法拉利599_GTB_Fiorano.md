@@ -1,6 +1,6 @@
 **法拉利599 GTB
 Fiorano**是[法拉利于](https://zh.wikipedia.org/wiki/法拉利汽车 "wikilink")2006年推出的[GT](../Page/豪華旅行車.md "wikilink")[跑车](../Page/跑车.md "wikilink")，用于取代[法拉利575M跑车](../Page/法拉利575M.md "wikilink")。2013年被[法拉利F12
-Berlinetta所取代](https://zh.wikipedia.org/wiki/法拉利F12_Berlinetta "wikilink")。
+Berlinetta所取代](../Page/法拉利F12_Berlinetta.md "wikilink")。
 
 599
 GTB首次展出是在2006年的[日内瓦车展](https://zh.wikipedia.org/wiki/日内瓦车展 "wikilink")。“599”得名于其引擎排量，5999cc。

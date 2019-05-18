@@ -3,7 +3,7 @@ K，屬於[G型恆星](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")。
 
 ## 行星系統
 
-該恆星已知有一顆[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")，即[WASP-8b](https://zh.wikipedia.org/wiki/WASP-8b "wikilink")。是由
+該恆星已知有一顆[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")，即[WASP-8b](../Page/WASP-8b.md "wikilink")。是由
 [SuperWASP](https://zh.wikipedia.org/wiki/SuperWASP "wikilink")
 計畫以[凌日法發現](../Page/凌_\(天體\).md "wikilink")\[2\]
 

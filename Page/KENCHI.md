@@ -2,7 +2,7 @@
 THE SECOND表演者](../Page/EXILE_THE_SECOND.md "wikilink")。原[J Soul
 Brothers](../Page/J_Soul_Brothers.md "wikilink")。
 
-[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市出生](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")\[1\]，於[橫須賀市成長](../Page/橫須賀市.md "wikilink")。所屬事務所為[LDH](https://zh.wikipedia.org/wiki/LDH_\(藝能事務所\) "wikilink")。
+[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市出生](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")\[1\]，於[橫須賀市成長](../Page/橫須賀市.md "wikilink")。所屬事務所為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")。
 
 ## 來歷
 
@@ -98,7 +98,7 @@ EXILE](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")」的成�
   - （[日本電視台](../Page/日本電視台.md "wikilink")、2011年10月 - 12月）飾演 マリオ
 
   - [STAR MAN
-    這顆星上的戀愛](https://zh.wikipedia.org/wiki/STAR_MAN_這顆星上的戀愛 "wikilink")（[關西電視台](../Page/關西電視台.md "wikilink")、2013年7月
+    這顆星上的戀愛](../Page/STAR_MAN_這顆星上的戀愛.md "wikilink")（[關西電視台](../Page/關西電視台.md "wikilink")、2013年7月
     - 9月）飾演 佐竹幸平
 
   - [僕らはみんな死んでいる♪](https://zh.wikipedia.org/wiki/僕らはみんな死んでいる♪ "wikilink")（2014年7月

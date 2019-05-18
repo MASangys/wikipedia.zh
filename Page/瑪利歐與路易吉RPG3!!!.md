@@ -1,9 +1,9 @@
-是一個於2009年由[AlphaDream開發並由](https://zh.wikipedia.org/wiki/AlphaDream "wikilink")[任天堂發佈的](../Page/任天堂.md "wikilink")[角色扮演電子遊戲](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")，其平台為[任天堂DS](../Page/任天堂DS.md "wikilink")。它是[瑪利歐與路易RPG遊戲系列的第三個遊戲](https://zh.wikipedia.org/wiki/瑪利歐與路易RPG系列 "wikilink")，緊接系列的前兩個遊戲《[马里奥与路易RPG](https://zh.wikipedia.org/wiki/马里奥与路易RPG "wikilink")》及《[瑪利歐與路易吉RPG2](../Page/瑪利歐與路易吉RPG2.md "wikilink")》。2019年，本遊戲在3DS平台推出重製版。
+是一個於2009年由[AlphaDream開發並由](../Page/AlphaDream.md "wikilink")[任天堂發佈的](../Page/任天堂.md "wikilink")[角色扮演電子遊戲](../Page/電子角色扮演遊戲.md "wikilink")，其平台為[任天堂DS](../Page/任天堂DS.md "wikilink")。它是[瑪利歐與路易RPG遊戲系列的第三個遊戲](https://zh.wikipedia.org/wiki/瑪利歐與路易RPG系列 "wikilink")，緊接系列的前兩個遊戲《[马里奥与路易RPG](https://zh.wikipedia.org/wiki/马里奥与路易RPG "wikilink")》及《[瑪利歐與路易吉RPG2](../Page/瑪利歐與路易吉RPG2.md "wikilink")》。2019年，本遊戲在3DS平台推出重製版。
 
 此遊戲以[瑪利歐和](https://zh.wikipedia.org/wiki/瑪利歐_\(角色\) "wikilink")[路易被縮小並吸進他們敵人](https://zh.wikipedia.org/wiki/路易吉_\(遊戲角色\) "wikilink")[庫巴的身體內開始](https://zh.wikipedia.org/wiki/庫巴 "wikilink")。而後瑪利歐兄弟便因要面對共同敵人而嘗試協助尚未知道體內有瑪利歐兄弟的庫巴去擊敗佔領了庫巴城堡和桃子城堡的奸角盖拉柯比茲\[1\]（,
 ）。這個遊戲的重點在於3人合作，並發揮各自的特技去解決難關及打敗敵人。此遊戲亦是瑪利歐與路易RPG遊戲系列中首個玩家能夠操控[庫巴的遊戲](https://zh.wikipedia.org/wiki/庫巴 "wikilink")。
 
-《瑪利歐與路易RPG3\!\!\!》於2008年10月2日的[東京新聞發布會中首次亮相](https://zh.wikipedia.org/wiki/東京 "wikilink")。\[2\]而其英語版本則於2009初在[E3中發佈](https://zh.wikipedia.org/wiki/E3 "wikilink")。\[3\]這個遊戲非常成功，並分別於[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[MetaCritic中分別獲得](../Page/MetaCritic.md "wikilink")91%\[4\]和90分的分數。\[5\]截至2011年4月，此遊戲亦售出了約413萬份遊戲。\[6\]
+《瑪利歐與路易RPG3\!\!\!》於2008年10月2日的[東京新聞發布會中首次亮相](https://zh.wikipedia.org/wiki/東京 "wikilink")。\[2\]而其英語版本則於2009初在[E3中發佈](https://zh.wikipedia.org/wiki/E3 "wikilink")。\[3\]這個遊戲非常成功，並分別於[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[MetaCritic中分別獲得](https://zh.wikipedia.org/wiki/MetaCritic "wikilink")91%\[4\]和90分的分數。\[5\]截至2011年4月，此遊戲亦售出了約413萬份遊戲。\[6\]
 
 ## 故事
 
@@ -29,7 +29,7 @@ and Luigi: Bowser's Inside Story」，而遊戲亦會於2009年秋季在北美�
 《任天堂官方雜誌》給予此遊戲的分數為92%，並指出「《瑪利歐與路易RPG3\!\!\!》是在DS史上最新鮮的、最重要的RPG遊戲」。[GameSpot則給予此遊戲一個](../Page/GameSpot.md "wikilink")9.0的分數，授予授予編輯推薦獎，並稱讚其情節和故事。\[12\]
 電視節目《[X-Play](https://zh.wikipedia.org/wiki/X-Play "wikilink")》的布萊爾·赫脫給予此遊戲滿分，並高度讚揚其故事情節。\[13\]
 [Giant
-Bomb的布拉德](https://zh.wikipedia.org/wiki/Giant_Bomb "wikilink")·休梅克亦給予此遊戲滿分，之後更給它冠上「2009年最佳DS遊戲」的稱號。\[14\]\[15\]
+Bomb的布拉德](../Page/Giant_Bomb.md "wikilink")·休梅克亦給予此遊戲滿分，之後更給它冠上「2009年最佳DS遊戲」的稱號。\[14\]\[15\]
 
 《瑪利歐與路易RPG3\!\!\!》在發佈後一周內售出了193,000份遊戲，並成為了當時日本最暢銷的遊戲。\[16\]於2009年的上半年中，此遊戲在日本總共售出了650,000份遊戲，並於整個2009年中售出了717,940份遊戲，成為2009年日本第11暢銷的電子遊戲。\[17\]\[18\]
 根據[NPD集團的數據顯示](https://zh.wikipedia.org/wiki/NPD集團 "wikilink")，《瑪利歐與路易RPG3\!\!\!》在美國發佈後一個月內售出了258,100份遊戲，使之成為該月份第四暢銷的電子遊戲。\[19\]截至2009年12月，此遊戲在美國售出了656,700份遊戲。\[20\]\[21\]\[22\]

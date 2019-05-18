@@ -11,7 +11,7 @@ ENIX出版](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")，并于2011�
 ONLINE连载漫画](../Page/GANGAN_ONLINE.md "wikilink")《[浅尾同学和倉田君](https://zh.wikipedia.org/wiki/浅尾同学和倉田君 "wikilink")》。另外HERO还在四格漫画杂志《漫画Time
 Lovely》不定期登载《》。
 
-2010年，HERO在[pixiv网站上发表了以](../Page/pixiv.md "wikilink")[Twitter为舞台的漫画](../Page/Twitter.md "wikilink")《7和撒谎Online》，作为Twitter漫画引发了外界关注。HERO将在pixiv发表的短篇漫画收入《7和撒谎Online
+2010年，HERO在[pixiv网站上发表了以](https://zh.wikipedia.org/wiki/pixiv "wikilink")[Twitter为舞台的漫画](../Page/Twitter.md "wikilink")《7和撒谎Online》，作为Twitter漫画引发了外界关注。HERO将在pixiv发表的短篇漫画收入《7和撒谎Online
 -HERO个人作品集》刊行。
 
 作画时使用的软件是[Photoshop](https://zh.wikipedia.org/wiki/Photoshop "wikilink")、[SAI](https://zh.wikipedia.org/wiki/SAI "wikilink")。

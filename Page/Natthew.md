@@ -1,8 +1,7 @@
 {{ 藝人 | 姓名 = Natthew | 類型 = 男歌手 | 圖片 = NATTHEW by Fanclub.jpg | 圖片簡介 = |
 圖片尺寸 = | 外文名 = | 外文 = | 英文名 = Natthew | 國籍 =  | 出生日期 =  | 職業 = 歌手、模特、演員
 | 活躍年代 = 2008年至今 | 出道日期 = 2012年11月12日（韓國） | 代表作 = | 唱片公司 =  CJ E\&M |
-經紀公司 = [CJ E\&M](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink")
-| 網站 = }}
+經紀公司 = [CJ E\&M](../Page/CJ_E&M.md "wikilink") | 網站 = }}
 
 **Natthew**（，，），本名 **Nat Thewphaingam**（），是当地选秀节目《Academy
 Fantasia》的获胜者，在泰国以演员，模特，歌手的身份活动。于2012年11月12日发行韩语单曲《She's
@@ -79,7 +78,7 @@ Bad》。
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p><strong>1st</strong></p></td>
-<td style="text-align: left;"><p>《<strong><a href="https://zh.wikipedia.org/wiki/Nine：九回時間旅行" title="wikilink">Nine：九回時間旅行</a> OST Part 3</strong>》</p>
+<td style="text-align: left;"><p>《<strong><a href="../Page/Nine：九回時間旅行.md" title="wikilink">Nine：九回時間旅行</a> OST Part 3</strong>》</p>
 <ul>
 <li>發行日期：2013年4月1日</li>
 </ul></td>
@@ -90,9 +89,9 @@ Bad》。
 
 ## 影視作品
 
-  - 2013年：Mnet《[Monstar](../Page/Monstar.md "wikilink")》飾演 Nawin
-    Thammarat
-  - 2018年泰國one 31《[情鎖靈怨](https://zh.wikipedia.org/wiki/情鎖靈怨 "wikilink")》
+  - 2013年：Mnet《[Monstar](https://zh.wikipedia.org/wiki/Monstar "wikilink")》飾演
+    Nawin Thammarat
+  - 2018年泰國one 31《[情鎖靈怨](../Page/情鎖靈怨.md "wikilink")》
 
 ## 演唱會
 

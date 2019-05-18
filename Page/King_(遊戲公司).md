@@ -31,8 +31,7 @@ Holding，，是一間休閒社交遊戲公司，主要於[Facebook開發應用�
     Panic Saga*，已停止營運）
   - [鑽石礦工傳說](https://zh.wikipedia.org/wiki/鑽石礦工傳說 "wikilink")（*Diamond
     Digger Saga*）
-  - [農場英雄傳奇](https://zh.wikipedia.org/wiki/農場英雄傳奇 "wikilink")（*Farm
-    Heroes Saga*）
+  - [農場英雄傳奇](../Page/農場英雄傳奇.md "wikilink")（*Farm Heroes Saga*）
   - [農場超級傳奇](https://zh.wikipedia.org/wiki/農場超級傳奇 "wikilink")（*Farm
     Heroes Super Saga*）
   - [糖果汽水傳奇](https://zh.wikipedia.org/wiki/糖果汽水傳奇 "wikilink")（*Candy

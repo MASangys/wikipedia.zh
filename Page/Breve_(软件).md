@@ -7,7 +7,7 @@ Breve模拟过程的代码是用一种叫做[steve的易用语言编写的](http
 
 Breve的一大特色在于其可扩展内嵌插件architecture，允许人们编写插件并使之与先前已有的代码和工程相互作用，而且具有对用于进化计算的[Push语言的内部支持](https://zh.wikipedia.org/wiki/Push语言 "wikilink")。
 
-现已编写出在Breve中用于生成[MIDI音乐和下载网页的插件](../Page/MIDI.md "wikilink")，且可通过[Lisp环境交互](../Page/Lisp.md "wikilink")。
+现已编写出在Breve中用于生成[MIDI音乐和下载网页的插件](../Page/MIDI.md "wikilink")，且可通过[Lisp环境交互](https://zh.wikipedia.org/wiki/Lisp "wikilink")。
 
 <File:Braitenberg> vehicle (simulation made with
 breve).jpg|一个[Braitenberg的模拟示例](https://zh.wikipedia.org/wiki/Braitenberg_Vehicles "wikilink").

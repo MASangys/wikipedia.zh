@@ -112,7 +112,7 @@ Struck就會發動，一定移動數目內糖果就會減少一色。
 
 中文譯名「**糖果蘇打傳奇**」，於2014年10月20日推出，其遊戲規則除少數改動外，和《Candy Crush
 Saga》非常雷同。該遊戲內建於「[Windows 10
-1511版](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")」作業系統中。游戏具有同步功能，用戶的遊戲進度可於[Android和](../Page/Android.md "wikilink")[iOS和](../Page/iOS.md "wikilink")[Windows
+1511版](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")」作業系統中。游戏具有同步功能，用戶的遊戲進度可於[Android和](../Page/Android.md "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows
 10和](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Windows
 Phone平台上切換](../Page/Windows_Phone.md "wikilink")。
 
@@ -122,7 +122,7 @@ Phone平台上切換](../Page/Windows_Phone.md "wikilink")。
 
 《Candy Crush Jelly Saga》（翻譯為「糖果果凍傳奇」），由英國網絡遊戲公司King開發，為寶石方塊類遊戲《**Candy
 Crush Saga**》及《[Candy Crush Soda
-Saga](../Page/Candy_Crush_Soda_Saga.md "wikilink")》的續作，於2016年1月6日推出。遊戲具有同步功能，用戶的遊戲進度可於[Android和](../Page/Android.md "wikilink")[iOS和](../Page/iOS.md "wikilink")[Windows
+Saga](../Page/Candy_Crush_Soda_Saga.md "wikilink")》的續作，於2016年1月6日推出。遊戲具有同步功能，用戶的遊戲進度可於[Android和](../Page/Android.md "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows
 10和](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Windows
 Phone平台上切換](../Page/Windows_Phone.md "wikilink")。
 
@@ -131,8 +131,7 @@ Saga》基本玩法而來。與以往不同的是，本作加入了Boss型關卡
 
 ## 流行文化
 
-  - 《[表情符號電影](https://zh.wikipedia.org/wiki/表情符號電影 "wikilink")》：部分場景發生在Candy
-    Crush內。
+  - 《[表情符號電影](../Page/表情符號電影.md "wikilink")》：部分場景發生在Candy Crush內。
 
 ## 参考資料
 

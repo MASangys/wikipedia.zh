@@ -8,7 +8,7 @@
 ## 曲目
 
 1.  [WHATEVER](../Page/WHATEVER.md "wikilink")
-2.  [immature](../Page/appears.md "wikilink")
+2.  [immature](https://zh.wikipedia.org/wiki/appears "wikilink")
 3.  [Fly high](../Page/Fly_high.md "wikilink")
 4.  [Duty](../Page/Duty.md "wikilink")
 5.  [M](../Page/M_\(濱崎步單曲\).md "wikilink")

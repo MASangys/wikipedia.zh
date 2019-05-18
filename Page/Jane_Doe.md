@@ -42,7 +42,7 @@ Birthday Party」抽選。
         （作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲：早川暁雄、編曲：[野中“まさ”雄一](https://zh.wikipedia.org/wiki/野中“まさ”雄一 "wikilink")）
 2.  **破れた羽根** \[4:01\]
       -
-        （作詞：秋元康、作曲：[河原嶺旭](https://zh.wikipedia.org/wiki/河原嶺旭 "wikilink")、編曲：佐々木裕）
+        （作詞：秋元康、作曲：[河原嶺旭](../Page/河原嶺旭.md "wikilink")、編曲：佐々木裕）
 3.  **錆びたロック** \[3:57\]
       -
         （作詞：秋元康、作曲：すみだしんや、編曲：野中“まさ”雄一）

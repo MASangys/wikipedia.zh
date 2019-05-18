@@ -2,7 +2,7 @@
 
 ## 解說
 
-  - 加入了新成員主唱[TAKAHIRO及表演者的](../Page/TAKAHIRO.md "wikilink")[AKIRA的EXILE第二章第三張的單曲](../Page/AKIRA.md "wikilink")。是其第5張專輯《[EXILE
+  - 加入了新成員主唱[TAKAHIRO及表演者的](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")[AKIRA的EXILE第二章第三張的單曲](../Page/AKIRA.md "wikilink")。是其第5張專輯《[EXILE
     EVOLUTION](../Page/EXILE_EVOLUTION.md "wikilink")》的先行發行單曲。
   - 有「CD+DVD」及「CD ONLY」2種形態。2種形態也是完全限定生產發售，封面也不相同並且以紙盒包裝。
   - 以「畢業=出發」為主題的抒情歌歌曲，由除了原版本以外，還有收錄鋼琴版本及混聲三部分的合唱。

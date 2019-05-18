@@ -46,7 +46,7 @@
 </tr>
 <tr class="odd">
 <td><p>1st Japan Album<br />
-《<a href="https://zh.wikipedia.org/wiki/Jewelry_Box" title="wikilink">Jewelry Box</a>》</p></td>
+《<a href="../Page/Jewelry_Box.md" title="wikilink">Jewelry Box</a>》</p></td>
 <td><ul>
 <li>語言：日語</li>
 <li>發行日期：2012年6月6日</li>
@@ -64,7 +64,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd Japan Album<br />
-《<a href="https://zh.wikipedia.org/wiki/Treasure_Box" title="wikilink">Treasure Box</a>》</p></td>
+《<a href="../Page/Treasure_Box.md" title="wikilink">Treasure Box</a>》</p></td>
 <td><ul>
 <li>語言：日語</li>
 <li>發行日期：2013年8月7日</li>
@@ -82,7 +82,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd Japan Album<br />
-《<a href="https://zh.wikipedia.org/wiki/Gossip_Girls_(T-ARA专辑)" title="wikilink">Gossip Girls</a>》</p></td>
+《<a href="../Page/Gossip_Girls_(T-ARA专辑).md" title="wikilink">Gossip Girls</a>》</p></td>
 <td><ul>
 <li>語言：日語</li>
 <li>發行日期：2014年5月14日</li>
@@ -248,7 +248,7 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/And_&amp;_End" title="wikilink">EDM Club Sugar Free Edition</a>》</p></td>
+<td><p>《<a href="../Page/And_&amp;_End.md" title="wikilink">EDM Club Sugar Free Edition</a>》</p></td>
 <td><ul>
 <li>發行日期：2014年9月24日</li>
 <li>經紀公司：Core Contents Media</li>
@@ -308,7 +308,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>The 1st Mini Album</strong><br />
-《<a href="https://zh.wikipedia.org/wiki/Temptastic" title="wikilink">Temptastic</a>》</p></td>
+《<a href="../Page/Temptastic.md" title="wikilink">Temptastic</a>》</p></td>
 <td><ul>
 <li>發行日期：2010年12月1日</li>
 <li>經紀公司：Core Contents Media</li>
@@ -323,7 +323,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>The 2nd Mini Album</strong><br />
-《<a href="https://zh.wikipedia.org/wiki/John_Travolta_Wannabe" title="wikilink">John Travolta Wannabe</a>》</p></td>
+《<a href="../Page/John_Travolta_Wannabe.md" title="wikilink">John Travolta Wannabe</a>》</p></td>
 <td><ul>
 <li>發行日期：2011年6月30日</li>
 <li>經紀公司：Core Contents Media</li>
@@ -368,7 +368,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>The 8th Mini Album</strong><br />
-《<a href="https://zh.wikipedia.org/wiki/Again_(迷你專輯)" title="wikilink">Again</a>》</p></td>
+《<a href="../Page/Again_(迷你專輯).md" title="wikilink">Again</a>》</p></td>
 <td><ul>
 <li>數位發行日期：2013年10月10日</li>
 <li>CD發行日期：2013年10月16日</li>
@@ -385,7 +385,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>The 10th Mini Album</strong><br />
-《<a href="https://zh.wikipedia.org/wiki/And_&amp;_End" title="wikilink">And &amp; End</a>》</p></td>
+《<a href="../Page/And_&amp;_End.md" title="wikilink">And &amp; End</a>》</p></td>
 <td><ul>
 <li>發行日期：2014年9月11日</li>
 <li>經紀公司：Core Contents Media</li>
@@ -432,7 +432,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>The 13th Mini Album</strong><br />
-<strong>《<a href="https://zh.wikipedia.org/wiki/What&#39;s_my_name?_(迷你專輯)" title="wikilink">What's my name?</a>》</strong></p></td>
+<strong>《<a href="../Page/What&#39;s_my_name?_(迷你專輯).md" title="wikilink">What's my name?</a>》</strong></p></td>
 <td><ul>
 <li>發行日期：2017年6月14日</li>
 <li>CD發行日期：2017年6月14日</li>
@@ -617,7 +617,7 @@ RIAJ</a></p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Bo_Peep_Bo_Peep" title="wikilink">Bo Peep Bo Peep</a></p></td>
+<td><p><a href="../Page/Bo_Peep_Bo_Peep.md" title="wikilink">Bo Peep Bo Peep</a></p></td>
 <td><p>2</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -645,21 +645,21 @@ RIAJ</a></p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/為什麼這樣" title="wikilink">為什麼這樣</a></p></td>
+<td><p><a href="../Page/為什麼這樣.md" title="wikilink">為什麼這樣</a></p></td>
 <td><p>4</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Temptastic" title="wikilink">Yayaya</a></p></td>
+<td><p><a href="../Page/Temptastic.md" title="wikilink">Yayaya</a></p></td>
 <td><p>5</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Roly-Poly" title="wikilink">Roly-Poly</a></p></td>
+<td><p><a href="../Page/Roly-Poly.md" title="wikilink">Roly-Poly</a></p></td>
 <td><p>2011</p></td>
 <td><p>2</p></td>
 <td><p>1</p></td>
@@ -801,14 +801,14 @@ RIAJ</a></p></td>
 <td><p>5</p></td>
 </tr>
 <tr class="even">
-<td><p>第六張日文單曲《<a href="https://zh.wikipedia.org/wiki/Bunny_Style!" title="wikilink">Bunny Style!</a>》</p></td>
+<td><p>第六張日文單曲《<a href="../Page/Bunny_Style!.md" title="wikilink">Bunny Style!</a>》</p></td>
 <td><p>2013</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p>第七張日文單曲《<a href="https://zh.wikipedia.org/wiki/Target_(單曲)" title="wikilink">TARGET</a>》</p></td>
+<td><p>第七張日文單曲《<a href="../Page/Target_(單曲).md" title="wikilink">TARGET</a>》</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>12</p></td>
@@ -877,7 +877,7 @@ Gaon</a></small><br />
 </tr>
 <tr class="even">
 <td><p>Painkiller（止痛藥）<br />
-<small>(與<a href="../Page/The_SeeYa.md" title="wikilink">The SeeYa</a>、<a href="../Page/F-VE_DOLLS.md" title="wikilink">F-ve Dolls及</a><a href="https://zh.wikipedia.org/wiki/SPEED_(韓國音樂團體)" title="wikilink">Speed合唱</a>)</small></p></td>
+<small>(與<a href="../Page/The_SeeYa.md" title="wikilink">The SeeYa</a>、<a href="../Page/F-VE_DOLLS.md" title="wikilink">F-ve Dolls及</a><a href="../Page/SPEED_(韓國音樂團體).md" title="wikilink">Speed合唱</a>)</small></p></td>
 <td><p>2013</p></td>
 <td><p>11</p></td>
 <td><p>13</p></td>
@@ -898,7 +898,7 @@ Gaon</a></small><br />
 </tr>
 <tr class="odd">
 <td><p>Don't forget me<br />
-<small>(與<a href="../Page/The_SeeYa.md" title="wikilink">The SeeYa</a>、<a href="https://zh.wikipedia.org/wiki/SPEED_(韓國音樂團體)" title="wikilink">Speed及承希合唱</a>)</small></p></td>
+<small>(與<a href="../Page/The_SeeYa.md" title="wikilink">The SeeYa</a>、<a href="../Page/SPEED_(韓國音樂團體).md" title="wikilink">Speed及承希合唱</a>)</small></p></td>
 <td><p>2015</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>

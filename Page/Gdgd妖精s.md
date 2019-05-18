@@ -2,11 +2,11 @@
 
 ## 概要
 
-本作主要策劃人為[CGI製作出道的菅原狀太](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")，由其一手擔當企劃、影像監督及角色設計的工作。全部影像均用到日本當地[MAD片和](../Page/MAD片.md "wikilink")[二次創作的製作技術](https://zh.wikipedia.org/wiki/二次創作 "wikilink")，涉及的[3D軟件包括](https://zh.wikipedia.org/wiki/三維計算機圖形軟件 "wikilink")[MikuMikuDance](../Page/MikuMikuDance.md "wikilink")、[Shade及](../Page/Shade.md "wikilink")[六角大王等](https://zh.wikipedia.org/wiki/六角大王 "wikilink")。而有別於2D動畫，本作大部分的內容是配音工作完成以後才開始製作影像。\[1\]\[2\]。而第1期官方網站就曾經公開承認，本作的製作預算相對緊絀，大部分的影像製作只能逼在播放前約一週內，幾乎毫無休止的狀況下完成。
+本作主要策劃人為[CGI製作出道的菅原狀太](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")，由其一手擔當企劃、影像監督及角色設計的工作。全部影像均用到日本當地[MAD片和](../Page/MAD片.md "wikilink")[二次創作的製作技術](../Page/二次創作.md "wikilink")，涉及的[3D軟件包括](https://zh.wikipedia.org/wiki/三維計算機圖形軟件 "wikilink")[MikuMikuDance](../Page/MikuMikuDance.md "wikilink")、[Shade及](../Page/Shade.md "wikilink")[六角大王等](https://zh.wikipedia.org/wiki/六角大王 "wikilink")。而有別於2D動畫，本作大部分的內容是配音工作完成以後才開始製作影像。\[1\]\[2\]。而第1期官方網站就曾經公開承認，本作的製作預算相對緊絀，大部分的影像製作只能逼在播放前約一週內，幾乎毫無休止的狀況下完成。
 
 ## 內容
 
-作品內容主要是就著三位妖精於妖精之森的日常聚會展開，於15分鐘以內分成不同環節，不論內容和標題都滲入了其他作品的[二次創作與](https://zh.wikipedia.org/wiki/二次創作 "wikilink")[惡搞](https://zh.wikipedia.org/wiki/惡搞 "wikilink")。
+作品內容主要是就著三位妖精於妖精之森的日常聚會展開，於15分鐘以內分成不同環節，不論內容和標題都滲入了其他作品的[二次創作與](../Page/二次創作.md "wikilink")[惡搞](https://zh.wikipedia.org/wiki/惡搞 "wikilink")。
 
   - 主要環節
 
@@ -59,7 +59,7 @@
 :: 讓觀眾於畫面移動的5秒內隱藏某處的可蘿可蘿。
 
 ::
-基於[NICONICO動畫可以重覆播放及發放彈幕](../Page/NICONICO動畫.md "wikilink")，所以不會另外提供答案。
+基於[NICONICO動畫可以重覆播放及發放彈幕](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，所以不會另外提供答案。
 
 :;
 
@@ -285,19 +285,19 @@ LiLi），主唱：噼庫噼庫（[三森鈴子](https://zh.wikipedia.org/wiki/�
 
 ## 播放電視台
 
-| 播放地區                               | 電視台                                            | 播放／公開日期            | 播放時間                                                            | 電視台系列                                                         | 備註         |
-| ---------------------------------- | ---------------------------------------------- | ------------------ | --------------------------------------------------------------- | ------------------------------------------------------------- | ---------- |
-| 第1期                                |                                                |                    |                                                                 |                                                               |            |
-| [東京都](../Page/東京都.md "wikilink")   | [東京都會電視台](../Page/東京都會電視台.md "wikilink")       | 2011年10月12日－12月28日 | [星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink") 27:00－27:15 | [UHF局](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |            |
-| [日本全國](../Page/日本.md "wikilink")   | [NICONICO動畫](../Page/NICONICO動畫.md "wikilink") | 2011年10月13日－12月29日 | [星期四](https://zh.wikipedia.org/wiki/星期四 "wikilink") 13:00 更新    | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink")         | \[4\]\[5\] |
-| 第2期 ＃0                             |                                                |                    |                                                                 |                                                               |            |
-| 東京都                                | 東京都會電視台                                        | 2012年12月27日        | 星期四 27:00－27:15                                                 | UHF局                                                          |            |
-| 日本全國                               | [NICONICO動畫](../Page/NICONICO動畫.md "wikilink") | 2012年12月28日        | 星期四 13:00 更新                                                    | 網絡電視                                                          | \[6\]      |
-| [AT-X](../Page/AT-X.md "wikilink") | 2012年12月30日                                    | 星期日 23:00－23:15    |                                                                 | 有重播                                                           |            |
-| 第2期                                |                                                |                    |                                                                 |                                                               |            |
-| 東京都                                | 東京都會電視台                                        | 2013年1月9日－         | 星期三 25:40－25:55                                                 | UHF局                                                          |            |
-| 日本全域                               | [NICONICO動畫](../Page/NICONICO動畫.md "wikilink") | 2013年1月10日－        | 星期四 13:00 更新                                                    | 網絡電視                                                          | \[7\]\[8\] |
-| AT-X                               | 2013年1月10日－                                    | 木曜 23:30 - 23:45   |                                                                 | 有重播                                                           |            |
+| 播放地區                               | 電視台                                                               | 播放／公開日期            | 播放時間                                                            | 電視台系列                                                         | 備註         |
+| ---------------------------------- | ----------------------------------------------------------------- | ------------------ | --------------------------------------------------------------- | ------------------------------------------------------------- | ---------- |
+| 第1期                                |                                                                   |                    |                                                                 |                                                               |            |
+| [東京都](../Page/東京都.md "wikilink")   | [東京都會電視台](../Page/東京都會電視台.md "wikilink")                          | 2011年10月12日－12月28日 | [星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink") 27:00－27:15 | [UHF局](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |            |
+| [日本全國](../Page/日本.md "wikilink")   | [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 2011年10月13日－12月29日 | [星期四](https://zh.wikipedia.org/wiki/星期四 "wikilink") 13:00 更新    | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink")         | \[4\]\[5\] |
+| 第2期 ＃0                             |                                                                   |                    |                                                                 |                                                               |            |
+| 東京都                                | 東京都會電視台                                                           | 2012年12月27日        | 星期四 27:00－27:15                                                 | UHF局                                                          |            |
+| 日本全國                               | [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 2012年12月28日        | 星期四 13:00 更新                                                    | 網絡電視                                                          | \[6\]      |
+| [AT-X](../Page/AT-X.md "wikilink") | 2012年12月30日                                                       | 星期日 23:00－23:15    |                                                                 | 有重播                                                           |            |
+| 第2期                                |                                                                   |                    |                                                                 |                                                               |            |
+| 東京都                                | 東京都會電視台                                                           | 2013年1月9日－         | 星期三 25:40－25:55                                                 | UHF局                                                          |            |
+| 日本全域                               | [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 2013年1月10日－        | 星期四 13:00 更新                                                    | 網絡電視                                                          | \[7\]\[8\] |
+| AT-X                               | 2013年1月10日－                                                       | 木曜 23:30 - 23:45   |                                                                 | 有重播                                                           |            |
 
 ## BD及DVD
 

@@ -31,7 +31,7 @@
 
 ## 相關條目
 
-:\*[TOG2 重型戰車](https://zh.wikipedia.org/wiki/TOG2_重型戰車 "wikilink")
+:\*[TOG2 重型戰車](../Page/TOG2_重型戰車.md "wikilink")
 
 :\*[超重型戰車](https://zh.wikipedia.org/wiki/超重型戰車 "wikilink")
 

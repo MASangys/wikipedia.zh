@@ -6,9 +6,9 @@ A）是日本歌手[濱崎步於](../Page/濱崎步.md "wikilink")2001年12月30
 在2003年1月29日發行的「[ayumi hamasaki COMPLETE LIVE BOX
 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COMPLETE_LIVE_BOX_A "wikilink")」，不僅收錄本作「**ayumi
 hamasaki COUNTDOWN LIVE 2001-2002 A**」、「[ayumi hamasaki ARENA TOUR 2002
-A](../Page/ayumi_hamasaki_ARENA_TOUR_2002_A.md "wikilink")」、「[ayumi
+A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_ARENA_TOUR_2002_A "wikilink")」、「[ayumi
 hamasaki STADIUM TOUR 2002
-A](../Page/ayumi_hamasaki_STADIUM_TOUR_2002_A.md "wikilink")」3種演唱會，其中收錄特典「[ayumi
+A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_STADIUM_TOUR_2002_A "wikilink")」3種演唱會，其中收錄特典「[ayumi
 hamasaki COUNTDOWN LIVE 2002-2003
 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2002-2003_A "wikilink")」的[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
@@ -21,7 +21,7 @@ A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2002-2003_A "wiki
 5.  [NEVER EVER](../Page/NEVER_EVER.md "wikilink")〜SHOW TIME
 6.  [Fly high](../Page/Fly_high.md "wikilink")
 7.  [Boys & Girls](../Page/Boys_&_Girls.md "wikilink")
-8.  [evolution](../Page/evolution_\(濱崎步單曲\).md "wikilink")
+8.  [evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")
 9.  [A Song is born](../Page/I_am....md "wikilink")
 10. [AUDIENCE](../Page/AUDIENCE.md "wikilink")
 11. [Dearest](https://zh.wikipedia.org/wiki/Dearest "wikilink")

@@ -199,7 +199,7 @@ LF<br />
 
   - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")[2012](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink")
     ：十大勁歌金曲 -《幼稚完》
-  - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")[2013](https://zh.wikipedia.org/wiki/2013年度新城勁爆頒獎禮得獎名單 "wikilink")
+  - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")[2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink")
     ： 新城勁爆歌曲 -《Nice》
   - [MY
     AOD我的最愛頒獎典禮2012](../Page/MY_AOD我的最愛頒獎典禮2012.md "wikilink")：我的最愛電視歌曲

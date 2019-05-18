@@ -8,7 +8,7 @@ Brothers的隊長兼表演者](../Page/J_Soul_Brothers.md "wikilink")。[埼玉�
 
 2003年2月以兩男一女組成組舞蹈團體｢JAZZ DRUG｣活躍於各種活動當中。
 
-2004年接受舞蹈修行訪問洛杉磯，向為[布蘭妮·斯皮爾斯等藝人編舞的編舞師ANDRE學舞](../Page/布蘭妮·斯皮爾斯.md "wikilink")，並參加洛杉磯CARNIVAL的活動演出。回國後，擔任[濱崎步](../Page/濱崎步.md "wikilink")、[AI](https://zh.wikipedia.org/wiki/AI_\(歌手\) "wikilink")、[BENNIE
+2004年接受舞蹈修行訪問洛杉磯，向為[布蘭妮·斯皮爾斯等藝人編舞的編舞師ANDRE學舞](../Page/布蘭妮·斯皮爾斯.md "wikilink")，並參加洛杉磯CARNIVAL的活動演出。回國後，擔任[濱崎步](../Page/濱崎步.md "wikilink")、[AI](../Page/AI_\(歌手\).md "wikilink")、[BENNIE
 K](https://zh.wikipedia.org/wiki/BENNIE_K "wikilink")、[後藤真希等藝人的伴舞](../Page/後藤真希.md "wikilink")。
 
 2006年2月組成5人的舞蹈團體｢SCREAM｣。
@@ -62,12 +62,11 @@ BOYZ](https://zh.wikipedia.org/wiki/HONEST_BOYZ "wikilink")\[6\]。
   - [SPEC～警視廳公安部公安第五課
     未詳事件特別對策係事件簿～](../Page/SPEC～警視廳公安部公安第五課_未詳事件特別對策係事件簿～.md "wikilink")
     第8話（[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")、2010年12月3日）
-  - [最後的灰姑娘](https://zh.wikipedia.org/wiki/最後的灰姑娘 "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")、2013年4月
+  - [最後的灰姑娘](../Page/最後的灰姑娘.md "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")、2013年4月
     - 6月） 飾演 柏木智則
   - [Frenemy街頭正義](https://zh.wikipedia.org/wiki/Frenemy街頭正義 "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、2013年7月
     - ）飾演 **岡嶋渉**
-  - [亲爱的姊妹](https://zh.wikipedia.org/wiki/亲爱的姊妹 "wikilink")
-    第9話（2014年12月11日、フジテレビ） 飾演 桑名
+  - [亲爱的姊妹](../Page/亲爱的姊妹.md "wikilink") 第9話（2014年12月11日、フジテレビ） 飾演 桑名
   - [暗夜英雄Naoto](https://zh.wikipedia.org/wiki/暗夜英雄Naoto "wikilink")
     （2016年4月 - 7月、東京電視台）飾演 **NAOTO**'
 
@@ -117,14 +116,13 @@ BOYZ](https://zh.wikipedia.org/wiki/HONEST_BOYZ "wikilink")\[6\]。
   - 濱崎步「Beautiful Fighters」（2006年）
   - [後藤真希](../Page/後藤真希.md "wikilink")「ガラスのパンプス」（2006年）
   - 後藤真希「SOME BOYS\! TOUCH」（2006年）
-  - [AI](https://zh.wikipedia.org/wiki/AI_\(歌手\) "wikilink")「I Wanna
-    Know」（2006年）
+  - [AI](../Page/AI_\(歌手\).md "wikilink")「I Wanna Know」（2006年）
   - [JYONGRI](https://zh.wikipedia.org/wiki/JYONGRI "wikilink")「Getting
     Funky\!」（2007年）
   - [法瑞爾·威廉姆斯](https://zh.wikipedia.org/wiki/法瑞爾·威廉姆斯 "wikilink")「Happy」日本版（2014年）
   - [EXILE THE SECOND](../Page/EXILE_THE_SECOND.md "wikilink")「[YEAH\!\!
     YEAH\!\!
-    YEAH\!\!](https://zh.wikipedia.org/wiki/YEAH!!_YEAH!!_YEAH!! "wikilink")」（2016年）
+    YEAH\!\!](../Page/YEAH!!_YEAH!!_YEAH!!.md "wikilink")」（2016年）
 
 ### DVD
 

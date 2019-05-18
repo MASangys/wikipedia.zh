@@ -3,7 +3,7 @@
 Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")、[RATHER
 UNIQUE](https://zh.wikipedia.org/wiki/RATHER_UNIQUE "wikilink")。
 
-[神奈川縣](../Page/神奈川縣.md "wikilink")[横滨市出身](../Page/横滨市.md "wikilink")。[LDH所屬](https://zh.wikipedia.org/wiki/LDH_\(藝能事務所\) "wikilink")。
+[神奈川縣](../Page/神奈川縣.md "wikilink")[横滨市出身](../Page/横滨市.md "wikilink")。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。
 
 ## 來歷
 
@@ -130,7 +130,7 @@ Eve Premiere Live
 
 ### CM
 
-  - [TOYOTA](https://zh.wikipedia.org/wiki/TOYOTA "wikilink")「[WISH](../Page/豐田WISH.md "wikilink")」（2009年
+  - [TOYOTA](https://zh.wikipedia.org/wiki/TOYOTA "wikilink")「[WISH](https://zh.wikipedia.org/wiki/豐田WISH "wikilink")」（2009年
     - 2012年）
   - [明治製菓](../Page/明治製菓.md "wikilink")「Fran」（2009年）
   - [KOSÉ](../Page/高絲.md "wikilink") COSMEPORT「Cosmagic」（2009年）
@@ -181,7 +181,8 @@ Eve Premiere Live
 
 **DJ
 MAKIDAI**是EXILE表演者MAKIDAI以DJ身份時的稱呼、[PKCZ的成員](https://zh.wikipedia.org/wiki/PKCZ "wikilink")。所屬唱片公司是[rhythm
-zone](../Page/rhythm_zone.md "wikilink")。 2014年與EXILE HIRO、VERBAL及DJ
+zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。 2014年與EXILE
+HIRO、VERBAL及DJ
 DARUMA一起結成「[PKCZ](https://zh.wikipedia.org/wiki/PKCZ "wikilink")」。
 
 ### 作品
@@ -238,7 +239,7 @@ DARUMA一起結成「[PKCZ](https://zh.wikipedia.org/wiki/PKCZ "wikilink")」。
   - EXILE『[Styles Of
     Beyond](../Page/Styles_Of_Beyond.md "wikilink")』（2003年2月13日）
   - EXILE『 [LET ME LUV U DOWN feat.ZEEBRA & MACCHO
-    (OZROSAURUS)](https://zh.wikipedia.org/wiki/LET_ME_LUV_U_DOWN_feat.ZEEBRA_&_MACCHO_\(OZROSAURUS\) "wikilink")』（2003年7月9日）
+    (OZROSAURUS)](../Page/LET_ME_LUV_U_DOWN_feat.ZEEBRA_&_MACCHO_\(OZROSAURUS\).md "wikilink")』（2003年7月9日）
   - [長渕剛](https://zh.wikipedia.org/wiki/長渕剛 "wikilink") トリビュートアルバム『Hey
     Aniki\!』（2004年4月28日）
       - M-8「Jeep (Remix)」
@@ -253,9 +254,8 @@ DARUMA一起結成「[PKCZ](https://zh.wikipedia.org/wiki/PKCZ "wikilink")」。
   - EXILE『[祈願之塔](../Page/祈願之塔.md "wikilink")』（Covor Album『EXILE
     COVER』）（2011年3月9日）
       - M-9「WON'T BE LONG」
-  - [EXILE
-    TRIBE](https://zh.wikipedia.org/wiki/EXILE_TRIBE "wikilink")『[EXILE
-    TRIBE LIVE TOUR 2012 〜TOWER OF
+  - [EXILE TRIBE](../Page/EXILE_TRIBE.md "wikilink")『[EXILE TRIBE LIVE
+    TOUR 2012 〜TOWER OF
     WISH〜](https://zh.wikipedia.org/wiki/EXILE_TRIBE_LIVE_TOUR_2012_〜TOWER_OF_WISH〜 "wikilink")』（2012年10月17日）
       - Disc 2「DJ MAKIDAI」
   - [THE SECOND from

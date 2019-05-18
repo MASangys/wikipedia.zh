@@ -1,6 +1,6 @@
 **Astro全佳HD**是[马来西亚](../Page/马来西亚.md "wikilink")[Astro拥有的第二个](../Page/Astro集團.md "wikilink")[中文](../Page/汉语.md "wikilink")[高清频道](../Page/高清电视.md "wikilink")，全天候24小时播出。该频道主要播出来自[中国大陸电视剧](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")、纪录片、旅游、休闲、综艺、生活、养生及饮食烹饪节目等等。该频道备有[中文](../Page/汉语.md "wikilink")、[英文及](../Page/英语.md "wikilink")[马来文字幕服务](https://zh.wikipedia.org/wiki/马来文 "wikilink")。
 
-其与[湖南广播电视台的](../Page/湖南广播电视台.md "wikilink")[湖南卫视和](../Page/湖南卫视.md "wikilink")[芒果TV系主力合作服务对象](https://zh.wikipedia.org/wiki/芒果TV "wikilink")，与此同时亦购买了[浙江卫视和](../Page/浙江卫视.md "wikilink")[爱奇艺部分节目的在大马地区的首播权](../Page/爱奇艺.md "wikilink")。
+其与[湖南广播电视台的](../Page/湖南广播电视台.md "wikilink")[湖南卫视和](../Page/湖南卫视.md "wikilink")[芒果TV系主力合作服务对象](../Page/芒果TV.md "wikilink")，与此同时亦购买了[浙江卫视和](../Page/浙江卫视.md "wikilink")[爱奇艺部分节目的在大马地区的首播权](../Page/爱奇艺.md "wikilink")。
 
 ## 播放节目
 
@@ -13,15 +13,15 @@
   - [湖南卫视春节联欢晚会](https://zh.wikipedia.org/wiki/湖南卫视春节联欢晚会 "wikilink")（逢年除夕夜播出）
   - [元宵喜乐会](https://zh.wikipedia.org/wiki/元宵喜乐会 "wikilink")（逢年农历正月十五同步直播）
   - [亲爱的客栈](https://zh.wikipedia.org/wiki/亲爱的客栈 "wikilink")
-  - [我是歌手](https://zh.wikipedia.org/wiki/我是歌手 "wikilink")/[歌手](https://zh.wikipedia.org/wiki/歌手_\(湖南卫视\) "wikilink")
+  - [我是歌手](../Page/我是歌手.md "wikilink")/[歌手](../Page/歌手_\(湖南卫视\).md "wikilink")
 
 ### 其他电视商播放节目
 
-  - [奔跑吧](https://zh.wikipedia.org/wiki/奔跑吧 "wikilink")（浙江卫视）
+  - [奔跑吧](../Page/奔跑吧.md "wikilink")（浙江卫视）
   - [梦想的声音](https://zh.wikipedia.org/wiki/梦想的声音 "wikilink")（浙江卫视）
   - [热血街舞团](https://zh.wikipedia.org/wiki/热血街舞团 "wikilink")（爱奇艺）
   - [奇葩说](https://zh.wikipedia.org/wiki/奇葩说 "wikilink")（爱奇艺）
-  - [小姐姐的花店](https://zh.wikipedia.org/wiki/小姐姐的花店 "wikilink")（爱奇艺）
+  - [小姐姐的花店](../Page/小姐姐的花店.md "wikilink")（爱奇艺）
 
 ### 已停播/撤出
 
@@ -33,15 +33,15 @@
 
 ## 现时节目
 
-| 日期            | 播出時间          | 现时节目                                                                   | 备注                                           |
-| ------------- | ------------- | ---------------------------------------------------------------------- | -------------------------------------------- |
-| 星期一至五         | 19:00 - 20:00 | [新白娘子传奇](https://zh.wikipedia.org/wiki/新白娘子传奇_\(2019年电视剧\) "wikilink") |                                              |
-| 星期一至四         | 23:30 - 01:30 | [归去来](https://zh.wikipedia.org/wiki/归去来 "wikilink")（重播）                | 2集连播                                         |
-| 星期五           | 21:10 - 23:00 | [奔跑吧（第三季）](https://zh.wikipedia.org/wiki/奔跑吧 "wikilink")               | 与[浙江卫视同步播出](../Page/浙江卫视.md "wikilink")      |
-| 星期六           | 20:30 - 22:00 | [巅峰之夜](https://zh.wikipedia.org/wiki/巅峰之夜 "wikilink")                  | 与[湖南卫视](../Page/湖南卫视.md "wikilink")24小时内同日播出 |
-| 星期日           | 20:00－21:45   | [快乐大本营](../Page/快乐大本营.md "wikilink")                                   | 与[湖南卫视](../Page/湖南卫视.md "wikilink")24小时内同日播出 |
-| 21:45 - 23:45 | 妻子的浪漫旅行2      |                                                                        |                                              |
-|               |               |                                                                        |                                              |
+| 日期            | 播出時间          | 现时节目                                                | 备注                                           |
+| ------------- | ------------- | --------------------------------------------------- | -------------------------------------------- |
+| 星期一至五         | 19:00 - 20:00 | [新白娘子传奇](../Page/新白娘子传奇_\(2019年电视剧\).md "wikilink") |                                              |
+| 星期一至四         | 23:30 - 01:30 | [归去来](../Page/归去来.md "wikilink")（重播）                | 2集连播                                         |
+| 星期五           | 21:10 - 23:00 | [奔跑吧（第三季）](../Page/奔跑吧.md "wikilink")               | 与[浙江卫视同步播出](../Page/浙江卫视.md "wikilink")      |
+| 星期六           | 20:30 - 22:00 | [巅峰之夜](../Page/巅峰之夜.md "wikilink")                  | 与[湖南卫视](../Page/湖南卫视.md "wikilink")24小时内同日播出 |
+| 星期日           | 20:00－21:45   | [快乐大本营](../Page/快乐大本营.md "wikilink")                | 与[湖南卫视](../Page/湖南卫视.md "wikilink")24小时内同日播出 |
+| 21:45 - 23:45 | 妻子的浪漫旅行2      |                                                     |                                              |
+|               |               |                                                     |                                              |
 
 ## 新春节目
 
@@ -59,7 +59,7 @@
 
 ## 相关条目
 
-  - [湖南广播电视台](../Page/湖南广播电视台.md "wikilink")：[湖南卫视](../Page/湖南卫视.md "wikilink")、[芒果TV](https://zh.wikipedia.org/wiki/芒果TV "wikilink")
+  - [湖南广播电视台](../Page/湖南广播电视台.md "wikilink")：[湖南卫视](../Page/湖南卫视.md "wikilink")、[芒果TV](../Page/芒果TV.md "wikilink")
   - [浙江卫视](../Page/浙江卫视.md "wikilink")
 
 ## 外部連結

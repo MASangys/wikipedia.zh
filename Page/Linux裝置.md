@@ -48,7 +48,7 @@ Linux設備被其製造商建成運行的Linux。這降低了它們起步發展�
 [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink")
 [Category:消費電子產品](https://zh.wikipedia.org/wiki/Category:消費電子產品 "wikilink")
 
-1.  [iPods](../Page/iPod.md "wikilink"),
+1.  [iPods](https://zh.wikipedia.org/wiki/iPod "wikilink"),
     [PlayStations](https://zh.wikipedia.org/wiki/PlayStation "wikilink"),
     [Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink"),
     [TiVo](../Page/TiVo.md "wikilink"),

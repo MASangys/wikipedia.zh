@@ -9,7 +9,7 @@ Framework*）是一款中型[Pythonweb框架](../Page/Python.md "wikilink")。
   - 良好的中文支持（纯中文文档，字符串全部采用[UTF-8编码](../Page/UTF-8.md "wikilink")）
   - 基于应用的项目结构
   - 灵活的插件处理机制
-  - 支持多种部署环境（包括[GAE](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink"),BAE,[SAE](https://zh.wikipedia.org/wiki/Sina_App_Engine "wikilink"),[Heroku等](https://zh.wikipedia.org/wiki/Heroku "wikilink"))
+  - 支持多种部署环境（包括[GAE](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink"),BAE,[SAE](https://zh.wikipedia.org/wiki/Sina_App_Engine "wikilink"),[Heroku等](../Page/Heroku.md "wikilink"))
 
 ## 参见
 

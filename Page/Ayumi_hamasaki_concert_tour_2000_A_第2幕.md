@@ -4,21 +4,22 @@
 ## 說明
 
 2000年9月27日與「[ayumi hamasaki concert tour 2000 A
-第1幕](../Page/ayumi_hamasaki_concert_tour_2000_A_第1幕.md "wikilink")」同時發行。
+第1幕](https://zh.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第1幕 "wikilink")」同時發行。
 
 本作與第一幕皆屬於多角度功能的DVD。然而，與滨崎步2000巡演演唱會第一幕DVD和VHS不同，這次演唱會是有收錄後臺的幕後花絮。第二個角度展示了在演唱會上的巨型電視銀幕上的視覺效果。
 
 ## 曲目
 
 1.  [A Song for ××](../Page/A_Song_for_××.md "wikilink")
-2.  [vogue](../Page/vogue_\(濱崎步單曲\).md "wikilink")
+2.  [vogue](https://zh.wikipedia.org/wiki/vogue_\(濱崎步單曲\) "wikilink")
 3.  [Trauma](../Page/A_\(濱崎步單曲\).md "wikilink")
 4.  [SEASONS](../Page/SEASONS.md "wikilink")
 5.  [Far away](../Page/Far_away.md "wikilink")
 6.  [End roll](../Page/A_\(濱崎步單曲\).md "wikilink")
 7.  [LOVE ～Destiny～](../Page/LOVE_～Destiny～.md "wikilink")
-8.  [appears](../Page/appears.md "wikilink")
-9.  [ever free](../Page/vogue_\(濱崎步單曲\).md "wikilink")
+8.  [appears](https://zh.wikipedia.org/wiki/appears "wikilink")
+9.  [ever
+    free](https://zh.wikipedia.org/wiki/vogue_\(濱崎步單曲\) "wikilink")
 10. [WHATEVER](../Page/WHATEVER.md "wikilink")
 11. [Depend on you](../Page/Depend_on_you.md "wikilink")
 12. [Fly high](../Page/Fly_high.md "wikilink")

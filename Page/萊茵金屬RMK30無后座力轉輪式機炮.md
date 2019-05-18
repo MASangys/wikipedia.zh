@@ -1,4 +1,4 @@
-**萊茵金屬RMK30**（）是一門由[德国武器製造商](../Page/德国.md "wikilink")[莱茵金属所研製](../Page/莱茵金属.md "wikilink")，旗下的[子公司](../Page/子公司.md "wikilink")[毛瑟公司所生產的單管](../Page/毛瑟.md "wikilink")[无後座力](../Page/无后座力炮.md "wikilink")[30毫米口径](https://zh.wikipedia.org/wiki/30毫米口径 "wikilink")[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")，發射[30×250毫米](https://zh.wikipedia.org/wiki/30毫米口径 "wikilink")[無殼機炮](https://zh.wikipedia.org/wiki/無殼彈 "wikilink")[炮彈](../Page/炮彈.md "wikilink")。
+**萊茵金屬RMK30**（）是一門由[德国武器製造商](../Page/德国.md "wikilink")[莱茵金属所研製](../Page/莱茵金属.md "wikilink")，旗下的[子公司](../Page/子公司.md "wikilink")[毛瑟公司所生產的單管](../Page/毛瑟.md "wikilink")[无後座力](../Page/无后座力炮.md "wikilink")[30毫米口径](https://zh.wikipedia.org/wiki/30毫米口径 "wikilink")[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")，發射[30×250毫米](https://zh.wikipedia.org/wiki/30毫米口径 "wikilink")[無殼機炮](../Page/無殼彈.md "wikilink")[炮彈](../Page/炮彈.md "wikilink")。
 
 ## 概述
 
@@ -19,15 +19,15 @@ AWC）以上。\[4\]
   - [无后座力炮](../Page/无后座力炮.md "wikilink")
 
   -
-  - [2A38雙管高射炮](https://zh.wikipedia.org/wiki/2A38雙管高射炮 "wikilink")
+  - [2A38雙管高射炮](../Page/2A38雙管高射炮.md "wikilink")
 
   - [二式機炮](https://zh.wikipedia.org/wiki/二式機炮 "wikilink")
 
   - [五式機炮](https://zh.wikipedia.org/wiki/五式機炮 "wikilink")
 
-  - [亞丁轉輪式機炮](https://zh.wikipedia.org/wiki/亞丁轉輪式機炮 "wikilink")
+  - [亞丁轉輪式機炮](../Page/亞丁轉輪式機炮.md "wikilink")
 
-  - [德發轉輪式機炮](https://zh.wikipedia.org/wiki/德發轉輪式機炮 "wikilink")
+  - [德發轉輪式機炮](../Page/德發轉輪式機炮.md "wikilink")
 
   - [GIAT 30機炮](../Page/GIAT_30機炮.md "wikilink")
 
@@ -35,7 +35,7 @@ AWC）以上。\[4\]
 
   - [GSh-30-2機炮](../Page/GSh-30-2機炮.md "wikilink")
 
-  - [M230鏈炮](https://zh.wikipedia.org/wiki/M230鏈炮 "wikilink")
+  - [M230鏈炮](../Page/M230鏈炮.md "wikilink")
 
   - [Mk 44巨蝮二式鏈炮](../Page/Mk_44巨蝮二式鏈炮.md "wikilink")
 

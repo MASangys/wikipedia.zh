@@ -30,8 +30,8 @@ DVD特典影像收錄幕後花絮。
 12. [Bold &
     Delicious](https://zh.wikipedia.org/wiki/Bold&Delicious/Pride "wikilink")
 13. [Mirrorcle World](../Page/Mirrorcle_World.md "wikilink")
-14. [SEVEN DAYS WAR](../Page/crossroad.md "wikilink")
-15. [evolution](../Page/evolution_\(濱崎步單曲\).md "wikilink")
+14. [SEVEN DAYS WAR](https://zh.wikipedia.org/wiki/crossroad "wikilink")
+15. [evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")
 16. [Boys & Girls](../Page/Boys_&_Girls.md "wikilink")
 17. [Dream ON](../Page/Dream_ON.md "wikilink")
 

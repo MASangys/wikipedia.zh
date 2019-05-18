@@ -33,7 +33,7 @@
 8.  《[無望之泪](../Page/Team_B_3rd_Stage“睡衣兜风”.md "wikilink")》 （）
     （作詞：秋元康、作曲：寺畑早知子、編曲：、稲留春雄）
 9.  《[天國小子](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")》 （）
-    （作詞：秋元康、作編曲：[後藤次利](https://zh.wikipedia.org/wiki/後藤次利 "wikilink")）
+    （作詞：秋元康、作編曲：[後藤次利](../Page/後藤次利.md "wikilink")）
 10. 《[制服的班比](../Page/喜歡！喜歡！小跳步！.md "wikilink")》 （）
     （作詞：秋元康、作曲：若田部誠、編曲：野中MASA雄一）
 11. 《[遠距離海報](../Page/櫻花印記.md "wikilink")》 （）
@@ -78,23 +78,23 @@
 
       - 2013年5月11日於[TOKYO DOME CITY
         HALL進行公演](https://zh.wikipedia.org/wiki/MEETS_PORT#TOKYO_DOME_CITY_HALL "wikilink")
-        （支援成員為[朝長美櫻](https://zh.wikipedia.org/wiki/朝長美櫻 "wikilink")）
+        （支援成員為[朝長美櫻](../Page/朝長美櫻.md "wikilink")）
 
 <!-- end list -->
 
   - 出演成員
-      - [穴井千尋](../Page/穴井千尋.md "wikilink")、[植木南央](https://zh.wikipedia.org/wiki/植木南央 "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")、[熊澤世莉奈](https://zh.wikipedia.org/wiki/熊澤世莉奈 "wikilink")、[兒玉遙](../Page/兒玉遙.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[下野由貴](../Page/下野由貴.md "wikilink")、[田中菜津美](https://zh.wikipedia.org/wiki/田中菜津美 "wikilink")、[中西智代梨](../Page/中西智代梨.md "wikilink")、[松岡菜摘](../Page/松岡菜摘.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[村重杏奈](../Page/村重杏奈.md "wikilink")、[本村碧唯](../Page/本村碧唯.md "wikilink")、[森保圓](../Page/森保圓.md "wikilink")（）、[若田部遙](https://zh.wikipedia.org/wiki/若田部遙 "wikilink")、支援成员（研究生）
+      - [穴井千尋](../Page/穴井千尋.md "wikilink")、[植木南央](../Page/植木南央.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")、[熊澤世莉奈](https://zh.wikipedia.org/wiki/熊澤世莉奈 "wikilink")、[兒玉遙](../Page/兒玉遙.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[下野由貴](../Page/下野由貴.md "wikilink")、[田中菜津美](../Page/田中菜津美.md "wikilink")、[中西智代梨](../Page/中西智代梨.md "wikilink")、[松岡菜摘](../Page/松岡菜摘.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[村重杏奈](../Page/村重杏奈.md "wikilink")、[本村碧唯](../Page/本村碧唯.md "wikilink")、[森保圓](../Page/森保圓.md "wikilink")（）、[若田部遙](https://zh.wikipedia.org/wiki/若田部遙 "wikilink")、支援成员（研究生）
       - 上述成員缺席時，會由研究生代演
       - 由於Team
         H只有15名成員，所以每場公演都會與一名支援成員一同演出，其位置由[山田麻莉奈](https://zh.wikipedia.org/wiki/山田麻莉奈 "wikilink")\[2\]
-        、[谷真理佳](https://zh.wikipedia.org/wiki/谷真理佳 "wikilink")\[3\]
+        、[谷真理佳](../Page/谷真理佳.md "wikilink")\[3\]
         、[今田美奈](https://zh.wikipedia.org/wiki/今田美奈 "wikilink")\[4\]
-        、[朝長美櫻](https://zh.wikipedia.org/wiki/朝長美櫻 "wikilink")\[5\]
+        、[朝長美櫻](../Page/朝長美櫻.md "wikilink")\[5\]
         、[岡田栞奈](https://zh.wikipedia.org/wiki/岡田栞奈 "wikilink")\[6\]
         和 [後藤泉](https://zh.wikipedia.org/wiki/後藤泉 "wikilink")\[7\]
         等人輪流交替
           - 在2013年6月21日，[AKB48的](../Page/AKB48.md "wikilink")[單曲選拔組到了](https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉 "wikilink")[福岡進行](https://zh.wikipedia.org/wiki/福岡 "wikilink")[PV拍攝工作](https://zh.wikipedia.org/wiki/戀愛幸運餅 "wikilink")。因此[AKB48的](../Page/AKB48.md "wikilink")[渡邊麻友作特別嘉賓出演當天公演的前座Girl](../Page/渡邊麻友.md "wikilink")\[8\]
-            ，與[熊澤世莉奈](https://zh.wikipedia.org/wiki/熊澤世莉奈 "wikilink")、[田中菜津美披露了](https://zh.wikipedia.org/wiki/田中菜津美 "wikilink")[遺憾少女](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")（）、而[SKE48的](../Page/SKE48.md "wikilink")[須田亞香里則於公演上發動](../Page/須田亞香里.md "wikilink")[安可](../Page/安可.md "wikilink")。除了渡邊、須田外，同場觀賞公演的還有[SKE48的](../Page/SKE48.md "wikilink")[松井玲奈和](../Page/松井玲奈.md "wikilink")[NMB48的](../Page/NMB48.md "wikilink")[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")。
+            ，與[熊澤世莉奈](https://zh.wikipedia.org/wiki/熊澤世莉奈 "wikilink")、[田中菜津美披露了](../Page/田中菜津美.md "wikilink")[遺憾少女](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")（）、而[SKE48的](../Page/SKE48.md "wikilink")[須田亞香里則於公演上發動](../Page/須田亞香里.md "wikilink")[安可](../Page/安可.md "wikilink")。除了渡邊、須田外，同場觀賞公演的還有[SKE48的](../Page/SKE48.md "wikilink")[松井玲奈和](../Page/松井玲奈.md "wikilink")[NMB48的](../Page/NMB48.md "wikilink")[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")。
 
 <!-- end list -->
 

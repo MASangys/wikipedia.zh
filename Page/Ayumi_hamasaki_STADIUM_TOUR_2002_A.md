@@ -12,7 +12,7 @@ A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COMPLETE_LIVE_BOX_A "wikilink")�
 hamasaki COUNTDOWN LIVE 2001-2002
 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2001-2002_A "wikilink")」、「[ayumi
 hamasaki ARENA TOUR 2002
-A](../Page/ayumi_hamasaki_ARENA_TOUR_2002_A.md "wikilink")」、本作「**ayumi
+A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_ARENA_TOUR_2002_A "wikilink")」、本作「**ayumi
 hamasaki STADIUM TOUR 2002 A**」3種演唱會，其中收錄特典「[ayumi hamasaki COUNTDOWN
 LIVE 2002-2003
 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2002-2003_A "wikilink")」的DVD。
@@ -28,7 +28,7 @@ bonus track，因此「[SEASONS](../Page/SEASONS.md "wikilink")」不包含在VH
 4.  medley（[WHATEVER](../Page/WHATEVER.md "wikilink")〜[too
     late](../Page/A_\(濱崎步單曲\).md "wikilink")〜[monochrome](../Page/A_\(濱崎步單曲\).md "wikilink")〜[End
     roll](../Page/A_\(濱崎步單曲\).md "wikilink")〜[Depend on
-    you](../Page/Depend_on_you.md "wikilink")〜[Trauma](../Page/A_\(濱崎步單曲\).md "wikilink")〜[vogue](../Page/vogue_\(濱崎步單曲\).md "wikilink")）
+    you](../Page/Depend_on_you.md "wikilink")〜[Trauma](../Page/A_\(濱崎步單曲\).md "wikilink")〜[vogue](https://zh.wikipedia.org/wiki/vogue_\(濱崎步單曲\) "wikilink")）
 5.  [July 1st](../Page/H_\(濱崎步單曲\).md "wikilink")
 6.  [independent](../Page/H_\(濱崎步單曲\).md "wikilink")
 7.  [Free & Easy](../Page/Free_&_Easy.md "wikilink")

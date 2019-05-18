@@ -17,7 +17,7 @@ Portable及PlayStation](../Page/PlayStation_Portable.md "wikilink")
     接著邁向傳說](../Page/勇者鬥惡龍III_接著邁向傳說.md "wikilink")》（[超级任天堂版](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")
     - 角色设计/剧本）
   - 2000：《[勇者斗恶龙VII
-    伊甸的战士们](https://zh.wikipedia.org/wiki/勇者斗恶龙VII_伊甸的战士们 "wikilink")》（[PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")
+    伊甸的战士们](../Page/勇者斗恶龙VII_伊甸的战士们.md "wikilink")》（[PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")
     - 角色设计/剧本）
   - 2001：《[勇者斗恶龙IV
     被引导的人们](../Page/勇者斗恶龙IV_被引导的人们.md "wikilink")》（PlayStation
@@ -30,10 +30,9 @@ Portable及PlayStation](../Page/PlayStation_Portable.md "wikilink")
   - 2007：《[勇者斗恶龙IV
     被引导的人们](../Page/勇者斗恶龙IV_被引导的人们.md "wikilink")》（任天堂DS版）
   - 2008：《[勇者斗恶龙V 天空的新娘](../Page/勇者斗恶龙V_天空的新娘.md "wikilink")》（任天堂DS版）
-  - 2010：《[勇者斗恶龙VI
-    幻之大地](https://zh.wikipedia.org/wiki/勇者斗恶龙VI_幻之大地 "wikilink")》（任天堂DS版）
+  - 2010：《[勇者斗恶龙VI 幻之大地](../Page/勇者斗恶龙VI_幻之大地.md "wikilink")》（任天堂DS版）
   - 2013：《[勇者斗恶龙VII
-    伊甸的战士们](https://zh.wikipedia.org/wiki/勇者斗恶龙VII_伊甸的战士们 "wikilink")》（[任天堂3DS版](../Page/任天堂3DS.md "wikilink")）
+    伊甸的战士们](../Page/勇者斗恶龙VII_伊甸的战士们.md "wikilink")》（[任天堂3DS版](../Page/任天堂3DS.md "wikilink")）
 
 ### 其它游戏
 

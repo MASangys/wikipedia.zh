@@ -12,14 +12,14 @@ Weebly由David Repo、Dan Hacker、Chris Helmer创立于2006年
 Weebly网站的代码开始编写于2006年1月。Weebly开始在2006年6月发布内测版\[19\]。正式的公测版于2006年9月推出\[20\]。
 
 2007年1月，Weebly在[硅谷被](../Page/硅谷.md "wikilink")[Y
-Combinator选定为](https://zh.wikipedia.org/wiki/Y_Combinator_\(公司\) "wikilink")“winter
+Combinator选定为](../Page/Y_Combinator_\(公司\).md "wikilink")“winter
 start-up
 program”\[21\]\[22\]。同时，三位创始人也开始在Weebly从事全职工作\[23\]。在2007年3月，Weebly重新推出了其特有的“所见即所得”的编辑界面\[24\]\[25\]。
 
 此外，在2007年，Weebly提出从几个[天使投资人处获得](https://zh.wikipedia.org/wiki/天使投资人 "wikilink")65万美元的融资，包括了罗恩·康威（Ron
 Conway）、史蒂夫·安德森（Steve Anderson）、迈克·梅普尔斯（Mike Maples）和保罗·布赫海特（Paul
 Buchheit）。\[26\]\[27\]2008年，Weebly还增加了Pro账户和[Google
-Adsense的广告服务](../Page/Google_Adsense.md "wikilink")。该网站还增强了与[Chrome和](https://zh.wikipedia.org/wiki/Chrome浏览器 "wikilink")[Safari的兼容性](../Page/Safari.md "wikilink")\[28\]。
+Adsense的广告服务](https://zh.wikipedia.org/wiki/Google_Adsense "wikilink")。该网站还增强了与[Chrome和](https://zh.wikipedia.org/wiki/Chrome浏览器 "wikilink")[Safari的兼容性](../Page/Safari.md "wikilink")\[28\]。
 
 此外，在2008年，Weebly在达到一百万用户时发布的一份声明中宣布，它已转变成商业化的公司。在最开始，Weebly被批评缺乏[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")/
 [HTML编辑支持](../Page/HTML.md "wikilink")。2009年，它增加了这个功能\[29\]。
@@ -36,7 +36,7 @@ Weebly的使用者可以使用Weebly的子[域名](../Page/域名.md "wikilink")
  用户也可以从Weebly或者其他地方购买一个域名\[39\]\[40\]。
 
 Weebly还支持博客和电子商务的基本功能。网站所有者可以通过[PayPal](../Page/PayPal.md "wikilink")或[Google
-Checkout来付款](https://zh.wikipedia.org/wiki/Google_Checkout "wikilink")。Weebly的存储空间是无限的。但是，在上传本地文件时，文件的大小和所有文件的总大小均受限制\[41\]。
+Checkout来付款](../Page/Google_Checkout.md "wikilink")。Weebly的存储空间是无限的。但是，在上传本地文件时，文件的大小和所有文件的总大小均受限制\[41\]。
 
 Weebly用户还可以选择在自己的网页中投放广告。Weebly支持[Google
 AdSense](../Page/Google_AdSense.md "wikilink")，Weebly会从中抽取50%的广告收入\[42\]。

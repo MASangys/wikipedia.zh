@@ -260,7 +260,7 @@
 <td><p>第六話</p></td>
 <td><p>響 Rock</p></td>
 <td><p>ユーヤ（陰我ホラー人間態） - <a href="https://zh.wikipedia.org/wiki/勝矢" title="wikilink">勝矢</a><br />
-シン - <a href="https://zh.wikipedia.org/wiki/太田基裕" title="wikilink">太田基裕</a><br />
+シン - <a href="../Page/太田基裕.md" title="wikilink">太田基裕</a><br />
 ダックス勝浦 - <a href="https://zh.wikipedia.org/wiki/金橋良樹" title="wikilink">金橋良樹</a><br />
 バックバンド - <a href="https://zh.wikipedia.org/wiki/HOI_FESTA" title="wikilink">HOI FESTA</a></p></td>
 </tr>

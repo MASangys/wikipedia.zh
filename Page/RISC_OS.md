@@ -7,7 +7,7 @@ Machine处理器](https://zh.wikipedia.org/wiki/Acorn_RISC_Machine "wikilink")�
 
 最新的稳定版本运行在 ARMv3/ARMv4
 \[2\]（或根据仿真通过或），ARMv5的Iyonix\[3\]和ARMv7的Cortex-A8处理器\[4\]\[5\]
-（如使用的[BeagleBoard和](https://zh.wikipedia.org/wiki/BeagleBoard "wikilink")）。在2011年，一个移植的
+（如使用的[BeagleBoard和](../Page/BeagleBoard.md "wikilink")）。在2011年，一个移植的
 已宣布\[6\]和[树莓派在公众场合露面的开发版本可免费下载的候选发布版已跟进](../Page/树莓派.md "wikilink")\[7\]\[8\]\[9\]，这版本已免费提供[树莓派用户](../Page/树莓派.md "wikilink")。\[10\]
 
 2018年10月，RISC OS在[Apache

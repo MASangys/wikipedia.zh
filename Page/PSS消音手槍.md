@@ -27,7 +27,7 @@ PSS手槍曾經被[克格勃採用過](https://zh.wikipedia.org/wiki/克格勃 "
 
   - [PB消音手槍](../Page/PB消音手槍.md "wikilink")
   - [納甘M1895轉輪手槍](../Page/納甘M1895轉輪手槍.md "wikilink")
-  - [NRS匕首槍](https://zh.wikipedia.org/wiki/NRS匕首槍 "wikilink")
+  - [NRS匕首槍](../Page/NRS匕首槍.md "wikilink")
   - [67式微聲手槍](https://zh.wikipedia.org/wiki/67式微聲手槍 "wikilink")
 
 ## 參考

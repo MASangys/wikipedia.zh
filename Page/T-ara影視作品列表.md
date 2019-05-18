@@ -71,12 +71,12 @@
 
 ### 子團
 
-**[T-ara N4](https://zh.wikipedia.org/wiki/T-ara_N4 "wikilink")**
+**[T-ara N4](../Page/T-ara_N4.md "wikilink")**
 
   - Countryside Diary （劇場版）
   - Countryside Diary （舞蹈版）
 
-**[QBS](https://zh.wikipedia.org/wiki/QBS "wikilink")**
+**[QBS](../Page/QBS.md "wikilink")**
 
   - Like The Wind
 
@@ -449,7 +449,7 @@
 <tr class="odd">
 <td><p>《<a href="../Page/仁粹大妃_(電視劇).md" title="wikilink">仁粹大妃</a>》</p></td>
 <td><p>仁粹大妃 (幼時)</p></td>
-<td><p><a href="../Page/jTBC.md" title="wikilink">jTBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/jTBC" title="wikilink">jTBC</a></p></td>
 <td><p>𤨒晶</p></td>
 <td><p>1-24</p></td>
 <td></td>
@@ -483,7 +483,7 @@
 <td><p>客串</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/無盡的愛_(2014年電視劇)" title="wikilink">無盡的愛</a>》</p></td>
+<td><p>《<a href="../Page/無盡的愛_(2014年電視劇).md" title="wikilink">無盡的愛</a>》</p></td>
 <td><p>太初愛</p></td>
 <td><p>SBS</p></td>
 <td><p>𤨒晶</p></td>
@@ -493,7 +493,7 @@
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/今天開始我愛你" title="wikilink">今天開始我愛你</a>》</p></td>
+<td><p>《<a href="../Page/今天開始我愛你.md" title="wikilink">今天開始我愛你</a>》</p></td>
 <td><p>閔彩媛</p></td>
 <td><p>KBS</p></td>
 <td><p>88-101</p></td>
@@ -502,7 +502,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/多樣的兒媳" title="wikilink">多樣的兒媳</a>》</p></td>
+<td><p>《<a href="../Page/多樣的兒媳.md" title="wikilink">多樣的兒媳</a>》</p></td>
 <td><p>黃銀星</p></td>
 <td><p>MBC</p></td>
 <td><p>𤨒晶</p></td>
@@ -553,50 +553,50 @@
 
 ## 綜藝節目
 
-| 日期                 | 電視台                                                                     | 節目名稱                                                                    | 備註                                                              |
-| ------------------ | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------- |
-| 2009年7月29日         | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")             | 《》                                                                      | 6人全體出道節目                                                        |
-| 2009年9月12日         | 《》                                                                      | 6人全體                                                                    |                                                                 |
-| 2009年9月19日         |                                                                         |                                                                         |                                                                 |
-| 2009年9月26-27日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                 | 《[金諪恩的巧克力](https://zh.wikipedia.org/wiki/金諪恩的巧克力 "wikilink")》           |                                                                 |
-| 2009年10月2日         | MBC                                                                     | 《中秋女團特辑Sweet girl》                                                      |                                                                 |
-| 2009年10月14日与10月21日 | Mnet                                                                    | 《一周的恋人》                                                                 | 居丽与孝敏                                                           |
-| 2009年12月30日        | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                   | 《偶像軍團紅了她\!》第5季                                                          | [芝妍缺席](https://zh.wikipedia.org/wiki/芝妍 "wikilink")             |
-| 2010年1月19日         | [KBS](../Page/韓國放送公社.md "wikilink")                                     | 《》                                                                      | 6人全體                                                            |
-| 2010年2月14日         | 《Star Dance Battle》                                                     |                                                                         |                                                                 |
-| 2010年2月28日         | 《》                                                                      | [智妍缺席](https://zh.wikipedia.org/wiki/智妍 "wikilink")                     |                                                                 |
-| 2010年3月26日         | 《劉熙真的寫真簿》                                                               | 6人全體                                                                    |                                                                 |
-| 2010年4月10日         | 《》                                                                      |                                                                         |                                                                 |
-| 2010年6月11日         | [TVN](https://zh.wikipedia.org/wiki/TVN_\(大韓民國\) "wikilink")            | 《出租車》                                                                   | 𤨒晶缺席                                                            |
-| 2010年7月27日         | Mnet                                                                    | 《School Of Rock》                                                        |                                                                 |
-| 2010年9月5日          | SBS                                                                     | 《哈哈夢SHOW》                                                               | 6人全體                                                            |
-| 2010年9月25-26日      | MBC                                                                     | 《[第一屆偶像明星田徑錦標賽](https://zh.wikipedia.org/wiki/第一屆偶像明星田徑錦標賽 "wikilink")》 | [芝妍缺席](https://zh.wikipedia.org/wiki/芝妍 "wikilink")             |
-| 2010年12月12日        | SBS                                                                     | 《金諪恩的巧克力》                                                               | 7人全體                                                            |
-| 2010年12月19日        | KBS                                                                     | 《夜行星》                                                                   |                                                                 |
-| 2010年12月28日        | 《心情好的一天》                                                                |                                                                         |                                                                 |
-| 2011年2月05-06日      | MBC                                                                     | 《[第二屆偶像明星田徑錦標賽](https://zh.wikipedia.org/wiki/第二屆偶像明星田徑錦標賽 "wikilink")》 |                                                                 |
-| 2011年4月3日          | MBC                                                                     | 《花束》                                                                    |                                                                 |
-| 2011年9月13-14日      | 《[第三屆偶像明星田徑錦標賽](https://zh.wikipedia.org/wiki/第三屆偶像明星田徑錦標賽 "wikilink")》 |                                                                         |                                                                 |
-| 2011年11月27日        | 《Section TV 演藝通訊》                                                       |                                                                         |                                                                 |
-| 2012年2月4日          | 《[Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")》   | 𤨒晶、[芝妍缺席](https://zh.wikipedia.org/wiki/芝妍 "wikilink")                  |                                                                 |
-| 2012年7月25日         | KBS2                                                                    | 《餘裕滿滿》                                                                  | 8人全體                                                            |
-| 2013年2月11日         | MBC                                                                     | 《第六屆偶像明星田徑錦標賽》                                                          | 7人全體                                                            |
-| 2013年4月29日         | KBS2                                                                    | 《[出發夢之隊2](https://zh.wikipedia.org/wiki/出發夢之隊2 "wikilink")》             |                                                                 |
-| 2013年5月6日          | Mnet                                                                    | 《The Beatles Code 2》                                                    | [T-ara N4全體](https://zh.wikipedia.org/wiki/T-ara_N4 "wikilink") |
-| 2013年5月20日         | [MBC](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink")                 | 《》                                                                      |                                                                 |
-| 2013年10月10日        | 6人全體                                                                    |                                                                         |                                                                 |
-| 2014年9月24日         | MBC                                                                     | 《[Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")》   | 6人全體                                                            |
-| 2014年12月19日        | 湖南                                                                      | 《天天向上》                                                                  | 6人全體                                                            |
-| 2015年8月10日         | MBC                                                                     | 《第十屆偶像明星田徑錦標賽》                                                          | 6人全體                                                            |
-| 2015年8月19日         | KBS2                                                                    | 《Stardust S2》                                                           | [芝妍缺席](https://zh.wikipedia.org/wiki/芝妍 "wikilink")             |
-| 2015年8月23日         | KBS                                                                     | 《A Song For You》                                                        | [芝妍缺席](https://zh.wikipedia.org/wiki/芝妍 "wikilink")             |
-| 2015年9月28日         | KBS                                                                     | 《全國偶像歌曲大會》                                                              | 孝敏缺席                                                            |
-| 2015年11月22日        | 湖北衛視                                                                    | 《一起出發》                                                                  | 昭妍、孝敏、芝妍                                                        |
-| 2015年12月23日        | CCTV3                                                                   | 我要上春晚                                                                   | 6人全體                                                            |
-| 2016年1月14日         | CCTV3                                                                   | 我要上春晚                                                                   | 6人全體                                                            |
-| 2016年1月22日         | 江蘇衞視                                                                    | 《最強大腦第三季》                                                               | 6人全體                                                            |
-| 2017年6月18日         | MBC                                                                     | 《Section TV 演藝通信》                                                       | 4人全體                                                            |
-| 2017年6月24日         | tvN                                                                     | 《SNL Korea 9》                                                           | 4人全體                                                            |
+| 日期                 | 電視台                                                                     | 節目名稱                                                                    | 備註                                                  |
+| ------------------ | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------- |
+| 2009年7月29日         | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")             | 《》                                                                      | 6人全體出道節目                                            |
+| 2009年9月12日         | 《》                                                                      | 6人全體                                                                    |                                                     |
+| 2009年9月19日         |                                                                         |                                                                         |                                                     |
+| 2009年9月26-27日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                 | 《[金諪恩的巧克力](../Page/金諪恩的巧克力.md "wikilink")》                              |                                                     |
+| 2009年10月2日         | MBC                                                                     | 《中秋女團特辑Sweet girl》                                                      |                                                     |
+| 2009年10月14日与10月21日 | Mnet                                                                    | 《一周的恋人》                                                                 | 居丽与孝敏                                               |
+| 2009年12月30日        | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                   | 《偶像軍團紅了她\!》第5季                                                          | [芝妍缺席](https://zh.wikipedia.org/wiki/芝妍 "wikilink") |
+| 2010年1月19日         | [KBS](../Page/韓國放送公社.md "wikilink")                                     | 《》                                                                      | 6人全體                                                |
+| 2010年2月14日         | 《Star Dance Battle》                                                     |                                                                         |                                                     |
+| 2010年2月28日         | 《》                                                                      | [智妍缺席](https://zh.wikipedia.org/wiki/智妍 "wikilink")                     |                                                     |
+| 2010年3月26日         | 《劉熙真的寫真簿》                                                               | 6人全體                                                                    |                                                     |
+| 2010年4月10日         | 《》                                                                      |                                                                         |                                                     |
+| 2010年6月11日         | [TVN](https://zh.wikipedia.org/wiki/TVN_\(大韓民國\) "wikilink")            | 《出租車》                                                                   | 𤨒晶缺席                                                |
+| 2010年7月27日         | Mnet                                                                    | 《School Of Rock》                                                        |                                                     |
+| 2010年9月5日          | SBS                                                                     | 《哈哈夢SHOW》                                                               | 6人全體                                                |
+| 2010年9月25-26日      | MBC                                                                     | 《[第一屆偶像明星田徑錦標賽](https://zh.wikipedia.org/wiki/第一屆偶像明星田徑錦標賽 "wikilink")》 | [芝妍缺席](https://zh.wikipedia.org/wiki/芝妍 "wikilink") |
+| 2010年12月12日        | SBS                                                                     | 《金諪恩的巧克力》                                                               | 7人全體                                                |
+| 2010年12月19日        | KBS                                                                     | 《夜行星》                                                                   |                                                     |
+| 2010年12月28日        | 《心情好的一天》                                                                |                                                                         |                                                     |
+| 2011年2月05-06日      | MBC                                                                     | 《[第二屆偶像明星田徑錦標賽](https://zh.wikipedia.org/wiki/第二屆偶像明星田徑錦標賽 "wikilink")》 |                                                     |
+| 2011年4月3日          | MBC                                                                     | 《花束》                                                                    |                                                     |
+| 2011年9月13-14日      | 《[第三屆偶像明星田徑錦標賽](https://zh.wikipedia.org/wiki/第三屆偶像明星田徑錦標賽 "wikilink")》 |                                                                         |                                                     |
+| 2011年11月27日        | 《Section TV 演藝通訊》                                                       |                                                                         |                                                     |
+| 2012年2月4日          | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                      | 𤨒晶、[芝妍缺席](https://zh.wikipedia.org/wiki/芝妍 "wikilink")                  |                                                     |
+| 2012年7月25日         | KBS2                                                                    | 《餘裕滿滿》                                                                  | 8人全體                                                |
+| 2013年2月11日         | MBC                                                                     | 《第六屆偶像明星田徑錦標賽》                                                          | 7人全體                                                |
+| 2013年4月29日         | KBS2                                                                    | 《[出發夢之隊2](https://zh.wikipedia.org/wiki/出發夢之隊2 "wikilink")》             |                                                     |
+| 2013年5月6日          | Mnet                                                                    | 《The Beatles Code 2》                                                    | [T-ara N4全體](../Page/T-ara_N4.md "wikilink")        |
+| 2013年5月20日         | [MBC](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink")                 | 《》                                                                      |                                                     |
+| 2013年10月10日        | 6人全體                                                                    |                                                                         |                                                     |
+| 2014年9月24日         | MBC                                                                     | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                      | 6人全體                                                |
+| 2014年12月19日        | 湖南                                                                      | 《天天向上》                                                                  | 6人全體                                                |
+| 2015年8月10日         | MBC                                                                     | 《第十屆偶像明星田徑錦標賽》                                                          | 6人全體                                                |
+| 2015年8月19日         | KBS2                                                                    | 《Stardust S2》                                                           | [芝妍缺席](https://zh.wikipedia.org/wiki/芝妍 "wikilink") |
+| 2015年8月23日         | KBS                                                                     | 《A Song For You》                                                        | [芝妍缺席](https://zh.wikipedia.org/wiki/芝妍 "wikilink") |
+| 2015年9月28日         | KBS                                                                     | 《全國偶像歌曲大會》                                                              | 孝敏缺席                                                |
+| 2015年11月22日        | 湖北衛視                                                                    | 《一起出發》                                                                  | 昭妍、孝敏、芝妍                                            |
+| 2015年12月23日        | CCTV3                                                                   | 我要上春晚                                                                   | 6人全體                                                |
+| 2016年1月14日         | CCTV3                                                                   | 我要上春晚                                                                   | 6人全體                                                |
+| 2016年1月22日         | 江蘇衞視                                                                    | 《最強大腦第三季》                                                               | 6人全體                                                |
+| 2017年6月18日         | MBC                                                                     | 《Section TV 演藝通信》                                                       | 4人全體                                                |
+| 2017年6月24日         | tvN                                                                     | 《SNL Korea 9》                                                           | 4人全體                                                |
 
 ## 廣告
 

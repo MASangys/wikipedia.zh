@@ -189,7 +189,7 @@ Framework技术。
 <td><p>《<a href="https://zh.wikipedia.org/wiki/战国BASARA_4" title="wikilink">战国BASARA 4</a>》</p></td>
 <td><p>2014</p></td>
 <td><p>v2.?</p></td>
-<td><p><a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a></p></td>
+<td><p><a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -197,7 +197,7 @@ Framework技术。
 <td><p>《生化危机 高清重制版》</p></td>
 <td><p>2014</p></td>
 <td><p>v2.?</p></td>
-<td><p><a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a>、<a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a>、<a href="https://zh.wikipedia.org/wiki/Xbox_One" title="wikilink">Xbox One</a>、<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
+<td><p><a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a>、<a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>、<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -205,7 +205,7 @@ Framework技术。
 <td><p>《<a href="https://zh.wikipedia.org/wiki/生化危机_启示录2" title="wikilink">生化危机 启示录2</a>》</p></td>
 <td><p>2015</p></td>
 <td><p>v2.?</p></td>
-<td><p><a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a>、<a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a>、<a href="https://zh.wikipedia.org/wiki/Xbox_One" title="wikilink">Xbox One</a>、<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
+<td><p><a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a>、<a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>、<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -213,7 +213,7 @@ Framework技术。
 <td><p>《鬼泣4 特别版》</p></td>
 <td><p>2015</p></td>
 <td><p>v2.?</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a>、<a href="https://zh.wikipedia.org/wiki/Xbox_One" title="wikilink">Xbox One</a>、<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
+<td><p><a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>、<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -221,7 +221,7 @@ Framework技术。
 <td><p>《战国BASARA 4 皇》</p></td>
 <td><p>2015</p></td>
 <td><p>v2.?</p></td>
-<td><p><a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a></p></td>
+<td><p><a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -229,7 +229,7 @@ Framework技术。
 <td><p>《<a href="https://zh.wikipedia.org/wiki/龙之信条_Online" title="wikilink">龙之信条 Online</a>》</p></td>
 <td><p>2015</p></td>
 <td><p>v2.?</p></td>
-<td><p><a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a>、<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
+<td><p><a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -237,7 +237,7 @@ Framework技术。
 <td><p>《生化危机0 高清重制版》</p></td>
 <td><p>2016</p></td>
 <td><p>v2.?</p></td>
-<td><p><a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a>、<a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a>、<a href="https://zh.wikipedia.org/wiki/Xbox_One" title="wikilink">Xbox One</a>、<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
+<td><p><a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a>、<a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>、<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -245,7 +245,7 @@ Framework技术。
 <td><p>《战国BASARA：真田幸村传》</p></td>
 <td><p>2016</p></td>
 <td><p>v2.?</p></td>
-<td><p><a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a></p></td>
+<td><p><a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -253,12 +253,12 @@ Framework技术。
 <td><p>《终极街头霸王 最后的挑战者》</p></td>
 <td><p>2017</p></td>
 <td><p>v2.?</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/任天堂Switch" title="wikilink">任天堂Switch</a></p></td>
+<td><p><a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/怪物猎人_世界" title="wikilink">怪物猎人 世界</a>》</p></td>
+<td><p>《<a href="../Page/怪物猎人_世界.md" title="wikilink">怪物猎人 世界</a>》</p></td>
 <td><p>2018</p></td>
 <td><p>v2.?</p></td>
 <td><p>PlayStation 4、Xbox One、Microsoft Windows</p></td>
@@ -266,7 +266,7 @@ Framework技术。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/洛克人11_命運的齒輪！！" title="wikilink">洛克人11 命運的齒輪！！</a>》</p></td>
+<td><p>《<a href="../Page/洛克人11_命運的齒輪！！.md" title="wikilink">洛克人11 命運的齒輪！！</a>》</p></td>
 <td><p>2018</p></td>
 <td><p>v2.?</p></td>
 <td><p>任天堂Switch、PlayStation 4、Xbox One、Microsoft Windows</p></td>
@@ -298,19 +298,19 @@ Framework技术。
 | --------------------------------------------------------------------------- | ----- | ---------------------------------------------------------- |
 | 《[超级街霸4 3D](https://zh.wikipedia.org/wiki/超级街霸4_3D "wikilink")》             | 2011  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
 | 《[生化危机：佣兵 3D](https://zh.wikipedia.org/wiki/生化危机：佣兵_3D "wikilink")》         | 2011  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
-| 《[怪物猎人3G](https://zh.wikipedia.org/wiki/怪物猎人3G "wikilink")》                 | 2011  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
+| 《[怪物猎人3G](../Page/怪物猎人3G.md "wikilink")》                                    | 2011  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
 | 《[究极漫威英雄 VS 卡普空3](https://zh.wikipedia.org/wiki/究极漫威英雄_VS_卡普空3 "wikilink")》 | 2011  | [PlayStation Vita](../Page/PlayStation_Vita.md "wikilink") |
 | 《[生化危机：启示录](https://zh.wikipedia.org/wiki/生化危机：启示录 "wikilink")》             | 2012  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
 | 《[E.X Troopers](https://zh.wikipedia.org/wiki/E.X_Troopers "wikilink")》     | 2012  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
 | 《[洛克人 DASH 3 計畫](https://zh.wikipedia.org/wiki/洛克人_DASH_3_計畫 "wikilink")》   | 已取消开发 | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
-| 《[逆轉裁判5](https://zh.wikipedia.org/wiki/逆轉裁判5 "wikilink")》                   | 2013  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
-| 《[怪物猎人4](https://zh.wikipedia.org/wiki/怪物猎人4 "wikilink")》                   | 2013  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
+| 《[逆轉裁判5](../Page/逆轉裁判5.md "wikilink")》                                      | 2013  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
+| 《[怪物猎人4](../Page/怪物猎人4.md "wikilink")》                                      | 2013  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
 | 《[怪物猎人4G](https://zh.wikipedia.org/wiki/怪物猎人4G "wikilink")》                 | 2014  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
 | 《[生化危机 启示录2](https://zh.wikipedia.org/wiki/生化危机_启示录2 "wikilink")》           | 2015  | [PlayStation Vita](../Page/PlayStation_Vita.md "wikilink") |
 | 《[大逆轉裁判 -成步堂龍之介的冒險-](../Page/大逆轉裁判_-成步堂龍之介的冒險-.md "wikilink")》              | 2015  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
-| 《[怪物猎人X](https://zh.wikipedia.org/wiki/怪物猎人X "wikilink")》                   | 2015  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
+| 《[怪物猎人X](../Page/怪物猎人X.md "wikilink")》                                      | 2015  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
 | 《[逆转裁判6](../Page/逆转裁判6.md "wikilink")》                                      | 2016  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
-| 《[怪物猎人XX](https://zh.wikipedia.org/wiki/怪物猎人XX "wikilink")》                 | 2017  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
+| 《[怪物猎人XX](../Page/怪物猎人XX.md "wikilink")》                                    | 2017  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
 
 </div>
 

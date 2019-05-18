@@ -55,7 +55,7 @@ people)是名人的[Y染色體](../Page/Y染色體.md "wikilink")[單倍群](htt
     美國[德克薩斯大學教授](https://zh.wikipedia.org/wiki/德克薩斯大學 "wikilink")・[博士](../Page/博士.md "wikilink")\[22\],
     其測試結果属于D-JST022457類型\[23\]。他的父系源流是日本[廣島縣](../Page/廣島縣.md "wikilink")\[24\]。
   - [東山天皇](../Page/東山天皇.md "wikilink")(1675-1710),
-    第113代日本天皇。其男系子孫複数名[Y染色體測試結果爲](../Page/Y染色體.md "wikilink")[D1b1a2單倍群](https://zh.wikipedia.org/wiki/单倍群D-M174 "wikilink")
+    第113代日本天皇。其男系子孫複数名[Y染色體測試結果爲](../Page/Y染色體.md "wikilink")[D1b1a2單倍群](../Page/单倍群D-M174.md "wikilink")
     (D-IMS-JST055457/CTS107)\[25\]\[26\]。
 
 #### D1b1a2a
@@ -65,7 +65,7 @@ people)是名人的[Y染色體](../Page/Y染色體.md "wikilink")[單倍群](htt
 #### D1b1a2b1a1
 
   - [源頼朝](https://zh.wikipedia.org/wiki/源頼朝 "wikilink")(1147-1199),
-    日本[鎌倉時代初代將軍](https://zh.wikipedia.org/wiki/鎌倉時代 "wikilink")。其父系同一子孫複数名Y染色體測試結果爲[D1b1a2b1a1單倍群](https://zh.wikipedia.org/wiki/单倍群D-M174 "wikilink")
+    日本[鎌倉時代初代將軍](https://zh.wikipedia.org/wiki/鎌倉時代 "wikilink")。其父系同一子孫複数名Y染色體測試結果爲[D1b1a2b1a1單倍群](../Page/单倍群D-M174.md "wikilink")
     (D-Z1504, CTS8093)\[29\]\[30\]\[31\]。
 
 |         |     |     |    |     |      |      |     |     |     |      |     |       |     |     |     |           |     |     |     |
@@ -207,7 +207,7 @@ BestLo.jpg|[亨利·克林顿](https://zh.wikipedia.org/wiki/亨利·克林顿 "
 ### Y染色體 N單倍群
 
   - [盖迪米纳斯](https://zh.wikipedia.org/wiki/盖迪米纳斯 "wikilink")（[Gediminas](https://zh.wikipedia.org/wiki/:en:Gediminas "wikilink")），[立陶宛大公](https://zh.wikipedia.org/wiki/立陶宛 "wikilink")，维尔纽斯的缔造者，其家族后裔大多数属于N1c1基因型\[65\]，此类型属于乌拉尔语族常见类型，也高频见于西伯利亚东北部突厥语族雅库特。[Gedimin_grav_xvii.jpg](https://zh.wikipedia.org/wiki/File:Gedimin_grav_xvii.jpg "fig:Gedimin_grav_xvii.jpg")
-  - [留里克](https://zh.wikipedia.org/wiki/留里克 "wikilink")，[俄羅斯古代帝王](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。留里克王朝皇族后裔大多数测试者属于N1c1类型\[66\]，此类型高频见于乌拉尔语系族群，俄罗斯北部地区人群也可达40%。
+  - [留里克](../Page/留里克.md "wikilink")，[俄羅斯古代帝王](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。留里克王朝皇族后裔大多数测试者属于N1c1类型\[66\]，此类型高频见于乌拉尔语系族群，俄罗斯北部地区人群也可达40%。
 
 ### Y染色體 O單倍群
 

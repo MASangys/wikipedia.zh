@@ -6,7 +6,7 @@ THE SECOND的主唱兼表演者](../Page/EXILE_THE_SECOND.md "wikilink")。
 
 ## 來歷
 
-是混血兒，父親是非洲系美國人，而母親是日本人。因為出生和成長都在日本，所以幾乎不會說英語。為了專注音樂發展而從高中中途退學\[1\]。2000年當時是中學2年級生的他參加了東京電視的『ASAYAN』的選秀會。雖然在最後一關落選，但因為這個節目而認識了[ATSUSHI](https://zh.wikipedia.org/wiki/ATSUSHI "wikilink")。
+是混血兒，父親是非洲系美國人，而母親是日本人。因為出生和成長都在日本，所以幾乎不會說英語。為了專注音樂發展而從高中中途退學\[1\]。2000年當時是中學2年級生的他參加了東京電視的『ASAYAN』的選秀會。雖然在最後一關落選，但因為這個節目而認識了[ATSUSHI](../Page/ATSUSHI.md "wikilink")。
 
 2001年6月與柏原收史組成二人組合「STEEL」出道。其後一共發行了4張單曲與1張專輯，但之後2002年10月就停止活動。NESMITH回顧當時，說「(當時)完全失去了目標」。
 此後隨著時間過去，對於自己的現狀的感到困惑和焦躁。決心想「就這樣下去可不行」，於是到美國半年於洛杉磯與紐約學習語言。回國後在決明子的專輯「決明子4」的第七首歌「NO
@@ -59,8 +59,7 @@ EXILE](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")」的成�
   - [My Place](../Page/My_Place.md "wikilink")/[J Soul
     Brothers](../Page/J_Soul_Brothers.md "wikilink")
       - M-1「My Place」（作詞：NESMITH / 作曲・編曲：Hitoshi Harukawa）
-  - [THE II AGE](https://zh.wikipedia.org/wiki/THE_II_AGE "wikilink") /
-    [THE SECOND from
+  - [THE II AGE](../Page/THE_II_AGE.md "wikilink") / [THE SECOND from
     EXILE](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")
       - M-10「Dear...」（作詞：NESMITH / 作曲：FAST LANE, Mats Lie Skare）
 
@@ -162,8 +161,7 @@ EXILE](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")」的成�
 [Category:非洲裔混血兒](https://zh.wikipedia.org/wiki/Category:非洲裔混血兒 "wikilink")
 
 1.
-2.  『[月刊EXILE](https://zh.wikipedia.org/wiki/月刊EXILE "wikilink")』2012年12月号
-    P143より
+2.  『[月刊EXILE](../Page/月刊EXILE.md "wikilink")』2012年12月号 P143より
 3.
 4.  2012年6月27日播映的「スッキリ\!\!」
 5.  2010年1月1日播映的『CDTV特別篇！除夕實況演唱2009→2010\]\]』

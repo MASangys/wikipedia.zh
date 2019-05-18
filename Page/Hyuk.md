@@ -20,8 +20,8 @@ with a Star》。
 | ----------- | ------------------------------------------------------------- | ---------------------------------------------------------- | ------ | ---------- | ------ |
 | **日期 (首播)** | **電視台**                                                       | **戲劇名稱**                                                   | **性質** | **演出角色**   | **備註** |
 | 2014年4月26日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")           | |[心情好的日子](https://zh.wikipedia.org/wiki/心情好的日子 "wikilink") | 客串     | HYUK（VIXX） | EP.43  |
-| 2017年10月24日 | [Naver TV](https://zh.wikipedia.org/wiki/Naver_TV "wikilink") | [羅曼史特別法](https://zh.wikipedia.org/wiki/羅曼史特別法 "wikilink")  | 主演     | 姜世雄        |        |
-| 2019年下半年    | [tvN](../Page/tvN.md "wikilink")                              | 魏大韩秀                                                       |        | 崔政宇        |        |
+| 2017年10月24日 | [Naver TV](https://zh.wikipedia.org/wiki/Naver_TV "wikilink") | [羅曼史特別法](../Page/羅曼史特別法.md "wikilink")                     | 主演     | 姜世雄        |        |
+| 2019年下半年    | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")           | 魏大韩秀                                                       |        | 崔政宇        |        |
 
 ### 電影
 
@@ -54,14 +54,14 @@ with a Star》。
 
 ### 創作歌曲
 
-|             |                                                                                                           |                                                                       |          |                            |            |                   |        |
-| ----------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------- | -------------------------- | ---------- | ----------------- | ------ |
-| **發表日期**    | **歌曲名稱**                                                                                                  | **收錄專輯**                                                              | **演唱歌手** | **作曲**                     | **作詞**     | **編曲**            | **備註** |
-| 2016年11月21日 | [Milky Way](https://www.youtube.com/watch?v=-f_AfN9CNmQ&list=PLZB7NouMpfwk32m3m2JIwVacpzz1mWT-5&index=20) | VIXX 2016 CONCEPTION KER                                              | VIXX     | Justin Reinstein           | HYUK 、RAVI | Justin Reinstein  |        |
-| 2017年1月25日  | [안아줄게](https://www.youtube.com/watch?v=dof_WKWTino)                                                       |                                                                       | HYUK     | HYUK                       | HYUK       | Kim Doo Hyun      | 網路發表   |
-| 2018年3月12日  | Good Day                                                                                                  | 《[EAU DE VIXX](https://zh.wikipedia.org/wiki/EAU_DE_VIXX "wikilink")》 | VIXX     | HYUK、freckle face          | HYUK 、RAVI | freckle face、Wkly |        |
-| 2018年3月12日  | Trigger                                                                                                   | 《[EAU DE VIXX](https://zh.wikipedia.org/wiki/EAU_DE_VIXX "wikilink")》 | VIXX     | HYUK、Royal Dive、Jeff Lewis | RAVI、金美辰   | Devine Channel    |        |
-| 2018年3月12日  | Navy & Shining Gold                                                                                       | 《[EAU DE VIXX](https://zh.wikipedia.org/wiki/EAU_DE_VIXX "wikilink")》 | VIXX     | KEN、RAVI、HYUK、IVeR         | RAVI       | IVeR              |        |
+|             |                                                                                                           |                                                    |          |                            |            |                   |        |
+| ----------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------- | -------------------------- | ---------- | ----------------- | ------ |
+| **發表日期**    | **歌曲名稱**                                                                                                  | **收錄專輯**                                           | **演唱歌手** | **作曲**                     | **作詞**     | **編曲**            | **備註** |
+| 2016年11月21日 | [Milky Way](https://www.youtube.com/watch?v=-f_AfN9CNmQ&list=PLZB7NouMpfwk32m3m2JIwVacpzz1mWT-5&index=20) | VIXX 2016 CONCEPTION KER                           | VIXX     | Justin Reinstein           | HYUK 、RAVI | Justin Reinstein  |        |
+| 2017年1月25日  | [안아줄게](https://www.youtube.com/watch?v=dof_WKWTino)                                                       |                                                    | HYUK     | HYUK                       | HYUK       | Kim Doo Hyun      | 網路發表   |
+| 2018年3月12日  | Good Day                                                                                                  | 《[EAU DE VIXX](../Page/EAU_DE_VIXX.md "wikilink")》 | VIXX     | HYUK、freckle face          | HYUK 、RAVI | freckle face、Wkly |        |
+| 2018年3月12日  | Trigger                                                                                                   | 《[EAU DE VIXX](../Page/EAU_DE_VIXX.md "wikilink")》 | VIXX     | HYUK、Royal Dive、Jeff Lewis | RAVI、金美辰   | Devine Channel    |        |
+| 2018年3月12日  | Navy & Shining Gold                                                                                       | 《[EAU DE VIXX](../Page/EAU_DE_VIXX.md "wikilink")》 | VIXX     | KEN、RAVI、HYUK、IVeR         | RAVI       | IVeR              |        |
 
 ## Fan Meeting
 

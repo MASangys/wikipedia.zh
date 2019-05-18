@@ -4,15 +4,15 @@ Workstation**是[VMware公司推出的一款桌面虚拟计算软件](../Page/VM
 Workstation發表12版，[VMware
 Player轉型為VMware](https://zh.wikipedia.org/wiki/VMware_Player "wikilink")
 Workstation的免費版並改名為[VMware Workstation
-Player](https://zh.wikipedia.org/wiki/VMware_Workstation_Player "wikilink")，VMware
+Player](../Page/VMware_Workstation_Player.md "wikilink")，VMware
 Workstation的付費版定名為VMware Workstation Pro。
 
 ## 功能特点
 
 该软件可以使多个虚拟机（或称客户机）在同一个宿主机中运行。每个虚拟机相互独立，拥有各自的[操作系统](../Page/操作系统.md "wikilink")；并且各虚拟机以及宿主机相互独立，互不影响，可独立进行操作及运行[应用程序](../Page/应用程序.md "wikilink")。其中一台虚拟机关机或发生故障，不会影响其他的虚拟机及宿主机。
 
-[64位虚拟机操作系统只能运行在](https://zh.wikipedia.org/wiki/64位 "wikilink")64位处理器的计算机上，且[BIOS要相容支援](../Page/BIOS.md "wikilink")[x86虚拟化技术](../Page/x86虚拟化.md "wikilink")\[1\]。[Intel的](https://zh.wikipedia.org/wiki/Intel "wikilink")64位处理器如果不是硬件支援[Intel
-VT技术](../Page/x86虚拟化.md "wikilink")，就不支援分段[长模式](https://zh.wikipedia.org/wiki/长模式 "wikilink")\[2\]。
+[64位虚拟机操作系统只能运行在](https://zh.wikipedia.org/wiki/64位 "wikilink")64位处理器的计算机上，且[BIOS要相容支援](../Page/BIOS.md "wikilink")[x86虚拟化技术](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink")\[1\]。[Intel的](https://zh.wikipedia.org/wiki/Intel "wikilink")64位处理器如果不是硬件支援[Intel
+VT技术](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink")，就不支援分段[长模式](https://zh.wikipedia.org/wiki/长模式 "wikilink")\[2\]。
 
 ## 版本历史
 
@@ -95,7 +95,7 @@ VT技术](../Page/x86虚拟化.md "wikilink")，就不支援分段[长模式](ht
 <tr class="odd">
 <td><p>10.0</p></td>
 <td><p>2013年9月3日</p></td>
-<td><p>在虚拟机环境下支持<a href="https://zh.wikipedia.org/wiki/Windows_8.1" title="wikilink">Windows 8.1</a>、<a href="../Page/Windows_Server_2012.md" title="wikilink">Windows Server 2012 R2</a>、<a href="../Page/Ubuntu.md" title="wikilink">Ubuntu 13.10宿主机</a>，并强化USB 3.0<a href="https://zh.wikipedia.org/wiki/串流" title="wikilink">串流功能</a>。<br />
+<td><p>在虚拟机环境下支持<a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1</a>、<a href="../Page/Windows_Server_2012.md" title="wikilink">Windows Server 2012 R2</a>、<a href="../Page/Ubuntu.md" title="wikilink">Ubuntu 13.10宿主机</a>，并强化USB 3.0<a href="https://zh.wikipedia.org/wiki/串流" title="wikilink">串流功能</a>。<br />
 <a href="../Page/硬件.md" title="wikilink">硬件</a><a href="https://zh.wikipedia.org/wiki/存储设备" title="wikilink">存储设备支持高达</a>8 <a href="https://zh.wikipedia.org/wiki/Terabyte" title="wikilink">Terabyte传统</a><a href="https://zh.wikipedia.org/wiki/硬碟" title="wikilink">硬碟和</a><a href="https://zh.wikipedia.org/wiki/固态硬碟" title="wikilink">固态硬碟</a>、16核心<a href="https://zh.wikipedia.org/wiki/处理器" title="wikilink">处理器</a>（16 vCPUs）、新型虚拟<a href="../Page/SATA.md" title="wikilink">SATA界面控制</a>。</p></td>
 </tr>
 <tr class="even">

@@ -16,7 +16,7 @@ Qi規格第一卷（低功率部份，5W以下）於2010年推出，目前已有
   - 1.0
     最初的版本。目前智慧型手機上所搭載的Qi多依據這個版本。
   - 1.1
-    原先使用的只有電磁感應方式，本版加入了[電磁諧振方式](https://zh.wikipedia.org/wiki/諧振感應耦合 "wikilink")。\[4\]。
+    原先使用的只有電磁感應方式，本版加入了[電磁諧振方式](../Page/諧振感應耦合.md "wikilink")。\[4\]。
   - 1.2.1
     主要為加入中功率產品的規範
 
@@ -43,9 +43,9 @@ Qi規格第一卷（低功率部份，5W以下）於2010年推出，目前已有
         RS](https://zh.wikipedia.org/wiki/Mate_20_RS "wikilink")
       - [Mate RS](https://zh.wikipedia.org/wiki/Mate_RS "wikilink")
   - 小米
-      - [小米MIX 2S](https://zh.wikipedia.org/wiki/小米MIX_2S "wikilink")
-      - [小米MIX 3](https://zh.wikipedia.org/wiki/小米MIX_3 "wikilink")
-      - [小米9](https://zh.wikipedia.org/wiki/小米9 "wikilink")
+      - [小米MIX 2S](../Page/小米MIX_2S.md "wikilink")
+      - [小米MIX 3](../Page/小米MIX_3.md "wikilink")
+      - [小米9](../Page/小米9.md "wikilink")
   - ASUS
       - [PadFone S](https://zh.wikipedia.org/wiki/PadFone_S "wikilink")
   - Razer
@@ -77,10 +77,9 @@ Qi規格第一卷（低功率部份，5W以下）於2010年推出，目前已有
       - [Lumia 720](https://zh.wikipedia.org/wiki/Lumia_720 "wikilink")
   - Google
       - [Nexus 4](../Page/Nexus_4.md "wikilink")
-      - [Nexus 5](https://zh.wikipedia.org/wiki/Nexus_5 "wikilink")
-      - [Nexus 7
-        (2013)](https://zh.wikipedia.org/wiki/Nexus_7_\(2013\) "wikilink")
-      - [Nexus 6](https://zh.wikipedia.org/wiki/Nexus_6 "wikilink")
+      - [Nexus 5](../Page/Nexus_5.md "wikilink")
+      - [Nexus 7 (2013)](../Page/Nexus_7_\(2013\).md "wikilink")
+      - [Nexus 6](../Page/Nexus_6.md "wikilink")
   - PHILIPS
       - [S8860](https://zh.wikipedia.org/wiki/S8860 "wikilink")
   - SAMSUNG
@@ -120,12 +119,10 @@ Qi規格第一卷（低功率部份，5W以下）於2010年推出，目前已有
 
 Sony
 
-  -   - [Sony Xperia
-        XZ2](https://zh.wikipedia.org/wiki/Sony_Xperia_XZ2 "wikilink")/[Sony
+  -   - [Sony Xperia XZ2](../Page/Sony_Xperia_XZ2.md "wikilink")/[Sony
         Xperia XZ2
-        Premium](https://zh.wikipedia.org/wiki/Sony_Xperia_XZ2_Premium "wikilink")
-      - [Sony Xperia
-        XZ3](https://zh.wikipedia.org/wiki/Sony_Xperia_XZ3 "wikilink")
+        Premium](../Page/Sony_Xperia_XZ2_Premium.md "wikilink")
+      - [Sony Xperia XZ3](../Page/Sony_Xperia_XZ3.md "wikilink")
 
   - ZTE
 
@@ -133,7 +130,7 @@ Sony
 
   - LG
 
-      - [LG G3](https://zh.wikipedia.org/wiki/LG_G3 "wikilink")
+      - [LG G3](../Page/LG_G3.md "wikilink")
       - LG G6 PLUS
       - LG G7
 
@@ -251,7 +248,7 @@ Alliance（PMA）\[7\]與Alliance for WirelessPower（A4WP）\[8\]。
 
 ## 相關條目
 
-  - [無線充電](https://zh.wikipedia.org/wiki/無線充電 "wikilink")
+  - [無線充電](../Page/無線充電.md "wikilink")
   - [无线能量传输](https://zh.wikipedia.org/wiki/无线能量传输 "wikilink")
 
 ## 附註或參考資料

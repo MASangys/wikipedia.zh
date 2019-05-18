@@ -36,7 +36,8 @@ Best](../Page/Single_Best.md "wikilink")》同時發行；本專輯收錄了B面
 4.  **[graybee](https://zh.wikipedia.org/wiki/一個人的遊戲 "wikilink")**
       -
         2nd專輯收錄曲。
-5.  **[one's heart](../Page/invitation_\(柴咲幸單曲\).md "wikilink")**
+5.  **[one's
+    heart](https://zh.wikipedia.org/wiki/invitation_\(柴咲幸單曲\) "wikilink")**
       -
         10th單曲B面曲。專輯首次收錄。
 6.  **[色恋粉雪](https://zh.wikipedia.org/wiki/Glitter_\(柴咲幸單曲\) "wikilink")**
@@ -65,7 +66,7 @@ Best](../Page/Single_Best.md "wikilink")》同時發行；本專輯收錄了B面
 13. **[no fear](../Page/Trust_my_feelings.md "wikilink")**
       -
         1st單曲B面曲。專輯首次收錄。
-14. **[分身](../Page/actuality.md "wikilink")**
+14. **[分身](https://zh.wikipedia.org/wiki/actuality "wikilink")**
       -
         11th單曲通常盤B面曲。
 15. **小さな部屋**

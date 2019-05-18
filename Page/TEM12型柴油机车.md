@@ -1,4 +1,4 @@
-**TEM12型柴油机车**（）是[苏联铁路的](../Page/苏联铁路运输.md "wikilink")[调车](../Page/调车机车.md "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由[柳季诺沃内燃机车制造厂设计制造](../Page/柳季诺沃内燃机车制造厂.md "wikilink")，于1978年研制成功，仅试制了一台并未投入批量生产。该型机车是根据[苏联黑色冶金工业部的要求](https://zh.wikipedia.org/wiki/苏联黑色冶金工业部 "wikilink")、为冶金工厂企业而研制的电力传动调车柴油机车，具有与[TGM6A型液力传动柴油机车近似的牵引性能](https://zh.wikipedia.org/wiki/TGM6型柴油机车 "wikilink")\[1\]。
+**TEM12型柴油机车**（）是[苏联铁路的](../Page/苏联铁路运输.md "wikilink")[调车](../Page/调车机车.md "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由[柳季诺沃内燃机车制造厂设计制造](../Page/柳季诺沃内燃机车制造厂.md "wikilink")，于1978年研制成功，仅试制了一台并未投入批量生产。该型机车是根据[苏联黑色冶金工业部的要求](https://zh.wikipedia.org/wiki/苏联黑色冶金工业部 "wikilink")、为冶金工厂企业而研制的电力传动调车柴油机车，具有与[TGM6A型液力传动柴油机车近似的牵引性能](../Page/TGM6型柴油机车.md "wikilink")\[1\]。
 
 ## 技术特点
 
@@ -15,7 +15,7 @@ TEM12型柴油机车的最大特点，是采用了组合驱动式轮对。每台
 
   - [TEM5型柴油机车](../Page/TEM5型柴油机车.md "wikilink")
   - [TEM6型柴油机车](../Page/TEM6型柴油机车.md "wikilink")
-  - [TGM6型柴油机车](https://zh.wikipedia.org/wiki/TGM6型柴油机车 "wikilink")
+  - [TGM6型柴油机车](../Page/TGM6型柴油机车.md "wikilink")
 
 ## 参考文献
 

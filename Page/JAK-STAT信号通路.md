@@ -1,6 +1,6 @@
 **JAK-STAT信号传送途径**（）使得细胞外的化学信号跨越细胞膜并将信息传送到细胞核内DNA上的基因启动子上，最终引起细胞中DNA转录与活性水平发生改变。JAK-STAT系统是除了[第二信使系统外最重要的信号途径](../Page/第二信使系统.md "wikilink")。
 
-JAK-STAT系统由三个主要部分组成：（1）受体、（2）[JAK激酶与](https://zh.wikipedia.org/wiki/JAK激酶 "wikilink")（3）信号转导及转录激活蛋白（[STAT](https://zh.wikipedia.org/wiki/STAT蛋白 "wikilink")）\[1\]。
+JAK-STAT系统由三个主要部分组成：（1）受体、（2）[JAK激酶与](../Page/JAK激酶.md "wikilink")（3）信号转导及转录激活蛋白（[STAT](https://zh.wikipedia.org/wiki/STAT蛋白 "wikilink")）\[1\]。
 
 白细胞中表达了许多JAK-STAT通路，并因此参与免疫系统的调控。
 
@@ -14,7 +14,7 @@ JAK-STAT途径是进化保守的，从黏菌和蠕虫到哺乳动物（但真菌
 
 [Jakstat_pathway_(zh-cn).svg](https://zh.wikipedia.org/wiki/File:Jakstat_pathway_\(zh-cn\).svg "fig:Jakstat_pathway_(zh-cn).svg")
 
-具有[酪氨酸激酶活性的JAK类结合在一些细胞表面的](https://zh.wikipedia.org/wiki/酪氨酸激酶 "wikilink")[细胞因子受体上](https://zh.wikipedia.org/wiki/细胞因子受体 "wikilink")；[配体结合到受体引发激活了JAK类](https://zh.wikipedia.org/wiki/配体_\(生物化学\) "wikilink")；随着激酶活性增加，JAK可以[磷酸化受体上的一些](../Page/磷酸化.md "wikilink")[酪氨酸残基并产生出可以与含结合](../Page/酪氨酸.md "wikilink")[磷酸酪氨酸](https://zh.wikipedia.org/wiki/磷酸酪氨酸 "wikilink")[SH2结构域的蛋白相互作用的位点](https://zh.wikipedia.org/wiki/SH2结构域 "wikilink")；含有SH2结构域（具有结合这些磷酸酪氨酸残基的能力）的STAT类被招募到受体，并被JAK类酪氨酸磷酸化；接着这些磷酸酪氨酸当作其它STAT类SH2结构域的结合位点，介导它们二聚化；各类STAT可形成[异或](https://zh.wikipedia.org/wiki/异二聚体 "wikilink")[同二聚体](https://zh.wikipedia.org/wiki/同二聚体 "wikilink")；被激活的STAT二聚体聚集到[细胞核中并激活其靶点基因转录](https://zh.wikipedia.org/wiki/细胞核 "wikilink")\[4\]；[受体酪氨酸激酶类可能直接使STAT类的酪氨酸磷酸化](https://zh.wikipedia.org/wiki/受体酪氨酸激酶 "wikilink")，例如[表皮生长因子受体](https://zh.wikipedia.org/wiki/表皮生长因子受体 "wikilink")；STAT类也可受到例如[c-src等非受体](https://zh.wikipedia.org/wiki/Src_\(基因\) "wikilink")[酪氨酸激酶的磷酸化](https://zh.wikipedia.org/wiki/酪氨酸激酶 "wikilink")。
+具有[酪氨酸激酶活性的JAK类结合在一些细胞表面的](https://zh.wikipedia.org/wiki/酪氨酸激酶 "wikilink")[细胞因子受体上](../Page/细胞因子受体.md "wikilink")；[配体结合到受体引发激活了JAK类](https://zh.wikipedia.org/wiki/配体_\(生物化学\) "wikilink")；随着激酶活性增加，JAK可以[磷酸化受体上的一些](../Page/磷酸化.md "wikilink")[酪氨酸残基并产生出可以与含结合](../Page/酪氨酸.md "wikilink")[磷酸酪氨酸](https://zh.wikipedia.org/wiki/磷酸酪氨酸 "wikilink")[SH2结构域的蛋白相互作用的位点](../Page/SH2结构域.md "wikilink")；含有SH2结构域（具有结合这些磷酸酪氨酸残基的能力）的STAT类被招募到受体，并被JAK类酪氨酸磷酸化；接着这些磷酸酪氨酸当作其它STAT类SH2结构域的结合位点，介导它们二聚化；各类STAT可形成[异或](https://zh.wikipedia.org/wiki/异二聚体 "wikilink")[同二聚体](https://zh.wikipedia.org/wiki/同二聚体 "wikilink")；被激活的STAT二聚体聚集到[细胞核中并激活其靶点基因转录](https://zh.wikipedia.org/wiki/细胞核 "wikilink")\[4\]；[受体酪氨酸激酶类可能直接使STAT类的酪氨酸磷酸化](https://zh.wikipedia.org/wiki/受体酪氨酸激酶 "wikilink")，例如[表皮生长因子受体](../Page/表皮生长因子受体.md "wikilink")；STAT类也可受到例如[c-src等非受体](https://zh.wikipedia.org/wiki/Src_\(基因\) "wikilink")[酪氨酸激酶的磷酸化](https://zh.wikipedia.org/wiki/酪氨酸激酶 "wikilink")。
 
 此途径在多个水平上受到负调控。[蛋白酪氨酸磷酸酶类会移除细胞因子受体和活化的STAT类上的磷酸基团](../Page/蛋白酪氨酸磷酸酶.md "wikilink")\[5\]。新近鉴定出的[细胞因子信号抑制物](https://zh.wikipedia.org/wiki/细胞因子信号抑制物 "wikilink")（SOCS）通过结合并抑制JAK类亦或与STAT类竞争细胞因子受体上的磷酸酪氨酸位点，从而抑制STAT的磷酸化\[6\]。STAT类亦受到[活化STAT蛋白抑制剂](https://zh.wikipedia.org/wiki/活化STAT蛋白抑制剂 "wikilink")（PIAS）的负性调控，其在核内通过多种机制发挥作用\[7\]。例如，PIAS1与PIAS3分别抑制由STAT1与STAT3引起的转录激活，机制是通过结合并阻止它们进入其识别的DNA序列。
 

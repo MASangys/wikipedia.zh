@@ -20,7 +20,7 @@ Style》\[3\] （《[終極一班3](../Page/終極一班3.md "wikilink")》主�
 
 | 歌名               | 執導                                                  | 首播時間                                                   | 首播媒介                                                   |
 | ---------------- | --------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
-| 發飆（SpeXial版）     | [游紹](https://zh.wikipedia.org/wiki/游紹 "wikilink")   | 2012年12月10日                                            | [YouTube](https://www.youtube.com/watch?v=WR6Bg-jHr-c) |
+| 發飆（SpeXial版）     | [游紹](../Page/游紹.md "wikilink")                      | 2012年12月10日                                            | [YouTube](https://www.youtube.com/watch?v=WR6Bg-jHr-c) |
 | 慶祝寂寞             | [比爾賈](https://zh.wikipedia.org/wiki/比爾賈 "wikilink") | 2012年12月19日                                            | [YouTube](https://www.youtube.com/watch?v=gPH2tbFqukI) |
 | Super Style\[4\] | 2013年1月9日                                           | [YouTube](https://www.youtube.com/watch?v=RrdBp-5U3YE) |                                                        |
 

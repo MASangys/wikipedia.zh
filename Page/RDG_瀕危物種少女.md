@@ -1,5 +1,5 @@
 《**RDG
-瀕危物種少女**》（）是[日本作家](../Page/日本.md "wikilink")[荻原規子所寫的](https://zh.wikipedia.org/wiki/荻原規子 "wikilink")[奇幻小说系列](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")，[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")、[角川文庫版的插圖均由](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")負責，[角川Sneaker文庫版的插圖則由](../Page/角川Sneaker文庫.md "wikilink")[岸田梅爾負責](../Page/岸田梅爾.md "wikilink")。2008年7月到2012年11月由[角川書店出版發行](../Page/角川書店.md "wikilink")。
+瀕危物種少女**》（）是[日本作家](../Page/日本.md "wikilink")[荻原規子所寫的](../Page/荻原規子.md "wikilink")[奇幻小说系列](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")，[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")、[角川文庫版的插圖均由](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")負責，[角川Sneaker文庫版的插圖則由](../Page/角川Sneaker文庫.md "wikilink")[岸田梅爾負責](../Page/岸田梅爾.md "wikilink")。2008年7月到2012年11月由[角川書店出版發行](../Page/角川書店.md "wikilink")。
 
 [電視動畫版角色原案由岸田梅爾負責](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，動畫製作公司為[P.A.
 Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2013年4月至6月播放。[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")（[角川書店](../Page/角川書店.md "wikilink")）2012年12月號（2012年10月26日發售）漫畫版連載開始，作畫由負責\[1\]。
@@ -288,7 +288,7 @@ Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2013年4月至6
 
 ## 漫畫
 
-《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》（[角川書店](../Page/角川書店.md "wikilink")）2012年12月號開始連載。角色原案由[岸田梅爾擔任](../Page/岸田梅爾.md "wikilink")，作畫由負責，至2014年9月號已完結，全5卷。並在每一卷的封底和無書衣的封面收錄了琴音蘭丸畫的4格漫畫。另外在漫畫第4卷收錄了由原作者[荻原規子描寫的短篇小說](https://zh.wikipedia.org/wiki/荻原規子 "wikilink")『』。
+《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》（[角川書店](../Page/角川書店.md "wikilink")）2012年12月號開始連載。角色原案由[岸田梅爾擔任](../Page/岸田梅爾.md "wikilink")，作畫由負責，至2014年9月號已完結，全5卷。並在每一卷的封底和無書衣的封面收錄了琴音蘭丸畫的4格漫畫。另外在漫畫第4卷收錄了由原作者[荻原規子描寫的短篇小說](../Page/荻原規子.md "wikilink")『』。
 
 故事依照動畫版內容進行，並追加了動畫未播出或被刪除的原作章節故事內容。而原作第5卷和動畫版的最後一集也同樣漫畫化收錄在單行本，已完結。
 
@@ -338,11 +338,11 @@ Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2013年4月至6
 
 ### 製作人員
 
-  - 原作：[荻原規子](https://zh.wikipedia.org/wiki/荻原規子 "wikilink")（[角川書店](../Page/角川書店.md "wikilink")／角川銀之匙系列、角川文庫連載）
+  - 原作：[荻原規子](../Page/荻原規子.md "wikilink")（[角川書店](../Page/角川書店.md "wikilink")／角川銀之匙系列、角川文庫連載）
   - 監督：篠原俊哉
   - 系列構成、劇本：[横手美智子](../Page/横手美智子.md "wikilink")
   - 角色原案：[岸田梅爾](../Page/岸田梅爾.md "wikilink")
-  - 角色設計、總作畫監督 ：[芝美奈子](https://zh.wikipedia.org/wiki/芝美奈子 "wikilink")
+  - 角色設計、總作畫監督 ：[芝美奈子](../Page/芝美奈子.md "wikilink")
   - 美術監督：[東潤一](https://zh.wikipedia.org/wiki/東潤一 "wikilink")
   - 色彩設計：中野尚美
   - 攝影監督：梶原幸代
@@ -353,13 +353,13 @@ Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2013年4月至6
   - 音響效果：森川永子
   - 音樂：myu、[伊藤真澄](../Page/伊藤真澄.md "wikilink")
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")
-  - 動畫製作：[P.A.WORKS](../Page/P.A.WORKS.md "wikilink")
+  - 動畫製作：[P.A.WORKS](https://zh.wikipedia.org/wiki/P.A.WORKS "wikilink")
   - 製作：「RDG」製作委員會
 
 ### 主題曲
 
   - 片頭曲「」
-    主唱、作詞：[Annabel](https://zh.wikipedia.org/wiki/Annabel "wikilink")，作曲、編曲：myu
+    主唱、作詞：[Annabel](../Page/Annabel.md "wikilink")，作曲、編曲：myu
 
 **片尾曲**
 
@@ -501,7 +501,7 @@ Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2013年4月至6
 <td><p>最初的拒絕</p></td>
 <td><p>室井富美江</p></td>
 <td><p>平向智子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/門智昭" title="wikilink">門智昭</a>、<a href="../Page/野田康行.md" title="wikilink">野田康行</a><br />
+<td><p><a href="../Page/門智昭.md" title="wikilink">門智昭</a>、<a href="../Page/野田康行.md" title="wikilink">野田康行</a><br />
 明珍宇作</p></td>
 <td></td>
 <td></td>
@@ -526,22 +526,22 @@ Network的评论家塞隆](https://zh.wikipedia.org/wiki/Anime_News_Network "wik
 
 ### 播放電視台
 
-| 播放地區                                                | 播放電視台                                                         | 播放日期                | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播網                                                     | 備註      |
-| --------------------------------------------------- | ------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------- |
-| 先行放送                                                |                                                               |                     |                                                                                                               |                                                           |         |
-| 日本全國                                                | [NICONICO直播](../Page/NICONICO動畫.md "wikilink")                | 2013年3月16日 - 6月1日   | 星期六 23時30分 - 24時00分                                                                                           | [網路電視](https://zh.wikipedia.org/wiki/網路電視 "wikilink")     | 時間移位非對應 |
-| 正式放送                                                |                                                               |                     |                                                                                                               |                                                           |         |
-| [東京都](../Page/東京都.md "wikilink")                    | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2013年4月3日 - 6月19日   | 星期三 25時00分 - 25時30分                                                                                           | [獨立UHF局](https://zh.wikipedia.org/wiki/獨立UHF局 "wikilink") |         |
-| [富山縣](../Page/富山縣.md "wikilink")                    | [北日本放送](https://zh.wikipedia.org/wiki/北日本放送 "wikilink")       | 星期三 25時58分 - 26時28分 | [日本電視網](https://zh.wikipedia.org/wiki/日本電視網 "wikilink")                                                       | P.A.WORKS的所在地                                             |         |
-| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")     | 星期三 26時00分 - 26時30分 | 獨立UHF局                                                                                                        |                                                           |         |
-| [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink") | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                      | 星期三 26時40分 - 27時10分 | [東京電視網](../Page/東京電視網.md "wikilink")                                                                          |                                                           |         |
-| [岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink") | [岐阜放送](../Page/岐阜放送.md "wikilink")                            | 2013年4月4日 - 6月20日   | 星期四 25時45分 - 26時15分                                                                                           | 獨立UHF局                                                    |         |
-| [三重縣](https://zh.wikipedia.org/wiki/三重縣 "wikilink") | [三重電視台](../Page/三重電視台.md "wikilink")                          | 星期四 26時20分 - 26時50分 |                                                                                                               |                                                           |         |
-| [千葉縣](../Page/千葉縣.md "wikilink")                    | [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")       | 2013年4月5日 - 6月21日   | 星期五 25時30分 - 26時00分                                                                                           |                                                           |         |
-| 日本全國                                                | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 星期五 27時00分 - 27時30分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | [ANIME+節目](../Page/ANIME+.md "wikilink")                  |         |
-| [埼玉縣](../Page/埼玉縣.md "wikilink")                    | [埼玉電視台](../Page/埼玉電視台.md "wikilink")                          | 2013年4月7日 - 6月23日   | 星期日 24時30分 - 25時00分                                                                                           | 獨立UHF局                                                    |         |
-| [神奈川縣](../Page/神奈川縣.md "wikilink")                  | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                        |                     |                                                                                                               |                                                           |         |
-| 日本全國                                                | KIDS STATION                                                  | 2013年4月9日 - 6月25日   | 星期二 24時00分 - 24時30分                                                                                           | 衛星電視                                                      | 有重播     |
+| 播放地區                                                | 播放電視台                                                             | 播放日期                | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播網                                                     | 備註      |
+| --------------------------------------------------- | ----------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------- |
+| 先行放送                                                |                                                                   |                     |                                                                                                               |                                                           |         |
+| 日本全國                                                | [NICONICO直播](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 2013年3月16日 - 6月1日   | 星期六 23時30分 - 24時00分                                                                                           | [網路電視](https://zh.wikipedia.org/wiki/網路電視 "wikilink")     | 時間移位非對應 |
+| 正式放送                                                |                                                                   |                     |                                                                                                               |                                                           |         |
+| [東京都](../Page/東京都.md "wikilink")                    | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")     | 2013年4月3日 - 6月19日   | 星期三 25時00分 - 25時30分                                                                                           | [獨立UHF局](https://zh.wikipedia.org/wiki/獨立UHF局 "wikilink") |         |
+| [富山縣](../Page/富山縣.md "wikilink")                    | [北日本放送](https://zh.wikipedia.org/wiki/北日本放送 "wikilink")           | 星期三 25時58分 - 26時28分 | [日本電視網](https://zh.wikipedia.org/wiki/日本電視網 "wikilink")                                                       | P.A.WORKS的所在地                                             |         |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")         | 星期三 26時00分 - 26時30分 | 獨立UHF局                                                                                                        |                                                           |         |
+| [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink") | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                          | 星期三 26時40分 - 27時10分 | [東京電視網](../Page/東京電視網.md "wikilink")                                                                          |                                                           |         |
+| [岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink") | [岐阜放送](../Page/岐阜放送.md "wikilink")                                | 2013年4月4日 - 6月20日   | 星期四 25時45分 - 26時15分                                                                                           | 獨立UHF局                                                    |         |
+| [三重縣](https://zh.wikipedia.org/wiki/三重縣 "wikilink") | [三重電視台](../Page/三重電視台.md "wikilink")                              | 星期四 26時20分 - 26時50分 |                                                                                                               |                                                           |         |
+| [千葉縣](../Page/千葉縣.md "wikilink")                    | [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")           | 2013年4月5日 - 6月21日   | 星期五 25時30分 - 26時00分                                                                                           |                                                           |         |
+| 日本全國                                                | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")             | 星期五 27時00分 - 27時30分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | [ANIME+節目](../Page/ANIME+.md "wikilink")                  |         |
+| [埼玉縣](../Page/埼玉縣.md "wikilink")                    | [埼玉電視台](../Page/埼玉電視台.md "wikilink")                              | 2013年4月7日 - 6月23日   | 星期日 24時30分 - 25時00分                                                                                           | 獨立UHF局                                                    |         |
+| [神奈川縣](../Page/神奈川縣.md "wikilink")                  | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                            |                     |                                                                                                               |                                                           |         |
+| 日本全國                                                | KIDS STATION                                                      | 2013年4月9日 - 6月25日   | 星期二 24時00分 - 24時30分                                                                                           | 衛星電視                                                      | 有重播     |
 
 ## 參考資料
 

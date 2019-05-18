@@ -2,7 +2,7 @@
 Domino**是[IBM的一个服务器产品](../Page/IBM.md "wikilink")，提供了企业级的[电子邮件](../Page/电子邮件.md "wikilink")、[协作能力以及一个可定制的应用平台](https://zh.wikipedia.org/wiki/协作软件 "wikilink")。Domino最早被称为**Lotus
 Notes
 Server**，是[莲花公司的客户端](https://zh.wikipedia.org/wiki/莲花公司 "wikilink")-服务器通信技术的服务器组件。它可以被用作[Lotus
-Notes的应用服务器并](https://zh.wikipedia.org/wiki/IBM_Lotus_Notes "wikilink")/或作为一个网页服务器。它还包含了一个内置的数据库系统，使用NSF格式。其目录服务也可以被用作认证的目的。\[1\]
+Notes的应用服务器并](../Page/IBM_Lotus_Notes.md "wikilink")/或作为一个网页服务器。它还包含了一个内置的数据库系统，使用NSF格式。其目录服务也可以被用作认证的目的。\[1\]
 
 ## 面向文档的数据库
 
@@ -83,9 +83,8 @@ Versions](https://zh.wikipedia.org/wiki/Lotus_Notes#Versions "wikilink").
     access Lotus Domino servers
   - [List of collaborative
     software](https://zh.wikipedia.org/wiki/List_of_collaborative_software "wikilink")
-  - [IBM Lotus
-    Notes](https://zh.wikipedia.org/wiki/IBM_Lotus_Notes "wikilink"),
-    client collaborative software for Lotus Domino server
+  - [IBM Lotus Notes](../Page/IBM_Lotus_Notes.md "wikilink"), client
+    collaborative software for Lotus Domino server
   - [IBM Lotus Notes
     Traveler](https://zh.wikipedia.org/wiki/IBM_Lotus_Notes_Traveler "wikilink"),
     realtime replication of Lotus Domino email and calendars to

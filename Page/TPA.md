@@ -61,8 +61,7 @@
 
 ## 交通
 
-  - [坦帕國際機場](https://zh.wikipedia.org/wiki/坦帕國際機場 "wikilink")（Tampa
-    International Airport）
+  - [坦帕國際機場](../Page/坦帕國際機場.md "wikilink")（Tampa International Airport）
 
   -
   - , Canada

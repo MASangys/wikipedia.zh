@@ -6,13 +6,11 @@ Sonority](https://zh.wikipedia.org/wiki/Genius_Sonority "wikilink")，并为任�
 ### 超级任天堂
 
   - 《[勇者鬥惡龍III 接著邁向傳說](../Page/勇者鬥惡龍III_接著邁向傳說.md "wikilink")》（重制版）
-  - 《[勇者斗恶龙VI
-    幻之大地](https://zh.wikipedia.org/wiki/勇者斗恶龙VI_幻之大地 "wikilink")》
+  - 《[勇者斗恶龙VI 幻之大地](../Page/勇者斗恶龙VI_幻之大地.md "wikilink")》
 
 ### PlayStation
 
-  - 《[勇者斗恶龙VII
-    伊甸的战士们](https://zh.wikipedia.org/wiki/勇者斗恶龙VII_伊甸的战士们 "wikilink")》
+  - 《[勇者斗恶龙VII 伊甸的战士们](../Page/勇者斗恶龙VII_伊甸的战士们.md "wikilink")》
   - 《[勇者斗恶龙IV 被引导的人们](../Page/勇者斗恶龙IV_被引导的人们.md "wikilink")》（重制版）
 
 ## 参考文献

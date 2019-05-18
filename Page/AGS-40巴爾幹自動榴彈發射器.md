@@ -1,5 +1,5 @@
 **AGS-40**（；，，意為：[巴爾幹](../Page/巴尔干半岛.md "wikilink")；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）是一挻由[前苏联研製](../Page/苏联.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")[GNPP
-Pribor設計局生產的](https://zh.wikipedia.org/wiki/GNPP_Pribor設計局 "wikilink")40毫米[自動榴彈發射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，是[AGS-17的大](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")[口徑改進型](https://zh.wikipedia.org/wiki/口徑 "wikilink")，發射40毫米7P39[無彈殼](https://zh.wikipedia.org/wiki/無殼彈 "wikilink")[榴彈](https://zh.wikipedia.org/wiki/榴彈 "wikilink")。
+Pribor設計局生產的](https://zh.wikipedia.org/wiki/GNPP_Pribor設計局 "wikilink")40毫米[自動榴彈發射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，是[AGS-17的大](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")[口徑改進型](https://zh.wikipedia.org/wiki/口徑 "wikilink")，發射40毫米7P39[無彈殼](../Page/無殼彈.md "wikilink")[榴彈](https://zh.wikipedia.org/wiki/榴彈 "wikilink")。
 
 AGS-40裝設在[三腳架](https://zh.wikipedia.org/wiki/三腳架 "wikilink")、[车辆](https://zh.wikipedia.org/wiki/车辆 "wikilink")、[船隻和](../Page/船.md "wikilink")[直升機以上使用](https://zh.wikipedia.org/wiki/直升機 "wikilink")。其設計的目的是摧毀敵方人員及載具，以保護使用方的步兵連。AGS-40已經被[俄羅斯軍隊所採用](https://zh.wikipedia.org/wiki/俄羅斯軍事 "wikilink")。
 
@@ -22,7 +22,7 @@ AGS-40採用[氣動式操作原理和](../Page/氣動式_\(槍械\).md "wikilink
 
 AGS-40榴彈發射器採用可散式彈鏈，從右側供彈。彈鏈由工廠裝填，以專用向部隊提供，每個彈箱能裝兩條彈鏈，共40發。作戰使用時，一個裝著20發彈鏈的彈鼓掛在[機匣右側](https://zh.wikipedia.org/wiki/機匣 "wikilink")。AGS-40發射的彈藥是7P39破片殺傷高爆榴彈，全長132毫米（5.2英吋），重0.45公斤（0.99磅）。發射藥位於彈體尾部，點燃後通過底部4個小孔排出。
 
-與AGS-17一樣，AGS-40以兩個橫向握把來控制射擊，拇指操作扳機位於握把之間，大型位於武器右側。AGS-40使用類似於AGS-17上的的光學瞄準鏡，並針對新彈藥的[彈道特性作了改進](../Page/弹道学.md "wikilink")。另外也配有後備[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")。
+與AGS-17一樣，AGS-40以兩個橫向握把來控制射擊，拇指操作扳機位於握把之間，大型位於武器右側。AGS-40使用類似於AGS-17上的的光學瞄準鏡，並針對新彈藥的[彈道特性作了改進](../Page/弹道学.md "wikilink")。另外也配有後備[機械瞄具](../Page/機械瞄具.md "wikilink")。
 
 AGS-40使用的[三腳架是從AGS](https://zh.wikipedia.org/wiki/三腳架 "wikilink")-17改進而成，並在兩支後腿架之間增加了一個具有座墊的鞍座，使用者可以坐在鞍座上射擊。
 
@@ -54,13 +54,13 @@ AGS-40[1]</p></th>
 <th><p><br />
 <a href="../Page/HK_GMG自動榴彈發射器.md" title="wikilink">HK GMG</a>[3]</p></th>
 <th><p><br />
-<a href="https://zh.wikipedia.org/wiki/丹尼爾Y3自動榴彈發射器" title="wikilink">丹尼爾Y3 AGL</a>[4]</p></th>
+<a href="../Page/丹尼爾Y3自動榴彈發射器.md" title="wikilink">丹尼爾Y3 AGL</a>[4]</p></th>
 <th><p><br />
 </p></th>
 <th><p><br />
 <a href="../Page/大宇K4自動榴彈發射器.md" title="wikilink">大宇K4</a>[5]</p></th>
 <th><p><br />
-<a href="https://zh.wikipedia.org/wiki/豐和96式40毫米自動榴彈發射器" title="wikilink">豐和96式</a>[6]</p></th>
+<a href="../Page/豐和96式40毫米自動榴彈發射器.md" title="wikilink">豐和96式</a>[6]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -187,7 +187,7 @@ N/A</p></td>
 光學或光電<a href="https://zh.wikipedia.org/wiki/瞄準鏡" title="wikilink">瞄準鏡</a>（可選）</p></td>
 <td></td>
 <td><p>AN/PWG-1</p></td>
-<td><p>後備<a href="https://zh.wikipedia.org/wiki/機械瞄具" title="wikilink">機械瞄具</a><br />
+<td><p>後備<a href="../Page/機械瞄具.md" title="wikilink">機械瞄具</a><br />
 反射式瞄準具</p></td>
 <td><p>光學或電子瞄準具（彈道計算機）</p></td>
 <td><p>機械瞄具</p></td>
@@ -215,19 +215,19 @@ N/A</p></td>
   - [BS-1消聲榴彈發射器](../Page/BS-1_Tishina榴彈發射器.md "wikilink")
   - [D型消聲榴彈發射器](https://zh.wikipedia.org/wiki/D型消聲榴彈發射器 "wikilink")
   - [DM型消聲榴彈發射器](https://zh.wikipedia.org/wiki/DM型消聲榴彈發射器 "wikilink")
-  - [DP-64榴彈發射器](https://zh.wikipedia.org/wiki/DP-64榴彈發射器 "wikilink")
+  - [DP-64榴彈發射器](../Page/DP-64榴彈發射器.md "wikilink")
   - [GP-25、GP-30、GP-34榴彈發射器](../Page/GP-25附加型榴彈發射器.md "wikilink")
   - [GM-94榴彈發射器](../Page/GM-94榴彈發射器.md "wikilink")
   - [RG-6轉輪式榴彈發射器](../Page/RG-6轉輪式榴彈發射器.md "wikilink")
-  - [RGM-40榴彈發射器](https://zh.wikipedia.org/wiki/RGM-40榴彈發射器 "wikilink")
-  - [RGS-50榴彈發射器](https://zh.wikipedia.org/wiki/RGS-50榴彈發射器 "wikilink")
+  - [RGM-40榴彈發射器](../Page/RGM-40榴彈發射器.md "wikilink")
+  - [RGS-50榴彈發射器](../Page/RGS-50榴彈發射器.md "wikilink")
   - [87式自動榴彈發射器](../Page/87式自動榴彈發射器.md "wikilink")
-  - [04式自动榴弹发射器](https://zh.wikipedia.org/wiki/04式自动榴弹发射器 "wikilink")
+  - [04式自动榴弹发射器](../Page/04式自动榴弹发射器.md "wikilink")
   - [CIS 40 AGL自动榴弹发射器](../Page/CIS_40_AGL自动榴弹发射器.md "wikilink")
   - [CZW
     RAG-30自动榴弹发射器](https://zh.wikipedia.org/wiki/CZW_RAG-30自动榴弹发射器 "wikilink")
   - [大宇K4自動榴彈發射器](../Page/大宇K4自動榴彈發射器.md "wikilink")
-  - [丹尼爾Y3自動榴彈發射器](https://zh.wikipedia.org/wiki/丹尼爾Y3自動榴彈發射器 "wikilink")
+  - [丹尼爾Y3自動榴彈發射器](../Page/丹尼爾Y3自動榴彈發射器.md "wikilink")
   - [HK GMG自動榴彈發射器](../Page/HK_GMG自動榴彈發射器.md "wikilink")
   - [Mk 19自動榴彈發射器](../Page/Mk_19自動榴彈發射器.md "wikilink")
   - [Mk 47自動榴彈發射器](../Page/Mk_47自動榴彈發射器.md "wikilink")

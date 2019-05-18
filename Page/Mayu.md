@@ -1,5 +1,5 @@
 **MAYU**（）是由EXIT TUNES開發的[VOCALOID
-3女聲虛擬歌手](https://zh.wikipedia.org/wiki/VOCALOID_3 "wikilink")。其軟體演唱語言為日語，為繼[IA之後的第二個由唱片公司推出的VOCALOID](https://zh.wikipedia.org/wiki/IA_\(VOCALOID\) "wikilink")
+3女聲虛擬歌手](https://zh.wikipedia.org/wiki/VOCALOID_3 "wikilink")。其軟體演唱語言為日語，為繼[IA之後的第二個由唱片公司推出的VOCALOID](../Page/IA_\(VOCALOID\).md "wikilink")
 3虛擬歌手（VOCALOID2時代有[歌手音ピコ為音樂出版社](https://zh.wikipedia.org/wiki/歌手音ピコ "wikilink")[Ki/oon
 Records所推出](https://zh.wikipedia.org/wiki/Ki/oon_Records "wikilink")）。
 

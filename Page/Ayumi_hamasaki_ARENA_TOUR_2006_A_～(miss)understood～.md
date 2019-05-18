@@ -16,11 +16,11 @@ DVD特典影像收錄收錄全公演的MC、幕後花絮影像等。
 2.  [Born To
     Be...](https://zh.wikipedia.org/wiki/Startin'/Born_To_Be... "wikilink")
 3.  [AUDIENCE](../Page/AUDIENCE.md "wikilink")
-4.  [evolution](../Page/evolution_\(濱崎步單曲\).md "wikilink")
+4.  [evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")
 5.  [STEP
     you](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")
 6.  [Ladies Night](../Page/\(miss\)understood.md "wikilink")
-7.  [alterna](../Page/fairyland.md "wikilink")
+7.  [alterna](https://zh.wikipedia.org/wiki/fairyland "wikilink")
 8.  [is this
     LOVE?](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")
 9.  [(miss)understood](../Page/\(miss\)understood.md "wikilink")

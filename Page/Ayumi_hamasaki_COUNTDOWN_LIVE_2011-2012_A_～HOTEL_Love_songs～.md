@@ -28,7 +28,7 @@ LIMITED BOX皆有收錄其中（詳情見[Party Queen
 9.  machine
 10. [Sparkle](https://zh.wikipedia.org/wiki/Rule/Sparkle "wikilink")
 11. [Humming 7/4](../Page/MY_STORY.md "wikilink")
-12. [evolution](../Page/evolution_\(濱崎步單曲\).md "wikilink")
+12. [evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")
 13. [RAINBOW](../Page/A_BALLADS.md "wikilink")
 14. [November](../Page/Love_songs_\(濱崎步專輯\).md "wikilink")
 15. music
@@ -36,7 +36,8 @@ LIMITED BOX皆有收錄其中（詳情見[Party Queen
 17. Party queen
 18. Happening Here
 19. [Love song](../Page/Love_songs_\(濱崎步專輯\).md "wikilink")
-20. [how beautiful you are](../Page/how_beautiful_you_are.md "wikilink")
+20. [how beautiful you
+    are](https://zh.wikipedia.org/wiki/how_beautiful_you_are "wikilink")
 21. [Trauma](../Page/A_\(濱崎步單曲\).md "wikilink") ～ [Boys &
     Girls](../Page/Boys_&_Girls.md "wikilink")
 22. [MY ALL](../Page/GUILTY.md "wikilink")

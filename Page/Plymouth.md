@@ -1,6 +1,6 @@
 **Plymouth**是Linux中一種。它支援動畫顯示、使用到 (DRM)
 和基於核心的[顯示模式設定](https://zh.wikipedia.org/wiki/顯示模式設定 "wikilink")
-(KMS)這些技術，並且被包進[initrd](../Page/initrd.md "wikilink")。
+(KMS)這些技術，並且被包進[initrd](https://zh.wikipedia.org/wiki/initrd "wikilink")。
 
 除了看起來比較漂亮,
 Plymouth還能在開機階段和使用者互動[1](http://ubuntuforums.org/showpost.php?p=9153814&postcount=30)。

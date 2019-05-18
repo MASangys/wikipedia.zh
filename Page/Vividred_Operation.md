@@ -139,7 +139,7 @@ Pictures共同的原創動畫企劃](../Page/A-1_Pictures.md "wikilink")。故�
 
   -
     《**WE ARE ONE！**》（第2話）
-    作詞、作曲：佐伯youthK，編曲：宮崎誠，歌唱：一色茜（[佐倉綾音](https://zh.wikipedia.org/wiki/佐倉綾音 "wikilink")）、二葉葵（[村川梨衣](https://zh.wikipedia.org/wiki/村川梨衣 "wikilink")）
+    作詞、作曲：佐伯youthK，編曲：宮崎誠，歌唱：一色茜（[佐倉綾音](https://zh.wikipedia.org/wiki/佐倉綾音 "wikilink")）、二葉葵（[村川梨衣](../Page/村川梨衣.md "wikilink")）
     《**STEREO COLORS**》（第3話）
     作詞、作曲、編曲：DECO\*27，歌唱：一色茜（佐倉綾音）、三枝若葉（[大坪由佳](../Page/大坪由佳.md "wikilink")）
     《**Stray Sheep Story**》（第4話）
@@ -337,7 +337,7 @@ Pictures共同的原創動畫企劃](../Page/A-1_Pictures.md "wikilink")。故�
 </tr>
 <tr class="odd">
 <td><p>日本全國</p></td>
-<td><p><a href="../Page/NICONICO動畫.md" title="wikilink">NICONICO直播</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NICONICO動畫" title="wikilink">NICONICO直播</a></p></td>
 <td><p>2013年1月5日</p></td>
 <td><p>星期五 20時30分 - 20時58分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
@@ -395,7 +395,7 @@ Pictures共同的原創動畫企劃](../Page/A-1_Pictures.md "wikilink")。故�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NICONICO動畫.md" title="wikilink">NICONICO直播</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NICONICO動畫" title="wikilink">NICONICO直播</a></p></td>
 <td><p>2013年1月13日 - 3月31日</p></td>
 <td><p>星期日 22時00分 - 22時30分</p></td>
 <td><p>網路電視</p></td>

@@ -9,7 +9,7 @@
 
 ## 組織
 
-  - [泛非议会](https://zh.wikipedia.org/wiki/泛非议会 "wikilink")（Pan-African
+  - [泛非议会](../Page/泛非议会.md "wikilink")（Pan-African
     Parliament），[非洲聯盟的立法機構](https://zh.wikipedia.org/wiki/非洲聯盟 "wikilink")。
 
   - [人民行动党](../Page/人民行动党.md "wikilink")（），[新加坡独立至今的唯一执政党](https://zh.wikipedia.org/wiki/新加坡独立 "wikilink")，自1959年执政至今。
@@ -34,8 +34,8 @@
   - （Polyadenylate
     polymerase），負責[mRNA尾端修飾的酵素](https://zh.wikipedia.org/wiki/mRNA "wikilink")。
 
-  - [正壓呼吸器](https://zh.wikipedia.org/wiki/正壓呼吸器 "wikilink")（Positive
-    airway pressure），一種用來治療睡眠呼吸暂停的呼吸器
+  - [正壓呼吸器](../Page/正壓呼吸器.md "wikilink")（Positive airway
+    pressure），一種用來治療睡眠呼吸暂停的呼吸器
 
   -
   -

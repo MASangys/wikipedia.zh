@@ -3,7 +3,7 @@
 1997年以前期刊的名字是《*Journal of Physical
 Chemistry*》，由于研究领域的逐渐扩大，在1997年该期刊分为《*Journal
 of Physical Chemistry A*》（分子理论和实验物理化学），和《*Journal of Physical Chemistry
-B*》（[固体](../Page/固体.md "wikilink")、[软物质和](https://zh.wikipedia.org/wiki/软物质 "wikilink")[液体等](../Page/液体.md "wikilink")）。2007年进一步分设《*Journal
+B*》（[固体](../Page/固体.md "wikilink")、[软物质和](../Page/软物质.md "wikilink")[液体等](../Page/液体.md "wikilink")）。2007年进一步分设《*Journal
 of Physical Chemistry
 C*》，用来发表快速发展的[纳米科技和](https://zh.wikipedia.org/wiki/纳米科技 "wikilink")[分子电子学有相关领域的学术成果](https://zh.wikipedia.org/wiki/分子电子学 "wikilink")。
 
@@ -30,7 +30,7 @@ C*》，用来发表快速发展的[纳米科技和](https://zh.wikipedia.org/wi
   - 《[物理化学期刊C](https://zh.wikipedia.org/wiki/物理化学期刊C "wikilink")》（*Journal
     of Physical Chemistry C*）
   - [物理化学](../Page/物理化学.md "wikilink")
-  - [科学期刊](https://zh.wikipedia.org/wiki/科学期刊 "wikilink")
+  - [科学期刊](../Page/科学期刊.md "wikilink")
 
 ## 参考文献
 

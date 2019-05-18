@@ -82,7 +82,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/肖松尼" title="wikilink">肖松尼</a></p></td>
 <td><p>肖松尼文明</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/波卡特洛" title="wikilink">波卡特洛</a></p></td>
+<td><p><a href="../Page/波卡特洛.md" title="wikilink">波卡特洛</a></p></td>
 <td><p><a href="../Page/探路者.md" title="wikilink">探路者</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/科曼切人" title="wikilink">科曼切骑兵</a></p></td>
 <td><p>-</p></td>

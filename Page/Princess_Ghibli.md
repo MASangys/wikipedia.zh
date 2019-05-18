@@ -155,7 +155,7 @@ Yoko Hallelujah</p></td>
 <tr class="even">
 <td><p>10</p></td>
 <td><p><a href="../Page/偶爾也說說昔日吧.md" title="wikilink">偶爾也說說昔日吧</a></p></td>
-<td><p>作詞、作曲：<a href="https://zh.wikipedia.org/wiki/加藤登紀子" title="wikilink">加藤登紀子</a><br />
+<td><p>作詞、作曲：<a href="../Page/加藤登紀子.md" title="wikilink">加藤登紀子</a><br />
 編曲：菅野子</p></td>
 <td><p>加藤登紀子</p></td>
 <td><p>Disarmonia Mundi</p></td>

@@ -63,7 +63,7 @@ J。\[6\]
 </tr>
 <tr class="even">
 <td><p>海选</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中你的毒" title="wikilink">Toxic</a></p></td>
+<td><p><a href="../Page/中你的毒.md" title="wikilink">Toxic</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/布兰妮·斯皮尔斯" title="wikilink">布兰妮·斯皮尔斯</a></p></td>
 <td><p>晋级</p></td>
 </tr>

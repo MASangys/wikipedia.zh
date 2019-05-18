@@ -4,13 +4,13 @@ Moon**》是5人[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子
 ## 發行過程
 
 2012年12月25日，[Cube
-Entertainment社長在他的個人](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[Twitter上向公眾透露](../Page/Twitter.md "wikilink")\[1\]，由成員[4minute成員](../Page/4minute.md "wikilink")[嘉允和](../Page/許嘉允.md "wikilink")[祉潤組成的限定組合](https://zh.wikipedia.org/wiki/田祉潤 "wikilink")2YOON將於一月出道。而專輯已進入後期製作階段，相信專輯不久就會面世。
+Entertainment社長在他的個人](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[Twitter上向公眾透露](../Page/Twitter.md "wikilink")\[1\]，由成員[4minute成員](../Page/4minute.md "wikilink")[嘉允和](../Page/許嘉允.md "wikilink")[祉潤組成的限定組合](../Page/田祉潤.md "wikilink")2YOON將於一月出道。而專輯已進入後期製作階段，相信專輯不久就會面世。
 
 2013年1月7日，官方發佈消息指2YOON將會於1月17日在網上發佈專輯，並進行宣傳活動和作出道舞台。主打曲〈24/7〉由新沙洞老虎、金度勋和李尚浩聯手創作，以[鄉村流行作為音樂類型](https://zh.wikipedia.org/wiki/鄉村流行 "wikilink")。在其後數日發佈概念照和發佈MV。
 
 ## 專輯風格
 
-主打曲〈24/7〉由[新沙洞老虎](https://zh.wikipedia.org/wiki/新沙洞老虎 "wikilink")、金度勋和李尚浩聯手創作，以[鄉村流行作為音樂類型](https://zh.wikipedia.org/wiki/鄉村流行 "wikilink")。
+主打曲〈24/7〉由[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")、金度勋和李尚浩聯手創作，以[鄉村流行作為音樂類型](https://zh.wikipedia.org/wiki/鄉村流行 "wikilink")。
 
 ## 曲目名單
 

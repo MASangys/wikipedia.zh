@@ -20,7 +20,8 @@ Records](../Page/DefSTAR_Records.md "wikilink")。\[5\]該組合2012年8月正�
 
 **2011年**
 
-1.  エナプラス＋ （[LOVEPLUS](../Page/LOVEPLUS.md "wikilink")：高嶺愛花）
+1.  エナプラス＋
+    （[LOVEPLUS](https://zh.wikipedia.org/wiki/LOVEPLUS "wikilink")：高嶺愛花）
 2.  えなことLOVEる （[出包王女](../Page/出包王女.md "wikilink")：金色闇影）
 3.  東方えなこりん
     （[東方Project](https://zh.wikipedia.org/wiki/東方Project "wikilink")：犬咲夜、帕秋莉·諾雷姬、鈴仙·優曇華院·稻葉）

@@ -35,7 +35,7 @@ Men的Wanya「就算進行主唱指導也完全沒有需要改進的地方」對
 
 2009年7月，COLOR改名為「DEEP」的同時、不再擔任他們的製作人。
 
-2010年2月3日、所屬事務所[LDH新設社會貢獻部](https://zh.wikipedia.org/wiki/LDH_\(藝能事務所\) "wikilink")。由他親自作詞作曲的歌曲「路標」以八音盒方式發佈給全國的小學和踉隨節目的人們\[2\]。2月20日，一直光頭的ATSUSHI約相隔了5年時間開始再留了頭髮\[3\]。10月8日在楊千嬅的演唱會合唱\[4\]。
+2010年2月3日、所屬事務所[LDH新設社會貢獻部](../Page/LDH_\(藝能事務所\).md "wikilink")。由他親自作詞作曲的歌曲「路標」以八音盒方式發佈給全國的小學和踉隨節目的人們\[2\]。2月20日，一直光頭的ATSUSHI約相隔了5年時間開始再留了頭髮\[3\]。10月8日在楊千嬅的演唱會合唱\[4\]。
 
 2011年 9月14日、以**EXILE
 ATSUSHI**名義發售作以朝日電視台劇集「[陽はまた昇る](https://zh.wikipedia.org/wiki/陽はまた昇る_\(2011年のテレビドラマ\) "wikilink")」的主題曲「[總有一天…](https://zh.wikipedia.org/wiki/Rising_Sun/總有一天… "wikilink")」為個人出道。這單曲以EXILE的「[Rising
@@ -188,7 +188,7 @@ EXILE的作品請參考[EXILE\#作品](https://zh.wikipedia.org/wiki/EXILE#作�
 </ol>
 </div>
 </div></td>
-<td><p>以EXILE ATSUSHI + <a href="https://zh.wikipedia.org/wiki/AI_(歌手)" title="wikilink">AI名義</a>。[14]<br />
+<td><p>以EXILE ATSUSHI + <a href="../Page/AI_(歌手).md" title="wikilink">AI名義</a>。[14]<br />
 <a href="../Page/關西電視台.md" title="wikilink">關西電視台</a>・<a href="../Page/富士電視台.md" title="wikilink">富士電視台連續劇</a>『HEAT』主題曲</p></td>
 <td><p>7位</p></td>
 </tr>
@@ -378,7 +378,7 @@ EXILE的作品請參考[EXILE\#作品](https://zh.wikipedia.org/wiki/EXILE#作�
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Story_(AI的曲)" title="wikilink">Story</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AI_(歌手)" title="wikilink">AI的樂曲</a>。2009年的<a href="https://zh.wikipedia.org/wiki/FNS歌謡祭" title="wikilink">FNS歌謡祭及於個人演唱會</a>「The Roots」中演唱。</p></td>
+<td><p><a href="../Page/AI_(歌手).md" title="wikilink">AI的樂曲</a>。2009年的<a href="https://zh.wikipedia.org/wiki/FNS歌謡祭" title="wikilink">FNS歌謡祭及於個人演唱會</a>「The Roots」中演唱。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/眼淚好像不掉下來#COLOR" title="wikilink">Lost Moments 〜忘記的時間〜</a></strong></p></td>
@@ -423,7 +423,7 @@ EXILE的作品請參考[EXILE\#作品](https://zh.wikipedia.org/wiki/EXILE#作�
 
 | 歌手                                                                        | 曲名                                     | 首次出現                                                                                                    | 備考                                                                                                                                                            |
 | ------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| EXILE ATSUSHI + [AI](https://zh.wikipedia.org/wiki/AI_\(歌手\) "wikilink")  | So Special -Version EX-                | 精選專輯「[EXILE ENTERTAINMENT BEST](https://zh.wikipedia.org/wiki/EXILE_ENTERTAINMENT_BEST "wikilink")」     | 演唱會・巡迴「[EXILE ATSUSHI Premium Live 〜The Roots〜](https://zh.wikipedia.org/wiki/EXILE_ATSUSHI_Premium_Live_〜The_Roots〜 "wikilink")」中與AI共同演出所披露。1st專輯「Solo」也所收錄。 |
+| EXILE ATSUSHI + [AI](../Page/AI_\(歌手\).md "wikilink")                     | So Special -Version EX-                | 精選專輯「[EXILE ENTERTAINMENT BEST](https://zh.wikipedia.org/wiki/EXILE_ENTERTAINMENT_BEST "wikilink")」     | 演唱會・巡迴「[EXILE ATSUSHI Premium Live 〜The Roots〜](https://zh.wikipedia.org/wiki/EXILE_ATSUSHI_Premium_Live_〜The_Roots〜 "wikilink")」中與AI共同演出所披露。1st專輯「Solo」也所收錄。 |
 | AI + EXILE ATSUSHI                                                        | So Special -Version AI-                | 單曲「[So Special -Version AI-/送行者](https://zh.wikipedia.org/wiki/So_Special_-Version_AI-/送行者 "wikilink")」 | So Special -Version EX-的別版本                                                                                                                                   |
 | [TOKU](https://zh.wikipedia.org/wiki/TOKU "wikilink")                     | Again (duet with EXILE ATSUSHI)        | 專輯「Love Again」                                                                                          |                                                                                                                                                               |
 | [ICONIQ](https://zh.wikipedia.org/wiki/ICONIQ "wikilink") × EXILE ATSUSHI | I'm lovin' you                         | 專輯「[CHANGE MYSELF](https://zh.wikipedia.org/wiki/CHANGE_MYSELF "wikilink")」                             |                                                                                                                                                               |
@@ -444,7 +444,7 @@ EXILE的作品請參考[EXILE\#作品](https://zh.wikipedia.org/wiki/EXILE#作�
 | [End Of The Day 〜Boyz II Men feat. EXILE ATSUSHI〜](https://zh.wikipedia.org/wiki/End_Of_The_Day_〜Boyz_II_Men_feat._EXILE_ATSUSHI〜 "wikilink") | 專輯「[TWENTY](https://zh.wikipedia.org/wiki/TWENTY_\(Boyz_II_Men的專輯\) "wikilink")」                    | 日本版的贈送曲目。有收錄1st專輯「Solo」中的別版本（A's Urban Version）。                                                                                                     |                                                                                             |
 | [COLOR](../Page/DEEP_\(歌手組合\).md "wikilink")                                                                                                  | Lost Moments 〜忘記的時間〜 feat. ATSUSHI                                                                  | 單曲「[眼淚好像不掉下來](https://zh.wikipedia.org/wiki/眼淚好像不掉下來#COLOR "wikilink")」                                                                              | 作詞作曲也擔當。                                                                                    |
 | Since You Went Away feat. ATSUSHI                                                                                                             | 專輯「[BLUE 〜Tears from the sky〜](https://zh.wikipedia.org/wiki/BLUE_〜Tears_from_the_sky〜 "wikilink")」 |                                                                                                                                                      |                                                                                             |
-| JAPAN UNITED with MUSIC                                                                                                                       | All You Need Is Love                                                                                | 單曲「All You Need Is Love」                                                                                                                             | 這樂曲EXILE的主唱[TAKAHIRO也有參加](../Page/TAKAHIRO.md "wikilink")。                                  |
+| JAPAN UNITED with MUSIC                                                                                                                       | All You Need Is Love                                                                                | 單曲「All You Need Is Love」                                                                                                                             | 這樂曲EXILE的主唱[TAKAHIRO也有參加](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")。               |
 | [m-flo](https://zh.wikipedia.org/wiki/m-flo "wikilink")                                                                                       | ALIVE                                                                                               | 專輯「[SQUARE ONE](https://zh.wikipedia.org/wiki/SQUARE_ONE "wikilink")」                                                                                | 原本是不公開歌手名稱、但是在2012年5月6日中播映的「[EXILE魂](https://zh.wikipedia.org/wiki/EXILE魂 "wikilink")」內披露了。 |
 | [清木場俊介](../Page/清木場俊介.md "wikilink")                                                                                                          | [羽1/2](https://zh.wikipedia.org/wiki/羽1/2 "wikilink")                                               | 專輯「唄い屋・BEST Vol.1」                                                                                                                                   | 清木場及ATSUSHI2人重新翻唱的版本。                                                                       |
 
@@ -493,7 +493,7 @@ ATSUSHI單獨的作詞曲第2彈。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Eternal...</strong></p></td>
-<td><p>單曲「<a href="https://zh.wikipedia.org/wiki/Eternal..." title="wikilink">Eternal...</a>」</p></td>
+<td><p>單曲「<a href="../Page/Eternal....md" title="wikilink">Eternal...</a>」</p></td>
 <td><p>是初次單曲歌曲的作詞。<br />
 作曲是<a href="https://zh.wikipedia.org/wiki/山口寛雄" title="wikilink">山口寛雄</a></p></td>
 </tr>
@@ -526,7 +526,7 @@ ATSUSHI單獨的作詞曲第2彈。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>YES!</strong></p></td>
-<td><p>單曲「<a href="https://zh.wikipedia.org/wiki/YES!_(EXILE單曲)" title="wikilink">YES!</a>」</p></td>
+<td><p>單曲「<a href="../Page/YES!_(EXILE單曲).md" title="wikilink">YES!</a>」</p></td>
 <td><p>作曲是山口寛雄</p></td>
 </tr>
 <tr class="odd">
@@ -613,7 +613,7 @@ ATSUSHI單獨的作詞曲第2彈。</p></td>
 <td><p>作曲是春川仁志</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>So Special -Version EX- / EXILE ATSUSHI + <a href="https://zh.wikipedia.org/wiki/AI_(歌手)" title="wikilink">AI</a></strong></p></td>
+<td><p><strong>So Special -Version EX- / EXILE ATSUSHI + <a href="../Page/AI_(歌手).md" title="wikilink">AI</a></strong></p></td>
 <td><p>精選專輯「<a href="https://zh.wikipedia.org/wiki/EXILE_ENTERTAINMENT_BEST" title="wikilink">EXILE ENTERTAINMENT BEST</a>」</p></td>
 <td><p>作詞是與AI一起合作的作品<br />
 作曲是與AI、UTA一起合作的作品</p></td>
@@ -775,17 +775,17 @@ ATSUSHI單獨的作詞曲第2彈。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>放浪榮耀 ～因為如此深愛這世界～</strong></p></td>
-<td><p>單曲「<a href="https://zh.wikipedia.org/wiki/放浪榮耀_～因為如此深愛這世界～" title="wikilink">放浪榮耀 ～因為如此深愛這世界～</a>」</p></td>
+<td><p>單曲「<a href="../Page/放浪榮耀_～因為如此深愛這世界～.md" title="wikilink">放浪榮耀 ～因為如此深愛這世界～</a>」</p></td>
 <td><p>擔任作詞。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Flower Song</strong></p></td>
-<td><p>單曲「<a href="https://zh.wikipedia.org/wiki/Flower_Song" title="wikilink">Flower Song</a>」</p></td>
+<td><p>單曲「<a href="../Page/Flower_Song.md" title="wikilink">Flower Song</a>」</p></td>
 <td><p>擔任作詞。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>No Limit</strong></p></td>
-<td><p>單曲「<a href="https://zh.wikipedia.org/wiki/No_Limit" title="wikilink">No Limit</a>」</p></td>
+<td><p>單曲「<a href="../Page/No_Limit.md" title="wikilink">No Limit</a>」</p></td>
 <td><p>擔任作詞。</p></td>
 </tr>
 <tr class="odd">
@@ -795,7 +795,7 @@ ATSUSHI單獨的作詞曲第2彈。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>NEW HORIZON</strong></p></td>
-<td><p>單曲「<a href="https://zh.wikipedia.org/wiki/NEW_HORIZON" title="wikilink">NEW HORIZON</a>」</p></td>
+<td><p>單曲「<a href="../Page/NEW_HORIZON.md" title="wikilink">NEW HORIZON</a>」</p></td>
 <td><p>擔任作詞。</p></td>
 </tr>
 <tr class="odd">
@@ -1011,7 +1011,7 @@ ATSUSHI單獨的作詞曲第2彈。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>So Special -Version AI-</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AI_(歌手)" title="wikilink">AI</a></p></td>
+<td><p><a href="../Page/AI_(歌手).md" title="wikilink">AI</a></p></td>
 <td><p>單曲「<a href="https://zh.wikipedia.org/wiki/So_Special_-Version_AI-/送行者" title="wikilink">So Special -Version AI- / 送行者</a>」</p></td>
 <td><p>「So Special -Version EX-」的別版本</p></td>
 </tr>
@@ -1054,7 +1054,7 @@ ATSUSHI單獨的作詞曲第2彈。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>新時代 -Orchestra Version-</strong></p></td>
-<td><p>單曲「<a href="https://zh.wikipedia.org/wiki/FIGHTERS" title="wikilink">FIGHTERS</a>」</p></td>
+<td><p>單曲「<a href="../Page/FIGHTERS.md" title="wikilink">FIGHTERS</a>」</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/J_Soul_Brothers_(三代目J_Soul_Brothers的專輯)" title="wikilink">新時代的別版本</a></p></td>
 <td></td>
 </tr>
@@ -1076,7 +1076,7 @@ ATSUSHI的1st專輯「Solo」也有收錄、「Solo」是收錄專輯版本（�
 <tr class="odd">
 <td><p><strong>單戀</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/GENERATIONS" title="wikilink">GENERATIONS</a></p></td>
-<td><p>單曲「<a href="https://zh.wikipedia.org/wiki/BRAVE_IT_OUT" title="wikilink">BRAVE IT OUT</a>」</p></td>
+<td><p>單曲「<a href="../Page/BRAVE_IT_OUT.md" title="wikilink">BRAVE IT OUT</a>」</p></td>
 <td><p>擔當作詞。作曲是江上浩太郎</p></td>
 </tr>
 <tr class="even">
@@ -1356,7 +1356,7 @@ EXILE ATSUSHILIVE TOUR 2014“Music”
 
 <!-- end list -->
 
-  - [AI](https://zh.wikipedia.org/wiki/AI_\(歌手\) "wikilink")
+  - [AI](../Page/AI_\(歌手\).md "wikilink")
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 "**Mein Herz
 brennt**"（德译：我心燃烧）是德国工业金属乐队[Rammstein发行的单曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")，2001年歌曲第一次出现在专辑[Mutter中](../Page/Mutter_\(专辑\).md "wikilink")，并在当时用作演唱会的开场曲，2011年出现在乐队精选集[Made
 in Germany
-1995–2011中](https://zh.wikipedia.org/wiki/Made_in_Germany_1995–2011 "wikilink")。2012年11月22日宣布将以单曲的形式发行，歌曲的钢琴版与2012年12月7日发行。
+1995–2011中](../Page/Made_in_Germany_1995–2011.md "wikilink")。2012年11月22日宣布将以单曲的形式发行，歌曲的钢琴版与2012年12月7日发行。
 
 歌曲的歌词描述了恐怖的噩梦，歌曲的开场白("Nun, liebe Kinder, gebt fein Acht. Ich habe euch
 etwas mitgebracht")选自上世纪50年代德国的儿童电视节目Das Sandmännchen，每晚Das
@@ -12,9 +12,9 @@ Sandmännchen都会播出并讲一个睡前故事，这就意味着歌曲的旁�
 Mein Herz
 brennt的MV由两个独立的影片组成，一个为原版另一个为钢琴版。钢琴版在2012年12月7日发布在[Vimeo上](../Page/Vimeo.md "wikilink")，拍摄于Beelitz-Heilstätten的主浴室，由Zoran
 Bihac导演，这是Bihac与乐队的第四次合作了，他曾导演过"[Links
-2-3-4](https://zh.wikipedia.org/wiki/Links_2-3-4 "wikilink")", "[Mein
-Teil](https://zh.wikipedia.org/wiki/Mein_Teil "wikilink")" 和
-"[Rosenrot](https://zh.wikipedia.org/wiki/Rosenrot_\(歌曲\) "wikilink")"的MV，Bihac说这两个独立的MV就像[阴阳般结合](../Page/阴阳.md "wikilink")。
+2-3-4](../Page/Links_2-3-4.md "wikilink")", "[Mein
+Teil](../Page/Mein_Teil.md "wikilink")" 和
+"[Rosenrot](../Page/Rosenrot_\(歌曲\).md "wikilink")"的MV，Bihac说这两个独立的MV就像[阴阳般结合](../Page/阴阳.md "wikilink")。
 
 钢琴版展现了主唱[Till
 Lindemann穿着黑色礼服和渔网](https://zh.wikipedia.org/wiki/Till_Lindemann "wikilink")，化着黑色和白色的脸部彩绘，整个浴室透着红色，浴室中间是一个发光的T型池，Lindemann在池前面歌唱，最后走进了池中，钢琴版中只出现了Lindemann。

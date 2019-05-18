@@ -1,5 +1,5 @@
 **TS娛樂**（）是韓國的一間[經紀公司](../Page/經紀公司.md "wikilink")，於2008年成立，社長為金泰松（），其於2018年4月27日身故，享年52歲。葬禮於首爾國立中央醫療院第207號靈堂進行，旗下藝人亦因此全面停工。
-TS娛樂在2008年推出男子嘻哈雙人團體[Untouchable](https://zh.wikipedia.org/wiki/Untouchable_\(南韓組合\) "wikilink")；2009年推出女子音樂組合[Secret](../Page/Secret_\(組合\).md "wikilink")\[1\]；2012年推出男子音樂組合[B.A.P](../Page/B.A.P.md "wikilink")\[2\]；2014年推出女子音樂組合[SONAMOO](https://zh.wikipedia.org/wiki/SONAMOO "wikilink")。2017年推出男子音樂組合[TRCNG](https://zh.wikipedia.org/wiki/TRCNG "wikilink")。
+TS娛樂在2008年推出男子嘻哈雙人團體[Untouchable](https://zh.wikipedia.org/wiki/Untouchable_\(南韓組合\) "wikilink")；2009年推出女子音樂組合[Secret](../Page/Secret_\(組合\).md "wikilink")\[1\]；2012年推出男子音樂組合[B.A.P](../Page/B.A.P.md "wikilink")\[2\]；2014年推出女子音樂組合[SONAMOO](../Page/SONAMOO.md "wikilink")。2017年推出男子音樂組合[TRCNG](../Page/TRCNG.md "wikilink")。
 
 ## 旗下藝人
 
@@ -33,7 +33,7 @@ TS娛樂在2008年推出男子嘻哈雙人團體[Untouchable](https://zh.wikiped
 <td><p>2009年</p></td>
 <td><p><a href="../Page/Secret_(組合).md" title="wikilink">Secret</a></p></td>
 <td><p>女</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭河娜" title="wikilink">鄭河娜</a></p></td>
+<td><p><a href="../Page/鄭河娜.md" title="wikilink">鄭河娜</a></p></td>
 <td></td>
 <td></td>
 <td><p>Secret Time</p></td>
@@ -41,7 +41,7 @@ TS娛樂在2008年推出男子嘻哈雙人團體[Untouchable](https://zh.wikiped
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SONAMOO" title="wikilink">SONAMOO</a></p></td>
+<td><p><a href="../Page/SONAMOO.md" title="wikilink">SONAMOO</a></p></td>
 <td><p>女</p></td>
 <td><p>受玟、旼宰、D.ana、娜玹、宜珍、High.D、New Sun</p></td>
 <td><p>受玟</p></td>
@@ -51,7 +51,7 @@ TS娛樂在2008年推出男子嘻哈雙人團體[Untouchable](https://zh.wikiped
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TRCNG" title="wikilink">TRCNG</a></p></td>
+<td><p><a href="../Page/TRCNG.md" title="wikilink">TRCNG</a></p></td>
 <td><p>男</p></td>
 <td><p>JI HUN、HA YOUNG、TAE SEON、HAK MIN、WOO YEOP、JI SUNG、HYUN WOO、SI WOO、HO HYEON、KANG MIN</p></td>
 <td><p>TAE SEON</p></td>
@@ -71,13 +71,13 @@ TS娛樂在2008年推出男子嘻哈雙人團體[Untouchable](https://zh.wikiped
 
   - [New Champ](https://zh.wikipedia.org/wiki/New_Champ "wikilink")
 
-  - [韓秀妍](https://zh.wikipedia.org/wiki/韓秀妍 "wikilink")
+  - [韓秀妍](../Page/韓秀妍.md "wikilink")
 
 ### 组合
 
-  - [Secret](../Page/Secret_\(組合\).md "wikilink")（[全烋星](../Page/全烋星.md "wikilink")、[宋枝恩](https://zh.wikipedia.org/wiki/宋枝恩 "wikilink")、[韓善伙](../Page/韓善伙.md "wikilink")）
+  - [Secret](../Page/Secret_\(組合\).md "wikilink")（[全烋星](../Page/全烋星.md "wikilink")、[宋枝恩](../Page/宋枝恩.md "wikilink")、[韓善伙](../Page/韓善伙.md "wikilink")）
   - [B.A.P](../Page/B.A.P.md "wikilink")
-    （[方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink")、[金力燦](https://zh.wikipedia.org/wiki/金力燦 "wikilink")、[鄭大賢](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")、[劉永才](https://zh.wikipedia.org/wiki/劉永才 "wikilink")、[文鐘業](https://zh.wikipedia.org/wiki/文鐘業 "wikilink")、[崔準烘](https://zh.wikipedia.org/wiki/崔準烘 "wikilink"))
+    （[方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink")、[金力燦](https://zh.wikipedia.org/wiki/金力燦 "wikilink")、[鄭大賢](../Page/鄭大賢.md "wikilink")、[劉永才](https://zh.wikipedia.org/wiki/劉永才 "wikilink")、[文鐘業](https://zh.wikipedia.org/wiki/文鐘業 "wikilink")、[崔準烘](https://zh.wikipedia.org/wiki/崔準烘 "wikilink"))
 
 ## 參考文獻
 

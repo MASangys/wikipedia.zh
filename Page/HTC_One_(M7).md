@@ -2,9 +2,9 @@
 One**（研發代號M7）是[宏達國際電子公司开发](../Page/宏達國際電子.md "wikilink")、搭载[Android操作系统之高階旗舰](../Page/Android.md "wikilink")[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")。2013年2月，HTC
 One先在台灣被報導\[1\]，並在美国[纽约和英国](../Page/纽约.md "wikilink")[伦敦两地同步正式发表](../Page/伦敦.md "wikilink")\[2\]，次月开售。被外界视为是重振[HTC
 One系列品牌定位](../Page/HTC_One系列.md "wikilink")，企圖与 [Samsung Galaxy S
-4](https://zh.wikipedia.org/wiki/三星Galaxy_S4 "wikilink")、[Sony Xperia
+4](../Page/三星Galaxy_S4.md "wikilink")、[Sony Xperia
 Z](../Page/Sony_Xperia_Z.md "wikilink") 和 [iPhone
-5](../Page/iPhone_5.md "wikilink") 在高階手機市场竞争的機型。
+5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink") 在高階手機市场竞争的機型。
 
 憑優異的工業設計，2013年的HTC
 One在[MWC獲頒](../Page/世界行動通訊大會.md "wikilink")「最佳新手機、裝置或平板電腦獎項」，2014年2月又獲選為MWC「年度最佳智慧型手機\[3\]
@@ -49,8 +49,9 @@ HTC One在不同地区发售的32GB和64GB版本在软件和硬件上有所不�
 Play商店会发售不使用HTC](../Page/Google_Play.md "wikilink")
 Sense界面的原生Android操作系统的HTC One（于[Google
 Nexus设备相似](../Page/Google_Nexus.md "wikilink")）。\[6\]\[7\]2013年6月26日与相似版本的[三星Galaxy
-S4在美国发行](https://zh.wikipedia.org/wiki/三星Galaxy_S4 "wikilink")。手机仍支持Beats
-Audio音效，但最初红外線功能并不可用，但更新至Android 4.3则可以开启。\[8\]
+S4在美国发行](../Page/三星Galaxy_S4.md "wikilink")。手机仍支持Beats
+Audio音效，但最初红外線功能并不可用，但更新至Android
+4.3则可以开启。\[8\]
 
   - 中国大陸版
 
@@ -652,7 +653,7 @@ Sense 或旧 iPhone 及其它旧 Android 设备中复制联络人数据、简讯
   - 主相机：[意法半導體](../Page/意法半導體.md "wikilink")(後來無合作,
     改成[豪威科技供料](https://zh.wikipedia.org/wiki/豪威科技 "wikilink"))
   - 前相機：台灣[豪威科技](https://zh.wikipedia.org/wiki/豪威科技 "wikilink")
-  - 電池：[新能源科技](https://zh.wikipedia.org/wiki/新能源科技 "wikilink")、常州上揚光電
+  - 電池：[新能源科技](../Page/新能源科技.md "wikilink")、常州上揚光電
 
 ## 獲獎
 
@@ -705,7 +706,7 @@ GSMA 2014 - Global Mobile Awards Best Smartphone -2014
 February\[37\](年度最佳智能手機\[38\] )
 
 iF product design award 2014 - gold - 2014 February\[39\](2014
-[iF產品設計獎金獎](../Page/iF產品設計獎.md "wikilink"))
+[iF產品設計獎金獎](https://zh.wikipedia.org/wiki/iF產品設計獎 "wikilink"))
 
 2013 Engadget Awards Readers' Choice - Smartphone of the Year - 2014
 March\[40\]
@@ -742,9 +743,8 @@ Wildfire](../Page/HTC_Wildfire.md "wikilink")
 
   - [HTC One
     (M8)](https://zh.wikipedia.org/wiki/HTC_One_\(M8\) "wikilink")
-  - [HTC One
-    Mini](https://zh.wikipedia.org/wiki/HTC_One_Mini "wikilink")
-  - [HTC One Max](https://zh.wikipedia.org/wiki/HTC_One_Max "wikilink")
+  - [HTC One Mini](../Page/HTC_One_Mini.md "wikilink")
+  - [HTC One Max](../Page/HTC_One_Max.md "wikilink")
   - [HTC One 系列](../Page/HTC_One系列.md "wikilink")
   - [宏达国际电子手机列表](https://zh.wikipedia.org/wiki/宏达国际电子手机列表 "wikilink")
 

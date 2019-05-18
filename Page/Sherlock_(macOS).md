@@ -27,11 +27,11 @@ Sherlock 3的搜尋外掛模組是一個網頁應用程式，每次使用都會�
   - 股市
   - 電影
   - 電話簿
-  - [eBay](../Page/eBay.md "wikilink")
+  - [eBay](https://zh.wikipedia.org/wiki/eBay "wikilink")
   - 航班
   - 辭典
   - 翻譯
-  - [AppleCare](https://zh.wikipedia.org/wiki/AppleCare "wikilink")
+  - [AppleCare](../Page/AppleCare.md "wikilink")
 
 由於缺乏更新與維護，Sherlock大部分網絡功能已失效。
 

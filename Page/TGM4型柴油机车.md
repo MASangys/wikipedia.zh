@@ -4,7 +4,7 @@
 
 ### TGM4
 
-该型柴油机车是在[TGM3B](https://zh.wikipedia.org/wiki/TGM3型柴油机车 "wikilink")、[TGM6A型柴油机车的基础上发展而成](../Page/TGM6型柴油机车.md "wikilink")，同时结合了两者的特点，其车体结构与TGM3B型机车相同，而[转向架部分则与TGM](https://zh.wikipedia.org/wiki/转向架 "wikilink")6A型机车相同。机车采用底架承载结构罩式[车体](https://zh.wikipedia.org/wiki/车体 "wikilink")，车体各项载荷全部由底架承担，底架和车体重量通过四点式旁承由两台二轴转向架支承，[牵引力和制动力通过心盘传递](../Page/牵引力.md "wikilink")。车体尺寸与TGM3B型机车完全一致，车钩中心间距为12600毫米，采用外走廊式罩式结构，[司机室位于车体中部](https://zh.wikipedia.org/wiki/司机室 "wikilink")，为司机提供良好的嘹望视野。机车走行部为两台二轴[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")，[轴箱采用导框式定位结构](https://zh.wikipedia.org/wiki/轴箱 "wikilink")，构架采用铸钢件及钢板[焊接结构](../Page/焊接.md "wikilink")，一系悬挂由螺旋弹簧、钢板弹簧、均衡梁等组成，转向架轴距为2100毫米，转向架中心距为6000毫米。
+该型柴油机车是在[TGM3B](../Page/TGM3型柴油机车.md "wikilink")、[TGM6A型柴油机车的基础上发展而成](../Page/TGM6型柴油机车.md "wikilink")，同时结合了两者的特点，其车体结构与TGM3B型机车相同，而[转向架部分则与TGM](https://zh.wikipedia.org/wiki/转向架 "wikilink")6A型机车相同。机车采用底架承载结构罩式[车体](https://zh.wikipedia.org/wiki/车体 "wikilink")，车体各项载荷全部由底架承担，底架和车体重量通过四点式旁承由两台二轴转向架支承，[牵引力和制动力通过心盘传递](../Page/牵引力.md "wikilink")。车体尺寸与TGM3B型机车完全一致，车钩中心间距为12600毫米，采用外走廊式罩式结构，[司机室位于车体中部](https://zh.wikipedia.org/wiki/司机室 "wikilink")，为司机提供良好的嘹望视野。机车走行部为两台二轴[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")，[轴箱采用导框式定位结构](https://zh.wikipedia.org/wiki/轴箱 "wikilink")，构架采用铸钢件及钢板[焊接结构](../Page/焊接.md "wikilink")，一系悬挂由螺旋弹簧、钢板弹簧、均衡梁等组成，转向架轴距为2100毫米，转向架中心距为6000毫米。
 
 机车装用一台211Д-1型[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")（苏联国家标准[GOST型号为](https://zh.wikipedia.org/wiki/GOST "wikilink")6ЧН
 21/21）。该型柴油机为六气缸、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、[机械增压的V型高速柴油机](../Page/机械增压器.md "wikilink")，[气缸直径为](https://zh.wikipedia.org/wiki/气缸 "wikilink")210毫米，[活塞](https://zh.wikipedia.org/wiki/活塞 "wikilink")[行程为](https://zh.wikipedia.org/wiki/冲程 "wikilink")210毫米，额定转速为每分钟1400转，装车功率为750马力，单位燃料消耗量为160克/有效马力·小时。机车冷却系统的[风扇采用静液压驱动](../Page/风扇.md "wikilink")。
@@ -21,7 +21,7 @@ TGM4型柴油机车的标准整备重量为80吨，而取消压铁配重后可�
 
 ## 参看
 
-  - [TGM3型柴油机车](https://zh.wikipedia.org/wiki/TGM3型柴油机车 "wikilink")
+  - [TGM3型柴油机车](../Page/TGM3型柴油机车.md "wikilink")
   - [TGM6型柴油机车](../Page/TGM6型柴油机车.md "wikilink")
   - [TEM2型柴油机车](../Page/TEM2型柴油机车.md "wikilink")
 

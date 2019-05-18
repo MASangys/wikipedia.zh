@@ -10,19 +10,22 @@ UP～）是日本歌手[濱崎步於](../Page/濱崎步.md "wikilink")2012年12�
 again](../Page/LOVE_again_\(濱崎步專輯\).md "wikilink")』中的人氣曲「[You &
 Me](../Page/A_SUMMER_BEST.md "wikilink")」、「[Song 4
 u](../Page/LOVE_\(濱崎步專輯\).md "wikilink")」、「[Missing](../Page/LOVE_\(濱崎步專輯\).md "wikilink")」，以及第一次在演唱會演唱的新曲「[Wake
-me up](../Page/again_\(濱崎步專輯\).md "wikilink")」、「[snowy
-kiss](../Page/again_\(濱崎步專輯\).md "wikilink")」等等。
+me
+up](https://zh.wikipedia.org/wiki/again_\(濱崎步專輯\) "wikilink")」、「[snowy
+kiss](https://zh.wikipedia.org/wiki/again_\(濱崎步專輯\) "wikilink")」等等。
 
 發行當日獲得[Oricon日本公信榜DVD音樂](../Page/Oricon.md "wikilink")、DVD綜合、藍光綜合三部門的冠軍寶座。
 
 ## 曲目
 
-1.  [Wake me up](../Page/again_\(濱崎步專輯\).md "wikilink")
+1.  [Wake me
+    up](https://zh.wikipedia.org/wiki/again_\(濱崎步專輯\) "wikilink")
 2.  [Rule](../Page/NEXT_LEVEL.md "wikilink")
 3.  [Disco-munication](../Page/NEXT_LEVEL.md "wikilink")
 4.  [Beautiful Fighters](../Page/Secret_\(濱崎步專輯\).md "wikilink")
 5.  [Fly high](../Page/Fly_high.md "wikilink")
-6.  [snowy kiss](../Page/again_\(濱崎步專輯\).md "wikilink")
+6.  [snowy
+    kiss](https://zh.wikipedia.org/wiki/again_\(濱崎步專輯\) "wikilink")
 7.  [Missing](../Page/LOVE_\(濱崎步專輯\).md "wikilink")
 8.  [Together When...](../Page/Together_When....md "wikilink")
 9.  [everywhere
@@ -31,8 +34,8 @@ kiss](../Page/again_\(濱崎步專輯\).md "wikilink")」等等。
 11. [Song 4 u](../Page/LOVE_\(濱崎步專輯\).md "wikilink")
 12. [Who...](../Page/LOVEppears.md "wikilink")
 13. [Humming 7/4](../Page/MY_STORY.md "wikilink")
-14. [evolution](../Page/evolution_\(濱崎步單曲\).md "wikilink") ～
-    [SURREAL](../Page/SURREAL.md "wikilink")
+14. [evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")
+    ～ [SURREAL](../Page/SURREAL.md "wikilink")
 15. [until that Day...](../Page/Secret_\(濱崎步專輯\).md "wikilink")
 16. [Trauma](../Page/A_\(濱崎步單曲\).md "wikilink")
 17. [AUDIENCE](../Page/AUDIENCE.md "wikilink")

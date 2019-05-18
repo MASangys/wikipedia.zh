@@ -6,11 +6,11 @@ A）是日本歌手[濱崎步於](../Page/濱崎步.md "wikilink")2002年12月30
 在2003年1月29日發行的「[ayumi hamasaki COMPLETE LIVE BOX
 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COMPLETE_LIVE_BOX_A "wikilink")」，不僅收錄「[ayumi
 hamasaki COUNTDOWN LIVE 2001-2002
-A](../Page/ayumi_hamasaki_COUNTDOWN_LIVE_2001-2002_A.md "wikilink")」、「[ayumi
+A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2001-2002_A "wikilink")」、「[ayumi
 hamasaki ARENA TOUR 2002
-A](../Page/ayumi_hamasaki_ARENA_TOUR_2002_A.md "wikilink")」、「[ayumi
+A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_ARENA_TOUR_2002_A "wikilink")」、「[ayumi
 hamasaki STADIUM TOUR 2002
-A](../Page/ayumi_hamasaki_STADIUM_TOUR_2002_A.md "wikilink")」3種演唱會，其中收錄本作特典「**ayumi
+A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_STADIUM_TOUR_2002_A "wikilink")」3種演唱會，其中收錄本作特典「**ayumi
 hamasaki COUNTDOWN LIVE 2002-2003
 A**」的[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 

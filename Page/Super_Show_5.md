@@ -25,7 +25,7 @@ Junior的第五次巡回演唱会](../Page/Super_Junior.md "wikilink")，于2013
 </tr>
 <tr class="even">
 <td><p>2013年3月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="../Page/首尔奥林匹克体操竞技场.md" title="wikilink">首尔奥林匹克体操竞技场</a> [2]</p></td>
 </tr>
@@ -152,14 +152,14 @@ Junior的第五次巡回演唱会](../Page/Super_Junior.md "wikilink")，于2013
 <tr class="odd">
 <td><p>2013年9月14日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/广州" title="wikilink">广州</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宝能国际体育演艺中心" title="wikilink">广州国际体育演艺中心</a></p></td>
+<td><p><a href="../Page/宝能国际体育演艺中心.md" title="wikilink">广州国际体育演艺中心</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2013年10月24日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馬尼拉" title="wikilink">馬尼拉</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亞洲購物中心體育館" title="wikilink">亞洲購物中心體育館</a></p></td>
+<td><p><a href="../Page/亞洲購物中心體育館.md" title="wikilink">亞洲購物中心體育館</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>北美洲</p></td>

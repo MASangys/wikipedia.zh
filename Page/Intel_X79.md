@@ -1,5 +1,5 @@
 **Intel
-X79**（代號**Patsburg**）是[Intel新一代旗艦級](https://zh.wikipedia.org/wiki/Intel "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")（英文縮寫為[PCH](https://zh.wikipedia.org/wiki/PCH "wikilink")），使用[直接媒體介面](https://zh.wikipedia.org/wiki/直接媒體介面 "wikilink")（DMI
+X79**（代號**Patsburg**）是[Intel新一代旗艦級](https://zh.wikipedia.org/wiki/Intel "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")（英文縮寫為[PCH](https://zh.wikipedia.org/wiki/PCH "wikilink")），使用[直接媒體介面](../Page/直接媒體介面.md "wikilink")（DMI
 2.0）與處理器連接。它的主要功能是連接各[周边设备](https://zh.wikipedia.org/wiki/外部设备 "wikilink")。X79支援[Core
 i7處理器](https://zh.wikipedia.org/wiki/Intel_Core_i7 "wikilink")。\[1\]
 

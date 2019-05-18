@@ -61,7 +61,7 @@ Kohn赢得了年龄13-14组的冠军，他设计和制造了用于提高那些�
 ## 批评
 
 部分人批评Google Science
-Fair只允许13岁以上的青少年参与，但这符合美国[儿童在线隐私保护法](https://zh.wikipedia.org/wiki/儿童在线隐私保护法 "wikilink")（Children's
+Fair只允许13岁以上的青少年参与，但这符合美国[儿童在线隐私保护法](../Page/儿童在线隐私保护法.md "wikilink")（Children's
 Online Privacy Protection Act）法律。
 
 ## 参见

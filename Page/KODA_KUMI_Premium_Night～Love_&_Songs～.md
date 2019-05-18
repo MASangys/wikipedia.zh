@@ -77,7 +77,7 @@ Songs～）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../P
 
   - CD ONLY
       - FC限定販賣、對外僅供租賃
-  - [Itunes](../Page/Itunes.md "wikilink")
+  - [Itunes](https://zh.wikipedia.org/wiki/Itunes "wikilink")
       - 此版本無第25首
 
 ### 曲目

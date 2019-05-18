@@ -11,7 +11,7 @@
 
 ###
 
-  - [首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")－[仁川國際機場](../Page/仁川國際機場.md "wikilink")
+  - [首爾](../Page/首爾.md "wikilink")－[仁川國際機場](../Page/仁川國際機場.md "wikilink")
   - [務安](../Page/務安郡.md "wikilink")－[務安國際機場](https://zh.wikipedia.org/wiki/務安國際機場 "wikilink")
 
 ###

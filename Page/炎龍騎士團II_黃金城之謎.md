@@ -1,5 +1,5 @@
 《**炎龍騎士團II
-黃金城之謎**》是由[漢堂國際資訊公司於](https://zh.wikipedia.org/wiki/漢堂國際資訊 "wikilink")1995年發行的[個人電腦平台](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[回合制](https://zh.wikipedia.org/wiki/回合制策略遊戲 "wikilink")[角色扮演遊戲](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")，為《[炎龍騎士團](https://zh.wikipedia.org/wiki/炎龍騎士團 "wikilink")》系列的第二作。
+黃金城之謎**》是由[漢堂國際資訊公司於](https://zh.wikipedia.org/wiki/漢堂國際資訊 "wikilink")1995年發行的[個人電腦平台](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[回合制](https://zh.wikipedia.org/wiki/回合制策略遊戲 "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，為《[炎龍騎士團](https://zh.wikipedia.org/wiki/炎龍騎士團 "wikilink")》系列的第二作。
 
 遊戲在初期發售時，有搭配附贈限量製作的紙雕座鐘、作為促銷手法。\[1\]
 
