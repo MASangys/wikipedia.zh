@@ -78,7 +78,7 @@
     [阪本浩之](https://zh.wikipedia.org/wiki/阪本浩之 "wikilink")
   - [伊達政宗](../Page/伊達政宗.md "wikilink") -
     [西村和彥](../Page/西村和彥.md "wikilink")
-  - [大久保忠鄰](https://zh.wikipedia.org/wiki/大久保忠鄰 "wikilink") -
+  - [大久保忠鄰](../Page/大久保忠鄰.md "wikilink") -
     [石橋雅史](https://zh.wikipedia.org/wiki/石橋雅史 "wikilink")
   - [藤堂高虎](../Page/藤堂高虎.md "wikilink") -
     [誠直也](https://zh.wikipedia.org/wiki/誠直也 "wikilink")
@@ -100,7 +100,7 @@
     [西鄉輝彥](../Page/西鄉輝彥.md "wikilink")
   - [本多正純](../Page/本多正純.md "wikilink") -
     [鷹龍太郎](https://zh.wikipedia.org/wiki/鷹龍太郎 "wikilink")
-  - [板倉勝重](https://zh.wikipedia.org/wiki/板倉勝重 "wikilink") -
+  - [板倉勝重](../Page/板倉勝重.md "wikilink") -
     [坂部文昭](https://zh.wikipedia.org/wiki/坂部文昭 "wikilink")
   - [阿茶局](https://zh.wikipedia.org/wiki/雲光院 "wikilink") -
     [泉晶子](https://zh.wikipedia.org/wiki/泉晶子 "wikilink")

@@ -50,7 +50,7 @@ Pure](../Page/Dragon_Age_Pure.md "wikilink")》上。[讀切作品](https://zh.w
   -
     角色曲：
     身高157cm、體重43kg、血型AB型、生日2月1日、[水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")、B79/W53/H80
-    祐一的學妹，香里的[妹妹](https://zh.wikipedia.org/wiki/妹妹 "wikilink")。祐一和亞由跑到商店街外面時偶然相遇的少女。喜歡的食物是[冰淇淋](../Page/冰淇淋.md "wikilink")，就算是身處嚴冬的雪國還是能若無其事的吃[香草冰淇淋](https://zh.wikipedia.org/wiki/香草 "wikilink")。但是完全無法吃[辣的食物](../Page/辣.md "wikilink")（連原味[咖哩飯都沒辦法](https://zh.wikipedia.org/wiki/咖哩飯 "wikilink")），甚至厭惡到稱之為「[人類的敵人](../Page/人類.md "wikilink")」的地步。口頭禪是「我討厭說那種話的人（）」。從小身體孱弱，從高中入學起也是長期缺席沒去上學，但是偶而會穿著便服溜進學校裡。興趣是素描，但是不擅長畫人物畫。另外其反射神經奇差無比，玩打地鼠之類的遊戲時連一次也打不到。
+    祐一的學妹，香里的[妹妹](https://zh.wikipedia.org/wiki/妹妹 "wikilink")。祐一和亞由跑到商店街外面時偶然相遇的少女。喜歡的食物是[冰淇淋](../Page/冰淇淋.md "wikilink")，就算是身處嚴冬的雪國還是能若無其事的吃[香草冰淇淋](../Page/香草.md "wikilink")。但是完全無法吃[辣的食物](../Page/辣.md "wikilink")（連原味[咖哩飯都沒辦法](https://zh.wikipedia.org/wiki/咖哩飯 "wikilink")），甚至厭惡到稱之為「[人類的敵人](../Page/人類.md "wikilink")」的地步。口頭禪是「我討厭說那種話的人（）」。從小身體孱弱，從高中入學起也是長期缺席沒去上學，但是偶而會穿著便服溜進學校裡。興趣是素描，但是不擅長畫人物畫。另外其反射神經奇差無比，玩打地鼠之類的遊戲時連一次也打不到。
 
 <!-- end list -->
 

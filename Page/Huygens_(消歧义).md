@@ -27,8 +27,7 @@ of Hugo"）。该姓名人有：
 
 <!-- end list -->
 
-  - [惠更斯荷兰历史研究所](https://zh.wikipedia.org/wiki/惠更斯荷兰历史研究所 "wikilink")（）（Huygens
-    ING）
+  - [惠更斯荷兰历史研究所](../Page/惠更斯荷兰历史研究所.md "wikilink")（）（Huygens ING）
 
 <!-- end list -->
 

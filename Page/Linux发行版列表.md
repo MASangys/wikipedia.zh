@@ -263,7 +263,7 @@ Mandriva、Ubuntu等）不同的道路，它力圖成為「UNIX風格」的Linux
 
   - [Mobilinux](../Page/Mobilinux.md "wikilink")：针对手机，由[MontaVista出品](https://zh.wikipedia.org/wiki/MontaVista "wikilink")。
   - [Android](../Page/Android.md "wikilink")：来自[Google](../Page/Google.md "wikilink")，以apk格式打包，采用[Android
-    Runtime虚拟机提供类似](https://zh.wikipedia.org/wiki/Android_Runtime "wikilink")[Java
+    Runtime虚拟机提供类似](../Page/Android_Runtime.md "wikilink")[Java
     (编程语言)的](https://zh.wikipedia.org/wiki/Java_\(编程语言\) "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")，目前已成为使用者最多的智能手机系统之一。
   - [Maemo](../Page/Maemo.md "wikilink")：来自[诺基亚](../Page/诺基亚.md "wikilink")，基于[Debian](../Page/Debian.md "wikilink")，目前专用于诺基亚的[N770](https://zh.wikipedia.org/wiki/诺基亚770网络终端 "wikilink")、[N800](https://zh.wikipedia.org/wiki/诺基亚_N800 "wikilink")、[N810网络终端](https://zh.wikipedia.org/wiki/N810 "wikilink")，以及[N900手机](https://zh.wikipedia.org/wiki/N900 "wikilink")。
   - [Moblin](https://zh.wikipedia.org/wiki/Moblin_project "wikilink")︰来自[英特尔](../Page/英特尔.md "wikilink")，现已捐给[Linux基金会](https://zh.wikipedia.org/wiki/Linux基金会 "wikilink")，用于[Eee

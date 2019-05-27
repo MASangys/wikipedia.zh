@@ -5,7 +5,7 @@ MathWorks公司出品的商业](https://zh.wikipedia.org/wiki/The_MathWorks "wik
 
 ## 历史
 
-1970年代末到80年代初，时任[美国](../Page/美国.md "wikilink")[新墨西哥大學教授的](../Page/新墨西哥大學.md "wikilink")[克里夫·莫勒尔为了让学生更方便地使用](../Page/克里夫·莫勒尔.md "wikilink")[LINPACK及](https://zh.wikipedia.org/wiki/LINPACK "wikilink")（需要通过FORTRAN编程来实现，但当时学生们并无相关知识），独立编写了第一个版本的MATLAB。这个版本的MATLAB只能进行简单的矩阵运算，例如矩阵转置、计算行列式和本征值，此版本软件分发出大约两三百份\[1\]\[2\]。
+1970年代末到80年代初，时任[美国](../Page/美国.md "wikilink")[新墨西哥大學教授的](../Page/新墨西哥大學.md "wikilink")[克里夫·莫勒尔为了让学生更方便地使用](../Page/克里夫·莫勒尔.md "wikilink")[LINPACK及](../Page/LINPACK.md "wikilink")（需要通过FORTRAN编程来实现，但当时学生们并无相关知识），独立编写了第一个版本的MATLAB。这个版本的MATLAB只能进行简单的矩阵运算，例如矩阵转置、计算行列式和本征值，此版本软件分发出大约两三百份\[1\]\[2\]。
 
 1984年，[杰克·李特](../Page/杰克·李特.md "wikilink")、[克里夫·莫勒尔和](../Page/克里夫·莫勒尔.md "wikilink")合作成立了[MathWorks公司](https://zh.wikipedia.org/wiki/邁斯沃克 "wikilink")，正式把MATLAB推向市场\[3\]\[4\]。MATLAB最初是由莫勒尔用FORTRAN编写的，李特和班格尔特花了约一年半的时间用C重新编写了MATLAB并增加了一些新功能，同时，李特还开发了第一个系统控制工具箱，其中一些代码到现在仍然在使用\[5\]。C语言版的面向[MS-DOS系统的MATLAB](../Page/MS-DOS.md "wikilink")
 1.0在[拉斯维加斯举行的IEEE決策与控制会议](../Page/拉斯维加斯.md "wikilink")（IEEE Conference
@@ -387,7 +387,7 @@ SciPy是一個開源，基於NumPy的Python演算法庫和數學工具包，包�
   - [R語言](https://zh.wikipedia.org/wiki/R語言 "wikilink")
   - [Origin](https://zh.wikipedia.org/wiki/Origin_\(數據分析軟體\) "wikilink")
   - [Spyder](../Page/Spyder.md "wikilink")
-  - [基於模型的設計](https://zh.wikipedia.org/wiki/基於模型的設計 "wikilink")
+  - [基於模型的設計](../Page/基於模型的設計.md "wikilink")
 
 {{-}}
 

@@ -137,8 +137,7 @@ CD:
   - [Chakra
     GNU/Linux](https://zh.wikipedia.org/wiki/Chakra_GNU/Linux "wikilink")
     - Chakra 项目发布的半滚动发行版。
-  - [Antergos](https://zh.wikipedia.org/wiki/Antergos "wikilink") -
-    一个提供包括GNOME
+  - [Antergos](../Page/Antergos.md "wikilink") - 一个提供包括GNOME
     3（默认）、Cinnamon、Razor-qt、Base、KDE和Xfce多种桌面环境安装的发行版（安装时可选）。
   - [Parabola
     GNU/Linux-libre](https://zh.wikipedia.org/wiki/Parabola_GNU/Linux-libre "wikilink")
@@ -249,7 +248,7 @@ Arch Linux 的首个版本发行于 2002 年，但是发行周期较不规律 \[
     Linux官方Wiki）](https://wiki.archlinux.org/index.php/The_Arch_Way_\(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87\))
   - [Chakra](https://zh.wikipedia.org/wiki/Chakra_GNU/Linux "wikilink")
   - [Manjaro Linux](../Page/Manjaro_Linux.md "wikilink")
-  - [Antergos](https://zh.wikipedia.org/wiki/Antergos "wikilink")
+  - [Antergos](../Page/Antergos.md "wikilink")
 
 ## 注释
 

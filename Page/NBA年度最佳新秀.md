@@ -35,7 +35,7 @@
 <td></td>
 <td><p><a href="../Page/底特律活塞.md" title="wikilink">韋恩堡活塞</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/1952年NBA選秀" title="wikilink">1952</a></p></td>
+<td><p><a href="../Page/1952年NBA選秀.md" title="wikilink">1952</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -633,7 +633,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/麥爾坎·波格登" title="wikilink">麥爾坎·波格登</a>^</p></td>
+<td><p><a href="../Page/麥爾坎·波格登.md" title="wikilink">麥爾坎·波格登</a>^</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/後衛" title="wikilink">後衛</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/密爾瓦基公鹿" title="wikilink">密爾瓦基公鹿</a></p></td>

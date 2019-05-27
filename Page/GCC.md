@@ -57,7 +57,7 @@ Fortran前端在4.0版之前是G77，此前端僅支援Fortran
 
 下列前端依然存在：
 
-  - [Modula-2](https://zh.wikipedia.org/wiki/Modula-2 "wikilink")
+  - [Modula-2](../Page/Modula-2.md "wikilink")
   - [Modula-3](../Page/Modula-3.md "wikilink")
   - [Pascal](../Page/Pascal_\(程式語言\).md "wikilink")
   - [PL/I](https://zh.wikipedia.org/wiki/PL/I "wikilink")

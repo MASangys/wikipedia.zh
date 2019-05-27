@@ -4,11 +4,11 @@
 
 由于校内多个BBS对用户的分流作用，该站目前在校内用户中影响力不大，平均上站人数在500人左右。
 
-目前仅提供[telnet方式访问](https://zh.wikipedia.org/wiki/telnet "wikilink")\[1\]，其与[飘渺水云间BBS目前使用人数很少](../Page/飘渺水云间BBS.md "wikilink")，许多版面已经久未更新。当前主要活跃的站点为[CC98论坛](https://zh.wikipedia.org/wiki/CC98论坛 "wikilink")。
+目前仅提供[telnet方式访问](https://zh.wikipedia.org/wiki/telnet "wikilink")\[1\]，其与[飘渺水云间BBS目前使用人数很少](../Page/飘渺水云间BBS.md "wikilink")，许多版面已经久未更新。当前主要活跃的站点为[CC98论坛](../Page/CC98论坛.md "wikilink")。
 
 ## 參見
 
-  - [CC98论坛](https://zh.wikipedia.org/wiki/CC98论坛 "wikilink")
+  - [CC98论坛](../Page/CC98论坛.md "wikilink")
   - [飘渺水云间BBS](../Page/飘渺水云间BBS.md "wikilink")
   - [浙江大学](../Page/浙江大学.md "wikilink")
   - [BBS](../Page/BBS.md "wikilink")

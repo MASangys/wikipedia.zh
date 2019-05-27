@@ -15,13 +15,13 @@ OSGi服务平台的应用包括：[服务网关](https://zh.wikipedia.org/wiki/�
 [网格计算](../Page/网格计算.md "wikilink")、[娱乐](https://zh.wikipedia.org/wiki/娱乐 "wikilink")（如[iPronto](https://zh.wikipedia.org/wiki/iPronto "wikilink")）、和[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink")。
 
 OSGi规范是由成员通过公开的程序开发，对公众免费而且没有许可证限制。但是OSGi
-Alliance的[兼容性程序只对成员开放](https://zh.wikipedia.org/wiki/兼容性 "wikilink")，目前有12个兼容的[实现](https://zh.wikipedia.org/wiki/实现 "wikilink")。
+Alliance的[兼容性程序只对成员开放](../Page/兼容性.md "wikilink")，目前有12个兼容的[实现](https://zh.wikipedia.org/wiki/实现 "wikilink")。
 
 2003年[Eclipse选择OSGi作为其](../Page/Eclipse.md "wikilink")[插件的底层运行时架构](../Page/插件.md "wikilink")。[Equinox](http://www.eclipse.org/equinox/)
 project对该理念进行了实验，2004年6月在Eclipse3
-R3中发布。[ProSyst是面向OSGi开发者的Eclipse插件](https://zh.wikipedia.org/wiki/ProSyst "wikilink")。
+R3中发布。[ProSyst是面向OSGi开发者的Eclipse插件](../Page/ProSyst.md "wikilink")。
 
-2003年10月，[诺基亚](../Page/诺基亚.md "wikilink")、[摩托罗拉](../Page/摩托罗拉.md "wikilink")，[ProSyst和其他OSGi成员组建了Mobile](https://zh.wikipedia.org/wiki/ProSyst "wikilink")
+2003年10月，[诺基亚](../Page/诺基亚.md "wikilink")、[摩托罗拉](../Page/摩托罗拉.md "wikilink")，[ProSyst和其他OSGi成员组建了Mobile](../Page/ProSyst.md "wikilink")
 Expert
 Group（MEG）为下一代智能手机规范业务平台，做为对[MIDP和](https://zh.wikipedia.org/wiki/MIDP "wikilink")[CDC的补充](https://zh.wikipedia.org/wiki/CDC "wikilink")。
 

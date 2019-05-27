@@ -21,7 +21,7 @@ service）应当是一个[软件系统](../Page/软件.md "wikilink")，用以�
 
   - [UDDI](https://zh.wikipedia.org/wiki/UDDI "wikilink"):一个用来发布和搜索WEB服务的协议，应用程序可藉由此协议在设计或运行时找到目标WEB服务。
 
-这些标准由这些组织制订：W3C负责XML、SOAP及WSDL；[OASIS负责UDDI](https://zh.wikipedia.org/wiki/結構化資訊標準促進組織 "wikilink")。
+这些标准由这些组织制订：W3C负责XML、SOAP及WSDL；[OASIS负责UDDI](../Page/結構化資訊標準促進組織.md "wikilink")。
 
 ### 协议集
 

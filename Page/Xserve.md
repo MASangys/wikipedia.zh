@@ -25,7 +25,7 @@ GB的[PC-2700](https://zh.wikipedia.org/wiki/PC-2700 "wikilink")
 400埠（一個在前面，兩個在後方），2個[USB](../Page/USB.md "wikilink")
 1.1埠（後方），一個[RS-232管理界面](https://zh.wikipedia.org/wiki/RS-232 "wikilink")（後方），以及一個內建[gigabit網路不提供額外的連線能力](https://zh.wikipedia.org/wiki/gigabit "wikilink")。提供2個64位元／66MHz的[PCI插槽以及](https://zh.wikipedia.org/wiki/PCI "wikilink")1個32位元／66MHz的PCI/[AGP插槽](../Page/AGP.md "wikilink")。在預設的設定下，兩個PCI插槽都是被[ATI
 Technologies](https://zh.wikipedia.org/wiki/ATi "wikilink") [Rage
-128顯示卡和額外的gigabit以太網路卡所佔用](../Page/Rage_128.md "wikilink")。最大支援到4個[ATA](https://zh.wikipedia.org/wiki/ATA "wikilink")／100硬碟（60或120
+128顯示卡和額外的gigabit以太網路卡所佔用](../Page/Rage_128.md "wikilink")。最大支援到4個[ATA](../Page/ATA.md "wikilink")／100硬碟（60或120
 GB），放至於前方的[熱抽換區域](https://zh.wikipedia.org/wiki/熱抽換 "wikilink")，允許產生軟體[磁碟陣列](https://zh.wikipedia.org/wiki/磁碟陣列 "wikilink")0,
 1，和5的陣列。一個載盤式的光碟機則置於前方。
 

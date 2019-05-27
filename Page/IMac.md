@@ -87,11 +87,11 @@ iMac 產品線，擁有 LCD 螢幕（17或20吋寬螢幕）和電腦（包含電
 1.8 GHz  [64位元](../Page/64位元.md "wikilink") 處理器，特色為一個 [Serial
 ATA](https://zh.wikipedia.org/wiki/Serial_ATA "wikilink")
 [硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")（在教育版型號是[Parallel
-ATA](https://zh.wikipedia.org/wiki/ATA "wikilink")）和
+ATA](../Page/ATA.md "wikilink")）和
 [nVidia](https://zh.wikipedia.org/wiki/nVidia "wikilink") GeForce 5200
 繪圖處理晶片。USB 2、FireWire 400、和 10/100Base-T
 [乙太網路埠](https://zh.wikipedia.org/wiki/乙太網路 "wikilink")、V.92
-[數據機](https://zh.wikipedia.org/wiki/數據機 "wikilink")、視訊輸出埠、類比語音輸入孔、和結合類比／mini-[TOSLINK的語音輸出孔](https://zh.wikipedia.org/wiki/TOSLINK "wikilink")（類似在
+[數據機](https://zh.wikipedia.org/wiki/數據機 "wikilink")、視訊輸出埠、類比語音輸入孔、和結合類比／mini-[TOSLINK的語音輸出孔](../Page/TOSLINK.md "wikilink")（類似在
 AirPort Express 的單元）和獨立擺置在後方的電源按鈕。整個外觀是由一個鋁製的懸臂撐在桌面上，也可以使用
 [VESA](https://zh.wikipedia.org/wiki/VESA "wikilink") 掛載平板來取代，讓整個機身可以用任何
 VESA

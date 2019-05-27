@@ -37,7 +37,7 @@ Lite則是該系列最低階的產品，但對於個人使用是免費的，並�
   - [Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")
   - [Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")
   - [Windows 8.1](../Page/Windows_8.1.md "wikilink")
-  - [Windows 10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
+  - [Windows 10](../Page/Windows_10.md "wikilink")
 
 ## 關連項目
 

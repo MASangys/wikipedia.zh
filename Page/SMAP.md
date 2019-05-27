@@ -177,7 +177,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 
 ### 公信榜
 
-  - 单曲《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》、《[夜空的彼岸](../Page/夜空的彼岸.md "wikilink")》、《》和《[SHAKE](https://zh.wikipedia.org/wiki/SHAKE_\(SMAP单曲\) "wikilink")》，以及精选专辑《》销量均已突破100万。
+  - 单曲《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》、《[夜空的彼岸](../Page/夜空的彼岸.md "wikilink")》、《》和《[SHAKE](../Page/SHAKE_\(SMAP单曲\).md "wikilink")》，以及精选专辑《》销量均已突破100万。
 
 <!-- end list -->
 
@@ -223,7 +223,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 2.  [夜空的彼岸](../Page/夜空的彼岸.md "wikilink")
 
 3.
-4.  [SHAKE](https://zh.wikipedia.org/wiki/SHAKE_\(SMAP单曲\) "wikilink")
+4.  [SHAKE](../Page/SHAKE_\(SMAP单曲\).md "wikilink")
 
 5.
 6.
@@ -237,8 +237,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 
 1.
 2.
-3.  [SMAP 25
-    YEARS](https://zh.wikipedia.org/wiki/SMAP_25_YEARS "wikilink")
+3.  [SMAP 25 YEARS](../Page/SMAP_25_YEARS.md "wikilink")
 
 4.
 5.
@@ -259,8 +258,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 6.
 7.
 8.
-9.  [THANKS FOR
-    BEIJING\!\!](https://zh.wikipedia.org/wiki/THANKS_FOR_BEIJING!! "wikilink")
+9.  [THANKS FOR BEIJING\!\!](../Page/THANKS_FOR_BEIJING!!.md "wikilink")
 
 10. [SMAP我会努力的！2010年10小时超完全版](https://zh.wikipedia.org/wiki/SMAP☆我会努力的！ "wikilink")
 
@@ -569,7 +567,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 <tr class="odd">
 <td><p>23</p></td>
 <td><p>1996年<a href="../Page/11月18日.md" title="wikilink">11月18日</a></p></td>
-<td><p>''' <a href="https://zh.wikipedia.org/wiki/SHAKE_(SMAP单曲)" title="wikilink">SHAKE</a> '''</p></td>
+<td><p>''' <a href="../Page/SHAKE_(SMAP单曲).md" title="wikilink">SHAKE</a> '''</p></td>
 <td><p>1位</p></td>
 <td><p>CD</p></td>
 <td><p>VIDL-10820</p></td>
@@ -1165,14 +1163,14 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
 #### 精选辑
 
-|   | 发行日期        | 专辑名                                                                            | 周间排名 | 售卖版本 | 备注             |
-| - | ----------- | ------------------------------------------------------------------------------ | ---- | ---- | -------------- |
-| 1 | 1995年1月1日   | ****                                                                           | 1位   | CD   | 精选歌曲有重新制作      |
-| 2 | 1997年3月26日  | '''  '''                                                                       | 2位   | 2CD  | 重新制作并包括限定歌曲    |
-| 3 | 2001年3月23日  | '''  '''                                                                       | 1位   | 2CD  | 10年所发行单曲主打歌精选  |
-| 4 | 2001年8月8日   | '''  '''                                                                       | 1位   | CD   | 10年所发行单曲非主打歌精选 |
-| 5 | 2011年8月17日  | '''  '''                                                                       | 1位   | CD   | 成立20年由歌迷票选歌曲精选 |
-| 6 | 2016年12月21日 | '''[SMAP 25 YEARS](https://zh.wikipedia.org/wiki/SMAP_25_YEARS "wikilink") ''' | 1位   | 3CD  | 25周年纪念精选辑      |
+|   | 发行日期        | 专辑名                                                         | 周间排名 | 售卖版本 | 备注             |
+| - | ----------- | ----------------------------------------------------------- | ---- | ---- | -------------- |
+| 1 | 1995年1月1日   | ****                                                        | 1位   | CD   | 精选歌曲有重新制作      |
+| 2 | 1997年3月26日  | '''  '''                                                    | 2位   | 2CD  | 重新制作并包括限定歌曲    |
+| 3 | 2001年3月23日  | '''  '''                                                    | 1位   | 2CD  | 10年所发行单曲主打歌精选  |
+| 4 | 2001年8月8日   | '''  '''                                                    | 1位   | CD   | 10年所发行单曲非主打歌精选 |
+| 5 | 2011年8月17日  | '''  '''                                                    | 1位   | CD   | 成立20年由歌迷票选歌曲精选 |
+| 6 | 2016年12月21日 | '''[SMAP 25 YEARS](../Page/SMAP_25_YEARS.md "wikilink") ''' | 1位   | 3CD  | 25周年纪念精选辑      |
 
 #### 其他
 
@@ -1723,7 +1721,7 @@ SMAP早在1988年和1999年就以光GENJI的伴舞身份参加了《NHK红白歌
 <td><p>1996年</p></td>
 <td><p>第47回</p></td>
 <td><p>6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SHAKE_(SMAP单曲)" title="wikilink">SHAKE</a></p></td>
+<td><p><a href="../Page/SHAKE_(SMAP单曲).md" title="wikilink">SHAKE</a></p></td>
 <td><p>11/25</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安室奈美恵" title="wikilink">安室奈美恵</a></p></td>
 <td></td>
@@ -1746,7 +1744,7 @@ SMAP早在1988年和1999年就以光GENJI的伴舞身份参加了《NHK红白歌
 <td><p>8</p></td>
 <td><p><a href="../Page/夜空的彼岸.md" title="wikilink">夜空的彼岸</a></p></td>
 <td><p>23/25</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天童芳美" title="wikilink">天童芳美</a></p></td>
+<td><p><a href="../Page/天童芳美.md" title="wikilink">天童芳美</a></p></td>
 <td></td>
 <td><p>5位</p></td>
 </tr>
@@ -2139,7 +2137,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td><p>2012年</p></td>
 <td><p>第41回</p></td>
 <td><p>20</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SHAKE_(SMAP单曲)" title="wikilink">SHAKE</a></p></td>
+<td><p><a href="../Page/SHAKE_(SMAP单曲).md" title="wikilink">SHAKE</a></p></td>
 <td><p>1/79</p></td>
 <td></td>
 <td><p>开场演出（7）</p></td>
@@ -2157,7 +2155,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td><p>2013年</p></td>
 <td><p>第42回</p></td>
 <td><p>21</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SHAKE_(SMAP单曲)" title="wikilink">SHAKE</a></p></td>
+<td><p><a href="../Page/SHAKE_(SMAP单曲).md" title="wikilink">SHAKE</a></p></td>
 <td><p>1/76</p></td>
 <td></td>
 <td><p>开场演出（8）</p></td>
@@ -2220,7 +2218,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td><p>2014年</p></td>
 <td><p>第43回</p></td>
 <td><p>22</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SHAKE_(SMAP单曲)" title="wikilink">SHAKE</a></p></td>
+<td><p><a href="../Page/SHAKE_(SMAP单曲).md" title="wikilink">SHAKE</a></p></td>
 <td><p>50/105</p></td>
 <td></td>
 <td></td>
@@ -2313,7 +2311,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td><p>2013年</p></td>
 <td><p>第2回</p></td>
 <td><p>2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SHAKE_(SMAP单曲)" title="wikilink">SHAKE</a></p></td>
+<td><p><a href="../Page/SHAKE_(SMAP单曲).md" title="wikilink">SHAKE</a></p></td>
 <td><p>1/82</p></td>
 <td></td>
 <td><p>开场演出（2）</p></td>
@@ -2358,7 +2356,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td><p>2014年</p></td>
 <td><p>第3回</p></td>
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SHAKE_(SMAP单曲)" title="wikilink">SHAKE</a></p></td>
+<td><p><a href="../Page/SHAKE_(SMAP单曲).md" title="wikilink">SHAKE</a></p></td>
 <td><p>1/74</p></td>
 <td></td>
 <td><p>开场演出（3）</p></td>
@@ -3336,8 +3334,8 @@ Off”中，五人的装扮被认为是“滑板男孩”时代的再现。
 
 ## 相关条目
 
-  - [SMAP解散風波](https://zh.wikipedia.org/wiki/SMAP解散風波 "wikilink")
-  - [SMAP SHOP](https://zh.wikipedia.org/wiki/SMAP_SHOP "wikilink")
+  - [SMAP解散風波](../Page/SMAP解散風波.md "wikilink")
+  - [SMAP SHOP](../Page/SMAP_SHOP.md "wikilink")
   - [饭岛三智](https://zh.wikipedia.org/wiki/饭岛三智 "wikilink")
   - [滑板男孩](https://zh.wikipedia.org/wiki/滑板男孩 "wikilink")（SMAP前身）
 

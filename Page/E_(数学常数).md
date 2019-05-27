@@ -16,8 +16,8 @@
 
 ## 定義
 
-就像[圓周率](https://zh.wikipedia.org/wiki/圓周率 "wikilink")\(\pi\)和\[\[虛數單位|虛數單位{2\!}
-+ \\frac{x^{3}}{3\!} + ...</math>
+就像[圓周率](../Page/圓周率.md "wikilink")\(\pi\)和\[\[虛數單位|虛數單位{2\!} +
+\\frac{x^{3}}{3\!} + ...</math>
 
 \(x\)為複數時依然成立，因此根據\(\sin x\)及\(\cos x\)的泰勒級數，得出在數學中一條稱為[歐拉公式的重要等式](https://zh.wikipedia.org/wiki/歐拉公式 "wikilink")：
 

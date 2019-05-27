@@ -208,7 +208,7 @@ AVBWU734於2018年7月原Hanover橙色LED電子牌更換為同款白色LED電子
 九巴在2013年訂購2部12.8米B9TL巴士，由珠海廣通客車負責組裝車身，分別在2014年5月23日及6月20日運抵香港。
 
 首部新車與另一輛[亞歷山大丹尼士Enviro 500
-MMC](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_500_MMC "wikilink")12.8米樣板車一同於6月2日在[九巴月輪街車廠參與記者招待會](https://zh.wikipedia.org/wiki/九巴月輪街車廠 "wikilink")，[九巴稱會安排這兩輛巴士試驗行走](https://zh.wikipedia.org/wiki/九巴 "wikilink")、、和線，但最終率先調派往試行，以收集行車數據\[6\]\[7\]\[8\]。
+MMC](../Page/亞歷山大丹尼士Enviro_500_MMC.md "wikilink")12.8米樣板車一同於6月2日在[九巴月輪街車廠參與記者招待會](https://zh.wikipedia.org/wiki/九巴月輪街車廠 "wikilink")，[九巴稱會安排這兩輛巴士試驗行走](https://zh.wikipedia.org/wiki/九巴 "wikilink")、、和線，但最終率先調派往試行，以收集行車數據\[6\]\[7\]\[8\]。
 
 首輛新車於2014年6月18日於九龍灣驗車中心進行傾側測試時向右翻側，右邊車窗損毀。\[9\]及後經九巴工程人員檢查維修後，於同年7月4日順利通過傾側測試程序。兩輛新車分別於2014年8月26日及8月27日正式出牌並入籍沙田車廠，車牌號碼分別為SX2327及SX1716，3AVBWU2其後在2014年10月10日首航線。此車為載客量為146人，全數車尾四盞LED燈於2016年底陸續拆除。
 
@@ -364,7 +364,7 @@ Travel率先於2004年底訂購6輛配單門版東蘭開夏車身的三軸版B9T
 2006年7月，一輛配[Wright](https://zh.wikipedia.org/wiki/Wrightbus "wikilink")
 Eclipse Gemini車身的兩軸版B9TL樣辦巴士加入倫敦的London
 General巴士公司作試驗行駛。英國首批兩軸版B9TL巴士是由Delaine
-Buses訂購，為數2輛，配全新的[東蘭開夏](https://zh.wikipedia.org/wiki/東蘭開夏 "wikilink")/[Optare](https://zh.wikipedia.org/wiki/Optare "wikilink")
+Buses訂購，為數2輛，配全新的[東蘭開夏](https://zh.wikipedia.org/wiki/東蘭開夏 "wikilink")/[Optare](../Page/Optare.md "wikilink")
 Olympus車身，其中首輛巴士連同一輛配[亞歷山大丹尼士Enviro
 400車身的兩軸版B](../Page/亞歷山大丹尼士Enviro_400.md "wikilink")9TL樣辦巴士同於2006年11月舉行的Euro
 Bus Expo車展展出。
@@ -449,15 +449,13 @@ Optimus車身及ZF Ecolife波箱的三軸版B9TL， 採用不銹鋼車軨，
 ### 競爭產品
 
   - [亞歷山大丹尼士Enviro 500](../Page/亞歷山大丹尼士Enviro_500.md "wikilink")
-  - [亞歷山大丹尼士Enviro 500
-    MMC](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_500_MMC "wikilink")
+  - [亞歷山大丹尼士Enviro 500 MMC](../Page/亞歷山大丹尼士Enviro_500_MMC.md "wikilink")
   - [猛獅24.310](../Page/猛獅24.310.md "wikilink")
   - [猛獅A95](../Page/猛獅A95.md "wikilink")
   - [Neoplan Centroliner](../Page/Neoplan_Centroliner.md "wikilink")
   - [斯堪尼亞K280UD](../Page/斯堪尼亞K280UD.md "wikilink")
   - [斯堪尼亞K310UD](../Page/斯堪尼亞K310UD.md "wikilink")
-  - [VDL
-    DB300](https://zh.wikipedia.org/wiki/VDL_DB300 "wikilink")，此車型與B9TL的兩軸版本。
+  - [VDL DB300](../Page/VDL_DB300.md "wikilink")，此車型與B9TL的兩軸版本。
 
 ## 參考資料
 

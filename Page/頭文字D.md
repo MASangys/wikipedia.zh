@@ -6,7 +6,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》上連載，連載至201
 Magazine》上的連載，于2014年5月17日推出最後一話，為這部經典作品劃上句點。截至2013年，全系列漫畫單行本累積發行量約為4800萬本，相關CD為700,000張，DVD為500,000片\[1\]。
 
 漫畫《[MF
-GHOST](https://zh.wikipedia.org/wiki/MF_GHOST "wikilink")》為重野秀一在2013年完結《頭文字D》時隔4年後於《周刊Young
+GHOST](../Page/MF_GHOST.md "wikilink")》為重野秀一在2013年完結《頭文字D》時隔4年後於《周刊Young
 Magazine》上再度連載的新賽車作品\[2\]。
 
 ## 概要
@@ -305,8 +305,7 @@ Eurobeat**的頭文字D專輯由於容量上限制，所以多少刪減少許的
 
 遊戲中車輛並不會因碰撞欄杆而損壞，但是會因為碰撞欄杆而減速。
 
-  - 《[頭文字D Arcade
-    Stage](https://zh.wikipedia.org/wiki/頭文字D_Arcade_Stage "wikilink")》
+  - 《[頭文字D Arcade Stage](../Page/頭文字D_Arcade_Stage.md "wikilink")》
       - 為頭文字D的街機版，全共有9版，皆由SEGA出品。在2016年8月4日至8月7日，在日本特定地區（池袋、新宿及秋葉原）已可玩「頭文字D
         Arcade Stage Zero」，而不同地區有不同代表車隊(池袋為赤城Red Suns、新宿為秋名Speed
         Stars及秋葉原為妙義Night
@@ -315,7 +314,7 @@ Eurobeat**的頭文字D專輯由於容量上限制，所以多少刪減少許的
         Stars為主題的車卡以及追加特別的AE86和Silvia
         S13及[藤原拓海和池谷浩一郎的車手頭像](../Page/藤原拓海.md "wikilink"))。
       - 第9版命名為「頭文字D Arcade Stage Zero」，於2017年3月日本地區推出。
-  - 《頭文字D》（[PS](https://zh.wikipedia.org/wiki/PlayStation "wikilink")、[SS](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")）
+  - 《頭文字D》（[PS](../Page/PlayStation.md "wikilink")、[SS](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")）
   - 《頭文字D 外傳》（[GB](https://zh.wikipedia.org/wiki/GameBoy "wikilink")）
   - 《頭文字D Special Stage》（[PS2](../Page/PlayStation_2.md "wikilink")）
   - 《頭文字D 山口復仇》（PC）

@@ -87,7 +87,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[川浪葉子](https://zh.wikipedia.org/wiki/川浪葉子 "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")；香港：[陸惠玲](../Page/陸惠玲.md "wikilink")
+    聲優：日本：[川浪葉子](../Page/川浪葉子.md "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")；香港：[陸惠玲](../Page/陸惠玲.md "wikilink")
     全名為“莎拉‧貝倫”，現任市長先生的助理，漫畫版年齡三十五歲。身材高挑、時常穿著白色連身衣、留著金色波浪長髮。作品中任何人都能看到她的真面目，但依舊不讓電視機前的觀眾看清楚。
 
 <!-- end list -->
@@ -111,7 +111,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[大本真基子](../Page/大本真基子.md "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[黃玉娟](../Page/黃玉娟.md "wikilink")
+    聲優：日本：[大本真基子](../Page/大本真基子.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[黃玉娟](../Page/黃玉娟.md "wikilink")
     通稱**小賢**，在作品中是尤教授的[獨生子](https://zh.wikipedia.org/wiki/獨生子 "wikilink")，也是尤教授的助理。動畫版年齡八歲，但已從[醫學系畢業](../Page/醫學系.md "wikilink")，取得[博士學位](../Page/博士.md "wikilink")，可說是奇才。
     在第一集中，為了拯救[地球](../Page/地球.md "wikilink")「不尋常的[氣候](../Page/氣候.md "wikilink")」，擅自使用與父親尤教授「共同研發」的「化學物Z」，結果打破冰山內封印著「他」的靈魂、表面塗滿Kennainum
     he的箱子，桃子、小都及薰薰都是因為不小心被四散的Kennainum
@@ -190,7 +190,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[張頌欣](../Page/張頌欣.md "wikilink")
+    聲優：日本：；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[張頌欣](../Page/張頌欣.md "wikilink")
 
 <!-- end list -->
 
@@ -207,7 +207,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[宍戸留美](https://zh.wikipedia.org/wiki/宍戸留美 "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")
+    聲優：日本：[宍戸留美](https://zh.wikipedia.org/wiki/宍戸留美 "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")
     十五歲。是一家極富盛名的[點心店金時堂的負責人](https://zh.wikipedia.org/wiki/點心 "wikilink")，性格溫柔，被黑光打中後，可以變成與櫻子差異之大的邪惡女性**瑟杜莎**（請參照**反派角色**）。
     當金時櫻子不是瑟杜莎的時候，就不是女孩們的[敵人](../Page/敵人.md "wikilink")，而桃子也非常喜愛金時堂的甜點。
 
@@ -245,7 +245,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[岡村明美](../Page/岡村明美.md "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")
+    聲優：日本：[岡村明美](../Page/岡村明美.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")
     桃子的媽媽。
 
 <!-- end list -->
@@ -255,7 +255,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（第3集下）→[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[張頌欣](../Page/張頌欣.md "wikilink")
+    聲優：日本：[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")（第3集下）→[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[張頌欣](../Page/張頌欣.md "wikilink")
     桃子的妹妹，第二十四話正式登場，與小賢同一班。
     可能是受了姊姊的影響，和桃子同樣愛看特攝片；值得一提的是栗子非常著迷於劇中男性之間的情誼。
 
@@ -270,7 +270,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[渡邊美佐](../Page/渡邊美佐.md "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")→[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[蔡惠萍](../Page/蔡惠萍.md "wikilink")
+    聲優：日本：[渡邊美佐](../Page/渡邊美佐.md "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")→[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[蔡惠萍](../Page/蔡惠萍.md "wikilink")
     小都的祖母。
     是傳統的賢慧女性，非常重視女生的舉止。
 
@@ -345,7 +345,7 @@
     he對著三位女孩子灑，頓時間，三位女孩子有了超能力，也能飛翔，平賀賢內深信，有了Kennainum
     he，超能少女組們就能輕易地對付「他」這個頭號怪物。不過，超能少女組的一位成員對平賀賢內[博士的命名似乎有點不太滿意](../Page/博士.md "wikilink")，也有成員認為不用[名字才比較好](https://zh.wikipedia.org/wiki/名字 "wikilink")，爭論不休的同時，有人告知「他」出來大肆破壞了，這時平賀賢內[博士就請超能少女組去打敗](../Page/博士.md "wikilink")「他」。
     一開始，超能少女組們雖然擁有超能力，但「他」的力量無比，兩隻螯狀的手臂能夠伸縮自如，香子吃了大虧，正當「他」正要趁機收拾大江戶超能少女組時，天上下起了[雪](../Page/雪.md "wikilink")，怕冷的「他」作戰能力因而大打折扣，此時大江戶超能少女組趁機各自施展了必殺技，成功地打敗「他」這個頭號大敵，並由平賀賢內[博士透過靜電感應器](../Page/博士.md "wikilink")，順利將黑光和身體分開，並立刻將靈魂封印在一個箱子內，用Kennainum
-    he塗滿箱子表面，由大江戶超能少女組合力將箱子丟入大[海中](https://zh.wikipedia.org/wiki/海 "wikilink")，同時平賀賢內[博士也用Kennainum](../Page/博士.md "wikilink")
+    he塗滿箱子表面，由大江戶超能少女組合力將箱子丟入大[海中](../Page/海.md "wikilink")，同時平賀賢內[博士也用Kennainum](../Page/博士.md "wikilink")
     he將「他」的身體封印於石棺柩內，將石棺放置在神社。放置石棺的神社，在現代被改建為博物館。
     「他」被封印了一百年，又透過[木乃伊找到飛天小女警Z的白光來源](../Page/木乃伊.md "wikilink")，才得以再次進行復仇計畫。
     三位超能少女組均穿著[和服](../Page/和服.md "wikilink")，其三名成員敘述如下：
@@ -398,7 +398,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[笠原留美](../Page/笠原留美.md "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")
+    聲優：日本：[笠原留美](../Page/笠原留美.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")
     照顧過魔人啾啾的[護士小姐](https://zh.wikipedia.org/wiki/護士 "wikilink")，曾說過「喜歡有著猴子臉」的那一類，讓魔人啾啾以為菜菜子是喜歡牠。直到魔人啾啾看到了猿田醫生也有著猴子臉的樣子，更是菜菜子喜愛的那一型，讓魔人啾啾難以接受這個事實。
 
 <!-- end list -->
@@ -453,7 +453,7 @@
 
   -
     聲優：日本：[池田千草](../Page/池田千草.md "wikilink")；台灣：[謝佼娟](../Page/謝佼娟.md "wikilink")；香港：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")
-    是個仗著有權、有勢、有財富的傲慢千金大[小姐](../Page/小姐.md "wikilink")，養有一隻稱作[藍寶石](https://zh.wikipedia.org/wiki/藍寶石 "wikilink")（）（聲優：日本：[石毛佐和](../Page/石毛佐和.md "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）的[貓](https://zh.wikipedia.org/wiki/貓 "wikilink")。十歲。
+    是個仗著有權、有勢、有財富的傲慢千金大[小姐](../Page/小姐.md "wikilink")，養有一隻稱作[藍寶石](https://zh.wikipedia.org/wiki/藍寶石 "wikilink")（）（聲優：日本：[石毛佐和](../Page/石毛佐和.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）的[貓](https://zh.wikipedia.org/wiki/貓 "wikilink")。十歲。
     被[父親給寵壞](../Page/父親.md "wikilink")，認為[錢就能買到一切](https://zh.wikipedia.org/wiki/錢 "wikilink")，而只要開口，[父親絕不吝嗇滿足姬子的](../Page/父親.md "wikilink")「願望」，也希望別人一定要對她特別注目。
     在被黑光打中後，可以成為**多金公主**，性格還是差不多；之後每當姬子聽到藍寶石的叫聲，就會變身成多金公主，是飛天小女警Z的敵人，但姬子完全不知道多金公主的存在。而尤教授曾試圖讓藍寶石戴上能改變叫聲的項圈，以為這麼一來姬子就不會變身，但實際試驗的結果是仍然會變身為多金公主，不過造型會不太一樣。
     還原光束對多金公主有效果，但即使還原仍不改性格。
@@ -473,7 +473,7 @@
       - 紳士（）
     <!-- end list -->
       -
-        聲優：日本：[稻葉實](https://zh.wikipedia.org/wiki/稻葉實 "wikilink")；台灣：[孫中台](../Page/孫中台.md "wikilink")；香港：[招世亮](../Page/招世亮.md "wikilink")
+        聲優：日本：[稻葉實](../Page/稻葉實.md "wikilink")；台灣：[孫中台](../Page/孫中台.md "wikilink")；香港：[招世亮](../Page/招世亮.md "wikilink")
         [藍色的](../Page/藍色.md "wikilink")[阿米巴](https://zh.wikipedia.org/wiki/阿米巴 "wikilink")，刁著[煙斗及戴著高禮帽是其特徵](https://zh.wikipedia.org/wiki/煙斗 "wikilink")。
     <!-- end list -->
       - 大俠（）
@@ -542,7 +542,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[宍戸留美](https://zh.wikipedia.org/wiki/宍戸留美 "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")
+    聲優：日本：[宍戸留美](https://zh.wikipedia.org/wiki/宍戸留美 "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")
     從金時櫻子變身而成，而還原光束可以還原瑟杜莎。喜愛[化妝](https://zh.wikipedia.org/wiki/化妝 "wikilink")、名牌衣物及飾品…等，雍容華貴、愛慕虛榮，價值愈高的名牌精品就愈愛偷或搶。擅於易容，只要[化妝就能成為另外一個人的樣子](https://zh.wikipedia.org/wiki/化妝 "wikilink")，卸妝之後能夠恢復原貌。
     金時櫻子變身成瑟杜莎的關鍵是使用特定品牌的[口紅](../Page/口紅.md "wikilink")，當她想起愛戀對象莊一郎又想起自己的模樣，或她看見莊一郎和其他女性談話而心生嫉妒時，為了變得更吸引人，便拿起[口紅塗在唇上](../Page/口紅.md "wikilink")，就立刻變身成瑟杜莎，但櫻子卻完全不知道自己會因為使用口紅而變成瑟杜莎，莊一郎也極力在櫻子面前隱瞞這個事實。然而，瑟杜莎犯罪的目的幾乎都是為了吸引莊一郎注意，但種種招數對於心裡只有金時櫻子一人的莊一郎從未奏效。
     在第八話，奇奇無法察覺犯案的瑟杜莎，因為化妝品的味道過於濃烈，但也因為這點讓旋轉泡泡發現偽裝成強力毛毛的瑟杜莎，不過這個設定卻在第四十五話第二部分取消。
@@ -578,7 +578,7 @@
       - 布布（）
     <!-- end list -->
       -
-        聲優：日本：[青山桐子](../Page/青山桐子.md "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")
+        聲優：日本：[青山桐子](../Page/青山桐子.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")
         特徵是水藍色運動服、臉上有雀斑，面貌跟旋轉泡泡很像，但髮型不像。絕技可以是噴[鼻屎](https://zh.wikipedia.org/wiki/鼻屎 "wikilink")，也可以是丟[棉花棒或射](https://zh.wikipedia.org/wiki/棉花棒 "wikilink")[耳屎](https://zh.wikipedia.org/wiki/耳屎 "wikilink")。
     <!-- end list -->
       - 巴巴（）
@@ -599,7 +599,7 @@
     有堆黑粉，能派遣去做惡，也可以附著在人或物品，就像被黑光打到一樣，讓人或物成為怪獸，機械狗奇奇也能感應被黑粉附著成為怪獸的情況，但其黑粉也會怕冷。
     還原光束對「他」效果如何未知。
     起初被封印在某戶老舊豪宅的石棺柩內，不管怎樣賣力打開石棺柩，封印條讓他困擾許久，而透過石棺柩的空隙灑出一點黑粉，黑粉飄落到[木乃伊的繃帶](../Page/木乃伊.md "wikilink")，使[木乃伊復活](../Page/木乃伊.md "wikilink")，便請[木乃伊打開石棺柩](../Page/木乃伊.md "wikilink")，但封印條傷了[木乃伊的手指](../Page/木乃伊.md "wikilink")，讓手指著[火](../Page/火.md "wikilink")，所以就讓[木乃伊找強力白光](../Page/木乃伊.md "wikilink")，而不受到封印條影響，並讓封印條消失，最後[木乃伊帶著吸取小女警們的白光回到老舊的博物館內](../Page/木乃伊.md "wikilink")，順利解開封印條，「他」就這樣誕生了。
-    在第三十話的時候，尤教授對小賢講解「他」在[江戶時代焚燒民宅](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")、作惡多端的故事，最後被大江戶超能少女組打敗後，而被封印起來前仍不知悔改，而黑光也被與身體強制分離並封印、丟入大[海中](https://zh.wikipedia.org/wiki/海 "wikilink")，「他」在一百年後甦醒，看不到[江戶時代](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")，卻看到現代化的東京市，「他」發誓一定要為在[江戶時代的失敗慘痛經驗而復仇](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")。
+    在第三十話的時候，尤教授對小賢講解「他」在[江戶時代焚燒民宅](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")、作惡多端的故事，最後被大江戶超能少女組打敗後，而被封印起來前仍不知悔改，而黑光也被與身體強制分離並封印、丟入大[海中](../Page/海.md "wikilink")，「他」在一百年後甦醒，看不到[江戶時代](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")，卻看到現代化的東京市，「他」發誓一定要為在[江戶時代的失敗慘痛經驗而復仇](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")。
 
 #### 非主要
 
@@ -712,7 +712,7 @@
       -
         [綠色的](../Page/綠色.md "wikilink")[青椒形狀怪物](https://zh.wikipedia.org/wiki/青椒 "wikilink")，絕技是「[維他命飛踢](https://zh.wikipedia.org/wiki/維他命 "wikilink")」。
     <!-- end list -->
-      - **芹菜怪**（）（聲優：日本：[高城元氣](../Page/高城元氣.md "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[梁偉德](../Page/梁偉德.md "wikilink")）
+      - **芹菜怪**（）（聲優：日本：[高城元氣](../Page/高城元氣.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[梁偉德](../Page/梁偉德.md "wikilink")）
     <!-- end list -->
       -
         [芹菜模樣的怪物](https://zh.wikipedia.org/wiki/芹菜 "wikilink")，絕技是「[纖維拳擊](https://zh.wikipedia.org/wiki/纖維 "wikilink")」。
@@ -770,7 +770,7 @@
       - **烏賊壽司怪獸**（）（聲優：日本：[高戸靖広](https://zh.wikipedia.org/wiki/高戸靖広 "wikilink")；香港：[林保全](../Page/林保全.md "wikilink")）
       - **海膽壽司怪獸**（）（聲優：日本：[竹本英史](../Page/竹本英史.md "wikilink")；台灣：-{[于正昇](../Page/于正昇.md "wikilink")}-；香港：[張預東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
       - **鯵魚壽司怪獸**（）（聲優：日本：[一条和矢](https://zh.wikipedia.org/wiki/一条和矢 "wikilink")；台灣：[孫德成](https://zh.wikipedia.org/wiki/孫德成 "wikilink")；香港：[梁偉德](../Page/梁偉德.md "wikilink")）
-      - **鮭魚卵壽司怪獸**（）（聲優：台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[陳凱婷](../Page/陳凱婷.md "wikilink")）
+      - **鮭魚卵壽司怪獸**（）（聲優：台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[陳凱婷](../Page/陳凱婷.md "wikilink")）
 
 <!-- end list -->
 
@@ -1109,7 +1109,7 @@ Finish）**力量會加成。
 <td><p>小女警，親情的羈絆！</p></td>
 <td><p>我們是一家人！</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山田隆司" title="wikilink">山田隆司</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/植田秀仁" title="wikilink">植田秀仁</a></p></td>
+<td><p><a href="../Page/植田秀仁.md" title="wikilink">植田秀仁</a></p></td>
 <td><p>岡辰也</p></td>
 <td><p>髙木佑梨</p></td>
 <td><p>7月22日</p></td>
@@ -1288,7 +1288,7 @@ Finish）**力量會加成。
 <td></td>
 <td><p>照相機怪獸的反擊！</p></td>
 <td><p>相機怪的反攻！</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鴫野彰" title="wikilink">鴫野彰</a></p></td>
+<td><p><a href="../Page/鴫野彰.md" title="wikilink">鴫野彰</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1313,7 +1313,7 @@ Finish）**力量會加成。
 <td></td>
 <td><p>服裝秀大混亂！</p></td>
 <td><p>受襲的時裝表演！</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/下山健人" title="wikilink">下山健人</a></p></td>
+<td><p><a href="../Page/下山健人.md" title="wikilink">下山健人</a></p></td>
 <td><p>岩井隆央</p></td>
 <td><p>アベ正己</p></td>
 <td><p>鹿野良行</p></td>
@@ -1447,7 +1447,7 @@ Finish）**力量會加成。
 <td><p>最邪惡的「-{他}-」登場！</p></td>
 <td><p>最兇最惡的怪物！</p></td>
 <td><p>山田隆司</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西尾大介" title="wikilink">西尾大介</a><br />
+<td><p><a href="../Page/西尾大介.md" title="wikilink">西尾大介</a><br />
 石黒育</p></td>
 <td><p>後藤康徳</p></td>
 <td><p>袴田裕二</p></td>
@@ -1532,7 +1532,7 @@ Finish）**力量會加成。
 <td><p>捏我吃我！壽司怪獸登場！</p></td>
 <td><p>壽司怪物</p></td>
 <td><p>浦沢義雄</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/下田正美" title="wikilink">下田正美</a></p></td>
+<td><p><a href="../Page/下田正美.md" title="wikilink">下田正美</a></p></td>
 <td><p>秦義人</p></td>
 <td><p>平塚知哉</p></td>
 <td><p>鹿野良行</p></td>

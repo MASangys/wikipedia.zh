@@ -1,11 +1,11 @@
 是[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（現[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）于1997年在[索尼](../Page/索尼.md "wikilink")[PlayStation平台发行的](https://zh.wikipedia.org/wiki/PlayStation_\(游戏机\) "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，為[最终幻想系列第七部本传](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")，本作亦有多個平台的移植版本。中國大陸和香港譯作「最終-{}-幻想7」。台灣舊譯「太空-{}-戰士7」，由於媒體雜誌都用此名報導，因此亦有玩家通稱此作為太七。游戏是系列首款使用[3D運算的作品](../Page/三维计算机图形.md "wikilink")，其使用即時運算角色和预先[渲染的背景](../Page/渲染.md "wikilink")。[主人公](../Page/主人公.md "wikilink")[克劳德·史特莱夫最初以](https://zh.wikipedia.org/wiki/克劳德·史特莱夫 "wikilink")[雇佣兵身份加入](https://zh.wikipedia.org/wiki/雇佣兵 "wikilink")[生态恐怖主义组织](https://zh.wikipedia.org/wiki/生态恐怖主义 "wikilink")「雪崩」，企圖以武力阻止持有能源專利的特大企业「神罗」为汲取資源而耗盡星球生命。随着情节推进，克劳德和伙伴被卷入另一场更加具威胁性的冲突，起而對抗世上著名的英雄——[萨菲罗斯](https://zh.wikipedia.org/wiki/萨菲罗斯 "wikilink")。
 
-《最终幻想VII》在1994年展開製作。最初计划发行于[超级任天堂平台](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")，后改至[任天堂64](../Page/任天堂64.md "wikilink")。但任天堂64的[卡带媒介未能提供作品](https://zh.wikipedia.org/wiki/ROM卡带 "wikilink")3D化所需之储存容量，故史克威尔决定轉戰使用[CD-ROM的PlayStation平台发行本作](../Page/CD-ROM.md "wikilink")。《最终幻想VII》由[北濑佳范指挥](https://zh.wikipedia.org/wiki/北濑佳范 "wikilink")，[野岛一成和北濑佳范编剧](../Page/野岛一成.md "wikilink")，并由[坂口博信制作](../Page/坂口博信.md "wikilink")，音乐由長期為系列譜曲的[植松伸夫創作](../Page/植松伸夫.md "wikilink")。而因應作品3D化的需要，以[天野喜孝的畫風相對較難執行](../Page/天野喜孝.md "wikilink")，故天野长期担任的角色设计一职由[野村哲也接任](../Page/野村哲也.md "wikilink")。
+《最终幻想VII》在1994年展開製作。最初计划发行于[超级任天堂平台](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")，后改至[任天堂64](../Page/任天堂64.md "wikilink")。但任天堂64的[卡带媒介未能提供作品](../Page/ROM卡带.md "wikilink")3D化所需之储存容量，故史克威尔决定轉戰使用[CD-ROM的PlayStation平台发行本作](../Page/CD-ROM.md "wikilink")。《最终幻想VII》由[北濑佳范指挥](https://zh.wikipedia.org/wiki/北濑佳范 "wikilink")，[野岛一成和北濑佳范编剧](../Page/野岛一成.md "wikilink")，并由[坂口博信制作](../Page/坂口博信.md "wikilink")，音乐由長期為系列譜曲的[植松伸夫創作](../Page/植松伸夫.md "wikilink")。而因應作品3D化的需要，以[天野喜孝的畫風相對較難執行](../Page/天野喜孝.md "wikilink")，故天野长期担任的角色设计一职由[野村哲也接任](../Page/野村哲也.md "wikilink")。
 
 《最终幻想VII》發售後获得商业上的成功，PlayStation版本的全球累計銷量就突破1000万套\[1\]\[2\]，是系列中最畅销的作品。PS版推出後1998年在[Microsoft
 Windows上发行PC版](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，2009年在[PlayStation
 Network上发行](../Page/PlayStation_Network.md "wikilink")，2012年通过官方網站下载、2013年通过[Steam在PC上发行](../Page/Steam.md "wikilink")，由PC版移植而来的[PlayStation
-4版与](../Page/PlayStation_4.md "wikilink")[iOS版则于](https://zh.wikipedia.org/wiki/iOS "wikilink")2015年发行，相同的移植到[任天堂Switch的版本计划于](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")2019年发售。一般認為，本作對日式角色扮演游戏在日本境外的普及頗有貢獻，為同領域遊戲打進歐美市場立下基礎。因作品受到欢迎，史克威尔艾尼克斯以「[最终幻想VII补完计划](../Page/最终幻想VII补完计划.md "wikilink")」为题，在不同[平台制作了一系列前后传](../Page/電子遊戲機.md "wikilink")。后传电影《[最终幻想VII
+4版与](../Page/PlayStation_4.md "wikilink")[iOS版则于](https://zh.wikipedia.org/wiki/iOS "wikilink")2015年发行，相同的移植到[任天堂Switch的版本计划于](../Page/任天堂Switch.md "wikilink")2019年发售。一般認為，本作對日式角色扮演游戏在日本境外的普及頗有貢獻，為同領域遊戲打進歐美市場立下基礎。因作品受到欢迎，史克威尔艾尼克斯以「[最终幻想VII补完计划](../Page/最终幻想VII补完计划.md "wikilink")」为题，在不同[平台制作了一系列前后传](../Page/電子遊戲機.md "wikilink")。后传电影《[最终幻想VII
 降临之子](../Page/最终幻想VII_降临之子.md "wikilink")》由野岛一成编写，北濑佳范制作，于2005年首映。
 
 2015年[E3索尼展前发布会上史克威尔艾尼克斯發表将開發](https://zh.wikipedia.org/wiki/E3_2015 "wikilink")[本作的重製版](https://zh.wikipedia.org/wiki/最终幻想VII_\(重制版\) "wikilink")，預計在[PlayStation
@@ -91,7 +91,7 @@ Network版发售头两周下载量超过10万次，成为PlayStation Network上�
 
 2013年7月4日，游戏通过[Steam发行Windows的下載版](../Page/Steam.md "wikilink")\[71\]。2014年12月7日，在美国拉斯维加斯举行的“PlayStation
 Experience 2014”上，史克威尔艾尼克斯宣布将原版《最终幻想VII》以提升分辨率的复刻方式推出，平台为[PlayStation
-4](../Page/PlayStation_4.md "wikilink")；该原汁原味的复刻版将于2015年推出。\[72\]在2018年9月14日播出的[任天堂直面会上](../Page/任天堂直面会.md "wikilink")，史克威尔艾尼克斯宣布原版游戏的高清复刻版将会在[任天堂Switch上预计于](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")2019年推出，这是本作自当年取消在[任天堂64上开发后](../Page/任天堂64.md "wikilink")，首次登陆任天堂的游戏平台。\[73\]
+4](../Page/PlayStation_4.md "wikilink")；该原汁原味的复刻版将于2015年推出。\[72\]在2018年9月14日播出的[任天堂直面会上](../Page/任天堂直面会.md "wikilink")，史克威尔艾尼克斯宣布原版游戏的高清复刻版将会在[任天堂Switch上预计于](../Page/任天堂Switch.md "wikilink")2019年推出，这是本作自当年取消在[任天堂64上开发后](../Page/任天堂64.md "wikilink")，首次登陆任天堂的游戏平台。\[73\]
 
 ### 原声音乐
 
@@ -122,7 +122,7 @@ Gamer](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")》总结称，虽然�
 ### 荣誉与奖励
 
 《最终幻想VII》获得1997年数项年度游戏奖。游戏获得日本1997年度[电脑娱乐供应商协会大奖及其剧本和音效部门奖](../Page/日本游戏大奖.md "wikilink")\[120\]，[文化廳媒體藝術祭数字艺术](../Page/文化廳媒體藝術祭.md "wikilink")（互动）部门优秀奖\[121\]。游戏获得[互动艺术科学学会的首次年度互动成就奖](https://zh.wikipedia.org/wiki/互动艺术科学学会 "wikilink")，包括“年度游戏机冒险游戏”和“年度游戏机角色扮演游戏”两类，另及“年度互动作品”“艺术/图形杰出成就”“互动设计杰出成就”三项提名\[122\]。游戏获得了[Origins
-Award的](https://zh.wikipedia.org/wiki/Origins_Award "wikilink")“1997年最佳电脑角色扮演游戏”\[123\]。游戏还获得《[电子游戏月刊](https://zh.wikipedia.org/wiki/电子游戏月刊 "wikilink")》的“读者推荐年度全平台游戏”“读者推荐年度PlayStation游戏”和“读者推荐年度角色扮演游戏”\[124\]。
+Award的](https://zh.wikipedia.org/wiki/Origins_Award "wikilink")“1997年最佳电脑角色扮演游戏”\[123\]。游戏还获得《[电子游戏月刊](../Page/电子游戏月刊.md "wikilink")》的“读者推荐年度全平台游戏”“读者推荐年度PlayStation游戏”和“读者推荐年度角色扮演游戏”\[124\]。
 2018年入选[世界电子游戏名人堂](https://zh.wikipedia.org/wiki/世界电子游戏名人堂 "wikilink")\[125\]。
 
 游戏自1997年来，登上众多杂志的史上最佳游戏榜单，如《电子游戏月刊》2001年“史上最佳100游戏”的第91名\[126\]，以及《[Retro
@@ -149,7 +149,7 @@ motion
 video和电脑繪图使坂口得以开始制作第一部最终幻想电影《[最终幻想：灵魂深处](../Page/最终幻想：灵魂深处.md "wikilink")》\[157\]。游戏还为最终幻想系列引入充满现代先进技术的设定，之后的《最终幻想VIII》和《灵魂深处》继续使用了这类主题\[158\]\[159\]。自《最终幻想VII国际版》发行后，史克威尔在日本的再版游戏就经常增加新功能。之后以[国际版再版的作品有](https://zh.wikipedia.org/wiki/国际版 "wikilink")《最终幻想X》（以“[国际版](https://zh.wikipedia.org/wiki/Final_Fantasy_X "wikilink")”名义）\[160\]、《最终幻想X-2》（以“[国际版+最终任务](https://zh.wikipedia.org/wiki/Final_Fantasy_X-2 "wikilink")”名义）\[161\]、《王国之心》（以“[最终混合版](https://zh.wikipedia.org/wiki/王国之心 "wikilink")”名义）\[162\]、《王国之心II》（以“[最终混合版](https://zh.wikipedia.org/wiki/王国之心II "wikilink")”名义）\[163\]，以及《最终幻想XII》（以“[国际版
 黄道十二宫职业系统](https://zh.wikipedia.org/wiki/Final_Fantasy_XII "wikilink")”名义）\[164\]等。
 
-《最终幻想VII》的一些角色还在史克威尔艾尼克斯的其他作品中[客串](../Page/友情客串.md "wikilink")，其中以和[迪斯尼跨界合作的](https://zh.wikipedia.org/wiki/迪斯尼 "wikilink")[王国之心系列最为知名](https://zh.wikipedia.org/wiki/王国之心 "wikilink")，另外角色也曾在其他公司的作品中，如格斗游戏《[神佑擂台](https://zh.wikipedia.org/wiki/神佑擂台 "wikilink")》登場。此外，格斗游戏《[最终幻想
+《最终幻想VII》的一些角色还在史克威尔艾尼克斯的其他作品中[客串](../Page/友情客串.md "wikilink")，其中以和[迪斯尼跨界合作的](https://zh.wikipedia.org/wiki/迪斯尼 "wikilink")[王国之心系列最为知名](https://zh.wikipedia.org/wiki/王国之心 "wikilink")，另外角色也曾在其他公司的作品中，如格斗游戏《[神佑擂台](../Page/神佑擂台.md "wikilink")》登場。此外，格斗游戏《[最终幻想
 纷争](https://zh.wikipedia.org/wiki/最终幻想_纷争 "wikilink")》使用了克劳德和萨菲罗斯等《最终幻想VII》角色，玩家可以操控他们与最终幻想系列其他角色对战，续作《[最终幻想
 纷争012](https://zh.wikipedia.org/wiki/最终幻想_纷争012 "wikilink")》还加入了角色蒂法。游戏中艾丽丝的死亡常被選为電子游戏中最具象徵性的瞬间之一\[165\]\[166\]\[167\]，而萨菲罗斯也屢屢進入游戏史上最受欢迎的反派排行榜\[168\]\[169\]。
 
@@ -174,7 +174,7 @@ G-Bike》是2014年秋季推出的智能手机[竞速游戏](https://zh.wikipedi
 ### 重制
 
 随着“最终幻想VII补完计划”的公布与制作，有推测称《最终幻想VII》将在[PlayStation
-3平台上](../Page/PlayStation_3.md "wikilink")[重制](https://zh.wikipedia.org/wiki/电子游戏重制 "wikilink")。[E3](https://zh.wikipedia.org/wiki/E3 "wikilink")
+3平台上](../Page/PlayStation_3.md "wikilink")[重制](../Page/电子游戏重制.md "wikilink")。[E3](https://zh.wikipedia.org/wiki/E3 "wikilink")
 2005展会上，使用PlayStation 3图形功能重製的《最终幻想VII》开场動畫诱使传言四起\[180\]，但Square
 Enix稱其僅是為了作技術的演示。
 

@@ -121,7 +121,7 @@ kellyjackie是眾多親[政府藝人之一](../Page/香港特別行政區政府.
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/星光閃耀迪士尼" title="wikilink">星光閃耀迪士尼</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/星光閃耀迪士尼.md" title="wikilink">星光閃耀迪士尼</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Sony_Music" title="wikilink">Sony Music</a></p></td>
 <td style="text-align: left;"><p>2005年9月2日</p></td>

@@ -29,7 +29,7 @@ Soccer](https://zh.wikipedia.org/wiki/FIFA_International_Soccer "wikilink")（�
 ## 历史
 
 《FIFA 95》仅仅添加俱乐部比赛的功能，而《FIFA
-96》则有重大创新，首次获得国际职业足球运动员联合会使用球员真实名字的许可。在[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")、[PC](https://zh.wikipedia.org/wiki/Personal_computer "wikilink")、[世嘉32X](https://zh.wikipedia.org/wiki/Sega_32X "wikilink")、[世嘉土星上使用](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")“虚拟足球场（Virtual
+96》则有重大创新，首次获得国际职业足球运动员联合会使用球员真实名字的许可。在[PlayStation](../Page/PlayStation.md "wikilink")、[PC](https://zh.wikipedia.org/wiki/Personal_computer "wikilink")、[世嘉32X](https://zh.wikipedia.org/wiki/Sega_32X "wikilink")、[世嘉土星上使用](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")“虚拟足球场（Virtual
 Stadium）”引擎，能够使2D的球员在一个实时的3D足球场上运动。FIFA
 97开始使用粗糙的多边形制作球员模型并添加室内足球场模式，但真正的成功则是《FIFA:
 Road to World Cup 98|FIFA 98世界杯之路》创造的。《FIFA: Road to World Cup 98|FIFA
@@ -145,9 +145,9 @@ Boquete在](https://zh.wikipedia.org/wiki/Verónica_Boquete "wikilink")[Change.o
     [Blur](https://zh.wikipedia.org/wiki/Blur_（band） "wikilink")
   - 发售平台: [Microsoft
     Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
-    [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink"),
-    [Nintendo 64](https://zh.wikipedia.org/wiki/Nintendo_64 "wikilink"),
-    [Sega Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink"),
+    [PlayStation](../Page/PlayStation.md "wikilink"), [Nintendo
+    64](https://zh.wikipedia.org/wiki/Nintendo_64 "wikilink"), [Sega
+    Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink"),
     [SNES](https://zh.wikipedia.org/wiki/Super_Nintendo_Entertainment_System "wikilink"),
     [Mega
     Drive/Genesis](https://zh.wikipedia.org/wiki/Sega_Genesis "wikilink"),
@@ -187,8 +187,8 @@ Boquete在](https://zh.wikipedia.org/wiki/Verónica_Boquete "wikilink")[Change.o
     Slim](https://zh.wikipedia.org/wiki/Norman_Cook "wikilink")
   - 发售平台: [Microsoft
     Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
-    [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink"),
-    [Nintendo 64](https://zh.wikipedia.org/wiki/Nintendo_64 "wikilink")
+    [PlayStation](../Page/PlayStation.md "wikilink"), [Nintendo
+    64](https://zh.wikipedia.org/wiki/Nintendo_64 "wikilink")
   - 发售日期: 1998年11月30日
 
 遊戲開場音樂選用了英國電子音樂大師[Fatboy
@@ -233,8 +233,8 @@ Skank](https://zh.wikipedia.org/wiki/The_Rockafeller_Skank "wikilink")》‏。
     Williams](https://zh.wikipedia.org/wiki/Robbie_Williams "wikilink")
   - 发售平台: [Microsoft
     Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
-    [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink"),
-    [Game Boy Color](../Page/Game_Boy_Color.md "wikilink")
+    [PlayStation](../Page/PlayStation.md "wikilink"), [Game Boy
+    Color](../Page/Game_Boy_Color.md "wikilink")
   - 发售日期: 1999年10月26日
 
 #### *FIFA 2001*
@@ -315,7 +315,7 @@ Skank](https://zh.wikipedia.org/wiki/The_Rockafeller_Skank "wikilink")》‏。
     Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
     [PlayStation 2](../Page/PlayStation_2.md "wikilink"),
     [GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink"),
-    [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
+    [PlayStation](../Page/PlayStation.md "wikilink")
   - 发售日期: 2001年11月1日
 
 由于[科乐美](https://zh.wikipedia.org/wiki/科乐美 "wikilink")（Konami）在行业上的领先地位，电子艺界决定推出在射门和传球增加力量槽来改善游戏。但是，很多玩家注意到本游戏似乎在难度较高时预先设定比赛结果。《FIFA》的这个版本也不再使用原来的以颜色条代替队徽，而首次得到了全部球队的正式队徽。力量槽也可以根据玩家喜好来调整。
@@ -349,8 +349,8 @@ Skank](https://zh.wikipedia.org/wiki/The_Rockafeller_Skank "wikilink")》‏。
     [PlayStation 2](../Page/PlayStation_2.md "wikilink"),
     [Xbox](https://zh.wikipedia.org/wiki/Xbox_（console） "wikilink"),
     [GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink"),
-    [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink"),
-    [Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink"), [Mobile
+    [PlayStation](../Page/PlayStation.md "wikilink"), [Game Boy
+    Advance](../Page/Game_Boy_Advance.md "wikilink"), [Mobile
     phone](https://zh.wikipedia.org/wiki/Mobile_phone "wikilink")
   - 发售日期: 2002年11月5日
 
@@ -371,8 +371,8 @@ Skank](https://zh.wikipedia.org/wiki/The_Rockafeller_Skank "wikilink")》‏。
     [PlayStation 2](../Page/PlayStation_2.md "wikilink"),
     [Xbox](https://zh.wikipedia.org/wiki/Xbox_（console） "wikilink"),
     [GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink"),
-    [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink"),
-    [Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink"), [Nokia
+    [PlayStation](../Page/PlayStation.md "wikilink"), [Game Boy
+    Advance](../Page/Game_Boy_Advance.md "wikilink"), [Nokia
     N-Gage](https://zh.wikipedia.org/wiki/N-Gage_（device） "wikilink"),
     [Mobile
     phone](https://zh.wikipedia.org/wiki/Mobile_phone "wikilink")
@@ -399,10 +399,10 @@ Skank](https://zh.wikipedia.org/wiki/The_Rockafeller_Skank "wikilink")》‏。
     [PlayStation 2](../Page/PlayStation_2.md "wikilink"),
     [Xbox](https://zh.wikipedia.org/wiki/Xbox_（console） "wikilink"),
     [GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink"),
-    [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink"),
-    [PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")
-    （America only）, [Game Boy
-    Advance](../Page/Game_Boy_Advance.md "wikilink"), [Nokia
+    [PlayStation](../Page/PlayStation.md "wikilink"), [PlayStation
+    Portable](../Page/PlayStation_Portable.md "wikilink") （America
+    only）, [Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink"),
+    [Nokia
     N-Gage](https://zh.wikipedia.org/wiki/N-Gage_（device） "wikilink"),
     [Gizmondo](https://zh.wikipedia.org/wiki/Gizmondo "wikilink"),
     [Mobile
@@ -921,7 +921,7 @@ Journey」。在此模式下，玩家可以自创或使用现实既有的球员�
   - 发售日期: 2017年9月29日
 
 《[FIFA
-18](https://zh.wikipedia.org/wiki/FIFA_18 "wikilink")》[基斯坦奴·朗拿度担任此部作品的代言人](../Page/基斯坦奴·朗拿度.md "wikilink")。將會在
+18](../Page/FIFA_18.md "wikilink")》[基斯坦奴·朗拿度担任此部作品的代言人](../Page/基斯坦奴·朗拿度.md "wikilink")。將會在
 Xbox One、PS4 及 PC 平台上繼續採用「Frostbite」寒霜引擎 ，而新加入的 [Nintendo
 Switch](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")
 則採用其他引擎開發。今年《FIFA
@@ -949,7 +949,7 @@ Team、開球模式、地方賽季、職業生涯、在線賽季、錦標賽、�
   - 发售日期: 2018年9月28日
 
 《[FIFA
-19](https://zh.wikipedia.org/wiki/FIFA_19 "wikilink")》[基斯坦奴·朗拿度繼續担任此部作品的代言人](../Page/基斯坦奴·朗拿度.md "wikilink")。將會在
+19](../Page/FIFA_19.md "wikilink")》[基斯坦奴·朗拿度繼續担任此部作品的代言人](../Page/基斯坦奴·朗拿度.md "wikilink")。將會在
 [Xbox
 One](../Page/Xbox_One.md "wikilink")、[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")
 及 PC 平台上繼續採用「Frostbite」寒霜引擎开发 ，而新加入的 [Nintendo
@@ -991,8 +991,7 @@ Switch](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")
     Brazil](https://zh.wikipedia.org/wiki/2014_FIFA_World_Cup_Brazil_（video_game） "wikilink")*
   - *[2018 FIFA World
     Cup](https://zh.wikipedia.org/wiki/2018_FIFA_World_Cup "wikilink")
-    （作为[FIFA
-    18的免费更新](https://zh.wikipedia.org/wiki/FIFA_18 "wikilink")）*
+    （作为[FIFA 18的免费更新](../Page/FIFA_18.md "wikilink")）*
 
 ### 欧洲冠军杯（UEFA European Championship licensed games）
 
@@ -1013,7 +1012,7 @@ Switch](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")
   - *UEFA Champions League 2004–2005*
   - *[UEFA Champions League
     2006–2007](https://zh.wikipedia.org/wiki/UEFA_Champions_League_2006–2007 "wikilink")*
-  - *[FIFA 19](https://zh.wikipedia.org/wiki/FIFA_19 "wikilink")*
+  - *[FIFA 19](../Page/FIFA_19.md "wikilink")*
 
 ### 街头足球（Street football games）
 

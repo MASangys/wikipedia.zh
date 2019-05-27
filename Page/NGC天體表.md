@@ -4,7 +4,7 @@
 6826](https://zh.wikipedia.org/wiki/NGC_6826 "wikilink"), 和 [NGC
 7009](../Page/NGC_7009.md "wikilink").\]\]
 **星雲和星團新總表**（，[縮寫](../Page/縮寫.md "wikilink")：**NGC**）
-是[天文學上非常著名的](../Page/天文學.md "wikilink")[深空天體](../Page/深空天體.md "wikilink")[目錄](../Page/天體目錄.md "wikilink")，收錄了7,840個天體。它由[約翰·德雷耳编纂](https://zh.wikipedia.org/wiki/約翰·路易·埃米爾·德雷耳 "wikilink")，是[威廉·赫歇爾](../Page/威廉·赫歇爾.md "wikilink")[星雲和星團總表的新版本](../Page/星雲和星團總表.md "wikilink")。星雲和星團新總表是最大的一個綜合目錄，包含所有類型的[深空天體](../Page/深空天體.md "wikilink")，並無被侷限在某一類，例如[星系](../Page/星系.md "wikilink")。[德雷耳後來在](https://zh.wikipedia.org/wiki/約翰·路易·埃米爾·德雷耳 "wikilink")1895年和1908年擴編了兩份NGC[索引星表](../Page/索引星表.md "wikilink")，增加了描述5,386個天體。
+是[天文學上非常著名的](../Page/天文學.md "wikilink")[深空天體](../Page/深空天體.md "wikilink")[目錄](../Page/天體目錄.md "wikilink")，收錄了7,840個天體。它由[約翰·德雷耳编纂](../Page/約翰·路易·埃米爾·德雷耳.md "wikilink")，是[威廉·赫歇爾](../Page/威廉·赫歇爾.md "wikilink")[星雲和星團總表的新版本](../Page/星雲和星團總表.md "wikilink")。星雲和星團新總表是最大的一個綜合目錄，包含所有類型的[深空天體](../Page/深空天體.md "wikilink")，並無被侷限在某一類，例如[星系](../Page/星系.md "wikilink")。[德雷耳後來在](../Page/約翰·路易·埃米爾·德雷耳.md "wikilink")1895年和1908年擴編了兩份NGC[索引星表](../Page/索引星表.md "wikilink")，增加了描述5,386個天體。
 
 目錄中對[南半球天空中的天體並沒有完整的調查](../Page/天球.md "wikilink")，多數都只是[約翰·赫歇耳或](https://zh.wikipedia.org/wiki/約翰·赫歇耳 "wikilink")[詹姆士·丹露帕的觀測](https://zh.wikipedia.org/wiki/詹姆士·丹露帕 "wikilink")。NGC有許多的錯誤，但是比較嚴重和明顯的錯誤在後續的NGC/IC計划中已經消除。後續未完成的[修訂新總表](https://zh.wikipedia.org/wiki/修訂新總表 "wikilink")（RNGC）
 有1973年Sulentic和Tifft的版本，還有Sinnott在1988年的*NGC2000.0*。修訂的新總表和索引目錄由[Wolfgang
@@ -12,7 +12,7 @@ Steinicke編譯於](https://zh.wikipedia.org/wiki/Wolfgang_Steinicke "wikilink")
 
 ## 原來的目錄
 
-目錄是在1880年由[約翰·路易·埃米爾·德雷耳使用](https://zh.wikipedia.org/wiki/約翰·路易·埃米爾·德雷耳 "wikilink")[威廉·赫歇耳和他的兒子](https://zh.wikipedia.org/wiki/威廉·赫歇耳 "wikilink")[約翰以及其他觀測者的資料彙總而成](https://zh.wikipedia.org/wiki/約翰·赫歇耳 "wikilink")。德雷耳原本要印製赫歇耳更新過的[星雲目錄](../Page/星雲目錄.md "wikilink")，被[英國皇家天文學會拒絕了更新版](../Page/英國皇家天文學會.md "wikilink")，並要求德雷耳編輯新總目錄，這份目錄在1888年出版\[1\]。
+目錄是在1880年由[約翰·路易·埃米爾·德雷耳使用](../Page/約翰·路易·埃米爾·德雷耳.md "wikilink")[威廉·赫歇耳和他的兒子](https://zh.wikipedia.org/wiki/威廉·赫歇耳 "wikilink")[約翰以及其他觀測者的資料彙總而成](https://zh.wikipedia.org/wiki/約翰·赫歇耳 "wikilink")。德雷耳原本要印製赫歇耳更新過的[星雲目錄](../Page/星雲目錄.md "wikilink")，被[英國皇家天文學會拒絕了更新版](../Page/英國皇家天文學會.md "wikilink")，並要求德雷耳編輯新總目錄，這份目錄在1888年出版\[1\]。
 
 星雲和星團星總表以"約翰·赫協爾、巴特校閱、改正和擴充的新星雲和恆星的星團目錄"的名稱刊登在[英國皇家天文學會紀念集上](../Page/英國皇家天文學會.md "wikilink")
 (Dreyer J. L. E., 1888, *Mem. R. Astron. Soc.*, **49**, 1-237) \[2\]。

@@ -162,7 +162,7 @@ standards解決方案](https://zh.wikipedia.org/wiki/Web_standard "wikilink")。
 <td><p>Adobe Animate CC (2015.1)</p></td>
 <td><p>2016</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Adobe_Animate_CC_2015_icon.png" title="fig:Adobe_Animate_CC_2015_icon.png">Adobe_Animate_CC_2015_icon.png</a></p></td>
-<td><p>Adobe把<a href="https://zh.wikipedia.org/wiki/Adobe_Edge_Animate" title="wikilink">Edge Animate与</a><a href="https://zh.wikipedia.org/wiki/Adobe_Flash_Professional" title="wikilink">Flash Professional产品线进行整合之后并更名为Adobe</a> Animate，更名之后除了保留原有功能以外，还新增了<a href="../Page/HTML5.md" title="wikilink">HTML5动画的开发</a>。</p></td>
+<td><p>Adobe把<a href="../Page/Adobe_Edge_Animate.md" title="wikilink">Edge Animate与</a><a href="https://zh.wikipedia.org/wiki/Adobe_Flash_Professional" title="wikilink">Flash Professional产品线进行整合之后并更名为Adobe</a> Animate，更名之后除了保留原有功能以外，还新增了<a href="../Page/HTML5.md" title="wikilink">HTML5动画的开发</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>Adobe Animate CC 2017 (16)</p></td>

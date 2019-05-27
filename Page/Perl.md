@@ -1,6 +1,6 @@
 **Perl**是[高階](https://zh.wikipedia.org/wiki/高级语言 "wikilink")、[通用](../Page/通用编程语言.md "wikilink")、[直譯式](https://zh.wikipedia.org/wiki/直譯語言 "wikilink")、[動態的](../Page/动态语言.md "wikilink")[程式语言家族](https://zh.wikipedia.org/wiki/程式语言 "wikilink")。最初设计者[拉里·沃尔為了讓在](../Page/拉里·沃尔.md "wikilink")[UNIX上進行報表處理的工作變得更方便](../Page/UNIX.md "wikilink")，決定開發一個通用的[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")，而在1987年12月18日發表。目前，Perl语言家族包含两个分支Perl
 5以及[Perl
-6](../Page/Perl_6.md "wikilink")（开发中）。雖然Perl不是正式的首字母縮略詞\[1\]，但仍有各種各樣的[逆向首字母缩略词](https://zh.wikipedia.org/wiki/逆向首字母缩略词 "wikilink")，包括“實用的提取和報告語言”。\[2\]
+6](../Page/Perl_6.md "wikilink")（开发中）。雖然Perl不是正式的首字母縮略詞\[1\]，但仍有各種各樣的[逆向首字母缩略词](../Page/逆向首字母缩略词.md "wikilink")，包括“實用的提取和報告語言”。\[2\]
 
 Perl借用了[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[sed](https://zh.wikipedia.org/wiki/sed "wikilink")、[awk](../Page/AWK.md "wikilink")、[shell脚本以及很多其他程式語言的特性](../Page/Unix_shell.md "wikilink")。其中最重要的特性是Perl内部集成了[正则表达式的功能](../Page/正则表达式.md "wikilink")，以及巨大的第三方代码库[CPAN](https://zh.wikipedia.org/wiki/CPAN "wikilink")。
 
@@ -157,7 +157,7 @@ Perl
 
 ### 名称
 
-Perl原名叫“Pearl”。拉里·沃尔想给这个语言起一个有正面意思的短的名字；他考虑了（并且否定了）字典里每一个3—4个字母的词。他也考虑用他的妻子Gloria的名字命名。沃尔在Perl官方发布之前发现了现有的[PEARL语言](https://zh.wikipedia.org/wiki/PEARL "wikilink")，并且改变了这个名字\[39\]。
+Perl原名叫“Pearl”。拉里·沃尔想给这个语言起一个有正面意思的短的名字；他考虑了（并且否定了）字典里每一个3—4个字母的词。他也考虑用他的妻子Gloria的名字命名。沃尔在Perl官方发布之前发现了现有的[PEARL语言](../Page/PEARL.md "wikilink")，并且改变了这个名字\[39\]。
 
 当指代这个语言的时候，名字通常是大写的（**Perl**），就像专有名词一样。当指代这个直译器本身的时候，这个名字通常是小写的（**perl**），因为大部分类Unix文件系统都是区分大小写的。在《》的第一版发布之前，用**perl**指代这个语言也很普遍；排版时将这个语言的名字在书中写成大写的以便理解。后来，这个大小写的区别就成为正规的了\[40\]。
 

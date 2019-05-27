@@ -8,7 +8,7 @@ Assistant Secretary of State for Near Eastern Affairs）。
 
 2000年被選為[巴林大使](../Page/巴林.md "wikilink")，但參議院並沒有即時核准，在這段期間他捲入一件機密檔案錯誤處理的事件。但[小布殊在](https://zh.wikipedia.org/wiki/小布殊 "wikilink")2001年上任為新總統後，便永久不追究其失誤，並批准他上任。
 
-他任巴林大使期間，大使館在2002年4月受親[巴勒斯坦分子的攻擊](https://zh.wikipedia.org/wiki/巴勒斯坦 "wikilink")，一度關閉。在該次事件，無人受傷，但建築物受破壞，車輛遭焚燒。
+他任巴林大使期間，大使館在2002年4月受親[巴勒斯坦分子的攻擊](../Page/巴勒斯坦.md "wikilink")，一度關閉。在該次事件，無人受傷，但建築物受破壞，車輛遭焚燒。
 
 2004年，他離開巴林，成為美國駐[伊拉克的政治顧問](../Page/伊拉克.md "wikilink")，直到2005年轉任阿富汗大使。
 

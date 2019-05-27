@@ -89,7 +89,7 @@ API的大部分是[AWT的补充扩展而不是直接的代替](../Page/AWT.md "w
 ## 同SWT的关系
 
 [标准器件工具包
-(SWT)是一个最初由](../Page/SWT.md "wikilink")[IBM开发的工具包](../Page/IBM.md "wikilink")，现在由[Eclipse基金会维护](https://zh.wikipedia.org/wiki/Eclipse基金会 "wikilink")。[SWT的实现同重量级的组件](../Page/SWT.md "wikilink")[AWT有更多的共同之处](../Page/AWT.md "wikilink")。这样的好处是运行开销同所在平台的原生視窗工具包更为接近。
+(SWT)是一个最初由](../Page/SWT.md "wikilink")[IBM开发的工具包](../Page/IBM.md "wikilink")，现在由[Eclipse基金会维护](../Page/Eclipse基金会.md "wikilink")。[SWT的实现同重量级的组件](../Page/SWT.md "wikilink")[AWT有更多的共同之处](../Page/AWT.md "wikilink")。这样的好处是运行开销同所在平台的原生視窗工具包更为接近。
 
 [SWT的到来使得](../Page/SWT.md "wikilink")[Java桌面的开发者们分离为](https://zh.wikipedia.org/wiki/Java桌面 "wikilink")[SWT的支持者和Swing的支持者](../Page/SWT.md "wikilink")。在6.0版Java中，Swing的新修补专注于同原生視窗平台的逼真度，这可能会直接解决这个问题。
 

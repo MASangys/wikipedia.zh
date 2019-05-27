@@ -5,7 +5,7 @@ Pascal的一个衍生是为](../Page/Object_Pascal.md "wikilink")[面向对象�
 
 ## 历史
 
-Pascal基于[ALGOL编程语言](../Page/ALGOL.md "wikilink")，为纪念[法国数学家和哲学家](https://zh.wikipedia.org/wiki/法国 "wikilink")[布莱兹·帕斯卡而命名](../Page/布莱兹·帕斯卡.md "wikilink")。维尔特后来开发了类似Pascal的[Modula-2和](https://zh.wikipedia.org/wiki/Modula-2 "wikilink")[Oberon](https://zh.wikipedia.org/wiki/Oberon_\(programming_language\) "wikilink")。在开发Pascal之前，维尔特开发了语言[Euler](https://zh.wikipedia.org/wiki/Euler_\(programming_language\) "wikilink")，然后开发了[Algol-W](https://zh.wikipedia.org/wiki/ALGOL_W "wikilink")。
+Pascal基于[ALGOL编程语言](../Page/ALGOL.md "wikilink")，为纪念[法国数学家和哲学家](https://zh.wikipedia.org/wiki/法国 "wikilink")[布莱兹·帕斯卡而命名](../Page/布莱兹·帕斯卡.md "wikilink")。维尔特后来开发了类似Pascal的[Modula-2和](../Page/Modula-2.md "wikilink")[Oberon](https://zh.wikipedia.org/wiki/Oberon_\(programming_language\) "wikilink")。在开发Pascal之前，维尔特开发了语言[Euler](https://zh.wikipedia.org/wiki/Euler_\(programming_language\) "wikilink")，然后开发了[Algol-W](https://zh.wikipedia.org/wiki/ALGOL_W "wikilink")。
 
 最初，Pascal在很大程度上但不是完全地为了教授学生结构化编程。很多代学生已使用Pascal作为本科课程的入门语言。Pascal的变种也逐渐地用于从研究项目到[PC游戏和](https://zh.wikipedia.org/wiki/PC游戏 "wikilink")[嵌入式系统的所有领域](../Page/嵌入式系统.md "wikilink")。更新的Pascal编译器存在于广泛使用它的领域。
 
@@ -90,7 +90,7 @@ Pascal
 v5.5的PC版本中。与此同时[Microsoft也实现了Object](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
 Pascal编译器。\[2\]\[3\] Turbo Pascal 5.5给在1980年代后期开始主要关注于IBM
 PC的Pascal社区带来巨大影响力。许多研究[BASIC结构化替代品的PC爱好者使用该产品](../Page/BASIC.md "wikilink")。它也开始被专业开发人员接受。几乎同时，为了让Pascal程序员直接使用[Microsoft
-Windows的基于C的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink")，许多概念从[C语言引入](https://zh.wikipedia.org/wiki/C语言 "wikilink")。这些扩展包括空终止[字符串](../Page/字符串.md "wikilink")，[指针算术运算](https://zh.wikipedia.org/wiki/指针算术运算 "wikilink")，[函数指针](../Page/函数指针.md "wikilink")，address-of运算符和非安全[类型转换](https://zh.wikipedia.org/wiki/类型转换 "wikilink")。
+Windows的基于C的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink")，许多概念从[C语言引入](https://zh.wikipedia.org/wiki/C语言 "wikilink")。这些扩展包括空终止[字符串](../Page/字符串.md "wikilink")，[指针算术运算](https://zh.wikipedia.org/wiki/指针算术运算 "wikilink")，[函数指针](../Page/函数指针.md "wikilink")，address-of运算符和非安全[类型转换](../Page/类型转换.md "wikilink")。
 
 然而，Borland后来决定需要更多精细的面向对象特性，并在[Delphi里使用](https://zh.wikipedia.org/wiki/Borland_Delphi "wikilink")[Apple提议的](https://zh.wikipedia.org/wiki/Apple_Computer "wikilink")*[Object
 Pascal](../Page/Object_Pascal.md "wikilink")*草图标准作为基础重新开始。（该Apple草图仍然不是一个正式的标准。）Delphi编程语言的第一版相应地命名为Object
@@ -521,7 +521,7 @@ Language*对Pascal提出了严厉的抨击。\[4\]
 
   -
   -
-  - [Modula-2](https://zh.wikipedia.org/wiki/Modula-2 "wikilink")
+  - [Modula-2](../Page/Modula-2.md "wikilink")
 
   - [Oberon](https://zh.wikipedia.org/wiki/Oberon "wikilink")
 

@@ -41,7 +41,7 @@ IBM为[计算机产业长期的领导者](https://zh.wikipedia.org/wiki/计算�
 2007年11月20日，IBM 公司宣布以50億美元現金收購[Cognos](../Page/Cognos.md "wikilink")，成為
 IBM 創建以來金額最高的收購交易。IBM 於2008年第一季度完成收購。
 
-2011年10月26日，IBM宣布任命[弗吉尼亚·罗曼提](https://zh.wikipedia.org/wiki/吉妮·罗梅蒂 "wikilink")（Virginia
+2011年10月26日，IBM宣布任命[弗吉尼亚·罗曼提](../Page/吉妮·罗梅蒂.md "wikilink")（Virginia
 Rometty）为总裁兼CEO，这是IBM历史上首位女性总裁兼CEO。\[3\]
 
 2011年11月14日，[巴菲特斥資](https://zh.wikipedia.org/wiki/巴菲特 "wikilink")107億美元。入股IBM6400萬股，收購成本約每股167.19美元，占其流通股股本的5.4%成為最大股東。

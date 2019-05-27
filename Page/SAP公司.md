@@ -58,7 +58,7 @@ Cloud平台开发的原生商务套件。它为客户提供云端可定制和混
 Business Suite客户从SAP Business Suite升级到此产品。
 
 在2016年，SAP又推出了SAP HANA Express
-Edition，该版本可以在个人计算机或云计算平台上运行，方便学生和其他小规模开发人员使用。SAP的首席执行官[孟鼎铭将SAP](https://zh.wikipedia.org/wiki/孟鼎铭 "wikilink")
+Edition，该版本可以在个人计算机或云计算平台上运行，方便学生和其他小规模开发人员使用。SAP的首席执行官[孟鼎铭将SAP](../Page/孟鼎铭.md "wikilink")
 S/4
 HANA的发布比作[阿波罗登月计划](https://zh.wikipedia.org/wiki/阿波罗登月计划 "wikilink")，将其描述为公司历史上最重要的发布。
 

@@ -24,8 +24,7 @@ Defender不像某些其他同类免费产品一样只能扫描系统，还可以
     7以及以後的版本中](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，Windows
     Defender会配合[行動作業中心](https://zh.wikipedia.org/wiki/Windows_7新功能#.E8.A1.8C.E5.8B.95.E4.BD.9C.E6.A5.AD.E4.B8.AD.E5.BF.83 "wikilink")[Windows
     8以後](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[重要訊息中心防范恶意软件以维护Windows稳定安全執行](https://zh.wikipedia.org/wiki/重要訊息中心 "wikilink")。
-  - [Windows
-    10的版本中](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，Windows
+  - [Windows 10的版本中](../Page/Windows_10.md "wikilink")，Windows
     Defender會自訂一個時間自動更新（通常1天至少更新1次）（Build 10240的Windows
     Update可以看到是否有安裝，此功能在後面的Build被移除）。從Windows 10
     1709起，更名**Windows Defender Security

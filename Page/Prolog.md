@@ -122,8 +122,7 @@ px(1) :- \+ px(1).      /* 規定此规则不成立。 i.e. 此规则為假時�
 
 ## 参见
 
-  - [Visual
-    Prolog](https://zh.wikipedia.org/wiki/Visual_Prolog "wikilink")
+  - [Visual Prolog](../Page/Visual_Prolog.md "wikilink")
   - [LISP](../Page/LISP.md "wikilink")
   - [non-Monotonic
     Logic](https://zh.wikipedia.org/wiki/non-Monotonic_Logic "wikilink")

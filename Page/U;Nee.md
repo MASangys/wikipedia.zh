@@ -6,7 +6,7 @@ Hye-Ryeon**，）。
 
 她毕业于[庆熙大学戏剧电影系](https://zh.wikipedia.org/wiki/庆熙大学 "wikilink")，1996年以出演KBS连续剧《[大人们不懂年轻人](https://zh.wikipedia.org/wiki/大人们不懂年轻人 "wikilink")》（New
 Generation Report-Adults Don't
-Know）出道，曾出演电影《[Seventeen](https://zh.wikipedia.org/wiki/Seventeen_\(電影\) "wikilink")》
+Know）出道，曾出演电影《[Seventeen](../Page/Seventeen_\(電影\).md "wikilink")》
 。2003年开始以U;Nee为艺名踏入歌坛。2003年6月12日发行首张专辑《1st u;nee
 code》（DreamBeat），2005年2月18日发行第二张专辑《Vol.2 - Passion &
 Pure》（Synnara Music）所屬經理人公司為IDPlus。
@@ -19,7 +19,7 @@ Pure》（Synnara Music）所屬經理人公司為IDPlus。
 
 ## 電影
 
-  - 《[Seventeen](https://zh.wikipedia.org/wiki/Seventeen_\(電影\) "wikilink")》（1998年7月17日）
+  - 《[Seventeen](../Page/Seventeen_\(電影\).md "wikilink")》（1998年7月17日）
 
 ## 專輯
 

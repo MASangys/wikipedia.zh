@@ -213,7 +213,7 @@ Re:》，原作也是[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikili
 <td><p>覺醒的利刃</p></td>
 <td><p>醒覺的刀刃</p></td>
 <td><p>觉醒的刀刃</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大野木寬" title="wikilink">大野木寬</a></p></td>
+<td><p><a href="../Page/大野木寬.md" title="wikilink">大野木寬</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/高田耕一" title="wikilink">高田耕一</a></p></td>
 <td></td>
 </tr>
@@ -327,7 +327,7 @@ Re:》，原作也是[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikili
 <td><p>被染紅的海</p></td>
 <td><p>被染红的海</p></td>
 <td><p>大野木寬</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/森邦宏" title="wikilink">森邦宏</a></p></td>
+<td><p><a href="../Page/森邦宏.md" title="wikilink">森邦宏</a></p></td>
 <td><p>西山明樹彥</p></td>
 </tr>
 <tr class="odd">
@@ -349,7 +349,7 @@ Re:》，原作也是[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikili
 <td><p>二人的战争</p></td>
 <td><p>こぐれ今日子<br />
 兩澤千晶</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大橋譽志光" title="wikilink">大橋譽志光</a></p></td>
+<td><p><a href="../Page/大橋譽志光.md" title="wikilink">大橋譽志光</a></p></td>
 <td><p>鳥羽聰</p></td>
 </tr>
 <tr class="odd">
@@ -391,7 +391,7 @@ Re:》，原作也是[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikili
 <td><p>-{基拉}-</p></td>
 <td><p>基拉</p></td>
 <td><p>兩澤千晶</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松尾衡" title="wikilink">松尾衡</a></p></td>
+<td><p><a href="../Page/松尾衡.md" title="wikilink">松尾衡</a></p></td>
 <td><p>關田修</p></td>
 </tr>
 <tr class="odd">

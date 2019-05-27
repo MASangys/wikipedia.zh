@@ -10,7 +10,7 @@ CVN-74**），或直接称**史坦尼斯號航空母艦**，是[美國](https://
 
 斯坦尼斯号的两具[核反应堆使它擁有幾乎無限制的续航能力](../Page/核反应堆.md "wikilink")，與最高達35节的最高航速。舰上的4具[蒸汽弹射器和](https://zh.wikipedia.org/wiki/蒸汽弹射器 "wikilink")4条[攔截索可應付作战飞机非常频繁的起降](https://zh.wikipedia.org/wiki/攔截索 "wikilink")，而斜向配置的降落甲板與足夠大的面積能同時進行戰機起飛與降落的任務，大幅提高作戰效率。雖然本身是以核能作為動力來源，但斯坦尼斯号仍携带了大约三百万[加仑的燃油](../Page/加仑.md "wikilink")，主要是供给它的舰载机和护航舰使用。此外，它还儲藏了大量的武器弹药，以供长时间在海外執行作戰勤務的需要。斯坦尼斯号具有很强的自我维修能力，艦上配屬了一个飞机维修部門以修复中度损坏的飞机，一个微电子装备修复部門，和几个舰艇修复部门。
 
-在自衛能力方面，斯坦尼斯号除了仰賴它所搭載之第九艦載機聯隊和其他护航舰的保護外，該艦本身也配置了[北约](https://zh.wikipedia.org/wiki/北约 "wikilink")[RIM-7海麻雀短程防空导弹](https://zh.wikipedia.org/wiki/RIM-7海麻雀导弹 "wikilink")，與主要是作為反飛彈用途的[方陣近迫武器系統](../Page/方陣近迫武器系統.md "wikilink")（Phalanx
+在自衛能力方面，斯坦尼斯号除了仰賴它所搭載之第九艦載機聯隊和其他护航舰的保護外，該艦本身也配置了[北约](https://zh.wikipedia.org/wiki/北约 "wikilink")[RIM-7海麻雀短程防空导弹](../Page/RIM-7海麻雀导弹.md "wikilink")，與主要是作為反飛彈用途的[方陣近迫武器系統](../Page/方陣近迫武器系統.md "wikilink")（Phalanx
 CIWS），以及[SLQ-32電子作戰系統](https://zh.wikipedia.org/wiki/SLQ-32電子作戰系統 "wikilink")。
 
 ## 一般諸元

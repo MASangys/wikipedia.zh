@@ -1,5 +1,5 @@
 **I Love You
-Boyz**（簡稱“ILUB”，又作**艾粒**或**艾粒仔**），是[香港一隊](../Page/香港.md "wikilink")「[搞笑](https://zh.wikipedia.org/wiki/搞笑 "wikilink")」二人男子組合，由分別化名「[陸加俊](https://zh.wikipedia.org/wiki/陸家俊 "wikilink")」和「[蔡輕麟](https://zh.wikipedia.org/wiki/蔡興麟 "wikilink")」的兩位[叱咤903](https://zh.wikipedia.org/wiki/叱咤903 "wikilink")[唱片騎師](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")[少爺占及](../Page/少爺占.md "wikilink")[Donald組成](../Page/唐劍康.md "wikilink")。
+Boyz**（簡稱“ILUB”，又作**艾粒**或**艾粒仔**），是[香港一隊](../Page/香港.md "wikilink")「[搞笑](https://zh.wikipedia.org/wiki/搞笑 "wikilink")」二人男子組合，由分別化名「[陸加俊](https://zh.wikipedia.org/wiki/陸家俊 "wikilink")」和「[蔡輕麟](../Page/蔡興麟.md "wikilink")」的兩位[叱咤903](https://zh.wikipedia.org/wiki/叱咤903 "wikilink")[唱片騎師](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")[少爺占及](../Page/少爺占.md "wikilink")[Donald組成](../Page/唐劍康.md "wikilink")。
 
 ## 組成過程
 
@@ -28,7 +28,7 @@ Boyz（艾粒）演出舞台劇《艾粒普世歡騰核能人》尾聲時，少�
 
 在2012年1月尾，適逢艾粒成立十週年，著名社交網站有消息指出艾粒將在2012年復合，為期一年，組合更名為**ILUB**，並在夏天演出舞台劇，更透露ILUB即將發佈新歌\[4\]，同年舉辦《艾粒一百周年呈獻—TENMEME》慶祝組合成立十周年。
 
-於2016年艾粒及其分身組成新組合「五行欠」舉辦一共3場《Yo！聖艾粒Battle五行欠》及1場澳門站演出，期後於2017年再舉辦《艾粒拾伍年開光大典》因門票快速售罄而由最初2場一再加場至5場及後艾粒與音樂平台[Joox合作舉辦了](https://zh.wikipedia.org/wiki/Joox "wikilink")1場《ILUB
+於2016年艾粒及其分身組成新組合「五行欠」舉辦一共3場《Yo！聖艾粒Battle五行欠》及1場澳門站演出，期後於2017年再舉辦《艾粒拾伍年開光大典》因門票快速售罄而由最初2場一再加場至5場及後艾粒與音樂平台[Joox合作舉辦了](../Page/Joox.md "wikilink")1場《ILUB
 C ALL MOMENT 演唱會》演出，並免費送出整場演唱會之所有門票以回饋一眾Fans。二人於《ILUB C ALL MOMENT
 演唱會》上稱能夠舉辦一共10場之舞台演出作為紀念I Love You
 Boyz成立15周年實在非常難得及感恩，並指這場演唱會為艾粒組成15周年畫上完美句號。二人在台上表示於短期內他們將不會再舉辦舞台演出，因此在表演期間二人因不捨和感觸而多次眼有淚光，但堅持強忍淚水完成演出，更兩度Encore表演以答謝Fans支持。
@@ -163,9 +163,8 @@ Summer](https://zh.wikipedia.org/wiki/愚樂_I_Love_You_Summer "wikilink")》更
     [好友移城(第三集)](https://zh.wikipedia.org/wiki/好友移城 "wikilink")
   - TVB 2008年8月28日 [筋肉擂臺](https://zh.wikipedia.org/wiki/筋肉擂臺 "wikilink")
   - TVB 2010年 [逐格鬥](../Page/逐格鬥.md "wikilink")
-  - ViuTV 2016年 [對不起
-    標籤你](https://zh.wikipedia.org/wiki/對不起_標籤你 "wikilink")
-  - ViuTV 2017年 [黑料理](https://zh.wikipedia.org/wiki/黑料理 "wikilink")
+  - ViuTV 2016年 [對不起 標籤你](../Page/對不起_標籤你.md "wikilink")
+  - ViuTV 2017年 [黑料理](../Page/黑料理.md "wikilink")
 
 ### 電視嘉賓
 

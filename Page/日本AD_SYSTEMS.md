@@ -22,7 +22,7 @@ SYSTEMS**（、），簡稱**NAS**，為[Asatsu-DK全資擁有的](https://zh.wi
   - [夏目友人帳](../Page/夏目友人帳.md "wikilink")（）
   - [玩偶遊戲](https://zh.wikipedia.org/wiki/玩偶遊戲 "wikilink")（）
   - [單蠢女孩](../Page/單蠢女孩.md "wikilink")（）
-  - [徒然喜歡你](https://zh.wikipedia.org/wiki/徒然喜歡你 "wikilink")（）
+  - [徒然喜歡你](../Page/徒然喜歡你.md "wikilink")（）
   - [學園奶爸](https://zh.wikipedia.org/wiki/學園奶爸 "wikilink")（）
 
 ## 關連項目

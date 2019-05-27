@@ -107,8 +107,8 @@ DESTINY**》即問世，銜接之快可說是前所未有的。兩部TV動畫構
 6.  「**tears**」**（Special Edition II 各自的劍）**
       -
         作詞、作曲：[小峰理紗](../Page/小峰理紗.md "wikilink") /
-        編曲：[江口貴勅](https://zh.wikipedia.org/wiki/江口貴勅 "wikilink")
-        / 主唱：[lisa](../Page/小峰理紗.md "wikilink")
+        編曲：[江口貴勅](../Page/江口貴勅.md "wikilink") /
+        主唱：[lisa](../Page/小峰理紗.md "wikilink")
 7.  「****」**（Special Edition III 命運的業火）**
       -
         作词、作曲、编曲、主唱：HIGH and MIGHTY COLOR
@@ -209,8 +209,8 @@ DESTINY**》即問世，銜接之快可說是前所未有的。兩部TV動畫構
 5.  「**tears 〜ReMix2013**」**（HD重制版PHASE-28）**
       -
         作词、作曲：[小峰理紗](../Page/小峰理紗.md "wikilink") /
-        編曲：[江口貴勅](https://zh.wikipedia.org/wiki/江口貴勅 "wikilink")
-        / 主唱：[コミネリサ](../Page/小峰理紗.md "wikilink")
+        編曲：[江口貴勅](../Page/江口貴勅.md "wikilink") /
+        主唱：[コミネリサ](../Page/小峰理紗.md "wikilink")
 6.  「****」**（HD重制版PHASE-32）**
       -
         作词、作曲、編曲：梶浦由記 /
@@ -328,7 +328,7 @@ DESTINY**》即問世，銜接之快可說是前所未有的。兩部TV動畫構
 <td></td>
 <td><p>世界終結之時</p></td>
 <td><p>當世界終結之時</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/下田正美" title="wikilink">下田正美</a></p></td>
+<td><p><a href="../Page/下田正美.md" title="wikilink">下田正美</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吉村章" title="wikilink">吉村章</a></p></td>
 <td></td>
 </tr>
@@ -337,7 +337,7 @@ DESTINY**》即問世，銜接之快可說是前所未有的。兩部TV動畫構
 <td></td>
 <td><p>混亂的大地</p></td>
 <td><p>混亂的大地</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大野木寬" title="wikilink">大野木寬</a><br />
+<td><p><a href="../Page/大野木寬.md" title="wikilink">大野木寬</a><br />
 兩澤千晶</p></td>
 <td><p>西澤晋</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/谷田部勝義" title="wikilink">谷田部勝義</a></p></td>

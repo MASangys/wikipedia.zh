@@ -275,7 +275,7 @@ Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")，它还�
 DB2和](../Page/IBM_DB2.md "wikilink")[Oracle数据库](https://zh.wikipedia.org/wiki/Oracle_Database "wikilink")（详情参见[IBM.com](http://www.IBM.com)和[TeamFuze.net](http://www.teamfuze.net)）。\[19\]它将具有内置的[Microsoft
 Silverlight开发支持](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")，包含一个交互设计器\[20\]。Visual
 Studio 2010将会提供一些工具来使[并行计算更加简单](../Page/并行计算.md "wikilink")：除了.NET
-Framework的[本地代码](https://zh.wikipedia.org/wiki/本地代码 "wikilink")[并行扩展以及](https://zh.wikipedia.org/wiki/并行扩展 "wikilink")[并行模式库](https://zh.wikipedia.org/wiki/并行模式库 "wikilink")（Parallel
+Framework的[本地代码](https://zh.wikipedia.org/wiki/本地代码 "wikilink")[并行扩展以及](https://zh.wikipedia.org/wiki/并行扩展 "wikilink")[并行模式库](../Page/并行模式库.md "wikilink")（Parallel
 Patterns Library），Visual Studio
 2010还包含了用于调试并行程序的工具。这些新工具使并行任务以及它们的运行时[堆栈可视化](../Page/堆栈.md "wikilink")\[21\]。这些工具可以用来可视化线程等待时间以及线程在多核心之间的移动\[22\]。
 

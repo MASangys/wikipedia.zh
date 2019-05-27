@@ -74,10 +74,8 @@ Chrome](../Page/Google_Chrome.md "wikilink") 15，反觀同期的Mozilla Firefox
 Labs安全测试公司指此项研究有失中立性，并指出Accuvant公司曾接受Google的巨额赞助，在研究过程中，Firefox的许多安全特性也被刻意忽略，而未作测试，选取测试用恶意插件的方式亦有偏袒Chrome，打压Firefox之嫌\[43\]。
 
 Firefox 率先支持了有效提高浏览安全性的 [TLS 1.3](../Page/傳輸層安全性協定.md "wikilink") 协议，以及
-[DNS over
-HTTPS](https://zh.wikipedia.org/wiki/DNS_over_HTTPS "wikilink")
-方案，前者可以避免旧版 TLS 中的漏洞，而后者可以避免中间人得知
-[DNS](../Page/域名系统.md "wikilink") 查询的域名。\[44\]
+[DNS over HTTPS](../Page/DNS_over_HTTPS.md "wikilink") 方案，前者可以避免旧版 TLS
+中的漏洞，而后者可以避免中间人得知 [DNS](../Page/域名系统.md "wikilink") 查询的域名。\[44\]
 
 ### 在地化
 

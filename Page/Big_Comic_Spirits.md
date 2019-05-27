@@ -26,7 +26,7 @@ Spirits**》（）是[日本出版社](../Page/日本.md "wikilink")[小學館�
     -
   - [オーミ先生の微熱](https://zh.wikipedia.org/wiki/オーミ先生の微熱 "wikilink")（[河内遙](https://zh.wikipedia.org/wiki/河内遙 "wikilink")）2010年30号
     - （長期休載中）
-  - [薙刀社青春日記](https://zh.wikipedia.org/wiki/薙刀社青春日記 "wikilink")（[こざき亜衣](https://zh.wikipedia.org/wiki/こざき亜衣 "wikilink")）2011年8号
+  - [薙刀社青春日記](../Page/薙刀社青春日記.md "wikilink")（[こざき亜衣](https://zh.wikipedia.org/wiki/こざき亜衣 "wikilink")）2011年8号
     -
   - [るみちゃんの事象](https://zh.wikipedia.org/wiki/るみちゃんの事象 "wikilink")（[原克玄](https://zh.wikipedia.org/wiki/原克玄 "wikilink")）2011年14号
     -
@@ -151,7 +151,7 @@ Spirits**》（）是[日本出版社](../Page/日本.md "wikilink")[小學館�
   - [エバタのロック](https://zh.wikipedia.org/wiki/エバタのロック "wikilink") -
     [室井大資](https://zh.wikipedia.org/wiki/室井大資 "wikilink")
   - [F](https://zh.wikipedia.org/wiki/F_\(漫画\) "wikilink") -
-    [六田登](https://zh.wikipedia.org/wiki/六田登 "wikilink")
+    [六田登](../Page/六田登.md "wikilink")
   - [おごってジャンケン隊](https://zh.wikipedia.org/wiki/おごってジャンケン隊 "wikilink") -
     [現代洋子](https://zh.wikipedia.org/wiki/現代洋子 "wikilink")
   - [おたんこナース](https://zh.wikipedia.org/wiki/おたんこナース "wikilink") -
@@ -435,7 +435,7 @@ Spirits**》（）是[日本出版社](../Page/日本.md "wikilink")[小學館�
   - [花園メリーゴーランド](https://zh.wikipedia.org/wiki/花園メリーゴーランド "wikilink") -
     柏木ハルコ
   - [パパがも一度恋をした](https://zh.wikipedia.org/wiki/パパがも一度恋をした "wikilink") -
-    [阿部潤](https://zh.wikipedia.org/wiki/阿部潤 "wikilink")
+    [阿部潤](../Page/阿部潤.md "wikilink")
   - [パパはニューギニア](https://zh.wikipedia.org/wiki/パパはニューギニア "wikilink") -
     [高野聖ーナ](https://zh.wikipedia.org/wiki/高野聖ーナ "wikilink")
   - [パパリンコ物語](https://zh.wikipedia.org/wiki/パパリンコ物語 "wikilink") -

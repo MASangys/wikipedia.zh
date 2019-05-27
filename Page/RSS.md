@@ -1,6 +1,6 @@
 **RSS**（**簡易資訊聚合**）是一種[消息來源格式規範](../Page/消息來源.md "wikilink")，用以**聚合經常發佈更新資料的網站**，例如[部落格文章](https://zh.wikipedia.org/wiki/部落格 "wikilink")、新聞、[音訊或](https://zh.wikipedia.org/wiki/音訊 "wikilink")[視訊的網摘](https://zh.wikipedia.org/wiki/視訊 "wikilink")。RSS文件（或稱做摘要、網路摘要、或頻更新，提供到頻道）包含全文或是節錄的文字，再加上發佈者所訂閱之網摘資料和授權的元數據。
 
-“資源描述框架站點摘要”（）就是RSS的英文原意，后来通过[逆向首字母缩略词变更为](https://zh.wikipedia.org/wiki/逆向首字母缩略词 "wikilink")“簡易資訊聚合”。把新闻标题、摘要（Feed）、内容按照用户的要求，“送”到用户的桌面就是RSS的目的。RSS一詞有時候大體上意為社會性書籤，包括各種RSS的不同格式。例如，Blogspace對使用網摘於一整合器內之動作標為RSS
+“資源描述框架站點摘要”（）就是RSS的英文原意，后来通过[逆向首字母缩略词变更为](../Page/逆向首字母缩略词.md "wikilink")“簡易資訊聚合”。把新闻标题、摘要（Feed）、内容按照用户的要求，“送”到用户的桌面就是RSS的目的。RSS一詞有時候大體上意為社會性書籤，包括各種RSS的不同格式。例如，Blogspace對使用網摘於一整合器內之動作標為RSS
 info和RSS
 reader。雖然它的第一個句子就包含明確的[Atom格式](../Page/Atom_\(標準\).md "wikilink")：「RSS和Atom檔案能夠用簡單的格式從網站更新訊息至你的電腦！」
 

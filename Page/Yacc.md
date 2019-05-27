@@ -18,7 +18,7 @@ P1003.2标准定义了Lex和Yacc的[功能和](../Page/功能.md "wikilink")[需
 
   - [编译原理](https://zh.wikipedia.org/wiki/编译原理 "wikilink")
   - [编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")
-  - [JavaCC](https://zh.wikipedia.org/wiki/JavaCC "wikilink")：產生[Java的编译器代码生成器](../Page/Java.md "wikilink")
+  - [JavaCC](../Page/JavaCC.md "wikilink")：產生[Java的编译器代码生成器](../Page/Java.md "wikilink")
   - [GNU bison](https://zh.wikipedia.org/wiki/GNU_bison "wikilink")
   - [CodeWorker](https://zh.wikipedia.org/wiki/CodeWorker "wikilink")
   - [ANTLR](../Page/ANTLR.md "wikilink")

@@ -101,7 +101,7 @@ APP與卡拉ok最大的相異之處，在於使用的麥克風差別，受限於
 ## 相關條目
 
   - [K壓](https://zh.wikipedia.org/wiki/K壓 "wikilink")
-  - [迷你KTV](https://zh.wikipedia.org/wiki/迷你KTV "wikilink")
+  - [迷你KTV](../Page/迷你KTV.md "wikilink")
 
 ## 參考文獻
 

@@ -162,7 +162,7 @@ store曲目兼容。然而，它们既不会安装在也不能运行在非PalmOn
 ## 批評
 
 在2006年的《[PC
-World](https://zh.wikipedia.org/wiki/PC_World "wikilink")》雜誌的一篇特稿中，RealPlayer被評為「1999年電腦產品最差排名頭25位」的第2位，原因是RealPlayer「采取煩擾的方式過於依賴PC，它作爲默認媒體播放器安裝，卻自由修改Windows注冊表，彈出惱人的廣告“信息”等等。」\[5\]。到了2007年，在一個近似的「1996－2004年的20件最惱人的科技產品」排名第5\[6\]。
+World](../Page/PC_World.md "wikilink")》雜誌的一篇特稿中，RealPlayer被評為「1999年電腦產品最差排名頭25位」的第2位，原因是RealPlayer「采取煩擾的方式過於依賴PC，它作爲默認媒體播放器安裝，卻自由修改Windows注冊表，彈出惱人的廣告“信息”等等。」\[5\]。到了2007年，在一個近似的「1996－2004年的20件最惱人的科技產品」排名第5\[6\]。
 2008年，Stopbadware.org因RealPlayer無法完全披露其所安裝的以及未選擇安裝後留下的軟體組件，將RealPlayer稱爲「[惡意軟體](https://zh.wikipedia.org/wiki/惡意軟體 "wikilink")」。\[7\]
 
 事實上，RealPlayer在產品上的設計純粹以某種特定個人用戶群體的喜好，使它在機構環境下顯得疑眼和麻煩。雖然在2008年RealPlayer嘗試推出RealPlayer

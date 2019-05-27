@@ -24,7 +24,7 @@ MMX）。随后，AMD致力于[AMD64架构的开发](https://zh.wikipedia.org/wi
 
 ## 支持检测
 
-支持3DNow\!的CPU的[CPUID扩展功能字](https://zh.wikipedia.org/wiki/CPUID "wikilink")（EAX=80000001h时执行CPUID指令得到的EDX的内容）的（从低位到高位）第31位为1。支持扩展3DNow\!的CPU的CPUID扩展功能字的（从低位到高位）第30位为1。
+支持3DNow\!的CPU的[CPUID扩展功能字](../Page/CPUID.md "wikilink")（EAX=80000001h时执行CPUID指令得到的EDX的内容）的（从低位到高位）第31位为1。支持扩展3DNow\!的CPU的CPUID扩展功能字的（从低位到高位）第30位为1。
 
 K6-2至Zen之间AMD所有的x86处理器都支持3DNow\!，包括最新的[Athlon
 64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")、[Opteron和](../Page/Opteron.md "wikilink")[Sempron处理器](https://zh.wikipedia.org/wiki/Sempron "wikilink")；AMD将3DNow\!从Zen支持列表中移除；[Cyrix等一些其他厂家生产的某些处理器也支持](../Page/Cyrix.md "wikilink")3DNow\!；但Intel生产的所有处理器都不支持3DNow\!。

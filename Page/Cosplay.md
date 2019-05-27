@@ -212,7 +212,7 @@ Cosplay漸漸進入主流。參與者增加也表示較容易發生爭端，如2
 
 [台北國際書展動漫館於](../Page/台北國際書展.md "wikilink")2013年後，因台北展演二館的拆遷而取消，Cosplay競賽一度在信義商圈成為絕響，但[台北國際電玩展在](../Page/台北國際電玩展.md "wikilink")2014年起開辦Cosplay競賽，使得[台北世界貿易中心商圈逢展覽時的Cosplay競賽舉辦紀錄並未中斷](../Page/台北世界貿易中心.md "wikilink")。
 
-除動漫圈以外，和沛科技總經理[翟本喬以裝扮成](https://zh.wikipedia.org/wiki/翟本喬 "wikilink")[犬夜叉人物的形式](https://zh.wikipedia.org/wiki/犬夜叉 "wikilink")，到知名媒體業者總部前發雞排，因長相神似香港明星[鄭伊健而引起網友熱議](../Page/鄭伊健.md "wikilink")。
+除動漫圈以外，和沛科技總經理[翟本喬以裝扮成](../Page/翟本喬.md "wikilink")[犬夜叉人物的形式](https://zh.wikipedia.org/wiki/犬夜叉 "wikilink")，到知名媒體業者總部前發雞排，因長相神似香港明星[鄭伊健而引起網友熱議](../Page/鄭伊健.md "wikilink")。
 
 ### 香港
 
@@ -491,7 +491,7 @@ Expo）甚至能吸引多達500位角色扮演者赴會Cosplay。而在展覽中
 
 ## 相關纪录片
 
-  - 戀妝物語（公共電視記錄觀點節目，2004年度觀點短片展短片，導演[江金霖](https://zh.wikipedia.org/wiki/江金霖 "wikilink")）
+  - 戀妝物語（公共電視記錄觀點節目，2004年度觀點短片展短片，導演[江金霖](../Page/江金霖.md "wikilink")）
   - 蔻絲普蕾的魔咒（公共電視記錄觀點節目，2004年度觀點短片展短片，導演[溫知儀](https://zh.wikipedia.org/wiki/溫知儀 "wikilink")）
 
 [Category:Cosplay](https://zh.wikipedia.org/wiki/Category:Cosplay "wikilink")

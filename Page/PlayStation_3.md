@@ -29,7 +29,7 @@ BEYOND”、“超越玩樂”。
 
 PlayStation 3作為一款遊戲機，亦是一個家庭多媒體平台，同時帶領玩家進入藍光光碟及高品質影音時代。PlayStation
 3以[Blu-ray
-Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")（BD-ROM）作為光碟機的主要規格，透過[HDMI端子提供播放高品質畫面及杜比音響](../Page/HDMI.md "wikilink")，而且亦能夠向下相容[CD-ROM及](../Page/CD-ROM.md "wikilink")[DVD-ROM](https://zh.wikipedia.org/wiki/DVD-ROM "wikilink")，包括[PlayStation和](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[PlayStation
+Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")（BD-ROM）作為光碟機的主要規格，透過[HDMI端子提供播放高品質畫面及杜比音響](../Page/HDMI.md "wikilink")，而且亦能夠向下相容[CD-ROM及](../Page/CD-ROM.md "wikilink")[DVD-ROM](https://zh.wikipedia.org/wiki/DVD-ROM "wikilink")，包括[PlayStation和](../Page/PlayStation.md "wikilink")[PlayStation
 2的遊戲光碟](../Page/PlayStation_2.md "wikilink")。但在新版本的主機（2008年8月後）已取消了對PlayStation
 2遊戲的相容。
 
@@ -37,9 +37,9 @@ Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")（BD-ROM）作為�
 Network](../Page/PlayStation_Network.md "wikilink")」（PSN），並且提供「[PlayStation
 Store](../Page/PlayStation_Store.md "wikilink")」（PS
 Store）服務。PS3玩家可以透過PSN在PS
-Store內購買以往的[PlayStation遊戲](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，或下載PS3遊戲的相關資料、試玩版及限定遊戲內容等等。此外，[PlayStation
+Store內購買以往的[PlayStation遊戲](../Page/PlayStation.md "wikilink")，或下載PS3遊戲的相關資料、試玩版及限定遊戲內容等等。此外，[PlayStation
 Portable玩家透過USB裝置與PS](../Page/PlayStation_Portable.md "wikilink")3進行連動時，玩家可以於PS
-Store下載[PlayStation遊戲或其他一些收費或免費的遊戲相關資料](https://zh.wikipedia.org/wiki/PlayStation "wikilink")、試玩版及限定遊戲內容等等到[PSP內](https://zh.wikipedia.org/wiki/PSP "wikilink")，另外亦可透過[PSN進行](https://zh.wikipedia.org/wiki/PSN "wikilink")[PSP遊戲的對戰功能](https://zh.wikipedia.org/wiki/PSP "wikilink")。
+Store下載[PlayStation遊戲或其他一些收費或免費的遊戲相關資料](../Page/PlayStation.md "wikilink")、試玩版及限定遊戲內容等等到[PSP內](https://zh.wikipedia.org/wiki/PSP "wikilink")，另外亦可透過[PSN進行](https://zh.wikipedia.org/wiki/PSN "wikilink")[PSP遊戲的對戰功能](https://zh.wikipedia.org/wiki/PSP "wikilink")。
 
 PlayStation
 3專用的[PSN於未來會投入更多服務](https://zh.wikipedia.org/wiki/PSN "wikilink")，包括網上使用者虛擬的家「[Home](../Page/PlayStation_Home.md "wikilink")」，利用「[Home](../Page/PlayStation_Home.md "wikilink")」這個強大的網上社交平台，玩家可以與全世界玩家溝通，進行遊戲心得交流。每個玩家會有自己獨立的人物及房間，玩家可以設計自己的虛擬分身及任意裝飾房間，日後玩家可以在[PS
@@ -141,8 +141,7 @@ Analytics近日發布最新報告稱，截止到2010年年底，PS3的全球裝�
     11月17日 - PlayStation
     3在美國、香港及台灣發售。香港索尼電腦娛樂分別在[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[尖沙咀及](../Page/尖沙咀.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[西門町](../Page/西門町.md "wikilink")「Sony
     Digital Square」舉行首賣會，兩地首賣會中，香港200部以及台灣300部皆於會場銷售一空。
-    12月25日 -
-    美國《[時代雜誌](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")》（Time
+    12月25日 - 美國《[時代雜誌](../Page/時代雜誌.md "wikilink")》（Time
     Magazine）將PlayStation 3列為「5 Things That Went From Buzz to Bust」。
     12月31日 - PlayStation 3於日本銷售量達46萬部。
 
@@ -338,7 +337,7 @@ Audio](https://zh.wikipedia.org/wiki/DTS-HD_High_Resolution_Audio "wikilink")、
 PS3的光碟機只供讀取，沒有寫入資料的功能。與PS2使用托盤有所不同，PS3的光驱為吸入式（slot-in），在生命周期末期发售的40XX型号将光驱改为滑盖式。下列為PS3支援讀取的光碟格式：
 
   - [CD](../Page/CD.md "wikilink")：
-      - [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")：PlayStation/PlayStation
+      - [PlayStation](../Page/PlayStation.md "wikilink")：PlayStation/PlayStation
         2 CD-ROM（40 GB、120 GB、160 GB、250 GB、320 GB、CECHKxx、CECHLxx除外）
       - CD-DA：CD-DA（ROM）、CD-R、CD-RW
       - [SACD](https://zh.wikipedia.org/wiki/SACD "wikilink")：SACD
@@ -755,7 +754,7 @@ CECH-21xxB</p></td>
 所有機型皆包含：[藍光](../Page/藍光光碟.md "wikilink")/[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")/[CD光碟機](../Page/CD.md "wikilink")、[HDMI
 1.3a](../Page/HDMI.md "wikilink")\[73\]、[Bluetooth
 2.0](https://zh.wikipedia.org/wiki/Bluetooth_2.0 "wikilink")、乙太網路（[10BASE-T](https://zh.wikipedia.org/wiki/10BASE-T "wikilink")、[100BASE-TX](https://zh.wikipedia.org/wiki/100BASE-TX "wikilink")、[1000BASE-T](https://zh.wikipedia.org/wiki/1000BASE-T "wikilink")）、軟體模擬的[PlayStation
-One向下相容力](https://zh.wikipedia.org/wiki/PlayStation "wikilink")\[74\]\[75\]以及亮面外觀。\[76\]
+One向下相容力](../Page/PlayStation.md "wikilink")\[74\]\[75\]以及亮面外觀。\[76\]
 
 **a**型號依據發售區域不同而有所差異。參見[PlayStation
 3硬體型號](https://zh.wikipedia.org/wiki/PlayStation_3硬體#型號 "wikilink")。
@@ -774,7 +773,7 @@ PlayStation 3的遊戲以[Blu-ray
 Disc作為儲存媒體](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")，且游戏是不锁区的。另外早期版本會以硬件形式向下兼容[PlayStation
 2遊戲](../Page/PlayStation_2.md "wikilink")（40 GB、120 GB、160 GB、250 GB、320
 GB、CECHKxx、CECHLxx除外），全系列的PlayStation
-3都向下兼容[PlayStation游戏](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。
+3都向下兼容[PlayStation游戏](../Page/PlayStation.md "wikilink")。
 
 ## 控制器
 
@@ -849,8 +848,7 @@ Sony遭遇的惨事不只于此，就当IBM完成两大公司的设计合约后�
 DVD](../Page/HD_DVD.md "wikilink")\[93\]，以及多款受到好評的遊戲推出後（包括[秘境探險：黃金城秘寶](../Page/秘境探險：黃金城秘寶.md "wikilink")、[潛龍諜影4：愛國者之槍](https://zh.wikipedia.org/wiki/潛龍諜影4：愛國者之槍 "wikilink")），PlayStation
 3開始獲得較多的正面評價。
 
-在《[PC
-World](https://zh.wikipedia.org/wiki/PC_World "wikilink")》雜誌的「2006年搞砸的科技產品排行榜」（The
+在《[PC World](../Page/PC_World.md "wikilink")》雜誌的「2006年搞砸的科技產品排行榜」（The
 Top 21 Tech Screwups of
 2006）中，PS3名列第八，該雜誌認為「發售太晚、太貴、缺乏相容性」\[94\]。GamesRadar將PS3選為遊戲產業[公關宣傳災難的第一名](https://zh.wikipedia.org/wiki/公共關係 "wikilink")，探討索尼為何將「史上最受歡迎的遊戲主機（PS2）變成網路上惡評不斷的糟糕產品」，但同時也認為除了這些問題之外，主機本身有「尚未利用到的潛能」\[95\]。美國《[商業週刊](https://zh.wikipedia.org/wiki/商業週刊 "wikilink")》（*Business
 Week*）歸納了各方評價，做出「（PS3）未來的可能性比目前的表現更加引人關注」的結論。\[96\]
@@ -874,7 +872,7 @@ Technica在](../Page/Ars_Technica.md "wikilink")2008年6月對PS3做出的第二
   - [索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")
   - [IBM](../Page/IBM.md "wikilink")
   - [Cell (微處理器)](../Page/Cell_\(微處理器\).md "wikilink")
-  - [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
+  - [PlayStation](../Page/PlayStation.md "wikilink")
   - [PlayStation 2](../Page/PlayStation_2.md "wikilink")
   - [PlayStation 3遊戲列表](../Page/PlayStation_3遊戲列表.md "wikilink")
   - [PlayStation

@@ -4,7 +4,7 @@ SDK**），一般称为**Havok**，是一个用于物理（动力学）效应模
 
 ## 版本演進
 
-Havok的1.0版本是在2000年的游戏开发者大会（GDC）上面发布的；2.0版本在2003年的GDC大会上发布；4.5版本在2007年3月釋出。[原始碼在取得引擎使用授權之後便會收到](https://zh.wikipedia.org/wiki/原始碼 "wikilink")。目前，Havok可以在[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows作業系統](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Xbox與](https://zh.wikipedia.org/wiki/Xbox "wikilink")[Xbox360](https://zh.wikipedia.org/wiki/Xbox360 "wikilink")，[任天堂的](../Page/任天堂.md "wikilink")[GameCube與](https://zh.wikipedia.org/wiki/GameCube "wikilink")[Wii](../Page/Wii.md "wikilink")、[索尼的](../Page/索尼.md "wikilink")[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")、[PS3與](https://zh.wikipedia.org/wiki/PS3 "wikilink")[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")、[蘋果電腦的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[Mac
+Havok的1.0版本是在2000年的游戏开发者大会（GDC）上面发布的；2.0版本在2003年的GDC大会上发布；4.5版本在2007年3月釋出。[原始碼在取得引擎使用授權之後便會收到](https://zh.wikipedia.org/wiki/原始碼 "wikilink")。目前，Havok可以在[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows作業系統](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Xbox與](../Page/Xbox.md "wikilink")[Xbox360](https://zh.wikipedia.org/wiki/Xbox360 "wikilink")，[任天堂的](../Page/任天堂.md "wikilink")[GameCube與](https://zh.wikipedia.org/wiki/GameCube "wikilink")[Wii](../Page/Wii.md "wikilink")、[索尼的](../Page/索尼.md "wikilink")[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")、[PS3與](https://zh.wikipedia.org/wiki/PS3 "wikilink")[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")、[蘋果電腦的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[Mac
 OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Linux等](../Page/Linux.md "wikilink")[作業系統或遊戲主機上使用](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。此遊戲引擎是用[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")／[C++語言所撰寫而成](https://zh.wikipedia.org/wiki/C++語言 "wikilink")。
 
@@ -55,8 +55,8 @@ FX的開發似乎已經被取消。
   - 《[灵魂献祭](https://zh.wikipedia.org/wiki/灵魂献祭 "wikilink")》
   - 《[殺戮地帶](https://zh.wikipedia.org/wiki/殺戮地帶 "wikilink")》
   - 《彩虹六號：圍攻行動》
-  - [《黑暗靈魂》](https://zh.wikipedia.org/wiki/黑暗靈魂 "wikilink")
-  - 《[黑暗靈魂II](https://zh.wikipedia.org/wiki/黑暗靈魂II "wikilink")》
+  - [《黑暗靈魂》](../Page/黑暗靈魂.md "wikilink")
+  - 《[黑暗靈魂II](../Page/黑暗靈魂II.md "wikilink")》
   - 《[黑暗靈魂III](https://zh.wikipedia.org/wiki/黑暗靈魂III "wikilink")》
   - 《[暗黑破壞神III](../Page/暗黑破壞神III.md "wikilink")》（早期开发曾使用Havok，后来转为使用自制引擎
 

@@ -228,7 +228,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/拉玛尔·奥多姆" title="wikilink">拉玛尔·奥多姆</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/篮球位置" title="wikilink">前锋</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2011-12_NBA赛季.md" title="wikilink">2011-12</a></p></td>

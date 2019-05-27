@@ -21,7 +21,7 @@ Mathematica的功能包括：\[4\]
   - 求解方程组、[常微分方程](../Page/常微分方程.md "wikilink")、[偏微分方程](../Page/偏微分方程.md "wikilink")、微分代数方程、[时滞微分方程](../Page/时滞微分方程.md "wikilink")、[递推关系式等等](../Page/遞迴關係式.md "wikilink")
   - 离散和连续微积分的数值和符号工具
   - 多变量[统计程序库](https://zh.wikipedia.org/wiki/统计 "wikilink")，包括支持100多种数据分布的数据拟合、假设检验、概率和期望的运算
-  - 支持[删失数据](https://zh.wikipedia.org/wiki/删失 "wikilink")、暂态数据、时间序列和有单位的数据
+  - 支持[删失数据](../Page/删失.md "wikilink")、暂态数据、时间序列和有单位的数据
   - 随机过程和队列的计算及仿真
   - 为包括[神经网络在内的数据](https://zh.wikipedia.org/wiki/神经网络 "wikilink")、图像和声音的[有监督和](https://zh.wikipedia.org/wiki/监督式学习 "wikilink")[无监督](https://zh.wikipedia.org/wiki/非监督式学习 "wikilink")[机器学习提供工具](../Page/机器学习.md "wikilink")
   - 对运算和应用程序添加[用户界面的各种工具包](../Page/用户界面.md "wikilink")
@@ -51,7 +51,7 @@ Mathematica的功能包括：\[4\]
 
 Mathematica分为两部分：内核和前端。内核对表达式（即Wolfram语言代码）进行解释，并且返回结果表达式。
 
-前端由[西奥多·格雷于](https://zh.wikipedia.org/wiki/西奥多·格雷 "wikilink")1988年设计\[8\]，它提供了一个允许用户创建并且编辑一个“笔记本文档”的[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")，该笔记本文档可以包含程序代码、格式化文本以及包括公式、图像、GUI组件、表格、声音在内的各种输出结果。所有的内容和格式都可以通过算法生成或者通过交互式方法进行编辑。其支持大多数标准文字处理功能，还含有一个多语种的实时拼写检查器。
+前端由[西奥多·格雷于](../Page/西奥多·格雷.md "wikilink")1988年设计\[8\]，它提供了一个允许用户创建并且编辑一个“笔记本文档”的[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")，该笔记本文档可以包含程序代码、格式化文本以及包括公式、图像、GUI组件、表格、声音在内的各种输出结果。所有的内容和格式都可以通过算法生成或者通过交互式方法进行编辑。其支持大多数标准文字处理功能，还含有一个多语种的实时拼写检查器。
 
 文档可以使用层次式单元进行结构化处理，这样便于对文档划分章节。文档也可以表示为幻灯片形式，便于进行演讲。笔记本与其内容均以Mathematica表达式的形式存储，并且可用使用Mathematica程序进行创建、编辑和修改，而且还可以转化为其它格式，比如[TeX或者](../Page/TeX.md "wikilink")[XML](../Page/XML.md "wikilink")。
 

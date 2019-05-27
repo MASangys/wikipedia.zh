@@ -12,7 +12,7 @@ NBA前身是1946年成立的**全美籃球協會**（簡稱**BAA**）\[1\]，194
 
 ### 非白人球员
 
-在成立初期，NBA的球員和教練全部由白人组成。[1947年](https://zh.wikipedia.org/wiki/1947年NBA選秀 "wikilink")，美籍日裔的[三阪亙被](https://zh.wikipedia.org/wiki/三阪亙 "wikilink")[紐約尼克首輪選中](https://zh.wikipedia.org/wiki/紐約尼克 "wikilink")，成為了NBA歷史上首位非白人球員，同時他也是第一个加盟NBA的亞裔球員\[3\]。不過[三阪亙在](https://zh.wikipedia.org/wiki/三阪亙 "wikilink")[1947-48赛季僅僅為纽约尼克斯出場三次貢獻了七分後就被裁掉了](https://zh.wikipedia.org/wiki/1947-48_NBA赛季 "wikilink")。[1950年](https://zh.wikipedia.org/wiki/1950年NBA選秀 "wikilink")，[波士頓塞爾提克在第二輪選中了来自](https://zh.wikipedia.org/wiki/波士頓塞爾提克 "wikilink")[杜肯大学的黑人球員](https://zh.wikipedia.org/wiki/杜肯大学 "wikilink")[查克·庫珀](https://zh.wikipedia.org/wiki/查克·庫珀 "wikilink")（Charles
+在成立初期，NBA的球員和教練全部由白人组成。[1947年](https://zh.wikipedia.org/wiki/1947年NBA選秀 "wikilink")，美籍日裔的[三阪亙被](https://zh.wikipedia.org/wiki/三阪亙 "wikilink")[紐約尼克首輪選中](https://zh.wikipedia.org/wiki/紐約尼克 "wikilink")，成為了NBA歷史上首位非白人球員，同時他也是第一个加盟NBA的亞裔球員\[3\]。不過[三阪亙在](https://zh.wikipedia.org/wiki/三阪亙 "wikilink")[1947-48赛季僅僅為纽约尼克斯出場三次貢獻了七分後就被裁掉了](https://zh.wikipedia.org/wiki/1947-48_NBA赛季 "wikilink")。[1950年](https://zh.wikipedia.org/wiki/1950年NBA選秀 "wikilink")，[波士頓塞爾提克在第二輪選中了来自](https://zh.wikipedia.org/wiki/波士頓塞爾提克 "wikilink")[杜肯大学的黑人球員](../Page/杜肯大学.md "wikilink")[查克·庫珀](https://zh.wikipedia.org/wiki/查克·庫珀 "wikilink")（Charles
 Cooper），这是NBA歷史上第一位入選的黑人\[4\]，同年一起被選中的还有“糖水”[納特·克利福頓](https://zh.wikipedia.org/wiki/納特·克利福頓 "wikilink")（Nat
 Clifton，紐約尼克隊）和[厄爾·勞埃德](https://zh.wikipedia.org/wiki/厄爾·勞埃德 "wikilink")（Earl
 Lloyd，[華盛頓首都隊](https://zh.wikipedia.org/wiki/華盛頓奇才 "wikilink")），克利福頓在三人当中最先獲得了球隊合同\[5\]。[1950年](../Page/1950-51_NBA赛季.md "wikilink")10月31日，勞埃德在華盛顿首都隊與[罗徹斯特皇家队的比赛中登場](https://zh.wikipedia.org/wiki/罗徹斯特皇家队 "wikilink")，黑人球员首次踏上了NBA赛场\[6\]。儘管當時美國的種族歧視仍然相當嚴重，不過随着[比爾·羅素](https://zh.wikipedia.org/wiki/比爾·羅素 "wikilink")（Bill
@@ -139,7 +139,7 @@ Stern再次宣佈取消季前熱身賽兩週，導致第二場會議不歡而散
 
 **2011年11月30日**，新版勞資協議達成，NBA聯盟正式公開，球員工會確定同意，例行賽於12月25日聖誕節正式開打。
 
-**2016年4月16日**，NBA總裁[亞當·蕭華](https://zh.wikipedia.org/wiki/蕭華_\(NBA\) "wikilink")(Adam
+**2016年4月16日**，NBA總裁[亞當·蕭華](../Page/蕭華_\(NBA\).md "wikilink")(Adam
 Silver)宣布自2017-18年球季起，聯盟將開放各隊在球衣左上方印上贊助商廣告。這將是北美四大職業運動，首個正規賽球衣廣告創舉。球衣補丁計畫目前仍有些許問題需要解決，例如球星代言衝突，此計畫將進行三個球季，再對球迷反應與實際成效進行檢討。另外，販售球衣部分，球團可自行選擇，有廣告贊助或無廣告標誌商品，賣給球迷。
 
 **2017年9月24日**，自1985年起，每年NBA总冠军会接受总统会见，该传统在2017年被打破\[19\]。2017年冠军金州勇士内部就是否前往白宫产生分歧，而特朗普推特上宣布"由于库里犹豫不决，所以取消邀请金州勇士前往白宫"。特朗普撤销邀请引发大量NBA球员抨击，NBA聯盟總裁席佛也對此表示對此事件感到遺憾。NBA球員工會表達尊重雙方意見，表示對此事件感到惋惜\[20\]。
@@ -260,7 +260,7 @@ Quicken Loans Arena</p></td>
 Detroit Pistons</p></td>
 <td><p><a href="../Page/密歇根州.md" title="wikilink">密歇根州</a><a href="https://zh.wikipedia.org/wiki/底特律" title="wikilink">底特律</a><br />
 Michigan, Detroit</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小凱薩體育館" title="wikilink">小凱薩體育館</a><br />
+<td><p><a href="../Page/小凱薩體育館.md" title="wikilink">小凱薩體育館</a><br />
 Little Caesars Arena</p></td>
 <td><p>1941年<sup>*</sup></p></td>
 <td><p>1948年</p></td>

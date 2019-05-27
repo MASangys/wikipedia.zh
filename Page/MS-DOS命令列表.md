@@ -204,7 +204,7 @@ Server
 Volume Shadow Copy服务可用于此种情形，但Xcopy没有用它。所以Xcopy不能用于备份live操作系统的文件。
 
 虽然[Windows
-10中还有Xcopy](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，但它已经过时，应该使用更强有力的[Robocopy](https://zh.wikipedia.org/wiki/Robocopy "wikilink")。\[4\]
+10中还有Xcopy](../Page/Windows_10.md "wikilink")，但它已经过时，应该使用更强有力的[Robocopy](https://zh.wikipedia.org/wiki/Robocopy "wikilink")。\[4\]
 
 ### format
 

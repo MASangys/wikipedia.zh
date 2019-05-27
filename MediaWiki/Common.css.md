@@ -582,7 +582,7 @@ navboxes \*/
 /\* 'show'/'hide' buttons created dynamically by the CollapsibleTables
 javascript
 
-`  in `[`MediaWiki:Common.js`](../Page/MediaWiki:Common.js.md "wikilink")` are styled here so they can be customised. */`
+`  in `[`MediaWiki:Common.js`](https://zh.wikipedia.org/wiki/MediaWiki:Common.js "wikilink")` are styled here so they can be customised. */`
 
 .collapseButton {
 
@@ -1332,7 +1332,7 @@ div.mw-cascadeprotectedwarning, div\#mw-protect-cascadeon {
 
 } /\* Div based "system" style fmbox messages. Used in
 
-`  `[`MediaWiki:Noarticletext`](../Page/MediaWiki:Noarticletext.md "wikilink")`. */`
+`  `[`MediaWiki:Noarticletext`](https://zh.wikipedia.org/wiki/MediaWiki:Noarticletext "wikilink")`. */`
 
 div.noarticletext, div.fmbox-system {
 

@@ -289,7 +289,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 <td></td>
 <td><p>唧！出門</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小島正幸" title="wikilink">小島正幸</a></p></td>
+<td><p><a href="../Page/小島正幸.md" title="wikilink">小島正幸</a></p></td>
 <td><p><a href="../Page/长井龙雪.md" title="wikilink">長井龍幸</a></p></td>
 <td><p>阿部純子</p></td>
 <td></td>
@@ -299,7 +299,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 <td></td>
 <td><p>唧！記得了</p></td>
 <td><p><a href="../Page/大久保智康.md" title="wikilink">大久保智康</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/八谷賢一" title="wikilink">八貝賢一</a></p></td>
+<td><p><a href="../Page/八谷賢一.md" title="wikilink">八貝賢一</a></p></td>
 <td><p>鎌仲史陽</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/濱田邦彦" title="wikilink">濱田邦彦</a><br />
 柳瀬雄之</p></td>
@@ -310,7 +310,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 <td></td>
 <td><p>唧！買東西</p></td>
 <td><p>玉井☆豪</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/坂田純一" title="wikilink">坂田純一</a></p></td>
+<td><p><a href="../Page/坂田純一.md" title="wikilink">坂田純一</a></p></td>
 <td></td>
 <td><p>内田孝</p></td>
 <td></td>
@@ -341,7 +341,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 <td><p>唧！工作</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/花田十輝" title="wikilink">花田十輝</a></p></td>
 <td><p><a href="../Page/佐山聖子.md" title="wikilink">佐山聖子</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小林智樹" title="wikilink">小林智樹</a></p></td>
+<td><p><a href="../Page/小林智樹.md" title="wikilink">小林智樹</a></p></td>
 <td><p>田中雄一</p></td>
 <td></td>
 </tr>

@@ -546,10 +546,9 @@ Photoshop CC目前提供以下语言版本：
     (软件)](https://zh.wikipedia.org/wiki/Sketch_\(软件\) "wikilink")
   - Figma
   - [Adobe Illustrator](../Page/Adobe_Illustrator.md "wikilink")
-  - [Affinity
-    Designer](https://zh.wikipedia.org/wiki/Affinity_Designer "wikilink")
+  - [Affinity Designer](../Page/Affinity_Designer.md "wikilink")
   - [Adobe Experience
-    Design](https://zh.wikipedia.org/wiki/Adobe_Experience_Design "wikilink")
+    Design](../Page/Adobe_Experience_Design.md "wikilink")
 
 ## 参考文献
 

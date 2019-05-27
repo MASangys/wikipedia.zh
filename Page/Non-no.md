@@ -48,7 +48,7 @@
     ）○\[4\]
   - [山田愛奈](https://zh.wikipedia.org/wiki/山田愛奈 "wikilink")（2017年6月号 -
     ）○\[5\]
-  - [渡边理佐](https://zh.wikipedia.org/wiki/渡边理佐 "wikilink")（[欅坂46](https://zh.wikipedia.org/wiki/欅坂46 "wikilink")、2017年6月号
+  - [渡边理佐](../Page/渡边理佐.md "wikilink")（[欅坂46](https://zh.wikipedia.org/wiki/欅坂46 "wikilink")、2017年6月号
     - ）○\[6\]
 
 ### 以前活躍的模特兒
@@ -57,7 +57,7 @@
   - [涼](https://zh.wikipedia.org/wiki/涼_\(演員\) "wikilink")
   - [Hana](https://zh.wikipedia.org/wiki/Hana_\(藝人\) "wikilink")
   - [加藤幸子](https://zh.wikipedia.org/wiki/加藤幸子_\(模特兒\) "wikilink")
-  - [SHIHO（志保）](https://zh.wikipedia.org/wiki/SHIHO "wikilink")
+  - [SHIHO（志保）](../Page/SHIHO.md "wikilink")
   - [未希](https://zh.wikipedia.org/wiki/未希 "wikilink")
   - [夏川結衣](../Page/夏川結衣.md "wikilink")
   - [松雪泰子](../Page/松雪泰子.md "wikilink")

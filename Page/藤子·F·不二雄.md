@@ -162,7 +162,7 @@ Comic](../Page/Big_Comic.md "wikilink")》等面向成人的漫畫雜志繪畫SF
 
   - [藤子不二雄A](https://zh.wikipedia.org/wiki/藤子不二雄A "wikilink")
 
-  - [楠部大吉郎](https://zh.wikipedia.org/wiki/楠部大吉郎 "wikilink")
+  - [楠部大吉郎](../Page/楠部大吉郎.md "wikilink")
 
   - [芝山努](https://zh.wikipedia.org/wiki/芝山努 "wikilink")
 

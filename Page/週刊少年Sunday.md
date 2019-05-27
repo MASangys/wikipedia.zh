@@ -81,7 +81,7 @@
 <td><p>每月一话连载</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/汤神君没有朋友" title="wikilink">汤神君没有朋友</a></p></td>
+<td><p><a href="../Page/汤神君没有朋友.md" title="wikilink">汤神君没有朋友</a></p></td>
 <td></td>
 <td></td>
 <td><p>data-sort-value="2013.48" | 2013年48号</p></td>
@@ -127,14 +127,14 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/在魔王城说晚安" title="wikilink">在魔王城说晚安</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/熊之股鍵次" title="wikilink">熊之股鍵次</a></p></td>
+<td><p><a href="../Page/熊之股鍵次.md" title="wikilink">熊之股鍵次</a></p></td>
 <td><p>data-sort-value="2016.24" | 2016年24号</p></td>
 <td><p>与同出版社的网络漫画网站《》共同连载</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/古见同学有交流障碍症" title="wikilink">古见同学有交流障碍症</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小田智仁" title="wikilink">小田智仁</a></p></td>
+<td><p><a href="../Page/小田智仁.md" title="wikilink">小田智仁</a></p></td>
 <td><p>data-sort-value="2016.25" | 2016年25号</p></td>
 <td><p>曾以短篇形式刊载于2015年42号</p></td>
 </tr>
@@ -235,7 +235,7 @@
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/河本焰" title="wikilink">河本焰</a>（原作）<br />
+<td><p><a href="../Page/河本焰.md" title="wikilink">河本焰</a>（原作）<br />
 武野光（原作）<br />
 （作画）</p></td>
 <td><p>data-sort-value="2018.49" | 2018年49号</p></td>

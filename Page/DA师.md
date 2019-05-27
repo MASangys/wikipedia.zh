@@ -1,4 +1,4 @@
-《**DA师**》是一部[中国军事](https://zh.wikipedia.org/wiki/中国军事 "wikilink")[电视剧](../Page/电视剧.md "wikilink")，由[中国中央电视台](../Page/中国中央电视台.md "wikilink")2002年出品\[1\]。2003年作为央视的开年大戏而播出，并在广东南方电视台同步首播。[郑方南执导](https://zh.wikipedia.org/wiki/郑方南 "wikilink")。由[王志文](../Page/王志文.md "wikilink")、[許晴](../Page/許晴.md "wikilink")、[巍子](../Page/巍子.md "wikilink")、[陶慧敏](../Page/陶慧敏.md "wikilink")、[徐洪浩主演](../Page/徐洪浩.md "wikilink")。\[2\]2007年的《[狼煙](https://zh.wikipedia.org/wiki/狼烟_\(2006年电视剧\) "wikilink")》是DA師續集。
+《**DA师**》是一部[中国军事](https://zh.wikipedia.org/wiki/中国军事 "wikilink")[电视剧](../Page/电视剧.md "wikilink")，由[中国中央电视台](../Page/中国中央电视台.md "wikilink")2002年出品\[1\]。2003年作为央视的开年大戏而播出，并在广东南方电视台同步首播。[郑方南执导](https://zh.wikipedia.org/wiki/郑方南 "wikilink")。由[王志文](../Page/王志文.md "wikilink")、[許晴](../Page/許晴.md "wikilink")、[巍子](../Page/巍子.md "wikilink")、[陶慧敏](../Page/陶慧敏.md "wikilink")、[徐洪浩主演](../Page/徐洪浩.md "wikilink")。\[2\]2007年的《[狼煙](../Page/狼烟_\(2006年电视剧\).md "wikilink")》是DA師續集。
 
 ## 简介
 

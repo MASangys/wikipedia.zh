@@ -13,13 +13,13 @@ Explorer上投資超過1億美元\[4\]，到了1999年，開發團隊有1000多�
 OS的](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")及，但現已停止支援\[7\]。
 
 2015年3月17日，微軟宣布Internet Explorer不再是[Windows
-10的預設瀏覽器](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，並且逐步放棄這一品牌。4月29日，在微軟Build
+10的預設瀏覽器](../Page/Windows_10.md "wikilink")，並且逐步放棄這一品牌。4月29日，在微軟Build
 2015大会上，微軟發佈新瀏覽器[Microsoft
 Edge](../Page/Microsoft_Edge.md "wikilink")，Microsoft Edge為[Windows
-10的預設瀏覽器](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，而Internet
+10的預設瀏覽器](../Page/Windows_10.md "wikilink")，而Internet
 Explorer只出現在「附屬應用程式」中，意味著Internet
-Explorer已淡出主流應用。2016年1月6日，微軟宣布將會停止發布[Internet
-Explorer 11之前版本的安全性更新](../Page/Internet_Explorer_11.md "wikilink")\[8\]。
+Explorer已淡出主流應用。2016年1月6日，微軟宣布將會停止發布[Internet Explorer
+11之前版本的安全性更新](../Page/Internet_Explorer_11.md "wikilink")\[8\]。
 
 ## 歷史
 
@@ -581,7 +581,7 @@ Internet Starter Kit</p></td>
 <tr class="odd">
 <td><p>2015年7月29日</p></td>
 <td><p>支援Windows 10</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -655,7 +655,7 @@ Explorer正常顯示。
 <th></th>
 <th><p>年份</p></th>
 <th><p><a href="../Page/排版引擎.md" title="wikilink">排版引擎</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">10</a></p></th>
+<th><p><a href="../Page/Windows_10.md" title="wikilink">10</a></p></th>
 <th><p><a href="../Page/Windows_8.1.md" title="wikilink">8.1</a>, <a href="https://zh.wikipedia.org/wiki/Windows_Server_2012_R2" title="wikilink">Server 2012 R2</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">8</a>, <a href="../Page/Windows_Server_2012.md" title="wikilink">Server 2012</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a>, <a href="../Page/Windows_Server_2008_R2.md" title="wikilink">Server 2008 R2</a></p></th>
@@ -1221,7 +1221,7 @@ Spartan」的瀏覽器被正式命名為[Microsoft
 Edge](../Page/Microsoft_Edge.md "wikilink")。Internet
 Explorer不会使用来自[EdgeHTML引擎](../Page/EdgeHTML.md "wikilink")。并Internet
 Explorer雖然会在[Windows
-10中繼續存在](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，但不會開發新版本。自此Internet
+10中繼續存在](../Page/Windows_10.md "wikilink")，但不會開發新版本。自此Internet
 Explorer走入歷史。
 
 ## 扩展
@@ -1237,7 +1237,7 @@ Explorer走入歷史。
 
 ## 参见
 
-  - [Windows 10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
+  - [Windows 10](../Page/Windows_10.md "wikilink")
   - [Microsoft Edge](../Page/Microsoft_Edge.md "wikilink")
   - [蓝泽祈](../Page/蓝泽祈.md "wikilink")
   - [IEAK](../Page/IEAK.md "wikilink")

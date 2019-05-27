@@ -1,6 +1,6 @@
 [XM706E2_USAF.JPG](https://zh.wikipedia.org/wiki/File:XM706E2_USAF.JPG "fig:XM706E2_USAF.JPG")
 
-  - **[哪挺通用機槍](https://zh.wikipedia.org/wiki/大宇K12通用機槍 "wikilink")**是[大宇K3的](../Page/大宇K3輕機槍.md "wikilink")[7.62×51毫米口徑版本](../Page/7.62×51mm_NATO.md "wikilink")？
+  - **[哪挺通用機槍](../Page/大宇K12通用機槍.md "wikilink")**是[大宇K3的](../Page/大宇K3輕機槍.md "wikilink")[7.62×51毫米口徑版本](../Page/7.62×51mm_NATO.md "wikilink")？
   - **[哪种](../Page/百式衝鋒槍.md "wikilink")**冲锋枪是[二战时日军唯一一种量产](https://zh.wikipedia.org/wiki/二战 "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")？
   - **[哪個戰場](../Page/北非戰場.md "wikilink")**讓沙漠之狐[隆美爾取得了其軍事生涯的最高成就](https://zh.wikipedia.org/wiki/隆美爾 "wikilink")？
 

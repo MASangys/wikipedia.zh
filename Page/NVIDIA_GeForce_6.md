@@ -298,7 +298,7 @@ Model 3.0和DirectX
 9.0c。6150更進一步支援PureVideo，[DVI和電視輸出](../Page/DVI.md "wikilink")。它的效能完勝ATi的RS480/482和Intel的GMA
 900/950顯示核心競爭。C51主板使用了兩款不同的南橋：nForce 410或nForce 430。他們的功能都與nForce4
 Ultra主板十分相似，兩者都支援[PCI
-Express和](../Page/PCI_Express.md "wikilink")[PCI接口](https://zh.wikipedia.org/wiki/PCI "wikilink")，八個[USB接口](../Page/USB.md "wikilink")，內置音效卡，支援兩個[ATA接口](https://zh.wikipedia.org/wiki/ATA "wikilink")，和[SATA-2接口](https://zh.wikipedia.org/wiki/SATA-2 "wikilink")，亦支援[NCQ技術](https://zh.wikipedia.org/wiki/NCQ "wikilink")。410支援兩個SATA接口，430則支援4個。430南橋支援千兆網絡接口，同時支援NVIDIA的ActiveArmor硬體防火牆。410則只支援標準的10/100網絡接口。
+Express和](../Page/PCI_Express.md "wikilink")[PCI接口](https://zh.wikipedia.org/wiki/PCI "wikilink")，八個[USB接口](../Page/USB.md "wikilink")，內置音效卡，支援兩個[ATA接口](../Page/ATA.md "wikilink")，和[SATA-2接口](https://zh.wikipedia.org/wiki/SATA-2 "wikilink")，亦支援[NCQ技術](https://zh.wikipedia.org/wiki/NCQ "wikilink")。410支援兩個SATA接口，430則支援4個。430南橋支援千兆網絡接口，同時支援NVIDIA的ActiveArmor硬體防火牆。410則只支援標準的10/100網絡接口。
 
   - 核心頻率
       - GeForce 6100：425 MHz

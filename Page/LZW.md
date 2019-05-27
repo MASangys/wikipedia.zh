@@ -130,7 +130,7 @@
 
 ## 專利議題
 
-對於LZW和類似的算法，在[美國和其他國家已經發行數個](https://zh.wikipedia.org/wiki/美國 "wikilink")[專利](https://zh.wikipedia.org/wiki/專利 "wikilink")。LZ78是包含在，由蘭波、立夫、柯亨（Cohn）和伊士曼（Eastman）指派給史佩瑞（Sperry）公司，後來是[優利系統公司](https://zh.wikipedia.org/wiki/優利系統 "wikilink")，申請於1981年8月10日，而且現在已經到期。
+對於LZW和類似的算法，在[美國和其他國家已經發行數個](https://zh.wikipedia.org/wiki/美國 "wikilink")[專利](https://zh.wikipedia.org/wiki/專利 "wikilink")。LZ78是包含在，由蘭波、立夫、柯亨（Cohn）和伊士曼（Eastman）指派給史佩瑞（Sperry）公司，後來是[優利系統公司](../Page/優利系統.md "wikilink")，申請於1981年8月10日，而且現在已經到期。
 
 針對LZW算法有兩個美國專利：由維克特·S·米勒（Victor S. Miller）和馬克·N·維格曼（Mark N.
 Wegman）的，指派給[IBM](../Page/IBM.md "wikilink")，原本於1983年6月1日申請和衛曲的，讓受給史佩瑞公司，後來為優利系統公司，於1983年6月20日申請。

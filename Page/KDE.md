@@ -181,7 +181,7 @@ X](https://zh.wikipedia.org/wiki/OS_X "wikilink")
 | 2.0                                                                   | 2000年10月23日 |                                                                      |
 | 3.0                                                                   | 2002年4月3日   |                                                                      |
 | [4.0](https://zh.wikipedia.org/wiki/KDE_Plasma_Workspaces "wikilink") | 2008年1月11日  |                                                                      |
-| [4.0后版本](https://zh.wikipedia.org/wiki/KDE_Plasma_5 "wikilink")       | 2014年7月15日  | 之前的KDE/KDE SC 被分成 KDE Plasma、 KDE Frameworks 和 KDE Applications 三个部分 |
+| [4.0后版本](../Page/KDE_Plasma_5.md "wikilink")                          | 2014年7月15日  | 之前的KDE/KDE SC 被分成 KDE Plasma、 KDE Frameworks 和 KDE Applications 三个部分 |
 
 一开始，Matthias Ettrich 就选择为 KDE 计划使用
 [Trolltech](../Page/Qt公司.md "wikilink") 的 Qt
@@ -204,7 +204,7 @@ KDE 1.0 的桌面环境被发布，它是KDE环境的第一个版本。
 
 *主条目：[KDE Plasma
 4](https://zh.wikipedia.org/wiki/KDE_Plasma_Workspaces "wikilink") 与
-[KDE Plasma 5](https://zh.wikipedia.org/wiki/KDE_Plasma_5 "wikilink")*
+[KDE Plasma 5](../Page/KDE_Plasma_5.md "wikilink")*
 
 KDE Plasma 提供了一个统一的桌面环境，用于运行和管理普通计算机、上网本、平板电脑及智能手机等不同形式的应用程序。\[49\]
 
@@ -224,7 +224,7 @@ Plasma 5 于2014年7月15日发布，目前具有以下工作空间：
 ### KDE Frameworks
 
 *主条目：[KDE Platform 4](../Page/KDELibs.md "wikilink") 与 [KDE Frameworks
-5](https://zh.wikipedia.org/wiki/KDE_Frameworks_5 "wikilink")*
+5](../Page/KDE_Frameworks_5.md "wikilink")*
 
 在 KDE 4 SC 系列中，[KDE 平台](../Page/KDELibs.md "wikilink")（即 KDE
 Platform）由运行 KDE 应用程序所需的库和服务组成。当转换到 Qt 5 时，KDE 平台被转换成现在被称为 [KDE

@@ -4,7 +4,7 @@ Software**是一家在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[
 
 公司於2009年6月24日被[貝塞斯達軟件公司](https://zh.wikipedia.org/wiki/貝塞斯達軟件公司 "wikilink")（Bethesda
 Software）的母公司[ZeniMax
-Media收歸其下](https://zh.wikipedia.org/wiki/ZeniMax_Media "wikilink")，成為其子公司。\[1\]
+Media收歸其下](../Page/ZeniMax_Media.md "wikilink")，成為其子公司。\[1\]
 
 ## 公司歷史
 

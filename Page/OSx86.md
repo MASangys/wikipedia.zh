@@ -69,7 +69,7 @@ ML2紧接着Niresh的10.8发布。
 Mountain
 Lion基本相同，只是原镜像内核位置改变。许多为10.9设计的新内核仍在开发中，这些内核允许AMD（[K10架构等](../Page/AMD_10h.md "wikilink")）和较旧的Intel
 CPU（如[Core
-Duo](https://zh.wikipedia.org/wiki/Core_Duo "wikilink")）运行，这些CPU缺乏新指令集支持（[SSSE3等](../Page/SSSE3.md "wikilink")）。开发者通过模拟的方法让缺少新指令集的CPU支持10.9，但或多或少有一些小问题。从[推土机架构开始](../Page/AMD_Bulldozer.md "wikilink")，AMD的CPU几乎包含所有新指令集，一些为AMD开发的、带有完整[SSE4支持的内核也随之发布](https://zh.wikipedia.org/wiki/SSE4 "wikilink")。\[15\]Niresh的10.9破解版支持AMD及最新的Intel
+Duo](https://zh.wikipedia.org/wiki/Core_Duo "wikilink")）运行，这些CPU缺乏新指令集支持（[SSSE3等](../Page/SSSE3.md "wikilink")）。开发者通过模拟的方法让缺少新指令集的CPU支持10.9，但或多或少有一些小问题。从[推土机架构开始](../Page/AMD_Bulldozer.md "wikilink")，AMD的CPU几乎包含所有新指令集，一些为AMD开发的、带有完整[SSE4支持的内核也随之发布](../Page/SSE4.md "wikilink")。\[15\]Niresh的10.9破解版支持AMD及最新的Intel
 CPU，甚至还提供[英特尔Atom的内核支持](https://zh.wikipedia.org/wiki/英特爾Atom "wikilink")。\[16\]不过，iAtkos团队选择通过接受捐赠，为特定硬件制作10.9破解版本。
 
 ### OS X 10.10 "Yosemite"及之后版本
@@ -99,7 +99,7 @@ Tiger。[Rosetta是一个二进制转换器](../Page/Rosetta.md "wikilink")，�
 
 在Mac OS X Leopard发布后的数小时内，OSx86社区很快跟进了内核的修改，发布了AMD/Intel
 SSE2/3的内核修补程序，它能从原始的[mach_kernel文件](../Page/Mach.md "wikilink")（Mac
-OS核心组件之一）移除对[高精度事件计时器](https://zh.wikipedia.org/wiki/高精度事件计时器 "wikilink")（HPET）的要求。
+OS核心组件之一）移除对[高精度事件计时器](../Page/高精度事件计时器.md "wikilink")（HPET）的要求。
 
 OS X
 Mavericks内核使用了[SSSE3指令](../Page/SSSE3.md "wikilink")，开发者也发布了模拟SSSE3的破解内核。

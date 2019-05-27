@@ -1,4 +1,4 @@
-是由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（现[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）在1999年於[PlayStation平台上发行的](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，是[最终幻想系列第八部正传](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")，同年本作也移植至Windows平台。因當時[史克威爾授權的港台攻略本與媒體使用港台舊譯](../Page/史克威爾.md "wikilink")「太空-{}-戰士8」，所以港台許多老玩家稱此作為太8。是系列首部完全使用现实比例角色造型的作品。游戏系統取消了一貫消費[魔力值发动魔法的方式](https://zh.wikipedia.org/wiki/魔力值 "wikilink")，改以新創的抽取指令搭配結合系統以培養角色。本作同前作FF7一般採用了具多種現代科技元素的世界觀，但也有著如「魔女」這種具有強大魔力的神秘存在。遊戲讲述了一群佣兵學園學生——隶属于組織“SeeD”——的故事，劇情裡主角群的行動深受世上多數存在的「魔女」所影響，而魔女中強大者甚至能壓縮時間，牽動着角色們的過去與未來。主角史克爾成為SeeD後的首次任務，即被捲入刺殺暗地掌控一國之魔女「Edea」的行動中。
+是由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（现[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）在1999年於[PlayStation平台上发行的](../Page/PlayStation.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，是[最终幻想系列第八部正传](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")，同年本作也移植至Windows平台。因當時[史克威爾授權的港台攻略本與媒體使用港台舊譯](../Page/史克威爾.md "wikilink")「太空-{}-戰士8」，所以港台許多老玩家稱此作為太8。是系列首部完全使用现实比例角色造型的作品。游戏系統取消了一貫消費[魔力值发动魔法的方式](https://zh.wikipedia.org/wiki/魔力值 "wikilink")，改以新創的抽取指令搭配結合系統以培養角色。本作同前作FF7一般採用了具多種現代科技元素的世界觀，但也有著如「魔女」這種具有強大魔力的神秘存在。遊戲讲述了一群佣兵學園學生——隶属于組織“SeeD”——的故事，劇情裡主角群的行動深受世上多數存在的「魔女」所影響，而魔女中強大者甚至能壓縮時間，牽動着角色們的過去與未來。主角史克爾成為SeeD後的首次任務，即被捲入刺殺暗地掌控一國之魔女「Edea」的行動中。
 
 《最终幻想VIII》从1997年开始研發，长期负责系列音樂的[植松伸夫继续为本作配乐](../Page/植松伸夫.md "wikilink")，但為系列中首次使用歌手演唱之主题曲——[王菲的](../Page/王菲.md "wikilink")《[Eyes
 on
@@ -52,7 +52,7 @@ Forces”，缩写为“G.F.”。当玩家给某名角色裝備（结合）G.F.
 
 ## 开发
 
-《最终幻想VIII》从1997年开始开发，当时正值《最终幻想VII》英语版本的制作中\[47\]。起用《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》的许多制作人員，系列创作者[坂口博信担任](../Page/坂口博信.md "wikilink")[执行制作人](https://zh.wikipedia.org/wiki/执行制作人 "wikilink")，他主要负责《[最终幻想：灵魂深处](../Page/最终幻想：灵魂深处.md "wikilink")》的开发，并将《最终幻想VIII》总监一职让给[北濑佳范](https://zh.wikipedia.org/wiki/北濑佳范 "wikilink")\[48\]。[桥本真司被坂口任命为制作人](../Page/桥本真司.md "wikilink")，而游戏和战斗系统由分别由北濑和[伊藤裕之设计](https://zh.wikipedia.org/wiki/伊藤裕之 "wikilink")\[49\]\[50\]。
+《最终幻想VIII》从1997年开始开发，当时正值《最终幻想VII》英语版本的制作中\[47\]。起用《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》的许多制作人員，系列创作者[坂口博信担任](../Page/坂口博信.md "wikilink")[执行制作人](https://zh.wikipedia.org/wiki/执行制作人 "wikilink")，他主要负责《[最终幻想：灵魂深处](../Page/最终幻想：灵魂深处.md "wikilink")》的开发，并将《最终幻想VIII》总监一职让给[北濑佳范](https://zh.wikipedia.org/wiki/北濑佳范 "wikilink")\[48\]。[桥本真司被坂口任命为制作人](../Page/桥本真司.md "wikilink")，而游戏和战斗系统由分别由北濑和[伊藤裕之设计](../Page/伊藤裕之.md "wikilink")\[49\]\[50\]。
 
 ### 视觉设计
 
@@ -72,7 +72,7 @@ Forces”，缩写为“G.F.”。当玩家给某名角色裝備（结合）G.F.
 Ultimania》发行\[69\]。1999年11月又有一本主打遊戲中生物的[折纸书发行](https://zh.wikipedia.org/wiki/折纸 "wikilink")\[70\]。1999年9月22日，[CD-ROM](../Page/CD-ROM.md "wikilink")《最终幻想VIII桌面附件》发行，内含[桌面图标](https://zh.wikipedia.org/wiki/图标_\(电脑\) "wikilink")、[电脑壁纸](https://zh.wikipedia.org/wiki/电脑壁纸 "wikilink")、[屏幕保护程序以及](https://zh.wikipedia.org/wiki/屏幕保护程序 "wikilink")[电子邮件应用](../Page/电子邮件.md "wikilink")，以及独立版小游戏三三合会，玩家可以和电脑或[局域网中的玩家对战](../Page/局域网.md "wikilink")\[71\]。
 
 同样在1999年，一个[PlayStation
-2技术演示使用了](../Page/PlayStation_2.md "wikilink")《最终幻想VIII》的舞池场景\[72\]。2000年，游戏的[Windows版本发行](https://zh.wikipedia.org/wiki/Windows "wikilink")。该移植版的图形更流畅、音效做了强化，同时内置了《[陆行鸟世界](https://zh.wikipedia.org/wiki/陆行鸟世界 "wikilink")》——以《最终幻想VIII》[支线任务中陆行鸟波可为主角的](https://zh.wikipedia.org/wiki/探索_\(游戏\) "wikilink")[小游戏](https://zh.wikipedia.org/wiki/小游戏 "wikilink")\[73\]。对大多数北美和欧洲玩家而言，PC版游戏仅意味着玩到《陆行鸟世界》，因为原版小游戏需要用[PocketStation掌上游戏机游玩](https://zh.wikipedia.org/wiki/PocketStation "wikilink")，而此機从未在日本以外发售\[74\]\[75\]\[76\]。《最终幻想VIII》2009年在[PlayStation
+2技术演示使用了](../Page/PlayStation_2.md "wikilink")《最终幻想VIII》的舞池场景\[72\]。2000年，游戏的[Windows版本发行](https://zh.wikipedia.org/wiki/Windows "wikilink")。该移植版的图形更流畅、音效做了强化，同时内置了《[陆行鸟世界](https://zh.wikipedia.org/wiki/陆行鸟世界 "wikilink")》——以《最终幻想VIII》[支线任务中陆行鸟波可为主角的](https://zh.wikipedia.org/wiki/探索_\(游戏\) "wikilink")[小游戏](https://zh.wikipedia.org/wiki/小游戏 "wikilink")\[73\]。对大多数北美和欧洲玩家而言，PC版游戏仅意味着玩到《陆行鸟世界》，因为原版小游戏需要用[PocketStation掌上游戏机游玩](../Page/PocketStation.md "wikilink")，而此機从未在日本以外发售\[74\]\[75\]\[76\]。《最终幻想VIII》2009年在[PlayStation
 Network的](../Page/PlayStation_Network.md "wikilink")[PlayStation商店上架](https://zh.wikipedia.org/wiki/PlayStation商店 "wikilink")\[77\]\[78\]。
 
 2012年12月18日，游戏再版收录于日本《Final Fantasy 25th Anniversary Ultimate
@@ -115,7 +115,7 @@ Symphony](https://zh.wikipedia.org/wiki/Play!_A_Video_Game_Symphony "wikilink")�
 《最终幻想VIII》获得媒体积极评价以及商业成功。游戏是日本和英国的畅销游戏\[100\]\[101\]，北美版也在发售两日后登上美国最畅销电子游戏週榜首位，并占据此位超过3周\[102\]。游戏在发售13周后收入5,000万美元\[103\]\[104\]，标志其成为當時销售最快的最终幻想作品\[105\]。游戏在日本发售前4天约售出250万套\[106\]。游戏在1999年底时全球销量超过600万\[107\]。在2003年3月31日时本作的全球累計出货量達815万份，其中日本370万，日本以外445万\[108\]。2008年游戏开场获得《[Game
 Informer](../Page/Game_Informer.md "wikilink")》“十大电子游戏开场”的第2名\[109\]，并登上2002年[IGN类似榜单的首位](../Page/IGN.md "wikilink")\[110\]，IGN还称游戏结尾在全部PlayStation游戏中排第3位\[111\]。2007年[GameSpy将其列为最佳电子游戏影片的](../Page/GameSpy.md "wikilink")15位\[112\]。2009年[UGO.com则節選本作的部份橋段將之選入FF系列中最深刻的片段之一](https://zh.wikipedia.org/wiki/UGO.com "wikilink")\[113\]。《最终幻想VIII》位列日本杂志《[Fami通](../Page/Fami通.md "wikilink")》2006年读者票选史上最佳电子游戏第22名\[114\]；2008年[Gamasutra将游戏收录在](https://zh.wikipedia.org/wiki/Gamasutra "wikilink")20个必玩日式角色扮演游戏名单中，称“《最终幻想VIII》有大量做错了的，但更多的是它做对了的”\[115\]。截至2009年9月，PS版本的全球出貨量已超過860萬份\[116\]。
 
-游戏系统获得的评价褒贬不一。IGN认为游戏最薄弱的部份：召唤兽的攻击场面“非常有电影艺术性”却太冗长\[117\]，《[电子游戏月刊](https://zh.wikipedia.org/wiki/电子游戏月刊 "wikilink")》同样持此观点\[118\]。他们还认为战斗系统非常复杂，但有著革新性，能讓“RPG狂热者为之沉迷”\[119\]。《[美国官方PlayStation杂志](https://zh.wikipedia.org/wiki/美国官方PlayStation杂志 "wikilink")》称，可反复的魔法存储让结合系统成为游戏主要缺点\[120\]，电子游戏杂志《[Edge](https://zh.wikipedia.org/wiki/Edge_\(雜誌\) "wikilink")》称，战斗系统由若干“使人眼花缭乱的”复杂精细选项和“大多数玩家会饶有趣味”的技术组成\[121\]。[GameSpot称赞游戏系统道](../Page/GameSpot.md "wikilink")，使用结合系统“角色的发展性极为广阔”\[122\]。
+游戏系统获得的评价褒贬不一。IGN认为游戏最薄弱的部份：召唤兽的攻击场面“非常有电影艺术性”却太冗长\[117\]，《[电子游戏月刊](../Page/电子游戏月刊.md "wikilink")》同样持此观点\[118\]。他们还认为战斗系统非常复杂，但有著革新性，能讓“RPG狂热者为之沉迷”\[119\]。《[美国官方PlayStation杂志](https://zh.wikipedia.org/wiki/美国官方PlayStation杂志 "wikilink")》称，可反复的魔法存储让结合系统成为游戏主要缺点\[120\]，电子游戏杂志《[Edge](https://zh.wikipedia.org/wiki/Edge_\(雜誌\) "wikilink")》称，战斗系统由若干“使人眼花缭乱的”复杂精细选项和“大多数玩家会饶有趣味”的技术组成\[121\]。[GameSpot称赞游戏系统道](../Page/GameSpot.md "wikilink")，使用结合系统“角色的发展性极为广阔”\[122\]。
 
 总体上，《最终幻想VIII》在系列作中算是毫不逊色。虽然Game
 Revolution批評游戏角色没有配音，但称赞了游戏的剧情和结局\[123\]。《Edge》称《最终幻想VIII》是比《最终幻想VII》更为完善的游戏，但另一方面认为游戏拉長让故事不能“提供持续有力的敘事与支线情节”。杂志亦认为某些情节转折“没有适当处理与准备”，导致“很难對這部分情節有所共鳴”。《Edge》总体认为《最终幻想VIII》“又一個Final

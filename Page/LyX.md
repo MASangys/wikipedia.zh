@@ -41,7 +41,7 @@ mean）的利用[來排版的文件編輯軟體](https://zh.wikipedia.org/wiki/L
 | 2.3.0 | March 16, 2018       |
 
 除了需要额外安装的LyX的主要发行版之外，还有一个与[TeX
-Live集成的称为LyTeX的非官方便携](https://zh.wikipedia.org/wiki/TeX_Live "wikilink")（过时）版本。\[4\]
+Live集成的称为LyTeX的非官方便携](../Page/TeX_Live.md "wikilink")（过时）版本。\[4\]
 
 ## 参见
 

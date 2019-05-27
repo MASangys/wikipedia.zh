@@ -10,7 +10,7 @@ Thunderbird的1.0版本，並於首三日即獲得超過五十萬次下載，而
 
 ## 功能
 
-Thunderbird可用作電郵、新聞組、聚合器或聊天（[XMPP](https://zh.wikipedia.org/wiki/XMPP "wikilink")、[IRC或](../Page/IRC.md "wikilink")[Twitter](../Page/Twitter.md "wikilink")）客戶端。其預設安裝的[Lightning擴展則入了](../Page/Lightning.md "wikilink")[個人資訊管理功能](https://zh.wikipedia.org/wiki/個人資訊管理 "wikilink")。用戶若有需要亦可自行安裝其他[附加元件](https://zh.wikipedia.org/wiki/附加组件_\(Mozilla\) "wikilink")。
+Thunderbird可用作電郵、新聞組、聚合器或聊天（[XMPP](https://zh.wikipedia.org/wiki/XMPP "wikilink")、[IRC或](../Page/IRC.md "wikilink")[Twitter](../Page/Twitter.md "wikilink")）客戶端。其預設安裝的[Lightning擴展則入了](../Page/Lightning.md "wikilink")[個人資訊管理功能](https://zh.wikipedia.org/wiki/個人資訊管理 "wikilink")。用戶若有需要亦可自行安裝其他[附加元件](../Page/附加组件_\(Mozilla\).md "wikilink")。
 
 ### 訊息管理
 
@@ -22,7 +22,7 @@ Thunderbird內置一款[貝葉斯垃圾郵件過濾器](../Page/貝葉斯垃圾�
 
 ### 附加元件及主題
 
-附加元件可透過安裝[XPInstall模組以增加其他功能](https://zh.wikipedia.org/wiki/XPInstall "wikilink")。這些附加元件可以從Mozilla官方的附加元件網站上下載並自動更新。
+附加元件可透過安裝[XPInstall模組以增加其他功能](../Page/XPInstall.md "wikilink")。這些附加元件可以從Mozilla官方的附加元件網站上下載並自動更新。
 
 Thunderbird支援不同[面板以改變其外觀和樣式](https://zh.wikipedia.org/wiki/面板 "wikilink")。面板中包含CSS與圖片，並同樣可從上述的網站中下載\[11\]。
 

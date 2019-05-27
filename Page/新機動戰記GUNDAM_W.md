@@ -404,8 +404,8 @@ Zodiac」，其中的"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃
             全5卷 角川書店 1996年-1997年
           - 「新機動戰記GUNDAMW外傳 右手持鐮左手擁你」 皆川ゆか 講談社 通常版 1996年 文庫版 2005年
           - 「新機動戰記鋼彈W冰結的淚滴 Frozen Teardrop」
-            [隅澤克之](https://zh.wikipedia.org/wiki/隅澤克之 "wikilink")
-            角川書店 目前13卷 2016年
+            [隅澤克之](../Page/隅澤克之.md "wikilink") 角川書店
+            目前13卷 2016年
       - 漫畫
           - 「新機動戰記GUNDAMW」 1995年-1996年 通常版全3卷 普及版全2卷
             新裝版全2卷　[鴇田洸一](https://zh.wikipedia.org/wiki/鴇田洸一 "wikilink")　講談社ボンボンKC　

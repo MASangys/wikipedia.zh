@@ -7,7 +7,7 @@ Mozilla
 Suite的元件包括Navigator（[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")）、[Mozilla
 Mail &
 Newsgroups](https://zh.wikipedia.org/wiki/Mozilla_Mail_&_Newsgroups "wikilink")（[電子郵件客戶端](https://zh.wikipedia.org/wiki/電子郵件客戶端 "wikilink")）、[Mozilla
-Composer](https://zh.wikipedia.org/wiki/Mozilla_Composer "wikilink")（網頁開發軟體）及[ChatZilla](../Page/ChatZilla.md "wikilink")（IRC用戶端軟體）。該軟體的[程式碼是完全開放的](https://zh.wikipedia.org/wiki/程式碼 "wikilink")，可在[Linux](../Page/Linux.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac
+Composer](../Page/Mozilla_Composer.md "wikilink")（網頁開發軟體）及[ChatZilla](../Page/ChatZilla.md "wikilink")（IRC用戶端軟體）。該軟體的[程式碼是完全開放的](https://zh.wikipedia.org/wiki/程式碼 "wikilink")，可在[Linux](../Page/Linux.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac
 OS X下執行](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 [Netscape 6到](../Page/Netscape_6.md "wikilink")[Netscape

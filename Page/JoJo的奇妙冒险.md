@@ -229,7 +229,7 @@ Production製作](../Page/David_Production.md "wikilink")。第一季自2012年1
 :; JOJO的奇妙冒險
 
 ::
-[街机](../Page/街机.md "wikilink")、[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")、[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。1998
+[街机](../Page/街机.md "wikilink")、[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")、[PlayStation](../Page/PlayStation.md "wikilink")。1998
 - 1999年，[CAPCOM](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")
 
 :; JOJO的奇妙冒險 -未來的遺產-

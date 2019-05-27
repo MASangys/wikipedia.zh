@@ -8,7 +8,7 @@ HijackThis原是一款免费软件，2012年起在GNU通用公共许可证下成
   - [ActiveX模块](../Page/ActiveX.md "wikilink")
   - [BHOs](https://zh.wikipedia.org/wiki/Browser_Helper_Object "wikilink")（浏览器帮助对象）
   - 浏览器[工具条](https://zh.wikipedia.org/wiki/工具条 "wikilink")
-  - 浏览器[主语以及默认使用的](https://zh.wikipedia.org/wiki/主语 "wikilink")[搜索引擎](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")
+  - 浏览器[主语以及默认使用的](https://zh.wikipedia.org/wiki/主语 "wikilink")[搜索引擎](../Page/搜索引擎.md "wikilink")
   - [Internet
     Explorer的](../Page/Internet_Explorer.md "wikilink")[插件](../Page/插件.md "wikilink")
   - *layered service providers*

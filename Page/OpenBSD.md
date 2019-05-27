@@ -41,7 +41,7 @@ OpenBSD带有全套服务器套件，很容易配置为[邮件服务器](https:/
 
   - [LibreSSL](../Page/LibreSSL.md "wikilink")，自由的[安全套接层和](https://zh.wikipedia.org/wiki/安全套接层 "wikilink")[传输层安全协议实现](https://zh.wikipedia.org/wiki/传输层安全 "wikilink")
   - [OpenBGPD](../Page/OpenBGPD.md "wikilink")，自由的[边界网关协议第](../Page/边界网关协议.md "wikilink")4版（BGP-4）实现
-  - [OpenOSPFD](https://zh.wikipedia.org/wiki/OpenOSPFD "wikilink")，自由的[开放式最短路径优先路由协议实现](../Page/开放式最短路径优先.md "wikilink")
+  - [OpenOSPFD](../Page/OpenOSPFD.md "wikilink")，自由的[开放式最短路径优先路由协议实现](../Page/开放式最短路径优先.md "wikilink")
   - [OpenNTPD](../Page/OpenNTPD.md "wikilink")，ntp.org的[网络时间协议守护进程的简单替代](https://zh.wikipedia.org/wiki/网络时间协议 "wikilink")
   - [OpenSMTPD](https://zh.wikipedia.org/wiki/OpenSMTPD "wikilink")，自由的简单邮件传输协议（SMTP）守护进程，支持[IPv4](../Page/IPv4.md "wikilink")/[IPv6](../Page/IPv6.md "wikilink")、[PAM](https://zh.wikipedia.org/wiki/可插入认证模块 "wikilink")，[Maildir和虚拟域](https://zh.wikipedia.org/wiki/Maildir "wikilink")
   - [OpenSSH](../Page/OpenSSH.md "wikilink")，自由的[Secure
@@ -116,7 +116,7 @@ c2k1
 OpenBSD创建之初，[西奥·德·若特认为任何人在任何时间都应该可以方便地获得源代码](https://zh.wikipedia.org/wiki/西奥·德·若特 "wikilink")，因此在查克·克拉纳的协助下\[27\]，他建立了一个公共、匿名的[CVS服务器](https://zh.wikipedia.org/wiki/协作版本系统 "wikilink")。
 这是同类软件开发界的头一个：当时的传统是，只有一小队开发人员才有机会查看项目的源代码库\[28\]。查克和德·若特认为，这种做法“违背了开源的哲学”，对于贡献者也不方便。德·若特的决定使得用户可以“更有作为”，坚定了计划开放和公开访问源代码的信念\[29\]。
 
-OpenBSD的开发人员不容许源代码树中包含[闭源的二进制驱动](../Page/专有软件.md "wikilink")，不愿签署[保密协议](https://zh.wikipedia.org/wiki/保密协议 "wikilink")。因为在OpenBSD
+OpenBSD的开发人员不容许源代码树中包含[闭源的二进制驱动](../Page/专有软件.md "wikilink")，不愿签署[保密协议](../Page/保密协议.md "wikilink")。因为在OpenBSD
 3.7发布前的截止时间内没有得到说明文档，对[Adaptec](https://zh.wikipedia.org/wiki/Adaptec "wikilink")
 AAC
 [RAID控制器的支持被从标准OpenBSD内核中移除了出去](https://zh.wikipedia.org/wiki/磁盘阵列控制器 "wikilink")\[30\]。
@@ -176,7 +176,7 @@ OpenBSD网站一直都在强调默认安装的安全记录。直到2002年6月�
 
 ## 发行及推广
 
-OpenBSD可以从多种方式自由获取：源代码可以从匿名CVS中检出\[70\]，二进制文件和开发快照可以通过[FTP](../Page/文件传输协议.md "wikilink")、[HTTP](../Page/超文本传输协议.md "wikilink")、rsync或AFS下载\[71\]。预先包装好的[CD-ROM集只需支付一小笔费用就可在网上购得](../Page/CD-ROM.md "wikilink")，附带各种各样的贴纸和版本主题曲的拷贝。这些和他们的艺术品和其他奖金一道组成了该计划为数不多的收入来源，以负担硬件、[带宽及支付其他费用](https://zh.wikipedia.org/wiki/带宽_\(计算机\) "wikilink")\[72\]。
+OpenBSD可以从多种方式自由获取：源代码可以从匿名CVS中检出\[70\]，二进制文件和开发快照可以通过[FTP](../Page/文件传输协议.md "wikilink")、[HTTP](../Page/超文本传输协议.md "wikilink")、rsync或AFS下载\[71\]。预先包装好的[CD-ROM集只需支付一小笔费用就可在网上购得](../Page/CD-ROM.md "wikilink")，附带各种各样的贴纸和版本主题曲的拷贝。这些和他们的艺术品和其他奖金一道组成了该计划为数不多的收入来源，以负担硬件、[带宽及支付其他费用](../Page/带宽_\(计算机\).md "wikilink")\[72\]。
 
 同其他操作系统一样，OpenBSD提供了易于安装和管理程序的[软件包管理系统](../Page/软件包管理系统.md "wikilink")，但它并不属于基本操作系统的一部分\[73\]。软件包工具可以用软件包来提取、管理和移除二进制文件。在OpenBSD上，软件包的源代码储存于port系统中，其为一系列的[Makefile文件和编译这个包所需的其他编译基础](https://zh.wikipedia.org/wiki/Makefile "wikilink")。OpenBSD中port和基础操作系统是一起开发和发布的：这意味着和4.6一起发布的port和软件包不适合用于4.5，反之亦然\[74\]。
 

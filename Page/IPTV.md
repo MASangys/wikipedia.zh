@@ -32,7 +32,7 @@ Networks推出全球第一個IPTV業務](https://zh.wikipedia.org/wiki/Video_Net
 
 2011年2月，台灣原「台灣美食網-{}-路電視台」團隊[臺灣繽紛數-{}-位多媒體有限公司成立IP電視](https://zh.wikipedia.org/wiki/臺灣繽紛數位多媒體有限公司 "wikilink")。
 
-2013年，[中国中央电视台下属](../Page/中国中央电视台.md "wikilink")[央视网与](../Page/央视网.md "wikilink")[百视通合资成立](../Page/百视通.md "wikilink")[爱上电视传媒公司](https://zh.wikipedia.org/wiki/爱上电视传媒 "wikilink")，作为唯一中国大陆IPTV总平台。
+2013年，[中国中央电视台下属](../Page/中国中央电视台.md "wikilink")[央视网与](../Page/央视网.md "wikilink")[百视通合资成立](../Page/百视通.md "wikilink")[爱上电视传媒公司](../Page/爱上电视传媒.md "wikilink")，作为唯一中国大陆IPTV总平台。
 
 ## 相關條目
 

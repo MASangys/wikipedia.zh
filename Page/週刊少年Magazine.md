@@ -28,7 +28,7 @@
 <td><p>未在電子版中刊載</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/籃球少年王" title="wikilink">籃球少年王</a></p></td>
+<td><p><a href="../Page/籃球少年王.md" title="wikilink">籃球少年王</a></p></td>
 <td></td>
 <td><p><a href="../Page/日向武史.md" title="wikilink">日向武史</a></p></td>
 <td><p>－</p></td>
@@ -44,7 +44,7 @@
 <td><p>從《<a href="../Page/Magazine_SPECIAL.md" title="wikilink">Magazine SPECIAL</a>》移籍</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/七大罪_(漫畫)" title="wikilink">七大罪</a></p></td>
+<td><p><a href="../Page/七大罪_(漫畫).md" title="wikilink">七大罪</a></p></td>
 <td></td>
 <td><p><a href="../Page/鈴木央.md" title="wikilink">鈴木央</a></p></td>
 <td><p>－</p></td>
@@ -60,9 +60,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/家有女友" title="wikilink">家有女友</a></p></td>
+<td><p><a href="../Page/家有女友.md" title="wikilink">家有女友</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/流石景" title="wikilink">流石景</a></p></td>
+<td><p><a href="../Page/流石景.md" title="wikilink">流石景</a></p></td>
 <td><p>－</p></td>
 <td><p>2014年21・22合併号</p></td>
 <td></td>
@@ -84,9 +84,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/川柳少女" title="wikilink">川柳少女</a></p></td>
+<td><p><a href="../Page/川柳少女.md" title="wikilink">川柳少女</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/五十嵐正邦" title="wikilink">五十嵐正邦</a></p></td>
+<td><p><a href="../Page/五十嵐正邦.md" title="wikilink">五十嵐正邦</a></p></td>
 <td><p>－</p></td>
 <td><p>2016年47號</p></td>
 <td></td>
@@ -94,7 +94,7 @@
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大今良時" title="wikilink">大今良時</a></p></td>
+<td><p><a href="../Page/大今良時.md" title="wikilink">大今良時</a></p></td>
 <td><p>－</p></td>
 <td><p>2016年50號</p></td>
 <td></td>
@@ -108,7 +108,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/請在伸展台上微笑" title="wikilink">請在伸展台上微笑</a></p></td>
+<td><p><a href="../Page/請在伸展台上微笑.md" title="wikilink">請在伸展台上微笑</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -116,7 +116,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/女朋友，借我一下" title="wikilink">女朋友，借我一下</a></p></td>
+<td><p><a href="../Page/女朋友，借我一下.md" title="wikilink">女朋友，借我一下</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宮島礼吏" title="wikilink">宮島礼吏</a></p></td>
 <td><p>－</p></td>
@@ -124,7 +124,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/五等分的新娘" title="wikilink">五等分的新娘</a></p></td>
+<td><p><a href="../Page/五等分的新娘.md" title="wikilink">五等分的新娘</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -140,7 +140,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/寄宿學校的茱麗葉" title="wikilink">寄宿學校的茱麗葉</a></p></td>
+<td><p><a href="../Page/寄宿學校的茱麗葉.md" title="wikilink">寄宿學校的茱麗葉</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -180,7 +180,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/EDENS_ZERO" title="wikilink">EDENS ZERO</a></p></td>
+<td><p><a href="../Page/EDENS_ZERO.md" title="wikilink">EDENS ZERO</a></p></td>
 <td></td>
 <td><p><a href="../Page/真島浩.md" title="wikilink">真島浩</a></p></td>
 <td><p>－</p></td>
@@ -234,7 +234,7 @@
 
   - [金田一少年之事件簿](https://zh.wikipedia.org/wiki/金田一少年之事件簿 "wikilink")
     （[天樹征丸](../Page/樹林伸.md "wikilink")、[佐藤文也](../Page/佐藤文也.md "wikilink")）
-  - [聲之形](../Page/聲之形.md "wikilink")（[大今良時](https://zh.wikipedia.org/wiki/大今良時 "wikilink")）
+  - [聲之形](../Page/聲之形.md "wikilink")（[大今良時](../Page/大今良時.md "wikilink")）
   - [我妻同學是我的老婆](../Page/我妻同學是我的老婆.md "wikilink")（[蔵石ユウ](https://zh.wikipedia.org/wiki/蔵石ユウ "wikilink")、[西木田景志](https://zh.wikipedia.org/wiki/西木田景志 "wikilink")）
   - [CØDE:BREAKER
     法外制裁者](../Page/CØDE:BREAKER_法外制裁者.md "wikilink")（[上條明峰](https://zh.wikipedia.org/wiki/上條明峰 "wikilink")）
@@ -249,7 +249,7 @@
   - [×××HOLiC](../Page/×××HOLiC.md "wikilink")（[CLAMP](../Page/CLAMP.md "wikilink")）
   - [聖石小子](../Page/聖石小子.md "wikilink")（[真島浩](../Page/真島浩.md "wikilink")）
   - [校園迷糊大王](../Page/校園迷糊大王.md "wikilink")（[小林尽](../Page/小林尽.md "wikilink")）
-  - [閃靈二人組](https://zh.wikipedia.org/wiki/閃靈二人組 "wikilink")（[青樹佑夜](https://zh.wikipedia.org/wiki/青樹佑夜 "wikilink")、[綾峰欄人](https://zh.wikipedia.org/wiki/綾峰欄人 "wikilink")）
+  - [閃靈二人組](https://zh.wikipedia.org/wiki/閃靈二人組 "wikilink")（[青樹佑夜](https://zh.wikipedia.org/wiki/青樹佑夜 "wikilink")、[綾峰欄人](../Page/綾峰欄人.md "wikilink")）
   - [鬼眼狂刀](../Page/鬼眼狂刀.md "wikilink")（[上條明峰](https://zh.wikipedia.org/wiki/上條明峰 "wikilink")）
   - [涼風](../Page/涼風.md "wikilink")（[瀨尾公治](../Page/瀨尾公治.md "wikilink")）
   - [中華一番](https://zh.wikipedia.org/wiki/中華一番 "wikilink")（[小川悦司](../Page/小川悦司.md "wikilink"))
@@ -270,7 +270,7 @@
   - [不良仔與眼鏡妹](https://zh.wikipedia.org/wiki/不良仔與眼鏡妹 "wikilink")（[吉河美希](../Page/吉河美希.md "wikilink")）
   - [逃離伊甸園](../Page/逃離伊甸園.md "wikilink")（[山田惠庸](https://zh.wikipedia.org/wiki/山田惠庸 "wikilink")）
   - [GE～Good
-    Ending～](../Page/GE～Good_Ending～.md "wikilink")（[流石景](https://zh.wikipedia.org/wiki/流石景 "wikilink")）
+    Ending～](../Page/GE～Good_Ending～.md "wikilink")（[流石景](../Page/流石景.md "wikilink")）
   - [宙斯之種](https://zh.wikipedia.org/wiki/宙斯之種 "wikilink")（）（[飯島浩介](https://zh.wikipedia.org/wiki/飯島浩介 "wikilink")）
   - [ばくだん\!〜幕末男子〜](https://zh.wikipedia.org/wiki/ばくだん!〜幕末男子〜 "wikilink")（[加瀬あつし](https://zh.wikipedia.org/wiki/加瀬あつし "wikilink")）
   - [幽靈神醫](https://zh.wikipedia.org/wiki/幽靈神醫 "wikilink")（）（[大沢祐輔](https://zh.wikipedia.org/wiki/大沢祐輔 "wikilink")、[木下繁](https://zh.wikipedia.org/wiki/木下繁 "wikilink")）

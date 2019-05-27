@@ -1,7 +1,7 @@
-**B'z**（）是一個由[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[松本孝弘與](../Page/松本孝弘.md "wikilink")[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")[稻葉浩志所組成的](../Page/稻葉浩志.md "wikilink")[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")
+**B'z**（）是一個由[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[松本孝弘與](../Page/松本孝弘.md "wikilink")[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")[稻葉浩志所組成的](../Page/稻葉浩志.md "wikilink")[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[組合](../Page/音樂組合.md "wikilink")
 \[1\]\[2\]。所屬事務所為[VERMILLION](https://zh.wikipedia.org/wiki/VERMILLION "wikilink")。所屬唱片公司是[VERMILLION
 RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")。官方粉絲俱樂部為「[B'z
-Party](https://zh.wikipedia.org/wiki/B'z_Party "wikilink")」。
+Party](../Page/B'z_Party.md "wikilink")」。
 
 ## 概要
 
@@ -15,7 +15,7 @@ The Best
 Rock
 Walk](https://zh.wikipedia.org/wiki/吉他中心#好萊塢搖滾大道 "wikilink")」，成為目前唯一受此殊榮的亞洲藝人\[5\]\[6\]。
 
-自1989年以來冠名為「[LIVE-GYM](https://zh.wikipedia.org/wiki/LIVE-GYM "wikilink")」的演唱會（根據公演内容及規模亦會分為「LIVE-GYM
+自1989年以來冠名為「[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")」的演唱會（根據公演内容及規模亦會分為「LIVE-GYM
 Pleasure」或「SHOWCASE」），迄今為止除了在日本國内從[LIVE
 HOUSE到體育場至海外各式各樣的會場舉行以外](https://zh.wikipedia.org/wiki/展演空間 "wikilink")，亦會在各種音樂活動上出演。
 
@@ -33,7 +33,7 @@ Zeppelin的](https://zh.wikipedia.org/wiki/Led_Zeppelin "wikilink")"z"』{{\#tag
 
 #### 唸法
 
-關於「B'z」的發音，雖然在日本世間是以無抑揚頓挫的平板唸法「**B'z**」成為主流\[11\]，但成員們及關係者皆為在「B」放置重音，讀作『**B**'z』（）\[12\]。關於平板的發音方式被普遍化的理由，[NHK放送文化研究所講述了以下見解](https://zh.wikipedia.org/wiki/NHK放送文化研究所 "wikilink")，以「關於NHK節目內的發音，是由負責人做決定{{\#tag:ref||group="原文"}}」為開場白，「（[日語中](https://zh.wikipedia.org/wiki/日語 "wikilink")[外來語的](https://zh.wikipedia.org/wiki/外來語 "wikilink")）吉他（）、連續劇（）、電影（）、導演（）。這類單詞，曾經是將字首發為高音，但如今卻是以平音唸法為主流對吧。由於是以日語習性來組織言語，因此對於陌生單詞腦中會有習慣的重音位置，並且隨著言語脫口而出的次數增加，會有逐漸向後推移，化穩定為主的情況發生。因此將「B'z」發為平音，便是順其自然的結果吧{{\#tag:ref||group="原文"}}」\[13\]。
+關於「B'z」的發音，雖然在日本世間是以無抑揚頓挫的平板唸法「**B'z**」成為主流\[11\]，但成員們及關係者皆為在「B」放置重音，讀作『**B**'z』（）\[12\]。關於平板的發音方式被普遍化的理由，[NHK放送文化研究所講述了以下見解](../Page/NHK放送文化研究所.md "wikilink")，以「關於NHK節目內的發音，是由負責人做決定{{\#tag:ref||group="原文"}}」為開場白，「（[日語中](https://zh.wikipedia.org/wiki/日語 "wikilink")[外來語的](https://zh.wikipedia.org/wiki/外來語 "wikilink")）吉他（）、連續劇（）、電影（）、導演（）。這類單詞，曾經是將字首發為高音，但如今卻是以平音唸法為主流對吧。由於是以日語習性來組織言語，因此對於陌生單詞腦中會有習慣的重音位置，並且隨著言語脫口而出的次數增加，會有逐漸向後推移，化穩定為主的情況發生。因此將「B'z」發為平音，便是順其自然的結果吧{{\#tag:ref||group="原文"}}」\[13\]。
 
 ## 成員
 
@@ -68,7 +68,7 @@ Zeppelin的](https://zh.wikipedia.org/wiki/Led_Zeppelin "wikilink")"z"』{{\#tag
 
 ### 成為2人組的經過
 
-起初，松本以由少數人結成樂團為計畫尋找成員，但狀況卻持續陷入未曾遇見令他滿意的人選\[17\]。在這種情況下，遇到了稻葉，並結成了2人組的[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")「B'z」，但松本表示「為了擴展人聲與吉他極其模擬樂器的可能性，若可以的話，便以電腦及各種新器材進行同時對比與共存{{\#tag:ref||group="原文"}}\[18\]」、「由我寫曲、他（稻葉）寫詞，邊歌唱邊彈吉他，便足已創作出音樂，因此未必需要再加入其他成員{{\#tag:ref||group="原文"}}\[19\]」。
+起初，松本以由少數人結成樂團為計畫尋找成員，但狀況卻持續陷入未曾遇見令他滿意的人選\[17\]。在這種情況下，遇到了稻葉，並結成了2人組的[音樂組合](../Page/音樂組合.md "wikilink")「B'z」，但松本表示「為了擴展人聲與吉他極其模擬樂器的可能性，若可以的話，便以電腦及各種新器材進行同時對比與共存{{\#tag:ref||group="原文"}}\[18\]」、「由我寫曲、他（稻葉）寫詞，邊歌唱邊彈吉他，便足已創作出音樂，因此未必需要再加入其他成員{{\#tag:ref||group="原文"}}\[19\]」。
 當時的日本國內音樂面，是所謂「
 」的正盛之時，因此B'z出道亦顯得別具異彩。對此，松本表示「由於作為伴奏音樂家來到極限，因此僅只是認為到了該組織團體的時機而有所行動，和樂團熱潮無關{{\#tag:ref||group="原文"}}」。另一方面，關於演唱會，松本則表示「由於在演唱會上光憑電腦無法良好呈現，因此欲選擇聘請優秀的支援樂手{{\#tag:ref||group="原文"}}\[20\]」。
 
@@ -88,10 +88,10 @@ NETWORK的音色](../Page/TM_NETWORK.md "wikilink")。當時對此松本表示�
 
 B'z的歌曲[作詞由](https://zh.wikipedia.org/wiki/作詞 "wikilink")[稻葉浩志擔任](../Page/稻葉浩志.md "wikilink")、[作曲由](https://zh.wikipedia.org/wiki/作曲 "wikilink")[松本孝弘擔任](../Page/松本孝弘.md "wikilink")。B'z在結成當初對於歌曲便有「我們自己想辦法創作{{\#tag:ref||group="原文"}}」的構想，自然而然地成為由負責[吉他的松本作曲](../Page/吉他.md "wikilink")、負責[主唱的稻葉作詞](https://zh.wikipedia.org/wiki/主唱 "wikilink")。不過，由於2人皆是自B'z起才開始接觸正式作詞・作曲的創作活動，因此1st專輯『[B'z](../Page/B'z_\(1988年專輯\).md "wikilink")』中所收錄的「Nothing
 to Change」作詞是、「孤独にDance in
-vain」作詞是[大槻啓之](https://zh.wikipedia.org/wiki/大槻啓之 "wikilink")，松本表示「當時那已然是極限了{{\#tag:ref||group="原文"}}」。此外，由於稻葉對於書寫[日語歌詞及用日語歌唱會產生抵觸](https://zh.wikipedia.org/wiki/日語 "wikilink")，因此首次作詞時度過了苦思焦慮的生活\[24\]。
+vain」作詞是[大槻啓之](../Page/大槻啓之.md "wikilink")，松本表示「當時那已然是極限了{{\#tag:ref||group="原文"}}」。此外，由於稻葉對於書寫[日語歌詞及用日語歌唱會產生抵觸](https://zh.wikipedia.org/wiki/日語 "wikilink")，因此首次作詞時度過了苦思焦慮的生活\[24\]。
 
-基本上是從松本創作出旋律或吉他連復段等片斷產物開始，之後在書寫歌詞，便是以所謂的「曲先」製作，不過亦會有應用庫存歌詞或旋律來製作的時候。松本會使用錄音機或手機錄下浮現於腦海的點子，若身旁沒有吉他便會純粹錄下哼唱\[25\]。稻葉亦會將靈光乍現的想法寫成筆記或使用手機錄音\[26\]。此外，稻葉亦有表示關於B'z歌曲的作詞，許多是經由松本演奏的旋律及音色喚起言詞。關於編曲，當初是由[明石昌夫單獨執行](https://zh.wikipedia.org/wiki/明石昌夫 "wikilink")，但在1st迷你專輯『[BAD
-COMMUNICATION](https://zh.wikipedia.org/wiki/BAD_COMMUNICATION "wikilink")』時，執行手法為先由松本與明石製作出基础，再由稻葉書寫歌詞\[27\]，在6th專輯『[RUN](../Page/RUN.md "wikilink")』製作途中，是與巡演支援樂手一同錄音，因此增添了不少樂團氣息\[28\]。稻葉表示，自己是從7th專輯『[The
+基本上是從松本創作出旋律或吉他連復段等片斷產物開始，之後在書寫歌詞，便是以所謂的「曲先」製作，不過亦會有應用庫存歌詞或旋律來製作的時候。松本會使用錄音機或手機錄下浮現於腦海的點子，若身旁沒有吉他便會純粹錄下哼唱\[25\]。稻葉亦會將靈光乍現的想法寫成筆記或使用手機錄音\[26\]。此外，稻葉亦有表示關於B'z歌曲的作詞，許多是經由松本演奏的旋律及音色喚起言詞。關於編曲，當初是由[明石昌夫單獨執行](../Page/明石昌夫.md "wikilink")，但在1st迷你專輯『[BAD
+COMMUNICATION](../Page/BAD_COMMUNICATION.md "wikilink")』時，執行手法為先由松本與明石製作出基础，再由稻葉書寫歌詞\[27\]，在6th專輯『[RUN](../Page/RUN.md "wikilink")』製作途中，是與巡演支援樂手一同錄音，因此增添了不少樂團氣息\[28\]。稻葉表示，自己是從7th專輯『[The
 7th
 Blues](../Page/The_7th_Blues.md "wikilink")』錄音時起，對錄音室作業具體地產生興趣，自8th專輯『[LOOSE](https://zh.wikipedia.org/wiki/LOOSE_\(B'z專輯\) "wikilink")』錄音起稻葉開始參加製作，在16th單曲「[ねがい](../Page/心願_\(B'z單曲\).md "wikilink")」稻葉首次並列編曲製作人員名單。此外，B'z兩人開始將支援樂手、導演等，對於編曲的意見、想到的主意具現化為音符，除此之外，亦有將[DEMO交給複數編曲家](https://zh.wikipedia.org/wiki/DEMO "wikilink")，並採用優秀編曲的情況。
 
@@ -129,7 +129,7 @@ RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")」繼承了「B.U.M」）。�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/明石昌夫" title="wikilink">明石昌夫</a></p></td>
+<td><p><a href="../Page/明石昌夫.md" title="wikilink">明石昌夫</a></p></td>
 <td><p>、<a href="https://zh.wikipedia.org/wiki/貝斯" title="wikilink">貝斯</a></p></td>
 <td><p>演奏貝斯是自1992年發售的11th單曲「<a href="../Page/ZERO_(B&#39;z單曲).md" title="wikilink">ZERO</a>」起[31][32]</p></td>
 </tr>
@@ -139,7 +139,7 @@ RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")」繼承了「B.U.M」）。�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/寺島良一" title="wikilink">寺島良一</a></p></td>
+<td><p><a href="../Page/寺島良一.md" title="wikilink">寺島良一</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Director" title="wikilink">音樂總監</a></p></td>
 <td></td>
 </tr>
@@ -166,7 +166,7 @@ NETWORK等藝人的](../Page/TM_NETWORK.md "wikilink")或活動的[吉他手](ht
 
 1988年5月，尋找歌手的松本，由來自Being社長兼[音樂製作人的](../Page/音樂製作人.md "wikilink")[長戶大幸轉交了](../Page/長戶大幸.md "wikilink")1捲[DEMO](../Page/樣本唱片.md "wikilink")。該DEMO是隸屬於當時「Being音樂振興會」（後更名為[Being
 Music
-School](https://zh.wikipedia.org/wiki/Being_Music_School "wikilink")）的[稻葉浩志](../Page/稻葉浩志.md "wikilink")，錄下自身翻唱的的「T-BORN
+School](../Page/Being_Music_School.md "wikilink")）的[稻葉浩志](../Page/稻葉浩志.md "wikilink")，錄下自身翻唱的的「T-BORN
 SHUFFLE」、[Led
 Zeppelin的](https://zh.wikipedia.org/wiki/Led_Zeppelin "wikilink")「YOU
 SHOOK ME」、[Billy
@@ -178,7 +178,7 @@ It Be](../Page/Let_It_Be.md "wikilink")」、「[Oh\!
 Darling](../Page/Oh!_Darling.md "wikilink")」\[36\]。然而，由於器材故障導致當日並未共演完2曲，但根據松本表示「大約10分鐘就決定好了{{\#tag:ref||group="原文"}}」。於是，作為組合名「B'z」在1988年9月21日以同時發售單曲「[だからその手を離して](https://zh.wikipedia.org/wiki/だからその手を離して "wikilink")」與專輯『[B'z](../Page/B'z_\(1988年專輯\).md "wikilink")』出道。專輯[廣告標語為](../Page/廣告標語.md "wikilink")「自最頂端開始加速」（）。初次見面直至出道僅約短短4個月間，因此是在任憑尚未建立起信賴關係或友誼，便直接邁向出道活動，對於稻葉而言，表示「迄今為止，未曾被松本先生說過『一起來組樂團吧』{{\#tag:ref||group="原文"}}」。
 對於松本而言，當時的唱片公司具有「發售到3張專輯前必須走紅{{\#tag:ref||group="原文"}}」的方針，B'z打從一開始就有「不暢銷便沒有意義{{\#tag:ref||group="原文"}}」的高度意識，思索著「如何得以暢銷？{{\#tag:ref||group="原文"}}」。稻葉表示，具有「以『ギターブック/Gb』（當時最暢銷的音樂雜誌）封面為目標{{\#tag:ref||group="原文"}}」、「要在3年內登上（週刊排行榜誌）『[Oricon](../Page/Oricon.md "wikilink")』（刊登第1位
 -
-第50位為止）左頁{{\#tag:ref||group="原文"}}」這樣的B'z「3年計畫」\[37\]。此外，初期製作人是[中島正雄](https://zh.wikipedia.org/wiki/中島正雄 "wikilink")，在松本成為總體製作人後，中島的信用名義改為了「[監察人](https://zh.wikipedia.org/wiki/監察人 "wikilink")」。
+第50位為止）左頁{{\#tag:ref||group="原文"}}」這樣的B'z「3年計畫」\[37\]。此外，初期製作人是[中島正雄](../Page/中島正雄.md "wikilink")，在松本成為總體製作人後，中島的信用名義改為了「[監察人](../Page/監察人.md "wikilink")」。
 
 ### 1988年（出道後） - 1993年
 
@@ -190,7 +190,7 @@ B'z首次在觀眾面前披露現場表演，是1989年在TM NETWORK及[FENCE OF
 DEFENSE的音樂活動上作為開場表演出演時](../Page/FENCE_OF_DEFENSE.md "wikilink")，松本陳述首次邊彈吉他，邊在身旁-{注視}-著身處於演唱會上歌唱的稻葉時，便「感到『這絕對可行』{{\#tag:ref||group="原文"}}」。2nd專輯『[OFF
 THE LOCK](../Page/OFF_THE_LOCK.md "wikilink")』發售後，舉辦了首次獨立演唱會『B'z
 LIVE-GYM \#00 "OFF THE LOCK"』在東名阪的3個場地。3rd專輯發售前以實驗性質發表的1st迷你專輯『[BAD
-COMMUNICATION](https://zh.wikipedia.org/wiki/BAD_COMMUNICATION "wikilink")』長期暢銷保持中\[38\]，在1990年發售的3rd專輯『[BREAK
+COMMUNICATION](../Page/BAD_COMMUNICATION.md "wikilink")』長期暢銷保持中\[38\]，在1990年發售的3rd專輯『[BREAK
 THROUGH](../Page/BREAK_THROUGH.md "wikilink")』獲得[Oricon公信榜初登場第](../Page/Oricon公信榜.md "wikilink")3位，實現進入TOP
 10。
 
@@ -207,7 +207,7 @@ LIFE](../Page/IN_THE_LIFE.md "wikilink")』發售後，隔年舉辦了『B'z LIV
 "IN THE LIFE"』。
 
 1992年的『B'z LIVE-GYM Pleasure '92 "TIME"』是在競技場等級的會場，帶入名為「STAR
-FISH」的可動式照明桁架，於觀眾席360度全方位設置\[41\]。這年發售了10th單曲「[BLOWIN'](../Page/BLOWIN'.md "wikilink")」與11th單曲「[ZERO](../Page/ZERO_\(B'z單曲\).md "wikilink")」、6th專輯『[RUN](../Page/RUN.md "wikilink")』與4th迷你專輯『[FRIENDS](https://zh.wikipedia.org/wiki/FRIENDS_\(B'z專輯\) "wikilink")』。1993年舉辦了『B'z
+FISH」的可動式照明桁架，於觀眾席360度全方位設置\[41\]。這年發售了10th單曲「[BLOWIN'](../Page/BLOWIN'.md "wikilink")」與11th單曲「[ZERO](../Page/ZERO_\(B'z單曲\).md "wikilink")」、6th專輯『[RUN](../Page/RUN.md "wikilink")』與4th迷你專輯『[FRIENDS](../Page/FRIENDS_\(B'z專輯\).md "wikilink")』。1993年舉辦了『B'z
 LIVE-GYM '93 "RUN"』，在巡演中發售了12th單曲「[愛のままにわがままに
 僕は君だけを傷つけない](https://zh.wikipedia.org/wiki/愛のままにわがままに_僕は君だけを傷つけない "wikilink")」與13th單曲「[裸足の女神](https://zh.wikipedia.org/wiki/裸足の女神 "wikilink")」。夏季舉辦了B'z的首次野外演唱會『B'z
 LIVE-GYM Pleasure '93 "JAP THE RIPPER"』，於2日間在（静岡縣弁天島海濱公園）。
@@ -258,7 +258,7 @@ SKY」。『B'z LIVE-GYM '99
 
 2000年，27th單曲「[今夜月の見える丘に](https://zh.wikipedia.org/wiki/今夜月の見える丘に "wikilink")」，作為Mast
 Album（*マストアルバム*）『[B'z The
-"Mixture"](https://zh.wikipedia.org/wiki/B'z_The_"Mixture" "wikilink")』發售。在[日本放送的廣播節目](../Page/日本放送.md "wikilink")『B'zの』出演時，網路直播的同時觀看人數高達14,600人，更新了當時的日本紀錄
+"Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』發售。在[日本放送的廣播節目](../Page/日本放送.md "wikilink")『B'zの』出演時，網路直播的同時觀看人數高達14,600人，更新了當時的日本紀錄
 \[47\]。29th單曲「[juice](https://zh.wikipedia.org/wiki/juice "wikilink")」的[Music
 Video是在](https://zh.wikipedia.org/wiki/Music_Video "wikilink")[札幌以](../Page/札幌市.md "wikilink")「Guerrilla
 Live」形式拍攝而成。『B'z LIVE-GYM Pleasure 2000
@@ -304,7 +304,7 @@ Video成為史上首次使用[海上保安廳的](../Page/海上保安廳.md "wi
 Music Store（現今的[iTunes
 Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")）服務開始以來，伴隨自樂曲上架開始（部分樂曲除外）\[50\]，發行了限定數位上架的[Boxset](https://zh.wikipedia.org/wiki/Boxset "wikilink")『』（現已停止上架）\[51\]。此外，同年發售的精選輯『[B'z
 The Best "Pleasure
-II"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")』，從[iTunes可下載到](https://zh.wikipedia.org/wiki/iTunes "wikilink")1首作為購入特典首次公開的演唱會影像\[52\]。
+II"](../Page/B'z_The_Best_"Pleasure_II".md "wikilink")』，從[iTunes可下載到](https://zh.wikipedia.org/wiki/iTunes "wikilink")1首作為購入特典首次公開的演唱會影像\[52\]。
 
 2006年15th專輯『[MONSTER](../Page/MONSTER_\(B'z專輯\).md "wikilink")』發售後，舉辦了包含5大巨蛋的巡演『B'z
 LIVE-GYM 2006 "MONSTER'S GARAGE"』。此外，在演唱會影像發佈企業的「Network
@@ -315,9 +315,9 @@ SONIC](../Page/SUMMER_SONIC.md "wikilink")』。此外，在迎來出道第20年
 Rock
 Walk](https://zh.wikipedia.org/wiki/吉他中心#好萊塢搖滾大道 "wikilink")」的亞洲圈音樂家，在[好萊塢](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")[吉他中心舉行了紀念典禮](../Page/吉他中心.md "wikilink")。16th專輯『[ACTION](../Page/ACTION.md "wikilink")』發售，2008年舉辦了『B'z
 LIVE-GYM 2008 "ACTION"』。此外，發售了精選輯『[B'z The Best "ULTRA
-Pleasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")』與根據來自[網際網路點播決定收錄曲的精選輯](https://zh.wikipedia.org/wiki/網際網路 "wikilink")『[B'z
+Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")』與根據來自[網際網路點播決定收錄曲的精選輯](https://zh.wikipedia.org/wiki/網際網路 "wikilink")『[B'z
 The Best "ULTRA
-Treasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』\[54\]\[55\]，睽違5年舉辦了Pleasure系列『B'z
+Treasure"](../Page/B'z_The_Best_"ULTRA_Treasure".md "wikilink")』\[54\]\[55\]，睽違5年舉辦了Pleasure系列『B'z
 LIVE-GYM Pleasure 2008 -GLORY DAYS-』。
 
 ### 2009年 - 2013年
@@ -374,16 +374,16 @@ Your Town系列『B'z SHOWCASE 2017 -B'z In Your Town-』。此外，首次出�
 JAPAN
 FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")』與『』。作為實體發行，B'z首次發表發售Boxset『[B'z
 COMPLETE SINGLE
-BOX](https://zh.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』，與[7-Eleven合作販售了完全預約接單生産的](../Page/7-Eleven.md "wikilink")【Trailer
+BOX](../Page/B'z_COMPLETE_SINGLE_BOX.md "wikilink")』，與[7-Eleven合作販售了完全預約接單生産的](../Page/7-Eleven.md "wikilink")【Trailer
 Edition】，以及展開了「B'z×7-Eleven商品博覽會」\[80\]。 作為出道30週年活動的一環，舉辦了『[B'z
-Loud-Gym](https://zh.wikipedia.org/wiki/B'z_Loud-Gym "wikilink")』在47[都道府縣的](../Page/日本行政區劃.md "wikilink")[LIVE
-HOUSE](https://zh.wikipedia.org/wiki/展演空間 "wikilink")，每月1場直至隔年9月為止\[81\]。20th專輯『[DINOSAUR](https://zh.wikipedia.org/wiki/DINOSAUR "wikilink")』發售後，隔年舉辦了『B'z
+Loud-Gym](../Page/B'z_Loud-Gym.md "wikilink")』在47[都道府縣的](../Page/日本行政區劃.md "wikilink")[LIVE
+HOUSE](https://zh.wikipedia.org/wiki/展演空間 "wikilink")，每月1場直至隔年9月為止\[81\]。20th專輯『[DINOSAUR](../Page/DINOSAUR.md "wikilink")』發售後，隔年舉辦了『B'z
 LIVE-GYM 2017-2018 "LIVE
 DINOSAUR"』。此外，為了紀念出道30週年，除了舉辦首次大型展覽（[展覽會](../Page/展覽會.md "wikilink")），分別為『B'z
 30th Year Exhibition "SCENES"
 1988-2018』前期（1988-2002）與後期（2003-2018）\[82\]\[83\]，並將在會內上映的影像於日本全國電影院順次公開以外\[84\]，亦舉辦了睽違5年的Pleasure系列『[B'z
 LIVE-GYM Pleasure 2018
--HINOTORI-](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2018_-HINOTORI- "wikilink")』\[85\]\[86\]。
+-HINOTORI-](../Page/B'z_LIVE-GYM_Pleasure_2018_-HINOTORI-.md "wikilink")』\[85\]\[86\]。
 
 ## 評價
 
@@ -418,7 +418,7 @@ Vai所推舉](https://zh.wikipedia.org/wiki/Steve_Vai "wikilink")。Vai祝福道
 **[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")**
 
   - 『』【流行搖滾部門】優秀專輯獎『[WICKED
-    BEAT](https://zh.wikipedia.org/wiki/WICKED_BEAT "wikilink")』\[97\]
+    BEAT](../Page/WICKED_BEAT.md "wikilink")』\[97\]
   - 『』【流行搖滾部門】優秀專輯獎『[RISKY](../Page/RISKY.md "wikilink")』\[98\]
   - 『』【流行搖滾部門】優秀專輯獎『[IN THE
     LIFE](../Page/IN_THE_LIFE.md "wikilink")』\[99\]
@@ -450,7 +450,7 @@ Vai所推舉](https://zh.wikipedia.org/wiki/Steve_Vai "wikilink")。Vai祝福道
   - 『第14屆日本金唱片大獎』年度最佳搖滾專輯『[Brotherhood](https://zh.wikipedia.org/wiki/Brotherhood_\(B'z專輯\) "wikilink")』\[119\]
   - 『第15屆日本金唱片大獎』年度最佳歌曲「[今夜月の見える丘に](https://zh.wikipedia.org/wiki/今夜月の見える丘に "wikilink")」\[120\]、年度最佳搖滾專輯『[B'z
     The
-    "Mixture"](https://zh.wikipedia.org/wiki/B'z_The_"Mixture" "wikilink")』『[ELEVEN](../Page/ELEVEN.md "wikilink")』\[121\]
+    "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』『[ELEVEN](../Page/ELEVEN.md "wikilink")』\[121\]
   - 『第17屆日本金唱片大獎』年度最佳搖滾＆流行專輯（*Rock & Pop Album of the
     Year*）『[GREEN](../Page/GREEN_\(B'z專輯\).md "wikilink")』『[The
     Ballads 〜Love &
@@ -465,9 +465,9 @@ Vai所推舉](https://zh.wikipedia.org/wiki/Steve_Vai "wikilink")。Vai祝福道
     渚園〜](https://zh.wikipedia.org/wiki/Typhoon_No.15_〜B'z_LIVE-GYM_The_Final_Pleasure_"IT'S_SHOWTIME!!"_in_渚園〜 "wikilink")』\[126\]
   - 『第20屆日本金唱片大獎』年度最佳歌曲「[OCEAN](../Page/OCEAN_\(B'z單曲\).md "wikilink")」\[127\]、年度最佳搖滾＆流行專輯『[THE
     CIRCLE](../Page/THE_CIRCLE.md "wikilink")』『[B'z The Best "Pleasure
-    II"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")』\[128\]
+    II"](../Page/B'z_The_Best_"Pleasure_II".md "wikilink")』\[128\]
   - 『第23屆日本金唱片大獎』10張最佳專輯（*The Best 10 Album*）『[B'z The Best "ULTRA
-    Pleasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")』\[129\]
+    Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")』\[129\]
   - 『第24屆日本金唱片大獎』5張最佳單曲（*The Best 5
     Songs*）「[イチブトゼンブ](https://zh.wikipedia.org/wiki/イチブトゼンブ "wikilink")」\[130\]
   - 『第28屆日本金唱片大獎』5張最佳專輯（*The Best 5 Album*）『[B'z The Best XXV
@@ -627,8 +627,8 @@ Vai所推舉](https://zh.wikipedia.org/wiki/Steve_Vai "wikilink")。Vai祝福道
 17. [MAGIC](../Page/MAGIC_\(B'z專輯\).md "wikilink")（2009年）
 18. [C'mon](../Page/C'mon.md "wikilink")（2011年）
 19. [EPIC DAY](../Page/EPIC_DAY.md "wikilink")（2015年）
-20. [DINOSAUR](https://zh.wikipedia.org/wiki/DINOSAUR "wikilink")（2017年）
-21. [NEW LOVE](https://zh.wikipedia.org/wiki/NEW_LOVE "wikilink")（2019年）
+20. [DINOSAUR](../Page/DINOSAUR.md "wikilink")（2017年）
+21. [NEW LOVE](../Page/NEW_LOVE.md "wikilink")（2019年）
 
 ## 演唱會
 
@@ -649,7 +649,7 @@ LIVE-GYM\#B'z公演列表}}
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/增田隆宣" title="wikilink">增田隆宣</a></p></td>
+<td><p><a href="../Page/增田隆宣.md" title="wikilink">增田隆宣</a></p></td>
 <td><p><a href="../Page/電子琴.md" title="wikilink">電子琴</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鋼琴" title="wikilink">鋼琴</a>、<a href="https://zh.wikipedia.org/wiki/管風琴" title="wikilink">管風琴</a></p></td>
 <td><p>1992年 - 1997年、1999年 - 2018年</p></td>
@@ -687,7 +687,7 @@ LIVE-GYM\#B'z公演列表}}
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/明石昌夫" title="wikilink">明石昌夫</a></p></td>
+<td><p><a href="../Page/明石昌夫.md" title="wikilink">明石昌夫</a></p></td>
 <td><p>、<a href="https://zh.wikipedia.org/wiki/貝斯" title="wikilink">貝斯</a></p></td>
 <td><p>1989年 - 1997年</p></td>
 </tr>
@@ -697,7 +697,7 @@ LIVE-GYM\#B'z公演列表}}
 <td><p>1998年、2003年 - 2007年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/滿園庄太郎" title="wikilink">滿園庄太郎</a></p></td>
+<td><p><a href="../Page/滿園庄太郎.md" title="wikilink">滿園庄太郎</a></p></td>
 <td><p>貝斯</p></td>
 <td><p>1999年 - 2001年</p></td>
 </tr>
@@ -747,7 +747,7 @@ LIVE-GYM\#B'z公演列表}}
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/大田紳一郎" title="wikilink">大田紳一郎</a>（from doa）</p></td>
+<td><p><a href="../Page/大田紳一郎.md" title="wikilink">大田紳一郎</a>（from doa）</p></td>
 <td><p>和聲歌手、<a href="../Page/吉他.md" title="wikilink">吉他</a>、和聲</p></td>
 <td><p>2003年 - 2008年</p></td>
 </tr>
@@ -804,7 +804,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <tr class="odd">
 <td><p>一貫全裸（はだか一貫）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/貝斯" title="wikilink">貝斯</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/明石昌夫" title="wikilink">明石昌夫</a></p></td>
+<td><p><a href="../Page/明石昌夫.md" title="wikilink">明石昌夫</a></p></td>
 </tr>
 <tr class="even">
 <td><p>翻車魚・烏龜（マンボウ・カメ）（僅在名古屋為菊之門 雅（菊の門 雅））</p></td>
@@ -823,9 +823,8 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 
 **廣播電台**
 
-  - 『[B'z
-    WAVE-GYM](https://zh.wikipedia.org/wiki/B'z_WAVE-GYM "wikilink")』（1990年1月4日
-    - 1991年3月）
+  - 『[B'z WAVE-GYM](../Page/B'z_WAVE-GYM.md "wikilink")』（1990年1月4日 -
+    1991年3月）
 
   - [日本放送](../Page/日本放送.md "wikilink")『B'zの』『B'zの』（1992年、1995年、2000年、2001年、2003年、2005年）
 
@@ -892,7 +891,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <td><p><a href="../Page/TBS電視台.md" title="wikilink">TBS系連續劇</a>『ハイミスで悪かったネ!』片尾曲</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/BAD_COMMUNICATION" title="wikilink">BAD COMMUNICATION</a></p></td>
+<td><p><a href="../Page/BAD_COMMUNICATION.md" title="wikilink">BAD COMMUNICATION</a></p></td>
 <td><p><a href="../Page/富士通.md" title="wikilink">富士通</a>「<a href="../Page/FM_Towns.md" title="wikilink">FM TOWNS</a>」<a href="../Page/電視廣告.md" title="wikilink">廣告曲</a></p></td>
 <td></td>
 </tr>
@@ -922,7 +921,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/WICKED_BEAT" title="wikilink">I Wanna Dance -Wicked Beat Style-</a></p></td>
+<td><p><a href="../Page/WICKED_BEAT.md" title="wikilink">I Wanna Dance -Wicked Beat Style-</a></p></td>
 <td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台系</a>『』片頭曲（僅前奏部分）</p></td>
 <td></td>
 </tr>
@@ -1247,7 +1246,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/B&#39;z_The_Best_&quot;Pleasure_II&quot;" title="wikilink">いつかのメリークリスマス 〜「恋するハニカミ!」Version〜</a>[155]</p></td>
+<td><p><a href="../Page/B&#39;z_The_Best_&quot;Pleasure_II&quot;.md" title="wikilink">いつかのメリークリスマス 〜「恋するハニカミ!」Version〜</a>[155]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1362,7 +1361,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <td><p><a href="../Page/高絲.md" title="wikilink">KOSÉ</a>「」廣告曲</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;" title="wikilink">いつかまたここで</a></p></td>
+<td><p><a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;.md" title="wikilink">いつかまたここで</a></p></td>
 <td><p>朝日電視台系連續劇『』主題歌[158]</p></td>
 <td></td>
 </tr>
@@ -1439,7 +1438,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <tr class="odd">
 <td><p>2012年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/さまよえる蒼い弾丸" title="wikilink">Into Free -Dangan-</a></p></td>
-<td><p><a href="../Page/卡普空.md" title="wikilink">卡普空製遊戲軟體</a>『<a href="https://zh.wikipedia.org/wiki/龍族教義" title="wikilink">龍族教義</a>』主題歌[167]</p></td>
+<td><p><a href="../Page/卡普空.md" title="wikilink">卡普空製遊戲軟體</a>『<a href="../Page/龍族教義.md" title="wikilink">龍族教義</a>』主題歌[167]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/GO_FOR_IT,_BABY_-記憶的山脈-.md" title="wikilink">GO FOR IT, BABY -キオクの山脈-</a></p></td>
@@ -1539,7 +1538,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聲明/Still_Alive" title="wikilink">Still Alive</a></p></td>
-<td><p>TBS系連續劇『<a href="https://zh.wikipedia.org/wiki/A_LIFE～深愛的人～" title="wikilink">A LIFE〜深愛之人〜</a>』主題歌[177]</p></td>
+<td><p>TBS系連續劇『<a href="../Page/A_LIFE～深愛的人～.md" title="wikilink">A LIFE〜深愛之人〜</a>』主題歌[177]</p></td>
 </tr>
 <tr class="even">
 <td><p>TBS系『』6・7月度片尾曲<ref name="still">{{Cite web |url=<a href="https://bz-vermillion.com/news/170601.html">https://bz-vermillion.com/news/170601.html</a> |title=B'z「Still Alive」TBS各番組 6・7月度テーマソングに決定</p></td>
@@ -1567,7 +1566,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/DINOSAUR" title="wikilink">CHAMP</a></p></td>
+<td><p><a href="../Page/DINOSAUR.md" title="wikilink">CHAMP</a></p></td>
 <td><p>B'z×<a href="../Page/7-Eleven.md" title="wikilink">7-Eleven商品博覽會</a> 電視廣告曲</p></td>
 <td></td>
 </tr>
@@ -1578,12 +1577,12 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/DINOSAUR" title="wikilink">Dinosaur</a></p></td>
-<td><p>電影『<a href="https://zh.wikipedia.org/wiki/氣象戰_(電影)" title="wikilink">氣象戰</a>』日語配音版主題歌[181]</p></td>
+<td><p><a href="../Page/DINOSAUR.md" title="wikilink">Dinosaur</a></p></td>
+<td><p>電影『<a href="../Page/氣象戰_(電影).md" title="wikilink">氣象戰</a>』日語配音版主題歌[181]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/DINOSAUR" title="wikilink">King Of The Street</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/光榮特庫摩遊戲" title="wikilink">KOEI TECMO GAMES</a>『<a href="https://zh.wikipedia.org/wiki/真·三國無雙8" title="wikilink">真・三國無雙8</a>』主題曲[182]</p></td>
+<td><p><a href="../Page/DINOSAUR.md" title="wikilink">King Of The Street</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/光榮特庫摩遊戲" title="wikilink">KOEI TECMO GAMES</a>『<a href="../Page/真·三國無雙8.md" title="wikilink">真・三國無雙8</a>』主題曲[182]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1592,12 +1591,12 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/NEW_LOVE" title="wikilink">マジェスティック</a></p></td>
+<td><p><a href="../Page/NEW_LOVE.md" title="wikilink">マジェスティック</a></p></td>
 <td><p><a href="../Page/江崎固力果.md" title="wikilink">江崎固力果</a>『<a href="https://zh.wikipedia.org/wiki/Pocky" title="wikilink">Pocky</a>』電視廣告主題歌[183][184]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/NEW_LOVE" title="wikilink">WOLF</a></p></td>
+<td><p><a href="../Page/NEW_LOVE.md" title="wikilink">WOLF</a></p></td>
 <td><p>富士電視台系週一晚間9點連續劇『』主題歌[185]</p></td>
 <td></td>
 </tr>
@@ -1607,13 +1606,13 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/NEW_LOVE" title="wikilink">兵、走る</a></p></td>
+<td><p><a href="../Page/NEW_LOVE.md" title="wikilink">兵、走る</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大正製藥" title="wikilink">大正製藥</a>「<a href="https://zh.wikipedia.org/wiki/力保美達" title="wikilink">-{zh-tw:力保美達;zh-cn:心跳回忆;zh-hk:力保健}-</a>」<a href="../Page/日本國家橄欖球隊.md" title="wikilink">日本國家橄欖球隊應援歌</a>「最強の自分」篇 廣告曲[187]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NEW_LOVE" title="wikilink">デウス</a></p></td>
+<td><p><a href="../Page/NEW_LOVE.md" title="wikilink">デウス</a></p></td>
 <td><p><a href="../Page/鈴木_(公司).md" title="wikilink">鈴木</a>「<a href="../Page/鈴木Escudo.md" title="wikilink">-{zh-hk:Vitara;zh-tw:Escudo;}-</a>」妥協なきSUV篇 電視廣告曲</p></td>
 </tr>
 <tr class="odd">
@@ -1643,8 +1642,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 ## 關連項目
 
   - [暢銷音樂藝人列表](https://zh.wikipedia.org/wiki/暢銷音樂藝人列表 "wikilink")
-  - [B'z
-    Loud-Gym](https://zh.wikipedia.org/wiki/B'z_Loud-Gym "wikilink")
+  - [B'z Loud-Gym](../Page/B'z_Loud-Gym.md "wikilink")
 
 ## 外部連結
 
@@ -1723,7 +1721,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 31. 出自『Treasure : B'z Chronicle 1988～1998 10th anniversary special
     issue』P26
 
-32. 不過開始被表記在製作人員名單是自1992年發售的4th迷你專輯『[FRIENDS](https://zh.wikipedia.org/wiki/FRIENDS_\(B'z專輯\) "wikilink")』起
+32. 不過開始被表記在製作人員名單是自1992年發售的4th迷你專輯『[FRIENDS](../Page/FRIENDS_\(B'z專輯\).md "wikilink")』起
 
 33.
 

@@ -74,7 +74,7 @@
 
 <!-- end list -->
 
-  - **[薛爾登·霍克](https://zh.wikipedia.org/wiki/薛爾登·霍克 "wikilink")（）法醫與鑑識員：[希爾·哈潑](https://zh.wikipedia.org/wiki/希爾·哈潑 "wikilink")（）飾演**，天才兒童，才18歲就從大學畢業；24歲獲得[外科醫師執業執照](https://zh.wikipedia.org/wiki/外科醫師 "wikilink")。
+  - **[薛爾登·霍克](https://zh.wikipedia.org/wiki/薛爾登·霍克 "wikilink")（）法醫與鑑識員：[希爾·哈潑](https://zh.wikipedia.org/wiki/希爾·哈潑 "wikilink")（）飾演**，天才兒童，才18歲就從大學畢業；24歲獲得[外科醫師執業執照](../Page/外科醫師.md "wikilink")。
 
 <!-- end list -->
 

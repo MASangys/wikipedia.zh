@@ -33,7 +33,7 @@
 ### 主要演員
 
   - 仁井三都子：[沢口靖子](https://zh.wikipedia.org/wiki/沢口靖子 "wikilink")
-  - 仁井勇：[勝村政信](https://zh.wikipedia.org/wiki/勝村政信 "wikilink")
+  - 仁井勇：[勝村政信](../Page/勝村政信.md "wikilink")
   - 水戸レン：[檀ふみ](https://zh.wikipedia.org/wiki/檀ふみ "wikilink")
   - 多和田悟：[うじきつよし](https://zh.wikipedia.org/wiki/うじきつよし "wikilink")
   - 渡辺満：[玉置浩二](../Page/玉置浩二.md "wikilink")

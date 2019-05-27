@@ -87,7 +87,7 @@ PCMan
 ## 開發者
 
   - Hong Jen Yee [洪任諭](../Page/洪任諭.md "wikilink")（PCMan，原作者及主要開發者）
-  - Jim Huang [黃敬群](https://zh.wikipedia.org/wiki/黃敬群 "wikilink")（jserv）
+  - Jim Huang [黃敬群](../Page/黃敬群.md "wikilink")（jserv）
   - Kanru Chen 陳侃如（kanru）
   - Chia I Wu 吳佳一（olv）
   - Shih-Yuan Lee 李世元（FourDollars）

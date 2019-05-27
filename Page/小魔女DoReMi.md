@@ -252,7 +252,7 @@
 <td><p>魔法堂改裝新開幕</p></td>
 <td></td>
 <td><p>岩井隆央</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/川村敏江" title="wikilink">川村敏江</a></p></td>
+<td><p><a href="../Page/川村敏江.md" title="wikilink">川村敏江</a></p></td>
 <td><p>3月7日</p></td>
 <td></td>
 </tr>
@@ -2395,7 +2395,7 @@
 <td><p>西洋情人節〜羽月的秘密〜</p></td>
 <td><p>成田良美</p></td>
 <td><p>（<a href="https://zh.wikipedia.org/wiki/桜井弘明" title="wikilink">桜井弘明</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/岡本英樹" title="wikilink">岡本英樹</a></p></td>
+<a href="../Page/岡本英樹.md" title="wikilink">岡本英樹</a></p></td>
 <td><p>生田目康裕</p></td>
 <td><p>11月13日</p></td>
 <td></td>

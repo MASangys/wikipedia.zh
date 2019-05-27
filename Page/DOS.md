@@ -7,7 +7,7 @@ DOS家族包括[MS-DOS](../Page/MS-DOS.md "wikilink")、[PC-DOS](../Page/PC-DOS.
 DOS](https://zh.wikipedia.org/wiki/Apple_DOS "wikilink")、[Atari
 DOS](https://zh.wikipedia.org/wiki/Atari_DOS "wikilink")、[Commodore
 DOS](https://zh.wikipedia.org/wiki/Commodore_DOS "wikilink")、[CSI-DOS](https://zh.wikipedia.org/wiki/CSI-DOS "wikilink")、[ProDOS](https://zh.wikipedia.org/wiki/ProDOS "wikilink")、[TRS-DOS等](https://zh.wikipedia.org/wiki/TRS-DOS "wikilink")），但這些系統和[DOS執行檔以及](https://zh.wikipedia.org/wiki/DOS執行檔 "wikilink")[MS-DOS
-API並不相容](https://zh.wikipedia.org/wiki/MS-DOS_API "wikilink")。
+API並不相容](../Page/MS-DOS_API.md "wikilink")。
 
 ## 設計架構
 
@@ -313,7 +313,7 @@ FAT16和[FAT12](../Page/FAT.md "wikilink")（用於軟碟片）上的檔案名�
 
   - [COMMAND.COM](https://zh.wikipedia.org/wiki/COMMAND.COM "wikilink")，DOS和[Windows
     9x的命令列直譯器](../Page/Windows_9x.md "wikilink")
-  - [MS-DOS API](https://zh.wikipedia.org/wiki/MS-DOS_API "wikilink")
+  - [MS-DOS API](../Page/MS-DOS_API.md "wikilink")
   - [MS-DOS](../Page/MS-DOS.md "wikilink")
   - [IBM PC-DOS](../Page/PC-DOS.md "wikilink")
   - [DR-DOS](../Page/DR-DOS.md "wikilink")

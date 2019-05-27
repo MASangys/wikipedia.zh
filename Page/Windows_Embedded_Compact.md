@@ -168,7 +168,7 @@ PC以及](../Page/Pocket_PC.md "wikilink")[智能手机](../Page/智能手机.md
 Phone上的Windows](https://zh.wikipedia.org/wiki/SmartPhone "wikilink")
 CE系统称为[Windows
 Mobile](../Page/Windows_Mobile.md "wikilink")，目前成熟的最新版本为[Windows
-10 Mobile](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")。
+10 Mobile](../Page/Windows_10.md "wikilink")。
 
 在2009年10月6日，[Windows
 Mobile亦正式改名為](../Page/Windows_Mobile.md "wikilink")[Windows

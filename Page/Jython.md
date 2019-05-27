@@ -10,7 +10,7 @@ Jython还包括[jythonc](https://web.archive.org/web/20090606230123/http://www.j
 
 Jython同时使用以下三种协议授权：\[1\]
 
-1.  [Python软件基金会许可证](https://zh.wikipedia.org/wiki/Python软件基金会许可证 "wikilink")（v2）
+1.  [Python软件基金会许可证](../Page/Python软件基金会许可证.md "wikilink")（v2）
 2.  Jython 2.0, 2.1授權條款
 3.  JPython 1.1.x軟體授權條款
 

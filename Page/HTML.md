@@ -12,7 +12,7 @@ HTML可以嵌入如[JavaScript的](../Page/JavaScript.md "wikilink")[脚本语�
 
 [Tim_Berners-Lee_April_2009.jpg](https://zh.wikipedia.org/wiki/File:Tim_Berners-Lee_April_2009.jpg "fig:Tim_Berners-Lee_April_2009.jpg")
 \]\]
-1980年，物理学家[蒂姆·伯纳斯-李在](../Page/蒂姆·伯纳斯-李.md "wikilink")[欧洲核子研究中心](../Page/歐洲核子研究組織.md "wikilink")（CERN）在承包工程期间，为使CERN的研究人员使用并共享文档，他提出并创建原型系统[ENQUIRE](https://zh.wikipedia.org/wiki/ENQUIRE "wikilink")。1989年，伯纳斯-李在一份备忘录中提出一个基于[互联网的](../Page/互联网.md "wikilink")[超文本系统](../Page/超文本.md "wikilink")\[3\]。他-{zh-hans:规定;
+1980年，物理学家[蒂姆·伯纳斯-李在](../Page/蒂姆·伯纳斯-李.md "wikilink")[欧洲核子研究中心](../Page/歐洲核子研究組織.md "wikilink")（CERN）在承包工程期间，为使CERN的研究人员使用并共享文档，他提出并创建原型系统[ENQUIRE](../Page/ENQUIRE.md "wikilink")。1989年，伯纳斯-李在一份备忘录中提出一个基于[互联网的](../Page/互联网.md "wikilink")[超文本系统](../Page/超文本.md "wikilink")\[3\]。他-{zh-hans:规定;
 zh-tw:制定}-HTML并在1990年底写出浏览器和服务器软件。同年，伯纳斯-李与CERN的数据系统工程师[罗伯特·卡里奥联合为项目申请资助](../Page/罗伯特·卡里奥.md "wikilink")，但未被CERN正式批准。在他的个人笔记中\[4\]伯纳斯-李列举“一些使用超文本的领域”，并把百科全书列为-{zh-hans:首位;
 zh-tw:第一項}-\[5\]。
 
@@ -108,7 +108,7 @@ Mosaic浏览器自定义标签从而将在线图像嵌入的行为的认可](htt
 `|archiveurl  = `<https://web.archive.org/web/20070706204926/http://www.w3.org/MarkUp/html3/CoverPage>
 `|archivedate = 2007-07-06`
 
-}}</ref>。W3C开始开发自己的[Arena浏览器作为HTML](https://zh.wikipedia.org/wiki/Arena_\(瀏覽器\) "wikilink")
+}}</ref>。W3C开始开发自己的[Arena浏览器作为HTML](../Page/Arena_\(瀏覽器\).md "wikilink")
 3和层叠样式表的\[39\]\[40\]\[41\]，但HTML
 3.0并没有获得成功。浏览器厂商，包括微软和网景，选择实现HTML3草案功能的不同子集并引入它们自己的插件（见[浏览器大战](../Page/浏览器大战.md "wikilink")）\[42\]。
 

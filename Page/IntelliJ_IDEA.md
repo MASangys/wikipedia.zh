@@ -15,7 +15,7 @@ Studio](../Page/Android_Studio.md "wikilink")，即基於IntelliJ
 IDEA的社區版本發展而成\[4\]，用以取代原來提供Android開發者使用的。開發者除了可直接下載Android
 Studio外，原IntelliJ使用者亦可下載其相關[插件來進行開發程序](../Page/插件.md "wikilink")。
 
-IntelliJ對個別程式語言所開發的整合環境，如、、、[PyCharm](https://zh.wikipedia.org/wiki/PyCharm "wikilink")、、和等，皆可由插件的方式載入IntelliJ
+IntelliJ對個別程式語言所開發的整合環境，如、、、[PyCharm](../Page/PyCharm.md "wikilink")、、和等，皆可由插件的方式載入IntelliJ
 IDEA來使用。\[5\]
 
 ## 系統需求 \[6\]

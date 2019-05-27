@@ -35,7 +35,7 @@
 
 《**NHK紅白歌合-{}-戰**》（），簡稱《**紅白**》（），[中文又譯為](https://zh.wikipedia.org/wiki/中文 "wikilink")《**紅白歌唱大-{}-賽**》或《**紅白歌-{}-會**》，是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）自1951年起每年播出一次\[3\]的，以[現場直播的方式同時在NHK的](../Page/現場直播.md "wikilink")[電視與](https://zh.wikipedia.org/wiki/電視廣播 "wikilink")[電台頻道](../Page/電台廣播.md "wikilink")，向[日本全國以及全世界播出](../Page/日本.md "wikilink")。前三屆於年初播出，第四屆起固定於[新年前夕播出](https://zh.wikipedia.org/wiki/新年前夕 "wikilink")。
 
-紅白原意為日本[劍道](../Page/劍道.md "wikilink")[紅白對抗的概念](https://zh.wikipedia.org/wiki/紅白 "wikilink")，而紅白歌唱大賽的紅白則是將[女性](../Page/女性.md "wikilink")、[男性](../Page/男性.md "wikilink")[歌手分為紅](../Page/歌手.md "wikilink")、白兩組，以歌曲對抗赛的形式进行；男女混合的[組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")，則以[主唱性別來決定归属](https://zh.wikipedia.org/wiki/主唱 "wikilink")，例如[小事樂團與](../Page/小事樂團.md "wikilink")[美夢成真的主唱是女性](../Page/DREAMS_COME_TRUE.md "wikilink")，故被分為紅組。其舉辦初期的場地並不固定，除了在當時NHK總部所在的之外，也曾在[東京數個較大的](https://zh.wikipedia.org/wiki/東京 "wikilink")[表演廳舉行](https://zh.wikipedia.org/wiki/多功能大厅 "wikilink")，例如[日本劇場](https://zh.wikipedia.org/wiki/日本劇場 "wikilink")、[東京寶塚劇場等](https://zh.wikipedia.org/wiki/東京寶塚劇場 "wikilink")；直到1973年（）起，才開始固定在該年落成的[NHK會館舉行](https://zh.wikipedia.org/wiki/NHK會館 "wikilink")。目前節目時間長逾4个小时，並分为两个部分：现时前半段（第1部）为19:15-20:55（[日本標準時間](../Page/日本標準時間.md "wikilink")，下同），後半段（第2部）为21:00-23:45，前後半段的中間空檔插播5分鐘[新聞](../Page/NHK新聞.md "wikilink")。
+紅白原意為日本[劍道](../Page/劍道.md "wikilink")[紅白對抗的概念](https://zh.wikipedia.org/wiki/紅白 "wikilink")，而紅白歌唱大賽的紅白則是將[女性](../Page/女性.md "wikilink")、[男性](../Page/男性.md "wikilink")[歌手分為紅](../Page/歌手.md "wikilink")、白兩組，以歌曲對抗赛的形式进行；男女混合的[組合](../Page/音樂組合.md "wikilink")，則以[主唱性別來決定归属](https://zh.wikipedia.org/wiki/主唱 "wikilink")，例如[小事樂團與](../Page/小事樂團.md "wikilink")[美夢成真的主唱是女性](../Page/DREAMS_COME_TRUE.md "wikilink")，故被分為紅組。其舉辦初期的場地並不固定，除了在當時NHK總部所在的之外，也曾在[東京數個較大的](https://zh.wikipedia.org/wiki/東京 "wikilink")[表演廳舉行](https://zh.wikipedia.org/wiki/多功能大厅 "wikilink")，例如[日本劇場](https://zh.wikipedia.org/wiki/日本劇場 "wikilink")、[東京寶塚劇場等](https://zh.wikipedia.org/wiki/東京寶塚劇場 "wikilink")；直到1973年（）起，才開始固定在該年落成的[NHK會館舉行](https://zh.wikipedia.org/wiki/NHK會館 "wikilink")。目前節目時間長逾4个小时，並分为两个部分：现时前半段（第1部）为19:15-20:55（[日本標準時間](../Page/日本標準時間.md "wikilink")，下同），後半段（第2部）为21:00-23:45，前後半段的中間空檔插播5分鐘[新聞](../Page/NHK新聞.md "wikilink")。
 
 ## 节目概况
 
@@ -98,14 +98,14 @@ NHK红白歌合战是一档将女性艺人分为红组，男性艺人分为白�
 因同上的理由被整合进NHK BS Premium。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/NHK_BS4K" title="wikilink">NHK BS4K</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第69回NHK紅白歌合戰" title="wikilink">第69回</a><small>（2018年）</small></p></td>
+<td><p><a href="../Page/NHK_BS4K.md" title="wikilink">NHK BS4K</a></p></td>
+<td><p><a href="../Page/第69回NHK紅白歌合戰.md" title="wikilink">第69回</a><small>（2018年）</small></p></td>
 <td><p>采用<a href="https://zh.wikipedia.org/wiki/广播卫星" title="wikilink">广播卫星进行</a><a href="https://zh.wikipedia.org/wiki/5.1声道" title="wikilink">5.1声道电视转播</a>。<br />
 部分镜头与綜合台及World Premium的版本不同。[5]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/NHK_BS8K" title="wikilink">NHK BS8K</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第69回NHK紅白歌合戰" title="wikilink">第69回</a><small>（2018年）</small></p></td>
+<td><p><a href="../Page/NHK_BS8K.md" title="wikilink">NHK BS8K</a></p></td>
+<td><p><a href="../Page/第69回NHK紅白歌合戰.md" title="wikilink">第69回</a><small>（2018年）</small></p></td>
 <td><p>采用<a href="https://zh.wikipedia.org/wiki/广播卫星" title="wikilink">广播卫星进行</a><a href="https://zh.wikipedia.org/wiki/22.2声道" title="wikilink">22.2声道电视转播</a>。<br />
 部分镜头与綜合台及World Premium的版本不同。[6]</p></td>
 </tr>
@@ -208,7 +208,7 @@ Tigers组合名义两次出场被视为是独一无二的个案](https://zh.wiki
       -
         由于NHK是[公共广播](https://zh.wikipedia.org/wiki/公共广播 "wikilink")，因此其节目的制作费用都是由公众支付，同时表演嘉宾的出场费用也是公众支付。故，形象干净决定了歌手是否能够入围候选名单乃至被选中，甚至歌手最终是否能登台表演也和这个有很大的关系。实际上，因为牵扯到丑闻而导致落选、辞退，甚至表演被临时取消的案例也是有发生的。
         特别是日本娱乐圈内部的“黑色交际”，也就是说日本许多[暴力团](../Page/暴力团.md "wikilink")、[极道团体等犯罪集团的力量往往是不少娱乐公司的高管](https://zh.wikipedia.org/wiki/极道 "wikilink")。但是在明面上，日本娱乐圈还是禁止艺人与黑社会有直接的牵连。即便是资深当红艺人也不例外，曾经长期垄断红组出场歌手的[美空云雀因为在](https://zh.wikipedia.org/wiki/美空云雀 "wikilink")1973年的的逮捕案中被发现与山口组第三代组长有牵连，导致她在NHK的民意调查中印象为负，从而失去再次出场的机会。\[20\]
-        尽管她此后与黑社会保持距离，但这也并没有使她能够以正式出场歌手的身份重返红白舞台。此外，在[第37回](../Page/第37回NHK紅白歌合戰.md "wikilink")（1986年）上，由于媒体曝光了[北岛三郎](../Page/北岛三郎.md "wikilink")、[山本让二出席暴力团主办的宴席](https://zh.wikipedia.org/wiki/山本让二 "wikilink")，导致NHK在12月29日临时辞退了两人的演出。NHK临时找寻了[角川博与](../Page/角川博.md "wikilink")替补出场。但是作为替补歌手的鸟羽一郎却自爆自己过去曾经参加暴力团的经历，并以NHK的态度伪善为由而拒绝出场。最后替代鸟羽一郎登场的是[涩柿子队](https://zh.wikipedia.org/wiki/涩柿子队 "wikilink")。2011年，日本各[都道府县为消除暴力团影响而制定的](https://zh.wikipedia.org/wiki/都道府县 "wikilink")《[暴力团排除条例](https://zh.wikipedia.org/wiki/暴力团排除条例 "wikilink")》开始实施。而与此同时，人气主持人[岛田绅助因为与暴力团有往来而宣布退出娱乐圈并引发社会关注](../Page/岛田绅助.md "wikilink")。NHK趁机公布了“排除暴力团”的方针。就同年的[第62回NHK红白歌合战来说](https://zh.wikipedia.org/wiki/第62回NHK红白歌合战 "wikilink")，NHK投入了更多的精力来检查出场候补歌手的资料。有媒体报道，红白节目组查询了大量资料，并翻阅了诸多媒体的报道。
+        尽管她此后与黑社会保持距离，但这也并没有使她能够以正式出场歌手的身份重返红白舞台。此外，在[第37回](../Page/第37回NHK紅白歌合戰.md "wikilink")（1986年）上，由于媒体曝光了[北岛三郎](../Page/北岛三郎.md "wikilink")、[山本让二出席暴力团主办的宴席](https://zh.wikipedia.org/wiki/山本让二 "wikilink")，导致NHK在12月29日临时辞退了两人的演出。NHK临时找寻了[角川博与](../Page/角川博.md "wikilink")替补出场。但是作为替补歌手的鸟羽一郎却自爆自己过去曾经参加暴力团的经历，并以NHK的态度伪善为由而拒绝出场。最后替代鸟羽一郎登场的是[涩柿子队](../Page/涩柿子队.md "wikilink")。2011年，日本各[都道府县为消除暴力团影响而制定的](https://zh.wikipedia.org/wiki/都道府县 "wikilink")《[暴力团排除条例](https://zh.wikipedia.org/wiki/暴力团排除条例 "wikilink")》开始实施。而与此同时，人气主持人[岛田绅助因为与暴力团有往来而宣布退出娱乐圈并引发社会关注](../Page/岛田绅助.md "wikilink")。NHK趁机公布了“排除暴力团”的方针。就同年的[第62回NHK红白歌合战来说](https://zh.wikipedia.org/wiki/第62回NHK红白歌合战 "wikilink")，NHK投入了更多的精力来检查出场候补歌手的资料。有媒体报道，红白节目组查询了大量资料，并翻阅了诸多媒体的报道。
 
 #### 出场辞演
 
@@ -1094,7 +1094,7 @@ TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[高橋真梨子](../Page/高橋
 （岚）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/内村光良" title="wikilink">内村光良</a><br />
 （<a href="../Page/小內小南.md" title="wikilink">小內小南</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/桑子真帆" title="wikilink">桑子真帆</a></p></td>
+<a href="../Page/桑子真帆.md" title="wikilink">桑子真帆</a></p></td>
 <td><p>白</p></td>
 <td><p>前半 35.8%<br />
 后半 39.4%</p></td>
@@ -1191,7 +1191,7 @@ Research成立前举行，故而没有相关收视率数据。\[36\]
 </tr>
 <tr class="even">
 <td><p>第64回（2013年）</p></td>
-<td><p>、<a href="https://zh.wikipedia.org/wiki/久保田祐佳" title="wikilink">久保田祐佳</a></p></td>
+<td><p>、<a href="../Page/久保田祐佳.md" title="wikilink">久保田祐佳</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第65回（2014年）</p></td>
@@ -1541,7 +1541,7 @@ Research成立前举行，故而没有相关收视率数据。\[36\]
 <tr class="even">
 <td></td>
 <td><p>2000年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天童芳美" title="wikilink">天童芳美</a>（5）[初]</p></td>
+<td><p><a href="../Page/天童芳美.md" title="wikilink">天童芳美</a>（5）[初]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1635,19 +1635,19 @@ Research成立前举行，故而没有相关收视率数据。\[36\]
 <td><p><a href="../Page/紅色的麝香豌豆.md" title="wikilink">紅色的麝香豌豆</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/第67回NHK紅白歌合戰" title="wikilink">第67回</a></p></td>
+<td><p><a href="../Page/第67回NHK紅白歌合戰.md" title="wikilink">第67回</a></p></td>
 <td><p>2016年</p></td>
 <td><p>石川小百合（39）[7]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/第68回NHK紅白歌合戰" title="wikilink">第68回</a></p></td>
+<td><p><a href="../Page/第68回NHK紅白歌合戰.md" title="wikilink">第68回</a></p></td>
 <td><p>2017年</p></td>
 <td><p>石川小百合（40）[8]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/第69回NHK紅白歌合戰" title="wikilink">第69回</a></p></td>
+<td><p><a href="../Page/第69回NHK紅白歌合戰.md" title="wikilink">第69回</a></p></td>
 <td><p>2018年</p></td>
 <td><p>石川小百合（41）[9]</p></td>
 <td><p><a href="../Page/越過天城.md" title="wikilink">越過天城</a></p></td>
@@ -2079,7 +2079,7 @@ Research成立前举行，故而没有相关收视率数据。\[36\]
 <tr class="odd">
 <td><p>第66回</p></td>
 <td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大原櫻子" title="wikilink">大原櫻子</a>(初) [初]</p></td>
+<td><p><a href="../Page/大原櫻子.md" title="wikilink">大原櫻子</a>(初) [初]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2133,7 +2133,7 @@ Search有相关](../Page/Video_Research.md "wikilink")[收视率记录](https://
   - 第43回（1992年） -
     [本木雅弘出场时在脖子上挂着数个装有白色液体的](../Page/本木雅弘.md "wikilink")[安全套形状的气球](https://zh.wikipedia.org/wiki/安全套 "wikilink")，之后的演奏途中甚至露出了臀部。
   - 第57回（2006年） - [DJ
-    OZMA](https://zh.wikipedia.org/wiki/DJ_OZMA "wikilink")（[气志团的](https://zh.wikipedia.org/wiki/气志团 "wikilink")）登场时身着皮肤色的女性内衣（），两腿间挂着蘑菇状物体。因女性伴舞采用类似的近乎全裸的装束，NHK方面抗议道“这是公开放送，还是黄金时段！”。虽然总主持人在台上澄清“这不是全裸”，但之后[放送伦理·番组向上机构](https://zh.wikipedia.org/wiki/放送伦理·番组向上机构 "wikilink")（BPO）仍要求NHK对此情况进行说明。这不仅导致DJ
+    OZMA](https://zh.wikipedia.org/wiki/DJ_OZMA "wikilink")（[气志团的](https://zh.wikipedia.org/wiki/气志团 "wikilink")）登场时身着皮肤色的女性内衣（），两腿间挂着蘑菇状物体。因女性伴舞采用类似的近乎全裸的装束，NHK方面抗议道“这是公开放送，还是黄金时段！”。虽然总主持人在台上澄清“这不是全裸”，但之后[放送伦理·番组向上机构](../Page/放送伦理·番组向上机构.md "wikilink")（BPO）仍要求NHK对此情况进行说明。这不仅导致DJ
     OZMA活动一时停止，恢复之后的活动亦受到各种各样的制约，最终本人在2008年宣布隐退。
   - 第57回（2006年） -
     [森進一在演唱由](../Page/森進一.md "wikilink")[川内康范作词的](../Page/川内康范.md "wikilink")《おふくろさん》时擅自加入了原创的歌词，导致川内的暴怒后引发了骚动。

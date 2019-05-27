@@ -1,6 +1,6 @@
 **hide**（，\[1\]\[2\]），是一位[日本的](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")／[重金屬](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、[歌手](../Page/歌手.md "wikilink")、[詞曲作家及](../Page/詞曲作家.md "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")\[3\]。自1987年到1997年間，他以擔任日本金屬／搖滾樂團[X
 JAPAN的吉他手最為著名](../Page/X_Japan.md "wikilink")，藝名為**HIDE**\[4\]\[5\]。1989年以X的成員身分，參與發行專輯《[BLUE
-BLOOD](https://zh.wikipedia.org/wiki/BLUE_BLOOD "wikilink")》正式出道\[6\]。他率先提出了[視覺系這個名詞](../Page/視覺系.md "wikilink")，故被認為是視覺系風潮中的先驅\[7\]\[8\]。
+BLOOD](../Page/BLUE_BLOOD.md "wikilink")》正式出道\[6\]。他率先提出了[視覺系這個名詞](../Page/視覺系.md "wikilink")，故被認為是視覺系風潮中的先驅\[7\]\[8\]。
 
 自1993年以後，他也以藝名**hide**展開個人音樂活動\[9\]。1996年成立「LEMONed」[唱片公司](../Page/唱片公司.md "wikilink")\[10\]。1997年X
 JAPAN解散後，組成hide with Spread
@@ -34,10 +34,10 @@ Express〉兩首歌曲。他們繼續在[夜總會和](../Page/夜總會.md "wik
 
 1987年2月，hide正式加入X（1992年團名改為[X
 JAPAN](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")）\[31\]\[32\]\[33\]，擔任吉他手，並偶爾負責作曲，如〈Celebration〉、〈Joker〉和〈[Scars](https://zh.wikipedia.org/wiki/Scars "wikilink")〉。透過YOSHIKI自行成立的唱片公司\[34\]，X於1988年4月14日在地下音樂界發行首張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[Vanishing
-Vision](https://zh.wikipedia.org/wiki/Vanishing_Vision "wikilink")》，初回版在七天內就售出一萬張，震撼了日本唱片市場\[35\]，他們成為日本第一個在[獨立音樂](../Page/獨立音樂.md "wikilink")（[地下音樂](https://zh.wikipedia.org/wiki/地下音樂 "wikilink")）圈內取得主流唱片市場商業成功的樂團\[36\]\[37\]。日後也被公認為是[視覺系的開拓者之一](../Page/視覺系.md "wikilink")\[38\]\[39\]。
+Vision](../Page/Vanishing_Vision.md "wikilink")》，初回版在七天內就售出一萬張，震撼了日本唱片市場\[35\]，他們成為日本第一個在[獨立音樂](../Page/獨立音樂.md "wikilink")（[地下音樂](https://zh.wikipedia.org/wiki/地下音樂 "wikilink")）圈內取得主流唱片市場商業成功的樂團\[36\]\[37\]。日後也被公認為是[視覺系的開拓者之一](../Page/視覺系.md "wikilink")\[38\]\[39\]。
 
 1989年4月21日，X發行第二張、也是與[CBS/Sony簽約後的出道專輯](../Page/日本索尼音樂娛樂.md "wikilink")《[BLUE
-BLOOD](https://zh.wikipedia.org/wiki/BLUE_BLOOD "wikilink")》，登上[Oricon公信榜第](../Page/Oricon公信榜.md "wikilink")6名\[40\]。1990年，他們獲得第四屆[日本金唱片大獎的](../Page/日本金唱片大獎.md "wikilink")「年度最佳新人大獎」\[41\]。1990年，在日本視覺系雜誌《》創刊前，後來的創辦社長約訪hide，請他介紹X這類樂團的音樂風格。hide建議星子先生使用「視覺系」（Visual系）來代表他們這種新類型的樂團，hide的提議一直沿用至今\[42\]。
+BLOOD](../Page/BLUE_BLOOD.md "wikilink")》，登上[Oricon公信榜第](../Page/Oricon公信榜.md "wikilink")6名\[40\]。1990年，他們獲得第四屆[日本金唱片大獎的](../Page/日本金唱片大獎.md "wikilink")「年度最佳新人大獎」\[41\]。1990年，在日本視覺系雜誌《》創刊前，後來的創辦社長約訪hide，請他介紹X這類樂團的音樂風格。hide建議星子先生使用「視覺系」（Visual系）來代表他們這種新類型的樂團，hide的提議一直沿用至今\[42\]。
 
 1991年7月1日，發行第三張專輯《》，登上Oricon公信榜第1名\[43\]，當時銷售量超過111萬張\[44\]，它後來獲得[日本唱片協會的](../Page/日本唱片協會.md "wikilink")[白金唱片認證](https://zh.wikipedia.org/wiki/白金唱片 "wikilink")\[45\]。1993年8月，發行第四張專輯《[ART
 OF LIFE](../Page/ART_OF_LIFE.md "wikilink")》，依舊是Oricon公信榜第1名\[46\]。
@@ -49,9 +49,9 @@ LIVE〜最後の夜〜](https://zh.wikipedia.org/wiki/THE_LAST_LIVE〜最後の�
 
 ### 1993 - 1998年：個人音樂事業
 
-1993年1月，hide與[月之海成員](../Page/月之海.md "wikilink")[INORAN](https://zh.wikipedia.org/wiki/INORAN "wikilink")、組成樂團「MxAxSxS」，並錄製了歌曲〈FROZEN
+1993年1月，hide與[月之海成員](../Page/月之海.md "wikilink")[INORAN](../Page/INORAN.md "wikilink")、組成樂團「MxAxSxS」，並錄製了歌曲〈FROZEN
 BUG〉，該曲收錄在合輯《》中。8月5日，首次發行個人單曲〈〉及〈〉\[53\]。他還與成員Tusk演出了[藝術電影](https://zh.wikipedia.org/wiki/藝術電影 "wikilink")《》\[54\]。1994年，發行首張個人創作專輯《》，登上Oricon公信榜第9名\[55\]。除了所有的人聲和歌曲，他也在一些曲目中演奏大部分的吉他和貝斯。該專輯的音樂風格與X
-JAPAN的[速度金屬](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")、[抒情搖滾和](https://zh.wikipedia.org/wiki/軟式搖滾 "wikilink")不同，更傾向於[另類搖滾](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")\[56\]。為了舉行宣傳新專輯的巡迴演出，聘用並組織了一支現場演奏樂團，該樂團日後將成為他主要的個人音樂事業項目，名為「hide
+JAPAN的[速度金屬](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")、[抒情搖滾和](../Page/軟式搖滾.md "wikilink")不同，更傾向於[另類搖滾](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")\[56\]。為了舉行宣傳新專輯的巡迴演出，聘用並組織了一支現場演奏樂團，該樂團日後將成為他主要的個人音樂事業項目，名為「hide
 with Spread Beaver」\[57\]。
 
 1996年，hide成立了自己的唱片公司「LEMONed」\[58\]，並製作了另類搖滾樂團的專輯。此前hide也向YOSHIKI介紹他欣賞的樂團，簽入Extasy唱片旗下，包括ZI:KILL、月之海和[GLAY](../Page/GLAY.md "wikilink")\[59\]\[60\]。9月2日，發行第二張個人創作專輯《》，登上Oricon公信榜第1名，並舉辦了巡演\[61\]。同時，他還在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州成立了](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[工業搖滾樂團](../Page/工業搖滾.md "wikilink")\[62\]，成員除了「hide
@@ -100,7 +100,7 @@ with Spread Beaver」舉行了「1998 Tribal Ja, Zoo
 Tour」巡演，現場實況於2005年發行為[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")\[101\]。
 
 1999年5月1日，在hide逝世屆滿一周年時，[波麗佳音發行了一張紀念專輯](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")《》，參與翻唱錄製的樂團包括[花火師](../Page/花火師.md "wikilink")、月之海、GLAY、ZEPPET
-STORE、、、以及音樂人[布袋寅泰](https://zh.wikipedia.org/wiki/布袋寅泰 "wikilink")、[小山田圭吾](../Page/小山田圭吾.md "wikilink")、YOSHIKI、PATA、[HEATH](../Page/Heath.md "wikilink")、I.N.A、等\[102\]。
+STORE、、、以及音樂人[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[小山田圭吾](../Page/小山田圭吾.md "wikilink")、YOSHIKI、PATA、[HEATH](../Page/Heath.md "wikilink")、I.N.A、等\[102\]。
 
 2000年7月20日，一座紀念hide的博物館「hide
 museum」在他的家鄉橫須賀市開業\[103\]。根據《[日本時報](https://zh.wikipedia.org/wiki/日本時報 "wikilink")》報導，博物館建地是由當時擔任[日本首相的](../Page/日本內閣總理大臣.md "wikilink")[小泉純一郎捐出](https://zh.wikipedia.org/wiki/小泉純一郎 "wikilink")，他是X

@@ -118,7 +118,7 @@ ILGA在1993年成為獲得[聯合國](https://zh.wikipedia.org/wiki/聯合國 "w
   - [聯合國性傾向與性別認同議題](../Page/聯合國性傾向與性別認同議題.md "wikilink")
 
   -
-  - [日惹原則](https://zh.wikipedia.org/wiki/日惹原則 "wikilink")
+  - [日惹原則](../Page/日惹原則.md "wikilink")
 
 ## 注释
 

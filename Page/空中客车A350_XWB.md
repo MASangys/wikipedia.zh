@@ -1,5 +1,5 @@
 **空中客车A350 XWB**（Airbus A350
-XWB），是歐洲飛機製造商[空中客车所發展的長程](../Page/空中客车.md "wikilink")[雙引擎](https://zh.wikipedia.org/wiki/雙發噴射機 "wikilink")[廣體客機系列](https://zh.wikipedia.org/wiki/宽体飞机 "wikilink")。A350是最先在機身與機翼同時使用[碳纖維強化聚合物的空中巴士航空器](https://zh.wikipedia.org/wiki/碳纖維強化聚合物 "wikilink")。\[1\]在典型的三等級座艙配置裡，它可搭載280至366位旅客。\[2\]A350定位為接替[A340](../Page/空中客车A340.md "wikilink")，主要競爭對手為[波音777及](https://zh.wikipedia.org/wiki/波音777 "wikilink")[787](../Page/波音787.md "wikilink")。
+XWB），是歐洲飛機製造商[空中客车所發展的長程](../Page/空中客车.md "wikilink")[雙引擎](https://zh.wikipedia.org/wiki/雙發噴射機 "wikilink")[廣體客機系列](https://zh.wikipedia.org/wiki/宽体飞机 "wikilink")。A350是最先在機身與機翼同時使用[碳纖維強化聚合物的空中巴士航空器](../Page/碳纖維強化聚合物.md "wikilink")。\[1\]在典型的三等級座艙配置裡，它可搭載280至366位旅客。\[2\]A350定位為接替[A340](../Page/空中客车A340.md "wikilink")，主要競爭對手為[波音777及](https://zh.wikipedia.org/wiki/波音777 "wikilink")[787](../Page/波音787.md "wikilink")。
 
 A350最初構想於2004年，以[A330機身搭配新空氣動力學外形和引擎](https://zh.wikipedia.org/wiki/空中巴士A330 "wikilink")。2006年，空中巴士重新設計了這架飛機，以回應幾個主要潛在客戶的負面反饋，生產出“A350
 XWB”（超廣體，eXtra Wide
@@ -826,7 +826,7 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/星宇航空" title="wikilink">星宇航空</a></p></td>
+<td><p><a href="../Page/星宇航空.md" title="wikilink">星宇航空</a></p></td>
 <td><p>2021年底</p></td>
 <td></td>
 <td><p><strong>5</strong></p></td>

@@ -175,7 +175,7 @@
 
 <!-- end list -->
 
-  - [高雄捷運](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")
+  - [高雄捷運](../Page/高雄捷運.md "wikilink")
 
 <!-- end list -->
 
@@ -189,7 +189,7 @@
 <!-- end list -->
 
   -
-    由[中國鋼鐵和](../Page/中國鋼鐵.md "wikilink")[達欣工程合組的漢威巨蛋開發股份有限公司興建](https://zh.wikipedia.org/wiki/達欣工程 "wikilink")，並委託凱格大巨蛋運動股份有限公司經營管理，特許期由2004年起計50年，於2054年交還給高雄市政府。
+    由[中國鋼鐵和](../Page/中國鋼鐵.md "wikilink")[達欣工程合組的漢威巨蛋開發股份有限公司興建](../Page/達欣工程.md "wikilink")，並委託凱格大巨蛋運動股份有限公司經營管理，特許期由2004年起計50年，於2054年交還給高雄市政府。
 
 <!-- end list -->
 
@@ -244,7 +244,7 @@
 
 #### 福州
 
-  - [福州地鐵2號線](https://zh.wikipedia.org/wiki/福州地鐵2號線 "wikilink")（特許期由2016年11月起計28年（當中營運期佔25年），授予福州市城市地铁有限责任公司、[中国电子科技集团公司第十四研究所](https://zh.wikipedia.org/wiki/中国电子科技集团公司第十四研究所 "wikilink")、[中鐵電氣化局](https://zh.wikipedia.org/wiki/中鐵電氣化局 "wikilink")、[南京地鐵等合營的福州中電科軌道交通有限公司](https://zh.wikipedia.org/wiki/南京地鐵 "wikilink")，2044年11月交還予福州市城市地铁有限责任公司。）
+  - [福州地鐵2號線](https://zh.wikipedia.org/wiki/福州地鐵2號線 "wikilink")（特許期由2016年11月起計28年（當中營運期佔25年），授予福州市城市地铁有限责任公司、[中国电子科技集团公司第十四研究所](../Page/中国电子科技集团公司第十四研究所.md "wikilink")、[中鐵電氣化局](https://zh.wikipedia.org/wiki/中鐵電氣化局 "wikilink")、[南京地鐵等合營的福州中電科軌道交通有限公司](https://zh.wikipedia.org/wiki/南京地鐵 "wikilink")，2044年11月交還予福州市城市地铁有限责任公司。）
 
 #### 東莞
 

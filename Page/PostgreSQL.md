@@ -122,7 +122,7 @@ DOMAIN`建立和使用定制类型变得很容易了。
 
 ### 多版本并发控制
 
-PostgreSQL使用[多版本并发控制](https://zh.wikipedia.org/wiki/多版本并发控制 "wikilink")（MVCC，Multiversion
+PostgreSQL使用[多版本并发控制](../Page/多版本并发控制.md "wikilink")（MVCC，Multiversion
 concurrency
 control）系统进行[并发控制](../Page/并发控制.md "wikilink")，该系统向每个用户提供了一个数据库的“快照”，用户在事务内所作的每个修改，对于其他的用户都不可见，直到该事务成功提交。这从很大程度上减少了对读取锁的依赖，同时保证了数据库高效地符合[ACID原则](../Page/ACID.md "wikilink")。
 
@@ -179,7 +179,7 @@ zh-tw:變更}-。该功能尚未完全实现，实际上，表的约束尚不能
   - 在线备份
   - [数据域](https://zh.wikipedia.org/wiki/数据域 "wikilink")
   - [表分区](https://zh.wikipedia.org/wiki/表分区 "wikilink")
-  - [表空间](https://zh.wikipedia.org/wiki/表空间 "wikilink")
+  - [表空间](../Page/表空间.md "wikilink")
   - [保存点](https://zh.wikipedia.org/wiki/保存点 "wikilink")
   - [时刻点恢复](https://zh.wikipedia.org/wiki/时刻点恢复 "wikilink")
   - [二阶段提交](../Page/二阶段提交.md "wikilink")
@@ -219,7 +219,7 @@ zh-tw:變更}-。该功能尚未完全实现，实际上，表的约束尚不能
   - [OpenACS](https://zh.wikipedia.org/wiki/OpenACS "wikilink") and
     [.LRN](https://zh.wikipedia.org/wiki/.LRN "wikilink")
   - [Evergreen](../Page/Evergreen_\(軟件\).md "wikilink")－一個開放原始碼（[GNU通用公共許可證](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")）的集成圖書館系統
-  - [GNU Health](https://zh.wikipedia.org/wiki/GNU_Health "wikilink")
+  - [GNU Health](../Page/GNU_Health.md "wikilink")
     [7](https://en.wikibooks.org/wiki/GNU_Health/Installation)
 
 ## 版本

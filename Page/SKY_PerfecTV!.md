@@ -1,7 +1,7 @@
 **SKY
 PerfecTV*\!***（日文[商業名稱](../Page/商業名稱.md "wikilink")），為[日本以至全](../Page/日本.md "wikilink")[亞洲頗具規模的多頻道](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[衛星電視平台](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")，由[SKY
 Perfect
-JSAT株式會社經營提供](https://zh.wikipedia.org/wiki/SKY_Perfect_JSAT集團 "wikilink")[直播衛星及](https://zh.wikipedia.org/wiki/直播衛星 "wikilink")[光纖網路的](https://zh.wikipedia.org/wiki/光纖網路 "wikilink")[收費電視服務](https://zh.wikipedia.org/wiki/收費電視 "wikilink")。
+JSAT株式會社經營提供](../Page/SKY_Perfect_JSAT集團.md "wikilink")[直播衛星及](https://zh.wikipedia.org/wiki/直播衛星 "wikilink")[光纖網路的](https://zh.wikipedia.org/wiki/光纖網路 "wikilink")[收費電視服務](https://zh.wikipedia.org/wiki/收費電視 "wikilink")。
 
 ## 沿革
 
@@ -40,12 +40,12 @@ JSAT株式會社經營提供](https://zh.wikipedia.org/wiki/SKY_Perfect_JSAT集�
   - 2008年10月1日，使用[H.264/MPEG-4
     AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")、[DVB](../Page/DVB.md "wikilink")-S2方式提供15個[HDTV頻道的](https://zh.wikipedia.org/wiki/HDTV "wikilink")**SKY
     PerfecTV*\!* HD**（）開播<ref>[SKY Perfect
-    JSAT控股](https://zh.wikipedia.org/wiki/SKY_Perfect_JSAT集團 "wikilink")：
+    JSAT控股](../Page/SKY_Perfect_JSAT集團.md "wikilink")：
 
   -
   - </ref>，原SKY PerfecTV*\!*改名為**SKY PerfecTV*\!* SD**（）、e2 by SKY
     PerfecTV*\!*則是**SKY PerfecTV*\!* e2**（）<ref>[SKY Perfect
-    JSAT控股](https://zh.wikipedia.org/wiki/SKY_Perfect_JSAT集團 "wikilink")：
+    JSAT控股](../Page/SKY_Perfect_JSAT集團.md "wikilink")：
 
   -
   - </ref>。
@@ -55,7 +55,7 @@ JSAT株式會社經營提供](https://zh.wikipedia.org/wiki/SKY_Perfect_JSAT集�
 
   - 2011年10月1日，新增「BS SKY PerfecTV*\!*」（）頻道在SKY PerfecTV*\!*
     e2開播<ref>[SKY Perfect
-    JSAT](https://zh.wikipedia.org/wiki/SKY_Perfect_JSAT集團 "wikilink")：
+    JSAT](../Page/SKY_Perfect_JSAT集團.md "wikilink")：
 
   -
   - </ref>。12月1日，推出[隨選視訊服務](../Page/隨選視訊.md "wikilink")。
@@ -68,7 +68,7 @@ JSAT株式會社經營提供](https://zh.wikipedia.org/wiki/SKY_Perfect_JSAT集�
 
   - 2015年3月1日，[4K專門頻道在Premium](https://zh.wikipedia.org/wiki/4K "wikilink")
     Service開播<ref>[SKY Perfect
-    JSAT](https://zh.wikipedia.org/wiki/SKY_Perfect_JSAT集團 "wikilink")：
+    JSAT](../Page/SKY_Perfect_JSAT集團.md "wikilink")：
 
   -
   - </ref>\[9\]；31日，相關購物頻道皆轉高畫質播出後，Premium Service已無標準畫質電視頻道。

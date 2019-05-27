@@ -160,7 +160,7 @@ Code](../Page/Visual_Studio_Code.md "wikilink")
 ### [PHP](../Page/PHP.md "wikilink") 語言
 
   - [CakePHP](https://zh.wikipedia.org/wiki/CakePHP "wikilink")
-  - [Laravel](https://zh.wikipedia.org/wiki/Laravel "wikilink")
+  - [Laravel](../Page/Laravel.md "wikilink")
   - [Yii](https://zh.wikipedia.org/wiki/Yii "wikilink")
   - [CodeIgniter](../Page/CodeIgniter.md "wikilink")
 

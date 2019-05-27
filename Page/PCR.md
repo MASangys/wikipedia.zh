@@ -10,9 +10,8 @@
 
 **其他：**
 
-  - [超異域公主連結
-    Re:Dive](https://zh.wikipedia.org/wiki/超異域公主連結_Re:Dive "wikilink")
-    （Princess Connect\! Re:Dive）
+  - [超異域公主連結 Re:Dive](../Page/超異域公主連結_Re:Dive.md "wikilink") （Princess
+    Connect\! Re:Dive）
 
   - , an artist
 
@@ -54,7 +53,7 @@
     person’s head to prevent or delay the spread of a cancer to the
     brain. Also referred to as "Prophylactic cranial irradiation"
 
-  - [过程能力](https://zh.wikipedia.org/wiki/过程能力 "wikilink") ratio
+  - [过程能力](../Page/过程能力.md "wikilink") ratio
 
   - [节目时钟参考](https://zh.wikipedia.org/wiki/M2T "wikilink"), used in MPEG
     transport streams

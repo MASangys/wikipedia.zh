@@ -1,4 +1,4 @@
-**robots.txt**（统一小写）是一种存放于[网站根目录下的](https://zh.wikipedia.org/wiki/网站 "wikilink")[ASCII编码的](../Page/ASCII.md "wikilink")[文本文件](../Page/文本文件.md "wikilink")，它通常告诉网络[搜索引擎的漫游器](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")（又称[网络蜘蛛](https://zh.wikipedia.org/wiki/网络蜘蛛 "wikilink")），此网站中的哪些内容是不应被搜索引擎的漫游器获取的，哪些是可以被漫游器获取的。因为一些系统中的URL是大小写敏感的，所以robots.txt的文件名应统一为小写。robots.txt应放置于网站的根目录下。如果想单独定义搜索引擎的漫游器访问子目录时的行为，那么可以将自定的设置合并到根目录下的robots.txt，或者使用robots[元数据](../Page/元数据.md "wikilink")（Metadata，又稱元資料）。
+**robots.txt**（统一小写）是一种存放于[网站根目录下的](https://zh.wikipedia.org/wiki/网站 "wikilink")[ASCII编码的](../Page/ASCII.md "wikilink")[文本文件](../Page/文本文件.md "wikilink")，它通常告诉网络[搜索引擎的漫游器](../Page/搜索引擎.md "wikilink")（又称[网络蜘蛛](https://zh.wikipedia.org/wiki/网络蜘蛛 "wikilink")），此网站中的哪些内容是不应被搜索引擎的漫游器获取的，哪些是可以被漫游器获取的。因为一些系统中的URL是大小写敏感的，所以robots.txt的文件名应统一为小写。robots.txt应放置于网站的根目录下。如果想单独定义搜索引擎的漫游器访问子目录时的行为，那么可以将自定的设置合并到根目录下的robots.txt，或者使用robots[元数据](../Page/元数据.md "wikilink")（Metadata，又稱元資料）。
 
 robots.txt协议并不是一个规范，而只是约定俗成的，所以并不能保证网站的隐私。注意robots.txt是用字符串比较来确定是否获取[URL](https://zh.wikipedia.org/wiki/URL "wikilink")，所以目录末尾有与没有斜杠“/”表示的是不同的URL。robots.txt允许使用类似"Disallow:
 \*.gif"这样的通配符\[1\]\[2\]。

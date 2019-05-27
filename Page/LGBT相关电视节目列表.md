@@ -13,7 +13,7 @@
 ## 1960年代
 
   - 《[加冕街](../Page/加冕街.md "wikilink")》（*Coronation
-    Street*），英国[ITV](https://zh.wikipedia.org/wiki/獨立電視台 "wikilink")（1960–）
+    Street*），英国[ITV](../Page/獨立電視台.md "wikilink")（1960–）
   - *General Hospital*，美国[ABC](../Page/美国广播公司.md "wikilink")（1963–）
   - 《[我們的日子](../Page/我們的日子.md "wikilink")》（*Days of our
     Lives*），美国[NBC](../Page/全国广播公司.md "wikilink")（1965–）
@@ -27,7 +27,7 @@
   - *The Corner Bar*，美国[ABC](../Page/美国广播公司.md "wikilink")（1972–1973）
   - *Number 96*，美国[Network
     Ten](https://zh.wikipedia.org/wiki/Network_Ten "wikilink")（1972–1977）
-  - *Emmerdale*，美国[ITV](https://zh.wikipedia.org/wiki/獨立電視台 "wikilink")（1972–）
+  - *Emmerdale*，美国[ITV](../Page/獨立電視台.md "wikilink")（1972–）
   - *The Young and the
     Restless*，美国[CBS](../Page/CBS_\(電視網\).md "wikilink")（1973–）
   - *The Box*，美国[Network
@@ -39,7 +39,7 @@
   - *Ball Four*，美国[CBS](../Page/CBS_\(電視網\).md "wikilink")（1976）
   - *All That Glitters*，美国（1977）
   - *Soap*，美国[ABC](../Page/美国广播公司.md "wikilink")（1978–1981）
-  - *Agony*，英国[ITV](https://zh.wikipedia.org/wiki/獨立電視台 "wikilink")（1978–1981）
+  - *Agony*，英国[ITV](../Page/獨立電視台.md "wikilink")（1978–1981）
   - 《[指](https://zh.wikipedia.org/wiki/指_\(松本清張\) "wikilink")》，日本[TBS](../Page/TBS電視台.md "wikilink")，[NTV](../Page/日本電視台.md "wikilink")（1979，1984，2006）
 
 ## 1980年代
@@ -198,8 +198,7 @@
   - *Los
     Beltrán*，美国[Telemundo](https://zh.wikipedia.org/wiki/Telemundo "wikilink")（1999–2001）
   - *Once and Again*，美国[ABC](../Page/美国广播公司.md "wikilink")（1999–2002）
-  - *Bad
-    Girls*，英国[ITV](https://zh.wikipedia.org/wiki/獨立電視台 "wikilink")（1999–2006）
+  - *Bad Girls*，英国[ITV](../Page/獨立電視台.md "wikilink")（1999–2006）
   - 《[黑道家族](../Page/黑道家族.md "wikilink")》（*The
     Sopranos*），美国[HBO](../Page/HBO.md "wikilink")（1999–2007）
   - 《[法律与秩序：特殊受害者](../Page/法律与秩序：特殊受害者.md "wikilink")》（*Law & Order:
@@ -313,8 +312,7 @@
   - *It's
     Me...Gerald*，加拿大[Showcase](../Page/Showcase_\(电视频道\).md "wikilink")（2005）
   - *The Comeback*，美国[HBO](../Page/HBO.md "wikilink")（2005）
-  - *All About
-    George*，英国[ITV](https://zh.wikipedia.org/wiki/獨立電視台 "wikilink")（2005）
+  - *All About George*，英国[ITV](../Page/獨立電視台.md "wikilink")（2005）
   - 《[驿动的心](https://zh.wikipedia.org/wiki/驿动的心 "wikilink")》（），韩国[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")（2005）
   - *Noah's Arc*，美国Logo（2005–2006）
   - 《[青春糖伴](https://zh.wikipedia.org/wiki/青春糖伴 "wikilink")》（*Sugar
@@ -514,7 +512,7 @@
   - 《[妖女迷行](../Page/妖女迷行.md "wikilink")》（*Lost
     Girl*），加拿大[Showcase](https://zh.wikipedia.org/wiki/Showtime "wikilink")（2010-）
   - 《[唐顿庄园](https://zh.wikipedia.org/wiki/唐顿庄园 "wikilink")》（*Downton
-    Abbey*），英国[ITV](https://zh.wikipedia.org/wiki/獨立電視台 "wikilink")（2010-）
+    Abbey*），英国[ITV](../Page/獨立電視台.md "wikilink")（2010-）
   - *Dance Academy*，美国ABC1、ABC3（2010–）
   - *Strike Back*，美国Sky1、[Cinemax](../Page/Cinemax.md "wikilink")（2010–）
   - *Grandma's House*，英国BBC Two（2010-）
@@ -534,7 +532,7 @@
   - 《[新還珠格格](https://zh.wikipedia.org/wiki/還珠格格_\(2011年電視劇\) "wikilink")》，中國[湖南](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")（2011）
   - 《[暴風雨](../Page/暴風雨_\(池上永一\).md "wikilink")》（），日本[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")（2011）
   - 《[IS
-    上帝的惡作劇](https://zh.wikipedia.org/wiki/IS_上帝的惡作劇 "wikilink")》（），日本[TX](../Page/東京電視台.md "wikilink")（2011）
+    上帝的惡作劇](../Page/IS_上帝的惡作劇.md "wikilink")》（），日本[TX](../Page/東京電視台.md "wikilink")（2011）
   - 《[櫻蘭高校男公關部](../Page/櫻蘭高校男公關部.md "wikilink")》（），日本[TBS](../Page/TBS電視台.md "wikilink")（2011）
   - 《[花樣少年少女2011](../Page/花樣少年少女_\(2011年電視劇\).md "wikilink")》（），日本[CX](../Page/富士電視台.md "wikilink")（2011）
   - 《[原來是美男
@@ -623,7 +621,7 @@
   - 《[城市·獵人](../Page/城市·獵人.md "wikilink")》，台灣公視（2013）
   - 《[海倫她媽](https://zh.wikipedia.org/wiki/海倫她媽 "wikilink")》，台灣公視學生劇展（2013）
   - 《[梁祝西湖蝶夢](../Page/梁祝西湖蝶夢.md "wikilink")》，台灣霹靂（2013）
-  - 《[戲說台灣－錢來也](https://zh.wikipedia.org/wiki/錢來也 "wikilink")》，台灣三立（2013）
+  - 《[戲說台灣－錢來也](../Page/錢來也.md "wikilink")》，台灣三立（2013）
   - 《[親愛的 我想告訴你](../Page/親愛的_我想告訴你.md "wikilink")》，台灣緯來關懷人生劇展（2013）
   - 《[双全](../Page/双全.md "wikilink")》，台灣緯來關懷人生劇展（2013）
   - 《[原來是美男 (台灣電視劇)](../Page/原來是美男_\(台灣電視劇\).md "wikilink")》，台灣民視（2013）
@@ -683,7 +681,7 @@
   - 《[水髮胭脂](../Page/水髮胭脂.md "wikilink")》，香港無綫（2014）
   - 《[我的小公關S〜新人公關業主奇蹟滯留6個月〜](https://zh.wikipedia.org/wiki/我的小公關 "wikilink")》（），日本[EX](../Page/朝日電視台.md "wikilink")（2014）
   - 《[實在性百萬亞瑟王](https://zh.wikipedia.org/wiki/實在性百萬亞瑟王 "wikilink")》（），日本[tvk等](https://zh.wikipedia.org/wiki/tvk "wikilink")（2014）
-  - 《[對不起青春！](https://zh.wikipedia.org/wiki/對不起青春！ "wikilink")》（），日本[TBS](../Page/TBS電視台.md "wikilink")（2014）
+  - 《[對不起青春！](../Page/對不起青春！.md "wikilink")》（），日本[TBS](../Page/TBS電視台.md "wikilink")（2014）
   - *Getting On*，美国[HBO](../Page/HBO.md "wikilink")（2014-）
   - *Sirens*，美国[USA](../Page/USA電視台.md "wikilink")（2014-）
   - *Transparent*，美国USA[Amazon.com](../Page/亞馬遜公司.md "wikilink")（2014-）
@@ -710,8 +708,8 @@
   - 《[今晚，你想點什麼？](../Page/今晚，你想點什麼？.md "wikilink")》，台灣[公視](https://zh.wikipedia.org/wiki/公視 "wikilink")（2016）
   - 《[讓我稱呼岳父大人](../Page/讓我稱呼岳父大人.md "wikilink")》（），日本[KTV](../Page/關西電視台.md "wikilink")（2016）
   - 《[MARS～只是愛著你～](https://zh.wikipedia.org/wiki/戰神_\(電視劇\)#日本電視劇 "wikilink")》（），日本[NTV](../Page/日本電視台.md "wikilink")（2016）
-  - 《[胖子老師](https://zh.wikipedia.org/wiki/胖子老師 "wikilink")》（），日本NTV（2016）
-  - 《[逃避雖可恥但有用](https://zh.wikipedia.org/wiki/逃避雖可恥但有用 "wikilink")》（），日本TBS（2016）
+  - 《[胖子老師](../Page/胖子老師.md "wikilink")》（），日本NTV（2016）
+  - 《[逃避雖可恥但有用](../Page/逃避雖可恥但有用.md "wikilink")》（），日本TBS（2016）
   - 《[闇影獵人](../Page/闇影獵人_\(電視劇\).md "wikilink")》（），美國[Freeform](../Page/Freeform.md "wikilink")（2016）
   - *Zoe Ever After*，美國[BET](../Page/黑人娛樂電視台.md "wikilink")（2016）
   - 《[警魂](https://zh.wikipedia.org/wiki/警魂 "wikilink")》（），美國NBC（2016）
@@ -739,18 +737,17 @@
   - *Buscando el norte*，[西班牙](../Page/西班牙.md "wikilink")[Antena
     3](../Page/天线3.md "wikilink")（2016）
   - *Santa Bárbara*，[葡萄牙TVI](../Page/葡萄牙.md "wikilink")（2016）
-  - 《[HIStory系列](https://zh.wikipedia.org/wiki/HIStory_\(2017年電視劇\) "wikilink")》，台灣[CHOCO
-    TV](https://zh.wikipedia.org/wiki/CHOCO_TV "wikilink")（2017）
-  - 《[搖滾畢業生](https://zh.wikipedia.org/wiki/搖滾畢業生 "wikilink")》，台灣CHOCO
-    TV（2017）
-  - 《[紅色氣球](https://zh.wikipedia.org/wiki/紅色氣球 "wikilink")》，台灣[KKTV](https://zh.wikipedia.org/wiki/KKTV "wikilink")（2017）
+  - 《[HIStory系列](../Page/HIStory_\(2017年電視劇\).md "wikilink")》，台灣[CHOCO
+    TV](../Page/CHOCO_TV.md "wikilink")（2017）
+  - 《[搖滾畢業生](../Page/搖滾畢業生.md "wikilink")》，台灣CHOCO TV（2017）
+  - 《[紅色氣球](../Page/紅色氣球.md "wikilink")》，台灣[KKTV](../Page/KKTV.md "wikilink")（2017）
   - 《[下北澤Die
     Hard](https://zh.wikipedia.org/wiki/下北澤Die_Hard "wikilink")》（），日本[TX](../Page/東京電視台.md "wikilink")（2017）
   - 《[戰國快跑女高中生](https://zh.wikipedia.org/wiki/戰國快跑女高中生 "wikilink")》（），日本[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")（2017）
   - 《[單戀](../Page/單戀_\(小說\).md "wikilink")》（），日本[WOWOW](../Page/WOWOW.md "wikilink")（2017）
   - 《[黑色孤兒](https://zh.wikipedia.org/wiki/黑色孤兒 "wikilink")》（），日本[CX](../Page/富士電視台.md "wikilink")（2017）
-  - 《[深藍與月光](https://zh.wikipedia.org/wiki/深藍與月光 "wikilink")》，台灣[酷瞧](https://zh.wikipedia.org/wiki/酷瞧 "wikilink")（2018）
-  - 《[朝鮮美人別傳](https://zh.wikipedia.org/wiki/朝鮮美人別傳 "wikilink")》（），韓國[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")（2018）
+  - 《[深藍與月光](../Page/深藍與月光.md "wikilink")》，台灣[酷瞧](https://zh.wikipedia.org/wiki/酷瞧 "wikilink")（2018）
+  - 《[朝鮮美人別傳](../Page/朝鮮美人別傳.md "wikilink")》（），韓國[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")（2018）
   - 《[海月姬](../Page/海月姬.md "wikilink")》（），日本[CX](../Page/富士電視台.md "wikilink")（2018）
   - 《[女子的生活](https://zh.wikipedia.org/wiki/女子的生活 "wikilink")》（），日本[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")（2018）
   - 《[弟弟的丈夫](https://zh.wikipedia.org/wiki/弟弟的丈夫 "wikilink")》（），日本[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")（2018）

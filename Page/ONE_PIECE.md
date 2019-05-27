@@ -11,7 +11,7 @@ PIECE），為了爭奪大秘寶「ONE
 PIECE」，而先後爭相出海成為[海賊](https://zh.wikipedia.org/wiki/海賊 "wikilink")，因此造就了「大海賊時代」。主角蒙其·D·魯夫為了要實現與[“紅髮”傑克的約定而出海](https://zh.wikipedia.org/wiki/“紅髮”傑克 "wikilink")，在遙遠的路途上找尋著志同道合的夥伴，進入「偉大的航道」，目標是得到「ONE
 PIECE」與成為「海賊王」。
 
-本作品連載多年來以宏偉壯大的世界觀與精心設計的故事為特色，除了擁有熱血的冒險故事以及戰鬥，背後也涵蓋許多反諷元素及現實觀點，包括“[戰爭的殘酷](https://zh.wikipedia.org/wiki/戰爭 "wikilink")、種族[歧視問題](../Page/歧視.md "wikilink")、[世界政府的黑暗](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#世界政府 "wikilink")、人性善惡”……等；至於故事中龐大豐富的架空世界，含有許多[童話](../Page/童話.md "wikilink")、[神話和](https://zh.wikipedia.org/wiki/神話 "wikilink")[魔幻元素在其中](https://zh.wikipedia.org/wiki/魔幻 "wikilink")：[天空中夢幻的](https://zh.wikipedia.org/wiki/天 "wikilink")[神域](https://zh.wikipedia.org/wiki/神域 "wikilink")“[空島](../Page/空島.md "wikilink")”、充滿[夢魘的](https://zh.wikipedia.org/wiki/夢魘 "wikilink")“[魔鬼三角地帶](https://zh.wikipedia.org/wiki/魔鬼三角地帶 "wikilink")”、魚人及[人魚的](../Page/人魚.md "wikilink")[世界](../Page/世界.md "wikilink")“[魚人島](../Page/魚人島.md "wikilink")”、愛與激情的[玩具之國](../Page/玩具.md "wikilink")“[多雷斯羅薩](../Page/多雷斯羅薩.md "wikilink")”、[動物](https://zh.wikipedia.org/wiki/動物 "wikilink")[王國](../Page/王國.md "wikilink")“[佐烏](../Page/佐烏.md "wikilink")”、滿是甜食的國度“托特蘭王國”、[武士的國度](https://zh.wikipedia.org/wiki/武士 "wikilink")“[和之國](https://zh.wikipedia.org/wiki/和之國 "wikilink")”
+本作品連載多年來以宏偉壯大的世界觀與精心設計的故事為特色，除了擁有熱血的冒險故事以及戰鬥，背後也涵蓋許多反諷元素及現實觀點，包括“[戰爭的殘酷](https://zh.wikipedia.org/wiki/戰爭 "wikilink")、種族[歧視問題](../Page/歧視.md "wikilink")、[世界政府的黑暗](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#世界政府 "wikilink")、人性善惡”……等；至於故事中龐大豐富的架空世界，含有許多[童話](../Page/童話.md "wikilink")、[神話和](https://zh.wikipedia.org/wiki/神話 "wikilink")[魔幻元素在其中](https://zh.wikipedia.org/wiki/魔幻 "wikilink")：[天空中夢幻的](../Page/天.md "wikilink")[神域](https://zh.wikipedia.org/wiki/神域 "wikilink")“[空島](../Page/空島.md "wikilink")”、充滿[夢魘的](https://zh.wikipedia.org/wiki/夢魘 "wikilink")“[魔鬼三角地帶](https://zh.wikipedia.org/wiki/魔鬼三角地帶 "wikilink")”、魚人及[人魚的](../Page/人魚.md "wikilink")[世界](../Page/世界.md "wikilink")“[魚人島](../Page/魚人島.md "wikilink")”、愛與激情的[玩具之國](../Page/玩具.md "wikilink")“[多雷斯羅薩](../Page/多雷斯羅薩.md "wikilink")”、[動物](https://zh.wikipedia.org/wiki/動物 "wikilink")[王國](../Page/王國.md "wikilink")“[佐烏](../Page/佐烏.md "wikilink")”、滿是甜食的國度“托特蘭王國”、[武士的國度](https://zh.wikipedia.org/wiki/武士 "wikilink")“[和之國](../Page/和之國.md "wikilink")”
 等，大部分敵人設定性格殘忍，不擇手段。
 
 在日本漫畫雜誌《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》中長期佔據人氣榜的第一名；單行本在日本以外，亦已有30多個[翻譯版本發行](https://zh.wikipedia.org/wiki/翻譯 "wikilink")2012年5月10日《ONE
@@ -62,7 +62,7 @@ PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4�
       - 12月，單行本累計銷量已突破3億冊，改編成動畫後，木棉花推出『海賊王 航向2015』新年特別企劃。
   - 2015年
       - 8月，電視動畫製作啟動特別篇《[ONE PIECE 薩波特別篇 〜3兄弟的羈絆
-        奇跡的再會和被繼承的意志〜](https://zh.wikipedia.org/wiki/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜 "wikilink")》。將從頂點戰爭的兩年後開始講起。
+        奇跡的再會和被繼承的意志〜](../Page/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜.md "wikilink")》。將從頂點戰爭的兩年後開始講起。
       - 10月，「超級歌舞伎2 ONE PIECE」公演開幕。
   - 2016年
       - 7月，劇場版第13作《[ONE PIECE FILM
@@ -83,9 +83,9 @@ PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4�
   -
     **[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")**童年時受到海賊[「紅髮」傑克的啟蒙](https://zh.wikipedia.org/wiki/「紅髮」傑克 "wikilink")，自小就立志要成為「**海賊王**」。17歲時他出海之後，接續遇見了海賊獵人**[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink")**、航海士**[娜美](../Page/娜美.md "wikilink")**、狙擊手**[騙人布](../Page/騙人布.md "wikilink")**、廚師**[賓什莫克·香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink")**等人並結為夥伴。他們組成了草帽海賊團準備進入偉大的航道來到了羅格鎮。離開羅格鎮後，一行人在偉大航道的入口「顛倒山」之前以各自的夢想立誓，跨越顛倒山之後進入了偉大航道，展開下一段冒險。
   -
-    草帽海賊團一行人來到偉大航道、在威士忌山峰遇到臥底在秘密犯罪組織[巴洛克華克的](https://zh.wikipedia.org/wiki/巴洛克華克 "wikilink")[阿拉巴斯坦王國公主](../Page/阿拉巴斯坦王國.md "wikilink")[納菲魯塔莉·薇薇](../Page/納菲魯塔莉·薇薇.md "wikilink")，從公主口中得知阿拉巴斯坦正處於水深火熱之中，以及[王下七武海](../Page/王下七武海.md "wikilink")[『Mr.0』克洛克達爾的陰謀後](../Page/克洛克達爾.md "wikilink")，魯夫決定幫助這位公主。在途中前往島嶼「小花園」與[巴洛克華克的部分成員開戰](https://zh.wikipedia.org/wiki/巴洛克華克 "wikilink")，並在旅途中為了治好在小花園生病的娜美去了[磁鼓島並增添一名船醫夥伴](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#磁鼓島「櫻花王國」 "wikilink")[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink")。
+    草帽海賊團一行人來到偉大航道、在威士忌山峰遇到臥底在秘密犯罪組織[巴洛克華克的](../Page/巴洛克華克.md "wikilink")[阿拉巴斯坦王國公主](../Page/阿拉巴斯坦王國.md "wikilink")[納菲魯塔莉·薇薇](../Page/納菲魯塔莉·薇薇.md "wikilink")，從公主口中得知阿拉巴斯坦正處於水深火熱之中，以及[王下七武海](../Page/王下七武海.md "wikilink")[『Mr.0』克洛克達爾的陰謀後](../Page/克洛克達爾.md "wikilink")，魯夫決定幫助這位公主。在途中前往島嶼「小花園」與[巴洛克華克的部分成員開戰](../Page/巴洛克華克.md "wikilink")，並在旅途中為了治好在小花園生病的娜美去了[磁鼓島並增添一名船醫夥伴](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#磁鼓島「櫻花王國」 "wikilink")[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink")。
   -
-    抵達阿拉巴斯坦後，當地因為克洛克達爾的煽動爆發內戰，魯夫最後擊敗克洛克達爾，內戰亦隨之結束。其後薇薇向魯夫等人道別，而原[巴洛克華克副社長](https://zh.wikipedia.org/wiki/巴洛克華克 "wikilink")**[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")**，因失去人生目標，以考古學家的身份加入了草帽海賊團。
+    抵達阿拉巴斯坦後，當地因為克洛克達爾的煽動爆發內戰，魯夫最後擊敗克洛克達爾，內戰亦隨之結束。其後薇薇向魯夫等人道別，而原[巴洛克華克副社長](../Page/巴洛克華克.md "wikilink")**[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")**，因失去人生目標，以考古學家的身份加入了草帽海賊團。
   -
     離開阿拉巴斯坦王國之後，草帽海賊團撞見一艘從天而降的大船，同時紀錄指針竟然向上指向天空。對[空島產生興趣的魯夫靠著上升海流前往空島](../Page/空島.md "wikilink")。誤入了空島統治者[「神」艾涅爾的領地](https://zh.wikipedia.org/wiki/空島#艾涅爾 "wikilink")，草帽海賊團、神的軍團、以及領地原住民「香狄亞」展開激戰，艾涅爾最終被擊敗，而空島居民和香狄亞一族長達400年的戰爭也終止。
   -
@@ -124,11 +124,11 @@ PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4�
     MOM的[火戰車海賊團組成暫時聯盟](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#火戰車海賊團 "wikilink")，成功破壞雙方聯姻婚禮，救出香吉士和其家族[杰爾馬66](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#杰爾馬66 "wikilink")。吉貝爾為實踐理念，正式宣布退出BIG
     MOM旗下與辭別[太陽海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#太陽海賊團 "wikilink")，以掌舵手的身分加入草帽海賊團。在一行人達成目的後，逃出BIG
     MOM的領地，期間魯夫與[BIG
-    MOM海賊團的](https://zh.wikipedia.org/wiki/BIG_MOM海賊團 "wikilink")[夏洛特·卡塔克利有多次激烈對決](https://zh.wikipedia.org/wiki/夏洛特·卡塔克利 "wikilink")，在最後的對決中獲勝。
+    MOM海賊團的](../Page/BIG_MOM海賊團.md "wikilink")[夏洛特·卡塔克利有多次激烈對決](../Page/夏洛特·卡塔克利.md "wikilink")，在最後的對決中獲勝。
   -
     世界政府加盟國裡作為代表的50個國家，再度前往「聖地」馬力喬亞召開每4年一次的世界會議，商討世界大局政策。
   -
-    索隆等人按[錦衛門的要求偽裝成](https://zh.wikipedia.org/wiki/和之國#錦衛門 "wikilink")[和之國國民](https://zh.wikipedia.org/wiki/和之國 "wikilink")。另一方面，魯夫等人先後抵達四皇「百獸」海道駐紮的和之國。
+    索隆等人按[錦衛門的要求偽裝成](https://zh.wikipedia.org/wiki/和之國#錦衛門 "wikilink")[和之國國民](../Page/和之國.md "wikilink")。另一方面，魯夫等人先後抵達四皇「百獸」海道駐紮的和之國。
 
 ## 登場角色
 
@@ -810,8 +810,8 @@ PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4�
 |- \! 2 |  | 2018年6月4日 | ISBN 978-4-08-703449-3 |}
 
   -
-    原作：尾田榮一郎，小說：[大崎知仁](https://zh.wikipedia.org/wiki/大崎知仁 "wikilink")。目前全一卷，最初於「ONE
-    PIECE magazine」連載，日本由集英社發行書籍版本，台灣為東立出版代理。
+    原作：尾田榮一郎，小說：[大崎知仁](../Page/大崎知仁.md "wikilink")。目前全一卷，最初於「ONE PIECE
+    magazine」連載，日本由集英社發行書籍版本，台灣為東立出版代理。
     內容是以草帽海賊團成員的故事的外傳小說，描述一般人的角度來看待草帽海賊團成員們的短篇故事（共9篇）。
     {| class=wikitable style="font-size:small;"
 
@@ -1112,7 +1112,7 @@ COMICS) \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") 
 <td><p><br />
 <small>航海王 Grand Battle!</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/動作遊戲" title="wikilink">ACT</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation" title="wikilink">PS</a></p></td>
+<td><p><a href="../Page/PlayStation.md" title="wikilink">PS</a></p></td>
 <td><p>1-2人</p></td>
 <td><p><a href="http://www.bandaigames.channel.or.jp/list/onepiece/index.html">1</a></p></td>
 <td></td>
@@ -1463,7 +1463,7 @@ COMICS) \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") 
 <td><p>2013年</p></td>
 <td><p>3月20日</p></td>
 <td><p><br />
-<small><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_海賊無雙2" title="wikilink">航海王 -{海賊}-無雙2</a></small></p></td>
+<small><a href="../Page/ONE_PIECE_海賊無雙2.md" title="wikilink">航海王 -{海賊}-無雙2</a></small></p></td>
 <td><p>ACT</p></td>
 <td><p>PS3、<a href="../Page/PlayStation_Vita.md" title="wikilink">PSV</a></p></td>
 <td><p>1-2人</p></td>
@@ -1959,12 +1959,12 @@ PIECE》粉絲，而今次集英社及作者尾田榮一郎將真人化的重任
   -
     記念《ONE PIECE》連載2012年已達成15周年、由原作者尾田栄一郎監修的展覽會。以《原畫X映像X體感ONE PIECE》為主題。
 
-| 舉辦地                                                        | 地點                                                                                                    | 期間                       |
-| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------ |
-| [六本木新城](../Page/六本木新城.md "wikilink") 森美術館                  | [東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")                                | 2012年3月20日 - 6月17日       |
-| [天保山特設畫廊](https://zh.wikipedia.org/wiki/三得利美術館 "wikilink") | [大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")                   | 2012年11月24日 - 2013年2月17日 |
-| 華山1914文創園區                                                 | [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") [台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink") | 2014年7月1日 - 9月22日        |
-| 台中文化創意產業園區拾藝術                                              | 台灣 [台中市](https://zh.wikipedia.org/wiki/台中市 "wikilink")                                                | 2016年12月24日 - 2017年4月9日  |
+| 舉辦地                                       | 地點                                                                                                    | 期間                       |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------ |
+| [六本木新城](../Page/六本木新城.md "wikilink") 森美術館 | [東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")                                | 2012年3月20日 - 6月17日       |
+| [天保山特設畫廊](../Page/三得利美術館.md "wikilink")   | [大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")                   | 2012年11月24日 - 2013年2月17日 |
+| 華山1914文創園區                                | [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") [台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink") | 2014年7月1日 - 9月22日        |
+| 台中文化創意產業園區拾藝術                             | 台灣 [台中市](https://zh.wikipedia.org/wiki/台中市 "wikilink")                                                | 2016年12月24日 - 2017年4月9日  |
 
 ### 專賣店
 
@@ -2284,7 +2284,7 @@ ONE PIECE 盛大對戰! 2</p></td>
 <tr class="odd">
 <td><p>（2013年）</p></td>
 <td><p>金質獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_海賊無雙2" title="wikilink">ONE PIECE 海賊無雙2</a></p></td>
+<td><p><a href="../Page/ONE_PIECE_海賊無雙2.md" title="wikilink">ONE PIECE 海賊無雙2</a></p></td>
 <td><p>[36]</p></td>
 <td></td>
 </tr>

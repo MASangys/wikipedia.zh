@@ -1,6 +1,6 @@
 **S股**（），是一個股市術語，又稱**[龙筹股](https://zh.wikipedia.org/wiki/龙筹股 "wikilink")**、**新加坡龙筹股**\[1\]，但不是所有龙筹股都是S股。廣義的S股，是指那些主要生产或者经营的核心业务在[中国大陆](../Page/中国大陆.md "wikilink")、而企业的注册地在中國大陸、[新加坡](../Page/新加坡.md "wikilink")（）或者其他国家和地区，但是在[新加坡交易所上市挂牌的企业股票](../Page/新加坡交易所.md "wikilink")。
 
-但是，狹義的S股、新加坡「純龙筹股」，不同機構有完全不同的定義：例如《[联合早报](../Page/联合早报.md "wikilink")》指S股是新加坡龙筹股的一種，並限指中國大陸公司在新加坡交易的[境外上市外资股](https://zh.wikipedia.org/wiki/境外上市外资股 "wikilink")\[2\]；相反，[富時集團](../Page/富時集團.md "wikilink")[富時中國S股全指指數指的](https://zh.wikipedia.org/wiki/富時中國S股全指指數 "wikilink")，是指在新交所上市，收入或資產與中國有關，但不在中國大陸註冊的公司\[3\]；[MSCI的MSCI](https://zh.wikipedia.org/wiki/MSCI "wikilink")
+但是，狹義的S股、新加坡「純龙筹股」，不同機構有完全不同的定義：例如《[联合早报](../Page/联合早报.md "wikilink")》指S股是新加坡龙筹股的一種，並限指中國大陸公司在新加坡交易的[境外上市外资股](../Page/境外上市外资股.md "wikilink")\[2\]；相反，[富時集團](../Page/富時集團.md "wikilink")[富時中國S股全指指數指的](https://zh.wikipedia.org/wiki/富時中國S股全指指數 "wikilink")，是指在新交所上市，收入或資產與中國有關，但不在中國大陸註冊的公司\[3\]；[MSCI的MSCI](../Page/MSCI.md "wikilink")
 Overseas China
 Index則排除[借殼上市的星洲上市中國企業](../Page/借殼上市.md "wikilink")\[4\]；《[華爾街日報](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")》則使用較廣泛的S
 Chip定義，並引用選股條件較寬鬆的[富时海峡时报中国指数](https://zh.wikipedia.org/wiki/富时海峡时报中国指数 "wikilink")\[5\]。
@@ -12,7 +12,7 @@ Chip定義，並引用選股條件較寬鬆的[富时海峡时报中国指数](h
 ## 歷史
 
 [新加坡交易所曾經是](../Page/新加坡交易所.md "wikilink")[香港聯合交易所](https://zh.wikipedia.org/wiki/香港聯合交易所 "wikilink")、美國幾個證券交易所以外，一個中國企業熱門海外上市地點。根據《[凤凰网](https://zh.wikipedia.org/wiki/凤凰网 "wikilink")》引用「投资与理财」，第一隻S股是[中新药业](https://zh.wikipedia.org/wiki/中新药业 "wikilink")，於1997年上市\[8\]
-。但根據《[联合早报](../Page/联合早报.md "wikilink")》，早在1979年上市，現稱為[中远海运国际（新加坡）](https://zh.wikipedia.org/wiki/中远海运国际（新加坡） "wikilink")，是最悠久的新加坡龙筹股，在1993年被[中遠集團收購](https://zh.wikipedia.org/wiki/中遠集團 "wikilink")[借殼上市](../Page/借殼上市.md "wikilink")，正式與中國企業沾上關係\[9\]。不同的是，中新药业在中國大陸註冊，中远海运国际（新加坡）在新加坡註冊。中新药业是第一隻直接在新交所發行[境外上市外资股的中國企業](https://zh.wikipedia.org/wiki/境外上市外资股 "wikilink")\[10\]。
+。但根據《[联合早报](../Page/联合早报.md "wikilink")》，早在1979年上市，現稱為[中远海运国际（新加坡）](https://zh.wikipedia.org/wiki/中远海运国际（新加坡） "wikilink")，是最悠久的新加坡龙筹股，在1993年被[中遠集團收購](https://zh.wikipedia.org/wiki/中遠集團 "wikilink")[借殼上市](../Page/借殼上市.md "wikilink")，正式與中國企業沾上關係\[9\]。不同的是，中新药业在中國大陸註冊，中远海运国际（新加坡）在新加坡註冊。中新药业是第一隻直接在新交所發行[境外上市外资股的中國企業](../Page/境外上市外资股.md "wikilink")\[10\]。
 
 但在2008年（[2007年–2008年環球金融危機期間](../Page/2007年–2008年環球金融危機.md "wikilink")）[富时海峡时报中国指数創下](https://zh.wikipedia.org/wiki/富时海峡时报中国指数 "wikilink")70%的跌幅，與此同時香港交易所與中國有關的股價指數\[11\]只錄得47%的跌幅\[12\]。根據《華爾街日報》的報導，S股當時更出現[公司治理危機](../Page/公司治理.md "wikilink")、會計醜聞、成交疏落、沒有S股新股等等\[13\]。
 
@@ -22,7 +22,7 @@ Chip定義，並引用選股條件較寬鬆的[富时海峡时报中国指数](h
 
 ## 股價指數
 
-S股的[股價指數有](../Page/股價指數.md "wikilink")[富時集團的](../Page/富時集團.md "wikilink")[富時中國S股全指指數](https://zh.wikipedia.org/wiki/富時中國S股全指指數 "wikilink")\[20\]（）\[21\]等等。雖然，富時中國S股全指指數排除了在中國大陸註冊，但在新交所上市的公司，並只有7隻成份股（6月29日）\[22\]；成為富時中國S股全指指數成份股，更需要由[中國國民或中國公司控制](https://zh.wikipedia.org/wiki/中國國民 "wikilink")，並需要55%收入或總資產源於（位於）中華人民共和國\[23\]。雖然，富時中國S股全指指數成份股只在收入及總資產下降至45%源於（位於）中華人民共和國才會被富時集團踢除\[24\]。富時集團對S股的狹義定義，類近於香港上市的[紅籌股](../Page/紅籌股.md "wikilink")（全部都是中國[國企](https://zh.wikipedia.org/wiki/國有企業 "wikilink")），與使用「紅籌模式」於香港上市的[民企股](https://zh.wikipedia.org/wiki/民營企業 "wikilink")（P股）相加\[25\]，但富時集團並沒有與[H股](../Page/H股.md "wikilink")（一種[境外上市外资股](https://zh.wikipedia.org/wiki/境外上市外资股 "wikilink")）相對應的指數及概念。
+S股的[股價指數有](../Page/股價指數.md "wikilink")[富時集團的](../Page/富時集團.md "wikilink")[富時中國S股全指指數](https://zh.wikipedia.org/wiki/富時中國S股全指指數 "wikilink")\[20\]（）\[21\]等等。雖然，富時中國S股全指指數排除了在中國大陸註冊，但在新交所上市的公司，並只有7隻成份股（6月29日）\[22\]；成為富時中國S股全指指數成份股，更需要由[中國國民或中國公司控制](https://zh.wikipedia.org/wiki/中國國民 "wikilink")，並需要55%收入或總資產源於（位於）中華人民共和國\[23\]。雖然，富時中國S股全指指數成份股只在收入及總資產下降至45%源於（位於）中華人民共和國才會被富時集團踢除\[24\]。富時集團對S股的狹義定義，類近於香港上市的[紅籌股](../Page/紅籌股.md "wikilink")（全部都是中國[國企](https://zh.wikipedia.org/wiki/國有企業 "wikilink")），與使用「紅籌模式」於香港上市的[民企股](https://zh.wikipedia.org/wiki/民營企業 "wikilink")（P股）相加\[25\]，但富時集團並沒有與[H股](../Page/H股.md "wikilink")（一種[境外上市外资股](../Page/境外上市外资股.md "wikilink")）相對應的指數及概念。
 
 另一個追蹤新交所上市中國公司的富時指數，[富时海峡时报中国指数](https://zh.wikipedia.org/wiki/富时海峡时报中国指数 "wikilink")（\[26\]）\[27\]
 ，6月29日，亦只有20隻成份股；與富時中國S股全指不同\[28\]
@@ -30,7 +30,7 @@ S股的[股價指數有](../Page/股價指數.md "wikilink")[富時集團的](..
 
 富時集團亦曾推出[富时海峡时报中国Top指数](https://zh.wikipedia.org/wiki/富时海峡时报中国Top指数 "wikilink")（）\[36\]\[37\]{{\#tag:ref|又譯「富时海峡时报中国顶尖指数」\[38\]|group=註}}，在富时海峡时报中国指数之中再選出20隻成份股\[39\]，但富时海峡时报中国指数曾跌至只有17隻成份股（2017年3月至6月）\[40\]，相比富时海峡时报中国指数推出當初擁有50隻成份股\[41\]，只有約20隻富时海峡时报中国指数成份股下，便無需再編制富时海峡时报中国Top指数，代表約20隻候選股當中最具代表性的20隻。富时海峡时报中国Top指数約於2017年3月停止編制\[42\]。
 
-另一間指數服務公司，[MSCI](https://zh.wikipedia.org/wiki/MSCI "wikilink")，亦將S股納入其指數系列。雖然S股只佔成份股（含[N股](https://zh.wikipedia.org/wiki/N股 "wikilink")、中國公司[美国存托股](https://zh.wikipedia.org/wiki/美國存託憑證 "wikilink")、S股共20隻成份股）總市值的0.36%
+另一間指數服務公司，[MSCI](../Page/MSCI.md "wikilink")，亦將S股納入其指數系列。雖然S股只佔成份股（含[N股](https://zh.wikipedia.org/wiki/N股 "wikilink")、中國公司[美国存托股](https://zh.wikipedia.org/wiki/美國存託憑證 "wikilink")、S股共20隻成份股）總市值的0.36%
 （）\[43\]；而S股更只佔（含[H股](../Page/H股.md "wikilink")、[N股](https://zh.wikipedia.org/wiki/N股 "wikilink")、中國公司美国存托股、S股、中國[B股](../Page/B股.md "wikilink")、[紅籌股或](../Page/紅籌股.md "wikilink")「紅籌模式」香港上市中國民企股（P股）共449隻成份股）成份股總市值的0.09%（）\[44\]；在32隻成份股之中，S股則佔成份股總市值的13.66%（），當中[仁恒置地集团佔總市值的](https://zh.wikipedia.org/wiki/仁恒置地集团 "wikilink")5.68%\[45\]。
 
 2014年，MSCI更建議設立新，不再將S股納入成份股，改為納入[L股](https://zh.wikipedia.org/wiki/L股 "wikilink")。新加坡註冊的中國S股公司將只由所代表\[46\]。有關改動並未實行。
@@ -354,7 +354,7 @@ S股的[股價指數有](../Page/股價指數.md "wikilink")[富時集團的](..
 
   - [A股
     (中国)](https://zh.wikipedia.org/wiki/A股_\(中国\) "wikilink")·[B股](../Page/B股.md "wikilink")·[G股](https://zh.wikipedia.org/wiki/G股 "wikilink")·[H股](../Page/H股.md "wikilink")·[N股](https://zh.wikipedia.org/wiki/N股 "wikilink")
-  - [境外上市外资股](https://zh.wikipedia.org/wiki/境外上市外资股 "wikilink")
+  - [境外上市外资股](../Page/境外上市外资股.md "wikilink")
 
 [Category:中國S股](https://zh.wikipedia.org/wiki/Category:中國S股 "wikilink")
 [Category:股市術語](https://zh.wikipedia.org/wiki/Category:股市術語 "wikilink")

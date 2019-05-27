@@ -1,4 +1,4 @@
-是由[索尼電腦娛樂开发和发售的](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[家用游戏机](../Page/家用游戏机.md "wikilink")。主机于12月3日在[日本发布](../Page/日本.md "wikilink")，\[1\]1995年9月9日在[北美发售](https://zh.wikipedia.org/wiki/北美 "wikilink")，1995年9月29日在[欧洲发售](../Page/欧洲.md "wikilink")，1995年11月15日在[澳大利亚发售](../Page/澳大利亚.md "wikilink")。这款游戏机是[PlayStation系列家用视频游戏机的第一款](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。作为[第五世代遊戲機的一部分](../Page/第五世代遊戲機.md "wikilink")，与其他第五时代游戏机如[任天堂64和](../Page/任天堂64.md "wikilink")[世嘉土星竞争](../Page/世嘉土星.md "wikilink")。
+是由[索尼電腦娛樂开发和发售的](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[家用游戏机](../Page/家用游戏机.md "wikilink")。主机于12月3日在[日本发布](../Page/日本.md "wikilink")，\[1\]1995年9月9日在[北美发售](https://zh.wikipedia.org/wiki/北美 "wikilink")，1995年9月29日在[欧洲发售](../Page/欧洲.md "wikilink")，1995年11月15日在[澳大利亚发售](../Page/澳大利亚.md "wikilink")。这款游戏机是[PlayStation系列家用视频游戏机的第一款](../Page/PlayStation.md "wikilink")。作为[第五世代遊戲機的一部分](../Page/第五世代遊戲機.md "wikilink")，与其他第五时代游戏机如[任天堂64和](../Page/任天堂64.md "wikilink")[世嘉土星竞争](../Page/世嘉土星.md "wikilink")。
 
 PlayStation是第一个“电脑娱乐系统”，其不但能游玩游戏，还能播放[音频CD](https://zh.wikipedia.org/wiki/音频CD "wikilink")，部分机型还能播放[视频CD](https://zh.wikipedia.org/wiki/影音光碟 "wikilink")。机器出货量为1亿部，共发售了9年6个月。\[2\]2000年7月，一款名为**PS
 one**的“超薄”版本发布，取代了最初的灰色版本主机，并重新以适当的名字命名，以避免与它的继任者[PlayStation
@@ -48,7 +48,7 @@ PlayStation于1994年12月3日在日本发行，\[30\]北美于1995年9月9日�
 Drive打败](../Page/Mega_Drive.md "wikilink")。\[36\]PlayStation的美国的发售价格为。\[37\]索尼几乎在所有类型的游戏中都获得了成功，比如《》，《》，《[皇牌空战](../Page/皇牌空战_\(游戏\).md "wikilink")》，《》,
 《[山脊赛车](https://zh.wikipedia.org/wiki/山脊赛车 "wikilink")》和《[雷曼](https://zh.wikipedia.org/wiki/雷曼_\(游戏\) "wikilink")》。与当时绝大多数的游戏机不同的是，PlayStation在发布时没有捆绑销售游戏。\[38\]索尼发布后的几个月软件销售强劲，主机和游戏软件的销售量比率约为1:4。\[39\]
 
-[微软董事长](../Page/微软.md "wikilink")[比尔·盖茨相比世嘉而言更喜欢索尼的游戏机](../Page/比尔·盖茨.md "wikilink")，他说：“我们的游戏设计师喜欢索尼的机器。”\[40\]微软在后来设计开发了[Xbox视频游戏主机](https://zh.wikipedia.org/wiki/Xbox "wikilink")，用来与索尼竞争。在1995年5月的一场特殊的游戏机器交叉评测中，[Fami通为PlayStation评分](../Page/Fami通.md "wikilink")19分，满分40分。\[41\]在北美上市几周后，《》的员工就对PlayStation进行了评测。他们评论说：虽然CPU是非常普通的，但是它的GPU和声音处理器等辅助硬件的功能非常强大。他们特别赞扬了它对3D技术的关注，并积极评价了PlayStation控制器的舒适性和存储卡的便利性。并给主机4.5颗星，他们总结道:“要想在这个竞争激烈的市场上取得成功，你需要强大的硬件、出色的游戏和出色的营销。”无论是凭借技术、运气还是财大气粗，索尼在这场战争的第一波攻势中取得了三分之一的好成绩。\[42\]在销售主机时的广告语是：“Live
+[微软董事长](../Page/微软.md "wikilink")[比尔·盖茨相比世嘉而言更喜欢索尼的游戏机](../Page/比尔·盖茨.md "wikilink")，他说：“我们的游戏设计师喜欢索尼的机器。”\[40\]微软在后来设计开发了[Xbox视频游戏主机](../Page/Xbox.md "wikilink")，用来与索尼竞争。在1995年5月的一场特殊的游戏机器交叉评测中，[Fami通为PlayStation评分](../Page/Fami通.md "wikilink")19分，满分40分。\[41\]在北美上市几周后，《》的员工就对PlayStation进行了评测。他们评论说：虽然CPU是非常普通的，但是它的GPU和声音处理器等辅助硬件的功能非常强大。他们特别赞扬了它对3D技术的关注，并积极评价了PlayStation控制器的舒适性和存储卡的便利性。并给主机4.5颗星，他们总结道:“要想在这个竞争激烈的市场上取得成功，你需要强大的硬件、出色的游戏和出色的营销。”无论是凭借技术、运气还是财大气粗，索尼在这场战争的第一波攻势中取得了三分之一的好成绩。\[42\]在销售主机时的广告语是：“Live
 in your world. Play in ours.”。实际上标语为：“LIVE IN
 Y[PlayStationCircle.svg](https://zh.wikipedia.org/wiki/File:PlayStationCircle.svg "fig:PlayStationCircle.svg")UR
 W[PlayStationX.svg](https://zh.wikipedia.org/wiki/File:PlayStationX.svg "fig:PlayStationX.svg")RLD.
@@ -56,13 +56,13 @@ PL[PlayStationTriangle.svg](https://zh.wikipedia.org/wiki/File:PlayStationTriang
 IN
 [PlayStationSquare.svg](https://zh.wikipedia.org/wiki/File:PlayStationSquare.svg "fig:PlayStationSquare.svg")URS.」
 其他的标语类似于：“You Are Not Ready”或“U R NOT
-.”\[43\]索尼的首席文化官[李·克勞解释说](https://zh.wikipedia.org/wiki/李·克勞 "wikilink"):“这是一个终极挑战。游戏玩家喜欢回应那句口号，然后说“胡说”。让我来告诉你我准备得多么充分。\[44\]
+.”\[43\]索尼的首席文化官[李·克勞解释说](../Page/李·克勞.md "wikilink"):“这是一个终极挑战。游戏玩家喜欢回应那句口号，然后说“胡说”。让我来告诉你我准备得多么充分。\[44\]
 
 ### 市场的成功
 
 PlayStation成功的关键因素之一是索尼对第三方开发者的态度。世嘉和任天堂采用了孤立主义的方法，通常专注于第一方的开发而使第三方开发者自己开发研究游戏。索尼努力简化了游戏制作中的各种问题和麻烦。通过提供一系列的编程库在线更新，组织第三方技术支持开发团队，在某些情况下直接给第三方公司提供支持帮助等。\[45\]在1996年末，PlayStation大约有400款游戏正在开发中，相比之下，[世嘉土星大约有](../Page/世嘉土星.md "wikilink")200款游戏在开发中，[任天堂64只有](../Page/任天堂64.md "wikilink")60款。\[46\]
 
-虽然世嘉土星的销售对象是18到34岁的年轻人，但它的市场营销范围大致相当，但并不仅限于12岁至24岁的人群。\[47\]世嘉和索尼都认为，年轻的玩家通常会崇拜年长、经验丰富的玩家，他们会被针对青少年和成年人的广告所吸引。此外，索尼还发现，针对青少年的广告最适合针对成年人：根据[李·克勞的说法](https://zh.wikipedia.org/wiki/李·克勞 "wikilink")，“我们早期解决的问题之一是，每个人在玩电子游戏的时候都是17岁。”年轻人崇拜最优秀的游戏玩家，他们通常年纪更大，更老练，更有天赋。还有人开始工作、长大，但当他们走进自己的房间，坐下来玩电子游戏时，他们又年轻了起来，又回到了17岁。\[48\]起初，PlayStation的用户群偏向于成年人，但在第一次价格下跌后，用户群开始扩大。\[49\]
+虽然世嘉土星的销售对象是18到34岁的年轻人，但它的市场营销范围大致相当，但并不仅限于12岁至24岁的人群。\[47\]世嘉和索尼都认为，年轻的玩家通常会崇拜年长、经验丰富的玩家，他们会被针对青少年和成年人的广告所吸引。此外，索尼还发现，针对青少年的广告最适合针对成年人：根据[李·克勞的说法](../Page/李·克勞.md "wikilink")，“我们早期解决的问题之一是，每个人在玩电子游戏的时候都是17岁。”年轻人崇拜最优秀的游戏玩家，他们通常年纪更大，更老练，更有天赋。还有人开始工作、长大，但当他们走进自己的房间，坐下来玩电子游戏时，他们又年轻了起来，又回到了17岁。\[48\]起初，PlayStation的用户群偏向于成年人，但在第一次价格下跌后，用户群开始扩大。\[49\]
 
 1996年，市场对PlayStation游戏的高需求促使索尼决定扩大其在[俄勒冈州的CD生产工厂](../Page/斯普林菲尔德_\(俄勒冈州\).md "wikilink")，将其月产量从400万张增加到650万张。\[50\]PlayStation的销量是世嘉土星销量的两倍，当PlayStation和土星5月价格跌至199美元时，索尼的领先优势也大幅提升，这在很大程度上是因为一些零售商（如[KB_Toys](https://zh.wikipedia.org/wiki/KB_Toys "wikilink")）没有备货土星。\[51\]1996年，PlayStation游戏机在欧洲的销量与土星不相上下。\[52\]
 

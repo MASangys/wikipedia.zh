@@ -1,5 +1,5 @@
 **PlayStation
-2**（日文：**プレ**イ**ステ**ーション**2**，日文簡稱**プレステ2**。），簡稱**PS2**，是[索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")（SCE）在2000年3月4日開始販售的家用[遊戲機](https://zh.wikipedia.org/wiki/電視遊戲 "wikilink")。在[中国大陆](../Page/中国大陆.md "wikilink")，索尼（中國）的行銷口號是：「△○×□，很有[PS风格的感觉](https://zh.wikipedia.org/wiki/PlayStation "wikilink")」。在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，索尼電腦娛樂（台湾）則是以：「就是這一部」，強調不仅能玩遊戲更能播放[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。主要競爭對手是世嘉的[Dreamcast](../Page/Dreamcast.md "wikilink")、微軟的[Xbox和任天堂的](../Page/Xbox_\(遊戲機\).md "wikilink")[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")。PS2平台上已推出了達10,828款遊戲。\[1\]PS2擁有數個[家用遊戲機的紀錄](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")：史上最高銷量（1億5768萬部）、销售时间最長（12年）、官方廠商支持時間最長（18年）。
+2**（日文：**プレ**イ**ステ**ーション**2**，日文簡稱**プレステ2**。），簡稱**PS2**，是[索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")（SCE）在2000年3月4日開始販售的家用[遊戲機](https://zh.wikipedia.org/wiki/電視遊戲 "wikilink")。在[中国大陆](../Page/中国大陆.md "wikilink")，索尼（中國）的行銷口號是：「△○×□，很有[PS风格的感觉](../Page/PlayStation.md "wikilink")」。在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，索尼電腦娛樂（台湾）則是以：「就是這一部」，強調不仅能玩遊戲更能播放[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。主要競爭對手是世嘉的[Dreamcast](../Page/Dreamcast.md "wikilink")、微軟的[Xbox和任天堂的](../Page/Xbox_\(遊戲機\).md "wikilink")[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")。PS2平台上已推出了達10,828款遊戲。\[1\]PS2擁有數個[家用遊戲機的紀錄](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")：史上最高銷量（1億5768萬部）、销售时间最長（12年）、官方廠商支持時間最長（18年）。
 
 索尼娱乐于2012年12月28日在日本官网上发布消息，確認PS2正式终止销售，至此全世界累计销售1亿5000万部以上。\[2\]日本Sony官方宣布主機維修期限至2018年8月31日止。\[3\]
 
@@ -8,9 +8,9 @@
 1998年11月27日日本[世嘉](../Page/世嘉.md "wikilink")（SEGA）公司于1998年11月27日发售[Dreamcast遊戲機](../Page/Dreamcast.md "wikilink")，SONY便開始積極及加快開發第六世代家用遊戲機。PlayStation
 2在1999年發表，2000年開始發售，由於生產延誤，當時市場上很難購買到PS2。由於PS2發售同時也同時發售多款遊戲大作，加上PS2採取當時較為先進的[DVD-ROM](https://zh.wikipedia.org/wiki/DVD-ROM "wikilink")，容量達4.7或8.5GB，而Dreamcast只使用1.2GB的[GD-ROM](../Page/GD-ROM.md "wikilink")，同時SONY為遊戲開發商和為消費者提供更多的PS2支援，所以PS2很快便打敗[Dreamcast](../Page/Dreamcast.md "wikilink")，更間接導致SEGA完全退出家用游戏机市場。
 
-儘管世嘉在2001年3月宣布停止生產Dreamcast，PS2又立即面臨來自新對手的競爭，微軟的[Xbox和任天堂](https://zh.wikipedia.org/wiki/Xbox "wikilink")[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")。許多分析家預計三大遊戲機之間的密切的三方對決：Xbox擁有最強大的硬件，而GameCube的是最便宜的遊戲機，加上任天堂改變其政策，以鼓勵第三方開發者，而PlayStation
+儘管世嘉在2001年3月宣布停止生產Dreamcast，PS2又立即面臨來自新對手的競爭，微軟的[Xbox和任天堂](../Page/Xbox.md "wikilink")[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")。許多分析家預計三大遊戲機之間的密切的三方對決：Xbox擁有最強大的硬件，而GameCube的是最便宜的遊戲機，加上任天堂改變其政策，以鼓勵第三方開發者，而PlayStation
 2則是最弱的規格，但有良好的開端（擊敗[Dreamcast](../Page/Dreamcast.md "wikilink")）、不少的遊戲支援，加上SONY與開發商的承諾。雖然在PlayStation
-2的陣容初步遊戲被認為是平庸的，但最後也領先[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")，[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")。尤其是[跑車浪漫旅系列](../Page/跑車浪漫旅系列.md "wikilink")、[GUNDAM系列](../Page/GUNDAM.md "wikilink")、[俠盜獵車手系列等等令到PS](../Page/俠盜獵車手系列.md "wikilink")2大賣一時。而微軟推出聯機功能的[Xbox
+2的陣容初步遊戲被認為是平庸的，但最後也領先[Xbox](../Page/Xbox.md "wikilink")，[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")。尤其是[跑車浪漫旅系列](../Page/跑車浪漫旅系列.md "wikilink")、[GUNDAM系列](../Page/GUNDAM.md "wikilink")、[俠盜獵車手系列等等令到PS](../Page/俠盜獵車手系列.md "wikilink")2大賣一時。而微軟推出聯機功能的[Xbox
 Live的發布之際](../Page/Xbox_Live.md "wikilink")，SONY在2002年底發布的PlayStation網絡適配器，而且與開發商的推了不少聯機遊戲。
 
 2004年9月，索尼推出[俠盜獵車手：聖安地列斯及PS](../Page/俠盜獵車手：聖安地列斯.md "wikilink")2薄版**PlayStation
@@ -31,7 +31,7 @@ SONY原來設定PS2的壽命為10年（即2010年），但根據SONY表示，它
 
 PlayStation 2
 
-  - 是[PlayStation的繼承機種](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，
+  - 是[PlayStation的繼承機種](../Page/PlayStation.md "wikilink")，
   - 銷售統計資料：
       - 2000年3月4日開始於[日本販售](../Page/日本.md "wikilink")，販售後僅過了三日，[日本當地就創下約](../Page/日本.md "wikilink")98萬部以上的生產銷售紀錄。
       - 2003年1月,PS2全球銷量突破五千萬部。
@@ -43,7 +43,7 @@ PlayStation 2
       - 2011至2012年的SONY聖誕期間銷售，根據Sony SCE發佈的官方情報，PS2的銷量為超過50萬，竟然比[PS
         Vita的接近](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")50萬為多。
   - PlayStation
-    2本身可向下相容[PlayStation的遊戲軟體](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，並可播放DVD影音光碟。值得一提的是，PS2的下一代遊戲機[PlayStation
+    2本身可向下相容[PlayStation的遊戲軟體](../Page/PlayStation.md "wikilink")，並可播放DVD影音光碟。值得一提的是，PS2的下一代遊戲機[PlayStation
     3的早期部分機型是可以向下支援PS](../Page/PlayStation_3.md "wikilink")2遊戲的（詳見「硬體設計與PlayStation
     3的相容性」）。
   - PlayStation 2的游戏锁区。

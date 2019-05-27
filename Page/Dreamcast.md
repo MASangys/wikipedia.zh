@@ -17,7 +17,7 @@ Drive](../Page/Mega_Drive.md "wikilink")（在[北美地區被稱為SEGA](https:
 Genesis）於1988年發售，銷售量達3075萬部，是世嘉歷年來最成功的主機。Mega
 Drive的繼任主機[世嘉土星於](../Page/世嘉土星.md "wikilink")1994年在日本推出，採用雙[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（CPU）架構以同時處理[2D和](../Page/二维计算机图形.md "wikilink")[3D圖形](../Page/三维计算机图形.md "wikilink")，然而由於其複雜的硬體架構使其比其主要競爭對手、[索尼推出的](../Page/索尼.md "wikilink")[PlayStation硬體成本更加高昂](../Page/PlayStation_\(遊戲機\).md "wikilink")。儘管世嘉土星的首發日期比PlayStation早了將近一個月，但由於倉促上架以至於供貨不足、初期支援遊戲稀少，對其銷量造成了無法挽回的傷害；世嘉土星在價格方面也處於劣勢，其首發售價足足比PlayStation貴上100美元；加上家用遊戲機市場龍頭[任天堂的次世代家用遊戲機研發計畫持續延滯](../Page/任天堂.md "wikilink")，以及Mega
 Drive諸多缺乏配套遊戲陣容的配件（尤其是[Super
-32X](https://zh.wikipedia.org/wiki/Super_32X "wikilink")）對世嘉本身的企業聲譽造成的損害，使得索尼迅速在市場上占據了一席之地：在積極的廣告宣傳及強大的第三方遊戲作品支持下，PlayStation在北美地區取得了重大成功。1995年底時，索尼在北美市場已售出80萬部[PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")，是世嘉同時間售出之世嘉土星數量的2倍之多，同時Mega
+32X](../Page/Super_32X.md "wikilink")）對世嘉本身的企業聲譽造成的損害，使得索尼迅速在市場上占據了一席之地：在積極的廣告宣傳及強大的第三方遊戲作品支持下，PlayStation在北美地區取得了重大成功。1995年底時，索尼在北美市場已售出80萬部[PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")，是世嘉同時間售出之世嘉土星數量的2倍之多，同時Mega
 Drive/SEGA
 Genesis的銷量也開始銳減；至1996年底，索尼總計在北美市場已售出290萬部PlayStation，大幅超越世嘉售出的120萬部世嘉土星。索尼的優勢在與世嘉的價格戰中得到了進一步的鞏固：儘管雙方皆持續進行[價格戰](https://zh.wikipedia.org/wiki/价格战 "wikilink")，但是由於世嘉土星之主機硬體製程複雜，成本不易壓低，使世嘉的財政赤字日益嚴重，連年虧損。
 
@@ -49,7 +49,7 @@ Huang）仍成功說服了時任日本世嘉總裁[大川功為Dreamcast加入�
 CE](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")，引入了[DirectX和](../Page/DirectX.md "wikilink")[動態連結函式庫技術](https://zh.wikipedia.org/wiki/動態連結函式庫 "wikilink")，使開發者能更加快速地將[個人電腦平臺上的電子遊戲移植至Dreamcast平臺](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。
 
 1998年5月21日，世嘉於特別活動「SEGA New Challenge Conference
-'98」中首次正式發表次世代家用遊戲機相關資訊，並宣布主機名稱為「Dreamcast」\[2\]。Dreamcast一詞由「夢想」（Dream）與「傳播」（Broadcast）組合而成，意為「傳播夢想」；世嘉為了決定次世代主機的名稱特地舉辦了競賽，並自超過5000個投稿中選出了這個名字；有傳聞稱Dreamcast之名和其識別標誌是由遊戲開發者[飯野賢治設計的](https://zh.wikipedia.org/wiki/飯野賢治 "wikilink")，然而從未得到世嘉官方證實。另外，Dreamcast的開機音樂由著名音樂家[坂本龍一創作](../Page/坂本龍一.md "wikilink")。世嘉原計劃自Dreamcast主機外殼中完全刪除公司名稱，並建立類似於[PlayStation的獨立品牌](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，但入交最終決定將世嘉的識別標誌保留在主機外部。共計世嘉在Dreamcast之硬體開發上耗資達5千萬至8千萬美元、在軟體服務開發上耗資1.5億至2億美元、在宣傳行銷上又花了至少3億美元，總計耗資達5億至5億8千萬美元，自汽車產業發跡的入交還曾將此一金額比喻為「與設計一部全新汽車相當」。
+'98」中首次正式發表次世代家用遊戲機相關資訊，並宣布主機名稱為「Dreamcast」\[2\]。Dreamcast一詞由「夢想」（Dream）與「傳播」（Broadcast）組合而成，意為「傳播夢想」；世嘉為了決定次世代主機的名稱特地舉辦了競賽，並自超過5000個投稿中選出了這個名字；有傳聞稱Dreamcast之名和其識別標誌是由遊戲開發者[飯野賢治設計的](https://zh.wikipedia.org/wiki/飯野賢治 "wikilink")，然而從未得到世嘉官方證實。另外，Dreamcast的開機音樂由著名音樂家[坂本龍一創作](../Page/坂本龍一.md "wikilink")。世嘉原計劃自Dreamcast主機外殼中完全刪除公司名稱，並建立類似於[PlayStation的獨立品牌](../Page/PlayStation.md "wikilink")，但入交最終決定將世嘉的識別標誌保留在主機外部。共計世嘉在Dreamcast之硬體開發上耗資達5千萬至8千萬美元、在軟體服務開發上耗資1.5億至2億美元、在宣傳行銷上又花了至少3億美元，總計耗資達5億至5億8千萬美元，自汽車產業發跡的入交還曾將此一金額比喻為「與設計一部全新汽車相當」。
 
 ### 發售
 

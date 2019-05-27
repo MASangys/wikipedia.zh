@@ -148,7 +148,7 @@ JavaScript被歸類為直譯語言，因為目前主流的引擎都是每次執�
 
 }-
 
-或是在[瀏覽器的](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[地址栏中使用](https://zh.wikipedia.org/wiki/地址栏 "wikilink")`javascript:`，以互動方式表示：
+或是在[瀏覽器的](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[地址栏中使用](../Page/地址栏.md "wikilink")`javascript:`，以互動方式表示：
 
 ``` javascript
 javascript:alert("Hello world!");

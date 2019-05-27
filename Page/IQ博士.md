@@ -137,15 +137,13 @@
 
   - 音樂 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
 
-  - 領導作畫監督 - [前田實](https://zh.wikipedia.org/wiki/前田實 "wikilink")
+  - 領導作畫監督 - [前田實](../Page/前田實.md "wikilink")
 
   - 總製片人 - 浦田又治
 
   - 總導演 -
 
-  - \- 土屋登喜藏（1 -
-    243話）、[清水賢治](https://zh.wikipedia.org/wiki/清水賢治 "wikilink")（198話
-    - 243話）
+  - \- 土屋登喜藏（1 - 243話）、[清水賢治](../Page/清水賢治.md "wikilink")（198話 - 243話）
 
   - 製作擔當 - 岸本松司
 
@@ -194,7 +192,7 @@
 :; 「」（8、20話其他）
 
 ::
-作詞：[金春智子](https://zh.wikipedia.org/wiki/金春智子 "wikilink")，作曲：菊池俊輔，編曲：，主唱：[杉山佳壽子](https://zh.wikipedia.org/wiki/杉山佳壽子 "wikilink")
+作詞：[金春智子](../Page/金春智子.md "wikilink")，作曲：菊池俊輔，編曲：，主唱：[杉山佳壽子](../Page/杉山佳壽子.md "wikilink")
 
 :; 「」（28話）
 
@@ -268,13 +266,12 @@
 
 ## 廣告
 
-  - 真人版'''[GU](https://zh.wikipedia.org/wiki/GU "wikilink")　(2016年9月)
-    '''
+  - 真人版'''[GU](../Page/GU.md "wikilink")　(2016年9月) '''
 
 <!-- end list -->
 
   -
-    2016年9月真人化[GU廣告](https://zh.wikipedia.org/wiki/GU "wikilink")\[4\]。本作第一次真人化。
+    2016年9月真人化[GU廣告](../Page/GU.md "wikilink")\[4\]。本作第一次真人化。
       - 《阿拉蕾穿裙子！？(アラレがスカート！？)》篇　(2016年9月)\[5\]
     <!-- end list -->
       -

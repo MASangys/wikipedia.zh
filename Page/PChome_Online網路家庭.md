@@ -8,7 +8,7 @@ PChome也是網路電話服務[Skype的台灣代理商](../Page/Skype.md "wikili
 ### PChome 電商營運
 
   - B2C網站：PChome24h購物，PChome全球購物（銷售全球104個國家/地區）
-  - B2B2C網站：[PChome商店街](https://zh.wikipedia.org/wiki/PChome商店街 "wikilink")（網家集團關係企業）
+  - B2B2C網站：[PChome商店街](../Page/PChome商店街.md "wikilink")（網家集團關係企業）
   - C2C網站：[露天拍賣](../Page/露天拍賣.md "wikilink")（與[eBay合資成立](https://zh.wikipedia.org/wiki/eBay "wikilink")）、PChome商店街個人賣場
 
 ### 集團服務
@@ -69,7 +69,7 @@ PChome也是網路電話服務[Skype的台灣代理商](../Page/Skype.md "wikili
 [PChome_Online_Shopping_box_24H-03_20140610.jpg](https://zh.wikipedia.org/wiki/File:PChome_Online_Shopping_box_24H-03_20140610.jpg "fig:PChome_Online_Shopping_box_24H-03_20140610.jpg")
 
   - 1996年
-    5月，電腦家庭網站設立，初期為[PChome電腦家庭出版集團中的一個部門](https://zh.wikipedia.org/wiki/PChome電腦家庭出版集團 "wikilink")，以《PChome電腦報》為名發送資訊新聞的[電子報](https://zh.wikipedia.org/wiki/電子報 "wikilink")。PChome
+    5月，電腦家庭網站設立，初期為[PChome電腦家庭出版集團中的一個部門](https://zh.wikipedia.org/wiki/PChome電腦家庭出版集團 "wikilink")，以《PChome電腦報》為名發送資訊新聞的[電子報](../Page/電子報.md "wikilink")。PChome
     Online網站創立，同年起經營入口網站業務。
   - 1997年 7月，更名為PChome Online網站。
   - 1998年
@@ -128,7 +128,7 @@ PChome也是網路電話服務[Skype的台灣代理商](../Page/Skype.md "wikili
 PChome
 Online網路家庭是目前台灣最大的垃圾信件來源，除了取消電子報訂閱的功能有爭議之外，在未經用戶本人同意下，所有PChome的用戶均為預設的新電子報訂閱戶，必須主動前往該公司網頁取消訂閱。同時，該公司也同屬未提供刪除會員帳號服務的入口網站業者之一。
 該公司可能為了避免[消費者持續的抗爭](https://zh.wikipedia.org/wiki/消費者 "wikilink")，在網頁上只提供了電子郵件回覆的客戶服務，造成求訴無門，長久以來PChome
-Online網路家庭如同垃圾般的電子報依然困擾著數以萬計的[電子郵件使用者](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")。雖然有特定的申訴管道，或者是針對某公司的[集體訴訟案件](https://zh.wikipedia.org/wiki/集體訴訟 "wikilink")，但由於法律過程冗長，並且在[電子報本身是否為垃圾信件這個議題依然有爭議](https://zh.wikipedia.org/wiki/電子報 "wikilink")，因此讓該公司得以繼續其如同騷擾般地透過該[法律漏洞而困擾著眾多網路使用者](https://zh.wikipedia.org/wiki/法律漏洞 "wikilink")。數年前便有針對PChome的垃圾信件防治協會成立，但顯然對於該公司生產[垃圾信件的決心沒有任何實質作用](https://zh.wikipedia.org/wiki/垃圾信件 "wikilink")。由於來自PChome
+Online網路家庭如同垃圾般的電子報依然困擾著數以萬計的[電子郵件使用者](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")。雖然有特定的申訴管道，或者是針對某公司的[集體訴訟案件](https://zh.wikipedia.org/wiki/集體訴訟 "wikilink")，但由於法律過程冗長，並且在[電子報本身是否為垃圾信件這個議題依然有爭議](../Page/電子報.md "wikilink")，因此讓該公司得以繼續其如同騷擾般地透過該[法律漏洞而困擾著眾多網路使用者](https://zh.wikipedia.org/wiki/法律漏洞 "wikilink")。數年前便有針對PChome的垃圾信件防治協會成立，但顯然對於該公司生產[垃圾信件的決心沒有任何實質作用](https://zh.wikipedia.org/wiki/垃圾信件 "wikilink")。由於來自PChome
 Online的垃圾信持續騷擾著網路使用者，顯然必須透過PChome
 Online在企業良知上更進一步的成長或是經由台灣政府大刀闊斧的決心才能徹底剷除這一問題。
 

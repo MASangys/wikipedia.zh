@@ -55,7 +55,7 @@ V）名誉大使。
 
 2015年12月31日，出演[第66回NHK紅白歌合戰](../Page/第66回NHK紅白歌合戰.md "wikilink")，於[長崎市的](https://zh.wikipedia.org/wiki/長崎市 "wikilink")前直播演出。
 
-2018年12月31日，出演[第69回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第69回NHK紅白歌合戰 "wikilink")，除了是第3次[紅白出場](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")，也是首次在紅白舉辦地[NHK會館現場演出](https://zh.wikipedia.org/wiki/NHK會館 "wikilink")。
+2018年12月31日，出演[第69回NHK紅白歌合戰](../Page/第69回NHK紅白歌合戰.md "wikilink")，除了是第3次[紅白出場](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")，也是首次在紅白舉辦地[NHK會館現場演出](https://zh.wikipedia.org/wiki/NHK會館 "wikilink")。
 
 ## 演唱会特色
 
@@ -213,7 +213,7 @@ Candle Night 鹿児島・仙厳園）
 </tr>
 <tr class="odd">
 <td><p>2009/9/10</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/再見你一次" title="wikilink">再見你一次（逢いたくていま）</a></p></td>
+<td><p><a href="../Page/再見你一次.md" title="wikilink">再見你一次（逢いたくていま）</a></p></td>
 <td><p><a href="../Page/TBS電視台.md" title="wikilink">TBS電視台</a><a href="../Page/周日劇場.md" title="wikilink">周日劇場</a>「<a href="../Page/仁者俠醫.md" title="wikilink">仁者俠醫</a>-JIN-」主題曲</p></td>
 </tr>
 <tr class="even">
@@ -274,7 +274,7 @@ Candle Night 鹿児島・仙厳園）
 <tr class="odd">
 <td><p>2018/08/22</p></td>
 <td><p>（アイノカタチ）</p></td>
-<td><p>TBS電視台周二连续剧「<a href="https://zh.wikipedia.org/wiki/繼母與女兒的藍調" title="wikilink">继母与女儿的蓝调</a>」主题曲</p></td>
+<td><p>TBS電視台周二连续剧「<a href="../Page/繼母與女兒的藍調.md" title="wikilink">继母与女儿的蓝调</a>」主题曲</p></td>
 </tr>
 </tbody>
 </table>
@@ -297,8 +297,8 @@ Candle Night 鹿児島・仙厳園）
 7.  [你是唯一（Everything）](../Page/Everything_\(MISIA單曲\).md "wikilink")-
     10/25/2000
 8.  I miss you \~ 穿越時空\~ (MISIA +
-    [DCT](https://zh.wikipedia.org/wiki/Dreams_Come_True "wikilink")：I
-    miss you \~ 時を越えて\~) - 1/1/2001
+    [DCT](../Page/Dreams_Come_True.md "wikilink")：I miss you \~ 時を越えて\~)
+    - 1/1/2001
 9.  無盡傳說（果てなく続くストーリー）- 1/30/2002
 10. 夜不成眠都為你（眠れぬ夜は君のせい）- 8/8/2002
 11. 深處（BACK BLOCKS）- 11/20/2002

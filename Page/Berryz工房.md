@@ -321,7 +321,7 @@ TOWN發行](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")，2007年起�
 <td><p>07th</p></td>
 <td><p>2005年6月8日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/這是怎樣的戀愛_YOU_KNOW?" title="wikilink">這是怎樣的戀愛 YOU KNOW?</a></p></td>
+<td><p><a href="../Page/這是怎樣的戀愛_YOU_KNOW?.md" title="wikilink">這是怎樣的戀愛 YOU KNOW?</a></p></td>
 <td><p>13</p></td>
 <td><p>19,804</p></td>
 <td><p>動畫「パタリロ西遊記!」的片尾曲</p></td>

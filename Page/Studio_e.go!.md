@@ -8,7 +8,7 @@ Feather》系列。但首套以BlueImpact名義發行的作品《快樂的工作
 除台灣外，Studio
 e.go\!也於[韓國推出全年齡版遊戲](https://zh.wikipedia.org/wiki/韓國 "wikilink")，包括《[Castle
 Fantasia
-艾倫希亞戰記](https://zh.wikipedia.org/wiki/Castle_Fantasia_艾倫希亞戰記 "wikilink")》、《[IZUMO](../Page/IZUMO.md "wikilink")》、《[IZUMO2](../Page/IZUMO2.md "wikilink")》及《Eternal
+艾倫希亞戰記](../Page/Castle_Fantasia_艾倫希亞戰記.md "wikilink")》、《[IZUMO](../Page/IZUMO.md "wikilink")》、《[IZUMO2](../Page/IZUMO2.md "wikilink")》及《Eternal
 Kingdom》。一些遊戲又於日本透過Art-in網站推出收費下載版。
 
 2009年3月17日，山本和枝等另創立[迪波之巢製作所](../Page/迪波之巢製作所.md "wikilink")（），此後Studio
@@ -63,7 +63,7 @@ e･go\!網站，但沒有承接Studio e.go\!作品的販賣。\[1\]
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Castle_Fantasia_艾倫希亞戰記" title="wikilink">Castle Fantasia 艾倫希亞戰記</a></p></td>
+<td><p><a href="../Page/Castle_Fantasia_艾倫希亞戰記.md" title="wikilink">Castle Fantasia 艾倫希亞戰記</a></p></td>
 <td><p>2000年4月21日</p></td>
 </tr>
 <tr class="odd">
@@ -155,7 +155,7 @@ e･go\!網站，但沒有承接Studio e.go\!作品的販賣。\[1\]
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/魔王的女兒們" title="wikilink">魔王的女兒們</a></p></td>
+<td><p><a href="../Page/魔王的女兒們.md" title="wikilink">魔王的女兒們</a></p></td>
 <td><p>2004年4月23日</p></td>
 </tr>
 <tr class="odd">

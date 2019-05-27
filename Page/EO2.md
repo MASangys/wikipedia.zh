@@ -15,7 +15,7 @@ EO2由以下四位成員組成的：
 <th><p>中文姓名</p></th>
 <th><p>英文姓名</p></th>
 <th><p>出生日期 |- style="background-color: #FFFFFF; text-align: center;" |</p></th>
-<th><p><strong><a href="https://zh.wikipedia.org/wiki/彭懷安" title="wikilink">彭懷安</a></strong></p></th>
+<th><p><strong><a href="../Page/彭懷安.md" title="wikilink">彭懷安</a></strong></p></th>
 <th><p>Eddie Pang</p></th>
 <th><p>|- style="background-color: #FFFFFF; text-align: center;" |</p></th>
 <th><p><strong><a href="../Page/洪智傑.md" title="wikilink">洪智傑</a></strong></p></th>
@@ -197,7 +197,7 @@ EO2由以下四位成員組成的：
 
 ### [ViuTV](../Page/ViuTV.md "wikilink") 節目
 
-《[精裝送禮仔](https://zh.wikipedia.org/wiki/精裝送禮仔 "wikilink")》Otto
+《[精裝送禮仔](../Page/精裝送禮仔.md "wikilink")》Otto
 實況娛樂（[真人騷](https://zh.wikipedia.org/wiki/真人騷 "wikilink")）
 
 ## 港台電視劇
@@ -274,7 +274,7 @@ Otto 飾演 AK</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/以和為貴" title="wikilink">以和為貴</a>》</p></td>
+<td><p>《<a href="../Page/以和為貴.md" title="wikilink">以和為貴</a>》</p></td>
 <td><p>Eddie 飾演 車鳴震<br />
 Otto 飾演 戴永堅</p></td>
 <td></td>
@@ -312,7 +312,7 @@ Otto 飾演 學生領袖</p></td>
 <td><p>Otto 飾演 路在山</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/大帥哥" title="wikilink">大帥哥</a>》</p></td>
+<td><p>《<a href="../Page/大帥哥.md" title="wikilink">大帥哥</a>》</p></td>
 <td><p>Eddie</p></td>
 <td><p>Eddie 飾演 麥先根 (第1至6集)</p></td>
 <td></td>

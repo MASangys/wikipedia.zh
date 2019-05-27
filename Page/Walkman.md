@@ -16,7 +16,7 @@ zh-hant:部;}-。盛田昭夫在1992年10月受封[英國](https://zh.wikipedia.
 MD{{〉}}系列。2001年後，[蘋果電腦採用以](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")1.8吋[硬碟的高容量](https://zh.wikipedia.org/wiki/硬碟 "wikilink")[iPod並且搭配](https://zh.wikipedia.org/wiki/iPod "wikilink")“[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")”線上音樂商店服務，在美國及全世界推出，在2年內立即在全球隨身聽市場造成轟動，2004年7月索尼再推出高達1GB容量的“Hi-MD”，但由于推出時間點過晚，而且**Walkman**堅守自家之[ATRAC3檔案格式](https://zh.wikipedia.org/wiki/ATRAC3 "wikilink")，使Walkman逐漸下滑市佔率，造成[蘋果電腦的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[iPod數位隨身聽在全球熱賣取代了](https://zh.wikipedia.org/wiki/iPod "wikilink")**Walkman**地位。
 
 2004年開始，為了搶回過去隨身聽的地位，在美國推出「Sony
-Connect」線上音樂、日本則以“日本索尼音樂”聯合其他音樂唱片公司投資[Mora線上音樂網站](https://zh.wikipedia.org/wiki/Mora "wikilink")，並推出以快取記憶體、硬碟式的“Net
+Connect」線上音樂、日本則以“日本索尼音樂”聯合其他音樂唱片公司投資[Mora線上音樂網站](../Page/Mora.md "wikilink")，並推出以快取記憶體、硬碟式的“Net
 Walkman”系列。2005年第2季開始，子公司[索尼愛立信推出](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")「Walkman」聯名品牌的音樂手機，並與[索尼博德曼音樂合作推出](https://zh.wikipedia.org/wiki/索尼博德曼音樂 "wikilink")「PlayNow」服務，成功整合索尼集團的電子、娛樂事業資源，並於全球熱賣，奠定索尼愛立信的Walkman聯名品牌在音樂手機成為領導品牌。
 
 2007年第四季，索尼公司宣布海外市場的「Net

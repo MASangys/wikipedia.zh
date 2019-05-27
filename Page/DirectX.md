@@ -12,7 +12,7 @@ DirectX組成的元件有：
 
   - [Direct3D](../Page/Direct3D.md "wikilink")：主要用於繪製[3D图形](../Page/三维计算机图形.md "wikilink")。
   - [Direct2D](../Page/Direct2D.md "wikilink")：主要提供2D動畫的硬體加速，為[DirectDraw的替代者](https://zh.wikipedia.org/wiki/DirectDraw "wikilink")。
-  - [DirectWrite](https://zh.wikipedia.org/wiki/DirectWrite "wikilink")：主要字體顯示API，提供使用GPU令字體顯示更為平滑，類似[ClearType](../Page/ClearType.md "wikilink")（只支援於[Windows
+  - [DirectWrite](../Page/DirectWrite.md "wikilink")：主要字體顯示API，提供使用GPU令字體顯示更為平滑，類似[ClearType](../Page/ClearType.md "wikilink")（只支援於[Windows
     Vista](../Page/Windows_Vista.md "wikilink")/[7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")/[8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[8.1以上](../Page/Windows_8.1.md "wikilink")）。
   - [DirectInput](https://zh.wikipedia.org/wiki/DirectInput "wikilink")：用于结合键盘、鼠标、摇杆，或其它的游戏控制器。
   - [XInput](https://zh.wikipedia.org/wiki/XInput "wikilink")：主要用於[Xbox360的控制器](https://zh.wikipedia.org/wiki/Xbox360 "wikilink")。
@@ -369,7 +369,7 @@ Windows SDK裡](../Page/Microsoft_Windows_SDK.md "wikilink")。例如DirectX
 <tr class="odd">
 <td><p>DirectX 12</p></td>
 <td><p>10.00.10240.16384</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 <td><p>2015年1月18日</p></td>
 <td><p>包含于操作系统，无独立程序包，並支持Xbox One</p></td>
 </tr>

@@ -17,7 +17,7 @@ IPv6能解決的核心問題與互聯網目前所面臨的關鍵問題之間出�
 
 ### 无状态地址自动配置（SLAAC）
 
-当连接到IPv6网络上时，IPv6主机可以使用[邻居发现协议对自身进行自动配置](https://zh.wikipedia.org/wiki/邻居发现协议 "wikilink")。当第一次连接到网络上时，主机发送一个[链路本地路由器请求](https://zh.wikipedia.org/wiki/链路本地地址 "wikilink")（solicitation）多播请求来获取配置参数。路由器使用包含Internet层配置参数的路由器宣告（advertisement）报文进行回应\[7\]。
+当连接到IPv6网络上时，IPv6主机可以使用[邻居发现协议对自身进行自动配置](https://zh.wikipedia.org/wiki/邻居发现协议 "wikilink")。当第一次连接到网络上时，主机发送一个[链路本地路由器请求](../Page/链路本地地址.md "wikilink")（solicitation）多播请求来获取配置参数。路由器使用包含Internet层配置参数的路由器宣告（advertisement）报文进行回应\[7\]。
 
 在不适合使用IPv6无状态地址自动配置的场景下，网络可以使用有状态配置，如[DHCPv6](../Page/DHCPv6.md "wikilink")，或者使用静态方法手动配置。
 
@@ -36,7 +36,7 @@ IPv6從IPv4到IPv6最顯著的變化就是網絡地址的長度。RFC 2373和RFC
 ## IPv6格式
 
 IPv6二進位制下為128位元長度，以16位元為一組，每組以冒號「:」隔開，可以分為8組，每組以4-{位}-[十六進制方式表示](https://zh.wikipedia.org/wiki/十六進制 "wikilink")。例如：`2001:0db8:85a3:08d3:1319:8a2e:0370:7344`
-是一個合法的IPv6位址。类似于IPv4的点分十进制，同样也存在点分十六进制的写法，将8组4位十六进制地址的冒号去除后，每位以点号“.”分组，例如：`2001:0db8:85a3:08d3:1319:8a2e:0370:7344`则记为`2.0.0.1.0.d.b.8.8.5.a.3.0.8.d.3.1.3.1.9.8.a.2.e.0.3.7.0.7.3.4.4`，其倒序写法用于[ip6.arpa子域名记录IPv](https://zh.wikipedia.org/wiki/.arpa "wikilink")6地址与域名的映射。
+是一個合法的IPv6位址。类似于IPv4的点分十进制，同样也存在点分十六进制的写法，将8组4位十六进制地址的冒号去除后，每位以点号“.”分组，例如：`2001:0db8:85a3:08d3:1319:8a2e:0370:7344`则记为`2.0.0.1.0.d.b.8.8.5.a.3.0.8.d.3.1.3.1.9.8.a.2.e.0.3.7.0.7.3.4.4`，其倒序写法用于[ip6.arpa子域名记录IPv](../Page/.arpa.md "wikilink")6地址与域名的映射。
 
 同時IPv6在某些條件下可以省略：
 
@@ -149,7 +149,7 @@ IPv6中有些位址是有特殊含义的：
 <!-- end list -->
 
   - `::ffff:x.x.x.x/96`－用於[IPv4映射位址](https://zh.wikipedia.org/wiki/IPv4映射位址 "wikilink")。（參見以下的[转换机制](https://zh.wikipedia.org/wiki/#转换机制 "wikilink")）。
-  - `2001::/32`－用於[Teredo隧道](https://zh.wikipedia.org/wiki/Teredo隧道 "wikilink")。
+  - `2001::/32`－用於[Teredo隧道](../Page/Teredo隧道.md "wikilink")。
   - `2002::/16`－用於[6to4](../Page/6to4.md "wikilink")。
 
 <!-- end list -->
@@ -274,7 +274,7 @@ IP協議號碼的41號用來標示將IPv6資料訊框直接裝入IPv4封包。IP
 XP SP2 IPv6堆疊中。IPv6，包含6to4隧道和Teredo隧道，在[Windows
 Vista中預設是啟動的](../Page/Windows_Vista.md "wikilink")。\[21\]許多Unix系統只支援原生的6to4，但Teredo可由如Miredoo的第三方軟體來提供。
 
-[ISATAP](https://zh.wikipedia.org/wiki/ISATAP "wikilink")\[22\]藉由將IPv4位址對應到IPv6的链路本地位址，從而將IPv4網路視為一種虛擬的IPv6區域連線。不像6to4和Teredo是*站點間*的隧道機制，ISATAP是一種*站點內*機制，意味著它是用來設計提供在一個組織內節點之間的IPv6連接性。
+[ISATAP](../Page/ISATAP.md "wikilink")\[22\]藉由將IPv4位址對應到IPv6的链路本地位址，從而將IPv4網路視為一種虛擬的IPv6區域連線。不像6to4和Teredo是*站點間*的隧道機制，ISATAP是一種*站點內*機制，意味著它是用來設計提供在一個組織內節點之間的IPv6連接性。
 
 #### 組態隧道（6in4）
 

@@ -207,7 +207,7 @@ PIECE FILM
 11月28日至12月27日，Mr.Children決定以五大巨蛋為名，舉辦「DOME TOUR 2009 SUPERMARKET
 FANTASY」。
 
-2010年1月，《[空中急診英雄](../Page/空中急診英雄.md "wikilink")》第二季上映，主題曲為〈[HANABI](https://zh.wikipedia.org/wiki/HANABI "wikilink")〉。
+2010年1月，《[空中急診英雄](../Page/空中急診英雄.md "wikilink")》第二季上映，主題曲為〈[HANABI](../Page/HANABI.md "wikilink")〉。
 
 2010年5月10日，Mr.Children發行《[Mr.Children DOME TOUR 2009〜SUPERMARKET
 FANTASY〜](https://zh.wikipedia.org/wiki/Mr.Children_DOME_TOUR_2009〜SUPERMARKET_FANTASY〜 "wikilink")》巡迴演唱會的DVD，於官方公佈的發行日期前一天已累積銷量達49,000張，並以這個銷量獲得周排行榜的首位。\[57\]另外，樂團亦憑此平了[嵐和](../Page/嵐.md "wikilink")[KAT-TUN連續七張DVD獲得周榜首位的紀錄](../Page/KAT-TUN.md "wikilink")。\[58\]
@@ -286,7 +286,7 @@ Hall Tour 2016
 虹」巡演之中。以「虹」為主題的巡迴演唱是從4月15日山梨縣開始，最後在2016年11月21日於神奈川的鎌倉藝術館畫下句點，專門提供偏遠地區會員、小場地為主的活動。其中，6月4日選在東京的日比谷野外大音樂堂，更是Mr.Children剛出道時公眾表演的場地，極富象徵意義。據稱現場僅有3,114人入內，但由於戶外場地緣故，卻吸引了更多數目的歌迷前來聆聽「音漏」。\[72\]
 在各地演唱同時，Mr.Children深感唱片市場的日益蕭條景況，主唱櫻井和壽遂發起「I ❤ CD
 shops\!」活動，親自到實體唱片行簽名，以實際行動來支持音樂。\[73\]
-10月3日，NHK晨間劇《[別嬪小姐](../Page/別嬪小姐.md "wikilink")》（べっぴんさん）宣布選用Mr.Children的〈[光之畫室](https://zh.wikipedia.org/wiki/光之畫室 "wikilink")〉（ヒカリノアトリエ）為主題曲。
+10月3日，NHK晨間劇《[別嬪小姐](../Page/別嬪小姐.md "wikilink")》（べっぴんさん）宣布選用Mr.Children的〈[光之畫室](../Page/光之畫室.md "wikilink")〉（ヒカリノアトリエ）為主題曲。
 
 ### 2017年
 
@@ -297,7 +297,7 @@ Tube官網上解禁](https://zh.wikipedia.org/wiki/You_Tube "wikilink")。
 
 1月10日，宣布於日本的「五大巨蛋」——[東京巨蛋](../Page/東京巨蛋.md "wikilink")、[札幌巨蛋](../Page/札幌巨蛋.md "wikilink")、[名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")、[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")、[福岡巨蛋及大型競技場](../Page/福岡巨蛋.md "wikilink")（新橫濱[日產競技場](https://zh.wikipedia.org/wiki/日產競技場 "wikilink")、大阪[長居競技場](https://zh.wikipedia.org/wiki/長居競技場 "wikilink")、廣島[廣島廣域公園陸上競技場](https://zh.wikipedia.org/wiki/廣島廣域公園陸上競技場 "wikilink")、熊本[熊本県民総合運動公園陸上競技場](https://zh.wikipedia.org/wiki/熊本県民総合運動公園陸上競技場 "wikilink")）舉行出道25週年紀念巡迴演唱會。
 
-1月11日，正式發行第36張實體單曲〈[光之畫室](https://zh.wikipedia.org/wiki/光之畫室 "wikilink")〉，並於20日開放網路配信下載。
+1月11日，正式發行第36張實體單曲〈[光之畫室](../Page/光之畫室.md "wikilink")〉，並於20日開放網路配信下載。
 
 3月4日起，Mr.Children開始為期不到兩個月的「Mr.Children Hall Tour 2017
 光之畫室」巡迴公演，仍以偏鄉小場地為主。但是，3月16日在愛知的名古屋國際會議場世紀廳巡迴演出時，主唱櫻井和壽卻因感冒而無法發聲，被迫於第10首歌曲〈[口笛](https://zh.wikipedia.org/wiki/口笛 "wikilink")〉唱完後而結束演出，連同兩天後18日在三重的巡演也宣告中止。\[74\]
@@ -323,7 +323,7 @@ SHIKAO 20th ANNIVERSARY「スガフェス！
 himawari\]〉。\[78\]
 
 7月26日，第37張單曲〈\[<https://ja.wikipedia.org/wiki/Himawari_(Mr.Children%E3%81%AE%E6%9B%B2>)
-himawari\]〉正式發行，同時也是7月28日上映的電影《[我想吃掉你的胰臟](https://zh.wikipedia.org/wiki/我想吃掉你的胰臟 "wikilink")》（君の膵臓をたべたい）之主題曲。\[79\]
+himawari\]〉正式發行，同時也是7月28日上映的電影《[我想吃掉你的胰臟](../Page/我想吃掉你的胰臟.md "wikilink")》（君の膵臓をたべたい）之主題曲。\[79\]
 該支單曲首週銷售12.1萬張，獲得冠軍。\[80\]
 
 12月20日，發行《[Mr.Children在光之畫室內描繪彩虹](https://zh.wikipedia.org/wiki/Mr.Children在光之畫室內描繪彩虹 "wikilink")》（Mr.Children、ヒカリノアトリエで虹の絵を描く）的DVD與BD，收錄2016年1月至2017年5月間的巡迴演唱及工作影像，包括初次映像化及首次公開披露的兩首歌曲〈[童話](../Page/童話.md "wikilink")〉（お伽話）及〈[內心](https://zh.wikipedia.org/wiki/內心 "wikilink")〉（こころ）。此外，加上繼《[1/42](https://zh.wikipedia.org/wiki/1/42 "wikilink")》之後推出的Live
@@ -347,7 +347,7 @@ love](https://zh.wikipedia.org/wiki/here_comes_my_love_\(Mr.Children單曲\) "wi
 Thanksgiving
 25](https://zh.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")》開始販售。
 
-4月10日，《[空中急診英雄](../Page/空中急診英雄.md "wikilink")》電影版的主題曲仍決定為〈[HANABI](https://zh.wikipedia.org/wiki/HANABI "wikilink")〉。
+4月10日，《[空中急診英雄](../Page/空中急診英雄.md "wikilink")》電影版的主題曲仍決定為〈[HANABI](../Page/HANABI.md "wikilink")〉。
 
 4月13日，參加「ap bank fes 18」的演出。
 
@@ -453,7 +453,7 @@ Club）及官方Facebook貼出手幅照片表達致謝之意。另外，據稱�
 34. [祈禱 ～眼淚的痕跡/End of the
     day/pieces](https://zh.wikipedia.org/wiki/祈禱_～眼淚的痕跡/End_of_the_day/pieces "wikilink")
 35. [腳步聲 ～Be Strong](../Page/腳步聲_～Be_Strong.md "wikilink")
-36. [光之畫室](https://zh.wikipedia.org/wiki/光之畫室 "wikilink")
+36. [光之畫室](../Page/光之畫室.md "wikilink")
 37. [himawari](https://zh.wikipedia.org/wiki/himawari_\(Mr.Children單曲\) "wikilink")
 
 #### 僅供網上下載單曲
@@ -489,7 +489,7 @@ Club）及官方Facebook貼出手幅照片表達致謝之意。另外，據稱�
 15. [\[(an imitation) blood
     orange](../Page/［\(an_imitation\)_blood_orange］.md "wikilink")\]
 16. [REFLECTION](../Page/REFLECTION.md "wikilink")
-17. [重力与呼吸](https://zh.wikipedia.org/wiki/重力与呼吸 "wikilink")
+17. [重力与呼吸](../Page/重力与呼吸.md "wikilink")
 
 #### 精選專輯
 

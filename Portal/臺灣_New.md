@@ -2,11 +2,11 @@
 
 <!-- end list -->
 
-  - 中文圈裡第一個[陰陽人支持團體](https://zh.wikipedia.org/wiki/陰陽人 "wikilink")**[「國際陰陽人組織-中文版」的創辦人是誰](https://zh.wikipedia.org/wiki/丘愛芝 "wikilink")**？
-  - 2004年納坦颱風侵襲台灣期間，**[哪一位台灣電視公司的記者](https://zh.wikipedia.org/wiki/平宗正 "wikilink")**捨己救人並因此殉職？
-  - **[哪一間檳榔攤](https://zh.wikipedia.org/wiki/馬路楊 "wikilink")**因為[一青妙的書籍](../Page/一青妙.md "wikilink")《我的台南》介紹而聞名？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[新埔鎮](../Page/新埔鎮.md "wikilink")**[哪座關帝廟](https://zh.wikipedia.org/wiki/蓮華山三聖宮 "wikilink")**，受當地警分局刑事組所信奉，[中華民國外交部官員還曾帶](../Page/中華民國外交部.md "wikilink")[祖魯國王古德威爾](https://zh.wikipedia.org/wiki/祖魯國王 "wikilink")·茲韋利蒂尼去祭拜？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[新埔鎮](../Page/新埔鎮.md "wikilink")**[哪間媽祖廟](https://zh.wikipedia.org/wiki/新埔與天宮 "wikilink")**，分靈自[北港朝天宮](https://zh.wikipedia.org/wiki/北港朝天宮 "wikilink")，在農曆正月時會舉行迎媽祖的祭祀？
+  - 中文圈裡第一個[陰陽人支持團體](https://zh.wikipedia.org/wiki/陰陽人 "wikilink")**[「國際陰陽人組織-中文版」的創辦人是誰](../Page/丘愛芝.md "wikilink")**？
+  - 2004年納坦颱風侵襲台灣期間，**[哪一位台灣電視公司的記者](../Page/平宗正.md "wikilink")**捨己救人並因此殉職？
+  - **[哪一間檳榔攤](../Page/馬路楊.md "wikilink")**因為[一青妙的書籍](../Page/一青妙.md "wikilink")《我的台南》介紹而聞名？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[新埔鎮](../Page/新埔鎮.md "wikilink")**[哪座關帝廟](../Page/蓮華山三聖宮.md "wikilink")**，受當地警分局刑事組所信奉，[中華民國外交部官員還曾帶](../Page/中華民國外交部.md "wikilink")[祖魯國王古德威爾](https://zh.wikipedia.org/wiki/祖魯國王 "wikilink")·茲韋利蒂尼去祭拜？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[新埔鎮](../Page/新埔鎮.md "wikilink")**[哪間媽祖廟](../Page/新埔與天宮.md "wikilink")**，分靈自[北港朝天宮](https://zh.wikipedia.org/wiki/北港朝天宮 "wikilink")，在農曆正月時會舉行迎媽祖的祭祀？
 
 <noinclude>
 請將過去與台灣有關的「**[你知道嗎?](https://zh.wikipedia.org/wiki/WP:DYK "wikilink")**」存檔。月份依登上DYK的日期為準。
@@ -17,155 +17,155 @@
 
 #### 8月
 
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[新埔鎮居民](../Page/新埔鎮.md "wikilink")，昔日在[元宵節會聚集於](https://zh.wikipedia.org/wiki/元宵節 "wikilink")**[哪間三山國王廟](https://zh.wikipedia.org/wiki/新埔廣和宮 "wikilink")**分陣營互罵，演變成今日臺灣的客-{庄}-十二大節慶之一？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[新埔鎮](../Page/新埔鎮.md "wikilink")**[哪間廟宇](https://zh.wikipedia.org/wiki/新埔文昌祠 "wikilink")**為新竹最早的[文昌祠](https://zh.wikipedia.org/wiki/文昌祠 "wikilink")，在1949年焚毀後，近半世紀後才以小學活動中心暨文昌紀念館的名義重建？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[竹北市](../Page/竹北市.md "wikilink")**[哪座觀音寺](https://zh.wikipedia.org/wiki/竹北蓮華寺 "wikilink")**，建築列為[縣定古蹟](../Page/新竹縣文化資產.md "wikilink")，由[新埔鎮文山里](../Page/新埔鎮.md "wikilink")，及竹北市鹿場、東平、中興、隘口、東海、十興等7里信徒輪祀？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[北區](../Page/北區_\(新竹市\).md "wikilink")**[哪間王爺廟](https://zh.wikipedia.org/wiki/塹港富美宮 "wikilink")**分靈自[泉州富美宮](https://zh.wikipedia.org/wiki/泉州富美宮 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[澎湖縣地區的廟宇和法師流派](../Page/澎湖縣.md "wikilink")，**[分布狀況為何](https://zh.wikipedia.org/wiki/澎湖廟宇法師流派列表 "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[埔里鎮](../Page/埔里鎮.md "wikilink")**[哪座媽祖廟](https://zh.wikipedia.org/wiki/埔里恒吉宮 "wikilink")**，在農曆九月時會迎請[鹿港天后宮](../Page/鹿港天后宮.md "wikilink")、[彰化南瑤宮媽祖前來埔里近一個月](../Page/彰化南瑤宮.md "wikilink")？
-  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[澎湖地區的](https://zh.wikipedia.org/wiki/澎湖 "wikilink")**[哪座王爺廟](https://zh.wikipedia.org/wiki/風櫃威武金王殿 "wikilink")**，原先是主祀[萬善爺](https://zh.wikipedia.org/wiki/萬善爺 "wikilink")？
-  - 現今[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[澎湖地區廟宇的楹聯大多出自於](https://zh.wikipedia.org/wiki/澎湖 "wikilink")**[何人](https://zh.wikipedia.org/wiki/吳克文 "wikilink")**之筆墨？
-  - 台灣[望安鄉](https://zh.wikipedia.org/wiki/望安鄉 "wikilink")[西吉村在](https://zh.wikipedia.org/wiki/西吉 "wikilink")1979年廢村之後，原居民為延續西吉廟宇的香火，另在馬公市區建**[什麼廟宇](https://zh.wikipedia.org/wiki/西吉宮行臺 "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[埔里鎮](../Page/埔里鎮.md "wikilink")**[哪間城隍廟](https://zh.wikipedia.org/wiki/埔里瀛海城隍廟 "wikilink")**，由[臺灣府南路撫民理番同知](https://zh.wikipedia.org/wiki/臺灣府南路撫民理番同知 "wikilink")[吳本-{杰}-設立](https://zh.wikipedia.org/wiki/吳本杰 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[埔里鎮](../Page/埔里鎮.md "wikilink")**[哪棵茄苳樹](https://zh.wikipedia.org/wiki/埔里茄苳樹王公 "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")、及埔里最老的樹？
-  - [臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[埔里鎮](../Page/埔里鎮.md "wikilink")**[哪間廟宇](https://zh.wikipedia.org/wiki/義女廟 "wikilink")**，祭祀臺灣民間傳說的天水夫人？
-  - [臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[埔里鎮有](../Page/埔里鎮.md "wikilink")**[哪間噶哈巫族的廟宇](https://zh.wikipedia.org/wiki/平埔番祖廟 "wikilink")**，祭祀蜈蚣、守城、大湳與牛眠這四部落共同信仰的祖靈？
-  - 台灣社運媒體[苦勞網創辦人孫窮理](../Page/苦勞網.md "wikilink")，在2015年1月創辦了**[哪個非營利媒體](https://zh.wikipedia.org/wiki/焦點事件 "wikilink")**？
-  - **[哪座位在臺灣臺南市永康區的廟宇](https://zh.wikipedia.org/wiki/鹽行禹帝宮 "wikilink")**與過去的鹽場「洲南場」有關，與[鹽行天后宮同為](../Page/鹽行天后宮.md "wikilink")[鹽行的重要廟宇](../Page/鹽行.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[五結鄉有](https://zh.wikipedia.org/wiki/五結鄉 "wikilink")**[哪座廟](https://zh.wikipedia.org/wiki/馬良廟 "wikilink")**祭祀[噶瑪蘭族祖靈](../Page/噶瑪蘭族.md "wikilink")，在農曆十月廿一會有[花東地區的族人前來祭祀](https://zh.wikipedia.org/wiki/花東地區 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[羅東鎮](https://zh.wikipedia.org/wiki/羅東鎮_\(臺灣\) "wikilink")**[哪間城隍廟](../Page/羅東城隍廟.md "wikilink")**，祭祀開墾當地而死於[原漢衝突的](https://zh.wikipedia.org/wiki/原漢衝突 "wikilink")[巴宰族](../Page/巴宰族.md "wikilink")[阿里史社領袖潘賢文](https://zh.wikipedia.org/wiki/阿里史_\(羅東鎮\) "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[羅東鎮](https://zh.wikipedia.org/wiki/羅東鎮_\(臺灣\) "wikilink")**[哪座媽祖廟](https://zh.wikipedia.org/wiki/羅東震安宮 "wikilink")**其鎮殿神像作為[湄洲媽祖祖廟修復神像時的藍本](https://zh.wikipedia.org/wiki/湄洲媽祖祖廟 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[羅東鎮](https://zh.wikipedia.org/wiki/羅東鎮_\(臺灣\) "wikilink")**[哪間土地祠](https://zh.wikipedia.org/wiki/羅東中山公園福德廟 "wikilink")**，地方稱為「鎮長廟」，農曆二月初二時該地鎮長、鎮民代表、里長會抬其神轎在市區遶境？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[土城區](../Page/土城區.md "wikilink")**[哪座土地祠](https://zh.wikipedia.org/wiki/永寧福德宮、萬善堂 "wikilink")**兼為[陰廟](https://zh.wikipedia.org/wiki/陰廟 "wikilink")，其中陰廟主祀一位被尊稱為「楊大人」的人士？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[新埔鎮居民](../Page/新埔鎮.md "wikilink")，昔日在[元宵節會聚集於](https://zh.wikipedia.org/wiki/元宵節 "wikilink")**[哪間三山國王廟](../Page/新埔廣和宮.md "wikilink")**分陣營互罵，演變成今日臺灣的客-{庄}-十二大節慶之一？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[新埔鎮](../Page/新埔鎮.md "wikilink")**[哪間廟宇](../Page/新埔文昌祠.md "wikilink")**為新竹最早的[文昌祠](https://zh.wikipedia.org/wiki/文昌祠 "wikilink")，在1949年焚毀後，近半世紀後才以小學活動中心暨文昌紀念館的名義重建？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[竹北市](../Page/竹北市.md "wikilink")**[哪座觀音寺](../Page/竹北蓮華寺.md "wikilink")**，建築列為[縣定古蹟](../Page/新竹縣文化資產.md "wikilink")，由[新埔鎮文山里](../Page/新埔鎮.md "wikilink")，及竹北市鹿場、東平、中興、隘口、東海、十興等7里信徒輪祀？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[北區](../Page/北區_\(新竹市\).md "wikilink")**[哪間王爺廟](../Page/塹港富美宮.md "wikilink")**分靈自[泉州富美宮](https://zh.wikipedia.org/wiki/泉州富美宮 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[澎湖縣地區的廟宇和法師流派](../Page/澎湖縣.md "wikilink")，**[分布狀況為何](../Page/澎湖廟宇法師流派列表.md "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[埔里鎮](../Page/埔里鎮.md "wikilink")**[哪座媽祖廟](../Page/埔里恒吉宮.md "wikilink")**，在農曆九月時會迎請[鹿港天后宮](../Page/鹿港天后宮.md "wikilink")、[彰化南瑤宮媽祖前來埔里近一個月](../Page/彰化南瑤宮.md "wikilink")？
+  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[澎湖地區的](https://zh.wikipedia.org/wiki/澎湖 "wikilink")**[哪座王爺廟](../Page/風櫃威武金王殿.md "wikilink")**，原先是主祀[萬善爺](https://zh.wikipedia.org/wiki/萬善爺 "wikilink")？
+  - 現今[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[澎湖地區廟宇的楹聯大多出自於](https://zh.wikipedia.org/wiki/澎湖 "wikilink")**[何人](../Page/吳克文.md "wikilink")**之筆墨？
+  - 台灣[望安鄉](https://zh.wikipedia.org/wiki/望安鄉 "wikilink")[西吉村在](https://zh.wikipedia.org/wiki/西吉 "wikilink")1979年廢村之後，原居民為延續西吉廟宇的香火，另在馬公市區建**[什麼廟宇](../Page/西吉宮行臺.md "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[埔里鎮](../Page/埔里鎮.md "wikilink")**[哪間城隍廟](../Page/埔里瀛海城隍廟.md "wikilink")**，由[臺灣府南路撫民理番同知](https://zh.wikipedia.org/wiki/臺灣府南路撫民理番同知 "wikilink")[吳本-{杰}-設立](https://zh.wikipedia.org/wiki/吳本杰 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[埔里鎮](../Page/埔里鎮.md "wikilink")**[哪棵茄苳樹](../Page/埔里茄苳樹王公.md "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")、及埔里最老的樹？
+  - [臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[埔里鎮](../Page/埔里鎮.md "wikilink")**[哪間廟宇](../Page/義女廟.md "wikilink")**，祭祀臺灣民間傳說的天水夫人？
+  - [臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[埔里鎮有](../Page/埔里鎮.md "wikilink")**[哪間噶哈巫族的廟宇](../Page/平埔番祖廟.md "wikilink")**，祭祀蜈蚣、守城、大湳與牛眠這四部落共同信仰的祖靈？
+  - 台灣社運媒體[苦勞網創辦人孫窮理](../Page/苦勞網.md "wikilink")，在2015年1月創辦了**[哪個非營利媒體](../Page/焦點事件.md "wikilink")**？
+  - **[哪座位在臺灣臺南市永康區的廟宇](../Page/鹽行禹帝宮.md "wikilink")**與過去的鹽場「洲南場」有關，與[鹽行天后宮同為](../Page/鹽行天后宮.md "wikilink")[鹽行的重要廟宇](../Page/鹽行.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[五結鄉有](https://zh.wikipedia.org/wiki/五結鄉 "wikilink")**[哪座廟](../Page/馬良廟.md "wikilink")**祭祀[噶瑪蘭族祖靈](../Page/噶瑪蘭族.md "wikilink")，在農曆十月廿一會有[花東地區的族人前來祭祀](https://zh.wikipedia.org/wiki/花東地區 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[羅東鎮](https://zh.wikipedia.org/wiki/羅東鎮_\(臺灣\) "wikilink")**[哪間城隍廟](../Page/羅東城隍廟.md "wikilink")**，祭祀開墾當地而死於[原漢衝突的](https://zh.wikipedia.org/wiki/原漢衝突 "wikilink")[巴宰族](../Page/巴宰族.md "wikilink")[阿里史社領袖潘賢文](../Page/阿里史_\(羅東鎮\).md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[羅東鎮](https://zh.wikipedia.org/wiki/羅東鎮_\(臺灣\) "wikilink")**[哪座媽祖廟](../Page/羅東震安宮.md "wikilink")**其鎮殿神像作為[湄洲媽祖祖廟修復神像時的藍本](https://zh.wikipedia.org/wiki/湄洲媽祖祖廟 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[羅東鎮](https://zh.wikipedia.org/wiki/羅東鎮_\(臺灣\) "wikilink")**[哪間土地祠](../Page/羅東中山公園福德廟.md "wikilink")**，地方稱為「鎮長廟」，農曆二月初二時該地鎮長、鎮民代表、里長會抬其神轎在市區遶境？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[土城區](../Page/土城區.md "wikilink")**[哪座土地祠](../Page/永寧福德宮、萬善堂.md "wikilink")**兼為[陰廟](https://zh.wikipedia.org/wiki/陰廟 "wikilink")，其中陰廟主祀一位被尊稱為「楊大人」的人士？
   - **[哪一座廟宇](../Page/嘉義雙忠廟.md "wikilink")**被認為是臺灣[嘉義市第一座廟宇](../Page/嘉義市.md "wikilink")，也是臺灣歷史最久的[雙忠廟](../Page/雙忠廟.md "wikilink")？
-  - 臺灣[南瀛五大香之中的](../Page/南瀛五大香.md "wikilink")[西港香最初是由](https://zh.wikipedia.org/wiki/西港香 "wikilink")**[哪一間廟宇](https://zh.wikipedia.org/wiki/八份姑媽宮 "wikilink")**所主辦的？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[蘆洲區](../Page/蘆洲區.md "wikilink")**[哪座土地祠](https://zh.wikipedia.org/wiki/灰磘福壽宮 "wikilink")**，與開墾蘆洲的[新竹城隍廟和尚梅福有關聯](https://zh.wikipedia.org/wiki/新竹城隍廟 "wikilink")，原位於[蘆洲線隧道出入口處](../Page/蘆洲線.md "wikilink")，後遷至巷弄內？
-  - 臺灣臺南市[善化區](https://zh.wikipedia.org/wiki/善化區 "wikilink")**[哪一位參與過臺灣民主國抗日的歷史人物](https://zh.wikipedia.org/wiki/陳子鏞 "wikilink")**的故居在2014年整理為紀念公園，但在2015年12月遭到拆除？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[大同區](../Page/大同區_\(臺灣\).md "wikilink")**[哪間土地祠](https://zh.wikipedia.org/wiki/大龍峒福壽宮 "wikilink")**，先後因興建[淡水線](../Page/淡水線_\(臺鐵\).md "wikilink")、臺北市職業訓練中心、及拓寬敦煌路而遷移，最後蓋在人行道上？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[楊梅區](https://zh.wikipedia.org/wiki/楊梅區 "wikilink")**[哪間陰廟](https://zh.wikipedia.org/wiki/集義祠 "wikilink")**，輪祀圈分為八大-{庄}-，涵蓋楊梅、[新屋](../Page/新屋區.md "wikilink")，及[新竹的](../Page/新竹縣.md "wikilink")[湖口](https://zh.wikipedia.org/wiki/湖口鄉 "wikilink")、[新豐地區](https://zh.wikipedia.org/wiki/新豐鄉_\(台灣\) "wikilink")？
+  - 臺灣[南瀛五大香之中的](../Page/南瀛五大香.md "wikilink")[西港香最初是由](https://zh.wikipedia.org/wiki/西港香 "wikilink")**[哪一間廟宇](../Page/八份姑媽宮.md "wikilink")**所主辦的？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[蘆洲區](../Page/蘆洲區.md "wikilink")**[哪座土地祠](../Page/灰磘福壽宮.md "wikilink")**，與開墾蘆洲的[新竹城隍廟和尚梅福有關聯](https://zh.wikipedia.org/wiki/新竹城隍廟 "wikilink")，原位於[蘆洲線隧道出入口處](../Page/蘆洲線.md "wikilink")，後遷至巷弄內？
+  - 臺灣臺南市[善化區](https://zh.wikipedia.org/wiki/善化區 "wikilink")**[哪一位參與過臺灣民主國抗日的歷史人物](../Page/陳子鏞.md "wikilink")**的故居在2014年整理為紀念公園，但在2015年12月遭到拆除？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[大同區](../Page/大同區_\(臺灣\).md "wikilink")**[哪間土地祠](../Page/大龍峒福壽宮.md "wikilink")**，先後因興建[淡水線](../Page/淡水線_\(臺鐵\).md "wikilink")、臺北市職業訓練中心、及拓寬敦煌路而遷移，最後蓋在人行道上？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[楊梅區](https://zh.wikipedia.org/wiki/楊梅區 "wikilink")**[哪間陰廟](../Page/集義祠.md "wikilink")**，輪祀圈分為八大-{庄}-，涵蓋楊梅、[新屋](../Page/新屋區.md "wikilink")，及[新竹的](../Page/新竹縣.md "wikilink")[湖口](https://zh.wikipedia.org/wiki/湖口鄉 "wikilink")、[新豐地區](https://zh.wikipedia.org/wiki/新豐鄉_\(台灣\) "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[新屋區](../Page/新屋區.md "wikilink")**[哪座媽祖廟](../Page/新屋天后宮.md "wikilink")**有一座約高30公尺的媽祖青銅巨像？
-  - 2015年起，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[全聯福利中心推出了](../Page/全聯福利中心.md "wikilink")**[哪一隻吉祥物](https://zh.wikipedia.org/wiki/福利熊 "wikilink")**來幫忙宣傳？
-  - [統一超商的](../Page/統一超商.md "wikilink")**[哪一支廣告](https://zh.wikipedia.org/wiki/世上最幸福的事 "wikilink")**中呈現幫前女友買演唱會門票的蕭博駿是一位「工具人」？
-  - 臺灣[臺東縣](../Page/臺東縣.md "wikilink")[成功鎮有](https://zh.wikipedia.org/wiki/成功鎮 "wikilink")**[哪一座落成於1968年的教堂](https://zh.wikipedia.org/wiki/小馬天主堂 "wikilink")**被列為歷史建築，其外觀有類似扶壁的結構與錐狀屋頂？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[新屋區](../Page/新屋區.md "wikilink")**[哪間王爺廟](https://zh.wikipedia.org/wiki/蚵殼港昭靈宮 "wikilink")**為從同一里的[新屋福興宮所分出](https://zh.wikipedia.org/wiki/新屋福興宮 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[新屋綠色走廊自行車道終點有](../Page/新屋區.md "wikilink")**[哪座王爺廟](https://zh.wikipedia.org/wiki/新屋福興宮 "wikilink")**，主祀七位女神？
+  - 2015年起，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[全聯福利中心推出了](../Page/全聯福利中心.md "wikilink")**[哪一隻吉祥物](../Page/福利熊.md "wikilink")**來幫忙宣傳？
+  - [統一超商的](../Page/統一超商.md "wikilink")**[哪一支廣告](../Page/世上最幸福的事.md "wikilink")**中呈現幫前女友買演唱會門票的蕭博駿是一位「工具人」？
+  - 臺灣[臺東縣](../Page/臺東縣.md "wikilink")[成功鎮有](https://zh.wikipedia.org/wiki/成功鎮 "wikilink")**[哪一座落成於1968年的教堂](../Page/小馬天主堂.md "wikilink")**被列為歷史建築，其外觀有類似扶壁的結構與錐狀屋頂？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[新屋區](../Page/新屋區.md "wikilink")**[哪間王爺廟](../Page/蚵殼港昭靈宮.md "wikilink")**為從同一里的[新屋福興宮所分出](../Page/新屋福興宮.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[新屋綠色走廊自行車道終點有](../Page/新屋區.md "wikilink")**[哪座王爺廟](../Page/新屋福興宮.md "wikilink")**，主祀七位女神？
   - [中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")**[哪一年的總冠軍賽](https://zh.wikipedia.org/wiki/2014年中華職棒總冠軍賽 "wikilink")**是[中信兄弟在](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink")[中信集團接手後首度參與](../Page/中國信託金融控股.md "wikilink")[總冠軍賽](https://zh.wikipedia.org/wiki/台灣大賽 "wikilink")？
-  - **[哪一款臺灣菸酒公司推出的泡麵](https://zh.wikipedia.org/wiki/台酒花雕雞麵 "wikilink")**用花雕酒搭配雞肉，在2015年造成搶購風潮？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[新屋區](../Page/新屋區.md "wikilink")**[哪間陰廟](https://zh.wikipedia.org/wiki/十五王公廟 "wikilink")**祭祀十五位海難者，[西部濱海快速公路因此廟而變更路線](https://zh.wikipedia.org/wiki/西部濱海快速公路 "wikilink")？
+  - **[哪一款臺灣菸酒公司推出的泡麵](../Page/台酒花雕雞麵.md "wikilink")**用花雕酒搭配雞肉，在2015年造成搶購風潮？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[新屋區](../Page/新屋區.md "wikilink")**[哪間陰廟](../Page/十五王公廟.md "wikilink")**祭祀十五位海難者，[西部濱海快速公路因此廟而變更路線](https://zh.wikipedia.org/wiki/西部濱海快速公路 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大溪區](https://zh.wikipedia.org/wiki/大溪區 "wikilink")**[哪間觀音寺](../Page/大溪龍山寺.md "wikilink")**分靈自[艋舺龍山寺](../Page/艋舺龍山寺.md "wikilink")，[觀音誕時居民會宰殺黑豬慶祝](https://zh.wikipedia.org/wiki/觀音誕 "wikilink")？
 
 #### 7月
 
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大溪區](https://zh.wikipedia.org/wiki/大溪區 "wikilink")**[哪間神農廟](https://zh.wikipedia.org/wiki/大溪永昌宮 "wikilink")**，為[客家族群所建](../Page/詔安客家人.md "wikilink")，其主神神像卻曾傳出是[開漳聖王像](https://zh.wikipedia.org/wiki/開漳聖王 "wikilink")？
-  - **[哪一位歷史學者](https://zh.wikipedia.org/wiki/黃典權 "wikilink")**於[廈門大學畢業](https://zh.wikipedia.org/wiki/廈門大學 "wikilink")，長期主編臺灣臺南市文獻委員會期刊《臺南文化》，對[臺南等地的史料收集有相當的貢獻](https://zh.wikipedia.org/wiki/臺南市 "wikilink")？
-  - 在臺灣[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[白河區](https://zh.wikipedia.org/wiki/白河區 "wikilink")，**[哪位歷史人物](https://zh.wikipedia.org/wiki/吳志高 "wikilink")**有在地方上興築水利設施、修建廟宇的事蹟，卻也有打壓基督教，引發「白水溪事件」的記錄？
-  - [2017年颱風卡努在臺灣引發共伴效應降雨](https://zh.wikipedia.org/wiki/颱風卡努_\(2017年\) "wikilink")，造成了**[哪一場豪雨事件](https://zh.wikipedia.org/wiki/2017年10月臺灣暴雨 "wikilink")**的出現？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大溪區](https://zh.wikipedia.org/wiki/大溪區 "wikilink")**[哪間神農廟](../Page/大溪永昌宮.md "wikilink")**，為[客家族群所建](../Page/詔安客家人.md "wikilink")，其主神神像卻曾傳出是[開漳聖王像](https://zh.wikipedia.org/wiki/開漳聖王 "wikilink")？
+  - **[哪一位歷史學者](../Page/黃典權.md "wikilink")**於[廈門大學畢業](https://zh.wikipedia.org/wiki/廈門大學 "wikilink")，長期主編臺灣臺南市文獻委員會期刊《臺南文化》，對[臺南等地的史料收集有相當的貢獻](https://zh.wikipedia.org/wiki/臺南市 "wikilink")？
+  - 在臺灣[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[白河區](https://zh.wikipedia.org/wiki/白河區 "wikilink")，**[哪位歷史人物](../Page/吳志高.md "wikilink")**有在地方上興築水利設施、修建廟宇的事蹟，卻也有打壓基督教，引發「白水溪事件」的記錄？
+  - [2017年颱風卡努在臺灣引發共伴效應降雨](../Page/颱風卡努_\(2017年\).md "wikilink")，造成了**[哪一場豪雨事件](../Page/2017年10月臺灣暴雨.md "wikilink")**的出現？
   - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[三芝區](../Page/三芝區.md "wikilink")**[哪座媽祖廟](../Page/三芝福成宮.md "wikilink")**，供奉[臺北大天后宮的官祀媽祖神像](../Page/臺北大天后宮.md "wikilink")，廟方每年會帶該神像回[臺北市參加聯合祭典](../Page/臺北市.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[淡水區](../Page/淡水區.md "wikilink")**[哪間哪吒廟](https://zh.wikipedia.org/wiki/淡水太子廟 "wikilink")**，在興建[淡海新市鎮一期時獲得保留](../Page/淡海新市鎮.md "wikilink")，但須支付新台幣2200萬購回廟地？
-  - 台灣藝人[炎亞綸曾在](../Page/炎亞綸.md "wikilink")[2015年花蓮地震後提出](../Page/2015年花蓮地震.md "wikilink")**[什麼說法](https://zh.wikipedia.org/wiki/下雨地震說 "wikilink")**引起網友大量關注？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[淡水區](../Page/淡水區.md "wikilink")[淡海新市鎮](../Page/淡海新市鎮.md "wikilink")**[哪間土地祠](https://zh.wikipedia.org/wiki/北投里福德宮 "wikilink")**，在建廟後因地主領走徵收費而成了違章建築，數度面臨拆除？
-  - 1998年11月2日，[國科會副主委](https://zh.wikipedia.org/wiki/中華民國科技部 "wikilink")[蔡清彥為祈求](../Page/蔡清彥.md "wikilink")[華衛一號衛星升空順利](https://zh.wikipedia.org/wiki/華衛一號 "wikilink")，率領團體去[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")**[哪間土地廟](https://zh.wikipedia.org/wiki/金山集福宮 "wikilink")**祭拜？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[淡水區](../Page/淡水區.md "wikilink")**[哪間哪吒廟](../Page/淡水太子廟.md "wikilink")**，在興建[淡海新市鎮一期時獲得保留](../Page/淡海新市鎮.md "wikilink")，但須支付新台幣2200萬購回廟地？
+  - 台灣藝人[炎亞綸曾在](../Page/炎亞綸.md "wikilink")[2015年花蓮地震後提出](../Page/2015年花蓮地震.md "wikilink")**[什麼說法](../Page/下雨地震說.md "wikilink")**引起網友大量關注？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[淡水區](../Page/淡水區.md "wikilink")[淡海新市鎮](../Page/淡海新市鎮.md "wikilink")**[哪間土地祠](../Page/北投里福德宮.md "wikilink")**，在建廟後因地主領走徵收費而成了違章建築，數度面臨拆除？
+  - 1998年11月2日，[國科會副主委](https://zh.wikipedia.org/wiki/中華民國科技部 "wikilink")[蔡清彥為祈求](../Page/蔡清彥.md "wikilink")[華衛一號衛星升空順利](https://zh.wikipedia.org/wiki/華衛一號 "wikilink")，率領團體去[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")**[哪間土地廟](../Page/金山集福宮.md "wikilink")**祭拜？
   - [中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")**[哪一年的明星賽](https://zh.wikipedia.org/wiki/2017年中華職棒紅白明星對抗賽 "wikilink")**是首次在[臺灣東部進行的明星賽](https://zh.wikipedia.org/wiki/臺灣東部 "wikilink")？
-  - 由於[中華職棒28年上下半季冠軍由同一支球隊取得](https://zh.wikipedia.org/wiki/中華職棒28年 "wikilink")，所以需要進行**[哪場比賽](https://zh.wikipedia.org/wiki/2017年中華職棒季後挑戰賽 "wikilink")**，並且是繼[2008年後再度出現](https://zh.wikipedia.org/wiki/2008年中華職棒季後挑戰賽 "wikilink")？
-  - **[哪條公路](https://zh.wikipedia.org/wiki/屏202線 "wikilink")**為[臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[琉球鄉的環島公路](../Page/琉球鄉.md "wikilink")？
+  - 由於[中華職棒28年上下半季冠軍由同一支球隊取得](../Page/中華職棒28年.md "wikilink")，所以需要進行**[哪場比賽](https://zh.wikipedia.org/wiki/2017年中華職棒季後挑戰賽 "wikilink")**，並且是繼[2008年後再度出現](https://zh.wikipedia.org/wiki/2008年中華職棒季後挑戰賽 "wikilink")？
+  - **[哪條公路](../Page/屏202線.md "wikilink")**為[臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[琉球鄉的環島公路](../Page/琉球鄉.md "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[板橋區](https://zh.wikipedia.org/wiki/板橋區_\(台灣\) "wikilink")**[哪間土地祠](../Page/深丘福德宮.md "wikilink")**，轄管深丘、東丘、香丘、民生、長安、東安、西安、福丘此8里，先後因興建[臺北縣議會大樓](https://zh.wikipedia.org/wiki/臺北縣議會 "wikilink")、[新板特區而遷移](https://zh.wikipedia.org/wiki/新板特區 "wikilink")？
-  - [中華職棒29年](https://zh.wikipedia.org/wiki/中華職棒29年 "wikilink")**[哪一個特別賽事](https://zh.wikipedia.org/wiki/2018年中華職棒五項戰技對抗賽 "wikilink")**是繼2005年再度舉辦的賽事？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[東區](../Page/東區_\(新竹市\).md "wikilink")**[哪間廟宇](https://zh.wikipedia.org/wiki/福龍山宮 "wikilink")**被報導說為新竹市最富有的土地祠，擁有約兩萬坪的地產？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[竹北市](../Page/竹北市.md "wikilink")**[哪座土地祠](https://zh.wikipedia.org/wiki/竹北伍福宮 "wikilink")**，位在兒七公園，祭祀十興-{里}-因規劃縣治二期都市計畫區而被迫拆遷的五尊土地神？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[竹北市](../Page/竹北市.md "wikilink")[隘口地區有](https://zh.wikipedia.org/wiki/隘口_\(大字\) "wikilink")**[哪座土地祠](https://zh.wikipedia.org/wiki/隘口伯公廣福宮 "wikilink")**，坐落於兩棵老榕樹前，在興建[臺灣高鐵時](https://zh.wikipedia.org/wiki/臺灣高鐵 "wikilink")，廟與樹身皆獲得原地保存？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[關西鎮](https://zh.wikipedia.org/wiki/關西鎮_\(臺灣\) "wikilink")**[哪間佛寺](https://zh.wikipedia.org/wiki/關西潮音禪寺 "wikilink")**為[泰國建築風格](https://zh.wikipedia.org/wiki/泰國 "wikilink")？
-  - 2017年6月初臺灣發生[暴雨事件時隔一週後](https://zh.wikipedia.org/wiki/2017年6月初臺灣暴雨 "wikilink")，臺灣又再次因典型梅雨鋒面發生**[哪起天氣災害](https://zh.wikipedia.org/wiki/2017年6月中旬臺灣暴雨 "wikilink")**？
-  - **[哪一個古墓群墓](https://zh.wikipedia.org/wiki/滬尾湖南勇古墓 "wikilink")**為新北市直轄市定古蹟，埋葬了六位[孫開華麾下的兵勇](../Page/孫開華.md "wikilink")？
-  - [中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")**[哪一年的明星賽](https://zh.wikipedia.org/wiki/2018年中華職棒紅白明星對抗賽 "wikilink")**是[2010年以後首次在](https://zh.wikipedia.org/wiki/2010年中華職棒明星賽 "wikilink")[臺北市進行](../Page/臺北市.md "wikilink")？
-  - **[哪一間土地公廟](https://zh.wikipedia.org/wiki/鎮轅境頂土地廟 "wikilink")**據說是位在臺灣臺南市[總爺古街](../Page/總爺街.md "wikilink")「蜈蚣穴」的頭部，且被認為是適合求官的去處？
-  - **[哪一間土地公廟](https://zh.wikipedia.org/wiki/總祿境下土地廟 "wikilink")**據說因為在臺灣臺南市[總爺古街地勢較低處](../Page/總爺街.md "wikilink")，而被認為是適合求財的去處？
+  - [中華職棒29年](https://zh.wikipedia.org/wiki/中華職棒29年 "wikilink")**[哪一個特別賽事](../Page/2018年中華職棒五項戰技對抗賽.md "wikilink")**是繼2005年再度舉辦的賽事？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[東區](../Page/東區_\(新竹市\).md "wikilink")**[哪間廟宇](../Page/福龍山宮.md "wikilink")**被報導說為新竹市最富有的土地祠，擁有約兩萬坪的地產？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[竹北市](../Page/竹北市.md "wikilink")**[哪座土地祠](../Page/竹北伍福宮.md "wikilink")**，位在兒七公園，祭祀十興-{里}-因規劃縣治二期都市計畫區而被迫拆遷的五尊土地神？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[竹北市](../Page/竹北市.md "wikilink")[隘口地區有](../Page/隘口_\(大字\).md "wikilink")**[哪座土地祠](../Page/隘口伯公廣福宮.md "wikilink")**，坐落於兩棵老榕樹前，在興建[臺灣高鐵時](https://zh.wikipedia.org/wiki/臺灣高鐵 "wikilink")，廟與樹身皆獲得原地保存？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[關西鎮](https://zh.wikipedia.org/wiki/關西鎮_\(臺灣\) "wikilink")**[哪間佛寺](../Page/關西潮音禪寺.md "wikilink")**為[泰國建築風格](https://zh.wikipedia.org/wiki/泰國 "wikilink")？
+  - 2017年6月初臺灣發生[暴雨事件時隔一週後](../Page/2017年6月初臺灣暴雨.md "wikilink")，臺灣又再次因典型梅雨鋒面發生**[哪起天氣災害](../Page/2017年6月中旬臺灣暴雨.md "wikilink")**？
+  - **[哪一個古墓群墓](../Page/滬尾湖南勇古墓.md "wikilink")**為新北市直轄市定古蹟，埋葬了六位[孫開華麾下的兵勇](../Page/孫開華.md "wikilink")？
+  - [中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")**[哪一年的明星賽](../Page/2018年中華職棒紅白明星對抗賽.md "wikilink")**是[2010年以後首次在](https://zh.wikipedia.org/wiki/2010年中華職棒明星賽 "wikilink")[臺北市進行](../Page/臺北市.md "wikilink")？
+  - **[哪一間土地公廟](../Page/鎮轅境頂土地廟.md "wikilink")**據說是位在臺灣臺南市[總爺古街](../Page/總爺街.md "wikilink")「蜈蚣穴」的頭部，且被認為是適合求官的去處？
+  - **[哪一間土地公廟](../Page/總祿境下土地廟.md "wikilink")**據說因為在臺灣臺南市[總爺古街地勢較低處](../Page/總爺街.md "wikilink")，而被認為是適合求財的去處？
   - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[關西鎮](https://zh.wikipedia.org/wiki/關西鎮_\(臺灣\) "wikilink")**[哪間三官大帝廟](../Page/關西太和宮.md "wikilink")**，廟身列為[新竹縣古蹟](https://zh.wikipedia.org/wiki/新竹縣古蹟 "wikilink")，建立緣由是作為抵禦[泰雅族的防禦中心](../Page/泰雅族.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[新埔鎮](../Page/新埔鎮.md "wikilink")**[哪三株在校園內的楓香樹](https://zh.wikipedia.org/wiki/文山國小楓樹伯公 "wikilink")**，被當地人視為[神樹](https://zh.wikipedia.org/wiki/神樹 "wikilink")，學童們會在始業式上對它們獻上束脩？
-  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[卓蘭鎮](../Page/卓蘭鎮.md "wikilink")**[哪座三山國王廟](https://zh.wikipedia.org/wiki/峨崙廟 "wikilink")**，其廟鐘作為[苗栗縣政府在](../Page/苗栗縣政府.md "wikilink")2000年[千禧年跨年的千禧鐘](https://zh.wikipedia.org/wiki/千禧年 "wikilink")，卻相傳昔日人們不敢敲此鐘？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[新埔鎮](../Page/新埔鎮.md "wikilink")**[哪三株在校園內的楓香樹](../Page/文山國小楓樹伯公.md "wikilink")**，被當地人視為[神樹](https://zh.wikipedia.org/wiki/神樹 "wikilink")，學童們會在始業式上對它們獻上束脩？
+  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[卓蘭鎮](../Page/卓蘭鎮.md "wikilink")**[哪座三山國王廟](../Page/峨崙廟.md "wikilink")**，其廟鐘作為[苗栗縣政府在](../Page/苗栗縣政府.md "wikilink")2000年[千禧年跨年的千禧鐘](https://zh.wikipedia.org/wiki/千禧年 "wikilink")，卻相傳昔日人們不敢敲此鐘？
   - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[車城鄉](../Page/車城鄉_\(台灣\).md "wikilink")**[哪座廟宇](../Page/車城福安宮.md "wikilink")**，被報導是臺灣最大的[土地公廟](https://zh.wikipedia.org/wiki/土地公廟 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[關西鎮](https://zh.wikipedia.org/wiki/關西鎮_\(臺灣\) "wikilink")[市道118號旁](../Page/市道118號.md "wikilink")**[哪座廟宇](https://zh.wikipedia.org/wiki/關西石爺亭 "wikilink")**供奉被當地視為夫妻的兩顆石頭？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[關西鎮](https://zh.wikipedia.org/wiki/關西鎮_\(臺灣\) "wikilink")[市道118號旁](../Page/市道118號.md "wikilink")**[哪座廟宇](../Page/關西石爺亭.md "wikilink")**供奉被當地視為夫妻的兩顆石頭？
   - 臺灣**[哪位匠師](../Page/葉根壯.md "wikilink")**保存二百九十六張傳統木造廟宇圖面手稿，卻不幸在[2014年澎湖空難中罹難](https://zh.wikipedia.org/wiki/2014年澎湖空難 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[中正區](https://zh.wikipedia.org/wiki/中正區_\(臺北市\) "wikilink")**[哪間陰廟](../Page/古亭地府陰公廟.md "wikilink")**坐落在[羅斯福路二段的人行道上](../Page/羅斯福路_\(台北市\).md "wikilink")，被曾住廈門街的作家[余光中寫入散文](../Page/余光中.md "wikilink")
   - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[中正區](https://zh.wikipedia.org/wiki/中正區_\(臺北市\) "wikilink")**[哪間城隍廟](../Page/臺灣省城隍廟.md "wikilink")**，主神為臺北市[城隍爺信仰的省城隍](https://zh.wikipedia.org/wiki/城隍爺 "wikilink")，與[台北府城隍廟都是源自臺北府縣城隍廟](../Page/台北府城隍廟.md "wikilink")？
   - 台灣-{zh-cn:通过;zh-tw:透過;zh-hk:通過;}-[**哪一個國家標準**與國際接軌](https://zh.wikipedia.org/wiki/CNS_21500 "wikilink")，來幫助公司及政府提高[專案成功率](https://zh.wikipedia.org/wiki/專案管理 "wikilink")，並確保專案可如期、如質、如預算來完成？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[中壢區](https://zh.wikipedia.org/wiki/中壢區 "wikilink")**[哪間土地祠](https://zh.wikipedia.org/wiki/光明里福德宮 "wikilink")**，因原廟地遭變賣、廟身被偷拆，而遷至公園？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[中壢區](https://zh.wikipedia.org/wiki/中壢區 "wikilink")**[哪間土地祠](../Page/光明里福德宮.md "wikilink")**，因原廟地遭變賣、廟身被偷拆，而遷至公園？
 
 #### 6月
 
-  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[士林區](../Page/士林區.md "wikilink")**[哪座校園內的土地祠](https://zh.wikipedia.org/wiki/永平福德宮 "wikilink")**，為[臺北市政府同意學校與佔用校地的寺廟共存的首例](../Page/臺北市政府.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[淡水區](../Page/淡水區.md "wikilink")[淡海新市鎮的](../Page/淡海新市鎮.md "wikilink")**[哪間陰廟](https://zh.wikipedia.org/wiki/大庄萬善堂 "wikilink")**，有祭祀[中法戰爭](https://zh.wikipedia.org/wiki/中法戰爭 "wikilink")[淡水戰役陣亡的清軍](../Page/西仔反.md "wikilink")，後捲入藝人[周杰倫母親葉惠美的購屋官司](../Page/周杰倫.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[士林區](../Page/士林區.md "wikilink")**[哪座校園內的土地祠](../Page/永平福德宮.md "wikilink")**，為[臺北市政府同意學校與佔用校地的寺廟共存的首例](../Page/臺北市政府.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[淡水區](../Page/淡水區.md "wikilink")[淡海新市鎮的](../Page/淡海新市鎮.md "wikilink")**[哪間陰廟](../Page/大庄萬善堂.md "wikilink")**，有祭祀[中法戰爭](https://zh.wikipedia.org/wiki/中法戰爭 "wikilink")[淡水戰役陣亡的清軍](../Page/西仔反.md "wikilink")，後捲入藝人[周杰倫母親葉惠美的購屋官司](../Page/周杰倫.md "wikilink")？
   - 1635年至1636年間的**[什麼歷史事件](../Page/荷蘭在臺灣之平定行動.md "wikilink")**，翻轉了局勢、穩固了[荷蘭東印度公司在](https://zh.wikipedia.org/wiki/荷蘭東印度公司 "wikilink")[南臺灣的統治地位](https://zh.wikipedia.org/wiki/臺灣南部 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[淡水區](../Page/淡水區.md "wikilink")**[哪座鸞堂](https://zh.wikipedia.org/wiki/淡水屯山古聖廟行忠堂 "wikilink")**有[淡水神社的遺構](../Page/淡水神社.md "wikilink")？
-  - **[哪一場由國立臺灣大學學生發起的抗爭運動](https://zh.wikipedia.org/wiki/自由之愛運動 "wikilink")**，是臺灣1980年代第一場大型的學生抗爭運動？
-  - [臺灣](../Page/臺灣.md "wikilink")[高雄市](../Page/高雄市.md "wikilink")[美濃區](../Page/美濃區.md "wikilink")**[哪座鸞堂](https://zh.wikipedia.org/wiki/美濃廣善堂 "wikilink")**廟身列為[高雄市歷史建築](https://zh.wikipedia.org/wiki/高雄市歷史建築 "wikilink")，農曆正月初九舉行的[字紙祭儀式則是](https://zh.wikipedia.org/wiki/字紙祭 "wikilink")[高雄市無形文化資產](https://zh.wikipedia.org/wiki/高雄市無形文化資產 "wikilink")？
-  - **[哪一個倡議修正《大學法》的組織](https://zh.wikipedia.org/wiki/大學法改革促進會 "wikilink")**，是臺灣第一個跨校學生運動聯合組織？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[淡水區](../Page/淡水區.md "wikilink")**[哪座鸞堂](../Page/淡水屯山古聖廟行忠堂.md "wikilink")**有[淡水神社的遺構](../Page/淡水神社.md "wikilink")？
+  - **[哪一場由國立臺灣大學學生發起的抗爭運動](../Page/自由之愛運動.md "wikilink")**，是臺灣1980年代第一場大型的學生抗爭運動？
+  - [臺灣](../Page/臺灣.md "wikilink")[高雄市](../Page/高雄市.md "wikilink")[美濃區](../Page/美濃區.md "wikilink")**[哪座鸞堂](../Page/美濃廣善堂.md "wikilink")**廟身列為[高雄市歷史建築](https://zh.wikipedia.org/wiki/高雄市歷史建築 "wikilink")，農曆正月初九舉行的[字紙祭儀式則是](https://zh.wikipedia.org/wiki/字紙祭 "wikilink")[高雄市無形文化資產](https://zh.wikipedia.org/wiki/高雄市無形文化資產 "wikilink")？
+  - **[哪一個倡議修正《大學法》的組織](../Page/大學法改革促進會.md "wikilink")**，是臺灣第一個跨校學生運動聯合組織？
   - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[三重區](https://zh.wikipedia.org/wiki/三重區 "wikilink")**[哪間神農廟](../Page/先嗇宮.md "wikilink")**，其祭祀圈作為三重與[蘆洲的行政分界](https://zh.wikipedia.org/wiki/蘆洲 "wikilink")，廟身被列為[新北市文化資產](../Page/新北市文化資產.md "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[大同區](../Page/大同區_\(臺灣\).md "wikilink")**[哪間法主真君廟](../Page/臺北法主公廟.md "wikilink")**，源自安溪人信仰，與[大稻埕霞海城隍廟](../Page/大稻埕霞海城隍廟.md "wikilink")、[大稻埕慈聖宮並列為](../Page/大稻埕慈聖宮.md "wikilink")[大稻埕三大廟](../Page/大稻埕.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[桃園區](https://zh.wikipedia.org/wiki/桃園區 "wikilink")**[哪間廣澤尊王廟](https://zh.wikipedia.org/wiki/鎮撫宮 "wikilink")**，為[小檜溪的信仰中心](https://zh.wikipedia.org/wiki/小檜溪 "wikilink")，在2015年重建完工時欠了新台幣6000萬的貸款？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[桃園區](https://zh.wikipedia.org/wiki/桃園區 "wikilink")**[哪間廣澤尊王廟](../Page/鎮撫宮.md "wikilink")**，為[小檜溪的信仰中心](../Page/小檜溪.md "wikilink")，在2015年重建完工時欠了新台幣6000萬的貸款？
   - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[平鎮區](https://zh.wikipedia.org/wiki/平鎮區 "wikilink")**[哪座義民廟](../Page/平鎮褒忠祠.md "wikilink")**，與[中壢仁海宮共領](../Page/中壢仁海宮.md "wikilink")[中壢](https://zh.wikipedia.org/wiki/中壢區 "wikilink")、平鎮和[楊梅十三](https://zh.wikipedia.org/wiki/楊梅區 "wikilink")-{庄}-祭祀圈？
-  - 位於[臺灣](../Page/臺灣.md "wikilink")[高雄市的](../Page/高雄市.md "wikilink")**[哪一所國小](https://zh.wikipedia.org/wiki/高雄市左營區新光國民小學 "wikilink")**擁有空中蝴蝶園設施？
+  - 位於[臺灣](../Page/臺灣.md "wikilink")[高雄市的](../Page/高雄市.md "wikilink")**[哪一所國小](../Page/高雄市左營區新光國民小學.md "wikilink")**擁有空中蝴蝶園設施？
   - 全[台灣最大的青銅](https://zh.wikipedia.org/wiki/台灣 "wikilink")[五穀神農像座落在](https://zh.wikipedia.org/wiki/神農氏 "wikilink")**[台灣新屋區的哪一座廟裡](https://zh.wikipedia.org/wiki/長祥宫 "wikilink")**？
-  - **[哪一起職業災害事故](https://zh.wikipedia.org/wiki/飛歌事件 "wikilink")**促使臺灣[立法院於](../Page/立法院.md "wikilink")1974年通過《[勞工安全衛生法](https://zh.wikipedia.org/wiki/職業安全衛生法 "wikilink")》？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[平鎮區](https://zh.wikipedia.org/wiki/平鎮區 "wikilink")**[哪間土地祠](https://zh.wikipedia.org/wiki/平鎮廣隆宮 "wikilink")**為平鎮[宋屋地區九個里的信仰中心](https://zh.wikipedia.org/wiki/宋屋 "wikilink")，其土地神稱為「大伯公」？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[中壢區](https://zh.wikipedia.org/wiki/中壢區 "wikilink")**[哪座土地祠](https://zh.wikipedia.org/wiki/永福福德宮 "wikilink")**建物狀似合掌？
-  - [澎湖天后宮現今的建築樣貌是由](../Page/澎湖天后宮.md "wikilink")**[哪位大木匠師](https://zh.wikipedia.org/wiki/藍木 "wikilink")**設計的？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[西屯區](../Page/西屯區.md "wikilink")**[哪口水井](https://zh.wikipedia.org/wiki/蓮蕉井 "wikilink")**，曾被運動飲料[舒跑作為水源](https://zh.wikipedia.org/wiki/舒跑 "wikilink")？
-  - 澎湖地區的**[哪間公廟](https://zh.wikipedia.org/wiki/澎湖三官殿 "wikilink")**，係由涼亭改建而成？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[伸港鄉](https://zh.wikipedia.org/wiki/伸港鄉 "wikilink")**[哪間姑娘廟](https://zh.wikipedia.org/wiki/伸慶宮 "wikilink")**，祭祀一名溺死的少女，香火在1950年代末到1960年代初盛行一時，引起政府禁止祭拜？
-  - 在[南投县](https://zh.wikipedia.org/wiki/南投县 "wikilink")[集集镇的](https://zh.wikipedia.org/wiki/集集镇 "wikilink")**[哪一座登天步道](https://zh.wikipedia.org/wiki/狮头山登天步道 "wikilink")**上可以看到一级古迹[开辟鸿荒](https://zh.wikipedia.org/wiki/开辟鸿荒_\(石碣\) "wikilink")？
-  - **[哪一間廟宇](https://zh.wikipedia.org/wiki/敦源聖廟 "wikilink")**是臺灣[臺南市新豐區](https://zh.wikipedia.org/wiki/臺南市 "wikilink")（[歸仁](https://zh.wikipedia.org/wiki/歸仁區 "wikilink")、[仁德](https://zh.wikipedia.org/wiki/仁德區 "wikilink")、[關廟](https://zh.wikipedia.org/wiki/關廟區 "wikilink")、[龍崎](https://zh.wikipedia.org/wiki/龍崎區 "wikilink")、[永康](https://zh.wikipedia.org/wiki/永康區 "wikilink")）舉行祭[孔儀式的場所](https://zh.wikipedia.org/wiki/孔子 "wikilink")
+  - **[哪一起職業災害事故](../Page/飛歌事件.md "wikilink")**促使臺灣[立法院於](../Page/立法院.md "wikilink")1974年通過《[勞工安全衛生法](../Page/職業安全衛生法.md "wikilink")》？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[平鎮區](https://zh.wikipedia.org/wiki/平鎮區 "wikilink")**[哪間土地祠](../Page/平鎮廣隆宮.md "wikilink")**為平鎮[宋屋地區九個里的信仰中心](../Page/宋屋.md "wikilink")，其土地神稱為「大伯公」？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[中壢區](https://zh.wikipedia.org/wiki/中壢區 "wikilink")**[哪座土地祠](../Page/永福福德宮.md "wikilink")**建物狀似合掌？
+  - [澎湖天后宮現今的建築樣貌是由](../Page/澎湖天后宮.md "wikilink")**[哪位大木匠師](../Page/藍木.md "wikilink")**設計的？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[西屯區](../Page/西屯區.md "wikilink")**[哪口水井](../Page/蓮蕉井.md "wikilink")**，曾被運動飲料[舒跑作為水源](../Page/舒跑.md "wikilink")？
+  - 澎湖地區的**[哪間公廟](../Page/澎湖三官殿.md "wikilink")**，係由涼亭改建而成？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[伸港鄉](https://zh.wikipedia.org/wiki/伸港鄉 "wikilink")**[哪間姑娘廟](../Page/伸慶宮.md "wikilink")**，祭祀一名溺死的少女，香火在1950年代末到1960年代初盛行一時，引起政府禁止祭拜？
+  - 在[南投县](https://zh.wikipedia.org/wiki/南投县 "wikilink")[集集镇的](https://zh.wikipedia.org/wiki/集集镇 "wikilink")**[哪一座登天步道](../Page/狮头山登天步道.md "wikilink")**上可以看到一级古迹[开辟鸿荒](../Page/开辟鸿荒_\(石碣\).md "wikilink")？
+  - **[哪一間廟宇](../Page/敦源聖廟.md "wikilink")**是臺灣[臺南市新豐區](https://zh.wikipedia.org/wiki/臺南市 "wikilink")（[歸仁](https://zh.wikipedia.org/wiki/歸仁區 "wikilink")、[仁德](https://zh.wikipedia.org/wiki/仁德區 "wikilink")、[關廟](https://zh.wikipedia.org/wiki/關廟區 "wikilink")、[龍崎](https://zh.wikipedia.org/wiki/龍崎區 "wikilink")、[永康](https://zh.wikipedia.org/wiki/永康區 "wikilink")）舉行祭[孔儀式的場所](https://zh.wikipedia.org/wiki/孔子 "wikilink")
   - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪間書院](../Page/文開書院.md "wikilink")**，乃時任[鹿港同知的](../Page/臺灣府北路理番鹿仔港海防捕盜同知.md "wikilink")[鄧傳安倡建](../Page/鄧傳安.md "wikilink")，名稱為紀念[沈光文](../Page/沈光文.md "wikilink")，並祭祀[明鄭遺老](../Page/明鄭.md "wikilink")，建築列入[彰化縣定古蹟](https://zh.wikipedia.org/wiki/彰化縣定古蹟 "wikilink")？
 
 #### 5月
 
-  - **[哪一個臺灣性醜聞案件](https://zh.wikipedia.org/wiki/蔡茂雄性侵少年案 "wikilink")**發生在[民主進步黨的汐止市黨部裡](../Page/民主進步黨.md "wikilink")？
-  - 1959年開始的**[哪個臺灣教育實驗](https://zh.wikipedia.org/wiki/東門方案 "wikilink")**旨在將兒童心理輔導工作帶進臺灣校園？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪座地藏庵](https://zh.wikipedia.org/wiki/鹿港地藏王廟 "wikilink")**為[三級古蹟](../Page/彰化縣文化資產.md "wikilink")，《鹿港普度歌》歌詞的「初一放水燈」即指此廟？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮有](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪座冠上媽祖廟之名的中華白海豚環保團體工作站](https://zh.wikipedia.org/wiki/白海豚媽祖宮 "wikilink")**，原為環保人士[粘錫麟故居](../Page/粘錫麟.md "wikilink")？
+  - **[哪一個臺灣性醜聞案件](../Page/蔡茂雄性侵少年案.md "wikilink")**發生在[民主進步黨的汐止市黨部裡](../Page/民主進步黨.md "wikilink")？
+  - 1959年開始的**[哪個臺灣教育實驗](../Page/東門方案.md "wikilink")**旨在將兒童心理輔導工作帶進臺灣校園？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪座地藏庵](../Page/鹿港地藏王廟.md "wikilink")**為[三級古蹟](../Page/彰化縣文化資產.md "wikilink")，《鹿港普度歌》歌詞的「初一放水燈」即指此廟？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮有](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪座冠上媽祖廟之名的中華白海豚環保團體工作站](../Page/白海豚媽祖宮.md "wikilink")**，原為環保人士[粘錫麟故居](../Page/粘錫麟.md "wikilink")？
   - **[哪一種臺灣特有鳥類](../Page/台灣藍鵲.md "wikilink")**的身體除了部分部位外都是藍色，有著長尾羽，並於2007年被網路票選為非官方的臺灣國鳥？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪座田都元帥廟](https://zh.wikipedia.org/wiki/鹿港玉渠宮 "wikilink")**，是以雞和犬代替[石獅子守護廟門](https://zh.wikipedia.org/wiki/石獅子 "wikilink")，廟宇還有[海綿寶寶圖案](../Page/海綿寶寶.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")**[哪一隻貓](https://zh.wikipedia.org/wiki/咪咪_\(貓\) "wikilink")**在2015年就任[貓空纜車](../Page/貓空纜車.md "wikilink")[動物園站的](https://zh.wikipedia.org/wiki/動物園站_\(臺北市\) "wikilink")「貓站長」，並於2016年4月[退休](../Page/退休.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪間王爺廟](https://zh.wikipedia.org/wiki/鹿港永安宮 "wikilink")**，旁祀[陳周全事件陣亡的清朝軍官曾紹龍](https://zh.wikipedia.org/wiki/陳周全事件 "wikilink")？
-  - **[哪台超級電腦](https://zh.wikipedia.org/wiki/台灣杉_\(超級電腦\) "wikilink")**是[台灣第一部計算能量達Peta等級的公用計算主機](https://zh.wikipedia.org/wiki/台灣 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪座田都元帥廟](../Page/鹿港玉渠宮.md "wikilink")**，是以雞和犬代替[石獅子守護廟門](https://zh.wikipedia.org/wiki/石獅子 "wikilink")，廟宇還有[海綿寶寶圖案](../Page/海綿寶寶.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")**[哪一隻貓](../Page/咪咪_\(貓\).md "wikilink")**在2015年就任[貓空纜車](../Page/貓空纜車.md "wikilink")[動物園站的](https://zh.wikipedia.org/wiki/動物園站_\(臺北市\) "wikilink")「貓站長」，並於2016年4月[退休](../Page/退休.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪間王爺廟](../Page/鹿港永安宮.md "wikilink")**，旁祀[陳周全事件陣亡的清朝軍官曾紹龍](https://zh.wikipedia.org/wiki/陳周全事件 "wikilink")？
+  - **[哪台超級電腦](../Page/台灣杉_\(超級電腦\).md "wikilink")**是[台灣第一部計算能量達Peta等級的公用計算主機](https://zh.wikipedia.org/wiki/台灣 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪座橋梁](../Page/楊公橋.md "wikilink")**名稱源自清朝官員[楊桂森](../Page/楊桂森.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪間土地祠](https://zh.wikipedia.org/wiki/鹿港福德宮 "wikilink")**，祭祀鹿港土地公信仰中的南方土地公？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪間王爺廟](https://zh.wikipedia.org/wiki/鹿港護安宮 "wikilink")**自2004年開始委由受刑人打造[元宵大型花燈](../Page/台灣元宵節.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪間廟宇](https://zh.wikipedia.org/wiki/鹿港福靈宮 "wikilink")**主祀[林爽文事件的抗清人物](../Page/林爽文事件.md "wikilink")[王勳](../Page/王勳.md "wikilink")？
-  - **[哪一位臺灣女導演](https://zh.wikipedia.org/wiki/劉立立 "wikilink")**導有多部[瓊瑤電影](https://zh.wikipedia.org/wiki/瓊瑤 "wikilink")、電視作品，於2018年4月22日去世？
-  - [臺灣](../Page/臺灣.md "wikilink")**[哪一家動物保護組織](https://zh.wikipedia.org/wiki/台灣照顧生命協會 "wikilink")**提供了24小時[全年無休的](https://zh.wikipedia.org/wiki/全年無休 "wikilink")「貓狗119」專線服務？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪間王爺廟](https://zh.wikipedia.org/wiki/泊仔寮洽義堂 "wikilink")**，相傳其神明娶了今[芳苑鄉永興村的康姓女子](https://zh.wikipedia.org/wiki/芳苑鄉 "wikilink")？
-  - **[哪一部臺灣迷你劇集](https://zh.wikipedia.org/wiki/薛丁格的貓_\(迷你劇集\) "wikilink")**是[民視的首部](../Page/民間全民電視公司.md "wikilink")[推理](../Page/推理.md "wikilink")[驚悚劇](../Page/驚悚.md "wikilink")
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪間土地祠](../Page/鹿港福德宮.md "wikilink")**，祭祀鹿港土地公信仰中的南方土地公？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪間王爺廟](../Page/鹿港護安宮.md "wikilink")**自2004年開始委由受刑人打造[元宵大型花燈](../Page/台灣元宵節.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪間廟宇](../Page/鹿港福靈宮.md "wikilink")**主祀[林爽文事件的抗清人物](../Page/林爽文事件.md "wikilink")[王勳](../Page/王勳.md "wikilink")？
+  - **[哪一位臺灣女導演](../Page/劉立立.md "wikilink")**導有多部[瓊瑤電影](https://zh.wikipedia.org/wiki/瓊瑤 "wikilink")、電視作品，於2018年4月22日去世？
+  - [臺灣](../Page/臺灣.md "wikilink")**[哪一家動物保護組織](../Page/台灣照顧生命協會.md "wikilink")**提供了24小時[全年無休的](https://zh.wikipedia.org/wiki/全年無休 "wikilink")「貓狗119」專線服務？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪間王爺廟](../Page/泊仔寮洽義堂.md "wikilink")**，相傳其神明娶了今[芳苑鄉永興村的康姓女子](https://zh.wikipedia.org/wiki/芳苑鄉 "wikilink")？
+  - **[哪一部臺灣迷你劇集](../Page/薛丁格的貓_\(迷你劇集\).md "wikilink")**是[民視的首部](../Page/民間全民電視公司.md "wikilink")[推理](../Page/推理.md "wikilink")[驚悚劇](../Page/驚悚.md "wikilink")
   - **[哪一位政治人物](../Page/梁国扬.md "wikilink")**曾在2005年至2012年期间担任[中华全国台湾同胞联谊会会长](../Page/中华全国台湾同胞联谊会.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[溪州鄉水尾村村民多為](../Page/溪州鄉.md "wikilink")[鐘姓](../Page/鐘姓.md "wikilink")，並以**[哪間鍾馗廟](https://zh.wikipedia.org/wiki/水尾震威宮 "wikilink")**作信仰中心，為[大甲媽祖遶境回鑾駐駕的廟宇](https://zh.wikipedia.org/wiki/大甲媽祖遶境 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[溪州鄉水尾村村民多為](../Page/溪州鄉.md "wikilink")[鐘姓](../Page/鐘姓.md "wikilink")，並以**[哪間鍾馗廟](../Page/水尾震威宮.md "wikilink")**作信仰中心，為[大甲媽祖遶境回鑾駐駕的廟宇](https://zh.wikipedia.org/wiki/大甲媽祖遶境 "wikilink")？
 
 #### 4月
 
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[埔鹽鄉](https://zh.wikipedia.org/wiki/埔鹽鄉 "wikilink")**[哪座百姓公廟](https://zh.wikipedia.org/wiki/瓦磘崇靈祠 "wikilink")**，為瓦磘村當地的信仰中心，先後因開闢[員林大排](../Page/員林大排.md "wikilink")、[台76線而遷移](../Page/台76線.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[埔鹽鄉](https://zh.wikipedia.org/wiki/埔鹽鄉 "wikilink")**[哪座百姓公廟](../Page/瓦磘崇靈祠.md "wikilink")**，為瓦磘村當地的信仰中心，先後因開闢[員林大排](../Page/員林大排.md "wikilink")、[台76線而遷移](../Page/台76線.md "wikilink")？
   - **[中華民國的哪一間大使館](https://zh.wikipedia.org/wiki/中華民國駐史瓦濟蘭王國大使館 "wikilink")**兼轄對[-{zh-cn:斯威士兰;
     zh-hk:斯威士蘭;
     zh-tw:史瓦濟蘭;}-和](https://zh.wikipedia.org/wiki/史瓦濟蘭 "wikilink")[-{zh-cn:莫桑比克;
     zh-hk:莫桑比克;
     zh-tw:莫三比克;}-事務](https://zh.wikipedia.org/wiki/莫三比克 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[宜蘭市](../Page/宜蘭市.md "wikilink")**[哪間媽祖廟](../Page/昭應宮.md "wikilink")**為[三級古蹟](../Page/宜蘭縣文化資產.md "wikilink")，廟內有[楊廷理](../Page/楊廷理.md "wikilink")、[翟淦](https://zh.wikipedia.org/wiki/翟淦 "wikilink")、[陳蒸這三位](https://zh.wikipedia.org/wiki/陳蒸 "wikilink")[清治時期官員的神像](https://zh.wikipedia.org/wiki/清治時期 "wikilink")？
-  - **[哪位臺灣足球運動員](https://zh.wikipedia.org/wiki/陳家駿 "wikilink")**在2015年11月17日[中華臺北對陣](../Page/中華台北男子足球代表隊.md "wikilink")[伊拉克時頂替受傷的主力右後衛](https://zh.wikipedia.org/wiki/伊拉克國家足球隊 "wikilink")[陳昌源](../Page/陳昌源.md "wikilink")，意外成為限制伊拉克2名旅歐球員的關鍵人物？
+  - **[哪位臺灣足球運動員](../Page/陳家駿.md "wikilink")**在2015年11月17日[中華臺北對陣](../Page/中華台北男子足球代表隊.md "wikilink")[伊拉克時頂替受傷的主力右後衛](https://zh.wikipedia.org/wiki/伊拉克國家足球隊 "wikilink")[陳昌源](../Page/陳昌源.md "wikilink")，意外成為限制伊拉克2名旅歐球員的關鍵人物？
   - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[通霄鎮](https://zh.wikipedia.org/wiki/通霄鎮 "wikilink")**[哪間媽祖廟](../Page/白沙屯拱天宮.md "wikilink")**其[進香活動列為](https://zh.wikipedia.org/wiki/白沙屯媽祖進香 "wikilink")[中華民國無形文化資產](../Page/中華民國無形文化資產民俗類.md "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[大同區](../Page/大同區_\(臺灣\).md "wikilink")**[哪座媽祖廟](../Page/大稻埕慈聖宮.md "wikilink")**為[頂下郊拚後遷移到](../Page/頂下郊拚.md "wikilink")[大稻埕的同安人所建立](../Page/大稻埕.md "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[二林鎮](https://zh.wikipedia.org/wiki/二林鎮 "wikilink")**[哪座媽祖廟](../Page/二林仁和宮.md "wikilink")**，列為[三級古蹟](../Page/彰化縣文化資產.md "wikilink")，亦是臺灣農民運動[二林事件發生地之一](../Page/二林事件.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[芳苑鄉](https://zh.wikipedia.org/wiki/芳苑鄉 "wikilink")**[哪座媽祖廟](https://zh.wikipedia.org/wiki/芳苑白馬峰普天宮 "wikilink")**被媒體視作全臺灣面積最大的媽祖廟？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[芳苑鄉](https://zh.wikipedia.org/wiki/芳苑鄉 "wikilink")**[哪座媽祖廟](../Page/芳苑白馬峰普天宮.md "wikilink")**被媒體視作全臺灣面積最大的媽祖廟？
   - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[伸港鄉](https://zh.wikipedia.org/wiki/伸港鄉 "wikilink")**[哪座媽祖廟](https://zh.wikipedia.org/wiki/伸港福安宫 "wikilink")**，為該鄉的信仰中心，遶境範圍為擴及[和美鎮的伸港十八](../Page/和美鎮.md "wikilink")-{庄}-？
-  - **[哪一款像素風格的電子遊戲](https://zh.wikipedia.org/wiki/奔跑吧！台北 "wikilink")**以中華民國政治人物[柯文哲為主角](../Page/柯文哲.md "wikilink")，但柯文哲遊玩時卻無法通過第一道[關卡](../Page/關卡_\(電子遊戲\).md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[社頭鄉](https://zh.wikipedia.org/wiki/社頭鄉 "wikilink")**[哪座媽祖廟](https://zh.wikipedia.org/wiki/崙仔庄天門宮 "wikilink")**，屬於[枋橋頭七十二-{庄}-的](https://zh.wikipedia.org/wiki/枋橋頭七十二庄 "wikilink")[崙雅角](https://zh.wikipedia.org/wiki/崙雅 "wikilink")，並與主廟[枋橋頭天門宮發生過供奉神像的爭執](https://zh.wikipedia.org/wiki/枋橋頭天門宮 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[永靖鄉](https://zh.wikipedia.org/wiki/永靖鄉 "wikilink")**[哪座土地祠](https://zh.wikipedia.org/wiki/永靖五福宮 "wikilink")**為[武德殿造型建築](../Page/武德殿.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[永靖鄉](https://zh.wikipedia.org/wiki/永靖鄉 "wikilink")**[哪間土地祠](https://zh.wikipedia.org/wiki/永靖清福宮 "wikilink")**，為[陳厝厝六村庄的信仰場所](https://zh.wikipedia.org/wiki/陳厝厝 "wikilink")，其舊廟身被列為[彰化縣歷史建築](https://zh.wikipedia.org/wiki/彰化縣歷史建築 "wikilink")，但一度被放在墓場？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[永靖鄉](https://zh.wikipedia.org/wiki/永靖鄉 "wikilink")**[哪座鄭成功廟](https://zh.wikipedia.org/wiki/永靖鄭成功紀念館 "wikilink")**是鄉公所以紀念館的名義作重建？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[三重區](https://zh.wikipedia.org/wiki/三重區 "wikilink")**[哪座媽祖廟](https://zh.wikipedia.org/wiki/三重宏聖宮 "wikilink")**，因位在高樓大廈上，號稱有「臺灣最高樓層的媽祖廟」，後遭住戶反對而搬至樓下室內？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[員林市](../Page/員林市.md "wikilink")**[哪間北帝廟](https://zh.wikipedia.org/wiki/員林衡文宮 "wikilink")**，是帶動臺灣夜跑風潮的起源地，廟上一尊巨型的玄天上帝神像還傳出其內部一處地板能發熱的軼聞，被廟方視為玄天上帝的心臟部位？
-  - **[哪一間寺廟](https://zh.wikipedia.org/wiki/紅毛港朝天宮 "wikilink")**是臺灣高雄市[紅毛港聚落各角頭廟中](../Page/紅毛港_\(高雄市\).md "wikilink")，唯一一間因為高雄港相關工程先後遷建兩次的廟宇？
-  - **[哪一間寺廟](https://zh.wikipedia.org/wiki/紅毛港朝鳳寺 "wikilink")**是臺灣高雄市[紅毛港聚落各廟中](../Page/紅毛港_\(高雄市\).md "wikilink")，唯一有被清代文獻《[鳳山縣采訪冊](https://zh.wikipedia.org/wiki/鳳山縣采訪冊 "wikilink")》記載下來的廟宇？
-  - 1952年至1968年間，[中華民國考試院曾為](https://zh.wikipedia.org/wiki/中華民國考試院 "wikilink")[臺灣省籍民眾特別開辦](../Page/臺灣省.md "wikilink")**[哪個考試](https://zh.wikipedia.org/wiki/臺灣省公務人員高等暨普通考試 "wikilink")**，以增加臺籍民眾成為公務員的機會？
-  - **[哪一座廟宇](https://zh.wikipedia.org/wiki/紅毛港濟天宮 "wikilink")**是臺灣[高雄市的](../Page/高雄市.md "wikilink")[紅毛港遷村後](../Page/紅毛港_\(高雄市\).md "wikilink")，最後重建完成的角頭廟，而且裡頭還設有李姓宗祠？
+  - **[哪一款像素風格的電子遊戲](../Page/奔跑吧！台北.md "wikilink")**以中華民國政治人物[柯文哲為主角](../Page/柯文哲.md "wikilink")，但柯文哲遊玩時卻無法通過第一道[關卡](../Page/關卡_\(電子遊戲\).md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[社頭鄉](https://zh.wikipedia.org/wiki/社頭鄉 "wikilink")**[哪座媽祖廟](../Page/崙仔庄天門宮.md "wikilink")**，屬於[枋橋頭七十二-{庄}-的](../Page/枋橋頭七十二庄.md "wikilink")[崙雅角](../Page/崙雅.md "wikilink")，並與主廟[枋橋頭天門宮發生過供奉神像的爭執](https://zh.wikipedia.org/wiki/枋橋頭天門宮 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[永靖鄉](https://zh.wikipedia.org/wiki/永靖鄉 "wikilink")**[哪座土地祠](../Page/永靖五福宮.md "wikilink")**為[武德殿造型建築](../Page/武德殿.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[永靖鄉](https://zh.wikipedia.org/wiki/永靖鄉 "wikilink")**[哪間土地祠](../Page/永靖清福宮.md "wikilink")**，為[陳厝厝六村庄的信仰場所](../Page/陳厝厝.md "wikilink")，其舊廟身被列為[彰化縣歷史建築](https://zh.wikipedia.org/wiki/彰化縣歷史建築 "wikilink")，但一度被放在墓場？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[永靖鄉](https://zh.wikipedia.org/wiki/永靖鄉 "wikilink")**[哪座鄭成功廟](../Page/永靖鄭成功紀念館.md "wikilink")**是鄉公所以紀念館的名義作重建？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[三重區](https://zh.wikipedia.org/wiki/三重區 "wikilink")**[哪座媽祖廟](../Page/三重宏聖宮.md "wikilink")**，因位在高樓大廈上，號稱有「臺灣最高樓層的媽祖廟」，後遭住戶反對而搬至樓下室內？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[員林市](../Page/員林市.md "wikilink")**[哪間北帝廟](../Page/員林衡文宮.md "wikilink")**，是帶動臺灣夜跑風潮的起源地，廟上一尊巨型的玄天上帝神像還傳出其內部一處地板能發熱的軼聞，被廟方視為玄天上帝的心臟部位？
+  - **[哪一間寺廟](../Page/紅毛港朝天宮.md "wikilink")**是臺灣高雄市[紅毛港聚落各角頭廟中](../Page/紅毛港_\(高雄市\).md "wikilink")，唯一一間因為高雄港相關工程先後遷建兩次的廟宇？
+  - **[哪一間寺廟](../Page/紅毛港朝鳳寺.md "wikilink")**是臺灣高雄市[紅毛港聚落各廟中](../Page/紅毛港_\(高雄市\).md "wikilink")，唯一有被清代文獻《[鳳山縣采訪冊](https://zh.wikipedia.org/wiki/鳳山縣采訪冊 "wikilink")》記載下來的廟宇？
+  - 1952年至1968年間，[中華民國考試院曾為](https://zh.wikipedia.org/wiki/中華民國考試院 "wikilink")[臺灣省籍民眾特別開辦](../Page/臺灣省.md "wikilink")**[哪個考試](../Page/臺灣省公務人員高等暨普通考試.md "wikilink")**，以增加臺籍民眾成為公務員的機會？
+  - **[哪一座廟宇](../Page/紅毛港濟天宮.md "wikilink")**是臺灣[高雄市的](../Page/高雄市.md "wikilink")[紅毛港遷村後](../Page/紅毛港_\(高雄市\).md "wikilink")，最後重建完成的角頭廟，而且裡頭還設有李姓宗祠？
   - [澎湖群島](../Page/澎湖群島.md "wikilink")**[哪座古蹟](../Page/文澳城隍廟.md "wikilink")**被視為澎湖地區最初的[城隍廟](https://zh.wikipedia.org/wiki/城隍廟 "wikilink")？
-  - **[臺灣第一家民營銀行](https://zh.wikipedia.org/wiki/臺灣貯蓄銀行 "wikilink")**是哪一家？
+  - **[臺灣第一家民營銀行](../Page/臺灣貯蓄銀行.md "wikilink")**是哪一家？
   - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[大湖鄉](https://zh.wikipedia.org/wiki/大湖鄉_\(台灣\) "wikilink")**[哪座曹洞宗寺院](../Page/大湖法雲禪寺.md "wikilink")**為[台灣佛教四大法脈的](https://zh.wikipedia.org/wiki/台灣佛教四大法脈 "wikilink")[法雲寺派](../Page/法雲寺派.md "wikilink")[本山](../Page/本山_\(佛教\).md "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[三義鄉](../Page/三義鄉_\(台灣\).md "wikilink")**[哪間2000年代建立的佛寺](../Page/三義九華山大興善寺.md "wikilink")**，為減少來訪香客造成的塞車問題，捐贈新臺幣四千萬元給[苗栗縣政府](../Page/苗栗縣政府.md "wikilink")，幫忙興建三義聯外道路？
   - [台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[南投县](https://zh.wikipedia.org/wiki/南投县 "wikilink")**[哪一座石碣](https://zh.wikipedia.org/wiki/开辟洪荒_\(石碣\) "wikilink")**一个字价值五千万台币？
@@ -173,145 +173,145 @@
   - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[松山區](../Page/松山區_\(臺灣\).md "wikilink")**[哪間媽祖廟](../Page/松山慈祐宮.md "wikilink")**，其媽祖稱為「松山媽祖」，為今涵蓋松山、[信義](../Page/信義區_\(臺北市\).md "wikilink")、[大安](https://zh.wikipedia.org/wiki/大安區_\(臺北市\) "wikilink")、[南港](../Page/南港區.md "wikilink")、[內湖的](../Page/內湖區.md "wikilink")[錫口十三街](../Page/錫口.md "wikilink")-{庄}-的信仰中心，在清治時期還分靈至[仙遊縣](https://zh.wikipedia.org/wiki/仙遊縣 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龜山區](https://zh.wikipedia.org/wiki/龜山區 "wikilink")**[哪座觀音寺](../Page/壽山巖觀音寺.md "wikilink")**為[市定古蹟](../Page/桃園市文化資產.md "wikilink")，[福建水師提督](https://zh.wikipedia.org/wiki/福建水師提督 "wikilink")[哈當阿有資助建造](../Page/哈當阿.md "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[士林區](../Page/士林區.md "wikilink")**[哪間三廟合併的廟宇](../Page/芝山巖惠濟宮.md "wikilink")**，為[市定古蹟](../Page/臺北市文化資產.md "wikilink")，亦被視作[臺灣現代化教育的發祥點](https://zh.wikipedia.org/wiki/台灣教育 "wikilink")？
-  - [澎湖群島](../Page/澎湖群島.md "wikilink")**[哪間古蹟](https://zh.wikipedia.org/wiki/澎湖水仙宮 "wikilink")**主祭[水仙尊王](../Page/水仙尊王.md "wikilink")，為澎湖四大古廟之一？
-  - [澎湖群島](../Page/澎湖群島.md "wikilink")**[哪間歷史建築](https://zh.wikipedia.org/wiki/東甲北極殿 "wikilink")**主祭[玄天上帝](../Page/玄天上帝.md "wikilink")，為澎湖四大古廟之一？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[宜蘭市](../Page/宜蘭市.md "wikilink")**[哪座孔廟](https://zh.wikipedia.org/wiki/宜蘭孔子廟 "wikilink")**，為同治四年（1865年）初建，舊廟仿照[臺南孔子廟](../Page/臺南孔子廟.md "wikilink")，戰後時期初被拆，1953年至今址再建？
+  - [澎湖群島](../Page/澎湖群島.md "wikilink")**[哪間古蹟](../Page/澎湖水仙宮.md "wikilink")**主祭[水仙尊王](../Page/水仙尊王.md "wikilink")，為澎湖四大古廟之一？
+  - [澎湖群島](../Page/澎湖群島.md "wikilink")**[哪間歷史建築](../Page/東甲北極殿.md "wikilink")**主祭[玄天上帝](../Page/玄天上帝.md "wikilink")，為澎湖四大古廟之一？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[宜蘭市](../Page/宜蘭市.md "wikilink")**[哪座孔廟](../Page/宜蘭孔子廟.md "wikilink")**，為同治四年（1865年）初建，舊廟仿照[臺南孔子廟](../Page/臺南孔子廟.md "wikilink")，戰後時期初被拆，1953年至今址再建？
   - [澎湖群島](../Page/澎湖群島.md "wikilink")**[哪間古蹟](../Page/澎湖天后宮.md "wikilink")**主祭[媽祖](../Page/媽祖.md "wikilink")，為澎湖四大古廟之一？
 
 #### 3月
 
-  - [澎湖群島](../Page/澎湖群島.md "wikilink")**[哪間古蹟](https://zh.wikipedia.org/wiki/施公祠 "wikilink")**主祭[施琅](../Page/施琅.md "wikilink")，在[澎湖天后宮旁](../Page/澎湖天后宮.md "wikilink")？
+  - [澎湖群島](../Page/澎湖群島.md "wikilink")**[哪間古蹟](../Page/施公祠.md "wikilink")**主祭[施琅](../Page/施琅.md "wikilink")，在[澎湖天后宮旁](../Page/澎湖天后宮.md "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[中壢區的](https://zh.wikipedia.org/wiki/中壢區 "wikilink")**[哪間媽祖廟](../Page/中壢仁海宮.md "wikilink")**，其媽祖稱為「中壢媽」，與[平鎮褒忠祠共領中壢](../Page/平鎮褒忠祠.md "wikilink")、[平鎮和](https://zh.wikipedia.org/wiki/平鎮區 "wikilink")[楊梅十三](https://zh.wikipedia.org/wiki/楊梅區 "wikilink")-{庄}-祭祀圈？
-  - **[哪一座墳墓](https://zh.wikipedia.org/wiki/潘宮籌墓 "wikilink")**為[台北市直轄市定古蹟](../Page/臺北市文化資產.md "wikilink")，其墓主是台灣早期開墾的士林潘家家主？
+  - **[哪一座墳墓](../Page/潘宮籌墓.md "wikilink")**為[台北市直轄市定古蹟](../Page/臺北市文化資產.md "wikilink")，其墓主是台灣早期開墾的士林潘家家主？
   - [臺灣](../Page/臺灣.md "wikilink")[嘉義市](../Page/嘉義市.md "wikilink")[東區](../Page/東區_\(嘉義市\).md "wikilink")**[哪間孔廟](../Page/嘉義孔子廟.md "wikilink")**，於1964年在[嘉義公園落成](https://zh.wikipedia.org/wiki/嘉義公園 "wikilink")，以代替原先的嘉義文廟，亦開創[臺灣孔廟中女性主祭的先例](../Page/台灣的孔廟.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[嘉義縣](../Page/嘉義縣.md "wikilink")[阿里山國家森林遊樂區內的](../Page/阿里山國家森林遊樂區.md "wikilink")**[哪間北帝廟](https://zh.wikipedia.org/wiki/阿里山受鎮宮 "wikilink")**，以近農曆三月初三時會有枯球籮紋蛾停駐而聞名？
-  - **[哪一間廟宇](https://zh.wikipedia.org/wiki/紅毛港飛鳳寺 "wikilink")**是過去臺灣高雄市小港區[紅毛港遷村前當地建築最為精緻且有最完整五營的廟宇](../Page/紅毛港_\(高雄市\).md "wikilink")？
-  - 臺灣高雄市**[哪一間廟宇](https://zh.wikipedia.org/wiki/鳳山紅毛港保安堂 "wikilink")**以異於傳統廟宇造型和供奉有縮小版日本軍艦為其特色？
-  - **[哪名台灣YouTuber頻道](https://zh.wikipedia.org/wiki/上班不要看 "wikilink")**以拍攝大尺度的內容吸引觀眾，曾經用電蚊拍電乳頭而聞名？
-  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[銅鑼鄉](https://zh.wikipedia.org/wiki/銅鑼鄉_\(台灣\) "wikilink")**[哪間觀音寺](https://zh.wikipedia.org/wiki/九龍山天寶寺 "wikilink")**，其主神被稱為「火觀音」，與鳳龍山觀音寺的「水觀音」相對，又因1990年出現大[南蛇而轟動一時](https://zh.wikipedia.org/wiki/南蛇 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龜山區](https://zh.wikipedia.org/wiki/龜山區 "wikilink")**[哪間北帝廟](https://zh.wikipedia.org/wiki/靈雲寺哲學廟 "wikilink")**，廟方將創辦者的肉身作為神像供奉，並副祀[蔣中正](../Page/蔣中正.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[銅鑼鄉](https://zh.wikipedia.org/wiki/銅鑼鄉_\(台灣\) "wikilink")**[哪座媽祖廟](https://zh.wikipedia.org/wiki/銅鑼天后宮 "wikilink")**，為[乙未戰爭時](../Page/乙未戰爭.md "wikilink")[吳湯興誓師地](../Page/吳湯興.md "wikilink")，也是電影《[冬冬的假期](../Page/冬冬的假期.md "wikilink")》的一景？
-  - [2014年九合一選舉時](../Page/2014年中華民國地方公職人員選舉.md "wikilink")，[桃園市市長候選人](../Page/桃園市市長.md "wikilink")[鄭文燦競選總部屬於](../Page/鄭文燦.md "wikilink")**[哪一座土地公廟](https://zh.wikipedia.org/wiki/明德宮_\(汴洲里\) "wikilink")**的轄區，因此該團隊會去祭拜？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[宜蘭市](../Page/宜蘭市.md "wikilink")**[哪間廟宇](https://zh.wikipedia.org/wiki/南興廟 "wikilink")**位在菜市場樓頂，主祀[註生娘娘](https://zh.wikipedia.org/wiki/註生娘娘 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[嘉義縣](../Page/嘉義縣.md "wikilink")[阿里山國家森林遊樂區內的](../Page/阿里山國家森林遊樂區.md "wikilink")**[哪間北帝廟](../Page/阿里山受鎮宮.md "wikilink")**，以近農曆三月初三時會有枯球籮紋蛾停駐而聞名？
+  - **[哪一間廟宇](../Page/紅毛港飛鳳寺.md "wikilink")**是過去臺灣高雄市小港區[紅毛港遷村前當地建築最為精緻且有最完整五營的廟宇](../Page/紅毛港_\(高雄市\).md "wikilink")？
+  - 臺灣高雄市**[哪一間廟宇](../Page/鳳山紅毛港保安堂.md "wikilink")**以異於傳統廟宇造型和供奉有縮小版日本軍艦為其特色？
+  - **[哪名台灣YouTuber頻道](../Page/上班不要看.md "wikilink")**以拍攝大尺度的內容吸引觀眾，曾經用電蚊拍電乳頭而聞名？
+  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[銅鑼鄉](https://zh.wikipedia.org/wiki/銅鑼鄉_\(台灣\) "wikilink")**[哪間觀音寺](../Page/九龍山天寶寺.md "wikilink")**，其主神被稱為「火觀音」，與鳳龍山觀音寺的「水觀音」相對，又因1990年出現大[南蛇而轟動一時](https://zh.wikipedia.org/wiki/南蛇 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龜山區](https://zh.wikipedia.org/wiki/龜山區 "wikilink")**[哪間北帝廟](../Page/靈雲寺哲學廟.md "wikilink")**，廟方將創辦者的肉身作為神像供奉，並副祀[蔣中正](../Page/蔣中正.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[銅鑼鄉](https://zh.wikipedia.org/wiki/銅鑼鄉_\(台灣\) "wikilink")**[哪座媽祖廟](../Page/銅鑼天后宮.md "wikilink")**，為[乙未戰爭時](../Page/乙未戰爭.md "wikilink")[吳湯興誓師地](../Page/吳湯興.md "wikilink")，也是電影《[冬冬的假期](../Page/冬冬的假期.md "wikilink")》的一景？
+  - [2014年九合一選舉時](../Page/2014年中華民國地方公職人員選舉.md "wikilink")，[桃園市市長候選人](../Page/桃園市市長.md "wikilink")[鄭文燦競選總部屬於](../Page/鄭文燦.md "wikilink")**[哪一座土地公廟](../Page/明德宮_\(汴洲里\).md "wikilink")**的轄區，因此該團隊會去祭拜？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[宜蘭市](../Page/宜蘭市.md "wikilink")**[哪間廟宇](../Page/南興廟.md "wikilink")**位在菜市場樓頂，主祀[註生娘娘](https://zh.wikipedia.org/wiki/註生娘娘 "wikilink")？
   - 臺灣高雄市**[哪一間廟宇](../Page/飛鳳宮.md "wikilink")**傳說因曾協助治癒「抗日三猛」[林少貓的病](../Page/林少貓.md "wikilink")，而獲贈一支「刺繡九龍綢緞涼傘」？
-  - 媒體人[馮光遠認為曾經擔任中華民國總統的](https://zh.wikipedia.org/wiki/馮光遠 "wikilink")[馬英九和其幕僚](../Page/馬英九.md "wikilink")[金溥聰之間存在著](../Page/金溥聰.md "wikilink")**[一種什麼樣的關係](https://zh.wikipedia.org/wiki/特殊性關係 "wikilink")**？
+  - 媒體人[馮光遠認為曾經擔任中華民國總統的](../Page/馮光遠.md "wikilink")[馬英九和其幕僚](../Page/馬英九.md "wikilink")[金溥聰之間存在著](../Page/金溥聰.md "wikilink")**[一種什麼樣的關係](../Page/特殊性關係.md "wikilink")**？
   - **[定居台湾的满族](https://zh.wikipedia.org/wiki/台湾满族 "wikilink")**被称作什么？
-  - **[哪間道教廟宇](https://zh.wikipedia.org/wiki/香蘭福農宮 "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[臺東縣](../Page/臺東縣.md "wikilink")[太麻里鄉舊香蘭地區的居民](../Page/太麻里鄉.md "wikilink")[信仰中心](https://zh.wikipedia.org/wiki/信仰 "wikilink")？
+  - **[哪間道教廟宇](../Page/香蘭福農宮.md "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[臺東縣](../Page/臺東縣.md "wikilink")[太麻里鄉舊香蘭地區的居民](../Page/太麻里鄉.md "wikilink")[信仰中心](https://zh.wikipedia.org/wiki/信仰 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[松山區](https://zh.wikipedia.org/wiki/松山區_\(臺北市\) "wikilink")**[哪間城隍廟](../Page/台北府城隍廟.md "wikilink")**，主神為臺北市[城隍爺信仰中的府城隍](https://zh.wikipedia.org/wiki/城隍爺 "wikilink")，與[臺灣省城隍廟都是源自臺北府縣城隍廟](../Page/臺灣省城隍廟.md "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[大安區](https://zh.wikipedia.org/wiki/大安區_\(臺北市\) "wikilink")**[哪間火神廟](../Page/台北火聖廟.md "wikilink")**，為[臺北市政府消防局人員的信仰中心](../Page/臺北市政府消防局.md "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[嘉義市](../Page/嘉義市.md "wikilink")[東區](../Page/東區_\(嘉義市\).md "wikilink")**[哪間地藏庵](https://zh.wikipedia.org/wiki/嘉義九華山地藏庵 "wikilink")**負責嘉義市農曆七月普渡關鬼門的儀式？
-  - [臺灣](../Page/臺灣.md "wikilink")[嘉義市](../Page/嘉義市.md "wikilink")[東區](../Page/東區_\(嘉義市\).md "wikilink")**[哪間王爺廟](https://zh.wikipedia.org/wiki/鎮南聖神宮 "wikilink")**，為昔日嘉義市舉行祭孔大典的地點，其[什家將團被列為](https://zh.wikipedia.org/wiki/什家將 "wikilink")[嘉義市文化資產](../Page/嘉義市文化資產.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[嘉義市](../Page/嘉義市.md "wikilink")[東區](../Page/東區_\(嘉義市\).md "wikilink")**[哪間王爺廟](../Page/鎮南聖神宮.md "wikilink")**，為昔日嘉義市舉行祭孔大典的地點，其[什家將團被列為](https://zh.wikipedia.org/wiki/什家將 "wikilink")[嘉義市文化資產](../Page/嘉義市文化資產.md "wikilink")？
 
 #### 2月
 
-  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")**[哪所小學](https://zh.wikipedia.org/wiki/屏東縣東港鎮海濱國民小學 "wikilink")**大門正對著漁港的[碼頭](../Page/碼頭.md "wikilink")，校內還有[孔廟](https://zh.wikipedia.org/wiki/孔廟 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[東港鎮](https://zh.wikipedia.org/wiki/東港鎮_\(台灣\) "wikilink")**[哪間孔廟](https://zh.wikipedia.org/wiki/海濱國小孔子祠 "wikilink")**位在國小校園內，改造自[神社](../Page/神社.md "wikilink")，還舉行過[六佾舞](https://zh.wikipedia.org/wiki/六佾舞 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")**[哪所小學](../Page/屏東縣東港鎮海濱國民小學.md "wikilink")**大門正對著漁港的[碼頭](../Page/碼頭.md "wikilink")，校內還有[孔廟](https://zh.wikipedia.org/wiki/孔廟 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[東港鎮](https://zh.wikipedia.org/wiki/東港鎮_\(台灣\) "wikilink")**[哪間孔廟](../Page/海濱國小孔子祠.md "wikilink")**位在國小校園內，改造自[神社](../Page/神社.md "wikilink")，還舉行過[六佾舞](https://zh.wikipedia.org/wiki/六佾舞 "wikilink")？
   - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[四湖鄉有](https://zh.wikipedia.org/wiki/四湖鄉 "wikilink")**[哪座雲林、嘉義地區唯一的海水浴場](../Page/三條崙海水浴場.md "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[嘉義市](../Page/嘉義市.md "wikilink")[東區](../Page/東區_\(嘉義市\).md "wikilink")**[哪座關帝廟](https://zh.wikipedia.org/wiki/嘉邑鎮天宮 "wikilink")**，廟頂有[桃園三結義巨像](https://zh.wikipedia.org/wiki/桃園三結義 "wikilink")，有一對[石獅子性別還皆為雄性](https://zh.wikipedia.org/wiki/石獅子 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[嘉義市](../Page/嘉義市.md "wikilink")[東區](../Page/東區_\(嘉義市\).md "wikilink")**[哪座關帝廟](../Page/嘉邑鎮天宮.md "wikilink")**，廟頂有[桃園三結義巨像](https://zh.wikipedia.org/wiki/桃園三結義 "wikilink")，有一對[石獅子性別還皆為雄性](https://zh.wikipedia.org/wiki/石獅子 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[四湖鄉](https://zh.wikipedia.org/wiki/四湖鄉 "wikilink")**[哪間包公廟](../Page/三條崙海清宮.md "wikilink")**，被視為臺灣供奉[包拯的祖廟](../Page/包拯.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[麥寮鄉六輕工業區](https://zh.wikipedia.org/wiki/麥寮鄉 "wikilink")**[哪間2011年建的土地祠](https://zh.wikipedia.org/wiki/六輕福德宮 "wikilink")**，是因[台塑集團屢次發生工安事故](https://zh.wikipedia.org/wiki/台塑集團 "wikilink")，為安定人心而建？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[中正區](https://zh.wikipedia.org/wiki/中正區_\(臺北市\) "wikilink")[林森南路巷內](https://zh.wikipedia.org/wiki/林森南路 "wikilink")**[哪間土地祠](https://zh.wikipedia.org/wiki/東門里福德宮 "wikilink")**，為[臺北市政府用](../Page/臺北市政府.md "wikilink")《[文化資產保存法](../Page/文化資產保存法.md "wikilink")》以保護[珍貴老樹的理由來保存廟宇的案例](https://zh.wikipedia.org/wiki/珍貴老樹 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[麥寮鄉六輕工業區](https://zh.wikipedia.org/wiki/麥寮鄉 "wikilink")**[哪間2011年建的土地祠](../Page/六輕福德宮.md "wikilink")**，是因[台塑集團屢次發生工安事故](https://zh.wikipedia.org/wiki/台塑集團 "wikilink")，為安定人心而建？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[中正區](https://zh.wikipedia.org/wiki/中正區_\(臺北市\) "wikilink")[林森南路巷內](https://zh.wikipedia.org/wiki/林森南路 "wikilink")**[哪間土地祠](../Page/東門里福德宮.md "wikilink")**，為[臺北市政府用](../Page/臺北市政府.md "wikilink")《[文化資產保存法](../Page/文化資產保存法.md "wikilink")》以保護[珍貴老樹的理由來保存廟宇的案例](https://zh.wikipedia.org/wiki/珍貴老樹 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[桃園區](https://zh.wikipedia.org/wiki/桃園區 "wikilink")**[哪間廟宇](../Page/桃園景福宮.md "wikilink")**，被稱為「桃園大廟」，乃桃園十五街-{庄}-的信仰中心，列為[中華民國三級古蹟](https://zh.wikipedia.org/wiki/台灣古蹟列表#三級古蹟 "wikilink")，也曾是縣轄市時期桃園市市徽的一部分？
-  - **[哪一位中文維基百科行政員](https://zh.wikipedia.org/wiki/張遠_\(維基人\) "wikilink")**在臺灣BBS論壇[批踢踢又被譽為](https://zh.wikipedia.org/wiki/批踢踢 "wikilink")「哆啦王」？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[大安區有](https://zh.wikipedia.org/wiki/大安區_\(臺北市\) "wikilink")**[哪一座石頭公廟](https://zh.wikipedia.org/wiki/眾恩祠 "wikilink")**，位於臺北[國泰綜合醫院仁愛院區隱密的一角](https://zh.wikipedia.org/wiki/國泰綜合醫院 "wikilink")，院方在[中元節時會來祭拜](../Page/中元節.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[桃園區](https://zh.wikipedia.org/wiki/桃園區 "wikilink")**[哪間文昌廟](https://zh.wikipedia.org/wiki/桃園文昌宮 "wikilink")**，為[桃園國小](../Page/桃園市桃園區桃園國民小學.md "wikilink")、[桃園市立圖書館](../Page/桃園市立圖書館.md "wikilink")、[桃園孔子廟的前身所在處](../Page/桃園孔子廟.md "wikilink")？
+  - **[哪一位中文維基百科行政員](../Page/張遠_\(維基人\).md "wikilink")**在臺灣BBS論壇[批踢踢又被譽為](https://zh.wikipedia.org/wiki/批踢踢 "wikilink")「哆啦王」？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[大安區有](https://zh.wikipedia.org/wiki/大安區_\(臺北市\) "wikilink")**[哪一座石頭公廟](../Page/眾恩祠.md "wikilink")**，位於臺北[國泰綜合醫院仁愛院區隱密的一角](https://zh.wikipedia.org/wiki/國泰綜合醫院 "wikilink")，院方在[中元節時會來祭拜](../Page/中元節.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[桃園區](https://zh.wikipedia.org/wiki/桃園區 "wikilink")**[哪間文昌廟](../Page/桃園文昌宮.md "wikilink")**，為[桃園國小](../Page/桃園市桃園區桃園國民小學.md "wikilink")、[桃園市立圖書館](../Page/桃園市立圖書館.md "wikilink")、[桃園孔子廟的前身所在處](../Page/桃園孔子廟.md "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[桃園區](https://zh.wikipedia.org/wiki/桃園區 "wikilink")**[哪間孔廟](../Page/桃園孔子廟.md "wikilink")**，原借居於[桃園文昌廟](https://zh.wikipedia.org/wiki/桃園文昌廟 "wikilink")，1989年在[虎頭山公園落成](../Page/虎頭山_\(桃園市\).md "wikilink")，為[臺灣十三座官設孔廟中最晚建立的](../Page/台灣的孔廟.md "wikilink")，有著道教祭祀色彩，廟內設孔子像可供上香，也提供[光明燈服務](https://zh.wikipedia.org/wiki/光明燈 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[桃園區](https://zh.wikipedia.org/wiki/桃園區 "wikilink")**[哪間媽祖廟](../Page/桃園慈護宮.md "wikilink")**，前身為[宜蘭](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[五結的媽祖廟](https://zh.wikipedia.org/wiki/五結鄉 "wikilink")，乃[北桃園的媽祖信仰中心](https://zh.wikipedia.org/wiki/北桃園 "wikilink")，其媽祖稱為「桃園媽」？
   - **[臺灣哪一間糖廠](../Page/龍巖糖廠.md "wikilink")**是[日治時期最晚建立](https://zh.wikipedia.org/wiki/臺灣日治時期 "wikilink")，卻在[戰後時期最早撤廢的糖廠](../Page/臺灣戰後時期.md "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[北區](../Page/北區_\(臺中市\).md "wikilink")**[哪座孔廟](../Page/臺中市孔廟.md "wikilink")**，原規劃於[基隆顏家贈售的](../Page/基隆顏家.md "wikilink")[吳鸞旂公館](../Page/更樓_\(臺中市\).md "wikilink")，卻因廟宇被占成公務員宿舍、面對妓院等問題，改至[空軍小學原址](../Page/臺中市北區省三國民小學.md "wikilink")、[忠烈祠旁重建](../Page/臺中市忠烈祠.md "wikilink")，建築仿效[曲阜孔廟格局](https://zh.wikipedia.org/wiki/曲阜孔廟 "wikilink")？
   - **[哪一位台灣運動員](../Page/甘榮益.md "wikilink")**曾經在1984年包攬全國羽球公開賽以及[全國羽球排名賽男子單打冠軍](../Page/中華民國全國羽球排名賽.md "wikilink")，並在退役後前往[台南擔任羽球教練](https://zh.wikipedia.org/wiki/台南 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[東區](../Page/東區_\(臺中市\).md "wikilink")**[哪間媽祖廟](https://zh.wikipedia.org/wiki/台中樂成宮 "wikilink")**，遶境範圍涵蓋臺中[烏日](../Page/烏日區.md "wikilink")、[大里](https://zh.wikipedia.org/wiki/大里區 "wikilink")、[太平](../Page/太平區_\(台灣\).md "wikilink")、[霧峰](../Page/霧峰區.md "wikilink")、東區、[南區](../Page/南區_\(臺中市\).md "wikilink")、[南屯](../Page/南屯區.md "wikilink")、[西區](https://zh.wikipedia.org/wiki/西區_\(臺中市\) "wikilink")、[北屯](../Page/北屯區.md "wikilink")、[北區此十區](../Page/北區_\(臺中市\).md "wikilink")，其建築與遶境分別被列為[臺中市文化資產的古蹟](../Page/臺中市文化資產.md "wikilink")、無形文化資產？
-  - 2018年2月6日发生于[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[花莲县近海的](https://zh.wikipedia.org/wiki/花莲县 "wikilink")**[哪一次地震](https://zh.wikipedia.org/wiki/2018年花莲地震 "wikilink")**是自[1972年瑞穗地震以来当地发生过](../Page/1972年瑞穗地震.md "wikilink")[规模最大的](https://zh.wikipedia.org/wiki/地震规模 "wikilink")[地震](../Page/地震.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[大里區](https://zh.wikipedia.org/wiki/大里區 "wikilink")**[哪間寺廟](https://zh.wikipedia.org/wiki/大里永隆宮 "wikilink")**主祀明朝政治人物[林偕春](../Page/林偕春.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[大里區](https://zh.wikipedia.org/wiki/大里區 "wikilink")**[哪間佛寺](https://zh.wikipedia.org/wiki/菩薩寺 "wikilink")**，建築風格為[清水模](https://zh.wikipedia.org/wiki/清水模 "wikilink")，由建築師江文淵所設計，得到2011年臺中市-都市空間設計大賞？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[東區](../Page/東區_\(臺中市\).md "wikilink")**[哪間玉皇上帝廟](https://zh.wikipedia.org/wiki/天乙宮_\(臺中\) "wikilink")**，具有客家文化色彩，廟內還有一尊[蔣公神像](https://zh.wikipedia.org/wiki/蔣介石 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[東區東門里的](../Page/東區_\(臺中市\).md "wikilink")**[哪間土地祠](https://zh.wikipedia.org/wiki/東門里福德祠 "wikilink")**，為從[苗栗遷來的](../Page/苗栗郡.md "wikilink")[客家人所建](https://zh.wikipedia.org/wiki/臺灣客家人 "wikilink")，並有一棵因[八七水災而供奉的](../Page/八七水災.md "wikilink")[榕樹](https://zh.wikipedia.org/wiki/雀榕 "wikilink")？
-  - **[哪一名臺灣導演](https://zh.wikipedia.org/wiki/曾英庭 "wikilink")**曾榮獲[金穗獎](../Page/金穗獎.md "wikilink")，知名作品有《[衣櫃裡的貓](../Page/衣櫃裡的貓.md "wikilink")》與《[最後的詩句](https://zh.wikipedia.org/wiki/最後的詩句 "wikilink")》等[電視電影](../Page/電視電影.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龍潭區](https://zh.wikipedia.org/wiki/龍潭區_\(臺灣\) "wikilink")**[哪座土地祠](https://zh.wikipedia.org/wiki/十一份集福宮 "wikilink")**，位在[北區水資源局的大草坪](https://zh.wikipedia.org/wiki/經濟部水利署北區水資源局 "wikilink")，為該處居民與公務員的信仰場所？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[桃園區](https://zh.wikipedia.org/wiki/桃園區 "wikilink")**[哪座位在校地內的土地祠](https://zh.wikipedia.org/wiki/豐年宮 "wikilink")**，其[土地婆被信徒以](https://zh.wikipedia.org/wiki/土地婆 "wikilink")「一女不事二夫」的理由，拒絕與同校園的另一間土地祠合併？
-  - 為慶祝台灣光復五十週年，**[哪一個話劇團](https://zh.wikipedia.org/wiki/中国万岁剧团 "wikilink")**在台北和台中演出了話劇《疼惜台湾子孙万代》？
+  - 2018年2月6日发生于[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[花莲县近海的](https://zh.wikipedia.org/wiki/花莲县 "wikilink")**[哪一次地震](../Page/2018年花莲地震.md "wikilink")**是自[1972年瑞穗地震以来当地发生过](../Page/1972年瑞穗地震.md "wikilink")[规模最大的](https://zh.wikipedia.org/wiki/地震规模 "wikilink")[地震](../Page/地震.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[大里區](https://zh.wikipedia.org/wiki/大里區 "wikilink")**[哪間寺廟](../Page/大里永隆宮.md "wikilink")**主祀明朝政治人物[林偕春](../Page/林偕春.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[大里區](https://zh.wikipedia.org/wiki/大里區 "wikilink")**[哪間佛寺](../Page/菩薩寺.md "wikilink")**，建築風格為[清水模](https://zh.wikipedia.org/wiki/清水模 "wikilink")，由建築師江文淵所設計，得到2011年臺中市-都市空間設計大賞？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[東區](../Page/東區_\(臺中市\).md "wikilink")**[哪間玉皇上帝廟](../Page/天乙宮_\(臺中\).md "wikilink")**，具有客家文化色彩，廟內還有一尊[蔣公神像](https://zh.wikipedia.org/wiki/蔣介石 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[東區東門里的](../Page/東區_\(臺中市\).md "wikilink")**[哪間土地祠](../Page/東門里福德祠.md "wikilink")**，為從[苗栗遷來的](../Page/苗栗郡.md "wikilink")[客家人所建](https://zh.wikipedia.org/wiki/臺灣客家人 "wikilink")，並有一棵因[八七水災而供奉的](../Page/八七水災.md "wikilink")[榕樹](../Page/雀榕.md "wikilink")？
+  - **[哪一名臺灣導演](../Page/曾英庭.md "wikilink")**曾榮獲[金穗獎](../Page/金穗獎.md "wikilink")，知名作品有《[衣櫃裡的貓](../Page/衣櫃裡的貓.md "wikilink")》與《[最後的詩句](../Page/最後的詩句.md "wikilink")》等[電視電影](../Page/電視電影.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龍潭區](https://zh.wikipedia.org/wiki/龍潭區_\(臺灣\) "wikilink")**[哪座土地祠](../Page/十一份集福宮.md "wikilink")**，位在[北區水資源局的大草坪](https://zh.wikipedia.org/wiki/經濟部水利署北區水資源局 "wikilink")，為該處居民與公務員的信仰場所？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[桃園區](https://zh.wikipedia.org/wiki/桃園區 "wikilink")**[哪座位在校地內的土地祠](../Page/豐年宮.md "wikilink")**，其[土地婆被信徒以](../Page/土地婆.md "wikilink")「一女不事二夫」的理由，拒絕與同校園的另一間土地祠合併？
+  - 為慶祝台灣光復五十週年，**[哪一個話劇團](../Page/中国万岁剧团.md "wikilink")**在台北和台中演出了話劇《疼惜台湾子孙万代》？
   - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[中正區](https://zh.wikipedia.org/wiki/中正區_\(臺北市\) "wikilink")**[哪間土地祠](../Page/福德爺長慶廟.md "wikilink")**歷史可追溯至清治時期[泉州人開墾的](https://zh.wikipedia.org/wiki/台灣閩南人 "wikilink")[古亭-{庄}-](../Page/古亭_\(臺北市\).md "wikilink")，戰後時期成為南昌路一帶[客家人的信仰中心](https://zh.wikipedia.org/wiki/台灣客家人 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")**[哪一所國民小學](https://zh.wikipedia.org/wiki/雲林縣北港鎮北辰國民小學 "wikilink")**的女子排球隊在臺灣有「金牌球隊」之譽？
+  - [臺灣](../Page/臺灣.md "wikilink")[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")**[哪一所國民小學](../Page/雲林縣北港鎮北辰國民小學.md "wikilink")**的女子排球隊在臺灣有「金牌球隊」之譽？
   - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[北區](../Page/北區_\(臺中市\).md "wikilink")**[哪間保生大帝廟](../Page/元保宮.md "wikilink")**，遶境範圍包括臺中市[北屯](../Page/北屯區.md "wikilink")、北區及[中區](../Page/中區_\(臺中市\).md "wikilink")、[西區](https://zh.wikipedia.org/wiki/西區_\(臺中市\) "wikilink")，有著「後龍黑、麻頭雨、邱厝糊、二分埔紅、賴厝埔晒死人」的天氣諺語？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺大醫院西址院區附設](https://zh.wikipedia.org/wiki/臺大醫院 "wikilink")**[哪一座廟宇](https://zh.wikipedia.org/wiki/臺大地藏庵 "wikilink")**，多有病家來祭拜？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺大醫院西址院區附設](https://zh.wikipedia.org/wiki/臺大醫院 "wikilink")**[哪一座廟宇](../Page/臺大地藏庵.md "wikilink")**，多有病家來祭拜？
 
 #### 1月
 
   - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[北區的](../Page/北區_\(臺中市\).md "wikilink")**[哪間臨濟宗佛寺](../Page/寶覺禪寺.md "wikilink")**，臺日二戰軍人與遺屬會來此祭祀，也為日本觀光客常來的地點，還是動畫《[信長之槍](../Page/信長之槍.md "wikilink")》首集取景地之一？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[北區](../Page/北區_\(臺中市\).md "wikilink")**[哪間土地祠](https://zh.wikipedia.org/wiki/北區公所福德祠 "wikilink")**位在區公所頂樓？
-  - **[哪座位於臺灣苗栗縣後龍鎮的風力發電站](https://zh.wikipedia.org/wiki/東鋼龍港風力發電站 "wikilink")**早於2009年就已完工，卻因與[台灣電力公司輸出](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")[電纜之爭議直到](../Page/電纜.md "wikilink")2016年才商轉發電？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[北區](../Page/北區_\(臺中市\).md "wikilink")**[哪間土地祠](../Page/北區公所福德祠.md "wikilink")**位在區公所頂樓？
+  - **[哪座位於臺灣苗栗縣後龍鎮的風力發電站](../Page/東鋼龍港風力發電站.md "wikilink")**早於2009年就已完工，卻因與[台灣電力公司輸出](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")[電纜之爭議直到](../Page/電纜.md "wikilink")2016年才商轉發電？
   - [臺灣](../Page/臺灣.md "wikilink")[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[香山區](../Page/香山區.md "wikilink")**[哪座天后宮](../Page/香山天后宮.md "wikilink")**是新竹市[歷史建築](https://zh.wikipedia.org/wiki/臺灣歷史建築 "wikilink")，1979年曾列為[暫定古蹟](../Page/1979年中華民國內政部暫定古蹟.md "wikilink")，但因整修期間建築經改動，故最終未指定？
   - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[彰化市](../Page/彰化市.md "wikilink")**[哪座孔廟](../Page/彰化孔子廟.md "wikilink")**是[中華民國國定古蹟](https://zh.wikipedia.org/wiki/中華民國國定古蹟 "wikilink")，在[臺灣的孔廟地位中被學者](https://zh.wikipedia.org/wiki/臺灣的孔廟 "wikilink")[漢寶德譽為僅次於](https://zh.wikipedia.org/wiki/漢寶德 "wikilink")[臺南孔子廟](../Page/臺南孔子廟.md "wikilink")，但戰後初期差點被政府拆除改建商場？
   - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[彰化市](../Page/彰化市.md "wikilink")**[哪間觀音寺](../Page/彰化開化寺.md "wikilink")**，為[彰化縣定古蹟](https://zh.wikipedia.org/wiki/彰化縣定古蹟 "wikilink")，供奉少見的痘公痘婆？
   - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[彰化市](../Page/彰化市.md "wikilink")**[哪一座古墓](../Page/七壙古墓.md "wikilink")**位在八卦山區，據傳葬了七名[布袋戲戲班人員](../Page/布袋戲.md "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[花壇鄉](https://zh.wikipedia.org/wiki/花壇鄉 "wikilink")**[哪一座土地祠](../Page/白沙坑文德宮.md "wikilink")**其[元宵節在該鄉](../Page/台灣元宵節.md "wikilink")[白沙村](https://zh.wikipedia.org/wiki/白沙村_\(花壇鄉\) "wikilink")、[文德村](https://zh.wikipedia.org/wiki/文德村 "wikilink")、[長沙村的燈排遶境被列為](../Page/長沙村_\(台灣\).md "wikilink")[彰化縣無形資產](https://zh.wikipedia.org/wiki/彰化縣無形資產 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[白河區](https://zh.wikipedia.org/wiki/白河區 "wikilink")**[哪間不動明王廟宇](https://zh.wikipedia.org/wiki/火王爺廟 "wikilink")**，原先為日本帶來的宗教信仰，後成了周圍[關子嶺溫泉業者的信仰對象](../Page/關子嶺溫泉.md "wikilink")？
-  - 1946年7月，[臺灣](../Page/臺灣.md "wikilink")[臺東縣](../Page/臺東縣.md "wikilink")[成功鎮曾發生](https://zh.wikipedia.org/wiki/成功鎮 "wikilink")**[哪宗霍亂集體感染事件](https://zh.wikipedia.org/wiki/1946年臺東重安霍亂事件 "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[白河區](https://zh.wikipedia.org/wiki/白河區 "wikilink")**[哪間不動明王廟宇](../Page/火王爺廟.md "wikilink")**，原先為日本帶來的宗教信仰，後成了周圍[關子嶺溫泉業者的信仰對象](../Page/關子嶺溫泉.md "wikilink")？
+  - 1946年7月，[臺灣](../Page/臺灣.md "wikilink")[臺東縣](../Page/臺東縣.md "wikilink")[成功鎮曾發生](https://zh.wikipedia.org/wiki/成功鎮 "wikilink")**[哪宗霍亂集體感染事件](../Page/1946年臺東重安霍亂事件.md "wikilink")**？
   - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[溪湖鎮](https://zh.wikipedia.org/wiki/溪湖鎮 "wikilink")**[哪間三山國王廟](../Page/溪湖霖肇宮.md "wikilink")**，分廟遍及[中彰雲](../Page/中臺灣.md "wikilink")、[竹苗一帶](../Page/桃竹苗.md "wikilink")，[彰化縣政府亦在此舉辦過](https://zh.wikipedia.org/wiki/彰化縣政府 "wikilink")[福佬客文化節](../Page/福佬客.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[埤頭鄉](https://zh.wikipedia.org/wiki/埤頭鄉 "wikilink")**[哪座媽祖廟](https://zh.wikipedia.org/wiki/埤頭合興宮 "wikilink")**的媽祖被稱為「炸彈媽」，名稱與[媽祖接炸彈的臺灣傳說有關](https://zh.wikipedia.org/wiki/媽祖接炸彈 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[埤頭鄉](https://zh.wikipedia.org/wiki/埤頭鄉 "wikilink")**[哪座媽祖廟](../Page/埤頭合興宮.md "wikilink")**的媽祖被稱為「炸彈媽」，名稱與[媽祖接炸彈的臺灣傳說有關](https://zh.wikipedia.org/wiki/媽祖接炸彈 "wikilink")？
   - [合作金庫商業銀行於](../Page/合作金庫商業銀行.md "wikilink")1992年成立的**[哪一個羽毛球隊](https://zh.wikipedia.org/wiki/合作金庫羽球隊 "wikilink")**在2017年達成[中華民國全國羽球團體錦標賽女子團體的](../Page/中華民國全國羽球團體錦標賽.md "wikilink")17年連霸？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[中正區](https://zh.wikipedia.org/wiki/中正區_\(臺北市\) "wikilink")**[哪間觀音寺](../Page/光華寺.md "wikilink")**是[員林禪寺分寺](https://zh.wikipedia.org/wiki/員林禪寺 "wikilink")，臺灣藝人[蕭薔曾說該寺的觀音像正對她家而有緣](../Page/蕭薔.md "wikilink")，因此大年初一會來祭拜？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[中正區](https://zh.wikipedia.org/wiki/中正區_\(臺北市\) "wikilink")**[哪間觀音寺](../Page/光華寺.md "wikilink")**是[員林禪寺分寺](../Page/員林禪寺.md "wikilink")，臺灣藝人[蕭薔曾說該寺的觀音像正對她家而有緣](../Page/蕭薔.md "wikilink")，因此大年初一會來祭拜？
   - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[員林市](../Page/員林市.md "wikilink")**[哪間文昌廟兼書院](../Page/興賢書院.md "wikilink")**為[彰化縣定古蹟](https://zh.wikipedia.org/wiki/彰化縣定古蹟 "wikilink")，昔日是[武東堡](https://zh.wikipedia.org/wiki/武東堡 "wikilink")、[武西堡](https://zh.wikipedia.org/wiki/武西堡 "wikilink")、[燕霧下堡文人雅士會聚之所](https://zh.wikipedia.org/wiki/燕霧下堡 "wikilink")？
-  - 中華民國政治人物[柯文哲在揹上](../Page/柯文哲.md "wikilink")**[哪一款背包](https://zh.wikipedia.org/wiki/嗡嗡包 "wikilink")**後，其照片被網友修改成日本輕小說《[物語](../Page/物語系列.md "wikilink")》系列的角色八九寺真宵？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[員林市](../Page/員林市.md "wikilink")**[哪間媽祖廟](https://zh.wikipedia.org/wiki/員林福寧宮 "wikilink")**，原先主神與廣東移民的[三山國王合祀](../Page/三山國王.md "wikilink")，後來福建移民於雍正年間獨立建廟？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[員林市](../Page/員林市.md "wikilink")**[哪間地藏庵](https://zh.wikipedia.org/wiki/員林地藏庵 "wikilink")**，由來有[原漢衝突](https://zh.wikipedia.org/wiki/原漢衝突 "wikilink")、[閩客械鬥等說法](https://zh.wikipedia.org/wiki/閩客械鬥 "wikilink")，員林人會以此廟為中心舉行[中元普渡](https://zh.wikipedia.org/wiki/中元普渡 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[員林市](../Page/員林市.md "wikilink")**[哪間曹洞宗佛寺](https://zh.wikipedia.org/wiki/員林禪寺 "wikilink")**，發行有《佛教世界》月刊，在[臺北市有分寺](../Page/臺北市.md "wikilink")[光華寺](../Page/光華寺.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[北斗鎮](https://zh.wikipedia.org/wiki/北斗鎮_\(台灣\) "wikilink")**[哪間大士爺廟](https://zh.wikipedia.org/wiki/北斗普度公壇 "wikilink")**，被列為[彰化縣歷史建築](https://zh.wikipedia.org/wiki/彰化縣歷史建築 "wikilink")，為北斗地區[普渡重要地點之一](https://zh.wikipedia.org/wiki/普渡 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[永靖鄉](https://zh.wikipedia.org/wiki/永靖鄉 "wikilink")**[哪間義民廟](https://zh.wikipedia.org/wiki/恩烈祠十三位義民廟 "wikilink")**，祭祀十三位永靖-{庄}-民，地方說與道光年間的抗稅有關？
-  - 2011年[臺灣中興電工集團承包](../Page/臺灣.md "wikilink")[澎湖縣](../Page/澎湖縣.md "wikilink")[湖西鄉](../Page/湖西鄉.md "wikilink")**[哪座風力發電站](https://zh.wikipedia.org/wiki/湖西風力發電站 "wikilink")**的興建工程獲得[行政院](../Page/行政院.md "wikilink")[公共工程委員會第](https://zh.wikipedia.org/wiki/公共工程委員會 "wikilink")11屆公共工程金質獎？
+  - 中華民國政治人物[柯文哲在揹上](../Page/柯文哲.md "wikilink")**[哪一款背包](../Page/嗡嗡包.md "wikilink")**後，其照片被網友修改成日本輕小說《[物語](../Page/物語系列.md "wikilink")》系列的角色八九寺真宵？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[員林市](../Page/員林市.md "wikilink")**[哪間媽祖廟](../Page/員林福寧宮.md "wikilink")**，原先主神與廣東移民的[三山國王合祀](../Page/三山國王.md "wikilink")，後來福建移民於雍正年間獨立建廟？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[員林市](../Page/員林市.md "wikilink")**[哪間地藏庵](../Page/員林地藏庵.md "wikilink")**，由來有[原漢衝突](https://zh.wikipedia.org/wiki/原漢衝突 "wikilink")、[閩客械鬥等說法](https://zh.wikipedia.org/wiki/閩客械鬥 "wikilink")，員林人會以此廟為中心舉行[中元普渡](https://zh.wikipedia.org/wiki/中元普渡 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[員林市](../Page/員林市.md "wikilink")**[哪間曹洞宗佛寺](../Page/員林禪寺.md "wikilink")**，發行有《佛教世界》月刊，在[臺北市有分寺](../Page/臺北市.md "wikilink")[光華寺](../Page/光華寺.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[北斗鎮](https://zh.wikipedia.org/wiki/北斗鎮_\(台灣\) "wikilink")**[哪間大士爺廟](../Page/北斗普度公壇.md "wikilink")**，被列為[彰化縣歷史建築](https://zh.wikipedia.org/wiki/彰化縣歷史建築 "wikilink")，為北斗地區[普渡重要地點之一](https://zh.wikipedia.org/wiki/普渡 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[永靖鄉](https://zh.wikipedia.org/wiki/永靖鄉 "wikilink")**[哪間義民廟](../Page/恩烈祠十三位義民廟.md "wikilink")**，祭祀十三位永靖-{庄}-民，地方說與道光年間的抗稅有關？
+  - 2011年[臺灣中興電工集團承包](../Page/臺灣.md "wikilink")[澎湖縣](../Page/澎湖縣.md "wikilink")[湖西鄉](../Page/湖西鄉.md "wikilink")**[哪座風力發電站](../Page/湖西風力發電站.md "wikilink")**的興建工程獲得[行政院](../Page/行政院.md "wikilink")[公共工程委員會第](https://zh.wikipedia.org/wiki/公共工程委員會 "wikilink")11屆公共工程金質獎？
   - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[北斗鎮](https://zh.wikipedia.org/wiki/北斗鎮_\(台灣\) "wikilink")**[哪座媽祖廟](../Page/北斗奠安宮.md "wikilink")**，為北斗鎮的信仰中心，其媽祖稱為「東螺媽」，列為[彰化縣歷史建築的舊殿是臺灣戲劇](https://zh.wikipedia.org/wiki/彰化縣歷史建築 "wikilink")《[戲說台灣](../Page/戲說台灣.md "wikilink")》裡常見的場景？
-  - 2017年6月初臺灣因為「典型梅雨鋒面」的強降雨而導致發生**[哪起天氣災害](https://zh.wikipedia.org/wiki/2017年6月初臺灣暴雨 "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[北斗鎮](https://zh.wikipedia.org/wiki/北斗鎮_\(台灣\) "wikilink")**[哪棵榕樹](https://zh.wikipedia.org/wiki/北斗大榕樹 "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")，在1985年末與[五福臨門神木](https://zh.wikipedia.org/wiki/五福臨門神木 "wikilink")、[大里杙樹王公](https://zh.wikipedia.org/wiki/大里杙樹王公 "wikilink")、[澤民樹因屬自然文化景觀而被解除](https://zh.wikipedia.org/wiki/澤民樹 "wikilink")[古蹟列管名單](../Page/1979年中華民國內政部暫定古蹟.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[彰化市](../Page/彰化市.md "wikilink")**[哪棵茄苳樹](https://zh.wikipedia.org/wiki/彰化市茄苳王公 "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")，為[大甲鎮瀾宮進香團越過](https://zh.wikipedia.org/wiki/大甲媽祖遶境進香活動 "wikilink")[大度橋後的中午休息午膳地點](../Page/大度橋.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[北斗鎮是以](https://zh.wikipedia.org/wiki/北斗鎮_\(台灣\) "wikilink")**[哪間土地祠](https://zh.wikipedia.org/wiki/北斗開基祖廟福德祠 "wikilink")**與[北斗奠安宮為中心來發展](../Page/北斗奠安宮.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[埔心鄉](../Page/埔心鄉.md "wikilink")**[哪棵茄苳樹](https://zh.wikipedia.org/wiki/太平茄苳公 "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")，是第17屆[彰化縣縣長](https://zh.wikipedia.org/wiki/彰化縣縣長 "wikilink")[魏明谷的契父](../Page/魏明谷.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[北斗鎮有](https://zh.wikipedia.org/wiki/北斗鎮_\(台灣\) "wikilink")**[哪間寺廟](https://zh.wikipedia.org/wiki/北斗華嚴寺 "wikilink")**，是[大甲媽祖遶境進香活動唯一會停駕的佛寺](https://zh.wikipedia.org/wiki/大甲媽祖遶境進香活動 "wikilink")？
-  - [臺灣日治時期](https://zh.wikipedia.org/wiki/臺灣日治時期 "wikilink")，為了慶祝[臺中驛落成](https://zh.wikipedia.org/wiki/臺中火車站_\(舊站\) "wikilink")，**[哪座今位在臺中市中區的媽祖廟](https://zh.wikipedia.org/wiki/台中萬春宮 "wikilink")**與[梧棲朝元宮](../Page/梧棲朝元宮.md "wikilink")、[北港朝天宮](https://zh.wikipedia.org/wiki/北港朝天宮 "wikilink")、[新港奉天宮](../Page/新港奉天宮.md "wikilink")、[鹿港天后宮](../Page/鹿港天后宮.md "wikilink")、[彰化南瑤宮](../Page/彰化南瑤宮.md "wikilink")、[台中樂成宮舉行聯合祭典](https://zh.wikipedia.org/wiki/台中樂成宮 "wikilink")？
-  - **[哪項地熱示範發電計畫](https://zh.wikipedia.org/wiki/綠島地熱示範發電廠 "wikilink")**是[台灣電力公司暨](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[清水地熱發電廠於](https://zh.wikipedia.org/wiki/清水地熱發電廠 "wikilink")1993年停止運轉後再次投入[地熱](https://zh.wikipedia.org/wiki/地熱 "wikilink")[發電廠開發](../Page/發電廠.md "wikilink")？
-  - [蔡明亮的](../Page/蔡明亮.md "wikilink")**[哪部短片作品](https://zh.wikipedia.org/wiki/天桥不见了 "wikilink")**是电影《[你那边几点](../Page/你那边几点.md "wikilink")》的续篇？
+  - 2017年6月初臺灣因為「典型梅雨鋒面」的強降雨而導致發生**[哪起天氣災害](../Page/2017年6月初臺灣暴雨.md "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[北斗鎮](https://zh.wikipedia.org/wiki/北斗鎮_\(台灣\) "wikilink")**[哪棵榕樹](../Page/北斗大榕樹.md "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")，在1985年末與[五福臨門神木](../Page/五福臨門神木.md "wikilink")、[大里杙樹王公](../Page/大里杙樹王公.md "wikilink")、[澤民樹因屬自然文化景觀而被解除](../Page/澤民樹.md "wikilink")[古蹟列管名單](../Page/1979年中華民國內政部暫定古蹟.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[彰化市](../Page/彰化市.md "wikilink")**[哪棵茄苳樹](../Page/彰化市茄苳王公.md "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")，為[大甲鎮瀾宮進香團越過](https://zh.wikipedia.org/wiki/大甲媽祖遶境進香活動 "wikilink")[大度橋後的中午休息午膳地點](../Page/大度橋.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[北斗鎮是以](https://zh.wikipedia.org/wiki/北斗鎮_\(台灣\) "wikilink")**[哪間土地祠](../Page/北斗開基祖廟福德祠.md "wikilink")**與[北斗奠安宮為中心來發展](../Page/北斗奠安宮.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[埔心鄉](../Page/埔心鄉.md "wikilink")**[哪棵茄苳樹](../Page/太平茄苳公.md "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")，是第17屆[彰化縣縣長](https://zh.wikipedia.org/wiki/彰化縣縣長 "wikilink")[魏明谷的契父](../Page/魏明谷.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[北斗鎮有](https://zh.wikipedia.org/wiki/北斗鎮_\(台灣\) "wikilink")**[哪間寺廟](../Page/北斗華嚴寺.md "wikilink")**，是[大甲媽祖遶境進香活動唯一會停駕的佛寺](https://zh.wikipedia.org/wiki/大甲媽祖遶境進香活動 "wikilink")？
+  - [臺灣日治時期](https://zh.wikipedia.org/wiki/臺灣日治時期 "wikilink")，為了慶祝[臺中驛落成](https://zh.wikipedia.org/wiki/臺中火車站_\(舊站\) "wikilink")，**[哪座今位在臺中市中區的媽祖廟](../Page/台中萬春宮.md "wikilink")**與[梧棲朝元宮](../Page/梧棲朝元宮.md "wikilink")、[北港朝天宮](https://zh.wikipedia.org/wiki/北港朝天宮 "wikilink")、[新港奉天宮](../Page/新港奉天宮.md "wikilink")、[鹿港天后宮](../Page/鹿港天后宮.md "wikilink")、[彰化南瑤宮](../Page/彰化南瑤宮.md "wikilink")、[台中樂成宮舉行聯合祭典](https://zh.wikipedia.org/wiki/台中樂成宮 "wikilink")？
+  - **[哪項地熱示範發電計畫](../Page/綠島地熱示範發電廠.md "wikilink")**是[台灣電力公司暨](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[清水地熱發電廠於](../Page/清水地熱發電廠.md "wikilink")1993年停止運轉後再次投入[地熱](https://zh.wikipedia.org/wiki/地熱 "wikilink")[發電廠開發](../Page/發電廠.md "wikilink")？
+  - [蔡明亮的](../Page/蔡明亮.md "wikilink")**[哪部短片作品](../Page/天桥不见了.md "wikilink")**是电影《[你那边几点](../Page/你那边几点.md "wikilink")》的续篇？
   - **[哪一起命案](https://zh.wikipedia.org/wiki/十三号水门命案 "wikilink")**发生在台北市大同区淡水河畔，之后还被各类戏剧当做取材对象？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[后里區](../Page/后里區.md "wikilink")**[哪棵樟樹](https://zh.wikipedia.org/wiki/澤民樹 "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")，是[中國國民黨前主席](../Page/中國國民黨.md "wikilink")[洪秀柱兒時的嬉戲處](https://zh.wikipedia.org/wiki/洪秀柱 "wikilink")，樹名則由時任[臺灣省主席的](https://zh.wikipedia.org/wiki/臺灣省主席 "wikilink")[李登輝所取名](../Page/李登輝.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[后里區](../Page/后里區.md "wikilink")**[哪棵樟樹](../Page/澤民樹.md "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")，是[中國國民黨前主席](../Page/中國國民黨.md "wikilink")[洪秀柱兒時的嬉戲處](https://zh.wikipedia.org/wiki/洪秀柱 "wikilink")，樹名則由時任[臺灣省主席的](https://zh.wikipedia.org/wiki/臺灣省主席 "wikilink")[李登輝所取名](../Page/李登輝.md "wikilink")？
 
 ### 2017年
 
 #### 12月
 
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[彰化市](../Page/彰化市.md "wikilink")**[哪間百姓公廟](https://zh.wikipedia.org/wiki/九天尊王百姓公媽廟 "wikilink")**，祭祀[乙未戰爭](../Page/乙未戰爭.md "wikilink")[八卦山之役抗日人物](../Page/八卦山之役.md "wikilink")，其戲台為該地知名的[酬神戲上演地點](../Page/酬神戲.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[彰化市](../Page/彰化市.md "wikilink")**[哪間百姓公廟](../Page/九天尊王百姓公媽廟.md "wikilink")**，祭祀[乙未戰爭](../Page/乙未戰爭.md "wikilink")[八卦山之役抗日人物](../Page/八卦山之役.md "wikilink")，其戲台為該地知名的[酬神戲上演地點](../Page/酬神戲.md "wikilink")？
   - **[哪一位中共党员](https://zh.wikipedia.org/wiki/徐会之 "wikilink")**被派往[台湾进行情报工作](https://zh.wikipedia.org/wiki/台湾 "wikilink")，自首后仍于1951年11月18日被枪决于台北[马场町刑场](https://zh.wikipedia.org/wiki/马场町 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[后里區](../Page/后里區.md "wikilink")**[哪座神壇](https://zh.wikipedia.org/wiki/雷筳殿 "wikilink")**，會以[棺材來繞境](../Page/棺材.md "wikilink")[臺灣本島](https://zh.wikipedia.org/wiki/臺灣本島 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[沙鹿區](https://zh.wikipedia.org/wiki/沙鹿區 "wikilink")**[哪間原住民廟宇](https://zh.wikipedia.org/wiki/普善寺 "wikilink")**，祭祀[拍瀑拉族的祖靈](../Page/拍瀑拉族.md "wikilink")？
-  - [台灣電力公司所推動之](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")「風力發電十年發展計畫」的第五期開發中計畫在[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[臺西鄉沿海興建](https://zh.wikipedia.org/wiki/臺西鄉 "wikilink")**[哪座風力發電站](https://zh.wikipedia.org/wiki/臺西風力發電站 "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[沙鹿區](https://zh.wikipedia.org/wiki/沙鹿區 "wikilink")**[哪間三山國王廟](https://zh.wikipedia.org/wiki/沙鹿保安宮 "wikilink")**，為後來已遷離的[客家移民所建](https://zh.wikipedia.org/wiki/台灣客家人 "wikilink")，與當地的土地廟有互換廟地以治水的傳說？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[后里區](../Page/后里區.md "wikilink")**[哪座神壇](../Page/雷筳殿.md "wikilink")**，會以[棺材來繞境](../Page/棺材.md "wikilink")[臺灣本島](https://zh.wikipedia.org/wiki/臺灣本島 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[沙鹿區](https://zh.wikipedia.org/wiki/沙鹿區 "wikilink")**[哪間原住民廟宇](../Page/普善寺.md "wikilink")**，祭祀[拍瀑拉族的祖靈](../Page/拍瀑拉族.md "wikilink")？
+  - [台灣電力公司所推動之](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")「風力發電十年發展計畫」的第五期開發中計畫在[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[臺西鄉沿海興建](../Page/臺西鄉.md "wikilink")**[哪座風力發電站](../Page/臺西風力發電站.md "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[沙鹿區](https://zh.wikipedia.org/wiki/沙鹿區 "wikilink")**[哪間三山國王廟](../Page/沙鹿保安宮.md "wikilink")**，為後來已遷離的[客家移民所建](https://zh.wikipedia.org/wiki/台灣客家人 "wikilink")，與當地的土地廟有互換廟地以治水的傳說？
   - [中国统一联盟](https://zh.wikipedia.org/wiki/中国统一联盟 "wikilink")、[新党](https://zh.wikipedia.org/wiki/新党 "wikilink")、[中华统一促进党等支持](https://zh.wikipedia.org/wiki/中华统一促进党 "wikilink")[中国统一](../Page/中国统一.md "wikilink")、反对[台湾独立的政治势力统称为](https://zh.wikipedia.org/wiki/台湾独立 "wikilink")**[什么派别](https://zh.wikipedia.org/wiki/统派 "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[沙鹿區](https://zh.wikipedia.org/wiki/沙鹿區 "wikilink")**[哪間天公廟](https://zh.wikipedia.org/wiki/沙鹿玉皇殿 "wikilink")**，為臺灣民間所說的「三間半」之一？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[沙鹿區](https://zh.wikipedia.org/wiki/沙鹿區 "wikilink")**[哪間媽祖廟](https://zh.wikipedia.org/wiki/沙鹿朝興宮 "wikilink")**，其媽祖稱為-{「}-沙鹿媽-{」}-，一次因為[千里眼與](../Page/千里眼.md "wikilink")[順風耳神像膚色與民眾認知不同而上了新聞](../Page/順風耳.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[沙鹿區有](https://zh.wikipedia.org/wiki/沙鹿區 "wikilink")**[哪一座寺廟](https://zh.wikipedia.org/wiki/蔴園福興宮 "wikilink")**主祀[林爽文事件起事領袖之一](../Page/林爽文事件.md "wikilink")[王勳](../Page/王勳.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[西屯區](../Page/西屯區.md "wikilink")[何厝有](https://zh.wikipedia.org/wiki/何厝 "wikilink")**[哪一間土地祠](https://zh.wikipedia.org/wiki/何仁里福德宮 "wikilink")**，為《臺中市公園綠地園道及行道樹管理自治條例》遭抗議而修法前，合法在[臺中市的公園內建立的廟宇之一](../Page/臺中市公園列表.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[北屯區有](../Page/北屯區.md "wikilink")**[哪間媽祖廟](https://zh.wikipedia.org/wiki/台中朝聖宮 "wikilink")**是[大甲鎮瀾宮](../Page/大甲鎮瀾宮.md "wikilink")[分靈廟](https://zh.wikipedia.org/wiki/分靈廟 "wikilink")，為參加[大甲媽祖遶境進香的台中天上聖母會所建](../Page/大甲媽祖遶境進香.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[沙鹿區](https://zh.wikipedia.org/wiki/沙鹿區 "wikilink")**[哪間天公廟](../Page/沙鹿玉皇殿.md "wikilink")**，為臺灣民間所說的「三間半」之一？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[沙鹿區](https://zh.wikipedia.org/wiki/沙鹿區 "wikilink")**[哪間媽祖廟](../Page/沙鹿朝興宮.md "wikilink")**，其媽祖稱為-{「}-沙鹿媽-{」}-，一次因為[千里眼與](../Page/千里眼.md "wikilink")[順風耳神像膚色與民眾認知不同而上了新聞](../Page/順風耳.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[沙鹿區有](https://zh.wikipedia.org/wiki/沙鹿區 "wikilink")**[哪一座寺廟](../Page/蔴園福興宮.md "wikilink")**主祀[林爽文事件起事領袖之一](../Page/林爽文事件.md "wikilink")[王勳](../Page/王勳.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[西屯區](../Page/西屯區.md "wikilink")[何厝有](../Page/何厝.md "wikilink")**[哪一間土地祠](../Page/何仁里福德宮.md "wikilink")**，為《臺中市公園綠地園道及行道樹管理自治條例》遭抗議而修法前，合法在[臺中市的公園內建立的廟宇之一](../Page/臺中市公園列表.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[北屯區有](../Page/北屯區.md "wikilink")**[哪間媽祖廟](../Page/台中朝聖宮.md "wikilink")**是[大甲鎮瀾宮](../Page/大甲鎮瀾宮.md "wikilink")[分靈廟](https://zh.wikipedia.org/wiki/分靈廟 "wikilink")，為參加[大甲媽祖遶境進香的台中天上聖母會所建](../Page/大甲媽祖遶境進香.md "wikilink")？
   - 臺灣運動員[王子維在](../Page/王子維.md "wikilink")2017年的**[哪一項羽毛球賽事](https://zh.wikipedia.org/wiki/中華民國106年全國運動會羽球比賽 "wikilink")**取得三連霸？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[北屯區](../Page/北屯區.md "wikilink")**[哪間觀音寺](https://zh.wikipedia.org/wiki/松竹寺 "wikilink")**是[三分埔的](https://zh.wikipedia.org/wiki/三分埔 "wikilink")-{庄}-廟，主祀水流觀音，也是該地區路名的由來？
-  - **[哪位清朝将领](https://zh.wikipedia.org/wiki/乌什哈达 "wikilink")**因擒获民变首领[庄大田而位列](https://zh.wikipedia.org/wiki/庄大田 "wikilink")“[平台湾后三十功臣](../Page/林爽文事件.md "wikilink")”之首？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[西屯區](../Page/西屯區.md "wikilink")**[哪間土地祠](https://zh.wikipedia.org/wiki/何厝庄福德祠 "wikilink")**廟地被列為[重劃區抵費地而面臨拆除](../Page/臺中市第四期市地重劃區.md "wikilink")，[地政局特別將該地從得標人手中購回](https://zh.wikipedia.org/wiki/臺中市政府地政局 "wikilink")，讓廟方承租，卻遭議員批評是開了首次惡例？
-  - 臺灣演員[黃健瑋在](../Page/黃健瑋.md "wikilink")**[哪一部到約旦取景的臺灣電視劇](https://zh.wikipedia.org/wiki/麻醉風暴2 "wikilink")**中飾演戰地醫師？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[西屯區](../Page/西屯區.md "wikilink")**[哪間王爺廟](https://zh.wikipedia.org/wiki/何厝庄福壽宮 "wikilink")**，為西屯區[何厝](https://zh.wikipedia.org/wiki/何厝 "wikilink")、何仁、何安、何南、何德、何源等六里的-{庄}-廟，也是[萬和宮](../Page/萬和宮_\(台中市\).md "wikilink")[老二媽西屯省親遶境的停駐廟宇](https://zh.wikipedia.org/wiki/老二媽西屯省親遶境 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[北屯區](../Page/北屯區.md "wikilink")**[哪間觀音寺](../Page/松竹寺.md "wikilink")**是[三分埔的](../Page/三分埔.md "wikilink")-{庄}-廟，主祀水流觀音，也是該地區路名的由來？
+  - **[哪位清朝将领](../Page/乌什哈达.md "wikilink")**因擒获民变首领[庄大田而位列](https://zh.wikipedia.org/wiki/庄大田 "wikilink")“[平台湾后三十功臣](../Page/林爽文事件.md "wikilink")”之首？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[西屯區](../Page/西屯區.md "wikilink")**[哪間土地祠](../Page/何厝庄福德祠.md "wikilink")**廟地被列為[重劃區抵費地而面臨拆除](../Page/臺中市第四期市地重劃區.md "wikilink")，[地政局特別將該地從得標人手中購回](https://zh.wikipedia.org/wiki/臺中市政府地政局 "wikilink")，讓廟方承租，卻遭議員批評是開了首次惡例？
+  - 臺灣演員[黃健瑋在](../Page/黃健瑋.md "wikilink")**[哪一部到約旦取景的臺灣電視劇](../Page/麻醉風暴2.md "wikilink")**中飾演戰地醫師？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[西屯區](../Page/西屯區.md "wikilink")**[哪間王爺廟](../Page/何厝庄福壽宮.md "wikilink")**，為西屯區[何厝](../Page/何厝.md "wikilink")、何仁、何安、何南、何德、何源等六里的-{庄}-廟，也是[萬和宮](../Page/萬和宮_\(台中市\).md "wikilink")[老二媽西屯省親遶境的停駐廟宇](https://zh.wikipedia.org/wiki/老二媽西屯省親遶境 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[梧棲區](../Page/梧棲區.md "wikilink")**[哪一座媽祖廟](../Page/大庄浩天宮.md "wikilink")**，其媽祖被稱為「大-{庄}-媽」、「潛水媽」，該廟建築與進香分別被列為[臺中市文化資產的歷史建築](../Page/臺中市文化資產.md "wikilink")、無形文化資產？
-  - [漢翔航空工業公司承攬](https://zh.wikipedia.org/wiki/漢翔航空工業公司 "wikilink")[新竹](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[香山風力發電站與](https://zh.wikipedia.org/wiki/香山風力發電站 "wikilink")**[哪座風力發電站](https://zh.wikipedia.org/wiki/雲麥風力發電站 "wikilink")**的開發計劃，因爆發弊案於2009年7月21日受到[中華民國監察院提出糾正案](https://zh.wikipedia.org/wiki/中華民國監察院 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[梧棲區](../Page/梧棲區.md "wikilink")[臺中港有](https://zh.wikipedia.org/wiki/臺中港 "wikilink")**[哪兩棵榕樹](https://zh.wikipedia.org/wiki/臺中港大樹公 "wikilink")**被當地人視為[神樹與夫妻樹](../Page/神木.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[清水區](../Page/清水區_\(台灣\).md "wikilink")**[哪間廟宇](https://zh.wikipedia.org/wiki/玉聖寺 "wikilink")**在2016年報導時說是臺中市唯一主祭[齊天大聖的宗教場所](https://zh.wikipedia.org/wiki/齊天大聖 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[大湖鄉](https://zh.wikipedia.org/wiki/大湖鄉_\(台灣\) "wikilink")**[哪間義民廟](https://zh.wikipedia.org/wiki/大湖義民廟 "wikilink")**有抗日人物[羅福星等人的遺骸](../Page/羅福星.md "wikilink")？
-  - **[哪一座位於台中的液化天然氣接收站](https://zh.wikipedia.org/wiki/台中液化天然氣接收站 "wikilink")**是中油為了供應[大潭發電廠而興建的接收站](../Page/大潭發電廠.md "wikilink")？
-  - 臺灣小說家[陳耀昌創作的](../Page/陳耀昌.md "wikilink")**[哪一部歷史小說](https://zh.wikipedia.org/wiki/傀儡花 "wikilink")**以[羅發號事件為主題](../Page/羅發號事件.md "wikilink")，描寫排灣族[斯卡羅頭目](../Page/斯卡羅.md "wikilink")[卓杞篤和法裔美國駐廈門領事](../Page/卓杞篤.md "wikilink")[李仙得簽訂](../Page/李仙得.md "wikilink")[南岬之盟的歷史事件](../Page/南岬之盟.md "wikilink")？
-  - **[哪間孔子廟](https://zh.wikipedia.org/wiki/高雄旗山孔子廟 "wikilink")**是[臺灣占地最大的](../Page/臺灣.md "wikilink")[孔子廟](https://zh.wikipedia.org/wiki/孔子廟 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[公館鄉](https://zh.wikipedia.org/wiki/公館鄉_\(台灣\) "wikilink")**[哪兩棵老樹](https://zh.wikipedia.org/wiki/鶴岡千年鶼鰈老樹 "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")、夫妻樹？
-  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[公館鄉](https://zh.wikipedia.org/wiki/公館鄉_\(台灣\) "wikilink")**[哪間神農廟](https://zh.wikipedia.org/wiki/五鶴山五穀宮 "wikilink")**，是臺灣首部[客家語電影](https://zh.wikipedia.org/wiki/客家語 "wikilink")《茶山情歌》的拍攝地，也是該鄉五穀、玉穀、鶴岡、鶴山、尖山、仁安、南河、北河八村的信仰中心？
-  - 中華民國**[哪一位臺南市政府警察局長](https://zh.wikipedia.org/wiki/陳子敬 "wikilink")**任內警政民調都居[六都第一](https://zh.wikipedia.org/wiki/六都 "wikilink")，獲得市長[賴清德親自頒贈](../Page/賴清德.md "wikilink")「功在臺灣、功在臺南」紀念獎牌，且也在外界不斷勸進下表態參選[臺南市長](https://zh.wikipedia.org/wiki/臺南市長 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[後龍鎮](https://zh.wikipedia.org/wiki/後龍鎮_\(台灣\) "wikilink")**[哪間清朝建立的佛寺](https://zh.wikipedia.org/wiki/新蓮寺 "wikilink")**祭祀[王昭君](../Page/王昭君.md "wikilink")？
+  - [漢翔航空工業公司承攬](https://zh.wikipedia.org/wiki/漢翔航空工業公司 "wikilink")[新竹](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[香山風力發電站與](../Page/香山風力發電站.md "wikilink")**[哪座風力發電站](../Page/雲麥風力發電站.md "wikilink")**的開發計劃，因爆發弊案於2009年7月21日受到[中華民國監察院提出糾正案](https://zh.wikipedia.org/wiki/中華民國監察院 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[梧棲區](../Page/梧棲區.md "wikilink")[臺中港有](https://zh.wikipedia.org/wiki/臺中港 "wikilink")**[哪兩棵榕樹](../Page/臺中港大樹公.md "wikilink")**被當地人視為[神樹與夫妻樹](../Page/神木.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[清水區](../Page/清水區_\(台灣\).md "wikilink")**[哪間廟宇](../Page/玉聖寺.md "wikilink")**在2016年報導時說是臺中市唯一主祭[齊天大聖的宗教場所](https://zh.wikipedia.org/wiki/齊天大聖 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[大湖鄉](https://zh.wikipedia.org/wiki/大湖鄉_\(台灣\) "wikilink")**[哪間義民廟](../Page/大湖義民廟.md "wikilink")**有抗日人物[羅福星等人的遺骸](../Page/羅福星.md "wikilink")？
+  - **[哪一座位於台中的液化天然氣接收站](../Page/台中液化天然氣接收站.md "wikilink")**是中油為了供應[大潭發電廠而興建的接收站](../Page/大潭發電廠.md "wikilink")？
+  - 臺灣小說家[陳耀昌創作的](../Page/陳耀昌.md "wikilink")**[哪一部歷史小說](../Page/傀儡花.md "wikilink")**以[羅發號事件為主題](../Page/羅發號事件.md "wikilink")，描寫排灣族[斯卡羅頭目](../Page/斯卡羅.md "wikilink")[卓杞篤和法裔美國駐廈門領事](../Page/卓杞篤.md "wikilink")[李仙得簽訂](../Page/李仙得.md "wikilink")[南岬之盟的歷史事件](../Page/南岬之盟.md "wikilink")？
+  - **[哪間孔子廟](../Page/高雄旗山孔子廟.md "wikilink")**是[臺灣占地最大的](../Page/臺灣.md "wikilink")[孔子廟](https://zh.wikipedia.org/wiki/孔子廟 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[公館鄉](https://zh.wikipedia.org/wiki/公館鄉_\(台灣\) "wikilink")**[哪兩棵老樹](../Page/鶴岡千年鶼鰈老樹.md "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")、夫妻樹？
+  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[公館鄉](https://zh.wikipedia.org/wiki/公館鄉_\(台灣\) "wikilink")**[哪間神農廟](../Page/五鶴山五穀宮.md "wikilink")**，是臺灣首部[客家語電影](https://zh.wikipedia.org/wiki/客家語 "wikilink")《茶山情歌》的拍攝地，也是該鄉五穀、玉穀、鶴岡、鶴山、尖山、仁安、南河、北河八村的信仰中心？
+  - 中華民國**[哪一位臺南市政府警察局長](../Page/陳子敬.md "wikilink")**任內警政民調都居[六都第一](https://zh.wikipedia.org/wiki/六都 "wikilink")，獲得市長[賴清德親自頒贈](../Page/賴清德.md "wikilink")「功在臺灣、功在臺南」紀念獎牌，且也在外界不斷勸進下表態參選[臺南市長](https://zh.wikipedia.org/wiki/臺南市長 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[後龍鎮](https://zh.wikipedia.org/wiki/後龍鎮_\(台灣\) "wikilink")**[哪間清朝建立的佛寺](../Page/新蓮寺.md "wikilink")**祭祀[王昭君](../Page/王昭君.md "wikilink")？
   - [臺灣鐵路管理局於](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")1983年至1992年期間進行了**[哪一項鐵路橋梁改建工程](https://zh.wikipedia.org/wiki/五大橋梁重建工程‎ "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[東區](../Page/東區_\(新竹市\).md "wikilink")**[哪間陰廟](https://zh.wikipedia.org/wiki/南壇大眾廟 "wikilink")**，農曆七月舉行新竹五十三-{庄}-的普渡，有「七月十二人看人」之諺？
-  - [台灣電力公司於](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")2013年推動[蘆竹風力發電計畫時](https://zh.wikipedia.org/wiki/蘆竹風力發電站 "wikilink")，因受[蘆竹沿海居民抗議而邀請參訪](https://zh.wikipedia.org/wiki/蘆竹區 "wikilink")**[哪座風力發電站](https://zh.wikipedia.org/wiki/林口風力發電站 "wikilink")**後才同意台電施工？
-  - **[哪一位雲林縣縣長](https://zh.wikipedia.org/wiki/廖泉裕 "wikilink")**在任內力邀[台塑六輕到該縣設廠](https://zh.wikipedia.org/wiki/台塑六輕 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[士林區士林公民會館有](../Page/士林區.md "wikilink")**[哪一塊石頭](https://zh.wikipedia.org/wiki/永福磁石 "wikilink")**，能使[指北針指針轉向相反](https://zh.wikipedia.org/wiki/指北針 "wikilink")？
-  - **[哪個原住民魯凱族部落](https://zh.wikipedia.org/wiki/達魯瑪克部落 "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[中央山脈東側唯一的](../Page/中央山脈.md "wikilink")[魯凱族聚落](../Page/魯凱族.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[東區](../Page/東區_\(新竹市\).md "wikilink")**[哪間陰廟](../Page/南壇大眾廟.md "wikilink")**，農曆七月舉行新竹五十三-{庄}-的普渡，有「七月十二人看人」之諺？
+  - [台灣電力公司於](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")2013年推動[蘆竹風力發電計畫時](../Page/蘆竹風力發電站.md "wikilink")，因受[蘆竹沿海居民抗議而邀請參訪](https://zh.wikipedia.org/wiki/蘆竹區 "wikilink")**[哪座風力發電站](../Page/林口風力發電站.md "wikilink")**後才同意台電施工？
+  - **[哪一位雲林縣縣長](../Page/廖泉裕.md "wikilink")**在任內力邀[台塑六輕到該縣設廠](https://zh.wikipedia.org/wiki/台塑六輕 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[士林區士林公民會館有](../Page/士林區.md "wikilink")**[哪一塊石頭](../Page/永福磁石.md "wikilink")**，能使[指北針指針轉向相反](https://zh.wikipedia.org/wiki/指北針 "wikilink")？
+  - **[哪個原住民魯凱族部落](../Page/達魯瑪克部落.md "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[中央山脈東側唯一的](../Page/中央山脈.md "wikilink")[魯凱族聚落](../Page/魯凱族.md "wikilink")？
   - **[哪位臺灣攝影家](../Page/鄧南光.md "wikilink")**為「臺北攝影三劍客」之一，出生地[新竹](../Page/新竹縣.md "wikilink")[北埔有其紀念館](../Page/北埔鄉.md "wikilink")？
 
 #### 11月
@@ -320,410 +320,410 @@
   - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[大同區](../Page/大同區_\(臺灣\).md "wikilink")**[哪間孔子廟](../Page/臺北孔子廟.md "wikilink")**，被列為直轄市定古蹟，其秋祭[釋奠佾舞仿效明朝制度](../Page/釋奠佾舞.md "wikilink")？
   - **[哪一位蘇格蘭籍英國商人](../Page/約翰·陶德.md "wikilink")**為[寶順洋行的創始人之一](https://zh.wikipedia.org/wiki/寶順洋行 "wikilink")，曾引進廈門與福州技工精製[烏龍茶](https://zh.wikipedia.org/wiki/烏龍茶 "wikilink")，外銷美國，帶起台灣茶業的風潮？
   - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[三重區](https://zh.wikipedia.org/wiki/三重區 "wikilink")**[哪間媽祖廟](../Page/三重義天宮.md "wikilink")**有「貓廟」之稱？
-  - 在未開放[海峽兩岸探親之前](https://zh.wikipedia.org/wiki/海峽兩岸關係 "wikilink")，[臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[秀水鄉](https://zh.wikipedia.org/wiki/秀水鄉_\(台灣\) "wikilink")**[哪一間廟](https://zh.wikipedia.org/wiki/烏面將軍廟 "wikilink")**神明誕辰時，臺灣各地的陝西人會至該地聚會？
-  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[後龍鎮有](https://zh.wikipedia.org/wiki/後龍鎮_\(台灣\) "wikilink")**[哪一間從陰廟轉變的廟宇](https://zh.wikipedia.org/wiki/媽靈宮 "wikilink")**，還具有一座祭祀[蔣中正的神殿](../Page/蔣中正.md "wikilink")，為電影《[大佛普拉斯](https://zh.wikipedia.org/wiki/大佛普拉斯 "wikilink")》場景之一？
+  - 在未開放[海峽兩岸探親之前](https://zh.wikipedia.org/wiki/海峽兩岸關係 "wikilink")，[臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[秀水鄉](https://zh.wikipedia.org/wiki/秀水鄉_\(台灣\) "wikilink")**[哪一間廟](../Page/烏面將軍廟.md "wikilink")**神明誕辰時，臺灣各地的陝西人會至該地聚會？
+  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[後龍鎮有](https://zh.wikipedia.org/wiki/後龍鎮_\(台灣\) "wikilink")**[哪一間從陰廟轉變的廟宇](../Page/媽靈宮.md "wikilink")**，還具有一座祭祀[蔣中正的神殿](../Page/蔣中正.md "wikilink")，為電影《[大佛普拉斯](../Page/大佛普拉斯.md "wikilink")》場景之一？
   - **[哪一年的臺灣大賽](https://zh.wikipedia.org/wiki/2017年中華職棒總冠軍賽 "wikilink")**是繼[2002年臺灣大賽後](../Page/2002年中華職棒總冠軍賽.md "wikilink")，再度出現[臺灣大賽尚未開始即保送一場勝利的情況](https://zh.wikipedia.org/wiki/臺灣大賽 "wikilink")？
-  - 2004年7月[敏督利颱風侵襲](https://zh.wikipedia.org/wiki/敏督利颱風 "wikilink")[臺灣](../Page/臺灣.md "wikilink")，[苗栗縣](../Page/苗栗縣.md "wikilink")[鯉魚潭水庫管理人員因擔心危及](../Page/鯉魚潭水庫.md "wikilink")**[哪座橋梁](https://zh.wikipedia.org/wiki/歸安橋 "wikilink")**啟動防洪運轉進而造成[閘門脫落事件](https://zh.wikipedia.org/wiki/2004年苗栗鯉魚潭水庫檔水閘門脫落事件 "wikilink")？
+  - 2004年7月[敏督利颱風侵襲](https://zh.wikipedia.org/wiki/敏督利颱風 "wikilink")[臺灣](../Page/臺灣.md "wikilink")，[苗栗縣](../Page/苗栗縣.md "wikilink")[鯉魚潭水庫管理人員因擔心危及](../Page/鯉魚潭水庫.md "wikilink")**[哪座橋梁](../Page/歸安橋.md "wikilink")**啟動防洪運轉進而造成[閘門脫落事件](../Page/2004年苗栗鯉魚潭水庫檔水閘門脫落事件.md "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[大村鄉](https://zh.wikipedia.org/wiki/大村鄉_\(台灣\) "wikilink")**[哪間觀音寺](https://zh.wikipedia.org/wiki/慈雲寺_\(大村\) "wikilink")**，在1947年時出現神秘的黑色米粒，引起民眾挖掘？
-  - **[哪起發生於2004年的水庫安全事件](https://zh.wikipedia.org/wiki/2004年苗栗鯉魚潭水庫檔水閘門脫落事件 "wikilink")**造成[臺灣大](../Page/臺灣.md "wikilink")[臺中地區必須分區供水長達](https://zh.wikipedia.org/wiki/臺中 "wikilink")6天之久？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[大村鄉](https://zh.wikipedia.org/wiki/大村鄉_\(台灣\) "wikilink")**[哪間土地祠](https://zh.wikipedia.org/wiki/錫安祠 "wikilink")**，以一棵榕樹包住舊廟身而知名，被稱為「樹包廟」？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[大村鄉](https://zh.wikipedia.org/wiki/大村鄉_\(台灣\) "wikilink")**[哪間姑娘廟](https://zh.wikipedia.org/wiki/慈悲寺淑女祠 "wikilink")**，祭祀當地於1976年車禍罹難的十六名女學生？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[大村鄉](https://zh.wikipedia.org/wiki/大村鄉_\(台灣\) "wikilink")**[哪間廟](https://zh.wikipedia.org/wiki/天蓬元帥發財宮 "wikilink")**，是祭祀[豬八戒](https://zh.wikipedia.org/wiki/豬八戒 "wikilink")，其主神神像多次被竊？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[大村鄉](https://zh.wikipedia.org/wiki/大村鄉_\(台灣\) "wikilink")**[哪間媽祖廟](https://zh.wikipedia.org/wiki/大橋頭慈鳳宮 "wikilink")**，其開基媽祖神像來自[彰化南瑤宮](../Page/彰化南瑤宮.md "wikilink")，被稱為「老四媽」？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[社頭鄉](https://zh.wikipedia.org/wiki/社頭鄉 "wikilink")[縣道137號旁有](../Page/縣道137號.md "wikilink")**[哪間石頭公廟](https://zh.wikipedia.org/wiki/社頭泰安宮 "wikilink")**，其石頭狀似人臉，也是該區域地名的由來？
-  - **[哪座位於臺灣臺中市清水區的風力發電站](https://zh.wikipedia.org/wiki/臺中港風力發電站 "wikilink")**因[風力發電機整齊排列於防汛道路旁](https://zh.wikipedia.org/wiki/風力發電機 "wikilink")，因此又有「[風車大道](https://zh.wikipedia.org/wiki/風車 "wikilink")」的別稱？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[田中鎮有](https://zh.wikipedia.org/wiki/田中鎮 "wikilink")**[哪間廟](https://zh.wikipedia.org/wiki/世芳宮 "wikilink")**，傳說與[林先生廟有關](https://zh.wikipedia.org/wiki/林先生廟 "wikilink")，信徒還會以[番石榴](../Page/番石榴.md "wikilink")（芭樂）祭神？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[彰化市](../Page/彰化市.md "wikilink")**[哪間池府王爺廟兼石頭公廟](https://zh.wikipedia.org/wiki/彰化鎮東宮 "wikilink")**，因廟內的石頭公而與[琉球的](../Page/琉球.md "wikilink")[龍泉教有所交流](../Page/龍泉教.md "wikilink")？
-  - [台灣電力公司於](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")2003年向[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[-{zh-hans:通用电气;zh-hk:通用電氣;zh-tw:奇異公司;}-採購](https://zh.wikipedia.org/wiki/奇異公司 "wikilink")23部[風力發電機組分別裝設在](https://zh.wikipedia.org/wiki/風力發電機 "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大潭風力發電站以及](https://zh.wikipedia.org/wiki/大潭風力發電站 "wikilink")**[哪座風力發電站](https://zh.wikipedia.org/wiki/觀園風力發電站 "wikilink")**？
+  - **[哪起發生於2004年的水庫安全事件](../Page/2004年苗栗鯉魚潭水庫檔水閘門脫落事件.md "wikilink")**造成[臺灣大](../Page/臺灣.md "wikilink")[臺中地區必須分區供水長達](https://zh.wikipedia.org/wiki/臺中 "wikilink")6天之久？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[大村鄉](https://zh.wikipedia.org/wiki/大村鄉_\(台灣\) "wikilink")**[哪間土地祠](../Page/錫安祠.md "wikilink")**，以一棵榕樹包住舊廟身而知名，被稱為「樹包廟」？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[大村鄉](https://zh.wikipedia.org/wiki/大村鄉_\(台灣\) "wikilink")**[哪間姑娘廟](../Page/慈悲寺淑女祠.md "wikilink")**，祭祀當地於1976年車禍罹難的十六名女學生？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[大村鄉](https://zh.wikipedia.org/wiki/大村鄉_\(台灣\) "wikilink")**[哪間廟](../Page/天蓬元帥發財宮.md "wikilink")**，是祭祀[豬八戒](https://zh.wikipedia.org/wiki/豬八戒 "wikilink")，其主神神像多次被竊？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[大村鄉](https://zh.wikipedia.org/wiki/大村鄉_\(台灣\) "wikilink")**[哪間媽祖廟](../Page/大橋頭慈鳳宮.md "wikilink")**，其開基媽祖神像來自[彰化南瑤宮](../Page/彰化南瑤宮.md "wikilink")，被稱為「老四媽」？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[社頭鄉](https://zh.wikipedia.org/wiki/社頭鄉 "wikilink")[縣道137號旁有](../Page/縣道137號.md "wikilink")**[哪間石頭公廟](../Page/社頭泰安宮.md "wikilink")**，其石頭狀似人臉，也是該區域地名的由來？
+  - **[哪座位於臺灣臺中市清水區的風力發電站](../Page/臺中港風力發電站.md "wikilink")**因[風力發電機整齊排列於防汛道路旁](https://zh.wikipedia.org/wiki/風力發電機 "wikilink")，因此又有「[風車大道](https://zh.wikipedia.org/wiki/風車 "wikilink")」的別稱？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[田中鎮有](https://zh.wikipedia.org/wiki/田中鎮 "wikilink")**[哪間廟](../Page/世芳宮.md "wikilink")**，傳說與[林先生廟有關](../Page/林先生廟.md "wikilink")，信徒還會以[番石榴](../Page/番石榴.md "wikilink")（芭樂）祭神？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[彰化市](../Page/彰化市.md "wikilink")**[哪間池府王爺廟兼石頭公廟](../Page/彰化鎮東宮.md "wikilink")**，因廟內的石頭公而與[琉球的](../Page/琉球.md "wikilink")[龍泉教有所交流](../Page/龍泉教.md "wikilink")？
+  - [台灣電力公司於](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")2003年向[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[-{zh-hans:通用电气;zh-hk:通用電氣;zh-tw:奇異公司;}-採購](https://zh.wikipedia.org/wiki/奇異公司 "wikilink")23部[風力發電機組分別裝設在](https://zh.wikipedia.org/wiki/風力發電機 "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大潭風力發電站以及](../Page/大潭風力發電站.md "wikilink")**[哪座風力發電站](../Page/觀園風力發電站.md "wikilink")**？
   - 1940年8月15日，
-    **[哪位日本女老師](https://zh.wikipedia.org/wiki/淺井初子 "wikilink")**為救學童而殉身，在今[臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[二水鄉二水國小內立有紀念碑](https://zh.wikipedia.org/wiki/二水鄉 "wikilink")，但雕像後來被換成[岳飛像](https://zh.wikipedia.org/wiki/岳飛 "wikilink")，碑石也一度被當成石凳？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[峨眉鄉有](../Page/峨眉鄉.md "wikilink")**[哪座廟宇](https://zh.wikipedia.org/wiki/天恩彌勒佛院 "wikilink")**，有一座淨高56.7公尺的彌勒佛青銅像？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[寶山鄉有](../Page/寶山鄉_\(台灣\).md "wikilink")**[哪一口井](https://zh.wikipedia.org/wiki/寶山雙胞胎井 "wikilink")**，以傳說能讓人生育[雙胞胎而知名](../Page/雙胞胎.md "wikilink")，演變成當地在[雙十節的雙胞胎聚會慶典](https://zh.wikipedia.org/wiki/雙十節 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[寶山鄉](../Page/寶山鄉_\(台灣\).md "wikilink")[寶二水庫附近](https://zh.wikipedia.org/wiki/寶二水庫 "wikilink")**[哪一間廟](https://zh.wikipedia.org/wiki/大壢老仙爺廟 "wikilink")**建廟緣由與當地1907年的傳說有關？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[二水鄉](https://zh.wikipedia.org/wiki/二水鄉 "wikilink")**[哪間廟宇](https://zh.wikipedia.org/wiki/林先生廟 "wikilink")**，為主祭一名傳說幫助[施世榜建成](../Page/施世榜.md "wikilink")[八堡圳的林姓人士](../Page/八堡圳.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[二水鄉](https://zh.wikipedia.org/wiki/二水鄉 "wikilink")**[哪一間寺廟](https://zh.wikipedia.org/wiki/定覺寺 "wikilink")**在[中華人民共和國台灣省社會主義民族思想愛國教育基地鄰近](https://zh.wikipedia.org/wiki/中華人民共和國台灣省社會主義民族思想愛國教育基地 "wikilink")，該寺於初一、十五升[中華民國國旗](https://zh.wikipedia.org/wiki/中華民國國旗 "wikilink")，還將[中華民國各院部首長指定為各神明](../Page/中華民國.md "wikilink")？
-  - 臺灣**[哪一棟建築物](https://zh.wikipedia.org/wiki/埡口山莊 "wikilink")**曾是[救國團舉辦南橫健行縱走的行程中](https://zh.wikipedia.org/wiki/救國團 "wikilink")，為海拔最高的投宿之地，後來因地基流失而被[林務局收回土地](https://zh.wikipedia.org/wiki/林務局 "wikilink")，並且不再對外開放？
-  - **[哪一項羽毛球國際賽事](https://zh.wikipedia.org/wiki/2004年中華台北羽球公開賽 "wikilink")**在2004年時首度有地主選手奪得女子雙打冠軍？
+    **[哪位日本女老師](../Page/淺井初子.md "wikilink")**為救學童而殉身，在今[臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[二水鄉二水國小內立有紀念碑](https://zh.wikipedia.org/wiki/二水鄉 "wikilink")，但雕像後來被換成[岳飛像](https://zh.wikipedia.org/wiki/岳飛 "wikilink")，碑石也一度被當成石凳？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[峨眉鄉有](../Page/峨眉鄉.md "wikilink")**[哪座廟宇](../Page/天恩彌勒佛院.md "wikilink")**，有一座淨高56.7公尺的彌勒佛青銅像？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[寶山鄉有](../Page/寶山鄉_\(台灣\).md "wikilink")**[哪一口井](../Page/寶山雙胞胎井.md "wikilink")**，以傳說能讓人生育[雙胞胎而知名](../Page/雙胞胎.md "wikilink")，演變成當地在[雙十節的雙胞胎聚會慶典](https://zh.wikipedia.org/wiki/雙十節 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[寶山鄉](../Page/寶山鄉_\(台灣\).md "wikilink")[寶二水庫附近](https://zh.wikipedia.org/wiki/寶二水庫 "wikilink")**[哪一間廟](../Page/大壢老仙爺廟.md "wikilink")**建廟緣由與當地1907年的傳說有關？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[二水鄉](https://zh.wikipedia.org/wiki/二水鄉 "wikilink")**[哪間廟宇](../Page/林先生廟.md "wikilink")**，為主祭一名傳說幫助[施世榜建成](../Page/施世榜.md "wikilink")[八堡圳的林姓人士](../Page/八堡圳.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[二水鄉](https://zh.wikipedia.org/wiki/二水鄉 "wikilink")**[哪一間寺廟](../Page/定覺寺.md "wikilink")**在[中華人民共和國台灣省社會主義民族思想愛國教育基地鄰近](https://zh.wikipedia.org/wiki/中華人民共和國台灣省社會主義民族思想愛國教育基地 "wikilink")，該寺於初一、十五升[中華民國國旗](https://zh.wikipedia.org/wiki/中華民國國旗 "wikilink")，還將[中華民國各院部首長指定為各神明](../Page/中華民國.md "wikilink")？
+  - 臺灣**[哪一棟建築物](../Page/埡口山莊.md "wikilink")**曾是[救國團舉辦南橫健行縱走的行程中](https://zh.wikipedia.org/wiki/救國團 "wikilink")，為海拔最高的投宿之地，後來因地基流失而被[林務局收回土地](https://zh.wikipedia.org/wiki/林務局 "wikilink")，並且不再對外開放？
+  - **[哪一項羽毛球國際賽事](../Page/2004年中華台北羽球公開賽.md "wikilink")**在2004年時首度有地主選手奪得女子雙打冠軍？
 
 #### 10月
 
   - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[五結鄉](https://zh.wikipedia.org/wiki/五結鄉 "wikilink")**[哪間媽祖廟](../Page/利澤簡永安宮.md "wikilink")**，其舊廟建築與[元宵節舉行抬神轎競速的比賽皆被列為](../Page/台灣元宵節.md "wikilink")[宜蘭縣文化資產](../Page/宜蘭縣文化資產.md "wikilink")？
-  - **[哪間啤酒生產工廠](https://zh.wikipedia.org/wiki/善化啤酒廠 "wikilink")**是[臺灣第一間以](../Page/臺灣.md "wikilink")[啤酒為主題的觀光酒廠](../Page/啤酒.md "wikilink")？
-  - **[哪一家臺灣的連鎖零售商](https://zh.wikipedia.org/wiki/小北百貨 "wikilink")**起源於1994年，是由海產店演變而來，其創辦人為黃卜文？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[楊梅區](https://zh.wikipedia.org/wiki/楊梅區 "wikilink")**[哪一間三官大帝廟](https://zh.wikipedia.org/wiki/錫福宮 "wikilink")**，與1994年當地的護樹運動有關？
-  - 截至2017年10月，**[哪間位於臺東縣臺東市的醫院](https://zh.wikipedia.org/wiki/衛生福利部臺東醫院 "wikilink")**是[臺灣六間超過百年歷史的](../Page/臺灣.md "wikilink")[醫院之一](../Page/醫院.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[五結鄉](https://zh.wikipedia.org/wiki/五結鄉 "wikilink")**[哪一間土地祠](https://zh.wikipedia.org/wiki/五結奠安宮 "wikilink")**，其主神造型為騎著[豺狼的土地神](../Page/豺.md "wikilink")？
+  - **[哪間啤酒生產工廠](../Page/善化啤酒廠.md "wikilink")**是[臺灣第一間以](../Page/臺灣.md "wikilink")[啤酒為主題的觀光酒廠](../Page/啤酒.md "wikilink")？
+  - **[哪一家臺灣的連鎖零售商](../Page/小北百貨.md "wikilink")**起源於1994年，是由海產店演變而來，其創辦人為黃卜文？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[楊梅區](https://zh.wikipedia.org/wiki/楊梅區 "wikilink")**[哪一間三官大帝廟](../Page/錫福宮.md "wikilink")**，與1994年當地的護樹運動有關？
+  - 截至2017年10月，**[哪間位於臺東縣臺東市的醫院](../Page/衛生福利部臺東醫院.md "wikilink")**是[臺灣六間超過百年歷史的](../Page/臺灣.md "wikilink")[醫院之一](../Page/醫院.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[五結鄉](https://zh.wikipedia.org/wiki/五結鄉 "wikilink")**[哪一間土地祠](../Page/五結奠安宮.md "wikilink")**，其主神造型為騎著[豺狼的土地神](../Page/豺.md "wikilink")？
   - 台灣女演員[柯淑勤憑](../Page/柯淑勤.md "wikilink")**[哪部電視劇](../Page/植劇場－戀愛沙塵暴.md "wikilink")**獲得[第52屆金鐘獎戲劇節目女主角獎](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")？
-  - **[哪名台灣YouTuber](https://zh.wikipedia.org/wiki/啾啾鞋 "wikilink")**的頻道主打[科普類的影片](https://zh.wikipedia.org/wiki/科學普及 "wikilink")，包括「一探啾竟」「超邊緣冷知識」等系列影片？
-  - 《[植劇場](https://zh.wikipedia.org/wiki/植劇場 "wikilink")》中**[哪部作品](https://zh.wikipedia.org/wiki/植劇場－姜老師，妳談過戀愛嗎？ "wikilink")**由金鐘視帝[藍正龍搭檔](../Page/藍正龍.md "wikilink")[葉星辰](../Page/葉星辰.md "wikilink")、禾語辰和[許光漢領銜主演](https://zh.wikipedia.org/wiki/許光漢 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[五結鄉](https://zh.wikipedia.org/wiki/五結鄉 "wikilink")**[哪一座鄭成功廟](https://zh.wikipedia.org/wiki/慶興廟 "wikilink")**建廟由來是農家小孩泥塑的神像，在2012年[建醮時還用](https://zh.wikipedia.org/wiki/建醮 "wikilink")[圓頭鯊等多條鯊魚當祭品](https://zh.wikipedia.org/wiki/圓頭鯊 "wikilink")？
+  - **[哪名台灣YouTuber](../Page/啾啾鞋.md "wikilink")**的頻道主打[科普類的影片](https://zh.wikipedia.org/wiki/科學普及 "wikilink")，包括「一探啾竟」「超邊緣冷知識」等系列影片？
+  - 《[植劇場](https://zh.wikipedia.org/wiki/植劇場 "wikilink")》中**[哪部作品](../Page/植劇場－姜老師，妳談過戀愛嗎？.md "wikilink")**由金鐘視帝[藍正龍搭檔](../Page/藍正龍.md "wikilink")[葉星辰](../Page/葉星辰.md "wikilink")、禾語辰和[許光漢領銜主演](../Page/許光漢.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[五結鄉](https://zh.wikipedia.org/wiki/五結鄉 "wikilink")**[哪一座鄭成功廟](../Page/慶興廟.md "wikilink")**建廟由來是農家小孩泥塑的神像，在2012年[建醮時還用](https://zh.wikipedia.org/wiki/建醮 "wikilink")[圓頭鯊等多條鯊魚當祭品](https://zh.wikipedia.org/wiki/圓頭鯊 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[五結鄉](https://zh.wikipedia.org/wiki/五結鄉 "wikilink")**[哪間醫院](../Page/五結鄉利生醫院.md "wikilink")**，最初為[輕便車站台](../Page/台灣輕便鐵道.md "wikilink")，被列為[宜蘭縣文化資產](../Page/宜蘭縣文化資產.md "wikilink")，也是偶像劇《[命中注定我愛你](../Page/命中注定我愛你_\(台灣電視劇\).md "wikilink")》的場景之一？？
   - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[五結鄉利澤村的](https://zh.wikipedia.org/wiki/五結鄉 "wikilink")**[哪一間廣惠尊王廟宇](../Page/利澤簡廣惠宮.md "wikilink")**，過去[元宵節時會舉辦鑑別新娘是否為妖怪的宗教儀式](../Page/台灣元宵節.md "wikilink")？
-  - [台灣電力公司在](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")2005年1月所推動的「[風力發電十年發展計畫](https://zh.wikipedia.org/wiki/風力發電 "wikilink")」第二期開發中，計畫在[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[四湖鄉沿海設置](https://zh.wikipedia.org/wiki/四湖鄉 "wikilink")**[哪座風力發電站](https://zh.wikipedia.org/wiki/四湖風力發電站 "wikilink")**？
-  - **[哪一部2017年的臺灣電影](https://zh.wikipedia.org/wiki/阿莉芙 "wikilink")**描述一位排灣族青年在變性夢想與繼承頭目之間的猶豫與掙扎？
-  - [臺灣](../Page/臺灣.md "wikilink")[北宜公路的車禍罹難者家屬與計程車](../Page/北宜公路.md "wikilink")、大卡車駕駛會去**[哪一座紀念碑兼陰廟](https://zh.wikipedia.org/wiki/北宜公路殉職先靈紀念碑 "wikilink")**祭祀亡靈？
-  - 2017年，[**哪一個颱風**引起](https://zh.wikipedia.org/wiki/颱風卡努_\(2017年\) "wikilink")-{zh-hans:共伴效应;
+  - [台灣電力公司在](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")2005年1月所推動的「[風力發電十年發展計畫](https://zh.wikipedia.org/wiki/風力發電 "wikilink")」第二期開發中，計畫在[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[四湖鄉沿海設置](https://zh.wikipedia.org/wiki/四湖鄉 "wikilink")**[哪座風力發電站](../Page/四湖風力發電站.md "wikilink")**？
+  - **[哪一部2017年的臺灣電影](../Page/阿莉芙.md "wikilink")**描述一位排灣族青年在變性夢想與繼承頭目之間的猶豫與掙扎？
+  - [臺灣](../Page/臺灣.md "wikilink")[北宜公路的車禍罹難者家屬與計程車](../Page/北宜公路.md "wikilink")、大卡車駕駛會去**[哪一座紀念碑兼陰廟](../Page/北宜公路殉職先靈紀念碑.md "wikilink")**祭祀亡靈？
+  - 2017年，[**哪一個颱風**引起](../Page/颱風卡努_\(2017年\).md "wikilink")-{zh-hans:共伴效应;
     zh-tw:共伴效應; zh-hk:相互作用; zh-mo:相互效應}-，使得台灣部分地區連日暴雨成災，港澳均發出八號信號？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[花壇鄉有](https://zh.wikipedia.org/wiki/花壇鄉 "wikilink")**[哪一棵茄苳樹](https://zh.wikipedia.org/wiki/三春老樹 "wikilink")**，被居民視為[神樹](../Page/神木.md "wikilink")，因[統一企業麥香奶茶廣告而知名度大開](../Page/統一企業.md "wikilink")？
-  - 2011年[臺灣中興電工集團承包](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[芳苑鄉](https://zh.wikipedia.org/wiki/芳苑鄉 "wikilink")**[哪座風力發電站](https://zh.wikipedia.org/wiki/王功風力發電站 "wikilink")**的工程而獲得[行政院](../Page/行政院.md "wikilink")[公共工程委員會第](https://zh.wikipedia.org/wiki/公共工程委員會 "wikilink")11屆公共工程金質獎優等？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[石門區有](../Page/石門區.md "wikilink")**[哪一棵雀榕](https://zh.wikipedia.org/wiki/千年神豬樹公 "wikilink")**，被信眾視為[神樹及](../Page/神木.md "wikilink")[豬八戒的化身](https://zh.wikipedia.org/wiki/豬八戒 "wikilink")，並在[10月10日祭拜此樹](../Page/10月10日.md "wikilink")？
-  - 中華民國[司法院大法官因為](../Page/司法院大法官.md "wikilink")[法輪功成員張貼海報](https://zh.wikipedia.org/wiki/法輪功 "wikilink")，而在2015年做出**[釋字第幾號釋憲案](https://zh.wikipedia.org/wiki/大法官會議釋字第734號釋憲案 "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[花壇鄉有](https://zh.wikipedia.org/wiki/花壇鄉 "wikilink")**[哪一棵茄苳樹](../Page/三春老樹.md "wikilink")**，被居民視為[神樹](../Page/神木.md "wikilink")，因[統一企業麥香奶茶廣告而知名度大開](../Page/統一企業.md "wikilink")？
+  - 2011年[臺灣中興電工集團承包](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[芳苑鄉](https://zh.wikipedia.org/wiki/芳苑鄉 "wikilink")**[哪座風力發電站](../Page/王功風力發電站.md "wikilink")**的工程而獲得[行政院](../Page/行政院.md "wikilink")[公共工程委員會第](https://zh.wikipedia.org/wiki/公共工程委員會 "wikilink")11屆公共工程金質獎優等？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[石門區有](../Page/石門區.md "wikilink")**[哪一棵雀榕](../Page/千年神豬樹公.md "wikilink")**，被信眾視為[神樹及](../Page/神木.md "wikilink")[豬八戒的化身](https://zh.wikipedia.org/wiki/豬八戒 "wikilink")，並在[10月10日祭拜此樹](../Page/10月10日.md "wikilink")？
+  - 中華民國[司法院大法官因為](../Page/司法院大法官.md "wikilink")[法輪功成員張貼海報](https://zh.wikipedia.org/wiki/法輪功 "wikilink")，而在2015年做出**[釋字第幾號釋憲案](../Page/大法官會議釋字第734號釋憲案.md "wikilink")**？
   - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[新莊廟街](https://zh.wikipedia.org/wiki/新莊廟街 "wikilink")**[哪間媽祖廟](../Page/新莊慈祐宮.md "wikilink")**，被列為[新北市文化資產](../Page/新北市文化資產.md "wikilink")，也是新北市[土城區](../Page/土城區.md "wikilink")[媽祖田地名的由來](../Page/媽祖田.md "wikilink")？？
-  - **[為什麼](https://zh.wikipedia.org/wiki/康世儒條款 "wikilink")**中華民國《地方制度法》將第55至57條地方首長「……連選得連任一『次』」修改為「……連選得連任一『屆』」？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[楊梅區永寧里有](https://zh.wikipedia.org/wiki/楊梅區 "wikilink")**[哪一棵樟樹](https://zh.wikipedia.org/wiki/永寧里樟樹伯公 "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")，且會在[天穿日祭祀此樹](../Page/天穿日.md "wikilink")？
+  - **[為什麼](../Page/康世儒條款.md "wikilink")**中華民國《地方制度法》將第55至57條地方首長「……連選得連任一『次』」修改為「……連選得連任一『屆』」？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[楊梅區永寧里有](https://zh.wikipedia.org/wiki/楊梅區 "wikilink")**[哪一棵樟樹](../Page/永寧里樟樹伯公.md "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")，且會在[天穿日祭祀此樹](../Page/天穿日.md "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[新莊廟街](https://zh.wikipedia.org/wiki/新莊廟街 "wikilink")**[哪間土地祠兼觀音寺](../Page/新莊潮江寺.md "wikilink")**前身是瞭望台，用以防禦[大漢溪對岸](../Page/大漢溪.md "wikilink")[板橋的漳州人](https://zh.wikipedia.org/wiki/板橋區_\(台灣\) "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[新莊廟街](https://zh.wikipedia.org/wiki/新莊廟街 "wikilink")**[哪間關帝廟](../Page/新莊武聖廟.md "wikilink")**其建立與當地的商業繁榮有關，被列為[新北市文化資產](../Page/新北市文化資產.md "wikilink")？
-  - **[哪座臺灣桃園蘆竹區的風力發電站](https://zh.wikipedia.org/wiki/蘆竹風力發電站 "wikilink")**因在[桃園國際機場的飛航高度限制區之下高度與](https://zh.wikipedia.org/wiki/桃園國際機場 "wikilink")[發電機組容量相較於鄰近](https://zh.wikipedia.org/wiki/發電機 "wikilink")[風力發電站更小](https://zh.wikipedia.org/wiki/風力發電 "wikilink")？
+  - **[哪座臺灣桃園蘆竹區的風力發電站](../Page/蘆竹風力發電站.md "wikilink")**因在[桃園國際機場的飛航高度限制區之下高度與](https://zh.wikipedia.org/wiki/桃園國際機場 "wikilink")[發電機組容量相較於鄰近](https://zh.wikipedia.org/wiki/發電機 "wikilink")[風力發電站更小](https://zh.wikipedia.org/wiki/風力發電 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[新莊廟街上](https://zh.wikipedia.org/wiki/新莊廟街 "wikilink")**[哪一間三山國王廟](../Page/新莊廣福宮.md "wikilink")**為日後遷走的[客家移民所建](https://zh.wikipedia.org/wiki/台灣客家人 "wikilink")，被列為古蹟？
-  - **[哪座風力發電站](https://zh.wikipedia.org/wiki/彰工風力發電站 "wikilink")**曾在2016年4月28日發生[新竹](https://zh.wikipedia.org/wiki/新竹 "wikilink")[香山風力發電站後](https://zh.wikipedia.org/wiki/香山風力發電站 "wikilink")[臺灣第二起的](../Page/臺灣.md "wikilink")[風力發電機火警意外](https://zh.wikipedia.org/wiki/風力發電機 "wikilink")？
+  - **[哪座風力發電站](../Page/彰工風力發電站.md "wikilink")**曾在2016年4月28日發生[新竹](https://zh.wikipedia.org/wiki/新竹 "wikilink")[香山風力發電站後](../Page/香山風力發電站.md "wikilink")[臺灣第二起的](../Page/臺灣.md "wikilink")[風力發電機火警意外](https://zh.wikipedia.org/wiki/風力發電機 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[新莊區](../Page/新莊區.md "wikilink")**[哪座地藏庵](../Page/新莊地藏庵.md "wikilink")**其[大眾爺繞境被列為](https://zh.wikipedia.org/wiki/大眾爺 "wikilink")[新北市文化資產](../Page/新北市文化資產.md "wikilink")，也被認為是[官將首的起源地](../Page/官將首.md "wikilink")？
-  - **[哪一間臺灣少見由民間私設的孔廟](https://zh.wikipedia.org/wiki/羅東孔子廟 "wikilink")**在[臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[羅東鎮](https://zh.wikipedia.org/wiki/羅東鎮_\(臺灣\) "wikilink")？
-  - [台灣電力公司曾於](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")2008年2月在[中華民國](../Page/中華民國.md "wikilink")[福建省](../Page/福建省_\(中華民國\).md "wikilink")[金門縣](../Page/金門縣.md "wikilink")[金沙鎮設立](../Page/金沙鎮_\(金門縣\).md "wikilink")**[哪座風力發電站](https://zh.wikipedia.org/wiki/金沙風力發電站 "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[羅東鎮](https://zh.wikipedia.org/wiki/羅東鎮_\(臺灣\) "wikilink")**[哪間龍華教齋堂](https://zh.wikipedia.org/wiki/善法寺 "wikilink")**，有一尊編號十二號的[西國三十三所靈場觀音像](https://zh.wikipedia.org/wiki/西國三十三所靈場 "wikilink")？
+  - **[哪一間臺灣少見由民間私設的孔廟](../Page/羅東孔子廟.md "wikilink")**在[臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[羅東鎮](https://zh.wikipedia.org/wiki/羅東鎮_\(臺灣\) "wikilink")？
+  - [台灣電力公司曾於](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")2008年2月在[中華民國](../Page/中華民國.md "wikilink")[福建省](../Page/福建省_\(中華民國\).md "wikilink")[金門縣](../Page/金門縣.md "wikilink")[金沙鎮設立](../Page/金沙鎮_\(金門縣\).md "wikilink")**[哪座風力發電站](../Page/金沙風力發電站.md "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[羅東鎮](https://zh.wikipedia.org/wiki/羅東鎮_\(臺灣\) "wikilink")**[哪間龍華教齋堂](../Page/善法寺.md "wikilink")**，有一尊編號十二號的[西國三十三所靈場觀音像](https://zh.wikipedia.org/wiki/西國三十三所靈場 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[五結鄉有](https://zh.wikipedia.org/wiki/五結鄉 "wikilink")**[哪間土地祠](../Page/四結福德廟.md "wikilink")**有一尊巨型的土地公像，其開基及鎮殿土地公都是一夫二妻，並舉辦過多起與其他廟宇土地公聯婚的活動？
-  - **[哪座風力發電站](https://zh.wikipedia.org/wiki/香山風力發電站 "wikilink")**曾發生[臺灣第一起](../Page/臺灣.md "wikilink")[風力發電機燒毀意外](https://zh.wikipedia.org/wiki/風力發電機 "wikilink")？
+  - **[哪座風力發電站](../Page/香山風力發電站.md "wikilink")**曾發生[臺灣第一起](../Page/臺灣.md "wikilink")[風力發電機燒毀意外](https://zh.wikipedia.org/wiki/風力發電機 "wikilink")？
 
 #### 9月
 
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[五結鄉有](https://zh.wikipedia.org/wiki/五結鄉 "wikilink")**[哪一座殉職碑](https://zh.wikipedia.org/wiki/二結紙廠殉職碑 "wikilink")**，是紀念1936年在紙廠殉職的臺灣與日本員工？
-  - 1997年，[臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[五結鄉鎮安村村民](https://zh.wikipedia.org/wiki/五結鄉 "wikilink")，藉由集體拖行**[哪座廟宇](https://zh.wikipedia.org/wiki/二結王公廟 "wikilink")**以參與[社區總體營造](../Page/社區總體營造.md "wikilink")？
-  - **[哪座風力發電站](https://zh.wikipedia.org/wiki/恆春風力發電站 "wikilink")**位於[台灣電力公司](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")[第三核能發電廠廠區內](../Page/第三核能發電廠.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[礁溪鄉](../Page/礁溪鄉.md "wikilink")**[哪間關帝廟](https://zh.wikipedia.org/wiki/礁溪協天廟 "wikilink")**屬[恩主公信仰](https://zh.wikipedia.org/wiki/恩主公信仰 "wikilink")，為該鄉八個村落的信仰中心，[行天宮也是從此廟分靈](../Page/行天宮.md "wikilink")？
-  - **[哪一座2013年啟用的-{zh-cn:数据;zh-hk:數據;zh-tw:資料;}-中心](https://zh.wikipedia.org/wiki/Google台灣資料中心 "wikilink")**是[Google在](../Page/Google.md "wikilink")[亞洲地區最大的](https://zh.wikipedia.org/wiki/亞洲 "wikilink")-{zh-cn:数据;zh-hk:數據;zh-tw:資料;}-中心？
-  - **[哪一位報社記者](https://zh.wikipedia.org/wiki/廖志坤 "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[美和中學青少棒隊領隊廖丙熔的獨子](https://zh.wikipedia.org/wiki/美和中學青少棒隊 "wikilink")，因公殉職後，家屬撙節喪葬費成立基金會，補助[苗栗縣](../Page/苗栗縣.md "wikilink")[頭份市](https://zh.wikipedia.org/wiki/頭份市 "wikilink")、[南庄鄉](https://zh.wikipedia.org/wiki/南庄鄉_\(臺灣\) "wikilink")、[三灣鄉的中低收入學子](https://zh.wikipedia.org/wiki/三灣鄉_\(台灣\) "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[三灣鄉](https://zh.wikipedia.org/wiki/三灣鄉_\(台灣\) "wikilink")**[哪間土地祠](https://zh.wikipedia.org/wiki/永和山福德祠 "wikilink")**，祭祀因興建[永和山水庫而被迫拆遷的二十七尊土地神](../Page/永和山水庫.md "wikilink")？
-  - **[哪座風力發電站](https://zh.wikipedia.org/wiki/大潭風力發電站 "wikilink")**位於[台灣電力公司](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")[大潭發電廠的廠區內](../Page/大潭發電廠.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[礁溪鄉](../Page/礁溪鄉.md "wikilink")**[哪一間土地祠](https://zh.wikipedia.org/wiki/武暖石橋頭福德廟 "wikilink")**前有一座列為[宜蘭縣文化資產的石橋](../Page/宜蘭縣文化資產.md "wikilink")？
-  - **[哪座風力發電站](https://zh.wikipedia.org/wiki/石門風力發電站 "wikilink")**是[臺灣本島上第一座投入商業運轉的](../Page/臺灣.md "wikilink")[風力發電站](https://zh.wikipedia.org/wiki/風力發電 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[五結鄉有](https://zh.wikipedia.org/wiki/五結鄉 "wikilink")**[哪一座殉職碑](../Page/二結紙廠殉職碑.md "wikilink")**，是紀念1936年在紙廠殉職的臺灣與日本員工？
+  - 1997年，[臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[五結鄉鎮安村村民](https://zh.wikipedia.org/wiki/五結鄉 "wikilink")，藉由集體拖行**[哪座廟宇](../Page/二結王公廟.md "wikilink")**以參與[社區總體營造](../Page/社區總體營造.md "wikilink")？
+  - **[哪座風力發電站](../Page/恆春風力發電站.md "wikilink")**位於[台灣電力公司](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")[第三核能發電廠廠區內](../Page/第三核能發電廠.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[礁溪鄉](../Page/礁溪鄉.md "wikilink")**[哪間關帝廟](../Page/礁溪協天廟.md "wikilink")**屬[恩主公信仰](https://zh.wikipedia.org/wiki/恩主公信仰 "wikilink")，為該鄉八個村落的信仰中心，[行天宮也是從此廟分靈](../Page/行天宮.md "wikilink")？
+  - **[哪一座2013年啟用的-{zh-cn:数据;zh-hk:數據;zh-tw:資料;}-中心](../Page/Google台灣資料中心.md "wikilink")**是[Google在](../Page/Google.md "wikilink")[亞洲地區最大的](https://zh.wikipedia.org/wiki/亞洲 "wikilink")-{zh-cn:数据;zh-hk:數據;zh-tw:資料;}-中心？
+  - **[哪一位報社記者](../Page/廖志坤.md "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[美和中學青少棒隊領隊廖丙熔的獨子](https://zh.wikipedia.org/wiki/美和中學青少棒隊 "wikilink")，因公殉職後，家屬撙節喪葬費成立基金會，補助[苗栗縣](../Page/苗栗縣.md "wikilink")[頭份市](https://zh.wikipedia.org/wiki/頭份市 "wikilink")、[南庄鄉](https://zh.wikipedia.org/wiki/南庄鄉_\(臺灣\) "wikilink")、[三灣鄉的中低收入學子](https://zh.wikipedia.org/wiki/三灣鄉_\(台灣\) "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[三灣鄉](https://zh.wikipedia.org/wiki/三灣鄉_\(台灣\) "wikilink")**[哪間土地祠](../Page/永和山福德祠.md "wikilink")**，祭祀因興建[永和山水庫而被迫拆遷的二十七尊土地神](../Page/永和山水庫.md "wikilink")？
+  - **[哪座風力發電站](../Page/大潭風力發電站.md "wikilink")**位於[台灣電力公司](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")[大潭發電廠的廠區內](../Page/大潭發電廠.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[礁溪鄉](../Page/礁溪鄉.md "wikilink")**[哪一間土地祠](../Page/武暖石橋頭福德廟.md "wikilink")**前有一座列為[宜蘭縣文化資產的石橋](../Page/宜蘭縣文化資產.md "wikilink")？
+  - **[哪座風力發電站](../Page/石門風力發電站.md "wikilink")**是[臺灣本島上第一座投入商業運轉的](../Page/臺灣.md "wikilink")[風力發電站](https://zh.wikipedia.org/wiki/風力發電 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[三重區](https://zh.wikipedia.org/wiki/三重區 "wikilink")**[哪一間陰廟](../Page/竹頭公廟.md "wikilink")**是主祭一顆埋在竹林的人頭，原先預計拆遷到公園、校園而遭到反對？
-  - **[哪座風力發電站](https://zh.wikipedia.org/wiki/中屯風力發電站 "wikilink")**是[臺灣第二座](../Page/臺灣.md "wikilink")[風力發電站](https://zh.wikipedia.org/wiki/風力發電 "wikilink")？
-  - 為什麼有些臺灣人認為**[把乖乖零食放在電腦主機上](https://zh.wikipedia.org/wiki/乖乖文化 "wikilink")**能使電腦不會故障？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[坪林區](https://zh.wikipedia.org/wiki/坪林區 "wikilink")[坪林茶業博物館內有](https://zh.wikipedia.org/wiki/坪林茶業博物館 "wikilink")**[哪一座石碑](https://zh.wikipedia.org/wiki/坪林虎字碑 "wikilink")**是[臺灣鎮總兵](../Page/臺灣鎮總兵.md "wikilink")[劉明燈所書](../Page/劉明燈.md "wikilink")？
-  - 台湾[开源社群](https://zh.wikipedia.org/wiki/开源 "wikilink")[g0v零時政府开发了](https://zh.wikipedia.org/wiki/g0v零時政府 "wikilink")**[哪一部数位化汉语词典](https://zh.wikipedia.org/wiki/萌典 "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[宜蘭市](../Page/宜蘭市.md "wikilink")**[哪間廟宇](https://zh.wikipedia.org/wiki/宜蘭文昌廟 "wikilink")**是[文昌廟兼](../Page/文昌廟.md "wikilink")[關帝廟](../Page/關帝廟.md "wikilink")，考生還會祭拜一座來自日本[神社的銅馬像作祈福](../Page/神社.md "wikilink")？
+  - **[哪座風力發電站](../Page/中屯風力發電站.md "wikilink")**是[臺灣第二座](../Page/臺灣.md "wikilink")[風力發電站](https://zh.wikipedia.org/wiki/風力發電 "wikilink")？
+  - 為什麼有些臺灣人認為**[把乖乖零食放在電腦主機上](../Page/乖乖文化.md "wikilink")**能使電腦不會故障？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[坪林區](https://zh.wikipedia.org/wiki/坪林區 "wikilink")[坪林茶業博物館內有](https://zh.wikipedia.org/wiki/坪林茶業博物館 "wikilink")**[哪一座石碑](../Page/坪林虎字碑.md "wikilink")**是[臺灣鎮總兵](../Page/臺灣鎮總兵.md "wikilink")[劉明燈所書](../Page/劉明燈.md "wikilink")？
+  - 台湾[开源社群](https://zh.wikipedia.org/wiki/开源 "wikilink")[g0v零時政府开发了](https://zh.wikipedia.org/wiki/g0v零時政府 "wikilink")**[哪一部数位化汉语词典](../Page/萌典.md "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[宜蘭市](../Page/宜蘭市.md "wikilink")**[哪間廟宇](../Page/宜蘭文昌廟.md "wikilink")**是[文昌廟兼](../Page/文昌廟.md "wikilink")[關帝廟](../Page/關帝廟.md "wikilink")，考生還會祭拜一座來自日本[神社的銅馬像作祈福](../Page/神社.md "wikilink")？
   - **[哪一位中華民國審判長](../Page/蔡守訓.md "wikilink")**與[法官](../Page/法官.md "wikilink")[吳定亞](https://zh.wikipedia.org/wiki/吳定亞 "wikilink")、[徐千惠因為不畏壓力](https://zh.wikipedia.org/wiki/徐千惠 "wikilink")，將卸任[元首](../Page/中華民國總統.md "wikilink")[陳水扁判刑](https://zh.wikipedia.org/wiki/陳水扁 "wikilink")，創下[中華民國憲政史紀錄](../Page/中華民國.md "wikilink")，被並稱為「司法悍將」？
-  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[頭屋鄉](https://zh.wikipedia.org/wiki/頭屋鄉 "wikilink")**[哪一座關帝廟](https://zh.wikipedia.org/wiki/永春宮 "wikilink")**是位在[明德水庫的海棠島上](../Page/明德水庫.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[頭屋鄉](https://zh.wikipedia.org/wiki/頭屋鄉 "wikilink")**[哪一座關帝廟](../Page/永春宮.md "wikilink")**是位在[明德水庫的海棠島上](../Page/明德水庫.md "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[宜蘭市](../Page/宜蘭市.md "wikilink")**[哪間岳飛廟](../Page/碧霞宮.md "wikilink")**建於[臺灣日治時期](https://zh.wikipedia.org/wiki/臺灣日治時期 "wikilink")，獲[臺灣總督府](../Page/臺灣總督府.md "wikilink")、[中華民國政府重視並舉辦祭典](../Page/中華民國政府.md "wikilink")，但後來的報導與論述說是為了抗日而建？
-  - **[台灣哪一座佛寺](https://zh.wikipedia.org/wiki/蓮峰寺 "wikilink")**，興建於明治年間，有「蓮花穴」之稱?
-  - **[哪座風力發電場](https://zh.wikipedia.org/wiki/海洋竹南風力發電場 "wikilink")**是[臺灣第一座投入商轉營運的離岸](../Page/臺灣.md "wikilink")[風力發電場](https://zh.wikipedia.org/wiki/風力發電 "wikilink")？
+  - **[台灣哪一座佛寺](../Page/蓮峰寺.md "wikilink")**，興建於明治年間，有「蓮花穴」之稱?
+  - **[哪座風力發電場](../Page/海洋竹南風力發電場.md "wikilink")**是[臺灣第一座投入商轉營運的離岸](../Page/臺灣.md "wikilink")[風力發電場](https://zh.wikipedia.org/wiki/風力發電 "wikilink")？
   - 在[臺灣](../Page/臺灣.md "wikilink")[草嶺古道上有](../Page/草嶺古道.md "wikilink")**[哪一座刻寫虎字的石刻](../Page/虎字碑_\(貢寮\).md "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[蘇澳鎮](https://zh.wikipedia.org/wiki/蘇澳鎮_\(臺灣\) "wikilink")[南方澳](../Page/南方澳.md "wikilink")**[哪間觀音寺](https://zh.wikipedia.org/wiki/南方澳金龍寺 "wikilink")**，建寺由來是源自[日本的](../Page/日本.md "wikilink")[西國三十三所靈場信仰](https://zh.wikipedia.org/wiki/西國三十三所靈場 "wikilink")？
-  - 2017年9月发行的**[哪一款台湾电子游戏](https://zh.wikipedia.org/wiki/众神之斗 "wikilink")**因涉及[宗教题材遭到](../Page/宗教.md "wikilink")[马来西亚政府封杀](../Page/马来西亚政府.md "wikilink")，甚至导致[Steam平台在](../Page/Steam.md "wikilink")[马来西亚一度无法访问](../Page/马来西亚.md "wikilink")？
-  - 2017年9月7日[臺灣](../Page/臺灣.md "wikilink")，**[哪間被列為宜蘭縣文化資產的神農廟](https://zh.wikipedia.org/wiki/宜蘭五穀廟 "wikilink")**開始拆除重建？
-  - 2016年，台灣[麥當勞推出了](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")**[哪一部廣告](https://zh.wikipedia.org/wiki/讓對話更有溫度「接納篇」 "wikilink")**，講述了一名男生在[McCafé咖啡杯上向父親](../Page/McCafé.md "wikilink")[出櫃](../Page/出櫃.md "wikilink")，並最終得到父親包容的故事，引起了巨大反響？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[壯圍鄉](https://zh.wikipedia.org/wiki/壯圍鄉 "wikilink")**[哪一間廟](https://zh.wikipedia.org/wiki/大福補天宮 "wikilink")**由來是村童撿到一尊來自[浙江的](https://zh.wikipedia.org/wiki/浙江省_\(清\) "wikilink")[女媧神像](https://zh.wikipedia.org/wiki/女媧 "wikilink")？
-  - [阿根廷代表團在](../Page/阿根廷.md "wikilink")**[哪一個國際運動會的閉幕式](https://zh.wikipedia.org/wiki/2017年夏季世界大學運動會閉幕式 "wikilink")**因揮舞、身披主辦方的國旗，而遭到運動會直屬總會的警告？
-  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[新埤鄉](https://zh.wikipedia.org/wiki/新埤鄉 "wikilink")**[有哪一座道明會教堂](https://zh.wikipedia.org/wiki/玉環天主堂 "wikilink")**，由[浙江省披山島移民和](../Page/浙江省.md "wikilink")[馬卡道族共同建造](../Page/馬卡道族.md "wikilink")，有著[大衛之星的屋頂](https://zh.wikipedia.org/wiki/大衛之星 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[員山鄉同樂村](https://zh.wikipedia.org/wiki/員山鄉 "wikilink")[台9甲線路旁](https://zh.wikipedia.org/wiki/台9甲線 "wikilink")，有**[哪一員憲兵](https://zh.wikipedia.org/wiki/彭福共 "wikilink")**的忠靈碑？
-  - 2010年，[臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[壯圍鄉美城村村民](https://zh.wikipedia.org/wiki/壯圍鄉 "wikilink")，藉由修復村內**[哪座土地祠的舊廟身](https://zh.wikipedia.org/wiki/美城福德廟 "wikilink")**來參與[社區總體營造](../Page/社區總體營造.md "wikilink")？
-  - **[哪一個國際運動會的開幕式](https://zh.wikipedia.org/wiki/2017年夏季世界大學運動會開幕式 "wikilink")**因[臺獨](https://zh.wikipedia.org/wiki/臺獨 "wikilink")、[反同及反](../Page/臺灣同性婚姻.md "wikilink")[年金改革等團體在場外抗議](https://zh.wikipedia.org/wiki/年金改革 "wikilink")，而导致選手無法按时進入會場？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[蘇澳鎮](https://zh.wikipedia.org/wiki/蘇澳鎮_\(臺灣\) "wikilink")[南方澳](../Page/南方澳.md "wikilink")**[哪間觀音寺](../Page/南方澳金龍寺.md "wikilink")**，建寺由來是源自[日本的](../Page/日本.md "wikilink")[西國三十三所靈場信仰](https://zh.wikipedia.org/wiki/西國三十三所靈場 "wikilink")？
+  - 2017年9月发行的**[哪一款台湾电子游戏](../Page/众神之斗.md "wikilink")**因涉及[宗教题材遭到](../Page/宗教.md "wikilink")[马来西亚政府封杀](../Page/马来西亚政府.md "wikilink")，甚至导致[Steam平台在](../Page/Steam.md "wikilink")[马来西亚一度无法访问](../Page/马来西亚.md "wikilink")？
+  - 2017年9月7日[臺灣](../Page/臺灣.md "wikilink")，**[哪間被列為宜蘭縣文化資產的神農廟](../Page/宜蘭五穀廟.md "wikilink")**開始拆除重建？
+  - 2016年，台灣[麥當勞推出了](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")**[哪一部廣告](../Page/讓對話更有溫度「接納篇」.md "wikilink")**，講述了一名男生在[McCafé咖啡杯上向父親](../Page/McCafé.md "wikilink")[出櫃](../Page/出櫃.md "wikilink")，並最終得到父親包容的故事，引起了巨大反響？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[壯圍鄉](https://zh.wikipedia.org/wiki/壯圍鄉 "wikilink")**[哪一間廟](../Page/大福補天宮.md "wikilink")**由來是村童撿到一尊來自[浙江的](../Page/浙江省_\(清\).md "wikilink")[女媧神像](https://zh.wikipedia.org/wiki/女媧 "wikilink")？
+  - [阿根廷代表團在](../Page/阿根廷.md "wikilink")**[哪一個國際運動會的閉幕式](../Page/2017年夏季世界大學運動會閉幕式.md "wikilink")**因揮舞、身披主辦方的國旗，而遭到運動會直屬總會的警告？
+  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[新埤鄉](https://zh.wikipedia.org/wiki/新埤鄉 "wikilink")**[有哪一座道明會教堂](../Page/玉環天主堂.md "wikilink")**，由[浙江省披山島移民和](../Page/浙江省.md "wikilink")[馬卡道族共同建造](../Page/馬卡道族.md "wikilink")，有著[大衛之星的屋頂](https://zh.wikipedia.org/wiki/大衛之星 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[員山鄉同樂村](https://zh.wikipedia.org/wiki/員山鄉 "wikilink")[台9甲線路旁](https://zh.wikipedia.org/wiki/台9甲線 "wikilink")，有**[哪一員憲兵](../Page/彭福共.md "wikilink")**的忠靈碑？
+  - 2010年，[臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[壯圍鄉美城村村民](https://zh.wikipedia.org/wiki/壯圍鄉 "wikilink")，藉由修復村內**[哪座土地祠的舊廟身](../Page/美城福德廟.md "wikilink")**來參與[社區總體營造](../Page/社區總體營造.md "wikilink")？
+  - **[哪一個國際運動會的開幕式](../Page/2017年夏季世界大學運動會開幕式.md "wikilink")**因[臺獨](https://zh.wikipedia.org/wiki/臺獨 "wikilink")、[反同及反](../Page/臺灣同性婚姻.md "wikilink")[年金改革等團體在場外抗議](../Page/年金改革.md "wikilink")，而导致選手無法按时進入會場？
   - **[哪一個地方派系](../Page/雲林張派.md "wikilink")**以[張榮味為首](https://zh.wikipedia.org/wiki/張榮味 "wikilink")，設立[雲林張派虎尾青埔服務團隊](https://zh.wikipedia.org/wiki/雲林張派虎尾青埔服務團隊 "wikilink")，從[雲林縣開始發展出全國實力](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")，是[中華民國目前最具影響力的](../Page/中華民國.md "wikilink")[政治家族之一](https://zh.wikipedia.org/wiki/政治家族 "wikilink")？
   - **[哪一間文昌廟](../Page/台北市文昌宮.md "wikilink")**因建立[台北捷運淡水線而被拆](https://zh.wikipedia.org/wiki/台北捷運淡水線 "wikilink")，[台北市市長](https://zh.wikipedia.org/wiki/台北市市長 "wikilink")[吳伯雄以重建面積不超過三坪為條件](../Page/吳伯雄.md "wikilink")，准其移建到公園？
   - [中華民國](../Page/中華民國.md "wikilink")[臺北市在](../Page/臺北市.md "wikilink")2017年舉行**[哪一個國際綜合性運動會](https://zh.wikipedia.org/wiki/2017年夏季世界大學運動會 "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[壯圍鄉](https://zh.wikipedia.org/wiki/壯圍鄉 "wikilink")**[哪一間廟宇](https://zh.wikipedia.org/wiki/五間紫雲寺 "wikilink")**主祭[孫悟空](https://zh.wikipedia.org/wiki/孫悟空 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[員山鄉](https://zh.wikipedia.org/wiki/員山鄉 "wikilink")**[哪一棵茄苳樹](https://zh.wikipedia.org/wiki/員山結頭份大樹公 "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")，傳言樹下為[歌仔戲的起源地](../Page/歌仔戲.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[蘇澳鎮有](https://zh.wikipedia.org/wiki/蘇澳鎮_\(臺灣\) "wikilink")**[哪一間法主真君廟](https://zh.wikipedia.org/wiki/蘇澳晉安宮 "wikilink")**石獅擺法是母左公右，有造成居民怕老婆的趣談？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大溪區](https://zh.wikipedia.org/wiki/大溪區 "wikilink")**[哪一間土地祠](https://zh.wikipedia.org/wiki/埤崙屢豐宮 "wikilink")**位在埤塘水中央的4樓高人工島上？
-  - [2011年中華職棒總冠軍賽期間](https://zh.wikipedia.org/wiki/2011年中華職棒總冠軍賽 "wikilink")，[統一獅隊到](https://zh.wikipedia.org/wiki/統一獅隊 "wikilink")**[哪座廟宇](https://zh.wikipedia.org/wiki/青埔青昇宮 "wikilink")**祭拜後，即順利拿下總冠軍，後來統一獅還贈送該廟的平安符給球迷以表感謝？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[壯圍鄉](https://zh.wikipedia.org/wiki/壯圍鄉 "wikilink")**[哪一間廟宇](../Page/五間紫雲寺.md "wikilink")**主祭[孫悟空](https://zh.wikipedia.org/wiki/孫悟空 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[員山鄉](https://zh.wikipedia.org/wiki/員山鄉 "wikilink")**[哪一棵茄苳樹](../Page/員山結頭份大樹公.md "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")，傳言樹下為[歌仔戲的起源地](../Page/歌仔戲.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[蘇澳鎮有](https://zh.wikipedia.org/wiki/蘇澳鎮_\(臺灣\) "wikilink")**[哪一間法主真君廟](../Page/蘇澳晉安宮.md "wikilink")**石獅擺法是母左公右，有造成居民怕老婆的趣談？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大溪區](https://zh.wikipedia.org/wiki/大溪區 "wikilink")**[哪一間土地祠](../Page/埤崙屢豐宮.md "wikilink")**位在埤塘水中央的4樓高人工島上？
+  - [2011年中華職棒總冠軍賽期間](https://zh.wikipedia.org/wiki/2011年中華職棒總冠軍賽 "wikilink")，[統一獅隊到](https://zh.wikipedia.org/wiki/統一獅隊 "wikilink")**[哪座廟宇](../Page/青埔青昇宮.md "wikilink")**祭拜後，即順利拿下總冠軍，後來統一獅還贈送該廟的平安符給球迷以表感謝？
 
 #### 8月
 
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大溪區](https://zh.wikipedia.org/wiki/大溪區 "wikilink")[大溪老街的居民](../Page/大溪老街.md "wikilink")，會在**[哪座開漳聖王廟](https://zh.wikipedia.org/wiki/大溪福仁宮 "wikilink")**的廣場打大陀螺，以吸引遊客觀看？
-  - **[哪一種菊虎](https://zh.wikipedia.org/wiki/平世異菊虎 "wikilink")**以[台灣大學的楊平世教授命名](https://zh.wikipedia.org/wiki/台灣大學 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龜山區](https://zh.wikipedia.org/wiki/龜山區 "wikilink")**[哪間廟](https://zh.wikipedia.org/wiki/坪頂大湖福德宮 "wikilink")**在將土地賣給[長榮集團後重建](../Page/長榮集團.md "wikilink")，成為2014年報導時[北臺灣最大的](../Page/北臺灣.md "wikilink")[土地祠](https://zh.wikipedia.org/wiki/土地祠 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大溪區](https://zh.wikipedia.org/wiki/大溪區 "wikilink")[大溪老街的居民](../Page/大溪老街.md "wikilink")，會在**[哪座開漳聖王廟](../Page/大溪福仁宮.md "wikilink")**的廣場打大陀螺，以吸引遊客觀看？
+  - **[哪一種菊虎](../Page/平世異菊虎.md "wikilink")**以[台灣大學的楊平世教授命名](https://zh.wikipedia.org/wiki/台灣大學 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龜山區](https://zh.wikipedia.org/wiki/龜山區 "wikilink")**[哪間廟](../Page/坪頂大湖福德宮.md "wikilink")**在將土地賣給[長榮集團後重建](../Page/長榮集團.md "wikilink")，成為2014年報導時[北臺灣最大的](../Page/北臺灣.md "wikilink")[土地祠](https://zh.wikipedia.org/wiki/土地祠 "wikilink")？
   - **[哪一位台灣運動員](../Page/李智凱.md "wikilink")**代表[中華台北於](https://zh.wikipedia.org/wiki/中華台北 "wikilink")[2017年夏季世界大學運動會體操比賽男子鞍馬項目奪得金牌](https://zh.wikipedia.org/wiki/2017年夏季世界大學運動會體操比賽－男子鞍馬 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[汐止區有](../Page/汐止區.md "wikilink")**[哪一棵茄苳樹](https://zh.wikipedia.org/wiki/汐止添福宮茄苳樹 "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")，有著可使中午便當保持新鮮的傳聞？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[汐止區有](../Page/汐止區.md "wikilink")**[哪一棵茄苳樹](../Page/汐止添福宮茄苳樹.md "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")，有著可使中午便當保持新鮮的傳聞？
   - 2016年，時任[中國國民黨主席](../Page/中國國民黨主席.md "wikilink")[洪秀柱親自登門拜訪](https://zh.wikipedia.org/wiki/洪秀柱 "wikilink")**[哪一位情治系統出身的移民署長](../Page/莫天虎.md "wikilink")**，並力邀他出任[中國國民黨秘書長](https://zh.wikipedia.org/wiki/中國國民黨秘書長 "wikilink")；他因為被[洪秀柱的真誠感動](https://zh.wikipedia.org/wiki/洪秀柱 "wikilink")，願意「雪中送炭」挑戰艱鉅，並自願將薪水減半？
   - **[哪一間廟宇](../Page/三忠廟_\(臺灣\).md "wikilink")**是2014、2015、2017等年媒體報導中，臺灣唯一主祀宋末三傑的廟宇？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[石碇區](../Page/石碇區.md "wikilink")**[哪一間廟](https://zh.wikipedia.org/wiki/八分寮福德宮 "wikilink")**，跟[風動石聖公廟一樣都在](https://zh.wikipedia.org/wiki/風動石聖公廟 "wikilink")[市道106號路中間](../Page/市道106號.md "wikilink")、皆為[新北市區公車666路線上](../Page/新北市區公車666路線.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[石碇區](../Page/石碇區.md "wikilink")**[哪一間廟](../Page/八分寮福德宮.md "wikilink")**，跟[風動石聖公廟一樣都在](../Page/風動石聖公廟.md "wikilink")[市道106號路中間](../Page/市道106號.md "wikilink")、皆為[新北市區公車666路線上](../Page/新北市區公車666路線.md "wikilink")？
   - 昔日[臺灣](../Page/臺灣.md "wikilink")，旅人經由[草嶺古道往](../Page/草嶺古道.md "wikilink")[臺北前](../Page/臺北.md "wikilink")，會撿拾卵石到**[哪一座廟宇](../Page/草嶺慶雲宮.md "wikilink")**過香爐，象徵「向天公借膽」，以求神明保佑？
   - **[哪個中華民國經濟部水利署旗下的單位](https://zh.wikipedia.org/wiki/經濟部水利署第八河川局 "wikilink")**前身是推動[臺東縣](../Page/臺東縣.md "wikilink")[卑南上圳灌溉工程的](../Page/卑南上圳.md "wikilink")[臺灣省水利局第八工程處](../Page/臺灣省.md "wikilink")？
-  - **[哪一種昆蟲](https://zh.wikipedia.org/wiki/蓬萊長扁朽木蟲 "wikilink")**是[台灣已知唯一一種](https://zh.wikipedia.org/wiki/台灣 "wikilink")[長扁朽木蟲科成員](https://zh.wikipedia.org/wiki/長扁朽木蟲科 "wikilink")？
-  - **[哪一座與林爽文事件有關的義民廟](https://zh.wikipedia.org/wiki/紅圳頭義民祠 "wikilink")**位在[臺灣](../Page/臺灣.md "wikilink")[臺中市的](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[潭雅神自行車道旁](../Page/潭雅神自行車道.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[嘉義市](../Page/嘉義市.md "wikilink")[東區](../Page/東區_\(嘉義市\).md "wikilink")**[哪一座廟宇](https://zh.wikipedia.org/wiki/忠義十九公廟 "wikilink")**祭拜十八位清朝人物與一隻犬？
-  - [臺灣](../Page/臺灣.md "wikilink")[嘉義縣](../Page/嘉義縣.md "wikilink")[鹿草鄉](https://zh.wikipedia.org/wiki/鹿草鄉 "wikilink")**[哪一間廟宇](https://zh.wikipedia.org/wiki/圓山宮 "wikilink")**有祭祀一隻獵犬，被信眾認為可治癒膿瘡？
+  - **[哪一種昆蟲](../Page/蓬萊長扁朽木蟲.md "wikilink")**是[台灣已知唯一一種](https://zh.wikipedia.org/wiki/台灣 "wikilink")[長扁朽木蟲科成員](https://zh.wikipedia.org/wiki/長扁朽木蟲科 "wikilink")？
+  - **[哪一座與林爽文事件有關的義民廟](../Page/紅圳頭義民祠.md "wikilink")**位在[臺灣](../Page/臺灣.md "wikilink")[臺中市的](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[潭雅神自行車道旁](../Page/潭雅神自行車道.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[嘉義市](../Page/嘉義市.md "wikilink")[東區](../Page/東區_\(嘉義市\).md "wikilink")**[哪一座廟宇](../Page/忠義十九公廟.md "wikilink")**祭拜十八位清朝人物與一隻犬？
+  - [臺灣](../Page/臺灣.md "wikilink")[嘉義縣](../Page/嘉義縣.md "wikilink")[鹿草鄉](https://zh.wikipedia.org/wiki/鹿草鄉 "wikilink")**[哪一間廟宇](../Page/圓山宮.md "wikilink")**有祭祀一隻獵犬，被信眾認為可治癒膿瘡？
   - **[哪一座媽祖廟](../Page/汐止濟德宮.md "wikilink")**為臺灣電視劇《[通靈少女](../Page/通靈少女_\(電視劇\).md "wikilink")》主要取景地點？
   - [臺灣](../Page/臺灣.md "wikilink")[嘉義縣](../Page/嘉義縣.md "wikilink")[民雄鄉](https://zh.wikipedia.org/wiki/民雄鄉 "wikilink")**[哪座媽祖廟](../Page/慶誠宮.md "wikilink")**在1906年地震倒塌後，到1999年才開始開工重建？
-  - [臺灣](../Page/臺灣.md "wikilink")[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[斗南鎮](https://zh.wikipedia.org/wiki/斗南鎮 "wikilink")**[哪一間佛寺](https://zh.wikipedia.org/wiki/寒林寺 "wikilink")**，有祭祀[乙未戰爭他里霧之役陣亡的](../Page/乙未戰爭.md "wikilink")[義軍](https://zh.wikipedia.org/wiki/義軍 "wikilink")，在2009年時寺地被政府標售？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[貢寮區](../Page/貢寮區.md "wikilink")[草嶺古道](../Page/草嶺古道.md "wikilink")**[哪座土地祠](https://zh.wikipedia.org/wiki/魷魚公廟 "wikilink")**的土地公在2016年後有了兩位土地婆？
-  - **[哪間廟宇](https://zh.wikipedia.org/wiki/建和敬山宮 "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[臺東縣](../Page/臺東縣.md "wikilink")[臺東市](../Page/臺東市.md "wikilink")[建和社區內居民主要的信仰中心](https://zh.wikipedia.org/wiki/射馬干部落 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[斗六市萬年路巷弄內有](../Page/斗六市.md "wikilink")**[哪一棵茄苳樹](https://zh.wikipedia.org/wiki/萬年庄茄苳公 "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")，還與當地流傳的[嘉慶君遊台灣故事有關](../Page/嘉慶君遊台灣.md "wikilink")？
-  - 參加[繁星推薦的](https://zh.wikipedia.org/wiki/繁星推薦 "wikilink")[臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[雙溪高中學生會特別以](https://zh.wikipedia.org/wiki/雙溪高中 "wikilink")[零嘴滿天星祭拜](https://zh.wikipedia.org/wiki/零嘴滿天星 "wikilink")**[哪一座廟](../Page/麻竹坑福德祠.md "wikilink")**的土地公？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[石岡區](../Page/石岡區.md "wikilink")**[哪一座土地祠](https://zh.wikipedia.org/wiki/金星面庄中福德祠 "wikilink")**，擁有多顆被喚作「金星石珠」的球狀溪石？
-  - **[哪個臺灣原住民卑南族部落](https://zh.wikipedia.org/wiki/射馬干部落 "wikilink")**擁有全[臺最大的](../Page/臺灣.md "wikilink")[杭菊產地](https://zh.wikipedia.org/wiki/杭菊 "wikilink")？
-  - 1978年12月3日，[中華民國總統](../Page/中華民國總統.md "wikilink")[蔣經國參觀](../Page/蔣經國.md "wikilink")**[哪座祭拜牛的廟宇](https://zh.wikipedia.org/wiki/慧明牛將軍廟 "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[豐原區鐮村](../Page/豐原區.md "wikilink")-{里}-的**[哪座土地祠](https://zh.wikipedia.org/wiki/鐮子坑口後山腳福德祠 "wikilink")**，具有臺灣少見[巴洛克建築的拜亭](https://zh.wikipedia.org/wiki/巴洛克建築 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[內湖區](../Page/內湖區.md "wikilink")**[哪座廟宇](https://zh.wikipedia.org/wiki/老公祠 "wikilink")**有[人祭的傳說](../Page/人祭.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[豐原區鐮村](../Page/豐原區.md "wikilink")-{里}-的**[哪座土地祠](https://zh.wikipedia.org/wiki/鐮子坑口金古祠 "wikilink")**，因[鳥居上掛著寫有](../Page/鳥居.md "wikilink")「自力更生」的匾額，而引起路人好奇？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[豐原區鐮村](../Page/豐原區.md "wikilink")-{里}-的**[哪座土地祠](https://zh.wikipedia.org/wiki/鐮子坑口金陵祠 "wikilink")**，廟身採用五方佛帽造型，並具有日式風格的[石燈籠與](https://zh.wikipedia.org/wiki/石燈籠 "wikilink")[鳥居](../Page/鳥居.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[斗南鎮](https://zh.wikipedia.org/wiki/斗南鎮 "wikilink")**[哪一間佛寺](../Page/寒林寺.md "wikilink")**，有祭祀[乙未戰爭他里霧之役陣亡的](../Page/乙未戰爭.md "wikilink")[義軍](https://zh.wikipedia.org/wiki/義軍 "wikilink")，在2009年時寺地被政府標售？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[貢寮區](../Page/貢寮區.md "wikilink")[草嶺古道](../Page/草嶺古道.md "wikilink")**[哪座土地祠](../Page/魷魚公廟.md "wikilink")**的土地公在2016年後有了兩位土地婆？
+  - **[哪間廟宇](../Page/建和敬山宮.md "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[臺東縣](../Page/臺東縣.md "wikilink")[臺東市](../Page/臺東市.md "wikilink")[建和社區內居民主要的信仰中心](../Page/射馬干部落.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[斗六市萬年路巷弄內有](../Page/斗六市.md "wikilink")**[哪一棵茄苳樹](../Page/萬年庄茄苳公.md "wikilink")**，被當地人視為[神樹](../Page/神木.md "wikilink")，還與當地流傳的[嘉慶君遊台灣故事有關](../Page/嘉慶君遊台灣.md "wikilink")？
+  - 參加[繁星推薦的](../Page/繁星推薦.md "wikilink")[臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[雙溪高中學生會特別以](https://zh.wikipedia.org/wiki/雙溪高中 "wikilink")[零嘴滿天星祭拜](https://zh.wikipedia.org/wiki/零嘴滿天星 "wikilink")**[哪一座廟](../Page/麻竹坑福德祠.md "wikilink")**的土地公？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[石岡區](../Page/石岡區.md "wikilink")**[哪一座土地祠](../Page/金星面庄中福德祠.md "wikilink")**，擁有多顆被喚作「金星石珠」的球狀溪石？
+  - **[哪個臺灣原住民卑南族部落](../Page/射馬干部落.md "wikilink")**擁有全[臺最大的](../Page/臺灣.md "wikilink")[杭菊產地](https://zh.wikipedia.org/wiki/杭菊 "wikilink")？
+  - 1978年12月3日，[中華民國總統](../Page/中華民國總統.md "wikilink")[蔣經國參觀](../Page/蔣經國.md "wikilink")**[哪座祭拜牛的廟宇](../Page/慧明牛將軍廟.md "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[豐原區鐮村](../Page/豐原區.md "wikilink")-{里}-的**[哪座土地祠](../Page/鐮子坑口後山腳福德祠.md "wikilink")**，具有臺灣少見[巴洛克建築的拜亭](https://zh.wikipedia.org/wiki/巴洛克建築 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[內湖區](../Page/內湖區.md "wikilink")**[哪座廟宇](../Page/老公祠.md "wikilink")**有[人祭的傳說](../Page/人祭.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[豐原區鐮村](../Page/豐原區.md "wikilink")-{里}-的**[哪座土地祠](../Page/鐮子坑口金古祠.md "wikilink")**，因[鳥居上掛著寫有](../Page/鳥居.md "wikilink")「自力更生」的匾額，而引起路人好奇？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[豐原區鐮村](../Page/豐原區.md "wikilink")-{里}-的**[哪座土地祠](../Page/鐮子坑口金陵祠.md "wikilink")**，廟身採用五方佛帽造型，並具有日式風格的[石燈籠與](https://zh.wikipedia.org/wiki/石燈籠 "wikilink")[鳥居](../Page/鳥居.md "wikilink")？
   - [2012年中華民國總統選舉期間](https://zh.wikipedia.org/wiki/2012年中華民國總統選舉 "wikilink")，**[哪位臺中市議員](../Page/賴義鍠.md "wikilink")**因為先後被[國民黨副總統候選人](https://zh.wikipedia.org/wiki/國民黨 "wikilink")[吳敦義及](https://zh.wikipedia.org/wiki/吳敦義 "wikilink")[民進黨總統候選人](https://zh.wikipedia.org/wiki/民進黨 "wikilink")[蔡英文拜會](../Page/蔡英文.md "wikilink")，引發「情蒐風波」？
-  - **[哪個臺灣原住民卑南族部落](https://zh.wikipedia.org/wiki/初鹿部落 "wikilink")**是該族八大社之中分布最北端的部落？
+  - **[哪個臺灣原住民卑南族部落](../Page/初鹿部落.md "wikilink")**是該族八大社之中分布最北端的部落？
   - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[東港鎮](https://zh.wikipedia.org/wiki/東港鎮_\(台灣\) "wikilink")**[哪一座王爺廟](../Page/東港鎮海宮.md "wikilink")**，有一座不同傳統造型的石獅金爐，廟方還曾在水池養了一條[象魚](https://zh.wikipedia.org/wiki/巨骨舌魚 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[頭份市有](https://zh.wikipedia.org/wiki/頭份市 "wikilink")**[哪間原住民廟宇](https://zh.wikipedia.org/wiki/賽夏五福龍神宮 "wikilink")**祭祀[賽夏族的蛇神](../Page/賽夏族.md "wikilink")？
-  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[石門區](../Page/石門區.md "wikilink")**[哪間廟宇](https://zh.wikipedia.org/wiki/乾華新十八王公廟 "wikilink")**旁有30公尺高的巨犬像？
-  - 2017年**[哪一個熱帶氣旋](https://zh.wikipedia.org/wiki/熱帶風暴海棠_\(2017年\) "wikilink")**是自早前的[颱風尼莎後](https://zh.wikipedia.org/wiki/颱風尼莎_\(2017年\) "wikilink")，第2個登陸[臺灣的](../Page/臺灣.md "wikilink")[熱帶氣旋](../Page/熱帶氣旋.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[大里區](https://zh.wikipedia.org/wiki/大里區 "wikilink")[樹王里](../Page/樹王里.md "wikilink")**[哪一棵茄苳樹](https://zh.wikipedia.org/wiki/大里杙樹王公 "wikilink")**，與當地流傳的[嘉慶君遊台灣故事有關](../Page/嘉慶君遊台灣.md "wikilink")？
-  - **[哪棵樹](https://zh.wikipedia.org/wiki/後壠仔茄苳公 "wikilink")**曾被[台中市市長](https://zh.wikipedia.org/wiki/台中市市長 "wikilink")[林佳龍認作義父](../Page/林佳龍.md "wikilink")，並在2013年因有建商想在其旁建大樓而引起護樹運動？
-  - 2017年[**哪一個熱帶氣旋**是該年首個登陸](https://zh.wikipedia.org/wiki/颱風尼莎_\(2017年\) "wikilink")[臺灣的](../Page/臺灣.md "wikilink")[熱帶氣旋](../Page/熱帶氣旋.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[頭份市有](https://zh.wikipedia.org/wiki/頭份市 "wikilink")**[哪間原住民廟宇](../Page/賽夏五福龍神宮.md "wikilink")**祭祀[賽夏族的蛇神](../Page/賽夏族.md "wikilink")？
+  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[石門區](../Page/石門區.md "wikilink")**[哪間廟宇](../Page/乾華新十八王公廟.md "wikilink")**旁有30公尺高的巨犬像？
+  - 2017年**[哪一個熱帶氣旋](../Page/熱帶風暴海棠_\(2017年\).md "wikilink")**是自早前的[颱風尼莎後](../Page/颱風尼莎_\(2017年\).md "wikilink")，第2個登陸[臺灣的](../Page/臺灣.md "wikilink")[熱帶氣旋](../Page/熱帶氣旋.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[大里區](https://zh.wikipedia.org/wiki/大里區 "wikilink")[樹王里](../Page/樹王里.md "wikilink")**[哪一棵茄苳樹](../Page/大里杙樹王公.md "wikilink")**，與當地流傳的[嘉慶君遊台灣故事有關](../Page/嘉慶君遊台灣.md "wikilink")？
+  - **[哪棵樹](../Page/後壠仔茄苳公.md "wikilink")**曾被[台中市市長](https://zh.wikipedia.org/wiki/台中市市長 "wikilink")[林佳龍認作義父](../Page/林佳龍.md "wikilink")，並在2013年因有建商想在其旁建大樓而引起護樹運動？
+  - 2017年[**哪一個熱帶氣旋**是該年首個登陸](../Page/颱風尼莎_\(2017年\).md "wikilink")[臺灣的](../Page/臺灣.md "wikilink")[熱帶氣旋](../Page/熱帶氣旋.md "wikilink")？
   - **[哪一座台灣博物館](../Page/桃園國際機場公司航空科學館.md "wikilink")**是[亞洲首座航空科學館](https://zh.wikipedia.org/wiki/亞洲 "wikilink")？
-  - **[哪個臺灣原住民卑南族部落](https://zh.wikipedia.org/wiki/下賓朗部落 "wikilink")**曾在2010年6月與[日本](../Page/日本.md "wikilink")[愛努族共同舉辦聯合影像展](https://zh.wikipedia.org/wiki/愛努族 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[頭份市](https://zh.wikipedia.org/wiki/頭份市 "wikilink")**[哪間廟宇](https://zh.wikipedia.org/wiki/楊統領廟 "wikilink")**祀拜[乙未戰爭陣亡的](../Page/乙未戰爭.md "wikilink")[新楚軍統領](https://zh.wikipedia.org/wiki/新楚軍 "wikilink")[楊載雲](https://zh.wikipedia.org/wiki/楊載雲 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[新店區](../Page/新店區.md "wikilink")**[哪一棵榕樹](https://zh.wikipedia.org/wiki/新店九丁榕 "wikilink")**被當地人視為神樹，信徒並將樹底下的[陰廟改成樹公廟來祭祀](https://zh.wikipedia.org/wiki/陰廟 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[潭子區](../Page/潭子區.md "wikilink")**[哪一座廟宇](https://zh.wikipedia.org/wiki/潭子將軍廟 "wikilink")**，祭祀[乙未戰爭頭家厝之役陣亡的](../Page/乙未戰爭.md "wikilink")[義軍](https://zh.wikipedia.org/wiki/義軍 "wikilink")？
-  - **[哪一條台灣捷運路線](https://zh.wikipedia.org/wiki/臺南捷運藍線 "wikilink")**與[台南捷運綠線共同構築](https://zh.wikipedia.org/wiki/台南捷運綠線 "wikilink")[台南捷運優先路網](https://zh.wikipedia.org/wiki/台南捷運 "wikilink")？
-  - [中華民國](../Page/中華民國.md "wikilink")[蔡英文政府所任命的](../Page/蔡英文政府.md "wikilink")[**首位駐美代表**是誰](https://zh.wikipedia.org/wiki/高碩泰 "wikilink")？
+  - **[哪個臺灣原住民卑南族部落](../Page/下賓朗部落.md "wikilink")**曾在2010年6月與[日本](../Page/日本.md "wikilink")[愛努族共同舉辦聯合影像展](https://zh.wikipedia.org/wiki/愛努族 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[頭份市](https://zh.wikipedia.org/wiki/頭份市 "wikilink")**[哪間廟宇](../Page/楊統領廟.md "wikilink")**祀拜[乙未戰爭陣亡的](../Page/乙未戰爭.md "wikilink")[新楚軍統領](https://zh.wikipedia.org/wiki/新楚軍 "wikilink")[楊載雲](https://zh.wikipedia.org/wiki/楊載雲 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[新店區](../Page/新店區.md "wikilink")**[哪一棵榕樹](../Page/新店九丁榕.md "wikilink")**被當地人視為神樹，信徒並將樹底下的[陰廟改成樹公廟來祭祀](https://zh.wikipedia.org/wiki/陰廟 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[潭子區](../Page/潭子區.md "wikilink")**[哪一座廟宇](../Page/潭子將軍廟.md "wikilink")**，祭祀[乙未戰爭頭家厝之役陣亡的](../Page/乙未戰爭.md "wikilink")[義軍](https://zh.wikipedia.org/wiki/義軍 "wikilink")？
+  - **[哪一條台灣捷運路線](../Page/臺南捷運藍線.md "wikilink")**與[台南捷運綠線共同構築](https://zh.wikipedia.org/wiki/台南捷運綠線 "wikilink")[台南捷運優先路網](https://zh.wikipedia.org/wiki/台南捷運 "wikilink")？
+  - [中華民國](../Page/中華民國.md "wikilink")[蔡英文政府所任命的](../Page/蔡英文政府.md "wikilink")[**首位駐美代表**是誰](../Page/高碩泰.md "wikilink")？
 
 #### 7月
 
-  - **[哪位日本長官](https://zh.wikipedia.org/wiki/相良長綱 "wikilink")**是現代[台灣原住民教育的先驅](https://zh.wikipedia.org/wiki/台灣原住民 "wikilink")，在消滅最後一支在臺[清朝武裝勢力后](../Page/清朝.md "wikilink")，開啟了[東臺灣國家統治](../Page/東臺灣.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[豐原區](../Page/豐原區.md "wikilink")**[哪座土地祠](https://zh.wikipedia.org/wiki/六合福德祠 "wikilink")**，原先是[永豐餘紙廠廢棄的廟宇](../Page/永豐餘.md "wikilink")，後來受當地人祭祀，並組織慈善團體？
-  - 1999年[中華民國](../Page/中華民國.md "wikilink")[臺東縣政府進行](../Page/臺東縣政府.md "wikilink")[馬亨亨大道的新建工程時](https://zh.wikipedia.org/wiki/馬亨亨 "wikilink")，在貓山下意外挖掘出**[哪座遺址](https://zh.wikipedia.org/wiki/貓山遺址 "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[豐原區](../Page/豐原區.md "wikilink")**[哪間萬善應公廟](https://zh.wikipedia.org/wiki/聚星觀 "wikilink")**，是一位[日本警察主導興建](../Page/臺灣總督府警察.md "wikilink")？
-  - [中華民國經濟部為推動](https://zh.wikipedia.org/wiki/中華民國經濟部 "wikilink")[東部區域計畫以及促進產業東移](https://zh.wikipedia.org/wiki/臺灣東部 "wikilink")，因此在[臺東縣](../Page/臺東縣.md "wikilink")[臺東市設立](../Page/臺東市.md "wikilink")**[哪座工業園區](https://zh.wikipedia.org/wiki/豐樂工業區 "wikilink")**？
-  - 2017年，獲得[中華民國不動產協進會國家卓越建設獎的下福里市民活動中心](https://zh.wikipedia.org/wiki/中華民國不動產協進會 "wikilink")，其設計概念是取自**[哪座土地祠](https://zh.wikipedia.org/wiki/洪福宮 "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[大里區](https://zh.wikipedia.org/wiki/大里區 "wikilink")**[哪座石頭公廟](https://zh.wikipedia.org/wiki/草湖石頭公廟 "wikilink")**，供奉三顆石頭，以求子而聞名？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[林口區嘉寶里](../Page/林口區.md "wikilink")**[哪一處海岸地](https://zh.wikipedia.org/wiki/林口大峽谷 "wikilink")**由於長期被盜採砂石，反倒成為觀光景點？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[光華商場內有](../Page/光華商場.md "wikilink")**[哪一座三山國王廟](https://zh.wikipedia.org/wiki/聖安宮_\(光華商場\) "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[楊梅區](https://zh.wikipedia.org/wiki/楊梅區 "wikilink")**[哪一座廟宇](https://zh.wikipedia.org/wiki/白蛇廟 "wikilink")**，祭祀[白娘子與飼養](../Page/白娘子.md "wikilink")[白蛇](../Page/白蛇.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[新豐鄉](https://zh.wikipedia.org/wiki/新豐鄉_\(台灣\) "wikilink")**[哪一座廟](https://zh.wikipedia.org/wiki/石和宮 "wikilink")**建廟由來是當地人挖到狀似人形的石頭，還吸引考古學家[衛聚賢前來觀看](../Page/衛聚賢.md "wikilink")？
-  - 臺灣政治人物[游錫堃小時候是認](../Page/游錫堃.md "wikilink")**[哪座石頭公廟](https://zh.wikipedia.org/wiki/石聖爺廟 "wikilink")**的神明作義父，該廟習俗受[宜蘭縣政府所推廣](../Page/宜蘭縣政府.md "wikilink")？
-  - **[哪一條台灣捷運路線](https://zh.wikipedia.org/wiki/臺南捷運綠線 "wikilink")**與[台南捷運藍線共同構築](https://zh.wikipedia.org/wiki/台南捷運藍線 "wikilink")[台南捷運優先路網](https://zh.wikipedia.org/wiki/台南捷運 "wikilink")？
-  - **[哪一座桃園捷運車站](../Page/機場第三航廈站.md "wikilink")**預計於2021年7月通車，能與[臺灣桃園國際機場第三航廈互相聯絡](https://zh.wikipedia.org/wiki/臺灣桃園國際機場第三航廈 "wikilink")？
-  - **[哪位台灣導演](../Page/齊柏林_\(臺灣\).md "wikilink")**的代表作是《[看見台灣](../Page/看見台灣.md "wikilink")》，卻在2017年6月拍攝續集《[看見台灣II](https://zh.wikipedia.org/wiki/看見台灣II "wikilink")》期間發生墜機意外去世？
-  - [中華民國監察院的本部位於](https://zh.wikipedia.org/wiki/中華民國監察院 "wikilink")**[台北市哪棟大樓](https://zh.wikipedia.org/wiki/監察院廳舍 "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[文山區](../Page/文山區.md "wikilink")**[哪間廟宇](https://zh.wikipedia.org/wiki/西寒寺 "wikilink")**，是以官員侵占政府土地、縱容濫倒廢土的代價而興建，用以收容棄置的神像以及安定垃圾掩埋場員工人心？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[冬山鄉](https://zh.wikipedia.org/wiki/冬山鄉 "wikilink")[珍珠村](https://zh.wikipedia.org/wiki/珍珠村 "wikilink")**[哪一座古公三王廟宇](https://zh.wikipedia.org/wiki/蘭陽冬瓜山進興宮 "wikilink")**的廟方曾和[蘇澳鎮居民搶奉一顆巨石](../Page/蘇澳鎮_\(台灣\).md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龍潭區](https://zh.wikipedia.org/wiki/龍潭區_\(台灣\) "wikilink")**[哪一間廟宇](https://zh.wikipedia.org/wiki/七十三公忠義廟 "wikilink")**祭祀[乙未戰爭在當地死亡的七十三名](../Page/乙未戰爭.md "wikilink")[客家義軍](https://zh.wikipedia.org/wiki/客家義軍 "wikilink")？
-  - **[哪一條台灣捷運路線](https://zh.wikipedia.org/wiki/安坑線 "wikilink")**採取[接觸網供電](https://zh.wikipedia.org/wiki/接觸網供電 "wikilink")，且全線位於[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[新店區轄內](../Page/新店區.md "wikilink")？
-  - **[哪位臺灣家庭主婦](https://zh.wikipedia.org/wiki/柯蔡玉瓊 "wikilink")**在兒子車禍身亡後便企圖以立法保障車禍受害者，最終促成《[強制汽車責任保險法](https://zh.wikipedia.org/wiki/s:強制汽車責任保險法 "wikilink")》？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[冬山鄉太和村有](https://zh.wikipedia.org/wiki/冬山鄉 "wikilink")**[哪座土地祠](https://zh.wikipedia.org/wiki/小林福德正神廟 "wikilink")**，祭祀一位當地村民所懷念的日本守林員？
-  - 1989年4月1日，[臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[蘇澳鎮](https://zh.wikipedia.org/wiki/蘇澳鎮_\(臺灣\) "wikilink")**[哪一座媽祖廟](https://zh.wikipedia.org/wiki/南方澳進安宮 "wikilink")**率先進行[海峽兩岸宗教直航](https://zh.wikipedia.org/wiki/海峽兩岸關係 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[新埔鎮有](../Page/新埔鎮.md "wikilink")**[哪一座墳墓](https://zh.wikipedia.org/wiki/二十七公墓 "wikilink")**，埋葬[乙未戰爭時在當地被劫殺的二十七員粵勇](../Page/乙未戰爭.md "wikilink")？
-  - 台灣[新北捷運的首條路線是](https://zh.wikipedia.org/wiki/新北捷運 "wikilink")**[哪一條？](https://zh.wikipedia.org/wiki/淡海輕軌 "wikilink")**
+  - **[哪位日本長官](../Page/相良長綱.md "wikilink")**是現代[台灣原住民教育的先驅](https://zh.wikipedia.org/wiki/台灣原住民 "wikilink")，在消滅最後一支在臺[清朝武裝勢力后](../Page/清朝.md "wikilink")，開啟了[東臺灣國家統治](../Page/東臺灣.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[豐原區](../Page/豐原區.md "wikilink")**[哪座土地祠](../Page/六合福德祠.md "wikilink")**，原先是[永豐餘紙廠廢棄的廟宇](../Page/永豐餘.md "wikilink")，後來受當地人祭祀，並組織慈善團體？
+  - 1999年[中華民國](../Page/中華民國.md "wikilink")[臺東縣政府進行](../Page/臺東縣政府.md "wikilink")[馬亨亨大道的新建工程時](https://zh.wikipedia.org/wiki/馬亨亨 "wikilink")，在貓山下意外挖掘出**[哪座遺址](../Page/貓山遺址.md "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[豐原區](../Page/豐原區.md "wikilink")**[哪間萬善應公廟](../Page/聚星觀.md "wikilink")**，是一位[日本警察主導興建](../Page/臺灣總督府警察.md "wikilink")？
+  - [中華民國經濟部為推動](https://zh.wikipedia.org/wiki/中華民國經濟部 "wikilink")[東部區域計畫以及促進產業東移](https://zh.wikipedia.org/wiki/臺灣東部 "wikilink")，因此在[臺東縣](../Page/臺東縣.md "wikilink")[臺東市設立](../Page/臺東市.md "wikilink")**[哪座工業園區](../Page/豐樂工業區.md "wikilink")**？
+  - 2017年，獲得[中華民國不動產協進會國家卓越建設獎的下福里市民活動中心](https://zh.wikipedia.org/wiki/中華民國不動產協進會 "wikilink")，其設計概念是取自**[哪座土地祠](../Page/洪福宮.md "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[大里區](https://zh.wikipedia.org/wiki/大里區 "wikilink")**[哪座石頭公廟](../Page/草湖石頭公廟.md "wikilink")**，供奉三顆石頭，以求子而聞名？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[林口區嘉寶里](../Page/林口區.md "wikilink")**[哪一處海岸地](../Page/林口大峽谷.md "wikilink")**由於長期被盜採砂石，反倒成為觀光景點？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[光華商場內有](../Page/光華商場.md "wikilink")**[哪一座三山國王廟](../Page/聖安宮_\(光華商場\).md "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[楊梅區](https://zh.wikipedia.org/wiki/楊梅區 "wikilink")**[哪一座廟宇](../Page/白蛇廟.md "wikilink")**，祭祀[白娘子與飼養](../Page/白娘子.md "wikilink")[白蛇](../Page/白蛇.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[新豐鄉](https://zh.wikipedia.org/wiki/新豐鄉_\(台灣\) "wikilink")**[哪一座廟](../Page/石和宮.md "wikilink")**建廟由來是當地人挖到狀似人形的石頭，還吸引考古學家[衛聚賢前來觀看](../Page/衛聚賢.md "wikilink")？
+  - 臺灣政治人物[游錫堃小時候是認](../Page/游錫堃.md "wikilink")**[哪座石頭公廟](../Page/石聖爺廟.md "wikilink")**的神明作義父，該廟習俗受[宜蘭縣政府所推廣](../Page/宜蘭縣政府.md "wikilink")？
+  - **[哪一條台灣捷運路線](../Page/臺南捷運綠線.md "wikilink")**與[台南捷運藍線共同構築](https://zh.wikipedia.org/wiki/台南捷運藍線 "wikilink")[台南捷運優先路網](https://zh.wikipedia.org/wiki/台南捷運 "wikilink")？
+  - **[哪一座桃園捷運車站](../Page/機場第三航廈站.md "wikilink")**預計於2021年7月通車，能與[臺灣桃園國際機場第三航廈互相聯絡](../Page/臺灣桃園國際機場第三航廈.md "wikilink")？
+  - **[哪位台灣導演](../Page/齊柏林_\(臺灣\).md "wikilink")**的代表作是《[看見台灣](../Page/看見台灣.md "wikilink")》，卻在2017年6月拍攝續集《[看見台灣II](../Page/看見台灣II.md "wikilink")》期間發生墜機意外去世？
+  - [中華民國監察院的本部位於](https://zh.wikipedia.org/wiki/中華民國監察院 "wikilink")**[台北市哪棟大樓](../Page/監察院廳舍.md "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[文山區](../Page/文山區.md "wikilink")**[哪間廟宇](../Page/西寒寺.md "wikilink")**，是以官員侵占政府土地、縱容濫倒廢土的代價而興建，用以收容棄置的神像以及安定垃圾掩埋場員工人心？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[冬山鄉](https://zh.wikipedia.org/wiki/冬山鄉 "wikilink")[珍珠村](https://zh.wikipedia.org/wiki/珍珠村 "wikilink")**[哪一座古公三王廟宇](../Page/蘭陽冬瓜山進興宮.md "wikilink")**的廟方曾和[蘇澳鎮居民搶奉一顆巨石](../Page/蘇澳鎮_\(台灣\).md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龍潭區](https://zh.wikipedia.org/wiki/龍潭區_\(台灣\) "wikilink")**[哪一間廟宇](../Page/七十三公忠義廟.md "wikilink")**祭祀[乙未戰爭在當地死亡的七十三名](../Page/乙未戰爭.md "wikilink")[客家義軍](https://zh.wikipedia.org/wiki/客家義軍 "wikilink")？
+  - **[哪一條台灣捷運路線](../Page/安坑線.md "wikilink")**採取[接觸網供電](https://zh.wikipedia.org/wiki/接觸網供電 "wikilink")，且全線位於[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[新店區轄內](../Page/新店區.md "wikilink")？
+  - **[哪位臺灣家庭主婦](../Page/柯蔡玉瓊.md "wikilink")**在兒子車禍身亡後便企圖以立法保障車禍受害者，最終促成《[強制汽車責任保險法](https://zh.wikipedia.org/wiki/s:強制汽車責任保險法 "wikilink")》？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[冬山鄉太和村有](https://zh.wikipedia.org/wiki/冬山鄉 "wikilink")**[哪座土地祠](../Page/小林福德正神廟.md "wikilink")**，祭祀一位當地村民所懷念的日本守林員？
+  - 1989年4月1日，[臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[蘇澳鎮](https://zh.wikipedia.org/wiki/蘇澳鎮_\(臺灣\) "wikilink")**[哪一座媽祖廟](../Page/南方澳進安宮.md "wikilink")**率先進行[海峽兩岸宗教直航](https://zh.wikipedia.org/wiki/海峽兩岸關係 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[新埔鎮有](../Page/新埔鎮.md "wikilink")**[哪一座墳墓](../Page/二十七公墓.md "wikilink")**，埋葬[乙未戰爭時在當地被劫殺的二十七員粵勇](../Page/乙未戰爭.md "wikilink")？
+  - 台灣[新北捷運的首條路線是](https://zh.wikipedia.org/wiki/新北捷運 "wikilink")**[哪一條？](../Page/淡海輕軌.md "wikilink")**
 
 #### 6月
 
-  - **[哪型電聯車](https://zh.wikipedia.org/wiki/台北捷運環狀線電聯車 "wikilink")**未來將隨[環狀線第一階段的通車而投入使用](https://zh.wikipedia.org/wiki/環狀線_\(台北捷運\) "wikilink")？
-  - 中華民國[國家教育研究院製作的](../Page/國家教育研究院.md "wikilink")**[哪一部影片](https://zh.wikipedia.org/wiki/如果早知道男生也會被性侵 "wikilink")**被上載至網路之後引起了民眾熱烈討論，其台词「杰哥，不要啦」成為了網路流行語？
+  - **[哪型電聯車](../Page/台北捷運環狀線電聯車.md "wikilink")**未來將隨[環狀線第一階段的通車而投入使用](../Page/環狀線_\(台北捷運\).md "wikilink")？
+  - 中華民國[國家教育研究院製作的](../Page/國家教育研究院.md "wikilink")**[哪一部影片](../Page/如果早知道男生也會被性侵.md "wikilink")**被上載至網路之後引起了民眾熱烈討論，其台词「杰哥，不要啦」成為了網路流行語？
   - 1980年代，[臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[蘇澳鎮](https://zh.wikipedia.org/wiki/蘇澳鎮_\(臺灣\) "wikilink")**[哪間媽祖廟](../Page/南方澳南天宮.md "wikilink")**因爭取收容中國大陸走私神像，並違法逕行[海峽兩岸宗教直航](https://zh.wikipedia.org/wiki/海峽兩岸關係 "wikilink")，而聲名大噪？
-  - **[哪一條新北捷運路線](https://zh.wikipedia.org/wiki/三鶯線 "wikilink")**在未來將橫跨[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[新北市及](https://zh.wikipedia.org/wiki/新北市 "wikilink")[桃園市兩座城市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")？
+  - **[哪一條新北捷運路線](../Page/三鶯線.md "wikilink")**在未來將橫跨[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[新北市及](https://zh.wikipedia.org/wiki/新北市 "wikilink")[桃園市兩座城市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")？
   - **[哪型電聯車](https://zh.wikipedia.org/wiki/高雄捷運環狀輕軌電聯車 "wikilink")**是台灣第一款正式營運載客的輕軌列車？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[蘇澳鎮](https://zh.wikipedia.org/wiki/蘇澳鎮_\(臺灣\) "wikilink")[南方澳](../Page/南方澳.md "wikilink")**[哪一座呂祖廟](https://zh.wikipedia.org/wiki/南方澳南仙宮 "wikilink")**，建廟由來是一位學童所塑造的泥像？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[蘇澳鎮](https://zh.wikipedia.org/wiki/蘇澳鎮_\(臺灣\) "wikilink")[南方澳](../Page/南方澳.md "wikilink")**[哪一座呂祖廟](../Page/南方澳南仙宮.md "wikilink")**，建廟由來是一位學童所塑造的泥像？
   - **[台灣哪一座大眾捷運系統](https://zh.wikipedia.org/wiki/新北捷運 "wikilink")**是[北北桃地區第三座大眾捷運系統](../Page/北北桃.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[蘇澳鎮](https://zh.wikipedia.org/wiki/蘇澳鎮_\(臺灣\) "wikilink")**[哪座城隍廟](https://zh.wikipedia.org/wiki/頂寮城隍廟 "wikilink")**，以信徒祈禱神明來管教子女的民俗著名？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[蘇澳鎮](https://zh.wikipedia.org/wiki/蘇澳鎮_\(臺灣\) "wikilink")**[哪座城隍廟](../Page/頂寮城隍廟.md "wikilink")**，以信徒祈禱神明來管教子女的民俗著名？
   - 中华民国台南市长赖清德在2017年6月5日被市议员质疑其“[反中](../Page/反中.md "wikilink")”立场时，说出了**[他的什么立场](https://zh.wikipedia.org/wiki/亲中 "wikilink")**，引起了舆论哗然？
-  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[潮州鎮有哪一座](https://zh.wikipedia.org/wiki/潮州鎮 "wikilink")**[土地祠](https://zh.wikipedia.org/wiki/潮州福安宮 "wikilink")**，其神像曾被路過的學生帶去參加[309廢核大遊行](https://zh.wikipedia.org/wiki/309廢核大遊行 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[關西鎮有](../Page/關西鎮_\(台灣\).md "wikilink")**[哪間水母娘娘廟](https://zh.wikipedia.org/wiki/關西水母娘娘廟 "wikilink")**，以井水知名？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大園區有](../Page/大園區.md "wikilink")**[哪一間土地祠](https://zh.wikipedia.org/wiki/下厝福德祠 "wikilink")**的土地婆有兩位丈夫？
-  - **[哪一位台灣青年](https://zh.wikipedia.org/wiki/陳冠齊 "wikilink")**曾參加[太陽花學運](https://zh.wikipedia.org/wiki/太陽花學運 "wikilink")、環境保育、性別平等等社會運動，在擔任[齊柏林](https://zh.wikipedia.org/wiki/齊柏林_\(台灣\) "wikilink")《看見台灣II》拍攝作業助手時，於[2017年凌天航空直升機事故意外喪生](https://zh.wikipedia.org/wiki/2017年凌天航空直升機事故 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大園區有](../Page/大園區.md "wikilink")**[哪座王爺廟](https://zh.wikipedia.org/wiki/貴文宮 "wikilink")**，祭祀[王爺千歲信仰少見的九府王爺](../Page/王爺千歲信仰.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大園區有](../Page/大園區.md "wikilink")**[哪座土地祠](https://zh.wikipedia.org/wiki/桃園國際機場福德宮 "wikilink")**，祭祀因興建[中正國際機場而被迫拆遷的三十六尊土地神](https://zh.wikipedia.org/wiki/中正國際機場 "wikilink")？
-  - **[哪個國立臺灣大學的社團](https://zh.wikipedia.org/wiki/臺大射箭協會 "wikilink")**被視為1977年前後臺灣大專射箭運動選手的訓練中心？
-  - [青幫在](../Page/青幫.md "wikilink")**[哪一座副祀孫文與蔣中正的北帝廟](https://zh.wikipedia.org/wiki/新店慈玄寺 "wikilink")**開設一間圖書室？
-  - **[哪位中華民國將領](https://zh.wikipedia.org/wiki/房茂宏 "wikilink")**為2016年國軍晉升將領中最年輕之中將，也是[陸軍官校專科五期出身的最高階將領](https://zh.wikipedia.org/wiki/陸軍官校專科五期 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[深坑區](https://zh.wikipedia.org/wiki/深坑區 "wikilink")**[哪一座廟](https://zh.wikipedia.org/wiki/鎮南宮石媽祖廟 "wikilink")**的建廟起因是祭祀一顆狀似[媽祖而被稱為](../Page/媽祖.md "wikilink")「石媽祖」的石頭？
+  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[潮州鎮有哪一座](https://zh.wikipedia.org/wiki/潮州鎮 "wikilink")**[土地祠](../Page/潮州福安宮.md "wikilink")**，其神像曾被路過的學生帶去參加[309廢核大遊行](https://zh.wikipedia.org/wiki/309廢核大遊行 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[關西鎮有](../Page/關西鎮_\(台灣\).md "wikilink")**[哪間水母娘娘廟](../Page/關西水母娘娘廟.md "wikilink")**，以井水知名？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大園區有](../Page/大園區.md "wikilink")**[哪一間土地祠](../Page/下厝福德祠.md "wikilink")**的土地婆有兩位丈夫？
+  - **[哪一位台灣青年](../Page/陳冠齊.md "wikilink")**曾參加[太陽花學運](../Page/太陽花學運.md "wikilink")、環境保育、性別平等等社會運動，在擔任[齊柏林](https://zh.wikipedia.org/wiki/齊柏林_\(台灣\) "wikilink")《看見台灣II》拍攝作業助手時，於[2017年凌天航空直升機事故意外喪生](../Page/2017年凌天航空直升機事故.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大園區有](../Page/大園區.md "wikilink")**[哪座王爺廟](../Page/貴文宮.md "wikilink")**，祭祀[王爺千歲信仰少見的九府王爺](../Page/王爺千歲信仰.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大園區有](../Page/大園區.md "wikilink")**[哪座土地祠](../Page/桃園國際機場福德宮.md "wikilink")**，祭祀因興建[中正國際機場而被迫拆遷的三十六尊土地神](https://zh.wikipedia.org/wiki/中正國際機場 "wikilink")？
+  - **[哪個國立臺灣大學的社團](../Page/臺大射箭協會.md "wikilink")**被視為1977年前後臺灣大專射箭運動選手的訓練中心？
+  - [青幫在](../Page/青幫.md "wikilink")**[哪一座副祀孫文與蔣中正的北帝廟](../Page/新店慈玄寺.md "wikilink")**開設一間圖書室？
+  - **[哪位中華民國將領](../Page/房茂宏.md "wikilink")**為2016年國軍晉升將領中最年輕之中將，也是[陸軍官校專科五期出身的最高階將領](https://zh.wikipedia.org/wiki/陸軍官校專科五期 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[深坑區](https://zh.wikipedia.org/wiki/深坑區 "wikilink")**[哪一座廟](../Page/鎮南宮石媽祖廟.md "wikilink")**的建廟起因是祭祀一顆狀似[媽祖而被稱為](../Page/媽祖.md "wikilink")「石媽祖」的石頭？
   - 有史以来，[台湾海峡两岸的关系是](https://zh.wikipedia.org/wiki/海峡两岸关系 "wikilink")**[如何变迁](https://zh.wikipedia.org/wiki/海峽兩岸關係史 "wikilink")**的？
-  - 在[臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[五峰鄉有](../Page/五峰鄉_\(台灣\).md "wikilink")**[哪一間紅磚屋](https://zh.wikipedia.org/wiki/三毛夢屋 "wikilink")**，受作家[三毛所喜愛](../Page/三毛_\(作家\).md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[文山區](../Page/文山區.md "wikilink")**[哪一座廟宇](https://zh.wikipedia.org/wiki/風動石聖公廟 "wikilink")**祭祀一顆[風動石](https://zh.wikipedia.org/wiki/風動石 "wikilink")？
-  - **[哪個釋憲案](https://zh.wikipedia.org/wiki/臺灣同性婚姻釋憲案 "wikilink")**讓[中華民國](../Page/中華民國.md "wikilink")（[臺灣](../Page/臺灣.md "wikilink")）成為亞洲第一個保護[同性婚姻的國家](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[新竹科學工業園區附近有](../Page/新竹科學工業園區.md "wikilink")**[哪一座陰廟](https://zh.wikipedia.org/wiki/義勇忠祠 "wikilink")**，祭祀[乙未戰爭時被](../Page/乙未戰爭.md "wikilink")[當地客家人所劫殺的廣東籍清軍](https://zh.wikipedia.org/wiki/台灣客家人 "wikilink")，但被誤會受祭者是[荷蘭人](../Page/荷蘭人.md "wikilink")？
+  - 在[臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[五峰鄉有](../Page/五峰鄉_\(台灣\).md "wikilink")**[哪一間紅磚屋](../Page/三毛夢屋.md "wikilink")**，受作家[三毛所喜愛](../Page/三毛_\(作家\).md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[文山區](../Page/文山區.md "wikilink")**[哪一座廟宇](../Page/風動石聖公廟.md "wikilink")**祭祀一顆[風動石](https://zh.wikipedia.org/wiki/風動石 "wikilink")？
+  - **[哪個釋憲案](../Page/臺灣同性婚姻釋憲案.md "wikilink")**讓[中華民國](../Page/中華民國.md "wikilink")（[臺灣](../Page/臺灣.md "wikilink")）成為亞洲第一個保護[同性婚姻的國家](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[新竹科學工業園區附近有](../Page/新竹科學工業園區.md "wikilink")**[哪一座陰廟](../Page/義勇忠祠.md "wikilink")**，祭祀[乙未戰爭時被](../Page/乙未戰爭.md "wikilink")[當地客家人所劫殺的廣東籍清軍](https://zh.wikipedia.org/wiki/台灣客家人 "wikilink")，但被誤會受祭者是[荷蘭人](../Page/荷蘭人.md "wikilink")？
 
 #### 5月
 
-  - **[哪一位臺灣音樂劇導演](https://zh.wikipedia.org/wiki/吳心午 "wikilink")**因為公開自己的[變性經歷而被稱為](../Page/變性.md "wikilink")「劇場飆哥」？
-  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[北投區有](../Page/北投區.md "wikilink")**[哪座廟](https://zh.wikipedia.org/wiki/洲美屈原宮 "wikilink")**以[屈原為主祀](../Page/屈原.md "wikilink")，台北國際龍舟錦標賽會於此廟舉行龍舟點睛儀式？
-  - 在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[高鐵新竹站月台上](https://zh.wikipedia.org/wiki/高鐵新竹站 "wikilink")，可望見有**[哪一棵藏有土地祠的大榕樹](https://zh.wikipedia.org/wiki/十三甲伯公廟 "wikilink")**坐落在高鐵停車場？
-  - **[哪一個臺灣電影獎項](https://zh.wikipedia.org/wiki/臺北電影獎 "wikilink")**在1998年成為[台北電影節的競賽項目](../Page/台北電影節.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[平鎮區有](https://zh.wikipedia.org/wiki/平鎮區 "wikilink")**[哪一座陰廟](https://zh.wikipedia.org/wiki/忠義祠_\(平鎮\) "wikilink")**，祭祀[乙未戰爭時被](../Page/乙未戰爭.md "wikilink")[當地客家人所劫殺的廣東籍清軍](https://zh.wikipedia.org/wiki/台灣客家人 "wikilink")，但被誤會受祭者是[荷蘭人](../Page/荷蘭人.md "wikilink")？
-  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[鶯歌區有](../Page/鶯歌區.md "wikilink")**[哪一座廟](https://zh.wikipedia.org/wiki/鶯歌碧龍宮 "wikilink")**被叫作「龜公廟」？
-  - **[哪一位臺灣新劇劇作家](https://zh.wikipedia.org/wiki/宋非我 "wikilink")**在[戰後成立](../Page/臺灣戰後時期.md "wikilink")「聖烽演劇研究會」，親自擔任會長，又先後受到[中國國民黨囚禁和](../Page/中國國民黨.md "wikilink")[文化大革命的迫害](../Page/文化大革命.md "wikilink")，1979年方獲得平反？
-  - 在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[基隆市](../Page/基隆市.md "wikilink")[和平島有](../Page/和平島.md "wikilink")[**哪一座陰廟**祭祀](https://zh.wikipedia.org/wiki/社寮外嶋集善堂 "wikilink")[社寮島事件受難的琉球漁民](../Page/社寮島事件.md "wikilink")？
+  - **[哪一位臺灣音樂劇導演](../Page/吳心午.md "wikilink")**因為公開自己的[變性經歷而被稱為](../Page/變性.md "wikilink")「劇場飆哥」？
+  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[北投區有](../Page/北投區.md "wikilink")**[哪座廟](../Page/洲美屈原宮.md "wikilink")**以[屈原為主祀](../Page/屈原.md "wikilink")，台北國際龍舟錦標賽會於此廟舉行龍舟點睛儀式？
+  - 在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[高鐵新竹站月台上](https://zh.wikipedia.org/wiki/高鐵新竹站 "wikilink")，可望見有**[哪一棵藏有土地祠的大榕樹](../Page/十三甲伯公廟.md "wikilink")**坐落在高鐵停車場？
+  - **[哪一個臺灣電影獎項](../Page/臺北電影獎.md "wikilink")**在1998年成為[台北電影節的競賽項目](../Page/台北電影節.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[平鎮區有](https://zh.wikipedia.org/wiki/平鎮區 "wikilink")**[哪一座陰廟](../Page/忠義祠_\(平鎮\).md "wikilink")**，祭祀[乙未戰爭時被](../Page/乙未戰爭.md "wikilink")[當地客家人所劫殺的廣東籍清軍](https://zh.wikipedia.org/wiki/台灣客家人 "wikilink")，但被誤會受祭者是[荷蘭人](../Page/荷蘭人.md "wikilink")？
+  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[鶯歌區有](../Page/鶯歌區.md "wikilink")**[哪一座廟](../Page/鶯歌碧龍宮.md "wikilink")**被叫作「龜公廟」？
+  - **[哪一位臺灣新劇劇作家](../Page/宋非我.md "wikilink")**在[戰後成立](../Page/臺灣戰後時期.md "wikilink")「聖烽演劇研究會」，親自擔任會長，又先後受到[中國國民黨囚禁和](../Page/中國國民黨.md "wikilink")[文化大革命的迫害](../Page/文化大革命.md "wikilink")，1979年方獲得平反？
+  - 在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[基隆市](../Page/基隆市.md "wikilink")[和平島有](../Page/和平島.md "wikilink")[**哪一座陰廟**祭祀](../Page/社寮外嶋集善堂.md "wikilink")[社寮島事件受難的琉球漁民](../Page/社寮島事件.md "wikilink")？
   - **[哪座台灣墳場與陰廟](../Page/擺接義塚大墓公.md "wikilink")**，祭祀死於[林爽文事件與](../Page/林爽文事件.md "wikilink")[漳泉械鬥的先民](https://zh.wikipedia.org/wiki/漳泉械鬥 "wikilink")，是[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[土城](../Page/土城區.md "wikilink")、[中和](../Page/中和區.md "wikilink")、[板橋的](https://zh.wikipedia.org/wiki/板橋區_\(台灣\) "wikilink")[閩南](https://zh.wikipedia.org/wiki/台灣閩南人 "wikilink")[漳州人後裔的共同信仰中心](https://zh.wikipedia.org/wiki/漳州 "wikilink")？
-  - **[哪一位出身台灣彰化的畫家](https://zh.wikipedia.org/wiki/黃子綝 "wikilink")**因罹患多發性神經纖維瘤而失去聽力和平衡感，又因手術失去表情和語言能力，但仍憑自身努力而獲得[總統教育獎肯定](../Page/總統教育獎_\(中華民國\).md "wikilink")？
-  - **[哪一位台灣學者](https://zh.wikipedia.org/wiki/胡維碩 "wikilink")**以[生化工程研究著稱](https://zh.wikipedia.org/wiki/生化工程 "wikilink")，曾獲得2015年美國[安進生物化學工程獎等獎項](https://zh.wikipedia.org/wiki/安進 "wikilink")？
-  - **[哪一間位在臺灣東北角海岸的觀音廟](https://zh.wikipedia.org/wiki/利洋宮 "wikilink")**是2010、2013、2015等年媒體報導中，臺灣唯一主祀魚籃觀音的廟宇？
-  - **[哪一座石頭公廟](https://zh.wikipedia.org/wiki/尖石爺廟 "wikilink")**祭祀[臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[尖石鄉地標尖石岩](../Page/尖石鄉.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[中和區有](../Page/中和區.md "wikilink")**[哪一間少見以雷神為主祀的廟宇](https://zh.wikipedia.org/wiki/霹靂宮 "wikilink")**，原先信徒為附近的農民，後來多有科技人員來祭拜？
-  - **[哪一座桃園市立圖書館分館](https://zh.wikipedia.org/wiki/桃園市立圖書館中壢分館 "wikilink")**在2016年時是所有分館中進館人數最多的？
+  - **[哪一位出身台灣彰化的畫家](../Page/黃子綝.md "wikilink")**因罹患多發性神經纖維瘤而失去聽力和平衡感，又因手術失去表情和語言能力，但仍憑自身努力而獲得[總統教育獎肯定](../Page/總統教育獎_\(中華民國\).md "wikilink")？
+  - **[哪一位台灣學者](../Page/胡維碩.md "wikilink")**以[生化工程研究著稱](https://zh.wikipedia.org/wiki/生化工程 "wikilink")，曾獲得2015年美國[安進生物化學工程獎等獎項](https://zh.wikipedia.org/wiki/安進 "wikilink")？
+  - **[哪一間位在臺灣東北角海岸的觀音廟](../Page/利洋宮.md "wikilink")**是2010、2013、2015等年媒體報導中，臺灣唯一主祀魚籃觀音的廟宇？
+  - **[哪一座石頭公廟](../Page/尖石爺廟.md "wikilink")**祭祀[臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[尖石鄉地標尖石岩](../Page/尖石鄉.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[中和區有](../Page/中和區.md "wikilink")**[哪一間少見以雷神為主祀的廟宇](../Page/霹靂宮.md "wikilink")**，原先信徒為附近的農民，後來多有科技人員來祭拜？
+  - **[哪一座桃園市立圖書館分館](../Page/桃園市立圖書館中壢分館.md "wikilink")**在2016年時是所有分館中進館人數最多的？
   - **[哪一部由臺灣演員郭書瑤主演的電視劇](../Page/通靈少女_\(電視劇\).md "wikilink")**以通靈為題材，且是HBO
     Asia首部全中文發音的影集，完結篇收視率締造公視歷來戲劇收視最高記錄？
-  - [台灣高鐵公司為](https://zh.wikipedia.org/wiki/台灣高鐵公司 "wikilink")**[哪一棵老樹](https://zh.wikipedia.org/wiki/風空開山伯公 "wikilink")**變更高鐵軌道，亦將該樹作為高鐵廣告的主角？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[東區](../Page/東區_\(新竹市\).md "wikilink")**[哪座雕像](https://zh.wikipedia.org/wiki/埔頂金雞母 "wikilink")**是為了「鎮住」被當地人當成蜈蚣的[中山高速公路](../Page/中山高速公路.md "wikilink")？
+  - [台灣高鐵公司為](https://zh.wikipedia.org/wiki/台灣高鐵公司 "wikilink")**[哪一棵老樹](../Page/風空開山伯公.md "wikilink")**變更高鐵軌道，亦將該樹作為高鐵廣告的主角？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[東區](../Page/東區_\(新竹市\).md "wikilink")**[哪座雕像](../Page/埔頂金雞母.md "wikilink")**是為了「鎮住」被當地人當成蜈蚣的[中山高速公路](../Page/中山高速公路.md "wikilink")？
   - **[哪一座博物館](../Page/桃園市立大溪木藝生態博物館.md "wikilink")**是台灣第一座沒有圍牆的博物館？
-  - [臺灣](../Page/臺灣.md "wikilink")[嘉義縣](../Page/嘉義縣.md "wikilink")[中埔鄉](https://zh.wikipedia.org/wiki/中埔鄉 "wikilink")**[哪座廟宇](https://zh.wikipedia.org/wiki/吳鳳廟 "wikilink")**，曾獲[臺灣總督府](../Page/臺灣總督府.md "wikilink")、[中華民國政府重視並在此舉辦祭典](../Page/中華民國政府.md "wikilink")，但被[台灣原住民抗議而沒落](https://zh.wikipedia.org/wiki/台灣原住民 "wikilink")？
-  - 台灣哪個**[建設計畫](https://zh.wikipedia.org/wiki/前瞻基礎建設計畫 "wikilink")**是2017年由[蔡英文政府提出](../Page/蔡英文政府.md "wikilink")，其主要內容為軌道交通？
+  - [臺灣](../Page/臺灣.md "wikilink")[嘉義縣](../Page/嘉義縣.md "wikilink")[中埔鄉](https://zh.wikipedia.org/wiki/中埔鄉 "wikilink")**[哪座廟宇](../Page/吳鳳廟.md "wikilink")**，曾獲[臺灣總督府](../Page/臺灣總督府.md "wikilink")、[中華民國政府重視並在此舉辦祭典](../Page/中華民國政府.md "wikilink")，但被[台灣原住民抗議而沒落](https://zh.wikipedia.org/wiki/台灣原住民 "wikilink")？
+  - 台灣哪個**[建設計畫](../Page/前瞻基礎建設計畫.md "wikilink")**是2017年由[蔡英文政府提出](../Page/蔡英文政府.md "wikilink")，其主要內容為軌道交通？
 
 #### 4月
 
-  - 1995年，[臺北市成淵國中的](../Page/臺北市立成淵高級中學.md "wikilink")**[哪個性騷擾案件](https://zh.wikipedia.org/wiki/成淵國中集體性騷擾案 "wikilink")**促使[中華民國教育部推動專業輔導人員進駐](../Page/中華民國教育部.md "wikilink")[國民中學校園的計畫](https://zh.wikipedia.org/wiki/國民中學 "wikilink")？
-  - **[哪位無子女的孀居老人](https://zh.wikipedia.org/wiki/卓國華 "wikilink")**於1980年6月25日在[臺北榮民總醫院去世](../Page/臺北榮民總醫院.md "wikilink")，生前被称为「革命新娘」，死后由时任中华民国总统[蒋经国赠](https://zh.wikipedia.org/wiki/蒋经国 "wikilink")“志行流芳”輓？
-  - [台灣糖業公司於](https://zh.wikipedia.org/wiki/台灣糖業公司 "wikilink")2000年8月轉投資在[臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[線西鄉設立](../Page/線西鄉.md "wikilink")**[哪座燃氣火力發電廠](https://zh.wikipedia.org/wiki/彰濱電廠 "wikilink")**？
-  - **[哪一間台灣佛寺](https://zh.wikipedia.org/wiki/靈隱寺_\(新竹\) "wikilink")**因祭拜[諸葛亮](https://zh.wikipedia.org/wiki/諸葛亮 "wikilink")，所以被叫「孔明廟」，但該神像被誤解成傳說會拆散情侶的[呂洞賓](https://zh.wikipedia.org/wiki/呂洞賓 "wikilink")，導致有情侶不敢到附近約會？
-  - **[哪間姑娘廟](https://zh.wikipedia.org/wiki/應媽廟 "wikilink")**以「復古式燈座」名義成功遷到[臺灣](../Page/臺灣.md "wikilink")[臺北市的公園內](../Page/臺北市.md "wikilink")？
-  - **[哪一間土地祠](https://zh.wikipedia.org/wiki/士林德和宮 "wikilink")**因建立[台北捷運淡水線](https://zh.wikipedia.org/wiki/台北捷運淡水線 "wikilink")[芝山站再度被拆](https://zh.wikipedia.org/wiki/芝山站 "wikilink")，當欲遷回原址的公園時，卻反遭議員、公園附近居民反對？
-  - [臺灣](../Page/臺灣.md "wikilink")**[哪一間觀音寺](https://zh.wikipedia.org/wiki/淨因寺_\(基隆\) "wikilink")**被喚為「基隆鬼廟」？
-  - 流行「神明贏球說」的[台灣職棒大聯盟](https://zh.wikipedia.org/wiki/台灣職棒大聯盟 "wikilink")，其底下的[嘉南勇士隊將](https://zh.wikipedia.org/wiki/嘉南勇士隊 "wikilink")**[哪座在嘉義縣立棒球場旁的廟](https://zh.wikipedia.org/wiki/七主宮 "wikilink")**主神當守護神？
-  - 傳說嘉慶十四年（1809年），[北臺灣某地的泉州人向一棵樹祈禱](../Page/北臺灣.md "wikilink")，願日後以三年一次的[醮換取](../Page/醮.md "wikilink")[鄭成功保佑](../Page/鄭成功.md "wikilink")，後來該樹處建立**[哪一座廟](https://zh.wikipedia.org/wiki/九芎公廟 "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[淡水區有](../Page/淡水區.md "wikilink")**[哪一座廟](https://zh.wikipedia.org/wiki/二號橋石頭公 "wikilink")**，供奉被當地視為豬神的石頭？
-  - [臺灣高鐵列車在經過](../Page/台灣高速鐵路700T型電聯車.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[竹塘鄉的](https://zh.wikipedia.org/wiki/竹塘鄉_\(台灣\) "wikilink")[濁水溪岸邊時](../Page/濁水溪.md "wikilink")，附近有**[哪一棵獨木成林的巨榕](https://zh.wikipedia.org/wiki/九龍大榕公 "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[萬大發電廠松林分廠是透過](../Page/萬大發電廠松林分廠.md "wikilink")**[哪座攔河堰](https://zh.wikipedia.org/wiki/松林攔河堰 "wikilink")**將[霧社溪的溪水攔截後進行](../Page/霧社溪.md "wikilink")[發電的](https://zh.wikipedia.org/wiki/發電 "wikilink")？
-  - 在[臺灣](../Page/臺灣.md "wikilink")[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[北投區](../Page/北投區.md "wikilink")，有**[哪座王爺廟](https://zh.wikipedia.org/wiki/番仔厝保德宮 "wikilink")**是[凱達格蘭族](../Page/凱達格蘭族.md "wikilink")[北投社的信仰場所](https://zh.wikipedia.org/wiki/北投社 "wikilink")，雖已列為[臺北市文化資產](../Page/臺北市文化資產.md "wikilink")，但最後依然被拆遷？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[溪湖鎮有](https://zh.wikipedia.org/wiki/溪湖鎮 "wikilink")**[哪一對擺在土地祠前的石雕鵝](https://zh.wikipedia.org/wiki/福德寺石鵝 "wikilink")**，與當地風水傳說有關？
-  - **[-{zh-cn:台湾桃园国际机场的哪一座航站楼;zh-hk:臺灣桃園國際機場的哪一座客運大樓;zh-tw:臺灣桃園國際機場的哪一座航廈;}-](https://zh.wikipedia.org/wiki/臺灣桃園國際機場第三航廈 "wikilink")**計畫於2021年啟用？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[芎林鄉有](../Page/芎林鄉.md "wikilink")**[哪座媽祖廟](https://zh.wikipedia.org/wiki/五和宮 "wikilink")**香火來自[廣東](https://zh.wikipedia.org/wiki/廣東省_\(清\) "wikilink")[汕頭](https://zh.wikipedia.org/wiki/汕頭 "wikilink")[媽嶼](https://zh.wikipedia.org/wiki/媽嶼 "wikilink")[放雞山天后宮](https://zh.wikipedia.org/wiki/放雞山天后宮 "wikilink")，[媽祖誕辰時廟方會將雞](https://zh.wikipedia.org/wiki/媽祖誕辰 "wikilink")[放生](../Page/放生.md "wikilink")，以紀念祖廟？
-  - 台灣[桃園國際機場的](https://zh.wikipedia.org/wiki/桃園國際機場 "wikilink")**[-{zh-cn:哪一座航站楼于2000年启用;zh-hk:哪一座客運大樓於2000年啟用;zh-tw:哪一座航廈於2000年啟用;}-](https://zh.wikipedia.org/wiki/臺灣桃園國際機場第二航廈 "wikilink")**？
+  - 1995年，[臺北市成淵國中的](../Page/臺北市立成淵高級中學.md "wikilink")**[哪個性騷擾案件](../Page/成淵國中集體性騷擾案.md "wikilink")**促使[中華民國教育部推動專業輔導人員進駐](../Page/中華民國教育部.md "wikilink")[國民中學校園的計畫](https://zh.wikipedia.org/wiki/國民中學 "wikilink")？
+  - **[哪位無子女的孀居老人](../Page/卓國華.md "wikilink")**於1980年6月25日在[臺北榮民總醫院去世](../Page/臺北榮民總醫院.md "wikilink")，生前被称为「革命新娘」，死后由时任中华民国总统[蒋经国赠](https://zh.wikipedia.org/wiki/蒋经国 "wikilink")“志行流芳”輓？
+  - [台灣糖業公司於](https://zh.wikipedia.org/wiki/台灣糖業公司 "wikilink")2000年8月轉投資在[臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[線西鄉設立](../Page/線西鄉.md "wikilink")**[哪座燃氣火力發電廠](../Page/彰濱電廠.md "wikilink")**？
+  - **[哪一間台灣佛寺](../Page/靈隱寺_\(新竹\).md "wikilink")**因祭拜[諸葛亮](https://zh.wikipedia.org/wiki/諸葛亮 "wikilink")，所以被叫「孔明廟」，但該神像被誤解成傳說會拆散情侶的[呂洞賓](https://zh.wikipedia.org/wiki/呂洞賓 "wikilink")，導致有情侶不敢到附近約會？
+  - **[哪間姑娘廟](../Page/應媽廟.md "wikilink")**以「復古式燈座」名義成功遷到[臺灣](../Page/臺灣.md "wikilink")[臺北市的公園內](../Page/臺北市.md "wikilink")？
+  - **[哪一間土地祠](../Page/士林德和宮.md "wikilink")**因建立[台北捷運淡水線](https://zh.wikipedia.org/wiki/台北捷運淡水線 "wikilink")[芝山站再度被拆](https://zh.wikipedia.org/wiki/芝山站 "wikilink")，當欲遷回原址的公園時，卻反遭議員、公園附近居民反對？
+  - [臺灣](../Page/臺灣.md "wikilink")**[哪一間觀音寺](../Page/淨因寺_\(基隆\).md "wikilink")**被喚為「基隆鬼廟」？
+  - 流行「神明贏球說」的[台灣職棒大聯盟](https://zh.wikipedia.org/wiki/台灣職棒大聯盟 "wikilink")，其底下的[嘉南勇士隊將](https://zh.wikipedia.org/wiki/嘉南勇士隊 "wikilink")**[哪座在嘉義縣立棒球場旁的廟](../Page/七主宮.md "wikilink")**主神當守護神？
+  - 傳說嘉慶十四年（1809年），[北臺灣某地的泉州人向一棵樹祈禱](../Page/北臺灣.md "wikilink")，願日後以三年一次的[醮換取](../Page/醮.md "wikilink")[鄭成功保佑](../Page/鄭成功.md "wikilink")，後來該樹處建立**[哪一座廟](../Page/九芎公廟.md "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[淡水區有](../Page/淡水區.md "wikilink")**[哪一座廟](../Page/二號橋石頭公.md "wikilink")**，供奉被當地視為豬神的石頭？
+  - [臺灣高鐵列車在經過](../Page/台灣高速鐵路700T型電聯車.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[竹塘鄉的](https://zh.wikipedia.org/wiki/竹塘鄉_\(台灣\) "wikilink")[濁水溪岸邊時](../Page/濁水溪.md "wikilink")，附近有**[哪一棵獨木成林的巨榕](../Page/九龍大榕公.md "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[萬大發電廠松林分廠是透過](../Page/萬大發電廠松林分廠.md "wikilink")**[哪座攔河堰](../Page/松林攔河堰.md "wikilink")**將[霧社溪的溪水攔截後進行](../Page/霧社溪.md "wikilink")[發電的](https://zh.wikipedia.org/wiki/發電 "wikilink")？
+  - 在[臺灣](../Page/臺灣.md "wikilink")[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[北投區](../Page/北投區.md "wikilink")，有**[哪座王爺廟](../Page/番仔厝保德宮.md "wikilink")**是[凱達格蘭族](../Page/凱達格蘭族.md "wikilink")[北投社的信仰場所](https://zh.wikipedia.org/wiki/北投社 "wikilink")，雖已列為[臺北市文化資產](../Page/臺北市文化資產.md "wikilink")，但最後依然被拆遷？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[溪湖鎮有](https://zh.wikipedia.org/wiki/溪湖鎮 "wikilink")**[哪一對擺在土地祠前的石雕鵝](../Page/福德寺石鵝.md "wikilink")**，與當地風水傳說有關？
+  - **[-{zh-cn:台湾桃园国际机场的哪一座航站楼;zh-hk:臺灣桃園國際機場的哪一座客運大樓;zh-tw:臺灣桃園國際機場的哪一座航廈;}-](../Page/臺灣桃園國際機場第三航廈.md "wikilink")**計畫於2021年啟用？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[芎林鄉有](../Page/芎林鄉.md "wikilink")**[哪座媽祖廟](../Page/五和宮.md "wikilink")**香火來自[廣東](../Page/廣東省_\(清\).md "wikilink")[汕頭](https://zh.wikipedia.org/wiki/汕頭 "wikilink")[媽嶼](https://zh.wikipedia.org/wiki/媽嶼 "wikilink")[放雞山天后宮](https://zh.wikipedia.org/wiki/放雞山天后宮 "wikilink")，[媽祖誕辰時廟方會將雞](https://zh.wikipedia.org/wiki/媽祖誕辰 "wikilink")[放生](../Page/放生.md "wikilink")，以紀念祖廟？
+  - 台灣[桃園國際機場的](https://zh.wikipedia.org/wiki/桃園國際機場 "wikilink")**[-{zh-cn:哪一座航站楼于2000年启用;zh-hk:哪一座客運大樓於2000年啟用;zh-tw:哪一座航廈於2000年啟用;}-](../Page/臺灣桃園國際機場第二航廈.md "wikilink")**？
   - [中華民國司法院的本部位於](https://zh.wikipedia.org/wiki/中華民國司法院 "wikilink")**[台北市哪棟大樓](../Page/司法大廈.md "wikilink")**？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[溪州鄉坑厝村村民會祭拜](../Page/溪州鄉.md "wikilink")**[哪座佛碑](https://zh.wikipedia.org/wiki/溪墘厝阿彌陀佛碑 "wikilink")**，並在農曆正月十七會以[酬神戲來還願](../Page/酬神戲.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[竹北市有](../Page/竹北市.md "wikilink")**[哪座土地祠](https://zh.wikipedia.org/wiki/十三伯公福佑宮 "wikilink")**，祭祀因興建[竹北高鐵特區而被迫拆遷的十餘尊土地神與一尊石母](https://zh.wikipedia.org/wiki/新竹車站_\(高鐵\) "wikilink")？
-  - **[哪一間台灣公司](https://zh.wikipedia.org/wiki/桃園航空城公司 "wikilink")**是[桃園航空城的行銷](../Page/桃園航空城.md "wikilink")、招商專責機構？
-  - 2017年3月17日，[臺灣](../Page/臺灣.md "wikilink")[高雄市](../Page/高雄市.md "wikilink")[三民區發生](../Page/三民區.md "wikilink")**[哪起下水道火警事故](https://zh.wikipedia.org/wiki/2017年高雄三民區下水道火警事故 "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[溪州鄉坑厝村村民會祭拜](../Page/溪州鄉.md "wikilink")**[哪座佛碑](../Page/溪墘厝阿彌陀佛碑.md "wikilink")**，並在農曆正月十七會以[酬神戲來還願](../Page/酬神戲.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[竹北市有](../Page/竹北市.md "wikilink")**[哪座土地祠](../Page/十三伯公福佑宮.md "wikilink")**，祭祀因興建[竹北高鐵特區而被迫拆遷的十餘尊土地神與一尊石母](https://zh.wikipedia.org/wiki/新竹車站_\(高鐵\) "wikilink")？
+  - **[哪一間台灣公司](../Page/桃園航空城公司.md "wikilink")**是[桃園航空城的行銷](../Page/桃園航空城.md "wikilink")、招商專責機構？
+  - 2017年3月17日，[臺灣](../Page/臺灣.md "wikilink")[高雄市](../Page/高雄市.md "wikilink")[三民區發生](../Page/三民區.md "wikilink")**[哪起下水道火警事故](../Page/2017年高雄三民區下水道火警事故.md "wikilink")**？
 
 #### 3月
 
-  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[芎林鄉](../Page/芎林鄉.md "wikilink")[鹿寮坑](https://zh.wikipedia.org/wiki/鹿寮坑 "wikilink")**[哪間廟宇](https://zh.wikipedia.org/wiki/鹿寮坑石爺石娘廟 "wikilink")**，供奉被當地人視為夫妻的兩顆大石，並為其舉行結婚儀式？
-  - **[哪一位台灣男同性戀者](https://zh.wikipedia.org/wiki/祁家威 "wikilink")**長年爭取[同性婚姻權益](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")，在釋憲獲得審理並進入[憲法法庭後表示自己](../Page/憲法法庭.md "wikilink")「等這一天等了41年6個月24天」？
-  - 台灣[桃園國際機場的](https://zh.wikipedia.org/wiki/桃園國際機場 "wikilink")**[首座航廈是哪一座](https://zh.wikipedia.org/wiki/臺灣桃園國際機場第一航廈 "wikilink")**？
-  - **[有哪些事件](https://zh.wikipedia.org/wiki/中华民国国军的丑闻与争议 "wikilink")**被認為是[中華民國國軍的](../Page/中華民國國軍.md "wikilink")[醜聞或争议](https://zh.wikipedia.org/wiki/醜聞 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[芎林鄉](../Page/芎林鄉.md "wikilink")[鹿寮坑](../Page/鹿寮坑.md "wikilink")**[哪間廟宇](../Page/鹿寮坑石爺石娘廟.md "wikilink")**，供奉被當地人視為夫妻的兩顆大石，並為其舉行結婚儀式？
+  - **[哪一位台灣男同性戀者](../Page/祁家威.md "wikilink")**長年爭取[同性婚姻權益](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")，在釋憲獲得審理並進入[憲法法庭後表示自己](../Page/憲法法庭.md "wikilink")「等這一天等了41年6個月24天」？
+  - 台灣[桃園國際機場的](https://zh.wikipedia.org/wiki/桃園國際機場 "wikilink")**[首座航廈是哪一座](../Page/臺灣桃園國際機場第一航廈.md "wikilink")**？
+  - **[有哪些事件](../Page/中华民国国军的丑闻与争议.md "wikilink")**被認為是[中華民國國軍的](../Page/中華民國國軍.md "wikilink")[醜聞或争议](https://zh.wikipedia.org/wiki/醜聞 "wikilink")？
   - 在[臺灣](../Page/臺灣.md "wikilink")[屏東縣有](../Page/屏東縣.md "wikilink")**[哪一座媽祖廟](../Page/慈鳳宮_\(屏東\).md "wikilink")**的媽祖被稱作「阿猴媽祖」？
-  - [中华民国国军建立以来](https://zh.wikipedia.org/wiki/中华民国国军 "wikilink")，在演训过程中发生了**[哪些重大意外](https://zh.wikipedia.org/wiki/中华民国国军意外事件列表 "wikilink")**？
+  - [中华民国国军建立以来](https://zh.wikipedia.org/wiki/中华民国国军 "wikilink")，在演训过程中发生了**[哪些重大意外](../Page/中华民国国军意外事件列表.md "wikilink")**？
   - [中華民國行政院的本部位於](https://zh.wikipedia.org/wiki/中華民國行政院 "wikilink")**[台北市哪棟大樓](../Page/行政院中央大樓.md "wikilink")**？
   - 《[英烈千秋](../Page/英烈千秋.md "wikilink")》、《[八百壯士](https://zh.wikipedia.org/wiki/八百壯士_\(1975年電影\) "wikilink")》
     導演[丁善璽因喝了](../Page/丁善璽.md "wikilink")**[哪一座觀音寺](https://zh.wikipedia.org/wiki/甘泉寺_\(台灣\) "wikilink")**的井水而改信佛教，該寺亦為[臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[觀音區地名的由來](../Page/觀音區.md "wikilink")？
   - 臺灣[**哪一座桃園捷運車站**取代了](https://zh.wikipedia.org/wiki/泰山貴和站 "wikilink")[中正機場捷運中的丹鳳站](../Page/中正機場捷運.md "wikilink")、輔仁大學站？
   - 臺灣[**哪一座桃園捷運車站**曾一度取消設站](https://zh.wikipedia.org/wiki/新莊副都心站 "wikilink")，後來於2007年「敗部復活」？
-  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[卓蘭鎮](../Page/卓蘭鎮.md "wikilink")**[哪一座廟宇](https://zh.wikipedia.org/wiki/昭忠廟 "wikilink")**是祭祀光緒年間與[泰雅族作戰而身亡的三千餘名](../Page/泰雅族.md "wikilink")[湘軍](https://zh.wikipedia.org/wiki/湘軍 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[卓蘭鎮](../Page/卓蘭鎮.md "wikilink")**[哪一座廟宇](../Page/昭忠廟.md "wikilink")**是祭祀光緒年間與[泰雅族作戰而身亡的三千餘名](../Page/泰雅族.md "wikilink")[湘軍](https://zh.wikipedia.org/wiki/湘軍 "wikilink")？
   - **[臺灣的哪條公路](../Page/縣道194號.md "wikilink")**全線位於[臺東縣境內](../Page/臺東縣.md "wikilink")，而且也是通往[知本溫泉和](https://zh.wikipedia.org/wiki/知本溫泉 "wikilink")[知本國家森林遊樂區之重要道路](../Page/知本國家森林遊樂區.md "wikilink")？
-  - [**台灣哪一座辦公大樓**將於](https://zh.wikipedia.org/wiki/行政院南部聯合服務中心合署辦公大樓 "wikilink")2018年3月2日完工，成為[行政院南部聯合服務中心的辦公廳舍](https://zh.wikipedia.org/wiki/行政院南部聯合服務中心 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[豐原區的](../Page/豐原區.md "wikilink")**[哪座有應公廟](https://zh.wikipedia.org/wiki/群靈祠 "wikilink")**在1982、1984年報導時為豐原地區中香火最盛、規模最大的一座陰廟，除[媽祖生日以外](../Page/媽祖.md "wikilink")，其餘天數都在酬戲？
+  - [**台灣哪一座辦公大樓**將於](../Page/行政院南部聯合服務中心合署辦公大樓.md "wikilink")2018年3月2日完工，成為[行政院南部聯合服務中心的辦公廳舍](https://zh.wikipedia.org/wiki/行政院南部聯合服務中心 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[豐原區的](../Page/豐原區.md "wikilink")**[哪座有應公廟](../Page/群靈祠.md "wikilink")**在1982、1984年報導時為豐原地區中香火最盛、規模最大的一座陰廟，除[媽祖生日以外](../Page/媽祖.md "wikilink")，其餘天數都在酬戲？
   - [臺灣桃園地方法院檢察署的辦公室位於](https://zh.wikipedia.org/wiki/臺灣桃園地方法院檢察署 "wikilink")[**桃園哪棟大樓**](https://zh.wikipedia.org/wiki/臺灣桃園地方法院檢察署辦公大樓 "wikilink")？
-  - 在[臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[東勢區的](../Page/東勢區.md "wikilink")**[哪間土地祠](https://zh.wikipedia.org/wiki/北興里雙福祠 "wikilink")**，合祀被視為親兄弟的兩位土地神？
-  - [**台灣哪一座辦公大樓**將供](https://zh.wikipedia.org/wiki/法務部行政執行署高雄分署辦公廳舍 "wikilink")[法務部行政執行署高雄分署及](https://zh.wikipedia.org/wiki/法務部行政執行署高雄分署 "wikilink")[內政部國土測繪中心合署辦公](https://zh.wikipedia.org/wiki/內政部國土測繪中心 "wikilink")？
+  - 在[臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[東勢區的](../Page/東勢區.md "wikilink")**[哪間土地祠](../Page/北興里雙福祠.md "wikilink")**，合祀被視為親兄弟的兩位土地神？
+  - [**台灣哪一座辦公大樓**將供](../Page/法務部行政執行署高雄分署辦公廳舍.md "wikilink")[法務部行政執行署高雄分署及](https://zh.wikipedia.org/wiki/法務部行政執行署高雄分署 "wikilink")[內政部國土測繪中心合署辦公](https://zh.wikipedia.org/wiki/內政部國土測繪中心 "wikilink")？
   - **[哪一座被增設的桃園捷運車站](https://zh.wikipedia.org/wiki/機場旅館站 "wikilink")**可與[台北諾富特華航桃園機場飯店互相聯絡](https://zh.wikipedia.org/wiki/台北諾富特華航桃園機場飯店 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[東勢區](../Page/東勢區.md "wikilink")**[哪一座土地祠](https://zh.wikipedia.org/wiki/鯉魚伯公廟 "wikilink")**建立在石堤上，神明以[鯉魚的形象著稱](https://zh.wikipedia.org/wiki/鯉魚 "wikilink")？
-  - 在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[石岡區有](../Page/石岡區.md "wikilink")**[哪座樹群](https://zh.wikipedia.org/wiki/五福臨門神木 "wikilink")**原先是由[樟樹](https://zh.wikipedia.org/wiki/樟樹 "wikilink")、[榕樹](../Page/細葉榕.md "wikilink")、[相思樹](../Page/相思樹.md "wikilink")、[朴樹](../Page/朴樹.md "wikilink")、[楠樹五種樹組成](https://zh.wikipedia.org/wiki/楠樹 "wikilink")，由時任中華民國行政院長的[蔣經國親自取名](../Page/蔣經國.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[東勢區](../Page/東勢區.md "wikilink")**[哪一座土地祠](../Page/鯉魚伯公廟.md "wikilink")**建立在石堤上，神明以[鯉魚的形象著稱](https://zh.wikipedia.org/wiki/鯉魚 "wikilink")？
+  - 在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[石岡區有](../Page/石岡區.md "wikilink")**[哪座樹群](../Page/五福臨門神木.md "wikilink")**原先是由[樟樹](https://zh.wikipedia.org/wiki/樟樹 "wikilink")、[榕樹](../Page/細葉榕.md "wikilink")、[相思樹](../Page/相思樹.md "wikilink")、[朴樹](../Page/朴樹.md "wikilink")、[楠樹五種樹組成](https://zh.wikipedia.org/wiki/楠樹 "wikilink")，由時任中華民國行政院長的[蔣經國親自取名](../Page/蔣經國.md "wikilink")？
   - [中華航空的總部位於](../Page/中華航空.md "wikilink")**[台灣哪一座園區？](../Page/華航園區.md "wikilink")**
   - **[哪一座桃園捷運車站](https://zh.wikipedia.org/wiki/環北站 "wikilink")**曾是[桃園捷運藍線的一員](../Page/桃園捷運藍線.md "wikilink")，在併入[桃園捷運機場線後成為目前的南端終點站](https://zh.wikipedia.org/wiki/桃園捷運機場線 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[太平區](https://zh.wikipedia.org/wiki/太平區_\(臺中市\) "wikilink")**[哪一間廟宇](https://zh.wikipedia.org/wiki/行德宮_\(太平\) "wikilink")**祭拜當地傳說中的一位[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[國際移工](https://zh.wikipedia.org/wiki/國際移工 "wikilink")？
-  - **[哪座位在臺灣桃園市龜山區的火力發電廠](https://zh.wikipedia.org/wiki/國光發電廠 "wikilink")**是由[臺灣中油公司轉投資而設立的](https://zh.wikipedia.org/wiki/臺灣中油公司 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[太平區](https://zh.wikipedia.org/wiki/太平區_\(臺中市\) "wikilink")**[哪一間廟宇](../Page/行德宮_\(太平\).md "wikilink")**祭拜當地傳說中的一位[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[國際移工](https://zh.wikipedia.org/wiki/國際移工 "wikilink")？
+  - **[哪座位在臺灣桃園市龜山區的火力發電廠](../Page/國光發電廠.md "wikilink")**是由[臺灣中油公司轉投資而設立的](https://zh.wikipedia.org/wiki/臺灣中油公司 "wikilink")？
   - **[哪一座桃園捷運車站](https://zh.wikipedia.org/wiki/興南站_\(桃園市\) "wikilink")**曾是[桃園捷運藍線的一員](../Page/桃園捷運藍線.md "wikilink")，後來成為[桃園捷運機場線A](https://zh.wikipedia.org/wiki/桃園捷運機場線 "wikilink")20號車站？
-  - [荷蘭東印度公司曾在](https://zh.wikipedia.org/wiki/荷蘭東印度公司 "wikilink")[澎湖群島上建立](../Page/澎湖群島.md "wikilink")**[哪一座城堡](https://zh.wikipedia.org/wiki/馬公風櫃尾荷蘭城堡 "wikilink")**作為貿易據點？
+  - [荷蘭東印度公司曾在](https://zh.wikipedia.org/wiki/荷蘭東印度公司 "wikilink")[澎湖群島上建立](../Page/澎湖群島.md "wikilink")**[哪一座城堡](../Page/馬公風櫃尾荷蘭城堡.md "wikilink")**作為貿易據點？
   - **[哪一座桃園捷運車站](https://zh.wikipedia.org/wiki/桃園體育園區站 "wikilink")**是台灣第一座與棒球場相鄰的捷運車站？
   - 在台灣雲林縣虎尾鎮**[哪一座廟宇](../Page/虎尾三姓公廟.md "wikilink")**祭祀三位[二二八事件被槍決的台灣人](https://zh.wikipedia.org/wiki/二二八事件 "wikilink")？
   - **[哪一座桃園捷運車站](https://zh.wikipedia.org/wiki/高鐵桃園站_\(桃園捷運\) "wikilink")**曾是[桃園捷運藍線的一員](../Page/桃園捷運藍線.md "wikilink")，後來成為與[高鐵桃園車站相鄰的](https://zh.wikipedia.org/wiki/桃園車站_\(高鐵\) "wikilink")[桃園捷運機場線A](https://zh.wikipedia.org/wiki/桃園捷運機場線 "wikilink")18號車站？
   - **[哪一座桃園捷運車站](https://zh.wikipedia.org/wiki/領航站 "wikilink")**曾是[桃園捷運藍線的一員](../Page/桃園捷運藍線.md "wikilink")，後來成為[桃園捷運機場線A](https://zh.wikipedia.org/wiki/桃園捷運機場線 "wikilink")17號車站？
   - 1930年5月9日，**[哪位日本老師](../Page/山岡榮.md "wikilink")**為救多名[台灣學童而殉身](https://zh.wikipedia.org/wiki/台灣 "wikilink")，死後在今台灣[台中市](https://zh.wikipedia.org/wiki/台中市 "wikilink")[新社區](../Page/新社區.md "wikilink")[食水嵙溪旁立有紀念碑](https://zh.wikipedia.org/wiki/食水嵙溪 "wikilink")？
   - **[哪一座桃園捷運車站](https://zh.wikipedia.org/wiki/橫山站_\(桃園市\) "wikilink")**曾是[桃園捷運藍線的一員](../Page/桃園捷運藍線.md "wikilink")，後來成為[桃園捷運機場線A](https://zh.wikipedia.org/wiki/桃園捷運機場線 "wikilink")16號車站？
-  - **[哪間主祀蘇府千歲的廟宇](https://zh.wikipedia.org/wiki/臺東順天宮 "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[臺東縣境內](../Page/臺東縣.md "wikilink")，繼[臺東天后宮與](https://zh.wikipedia.org/wiki/臺東天后宮 "wikilink")[臺東天官堂之外第三間擁有百年歷史的](https://zh.wikipedia.org/wiki/臺東天官堂 "wikilink")[廟宇](https://zh.wikipedia.org/wiki/廟宇 "wikilink")？
+  - **[哪間主祀蘇府千歲的廟宇](../Page/臺東順天宮.md "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[臺東縣境內](../Page/臺東縣.md "wikilink")，繼[臺東天后宮與](https://zh.wikipedia.org/wiki/臺東天后宮 "wikilink")[臺東天官堂之外第三間擁有百年歷史的](../Page/臺東天官堂.md "wikilink")[廟宇](https://zh.wikipedia.org/wiki/廟宇 "wikilink")？
   - **[哪一座桃園捷運車站](https://zh.wikipedia.org/wiki/大園站 "wikilink")**曾是[桃園捷運藍線的一員](../Page/桃園捷運藍線.md "wikilink")，後來成為[桃園捷運機場線A](https://zh.wikipedia.org/wiki/桃園捷運機場線 "wikilink")15號車站？
-  - **[哪座廟宇](https://zh.wikipedia.org/wiki/臺東天官堂 "wikilink")**是[臺灣唯一一座祭祀白佛主公的](../Page/臺灣.md "wikilink")[廟宇](https://zh.wikipedia.org/wiki/廟宇 "wikilink")？
-  - 台灣政治人物[宋楚瑜曾說夢見](https://zh.wikipedia.org/wiki/宋楚瑜 "wikilink")**[哪座寺廟](https://zh.wikipedia.org/wiki/慈雲寺_\(通霄鎮\) "wikilink")**的觀音菩薩，並表示祂願意犧牲自己的「左右手」？
-  - **[哪間土地神廟](https://zh.wikipedia.org/wiki/臺東福安宮 "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[臺東地區最大的](https://zh.wikipedia.org/wiki/臺東 "wikilink")[土地神廟](https://zh.wikipedia.org/wiki/土地神廟 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[竹塘鄉](https://zh.wikipedia.org/wiki/竹塘鄉_\(台灣\) "wikilink")**[哪一座廟宇](https://zh.wikipedia.org/wiki/竹塘慈航宮 "wikilink")**的建立是緣自1981年4月20日一場車禍，因無重傷亡而被當地民眾視為觀音顯靈？
-  - 在[臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[通霄鎮有](https://zh.wikipedia.org/wiki/通霄鎮 "wikilink")**[哪一座祠堂](https://zh.wikipedia.org/wiki/壽公祠 "wikilink")**供奉[林爽文事件中被殺的官員](../Page/林爽文事件.md "wikilink")[壽同春](../Page/壽同春.md "wikilink")？
+  - **[哪座廟宇](../Page/臺東天官堂.md "wikilink")**是[臺灣唯一一座祭祀白佛主公的](../Page/臺灣.md "wikilink")[廟宇](https://zh.wikipedia.org/wiki/廟宇 "wikilink")？
+  - 台灣政治人物[宋楚瑜曾說夢見](https://zh.wikipedia.org/wiki/宋楚瑜 "wikilink")**[哪座寺廟](../Page/慈雲寺_\(通霄鎮\).md "wikilink")**的觀音菩薩，並表示祂願意犧牲自己的「左右手」？
+  - **[哪間土地神廟](../Page/臺東福安宮.md "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[臺東地區最大的](https://zh.wikipedia.org/wiki/臺東 "wikilink")[土地神廟](https://zh.wikipedia.org/wiki/土地神廟 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[竹塘鄉](https://zh.wikipedia.org/wiki/竹塘鄉_\(台灣\) "wikilink")**[哪一座廟宇](../Page/竹塘慈航宮.md "wikilink")**的建立是緣自1981年4月20日一場車禍，因無重傷亡而被當地民眾視為觀音顯靈？
+  - 在[臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[通霄鎮有](https://zh.wikipedia.org/wiki/通霄鎮 "wikilink")**[哪一座祠堂](../Page/壽公祠.md "wikilink")**供奉[林爽文事件中被殺的官員](../Page/林爽文事件.md "wikilink")[壽同春](../Page/壽同春.md "wikilink")？
 
 #### 2月
 
   - *'
-    [哪間位在臺東縣成功漁港的廟宇](https://zh.wikipedia.org/wiki/成功萬善廟 "wikilink")*'擁有[臺灣唯一祭拜](../Page/臺灣.md "wikilink")[旗魚神的特殊](https://zh.wikipedia.org/wiki/旗魚 "wikilink")[信仰](https://zh.wikipedia.org/wiki/信仰 "wikilink")？
-  - **[哪座位在臺灣花蓮縣的水力發電廠](https://zh.wikipedia.org/wiki/溪畔發電廠 "wikilink")**因[太魯閣國家公園的成立以及](../Page/太魯閣國家公園.md "wikilink")[台灣電力公司財務困難](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")，最終停工至今？
-  - **[哪一座位於台北市的軍事基地](https://zh.wikipedia.org/wiki/國家政軍指揮中心 "wikilink")**與[國軍聯合作戰指揮中心仳鄰通連](../Page/國軍聯合作戰指揮中心.md "wikilink")，為[中華民國總統緊急及戰時的最高指揮中心](../Page/中華民國總統.md "wikilink")？
-  - 1936年，台灣年銷一千六百多萬頂的大甲草帽，是由**[哪一名台灣女子](https://zh.wikipedia.org/wiki/洪鴦 "wikilink")**所催生？
-  - **[哪座臺灣新北市佛寺](https://zh.wikipedia.org/wiki/無天禪寺 "wikilink")**將台灣首位持槍搶劫銀行的[李師科當門神](https://zh.wikipedia.org/wiki/李師科 "wikilink")？
-  - **[哪一款遊戲](https://zh.wikipedia.org/wiki/Panty_Party "wikilink")**的主角可以變身成內褲？
-  - **[哪一位日本語言學家](https://zh.wikipedia.org/wiki/安藤正次 "wikilink")**曾任[臺北帝國大學第三任總長](../Page/臺北帝國大學.md "wikilink")，並促成了日本口語化憲法草案的發表？
+    [哪間位在臺東縣成功漁港的廟宇](../Page/成功萬善廟.md "wikilink")*'擁有[臺灣唯一祭拜](../Page/臺灣.md "wikilink")[旗魚神的特殊](https://zh.wikipedia.org/wiki/旗魚 "wikilink")[信仰](https://zh.wikipedia.org/wiki/信仰 "wikilink")？
+  - **[哪座位在臺灣花蓮縣的水力發電廠](../Page/溪畔發電廠.md "wikilink")**因[太魯閣國家公園的成立以及](../Page/太魯閣國家公園.md "wikilink")[台灣電力公司財務困難](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")，最終停工至今？
+  - **[哪一座位於台北市的軍事基地](../Page/國家政軍指揮中心.md "wikilink")**與[國軍聯合作戰指揮中心仳鄰通連](../Page/國軍聯合作戰指揮中心.md "wikilink")，為[中華民國總統緊急及戰時的最高指揮中心](../Page/中華民國總統.md "wikilink")？
+  - 1936年，台灣年銷一千六百多萬頂的大甲草帽，是由**[哪一名台灣女子](../Page/洪鴦.md "wikilink")**所催生？
+  - **[哪座臺灣新北市佛寺](../Page/無天禪寺.md "wikilink")**將台灣首位持槍搶劫銀行的[李師科當門神](https://zh.wikipedia.org/wiki/李師科 "wikilink")？
+  - **[哪一款遊戲](../Page/Panty_Party.md "wikilink")**的主角可以變身成內褲？
+  - **[哪一位日本語言學家](../Page/安藤正次.md "wikilink")**曾任[臺北帝國大學第三任總長](../Page/臺北帝國大學.md "wikilink")，並促成了日本口語化憲法草案的發表？
   - **[哪位中華民國將領](../Page/王信龍.md "wikilink")**為該國陸軍史上首位[陸軍官校專科班出身](https://zh.wikipedia.org/wiki/陸軍官校專科班校友會#專科班將領 "wikilink")、兼首位[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[花蓮縣出身的](../Page/花蓮縣.md "wikilink")[上將和](https://zh.wikipedia.org/wiki/上將 "wikilink")[陸軍司令](../Page/中華民國陸軍司令.md "wikilink")？
-  - [慈濟功德會創辦人](https://zh.wikipedia.org/wiki/慈濟功德會 "wikilink")[證嚴法師尚未剃度出家前](https://zh.wikipedia.org/wiki/證嚴法師 "wikilink")，曾隨師父來到[臺灣](../Page/臺灣.md "wikilink")[臺東縣](../Page/臺東縣.md "wikilink")**[哪間廟宇](https://zh.wikipedia.org/wiki/龍田崑慈堂 "wikilink")**前掛單修行並講授佛法？
-  - **[哪一座台灣寺廟](https://zh.wikipedia.org/wiki/照明淨寺 "wikilink")**又稱「情人廟」，建立時因擺設[司馬相如](../Page/司馬相如.md "wikilink")、[卓文君蠟像](../Page/卓文君.md "wikilink")，招致衛道人士反彈與政府介入，也引起觀光風潮？
-  - **[哪位台灣女演員](https://zh.wikipedia.org/wiki/張海倫 "wikilink")**是台灣政論節目主持人[李濤前妻](../Page/李濤_\(臺灣\).md "wikilink")，1984年在拍攝電影中失去部分手指，此後戲路不順，1995年仰藥自殺？
-  - **[哪間主祀如意娘娘的廟宇](https://zh.wikipedia.org/wiki/富岡海神廟 "wikilink")**是臺灣唯一一間由[中華民國空軍所興建的](../Page/中華民國空軍.md "wikilink")[廟宇](https://zh.wikipedia.org/wiki/廟宇 "wikilink")？
-  - **[臺灣臺東縣初鹿的哪間媽祖廟](https://zh.wikipedia.org/wiki/初鹿鎮東宮 "wikilink")**與同村落的讚天宮所祭祀的[媽祖皆是從](../Page/媽祖.md "wikilink")[嘉義縣](../Page/嘉義縣.md "wikilink")[太保市的鎮福宮所分靈而出的](https://zh.wikipedia.org/wiki/太保市 "wikilink")？
-  - 臺灣[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[東區的](https://zh.wikipedia.org/wiki/東區_\(臺南市\) "wikilink")**[哪一間土地公廟](https://zh.wikipedia.org/wiki/祝三多廟 "wikilink")**的廟名據說典出《[莊子](../Page/莊子_\(書\).md "wikilink")》，而且廟名還曾經用來稱呼所在街道？
-  - **[哪間位於臺灣臺東縣卑南鄉的關帝廟](https://zh.wikipedia.org/wiki/太平文衡殿 "wikilink")**內，其另祭祀的白猿元帥，是民間傳說中曾救過[孫臏的神猿](https://zh.wikipedia.org/wiki/孫臏 "wikilink")，在[臺灣其他一般廟宇中相當罕見](../Page/臺灣.md "wikilink")？
-  - **[哪間天后宮](https://zh.wikipedia.org/wiki/關山天后宮 "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[臺東縱谷地區最大的](../Page/臺東縣.md "wikilink")[媽祖信仰中心](../Page/媽祖.md "wikilink")？
-  - **[哪一座台灣廟宇](https://zh.wikipedia.org/wiki/開元殿 "wikilink")**有高53.4公尺的[鄭成功神像](../Page/鄭成功.md "wikilink")，是截至2017年2月初最高的鄭成功像？
-  - **[哪一座印度軍人像](https://zh.wikipedia.org/wiki/保坑大將軍 "wikilink")**原先是已故[台灣藝人](https://zh.wikipedia.org/wiki/台灣 "wikilink")[高凌風](../Page/高凌風.md "wikilink")[夜店的裝飾品](https://zh.wikipedia.org/wiki/夜店 "wikilink")，後來成為[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[斗六市湖山](../Page/斗六市.md "wikilink")-{里}-檨仔坑當地信仰？
-  - **[哪一間台灣台北市廟宇](https://zh.wikipedia.org/wiki/瞿公真人廟 "wikilink")**主祭瞿真人，為[劉銘傳擔任](../Page/劉銘傳.md "wikilink")[臺灣巡撫時](https://zh.wikipedia.org/wiki/臺灣巡撫 "wikilink")[湘軍所帶來的信仰](https://zh.wikipedia.org/wiki/湘軍 "wikilink")？
-  - **[哪間台灣台北市的廟宇](https://zh.wikipedia.org/wiki/三腳渡天德宮 "wikilink")**，早期為逃避被拆而裝有輪子，後來設有升降機以避淹水？
-  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台南市](https://zh.wikipedia.org/wiki/台南市 "wikilink")[麻豆區](../Page/麻豆區.md "wikilink")**[哪座廟宇](https://zh.wikipedia.org/wiki/加輦邦永安宮 "wikilink")**以祭拜製糖用的蔗車聞名？
-  - 2016年中華民國10月國慶日，由「全世界中華民族一百八十團體大同盟」在台北市國父紀念館舉辦了**[哪一場活動](https://zh.wikipedia.org/wiki/我愛國旗嘉年華 "wikilink")**？
+  - [慈濟功德會創辦人](https://zh.wikipedia.org/wiki/慈濟功德會 "wikilink")[證嚴法師尚未剃度出家前](https://zh.wikipedia.org/wiki/證嚴法師 "wikilink")，曾隨師父來到[臺灣](../Page/臺灣.md "wikilink")[臺東縣](../Page/臺東縣.md "wikilink")**[哪間廟宇](../Page/龍田崑慈堂.md "wikilink")**前掛單修行並講授佛法？
+  - **[哪一座台灣寺廟](../Page/照明淨寺.md "wikilink")**又稱「情人廟」，建立時因擺設[司馬相如](../Page/司馬相如.md "wikilink")、[卓文君蠟像](../Page/卓文君.md "wikilink")，招致衛道人士反彈與政府介入，也引起觀光風潮？
+  - **[哪位台灣女演員](../Page/張海倫.md "wikilink")**是台灣政論節目主持人[李濤前妻](../Page/李濤_\(臺灣\).md "wikilink")，1984年在拍攝電影中失去部分手指，此後戲路不順，1995年仰藥自殺？
+  - **[哪間主祀如意娘娘的廟宇](../Page/富岡海神廟.md "wikilink")**是臺灣唯一一間由[中華民國空軍所興建的](../Page/中華民國空軍.md "wikilink")[廟宇](https://zh.wikipedia.org/wiki/廟宇 "wikilink")？
+  - **[臺灣臺東縣初鹿的哪間媽祖廟](../Page/初鹿鎮東宮.md "wikilink")**與同村落的讚天宮所祭祀的[媽祖皆是從](../Page/媽祖.md "wikilink")[嘉義縣](../Page/嘉義縣.md "wikilink")[太保市的鎮福宮所分靈而出的](https://zh.wikipedia.org/wiki/太保市 "wikilink")？
+  - 臺灣[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[東區的](https://zh.wikipedia.org/wiki/東區_\(臺南市\) "wikilink")**[哪一間土地公廟](../Page/祝三多廟.md "wikilink")**的廟名據說典出《[莊子](../Page/莊子_\(書\).md "wikilink")》，而且廟名還曾經用來稱呼所在街道？
+  - **[哪間位於臺灣臺東縣卑南鄉的關帝廟](../Page/太平文衡殿.md "wikilink")**內，其另祭祀的白猿元帥，是民間傳說中曾救過[孫臏的神猿](https://zh.wikipedia.org/wiki/孫臏 "wikilink")，在[臺灣其他一般廟宇中相當罕見](../Page/臺灣.md "wikilink")？
+  - **[哪間天后宮](../Page/關山天后宮.md "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[臺東縱谷地區最大的](../Page/臺東縣.md "wikilink")[媽祖信仰中心](../Page/媽祖.md "wikilink")？
+  - **[哪一座台灣廟宇](../Page/開元殿.md "wikilink")**有高53.4公尺的[鄭成功神像](../Page/鄭成功.md "wikilink")，是截至2017年2月初最高的鄭成功像？
+  - **[哪一座印度軍人像](../Page/保坑大將軍.md "wikilink")**原先是已故[台灣藝人](https://zh.wikipedia.org/wiki/台灣 "wikilink")[高凌風](../Page/高凌風.md "wikilink")[夜店的裝飾品](https://zh.wikipedia.org/wiki/夜店 "wikilink")，後來成為[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[斗六市湖山](../Page/斗六市.md "wikilink")-{里}-檨仔坑當地信仰？
+  - **[哪一間台灣台北市廟宇](../Page/瞿公真人廟.md "wikilink")**主祭瞿真人，為[劉銘傳擔任](../Page/劉銘傳.md "wikilink")[臺灣巡撫時](https://zh.wikipedia.org/wiki/臺灣巡撫 "wikilink")[湘軍所帶來的信仰](https://zh.wikipedia.org/wiki/湘軍 "wikilink")？
+  - **[哪間台灣台北市的廟宇](../Page/三腳渡天德宮.md "wikilink")**，早期為逃避被拆而裝有輪子，後來設有升降機以避淹水？
+  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台南市](https://zh.wikipedia.org/wiki/台南市 "wikilink")[麻豆區](../Page/麻豆區.md "wikilink")**[哪座廟宇](../Page/加輦邦永安宮.md "wikilink")**以祭拜製糖用的蔗車聞名？
+  - 2016年中華民國10月國慶日，由「全世界中華民族一百八十團體大同盟」在台北市國父紀念館舉辦了**[哪一場活動](../Page/我愛國旗嘉年華.md "wikilink")**？
 
 #### 1月
 
-  - **[哪一座1936年完工的飲水塔](https://zh.wikipedia.org/wiki/朴子水道配水塔 "wikilink")**曾是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[嘉義縣](../Page/嘉義縣.md "wikilink")[朴子市的最高建築物](https://zh.wikipedia.org/wiki/朴子市 "wikilink")，為當地重要公共衛生建設及防疫系統？
-  - 2017年的**[哪款恐怖遊戲](https://zh.wikipedia.org/wiki/返校 "wikilink")**以台灣校園與台灣鬼怪傳說為情境，背景設定於[台灣白色恐怖時期](https://zh.wikipedia.org/wiki/台灣白色恐怖時期 "wikilink")？
-  - **[哪一間媽祖廟](https://zh.wikipedia.org/wiki/新化朝天宮 "wikilink")**與臺灣[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[新化區的民俗活動](https://zh.wikipedia.org/wiki/新化區 "wikilink")「[大目降十八嬈](../Page/大目降十八嬈.md "wikilink")」有密切的關係？
+  - **[哪一座1936年完工的飲水塔](../Page/朴子水道配水塔.md "wikilink")**曾是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[嘉義縣](../Page/嘉義縣.md "wikilink")[朴子市的最高建築物](https://zh.wikipedia.org/wiki/朴子市 "wikilink")，為當地重要公共衛生建設及防疫系統？
+  - 2017年的**[哪款恐怖遊戲](../Page/返校.md "wikilink")**以台灣校園與台灣鬼怪傳說為情境，背景設定於[台灣白色恐怖時期](https://zh.wikipedia.org/wiki/台灣白色恐怖時期 "wikilink")？
+  - **[哪一間媽祖廟](../Page/新化朝天宮.md "wikilink")**與臺灣[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[新化區的民俗活動](https://zh.wikipedia.org/wiki/新化區 "wikilink")「[大目降十八嬈](../Page/大目降十八嬈.md "wikilink")」有密切的關係？
   - **[哪一條桃園捷運路線](../Page/桃園捷運藍線.md "wikilink")**在2003年併入[桃園國際機場捷運](https://zh.wikipedia.org/wiki/桃園國際機場捷運 "wikilink")，並成為其一部份？
   - **[哪一條桃園捷運路線](../Page/桃園捷運紅線.md "wikilink")**因[桃園鐵路高架化而胎死腹中](https://zh.wikipedia.org/wiki/桃園鐵路高架化 "wikilink")？
   - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[新店區](../Page/新店區.md "wikilink")**[哪一座清代建立的土地公廟](https://zh.wikipedia.org/wiki/斯馨祠 "wikilink")**在建造[三環三線被](../Page/三環三線.md "wikilink")[拆遷](https://zh.wikipedia.org/wiki/拆遷 "wikilink")，但因「神明無法出面」，又找不到出資建廟者的後人，故廟方無法領取到[新台幣一千多萬元的徵收款](https://zh.wikipedia.org/wiki/新台幣 "wikilink")？
-  - **[哪位台灣人](https://zh.wikipedia.org/wiki/李哲洋 "wikilink")**在[台灣白色恐怖時期受父親之累而被退學](https://zh.wikipedia.org/wiki/台灣白色恐怖時期 "wikilink")，後來自學成為音樂學者，並主編1970、80年代臺灣音樂雜誌之一《全音音樂文摘》，也是模特兒[林絲緞的丈夫](../Page/林絲緞.md "wikilink")？
-  - 2017年1月，台灣**[哪一座佛寺](https://zh.wikipedia.org/wiki/碧雲禪寺 "wikilink")**在寺方與信眾的抗議聲中，被自稱「共產黨在臺灣的宣傳小兵」的商人改成「[中華人民共和國台灣省社會主義民族思想愛國教育基地](https://zh.wikipedia.org/wiki/中華人民共和國台灣省 "wikilink")」?
-  - **[哪個台灣文化組織](https://zh.wikipedia.org/wiki/老屋顏工作室 "wikilink")**只有兩人，專門研究台灣建築的鐵窗花，並集結成書？
-  - 1984年12月台灣發生的一場礦難中，**[哪位倖存的礦工](https://zh.wikipedia.org/wiki/周宗魯 "wikilink")**被困在坑道內93小時，且被迫吃人肉維生？
+  - **[哪位台灣人](../Page/李哲洋.md "wikilink")**在[台灣白色恐怖時期受父親之累而被退學](https://zh.wikipedia.org/wiki/台灣白色恐怖時期 "wikilink")，後來自學成為音樂學者，並主編1970、80年代臺灣音樂雜誌之一《全音音樂文摘》，也是模特兒[林絲緞的丈夫](../Page/林絲緞.md "wikilink")？
+  - 2017年1月，台灣**[哪一座佛寺](../Page/碧雲禪寺.md "wikilink")**在寺方與信眾的抗議聲中，被自稱「共產黨在臺灣的宣傳小兵」的商人改成「[中華人民共和國台灣省社會主義民族思想愛國教育基地](https://zh.wikipedia.org/wiki/中華人民共和國台灣省 "wikilink")」?
+  - **[哪個台灣文化組織](../Page/老屋顏工作室.md "wikilink")**只有兩人，專門研究台灣建築的鐵窗花，並集結成書？
+  - 1984年12月台灣發生的一場礦難中，**[哪位倖存的礦工](../Page/周宗魯.md "wikilink")**被困在坑道內93小時，且被迫吃人肉維生？
   - **[哪個消防機構](https://zh.wikipedia.org/wiki/臺東縣消防局 "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[臺東縣境內最高之](../Page/臺東縣.md "wikilink")[消防專責行政單位](https://zh.wikipedia.org/wiki/消防 "wikilink")？
-  - **[哪一間滎陽鄭氏宗祠](https://zh.wikipedia.org/wiki/開臺聖王成功廟 "wikilink")**位於[臺灣](../Page/臺灣.md "wikilink")[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[士林區](../Page/士林區.md "wikilink")[外雙溪地區](../Page/外雙溪.md "wikilink")，是該地知名的夜遊探險地點？
-  - 在[臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[頭城鎮外澳海邊有](https://zh.wikipedia.org/wiki/頭城鎮 "wikilink")**[哪一間外貌像是阿拉伯宮殿的私人招待所兼博物館](https://zh.wikipedia.org/wiki/榮梓博物館 "wikilink")**？
+  - **[哪一間滎陽鄭氏宗祠](../Page/開臺聖王成功廟.md "wikilink")**位於[臺灣](../Page/臺灣.md "wikilink")[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[士林區](../Page/士林區.md "wikilink")[外雙溪地區](../Page/外雙溪.md "wikilink")，是該地知名的夜遊探險地點？
+  - 在[臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[頭城鎮外澳海邊有](https://zh.wikipedia.org/wiki/頭城鎮 "wikilink")**[哪一間外貌像是阿拉伯宮殿的私人招待所兼博物館](../Page/榮梓博物館.md "wikilink")**？
 
 ### 2016年
 
 #### 12月
 
-  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[枋寮鄉隆山村有](https://zh.wikipedia.org/wiki/枋寮鄉 "wikilink")**[哪座忠烈祠](https://zh.wikipedia.org/wiki/白軍營淮軍義塚 "wikilink")**祭拜[淮軍](../Page/淮軍.md "wikilink")？
-  - **[哪座台灣屏東縣佳冬鄉的廟宇](https://zh.wikipedia.org/wiki/六根庄三山國王廟 "wikilink")**與[乙未戰爭](../Page/乙未戰爭.md "wikilink")[步月樓之役有關](https://zh.wikipedia.org/wiki/步月樓之役 "wikilink")，不可在此廟前表演有斬首劇情的布袋戲？
-  - **[哪間台灣屏東的廟宇](https://zh.wikipedia.org/wiki/林仔內三山國王廟 "wikilink")**是[河婆](https://zh.wikipedia.org/wiki/河婆鎮 "wikilink")[客家人所建](https://zh.wikipedia.org/wiki/客家人 "wikilink")，具有不同於臺灣其他三山國王廟的習俗？
-  - [**哪位台灣屏東的銀樓老闆**是](https://zh.wikipedia.org/wiki/龔濟洲 "wikilink")[陝西省](https://zh.wikipedia.org/wiki/陝西省 "wikilink")[旬陽縣曉秦中學創辦者](https://zh.wikipedia.org/wiki/旬陽縣 "wikilink")？
-  - **[哪間位在台北市中山區大直的觀音寺](https://zh.wikipedia.org/wiki/下塔悠福德爺宮 "wikilink")**，其[觀音像的由來是為紀念](https://zh.wikipedia.org/wiki/觀音 "wikilink")[泉州三邑人在咸豐年間的](https://zh.wikipedia.org/wiki/泉州三邑 "wikilink")[械鬥打敗](https://zh.wikipedia.org/wiki/械鬥 "wikilink")[泉州同安人](https://zh.wikipedia.org/wiki/同安區 "wikilink")？
-  - 來自[浙江的](https://zh.wikipedia.org/wiki/浙江 "wikilink")[臺灣大陳人在](../Page/臺灣大陳人.md "wikilink")[臺灣](../Page/臺灣.md "wikilink")[高雄市](../Page/高雄市.md "wikilink")[旗津區建立](../Page/旗津區.md "wikilink")**[哪座祭拜蔣中正的廟宇](https://zh.wikipedia.org/wiki/蔣公感恩堂 "wikilink")**，後來改為主祭[觀世音](https://zh.wikipedia.org/wiki/觀世音 "wikilink")？
-  - **[哪座位於臺灣臺東縣成功鎮的水族館](https://zh.wikipedia.org/wiki/小丑魚主題館 "wikilink")**前身為國立臺東海洋生物展覽館？
-  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[里港鄉](../Page/里港鄉.md "wikilink")**[哪座有應公廟](https://zh.wikipedia.org/wiki/紅廟 "wikilink")**是供奉當地在1833年被[六堆殺害的兩千餘名閩南人](../Page/六堆.md "wikilink")？
-  - **[哪座在台灣高雄市橋頭區的石碑](https://zh.wikipedia.org/wiki/樹靈碑 "wikilink")**，是紀念1949年臺灣戰後時期首次的樹靈祭？
-  - 1949年[中华人民共和国关于](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[海峡两岸关系提出的](https://zh.wikipedia.org/wiki/海峡两岸关系 "wikilink")**[什么口号](https://zh.wikipedia.org/wiki/解放台湾 "wikilink")**曾因[美军介入而搁浅](../Page/美军.md "wikilink")？
-  - 1833年，[六堆進攻今](../Page/六堆.md "wikilink")[臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[里港鄉](../Page/里港鄉.md "wikilink")，殺死兩千餘名閩南人，事後於里港建立**[哪座祠](https://zh.wikipedia.org/wiki/白志廟 "wikilink")**供奉戰死的六堆民兵，後來被當地人改祭祀一位善於醫術者？
-  - 農曆正月十四，[高雄市](../Page/高雄市.md "wikilink")[美濃區龍肚](../Page/美濃區.md "wikilink")-{里}-的[客家人會在](https://zh.wikipedia.org/wiki/臺灣客家人 "wikilink")**[哪座廟](https://zh.wikipedia.org/wiki/龍蘭窩威武祠 "wikilink")**祭拜名為「竹扶人」的神明，與乾隆三十三年的[黃教事件有關](https://zh.wikipedia.org/wiki/黃教事件 "wikilink")？
-  - 在[臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[潮州鎮有](https://zh.wikipedia.org/wiki/潮州鎮 "wikilink")**[哪一間廟](https://zh.wikipedia.org/wiki/警察廟 "wikilink")**是由警察所建，為唯一在[中華民國警局內設立的廟宇](https://zh.wikipedia.org/wiki/中華民國警察 "wikilink")？
-  - **[哪一位台灣女子](https://zh.wikipedia.org/wiki/陳命珠 "wikilink")**是[中華民國第一位成為](../Page/中華民國.md "wikilink")[錢幣主角的平民](https://zh.wikipedia.org/wiki/新臺幣硬幣 "wikilink")？
-  - **[哪位臺灣原住民](https://zh.wikipedia.org/wiki/毛信孝 "wikilink")**被稱作「毛王爺」，帶動[日月潭觀光業](../Page/日月潭.md "wikilink")？
-  - **[哪起事件](https://zh.wikipedia.org/wiki/川蔡通話 "wikilink")**是[中華民國－美國斷交以後](https://zh.wikipedia.org/wiki/中华民国与美国关系 "wikilink")，第一次在[中華民國總統與候任](../Page/中華民國總統.md "wikilink")[美國總統之间进行的電話談話](https://zh.wikipedia.org/wiki/美國總統 "wikilink")？
-  - 為因應[臺灣](../Page/臺灣.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[南化區](https://zh.wikipedia.org/wiki/南化區 "wikilink")[南化水庫自](../Page/南化水庫.md "wikilink")1993年啟用後因淤積，直到2009年11月時有效蓄水容量僅剩下原先設計容量的63%，因此[經濟部水利署南區水資源局興建](https://zh.wikipedia.org/wiki/經濟部水利署 "wikilink")**[哪座排砂防淤隧道](https://zh.wikipedia.org/wiki/南化水庫防淤隧道 "wikilink")**，預計將在2018年2月啟用？
+  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[枋寮鄉隆山村有](https://zh.wikipedia.org/wiki/枋寮鄉 "wikilink")**[哪座忠烈祠](../Page/白軍營淮軍義塚.md "wikilink")**祭拜[淮軍](../Page/淮軍.md "wikilink")？
+  - **[哪座台灣屏東縣佳冬鄉的廟宇](../Page/六根庄三山國王廟.md "wikilink")**與[乙未戰爭](../Page/乙未戰爭.md "wikilink")[步月樓之役有關](https://zh.wikipedia.org/wiki/步月樓之役 "wikilink")，不可在此廟前表演有斬首劇情的布袋戲？
+  - **[哪間台灣屏東的廟宇](../Page/林仔內三山國王廟.md "wikilink")**是[河婆](https://zh.wikipedia.org/wiki/河婆鎮 "wikilink")[客家人所建](https://zh.wikipedia.org/wiki/客家人 "wikilink")，具有不同於臺灣其他三山國王廟的習俗？
+  - [**哪位台灣屏東的銀樓老闆**是](../Page/龔濟洲.md "wikilink")[陝西省](https://zh.wikipedia.org/wiki/陝西省 "wikilink")[旬陽縣曉秦中學創辦者](https://zh.wikipedia.org/wiki/旬陽縣 "wikilink")？
+  - **[哪間位在台北市中山區大直的觀音寺](../Page/下塔悠福德爺宮.md "wikilink")**，其[觀音像的由來是為紀念](https://zh.wikipedia.org/wiki/觀音 "wikilink")[泉州三邑人在咸豐年間的](https://zh.wikipedia.org/wiki/泉州三邑 "wikilink")[械鬥打敗](https://zh.wikipedia.org/wiki/械鬥 "wikilink")[泉州同安人](https://zh.wikipedia.org/wiki/同安區 "wikilink")？
+  - 來自[浙江的](https://zh.wikipedia.org/wiki/浙江 "wikilink")[臺灣大陳人在](../Page/臺灣大陳人.md "wikilink")[臺灣](../Page/臺灣.md "wikilink")[高雄市](../Page/高雄市.md "wikilink")[旗津區建立](../Page/旗津區.md "wikilink")**[哪座祭拜蔣中正的廟宇](../Page/蔣公感恩堂.md "wikilink")**，後來改為主祭[觀世音](https://zh.wikipedia.org/wiki/觀世音 "wikilink")？
+  - **[哪座位於臺灣臺東縣成功鎮的水族館](../Page/小丑魚主題館.md "wikilink")**前身為國立臺東海洋生物展覽館？
+  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[里港鄉](../Page/里港鄉.md "wikilink")**[哪座有應公廟](../Page/紅廟.md "wikilink")**是供奉當地在1833年被[六堆殺害的兩千餘名閩南人](../Page/六堆.md "wikilink")？
+  - **[哪座在台灣高雄市橋頭區的石碑](../Page/樹靈碑.md "wikilink")**，是紀念1949年臺灣戰後時期首次的樹靈祭？
+  - 1949年[中华人民共和国关于](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[海峡两岸关系提出的](https://zh.wikipedia.org/wiki/海峡两岸关系 "wikilink")**[什么口号](../Page/解放台湾.md "wikilink")**曾因[美军介入而搁浅](../Page/美军.md "wikilink")？
+  - 1833年，[六堆進攻今](../Page/六堆.md "wikilink")[臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[里港鄉](../Page/里港鄉.md "wikilink")，殺死兩千餘名閩南人，事後於里港建立**[哪座祠](../Page/白志廟.md "wikilink")**供奉戰死的六堆民兵，後來被當地人改祭祀一位善於醫術者？
+  - 農曆正月十四，[高雄市](../Page/高雄市.md "wikilink")[美濃區龍肚](../Page/美濃區.md "wikilink")-{里}-的[客家人會在](https://zh.wikipedia.org/wiki/臺灣客家人 "wikilink")**[哪座廟](../Page/龍蘭窩威武祠.md "wikilink")**祭拜名為「竹扶人」的神明，與乾隆三十三年的[黃教事件有關](https://zh.wikipedia.org/wiki/黃教事件 "wikilink")？
+  - 在[臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[潮州鎮有](https://zh.wikipedia.org/wiki/潮州鎮 "wikilink")**[哪一間廟](../Page/警察廟.md "wikilink")**是由警察所建，為唯一在[中華民國警局內設立的廟宇](https://zh.wikipedia.org/wiki/中華民國警察 "wikilink")？
+  - **[哪一位台灣女子](../Page/陳命珠.md "wikilink")**是[中華民國第一位成為](../Page/中華民國.md "wikilink")[錢幣主角的平民](https://zh.wikipedia.org/wiki/新臺幣硬幣 "wikilink")？
+  - **[哪位臺灣原住民](../Page/毛信孝.md "wikilink")**被稱作「毛王爺」，帶動[日月潭觀光業](../Page/日月潭.md "wikilink")？
+  - **[哪起事件](../Page/川蔡通話.md "wikilink")**是[中華民國－美國斷交以後](https://zh.wikipedia.org/wiki/中华民国与美国关系 "wikilink")，第一次在[中華民國總統與候任](../Page/中華民國總統.md "wikilink")[美國總統之间进行的電話談話](https://zh.wikipedia.org/wiki/美國總統 "wikilink")？
+  - 為因應[臺灣](../Page/臺灣.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[南化區](https://zh.wikipedia.org/wiki/南化區 "wikilink")[南化水庫自](../Page/南化水庫.md "wikilink")1993年啟用後因淤積，直到2009年11月時有效蓄水容量僅剩下原先設計容量的63%，因此[經濟部水利署南區水資源局興建](https://zh.wikipedia.org/wiki/經濟部水利署 "wikilink")**[哪座排砂防淤隧道](../Page/南化水庫防淤隧道.md "wikilink")**，預計將在2018年2月啟用？
   - [2016年中华民国总统选举时](https://zh.wikipedia.org/wiki/2016年中华民国总统选举 "wikilink")，[民进党参选人](https://zh.wikipedia.org/wiki/民进党 "wikilink")[蔡英文提出了](../Page/蔡英文.md "wikilink")**[什么竞选口号](https://zh.wikipedia.org/wiki/点亮台湾 "wikilink")**？
-  - **[哪名韓國外交官](https://zh.wikipedia.org/wiki/黃龍植 "wikilink")**於2004年－2006年擔任[韓國駐台代表期間](../Page/駐台北韓國代表部.md "wikilink")，簽署台韓復航的協議、復辦韓國國慶在台酒會，並促成韓國政府支援韓語檢定考試在台舉行？
-  - **[哪個洞穴](https://zh.wikipedia.org/wiki/綠島觀音洞 "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[臺東縣](../Page/臺東縣.md "wikilink")[綠島居民的信仰中心](https://zh.wikipedia.org/wiki/綠島 "wikilink")？
+  - **[哪名韓國外交官](../Page/黃龍植.md "wikilink")**於2004年－2006年擔任[韓國駐台代表期間](../Page/駐台北韓國代表部.md "wikilink")，簽署台韓復航的協議、復辦韓國國慶在台酒會，並促成韓國政府支援韓語檢定考試在台舉行？
+  - **[哪個洞穴](../Page/綠島觀音洞.md "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[臺東縣](../Page/臺東縣.md "wikilink")[綠島居民的信仰中心](https://zh.wikipedia.org/wiki/綠島 "wikilink")？
 
 #### 11月
 
-  - 在[臺灣](../Page/臺灣.md "wikilink")[台中市](https://zh.wikipedia.org/wiki/台中市 "wikilink")[大里區](https://zh.wikipedia.org/wiki/大里區 "wikilink")，**[哪一間廟](https://zh.wikipedia.org/wiki/大里七將軍廟 "wikilink")**以尋找失物出名，[酬神戲之多](../Page/酬神戲.md "wikilink")，遂有「隔時無隔日」之說？
-  - 每日，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北車站的憲兵會去擦拭](https://zh.wikipedia.org/wiki/台北車站 "wikilink")**[哪位殉職憲兵](https://zh.wikipedia.org/wiki/楊榮華_\(憲兵\) "wikilink")**的紀念牌，據說過去還有一位神秘女郎會在12月13日來此獻花？
+  - 在[臺灣](../Page/臺灣.md "wikilink")[台中市](https://zh.wikipedia.org/wiki/台中市 "wikilink")[大里區](https://zh.wikipedia.org/wiki/大里區 "wikilink")，**[哪一間廟](../Page/大里七將軍廟.md "wikilink")**以尋找失物出名，[酬神戲之多](../Page/酬神戲.md "wikilink")，遂有「隔時無隔日」之說？
+  - 每日，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北車站的憲兵會去擦拭](https://zh.wikipedia.org/wiki/台北車站 "wikilink")**[哪位殉職憲兵](../Page/楊榮華_\(憲兵\).md "wikilink")**的紀念牌，據說過去還有一位神秘女郎會在12月13日來此獻花？
   - 在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[高雄市](../Page/高雄市.md "wikilink")[苓雅區有](../Page/苓雅區.md "wikilink")**[哪間廟宇](../Page/聖公媽廟.md "wikilink")**，其主神神像不予公開，多有當地的風塵女子前來祭拜？
-  - [聖嚴法師曾在](https://zh.wikipedia.org/wiki/聖嚴法師 "wikilink")**[哪間臺灣佛寺](https://zh.wikipedia.org/wiki/朝元寺_\(美濃\) "wikilink")**閉關兩次，在那寫出《聖嚴文集》、《正信的佛教》、《戒律學綱要》？
-  - [台北捷運](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")[淡水線](https://zh.wikipedia.org/wiki/淡水線 "wikilink")[雙連站附近有尊銅像](https://zh.wikipedia.org/wiki/雙連站 "wikilink")，是紀念為拯救一整車公車乘客而殉職的**[哪位台鐵員工](https://zh.wikipedia.org/wiki/高施傳 "wikilink")**？
-  - 截止自2016年11月，**[哪座位於曾文水庫的導水隧道](https://zh.wikipedia.org/wiki/曾文水庫防淤隧道 "wikilink")**是[全臺灣最大的地下水利工程](../Page/臺灣.md "wikilink")，也是全球首座使用象鼻鋼管工法的排砂導水隧道？
-  - **[哪一位臺灣女性人物](https://zh.wikipedia.org/wiki/姜民權 "wikilink")**是[國立臺灣大學物理學系首名女學生](../Page/國立臺灣大學物理學系.md "wikilink")，曾在[臺灣白色恐怖時期遭判](../Page/臺灣白色恐怖時期.md "wikilink")「參加叛亂組織」罪名，入獄服刑近十年？
+  - [聖嚴法師曾在](https://zh.wikipedia.org/wiki/聖嚴法師 "wikilink")**[哪間臺灣佛寺](../Page/朝元寺_\(美濃\).md "wikilink")**閉關兩次，在那寫出《聖嚴文集》、《正信的佛教》、《戒律學綱要》？
+  - [台北捷運](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")[淡水線](https://zh.wikipedia.org/wiki/淡水線 "wikilink")[雙連站附近有尊銅像](https://zh.wikipedia.org/wiki/雙連站 "wikilink")，是紀念為拯救一整車公車乘客而殉職的**[哪位台鐵員工](../Page/高施傳.md "wikilink")**？
+  - 截止自2016年11月，**[哪座位於曾文水庫的導水隧道](../Page/曾文水庫防淤隧道.md "wikilink")**是[全臺灣最大的地下水利工程](../Page/臺灣.md "wikilink")，也是全球首座使用象鼻鋼管工法的排砂導水隧道？
+  - **[哪一位臺灣女性人物](../Page/姜民權.md "wikilink")**是[國立臺灣大學物理學系首名女學生](../Page/國立臺灣大學物理學系.md "wikilink")，曾在[臺灣白色恐怖時期遭判](../Page/臺灣白色恐怖時期.md "wikilink")「參加叛亂組織」罪名，入獄服刑近十年？
   - **[哪一个民國時期企業家](../Page/關頌聲.md "wikilink")**的公司設計了[南京中央體育場等建築](https://zh.wikipedia.org/wiki/南京中央體育場 "wikilink")，抵臺後推廣田徑，資助[楊傳廣](../Page/楊傳廣.md "wikilink")、[紀政成為奧運銀](../Page/紀政.md "wikilink")、銅牌得主，被譽為「臺灣田徑之父」？
-  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[龜山島上的](../Page/龜山島.md "wikilink")**[哪一座寺廟](https://zh.wikipedia.org/wiki/龜山島普陀巖 "wikilink")**最初是[哪吒廟](https://zh.wikipedia.org/wiki/哪吒廟 "wikilink")，曾被島民改為[媽祖廟](../Page/媽祖廟.md "wikilink")，最後被駐軍改成[觀音寺](../Page/觀音寺.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[龜山島上的](../Page/龜山島.md "wikilink")**[哪一座寺廟](../Page/龜山島普陀巖.md "wikilink")**最初是[哪吒廟](https://zh.wikipedia.org/wiki/哪吒廟 "wikilink")，曾被島民改為[媽祖廟](../Page/媽祖廟.md "wikilink")，最後被駐軍改成[觀音寺](../Page/觀音寺.md "wikilink")？
   - **[哪一個AVG遊戲](https://zh.wikipedia.org/wiki/花落冬陽 "wikilink")**是台灣團隊「+觀象草圖+」原創、以[台北東區為背景](https://zh.wikipedia.org/wiki/台北東區 "wikilink")，在2015年末開始獨立製作？
-  - **[哪座火力發電廠](https://zh.wikipedia.org/wiki/新桃電廠 "wikilink")**是[全臺灣首座採用無耗水量氣冷式冷卻系統的](../Page/臺灣.md "wikilink")[發電廠](../Page/發電廠.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[南投市營盤國小開學時](https://zh.wikipedia.org/wiki/南投市 "wikilink")，師生會去校園**[哪個地方](https://zh.wikipedia.org/wiki/南投市營盤口七將軍廟 "wikilink")**祭拜六員清軍與一隻犬？
-  - [台灣電力公司計畫在](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龍潭區龍潭超高壓變電所旁興建](https://zh.wikipedia.org/wiki/龍潭區 "wikilink")**[哪座燃氣複循環火力發電廠](https://zh.wikipedia.org/wiki/高原發電廠 "wikilink")**並預計在2024年7月完工商轉？
+  - **[哪座火力發電廠](../Page/新桃電廠.md "wikilink")**是[全臺灣首座採用無耗水量氣冷式冷卻系統的](../Page/臺灣.md "wikilink")[發電廠](../Page/發電廠.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[南投市營盤國小開學時](https://zh.wikipedia.org/wiki/南投市 "wikilink")，師生會去校園**[哪個地方](../Page/南投市營盤口七將軍廟.md "wikilink")**祭拜六員清軍與一隻犬？
+  - [台灣電力公司計畫在](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龍潭區龍潭超高壓變電所旁興建](https://zh.wikipedia.org/wiki/龍潭區 "wikilink")**[哪座燃氣複循環火力發電廠](../Page/高原發電廠.md "wikilink")**並預計在2024年7月完工商轉？
   - [**哪家台灣企業**是全球第五大](https://zh.wikipedia.org/wiki/联茂电子股份有限公司 "wikilink")[铜箔基板厂](https://zh.wikipedia.org/wiki/印刷電路板#基材 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[草屯鎮](https://zh.wikipedia.org/wiki/草屯鎮 "wikilink")**[哪一座廟](https://zh.wikipedia.org/wiki/草屯南岸七將軍廟 "wikilink")**供奉着六位清朝人士與一條狗，是當地圳頭祭的舉行地點？
-  - 台湾**[哪一座廟](https://zh.wikipedia.org/wiki/霧峰柳樹湳七將軍爺廟 "wikilink")**裡供奉着七名清軍與一條狗，為[烏溪流域七將軍信仰的起源處](../Page/烏溪.md "wikilink")？
-  - **[哪一位臺灣生態旅遊導覽員](https://zh.wikipedia.org/wiki/王武郎 "wikilink")**曾以67天徒步環[臺灣島](https://zh.wikipedia.org/wiki/臺灣島 "wikilink")，後來在[彭佳嶼作生態考察時失足去世](../Page/彭佳嶼.md "wikilink")？
-  - **[哪位記者、編輯](https://zh.wikipedia.org/wiki/丁文治 "wikilink")**，是地質學家[丁文江之弟](../Page/丁文江.md "wikilink")，勇於揭發[陳儀政府在](../Page/陳儀.md "wikilink")[台灣的政風敗壞](https://zh.wikipedia.org/wiki/台灣 "wikilink")、與不懼[國民黨中央黨部壓力](https://zh.wikipedia.org/wiki/國民黨中央黨部 "wikilink")，作真實報導，因此被政府逐出臺灣新聞界？
-  - 位在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[中山區的](../Page/中山區_\(臺北市\).md "wikilink")**[哪棟老公寓](https://zh.wikipedia.org/wiki/吉林路機車道公寓 "wikilink")**，被認為是台灣機車文化的代表性建築？
-  - 台灣歌手[陳星翰與](https://zh.wikipedia.org/wiki/陳星翰 "wikilink")[蔡依林首次合作推出了](../Page/蔡依林.md "wikilink")**[哪一張單曲](https://zh.wikipedia.org/wiki/戀我癖 "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[草屯鎮](https://zh.wikipedia.org/wiki/草屯鎮 "wikilink")**[哪一座廟](../Page/草屯南岸七將軍廟.md "wikilink")**供奉着六位清朝人士與一條狗，是當地圳頭祭的舉行地點？
+  - 台湾**[哪一座廟](../Page/霧峰柳樹湳七將軍爺廟.md "wikilink")**裡供奉着七名清軍與一條狗，為[烏溪流域七將軍信仰的起源處](../Page/烏溪.md "wikilink")？
+  - **[哪一位臺灣生態旅遊導覽員](../Page/王武郎.md "wikilink")**曾以67天徒步環[臺灣島](https://zh.wikipedia.org/wiki/臺灣島 "wikilink")，後來在[彭佳嶼作生態考察時失足去世](../Page/彭佳嶼.md "wikilink")？
+  - **[哪位記者、編輯](../Page/丁文治.md "wikilink")**，是地質學家[丁文江之弟](../Page/丁文江.md "wikilink")，勇於揭發[陳儀政府在](../Page/陳儀.md "wikilink")[台灣的政風敗壞](https://zh.wikipedia.org/wiki/台灣 "wikilink")、與不懼[國民黨中央黨部壓力](https://zh.wikipedia.org/wiki/國民黨中央黨部 "wikilink")，作真實報導，因此被政府逐出臺灣新聞界？
+  - 位在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[中山區的](../Page/中山區_\(臺北市\).md "wikilink")**[哪棟老公寓](../Page/吉林路機車道公寓.md "wikilink")**，被認為是台灣機車文化的代表性建築？
+  - 台灣歌手[陳星翰與](../Page/陳星翰.md "wikilink")[蔡依林首次合作推出了](../Page/蔡依林.md "wikilink")**[哪一張單曲](../Page/戀我癖.md "wikilink")**？
   - [**哪個事件**使得台灣的教育政策從兩性教育延伸轉化成為性別多元教育](../Page/葉永鋕事件.md "wikilink")？
-  - 在[臺灣](../Page/臺灣.md "wikilink")[嘉義縣](../Page/嘉義縣.md "wikilink")[六腳鄉有](https://zh.wikipedia.org/wiki/六腳鄉 "wikilink")**[哪一座媽祖廟](https://zh.wikipedia.org/wiki/糖廠配天宮 "wikilink")**設立在糖廠中，其媽祖被稱作「會社媽」？
+  - 在[臺灣](../Page/臺灣.md "wikilink")[嘉義縣](../Page/嘉義縣.md "wikilink")[六腳鄉有](https://zh.wikipedia.org/wiki/六腳鄉 "wikilink")**[哪一座媽祖廟](../Page/糖廠配天宮.md "wikilink")**設立在糖廠中，其媽祖被稱作「會社媽」？
 
 #### 10月
 
-  - 臺灣**[哪個虛構宗教](https://zh.wikipedia.org/wiki/母豬教 "wikilink")**常將濫交、拜金、公主病的女性比喻為母豬？
-  - 1980年6月3日，**[哪一位油漆工](https://zh.wikipedia.org/wiki/童宏勝 "wikilink")**為拯救一名溺水女童而罹難，死後在今[臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[三重區立有銅像紀念](https://zh.wikipedia.org/wiki/三重區 "wikilink")？
-  - [福建与](https://zh.wikipedia.org/wiki/福建 "wikilink")[台湾的](https://zh.wikipedia.org/wiki/台湾 "wikilink")**[关系怎样](https://zh.wikipedia.org/wiki/闽台关系 "wikilink")**？
-  - **[哪名臺灣客家人](https://zh.wikipedia.org/wiki/張邱東松 "wikilink")**是[臺灣禁歌](../Page/臺灣禁歌列表.md "wikilink")〈收酒矸〉、〈[賣肉粽](https://zh.wikipedia.org/wiki/賣肉粽 "wikilink")〉作者，晚年潦倒？
-  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")**[哪座麵店](https://zh.wikipedia.org/wiki/國旗屋米干店 "wikilink")**以布置多面[中華民國國旗知名](https://zh.wikipedia.org/wiki/中華民國國旗 "wikilink")，在雙十國慶還會自發舉行升旗典禮？
+  - 臺灣**[哪個虛構宗教](../Page/母豬教.md "wikilink")**常將濫交、拜金、公主病的女性比喻為母豬？
+  - 1980年6月3日，**[哪一位油漆工](../Page/童宏勝.md "wikilink")**為拯救一名溺水女童而罹難，死後在今[臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[三重區立有銅像紀念](https://zh.wikipedia.org/wiki/三重區 "wikilink")？
+  - [福建与](https://zh.wikipedia.org/wiki/福建 "wikilink")[台湾的](https://zh.wikipedia.org/wiki/台湾 "wikilink")**[关系怎样](../Page/闽台关系.md "wikilink")**？
+  - **[哪名臺灣客家人](../Page/張邱東松.md "wikilink")**是[臺灣禁歌](../Page/臺灣禁歌列表.md "wikilink")〈收酒矸〉、〈[賣肉粽](https://zh.wikipedia.org/wiki/賣肉粽 "wikilink")〉作者，晚年潦倒？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")**[哪座麵店](../Page/國旗屋米干店.md "wikilink")**以布置多面[中華民國國旗知名](https://zh.wikipedia.org/wiki/中華民國國旗 "wikilink")，在雙十國慶還會自發舉行升旗典禮？
   - **[哪一座厲祠](../Page/迪毅堂.md "wikilink")**是由台灣[板橋林家在咸豐年間的](https://zh.wikipedia.org/wiki/板橋林家 "wikilink")[泉漳械鬥後為祭祀死傷的武師](../Page/泉漳械鬥.md "wikilink")、壯勇所建立的，2013年列為[新北市文化資產](../Page/新北市文化資產.md "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[高雄市](../Page/高雄市.md "wikilink")[美濃區](../Page/美濃區.md "wikilink")**[哪一座佛寺](https://zh.wikipedia.org/wiki/千佛山福慧寺 "wikilink")**為當地流傳故事「三母女」的發生地？
-  - **[哪一個熱帶氣旋](https://zh.wikipedia.org/wiki/颱風鮎魚_\(2016年\) "wikilink")**是2016年9月連續第3個影響關島和臺灣的風暴，並繼[颱風莫蘭蒂後再次重創臺灣和中國福建省](https://zh.wikipedia.org/wiki/颱風莫蘭蒂_\(2016年\) "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[屏東市海豐地區的居民若有新生男嬰](https://zh.wikipedia.org/wiki/屏東市 "wikilink")，會在農曆元月初一開始至**[哪一座廟](https://zh.wikipedia.org/wiki/海豐三山國王廟 "wikilink")**稟告，然後在[元宵節抬該廟的神轎出巡](../Page/台灣元宵節.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[高雄市](../Page/高雄市.md "wikilink")[美濃區](../Page/美濃區.md "wikilink")**[哪一座佛寺](../Page/千佛山福慧寺.md "wikilink")**為當地流傳故事「三母女」的發生地？
+  - **[哪一個熱帶氣旋](../Page/颱風鮎魚_\(2016年\).md "wikilink")**是2016年9月連續第3個影響關島和臺灣的風暴，並繼[颱風莫蘭蒂後再次重創臺灣和中國福建省](../Page/颱風莫蘭蒂_\(2016年\).md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[屏東市海豐地區的居民若有新生男嬰](https://zh.wikipedia.org/wiki/屏東市 "wikilink")，會在農曆元月初一開始至**[哪一座廟](../Page/海豐三山國王廟.md "wikilink")**稟告，然後在[元宵節抬該廟的神轎出巡](../Page/台灣元宵節.md "wikilink")？
 
 #### 9月
 
@@ -731,32 +731,32 @@
   - [臺灣](../Page/臺灣.md "wikilink")[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")**[哪一座西王母廟](https://zh.wikipedia.org/wiki/新竹市天宏宮 "wikilink")**，以祭祀[蔣中正聞名](../Page/蔣中正.md "wikilink")？
   - **[哪一座](https://zh.wikipedia.org/wiki/台南捷運 "wikilink")**位於[中華民國](../Page/中華民國.md "wikilink")[台南市的](https://zh.wikipedia.org/wiki/台南市 "wikilink")[大眾捷運系統自](https://zh.wikipedia.org/wiki/大眾捷運系統 "wikilink")1989年提出以來仍未成線？
   - [臺灣新竹地區的考生會特別以](../Page/臺灣.md "wikilink")[仙草蜜祭拜](https://zh.wikipedia.org/wiki/仙草蜜 "wikilink")**[哪一座廟](https://zh.wikipedia.org/wiki/國立交通大學土地公廟 "wikilink")**的土地公？
-  - **[哪一個熱帶氣旋](https://zh.wikipedia.org/wiki/颱風莫蘭蒂_\(2016年\) "wikilink")**以[2013年颱風海燕後西北太平洋最強風暴姿態](../Page/颱風海燕_\(2013年\).md "wikilink")，於2016年中秋節前後重創臺灣、菲律賓巴丹群島和中國福建省？
-  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[造橋鄉](../Page/造橋鄉.md "wikilink")**[哪一座北帝廟](https://zh.wikipedia.org/wiki/龍湖宮_\(苗栗縣\) "wikilink")**，以供養嬰靈聞名？
-  - **[哪位中國國民黨市黨部主委](https://zh.wikipedia.org/wiki/李銘藤 "wikilink")**，是2016年國民黨在野後六都唯一執政的新北市市黨部主任委員？
-  - **[哪一位小學校長](https://zh.wikipedia.org/wiki/吳開芽 "wikilink")**是台灣兒歌〈造飛機〉的作曲者，之後因為要舉發贓貨反被降級成教師？
-  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[潮州鎮某地以](https://zh.wikipedia.org/wiki/潮州鎮 "wikilink")[台灣荷蘭統治時期](https://zh.wikipedia.org/wiki/台灣荷蘭統治時期 "wikilink")**[哪一位平埔族力力社頭目](https://zh.wikipedia.org/wiki/大腳仙 "wikilink")**之名命名，後來該人被傳為有一雙大腳的巨人許大砲？
+  - **[哪一個熱帶氣旋](../Page/颱風莫蘭蒂_\(2016年\).md "wikilink")**以[2013年颱風海燕後西北太平洋最強風暴姿態](../Page/颱風海燕_\(2013年\).md "wikilink")，於2016年中秋節前後重創臺灣、菲律賓巴丹群島和中國福建省？
+  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[造橋鄉](../Page/造橋鄉.md "wikilink")**[哪一座北帝廟](../Page/龍湖宮_\(苗栗縣\).md "wikilink")**，以供養嬰靈聞名？
+  - **[哪位中國國民黨市黨部主委](../Page/李銘藤.md "wikilink")**，是2016年國民黨在野後六都唯一執政的新北市市黨部主任委員？
+  - **[哪一位小學校長](../Page/吳開芽.md "wikilink")**是台灣兒歌〈造飛機〉的作曲者，之後因為要舉發贓貨反被降級成教師？
+  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[潮州鎮某地以](https://zh.wikipedia.org/wiki/潮州鎮 "wikilink")[台灣荷蘭統治時期](https://zh.wikipedia.org/wiki/台灣荷蘭統治時期 "wikilink")**[哪一位平埔族力力社頭目](../Page/大腳仙.md "wikilink")**之名命名，後來該人被傳為有一雙大腳的巨人許大砲？
   - [**哪一座服務臺灣中部的大眾捷運系統**](../Page/臺中捷運.md "wikilink")，預計在2018年試營運第一條路線？
-  - **[哪本教科書](https://zh.wikipedia.org/wiki/三字經新纂白話註解 "wikilink")**以[閩南語](https://zh.wikipedia.org/wiki/閩南語 "wikilink")[白話字註解](https://zh.wikipedia.org/wiki/白話字 "wikilink")[漢文蒙學](../Page/文言文.md "wikilink")《[三字經](https://zh.wikipedia.org/wiki/三字經 "wikilink")》，並於1897年成為教會中學之必考書籍？
-  - 在[臺灣白色恐怖時期的](../Page/臺灣白色恐怖時期.md "wikilink")[火燒島上](../Page/綠島鄉.md "wikilink")，**[哪一位冤獄犯](https://zh.wikipedia.org/wiki/曹開 "wikilink")**在獄中偷偷寫詩，以數學詩知名於台灣詩壇？
-  - **[哪一起虐貓事件](https://zh.wikipedia.org/wiki/陳皓揚虐殺流浪貓事件 "wikilink")**在[台灣引發對](https://zh.wikipedia.org/wiki/台灣 "wikilink")[動物權利的關注](../Page/動物權利.md "wikilink")，就連[農委會也公開譴責](https://zh.wikipedia.org/wiki/農委會 "wikilink")？
-  - **[哪一位傳教士](https://zh.wikipedia.org/wiki/余饒理 "wikilink")**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[清治時期](https://zh.wikipedia.org/wiki/台灣清治時期 "wikilink")[長老教中學的創校校長](https://zh.wikipedia.org/wiki/長榮中學 "wikilink")，且曾以[白話字替](https://zh.wikipedia.org/wiki/白話字 "wikilink")《[三字經](https://zh.wikipedia.org/wiki/三字經 "wikilink")》作註？
-  - [台灣電力公司於](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")2001年在[花蓮縣](../Page/花蓮縣.md "wikilink")[萬榮鄉所推動的](../Page/萬榮鄉.md "wikilink")「西寶計畫」失敗後，以**[哪座水力發電廠開發計畫](https://zh.wikipedia.org/wiki/東部發電廠萬里機組 "wikilink")**取代之？
-  - [中國](../Page/中國.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[中華台北](https://zh.wikipedia.org/wiki/中華台北 "wikilink")、[臺澎金馬個別關稅領域等名称都是](../Page/臺澎金馬個別關稅領域.md "wikilink")**[什么](https://zh.wikipedia.org/wiki/中華民國的稱號 "wikilink")**？
-  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[日治時期](../Page/台灣日治時期.md "wikilink")，**[哪一位作家](https://zh.wikipedia.org/wiki/蔡秋桐 "wikilink")**因職業關係而有「[保正作家](https://zh.wikipedia.org/wiki/保甲制度#台灣日治時期 "wikilink")」之稱？
-  - 1982年4月12日，**[哪一位臺灣屏東青年](https://zh.wikipedia.org/wiki/丁清祥 "wikilink")**為拯救兩名幼童衝入火場而罹難，死後立有銅像紀念？
+  - **[哪本教科書](../Page/三字經新纂白話註解.md "wikilink")**以[閩南語](https://zh.wikipedia.org/wiki/閩南語 "wikilink")[白話字註解](https://zh.wikipedia.org/wiki/白話字 "wikilink")[漢文蒙學](../Page/文言文.md "wikilink")《[三字經](https://zh.wikipedia.org/wiki/三字經 "wikilink")》，並於1897年成為教會中學之必考書籍？
+  - 在[臺灣白色恐怖時期的](../Page/臺灣白色恐怖時期.md "wikilink")[火燒島上](../Page/綠島鄉.md "wikilink")，**[哪一位冤獄犯](../Page/曹開.md "wikilink")**在獄中偷偷寫詩，以數學詩知名於台灣詩壇？
+  - **[哪一起虐貓事件](../Page/陳皓揚虐殺流浪貓事件.md "wikilink")**在[台灣引發對](https://zh.wikipedia.org/wiki/台灣 "wikilink")[動物權利的關注](../Page/動物權利.md "wikilink")，就連[農委會也公開譴責](https://zh.wikipedia.org/wiki/農委會 "wikilink")？
+  - **[哪一位傳教士](../Page/余饒理.md "wikilink")**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[清治時期](https://zh.wikipedia.org/wiki/台灣清治時期 "wikilink")[長老教中學的創校校長](https://zh.wikipedia.org/wiki/長榮中學 "wikilink")，且曾以[白話字替](https://zh.wikipedia.org/wiki/白話字 "wikilink")《[三字經](https://zh.wikipedia.org/wiki/三字經 "wikilink")》作註？
+  - [台灣電力公司於](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")2001年在[花蓮縣](../Page/花蓮縣.md "wikilink")[萬榮鄉所推動的](../Page/萬榮鄉.md "wikilink")「西寶計畫」失敗後，以**[哪座水力發電廠開發計畫](../Page/東部發電廠萬里機組.md "wikilink")**取代之？
+  - [中國](../Page/中國.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[中華台北](https://zh.wikipedia.org/wiki/中華台北 "wikilink")、[臺澎金馬個別關稅領域等名称都是](../Page/臺澎金馬個別關稅領域.md "wikilink")**[什么](../Page/中華民國的稱號.md "wikilink")**？
+  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[日治時期](../Page/台灣日治時期.md "wikilink")，**[哪一位作家](../Page/蔡秋桐.md "wikilink")**因職業關係而有「[保正作家](https://zh.wikipedia.org/wiki/保甲制度#台灣日治時期 "wikilink")」之稱？
+  - 1982年4月12日，**[哪一位臺灣屏東青年](../Page/丁清祥.md "wikilink")**為拯救兩名幼童衝入火場而罹難，死後立有銅像紀念？
   - **[臺灣的哪條公路](../Page/縣道185號.md "wikilink")**由於沿著[中央山脈西側修建](../Page/中央山脈.md "wikilink")，因此有「沿山公路」之稱？
   - **[哪一座](../Page/嘉義捷運.md "wikilink")**坐落於嘉義市的大眾捷運系統由於無需求而不了之？
-  - [朱一貴事件後](../Page/朱一貴.md "wikilink")，[臺灣清治時期若發生民變](../Page/臺灣清治時期.md "wikilink")，[六堆](../Page/六堆.md "wikilink")[客家人會在](https://zh.wikipedia.org/wiki/臺灣客家人 "wikilink")**[哪一座義民廟](https://zh.wikipedia.org/wiki/六堆忠義亭 "wikilink")**誓師，幫助清廷平定？
-  - **[哪座曾是臺灣台東地區唯一的電影院](https://zh.wikipedia.org/wiki/大同戲院_\(臺東市\) "wikilink")**在2009年因大火關閉？
+  - [朱一貴事件後](../Page/朱一貴.md "wikilink")，[臺灣清治時期若發生民變](../Page/臺灣清治時期.md "wikilink")，[六堆](../Page/六堆.md "wikilink")[客家人會在](https://zh.wikipedia.org/wiki/臺灣客家人 "wikilink")**[哪一座義民廟](../Page/六堆忠義亭.md "wikilink")**誓師，幫助清廷平定？
+  - **[哪座曾是臺灣台東地區唯一的電影院](../Page/大同戲院_\(臺東市\).md "wikilink")**在2009年因大火關閉？
 
 #### 8月
 
-  - 在[臺灣](../Page/臺灣.md "wikilink")[台東縣](https://zh.wikipedia.org/wiki/台東縣 "wikilink")[台東市的海岸](https://zh.wikipedia.org/wiki/台東市 "wikilink")，有**[哪棟民房](https://zh.wikipedia.org/wiki/白色陋屋 "wikilink")**為一位榮民以拾荒來增建，被比喻成《[霍爾的移動城堡](https://zh.wikipedia.org/wiki/霍爾的移動城堡 "wikilink")》？
-  - 在[臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[東港鎮有](https://zh.wikipedia.org/wiki/東港鎮_\(臺灣\) "wikilink")**[哪一座媽祖廟](https://zh.wikipedia.org/wiki/東港朝隆宮 "wikilink")**的媽祖因為與捕蝦業有關，被稱作「蝦米媽」？
-  - 2015年11月26日，中斷半世紀的[馬卡道族夜祭在](../Page/馬卡道族.md "wikilink")[臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[內埔鄉](https://zh.wikipedia.org/wiki/內埔鄉 "wikilink")**[哪一座廟宇](https://zh.wikipedia.org/wiki/老埤老祖祠 "wikilink")**復辦？
-  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[萬巒鄉有](../Page/萬巒鄉.md "wikilink")**[哪一座義民廟](https://zh.wikipedia.org/wiki/五溝水忠勇祠 "wikilink")**是祭祀在1833年與[平埔族械鬥而身亡的](https://zh.wikipedia.org/wiki/平埔族 "wikilink")[六堆](../Page/六堆.md "wikilink")[客家人](https://zh.wikipedia.org/wiki/臺灣客家人 "wikilink")，還產生一種元宵風俗？
-  - **[哪座橫跨臺灣臺東縣延平鄉鹿野溪的鋼構拱橋](https://zh.wikipedia.org/wiki/紅葉橋 "wikilink")**是[延平鄉紅葉村重要的對外聯絡道路之一](../Page/延平鄉.md "wikilink")？
+  - 在[臺灣](../Page/臺灣.md "wikilink")[台東縣](https://zh.wikipedia.org/wiki/台東縣 "wikilink")[台東市的海岸](https://zh.wikipedia.org/wiki/台東市 "wikilink")，有**[哪棟民房](../Page/白色陋屋.md "wikilink")**為一位榮民以拾荒來增建，被比喻成《[霍爾的移動城堡](https://zh.wikipedia.org/wiki/霍爾的移動城堡 "wikilink")》？
+  - 在[臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[東港鎮有](https://zh.wikipedia.org/wiki/東港鎮_\(臺灣\) "wikilink")**[哪一座媽祖廟](../Page/東港朝隆宮.md "wikilink")**的媽祖因為與捕蝦業有關，被稱作「蝦米媽」？
+  - 2015年11月26日，中斷半世紀的[馬卡道族夜祭在](../Page/馬卡道族.md "wikilink")[臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[內埔鄉](https://zh.wikipedia.org/wiki/內埔鄉 "wikilink")**[哪一座廟宇](../Page/老埤老祖祠.md "wikilink")**復辦？
+  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[萬巒鄉有](../Page/萬巒鄉.md "wikilink")**[哪一座義民廟](../Page/五溝水忠勇祠.md "wikilink")**是祭祀在1833年與[平埔族械鬥而身亡的](https://zh.wikipedia.org/wiki/平埔族 "wikilink")[六堆](../Page/六堆.md "wikilink")[客家人](https://zh.wikipedia.org/wiki/臺灣客家人 "wikilink")，還產生一種元宵風俗？
+  - **[哪座橫跨臺灣臺東縣延平鄉鹿野溪的鋼構拱橋](../Page/紅葉橋.md "wikilink")**是[延平鄉紅葉村重要的對外聯絡道路之一](../Page/延平鄉.md "wikilink")？
   - 哪一位臺灣運動員是[**臺灣史上首位奧運女子-{zh-cn:摔跤; zh-tw:角力;
     zh-hk:摔角}-選手**](../Page/陳玟陵.md "wikilink")？
   - **[哪座位於臺灣臺東縣延平鄉的已毀損吊橋](../Page/明野橋.md "wikilink")**，其僅存的橋墩是[日治時期](https://zh.wikipedia.org/wiki/日治時期 "wikilink")[臺灣總督府所興建](../Page/臺灣總督府.md "wikilink")[花東公路](https://zh.wikipedia.org/wiki/花東縱谷公路 "wikilink")[橋梁中至今保存最完整的橋墩](https://zh.wikipedia.org/wiki/橋梁 "wikilink")？
@@ -807,7 +807,7 @@
   - 哪間**[姑娘廟](../Page/林邊慈貞宮潘姑娘廟.md "wikilink")**位在[臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[林邊鄉某學校門口旁](https://zh.wikipedia.org/wiki/林邊鄉 "wikilink")，其被祭拜的女子身分有[荷蘭人](../Page/荷蘭人.md "wikilink")、[馬卡道族人等說法](../Page/馬卡道族.md "wikilink")？
   - **[哪一個位於淡水的中華民國國定古蹟](../Page/紅毛城.md "wikilink")**是台灣現存最古老的建築之一？
   - **[哪一位德裔物理學家](../Page/沃爾夫岡·克洛爾.md "wikilink")**被譽為「將物理之火從德國帶到臺灣的[普羅米修斯](https://zh.wikipedia.org/wiki/普羅米修斯 "wikilink")」？
-  - 在[臺灣](../Page/臺灣.md "wikilink")[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[北區](../Page/北區_\(新竹市\).md "wikilink")[某紀念館有個以飛機殘骸作的鋁臉盆](https://zh.wikipedia.org/wiki/黑蝙蝠中隊文物陳列館 "wikilink")，是**[哪位黑蝙蝠中隊軍官](../Page/尹金鼎.md "wikilink")**的遺孀所出借？
+  - 在[臺灣](../Page/臺灣.md "wikilink")[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[北區](../Page/北區_\(新竹市\).md "wikilink")[某紀念館有個以飛機殘骸作的鋁臉盆](../Page/黑蝙蝠中隊文物陳列館.md "wikilink")，是**[哪位黑蝙蝠中隊軍官](../Page/尹金鼎.md "wikilink")**的遺孀所出借？
   - [臺灣](../Page/臺灣.md "wikilink")[高雄市](../Page/高雄市.md "wikilink")[岡山區有](../Page/岡山區.md "wikilink")**[哪座媽祖廟](../Page/岡山壽天宮.md "wikilink")**是重建在神社遺址上，廟內有日本神轎、還有一尊用螺絲墊片與[螺絲作成的媽祖像](../Page/螺絲.md "wikilink")？
   - [臺灣日治時期](https://zh.wikipedia.org/wiki/臺灣日治時期 "wikilink")，[水利](https://zh.wikipedia.org/wiki/水利 "wikilink")[工程師](https://zh.wikipedia.org/wiki/工程師 "wikilink")[八田與一為增加](../Page/八田與一.md "wikilink")[烏山頭貯水池的蓄水量](../Page/烏山頭水庫.md "wikilink")，因此設計並興建**[哪條引水隧道](../Page/烏山嶺引水隧道.md "wikilink")**將[曾文溪的溪水穿越烏山嶺引到貯水池中](../Page/曾文溪.md "wikilink")？
   - **[哪一間座落在臺灣屏東縣林邊鄉的廟](../Page/林邊放索普龍殿.md "wikilink")**祭拜石磨臼？
@@ -826,7 +826,7 @@
   - 過去傳說在臺灣[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[永康區洲仔尾](https://zh.wikipedia.org/wiki/永康區 "wikilink")、鹽行一帶作怪的一對石馬，現在分別安置在[赤嵌樓與](https://zh.wikipedia.org/wiki/赤嵌樓 "wikilink")**[哪一座廟宇](../Page/鹽行天后宮.md "wikilink")**？
   - 台灣[東部幹線的](https://zh.wikipedia.org/wiki/東部幹線 "wikilink")[自強號列車首次以](../Page/自強號列車.md "wikilink")**[哪一款柴油客車](../Page/台鐵DR2800型柴聯車.md "wikilink")**運行？
   - 2016年在台北的凱達格蘭大道，由一群民國50年代（1960年代）[台灣出生的人士](https://zh.wikipedia.org/wiki/台灣 "wikilink")**[發起了哪一項踢正步的活動](../Page/612凱道閱兵.md "wikilink")**？
-  - 1966年2月17日，**[哪一名黑貓中隊駕駛員](https://zh.wikipedia.org/wiki/吳載熙 "wikilink")**在一次駕駛[U-2飛行訓練時意外身亡](https://zh.wikipedia.org/wiki/U-2 "wikilink")，後來臺灣新竹某小學便改名作紀念？
+  - 1966年2月17日，**[哪一名黑貓中隊駕駛員](../Page/吳載熙.md "wikilink")**在一次駕駛[U-2飛行訓練時意外身亡](https://zh.wikipedia.org/wiki/U-2 "wikilink")，後來臺灣新竹某小學便改名作紀念？
   - 1956年6月23日，**[哪一名B-17駕駛員](../Page/葉拯民.md "wikilink")**帶領空軍特種任務組員赴中國大陸投撒傳單，遭[魯珉駕駛的](https://zh.wikipedia.org/wiki/魯珉 "wikilink")[米格-17擊落而全體殉職](https://zh.wikipedia.org/wiki/米格-17 "wikilink")，後來臺灣雲林某小學便改名作紀念？
   - 臺灣[屏東縣](../Page/屏東縣.md "wikilink")[枋寮鄉](https://zh.wikipedia.org/wiki/枋寮鄉 "wikilink")**[哪一座廟](../Page/北勢寮保安宮.md "wikilink")**以紀念[保生大帝的](../Page/保生大帝.md "wikilink")「送白鶴」祭典聞名？
   - 臺灣[臺東縣政府於](../Page/臺東縣政府.md "wikilink")2015年6月將[臺東舊站改建為](https://zh.wikipedia.org/wiki/臺東舊站 "wikilink")**[哪座公車轉運站](../Page/臺東轉運站.md "wikilink")**？
@@ -920,18 +920,18 @@
   - [1960年代臺灣](../Page/1960年代臺灣.md "wikilink")，
     **[哪位台糖員工](../Page/李秀雲.md "wikilink")**借錢買了一台[美能達SR](../Page/美能達.md "wikilink")-1照相機，為[六堆客家與農村文化留下許多影像](../Page/六堆.md "wikilink")？
   - **[哪一座臺灣臺南中西區廟宇](../Page/廣慈院.md "wikilink")**，文獻紀錄供奉著清朝福建省[台灣府](https://zh.wikipedia.org/wiki/台灣府 "wikilink")[諸羅縣](../Page/諸羅縣.md "wikilink")[知縣](https://zh.wikipedia.org/wiki/知縣 "wikilink")[張{{僻字](https://zh.wikipedia.org/wiki/張尹 "wikilink")？
-  - **[哪一位由臺灣赴香港發展的女演員](https://zh.wikipedia.org/wiki/叶枫 "wikilink")**暱稱「長腿姐姐」或「睡美人」，片商還以此為片名邀她拍電影？
+  - **[哪一位由臺灣赴香港發展的女演員](../Page/叶枫.md "wikilink")**暱稱「長腿姐姐」或「睡美人」，片商還以此為片名邀她拍電影？
   - **[哪一名來自廣東潮安、在臺灣臺南白手起家的企業家](../Page/劉來欽.md "wikilink")**被譽為「台灣沙茶醬之父」？
   - 牛頭牌[沙茶醬的創始人](https://zh.wikipedia.org/wiki/沙茶醬 "wikilink")[劉來欽曾擔任臺灣](../Page/劉來欽.md "wikilink")**[哪一座臺南佛寺](../Page/慈蔭亭.md "wikilink")**的主委，並重建此廟，完工慶成不久他就去世？
   - **[哪一座廟](../Page/昆沙宮.md "wikilink")**是臺灣[臺南府城兩座](https://zh.wikipedia.org/wiki/臺南府城 "wikilink")[哪吒廟之一](https://zh.wikipedia.org/wiki/哪吒廟 "wikilink")，在[五都改制時](https://zh.wikipedia.org/wiki/五都改制 "wikilink")，當地團體到此筊杯，詢問是否能幫臺南縣市升格？
-  - **[哪處山坡地](../Page/錫安山_\(台灣\).md "wikilink")**位於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[高雄市](../Page/高雄市.md "wikilink")，被[新興宗教組織](../Page/新興宗教.md "wikilink")[新約教會宣稱為](https://zh.wikipedia.org/wiki/新約教會 "wikilink")「聖山」？
+  - **[哪處山坡地](../Page/錫安山_\(台灣\).md "wikilink")**位於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[高雄市](../Page/高雄市.md "wikilink")，被[新興宗教組織](../Page/新興宗教.md "wikilink")[新約教會宣稱為](../Page/新約教會.md "wikilink")「聖山」？
   - [台灣電力公司為汰舊換新於](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")[高雄市](../Page/高雄市.md "wikilink")[小港區的](../Page/小港區.md "wikilink")[大林發電廠](../Page/大林發電廠.md "wikilink")[發電機組而推動](https://zh.wikipedia.org/wiki/發電機 "wikilink")**[哪項工程計畫](../Page/大林電廠更新改建計畫.md "wikilink")**？
   - **[哪一座廟](../Page/沙淘宮.md "wikilink")**是臺灣[臺南府城兩座](https://zh.wikipedia.org/wiki/臺南府城 "wikilink")[哪吒廟之一](https://zh.wikipedia.org/wiki/哪吒廟 "wikilink")，裡面供奉一尊名為「沙淘太子」的神明，被認為是死於[東寧之變的](../Page/東寧之變.md "wikilink")[鄭克{{僻字](../Page/鄭克𡒉.md "wikilink")？
   - **[哪一位帳號「子毓貓」的維基人](../Page/陳穎_\(作家\).md "wikilink")**是台灣棒球運動作家，於2016年3月14日去世？
   - **[哪座廟宇](../Page/九如三山國王廟.md "wikilink")**供奉一名在臺灣傳說中因遇到[三山國王而去世的](../Page/三山國王.md "wikilink")[麟洛鄉客家女子](../Page/麟洛鄉.md "wikilink")？
   - **[哪座發電廠](../Page/七美發電廠.md "wikilink")**旗下擁有[臺灣第三座獨立](../Page/臺灣.md "wikilink")[太陽光能](https://zh.wikipedia.org/wiki/太陽光能 "wikilink")[發電廠](../Page/發電廠.md "wikilink")？
   - [**哪個選舉聯盟**由](../Page/進步大聯盟.md "wikilink")[台灣政治人物](https://zh.wikipedia.org/wiki/台灣 "wikilink")[蔡英文提出](../Page/蔡英文.md "wikilink")，在[2016年立委選舉時與他黨合作](https://zh.wikipedia.org/wiki/2016年中華民國立法委員選舉 "wikilink")，希望結束政黨惡鬥？
-  - 2015年1月臺灣[澎湖縣政府在進行](https://zh.wikipedia.org/wiki/澎湖縣政府 "wikilink")[吉貝漁港疏濬工程時不慎將](https://zh.wikipedia.org/wiki/吉貝漁港 "wikilink")[吉貝嶼的](../Page/吉貝嶼.md "wikilink")[海底電纜挖斷導致全島大停電](../Page/海底電纜.md "wikilink")，[台灣電力公司緊急啟用](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")**[哪座已停機備役的火力發電廠](../Page/吉貝發電廠.md "wikilink")**來應急供電？
+  - 2015年1月臺灣[澎湖縣政府在進行](../Page/澎湖縣政府.md "wikilink")[吉貝漁港疏濬工程時不慎將](../Page/吉貝漁港.md "wikilink")[吉貝嶼的](../Page/吉貝嶼.md "wikilink")[海底電纜挖斷導致全島大停電](../Page/海底電纜.md "wikilink")，[台灣電力公司緊急啟用](https://zh.wikipedia.org/wiki/台灣電力公司 "wikilink")**[哪座已停機備役的火力發電廠](../Page/吉貝發電廠.md "wikilink")**來應急供電？
   - **[哪座計畫於2016年完工商轉的水力發電廠](../Page/八田水力發電廠.md "wikilink")**其名稱由來為紀念[臺灣日治時期規畫興建](https://zh.wikipedia.org/wiki/臺灣日治時期 "wikilink")[烏山頭水庫與](../Page/烏山頭水庫.md "wikilink")[嘉南大圳的](../Page/嘉南大圳.md "wikilink")[工程師](https://zh.wikipedia.org/wiki/工程師 "wikilink")[八田與一而得名](../Page/八田與一.md "wikilink")？
   - 自[澎湖本島到](https://zh.wikipedia.org/wiki/澎湖 "wikilink")[虎井嶼之間的](../Page/虎井嶼.md "wikilink")[海底電纜尚未在](../Page/海底電纜.md "wikilink")2010年完工前，**[哪座火力發電廠](../Page/虎井發電廠.md "wikilink")**擁有全[臺灣最老的商轉中](../Page/臺灣.md "wikilink")[柴油](../Page/柴油.md "wikilink")[發電機組](https://zh.wikipedia.org/wiki/發電機組 "wikilink")？
   - **[哪型列車](../Page/台鐵EMU400型電聯車.md "wikilink")**為[台鐵第一次採購之](https://zh.wikipedia.org/wiki/台鐵 "wikilink")[通勤電聯車](https://zh.wikipedia.org/wiki/通勤電聯車 "wikilink")？
@@ -998,7 +998,7 @@
 
   - **[哪座位在臺灣宜蘭縣的垃圾焚化廠](../Page/利澤垃圾焚化廠.md "wikilink")**是全臺首座獲得[環保署認同為環境教育設施場所認證的](https://zh.wikipedia.org/wiki/環保署 "wikilink")[垃圾焚化廠](https://zh.wikipedia.org/wiki/焚化爐 "wikilink")？
   - **[哪位住於台灣彰化縣二林鎮的美國女子](../Page/瑪喜樂.md "wikilink")**長期照顧身心障礙兒童，被稱為「美國媽祖」？
-  - **[哪位女演員](https://zh.wikipedia.org/wiki/宋芸樺 "wikilink")**在台灣電影《[我的少女時代](../Page/我的少女時代.md "wikilink")》中飾演女主角「林真心」，並憑該角色入圍[第52屆金馬獎最佳女主角獎](https://zh.wikipedia.org/wiki/第52屆金馬獎 "wikilink")？
+  - **[哪位女演員](../Page/宋芸樺.md "wikilink")**在台灣電影《[我的少女時代](../Page/我的少女時代.md "wikilink")》中飾演女主角「林真心」，並憑該角色入圍[第52屆金馬獎最佳女主角獎](https://zh.wikipedia.org/wiki/第52屆金馬獎 "wikilink")？
   - **[哪位來自貴州的臺灣人](../Page/楊傳仁.md "wikilink")**退伍後致力於小兒麻痺復健工作，為臺灣[小兒麻痺病童製造與安裝肢架](https://zh.wikipedia.org/wiki/小兒麻痺 "wikilink")，得到[醫療奉獻獎後不到一年因車禍身亡](https://zh.wikipedia.org/wiki/醫療奉獻獎 "wikilink")？
   - **[哪座臺灣臺東縣的垃圾焚化廠](../Page/臺東垃圾焚化廠.md "wikilink")**自2005年完工後因多項設施屬違建以及焚化廠周遭居民強烈反彈使得完工後至今從未正式營運過？
   - **[哪項臺灣日治時期台灣總督府提出的工程計畫](https://zh.wikipedia.org/wiki/清水計畫 "wikilink")**是在[臺東縣](../Page/臺東縣.md "wikilink")[鹿野溪築](../Page/鹿野溪.md "wikilink")[壩引水進行](https://zh.wikipedia.org/wiki/壩 "wikilink")[水力發電](https://zh.wikipedia.org/wiki/水力發電 "wikilink")？
@@ -1050,7 +1050,7 @@
   - 臺灣[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮的萬春宮因為興建](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")[鹿港公會堂而被拆除後](../Page/鹿港公會堂.md "wikilink")，廟中的神像等文物被安置到鹿港**[哪一座廟宇](../Page/鹿港鳳山寺.md "wikilink")**裡了？
   - 電影《[風聲](https://zh.wikipedia.org/wiki/風聲_\(電影\) "wikilink")》[周迅飾演的顧曉夢慘遭下體摩擦麻繩的酷刑](../Page/周迅.md "wikilink")，是取自**[哪位臺灣白色恐怖女性受難者](../Page/沈嫄璋.md "wikilink")**所受的刑求？
   - 臺灣[彰化縣](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港鎮](https://zh.wikipedia.org/wiki/鹿港鎮 "wikilink")**[哪一座古蹟](../Page/鹿港三山國王廟.md "wikilink")**與[客家人關係密切](https://zh.wikipedia.org/wiki/客家人 "wikilink")，而且曾經因為市區改正與道路拓寬而拆遷與縮小規模？
-  - 2015年3月成立的**[哪個中華民國政黨](../Page/民國黨.md "wikilink")**的[首任黨主席是第](../Page/徐欣瑩.md "wikilink")8屆立法委員中唯一一位黨主席，成員有時任[新竹縣議員](https://zh.wikipedia.org/wiki/邱靖雅 "wikilink")、臺北市議員、前苗栗縣[竹南鎮長](../Page/康世儒.md "wikilink")，並受到臺北市長[柯文哲的支持](../Page/柯文哲.md "wikilink")？
+  - 2015年3月成立的**[哪個中華民國政黨](../Page/民國黨.md "wikilink")**的[首任黨主席是第](../Page/徐欣瑩.md "wikilink")8屆立法委員中唯一一位黨主席，成員有時任[新竹縣議員](../Page/邱靖雅.md "wikilink")、臺北市議員、前苗栗縣[竹南鎮長](../Page/康世儒.md "wikilink")，並受到臺北市長[柯文哲的支持](../Page/柯文哲.md "wikilink")？
   - 在臺灣[彰化縣的](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")[鹿港](https://zh.wikipedia.org/wiki/鹿港 "wikilink")，有**[哪一座](../Page/鹿港金門館.md "wikilink")**與[金門關係密切的廟宇](../Page/金門縣.md "wikilink")？
   - 截至2015年9月，**[哪款通勤電聯車](../Page/台北捷運381型電聯車.md "wikilink")**是[台北捷運最新款之](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")[電聯車](../Page/電聯車.md "wikilink")？
   - **[哪位已去世的老婦人](../Page/大桃阿嬤.md "wikilink")**是第一位出來公開指控日本政府的臺籍[慰安妇](../Page/慰安妇.md "wikilink")？
@@ -1166,12 +1166,12 @@
   - **[哪種書面文模式](../Page/漢羅台文.md "wikilink")**能夠同時精準地表記[閩南語的](https://zh.wikipedia.org/wiki/閩南語 "wikilink")[漢字詞及](https://zh.wikipedia.org/wiki/漢字詞 "wikilink")[固有詞](https://zh.wikipedia.org/wiki/固有詞 "wikilink")？
   - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")**[哪項國際展覽](../Page/智慧城市展.md "wikilink")**取代了[台北國際電信展的地位](https://zh.wikipedia.org/wiki/台北國際電信展 "wikilink")，並在開辦的同一年就拿到「台灣會展獎」的金獎榮譽？
   - [中华民国的现任](https://zh.wikipedia.org/wiki/中华民国 "wikilink")**[立法院正、副院长是谁](https://zh.wikipedia.org/wiki/现任中华民国立法机关正副首长列表 "wikilink")**，目前**[各地方正、副议长又有哪些](https://zh.wikipedia.org/wiki/现任中华民国立法机关正副首长列表 "wikilink")**？
-  - [高雄捷運在](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")[鹽埕埔站和凱旋站自](https://zh.wikipedia.org/wiki/鹽埕埔站 "wikilink")2014年起設置了**[哪些虛擬角色人形立牌](../Page/高捷少女.md "wikilink")**？
+  - [高雄捷運在](../Page/高雄捷運.md "wikilink")[鹽埕埔站和凱旋站自](https://zh.wikipedia.org/wiki/鹽埕埔站 "wikilink")2014年起設置了**[哪些虛擬角色人形立牌](../Page/高捷少女.md "wikilink")**？
   - **[哪位臺灣作家、藝術家、藝術評論者](../Page/江凌青.md "wikilink")**於2015年1月17日逝世，享年僅31歲？
   - [臺中清泉崗機場於](https://zh.wikipedia.org/wiki/臺中清泉崗機場 "wikilink")2015年1月19日發生**[哪起事件](../Page/2015年臺中清泉崗機場槍擊事件.md "wikilink")**，共造成一死兩傷？
   - [台灣日治時期](../Page/台灣日治時期.md "wikilink")，「登[江山樓](../Page/江山樓.md "wikilink")，吃[台灣菜](../Page/台灣菜.md "wikilink")，聽**[哪種職業女性](../Page/藝旦.md "wikilink")**唱曲」是[大稻埕最為流行的娛樂活動](../Page/大稻埕.md "wikilink")？
   - 在台湾红极一时的《[脑筋急转弯](../Page/腦筋急轉彎_\(漫畫\).md "wikilink")》漫画册，却于1993年在中国大陆引发了**[哪起严重的出版事故](../Page/脑筋急转弯事件.md "wikilink")**？
-  - 為了吸引年輕族群，[高雄捷運採用](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")**[哪些虛擬角色](../Page/高捷少女.md "wikilink")**當[虛擬代言人](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")？
+  - 為了吸引年輕族群，[高雄捷運採用](../Page/高雄捷運.md "wikilink")**[哪些虛擬角色](../Page/高捷少女.md "wikilink")**當[虛擬代言人](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")？
   - [台灣清治時期](https://zh.wikipedia.org/wiki/台灣清治時期 "wikilink")，**[哪位艋舺商人](../Page/黃阿祿嫂.md "wikilink")**繼承夫婿遺留的事業，並以[女性之姿成為數一數二的巨富](../Page/女性.md "wikilink")？
   - 作家[白先勇將](../Page/白先勇.md "wikilink")**[哪首台語歌曲](https://zh.wikipedia.org/wiki/孤戀花_\(歌曲\) "wikilink")**改寫成同名小說，而根據小說所翻拍的[同名電視劇後來成為](../Page/孤戀花_\(2005年電視劇\).md "wikilink")[第40屆金鐘獎的大贏家](https://zh.wikipedia.org/wiki/第40屆金鐘獎 "wikilink")？
   - **[誰是第一位](../Page/單國璽.md "wikilink")**於[台灣的教區主教任內](../Page/天主教台灣地區主教團.md "wikilink")，獲[教宗冊封為](../Page/教宗.md "wikilink")[樞機主教者](https://zh.wikipedia.org/wiki/樞機主教 "wikilink")？
@@ -1190,14 +1190,14 @@
 
   - **[哪一位臺灣日治時期物理學家](../Page/木村毅一.md "wikilink")**曾協助[荒勝文策教授在](../Page/荒勝文策.md "wikilink")[臺北帝國大學完成](../Page/臺北帝國大學.md "wikilink")[亞洲第一次](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、世界第二次人工撞擊[原子核實驗](../Page/原子核.md "wikilink")？
   - [中國國民黨主席](../Page/中國國民黨.md "wikilink")[馬英九因](../Page/馬英九.md "wikilink")[2014年地方選舉敗選請辭後](../Page/2014年中華民國地方公職人員選舉.md "wikilink")，該黨舉辦了**[哪一場黨主席補選](../Page/2015年中國國民黨主席補選.md "wikilink")**？
-  - [美国与](../Page/美国.md "wikilink")[加拿大两国边境的](../Page/加拿大.md "wikilink")**[哪座岛屿](https://zh.wikipedia.org/wiki/普羅文斯島 "wikilink")**因形状类似[台湾岛而被网友戏称为](https://zh.wikipedia.org/wiki/台湾岛 "wikilink")“平行台湾”？
+  - [美国与](../Page/美国.md "wikilink")[加拿大两国边境的](../Page/加拿大.md "wikilink")**[哪座岛屿](../Page/普羅文斯島.md "wikilink")**因形状类似[台湾岛而被网友戏称为](https://zh.wikipedia.org/wiki/台湾岛 "wikilink")“平行台湾”？
   - **[哪位臺灣醫師](../Page/陳佩琪.md "wikilink")**是被[藍營媒體所找算命師和面相師評為](https://zh.wikipedia.org/wiki/藍營 "wikilink")「最沒有幫夫運」的市長候選人夫人、卻於2014年11月29日[九合一全國選舉](../Page/2014年中華民國地方公職人員選舉.md "wikilink")[開票夜見證](../Page/2014年中華民國直轄市長及縣市長選舉.md "wikilink")[無黨籍丈夫](../Page/無黨籍.md "wikilink")[柯文哲發表候任](../Page/柯文哲.md "wikilink")[首都](https://zh.wikipedia.org/wiki/中華民國首都 "wikilink")[市長的](https://zh.wikipedia.org/wiki/臺北市長 "wikilink")「感謝[臺灣](../Page/臺灣.md "wikilink")、感謝偉大的市民朋友讓[臺北市改變成真](../Page/臺北市.md "wikilink")」勝選感言？
   - 有[臺灣](../Page/臺灣.md "wikilink")「[玉荷包之父](https://zh.wikipedia.org/wiki/玉荷包 "wikilink")」之稱的王金帶先生，是[高雄市](../Page/高雄市.md "wikilink")[大樹區](../Page/大樹區.md "wikilink")**[哪個-{里}-](../Page/姑山里.md "wikilink")**的人？
 
 #### 11月
 
   - [臺灣](../Page/臺灣.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[東區在](https://zh.wikipedia.org/wiki/東區_\(臺南市\) "wikilink")[東門路以南的](https://zh.wikipedia.org/wiki/東門路_\(臺南市\) "wikilink")「竹篙厝」地區過去在乾隆年間的地名是**[什麼](../Page/德高厝.md "wikilink")**？
-  - **[哪一位退伍榮民](https://zh.wikipedia.org/wiki/趙衍慶 "wikilink")**是史上最年長的[臺北市長參選人](https://zh.wikipedia.org/wiki/臺北市長 "wikilink")，因一篇談及[澎湖713事件的網路散文而廣為台灣人知](https://zh.wikipedia.org/wiki/澎湖713事件 "wikilink")？
+  - **[哪一位退伍榮民](../Page/趙衍慶.md "wikilink")**是史上最年長的[臺北市長參選人](https://zh.wikipedia.org/wiki/臺北市長 "wikilink")，因一篇談及[澎湖713事件的網路散文而廣為台灣人知](https://zh.wikipedia.org/wiki/澎湖713事件 "wikilink")？
   - 在2005年的[三二六護台灣大遊行中](../Page/三二六護台灣大遊行.md "wikilink")，擔任和平示威閉幕壓軸的是**[哪首台語歌曲](../Page/伊是咱的寶貝.md "wikilink")**？
   - 臺灣**[哪一座與明朝宗室有關的媽祖廟](../Page/大天后宮.md "wikilink")**在[日治時期曾經差點被改成佛寺和面臨標售拆毀的危機](https://zh.wikipedia.org/wiki/臺灣日治時期 "wikilink")？
   - **[哪一位台北帝國大學教授](../Page/荒勝文策.md "wikilink")**成功在[臺灣做出](../Page/臺灣.md "wikilink")[亞洲第一次](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，世界第二次人工撞擊[原子核實驗](../Page/原子核.md "wikilink")，僅次於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[劍橋大學](https://zh.wikipedia.org/wiki/劍橋大學 "wikilink")[卡文迪西實驗室](https://zh.wikipedia.org/wiki/卡文迪西實驗室 "wikilink")？
@@ -1217,36 +1217,36 @@
   - 在《[臺灣通史](../Page/臺灣通史.md "wikilink")》的記載中，**[哪位新竹烈女](../Page/呂阿棗.md "wikilink")**雖然出身娼戶且被母親強迫，但仍寧願一死以保守[貞操](https://zh.wikipedia.org/wiki/貞操 "wikilink")？
   - [法國為了與](https://zh.wikipedia.org/wiki/法國 "wikilink")[台灣發展非官方性質的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[雙邊關係和交流](https://zh.wikipedia.org/wiki/台法關係 "wikilink")，而在[台北成立了](https://zh.wikipedia.org/wiki/台北 "wikilink")**[哪一個機構](../Page/法國在台協會.md "wikilink")**，並曾派出在職外交官擔任機構最高負責人？
   - **[哪位參選人](../Page/林智堅.md "wikilink")**以39歲之齡成為民主進步黨提名最年輕的[2014年中華民國縣市長參選人](../Page/2014年中華民國直轄市長及縣市長選舉.md "wikilink")？
-  - 臺灣**[哪一處峽谷](https://zh.wikipedia.org/wiki/泰源幽谷 "wikilink")**因[馬武窟溪長年侵襲而鑿穿](../Page/馬武窟溪.md "wikilink")[海岸山脈出海所形成](../Page/海岸山脈.md "wikilink")？
-  - **[哪一位臺灣雲林出生的法律界人士](https://zh.wikipedia.org/wiki/張有忠 "wikilink")**曾經擔任過[日本與](../Page/日本.md "wikilink")[中華民國的司法官](../Page/中華民國.md "wikilink")，並且獨力將中華民國的[六法全書翻譯成日文版](../Page/六法全書.md "wikilink")？
+  - 臺灣**[哪一處峽谷](../Page/泰源幽谷.md "wikilink")**因[馬武窟溪長年侵襲而鑿穿](../Page/馬武窟溪.md "wikilink")[海岸山脈出海所形成](../Page/海岸山脈.md "wikilink")？
+  - **[哪一位臺灣雲林出生的法律界人士](../Page/張有忠.md "wikilink")**曾經擔任過[日本與](../Page/日本.md "wikilink")[中華民國的司法官](../Page/中華民國.md "wikilink")，並且獨力將中華民國的[六法全書翻譯成日文版](../Page/六法全書.md "wikilink")？
 
 #### 9月
 
   - **[哪一座大眾捷運系統](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")**將於2015年啟用，並成為[臺灣第三座](../Page/臺灣.md "wikilink")[大眾捷運系統](https://zh.wikipedia.org/wiki/大眾捷運系統 "wikilink")？
   - **[哪名漢文詩人](https://zh.wikipedia.org/wiki/蔡旨禪 "wikilink")**是[澎湖百年來首位女性漢文先生](https://zh.wikipedia.org/wiki/澎湖 "wikilink")？
-  - 1895年臺灣[乙未抗日時](../Page/乙未戰爭.md "wikilink")，[六堆客家人是在](../Page/六堆.md "wikilink")[**哪一間廟宇**推選出大總理的](https://zh.wikipedia.org/wiki/六堆天后宮 "wikilink")？
-  - **[哪名美國外交官](https://zh.wikipedia.org/wiki/安克志 "wikilink")**是最後一位派駐在[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[美國駐華大使](https://zh.wikipedia.org/wiki/美國駐華大使 "wikilink")，其任內經歷了華府與台北的斷交？
-  - **[哪座橋梁](https://zh.wikipedia.org/wiki/得樂日嘎大橋 "wikilink")**是台灣橋柱第三高的橋？
-  - **[哪一部美少女遊戲](https://zh.wikipedia.org/wiki/雨港基隆 "wikilink")**是第一款以台灣本地歷史作為題材的？
+  - 1895年臺灣[乙未抗日時](../Page/乙未戰爭.md "wikilink")，[六堆客家人是在](../Page/六堆.md "wikilink")[**哪一間廟宇**推選出大總理的](../Page/六堆天后宮.md "wikilink")？
+  - **[哪名美國外交官](../Page/安克志.md "wikilink")**是最後一位派駐在[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[美國駐華大使](https://zh.wikipedia.org/wiki/美國駐華大使 "wikilink")，其任內經歷了華府與台北的斷交？
+  - **[哪座橋梁](../Page/得樂日嘎大橋.md "wikilink")**是台灣橋柱第三高的橋？
+  - **[哪一部美少女遊戲](../Page/雨港基隆.md "wikilink")**是第一款以台灣本地歷史作為題材的？
 
 #### 8月
 
-  - **[哪一座廟宇](https://zh.wikipedia.org/wiki/台南臨水夫人媽廟 "wikilink")**是[台灣唯一主祀](https://zh.wikipedia.org/wiki/台灣 "wikilink")[臨水夫人的廟宇](../Page/臨水夫人.md "wikilink")?
+  - **[哪一座廟宇](../Page/台南臨水夫人媽廟.md "wikilink")**是[台灣唯一主祀](https://zh.wikipedia.org/wiki/台灣 "wikilink")[臨水夫人的廟宇](../Page/臨水夫人.md "wikilink")?
   - **[新加坡与哪国](https://zh.wikipedia.org/wiki/中華民國－新加坡關係 "wikilink")**一直维持着非官方关系，还在该国设有商务办事处？
-  - 95名[東寧國男女在](https://zh.wikipedia.org/wiki/東寧國 "wikilink")**[哪一宗事件](https://zh.wikipedia.org/wiki/丁未漂人事件 "wikilink")**中疑被[朝鮮國送至清朝殺害](https://zh.wikipedia.org/wiki/朝鮮國 "wikilink")？
-  - **[哪首台湾校园民歌](https://zh.wikipedia.org/wiki/捉泥鳅 "wikilink")**是台湾音乐人[侯德健创作的第一首歌曲](../Page/侯德健.md "wikilink")，且现在常被用作[儿歌](https://zh.wikipedia.org/wiki/儿童歌曲 "wikilink")？
-  - **[台灣哪項會展](../Page/桃園國際動漫大展.md "wikilink")**是第一個被[交通部觀光局納入](https://zh.wikipedia.org/wiki/交通部觀光局 "wikilink")「[臺灣觀光年曆](https://zh.wikipedia.org/wiki/臺灣觀光年曆 "wikilink")」縣市國際活動的動漫會展？
-  - **[哪一本志書](https://zh.wikipedia.org/wiki/續修臺灣縣志 "wikilink")**是繼《[重修臺灣縣志](../Page/重修臺灣縣志.md "wikilink")》之後而成的[臺灣縣方](../Page/臺灣縣_\(1684年-1887年\).md "wikilink")-{志}-？
-  - 清政府將番界設立於臺灣**[哪一個地方](https://zh.wikipedia.org/wiki/人止關 "wikilink")**禁止漢人上山入內，自此成為與原住民的分野之地？
+  - 95名[東寧國男女在](https://zh.wikipedia.org/wiki/東寧國 "wikilink")**[哪一宗事件](../Page/丁未漂人事件.md "wikilink")**中疑被[朝鮮國送至清朝殺害](https://zh.wikipedia.org/wiki/朝鮮國 "wikilink")？
+  - **[哪首台湾校园民歌](../Page/捉泥鳅.md "wikilink")**是台湾音乐人[侯德健创作的第一首歌曲](../Page/侯德健.md "wikilink")，且现在常被用作[儿歌](https://zh.wikipedia.org/wiki/儿童歌曲 "wikilink")？
+  - **[台灣哪項會展](../Page/桃園國際動漫大展.md "wikilink")**是第一個被[交通部觀光局納入](https://zh.wikipedia.org/wiki/交通部觀光局 "wikilink")「[臺灣觀光年曆](../Page/臺灣觀光年曆.md "wikilink")」縣市國際活動的動漫會展？
+  - **[哪一本志書](../Page/續修臺灣縣志.md "wikilink")**是繼《[重修臺灣縣志](../Page/重修臺灣縣志.md "wikilink")》之後而成的[臺灣縣方](../Page/臺灣縣_\(1684年-1887年\).md "wikilink")-{志}-？
+  - 清政府將番界設立於臺灣**[哪一個地方](../Page/人止關.md "wikilink")**禁止漢人上山入內，自此成為與原住民的分野之地？
   - **[哪位臺灣醫生](../Page/林杰樑.md "wikilink")**發現致命農藥[百草枯中毒病患的醫治方法](../Page/百草枯.md "wikilink")？
-  - 臺灣**[哪一個地方](https://zh.wikipedia.org/wiki/北關_\(宜蘭縣\) "wikilink")**素有「蘭陽之鎖」形容對宜蘭地區的重要性，並因當地的海潮洶湧而名列「蘭陽八景」之一？
+  - 臺灣**[哪一個地方](../Page/北關_\(宜蘭縣\).md "wikilink")**素有「蘭陽之鎖」形容對宜蘭地區的重要性，並因當地的海潮洶湧而名列「蘭陽八景」之一？
 
 #### 7月
 
-  - **[哪一套年曆](https://zh.wikipedia.org/wiki/臺灣觀光年曆 "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[交通部觀光局以](https://zh.wikipedia.org/wiki/交通部觀光局 "wikilink")「[活動導向](https://zh.wikipedia.org/wiki/活動 "wikilink")」，蒐羅各縣市特色國際活動與景點資訊而成？
-  - 臺灣**[哪一個地方](https://zh.wikipedia.org/wiki/大分_\(花蓮縣\) "wikilink")**不但受到[玉山國家公園的保護](../Page/玉山國家公園.md "wikilink")，也是研究青剛櫟與臺灣黑熊的根據地？
-  - 2003年**[哪宗台灣車禍](https://zh.wikipedia.org/wiki/2003年阿里山小火車翻覆事故 "wikilink")**釀成17人喪生？
-  - 臺灣**[哪一個地方](https://zh.wikipedia.org/wiki/瓦拉米 "wikilink")**為瓦拉米步道的終點，也是玉山國家公園山地管制區東部入口？
+  - **[哪一套年曆](../Page/臺灣觀光年曆.md "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[交通部觀光局以](https://zh.wikipedia.org/wiki/交通部觀光局 "wikilink")「[活動導向](https://zh.wikipedia.org/wiki/活動 "wikilink")」，蒐羅各縣市特色國際活動與景點資訊而成？
+  - 臺灣**[哪一個地方](../Page/大分_\(花蓮縣\).md "wikilink")**不但受到[玉山國家公園的保護](../Page/玉山國家公園.md "wikilink")，也是研究青剛櫟與臺灣黑熊的根據地？
+  - 2003年**[哪宗台灣車禍](../Page/2003年阿里山小火車翻覆事故.md "wikilink")**釀成17人喪生？
+  - 臺灣**[哪一個地方](../Page/瓦拉米.md "wikilink")**為瓦拉米步道的終點，也是玉山國家公園山地管制區東部入口？
   - **[哪一種蝴蝶](../Page/甲仙翠蛺蝶.md "wikilink")**是以今[高雄市](../Page/高雄市.md "wikilink")[甲仙區命名](../Page/甲仙區.md "wikilink")？
   - 臺灣**[哪一個地方](../Page/南安_\(花蓮縣\).md "wikilink")**是布農族的部落，並設有遊客中心，為[玉山國家公園東部園區的門戶](../Page/玉山國家公園.md "wikilink")？
   - 臺灣**[哪一條道路](../Page/八通關越道路.md "wikilink")**是[日本殖民當局為能有效監視與治理拉庫拉庫溪流域的布農族人而開闢](../Page/臺灣總督府.md "wikilink")？
@@ -1280,11 +1280,11 @@
   - 哪位**[台灣新浪潮導演](../Page/張毅_\(導演\).md "wikilink")**曾因《我這樣過了一生》獲得金馬獎最佳導演，後投身琉璃藝術的創作？
   - 臺灣**[哪一個地方](../Page/樟普寮.md "wikilink")**是以中國福建的[漳浦縣命名](https://zh.wikipedia.org/wiki/漳浦縣 "wikilink")？
   - 臺灣**[哪一條道路](../Page/日月潭環潭公路.md "wikilink")**是環繞[日月潭而行](../Page/日月潭.md "wikilink")？
-  - **[哪起佔領行動](../Page/318青年佔領立法院行動.md "wikilink")**是由[臺灣的](../Page/臺灣.md "wikilink")[黑色島國青年陣線成員發起](https://zh.wikipedia.org/wiki/黑色島國青年陣線 "wikilink")，而在之後發展為[太陽花學運](https://zh.wikipedia.org/wiki/太陽花學運 "wikilink")？
+  - **[哪起佔領行動](../Page/318青年佔領立法院行動.md "wikilink")**是由[臺灣的](../Page/臺灣.md "wikilink")[黑色島國青年陣線成員發起](../Page/黑色島國青年陣線.md "wikilink")，而在之後發展為[太陽花學運](../Page/太陽花學運.md "wikilink")？
 
 #### 4月
 
-  - 因為[太陽花學運的訴求長期未獲得回應](https://zh.wikipedia.org/wiki/太陽花學運 "wikilink")，使得[臺灣在](../Page/臺灣.md "wikilink")2014年3月23日晚上又發生**[哪起佔領事件](https://zh.wikipedia.org/wiki/323佔領行政院事件 "wikilink")**？
+  - 因為[太陽花學運的訴求長期未獲得回應](../Page/太陽花學運.md "wikilink")，使得[臺灣在](../Page/臺灣.md "wikilink")2014年3月23日晚上又發生**[哪起佔領事件](../Page/323佔領行政院事件.md "wikilink")**？
   - **[哪間不屬於臺灣糖業公司的糖廠](../Page/新南糖廠.md "wikilink")**是[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[南化區唯一的工廠](https://zh.wikipedia.org/wiki/南化區 "wikilink")，且糖廠名稱跟「新竹」有關？
   - [舒淇在電影](../Page/舒淇.md "wikilink")《[最好的時光](../Page/最好的時光_\(電影\).md "wikilink")》中的藝旦角色是隱射**[哪一位台灣女詩人](../Page/王香禪.md "wikilink")**？
   - [臺灣](../Page/臺灣.md "wikilink")[臺東縣](../Page/臺東縣.md "wikilink")**[哪一座山](../Page/鯉魚山_\(臺東縣\).md "wikilink")**位於[臺東市市區](../Page/臺東市.md "wikilink")，並設有[全國步道系統區域級步道](../Page/國家步道系統.md "wikilink")，可以俯瞰整個市區，是該市市區中最大的綠地？
@@ -1292,18 +1292,18 @@
 
 #### 3月
 
-  - **[哪個吉祥物](https://zh.wikipedia.org/wiki/吼吼熊 "wikilink")**是因為於2014年台灣[太陽花學運發生期間](https://zh.wikipedia.org/wiki/太陽花學運 "wikilink")，在[NICONICO動畫網站上直播而創造出來的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")？
+  - **[哪個吉祥物](../Page/吼吼熊.md "wikilink")**是因為於2014年台灣[太陽花學運發生期間](../Page/太陽花學運.md "wikilink")，在[NICONICO動畫網站上直播而創造出來的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")？
   - **[哪一種臺灣史前人類](../Page/左鎮人.md "wikilink")**的化石是目前在[臺灣所發現之年代最久遠的人類化石](../Page/臺灣.md "wikilink")，並且以其在[臺南的發現地為名](https://zh.wikipedia.org/wiki/臺南 "wikilink")？
   - 在台灣[二二八事件期間](https://zh.wikipedia.org/wiki/二二八事件 "wikilink")，[高雄中學組織的](../Page/高雄市立高雄高級中學.md "wikilink")**[哪一個學生團體](../Page/雄中自衛隊.md "wikilink")**曾協助維持秩序、保護受威脅的[臺灣外省人](../Page/臺灣外省人.md "wikilink")？
-  - 為保育[台灣寬尾鳳蝶的棲息地](../Page/台灣寬尾鳳蝶.md "wikilink")，台灣設立了**[哪一個保護區](https://zh.wikipedia.org/wiki/觀霧寬尾鳳蝶野生動物重要棲息環境 "wikilink")**？
+  - 為保育[台灣寬尾鳳蝶的棲息地](../Page/台灣寬尾鳳蝶.md "wikilink")，台灣設立了**[哪一個保護區](../Page/觀霧寬尾鳳蝶野生動物重要棲息環境.md "wikilink")**？
   - 在[臺灣](../Page/臺灣.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[安平區有](https://zh.wikipedia.org/wiki/安平區 "wikilink")**[什麼與中日戰爭（八年抗戰）相關的史蹟](https://zh.wikipedia.org/wiki/安平十二軍伕墓 "wikilink")**，見證臺灣人為日本在華當軍夫的歷史？
-  - **[哪位佛教居士](https://zh.wikipedia.org/wiki/毛惕園 "wikilink")**曾參與暗殺北平市長[何思源](../Page/何思源.md "wikilink")，與獻計將[孫立人部下](../Page/孫立人.md "wikilink")[郭廷亮套為匪諜](../Page/郭廷亮.md "wikilink")？
+  - **[哪位佛教居士](../Page/毛惕園.md "wikilink")**曾參與暗殺北平市長[何思源](../Page/何思源.md "wikilink")，與獻計將[孫立人部下](../Page/孫立人.md "wikilink")[郭廷亮套為匪諜](../Page/郭廷亮.md "wikilink")？
   - 台灣**[哪一種蝴蝶](../Page/台灣寬尾鳳蝶.md "wikilink")**，因其數量稀有與型態特殊，而有台灣國蝶的稱號？
 
 #### 2月
 
-  - **[哪位湖南人](https://zh.wikipedia.org/wiki/張齡 "wikilink")**十九歲就當縣長，也以善作[對聯](https://zh.wikipedia.org/wiki/對聯 "wikilink")、《[蔣公紀念歌](../Page/蔣公紀念歌.md "wikilink")》的作詞者而知名？
-  - 臺灣**[哪一條專用公路](https://zh.wikipedia.org/wiki/竹專2線 "wikilink")**，過去是連結新竹縣與苗栗縣之間的林業經營用道路？
+  - **[哪位湖南人](../Page/張齡.md "wikilink")**十九歲就當縣長，也以善作[對聯](https://zh.wikipedia.org/wiki/對聯 "wikilink")、《[蔣公紀念歌](../Page/蔣公紀念歌.md "wikilink")》的作詞者而知名？
+  - 臺灣**[哪一條專用公路](../Page/竹專2線.md "wikilink")**，過去是連結新竹縣與苗栗縣之間的林業經營用道路？
   - 清代台灣[鳳山縣](https://zh.wikipedia.org/wiki/鳳山縣_\(臺灣\) "wikilink")[舊城與](../Page/鳳山縣舊城.md "wikilink")[新城之間聯絡的道路為](../Page/鳳山縣新城.md "wikilink")**[什麼古道](../Page/雙城古道.md "wikilink")**？
   - 臺灣的**[哪一場全國性選舉](../Page/2000年中華民國國民大會代表選舉.md "wikilink")**，在選務進行中途，由於喪失法源依據，而被停辦？
   - **[哪一位台灣女藝人](../Page/夏玲玲.md "wikilink")**曾因為綜藝節目《小人物狂想曲》獲得金鐘獎喜劇女演員，後來和小她十歲的主持人曹啟泰結婚？
@@ -1328,8 +1328,8 @@
   - **[哪顆彗星](../Page/鹿林彗星.md "wikilink")**是在台灣發現的第一顆彗星？
   - 臺灣**[哪一座隧道](../Page/能高隧道.md "wikilink")**計畫穿過[能高山](https://zh.wikipedia.org/wiki/能高山 "wikilink")，因地熱、斷層、岩爆、湧水、通風及濃霧等問題受阻，截至2012年為止未能實行？
   - **[什麼工程](../Page/日月潭水力電氣工事.md "wikilink")**是臺灣日治時期最大水力發電計畫？
-  - 臺灣**[哪一座橋樑](https://zh.wikipedia.org/wiki/員林陸橋 "wikilink")**因進行[員林市區鐵路高架化工程而被拆除](../Page/員林市區鐵路高架化計畫.md "wikilink")？
-  - **[哪一座電廠](https://zh.wikipedia.org/wiki/清水地熱發電廠 "wikilink")**是臺灣第一座利用地熱能發電的地熱發電廠？
+  - 臺灣**[哪一座橋樑](../Page/員林陸橋.md "wikilink")**因進行[員林市區鐵路高架化工程而被拆除](../Page/員林市區鐵路高架化計畫.md "wikilink")？
+  - **[哪一座電廠](../Page/清水地熱發電廠.md "wikilink")**是臺灣第一座利用地熱能發電的地熱發電廠？
 
 ### 2013年
 
@@ -1453,7 +1453,7 @@
   - [臺灣](../Page/臺灣.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[鐵路地下化計畫](../Page/臺南市區鐵路地下化計畫.md "wikilink")，由於**[哪個組織](https://zh.wikipedia.org/wiki/反台南鐵路地下化東移自救會 "wikilink")**抗爭，使得主體工程已告停止？
   - **[哪位中華民國將領](../Page/陳良濬.md "wikilink")**是[後備司令部](https://zh.wikipedia.org/wiki/後備司令部 "wikilink")（前身為警備總部）從[上將改制為](https://zh.wikipedia.org/wiki/上將 "wikilink")[中將之首任司令](../Page/中將.md "wikilink")，也是國軍唯一出現過一門三傑四顆星的將官組合？
   - **[哪位臺中市議員](../Page/陳世凱.md "wikilink")**獲[民主進步黨徵召參加](../Page/民主進步黨.md "wikilink")2013年1月舉行的[臺中市第二選區立法委員缺額補選](../Page/2013年臺中市第二選舉區立法委員缺額補選.md "wikilink")、並以「改變的志氣」做為參選主軸？
-  - **[哪位中華民國將領](../Page/余連發.md "wikilink")**是中央政府播遷[台灣後](https://zh.wikipedia.org/wiki/台灣 "wikilink")，唯一從[士兵升到](https://zh.wikipedia.org/wiki/士兵 "wikilink")[上將之人](https://zh.wikipedia.org/wiki/上將 "wikilink")？
+  - **[哪位中華民國將領](../Page/余連發.md "wikilink")**是中央政府播遷[台灣後](https://zh.wikipedia.org/wiki/台灣 "wikilink")，唯一從[士兵升到](../Page/士兵.md "wikilink")[上將之人](https://zh.wikipedia.org/wiki/上將 "wikilink")？
   - **[哪種戶外活動](../Page/焢窯.md "wikilink")**以烤焦土塊來悶熟食物，是一種不需器皿的野炊，在[台灣相當盛行](https://zh.wikipedia.org/wiki/台灣 "wikilink")？
   - 臺中市**[哪個觀賞夜景地點](../Page/望高寮_\(南屯區\).md "wikilink")**因治安問題而設立派出所來改善？
 
@@ -1582,7 +1582,7 @@
   - [**哪一座位在臺灣鹿港的古蹟**是昔日鹿港八郊中的泉郊裡最大的船頭行](../Page/鹿港日茂行.md "wikilink")？
   - **[哪一位女性](../Page/周冰.md "wikilink")**是[中華民國國軍的首位兵科女性](../Page/中華民國國軍.md "wikilink")[少將司令](https://zh.wikipedia.org/wiki/少將 "wikilink")？
   - **[哪一位台灣身心障礙畫家](../Page/陳姿蓉.md "wikilink")**曾被[上海世博邀請到陽光生命館展出](https://zh.wikipedia.org/wiki/上海世博 "wikilink")？
-  - [**臺灣哪一座文化資產**位在](https://zh.wikipedia.org/wiki/原嘉義酒廠 "wikilink")[嘉義車站附近](https://zh.wikipedia.org/wiki/嘉義車站 "wikilink")，且作為「嘉義文化創意園區」使用？
+  - [**臺灣哪一座文化資產**位在](../Page/原嘉義酒廠.md "wikilink")[嘉義車站附近](https://zh.wikipedia.org/wiki/嘉義車站 "wikilink")，且作為「嘉義文化創意園區」使用？
   - **[哪一個文化資產](../Page/鹽水歡雅國小原大禮堂及時鐘座.md "wikilink")**位於臺灣[臺南市鹽水區歡雅國民小學的裡面](../Page/臺南市鹽水區歡雅國民小學.md "wikilink")？
   - **[哪一位台湾记者](../Page/張平宜.md "wikilink")**因采访中国大陆偏远地区的[麻风村而投身于麻风病人下一代的教育](https://zh.wikipedia.org/wiki/麻风 "wikilink")？
   - [**誰**是與臺灣](../Page/林文敏.md "wikilink")[板橋林家](https://zh.wikipedia.org/wiki/板橋林家 "wikilink")、[霧峰林家其名為](../Page/霧峰林家.md "wikilink")「臺灣三林」的麻豆林家之開臺祖？
@@ -2032,7 +2032,7 @@
 
 #### 6月
 
-  - [台灣媒體經過了怎樣的](https://zh.wikipedia.org/wiki/台灣媒體 "wikilink")**[發展歷程](https://zh.wikipedia.org/wiki/臺灣媒體史 "wikilink")**？
+  - [台灣媒體經過了怎樣的](../Page/台灣媒體.md "wikilink")**[發展歷程](https://zh.wikipedia.org/wiki/臺灣媒體史 "wikilink")**？
   - [聯合報系旗下](https://zh.wikipedia.org/wiki/聯合報系 "wikilink")**[哪一間雜誌社](../Page/中國經濟通訊社.md "wikilink")**，是以[英文為主要語言來發行貿易商機與產業相關刊物](https://zh.wikipedia.org/wiki/英文 "wikilink")？
   - [日治時期](../Page/台灣日治時期.md "wikilink")，[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")**[哪一個地區](../Page/扇平.md "wikilink")**被[日本規劃為](../Page/日本.md "wikilink")[金雞納樹試驗的重要據點](../Page/金雞納樹.md "wikilink")，以提炼[奎寧供治療](../Page/奎寧.md "wikilink")[瘧疾使用](https://zh.wikipedia.org/wiki/瘧疾 "wikilink")？
 

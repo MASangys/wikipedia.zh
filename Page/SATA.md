@@ -358,7 +358,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>126 (16,777,216 with switches)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/InfiniBand" title="wikilink">InfiniBand</a><br />
+<td><p><a href="../Page/InfiniBand.md" title="wikilink">InfiniBand</a><br />
 Quad Rate</p></td>
 <td><p>data-sort-value="10" | 10 Gbit/s</p></td>
 <td><p>data-sort-value="{{#expr:0.98*1024}}" | 0.98 GB/s</p></td>

@@ -33,7 +33,7 @@ Audacity網站也提供數個語種的教程。\[3\]
 ## 接受情況
 
 [CNET給Audacity打](../Page/CNET.md "wikilink")5/5顆星，並稱其「特性豐富而靈活」。\[4\][PC
-World的Preston](https://zh.wikipedia.org/wiki/PC_World "wikilink")
+World的Preston](../Page/PC_World.md "wikilink")
 Gralla稱，「如若你對製作音樂、編輯音樂及混音感興趣，那你會想要Audacity。」\[5\][Tech
 Republic的Jack](https://zh.wikipedia.org/wiki/Tech_Republic "wikilink")
 Wallen強調了它的特性和易用性。\[6\]的Michael

@@ -32,7 +32,7 @@ Laplace曾经对此作出了解释：“因忙于现实生活的事务，沒有�
 ## 參見
 
   - [Anjuta](../Page/Anjuta.md "wikilink")
-  - [Code::Blocks](https://zh.wikipedia.org/wiki/Code::Blocks "wikilink")
+  - [Code::Blocks](../Page/Code::Blocks.md "wikilink")
   - [C++ Builder](../Page/C++Builder.md "wikilink")
   - [Eclipse](../Page/Eclipse.md "wikilink") CDT
   - [IBM VisualAge

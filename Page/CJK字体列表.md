@@ -50,8 +50,8 @@
 
 ### 日文
 
-  - [MS 明朝](https://zh.wikipedia.org/wiki/MS_明朝 "wikilink")（**MS
-    Mincho**）及MS P明朝（**MS PMincho**） – Windows 95 及以後提供的日文版字体
+  - [MS 明朝](../Page/MS_明朝.md "wikilink")（**MS Mincho**）及MS P明朝（**MS
+    PMincho**） – Windows 95 及以後提供的日文版字体
   - <span style="background-color:#90FF90;">\[F\]</span>
     **TakaoMincho**、**TakaoPMincho** 及 **TakaoExMincho**（在 Ubuntu
     安裝「日文支援」會安裝此等字型）
@@ -126,8 +126,8 @@
     3.1及以后版本附赠的默认系统字体](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink")，所有语言的[Windows
     2000至](../Page/Windows_2000.md "wikilink")[Windows
     8.1](../Page/Windows_8.1.md "wikilink")、[Windows
-    10日文版](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")、Microsoft
-    Office v.X至2004、Internet Explorer 3的日文字体包、Microsoft Global IME
+    10日文版](../Page/Windows_10.md "wikilink")、Microsoft Office
+    v.X至2004、Internet Explorer 3的日文字体包、Microsoft Global IME
     5.02（日文版）、Office XP Tool: Japanese Language Pack、Windows
     10的日文附加字体。
   - MS PGothic（）– 随日文版[Windows

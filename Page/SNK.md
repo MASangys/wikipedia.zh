@@ -254,7 +254,7 @@ Future is Now”這個標語。
 
 **2018年**
 
-  - 《[SNK女傑狂熱大亂鬥](https://zh.wikipedia.org/wiki/SNK女傑狂熱大亂鬥 "wikilink")》
+  - 《[SNK女傑狂熱大亂鬥](../Page/SNK女傑狂熱大亂鬥.md "wikilink")》
 
 ## 參見
 

@@ -35,10 +35,10 @@
 田馥甄：[何樂音樂](https://zh.wikipedia.org/wiki/何樂音樂有限公司 "wikilink")（2019年4月30日－至今）
 | 經紀公司 = [華研國際音樂](../Page/華研國際音樂.md "wikilink")（2000年－2018年9月30日）
 任家萱：[任真美好](https://zh.wikipedia.org/wiki/任真美好有限公司 "wikilink")（2018年10月－至今）
-田馥甄：[樂來樂好](https://zh.wikipedia.org/wiki/樂來樂好有限公司 "wikilink")（2018年10月－至今）
-陳嘉樺：[勁樺娛樂](https://zh.wikipedia.org/wiki/勁樺娛樂有限公司 "wikilink")（2018年10月－至今）
-| 網站 = [華研國際音樂官方網站](http://www.him.com.tw/artistscon2.php?tid=9) | 現任成員
-=
+田馥甄：[樂來樂好](../Page/樂來樂好有限公司.md "wikilink")（2018年10月－至今）
+陳嘉樺：[勁樺娛樂](../Page/勁樺娛樂有限公司.md "wikilink")（2018年10月－至今） | 網站 =
+[華研國際音樂官方網站](http://www.him.com.tw/artistscon2.php?tid=9)
+| 現任成員 =
 [任家萱](../Page/任家萱.md "wikilink")(**S**elina)、[田馥甄](../Page/田馥甄.md "wikilink")(**H**ebe)、[陳嘉樺](../Page/陳嘉樺.md "wikilink")(**E**lla)
 | goldenmelodyawards =
 **[第14屆金曲獎](https://zh.wikipedia.org/wiki/第14屆金曲獎 "wikilink")[最佳重唱組合獎](../Page/最佳演唱組合獎_\(金曲獎\).md "wikilink")**
@@ -272,8 +272,8 @@ Today以及S](https://zh.wikipedia.org/wiki/LINE_Today "wikilink").H.E
 
 :\***數位單曲：**
 
-1.  《[你曾是少年](https://zh.wikipedia.org/wiki/你曾是少年 "wikilink")》數位單曲（2015年）
-2.  《[十七](https://zh.wikipedia.org/wiki/十七_\(S.H.E歌曲\) "wikilink")》數位單曲（2018年）
+1.  《[你曾是少年](../Page/你曾是少年.md "wikilink")》數位單曲（2015年）
+2.  《[十七](../Page/十七_\(S.H.E歌曲\).md "wikilink")》數位單曲（2018年）
 
 ## 演唱會
 

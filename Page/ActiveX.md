@@ -47,7 +47,7 @@ Filtering功能，讓IE的瀏覽者能夠自訂是否封鎖特定的ActiveX元�
 ## 淘汰
 
 在2015年7月29日發行的[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，會以不支援ActiveX的[Microsoft
+10](../Page/Windows_10.md "wikilink")，會以不支援ActiveX的[Microsoft
 Edge瀏覽器](../Page/Microsoft_Edge.md "wikilink")\[13\]，取代使用多年的[Internet
 Explorer做為Windows預設瀏覽器](../Page/Internet_Explorer.md "wikilink")。但為相容性需要，Windows
 10仍內建Internet Explorer 11供使用者選用。
@@ -58,7 +58,7 @@ Explorer做為Windows預設瀏覽器](../Page/Internet_Explorer.md "wikilink")�
 
   - [ADO](../Page/ADO.md "wikilink")
   - [NPAPI](../Page/NPAPI.md "wikilink")
-  - [IUnknown](https://zh.wikipedia.org/wiki/IUnknown "wikilink")
+  - [IUnknown](../Page/IUnknown.md "wikilink")
 
 [Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink")
 [Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink")

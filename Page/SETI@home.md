@@ -1,6 +1,6 @@
 [Setiathomeversion3point07.JPG](https://zh.wikipedia.org/wiki/File:Setiathomeversion3point07.JPG "fig:Setiathomeversion3point07.JPG")
 
-****（，“在家[搜寻外星智慧](https://zh.wikipedia.org/wiki/搜尋地外文明 "wikilink")”），是一个通过[互联网利用](../Page/互联网.md "wikilink")[个人计算机处理](https://zh.wikipedia.org/wiki/个人计算机 "wikilink")[天文数据的](https://zh.wikipedia.org/wiki/天文 "wikilink")[分布式计算项目](../Page/分布式计算.md "wikilink")。该项目试图通过分析[阿雷西博射电望远镜采集的](https://zh.wikipedia.org/wiki/阿雷西博射电望远镜 "wikilink")[无线电信号](https://zh.wikipedia.org/wiki/无线电 "wikilink")，搜寻能够证实[地外智慧生物存在的证据](https://zh.wikipedia.org/wiki/地外生物 "wikilink")。该项目由[美国](../Page/美国.md "wikilink")[加州大学伯克利分校的](https://zh.wikipedia.org/wiki/加州大学伯克利分校 "wikilink")[伯克利空间科学实验室](https://zh.wikipedia.org/wiki/伯克利空间科学实验室 "wikilink")（SSL）主办。
+****（，“在家[搜寻外星智慧](https://zh.wikipedia.org/wiki/搜尋地外文明 "wikilink")”），是一个通过[互联网利用](../Page/互联网.md "wikilink")[个人计算机处理](https://zh.wikipedia.org/wiki/个人计算机 "wikilink")[天文数据的](https://zh.wikipedia.org/wiki/天文 "wikilink")[分布式计算项目](../Page/分布式计算.md "wikilink")。该项目试图通过分析[阿雷西博射电望远镜采集的](https://zh.wikipedia.org/wiki/阿雷西博射电望远镜 "wikilink")[无线电信号](https://zh.wikipedia.org/wiki/无线电 "wikilink")，搜寻能够证实[地外智慧生物存在的证据](https://zh.wikipedia.org/wiki/地外生物 "wikilink")。该项目由[美国](../Page/美国.md "wikilink")[加州大学伯克利分校的](https://zh.wikipedia.org/wiki/加州大学伯克利分校 "wikilink")[伯克利空间科学实验室](../Page/伯克利空间科学实验室.md "wikilink")（SSL）主办。
 
 它主要会在接受到的射电数据中搜寻以下三种讯号：
 

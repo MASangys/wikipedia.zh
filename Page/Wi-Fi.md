@@ -89,8 +89,7 @@ Wi-Fi可分為六代。\[6\]由於[ISM頻段中的](https://zh.wikipedia.org/wik
     4），可使用2.4GHz或5GHz，20和40MHz[頻寬下最快](https://zh.wikipedia.org/wiki/頻寬 "wikilink")72和150Mbit/s
   - 第五代 [802.11ac](../Page/IEEE_802.11ac.md "wikilink")（Wi-Fi
     5），可使用2.4GHz，5GHz
-  - 第六代
-    [802.11ax](https://zh.wikipedia.org/wiki/IEEE_802.11ax "wikilink")（Wi-Fi
+  - 第六代 [802.11ax](../Page/IEEE_802.11ax.md "wikilink")（Wi-Fi
     6），可使用2.4GHz，5GHz (未來可能納入6GHz)
 
 \[7\] \[8\]

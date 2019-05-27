@@ -14,8 +14,7 @@ Office家族的一部分](../Page/Microsoft_Office.md "wikilink")。
 
 ### MSN入口網站
 
-提供多國語言介面，並為[Windows
-10搭載的](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Microsoft
+提供多國語言介面，並為[Windows 10搭載的](../Page/Windows_10.md "wikilink")[Microsoft
 Edge瀏覽器預設首頁](../Page/Microsoft_Edge.md "wikilink")。
 
 ### 微軟新聞
@@ -46,7 +45,7 @@ Office家族的一部分](../Page/Microsoft_Office.md "wikilink")。\[2\]
 
 ### MSN世界服務
 
-在美國，MSN與當地電信公司和廣播站聯合推出其服務，在[加拿大](../Page/加拿大.md "wikilink")，與[互聯網服務提供商](https://zh.wikipedia.org/wiki/互聯網服務提供商 "wikilink")[加拿大貝爾旗下的Bell](https://zh.wikipedia.org/wiki/加拿大貝爾 "wikilink")
+在美國，MSN與當地電信公司和廣播站聯合推出其服務，在[加拿大](../Page/加拿大.md "wikilink")，與[互聯網服務提供商](https://zh.wikipedia.org/wiki/互聯網服務提供商 "wikilink")[加拿大貝爾旗下的Bell](../Page/加拿大貝爾.md "wikilink")
 Sympatico合作，創出“Sympatico / MSN”。\[3\]
 
 在[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")，微軟最初與[澳洲電信合作推出](https://zh.wikipedia.org/wiki/澳洲電信 "wikilink")“OnAustralia”，不過次年便從合資企業中撤出。因此澳洲電信便有了100%的擁有權並將之重命名為“[BigPond](https://zh.wikipedia.org/wiki/BigPond "wikilink")”。微軟隨後轉向與[第九頻道電視臺創出](https://zh.wikipedia.org/wiki/第九頻道電視臺 "wikilink")“[ninemsn](https://zh.wikipedia.org/wiki/ninemsn "wikilink")”。在[墨西哥與](../Page/墨西哥.md "wikilink")[墨西哥電信合作](https://zh.wikipedia.org/wiki/墨西哥電信 "wikilink")，創出“Prodigy

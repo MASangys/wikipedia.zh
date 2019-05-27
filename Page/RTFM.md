@@ -8,7 +8,7 @@ Manual）。
 
 ## 起源
 
-最早的起源被认为是出自[LINPACK用户手册目录的一个章节](https://zh.wikipedia.org/wiki/LINPACK "wikilink")“R.T.F.M.”。
+最早的起源被认为是出自[LINPACK用户手册目录的一个章节](../Page/LINPACK.md "wikilink")“R.T.F.M.”。
 
 ## 衍生
 

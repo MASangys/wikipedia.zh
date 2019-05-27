@@ -4,7 +4,7 @@ PC兼容机的常见硬件外设的仿真](../Page/IBM_PC兼容机.md "wikilink"
 
 许多客户[操作系统能通过该仿真器运行](../Page/操作系统.md "wikilink")，包括[DOS](../Page/DOS.md "wikilink")，[Microsoft
 Windows的一些版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
-[AmigaOS 4](https://zh.wikipedia.org/wiki/AmigaOS_4 "wikilink"),
+[AmigaOS 4](../Page/AmigaOS_4.md "wikilink"),
 [BSD](../Page/BSD.md "wikilink"), [Linux](../Page/Linux.md "wikilink"),
 [MorphOS](https://zh.wikipedia.org/wiki/MorphOS "wikilink"),
 [Xenix和](../Page/Xenix.md "wikilink")[Rhapsody](../Page/Rhapsody.md "wikilink")

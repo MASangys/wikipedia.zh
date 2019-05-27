@@ -23,7 +23,7 @@ NT组合的出现一下子降低了CG制作的门槛，首选开始运用在[电
   - 可堆疊的建模步驟，使製作模型有非常大的彈性。
   - 支援[Maxscript內建腳本控制語言](https://zh.wikipedia.org/wiki/Maxscript "wikilink")，讓使用者有自訂工具的能力。Maxscript是內建在[autodesk相關產品中的比如](https://zh.wikipedia.org/wiki/autodesk "wikilink")[Autodesk
     VIZ](https://zh.wikipedia.org/wiki/Autodesk_VIZ "wikilink")、3ds
-    Max、[Plasma](https://zh.wikipedia.org/wiki/Plasma "wikilink")、[GMax等](https://zh.wikipedia.org/wiki/GMax "wikilink")[軟體中的](https://zh.wikipedia.org/wiki/軟體 "wikilink")[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")。為3ds
+    Max、[Plasma](../Page/Plasma.md "wikilink")、[GMax等](https://zh.wikipedia.org/wiki/GMax "wikilink")[軟體中的](https://zh.wikipedia.org/wiki/軟體 "wikilink")[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")。為3ds
     Max開發的第三方[外掛中也多半有支援以Maxscript來控制](https://zh.wikipedia.org/wiki/外掛 "wikilink")。
 
 ## 支援語言

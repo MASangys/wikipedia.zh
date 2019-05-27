@@ -6,8 +6,8 @@ Core競爭](https://zh.wikipedia.org/wiki/Intel_Core "wikilink")。該處理器�
 64 X2及其他AMD移动型處理器使用新的](../Page/Turion_64_X2.md "wikilink")[Socket
 S1插座](https://zh.wikipedia.org/wiki/Socket_S1 "wikilink")，已於2006年推出。2008年推出Turion
 64 Ultra。从2009年开始，中文官方名稱改为「**锐龙**」（与2017年3月发售的中文名为“锐龙”的[AMD
-Ryzen并无关系](https://zh.wikipedia.org/wiki/AMD_Ryzen "wikilink")），并推出Turion
-Ⅱ和Turion Neo。
+Ryzen并无关系](../Page/AMD_Ryzen.md "wikilink")），并推出Turion Ⅱ和Turion
+Neo。
 
 ## 核心
 

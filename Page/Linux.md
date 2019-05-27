@@ -163,8 +163,7 @@ Source)向Linux移植，比如[Filezilla](https://zh.wikipedia.org/wiki/Filezill
 <File:Fedora> Showing Gnome 3.22.2 showing
 overview.png|[GNOME](../Page/GNOME.md "wikilink") <File:Ubuntu> Mate
 traditional.png|[MATE](../Page/MATE.md "wikilink") <File:KDE> plasma
-5.png|[KDE
-Plasma](https://zh.wikipedia.org/wiki/KDE_Plasma_5 "wikilink")
+5.png|[KDE Plasma](../Page/KDE_Plasma_5.md "wikilink")
 <File:XFCE-4.12-Desktop-standard.png>|[Xfce](../Page/Xfce.md "wikilink")
 <File:Lxde-desktop-full.png>|[LXDE](../Page/LXDE.md "wikilink")
 <File:LXQt> 0.10 - Ambiance.png|
@@ -181,7 +180,7 @@ screenshot.jpg|[Enlightenment](../Page/Enlightenment.md "wikilink")
 0.4.png|[Pantheon](https://zh.wikipedia.org/wiki/elementary_OS "wikilink")
 <File:Budgie_Desktop_Environment.png>| <File:Screenshot> of Trinity
 Desktop Environment (TDE) R14.0.5
-Development.png|[Trinity](https://zh.wikipedia.org/wiki/Trinity桌面环境 "wikilink")
+Development.png|[Trinity](../Page/Trinity桌面环境.md "wikilink")
 <File:Sugar-home-view-0.82.jpg>|[Sugar](https://zh.wikipedia.org/wiki/Sugar_\(用户界面\) "wikilink")
 
 ### 上网本
@@ -289,7 +288,7 @@ Linux主張命名為Linux](https://zh.wikipedia.org/wiki/Yggdrasil_Linux "wikili
   - [Linux内核](../Page/Linux内核.md "wikilink")
   - [Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")：[Linux發行版列表](../Page/Linux发行版列表.md "wikilink")
   - [Tux](../Page/Tux.md "wikilink")
-  - [Linux的採用](https://zh.wikipedia.org/wiki/Linux的採用 "wikilink")
+  - [Linux的採用](../Page/Linux的採用.md "wikilink")
 
 {{-}}
 

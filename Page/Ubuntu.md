@@ -503,7 +503,7 @@ Linux各種發行版是使用Linux核心一類開放型的作業系統。由發�
     Pi）電腦，及硬體效能等級不高，或喜歡簡潔、不用特效桌面環境者，使用[MATE桌面環境的Ubuntu發行版](../Page/MATE.md "wikilink")。
 
   - [Ubuntu for
-    Android](https://zh.wikipedia.org/wiki/Ubuntu_for_Android "wikilink")：在[Android手機上運行的Ubuntu](../Page/Android.md "wikilink")。
+    Android](../Page/Ubuntu_for_Android.md "wikilink")：在[Android手機上運行的Ubuntu](../Page/Android.md "wikilink")。
 
   - [Ubuntu
     Touch](../Page/Ubuntu_Touch.md "wikilink")：基於Ubuntu和Android的手機/平板作業系統。

@@ -70,7 +70,7 @@ XP 开始并启用了快速用户切换的工作站上的多个用户。用户�
 press时](https://zh.wikipedia.org/wiki/Control-Alt-Delete "wikilink")，会出现一个“关闭程序”对话框。\[4\]另外，
 Windows 9x 中，Windows
 目录中有一个名为“任务”（TASKMAN.EXE）的程序。TASKMAN.EXE是一个基本的程序并且功能很少。Windows
-9x中的[系统监视器实用程序包含类似于Windows任务管理器的进程和网络监视功能](https://zh.wikipedia.org/wiki/系统监视器 "wikilink")。（另外，如果Explorer进程关闭，则通过在桌面上双击来启动Tasks程序）。
+9x中的[系统监视器实用程序包含类似于Windows任务管理器的进程和网络监视功能](../Page/系统监视器.md "wikilink")。（另外，如果Explorer进程关闭，则通过在桌面上双击来启动Tasks程序）。
 
 ### Windows XP
 
@@ -165,7 +165,7 @@ Windows 9x 中，Windows
 通常，[Windows
 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows
 8.1](../Page/Windows_8.1.md "wikilink")、[Windows
-10用户可以在啟動工作管理員後看到如上圖的介面](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，按下“結束工作”可以进行結束該項工作，按下右鍵可以對單一應用程式進行切換應用程式和新工作等操作。
+10用户可以在啟動工作管理員後看到如上圖的介面](../Page/Windows_10.md "wikilink")，按下“結束工作”可以进行結束該項工作，按下右鍵可以對單一應用程式進行切換應用程式和新工作等操作。
 
 ## 参见
 

@@ -74,7 +74,7 @@ Blender提供了非常多的工具，因此其使用者介面對初學者來說�
   - [Stl](../Page/STL_\(檔案格式\).md "wikilink")（.stl）
   - Autodesk [3ds Max](../Page/3ds_Max.md "wikilink")（.3ds）
   - Autodesk FBX（.fbx）
-  - [Wavefront](https://zh.wikipedia.org/wiki/Wavefront_.obj文件 "wikilink")（.obj）
+  - [Wavefront](../Page/Wavefront_.obj文件.md "wikilink")（.obj）
   - X3D Extensible 3D（.x3d）
 
 **导出**\[4\]

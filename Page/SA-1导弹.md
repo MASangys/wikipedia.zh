@@ -1,7 +1,7 @@
 **S-25**（或稱為
 R-133、V-300，[北約代號](../Page/北約代號.md "wikilink")：**SA-1**）是[蘇聯第一代](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[防空導彈](https://zh.wikipedia.org/wiki/防空導彈 "wikilink")，尺寸大、昂貴，且性能有限，僅被用來作[莫斯科的防空](../Page/莫斯科.md "wikilink")，後期衍生出
 V-301
-系統。而SA-2更為機動，擔負全面任務。1951年由[拉沃奇金設計局設計](https://zh.wikipedia.org/wiki/拉沃奇金設計局 "wikilink")，採用二戰末期德國防空火箭以及
+系統。而SA-2更為機動，擔負全面任務。1951年由[拉沃奇金設計局設計](../Page/拉沃奇金設計局.md "wikilink")，採用二戰末期德國防空火箭以及
 V-2
 的部份零件與藍圖。1954年定型。液體火箭發動機，主要用於攔截敵[戰略轟炸機](https://zh.wikipedia.org/wiki/戰略轟炸機 "wikilink")。
 

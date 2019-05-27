@@ -20,7 +20,7 @@ Christianity）則是他的著作中影响最大的一部。
 
 ### 小說
 
-[Statue_of_C.S._Lewis,_Belfast.jpg](https://zh.wikipedia.org/wiki/File:Statue_of_C.S._Lewis,_Belfast.jpg "fig:Statue_of_C.S._Lewis,_Belfast.jpg")的東[貝爾法斯特](https://zh.wikipedia.org/wiki/貝爾法斯特 "wikilink")，C·S·路易斯開啟「[魔衣櫥](https://zh.wikipedia.org/wiki/衣櫥_\(納尼亞\) "wikilink")」銅製雕像。\]\]
+[Statue_of_C.S._Lewis,_Belfast.jpg](https://zh.wikipedia.org/wiki/File:Statue_of_C.S._Lewis,_Belfast.jpg "fig:Statue_of_C.S._Lewis,_Belfast.jpg")的東[貝爾法斯特](https://zh.wikipedia.org/wiki/貝爾法斯特 "wikilink")，C·S·路易斯開啟「[魔衣櫥](../Page/衣櫥_\(納尼亞\).md "wikilink")」銅製雕像。\]\]
 
   - 《太空三部曲》
     1.  《[來自寂靜的星球](https://zh.wikipedia.org/wiki/沉寂的星球 "wikilink")》（Out
@@ -35,8 +35,8 @@ Christianity）則是他的著作中影响最大的一部。
         Witch and the Wardrobe，1950年）
     2.  《[凯斯宾王子](https://zh.wikipedia.org/wiki/凯斯宾王子 "wikilink")》（Prince
         Caspian: The Return to Narnia，1951年）
-    3.  《[黎明行者號](https://zh.wikipedia.org/wiki/黎明行者號 "wikilink")》（The
-        Voyage of the Dawn Treader，1952年）
+    3.  《[黎明行者號](../Page/黎明行者號.md "wikilink")》（The Voyage of the Dawn
+        Treader，1952年）
     4.  《[銀椅](../Page/銀椅.md "wikilink")》（The Silver Chair，1953年）
     5.  《[奇幻馬和傳說](../Page/奇幻馬和傳說.md "wikilink")》（The Horse and His
         Boy，1954年）
@@ -78,7 +78,7 @@ Christianity）則是他的著作中影响最大的一部。
 
   - [J·R·R·托爾金](../Page/J·R·R·托爾金.md "wikilink")
   - [迹象文学社](../Page/迹象文学社.md "wikilink")
-  - [波琳·拜恩斯](https://zh.wikipedia.org/wiki/波琳·拜恩斯 "wikilink")
+  - [波琳·拜恩斯](../Page/波琳·拜恩斯.md "wikilink")
 
 ## 注释
 
@@ -98,8 +98,7 @@ Christianity）則是他的著作中影响最大的一部。
 
   - 《走進魔衣櫥：路易斯與納尼亞的閱讀地圖》，幸佳慧 著，台灣2006年，時報出版。
   - 《魯益師——魔幻王國的創造者》，梁志華 著，台灣2006年，突破出版社。
-  - 《聖經、魔戒與奇幻宗師》，[柯林·杜瑞茲](https://zh.wikipedia.org/wiki/柯林·杜瑞茲 "wikilink")
-    著，台灣2004年，啟示出版。
+  - 《聖經、魔戒與奇幻宗師》，[柯林·杜瑞茲](../Page/柯林·杜瑞茲.md "wikilink") 著，台灣2004年，啟示出版。
   - 《納尼亞人：C·S·路易斯的生活與想像》，艾倫·雅各布斯 著，上海2014年，華東師範大學出版社。
 
 ## 外部連結

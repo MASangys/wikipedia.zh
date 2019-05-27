@@ -1,8 +1,8 @@
-，是一个[总部位于](https://zh.wikipedia.org/wiki/总部 "wikilink")[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[圣荷西市的](https://zh.wikipedia.org/wiki/圣荷西 "wikilink")[因特网](https://zh.wikipedia.org/wiki/因特网 "wikilink")[第三方支付服务商](https://zh.wikipedia.org/wiki/第三方支付 "wikilink")，允许在使用[电子邮件来标识身份的用户之间](../Page/电子邮件.md "wikilink")[转移资金](https://zh.wikipedia.org/wiki/转移资金 "wikilink")，避免了传统的[邮寄](https://zh.wikipedia.org/wiki/邮寄 "wikilink")[支票或者](../Page/支票.md "wikilink")[汇款的方法](https://zh.wikipedia.org/wiki/汇款 "wikilink")。也和一些[电子商务](../Page/电子商务.md "wikilink")[网站合作](https://zh.wikipedia.org/wiki/网站 "wikilink")，成为它们的付款方式之一；但是用这种付款方式[转账时](https://zh.wikipedia.org/wiki/转账 "wikilink")，收取数额比例相当高昂的[手续费](https://zh.wikipedia.org/wiki/手续费 "wikilink")。
+，是一个[总部位于](https://zh.wikipedia.org/wiki/总部 "wikilink")[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[圣荷西市的](https://zh.wikipedia.org/wiki/圣荷西 "wikilink")[因特网](https://zh.wikipedia.org/wiki/因特网 "wikilink")[第三方支付服务商](../Page/第三方支付.md "wikilink")，允许在使用[电子邮件来标识身份的用户之间](../Page/电子邮件.md "wikilink")[转移资金](https://zh.wikipedia.org/wiki/转移资金 "wikilink")，避免了传统的[邮寄](https://zh.wikipedia.org/wiki/邮寄 "wikilink")[支票或者](../Page/支票.md "wikilink")[汇款的方法](https://zh.wikipedia.org/wiki/汇款 "wikilink")。也和一些[电子商务](../Page/电子商务.md "wikilink")[网站合作](https://zh.wikipedia.org/wiki/网站 "wikilink")，成为它们的付款方式之一；但是用这种付款方式[转账时](https://zh.wikipedia.org/wiki/转账 "wikilink")，收取数额比例相当高昂的[手续费](https://zh.wikipedia.org/wiki/手续费 "wikilink")。
 
 ## 發展
 
-PayPal在1998年12月由、[马克斯·列夫琴](../Page/马克斯·列夫琴.md "wikilink")、[伊隆·马斯克](../Page/伊隆·马斯克.md "wikilink")、及[彼得·泰爾建立](https://zh.wikipedia.org/wiki/彼得·泰爾 "wikilink")。
+PayPal在1998年12月由、[马克斯·列夫琴](../Page/马克斯·列夫琴.md "wikilink")、[伊隆·马斯克](../Page/伊隆·马斯克.md "wikilink")、及[彼得·泰爾建立](../Page/彼得·泰爾.md "wikilink")。
 
 其後，PayPal於2000年起陸續擴充業務，包括於其他國家推出業務及加入[美元以外的貨幣單位](../Page/美元.md "wikilink")，計有[英鎊](https://zh.wikipedia.org/wiki/英鎊 "wikilink")、[加元](https://zh.wikipedia.org/wiki/加元 "wikilink")、[欧元](../Page/欧元.md "wikilink")、[澳元](../Page/澳大利亚元.md "wikilink")、[日圓](../Page/日圓.md "wikilink")、[新台幣及](https://zh.wikipedia.org/wiki/新台幣 "wikilink")[港元等](../Page/港元.md "wikilink")。
 

@@ -40,7 +40,7 @@
 
   - [晴天小猪](https://zh.wikipedia.org/wiki/晴天小猪 "wikilink")
 
-  - [秀逗博士](https://zh.wikipedia.org/wiki/秀逗博士 "wikilink")
+  - [秀逗博士](../Page/秀逗博士.md "wikilink")
 
   - [福星大嘴鸟](https://zh.wikipedia.org/wiki/福星大嘴鸟 "wikilink")
 
@@ -118,7 +118,7 @@
   - [鎖鎖美小姐@不好好努力](../Page/鎖鎖美小姐@不好好努力.md "wikilink")\[11\]
   - [武士弗拉明戈](../Page/武士弗拉明戈.md "wikilink")
   - [東京殘響](../Page/東京殘響.md "wikilink")
-  - [四月是你的謊言](https://zh.wikipedia.org/wiki/四月是你的謊言 "wikilink")
+  - [四月是你的謊言](../Page/四月是你的謊言.md "wikilink")
   - [屍鬼](https://zh.wikipedia.org/wiki/屍鬼 "wikilink")
   - [地獄少女系列](https://zh.wikipedia.org/wiki/地獄少女 "wikilink")
   - [人造人間キカイダー THE
@@ -129,7 +129,7 @@
   - [推理之絆](https://zh.wikipedia.org/wiki/推理之絆 "wikilink")
   - [世紀末超自然學院](../Page/世紀末超自然學院.md "wikilink")
   - [世界征服
-    謀略之星](https://zh.wikipedia.org/wiki/世界征服_謀略之星 "wikilink")（※オープニング主題歌は[フライングドッグ](https://zh.wikipedia.org/wiki/フライングドッグ "wikilink")）\[12\]
+    謀略之星](../Page/世界征服_謀略之星.md "wikilink")（※オープニング主題歌は[フライングドッグ](https://zh.wikipedia.org/wiki/フライングドッグ "wikilink")）\[12\]
   - [鶺鴒女神シリーズ](../Page/鶺鴒女神.md "wikilink")\[13\]
   - [絕園的暴風雨](../Page/絕園的暴風雨.md "wikilink")
   - [戰姬絕唱SYMPHOGEAR](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")（※[製作委員会への出資のみ](https://zh.wikipedia.org/wiki/製作委員会方式 "wikilink")。映像製作・音楽制作・製作委の主幹事は[キングレコードが担当](https://zh.wikipedia.org/wiki/キングレコード "wikilink")。第2期には不参加。）
@@ -255,11 +255,10 @@
   - [迷糊餐廳系列](../Page/迷糊餐廳.md "wikilink")
   - [ワンダーベビルくん](https://zh.wikipedia.org/wiki/ワンダーベビルくん "wikilink")（[天才ビットくん内](https://zh.wikipedia.org/wiki/天才ビットくん "wikilink")）
   - [魔术快斗1412](https://zh.wikipedia.org/wiki/魔术快斗 "wikilink")
-  - [亞人醬有話要說](https://zh.wikipedia.org/wiki/亞人醬有話要說 "wikilink")
-  - [Re:CREATORS](https://zh.wikipedia.org/wiki/Re:CREATORS "wikilink")
-  - [調教咖啡廳](https://zh.wikipedia.org/wiki/調教咖啡廳 "wikilink")
-  - [DARLING in the
-    FRANXX](https://zh.wikipedia.org/wiki/DARLING_in_the_FRANXX "wikilink")
+  - [亞人醬有話要說](../Page/亞人醬有話要說.md "wikilink")
+  - [Re:CREATORS](../Page/Re:CREATORS.md "wikilink")
+  - [調教咖啡廳](../Page/調教咖啡廳.md "wikilink")
+  - [DARLING in the FRANXX](../Page/DARLING_in_the_FRANXX.md "wikilink")
   - [卫宫家今天的餐桌风景](https://zh.wikipedia.org/wiki/卫宫家今天的餐桌风景 "wikilink")
   - [Banana Fish](https://zh.wikipedia.org/wiki/Banana_Fish "wikilink")
 
@@ -308,7 +307,7 @@
       - 壳中少女 壓縮
       - 壳中少女 燃燒
       - 壳中少女 排氣
-  - [我想吃掉你的胰臟](https://zh.wikipedia.org/wiki/我想吃掉你的胰臟 "wikilink")
+  - [我想吃掉你的胰臟](../Page/我想吃掉你的胰臟.md "wikilink")
 
 #### 手機遊戲
 
@@ -316,7 +315,7 @@
     Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")（與[TYPE-MOON共同營運](../Page/TYPE-MOON.md "wikilink")
     開發商：DELiGHTWORKS，2015年8月上線）
   - [魔法紀錄
-    魔法少女小圓外傳](https://zh.wikipedia.org/wiki/魔法紀錄_魔法少女小圓外傳 "wikilink")（開發商：f4samurai，2017年8月上線）
+    魔法少女小圓外傳](../Page/魔法紀錄_魔法少女小圓外傳.md "wikilink")（開發商：f4samurai，2017年8月上線）
   - [閃耀幻想曲](https://zh.wikipedia.org/wiki/閃耀幻想曲 "wikilink")（開發商：，2017年12月上線）
   - 高校艦隊 指尖艦隊戰鬥（開發商：[Aniplex](../Page/Aniplex.md "wikilink")，2019年3月27日）
 

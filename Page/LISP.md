@@ -9,7 +9,7 @@ Lisp最初創建時受到[阿隆佐·邱奇的](../Page/阿隆佐·邱奇.md "wi
 arg1 arg2 arg3）`。
 
 Lisp语言的主要现代版本包括[Common Lisp](../Page/Common_Lisp.md "wikilink"),
-[Scheme](../Page/Scheme.md "wikilink")，[Racket以及](https://zh.wikipedia.org/wiki/Racket "wikilink")[Clojure](https://zh.wikipedia.org/wiki/Clojure "wikilink")。1980年代[蓋伊·史提爾二世编写了Common](https://zh.wikipedia.org/wiki/蓋伊·史提爾二世 "wikilink")
+[Scheme](../Page/Scheme.md "wikilink")，[Racket以及](../Page/Racket.md "wikilink")[Clojure](https://zh.wikipedia.org/wiki/Clojure "wikilink")。1980年代[蓋伊·史提爾二世编写了Common](https://zh.wikipedia.org/wiki/蓋伊·史提爾二世 "wikilink")
 Lisp试图进行标准化，这个标准被大多数解释器和编译器所接受。还有一种是編輯器[Emacs所衍生出來的](../Page/Emacs.md "wikilink")[Emacs
 Lisp](../Page/Emacs_Lisp.md "wikilink")（而Emacs正是用Lisp作为扩展语言进行功能扩展）非常流行，并建立了自己的标准。
 
@@ -42,7 +42,7 @@ Dan Weinreb在他的調查中，列出了11個積極維護中的Common Lisp實�
 Lisp是一個新的實作商業化產品，由CMUCL於2002年首次發布。
 
 開源社群建立了新的支援基礎：CLiki是個收集Common Lisp相關資訊的維基，Common
-Lisp目錄列出了資源，\#lisp是一個受歡迎的IRC頻道，可以共享和註釋代碼片段（在lisppaste的支持下，一個用Lisp編寫的[IRC機器人](https://zh.wikipedia.org/wiki/IRC機器人 "wikilink")），Planet
+Lisp目錄列出了資源，\#lisp是一個受歡迎的IRC頻道，可以共享和註釋代碼片段（在lisppaste的支持下，一個用Lisp編寫的[IRC機器人](../Page/IRC機器人.md "wikilink")），Planet
 Lisp收集了各種 Lisp相關博客的內容，LispForum用戶討論Lisp主題，Lispjobs是個公布職缺機會的服務，還有一個Weekly
 Lisp News提供每週新聞。Common-lisp.net是開源專案的託管站點。Quicklisp則是含括了許多函式庫的裝載管理器。
 

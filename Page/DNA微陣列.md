@@ -69,9 +69,8 @@ array，將樣本中的[mRNA轉為cDNA後進行檢測](https://zh.wikipedia.org/
 
 臨床檢測微管晶片：將低密度微陣列附於特製檢驗管底部，用以檢測特定病原或癌症指標的試劑組。
 
-[CGH晶片](https://zh.wikipedia.org/wiki/比较基因组杂交 "wikilink")：染色體晶片（array
-Comparative Genomic Hybridization，aCGH或稱Chromosomal Microarray
-Analysis，CMA）
+[CGH晶片](../Page/比较基因组杂交.md "wikilink")：染色體晶片（array Comparative Genomic
+Hybridization，aCGH或稱Chromosomal Microarray Analysis，CMA）
 
 [SNP晶片](https://zh.wikipedia.org/wiki/SNP "wikilink")：可檢測基因多型性（Polymorphisms）。
 

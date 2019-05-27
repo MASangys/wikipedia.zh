@@ -140,7 +140,7 @@ C# 1.2</p></td>
   - 對象不能被顯式釋放，代替為當不存在被引用時通過垃圾回收器回收。
   - 只允許[單一繼承](https://zh.wikipedia.org/wiki/單一繼承 "wikilink")（single
     inheritance），但是一個類可以實現多個[-{zh-hans:接口;zh-hant:介面}-](https://zh.wikipedia.org/wiki/接口 "wikilink")（interfaces）。
-  - C\#比C++更加[類型安全](https://zh.wikipedia.org/wiki/類型安全 "wikilink")。-{zh-hans:默认;zh-hant:預設}-的安全轉換是[隱含轉換](https://zh.wikipedia.org/wiki/隱含轉換 "wikilink")，例如由短整型轉換為長整型和從派生類轉換為基類。而-{zh-hans:接口;zh-hant:介面}--{zh-hans:布尔型;zh-hant:布林數}-同整型，及枚举型同整型不允許隱含轉換，非[空-{zh-hans:指针;zh-hant:指標}-](https://zh.wikipedia.org/wiki/空指標 "wikilink")（通過引用相似對象）同用戶定義類型的隱含轉換字段被顯式的確定，不同於C++的複製構造函數。
+  - C\#比C++更加[類型安全](https://zh.wikipedia.org/wiki/類型安全 "wikilink")。-{zh-hans:默认;zh-hant:預設}-的安全轉換是[隱含轉換](https://zh.wikipedia.org/wiki/隱含轉換 "wikilink")，例如由短整型轉換為長整型和從派生類轉換為基類。而-{zh-hans:接口;zh-hant:介面}--{zh-hans:布尔型;zh-hant:布林數}-同整型，及枚举型同整型不允許隱含轉換，非[空-{zh-hans:指针;zh-hant:指標}-](../Page/空指標.md "wikilink")（通過引用相似對象）同用戶定義類型的隱含轉換字段被顯式的確定，不同於C++的複製構造函數。
   - 数组-{zh-hans:声明;zh-hant:宣告的}-語法不同（"int\[\] a = new int\[5\]"而不是"int
     a\[5\]"）。
   - [枚举位於其所在的](../Page/枚举.md "wikilink")[命名空間中](https://zh.wikipedia.org/wiki/命名空間 "wikilink")。
@@ -198,7 +198,7 @@ generics使用[具化生成泛型参数](https://zh.wikipedia.org/wiki/具化 "w
 
 ### 迭代器
 
-一种新形式的[迭代器它提供了函数式编程中的](../Page/迭代器.md "wikilink")[generator](https://zh.wikipedia.org/wiki/生成器_\(计算机编程\) "wikilink")，使用`yield
+一种新形式的[迭代器它提供了函数式编程中的](../Page/迭代器.md "wikilink")[generator](../Page/生成器_\(计算机编程\).md "wikilink")，使用`yield
 return`
 
 类似于[Python中使用的](https://zh.wikipedia.org/wiki/Python_\(消歧义\) "wikilink")`yield`

@@ -41,7 +41,7 @@ MediaWiki的第一个版本1.1，发布于2003年12月。MediaWiki 1.31.0是当�
 
 MediaWiki最著名的使用案例是维基百科，同时还部分用于维基媒体基金会的其他项目。一些其他的公共wiki网站也使用Mediawiki，包括[Wikia](../Page/Wikia.md "wikilink")\[21\]（一个[wiki农场](https://zh.wikipedia.org/wiki/wiki农场 "wikilink")\[22\]）、[wikiHow](https://zh.wikipedia.org/wiki/wikiHow "wikilink")\[23\]和[维基解密](https://zh.wikipedia.org/wiki/维基解密 "wikilink")\[24\]。
 
-使用mediawiki的还有众多和维基百科模式相似的线上wiki百科，[大众百科](../Page/大众百科.md "wikilink")、[Metapedia](https://zh.wikipedia.org/wiki/Metapedia "wikilink")、[Scholarpedia和](../Page/Scholarpedia.md "wikilink")[保守百科](../Page/保守百科.md "wikilink")\[25\]是其中几个例子。Mediawiki也在大量公司的内部使用，其中有[Novell和](../Page/Novell.md "wikilink")[英特尔](../Page/英特尔.md "wikilink")\[26\]\[27\]。
+使用mediawiki的还有众多和维基百科模式相似的线上wiki百科，[大众百科](../Page/大众百科.md "wikilink")、[Metapedia](../Page/Metapedia.md "wikilink")、[Scholarpedia和](../Page/Scholarpedia.md "wikilink")[保守百科](../Page/保守百科.md "wikilink")\[25\]是其中几个例子。Mediawiki也在大量公司的内部使用，其中有[Novell和](../Page/Novell.md "wikilink")[英特尔](../Page/英特尔.md "wikilink")\[26\]\[27\]。
 
 Mediawiki也被应用在政府内部，例子包括由[美国情报体系使用的](https://zh.wikipedia.org/wiki/美国情报体系 "wikilink")和[美国国务院使用的](../Page/美国国务院.md "wikilink")[Diplopedia](../Page/Diplopedia.md "wikilink")。[联合国开发计划署和](../Page/联合国开发计划署.md "wikilink")等[联合国机构也使用MediaWiki来运行他们的wiki网站](../Page/联合国系统.md "wikilink")，他们认为：“这个软件支撑了[维基百科的运转](../Page/维基百科.md "wikilink")，得到了全面而彻底的测试，相对于其他wiki软件，MediaWiki在未来将会是更多wiki网站技术人员的选择。”\[28\]
 
@@ -51,7 +51,7 @@ MediaWiki提供丰富的核心功能集和增加提供附加功能的扩展程�
 
 ### 国际化和本地化
 
-由于维基媒体计划大力强调多语言，[国际化和本地化受到开发商的显著关注](https://zh.wikipedia.org/wiki/国际化和本地化 "wikilink")。[Translatewiki.net将用户界面完全或部分翻译成超过](https://zh.wikipedia.org/wiki/Translatewiki.net "wikilink")300种语言，网站管理员还可以进一步定制（整个界面可以透过wiki编辑）\[29\]。几个扩展程序，最明显的是收集在[MediaWiki语言中的](https://zh.wikipedia.org/wiki/mw:https:/www.mediawiki.org/wiki/MediaWiki_Language_Extension_Bundle "wikilink")，旨在进一步提升MediaWiki的多语种和国际化。
+由于维基媒体计划大力强调多语言，[国际化和本地化受到开发商的显著关注](https://zh.wikipedia.org/wiki/国际化和本地化 "wikilink")。[Translatewiki.net将用户界面完全或部分翻译成超过](../Page/Translatewiki.net.md "wikilink")300种语言，网站管理员还可以进一步定制（整个界面可以透过wiki编辑）\[29\]。几个扩展程序，最明显的是收集在[MediaWiki语言中的](https://zh.wikipedia.org/wiki/mw:https:/www.mediawiki.org/wiki/MediaWiki_Language_Extension_Bundle "wikilink")，旨在进一步提升MediaWiki的多语种和国际化。
 
 ### 安装和配置
 

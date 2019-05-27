@@ -18,7 +18,7 @@ Inc.**改為**NTT DOCOMO,
 INC.**\[1\]\[2\]\[3\]。2013年10月1日，公司商號從「エヌ・ティ・ティ・ドコモ」統一為通用的「**NTTドコモ**」\[4\]\[5\]。
 
 海外事業方面，NTT
-DOCOMO在2000年以4090億日圓投資[荷蘭皇家電信](https://zh.wikipedia.org/wiki/荷蘭皇家電信 "wikilink")、1860億日圓投資英国[Hutchison
+DOCOMO在2000年以4090億日圓投資[荷蘭皇家電信](../Page/荷蘭皇家電信.md "wikilink")、1860億日圓投資英国[Hutchison
 3G](../Page/和記電訊國際.md "wikilink")，2001年再以1兆2000億日圓投資美國[AT\&T](../Page/AT&T.md "wikilink")，但在累積達約1兆5000億日圓的虧損後於2005年棄守\[6\]。之後，NTT
 DOCOMO投資印度塔塔電信2670億日圓，共計持有26.5％股權，但投資5年的虧損已達2220億日圓\[7\]。
 
@@ -258,7 +258,7 @@ DOCOMO公司的歷史可追溯至[電電公社及NTT的](../Page/日本電信電
       - 3月13日 - 成為子公司。
       - 3月31日 - 局數第2世代行動電話服務「mova」、「DoPa」。
       - 4月1日 -
-        docomo集團的mmbi推出智慧型手機多媒體廣播服務[NOTTV](https://zh.wikipedia.org/wiki/NOTTV "wikilink")。
+        docomo集團的mmbi推出智慧型手機多媒體廣播服務[NOTTV](../Page/NOTTV.md "wikilink")。
       - 7月 - 開始由管理收費業務。從此（與、）收費一體化。
   - 2013年（平成25年）
       - 9月 -
@@ -267,9 +267,8 @@ DOCOMO公司的歷史可追溯至[電電公社及NTT的](../Page/日本電信電
         [「手機空間統計」](https://www.nttdocomo.co.jp/corporate/disclosure/mobile_spatial_statistics/)事業化。
       - 10月1日 - 商號改為**株式会社NTTドコモ**
       - 10月25日 - 與料理教室最大規模的達成資本合作協議。
-      - 12月17日 -
-        與[JTB合作推出旅行服務](https://zh.wikipedia.org/wiki/JTB "wikilink")
-        [「d Travel」](http://travel.dmkt-sp.jp/) 。
+      - 12月17日 - 與[JTB合作推出旅行服務](../Page/JTB.md "wikilink") [「d
+        Travel」](http://travel.dmkt-sp.jp/) 。
   - 2014年（平成26年）
       - 3月10日 - 倫敦證券交易所下市\[12\]
       - 4月10日 -
@@ -293,8 +292,7 @@ DOCOMO公司的歷史可追溯至[電電公社及NTT的](../Page/日本電信電
         與韓國[LG電子就](../Page/LG電子.md "wikilink")[LTE-Advanced方式](../Page/進階長期演進技術.md "wikilink")、[LTE方式](https://zh.wikipedia.org/wiki/LTE "wikilink")、[W-CDMA方式的簽訂必要專利授權協議](https://zh.wikipedia.org/wiki/W-CDMA "wikilink")
       - 6月10日 -
         與中國[華為簽訂移動通信技術必要專利授權協議](https://zh.wikipedia.org/wiki/華為 "wikilink")。
-      - 6月30日 -
-        [NOTTV結束服務](https://zh.wikipedia.org/wiki/NOTTV "wikilink")。
+      - 6月30日 - [NOTTV結束服務](../Page/NOTTV.md "wikilink")。
       - 11月28日 -
         與台灣[HTC就LTE](../Page/宏達國際電子.md "wikilink")-Advanced方式、LTE方式、W-CDMA方式簽訂必要專利授權協議。
   - 2017年（平成29年）
@@ -393,7 +391,7 @@ DOCOMO提供有名稱為[WORLD
 WING的國際漫遊服務](https://zh.wikipedia.org/wiki/WORLD_WING "wikilink")。其用戶前往外國時，可以直接使用日本的手機進行通話和郵件。且已覆蓋世界上的大多數國家。而所有的DOCOMO手機也都提供名為[WORLD
 CALL的服務](https://zh.wikipedia.org/wiki/WORLD_CALL "wikilink")，可往海外撥打電話。
 
-DOCOMO於2005年12月1日入股[三井住友信用卡公司](https://zh.wikipedia.org/wiki/三井住友信用卡 "wikilink")，並開始提供名為「iD」的非接觸式信用卡服務。2006年5月26日，DOCOMO開始提供可在iD上使用的信用卡服務[DCMX](https://zh.wikipedia.org/wiki/DCMX "wikilink")。2009年1月，iD的用戶超過1000萬。DCMX的用戶數也在同年8月24日超過1000萬人。目前，日本各大主要便利店和[麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")、[AEON](../Page/永旺集團.md "wikilink")、[友都八喜等均可使用iD支付](../Page/友都八喜.md "wikilink")。此外，在一些可口可樂的自動售貨機上也能使用iD。
+DOCOMO於2005年12月1日入股[三井住友信用卡公司](../Page/三井住友信用卡.md "wikilink")，並開始提供名為「iD」的非接觸式信用卡服務。2006年5月26日，DOCOMO開始提供可在iD上使用的信用卡服務[DCMX](https://zh.wikipedia.org/wiki/DCMX "wikilink")。2009年1月，iD的用戶超過1000萬。DCMX的用戶數也在同年8月24日超過1000萬人。目前，日本各大主要便利店和[麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")、[AEON](../Page/永旺集團.md "wikilink")、[友都八喜等均可使用iD支付](../Page/友都八喜.md "wikilink")。此外，在一些可口可樂的自動售貨機上也能使用iD。
 
 除此之外，DOCOMO還有提供[網際網絡](https://zh.wikipedia.org/wiki/網際網絡 "wikilink")（ISP），其服務品牌是[mopera和](https://zh.wikipedia.org/wiki/mopera "wikilink")[mopera
 U](https://zh.wikipedia.org/wiki/mopera_U "wikilink")。DOCOMO也有提供名稱是[Mzone的公共無線上網服務](https://zh.wikipedia.org/wiki/Mzone "wikilink")，但需付費。其服務範圍是日本收費公共無線網絡中最大的。2009年3月，Mzone在全日本設置了3000個服務區。

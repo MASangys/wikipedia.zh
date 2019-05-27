@@ -4,8 +4,7 @@ Enviro
 International）生產的3軸雙層巴士，它也是亞歷山大丹尼士製造的其中一款Enviro系列巴士。基於生產底盤的丹尼士與生產車身的亞歷山大已經合併，Enviro
 500被作為[丹尼士三叉戟三型的後繼產品](../Page/丹尼士三叉戟三型.md "wikilink")，Enviro
 500是根據英國政府和[歐洲汽車尾氣排放標準製造](https://zh.wikipedia.org/wiki/歐洲汽車尾氣排放標準 "wikilink")，並按照[香港使用三叉戟型的經驗進行改良](../Page/香港.md "wikilink")，本型巴士後來被進一步發展為[亞歷山大丹尼士Enviro
-500
-MMC](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_500_MMC "wikilink")。
+500 MMC](../Page/亞歷山大丹尼士Enviro_500_MMC.md "wikilink")。
 
 ## 設計
 

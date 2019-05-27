@@ -160,7 +160,7 @@
     Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")）的專屬伴舞團體。（該集後於4月7日播出，也是該組合首次在電視上亮相。）
   - 3月30日，於《[MUSIC
     STATION](../Page/MUSIC_STATION.md "wikilink")》中以組合名義初登場。
-  - 4月7日，傑尼斯Jr.主持的《[裸之少年](https://zh.wikipedia.org/wiki/裸之少年 "wikilink")》開始播出，KAT-TUN成員為節目固定班底；官網上登記此日為正式結成日。
+  - 4月7日，傑尼斯Jr.主持的《[裸之少年](../Page/裸之少年.md "wikilink")》開始播出，KAT-TUN成員為節目固定班底；官網上登記此日為正式結成日。
   - 4月8日，於傑尼斯常態節目《[少年俱樂部](https://zh.wikipedia.org/wiki/少年俱樂部 "wikilink")》初登場。
 
 **2002年**
@@ -254,7 +254,7 @@
 **2010年**
 
   - 1月19日，赤西仁為電影《BANDAGE》主演以及樂隊LANDS的一員在東京[涉谷AX舉行了一夜限定的演唱會](https://zh.wikipedia.org/wiki/涉谷 "wikilink")，2場演出一共吸引了2800名觀眾。
-  - 3月25日，公布除了赤西仁以外的五名團員自5月開始展開日本國內巡迴（10地共21場）；7月中旬展開首度世界巡迴，行程：東京巨蛋（7/16，7/17，7/24，7/25）、泰國（7/31）、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")（8/6，8/7）、[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")（8/21，8/22）、台灣[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")（8/27，8/28）。26日台灣媒體各報多以「KAT-TUN登台
+  - 3月25日，公布除了赤西仁以外的五名團員自5月開始展開日本國內巡迴（10地共21場）；7月中旬展開首度世界巡迴，行程：東京巨蛋（7/16，7/17，7/24，7/25）、泰國（7/31）、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](../Page/首爾.md "wikilink")（8/6，8/7）、[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")（8/21，8/22）、台灣[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")（8/27，8/28）。26日台灣媒體各報多以「KAT-TUN登台
     赤西仁缺席」為標題。\[6\]
   - 5月16日，新聞公布，原訂7月31日在泰國舉行的演唱會，因政情局勢不穩定而取消。
   - 6月13日，在公布售票時間不到一天之內，台灣演唱會發售兩個小時內售票超過九成，並一度癱瘓系統\[7\]，締造國外藝人來台舉辦演唱會售票的銷售新紀錄。
@@ -401,7 +401,7 @@
 （<a href="https://zh.wikipedia.org/wiki/日本放送協會" title="wikilink">NHK</a>、2001年4月－2002年3月）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/裸之少年" title="wikilink">裸の少年</a><br />
+<td><p><a href="../Page/裸之少年.md" title="wikilink">裸の少年</a><br />
 （<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>、2001年4月－07年）</p></td>
 <td><p><br />
 （<a href="https://zh.wikipedia.org/wiki/NHK衛星第2台" title="wikilink">NHK BS2</a>)</p></td>

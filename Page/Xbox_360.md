@@ -1,5 +1,5 @@
 **Xbox
-360**是美國的電腦軟體公司[微軟所發行的第二部家用](https://zh.wikipedia.org/wiki/微軟 "wikilink")[遊戲主機](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")，為[Xbox的後繼機種](https://zh.wikipedia.org/wiki/Xbox "wikilink")。Xbox
+360**是美國的電腦軟體公司[微軟所發行的第二部家用](https://zh.wikipedia.org/wiki/微軟 "wikilink")[遊戲主機](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")，為[Xbox的後繼機種](../Page/Xbox.md "wikilink")。Xbox
 360為[索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[PlayStation
 3和](../Page/PlayStation_3.md "wikilink")[任天堂](../Page/任天堂.md "wikilink")[Wii的市場競爭者](../Page/Wii.md "wikilink")，同為[第七世代遊戲主機](https://zh.wikipedia.org/wiki/電子遊戲歷史#.E7.AC.AC.E4.B8.83.E4.B8.96.E4.BB.A3_.282004.E2.80.93.E7.8F.BE.E4.BB.8A_.29 "wikilink")。Xbox
 360最早於2005年5月12日，在[E3遊戲展前一星期首度曝光](https://zh.wikipedia.org/wiki/E3 "wikilink")，2005年11月22日在[北美地區上市](https://zh.wikipedia.org/wiki/北美地區 "wikilink")，其後擴展至[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[日本地區](../Page/日本.md "wikilink")，而[香港及](../Page/香港.md "wikilink")[台灣也已經於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2006年3月16日正式上市。
@@ -281,7 +281,7 @@ MPEG4/AVC/H.264將於2007年5月春季系統更新後提供支援。
 
 ## 參見
 
-  - [Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")
+  - [Xbox](../Page/Xbox.md "wikilink")
   - [Xbox 360故障問題](../Page/Xbox_360故障問題.md "wikilink")
   - [X06](../Page/X06.md "wikilink")
 

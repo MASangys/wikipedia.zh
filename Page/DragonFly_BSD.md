@@ -23,7 +23,7 @@ API及VFS架構。\[4\]
 ## 發展及發行
 
 DragonFly BSD自FreeBSD 4.8分支後引入了許多FreeBSD 4與5的新功能以及修正，像是FreeBSD
-4所發展的[ACPI及新的](https://zh.wikipedia.org/wiki/ACPI "wikilink")[ATA驅動程式](https://zh.wikipedia.org/wiki/ATA "wikilink")。由於初期DragonFly
+4所發展的[ACPI及新的](https://zh.wikipedia.org/wiki/ACPI "wikilink")[ATA驅動程式](../Page/ATA.md "wikilink")。由於初期DragonFly
 BSD的發展人數不多，而且大多都集中精力在基本架構的修改，所以週邊驅動程式大多都是從FreeBSD 5取得。
 
 如同[OpenBSD](../Page/OpenBSD.md "wikilink")，DragonFly

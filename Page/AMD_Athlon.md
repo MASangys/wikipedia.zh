@@ -108,14 +108,13 @@ II處理器系列的另一選擇。
 另有低功耗Athlon，2014年推出，以廉價及低功耗市場作為定位，4核心、28nm製程及25W[熱設計功耗](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")，整合AMD
 Radeon
 R3[圖形處理器](../Page/圖形處理器.md "wikilink")，整合[北橋和](https://zh.wikipedia.org/wiki/北橋 "wikilink")[南橋](https://zh.wikipedia.org/wiki/南橋 "wikilink")，使用[Socket
-AM1](https://zh.wikipedia.org/wiki/Socket_AM1 "wikilink")[插座](../Page/CPU插座.md "wikilink")。
+AM1](../Page/Socket_AM1.md "wikilink")[插座](../Page/CPU插座.md "wikilink")。
 
 ## Zen Athlon
 
 於2018年推出的Zen
 Athlon，採用[Zen微架構](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")，主要面向低階家用市場，競爭對手是[Pentium](https://zh.wikipedia.org/wiki/Pentium "wikilink")。首款產品Athlon
-200GE採用雙核四執行緒設計。中高階產品則是[AMD
-Ryzen](https://zh.wikipedia.org/wiki/AMD_Ryzen "wikilink")。
+200GE採用雙核四執行緒設計。中高階產品則是[AMD Ryzen](../Page/AMD_Ryzen.md "wikilink")。
 
 ## 优点与缺点
 

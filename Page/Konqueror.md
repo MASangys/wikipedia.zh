@@ -37,7 +37,7 @@ applets、[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、[SSL等相关标
 
 由于Konqueror的模块化特性，[Mozilla的排版引擎](../Page/Mozilla.md "wikilink")[Gecko也可以替换Konqueror的默认引擎KHTML](../Page/Gecko.md "wikilink")，这个功能被称为kmozilla，用户可以通过[kdebindings包来获取](https://zh.wikipedia.org/wiki/kdebindings "wikilink")。
 
-Konqueror还整合了[网络搜索功能](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")，方法是通过引擎缩写（比如[Google就是gg](../Page/Google.md "wikilink")）加上搜索词条。用户也可以添加自己的个人化搜索，先增加一个快捷搜索，比如：
+Konqueror还整合了[网络搜索功能](../Page/搜索引擎.md "wikilink")，方法是通过引擎缩写（比如[Google就是gg](../Page/Google.md "wikilink")）加上搜索词条。用户也可以添加自己的个人化搜索，先增加一个快捷搜索，比如：
 
   -
     `wp:`表示URL `http://www.wikipedia.org/w/wiki.phtml?search=\{@}&go=Go`

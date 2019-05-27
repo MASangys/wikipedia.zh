@@ -47,7 +47,7 @@
 <td><p>1993</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/三個相愛的少年" title="wikilink">三個相愛的少年</a></p></td>
+<td><p><a href="../Page/三個相愛的少年.md" title="wikilink">三個相愛的少年</a></p></td>
 <td><p>香港</p></td>
 <td><p>1994</p></td>
 </tr>
@@ -272,7 +272,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/當我們同在一起" title="wikilink">當我們同在一起</a>（<em>GO GO G-Boys</em>）</p></td>
+<td><p><a href="../Page/當我們同在一起.md" title="wikilink">當我們同在一起</a>（<em>GO GO G-Boys</em>）</p></td>
 <td><p>臺灣</p></td>
 <td><p>2006</p></td>
 </tr>
@@ -402,12 +402,12 @@
 <td><p>2016</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/日常對話" title="wikilink">日常對話</a> (<em>Small Talk</em>)</p></td>
+<td><p><a href="../Page/日常對話.md" title="wikilink">日常對話</a> (<em>Small Talk</em>)</p></td>
 <td><p>臺灣</p></td>
 <td><p>2017</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/阿莉芙" title="wikilink">阿莉芙</a> (<em>Alifu, the Prince/ss</em>)</p></td>
+<td><p><a href="../Page/阿莉芙.md" title="wikilink">阿莉芙</a> (<em>Alifu, the Prince/ss</em>)</p></td>
 <td><p>臺灣</p></td>
 <td><p>2017</p></td>
 </tr>
@@ -417,7 +417,7 @@
 <td><p>2018</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/紅樓夢_(2018年電影)" title="wikilink">紅樓夢</a> (<em>The Story of the Stone</em>)</p></td>
+<td><p><a href="../Page/紅樓夢_(2018年電影).md" title="wikilink">紅樓夢</a> (<em>The Story of the Stone</em>)</p></td>
 <td><p>臺灣</p></td>
 <td><p>2018</p></td>
 </tr>
@@ -538,7 +538,7 @@ __NOTOC__
 
   - 《[電影中的同志](../Page/電影中的同志.md "wikilink")》，美国（1996）
 
-  - 《[愛，上了癮](https://zh.wikipedia.org/wiki/愛，上了癮 "wikilink")》／《[猜·情·尋](https://zh.wikipedia.org/wiki/猜·情·尋 "wikilink")》（）,美国（1997）
+  - 《[愛，上了癮](../Page/愛，上了癮.md "wikilink")》／《[猜·情·尋](https://zh.wikipedia.org/wiki/猜·情·尋 "wikilink")》（）,美国（1997）
 
   - 《[同志們的快樂世界](https://zh.wikipedia.org/wiki/同志們的快樂世界 "wikilink")》（），美国（2000）
 
@@ -662,7 +662,7 @@ __NOTOC__
   - 《[罪孽天使](https://zh.wikipedia.org/wiki/罪孽天使 "wikilink")》／《[夢幻天堂](https://zh.wikipedia.org/wiki/夢幻天堂（电影） "wikilink")》（），新西兰（1994）
   - 《[男慾天堂](https://zh.wikipedia.org/wiki/男慾天堂 "wikilink")》（/），意大利/土耳其/西班牙（1997）
   - 《[绞死人的花园](../Page/绞死人的花园.md "wikilink")》（），英国/加拿大（1997）
-  - [Head On](https://zh.wikipedia.org/wiki/窗外有男天 "wikilink")，澳大利亚（1998）
+  - [Head On](../Page/窗外有男天.md "wikilink")，澳大利亚（1998）
   - 《[粉身碎骨](https://zh.wikipedia.org/wiki/粉身碎骨 "wikilink")》／《[高潮艺术](https://zh.wikipedia.org/wiki/高潮艺术 "wikilink")》／《[高档货](https://zh.wikipedia.org/wiki/高档货 "wikilink")》（），美国（1998）
   - 《[妖型樂與怒](https://zh.wikipedia.org/wiki/妖型樂與怒 "wikilink")》（），美国（2001）
   - 《[冬蔭鐵娘子](https://zh.wikipedia.org/wiki/冬蔭鐵娘子 "wikilink")》（/），泰国（2003）
@@ -698,7 +698,7 @@ __NOTOC__
 
   - 《[-{zh-hk:眾裡尋他遇上她;zh-hans:亲亲杰西卡;zh-tw:誰吻了潔西卡;}-](https://zh.wikipedia.org/wiki/眾裡尋他遇上她 "wikilink")》（），美国（2002）
 
-  - 《[金賽性學教室](https://zh.wikipedia.org/wiki/金賽性學教室 "wikilink")》／《[引人入性](https://zh.wikipedia.org/wiki/引人入性 "wikilink")》，美国（2004）
+  - 《[金賽性學教室](https://zh.wikipedia.org/wiki/金賽性學教室 "wikilink")》／《[引人入性](../Page/引人入性.md "wikilink")》，美国（2004）
 
   - 《[靚佬搵靴著](../Page/靚佬搵靴著.md "wikilink")》，英国/美国（2005）
 
@@ -714,8 +714,7 @@ __NOTOC__
   - 《[英倫末路](https://zh.wikipedia.org/wiki/英倫末路 "wikilink")》（），英国（1987）
 
   - 《[慾望法則](https://zh.wikipedia.org/wiki/慾望法則 "wikilink")》／《[慾望的規條](https://zh.wikipedia.org/wiki/慾望的規條 "wikilink")》（/[Law
-    of
-    Desire](https://zh.wikipedia.org/wiki/慾望之規條 "wikilink")），西班牙（1987）
+    of Desire](../Page/慾望之規條.md "wikilink")），西班牙（1987）
 
   - 《[长期伴侣](https://zh.wikipedia.org/wiki/长期伴侣 "wikilink")》／《[愛是生死相許](https://zh.wikipedia.org/wiki/愛是生死相許 "wikilink")》（），美国（1990）
 
@@ -792,8 +791,7 @@ __NOTOC__
 
   - 《[霓虹心](../Page/霓虹心.md "wikilink")》，瑞典/台灣（2009）
 
-  - 《[我的兄弟情人](https://zh.wikipedia.org/wiki/我的兄弟情人 "wikilink")》（My
-    Bromance），泰国（2013）
+  - 《[我的兄弟情人](../Page/我的兄弟情人.md "wikilink")》（My Bromance），泰国（2013）
 
   - 《[月亮喜歡藍](https://zh.wikipedia.org/wiki/月亮喜歡藍 "wikilink")》(Moonlight)，美國（2016）
 
@@ -830,7 +828,7 @@ __NOTOC__
   - 《[活著就是為了作證](../Page/活著就是為了作證.md "wikilink")》，英国/德国/美国（2000）
 
   - 《[烈焰焚幣](https://zh.wikipedia.org/wiki/烈焰焚幣 "wikilink")》（/[Burnt
-    Money](https://zh.wikipedia.org/wiki/烈燄焚幣 "wikilink")），西班牙/法国/阿根廷/乌拉圭（2000）
+    Money](../Page/烈燄焚幣.md "wikilink")），西班牙/法国/阿根廷/乌拉圭（2000）
 
   - 《[青春夢裡人](https://zh.wikipedia.org/wiki/青春夢裡人 "wikilink")》（/），法国/比利时（2000）
 
@@ -924,8 +922,8 @@ __NOTOC__
 
   - *To Wong Foo, Thank you for Everything\! Julie Newmar*，美国（1995）
 
-  - 《[芬兰汤姆](https://zh.wikipedia.org/wiki/芬兰汤姆_\(电影\) "wikilink")》（*Tom
-    of Finland*），芬兰（2017）
+  - 《[芬兰汤姆](../Page/芬兰汤姆_\(电影\).md "wikilink")》（*Tom of
+    Finland*），芬兰（2017）
 
   - 《[全蚀](https://zh.wikipedia.org/wiki/全蚀 "wikilink")》（*Total
     Eclipse*），美国（1990）
@@ -966,7 +964,7 @@ __NOTOC__
 
 ### W
 
-  - 《[情迷女人心](https://zh.wikipedia.org/wiki/情迷女人心 "wikilink")》／《[夜幕低垂](https://zh.wikipedia.org/wiki/夜幕低垂_\(電影\) "wikilink")》（），加拿大（1995）
+  - 《[情迷女人心](https://zh.wikipedia.org/wiki/情迷女人心 "wikilink")》／《[夜幕低垂](../Page/夜幕低垂_\(電影\).md "wikilink")》（），加拿大（1995）
   - 《[尋找西瓜女](https://zh.wikipedia.org/wiki/尋找西瓜女 "wikilink")》（），美国（1996）
   - 《[迷魂井](https://zh.wikipedia.org/wiki/迷魂井 "wikilink")》（），澳大利亚（1997）
   - 《[心太羈](../Page/心太羈.md "wikilink")》，英国（1997）

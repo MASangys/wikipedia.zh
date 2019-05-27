@@ -104,7 +104,7 @@
   - [機動戰士鋼彈
     雷霆宙域戰線](https://zh.wikipedia.org/wiki/機動戰士鋼彈_雷霆宙域戰線 "wikilink")（)（OVA）
   - [機動戰士鋼彈 Twilight
-    AXIS](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Twilight_AXIS "wikilink")（)（OVA）
+    AXIS](../Page/機動戰士GUNDAM_Twilight_AXIS.md "wikilink")（)（OVA）
 
 ## 未来世纪（Future Century, F.C.）系列作品
 
@@ -235,9 +235,8 @@
   - [模型戰士GUNDAM模型製作家
     起始G](../Page/模型戰士GUNDAM模型製作家_起始G.md "wikilink")（OVA）
   - [鋼彈創鬥者](https://zh.wikipedia.org/wiki/鋼彈創鬥者 "wikilink")（TV）
-  - [GUNDAM創戰者TRY](https://zh.wikipedia.org/wiki/GUNDAM創戰者TRY "wikilink")(TV)
-  - [鋼彈創鬥者
-    潛網大戰](https://zh.wikipedia.org/wiki/鋼彈創鬥者_潛網大戰 "wikilink")（TV）
+  - [GUNDAM創戰者TRY](../Page/GUNDAM創戰者TRY.md "wikilink")(TV)
+  - [鋼彈創鬥者 潛網大戰](../Page/鋼彈創鬥者_潛網大戰.md "wikilink")（TV）
   - [鋼彈EXA](https://zh.wikipedia.org/wiki/鋼彈EXA "wikilink")
 
 ## 其他系列作品

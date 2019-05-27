@@ -515,10 +515,10 @@ Libraries包含了一組函式庫](../Page/Boost_C++_Libraries.md "wikilink")，
     适合于人类使用的HTTP库，封装了许多繁琐的HTTP功能，极大地简化了HTTP请求所需要的代码量。
   - scikit-learn
     [機器學習第三方库](https://zh.wikipedia.org/wiki/機器學習 "wikilink")，實現許多知名的機器學習演算法。
-  - [TensorFlow](https://zh.wikipedia.org/wiki/TensorFlow "wikilink")
+  - [TensorFlow](../Page/TensorFlow.md "wikilink")
     [Google开发维护的](../Page/Google.md "wikilink")[开源机器学习库](https://zh.wikipedia.org/wiki/开源 "wikilink")。
-  - [Keras](https://zh.wikipedia.org/wiki/Keras "wikilink")
-    基於[TensorFlow](https://zh.wikipedia.org/wiki/TensorFlow "wikilink")，[Theano與](https://zh.wikipedia.org/wiki/Theano "wikilink")[CNTK的高階](https://zh.wikipedia.org/wiki/CNTK "wikilink")[神經網路](https://zh.wikipedia.org/wiki/神經網路 "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink")。
+  - [Keras](../Page/Keras.md "wikilink")
+    基於[TensorFlow](../Page/TensorFlow.md "wikilink")，[Theano與](https://zh.wikipedia.org/wiki/Theano "wikilink")[CNTK的高階](https://zh.wikipedia.org/wiki/CNTK "wikilink")[神經網路](https://zh.wikipedia.org/wiki/神經網路 "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink")。
   - [SQLAlchemy](../Page/SQLAlchemy.md "wikilink")
     [关系型数据库的](https://zh.wikipedia.org/wiki/关系型数据库 "wikilink")[对象关系映射](../Page/对象关系映射.md "wikilink")(ORM)工具
 
@@ -707,13 +707,13 @@ Python是一门跨平台的脚本语言，Python规定了一个Python语法规�
 
 适用于Python的[集成开发环境](../Page/集成开发环境.md "wikilink")（IDE）软件，除了标准二进制发布包所附的IDLE之外，还有许多其他选择。其中有些软件设计有语法着色、语法检查、运行[调试](https://zh.wikipedia.org/wiki/调试 "wikilink")、自动补全、智能感知等便利功能。由于Python的[跨平台出身](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，这些软件往往也具备各种操作系统的版本或一定的移植性。
 
-  - [Anaconda](https://zh.wikipedia.org/wiki/Anaconda_\(Python发行版\) "wikilink")：适用于windows和Linux等多个平台，采用conda对其包管理，随软件打包了许多科学计算的第三方Python库。
+  - [Anaconda](../Page/Anaconda_\(Python发行版\).md "wikilink")：适用于windows和Linux等多个平台，采用conda对其包管理，随软件打包了许多科学计算的第三方Python库。
   - [Eric](../Page/Eric_Python_IDE.md "wikilink")：基于[PyQt的自由软件](../Page/PyQt.md "wikilink")。支持自动补全、智能感知、自动语法检查、工程管理、svn/mercurial集成、自动单元测试等功能，具有可扩展的插件系统，通过可选插件支持[Git集成](../Page/Git.md "wikilink")。调试功能与Visual
     Studio和Eclipse类似。目前版本为Eric6，可同时支持Python2.x和Python3.x，以及PyQt4和PyQt5。使用前需要先安装相应的Python和PyQt版本。
   - IDLE：Python“标准”IDE。一般随Python而安装，支持较少的编辑功能。调试功能也比较弱。
   - [Komodo和](https://zh.wikipedia.org/wiki/Komodo "wikilink")[Komodo
     Edit](https://zh.wikipedia.org/wiki/Komodo_Edit "wikilink")：后者是前者的免费精简版。也可以用于PHP，Ruby，Javascript，Perl，Web和云开发。
-  - [PyCharm](https://zh.wikipedia.org/wiki/PyCharm "wikilink")：由[JetBrains打造](../Page/JetBrains.md "wikilink")，该公司的Java
+  - [PyCharm](../Page/PyCharm.md "wikilink")：由[JetBrains打造](../Page/JetBrains.md "wikilink")，该公司的Java
     IDE软件IntelliJ（此软件也有Python开发插件）拥有海量的使用者；PyCharm具备一般IDE的功能，比如，调试、语法高亮、Project管理、代码跳转、智能提示、自动完成、单元测试、版本控制等等，同时另外，PyCharm还提供了一些很好的功能用于Django开发，同时支持[Google
     App
     Engine](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")，PyCharm也支持IronPython。PyCharm是商业软件，但也具有社区版和教育版。
@@ -766,8 +766,8 @@ Python是一门跨平台的脚本语言，Python规定了一个Python语法规�
 
 ## 社群
 
-  - [PyCon](https://zh.wikipedia.org/wiki/PyCon "wikilink")
-    是各地社群舉辦的會議，通常每年舉辦。各社群在會議中討論 Python 相關的議題。
+  - [PyCon](../Page/PyCon.md "wikilink") 是各地社群舉辦的會議，通常每年舉辦。各社群在會議中討論
+    Python 相關的議題。
   - 台灣 Python 社群由 2012 年起舉辦 [PyCon
     TW](https://zh.wikipedia.org/wiki/台灣_Python_年會 "wikilink")。
   - 由女性社群發起的  社群，主要注重於發展 Python 的女性程式設計社群。
@@ -802,7 +802,7 @@ Python是一门跨平台的脚本语言，Python规定了一个Python语法规�
 ## 参见
 
   - [整合開發環境列表](../Page/整合開發環境列表.md "wikilink")
-  - [编程语言列表](https://zh.wikipedia.org/wiki/编程语言列表 "wikilink")
+  - [编程语言列表](../Page/编程语言列表.md "wikilink")
   - [越位规则](../Page/越位规则.md "wikilink")
 
 {{-}}

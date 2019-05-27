@@ -27,7 +27,7 @@ km/h。2006年8月2日停运，存放於沈阳车辆段，直至2009年底或201
 
 2013年2月27日，据铁道部科技司科技装电【2013】23号电报要求及沈阳动车段申请，停留于沈阳北动车所的DJJ<sub>2</sub>0001B+RZ2
 25DT 110982+RZ2 25DT 110981酒吧车+RZ1 25DT
-110978共计4辆车体被无火回送至[中国铁道博物馆](../Page/中国铁道博物馆.md "wikilink")。DJJ<sub>2</sub>0001A号动力车现保存於[沈阳铁路陈列馆](https://zh.wikipedia.org/wiki/沈阳铁路陈列馆 "wikilink")。
+110978共计4辆车体被无火回送至[中国铁道博物馆](../Page/中国铁道博物馆.md "wikilink")。DJJ<sub>2</sub>0001A号动力车现保存於[沈阳铁路陈列馆](../Page/沈阳铁路陈列馆.md "wikilink")。
 
 ## 技术特点
 
@@ -231,7 +231,7 @@ DJJ<sub>2</sub>型“中华之星”电力动车组为动力集中方式的推�
 
   - [中國動車組列表](../Page/中國動車組列表.md "wikilink")
   - [新時速藍箭列車](https://zh.wikipedia.org/wiki/新時速藍箭列車 "wikilink")
-  - [复兴号CR400BF型电力动车组](https://zh.wikipedia.org/wiki/复兴号CR400BF型电力动车组 "wikilink")
+  - [复兴号CR400BF型电力动车组](../Page/复兴号CR400BF型电力动车组.md "wikilink")
   - [上海磁浮示範運營線](https://zh.wikipedia.org/wiki/上海磁浮示範運營線 "wikilink")
 
 {{-}}

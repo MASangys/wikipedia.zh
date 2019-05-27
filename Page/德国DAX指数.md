@@ -6,7 +6,7 @@
 |                                   概要                                    |
 |                                **發行日期**                                 |
 |   **[識別代碼](https://zh.wikipedia.org/wiki/:en:ISO_10383 "wikilink")**    |
-|     **[FX識別代碼](https://zh.wikipedia.org/wiki/金融資訊交換協定 "wikilink")**     |
+|              **[FX識別代碼](../Page/金融資訊交換協定.md "wikilink")**               |
 |                                  交易所資訊                                  |
 |                                **交易所全銜**                                |
 | **[交易所BIC識別代碼](https://zh.wikipedia.org/wiki/:en:ISO_9362 "wikilink")** |
@@ -59,14 +59,14 @@ Aktienindex）。1988年7月1日起开始正式交易，基准点为1000点。�
     Technologies AG，半导体制造）
   - [K+S](https://zh.wikipedia.org/wiki/K+S "wikilink")（K+S
     Aktiengesellschaft采矿业）
-  - [林德](https://zh.wikipedia.org/wiki/林德集团 "wikilink")（Linde AG，化工）
+  - [林德](../Page/林德集团.md "wikilink")（Linde AG，化工）
   - [汉莎航空](../Page/汉莎航空.md "wikilink")（Lufthansa AG，航空运输）
   - [MAN](https://zh.wikipedia.org/wiki/奥格斯堡-纽伦堡机械制造厂 "wikilink")（Man
     SE,汽车及机械制造）
   - [默克合资股份公司](https://zh.wikipedia.org/wiki/默克合资股份公司 "wikilink")（Merck
     KGaA，化工制药）
   - [麦德龙](../Page/麦德龙.md "wikilink")（Metro AG，商品零售）
-  - [慕尼黑再保险](https://zh.wikipedia.org/wiki/慕尼黑再保险 "wikilink")（ Münchener
+  - [慕尼黑再保险](../Page/慕尼黑再保险.md "wikilink")（ Münchener
     Rückversicherungs-Ges. AG，保险）
   - [RWE](https://zh.wikipedia.org/wiki/RWE "wikilink")（RWE AG，能源）
   - [海德堡水泥](../Page/海德堡水泥.md "wikilink")（HeidelbergCement AG，水泥、骨料）

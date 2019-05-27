@@ -1,4 +1,4 @@
-**XnView**為一款支持圖片瀏覽、轉換和編輯的[多平台軟體](https://zh.wikipedia.org/wiki/多平台軟體 "wikilink")。该软件支持改變[用戶界面](https://zh.wikipedia.org/wiki/用戶界面 "wikilink")[語言以及自定义](https://zh.wikipedia.org/wiki/語言 "wikilink")[工具栏](../Page/工具栏.md "wikilink")[按鈕与](https://zh.wikipedia.org/wiki/按鈕 "wikilink")[面板](https://zh.wikipedia.org/wiki/面板 "wikilink")。它支援讀取超過500種的[圖檔格式及部份](https://zh.wikipedia.org/wiki/圖檔格式 "wikilink")[音频文件格式及](../Page/音频文件格式.md "wikilink")[视频文件格式](../Page/视频文件格式.md "wikilink")，亦支援寫入50種圖片格式。提供免費的個人使用及簡易操作。可將壓縮檔以資料夾方式開啟、依[EXIF及](../Page/EXIF.md "wikilink")[IPTC作圖片搜尋](https://zh.wikipedia.org/wiki/IPTC "wikilink")、圖片相似比對、對圖片作[批次命名](https://zh.wikipedia.org/wiki/批次命名 "wikilink")、格式轉換及套用影像調整，並支援[無損耗旋轉](https://zh.wikipedia.org/wiki/JPEG#無損耗旋轉_\(lossless_JPEG_rotation\) "wikilink")。類似功能之[軟體有](https://zh.wikipedia.org/wiki/軟體 "wikilink")[ACDSee等](../Page/ACDSee.md "wikilink")。
+**XnView**為一款支持圖片瀏覽、轉換和編輯的[多平台軟體](https://zh.wikipedia.org/wiki/多平台軟體 "wikilink")。该软件支持改變[用戶界面](https://zh.wikipedia.org/wiki/用戶界面 "wikilink")[語言以及自定义](../Page/語言.md "wikilink")[工具栏](../Page/工具栏.md "wikilink")[按鈕与](https://zh.wikipedia.org/wiki/按鈕 "wikilink")[面板](https://zh.wikipedia.org/wiki/面板 "wikilink")。它支援讀取超過500種的[圖檔格式及部份](https://zh.wikipedia.org/wiki/圖檔格式 "wikilink")[音频文件格式及](../Page/音频文件格式.md "wikilink")[视频文件格式](../Page/视频文件格式.md "wikilink")，亦支援寫入50種圖片格式。提供免費的個人使用及簡易操作。可將壓縮檔以資料夾方式開啟、依[EXIF及](../Page/EXIF.md "wikilink")[IPTC作圖片搜尋](https://zh.wikipedia.org/wiki/IPTC "wikilink")、圖片相似比對、對圖片作[批次命名](https://zh.wikipedia.org/wiki/批次命名 "wikilink")、格式轉換及套用影像調整，並支援[無損耗旋轉](https://zh.wikipedia.org/wiki/JPEG#無損耗旋轉_\(lossless_JPEG_rotation\) "wikilink")。類似功能之[軟體有](https://zh.wikipedia.org/wiki/軟體 "wikilink")[ACDSee等](../Page/ACDSee.md "wikilink")。
 
 ## XnView MP
 
@@ -8,7 +8,7 @@ MP是该软件的跨平台版本，支持[Windows](https://zh.wikipedia.org/wiki
 ## 特性
 
 XnView兼容了著名看图软件[ACDSee的图片注释方法](../Page/ACDSee.md "wikilink")，即在图片文件夹下新建一个隐藏的文本文件，名为
-[Descript.ion](https://zh.wikipedia.org/wiki/Descript.ion "wikilink")，将逐个图片的注释存储在这一文件，并能够在图片浏览和查看时显示。
+[Descript.ion](../Page/Descript.ion.md "wikilink")，将逐个图片的注释存储在这一文件，并能够在图片浏览和查看时显示。
 
 格式如下：
 

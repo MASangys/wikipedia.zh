@@ -10,7 +10,7 @@ NT**是一种纯[32位操作系统](https://zh.wikipedia.org/wiki/32位 "wikilin
 ## 名字由来
 
 有说法认为，NT一名源自原NT首席领导者[戴夫·卡特勒](../Page/戴夫·卡特勒.md "wikilink")，曾经开发过[OpenVMS系统的他将](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")“VMS”一词，利用[恺撒密码原理将每个字母向前递增一位](https://zh.wikipedia.org/wiki/恺撒密码 "wikilink")，使之成为“WNT”\[1\]。但NT的其中一名原设计师[馬克·洛考夫斯基曾提到](https://zh.wikipedia.org/wiki/馬克·洛考夫斯基 "wikilink")，NT一名源自该系统的目标处理器，代号为“N-Ten”的处理器\[2\]。
-在1998年[比尔·盖茨的一次问答环节上](../Page/比尔·盖茨.md "wikilink")，他透露“NT”一词曾经以[逆向首字母缩略词的形式派生为](https://zh.wikipedia.org/wiki/逆向首字母缩略词 "wikilink")“新技术”（New
+在1998年[比尔·盖茨的一次问答环节上](../Page/比尔·盖茨.md "wikilink")，他透露“NT”一词曾经以[逆向首字母缩略词的形式派生为](../Page/逆向首字母缩略词.md "wikilink")“新技术”（New
 Technology）之意，但现已不再包含任何特定意义\[3\]。尽管微软对于NT架构的系统产品仍描述为“基于NT技术”（Built on NT
 Technology），但自[Windows
 2000之后基于NT架构的系统均抛弃了](../Page/Windows_2000.md "wikilink")“NT”一词\[4\]。
@@ -31,7 +31,7 @@ NT皆為32位元版本的，第一版64位元的Windows NT首先用於64位元�
 XP](https://zh.wikipedia.org/wiki/Windows_XP版本列表#64.E4.BD.8D.E7.89.88 "wikilink")。
 
 Windows
-NT採用的核心是屬於[混合核心](https://zh.wikipedia.org/wiki/混合核心 "wikilink")。其體系結構包括簡單內核、[硬體抽象層](../Page/硬體抽象層.md "wikilink")（HAL）、驅動程式、服務（總稱為執行體）,
+NT採用的核心是屬於[混合核心](../Page/混合核心.md "wikilink")。其體系結構包括簡單內核、[硬體抽象層](../Page/硬體抽象層.md "wikilink")（HAL）、驅動程式、服務（總稱為執行體）,
 這些均屬於核心模式。用戶模式下的程式與子系統僅能存取其可存取的資源，核心模式下的程式則可以存取所有資源與外部裝置。
 
 ## 各發佈版本
@@ -194,7 +194,7 @@ Terminal Server、Embedded</p></td>
 </tr>
 <tr class="odd">
 <td><p>NT 10.0</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 <td><p>个人使用：家庭版（包括S模式的家庭版）[6]、专业版（包括S模式的专业版）[7]、专业工作站版 商用：企业版、教育版、专业教育版（包括S模式的专业教育版）[8]</p>
 <p>移动设备：移动版、移动企业版</p>
 <p>物联网设备：Windows 10 IoT</p></td>
@@ -217,7 +217,7 @@ Terminal Server、Embedded</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_Server_2019" title="wikilink">Windows Server 2019</a></p></td>
+<td><p><a href="../Page/Windows_Server_2019.md" title="wikilink">Windows Server 2019</a></p></td>
 <td><p>Essentials、Standard、Datacenter</p></td>
 <td><p>2018年10月2日</p></td>
 <td><p>17763</p></td>

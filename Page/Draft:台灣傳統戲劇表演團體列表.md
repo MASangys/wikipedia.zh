@@ -172,7 +172,7 @@
 
 ## [偶戲](https://zh.wikipedia.org/wiki/偶戲 "wikilink")
 
-### [布袋戲](https://zh.wikipedia.org/wiki/臺灣布袋戲 "wikilink")（掌中戲）
+### [布袋戲](../Page/臺灣布袋戲.md "wikilink")（掌中戲）
 
   - 王藝明掌中劇團
   - 古都木偶戲劇團\[2\]
@@ -323,7 +323,7 @@
 ### 南北管戲類
 
   - [漢唐樂府](https://zh.wikipedia.org/wiki/漢唐樂府 "wikilink")
-  - [心心南管樂坊](https://zh.wikipedia.org/wiki/王心心 "wikilink")
+  - [心心南管樂坊](../Page/王心心.md "wikilink")
   - [拾念劇集](https://zh.wikipedia.org/wiki/拾念劇集 "wikilink")
   - [集思小劇坊](https://zh.wikipedia.org/wiki/集思小劇坊 "wikilink")
 
@@ -336,7 +336,7 @@
 
 ### 偶戲類
 
-  - [三昧堂創意木偶團隊](https://zh.wikipedia.org/wiki/三昧堂創意木偶團隊 "wikilink")
+  - [三昧堂創意木偶團隊](../Page/三昧堂創意木偶團隊.md "wikilink")
   - [影子傳奇劇團](https://zh.wikipedia.org/wiki/影子傳奇劇團 "wikilink")
   - [錦飛鳳傀儡戲劇團](https://zh.wikipedia.org/wiki/錦飛鳳傀儡戲劇團 "wikilink")
 

@@ -139,7 +139,7 @@ y1c`。插入完所有数字后，留下来的数字中的最大值为`en1cy1c4l
 
   - ：[GNU的文档处理系统](../Page/GNU.md "wikilink")
 
-  - [ Live](https://zh.wikipedia.org/wiki/TeX_Live "wikilink")
+  - [ Live](../Page/TeX_Live.md "wikilink")
 
   - [](../Page/XeTeX.md "wikilink")
 

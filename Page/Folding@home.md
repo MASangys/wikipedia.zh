@@ -65,7 +65,7 @@ units），即一種存有實驗資料的數據包，根據實驗資料進行計
 
 ## 分析軟體
 
-Folding@home的用戶端利用了經修改的、[GROMACS](https://zh.wikipedia.org/wiki/GROMACS "wikilink")、[AMBER及](https://zh.wikipedia.org/wiki/AMBER "wikilink")這四款分子模擬程式進行運算，並會在許可的情況下作出優化，以把運算速度加快。這四款模擬程式也被修改成多個不同版本，供多款作業平台使用，每款程式的變體會以編號“Core
+Folding@home的用戶端利用了經修改的、[GROMACS](../Page/GROMACS.md "wikilink")、[AMBER及](https://zh.wikipedia.org/wiki/AMBER "wikilink")這四款分子模擬程式進行運算，並會在許可的情況下作出優化，以把運算速度加快。這四款模擬程式也被修改成多個不同版本，供多款作業平台使用，每款程式的變體會以編號“Core
 xx”作分類。
 
 ### 現役內核

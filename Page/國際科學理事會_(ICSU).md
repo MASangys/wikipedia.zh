@@ -7,7 +7,7 @@ ICSU）和](../Page/國際科學理事會_\(ICSU\).md "wikilink")[国际社会�
 Social Science
 Council，ISSC）于](../Page/国际社会科学理事会.md "wikilink")2018年合并为[國際科學理事會（International
 Science
-Council,ISC）](https://zh.wikipedia.org/wiki/國際科學理事會_\(ISC\) "wikilink")。\[1\]\[2\]\[3\]
+Council,ISC）](../Page/國際科學理事會_\(ISC\).md "wikilink")。\[1\]\[2\]\[3\]
 
 ## 歷史與宗旨
 

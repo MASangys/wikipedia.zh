@@ -2,7 +2,7 @@
 是[任天堂于](../Page/任天堂.md "wikilink")2001年在日本和北美、2002年在欧洲和澳洲发布的[家用游戏机](../Page/家用游戏机.md "wikilink")。任天堂GameCube为[任天堂64的后继机种](../Page/任天堂64.md "wikilink")，并与其他[第六世代遊戲機](../Page/第六世代遊戲機.md "wikilink")：[索尼電腦娛樂的](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[PlayStation
 2和](../Page/PlayStation_2.md "wikilink")[微软的](../Page/微软.md "wikilink")[Xbox竞争](../Page/Xbox_\(遊戲機\).md "wikilink")。
 
-任天堂GameCube是第一款使用[光盘作为其主要存储介质的任天堂游戏机](https://zh.wikipedia.org/wiki/光盘 "wikilink")。它所使用的光盘尺寸类似于[miniDVD](https://zh.wikipedia.org/wiki/miniDVD "wikilink")。受限于游戏机的光盘舱大小，该系统不能用于播放标准[DVD或](https://zh.wikipedia.org/wiki/DVD "wikilink")[音频CD](https://zh.wikipedia.org/wiki/音频CD "wikilink")。该主机可以通过[寬帶适配器或](https://zh.wikipedia.org/wiki/寬帶 "wikilink")[數據機游玩一些支持在线功能的游戏](https://zh.wikipedia.org/wiki/數據機 "wikilink")。还可以通过[GBA傳輸線连接到](https://zh.wikipedia.org/wiki/GBA傳輸線 "wikilink")[Game
+任天堂GameCube是第一款使用[光盘作为其主要存储介质的任天堂游戏机](https://zh.wikipedia.org/wiki/光盘 "wikilink")。它所使用的光盘尺寸类似于[miniDVD](https://zh.wikipedia.org/wiki/miniDVD "wikilink")。受限于游戏机的光盘舱大小，该系统不能用于播放标准[DVD或](https://zh.wikipedia.org/wiki/DVD "wikilink")[音频CD](https://zh.wikipedia.org/wiki/音频CD "wikilink")。该主机可以通过[寬帶适配器或](https://zh.wikipedia.org/wiki/寬帶 "wikilink")[數據機游玩一些支持在线功能的游戏](https://zh.wikipedia.org/wiki/數據機 "wikilink")。还可以通过[GBA傳輸線连接到](../Page/GBA傳輸線.md "wikilink")[Game
 Boy Advance](../Page/Game_Boy_Advance.md "wikilink")，允许玩家使用Game Boy
 Advance作为游戏的第二屏幕或作为游戏的控制器来控制支持的游戏并实现其他一些特殊功能。
 
@@ -30,7 +30,7 @@ ATI收购ArtX的一位ATI发言人说：“ATI现在通过任天堂成为游戏�
 在任天堂GameCube发布之前，任天堂集中资源推出了[Game Boy
 Advance](../Page/Game_Boy_Advance.md "wikilink")。结果，几款原本为[任天堂64游戏机设计的游戏被推迟](../Page/任天堂64.md "wikilink")，转而在GameCube作为首发游戏来开发。最后一款任天堂64第一方游戏于2001年5月发布，这时距离Game
 Boy
-Advance发布只有一个月，距离GameCube发布还有六个月，显示了该公司的开发资源的转移。同时，任天堂也正在为GameCube开发游戏，设计为可以通过[特殊电缆连接Game](https://zh.wikipedia.org/wiki/GBA傳輸線 "wikilink")
+Advance发布只有一个月，距离GameCube发布还有六个月，显示了该公司的开发资源的转移。同时，任天堂也正在为GameCube开发游戏，设计为可以通过[特殊电缆连接Game](../Page/GBA傳輸線.md "wikilink")
 Boy Advance来将其当做游戏的控制器和第二屏幕，比如《[薩爾達傳說
 四人之劍%2B](https://zh.wikipedia.org/wiki/薩爾達傳說_四人之劍%2B "wikilink")》和《[最终幻想水晶编年史](../Page/最终幻想水晶编年史.md "wikilink")》。\[21\]\[22\]
 
@@ -65,7 +65,7 @@ MHz，除了图形外，还处理音频和[I/O并管理其他任务](https://zh.
 GameCube引入了专有的[miniDVD光盘格式作为主机的存储介质](https://zh.wikipedia.org/wiki/miniDVD "wikilink")，其能够存储高达1.5
 GB的数据。 \[42\]
 该光盘由[松下电器产业](https://zh.wikipedia.org/wiki/松下电器产业株式会社 "wikilink")（现松下电器产业株式会社）采用专有复制保护方案设计，该标准与标准[DVD中为防止未经授权的复制而设计的](https://zh.wikipedia.org/wiki/DVD "wikilink")[内容扰乱系统不同](https://zh.wikipedia.org/wiki/内容扰乱系统 "wikilink")（CSS）。\[43\]任天堂在它发布的、[FC磁碟機](../Page/FC磁碟機.md "wikilink")、和[64DD中试验了各种互补存储技术](../Page/64DD.md "wikilink")，GameCube是任天堂的首款完全基于媒体的主机。\[44\]GameCube的1.5英寸miniDVD光盘有足够的空间供大多数游戏使用，不过仍有少数游戏需要额外的光盘来存储更多的数据，或使用更高的视频压缩率或删除其他游戏机版本中的内容。相比之下，[PlayStation
-2和](../Page/PlayStation_2.md "wikilink")[Xbox以及其他第六世代主机都使用](https://zh.wikipedia.org/wiki/Xbox "wikilink")8.5
+2和](../Page/PlayStation_2.md "wikilink")[Xbox以及其他第六世代主机都使用](../Page/Xbox.md "wikilink")8.5
 GB的。
 
 就像它的前任任天堂64一样，GameCube主机也有几种不同颜色的机型。该主机以靛蓝色发布，但广告和徽标中主要使用太空灰色。\[45\]
@@ -114,7 +114,7 @@ Q于2001年12月在日本独家发售，但因其销售量过低导致Q在2003�
 
 截止到2007年GameCube的整个使用寿命期间，GameCube共发布了600多款游戏。\[64\]\[65\]
 
-任天堂传统上以发布创新的第一方游戏而闻名，其中最着名的是《[超级马里奥](../Page/超级马里奥系列.md "wikilink")》和《[薩爾達傳說系列](../Page/薩爾達傳說系列.md "wikilink")》。这些第一方游戏系列在GameCube上开发了续作，增加了GameCube的流行度。作为游戏发行商，任天堂还专注于为GameCube开发新的游戏系列，比如《[皮克敏](https://zh.wikipedia.org/wiki/皮克敏 "wikilink")》和《[动物之森](https://zh.wikipedia.org/wiki/动物之森系列 "wikilink")》，并且更新了一些跳过N64平台的游戏，最着名的是[銀河戰士系列](../Page/銀河戰士系列.md "wikilink")，在GameCube上发行了续作《[银河战士Prime](../Page/银河战士Prime.md "wikilink")》。这款游戏机上广受好评的《[薩爾達傳說
+任天堂传统上以发布创新的第一方游戏而闻名，其中最着名的是《[超级马里奥](../Page/超级马里奥系列.md "wikilink")》和《[薩爾達傳說系列](../Page/薩爾達傳說系列.md "wikilink")》。这些第一方游戏系列在GameCube上开发了续作，增加了GameCube的流行度。作为游戏发行商，任天堂还专注于为GameCube开发新的游戏系列，比如《[皮克敏](../Page/皮克敏.md "wikilink")》和《[动物之森](../Page/动物之森系列.md "wikilink")》，并且更新了一些跳过N64平台的游戏，最着名的是[銀河戰士系列](../Page/銀河戰士系列.md "wikilink")，在GameCube上发行了续作《[银河战士Prime](../Page/银河战士Prime.md "wikilink")》。这款游戏机上广受好评的《[薩爾達傳說
 風之律動](../Page/薩爾達傳說_風之律動.md "wikilink")》和《[阳光马里奥](../Page/阳光马里奥.md "wikilink")》也获得了成功，并且它的畅销游戏《[任天堂明星大亂鬥DX](https://zh.wikipedia.org/wiki/任天堂明星大亂鬥DX "wikilink")》在全球售出700万份。尽管任天堂对其游戏库的承诺，但因为在主机的初期没有提供足够的游戏，它仍然受到一些人的批评。
 
 早在其历史上，任天堂在[红白机和](../Page/红白机.md "wikilink")[超級任天堂上的第三方开发者支持方面取得了相当大的成功](../Page/超級任天堂.md "wikilink")。但20世纪90年代的[Mega
@@ -131,18 +131,18 @@ N64一个都没有。GameCube引入的新光盘格式显着提高了容量并降
 一共有八个GameCube游戏支持网络连接。其中五个支持[互联网连接](../Page/互联网.md "wikilink")，三个支持[局域网连接](../Page/局域网.md "wikilink")。\[70\]\[71\]
 在西方国家发售的支持网络连接的游戏只有三款：由世嘉开发的[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")[梦幻之星系列的](../Page/梦幻之星系列.md "wikilink")《[梦幻之星在线](https://zh.wikipedia.org/wiki/梦幻之星在线 "wikilink")》、《梦幻之星在线第一和二章》和《》。\[72\]
 这些游戏的官方服务器在2007年关闭，但玩家仍然可以连接到由游戏粉丝维护的[私人伺服器](../Page/私人伺服器.md "wikilink")。\[73\]\[74\]
-日本除了以上的三款游戏还发售了另外两款支持网络连接的游戏：一款[合作模式](https://zh.wikipedia.org/wiki/合作游戏模式 "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")：
+日本除了以上的三款游戏还发售了另外两款支持网络连接的游戏：一款[合作模式](../Page/合作游戏模式.md "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")：
 《》和一款拥有可下载内容的棒球游戏：《Jikkyō Powerful Pro Yakyū
 10》。\[75\]\[76\]最后，还有三款[竞速游戏具有局域网多人游戏模式](https://zh.wikipedia.org/wiki/竞速游戏 "wikilink")：《[1080°雪崩](../Page/1080°雪崩.md "wikilink")》，《》和《[马里奥赛车
 双重冲击！！](../Page/马里奥赛车_双重冲击！！.md "wikilink")》。这三款游戏也可以通过第三方[个人电脑软件在网络上强制执行](../Page/个人电脑.md "wikilink")[隧道协议来转发GameCube的网络以达到互联网上游戏的功能](../Page/隧道协议.md "wikilink")。\[77\]\[78\]
 
-要在线游玩这些游戏，玩家必须在他们的主机中安装官方的[宽带或](https://zh.wikipedia.org/wiki/宽带 "wikilink")[调制解调器适配器](../Page/调制解调器.md "wikilink")，因为GameCube没有[开箱即用的网络功能](https://zh.wikipedia.org/wiki/开箱即用 "wikilink")。任天堂从未部署任何服务器或互联网服务与主机进行交互，但允许其他发布商这样做，并让他们负责管理其游戏的在线体验。\[79\]
+要在线游玩这些游戏，玩家必须在他们的主机中安装官方的[宽带或](https://zh.wikipedia.org/wiki/宽带 "wikilink")[调制解调器适配器](../Page/调制解调器.md "wikilink")，因为GameCube没有[开箱即用的网络功能](../Page/开箱即用.md "wikilink")。任天堂从未部署任何服务器或互联网服务与主机进行交互，但允许其他发布商这样做，并让他们负责管理其游戏的在线体验。\[79\]
 
 ## 评价
 
 任天堂GameCube推出后普遍获得正面评价。《》赞扬了推出时游戏机的整体硬件设计和质量。\[80\][CNET给出了一般的评价](../Page/CNET.md "wikilink")，并指出虽然游戏机缺乏其竞争对手提供的一些功能，但相对便宜，拥有出色的控制器设计，并推出了十分体面的游戏阵容。\[81\]
 在接下来的评论中，批评通常集中在整体外观和感觉上，并将其描述为十分“玩具感”。\[82\]\[83\]
-在糟糕的销售数字和与任天堂相关的经济损失中，一篇[時代雜誌的文章称GameCube为](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")“无法逾越的灾难”。\[84\]
+在糟糕的销售数字和与任天堂相关的经济损失中，一篇[時代雜誌的文章称GameCube为](../Page/時代雜誌.md "wikilink")“无法逾越的灾难”。\[84\]
 
 回顾起来，Joystiq将GameCube的推出时间与其后继者Wii进行了比较，指出GameCube因缺乏游戏导致销量欠佳，并且游戏机被限制的在线游戏功能长期损害了其市场份额。\[85\]
 《时代国际》认为该主机的销量过低的原因是因为它缺乏“技术创新”。\[86\]
@@ -186,13 +186,13 @@ franchises）的销售量远远低于其竞争对手PlayStation
 
 ### 遗产
 
-GameCube上发布的许多游戏，比如《[皮克敏](https://zh.wikipedia.org/wiki/皮克敏 "wikilink")》和《》后来成为任天堂的热门游戏，同时还有一些游戏在后来也衍生出多个子系列，如《[银河战士Prime](../Page/银河战士Prime.md "wikilink")》和《[路易吉洋樓](../Page/路易吉洋樓.md "wikilink")》。\[114\]
+GameCube上发布的许多游戏，比如《[皮克敏](../Page/皮克敏.md "wikilink")》和《》后来成为任天堂的热门游戏，同时还有一些游戏在后来也衍生出多个子系列，如《[银河战士Prime](../Page/银河战士Prime.md "wikilink")》和《[路易吉洋樓](../Page/路易吉洋樓.md "wikilink")》。\[114\]
 
 ## 另见
 
   - [Dolphin (模擬器)](../Page/Dolphin_\(模擬器\).md "wikilink")
 
-  - [畅销任天堂GameCube游戏列表](https://zh.wikipedia.org/wiki/畅销任天堂GameCube游戏列表 "wikilink")
+  - [畅销任天堂GameCube游戏列表](../Page/畅销任天堂GameCube游戏列表.md "wikilink")
 
   -
   -

@@ -115,8 +115,7 @@ Microsoft在Windows 95 OSR2（OEM Service Release 2）中部分删除了对文�
   - [作業系統列表](https://zh.wikipedia.org/wiki/作業系統列表 "wikilink")
   - [微軟作業系統列表](../Page/微軟作業系統列表.md "wikilink")
   - [微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")
-  - [Windows 95
-    开发历史](https://zh.wikipedia.org/wiki/Windows_95开发历史 "wikilink")
+  - [Windows 95 开发历史](../Page/Windows_95开发历史.md "wikilink")
 
 ## 參考資料
 

@@ -47,7 +47,7 @@ Station等等。但自从1993年之后，ZARD便极少出现于电视屏幕之�
 ## 合作伙伴
 
   - [織田哲郎](../Page/織田哲郎.md "wikilink")（作曲25曲、作編曲1曲）
-  - [明石昌夫](https://zh.wikipedia.org/wiki/明石昌夫 "wikilink")（編曲53曲）
+  - [明石昌夫](../Page/明石昌夫.md "wikilink")（編曲53曲）
   - [栗林誠一郎](https://zh.wikipedia.org/wiki/栗林誠一郎 "wikilink")（作曲46曲）
   - [川島だりあ](https://zh.wikipedia.org/wiki/川島だりあ "wikilink")（作詞曲2曲、作曲9曲）
   - [池田大介](https://zh.wikipedia.org/wiki/池田大介 "wikilink")（編曲21曲）
@@ -222,7 +222,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
       - 5月19日 8th
         Single『[搖擺的想念](../Page/搖擺的想念.md "wikilink")』登場。連續2週第1位，賣上100萬張記録。全年第9位。
       - 6月9日
-        以【[ZYYG](https://zh.wikipedia.org/wiki/ZYYG "wikilink"),[REV](https://zh.wikipedia.org/wiki/REV "wikilink"),ZARD＆[WANDS](../Page/WANDS.md "wikilink")
+        以【[ZYYG](../Page/ZYYG.md "wikilink"),[REV](https://zh.wikipedia.org/wiki/REV "wikilink"),ZARD＆[WANDS](../Page/WANDS.md "wikilink")
         featuring
         [長嶋茂雄](../Page/長嶋茂雄.md "wikilink")】名義唱出單曲『[果てしない夢を](https://zh.wikipedia.org/wiki/果てしない夢を "wikilink")』。
       - 7月10日 4th
@@ -285,8 +285,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
         Single『[運命のルーレット廻して](https://zh.wikipedia.org/wiki/運命のルーレット廻して "wikilink")』登場。初登場第1位。
       - 12月2日 26th
         Single『[新しいドア〜冬のひまわり〜](https://zh.wikipedia.org/wiki/新しいドア〜冬のひまわり〜 "wikilink")』、27th
-        Single『[GOOD
-        DAY](https://zh.wikipedia.org/wiki/GOOD_DAY "wikilink")』同時登場。
+        Single『[GOOD DAY](../Page/GOOD_DAY.md "wikilink")』同時登場。
   - **1999年**
       - 4月7日 28th Single『[Mind
         Games](https://zh.wikipedia.org/wiki/Mind_Games "wikilink")』登場。
@@ -736,7 +735,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1998年12月2日</small></p></td>
 <td><p><strong>GOOD DAY</strong><br />
 </p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/GOOD_DAY" title="wikilink">GOOD DAY</a></strong><br />
+<td><p><strong><a href="../Page/GOOD_DAY.md" title="wikilink">GOOD DAY</a></strong><br />
 </p></td>
 <td><p><small>作曲：綿貫正顕<br />
 編曲：池田大介</small></p></td>
@@ -1122,7 +1121,7 @@ Official Band Score ZARD BLEND 〜SUN\&STONE〜（1999年2月17日）
 
 ### 參與作品
 
-  - **[果てしない夢を](https://zh.wikipedia.org/wiki/果てしない夢を "wikilink")***【[ZYYG](https://zh.wikipedia.org/wiki/ZYYG "wikilink"),[REV](https://zh.wikipedia.org/wiki/REV "wikilink"),ZARD＆[WANDS](../Page/WANDS.md "wikilink")
+  - **[果てしない夢を](https://zh.wikipedia.org/wiki/果てしない夢を "wikilink")***【[ZYYG](../Page/ZYYG.md "wikilink"),[REV](https://zh.wikipedia.org/wiki/REV "wikilink"),ZARD＆[WANDS](../Page/WANDS.md "wikilink")
     featuring [長嶋茂雄](../Page/長嶋茂雄.md "wikilink")】*名義 （1993年6月9日）
       -
         Oricon最高第2位
@@ -1193,7 +1192,7 @@ Official Band Score ZARD BLEND 〜SUN\&STONE〜（1999年2月17日）
 | [轉動命運之輪](../Page/轉動命運之輪.md "wikilink")                                                          | [読売テレビ系アニメ](https://zh.wikipedia.org/wiki/讀賣テレビ放送 "wikilink")「[名偵探柯南](../Page/名偵探柯南.md "wikilink")」片頭曲                                                    |
 | [少女の頃に戻ったみたいに](../Page/轉動命運之輪.md "wikilink")（上記曲のc/w）                                           | 劇場版「[名偵探柯南 第14號獵物](https://zh.wikipedia.org/wiki/名偵探柯南_第14號獵物 "wikilink")」主題曲                                                                             |
 | [新しいドア〜冬のひまわり〜](https://zh.wikipedia.org/wiki/新しいドア〜冬のひまわり〜 "wikilink")                         | [サッポロビール](https://zh.wikipedia.org/wiki/サッポロビール "wikilink")「冬物語」CMソング                                                                                     |
-| [GOOD DAY](https://zh.wikipedia.org/wiki/GOOD_DAY "wikilink")                                   | ビューティーラボ「ナチュラルカラー」CMソング                                                                                                                                   |
+| [GOOD DAY](../Page/GOOD_DAY.md "wikilink")                                                      | ビューティーラボ「ナチュラルカラー」CMソング                                                                                                                                   |
 | [I feel fine,yeah](https://zh.wikipedia.org/wiki/永遠_\(アルバム\) "wikilink")（アルバム收錄曲目）              | 富士電視台系「[めざまし天気](https://zh.wikipedia.org/wiki/めざまし天気 "wikilink")」主題曲                                                                                      |
 | [フォトグラフ](https://zh.wikipedia.org/wiki/永遠_\(アルバム\) "wikilink")（アルバム收錄曲目）                        | 日本電視台系電視劇「春のサスペンススペシャル 刑事たちの夏」主題曲                                                                                                                         |
 | [MIND GAMES](https://zh.wikipedia.org/wiki/MIND_GAMES_\(ZARDの曲\) "wikilink")                    | 富士電視台系「[プロ野球ニュース](https://zh.wikipedia.org/wiki/プロ野球ニュース "wikilink")」印象歌曲／ニッポン放送「ショウアップナイター'99」主題曲                                                        |

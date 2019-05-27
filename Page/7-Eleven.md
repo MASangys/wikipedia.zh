@@ -71,7 +71,7 @@ K等便利店互相競爭](https://zh.wikipedia.org/wiki/Circle_K "wikilink")。
 
   - 7-Eleven（[卜蜂集團](https://zh.wikipedia.org/wiki/卜蜂集團 "wikilink")）10,268家
 
-  - 7-Eleven（[樂天集團](https://zh.wikipedia.org/wiki/樂天_\(Lotte\) "wikilink")）9,231家
+  - 7-Eleven（[樂天集團](../Page/樂天_\(Lotte\).md "wikilink")）9,231家
 
   - （含、）2,599家
 
@@ -258,7 +258,7 @@ CEO）以即使失敗也不影響母公司為條件，取得公司高層的首�
 北京市政府曾在部分店面推广使用[市政公交一卡通消费](../Page/北京市政交通一卡通.md "wikilink")，后放弃。京津地区7-ELEVEn直至2017年中才先后普及支付宝及微信支付，采用与[卡购商城合作另设扫码机收单方式进行结算](https://zh.wikipedia.org/wiki/卡购商城 "wikilink")，对收银员结算及记账造成诸多不变，此后直至2018年春天才正式将该功能整合至收银机内。然因系统与银联的刷卡机整合不顺，截至2018年10月，银行卡消费及Apple
 Pay功能在北京的7-ELEVEn店铺中一直无法正常使用。而天津地区店铺则一直使用旧有的手持式POS进行银行卡交易。
 
-天津地區7-ELEVEn自2016年起即普及7-Coffee服務，並在2018年陸續增加了熱牛奶、可可、奶茶及抹茶拿鐵等更符合在地人消費習慣的飲品種類。而该服务在北京于2017年末才开始慢慢普及，饮品种类则只有美式咖啡及拿铁两种。北京地区店铺使用的商用咖啡机与[星巴克及](https://zh.wikipedia.org/wiki/星巴克 "wikilink")[瑞幸咖啡一致](https://zh.wikipedia.org/wiki/瑞幸咖啡 "wikilink")，而天津地区店铺使用的则与[肯德基](../Page/肯德基.md "wikilink")、[麦当劳等快餐店一致](../Page/麦当劳.md "wikilink")。
+天津地區7-ELEVEn自2016年起即普及7-Coffee服務，並在2018年陸續增加了熱牛奶、可可、奶茶及抹茶拿鐵等更符合在地人消費習慣的飲品種類。而该服务在北京于2017年末才开始慢慢普及，饮品种类则只有美式咖啡及拿铁两种。北京地区店铺使用的商用咖啡机与[星巴克及](https://zh.wikipedia.org/wiki/星巴克 "wikilink")[瑞幸咖啡一致](../Page/瑞幸咖啡.md "wikilink")，而天津地区店铺使用的则与[肯德基](../Page/肯德基.md "wikilink")、[麦当劳等快餐店一致](../Page/麦当劳.md "wikilink")。
 
 至2019年3月末，7-ELEVEn京津地區展店數目：北京272間\[20\]，天津153間\[21\]。（共計425店）
 
@@ -338,7 +338,7 @@ Pay功能在北京的7-ELEVEn店铺中一直无法正常使用。而天津地区
 ### 韓國
 
 1988年[韓國SEVEN成立](https://zh.wikipedia.org/wiki/韓國 "wikilink")，1989年於首爾[松坡區奧運選手村商店街成立首家分店](../Page/松坡區.md "wikilink")。目前全國有9,231家分店，隸屬於[樂天
-(Lotte)](https://zh.wikipedia.org/wiki/樂天_\(Lotte\) "wikilink")。
+(Lotte)](../Page/樂天_\(Lotte\).md "wikilink")。
 
 ### 臺灣
 

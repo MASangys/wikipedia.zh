@@ -9,7 +9,7 @@ zh-hant:[運算子多载](https://zh.wikipedia.org/wiki/運算子多载 "wikilin
 SE
 1.5版本中引入了[泛型编程](../Page/泛型.md "wikilink")、[类型安全的枚举](https://zh.wikipedia.org/wiki/类型安全 "wikilink")、不定长参数和自动装/拆箱特性。昇陽電腦对Java语言的解释是：「Java编程语言是个简单、面向对象、分布式、解释性、健壮、安全与系统无关、可移植、高性能、多线程和动态的语言」
 
-Java不同於一般的[编译語言或](https://zh.wikipedia.org/wiki/编译語言 "wikilink")[直譯語言](https://zh.wikipedia.org/wiki/直譯語言 "wikilink")。它首先将源代码编译成[字节码](https://zh.wikipedia.org/wiki/字节码 "wikilink")，再依赖各种不同平台上的虚拟机来解释执行字节码，从而具有“[一次编写，到处运行](https://zh.wikipedia.org/wiki/一次编写，到处运行 "wikilink")”的跨平台特性。在早期JVM中，这在一定程度上降低了Java程序的运行效率。但在J2SE1.4.2发布后，Java的執行速度有了大幅提升。
+Java不同於一般的[编译語言或](https://zh.wikipedia.org/wiki/编译語言 "wikilink")[直譯語言](https://zh.wikipedia.org/wiki/直譯語言 "wikilink")。它首先将源代码编译成[字节码](https://zh.wikipedia.org/wiki/字节码 "wikilink")，再依赖各种不同平台上的虚拟机来解释执行字节码，从而具有“[一次编写，到处运行](../Page/一次编写，到处运行.md "wikilink")”的跨平台特性。在早期JVM中，这在一定程度上降低了Java程序的运行效率。但在J2SE1.4.2发布后，Java的執行速度有了大幅提升。
 
 与传统型態不同，Sun公司在推出Java時就将其作为开放的技术。全球的Java开发公司被要求所设计的Java软件必须相互兼容。“Java语言靠群体的力量而非公司的力量”是
 Sun公司的口号之一，并获得了广大软件开发商的认同。这与[微软公司所倡导的注重精英和封闭式的模式完全不同](../Page/微软.md "wikilink")，此外，[微软公司後來推出了与之竞争的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[.NET平台以及模仿Java的](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[C\#语言](https://zh.wikipedia.org/wiki/C＃ "wikilink")。後來Sun公司被[甲骨文公司併購](../Page/甲骨文公司.md "wikilink")，Java也隨之成為甲骨文公司的產品。

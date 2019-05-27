@@ -868,7 +868,7 @@ show)（首次公演：2007年1月）**
 
 ### 真人电影版
 
-由[佐藤信介导演](https://zh.wikipedia.org/wiki/佐藤信介 "wikilink")，预定于2018年7月20日上映。黑崎一护由[福士苍汰出演](https://zh.wikipedia.org/wiki/福士苍汰 "wikilink")，[杉咲花饰演朽木露琪亚](../Page/杉咲花.md "wikilink")，[吉澤亮饰演石田雨龙](../Page/吉澤亮.md "wikilink")，[MIYAVI饰演朽木白哉](https://zh.wikipedia.org/wiki/MIYAVI "wikilink")，[早乙女太一饰演阿散井恋次](https://zh.wikipedia.org/wiki/早乙女太一 "wikilink")。
+由[佐藤信介导演](../Page/佐藤信介.md "wikilink")，预定于2018年7月20日上映。黑崎一护由[福士苍汰出演](https://zh.wikipedia.org/wiki/福士苍汰 "wikilink")，[杉咲花饰演朽木露琪亚](../Page/杉咲花.md "wikilink")，[吉澤亮饰演石田雨龙](../Page/吉澤亮.md "wikilink")，[MIYAVI饰演朽木白哉](https://zh.wikipedia.org/wiki/MIYAVI "wikilink")，[早乙女太一饰演阿散井恋次](https://zh.wikipedia.org/wiki/早乙女太一 "wikilink")。
 
 後再次加碼宣佈由[真野惠里菜飾演井上織姬](../Page/真野惠里菜.md "wikilink")，[長澤雅美飾演一護之母黑崎真咲](https://zh.wikipedia.org/wiki/長澤雅美 "wikilink")，[江口洋介飾演一護之父黑崎一心](../Page/江口洋介.md "wikilink")，[小柳友飾演茶渡泰虎](../Page/小柳友.md "wikilink")，[田邊誠一飾演浦原喜助](../Page/田邊誠一.md "wikilink")。
 

@@ -66,7 +66,7 @@ Project](https://zh.wikipedia.org/wiki/Seasonal_Attribution_Project "wikilink")�
 Beta](https://zh.wikipedia.org/wiki/CPDN_Beta "wikilink")—Climateprediction.net的測試專案。
 
   - [地震捕手网络(Quake Catcher
-    Network)](https://zh.wikipedia.org/wiki/地震捕手网络 "wikilink")—利用分佈在全球各地電腦的[傳感器來偵測和研究](https://zh.wikipedia.org/wiki/傳感器 "wikilink")[地震現象](../Page/地震.md "wikilink")。
+    Network)](../Page/地震捕手网络.md "wikilink")—利用分佈在全球各地電腦的[傳感器來偵測和研究](https://zh.wikipedia.org/wiki/傳感器 "wikilink")[地震現象](../Page/地震.md "wikilink")。
 
 ### 物理、化學、天文學
 
@@ -134,7 +134,7 @@ beta](https://zh.wikipedia.org/wiki/SETI@home_beta "wikilink")—測試SETI@home
     Graz](https://web.archive.org/web/20090225115007/http://boinc.iaik.tugraz.at/sha1_coll_search/)—[密碼學](https://zh.wikipedia.org/wiki/密碼學 "wikilink")：尋找[SHA-1碰撞](../Page/SHA-1.md "wikilink")，目前已停止運作。
   - [VGTU@Home](http://boinc.vgtu.lt/vtuathome/)—[軟體測試](https://zh.wikipedia.org/wiki/軟體測試 "wikilink")：提供[分散式計算平台](https://zh.wikipedia.org/wiki/分散式計算平台 "wikilink")，改善BOINC。
   - [IBERCIVIS](https://zh.wikipedia.org/wiki/IBERCIVIS "wikilink")—提供[西班牙科學研究的分散式計算平台](../Page/西班牙.md "wikilink")。
-  - [DistrRTgen](https://zh.wikipedia.org/wiki/DistrRTgen "wikilink")—利用BOINC的分佈式運算產生[彩虹表](https://zh.wikipedia.org/wiki/彩虹表 "wikilink")。
+  - [DistrRTgen](https://zh.wikipedia.org/wiki/DistrRTgen "wikilink")—利用BOINC的分佈式運算產生[彩虹表](../Page/彩虹表.md "wikilink")。
   - [SZTAKI Desktop
     Grid](https://web.archive.org/web/20160814071936/http://szdg.lpds.sztaki.hu/szdg/)—搜索廣義[二進制](https://zh.wikipedia.org/wiki/二進制 "wikilink")[數系](../Page/數系.md "wikilink")。
   - [yoyo@home](https://zh.wikipedia.org/wiki/yoyo@home "wikilink")—利用BOINC的封裝技術將現有的分佈式計算項目引入到BOINC平台，支援[PS3運算](https://zh.wikipedia.org/wiki/PS3 "wikilink")。

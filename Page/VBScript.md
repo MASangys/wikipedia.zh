@@ -67,7 +67,7 @@ MsgBox "The result is " & x
 
 ### 终止任务
 
-VBScript能访问[Windows管理规范](https://zh.wikipedia.org/wiki/Windows管理规范 "wikilink")
+VBScript能访问[Windows管理规范](../Page/Windows管理规范.md "wikilink")
 (WMI)，就像[Windows任务管理器](https://zh.wikipedia.org/wiki/Windows任务管理器 "wikilink")。以下的代码执行时将会终止（“杀掉”）任何关于*notepad.exe*的进程。
 
 ``` vb

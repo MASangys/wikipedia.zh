@@ -24,6 +24,6 @@ X-Face是[贝尔实验室](../Page/贝尔实验室.md "wikilink")1980年代开�
 [Category:网络文化](https://zh.wikipedia.org/wiki/Category:网络文化 "wikilink")
 [Category:Usenet](https://zh.wikipedia.org/wiki/Category:Usenet "wikilink")
 
-1.  「用戶造型」即[Avatar](https://zh.wikipedia.org/wiki/头像 "wikilink")
+1.  「用戶造型」即[Avatar](../Page/头像.md "wikilink")
 2.  「好友圖示」即，又稱為頭像
 3.  [RFC822](http://www.ietf.org/rfc/rfc822.txt)

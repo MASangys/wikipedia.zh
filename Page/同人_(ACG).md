@@ -20,15 +20,14 @@
 
 除此以外，還有[同人遊戲](../Page/同人遊戲.md "wikilink")、[同人音樂](../Page/同人音樂.md "wikilink")、同人MV（[MAD片](../Page/MAD片.md "wikilink")）、同人廣播劇等创作。而在[同人誌即賣會的會場內](../Page/同人誌即賣會.md "wikilink")，亦常會見到正在[Cosplay或攜帶着](../Page/Cosplay.md "wikilink")[娃娃的參與者](../Page/娃娃.md "wikilink")。在同人之內，並沒形式的限制。
 
-部分同人作家由於對角色有[性幻想](https://zh.wikipedia.org/wiki/性幻想 "wikilink")，也有[H的創作](https://zh.wikipedia.org/wiki/H_\(日語\) "wikilink")。主打[美少女角色的](../Page/美少女.md "wikilink")[ACG作品衍生H同人作品](../Page/ACG.md "wikilink")，這點幾乎沒有例外；甚至並非主打美少女角色的《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》、《[航海王](https://zh.wikipedia.org/wiki/航海王 "wikilink")》、《[火影忍者](../Page/火影忍者.md "wikilink")》、《[勇者鬥惡龍系列](../Page/勇者鬥惡龍系列.md "wikilink")》等作品，也各有以其美少女角色為主角的H同人作品。亦有許多[BL的同人作品](https://zh.wikipedia.org/wiki/BL_\(和製英語\) "wikilink")。
+部分同人作家由於對角色有[性幻想](https://zh.wikipedia.org/wiki/性幻想 "wikilink")，也有[H的創作](https://zh.wikipedia.org/wiki/H_\(日語\) "wikilink")。主打[美少女角色的](../Page/美少女.md "wikilink")[ACG作品衍生H同人作品](../Page/ACG.md "wikilink")，這點幾乎沒有例外；甚至並非主打美少女角色的《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》、《[航海王](https://zh.wikipedia.org/wiki/航海王 "wikilink")》、《[火影忍者](../Page/火影忍者.md "wikilink")》、《[勇者鬥惡龍系列](../Page/勇者鬥惡龍系列.md "wikilink")》等作品，也各有以其美少女角色為主角的H同人作品。亦有許多[BL的同人作品](../Page/BL_\(和製英語\).md "wikilink")。
 
 ## 参见
 
 知名网站：
 
   -
-  - [Archive of Our
-    Own](https://zh.wikipedia.org/wiki/Archive_of_Our_Own "wikilink")
+  - [Archive of Our Own](../Page/Archive_of_Our_Own.md "wikilink")
 
 ## 注釋
 

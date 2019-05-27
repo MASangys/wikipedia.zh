@@ -839,7 +839,7 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
 <td><p>13</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/カブトムシ" title="wikilink">カブトムシ</a></strong></p></td>
 <td><p>18/29</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a></p></td>
+<td><p><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

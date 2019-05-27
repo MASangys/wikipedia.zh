@@ -83,8 +83,7 @@ Tcl 支持扩展包，这些扩展包提供了附加功能（像是GUI，终端�
     风格许可发布。\[4\]
     Itcl/IncrTcl: [Itcl](https://zh.wikipedia.org/wiki/Itcl "wikilink")
     是 Tcl 诸多对象系统中的一种，通常称为 \[incr Tcl\]（递增 Tcl 之意，类似 C++ 之名）。
-    Tcllib: [Tcllib](https://zh.wikipedia.org/wiki/Tcllib "wikilink")
-    是一套纯脚本 Tcl 包，无需编译。
+    Tcllib: [Tcllib](../Page/Tcllib.md "wikilink") 是一套纯脚本 Tcl 包，无需编译。
     TclUDP: TclUDP\[5\] 提供简捷的方式支持
     [UDP](https://zh.wikipedia.org/wiki/UDP "wikilink") 套接字。
     数据库: Tcl 数据库互联（Tcl Database Connectivity，TDBC）是 Tcl 8.6 的一部分，为 Tcl

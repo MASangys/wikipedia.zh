@@ -27,7 +27,7 @@ Explorer和Gecko，然而Gecko的對應並不完全，現在基本上可以說�
 
 ## Sleipnir的特徵
 
-  - [RoboForm的密碼管理機能](https://zh.wikipedia.org/wiki/RoboForm "wikilink")：透過專用的轉接器後可以從Sleipnir利用密碼管理軟體RoboForm的功能。
+  - [RoboForm的密碼管理機能](../Page/RoboForm.md "wikilink")：透過專用的轉接器後可以從Sleipnir利用密碼管理軟體RoboForm的功能。
   - 可自定、改造的選單：改寫XML形式的選單檔案後，許多選單項目都可以依使用者的喜好變更。
   - 進化的搜尋列：能夠以複數關鍵字進行頁面內搜尋、附加顏色標示、抽出符合搜尋條件的文字列。
   - 搜尋我的最愛：可以在Favorites Editor裡搜尋登錄到我的最愛的網站。

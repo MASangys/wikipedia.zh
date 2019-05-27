@@ -821,7 +821,7 @@ A Kiss Before Frying</p></td>
 <!-- end list -->
 
   - 第5季集数编号524及525：《葬身，上下集》（**）-
-    这一季的最终章是由[奥斯卡金像奖得主](../Page/奥斯卡金像奖.md "wikilink")[昆汀·塔倫提諾](https://zh.wikipedia.org/wiki/昆汀·塔倫提諾 "wikilink")（）所执导，剧中的情境跟塔伦蒂诺的电影《[追杀比尔](https://zh.wikipedia.org/wiki/追杀比尔 "wikilink")》（**）第2集中的部分场景类似。探员尼克·史多克斯被抓，放进[压克力製的](../Page/聚甲基丙烯酸甲酯.md "wikilink")[棺材裡](../Page/棺材.md "wikilink")[活埋](https://zh.wikipedia.org/wiki/活埋 "wikilink")，整个过程并用网路摄影机[实况转播](https://zh.wikipedia.org/wiki/实况转播 "wikilink")。在追杀比尔第2集里，新娘（[乌玛·舒曼](../Page/乌玛·瑟曼.md "wikilink")）同样也是被抓，然後放到棺材里活埋。
+    这一季的最终章是由[奥斯卡金像奖得主](../Page/奥斯卡金像奖.md "wikilink")[昆汀·塔倫提諾](https://zh.wikipedia.org/wiki/昆汀·塔倫提諾 "wikilink")（）所执导，剧中的情境跟塔伦蒂诺的电影《[追杀比尔](https://zh.wikipedia.org/wiki/追杀比尔 "wikilink")》（**）第2集中的部分场景类似。探员尼克·史多克斯被抓，放进[压克力製的](../Page/聚甲基丙烯酸甲酯.md "wikilink")[棺材裡](../Page/棺材.md "wikilink")[活埋](../Page/活埋.md "wikilink")，整个过程并用网路摄影机[实况转播](https://zh.wikipedia.org/wiki/实况转播 "wikilink")。在追杀比尔第2集里，新娘（[乌玛·舒曼](../Page/乌玛·瑟曼.md "wikilink")）同样也是被抓，然後放到棺材里活埋。
 
 <!-- end list -->
 

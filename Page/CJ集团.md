@@ -3,8 +3,8 @@
 
 韩国知名娱乐公司[Mnet
 Media](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")、韩国最大的电影分销商[CJ
-E\&M](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink")\[3\]和韩国最大的连锁影院[CJ
-CGV都是希杰集团旗下的子公司](https://zh.wikipedia.org/wiki/CJ_CGV "wikilink")。
+E\&M](../Page/CJ_E&M.md "wikilink")\[3\]和韩国最大的连锁影院[CJ
+CGV都是希杰集团旗下的子公司](../Page/CJ_CGV.md "wikilink")。
 
 ## 发展历史
 
@@ -33,8 +33,8 @@ Azit新一代艺术人才援助体系，累计赞助资金达2.2亿人民币。
 
 2013年4月1日，在收購韓國國內第一物流公司大韓通運與原集團內物流公司CJ GLS合併，成立希杰大韓通運，
 
-2016年，希杰和马来西亚[首要媒体合作](https://zh.wikipedia.org/wiki/首要媒体 "wikilink")，创立了新的电视购物节目《CJ
-Wow Shop》。同样也开张了邮递产品的公司－MP CJ O Shopping。
+2016年，希杰和马来西亚[首要媒体合作](../Page/首要媒体.md "wikilink")，创立了新的电视购物节目《CJ Wow
+Shop》。同样也开张了邮递产品的公司－MP CJ O Shopping。
 
 2017年1月8日，首要媒体为CJ Wow
 Shop设立中文版本，为马来西亚华裔提供另一个电视购物频道，但不提供部分马来商品，并在之后纳入以中文节目为主的八度空间里，其他电视台如TV3、NTV7、TV9和Tonton网站则继续播出马来文版本。

@@ -116,47 +116,47 @@ Palm智能手机市场在受[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikil
 （Windows
 Mobile手機多由[HTC代工](https://zh.wikipedia.org/wiki/HTC "wikilink")）
 
-|             |                                                                                                                       |                                                                      |
-| ----------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **發報日期**    | **型號**                                                                                                                | **作業系統**                                                             |
-| 1996年3月     | Pilot 1000，Pilot 5000                                                                                                 |                                                                      |
-| 1997年3月     | PalmPilot Professional、PalmPilot Personal                                                                             |                                                                      |
-| 1998年3月     | Palm III                                                                                                              |                                                                      |
-| 1999年2月     | Palm IIIx、Palm V                                                                                                      |                                                                      |
-| 1999年5月     | Palm VII                                                                                                              |                                                                      |
-| 1999年7月     | Palm IIIe                                                                                                             |                                                                      |
-| 2000年2月     | Palm IIIc                                                                                                             |                                                                      |
-| 2000年8月     | Palm VIIx，m100                                                                                                        |                                                                      |
-| 2001年3月     | Palm m105，m500，m505                                                                                                   |                                                                      |
-| 2001年9月     | Palm m125                                                                                                             |                                                                      |
-| 2002年1月     | Palm i705                                                                                                             |                                                                      |
-| 2002年3月     | Palm m130，m515                                                                                                        |                                                                      |
-| 2002年10月    | [Tungsten](https://zh.wikipedia.org/wiki/Tungsten "wikilink") T，[Zire](https://zh.wikipedia.org/wiki/Zire "wikilink") |                                                                      |
-| 2003年2月     | Tungsten W                                                                                                            |                                                                      |
-| 2003年4月     | Tungsten C、Zire 71                                                                                                    |                                                                      |
-| 2003年7月     | Tungsten T2                                                                                                           |                                                                      |
-| 2003年10月    | [Tungsten T3](https://zh.wikipedia.org/wiki/Tungsten_T3 "wikilink")、Tungsten E                                        |                                                                      |
-| 2003年11月    | Treo 600                                                                                                              | Palm OS 5.4                                                          |
-| 2004年4月     | Zire 72、Zire 31                                                                                                       | Palm OS 5.4                                                          |
-| 2004年10月    | Tungsten T5，[Treo 650](../Page/Treo_650.md "wikilink")                                                                | Palm OS 5.4                                                          |
-| 2005年4月     | Tungsten E2                                                                                                           | Palm OS 5.4                                                          |
-| 2005年5月     | LifeDrive                                                                                                             | Palm OS 5.4                                                          |
-| 2005年7月     | Treo 700W                                                                                                             | Windows Mobile                                                       |
-| 2005年10月    | TX、Z22                                                                                                                | Palm OS 5.4                                                          |
-| 2006年5月     | Treo 700P                                                                                                             | Palm OS 5.4                                                          |
-| 2006年9月     | Treo 700Wx                                                                                                            | Windows Mobile                                                       |
-| 2006年9月     | Treo 750V                                                                                                             | Windows Mobile                                                       |
-| 2006年11月    | Treo 680                                                                                                              | Palm OS 5.4.9                                                        |
-| 2007年9月     | Palm Centro                                                                                                           | Palm OS 5.4.9                                                        |
-| 2008年7月15日  | Palm Treo800w                                                                                                         | Windows Mobile CDMA版                                                 |
-| 2008年8月20日  | Palm Treo Pro                                                                                                         | Windows Mobile                                                       |
-| 2009年1月9日   | [Palm Pre](../Page/Palm_Pre.md "wikilink")                                                                            | [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink")              |
-| 2009年9月8日   | [Palm Pixi](https://zh.wikipedia.org/wiki/Palm_Pixi "wikilink")                                                       | [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink")              |
-| 2010年1月8日   | [Palm Pre Plus](https://zh.wikipedia.org/wiki/Palm_Pre_Plus "wikilink")                                               | [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink")              |
-| 2010年1月8日   | [Palm Pixi Plus](https://zh.wikipedia.org/wiki/Palm_Pixi_Plus "wikilink")                                             | [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink")              |
-| 2011年2月9日   | [HP Pre 3](https://zh.wikipedia.org/wiki/HP_Pre_3 "wikilink")                                                         | [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink")              |
-| 2011年5月15日  | [HP Veer](https://zh.wikipedia.org/wiki/HP_Veer "wikilink")                                                           | [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink")              |
-| 2018年10月16日 | Palm                                                                                                                  | [Android 8.1](https://zh.wikipedia.org/wiki/Android_Oreo "wikilink") |
+|             |                                                                                                                       |                                                         |
+| ----------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| **發報日期**    | **型號**                                                                                                                | **作業系統**                                                |
+| 1996年3月     | Pilot 1000，Pilot 5000                                                                                                 |                                                         |
+| 1997年3月     | PalmPilot Professional、PalmPilot Personal                                                                             |                                                         |
+| 1998年3月     | Palm III                                                                                                              |                                                         |
+| 1999年2月     | Palm IIIx、Palm V                                                                                                      |                                                         |
+| 1999年5月     | Palm VII                                                                                                              |                                                         |
+| 1999年7月     | Palm IIIe                                                                                                             |                                                         |
+| 2000年2月     | Palm IIIc                                                                                                             |                                                         |
+| 2000年8月     | Palm VIIx，m100                                                                                                        |                                                         |
+| 2001年3月     | Palm m105，m500，m505                                                                                                   |                                                         |
+| 2001年9月     | Palm m125                                                                                                             |                                                         |
+| 2002年1月     | Palm i705                                                                                                             |                                                         |
+| 2002年3月     | Palm m130，m515                                                                                                        |                                                         |
+| 2002年10月    | [Tungsten](https://zh.wikipedia.org/wiki/Tungsten "wikilink") T，[Zire](https://zh.wikipedia.org/wiki/Zire "wikilink") |                                                         |
+| 2003年2月     | Tungsten W                                                                                                            |                                                         |
+| 2003年4月     | Tungsten C、Zire 71                                                                                                    |                                                         |
+| 2003年7月     | Tungsten T2                                                                                                           |                                                         |
+| 2003年10月    | [Tungsten T3](https://zh.wikipedia.org/wiki/Tungsten_T3 "wikilink")、Tungsten E                                        |                                                         |
+| 2003年11月    | Treo 600                                                                                                              | Palm OS 5.4                                             |
+| 2004年4月     | Zire 72、Zire 31                                                                                                       | Palm OS 5.4                                             |
+| 2004年10月    | Tungsten T5，[Treo 650](../Page/Treo_650.md "wikilink")                                                                | Palm OS 5.4                                             |
+| 2005年4月     | Tungsten E2                                                                                                           | Palm OS 5.4                                             |
+| 2005年5月     | LifeDrive                                                                                                             | Palm OS 5.4                                             |
+| 2005年7月     | Treo 700W                                                                                                             | Windows Mobile                                          |
+| 2005年10月    | TX、Z22                                                                                                                | Palm OS 5.4                                             |
+| 2006年5月     | Treo 700P                                                                                                             | Palm OS 5.4                                             |
+| 2006年9月     | Treo 700Wx                                                                                                            | Windows Mobile                                          |
+| 2006年9月     | Treo 750V                                                                                                             | Windows Mobile                                          |
+| 2006年11月    | Treo 680                                                                                                              | Palm OS 5.4.9                                           |
+| 2007年9月     | Palm Centro                                                                                                           | Palm OS 5.4.9                                           |
+| 2008年7月15日  | Palm Treo800w                                                                                                         | Windows Mobile CDMA版                                    |
+| 2008年8月20日  | Palm Treo Pro                                                                                                         | Windows Mobile                                          |
+| 2009年1月9日   | [Palm Pre](../Page/Palm_Pre.md "wikilink")                                                                            | [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink") |
+| 2009年9月8日   | [Palm Pixi](https://zh.wikipedia.org/wiki/Palm_Pixi "wikilink")                                                       | [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink") |
+| 2010年1月8日   | [Palm Pre Plus](https://zh.wikipedia.org/wiki/Palm_Pre_Plus "wikilink")                                               | [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink") |
+| 2010年1月8日   | [Palm Pixi Plus](https://zh.wikipedia.org/wiki/Palm_Pixi_Plus "wikilink")                                             | [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink") |
+| 2011年2月9日   | [HP Pre 3](https://zh.wikipedia.org/wiki/HP_Pre_3 "wikilink")                                                         | [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink") |
+| 2011年5月15日  | [HP Veer](https://zh.wikipedia.org/wiki/HP_Veer "wikilink")                                                           | [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink") |
+| 2018年10月16日 | Palm                                                                                                                  | [Android 8.1](../Page/Android_Oreo.md "wikilink")       |
 
 ## 參見
 

@@ -34,7 +34,7 @@
 
 發行銷量1995年3-4號653萬本最高紀錄達成。1996年27號《[-{zh-hans:灌篮高手;zh-tw:灌籃高手;zh-hk:男兒當入樽}-](https://zh.wikipedia.org/wiki/灌篮高手 "wikilink")》連載結束。
 
-從1996年開始的發行量減少，到1997年減少至約230萬，也被稱作週刊少年Jump的黑暗期。在這段期間由《[-{zh-hans:浪客剑心;zh-tw:神劍闖江湖;zh-hk:浪客劍心}-](../Page/浪客剑心.md "wikilink")》、《[封神演義](https://zh.wikipedia.org/wiki/封神演義_\(漫畫\) "wikilink")》等作品支撐整個週刊的銷售量，成為這個時期的代表作。另一方面《[遊戲王](../Page/遊戲王.md "wikilink")》（1996年～）《[ONE
+從1996年開始的發行量減少，到1997年減少至約230萬，也被稱作週刊少年Jump的黑暗期。在這段期間由《[-{zh-hans:浪客剑心;zh-tw:神劍闖江湖;zh-hk:浪客劍心}-](../Page/浪客剑心.md "wikilink")》、《[封神演義](../Page/封神演義_\(漫畫\).md "wikilink")》等作品支撐整個週刊的銷售量，成為這個時期的代表作。另一方面《[遊戲王](../Page/遊戲王.md "wikilink")》（1996年～）《[ONE
 PIECE](../Page/ONE_PIECE.md "wikilink")》（1997年～）、《[獵人](https://zh.wikipedia.org/wiki/獵人_\(動漫\) "wikilink")》（1998年～）、《[火影忍者](../Page/火影忍者.md "wikilink")》（1999年～2014年）等熱門少年漫畫開始連載。這些作品成為2000年代的Jump週刊的代表性角色。
 
 ### 2000年代
@@ -123,24 +123,24 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>自2006年11號後不定期連載</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/排球少年！！" title="wikilink">排球少年！！</a></p></td>
+<td><p><a href="../Page/排球少年！！.md" title="wikilink">排球少年！！</a></p></td>
 <td><p>{{lang|ja|ハイキュー</p></td>
 <td><p>}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/古舘春一" title="wikilink">古舘春一</a></p></td>
+<td><p><a href="../Page/古舘春一.md" title="wikilink">古舘春一</a></p></td>
 <td><p>－</p></td>
 <td><p>2012年12號</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/食戟之靈" title="wikilink">食戟之靈</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佐伯俊" title="wikilink">佐伯俊</a> </p></td>
+<td><p><a href="../Page/佐伯俊.md" title="wikilink">佐伯俊</a> </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/附田祐斗" title="wikilink">附田祐斗</a><br />
 </p></td>
 <td><p>2012年52號</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/火之丸相撲" title="wikilink">火之丸相撲</a></p></td>
+<td><p><a href="../Page/火之丸相撲.md" title="wikilink">火之丸相撲</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -150,7 +150,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <tr class="even">
 <td><p><a href="../Page/我的英雄學院.md" title="wikilink">我的英雄學院</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/堀越耕平" title="wikilink">堀越耕平</a></p></td>
+<td><p><a href="../Page/堀越耕平.md" title="wikilink">堀越耕平</a></p></td>
 <td><p>－</p></td>
 <td><p>2014年32號</p></td>
 <td></td>
@@ -158,7 +158,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/黑色五葉草" title="wikilink">-{zh-hant:黑色五葉草;zh-hans:黑色四叶草}-</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/田畠裕基" title="wikilink">田畠裕基</a></p></td>
+<td><p><a href="../Page/田畠裕基.md" title="wikilink">田畠裕基</a></p></td>
 <td><p>－</p></td>
 <td><p>2015年12號</p></td>
 <td></td>
@@ -166,7 +166,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <tr class="even">
 <td><p><a href="../Page/搖曳莊的幽奈小姐.md" title="wikilink">搖曳莊的幽奈小姐</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三浦忠弘" title="wikilink">三浦忠弘</a></p></td>
+<td><p><a href="../Page/三浦忠弘.md" title="wikilink">三浦忠弘</a></p></td>
 <td><p>－</p></td>
 <td><p>2016年10號</p></td>
 <td></td>
@@ -174,7 +174,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <tr class="odd">
 <td><p><a href="../Page/鬼滅之刃.md" title="wikilink">鬼滅之刃</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吾峠呼世晴" title="wikilink">吾峠呼世晴</a></p></td>
+<td><p><a href="../Page/吾峠呼世晴.md" title="wikilink">吾峠呼世晴</a></p></td>
 <td><p>－</p></td>
 <td><p>2016年11號</p></td>
 <td></td>
@@ -183,14 +183,14 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p><a href="https://zh.wikipedia.org/wiki/BORUTO-火影新世代-NARUTO_NEXT_GENERATIONS-" title="wikilink">-{zh-hant:BORUTO-火影新世代-<br />
 NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/池本幹雄" title="wikilink">池本幹雄</a></p></td>
+<td><p><a href="../Page/池本幹雄.md" title="wikilink">池本幹雄</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/岸本齊史" title="wikilink">岸本齊史</a><br />
 </p></td>
 <td><p>2016年23號</p></td>
 <td><p>每月一話連載</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/約定的夢幻島" title="wikilink">約定的夢幻島</a></p></td>
+<td><p><a href="../Page/約定的夢幻島.md" title="wikilink">約定的夢幻島</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -198,7 +198,7 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/我們真的學不來！" title="wikilink">我們真的學不來！</a></p></td>
+<td><p><a href="../Page/我們真的學不來！.md" title="wikilink">我們真的學不來！</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -206,15 +206,15 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Dr.STONE_新石紀" title="wikilink">Dr.STONE 新石紀</a></p></td>
+<td><p><a href="../Page/Dr.STONE_新石紀.md" title="wikilink">Dr.STONE 新石紀</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Boichi" title="wikilink">Boichi</a></p></td>
+<td><p><a href="../Page/Boichi.md" title="wikilink">Boichi</a></p></td>
 <td><p><a href="../Page/稻垣理一郎.md" title="wikilink">稻垣理一郎</a></p></td>
 <td><p>2017年14號</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/演員夜凪景_act-age" title="wikilink">演員夜凪景 act-age</a></p></td>
+<td><p><a href="../Page/演員夜凪景_act-age.md" title="wikilink">演員夜凪景 act-age</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -222,7 +222,7 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/咒術迴戰" title="wikilink">咒術迴戰</a></p></td>
+<td><p><a href="../Page/咒術迴戰.md" title="wikilink">咒術迴戰</a></p></td>
 <td></td>
 <td><p>芥見下下</p></td>
 <td><p>－</p></td>

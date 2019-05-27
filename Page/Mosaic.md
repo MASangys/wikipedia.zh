@@ -45,10 +45,10 @@ Window}-系統／Unix版本公開提供[原始碼](https://zh.wikipedia.org/wiki
 
 ## 影響
 
-Mosaic是導致1990年代[網路熱潮的網頁瀏覽器](https://zh.wikipedia.org/wiki/網際網路泡沫 "wikilink")。在此期間存在的其他瀏覽器，特別是[Erwise](../Page/Erwise.md "wikilink")、[ViolaWWW](../Page/ViolaWWW.md "wikilink")、[MidasWWW和](https://zh.wikipedia.org/wiki/MidasWWW "wikilink")，在公眾使用網際網路上並沒有與Mosaic相同的效應\[23\]。
+Mosaic是導致1990年代[網路熱潮的網頁瀏覽器](https://zh.wikipedia.org/wiki/網際網路泡沫 "wikilink")。在此期間存在的其他瀏覽器，特別是[Erwise](../Page/Erwise.md "wikilink")、[ViolaWWW](../Page/ViolaWWW.md "wikilink")、[MidasWWW和](../Page/MidasWWW.md "wikilink")，在公眾使用網際網路上並沒有與Mosaic相同的效應\[23\]。
 
 Mosaic不是第一個用於Windows的瀏覽器，而是Thomas R.
-Bruce鮮為人知的[Cello](https://zh.wikipedia.org/wiki/Cello_\(瀏覽器\) "wikilink")。在Windows版本支援之前，Unix版本的Mosaic就已經很出名了，可以在文字中顯示圖片，而不是顯示在單獨的視窗。Mosaic是第一個由全職程式設計師團隊編寫和支援的瀏覽器，對於初學者來說相當可靠又簡易。1995年的[市佔率已經達到](https://zh.wikipedia.org/wiki/網頁瀏覽器的使用分佈#2000年以前的報告 "wikilink")53%。
+Bruce鮮為人知的[Cello](../Page/Cello_\(瀏覽器\).md "wikilink")。在Windows版本支援之前，Unix版本的Mosaic就已經很出名了，可以在文字中顯示圖片，而不是顯示在單獨的視窗。Mosaic是第一個由全職程式設計師團隊編寫和支援的瀏覽器，對於初學者來說相當可靠又簡易。1995年的[市佔率已經達到](https://zh.wikipedia.org/wiki/網頁瀏覽器的使用分佈#2000年以前的報告 "wikilink")53%。
 
 1992年11月，世界上只有26個網站，每一個網站都受人注目\[24\]。1993年，Mosaic推出了一個叫做What’s
 New的頁面，每天都會提供給大家一個全新網站的連結\[25\]。這是一個網際網路的使用率在學術界和大型工業研究機構領域之外迅速擴張的時代。由於瀏覽器本身的易用性，推動了網路爆炸性的成長，到了1995年8月網站數量已經超過了1萬個，1998年達到了數百萬個網站\[26\]。Metcalfe表達了Mosaic的關鍵作用：

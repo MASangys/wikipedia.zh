@@ -11,7 +11,7 @@ Vista和](../Page/Windows_Vista.md "wikilink")[Windows
 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。\]\]
 [Windows_logo_-_2012.svg](https://zh.wikipedia.org/wiki/File:Windows_logo_-_2012.svg "fig:Windows_logo_-_2012.svg")。[Windows
 8.1和](../Page/Windows_8.1.md "wikilink")[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")\]\]
+10](../Page/Windows_10.md "wikilink")\]\]
 1983年，美國企業[微软對外宣布在](../Page/微软.md "wikilink")[MS-DOS](../Page/MS-DOS.md "wikilink")（自1981年植根在[IBM](../Page/IBM.md "wikilink")[電腦上的操作介面](https://zh.wikipedia.org/wiki/電腦 "wikilink")）上開發一個[图形用户界面](../Page/图形用户界面.md "wikilink")[操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，即微软视窗系统（[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")）。
 
@@ -515,7 +515,7 @@ Windows Server 2016於2016年9月26日正式推出，於同年10月12日正式�
 | 2012年10月26日 |                                                                         |                                                                                                                             | [Windows Server 2012](../Page/Windows_Server_2012.md "wikilink")                                                         |                  |
 | 2013年10月18日 |                                                                         | [Windows 8.1](../Page/Windows_8.1.md "wikilink")/[Windows RT 8.1](https://zh.wikipedia.org/wiki/Windows_RT_8.1 "wikilink")  | Blue                                                                                                                     |                  |
 | 2013年10月18日 |                                                                         |                                                                                                                             | [Windows Server 2012 R2](https://zh.wikipedia.org/wiki/Windows_Server_2012_R2 "wikilink")                                |                  |
-| 2015年7月29日  |                                                                         | [Windows 10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")                                                           | Threshold                                                                                                                |                  |
+| 2015年7月29日  |                                                                         | [Windows 10](../Page/Windows_10.md "wikilink")                                                                              | Threshold                                                                                                                |                  |
 | 2016年9月26日  |                                                                         |                                                                                                                             | [Windows Server 2016](https://zh.wikipedia.org/wiki/:Windows_Server_2016 "wikilink")                                     | Redstone         |
 
 ## 其它

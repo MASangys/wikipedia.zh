@@ -46,7 +46,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - **姬艾爾·海姆：**[高橋理惠子](https://zh.wikipedia.org/wiki/高橋理惠子 "wikilink")
+  - **姬艾爾·海姆：**[高橋理惠子](../Page/高橋理惠子.md "wikilink")
 
 <!-- end list -->
 
@@ -82,14 +82,14 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 ### 迪亞娜回歸軍
 
-  - **迪亞娜·梳尼爾：**[高橋理惠子](https://zh.wikipedia.org/wiki/高橋理惠子 "wikilink")
+  - **迪亞娜·梳尼爾：**[高橋理惠子](../Page/高橋理惠子.md "wikilink")
   - **哈利·歐德：**[稻田徹](../Page/稻田徹.md "wikilink")
   - **波·艾吉：**[中西裕美子](https://zh.wikipedia.org/wiki/中西裕美子 "wikilink")
   - **菲爾·阿卡曼：**[小山剛志](../Page/小山剛志.md "wikilink")
   - **米蘭·雷克斯：**[曽我部和恭](https://zh.wikipedia.org/wiki/曽我部和恭 "wikilink")
   - **柯連·南達：**[川津泰彥](https://zh.wikipedia.org/wiki/川津泰彥 "wikilink")
-  - **布魯諾：**[田中一成](https://zh.wikipedia.org/wiki/田中一成 "wikilink")
-  - **亞可普：**[宇垣秀成](https://zh.wikipedia.org/wiki/宇垣秀成 "wikilink")
+  - **布魯諾：**[田中一成](../Page/田中一成.md "wikilink")
+  - **亞可普：**[宇垣秀成](../Page/宇垣秀成.md "wikilink")
 
 ### 雷特隊
 
@@ -109,7 +109,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
   - **芙蘭·德爾：**[渡辺久美子](https://zh.wikipedia.org/wiki/渡辺久美子 "wikilink")
   - **基斯·雷傑：**[福山潤](../Page/福山潤.md "wikilink")
-  - **威爾·基姆：**[坂口賢一](https://zh.wikipedia.org/wiki/坂口賢一 "wikilink")
+  - **威爾·基姆：**[坂口賢一](../Page/坂口賢一.md "wikilink")
   - **多娜·羅羅伊：**[折笠富美子](../Page/折笠富美子.md "wikilink")
 
 <!-- end list -->
@@ -829,14 +829,14 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td><p><a href="https://zh.wikipedia.org/wiki/星山博之" title="wikilink">星山博之</a></p></td>
 <td><p>渡邊哲哉</p></td>
 <td><p><a href="../Page/富野由悠季.md" title="wikilink">斧谷稔</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/土器手司" title="wikilink">土器手司</a></p></td>
+<td><p><a href="../Page/土器手司.md" title="wikilink">土器手司</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td></td>
 <td><p>成年禮</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/千葉克彦" title="wikilink">千葉克彦</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/森邦宏" title="wikilink">森邦宏</a></p></td>
+<td><p><a href="../Page/森邦宏.md" title="wikilink">森邦宏</a></p></td>
 <td><p>佐久間信一</p></td>
 <td></td>
 </tr>
@@ -854,7 +854,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td></td>
 <td><p>故鄉的軍人</p></td>
 <td><p>高橋哲子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西森章" title="wikilink">西森章</a></p></td>
+<td><p><a href="../Page/西森章.md" title="wikilink">西森章</a></p></td>
 <td><p>佐久間信一</p></td>
 <td></td>
 </tr>
@@ -1037,7 +1037,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td><p><a href="https://zh.wikipedia.org/wiki/大河内一楼" title="wikilink">大河内一楼</a></p></td>
 <td><p>山口美浩</p></td>
 <td><p>斧谷稔<br />
-<a href="https://zh.wikipedia.org/wiki/角銅博之" title="wikilink">工堂紘軌</a></p></td>
+<a href="../Page/角銅博之.md" title="wikilink">工堂紘軌</a></p></td>
 <td><p>佐久間信一</p></td>
 </tr>
 <tr class="odd">
@@ -1067,7 +1067,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td><p>覺悟的戰鬥</p></td>
 <td><p>高山治郎</p></td>
 <td><p>渡邊哲也</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/網野哲郎" title="wikilink">網野哲郎</a></p></td>
+<td><p><a href="../Page/網野哲郎.md" title="wikilink">網野哲郎</a></p></td>
 <td><p>佐久間信一</p></td>
 </tr>
 <tr class="even">
@@ -1118,7 +1118,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td><p>高橋哲子</p></td>
 <td><p>南康宏</p></td>
 <td><p>斧谷稔<br />
-<a href="https://zh.wikipedia.org/wiki/小原正和" title="wikilink">小原正和</a></p></td>
+<a href="../Page/小原正和.md" title="wikilink">小原正和</a></p></td>
 <td><p>佐久間信一</p></td>
 </tr>
 <tr class="odd">
@@ -1317,12 +1317,12 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
   - 企画：[SUNRISE](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")
   - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
   - 总监督：[富野由悠季](../Page/富野由悠季.md "wikilink")
-  - 腳本：[星山博之](https://zh.wikipedia.org/wiki/星山博之 "wikilink")、[千葉克彥](https://zh.wikipedia.org/wiki/千葉克彥 "wikilink")、[淺川美也](../Page/淺川美也.md "wikilink")、[高橋哲子](https://zh.wikipedia.org/wiki/高橋哲子 "wikilink")、[高山治郎](https://zh.wikipedia.org/wiki/高山治郎 "wikilink")、[大河內一樓](../Page/大河內一樓.md "wikilink")、[太田愛](https://zh.wikipedia.org/wiki/太田愛 "wikilink")
-  - 角色原案：[安田朗](https://zh.wikipedia.org/wiki/安田朗 "wikilink")
+  - 腳本：[星山博之](https://zh.wikipedia.org/wiki/星山博之 "wikilink")、[千葉克彥](../Page/千葉克彥.md "wikilink")、[淺川美也](../Page/淺川美也.md "wikilink")、[高橋哲子](https://zh.wikipedia.org/wiki/高橋哲子 "wikilink")、[高山治郎](https://zh.wikipedia.org/wiki/高山治郎 "wikilink")、[大河內一樓](../Page/大河內一樓.md "wikilink")、[太田愛](https://zh.wikipedia.org/wiki/太田愛 "wikilink")
+  - 角色原案：[安田朗](../Page/安田朗.md "wikilink")
   - 人物设計：[菱沼义仁](https://zh.wikipedia.org/wiki/菱沼义仁 "wikilink")
   - 机械设定：[大河原邦男](../Page/大河原邦男.md "wikilink")、[SYD
     MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")、[重田敦司](https://zh.wikipedia.org/wiki/重田敦司 "wikilink")、[沙仓拓实](https://zh.wikipedia.org/wiki/沙仓拓实 "wikilink")
-  - 美术监督：[池田繁美](https://zh.wikipedia.org/wiki/池田繁美 "wikilink")
+  - 美术监督：[池田繁美](../Page/池田繁美.md "wikilink")
   - 音响监督：[鹤冈阳太](https://zh.wikipedia.org/wiki/鹤冈阳太 "wikilink")
   - 音乐：[菅野洋子](../Page/菅野洋子.md "wikilink")
   - 制作：[富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")、[SUNRISE](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")

@@ -18,8 +18,7 @@ Calcio Milan（米兰足球俱乐部）**。
 
 [Gre-No-Li_ACMilan.jpg](https://zh.wikipedia.org/wiki/File:Gre-No-Li_ACMilan.jpg "fig:Gre-No-Li_ACMilan.jpg")
 
-1949年，天才球员[冈纳·诺达尔](https://zh.wikipedia.org/wiki/冈纳·诺达尔 "wikilink")（Nils
-Gunnar
+1949年，天才球员[冈纳·诺达尔](../Page/冈纳·诺达尔.md "wikilink")（Nils Gunnar
 Nordahl）的加盟标志着AC米兰开始走向复兴，他在1949-50赛季出场的37场比赛中打入了35粒进球，成为当年的最佳射手，他的这项单赛季意甲进球纪录至今无人打破。而诺达尔与随后加盟米兰的同胞[尼尔斯·利德霍尔姆](../Page/尼尔斯·利德霍尔姆.md "wikilink")（Nils
 Liedholm）以及（Gunnar
 Gren）一起组成了瑞典三驾马车，开创了米兰第一个辉煌时代。该赛季，AC米兰最终以38战27胜3平8负积84分，5分之差屈居尤文图斯之后获得亚军。第二年，AC米兰终于夺回了失落44年的联赛冠军。此后他们又于1954-55、1956-57、1958-59赛季三夺联赛冠军。
@@ -160,7 +159,7 @@ Castello*）的主人，并且维斯康堤家族的祖先在300年后成为了�
 
 ### 米蘭的號碼傳奇
 
-米蘭在其輝煌的球隊歷史上，產生過多位偉大的球星，其中以身著一些象徵著球隊特殊意義號碼球衣的球星最為引人矚目，9號通常為球隊的第一射手，其中有[冈纳·诺达尔](https://zh.wikipedia.org/wiki/冈纳·诺达尔 "wikilink")，[何塞·阿爾塔菲尼](https://zh.wikipedia.org/wiki/何塞·阿爾塔菲尼 "wikilink")，[保羅·羅西](https://zh.wikipedia.org/wiki/保羅·羅西 "wikilink")，[-{zh-hans:马尔科·范巴斯滕;
+米蘭在其輝煌的球隊歷史上，產生過多位偉大的球星，其中以身著一些象徵著球隊特殊意義號碼球衣的球星最為引人矚目，9號通常為球隊的第一射手，其中有[冈纳·诺达尔](../Page/冈纳·诺达尔.md "wikilink")，[何塞·阿爾塔菲尼](https://zh.wikipedia.org/wiki/何塞·阿爾塔菲尼 "wikilink")，[保羅·羅西](https://zh.wikipedia.org/wiki/保羅·羅西 "wikilink")，[-{zh-hans:马尔科·范巴斯滕;
 zh-hk:馬高·雲巴士頓;}-](../Page/马尔科·范巴斯滕.md "wikilink")，[讓-皮埃爾·帕潘](https://zh.wikipedia.org/wiki/讓-皮埃爾·帕潘 "wikilink")，[乔治·维阿](../Page/乔治·维阿.md "wikilink")，[帕特里克·克魯伊維特](https://zh.wikipedia.org/wiki/帕特里克·克魯伊維特 "wikilink")，[-{zh-hans:菲利波·因扎吉;
 zh-hk:F·恩沙基;}-](https://zh.wikipedia.org/wiki/菲利波·因扎吉 "wikilink")。而進入2000年代以後，隨著[舍甫琴科在球隊取得的成功](../Page/安德烈·舍甫琴科.md "wikilink")，7號亦成為米蘭新領袖的象徵號碼之一，歷史上穿著7號球衣的著名球星包括[斯基亞菲諾](https://zh.wikipedia.org/wiki/胡安·阿爾維托·斯基亞菲諾 "wikilink")，[庫爾特·哈姆林](https://zh.wikipedia.org/wiki/庫爾特·哈姆林 "wikilink")，[羅伯托·多纳多尼](https://zh.wikipedia.org/wiki/多纳多尼 "wikilink")，[舍甫琴科](../Page/安德烈·舍甫琴科.md "wikilink")，[亚历山大·帕托以及](https://zh.wikipedia.org/wiki/亚历山大·帕托 "wikilink")[-{zh-hans:罗比尼奥;zh-hk:羅賓奴;zh-tw:羅比尼奧;}-](https://zh.wikipedia.org/wiki/罗比尼奥 "wikilink")。10號球衣在米蘭的傳統中一直代表了球隊的組織核心，著名的球星有[朱塞佩·梅阿查](../Page/朱塞佩·梅阿查.md "wikilink")，[格倫](https://zh.wikipedia.org/wiki/貢納爾·格倫 "wikilink")，[里維拉](https://zh.wikipedia.org/wiki/里維拉 "wikilink")，[路德·古利特](../Page/路德·古利特.md "wikilink")，[德揚·萨維切維奇](https://zh.wikipedia.org/wiki/德揚·萨維切維奇 "wikilink")，[茲沃尼米爾·博班](https://zh.wikipedia.org/wiki/茲沃尼米爾·博班 "wikilink")，[雷·哥斯達以及](https://zh.wikipedia.org/wiki/雷·哥斯達 "wikilink")[克拉倫斯·施多夫](https://zh.wikipedia.org/wiki/克拉倫斯·西多夫 "wikilink")。
 
@@ -935,7 +934,7 @@ AC米蘭進球
 <tr class="odd">
 <td><p><strong>35</strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亚历山德罗·普利扎里" title="wikilink">普利扎里</a>（Alessandro Plizzari）</p></td>
+<td><p><a href="../Page/亚历山德罗·普利扎里.md" title="wikilink">普利扎里</a>（Alessandro Plizzari）</p></td>
 <td><p>門將</p></td>
 <td></td>
 <td><p>2016年</p></td>
@@ -975,7 +974,7 @@ AC米蘭進球
 <tr class="odd">
 <td><p><strong>2</strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大衛·卡拿比亞" title="wikilink">-{zh-hans:卡拉布里亚;zh-hk:卡拿比亞;zh-tw:卡拉布里亞;}-</a>（Davide Calabria）</p></td>
+<td><p><a href="../Page/大衛·卡拿比亞.md" title="wikilink">-{zh-hans:卡拉布里亚;zh-hk:卡拿比亞;zh-tw:卡拉布里亞;}-</a>（Davide Calabria）</p></td>
 <td><p>右后卫</p></td>
 <td></td>
 <td><p>2015年</p></td>
@@ -985,7 +984,7 @@ AC米蘭進球
 <tr class="even">
 <td><p><strong>12</strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安德烈·孔蒂" title="wikilink">-{zh-hans:孔蒂; zh-hk:干迪;}-</a>（Andrea Conti）</p></td>
+<td><p><a href="../Page/安德烈·孔蒂.md" title="wikilink">-{zh-hans:孔蒂; zh-hk:干迪;}-</a>（Andrea Conti）</p></td>
 <td><p>右后卫</p></td>
 <td></td>
 <td><p>2017年</p></td>
@@ -1025,7 +1024,7 @@ AC米蘭進球
 <tr class="even">
 <td><p><strong>22</strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/马特奥·穆萨基奥" title="wikilink">-{zh-hk:梅沙基奧;zh-hans:穆萨基奥;}-</a>（Mateo Musacchio）</p></td>
+<td><p><a href="../Page/马特奥·穆萨基奥.md" title="wikilink">-{zh-hk:梅沙基奧;zh-hans:穆萨基奥;}-</a>（Mateo Musacchio）</p></td>
 <td><p>中后卫</p></td>
 <td></td>
 <td><p>2017年</p></td>
@@ -1045,7 +1044,7 @@ AC米蘭進球
 <tr class="even">
 <td><p><strong>33</strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馬蒂亞·卡戴拉" title="wikilink">-{zh-hans:卡尔达拉;zh-hk:卡達拉;zh-tw:卡戴拉;}-</a>（Mattia Caldara）</p></td>
+<td><p><a href="../Page/馬蒂亞·卡戴拉.md" title="wikilink">-{zh-hans:卡尔达拉;zh-hk:卡達拉;zh-tw:卡戴拉;}-</a>（Mattia Caldara）</p></td>
 <td><p>中后卫</p></td>
 <td></td>
 <td><p>2018年</p></td>
@@ -1055,7 +1054,7 @@ AC米蘭進球
 <tr class="odd">
 <td><p><strong>68</strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/里卡多·罗德里格斯" title="wikilink">-{zh-hans:里卡多·罗德里格斯; zh-hk:列卡度·洛迪古斯; zh-tw:羅德里格斯;}-</a>（Ricardo Rodríguez）'''</p></td>
+<td><p><a href="../Page/里卡多·罗德里格斯.md" title="wikilink">-{zh-hans:里卡多·罗德里格斯; zh-hk:列卡度·洛迪古斯; zh-tw:羅德里格斯;}-</a>（Ricardo Rodríguez）'''</p></td>
 <td><p>左后卫</p></td>
 <td></td>
 <td><p>2017年</p></td>
@@ -1155,7 +1154,7 @@ AC米蘭進球
 <tr class="odd">
 <td><p><strong>79</strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/弗兰克·凯西" title="wikilink">-{zh-hans:凯西; zh-hk:基斯爾;}-</a>（Franck Kessié）</p></td>
+<td><p><a href="../Page/弗兰克·凯西.md" title="wikilink">-{zh-hans:凯西; zh-hk:基斯爾;}-</a>（Franck Kessié）</p></td>
 <td><p>中场</p></td>
 <td></td>
 <td><p>2017年</p></td>
@@ -1225,7 +1224,7 @@ AC米蘭進球
 <tr class="even">
 <td><p><strong>19</strong></p></td>
 <td></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/克日什托夫·皮亚特克" title="wikilink">-{zh-hans:皮亚特克; zh-hk:比亞迪克;}-</a>（Krzysztof Piątek）</p></td>
+<td><p>'''<a href="../Page/克日什托夫·皮亚特克.md" title="wikilink">-{zh-hans:皮亚特克; zh-hk:比亞迪克;}-</a>（Krzysztof Piątek）</p></td>
 <td><p>前鋒</p></td>
 <td></td>
 <td><p>2019年</p></td>
@@ -1235,7 +1234,7 @@ AC米蘭進球
 <tr class="odd">
 <td><p><strong>63</strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/帕特里克·库特罗内" title="wikilink">-{zh-cn:库特罗内; zh-hk:古度尼;}-</a>（Patrick Cutrone）</p></td>
+<td><p><a href="../Page/帕特里克·库特罗内.md" title="wikilink">-{zh-cn:库特罗内; zh-hk:古度尼;}-</a>（Patrick Cutrone）</p></td>
 <td><p>中鋒</p></td>
 <td></td>
 <td><p>2016年</p></td>
@@ -1307,7 +1306,7 @@ AC米蘭進球
 <tr class="even">
 <td><p><strong>73</strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/曼努埃尔·洛卡特利" title="wikilink">-{zh-cn:洛卡特利;zh-hk:盧卡迪利;zh-tw:洛卡特利;}-</a>（Manuel Locatelli）</p></td>
+<td><p><a href="../Page/曼努埃尔·洛卡特利.md" title="wikilink">-{zh-cn:洛卡特利;zh-hk:盧卡迪利;zh-tw:洛卡特利;}-</a>（Manuel Locatelli）</p></td>
 <td><p>后腰</p></td>
 <td></td>
 <td><p>2016年</p></td>
@@ -1406,7 +1405,7 @@ AC米蘭進球
 <tr class="odd">
 <td><p><strong>9</strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/詹卢卡·拉帕杜拉" title="wikilink">拉帕杜拉</a>（Gianluca Lapadula）</p></td>
+<td><p><a href="../Page/詹卢卡·拉帕杜拉.md" title="wikilink">拉帕杜拉</a>（Gianluca Lapadula）</p></td>
 <td><p>中锋</p></td>
 <td></td>
 <td><p>2016年</p></td>
@@ -1543,7 +1542,7 @@ AC米蘭進球
 
 <!-- end list -->
 
-  - [Flag_of_Sweden.svg](https://zh.wikipedia.org/wiki/File:Flag_of_Sweden.svg "fig:Flag_of_Sweden.svg") [冈纳·诺达尔](https://zh.wikipedia.org/wiki/冈纳·诺达尔 "wikilink")（Gunnar
+  - [Flag_of_Sweden.svg](https://zh.wikipedia.org/wiki/File:Flag_of_Sweden.svg "fig:Flag_of_Sweden.svg") [冈纳·诺达尔](../Page/冈纳·诺达尔.md "wikilink")（Gunnar
     Nordahl，1949年—1956年）
   - [Flag_of_Sweden.svg](https://zh.wikipedia.org/wiki/File:Flag_of_Sweden.svg "fig:Flag_of_Sweden.svg") [尼尔斯·利德霍尔姆](../Page/尼尔斯·利德霍尔姆.md "wikilink")（Nils
     Liedholm，1949年—1961年）
@@ -1651,7 +1650,7 @@ AC米蘭進球
     zh-hk:拉杜斯奧;}-](https://zh.wikipedia.org/wiki/弗洛林·拉杜乔尤 "wikilink")（Florin
     Răducioiu，1993年—1994年）
   - [Flag_of_Montenegro.svg](https://zh.wikipedia.org/wiki/File:Flag_of_Montenegro.svg "fig:Flag_of_Montenegro.svg") [-{zh-hans:德扬·萨维切维奇;
-    zh-hk:沙維斯域;}-](https://zh.wikipedia.org/wiki/德扬·萨维切维奇 "wikilink")（Dejan
+    zh-hk:沙維斯域;}-](../Page/德扬·萨维切维奇.md "wikilink")（Dejan
     Savićević，1992年—1998年）
   - [Flag_of_Liberia.svg](https://zh.wikipedia.org/wiki/File:Flag_of_Liberia.svg "fig:Flag_of_Liberia.svg") [-{zh-hans:乔治·维阿;
     zh-hk:韋亞;}-](https://zh.wikipedia.org/wiki/喬治·維阿 "wikilink")（George
@@ -2250,7 +2249,7 @@ AC米蘭進球
   - 失球最少的赛季：1987–88赛季，30场比赛只失14球。
   - 失球最多的赛季：1932–33赛季，共62球。
   - 连续不失球时间最长：[-{zh-hans:塞巴斯蒂安·罗西;zh-hk:施巴斯坦奴·羅斯}-](https://zh.wikipedia.org/wiki/塞巴斯蒂安·罗西 "wikilink")，1993–94赛季第15–25轮中，929分钟。
-  - 联赛进球最多的球员：[冈纳·诺达尔](https://zh.wikipedia.org/wiki/冈纳·诺达尔 "wikilink")，257场进210球。
+  - 联赛进球最多的球员：[冈纳·诺达尔](../Page/冈纳·诺达尔.md "wikilink")，257场进210球。
   - 联赛出场最多的球员：[保罗·马尔蒂尼](https://zh.wikipedia.org/wiki/保罗·马尔蒂尼 "wikilink")，648场。
   - 参加欧洲赛事最多的球员：保罗·马尔蒂尼，168场。
   - 参加国际比赛最多的球员：保罗·马尔蒂尼，126场。
@@ -2274,7 +2273,7 @@ AC米蘭進球
 <ul>
 <li><p>(<em>Alberigo Evani</em>，27场)</p></li>
 <li><p>(<em>Diego Fuser</em>，15场)</p></li>
-<li><a href="https://zh.wikipedia.org/wiki/馬高·施蒙尼" title="wikilink">马尔科·西蒙尼</a>(<em>Marco Simone</em>，15场)</li>
+<li><a href="../Page/馬高·施蒙尼.md" title="wikilink">马尔科·西蒙尼</a>(<em>Marco Simone</em>，15场)</li>
 <li><a href="../Page/卡洛·安切洛蒂.md" title="wikilink">卡洛·安切洛蒂</a>(<em>Carlo Ancelotti</em>，12场)</li>
 <li><p>(<em>Aldo Serena</em>，9场)</p></li>
 <li><p>(<em>Filippo Galli</em>，8场)</p></li>

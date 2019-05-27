@@ -894,7 +894,7 @@ Lawrence表示](https://zh.wikipedia.org/wiki/Francis_Lawrence "wikilink"):「IM
 
 《[星球大戰：最後的絕地武士](https://zh.wikipedia.org/wiki/星球大戰：最後的絕地武士 "wikilink")》：影片使用IMAX攝影機拍攝了部分畫面，但后期剪辑时没有采用，故最终影片上映时没有IMAX畫面。
 
-《[登月先鋒](https://zh.wikipedia.org/wiki/登月先鋒 "wikilink")》：约10分鐘的月球畫面使用IMAX攝影機拍攝，全球仅发行IMAX激光版本，并未发行IMAX版本。
+《[登月先鋒](../Page/登月先鋒.md "wikilink")》：约10分鐘的月球畫面使用IMAX攝影機拍攝，全球仅发行IMAX激光版本，并未发行IMAX版本。
 
 ## 技術標準
 

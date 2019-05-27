@@ -18,8 +18,7 @@ once, test everywhere）”。导致这种糟糕局面的一个可能原因据�
 
   - [AWT homepage](http://java.sun.com/products/jdk/awt/)
 
-  - (AWT [Javadoc](https://zh.wikipedia.org/wiki/Javadoc "wikilink") API
-    documentation)
+  - (AWT [Javadoc](../Page/Javadoc.md "wikilink") API documentation)
 
   -
 [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")

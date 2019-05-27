@@ -188,7 +188,7 @@ Linux-5.2-GNOME.png|[Sabayon Linux](../Page/Sabayon_Linux.md "wikilink")
 
   - [Linux发行版列表](../Page/Linux发行版列表.md "wikilink")
   - [Linux发行版比较](../Page/Linux发行版比较.md "wikilink")
-  - [Linux的採用](https://zh.wikipedia.org/wiki/Linux的採用 "wikilink")
+  - [Linux的採用](../Page/Linux的採用.md "wikilink")
   - [Cygwin](../Page/Cygwin.md "wikilink")
 
 {{-}}

@@ -1,6 +1,6 @@
-**NEXON**（；；中文：**納-{}-克森**）是一家於1994年12月成立於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[1\]的[電腦遊戲股控公司](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")，Nexon總部曾設於[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")，在2011年12月以控股公司方式，搬移營運總部至[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")\[2\]，實際控制權轉移至[濟州島的NXC公司](https://zh.wikipedia.org/wiki/濟州島 "wikilink")。
+**NEXON**（；；中文：**納-{}-克森**）是一家於1994年12月成立於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[1\]的[電腦遊戲股控公司](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")，Nexon總部曾設於[首爾](../Page/首爾.md "wikilink")，在2011年12月以控股公司方式，搬移營運總部至[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")\[2\]，實際控制權轉移至[濟州島的NXC公司](https://zh.wikipedia.org/wiki/濟州島 "wikilink")。
 
-并擅长开发休闲类的[网络游戏](../Page/网络游戏.md "wikilink")，目前主要的作品有[泡泡堂](https://zh.wikipedia.org/wiki/泡泡堂 "wikilink")、[跑跑卡丁车](../Page/跑跑卡丁车.md "wikilink")、[泡泡战士](../Page/泡泡战士.md "wikilink")、[天翼之鍊](../Page/天翼之鍊.md "wikilink")、[神之領域](../Page/神之領域.md "wikilink")、[新楓之谷](../Page/新楓之谷.md "wikilink")、[瑪奇](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")、[天涯明月刀等](https://zh.wikipedia.org/wiki/天涯明月刀 "wikilink")。在[港](../Page/香港.md "wikilink")[澳](../Page/澳門.md "wikilink")[台地區](https://zh.wikipedia.org/wiki/台灣 "wikilink")，大部分NEXON遊戲均由[遊戲橘子代理運營](https://zh.wikipedia.org/wiki/遊戲橘子數位科技 "wikilink")；而[中國大陸則分別由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[盛大網絡及](https://zh.wikipedia.org/wiki/盛大網絡 "wikilink")[世紀天成代理運營](https://zh.wikipedia.org/wiki/世紀天成 "wikilink")。2011年12月14日起在[東京上市](https://zh.wikipedia.org/wiki/東京 "wikilink")，總部移往[日本](../Page/日本.md "wikilink")，原[首爾本部改為](https://zh.wikipedia.org/wiki/首爾 "wikilink")，成為
+并擅长开发休闲类的[网络游戏](../Page/网络游戏.md "wikilink")，目前主要的作品有[泡泡堂](https://zh.wikipedia.org/wiki/泡泡堂 "wikilink")、[跑跑卡丁车](../Page/跑跑卡丁车.md "wikilink")、[泡泡战士](../Page/泡泡战士.md "wikilink")、[天翼之鍊](../Page/天翼之鍊.md "wikilink")、[神之領域](../Page/神之領域.md "wikilink")、[新楓之谷](../Page/新楓之谷.md "wikilink")、[瑪奇](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")、[天涯明月刀等](https://zh.wikipedia.org/wiki/天涯明月刀 "wikilink")。在[港](../Page/香港.md "wikilink")[澳](../Page/澳門.md "wikilink")[台地區](https://zh.wikipedia.org/wiki/台灣 "wikilink")，大部分NEXON遊戲均由[遊戲橘子代理運營](https://zh.wikipedia.org/wiki/遊戲橘子數位科技 "wikilink")；而[中國大陸則分別由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[盛大網絡及](https://zh.wikipedia.org/wiki/盛大網絡 "wikilink")[世紀天成代理運營](https://zh.wikipedia.org/wiki/世紀天成 "wikilink")。2011年12月14日起在[東京上市](https://zh.wikipedia.org/wiki/東京 "wikilink")，總部移往[日本](../Page/日本.md "wikilink")，原[首爾本部改為](../Page/首爾.md "wikilink")，成為
 （Nexon K.K.)
 的子公司，Nexon的股份則由位於[濟州島的](https://zh.wikipedia.org/wiki/濟州島 "wikilink")
 NXC公司過半持有。
@@ -8,7 +8,7 @@ NXC公司過半持有。
 ## 營運子公司
 
   - [Nexon
-    Korea](https://zh.wikipedia.org/wiki/Nexon_Korea "wikilink")（總部設於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")）
+    Korea](https://zh.wikipedia.org/wiki/Nexon_Korea "wikilink")（總部設於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](../Page/首爾.md "wikilink")）
   - [Nexon
     Europe](https://zh.wikipedia.org/wiki/Nexon_Europe "wikilink")（總部設於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")）
   - [Nexon
@@ -54,15 +54,14 @@ NXC公司過半持有。
   - [Viacom](https://zh.wikipedia.org/wiki/Viacom "wikilink")（製作[尼奧寵物的新增服飾櫃功能及NC](../Page/尼奧寵物.md "wikilink")
     Mall）
   - [世纪天成](https://zh.wikipedia.org/wiki/世纪天成 "wikilink")
-  - [腾讯游戏](https://zh.wikipedia.org/wiki/腾讯游戏 "wikilink")（[冒险岛2](https://zh.wikipedia.org/wiki/冒险岛2 "wikilink")）
+  - [腾讯游戏](https://zh.wikipedia.org/wiki/腾讯游戏 "wikilink")（[冒险岛2](../Page/冒险岛2.md "wikilink")）
 
 ### 曾经合作
 
   - [GameHi](https://zh.wikipedia.org/wiki/GameHi "wikilink")（共同製作黑Online），后因公司与NEXON子公司[Nextoric](https://zh.wikipedia.org/wiki/Nextoric "wikilink")（[新天翼之鍊开发商](https://zh.wikipedia.org/wiki/新天翼之链 "wikilink")）合并为NEXON
     GT而不复存在\[5\]
   - [數碼戲胞](../Page/數碼戲胞.md "wikilink")（已倒閉）
-  - [CJ
-    E\&M](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink")（授權突擊風暴韓國代理權）
+  - [CJ E\&M](../Page/CJ_E&M.md "wikilink")（授權突擊風暴韓國代理權）
 
 ## 旗下遊戲
 

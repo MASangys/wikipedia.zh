@@ -64,7 +64,7 @@ ESPN在美國營運了一系列的頻道，包括：
       - **SEC Network**，2014年開始營運，前身是2009年**SEC Network**2013年更名**SEC
         TV**，起先只提供當地各電視台聯播，2014年起獨立出一個新頻道並改回原名，為[NCAA東南聯盟的專屬頻道](https://zh.wikipedia.org/wiki/全美大學體育協會 "wikilink")；
   - **ESPN PPV**，1999年以**ESPN Extra**的名義開始營運，2001年改為現名；於各大隨選視訊系統提供[Pay
-    per view的服務](https://zh.wikipedia.org/wiki/按次付费电视 "wikilink")；
+    per view的服務](../Page/按次付费电视.md "wikilink")；
   - **[ESPN on
     ABC](https://zh.wikipedia.org/wiki/ESPN_on_ABC "wikilink")**，ESPN於同母公司的**[美國廣播公司](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")（ABC）**電視網製作轉播的體育賽事及節目品牌。
 

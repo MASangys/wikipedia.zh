@@ -76,7 +76,7 @@ CD-ROM的每个扇区包含98个24字节的框，共2352字节信息。CD-ROM作
 ## CD-ROM光驱
 
 [Cdrommit.jpg](https://zh.wikipedia.org/wiki/File:Cdrommit.jpg "fig:Cdrommit.jpg")
-CD-ROM光驱可以读取CD-ROM光盘，这种设备在个人电脑上已经普及。CD-ROM光驱可以通过IDE（[ATA](https://zh.wikipedia.org/wiki/ATA "wikilink")）、[SCSI](https://zh.wikipedia.org/wiki/SCSI "wikilink")、[SATA](../Page/SATA.md "wikilink")、[Firewire和](https://zh.wikipedia.org/wiki/Firewire "wikilink")[USB或者专门设备连接至电脑](../Page/USB.md "wikilink")。事实上，结合适当的软件，所有的现代CD-ROM光驱都能够播放音乐CD、VCD和其它数据标准的CD。
+CD-ROM光驱可以读取CD-ROM光盘，这种设备在个人电脑上已经普及。CD-ROM光驱可以通过IDE（[ATA](../Page/ATA.md "wikilink")）、[SCSI](https://zh.wikipedia.org/wiki/SCSI "wikilink")、[SATA](../Page/SATA.md "wikilink")、[Firewire和](https://zh.wikipedia.org/wiki/Firewire "wikilink")[USB或者专门设备连接至电脑](../Page/USB.md "wikilink")。事实上，结合适当的软件，所有的现代CD-ROM光驱都能够播放音乐CD、VCD和其它数据标准的CD。
 
 ### 激光
 

@@ -39,7 +39,7 @@ Kitty愛漫遊](../Page/Hello_Kitty愛漫遊.md "wikilink")》的3D動畫。
 
 [Yuko_Shimizu_20100702_Japan_Expo_2.jpg](https://zh.wikipedia.org/wiki/File:Yuko_Shimizu_20100702_Japan_Expo_2.jpg "fig:Yuko_Shimizu_20100702_Japan_Expo_2.jpg")
 Hello Kitty
-最初是在1974年由Sanrio公司的设计师[清水侑子设计的](https://zh.wikipedia.org/wiki/清水侑子 "wikilink")。约一年后清水离开了公司。第二位设计者[米洼节子](https://zh.wikipedia.org/wiki/米洼节子 "wikilink")，一直设计直到1980年此项任务交给[山口裕子](https://zh.wikipedia.org/wiki/山口裕子 "wikilink")。
+最初是在1974年由Sanrio公司的设计师[清水侑子设计的](https://zh.wikipedia.org/wiki/清水侑子 "wikilink")。约一年后清水离开了公司。第二位设计者[米洼节子](https://zh.wikipedia.org/wiki/米洼节子 "wikilink")，一直设计直到1980年此项任务交给[山口裕子](../Page/山口裕子.md "wikilink")。
 
 Hello
 Kitty被给予了英国血统因为当时英国文化很受日本女孩欢迎。Kitty的名字来源于[劉易斯·卡羅爾所著](../Page/路易斯·卡羅.md "wikilink")[爱丽丝镜中奇遇一书中爱丽丝养的一只猫](https://zh.wikipedia.org/wiki/爱丽丝镜中奇遇 "wikilink")。1999年被创造出的Hello

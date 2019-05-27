@@ -65,7 +65,7 @@ Debian系统中，[软件包管理可由多种工具协作进行](../Page/软件
 
 [高级包装工具](https://zh.wikipedia.org/wiki/高级包装工具 "wikilink")（APT）提供了管理Debian系统软件的功能，且可以从获取并解析软件包[依赖](https://zh.wikipedia.org/wiki/耦合性_\(计算机科学\) "wikilink")。APT工具之间共享依赖信息和软件包缓存。\[15\]
 
-  - [Aptitude是一个](https://zh.wikipedia.org/wiki/Aptitude "wikilink")[命令行工具](https://zh.wikipedia.org/wiki/CLI "wikilink")，它同时提供一个。该程序提供了一些改进功能，例如对软件包[元信息的增强搜索](../Page/元数据.md "wikilink")。\[16\]
+  - [Aptitude是一个](../Page/Aptitude.md "wikilink")[命令行工具](https://zh.wikipedia.org/wiki/CLI "wikilink")，它同时提供一个。该程序提供了一些改进功能，例如对软件包[元信息的增强搜索](../Page/元数据.md "wikilink")。\[16\]
 
   - 和等命令是标准[apt软件包中的命令行工具](../Page/APT.md "wikilink")。用于安装和删除软件包，用于搜索软件包及显示软件包信息。\[17\]
 

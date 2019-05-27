@@ -38,7 +38,7 @@ lighting）。先前的3D引擎皆是依賴在事先運算好的打光特效或�
   - [獵魂](https://zh.wikipedia.org/wiki/獵魂 "wikilink")（Prey）
   - [德軍總部：黑曜陰謀](../Page/德軍總部：黑曜陰謀.md "wikilink")
   - [边缘战士](https://zh.wikipedia.org/wiki/边缘战士 "wikilink")
-  - [獵魂2](https://zh.wikipedia.org/wiki/獵魂2 "wikilink")
+  - [獵魂2](../Page/獵魂2.md "wikilink")
 
 ## 內部連結
 

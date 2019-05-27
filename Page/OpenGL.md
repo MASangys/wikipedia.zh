@@ -59,13 +59,12 @@ Shading Language (3rd Edition)**. Addison-Wesley Professional. ISBN
 早期的 OpenGL 版本会一同发布配套的
 [GLU](https://zh.wikipedia.org/wiki/GLU "wikilink")
 库，提供一些同时代硬件尚不支持的简单功能。GLU
-最后一次更新规格要求是在 1998
-年，对[已弃用的](https://zh.wikipedia.org/wiki/已弃用 "wikilink")
+最后一次更新规格要求是在 1998 年，对[已弃用的](../Page/已弃用.md "wikilink")
 OpenGL 特性有依赖。
 
 还有几个库也建立在OpenGL之上，提供了OpenGL本身没有的功能：
 
-  - [GLFW](https://zh.wikipedia.org/wiki/GLFW "wikilink")
+  - [GLFW](../Page/GLFW.md "wikilink")
 
   - [GLUT](../Page/GLUT.md "wikilink")
 
@@ -84,10 +83,10 @@ OpenGL 上下文的功能，其中包括
 [SDL](https://zh.wikipedia.org/wiki/SDL "wikilink")、[Allegro](../Page/Allegro.md "wikilink")、、[FLTK](../Page/FLTK.md "wikilink")、[Qt](../Page/Qt.md "wikilink")
 等。也有一些库是专门用来创建 OpenGL 窗口的，其中最早的便是 [GLUT](../Page/GLUT.md "wikilink")，后被
 [freeglut](https://zh.wikipedia.org/wiki/freeglut "wikilink") 取代，比较新的也有
-[GLFW](https://zh.wikipedia.org/wiki/GLFW "wikilink") 可以使用。\[1\]
+[GLFW](../Page/GLFW.md "wikilink") 可以使用。\[1\]
 
   - 以下套件可以用来创建并管理 OpenGL 窗口，也可以管理输入，但几乎没有除此以外的其它功能：
-      - [GLFW](https://zh.wikipedia.org/wiki/GLFW "wikilink")——跨平台窗口和键盘、鼠标、手柄处理；偏向游戏
+      - [GLFW](../Page/GLFW.md "wikilink")——跨平台窗口和键盘、鼠标、手柄处理；偏向游戏
       - [freeglut](https://zh.wikipedia.org/wiki/freeglut "wikilink")——跨平台窗口和键盘、鼠标处理；API
         是 GLUT API 的超集，同时也比 GLUT 更新、更稳定
       - [GLUT](../Page/GLUT.md "wikilink")——早期的窗口处理库，已不再维护

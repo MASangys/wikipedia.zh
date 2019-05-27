@@ -48,7 +48,7 @@ II競爭](https://zh.wikipedia.org/wiki/Pentium_II "wikilink")。
 [KL_Cyrix_MediaGXm_PGA.jpg](https://zh.wikipedia.org/wiki/File:KL_Cyrix_MediaGXm_PGA.jpg "fig:KL_Cyrix_MediaGXm_PGA.jpg")
 1996年Cyrix發布了MediaGX處理器，它將包括聲音、圖形單元在內的所有個人電腦中的主要獨立部件整合於CPU芯片中。起初，是基於早期的5x86技術，運行於120或133MHz，性能並不十分理想，但較低的價格使它得以成功。MediaGX使Cyrix第一次獲得全勝，Compaq將它運用於低成本的[Presario](https://zh.wikipedia.org/wiki/Presario "wikilink")
 2100和2200系列電腦中，這也使得Cyrix獲得將6x86售與[Packard
-Bell和](https://zh.wikipedia.org/wiki/Packard_Bell "wikilink")[eMachines的權力](https://zh.wikipedia.org/wiki/eMachines "wikilink")。
+Bell和](../Page/Packard_Bell.md "wikilink")[eMachines的權力](https://zh.wikipedia.org/wiki/eMachines "wikilink")。
 
 後期MediaGX運行頻率高達至333MHz，並且加入了MMX的支持。加入的額外一顆芯片擴展它的視頻性能。
 

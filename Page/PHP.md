@@ -310,7 +310,7 @@ oriented）的特性，但直到PHP
 
 最流行的PHP框架包括：[Symfony](../Page/Symfony.md "wikilink"), [Zend
 Framework](https://zh.wikipedia.org/wiki/Zend_Framework "wikilink"),
-[Laravel](https://zh.wikipedia.org/wiki/Laravel "wikilink")、[Phalcon](https://zh.wikipedia.org/wiki/Phalcon "wikilink")、[CodeIgniter](../Page/CodeIgniter.md "wikilink")、[Yii](https://zh.wikipedia.org/wiki/Yii "wikilink")、[ThinkPHP等等](https://zh.wikipedia.org/wiki/ThinkPHP "wikilink")。
+[Laravel](../Page/Laravel.md "wikilink")、[Phalcon](../Page/Phalcon.md "wikilink")、[CodeIgniter](../Page/CodeIgniter.md "wikilink")、[Yii](https://zh.wikipedia.org/wiki/Yii "wikilink")、[ThinkPHP等等](https://zh.wikipedia.org/wiki/ThinkPHP "wikilink")。
 
 ### 函式庫
 
@@ -387,7 +387,7 @@ Extension Community Library）取得。
   - [Ovrimos SQL](https://zh.wikipedia.org/wiki/Ovrimos_SQL "wikilink")
   - [PDF](https://zh.wikipedia.org/wiki/Portable_Document_Format "wikilink")
   - [PayFlow Pro](https://zh.wikipedia.org/wiki/PayFlow_Pro "wikilink")
-  - [PDO](https://zh.wikipedia.org/wiki/PHP_Data_Objects "wikilink")
+  - [PDO](../Page/PHP_Data_Objects.md "wikilink")
   - [POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink")
 
 <!-- end list -->

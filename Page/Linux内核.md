@@ -150,7 +150,7 @@ Linux内核提供在特定条件下的[抢先式调度](https://zh.wikipedia.org
 Linux内核含有不同的调度器类\[46\]。内核缺省使用的调度机制叫做[完全公平调度器](https://zh.wikipedia.org/wiki/完全公平调度器 "wikilink")，它介入于内核版本2.6.23\[47\]。这个缺省调度器类在内部也叫做`SCHED_OTHER`，而内核还含有两个遵循POSIX的实时调度类\[48\]，分别叫做`SCHED_FIFO`（实时[先进先出](https://zh.wikipedia.org/wiki/先进先出 "wikilink")）和`SCHED_RR`（实时[轮流式](https://zh.wikipedia.org/wiki/循环制 "wikilink")），二者都优先于缺省类\[49\]。
 
 通过使用实时Linux内核补丁`PREEMPT_RT`，可以支持对关键段落、中断处理器和“中断禁用”代码序列的完全抢先\[50\]。
-实时Linux内核补丁部分地集成入主线内核已经带给它一些功能\[51\]。抢先机制改善[延迟](https://zh.wikipedia.org/wiki/延迟_\(工程学\) "wikilink")、增进响应性，并使得Linux更加适合桌面和[实时应用](../Page/实时计算.md "wikilink")。老版本内核有所谓的，用于锁定粒度为整个内核的同步，它最终由Arnd
+实时Linux内核补丁部分地集成入主线内核已经带给它一些功能\[51\]。抢先机制改善[延迟](../Page/延迟_\(工程学\).md "wikilink")、增进响应性，并使得Linux更加适合桌面和[实时应用](../Page/实时计算.md "wikilink")。老版本内核有所谓的，用于锁定粒度为整个内核的同步，它最终由Arnd
 Bergmann在2011年移除了\[52\]。
 
 还有叫做的调度策略，实现了（EDF）算法，它增加于2014年3月30日发行的内核版本3.14\[53\]\[54\]。
@@ -158,7 +158,7 @@ Bergmann在2011年移除了\[52\]。
 #### 可移植性
 
 [Ipod_linux_booting_kernel.jpg](https://zh.wikipedia.org/wiki/File:Ipod_linux_booting_kernel.jpg "fig:Ipod_linux_booting_kernel.jpg")啟動Linux\]\]
-尽管林納斯·托瓦茲的初衷不是使Linux成为一个可移植的操作系统，今天的Linux却是全球被最广泛移植的操作系统内核。從行動電話到超級電腦，甚至於有人成功的將Linux内核在[索尼出品的遊戲機](../Page/索尼.md "wikilink")[PS2及](../Page/PlayStation_2.md "wikilink")[PS3和](https://zh.wikipedia.org/wiki/PS3 "wikilink")[微軟出品的遊戲機](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Xbox上使用](https://zh.wikipedia.org/wiki/Xbox "wikilink")。Linux也是IBM[超级计算机](../Page/超级计算机.md "wikilink")[Blue
+尽管林納斯·托瓦茲的初衷不是使Linux成为一个可移植的操作系统，今天的Linux却是全球被最广泛移植的操作系统内核。從行動電話到超級電腦，甚至於有人成功的將Linux内核在[索尼出品的遊戲機](../Page/索尼.md "wikilink")[PS2及](../Page/PlayStation_2.md "wikilink")[PS3和](https://zh.wikipedia.org/wiki/PS3 "wikilink")[微軟出品的遊戲機](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Xbox上使用](../Page/Xbox.md "wikilink")。Linux也是IBM[超级计算机](../Page/超级计算机.md "wikilink")[Blue
 Gene的操作系统](https://zh.wikipedia.org/wiki/Blue_Gene "wikilink")。直至2011年11月，全球前五百大超級電腦（[TOP500](../Page/TOP500.md "wikilink")）有高達91.4%的比例採用Linux為它們的作業系統\[55\]。一些为手机开发的操作系统，使用Linux内核的修改后的版本，其中包括谷歌[Android](../Page/Android.md "wikilink")、[Firefox
 OS](../Page/Firefox_OS.md "wikilink")、HP
 [WebOS和诺基亚](https://zh.wikipedia.org/wiki/WebOS "wikilink")[Maemo](../Page/Maemo.md "wikilink")。\[56\]\[57\]\[58\]
@@ -888,7 +888,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td><ul>
 <li>支援虛擬<a href="../Page/圖形處理器.md" title="wikilink">GPU</a>。</li>
 <li>支援 <a href="https://zh.wikipedia.org/wiki/Intel" title="wikilink">Intel</a> <a href="https://zh.wikipedia.org/wiki/CPU" title="wikilink">CPU</a> <a href="../Page/CPU缓存.md" title="wikilink">L2/L3 Cache</a>。</li>
-<li>優化對 <a href="../Page/Ext4.md" title="wikilink">EXT4</a>、<a href="../Page/F2FS.md" title="wikilink">F2FS</a>、<a href="../Page/XFS.md" title="wikilink">XFS</a>、<a href="https://zh.wikipedia.org/wiki/OverlayFS" title="wikilink">OverlayFS</a>、<a href="../Page/网络文件系统.md" title="wikilink">NFS</a>、<a href="../Page/伺服器訊息區塊.md" title="wikilink">CIFS</a>、<a href="../Page/UBIFS.md" title="wikilink">UBIFS</a>、BEFS 和 <a href="../Page/LogFS.md" title="wikilink">LOGFS</a> 檔案系統的支援。</li>
+<li>優化對 <a href="../Page/Ext4.md" title="wikilink">EXT4</a>、<a href="../Page/F2FS.md" title="wikilink">F2FS</a>、<a href="../Page/XFS.md" title="wikilink">XFS</a>、<a href="../Page/OverlayFS.md" title="wikilink">OverlayFS</a>、<a href="../Page/网络文件系统.md" title="wikilink">NFS</a>、<a href="../Page/伺服器訊息區塊.md" title="wikilink">CIFS</a>、<a href="../Page/UBIFS.md" title="wikilink">UBIFS</a>、BEFS 和 <a href="../Page/LogFS.md" title="wikilink">LOGFS</a> 檔案系統的支援。</li>
 <li>針對 <a href="https://zh.wikipedia.org/wiki/AMD_Radeon" title="wikilink">AMD Radeon GPU</a> 驅動進行強化。</li>
 <li>全新的「perfc2c」工具。</li>
 </ul></td>
@@ -924,7 +924,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td><p><strong>EOL</strong></p></td>
 <td><ul>
 <li>史上最大更新。</li>
-<li>初步支援 <a href="../Page/超威半导体.md" title="wikilink">AMD</a> <a href="https://zh.wikipedia.org/wiki/AMD_Radeon_500系列" title="wikilink">Radeon RX Vega</a> <a href="../Page/圖形處理器.md" title="wikilink">GPU</a>。</li>
+<li>初步支援 <a href="../Page/超威半导体.md" title="wikilink">AMD</a> <a href="../Page/AMD_Radeon_500系列.md" title="wikilink">Radeon RX Vega</a> <a href="../Page/圖形處理器.md" title="wikilink">GPU</a>。</li>
 <li>初步支援 <a href="../Page/英伟达.md" title="wikilink">nVidia</a> <a href="../Page/NVIDIA_GeForce_10系列.md" title="wikilink">GeForce GTX 1000 "Pascal"</a> 加速。</li>
 <li>支援 Gemini Lake 的顏色管理器 (Ｃolor Ｍanager)。</li>
 <li>增加對 <a href="../Page/英特尔.md" title="wikilink">Intel</a> Memory Bandwidth Allocation 的支援。</li>
@@ -948,7 +948,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td><p>葛雷格·克羅哈曼</p></td>
 <td><p><strong>EOL</strong></p></td>
 <td><ul>
-<li>初步支援 Intel Cannon Lake/<a href="https://zh.wikipedia.org/wiki/Coffee_Lake微架构" title="wikilink">Coffee Lake</a> CPU。</li>
+<li>初步支援 Intel Cannon Lake/<a href="../Page/Coffee_Lake微架构.md" title="wikilink">Coffee Lake</a> CPU。</li>
 <li>Nouveau 的開源 NVIDIA 具有 HDMI 3D/stereoscopic 支持。</li>
 <li>現在還有一個用於統一 UUID/GUID 處理的更多內核代碼的 UUID 子系統。</li>
 <li>支援 WMI（Windows Management Instrumentation）匯流排。</li>
@@ -987,12 +987,12 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td><p>葛雷格·克羅哈曼</p></td>
 <td><p>EOL</p></td>
 <td><ul>
-<li>修補 <a href="https://zh.wikipedia.org/wiki/熔毁_(安全漏洞)" title="wikilink">Meltdown</a> 和 <a href="https://zh.wikipedia.org/wiki/幽灵_(安全漏洞)" title="wikilink">Spectre</a> 安全漏洞。</li>
-<li>支援 <a href="https://zh.wikipedia.org/wiki/RISC-V" title="wikilink">RISC-V</a> 架構。</li>
+<li>修補 <a href="../Page/熔毁_(安全漏洞).md" title="wikilink">Meltdown</a> 和 <a href="https://zh.wikipedia.org/wiki/幽灵_(安全漏洞)" title="wikilink">Spectre</a> 安全漏洞。</li>
+<li>支援 <a href="../Page/RISC-V.md" title="wikilink">RISC-V</a> 架構。</li>
 <li>支援 <a href="../Page/超威半导体.md" title="wikilink">AMD</a> 安全加密虛擬化。</li>
 <li>支援 <a href="../Page/HDMI.md" title="wikilink">HDMI</a>、<a href="../Page/DisplayPort.md" title="wikilink">Display Port</a> 聲音。</li>
 <li>支援 <a href="../Page/超威半导体.md" title="wikilink">AMD</a> <a href="../Page/AMD_Zen.md" title="wikilink">Zen</a> <a href="../Page/中央处理器.md" title="wikilink">CPU</a> 溫度檢測。</li>
-<li>增進 <a href="../Page/英特尔.md" title="wikilink">Intel</a> <a href="https://zh.wikipedia.org/wiki/Coffee_Lake微架构" title="wikilink">Coffee Lake</a> 內建顯示的穩定性。</li>
+<li>增進 <a href="../Page/英特尔.md" title="wikilink">Intel</a> <a href="../Page/Coffee_Lake微架构.md" title="wikilink">Coffee Lake</a> 內建顯示的穩定性。</li>
 <li>新增 <a href="../Page/超威半导体.md" title="wikilink">AMD</a> <a href="https://zh.wikipedia.org/wiki/AMD_Radeon" title="wikilink">Radeon</a> <a href="../Page/圖形處理器.md" title="wikilink">GPU</a> 和 <a href="../Page/超威半导体.md" title="wikilink">AMD</a> <a href="../Page/圖形處理器.md" title="wikilink">GPU</a> 開源驅動模式設置。</li>
 <li><a href="../Page/超威半导体.md" title="wikilink">AMD</a> Secure Encrypted Virtualization (SEV) 核心程式碼合併。</li>
 </ul></td>
@@ -1004,8 +1004,8 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td><p>葛雷格·克羅哈曼</p></td>
 <td><p>EOL</p></td>
 <td><ul>
-<li>完善 <a href="https://zh.wikipedia.org/wiki/熔毁_(安全漏洞)" title="wikilink">Meltdown</a> 和 <a href="https://zh.wikipedia.org/wiki/幽灵_(安全漏洞)" title="wikilink">Spectre</a> 安全漏洞更新。</li>
-<li>增進 <a href="https://zh.wikipedia.org/wiki/RISC-V" title="wikilink">RISC-V</a> 支援。</li>
+<li>完善 <a href="../Page/熔毁_(安全漏洞).md" title="wikilink">Meltdown</a> 和 <a href="https://zh.wikipedia.org/wiki/幽灵_(安全漏洞)" title="wikilink">Spectre</a> 安全漏洞更新。</li>
+<li>增進 <a href="../Page/RISC-V.md" title="wikilink">RISC-V</a> 支援。</li>
 <li>支援 <a href="../Page/基于内核的虚拟机.md" title="wikilink">KVM</a> 對 <a href="../Page/超威半导体.md" title="wikilink">AMD</a> 安全加密虛擬化。</li>
 <li>移除未使用的程式碼。</li>
 <li>各種系統結構、驅動程式、網路等改進跟修復。</li>
@@ -1203,7 +1203,7 @@ GPLv3 作为 Linux 内核许可证的托瓦茲在几年后重申了他的批评�
 ### SCO爭議
 
 在2003年3月，[SCO
-Group對](../Page/SCO_Group.md "wikilink")[IBM](../Page/IBM.md "wikilink")[提告](https://zh.wikipedia.org/wiki/SCO訴IBM "wikilink")，聲稱IBM將一些在SCO智慧財產權許可證保護下的Unix原始碼植入Linux中，破壞了SCO給予IBM的原始碼使用許可權。另外SCO也發出一大堆存證函給許多公司，警告他們在沒有SCO許可權的情況下使用了Linux，此舉可能導致侵犯智慧財產權，並且以起訴為手段對個別使用者施壓。SCO也同時對[Novell](../Page/Novell.md "wikilink")、[戴姆勒克萊斯勒](https://zh.wikipedia.org/wiki/戴姆勒克萊斯勒 "wikilink")（DaimlerChrysler，在2004年7月被部份駁回）以及[AutoZone提出告訴](https://zh.wikipedia.org/wiki/AutoZone "wikilink")，且被[Red
+Group對](../Page/SCO_Group.md "wikilink")[IBM](../Page/IBM.md "wikilink")[提告](https://zh.wikipedia.org/wiki/SCO訴IBM "wikilink")，聲稱IBM將一些在SCO智慧財產權許可證保護下的Unix原始碼植入Linux中，破壞了SCO給予IBM的原始碼使用許可權。另外SCO也發出一大堆存證函給許多公司，警告他們在沒有SCO許可權的情況下使用了Linux，此舉可能導致侵犯智慧財產權，並且以起訴為手段對個別使用者施壓。SCO也同時對[Novell](../Page/Novell.md "wikilink")、[戴姆勒克萊斯勒](https://zh.wikipedia.org/wiki/戴姆勒克萊斯勒 "wikilink")（DaimlerChrysler，在2004年7月被部份駁回）以及[AutoZone提出告訴](../Page/AutoZone.md "wikilink")，且被[Red
 Hat與其他反對SCO論點的公司反告](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")。2007年8月24日，聯邦法院審理SCO對Novell案（SCO
 v.
 Novell），法院認定Novell才是Unix商標的合法擁有者，而不是SCO。2010年3月20日，[美国联邦第十巡回上诉法院宣判](../Page/美国联邦第十巡回上诉法院.md "wikilink")，Novell才是UNIX與UnixWare商標的合法擁有者。此項判決宣布後，已進入破產保護程序的SCO公司，決定停止繼續提出訴訟。

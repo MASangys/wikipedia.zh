@@ -43,7 +43,7 @@ Oratory）的神父，期許神父教育他們成为好的天主教徒，並抚�
 
 母亲死后，托尔金在伯明翰的地区长大，就学于，以及之后的。1903年，他赢得了一份奖学金后回到了爱德华国王学校。這期间，托尔金成为学校[军官训练团](https://zh.wikipedia.org/wiki/军官训练团 "wikilink")(OTC)的一员，在1910年[乔治五世](https://zh.wikipedia.org/wiki/乔治五世_\(英国\) "wikilink")[加冕游行中帮助调整游行队伍](https://zh.wikipedia.org/wiki/加冕 "wikilink")。托尔金的位置被安排在[白金汉宫大门前](../Page/白金汉宫.md "wikilink")。\[29\]
 
-在艾吉巴斯顿期間，托尔金住在[佩羅特的荒謬高塔和](https://zh.wikipedia.org/wiki/佩羅特的荒謬高塔 "wikilink")[维多利亚时期的](https://zh.wikipedia.org/wiki/维多利亚时期 "wikilink")[艾吉巴斯頓水廠附近](https://zh.wikipedia.org/wiki/艾吉巴斯頓水廠 "wikilink")，讀者們推測，也许這個經驗影响了他作品中黑暗双塔的想象。\[30\]\[31\]另外一个重要影响是[爱德华·伯纳-琼斯和](https://zh.wikipedia.org/wiki/爱德华·伯纳-琼斯 "wikilink")[前拉斐尔派的画作](https://zh.wikipedia.org/wiki/前拉斐尔派 "wikilink")，[伯明翰博物館和美術館有大量藏品向公众展出](../Page/伯明翰博物館和美術館.md "wikilink")。\[32\]
+在艾吉巴斯顿期間，托尔金住在[佩羅特的荒謬高塔和](../Page/佩羅特的荒謬高塔.md "wikilink")[维多利亚时期的](https://zh.wikipedia.org/wiki/维多利亚时期 "wikilink")[艾吉巴斯頓水廠附近](../Page/艾吉巴斯頓水廠.md "wikilink")，讀者們推測，也许這個經驗影响了他作品中黑暗双塔的想象。\[30\]\[31\]另外一个重要影响是[爱德华·伯纳-琼斯和](https://zh.wikipedia.org/wiki/爱德华·伯纳-琼斯 "wikilink")[前拉斐尔派的画作](https://zh.wikipedia.org/wiki/前拉斐尔派 "wikilink")，[伯明翰博物館和美術館有大量藏品向公众展出](../Page/伯明翰博物館和美術館.md "wikilink")。\[32\]
 
 ### 青年
 
@@ -105,13 +105,13 @@ Gondolin)开始。1917到1918年，他的病情反复发作，但他已康复到
 ### 学术和写作生涯
 
 [2_Darnley_Road,_the_former_home_of_J.R.R._Tolkien_in_West_Park,_Leeds.jpg](https://zh.wikipedia.org/wiki/File:2_Darnley_Road,_the_former_home_of_J.R.R._Tolkien_in_West_Park,_Leeds.jpg "fig:2_Darnley_Road,_the_former_home_of_J.R.R._Tolkien_in_West_Park,_Leeds.jpg")
-[20_Northmoor_Road,_Oxford.JPG](https://zh.wikipedia.org/wiki/File:20_Northmoor_Road,_Oxford.JPG "fig:20_Northmoor_Road,_Oxford.JPG")[20号](https://zh.wikipedia.org/wiki/北沼路20號 "wikilink")，托尔金在北牛津的故居。\]\]
+[20_Northmoor_Road,_Oxford.JPG](https://zh.wikipedia.org/wiki/File:20_Northmoor_Road,_Oxford.JPG "fig:20_Northmoor_Road,_Oxford.JPG")[20号](../Page/北沼路20號.md "wikilink")，托尔金在北牛津的故居。\]\]
 一战后，托尔金的第一份平民工作是编纂《[牛津英語詞典](../Page/牛津英語詞典.md "wikilink")》，他主要负责W开头的源自日耳曼语词汇的历史和语源学。\[55\]
-1920年，他接下[利兹大学英语语言的教职](../Page/利兹大学.md "wikilink")（头衔为Reader），并成为那里最年轻的教授。\[56\]在利兹期间，他制作了《中古英语词汇表》，与[E·V·戈登合作完成了](https://zh.wikipedia.org/wiki/E·V·戈登 "wikilink")《[高文爵士与绿骑士](../Page/高文爵士与绿骑士.md "wikilink")》定本，两本书都成为之后几十年的学术标准。他还翻译了《高文爵士》、诗歌《[珍珠](../Page/珍珠.md "wikilink")》和叙事诗《》。1925年，他作为中古英语的劳林森与博斯沃思教授回到[牛津大学](../Page/牛津大学.md "wikilink")，在[彭布罗克学院任职](../Page/牛津大学彭布罗克学院.md "wikilink")。
+1920年，他接下[利兹大学英语语言的教职](../Page/利兹大学.md "wikilink")（头衔为Reader），并成为那里最年轻的教授。\[56\]在利兹期间，他制作了《中古英语词汇表》，与[E·V·戈登合作完成了](../Page/E·V·戈登.md "wikilink")《[高文爵士与绿骑士](../Page/高文爵士与绿骑士.md "wikilink")》定本，两本书都成为之后几十年的学术标准。他还翻译了《高文爵士》、诗歌《[珍珠](../Page/珍珠.md "wikilink")》和叙事诗《》。1925年，他作为中古英语的劳林森与博斯沃思教授回到[牛津大学](../Page/牛津大学.md "wikilink")，在[彭布罗克学院任职](../Page/牛津大学彭布罗克学院.md "wikilink")。
 
-在[彭布罗克学院期间](../Page/牛津大学彭布罗克学院.md "wikilink")，托尔金创作了《[霍比特人](https://zh.wikipedia.org/wiki/霍比特人 "wikilink")》和《[魔戒](../Page/魔戒.md "wikilink")》的前二卷，同时居住在的[诺斯摩尔路](https://zh.wikipedia.org/wiki/北沼路 "wikilink")[20号](https://zh.wikipedia.org/wiki/北沼路20號 "wikilink")（2002年，一个[藍色牌匾被安置在那里以作纪念](../Page/藍色牌匾.md "wikilink")）。在1928年在[格洛斯特郡](../Page/格洛斯特郡.md "wikilink")出土了一座崇拜该神的罗马神庙之后，他在1931年发表了一篇关于凯尔特神祇“[诺登斯](https://zh.wikipedia.org/wiki/诺登斯 "wikilink")”名字的语言学随笔。\[57\]
+在[彭布罗克学院期间](../Page/牛津大学彭布罗克学院.md "wikilink")，托尔金创作了《[霍比特人](https://zh.wikipedia.org/wiki/霍比特人 "wikilink")》和《[魔戒](../Page/魔戒.md "wikilink")》的前二卷，同时居住在的[诺斯摩尔路](../Page/北沼路.md "wikilink")[20号](../Page/北沼路20號.md "wikilink")（2002年，一个[藍色牌匾被安置在那里以作纪念](../Page/藍色牌匾.md "wikilink")）。在1928年在[格洛斯特郡](../Page/格洛斯特郡.md "wikilink")出土了一座崇拜该神的罗马神庙之后，他在1931年发表了一篇关于凯尔特神祇“[诺登斯](https://zh.wikipedia.org/wiki/诺登斯 "wikilink")”名字的语言学随笔。\[57\]
 
-1933年秋季學期，由牛津大學一些志同道合的學者、教授組成的文學社團「[迹象文学社](../Page/迹象文学社.md "wikilink")」正式成立，托爾金和[C·S·路易斯皆是其中的成員之一](../Page/C·S·路易斯.md "wikilink")\[58\]，他都會參與迹象文学社的定期聚會，週一上午在[老鷹與小孩酒吧](https://zh.wikipedia.org/wiki/老鷹與小孩 "wikilink")、週四下午則在學校宿舍裡碰面\[59\]，在聚會時各成員之間互相討論北歐的神話和史詩，以及各人近來的作品\[60\]。包括托爾金的《哈比人歷險記》與《魔戒》的一些章節就曾在迹象文学社聚會上被朗讀\[61\]。
+1933年秋季學期，由牛津大學一些志同道合的學者、教授組成的文學社團「[迹象文学社](../Page/迹象文学社.md "wikilink")」正式成立，托爾金和[C·S·路易斯皆是其中的成員之一](../Page/C·S·路易斯.md "wikilink")\[58\]，他都會參與迹象文学社的定期聚會，週一上午在[老鷹與小孩酒吧](../Page/老鷹與小孩.md "wikilink")、週四下午則在學校宿舍裡碰面\[59\]，在聚會時各成員之間互相討論北歐的神話和史詩，以及各人近來的作品\[60\]。包括托爾金的《哈比人歷險記》與《魔戒》的一些章節就曾在迹象文学社聚會上被朗讀\[61\]。
 
 托爾金亦與C·S·路易斯成為至交好友，他曾這樣說：「同路易斯的友誼給了我很多東西，除了不斷的歡樂和安慰之外，我還從這個誠實、勇敢、聰明的人身上獲益良多」\[62\]。他們在聚會閒聊時相互約定要各自撰寫一個給兒童看的文學作品，托爾金預定寫的[時間題材](https://zh.wikipedia.org/wiki/時間 "wikilink")、而路易斯則是[空間題材](https://zh.wikipedia.org/wiki/空間 "wikilink")。寫作過程中路易斯一直扮演著激勵與催促托爾金的角色，並提供意見，最終路易斯寫出了《[納尼亞傳奇](../Page/納尼亞傳奇.md "wikilink")》系列，而托爾金則是《魔戒》\[63\]\[64\]。不過在創作《魔戒》的過程中，兩人的關係逐漸疏離，直至1957年路易斯同[海倫·喬依·戴維德曼成婚後](https://zh.wikipedia.org/wiki/海倫·喬依·戴維德曼 "wikilink")，托爾金就較少與其來往\[65\]。[1950年代期間](https://zh.wikipedia.org/wiki/1950年代 "wikilink")，托爾金亦慢慢淡出了迹象文学社的活動\[66\]。
 
@@ -154,7 +154,7 @@ Gondolin)开始。1917到1918年，他的病情反复发作，但他已康复到
   - [克里斯托夫·约翰·鲁埃尔·托尔金](../Page/克里斯托夫·托爾金.md "wikilink") （1924年11月21日 - ）
   - 普里西拉·玛丽·安妮·鲁埃尔·托尔金（1929年6月18日 - ）
 
-托尔金为孩子们投入很多精力，孩子小的时候给他们寄带插图的来自[圣诞老人的信](../Page/圣诞老人.md "wikilink")（后集结出版为《[聖誕老爸的來信](https://zh.wikipedia.org/wiki/聖誕老爸的來信 "wikilink")》）。每年会加入新角色，比如[北极熊](https://zh.wikipedia.org/wiki/北极熊 "wikilink")（圣诞老人的助手），[雪人](../Page/雪人.md "wikilink")（他的园丁），精灵伊尔贝雷斯（他的秘书）等等。主要人物会讲述圣诞老人对骑[蝙蝠的](../Page/蝙蝠.md "wikilink")[哥布林的战役](../Page/哥布林.md "wikilink")，还有北极熊的各个[恶作剧故事](https://zh.wikipedia.org/wiki/恶作剧 "wikilink")。\[89\]
+托尔金为孩子们投入很多精力，孩子小的时候给他们寄带插图的来自[圣诞老人的信](../Page/圣诞老人.md "wikilink")（后集结出版为《[聖誕老爸的來信](../Page/聖誕老爸的來信.md "wikilink")》）。每年会加入新角色，比如[北极熊](https://zh.wikipedia.org/wiki/北极熊 "wikilink")（圣诞老人的助手），[雪人](../Page/雪人.md "wikilink")（他的园丁），精灵伊尔贝雷斯（他的秘书）等等。主要人物会讲述圣诞老人对骑[蝙蝠的](../Page/蝙蝠.md "wikilink")[哥布林的战役](../Page/哥布林.md "wikilink")，还有北极熊的各个[恶作剧故事](https://zh.wikipedia.org/wiki/恶作剧 "wikilink")。\[89\]
 
 ### 退休与晚年
 
@@ -183,7 +183,7 @@ Gondolin)开始。1917到1918年，他的病情反复发作，但他已康复到
 ### 自然
 
 [链接=<https://zh.wikipedia.org/wiki/File:Tolkien's_Favorite_Tree,_Oxford_Botanical_Garden.jpg>](https://zh.wikipedia.org/wiki/File:Tolkien's_Favorite_Tree,_Oxford_Botanical_Garden.jpg "fig:链接=https://zh.wikipedia.org/wiki/File:Tolkien's_Favorite_Tree,_Oxford_Botanical_Garden.jpg")
-托爾金非常熱愛大自然，這一點可以從他的插圖和信件看出來。他特別喜愛[樹木](https://zh.wikipedia.org/wiki/樹木 "wikilink")，自認是樹木的捍衛者\[101\]，堅決反對對樹木的肆意破壞\[102\]\[103\]。托爾金去世前的最後一張照片，就是在[牛津大學植物園跟他](../Page/牛津大學植物園.md "wikilink")[最喜愛的一棵黑松樹合影的](https://zh.wikipedia.org/wiki/托爾金樹 "wikilink")\[104\]。對大自然的熱愛亦明顯地表現在托爾金的作品中，例如《精靈寶鑽》中照亮[維林諾的](https://zh.wikipedia.org/wiki/維林諾 "wikilink")[雙聖樹](../Page/雙聖樹.md "wikilink")，以及《魔戒》裡[樹人聯合起來去攻打破壞自然的](../Page/樹人.md "wikilink")[薩魯曼的情節](../Page/薩魯曼.md "wikilink")\[105\]。
+托爾金非常熱愛大自然，這一點可以從他的插圖和信件看出來。他特別喜愛[樹木](https://zh.wikipedia.org/wiki/樹木 "wikilink")，自認是樹木的捍衛者\[101\]，堅決反對對樹木的肆意破壞\[102\]\[103\]。托爾金去世前的最後一張照片，就是在[牛津大學植物園跟他](../Page/牛津大學植物園.md "wikilink")[最喜愛的一棵黑松樹合影的](../Page/托爾金樹.md "wikilink")\[104\]。對大自然的熱愛亦明顯地表現在托爾金的作品中，例如《精靈寶鑽》中照亮[維林諾的](https://zh.wikipedia.org/wiki/維林諾 "wikilink")[雙聖樹](../Page/雙聖樹.md "wikilink")，以及《魔戒》裡[樹人聯合起來去攻打破壞自然的](../Page/樹人.md "wikilink")[薩魯曼的情節](../Page/薩魯曼.md "wikilink")\[105\]。
 
 此外托爾金也非常厭惡[工業化的痕跡入侵了鄉村](../Page/工業化.md "wikilink")\[106\]。托爾金的朋友喬治·塞爾在回憶他與托爾金的一次[度假時表示](https://zh.wikipedia.org/wiki/度假 "wikilink")：「當我們看到[工業污染的痕跡時](https://zh.wikipedia.org/wiki/工業污染 "wikilink")，他（托爾金）會談起[半獸人或半獸人族](../Page/半獸人.md "wikilink")」\[107\]。
 
@@ -225,7 +225,7 @@ Heiðreks）\[118\]、《[老埃達](https://zh.wikipedia.org/wiki/老埃達 "wi
 
 ## 语言学
 
-托爾金的學術生涯和他的文學創作兩者，和他所鍾愛的[語言和](https://zh.wikipedia.org/wiki/語言 "wikilink")[哲學是不可分割的](https://zh.wikipedia.org/wiki/哲學 "wikilink")。他在大學時代專攻[古希臘哲學](https://zh.wikipedia.org/wiki/古希臘 "wikilink")，並自1918年開始投入[牛津英語辭典的編寫工作](https://zh.wikipedia.org/wiki/牛津英語辭典 "wikilink")，其中被認為曾研究“W”為首字的一些詞彙，包括*walrus*「[海象](../Page/海象.md "wikilink")」此字的字源——一個他曾頭痛許久的詞彙\[133\]。1920年，托爾金赴[利茲擔任英語高級講師](https://zh.wikipedia.org/wiki/利茲 "wikilink")，並聲稱是因為他，而使得[語言學學生的數量由](https://zh.wikipedia.org/wiki/語言學 "wikilink")5位增加至20位。他曾教授[古英語](https://zh.wikipedia.org/wiki/古英語 "wikilink")[英雄詩體](https://zh.wikipedia.org/wiki/英雄詩體 "wikilink")、[英語歷史](https://zh.wikipedia.org/wiki/英語 "wikilink")、許多古英語及[中古英語文本](https://zh.wikipedia.org/wiki/中古英語 "wikilink")、古英語及中古英語哲學、[日耳曼哲學介紹](https://zh.wikipedia.org/wiki/日耳曼語言 "wikilink")、[哥德語](../Page/哥德語.md "wikilink")、[古冰島語及](https://zh.wikipedia.org/wiki/古冰島語 "wikilink")[中古威爾斯語](../Page/中古威爾斯語.md "wikilink")。1925年托爾金33歲那年，他成功申請到盎格魯撒克遜的Rawlinson及Bosworth教授職缺，並以其在利茲的日耳曼哲學的學生曾組成一個「維京俱樂部」（Viking
+托爾金的學術生涯和他的文學創作兩者，和他所鍾愛的[語言和](../Page/語言.md "wikilink")[哲學是不可分割的](https://zh.wikipedia.org/wiki/哲學 "wikilink")。他在大學時代專攻[古希臘哲學](https://zh.wikipedia.org/wiki/古希臘 "wikilink")，並自1918年開始投入[牛津英語辭典的編寫工作](https://zh.wikipedia.org/wiki/牛津英語辭典 "wikilink")，其中被認為曾研究“W”為首字的一些詞彙，包括*walrus*「[海象](../Page/海象.md "wikilink")」此字的字源——一個他曾頭痛許久的詞彙\[133\]。1920年，托爾金赴[利茲擔任英語高級講師](https://zh.wikipedia.org/wiki/利茲 "wikilink")，並聲稱是因為他，而使得[語言學學生的數量由](https://zh.wikipedia.org/wiki/語言學 "wikilink")5位增加至20位。他曾教授[古英語](https://zh.wikipedia.org/wiki/古英語 "wikilink")[英雄詩體](https://zh.wikipedia.org/wiki/英雄詩體 "wikilink")、[英語歷史](https://zh.wikipedia.org/wiki/英語 "wikilink")、許多古英語及[中古英語文本](https://zh.wikipedia.org/wiki/中古英語 "wikilink")、古英語及中古英語哲學、[日耳曼哲學介紹](https://zh.wikipedia.org/wiki/日耳曼語言 "wikilink")、[哥德語](../Page/哥德語.md "wikilink")、[古冰島語及](https://zh.wikipedia.org/wiki/古冰島語 "wikilink")[中古威爾斯語](../Page/中古威爾斯語.md "wikilink")。1925年托爾金33歲那年，他成功申請到盎格魯撒克遜的Rawlinson及Bosworth教授職缺，並以其在利茲的日耳曼哲學的學生曾組成一個「維京俱樂部」（Viking
 Club）為傲——在俱樂部裡，大學生可以自由地閱讀古斯堪的納維亞的[冒險故事及喝啤酒](../Page/萨迦_\(文学\).md "wikilink")\[134\]。
 
 私底下，托爾金被任何有關種族及語言學意含的事物吸引，並且思考著一種與生俱來的語言品味，一種他在1955年「[英語與威爾斯語](https://zh.wikipedia.org/wiki/英語與威爾斯語 "wikilink")」這場演講中所提到的「母語」，相對於自幼時所學的語言。他認為[西密德蘭的中古英語是他所擁有的](https://zh.wikipedia.org/wiki/西密德蘭 "wikilink")「母語」，就如同他在1955年給大詩人[奧登的書信中所提到](https://zh.wikipedia.org/wiki/奧登 "wikilink")：「在血緣上，我是一位西密德蘭人（並且早先在我第一眼看到西密德蘭的中古英語時，我就已視他為已知的語言）。」\[135\]
@@ -275,27 +275,25 @@ Club）為傲——在俱樂部裡，大學生可以自由地閱讀古斯堪的�
 
 托爾金去世後，由其子[克里斯托夫·托爾金整理出版的其他作品](../Page/克里斯托夫·托爾金.md "wikilink")：
 
-  - 1976年
-    《[聖誕老爸的來信](https://zh.wikipedia.org/wiki/聖誕老爸的來信 "wikilink")》（The
-    Father Christmas Letters）
+  - 1976年 《[聖誕老爸的來信](../Page/聖誕老爸的來信.md "wikilink")》（The Father
+    Christmas Letters）
   - 1977年 《[精靈寶鑽](../Page/精靈寶鑽.md "wikilink")》（The Silmarillion*）*（\*
     中文繁體版，2002年，台灣[聯經出版公司出版](../Page/聯經出版.md "wikilink")-{[ISBN：9789570825244](https://www.linkingbooks.com.tw/LNB/book/Book.aspx?ID=87015)）
   - 1981年
     《[J·R·R·托尔金的信件](https://zh.wikipedia.org/wiki/J·R·R·托尔金的信件 "wikilink")》（The
     Letters of J. R. R. Tolkien）
-  - 1982年 《[幸福先生](https://zh.wikipedia.org/wiki/幸福先生 "wikilink")》（Mr.
-    Bliss）（\* 中文繁體版，2013年12月，台灣[聯經出版公司出版](../Page/聯經出版.md "wikilink")
+  - 1982年 《[幸福先生](../Page/幸福先生.md "wikilink")》（Mr. Bliss）（\*
+    中文繁體版，2013年12月，台灣[聯經出版公司出版](../Page/聯經出版.md "wikilink")
     [ISBN：9789570843040](https://www.linkingbooks.com.tw/LNB/book/Book.aspx?ID=1100549)）
   - 1983年 The Monsters and the Critics
-  - 1998年
-    《[羅佛蘭登](https://zh.wikipedia.org/wiki/羅佛蘭登 "wikilink")》（Roverandom）
+  - 1998年 《[羅佛蘭登](../Page/羅佛蘭登.md "wikilink")》（Roverandom）
   - 2007年 《》（The Children of Hurin）\[138\]（\*
     中文繁體版，2008年05月，台灣[聯經出版公司出版](../Page/聯經出版.md "wikilink")
     [ISBN：9789570832662](https://www.linkingbooks.com.tw/LNB/book/Book.aspx?ID=187019)）
-  - 2017年《[貝倫與露西安](https://zh.wikipedia.org/wiki/貝倫與露西安 "wikilink")》（Beren
-    and Luthien）\[139\]\[140\]
-  - 2018年《[貢多林的陷落](https://zh.wikipedia.org/wiki/貢多林的陷落 "wikilink")》（The
-    Fall of Gondolin），將於八月出版\[141\]\[142\]\[143\]\[144\]
+  - 2017年《[貝倫與露西安](../Page/貝倫與露西安.md "wikilink")》（Beren and
+    Luthien）\[139\]\[140\]
+  - 2018年《[貢多林的陷落](../Page/貢多林的陷落.md "wikilink")》（The Fall of
+    Gondolin），將於八月出版\[141\]\[142\]\[143\]\[144\]
 
 以下12卷统称为
 《[中土世界的历史](https://zh.wikipedia.org/wiki/中土世界的历史 "wikilink")》〔The
@@ -316,7 +314,7 @@ History of Middle-earth〕
 
 ## 藝術
 
-除作家、語言學家身分外，托爾金亦擅長於作畫，其繪畫技巧主要靠自學而來\[145\]。他著有兒童[繪本](../Page/繪本.md "wikilink")《幸福先生》和《聖誕老爸的來信》，這兩本書皆是在他過世後整理出版的\[146\]。此外托爾金也常為自己的文學作品創作插畫，如1937年版本《哈比人歷險記》的封面插圖即是他本人親自創作的。托爾金的插畫作品多以花草樹木等大自然環境為主題\[147\]。在他身後總共留下两百多張[水彩](https://zh.wikipedia.org/wiki/水彩 "wikilink")、[速寫](https://zh.wikipedia.org/wiki/速寫 "wikilink")、[墨水畫作品](https://zh.wikipedia.org/wiki/墨水畫 "wikilink")，後來這些畫作被與結集成《[J·R·R·托爾金：藝術家與插畫家](https://zh.wikipedia.org/wiki/J·R·R·托爾金：藝術家與插畫家 "wikilink")》與《霍比特人的艺术》出版\[148\]\[149\]\[150\]\[151\]。
+除作家、語言學家身分外，托爾金亦擅長於作畫，其繪畫技巧主要靠自學而來\[145\]。他著有兒童[繪本](../Page/繪本.md "wikilink")《幸福先生》和《聖誕老爸的來信》，這兩本書皆是在他過世後整理出版的\[146\]。此外托爾金也常為自己的文學作品創作插畫，如1937年版本《哈比人歷險記》的封面插圖即是他本人親自創作的。托爾金的插畫作品多以花草樹木等大自然環境為主題\[147\]。在他身後總共留下两百多張[水彩](https://zh.wikipedia.org/wiki/水彩 "wikilink")、[速寫](https://zh.wikipedia.org/wiki/速寫 "wikilink")、[墨水畫作品](https://zh.wikipedia.org/wiki/墨水畫 "wikilink")，後來這些畫作被與結集成《[J·R·R·托爾金：藝術家與插畫家](../Page/J·R·R·托爾金：藝術家與插畫家.md "wikilink")》與《霍比特人的艺术》出版\[148\]\[149\]\[150\]\[151\]。
 
 ## 身後影響
 
@@ -330,7 +328,7 @@ History of Middle-earth〕
 
 在1982年4月發現的一顆[小行星被命名為](https://zh.wikipedia.org/wiki/小行星 "wikilink")「[2675托爾金](../Page/小行星2675.md "wikilink")」，用以紀念J·R·R·托爾金\[157\]\[158\]。
 
-自2003年以來，發起了「[托爾金閱讀日](https://zh.wikipedia.org/wiki/托爾金閱讀日 "wikilink")」的活動，鼓勵大家閱讀托爾金的文學作品\[159\]。
+自2003年以來，發起了「[托爾金閱讀日](../Page/托爾金閱讀日.md "wikilink")」的活動，鼓勵大家閱讀托爾金的文學作品\[159\]。
 
 ### 傳記電影
 

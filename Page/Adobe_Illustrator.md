@@ -392,10 +392,9 @@ CC版本為Adobe Illustrator的第十七個版本，並捨棄永久授權制，�
   - [Sketch](https://zh.wikipedia.org/wiki/Sketch_\(软件\) "wikilink")
   - Figma
   - [Adobe Photoshop](../Page/Adobe_Photoshop.md "wikilink")
-  - [Affinity
-    Designer](https://zh.wikipedia.org/wiki/Affinity_Designer "wikilink")
+  - [Affinity Designer](../Page/Affinity_Designer.md "wikilink")
   - [Adobe Experience
-    Design](https://zh.wikipedia.org/wiki/Adobe_Experience_Design "wikilink")
+    Design](../Page/Adobe_Experience_Design.md "wikilink")
 
 ## 參考資料
 

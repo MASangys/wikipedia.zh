@@ -1,6 +1,6 @@
 是[女同性戀者](https://zh.wikipedia.org/wiki/女同性戀者 "wikilink")（）、[男同性戀者](https://zh.wikipedia.org/wiki/男同性戀者 "wikilink")（）、[雙性戀者](https://zh.wikipedia.org/wiki/雙性戀者 "wikilink")（）與[跨性別者](https://zh.wikipedia.org/wiki/跨性別者 "wikilink")（）的英文[首字母縮略字](../Page/首字母縮略字.md "wikilink")。1990年代，由於「[同性戀社群](https://zh.wikipedia.org/wiki/同性戀社群 "wikilink")」一詞無法完整體現相關群體，「LGBT」一词便應運而生、並逐漸普及\[1\]。在現代用語中，「LGBT」一詞、除了狹義的指[同性戀](../Page/同性戀.md "wikilink")、雙性戀或跨性別族群，也可廣泛代表所有[非異性戀者](../Page/非異性戀.md "wikilink")\[2\]\[3\]。另外，也有在詞語後方加上字母「Q」，代表[酷兒](https://zh.wikipedia.org/wiki/酷儿_\(LGBT\) "wikilink")（）和/或對其性別認同感到疑惑的人（），即是「」。現今已獲得了許多[英語系國家中多數](https://zh.wikipedia.org/wiki/英語國家和地區列表 "wikilink")族群和媒體的認同及採用，成為一種非常主流的用法\[4\]\[5\]。坊間有不少LGBT的資源中心，提供不少有關LGBT的中文文章，包括醫學、心理學、社會科學及法律的文章，是一個研究LGBT議題人士搜尋資料的地方。
 
-然而，「LGBT」的用法並非沒有爭議\[6\]。部分[雙性人](../Page/雙性人.md "wikilink")（intersex）認為自己也屬於族群中，因此支持使用「****」\[7\]\[8\]。也有個別族群不認為自己和LGBT所涵蓋的其他族群有所關聯\[9\]。有人基於「同性戀分離主義」思想，認為男、女同性戀者應脫離其他族群成為另一個團體\[10\]\[11\]</ref>，理由是跨性別和變性者与同性戀人士不同\[12\]。有人則認為“LGBT”這個用語太過[政治正確](../Page/政治正確.md "wikilink")，企圖將[多元性別族群劃入灰色地帶](https://zh.wikipedia.org/wiki/多元性別 "wikilink")，意味著包含主流性別族群的問題和優先權都獲得了平等的考量\[13\]\[14\]。
+然而，「LGBT」的用法並非沒有爭議\[6\]。部分[雙性人](../Page/雙性人.md "wikilink")（intersex）認為自己也屬於族群中，因此支持使用「****」\[7\]\[8\]。也有個別族群不認為自己和LGBT所涵蓋的其他族群有所關聯\[9\]。有人基於「同性戀分離主義」思想，認為男、女同性戀者應脫離其他族群成為另一個團體\[10\]\[11\]</ref>，理由是跨性別和變性者与同性戀人士不同\[12\]。有人則認為“LGBT”這個用語太過[政治正確](../Page/政治正確.md "wikilink")，企圖將[多元性別族群劃入灰色地帶](../Page/多元性別.md "wikilink")，意味著包含主流性別族群的問題和優先權都獲得了平等的考量\[13\]\[14\]。
 
 ## 历史
 
@@ -12,7 +12,7 @@
 ## 變体
 
 [Marcha-orgullo-buenos-aires.JPG](https://zh.wikipedia.org/wiki/File:Marcha-orgullo-buenos-aires.JPG "fig:Marcha-orgullo-buenos-aires.JPG")举行的[骄傲游行](../Page/骄傲游行.md "wikilink")，旗帜上印有LGBT字样\]\]
-“LGBT”有许多变体用法，有些只是改變其字母排列順序。“”和“”是最常用的两种\[39\]。在不包含跨性別者時，它就變成“”\[40\]\[41\]。它也可能加入兩個“Q”来代表[酷兒與](https://zh.wikipedia.org/wiki/酷兒 "wikilink")[疑性恋](https://zh.wikipedia.org/wiki/疑性恋 "wikilink")，變成“LGBTQ”或“LGBTQQ”；加入一個“I”來代表[雙性人](../Page/雙性人.md "wikilink")，變成“”；加入另一個“T”來代表[變性人](https://zh.wikipedia.org/wiki/變性人 "wikilink")，變成“”；加入一個“A”來代表支持[同性戀的](../Page/同性戀.md "wikilink")[異性戀盟友](https://zh.wikipedia.org/wiki/異性戀 "wikilink")（），變成“”\[42\]\[43\]\[44\]\[45\]\[46\]\[47\]\[48\]\[49\]。如果以上全部都包含進去的話，就變成“”，不過這種用法極為少見。臺灣則有“”的用法，其中的“S”指的是「直同志（）」。[泛性恋和](https://zh.wikipedia.org/wiki/泛性恋 "wikilink")[酷儿经常被归类在](https://zh.wikipedia.org/wiki/酷儿 "wikilink")[双性恋之下](../Page/双性恋.md "wikilink")；[变性人和](https://zh.wikipedia.org/wiki/变性人 "wikilink")[双性人被部分人归类在跨性别之下](https://zh.wikipedia.org/wiki/双性人 "wikilink")，但这种归类遭到变性人和双性人的反对。各种变体的字母顺序并不统一，除了上文提到的以“”或“”两种，也有其它以任意顺序排列的情况，但不如前两种常见\[50\]。一词的各种变体并没有任何政治意味，但是反应了使用者对不同群体或个体的偏好\[51\]。
+“LGBT”有许多变体用法，有些只是改變其字母排列順序。“”和“”是最常用的两种\[39\]。在不包含跨性別者時，它就變成“”\[40\]\[41\]。它也可能加入兩個“Q”来代表[酷兒與](https://zh.wikipedia.org/wiki/酷兒 "wikilink")[疑性恋](../Page/疑性恋.md "wikilink")，變成“LGBTQ”或“LGBTQQ”；加入一個“I”來代表[雙性人](../Page/雙性人.md "wikilink")，變成“”；加入另一個“T”來代表[變性人](https://zh.wikipedia.org/wiki/變性人 "wikilink")，變成“”；加入一個“A”來代表支持[同性戀的](../Page/同性戀.md "wikilink")[異性戀盟友](https://zh.wikipedia.org/wiki/異性戀 "wikilink")（），變成“”\[42\]\[43\]\[44\]\[45\]\[46\]\[47\]\[48\]\[49\]。如果以上全部都包含進去的話，就變成“”，不過這種用法極為少見。臺灣則有“”的用法，其中的“S”指的是「直同志（）」。[泛性恋和](https://zh.wikipedia.org/wiki/泛性恋 "wikilink")[酷儿经常被归类在](https://zh.wikipedia.org/wiki/酷儿 "wikilink")[双性恋之下](../Page/双性恋.md "wikilink")；[变性人和](https://zh.wikipedia.org/wiki/变性人 "wikilink")[双性人被部分人归类在跨性别之下](https://zh.wikipedia.org/wiki/双性人 "wikilink")，但这种归类遭到变性人和双性人的反对。各种变体的字母顺序并不统一，除了上文提到的以“”或“”两种，也有其它以任意顺序排列的情况，但不如前两种常见\[50\]。一词的各种变体并没有任何政治意味，但是反应了使用者对不同群体或个体的偏好\[51\]。
 
 [非裔美国人同性恋社群为了与](../Page/非裔美国人.md "wikilink")[白人主导的同性恋社群区分](../Page/白人.md "wikilink")，倾向保用“同性之爱”（）\[52\]。医学界倾向于使用“MSM”（）来形容一个人的同性倾向。在2000年代，“性与性别认同少数群体”（）被引入以形容以上所有的群体\[53\]\[54\]。其它的[首字母缩略字](https://zh.wikipedia.org/wiki/首字母缩略字 "wikilink")，如“”、“”、“”等曾被提出但没有得到广泛使用\[55\]\[56\]\[57\]。
 
@@ -52,12 +52,12 @@
   - [酷兒 (LGBT)](https://zh.wikipedia.org/wiki/酷兒_\(LGBT\) "wikilink")
   - [MOTSS](../Page/MOTSS.md "wikilink")
   - [出櫃](../Page/出櫃.md "wikilink")
-  - [異裝](https://zh.wikipedia.org/wiki/異裝 "wikilink")
+  - [異裝](../Page/異裝.md "wikilink")
   - [LGBT法律](https://zh.wikipedia.org/wiki/LGBT法律 "wikilink")
   - [LGBT权益](https://zh.wikipedia.org/wiki/LGBT权益 "wikilink")
   - [同志神學](../Page/同志神學.md "wikilink")
   - [酷儿理论](../Page/酷儿理论.md "wikilink")
-  - [LGBT政府首脑列表](https://zh.wikipedia.org/wiki/LGBT政府首脑列表 "wikilink")
+  - [LGBT政府首脑列表](../Page/LGBT政府首脑列表.md "wikilink")
 
 {{-}}
 

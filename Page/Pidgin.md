@@ -44,7 +44,7 @@ Code專案希望在](https://zh.wikipedia.org/wiki/Google_Summer_of_Code "wikili
   - [Session Initiation
     Protocol](https://zh.wikipedia.org/wiki/Session_Initiation_Protocol "wikilink")（SIP）
   - [Yahoo\! Messenger](../Page/Yahoo!_Messenger.md "wikilink")
-  - [Zephyr](https://zh.wikipedia.org/wiki/Zephyr "wikilink")
+  - [Zephyr](../Page/Zephyr.md "wikilink")
 
 #### 第三方開發
 

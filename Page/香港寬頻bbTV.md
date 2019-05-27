@@ -465,13 +465,13 @@ Partners](https://zh.wikipedia.org/wiki/CVC_Capital_Partners "wikilink")。2017�
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>320</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Syfy_(亞洲)" title="wikilink">Syfy Channel</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/Syfy_(亞洲).md" title="wikilink">Syfy Channel</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>321</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/環球影劇頻道_(亞洲)" title="wikilink">Universal Channel</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/環球影劇頻道_(亞洲).md" title="wikilink">Universal Channel</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -537,7 +537,7 @@ Partners](https://zh.wikipedia.org/wiki/CVC_Capital_Partners "wikilink")。2017�
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>404</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/AMC_(亞洲)" title="wikilink">AMC</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/AMC_(亞洲).md" title="wikilink">AMC</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>

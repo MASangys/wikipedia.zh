@@ -250,10 +250,10 @@ Fabric也就僅限於主機板範圍內的使用，以主機板為一節點，�
 
 ### 使用Infinity Fabric的產品
 
-  - [Ryzen系列](https://zh.wikipedia.org/wiki/AMD_Ryzen "wikilink")
+  - [Ryzen系列](../Page/AMD_Ryzen.md "wikilink")
   - [Radeon
     Vega系列顯示核心](https://zh.wikipedia.org/wiki/Radeon_500系列 "wikilink")
-  - [Epyc系列](https://zh.wikipedia.org/wiki/AMD_Epyc "wikilink")
+  - [Epyc系列](../Page/AMD_Epyc.md "wikilink")
 
 ## 參見
 
@@ -264,7 +264,7 @@ Fabric也就僅限於主機板範圍內的使用，以主機板為一節點，�
   - [電腦裝置頻寬列表](../Page/電腦裝置頻寬列表.md "wikilink")
   - [PCI Express](../Page/PCI_Express.md "wikilink")
   - [RapidIO](https://zh.wikipedia.org/wiki/RapidIO "wikilink")
-  - [AGESA](https://zh.wikipedia.org/wiki/AGESA "wikilink")
+  - [AGESA](../Page/AGESA.md "wikilink")
   - [Global Memory
     Interconnect](https://zh.wikipedia.org/wiki/Global_Memory_Interconnect "wikilink")
 

@@ -12,7 +12,7 @@
 C++語言發展大概可以分為三個階段：第一階段從80年代到1995年。這一階段C++語言基本上是傳統類型上的[面向对象語言](../Page/面向对象程序设计.md "wikilink")，並且憑藉着接近C語言的效率，在工業界使用的開發語言中佔據了相當大份額；第二階段從1995年到2000年，這一階段由於[標準模板庫](https://zh.wikipedia.org/wiki/標準模板庫 "wikilink")（）和後來的[Boost等程式庫的出現](../Page/Boost_C++_Libraries.md "wikilink")，[泛型程序設計在C](https://zh.wikipedia.org/wiki/泛型程式設計 "wikilink")++中佔據了越來越多的比重。當然，同時由於[Java](../Page/Java.md "wikilink")、[C\#等語言的出現和硬體價格的大規模下降](https://zh.wikipedia.org/wiki/C＃ "wikilink")，C++受到了一定的衝擊；第三階段從2000年至今，由於以[Loki](https://zh.wikipedia.org/wiki/Loki "wikilink")、[MPL(Boost)等程式庫為代表的](../Page/Boost_C++_Libraries.md "wikilink")[產生式編程和](https://zh.wikipedia.org/wiki/產生式編程 "wikilink")[模板元編程的出現](https://zh.wikipedia.org/wiki/模板元編程 "wikilink")，C++出現了發展歷史上又一個新的高峰，這些新技術的出現以及和原有技術的融合，使C++已經成為當今主流程序設計語言中最複雜的一員。
 
 [比雅尼·史特勞斯特魯普](https://zh.wikipedia.org/wiki/比雅尼·史特勞斯特魯普 "wikilink")（）工作起於1979年的。這個構思起源於斯特劳斯特鲁普做博士論文時的一些程式撰寫經驗。他發現[Simula具備很利於大型軟體開發的特點](../Page/Simula.md "wikilink")，但的執行速度太慢，無法對現實需求發揮功效；[BCPL雖快得多](../Page/BCPL.md "wikilink")，但它過於低階的特性，使其不適於大型軟體的開發。當斯特劳斯特鲁普開始在[貝爾實驗室工作時](../Page/贝尔实验室.md "wikilink")，他有分析[UNIX](https://zh.wikipedia.org/wiki/Unix "wikilink")[核心關於](https://zh.wikipedia.org/wiki/核心 "wikilink")[分散式計算的問題](https://zh.wikipedia.org/wiki/分散式計算 "wikilink")。回想起他的博士論文經驗，斯特劳斯特鲁普開始為C語言增強一些類似的特點。\[2\]之所以選擇C，是因為它適於各種用途、快速和可移植性。除了[C和](../Page/C.md "wikilink")[Simula之外](../Page/Simula.md "wikilink")，同時也從其它語言中取得靈感，如[ALGOL
-68](../Page/ALGOL_68.md "wikilink")、[Ada](../Page/Ada.md "wikilink")、[CLU以及](https://zh.wikipedia.org/wiki/CLU "wikilink")[ML](https://zh.wikipedia.org/wiki/ML "wikilink")。
+68](../Page/ALGOL_68.md "wikilink")、[Ada](../Page/Ada.md "wikilink")、[CLU以及](../Page/CLU.md "wikilink")[ML](https://zh.wikipedia.org/wiki/ML "wikilink")。
 
 剛開始時，[類別](../Page/类_\(计算机科学\).md "wikilink")、[衍生類別](https://zh.wikipedia.org/wiki/继承_\(计算机科学\) "wikilink")、儲存類型檢查、[內聯和](https://zh.wikipedia.org/wiki/內聯 "wikilink")[缺省参数特性](../Page/缺省参数.md "wikilink")，都是透過[Cfront引入C語言之中](https://zh.wikipedia.org/wiki/Cfront "wikilink")。\[3\]
 
@@ -375,7 +375,7 @@ Torvalds曾经炮轰C](https://zh.wikipedia.org/wiki/Linus_Torvalds "wikilink")+
 
 ## 參閱
 
-  - 《[C++程式語言](https://zh.wikipedia.org/wiki/C++程式語言_\(書\) "wikilink")》（）
+  - 《[C++程式語言](../Page/C++程式語言_\(書\).md "wikilink")》（）
   - [比较Java和C++](https://zh.wikipedia.org/wiki/比较Java和C++ "wikilink")
   - [C++託管擴展](https://zh.wikipedia.org/wiki/C++託管擴展 "wikilink")
   - [C++/CLI](https://zh.wikipedia.org/wiki/C++/CLI "wikilink")

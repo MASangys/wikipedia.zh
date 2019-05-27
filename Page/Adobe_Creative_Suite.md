@@ -818,10 +818,10 @@ Creative Suite CS5.5 Production Premium或Adobe Premiere Pro CS5.5。
 | [Photoshop CS6 Extended](../Page/Adobe_Photoshop.md "wikilink")                             |
 | [Illustrator CS6](../Page/Adobe_Illustrator.md "wikilink")                                  |
 | [InDesign CS6](../Page/Adobe_InDesign.md "wikilink")                                        |
-| [Muse](https://zh.wikipedia.org/wiki/Adobe_Muse "wikilink")                                 |
+| [Muse](../Page/Adobe_Muse.md "wikilink")                                                    |
 | [Acrobat X Pro](../Page/Adobe_Acrobat.md "wikilink")                                        |
 | [Flash Professional CS6](https://zh.wikipedia.org/wiki/Adobe_Flash_Professional "wikilink") |
-| [Flash Builder 4.6 Premium](https://zh.wikipedia.org/wiki/Adobe_Flash_Builder "wikilink")   |
+| [Flash Builder 4.6 Premium](../Page/Adobe_Flash_Builder.md "wikilink")                      |
 | [Dreamweaver CS6](../Page/Adobe_Dreamweaver.md "wikilink")                                  |
 | [Edge](https://zh.wikipedia.org/wiki/Adobe_Edge "wikilink")                                 |
 | [Fireworks CS6](../Page/Adobe_Fireworks.md "wikilink")                                      |

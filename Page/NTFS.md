@@ -51,7 +51,7 @@ Vista增加了](../Page/Windows_Vista.md "wikilink")[NTFS符号链接](../Page/N
 ## 功能
 
 相对于之前的版本，NTFS
-v3.0包含若干新功能：磁盘使用限额、稀疏文件支持、重解析点、[分布链接跟踪](https://zh.wikipedia.org/wiki/分布链接跟踪 "wikilink")，以及文件级加密（即“[加密文件系统](https://zh.wikipedia.org/wiki/加密文件系统 "wikilink")（EFS）”）。
+v3.0包含若干新功能：磁盘使用限额、稀疏文件支持、重解析点、[分布链接跟踪](https://zh.wikipedia.org/wiki/分布链接跟踪 "wikilink")，以及文件级加密（即“[加密文件系统](../Page/加密文件系统.md "wikilink")（EFS）”）。
 
 ### 可伸缩性
 
@@ -147,14 +147,14 @@ NTFS，TxF）将一系列对文件的更改归组到一个[事务中](https://zh
 
 第一个列表被称为[自主访问控制列表](../Page/自主访问控制.md "wikilink")（DACL），用于描述是否允许或禁止特定的用户或用户组进行特定的操作（如读取、写入、执行或删除）。例如，“C:\\Program
 Files”文件夹可能被设定为允许所有用户读取并执行，但只有具有管理员权限的用户才能修改其内容。Windows
-Vista为DACL增加了[强制访问控制功能](https://zh.wikipedia.org/wiki/强制访问控制 "wikilink")。DACL是Windows
+Vista为DACL增加了[强制访问控制功能](../Page/强制访问控制.md "wikilink")。DACL是Windows
 Vista及后续操作系统的[用户账户控制功能的主要检查点](https://zh.wikipedia.org/wiki/用户账户控制 "wikilink")。
 
 第二个列表被称为系统访问控制列表（SACL），用于描述对文件或文件夹的特定行为是否应当被审核，以及在操作成功后是否应当记录操作。例如，企业可能会对高度敏感的文件开启审核功能，这样管理员就可以了解到是否有人尝试删除或复制这些文件，以及他们的操作是否成功完成。
 
 ### 加密
 
-[加密文件系统（EFS）提供对NTFS卷上任意文件和文件夹的用户透明的强保护](https://zh.wikipedia.org/wiki/加密文件系统 "wikilink")。加密文件系统需要与EFS服务、Microsoft的[加密应用程序接口（CryptoAPI）以及EFS](https://zh.wikipedia.org/wiki/加密应用程序接口 "wikilink")
+[加密文件系统（EFS）提供对NTFS卷上任意文件和文件夹的用户透明的强保护](../Page/加密文件系统.md "wikilink")。加密文件系统需要与EFS服务、Microsoft的[加密应用程序接口（CryptoAPI）以及EFS](https://zh.wikipedia.org/wiki/加密应用程序接口 "wikilink")
 [文件运行时库](https://zh.wikipedia.org/wiki/文件运行时库 "wikilink")（FSRTL）联合工作。
 EFS使用[对称密钥](https://zh.wikipedia.org/wiki/对称密钥算法 "wikilink")（也被称为“文件加密密钥（FEK）”）加密文件，这比起使用[非对称密钥加密在加密和解密大量数据时消耗的时间较少](https://zh.wikipedia.org/wiki/非对称密钥算法 "wikilink")。该对称密钥使用一个和请求加密文件的用户相关的[公钥加密文件的内容](https://zh.wikipedia.org/wiki/公钥加密 "wikilink")，加密后的数据储存在被加密文件的可选数据流中。当需要解密文件时，文件系统使用用户的密钥解密储存在文件头中的对称密钥，然后使用该对称密钥解密文件。这些操作在文件系统级别完成，因此对用户来说是透明的。\[31\]为了处理用户丢失密钥的情况，加密文件系统中还支持多个附加解密密钥，因此除用户外，授权过的[恢复代理也能访问数据](https://zh.wikipedia.org/wiki/恢复代理 "wikilink")。NTFS提供的加密和压缩功能是互相排斥的——如果同时希望加密和压缩，则NTFS文件系统级别只能打开其中一种功能，另一种功能需要使用其它第三方工具完成。
 
@@ -215,7 +215,7 @@ API请求打开目标的时候才加载到系统中。符号链接是永久的�
 
 ### 分布链接跟踪（DLT）
 
-分布链接跟踪功能允许应用程序跟踪被重命名或者移动到同一计算机、域或工作组的其它卷中的文件、[快捷方式和OLE链接](https://zh.wikipedia.org/wiki/文件快捷方式 "wikilink")。\[35\]跟踪功能由一个系统服务提供，使用存储在[元文件中的对象标识符](https://zh.wikipedia.org/wiki/#元文件 "wikilink")（OID）索引实现。\[36\]当应用程序请求跟踪某个文件或目录后，跟踪服务将会创建对象的OID项并指向目标。在一个NTFS
+分布链接跟踪功能允许应用程序跟踪被重命名或者移动到同一计算机、域或工作组的其它卷中的文件、[快捷方式和OLE链接](../Page/文件快捷方式.md "wikilink")。\[35\]跟踪功能由一个系统服务提供，使用存储在[元文件中的对象标识符](https://zh.wikipedia.org/wiki/#元文件 "wikilink")（OID）索引实现。\[36\]当应用程序请求跟踪某个文件或目录后，跟踪服务将会创建对象的OID项并指向目标。在一个NTFS
 v3上执行文件重命名、复制或移动操作时，也会同时复制对象的OID，这样跟踪服务就可以有效地寻找到目标。
 
 ### 单实例存储（SIS）
@@ -584,7 +584,7 @@ ROM软件中](../Page/Nero_Burning_ROM.md "wikilink")。[OpenBSD在](../Page/Ope
 ### 调整大小
 
 有许多第三方工具可以安全地重新调整NTFS分区的大小。在Windows
-Vista中，Microsoft添加收缩和扩展分区的功能，但该功能非常有限，因为该功能无法整理[页面文件](https://zh.wikipedia.org/wiki/页面文件 "wikilink")[碎片或者标记为不可移动的文件](https://zh.wikipedia.org/wiki/碎片 "wikilink")，因此限制对分区的收缩能力。取消页面文件重新启动或使用第三方的工具进行[磁盘碎片整理也许能改善收缩效果](https://zh.wikipedia.org/wiki/磁盘碎片整理 "wikilink")。
+Vista中，Microsoft添加收缩和扩展分区的功能，但该功能非常有限，因为该功能无法整理[页面文件](https://zh.wikipedia.org/wiki/页面文件 "wikilink")[碎片或者标记为不可移动的文件](../Page/碎片.md "wikilink")，因此限制对分区的收缩能力。取消页面文件重新启动或使用第三方的工具进行[磁盘碎片整理也许能改善收缩效果](https://zh.wikipedia.org/wiki/磁盘碎片整理 "wikilink")。
 
 ## 另请参阅
 

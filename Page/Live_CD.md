@@ -69,7 +69,7 @@ Linux](https://zh.wikipedia.org/wiki/Damn_Small_Linux "wikilink")（DSL）可以
   - [FreeSBIE](https://zh.wikipedia.org/wiki/FreeSBIE "wikilink")（基於[FreeBSD](../Page/FreeBSD.md "wikilink")）
   - [Frenzy](https://zh.wikipedia.org/wiki/Frenzy_LiveCD "wikilink")
     mini-CD（基於[FreeBSD](../Page/FreeBSD.md "wikilink")）
-  - [M0n0wall](https://zh.wikipedia.org/wiki/M0n0wall "wikilink")（基於[FreeBSD](../Page/FreeBSD.md "wikilink")）的防火墙
+  - [M0n0wall](../Page/M0n0wall.md "wikilink")（基於[FreeBSD](../Page/FreeBSD.md "wikilink")）的防火墙
   - [NetBSD](../Page/NetBSD.md "wikilink") -
     官方LiveCD影像檔。[直接下載](ftp://ftp.netbsd.org/pub/NetBSD/iso/2.0/i386live.iso)與[快速參考文件](ftp://ftp.netbsd.org/pub/NetBSD/iso/2.0/README.i386live)。
   - [RedBSD](https://web.archive.org/web/20140103082726/http://redbsd.com/)

@@ -73,7 +73,7 @@ NEWS](https://zh.wikipedia.org/wiki/V_NEWS "wikilink")、[校園SUPERMAN](https:
 
   - 2014年1月1日，配合FOX頻道在台灣在地化，FOX娛樂台和另一頻道FOX
     HD進行整合，並更名為[FOX台灣頻道](https://zh.wikipedia.org/wiki/FOX台灣頻道 "wikilink")，從\[V\]台品牌脫鈎。此後Channel
-    \[V\]台灣頻道只維持海外版播放，部分時段維持播放音樂錄影帶(普普風、新嗓門)，其他時段重播\[V\]娛樂時期自製節目及[衛視中文台精選節目](../Page/衛視中文台.md "wikilink")。和[FOX亞洲頻道毫無關係](https://zh.wikipedia.org/wiki/FOX_\(亞洲\) "wikilink")。
+    \[V\]台灣頻道只維持海外版播放，部分時段維持播放音樂錄影帶(普普風、新嗓門)，其他時段重播\[V\]娛樂時期自製節目及[衛視中文台精選節目](../Page/衛視中文台.md "wikilink")。和[FOX亞洲頻道毫無關係](../Page/FOX_\(亞洲\).md "wikilink")。
 
 <!-- end list -->
 

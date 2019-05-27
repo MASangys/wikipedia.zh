@@ -15,7 +15,7 @@ A5](../Page/Apple_A5.md "wikilink")，記憶體也從原本的256MB提升至512M
 2015年9月9日，第四代Apple TV與[iPad
 Pro與iPhone一同發表](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")，將原本的中央處理器[Apple
 A5升級為](../Page/Apple_A5.md "wikilink")[Apple
-A8](https://zh.wikipedia.org/wiki/Apple_A8 "wikilink")，遙控器多了音量控制跟Siri。
+A8](../Page/Apple_A8.md "wikilink")，遙控器多了音量控制跟Siri。
 
 ## 历史
 
@@ -39,7 +39,7 @@ TV亦在2010年9月1日的苹果新闻发布会上亮相。\[10\]\[11\]\[12\]
 Pro與iPhone](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
 6S一同發表。中央處理器從第三代的[Apple
 A5處理器升級為](../Page/Apple_A5.md "wikilink")[Apple
-A8遙控器多了音量控制和Siri](https://zh.wikipedia.org/wiki/Apple_A8 "wikilink")，遙控器上半部改由觸控操作。
+A8遙控器多了音量控制和Siri](../Page/Apple_A8.md "wikilink")，遙控器上半部改由觸控操作。
 
 ## 特點
 
@@ -222,8 +222,7 @@ TV曾經限制照片同步，但此問題已於2007年6月的[iTunes升級時修
     EyeHome，2004年发布的Mac用多媒体播放器
   - [Google TV](../Page/Google_TV.md "wikilink")
   - [Apple_TV_Remote](../Page/Apple_TV_Remote.md "wikilink")
-  - [Apple TV
-    (應用程式)](https://zh.wikipedia.org/wiki/Apple_TV_\(應用程式\) "wikilink")
+  - [Apple TV (應用程式)](../Page/Apple_TV_\(應用程式\).md "wikilink")
 
 ## 參考資料
 

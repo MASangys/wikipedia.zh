@@ -30,7 +30,7 @@ party與其他參賽者或隊伍進行比賽。而[機殼改裝及超頻愛好�
 party還會在會場自行架設[P2P的](https://zh.wikipedia.org/wiki/P2P "wikilink")[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。
 
 LAN
-party並不限於電腦，例如[微軟出品的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")，提供了區網連線的功能，因此也有些LAN
+party並不限於電腦，例如[微軟出品的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Xbox](../Page/Xbox.md "wikilink")，提供了區網連線的功能，因此也有些LAN
 party是由玩Xbox的玩家帶著自己的Xbox舉辦。
 
 ## LAN party的風氣
@@ -160,7 +160,7 @@ party的舉辦，原因通常是網咖林立、且搬電腦設備需要有車輛
 
 ### 臺灣
 
-  - [WirForce](https://zh.wikipedia.org/wiki/WirForce "wikilink")，由[4Gamers與InFamous舉辦的台灣大型活動](https://zh.wikipedia.org/wiki/4Gamers "wikilink")。
+  - [WirForce](../Page/WirForce.md "wikilink")，由[4Gamers與InFamous舉辦的台灣大型活動](../Page/4Gamers.md "wikilink")。
 
 <!-- end list -->
 

@@ -135,7 +135,7 @@ Rock and Roll」意思，即是樂隊以搖滾樂為主流，但玩的卻是搖�
 <td><p><a href="../Page/鍵盤樂器.md" title="wikilink">鍵盤</a>、和音</p></td>
 <td><p>- 最年幼的隊員<br />
 - 被視為<strong>第五隊員</strong><br />
-- 加入前為二人樂隊<a href="https://zh.wikipedia.org/wiki/浮世繪_(樂隊)" title="wikilink">浮世繪隊員</a>，離隊後不久亦重組<br />
+- 加入前為二人樂隊<a href="../Page/浮世繪_(樂隊).md" title="wikilink">浮世繪隊員</a>，離隊後不久亦重組<br />
 - 與<a href="../Page/黃家強.md" title="wikilink">黃家強意見不合而離隊</a>，但後來已冰釋前嫌<br />
 - 離隊後亦曾參與過樂隊的演出及<a href="../Page/驚喜_(專輯).md" title="wikilink">幕後工作</a></p></td>
 </tr>
@@ -328,7 +328,7 @@ Friends》（這歌其後被改成中文歌《東方寶藏》收錄在《亞拉�
 
 這時Beyond的成員為黃家駒、黃家強、葉世榮和[陳時安](https://zh.wikipedia.org/wiki/陳時安 "wikilink")，四人一起創作了不少歌曲，打算開演唱會。此時陳時安要出國升學，於是Beyond積極尋找結他手頂替。世榮認識阿Paul（[黃貫中](../Page/黃貫中.md "wikilink")）在先，當時他請在大專修讀設計的阿Paul幫Beyond設計海報；阿Paul本身也有參加其他的樂隊，結他技術高超，Beyond便請Paul幫忙，四人一起籌備演唱會的工作。
 
-1985年7月20日，Beyond以地下樂隊的身份，租下香港堅道明愛中心開了一場“永遠等待”演唱會。Beyond邀請多家唱片公司人員來觀看，卻一個也沒見；幸好，有一位與他們簽訂了五年的合作關係，也就是以後與Beyond發生法律糾紛，Beyond的第一位經理人——[陳健添](https://zh.wikipedia.org/wiki/陳健添 "wikilink")。
+1985年7月20日，Beyond以地下樂隊的身份，租下香港堅道明愛中心開了一場“永遠等待”演唱會。Beyond邀請多家唱片公司人員來觀看，卻一個也沒見；幸好，有一位與他們簽訂了五年的合作關係，也就是以後與Beyond發生法律糾紛，Beyond的第一位經理人——[陳健添](../Page/陳健添.md "wikilink")。
 
 這次演唱會，Beyond自己出錢出力，台前幕後一切事務皆親力親為，他們更向銀行貸款一萬六千元，才可順利舉行，但最後結算還是虧損了六千元。他們當時的人工只有一千元，那更顯出他們的決心。當時他們的想法是要以一個公開的表演形式，將自己的作品介紹給其他人認識；更樂觀的想法是希望籍這次音樂會賺​​取一筆錢，來應付之後出版盒帶的費用。
 
@@ -365,7 +365,7 @@ Boy》及標題歌《永遠等待》隨即成為的士高的熱門歌曲；而�
 
 Beyond的音樂風格和形象仍然未能為大眾接受，唱片銷量並不理想。1988年3月推出專輯《[現代舞台](../Page/現代舞台.md "wikilink")》，重新收錄了《舊日的足跡》，音樂走向較以前柔和，有些歌曲走流行路線，Beyond式的慢板情歌也於這時出現，如《冷雨夜》、《天真的創傷》，諷刺社會的《現代舞台》，是Beyond開始批判社會現象的開始，黃貫中和黃家強首次有了自己的主唱歌曲。不過這張專輯的銷量也欠佳，而經紀人也對他們言明如果專輯再不賣，他們就沒有發片的機會了。
 
-1988年12月，Beyond發行了一張《舊日足跡》精選集，並在大專會堂舉辦了一場音樂會，會上[劉志遠宣布要退出樂隊](https://zh.wikipedia.org/wiki/劉志遠_\(香港音樂人\) "wikilink")，其後更與[梁翹柏重組樂隊](../Page/梁翹柏.md "wikilink")「[浮世繪](https://zh.wikipedia.org/wiki/浮世繪_\(樂隊\) "wikilink")」，樂迷一直猜疑劉志遠離隊的原因。直至2008年6月，劉志遠才坦承當年與低音結他手[黃家強爭吵](../Page/黃家強.md "wikilink")，一時意氣下決定離隊。\[12\]\[13\]
+1988年12月，Beyond發行了一張《舊日足跡》精選集，並在大專會堂舉辦了一場音樂會，會上[劉志遠宣布要退出樂隊](https://zh.wikipedia.org/wiki/劉志遠_\(香港音樂人\) "wikilink")，其後更與[梁翹柏重組樂隊](../Page/梁翹柏.md "wikilink")「[浮世繪](../Page/浮世繪_\(樂隊\).md "wikilink")」，樂迷一直猜疑劉志遠離隊的原因。直至2008年6月，劉志遠才坦承當年與低音結他手[黃家強爭吵](../Page/黃家強.md "wikilink")，一時意氣下決定離隊。\[12\]\[13\]
 
 也許是有即將不再發片的憂患意識，其後，Beyond簽約當時成立不久的[新藝寶唱片公司](../Page/新藝寶唱片.md "wikilink")，而Beyond的歌曲走向更加「商業化」。成員作出各種改變，例如把頭髮剪短，務求要一洗反叛青年的形象。第三張專輯《[秘密警察](../Page/秘密警察_\(專輯\).md "wikilink")》更嘗試走向大眾化，重新收錄四人合唱的《再見理想》，而合唱歌曲也成了他們最受歡迎的風格之一；《大地》有著強烈東方色彩的Rock，更是深深的唱入了聽眾的心，成了Beyond的第一首經典名曲；而《喜歡你》成了極受歡迎的情歌之一。這張專輯銷量理想，獲得雙白金的佳績，而專輯內的《喜歡妳》、《大地》亦成為當時的流行歌曲，Beyond更憑藉《大地》一曲獲選[1988年度十大勁歌金曲](https://zh.wikipedia.org/wiki/1988年度十大勁歌金曲得獎名單 "wikilink")，首次奪得[電子傳媒的獎項](https://zh.wikipedia.org/wiki/電子傳媒 "wikilink")，又與達明一派、小島樂隊合作錄製了香港搖滾史上第一張混音作品集，Beyond的混音加長版作品共三首，即《過去與今天Remix》、《孤單一吻Remix》、《昔日舞曲Remix》。
 
@@ -519,7 +519,7 @@ IV》內曲風走向商業化，與前一大碟[秘密警察截然不同](../Pag
 [香港電台於](../Page/香港電台.md "wikilink")2008年製作了《不死傳奇》紀念特輯
 ——《不死傳奇——黃家駒》，當中記錄了原來在中國大陸改革開放的初期，遠至[大中華地區](../Page/大中華.md "wikilink")，縱使Beyond歌曲普遍以[粵語而非](https://zh.wikipedia.org/wiki/粵語 "wikilink")[國語歌唱](https://zh.wikipedia.org/wiki/國語 "wikilink")，Beyond的歌聲已經深深打進了中國內地年青人的心中。他們覺得Beyond的歌曲很能體會當時年輕人的心態，應驗了歌曲是沒有受到語言或地域的限制，只要能感染人的心靈便是好歌。有欣賞黃家駒的內地歌迷更稱呼黃家駒為藝術家，並非單純的偶像歌手。
 
-Beyond的歌曲與其他歌手及樂隊幾乎絕大部分歌曲以愛情為主題不同，歌曲有不少是牽涉時事及社會題材，如《Amani》、《光輝歲月》、《大地》、《長城》等，亦有不少具勵志性質不少歌曲《[海闊天空](../Page/海闊天空_\(Beyond歌曲\).md "wikilink")》、《[抗戰二十年](https://zh.wikipedia.org/wiki/Together_\(EP\) "wikilink")》、《[長城](../Page/長城_\(Beyond\).md "wikilink")》\[16\]\[17\]\[18\]\[19\]\[20\]\[21\]等經常成為香港示威遊行的歌曲之一，於每年[七一大遊行均會由示威者高唱](../Page/七一大遊行.md "wikilink")。而這3首歌與《[光輝歲月](../Page/命運派對.md "wikilink")》、《[不再猶豫](../Page/猶豫.md "wikilink")》更同時成為[2014年香港學界大罷課](https://zh.wikipedia.org/wiki/2014年香港學界大罷課 "wikilink")、「[雨傘運動](https://zh.wikipedia.org/wiki/雨傘運動 "wikilink")」的歌曲之一。
+Beyond的歌曲與其他歌手及樂隊幾乎絕大部分歌曲以愛情為主題不同，歌曲有不少是牽涉時事及社會題材，如《Amani》、《光輝歲月》、《大地》、《長城》等，亦有不少具勵志性質不少歌曲《[海闊天空](../Page/海闊天空_\(Beyond歌曲\).md "wikilink")》、《[抗戰二十年](https://zh.wikipedia.org/wiki/Together_\(EP\) "wikilink")》、《[長城](../Page/長城_\(Beyond\).md "wikilink")》\[16\]\[17\]\[18\]\[19\]\[20\]\[21\]等經常成為香港示威遊行的歌曲之一，於每年[七一大遊行均會由示威者高唱](../Page/七一大遊行.md "wikilink")。而這3首歌與《[光輝歲月](../Page/命運派對.md "wikilink")》、《[不再猶豫](../Page/猶豫.md "wikilink")》更同時成為[2014年香港學界大罷課](../Page/2014年香港學界大罷課.md "wikilink")、「[雨傘運動](https://zh.wikipedia.org/wiki/雨傘運動 "wikilink")」的歌曲之一。
 
 ## 音樂作品
 
@@ -812,7 +812,7 @@ Beyond曾發行過[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")、[�
 </tr>
 <tr class="odd">
 <td><p>2003年4月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Together_(Beyond_EP)" title="wikilink">Together</a></p></td>
+<td><p><a href="../Page/Together_(Beyond_EP).md" title="wikilink">Together</a></p></td>
 <td><p><a href="../Page/EMI.md" title="wikilink">EMI</a></p></td>
 <td></td>
 </tr>
@@ -1128,7 +1128,7 @@ Love Our Way（國語）</p></td>
 | **2000年**                                                                   |
 | Good Time                                                                   |
 | **2003年**                                                                   |
-| [Together](https://zh.wikipedia.org/wiki/Together_\(Beyond_EP\) "wikilink") |
+| [Together](../Page/Together_\(Beyond_EP\).md "wikilink")                    |
 | [无间道II电影原声大碟](https://zh.wikipedia.org/wiki/无间道II电影原声大碟 "wikilink")         |
 
 | **各台冠軍歌總數** |
@@ -1627,7 +1627,7 @@ Beyond是繼[溫拿樂隊](../Page/溫拿樂隊.md "wikilink")、[太極樂隊�
 </tr>
 <tr class="odd">
 <td><p>1990年1月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吉星拱照" title="wikilink">吉星拱照</a></p></td>
+<td><p><a href="../Page/吉星拱照.md" title="wikilink">吉星拱照</a></p></td>
 <td><p>遊向東</p></td>
 <td><p>遊向南</p></td>
 </tr>
@@ -1685,7 +1685,7 @@ Beyond是繼[溫拿樂隊](../Page/溫拿樂隊.md "wikilink")、[太極樂隊�
 </tr>
 <tr class="even">
 <td><p>2009年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/同門" title="wikilink">同門</a></p></td>
+<td><p><a href="../Page/同門.md" title="wikilink">同門</a></p></td>
 <td><p> </p></td>
 <td><p>咖啡<br />
 （幫派大佬）</p></td>
@@ -1873,7 +1873,7 @@ Beyond曾奪得7次「叱咤樂壇組合：銀獎」（1988-1995，1993年除外
   - [葉世榮](../Page/葉世榮.md "wikilink")
   - [鄧煒謙](https://zh.wikipedia.org/wiki/鄧煒謙 "wikilink")
   - [劉志遠](../Page/刘志远_\(香港音乐人\).md "wikilink")
-  - [陳健添](https://zh.wikipedia.org/wiki/陳健添 "wikilink")
+  - [陳健添](../Page/陳健添.md "wikilink")
   - [高速啤機](https://zh.wikipedia.org/wiki/高速啤機 "wikilink")
   - [Beyond歌曲對照表](../Page/Beyond歌曲對照表.md "wikilink")
   - [黃家駒音樂作品](../Page/黃家駒音樂作品.md "wikilink")

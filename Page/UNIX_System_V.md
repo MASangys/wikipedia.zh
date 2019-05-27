@@ -10,8 +10,8 @@ AT\&T出售运行System
 V的专有硬件，但许多（或许是大多数）客户在其上运行一个转售的版本，这个版本基于AT\&T的[实现说明](https://zh.wikipedia.org/wiki/实现说明 "wikilink")。流行的SysV衍生版本包括Dell
 SVR4和Bull SVR4。当今广泛使用的System
 V版本是[SCO](https://zh.wikipedia.org/wiki/SCO "wikilink")
-[OpenServer](https://zh.wikipedia.org/wiki/OpenServer "wikilink")，基于System
-V Release 3，以及[SUN](https://zh.wikipedia.org/wiki/SUN "wikilink")
+[OpenServer](../Page/OpenServer.md "wikilink")，基于System V Release
+3，以及[SUN](https://zh.wikipedia.org/wiki/SUN "wikilink")
 [Solaris和SCO](../Page/Solaris.md "wikilink")
 [UnixWare](https://zh.wikipedia.org/wiki/UnixWare "wikilink")，都基于System
 V Release 4。

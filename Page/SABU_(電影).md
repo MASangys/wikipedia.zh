@@ -23,8 +23,8 @@
   - [西山繭子](https://zh.wikipedia.org/wiki/西山繭子 "wikilink") - おその
   - [田中要次](https://zh.wikipedia.org/wiki/田中要次 "wikilink") - 徳
   - [林知花](https://zh.wikipedia.org/wiki/林知花 "wikilink") - おせえ
-  - [石丸謙二郎](https://zh.wikipedia.org/wiki/石丸謙二郎 "wikilink") - 儀兵衛
-  - [大杉漣](https://zh.wikipedia.org/wiki/大杉漣 "wikilink") - 平藏
+  - [石丸謙二郎](../Page/石丸謙二郎.md "wikilink") - 儀兵衛
+  - [大杉漣](../Page/大杉漣.md "wikilink") - 平藏
 
 [Category:2002年电影](https://zh.wikipedia.org/wiki/Category:2002年电影 "wikilink")
 [Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink")

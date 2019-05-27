@@ -28,7 +28,7 @@ command也是一大賣點。
 
 #### SD Gundam GGENERATION
 
-1998年8月6日發售的[PS遊戲是SD鋼彈世紀的續作](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，從初代[GUNDAM到](../Page/GUNDAM.md "wikilink")[機動戰士GUNDAM
+1998年8月6日發售的[PS遊戲是SD鋼彈世紀的續作](../Page/PlayStation.md "wikilink")，從初代[GUNDAM到](../Page/GUNDAM.md "wikilink")[機動戰士GUNDAM
 逆襲的夏亞有](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")30幾個關卡和包括[F-91至](../Page/機動戰士GUNDAM_F91.md "wikilink")[鋼彈X的多架鋼彈系列主人公座機登場](https://zh.wikipedia.org/wiki/鋼彈X "wikilink")。
 
 ##### 登場作品
@@ -705,16 +705,14 @@ Vita平台發售](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")，官方取�
   - [機動戰士鋼彈
     閃光的哈薩威](https://zh.wikipedia.org/wiki/機動戰士鋼彈_閃光的哈薩威 "wikilink")
     (DLC)
-  - [GUNDAM
-    G之复国运动](https://zh.wikipedia.org/wiki/GUNDAM_G之复国运动 "wikilink")
-    (只有 YG-111 Gundam G-SELF Perfect Pack作為隱藏機登場)
+  - [GUNDAM G之复国运动](../Page/GUNDAM_G之复国运动.md "wikilink") (只有 YG-111
+    Gundam G-SELF Perfect Pack作為隱藏機登場)
   - [機動戰士GUNDAM THE
     ORIGIN](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_THE_ORIGIN "wikilink")(在12月DLC追加)
   - [機動戰士鋼彈
     鐵血的孤兒](https://zh.wikipedia.org/wiki/機動戰士鋼彈_鐵血的孤兒 "wikilink")
     (Gundam Barbatos Lupus在12月DLC追加)
-  - [GUNDAM創戰者TRY](https://zh.wikipedia.org/wiki/GUNDAM創戰者TRY "wikilink")
-    (在2月DLC追加)
+  - [GUNDAM創戰者TRY](../Page/GUNDAM創戰者TRY.md "wikilink") (在2月DLC追加)
   - [機動戰士GUNDAM
     CDA年輕彗星的肖像](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_CDA年輕彗星的肖像 "wikilink")(在2月DLC追加)
   - [機動戰士GUNDAM

@@ -186,7 +186,7 @@ MP5\]\]
       -
       -
   -   - 白羅斯內務部[鑽石反恐特別單位](../Page/鑽石反恐特別單位.md "wikilink")\[4\]\[5\]
-      - [白羅斯共和國國家安全委員會](../Page/白羅斯共和國國家安全委員會.md "wikilink")[阿爾法小組](https://zh.wikipedia.org/wiki/阿爾法小組_\(白羅斯\) "wikilink")（A3）\[6\]
+      - [白羅斯共和國國家安全委員會](../Page/白羅斯共和國國家安全委員會.md "wikilink")[阿爾法小組](../Page/阿爾法小組_\(白羅斯\).md "wikilink")（A3）\[6\]
 
   -   - 特警單位
 
@@ -279,7 +279,7 @@ MP5\]\]
   -   - [印尼陸軍](https://zh.wikipedia.org/wiki/印尼陸軍 "wikilink")
 
       -
-      - [印尼空軍](https://zh.wikipedia.org/wiki/印尼空軍 "wikilink")
+      - [印尼空軍](../Page/印尼空軍.md "wikilink")
 
       -
   -   - [伊朗伊斯蘭共和國武裝部隊](../Page/伊朗軍事.md "wikilink")（使用DIO仿製版本）
@@ -291,7 +291,7 @@ MP5\]\]
   -   - [愛爾蘭陸軍遊騎兵](https://zh.wikipedia.org/wiki/愛爾蘭陸軍遊騎兵 "wikilink")
 
       -
-      - [愛爾蘭和平衛隊](https://zh.wikipedia.org/wiki/愛爾蘭和平衛隊 "wikilink")
+      - [愛爾蘭和平衛隊](../Page/愛爾蘭和平衛隊.md "wikilink")
 
       -
   -   - [卡賓槍騎兵](../Page/卡賓槍騎兵.md "wikilink")[特別干預組](https://zh.wikipedia.org/wiki/特別干預組 "wikilink")
@@ -452,7 +452,7 @@ MP5\]\]
 
   -   - [英國特種部隊](https://zh.wikipedia.org/wiki/英國特種部隊 "wikilink")（A3、SD、K）
 
-      - [倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業槍械司令部](https://zh.wikipedia.org/wiki/專業槍械司令部 "wikilink")（SF）
+      - [倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業槍械司令部](../Page/專業槍械司令部.md "wikilink")（SF）
 
       - 槍械授權警員（SF）
 
@@ -570,7 +570,7 @@ Slap）。
   - 2013年—《[-{zh-hk:白宮淪陷; zh-tw:全面攻佔：倒數救援;
     zh-cn:奥林匹斯的陷落;}-](../Page/全面攻佔：倒數救援.md "wikilink")》（Olympus
     Has
-    Fallen）：型號為MP5A3，裝上瞄準鏡和[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")，被[朝鮮](https://zh.wikipedia.org/wiki/朝鮮 "wikilink")[恐怖份子所使用](https://zh.wikipedia.org/wiki/恐怖份子 "wikilink")，亦曾被主角邁克·班寧（[傑拉德·巴特勒飾演](../Page/傑拉德·巴特勒.md "wikilink")）所繳獲。
+    Fallen）：型號為MP5A3，裝上瞄準鏡和[戰術燈](../Page/戰術燈.md "wikilink")，被[朝鮮](https://zh.wikipedia.org/wiki/朝鮮 "wikilink")[恐怖份子所使用](https://zh.wikipedia.org/wiki/恐怖份子 "wikilink")，亦曾被主角邁克·班寧（[傑拉德·巴特勒飾演](../Page/傑拉德·巴特勒.md "wikilink")）所繳獲。
   - 2014年—《[國定殺戮日：無法無天](../Page/國定殺戮日：無法無天.md "wikilink")》（The Purge:
     Anarchy）：型號為MP5A3和MP5K，被殺戮者所使用，其中一支A3亦被主角李歐·巴恩斯（[法蘭克·葛里洛飾演](../Page/法蘭克·葛里洛.md "wikilink")）所繳獲。
   - 2014年—《[-{zh-hk:轟天猛將3; zh-tw:浴血任務3;
@@ -612,7 +612,7 @@ Slap）。
   - 2016年—《[寒戰II](https://zh.wikipedia.org/wiki/寒戰II "wikilink")》（Cold
     War
     II）：型號為MP5A3和MP5A2，分別被[香港警察](../Page/香港警務處.md "wikilink")[特別任務連所使用](../Page/特別任務連.md "wikilink")。
-  - 2017年—《[殺手保鏢](https://zh.wikipedia.org/wiki/殺手保鏢 "wikilink")》：型號為MP5A5，有裝[皮卡汀尼導軌與](../Page/皮卡汀尼導軌.md "wikilink")[全像武器照準器](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")，被[法國國家警察干預隊與](https://zh.wikipedia.org/wiki/法國國家警察干預隊 "wikilink")[國際刑警組織探員使用](https://zh.wikipedia.org/wiki/國際刑警組織 "wikilink")，後來其中一支被達留士金凱德繳獲。
+  - 2017年—《[殺手保鏢](https://zh.wikipedia.org/wiki/殺手保鏢 "wikilink")》：型號為MP5A5，有裝[皮卡汀尼導軌與](../Page/皮卡汀尼導軌.md "wikilink")[全像武器照準器](../Page/全像武器照準器.md "wikilink")，被[法國國家警察干預隊與](https://zh.wikipedia.org/wiki/法國國家警察干預隊 "wikilink")[國際刑警組織探員使用](https://zh.wikipedia.org/wiki/國際刑警組織 "wikilink")，後來其中一支被達留士金凱德繳獲。
   - 2018年—《[红海行动](https://zh.wikipedia.org/wiki/红海行动 "wikilink")》（Operation
     Red
     Sea）：型号为MP5A3，分别被[中国人民解放軍海军陸戰隊](https://zh.wikipedia.org/wiki/中国人民解放軍海军陸戰隊 "wikilink")“蛟龙突击队”队长杨锐（[张译饰](../Page/张译.md "wikilink")）在追截核原料期间以及伊维亚共和国政府军所使用。
@@ -630,7 +630,7 @@ Slap）。
           - MP5SD3於第5集被英國特種空勤團的隊員所使用。
           - MP5KA1於第1集被[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[特種部隊的隊員所使用](../Page/特種部隊.md "wikilink")。
   - 《[-{zh-hans:反击; zh-hk:絕地反擊;
-    zh-tw:勇者逆襲;}-系列](https://zh.wikipedia.org/wiki/勇者逆襲 "wikilink")》（Strike
+    zh-tw:勇者逆襲;}-系列](../Page/勇者逆襲.md "wikilink")》（Strike
     Back）
   - 《[-{zh-hans:行尸走肉; zh-hk:行屍;
     zh-tw:陰屍路;}-系列](https://zh.wikipedia.org/wiki/陰屍路 "wikilink")》（The
@@ -657,7 +657,7 @@ Slap）。
   - 2002年—《》（Global Operations）：可選購額外彈匣或是瞄準鏡以及滅音器。
   - 2002年—《[Soldat](../Page/Soldat.md "wikilink")》：第2件主要武器。
   - 2002年—《[-{zh-hans:命运战士2：双重螺旋;
-    zh-hant:傭兵戰場2：雙重螺旋;}-](https://zh.wikipedia.org/wiki/傭兵戰場2：雙重螺旋 "wikilink")》（Soldier
+    zh-hant:傭兵戰場2：雙重螺旋;}-](../Page/傭兵戰場2：雙重螺旋.md "wikilink")》（Soldier
     of Fortune II: Double Helix）：為MP5SD，僅出現於連線版。
   - 2002年—《[-{zh-hans:秘密潜入2：隐秘行动;
     zh-hant:核武浩劫2;}-](https://zh.wikipedia.org/wiki/秘密潜入2 "wikilink")》（IGI2
@@ -665,7 +665,7 @@ Slap）。
   - 2003年—《[-{zh-hans:反恐精英：零点行动;
     zh-hant:絕對武力：一觸即發;}-](../Page/絕對武力：一觸即發.md "wikilink")》（Counter-Strike:
     Condition Zero）： 型號為MP5N， 命名為「K\&M衝鋒槍」， 武器模組採用鏡像佈局（拉機柄與拋殼口位於同一邊）。
-    刪除片段中具有可使用的[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")。
+    刪除片段中具有可使用的[戰術燈](../Page/戰術燈.md "wikilink")。
   - 2004年—《[-{zh-hans:反恐精英：起源;
     zh-hant:絕對武力：次世代;}-](../Page/絕對武力：次世代.md "wikilink")》（Counter-Strike:
     Source）：
@@ -742,7 +742,7 @@ Slap）。
     zh-hk:使命召喚：黑色行動II;}-](../Page/決勝時刻：黑色行動II.md "wikilink")》（Call
     of Duty: Black Ops
     II）：型號為MP5A3和MP5SD3（裝備[抑制器後](../Page/抑制器.md "wikilink")），
-    命名為「MP5A3」，拔槍時會使用“HK拍擊”上膛，只在故事模式和殭屍模式中登場，故事模式中被[美國中央情報局](https://zh.wikipedia.org/wiki/美國中央情報局 "wikilink")[特別活動分部和](https://zh.wikipedia.org/wiki/特別活動分部 "wikilink")[巴拿馬國防軍所使用](https://zh.wikipedia.org/wiki/巴拿馬國防軍 "wikilink")，並是玩家一開始就能使用的武器之一。能夠使用：[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、長槍管、延長彈匣（增至45發）、[快速重裝彈匣](https://zh.wikipedia.org/wiki/彈匣並聯 "wikilink")、[槍托](../Page/槍托.md "wikilink")、射速增加。
+    命名為「MP5A3」，拔槍時會使用“HK拍擊”上膛，只在故事模式和殭屍模式中登場，故事模式中被[美國中央情報局](https://zh.wikipedia.org/wiki/美國中央情報局 "wikilink")[特別活動分部和](https://zh.wikipedia.org/wiki/特別活動分部 "wikilink")[巴拿馬國防軍所使用](https://zh.wikipedia.org/wiki/巴拿馬國防軍 "wikilink")，並是玩家一開始就能使用的武器之一。能夠使用：[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、長槍管、延長彈匣（增至45發）、[快速重裝彈匣](../Page/彈匣並聯.md "wikilink")、[槍托](../Page/槍托.md "wikilink")、射速增加。
   - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：型號為MP5A4与MP5A5，均为工程兵专用武器：
       - MP5A4命名为“H\&K MP5”，采用MP5K
         PDW的折叠式枪托并折叠，同时去除前护木改为战术导轨，枪械顶部加装导轨以安装瞄准镜。使用30发弹匣，作为工程兵初始武器，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、冲锋枪消音器）、战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")）以及瞄准镜（[EoTech
@@ -750,14 +750,14 @@ Slap）。
         553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、冲锋枪普通瞄准镜、冲锋枪高级瞄准镜、[冲锋枪专家瞄准镜](https://zh.wikipedia.org/wiki/Leupold_Mark_4_CQ/T光学瞄准镜 "wikilink")），配件自带迷彩涂装。
           - 雪地迷彩版本可以通过抽奖、生存模式系列地图“冷锋行动”通关奖励箱以及活动获得
       - MP5A5命名为“H\&K MP5A5
-        Custom”，沙色涂装，使用战术导轨护木，并将枪托更换为[Magpul生产的CTR枪托](https://zh.wikipedia.org/wiki/馬格普工業公司 "wikilink")。使用30发弹匣，大师级解锁，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、冲锋枪消音器、[冲锋枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[冲锋枪刺刀](../Page/刺刀.md "wikilink")）、战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")、[冲锋枪握把](https://zh.wikipedia.org/wiki/宽型前握把 "wikilink")、冲锋枪握把架）以及瞄准镜（[EoTech
+        Custom”，沙色涂装，使用战术导轨护木，并将枪托更换为[Magpul生产的CTR枪托](../Page/馬格普工業公司.md "wikilink")。使用30发弹匣，大师级解锁，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、冲锋枪消音器、[冲锋枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[冲锋枪刺刀](../Page/刺刀.md "wikilink")）、战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")、[冲锋枪握把](https://zh.wikipedia.org/wiki/宽型前握把 "wikilink")、冲锋枪握把架）以及瞄准镜（[EoTech
         553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、冲锋枪普通瞄准镜、冲锋枪高级瞄准镜、[冲锋枪专家瞄准镜](https://zh.wikipedia.org/wiki/Leupold_Mark_4_CQ/T光学瞄准镜 "wikilink")、[RAMBO
         SP-6反射式瞄准镜](https://zh.wikipedia.org/wiki/RAMBO_SP-6反射式瞄准镜 "wikilink")）。
   - 2012年—《[-{zh-hans:孤岛惊魂;
     zh-hant:極地戰嚎;}-3](https://zh.wikipedia.org/wiki/極地戰嚎3 "wikilink")》（Far
     Cry 3）：型號為MP5A3，會使用“HK拍擊”上膛，奇怪的是射擊時拉機柄會隨槍機一同復進，並在打空彈匣後會自動鎖定。
   - 2013年—《[-{zh-hans:收获日;
-    zh-hant:劫薪日;}-2](https://zh.wikipedia.org/wiki/劫薪日2 "wikilink")》（Payday
+    zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》（Payday
     2）：型號為MP5A4（預設），命名為「Compact-5」，可在黑市購買後並另外花費自行組裝，會使用“HK拍擊”上膛。
   - 2013年—《[-{zh-hans:武装突袭;
     zh-hant:武裝行動;}-3](https://zh.wikipedia.org/wiki/武装突袭3 "wikilink")》（ArmA
@@ -806,7 +806,7 @@ Slap）。
     zh-hant:極地戰嚎;}-5](https://zh.wikipedia.org/wiki/極地戰嚎5 "wikilink")》（Far
     Cry 5）：型號為MP5A3、MP5SD3和MP5K，會使用「HK拍擊」上膛。
   - 2019年—《[-{zh-hans:孤岛惊魂：新曙光;
-    zh-hant:極地戰嚎：破曉;}-](https://zh.wikipedia.org/wiki/孤岛惊魂：新曙光 "wikilink")》（Far
+    zh-hant:極地戰嚎：破曉;}-](../Page/孤岛惊魂：新曙光.md "wikilink")》（Far
     Cry: New Dawn）
 
 ### [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")
@@ -827,7 +827,7 @@ Slap）。
 
   - 2007年—《[SCP基金会](../Page/SCP基金会.md "wikilink")》：型号为MP5K-PDW，以编号“SCP-127”的名义出现，为一只由活体组织构成能够自动生成牙齿状弹药的冲锋枪，编级为SAFE级。
   - 2014年—《[刀劍神域外傳Gun Gale
-    Online](https://zh.wikipedia.org/wiki/刀劍神域外傳Gun_Gale_Online "wikilink")》：登場型號為MP5A3及MP5K，被個别GGO玩家所使用。
+    Online](../Page/刀劍神域外傳Gun_Gale_Online.md "wikilink")》：登場型號為MP5A3及MP5K，被個别GGO玩家所使用。
 
 ## 参见
 

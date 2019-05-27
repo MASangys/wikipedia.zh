@@ -26,7 +26,7 @@ eCos可以在一系列平台上运行，包括如下架构：
     AM3x](https://zh.wikipedia.org/wiki/Matsushita_AM3x "wikilink")
   - [MIPS](https://zh.wikipedia.org/wiki/MIPS_architecture "wikilink")
   - [NEC V8xx](https://zh.wikipedia.org/wiki/NEC_V8xx "wikilink")
-  - [Nios II](https://zh.wikipedia.org/wiki/Nios_II "wikilink")
+  - [Nios II](../Page/Nios_II.md "wikilink")
   - [PowerPC](../Page/PowerPC.md "wikilink")
   - [SPARC](../Page/SPARC.md "wikilink")
   - [SuperH](../Page/SuperH.md "wikilink")

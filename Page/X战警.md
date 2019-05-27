@@ -20,72 +20,71 @@
 
 <!-- end list -->
 
-  - [火凤凰](https://zh.wikipedia.org/wiki/琴·葛雷 "wikilink")（Phoenix）
+  - [火凤凰](../Page/琴·葛雷.md "wikilink")（Phoenix）
     原名：琴·葛雷（Jean Grey）
     異能：精神力及念力、鳳凰之力
-    定位：最強变种人，有[鳳凰之力](https://zh.wikipedia.org/wiki/鳳凰之力 "wikilink")，現已復活。
+    定位：最強变种人，有[鳳凰之力](../Page/鳳凰之力.md "wikilink")，現已復活。
     漫畫：少女時期琴被野獸帶回現代與復活的成年琴相見。
 
 <!-- end list -->
 
-  - [暴風女](https://zh.wikipedia.org/wiki/暴風女 "wikilink")（Storm）
+  - [暴風女](../Page/暴風女.md "wikilink")（Storm）
     原名：奧蘿洛·摩洛（Ororo Munroe）
     異能：控制天文現象
     定位：家族傳承異能數千年；於『[烏托邦](https://zh.wikipedia.org/wiki/烏托邦 "wikilink")』任領導層之一，目前已加入了非凡X特攻隊。
 
 <!-- end list -->
 
-  - [小淘氣](https://zh.wikipedia.org/wiki/小淘氣 "wikilink")（Rogue）
+  - [小淘氣](../Page/小淘氣.md "wikilink")（Rogue）
     原名：瑪莉（Marie）
     異能：与他人接觸時，能吸收生命力及超能力
     定位：現加入聯合小隊(非凡復仇者)。
 
 <!-- end list -->
 
-  - [鋼人](https://zh.wikipedia.org/wiki/鋼人_\(漫威漫畫\) "wikilink")（Colossus）
+  - [鋼人](../Page/鋼人_\(漫威漫畫\).md "wikilink")（Colossus）
     原名：彼得·拉斯普廷（Peter Rasputin）
     異能：全身钢化而獲得力量。
     漫畫：是秘客（Magik）的哥哥，加入了機堡帶領的隊伍。
 
 <!-- end list -->
 
-  - [野獸](https://zh.wikipedia.org/wiki/野獸_\(漫畫\) "wikilink")（Beast）
+  - [野獸](../Page/野獸_\(漫畫\).md "wikilink")（Beast）
     原名：亨利"漢克"·麥考伊（Henry "Hank" McCoy）
     職業：國防部变种管理部長及聯合國大使
     定位：科學顧問，與鐳射眼一言不合離開烏托邦，加入秘密復仇者。而從過去把原始的五位X戰警成員（史考特、琴、野獸他自己、冰人和天使）帶回。
 
 <!-- end list -->
 
-  - [白皇后](https://zh.wikipedia.org/wiki/艾瑪·佛斯特 "wikilink")（White
-    Queen）
+  - [白皇后](../Page/艾瑪·佛斯特.md "wikilink")（White Queen）
     原名：艾瑪·弗洛斯特（Emma Frost）
     異能：鑽石化，強大精神力
     原设：地狱火俱乐部的白皇后，后加入X战警。
 
 <!-- end list -->
 
-  - [天使](https://zh.wikipedia.org/wiki/天使_\(漫威漫畫\) "wikilink")（Angel）
+  - [天使](../Page/天使_\(漫威漫畫\).md "wikilink")（Angel）
     原名：華倫·沃辛頓三世（Warren Worthington III）
     異能：有翅膀飛行、適應高空和超強視覺及自癒能力
     定位：繼承了父亲的富有家業;曾為天啟四騎士「死亡」騎士，體內被天啟植入一個自己的人格，自稱「大天使」，變成此狀態時會長出金屬翅膀及藍色皮膚
 
 <!-- end list -->
 
-  - [機堡](https://zh.wikipedia.org/wiki/機堡_\(漫威漫畫\) "wikilink")（Cable）
+  - [機堡](../Page/機堡_\(漫威漫畫\).md "wikilink")（Cable）
     原名：納森·克里斯多福·桑瑪斯（Nathan Christopher Summers）
     異能：精神力及念力
     定位：一名神秘的未來戰士，史考特與玛德琳(琴的複製人)之子，左半身被感染為生化機械，撫養了 M 日後首位出生的變種女孩霍普。
 
 <!-- end list -->
 
-  - [秘客](https://zh.wikipedia.org/wiki/秘客 "wikilink")（Magik）
+  - [秘客](../Page/秘客.md "wikilink")（Magik）
     原名：伊琳雅娜·拉斯普廷（Illyana Rasputin）
     異能：穿越、魔法。
     定位：地獄边境女王。加入了『[烏托邦](https://zh.wikipedia.org/wiki/烏托邦 "wikilink")』。
 
 <!-- end list -->
 
-  - [靈蝶](https://zh.wikipedia.org/wiki/靈蝶 "wikilink")（Psylocke）
+  - [靈蝶](../Page/靈蝶.md "wikilink")（Psylocke）
     原名：伊莉莎白·布拉多克（Elizabeth Braddock）
     異能：具有心靈感應和精神力凝聚成刀的能力、忍者身體素質及武術。
     定位：英國人，在一次事件中與日本女忍者互換身;哥哥是著名英雄[英國隊長](https://zh.wikipedia.org/wiki/英國隊長 "wikilink")
@@ -179,7 +178,7 @@
   - 《[X戰警：第一戰](https://zh.wikipedia.org/wiki/X戰警：第一戰 "wikilink")》（2011年）
   - 《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》（2014年）
   - 《[X戰警：天啟](../Page/X戰警：天啟.md "wikilink")》（2016年）
-  - 《[X戰警：黑鳳凰](https://zh.wikipedia.org/wiki/X戰警：黑鳳凰 "wikilink")》（2019年）
+  - 《[X戰警：黑鳳凰](../Page/X戰警：黑鳳凰.md "wikilink")》（2019年）
 
 #### 回歸[漫威電影宇宙](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")
 
@@ -187,7 +186,7 @@
 
 ### 電視劇
 
-  - 《[變種軍團](https://zh.wikipedia.org/wiki/變種軍團 "wikilink")》（2017年2月開播）
+  - 《[變種軍團](../Page/變種軍團.md "wikilink")》（2017年2月開播）
   - 《[變種天賦](https://zh.wikipedia.org/wiki/變種天賦 "wikilink")》（2017年10月開播）
 
 ### 電子遊戲
@@ -219,8 +218,7 @@
 
 含有X戰警角色的電子遊戲：
 
-  - 《[漫威英雄
-    Online](https://zh.wikipedia.org/wiki/漫威英雄_Online "wikilink")》：有多位X戰警角色可供遊玩
+  - 《[漫威英雄 Online](../Page/漫威英雄_Online.md "wikilink")》：有多位X戰警角色可供遊玩
 
 ## 参考资料
 

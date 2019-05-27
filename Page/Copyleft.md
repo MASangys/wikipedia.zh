@@ -26,7 +26,7 @@ Copyleft的標誌是一個反寫的C套上圓圈（即反轉的[版權標誌](ht
   - [GNU較寬鬆公共許可證](https://zh.wikipedia.org/wiki/GNU較寬鬆公共許可證 "wikilink")
   - [GNU自由文件授權條款](https://zh.wikipedia.org/wiki/GNU自由文件授權條款 "wikilink")
   - [創作共用的](https://zh.wikipedia.org/wiki/創作共用 "wikilink")[姓名標示─相同方式分享](http://creativecommons.org/licenses/by-sa/3.0/tw/)條款
-  - [自由艺术作品许可协议](https://zh.wikipedia.org/wiki/自由艺术作品许可协议 "wikilink")
+  - [自由艺术作品许可协议](../Page/自由艺术作品许可协议.md "wikilink")
 
 ## 参考文献
 

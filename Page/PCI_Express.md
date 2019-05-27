@@ -245,7 +245,7 @@ x1卡\]\]
 
 ## 竞争协议
 
-基于高速序列构架产生了很多传输标准。包括[HyperTransport](../Page/HyperTransport.md "wikilink")、[InfiniBand](https://zh.wikipedia.org/wiki/InfiniBand "wikilink")、[RapidIO和](https://zh.wikipedia.org/wiki/RapidIO "wikilink")[StarFabric等等](https://zh.wikipedia.org/wiki/StarFabric "wikilink")。这些均有业界的不同企业支援，背后也都有大量的资金投入标准的研究开发，所以每一标准都声称自己与众不同，独占优势。主要的差异在于可扩展性、灵活性与反应时间、单位成本的取舍平衡各不相同。其中的一个例子是在传输包上增加一个复杂的头信息以支援复杂路由传输（PCI
+基于高速序列构架产生了很多传输标准。包括[HyperTransport](../Page/HyperTransport.md "wikilink")、[InfiniBand](../Page/InfiniBand.md "wikilink")、[RapidIO和](https://zh.wikipedia.org/wiki/RapidIO "wikilink")[StarFabric等等](https://zh.wikipedia.org/wiki/StarFabric "wikilink")。这些均有业界的不同企业支援，背后也都有大量的资金投入标准的研究开发，所以每一标准都声称自己与众不同，独占优势。主要的差异在于可扩展性、灵活性与反应时间、单位成本的取舍平衡各不相同。其中的一个例子是在传输包上增加一个复杂的头信息以支援复杂路由传输（PCI
 Express不支援这种方式）。这样的信息增加降低了接口的有效带宽也使传输更复杂，但是相应创造了新的软件支援此功能。这种架构下需要软件追踪网络拓扑结构的变化以实现系统支援热插拔。InfiniBand和StarFabric标准即能实现这一功能。另一个例子是缩小信息包以减少反应时间。较小的信息包意味着包头占用了包的更大百分比，这样又降低了有效带宽。能实现此功能的标准是RapidIO和HyperTransport。PCI
 Express取中庸之道，定位于设计成一种[系统互连接口而非一种](../Page/总线.md "wikilink")[设备接口或路由网络协议](https://zh.wikipedia.org/wiki/设备接口 "wikilink")。另外为了针对软件透明，它的设计目标限制了它作为协议，也在某种程度上增加了它的反应时间。
 
@@ -263,8 +263,8 @@ Express x16插槽\]\]
 #### 硬盘
 
 当下主流的硬盘虽然有SATA Express、PCIe、M.2、U.2等，但是底层都借助了PCIe与CPU通信。[SATA
-Express有AHCI模式](https://zh.wikipedia.org/wiki/SATA_Express "wikilink")、而M.2和U.2则为原生的PCIe
-接口设计。而[NVMe协议最高效的PCIe](https://zh.wikipedia.org/wiki/NVM_Express "wikilink")
+Express有AHCI模式](../Page/SATA_Express.md "wikilink")、而M.2和U.2则为原生的PCIe
+接口设计。而[NVMe协议最高效的PCIe](../Page/NVM_Express.md "wikilink")
 SSD协议标准，所以适用这一标准的SSD也被称为NVMe SSD。
 
 

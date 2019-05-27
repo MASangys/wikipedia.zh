@@ -5,7 +5,7 @@ Eclipse的本身只是一个框架平台，但是众多[插件的支持](../Page
 ## 历史
 
 Eclipse最初是由[IBM公司开发的替代商业软件](../Page/IBM.md "wikilink")[Visual Age for
-Java的下一代IDE开发环境](https://zh.wikipedia.org/wiki/Visual_Age_for_Java "wikilink")，2001年11月贡献给开源社区，现在它由非营利软件供应商联盟[Eclipse基金会](https://zh.wikipedia.org/wiki/Eclipse基金会 "wikilink")（Eclipse
+Java的下一代IDE开发环境](https://zh.wikipedia.org/wiki/Visual_Age_for_Java "wikilink")，2001年11月贡献给开源社区，现在它由非营利软件供应商联盟[Eclipse基金会](../Page/Eclipse基金会.md "wikilink")（Eclipse
 Foundation）管理。2003年，Eclipse
 3.0选择OSGi服务平台规范为运行时架构。2007年6月，稳定版3.3发布；2008年6月发布代号为Ganymede的3.4版；2009年6月发布代号为Galileo的3.5版；2010年6月发布代号为Helios的3.6版；2011年6月發布代號為Indigo的3.7版；2012年6月發布代號為Juno的4.2版；2013年6月發布代號為Kepler的4.3版；2014年6月發布代號為Luna的4.4版；2015年6月發布代號為Mars的4.5版。
 

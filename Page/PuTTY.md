@@ -1,4 +1,4 @@
-**PuTTY**是一款集成[虚拟终端](../Page/虚拟终端.md "wikilink")、和网络文件传输为一体的[自由及开放源代码的程序](../Page/自由及开放源代码软件.md "wikilink")。它支持多种网络协议，包括[SCP](https://zh.wikipedia.org/wiki/安全复制 "wikilink")，[SSH](../Page/Secure_Shell.md "wikilink")，[Telnet](../Page/Telnet.md "wikilink")，和原始的套接字连接。它也可以连接到[串行端口](../Page/串行端口.md "wikilink")。其软件名字“PuTTY”没有特殊含义。\[1\]
+**PuTTY**是一款集成[虚拟终端](../Page/虚拟终端.md "wikilink")、和网络文件传输为一体的[自由及开放源代码的程序](../Page/自由及开放源代码软件.md "wikilink")。它支持多种网络协议，包括[SCP](../Page/安全复制.md "wikilink")，[SSH](../Page/Secure_Shell.md "wikilink")，[Telnet](../Page/Telnet.md "wikilink")，和原始的套接字连接。它也可以连接到[串行端口](../Page/串行端口.md "wikilink")。其软件名字“PuTTY”没有特殊含义。\[1\]
 
 較早的版本僅支援[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")，后陆续增加对各類[Unix平台和](../Page/UNIX.md "wikilink")[Mac
 OS

@@ -1,4 +1,4 @@
-**赫伯特·乔治·威尔斯**（，），通称**H·G·威尔斯**（）\[1\]，[英国著名](https://zh.wikipedia.org/wiki/英国 "wikilink")[小说家](https://zh.wikipedia.org/wiki/小说家 "wikilink")，新闻[记者](https://zh.wikipedia.org/wiki/记者 "wikilink")、[政治家](../Page/政治家.md "wikilink")、[社会学家和](https://zh.wikipedia.org/wiki/社会学家 "wikilink")[历史学家](https://zh.wikipedia.org/wiki/历史学家 "wikilink")。他创作的[科幻小说对该领域影响深远](../Page/科幻小说.md "wikilink")，如“[时间旅行](https://zh.wikipedia.org/wiki/时间旅行 "wikilink")”、“[外星人入侵](https://zh.wikipedia.org/wiki/外星人入侵 "wikilink")”、“[反乌托邦](../Page/反乌托邦.md "wikilink")”等都是20世纪科幻小说中的主流话题。
+**赫伯特·乔治·威尔斯**（，），通称**H·G·威尔斯**（）\[1\]，[英国著名](https://zh.wikipedia.org/wiki/英国 "wikilink")[小说家](https://zh.wikipedia.org/wiki/小说家 "wikilink")，新闻[记者](https://zh.wikipedia.org/wiki/记者 "wikilink")、[政治家](../Page/政治家.md "wikilink")、[社会学家和](https://zh.wikipedia.org/wiki/社会学家 "wikilink")[历史学家](https://zh.wikipedia.org/wiki/历史学家 "wikilink")。他创作的[科幻小说对该领域影响深远](../Page/科幻小说.md "wikilink")，如“[时间旅行](../Page/时间旅行.md "wikilink")”、“[外星人入侵](https://zh.wikipedia.org/wiki/外星人入侵 "wikilink")”、“[反乌托邦](../Page/反乌托邦.md "wikilink")”等都是20世纪科幻小说中的主流话题。
 
 ## 早年生活
 
@@ -14,7 +14,7 @@
 Man of the Year
 Million）中他大胆设想在[自然选择影响下未来人类的形象](../Page/自然选择.md "wikilink")，巨大的眼睛，细长的手。
 
-随后《[全国观察家](https://zh.wikipedia.org/wiki/全国观察家 "wikilink")》发表了威尔斯关于[时间旅行的设想的连载文章](https://zh.wikipedia.org/wiki/时间旅行 "wikilink")，后来在1895年把这些文章改为《[時間機器](https://zh.wikipedia.org/wiki/时间机器_\(小說\) "wikilink")》的[小说发行](../Page/小说.md "wikilink")。此书的出版引起轰动，也奠定了他作为科幻小说作家的声誉。
+随后《[全国观察家](https://zh.wikipedia.org/wiki/全国观察家 "wikilink")》发表了威尔斯关于[时间旅行的设想的连载文章](../Page/时间旅行.md "wikilink")，后来在1895年把这些文章改为《[時間機器](https://zh.wikipedia.org/wiki/时间机器_\(小說\) "wikilink")》的[小说发行](../Page/小说.md "wikilink")。此书的出版引起轰动，也奠定了他作为科幻小说作家的声誉。
 
 此后，他又陆续发表了《[莫洛博士岛](../Page/莫洛博士岛.md "wikilink")》、《[隐身人](../Page/隱形人_\(小說\).md "wikilink")》、《[世界大战](https://zh.wikipedia.org/wiki/世界大战_\(小说\) "wikilink")》、《神的食物》等科幻小说，还写了大量的[论文和](../Page/论文.md "wikilink")[长篇小说](https://zh.wikipedia.org/wiki/长篇小说 "wikilink")。
 

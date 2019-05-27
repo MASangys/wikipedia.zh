@@ -265,7 +265,7 @@ MPEG簽署了MP3的授權協議。由於Thomson和Sisvel都擁有他們聲稱編
 
   - [Vorbis](https://zh.wikipedia.org/wiki/Vorbis "wikilink")，[Xiph.Org基金會開發](../Page/Xiph.Org基金會.md "wikilink")，[自由軟件和沒有專利的](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[編解碼器](https://zh.wikipedia.org/wiki/編解碼器 "wikilink")；
 
-  - [Speex](https://zh.wikipedia.org/wiki/Speex "wikilink")，基於[码激励线性预测的專門為語音和](https://zh.wikipedia.org/wiki/码激励线性预测 "wikilink")[網際協議通話技術設計的自由軟件和無專利編解碼器](https://zh.wikipedia.org/wiki/網際協議通話技術 "wikilink")；
+  - [Speex](https://zh.wikipedia.org/wiki/Speex "wikilink")，基於[码激励线性预测的專門為語音和](../Page/码激励线性预测.md "wikilink")[網際協議通話技術設計的自由軟件和無專利編解碼器](https://zh.wikipedia.org/wiki/網際協議通話技術 "wikilink")；
 
   - [Opus
     (音频格式)](../Page/Opus_\(音频格式\).md "wikilink")，[Xiph.Org基金會開發](../Page/Xiph.Org基金會.md "wikilink")，是開放標準定義於[互联网工程任务组](../Page/互联网工程任务组.md "wikilink")

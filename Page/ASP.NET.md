@@ -47,7 +47,7 @@ risk），但當時的XSP團隊卻是以CLR開發應用的第一個團隊。
 
 為了將XSP移植到CLR中，XSP團隊將XSP的核心程式全部以[C\#語言重新撰寫](../Page/C♯.md "wikilink")（在內部的專案代號是
 "Project
-Cool"，但是當時對公開場合是保密的），並且改名為**ASP+**，作為ASP技術的後繼者，並且也會提供一個簡單的移轉方法給ASP開發人員。ASP+首次的Beta版本以及應用在[PDC](https://zh.wikipedia.org/wiki/专业开发者大会 "wikilink")
+Cool"，但是當時對公開場合是保密的），並且改名為**ASP+**，作為ASP技術的後繼者，並且也會提供一個簡單的移轉方法給ASP開發人員。ASP+首次的Beta版本以及應用在[PDC](../Page/专业开发者大会.md "wikilink")
 2000中亮相，由[Bill
 Gates发表Keynote](https://zh.wikipedia.org/wiki/Bill_Gates "wikilink")（即關鍵技術的概覽），由[富士通公司展示使用](../Page/富士通.md "wikilink")[COBOL語言撰寫ASP](../Page/COBOL.md "wikilink")+應用程式，並且宣布它可以使用[Visual
 Basic.NET](https://zh.wikipedia.org/wiki/Visual_Basic.NET "wikilink")、[C\#](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")、[Perl與](../Page/Perl.md "wikilink")[Python語言](../Page/Python.md "wikilink")（後兩者由ActiveState公司開發的互通工具支援）來開發。
@@ -826,7 +826,7 @@ Silverlight
 <tr class="even">
 <td><p>2015年7月29日[22]</p></td>
 <td></td>
-<td><p>发布于[23]<a href="https://zh.wikipedia.org/wiki/Visual_Studio_2015" title="wikilink">Visual Studio 2015</a>[24]与<a href="../Page/Entity_Framework.md" title="wikilink">EF</a> 7预览版用于<a href="../Page/Windows_Server_2016.md" title="wikilink">Windows Server 2016与</a><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p>发布于[23]<a href="https://zh.wikipedia.org/wiki/Visual_Studio_2015" title="wikilink">Visual Studio 2015</a>[24]与<a href="../Page/Entity_Framework.md" title="wikilink">EF</a> 7预览版用于<a href="../Page/Windows_Server_2016.md" title="wikilink">Windows Server 2016与</a><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/HTTP/2" title="wikilink">HTTP/2支持运行于</a> Windows 10</li>
 <li>更多的异步任务返回API</li>

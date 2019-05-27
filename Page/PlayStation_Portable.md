@@ -12,7 +12,7 @@ port等擴張性，透過[更新系統軟體能追加各式的機能為其特徵
 
 精巧並有著雙層加工過的透明感與富含光澤的外觀設計機體上搭載著由[SHARP開發的大型ASV液晶螢幕](https://zh.wikipedia.org/wiki/夏普 "wikilink")。在PSP發售以前家用機和攜帶型遊戲機間有一定的性能差異，特別是於3D圖形的表現上幾乎是家用機獨佔優勢，而如今卻可讓擁有不比家用機遜色繪圖性能的遊戲也能夠於攜帶型遊戲機上遊玩。但有著高性能的同時也被指出採用對於隨機存取較弱的[CLV式](https://zh.wikipedia.org/wiki/CLV "wikilink")[光碟媒體所需的讀取時間](../Page/光碟.md "wikilink")、電池持續時間短、機體表面的脆弱性等等問題（關於讀取部份因軟體製作公司的技術也存在著而可於短時間內處理完的軟體）。詳細性能參見[主要規格](https://zh.wikipedia.org/wiki/#主要規格 "wikilink")。
 
-雖然有冠上「[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")」（PS）的名號卻與PS、PS2等不同，並無互換性（但是，關於PS部分[系統軟體版本](../Page/PlayStation_Portable系統軟體.md "wikilink")3.00後加入了可執行[PLAYSTATION
+雖然有冠上「[PlayStation](../Page/PlayStation.md "wikilink")」（PS）的名號卻與PS、PS2等不同，並無互換性（但是，關於PS部分[系統軟體版本](../Page/PlayStation_Portable系統軟體.md "wikilink")3.00後加入了可執行[PLAYSTATION
 Store下載方式所販售PlayStation軟體的](../Page/PlayStation_Network.md "wikilink")[模擬器](https://zh.wikipedia.org/wiki/家用機模擬器 "wikilink")）。
 
 从PSP的发明到现在为止，很少有顶级和着名的游戏。许多人投票选择了合金装备：Peace
@@ -57,7 +57,7 @@ Walker和Lumines作为PSP的最佳游戏。\[1\]
 <!-- end list -->
 
   - 2011年1月27日，索尼在PlayStation®Meeting 2011上宣布下一代代号为“NGP”的便携式娱乐系统。\[2\]
-  - 2011年8月17日，索尼在[Gamescom上宣布将发售一款不带wifi](https://zh.wikipedia.org/wiki/Gamescom "wikilink")，重新设计的PSP，型号为PSP
+  - 2011年8月17日，索尼在[Gamescom上宣布将发售一款不带wifi](../Page/Gamescom.md "wikilink")，重新设计的PSP，型号为PSP
     E-1000，只在欧洲的PAL制式地区销售，售价99欧元。
   - 2014年6月4日，索尼正式宣布PSP停產。
 
@@ -72,7 +72,7 @@ Walker和Lumines作为PSP的最佳游戏。\[1\]
 
   - PSP使用UMD作為遊戲儲存媒介，放入UMD並在遊戲選項中啟動UMD，即可以進行遊戲。PSP的游戏是不锁区的。
       - 除了實體UMD光碟之外，於PlayStation
-        Store也有販售PSP專用下載版的遊戲軟體（試玩版免費，完整版要付費），以及提供[PlayStation的經典遊戲付費下載](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。
+        Store也有販售PSP專用下載版的遊戲軟體（試玩版免費，完整版要付費），以及提供[PlayStation的經典遊戲付費下載](../Page/PlayStation.md "wikilink")。
       - 下載版遊戲需儲存於另售的Memory Stick記憶卡，可直接透過MS卡啟動遊戲。
           - 也另外可以改機直接下載遊戲
 

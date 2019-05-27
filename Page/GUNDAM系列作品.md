@@ -205,7 +205,7 @@ E.F.S.F.(地球聯邦軍)α任務部隊</p></td>
 <tr class="odd">
 <td><p><strong>宇宙世纪0096年</strong></p></td>
 <td><p>《<a href="../Page/機動戰士GUNDAM_UC.md" title="wikilink">機動戰士GUNDAM UNICORN</a>》(2010年 - 2014年)<br />
-《<a href="https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Twilight_AXIS" title="wikilink">機動戰士GUNDAM Twilight AXIS</a>》(2017年 - )</p></td>
+《<a href="../Page/機動戰士GUNDAM_Twilight_AXIS.md" title="wikilink">機動戰士GUNDAM Twilight AXIS</a>》(2017年 - )</p></td>
 <td><p>E.F.S.F.(地球聯邦軍)</p></td>
 <td><p>新吉翁残党(ネオ・ジオン残党)<br />
 Birnam(バーナム)</p></td>
@@ -236,7 +236,7 @@ Birnam(バーナム)</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>重鍍世紀1014年</strong></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/GUNDAM_G之复国运动" title="wikilink">GUNDAM G之复国运动</a>》(2014年 - 2015年)</p></td>
+<td><p>《<a href="../Page/GUNDAM_G之复国运动.md" title="wikilink">GUNDAM G之复国运动</a>》(2014年 - 2015年)</p></td>
 <td><p>首都衛隊(キャピタル・アーミィ)<br />
 海盜部隊</p></td>
 <td><p>-{zh-hk:多華申加;zh-tw:永賀軍;zh-cn:永贺军;}-(トワサンガ)<br />
@@ -376,7 +376,7 @@ E.S.F.(地球联邦)</p></td>
   - [機動戰士GUNDAM
     UC](../Page/機動戰士GUNDAM_UC.md "wikilink")（UC0096，OVA，2010年春動畫化）
   - [機動戰士GUNDAM Twilight
-    AXIS](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Twilight_AXIS "wikilink")（UC0096，OVA，2017年6月動畫化）
+    AXIS](../Page/機動戰士GUNDAM_Twilight_AXIS.md "wikilink")（UC0096，OVA，2017年6月動畫化）
   - [機動戰士GUNDAM
     NT](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_NT "wikilink")（UC0097，電影）
   - [機動戰士GUNDAM

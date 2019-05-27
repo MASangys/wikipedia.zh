@@ -13,7 +13,7 @@ ACDSee分为标准版和加强版（PowerPack，在4.0版以後才出現）兩�
 ## 特性
 
 ACDSee在初期版本即提供了一种简便的图片注释方法，即在图片文件夹下新建一个隐藏的文本文件，名为
-[Descript.ion](https://zh.wikipedia.org/wiki/Descript.ion "wikilink")，将逐个图片的注释存储在这一文件，并能够在浏览和查看时显示。
+[Descript.ion](../Page/Descript.ion.md "wikilink")，将逐个图片的注释存储在这一文件，并能够在浏览和查看时显示。
 
 格式如下：
 

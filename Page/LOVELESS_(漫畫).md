@@ -224,7 +224,7 @@ Sacrifice 和战斗机联系的组合，如“Breathless”“Zero”“Sleeples
   - 原作：[高河弓](../Page/高河弓.md "wikilink")
   - 监督：[紅優](../Page/紅優.md "wikilink")
   - 故事构成・脚本：[河原ゆうじ](https://zh.wikipedia.org/wiki/河原ゆうじ "wikilink")
-  - 人物设定：[岩倉和憲](https://zh.wikipedia.org/wiki/岩倉和憲 "wikilink")
+  - 人物设定：[岩倉和憲](../Page/岩倉和憲.md "wikilink")
   - 总作画监督：[中山由美](../Page/中山由美.md "wikilink")
   - 物品设定：[橘秀樹](https://zh.wikipedia.org/wiki/橘秀樹 "wikilink")
   - 美术监督：[小田理惠](https://zh.wikipedia.org/wiki/小田理惠 "wikilink")

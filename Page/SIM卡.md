@@ -63,7 +63,7 @@ SIM已经被[GSM](../Page/GSM.md "wikilink")11.11标准规范化，用户可以�
 
 [RT频道报道](../Page/今日俄罗斯.md "wikilink")，[德国密码破译专家研究发现](../Page/德国.md "wikilink")，全球大约有7.5亿用户使用的SIM卡存在漏洞。专家已将这一发现通报给[国际电信联盟](../Page/国际电信联盟.md "wikilink")，该联盟也已着手通知相关厂商及时修补漏洞。\[2\]
 
-SIM卡只支持单向鉴权，不支持双向鉴权。即网络对手机（SIM）进行合法性的认证，缺乏用户对网络的认证，这就给诸如“[伪基站](https://zh.wikipedia.org/wiki/伪基站 "wikilink")”这样的不法行为留了空子，其后果为犯罪分子任意冒用他人手机号码或任意号码强行向用户手机发送诈骗、推销等垃圾短信。将手机卡升级成[USIM卡就可以解决这一漏洞](https://zh.wikipedia.org/wiki/USIM "wikilink")。
+SIM卡只支持单向鉴权，不支持双向鉴权。即网络对手机（SIM）进行合法性的认证，缺乏用户对网络的认证，这就给诸如“[伪基站](../Page/伪基站.md "wikilink")”这样的不法行为留了空子，其后果为犯罪分子任意冒用他人手机号码或任意号码强行向用户手机发送诈骗、推销等垃圾短信。将手机卡升级成[USIM卡就可以解决这一漏洞](https://zh.wikipedia.org/wiki/USIM "wikilink")。
 
 ## SIM卡須配合手機
 
@@ -74,7 +74,7 @@ SIM卡只支持单向鉴权，不支持双向鉴权。即网络对手机（SIM�
   - [USIM](https://zh.wikipedia.org/wiki/USIM "wikilink")
   - [UIM](https://zh.wikipedia.org/wiki/UIM "wikilink")
   - [RUIM](https://zh.wikipedia.org/wiki/RUIM "wikilink")
-  - [伪基站](https://zh.wikipedia.org/wiki/伪基站 "wikilink")
+  - [伪基站](../Page/伪基站.md "wikilink")
 
 ## 參考资料
 
