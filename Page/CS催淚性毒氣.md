@@ -7,9 +7,8 @@
 
       -
         ClC<sub>6</sub>H<sub>4</sub>CHO +
-        [H<sub>2</sub>C(CN)<sub>2</sub>](https://zh.wikipedia.org/wiki/丙二腈 "wikilink")
-        → ClC<sub>6</sub>H<sub>4</sub>CHC(CN)<sub>2</sub> +
-        H<sub>2</sub>O
+        [H<sub>2</sub>C(CN)<sub>2</sub>](../Page/丙二腈.md "wikilink") →
+        ClC<sub>6</sub>H<sub>4</sub>CHC(CN)<sub>2</sub> + H<sub>2</sub>O
 
 ## 理化特性
 

@@ -31,8 +31,7 @@ Circus就是未來](https://zh.wikipedia.org/wiki/Dead_Letter_Circus "wikilink")
   - [Belle
     Gunness](https://zh.wikipedia.org/wiki/Belle_Gunness "wikilink")
   - [Borgore](https://zh.wikipedia.org/wiki/Borgore "wikilink") (僅有代理北美)
-  - [Born of
-    Osiris](https://zh.wikipedia.org/wiki/Born_of_Osiris "wikilink")
+  - [Born of Osiris](../Page/Born_of_Osiris.md "wikilink")
   - [Circle of
     Contempt](https://zh.wikipedia.org/wiki/Circle_of_Contempt "wikilink")
   - [Conducting From the

@@ -1386,7 +1386,7 @@
 <td><p>女</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾人</a>。</p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾人</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>真真</p></td>
@@ -1437,7 +1437,7 @@
 <td><p>女</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾人</a>。</p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾人</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>Koy</p></td>

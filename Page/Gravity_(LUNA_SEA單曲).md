@@ -8,7 +8,7 @@ Heaven）的主題曲。
 <!-- end list -->
 
 1.  *gravity*
-    原曲和歌詞由[INORAN所編寫](https://zh.wikipedia.org/wiki/INORAN "wikilink")，而歌詞經過[RYUICHI修改而完成](../Page/河村隆一.md "wikilink")；全曲以十六拍構成主要節奏。INORAN本人在談及這首歌時，曾描述它是一首雖然在春季發行，曲調卻充滿秋季氛圍的歌曲。
+    原曲和歌詞由[INORAN所編寫](../Page/INORAN.md "wikilink")，而歌詞經過[RYUICHI修改而完成](../Page/河村隆一.md "wikilink")；全曲以十六拍構成主要節奏。INORAN本人在談及這首歌時，曾描述它是一首雖然在春季發行，曲調卻充滿秋季氛圍的歌曲。
     在2000年月之海解散後，INORAN也曾經以個人身分在其他現場表演中重新翻唱過這首歌曲。
 2.  *inside you*
     為月之海錄製的歌曲中唯一由[真矢創作詞曲的作品](https://zh.wikipedia.org/wiki/真矢 "wikilink")，之後由所有成員共同譜寫而成。

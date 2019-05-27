@@ -7,7 +7,7 @@ High成員](../Page/Epik_High.md "wikilink")[Tablo培訓](https://zh.wikipedia.o
 Fanclub於2011年8月17日成立。
 
 2012年，成員[聖圭以個人歌手身份出道](https://zh.wikipedia.org/wiki/聖圭 "wikilink")。2013年，成員[東雨與](https://zh.wikipedia.org/wiki/東雨 "wikilink")[Hoya組成分隊](../Page/Hoya.md "wikilink")[INFINITE
-H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")（現已解散）。2014年，成員[優鉉與](https://zh.wikipedia.org/wiki/優鉉 "wikilink")[SHINee的](../Page/SHINee.md "wikilink")[Key組成特別企劃組合](https://zh.wikipedia.org/wiki/Key "wikilink")[Toheart](https://zh.wikipedia.org/wiki/Toheart "wikilink")。同年，成員[成烈](https://zh.wikipedia.org/wiki/成烈 "wikilink")、[L與](../Page/金明洙.md "wikilink")[成種組成分隊](https://zh.wikipedia.org/wiki/成種 "wikilink")[INFINITE
+H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")（現已解散）。2014年，成員[優鉉與](https://zh.wikipedia.org/wiki/優鉉 "wikilink")[SHINee的](../Page/SHINee.md "wikilink")[Key組成特別企劃組合](https://zh.wikipedia.org/wiki/Key "wikilink")[Toheart](../Page/Toheart.md "wikilink")。同年，成員[成烈](https://zh.wikipedia.org/wiki/成烈 "wikilink")、[L與](../Page/金明洙.md "wikilink")[成種組成分隊](https://zh.wikipedia.org/wiki/成種 "wikilink")[INFINITE
 F](../Page/INFINITE_F.md "wikilink")。2016年，成員[優鉉以個人歌手身份出道](https://zh.wikipedia.org/wiki/優鉉 "wikilink")。
 
 ## 歷程
@@ -82,7 +82,7 @@ Infinite](../Page/This_Is_Infinite.md "wikilink")》。\[16\]
 
 2月28日至3月1日，於首爾舉行兩場世界巡回演唱會安可場《One Great Step Returns》。
 
-3月10日，[優鉉與](https://zh.wikipedia.org/wiki/南優賢 "wikilink")[SHINee成員](../Page/SHINee.md "wikilink")[Key結成企劃組合](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")[Toheart並發行首張迷你專輯](https://zh.wikipedia.org/wiki/Toheart "wikilink")，主打歌為《Delicious》，後續曲為《Tell
+3月10日，[優鉉與](../Page/南優賢.md "wikilink")[SHINee成員](../Page/SHINee.md "wikilink")[Key結成企劃組合](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")[Toheart並發行首張迷你專輯](../Page/Toheart.md "wikilink")，主打歌為《Delicious》，後續曲為《Tell
 Me Why》。\[17\]
 
 5月19至21日搭乘直升機依序於日本東京、台灣台北、南韓首爾三地舉行新歌發表《INFINITE 1, 2, 3
@@ -139,7 +139,7 @@ SHOWTIME](../Page/SHOWTIME_Infinite.md "wikilink")》 。\[26\]
 
 4月3日，成為韓國使節團並與總統一起參加K－Soul in Mexico公演。
 
-5月9日，主唱[優鉉展開個人活動](https://zh.wikipedia.org/wiki/南優賢 "wikilink")，發行首張個人專輯《Write..》，主打歌為《點頭點頭》。\[28\]
+5月9日，主唱[優鉉展開個人活動](../Page/南優賢.md "wikilink")，發行首張個人專輯《Write..》，主打歌為《點頭點頭》。\[28\]
 
 8月3至7日，於首爾舉辦共五場的夏日演唱會《That Summer 3》。\[29\]其後於釜山、日本（東京、大阪）巡迴演出。
 
@@ -192,7 +192,7 @@ Reacher: Never Go Back》的首映會的表演嘉賓。
 | 漢字\[44\]                                           |
 | [聖圭](../Page/金聖圭.md "wikilink")                    |
 | [東雨](../Page/張東雨.md "wikilink")                    |
-| [優鉉](https://zh.wikipedia.org/wiki/南優賢 "wikilink") |
+| [優鉉](../Page/南優賢.md "wikilink")                    |
 | [成烈](https://zh.wikipedia.org/wiki/李成烈 "wikilink") |
 | [L](../Page/金明洙.md "wikilink")                     |
 | [成種](../Page/李成種.md "wikilink")                    |
@@ -318,7 +318,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>6th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/INFINITE_ONLY" title="wikilink">INFINITE ONLY</a></strong>》</p>
+<td><p>《<strong><a href="../Page/INFINITE_ONLY.md" title="wikilink">INFINITE ONLY</a></strong>》</p>
 <ul>
 <li>發行日期：2016年9月19日</li>
 <li>語言：韓語</li>
@@ -380,7 +380,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Top_Seed" title="wikilink">Top Seed</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Top_Seed.md" title="wikilink">Top Seed</a></strong>》</p>
 <ul>
 <li>發行日期：2018年1月8日</li>
 <li>語言：韓語</li>
@@ -647,7 +647,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Air_(INFINITE專輯)" title="wikilink">Air</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Air_(INFINITE專輯).md" title="wikilink">Air</a></strong>》</p>
 <ul>
 <li>發行日期：2017年5月24日</li>
 <li></li>
@@ -1047,8 +1047,8 @@ PlotData =
 <tbody>
 <tr class="odd">
 <td><p>2014年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南優賢" title="wikilink">優鉉</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南優賢" title="wikilink">優鉉</a> - '''當愛情來的時候 '''</p>
+<td><p><a href="../Page/南優賢.md" title="wikilink">優鉉</a></p></td>
+<td><p><a href="../Page/南優賢.md" title="wikilink">優鉉</a> - '''當愛情來的時候 '''</p>
 <ul>
 <li>發行日期：2014年10月24日</li>
 </ul></td>
@@ -1070,7 +1070,7 @@ PlotData =
 <ul>
 <li>發行日期：2017年6月29日</li>
 </ul></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a>《<a href="https://zh.wikipedia.org/wiki/君主－假面的主人" title="wikilink">君主－假面的主人</a>》OST Part. 14</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a>《<a href="../Page/君主－假面的主人.md" title="wikilink">君主－假面的主人</a>》OST Part. 14</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
@@ -1548,7 +1548,7 @@ PlotData =
 <td><p>那年夏天（第二個故事）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/INFINITE_ONLY" title="wikilink">INFINITE ONLY</a></p></td>
+<td><p><a href="../Page/INFINITE_ONLY.md" title="wikilink">INFINITE ONLY</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>One Day</p></td>
@@ -1557,7 +1557,7 @@ PlotData =
 <td><p>2018年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Top_Seed" title="wikilink">TOP SEED</a></p></td>
+<td><p><a href="../Page/Top_Seed.md" title="wikilink">TOP SEED</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>

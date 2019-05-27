@@ -74,10 +74,10 @@ film』為題，同步上映『[美食獵人TORIKO](../Page/美食獵人TORIKO.m
 
 ### 本作人物
 
-本作電影[山口智充先生飾演](https://zh.wikipedia.org/wiki/山口智充 "wikilink")3名角色。
+本作電影[山口智充先生飾演](../Page/山口智充.md "wikilink")3名角色。
 
   -
-    聲優：[山口智充](https://zh.wikipedia.org/wiki/山口智充 "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）；[黃志明](../Page/黃志明_\(香港\).md "wikilink")（香港）
+    聲優：[山口智充](../Page/山口智充.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）；[黃志明](../Page/黃志明_\(香港\).md "wikilink")（香港）
     謝德海賊團船長。被草帽海賊團從漂流船救出的老海賊。
   -
     聲優：山口智充（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）

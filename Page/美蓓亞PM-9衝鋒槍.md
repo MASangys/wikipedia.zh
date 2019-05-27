@@ -42,7 +42,7 @@ MP5衝鋒槍或許會是他們的其中一個選擇](https://zh.wikipedia.org/wi
   - [烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")
   - [日本自衛隊](https://zh.wikipedia.org/wiki/日本自衛隊 "wikilink")
   - [美蓓亞P9手槍](../Page/美蓓亞P9手槍.md "wikilink")
-  - [索斯米821式衝鋒鎗](https://zh.wikipedia.org/wiki/索斯米821式衝鋒鎗 "wikilink")
+  - [索斯米821式衝鋒鎗](../Page/索斯米821式衝鋒鎗.md "wikilink")
 
 [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink")
 [Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink")

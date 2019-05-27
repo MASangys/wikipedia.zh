@@ -338,8 +338,8 @@ AFTER）》第一話，故事圍繞柳生道場的伙伴們與新角色上杉景
   - 剪接：田熊純
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 音樂：加藤達也
-  - 動畫制作：[Arms](https://zh.wikipedia.org/wiki/Arms "wikilink")
-  - 企劃製作：[GENCO](https://zh.wikipedia.org/wiki/GENCO "wikilink")
+  - 動畫制作：[Arms](../Page/Arms.md "wikilink")
+  - 企劃製作：[GENCO](../Page/GENCO.md "wikilink")
   - 製作：百花繚乱 PARTNERS（第1季）、百花繚乱 SB PARTNERS（第2季）
   - 旁白：[立木文彥](https://zh.wikipedia.org/wiki/立木文彥 "wikilink")
 

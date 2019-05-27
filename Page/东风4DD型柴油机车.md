@@ -29,7 +29,7 @@ Railways DF4DD 0289 20171124 02.jpg|thumb|国电南宁有限公司使用的DF4DD
 
 ### 柴油机
 
-机车装用一台与[东风6型](../Page/东风6型柴油机车.md "wikilink")、东风4D型机车相同的16V240ZJD型[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，属于240/275系列产品之一。该型柴油机是在16V240ZJB型柴油机基础上，通过与英国里卡多咨询工程公司技术合作，于1986年开发完成的大功率机车柴油机，为16[气缸](https://zh.wikipedia.org/wiki/气缸 "wikilink")、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、[废气涡轮增压的直喷式](https://zh.wikipedia.org/wiki/涡轮增压 "wikilink")[V型中速柴油机](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")，采用焊铸组合机体或整体铸造机体（改进型）、稀土合金球铁[曲轴](https://zh.wikipedia.org/wiki/曲轴 "wikilink")、定压增压系统；在50°V形夹角上方布置两套增压器和[中冷器](https://zh.wikipedia.org/wiki/中冷器 "wikilink")。柴油机装车功率为2940千瓦，满功率运转时燃油消耗率为每千瓦小时207克。
+机车装用一台与[东风6型](../Page/东风6型柴油机车.md "wikilink")、东风4D型机车相同的16V240ZJD型[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，属于240/275系列产品之一。该型柴油机是在16V240ZJB型柴油机基础上，通过与英国里卡多咨询工程公司技术合作，于1986年开发完成的大功率机车柴油机，为16[气缸](https://zh.wikipedia.org/wiki/气缸 "wikilink")、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、[废气涡轮增压的直喷式](https://zh.wikipedia.org/wiki/涡轮增压 "wikilink")[V型中速柴油机](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")，采用焊铸组合机体或整体铸造机体（改进型）、稀土合金球铁[曲轴](https://zh.wikipedia.org/wiki/曲轴 "wikilink")、定压增压系统；在50°V形夹角上方布置两套增压器和[中冷器](../Page/中冷器.md "wikilink")。柴油机装车功率为2940千瓦，满功率运转时燃油消耗率为每千瓦小时207克。
 
 ### 传动系统
 

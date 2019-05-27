@@ -5,7 +5,7 @@ Moon**聲樂團是由五個擁有古典音樂及輕音樂背景的年輕人在20
 Moon樂團同時也在該張專輯裡收錄許多英語及義大利語的歌曲。
 
 2003年，Fool
-Moon樂團首次進入在格拉茨舉辦的國際無伴奏合唱大賽。之後，該樂團被邀請至數個國家，遍及[奧地利](https://zh.wikipedia.org/wiki/奧地利 "wikilink")，[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")，[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，[台灣和](https://zh.wikipedia.org/wiki/台灣 "wikilink")[韓國的無伴奏合唱活動或節日](https://zh.wikipedia.org/wiki/韓國 "wikilink")，並介紹匈牙利民間音樂給[慕尼黑](../Page/慕尼黑.md "wikilink")，[維也納](../Page/維也納.md "wikilink")，[多特蒙德](../Page/多特蒙德.md "wikilink")，[達姆施塔特](https://zh.wikipedia.org/wiki/達姆施塔特 "wikilink")，[台北和](https://zh.wikipedia.org/wiki/台北 "wikilink")[首爾的聽眾們](https://zh.wikipedia.org/wiki/首爾 "wikilink")。
+Moon樂團首次進入在格拉茨舉辦的國際無伴奏合唱大賽。之後，該樂團被邀請至數個國家，遍及[奧地利](https://zh.wikipedia.org/wiki/奧地利 "wikilink")，[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")，[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，[台灣和](https://zh.wikipedia.org/wiki/台灣 "wikilink")[韓國的無伴奏合唱活動或節日](https://zh.wikipedia.org/wiki/韓國 "wikilink")，並介紹匈牙利民間音樂給[慕尼黑](../Page/慕尼黑.md "wikilink")，[維也納](../Page/維也納.md "wikilink")，[多特蒙德](../Page/多特蒙德.md "wikilink")，[達姆施塔特](https://zh.wikipedia.org/wiki/達姆施塔特 "wikilink")，[台北和](https://zh.wikipedia.org/wiki/台北 "wikilink")[首爾的聽眾們](../Page/首爾.md "wikilink")。
 
 2005年在獲得國際無伴奏合唱大賽的第一名後，Fool
 Moon躋身進入歐洲的頂尖無伴奏合唱團體。2006年，贏得了在台灣台北舉行的第六屆台灣國際重唱大賽的冠軍，並同時將樂團推廣到歐洲以外的世界。

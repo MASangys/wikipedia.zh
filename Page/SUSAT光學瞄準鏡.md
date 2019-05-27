@@ -13,7 +13,7 @@ SUSAT光學瞄準鏡在[英國軍隊之中是](../Page/英國軍隊.md "wikilink
 LV型步槍](../Page/CETME_L型突擊步槍.md "wikilink")。
 
 一款類似SUSAT的光學瞄準鏡被稱為[Trilux SUIT
-L2A2](https://zh.wikipedia.org/wiki/SUIT光學瞄準鏡 "wikilink")，被應用於[L1A1
+L2A2](../Page/SUIT光學瞄準鏡.md "wikilink")，被應用於[L1A1
 SLR](https://zh.wikipedia.org/wiki/FN_FAL自動步槍#使用國 "wikilink")（英制式的FN
 FAL）、[L7通用機槍](../Page/L7通用機槍.md "wikilink")（英軍的[FN
 MAG](../Page/FN_MAG通用機槍.md "wikilink")）以上。
@@ -101,7 +101,7 @@ SUSAT光學瞄準鏡也出現在許多的媒體當中，包括：
 
 ## 參見
 
-  - [SUIT光學瞄準鏡](https://zh.wikipedia.org/wiki/SUIT光學瞄準鏡 "wikilink")
+  - [SUIT光學瞄準鏡](../Page/SUIT光學瞄準鏡.md "wikilink")
   - [ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")
   - [ITL MARS一體化紅點鏡](../Page/ITL_MARS一體化紅點鏡.md "wikilink")
   - [Aimpoint Comp M2紅點鏡](../Page/Aimpoint_Comp_M2紅點鏡.md "wikilink")

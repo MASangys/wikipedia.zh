@@ -1288,7 +1288,7 @@ SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music 
 <!-- end list -->
 
   - Visit Zoo AKB48  supported by
-    （2010年10月9日・10日、[葛西臨海公園](https://zh.wikipedia.org/wiki/葛西臨海公園 "wikilink")）
+    （2010年10月9日・10日、[葛西臨海公園](../Page/葛西臨海公園.md "wikilink")）
 
 <!-- end list -->
 

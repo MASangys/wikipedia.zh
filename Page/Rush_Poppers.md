@@ -53,7 +53,7 @@ Poppers可能增加眼压，因此患有[青光眼的人士应避免使用](../P
 
 ### 与艾滋病爆发的关联
 
-Poppers常被误认为和[艾滋病](https://zh.wikipedia.org/wiki/艾滋病 "wikilink")、[HIV感染和](https://zh.wikipedia.org/wiki/人类免疫缺陷病毒 "wikilink")[卡波西氏肉瘤](https://zh.wikipedia.org/wiki/卡波西氏肉瘤 "wikilink")（Kaposi's
+Poppers常被误认为和[艾滋病](https://zh.wikipedia.org/wiki/艾滋病 "wikilink")、[HIV感染和](https://zh.wikipedia.org/wiki/人类免疫缺陷病毒 "wikilink")[卡波西氏肉瘤](../Page/卡波西氏肉瘤.md "wikilink")（Kaposi's
 scarcoma，一种和艾滋病相关的[癌症](../Page/癌症.md "wikilink")）有关。\[45\]在艾滋病爆发初期，一种假说认为Poppers与其有关，而这个假说多基于[艾滋病重估运动的](../Page/艾滋病重估运动.md "wikilink")[伪科学](../Page/伪科学.md "wikilink")\[46\]
 
 ## 化学性质

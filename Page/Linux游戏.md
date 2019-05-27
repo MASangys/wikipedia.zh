@@ -60,7 +60,7 @@ PhysX中間軟體的商業Linux遊戲。
 
 2012年7月，遊戲開發和發行商[維爾福發佈Linux版的](https://zh.wikipedia.org/wiki/維爾福 "wikilink")[Source引擎](../Page/Source引擎.md "wikilink")，並宣佈他們要把數位發行平台[Steam帶到Linux上](../Page/Steam.md "wikilink")。\[29\]\[30\]\[31\]Linux版的Steam客戶端讓其他開發者開始考慮移植遊戲到Linux上，\[32\]\[33\]\[34\]\[35\]包含[Aspyr
 Media和](../Page/Aspyr_Media.md "wikilink")[Feral
-Interactive這些移植公司原先移植到](https://zh.wikipedia.org/wiki/Feral_Interactive "wikilink")[Mac
+Interactive這些移植公司原先移植到](../Page/Feral_Interactive.md "wikilink")[Mac
 OS上的遊戲](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。\[36\]
 
 在2012年11月，[Unity
@@ -98,7 +98,7 @@ Games的所有作品](https://zh.wikipedia.org/wiki/s2_Games "wikilink")、[X-Pl
 
 隨著維爾福公司進軍Linux平台，SteamOS和Steam
 Machine吸引了一些公司，令他們決定要移植遊戲到Linux平台上，例如[Feral
-Interactive移植了Linux版的](https://zh.wikipedia.org/wiki/Feral_Interactive "wikilink")和資料片，而[Aspyr
+Interactive移植了Linux版的](../Page/Feral_Interactive.md "wikilink")和資料片，而[Aspyr
 Media則移植了](../Page/Aspyr_Media.md "wikilink")[文明帝國5和其資料片](https://zh.wikipedia.org/wiki/文明帝國5 "wikilink")。\[45\]\[46\]
 
 ## 非原生遊戲
@@ -129,16 +129,16 @@ Windows執行的遊戲或其他軟體](https://zh.wikipedia.org/wiki/Microsoft_W
     Boy和](../Page/Game_Boy.md "wikilink")[Game Boy
     Color](../Page/Game_Boy_Color.md "wikilink");
   - [MAME可模擬街機遊戲](../Page/MAME.md "wikilink");
-  - [Mednafen可模擬許多種硬體平台](https://zh.wikipedia.org/wiki/Mednafen "wikilink")，包含某些上述平台;
+  - [Mednafen可模擬許多種硬體平台](../Page/Mednafen.md "wikilink")，包含某些上述平台;
   - [Mupen64Plus和原版的](https://zh.wikipedia.org/wiki/Mupen64Plus "wikilink")[Mupen64](https://zh.wikipedia.org/wiki/Mupen64 "wikilink")（原版已經不再被活躍開發）可模擬[Nintendo
     64](https://zh.wikipedia.org/wiki/Nintendo_64 "wikilink");
-  - [PCSX-Reloaded](https://zh.wikipedia.org/wiki/PCSX-Reloaded "wikilink")、[pSX和Linux版的](https://zh.wikipedia.org/wiki/pSX_\(模擬器\) "wikilink")[ePSXe可模擬](https://zh.wikipedia.org/wiki/ePSXe "wikilink")[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink");
+  - [PCSX-Reloaded](https://zh.wikipedia.org/wiki/PCSX-Reloaded "wikilink")、[pSX和Linux版的](https://zh.wikipedia.org/wiki/pSX_\(模擬器\) "wikilink")[ePSXe可模擬](https://zh.wikipedia.org/wiki/ePSXe "wikilink")[PlayStation](../Page/PlayStation.md "wikilink");
   - [PCSX2可模擬](../Page/PCSX2.md "wikilink")[PlayStation
     2](../Page/PlayStation_2.md "wikilink");
   - [PPSSPP可模擬](../Page/PPSSPP.md "wikilink")[PlayStation
     Portable](../Page/PlayStation_Portable.md "wikilink")
-  - [ScummVM可模擬LucasArts和其他許多冒險遊戲](https://zh.wikipedia.org/wiki/ScummVM "wikilink");
-  - [SheepShaver可模擬](https://zh.wikipedia.org/wiki/SheepShaver "wikilink")[PowerPC](../Page/PowerPC.md "wikilink")
+  - [ScummVM可模擬LucasArts和其他許多冒險遊戲](../Page/ScummVM.md "wikilink");
+  - [SheepShaver可模擬](../Page/SheepShaver.md "wikilink")[PowerPC](../Page/PowerPC.md "wikilink")
     [麥金塔電腦](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink");
   - [Snes9x](https://zh.wikipedia.org/wiki/Snes9x "wikilink")、[higan和](https://zh.wikipedia.org/wiki/higan "wikilink")[ZSNES可模擬](../Page/ZSNES.md "wikilink")[超級任天堂](../Page/超級任天堂.md "wikilink");
   - [UAE可模擬](https://zh.wikipedia.org/wiki/UAE "wikilink")[Amiga](../Page/Amiga.md "wikilink");

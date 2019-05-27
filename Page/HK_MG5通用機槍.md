@@ -97,7 +97,7 @@ HK121機匣偏短，具有容納[兩腳架凹槽的](https://zh.wikipedia.org/wi
 
 ### 戰術導軌
 
-除了在供彈的[機匣蓋頂部設有](https://zh.wikipedia.org/wiki/机匣 "wikilink")[MIL-STD-1913戰術導軌用以安裝其](../Page/皮卡汀尼導軌.md "wikilink")[照門與各種型號的光學及光電瞄準設備](https://zh.wikipedia.org/wiki/照門 "wikilink")，在導氣活塞筒的兩側和底部也設有較短的MIL-STD-1913戰術導軌。
+除了在供彈的[機匣蓋頂部設有](../Page/机匣.md "wikilink")[MIL-STD-1913戰術導軌用以安裝其](../Page/皮卡汀尼導軌.md "wikilink")[照門與各種型號的光學及光電瞄準設備](https://zh.wikipedia.org/wiki/照門 "wikilink")，在導氣活塞筒的兩側和底部也設有較短的MIL-STD-1913戰術導軌。
 
 ## 衍生型
 
@@ -135,7 +135,7 @@ HK121機匣偏短，具有容納[兩腳架凹槽的](https://zh.wikipedia.org/wi
   - [HK MG4輕機槍](../Page/HK_MG4輕機槍.md "wikilink")
   - [M60通用機槍](../Page/M60通用機槍.md "wikilink")
   - [FN MAG通用機槍](../Page/FN_MAG通用機槍.md "wikilink")
-  - [大宇K12通用機槍](https://zh.wikipedia.org/wiki/大宇K12通用機槍 "wikilink")
+  - [大宇K12通用機槍](../Page/大宇K12通用機槍.md "wikilink")
   - [FN Minimi 7.62通用機槍](../Page/FN_Minimi_7.62通用機槍.md "wikilink")
   - [Mk 48輕量化機槍](../Page/Mk_48輕量化機槍.md "wikilink")
   - [IWI內蓋夫NG7通用機槍](../Page/IWI內蓋夫NG7通用機槍.md "wikilink")

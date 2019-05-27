@@ -3,7 +3,7 @@ Leung）在專訪上定性那是「健康寫真」的貼圖區。網站發展了
 Company Limited」曾就**U**wants.com.hk的[域名向](../Page/域名.md "wikilink")「IP
 MIRROR (HONG KONG) LIMITED」提出訴訟，最終勝訴並獲得該域名。\[4\]
 
-現時Uwants是一個[中國大陸網站](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，各項排名持續落伍。[Alexa公司指出](https://zh.wikipedia.org/wiki/Alexa "wikilink")，近一半訪問數據來自[中華人民共和國國內](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")，而網站的中國國內排名伍萬左右。不過，數據更顯示Uwants在使用量方面有長期下降情況。2018年年初到年尾的Uwants在全球網站排名下跌近一千位，10月時排5,087名\[5\]。而[SimilarWeb的排名數據同樣指出Uwants排名和用戶量有長期下跌問題](https://zh.wikipedia.org/wiki/SimilarWeb "wikilink")，10月時Uwants是世界排名10,194的網站，類別排名下跌了1,036名\[6\]。[非營利組織](../Page/非營利組織.md "wikilink")[GreatFire指出](../Page/GreatFire.md "wikilink")，Uwants過去多年曾遭到[中國](../Page/中國.md "wikilink")[防火長城的封鎖](https://zh.wikipedia.org/wiki/防火長城 "wikilink")，在[中國大陸只能](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[翻牆瀏覽](https://zh.wikipedia.org/wiki/翻牆 "wikilink")。\[7\]
+現時Uwants是一個[中國大陸網站](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，各項排名持續落伍。[Alexa公司指出](https://zh.wikipedia.org/wiki/Alexa "wikilink")，近一半訪問數據來自[中華人民共和國國內](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")，而網站的中國國內排名伍萬左右。不過，數據更顯示Uwants在使用量方面有長期下降情況。2018年年初到年尾的Uwants在全球網站排名下跌近一千位，10月時排5,087名\[5\]。而[SimilarWeb的排名數據同樣指出Uwants排名和用戶量有長期下跌問題](../Page/SimilarWeb.md "wikilink")，10月時Uwants是世界排名10,194的網站，類別排名下跌了1,036名\[6\]。[非營利組織](../Page/非營利組織.md "wikilink")[GreatFire指出](../Page/GreatFire.md "wikilink")，Uwants過去多年曾遭到[中國](../Page/中國.md "wikilink")[防火長城的封鎖](https://zh.wikipedia.org/wiki/防火長城 "wikilink")，在[中國大陸只能](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[翻牆瀏覽](https://zh.wikipedia.org/wiki/翻牆 "wikilink")。\[7\]
 
 ## 部份歷史
 

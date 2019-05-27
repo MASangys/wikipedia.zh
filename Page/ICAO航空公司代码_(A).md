@@ -1611,7 +1611,7 @@
 <tr class="odd">
 <td><p>AW</p></td>
 <td><p>AFW</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/非洲世界航空" title="wikilink">非洲世界航空</a></p></td>
+<td><p><a href="../Page/非洲世界航空.md" title="wikilink">非洲世界航空</a></p></td>
 <td><p>BLACKSTAR</p></td>
 <td><p>加納</p></td>
 <td></td>

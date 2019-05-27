@@ -54,7 +54,7 @@
 </tr>
 <tr class="odd">
 <td><p>1998</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/兵人" title="wikilink">兵人</a>》</p></td>
+<td><p>《<a href="../Page/兵人.md" title="wikilink">兵人</a>》</p></td>
 <td><p><em>Soldier</em></p></td>
 <td></td>
 <td></td>
@@ -216,7 +216,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/死亡飞车：混乱之上" title="wikilink">死亡飞车：混乱之上</a>》</p></td>
+<td><p>《<a href="../Page/死亡飞车：混乱之上.md" title="wikilink">死亡飞车：混乱之上</a>》</p></td>
 <td><p><em>Death Race: Beyond Anarchy</em></p></td>
 <td></td>
 <td></td>
@@ -225,7 +225,7 @@
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/起源號_(電視劇)" title="wikilink">起源號</a>》</p></td>
+<td><p>《<a href="../Page/起源號_(電視劇).md" title="wikilink">起源號</a>》</p></td>
 <td><p><em>Origin</em></p></td>
 <td></td>
 <td></td>
@@ -235,7 +235,7 @@
 </tr>
 <tr class="odd">
 <td><p>TBA</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/魔物獵人_(電影)" title="wikilink">魔物獵人</a>》</p></td>
+<td><p>《<a href="../Page/魔物獵人_(電影).md" title="wikilink">魔物獵人</a>》</p></td>
 <td><p><em>Monster Hunter</em></p></td>
 <td></td>
 <td></td>

@@ -157,7 +157,7 @@ School\[7\]\[8\]。后来毕业于芝加哥的[帝博大學](https://zh.wikipedi
 </tr>
 <tr class="even">
 <td><p>2000</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/完美风暴" title="wikilink">完美风暴</a></p></td>
+<td><p><a href="../Page/完美风暴.md" title="wikilink">完美风暴</a></p></td>
 <td><p>Dale 'Murph' Murphy</p></td>
 <td></td>
 </tr>
@@ -405,7 +405,7 @@ Also Writer/Producer</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/淘金殺手" title="wikilink">淘金殺手</a></p></td>
+<td><p><a href="../Page/淘金殺手.md" title="wikilink">淘金殺手</a></p></td>
 <td><p>Eli Sisters</p></td>
 <td></td>
 </tr>

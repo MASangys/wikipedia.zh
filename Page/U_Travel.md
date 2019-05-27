@@ -1,7 +1,7 @@
 **U
 Travel**，**網上[旅遊資訊頻道](https://zh.wikipedia.org/wiki/旅遊 "wikilink")**，網域為*'
 Travel.ULifestyle.com.hk**，為[香港經濟日報集團有限公司](https://zh.wikipedia.org/wiki/香港經濟日報集團有限公司 "wikilink")\[1\]旗下**[U
-Lifestyle](https://zh.wikipedia.org/wiki/U_Lifestyle "wikilink")*'網站成員之一。
+Lifestyle](../Page/U_Lifestyle.md "wikilink")*'網站成員之一。
 
 網站內容主要涵蓋世界各地的旅遊資訊和景點資料介紹。而其中遊玩情報版面中，包含更新之旅遊及相關的報導，當中包括玩樂、表演及商戶之著數活動資訊，亦包括酒店情報。網民可於行程版塊搜尋或分享行程計劃，於旅遊快搜版面，搜索各旅行社所提供的自遊行或旅行團產品，及於機票資訊版面，搜索最新機票情報及實時機票航空價格資料。另外U
 Travel設有旅遊論壇，用戶可自由討論及分析享相關話題。
@@ -30,7 +30,7 @@ Travel設有旅遊論壇，用戶可自由討論及分析享相關話題。
 <!-- end list -->
 
   - 2014年6月1日起成為[U
-    Lifestyle旗下網絡頻道](https://zh.wikipedia.org/wiki/U_Lifestyle "wikilink")，並同時更新網域為
+    Lifestyle旗下網絡頻道](../Page/U_Lifestyle.md "wikilink")，並同時更新網域為
     Travel.ULifestyle.com.hk。
 
 <!-- end list -->
@@ -51,9 +51,7 @@ Travel設有旅遊論壇，用戶可自由討論及分析享相關話題。
   - 旅遊資訊
       - 包括遊玩情報、遊記、周末去邊度、特集、旅遊貼士。
   - [博客](https://zh.wikipedia.org/wiki/博客 "wikilink")
-      - 聯繫[U
-        Lifestyle](https://zh.wikipedia.org/wiki/U_Lifestyle "wikilink")
-        旗下[U
+      - 聯繫[U Lifestyle](../Page/U_Lifestyle.md "wikilink") 旗下[U
         Blog平台內](../Page/U_Blog.md "wikilink")，網民可繼續分享有關旅遊及其他各類生活相關體驗的博文。
   - 相簿
       - 網民可分享旅遊時的照片，加插於個人編排的行程中。

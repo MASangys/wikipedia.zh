@@ -20,7 +20,7 @@ REED」（），而且還出現人事變動：由佐藤俊彥出任[董事長的
     I.G.旗下](https://zh.wikipedia.org/wiki/Production_I.G. "wikilink")）-
     製作人-{[下地志直](https://zh.wikipedia.org/wiki/下地志直 "wikilink")}-於1995年脫離後所創立。
 
-  - [Actas](https://zh.wikipedia.org/wiki/Actas "wikilink") -
+  - [Actas](../Page/Actas.md "wikilink") -
     製作人[加藤博於](https://zh.wikipedia.org/wiki/加藤博 "wikilink")1998年脫離後而創立。
 
   - \-
@@ -142,7 +142,7 @@ REED」（），而且還出現人事變動：由佐藤俊彥出任[董事長的
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/超人力霸王USA" title="wikilink">超人力霸王USA</a></p></td>
+<td><p><a href="../Page/超人力霸王USA.md" title="wikilink">超人力霸王USA</a></p></td>
 <td><p>～</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:ja:ウルトラマンUSA" title="wikilink">ウルトラマンUSA</a></p></td>
 <td><p>1987</p></td>
@@ -196,7 +196,7 @@ REED」（），而且還出現人事變動：由佐藤俊彥出任[董事長的
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/魔法天使" title="wikilink">歡歡仙子</a>(台灣)</p></td>
+<td><p><a href="../Page/魔法天使.md" title="wikilink">歡歡仙子</a>(台灣)</p></td>
 <td><p>魔法天使(香港，無線電視)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:ja:魔法のエンジェルスイートミント" title="wikilink">魔法のエンジェルスイートミント</a></p></td>
 <td><p>1990-1991</p></td>
@@ -391,7 +391,7 @@ REED」（），而且還出現人事變動：由佐藤俊彥出任[董事長的
 </tr>
 <tr class="even">
 <td><p>38</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/虹色時光" title="wikilink">虹色時光</a></p></td>
+<td><p><a href="../Page/虹色時光.md" title="wikilink">虹色時光</a></p></td>
 <td><p>～</p></td>
 <td></td>
 <td><p>2016</p></td>
@@ -409,7 +409,7 @@ REED」（），而且還出現人事變動：由佐藤俊彥出任[董事長的
 </tr>
 <tr class="even">
 <td><p>40</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/甜心戰士_Universe" title="wikilink">甜心戰士 Universe</a></p></td>
+<td><p><a href="../Page/甜心戰士_Universe.md" title="wikilink">甜心戰士 Universe</a></p></td>
 <td><p>～</p></td>
 <td></td>
 <td><p>2018</p></td>
@@ -715,7 +715,7 @@ NG騎士ラムネ&amp;40 DX ワクワク時空 炎の大捜査戦<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/:ja:エクスドライバー" title="wikilink">エクスドライバー</a></p></td>
 <td><p>2000</p></td>
 <td><p>各話制作協力</p></td>
-<td><p>制作原請:<a href="https://zh.wikipedia.org/wiki/Actas" title="wikilink">Actas</a></p></td>
+<td><p>制作原請:<a href="../Page/Actas.md" title="wikilink">Actas</a></p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
@@ -784,7 +784,7 @@ NG騎士ラムネ&amp;40 DX ワクワク時空 炎の大捜査戦<br />
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/超人力霸王USA" title="wikilink">超人力霸王USA</a></p></td>
+<td><p><a href="../Page/超人力霸王USA.md" title="wikilink">超人力霸王USA</a></p></td>
 <td><p>～</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:ja:ウルトラマンUSA" title="wikilink">ウルトラマンUSA（劇場版）</a></p></td>
 <td><p>1989</p></td>

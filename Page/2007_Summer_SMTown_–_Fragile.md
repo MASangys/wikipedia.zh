@@ -23,9 +23,8 @@ Entertainment簽約後第一次參與合輯的錄製](https://zh.wikipedia.org/w
     [昌珉](https://zh.wikipedia.org/wiki/昌珉 "wikilink"), Lina, Sunday,
     [厲旭](../Page/厲旭.md "wikilink") 和 [藝聲](../Page/藝聲.md "wikilink") –
     (原唱：Yoon Hyung Joo)
-9.  Under The sea –
-    [Dana](https://zh.wikipedia.org/wiki/喜悅Dana "wikilink"),
-    Stephanie, [利特](../Page/利特.md "wikilink"),
+9.  Under The sea – [Dana](../Page/喜悅Dana.md "wikilink"), Stephanie,
+    [利特](../Page/利特.md "wikilink"),
     [金希澈](https://zh.wikipedia.org/wiki/金希澈 "wikilink"),
     [藝聲](../Page/藝聲.md "wikilink"), [強仁](../Page/強仁.md "wikilink"),
     [銀赫](../Page/銀赫.md "wikilink"),

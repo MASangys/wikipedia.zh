@@ -1,4 +1,4 @@
-《**戰國STRAYS**》（せんごくストレイズ），[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[七海慎吾的](https://zh.wikipedia.org/wiki/七海慎吾 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於《月刊GANGAN
+《**戰國STRAYS**》（せんごくストレイズ），[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[七海慎吾的](../Page/七海慎吾.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於《月刊GANGAN
 WING》2008年2月號開始連載。後來移至《[月刊GANGAN
 JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")》5月號（創刊號）上繼續連載。
 
@@ -149,7 +149,7 @@ Works發售](../Page/Frontier_Works.md "wikilink")[廣播劇CD](../Page/廣播�
 
 ### 單行本
 
-  - [七海慎吾](https://zh.wikipedia.org/wiki/七海慎吾 "wikilink") 『戦國STRAYS』
+  - [七海慎吾](../Page/七海慎吾.md "wikilink") 『戦國STRAYS』
     [史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")〈月刊GANGAN
     WING、[月刊GANGAN
     JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")〉、11卷（截至2013年）

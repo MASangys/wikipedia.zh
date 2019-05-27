@@ -147,7 +147,7 @@ PAC**是[日本的演藝事務所](../Page/日本.md "wikilink")。主要經營[
 
 </dl>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/長尾明希" title="wikilink">長尾明希</a></li>
+<li><a href="../Page/長尾明希.md" title="wikilink">長尾明希</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/中島絵美" title="wikilink">中島絵美</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/永吉ユカ" title="wikilink">永吉ユカ</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/野一祐子" title="wikilink">野一祐子</a></li>

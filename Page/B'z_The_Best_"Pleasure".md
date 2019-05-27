@@ -15,7 +15,7 @@
     GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")》的銷量紀錄(487萬)，成為當時日本銷售的最高紀錄。之後則被[宇多田光於](../Page/宇多田光.md "wikilink")1999年所發行的首張專輯《[First
     Love](https://zh.wikipedia.org/wiki/First_Love "wikilink")》（765萬）所超越，如今為日本唱片銷售量[史上第二](../Page/日本最暢銷專輯列表.md "wikilink")，精選輯則為日本第一。
   - 此張精選輯與當年9月[B'z所發行的另一張精選輯](../Page/B'z.md "wikilink")《[B'z The Best
-    "Treasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Treasure" "wikilink")》，獨霸當年日本公信榜的第一、二名，是繼1975年[井上陽水以來第二次創下的紀錄](../Page/井上陽水.md "wikilink")。
+    "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")》，獨霸當年日本公信榜的第一、二名，是繼1975年[井上陽水以來第二次創下的紀錄](../Page/井上陽水.md "wikilink")。
   - 受此張專輯《**B'z The Best "Pleasure"**》、和《B'z The Best
     "Treasure"》兩張精選輯影響，1998年B'z的CD年度銷售量超過1270萬張，成為歷代第一，是J-POP首次有歌手在單一年份裡CD銷量超過1000萬張（超過1000萬張的紀錄，僅有1998年的B'z與1999年的宇多田光兩組），此年B'z的實體唱片年產值達到了365億日圓，為日本歷代第一（唱片年產值超過200億日圓僅1998年的B'z，1999年的宇多田光281億日圓，2000年的濱崎步243億日圓）。
   - 本張精選輯14首歌曲中有9首單曲銷售量破百萬張。

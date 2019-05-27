@@ -45,7 +45,7 @@ Para風格的舞蹈](../Page/Para_Para.md "wikilink")。\[2\]4月20日開放網�
   - [板谷由夏](../Page/板谷由夏.md "wikilink")
   - [上野樹里](../Page/上野樹里.md "wikilink")
   - [岡田義德](../Page/岡田義德.md "wikilink")
-  - [小倉久寬](https://zh.wikipedia.org/wiki/小倉久寬 "wikilink")
+  - [小倉久寬](../Page/小倉久寬.md "wikilink")
   - [加藤貴子](https://zh.wikipedia.org/wiki/加藤貴子 "wikilink")
   - [神木隆之介](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink")
   - [岸谷五朗](../Page/岸谷五朗.md "wikilink")

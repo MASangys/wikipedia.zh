@@ -1,4 +1,4 @@
-是[日本漫画家](../Page/日本.md "wikilink")[宮條可留奈的漫画作品](https://zh.wikipedia.org/wiki/宮條可留奈 "wikilink")。
+是[日本漫画家](../Page/日本.md "wikilink")[宮條可留奈的漫画作品](../Page/宮條可留奈.md "wikilink")。
 
 ## 简介
 

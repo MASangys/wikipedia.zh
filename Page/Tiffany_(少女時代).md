@@ -21,7 +21,7 @@ Hwang\[2\]，与蒂芬妮同一天生日\[3\]，在2009的一次公開訪問中�
 在還未被[SM
 Entertainment公司選拔為練習生前](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，她一直待在鑽石吧
 (加利福尼亞州)就讀當地的South Pointe Middle School和鑽石吧高中(Diamond Bar High
-School)，被選拔為練習生後她前往[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")，並且轉學到位於[首爾市當地的](https://zh.wikipedia.org/wiki/首爾市 "wikilink")繼續其高中學業，跟她同為該校學生的還有[少女時代的前成員兼歌手](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[潔西卡以及歌手](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")[Jessi](https://zh.wikipedia.org/wiki/Jessi "wikilink")。
+School)，被選拔為練習生後她前往[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")，並且轉學到位於[首爾市當地的](https://zh.wikipedia.org/wiki/首爾市 "wikilink")繼續其高中學業，跟她同為該校學生的還有[少女時代的前成員兼歌手](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[潔西卡以及歌手](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")[Jessi](../Page/Jessi.md "wikilink")。
 
 2004年，蒂芬妮參加[SM娛樂在洛杉磯市舉辦的](../Page/SM娛樂.md "wikilink")「Starlight Casting
 System」選秀會，獲得CJ/KMTV USA-LA
@@ -49,13 +49,13 @@ Myself）》，此曲為蒂芬妮獨挑大樑首次獨唱一首歌\[6\]\[7\]。3
 Diaz），一起參與演出的還有[Super
 Junior的](../Page/Super_Junior.md "wikilink")[銀赫](../Page/銀赫.md "wikilink")、GOD的[孫昊永](../Page/孫昊永.md "wikilink")、[天上智喜的Lina等人](../Page/天上智喜.md "wikilink")。
 
-2012年4月10日，蒂芬妮為[KBS2連續劇](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[愛情雨](https://zh.wikipedia.org/wiki/愛情雨 "wikilink")》演唱插入曲《因為是你》。5月2日，蒂芬妮與[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[徐玄組成](../Page/徐朱玄.md "wikilink")[少女時代的首個子團體](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[TaeTiSeo](../Page/少女時代-太蒂徐.md "wikilink")，並推出首張迷你專輯《[Twinkle](https://zh.wikipedia.org/wiki/Twinkle "wikilink")》。子團體[TaeTiSeo的音樂類型及曲風跟母團體](../Page/少女時代-太蒂徐.md "wikilink")[少女時代有所不同](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。8月29日，蒂芬妮跟同公司的男子組合[Super
+2012年4月10日，蒂芬妮為[KBS2連續劇](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[愛情雨](https://zh.wikipedia.org/wiki/愛情雨 "wikilink")》演唱插入曲《因為是你》。5月2日，蒂芬妮與[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[徐玄組成](../Page/徐朱玄.md "wikilink")[少女時代的首個子團體](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[TaeTiSeo](../Page/少女時代-太蒂徐.md "wikilink")，並推出首張迷你專輯《[Twinkle](../Page/Twinkle.md "wikilink")》。子團體[TaeTiSeo的音樂類型及曲風跟母團體](../Page/少女時代-太蒂徐.md "wikilink")[少女時代有所不同](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。8月29日，蒂芬妮跟同公司的男子組合[Super
 Junior成員](../Page/Super_Junior.md "wikilink")[圭賢為](../Page/圭賢.md "wikilink")[SBS連續劇](../Page/SBS_\(韓國\).md "wikilink")《[致美麗的你](https://zh.wikipedia.org/wiki/致美麗的你 "wikilink")》演唱插入曲《致美麗的你》。
 
 2013年4月17日，蒂芬妮為[SBS連續劇](../Page/SBS_\(韓國\).md "wikilink")《[我戀愛的一切](../Page/我戀愛的一切.md "wikilink")》演唱插入曲《One
 Step Closer》。
 
-2014年9月18日，[TaeTiSeo时隔](../Page/少女時代-太蒂徐.md "wikilink")2年4個月，推出第二張迷你專輯《[Holler](https://zh.wikipedia.org/wiki/Holler "wikilink")》。
+2014年9月18日，[TaeTiSeo时隔](../Page/少女時代-太蒂徐.md "wikilink")2年4個月，推出第二張迷你專輯《[Holler](../Page/Holler.md "wikilink")》。
 
 2015年2月24日，蒂芬妮為[KBS2連續劇](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Blood](../Page/Blood_\(電視劇\).md "wikilink")》演唱插入曲《Only
 one》。8月1日，蒂芬妮為在生日PARTY上公開自創曲《BitterSweet &
@@ -68,7 +68,7 @@ Dance》\[16\]。6月10日，蒂芬妮在第一次個人演唱會Weekend上發�
 2017年10月9日，Tiffany不再與[SM娛樂續約](../Page/SM娛樂.md "wikilink")，正式離開SM娛樂，但不會退出少女時代，目前已返回美國求學及與家人團聚。
 
 2018年3月14日，以藝名Tiffany Young推出數碼單曲《[Remember
-Me](https://zh.wikipedia.org/wiki/請記住我_\(皮克斯歌曲\) "wikilink")》，翻唱[可可夜總會的歌曲](https://zh.wikipedia.org/wiki/可可夜總會 "wikilink")，在iTunes
+Me](../Page/請記住我_\(皮克斯歌曲\).md "wikilink")》，翻唱[可可夜總會的歌曲](https://zh.wikipedia.org/wiki/可可夜總會 "wikilink")，在iTunes
 發行。\[17\]並於當日創立了個人的[Twitter](../Page/Twitter.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[微博及](../Page/微博.md "wikilink")[Youtube頻道](https://zh.wikipedia.org/wiki/Youtube "wikilink")。
 
 2018年6月13日，Tiffany正式簽約[Paradigm Talent
@@ -572,7 +572,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <tr class="even">
 <td><p>2018年3月14日</p></td>
 <td><p>Remember Me</p></td>
-<td><p>翻唱自《<a href="https://zh.wikipedia.org/wiki/可可夜總會" title="wikilink">可可夜總會</a>》原創歌曲《<a href="https://zh.wikipedia.org/wiki/請記住我_(皮克斯歌曲)" title="wikilink">請記住我</a>》</p></td>
+<td><p>翻唱自《<a href="https://zh.wikipedia.org/wiki/可可夜總會" title="wikilink">可可夜總會</a>》原創歌曲《<a href="../Page/請記住我_(皮克斯歌曲).md" title="wikilink">請記住我</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -689,7 +689,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 </tr>
 <tr class="even">
 <td><p>2019年3月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -840,11 +840,11 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 
 ### 擔任嘉賓
 
-|                    |                                                                |                                                        |                                                                                                                                                                                                               |
-| ------------------ | -------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 日期                 | 電視台/平台                                                         | 節目名稱                                                   | 合作藝人                                                                                                                                                                                                          |
-| 2015年2月13日、14日、20日 | [LINE](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink") | 《TV SurpLINEs》－少女時代篇                                   | [孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[Yuri](../Page/俞利.md "wikilink")                                                                                                                            |
-| 2016年4月8日－8月15日    | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")      | 《[姐姐們的Slam Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》 | [羅美蘭](../Page/羅美蘭.md "wikilink")、[金淑](../Page/金淑.md "wikilink") 、[洪真慶](../Page/洪真慶.md "wikilink")、[閔孝琳](https://zh.wikipedia.org/wiki/閔孝琳 "wikilink")、[Jessi](https://zh.wikipedia.org/wiki/Jessi "wikilink") |
+|                    |                                                                |                                                        |                                                                                                                                                                                            |
+| ------------------ | -------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 日期                 | 電視台/平台                                                         | 節目名稱                                                   | 合作藝人                                                                                                                                                                                       |
+| 2015年2月13日、14日、20日 | [LINE](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink") | 《TV SurpLINEs》－少女時代篇                                   | [孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[Yuri](../Page/俞利.md "wikilink")                                                                                                         |
+| 2016年4月8日－8月15日    | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")      | 《[姐姐們的Slam Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》 | [羅美蘭](../Page/羅美蘭.md "wikilink")、[金淑](../Page/金淑.md "wikilink") 、[洪真慶](../Page/洪真慶.md "wikilink")、[閔孝琳](https://zh.wikipedia.org/wiki/閔孝琳 "wikilink")、[Jessi](../Page/Jessi.md "wikilink") |
 
 ### 節目主持
 
@@ -914,7 +914,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <td><p>2015年4月24日－08月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>Heart A Tag</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李哲宇" title="wikilink">李哲宇</a></p></td>
+<td><p><a href="../Page/李哲宇.md" title="wikilink">李哲宇</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -945,7 +945,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <td><p>2009年9月5日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>Korea Music Wave in Incheon 2009</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a>、<a href="https://zh.wikipedia.org/wiki/吳尚津" title="wikilink">吳尚津</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a>、<a href="../Page/吳尚津.md" title="wikilink">吳尚津</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年8月29日</p></td>
@@ -1017,7 +1017,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <td><p>2014年1月16日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p>第二十八屆 Golden Disk Awards</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/吳尚津" title="wikilink">吳尚津</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<a href="../Page/吳尚津.md" title="wikilink">吳尚津</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年8月10日</p></td>
@@ -1095,24 +1095,24 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 
 **註：與母團共同的雜誌寫真詳見[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")**
 
-|                                                                    |                                                                    |                                             |        |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------- | ------ |
-| **年份**                                                             | **期數**                                                             | **雜誌名稱**                                    | **備註** |
-| 2015年                                                              | 12月刊                                                               | 《BEAUTY+》                                   | 封面     |
-| 《[Marie Claire](https://zh.wikipedia.org/wiki/美麗佳人 "wikilink") HK》 | 雙封面                                                                |                                             |        |
-| 2016年                                                              | 4月刊                                                                | 《品Prestige》                                 | 封面     |
-| 2017年                                                              | 1月刊                                                                | 《NUYOU Singapore》                           | 封面     |
-| 3月刊                                                                | 《[Marie Claire](https://zh.wikipedia.org/wiki/美麗佳人 "wikilink") HK》 | 封面                                          |        |
-| Vol.133                                                            | 《1st Look》                                                         | 寫真                                          |        |
-| 10月刊                                                               | 《BEAUTY+》                                                          | 封面                                          |        |
-| 12月刊                                                               | 《Ceci Korea》                                                       | 封面                                          |        |
-| 2018年                                                              | 8月刊                                                                | 《BAZAAR Vietnam》                            | 封面     |
-| 寫真                                                                 | 《GRAZIA》                                                           | 與[H\&M合作](../Page/H&M.md "wikilink")        |        |
-| Digital Cover                                                      | 《Paper Magazine》                                                   | 封面                                          |        |
-| 12月刊                                                               | 《[ELLE](../Page/ELLE.md "wikilink") HongKong》                      | 封面                                          |        |
-| 2019年                                                              | 3月刊                                                                | 《[ELLE](../Page/ELLE.md "wikilink") Taiwan》 | 封面     |
-| Spring 2019                                                        | 《GLASS》                                                            | 封面                                          |        |
-| Music Issue                                                        | 《Galore》                                                           | 封面                                          |        |
+|                                                 |                                                 |                                             |        |
+| ----------------------------------------------- | ----------------------------------------------- | ------------------------------------------- | ------ |
+| **年份**                                          | **期數**                                          | **雜誌名稱**                                    | **備註** |
+| 2015年                                           | 12月刊                                            | 《BEAUTY+》                                   | 封面     |
+| 《[Marie Claire](../Page/美麗佳人.md "wikilink") HK》 | 雙封面                                             |                                             |        |
+| 2016年                                           | 4月刊                                             | 《品Prestige》                                 | 封面     |
+| 2017年                                           | 1月刊                                             | 《NUYOU Singapore》                           | 封面     |
+| 3月刊                                             | 《[Marie Claire](../Page/美麗佳人.md "wikilink") HK》 | 封面                                          |        |
+| Vol.133                                         | 《1st Look》                                      | 寫真                                          |        |
+| 10月刊                                            | 《BEAUTY+》                                       | 封面                                          |        |
+| 12月刊                                            | 《Ceci Korea》                                    | 封面                                          |        |
+| 2018年                                           | 8月刊                                             | 《BAZAAR Vietnam》                            | 封面     |
+| 寫真                                              | 《GRAZIA》                                        | 與[H\&M合作](../Page/H&M.md "wikilink")        |        |
+| Digital Cover                                   | 《Paper Magazine》                                | 封面                                          |        |
+| 12月刊                                            | 《[ELLE](../Page/ELLE.md "wikilink") HongKong》   | 封面                                          |        |
+| 2019年                                           | 3月刊                                             | 《[ELLE](../Page/ELLE.md "wikilink") Taiwan》 | 封面     |
+| Spring 2019                                     | 《GLASS》                                         | 封面                                          |        |
+| Music Issue                                     | 《Galore》                                        | 封面                                          |        |
 
 ## 獎項
 

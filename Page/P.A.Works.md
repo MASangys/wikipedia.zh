@@ -6,7 +6,7 @@ Animation」的縮寫）是一家成立于2000年11月10日的日本[動畫工�
 
 2000年11月10日，BEE
 TRAIN的公司代表兼製作人[堀川憲司於](../Page/堀川憲司.md "wikilink")[富山縣](../Page/富山縣.md "wikilink")成立**越中動畫本鋪株式會社**。2002年1月1日，公司正式更名為P.A.Works，並緊接把工作室搬至現址。成立的緣由在於堀川需要按家族的約定回歸當地，並有見本土未有任何成熟的動畫工作室，於是決定創業。設立初期曾一度因資金有限而要借用已荒廢的醫院作改建，及借用有線電視的網絡去處理各項行政工作。創立以來，公司長期作為[BEE
-TRAIN](https://zh.wikipedia.org/wiki/BEE_TRAIN "wikilink")、[Production
+TRAIN](../Page/BEE_TRAIN.md "wikilink")、[Production
 I.G和](../Page/Production_I.G.md "wikilink")[BONES作畫協力的合作夥伴之一](../Page/BONES_\(動畫製作公司\).md "wikilink")。
 
 隨著公司業務發展，公司除了有力於首都東京成立分社，亦致力改善員工在健康和宿舍方面的福利。目前富山本社主要負責作畫和3D-CG製作，而東京事務所P-10則負責演出和發行製作的事宜。2008年，公司首次投入獨立製作《[真實之淚
@@ -132,7 +132,7 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/白箱" title="wikilink">白箱</a></p></td>
+<td><p><a href="../Page/白箱.md" title="wikilink">白箱</a></p></td>
 <td><p>SHIROBAKO</p></td>
 <td><p>10月－2015年3月</p></td>
 <td><p>水島努</p></td>
@@ -172,7 +172,7 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 <td><p><a href="https://zh.wikipedia.org/wiki/樱花任务" title="wikilink">樱花任务</a></p></td>
 <td></td>
 <td><p>4月－9月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/增井壯一" title="wikilink">增井壯一</a></p></td>
+<td><p><a href="../Page/增井壯一.md" title="wikilink">增井壯一</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -190,12 +190,12 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 <td><p><a href="https://zh.wikipedia.org/wiki/賽馬娘Pretty_Derby" title="wikilink">賽馬娘Pretty Derby</a></p></td>
 <td></td>
 <td><p>4月－6月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/及川啟" title="wikilink">及川啟</a></p></td>
+<td><p><a href="../Page/及川啟.md" title="wikilink">及川啟</a></p></td>
 <td><p>遊戲</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/天狼_Sirius_the_Jaeger" title="wikilink">天狼 Sirius the Jaeger</a></p></td>
+<td><p><a href="../Page/天狼_Sirius_the_Jaeger.md" title="wikilink">天狼 Sirius the Jaeger</a></p></td>
 <td></td>
 <td><p>7月－9月</p></td>
 <td><p><a href="../Page/安藤真裕.md" title="wikilink">安藤真裕</a></p></td>
@@ -214,7 +214,7 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Fairy_Gone" title="wikilink">Fairy Gone</a></p></td>
+<td><p><a href="../Page/Fairy_Gone.md" title="wikilink">Fairy Gone</a></p></td>
 <td></td>
 <td><p>4月－</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鈴木健一" title="wikilink">鈴木健一</a></p></td>
@@ -263,7 +263,7 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/於離別之朝束起約定之花" title="wikilink">於離別之朝束起約定之花</a></p></td>
+<td><p><a href="../Page/於離別之朝束起約定之花.md" title="wikilink">於離別之朝束起約定之花</a></p></td>
 <td></td>
 <td><p>2018年2月24日</p></td>
 <td><p>岡田麿里</p></td>
@@ -408,7 +408,7 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 
   - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
   - [Production I.G](../Page/Production_I.G.md "wikilink")
-  - [BEE TRAIN](https://zh.wikipedia.org/wiki/BEE_TRAIN "wikilink")
+  - [BEE TRAIN](../Page/BEE_TRAIN.md "wikilink")
   - [LEVEL-5](../Page/LEVEL-5.md "wikilink")
   - [KADOKAWA](https://zh.wikipedia.org/wiki/角川多玩國 "wikilink")
   - [ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")
@@ -432,7 +432,7 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 
 1.  [Season 2019: A New Journey | League of
     Legends](https://www.youtube.com/watch?v=1e2xApDeRok) [Riot
-    Games](https://zh.wikipedia.org/wiki/Riot_Games "wikilink")
+    Games](../Page/Riot_Games.md "wikilink")
 2.  [富山観光アニメプロジェクト「泣かせる空に会いたい
     立山の恋人編」](http://www.bbt.co.jp/cooltoyama/animation/index.html#01)
     2012年5月24日閲覧。

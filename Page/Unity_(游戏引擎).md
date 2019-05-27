@@ -2,8 +2,8 @@
 [遊戲引擎](../Page/游戏引擎.md "wikilink")，可用於開發
 [Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[MacOS](../Page/MacOS.md "wikilink")
 及 [Linux](../Page/Linux.md "wikilink")
-平台的單機遊戲，[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")、[XBox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[Wii](../Page/Wii.md "wikilink")、[3DS](../Page/任天堂3DS.md "wikilink")
-和 [任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")
+平台的單機遊戲，[PlayStation](../Page/PlayStation.md "wikilink")、[XBox](../Page/Xbox.md "wikilink")、[Wii](../Page/Wii.md "wikilink")、[3DS](../Page/任天堂3DS.md "wikilink")
+和 [任天堂Switch](../Page/任天堂Switch.md "wikilink")
 等[游戏主机平台的](../Page/電子遊戲機.md "wikilink")[视频游戏](../Page/电子游戏.md "wikilink")，或是
 [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")
 等移动设备的遊戲。**Unity** 所支持的游戏平台还延伸到了基于 [WebGL](../Page/WebGL.md "wikilink")
@@ -197,7 +197,7 @@ Unity分为免費的个人版 (Personal)，付費的进阶版 (Plus)、专业版
   - 2014年11月26日，Unity 4.6發布，正式導入新的UI系統「UGUI」。\[7\]
   - 2015年3月3日，Unity 5.0於[GDC
     2015發布](../Page/游戏开发者大会.md "wikilink")，開始支援[WebGL](../Page/WebGL.md "wikilink")。\[8\]
-  - 2015年4月13日，Unity宣布支持任天堂的掌机[新任天堂3DS作为引擎运行平台](https://zh.wikipedia.org/wiki/新任天堂3DS "wikilink")。\[9\]
+  - 2015年4月13日，Unity宣布支持任天堂的掌机[新任天堂3DS作为引擎运行平台](../Page/新任天堂3DS.md "wikilink")。\[9\]
 
 ## 游戏
 

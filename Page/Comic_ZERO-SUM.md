@@ -15,7 +15,7 @@ Market展出](../Page/Comic_Market.md "wikilink")[小冊子](https://zh.wikipedi
 ## 連載中的作品
 
   - [Are you
-    Alice?](https://zh.wikipedia.org/wiki/Are_you_Alice? "wikilink")（[片桐いくみ](https://zh.wikipedia.org/wiki/片桐いくみ "wikilink")、原作：[二宮愛](https://zh.wikipedia.org/wiki/二宮愛 "wikilink")）
+    Alice?](../Page/Are_you_Alice?.md "wikilink")（[片桐いくみ](https://zh.wikipedia.org/wiki/片桐いくみ "wikilink")、原作：[二宮愛](https://zh.wikipedia.org/wiki/二宮愛 "wikilink")）
   - [あまつき](https://zh.wikipedia.org/wiki/あまつき "wikilink")（[高山しのぶ](https://zh.wikipedia.org/wiki/高山しのぶ "wikilink")）
   - [♯000000-ultra
     black-](https://zh.wikipedia.org/wiki/♯000000-ultra_black- "wikilink")（[如月芳規](https://zh.wikipedia.org/wiki/如月芳規 "wikilink")）
@@ -47,7 +47,7 @@ Market展出](../Page/Comic_Market.md "wikilink")[小冊子](https://zh.wikipedi
   - [魔法使いの猫](https://zh.wikipedia.org/wiki/魔法使いの猫 "wikilink")（[喜久田ゆい](https://zh.wikipedia.org/wiki/喜久田ゆい "wikilink")）
   - [LOVELESS](../Page/LOVELESS_\(漫畫\).md "wikilink")（[高河弓](../Page/高河弓.md "wikilink")）
   - [浪漫冒險（Landreaall）](https://zh.wikipedia.org/wiki/Landreaall "wikilink")（[おがきちか](https://zh.wikipedia.org/wiki/おがきちか "wikilink")）
-  - [黑色嘉年華](../Page/黑色嘉年華.md "wikilink")（[御巫桃也](https://zh.wikipedia.org/wiki/御巫桃也 "wikilink")）
+  - [黑色嘉年華](../Page/黑色嘉年華.md "wikilink")（[御巫桃也](../Page/御巫桃也.md "wikilink")）
 
 ## 完結的作品
 

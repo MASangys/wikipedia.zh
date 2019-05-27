@@ -15,7 +15,7 @@ TEBY，現任CEO為Cho Sun Oh. \[3\] \[4\] \[5\] \[6\]
   - Cho Moon Geun \[9\]
   - Loptimist \[10\]
   - Teby
-  - [4ten](https://zh.wikipedia.org/wiki/4ten "wikilink")
+  - [4ten](../Page/4ten.md "wikilink")
 
 ## 已離開的藝人
 

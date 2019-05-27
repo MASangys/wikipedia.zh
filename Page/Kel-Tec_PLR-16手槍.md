@@ -9,13 +9,13 @@ PLR-16手槍。\]\]
 
 PLR-16手槍結合了[AR-15的多重鎖耳](../Page/AR-15自動步槍.md "wikilink")[滾轉式槍機設計和](../Page/滾轉式槍機.md "wikilink")閉鎖系統以及類似於[M1加蘭德](../Page/M1加兰德步枪.md "wikilink")、[M14和](../Page/M14自动步枪.md "wikilink")[AK-47的](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[長行程活塞氣動式操作系統](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")。\[2\]相對於AR-15系列步槍的[直接導氣系統](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#直噴式气动操作 "wikilink")，長行程活塞氣動式操作系統需要的維護次數較少。\[3\]
 
-PLR-16手槍的槍身，包括彈匣插座、及護木都是採用[复合材料所製造](../Page/复合材料.md "wikilink")，因此令PLR-16既耐用，又可以儘量地減輕其重量。而[機匣的頂部亦整合了](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，因此可以安裝各種型號的[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。\[4\]
+PLR-16手槍的槍身，包括彈匣插座、及護木都是採用[复合材料所製造](../Page/复合材料.md "wikilink")，因此令PLR-16既耐用，又可以儘量地減輕其重量。而[機匣的頂部亦整合了](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，因此可以安裝各種型號的[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。\[4\]
 
 ## 參見
 
   - [Kel-Tec SU-16半自动步枪](../Page/Kel-Tec_SU-16半自动步枪.md "wikilink")
   - [5.56×45mm NATO](../Page/5.56×45mm_NATO.md "wikilink")
-  - [Carbon 15](https://zh.wikipedia.org/wiki/碳15手槍 "wikilink")
+  - [Carbon 15](../Page/碳15手槍.md "wikilink")
   - [奧林匹克OA-93](../Page/奧林匹克OA-93手槍.md "wikilink")
 
 ## 資料來源

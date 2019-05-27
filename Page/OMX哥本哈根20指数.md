@@ -50,7 +50,7 @@
 <td><p>2.20</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/丹斯克银行" title="wikilink">丹斯克银行</a></p></td>
+<td><p><a href="../Page/丹斯克银行.md" title="wikilink">丹斯克银行</a></p></td>
 <td><p>银行</p></td>
 <td></td>
 <td><p>10.32</p></td>

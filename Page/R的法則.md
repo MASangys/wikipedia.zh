@@ -298,7 +298,7 @@
 </tr>
 <tr class="odd">
 <td><p>000031</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/田中樹" title="wikilink">田中樹</a></p></td>
+<td><p><a href="../Page/田中樹.md" title="wikilink">田中樹</a></p></td>
 <td><p>たなか じゅり</p></td>
 <td><p>ジュリ</p></td>
 <td><p>1995年6月15日</p></td>
@@ -386,7 +386,7 @@
 </tr>
 <tr class="even">
 <td><p>000042</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/平祐奈" title="wikilink">平祐奈</a></p></td>
+<td><p><a href="../Page/平祐奈.md" title="wikilink">平祐奈</a></p></td>
 <td><p>たいら ゆうな</p></td>
 <td><p>たいちゃん</p></td>
 <td><p>1998年11月12日</p></td>

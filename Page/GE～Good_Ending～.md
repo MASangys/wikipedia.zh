@@ -1,5 +1,5 @@
 《**GE～Good
-Ending～**》是由[流石景所創作](https://zh.wikipedia.org/wiki/流石景 "wikilink")，關於[校園戀愛的日本漫畫作品](https://zh.wikipedia.org/wiki/校園戀愛 "wikilink")。《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）2009年19號刊載，於同年38號正式開始連載。台版譯名為《**～ＧＥ～戀愛成就**》，由[東立出版社在](../Page/東立出版社.md "wikilink")《[新少年快報](../Page/新少年快報.md "wikilink")》2011年第７期開始連載。
+Ending～**》是由[流石景所創作](../Page/流石景.md "wikilink")，關於[校園戀愛的日本漫畫作品](https://zh.wikipedia.org/wiki/校園戀愛 "wikilink")。《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）2009年19號刊載，於同年38號正式開始連載。台版譯名為《**～ＧＥ～戀愛成就**》，由[東立出版社在](../Page/東立出版社.md "wikilink")《[新少年快報](../Page/新少年快報.md "wikilink")》2011年第７期開始連載。
 
 ## 故事概要
 

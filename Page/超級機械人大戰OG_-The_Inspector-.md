@@ -25,7 +25,7 @@ L5战役完结半年后。世界上各种势力及DC残党都在暗中活跃，�
   - 色彩設計 - 斉藤麻記
   - 音響監督 - [亀山俊樹](https://zh.wikipedia.org/wiki/亀山俊樹 "wikilink")
   - 动画制作人 - 曽根孝治
-  - 制作人 - [創通](https://zh.wikipedia.org/wiki/創通 "wikilink")
+  - 制作人 - [創通](../Page/創通.md "wikilink")
   - 动画制作 - [旭プロダクション](https://zh.wikipedia.org/wiki/旭プロダクション "wikilink")
   - 監修 -
     [寺田貴信](../Page/寺田貴信.md "wikilink")、[森住惣一郎](https://zh.wikipedia.org/wiki/森住惣一郎 "wikilink")
@@ -111,7 +111,7 @@ L5战役完结半年后。世界上各种势力及DC残党都在暗中活跃，�
 <td><p>在DC的名义下</p></td>
 <td><p>奥野浩行</p></td>
 <td><p>石田さよ</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山本佐和子" title="wikilink">山本佐和子</a></p></td>
+<td><p><a href="../Page/山本佐和子.md" title="wikilink">山本佐和子</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -143,7 +143,7 @@ L5战役完结半年后。世界上各种势力及DC残党都在暗中活跃，�
 <td></td>
 <td><p>凶鸟的眷属</p></td>
 <td><p>竹田裕一郎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小原正和" title="wikilink">織原真盃</a></p></td>
+<td><p><a href="../Page/小原正和.md" title="wikilink">織原真盃</a></p></td>
 <td><p>大張正己</p></td>
 <td><p>山根理宏</p></td>
 <td><p>大張正己</p></td>
@@ -260,7 +260,7 @@ L5战役完结半年后。世界上各种势力及DC残党都在暗中活跃，�
 <td><p>STAGE 18</p></td>
 <td></td>
 <td><p>诱惑的鬼火</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山崎理" title="wikilink">ヤマサキオサム</a></p></td>
+<td><p><a href="../Page/山崎理.md" title="wikilink">ヤマサキオサム</a></p></td>
 <td><p>下司泰弘</p></td>
 <td><p>荒尾英幸</p></td>
 <td></td>

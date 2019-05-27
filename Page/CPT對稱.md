@@ -16,7 +16,7 @@ CPT定理最早含蓄地出現於1951年，在[朱利安·施溫格有關](https
 2.  真空是洛侖兹不變的；
 3.  能量從下方受到束縛。
 
-當上述條件成立時，[量子場論可被延伸至](https://zh.wikipedia.org/wiki/量子場論 "wikilink")[歐幾里得空間](https://zh.wikipedia.org/wiki/歐幾里得空間 "wikilink")，使用[哈密頓算符把所有算符平移至虛數平面](https://zh.wikipedia.org/wiki/哈密頓算符 "wikilink")（[威克轉動](../Page/威克轉動.md "wikilink")），即可得歐幾里得理論。此時哈密頓算符的[對易關係](https://zh.wikipedia.org/wiki/對易關係 "wikilink")，與[洛侖茲生成元](https://zh.wikipedia.org/wiki/龐加萊群 "wikilink")，會保證[洛侖茲不變性導致](https://zh.wikipedia.org/wiki/洛侖茲協變性 "wikilink")[旋轉不變性](../Page/旋轉不變性.md "wikilink")，因此在歐幾里得空間任何態都能被旋轉180°。
+當上述條件成立時，[量子場論可被延伸至](https://zh.wikipedia.org/wiki/量子場論 "wikilink")[歐幾里得空間](https://zh.wikipedia.org/wiki/歐幾里得空間 "wikilink")，使用[哈密頓算符把所有算符平移至虛數平面](https://zh.wikipedia.org/wiki/哈密頓算符 "wikilink")（[威克轉動](../Page/威克轉動.md "wikilink")），即可得歐幾里得理論。此時哈密頓算符的[對易關係](https://zh.wikipedia.org/wiki/對易關係 "wikilink")，與[洛侖茲生成元](../Page/龐加萊群.md "wikilink")，會保證[洛侖茲不變性導致](https://zh.wikipedia.org/wiki/洛侖茲協變性 "wikilink")[旋轉不變性](../Page/旋轉不變性.md "wikilink")，因此在歐幾里得空間任何態都能被旋轉180°。
 
 由於連續兩次CPT反射相當於360°旋轉，所以[費米子在兩次CPT反射後會變號](https://zh.wikipedia.org/wiki/費米子 "wikilink")，而[玻色子則不會](../Page/玻色子.md "wikilink")。這個特性可用於證明[自旋統計定理](https://zh.wikipedia.org/wiki/自旋統計定理 "wikilink")。
 

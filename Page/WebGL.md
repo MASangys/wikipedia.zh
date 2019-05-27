@@ -14,7 +14,7 @@ WebGL 1.0基于[OpenGL ES
 
 ## 歷史
 
-WebGL起源於Mozilla員工[弗拉基米爾·弗基西維奇的一項稱為Canvas](https://zh.wikipedia.org/wiki/弗拉基米爾·弗基西維奇 "wikilink")
+WebGL起源於Mozilla員工[弗拉基米爾·弗基西維奇的一項稱為Canvas](../Page/弗拉基米爾·弗基西維奇.md "wikilink")
 3D實驗計畫。2006年，弗基西維奇首次展示了Canvas 3D的原型。2007年底在Firefox\[7\]和Opera\[8\]被實作。
 
 在2009年初，[非營利技術](https://zh.wikipedia.org/wiki/非營利 "wikilink")[聯盟Khronos](https://zh.wikipedia.org/wiki/聯盟 "wikilink")
@@ -74,8 +74,8 @@ WebGL 2規範的發展始於2013年，並於2017年1月完成\[14\]。該規範�
 
   - [HTML5](../Page/HTML5.md "wikilink")
   - [OpenGL](../Page/OpenGL.md "wikilink")
-  - [WebGPU](https://zh.wikipedia.org/wiki/WebGPU "wikilink")
-  - [WebVR](https://zh.wikipedia.org/wiki/WebVR "wikilink"){{-}}
+  - [WebGPU](../Page/WebGPU.md "wikilink")
+  - [WebVR](../Page/WebVR.md "wikilink"){{-}}
 
 [Category:網站開發](https://zh.wikipedia.org/wiki/Category:網站開發 "wikilink")
 [Category:網頁技術](https://zh.wikipedia.org/wiki/Category:網頁技術 "wikilink")

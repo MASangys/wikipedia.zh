@@ -1,7 +1,7 @@
 **MIUI**（米柚）是由[中国手机厂商](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[小米科技開發的基于](https://zh.wikipedia.org/wiki/小米科技 "wikilink")[Android的二级市场](../Page/Android.md "wikilink")[固件](https://zh.wikipedia.org/wiki/固件 "wikilink")，目前最新正式发布版本为MIUI10。MIUI为小米科技研发的[智能手机产品的预装操作系统固件](../Page/智能手机.md "wikilink")，也有小米官方、部分爱好者基于MIUI
 Patchrom将该固件移植至其他手机品牌的智能手机上。
 
-2017年7月26日，小米MIUI产品经理[洪锋在MIUI](https://zh.wikipedia.org/wiki/洪锋 "wikilink")
+2017年7月26日，小米MIUI产品经理[洪锋在MIUI](../Page/洪锋.md "wikilink")
 9发布会上宣布：MIUI全球用户激活数到达了2.8亿，语言覆盖55种，支持142个国家和地区。
 
 2018年5月31日，MIUI 10发布。6月19日，MIUI 10正式公測。\[1\]
@@ -21,7 +21,7 @@ Patchrom将该固件移植至其他手机品牌的智能手机上。
   - [小米手机2S](../Page/小米手机2S.md "wikilink")
   - [小米手机2A](../Page/小米手机2A.md "wikilink")
   - [小米手机3](https://zh.wikipedia.org/wiki/小米手机3 "wikilink")
-  - [小米手机4](https://zh.wikipedia.org/wiki/小米手机4 "wikilink")
+  - [小米手机4](../Page/小米手机4.md "wikilink")
   - [小米手機4i](../Page/小米手機4i.md "wikilink")
   - [小米手机4c](https://zh.wikipedia.org/wiki/小米手机4c "wikilink")
   - [小米手机4S](https://zh.wikipedia.org/wiki/小米手机4S "wikilink")
@@ -33,24 +33,24 @@ Patchrom将该固件移植至其他手机品牌的智能手机上。
   - [小米手机6](https://zh.wikipedia.org/wiki/小米手机6 "wikilink")
   - [小米手机6X](https://zh.wikipedia.org/wiki/小米手机6X "wikilink")
   - [小米手机8](https://zh.wikipedia.org/wiki/小米手机8 "wikilink")
-  - [小米8 SE](https://zh.wikipedia.org/wiki/小米8_SE "wikilink")
+  - [小米8 SE](../Page/小米8_SE.md "wikilink")
   - [小米8 Lite](https://zh.wikipedia.org/wiki/小米8_Lite "wikilink")
-  - [小米9](https://zh.wikipedia.org/wiki/小米9 "wikilink")
-  - [小米9 SE](https://zh.wikipedia.org/wiki/小米9_SE "wikilink")
+  - [小米9](../Page/小米9.md "wikilink")
+  - [小米9 SE](../Page/小米9_SE.md "wikilink")
   - [小米9透明尊享版](https://zh.wikipedia.org/wiki/小米9透明尊享版 "wikilink")
   - [小米9王源收藏版](https://zh.wikipedia.org/wiki/小米9王源收藏版 "wikilink")
   - [小米9 SE Lind
     Friends特別版](https://zh.wikipedia.org/wiki/小米9_SE_Lind_Friends特別版 "wikilink")
-  - [小米Max](https://zh.wikipedia.org/wiki/小米Max "wikilink")
-  - [小米Max 2](https://zh.wikipedia.org/wiki/小米Max_2 "wikilink")
+  - [小米Max](../Page/小米Max.md "wikilink")
+  - [小米Max 2](../Page/小米Max_2.md "wikilink")
   - [小米Max 3](https://zh.wikipedia.org/wiki/小米Max_3 "wikilink")
   - [小米Note](../Page/小米Note.md "wikilink")
-  - [小米Note 2](https://zh.wikipedia.org/wiki/小米Note_2 "wikilink")
-  - [小米Note 3](https://zh.wikipedia.org/wiki/小米Note_3 "wikilink")
-  - [小米MIX](https://zh.wikipedia.org/wiki/小米MIX "wikilink")
-  - [小米MIX 2](https://zh.wikipedia.org/wiki/小米MIX_2 "wikilink")
-  - [小米MIX 2S](https://zh.wikipedia.org/wiki/小米MIX_2S "wikilink")
-  - [小米MIX 3](https://zh.wikipedia.org/wiki/小米MIX_3 "wikilink")
+  - [小米Note 2](../Page/小米Note_2.md "wikilink")
+  - [小米Note 3](../Page/小米Note_3.md "wikilink")
+  - [小米MIX](../Page/小米MIX.md "wikilink")
+  - [小米MIX 2](../Page/小米MIX_2.md "wikilink")
+  - [小米MIX 2S](../Page/小米MIX_2S.md "wikilink")
+  - [小米MIX 3](../Page/小米MIX_3.md "wikilink")
   - [小米Pocophone
     F1](https://zh.wikipedia.org/wiki/小米Pocophone_F1 "wikilink")
   - [小米Play](https://zh.wikipedia.org/wiki/小米Play "wikilink")
@@ -69,28 +69,27 @@ Patchrom将该固件移植至其他手机品牌的智能手机上。
   - [紅米手機4](https://zh.wikipedia.org/wiki/紅米手機4 "wikilink")
   - [紅米手機4A](https://zh.wikipedia.org/wiki/紅米手機4A "wikilink")
   - [红米手机4X](https://zh.wikipedia.org/wiki/红米手机4X "wikilink")
-  - [紅米手機5](https://zh.wikipedia.org/wiki/紅米手機5 "wikilink")
-  - [紅米手機5 Plus](https://zh.wikipedia.org/wiki/紅米手機5_Plus "wikilink")
-  - [紅米手機5A](https://zh.wikipedia.org/wiki/紅米手機5A "wikilink")
+  - [紅米手機5](../Page/紅米手機5.md "wikilink")
+  - [紅米手機5 Plus](../Page/紅米手機5_Plus.md "wikilink")
+  - [紅米手機5A](../Page/紅米手機5A.md "wikilink")
   - [紅米手機6](https://zh.wikipedia.org/wiki/紅米手機6 "wikilink")
-  - [紅米手機6A](https://zh.wikipedia.org/wiki/紅米手機6A "wikilink")
+  - [紅米手機6A](../Page/紅米手機6A.md "wikilink")
   - [紅米手機6Pro](https://zh.wikipedia.org/wiki/紅米手機6Pro "wikilink")
   - [紅米Y1](https://zh.wikipedia.org/wiki/紅米Y1/Y1_Lite "wikilink")
   - [紅米Y1 Lite](https://zh.wikipedia.org/wiki/紅米Y1/Y1_Lite "wikilink")
-  - [紅米Note](https://zh.wikipedia.org/wiki/紅米Note "wikilink")
+  - [紅米Note](../Page/紅米Note.md "wikilink")
   - [紅米Note 2](../Page/紅米Note_2.md "wikilink")
   - [紅米Note 3](../Page/紅米Note_3.md "wikilink")
-  - [紅米Note 4](https://zh.wikipedia.org/wiki/紅米Note_4 "wikilink")
-  - [紅米Note 4X](https://zh.wikipedia.org/wiki/紅米Note_4 "wikilink")
+  - [紅米Note 4](../Page/紅米Note_4.md "wikilink")
+  - [紅米Note 4X](../Page/紅米Note_4.md "wikilink")
   - [紅米Note 5](https://zh.wikipedia.org/wiki/紅米5/5_Plus "wikilink")
   - [紅米Note 5
     Pro](https://zh.wikipedia.org/wiki/紅米Note_5_Pro "wikilink")
-  - [紅米Note 5A](https://zh.wikipedia.org/wiki/紅米Note_5A "wikilink")
-  - [紅米Note 6
-    Pro](https://zh.wikipedia.org/wiki/紅米Note_6_Pro "wikilink")
+  - [紅米Note 5A](../Page/紅米Note_5A.md "wikilink")
+  - [紅米Note 6 Pro](../Page/紅米Note_6_Pro.md "wikilink")
   - [紅米Pro](../Page/紅米Pro.md "wikilink")
-  - [紅米自拍手機S2](https://zh.wikipedia.org/wiki/紅米自拍手機S2 "wikilink")
-  - [紅米Note 7](https://zh.wikipedia.org/wiki/紅米Note_7 "wikilink")
+  - [紅米自拍手機S2](../Page/紅米自拍手機S2.md "wikilink")
+  - [紅米Note 7](../Page/紅米Note_7.md "wikilink")
   - [紅米7](https://zh.wikipedia.org/wiki/紅米7 "wikilink")
 
 <!-- end list -->
@@ -103,10 +102,10 @@ Patchrom将该固件移植至其他手机品牌的智能手机上。
 
 ### 平板
 
-  - [小米平板](https://zh.wikipedia.org/wiki/小米平板 "wikilink")
+  - [小米平板](../Page/小米平板.md "wikilink")
   - [小米平板2](../Page/小米平板2.md "wikilink")
-  - [小米平板3](https://zh.wikipedia.org/wiki/小米平板3 "wikilink")
-  - [小米平板4](https://zh.wikipedia.org/wiki/小米平板4 "wikilink")
+  - [小米平板3](../Page/小米平板3.md "wikilink")
+  - [小米平板4](../Page/小米平板4.md "wikilink")
   - [小米平板4plus](https://zh.wikipedia.org/wiki/小米平板4plus "wikilink")
 
 ### 其他

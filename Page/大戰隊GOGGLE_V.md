@@ -687,7 +687,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>3</p></td>
 <td><p>デストピアを撃て</p></td>
 <td><p>迎擊死亡托邦</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/タコ" title="wikilink">タコモズー</a>（声：<a href="https://zh.wikipedia.org/wiki/渡部猛" title="wikilink">渡部猛</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/タコ" title="wikilink">タコモズー</a>（声：<a href="../Page/渡部猛.md" title="wikilink">渡部猛</a>）</p></td>
 <td><p>ゴリラコング<br />
 <a href="https://zh.wikipedia.org/wiki/マンモス" title="wikilink">マンモスコング</a></p></td>
 <td></td>

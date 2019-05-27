@@ -27,7 +27,7 @@ Boy Advance的作品](../Page/Game_Boy_Advance.md "wikilink")。
 
 ★標誌為系列作初參戰作品
 
-  - ★[無限地帶23](https://zh.wikipedia.org/wiki/無限地帶23 "wikilink")（）
+  - ★[無限地帶23](../Page/無限地帶23.md "wikilink")（）
   - ★[The Big O](../Page/The_Big_O.md "wikilink")（）
   - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")（）
   - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")（）

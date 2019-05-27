@@ -11,7 +11,7 @@ Towns](../Page/FM_Towns.md "wikilink")，并兼容此机器的游戏。
 
 此外还有**FM Towns Car Marty**，专为装在汽车上设计的版本。它发行了两个版本，MVP-1
 (1994年4月发布)和MVP-10
-(1994年11月发布).两者区别只在于其驱动机制，有说法指由于MVP-1很容易损坏所以才有MVP-10。其内置一张额外的IC卡，使其支持[VICS](https://zh.wikipedia.org/wiki/道路交通信息通信系统 "wikilink")。
+(1994年11月发布).两者区别只在于其驱动机制，有说法指由于MVP-1很容易损坏所以才有MVP-10。其内置一张额外的IC卡，使其支持[VICS](../Page/道路交通信息通信系统.md "wikilink")。
 
 尽管拥有优秀的机能，FM Towns和FM Towns
 Marty在日本的销量很差。它们卖得很贵，并且由于其特殊定制的结构，它们的扩展性不如使用或者[Microsoft

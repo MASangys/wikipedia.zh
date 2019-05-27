@@ -25,7 +25,7 @@ Memorial～』發行7年半以來首次銷量超過50萬張的專輯。此專輯
 
 1.  **[Good-bye My
     Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")**
-      - [作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")：[織田哲郎](../Page/織田哲郎.md "wikilink")　[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：[明石昌夫](https://zh.wikipedia.org/wiki/明石昌夫 "wikilink")
+      - [作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")：[織田哲郎](../Page/織田哲郎.md "wikilink")　[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：[明石昌夫](../Page/明石昌夫.md "wikilink")
     <!-- end list -->
       -
         第1張單曲

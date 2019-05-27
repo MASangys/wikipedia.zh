@@ -1,5 +1,5 @@
 **Mnet Media**全稱**CJ Mnet
-媒體公司**，是一間[韓國娛樂公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")，隸屬於[CJ集團](https://zh.wikipedia.org/wiki/CJ集團 "wikilink")，總部設在[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")，現併入
+媒體公司**，是一間[韓國娛樂公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")，隸屬於[CJ集團](https://zh.wikipedia.org/wiki/CJ集團 "wikilink")，總部設在[首爾](../Page/首爾.md "wikilink")，現併入
 CJ E\&M Music and Live (CJ E\&M
 Music·Live)，娛樂公司經營範圍廣泛，包括[電視頻道與](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")、音樂提供商及舉辦頒獎典禮等。目前旗下相關公司有
 Good Entertainment、1877 Entertainment、Music Works、Stone Music、MMO
@@ -44,13 +44,13 @@ Mnet Media 的一員。
     EXO](https://zh.wikipedia.org/wiki/熾熱的瞬間_XOXO_EXO "wikilink")（[EXO](../Page/EXO.md "wikilink")）
   - [EXO
     90:2014](https://zh.wikipedia.org/wiki/EXO_90:2014 "wikilink")（[EXO](../Page/EXO.md "wikilink")）
-  - [NO.MERCY](https://zh.wikipedia.org/wiki/NO.MERCY "wikilink") -
+  - [NO.MERCY](../Page/NO.MERCY.md "wikilink") -
     [STARTSHIP娛樂製作](../Page/STARSHIP娛樂.md "wikilink")
   - [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink") 1-5季（너의
     목소리가 보여）
   - [Show Me The
     Money](https://zh.wikipedia.org/wiki/SHOW_ME_THE_MONEY "wikilink")
-  - [MIX\&MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink") -
+  - [MIX\&MATCH](../Page/MIX_&_MATCH.md "wikilink") -
     [YG娛樂製作](../Page/YG娛樂.md "wikilink")
   - [Unpretty Rapstar](../Page/Unpretty_Rapstar.md "wikilink")
   - [SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")
@@ -69,9 +69,9 @@ Mnet Media 的一員。
     Carry](https://zh.wikipedia.org/wiki/GOT7的Hard_Carry "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）
   - [Wanna One
     GO](https://zh.wikipedia.org/wiki/Wanna_One_GO "wikilink")
-  - [PRODUCE 48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")
-  - [BREAKERS](https://zh.wikipedia.org/wiki/BREAKERS "wikilink")
-  - [The Call](https://zh.wikipedia.org/wiki/The_Call "wikilink")
+  - [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")
+  - [BREAKERS](../Page/BREAKERS.md "wikilink")
+  - [The Call](../Page/The_Call.md "wikilink")
   - [GOT7的Hard Carry
     2](https://zh.wikipedia.org/wiki/GOT7的Hard_Carry_2 "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）
   - [Hit The Stage](../Page/Hit_The_Stage.md "wikilink")
@@ -107,7 +107,7 @@ Mnet Media 的一員。
 ### 相關公司
 
   - [三星電子](../Page/三星電子.md "wikilink")
-  - [CJ E\&M](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink")
+  - [CJ E\&M](../Page/CJ_E&M.md "wikilink")
   - CJ CGV
   - [DSP Media](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")
   - [FNC

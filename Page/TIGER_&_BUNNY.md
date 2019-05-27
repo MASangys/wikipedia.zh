@@ -10,7 +10,7 @@ Rising得到第2名，劇場版The Beginning得到第4名。
 JAPAN Award
 2015「最想向海外介紹的日本流行文化」評選中獲得動畫部門第2名\[3\]\[4\]。亦在[2017年](../Page/2017年.md "wikilink")[NHK
 BS
-Premium主办的](../Page/NHK_BS_Premium.md "wikilink")[日本动画100评选中荣登榜首](https://zh.wikipedia.org/wiki/日本动画100 "wikilink")。前三话于该年5月3日深夜在该频道重播。由于[NHK为](https://zh.wikipedia.org/wiki/NHK "wikilink")[公共广播](https://zh.wikipedia.org/wiki/公共广播 "wikilink")，严禁置入性行销，三话中所有赞助商的标志全部隐蔽\[5\]。
+Premium主办的](../Page/NHK_BS_Premium.md "wikilink")[日本动画100评选中荣登榜首](../Page/日本动画100.md "wikilink")。前三话于该年5月3日深夜在该频道重播。由于[NHK为](https://zh.wikipedia.org/wiki/NHK "wikilink")[公共广播](https://zh.wikipedia.org/wiki/公共广播 "wikilink")，严禁置入性行销，三话中所有赞助商的标志全部隐蔽\[5\]。
 
 ## 劇情
 
@@ -343,7 +343,7 @@ TV」電視公司則報導這些英雄們戰鬥的畫面，並以綜藝節目的
 :;「」（第1話－第13話）
 
 :: 作詞、作曲－田淵智也／編曲、歌－[UNISON SQUARE
-GARDEN](https://zh.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")
+GARDEN](../Page/UNISON_SQUARE_GARDEN.md "wikilink")
 
 :: 此曲亦作第25話片尾曲使用。
 
@@ -688,7 +688,7 @@ GARDEN](https://zh.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")
 <td><p>不入虎穴焉得虎子</p></td>
 <td><p>西田征史</p></td>
 <td><p>佐々木忍<br />
-<a href="https://zh.wikipedia.org/wiki/森邦宏" title="wikilink">森邦宏</a><br />
+<a href="../Page/森邦宏.md" title="wikilink">森邦宏</a><br />
 佐藤敬一</p></td>
 <td><p>佐佐木忍</p></td>
 <td><p>板垣徳宏<br />

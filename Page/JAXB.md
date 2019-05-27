@@ -69,7 +69,7 @@ NG](https://zh.wikipedia.org/wiki/RELAX_NG "wikilink")，[DTD以及](https://zh.
     –
     [Apache软件基金会的JAXB的](../Page/Apache软件基金会.md "wikilink")[开源实现](https://zh.wikipedia.org/wiki/开源 "wikilink")
   - [EclipseLink MOXy](http://www.eclipse.org/eclipselink/) –
-    [Eclipse基金会JAXB和对象XML映射服务的](https://zh.wikipedia.org/wiki/Eclipse基金会 "wikilink")[开源实现](https://zh.wikipedia.org/wiki/开源 "wikilink")
+    [Eclipse基金会JAXB和对象XML映射服务的](../Page/Eclipse基金会.md "wikilink")[开源实现](https://zh.wikipedia.org/wiki/开源 "wikilink")
   - [Java
     EE 5教程中的JAXB章节](http://java.sun.com/javaee/5/docs/tutorial/doc/?wp405761&JAXB.html#wp100322)
   - [用JAXB2从对象模型生成XML文档](http://www.devx.com/Java/Article/34069)

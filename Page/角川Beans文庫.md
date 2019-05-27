@@ -42,8 +42,7 @@ Ace](https://zh.wikipedia.org/wiki/Beans_Ace "wikilink")》（休刊）、《[�
 
 ### 天使出版
 
-  - [文豪Stray
-    Dogs](https://zh.wikipedia.org/wiki/文豪Stray_Dogs "wikilink")（朝霧カフカ/春河35）
+  - [文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink")（朝霧カフカ/春河35）
   - [我的殘缺惡魔！](https://zh.wikipedia.org/wiki/我的殘缺惡魔！ "wikilink")（時田とおる/サマミヤアカザ）
   - [首領公主與無頭騎士](https://zh.wikipedia.org/wiki/首領公主與無頭騎士 "wikilink")（睦月けい/田倉トヲル）
   - [銀龍騎士團](https://zh.wikipedia.org/wiki/銀龍騎士團 "wikilink")（九月文/明咲透）

@@ -2,7 +2,7 @@
 
 **Wow\!訊號**是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[天文學家](https://zh.wikipedia.org/wiki/天文學家 "wikilink")[傑里·R·埃曼](https://zh.wikipedia.org/wiki/傑里·R·埃曼 "wikilink")（Jerry
 R.
-Ehman）在1977年8月16日檢測到的一個明顯的窄頻[無線電訊號](https://zh.wikipedia.org/wiki/無線電 "wikilink")，當時他使用的是《[搜尋地外文明計劃](https://zh.wikipedia.org/wiki/搜尋地外文明計劃 "wikilink")》在[俄亥俄州立大學的](https://zh.wikipedia.org/wiki/俄亥俄州立大學 "wikilink")[大耳朵](https://zh.wikipedia.org/wiki/大耳朵 "wikilink")[電波望遠鏡](https://zh.wikipedia.org/wiki/電波望遠鏡 "wikilink")。這個信號的特徵顯示並非是來自[類地行星和](../Page/地球.md "wikilink")[太陽系內的信號](https://zh.wikipedia.org/wiki/太陽系 "wikilink")，並且大耳朵完整且持續觀測了72秒鐘，但是之後再也沒有收到這種訊號，並且當談到SETI的成果時，許多媒體都會聚焦在此一事件上。
+Ehman）在1977年8月16日檢測到的一個明顯的窄頻[無線電訊號](https://zh.wikipedia.org/wiki/無線電 "wikilink")，當時他使用的是《[搜尋地外文明計劃](https://zh.wikipedia.org/wiki/搜尋地外文明計劃 "wikilink")》在[俄亥俄州立大學的](https://zh.wikipedia.org/wiki/俄亥俄州立大學 "wikilink")[大耳朵](../Page/大耳朵.md "wikilink")[電波望遠鏡](https://zh.wikipedia.org/wiki/電波望遠鏡 "wikilink")。這個信號的特徵顯示並非是來自[類地行星和](../Page/地球.md "wikilink")[太陽系內的信號](https://zh.wikipedia.org/wiki/太陽系 "wikilink")，並且大耳朵完整且持續觀測了72秒鐘，但是之後再也沒有收到這種訊號，並且當談到SETI的成果時，許多媒體都會聚焦在此一事件上。
 
 驚訝於這個訊號與星際訊號[天線選單中使用的是如此吻合](https://zh.wikipedia.org/wiki/天線_\(無線電\) "wikilink")，Ehman在電腦印表機的報表上圈出了這個訊號，並在旁邊寫上了「**Wow\!**」，而這個註記就成為這個訊號的名稱。
 

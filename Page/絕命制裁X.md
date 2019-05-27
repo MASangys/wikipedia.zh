@@ -50,7 +50,7 @@
 
   -
     28歲，175公分，B111/W61/H91。
-    望月綜合病院的[外科醫師](https://zh.wikipedia.org/wiki/外科醫師 "wikilink")，使用武士刀戰鬥的近距離戰鬥人員。
+    望月綜合病院的[外科醫師](../Page/外科醫師.md "wikilink")，使用武士刀戰鬥的近距離戰鬥人員。
     武裝：日本刀‧大蛇（ BLACK LABEL OROCHI ）
 
 <!-- end list -->
@@ -261,8 +261,7 @@
 ### 主題曲
 
   - 片頭曲「triage」
-    作詞、作曲、編曲：流田Project，主唱：[藏合紗惠子](https://zh.wikipedia.org/wiki/藏合紗惠子 "wikilink")
-    featuring
+    作詞、作曲、編曲：流田Project，主唱：[藏合紗惠子](../Page/藏合紗惠子.md "wikilink") featuring
     [流田Project](https://zh.wikipedia.org/wiki/流田Project "wikilink")
   - 片尾曲「」
     作詞：畔柳宏平，作曲：隱田遼平，編曲：，主唱：[山本和臣](../Page/山本和臣.md "wikilink")
@@ -297,7 +296,7 @@
 <td><p>SURGICAL STRIKE</p></td>
 <td><p>村田峻治</p></td>
 <td><p>渡部周</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/合田浩章" title="wikilink">合田浩章</a>、豬股雅美</p></td>
+<td><p><a href="../Page/合田浩章.md" title="wikilink">合田浩章</a>、豬股雅美</p></td>
 <td></td>
 </tr>
 <tr class="odd">

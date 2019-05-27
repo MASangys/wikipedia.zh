@@ -3,7 +3,7 @@ FOX**」或是「****」表示。
 
 ## 概要、沿革
 
-2007年4月，[OLM的製作人](../Page/OLM.md "wikilink")[岩佐岳與](https://zh.wikipedia.org/wiki/岩佐岳 "wikilink")2006年電視動畫《[受讚頌者](https://zh.wikipedia.org/wiki/傳頌之物 "wikilink")》的製作團隊「**OLM
+2007年4月，[OLM的製作人](../Page/OLM.md "wikilink")[岩佐岳與](../Page/岩佐岳.md "wikilink")2006年電視動畫《[受讚頌者](https://zh.wikipedia.org/wiki/傳頌之物 "wikilink")》的製作團隊「**OLM
 TEAM
 IWASA**」獨立，在[杉並區](../Page/杉並區.md "wikilink")[下井草成立WHITE](../Page/下井草.md "wikilink")
 FOX\[1\]。
@@ -102,7 +102,7 @@ FOX官方承認《[刀語](https://zh.wikipedia.org/wiki/刀語 "wikilink")》�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Re:從零開始的異世界生活" title="wikilink">Re:從零開始的異世界生活</a></p></td>
+<td><p><a href="../Page/Re:從零開始的異世界生活.md" title="wikilink">Re:從零開始的異世界生活</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -120,14 +120,14 @@ FOX官方承認《[刀語](https://zh.wikipedia.org/wiki/刀語 "wikilink")》�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/少女終末旅行" title="wikilink">少女終末旅行</a></p></td>
+<td><p><a href="../Page/少女終末旅行.md" title="wikilink">少女終末旅行</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/命運石之門0" title="wikilink">命運石之門0</a></p></td>
+<td><p><a href="../Page/命運石之門0.md" title="wikilink">命運石之門0</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -224,12 +224,12 @@ FOX官方承認《[刀語](https://zh.wikipedia.org/wiki/刀語 "wikilink")》�
 <tbody>
 <tr class="odd">
 <td><p>2013年4月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/命運石之門_負荷領域的既視感" title="wikilink">命運石之門 負荷領域的既視感</a></p></td>
+<td><p><a href="../Page/命運石之門_負荷領域的既視感.md" title="wikilink">命運石之門 負荷領域的既視感</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年10月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Re:從零開始的異世界生活" title="wikilink">Re:從零開始的異世界生活 Memory Snow</a></p></td>
+<td><p><a href="../Page/Re:從零開始的異世界生活.md" title="wikilink">Re:從零開始的異世界生活 Memory Snow</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

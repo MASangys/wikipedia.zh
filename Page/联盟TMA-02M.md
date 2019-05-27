@@ -3,7 +3,7 @@
 
 ## 机组人员
 
-  - [谢尔盖·沃尔科夫](https://zh.wikipedia.org/wiki/谢尔盖·亚历山德罗维奇·沃尔科夫 "wikilink")（第2次[航天飞行](../Page/航天.md "wikilink")）-
+  - [谢尔盖·沃尔科夫](../Page/谢尔盖·亚历山德罗维奇·沃尔科夫.md "wikilink")（第2次[航天飞行](../Page/航天.md "wikilink")）-
      [RSA](https://zh.wikipedia.org/wiki/俄罗斯联邦航天局 "wikilink")
   - [迈克·福苏姆](https://zh.wikipedia.org/wiki/迈克·福苏姆 "wikilink")（第3次航天飞行）-
     [NASA](../Page/美国国家航空航天局.md "wikilink")

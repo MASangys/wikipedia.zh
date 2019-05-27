@@ -41,7 +41,7 @@ Software可以保持Optimus Profiles的更新。Profiles可以由用家自行修
     7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows
     8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows
     8.1](../Page/Windows_8.1.md "wikilink")、[Windows
-    10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
+    10](../Page/Windows_10.md "wikilink")
 
 ### MacBook Pro
 

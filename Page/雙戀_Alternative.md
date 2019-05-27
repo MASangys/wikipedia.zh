@@ -101,7 +101,7 @@
   - 監製：[高野希義](https://zh.wikipedia.org/wiki/高野希義 "wikilink")、[宿利剛](https://zh.wikipedia.org/wiki/宿利剛 "wikilink")、[渡邊和哉](https://zh.wikipedia.org/wiki/渡邊和哉 "wikilink")
   - 動畫製作：[ufotable](https://zh.wikipedia.org/wiki/ufotable "wikilink")、[flag](https://zh.wikipedia.org/wiki/flag "wikilink")、[feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")
   - 製作：[雙戀製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（[MediaWorks](../Page/MediaWorks.md "wikilink")、[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[讀賣廣告社](https://zh.wikipedia.org/wiki/讀賣廣告社 "wikilink")）
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[讀賣廣告社](../Page/讀賣廣告社.md "wikilink")）
 
 ### 主題曲
 
@@ -357,7 +357,7 @@
 <!-- end list -->
 
   -
-    作詞：[畑亜貴](https://zh.wikipedia.org/wiki/畑亜貴 "wikilink")、作曲：[橋本由香利](../Page/橋本由香利.md "wikilink")、歌：[伊月唯](../Page/伊月唯.md "wikilink")、[綱掛裕美](https://zh.wikipedia.org/wiki/綱掛裕美 "wikilink")、[堀江由衣](../Page/堀江由衣.md "wikilink")、[小清水亞美](../Page/小清水亞美.md "wikilink")、[水橋香織](../Page/水橋香織.md "wikilink")、[門脇舞](https://zh.wikipedia.org/wiki/門脇舞 "wikilink")、[長谷川靜香](../Page/長谷川靜香.md "wikilink")、[落合祐里香](https://zh.wikipedia.org/wiki/落合祐里香 "wikilink")、[吉住梢](../Page/吉住梢.md "wikilink")、[桑谷夏子](../Page/桑谷夏子.md "wikilink")、[高橋智秋](../Page/高橋智秋.md "wikilink")、[三五美奈子](https://zh.wikipedia.org/wiki/三五美奈子 "wikilink")
+    作詞：[畑亜貴](https://zh.wikipedia.org/wiki/畑亜貴 "wikilink")、作曲：[橋本由香利](../Page/橋本由香利.md "wikilink")、歌：[伊月唯](../Page/伊月唯.md "wikilink")、[綱掛裕美](../Page/綱掛裕美.md "wikilink")、[堀江由衣](../Page/堀江由衣.md "wikilink")、[小清水亞美](../Page/小清水亞美.md "wikilink")、[水橋香織](../Page/水橋香織.md "wikilink")、[門脇舞](https://zh.wikipedia.org/wiki/門脇舞 "wikilink")、[長谷川靜香](../Page/長谷川靜香.md "wikilink")、[落合祐里香](https://zh.wikipedia.org/wiki/落合祐里香 "wikilink")、[吉住梢](../Page/吉住梢.md "wikilink")、[桑谷夏子](../Page/桑谷夏子.md "wikilink")、[高橋智秋](../Page/高橋智秋.md "wikilink")、[三五美奈子](../Page/三五美奈子.md "wikilink")
 
 <!-- end list -->
 

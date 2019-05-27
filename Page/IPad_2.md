@@ -6,7 +6,7 @@ band–850, 900, 1800, 1900
 MHz)](https://zh.wikipedia.org/wiki/GSM_frequency_bands "wikilink") |
 lifespan = | unitssold = | media = | os = \[iOS 4.3升級至\[iOS 9.3.5\]\]
 发布于  | input =
-[多點觸控](../Page/多點觸控.md "wikilink")[螢幕](../Page/觸控式螢幕.md "wikilink")、[耳機線控](https://zh.wikipedia.org/wiki/iPad#音訊 "wikilink")、[接近传感器与](https://zh.wikipedia.org/wiki/接近传感器 "wikilink")[环境光线传感器](https://zh.wikipedia.org/wiki/暗色调光线 "wikilink")，三轴[陀螺儀](../Page/陀螺儀.md "wikilink")、[地磁仪](https://zh.wikipedia.org/wiki/地磁仪 "wikilink")、[加速規](../Page/加速規.md "wikilink")、[aGPS](../Page/辅助全球卫星定位系统.md "wikilink")
+[多點觸控](../Page/多點觸控.md "wikilink")[螢幕](../Page/觸控式螢幕.md "wikilink")、[耳機線控](https://zh.wikipedia.org/wiki/iPad#音訊 "wikilink")、[接近传感器与](../Page/接近传感器.md "wikilink")[环境光线传感器](https://zh.wikipedia.org/wiki/暗色调光线 "wikilink")，三轴[陀螺儀](../Page/陀螺儀.md "wikilink")、[地磁仪](https://zh.wikipedia.org/wiki/地磁仪 "wikilink")、[加速規](../Page/加速規.md "wikilink")、[aGPS](../Page/辅助全球卫星定位系统.md "wikilink")
 + [3G](../Page/3G.md "wikilink")[移动电话](../Page/移动电话.md "wikilink") |
 cameras = **Front:** Video recording, VGA up to 30 fps with audio,
 VGA-quality still camera

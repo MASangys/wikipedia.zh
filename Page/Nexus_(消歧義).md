@@ -46,8 +46,7 @@
   - [泰恩河和威尔地区客运执行委员](https://zh.wikipedia.org/wiki/泰恩河和威尔地区客运执行委员 "wikilink")（品牌名称）英格兰东北部的泰恩河和威尔地区客运执行委员会
   - [Nexus](../Page/外道軍團.md "wikilink")
     [WWE旗下曾經存在的摔角團隊](https://zh.wikipedia.org/wiki/WWE "wikilink")。
-  - [Nexus
-    (動畫製作公司)](https://zh.wikipedia.org/wiki/Nexus_\(動畫製作公司\) "wikilink")，日本的動畫製作公司。
+  - [Nexus (動畫製作公司)](../Page/Nexus_\(動畫製作公司\).md "wikilink")，日本的動畫製作公司。
 
 ## 技术
 

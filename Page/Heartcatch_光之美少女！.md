@@ -6,7 +6,7 @@
 此作回復到初代作的雙人光之美少女組合，同時也加入了許多前所未有的新要素。
 
 此作人物設定是由曾經為《[小魔女DoReMi](../Page/小魔女DoReMi.md "wikilink")》及《[再造人卡辛](../Page/再造人卡辛.md "wikilink")》設計人物的[馬越嘉彥](https://zh.wikipedia.org/wiki/馬越嘉彥 "wikilink")，比起從前雖然較少線條，不過表情豐富且武打也相當動感。故事則從主角的內心著墨，並加入了自卑感這點。系列編劇由曾經創作多部少女作品的[山田隆司負責](https://zh.wikipedia.org/wiki/山田隆司 "wikilink")。此作的監督是曾經為《[Yes\!
-光之美少女5](../Page/Yes!_光之美少女5.md "wikilink")》系列中兩套電影版執導的[長峰達也](https://zh.wikipedia.org/wiki/長峰達也 "wikilink")，上述三者皆為《[小魔女DoReMi](../Page/小魔女DoReMi.md "wikilink")》時的製作人員。而音樂方面繼續由前作的[高梨康治擔任](../Page/高梨康治.md "wikilink")。
+光之美少女5](../Page/Yes!_光之美少女5.md "wikilink")》系列中兩套電影版執導的[長峰達也](../Page/長峰達也.md "wikilink")，上述三者皆為《[小魔女DoReMi](../Page/小魔女DoReMi.md "wikilink")》時的製作人員。而音樂方面繼續由前作的[高梨康治擔任](../Page/高梨康治.md "wikilink")。
 
 本作的第8話是整個光之美少女系列的第300話。
 
@@ -874,7 +874,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 <td><p>Precure組合這麼快就解散？</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/米村正二" title="wikilink">米村正二</a></p></td>
 <td><p>川田武範</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/川村敏江" title="wikilink">川村敏江</a></p></td>
+<td><p><a href="../Page/川村敏江.md" title="wikilink">川村敏江</a></p></td>
 <td><p>須和田真</p></td>
 <td><p>2月28日</p></td>
 <td><p>1月16日</p></td>
@@ -1057,7 +1057,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 <td><p>含淚嫁女兒！父親節的紀念照片！！</p></td>
 <td><p>難過的新娘！父親節的留影！！</p></td>
 <td><p>伊藤睦美</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大塚隆史" title="wikilink">大塚隆史</a></p></td>
+<td><p><a href="../Page/大塚隆史.md" title="wikilink">大塚隆史</a></p></td>
 <td><p>奧山美佳</p></td>
 <td><p>倉本章</p></td>
 <td><p>6月20日</p></td>
@@ -1601,7 +1601,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
     [光之美少女 All Stars
     大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
     [HUG！光之美少女♡光之美少女 All Stars
-    Memories](https://zh.wikipedia.org/wiki/HUG！光之美少女♡光之美少女_All_Stars_Memories "wikilink")
+    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
 
 ## 註釋
 

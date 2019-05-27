@@ -145,7 +145,7 @@ SPOT食‧點」，並引入集團同系商場[新城市廣場已採用的](../P
 
 ## 外景場地
 
-2017年電視劇[愛·回家之開心速遞在此取景](https://zh.wikipedia.org/wiki/愛·回家之開心速遞 "wikilink")，主題：末路尋狗
+2017年電視劇[愛·回家之開心速遞在此取景](../Page/愛·回家之開心速遞.md "wikilink")，主題：末路尋狗
 2017年至2018年電視劇[溏心風暴3在此取景](https://zh.wikipedia.org/wiki/溏心風暴3 "wikilink")
 2018年電視劇[特技人在此取景](https://zh.wikipedia.org/wiki/特技人 "wikilink")
 2019年1月31日：電影：[你咪理，我愛你！在些取景](https://zh.wikipedia.org/wiki/你咪理，我愛你！ "wikilink")
@@ -213,7 +213,7 @@ city管理公司的做法，通往時代廣場的天橋需要在每日早上9時
   - [聖公會聖西門呂明才中學](../Page/聖公會聖西門呂明才中學.md "wikilink")
   - [青山天主教小學](https://zh.wikipedia.org/wiki/青山天主教小學 "wikilink")
   - [屯門警署](https://zh.wikipedia.org/wiki/屯門警署 "wikilink")
-  - [卓爾居](https://zh.wikipedia.org/wiki/卓爾居 "wikilink")
+  - [卓爾居](../Page/卓爾居.md "wikilink")
   - [屯門工業區](../Page/屯門工業區.md "wikilink")
 
 ## 興建圖片

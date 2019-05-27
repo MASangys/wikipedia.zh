@@ -1,6 +1,6 @@
 是[育碧公司的蒙特利尔工作室開發的一款](https://zh.wikipedia.org/wiki/育碧公司 "wikilink")[第三人稱歷史奇幻類遊戲](https://zh.wikipedia.org/wiki/第三人称游戏 "wikilink")。本作是《[刺客教條](https://zh.wikipedia.org/wiki/刺客教條 "wikilink")》主系列的第五部作品兼第三部正統續作。
 遊戲的PlayStation 3 和Xbox 360 版本於2012年10月30日在北美發售，而Wii U 和PC
-版本則在同年11月發售。共有上下部章节：上部－[海爾森·肯威](https://zh.wikipedia.org/wiki/海爾森·E·肯威 "wikilink")；下部－[康纳（拉頓哈給頓）](https://zh.wikipedia.org/wiki/拉頓哈給頓 "wikilink")。
+版本則在同年11月發售。共有上下部章节：上部－[海爾森·肯威](../Page/海爾森·E·肯威.md "wikilink")；下部－[康纳（拉頓哈給頓）](https://zh.wikipedia.org/wiki/拉頓哈給頓 "wikilink")。
 
 本作獲得來自評論家作大多是正面的評論和一個巨大的商業成功，總銷量在全世界超過1200萬份。
 及後在2013年10月發佈了《[刺客教條IV：黑旗](../Page/刺客教條IV：黑旗.md "wikilink")》並延續刺客的故事，該集的主角是《刺客教條III》主角拉通哈給頓的祖父——[愛德華‧肯威](https://zh.wikipedia.org/wiki/愛德華·詹姆士·肯威 "wikilink")（Edward
@@ -22,7 +22,7 @@ Homestead）重新開始生活從而建立社區，並能從居民購買原材�
 ## 登場人物
 
   -
-    主條目：[刺客教條系列角色列表](https://zh.wikipedia.org/wiki/刺客教條系列角色列表 "wikilink")
+    主條目：[刺客教條系列角色列表](../Page/刺客教條系列角色列表.md "wikilink")
 
 ### 刺客
 
@@ -64,7 +64,7 @@ Kenway），以及擁有英國及[莫霍克人血統之刺客祖先拉頓哈給�
 1754年，海爾森於[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[皇家歌劇院刺殺了一名刺客並奪去其身上的紋章](https://zh.wikipedia.org/wiki/皇家歌劇院 "wikilink")，經聖殿騎士團研究後認為該紋章是開啟「第一文明」位於美洲某密室之鑰匙，遂派遣海爾森前往[波士頓與](https://zh.wikipedia.org/wiki/波士頓 "wikilink")[查爾斯·李](https://zh.wikipedia.org/wiki/查爾斯·李 "wikilink")（Charles
 Lee）等人共同尋找密室，過程中海爾森殺了一名奴隸販子並救出多名美洲原住民，包括一名為卡尼耶蒂依翁（Kaniehtio）的莫霍克族女性。卡尼耶蒂依翁在海爾森刺殺把她族人趕出土地的英軍領導者後把他帶至刻有與紋章上相同圖紋的洞穴（戴斯蒙眾人現今所在地），但海爾森發現紋章並非開啟密室入口的鑰匙，二人其後發生關係。海爾森回到波士頓向眾人報告後開始策劃建立美洲殖民地的聖殿騎士分部，並正式邀請查爾斯加入聖殿騎士團。
 
-海爾森與卡尼耶蒂依翁之子拉頓哈給頓不久後出生並逐漸成長。1760年，四歲之拉頓哈給頓與同伴在林中玩耍時被查爾斯逼問其村落位置，拉頓哈給頓拒絕回答後回家但發現村落被縱火，其母也被困火場喪生。九年後村落被重建，拉頓哈給頓按族母指示接觸其部族保管的「伊甸碎片」，「第一文明」成員[朱諾](https://zh.wikipedia.org/wiki/朱諾 "wikilink")（Juno）告知拉頓哈給頓其村落及族人將被毀滅，並著他尋找一個符號（刺客組織徽章），族母獲悉後指示他[尋找刺客宗師阿基里斯‧達文波特](https://zh.wikipedia.org/wiki/刺客信条：叛变 "wikilink")（Achilles
+海爾森與卡尼耶蒂依翁之子拉頓哈給頓不久後出生並逐漸成長。1760年，四歲之拉頓哈給頓與同伴在林中玩耍時被查爾斯逼問其村落位置，拉頓哈給頓拒絕回答後回家但發現村落被縱火，其母也被困火場喪生。九年後村落被重建，拉頓哈給頓按族母指示接觸其部族保管的「伊甸碎片」，「第一文明」成員[朱諾](https://zh.wikipedia.org/wiki/朱諾 "wikilink")（Juno）告知拉頓哈給頓其村落及族人將被毀滅，並著他尋找一個符號（刺客組織徽章），族母獲悉後指示他[尋找刺客宗師阿基里斯‧達文波特](../Page/刺客信条：叛变.md "wikilink")（Achilles
 Davenport）。阿基里斯在拉頓哈給頓的堅持下妥協願意提供訓練，並給予他康納（Connor）之別名以隱藏其原住民身分。
 
 自1773年開始，康納刺殺各美洲聖殿騎士及阻止大陸軍總司令[喬治·華盛頓](https://zh.wikipedia.org/wiki/喬治·華盛頓 "wikilink")（George

@@ -30,8 +30,7 @@ DAYS-**》，是日本樂團[B'z的第](../Page/B'z.md "wikilink")12張LIVE作�
 
 ## 收錄內容
 
-1.  [BAD
-    COMMUNICATION](https://zh.wikipedia.org/wiki/BAD_COMMUNICATION "wikilink")
+1.  [BAD COMMUNICATION](../Page/BAD_COMMUNICATION.md "wikilink")
 2.  [ultra soul](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")
 3.  [裸足の女神](https://zh.wikipedia.org/wiki/裸足の女神 "wikilink")
 4.  [BLOWIN'](../Page/BLOWIN'.md "wikilink")

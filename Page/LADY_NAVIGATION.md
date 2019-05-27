@@ -16,7 +16,7 @@ NAVIGATION**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.w
 
 ## 「Pleasure'91 〜人生の快楽〜」版本差異
 
-B'z有冠名為『Pleasure巡演』的[巡迴演唱會](https://zh.wikipedia.org/wiki/LIVE-GYM "wikilink")，此巡演除了部分年代以外，幾乎每次皆會演奏此曲。屆時演奏當年會在編曲與歌詞做部分變更，而曲名會以「Pleasure
+B'z有冠名為『Pleasure巡演』的[巡迴演唱會](../Page/LIVE-GYM.md "wikilink")，此巡演除了部分年代以外，幾乎每次皆會演奏此曲。屆時演奏當年會在編曲與歌詞做部分變更，而曲名會以「Pleasure
 OO 〜人生の快楽〜」（在OO加入年代）伴隨變更。
 
 被變更的[歌詞](https://zh.wikipedia.org/wiki/歌詞 "wikilink")，主要為第2句A段部分。內容為91年版本（原曲）歌詞中所登場的「那傢伙」（あいつ）後續的故事，以標題中包含的『OO年』為時期連鎖展開。
@@ -34,7 +34,7 @@ OO 〜人生の快楽〜」（在OO加入年代）伴隨變更。
   - **Pleasure'98 〜人生の快楽〜**
       -
         收錄於1998年發行的精選集『[B'z The Best
-        "Treasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Treasure" "wikilink")』。
+        "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』。
         在決定收錄曲時，以獲得粉絲投票原曲上榜第8位時，被收錄的是98年版本而非原曲。
         僅有此版本，未在演唱會上披露。
   - **Pleasure 2000 〜人生の快楽〜**
@@ -52,7 +52,7 @@ OO 〜人生の快楽〜」（在OO加入年代）伴隨變更。
   - **Pleasure 2008 〜人生の快楽〜**
       -
         收錄於精選輯『[B'z The Best "ULTRA
-        Pleasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")』。
+        Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")』。
         演唱會影像，收錄於影像作品『[B'z LIVE-GYM Pleasure 2008 -GLORY
         DAYS-](../Page/B'z_LIVE-GYM_Pleasure_2008_-GLORY_DAYS-.md "wikilink")』。
         「'91」以外的版本被音源化，亦被演唱會演奏的僅有此版本。
@@ -66,9 +66,9 @@ OO 〜人生の快楽〜」（在OO加入年代）伴隨變更。
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink")：吉他、全曲作曲和編曲
   - [稻葉浩志](../Page/稻葉浩志.md "wikilink")：主唱、全曲作詞
-  - [明石昌夫](https://zh.wikipedia.org/wiki/明石昌夫 "wikilink")：全曲編曲
+  - [明石昌夫](../Page/明石昌夫.md "wikilink")：全曲編曲
   - [田中一光](https://zh.wikipedia.org/wiki/田中一光 "wikilink")：鼓
-  - [增田隆宣](https://zh.wikipedia.org/wiki/增田隆宣 "wikilink")：鍵盤
+  - [增田隆宣](../Page/增田隆宣.md "wikilink")：鍵盤
   - [B+U+M](https://zh.wikipedia.org/wiki/B+U+M "wikilink")
 
 ## 參考資料

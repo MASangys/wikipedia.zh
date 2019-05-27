@@ -1,5 +1,5 @@
 是一款由Traveller's
-Tales开发，并由[LucasArts发行在全平台上的](https://zh.wikipedia.org/wiki/LucasArts "wikilink")[乐高与](https://zh.wikipedia.org/wiki/乐高 "wikilink")《[星球大战](https://zh.wikipedia.org/wiki/星球大战 "wikilink")》主题[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。本作是《樂高星際大戰》系列的第四作，也是本系列首款登陆[任天堂3DS平台的新作品](../Page/任天堂3DS.md "wikilink")。
+Tales开发，并由[LucasArts发行在全平台上的](../Page/LucasArts.md "wikilink")[乐高与](https://zh.wikipedia.org/wiki/乐高 "wikilink")《[星球大战](https://zh.wikipedia.org/wiki/星球大战 "wikilink")》主题[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。本作是《樂高星際大戰》系列的第四作，也是本系列首款登陆[任天堂3DS平台的新作品](../Page/任天堂3DS.md "wikilink")。
 
 ## 劇情
 

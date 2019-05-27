@@ -87,7 +87,7 @@ CLUB名稱為**Mercury**，即是中文「[水星](../Page/水星.md "wikilink")
 ### 2015年：與CJ E\&M簽署專屬合約
 
   - 12月23日，[CJ
-    E\&M宣布與經紀公司](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink")[B2M娛樂締結戰略性合作](../Page/B2M娛樂.md "wikilink")，旗下藝人Eric
+    E\&M宣布與經紀公司](../Page/CJ_E&M.md "wikilink")[B2M娛樂締結戰略性合作](../Page/B2M娛樂.md "wikilink")，旗下藝人Eric
     Nam、SPICA的音樂作品未來將由[B2M娛樂進行製作](../Page/B2M娛樂.md "wikilink")，CJ
     E\&M則負責行銷部分\[15\]。
 
@@ -108,13 +108,13 @@ CLUB名稱為**Mercury**，即是中文「[水星](../Page/水星.md "wikilink")
   - 5月20日：成員金保亨為《Vivlas Cosmetics》代言，並發表廣告曲《VIVLAS Revive Me
     Lips》\[23\]。
   - 9月14日：成員楊知元確定參加KBS偶像重啟企劃節目《[The
-    Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》\[24\]。
+    Unit](../Page/The_Unit.md "wikilink")》\[24\]。
   - 12月1日：成員金保亨發表詞曲創作《Flash Me》，作為《Vivlas Cosmetics》－MOTD系列產品的廣告曲\[25\]。
 
 ### 2018年：知元於選秀節目《The Unit》出道
 
   - 2月11日：成員楊知元於選秀節目《[The
-    Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》的最後一集中，以第6名的成績進入期間限定團體出道。
+    Unit](../Page/The_Unit.md "wikilink")》的最後一集中，以第6名的成績進入期間限定團體出道。
 
 ## 成員資料
 

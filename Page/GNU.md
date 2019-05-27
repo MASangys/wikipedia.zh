@@ -63,8 +63,7 @@ FSF認為[Linux核心](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")，�
 的這類系統名稱（導致[GNU/Linux命名爭議](https://zh.wikipedia.org/wiki/GNU/Linux命名爭議 "wikilink")）
 。\[29\]\[30\]\[31\]
 GNU工程已認可的Linux發行版，如[gNewSense](https://zh.wikipedia.org/wiki/gNewSense "wikilink")
-，
-[TRISQUEL和](https://zh.wikipedia.org/wiki/Trisquel "wikilink")[Parabola
+， [TRISQUEL和](../Page/Trisquel.md "wikilink")[Parabola
 GNU/Linux-libre](https://zh.wikipedia.org/wiki/Parabola_GNU/Linux-libre "wikilink")。\[32\]
 不使用Hurd作為核心的GNU的其他變種包括的Debian GNU / kFreeBSD和Debian GNU /
 NetBSD的，將得以對BSD的核心實現GNU的早期計劃。
@@ -77,8 +76,8 @@ distribution](https://zh.wikipedia.org/wiki/List_of_GNU/Linux_distributions_endo
 GNU/Linux-libre](https://zh.wikipedia.org/wiki/Parabola_GNU/Linux-libre "wikilink"),
 an example of an FSF approved distribution that uses a [rolling
 release](https://zh.wikipedia.org/wiki/rolling_release "wikilink") model
-|[Trisquel](https://zh.wikipedia.org/wiki/Trisquel "wikilink"), FSF
-endorsed Linux distribution ([GNU
+|[Trisquel](../Page/Trisquel.md "wikilink"), FSF endorsed Linux
+distribution ([GNU
 screenshot](https://www.gnu.org/distros/screenshot.html))
 
 ## 商標
@@ -103,7 +102,7 @@ GNU商標出現在GNU的電子文件中，也是[自由軟體基金會的元素]
 
   - [創用CC](https://zh.wikipedia.org/wiki/創用CC "wikilink")
   - [自由软件运动](../Page/自由软件运动.md "wikilink")
-  - [自由软件历史](https://zh.wikipedia.org/wiki/自由软件历史 "wikilink")
+  - [自由软件历史](../Page/自由软件历史.md "wikilink")
   - [GNU软件包列表](../Page/GNU软件包列表.md "wikilink")
 
 {{-}}

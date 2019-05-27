@@ -382,7 +382,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/楊愛瑾.md" title="wikilink">楊愛瑾</a><br />
-<a href="https://zh.wikipedia.org/wiki/冼迪琦" title="wikilink">冼迪琦</a>（童年）</p></td>
+<a href="../Page/冼迪琦.md" title="wikilink">冼迪琦</a>（童年）</p></td>
 <td><p>黃愛玲</p></td>
 <td><p>劏房住客<br />
 戴偉軒之女友<br />
@@ -486,14 +486,14 @@ Jackie</p></td>
 <td><p>彭　正</p></td>
 <td><p>黃大仙消防局隊目<br />
 在Madam Liu產後復職後已升為總隊目<br />
-於《<a href="https://zh.wikipedia.org/wiki/火速救兵IV" title="wikilink">火速救兵IV</a>》再次登場，並暫時於荔景消防局頂更</p></td>
+於《<a href="../Page/火速救兵IV.md" title="wikilink">火速救兵IV</a>》再次登場，並暫時於荔景消防局頂更</p></td>
 <td><p>孖七</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Brian_Cook" title="wikilink">Brian Cook</a></p></td>
 <td><p>白禮仁</p></td>
 <td><p>黃大仙消防局消防員<br />
-於《<a href="https://zh.wikipedia.org/wiki/火速救兵IV" title="wikilink">火速救兵IV</a>》再次登場，並調駐荔景消防局</p></td>
+於《<a href="../Page/火速救兵IV.md" title="wikilink">火速救兵IV</a>》再次登場，並調駐荔景消防局</p></td>
 <td><p>鬼仔</p></td>
 </tr>
 <tr class="even">
@@ -548,7 +548,7 @@ Jackie</p></td>
   - [火速救兵系列](../Page/火速救兵系列.md "wikilink")
   - [火速救兵](../Page/火速救兵.md "wikilink")
   - [火速救兵III](../Page/火速救兵III.md "wikilink")
-  - [火速救兵IV](https://zh.wikipedia.org/wiki/火速救兵IV "wikilink")
+  - [火速救兵IV](../Page/火速救兵IV.md "wikilink")
 
 ## 外部連結
 

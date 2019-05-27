@@ -163,7 +163,7 @@ PORTABLE》發售時，代理商由萬普變為南夢宮萬代遊戲（萬普名
   - 音響/SE
     湯村渉、岡田さとる、若林篤、松澤孝治、官永津、寺杣晶
   - 音響監督
-    [溝口綾](https://zh.wikipedia.org/wiki/溝口綾 "wikilink")
+    [溝口綾](../Page/溝口綾.md "wikilink")
 
 ## 註解
 

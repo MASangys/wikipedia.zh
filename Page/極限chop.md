@@ -34,13 +34,13 @@
   - 《[The Ballads 〜Love &
     B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")》（\#2）
   - 《[B'z The Best "Pleasure
-    II"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")》（\#1）
+    II"](../Page/B'z_The_Best_"Pleasure_II".md "wikilink")》（\#1）
   - 《[THE BEST OF DETECTIVE CONAN 〜The Movie Themes
     Collection〜](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_〜The_Movie_Themes_Collection〜 "wikilink")》（\#2）
   - 《[B'z The Best "ULTRA
-    Pleasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")》（\#1）
+    Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")》（\#1）
   - 《[B'z The Best "ULTRA
-    Treasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")》（\#2）
+    Treasure"](../Page/B'z_The_Best_"ULTRA_Treasure".md "wikilink")》（\#2）
 
 ## 參考資料
 

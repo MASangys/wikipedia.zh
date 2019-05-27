@@ -4,7 +4,7 @@ FM \[具体频率\]，随时随心，好音乐”。
 ## 背景
 
 北京寰宇行思广告服务有限公司是[马来西亚寰宇集团在](../Page/马来西亚.md "wikilink")[北京设立的外资独资广告服务公司](https://zh.wikipedia.org/wiki/北京 "wikilink")，而马来西亚的[My
-FM正是寰宇所拥有的电台](https://zh.wikipedia.org/wiki/MY_\(马来西亚电台\) "wikilink")。
+FM正是寰宇所拥有的电台](../Page/MY_\(马来西亚电台\).md "wikilink")。
 
 ## 成员
 

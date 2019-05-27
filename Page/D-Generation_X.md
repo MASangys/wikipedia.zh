@@ -14,8 +14,8 @@ Raw節目中活躍](../Page/WWE_Raw.md "wikilink")。D-Generation
 X成立於1997年\[1\]，初期形象是一群玩世不恭的叛亂份子，到處挑釁他人。 在D-Generation
 X的摔角事業中，他曾是五次的[WWE冠軍](https://zh.wikipedia.org/wiki/WWE冠軍 "wikilink")（[Triple
 H四次](https://zh.wikipedia.org/wiki/Triple_H "wikilink")，[尚恩·麥可一次](../Page/尚恩·麥可.md "wikilink")）、五次的[WWE歐洲冠軍](https://zh.wikipedia.org/wiki/WWE歐洲冠軍 "wikilink")（Triple
-H兩次，[X-Pac兩次](https://zh.wikipedia.org/wiki/X-Pac "wikilink")，尚恩·麥可一次）、二次的[WWE硬蕊冠軍](https://zh.wikipedia.org/wiki/WWE硬蕊冠軍 "wikilink")（[洛德·道格一次](https://zh.wikipedia.org/wiki/洛德·道格 "wikilink")，[比利·剛恩一次](https://zh.wikipedia.org/wiki/比利·剛恩 "wikilink")）、二次的[WWE洲際冠軍冠軍](https://zh.wikipedia.org/wiki/WWE洲際冠軍 "wikilink")（Triple
-H一次，[洛德·道格一次](https://zh.wikipedia.org/wiki/洛德·道格 "wikilink")）、一次的[WWE雙打冠軍](https://zh.wikipedia.org/wiki/WWE雙打冠軍 "wikilink")（Triple
+H兩次，[X-Pac兩次](https://zh.wikipedia.org/wiki/X-Pac "wikilink")，尚恩·麥可一次）、二次的[WWE硬蕊冠軍](https://zh.wikipedia.org/wiki/WWE硬蕊冠軍 "wikilink")（[洛德·道格一次](../Page/洛德·道格.md "wikilink")，[比利·剛恩一次](../Page/比利·剛恩.md "wikilink")）、二次的[WWE洲際冠軍冠軍](https://zh.wikipedia.org/wiki/WWE洲際冠軍 "wikilink")（Triple
+H一次，[洛德·道格一次](../Page/洛德·道格.md "wikilink")）、一次的[WWE雙打冠軍](https://zh.wikipedia.org/wiki/WWE雙打冠軍 "wikilink")（Triple
 H和尚恩·麥可）、及六次的[世界雙打冠軍
 (WWE)](../Page/世界雙打冠軍_\(WWE\).md "wikilink")（洛德·道格和比利·剛恩五次，Triple
 H和尚恩·麥可一次）。

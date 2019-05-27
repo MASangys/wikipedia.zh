@@ -177,7 +177,7 @@ Store」是[Valve展示各項創作物品的集散地](https://zh.wikipedia.org/
 
 2016年3月2日～6日，上海特锦赛在梅赛德斯奔驰文化中心举行，Team Secret获得本次比赛冠军。
 
-2019年3月，受自定义游戏[刀塔自走棋火爆影响](https://zh.wikipedia.org/wiki/刀塔自走棋 "wikilink")，dota2在线人数重回100万以上。
+2019年3月，受自定义游戏[刀塔自走棋火爆影响](../Page/刀塔自走棋.md "wikilink")，dota2在线人数重回100万以上。
 
 ## 各界反映
 
@@ -218,8 +218,8 @@ Revolution评选的有史以来最好的25款电子游戏中，Dota
 ## 相关条目
 
   - [DotA](../Page/DotA.md "wikilink")
-  - [Dota 2国际邀请赛](https://zh.wikipedia.org/wiki/Dota_2国际邀请赛 "wikilink")
-  - [刀塔自走棋](https://zh.wikipedia.org/wiki/刀塔自走棋 "wikilink")
+  - [Dota 2国际邀请赛](../Page/Dota_2国际邀请赛.md "wikilink")
+  - [刀塔自走棋](../Page/刀塔自走棋.md "wikilink")
 
 ### 類似作品
 

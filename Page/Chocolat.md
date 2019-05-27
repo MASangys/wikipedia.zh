@@ -190,7 +190,7 @@ Countdown節目正式出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilin
   - [Gorae
     Gorae(Shouting)](https://zh.wikipedia.org/wiki/Gorae_Gorae\(Shouting\) "wikilink")　（2013年5月），全體
   - [After School
-    Club](https://zh.wikipedia.org/wiki/After_School_Club "wikilink")　（2013年6月5日），Tia助理主持、全體宣傳新歌《Black
+    Club](../Page/After_School_Club.md "wikilink")　（2013年6月5日），Tia助理主持、全體宣傳新歌《Black
     Tinkerbell》
 
 ## 廣告

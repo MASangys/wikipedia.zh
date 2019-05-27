@@ -32,7 +32,7 @@ MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》2009年10月號起連載。\[
   - 人物設計、概念設計、總作畫監督 - 奥田泰弘
   - 生物設計 - 宮澤努、橋本貴吉
   - 分鏡 -
-    草川啓造、岩井優器、[松井仁之](https://zh.wikipedia.org/wiki/松井仁之 "wikilink")、[大森英敏](https://zh.wikipedia.org/wiki/大森英敏 "wikilink")、[坂田純一](https://zh.wikipedia.org/wiki/坂田純一 "wikilink")、宮澤努
+    草川啓造、岩井優器、[松井仁之](https://zh.wikipedia.org/wiki/松井仁之 "wikilink")、[大森英敏](https://zh.wikipedia.org/wiki/大森英敏 "wikilink")、[坂田純一](../Page/坂田純一.md "wikilink")、宮澤努
   - 演出 - 奥野耕太、小林浩輔
   - 作畫監督 - 橋本貴吉、宮澤努、清水祐実、長町英樹、砂川正和、加藤剣、古池敏也、烏宏明、相坂ナオキ、安本学、井畑翔太、大貫望
   - 美術監督 - 片平真司

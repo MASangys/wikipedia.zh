@@ -57,7 +57,7 @@ Ren'Py已經被許多商家推薦為電子遊戲的產生引擎，包括[Gamasut
 
   - [片輪少女](../Page/片輪少女.md "wikilink")
   - [永恆之夏](../Page/永恆之夏.md "wikilink")
-  - [心跳文學部！](https://zh.wikipedia.org/wiki/心跳文學部！ "wikilink")
+  - [心跳文學部！](../Page/心跳文學部！.md "wikilink")
 
 ## 參見
 
@@ -65,7 +65,7 @@ Ren'Py已經被許多商家推薦為電子遊戲的產生引擎，包括[Gamasut
   - [吉里吉里](../Page/吉里吉里.md "wikilink")
   - [視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")
   - [戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")
-  - [视觉小说引擎列表](https://zh.wikipedia.org/wiki/视觉小说引擎列表 "wikilink")
+  - [视觉小说引擎列表](../Page/视觉小说引擎列表.md "wikilink")
 
 ## 外部鍵結
 

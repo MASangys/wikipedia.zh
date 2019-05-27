@@ -1,7 +1,7 @@
 《**紅**》是[X
 Japan於](../Page/X_Japan.md "wikilink")1989年9月1日發行的單曲。原本就收錄於樂團的首張專輯*[VANISHING
 VISION](https://zh.wikipedia.org/wiki/VANISHING_VISION "wikilink")*當中，而這個則是和專輯*[BLUE
-BLOOD](https://zh.wikipedia.org/wiki/BLUE_BLOOD "wikilink")*中的重錄製版相同的版本。這首曲子結合了象徵X
+BLOOD](../Page/BLUE_BLOOD.md "wikilink")*中的重錄製版相同的版本。這首曲子結合了象徵X
 Japan的特色，[速度金屬](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")、[Ballad以及](https://zh.wikipedia.org/wiki/謠曲 "wikilink")[交響搖滾](https://zh.wikipedia.org/wiki/交響搖滾 "wikilink")。X
 Japan因這首曲子獲得1989[日本有線大賞最佳新人獎](https://zh.wikipedia.org/wiki/日本有線大賞 "wikilink")，且在1992年受邀至[NHK紅白歌合戰時](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")，也演唱了這首曲子。
 
@@ -14,7 +14,7 @@ Best也收錄了以純英文演唱的版本](https://zh.wikipedia.org/wiki/Perfe
 
 收錄有"紅"於X Japan專輯中的有[VANISHING
 VISION](https://zh.wikipedia.org/wiki/VANISHING_VISION "wikilink")、[BLUE
-BLOOD](https://zh.wikipedia.org/wiki/BLUE_BLOOD "wikilink")、[X
+BLOOD](../Page/BLUE_BLOOD.md "wikilink")、[X
 SINGLES](https://zh.wikipedia.org/wiki/X_SINGLES "wikilink")、[B.O.X
 〜Best of
 X〜](https://zh.wikipedia.org/wiki/B.O.X_〜Best_of_X〜 "wikilink")、[STAR

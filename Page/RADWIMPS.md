@@ -248,12 +248,12 @@ TRUE的](../Page/DREAMS_COME_TRUE.md "wikilink")[吉田美和在与野田一起�
   - 3月11日 - 纪录片『RADWIMPSのHESONOO Documentary Film』公开
   - 7月9日 - 客串SPITZ的「」活动。
   - 8月24日 -
-    由該團製作的[《你的名字。》電影原聲帶正式發行](https://zh.wikipedia.org/wiki/你的名字。_\(專輯\) "wikilink")。
+    由該團製作的[《你的名字。》電影原聲帶正式發行](../Page/你的名字。_\(專輯\).md "wikilink")。
   - 8月26日 -
     動畫電影《[你的名字。](../Page/你的名字。.md "wikilink")》上映，該團負責片中全部約20多首的[配樂](https://zh.wikipedia.org/wiki/配樂 "wikilink")。接受了朝日电视台「」的出演。
   - 11月23日 - 第八张专辑公布。
   - 11月24日 -
-    确认将出席[第67回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第67回NHK紅白歌合戰 "wikilink")，为乐队历史上首次登上[红白歌合战的舞台](https://zh.wikipedia.org/wiki/红白歌合战 "wikilink")\[1\]。
+    确认将出席[第67回NHK紅白歌合戰](../Page/第67回NHK紅白歌合戰.md "wikilink")，为乐队历史上首次登上[红白歌合战的舞台](https://zh.wikipedia.org/wiki/红白歌合战 "wikilink")\[1\]。
 
 <!-- end list -->
 
@@ -933,7 +933,7 @@ TYCT-60021(通常盤)</p></td>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>2016年8月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/你的名字。_(專輯)" title="wikilink">君の名は。</a></p></td>
+<td><p><a href="../Page/你的名字。_(專輯).md" title="wikilink">君の名は。</a></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:cebter;">
 <p>全27曲</p>
@@ -947,7 +947,7 @@ TYCT-60021(通常盤)</p></td>
 <li>憧れカフェ</li>
 <li>奥寺先輩のテーマ</li>
 <li>ふたりの異変</li>
-<li><a href="https://zh.wikipedia.org/wiki/前前前世" title="wikilink">前前前世</a> (movie ver.)</li>
+<li><a href="../Page/前前前世.md" title="wikilink">前前前世</a> (movie ver.)</li>
 <li>御神体</li>
 <li>デート</li>
 <li>秋祭り</li>
@@ -977,7 +977,7 @@ UPCH-20423(通常盤)</p></td>
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p>2016年11月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/人間開花" title="wikilink">人間開花</a></p></td>
+<td><p><a href="../Page/人間開花.md" title="wikilink">人間開花</a></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:cebter;">
 <p>全15曲</p>

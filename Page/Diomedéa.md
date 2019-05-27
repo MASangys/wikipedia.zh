@@ -6,7 +6,7 @@
 Tac製作出身的](https://zh.wikipedia.org/wiki/Group_Tac "wikilink")[須賀信行接到](https://zh.wikipedia.org/wiki/須賀信行 "wikilink")《[大魔法峠](../Page/大魔法峠.md "wikilink")》的工作時分割出來，於2005年獨自成立了**巴塞羅耶工作室**，公司名源於須賀想的時候看著其從少喜歡的[巴塞隆拿足球會海報](https://zh.wikipedia.org/wiki/巴塞隆拿足球會 "wikilink")。
 
 2006年，[SHAFT作畫出身的](../Page/SHAFT.md "wikilink")[小原充加入](https://zh.wikipedia.org/wiki/小原充 "wikilink")，成為該工作室的社長。2008年，工作室改組成株式會社，易名為**diomedéa**，須賀信行正式卸任，小原充正式接任最大股東兼代表取締役。公司重組的時期，原屬於[STUDIO
-COMET製作進行部的](../Page/STUDIO_COMET.md "wikilink")[關山晃弘加入](https://zh.wikipedia.org/wiki/關山晃弘 "wikilink")，令公司很快取得多項獨立製作\[1\]。2013年起成為角川動畫企劃一方的長期合作夥伴，在擴充業務下積極與更多自由身動畫師簽訂[部頭合約](../Page/部頭合約.md "wikilink")，並於2014年首次更換新辦公室。
+COMET製作進行部的](../Page/STUDIO_COMET.md "wikilink")[關山晃弘加入](../Page/關山晃弘.md "wikilink")，令公司很快取得多項獨立製作\[1\]。2013年起成為角川動畫企劃一方的長期合作夥伴，在擴充業務下積極與更多自由身動畫師簽訂[部頭合約](../Page/部頭合約.md "wikilink")，並於2014年首次更換新辦公室。
 
 ## 作品列表
 
@@ -38,15 +38,14 @@ COMET製作進行部的](../Page/STUDIO_COMET.md "wikilink")[關山晃弘加入]
   - [迷家](../Page/迷家.md "wikilink")（）（2016年）
   - [半田君傳說](../Page/元氣囝仔.md "wikilink")（）（2016年）
   - [少女編號](../Page/少女編號.md "wikilink")（）（2016年）
-  - [風夏](https://zh.wikipedia.org/wiki/風夏 "wikilink")（）（2017年）
+  - [風夏](../Page/風夏.md "wikilink")（）（2017年）
   - [單蠢女孩](../Page/單蠢女孩.md "wikilink")（）（2017年）
-  - [動作女英雄啦啦水果](https://zh.wikipedia.org/wiki/動作女英雄啦啦水果 "wikilink")（）（2017年）
-  - [我的女友是個過度認真的處bitch](https://zh.wikipedia.org/wiki/我的女友是個過度認真的處女bitch "wikilink")（）（2017年）
-  - [沒有心跳的少女
-    BEATLESS](https://zh.wikipedia.org/wiki/沒有心跳的少女_BEATLESS "wikilink")（）（2018年）
-  - [千緒的通學路](https://zh.wikipedia.org/wiki/千緒的通學路 "wikilink")（）（2018年）
-  - [家有女友](https://zh.wikipedia.org/wiki/家有女友 "wikilink")（）（2019年）
-  - [籃球少年王](https://zh.wikipedia.org/wiki/籃球少年王 "wikilink")（）（未定）
+  - [動作女英雄啦啦水果](../Page/動作女英雄啦啦水果.md "wikilink")（）（2017年）
+  - [我的女友是個過度認真的處bitch](../Page/我的女友是個過度認真的處女bitch.md "wikilink")（）（2017年）
+  - [沒有心跳的少女 BEATLESS](../Page/沒有心跳的少女_BEATLESS.md "wikilink")（）（2018年）
+  - [千緒的通學路](../Page/千緒的通學路.md "wikilink")（）（2018年）
+  - [家有女友](../Page/家有女友.md "wikilink")（）（2019年）
+  - [籃球少年王](../Page/籃球少年王.md "wikilink")（）（未定）
 
 #### 動畫電影
 
@@ -97,7 +96,7 @@ COMET製作進行部的](../Page/STUDIO_COMET.md "wikilink")[關山晃弘加入]
     (漫畫)](../Page/女僕咖啡廳_\(漫畫\).md "wikilink")（）（總承包商：SHAFT，各話協力製作，2010年）
   - [魔法少女小圓☆魔力](https://zh.wikipedia.org/wiki/魔法少女小圓☆魔力 "wikilink")（）（總承包商：SHAFT，各話協力製作，2011年）
   - [戰姬絕唱SYMPHOGEAR](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")（）（總承包商：[ENCOURAGE
-    FILMS](https://zh.wikipedia.org/wiki/ENCOURAGE_FILMS "wikilink")→[SATELIGHT](../Page/SATELIGHT.md "wikilink")，各話協力製作，2012年）
+    FILMS](../Page/ENCOURAGE_FILMS.md "wikilink")→[SATELIGHT](../Page/SATELIGHT.md "wikilink")，各話協力製作，2012年）
   - [SERVANT×SERVICE](https://zh.wikipedia.org/wiki/SERVANT×SERVICE "wikilink")（）（總承包商：[A-1
     Pictures](../Page/A-1_Pictures.md "wikilink")，各話協力製作，2013年）
   - [偶像大師
@@ -143,7 +142,7 @@ COMET製作進行部的](../Page/STUDIO_COMET.md "wikilink")[關山晃弘加入]
   - 小原充
   - [草川啓造](https://zh.wikipedia.org/wiki/草川啓造 "wikilink")
   - [山本靖貴](../Page/山本靖貴.md "wikilink")
-  - [石川雅一](https://zh.wikipedia.org/wiki/石川雅一 "wikilink")
+  - [石川雅一](../Page/石川雅一.md "wikilink")
   - 井出直美
   - 加藤劍
   - 宮澤努
@@ -169,7 +168,7 @@ COMET製作進行部的](../Page/STUDIO_COMET.md "wikilink")[關山晃弘加入]
 <div style="float:left; vertical-align:top; white-space:nowrap; margin-right:1em">
 
   - [滿仲勸](../Page/滿仲勸.md "wikilink")
-  - [原由美子](https://zh.wikipedia.org/wiki/原由美子 "wikilink")
+  - [原由美子](../Page/原由美子.md "wikilink")
   - 玉木慎吾
   - 安野將人
   - 中谷亞沙美
@@ -182,7 +181,7 @@ COMET製作進行部的](../Page/STUDIO_COMET.md "wikilink")[關山晃弘加入]
 
 ### 製作
 
-  - [關山晃弘](https://zh.wikipedia.org/wiki/關山晃弘 "wikilink")
+  - [關山晃弘](../Page/關山晃弘.md "wikilink")
   - 小原充
   - [須賀信行](https://zh.wikipedia.org/wiki/須賀信行_\(製作人\) "wikilink")
   - [天野翔太](https://zh.wikipedia.org/wiki/天野翔太_\(製作人\) "wikilink")

@@ -47,7 +47,7 @@ Civilization），地球當年因一場災難導致大部分生命被摧毀，�
 ## 登場人物
 
   -
-    主條目：[刺客教條系列角色列表](https://zh.wikipedia.org/wiki/刺客教條系列角色列表 "wikilink")
+    主條目：[刺客教條系列角色列表](../Page/刺客教條系列角色列表.md "wikilink")
 
 ## 开发
 

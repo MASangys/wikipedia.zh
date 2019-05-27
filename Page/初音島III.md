@@ -202,8 +202,7 @@ x-rated》原定2013年4月26日发售，改為5月31日發售\[2\]。
   - 角色設計、總作畫監督：西尾公伯
   - 音樂：[中西亮輔](https://zh.wikipedia.org/wiki/中西亮輔 "wikilink")
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")
-  - 動畫製作：風見學園公式動畫部
-    （[Actas](https://zh.wikipedia.org/wiki/Actas "wikilink")）
+  - 動畫製作：風見學園公式動畫部 （[Actas](../Page/Actas.md "wikilink")）
   - 製作：D.C.III製作委員會
 
 ### 主題曲

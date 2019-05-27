@@ -23,7 +23,7 @@ One](../Page/Xbox_One.md "wikilink")，最後將是集結所有技術的PC版本
 在單人模式中，玩者扮演《俠盜獵車手V》中的三個主要角色，分別是[麥可·迪圣塔](https://zh.wikipedia.org/wiki/麥可·迪圣塔 "wikilink")（Michael
 De
 Santa）、[富蘭克林·克林顿](https://zh.wikipedia.org/wiki/富蘭克林·克林顿 "wikilink")（Franklin
-Clinton）和[崔佛·菲利普](https://zh.wikipedia.org/wiki/崔佛·菲利普 "wikilink")（Trevor
+Clinton）和[崔佛·菲利普](../Page/崔佛·菲利普.md "wikilink")（Trevor
 Philips），他們的故事隨著任務的進展將會逐漸交織重疊。有些任务仅供一人完成，有些可在三名主角間自由切換。切換方式是使用在畫面上的角色方位羅盤進行操作，羅盤中有四個欄位，上方是富蘭克林、左方是麥可、右方是崔佛，而下方則會顯示玩者在線上多人模式中的[自創角色](../Page/纸娃娃系统.md "wikilink")\[12\]。在任務中，為了達成特定的目的，遊戲有時會在角色間自動切換。當角色處於需要幫助的險境之中時，羅盤上代表該角色的圖像將會閃爍紅光，而如果角色正處於戰略上有利的位置時，圖像將會閃爍白光，這個系統可幫助玩者順利完成任務。\[13\]隨著遊戲任務的完成，會出現更高難度的搶劫任務，且可能需要電腦控制的其他角色來幫助完成，這些輔助角色有著獨特的技能，例如駭客入侵或駕駛，任務完成後他們也會與主角分享一部分的贓款。\[14\]如果輔助角色在搶劫結束後存活，他們的特殊技巧將會進步，且可以在下次搶劫任務中再次合作。\[15\]遊戲中也鼓勵玩家使用不同的策略來完成搶劫任務，例如玩者可選擇採用偽裝潛入搶劫的目標場所，或是用武力強行進入。\[16\]
 
 每個角色都有八項技能，涵盖他们在特定领域的能力，如射擊和駕駛，在遊玩過程中各項技能將會獲得提升，而每位主角也有各自較擅長的技能，例如崔佛的駕駛員背景使他的飛行技能較其他兩個角色更好。\[17\]此外，每位角色也有各自的「特殊技能」。而第八项“特殊”技能决定着每个角色施展技能的有效性。麥可能在戰鬥中進入[子弹时间](../Page/子弹时间.md "wikilink")、富蘭克林在駕駛時可以讓時間慢下來，而崔佛則能在戰鬥中將攻擊力和防禦力提升一倍。\[18\]畫面上的抬頭顯示器有一個特殊能力顯示條，在使用時會逐漸減少，而在不使用時將會逐漸回復。\[19\]
@@ -143,7 +143,7 @@ ONE全新開發，所以跟著主機花費了一年，又在後來加入新技�
 
 ### 崔佛·菲利普（Trevor Philips）
 
-配音：[史提芬·奥格](https://zh.wikipedia.org/wiki/史蒂芬·奧格 "wikilink")（Steven Ogg）
+配音：[史提芬·奥格](../Page/史蒂芬·奧格.md "wikilink")（Steven Ogg）
 
 ### 富兰克林·克林顿（Franklin Clinton）
 
@@ -167,7 +167,7 @@ McDonald）同意布藍威爾的觀點，她也認為向玩者提供多位角色
 Gerstmann）认为受人欢迎的抢劫任务，背离了系列的典型任务结构\[111\]。Eurogamer的布拉姆韦尔感觉抢劫像是“事先安排好的重磅炸弹”\[112\]。GameSpot的卡罗琳·佩蒂特（Carolyn
 Petit）称1995年电影《[盗火线](https://zh.wikipedia.org/wiki/盗火线 "wikilink")》的风格影响到设计\[113\]。Joystiq的席亚福·德·马托斯（Xav
 de Matos）认为创造性和有条不紊的方式是值得鼓励的。Polygon的克里斯·普兰特（Chris
-Plante）将抢劫任务中角色的快速切换，比作“玩机担任剪辑师的电影编辑，要在任何时候快速切换至有趣的视角\[114\]。”《[电脑与电子游戏](https://zh.wikipedia.org/wiki/电脑与电子游戏 "wikilink")》的安迪·凯利（Andy
+Plante）将抢劫任务中角色的快速切换，比作“玩机担任剪辑师的电影编辑，要在任何时候快速切换至有趣的视角\[114\]。”《[电脑与电子游戏](../Page/电脑与电子游戏.md "wikilink")》的安迪·凯利（Andy
 Kelly）认为游戏任务的总体设计，比前作的护送跑腿更为多样化\[115\]。
 
 开放世界设计亦是一大优点，有人还称赞游戏将洛杉矶的地理，精简成精心设计的城市空间\[116\]\[117\]。[GameTrailers的布兰登](../Page/GameTrailers.md "wikilink")·琼斯（Brandon
@@ -276,7 +276,7 @@ Games推出了iFruit手機應用程式。玩者可使用該程式自定遊戲中
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation" title="wikilink">PlayStation</a> Awards 2013</p></td>
+<td><p><a href="../Page/PlayStation.md" title="wikilink">PlayStation</a> Awards 2013</p></td>
 <td><p>Platinum Award</p></td>
 <td><p><em>Grand Theft Auto V</em></p></td>
 <td></td>
@@ -580,7 +580,7 @@ Games推出了iFruit手機應用程式。玩者可使用該程式自定遊戲中
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/Hardcore_Gamer" title="wikilink">Hardcore Gamer</a></em>{{'}}s Game of the Year Awards 2013</p></td>
+<td><p><em><a href="../Page/Hardcore_Gamer.md" title="wikilink">Hardcore Gamer</a></em>{{'}}s Game of the Year Awards 2013</p></td>
 <td><p>Game of the Year</p></td>
 <td><p><em>Grand Theft Auto V</em></p></td>
 <td></td>
@@ -724,7 +724,7 @@ Games推出了iFruit手機應用程式。玩者可使用該程式自定遊戲中
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Giant_Bomb" title="wikilink">Giant Bomb</a>'s 2013 Game of the Year Awards</p></td>
+<td><p><a href="../Page/Giant_Bomb.md" title="wikilink">Giant Bomb</a>'s 2013 Game of the Year Awards</p></td>
 <td><p>Best New Character</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/List_of_Grand_Theft_Auto_V_characters#Lamar_Davis" title="wikilink">Lamar Davis</a></p></td>
 <td></td>
@@ -1159,12 +1159,12 @@ Hit”两支单曲而被告上法庭。\[326\]美国真人电视节目《[暴徒
 
 ## 后续
 
-评论家一致认为，《侠盗猎车手V》是[第七世代游戏机的杰出游戏之一](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第七世代\) "wikilink")\[330\]，是[第八世代出现前的伟大收官之作](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第八世代\) "wikilink")\[331\]\[332\]。Polygon的普兰特将本作誉为“沟通游戏的现在与未来的桥梁”，称其为“当代的结束，后代的标杆”\[333\]。[VideoGamer.com的西蒙](https://zh.wikipedia.org/wiki/VideoGamer.com "wikilink")·米勒将其视为“游戏机周期的最终绝唱”，给“后代投下长长的阴影\[334\]”。发布后三天，游戏在[IGN的](../Page/IGN.md "wikilink")“25大Xbox
+评论家一致认为，《侠盗猎车手V》是[第七世代游戏机的杰出游戏之一](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第七世代\) "wikilink")\[330\]，是[第八世代出现前的伟大收官之作](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第八世代\) "wikilink")\[331\]\[332\]。Polygon的普兰特将本作誉为“沟通游戏的现在与未来的桥梁”，称其为“当代的结束，后代的标杆”\[333\]。[VideoGamer.com的西蒙](../Page/VideoGamer.com.md "wikilink")·米勒将其视为“游戏机周期的最终绝唱”，给“后代投下长长的阴影\[334\]”。发布后三天，游戏在[IGN的](../Page/IGN.md "wikilink")“25大Xbox
 360游戏”榜单中位列第二。编辑瑞恩·麦卡弗利认为，开放世界的规模和细节，被大多数其他的[Xbox
 360游戏继承](../Page/Xbox_360.md "wikilink")。他认为，本作“无论是对玩家还是媒体，本身就是一个胜利，巨大成功是应得的\[335\]。”《[Hardcore
-Gamer](https://zh.wikipedia.org/wiki/Hardcore_Gamer "wikilink")》在“当代百大游戏”榜单中将本作位列第三。他们指出游戏对设计和驾驶机制改进，超出前作。他们还认为，多主角设计“是节奏上的可喜变化”，并可能是第八代游戏的标杆\[336\]。2013年12月，《[每日电讯报](../Page/每日电讯报.md "wikilink")》将本作列入“当代游戏机的50大最佳游戏”，称其为“文化巨兽”，将是“Rockstar的永恒遗产\[337\]。”
+Gamer](../Page/Hardcore_Gamer.md "wikilink")》在“当代百大游戏”榜单中将本作位列第三。他们指出游戏对设计和驾驶机制改进，超出前作。他们还认为，多主角设计“是节奏上的可喜变化”，并可能是第八代游戏的标杆\[336\]。2013年12月，《[每日电讯报](../Page/每日电讯报.md "wikilink")》将本作列入“当代游戏机的50大最佳游戏”，称其为“文化巨兽”，将是“Rockstar的永恒遗产\[337\]。”
 
-2014年1月，本作在《[电脑与电子游戏](https://zh.wikipedia.org/wiki/电脑与电子游戏 "wikilink")》“20-1年代游戏”榜单中位列第四。编辑罗布·克罗斯利表示，[Rockstar首次创造了](../Page/Rockstar_Games.md "wikilink")“臻至完美”的开放世界。他指出，游戏废除《[侠盗猎车手IV](https://zh.wikipedia.org/wiki/侠盗猎车手IV "wikilink")》的重复性人物设计，而专注于游戏的乐趣\[338\]。5月，IGN在“当代百大游戏”榜单将其列入第八，称其是“通往第八代游戏机的一座庞大、喧闹且野心慢慢的桥梁\[339\]”。随后一个月，本作被IGN读者评委“你的当代心水百佳游戏\[340\]”。8月，[Game
+2014年1月，本作在《[电脑与电子游戏](../Page/电脑与电子游戏.md "wikilink")》“20-1年代游戏”榜单中位列第四。编辑罗布·克罗斯利表示，[Rockstar首次创造了](../Page/Rockstar_Games.md "wikilink")“臻至完美”的开放世界。他指出，游戏废除《[侠盗猎车手IV](https://zh.wikipedia.org/wiki/侠盗猎车手IV "wikilink")》的重复性人物设计，而专注于游戏的乐趣\[338\]。5月，IGN在“当代百大游戏”榜单将其列入第八，称其是“通往第八代游戏机的一座庞大、喧闹且野心慢慢的桥梁\[339\]”。随后一个月，本作被IGN读者评委“你的当代心水百佳游戏\[340\]”。8月，[Game
 Informer将本作列入](../Page/Game_Informer.md "wikilink")“当代十大动作游戏”榜单第三。他们将本作的质量与前作比较，认为它角色设置的糅合、任务的多样性和多人游戏，取代了《侠盗猎车手IV》在榜单中的位置，指出剧情是荒诞的戏剧，展现开放世界的浩瀚，花在玩游戏的时间上不会“有一秒钟的后悔\[341\]”。
 
 2015年8月母公司Take-Two公布銷售全平台達到5400萬套，超越了《[超級瑪利歐兄弟](https://zh.wikipedia.org/wiki/超級瑪利歐兄弟 "wikilink")》\[342\]。

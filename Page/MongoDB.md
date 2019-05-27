@@ -8,7 +8,7 @@ X和](https://zh.wikipedia.org/wiki/OS_X "wikilink")[Solaris版本](../Page/Sola
 [Gentoo](https://zh.wikipedia.org/wiki/Gentoo "wikilink")\[3\]以及[Arch
 Linux](../Page/Arch_Linux.md "wikilink")。\[4\] 同樣可從官方網站取得。\[5\]
 
-MongoDB使用[内存映射文件](https://zh.wikipedia.org/wiki/内存映射文件 "wikilink"),
+MongoDB使用[内存映射文件](../Page/内存映射文件.md "wikilink"),
 32位元系統上限制大小為2GB的資料（64位元支持更大的資料）。\[6\]
 MongoDB伺服器只能用在[小端序系統](https://zh.wikipedia.org/wiki/字节序#.E5.B0.8F.E7.AB.AF.E5.BA.8F "wikilink")，雖然大部分公司會同時準備小端序和大端序系統。
 

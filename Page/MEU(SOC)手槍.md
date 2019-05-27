@@ -5,7 +5,7 @@ ACP](../Page/.45_ACP.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈
 
 ## 歷史
 
-[Meusoc86.gif](https://zh.wikipedia.org/wiki/File:Meusoc86.gif "fig:Meusoc86.gif")整體式軍用手槍[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")（IMPL）、Gemtech
+[Meusoc86.gif](https://zh.wikipedia.org/wiki/File:Meusoc86.gif "fig:Meusoc86.gif")整體式軍用手槍[戰術燈](../Page/戰術燈.md "wikilink")（IMPL）、Gemtech
 TRL戰術槍索和[行客刀](https://zh.wikipedia.org/wiki/行客刀 "wikilink")（Strider）握把側板的MEU(SOC)手槍\]\]
 在1980年代末期，[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")[上校羅伯特](../Page/上校.md "wikilink")·楊（）提出了對[M1911手槍作出一系列的規範和改進](../Page/M1911手槍.md "wikilink")，使[白朗寧的設計能夠適合](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")21世纪的新[戰場](https://zh.wikipedia.org/wiki/戰場 "wikilink")，其中許多把M1911手槍已列入MEU(SOC)手槍的設計改進之中。\[3\]\[4\]1986年，[美国海军陆战队精確武器工場和步槍分隊裝備工場接受M](../Page/美国海军陆战队.md "wikilink")1911的改進工作，這些由M1911改進而成的手槍沒有正式定型，一律稱為MEU(SOC)手槍或MEU手槍。
 
@@ -31,7 +31,7 @@ Det-1）。這意味著粗略地有150個[单位將需要挑選一把基於](htt
 II型號](../Page/金柏特裝型手槍.md "wikilink")。\[15\]第1特遣隊就向金柏少量訂制了以TLE/RL
 II系列作改良的版本，金柏亦在短時間內生產了小量特制的M1911A1交貨，這種版本命名為“過渡期[近身距離作戰手槍](../Page/近身距離作戰.md "wikilink")”（，簡稱：ICQB）。其主要特徵是改用簡化了的復進零件及5英吋的[不鏽鋼](../Page/不鏽鋼.md "wikilink")[槍管等](../Page/槍管.md "wikilink")。但整體而言，ICQB的內部設計和[白朗寧的原來設計相比是沒有太大的差別](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")。\[16\]
 
-後來海軍陸戰隊特種作戰司令部第1特遣隊的金柏ICQB手槍又加裝了整體式軍用型手槍[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")（，簡稱：IMPL）、道森（）的[螺絲上鎖式精密輕型導軌](../Page/螺絲.md "wikilink")、Gemtech
+後來海軍陸戰隊特種作戰司令部第1特遣隊的金柏ICQB手槍又加裝了整體式軍用型手槍[戰術燈](../Page/戰術燈.md "wikilink")（，簡稱：IMPL）、道森（）的[螺絲上鎖式精密輕型導軌](../Page/螺絲.md "wikilink")、Gemtech
 TRL（英文全寫：）戰術槍索及其吊環（亦且同時掛上應急配備的通訊用電話線裝置）、經過改進的6004手槍[槍套](https://zh.wikipedia.org/wiki/槍套 "wikilink")、由[西蒙尼刀刃](https://zh.wikipedia.org/wiki/西蒙尼刀刃 "wikilink")（）及[行客刀](https://zh.wikipedia.org/wiki/行客刀 "wikilink")（）生產的西蒙尼G-10握把側板以取代原來的帕茨米亞（）[橡膠握把及配威爾遜戰鬥產品公司的](../Page/橡膠.md "wikilink")“47D”8發彈匣。\[17\]\[18\]而諾瓦克LoMount生產的[氚光夜間用](../Page/氚.md "wikilink")[機械瞄具亦取代了原來的海軍陸戰隊員內部一向使用的機械瞄具](../Page/機械瞄具.md "wikilink")。\[19\]\[20\]
 
 有一說是相同要求亦被發送到[美国](../Page/美国.md "wikilink")，而春田公司亦以為美國[联邦调查局的TRP設計生產其MEU](../Page/联邦调查局.md "wikilink")(SOC)手槍。然而，金柏在測試的最後階段之中優勝了。
@@ -81,7 +81,7 @@ MEU(SOC)手槍還安裝了一個由纖維材料製成的後座緩衝器，能夠
     Rising）：為[美国海军陆战队陣營武器之一](../Page/美国海军陆战队.md "wikilink")。
   - 2011年—《[-{zh-cn:战地3;
     zh-tw:戰地風雲3;}-](../Page/戰地風雲3.md "wikilink")》（Battlefield
-    3）：命名為「M1911」，8發[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為46發。只可被EA槍會成員或戰場退伍軍人玩家所使用。被歸類為[手枪](../Page/手枪.md "wikilink")，有四種樣式，分別是：「標準」、「TACT.」、「SUPP.」和「S-TAC」。TACT.裝上了[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")，SUPP.裝上了[消聲器](../Page/抑制器.md "wikilink")，而S-TAC則是[DICE獨有而且同時裝上了戰術燈與消聲器](../Page/EA_DICE.md "wikilink")。
+    3）：命名為「M1911」，8發[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為46發。只可被EA槍會成員或戰場退伍軍人玩家所使用。被歸類為[手枪](../Page/手枪.md "wikilink")，有四種樣式，分別是：「標準」、「TACT.」、「SUPP.」和「S-TAC」。TACT.裝上了[戰術燈](../Page/戰術燈.md "wikilink")，SUPP.裝上了[消聲器](../Page/抑制器.md "wikilink")，而S-TAC則是[DICE獨有而且同時裝上了戰術燈與消聲器](../Page/EA_DICE.md "wikilink")。
   - 2014年—《》（Insurgency）：命名為“M45”，安全部隊專用武器。
   - 2015年—《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》：被[聯邦調查局特種武器和戰術部隊所使用](../Page/聯邦調查局特種武器和戰術部隊.md "wikilink")，命名為「M45
     MEUSOC」。

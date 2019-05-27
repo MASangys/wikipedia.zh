@@ -99,7 +99,7 @@
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/延政勳" title="wikilink">延政勳</a>、<a href="https://zh.wikipedia.org/wiki/嚴智媛" title="wikilink">嚴智媛</a>、<a href="../Page/王嬪娜.md" title="wikilink">王嬪娜</a>、<a href="../Page/趙軟祐.md" title="wikilink">趙軟祐</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朱東民" title="wikilink">朱東民</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朱東民.md" title="wikilink">朱東民</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陶賢貞" title="wikilink">陶賢貞</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -134,7 +134,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2014年10月11日－2015年1月3日<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/天國的眼淚" title="wikilink">天國的眼淚</a><br />
+<td style="text-align: center;"><p><a href="../Page/天國的眼淚.md" title="wikilink">天國的眼淚</a><br />
 </p></td>
 <td style="text-align: center;"><p>25</p></td>
 <td style="text-align: center;"><p><a href="../Page/朴智英.md" title="wikilink">朴智英</a>、<a href="../Page/洪雅凜.md" title="wikilink">洪雅凜</a>、<a href="../Page/徐俊英.md" title="wikilink">徐俊英</a>、<a href="../Page/尹瑞.md" title="wikilink">尹瑞</a>、<a href="../Page/印喬鎮.md" title="wikilink">印喬鎮</a>、<a href="../Page/李鍾原.md" title="wikilink">李鍾原</a>、<a href="../Page/尹多勳.md" title="wikilink">尹多勳</a>、<a href="../Page/金麗珍.md" title="wikilink">金麗珍</a>、<a href="../Page/朴根瀅.md" title="wikilink">朴根瀅</a>、<a href="../Page/朴貞洙.md" title="wikilink">朴貞洙</a>、<a href="../Page/尹朱尚.md" title="wikilink">尹朱尚</a>、<a href="../Page/李漢偉.md" title="wikilink">李漢偉</a></p></td>

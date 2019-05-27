@@ -199,7 +199,7 @@ PlayStation
 </dl>
 <ul>
 <li>支持无线立体声耳机2.0版（欧洲型号）和无线立体声耳机黄金版（美国型号）。</li>
-<li>改善格式化软件时系统的稳定性，改善包括<a href="https://zh.wikipedia.org/wiki/PlayStation_Now" title="wikilink">PlayStation Now在内的网络服务</a>。</li>
+<li>改善格式化软件时系统的稳定性，改善包括<a href="../Page/PlayStation_Now.md" title="wikilink">PlayStation Now在内的网络服务</a>。</li>
 </ul></td>
 </tr>
 <tr class="even">

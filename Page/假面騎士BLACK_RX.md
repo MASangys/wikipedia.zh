@@ -1,7 +1,7 @@
 《**假面骑士BLACK
 RX**》（原題：）为1988年（[昭和](../Page/昭和.md "wikilink")63年）～1989年（平成元年）期间，由[每日放送製作](../Page/每日放送.md "wikilink")，於[TBS電視網在每週日上午](../Page/TBS.md "wikilink")10:00～10:30播出的特攝電視劇，全47集。
 
-本作為[假面騎士系列的第九部作品](../Page/假面騎士系列.md "wikilink")。由於本片播映時期適逢[昭和天皇](../Page/昭和天皇.md "wikilink")[去世](https://zh.wikipedia.org/wiki/昭和天皇之死 "wikilink")，因此也成為[日本邁入](../Page/日本.md "wikilink")[平成年代後](../Page/平成.md "wikilink")，第一部播出的《假面騎士》系列作品。
+本作為[假面騎士系列的第九部作品](../Page/假面騎士系列.md "wikilink")。由於本片播映時期適逢[昭和天皇](../Page/昭和天皇.md "wikilink")[去世](../Page/昭和天皇之死.md "wikilink")，因此也成為[日本邁入](../Page/日本.md "wikilink")[平成年代後](../Page/平成.md "wikilink")，第一部播出的《假面騎士》系列作品。
 
 ## 故事大纲
 

@@ -114,7 +114,7 @@ Japan）（短波仅面向东南亚与亚洲大陆，卫星广播面向全球）
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天童芳美" title="wikilink">天童芳美</a></p></td>
+<td><p><a href="../Page/天童芳美.md" title="wikilink">天童芳美</a></p></td>
 </tr>
 <tr class="even">
 <td><p>後半</p></td>

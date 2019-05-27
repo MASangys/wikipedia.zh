@@ -20,7 +20,7 @@
 <td></td>
 <td></td>
 <td><p>抗議警方的騷擾</p></td>
-<td><p><a href="../Page/LGBT.md" title="wikilink">LGBT人士因</a><a href="https://zh.wikipedia.org/wiki/洛杉矶警察局" title="wikilink">警方的骚扰而與其在常有</a><a href="https://zh.wikipedia.org/wiki/異裝皇后" title="wikilink">異裝皇后與</a><a href="../Page/男妓.md" title="wikilink">男妓聚集的</a>「庫珀的甜甜圈」（Cooper's Donuts）發生衝突。在警方逮捕三個人之後（其中包括作家<a href="https://zh.wikipedia.org/wiki/約翰·里奇" title="wikilink">約翰·里奇</a>），其他示威者開始向警方丟擲<a href="../Page/甜甜圈.md" title="wikilink">甜甜圈與咖啡杯</a>。洛杉磯市警立刻呼叫支援並展開更大規模的逮捕行動，但約翰·里奇與其他被拘捕的兩人卻趁亂逃脫。</p></td>
+<td><p><a href="../Page/LGBT.md" title="wikilink">LGBT人士因</a><a href="https://zh.wikipedia.org/wiki/洛杉矶警察局" title="wikilink">警方的骚扰而與其在常有</a><a href="https://zh.wikipedia.org/wiki/異裝皇后" title="wikilink">異裝皇后與</a><a href="../Page/男妓.md" title="wikilink">男妓聚集的</a>「庫珀的甜甜圈」（Cooper's Donuts）發生衝突。在警方逮捕三個人之後（其中包括作家<a href="../Page/約翰·里奇.md" title="wikilink">約翰·里奇</a>），其他示威者開始向警方丟擲<a href="../Page/甜甜圈.md" title="wikilink">甜甜圈與咖啡杯</a>。洛杉磯市警立刻呼叫支援並展開更大規模的逮捕行動，但約翰·里奇與其他被拘捕的兩人卻趁亂逃脫。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -92,7 +92,7 @@
 <td></td>
 <td></td>
 <td><p>抗議騷擾行為</p></td>
-<td><p>同性戀者與跨性別者顧客發起<a href="https://zh.wikipedia.org/wiki/康普頓餐廳暴動" title="wikilink">康普頓餐廳暴動以抗議警方的持續騷擾</a>，餐廳與附近地區都受到程度不一的破壞。第二晚更多來自<a href="https://zh.wikipedia.org/wiki/同性戀社區" title="wikilink">同性戀社區的示威者加入暴動的行列</a>，甚至還越過警戒線砸毀餐廳的玻璃。</p></td>
+<td><p>同性戀者與跨性別者顧客發起<a href="../Page/康普頓餐廳暴動.md" title="wikilink">康普頓餐廳暴動以抗議警方的持續騷擾</a>，餐廳與附近地區都受到程度不一的破壞。第二晚更多來自<a href="https://zh.wikipedia.org/wiki/同性戀社區" title="wikilink">同性戀社區的示威者加入暴動的行列</a>，甚至還越過警戒線砸毀餐廳的玻璃。</p></td>
 </tr>
 <tr class="even">
 <td></td>

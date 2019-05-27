@@ -1,7 +1,7 @@
 **凌志LFA**（Lexus LFA
-）是[豐田集團旗下高級品牌](https://zh.wikipedia.org/wiki/豐田集團 "wikilink")[凌志汽車於](../Page/凌志.md "wikilink")2010年限量發售的一款量產雙門雙座[超級跑車](../Page/超級跑車.md "wikilink")。它是繼[凌志IS-F之後的第二款帶有凌志F標識的高性能車](https://zh.wikipedia.org/wiki/凌志IS-F "wikilink")，內部代號P280，最早以概念車的形象亮相於2005年北美國際汽車展，其後在2009年東京汽車展上正式發售並接受預訂。
+）是[豐田集團旗下高級品牌](../Page/豐田集團.md "wikilink")[凌志汽車於](../Page/凌志.md "wikilink")2010年限量發售的一款量產雙門雙座[超級跑車](../Page/超級跑車.md "wikilink")。它是繼[凌志IS-F之後的第二款帶有凌志F標識的高性能車](https://zh.wikipedia.org/wiki/凌志IS-F "wikilink")，內部代號P280，最早以概念車的形象亮相於2005年北美國際汽車展，其後在2009年東京汽車展上正式發售並接受預訂。
 
-量產的凌志LFA使用[豐田集團和](https://zh.wikipedia.org/wiki/豐田集團 "wikilink")[山葉株式會社](https://zh.wikipedia.org/wiki/山葉株式會社 "wikilink")(Yamaha)共同研發的V10引擎，搭載大量使用碳纖維增強複合型材料(CFRP)製造的車身，於2010年年底才正式投產，首批限量500輛，起售價375,000美元，而2011年發布的LFA紐博格林賽道套件版起售價為445,000美元，是歷史上第三昂貴的日本車（日產Juke-R售590,000美元，本田NSX-R
+量產的凌志LFA使用[豐田集團和](../Page/豐田集團.md "wikilink")[山葉株式會社](https://zh.wikipedia.org/wiki/山葉株式會社 "wikilink")(Yamaha)共同研發的V10引擎，搭載大量使用碳纖維增強複合型材料(CFRP)製造的車身，於2010年年底才正式投產，首批限量500輛，起售價375,000美元，而2011年發布的LFA紐博格林賽道套件版起售價為445,000美元，是歷史上第三昂貴的日本車（日產Juke-R售590,000美元，本田NSX-R
 GT售500,000美元）。
 
 ## 性能
@@ -9,13 +9,13 @@ GT售500,000美元）。
 ### 1LR-GUE引擎
 
 [Toyota-Yamaha_Lexus_LF-A_Production_Prototype_engine_2009_Tokyo_Motor_Show.jpg](https://zh.wikipedia.org/wiki/File:Toyota-Yamaha_Lexus_LF-A_Production_Prototype_engine_2009_Tokyo_Motor_Show.jpg "fig:Toyota-Yamaha_Lexus_LF-A_Production_Prototype_engine_2009_Tokyo_Motor_Show.jpg")
-凌志LFA搭載的**1LR-GUE**由[豐田集團和](https://zh.wikipedia.org/wiki/豐田集團 "wikilink")[山葉株式會社](https://zh.wikipedia.org/wiki/山葉株式會社 "wikilink")(Yamaha)共同開發的一具排氣量為4.8公升V10缸[自然進氣引擎](https://zh.wikipedia.org/wiki/自然進氣引擎 "wikilink")，壓縮比為12.0:1。其V型夾角為72度，搭配豐田集團的雙VVT-i可變氣門正時系統，可在8700rpm時輸出(560PS/552bhp)的峰值馬力，其輸出扭矩自3700rpm開始，便可輸出其峰值扭矩的90%，峰值輸出扭矩出現在6800rpm，為480牛頓米，而引擎紅線為9000rpm。\[1\]
+凌志LFA搭載的**1LR-GUE**由[豐田集團和](../Page/豐田集團.md "wikilink")[山葉株式會社](https://zh.wikipedia.org/wiki/山葉株式會社 "wikilink")(Yamaha)共同開發的一具排氣量為4.8公升V10缸[自然進氣引擎](https://zh.wikipedia.org/wiki/自然進氣引擎 "wikilink")，壓縮比為12.0:1。其V型夾角為72度，搭配豐田集團的雙VVT-i可變氣門正時系統，可在8700rpm時輸出(560PS/552bhp)的峰值馬力，其輸出扭矩自3700rpm開始，便可輸出其峰值扭矩的90%，峰值輸出扭矩出現在6800rpm，為480牛頓米，而引擎紅線為9000rpm。\[1\]
 
 **1LR-GUE**引擎使用了諸如鍛造鋁活塞，鍛造鈦合金連桿，以及實體鈦合金氣門以讓引擎可以實現如此高的轉速。其72度的V型夾角設計非常精妙，兩邊汽缸點火的力量可以實現平衡而使之省卻掉平衡曲軸，以降低引擎的重量並提高引擎的效率。使用的乾式油底殼進一步降低引擎的重心，並可防止車輛在高速通過彎道時導致的引擎內部缺乏機油潤滑散熱的狀況。另外，空氣直接從車頭導入至兩個可變進氣歧管，然後再經由每個汽缸單獨的節氣門導入汽缸。
 
 各種技術的運用，使這具引擎擁有更快速的轉速攀升能力，豐田集團的工程師聲稱在空檔的情況下，這具引擎由怠速轉速拉轉至紅線區僅需0.6秒，而普通的機械類儀錶盤無法在這麼短的時間內做出響應，所以凌志LFA唯有使用TFT螢幕組成的全數位儀表盤來代替。\[2\]而這具V10引擎體積相當於V8引擎，重量也比普通V6引擎還要輕。引擎的轟鳴聲在引擎開發的最後階段由[Yamaha旗下的音樂部門專門進行調校](https://zh.wikipedia.org/wiki/山葉株式會社 "wikilink")，以更接近像一級方程式賽車高轉速引擎的轟鳴聲，並被豐田集團的工程師形容為"天使之聲"。\[3\]
 
-搭載該引擎的凌志LFA的馬力重量比約為2.68公斤/馬力，最高巡航時速可達325km/h。與開發凌志IS-F的引擎時只參與設計開發了引擎的汽缸蓋不同，[山葉株式會社](https://zh.wikipedia.org/wiki/山葉株式會社 "wikilink")(Yamaha)全程參與了該款引擎的設計與開發，並由旗下的音樂部門專門為引擎調校轟鳴聲。凌志LFA開發的初期，[豐田集團的工程師曾經考慮使用後中置引擎的佈局](https://zh.wikipedia.org/wiki/豐田集團 "wikilink")，但是經過斟酌，他們還是選擇了前中置引擎的佈局，因為這樣的佈局其彎道中的車身動態更適合駕駛經驗不太豐富的人。\[4\]
+搭載該引擎的凌志LFA的馬力重量比約為2.68公斤/馬力，最高巡航時速可達325km/h。與開發凌志IS-F的引擎時只參與設計開發了引擎的汽缸蓋不同，[山葉株式會社](https://zh.wikipedia.org/wiki/山葉株式會社 "wikilink")(Yamaha)全程參與了該款引擎的設計與開發，並由旗下的音樂部門專門為引擎調校轟鳴聲。凌志LFA開發的初期，[豐田集團的工程師曾經考慮使用後中置引擎的佈局](../Page/豐田集團.md "wikilink")，但是經過斟酌，他們還是選擇了前中置引擎的佈局，因為這樣的佈局其彎道中的車身動態更適合駕駛經驗不太豐富的人。\[4\]
 
 ### 6前速 Automated Sequential Gearbox[半自動變速器](https://zh.wikipedia.org/wiki/半自動變速器 "wikilink")
 
@@ -179,7 +179,7 @@ LFA的研發計劃最早始於2000年2月，當時豐田集團內部代號為P28
 
 ### 2005年-2006年
 
-第一款LFA概念車於2005年1月在北美國際車展展出，當時豐田集團還沒有將此車量產化的詳細計劃。首款LFA概念車款車長4,400毫米，車高1,200毫米。這款概念車在車展中吸引了大量的公眾視線，加上[凌志當時正在實施的F系列性能車計劃](../Page/凌志.md "wikilink")，使得[豐田集團決定將LFA正式量產化](https://zh.wikipedia.org/wiki/豐田集團 "wikilink")。\[32\]\[33\]同年5月，開發團隊決定將車架物料由鋁合金改爲碳纖維複合物料。
+第一款LFA概念車於2005年1月在北美國際車展展出，當時豐田集團還沒有將此車量產化的詳細計劃。首款LFA概念車款車長4,400毫米，車高1,200毫米。這款概念車在車展中吸引了大量的公眾視線，加上[凌志當時正在實施的F系列性能車計劃](../Page/凌志.md "wikilink")，使得[豐田集團決定將LFA正式量產化](../Page/豐田集團.md "wikilink")。\[32\]\[33\]同年5月，開發團隊決定將車架物料由鋁合金改爲碳纖維複合物料。
 
 ### 2007年-2008年
 
@@ -214,7 +214,7 @@ LFA超級跑車的誕生一方面也是為了紀念凌志汽車創立20週年，
 
 ## 相關條目
 
-  - [豐田集團](https://zh.wikipedia.org/wiki/豐田集團 "wikilink")
+  - [豐田集團](../Page/豐田集團.md "wikilink")
   - [凌志汽車](../Page/凌志.md "wikilink")
   - [Yamaha](https://zh.wikipedia.org/wiki/山葉株式會社 "wikilink")
   - [豐田汽車](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")

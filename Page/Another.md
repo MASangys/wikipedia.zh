@@ -422,8 +422,8 @@ episode S》於2013年7月開始連載。小说的简体中文版以《**替身*
 
   -
     封面与单行本版几乎没有差别。
-    角川书店（[角川文库](https://zh.wikipedia.org/wiki/角川文库 "wikilink")）出版，2011年11月25日，ISBN
-    ISBN 978-4-04-100001-4（上册）/ISBN 978-4-04-100000-7（下册）
+    角川书店（[角川文库](../Page/角川文库.md "wikilink")）出版，2011年11月25日，ISBN ISBN
+    978-4-04-100001-4（上册）/ISBN 978-4-04-100000-7（下册）
 
 :;Sneaker文库版
 
@@ -532,7 +532,7 @@ ACE》（[角川书店](https://zh.wikipedia.org/wiki/角川书店 "wikilink")�
     主唱：[ALI
     PROJECT](../Page/ALI_PROJECT.md "wikilink")，作詞：[寶野亞莉華](https://zh.wikipedia.org/wiki/寶野亞莉華 "wikilink")，作曲、編曲：[片倉三起也](https://zh.wikipedia.org/wiki/片倉三起也 "wikilink")
   - 片尾曲《anamnesis》
-    作詞、主唱：[Annabel](https://zh.wikipedia.org/wiki/Annabel "wikilink")，作曲、編曲：[myu](https://zh.wikipedia.org/wiki/myu "wikilink")
+    作詞、主唱：[Annabel](../Page/Annabel.md "wikilink")，作曲、編曲：[myu](https://zh.wikipedia.org/wiki/myu "wikilink")
 
 ### 各話列表
 

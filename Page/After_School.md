@@ -120,7 +120,7 @@ Japan Tour 2012 -PLAYGIRLZ-》。
 School主持並任命為美容編輯，她們必須親自訪問專家介紹美容資訊。\[45\]
 
 3月19日After School第二張日文專輯《[Dress to
-kill](https://zh.wikipedia.org/wiki/Dress_to_kill "wikilink")》發行，專輯邀請到大澤伸一、世界級DJ
+kill](../Page/Dress_to_kill.md "wikilink")》發行，專輯邀請到大澤伸一、世界級DJ
 NERVO所屬的製作團隊FUTURE
 UNISON等豪華製作人參與製作。5月31日到日本舉辦以學校生活為主題的「AFTERSCHOOL学園祭」公演，表演內容分為「授業編」和「放課後編」，當天共演唱六首日文歌曲。\[46\]
 
@@ -161,11 +161,9 @@ PARTY》活動，作為首次[DJ秀表演](https://zh.wikipedia.org/wiki/DJ "wik
 2018年4月30日，Lizzy與經紀公司Pledis專屬合約已經期滿，因此自動退出After
 School，並離開Pledis，但未退出子團Orange Caramel。
 
-2018年5月，佳恩確定出演《[PRODUCE
-48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》。
+2018年5月，佳恩確定出演《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》。
 
-2018年6月，佳恩在《[PRODUCE
-48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》提到After
+2018年6月，佳恩在《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》提到After
 School尚未解散。
 
 ## 成員資料
@@ -544,7 +542,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Dress_to_kill" title="wikilink">Dress to kill</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Dress_to_kill.md" title="wikilink">Dress to kill</a></strong>》</p>
 <ul>
 <li>發行日期：2014年3月19日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>+<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>

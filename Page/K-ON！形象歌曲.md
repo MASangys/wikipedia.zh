@@ -12,7 +12,7 @@
 
 [ORICON集計在](https://zh.wikipedia.org/wiki/ORICON "wikilink")6月17日發售「平澤唯」和「秋山澪」2張作品，主題歌「[Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")」和「[Don't
 say
-"lazy"](https://zh.wikipedia.org/wiki/Don't_say_"lazy" "wikilink")」\[2\]，和劇中歌「[ふわふわ時間](https://zh.wikipedia.org/wiki/ふわふわ時間 "wikilink")」持續3首作品創下高排名紀錄\[3\]\[4\]。「秋山澪」是角色歌曲中銷售最多的，累積數目是歴代第1位銷售最多記録，「平澤唯」是累計「秋山澪」後歴代第2位銷售最多記録\[5\]。
+"lazy"](../Page/Don't_say_"lazy".md "wikilink")」\[2\]，和劇中歌「[ふわふわ時間](https://zh.wikipedia.org/wiki/ふわふわ時間 "wikilink")」持續3首作品創下高排名紀錄\[3\]\[4\]。「秋山澪」是角色歌曲中銷售最多的，累積數目是歴代第1位銷售最多記録，「平澤唯」是累計「秋山澪」後歴代第2位銷售最多記録\[5\]。
 
 還有，在8月26日發售的「田井中律」、「琴吹紬」、「中野梓」3首作品也緊跟著在那之前的各作品締造高順序，是ORICO史上第一次由同樣動畫的角色歌曲帶來的一週在ORICON的3首作品同時登了上前10
 。

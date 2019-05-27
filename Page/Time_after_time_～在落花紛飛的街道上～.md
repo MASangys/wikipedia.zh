@@ -37,7 +37,7 @@
     Collection～](../Page/THE_BEST_OF_DETECTIVE_CONAN_～The_Movie_Themes_Collection～.md "wikilink")
   - [ALL MY BEST](../Page/ALL_MY_BEST.md "wikilink")（theater version）
   - [MAI KURAKI BEST 151A -LOVE &
-    HOPE-](https://zh.wikipedia.org/wiki/MAI_KURAKI_BEST_151A_-LOVE_&_HOPE- "wikilink")（theater
+    HOPE-](../Page/MAI_KURAKI_BEST_151A_-LOVE_&_HOPE-.md "wikilink")（theater
     version）
 
 ## 参考資料

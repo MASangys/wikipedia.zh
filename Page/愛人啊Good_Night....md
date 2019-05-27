@@ -25,7 +25,7 @@
 
   - RISKY（\#1）
   - [B'z The Best
-    "Treasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Treasure" "wikilink")（\#1）
+    "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")（\#1）
 
 ## 參考資料
 

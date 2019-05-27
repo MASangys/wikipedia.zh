@@ -199,7 +199,7 @@
 :\* 增加HOME菜单截屏功能
 
 :\*
-增加向[新任天堂3DS/新任天堂3DSLL转移数据及软件功能](https://zh.wikipedia.org/wiki/新任天堂3DS "wikilink")（同期欧美版本没有提供）
+增加向[新任天堂3DS/新任天堂3DSLL转移数据及软件功能](../Page/新任天堂3DS.md "wikilink")（同期欧美版本没有提供）
 
 :\* 加強任天堂eShop之便利性
 
@@ -211,11 +211,11 @@
 
 :\* 加強整體系統之穩定性與便利性
 
-:\* 针对[新任天堂3DS/LL](https://zh.wikipedia.org/wiki/新任天堂3DS "wikilink")
+:\* 针对[新任天堂3DS/LL](../Page/新任天堂3DS.md "wikilink")
 
 ::\* 增加HOME菜单主题及更换主题功能、提供主题商店服务
 
-::\* 增加[任天堂eShop服务](https://zh.wikipedia.org/wiki/任天堂eShop "wikilink")
+::\* 增加[任天堂eShop服务](../Page/任天堂eShop.md "wikilink")
 
 ::\* 增加互联网浏览器
 
@@ -233,7 +233,7 @@
 
 :\* 加強整體系統之穩定性與便利性
 
-:\* 针对[新任天堂3DS/LL](https://zh.wikipedia.org/wiki/新任天堂3DS "wikilink")
+:\* 针对[新任天堂3DS/LL](../Page/新任天堂3DS.md "wikilink")
 
 ::\* 增加[amiibo设定](https://zh.wikipedia.org/wiki/amiibo "wikilink")
 

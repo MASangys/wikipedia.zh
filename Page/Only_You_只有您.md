@@ -538,7 +538,7 @@ Candy之情敵<br />
 <td><p>劉華、劉小龍之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
+<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
 <td><p>邦</p></td>
 <td><p>劉華、劉小龍之下屬</p></td>
 </tr>
@@ -563,7 +563,7 @@ Candy之情敵<br />
 <td><p>劉華、劉小龍之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
 <td></td>
 <td><p>劉華、劉小龍之下屬</p></td>
 </tr>
@@ -1117,7 +1117,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/易智遠" title="wikilink">易智遠</a></p></td>
+<td><p><a href="../Page/易智遠.md" title="wikilink">易智遠</a></p></td>
 <td><p>陳　炳</p></td>
 <td></td>
 </tr>
@@ -1242,7 +1242,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/孫儀凌" title="wikilink">孫儀凌</a></p></td>
+<td><p><a href="../Page/孫儀凌.md" title="wikilink">孫儀凌</a></p></td>
 <td><p>酒吧美女</p></td>
 <td></td>
 </tr>
@@ -1277,7 +1277,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/蕭凱欣" title="wikilink">蕭凱欣</a></p></td>
+<td><p><a href="../Page/蕭凱欣.md" title="wikilink">蕭凱欣</a></p></td>
 <td><p>名　媛</p></td>
 <td></td>
 </tr>
@@ -1302,7 +1302,7 @@ Jenny之夫</p></td>
 <td><p>Keegan之友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭家俊" title="wikilink">鄭家俊</a></p></td>
+<td><p><a href="../Page/鄭家俊.md" title="wikilink">鄭家俊</a></p></td>
 <td><p>情　侶</p></td>
 <td></td>
 </tr>
@@ -1412,7 +1412,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
 <td><p>督　察</p></td>
 <td></td>
 </tr>
@@ -1457,7 +1457,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
 <td><p>律　師</p></td>
 <td></td>
 </tr>

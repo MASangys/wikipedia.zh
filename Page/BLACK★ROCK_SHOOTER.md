@@ -94,7 +94,7 @@ SHOOTER -PILOT Edition-**」的名字發售。
   - 導演：[吉岡忍](https://zh.wikipedia.org/wiki/吉岡忍_\(動畫師\) "wikilink")
   - 監修：[山本寛](https://zh.wikipedia.org/wiki/山本寛 "wikilink")
   - 編劇：[谷川流](../Page/谷川流.md "wikilink")、[吉岡忍](https://zh.wikipedia.org/wiki/吉岡忍 "wikilink")
-  - 人物設計：[松尾祐輔](https://zh.wikipedia.org/wiki/松尾祐輔 "wikilink")
+  - 人物設計：[松尾祐輔](../Page/松尾祐輔.md "wikilink")
   - 背景：袈裟丸繪美
   - 動畫檢査：高田謠子
   - 色彩設定：中島和子（[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")）
@@ -147,7 +147,7 @@ SHOOTER -PILOT Edition-**」的名字發售。
   - 音樂：森英治
   - 音樂製作人：佐野弘明
   - 音樂製作：[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")、[Aniplex](../Page/Aniplex.md "wikilink")、富士太平洋音樂
-  - 動畫製作：[Ordet](../Page/Ordet.md "wikilink")、[三次元](https://zh.wikipedia.org/wiki/三次元_\(動畫製作公司\) "wikilink")
+  - 動畫製作：[Ordet](../Page/Ordet.md "wikilink")、[三次元](../Page/三次元_\(動畫製作公司\).md "wikilink")
   - 製作人：中村浩士、松浦裕曉
   - 總製作人：[山本幸治](https://zh.wikipedia.org/wiki/山本幸治 "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")）
   - 製作代表：富川八峰（富士電視台）、安藤貴範、新坂純一、中西孝、勝股英夫、寺田篤、松浦裕曉

@@ -12,7 +12,7 @@ Were Meant For Me》，而本唱片亦收錄了上一張唱片《886》的兩首
 | ---- | ----------------------- | --------------------------------------------------- | --------------------------------------------------- | ------------------------------------- | ----------------------- |
 | 1\.  | 前菜                      | [英師傅](https://zh.wikipedia.org/wiki/英師傅 "wikilink") | [周耀輝](../Page/周耀輝.md "wikilink")                    | 英師傅                                   | James Ting、Evi Yang     |
 | 2\.  | 小黑與我                    | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") | [林夕](../Page/林夕.md "wikilink")                      | Billy Chan                            | 崔炎德                     |
-| 3\.  | 男孩像你                    | [徐繼宗](https://zh.wikipedia.org/wiki/徐繼宗 "wikilink") | [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") | Billy Chan                            | James Ting、崔炎德、Evi Yang |
+| 3\.  | 男孩像你                    | [徐繼宗](../Page/徐繼宗.md "wikilink")                    | [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") | Billy Chan                            | James Ting、崔炎德、Evi Yang |
 | 4\.  | 拒絕畢彼特                   | [張家誠](../Page/張家誠.md "wikilink")                    | 黃偉文                                                 | Goro Wong                             | 崔炎德、Evi Yang            |
 | 5\.  | 快樂到天亮                   | [方樹樑](../Page/方樹樑.md "wikilink")、George Michael     | 林夕、George Michael                                   | 方樹樑                                   | James Ting、Evi Yang     |
 | 6\.  | 我想留低                    | Guiseppi Carella、Cheope                             | 黃偉文                                                 | [蔡德才](../Page/蔡德才.md "wikilink")＠人山人海 | James Ting、Evi Yang     |

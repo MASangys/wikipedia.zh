@@ -790,7 +790,7 @@
   - 賽巴迪設計：
   - 概念設計：[荒牧伸志](../Page/荒牧伸志.md "wikilink")
   - 美術設計：[永井一男](https://zh.wikipedia.org/wiki/永井一男 "wikilink")
-  - 地下世界設計：[岡田有章](https://zh.wikipedia.org/wiki/岡田有章 "wikilink")
+  - 地下世界設計：[岡田有章](../Page/岡田有章.md "wikilink")
   - 工業設計：[柳瀨敬之](../Page/柳瀨敬之.md "wikilink")
   - 美術監督：[脇威志](https://zh.wikipedia.org/wiki/脇威志 "wikilink")
   - 色彩設計：[中山志保子](https://zh.wikipedia.org/wiki/中山志保子 "wikilink")

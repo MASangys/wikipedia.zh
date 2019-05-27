@@ -312,7 +312,7 @@ JAPAN／Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")》、[M
 </tr>
 <tr class="odd">
 <td><p>9月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CODE_NAME_BLUE" title="wikilink">CODE NAME BLUE</a></p></td>
+<td><p><a href="../Page/CODE_NAME_BLUE.md" title="wikilink">CODE NAME BLUE</a></p></td>
 <td><p><a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a></p></td>
 <td><p>原創</p></td>
 <td><p>4.5</p></td>

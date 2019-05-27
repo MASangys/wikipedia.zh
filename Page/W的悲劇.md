@@ -72,7 +72,7 @@
   - 和辻與兵衛：[早坂茂三](https://zh.wikipedia.org/wiki/早坂茂三 "wikilink")
   - 和辻峰：[草村禮子](https://zh.wikipedia.org/wiki/草村禮子 "wikilink")
   - 中里右京：[夏八木勳](https://zh.wikipedia.org/wiki/夏八木勳 "wikilink")
-  - [大杉漣](https://zh.wikipedia.org/wiki/大杉漣 "wikilink")
+  - [大杉漣](../Page/大杉漣.md "wikilink")
   - [田山涼成](https://zh.wikipedia.org/wiki/田山涼成 "wikilink")
 
 ### 製作人員

@@ -9,14 +9,14 @@
 connectivity = 4 × [USB
 2.0](https://zh.wikipedia.org/wiki/USB_2.0 "wikilink")\[2\] | online
 service = [任天堂网络](https://zh.wikipedia.org/wiki/任天堂网络 "wikilink")
-[任天堂eShop](https://zh.wikipedia.org/wiki/任天堂eShop "wikilink")
+[任天堂eShop](../Page/任天堂eShop.md "wikilink")
 [Miiverse](https://zh.wikipedia.org/wiki/Miiverse "wikilink") | top game
 =《[瑪利歐賽車8](../Page/瑪利歐賽車8.md "wikilink")》
 840万套
 （全球，截止2017年12月） | compatibility= [Wii](../Page/Wii.md "wikilink") |
 predecessor = [Wii](../Page/Wii.md "wikilink") | successor =
-[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink") |
-unitssold = 全球：1,356万部 | unitsshipped = }} **Wii
+[任天堂Switch](../Page/任天堂Switch.md "wikilink") | unitssold =
+全球：1,356万部 | unitsshipped = }} **Wii
 U**是[任天堂繼](../Page/任天堂.md "wikilink")[Wii之後所推出的](../Page/Wii.md "wikilink")[家用遊戲主機](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")，是[Wii的後繼機種](../Page/Wii.md "wikilink")\[3\]。於2011年6月7日首次公佈，开发代號為「Project
 Café」。2012年12月8日上市。Wii
 U可以兼容Wii的所有游戏软件，支援最高1080P的高畫質輸出，拥有全新的触摸屏控制器，此控制器上裝有一個6.2英寸的16:9觸控螢幕。
@@ -27,7 +27,7 @@ U是任天堂历史上第一部支持解析度[1080p的家用遊戲主機](../Pa
 U的[操作系统](../Page/操作系统.md "wikilink")。\[5\]
 
 任天堂於2016年11月對外宣布將在日本停產Wii
-U主機，並將開發資源轉移至其繼任主機[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")。2017年1月31日，任天堂宣布正式在全球停產Wii
+U主機，並將開發資源轉移至其繼任主機[任天堂Switch](../Page/任天堂Switch.md "wikilink")。2017年1月31日，任天堂宣布正式在全球停產Wii
 U，而Wii U也成為了任天堂歷史上生命週期最短的家用遊戲機。
 
 ## 主机歷史
@@ -205,8 +205,9 @@ U開發的遊戲，公關與行銷副主席比特·海因斯（Pete
 Hines）解釋「這取決於我們正在製作的遊戲作品是否能符合主機的特色，也取決於主機的硬體能否配合我們正在開發的作品。」\[48\]這段解釋在之後被進一步的澄清，表示主要的因素其實是在主機的硬體性能。\[49\]與其他公司不同的是，[Activision表示他們會](https://zh.wikipedia.org/wiki/Activision "wikilink")「竭盡所能」來支援Wii
 U主機，並會持續開發Wii U上的作品。\[50\]
 
-2017年3月3日與[任天堂Switch同步推出的](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")《[薩爾達傳說
-旷野之息](../Page/塞尔达传说_旷野之息.md "wikilink")》是任天堂在Wii U上推出的最後一款遊戲。\[51\]
+2017年3月3日與[任天堂Switch同步推出的](../Page/任天堂Switch.md "wikilink")《[薩爾達傳說
+旷野之息](../Page/塞尔达传说_旷野之息.md "wikilink")》是任天堂在Wii
+U上推出的最後一款遊戲。\[51\]
 
 ## 評價
 

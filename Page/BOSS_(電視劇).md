@@ -24,7 +24,7 @@
 ### 警視廳捜査第一課13係
 
   - 小野田忠 - [塩見三省](https://zh.wikipedia.org/wiki/塩見三省 "wikilink")
-  - 川野昭夫 - [長谷川博己](https://zh.wikipedia.org/wiki/長谷川博己 "wikilink")
+  - 川野昭夫 - [長谷川博己](../Page/長谷川博己.md "wikilink")
   - 森政夫 - [HILUMA](https://zh.wikipedia.org/wiki/HILUMA "wikilink")
 
 ### 科学捜査研究所
@@ -81,7 +81,7 @@
 ### 第二季新增角色
 
   - 黒原理香 - [成海璃子](../Page/成海璃子.md "wikilink")
-  - 森岡博 - [大森南朋](https://zh.wikipedia.org/wiki/大森南朋 "wikilink")
+  - 森岡博 - [大森南朋](../Page/大森南朋.md "wikilink")
   - 田所幸子 - [長谷川京子](https://zh.wikipedia.org/wiki/長谷川京子 "wikilink")
   - 黑原健藏 - [西田敏行](../Page/西田敏行.md "wikilink")
   - 藤森楓 - [木南晴夏](../Page/木南晴夏.md "wikilink")
@@ -123,7 +123,7 @@
 </tr>
 <tr class="even">
 <td><ul>
-<li>小暮雅夫 - <a href="https://zh.wikipedia.org/wiki/田中圭" title="wikilink">田中圭</a></li>
+<li>小暮雅夫 - <a href="../Page/田中圭.md" title="wikilink">田中圭</a></li>
 </ul></td>
 </tr>
 <tr class="odd">

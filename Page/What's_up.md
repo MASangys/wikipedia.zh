@@ -38,7 +38,7 @@ up**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBN自
   - [陳正勳](https://zh.wikipedia.org/wiki/陳正勳 "wikilink") 飾演 **鄭明夏**
   - [楊知元](../Page/楊知元.md "wikilink") 飾演 **楊智恩**
   - [金佳恩](../Page/金佳恩.md "wikilink") 飾演 **金佳英**
-  - [韓藝媛](https://zh.wikipedia.org/wiki/韓藝媛 "wikilink") 飾演 **妍珠**
+  - [韓藝媛](../Page/韓藝媛.md "wikilink") 飾演 **妍珠**
   - [權寧敦](https://zh.wikipedia.org/wiki/權寧敦 "wikilink") 飾演 **權寧敦**
   - [權寧得](https://zh.wikipedia.org/wiki/權寧得 "wikilink") 飾演 **權寧得**
   - [真理翰](../Page/真理翰.md "wikilink") 飾演 殷彩英經紀公司社長 **강만우江珉宇**

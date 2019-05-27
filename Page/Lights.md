@@ -151,8 +151,7 @@ Martin)，而“Martin”一词虽在法语中意为“早晨”，但作为人�
 
 7.  ["Writing music for Instant
     Star"](http://www.thestar.com/entertainment/article/250438),
-    [多倫多星報](https://zh.wikipedia.org/wiki/多倫多星報 "wikilink"),
-    Aug 28, 2007.
+    [多倫多星報](../Page/多倫多星報.md "wikilink"), Aug 28, 2007.
 
 8.
 

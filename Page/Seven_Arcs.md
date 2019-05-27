@@ -7,7 +7,7 @@ Arcs**（，）曾經是以[動畫的企畫](https://zh.wikipedia.org/wiki/動�
 Arcs」，並藉2004年播放的《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》正式涉足製作電視動畫。
 
 2012年將實質製作部門轉交同年成立的另外一間動畫工作室**株式會社[Seven Arcs
-Pictures](https://zh.wikipedia.org/wiki/Seven_Arcs_Pictures "wikilink")**\[2\]之後，則改為從事企劃、製作、版權管理等業務。
+Pictures](../Page/Seven_Arcs_Pictures.md "wikilink")**\[2\]之後，則改為從事企劃、製作、版權管理等業務。
 
 2017年12月26日，上村修出讓Seven Arcs，東京放送控股收購所有股份，納為旗下子公司。Seven
 Arcs與[TBS電視台](../Page/TBS電視台.md "wikilink")、[BS-TBS形成TBS集團](../Page/BS-TBS.md "wikilink")，協助該控股從事動畫方面的業務。\[3\]
@@ -95,7 +95,7 @@ Arcs與[TBS電視台](../Page/TBS電視台.md "wikilink")、[BS-TBS形成TBS集�
 
   - [上村修](https://zh.wikipedia.org/wiki/上村修 "wikilink")
   - [田中辰彌](https://zh.wikipedia.org/wiki/田中辰彌 "wikilink")
-  - [康村諒](https://zh.wikipedia.org/wiki/康村諒 "wikilink")
+  - [康村諒](../Page/康村諒.md "wikilink")
 
 ## 腳註
 

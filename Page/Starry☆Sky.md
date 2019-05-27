@@ -1,5 +1,5 @@
 **Starry☆Sky**是由[HONEY
-BEE發售的](https://zh.wikipedia.org/wiki/HONEY_BEE "wikilink")[日本](../Page/日本.md "wikilink")[女性向](https://zh.wikipedia.org/wiki/女性向 "wikilink")[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")，於2010年12月23日在網絡上播放動畫第一集。
+BEE發售的](https://zh.wikipedia.org/wiki/HONEY_BEE "wikilink")[日本](../Page/日本.md "wikilink")[女性向](../Page/女性向.md "wikilink")[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")，於2010年12月23日在網絡上播放動畫第一集。
 
 ## 摘要
 
@@ -242,7 +242,7 @@ BEE發售的](https://zh.wikipedia.org/wiki/HONEY_BEE "wikilink")[日本](../Pag
     星座 - [獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")
     宮地龍之介的弟弟。
   -
-    聲 - [小田久史](https://zh.wikipedia.org/wiki/小田久史 "wikilink")
+    聲 - [小田久史](../Page/小田久史.md "wikilink")
     星座 - [處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")
     星月學園弓道部新入部員。神話科一年級。
   -

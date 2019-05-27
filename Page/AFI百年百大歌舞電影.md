@@ -30,8 +30,7 @@
     [滑稽女郎](https://zh.wikipedia.org/wiki/滑稽女郎 "wikilink")/[妙女郎](https://zh.wikipedia.org/wiki/妙女郎 "wikilink")
 17. The Band Wagon (1953) 《蓬車隊》、《龍鳳花車》
 18. Yankee Doodle Dandy (1942) 《[勝利之歌](../Page/勝利之歌.md "wikilink")》
-19. On the Town (1949)
-    [锦城春色](https://zh.wikipedia.org/wiki/锦城春色_\(电影\) "wikilink")
+19. On the Town (1949) [锦城春色](../Page/锦城春色_\(电影\).md "wikilink")
 20. Grease (1978)
     [油脂](https://zh.wikipedia.org/wiki/油脂 "wikilink")、[火爆浪子](https://zh.wikipedia.org/wiki/火爆浪子 "wikilink")
 21. Seven Brides for Seven Brothers (1954) 《七對佳偶》

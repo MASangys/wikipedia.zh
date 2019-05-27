@@ -159,7 +159,7 @@
 </tr>
 <tr class="odd">
 <td><p>6月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SUPER_LOVER～I_need_you_tonight～" title="wikilink">SUPER LOVER～I need you tonight～</a></p></td>
+<td><p><a href="../Page/SUPER_LOVER～I_need_you_tonight～.md" title="wikilink">SUPER LOVER～I need you tonight～</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/w-inds." title="wikilink">w-inds.</a></p></td>
 <td><p>7.8</p></td>
 <td><p>1</p></td>
@@ -180,7 +180,7 @@
 </tr>
 <tr class="even">
 <td><p>6月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KI_(稻葉浩志單曲)" title="wikilink">KI</a></p></td>
+<td><p><a href="../Page/KI_(稻葉浩志單曲).md" title="wikilink">KI</a></p></td>
 <td><p><a href="../Page/稻葉浩志.md" title="wikilink">稻葉浩志</a></p></td>
 <td><p>20.0</p></td>
 <td><p>1</p></td>

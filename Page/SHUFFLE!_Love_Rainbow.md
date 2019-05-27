@@ -23,8 +23,7 @@ Essence＋](../Page/SHUFFLE!.md "wikilink")』 シア・キキョウEND後）}}
   - {{nihongo|【楓 插曲】
 
 |「**夏の花火、続いていく約束**」|（※『[Really?
-Really\!](https://zh.wikipedia.org/wiki/Really?_Really! "wikilink")』
-楓記憶恢復之後）}}
+Really\!](../Page/Really?_Really!.md "wikilink")』 楓記憶恢復之後）}}
 
   -
     春去秋來，又是一個夏天。作為兩人以戀人身份度過的第一個夏天，溢滿溫情的同時，多少還是會想“這樣真的就可以嗎”……

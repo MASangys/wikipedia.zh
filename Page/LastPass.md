@@ -30,7 +30,7 @@ LastPass的浏览器插件会在本地存储加密的密码[数据库](../Page/�
 
 ### 多因素身份验证
 
-LastPass提供多种多因素身份验证方法的支持，如[YubiKey](https://zh.wikipedia.org/wiki/YubiKey "wikilink")、[闪存盘](../Page/闪存盘.md "wikilink")、[指纹识别设备](../Page/指纹识别.md "wikilink")、[Google
+LastPass提供多种多因素身份验证方法的支持，如[YubiKey](../Page/YubiKey.md "wikilink")、[闪存盘](../Page/闪存盘.md "wikilink")、[指纹识别设备](../Page/指纹识别.md "wikilink")、[Google
 Authenticator](https://zh.wikipedia.org/wiki/Google_Authenticator "wikilink")，以确保主密码意外泄漏时机密数据不会外泄。
 
 ### 安全笔记
@@ -59,7 +59,7 @@ LastPass可以将数据库中的数据导出到[CSV文件](https://zh.wikipedia.
 
 ### 密码必须存储在网上
 
-部分网友认为在网络上存储密码库并不安全而改用[1Password](../Page/1Password.md "wikilink")、[KeePass](../Page/KeePass.md "wikilink")、[RoboForm等本地密码管理软件](https://zh.wikipedia.org/wiki/RoboForm "wikilink")。
+部分网友认为在网络上存储密码库并不安全而改用[1Password](../Page/1Password.md "wikilink")、[KeePass](../Page/KeePass.md "wikilink")、[RoboForm等本地密码管理软件](../Page/RoboForm.md "wikilink")。
 
 ### 安全事件
 
@@ -73,7 +73,7 @@ LastPass可以将数据库中的数据导出到[CSV文件](https://zh.wikipedia.
 
 ### 多因素身份验证设备支持
 
-使用LastPass高级版后可以将[闪存盘或者](../Page/闪存盘.md "wikilink")[YubiKey作为多因素验证的一部分](https://zh.wikipedia.org/wiki/YubiKey "wikilink")。
+使用LastPass高级版后可以将[闪存盘或者](../Page/闪存盘.md "wikilink")[YubiKey作为多因素验证的一部分](../Page/YubiKey.md "wikilink")。
 
 ### 免除广告
 
@@ -93,7 +93,7 @@ LastPass可以将数据库中的数据导出到[CSV文件](https://zh.wikipedia.
   - [KeePass](../Page/KeePass.md "wikilink")
   - [Bitwarden](https://bitwarden.com/)：开源软件，基础功能免费，有收费项目。
   - [Enpass](https://www.enpass.io/)：
-  - [RoboForm](https://zh.wikipedia.org/wiki/RoboForm "wikilink")
+  - [RoboForm](../Page/RoboForm.md "wikilink")
   - [钥匙串](https://zh.wikipedia.org/wiki/钥匙串_\(OS_X\) "wikilink")
   - [密码学](../Page/密码学.md "wikilink")
 

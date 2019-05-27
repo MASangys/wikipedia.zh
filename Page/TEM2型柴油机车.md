@@ -31,7 +31,7 @@ TEM2型柴油机车亦被出口到[波兰](https://zh.wikipedia.org/wiki/波兰 
 
 ### TEM2US
 
-1976年，布良斯克机械制造厂在TEM2-1983号机车的其中一个转向架上，进行了安装[电磁轨制动装置的试验](https://zh.wikipedia.org/wiki/磁轨制动 "wikilink")，利用[电磁铁及钢轨之间产生的电磁吸力来提高](https://zh.wikipedia.org/wiki/电磁铁 "wikilink")[轮轨粘着利用系数](https://zh.wikipedia.org/wiki/轮轨粘着 "wikilink")。根据苏联交通部的要求，布良斯克机械制造厂于1978年试制了TEM2US-001号机车（），该型机车的两台转向架上均装有电磁轨制动装置，并在全苏铁道运输科学研究院的环形铁道试验线进行了试验。
+1976年，布良斯克机械制造厂在TEM2-1983号机车的其中一个转向架上，进行了安装[电磁轨制动装置的试验](../Page/磁轨制动.md "wikilink")，利用[电磁铁及钢轨之间产生的电磁吸力来提高](https://zh.wikipedia.org/wiki/电磁铁 "wikilink")[轮轨粘着利用系数](https://zh.wikipedia.org/wiki/轮轨粘着 "wikilink")。根据苏联交通部的要求，布良斯克机械制造厂于1978年试制了TEM2US-001号机车（），该型机车的两台转向架上均装有电磁轨制动装置，并在全苏铁道运输科学研究院的环形铁道试验线进行了试验。
 
 ### TEM2<sup>T</sup>
 
@@ -49,7 +49,7 @@ TEM2型柴油机车亦被出口到[波兰](https://zh.wikipedia.org/wiki/波兰 
 
 ### 柴油机
 
-TEM2型机车装用一台ПД1型柴油机，是在2Д50型柴油机的基础上，通过强化[涡轮增压器及](https://zh.wikipedia.org/wiki/涡轮增压器 "wikilink")[中冷器](https://zh.wikipedia.org/wiki/中冷器 "wikilink")，从而提高了输出功率。该型柴油机为六气缸、四冲程、带废气涡轮增压的直列式柴油机，[气缸采用直列式布置](https://zh.wikipedia.org/wiki/气缸 "wikilink")，气缸直径为318毫米（12½英寸），[活塞行程为](https://zh.wikipedia.org/wiki/冲程 "wikilink")330毫米（13英寸），额定转速略为提高到每分钟750转，额定功率从1000马力提高到1200马力，单位燃料消耗量为178～179克/有效马力·小时。柴油机重量为16600公斤。
+TEM2型机车装用一台ПД1型柴油机，是在2Д50型柴油机的基础上，通过强化[涡轮增压器及](https://zh.wikipedia.org/wiki/涡轮增压器 "wikilink")[中冷器](../Page/中冷器.md "wikilink")，从而提高了输出功率。该型柴油机为六气缸、四冲程、带废气涡轮增压的直列式柴油机，[气缸采用直列式布置](https://zh.wikipedia.org/wiki/气缸 "wikilink")，气缸直径为318毫米（12½英寸），[活塞行程为](https://zh.wikipedia.org/wiki/冲程 "wikilink")330毫米（13英寸），额定转速略为提高到每分钟750转，额定功率从1000马力提高到1200马力，单位燃料消耗量为178～179克/有效马力·小时。柴油机重量为16600公斤。
 
 ### 传动系统
 

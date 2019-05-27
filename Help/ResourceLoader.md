@@ -17,4 +17,4 @@
 
 ## 致开发者
 
-目前（1.19）的大致脚本载入顺序为：ResourceLoader小工具（可能为异步载入）、其他小工具、[`MediaWiki:Common.js`](../Page/MediaWiki:Common.js.md "wikilink")和`MediaWiki:`*`skin_name`*`.js`、用户JavaScript、用户组JavaScript，因此在小工具执行时[`MediaWiki:Common.js`](../Page/MediaWiki:Common.js.md "wikilink")中定义的函数可能不存在。目前部分中文维基百科常用函数（包括字词转换的`wgULS`和`wgUVS`）存放于[`MediaWiki:Gadget-site-lib.js`](../Page/MediaWiki:Gadget-site-lib.js.md "wikilink")，若小工具代码中使用了这些函数，应先通过ResourceLoader引入`ext.gadget.site-lib`模块。
+目前（1.19）的大致脚本载入顺序为：ResourceLoader小工具（可能为异步载入）、其他小工具、[`MediaWiki:Common.js`](https://zh.wikipedia.org/wiki/MediaWiki:Common.js "wikilink")和`MediaWiki:`*`skin_name`*`.js`、用户JavaScript、用户组JavaScript，因此在小工具执行时[`MediaWiki:Common.js`](https://zh.wikipedia.org/wiki/MediaWiki:Common.js "wikilink")中定义的函数可能不存在。目前部分中文维基百科常用函数（包括字词转换的`wgULS`和`wgUVS`）存放于[`MediaWiki:Gadget-site-lib.js`](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-site-lib.js "wikilink")，若小工具代码中使用了这些函数，应先通过ResourceLoader引入`ext.gadget.site-lib`模块。

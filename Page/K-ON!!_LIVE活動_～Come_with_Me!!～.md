@@ -111,8 +111,7 @@ Me\!\!～**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wiki
     1.  [Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")
           -
             歌：放課後TEA TIME
-    2.  [Don't say
-        "lazy"](https://zh.wikipedia.org/wiki/Don't_say_"lazy" "wikilink")
+    2.  [Don't say "lazy"](../Page/Don't_say_"lazy".md "wikilink")
           -
             歌：放課後TEA TIME
 23. encore3

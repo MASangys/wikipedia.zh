@@ -25,7 +25,7 @@ radius）的發育，馬德隆畸形症則不會\[6\]。
 
 ## 機制
 
-高達七成的Léri-Weill軟骨骨生成障礙綜合症患者是由基因的缺陷造成的\[7\]。該基因位於[偽體染色體區](../Page/偽體染色體區.md "wikilink")，故在[X染色體和](../Page/X染色體.md "wikilink")[Y染色體上各有一個複本](../Page/Y染色體.md "wikilink")，主要功能為控制身體發育，Léri-Weill軟骨骨生成障礙綜合症的患者因該基因缺陷而導致身材矮小。「SHOX基因」的缺陷造成原本應前後串連的[軟骨細胞側向並排](https://zh.wikipedia.org/wiki/軟骨細胞 "wikilink")，且橈骨細胞內不正常[內生軟骨瘤](https://zh.wikipedia.org/wiki/內生軟骨瘤 "wikilink")（enchondroma）的生成導致[軟骨骨質異常](https://zh.wikipedia.org/wiki/軟骨 "wikilink")，且[月骨](https://zh.wikipedia.org/wiki/月骨 "wikilink")（Lunate
+高達七成的Léri-Weill軟骨骨生成障礙綜合症患者是由基因的缺陷造成的\[7\]。該基因位於[偽體染色體區](../Page/偽體染色體區.md "wikilink")，故在[X染色體和](../Page/X染色體.md "wikilink")[Y染色體上各有一個複本](../Page/Y染色體.md "wikilink")，主要功能為控制身體發育，Léri-Weill軟骨骨生成障礙綜合症的患者因該基因缺陷而導致身材矮小。「SHOX基因」的缺陷造成原本應前後串連的[軟骨細胞側向並排](https://zh.wikipedia.org/wiki/軟骨細胞 "wikilink")，且橈骨細胞內不正常[內生軟骨瘤](https://zh.wikipedia.org/wiki/內生軟骨瘤 "wikilink")（enchondroma）的生成導致[軟骨骨質異常](https://zh.wikipedia.org/wiki/軟骨 "wikilink")，且[月骨](../Page/月骨.md "wikilink")（Lunate
 bone）和橈骨間的[維克多韌帶](https://zh.wikipedia.org/wiki/維克多韌帶 "wikilink")（Vickers
 ligament）和[三角纖維軟骨複合體](https://zh.wikipedia.org/wiki/三角纖維軟骨複合體 "wikilink")（Triangular
 Fibrocartilage

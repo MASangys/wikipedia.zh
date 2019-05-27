@@ -69,8 +69,8 @@ new熊及](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")[Lamigo桃猿期�
 | [奪三振](../Page/三振.md "wikilink")                       | [許文雄](../Page/許文雄.md "wikilink")                      | 436K   | 2004-2009年        |
 | [四死球](https://zh.wikipedia.org/wiki/四死球 "wikilink")   | [許文雄](../Page/許文雄.md "wikilink")                      | 251次   | 2004-2009年        |
 | [四壞球](https://zh.wikipedia.org/wiki/四壞球 "wikilink")   | [許文雄](../Page/許文雄.md "wikilink")                      | 225次   | 2004-2009年        |
-| [故意四壞](https://zh.wikipedia.org/wiki/故意四壞 "wikilink") | [陳禹勳](https://zh.wikipedia.org/wiki/陳禹勳 "wikilink")   | 11次    | 2014-現在           |
-| [中繼成功](https://zh.wikipedia.org/wiki/中繼成功 "wikilink") | [陳禹勳](https://zh.wikipedia.org/wiki/陳禹勳 "wikilink")   | 56次    | 2014-現在           |
+| [故意四壞](https://zh.wikipedia.org/wiki/故意四壞 "wikilink") | [陳禹勳](../Page/陳禹勳.md "wikilink")                      | 11次    | 2014-現在           |
+| [中繼成功](https://zh.wikipedia.org/wiki/中繼成功 "wikilink") | [陳禹勳](../Page/陳禹勳.md "wikilink")                      | 56次    | 2014-現在           |
 | [救援成功](../Page/救援成功.md "wikilink")                    | [許銘倢](../Page/許銘倢.md "wikilink")                      | 51次    | 2009-2015年        |
 | [救援失敗](https://zh.wikipedia.org/wiki/救援失敗 "wikilink") | [曾孟承](../Page/曾孟承.md "wikilink")                      | 15次    | 2009-2016年        |
 | 被安打                                                   | [許文雄](../Page/許文雄.md "wikilink")                      | 613支   | 2004-2009年        |
@@ -303,19 +303,19 @@ new熊及](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")[Lamigo桃猿期�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/故意四壞" title="wikilink">故意四壞</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳禹勳" title="wikilink">陳禹勳</a></p></td>
+<td><p><a href="../Page/陳禹勳.md" title="wikilink">陳禹勳</a></p></td>
 <td><p>7次</p></td>
 <td><p>2014年</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/中繼成功" title="wikilink">中繼成功</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳禹勳" title="wikilink">陳禹勳</a></p></td>
+<td><p><a href="../Page/陳禹勳.md" title="wikilink">陳禹勳</a></p></td>
 <td><p>30次</p></td>
 <td><p>2014年</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/救援成功.md" title="wikilink">救援成功</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳禹勳" title="wikilink">陳禹勳</a></p></td>
+<td><p><a href="../Page/陳禹勳.md" title="wikilink">陳禹勳</a></p></td>
 <td><p>37次</p></td>
 <td><p>2017年</p></td>
 </tr>

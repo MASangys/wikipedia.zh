@@ -32,14 +32,12 @@ C.與安志-{杰}-在2017年10月15日於[夏威夷完婚](https://zh.wikipedia.
 
 ### 電影
 
-  - 2011年，[熱浪球愛戰](https://zh.wikipedia.org/wiki/熱浪球愛戰 "wikilink") 飾
-    Natalie
+  - 2011年，[熱浪球愛戰](../Page/熱浪球愛戰.md "wikilink") 飾 Natalie
   - 2012年，[寶島雙雄](https://zh.wikipedia.org/wiki/寶島雙雄 "wikilink") 飾 V
   - 2014年，[屍城](../Page/屍城.md "wikilink") 飾 Jenny
   - 2015年，[小姐诱心](https://zh.wikipedia.org/wiki/小姐诱心 "wikilink") 飾
   - 2015年，暴走兄弟VS殭屍古惑仔 (網絡電影)
-  - 2016年，[辣警霸王花](https://zh.wikipedia.org/wiki/辣警霸王花 "wikilink") 飾
-    Jessica
+  - 2016年，[辣警霸王花](../Page/辣警霸王花.md "wikilink") 飾 Jessica
 
 ### 電視劇
 

@@ -73,7 +73,7 @@ Marvelous委託的CD總經銷，2011年1月以前為[日本Geneon環球娛樂](h
 
 <!-- end list -->
 
-  - 2016年5月12日，宣布前日本[微软](../Page/微软.md "wikilink")[Xbox事业部经理](https://zh.wikipedia.org/wiki/Xbox "wikilink")[泉水敬将担任](https://zh.wikipedia.org/wiki/泉水敬 "wikilink")[取締役副社長](https://zh.wikipedia.org/wiki/取締役 "wikilink")。\[4\]
+  - 2016年5月12日，宣布前日本[微软](../Page/微软.md "wikilink")[Xbox事业部经理](../Page/Xbox.md "wikilink")[泉水敬将担任](https://zh.wikipedia.org/wiki/泉水敬 "wikilink")[取締役副社長](https://zh.wikipedia.org/wiki/取締役 "wikilink")。\[4\]
 
 ## 旗下公司
 

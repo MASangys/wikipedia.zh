@@ -143,7 +143,7 @@ IE9支援HTML5`canvas`標籤。
 
 ### 網頁排版
 
-IE是第一個支援Web字體的`@font-face`規定的瀏覽器，但早期只支援[嵌入式OpenType格式](https://zh.wikipedia.org/wiki/嵌入式OpenType "wikilink")，而且缺乏支援部分的對CSS3字體模塊\[46\]。IE9完成支援模塊和增加對CSS3字體[WOFF的支援](../Page/Web開放字型格式.md "wikilink")。
+IE是第一個支援Web字體的`@font-face`規定的瀏覽器，但早期只支援[嵌入式OpenType格式](../Page/嵌入式OpenType.md "wikilink")，而且缺乏支援部分的對CSS3字體模塊\[46\]。IE9完成支援模塊和增加對CSS3字體[WOFF的支援](../Page/Web開放字型格式.md "wikilink")。
 
 ## 參考資料
 

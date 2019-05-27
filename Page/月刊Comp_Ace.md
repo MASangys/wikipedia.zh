@@ -38,8 +38,7 @@ Ace和Comptiq所共有。
     -罪與罰與贖的少女-](../Page/11eyes_-罪與罰與贖的少女-.md "wikilink")（原作：[Lass](https://zh.wikipedia.org/wiki/Lass "wikilink")・漫畫：[綾野直人](https://zh.wikipedia.org/wiki/綾野直人 "wikilink")、2009年10月號
     - ）
   - [CANAAN](../Page/CANAAN.md "wikilink")（原作：Project CANAAN・漫畫：
-    [石田晶](https://zh.wikipedia.org/wiki/石田晶 "wikilink")、2009年8月號 -
-    ）
+    [石田晶](../Page/石田晶.md "wikilink")、2009年8月號 - ）
       - （註）2009年8月號刊載序章，本篇從同年9月號開始。
   - [KIDDY GiRL-AND
     pure](https://zh.wikipedia.org/wiki/天使特警 "wikilink")（原作：[gimik](https://zh.wikipedia.org/wiki/gimik "wikilink")・腳本：[木村英文](../Page/木村英文.md "wikilink")・漫畫：[緋賀由香理](../Page/緋賀由香理.md "wikilink")、2009年5月號
@@ -94,7 +93,7 @@ Ace和Comptiq所共有。
   - [Little
     Busters\!](../Page/Little_Busters!.md "wikilink")（原作：[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")・漫畫：[あなぐらもぐら](https://zh.wikipedia.org/wiki/あなぐらもぐら "wikilink")、2008年5月號
     - ）
-  - [幼女戰記](https://zh.wikipedia.org/wiki/幼女戰記 "wikilink")（原作：カルロ・ゼン、企劃原案：篠月しのぶ
+  - [幼女戰記](../Page/幼女戰記.md "wikilink")（原作：カルロ・ゼン、企劃原案：篠月しのぶ
     、漫畫：東條チカ、2016年6月號 - ）
 
 此外也刊載非連載作品的《[Fate/stay
@@ -130,7 +129,7 @@ night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》、《[暮蟬
   - [夕陽染紅的坡道](https://zh.wikipedia.org/wiki/夕陽染紅的坡道 "wikilink")（原作：[feng](https://zh.wikipedia.org/wiki/feng "wikilink")・漫畫：[酒月ほまれ](https://zh.wikipedia.org/wiki/酒月ほまれ "wikilink")、2008年8月號-
     2009年6月號）
   - [Alice Quartet
-    OBBLIGATO](https://zh.wikipedia.org/wiki/AliceQuartet "wikilink")（[MooNPhase](https://zh.wikipedia.org/wiki/MooNPhase "wikilink")・[藤枝雅](https://zh.wikipedia.org/wiki/藤枝雅 "wikilink")・[源久也](https://zh.wikipedia.org/wiki/源久也 "wikilink")、Vol.001
+    OBBLIGATO](https://zh.wikipedia.org/wiki/AliceQuartet "wikilink")（[MooNPhase](https://zh.wikipedia.org/wiki/MooNPhase "wikilink")・[藤枝雅](https://zh.wikipedia.org/wiki/藤枝雅 "wikilink")・[源久也](../Page/源久也.md "wikilink")、Vol.001
     - 2008年1月號）
   - [AR
     〜忘れられた夏〜](https://zh.wikipedia.org/wiki/AR_〜忘れられた夏〜 "wikilink")（原作：[CIRCUS](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")・畫：[虎向ひゅうら](https://zh.wikipedia.org/wiki/虎向ひゅうら "wikilink")、Vol.006

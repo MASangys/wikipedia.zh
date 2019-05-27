@@ -118,7 +118,7 @@ Media是一家在](https://zh.wikipedia.org/wiki/Super_Model_Media "wikilink")[�
   - S Model 92 : 小早川怜子
   - S Model 93 : 河西真琴
   - S Model 94 : 上原結衣
-  - S Model 95 : [尾上若葉](https://zh.wikipedia.org/wiki/尾上若葉 "wikilink")
+  - S Model 95 : [尾上若葉](../Page/尾上若葉.md "wikilink")
   - S Model 96 : 武井もな
   - S Model 97 : 荒木りな
   - S Model 98 : みなみ愛梨(南愛梨)

@@ -3,7 +3,7 @@
 **One Island
 South**，是[香港的一幢](../Page/香港.md "wikilink")[甲級寫字樓](../Page/甲級寫字樓.md "wikilink")，位於[香港島南區](../Page/香港島.md "wikilink")[黃竹坑](../Page/黃竹坑.md "wikilink")，每層約3萬[平方呎](https://zh.wikipedia.org/wiki/平方呎 "wikilink")，全幢總共提供80萬平方呎商業面積，[窗戶為](https://zh.wikipedia.org/wiki/窗戶 "wikilink")[玻璃幕牆](https://zh.wikipedia.org/wiki/玻璃幕牆 "wikilink")，樓層高度3.65米。大樓的發展商為[會德豐地產](../Page/會德豐地產.md "wikilink")，於2011年2月獲[預售樓花同意書](https://zh.wikipedia.org/wiki/預售樓花同意書 "wikilink")，並於2012年正式啟用。One
 Island South
-用戶包括[鐘錶](https://zh.wikipedia.org/wiki/鐘錶 "wikilink")[企業](https://zh.wikipedia.org/wiki/企業 "wikilink")、[服裝](https://zh.wikipedia.org/wiki/服裝 "wikilink")[品牌](../Page/品牌.md "wikilink")、[紅酒](https://zh.wikipedia.org/wiki/紅酒 "wikilink")[商人](../Page/商人.md "wikilink")、[娛樂](https://zh.wikipedia.org/wiki/娛樂 "wikilink")[媒體](https://zh.wikipedia.org/wiki/媒體 "wikilink")、[印刷](../Page/印刷.md "wikilink")、[醫藥](https://zh.wikipedia.org/wiki/醫藥 "wikilink")、[消費品](https://zh.wikipedia.org/wiki/消費品 "wikilink")、[物流及](../Page/物流.md "wikilink")[貿易公司等](https://zh.wikipedia.org/wiki/貿易公司 "wikilink")。
+用戶包括[鐘錶](https://zh.wikipedia.org/wiki/鐘錶 "wikilink")[企業](https://zh.wikipedia.org/wiki/企業 "wikilink")、[服裝](https://zh.wikipedia.org/wiki/服裝 "wikilink")[品牌](../Page/品牌.md "wikilink")、[紅酒](https://zh.wikipedia.org/wiki/紅酒 "wikilink")[商人](../Page/商人.md "wikilink")、[娛樂](../Page/娛樂.md "wikilink")[媒體](https://zh.wikipedia.org/wiki/媒體 "wikilink")、[印刷](../Page/印刷.md "wikilink")、[醫藥](https://zh.wikipedia.org/wiki/醫藥 "wikilink")、[消費品](https://zh.wikipedia.org/wiki/消費品 "wikilink")、[物流及](../Page/物流.md "wikilink")[貿易公司等](https://zh.wikipedia.org/wiki/貿易公司 "wikilink")。
 \[1\] \[2\]
 
 ## 交通

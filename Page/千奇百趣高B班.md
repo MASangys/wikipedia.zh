@@ -1,4 +1,4 @@
-《**千奇百趣高B班**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司向](../Page/電視廣播有限公司.md "wikilink")[日本](../Page/日本.md "wikilink")[朝日電視台購買](../Page/朝日電視台.md "wikilink")[版權而製作的一個](https://zh.wikipedia.org/wiki/版權 "wikilink")[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，以[高清技術拍攝](https://zh.wikipedia.org/wiki/高清 "wikilink")。[節目主持為](https://zh.wikipedia.org/wiki/節目主持 "wikilink")[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")、[阮小儀](../Page/阮小儀.md "wikilink")，助手為[李偉健](../Page/李偉健.md "wikilink")（粉筆）及[陳亭嘉](https://zh.wikipedia.org/wiki/陳亭嘉 "wikilink")（粉刷）。至於旁白，本輯除了[林保全及](../Page/林保全.md "wikilink")[雷碧娜外](../Page/雷碧娜.md "wikilink")，亦有使用其他[配音員](../Page/配音員.md "wikilink")（全為男性路人，而女性路人和小孩則由[雷碧娜負責](../Page/雷碧娜.md "wikilink")），當中包括[陳永信](../Page/陳永信.md "wikilink")、[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")、[梁偉德](../Page/梁偉德.md "wikilink")、[招世亮](../Page/招世亮.md "wikilink")、[朱子聰](../Page/朱子聰.md "wikilink")、[葉振聲](../Page/葉振聲.md "wikilink")、[劉昭文](../Page/劉昭文.md "wikilink")、[陳欣和](../Page/陳欣_\(配音員\).md "wikilink")[蕭徽勇](../Page/蕭徽勇.md "wikilink")。
+《**千奇百趣高B班**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司向](../Page/電視廣播有限公司.md "wikilink")[日本](../Page/日本.md "wikilink")[朝日電視台購買](../Page/朝日電視台.md "wikilink")[版權而製作的一個](https://zh.wikipedia.org/wiki/版權 "wikilink")[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，以[高清技術拍攝](https://zh.wikipedia.org/wiki/高清 "wikilink")。[節目主持為](https://zh.wikipedia.org/wiki/節目主持 "wikilink")[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")、[阮小儀](../Page/阮小儀.md "wikilink")，助手為[李偉健](../Page/李偉健.md "wikilink")（粉筆）及[陳亭嘉](../Page/陳亭嘉.md "wikilink")（粉刷）。至於旁白，本輯除了[林保全及](../Page/林保全.md "wikilink")[雷碧娜外](../Page/雷碧娜.md "wikilink")，亦有使用其他[配音員](../Page/配音員.md "wikilink")（全為男性路人，而女性路人和小孩則由[雷碧娜負責](../Page/雷碧娜.md "wikilink")），當中包括[陳永信](../Page/陳永信.md "wikilink")、[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")、[梁偉德](../Page/梁偉德.md "wikilink")、[招世亮](../Page/招世亮.md "wikilink")、[朱子聰](../Page/朱子聰.md "wikilink")、[葉振聲](../Page/葉振聲.md "wikilink")、[劉昭文](../Page/劉昭文.md "wikilink")、[陳欣和](../Page/陳欣_\(配音員\).md "wikilink")[蕭徽勇](../Page/蕭徽勇.md "wikilink")。
 
 本節目是該台早前播出之《[千奇百趣](../Page/千奇百趣.md "wikilink")》系列之第六輯，並且首次每集播映一小時，以課室為主題，奇趣內容關於日本境內的奇景。節目於2012年2月25日至2012年6月16日，逢星期六[香港時間](../Page/香港時間.md "wikilink")20:30至21:30於[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台播放](../Page/高清翡翠台.md "wikilink")。另外，節目播出後於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。
 
@@ -292,17 +292,15 @@
   - 《[千奇百趣Winter Fun](../Page/千奇百趣Winter_Fun.md "wikilink")》
   - 《[千奇百趣省港澳](../Page/千奇百趣省港澳.md "wikilink")》
   - 《[千奇百趣東南亞](../Page/千奇百趣東南亞.md "wikilink")》
-  - 《[千奇百趣玩FREE
-    D](https://zh.wikipedia.org/wiki/千奇百趣玩FREE_D "wikilink")》
-  - 《[千奇百趣玩HIGH
-    D](https://zh.wikipedia.org/wiki/千奇百趣玩HIGH_D "wikilink")》
-  - 《[千奇百趣特工隊](https://zh.wikipedia.org/wiki/千奇百趣特工隊 "wikilink")》
+  - 《[千奇百趣玩FREE D](../Page/千奇百趣玩FREE_D.md "wikilink")》
+  - 《[千奇百趣玩HIGH D](../Page/千奇百趣玩HIGH_D.md "wikilink")》
+  - 《[千奇百趣特工隊](../Page/千奇百趣特工隊.md "wikilink")》
 
 ## 記事
 
-  - 2012年3月17日：由於播映《[博愛歡樂傳萬家](https://zh.wikipedia.org/wiki/博愛歡樂傳萬家 "wikilink")》，本節目暫停播映一次。
+  - 2012年3月17日：由於播映《[博愛歡樂傳萬家](../Page/博愛歡樂傳萬家.md "wikilink")》，本節目暫停播映一次。
   - 2012年4月14日：由於播映特備節目《[盛女駕到](https://zh.wikipedia.org/wiki/盛女駕到 "wikilink")》，本節目暫停播映一次。
-  - 2012年5月19日：由於播映《[萬眾同心公益金](https://zh.wikipedia.org/wiki/萬眾同心公益金 "wikilink")》，本節目暫停播映一次。
+  - 2012年5月19日：由於播映《[萬眾同心公益金](../Page/萬眾同心公益金.md "wikilink")》，本節目暫停播映一次。
   - 2012年6月16日：因當日的《[六點半新聞報道](../Page/六點半新聞報道.md "wikilink")》直播[神舟九號升空而延至約](https://zh.wikipedia.org/wiki/神舟九號 "wikilink")19:10結束，原定[港台節目及](../Page/香港電台電視節目列表.md "wikilink")《[歐洲國家盃2012至Like一分鐘](https://zh.wikipedia.org/wiki/歐洲國家盃2012 "wikilink")》延遲十多分鐘播出，而《千奇百趣高B班》亦延至約20:40\~21:40播出。
 
 ## 電視節目的變遷

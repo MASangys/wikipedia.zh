@@ -33,7 +33,7 @@ GT在[德國以外的最大](https://zh.wikipedia.org/wiki/德國 "wikilink")[�
 
 [Porsche_Carrera_GT_2.jpg](https://zh.wikipedia.org/wiki/File:Porsche_Carrera_GT_2.jpg "fig:Porsche_Carrera_GT_2.jpg")
 Carrera
-GT有五種基本車身[顏色](https://zh.wikipedia.org/wiki/顏色 "wikilink")，包括衛隊[紅](https://zh.wikipedia.org/wiki/紅 "wikilink")、Fayence[黃](https://zh.wikipedia.org/wiki/黃 "wikilink")、[玄武](../Page/玄武.md "wikilink")[黑](https://zh.wikipedia.org/wiki/黑 "wikilink")、[GT](../Page/GT.md "wikilink")[銀和](https://zh.wikipedia.org/wiki/銀色 "wikilink")[海豹](../Page/海豹.md "wikilink")[灰](https://zh.wikipedia.org/wiki/灰 "wikilink")。客戶也可自行前往工廠定制車身顏色。
+GT有五種基本車身[顏色](https://zh.wikipedia.org/wiki/顏色 "wikilink")，包括衛隊[紅](https://zh.wikipedia.org/wiki/紅 "wikilink")、Fayence[黃](https://zh.wikipedia.org/wiki/黃 "wikilink")、[玄武](../Page/玄武.md "wikilink")[黑](https://zh.wikipedia.org/wiki/黑 "wikilink")、[GT](../Page/GT.md "wikilink")[銀和](https://zh.wikipedia.org/wiki/銀色 "wikilink")[海豹](../Page/海豹.md "wikilink")[灰](../Page/灰.md "wikilink")。客戶也可自行前往工廠定制車身顏色。
 
 和其他[保時捷911車型一樣](https://zh.wikipedia.org/wiki/保時捷911 "wikilink")，Carrera
 GT也裝有可自動升降尾翼，當超過70mph（110km/h）時，尾翼會自動升起。

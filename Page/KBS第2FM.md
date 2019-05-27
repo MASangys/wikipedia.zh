@@ -70,7 +70,7 @@ FM**。是[韩国放送公社](https://zh.wikipedia.org/wiki/韩国放送公社 
   - [李東海](https://zh.wikipedia.org/wiki/东海_\(艺人\) "wikilink")
   - [朴孝珍](https://zh.wikipedia.org/wiki/朴孝珍 "wikilink")
   - [崔江姬](../Page/崔江姬.md "wikilink")
-  - [柳喜烈](https://zh.wikipedia.org/wiki/柳喜烈 "wikilink")
+  - [柳喜烈](../Page/柳喜烈.md "wikilink")
 
 ## 关连项目
 

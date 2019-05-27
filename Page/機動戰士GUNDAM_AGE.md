@@ -263,7 +263,7 @@ A.G.164年，被帶到火星圈的奇奧，在化名「艾殊船長」的阿瑟�
   - 人物設定：[千葉道德](../Page/千葉道德.md "wikilink")
   - 機械設定：[海老川兼武](../Page/海老川兼武.md "wikilink")、[石垣純哉](https://zh.wikipedia.org/wiki/石垣純哉 "wikilink")、[寺岡賢司](https://zh.wikipedia.org/wiki/寺岡賢司 "wikilink")
   - 企画協力：[LEVEL-5](../Page/LEVEL-5.md "wikilink")
-  - 制作協力：[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")、[ADK](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")
+  - 制作協力：[創通](../Page/創通.md "wikilink")、[ADK](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")
   - 製作：[日昇動畫](../Page/日昇動畫.md "wikilink")、[MBS](../Page/每日放送.md "wikilink")
 
 ## 主題曲
@@ -322,7 +322,7 @@ Garden）／歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（La
 
       -
         作詞：[川村結花](https://zh.wikipedia.org/wiki/川村結花 "wikilink")／作曲：[三橋隆幸](https://zh.wikipedia.org/wiki/三橋隆幸 "wikilink")／編曲：[Jin
-        Nakamura](https://zh.wikipedia.org/wiki/Jin_Nakamura "wikilink")／歌：[FLOWER](https://zh.wikipedia.org/wiki/FLOWER "wikilink")（Sony
+        Nakamura](https://zh.wikipedia.org/wiki/Jin_Nakamura "wikilink")／歌：[FLOWER](../Page/FLOWER.md "wikilink")（Sony
         Music Associated Records）
 
   - 插入曲
@@ -417,7 +417,7 @@ Garden）／歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（La
 <td><p>山口晉</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/古田丈司" title="wikilink">古田丈司</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/松川哲也" title="wikilink">松川哲也</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金世俊" title="wikilink">金世俊</a></p></td>
+<td><p><a href="../Page/金世俊.md" title="wikilink">金世俊</a></p></td>
 <td><p>未知敵人（UE）</p></td>
 <td><p>4.4%</p></td>
 <td></td>
@@ -428,7 +428,7 @@ Garden）／歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（La
 <td><p>11月12日</p></td>
 <td></td>
 <td><p>扭曲的殖民衛星</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/兵頭一步" title="wikilink">兵頭一步</a></p></td>
+<td><p><a href="../Page/兵頭一步.md" title="wikilink">兵頭一步</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/角田一樹" title="wikilink">角田一樹</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大貫健一" title="wikilink">大貫健一</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/有澤寬" title="wikilink">有澤寬</a></p></td>
@@ -442,7 +442,7 @@ Garden）／歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（La
 <td><p>11月19日</p></td>
 <td></td>
 <td><p>白狼</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/木村暢" title="wikilink">木村暢</a></p></td>
+<td><p><a href="../Page/木村暢.md" title="wikilink">木村暢</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/酒井和男" title="wikilink">酒井和男</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/牧孝雄" title="wikilink">牧孝雄</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/進藤ケンイチ" title="wikilink">進藤ケンイチ</a></p></td>
@@ -499,7 +499,7 @@ Garden）／歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（La
 <td><p>12月17日</p></td>
 <td></td>
 <td><p>一決生死的統一戰線</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/加瀨充子" title="wikilink">加瀨充子</a></p></td>
+<td><p><a href="../Page/加瀨充子.md" title="wikilink">加瀨充子</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鈴木健一" title="wikilink">鈴木健一</a></p></td>
 <td><p>大貫健一</p></td>
 <td><p>有澤寬</p></td>
@@ -671,7 +671,7 @@ Garden）／歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（La
 <td><p>3月17日</p></td>
 <td></td>
 <td><p>紅色的機動戰士</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/加藤陽一" title="wikilink">加藤陽一</a><br />
+<td><p><a href="../Page/加藤陽一.md" title="wikilink">加藤陽一</a><br />
 日野晃博</p></td>
 <td><p>綿田慎也</p></td>
 <td><p>石野聰</p></td>
@@ -759,7 +759,7 @@ Garden）／歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（La
 <td></td>
 <td><p>地球，那就是伊甸</p></td>
 <td><p>日野晃博</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/長崎健司" title="wikilink">長崎健司</a></p></td>
+<td><p><a href="../Page/長崎健司.md" title="wikilink">長崎健司</a></p></td>
 <td><p>大貫健一</p></td>
 <td><p>有澤寬</p></td>
 <td><p>司令官與參謀</p></td>

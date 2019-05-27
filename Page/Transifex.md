@@ -41,7 +41,7 @@ Transifex能导入并提交到下列版本系统：
   - [UFO: Alien
     Invasion](https://zh.wikipedia.org/wiki/UFO:_Alien_Invasion "wikilink")（不明飛行物：異形入侵）
   - [Xonotic](../Page/Xonotic.md "wikilink")
-  - [Telegram](https://zh.wikipedia.org/wiki/Telegram "wikilink")
+  - [Telegram](../Page/Telegram.md "wikilink")
   - [Coursera](../Page/Coursera.md "wikilink")
 
 ## 参见

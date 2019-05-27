@@ -29,7 +29,7 @@ production_website = }}
 ### 強錫相關
 
   - **[李鐘原](https://zh.wikipedia.org/wiki/李鐘原 "wikilink")** 飾演 **李志碩**
-  - **[延圭真](https://zh.wikipedia.org/wiki/延圭真 "wikilink")** 飾演 **李俊鎬**
+  - **[延圭真](../Page/延圭真.md "wikilink")** 飾演 **李俊鎬**
   - **[成秉淑](../Page/成秉淑.md "wikilink")** 飾演 **宋女士**
   - **[羅映姬](../Page/羅映姬.md "wikilink")** 飾演 **呂貞蘭**
 
@@ -49,7 +49,7 @@ production_website = }}
   - **[李聖旻](../Page/李聖旻.md "wikilink")** 飾演 **孫宗範**
   - **[金炳春](../Page/金炳春.md "wikilink")** 飾演 **李允培**
   - **[趙香基](https://zh.wikipedia.org/wiki/趙香基 "wikilink")** 飾演 **泰純**
-  - **[河戀姝](https://zh.wikipedia.org/wiki/河戀姝 "wikilink")** 飾演 **劉美娜**
+  - **[河戀姝](../Page/河戀姝.md "wikilink")** 飾演 **劉美娜**
   - **[李宗博](https://zh.wikipedia.org/wiki/李宗博 "wikilink")** 飾演 **大博**
 
 ### 其他

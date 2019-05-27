@@ -148,7 +148,7 @@
 <tr class="odd">
 <td><p><a href="../Page/AKB48_東京秋祭.md" title="wikilink">AKB48 東京秋祭</a></p></td>
 <td><p>10月9日、10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/葛西臨海公園" title="wikilink">葛西臨海公園</a></p></td>
+<td><p><a href="../Page/葛西臨海公園.md" title="wikilink">葛西臨海公園</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -711,9 +711,9 @@
 </tr>
 <tr class="odd">
 <td><p>AKB48集團 重溫時間 最佳曲目100 2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藍天會延續到這世界上的哪裡去呢？" title="wikilink">藍天會延續到這世界上的哪裡去呢？</a></p></td>
+<td><p><a href="../Page/藍天會延續到這世界上的哪裡去呢？.md" title="wikilink">藍天會延續到這世界上的哪裡去呢？</a></p></td>
 <td><p>去47個美麗城市</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/青春時鐘" title="wikilink">親密的稱呼</a></p></td>
+<td><p><a href="../Page/青春時鐘.md" title="wikilink">親密的稱呼</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -804,12 +804,12 @@
 **2010年**
 
   - Livejack Special II
-    Stories-Drama×Songs-（2月7日、[大阪城音樂廳](https://zh.wikipedia.org/wiki/大阪城音樂廳 "wikilink")）
+    Stories-Drama×Songs-（2月7日、[大阪城音樂廳](../Page/大阪城音樂廳.md "wikilink")）
     - 板野、北原、小嶋陽、篠田、高城、高橋、前田敦、峯岸、宮崎、秋元、大島優、小野、河西、宮澤、柏木、渡邊麻
   - [Anime Expo 2010](../Page/Anime_Expo.md "wikilink")（7月1日、） -
     倉持、小嶋陽、指原、高城、高橋、前田敦、前田亜、秋元、板野、大島優、小野、仁籐、藤江、峯岸、宮澤、北原
   - Visit Zoo宣傳活動应援項目 AKB48 東京秋祭 supported by
-    NTTplala（10月9日、10日、[葛西臨海公園](https://zh.wikipedia.org/wiki/葛西臨海公園 "wikilink")）
+    NTTplala（10月9日、10日、[葛西臨海公園](../Page/葛西臨海公園.md "wikilink")）
   - Asia Song Festival
     2010（10月23日、[韓国](https://zh.wikipedia.org/wiki/大韓民国 "wikilink")）
   - Anime Festival Asia（11月12日、[新加坡](../Page/新加坡.md "wikilink")、Suntec

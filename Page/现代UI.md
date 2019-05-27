@@ -3,7 +3,7 @@
 **现代UI**\[1\]（），也称\[2\]、，是[微软基于设计語言设计的一种界面风格](../Page/微软.md "wikilink")，此设计已被用于[Windows
 Phone](../Page/Windows_Phone.md "wikilink")、[Windows
 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")、[Xbox
+10](../Page/Windows_10.md "wikilink")、[Xbox
 360等多款微软产品](../Page/Xbox_360.md "wikilink")。\[3\]\[4\]採用微软WP为此设计的標準字体。\[5\]在2012年[Computex
 Taipei大会](https://zh.wikipedia.org/wiki/Computex_Taipei "wikilink")，[微软确认此设计风格会用于](../Page/微软.md "wikilink")[Windows
 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")\[6\]和[Office
@@ -35,7 +35,7 @@ Metro
   - [Windows
     8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[Windows
     8.1](../Page/Windows_8.1.md "wikilink")。\[10\]
-  - [Windows 10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
+  - [Windows 10](../Page/Windows_10.md "wikilink")
   - [Office
     2013](https://zh.wikipedia.org/wiki/Office_2013 "wikilink")。\[11\]
   - [Office 2016](https://zh.wikipedia.org/wiki/Office_2016 "wikilink")
@@ -49,7 +49,7 @@ Metro
 AG）已經對軟件巨擘微軟的「Metro」商標侵權行為採取法律行動。一封要求停止使用「Metro」字眼直至代替字眼或案件結案的備忘錄亦被發送到軟件開發者和微軟員工。\[13\]\[14\]
 
 同月4日，電腦雜誌[PC
-World報導](https://zh.wikipedia.org/wiki/PC_World "wikilink")，微軟將暫時稱其設計語言為「Windows
+World報導](../Page/PC_World.md "wikilink")，微軟將暫時稱其設計語言為「Windows
 8 Style
 UI」，以填補「Metro」暫停使用期間的空白。\[15\]美國雜誌[Wired的Alexandra](https://zh.wikipedia.org/wiki/Wired "wikilink")
 Chang則建議微軟應直接使用「Windows 8」一詞，而非另選其他字眼。\[16\]

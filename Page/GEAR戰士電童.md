@@ -348,7 +348,7 @@
 <td><p>1</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/富田祐弘" title="wikilink">富田祐弘</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小原正和" title="wikilink">小原正和</a></p></td>
+<td><p><a href="../Page/小原正和.md" title="wikilink">小原正和</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/しんぼたくろう" title="wikilink">しんぼたくろう</a></p></td>
 <td><p>中田栄治</p></td>
 <td><ul>
@@ -766,7 +766,7 @@
 <td><p>34</p></td>
 <td><p>{{lang|ja|ゼロ・アタック</p></td>
 <td><p>}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/木村暢" title="wikilink">木村暢</a></p></td>
+<td><p><a href="../Page/木村暢.md" title="wikilink">木村暢</a></p></td>
 <td><p>小野学<br />
 高木茂樹</p></td>
 <td><p>南康宏</p></td>

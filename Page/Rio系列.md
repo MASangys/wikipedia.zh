@@ -10,7 +10,7 @@
 
 ## 沿生
 
-  - **[無雙☆群星大會串](https://zh.wikipedia.org/wiki/無雙☆群星大會串 "wikilink")**（2017年）
+  - **[無雙☆群星大會串](../Page/無雙☆群星大會串.md "wikilink")**（2017年）
 
 <!-- end list -->
 

@@ -93,7 +93,7 @@ Technologies也從Firefox](https://zh.wikipedia.org/wiki/Acadine_Technologies "w
 OS中分支出H5OS。公司創始人[宮力在擔任](https://zh.wikipedia.org/wiki/宮力 "wikilink")[Mozilla公司總裁期間曾負責Firefox](../Page/Mozilla公司.md "wikilink")
 OS的開發\[36\]\[37\]。
 
-一個名為[KaiOS的分支已經應用在一些功能型手機上](https://zh.wikipedia.org/wiki/KaiOS "wikilink")\[38\]\[39\]\[40\]。
+一個名為[KaiOS的分支已經應用在一些功能型手機上](../Page/KaiOS.md "wikilink")\[38\]\[39\]\[40\]。
 
 ## 架構
 
@@ -162,8 +162,7 @@ Firefox OS被移植到下列设备：
   - [Nexus 5](../Page/Nexus_5.md "wikilink")\[58\]
   - [Nexus 7 (2013)](../Page/Nexus_7_\(2013\).md "wikilink") \[59\]
   - Moto G\[60\]
-  - [Sony Xperia
-    Z3](https://zh.wikipedia.org/wiki/Sony_Xperia_Z3 "wikilink")\[61\]
+  - [Sony Xperia Z3](../Page/Sony_Xperia_Z3.md "wikilink")\[61\]
   - [Sony Xperia T2
     Ultra](https://zh.wikipedia.org/wiki/Sony_Xperia_T2_Ultra "wikilink")\[62\]
 

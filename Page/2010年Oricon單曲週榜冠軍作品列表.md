@@ -257,7 +257,7 @@
 </tr>
 <tr class="odd">
 <td><p>9月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LIFE～朝著眼前的方向～" title="wikilink">LIFE～朝著眼前的方向～</a></p></td>
+<td><p><a href="../Page/LIFE～朝著眼前的方向～.md" title="wikilink">LIFE～朝著眼前的方向～</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>25.6</p></td>
 <td><p>1</p></td>

@@ -68,7 +68,7 @@
   -
     製作：[吉田健二](https://zh.wikipedia.org/wiki/吉田健二 "wikilink")
     企劃：[吉田健二](https://zh.wikipedia.org/wiki/吉田健二 "wikilink")、鳥海尽三
-    原作：[吉田龍夫](https://zh.wikipedia.org/wiki/吉田龍夫 "wikilink")
+    原作：[吉田龍夫](../Page/吉田龍夫.md "wikilink")
     人物設定：[九里一平](https://zh.wikipedia.org/wiki/九里一平 "wikilink")、[天野嘉孝](https://zh.wikipedia.org/wiki/天野嘉孝 "wikilink")（現‧喜孝）、[高田明美](../Page/高田明美.md "wikilink")
     美術設定：[中村光毅](https://zh.wikipedia.org/wiki/中村光毅 "wikilink")
     機械設定：[大河原邦男](../Page/大河原邦男.md "wikilink")

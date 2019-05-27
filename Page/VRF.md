@@ -50,17 +50,17 @@ Four**的意思，第二個是V「**R**」「**4**」，因為四位成員的英
 
 ## 派台歌曲成績
 
-| **派台歌曲上榜最高位置**                                                  |
-| --------------------------------------------------------------- |
-| 唱片                                                              |
-| **2000年**                                                       |
-| [VRF](https://zh.wikipedia.org/wiki/VRF_\(EP\) "wikilink")      |
-| VRF                                                             |
-| **2001年**                                                       |
-| VRF                                                             |
-| [New World](https://zh.wikipedia.org/wiki/New_World "wikilink") |
-| New World                                                       |
-| New World                                                       |
+| **派台歌曲上榜最高位置**                               |
+| -------------------------------------------- |
+| 唱片                                           |
+| **2000年**                                    |
+| [VRF](../Page/VRF_\(EP\).md "wikilink")      |
+| VRF                                          |
+| **2001年**                                    |
+| VRF                                          |
+| [New World](../Page/New_World.md "wikilink") |
+| New World                                    |
+| New World                                    |
 
 | **各台冠軍歌總數** |
 | ----------- |

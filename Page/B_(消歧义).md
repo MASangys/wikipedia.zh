@@ -31,7 +31,7 @@
   - [靶恩](../Page/靶恩.md "wikilink")（b），一种[面积单位](../Page/面积.md "wikilink")。1靶=10<sup>−28</sup>平方米。
   - **B**，表示[磁場](../Page/磁場.md "wikilink")。
   - B，[转动常数](https://zh.wikipedia.org/wiki/转动常数 "wikilink")。
-  - B，第二[维里系数](https://zh.wikipedia.org/wiki/维里系数 "wikilink")。
+  - B，第二[维里系数](../Page/维里系数.md "wikilink")。
   - B，[电纳](https://zh.wikipedia.org/wiki/电纳 "wikilink")。
   - B，贝。参见[分贝](https://zh.wikipedia.org/wiki/分贝 "wikilink")。
   - B、B+、B-，表示[对流可用位能的](https://zh.wikipedia.org/wiki/对流可用位能 "wikilink")[浮力](../Page/浮力.md "wikilink")。

@@ -63,7 +63,7 @@ Remember Me（要記得我）」的縮寫，這樣一說就更有意思了。
 </tr>
 <tr class="even">
 <td><p>最佳编剧</p></td>
-<td><p><a href="../Page/韋家輝.md" title="wikilink">韋家輝</a>、<a href="../Page/游乃海.md" title="wikilink">游乃海</a>、<a href="https://zh.wikipedia.org/wiki/陳偉斌" title="wikilink">陳偉斌</a>、<a href="https://zh.wikipedia.org/wiki/歐文傑" title="wikilink">歐文傑</a></p></td>
+<td><p><a href="../Page/韋家輝.md" title="wikilink">韋家輝</a>、<a href="../Page/游乃海.md" title="wikilink">游乃海</a>、<a href="https://zh.wikipedia.org/wiki/陳偉斌" title="wikilink">陳偉斌</a>、<a href="../Page/歐文傑.md" title="wikilink">歐文傑</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -90,7 +90,7 @@ Remember Me（要記得我）」的縮寫，這樣一說就更有意思了。
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/第13屆華語電影傳媒大獎" title="wikilink">第13屆華語電影傳媒大獎</a></p></td>
 <td><p>最佳编剧</p></td>
-<td><p><a href="../Page/韋家輝.md" title="wikilink">韋家輝</a>、<a href="../Page/游乃海.md" title="wikilink">游乃海</a>、<a href="https://zh.wikipedia.org/wiki/陳偉斌" title="wikilink">陳偉斌</a>、<a href="https://zh.wikipedia.org/wiki/歐文傑" title="wikilink">歐文傑</a></p></td>
+<td><p><a href="../Page/韋家輝.md" title="wikilink">韋家輝</a>、<a href="../Page/游乃海.md" title="wikilink">游乃海</a>、<a href="https://zh.wikipedia.org/wiki/陳偉斌" title="wikilink">陳偉斌</a>、<a href="../Page/歐文傑.md" title="wikilink">歐文傑</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

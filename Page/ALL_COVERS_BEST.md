@@ -34,7 +34,7 @@ BEST](../Page/ALL_SINGLES_BEST_\(可苦可樂專輯\).md "wikilink")》（銷量
     again](https://zh.wikipedia.org/wiki/Alone_Again_\(Naturally\) "wikilink")
     （[吉爾伯特·奧沙利文](https://zh.wikipedia.org/wiki/吉爾伯特·奧沙利文 "wikilink")）
 6.  [遠距離戀愛的副歌](https://zh.wikipedia.org/wiki/夏末_～Acoustic_Version～ "wikilink")
-    （[T-BOLAN](https://zh.wikipedia.org/wiki/T-BOLAN "wikilink")）
+    （[T-BOLAN](../Page/T-BOLAN.md "wikilink")）
 7.  [另一個星期六](https://zh.wikipedia.org/wiki/J.BOY_\(專輯\) "wikilink")
     （[濱田省吾](https://zh.wikipedia.org/wiki/濱田省吾 "wikilink")）
 8.  [The Thrill is

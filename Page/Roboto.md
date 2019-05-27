@@ -26,7 +26,7 @@ Sandwich"及後續版本的默认字型](https://zh.wikipedia.org/wiki/Android�
 2014年6月25日，[Matias
 Duarte在](https://zh.wikipedia.org/wiki/Matias_Duarte "wikilink")[Google
 I/O宣布Roboto字体为了](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")[Android
-Lollipop而被大幅度的重新设计](https://zh.wikipedia.org/wiki/Android_Lollipop "wikilink")，这是系统默认字型的最新版本。新的版本已经在Google
+Lollipop而被大幅度的重新设计](../Page/Android_Lollipop.md "wikilink")，这是系统默认字型的最新版本。新的版本已经在Google
 Design网站上提供\[12\]。在字形中有着最明显的改变的字有B（收缩）、R、P、a（膨胀空间）、D、O、e、g、（弯曲）k和数字1、5、6、7、和9。此外，[标点符号与在](../Page/标点符号.md "wikilink")[小写字母i和j裡的小点已经从方点改变成圆点](https://zh.wikipedia.org/wiki/小写字母 "wikilink")。
 
 ## 衍生字体

@@ -116,7 +116,7 @@ STORY在](https://zh.wikipedia.org/wiki/BOY_STORY "wikilink")[中國出道並公
 ### 2019年－2020年：擴展事務
 
 1月14日表示新女團出道MV已拍攝完成，正進行最後出道準備，出道時間、團名及成員會再公開。\[59\]\[60\]\[61\]\[62\]
-1月20日，官方網站開啟，官方YouTube頻道上傳\[63\]，公開新女團「[ITZY](https://zh.wikipedia.org/wiki/ITZY "wikilink")」，同日《[超級實習生](https://zh.wikipedia.org/wiki/超級實習生 "wikilink")》節目首播，為選拔和晉用實習生的實鏡節目，在6週實習結束後，合格者可成為JYP娛樂的正式員工\[64\]\[65\]，負責藝人[行銷管理部門](../Page/行銷管理.md "wikilink")。
+1月20日，官方網站開啟，官方YouTube頻道上傳\[63\]，公開新女團「[ITZY](../Page/ITZY.md "wikilink")」，同日《[超級實習生](../Page/超級實習生.md "wikilink")》節目首播，為選拔和晉用實習生的實鏡節目，在6週實習結束後，合格者可成為JYP娛樂的正式員工\[64\]\[65\]，負責藝人[行銷管理部門](../Page/行銷管理.md "wikilink")。
 
 2月7日，公開與日本[Sony
 Music合作](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")，展開「Nizi（彩虹）計畫」，將在日本各地及[夏威夷和](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")[洛杉磯舉辦甄選](../Page/洛杉矶.md "wikilink")，最後將在東京選出年齡15至22實歲，有日語能力的20位女孩，自10月起為2020年4月播出的新選秀節目錄影，將赴韓國JYP進行6個月舞蹈、歌唱、體能、藝能及品格培訓，預定於2020年11月，以J-Pop女團型態在日本出道。\[66\]
@@ -133,7 +133,7 @@ Music合作](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")，展開「Niz
     地址：275 Seventh Ave. Suite\#736 New York
   - JYP Pictures
     Corporation（[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")）
-    地址：[首爾市](https://zh.wikipedia.org/wiki/首爾 "wikilink")[江南區島山大路](../Page/江南區_\(首爾\).md "wikilink")537號Woon-chon
+    地址：[首爾市](../Page/首爾.md "wikilink")[江南區島山大路](../Page/江南區_\(首爾\).md "wikilink")537號Woon-chon
     Building 4層
   - JYP Publishing
     Corp.（[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")）
@@ -159,14 +159,14 @@ Music合作](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")，展開「Niz
     地址：8W 36TH Street New York
   - AQ
     Entertainment（[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")）
-    地址：[首爾特別市](https://zh.wikipedia.org/wiki/首爾 "wikilink")[江南區清潭洞](../Page/江南區_\(首爾\).md "wikilink")123-49號3樓
+    地址：[首爾特別市](../Page/首爾.md "wikilink")[江南區清潭洞](../Page/江南區_\(首爾\).md "wikilink")123-49號3樓
   - JYP娛樂（舊址）（[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")）
-    地址：[首爾特別市](https://zh.wikipedia.org/wiki/首爾 "wikilink")[江南區](../Page/江南區_\(首爾\).md "wikilink")(清潭洞)狎鷗亭路79街41號（配合企業總部搬遷作業陸續遷出）
+    地址：[首爾特別市](../Page/首爾.md "wikilink")[江南區](../Page/江南區_\(首爾\).md "wikilink")(清潭洞)狎鷗亭路79街41號（配合企業總部搬遷作業陸續遷出）
   - JYP娛樂（舊址）（[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")）
-    地址：[首爾特別市](https://zh.wikipedia.org/wiki/首爾 "wikilink")[江南區](../Page/江南區_\(首爾\).md "wikilink")(清潭洞)島山大路537號3樓（配合企業總部搬遷作業陸續遷出）
+    地址：[首爾特別市](../Page/首爾.md "wikilink")[江南區](../Page/江南區_\(首爾\).md "wikilink")(清潭洞)島山大路537號3樓（配合企業總部搬遷作業陸續遷出）
   - JYP
     Publishing（舊址）（[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")）
-    地址：[首爾特別市](https://zh.wikipedia.org/wiki/首爾 "wikilink")[江南區狎鷗亭路](../Page/江南區_\(首爾\).md "wikilink")79街41號JYP中心（配合企業總部搬遷作業陸續遷出）
+    地址：[首爾特別市](../Page/首爾.md "wikilink")[江南區狎鷗亭路](../Page/江南區_\(首爾\).md "wikilink")79街41號JYP中心（配合企業總部搬遷作業陸續遷出）
   - JYP娛樂版權流通公司：2018年與[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")(簡稱[索尼音樂](https://zh.wikipedia.org/wiki/索尼音樂 "wikilink")，即[Sony
     Music](https://zh.wikipedia.org/wiki/Sony_Music "wikilink"))旗下版權流通公司[The
     Orchard達成全球流通業務代理的合作協議](https://zh.wikipedia.org/wiki/The_Orchard_\(company\) "wikilink")（不包含中國大陸地區），階段性任務告結而結束營業。
@@ -241,8 +241,8 @@ Music合作](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")，展開「Niz
 <td><p>2014年10月22日</p></td>
 <td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
 <td><p>男</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/段宜恩" title="wikilink">Mark</a>{{•}}<strong><a href="../Page/林在範.md" title="wikilink">JB</a></strong>{{•}}<a href="../Page/王嘉爾.md" title="wikilink">Jackson</a>{{•}}<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a><br />
-<a href="../Page/崔榮宰.md" title="wikilink">榮宰</a>{{•}}<a href="../Page/BamBam.md" title="wikilink">BamBam</a>{{•}}<a href="https://zh.wikipedia.org/wiki/金有謙" title="wikilink">有謙</a></p></td>
+<td><p><a href="../Page/段宜恩.md" title="wikilink">Mark</a>{{•}}<strong><a href="../Page/林在範.md" title="wikilink">JB</a></strong>{{•}}<a href="../Page/王嘉爾.md" title="wikilink">Jackson</a>{{•}}<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a><br />
+<a href="../Page/崔榮宰.md" title="wikilink">榮宰</a>{{•}}<a href="../Page/BamBam.md" title="wikilink">BamBam</a>{{•}}<a href="../Page/金有謙.md" title="wikilink">有謙</a></p></td>
 <td><p>I GOT7</p></td>
 <td><p>綠色</p></td>
 </tr>
@@ -260,7 +260,7 @@ Music合作](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")，展開「Niz
 <td><p>2017年6月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td><p>女</p></td>
-<td><p><a href="../Page/娜璉.md" title="wikilink">娜璉</a>{{•}}<a href="https://zh.wikipedia.org/wiki/定延" title="wikilink">定延</a>{{•}}<a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a>{{•}}<a href="../Page/Sana_(TWICE).md" title="wikilink">Sana</a>{{•}}<strong><a href="../Page/志效.md" title="wikilink">志效</a></strong><br />
+<td><p><a href="../Page/娜璉.md" title="wikilink">娜璉</a>{{•}}<a href="../Page/定延.md" title="wikilink">定延</a>{{•}}<a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a>{{•}}<a href="../Page/Sana_(TWICE).md" title="wikilink">Sana</a>{{•}}<strong><a href="../Page/志效.md" title="wikilink">志效</a></strong><br />
 <a href="../Page/Mina_(TWICE).md" title="wikilink">Mina</a>{{•}}<a href="../Page/多賢.md" title="wikilink">多賢</a>{{•}}<a href="../Page/彩瑛.md" title="wikilink">彩瑛</a>{{•}}<a href="../Page/周子瑜.md" title="wikilink">子瑜</a></p></td>
 <td><p>ONCE</p></td>
 <td><p>杏桃黃<br />
@@ -271,17 +271,17 @@ Music合作](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")，展開「Niz
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Stray_Kids" title="wikilink">Stray Kids</a></p></td>
 <td><p>男</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宇珍" title="wikilink">宇珍</a>{{•}}<strong><a href="https://zh.wikipedia.org/wiki/方燦" title="wikilink">方燦</a></strong>{{•}}<a href="https://zh.wikipedia.org/wiki/李旻浩" title="wikilink">Lee Know</a>{{•}}<a href="https://zh.wikipedia.org/wiki/彰彬" title="wikilink">彰彬</a>{{•}}<a href="https://zh.wikipedia.org/wiki/鉉辰" title="wikilink">鉉辰</a><br />
-<a href="https://zh.wikipedia.org/wiki/韓知城" title="wikilink">Han</a>{{•}}<a href="https://zh.wikipedia.org/wiki/Felix_(Stray_Kids)" title="wikilink">Felix</a>{{•}}<a href="https://zh.wikipedia.org/wiki/昇玟" title="wikilink">昇玟</a>{{•}}<a href="https://zh.wikipedia.org/wiki/梁精寅" title="wikilink">I.N</a></p></td>
+<td><p><a href="../Page/宇珍.md" title="wikilink">宇珍</a>{{•}}<strong><a href="https://zh.wikipedia.org/wiki/方燦" title="wikilink">方燦</a></strong>{{•}}<a href="../Page/李旻浩.md" title="wikilink">Lee Know</a>{{•}}<a href="../Page/彰彬.md" title="wikilink">彰彬</a>{{•}}<a href="../Page/鉉辰.md" title="wikilink">鉉辰</a><br />
+<a href="../Page/韓知城.md" title="wikilink">Han</a>{{•}}<a href="../Page/Felix_(Stray_Kids).md" title="wikilink">Felix</a>{{•}}<a href="../Page/昇玟.md" title="wikilink">昇玟</a>{{•}}<a href="../Page/梁精寅.md" title="wikilink">I.N</a></p></td>
 <td><p>STAY</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2019年2月12日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ITZY" title="wikilink">ITZY</a></p></td>
+<td><p><a href="../Page/ITZY.md" title="wikilink">ITZY</a></p></td>
 <td><p>女</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/黃禮志" title="wikilink">禮志</a></strong>{{•}}<a href="https://zh.wikipedia.org/wiki/崔智秀" title="wikilink">Lia</a>{{•}}<a href="https://zh.wikipedia.org/wiki/申留眞" title="wikilink">留眞</a>{{•}}<a href="https://zh.wikipedia.org/wiki/李彩領" title="wikilink">彩領</a>{{•}}<a href="https://zh.wikipedia.org/wiki/申有娜" title="wikilink">有娜</a></p></td>
+<td><p><strong><a href="../Page/黃禮志.md" title="wikilink">禮志</a></strong>{{•}}<a href="../Page/崔智秀.md" title="wikilink">Lia</a>{{•}}<a href="../Page/申留眞.md" title="wikilink">留眞</a>{{•}}<a href="../Page/李彩領.md" title="wikilink">彩領</a>{{•}}<a href="../Page/申有娜.md" title="wikilink">有娜</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -338,21 +338,21 @@ Music合作](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")，展開「Niz
 <tr class="odd">
 <td><p>2019年3月5日</p></td>
 <td><p>2019年4月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/JUS2" title="wikilink">JUS2</a></p></td>
+<td><p><a href="../Page/JUS2.md" title="wikilink">JUS2</a></p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/林在範.md" title="wikilink">JB</a>{{•}}<strong><a href="https://zh.wikipedia.org/wiki/金有謙" title="wikilink">有謙</a></strong></p></td>
+<td><p><a href="../Page/林在範.md" title="wikilink">JB</a>{{•}}<strong><a href="../Page/金有謙.md" title="wikilink">有謙</a></strong></p></td>
 <td><p>{{N/A|—</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/3RACHA" title="wikilink">3RACHA</a></p></td>
+<td><p><a href="../Page/3RACHA.md" title="wikilink">3RACHA</a></p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/方燦" title="wikilink">方燦</a>{{•}}<a href="https://zh.wikipedia.org/wiki/彰彬" title="wikilink">彰彬</a>{{•}}<a href="https://zh.wikipedia.org/wiki/韓知城" title="wikilink">Han</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/方燦" title="wikilink">方燦</a>{{•}}<a href="../Page/彰彬.md" title="wikilink">彰彬</a>{{•}}<a href="../Page/韓知城.md" title="wikilink">Han</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -537,7 +537,7 @@ Music合作](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")，展開「Niz
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金東希" title="wikilink">金東希</a></p></td>
+<td><p><a href="../Page/金東希.md" title="wikilink">金東希</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>女演員</strong></p></td>
@@ -546,7 +546,7 @@ Music合作](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")，展開「Niz
 <td><p><a href="../Page/金志珉.md" title="wikilink">金志珉</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴珪瑛" title="wikilink">朴珪瑛</a></p></td>
+<td><p><a href="../Page/朴珪瑛.md" title="wikilink">朴珪瑛</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -683,7 +683,7 @@ Yun Seo Bin</p></td>
 
       - [金泰宇](../Page/金泰宇.md "wikilink")（1998 - 2006）
       - [孫昊永](../Page/孫昊永.md "wikilink")（2003 - 2006）
-      - [朴俊炯](https://zh.wikipedia.org/wiki/朴俊炯 "wikilink")（2003 - 2006）
+      - [朴俊炯](../Page/朴俊炯.md "wikilink")（2003 - 2006）
 
   - [朴志胤](../Page/朴志胤.md "wikilink")（2000 － 2003）
 
@@ -756,11 +756,11 @@ Yun Seo Bin</p></td>
 
   - [0086男團](https://zh.wikipedia.org/wiki/0086男團 "wikilink")
       - 李詩琦
-  - [AB6IX](https://zh.wikipedia.org/wiki/AB6IX "wikilink")
-      - [朴佑鎮](https://zh.wikipedia.org/wiki/朴佑鎮 "wikilink")
-      - [李大輝](https://zh.wikipedia.org/wiki/李大輝 "wikilink")
-      - [金東賢](https://zh.wikipedia.org/wiki/金東賢 "wikilink")
-      - [全雄](https://zh.wikipedia.org/wiki/全雄 "wikilink")
+  - [AB6IX](../Page/AB6IX.md "wikilink")
+      - [朴佑鎮](../Page/朴佑鎮.md "wikilink")
+      - [李大輝](../Page/李大輝.md "wikilink")
+      - [金東賢](../Page/金東賢.md "wikilink")
+      - [全雄](../Page/全雄.md "wikilink")
   - [A.C.E](https://zh.wikipedia.org/wiki/A.C.E "wikilink")
       - 金柄官
       - 康裕瓚
@@ -773,15 +773,14 @@ Yun Seo Bin</p></td>
   - [Boyfriend](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")
       - [趙榮旻](https://zh.wikipedia.org/wiki/趙榮旻 "wikilink")
       - [趙光旻](https://zh.wikipedia.org/wiki/趙光旻 "wikilink")
-  - [少年共和國](https://zh.wikipedia.org/wiki/少年共和國 "wikilink")
+  - [少年共和國](../Page/少年共和國.md "wikilink")
       - 朴成俊
   - [BTOB](../Page/BTOB.md "wikilink")
       - [李旼赫](../Page/李旼赫.md "wikilink")
       - [辛東根](../Page/辛東根.md "wikilink")
-  - [D1CE](https://zh.wikipedia.org/wiki/D1CE "wikilink")
+  - [D1CE](../Page/D1CE.md "wikilink")
       - 禹眞榮
-  - [Golden
-    Child](https://zh.wikipedia.org/wiki/Golden_Child "wikilink")
+  - [Golden Child](../Page/Golden_Child.md "wikilink")
       - 裴勝民
   - [Highlight](https://zh.wikipedia.org/wiki/Highlight_\(韓國組合\) "wikilink")
       - [尹斗俊](../Page/尹斗俊.md "wikilink")
@@ -789,8 +788,8 @@ Yun Seo Bin</p></td>
       - [李起光](../Page/李起光.md "wikilink")
       - [孫東雲](../Page/孫東雲.md "wikilink")
   - [HOTSHOT](../Page/HOTSHOT.md "wikilink")
-      - [河成雲](https://zh.wikipedia.org/wiki/河成雲 "wikilink")
-  - [IM66](https://zh.wikipedia.org/wiki/IM66 "wikilink")
+      - [河成雲](../Page/河成雲.md "wikilink")
+  - [IM66](../Page/IM66.md "wikilink")
       - 鄭棋釋
       - 文太垠
   - [KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")
@@ -802,17 +801,17 @@ Yun Seo Bin</p></td>
   - [MYNAME](../Page/MYNAME.md "wikilink")
       - [金世容](https://zh.wikipedia.org/wiki/金世容 "wikilink")
   - [ONEUS](https://zh.wikipedia.org/wiki/ONEUS "wikilink")
-      - [金英助](https://zh.wikipedia.org/wiki/金英助 "wikilink")
+      - [金英助](../Page/金英助.md "wikilink")
   - [ONF](https://zh.wikipedia.org/wiki/ONF "wikilink")
       - 水口裕斗
   - [Pentagon](../Page/Pentagon_\(男子組合\).md "wikilink")
       - [李會澤](../Page/李會澤.md "wikilink")
       - [安達祐人](https://zh.wikipedia.org/wiki/安達祐人 "wikilink")
-  - [RAINZ](https://zh.wikipedia.org/wiki/RAINZ "wikilink")
+  - [RAINZ](../Page/RAINZ.md "wikilink")
       - 李基遠
   - [U-KISS](../Page/U-KISS.md "wikilink")
       - [申秀鉉](https://zh.wikipedia.org/wiki/申秀鉉 "wikilink")
-  - [ZE:A](https://zh.wikipedia.org/wiki/ZE:A "wikilink")
+  - [ZE:A](../Page/ZE:A.md "wikilink")
       - [旼佑](../Page/旼佑.md "wikilink")
 
 <!-- end list -->
@@ -838,25 +837,25 @@ Yun Seo Bin</p></td>
 
       - [李娜恩](https://zh.wikipedia.org/wiki/李娜恩 "wikilink")
 
-  - [BESTie](https://zh.wikipedia.org/wiki/BESTie "wikilink")
+  - [BESTie](../Page/BESTie.md "wikilink")
 
       - [鄭有智](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")
       - [羅海嶺](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink")
 
-  - [BONUSbaby](https://zh.wikipedia.org/wiki/BONUSbaby "wikilink")
+  - [BONUSbaby](../Page/BONUSbaby.md "wikilink")
 
-      - [崔玟熙](https://zh.wikipedia.org/wiki/崔玟熙 "wikilink")
+      - [崔玟熙](../Page/崔玟熙.md "wikilink")
 
-  - [EVERGLOW](https://zh.wikipedia.org/wiki/EVERGLOW "wikilink")
+  - [EVERGLOW](../Page/EVERGLOW.md "wikilink")
 
-      - [許庚琳](https://zh.wikipedia.org/wiki/EVERGLOW "wikilink")
+      - [許庚琳](../Page/EVERGLOW.md "wikilink")
 
   - [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")
 
       - [哈妮](../Page/哈妮.md "wikilink")
       - [正花](../Page/正花.md "wikilink")
 
-  - [FANATICS](https://zh.wikipedia.org/wiki/FANATICS "wikilink")
+  - [FANATICS](../Page/FANATICS.md "wikilink")
 
       - Hyewon
       - Rensika
@@ -870,9 +869,9 @@ Yun Seo Bin</p></td>
       - [朴池原](https://zh.wikipedia.org/wiki/朴池原 "wikilink")
       - [李采映](https://zh.wikipedia.org/wiki/李采映 "wikilink")
 
-  - [IZ\*ONE](https://zh.wikipedia.org/wiki/IZ*ONE "wikilink")
+  - [IZ\*ONE](../Page/IZ*ONE.md "wikilink")
 
-      - [李彩演](https://zh.wikipedia.org/wiki/李彩演 "wikilink")
+      - [李彩演](../Page/李彩演.md "wikilink")
 
   - LadyBees（[蜜蜂少女隊](https://zh.wikipedia.org/wiki/蜜蜂少女隊_LadyBees "wikilink")）
 
@@ -884,7 +883,7 @@ Yun Seo Bin</p></td>
 
       - [鄭叡仁](../Page/鄭叡仁.md "wikilink")
 
-  - [MOMOLAND](https://zh.wikipedia.org/wiki/MOMOLAND "wikilink")
+  - [MOMOLAND](../Page/MOMOLAND.md "wikilink")
 
       - 柳貞安
 
@@ -900,12 +899,11 @@ Yun Seo Bin</p></td>
 
       - 朴海潾
 
-  - [THE PINK
-    LADY](https://zh.wikipedia.org/wiki/THE_PINK_LADY "wikilink")
+  - [THE PINK LADY](../Page/THE_PINK_LADY.md "wikilink")
 
       - 黃友琳
 
-  - [WANNA.B](https://zh.wikipedia.org/wiki/WANNA.B "wikilink")
+  - [WANNA.B](../Page/WANNA.B.md "wikilink")
 
       - 鄭知妍
 
@@ -964,7 +962,7 @@ Yun Seo Bin</p></td>
 
   - [表藝珍](https://zh.wikipedia.org/wiki/表藝珍 "wikilink")
 
-  - [宋妍霏](https://zh.wikipedia.org/wiki/宋妍霏 "wikilink")
+  - [宋妍霏](../Page/宋妍霏.md "wikilink")
 
   -
   - [姚偉濤](https://zh.wikipedia.org/wiki/姚偉濤 "wikilink")
@@ -977,8 +975,7 @@ Yun Seo Bin</p></td>
 
   - 《熱血男兒》
       - 林代憲
-  - 《[PRODUCE X
-    101](https://zh.wikipedia.org/wiki/PRODUCE_X_101 "wikilink")》
+  - 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》
       - 黃金率
   - 《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》
       - 宋敏英
@@ -988,9 +985,9 @@ Yun Seo Bin</p></td>
       - 金恩潔
   - 《[創造101](https://zh.wikipedia.org/wiki/創造101 "wikilink")》
       - [陳芳語](https://zh.wikipedia.org/wiki/陳芳語 "wikilink")
-  - 《[青春有你](https://zh.wikipedia.org/wiki/青春有你 "wikilink")》
+  - 《[青春有你](../Page/青春有你.md "wikilink")》
       - [文鄴辰](https://zh.wikipedia.org/wiki/文鄴辰 "wikilink")
-  - 《[創造營2019](https://zh.wikipedia.org/wiki/創造營2019 "wikilink")》
+  - 《[創造營2019](../Page/創造營2019.md "wikilink")》
       - [姚琛](https://zh.wikipedia.org/wiki/姚琛 "wikilink")
 
 ## JYP Nation
@@ -1006,19 +1003,19 @@ Yun Seo Bin</p></td>
 | 日期                            | 舉辦城市                                              | 舉行地點                                                                |
 | ----------------------------- | ------------------------------------------------- | ------------------------------------------------------------------- |
 | JYP NATION 2010 "TEAM PLAY"   |                                                   |                                                                     |
-| 2010年12月24日                   | [首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink") | [首爾奧林匹克體操競技場](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink") |
+| 2010年12月24日                   | [首爾](../Page/首爾.md "wikilink")                    | [首爾奧林匹克體操競技場](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink") |
 | JYP NATION 2011               |                                                   |                                                                     |
 | 2011年8月17日-18日                | [埼玉](../Page/埼玉縣.md "wikilink")                   | [埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")                            |
 | JYP NATION 2012               |                                                   |                                                                     |
-| 2012年8月4日                     | [首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink") | [首爾奧林匹克體操競技場](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink") |
+| 2012年8月4日                     | [首爾](../Page/首爾.md "wikilink")                    | [首爾奧林匹克體操競技場](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink") |
 | 2012年8月18日-19日                | [東京](https://zh.wikipedia.org/wiki/東京 "wikilink") | 國立代代木競技場第一體育館                                                       |
 | JYP NATION 2014 "ONE MIC"     |                                                   |                                                                     |
-| 2014年8月9日-10日                 | [首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink") | 首爾蠶室體育館                                                             |
+| 2014年8月9日-10日                 | [首爾](../Page/首爾.md "wikilink")                    | 首爾蠶室體育館                                                             |
 | 2014年8月30日                    | [香港](../Page/香港.md "wikilink")                    | [亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")                            |
 | 2014年9月5日-7日                  | [東京](https://zh.wikipedia.org/wiki/東京 "wikilink") | 國立代代木競技場第一體育館                                                       |
 | 2014年12月13日                   | [曼谷](../Page/曼谷.md "wikilink")                    | Impact Arena,Muang Thong Thani                                      |
 | JYP NATION 2016 "Mix & Match" |                                                   |                                                                     |
-| 2016年8月6日-7日                  | [首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink") | 首爾蠶室體育館                                                             |
+| 2016年8月6日-7日                  | [首爾](../Page/首爾.md "wikilink")                    | 首爾蠶室體育館                                                             |
 | 2016年9月2日-4日                  | [東京](https://zh.wikipedia.org/wiki/東京 "wikilink") | 國立代代木競技場第一體育館                                                       |
 
 ### 電影
@@ -1030,11 +1027,8 @@ Yun Seo Bin</p></td>
   - 2011年: KBS2《[夢想起飛Dream High](../Page/夢想起飛Dream_High.md "wikilink")》
   - 2012年: KBS2《[夢想起飛Dream
     High2](../Page/夢想起飛Dream_High2.md "wikilink")》
-  - 2017年: JTBC《[The
-    Package](https://zh.wikipedia.org/wiki/The_Package "wikilink")》
-  - 2018年:
-    JTBC《[第3種魅力](https://zh.wikipedia.org/wiki/第3種魅力 "wikilink")》（與Imagine
-    Asia共同製作）
+  - 2017年: JTBC《[The Package](../Page/The_Package.md "wikilink")》
+  - 2018年: JTBC《[第3種魅力](../Page/第3種魅力.md "wikilink")》（與Imagine Asia共同製作）
 
 ### 網路劇
 
@@ -1044,7 +1038,7 @@ Yun Seo Bin</p></td>
     tvcast播出）
   - 2016年:《[浪漫老闆](https://zh.wikipedia.org/wiki/浪漫老闆 "wikilink")》（與H2
     Entertainment、BISTAR\&Elephant Image Film共同製作）
-  - 2017年:《[魔術學校](https://zh.wikipedia.org/wiki/魔術學校 "wikilink")》（JTBC網路劇）
+  - 2017年:《[魔術學校](../Page/魔術學校.md "wikilink")》（JTBC網路劇）
 
 ### 音樂劇
 
@@ -1056,20 +1050,20 @@ Yun Seo Bin</p></td>
 ### 綜藝節目
 
   - 2017年：K-STAR《[2PM Wild
-    Beat](https://zh.wikipedia.org/wiki/2PM_Wild_Beat "wikilink")》（與iHQ共同製作）
+    Beat](../Page/2PM_Wild_Beat.md "wikilink")》（與iHQ共同製作）
   - 2018年：JYP PICTURES官方Youtube頻道《四方旅行：西澳洲篇》（演出：裴智煥(攝影師)、金明勛(歌手Ulala
-    Session)、Kebee(歌手Eluphant)、[朴珪瑛](https://zh.wikipedia.org/wiki/朴珪瑛 "wikilink")(演員)、[鄭乾柱](https://zh.wikipedia.org/wiki/鄭乾柱 "wikilink")(演員)）
+    Session)、Kebee(歌手Eluphant)、[朴珪瑛](../Page/朴珪瑛.md "wikilink")(演員)、[鄭乾柱](https://zh.wikipedia.org/wiki/鄭乾柱 "wikilink")(演員)）
   - 2018年：JYP
     PICTURES官方Youtube頻道《四方旅行夏日休假：智異山篇》（演出：裴智煥(攝影師)、俞彩蓮(模特)、[柳承秀](../Page/柳承秀.md "wikilink")(演員)、[鄭乾柱](https://zh.wikipedia.org/wiki/鄭乾柱 "wikilink")(演員)）
   - 2018年：JYP
     PICTURES官方Youtube頻道《四方旅行：新加坡篇》（演出：裴智煥(攝影師)、[李廷鎮](../Page/李廷鎮.md "wikilink")(演員)、[柳承秀](../Page/柳承秀.md "wikilink")(演員)、[Eluphant](https://zh.wikipedia.org/wiki/Eluphant "wikilink")、李歐艾琳(李惠敏，[Nine
     Muses前成員E](https://zh.wikipedia.org/wiki/Nine_Muses "wikilink") U
     Erine)、[姜勛](https://zh.wikipedia.org/wiki/姜勛 "wikilink")(演員)）
-  - 2019年：[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[超級實習生](https://zh.wikipedia.org/wiki/超級實習生 "wikilink")》
+  - 2019年：[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[超級實習生](../Page/超級實習生.md "wikilink")》
   - 2019年：JYP
-    PICTURES官方Youtube頻道《四方旅行：南法篇》（演出：[朴珪瑛](https://zh.wikipedia.org/wiki/朴珪瑛 "wikilink")(演員)、[金志珉](../Page/金志珉.md "wikilink")(演員)）
+    PICTURES官方Youtube頻道《四方旅行：南法篇》（演出：[朴珪瑛](../Page/朴珪瑛.md "wikilink")(演員)、[金志珉](../Page/金志珉.md "wikilink")(演員)）
   - 2019年：JYP
-    PICTURES官方Youtube頻道《四方旅行：西班牙篇》（演出：[尹博](../Page/尹博.md "wikilink")(演員)、[辛睿恩](https://zh.wikipedia.org/wiki/辛睿恩 "wikilink")(演員)、[辛睿恩](https://zh.wikipedia.org/wiki/辛睿恩 "wikilink")(演員)、[姜勛](https://zh.wikipedia.org/wiki/姜勛 "wikilink")(演員)）
+    PICTURES官方Youtube頻道《四方旅行：西班牙篇》（演出：[尹博](../Page/尹博.md "wikilink")(演員)、[辛睿恩](../Page/辛睿恩.md "wikilink")(演員)、[辛睿恩](../Page/辛睿恩.md "wikilink")(演員)、[姜勛](https://zh.wikipedia.org/wiki/姜勛 "wikilink")(演員)）
 
 ### 出道實境節目
 

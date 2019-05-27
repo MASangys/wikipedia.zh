@@ -10,7 +10,7 @@ Tokyo"收錄了嵐在[國立霞丘陸上競技場的第二場演唱會](../Page/
 嵐於2008年7月15日在東京巨蛋演出時宣佈，他們將在年尾舉行第二次亞洲巡迴演唱會，名為"Arashi Around Asia
 2008"。巡迴演唱由東京國立競技場開始，嵐是自[SMAP和](../Page/SMAP.md "wikilink")[Dreams
 Come
-True以來](https://zh.wikipedia.org/wiki/Dreams_Come_True "wikilink")，在這裡舉行演唱會的第3個音樂單位。除東京外，嵐還走訪了首爾、台北和上海，他們更是首個在上海表演的[尊尼事務所旗下單位](https://zh.wikipedia.org/wiki/尊尼事務所 "wikilink")。\[2\]\[3\]\[4\]
+True以來](../Page/Dreams_Come_True.md "wikilink")，在這裡舉行演唱會的第3個音樂單位。除東京外，嵐還走訪了首爾、台北和上海，他們更是首個在上海表演的[尊尼事務所旗下單位](https://zh.wikipedia.org/wiki/尊尼事務所 "wikilink")。\[2\]\[3\]\[4\]
 
 ### 演唱會日期
 

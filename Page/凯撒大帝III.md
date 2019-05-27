@@ -22,7 +22,7 @@
 
   - 操作
 
-當遊戲開始，玩家決定發展位置後，便是鋪設道路，接著建設住宅區，吸引外地人民來玩家城市居住，然後提供[食物](../Page/食物.md "wikilink")、[飲水](https://zh.wikipedia.org/wiki/飲水 "wikilink")、[宗教](../Page/宗教.md "wikilink")、[娛樂](https://zh.wikipedia.org/wiki/娛樂 "wikilink")、[教育](../Page/教育.md "wikilink")、[衛生等服務](https://zh.wikipedia.org/wiki/衛生 "wikilink")，這些設施建造下去，便會派遣員工到住宅區招募員工，當招募到足夠勞工後，便會派遣服務人員到住宅區提供服務，當各種設施的人員提供服務後，住宅區的房子，就會逐漸升級，隨著房子等級越來越高，所要求的滿意度也會隨著房子的等級來升高，玩家就有需要建造[花園](https://zh.wikipedia.org/wiki/花園 "wikilink")、[雕像](https://zh.wikipedia.org/wiki/雕像 "wikilink")、[廣場](../Page/廣場.md "wikilink")、[神諭等設施](https://zh.wikipedia.org/wiki/神諭 "wikilink")，來滿足這些房屋的需求，以便於能持續提高房屋等級\[6\]。
+當遊戲開始，玩家決定發展位置後，便是鋪設道路，接著建設住宅區，吸引外地人民來玩家城市居住，然後提供[食物](../Page/食物.md "wikilink")、[飲水](https://zh.wikipedia.org/wiki/飲水 "wikilink")、[宗教](../Page/宗教.md "wikilink")、[娛樂](../Page/娛樂.md "wikilink")、[教育](../Page/教育.md "wikilink")、[衛生等服務](https://zh.wikipedia.org/wiki/衛生 "wikilink")，這些設施建造下去，便會派遣員工到住宅區招募員工，當招募到足夠勞工後，便會派遣服務人員到住宅區提供服務，當各種設施的人員提供服務後，住宅區的房子，就會逐漸升級，隨著房子等級越來越高，所要求的滿意度也會隨著房子的等級來升高，玩家就有需要建造[花園](https://zh.wikipedia.org/wiki/花園 "wikilink")、[雕像](https://zh.wikipedia.org/wiki/雕像 "wikilink")、[廣場](../Page/廣場.md "wikilink")、[神諭等設施](https://zh.wikipedia.org/wiki/神諭 "wikilink")，來滿足這些房屋的需求，以便於能持續提高房屋等級\[6\]。
 
 《凯撒大帝III》有別於其他城市建造遊戲，比較注重城市的經營而非戰鬥，外來勢力是隨機攻擊玩家的城市，玩家有兩種模式進行遊戲，第一種是任務模式，玩家必須滿足規定的要求才能過關，另一種是劇情模式，沒有任何要求，完全讓玩家自由發展城市\[7\]。
 

@@ -1,6 +1,6 @@
 **ATT 4
 FUN**，是[臺灣一個連鎖](../Page/臺灣.md "wikilink")[購物中心品牌](https://zh.wikipedia.org/wiki/購物中心 "wikilink")，由[吸引力集團](https://zh.wikipedia.org/wiki/吸引力集團 "wikilink")（ATT
-GROUP）與[宏泰集團](../Page/宏泰集團.md "wikilink")、[昇陽建設合作成立](https://zh.wikipedia.org/wiki/昇陽建設 "wikilink")。「ATT」母體字為Attractive，意為具有吸引力的。運用FOR的諧音，把字母改成數字「4」，代表[時尚](https://zh.wikipedia.org/wiki/時尚潮流 "wikilink")、[文創](../Page/文化創意產業.md "wikilink")、[娛樂](https://zh.wikipedia.org/wiki/娛樂 "wikilink")、[美食等](https://zh.wikipedia.org/wiki/飲食文化 "wikilink")4大業種。「FUN」則是以吃、喝、玩、樂結合時尚購物，為美好生活帶來全方位之歡樂。ATT
+GROUP）與[宏泰集團](../Page/宏泰集團.md "wikilink")、[昇陽建設合作成立](https://zh.wikipedia.org/wiki/昇陽建設 "wikilink")。「ATT」母體字為Attractive，意為具有吸引力的。運用FOR的諧音，把字母改成數字「4」，代表[時尚](https://zh.wikipedia.org/wiki/時尚潮流 "wikilink")、[文創](../Page/文化創意產業.md "wikilink")、[娛樂](../Page/娛樂.md "wikilink")、[美食等](https://zh.wikipedia.org/wiki/飲食文化 "wikilink")4大業種。「FUN」則是以吃、喝、玩、樂結合時尚購物，為美好生活帶來全方位之歡樂。ATT
 4 FUN除了位於臺北市信義區的本館外，在台中市烏日區尚有一件開發案，並有姊妹品牌[ATT 4
 Recharge大直店及](https://zh.wikipedia.org/wiki/ATT_4_Recharge "wikilink")[ATT筷食尚桃園店](https://zh.wikipedia.org/wiki/ATT筷食尚 "wikilink")。
 

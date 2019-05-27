@@ -158,7 +158,7 @@ tv_com_id = }}
 <td></td>
 <td><center></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/鄧燦陽" title="wikilink">鄧燦陽</a></p></td>
+<p><a href="../Page/鄧燦陽.md" title="wikilink">鄧燦陽</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>

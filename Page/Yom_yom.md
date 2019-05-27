@@ -38,7 +38,7 @@ yom**》（）為[新潮社每年發行](https://zh.wikipedia.org/wiki/新潮社
 
 ### 單發小說
 
-  - [阿川佐和子](https://zh.wikipedia.org/wiki/阿川佐和子 "wikilink")
+  - [阿川佐和子](../Page/阿川佐和子.md "wikilink")
   - [大島真壽美](https://zh.wikipedia.org/wiki/大島真壽美 "wikilink")
   - [恩田陸](../Page/恩田陸.md "wikilink")
   - [角田光代](../Page/角田光代.md "wikilink")
@@ -61,7 +61,7 @@ yom**》（）為[新潮社每年發行](https://zh.wikipedia.org/wiki/新潮社
   - [小池真理子](https://zh.wikipedia.org/wiki/小池真理子 "wikilink")
   - [佐藤多佳子](../Page/佐藤多佳子.md "wikilink")
   - [重松清](../Page/重松清.md "wikilink")
-  - [島本理生](https://zh.wikipedia.org/wiki/島本理生 "wikilink")
+  - [島本理生](../Page/島本理生.md "wikilink")
   - [高村薰](../Page/高村薰.md "wikilink")
   - [森繪都](https://zh.wikipedia.org/wiki/森繪都 "wikilink")
   - [森博嗣](../Page/森博嗣.md "wikilink")

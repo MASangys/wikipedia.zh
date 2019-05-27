@@ -19,7 +19,7 @@
 ## 美國原住民文化
 
 [Catlin_-_Dance_to_the_berdache.jpg](https://zh.wikipedia.org/wiki/File:Catlin_-_Dance_to_the_berdache.jpg "fig:Catlin_-_Dance_to_the_berdache.jpg")（1796年－1872年）繪。\]\]
-報告顯示，超過130種[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")[原住民的部落內存在一種特殊的男性階級](../Page/美洲原住民.md "wikilink")：他們穿戴女性的衣著，進行編織、燒陶等女人的勞動工作，並和男人發生性行為。他們被稱為「[雙靈](../Page/雙靈.md "wikilink")」（，又譯為「博達切」），意指一個身體內住著「二個靈魂」\[5\]。雖然他們也被歸類入同性戀，但更準確而言，雙靈被視為「[第三性](https://zh.wikipedia.org/wiki/第三性 "wikilink")」或「第四性」。最先踏上現今美國領土的歐洲人是基督教傳教士和探險家，包括[努涅斯·卡韋薩·德巴卡](https://zh.wikipedia.org/wiki/努涅斯·卡韋薩·德巴卡 "wikilink")、[雅克·馬凱特](https://zh.wikipedia.org/wiki/雅克·馬凱特 "wikilink")、[皮耶·利耶特和](https://zh.wikipedia.org/wiki/皮耶·利耶特 "wikilink")[皮耶·法蘭索·雅韋·德夏洛克等](https://zh.wikipedia.org/wiki/皮耶·法蘭索·雅韋·德夏洛克 "wikilink")。儘管歐洲人對[民族學抱持興趣](https://zh.wikipedia.org/wiki/民族學 "wikilink")，如畫家[喬治·卡特林曾在](https://zh.wikipedia.org/wiki/喬治·卡特林 "wikilink")1830年投身觀察、描繪雙靈人，他們仍以歐洲人的觀點，倡議「淘汰」雙靈文化。經過歐洲文明統治後，即使後來原住民文化微有復興之態，原住民部落的雙靈[多元性別文化已幾乎徹底絕跡](https://zh.wikipedia.org/wiki/多元性別 "wikilink")\[6\]。
+報告顯示，超過130種[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")[原住民的部落內存在一種特殊的男性階級](../Page/美洲原住民.md "wikilink")：他們穿戴女性的衣著，進行編織、燒陶等女人的勞動工作，並和男人發生性行為。他們被稱為「[雙靈](../Page/雙靈.md "wikilink")」（，又譯為「博達切」），意指一個身體內住著「二個靈魂」\[5\]。雖然他們也被歸類入同性戀，但更準確而言，雙靈被視為「[第三性](https://zh.wikipedia.org/wiki/第三性 "wikilink")」或「第四性」。最先踏上現今美國領土的歐洲人是基督教傳教士和探險家，包括[努涅斯·卡韋薩·德巴卡](https://zh.wikipedia.org/wiki/努涅斯·卡韋薩·德巴卡 "wikilink")、[雅克·馬凱特](https://zh.wikipedia.org/wiki/雅克·馬凱特 "wikilink")、[皮耶·利耶特和](https://zh.wikipedia.org/wiki/皮耶·利耶特 "wikilink")[皮耶·法蘭索·雅韋·德夏洛克等](https://zh.wikipedia.org/wiki/皮耶·法蘭索·雅韋·德夏洛克 "wikilink")。儘管歐洲人對[民族學抱持興趣](https://zh.wikipedia.org/wiki/民族學 "wikilink")，如畫家[喬治·卡特林曾在](https://zh.wikipedia.org/wiki/喬治·卡特林 "wikilink")1830年投身觀察、描繪雙靈人，他們仍以歐洲人的觀點，倡議「淘汰」雙靈文化。經過歐洲文明統治後，即使後來原住民文化微有復興之態，原住民部落的雙靈[多元性別文化已幾乎徹底絕跡](../Page/多元性別.md "wikilink")\[6\]。
 
 ## 18及19世紀
 
@@ -31,7 +31,7 @@
 
 ### 精神疾病學說
 
-1896年隨著[精神分析的出現](https://zh.wikipedia.org/wiki/精神分析 "wikilink")，將同性戀認定為精神疾病的觀念達到鼎盛。事實上，早在19世紀初期，此類觀點便已有跡可循。時下性教育刊物如「青年指南」（，威廉·安德勒斯·奧科特，1883年）、「青年貞節講座」（，西爾維斯特·葛拉罕，1834年）等，紛紛指出[自慰和同性性行為等不當性行為](../Page/自慰.md "wikilink")，會導致嚴重的健康問題，包括：[精神失常](https://zh.wikipedia.org/wiki/精神失常 "wikilink")、[亨丁頓舞蹈症](../Page/亨丁頓舞蹈症.md "wikilink")、[癲癇](https://zh.wikipedia.org/wiki/癲癇 "wikilink")、[智能障礙](../Page/智能障礙.md "wikilink")、[癱瘓](https://zh.wikipedia.org/wiki/癱瘓 "wikilink")、[中風](../Page/中風.md "wikilink")、[失明](../Page/失明.md "wikilink")、[疑病症和](https://zh.wikipedia.org/wiki/疑病症 "wikilink")[結核病](https://zh.wikipedia.org/wiki/結核病 "wikilink")\[9\]。
+1896年隨著[精神分析的出現](https://zh.wikipedia.org/wiki/精神分析 "wikilink")，將同性戀認定為精神疾病的觀念達到鼎盛。事實上，早在19世紀初期，此類觀點便已有跡可循。時下性教育刊物如「青年指南」（，威廉·安德勒斯·奧科特，1883年）、「青年貞節講座」（，西爾維斯特·葛拉罕，1834年）等，紛紛指出[自慰和同性性行為等不當性行為](../Page/自慰.md "wikilink")，會導致嚴重的健康問題，包括：[精神失常](https://zh.wikipedia.org/wiki/精神失常 "wikilink")、[亨丁頓舞蹈症](../Page/亨丁頓舞蹈症.md "wikilink")、[癲癇](https://zh.wikipedia.org/wiki/癲癇 "wikilink")、[智能障礙](../Page/智能障礙.md "wikilink")、[癱瘓](https://zh.wikipedia.org/wiki/癱瘓 "wikilink")、[中風](../Page/中風.md "wikilink")、[失明](../Page/失明.md "wikilink")、[疑病症和](../Page/疑病症.md "wikilink")[結核病](https://zh.wikipedia.org/wiki/結核病 "wikilink")\[9\]。
 
 ## 1969年－1980年
 

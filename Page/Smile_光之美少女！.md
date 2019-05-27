@@ -678,7 +678,7 @@ Decor），好讓女王恢復並對抗敵人。
 <td></td>
 <td><p>直球決勝！風之旋風天使！！</p></td>
 <td><p>用直球決勝負，風之旋風天使</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山田由香" title="wikilink">山田由香</a></p></td>
+<td><p><a href="../Page/山田由香.md" title="wikilink">山田由香</a></p></td>
 <td><p>門由利子</p></td>
 <td><p>小島彰</p></td>
 <td><p>田中美紀</p></td>
@@ -1344,7 +1344,7 @@ Decor），好讓女王恢復並對抗敵人。
 <!-- end list -->
 
   - 台灣片尾曲「」
-    作曲：高取秀明，編曲：齋藤悠彌，主唱：[草莓姐姐](https://zh.wikipedia.org/wiki/草莓姐姐 "wikilink")（舞蹈：[櫻桃姐姐](../Page/櫻桃姐姐.md "wikilink")）
+    作曲：高取秀明，編曲：齋藤悠彌，主唱：[草莓姐姐](../Page/草莓姐姐.md "wikilink")（舞蹈：[櫻桃姐姐](../Page/櫻桃姐姐.md "wikilink")）
 
 <!-- end list -->
 
@@ -1465,7 +1465,7 @@ Decor），好讓女王恢復並對抗敵人。
     [光之美少女 All Stars
     大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
     [HUG！光之美少女♡光之美少女 All Stars
-    Memories](https://zh.wikipedia.org/wiki/HUG！光之美少女♡光之美少女_All_Stars_Memories "wikilink")
+    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
 
 ## 相關資料、補充
 

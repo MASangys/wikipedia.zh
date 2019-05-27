@@ -1,5 +1,5 @@
 **Beats**\[1\]是[美國一家](https://zh.wikipedia.org/wiki/美國 "wikilink")[錄音設備品牌](https://zh.wikipedia.org/wiki/錄音 "wikilink")，其子公司的生產線主要集中於[耳機及](../Page/耳機.md "wikilink")[揚聲器](../Page/揚聲器.md "wikilink")，由[饒舌](../Page/饒舌.md "wikilink")[歌手安德烈](../Page/歌手.md "wikilink")·羅梅勒·楊格，藝名[德瑞博士](https://zh.wikipedia.org/wiki/德瑞博士 "wikilink")（Dr.
-Dre）及[新視鏡唱片的前](https://zh.wikipedia.org/wiki/新視鏡唱片 "wikilink")[董事長兼](../Page/董事長.md "wikilink")[總裁](https://zh.wikipedia.org/wiki/總裁 "wikilink")（Jimmy
+Dre）及[新視鏡唱片的前](../Page/新視鏡唱片.md "wikilink")[董事長兼](../Page/董事長.md "wikilink")[總裁](https://zh.wikipedia.org/wiki/總裁 "wikilink")（Jimmy
 Iovine）於2008年聯合創立\[2\]，該公司的總部設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[卡爾弗城](https://zh.wikipedia.org/wiki/卡爾弗城 "wikilink")\[3\]。
 
 Beats的原有生產線聯同AV設備公司[魔聲](https://zh.wikipedia.org/wiki/魔聲 "wikilink")（Monster

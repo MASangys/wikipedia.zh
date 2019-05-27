@@ -4,7 +4,7 @@ Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 簡介
 
-被用作《[孩子們的戰爭](https://zh.wikipedia.org/wiki/孩子們的戰爭 "wikilink")3》的[主題曲](../Page/主題曲.md "wikilink")。至今（2011年5月）超過90萬張的銷量\[1\]，是ZONE的代表曲之一。
+被用作《[孩子們的戰爭](../Page/孩子們的戰爭.md "wikilink")3》的[主題曲](../Page/主題曲.md "wikilink")。至今（2011年5月）超過90萬張的銷量\[1\]，是ZONE的代表曲之一。
 
 經典的畢業歌曲，也常被認為是一首戀愛歌，但實際上在PV裏是一首描寫少年間友情的歌曲。[ZONE於](../Page/ZONE.md "wikilink")2001年和2003年的[NHK紅白歌合戰上都演唱這首歌](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")\[2\]\[3\]。2005年4月1日，ZONE在[日本武道館舉行解散演唱會](../Page/日本武道館.md "wikilink")，本曲亦是最後的演唱曲目\[4\]，並與[MUSIC
 STATION的特殊節目連線直播](../Page/MUSIC_STATION.md "wikilink")，成為ZONE公開演唱的最後一首曲目。

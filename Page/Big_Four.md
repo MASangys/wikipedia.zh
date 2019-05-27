@@ -458,8 +458,8 @@ Big Four第一次在<a href="https://zh.wikipedia.org/wiki/台灣" title="wikili
 
 ### 2010年度
 
-  - [2010勁歌金曲優秀選第一回](https://zh.wikipedia.org/wiki/2010年勁歌金曲優秀選第一回得獎名單 "wikilink")
-    - 得獎歌曲《愛莫能助》
+  - [2010勁歌金曲優秀選第一回](../Page/2010年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
+    得獎歌曲《愛莫能助》
 
 ## 參考資料
 

@@ -190,7 +190,7 @@ Hebe》入圍[第22屆金曲獎四項](https://zh.wikipedia.org/wiki/第22屆金
 6.  你太猖狂（MV導演：[黃中平](../Page/黃中平.md "wikilink")）【台視《[國民英雄](../Page/國民英雄.md "wikilink")》插曲】
 7.  寂寞寂寞就好（MV導演：[徐筠軒](https://zh.wikipedia.org/wiki/徐筠軒 "wikilink")）【民視《[新兵日記](https://zh.wikipedia.org/wiki/新兵日記 "wikilink")》插曲】25集
 8.  超級瑪莉（MV導演）【民視《[新兵日記](https://zh.wikipedia.org/wiki/新兵日記 "wikilink")》插曲】35集
-9.  寂寞寂寞就好（MV導演：徐筠軒）【中視《[稍息立正我愛你](https://zh.wikipedia.org/wiki/稍息立正我愛你 "wikilink")》插曲】
+9.  寂寞寂寞就好（MV導演：徐筠軒）【中視《[稍息立正我愛你](../Page/稍息立正我愛你.md "wikilink")》插曲】
 
 ## [第22屆金曲獎](https://zh.wikipedia.org/wiki/第22屆金曲獎 "wikilink")
 

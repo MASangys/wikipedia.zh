@@ -219,7 +219,7 @@ Moments（傷心時刻）」及「Amazing Life（奇妙生活）」。
 <tr class="even">
 <td><p>6.</p></td>
 <td><p>不速之約</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/徐繼宗" title="wikilink">徐繼宗</a></p></td>
+<td><p><a href="../Page/徐繼宗.md" title="wikilink">徐繼宗</a></p></td>
 <td><p><a href="../Page/林夕.md" title="wikilink">林夕</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Johnny_Yim" title="wikilink">Johnny Yim</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Gary_Chan" title="wikilink">Gary Chan</a></p></td>

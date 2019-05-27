@@ -182,7 +182,7 @@ ARE BORN（中文字幕版）\[11\]及仙境假期 （中文字幕版）\[12\]�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/藤白堇" title="wikilink">藤白堇</a><br />
+<td><p><a href="../Page/藤白堇.md" title="wikilink">藤白堇</a><br />
 ふじしろ すみれ</p></td>
 <td></td>
 <td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
@@ -394,7 +394,7 @@ Love\&Peace』神秘嘉賓。
 Story〜』。發售限定單曲「[一粒の笑顔で…/Chai Maxx
 ZERO](https://zh.wikipedia.org/wiki/一粒の笑顔で…/Chai_Maxx_ZERO "wikilink")」。
 
-12月31日，參加[第65回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第65回NHK紅白歌合戰 "wikilink")（連續3年＆第3次參加），表演歌曲為「[My
+12月31日，參加[第65回NHK紅白歌合戰](../Page/第65回NHK紅白歌合戰.md "wikilink")（連續3年＆第3次參加），表演歌曲為「[My
 Dear Fellow](../Page/哭泣也無所謂喔.md "wikilink") with Mononofu
 JAPAN」，並予先在演唱會收錄9萬位桃草武士合唱聲源加入表演之中，而且由成員提議，通過1萬位桃草武士在白色衣服上用各成員的顏色寫上信息，最終制成這次的表演服\[44\]。成員中有安杏果則因感染[流感而未能出場](https://zh.wikipedia.org/wiki/流感 "wikilink")\[45\]\[46\]。
 
@@ -479,7 +479,7 @@ Live](../Page/Animelo_Summer_Live.md "wikilink") 2015』。
 
 1月15日，成員[有安杏果發表畢業聲明](../Page/有安杏果.md "wikilink")，將於1月21日從團體中畢業。
 
-4月11日，第十八張單曲《[笑一笑～](https://zh.wikipedia.org/wiki/笑一笑～ "wikilink")》發售。
+4月11日，第十八張單曲《[笑一笑～](../Page/笑一笑～.md "wikilink")》發售。
 
 5月7日至13日，在[東京晴空塔進行晴空幸運草節點燈儀式](../Page/東京晴空塔.md "wikilink")。
 
@@ -786,7 +786,7 @@ CD（通常版2）</p></td>
 <td><p>9</p></td>
 <td><p>2012年11月21日</p></td>
 <td><p><strong><a href="../Page/再會吧、那些愛憐的悲傷啊.md" title="wikilink">再會吧、那些愛憐的悲傷啊</a></strong></p></td>
-<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/惡夢小姐" title="wikilink">惡夢小姐</a>》主題曲。<a href="https://zh.wikipedia.org/wiki/布袋寅泰" title="wikilink">布袋寅泰作曲</a>・編曲</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/惡夢小姐" title="wikilink">惡夢小姐</a>》主題曲。<a href="../Page/布袋寅泰.md" title="wikilink">布袋寅泰作曲</a>・編曲</p></td>
 <td><p><a href="http://www.youtube.com/watch?v=OWSbfCPkTBk">音樂影片</a></p></td>
 <td><p>2位</p></td>
 <td><p>CD+DVD（初回版）<br />
@@ -859,7 +859,7 @@ CD（通常版）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>電影《<a href="https://zh.wikipedia.org/wiki/偉大的咻啦啦砰" title="wikilink">偉大的咻啦啦砰</a>》主題曲</p></td>
+<td><p>電影《<a href="../Page/偉大的咻啦啦砰.md" title="wikilink">偉大的咻啦啦砰</a>》主題曲</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -879,7 +879,7 @@ CD（通常版）</p></td>
 <td><p>12</p></td>
 <td><p>2014年7月30日</p></td>
 <td><p><strong><a href="../Page/MOON_PRIDE.md" title="wikilink">MOON PRIDE</a></strong></p></td>
-<td><p>動畫《<a href="https://zh.wikipedia.org/wiki/美少女戰士Crystal" title="wikilink">美少女戰士Crystal</a>》主題曲 。作词・作曲・编曲：<a href="../Page/Revo.md" title="wikilink">Revo</a></p></td>
+<td><p>動畫《<a href="../Page/美少女戰士Crystal.md" title="wikilink">美少女戰士Crystal</a>》主題曲 。作词・作曲・编曲：<a href="../Page/Revo.md" title="wikilink">Revo</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=c0Va228UhRs">音樂影片</a></p></td>
 <td><p>3位</p></td>
 <td><p>CD+Blu-ray（美少女戰士版）<br />
@@ -887,7 +887,7 @@ CD（桃草版）</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>動畫《<a href="https://zh.wikipedia.org/wiki/美少女戰士Crystal" title="wikilink">美少女戰士Crystal</a>》片尾曲。作词・。作曲・编曲：</p></td>
+<td><p>動畫《<a href="../Page/美少女戰士Crystal.md" title="wikilink">美少女戰士Crystal</a>》片尾曲。作词・。作曲・编曲：</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1078,8 +1078,8 @@ CD（通常版）</p></td>
 <tr class="even">
 <td><p>18</p></td>
 <td><p>2018年4月11日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/笑一笑～" title="wikilink">笑一笑～</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蠟筆小新：功夫小子〜拉麵大亂鬥〜" title="wikilink">蠟筆小新：功夫小子〜拉麵大亂鬥〜片尾曲</a></p></td>
+<td><p><strong><a href="../Page/笑一笑～.md" title="wikilink">笑一笑～</a></strong></p></td>
+<td><p><a href="../Page/蠟筆小新：功夫小子〜拉麵大亂鬥〜.md" title="wikilink">蠟筆小新：功夫小子〜拉麵大亂鬥〜片尾曲</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=CbJx788qTao">音樂影片</a></p></td>
 <td><p>4位</p></td>
 <td><p>CD+Blu-ray（ももクロ盤）<br />
@@ -1187,7 +1187,7 @@ CD（しんちゃん盤）</p></td>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2012年12月24日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/我們的世紀" title="wikilink">我們的世紀</a></strong></p></td>
+<td><p><strong><a href="../Page/我們的世紀.md" title="wikilink">我們的世紀</a></strong></p></td>
 <td><p>ROLLY作詞・作曲</p></td>
 <td><p>5位</p></td>
 <td><p>CD</p></td>

@@ -36,8 +36,7 @@ Linux](../Page/Arch_Linux.md "wikilink"),\[12\]
 [FreeBSD](../Page/FreeBSD.md "wikilink"),\[14\]
 [Gentoo](../Page/Gentoo_Linux.md "wikilink"),\[15\]
 [GNOME](../Page/GNOME.md "wikilink"),\[16\] 以及 [TeX
-Live](https://zh.wikipedia.org/wiki/TeX_Live "wikilink")\[17\]）的压缩方式之一，
-同时也可以是压缩 [Linux
+Live](../Page/TeX_Live.md "wikilink")\[17\]）的压缩方式之一， 同时也可以是压缩 [Linux
 内核的格式](https://zh.wikipedia.org/wiki/Linux_内核 "wikilink")。\[18\]
 2013年3月,
 [kernel.org](https://zh.wikipedia.org/wiki/kernel.org "wikilink")

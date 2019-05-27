@@ -1,4 +1,4 @@
-**Iris**源于[希臘語](https://zh.wikipedia.org/wiki/希臘語 "wikilink")，原意[彩虹](https://zh.wikipedia.org/wiki/彩虹 "wikilink")，现有多种含义，可以作为[人名](../Page/人名.md "wikilink")，同时还有许多事物以它命名，又或者因[缩写而与](https://zh.wikipedia.org/wiki/缩写 "wikilink")**iris**拼写雷同。
+**Iris**源于[希臘語](https://zh.wikipedia.org/wiki/希臘語 "wikilink")，原意[彩虹](../Page/彩虹.md "wikilink")，现有多种含义，可以作为[人名](../Page/人名.md "wikilink")，同时还有许多事物以它命名，又或者因[缩写而与](https://zh.wikipedia.org/wiki/缩写 "wikilink")**iris**拼写雷同。
 
 ## 名词
 

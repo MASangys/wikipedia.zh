@@ -25,7 +25,7 @@ Art's](../Page/Visual_Art's.md "wikilink")，进入[Key的作品的制作团队]
   - 1998年5月29日 - ONE～光辉的季节～发售。\[6\]
   - 1998年8月31日 -2000年4月1日 - 小说版全四卷（文：館山緑）由Movic出版发售。没有年龄限制，但内容包括性描写。
   - 1999年4月1日 -
-    [PS版光辉的季节由](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[KID发售](../Page/KID.md "wikilink")（全年龄对象）。\[7\]
+    [PS版光辉的季节由](../Page/PlayStation.md "wikilink")[KID发售](../Page/KID.md "wikilink")（全年龄对象）。\[7\]
       - 游戏名变化是因为当时[索尼规定](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")“18禁恋爱冒险游戏的移植版本不能和PC版用一样的名字”（同时期CAPCOM宣布将发售游戏名为“ONE”的STG游戏，也有改名是为了防止重名的说法）。
   - 2000年9月14日 - AIS发售Memorial Selection ONE～光辉的季节～（所谓的廉价版）。\[8\]
   - 2001年8月10日 -
@@ -56,7 +56,7 @@ Art's](../Page/Visual_Art's.md "wikilink")，进入[Key的作品的制作团队]
 
 ## 人物介绍
 
-[声优按](https://zh.wikipedia.org/wiki/声优 "wikilink")[PS版](https://zh.wikipedia.org/wiki/PlayStation "wikilink")/Drama
+[声优按](https://zh.wikipedia.org/wiki/声优 "wikilink")[PS版](../Page/PlayStation.md "wikilink")/Drama
 CD/全年龄对象[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")/[PC全语音版顺序排列](../Page/PC.md "wikilink")。
 
   -
@@ -68,14 +68,14 @@ CD/全年龄对象[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")/[PC全�
     主人公的青梅竹马，同班同学。主人公经常跟她开没有意义的玩笑，虽然叹着气，但是经常做如每天早上去叫醒主人公之类的照顾人的事情，从某种角度来看是个好人。社团活动是乐队里的大提琴手。喜欢牛奶，甚至可以把牛奶当作饭吃。另外瑞佳喜欢猫，在家里养着很多猫。因为句尾经常加、，在剧中被叫做（只有一次）。一直很在意主人公找不到女朋友的事情。瑞佳在男生中人气很高，不過主人公没有意识到。
     幼时的瑞佳的身姿成为主人公走向“永恒的世界”的引路人（？）的模板。
   -
-    声：[横山智佐](../Page/横山智佐.md "wikilink")/[大本真基子](../Page/大本真基子.md "wikilink")/[寺田春日](https://zh.wikipedia.org/wiki/七緒春日 "wikilink")/[日下千鹤](https://zh.wikipedia.org/wiki/日下千鹤 "wikilink")
+    声：[横山智佐](../Page/横山智佐.md "wikilink")/[大本真基子](../Page/大本真基子.md "wikilink")/[寺田春日](../Page/七緒春日.md "wikilink")/[日下千鹤](https://zh.wikipedia.org/wiki/日下千鹤 "wikilink")
     转校到主人公的学校里的女生。原来是剑道部的，因为腰部的伤病放弃剑道转而以“真·淑女”为目标。为此她对周围的人表现得像淑女一样，只有对第一印象不好的主人公表现出本来的性格。现在暂时属于回家部，希望加入文化系的社团。另外，好像很喜欢之前学校的校服，虽然有现在学校的校服也仍旧穿着以前的。不擅长对付总是拉自己马尾的茧。
   -
     声：[雪乃五月](https://zh.wikipedia.org/wiki/雪乃五月 "wikilink")/雪乃五月/[豐嶋真千子](../Page/豐嶋真千子.md "wikilink")/[须本绫奈](https://zh.wikipedia.org/wiki/须本绫奈 "wikilink")
     主人公的上级生，小学的时候因为事故双目失明。在夕阳下，学校的屋顶上与主人公邂逅。虽然背负着失明的残疾，但却没有因此对陌生人心有戒备，是和谁都能打成一片的擅长社交的性格。因为高中校园在家的对面，曾经是失明前玩耍的地方，所以不借助手杖就可以去学校。但是却因为惧怕而不敢去像商店街之类的外面的世界。另外岬不想因为自己的残疾而束缚对方，所以一直拒绝和异性交往。岬的饭量出人意料地大，曾经一个人吃掉好几个人份的咖喱。为了帮助好朋友深山雪见偶尔去演剧部露脸。
   -
     声：无/没有出场/[浅野真澄](../Page/浅野真澄.md "wikilink")/无
-    主人公的下级生。表情丰富。因为残疾无法开口说话，在素描本上写字来进行会话（[PS版和](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[PC全语音版没有声优](../Page/PC.md "wikilink")。OVA版也不过是“心之声”。）加入演剧部，是深山雪见的后辈。因为扮演的都是剧中不能说话的角色，所以对自己的角色很熟悉。是个不小心把荞麦面洒到主人公身上的[冒失娘](https://zh.wikipedia.org/wiki/冒失娘 "wikilink")。除了自己使用的素描本之外还保存着一本旧的素描本，澪很珍惜这本素描本。
+    主人公的下级生。表情丰富。因为残疾无法开口说话，在素描本上写字来进行会话（[PS版和](../Page/PlayStation.md "wikilink")[PC全语音版没有声优](../Page/PC.md "wikilink")。OVA版也不过是“心之声”。）加入演剧部，是深山雪见的后辈。因为扮演的都是剧中不能说话的角色，所以对自己的角色很熟悉。是个不小心把荞麦面洒到主人公身上的[冒失娘](https://zh.wikipedia.org/wiki/冒失娘 "wikilink")。除了自己使用的素描本之外还保存着一本旧的素描本，澪很珍惜这本素描本。
   -
     声：[大谷育江](../Page/大谷育江.md "wikilink")/没有出场/[金井美香](../Page/金井美香.md "wikilink")/[芹园宫](https://zh.wikipedia.org/wiki/芹园宫 "wikilink")
     大脾气，拒不去学校的女孩。比主人公年纪小的初中生。在茧失去自己唯一可以信任的朋友——雪貂妙妙的时候和主人公相遇。有什么讨厌的事情，茧会马上叫着那只雪貂的名字哭起来。主人公为了帮助她成长而将她带到教室里。最喜欢的食物是红烧鱼汉堡。喜欢像雪貂一样的长长的东西，留美的马尾和蛇布偶之类的都很喜欢。
@@ -111,7 +111,7 @@ CD/全年龄对象[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")/[PC全�
 
   -
     声：[今井由香](../Page/今井由香.md "wikilink")/没有出场/没有出场/没有出场
-    [PS版里出场](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。快要被车撞上的时候被主人公所救。喜欢像哥哥一样的主人公。追加的[眼镜娘属性角色](https://zh.wikipedia.org/wiki/眼镜娘 "wikilink")。
+    [PS版里出场](../Page/PlayStation.md "wikilink")。快要被车撞上的时候被主人公所救。喜欢像哥哥一样的主人公。追加的[眼镜娘属性角色](https://zh.wikipedia.org/wiki/眼镜娘 "wikilink")。
   -
     声：没有出场/[绿川光](https://zh.wikipedia.org/wiki/绿川光 "wikilink")/没有出场/没有出场
     小说版和廣播劇CD版里出场。设定是消失到“永恒的世界”里去的茜的青梅竹马。喜欢的恩师死后，他像追随老师的身影一样消失。

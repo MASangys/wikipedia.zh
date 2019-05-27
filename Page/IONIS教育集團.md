@@ -45,7 +45,7 @@
 
 ## 相关條目
 
-  - [法国高等教育](https://zh.wikipedia.org/wiki/法国高等教育 "wikilink")
+  - [法国高等教育](../Page/法国高等教育.md "wikilink")
 
   -
 ## 外部链接

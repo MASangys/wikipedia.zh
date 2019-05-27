@@ -23,7 +23,7 @@ manaca與[Suica](../Page/Suica.md "wikilink")、[ICOCA等IC乘車卡均皆採用
       - 國道巴士
           - [高速美濃・關 -
             名古屋線](https://zh.wikipedia.org/wiki/高速美濃・關_-_名古屋線 "wikilink")（只限於名鐵巴士運行之班次。共同聯運之[岐阜巴士運行班次則無法使用](https://zh.wikipedia.org/wiki/岐阜乘合自動車 "wikilink")。）
-          - 名古屋長島溫泉高速巴士（只限於名鐵巴士運行之班次。共同聯運之[三重交通運行班次則無法使用](https://zh.wikipedia.org/wiki/三重交通 "wikilink")。）
+          - 名古屋長島溫泉高速巴士（只限於名鐵巴士運行之班次。共同聯運之[三重交通運行班次則無法使用](../Page/三重交通.md "wikilink")。）
       - 社區巴士
           - [岡崎市之市公車](../Page/岡崎市.md "wikilink")
           - [豐明市之豐明市公共設施巡迴公車](https://zh.wikipedia.org/wiki/豐明市 "wikilink")（向日葵公車）

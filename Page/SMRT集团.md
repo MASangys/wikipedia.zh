@@ -25,7 +25,7 @@ Image:SMRT SMB180Z.jpg|SMRT巴士
 
 ## 参见
 
-  - [梁建鸿](https://zh.wikipedia.org/wiki/郭木财 "wikilink")，SMRT现任总裁兼主席
+  - [梁建鸿](../Page/郭木财.md "wikilink")，SMRT现任总裁兼主席
 
 ## 參考文獻
 

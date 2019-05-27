@@ -1,5 +1,5 @@
 **威廉·丹尼尔·莱希**（**William Daniel
-Leahy**，），[美国海军五星上将](https://zh.wikipedia.org/wiki/美国海军 "wikilink")，曾任[美国海军作战部长](../Page/美国海军作战部长.md "wikilink")（1937年-1939年）、[波多黎各总督](https://zh.wikipedia.org/wiki/波多黎各总督 "wikilink")（1939年-1940年）、[美国驻法国大使](https://zh.wikipedia.org/wiki/美国驻法国大使 "wikilink")（1941年-1942年）和[美國總司令參謀長](https://zh.wikipedia.org/wiki/参谋长联席会议主席 "wikilink")（1942年-1949年）。在二戰期間，擔任美國總統的參謀長，也是海軍作戰部部長和美軍總司令參謀長，對美國和同盟國作出巨大的貢獻。
+Leahy**，），[美国海军五星上将](https://zh.wikipedia.org/wiki/美国海军 "wikilink")，曾任[美国海军作战部长](../Page/美国海军作战部长.md "wikilink")（1937年-1939年）、[波多黎各总督](../Page/波多黎各总督.md "wikilink")（1939年-1940年）、[美国驻法国大使](https://zh.wikipedia.org/wiki/美国驻法国大使 "wikilink")（1941年-1942年）和[美國總司令參謀長](https://zh.wikipedia.org/wiki/参谋长联席会议主席 "wikilink")（1942年-1949年）。在二戰期間，擔任美國總統的參謀長，也是海軍作戰部部長和美軍總司令參謀長，對美國和同盟國作出巨大的貢獻。
 
 莱希是美国历史上首位获五星上将军衔的军官。为纪念莱希，美国海军将一艘舰艇命名为。
 

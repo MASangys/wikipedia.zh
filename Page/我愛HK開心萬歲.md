@@ -163,7 +163,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/彭懷安" title="wikilink">彭懷安</a></p></td>
+<td><p><a href="../Page/彭懷安.md" title="wikilink">彭懷安</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -521,7 +521,7 @@
 <td><p>87年街坊</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/姚兵" title="wikilink">姚　兵</a></p></td>
+<td><p><a href="../Page/姚兵.md" title="wikilink">姚　兵</a></p></td>
 <td></td>
 <td><p>87年街坊</p></td>
 </tr>
@@ -596,7 +596,7 @@
 <td><p>瘦身公司職員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳亭嘉" title="wikilink">陳亭嘉</a></p></td>
+<td><p><a href="../Page/陳亭嘉.md" title="wikilink">陳亭嘉</a></p></td>
 <td></td>
 <td><p>87年夜總會小姐</p></td>
 </tr>
@@ -606,7 +606,7 @@
 <td><p>87年夜總會小姐</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/尹詩沛" title="wikilink">尹詩沛</a></p></td>
+<td><p><a href="../Page/尹詩沛.md" title="wikilink">尹詩沛</a></p></td>
 <td></td>
 <td><p>87年夜總會小姐</p></td>
 </tr>
@@ -737,7 +737,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/方紹聰" title="wikilink">方紹聰</a></p></td>
+<td><p><a href="../Page/方紹聰.md" title="wikilink">方紹聰</a></p></td>
 <td></td>
 <td></td>
 </tr>

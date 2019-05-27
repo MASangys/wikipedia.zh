@@ -80,7 +80,7 @@ Hexagon](https://zh.wikipedia.org/wiki/Qualcomm_Hexagon "wikilink")、[MIPS](htt
 TeraScale](https://zh.wikipedia.org/wiki/AMD_TeraScale "wikilink")\[19\]、[AMD
 Graphics Core
 Next](https://zh.wikipedia.org/wiki/AMD_Graphics_Core_Next "wikilink")（GCN）、[SPARC](../Page/SPARC.md "wikilink")、[z/Architecture](https://zh.wikipedia.org/wiki/z/Architecture "wikilink")（在LLVM文档中被称为SystemZ）、[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[x86-64和](https://zh.wikipedia.org/wiki/x86-64 "wikilink")[XCore](https://zh.wikipedia.org/wiki/XCore "wikilink")。有部分平台功能并没有完全实现。但x86、x86-64、z/Architecture、ARM和[PowerPC的基本所有功能都有实现](../Page/PowerPC.md "wikilink")。\[20\]
-[RISC-V也在版本](https://zh.wikipedia.org/wiki/RISC-V "wikilink")7中实现。
+[RISC-V也在版本](../Page/RISC-V.md "wikilink")7中实现。
 
 LLVM机器码（MC）子项目是LLVM将机器指令从文字形式转换至机器码的形式。在之前LLVM依靠系统或是平台专门的工具链将汇编翻译为机器码。LLVM机器码的集成汇编器已经支持绝大多数LLVM的目标平台，如x86、x86-64、ARM和[ARM64](https://zh.wikipedia.org/wiki/ARM64 "wikilink")。对另一些平台，如几种[MIPS平台](https://zh.wikipedia.org/wiki/MIPS "wikilink")，汇编器支持已经加入但仍在beta阶段。
 

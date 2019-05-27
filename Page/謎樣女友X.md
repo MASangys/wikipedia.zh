@@ -219,7 +219,7 @@ ISBN 978-4-06-358391-5（限定版）</p></td>
 <td><p>第3話</p></td>
 <td></td>
 <td><p>謎樣試管</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小島正幸" title="wikilink">小島正幸</a></p></td>
+<td><p><a href="../Page/小島正幸.md" title="wikilink">小島正幸</a></p></td>
 <td><p>中智仁</p></td>
 <td><p>坂本千代子<br />
 平野勇一</p></td>
@@ -276,7 +276,7 @@ ISBN 978-4-06-358391-5（限定版）</p></td>
 <td><p>第9話</p></td>
 <td></td>
 <td><p>謎樣「總感覺有點」</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山內重保" title="wikilink">山內重保</a></p></td>
+<td><p><a href="../Page/山內重保.md" title="wikilink">山內重保</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/羽山淳一" title="wikilink">羽山淳一</a></p></td>
 <td></td>
 <td></td>

@@ -20,7 +20,7 @@ DVD 1 / CD 1
 | 5      | **Eternal Flame**          | [The Bangles](https://zh.wikipedia.org/wiki/The_Bangles "wikilink")           |
 | 6      | **Dreaming of You**        | [Selena](https://zh.wikipedia.org/wiki/Selena "wikilink")                     |
 | 7      | **Save The Best For Last** | [Vanessa Williams](https://zh.wikipedia.org/wiki/Vanessa_Williams "wikilink") |
-| 8      | **Only Love**              | [真情馬克](https://zh.wikipedia.org/wiki/真情馬克 "wikilink")（Trademark）              |
+| 8      | **Only Love**              | [真情馬克](../Page/真情馬克.md "wikilink")（Trademark）                                 |
 | 9      | **Take Me Through**        | [林欣彤](../Page/林欣彤.md "wikilink")                                              |
 | 10     | **鳥籠**                     | [林欣彤](../Page/林欣彤.md "wikilink")                                              |
 | 11     | **螞蟻**                     | [許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")                           |

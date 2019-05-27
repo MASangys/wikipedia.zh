@@ -40,7 +40,7 @@
 我會去找那些跟我一樣的人來擔任評委，我可是一個有20年從業經歷的唱片製作人。”\[5\]
 有很多關於評委人選的猜測，例如：[妮可·舒辛格](https://zh.wikipedia.org/wiki/妮可·舒辛格 "wikilink")、[乔治·迈克尔](../Page/乔治·迈克尔.md "wikilink")、\[6\]
 [妮琪·米娜](https://zh.wikipedia.org/wiki/妮琪·米娜 "wikilink")、\[7\]
-[蕾哈娜](../Page/蕾哈娜.md "wikilink")、[凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink")、[埃爾頓·約翰](https://zh.wikipedia.org/wiki/埃爾頓·約翰 "wikilink")、[瑪麗亞·凱莉和](https://zh.wikipedia.org/wiki/瑪麗亞·凱莉 "wikilink")[潔西卡·辛普森](../Page/潔西卡·辛普森.md "wikilink")，但是[西蒙·考威尔很快便否認了](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")[凱蒂·佩芮和](../Page/凱蒂·佩芮.md "wikilink")[埃爾頓·約翰會加入評委團](https://zh.wikipedia.org/wiki/埃爾頓·約翰 "wikilink")。\[8\]
+[蕾哈娜](../Page/蕾哈娜.md "wikilink")、[凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink")、[埃爾頓·約翰](https://zh.wikipedia.org/wiki/埃爾頓·約翰 "wikilink")、[瑪麗亞·凱莉和](../Page/瑪麗亞·凱莉.md "wikilink")[潔西卡·辛普森](../Page/潔西卡·辛普森.md "wikilink")，但是[西蒙·考威尔很快便否認了](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")[凱蒂·佩芮和](../Page/凱蒂·佩芮.md "wikilink")[埃爾頓·約翰會加入評委團](https://zh.wikipedia.org/wiki/埃爾頓·約翰 "wikilink")。\[8\]
 最後，[格萊美獎最佳唱片製作](https://zh.wikipedia.org/wiki/格萊美獎 "wikilink")、詞曲作者、唱片製作人，\[9\]\[10\]
 前任《[英國版X音素](../Page/英國版X音素.md "wikilink")》評委[雪莉·柯爾](../Page/雪莉·柯爾.md "wikilink")\[11\]\[12\]
 和[西蒙·考威尔在](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")《[美國偶像](../Page/美國偶像.md "wikilink")》里的搭檔及評委[寶拉·阿巴杜](../Page/寶拉·阿巴杜.md "wikilink")\[13\]
@@ -148,7 +148,7 @@
 
 ### 評委之家
 
-在“評委之家”環節中，評委兼導師會邀請某位明星擔任該組別的嘉賓導師。[西蒙·考威尔負責的女生組所在的](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")“評委之家”位於[法國的](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")，邀請的嘉賓導師是[瑪麗亞·凱莉](https://zh.wikipedia.org/wiki/瑪麗亞·凱莉 "wikilink")，但由於[颶風艾琳未能抵達而作罷](https://zh.wikipedia.org/wiki/颶風艾琳_\(2011年\) "wikilink")。[妮可·舒辛格負責的](https://zh.wikipedia.org/wiki/妮可·舒辛格 "wikilink")30歲以上組所在的“評委之家”位於[加利福尼亞州的](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[马利布](https://zh.wikipedia.org/wiki/马利布_\(加利福尼亚州\) "wikilink")，嘉賓導師是[安立奎·伊格萊西亞斯](../Page/安立奎·伊格萊西亞斯.md "wikilink")；[寶拉·阿巴杜負責的團隊組所在的](../Page/寶拉·阿巴杜.md "wikilink")“評委之家”位於[加利福尼亞州的](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[圣巴巴拉](../Page/圣巴巴拉_\(加利福尼亚州\).md "wikilink")，嘉賓導師是菲瑞·威廉斯（）；L·A·瑞德負責的男生組所在的“評委之家”位於[紐約州的漢普頓](https://zh.wikipedia.org/wiki/紐約州 "wikilink")，邀請的嘉賓導師是[蕾哈娜](../Page/蕾哈娜.md "wikilink")。\[35\]
+在“評委之家”環節中，評委兼導師會邀請某位明星擔任該組別的嘉賓導師。[西蒙·考威尔負責的女生組所在的](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")“評委之家”位於[法國的](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")，邀請的嘉賓導師是[瑪麗亞·凱莉](../Page/瑪麗亞·凱莉.md "wikilink")，但由於[颶風艾琳未能抵達而作罷](https://zh.wikipedia.org/wiki/颶風艾琳_\(2011年\) "wikilink")。[妮可·舒辛格負責的](https://zh.wikipedia.org/wiki/妮可·舒辛格 "wikilink")30歲以上組所在的“評委之家”位於[加利福尼亞州的](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[马利布](https://zh.wikipedia.org/wiki/马利布_\(加利福尼亚州\) "wikilink")，嘉賓導師是[安立奎·伊格萊西亞斯](../Page/安立奎·伊格萊西亞斯.md "wikilink")；[寶拉·阿巴杜負責的團隊組所在的](../Page/寶拉·阿巴杜.md "wikilink")“評委之家”位於[加利福尼亞州的](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[圣巴巴拉](../Page/圣巴巴拉_\(加利福尼亚州\).md "wikilink")，嘉賓導師是菲瑞·威廉斯（）；L·A·瑞德負責的男生組所在的“評委之家”位於[紐約州的漢普頓](https://zh.wikipedia.org/wiki/紐約州 "wikilink")，邀請的嘉賓導師是[蕾哈娜](../Page/蕾哈娜.md "wikilink")。\[35\]
 
 按照原定計劃，“評委之家”環節的實況將於10月12日、13日和18日播出。但是由於天氣原因導致2011年度[美國聯盟冠軍賽延遲播出](https://zh.wikipedia.org/wiki/美國聯盟冠軍賽 "wikilink")，因而“評委之家”的第一場實況播出也被延遲到10月13日播出。第二場實況則於10月16日播出，而第三場實況依然是在10月18日播出。在10月18日播出的最後一場實況中，每個評委將宣佈各組的四名選手晉級直播賽環節。同樣的，由於美國播出時間被延後，因此加拿大的播出時間也必須按照合同予以延後播出。\[36\]
 
@@ -805,7 +805,7 @@
 <tr class="even">
 <td><p>Astro</p></td>
 <td><p>6</p></td>
-<td><p>"<a href="https://zh.wikipedia.org/wiki/Lose_Yourself" title="wikilink">Lose Yourself</a>"</p></td>
+<td><p>"<a href="../Page/Lose_Yourself.md" title="wikilink">Lose Yourself</a>"</p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/8_Mile_(film)" title="wikilink">8 Mile</a></em></p></td>
 <td><p>晉級</p></td>
 </tr>

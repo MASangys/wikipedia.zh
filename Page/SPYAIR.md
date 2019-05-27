@@ -135,8 +135,7 @@
 <!-- end list -->
 
   - 2014年
-      - 為電視動畫《[排球少年！！](https://zh.wikipedia.org/wiki/排球少年！！ "wikilink")》創作「イマジネーション
-        」
+      - 為電視動畫《[排球少年！！](../Page/排球少年！！.md "wikilink")》創作「イマジネーション 」
       - 4月30日，第十四張單曲<イマジネーション>(Imagination)發行。
       - 5月，主唱IKE因聲帶息肉併發急性聲帶炎暫時中止演出活動。
       - 11月26日，第一張精選輯「BEST」發行。
@@ -151,10 +150,10 @@
       - 7月22日，為日本電視台×Hulu共同製作連續劇『THE LAST COP』的主題曲－第十六張單曲「FIRESTARTER」。
       - 8月8日，於日本[富士急高原樂園舉辦萬人野外LIVE](../Page/富士急高原樂園.md "wikilink")『JUST
         LIKE THIS 2015』。
-      - 9月5日，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台中](https://zh.wikipedia.org/wiki/台中 "wikilink")「[搖滾臺中](https://zh.wikipedia.org/wiki/搖滾臺中 "wikilink")」出演，首次登陸台灣，並在結束時表示明年會再來台灣。
+      - 9月5日，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台中](https://zh.wikipedia.org/wiki/台中 "wikilink")「[搖滾臺中](../Page/搖滾臺中.md "wikilink")」出演，首次登陸台灣，並在結束時表示明年會再來台灣。
       - 10月8日，宣佈將在2016年1月9日舉行台灣首場單獨演唱會。
       - 10月21日，發行第十七張單曲「アイム・ア・ビリーバー(I'M A
-        BELIEVER)」，同時為電視動畫《[排球少年！！](https://zh.wikipedia.org/wiki/排球少年！！ "wikilink")》第二季片頭曲。
+        BELIEVER)」，同時為電視動畫《[排球少年！！](../Page/排球少年！！.md "wikilink")》第二季片頭曲。
       - 11月18日，發行第四張正式專輯「4」。
       - 11月20日，發行第四張正式專輯「4」台壓版。
       - 12月6日，SPYAIR Live in SEOUL \~ I'M A BELIEVER 2015。
@@ -178,7 +177,7 @@
       - 7月15日，發行第十八張單曲「THIS IS HOW WE ROCK」台壓版。
       - 7月30日，舉辦第二次富士急高原樂園萬人野外LIVE『JUST LIKE THIS 2016』。
       - 8月13日，首次於中國上海舉行單獨演唱會 SPYAIR LIVE IN Shanghai 2016。
-      - 8月27日，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台中](https://zh.wikipedia.org/wiki/台中 "wikilink")[無懼音樂祭No](https://zh.wikipedia.org/wiki/無懼音樂祭 "wikilink")
+      - 8月27日，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台中](https://zh.wikipedia.org/wiki/台中 "wikilink")[無懼音樂祭No](../Page/無懼音樂祭.md "wikilink")
         Fear Festival
         2016出演。並宣布同年12月17日，於台灣新北市[新莊體育館ONE](../Page/新莊體育館.md "wikilink")
         MAN LIVE演唱會出演。
@@ -233,7 +232,7 @@
       - 1月18日，發行數位單曲『B-THE ONE』，為日本職籃B.LEAGUE 2018-19 SEASON製作應援曲。
       - 3月27日，發行富士急萬人野外LIVE DVD『JUST LIKE THIS 2018』。
       - 4月3日，發行數位單曲『PRIDE OF
-        LIONS』，為[日本體育大學製作應援曲](https://zh.wikipedia.org/wiki/日本體育大學 "wikilink")。
+        LIONS』，為[日本體育大學製作應援曲](../Page/日本體育大學.md "wikilink")。
       - 7月27日，舉辦第五次富士急高原樂園萬人野外LIVE『JUST LIKE THIS 2019』。
 
 ## 外部連結

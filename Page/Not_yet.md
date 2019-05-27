@@ -82,8 +82,7 @@ H成員並兼任劇場經理\[2\]，而大島優子於2014年6月9日正式從AK
     yet](../Page/週末Not_yet.md "wikilink")》出道。另外，預訂同日在舉辦的針對單曲預約者的抽選活動受[東日本大震災影響而中止](../Page/東日本大震災.md "wikilink")\[9\]。
   - 3月28日，第1張單曲《週末Not
     yet》獲得[Oricon週榜第](../Page/Oricon.md "wikilink")1位，銷售額爲AKB48衍生組合首週單曲銷量中的最高記錄（16萬張）\[10\]。
-  - 5月14日，於[有明競技場舉行Not](https://zh.wikipedia.org/wiki/有明競技場 "wikilink")
-    yet的首次活動「」\[11\]。
+  - 5月14日，於[有明競技場舉行Not](../Page/有明競技場.md "wikilink") yet的首次活動「」\[11\]。
   - 7月6日，第2張單曲《[破浪刨冰](../Page/破浪刨冰.md "wikilink")》發售。
   - 10月9日，組合首個固定節目《》開始播映，主持為[劇團一人](../Page/劇團一人.md "wikilink")。
   - 11月16日，第3張單曲《[愛說愛說愛說的男人](../Page/愛說愛說愛說的男人.md "wikilink")》發售，並在首周獲得17萬張的銷量，再次刷新自身所保持的AKB48衍生組合首週單曲銷量的最高記錄。
@@ -351,7 +350,7 @@ COBA-6703-4</p></td>
 <tr class="odd">
 <td><p>第1張單曲《<a href="../Page/週末Not_yet.md" title="wikilink">週末Not yet</a>》</p></td>
 <td><p><strong>《週末Not yet》</strong></p></td>
-<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台週末夜間電視劇</a>《<a href="https://zh.wikipedia.org/wiki/Dr.伊良部一郎" title="wikilink">Dr.伊良部一郎</a>》主題歌</p></td>
+<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台週末夜間電視劇</a>《<a href="../Page/Dr.伊良部一郎.md" title="wikilink">Dr.伊良部一郎</a>》主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>《飄飄》</strong></p></td>
@@ -427,9 +426,9 @@ TBS《》結尾曲<br />
 
 ### 電視劇
 
-  - [Dr.伊良部一郎](https://zh.wikipedia.org/wiki/Dr.伊良部一郎 "wikilink")
-    第7話（2011年3月20日；[朝日電視台](../Page/朝日電視台.md "wikilink")）：飾演 本人（Not
-    yet）
+  - [Dr.伊良部一郎](../Page/Dr.伊良部一郎.md "wikilink")
+    第7話（2011年3月20日；[朝日電視台](../Page/朝日電視台.md "wikilink")）：飾演
+    本人（Not yet）
 
 ### 電視節目
 

@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - [日本放送](../Page/日本放送.md "wikilink")、[茨城放送](https://zh.wikipedia.org/wiki/茨城放送 "wikilink")
+  - [日本放送](../Page/日本放送.md "wikilink")、[茨城放送](../Page/茨城放送.md "wikilink")
     ※與電視同步直播
       - 同日18:55 - 22:00（茨城放送20:00開始）
   - [IBC岩手放送](https://zh.wikipedia.org/wiki/IBC岩手放送 "wikilink")、[東北放送](https://zh.wikipedia.org/wiki/東北放送 "wikilink")、[福島廣播電台](https://zh.wikipedia.org/wiki/福島廣播電台 "wikilink")※錄音播放
@@ -59,7 +59,7 @@
   - [JUJU](../Page/JUJU.md "wikilink")
   - [菅止戈男](../Page/菅止戈男.md "wikilink")
   - [TUBE](https://zh.wikipedia.org/wiki/TUBE "wikilink")
-  - [冰川清志](../Page/冰川清志.md "wikilink")（演唱災區出身的大前輩[千昌夫的名曲](https://zh.wikipedia.org/wiki/千昌夫 "wikilink")《[北國之春](https://zh.wikipedia.org/wiki/北國之春 "wikilink")》
+  - [冰川清志](../Page/冰川清志.md "wikilink")（演唱災區出身的大前輩[千昌夫的名曲](../Page/千昌夫.md "wikilink")《[北國之春](https://zh.wikipedia.org/wiki/北國之春 "wikilink")》
     ）
   - [一青窈](../Page/一青窈.md "wikilink")
   - [平原綾香](../Page/平原綾香.md "wikilink")

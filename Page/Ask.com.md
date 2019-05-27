@@ -1,4 +1,4 @@
-**Ask.com**是1996年出现在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[伯克利的一个](https://zh.wikipedia.org/wiki/伯克利 "wikilink")[搜索引擎](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")，后来运营总部迁往[奥克兰](../Page/奥克兰_\(加利福尼亚州\).md "wikilink")。
+**Ask.com**是1996年出现在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[伯克利的一个](https://zh.wikipedia.org/wiki/伯克利 "wikilink")[搜索引擎](../Page/搜索引擎.md "wikilink")，后来运营总部迁往[奥克兰](../Page/奥克兰_\(加利福尼亚州\).md "wikilink")。
 
 1999年7月，Ask.com曾以ASKJ为代号在[纳斯达克上市](../Page/纳斯达克.md "wikilink")，2005年7月，被现在的母公司InterActiveCorp收购。
 

@@ -271,7 +271,7 @@ Boyz》、《Sunshine Girlz》、《Sunshine Nation》或《SSN》。
 <td><p>8月31日</p></td>
 <td><p><a href="../Page/李北岳.md" title="wikilink">李北岳</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/節樂米" title="wikilink">節樂米</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李振綱" title="wikilink">李振綱</a></p></td>
+<td><p><a href="../Page/李振綱.md" title="wikilink">李振綱</a></p></td>
 <td><p>才藝大獎：節樂米</p></td>
 </tr>
 </tbody>

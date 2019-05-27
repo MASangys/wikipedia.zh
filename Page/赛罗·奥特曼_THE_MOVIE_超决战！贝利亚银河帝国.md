@@ -72,7 +72,7 @@ Belial）是于2010年12月23日在日本[松竹系电影院上映的由](../Pag
   - アイアロン：[若本規夫](../Page/若本規夫.md "wikilink")
   - ダークゴーネ：[川下大洋](https://zh.wikipedia.org/wiki/川下大洋 "wikilink")
   - 二次元の民：[石田信之](../Page/石田信之.md "wikilink")
-  - ナレーション：[石坂浩二](https://zh.wikipedia.org/wiki/石坂浩二 "wikilink")
+  - ナレーション：[石坂浩二](../Page/石坂浩二.md "wikilink")
 
 ## 工作人员
 

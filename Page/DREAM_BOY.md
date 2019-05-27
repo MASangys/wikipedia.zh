@@ -132,12 +132,12 @@ Hall上演。3月8日夜場為本劇第200場公演。
   - [五関晃一](https://zh.wikipedia.org/wiki/五関晃一 "wikilink")（當時A.B.C.,現在為[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")）
   - 鳳蘭
   - [伊央里直加](https://zh.wikipedia.org/wiki/伊央里直加 "wikilink")
-  - [神山智洋](https://zh.wikipedia.org/wiki/神山智洋 "wikilink")（当時[TOP
+  - [神山智洋](../Page/神山智洋.md "wikilink")（当時[TOP
     Kids](https://zh.wikipedia.org/wiki/Johnny's_Jr.解散グループ_\(2000年以降\)#TOP_Kids "wikilink")・[Hey\!
     Say\! 7
     West](https://zh.wikipedia.org/wiki/7_WEST "wikilink"),現在為[Johnny's
     WEST](../Page/Johnny's_WEST.md "wikilink")）
-  - [濱田崇裕](https://zh.wikipedia.org/wiki/濱田崇裕 "wikilink")（当時BOYS,現在為[Johnny's
+  - [濱田崇裕](../Page/濱田崇裕.md "wikilink")（当時BOYS,現在為[Johnny's
     WEST](../Page/Johnny's_WEST.md "wikilink")）
   - [千崎涼太](https://zh.wikipedia.org/wiki/千崎涼太 "wikilink")（当時[OSSaN](https://zh.wikipedia.org/wiki/Johnny's_Jr.解散グループ_\(2000年以降\)#OSSAN "wikilink")）
   - [関西\* Johnny's
@@ -208,7 +208,7 @@ Hall上演。3月8日夜場為本劇第200場公演。
   - [宮田俊哉](../Page/宮田俊哉.md "wikilink")（Kis-My-Ft2）
   - [鳳蘭](https://zh.wikipedia.org/wiki/鳳蘭 "wikilink")
   - [紫吹淳](https://zh.wikipedia.org/wiki/紫吹淳 "wikilink")
-  - [平野紫耀](https://zh.wikipedia.org/wiki/平野紫耀 "wikilink")・[永瀬廉](https://zh.wikipedia.org/wiki/永瀬廉 "wikilink")（關西Johnny's
+  - [平野紫耀](../Page/平野紫耀.md "wikilink")・[永瀬廉](https://zh.wikipedia.org/wiki/永瀬廉 "wikilink")（關西Johnny's
     Jr．）
   - 高橋海人（Johnny's Jr.）
 
@@ -241,7 +241,7 @@ DREAM BOYS史上初次雙陣容主演，主演陣容主演者分別為玉森裕�
   - 宮田俊哉（Kis-My-Ft2）
   - Johnny's
     5（[高橋海人](https://zh.wikipedia.org/wiki/高橋海人 "wikilink")、[橋本涼](https://zh.wikipedia.org/wiki/橋本涼 "wikilink")、[井上瑞稀](https://zh.wikipedia.org/wiki/井上瑞稀 "wikilink")、[猪狩蒼弥](https://zh.wikipedia.org/wiki/猪狩蒼弥 "wikilink")、[高橋優斗](https://zh.wikipedia.org/wiki/高橋優斗 "wikilink")）
-  - [Love-tune](https://zh.wikipedia.org/wiki/Love-tune "wikilink")（[長妻怜央](https://zh.wikipedia.org/wiki/長妻怜央 "wikilink")、[諸星翔希](https://zh.wikipedia.org/wiki/諸星翔希 "wikilink")、[真田佑馬](https://zh.wikipedia.org/wiki/真田佑馬 "wikilink")、[安井謙太郎](../Page/安井謙太郎.md "wikilink")、[萩谷慧悟](../Page/萩谷慧悟.md "wikilink")、[森田美勇人](https://zh.wikipedia.org/wiki/森田美勇人 "wikilink")、[阿部顯嵐](https://zh.wikipedia.org/wiki/阿部顯嵐 "wikilink")）
+  - [Love-tune](../Page/Love-tune.md "wikilink")（[長妻怜央](https://zh.wikipedia.org/wiki/長妻怜央 "wikilink")、[諸星翔希](https://zh.wikipedia.org/wiki/諸星翔希 "wikilink")、[真田佑馬](https://zh.wikipedia.org/wiki/真田佑馬 "wikilink")、[安井謙太郎](../Page/安井謙太郎.md "wikilink")、[萩谷慧悟](../Page/萩谷慧悟.md "wikilink")、[森田美勇人](https://zh.wikipedia.org/wiki/森田美勇人 "wikilink")、[阿部顯嵐](../Page/阿部顯嵐.md "wikilink")）
   - 鳳蘭
   - 紫吹淳
 

@@ -7,7 +7,7 @@ Forward**》（）是[芳文社發行的](../Page/芳文社.md "wikilink")[漫�
 Time Kirara
 Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》、《[Manga
 Time Kirara
-MAX](https://zh.wikipedia.org/wiki/Manga_Time_Kirara_MAX "wikilink")》的第4個『Kirara』系雑誌。
+MAX](../Page/Manga_Time_Kirara_MAX.md "wikilink")》的第4個『Kirara』系雑誌。
 
 與連載[四格漫畫的其他姊妹誌不同](../Page/四格漫畫.md "wikilink")，本誌的定位為「故事誌」。其連載作品，在不受到四格漫畫分鏡的限制下，可以多使用較大的格子來作表現故事及畫面，也因此以[SF](../Page/科學幻想.md "wikilink")、[奇幻為故事主題的作品比例亦較其他姊妹誌高](../Page/奇幻作品.md "wikilink")。
 
@@ -83,33 +83,31 @@ Kirara](../Page/Manga_Time_Kirara.md "wikilink")》的內容。
       - 由開發之手機遊戲。有許多《[Manga Time
         Kirara](../Page/Manga_Time_Kirara.md "wikilink")》系列誌連載作品的角色登場。於《Manga
         Time Kirara
-        Forward》連載的登場作品包含「[學園孤島](../Page/學園孤島.md "wikilink")」、「[食夢者瑪莉](https://zh.wikipedia.org/wiki/食夢者瑪莉 "wikilink")」、「[搖曳露營△](https://zh.wikipedia.org/wiki/搖曳露營△ "wikilink")」、「花舞少女」、「[Anne
-        Happy♪](../Page/Anne_Happy_♪.md "wikilink")」、「[遙的接球](https://zh.wikipedia.org/wiki/遙的接球 "wikilink")」。
+        Forward》連載的登場作品包含「[學園孤島](../Page/學園孤島.md "wikilink")」、「[食夢者瑪莉](https://zh.wikipedia.org/wiki/食夢者瑪莉 "wikilink")」、「[搖曳露營△](../Page/搖曳露營△.md "wikilink")」、「花舞少女」、「[Anne
+        Happy♪](../Page/Anne_Happy_♪.md "wikilink")」、「[遙的接球](../Page/遙的接球.md "wikilink")」。
 
 ## 連載作品
 
 （依連載開始的順序）
 
-  - [食夢者瑪莉](https://zh.wikipedia.org/wiki/食夢者瑪莉 "wikilink")（[牛木義隆](https://zh.wikipedia.org/wiki/牛木義隆 "wikilink")、2008年5月號
+  - [食夢者瑪莉](https://zh.wikipedia.org/wiki/食夢者瑪莉 "wikilink")（[牛木義隆](../Page/牛木義隆.md "wikilink")、2008年5月號
     - ）
 
-  - [學園孤島](../Page/學園孤島.md "wikilink")（原作：[海法紀光](https://zh.wikipedia.org/wiki/海法紀光 "wikilink")（[Nitro+](../Page/Nitro+.md "wikilink")）/作畫：[千葉鞍](https://zh.wikipedia.org/wiki/千葉鞍 "wikilink")、2012年7月號
+  - [學園孤島](../Page/學園孤島.md "wikilink")（原作：[海法紀光](../Page/海法紀光.md "wikilink")（[Nitro+](../Page/Nitro+.md "wikilink")）/作畫：[千葉鞍](../Page/千葉鞍.md "wikilink")、2012年7月號
     - ）
 
-  - [遙的接球](https://zh.wikipedia.org/wiki/遙的接球 "wikilink")（[如意自在](https://zh.wikipedia.org/wiki/如意自在 "wikilink")、2015年10月號
+  - [遙的接球](../Page/遙的接球.md "wikilink")（[如意自在](../Page/如意自在.md "wikilink")、2015年10月號
     - ）
 
   - [球詠](https://zh.wikipedia.org/wiki/球詠 "wikilink")（、2016年6月號 - ）
 
-  - [我的居酒屋日記](https://zh.wikipedia.org/wiki/我的居酒屋日記 "wikilink")（、2016年7月號
-    - ）
+  - [我的居酒屋日記](../Page/我的居酒屋日記.md "wikilink")（、2016年7月號 - ）
 
   - [巴麻美的平凡日常](https://zh.wikipedia.org/wiki/魔法少女小圓漫畫作品#MANGA_TIME_KIRARA_MAGICA "wikilink")（原案：Magica
     Quartet/漫画：あらたまい、2017年5月号 - ）※自『[MANGA TIME KIRARA
     MAGICA](https://zh.wikipedia.org/wiki/魔法少女小圓漫畫作品#MANGA_TIME_KIRARA_MAGICA "wikilink")』移籍、截至2017年12月號為止為隔月連載（奇數月號揭載）
 
-  - （[Hanokage](https://zh.wikipedia.org/wiki/Hanokage "wikilink")、2018年1月號
-    - ）
+  - （[Hanokage](../Page/Hanokage.md "wikilink")、2018年1月號 - ）
 
   - （、2018年7月號 - ）
 
@@ -155,8 +153,7 @@ Kirara](../Page/Manga_Time_Kirara.md "wikilink")》的內容。
     （[Hiroyuki](https://zh.wikipedia.org/wiki/自稱清純派 "wikilink")）
 
   - [你和我的前世因緣](../Page/你和我的前世因緣.md "wikilink")
-    （[荒井切利](https://zh.wikipedia.org/wiki/荒井切利 "wikilink")
-    -2009年1月號）
+    （[荒井切利](../Page/荒井切利.md "wikilink") -2009年1月號）
 
   - [わさびアラモードっ\!\!](https://zh.wikipedia.org/wiki/わさびアラモードっ!! "wikilink")
     （）
@@ -173,14 +170,13 @@ Kirara](../Page/Manga_Time_Kirara.md "wikilink")》的內容。
   - （ -2009年5月號）
 
   - [オニナギ](https://zh.wikipedia.org/wiki/オニナギ "wikilink")
-    （[石田晶](https://zh.wikipedia.org/wiki/石田晶 "wikilink")
-    Vol.1-2010年4月號）
+    （[石田晶](../Page/石田晶.md "wikilink") Vol.1-2010年4月號）
 
   - （[岬下部せすな](https://zh.wikipedia.org/wiki/岬下部せすな "wikilink")
     Vol.1-2010年10月號 （2007年11月號,2008年8月號,2009年5月號休載））
 
   - [桃色魔法使](../Page/桃色魔法使.md "wikilink")
-    （[高崎雄貴](https://zh.wikipedia.org/wiki/高崎雄貴 "wikilink")
+    （[高崎雄貴](../Page/高崎雄貴.md "wikilink")
     Vol.4-2010年2月號）
 
   - [实乃里Scramble\!](https://zh.wikipedia.org/wiki/实乃里Scramble! "wikilink")
@@ -225,21 +221,20 @@ Kirara](../Page/Manga_Time_Kirara.md "wikilink")》的內容。
 
   - [心比天高](../Page/心比天高.md "wikilink")（、2007年11月號 - 2009年1月號）
 
-  - （[里好](https://zh.wikipedia.org/wiki/里好 "wikilink")、2008年9月號 -
-    2011年11月號）
+  - （[里好](../Page/里好.md "wikilink")、2008年9月號 - 2011年11月號）
 
   - （[雙](../Page/濱弓場雙.md "wikilink")、2009年3月號 - 2011年2月號）
 
   - [少女素数](https://zh.wikipedia.org/wiki/少女素数 "wikilink") （、2009年6月號 -
     2013年4月號）
 
-  - [純真ミラクル100%](https://zh.wikipedia.org/wiki/純真ミラクル100% "wikilink")（[秋★枝](https://zh.wikipedia.org/wiki/秋★枝 "wikilink")、2009年8月號
+  - [純真ミラクル100%](https://zh.wikipedia.org/wiki/純真ミラクル100% "wikilink")（[秋★枝](../Page/秋★枝.md "wikilink")、2009年8月號
     - 2010年12月號） ※自《》移籍連載
 
   - [鄰座的柏木同學](../Page/鄰座的柏木同學.md "wikilink")（[霜月絹鯊](../Page/霜月絹鯊.md "wikilink")、2009年11月號
     - 2016年10月號）
 
-  - [大江山流護身術道場](https://zh.wikipedia.org/wiki/大江山流護身術道場 "wikilink")（[KAKERU](https://zh.wikipedia.org/wiki/KAKERU "wikilink")、2009年12月號客串、2010年2月號
+  - [大江山流護身術道場](https://zh.wikipedia.org/wiki/大江山流護身術道場 "wikilink")（[KAKERU](../Page/KAKERU.md "wikilink")、2009年12月號客串、2010年2月號
     - 2011年2月號）
 
   - [キスメグルセカイ](https://zh.wikipedia.org/wiki/キスメグルセカイ "wikilink")（[ジェームスほたて](https://zh.wikipedia.org/wiki/ジェームスほたて "wikilink")、2010年1月號
@@ -262,8 +257,8 @@ Kirara](../Page/Manga_Time_Kirara.md "wikilink")》的內容。
   - （[水本正](https://zh.wikipedia.org/wiki/水本正 "wikilink")、2010年8月號 -
     2012年6月號、偶數月號隔月連載）
 
-  - （[卯花つかさ](https://zh.wikipedia.org/wiki/卯花つかさ "wikilink")、2010年11月號 -
-    2011年4月號、2012年2月號 - 2014年5月號）
+  - （[卯花つかさ](../Page/卯花つかさ.md "wikilink")、2010年11月號 - 2011年4月號、2012年2月號
+    - 2014年5月號）
 
   - [聖アベリア女学院](https://zh.wikipedia.org/wiki/聖アベリア女学院 "wikilink")（、2010年10月號客串、2011年5月號
     - 2011年10月號）
@@ -289,7 +284,7 @@ Kirara](../Page/Manga_Time_Kirara.md "wikilink")》的內容。
   - [花舞少女](../Page/花舞少女.md "wikilink")（[濱弓場雙](../Page/濱弓場雙.md "wikilink")、2011年6月號
     - 2018年4月號）
 
-  - [ハームフルビューティフル](https://zh.wikipedia.org/wiki/ハームフルビューティフル "wikilink")（[高崎雄貴](https://zh.wikipedia.org/wiki/高崎雄貴 "wikilink")、2011年11月號
+  - [ハームフルビューティフル](https://zh.wikipedia.org/wiki/ハームフルビューティフル "wikilink")（[高崎雄貴](../Page/高崎雄貴.md "wikilink")、2011年11月號
     - 2013年2月號）
 
   - [私がヒロインじゃない理由](https://zh.wikipedia.org/wiki/私がヒロインじゃない理由 "wikilink")（[鴻巣覚](https://zh.wikipedia.org/wiki/鴻巣覚 "wikilink")、2011年12月號
@@ -312,7 +307,7 @@ Kirara](../Page/Manga_Time_Kirara.md "wikilink")》的內容。
     - 2014年2月號）
 
   - [Anne
-    Happy♪](../Page/Anne_Happy_♪.md "wikilink")（[琴慈](https://zh.wikipedia.org/wiki/琴慈 "wikilink")、2013年2月號
+    Happy♪](../Page/Anne_Happy_♪.md "wikilink")（[琴慈](../Page/琴慈.md "wikilink")、2013年2月號
     - 2019年1月號）
 
   - [球場の令嬢](https://zh.wikipedia.org/wiki/球場の令嬢 "wikilink")（[まりりん](https://zh.wikipedia.org/wiki/まりりん "wikilink")、2013年2月號
@@ -391,8 +386,8 @@ Kirara](../Page/Manga_Time_Kirara.md "wikilink")》的內容。
   - [怪獣の飼育委員](https://zh.wikipedia.org/wiki/怪獣の飼育委員 "wikilink")（[島崎無印](https://zh.wikipedia.org/wiki/島崎無印 "wikilink")、2014年8月號、11月號、2015年1月號
     - 2月號客串、7月號 - 2016年3月號）
 
-  - [搖曳露營△](https://zh.wikipedia.org/wiki/搖曳露營△ "wikilink")（、2015年7月號 -
-    2019年4月號）※移籍至『COMIC FUZ』
+  - [搖曳露營△](../Page/搖曳露營△.md "wikilink")（、2015年7月號 - 2019年4月號）※移籍至『COMIC
+    FUZ』
 
   - [ほおばれ\!草食女子](https://zh.wikipedia.org/wiki/ほおばれ!草食女子 "wikilink")（[あらたまい](https://zh.wikipedia.org/wiki/あらたまい "wikilink")、2015年8月號
     - 2017年12月號）※自2017年4月號起隔月連載（偶數月號掲載）

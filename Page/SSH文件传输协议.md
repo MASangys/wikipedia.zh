@@ -6,7 +6,7 @@ FTP**或字母缩写：**SFTP**）是一連線，提供[檔案存取](https://zh
 
 ## 能力
 
-与早期的[SCP協定只允許檔案傳輸相比](https://zh.wikipedia.org/wiki/安全复制 "wikilink")，SFTP允許對遠端檔案进行更廣泛的操作——這更像一个遠端[檔案系統協定](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")。一個SFTP[客戶端與SCP的能力比較包括額外的回復中斷傳輸](https://zh.wikipedia.org/wiki/客戶端 "wikilink")，目錄列表和遠端檔案移動。\[1\]
+与早期的[SCP協定只允許檔案傳輸相比](../Page/安全复制.md "wikilink")，SFTP允許對遠端檔案进行更廣泛的操作——這更像一个遠端[檔案系統協定](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")。一個SFTP[客戶端與SCP的能力比較包括額外的回復中斷傳輸](https://zh.wikipedia.org/wiki/客戶端 "wikilink")，目錄列表和遠端檔案移動。\[1\]
 
 ## 參考文獻
 

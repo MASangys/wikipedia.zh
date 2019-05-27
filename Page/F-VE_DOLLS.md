@@ -38,7 +38,7 @@ Media](https://zh.wikipedia.org/wiki/GM_Contents_Media "wikilink")。
 
 2013年2月17日，通過twitter表示已正式退出5dolls。
 
-2013年2月19日，所屬公司表示5dolls從5人體制改為6人體制，加入英國出身的[Shannon以及專攻舞蹈的](https://zh.wikipedia.org/wiki/Shannon_\(韓國歌手\) "wikilink")**智賢**。
+2013年2月19日，所屬公司表示5dolls從5人體制改為6人體制，加入英國出身的[Shannon以及專攻舞蹈的](../Page/Shannon_\(韓國歌手\).md "wikilink")**智賢**。
 
 2013年3月3日，[孝榮參與](../Page/柳孝榮.md "wikilink") Davichi 回歸曲《거북이 (Turtle /
 烏龜)》 MV。
@@ -53,11 +53,11 @@ Ver的配角及伴舞。
 SeeYa幼真](../Page/The_SeeYa.md "wikilink")、[SPEED泰雲和成旻合作演唱抒情曲](https://zh.wikipedia.org/wiki/SPEED_\(韓國組合\) "wikilink")〈Painkiller〉(止痛藥)。因[昭妍當時在日本宣傳](../Page/朴昭妍.md "wikilink")[QBS出道單曲](../Page/QBS.md "wikilink")，[承希代替](../Page/曺承希.md "wikilink")[昭妍參與](../Page/朴昭妍.md "wikilink")〈Painkiller〉(止痛藥)的打歌現場。
 
 2013年7月10日，所屬公司宣布5dolls組合成員變化，加入2012年的「春香真」[承希和](../Page/曺承希.md "wikilink")[The
-SeeYa成員](../Page/The_SeeYa.md "wikilink")[書仁](https://zh.wikipedia.org/wiki/連卿 "wikilink")。而今年2月加入的[Shannon計畫在練習](https://zh.wikipedia.org/wiki/Shannon_\(韓國歌手\) "wikilink")1、2年後solo出道，**智賢**則是預計之後成為其他组合成員出道。
+SeeYa成員](../Page/The_SeeYa.md "wikilink")[書仁](https://zh.wikipedia.org/wiki/連卿 "wikilink")。而今年2月加入的[Shannon計畫在練習](../Page/Shannon_\(韓國歌手\).md "wikilink")1、2年後solo出道，**智賢**則是預計之後成為其他组合成員出道。
 
 2013年7月11日，宣佈更改團名為**「F-VE DOLLS」**重新出發。
 
-2013年7月29日，公開新曲〈[第一靈魂伴侶](https://zh.wikipedia.org/wiki/第一靈魂伴侶 "wikilink")〉(Soulmate
+2013年7月29日，公開新曲〈[第一靈魂伴侶](../Page/第一靈魂伴侶.md "wikilink")〉(Soulmate
 \#1)。以及在距離上一首派台歌《이러쿵 저러쿵》(This and That)
 兩年的時間後，推出單曲《第一靈魂伴侶》。《第一靈魂伴侶》由[二段橫踢創作](https://zh.wikipedia.org/wiki/二段橫踢 "wikilink")，並加入迪斯科編舞增加看點。
 
@@ -83,7 +83,7 @@ SeeYa新輯主打歌](../Page/The_SeeYa.md "wikilink")《Tell Me》MV。
 
 2014年9月16日，[孝榮確定出演](../Page/柳孝榮.md "wikilink")
 [TVN](../Page/TVN.md "wikilink")
-新日日劇《[家族的秘密](https://zh.wikipedia.org/wiki/家族的秘密 "wikilink")》，在劇中飾演高恩星。
+新日日劇《[家族的秘密](../Page/家族的秘密.md "wikilink")》，在劇中飾演高恩星。
 
 2014年10月，所屬的經紀公司[Core Contents
 Media](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")
@@ -134,7 +134,7 @@ Media](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Shannon_(韓國歌手)" title="wikilink">香濃</a></p></td>
+<td><p><a href="../Page/Shannon_(韓國歌手).md" title="wikilink">香濃</a></p></td>
 </tr>
 <tr class="even">
 <td><p>金亞凜</p></td>
@@ -283,9 +283,9 @@ PlotData =
 | 2012-2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [學校2013](../Page/學校2013.md "wikilink")                                | 孝榮       | 李江珠       | 主要人物 | 全劇      |
 | 2014年      | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [陽光滿溢](../Page/陽光滿溢.md "wikilink")                                    | 承希       | 斗娜        | 客串   | 2\~4,16 |
 | 2014年      | [JTBC](../Page/JTBC.md "wikilink")                  | [山蒜醬湯：12年後的重逢](https://zh.wikipedia.org/wiki/山蒜醬湯：12年後的重逢 "wikilink") | 孝榮       | 朱多海(少年)   | 主要演員 | 1-13集   |
-| 2014年      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [Triangle](https://zh.wikipedia.org/wiki/Triangle_\(電視劇\) "wikilink") | 承希       |           | 客串   | 25      |
+| 2014年      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [Triangle](../Page/Triangle_\(電視劇\).md "wikilink")                    | 承希       |           | 客串   | 25      |
 | 2014年      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [更夫日誌](../Page/更夫日誌.md "wikilink")                                    | 承希       |           | 客串   | 8,9     |
-| 2014-2015年 | [TVN](../Page/TVN.md "wikilink")                    | [家族的秘密](https://zh.wikipedia.org/wiki/家族的秘密 "wikilink")               | 孝榮       | 高恩星/白水晶   | 主要人物 |         |
+| 2014-2015年 | [TVN](../Page/TVN.md "wikilink")                    | [家族的秘密](../Page/家族的秘密.md "wikilink")                                  | 孝榮       | 高恩星/白水晶   | 主要人物 |         |
 | 2015年      | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [向著明天奔跑](../Page/向著明天奔跑.md "wikilink")                                | 慧沅       | 韓宥貞(少年)   | 主要人物 |         |
 
 ### 音樂劇
@@ -315,9 +315,9 @@ PlotData =
 
 ### 原聲帶
 
-| 年份   | 收錄專輯                                                                          | 歌名             | 演唱者 | 備註                                                           |
-| ---- | ----------------------------------------------------------------------------- | -------------- | --- | ------------------------------------------------------------ |
-| 2014 | 電視劇《[Triangle](https://zh.wikipedia.org/wiki/Triangle_\(電視劇\) "wikilink")》OST | 〈Kiss And Cry〉 | 承希  | 與[芝妍](https://zh.wikipedia.org/wiki/朴芝妍 "wikilink")、Shorry J |
+| 年份   | 收錄專輯                                                       | 歌名             | 演唱者 | 備註                                                           |
+| ---- | ---------------------------------------------------------- | -------------- | --- | ------------------------------------------------------------ |
+| 2014 | 電視劇《[Triangle](../Page/Triangle_\(電視劇\).md "wikilink")》OST | 〈Kiss And Cry〉 | 承希  | 與[芝妍](https://zh.wikipedia.org/wiki/朴芝妍 "wikilink")、Shorry J |
 
 ### 數位單曲
 

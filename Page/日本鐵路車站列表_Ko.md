@@ -31,7 +31,7 @@
 <td><p>Koshigaya-Eki</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/越谷湖城站" title="wikilink">越谷湖城車站</a></p></td>
+<td><p><a href="../Page/越谷湖城站.md" title="wikilink">越谷湖城車站</a></p></td>
 <td></td>
 <td><p>Koshigaya-Laketown-Eki</p></td>
 </tr>

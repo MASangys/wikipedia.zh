@@ -235,7 +235,7 @@ DJ的女性（DJの女性，配音演员：松岛实）<br />
 <td></td>
 <td><p>抢夺宝石大作战</p></td>
 <td><p>七條門</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/出崎哲" title="wikilink">出崎哲</a></p></td>
+<td><p><a href="../Page/出崎哲.md" title="wikilink">出崎哲</a></p></td>
 <td><p>海狸（ビーバー，配音演员：盐见龙介）</p></td>
 <td></td>
 </tr>
@@ -327,7 +327,7 @@ DJ的女性（DJの女性，配音演员：松岛实）<br />
   - 音樂：[山下毅雄](https://zh.wikipedia.org/wiki/山下毅雄 "wikilink")
   - 演出：[大隅正秋](https://zh.wikipedia.org/wiki/おおすみ正秋 "wikilink")→[Aプロダクション](https://zh.wikipedia.org/wiki/シンエイ動画 "wikilink")（[宮崎駿](https://zh.wikipedia.org/wiki/宮崎駿 "wikilink")、[高畑勲](https://zh.wikipedia.org/wiki/高畑勲 "wikilink")）
   - 原画：[小林治](https://zh.wikipedia.org/wiki/小林治_\(アニメ演出家\) "wikilink")、[青木悠三](https://zh.wikipedia.org/wiki/青木悠三 "wikilink")、[今沢哲男](https://zh.wikipedia.org/wiki/今沢哲男 "wikilink")、[岡迫亘弘](https://zh.wikipedia.org/wiki/岡迫亘弘 "wikilink")、[木村圭市郎](https://zh.wikipedia.org/wiki/木村圭市郎 "wikilink")、[山口泰弘](https://zh.wikipedia.org/wiki/山口泰弘 "wikilink")、[村田耕一](https://zh.wikipedia.org/wiki/村田耕一 "wikilink")、[近藤喜文](../Page/近藤喜文.md "wikilink")、[本多敏行](https://zh.wikipedia.org/wiki/本多敏行 "wikilink")、[金沢比呂司](https://zh.wikipedia.org/wiki/金沢比呂司 "wikilink")、[湖川友謙](https://zh.wikipedia.org/wiki/湖川友謙 "wikilink")
-  - 動画：[前田実](https://zh.wikipedia.org/wiki/前田実 "wikilink")、[福富博](https://zh.wikipedia.org/wiki/福富博 "wikilink")、[山田道代](https://zh.wikipedia.org/wiki/山田みちしろ "wikilink")
+  - 動画：[前田実](https://zh.wikipedia.org/wiki/前田実 "wikilink")、[福富博](../Page/福富博.md "wikilink")、[山田道代](https://zh.wikipedia.org/wiki/山田みちしろ "wikilink")
   - 制作：[读卖电视台](https://zh.wikipedia.org/wiki/读卖电视台 "wikilink")・[東京ムービー](https://zh.wikipedia.org/wiki/東京ムービー "wikilink")
 
 ## 參考來源

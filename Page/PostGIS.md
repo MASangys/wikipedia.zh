@@ -48,7 +48,7 @@ PostGIS是一个重要的GIS基础软件，因为目前它是为数不多的开�
   - [Manifold
     System](https://zh.wikipedia.org/wiki/Manifold_System "wikilink")
   - [MapInfo Professional](../Page/MapInfo_Professional.md "wikilink")
-  - [Mapnik](https://zh.wikipedia.org/wiki/Mapnik "wikilink")
+  - [Mapnik](../Page/Mapnik.md "wikilink")
     ([LGPL](https://zh.wikipedia.org/wiki/LGPL "wikilink"))
   - MapDotNet Server
   - [MapServer](../Page/MapServer.md "wikilink")

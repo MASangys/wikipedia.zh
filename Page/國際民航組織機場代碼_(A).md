@@ -87,7 +87,7 @@
   - **AYTK**-[拉包爾機場](https://zh.wikipedia.org/wiki/拉包爾機場 "wikilink")-[Tokua](https://zh.wikipedia.org/wiki/Tokua "wikilink")[拉包爾](../Page/拉包爾.md "wikilink")
   - **AYVN**-[瓦尼莫機場](https://zh.wikipedia.org/wiki/瓦尼莫機場 "wikilink")-[瓦尼莫](https://zh.wikipedia.org/wiki/瓦尼莫 "wikilink")
   - **AYWD**-[瓦佩納曼達機場](https://zh.wikipedia.org/wiki/瓦佩納曼達機場 "wikilink")-[瓦佩納曼達](https://zh.wikipedia.org/wiki/瓦佩納曼達 "wikilink")
-  - **AYWK**-[韋瓦克機場](https://zh.wikipedia.org/wiki/韋瓦克機場 "wikilink")-[韋瓦克](https://zh.wikipedia.org/wiki/韋瓦克 "wikilink")
+  - **AYWK**-[韋瓦克機場](../Page/韋瓦克機場.md "wikilink")-[韋瓦克](https://zh.wikipedia.org/wiki/韋瓦克 "wikilink")
 
 ## 參考文獻
 

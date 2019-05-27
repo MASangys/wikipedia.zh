@@ -11,7 +11,7 @@ SUPER的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[華語劇台](../
 
 2012，2013年，now海潤台蔓延至海外，分別在泰國CTH、新加坡[StarHub](https://zh.wikipedia.org/wiki/StarHub "wikilink")、馬來西亞[Hypp
 TV和美國](https://zh.wikipedia.org/wiki/Hypp_TV "wikilink")[Dish
-Network開播](https://zh.wikipedia.org/wiki/Dish_Network "wikilink")；但分別於2015年和2016年底離開泰國和新加坡。
+Network開播](../Page/Dish_Network.md "wikilink")；但分別於2015年和2016年底離開泰國和新加坡。
 
 2016年6月14日，now海潤台改稱now華劇台，过后就开始合作和传输于[华策影视节目](https://zh.wikipedia.org/wiki/华策影视 "wikilink")。
 

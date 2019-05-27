@@ -101,7 +101,7 @@ vol.2 title - Feel your heart.png|《OVA純愛手札》第二卷標題畫面
 | [秋穗實](https://zh.wikipedia.org/wiki/秋穗實 "wikilink")     | [丹下櫻](../Page/丹下櫻.md "wikilink")                        | 虹野沙希的學妹。僅出現於第一卷。                                                                      |
 | 籃球社教練                                                   | [小野未喜](https://zh.wikipedia.org/wiki/小野未喜 "wikilink")   | 光輝高中籃球社教練。僅出現於第一卷。                                                                    |
 | 游泳社教練                                                   | [飛田展男](../Page/飛田展男.md "wikilink")                      | 光輝高中游泳社教練。他勸清川望成為企業隊游泳選手，但清川望不願意；清川望離開後，他看見虹野沙希，遂向虹野沙希說：「妳去告訴她：『人生不能重來！』」隨即離開。        |
-| 國文教師                                                    | [河合義雄](https://zh.wikipedia.org/wiki/河合義雄 "wikilink")   | 光輝高中國文教師。僅出現於第一卷。                                                                     |
+| 國文教師                                                    | [河合義雄](../Page/河合義雄.md "wikilink")                      | 光輝高中國文教師。僅出現於第一卷。                                                                     |
 | 圖書委員                                                    | [柚木涼香](../Page/柚木涼香.md "wikilink")                      | 光輝高中圖書委員。僅出現於第一卷。                                                                     |
 | 英文教師                                                    | [塚田正昭](../Page/塚田正昭.md "wikilink")                      | 光輝高中英文教師。僅出現於第二卷。                                                                     |
 | 女                                                       | [龜井芳子](../Page/龜井芳子.md "wikilink")                      | 僅出現於第二卷。                                                                              |

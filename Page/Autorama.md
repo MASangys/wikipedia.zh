@@ -59,9 +59,9 @@
 
 <!-- end list -->
 
-1.  [福特Telstar](https://zh.wikipedia.org/wiki/福特Telstar "wikilink")（雙生車種為第五代[馬自達626](../Page/馬自達626.md "wikilink")、[馬自達Cronos](../Page/馬自達Cronos.md "wikilink")、[Ẽfini
+1.  [福特Telstar](../Page/福特Telstar.md "wikilink")（雙生車種為第五代[馬自達626](../Page/馬自達626.md "wikilink")、[馬自達Cronos](../Page/馬自達Cronos.md "wikilink")、[Ẽfini
     MS-6等](../Page/Ẽfini_MS-6.md "wikilink")）
-2.  [福特Laser](https://zh.wikipedia.org/wiki/福特Laser "wikilink")（雙生車種為[馬自達323](../Page/馬自達323.md "wikilink")）
+2.  [福特Laser](../Page/福特Laser.md "wikilink")（雙生車種為[馬自達323](../Page/馬自達323.md "wikilink")）
 3.  [福特Festiva](../Page/福特Festiva.md "wikilink")（雙生車種為[馬自達121](../Page/馬自達121.md "wikilink")）
 4.  福特Festiva Mini Wagon（雙生車種為第一代[馬自達2](../Page/馬自達2.md "wikilink")）
 5.  福特Ixion（雙生車種為第一代[馬自達5](../Page/馬自達5.md "wikilink")）

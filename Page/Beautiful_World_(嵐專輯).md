@@ -10,7 +10,7 @@ Storm](../Page/J_Storm.md "wikilink")。
   - 分初回限定盤、通常盤2種版本，初回限定盤附贈豪華歌詞本(48頁)且採用特殊包裝式樣，通常盤則附贈歌詞本(32頁)，但兩種版本CD所收錄的曲目相同，皆為18曲。
   - 本作的主打歌『未知的世界』PV收錄於2011年6月15日發售的『[ARASHI 10-11 TOUR
     "SCENE"～你和我眼中的風景～DOME+](https://zh.wikipedia.org/wiki/ARASHI_10-11_TOUR_"SCENE"～你和我眼中的風景～DOME+ "wikilink")』DVD，並包括其幕後花絮。相距上次製作專輯的主打歌的PV已為八年前的第三張原創專輯[How's
-    it going?](https://zh.wikipedia.org/wiki/How's_it_going? "wikilink")
+    it going?](../Page/How's_it_going?.md "wikilink")
   - 本作在2011年3月才正式製作，理念為「現在，能傳遞的信念。」另外，本作的標題由[櫻井提出](../Page/櫻井翔.md "wikilink")，「在大地震過後，希望聽過此專輯的人所等待的未來是『Beautiful
     World』」一案而被採納。
   - 日本航空自6月開始採用『直向遠方』作為廣告形象曲，並於7月25日開始，國內線部分航班（東京－札幌、東京－沖繩、東京－福岡、東京－伊丹），再次投入特別彩繪機「JAL嵐JET」，機身印有五人的合照，以及「ARASHI

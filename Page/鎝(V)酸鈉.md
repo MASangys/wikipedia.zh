@@ -1,4 +1,4 @@
-**鎝(V)酸鈉**是一种[无机化合物](../Page/无机化合物.md "wikilink")，化学式为NaTcO<sub>3</sub>，是一种[钙钛矿材料](https://zh.wikipedia.org/wiki/钙钛矿_\(结构\) "wikilink")。\[1\]它可由[锝](../Page/锝.md "wikilink")、[高锝酸钠和](https://zh.wikipedia.org/wiki/高锝酸钠 "wikilink")[氧化钠共热制得](../Page/氧化钠.md "wikilink")，高温下发生歧化。\[2\]此外，Na<sub>2</sub><sup>99</sup>MoO<sub>4</sub>在NaOH溶液的[衰变也会产生NaTcO](https://zh.wikipedia.org/wiki/衰变 "wikilink")<sub>3</sub>。\[3\]NaTcO<sub>3</sub>的puckering效应比NaMoO<sub>3</sub>小，e<sub>g</sub><sup>π</sup>和a<sub>1g</sub>态间带消失。\[4\]
+**鎝(V)酸鈉**是一种[无机化合物](../Page/无机化合物.md "wikilink")，化学式为NaTcO<sub>3</sub>，是一种[钙钛矿材料](../Page/钙钛矿_\(结构\).md "wikilink")。\[1\]它可由[锝](../Page/锝.md "wikilink")、[高锝酸钠和](https://zh.wikipedia.org/wiki/高锝酸钠 "wikilink")[氧化钠共热制得](../Page/氧化钠.md "wikilink")，高温下发生歧化。\[2\]此外，Na<sub>2</sub><sup>99</sup>MoO<sub>4</sub>在NaOH溶液的[衰变也会产生NaTcO](https://zh.wikipedia.org/wiki/衰变 "wikilink")<sub>3</sub>。\[3\]NaTcO<sub>3</sub>的puckering效应比NaMoO<sub>3</sub>小，e<sub>g</sub><sup>π</sup>和a<sub>1g</sub>态间带消失。\[4\]
 
 ## 參考資料
 

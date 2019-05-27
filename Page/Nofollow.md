@@ -1,4 +1,4 @@
-**nofollow**是[HTML的一个属性](../Page/HTML.md "wikilink")，用于告诉[搜索引擎不要追踪特定的网页链接](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")。可以用于阻止在[PR值高的网站上以留言等方式添加链接从而提高自身网站排名的行为](../Page/PageRank.md "wikilink")，以改善搜索结果的质量，防止垃圾链接的蔓延。网站站长也可对其网页中的付费链接使用nofollow来防止该链接降低搜索排名。对一些重要度低的网页内容使用nofollow，还可以使搜索引擎以不同的优先级别来抓取网页内容。\[1\]
+**nofollow**是[HTML的一个属性](../Page/HTML.md "wikilink")，用于告诉[搜索引擎不要追踪特定的网页链接](../Page/搜索引擎.md "wikilink")。可以用于阻止在[PR值高的网站上以留言等方式添加链接从而提高自身网站排名的行为](../Page/PageRank.md "wikilink")，以改善搜索结果的质量，防止垃圾链接的蔓延。网站站长也可对其网页中的付费链接使用nofollow来防止该链接降低搜索排名。对一些重要度低的网页内容使用nofollow，还可以使搜索引擎以不同的优先级别来抓取网页内容。\[1\]
 
 ## 来源
 

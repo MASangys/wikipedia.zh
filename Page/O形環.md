@@ -20,7 +20,7 @@ AS568C規範（即AS568 - 214）。ISO
 ## 材料
 
 [o-rings.jpg](https://zh.wikipedia.org/wiki/File:o-rings.jpg "fig:o-rings.jpg")
-O形環材料的選擇是基於化學相容性、使用溫度、密封壓力、[潤滑要求](https://zh.wikipedia.org/wiki/潤滑 "wikilink")、硬度、尺寸和成本。\[2\]
+O形環材料的選擇是基於化學相容性、使用溫度、密封壓力、[潤滑要求](../Page/潤滑.md "wikilink")、硬度、尺寸和成本。\[2\]
 
 合成橡膠-[热固性聚合物](https://zh.wikipedia.org/wiki/热固性聚合物 "wikilink")：
 

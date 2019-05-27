@@ -1,7 +1,7 @@
 **Rainbow**（、）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DSP
-Media於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")2009年推出的七人[女子團體](https://zh.wikipedia.org/wiki/女子音樂團體 "wikilink")，成員包括[金栽經](../Page/金栽經.md "wikilink")、[高佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")（現名高娜恩）、[吳丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")、[盧乙](../Page/盧乙.md "wikilink")、[鄭允慧](https://zh.wikipedia.org/wiki/鄭允慧 "wikilink")、[金智淑和](../Page/金智淑_\(藝人\).md "wikilink")[趙賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")。Rainbow在演藝界以組合團結、成員間關係親密見稱。
+Media於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")2009年推出的七人[女子團體](https://zh.wikipedia.org/wiki/女子音樂團體 "wikilink")，成員包括[金栽經](../Page/金栽經.md "wikilink")、[高佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")（現名高娜恩）、[吳丞芽](../Page/吳丞芽.md "wikilink")、[盧乙](../Page/盧乙.md "wikilink")、[鄭允慧](https://zh.wikipedia.org/wiki/鄭允慧 "wikilink")、[金智淑和](../Page/金智淑_\(藝人\).md "wikilink")[趙賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")。Rainbow在演藝界以組合團結、成員間關係親密見稱。
 
-「Rainbow」團名是師兄[SS501](../Page/SS501.md "wikilink")[金奎鐘所取的](../Page/金奎鐘.md "wikilink")，因為他認為「SS501」屬於較抽象的團名，所以他希望「Rainbow」的團名能夠更簡單明瞭些，最後公司就採用了「Rainbow」這個名字，而七色的[彩虹代表了七個團員](https://zh.wikipedia.org/wiki/彩虹 "wikilink")。\[1\]\[2\]出道初期，團員中比較受矚目是隊長[栽經](../Page/金栽經.md "wikilink")，因外貌與[日本](../Page/日本.md "wikilink")[女演員](https://zh.wikipedia.org/wiki/女演員 "wikilink")[綾瀨遙相似](../Page/綾瀨遙.md "wikilink")，所以備受網友討論。近年較著名成員，有走性感路線的[賢榮及憑](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")「演藝家中介」成功入屋的[智淑](../Page/金智淑_\(藝人\).md "wikilink")。
+「Rainbow」團名是師兄[SS501](../Page/SS501.md "wikilink")[金奎鐘所取的](../Page/金奎鐘.md "wikilink")，因為他認為「SS501」屬於較抽象的團名，所以他希望「Rainbow」的團名能夠更簡單明瞭些，最後公司就採用了「Rainbow」這個名字，而七色的[彩虹代表了七個團員](../Page/彩虹.md "wikilink")。\[1\]\[2\]出道初期，團員中比較受矚目是隊長[栽經](../Page/金栽經.md "wikilink")，因外貌與[日本](../Page/日本.md "wikilink")[女演員](https://zh.wikipedia.org/wiki/女演員 "wikilink")[綾瀨遙相似](../Page/綾瀨遙.md "wikilink")，所以備受網友討論。近年較著名成員，有走性感路線的[賢榮及憑](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")「演藝家中介」成功入屋的[智淑](../Page/金智淑_\(藝人\).md "wikilink")。
 
 所属公司表示：“7名成員接受了很長一段時間的訓練，她們都具有着深厚的歌唱實力。大家都不覺得她們像新人，她們有着自然純熟的舞台實力，所以敬請大家期待。”培養出[Fin.K.L](https://zh.wikipedia.org/wiki/Fin.K.L "wikilink")、[水晶男孩](../Page/水晶男孩.md "wikilink")、[SS501](../Page/SS501.md "wikilink")、[KARA等人氣團體的演藝經紀公司DSP](https://zh.wikipedia.org/wiki/KARA "wikilink")
 Media的另一支野心作——「Rainbow」終於揭開了面紗\[3\]。
@@ -9,11 +9,11 @@ Media的另一支野心作——「Rainbow」終於揭開了面紗\[3\]。
 「Rainbow」的官方Fanclub名稱為RAINNOUS，由DSP官網舉辦公開投票決定出來。RAINNOUS是Rainbow（彩虹）和Luminous（發光）兩個英文字合起來，意思是Rainnous讓彩虹能夠發出更加五光十色的绚丽光彩\[4\]。
 
 Rainbow第一組子團 Rainbow Pixie（레인보우
-픽시）的成員分別是[丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")、[智淑](../Page/金智淑_\(藝人\).md "wikilink")、[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")。首張單曲《Hoi
+픽시）的成員分別是[丞芽](../Page/吳丞芽.md "wikilink")、[智淑](../Page/金智淑_\(藝人\).md "wikilink")、[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")。首張單曲《Hoi
 Hoi》於2012年1月12日公開。\[5\]
 
 Rainbow第二組子團 Rainbow Blaxx（레인보우
-블랙）的成員分別是[栽經](../Page/金栽經.md "wikilink")、[佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")、[丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")、[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")。
+블랙）的成員分別是[栽經](../Page/金栽經.md "wikilink")、[佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")、[丞芽](../Page/吳丞芽.md "wikilink")、[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")。
 
 2016年10月28日，Rainbow所屬經紀公司[DSP
 Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月12日合約期滿後解散。
@@ -25,7 +25,7 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
 | 藝名                                                                                           |
 | 漢字                                                                                           |
 | **[高佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")**                                      |
-| **[<span style="color:white;">吳丞芽</span>](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")**    |
+| **[<span style="color:white;">吳丞芽</span>](../Page/吳丞芽.md "wikilink")**                       |
 | **[<span style="color:white;">金栽經</span>](../Page/金栽經.md "wikilink")**                       |
 | **[<span style="color:white;">盧乙</span>](../Page/盧乙.md "wikilink")**                         |
 | '''[<span style="color:white;">鄭允慧</span>](https://zh.wikipedia.org/wiki/鄭允慧 "wikilink") ''' |
@@ -36,7 +36,7 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
 
 ### 2009年以前﹕出道前
 
-  - 2008年，DSP透過VJ突襲訪問，首次公開準備出道的新女團成員\[6\]，當時成員包括栽經、丞芽、盧乙、允慧、[主儐](https://zh.wikipedia.org/wiki/李珠彬 "wikilink")、[知睿與](https://zh.wikipedia.org/wiki/閔知睿 "wikilink")[知秀](https://zh.wikipedia.org/wiki/張知秀 "wikilink")。
+  - 2008年，DSP透過VJ突襲訪問，首次公開準備出道的新女團成員\[6\]，當時成員包括栽經、丞芽、盧乙、允慧、[主儐](../Page/李珠彬.md "wikilink")、[知睿與](https://zh.wikipedia.org/wiki/閔知睿 "wikilink")[知秀](https://zh.wikipedia.org/wiki/張知秀 "wikilink")。
   - 直至2009年，成員歷經多次變動﹕主儐、知睿、知秀先後退出，換成智淑、賢榮與允智（即[NS允智](../Page/NS允智.md "wikilink")）。最後在出道前允智退隊、公司便招攬當時為[SM娛樂練習生的佑麗](../Page/SM娛樂.md "wikilink")、空降作為替補成員，自此Rainbow成員才正式確立。
 
 ### 2009年：出道
@@ -82,7 +82,7 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
 ### 2012年：子團體Rainbow Pixie《Hoi Hoi》、第三張日文單曲《Gonna Gonna GO\!》、首張日語專輯《Over The Rainbow》及空白期裡各成員個人活動
 
   - 2012年1月6日，推出子團體 [Rainbow
-    Pixie](https://zh.wikipedia.org/wiki/Rainbow_Pixie "wikilink")，成員為[丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")、[智淑](../Page/金智淑_\(藝人\).md "wikilink")、賢榮。推出單曲《Hoi
+    Pixie](../Page/Rainbow_Pixie.md "wikilink")，成員為[丞芽](../Page/吳丞芽.md "wikilink")、[智淑](../Page/金智淑_\(藝人\).md "wikilink")、賢榮。推出單曲《Hoi
     Hoi》，於1月14日的 Show\!
     音樂中心作子團出道舞台[1](https://www.youtube.com/watch?v=_h3maqEOMHs)。
   - 2012年3月14日，推出第三張日文單曲《Gonna Gonna GO\!》
@@ -124,7 +124,7 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
   - 2013年6月24日，Demi Soda 飲料代言電視廣告播出。
   - 2013年6月30日，於人氣歌謠表演Sunshine結束首張正規專輯Pt.2的宣傳期。
 
-### 2014年：子團體[Rainbow BLAXX](https://zh.wikipedia.org/wiki/Rainbow_BLAXX "wikilink") 、個人活動時期及DSP家族專輯「White Letter」
+### 2014年：子團體[Rainbow BLAXX](../Page/Rainbow_BLAXX.md "wikilink") 、個人活動時期及DSP家族專輯「White Letter」
 
   - 2014年1月1日，官方宣佈推出Rainbow第二組子團Rainbow Blaxx。
   - 2014年1月6日，公開第一位成員：栽經。1月8日，公開第二位成員：賢榮。1月9日，公開第三位成員：丞芽。1月10日，公開第四位成員：佑麗。
@@ -153,7 +153,7 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
   - 2015年2月17日，發佈主打曲《Black Swan》MV預告片\[64\]。
   - 2015年2月23日，官方Youtube頻道發佈主打曲《Black Swan》MV\[65\]
   - 2015年3月11日，官方透過國際歌迷網頁Visual
-    Glow，表示由於[佑麗忙於拍攝新劇](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")[女王之花](../Page/女王之花.md "wikilink")、[丞芽需要預留檔期拍攝新電影](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")，無暇參與新曲演出，故此宣佈主打曲《Black
+    Glow，表示由於[佑麗忙於拍攝新劇](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")[女王之花](../Page/女王之花.md "wikilink")、[丞芽需要預留檔期拍攝新電影](../Page/吳丞芽.md "wikilink")，無暇參與新曲演出，故此宣佈主打曲《Black
     Swan》宣傳期結束。原定作為第二主打、準備現場表演的歌曲「壞男人哭了」，改為僅於電台派歌、及於官方Youtube上載練習片段。\[66\]
   - 2015年3月29日，七位成員同日開通官方個人微博。
   - 2015年10月16日，韓國傳媒報導趙賢榮與相差12年的[酷懶之味主唱](https://zh.wikipedia.org/wiki/酷懶之味 "wikilink")[Alex相戀](../Page/秋憲坤.md "wikilink")，並獲雙方公司證實消息。\[67\]
@@ -388,9 +388,9 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
 | 2012年6月19日 | 우리 사랑할까요（我們相愛嗎？）   | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") 月火劇《[我愛李泰利](https://zh.wikipedia.org/wiki/戀愛魔法鐘 "wikilink")》OST                   | [智淑](../Page/金智淑_\(藝人\).md "wikilink")、Super Star K3 的[閔勛基](https://zh.wikipedia.org/wiki/閔勛基 "wikilink")            |
 | 2012年9月27日 | 달콤해（Sweet）         | [TV Tokyo](https://zh.wikipedia.org/wiki/TV_Tokyo "wikilink") 電視劇《[戀愛滿屋之彩虹玫瑰](https://zh.wikipedia.org/wiki/戀愛滿屋之彩虹玫瑰 "wikilink")》OST | 全體                                                                                                                   |
 | 2013年11月6日 | Secret Love        | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") 水木劇 《[**秘密**](../Page/秘密_\(2013年電視劇\).md "wikilink")》OST                          | [智淑](../Page/金智淑_\(藝人\).md "wikilink")（Feat.Outsider）                                                                |
-| 2014年1月27日 | My Hero\[72\]      | [JTBC](../Page/JTBC.md "wikilink") 月火劇 《**[我們能相愛嗎](https://zh.wikipedia.org/wiki/我們能相愛嗎 "wikilink")**》OST                             | [智淑](../Page/金智淑_\(藝人\).md "wikilink")                                                                               |
+| 2014年1月27日 | My Hero\[72\]      | [JTBC](../Page/JTBC.md "wikilink") 月火劇 《**[我們能相愛嗎](../Page/我們能相愛嗎.md "wikilink")**》OST                                                | [智淑](../Page/金智淑_\(藝人\).md "wikilink")                                                                               |
 | 2014年6月20日 | 어쩌면 난(Maybe I)     | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") 《[**神的測驗4**](../Page/神的測驗.md "wikilink")》OST                                      | [栽經](../Page/金栽經.md "wikilink")                                                                                      |
-| 2014年10月2日 | 사랑해요 (I Love You)  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") 水木劇 《[**鋼鐵人**](https://zh.wikipedia.org/wiki/鋼鐵人_\(電視劇\) "wikilink")》OST          | [智淑](../Page/金智淑_\(藝人\).md "wikilink")、[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")                            |
+| 2014年10月2日 | 사랑해요 (I Love You)  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") 水木劇 《[**鋼鐵人**](../Page/鋼鐵人_\(電視劇\).md "wikilink")》OST                             | [智淑](../Page/金智淑_\(藝人\).md "wikilink")、[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")                            |
 
 ### 其他歌曲
 
@@ -452,41 +452,41 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
 
 ### 電視劇
 
-|       |                                                                                 |                                                                                  |                                                    |                 |             |                                |
-| ----- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------- | --------------- | ----------- | ------------------------------ |
-| 年份    | 電視台                                                                             | 劇名                                                                               | 參演成員                                               | 角色              | 性質          | 集數                             |
-| 2010年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                         | [大物](../Page/大物.md "wikilink")                                                   | 全員                                                 |                 | 客串          | EP5                            |
-| 2012年 | [KBS](../Page/韓國放送公社.md "wikilink")                                             | [需要仙女](../Page/需要仙女.md "wikilink")                                               | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink") | 高麗亞             | 配角          | E29、E32、E33、E36、E39、E43、E45-52 |
-| 2012年 | [MBC](https://zh.wikipedia.org/wiki/韓國文化廣播公司 "wikilink")                        | [越空仁醫](https://zh.wikipedia.org/wiki/越空仁醫 "wikilink")                            | [盧乙](../Page/盧乙.md "wikilink")                     | 蓮心              | 全集          |                                |
-| 2012年 | [JTBC](../Page/JTBC.md "wikilink")                                              | [MONSTER](https://zh.wikipedia.org/wiki/MONSTER_\(特別單元劇\) "wikilink")            | [栽經](../Page/金栽經.md "wikilink")                    | 羅佑莉             | 主角          |                                |
-| 2013年 | [KBS](../Page/韓國放送公社.md "wikilink")                                             | [Family](../Page/Family_\(韓國電視劇\).md "wikilink")                                 | 尹郁美                                                | 客串              | E69         |                                |
-| 2013年 | [TVN](../Page/TVN.md "wikilink")                                                | [實戰戀愛教室](https://zh.wikipedia.org/wiki/實戰戀愛教室 "wikilink")(Play Guide)            | [丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink") |                 | 配角          | 全集                             |
-| 2013年 | [KBS](../Page/韓國放送公社.md "wikilink")                                             | [愛情和戰爭 2](https://zh.wikipedia.org/wiki/愛情和戰爭_2 "wikilink")                      | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink") |                 |             |                                |
-| 2013年 | [JTBC](../Page/JTBC.md "wikilink")                                              | [老大](../Page/老大_\(電視劇\).md "wikilink")                                           | [允慧](https://zh.wikipedia.org/wiki/鄭允惠 "wikilink") | 金英淑             |             |                                |
-| 2013年 | [KST](https://zh.wikipedia.org/wiki/KST "wikilink")                             | [請回答1994](../Page/請回答1994.md "wikilink")                                         | [栽經](../Page/金栽經.md "wikilink")                    | 延大「全智賢」         |             |                                |
-| 2013年 | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")                              | 延大「嚴正化」                                                                          |                                                    |                 |             |                                |
-| 2013年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                             | [閃耀的羅曼史](../Page/閃耀的羅曼史.md "wikilink")                                           | 少女「邊泰英」                                            |                 |             |                                |
-| 2014年 | [KBS](../Page/韓國放送公社.md "wikilink")                                             | [感激時代：鬪神的誕生](../Page/感激時代：鬪神的誕生.md "wikilink")                                   | [栽經](../Page/金栽經.md "wikilink")                    | 梅玲              | E14、E15、E16 |                                |
-| 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                         | [心情好的日子](https://zh.wikipedia.org/wiki/心情好的日子 "wikilink")                        | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink") | 鄭多仁             | 全集          |                                |
-| 2014年 | [心情好的日子](https://zh.wikipedia.org/wiki/心情好的日子 "wikilink")                       | [盧乙](../Page/盧乙.md "wikilink")                                                   | 惠美                                                 | 客串              |             |                                |
-| 2014年 | OCN                                                                             | [神的測驗4](../Page/神的測驗.md "wikilink")                                              | [栽經](../Page/金栽經.md "wikilink")                    | 林泰京             | 主角          | 全集                             |
-| 2014年 | [KBS](../Page/韓國放送公社.md "wikilink")                                             | [愛情和戰爭 2](https://zh.wikipedia.org/wiki/愛情和戰爭_2 "wikilink")                      | [丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink") |                 | 配角          | E108                           |
-| 2014年 | [MBC](https://zh.wikipedia.org/wiki/韓國文化廣播公司 "wikilink")                        | [來了！張寶利](https://zh.wikipedia.org/wiki/來了！張寶利 "wikilink")                        | 蔡宥羅                                                | 客串              | E11、E12、E13 |                                |
-| 2014年 | [宿舍房24號](https://zh.wikipedia.org/wiki/宿舍房24號 "wikilink")                       | [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")                               | 趙賢榮                                                | 全集              |             |                                |
-| 2014年 | [Drama Festival-轉捩點](https://zh.wikipedia.org/wiki/Drama_Festival "wikilink")   | [栽經](../Page/金栽經.md "wikilink")                                                  | 夢蘭英                                                | 主角              |             |                                |
-| 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                         | [對我而言可愛的她](https://zh.wikipedia.org/wiki/對我而言可愛的她 "wikilink")                    | 電台DJ                                               | 客串              | EP16        |                                |
-| 2014年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                             | [Drama_Festival-結他與熱褲](https://zh.wikipedia.org/wiki/Drama_Festival "wikilink") | [允慧](https://zh.wikipedia.org/wiki/鄭允惠 "wikilink") | Twinkerbell成員曉嫻 | 配角          | 全集                             |
-| 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                         | [皮諾丘 (電視劇)](https://zh.wikipedia.org/wiki/皮諾丘_\(電視劇\) "wikilink")                | [丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink") | 新進記者的面試生之一      | 客串          | E20                            |
-| 2015年 | [MBC](https://zh.wikipedia.org/wiki/韓國文化廣播公司 "wikilink")                        | [女王之花](../Page/女王之花.md "wikilink")                                               | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink") | 徐宥拉             | 配角          | 全集                             |
-| 2015年 | [TVN](../Page/TVN.md "wikilink")                                                | [沒禮貌的英愛小姐第14季](../Page/沒禮貌的英愛小姐.md "wikilink")                                   | [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink") | 趙賢榮             | 全集          |                                |
-| 2015年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                             | [偉大的糟糠之妻](../Page/偉大的糟糠之妻.md "wikilink")                                         | [允慧](https://zh.wikipedia.org/wiki/鄭允惠 "wikilink") | 韓公主             | 配角          | 全集                             |
-| 2015年 | [NAVER](../Page/NAVER.md "wikilink")                                            | [高貴的你](../Page/高貴的你.md "wikilink")                                               | [栽經](../Page/金栽經.md "wikilink")                    | 車允序             | 主角          | 全集                             |
-| 2015年 | [TVN](../Page/TVN.md "wikilink")                                                | [前女友俱樂部](../Page/前女友俱樂部.md "wikilink")                                           | 全體                                                 | 方明秀家中屏風\[88\]   |             |                                |
-| 2016年 | [TVN](../Page/TVN.md "wikilink")                                                | [沒禮貌的英愛小姐第15季](../Page/沒禮貌的英愛小姐.md "wikilink")                                   | [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink") | 趙賢榮             | 全集          |                                |
-| 2016年 | [JTBC](../Page/JTBC.md "wikilink")                                              | [Madame Antoine](https://zh.wikipedia.org/wiki/Madame_Antoine "wikilink")        | [栽經](../Page/金栽經.md "wikilink")                    | 朱妮              | 客串          | 全集                             |
-| 2016年 | [FNC Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink") | [88號街](https://zh.wikipedia.org/wiki/88號街 "wikilink")                            | [丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink") | 素美              | 主角          | 全集                             |
-| 2016年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                             | [重新開始](../Page/重新開始_\(電視劇\).md "wikilink")                                       | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink") | 李藝羅             | 主角          | 全集                             |
-| 2016年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                             | [好人](../Page/好人_\(電視劇\).md "wikilink")                                           | [允慧](https://zh.wikipedia.org/wiki/鄭允惠 "wikilink") |                 | 配角          |                                |
+|       |                                                                                 |                                                                           |                                                    |                 |             |                                |
+| ----- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------- | --------------- | ----------- | ------------------------------ |
+| 年份    | 電視台                                                                             | 劇名                                                                        | 參演成員                                               | 角色              | 性質          | 集數                             |
+| 2010年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                         | [大物](../Page/大物.md "wikilink")                                            | 全員                                                 |                 | 客串          | EP5                            |
+| 2012年 | [KBS](../Page/韓國放送公社.md "wikilink")                                             | [需要仙女](../Page/需要仙女.md "wikilink")                                        | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink") | 高麗亞             | 配角          | E29、E32、E33、E36、E39、E43、E45-52 |
+| 2012年 | [MBC](https://zh.wikipedia.org/wiki/韓國文化廣播公司 "wikilink")                        | [越空仁醫](https://zh.wikipedia.org/wiki/越空仁醫 "wikilink")                     | [盧乙](../Page/盧乙.md "wikilink")                     | 蓮心              | 全集          |                                |
+| 2012年 | [JTBC](../Page/JTBC.md "wikilink")                                              | [MONSTER](https://zh.wikipedia.org/wiki/MONSTER_\(特別單元劇\) "wikilink")     | [栽經](../Page/金栽經.md "wikilink")                    | 羅佑莉             | 主角          |                                |
+| 2013年 | [KBS](../Page/韓國放送公社.md "wikilink")                                             | [Family](../Page/Family_\(韓國電視劇\).md "wikilink")                          | 尹郁美                                                | 客串              | E69         |                                |
+| 2013年 | [TVN](../Page/TVN.md "wikilink")                                                | [實戰戀愛教室](https://zh.wikipedia.org/wiki/實戰戀愛教室 "wikilink")(Play Guide)     | [丞芽](../Page/吳丞芽.md "wikilink")                    |                 | 配角          | 全集                             |
+| 2013年 | [KBS](../Page/韓國放送公社.md "wikilink")                                             | [愛情和戰爭 2](https://zh.wikipedia.org/wiki/愛情和戰爭_2 "wikilink")               | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink") |                 |             |                                |
+| 2013年 | [JTBC](../Page/JTBC.md "wikilink")                                              | [老大](../Page/老大_\(電視劇\).md "wikilink")                                    | [允慧](https://zh.wikipedia.org/wiki/鄭允惠 "wikilink") | 金英淑             |             |                                |
+| 2013年 | [KST](https://zh.wikipedia.org/wiki/KST "wikilink")                             | [請回答1994](../Page/請回答1994.md "wikilink")                                  | [栽經](../Page/金栽經.md "wikilink")                    | 延大「全智賢」         |             |                                |
+| 2013年 | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")                              | 延大「嚴正化」                                                                   |                                                    |                 |             |                                |
+| 2013年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                             | [閃耀的羅曼史](../Page/閃耀的羅曼史.md "wikilink")                                    | 少女「邊泰英」                                            |                 |             |                                |
+| 2014年 | [KBS](../Page/韓國放送公社.md "wikilink")                                             | [感激時代：鬪神的誕生](../Page/感激時代：鬪神的誕生.md "wikilink")                            | [栽經](../Page/金栽經.md "wikilink")                    | 梅玲              | E14、E15、E16 |                                |
+| 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                         | [心情好的日子](../Page/心情好的日子.md "wikilink")                                    | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink") | 鄭多仁             | 全集          |                                |
+| 2014年 | [心情好的日子](../Page/心情好的日子.md "wikilink")                                          | [盧乙](../Page/盧乙.md "wikilink")                                            | 惠美                                                 | 客串              |             |                                |
+| 2014年 | OCN                                                                             | [神的測驗4](../Page/神的測驗.md "wikilink")                                       | [栽經](../Page/金栽經.md "wikilink")                    | 林泰京             | 主角          | 全集                             |
+| 2014年 | [KBS](../Page/韓國放送公社.md "wikilink")                                             | [愛情和戰爭 2](https://zh.wikipedia.org/wiki/愛情和戰爭_2 "wikilink")               | [丞芽](../Page/吳丞芽.md "wikilink")                    |                 | 配角          | E108                           |
+| 2014年 | [MBC](https://zh.wikipedia.org/wiki/韓國文化廣播公司 "wikilink")                        | [來了！張寶利](../Page/來了！張寶利.md "wikilink")                                    | 蔡宥羅                                                | 客串              | E11、E12、E13 |                                |
+| 2014年 | [宿舍房24號](https://zh.wikipedia.org/wiki/宿舍房24號 "wikilink")                       | [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")                        | 趙賢榮                                                | 全集              |             |                                |
+| 2014年 | [Drama Festival-轉捩點](../Page/Drama_Festival.md "wikilink")                      | [栽經](../Page/金栽經.md "wikilink")                                           | 夢蘭英                                                | 主角              |             |                                |
+| 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                         | [對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")                                | 電台DJ                                               | 客串              | EP16        |                                |
+| 2014年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                             | [Drama_Festival-結他與熱褲](../Page/Drama_Festival.md "wikilink")             | [允慧](https://zh.wikipedia.org/wiki/鄭允惠 "wikilink") | Twinkerbell成員曉嫻 | 配角          | 全集                             |
+| 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                         | [皮諾丘 (電視劇)](../Page/皮諾丘_\(電視劇\).md "wikilink")                            | [丞芽](../Page/吳丞芽.md "wikilink")                    | 新進記者的面試生之一      | 客串          | E20                            |
+| 2015年 | [MBC](https://zh.wikipedia.org/wiki/韓國文化廣播公司 "wikilink")                        | [女王之花](../Page/女王之花.md "wikilink")                                        | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink") | 徐宥拉             | 配角          | 全集                             |
+| 2015年 | [TVN](../Page/TVN.md "wikilink")                                                | [沒禮貌的英愛小姐第14季](../Page/沒禮貌的英愛小姐.md "wikilink")                            | [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink") | 趙賢榮             | 全集          |                                |
+| 2015年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                             | [偉大的糟糠之妻](../Page/偉大的糟糠之妻.md "wikilink")                                  | [允慧](https://zh.wikipedia.org/wiki/鄭允惠 "wikilink") | 韓公主             | 配角          | 全集                             |
+| 2015年 | [NAVER](../Page/NAVER.md "wikilink")                                            | [高貴的你](../Page/高貴的你.md "wikilink")                                        | [栽經](../Page/金栽經.md "wikilink")                    | 車允序             | 主角          | 全集                             |
+| 2015年 | [TVN](../Page/TVN.md "wikilink")                                                | [前女友俱樂部](../Page/前女友俱樂部.md "wikilink")                                    | 全體                                                 | 方明秀家中屏風\[88\]   |             |                                |
+| 2016年 | [TVN](../Page/TVN.md "wikilink")                                                | [沒禮貌的英愛小姐第15季](../Page/沒禮貌的英愛小姐.md "wikilink")                            | [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink") | 趙賢榮             | 全集          |                                |
+| 2016年 | [JTBC](../Page/JTBC.md "wikilink")                                              | [Madame Antoine](https://zh.wikipedia.org/wiki/Madame_Antoine "wikilink") | [栽經](../Page/金栽經.md "wikilink")                    | 朱妮              | 客串          | 全集                             |
+| 2016年 | [FNC Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink") | [88號街](https://zh.wikipedia.org/wiki/88號街 "wikilink")                     | [丞芽](../Page/吳丞芽.md "wikilink")                    | 素美              | 主角          | 全集                             |
+| 2016年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                             | [重新開始](../Page/重新開始_\(電視劇\).md "wikilink")                                | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink") | 李藝羅             | 主角          | 全集                             |
+| 2016年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                             | [好人](../Page/好人_\(電視劇\).md "wikilink")                                    | [允慧](https://zh.wikipedia.org/wiki/鄭允惠 "wikilink") |                 | 配角          |                                |
 
 ### 電影
 
@@ -554,8 +554,7 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
   - 2014年5月 “SURE”雜誌平面拍攝（[栽經](../Page/金栽經.md "wikilink")）
   - 2014年6月
     “SURE”雜誌平面拍攝（[栽經](../Page/金栽經.md "wikilink")、[佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")）
-  - 2014年7月
-    “Mtalk”雜誌平面拍攝（[丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")）
+  - 2014年7月 “Mtalk”雜誌平面拍攝（[丞芽](../Page/吳丞芽.md "wikilink")）
   - 2014年7月 “The Big
     Issue”雜誌平面拍攝（[盧乙](../Page/盧乙.md "wikilink")、[智淑](../Page/金智淑_\(藝人\).md "wikilink")、[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")）
   - 2014年7月 “大學明天”雜誌平面拍攝（[栽經](../Page/金栽經.md "wikilink")）
@@ -563,11 +562,9 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
   - 2014年10月 “THE
     STAR”雜誌平面拍攝（[佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")）
   - 2014年10月 “10+Star”服飾平面拍攝 ([栽經](../Page/金栽經.md "wikilink"))
-  - 2014年11月 “bnt
-    News”雜誌平面拍攝（[丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")）
+  - 2014年11月 “bnt News”雜誌平面拍攝（[丞芽](../Page/吳丞芽.md "wikilink")）
   - 2014年11月 “star1”服飾平面拍攝 ([栽經](../Page/金栽經.md "wikilink"))
-  - 2015年1月 “MAXIM
-    KOREA”雜誌平面拍攝（[丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")）
+  - 2015年1月 “MAXIM KOREA”雜誌平面拍攝（[丞芽](../Page/吳丞芽.md "wikilink")）
   - 2015年2月 “bnt News”雜誌平面拍攝（[盧乙](../Page/盧乙.md "wikilink")）
   - 2015年2月 “PHOTO+”雜誌平面拍攝（[智淑](../Page/金智淑_\(藝人\).md "wikilink")）
   - 2015年3月 “THE STAR”雜誌平面拍攝

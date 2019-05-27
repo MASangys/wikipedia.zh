@@ -175,7 +175,7 @@ Story Best of V.K》專輯\]。
   - [中華電視公司旗下頻道台呼](../Page/中華電視公司.md "wikilink")
       - “Evolution era”：下個節目預告
       - 《紙飛機的冒險》：現在播出節目提示
-  - [戀與製作人配樂BGM](https://zh.wikipedia.org/wiki/恋与制作人 "wikilink")
+  - [戀與製作人配樂BGM](../Page/恋与制作人.md "wikilink")
 
 ## 影像作品
 

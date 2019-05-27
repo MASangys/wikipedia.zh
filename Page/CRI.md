@@ -41,8 +41,7 @@ __NOTOC__ **CRI**可以指：
     reuptake inhibitor）
   - [慢性肾脏病](../Page/慢性肾脏病.md "wikilink")（Chronic kidney
     disease），簡寫源自於chronic renal insufficiency。
-  - [演色性指數](https://zh.wikipedia.org/wiki/演色性指數 "wikilink")（Color
-    Rendering Index）
+  - [演色性指數](../Page/演色性指數.md "wikilink")（Color Rendering Index）
   - [中間負片](https://zh.wikipedia.org/wiki/中間負片 "wikilink")（Color reversal
     internegative）
   - [輪作指數](https://zh.wikipedia.org/wiki/輪作 "wikilink")（Crop rotation

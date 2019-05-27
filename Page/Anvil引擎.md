@@ -27,21 +27,21 @@ One](../Page/Xbox_One.md "wikilink"), 和 [PlayStation
 ### 以AnvilNext名義
 
   - [刺客教條III](https://zh.wikipedia.org/wiki/刺客教條III "wikilink")（2012）\[3\]
-  - [刺客教條III：自由使命](https://zh.wikipedia.org/wiki/刺客教條III：自由使命 "wikilink")（2012）
+  - [刺客教條III：自由使命](../Page/刺客教條III：自由使命.md "wikilink")（2012）
   - [刺客教條IV：黑旗](../Page/刺客教條IV：黑旗.md "wikilink")（2013）
   - [刺客教條：叛變](https://zh.wikipedia.org/wiki/刺客教條：叛變 "wikilink")（2014）
 
 ### 以AnvilNext 2.0名義
 
-  - [刺客教條：大革命](https://zh.wikipedia.org/wiki/刺客教條：大革命 "wikilink")（2014）\[4\]
+  - [刺客教條：大革命](../Page/刺客教條：大革命.md "wikilink")（2014）\[4\]
   - [刺客教條：梟雄](../Page/刺客教條：梟雄.md "wikilink")（2015）
   - [虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")（2015）
-  - [極限巔峰](https://zh.wikipedia.org/wiki/極限巔峰 "wikilink")（2016）
-  - [榮耀戰魂](https://zh.wikipedia.org/wiki/榮耀戰魂 "wikilink")（2017）
+  - [極限巔峰](../Page/極限巔峰.md "wikilink")（2016）
+  - [榮耀戰魂](../Page/榮耀戰魂.md "wikilink")（2017）
   - [火线猎杀：野境](https://zh.wikipedia.org/wiki/幽灵行动：荒野之地 "wikilink")（2017）
-  - [刺客信条：起源](https://zh.wikipedia.org/wiki/刺客信条：起源 "wikilink")（2017）
-  - [刺客信条：奥德赛](https://zh.wikipedia.org/wiki/刺客信条：奥德赛 "wikilink")（2018）
-  - [怒海戰記](https://zh.wikipedia.org/wiki/怒海戰記 "wikilink")（2019）
+  - [刺客信条：起源](../Page/刺客信条：起源.md "wikilink")（2017）
+  - [刺客信条：奥德赛](../Page/刺客信条：奥德赛.md "wikilink")（2018）
+  - [怒海戰記](../Page/怒海戰記.md "wikilink")（2019）
 
 ## 技術規格
 

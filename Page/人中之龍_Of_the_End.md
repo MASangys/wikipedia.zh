@@ -3,7 +3,7 @@
 
 ## 概要
 
-2010年9月9日發表標題並且和[前作一樣採用四名主角](../Page/人中之龍4_傳說的繼承者.md "wikilink")，由系列作中就登場的桐生一馬、真島吾朗、秋山駿與鄉田龍司組成而沒有新的主角出現。遊戲內會舉辦酒店小姐選秀會選出7名代表，而且與系列作一樣，邀請藝人[的場浩司](../Page/的場浩司.md "wikilink")、[杉本哲太](https://zh.wikipedia.org/wiki/杉本哲太 "wikilink")、[栗山千明](../Page/栗山千明.md "wikilink")、[石橋蓮司及](https://zh.wikipedia.org/wiki/石橋蓮司 "wikilink")[池畑慎之介來配音演出](https://zh.wikipedia.org/wiki/池畑慎之介 "wikilink")。另外，本作的戰鬥系統也從原本的格鬥方式改成使用槍械射擊，並可以對槍支進行合成改造；敵人也全變成**[殭屍](../Page/殭屍.md "wikilink")**及多種原創怪物，包括由藝人[テリー伊藤](https://zh.wikipedia.org/wiki/テリー伊藤 "wikilink")、[デビット伊東和](https://zh.wikipedia.org/wiki/デビット伊東 "wikilink")[エスパー伊東客串扮演的殭屍](https://zh.wikipedia.org/wiki/エスパー伊東 "wikilink")。
+2010年9月9日發表標題並且和[前作一樣採用四名主角](../Page/人中之龍4_傳說的繼承者.md "wikilink")，由系列作中就登場的桐生一馬、真島吾朗、秋山駿與鄉田龍司組成而沒有新的主角出現。遊戲內會舉辦酒店小姐選秀會選出7名代表，而且與系列作一樣，邀請藝人[的場浩司](../Page/的場浩司.md "wikilink")、[杉本哲太](../Page/杉本哲太.md "wikilink")、[栗山千明](../Page/栗山千明.md "wikilink")、[石橋蓮司及](https://zh.wikipedia.org/wiki/石橋蓮司 "wikilink")[池畑慎之介來配音演出](https://zh.wikipedia.org/wiki/池畑慎之介 "wikilink")。另外，本作的戰鬥系統也從原本的格鬥方式改成使用槍械射擊，並可以對槍支進行合成改造；敵人也全變成**[殭屍](../Page/殭屍.md "wikilink")**及多種原創怪物，包括由藝人[テリー伊藤](https://zh.wikipedia.org/wiki/テリー伊藤 "wikilink")、[デビット伊東和](https://zh.wikipedia.org/wiki/デビット伊東 "wikilink")[エスパー伊東客串扮演的殭屍](https://zh.wikipedia.org/wiki/エスパー伊東 "wikilink")。
 
 根據名越製作人的說法，本作並非系列的最終作，只是透過標題來描寫神室町遇到宛如世界末日般的慘狀。
 

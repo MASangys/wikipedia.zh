@@ -414,7 +414,7 @@
 <td><p>60</p></td>
 <td><p><a href="../Page/甘宇成.md" title="wikilink">甘宇成</a></p></td>
 <td><p>鄭成熙、劉松烈</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尹昌範" title="wikilink">尹昌範</a>、<a href="https://zh.wikipedia.org/wiki/金英兆" title="wikilink">金英兆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尹昌範" title="wikilink">尹昌範</a>、<a href="../Page/金英兆.md" title="wikilink">金英兆</a></p></td>
 <td><ul>
 <li>三國時代英雄傳第一部。</li>
 <li>講述百濟第13代王近肖古王的故事。</li>
@@ -452,12 +452,12 @@
 <tr class="odd">
 <td><p>2014年1月4日－<br />
 2014年6月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭道傳_(電視劇)" title="wikilink">鄭道傳</a><br />
+<td><p><a href="../Page/鄭道傳_(電視劇).md" title="wikilink">鄭道傳</a><br />
 </p></td>
 <td><p>50</p></td>
 <td><p><a href="../Page/曹在顯.md" title="wikilink">曹在顯</a></p></td>
 <td><p><a href="../Page/鄭賢珉.md" title="wikilink">鄭賢珉</a></p></td>
-<td><p><a href="../Page/姜秉澤.md" title="wikilink">姜秉澤</a>、<a href="https://zh.wikipedia.org/wiki/李在勳" title="wikilink">李在勳</a></p></td>
+<td><p><a href="../Page/姜秉澤.md" title="wikilink">姜秉澤</a>、<a href="../Page/李在勳.md" title="wikilink">李在勳</a></p></td>
 <td><ul>
 <li>講述鄭道傳在李成桂奪取高麗政權、建立朝鮮王朝的事件中立下了功勳的故事。</li>
 <li>從此劇開始每週日片尾會播出似日本大河劇的紀行之紀錄片。</li>
@@ -471,7 +471,7 @@
 <td><p>50</p></td>
 <td><p><a href="../Page/金相中.md" title="wikilink">金相中</a>、<a href="../Page/金太祐.md" title="wikilink">金太祐</a></p></td>
 <td><p>鄭亨洙、鄭智妍</p></td>
-<td><p>金尚偉、<a href="https://zh.wikipedia.org/wiki/金英兆" title="wikilink">金英兆</a></p></td>
+<td><p>金尚偉、<a href="../Page/金英兆.md" title="wikilink">金英兆</a></p></td>
 <td><ul>
 <li>光復70週年特別企劃劇。</li>
 <li>專門記述朝鮮壬辰衛國戰爭，並檢討朝鮮在戰事中所得的教訓。</li>
@@ -485,7 +485,7 @@
 <td><p>24</p></td>
 <td><p><a href="../Page/宋一國.md" title="wikilink">宋一國</a>、<a href="https://zh.wikipedia.org/wiki/金相慶" title="wikilink">金相慶</a>、<a href="../Page/金永哲.md" title="wikilink">金永哲</a>、<a href="../Page/朴宣暎.md" title="wikilink">朴宣暎</a></p></td>
 <td><p>李明熙、馬昌俊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金英兆" title="wikilink">金英兆</a></p></td>
+<td><p><a href="../Page/金英兆.md" title="wikilink">金英兆</a></p></td>
 <td><p>講述朝鮮時代天才科學家蔣英實的一生。</p></td>
 </tr>
 </tbody>

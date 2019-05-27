@@ -3,7 +3,7 @@
 α规格](https://zh.wikipedia.org/wiki/Sony_α "wikilink")，但因光路設計與傳統的数码单反相机不同，因此使用了全新的[SLT](https://zh.wikipedia.org/wiki/SLT "wikilink")（Single
 lens translucent）的產品代號。
 
-具体型号分为**SLT-A55V**（带有GPS），以及**SLT-A55**（不带GPS，在部分受当地法律法规限制地区销售，例如[中国大陆](https://zh.wikipedia.org/wiki/中华人民共和国测绘限制 "wikilink")）。
+具体型号分为**SLT-A55V**（带有GPS），以及**SLT-A55**（不带GPS，在部分受当地法律法规限制地区销售，例如[中国大陆](../Page/中华人民共和国测绘限制.md "wikilink")）。
 
 ## 機身性能
 

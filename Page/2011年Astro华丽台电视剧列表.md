@@ -280,7 +280,7 @@ Someday</p></td>
 Show Me the Happy</p></td>
 <td style="text-align: center;"><p>80</p></td>
 <td style="text-align: center;"><p><a href="../Page/郭晉安.md" title="wikilink">郭晉安</a>、<a href="../Page/廖碧兒.md" title="wikilink">廖碧兒</a>、<a href="../Page/米雪.md" title="wikilink">米　雪</a>、<br />
-<a href="../Page/秦沛.md" title="wikilink">秦　沛</a>、<a href="https://zh.wikipedia.org/wiki/廖安麗" title="wikilink">廖安麗</a>、<a href="../Page/許紹雄.md" title="wikilink">許紹雄</a></p></td>
+<a href="../Page/秦沛.md" title="wikilink">秦　沛</a>、<a href="../Page/廖安麗.md" title="wikilink">廖安麗</a>、<a href="../Page/許紹雄.md" title="wikilink">許紹雄</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/潘嘉德.md" title="wikilink">潘嘉德</a></p></td>
 <td style="text-align: center;"><p><a href="http://programme.tvb.com/drama/showmethehappy">網頁</a></p></td>
 <td style="text-align: center;"><p>主:依家有喜（<a href="../Page/廖碧兒.md" title="wikilink">廖碧兒</a>）</p></td>

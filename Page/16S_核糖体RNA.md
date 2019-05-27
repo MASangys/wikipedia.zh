@@ -19,7 +19,7 @@ rRNA\[3\]。
     rRNA相似的结构决定功能](https://zh.wikipedia.org/wiki/23S核糖体RNA "wikilink")，可作为[核糖体蛋白质结合的架构](../Page/核糖体蛋白质.md "wikilink")。在足量[Mg<sup>2+</sup>存在下分离到的](https://zh.wikipedia.org/wiki/镁离子 "wikilink")16S
     rRNA处于紧密状态，其空间结构与30S亚基的大小和形状十分相似。\[4\]
   - 16S
-    rRNA的3'端含有能与[mRNA上游AUG](https://zh.wikipedia.org/wiki/mRNA "wikilink")[起始密码子通过](https://zh.wikipedia.org/wiki/起始密码子 "wikilink")[氢键结合的](../Page/氢键.md "wikilink")[反夏因-达尔加诺序列](../Page/夏因-达尔加诺序列.md "wikilink")。另有发现表明，16S
+    rRNA的3'端含有能与[mRNA上游AUG](https://zh.wikipedia.org/wiki/mRNA "wikilink")[起始密码子通过](../Page/起始密码子.md "wikilink")[氢键结合的](../Page/氢键.md "wikilink")[反夏因-达尔加诺序列](../Page/夏因-达尔加诺序列.md "wikilink")。另有发现表明，16S
     rRNA中1,505－1,539的CCUCC序列与mRNA的相应序列有互补关系。\[5\]
   - 16S rRNA能通过氢键与23S
     rRNA结合，增强原核生物[70S核糖体一大一小两个亚基](https://zh.wikipedia.org/wiki/70S核糖体 "wikilink")（[50S亚基与](https://zh.wikipedia.org/wiki/50S亚基 "wikilink")30S亚基）结合时的稳定性。

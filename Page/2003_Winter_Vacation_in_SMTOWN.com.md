@@ -15,7 +15,7 @@ Town在](../Page/SM_Town.md "wikilink")2003年發表的第五張冬季合輯。
 8.  겨울로의 초대 – [劉英振](../Page/劉英振.md "wikilink")
 9.  White – [Shoo](../Page/Shoo.md "wikilink")
 10. Choice – Black Beat
-11. Be My Love – [Dana](https://zh.wikipedia.org/wiki/喜悅Dana "wikilink")
+11. Be My Love – [Dana](../Page/喜悅Dana.md "wikilink")
 
 [Category:SM_Town音樂專輯](https://zh.wikipedia.org/wiki/Category:SM_Town音樂專輯 "wikilink")
 [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")

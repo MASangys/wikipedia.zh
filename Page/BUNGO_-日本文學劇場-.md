@@ -22,9 +22,9 @@
 ### 高瀨舟
 
   - 喜助：[成宮寬貴](../Page/成宮寬貴.md "wikilink")
-  - 庄兵衛：[杉本哲太](https://zh.wikipedia.org/wiki/杉本哲太 "wikilink")
+  - 庄兵衛：[杉本哲太](../Page/杉本哲太.md "wikilink")
   - 與平：[タモト清嵐](https://zh.wikipedia.org/wiki/タモト清嵐 "wikilink")
-  - 老婆：[岡本麗](https://zh.wikipedia.org/wiki/岡本麗 "wikilink")
+  - 老婆：[岡本麗](../Page/岡本麗.md "wikilink")
 
 ### 魔術
 
@@ -43,7 +43,7 @@
 
   - 田島周二：[山崎まさよし](https://zh.wikipedia.org/wiki/山崎まさよし "wikilink")
   - キヌ子：[水川麻美](../Page/水川麻美.md "wikilink")
-  - 村松：[小市慢太郎](https://zh.wikipedia.org/wiki/小市慢太郎 "wikilink")
+  - 村松：[小市慢太郎](../Page/小市慢太郎.md "wikilink")
   - 青木：[出口結美子](https://zh.wikipedia.org/wiki/出口結美子 "wikilink")
   - 男：[長江英和](https://zh.wikipedia.org/wiki/長江英和 "wikilink")
 

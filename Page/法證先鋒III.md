@@ -144,7 +144,7 @@ PTSD创伤压力后遗症患者<br />
 <td><p><strong>暱稱/關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭恕峰" title="wikilink">鄭恕峰</a></p></td>
+<td><p><a href="../Page/鄭恕峰.md" title="wikilink">鄭恕峰</a></p></td>
 <td><p>Raymond</p></td>
 <td><p>張鳳萍之第二任丈夫<br />
 凌倩兒之繼父</p></td>
@@ -535,7 +535,7 @@ Raymond之繼女<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/尹詩沛" title="wikilink">尹詩沛</a></p></td>
+<td><p><a href="../Page/尹詩沛.md" title="wikilink">尹詩沛</a></p></td>
 <td><p>姊　妹</p></td>
 <td></td>
 </tr>
@@ -739,7 +739,7 @@ Raymond之繼女<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭家俊" title="wikilink">鄭家俊</a></p></td>
+<td><p><a href="../Page/鄭家俊.md" title="wikilink">鄭家俊</a></p></td>
 <td><p>主控官助手</p></td>
 <td></td>
 </tr>
@@ -896,7 +896,7 @@ Raymond之繼女<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭家俊" title="wikilink">鄭家俊</a></p></td>
+<td><p><a href="../Page/鄭家俊.md" title="wikilink">鄭家俊</a></p></td>
 <td><p>主控官助手</p></td>
 <td></td>
 </tr>
@@ -908,7 +908,7 @@ Raymond之繼女<br />
 參見<a href="https://zh.wikipedia.org/wiki/#布家" title="wikilink"><strong>布家</strong></a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蕭凱欣" title="wikilink">蕭凱欣</a></p></td>
+<td><p><a href="../Page/蕭凱欣.md" title="wikilink">蕭凱欣</a></p></td>
 <td><p>法庭書記</p></td>
 <td></td>
 </tr>
@@ -928,7 +928,7 @@ Raymond之繼女<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/司徒暉" title="wikilink">司徒暉</a></p></td>
+<td><p><a href="../Page/司徒暉.md" title="wikilink">司徒暉</a></p></td>
 <td><p>青　年</p></td>
 <td></td>
 </tr>
@@ -1059,7 +1059,7 @@ Oscar之孿生弟弟，後反目<br />
 於第15集被警方拘捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/方紹聰" title="wikilink">方紹聰</a></p></td>
+<td><p><a href="../Page/方紹聰.md" title="wikilink">方紹聰</a></p></td>
 <td><p>漢</p></td>
 <td><p>游俊傑之同學，後反目</p></td>
 </tr>
@@ -1069,7 +1069,7 @@ Oscar之孿生弟弟，後反目<br />
 <td><p>游俊傑之同學</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳亭嘉" title="wikilink">陳亭嘉</a></p></td>
+<td><p><a href="../Page/陳亭嘉.md" title="wikilink">陳亭嘉</a></p></td>
 <td></td>
 <td><p>大學生</p></td>
 </tr>
@@ -1236,7 +1236,7 @@ Oscar之孿生弟弟，後反目<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#法證部" title="wikilink">法證部</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
 <td><p>楊再錦</p></td>
 <td><p>向金嫦之子<br />
 委託律師行要求取-{回}-向金嫦贈予何正民的單位，決定放棄，最後給獲何正民以便宜租金出租</p></td>
@@ -1612,7 +1612,7 @@ Oscar之孿生弟弟，後反目<br />
 布家雯之好友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
+<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
 <td><p>方學勤</p></td>
 <td><p>興萬堂<a href="https://zh.wikipedia.org/wiki/跌打" title="wikilink">跌打館</a><a href="https://zh.wikipedia.org/wiki/師傅" title="wikilink">師傅</a><br />
 布順興之徒弟</p></td>
@@ -1711,7 +1711,7 @@ Oscar之孿生弟弟，後反目<br />
 <td><p>布家之鐘點工人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
 <td><p>何志傑</p></td>
 <td><p>何正民之父<br />
 已去世</p></td>
@@ -1789,7 +1789,7 @@ Oscar之孿生弟弟，後反目<br />
   - 十大電視藝人第四位：張可頤
   - 最有前途女藝人：樂瞳
 
-### [星和無綫電視大獎2012](https://zh.wikipedia.org/wiki/星和無綫電視大獎2012 "wikilink")
+### [星和無綫電視大獎2012](../Page/星和無綫電視大獎2012.md "wikilink")
 
   - 我最愛TVB電視男角色：
     （黎耀祥 飾 布國棟）

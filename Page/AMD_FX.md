@@ -1,7 +1,7 @@
 **AMD
 FX**是[AMD开发的](https://zh.wikipedia.org/wiki/AMD "wikilink")[x86桌上型](https://zh.wikipedia.org/wiki/x86 "wikilink")[处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")，是[Bulldozer](../Page/AMD_Bulldozer.md "wikilink")[微架構的正式产物之一](../Page/微架構.md "wikilink")，於2011年9月19日正式上市\[1\]\[2\]。2017年由[AMD
 Zen微架構的](../Page/AMD_Zen.md "wikilink")[AMD
-Ryzen系列取代](https://zh.wikipedia.org/wiki/AMD_Ryzen "wikilink")。
+Ryzen系列取代](../Page/AMD_Ryzen.md "wikilink")。
 
 ## 特点
 

@@ -33,7 +33,7 @@ code”，“pedia”源自於“Wikipedia”。\[22\]
 <File:Orrey>
 QR.jpg|德比博物館裡的畫作“[一位哲學家講授的太陽系儀](https://zh.wikipedia.org/wiki/一位哲學家講授的太陽系儀 "wikilink")”的標籤上附帶有一個QRpedia的QR碼。2012年2月時，此連結有19種可供選擇的語言。
 <File:TCMI> Carousel QRpedia
-Label.jpg|[印第安納波利斯兒童博物館的一個QRpedia碼](https://zh.wikipedia.org/wiki/印第安納波利斯兒童博物館 "wikilink")，連結至“”
+Label.jpg|[印第安納波利斯兒童博物館的一個QRpedia碼](../Page/印第安納波利斯兒童博物館.md "wikilink")，連結至“”
 <File:QRpedia> plaque for Shire Hall, Monmouth.jpg|
 連結至“”的QRpedia碼。這是MonmouthpediA計劃的一部分。（2012年5月19日開始的計劃，目的是將南威爾士的蒙默斯與維基百科以QRpedia結合。）
 [File:QRpedia_in_Prague_10_2.JPG|琺瑯板上的QRpedia碼，連結至](File:QRpedia_in_Prague_10_2.JPG%7C琺瑯板上的QRpedia碼，連結至)。照片拍攝地點在[捷克](../Page/捷克.md "wikilink")[布拉格的](../Page/布拉格.md "wikilink")[Záběhlice](https://zh.wikipedia.org/wiki/Záběhlice "wikilink")。
@@ -53,7 +53,7 @@ QRpedia可在世界各地使用，只要使用者的手機或平板電腦有數�
   - [司法博物館畫廊](https://zh.wikipedia.org/wiki/司法博物館畫廊 "wikilink")
   - [Fundació Joan
     Miró](https://zh.wikipedia.org/wiki/Fundació_Joan_Miró "wikilink")，西班牙。\[28\]\[29\]包括在[泰特美術館的巡迴展](../Page/泰特美術館.md "wikilink")。\[30\]
-  - [英國國家檔案館](https://zh.wikipedia.org/wiki/英國國家檔案館 "wikilink")\[31\]\[32\]
+  - [英國國家檔案館](../Page/英國國家檔案館.md "wikilink")\[31\]\[32\]
   - [電腦國家博物館](https://zh.wikipedia.org/wiki/電腦國家博物館 "wikilink")（英國）\[33\]
   - [索非亞動物園](https://zh.wikipedia.org/wiki/索非亞動物園 "wikilink")，保加利亞\[34\]
   - 威爾士的[Monmouth小鎮](https://zh.wikipedia.org/wiki/Monmouth "wikilink")，是維基百科[MonmouthpediA計劃的一部分](https://zh.wikipedia.org/wiki/MonmouthpediA "wikilink")。\[35\]

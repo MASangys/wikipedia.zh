@@ -60,7 +60,7 @@ MultiCam使用七種色調，因應不同環境、季節、海拔和亮度變化
 
   - \- 內務部特種部隊
 
-  - －[特種部隊群](https://zh.wikipedia.org/wiki/特種部隊群 "wikilink")
+  - －[特種部隊群](../Page/特種部隊群.md "wikilink")
 
   - \-
     [特種部隊](../Page/特種部隊.md "wikilink")、[巴西聯邦警察](https://zh.wikipedia.org/wiki/巴西聯邦警察 "wikilink")

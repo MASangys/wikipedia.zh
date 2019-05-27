@@ -11,7 +11,7 @@ NBA赛季共助攻](https://zh.wikipedia.org/wiki/1987-88_NBA赛季 "wikilink")8
 NBA赛季的助攻次数最多](../Page/2007-08_NBA赛季.md "wikilink")，达925次，[拉简·朗多则是平均每场比赛助攻次数最多的球员](https://zh.wikipedia.org/wiki/拉简·朗多 "wikilink")，[2011-12
 NBA赛季里他平均每场比赛助攻](../Page/2011-12_NBA赛季.md "wikilink")11.7次。
 
-斯托克顿是获助攻王称号次数最多的球员，共有九次。[鲍勃·库锡以八次紧随其后](../Page/鲍勃·库锡.md "wikilink")，然后是[奥斯卡·罗伯逊的六次](../Page/奥斯卡·罗伯逊.md "wikilink")。[贾森·基德和](https://zh.wikipedia.org/wiki/贾森·基德 "wikilink")[史蒂夫·纳什都曾五次成为助攻王](https://zh.wikipedia.org/wiki/史蒂夫·纳什 "wikilink")，[凯文·波特和](../Page/凯文·波特.md "wikilink")[魔术师约翰逊各有四次](../Page/魔术师约翰逊.md "wikilink")。此外只有[克里斯·保罗](https://zh.wikipedia.org/wiki/克里斯·保罗 "wikilink")、[安迪·菲利普](../Page/安迪·菲利普.md "wikilink")、[盖伊·罗杰斯和](../Page/盖伊·罗杰斯.md "wikilink")[拉简·朗多曾多次获助攻王称号](https://zh.wikipedia.org/wiki/拉简·朗多 "wikilink")。斯托克顿的九次助攻王称号是连续九年获得，同样超过其他球员。历史上共有三位球员在同一赛季拿下助攻王头衔的同时还带领球队赢得[总冠军](https://zh.wikipedia.org/wiki/NBA总冠军列表 "wikilink")，分别是库锡于[1957](https://zh.wikipedia.org/wiki/1957年NBA总决赛 "wikilink")、[1959和](https://zh.wikipedia.org/wiki/1959年NBA总决赛 "wikilink")[1960年带领](https://zh.wikipedia.org/wiki/1960年NBA总决赛 "wikilink")[波士顿凯尔特人打入决赛](../Page/波士顿凯尔特人.md "wikilink")，[杰里·韦斯特于](https://zh.wikipedia.org/wiki/杰里·韦斯特 "wikilink")[1972年带领](https://zh.wikipedia.org/wiki/1972年NBA总决赛 "wikilink")[洛杉矶湖人队进入决赛](https://zh.wikipedia.org/wiki/洛杉矶湖人 "wikilink")，魔术师约翰逊于[1987年带领洛杉矶湖人队打入决赛](https://zh.wikipedia.org/wiki/1987年NBA总决赛 "wikilink")。
+斯托克顿是获助攻王称号次数最多的球员，共有九次。[鲍勃·库锡以八次紧随其后](../Page/鲍勃·库锡.md "wikilink")，然后是[奥斯卡·罗伯逊的六次](../Page/奥斯卡·罗伯逊.md "wikilink")。[贾森·基德和](https://zh.wikipedia.org/wiki/贾森·基德 "wikilink")[史蒂夫·纳什都曾五次成为助攻王](https://zh.wikipedia.org/wiki/史蒂夫·纳什 "wikilink")，[凯文·波特和](../Page/凯文·波特.md "wikilink")[魔术师约翰逊各有四次](../Page/魔术师约翰逊.md "wikilink")。此外只有[克里斯·保罗](https://zh.wikipedia.org/wiki/克里斯·保罗 "wikilink")、[安迪·菲利普](../Page/安迪·菲利普.md "wikilink")、[盖伊·罗杰斯和](../Page/盖伊·罗杰斯.md "wikilink")[拉简·朗多曾多次获助攻王称号](https://zh.wikipedia.org/wiki/拉简·朗多 "wikilink")。斯托克顿的九次助攻王称号是连续九年获得，同样超过其他球员。历史上共有三位球员在同一赛季拿下助攻王头衔的同时还带领球队赢得[总冠军](https://zh.wikipedia.org/wiki/NBA总冠军列表 "wikilink")，分别是库锡于[1957](https://zh.wikipedia.org/wiki/1957年NBA总决赛 "wikilink")、[1959和](https://zh.wikipedia.org/wiki/1959年NBA总决赛 "wikilink")[1960年带领](https://zh.wikipedia.org/wiki/1960年NBA总决赛 "wikilink")[波士顿凯尔特人打入决赛](../Page/波士顿凯尔特人.md "wikilink")，[杰里·韦斯特于](https://zh.wikipedia.org/wiki/杰里·韦斯特 "wikilink")[1972年带领](https://zh.wikipedia.org/wiki/1972年NBA总决赛 "wikilink")[洛杉矶湖人队进入决赛](../Page/洛杉矶湖人.md "wikilink")，魔术师约翰逊于[1987年带领洛杉矶湖人队打入决赛](https://zh.wikipedia.org/wiki/1987年NBA总决赛 "wikilink")。
 
 ## 图例
 
@@ -318,7 +318,7 @@ NBA赛季里他平均每场比赛助攻](../Page/2011-12_NBA赛季.md "wikilink"
 <td><p><a href="https://zh.wikipedia.org/wiki/1971-72_NBA赛季" title="wikilink">1971-72</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/杰里·韦斯特" title="wikilink">杰里·韦斯特</a>*{{#tag:ref|<a href="https://zh.wikipedia.org/wiki/兰尼·威尔肯斯" title="wikilink">兰尼·威尔肯斯在</a><a href="https://zh.wikipedia.org/wiki/1971-72_NBA赛季" title="wikilink">1971-72 NBA赛季的助攻次数最多</a>（766次），但平均每场助攻数以9.6次排第二位[60]。|group="注"}}</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>77</p></td>
 <td><p>747</p></td>
 <td><p>9.70</p></td>
@@ -429,7 +429,7 @@ NBA赛季里他平均每场比赛助攻](../Page/2011-12_NBA赛季.md "wikilink"
 <td><p><a href="https://zh.wikipedia.org/wiki/1982-83_NBA赛季" title="wikilink">1982-83</a></p></td>
 <td><p><a href="../Page/魔术师约翰逊.md" title="wikilink">魔术师约翰逊</a>*</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>79</p></td>
 <td><p>829</p></td>
 <td><p>10.49</p></td>
@@ -439,7 +439,7 @@ NBA赛季里他平均每场比赛助攻](../Page/2011-12_NBA赛季.md "wikilink"
 <td><p><a href="https://zh.wikipedia.org/wiki/1983-84_NBA赛季" title="wikilink">1983-84</a></p></td>
 <td><p><a href="../Page/魔术师约翰逊.md" title="wikilink">魔术师约翰逊</a>*（2）{{#tag:ref|<a href="https://zh.wikipedia.org/wiki/1983-84_NBA赛季" title="wikilink">1983-84 NBA赛季期间</a>，<a href="https://zh.wikipedia.org/wiki/以赛亚·汤玛斯" title="wikilink">以赛亚·汤玛斯和</a><a href="https://zh.wikipedia.org/wiki/诺姆·尼克森" title="wikilink">诺姆·尼克森的助攻次数并列第一</a>（914次），但平均每场比赛助攻次数只有11.1次，不及约翰逊[97]。|group="注"}}</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>67</p></td>
 <td><p>875</p></td>
 <td><p>13.06</p></td>
@@ -459,7 +459,7 @@ NBA赛季里他平均每场比赛助攻](../Page/2011-12_NBA赛季.md "wikilink"
 <td><p><a href="https://zh.wikipedia.org/wiki/1985-86_NBA赛季" title="wikilink">1985-86</a></p></td>
 <td><p><a href="../Page/魔术师约翰逊.md" title="wikilink">魔术师约翰逊</a>*（3）</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>72</p></td>
 <td><p>907</p></td>
 <td><p>12.60</p></td>
@@ -469,7 +469,7 @@ NBA赛季里他平均每场比赛助攻](../Page/2011-12_NBA赛季.md "wikilink"
 <td><p><a href="https://zh.wikipedia.org/wiki/1986-87_NBA赛季" title="wikilink">1986-87</a></p></td>
 <td><p><a href="../Page/魔术师约翰逊.md" title="wikilink">魔术师约翰逊</a>*（4）</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>80</p></td>
 <td><p>977</p></td>
 <td><p>12.21</p></td>
@@ -848,7 +848,7 @@ NBA赛季里他平均每场比赛助攻](../Page/2011-12_NBA赛季.md "wikilink"
 <td><p><a href="../Page/魔术师约翰逊.md" title="wikilink">魔术师约翰逊</a><br />
 <a href="https://zh.wikipedia.org/wiki/克里斯·保罗" title="wikilink">克里斯·保罗</a><br />
 <a href="../Page/凯文·波特.md" title="wikilink">凯文·波特</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><br />
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><br />
 <a href="../Page/新奥尔良鹈鹕.md" title="wikilink">新奥尔良鹈鹕</a>（2） / <a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船</a>（2）<br />
 <a href="https://zh.wikipedia.org/wiki/华盛顿奇才" title="wikilink">华盛顿奇才</a>（2） / <a href="../Page/底特律活塞.md" title="wikilink">底特律活塞</a>（1）/ 底特律活塞/新泽西篮网（1）</p></td>
 <td><p>4</p></td>

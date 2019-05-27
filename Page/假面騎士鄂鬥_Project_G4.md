@@ -186,7 +186,7 @@ G4》**是平成假面骑士系列的第一部剧场版。此剧场版是为了�
   - 監督 - 小野寺章（石森プロ）
   - 製作 -
     松田佐栄子（テレビ朝日）、[白倉伸一郎](https://zh.wikipedia.org/wiki/白倉伸一郎 "wikilink")・[武部直美](https://zh.wikipedia.org/wiki/武部直美 "wikilink")・[塚田英明](https://zh.wikipedia.org/wiki/塚田英明 "wikilink")（東映）
-  - 劇本 - [井上敏樹](https://zh.wikipedia.org/wiki/井上敏樹 "wikilink")
+  - 劇本 - [井上敏樹](../Page/井上敏樹.md "wikilink")
   - [音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink") -
     [佐橋俊彦](https://zh.wikipedia.org/wiki/佐橋俊彦 "wikilink")
   - 導演 - [田﨑竜太](https://zh.wikipedia.org/wiki/田崎竜太 "wikilink")

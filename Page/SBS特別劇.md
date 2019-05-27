@@ -146,7 +146,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>34</p></td>
 <td style="text-align: center;"><p><a href="../Page/崔明吉_(藝人).md" title="wikilink">崔明吉</a>、<a href="../Page/黃薪惠.md" title="wikilink">黃薪惠</a>、<a href="../Page/李孝正.md" title="wikilink">李孝正</a>、<a href="https://zh.wikipedia.org/wiki/李鎮宇" title="wikilink">李鎮宇</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳鍾錄" title="wikilink">吳鍾錄</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳鍾錄.md" title="wikilink">吳鍾錄</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/趙希" title="wikilink">趙希</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -207,7 +207,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/李炳憲.md" title="wikilink">李炳憲</a>、<a href="../Page/崔真實.md" title="wikilink">崔真-{}-實</a>、<a href="../Page/鄭雨盛.md" title="wikilink">鄭雨盛</a>、<a href="../Page/李英愛.md" title="wikilink">李英愛</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李章秀" title="wikilink">李章秀</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李章秀.md" title="wikilink">李章秀</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴賢珠.md" title="wikilink">朴賢珠</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -229,7 +229,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓載碩" title="wikilink">韓載碩</a>、<a href="../Page/崔真實.md" title="wikilink">崔真-{}-實</a>、<a href="../Page/邊宇民.md" title="wikilink">邊宇民</a>、<a href="https://zh.wikipedia.org/wiki/鄭盛煥" title="wikilink">鄭盛煥</a>、<a href="../Page/鄭慧英.md" title="wikilink">鄭慧英</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳鍾錄" title="wikilink">吳鍾錄</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳鍾錄.md" title="wikilink">吳鍾錄</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/趙希" title="wikilink">趙希</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -445,7 +445,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/金南珠_(1971年).md" title="wikilink">金南珠</a>、<a href="../Page/朴新陽.md" title="wikilink">朴新陽</a>、<a href="https://zh.wikipedia.org/wiki/韓載碩" title="wikilink">韓載碩</a>、<a href="../Page/李泰蘭.md" title="wikilink">李泰蘭</a>、<a href="../Page/全智賢.md" title="wikilink">全智賢</a>、<a href="../Page/許英蘭.md" title="wikilink">許英蘭</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳鍾錄" title="wikilink">吳鍾錄</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳鍾錄.md" title="wikilink">吳鍾錄</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/裴由美.md" title="wikilink">裴由美</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -477,7 +477,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/熱血刑警" title="wikilink">熱血刑警</a><br />
 </p></td>
 <td style="text-align: center;"><p>24</p></td>
-<td style="text-align: center;"><p><a href="../Page/宋承憲.md" title="wikilink">宋承憲</a>、<a href="../Page/金南珠_(1971年).md" title="wikilink">金南珠</a>、<a href="https://zh.wikipedia.org/wiki/具本承" title="wikilink">具本承</a>、<a href="../Page/金素妍.md" title="wikilink">金素妍</a>、<a href="https://zh.wikipedia.org/wiki/權五中" title="wikilink">權五中</a>、<a href="../Page/金宣兒.md" title="wikilink">金宣兒</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/宋承憲.md" title="wikilink">宋承憲</a>、<a href="../Page/金南珠_(1971年).md" title="wikilink">金南珠</a>、<a href="../Page/具本承.md" title="wikilink">具本承</a>、<a href="../Page/金素妍.md" title="wikilink">金素妍</a>、<a href="https://zh.wikipedia.org/wiki/權五中" title="wikilink">權五中</a>、<a href="../Page/金宣兒.md" title="wikilink">金宣兒</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李江勳" title="wikilink">李江勳</a>、<a href="https://zh.wikipedia.org/wiki/安範鎮" title="wikilink">安範鎮</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/權仁燦" title="wikilink">權仁燦</a></p></td>
 <td style="text-align: center;"></td>
@@ -550,7 +550,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/李炳憲.md" title="wikilink">李炳憲</a>、<a href="../Page/宋承憲.md" title="wikilink">宋承憲</a>、<a href="../Page/金荷娜.md" title="wikilink">金荷娜</a>、<a href="../Page/趙敏修.md" title="wikilink">趙敏修</a>、<a href="../Page/姜成妍.md" title="wikilink">姜成妍</a>、<a href="../Page/全智賢.md" title="wikilink">全智賢</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳鍾錄" title="wikilink">吳鍾錄</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳鍾錄.md" title="wikilink">吳鍾錄</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/裴由美.md" title="wikilink">裴由美</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -655,7 +655,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="../Page/芮智媛.md" title="wikilink">芮智媛</a>、<a href="../Page/池珍熙.md" title="wikilink">池珍熙</a>、<a href="../Page/金成鈴.md" title="wikilink">金成鈴</a>、<a href="../Page/金敏喜.md" title="wikilink">金敏喜</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳鍾錄" title="wikilink">吳鍾錄</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳鍾錄.md" title="wikilink">吳鍾錄</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴繼玉" title="wikilink">朴繼玉</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -716,7 +716,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>24</p></td>
 <td style="text-align: center;"><p><a href="../Page/李炳憲.md" title="wikilink">李炳憲</a>、<a href="../Page/柳時元.md" title="wikilink">柳時元</a>、<a href="https://zh.wikipedia.org/wiki/崔智友" title="wikilink">崔智友</a>、<a href="../Page/李貞賢.md" title="wikilink">李貞賢</a>、<a href="../Page/新慜娥.md" title="wikilink">新慜娥</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李章秀" title="wikilink">李章秀</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李章秀.md" title="wikilink">李章秀</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹成熙" title="wikilink">尹成熙</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -738,7 +738,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋慧乔" title="wikilink">宋慧乔</a>、<a href="../Page/金旻鍾.md" title="wikilink">金旻鍾</a>、<a href="../Page/金玟.md" title="wikilink">金玟</a>、<a href="../Page/尹多勳.md" title="wikilink">尹多勳</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金英燮" title="wikilink">金英燮</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金英燮.md" title="wikilink">金英燮</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李熙明" title="wikilink">李熙明</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -760,7 +760,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/曹在顯.md" title="wikilink">曹在顯</a>、<a href="../Page/趙寅成.md" title="wikilink">趙寅成</a>、<a href="../Page/金荷娜.md" title="wikilink">金荷娜</a>、<a href="../Page/高洙.md" title="wikilink">高洙</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳鍾錄" title="wikilink">吳鍾錄</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳鍾錄.md" title="wikilink">吳鍾錄</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金圭莞" title="wikilink">金圭莞</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -833,7 +833,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/高洙.md" title="wikilink">高洙</a>、<a href="../Page/金敏喜.md" title="wikilink">金敏喜</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金宗赫" title="wikilink">金宗赫</a>、<a href="https://zh.wikipedia.org/wiki/姜信孝" title="wikilink">姜信孝</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李晶善" title="wikilink">李晶善</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李晶善.md" title="wikilink">李晶善</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -850,11 +850,11 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 <tr class="even">
 <td style="text-align: center;"><p>2002.11.20－<br />
 2003.1.9</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/射星" title="wikilink">射星</a><br />
+<td style="text-align: center;"><p><a href="../Page/射星.md" title="wikilink">射星</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/全道嬿.md" title="wikilink">全道嬿</a>、<a href="../Page/趙寅成.md" title="wikilink">趙寅成</a>、<a href="../Page/朴相勉.md" title="wikilink">朴相勉</a>、<a href="../Page/李瑞鎮.md" title="wikilink">李瑞鎮</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李章秀" title="wikilink">李章秀</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李章秀.md" title="wikilink">李章秀</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹成熙" title="wikilink">尹成熙</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -926,9 +926,9 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/金喜善.md" title="wikilink">金喜善</a>、<a href="../Page/高洙.md" title="wikilink">高洙</a>、<a href="../Page/孫暢敏.md" title="wikilink">孫暢敏</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓正煥" title="wikilink">韓正煥</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/韓正煥.md" title="wikilink">韓正煥</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李熙明" title="wikilink">李熙明</a></p></td>
-<td style="text-align: center;"><p>原作：<a href="https://zh.wikipedia.org/wiki/中園美保" title="wikilink">中園美保</a>《<a href="../Page/大和拜金女.md" title="wikilink">大和拜金女</a>》</p></td>
+<td style="text-align: center;"><p>原作：<a href="../Page/中園美保.md" title="wikilink">中園美保</a>《<a href="../Page/大和拜金女.md" title="wikilink">大和拜金女</a>》</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2003.10.8－<br />
@@ -948,7 +948,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/權相佑.md" title="wikilink">權相佑</a>、<a href="https://zh.wikipedia.org/wiki/崔智友" title="wikilink">崔智友</a>、<a href="../Page/金泰希.md" title="wikilink">金泰希</a>、<a href="../Page/申鉉濬.md" title="wikilink">申鉉濬</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李章秀" title="wikilink">李章秀</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李章秀.md" title="wikilink">李章秀</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴慧慶" title="wikilink">朴慧慶</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1009,7 +1009,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/韓智慧.md" title="wikilink">韓智慧</a>、<a href="../Page/金旻鍾.md" title="wikilink">金旻鍾</a>、<a href="../Page/朴恩惠.md" title="wikilink">朴恩惠</a>、<a href="../Page/李棟旭.md" title="wikilink">李棟旭</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金英燮" title="wikilink">金英燮</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金英燮.md" title="wikilink">金英燮</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金義錫" title="wikilink">金義錫</a>、<a href="https://zh.wikipedia.org/wiki/李允珍" title="wikilink">李允珍</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1092,7 +1092,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/孔曉振.md" title="wikilink">孔曉振</a>、<a href="../Page/孔劉.md" title="wikilink">孔劉</a>、<a href="../Page/崔汝珍.md" title="wikilink">崔汝珍</a>、<a href="../Page/金多炫.md" title="wikilink">金多炫</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳鍾錄" title="wikilink">吳鍾錄</a>、<a href="../Page/金亨植.md" title="wikilink">金亨植</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳鍾錄.md" title="wikilink">吳鍾錄</a>、<a href="../Page/金亨植.md" title="wikilink">金亨植</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴繼玉" title="wikilink">朴繼玉</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1175,7 +1175,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>10</p></td>
 <td style="text-align: center;"><p><a href="../Page/李莞.md" title="wikilink">李莞</a>、<a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a>、<a href="https://zh.wikipedia.org/wiki/內田朝陽" title="wikilink">內田朝陽</a>、<a href="../Page/淺見麗奈.md" title="wikilink">淺見麗奈</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李章秀" title="wikilink">李章秀</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李章秀.md" title="wikilink">李章秀</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金南喜" title="wikilink">金南喜</a>、<a href="https://zh.wikipedia.org/wiki/文熙貞" title="wikilink">文熙貞</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1208,7 +1208,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/朴真熙.md" title="wikilink">朴真熙</a>、<a href="../Page/沈慧珍.md" title="wikilink">沈慧珍</a>、<a href="../Page/尹多勳.md" title="wikilink">尹多勳</a>、<a href="https://zh.wikipedia.org/wiki/李在皇" title="wikilink">李在皇</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓正煥" title="wikilink">韓正煥</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/韓正煥.md" title="wikilink">韓正煥</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔順植" title="wikilink">崔順植</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1219,7 +1219,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/文晸赫.md" title="wikilink">文晸赫</a>、<a href="../Page/韓志旼.md" title="wikilink">韓志旼</a>、<a href="../Page/申成宇.md" title="wikilink">申成宇</a>、<a href="../Page/尹智敏.md" title="wikilink">尹智敏</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李容碩" title="wikilink">李容碩</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李容碩.md" title="wikilink">李容碩</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金基浩.md" title="wikilink">金基浩</a>、<a href="https://zh.wikipedia.org/wiki/樸相喜" title="wikilink">樸相喜</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1270,7 +1270,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 <td style="text-align: center;"><p>18</p></td>
 <td style="text-align: center;"><p><a href="../Page/李凡秀.md" title="wikilink">李凡秀</a>、<a href="../Page/李枖原.md" title="wikilink">李枖原</a>、<a href="../Page/金敏俊.md" title="wikilink">金敏俊</a>、<a href="../Page/吳允兒.md" title="wikilink">吳允兒</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金亨植.md" title="wikilink">金亨植</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李晶善" title="wikilink">李晶善</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李晶善.md" title="wikilink">李晶善</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -1291,7 +1291,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/朴新陽.md" title="wikilink">朴新陽</a>、<a href="../Page/朴真熙.md" title="wikilink">朴真熙</a>、<a href="../Page/金晶和.md" title="wikilink">金晶和</a>、<a href="../Page/申東旭.md" title="wikilink">申東旭</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張太侑" title="wikilink">張太侑</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/張太侑.md" title="wikilink">張太侑</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李香姬" title="wikilink">李香姬</a></p></td>
 <td style="text-align: center;"><p>原作：<a href="https://zh.wikipedia.org/wiki/朴寅權" title="wikilink">朴寅權</a>《錢的戰爭》</p></td>
 </tr>
@@ -1312,7 +1312,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 <td style="text-align: center;"><p><a href="../Page/說客_(電視劇).md" title="wikilink">說客</a><br />
 </p></td>
 <td style="text-align: center;"><p>24</p></td>
-<td style="text-align: center;"><p><a href="../Page/宋一國.md" title="wikilink">宋一國</a>、<a href="../Page/張真英.md" title="wikilink">張真英</a>、<a href="https://zh.wikipedia.org/wiki/韓載碩" title="wikilink">韓載碩</a>、<a href="https://zh.wikipedia.org/wiki/許峻豪" title="wikilink">許峻豪</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/宋一國.md" title="wikilink">宋一國</a>、<a href="../Page/張真英.md" title="wikilink">張真英</a>、<a href="https://zh.wikipedia.org/wiki/韓載碩" title="wikilink">韓載碩</a>、<a href="../Page/許峻豪.md" title="wikilink">許峻豪</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李賢植" title="wikilink">李賢植</a>、<a href="../Page/富聖哲.md" title="wikilink">富聖哲</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朱燦玉" title="wikilink">朱燦玉</a>、<a href="../Page/崔完圭.md" title="wikilink">崔完圭</a></p></td>
 <td style="text-align: center;"><p>SBS大企劃</p></td>
@@ -1370,11 +1370,11 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 <tr class="odd">
 <td style="text-align: center;"><p>2008.5.21－<br />
 2008.7.24</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/一枝梅" title="wikilink">一枝梅</a><br />
+<td style="text-align: center;"><p><a href="../Page/一枝梅.md" title="wikilink">一枝梅</a><br />
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/韓孝周.md" title="wikilink">韓孝周</a>、<a href="../Page/朴施厚.md" title="wikilink">朴施厚</a>、<a href="../Page/李英雅.md" title="wikilink">李英雅</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李容碩" title="wikilink">李容碩</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李容碩.md" title="wikilink">李容碩</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/崔蘭.md" title="wikilink">崔蘭</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1385,7 +1385,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/廉晶雅.md" title="wikilink">廉晶雅</a>、<a href="../Page/奉太奎.md" title="wikilink">奉太奎</a>、<a href="../Page/車藝蓮.md" title="wikilink">車藝蓮</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳鍾錄" title="wikilink">吳鍾錄</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳鍾錄.md" title="wikilink">吳鍾錄</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金賢熙" title="wikilink">金賢熙</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1396,7 +1396,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/文瑾瑩.md" title="wikilink">文瑾瑩</a>、<a href="../Page/朴新陽.md" title="wikilink">朴新陽</a>、<a href="../Page/柳承龍.md" title="wikilink">柳承龍</a>、<a href="../Page/文彩元.md" title="wikilink">文彩元</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張太侑" title="wikilink">張太侑</a>、<a href="https://zh.wikipedia.org/wiki/陳赫_(導演)" title="wikilink">陳赫</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/張太侑.md" title="wikilink">張太侑</a>、<a href="https://zh.wikipedia.org/wiki/陳赫_(導演)" title="wikilink">陳赫</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李恩英" title="wikilink">李恩英</a></p></td>
 <td style="text-align: center;"><p>原作：<a href="https://zh.wikipedia.org/wiki/李千明" title="wikilink">李千明</a>《風之畫師》</p></td>
 </tr>
@@ -1573,7 +1573,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>24</p></td>
 <td style="text-align: center;"><p><a href="../Page/高賢廷.md" title="wikilink">高賢廷</a>、<a href="../Page/權相佑.md" title="wikilink">權相佑</a>、<a href="../Page/車仁杓.md" title="wikilink">車仁杓</a>、<a href="../Page/李水京.md" title="wikilink">李水京</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳鍾錄" title="wikilink">吳鍾錄</a>、<a href="https://zh.wikipedia.org/wiki/趙賢卓" title="wikilink">趙賢卓</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳鍾錄.md" title="wikilink">吳鍾錄</a>、<a href="https://zh.wikipedia.org/wiki/趙賢卓" title="wikilink">趙賢卓</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/劉東胤" title="wikilink">劉東胤</a></p></td>
 <td style="text-align: center;"><p>原作：<a href="https://zh.wikipedia.org/wiki/朴寅權" title="wikilink">朴寅權</a>《大-{}-物》</p></td>
 </tr>
@@ -1635,7 +1635,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李敏鎬" title="wikilink">李敏鎬</a>、<a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a>、<a href="../Page/李浚赫.md" title="wikilink">李浚赫</a>、<a href="../Page/金相中.md" title="wikilink">金相中</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳赫_(導演)" title="wikilink">陳赫</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃恩京" title="wikilink">黃恩京</a>、<a href="https://zh.wikipedia.org/wiki/崔秀珍" title="wikilink">崔秀珍</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃恩京" title="wikilink">黃恩京</a>、<a href="../Page/崔秀珍.md" title="wikilink">崔秀珍</a></p></td>
 <td style="text-align: center;"><p>原作：<a href="https://zh.wikipedia.org/wiki/北條司" title="wikilink">北條司</a>《<a href="https://zh.wikipedia.org/wiki/城市獵人" title="wikilink">城市獵人</a>》</p></td>
 </tr>
 <tr class="even">
@@ -1656,7 +1656,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>24</p></td>
 <td style="text-align: center;"><p><a href="../Page/韓石圭.md" title="wikilink">韓石圭</a>、<a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a>、<a href="../Page/申世景.md" title="wikilink">申世景</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張太侑" title="wikilink">張太侑</a>、<a href="https://zh.wikipedia.org/wiki/申景秀" title="wikilink">申景秀</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/張太侑.md" title="wikilink">張太侑</a>、<a href="https://zh.wikipedia.org/wiki/申景秀" title="wikilink">申景秀</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金榮昡.md" title="wikilink">金榮昡</a>、<a href="../Page/朴尚淵.md" title="wikilink">朴尚淵</a></p></td>
 <td style="text-align: center;"><p>SBS大企劃<br />
 原作：<a href="https://zh.wikipedia.org/wiki/李千明" title="wikilink">李千明</a>《根深蒂固的樹》</p></td>
@@ -1696,7 +1696,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/池珍熙.md" title="wikilink">池珍熙</a>、<a href="../Page/具惠善.md" title="wikilink">具惠善</a>、<a href="../Page/裕善.md" title="wikilink">裕善</a>、<a href="../Page/李天熙.md" title="wikilink">李天熙</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朱東民" title="wikilink">朱東民</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朱東民.md" title="wikilink">朱東民</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭娜明" title="wikilink">鄭娜明</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1740,7 +1740,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>35</p></td>
 <td style="text-align: center;"><p><a href="../Page/池晟.md" title="wikilink">池晟</a>、<a href="../Page/宋昶儀.md" title="wikilink">宋昶儀</a>、<a href="../Page/池珍熙.md" title="wikilink">池珍熙</a>、<a href="../Page/金素妍.md" title="wikilink">金素妍</a>、<a href="../Page/李允智.md" title="wikilink">李允智</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李容碩" title="wikilink">李容碩</a>、<a href="https://zh.wikipedia.org/wiki/南健" title="wikilink">南健</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李容碩.md" title="wikilink">李容碩</a>、<a href="https://zh.wikipedia.org/wiki/南健" title="wikilink">南健</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴尚熙" title="wikilink">朴尚熙</a>、<a href="https://zh.wikipedia.org/wiki/南善年" title="wikilink">南善年</a></p></td>
 <td style="text-align: center;"><p>SBS大企劃</p></td>
 </tr>
@@ -1822,7 +1822,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>17</p></td>
 <td style="text-align: center;"><p><a href="../Page/蘇志燮.md" title="wikilink">蘇志燮</a>、<a href="../Page/孔曉振.md" title="wikilink">孔曉振</a>、<a href="../Page/徐仁國.md" title="wikilink">徐仁國</a>、<a href="../Page/金釉利.md" title="wikilink">金釉利</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳赫_(導演)" title="wikilink">陳赫</a>、<a href="https://zh.wikipedia.org/wiki/權赫燦" title="wikilink">權赫燦</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳赫_(導演)" title="wikilink">陳赫</a>、<a href="../Page/權赫燦.md" title="wikilink">權赫燦</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/洪貞恩" title="wikilink">洪貞恩</a>、<a href="https://zh.wikipedia.org/wiki/洪美蘭" title="wikilink">洪美蘭</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1844,7 +1844,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>21</p></td>
 <td style="text-align: center;"><p><a href="../Page/全智賢.md" title="wikilink">全智賢</a>、<a href="../Page/金秀賢_(男演員).md" title="wikilink">金秀賢</a>、<a href="../Page/劉寅娜.md" title="wikilink">劉寅娜</a>、<a href="../Page/朴海鎮.md" title="wikilink">朴海鎮</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張太侑" title="wikilink">張太侑</a>、<a href="https://zh.wikipedia.org/wiki/吳忠煥" title="wikilink">吳忠煥</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/張太侑.md" title="wikilink">張太侑</a>、<a href="https://zh.wikipedia.org/wiki/吳忠煥" title="wikilink">吳忠煥</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴智恩_(編劇).md" title="wikilink">朴智恩</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1897,32 +1897,32 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 2014.7.17</p></td>
 <td style="text-align: center;"><p>2014.5.28－<br />
 2014.7.31</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/你們被包圍了" title="wikilink">你們被包圍了</a><br />
+<td style="text-align: center;"><p><a href="../Page/你們被包圍了.md" title="wikilink">你們被包圍了</a><br />
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/李昇基.md" title="wikilink">李昇基</a>、<a href="../Page/車勝元.md" title="wikilink">車勝元</a>、<a href="../Page/高雅羅.md" title="wikilink">高雅羅</a>、<a href="https://zh.wikipedia.org/wiki/安宰贤" title="wikilink">安宰贤</a>、<a href="../Page/朴正民.md" title="wikilink">朴正民</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/劉仁植.md" title="wikilink">劉仁植</a>、<a href="https://zh.wikipedia.org/wiki/李明佑" title="wikilink">李明佑</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李晶善" title="wikilink">李晶善</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李晶善.md" title="wikilink">李晶善</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2014.7.23－<br />
 2014.9.11</p></td>
 <td style="text-align: center;"><p>-</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/沒關係，是愛情啊" title="wikilink">沒關係，是愛情啊</a><br />
+<td style="text-align: center;"><p><a href="../Page/沒關係，是愛情啊.md" title="wikilink">沒關係，是愛情啊</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/趙寅成.md" title="wikilink">趙寅成</a>、<a href="../Page/孔曉振.md" title="wikilink">孔曉振</a>、<a href="../Page/成東鎰.md" title="wikilink">成東鎰</a>、<a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a>、<a href="https://zh.wikipedia.org/wiki/都暻秀" title="wikilink">都暻秀</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金圭泰.md" title="wikilink">金圭泰</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/盧熙京.md" title="wikilink">盧熙京</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ONE_TV_ASIA" title="wikilink">ONE TV改播SBS週末劇</a>“<a href="https://zh.wikipedia.org/wiki/天使之眼" title="wikilink">天使之眼</a>”</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ONE_TV_ASIA" title="wikilink">ONE TV改播SBS週末劇</a>“<a href="../Page/天使之眼.md" title="wikilink">天使之眼</a>”</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2014.9.17－<br />
 2014.11.6</p></td>
 <td style="text-align: center;"><p>2014.10.15－<br />
 2014.12.11</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/對我而言可愛的她" title="wikilink">對我而言可愛的她</a><br />
+<td style="text-align: center;"><p><a href="../Page/對我而言可愛的她.md" title="wikilink">對我而言可愛的她</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/Rain.md" title="wikilink">Rain</a>、<a href="../Page/鄭秀晶.md" title="wikilink">鄭秀晶</a>、<a href="../Page/金明洙.md" title="wikilink">金明洙</a>、<a href="../Page/車藝蓮.md" title="wikilink">車藝蓮</a></p></td>
@@ -1935,7 +1935,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 2015.1.15</p></td>
 <td style="text-align: center;"><p>2014.12.17－<br />
 2015.2.19</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/皮諾丘_(電視劇)" title="wikilink">皮諾丘</a><br />
+<td style="text-align: center;"><p><a href="../Page/皮諾丘_(電視劇).md" title="wikilink">皮諾丘</a><br />
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a>、<a href="../Page/李鍾碩.md" title="wikilink">李鍾碩</a>、<a href="../Page/金英光.md" title="wikilink">金英光</a>、<a href="../Page/李侑菲.md" title="wikilink">李侑菲</a></p></td>
@@ -2036,7 +2036,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p>|<a href="../Page/文瑾瑩.md" title="wikilink">文瑾瑩</a>、<a href="../Page/陸星材.md" title="wikilink">陸星材</a>、<a href="../Page/申恩慶.md" title="wikilink">申恩慶</a>、<a href="../Page/溫朱莞.md" title="wikilink">溫朱莞</a>、<a href="../Page/張熙軫.md" title="wikilink">張熙軫</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李容碩" title="wikilink">李容碩</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李容碩.md" title="wikilink">李容碩</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陶賢貞" title="wikilink">陶賢貞</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -2197,7 +2197,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 2017.7.13</p></td>
 <td style="text-align: center;"><p>2017.5.11 -<br />
 2017.7.14</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/奇怪的搭檔" title="wikilink">奇怪的搭檔</a><br />
+<td style="text-align: center;"><p><a href="../Page/奇怪的搭檔.md" title="wikilink">奇怪的搭檔</a><br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
 <td style="text-align: center;"><p><a href="../Page/池昌旭.md" title="wikilink">池昌旭</a>、<a href="../Page/南志鉉.md" title="wikilink">南志鉉</a>、<a href="../Page/崔泰俊.md" title="wikilink">崔泰俊</a>、<a href="../Page/權娜拉.md" title="wikilink">權娜拉</a>、<a href="../Page/金叡園.md" title="wikilink">金叡園</a></p></td>
@@ -2220,7 +2220,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2017.9.27－2017.11.16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/當你沉睡時" title="wikilink">當你沉睡時</a><br />
+<td style="text-align: center;"><p><a href="../Page/當你沉睡時.md" title="wikilink">當你沉睡時</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/李鍾碩.md" title="wikilink">李鍾碩</a>、<a href="https://zh.wikipedia.org/wiki/裴秀智" title="wikilink">裴秀智</a></p></td>
@@ -2234,7 +2234,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 2018.1.11</p></td>
 <td style="text-align: center;"><p>2017.11.23 -<br />
 2018.1.12</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李判史判" title="wikilink">李判史判</a><br />
+<td style="text-align: center;"><p><a href="../Page/李判史判.md" title="wikilink">李判史判</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/延宇振.md" title="wikilink">延宇振</a>、<a href="../Page/朴恩玭.md" title="wikilink">朴恩玭</a>、<a href="../Page/金亨奎.md" title="wikilink">東夏</a>、<a href="../Page/海嶺.md" title="wikilink">海嶺</a></p></td>
@@ -2277,11 +2277,11 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 <td style="text-align: center;"><p>2018年1月17日－<br />
 2018年3月22日</p></td>
 <td style="text-align: center;"><p>2018年1月18日－2018年3月23日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Return_(韓國電視劇)" title="wikilink">Return</a><br />
+<td style="text-align: center;"><p><a href="../Page/Return_(韓國電視劇).md" title="wikilink">Return</a><br />
 </p></td>
 <td style="text-align: center;"><p>34</p></td>
 <td style="text-align: center;"><p>|<a href="../Page/高賢廷.md" title="wikilink">高賢廷</a>→<a href="../Page/朴真熙.md" title="wikilink">朴真熙</a>、<a href="../Page/李陣郁.md" title="wikilink">李陣郁</a>、<a href="../Page/鄭恩彩.md" title="wikilink">鄭恩彩</a>、<a href="../Page/申成祿.md" title="wikilink">申成祿</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朱東民" title="wikilink">朱東民</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朱東民.md" title="wikilink">朱東民</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔景美" title="wikilink">崔景美</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -2289,7 +2289,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 <td style="text-align: center;"><p>2018年3月28日－<br />
 2018年5月17日</p></td>
 <td style="text-align: center;"><p>2018年3月29日－</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Switch－改變世界" title="wikilink">Switch－改變世界</a><br />
+<td style="text-align: center;"><p><a href="../Page/Switch－改變世界.md" title="wikilink">Switch－改變世界</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/張根碩.md" title="wikilink">張根碩</a>、<a href="../Page/韓藝璃.md" title="wikilink">韓藝璃</a>、<a href="../Page/鄭雄仁.md" title="wikilink">鄭雄仁</a></p></td>
@@ -2301,7 +2301,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 <td style="text-align: center;"><p>2018年5月23日－<br />
 2018年7月19日</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/訓南正音" title="wikilink">訓南正音</a><br />
+<td style="text-align: center;"><p><a href="../Page/訓南正音.md" title="wikilink">訓南正音</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a>、<a href="../Page/黄正音.md" title="wikilink">黄正音</a>、<a href="../Page/崔泰俊.md" title="wikilink">崔泰俊</a>、<a href="../Page/吳允兒.md" title="wikilink">吳允兒</a></p></td>
@@ -2313,10 +2313,10 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 <td style="text-align: center;"><p>2018年7月25日－<br />
 2018年9月20日</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/致親愛的法官大人" title="wikilink">致親愛的法官大人</a><br />
+<td style="text-align: center;"><p><a href="../Page/致親愛的法官大人.md" title="wikilink">致親愛的法官大人</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="../Page/尹施允.md" title="wikilink">尹施允</a>、<a href="https://zh.wikipedia.org/wiki/李宥英" title="wikilink">李宥英</a>、<a href="https://zh.wikipedia.org/wiki/朴秉恩" title="wikilink">朴秉恩</a>、<a href="../Page/權娜拉.md" title="wikilink">權娜拉</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/尹施允.md" title="wikilink">尹施允</a>、<a href="../Page/李宥英.md" title="wikilink">李宥英</a>、<a href="../Page/朴秉恩.md" title="wikilink">朴秉恩</a>、<a href="../Page/權娜拉.md" title="wikilink">權娜拉</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/富聖哲.md" title="wikilink">富聖哲</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/千成日.md" title="wikilink">千成日</a></p></td>
 <td style="text-align: center;"></td>
@@ -2325,7 +2325,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 <td style="text-align: center;"><p>2018年9月27日－<br />
 2018年11月15日</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/胸腔外科-盜取心臟的醫生們" title="wikilink">胸腔外科-盜取心臟的醫生們</a><br />
+<td style="text-align: center;"><p><a href="../Page/胸腔外科-盜取心臟的醫生們.md" title="wikilink">胸腔外科-盜取心臟的醫生們</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/高洙.md" title="wikilink">高洙</a>、<a href="../Page/嚴基俊.md" title="wikilink">嚴基俊</a>、<a href="https://zh.wikipedia.org/wiki/徐智慧" title="wikilink">徐智慧</a></p></td>
@@ -2337,11 +2337,11 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 <td style="text-align: center;"><p>2018年11月21日－<br />
 2019年2月21日</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/皇后的品格" title="wikilink">皇后的品格</a><br />
+<td style="text-align: center;"><p><a href="../Page/皇后的品格.md" title="wikilink">皇后的品格</a><br />
 </p></td>
 <td style="text-align: center;"><p>52</p></td>
 <td style="text-align: center;"><p><a href="../Page/張娜拉.md" title="wikilink">張娜拉</a>、<a href="../Page/崔振赫.md" title="wikilink">崔振赫</a>、<a href="../Page/申成祿.md" title="wikilink">申成祿</a>、<a href="../Page/李伊利雅.md" title="wikilink">李伊利雅</a>、<a href="../Page/申恩慶.md" title="wikilink">申恩慶</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朱東民" title="wikilink">朱東民</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朱東民.md" title="wikilink">朱東民</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金順玉.md" title="wikilink">金順玉</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -2380,7 +2380,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 <td style="text-align: center;"><p>2019年3月6日－<br />
 2019年5月2日</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>-{<a href="https://zh.wikipedia.org/wiki/Big_Issue" title="wikilink">Big Issue</a>}-<br />
+<td style="text-align: center;"><p>-{<a href="../Page/Big_Issue.md" title="wikilink">Big Issue</a>}-<br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/朱鎮模.md" title="wikilink">朱鎮模</a>、<a href="../Page/韓藝瑟.md" title="wikilink">韓藝瑟</a></p></td>
@@ -2392,7 +2392,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 <td style="text-align: center;"><p>2019年5月15日－<br />
 2019年7月日</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>-{<a href="https://zh.wikipedia.org/wiki/絕對達令_(韓國電視劇)" title="wikilink">絕對達令</a>}-<br />
+<td style="text-align: center;"><p>-{<a href="../Page/絕對達令_(韓國電視劇).md" title="wikilink">絕對達令</a>}-<br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
 <td style="text-align: center;"><p><a href="../Page/呂珍九.md" title="wikilink">呂珍九</a>、<a href="https://zh.wikipedia.org/wiki/珉雅" title="wikilink">珉雅</a>、<a href="../Page/洪宗玄.md" title="wikilink">洪宗玄</a></p></td>
@@ -2407,7 +2407,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 <td style="text-align: center;"><p>-{<a href="https://zh.wikipedia.org/wiki/Secret_Boutique" title="wikilink">Secret Boutique</a>}-<br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="../Page/金宣兒.md" title="wikilink">金宣兒</a>、<a href="https://zh.wikipedia.org/wiki/金宰英" title="wikilink">金宰英</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金宣兒.md" title="wikilink">金宣兒</a>、<a href="../Page/金宰英.md" title="wikilink">金宰英</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴亨基" title="wikilink">朴亨基</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/河善熙" title="wikilink">河善熙</a></p></td>
 <td style="text-align: center;"></td>
@@ -2430,7 +2430,7 @@ Special**、舊稱作**SBS水木迷你連續劇**（），是[SBS於](../Page/SB
 ## 海外相關播出
 
 [馬來西亞與](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[新加坡於One](../Page/新加坡.md "wikilink")
-HD頻道自2015年6月起星期四與星期五21:00（[馬來西亞時間](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink")）播出。此類節目在韓國首播24小時後即可觀賞，並以馬來語字幕和華語字幕播出，直至2016年4月28日起，改為20:15播出([當你沉睡時維持在](https://zh.wikipedia.org/wiki/當你沉睡時 "wikilink")21:00)。
+HD頻道自2015年6月起星期四與星期五21:00（[馬來西亞時間](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink")）播出。此類節目在韓國首播24小時後即可觀賞，並以馬來語字幕和華語字幕播出，直至2016年4月28日起，改為20:15播出([當你沉睡時維持在](../Page/當你沉睡時.md "wikilink")21:00)。
 
 2015年6月前播出時間為星期三與星期四21:00（[馬來西亞時間](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink")）播出。此類節目和韓國首播遲一個月並以馬來語、英語和簡體中文字幕播出。
 

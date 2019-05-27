@@ -49,8 +49,8 @@ day等歌手的](https://zh.wikipedia.org/wiki/Girl's_day "wikilink")[日本娛�
 ### 2017年：第五張迷你專輯《Never End》、成员参加選秀節目《The Unit》
 
 8月9日，发行第五張迷你專輯《Never End》**。**8月27日，消息透露BOYFRIEND將出演KBS選秀節目《[The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》，並正在調整日程。\[4\]9月19日，官方推特發佈新聞網址，出演KBS選秀節目《[The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》的成員名單：東玄、正珉、光旻、珉玗。\[5\]
+Unit](../Page/The_Unit.md "wikilink")》，並正在調整日程。\[4\]9月19日，官方推特發佈新聞網址，出演KBS選秀節目《[The
+Unit](../Page/The_Unit.md "wikilink")》的成員名單：東玄、正珉、光旻、珉玗。\[5\]
 结果只有队长[東玄成功入选選秀節目](https://zh.wikipedia.org/wiki/東玄 "wikilink")《The
 Unit》。
 
@@ -77,9 +77,9 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 
 ### 出道前预备成员
 
-  - [Ten](https://zh.wikipedia.org/wiki/Ten_\(歌手\) "wikilink")（现为[SM娱乐旗下](../Page/SM娛樂.md "wikilink")[NCT组合成员](../Page/NCT.md "wikilink")）
+  - [Ten](../Page/Ten_\(歌手\).md "wikilink")（现为[SM娱乐旗下](../Page/SM娛樂.md "wikilink")[NCT组合成员](../Page/NCT.md "wikilink")）
   - 允浩（现为[A
-    team娱乐旗下](https://zh.wikipedia.org/wiki/A_team娱乐 "wikilink")[VAV组合成员Ayno](https://zh.wikipedia.org/wiki/VAV "wikilink")）
+    team娱乐旗下](https://zh.wikipedia.org/wiki/A_team娱乐 "wikilink")[VAV组合成员Ayno](../Page/VAV.md "wikilink")）
 
 ## 影视作品
 
@@ -422,7 +422,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 </tr>
 <tr class="even">
 <td><p>2017年10月28日至2018年2月10日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/The_Unit" title="wikilink">The Unit</a>》</p></td>
+<td><p>《<a href="../Page/The_Unit.md" title="wikilink">The Unit</a>》</p></td>
 <td><p>東玄</p></td>
 <td><p>正珉、珉玗、光旻在第2集初選被淘汰；只有東玄以6BOOT晉級。<br />
 東玄最後以12名，未進入出道組。</p></td>
@@ -543,7 +543,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/OBSESSION" title="wikilink">OBSESSION</a></strong>》</p>
+<td><p>《<strong><a href="../Page/OBSESSION.md" title="wikilink">OBSESSION</a></strong>》</p>
 <ul>
 <li>發行日期：2014年6月8日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -597,7 +597,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Janus_(專輯)" title="wikilink">Janus</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Janus_(專輯).md" title="wikilink">Janus</a></strong>》</p>
 <ul>
 <li>發行日期：2012年11月13日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -667,7 +667,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 </tr>
 <tr class="odd">
 <td><p><strong>5th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/My_Avatar" title="wikilink">My Avatar</a></strong>》</p>
+<td><p>《<strong><a href="../Page/My_Avatar.md" title="wikilink">My Avatar</a></strong>》</p>
 <ul>
 <li>發行日期：2014年3月26日</li>
 <li>語言：日語</li>
@@ -797,7 +797,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/SEVENTH_COLOR" title="wikilink">SEVENTH COLOR</a></strong>》</p>
+<td><p>《<strong><a href="../Page/SEVENTH_COLOR.md" title="wikilink">SEVENTH COLOR</a></strong>》</p>
 <ul>
 <li>發行日期：2014年7月23日</li>
 <li>語言：日語</li>
@@ -1233,7 +1233,7 @@ Boyfriend其他大型演唱會
 <td><p><a href="../Page/Love_Style.md" title="wikilink">Love Style</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Janus_(專輯)" title="wikilink">Janus</a></p></td>
+<td><p><a href="../Page/Janus_(專輯).md" title="wikilink">Janus</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Starship Planet 2012</p></td>
@@ -1242,7 +1242,7 @@ Boyfriend其他大型演唱會
 <td><p>2013年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Janus_(專輯)" title="wikilink">I yah</a></p></td>
+<td><p><a href="../Page/Janus_(專輯).md" title="wikilink">I yah</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/WITCH.md" title="wikilink">WITCH</a></p></td>
@@ -1254,7 +1254,7 @@ Boyfriend其他大型演唱會
 <td><p>2014年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/OBSESSION" title="wikilink">OBSESSION</a></p></td>
+<td><p><a href="../Page/OBSESSION.md" title="wikilink">OBSESSION</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>WITCH</p></td>

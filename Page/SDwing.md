@@ -6,7 +6,7 @@
   - [Media-tech出版](https://zh.wikipedia.org/wiki/Media-tech出版 "wikilink")《[睡衣大百科](https://zh.wikipedia.org/wiki/睡衣大百科 "wikilink")》等系列插畫
   - [青文出版社小說](../Page/青文出版社.md "wikilink")《[數學少女](../Page/數學少女.md "wikilink")》台灣版封面設計與插畫
   - [極致行動科技遊戲原畫](https://zh.wikipedia.org/wiki/極致行動科技 "wikilink")
-  - [魔技科的劍士與召喚魔王漫畫版](https://zh.wikipedia.org/wiki/魔技科的劍士與召喚魔王 "wikilink")（1-10連載中）
+  - [魔技科的劍士與召喚魔王漫畫版](../Page/魔技科的劍士與召喚魔王.md "wikilink")（1-10連載中）
 
 ## 參考文獻
 

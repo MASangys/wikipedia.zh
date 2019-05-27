@@ -16,7 +16,7 @@
 
 ## 製作人員
 
-  - 監督：[松尾衡](https://zh.wikipedia.org/wiki/松尾衡 "wikilink")
+  - 監督：[松尾衡](../Page/松尾衡.md "wikilink")
   - 腳本：[黑田洋介](../Page/黑田洋介.md "wikilink")
   - 人物設定：[寺田嘉一郎](https://zh.wikipedia.org/wiki/寺田嘉一郎 "wikilink")
   - 機械設定：[大河原邦男](../Page/大河原邦男.md "wikilink")、重田敦司、[海老川兼武](../Page/海老川兼武.md "wikilink")、阿久津潤一

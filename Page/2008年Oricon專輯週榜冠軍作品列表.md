@@ -151,7 +151,7 @@ FICTION](../Page/BEST_FICTION.md "wikilink")》（6週）。
 </tr>
 <tr class="odd">
 <td><p>5月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Dream_&quot;A&quot;_live" title="wikilink">Dream "A" live</a></p></td>
+<td><p><a href="../Page/Dream_&quot;A&quot;_live.md" title="wikilink">Dream "A" live</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>原創</p></td>
 <td><p>22.0</p></td>
@@ -175,7 +175,7 @@ FICTION](../Page/BEST_FICTION.md "wikilink")》（6週）。
 </tr>
 <tr class="even">
 <td><p>5月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Superfly_(專輯)" title="wikilink">Superfly</a></p></td>
+<td><p><a href="../Page/Superfly_(專輯).md" title="wikilink">Superfly</a></p></td>
 <td><p><a href="../Page/Superfly.md" title="wikilink">Superfly</a></p></td>
 <td><p>原創</p></td>
 <td><p>12.2</p></td>
@@ -208,14 +208,14 @@ FICTION](../Page/BEST_FICTION.md "wikilink")》（6週）。
 <tr class="even">
 <td><p>6月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/20th_Anniversary_ALL_SINGLES_COMPLETE_BEST_JUST_MOVIN&#39;_ON_～ALL_THE-S-HIT～" title="wikilink">20th Anniversary ALL SINGLES COMPLETE BEST JUST MOVIN' ON ～ALL THE-S-HIT～</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/冰室京介" title="wikilink">冰室京介</a></p></td>
+<td><p><a href="../Page/冰室京介.md" title="wikilink">冰室京介</a></p></td>
 <td><p>精選</p></td>
 <td><p>8.1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/B&#39;z_The_Best_&quot;ULTRA_Pleasure&quot;" title="wikilink">B'z The Best "ULTRA Pleasure"</a></p></td>
+<td><p><a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Pleasure&quot;.md" title="wikilink">B'z The Best "ULTRA Pleasure"</a></p></td>
 <td><p><a href="../Page/B&#39;z.md" title="wikilink">B'z</a></p></td>
 <td><p>精選</p></td>
 <td><p>56.0</p></td>
@@ -319,7 +319,7 @@ FICTION](../Page/BEST_FICTION.md "wikilink")》（6週）。
 </tr>
 <tr class="even">
 <td><p>9月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;" title="wikilink">B'z The Best "ULTRA Treasure"</a></p></td>
+<td><p><a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;.md" title="wikilink">B'z The Best "ULTRA Treasure"</a></p></td>
 <td><p><a href="../Page/B&#39;z.md" title="wikilink">B'z</a></p></td>
 <td><p>精選</p></td>
 <td><p>41.3</p></td>

@@ -399,7 +399,7 @@ Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蕭凱欣" title="wikilink">蕭凱欣</a></p></td>
+<td><p><a href="../Page/蕭凱欣.md" title="wikilink">蕭凱欣</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -481,7 +481,7 @@ Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
 <td><p>鍾　良</p></td>
 <td><p>護士</p></td>
 </tr>
@@ -741,7 +741,7 @@ Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
 梁輝之妻</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
 <td><p>梁　輝</p></td>
 <td><p><strong>輝哥</strong><br />
 暴龍茶餐廳東主<br />
@@ -860,7 +860,7 @@ Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/方紹聰" title="wikilink">方紹聰</a></p></td>
+<td><p><a href="../Page/方紹聰.md" title="wikilink">方紹聰</a></p></td>
 <td><p>餐廳職員</p></td>
 <td></td>
 </tr>
@@ -885,7 +885,7 @@ Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭家俊" title="wikilink">鄭家俊</a></p></td>
+<td><p><a href="../Page/鄭家俊.md" title="wikilink">鄭家俊</a></p></td>
 <td><p>嚴世豪</p></td>
 <td><p><strong>豪仔</strong><br />
 曾更換心瓣，後因心臟衰竭入院，最後因移植了張一康之心臟而康復</p></td>
@@ -933,7 +933,7 @@ Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
 金世榮之父，就金成超之死起诉医院，后撤诉</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/司徒暉" title="wikilink">司徒暉</a></p></td>
+<td><p><a href="../Page/司徒暉.md" title="wikilink">司徒暉</a></p></td>
 <td><p>駱家俊</p></td>
 <td><p>被金世榮醉駕撞傷<br />
 於第4集變成植物人</p></td>
@@ -959,7 +959,7 @@ Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
 <td><p>在街上暈倒，獲范子妤在街頭為其進行心包穿刺</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/尹詩沛" title="wikilink">尹詩沛</a></p></td>
+<td><p><a href="../Page/尹詩沛.md" title="wikilink">尹詩沛</a></p></td>
 <td><p>黎紹良之妻</p></td>
 <td></td>
 </tr>

@@ -31,7 +31,7 @@ SOLID所包含的原则是通过引发编程者进行软件[源代码的](../Pag
 </tr>
 <tr class="even">
 <td><p>I</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/接口隔离原则" title="wikilink">接口隔离原则</a></p></td>
+<td><p><a href="../Page/接口隔离原则.md" title="wikilink">接口隔离原则</a></p></td>
 <td><p>认为“多个特定客户端接口要好于一个宽泛用途的接口”[7] 的概念。</p></td>
 </tr>
 <tr class="odd">

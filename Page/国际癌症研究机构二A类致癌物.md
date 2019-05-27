@@ -65,7 +65,7 @@
   - [马拉硫磷](https://zh.wikipedia.org/wiki/马拉硫磷 "wikilink")
   - [二嗪磷](../Page/二嗪磷.md "wikilink")
   - [草甘膦](../Page/草甘膦.md "wikilink")
-  - [1,3-丙磺酸内酯](https://zh.wikipedia.org/wiki/1,3-丙磺酸内酯 "wikilink")
+  - [1,3-丙磺酸内酯](../Page/1,3-丙磺酸内酯.md "wikilink")
   - [碳化硅晶须](../Page/碳化硅.md "wikilink")
   - 多溴联苯
   - 吡格列酮

@@ -8,7 +8,7 @@ Google Wallet是Google較早發展的支付工具，可用於實體及網路消�
 Pay，則調整為個人間的收付、轉帳功能，而且綁定美國銀行帳戶而以美國市場為主。\[1\] Android Pay更名並重新命名為Google
 Pay。Google Pay將擁有Android Pay的所有功能，而Google Wallet功能（例如請求和發送資金）將出現在[Google
 Pay
-Send中](https://zh.wikipedia.org/wiki/Google_Pay_Send "wikilink")，該功能目前是一個單獨的應用程序。\[2\]\[3\]
+Send中](../Page/Google_Pay_Send.md "wikilink")，該功能目前是一個單獨的應用程序。\[2\]\[3\]
 
 更名服務提供了一個新的API，允許商家將支付服務添加到網站、應用程序、[Stripe](../Page/Stripe.md "wikilink")、[Braintree和](https://zh.wikipedia.org/wiki/Braintree "wikilink")[Google
 Assistant](https://zh.wikipedia.org/wiki/Google_Assistant "wikilink")\[4\]。該服務允許用戶使用他們在Google

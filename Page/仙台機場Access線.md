@@ -3,7 +3,7 @@
 此是將與[仙台機場以最短](../Page/仙台機場.md "wikilink")17分鐘連結的鐵道路線，由以下兩條路線組成。
 
   - 仙台站－[名取站](https://zh.wikipedia.org/wiki/名取站 "wikilink")：[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）[東北本線](../Page/東北本線.md "wikilink")
-  - 名取站－仙台機場站：[仙台機場鐵道](../Page/仙台機場鐵道.md "wikilink")[仙台機場線](https://zh.wikipedia.org/wiki/仙台機場線 "wikilink")
+  - 名取站－仙台機場站：[仙台機場鐵道](../Page/仙台機場鐵道.md "wikilink")[仙台機場線](../Page/仙台機場線.md "wikilink")
 
 JR東日本與仙台機場鐵道在仙台站－仙台機場站間運行各自的列車。
 
@@ -105,7 +105,7 @@ JR東日本與仙台機場鐵道在仙台站－仙台機場站間運行各自的
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Sendai_Rapid_Transit.png" title="fig:Sendai_Rapid_Transit.png">Sendai_Rapid_Transit.png</a><small><a href="../Page/仙台機場鐵道.md" title="wikilink">仙台機場鐵道</a></small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/仙台機場線" title="wikilink">仙台機場線</a></p></td>
+<td><p><a href="../Page/仙台機場線.md" title="wikilink">仙台機場線</a></p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -464,8 +464,8 @@ use of:
   - [PlayStation 2](../Page/PlayStation_2.md "wikilink") CD-ROM\[44\]
     (PlayStation region matched, i.e. NTSC-J, NTSC-U/C, PAL or NTSC-C,
     仅20GB、60GB及早期80GB(CECHE)版本型号支持)
-  - [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
-    CD-ROM\[45\] (PlayStation 区域匹配, i.e. NTSC-J, NTSC-U or PAL)
+  - [PlayStation](../Page/PlayStation.md "wikilink") CD-ROM\[45\]
+    (PlayStation 区域匹配, i.e. NTSC-J, NTSC-U or PAL)
   - [CD-ROM](../Page/CD-ROM.md "wikilink")\[46\]
   - [CD-R](https://zh.wikipedia.org/wiki/CD-R "wikilink")\[47\]
   - [CD-RW](https://zh.wikipedia.org/wiki/CD-RW "wikilink")\[48\]
@@ -499,7 +499,7 @@ Japan, the device was available starting December 7, 2006.
 PS3仅接收其控制器发出的蓝牙通信信号，而没有通常的红外信号接收器，这防止了系统被通用遥控器所操作和干扰。
 
 2007年4月25日，SONY正式对外发布[PlayStation
-Eye](https://zh.wikipedia.org/wiki/PlayStation_Eye "wikilink")。这是PS2[EyeToy的PS](https://zh.wikipedia.org/wiki/EyeToy "wikilink")3升级版。
+Eye](https://zh.wikipedia.org/wiki/PlayStation_Eye "wikilink")。这是PS2[EyeToy的PS](../Page/EyeToy.md "wikilink")3升级版。
 官方PlayStation 3游戏机的HDMI和色差线也可用于零售。
 
 ## 向下兼容

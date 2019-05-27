@@ -163,7 +163,7 @@ Fire）**||在裝備上暗黑龍爪後利用DragBlacker對敵人放出威力十�
 </tr>
 <tr class="odd">
 <td><p>秋山蓮【假面騎士夜騎】</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松田悟志" title="wikilink">松田悟志</a></p></td>
+<td><p><a href="../Page/松田悟志.md" title="wikilink">松田悟志</a></p></td>
 </tr>
 <tr class="even">
 <td><p>神崎優衣</p></td>
@@ -269,7 +269,7 @@ Fire）**||在裝備上暗黑龍爪後利用DragBlacker對敵人放出威力十�
   - 監督 - 小野寺章（石森プロ）
   - 製作 -
     中曽根千治（[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")）、[白倉伸一郎](https://zh.wikipedia.org/wiki/白倉伸一郎 "wikilink")・[武部直美](https://zh.wikipedia.org/wiki/武部直美 "wikilink")（[東映](../Page/東映.md "wikilink")）
-  - 劇本 - [井上敏樹](https://zh.wikipedia.org/wiki/井上敏樹 "wikilink")
+  - 劇本 - [井上敏樹](../Page/井上敏樹.md "wikilink")
   - 导演 -
   - 武術指導 - 、[金田治](https://zh.wikipedia.org/wiki/金田治 "wikilink")
   - 導演補 - [鈴村展弘](https://zh.wikipedia.org/wiki/鈴村展弘 "wikilink")

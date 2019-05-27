@@ -719,7 +719,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
 <td><p>第9話</p></td>
 <td></td>
 <td><p>男與女的易位構詞遊戲</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大西信介" title="wikilink">大西信介</a></p></td>
+<td><p><a href="../Page/大西信介.md" title="wikilink">大西信介</a></p></td>
 <td><p>吉澤俊一</p></td>
 <td><p>米澤優</p></td>
 <td><p>石田可奈</p></td>
@@ -935,8 +935,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
 
   - [創聖機械天使](../Page/創聖的亞庫艾里翁.md "wikilink")
   - [創聖機械天使LOGOS](../Page/Aquarion_Logos.md "wikilink")
-  - [第3次超級機器人大戰Z](https://zh.wikipedia.org/wiki/第3次超級機器人大戰Z "wikilink")
-    時獄篇&天獄篇
+  - [第3次超級機器人大戰Z](../Page/第3次超級機器人大戰Z.md "wikilink") 時獄篇&天獄篇
 
 ## 註釋1
 

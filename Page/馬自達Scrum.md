@@ -15,7 +15,7 @@ Cab停產後](../Page/馬自達Porter.md "wikilink")，馬自達並沒有打算�
 [F5B型引擎](https://zh.wikipedia.org/wiki/鈴木F族引擎#F5B型（SOHC_4汽門） "wikilink")，最大馬力34ps；亦可選擇F5B型[渦輪增壓附中冷器](../Page/渦輪增壓器.md "wikilink")，最大馬力52ps。頂級車型甚至有玻璃天窗，使得車室空間顯得開闊。
 
 1990年 - 3月因應日本當局變更[輕型車法規](../Page/輕型車.md "wikilink")，改採657c.c.直列三缸SOHC
-[F6A型引擎](https://zh.wikipedia.org/wiki/鈴木F族引擎#F6A型（SOHC） "wikilink")，最大馬力38ps；另有F6A型渦輪增壓附[中冷器引擎](https://zh.wikipedia.org/wiki/中冷器 "wikilink")，最大馬力58ps。此外，因應[多品牌策略改掛](https://zh.wikipedia.org/wiki/多品牌策略 "wikilink")「[Autozam](../Page/Autozam.md "wikilink")」的品牌，稱為**Autozam
+[F6A型引擎](https://zh.wikipedia.org/wiki/鈴木F族引擎#F6A型（SOHC） "wikilink")，最大馬力38ps；另有F6A型渦輪增壓附[中冷器引擎](../Page/中冷器.md "wikilink")，最大馬力58ps。此外，因應[多品牌策略改掛](https://zh.wikipedia.org/wiki/多品牌策略 "wikilink")「[Autozam](../Page/Autozam.md "wikilink")」的品牌，稱為**Autozam
 Scrum**。客車和廂型車的開發代號為DH51，卡車則為DG51。
 
 Image:AUTOZAM SCRUM Standoff 02.jpg|Autozam Scrum DH51型車尾 Image:1989

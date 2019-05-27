@@ -41,7 +41,7 @@ Pyramid**是[日本的藝能事務所](../Page/日本.md "wikilink")。1987年�
   - 相樂のり子（現・[天彩音のん](https://zh.wikipedia.org/wiki/天彩音のん "wikilink")）
   - [櫻木咲耶](https://zh.wikipedia.org/wiki/櫻木咲耶 "wikilink")
   - [佐藤和沙](https://zh.wikipedia.org/wiki/佐藤和沙 "wikilink")
-  - [SHIHO](https://zh.wikipedia.org/wiki/SHIHO "wikilink")
+  - [SHIHO](../Page/SHIHO.md "wikilink")
   - [松本ステファニー](https://zh.wikipedia.org/wiki/松本ステファニー "wikilink")
   - [千堂あきほ](https://zh.wikipedia.org/wiki/千堂あきほ "wikilink")
   - [田中收和ニック](https://zh.wikipedia.org/wiki/田中收 "wikilink")・ニューサ（同社所屬藝人是最初最後的男性）

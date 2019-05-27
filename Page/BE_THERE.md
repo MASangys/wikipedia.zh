@@ -5,7 +5,7 @@
   - 第一張單獨發表的單曲
   - 2003年3月26日,12cm單曲重新發售
   - 因迷你專輯[BAD
-    COMMUNICATION長賣影響](https://zh.wikipedia.org/wiki/BAD_COMMUNICATION "wikilink")，此張單曲與前張相比銷量大幅增加約10倍以上
+    COMMUNICATION長賣影響](../Page/BAD_COMMUNICATION.md "wikilink")，此張單曲與前張相比銷量大幅增加約10倍以上
   - 1990年間銷量約19.6萬張，最終銷量約34.8萬張
 
 ## 收錄曲

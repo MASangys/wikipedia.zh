@@ -6,10 +6,10 @@ yet的首張](../Page/Not_yet.md "wikilink")[單曲](https://zh.wikipedia.org/wi
 單曲分為Type-A、Type-B、Type-C和劇場盤，總共四個版本，其中《週末Not yet》和《》
 收錄於所有版本；《》只收錄於Type-A和劇場盤；《》只收錄於Type-B和劇場盤；《一邊哭泣，一邊微笑》只收錄於Type-C，Type-A收錄了由中村太洸擔任導演的音樂錄影帶、[大島優子和](../Page/大島優子.md "wikilink")[橫山由依的個人影像](../Page/橫山由依.md "wikilink")；Type-B收錄了由擔任導演的音樂錄影帶、短片、製作特輯、成員訪談、[北原里英和](../Page/北原里英.md "wikilink")[指原莉乃的個人影像](../Page/指原莉乃.md "wikilink")；Type-C則附有豪華歌詞寫真卡\[1\]，三個版本初期都附有活動參與券\[2\]，三個版本附有各自的連接卡，劇場盤有附有一張週末Not
 yet劇場盤發售紀念握手會的參加券\[3\]。Not
-yet在[有明競技場舉行單曲發售的啟動禮](https://zh.wikipedia.org/wiki/有明競技場 "wikilink")\[4\]。
+yet在[有明競技場舉行單曲發售的啟動禮](../Page/有明競技場.md "wikilink")\[4\]。
 
 《週末Not
-yet》是[朝日電視台劇集](../Page/朝日電視台.md "wikilink")《[Dr.伊良部一郎](https://zh.wikipedia.org/wiki/Dr.伊良部一郎 "wikilink")》的主題曲\[5\]。《》
+yet》是[朝日電視台劇集](../Page/朝日電視台.md "wikilink")《[Dr.伊良部一郎](../Page/Dr.伊良部一郎.md "wikilink")》的主題曲\[5\]。《》
 是的廣告歌\[6\]。《》則是[關西電視台節目](../Page/關西電視台.md "wikilink")《》的片尾曲。
 
 ## 市場反應

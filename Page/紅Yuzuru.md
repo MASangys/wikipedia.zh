@@ -15,7 +15,7 @@ Star)。
     (小咩的執事)](https://zh.wikipedia.org/wiki/我的帥管家 "wikilink")』初單獨主演。
   - 2013年、參加寶塚歌劇團台灣公演 \[1\]。
   - 2014年、全國公演『[風と共に去りぬ(亂世佳人)](https://zh.wikipedia.org/wiki/亂世佳人 "wikilink")』初次全國公演主演。
-  - 2016年11月21日、於[北翔海莉退團後接任](../Page/北翔海莉.md "wikilink")[星組主演男役](../Page/星組.md "wikilink")，相手役為[綺咲愛里](https://zh.wikipedia.org/wiki/綺咲愛里 "wikilink")。
+  - 2016年11月21日、於[北翔海莉退團後接任](../Page/北翔海莉.md "wikilink")[星組主演男役](../Page/星組.md "wikilink")，相手役為[綺咲愛里](../Page/綺咲愛里.md "wikilink")。
   - 2019年10月13日、將於「GOD OF STARS-食聖-／Éclair Brillant」東京公演千秋楽與相手役綺咲愛里退團
 
 ## 主要舞台

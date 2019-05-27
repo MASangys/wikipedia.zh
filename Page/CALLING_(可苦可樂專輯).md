@@ -4,12 +4,13 @@
 
 前作《[5296](../Page/5296_\(專輯\).md "wikilink")》約1年零9個月之後發行。
 
-收錄了《[時光的腳步聲](https://zh.wikipedia.org/wiki/時光的腳步聲 "wikilink")》、《[彩虹](../Page/彩虹_\(可苦可樂單曲\).md "wikilink")》和《[STAY](../Page/STAY_\(可苦可樂單曲\).md "wikilink")》三首[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，其中《STAY》是專輯的先行單曲。曲目《神風》是地下時期專輯《[ANSWER](https://zh.wikipedia.org/wiki/ANSWER_\(可苦可樂專輯\) "wikilink")》的收錄曲目，這次是重新錄音版本。專輯第一首曲目《再見了
+收錄了《[時光的腳步聲](../Page/時光的腳步聲.md "wikilink")》、《[彩虹](../Page/彩虹_\(可苦可樂單曲\).md "wikilink")》和《[STAY](../Page/STAY_\(可苦可樂單曲\).md "wikilink")》三首[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，其中《STAY》是專輯的先行單曲。曲目《神風》是地下時期專輯《[ANSWER](https://zh.wikipedia.org/wiki/ANSWER_\(可苦可樂專輯\) "wikilink")》的收錄曲目，這次是重新錄音版本。專輯第一首曲目《再見了
 HERO》是獻給在2009年5月病逝的[搖滾大師](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[忌野清志郎的歌曲](https://zh.wikipedia.org/wiki/忌野清志郎 "wikilink")。\[1\]
 
 專輯發售首週即獲得[Oricon公信榜冠軍](../Page/Oricon公信榜.md "wikilink")，自《[NAMELESS
-WORLD](https://zh.wikipedia.org/wiki/NAMELESS_WORLD "wikilink")》以來連續四張專輯獲得冠軍。\[2\]
-連續兩週佔據冠軍位置，是連續第三張專輯獲得複數週冠軍。\[3\] 總銷量約50萬張，是2009年度日本專輯銷量第10位。\[4\]
+WORLD](../Page/NAMELESS_WORLD.md "wikilink")》以來連續四張專輯獲得冠軍。\[2\]
+連續兩週佔據冠軍位置，是連續第三張專輯獲得複數週冠軍。\[3\]
+總銷量約50萬張，是2009年度日本專輯銷量第10位。\[4\]
 連續四年有專輯進入年度專輯銷量榜前十位，是2000年代出道的音樂人中首個達成這個紀錄。
 
 ## 收錄曲目
@@ -26,10 +27,9 @@ WORLD](https://zh.wikipedia.org/wiki/NAMELESS_WORLD "wikilink")》以來連續�
 8.  **[Summer rain](../Page/彩虹_\(可苦可樂單曲\).md "wikilink")**
 9.  **Sunday kitchen**
 10. **[神風](https://zh.wikipedia.org/wiki/ANSWER_\(可苦可樂專輯\) "wikilink")**
-11. **[獵戶座之參宿四](https://zh.wikipedia.org/wiki/時光的腳步聲 "wikilink")**（）
-12. **[時光的腳步聲](https://zh.wikipedia.org/wiki/時光的腳步聲 "wikilink")**（）
-    作詞及作曲：可苦可樂
-13. **[紅線](https://zh.wikipedia.org/wiki/時光的腳步聲 "wikilink")**（）
+11. **[獵戶座之參宿四](../Page/時光的腳步聲.md "wikilink")**（）
+12. **[時光的腳步聲](../Page/時光的腳步聲.md "wikilink")**（） 作詞及作曲：可苦可樂
+13. **[紅線](../Page/時光的腳步聲.md "wikilink")**（）
 
 ## 參考資料
 

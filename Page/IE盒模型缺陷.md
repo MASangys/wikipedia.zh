@@ -53,10 +53,10 @@ Explorer
 
 各种解决方法已被制定以迫使Internet Explorer 5以及更早版本使用W3C盒模型显示网页。这些解决方法一般是利用Internet
 Explorer的CSS选择器作用的无关的缺陷以从浏览器中隐藏某些规则。这些解决方法中，最为熟知的是由[Tantek
-Çelik](https://zh.wikipedia.org/wiki/坦塔克·塞里克 "wikilink")，一个工作于IE for
-Mac时发现这个主意的前微软员工，开发的「盒模型hack」。它涉及到为IE for
-Windows指定一个宽度声明，随后使用另一个为CSS-兼容的浏览器指定的宽度重写它。第二条声明通过利用IE
-for Windows解析CSS规则的其它缺陷而从该浏览器中隐藏。这些CSS「hacks」的实施直到Internet Explorer
+Çelik](../Page/坦塔克·塞里克.md "wikilink")，一个工作于IE for
+Mac时发现这个主意的前微软员工，开发的「盒模型hack」。它涉及到为IE
+for Windows指定一个宽度声明，随后使用另一个为CSS-兼容的浏览器指定的宽度重写它。第二条声明通过利用IE for
+Windows解析CSS规则的其它缺陷而从该浏览器中隐藏。这些CSS「hacks」的实施直到Internet Explorer
 7的公开发行为止都被进一步兼容。IE
 7只修复了一部分问题，而不是其它的，这导致使用这些hacks的页面出现一些意想不到的问题。\[16\]
 

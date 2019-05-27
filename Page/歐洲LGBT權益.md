@@ -26,7 +26,7 @@
 
 [愛爾蘭上下議院已在](https://zh.wikipedia.org/wiki/愛爾蘭共和國 "wikilink")[2010年7月通過](../Page/2010年7月.md "wikilink")《2009年公民伴侶與相關權利及義務條例草案》\[4\]；[英國的兩個海外屬地](https://zh.wikipedia.org/wiki/英國 "wikilink")[澤西島與](https://zh.wikipedia.org/wiki/澤西島 "wikilink")[曼島也正考慮要在](../Page/曼島.md "wikilink")2010年通過民事結合法案\[5\]\[6\]；[賽普勒斯和](../Page/賽普勒斯.md "wikilink")[希臘已於在](https://zh.wikipedia.org/wiki/希臘 "wikilink")2015年底先後通過同性伴侶登記法。[愛沙尼亞則於在](https://zh.wikipedia.org/wiki/愛沙尼亞 "wikilink")2016年通過同性伴侶登記法。
 
-[奧地利和](https://zh.wikipedia.org/wiki/奧地利 "wikilink")[瑞士正在延擬是否讓同性婚姻在該國合法化](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，外媒預料受德國同婚的影響，這兩國日後出現同婚合法的機率將大大提高。其中[奧地利憲法法院](https://zh.wikipedia.org/wiki/奧地利 "wikilink")2017年12月4日公布的裁決指出，阻止這類伴侶結婚的法律無效，若政府未盡速修改法律，同性婚姻的限制將在2018年底解除，奧地利的同性婚姻自[2019年1月](https://zh.wikipedia.org/wiki/2019年1月 "wikilink")1日起生效。
+[奧地利和](https://zh.wikipedia.org/wiki/奧地利 "wikilink")[瑞士正在延擬是否讓同性婚姻在該國合法化](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，外媒預料受德國同婚的影響，這兩國日後出現同婚合法的機率將大大提高。其中[奧地利憲法法院](https://zh.wikipedia.org/wiki/奧地利 "wikilink")2017年12月4日公布的裁決指出，阻止這類伴侶結婚的法律無效，若政府未盡速修改法律，同性婚姻的限制將在2018年底解除，奧地利的同性婚姻自[2019年1月](../Page/2019年1月.md "wikilink")1日起生效。
 
 除了[白俄羅斯](https://zh.wikipedia.org/wiki/白俄羅斯 "wikilink")、[賽普勒斯](../Page/賽普勒斯.md "wikilink")、[拉脫維亞](../Page/拉脫維亞.md "wikilink")、[塞爾維亞](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")、[希臘與](https://zh.wikipedia.org/wiki/希臘 "wikilink")[土耳其外](../Page/土耳其.md "wikilink")，其它歐洲國家都允許同性戀者在軍中公開身份服役。希臘和[直布羅陀是歐洲目前唯二對同性戀者有較高同意年齡的地區](https://zh.wikipedia.org/wiki/直布羅陀 "wikilink")，其它歐洲諸國皆給予同性戀者平等的同意年齡。
 

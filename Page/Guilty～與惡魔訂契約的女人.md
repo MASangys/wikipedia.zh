@@ -193,7 +193,7 @@
 
 <!-- end list -->
 
-  - 菅沼 知香 - [原田佳奈](https://zh.wikipedia.org/wiki/原田佳奈 "wikilink")
+  - 菅沼 知香 - [原田佳奈](../Page/原田佳奈.md "wikilink")
 
 <!-- end list -->
 
@@ -242,8 +242,7 @@
 
 <!-- end list -->
 
-  - 松永 征一 -
-    [石丸謙二郎](https://zh.wikipedia.org/wiki/石丸謙二郎 "wikilink")（第2-7話）
+  - 松永 征一 - [石丸謙二郎](../Page/石丸謙二郎.md "wikilink")（第2-7話）
 
 <!-- end list -->
 

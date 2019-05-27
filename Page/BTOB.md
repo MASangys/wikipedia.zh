@@ -5,16 +5,16 @@ Beat**」，意思指「包含音樂抱負，希望和決心，為Beat而生」�
 
 2012年3月21日，以首張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")《[Born
 To
-Beat](https://zh.wikipedia.org/wiki/Born_to_Beat_\(BTOB迷你專輯\) "wikilink")》於韓國正式出道，並於次日在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M
+Beat](../Page/Born_to_Beat_\(BTOB迷你專輯\).md "wikilink")》於韓國正式出道，並於次日在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M
 Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》公開出道初舞台。2014年11月12日，以首張[日語單曲](https://zh.wikipedia.org/wiki/日語 "wikilink")《[WOW（JPN
-ver.）](https://zh.wikipedia.org/wiki/WOW（JPN_ver.） "wikilink")》於日本正式出道。2016年9月19日，Vocalists成員恩光、昌燮、炫植、星材組成子團[BTOB－BLUE](https://zh.wikipedia.org/wiki/BTOB－BLUE "wikilink")，以首張數位單曲《[留在我身邊](https://zh.wikipedia.org/wiki/留在我身邊_\(BTOB－BLUE單曲\) "wikilink")》正式出道。
+ver.）](../Page/WOW（JPN_ver.）.md "wikilink")》於日本正式出道。2016年9月19日，Vocalists成員恩光、昌燮、炫植、星材組成子團[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")，以首張數位單曲《[留在我身邊](../Page/留在我身邊_\(BTOB－BLUE單曲\).md "wikilink")》正式出道。
 
 2015年6月29日，以抒情曲《[沒關係](../Page/Complete_\(BTOB專輯\).md "wikilink")》首次獲得各大音源榜一位。2015年10月21日，以《[回家的路](../Page/I_mean.md "wikilink")》於[MBC
 Music](../Page/MBC_Plus_Media.md "wikilink")《[Show
 Champion](../Page/Show_Champion.md "wikilink")》獲得出道3年7個月以來首個音樂放送一位
 。2016年4月8日，以《[春天的記憶](../Page/Remember_That.md "wikilink")》在出道1,480天後於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music
 Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得無線電視臺初一位，打歌期間共榮獲「三冠王」
-。2017年10月憑藉《[想念](https://zh.wikipedia.org/wiki/Brother_Act._\(BTOB專輯\) "wikilink")》榮獲音樂放送「七冠王」。自2015年起連續以「抒情三部曲」回歸展現歌唱與舞台實力，以逐年充實的音樂實力步入大眾市場，被稱作「大器晚成的偶像」。
+。2017年10月憑藉《[想念](../Page/Brother_Act._\(BTOB專輯\).md "wikilink")》榮獲音樂放送「七冠王」。自2015年起連續以「抒情三部曲」回歸展現歌唱與舞台實力，以逐年充實的音樂實力步入大眾市場，被稱作「大器晚成的偶像」。
 
 2018年8月13日，BTOB於V
 Live中以轉盤選拔代理隊長、新主舞與新忙內，最終結果為旼赫當選第二代隊長、Peniel當選新一代主舞、星材當選新一代絕對忙內，於2018年8月21日隊長恩光入伍後生效。\[3\]
@@ -75,7 +75,7 @@ Cheongdam）」在劇中音樂節目作虛擬出道舞臺，此五位是率先�
 ### 2012年：正式出道
 
 2012年3月21日，下午2時舉行出道發表會，初次公開首張迷你專輯《[Born To
-Beat](https://zh.wikipedia.org/wiki/Born_to_Beat_\(BTOB迷你專輯\) "wikilink")》的雙主打歌曲《Insane》\[25\]
+Beat](../Page/Born_to_Beat_\(BTOB迷你專輯\).md "wikilink")》的雙主打歌曲《Insane》\[25\]
 和《Imagine》。3月22日，在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》展示舞台，正式出道。5月3日，公開了單曲《父親（아버지）》\[26\]\[27\]，並配合於5月8日的父母節
 \[28\]
@@ -83,14 +83,14 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》展示舞台
 입술을 뺏었어）》MV \[29\]。
 
 2012年9月4日，所屬公司透過官方Facebook公開迷你二輯《[Press
-Play](https://zh.wikipedia.org/wiki/Press_Play_\(BTOB迷你專輯\) "wikilink")》回歸預告照
+Play](../Page/Press_Play_\(BTOB迷你專輯\).md "wikilink")》回歸預告照
 \[30\]。9月7日，公開新曲《WOW》MV預告 \[31\]，並於9月12日公開MV
 \[32\]\[33\]\[34\]。10月23日，公開《我只知道愛（사랑밖에 난 몰라）》MV \[35\]。
 
 ### 2013年：單曲《2nd Confession》 與 《Thriller》
 
-2013年4月9日，官方釋出了數位單曲《[第二次告白](https://zh.wikipedia.org/wiki/第二次告白_\(BTOB單曲\) "wikilink")（두
-번째 고백）》預告 \[36\]，並在4月11日公開完整版MV \[37\]\[38\]\[39\]。
+2013年4月9日，官方釋出了數位單曲《[第二次告白](../Page/第二次告白_\(BTOB單曲\).md "wikilink")（두 번째
+고백）》預告 \[36\]，並在4月11日公開完整版MV \[37\]\[38\]\[39\]。
 
 2013年8月29日，釋出了先行曲《當我是你的男人時（내가 니 남자였을때）》的 MV \[40\]\[41\]，並在同日公開新歌《為什麼（왜
 이래）》的試聽
@@ -105,10 +105,10 @@ Play](https://zh.wikipedia.org/wiki/Press_Play_\(BTOB迷你專輯\) "wikilink")�
 감동이야）》MV也於同日韓國時間0點整公開 \[45\]。
 
 2014年10月31日、11月1日，連續2天於[韓國首爾奧林匹克Hall舉行首次單獨演唱會](../Page/奧林匹克公園_\(首爾\).md "wikilink")《[Hello,
-Melody](https://zh.wikipedia.org/wiki/Hello,_Melody "wikilink")》。
+Melody](../Page/Hello,_Melody.md "wikilink")》。
 
 2014年11月12日，以單曲《[WOW（JPN
-ver.）](https://zh.wikipedia.org/wiki/WOW（JPN_ver.） "wikilink")》於日本正式出道
+ver.）](../Page/WOW（JPN_ver.）.md "wikilink")》於日本正式出道
 \[46\]。
 
 2014年12月3日，公開單曲《哭也可以（울어도 돼）》的音源 \[47\]。12月22日，發行迷你六輯《[The Winter's
@@ -118,7 +118,7 @@ Tale](../Page/The_Winter's_Tale_\(BTOB迷你專輯\).md "wikilink")》\[48\]。
 
 [151219_비투비_두번째_단독콘서트_Born_To_Beat_Time.jpg](https://zh.wikipedia.org/wiki/File:151219_비투비_두번째_단독콘서트_Born_To_Beat_Time.jpg "fig:151219_비투비_두번째_단독콘서트_Born_To_Beat_Time.jpg")
 
-2015年3月25日，發行第二張日文單曲《[未來（明天）](https://zh.wikipedia.org/wiki/未來（明天） "wikilink")》\[49\]\[50\]。
+2015年3月25日，發行第二張日文單曲《[未來（明天）](../Page/未來（明天）.md "wikilink")》\[49\]\[50\]。
 
 2015年4月27日，星材主演的[KBS月火連續劇](../Page/KBS月火連續劇.md "wikilink")《[Who Are
 You－學校2015](../Page/Who_Are_You－學校2015.md "wikilink")》播出，飾演四次元少年孔太光，並獻唱OST《Love
@@ -144,7 +144,7 @@ Champion](../Page/Show_Champion.md "wikilink")》得到出道3年7個月以來�
 2015年11月18日，旼赫出演的[MBC水木連續劇](../Page/MBC水木迷你連續劇.md "wikilink")《[甜蜜殺氣的家族](../Page/甜蜜殺氣的家族.md "wikilink")》播出，飾演黑道家族的資優生兒子尹成旼。
 
 2015年12月19、20日，於韓國首爾獎忠體育館舉行第二次單獨演唱會《[Born To Beat
-Time](https://zh.wikipedia.org/wiki/Born_To_Beat_Time "wikilink")》。
+Time](../Page/Born_To_Beat_Time.md "wikilink")》。
 
 2015年12月25日，昌燮創造的新造詞「過現未愛
 (예지앞사)」，被選為2015年的熱門新造詞，代表與粉絲間無論「過去、現在、未來，都愛著你」的意思
@@ -158,12 +158,11 @@ Time](https://zh.wikipedia.org/wiki/Born_To_Beat_Time "wikilink")》。
 Bride](../Page/Dear_Bride_\(BTOB单曲\).md "wikilink")》\[60\]，發行一週即獲日本[Oricon公信榜週榜二位](../Page/Oricon公信榜.md "wikilink")、唱片行「TOWER
 RECORDS」2月份月榜銷售一位，一週總銷量近十萬張 \[61\]。
 
-2016年3月14日，旼赫主演的iHQ網路劇《[噩夢老師](https://zh.wikipedia.org/wiki/噩夢老師 "wikilink")》首播，與[金所泫搭檔](../Page/金所泫.md "wikilink")，飾演男主角新聞部高中生徐尚宇
+2016年3月14日，旼赫主演的iHQ網路劇《[噩夢老師](../Page/噩夢老師.md "wikilink")》首播，與[金所泫搭檔](../Page/金所泫.md "wikilink")，飾演男主角新聞部高中生徐尚宇
 \[62\]\[63\]。
 
 2016年3月26、27日，於[韓國首爾蠶室室內體育館舉行安可場演唱會](../Page/首爾綜合運動場.md "wikilink")《[Born
-To Beat Time \~ Encore
-\~](https://zh.wikipedia.org/wiki/Born_To_Beat_Time "wikilink")》。
+To Beat Time \~ Encore \~](../Page/Born_To_Beat_Time.md "wikilink")》。
 
 2016年3月28日，迷你八輯《[Remember
 That](../Page/Remember_That.md "wikilink")》正式發行，主打曲《春天的記憶（봄날의
@@ -193,17 +192,17 @@ TVcast先行公開](https://zh.wikipedia.org/wiki/Naver "wikilink")，旼赫飾�
 Lady》的幕後真人秀 \[73\]。
 
 2016年8月6日，發表第四張數位單曲《想要去旅行（여행가고 싶어）》，該曲也作為韓國綜藝節目《[Battle
-Trip](https://zh.wikipedia.org/wiki/戰鬥旅行 "wikilink")》主題曲 \[74\]。
+Trip](../Page/戰鬥旅行.md "wikilink")》主題曲 \[74\]。
 
 2016年9月19日，Vocal
-Line成員恩光、昌燮、炫植、星材以分隊「[BTOB－BLUE](https://zh.wikipedia.org/wiki/BTOB－BLUE "wikilink")（비투비–블루）」推出數位單曲《[留在我身邊](https://zh.wikipedia.org/wiki/留在我身邊_\(BTOB－BLUE單曲\) "wikilink")（내
+Line成員恩光、昌燮、炫植、星材以分隊「[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")（비투비–블루）」推出數位單曲《[留在我身邊](../Page/留在我身邊_\(BTOB－BLUE單曲\).md "wikilink")（내
 곁에 서 있어줘）》\[75\]，是BTOB首次以小分隊形式活動，MV由成員Peniel執導 \[76\]，音源公開即空降Monkey3
 1位、Genie、Naver、Mnet2位、Melon3位、Olleh4位、Soribada5位。\[77\]
 9月24日，於《[Show\!
 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》表演現場舞臺，是此次活動唯一的音樂放送。\[78\]
 
 2016年11月7日，公開迷你九輯《[NEW
-MEN](https://zh.wikipedia.org/wiki/New_Men_\(BTOB迷你專輯\) "wikilink")》及主打曲《祈禱（기도）》\[79\]\[80\]\[81\]，音源釋出空降Melon、Mnet、Genie、Naver、Monkey3
+MEN](../Page/New_Men_\(BTOB迷你專輯\).md "wikilink")》及主打曲《祈禱（기도）》\[79\]\[80\]\[81\]，音源釋出空降Melon、Mnet、Genie、Naver、Monkey3
 1位、Olleh 3位、Bugs7位、Soribada 8位，其他專輯歌曲也均入榜。
 
 2016年12月2日，星材參與演出的[tvN金土連續劇](https://zh.wikipedia.org/wiki/tvN金曜連續劇 "wikilink")《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》播出，飾演財閥三代、鬼怪家臣劉德華
@@ -215,30 +214,30 @@ FOUR/SEVEN）](https://zh.wikipedia.org/wiki/24/7_\(TWENTY_FOUR/SEVEN） "wikili
 ### 2017年：《Feel'eM》 到 《Brother Act.》自我突破
 
 2017年1月21、22日，於[韓國首爾奧林匹克公園SK手球競技場舉行第三次單獨演唱會](../Page/奧林匹克公園_\(首爾\).md "wikilink")《[BTOB
-TIME](https://zh.wikipedia.org/wiki/BTOB_TIME "wikilink")》。
+TIME](../Page/BTOB_TIME.md "wikilink")》。
 
 2017年2月24日，公開先行曲《SOMEDAY（언젠가）》\[89\]，空降Naver、Melon、Genie、Mnet、Money3
 1位、Olleh 2位、Bugs
-5位。3月6日，發行迷你十輯《[Feel'eM](https://zh.wikipedia.org/wiki/Feel'eM "wikilink")》及主打曲《MOVIE（무비）》\[90\]\[91\]；3月15日，於《Show
+5位。3月6日，發行迷你十輯《[Feel'eM](../Page/Feel'eM.md "wikilink")》及主打曲《MOVIE（무비）》\[90\]\[91\]；3月15日，於《Show
 Champiom》獲得一位。
 
 2017年4月18日，公開特別企劃《[PIECE OF
-BTOB](https://zh.wikipedia.org/wiki/PIECE_OF_BTOB "wikilink")》，是以每月一位成員推出Solo單曲的方式進行
+BTOB](../Page/PIECE_OF_BTOB.md "wikilink")》，是以每月一位成員推出Solo單曲的方式進行
 \[92\]\[93\]\[94\]\[95\]\[96\]\[97\]\[98\]。5月3日，發行第六張日文單曲《[MOVIE（JPN
-ver.）](https://zh.wikipedia.org/wiki/MOVIE_\(BTOB日文單曲\) "wikilink")》\[99\]。
+ver.）](../Page/MOVIE_\(BTOB日文單曲\).md "wikilink")》\[99\]。
 
 2017年6月7日，昌燮以首張日語單曲《[bpm82.5](https://zh.wikipedia.org/wiki/bpm82.5_\(單曲\) "wikilink")》於日本正式個人出道，專輯封面及內頁均由成員Peniel拍攝
 \[100\]\[101\]。
 
 2017年8月30日，發行第七張日文單曲《[Brand new days
-～怎樣的未來～](https://zh.wikipedia.org/wiki/Brand_new_days_～怎樣的未來～ "wikilink")》\[102\]，發行當日即獲Oricon公信榜日榜2位，發行日起連續三天獲得唱片行「TOWER
+～怎樣的未來～](../Page/Brand_new_days_～怎樣的未來～.md "wikilink")》\[102\]，發行當日即獲Oricon公信榜日榜2位，發行日起連續三天獲得唱片行「TOWER
 RECORDS」全店綜合專輯日榜1位、全店綜合專輯周榜1位、8月全店月榜1位
 \[103\]\[104\]\[105\]，以及[Billboard
 Japan](https://zh.wikipedia.org/wiki/Billboard_Japan "wikilink") Top
 Singles Sales 2位，銷量為88,668張 \[106\]。
 
 2017年10月16日，正式發行正規二輯《[Brother
-Act.](https://zh.wikipedia.org/wiki/Brother_Act._\(BTOB專輯\) "wikilink")》及主打曲《想念（그리워하다）》\[107\]，音源公開即空降音源實時榜
+Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink")》及主打曲《想念（그리워하다）》\[107\]，音源公開即空降音源實時榜
 Naver
 Music2位、Genie、Bugs、MelOn3位、Soribada13位、Mnet18位。特別是MelOn、Soribada、Naver
 Music、Genie、Bugs五榜中，其餘十一首收錄歌曲均佔據榜單上游位置，而後主打曲於韓國時間21時在MelOn、Genie、Bugs、Naver
@@ -251,15 +250,14 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得一位；10�
 \[111\]；11月1、2、5日，分別於《Show Champion》、《M Countdown》、《人氣歌謠》連續兩周獲得一位
 \[112\]\[113\]；BTOB以《想念》連續獲得一位成為七冠王，本次活動獲得的一位也超過5年來所有回歸獲得的加總冠軍數（截自2015年10月出道初一位至2017年3月止，共五冠）。
 
-2017年11月21日，BTOB捐款5000萬韓元幫助[南韓浦項地震當地災民](https://zh.wikipedia.org/wiki/2017年浦項地震 "wikilink")
+2017年11月21日，BTOB捐款5000萬韓元幫助[南韓浦項地震當地災民](../Page/2017年浦項地震.md "wikilink")
 \[114\]。
 
 2017年12月8日，BTOB的真人實境秀《BTOB的Conti-New》於V LIVE Channel+首播，作為海外團體綜藝的預習影像
 \[115\]。
 
 2017年12月23、24日，於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[國際展覽中心](../Page/京畿道.md "wikilink")（KINTEX）舉行第四次單獨演唱會《[BTOB
-TIME
-～我們的演唱會～](https://zh.wikipedia.org/wiki/BTOB_TIME_～我們的演唱會～ "wikilink")》。
+TIME ～我們的演唱會～](../Page/BTOB_TIME_～我們的演唱會～.md "wikilink")》。
 
 2017年12月29日，Cube娛樂宣布星材因平時即有[骨贅症狀](../Page/骨贅.md "wikilink")，在演唱會及眾多行程下導致病情惡化為[椎間盤脫出症](https://zh.wikipedia.org/wiki/椎間盤脫出症 "wikilink")，暫時停止演藝活動，BTOB在星材康復前暫時以六人體制活動
 \[116\]。其後星材在休養約2週後逐漸恢復活動 \[117\]。
@@ -271,38 +269,38 @@ TIME
 2018年2月27日，BTOB擔任「韓國觀光宣傳大使」，出席委任儀式 \[118\]。
 
 2018年2月28日，發行首張日語精選輯《[BTOB JAPAN BEST ALBUM 2014-2017
-〜1096DAYS〜](https://zh.wikipedia.org/wiki/BTOB_JAPAN_BEST_ALBUM_2014-2017_〜1096DAYS〜 "wikilink")》，收錄歷年所發行的日語單曲與專輯中收錄的精選歌曲。
+〜1096DAYS〜](../Page/BTOB_JAPAN_BEST_ALBUM_2014-2017_〜1096DAYS〜.md "wikilink")》，收錄歷年所發行的日語單曲與專輯中收錄的精選歌曲。
 
 2018年3月8日，鎰勳正式發行個人首張韓語迷你專輯《[Big
-Wave](https://zh.wikipedia.org/wiki/Big_Wave_\(專輯\) "wikilink")》，亦是BTOB中第一位以Solo歌手身分在韓國出道的成員
+Wave](../Page/Big_Wave_\(專輯\).md "wikilink")》，亦是BTOB中第一位以Solo歌手身分在韓國出道的成員
 \[119\]\[120\]\[121\]\[122\]。
 
 2018年4月21日，BTOB與[太妍](../Page/太妍.md "wikilink")、[Red
-Velvet共同參與於](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[南港展覽館舉行的](https://zh.wikipedia.org/wiki/南港展覽館 "wikilink")《BEST
+Velvet共同參與於](../Page/Red_Velvet.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[南港展覽館舉行的](https://zh.wikipedia.org/wiki/南港展覽館 "wikilink")《BEST
 OF BEST》拼盤演唱會 \[123\]\[124\]。
 
 2018年6月11日，公開先行曲《The Feeling》，音源公開後即空降Bugs 2位、Melon 4位、Genie 8位、Naver
 10位、Soribada 12位、Mnet 25位。6月18日，正式發行迷你十一輯《[THIS IS
-US](https://zh.wikipedia.org/wiki/THIS_IS_US_\(BTOB迷你專輯\) "wikilink")》及主打曲《不能沒有你（너
-없인 안 된다）》 \[125\]\[126\]，音源公開後空降Bugs 4位、Melon 5位、Genie 7位、Mnet 7位、Naver
-9位、Soribada
+US](../Page/THIS_IS_US_\(BTOB迷你專輯\).md "wikilink")》及主打曲《不能沒有你（너 없인 안
+된다）》 \[125\]\[126\]，音源公開後空降Bugs 4位、Melon 5位、Genie 7位、Mnet
+7位、Naver 9位、Soribada
 18位，各榜單中其他收錄歌曲均位於上位圈；其後Melon、Genie、Mnet、Naver、Olleh等榜單上升至1位。6月27日，於[MBC
 Music](../Page/MBC_Plus_Media.md "wikilink")《[Show
 Champion](../Page/Show_Champion.md "wikilink")》獲得一位 \[127\]；7月3日，於《[THE
 SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》獲得一位，亦是於該節目獲得的首個一位\[128\]。
 
 2018年7月25日，旼赫以首張日語單曲《[Summer
-Diary](https://zh.wikipedia.org/wiki/夏天的日記_\(單曲\) "wikilink")》於日本正式個人出道，是繼昌燮之後第二位於日本進行個人活動的成員
+Diary](../Page/夏天的日記_\(單曲\).md "wikilink")》於日本正式個人出道，是繼昌燮之後第二位於日本進行個人活動的成員
 \[129\]\[130\]。
 
 2018年8月2日，Vocal
-Line以小分隊[BTOB－BLUE發行第二張數位單曲](https://zh.wikipedia.org/wiki/BTOB－BLUE "wikilink")《[如果下雨的話](https://zh.wikipedia.org/wiki/如果下雨的話_\(BTOB－BLUE單曲\) "wikilink")（비가
+Line以小分隊[BTOB－BLUE發行第二張數位單曲](../Page/BTOB－BLUE.md "wikilink")《[如果下雨的話](../Page/如果下雨的話_\(BTOB－BLUE單曲\).md "wikilink")（비가
 내리면）》，是繼2016年後睽違兩年的再次回歸。\[131\]\[132\] 音源公開即空降Bugs 4位、Melon
 10位、Genie、Olleh 13位、Naver 31位、Mnet 34位。
 
 2018年8月10－12日，連續三天於韓國[首爾奧林匹克體操競技場舉行第五次單獨演唱會](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")《[BTOB
 TIME -THIS IS
-US-](https://zh.wikipedia.org/wiki/BTOB_TIME_-THIS_IS_US- "wikilink")》。\[133\]
+US-](../Page/BTOB_TIME_-THIS_IS_US-.md "wikilink")》。\[133\]
 
 2018年8月6日，韓國媒體宣布恩光於2018年8月21日以現役陸軍低調入伍，Cube娛樂之後亦證實該消息。\[134\]
 恩光也因此缺席9月8日舉辦的《BTOB TIME -THIS IS US-》台灣場演唱會。\[135\]
@@ -310,21 +308,21 @@ US-](https://zh.wikipedia.org/wiki/BTOB_TIME_-THIS_IS_US- "wikilink")》。\[133
 
 2018年8月31日，Cube娛樂證實旼赫通過了義務警察考試，並在隨機抽籤被選中合格。\[136\]
 
-2018年10月，《[想念](https://zh.wikipedia.org/wiki/Brother_Act._\(BTOB專輯\) "wikilink")》在Gaon
+2018年10月，《[想念](../Page/Brother_Act._\(BTOB專輯\).md "wikilink")》在Gaon
 Chart音源榜單的在線收聽人數流媒體突破一億，是韓國歷年來第五個擁有流媒破億歌曲的男團 \[137\]。
 
-2018年10月11日，旼赫演出的MBC綜藝電視劇《[大長今在看著](https://zh.wikipedia.org/wiki/大長今在看著 "wikilink")》播出，飾演總會在正午12點出現在便利商店的神秘花美男、偶像練習生李旼赫。\[138\]
+2018年10月11日，旼赫演出的MBC綜藝電視劇《[大長今在看著](../Page/大長今在看著.md "wikilink")》播出，飾演總會在正午12點出現在便利商店的神秘花美男、偶像練習生李旼赫。\[138\]
 
 2018年10月23日，公開先行曲《Friend》，該曲恩光也參與其中，在入伍前即完成錄音 \[139\]\[140\]；音源公開即空降Bugs
 2位、Melon 9位、Genie 13位、Naver 19位、Mnet
 61位，其後Bugs上升至1位。11月12日，正式發行首張特別專輯《[HOUR
-MOMENT](https://zh.wikipedia.org/wiki/HOUR_MOMENT_\(BTOB特別專輯\) "wikilink")》及主打曲《既是美麗又痛苦的（아름답고도
+MOMENT](../Page/HOUR_MOMENT_\(BTOB特別專輯\).md "wikilink")》及主打曲《既是美麗又痛苦的（아름답고도
 아프구나）》 \[141\]，音源公開空降Bugs 3位、Melon 5位、Genie 7位、Mnet 11位、Naver
 12位，專輯其他收錄曲亦均位於各榜上位圈。此次除了已入伍的隊長恩光，首次以六人體制進行活動。
 
 2018年12月6日，Cube娛樂宣布昌燮將於2019年1月14日入伍服役，是繼恩光後第二位入伍的成員。\[142\]
 
-2018年12月11日，昌燮發行首張個人韓語迷你專輯《[Mark](https://zh.wikipedia.org/wiki/Mark_\(專輯\) "wikilink")》，是繼鎰勳後第二位於韓國個人出道的成員。\[143\]\[144\]
+2018年12月11日，昌燮發行首張個人韓語迷你專輯《[Mark](../Page/Mark_\(專輯\).md "wikilink")》，是繼鎰勳後第二位於韓國個人出道的成員。\[143\]\[144\]
 
 2018年12月21日，旼赫出演的由網路平台POOQ與[KBS合作的電視劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《NO.6》播出，飾演創作歌手元卓。\[145\]
 該劇在2019年4月28日於KBS2放送。
@@ -333,7 +331,7 @@ MOMENT](https://zh.wikipedia.org/wiki/HOUR_MOMENT_\(BTOB特別專輯\) "wikilink
 
 2019年1月14日，昌燮正式以現役陸軍入伍服役。預計2020年8月21日退伍。\[146\]\[147\]
 
-2019年1月15日，旼赫正式發行首張個人韓語正規專輯《[HUTAZONE](https://zh.wikipedia.org/wiki/HUTAZONE_\(專輯\) "wikilink")》，是第三位於韓國個人出道的成員。\[148\]\[149\]\[150\]
+2019年1月15日，旼赫正式發行首張個人韓語正規專輯《[HUTAZONE](../Page/HUTAZONE_\(專輯\).md "wikilink")》，是第三位於韓國個人出道的成員。\[148\]\[149\]\[150\]
 
 2019年2月7日，旼赫正式作為義務警察入伍服役。預計2020年9月12日退伍。\[151\]
 
@@ -354,14 +352,14 @@ WITH MELODY」的特別展覽。\[152\]
 
 1.  [Complete](../Page/Complete_\(BTOB專輯\).md "wikilink")（2015年6月29日）
 2.  [Brother
-    Act.](https://zh.wikipedia.org/wiki/Brother_Act._\(BTOB專輯\) "wikilink")（2017年10月16日）
+    Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink")（2017年10月16日）
 
 #### 迷你專輯
 
 1.  [Born To
-    Beat](https://zh.wikipedia.org/wiki/Born_to_Beat_\(BTOB迷你專輯\) "wikilink")（2012年4月3日）
+    Beat](../Page/Born_to_Beat_\(BTOB迷你專輯\).md "wikilink")（2012年4月3日）
 2.  [Press
-    Play](https://zh.wikipedia.org/wiki/Press_Play_\(BTOB迷你專輯\) "wikilink")（2012年9月12日）
+    Play](../Page/Press_Play_\(BTOB迷你專輯\).md "wikilink")（2012年9月12日）
 3.  [Thriller](../Page/Thriller_\(BTOB迷你專輯\).md "wikilink")（2013年9月9日）
 4.  [嘀嘀叭叭](../Page/嘀嘀叭叭.md "wikilink")（2014年2月17日）
 5.  [MOVE](../Page/Move_\(BTOB迷你專輯\).md "wikilink")（2014年9月29日）
@@ -369,29 +367,27 @@ WITH MELODY」的特別展覽。\[152\]
     Tale](../Page/The_Winter's_Tale_\(BTOB迷你專輯\).md "wikilink")（2014年12月22日）
 7.  [I mean](../Page/I_mean.md "wikilink")（2015年10月12日）
 8.  [Remember That](../Page/Remember_That.md "wikilink")（2016年3月28日）
-9.  [NEW
-    MEN](https://zh.wikipedia.org/wiki/New_Men_\(BTOB迷你專輯\) "wikilink")（2016年11月7日）
-10. [Feel'eM](https://zh.wikipedia.org/wiki/Feel'eM "wikilink")（2017年3月6日）
+9.  [NEW MEN](../Page/New_Men_\(BTOB迷你專輯\).md "wikilink")（2016年11月7日）
+10. [Feel'eM](../Page/Feel'eM.md "wikilink")（2017年3月6日）
 11. [THIS IS
-    US](https://zh.wikipedia.org/wiki/THIS_IS_US_\(BTOB迷你專輯\) "wikilink")（2018年6月18日）
+    US](../Page/THIS_IS_US_\(BTOB迷你專輯\).md "wikilink")（2018年6月18日）
 
 #### 特別專輯
 
 1.  [HOUR
-    MOMENT](https://zh.wikipedia.org/wiki/HOUR_MOMENT_\(BTOB特別專輯\) "wikilink")（2018年11月12日）
+    MOMENT](../Page/HOUR_MOMENT_\(BTOB特別專輯\).md "wikilink")（2018年11月12日）
 
 #### 數位單曲
 
-1.  [父親](https://zh.wikipedia.org/wiki/Born_to_Beat_\(BTOB迷你專輯\) "wikilink")（2012年5月3日）
-2.  [第二次告白](https://zh.wikipedia.org/wiki/第二次告白_\(BTOB單曲\) "wikilink")（2013年4月10日）
+1.  [父親](../Page/Born_to_Beat_\(BTOB迷你專輯\).md "wikilink")（2012年5月3日）
+2.  [第二次告白](../Page/第二次告白_\(BTOB單曲\).md "wikilink")（2013年4月10日）
 3.  [哭也可以](https://zh.wikipedia.org/wiki/The_Winter's_Tale_\(EP\) "wikilink")（2014年12月3日）
 4.  想要去旅行（2016年8月6日）
 5.  對不起（2019年4月5日）
 
 #### 特別企劃
 
-1.  [PIECE OF
-    BTOB](https://zh.wikipedia.org/wiki/PIECE_OF_BTOB "wikilink")（2019年4月1日）
+1.  [PIECE OF BTOB](../Page/PIECE_OF_BTOB.md "wikilink")（2019年4月1日）
 
 ### 日語作品
 
@@ -425,7 +421,7 @@ WITH MELODY」的特別展覽。\[152\]
 BTOB
 出道至今參與許多綜藝，在節目中展現搞笑本能及過人獨特的綜藝感。他們也參與許多音樂節目，如多次以團體及個人出演[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》，與眾多前輩歌手競爭，為首個獲得優勝的男子偶像團體；參演[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》、《[二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")》、[SBS](../Page/SBS_\(韓國\).md "wikilink")《[Fantastic
 Duo
-2](https://zh.wikipedia.org/wiki/Fantastic_Duo_2 "wikilink")》等音樂節目，以及出道五年首度出演KBS《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》。
+2](../Page/Fantastic_Duo_2.md "wikilink")》等音樂節目，以及出道五年首度出演KBS《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》。
 
 藝能方面，參與MBC《[偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》，其中成員旼赫展現了出眾的運動能力，並多次刷新大會紀錄；恩光與昌燮出演MBC春節、中秋特輯《全國偶像歌唱大賽》，兩人組成「金斧頭與銀斧頭」演唱抒情曲，以美聲及充滿反轉的舞臺引發話題；成員接連出演SBS《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》，為最多成員出演該節目的偶像團體。
 
@@ -434,7 +430,7 @@ Are
 You－學校2015](../Page/Who_Are_You－學校2015.md "wikilink")》、[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》等。主持方面亦有涉略，如擔任《[THE
 SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》、SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》等音樂節目固定主持；恩光擔任[MBC
 RADIO廣播電台節目](https://zh.wikipedia.org/wiki/MBC "wikilink")《[IDOL
-RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink")》的試播DJ，是首位主持廣播節目的成員，其後恩光入伍後由鎰勳接替該節目成為正規DJ。
+RADIO](../Page/IDOL_RADIO.md "wikilink")》的試播DJ，是首位主持廣播節目的成員，其後恩光入伍後由鎰勳接替該節目成為正規DJ。
 
 ## 演唱會
 
@@ -442,35 +438,30 @@ RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink")》的試播DJ，是�
 
 <!-- end list -->
 
-  - [Hello,
-    Melody](https://zh.wikipedia.org/wiki/Hello,_Melody "wikilink")（2014年）
+  - [Hello, Melody](../Page/Hello,_Melody.md "wikilink")（2014年）
   - [Born To Beat
-    Time](https://zh.wikipedia.org/wiki/Born_To_Beat_Time "wikilink")（2015－2016年）
-  - [BTOB
-    TIME](https://zh.wikipedia.org/wiki/BTOB_TIME "wikilink")（2017年）
+    Time](../Page/Born_To_Beat_Time.md "wikilink")（2015－2016年）
+  - [BTOB TIME](../Page/BTOB_TIME.md "wikilink")（2017年）
   - [BTOB TIME
-    ～我們的演唱會～](https://zh.wikipedia.org/wiki/BTOB_TIME_～我們的演唱會～ "wikilink")（2017－2018年）
+    ～我們的演唱會～](../Page/BTOB_TIME_～我們的演唱會～.md "wikilink")（2017－2018年）
   - [BTOB TIME -THIS IS
-    US-](https://zh.wikipedia.org/wiki/BTOB_TIME_-THIS_IS_US- "wikilink")（2018年）
+    US-](../Page/BTOB_TIME_-THIS_IS_US-.md "wikilink")（2018年）
 
 
 ; 海外
 
   - BTOB Concert in Hong Kong（2015年）
-  - *[Born To Beat
-    Time](https://zh.wikipedia.org/wiki/Born_To_Beat_Time "wikilink")*
-    in Taiwan（2016年）
-  - *[BTOB TIME](https://zh.wikipedia.org/wiki/BTOB_TIME "wikilink")* in
-    Taiwan（2017年）
+  - *[Born To Beat Time](../Page/Born_To_Beat_Time.md "wikilink")* in
+    Taiwan（2016年）
+  - *[BTOB TIME](../Page/BTOB_TIME.md "wikilink")* in Taiwan（2017年）
   - *BTOB TIME* in Hong Kong（2017年）
   - *[BTOB TIME -THIS IS
-    US-](https://zh.wikipedia.org/wiki/BTOB_TIME_-THIS_IS_US- "wikilink")*
-    in Taiwan（2018年）
+    US-](../Page/BTOB_TIME_-THIS_IS_US-.md "wikilink")* in Taiwan（2018年）
 
 
 ; 其他
 
-  - [成為你的Melody演唱會](https://zh.wikipedia.org/wiki/成為你的Melody演唱會 "wikilink")（2015－2018年）
+  - [成為你的Melody演唱會](../Page/成為你的Melody演唱會.md "wikilink")（2015－2018年）
 
 <!-- end list -->
 
@@ -499,11 +490,11 @@ RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink")》的試播DJ，是�
 2013年1月15日，BTOB於第27屆韓國[金唱片獎獲得](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")「Next
 Generation獎」。 2016年1月14日，於第30屆韓國金唱片獎獲得「唱片部門最佳歌唱獎（Best Vocal
 Group）」。2016年1月21日，於第25屆[首爾歌謠大賞獲得](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")「最佳抒情歌曲獎（R\&B／Balled）」。
-2017年11月3日，於《[韓國大眾文化藝術獎](https://zh.wikipedia.org/wiki/韓國大眾文化藝術獎 "wikilink")》獲得「文化體育觀光部長官表彰」殊榮
+2017年11月3日，於《[韓國大眾文化藝術獎](../Page/韓國大眾文化藝術獎.md "wikilink")》獲得「文化體育觀光部長官表彰」殊榮
 \[155\]。 2018年1月10日，於第32屆韓國金唱片獎獲得「音源部門最佳男子團體獎（Best Male Group）」。
 2018年1月25日，於第27屆首爾歌謠大賞獲得「本賞」。
 2018年12月1日，於[甜瓜音樂獎首次獲得](../Page/甜瓜音樂獎.md "wikilink")「TOP10」。\[156\]
-2018年12月10日，於第1屆[韓國大眾音樂獎獲得](https://zh.wikipedia.org/wiki/韓國大眾音樂獎 "wikilink")「本賞」及「Ballad獎」。
+2018年12月10日，於第1屆[韓國大眾音樂獎獲得](../Page/韓國大眾音樂獎.md "wikilink")「本賞」及「Ballad獎」。
 
 ### 主要音樂節目榜單排名
 
@@ -521,16 +512,16 @@ Group）」。2016年1月21日，於第25屆[首爾歌謠大賞獲得](https://z
 <td><p>2012年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Born_to_Beat_(BTOB迷你專輯)" title="wikilink">Born to Beat</a></p></td>
+<td><p><a href="../Page/Born_to_Beat_(BTOB迷你專輯).md" title="wikilink">Born to Beat</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Press_Play_(BTOB迷你專輯)" title="wikilink">Press Play</a></p></td>
+<td><p><a href="../Page/Press_Play_(BTOB迷你專輯).md" title="wikilink">Press Play</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/第二次告白_(BTOB單曲)" title="wikilink">2nd Confession</a></p></td>
+<td><p><a href="../Page/第二次告白_(BTOB單曲).md" title="wikilink">2nd Confession</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Thriller_(BTOB迷你專輯).md" title="wikilink">Thriller</a></p></td>
@@ -566,31 +557,31 @@ Group）」。2016年1月21日，於第25屆[首爾歌謠大賞獲得](https://z
 <td><p><a href="../Page/Remember_That.md" title="wikilink">Remember That</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/New_Men_(BTOB迷你專輯)" title="wikilink">NEW MEN</a></p></td>
+<td><p><a href="../Page/New_Men_(BTOB迷你專輯).md" title="wikilink">NEW MEN</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Feel&#39;eM" title="wikilink">Feel'eM</a></p></td>
+<td><p><a href="../Page/Feel&#39;eM.md" title="wikilink">Feel'eM</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>MOVIE</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Brother_Act._(BTOB專輯)" title="wikilink">Brother Act.</a></p></td>
+<td><p><a href="../Page/Brother_Act._(BTOB專輯).md" title="wikilink">Brother Act.</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/THIS_IS_US_(BTOB迷你專輯)" title="wikilink">THIS IS US</a></p></td>
+<td><p><a href="../Page/THIS_IS_US_(BTOB迷你專輯).md" title="wikilink">THIS IS US</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>沒有你不行 (Only One For Me)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/HOUR_MOMENT_(BTOB特別專輯)" title="wikilink">HOUR MOMENT</a></p></td>
+<td><p><a href="../Page/HOUR_MOMENT_(BTOB特別專輯).md" title="wikilink">HOUR MOMENT</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>既是美麗又痛苦的 (Beautiful Pain)</p></td>

@@ -25,7 +25,7 @@
 ## 名字
 
   - [區耕祥](../Page/區耕祥.md "wikilink")（Dennis Au）
-  - [鄧剛](https://zh.wikipedia.org/wiki/鄧剛 "wikilink")（Dennis Gong Dun）
+  - [鄧剛](../Page/鄧剛.md "wikilink")（Dennis Gong Dun）
   - [聖丹尼斯](https://zh.wikipedia.org/wiki/聖丹尼斯 "wikilink")，基督教聖徒與殉教者
   - [露絲·聖·丹尼斯](https://zh.wikipedia.org/wiki/露絲·聖·丹尼斯 "wikilink")，美国舞蹈家
   - [罗恩·丹尼斯](../Page/罗恩·丹尼斯.md "wikilink")，英国企业家
@@ -39,4 +39,4 @@
   - [亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")，[英國巴士底盤製造商兼備製造巴士車身公司](https://zh.wikipedia.org/wiki/英國 "wikilink")。
   - [丹尼士車廠](../Page/丹尼士車廠.md "wikilink")，[英國一間巴士及消防車製造廠](https://zh.wikipedia.org/wiki/英國 "wikilink")。
   - [丹尼斯島](https://zh.wikipedia.org/wiki/丹尼斯島 "wikilink")，[塞舌爾的島嶼](https://zh.wikipedia.org/wiki/塞舌爾 "wikilink")。
-  - [颶風丹尼斯](https://zh.wikipedia.org/wiki/颶風丹尼斯 "wikilink")，2005年出現在[大西洋的](../Page/大西洋.md "wikilink")[颶風](https://zh.wikipedia.org/wiki/热带气旋 "wikilink")。
+  - [颶風丹尼斯](../Page/颶風丹尼斯.md "wikilink")，2005年出現在[大西洋的](../Page/大西洋.md "wikilink")[颶風](https://zh.wikipedia.org/wiki/热带气旋 "wikilink")。

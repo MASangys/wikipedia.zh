@@ -4,23 +4,23 @@
 
 ## 历年概况
 
-|                                                                               |            |                                                               |                                                                                    |       |
-| ----------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----- |
-| 历年                                                                            | 颁奖时间       | 颁奖地点                                                          | 主持人                                                                                | 备注    |
-| [2001中国电视体育奖](../Page/2001中国电视体育奖.md "wikilink")                              | 2002年3月22日 | [中央电视台](https://zh.wikipedia.org/wiki/中央电视台 "wikilink")       | [宋世雄](https://zh.wikipedia.org/wiki/宋世雄 "wikilink")、[曹颖](../Page/曹颖.md "wikilink") |       |
-| [2002中国电视体育奖](../Page/2002中国电视体育奖.md "wikilink")                              | 2003年2月28日 | 中央电视台                                                         | 宋世雄、[孙小梅](../Page/孙小梅.md "wikilink")                                               |       |
-| [2005CCTV体坛风云人物评选](../Page/2005CCTV体坛风云人物评选.md "wikilink")                    | 2006年3月23日 | 中央电视台                                                         | [张斌](../Page/张斌_\(主持人\).md "wikilink")、[董卿](../Page/董卿.md "wikilink")              |       |
-| [2006安踏CCTV体坛风云人物评选](../Page/2006CCTV体坛风云人物评选.md "wikilink")                  | 2007年4月7日  | 中央电视台                                                         | 张斌、[刘芳菲](../Page/刘芳菲.md "wikilink")                                                |       |
-| [2008安踏CCTV体坛风云人物评选](../Page/2008CCTV体坛风云人物评选.md "wikilink")                  | 2009年2月21日 | 中央电视台                                                         | 张斌                                                                                 |       |
-| [2009安踏CCTV体坛风云人物评选](../Page/2009CCTV体坛风云人物评选.md "wikilink")                  | 2010年1月16日 | [北京大学百年讲堂](https://zh.wikipedia.org/wiki/北京大学百年讲堂 "wikilink") | 张斌                                                                                 |       |
-| [安踏2010CCTV体坛风云人物评选](../Page/2010CCTV体坛风云人物评选.md "wikilink")                  | 2011年1月16日 | [国家会议中心](../Page/国家会议中心_\(中国\).md "wikilink")                 | 张斌、[周涛](../Page/周涛.md "wikilink")                                                  |       |
-| [安踏2011CCTV体坛风云人物评选](../Page/2011CCTV体坛风云人物评选.md "wikilink")                  | 2012年1月15日 | [国家体育馆](https://zh.wikipedia.org/wiki/国家体育馆 "wikilink")       | 张斌、周涛                                                                              |       |
-| [安踏2012CCTV体坛风云人物评选](../Page/2012CCTV体坛风云人物评选.md "wikilink")                  | 2013年1月19日 | 国家体育馆                                                         | 张斌、周涛                                                                              |       |
-| [2013CCTV体坛风云人物评选](../Page/2013CCTV体坛风云人物评选.md "wikilink")                    | 2014年1月11日 | [万事达中心](https://zh.wikipedia.org/wiki/万事达中心 "wikilink")       | 张斌、周涛                                                                              |       |
-| [2014CCTV体坛风云人物评选](../Page/2014CCTV体坛风云人物评选.md "wikilink")                    | 2015年2月1日  | 万事达中心                                                         | 张斌、[童可欣](https://zh.wikipedia.org/wiki/童可欣 "wikilink")                             |       |
-| [2015CCTV体坛风云人物评选](../Page/2015CCTV体坛风云人物评选.md "wikilink")                    | 2016年1月24日 | 国家体育馆                                                         | 张斌                                                                                 |       |
-| [2016CCTV体坛风云人物评选](https://zh.wikipedia.org/wiki/2016CCTV体坛风云人物评选 "wikilink") | 2017年1月15日 | [国家游泳中心](../Page/国家游泳中心.md "wikilink")                        | 张斌                                                                                 | \[2\] |
-| [2017CCTV体坛风云人物评选](https://zh.wikipedia.org/wiki/2017CCTV体坛风云人物评选 "wikilink") | 未有举办       | 未有举办                                                          |                                                                                    | 停摆    |
+|                                                              |            |                                                               |                                                                                    |       |
+| ------------------------------------------------------------ | ---------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----- |
+| 历年                                                           | 颁奖时间       | 颁奖地点                                                          | 主持人                                                                                | 备注    |
+| [2001中国电视体育奖](../Page/2001中国电视体育奖.md "wikilink")             | 2002年3月22日 | [中央电视台](https://zh.wikipedia.org/wiki/中央电视台 "wikilink")       | [宋世雄](https://zh.wikipedia.org/wiki/宋世雄 "wikilink")、[曹颖](../Page/曹颖.md "wikilink") |       |
+| [2002中国电视体育奖](../Page/2002中国电视体育奖.md "wikilink")             | 2003年2月28日 | 中央电视台                                                         | 宋世雄、[孙小梅](../Page/孙小梅.md "wikilink")                                               |       |
+| [2005CCTV体坛风云人物评选](../Page/2005CCTV体坛风云人物评选.md "wikilink")   | 2006年3月23日 | 中央电视台                                                         | [张斌](../Page/张斌_\(主持人\).md "wikilink")、[董卿](../Page/董卿.md "wikilink")              |       |
+| [2006安踏CCTV体坛风云人物评选](../Page/2006CCTV体坛风云人物评选.md "wikilink") | 2007年4月7日  | 中央电视台                                                         | 张斌、[刘芳菲](../Page/刘芳菲.md "wikilink")                                                |       |
+| [2008安踏CCTV体坛风云人物评选](../Page/2008CCTV体坛风云人物评选.md "wikilink") | 2009年2月21日 | 中央电视台                                                         | 张斌                                                                                 |       |
+| [2009安踏CCTV体坛风云人物评选](../Page/2009CCTV体坛风云人物评选.md "wikilink") | 2010年1月16日 | [北京大学百年讲堂](https://zh.wikipedia.org/wiki/北京大学百年讲堂 "wikilink") | 张斌                                                                                 |       |
+| [安踏2010CCTV体坛风云人物评选](../Page/2010CCTV体坛风云人物评选.md "wikilink") | 2011年1月16日 | [国家会议中心](../Page/国家会议中心_\(中国\).md "wikilink")                 | 张斌、[周涛](../Page/周涛.md "wikilink")                                                  |       |
+| [安踏2011CCTV体坛风云人物评选](../Page/2011CCTV体坛风云人物评选.md "wikilink") | 2012年1月15日 | [国家体育馆](https://zh.wikipedia.org/wiki/国家体育馆 "wikilink")       | 张斌、周涛                                                                              |       |
+| [安踏2012CCTV体坛风云人物评选](../Page/2012CCTV体坛风云人物评选.md "wikilink") | 2013年1月19日 | 国家体育馆                                                         | 张斌、周涛                                                                              |       |
+| [2013CCTV体坛风云人物评选](../Page/2013CCTV体坛风云人物评选.md "wikilink")   | 2014年1月11日 | [万事达中心](https://zh.wikipedia.org/wiki/万事达中心 "wikilink")       | 张斌、周涛                                                                              |       |
+| [2014CCTV体坛风云人物评选](../Page/2014CCTV体坛风云人物评选.md "wikilink")   | 2015年2月1日  | 万事达中心                                                         | 张斌、[童可欣](https://zh.wikipedia.org/wiki/童可欣 "wikilink")                             |       |
+| [2015CCTV体坛风云人物评选](../Page/2015CCTV体坛风云人物评选.md "wikilink")   | 2016年1月24日 | 国家体育馆                                                         | 张斌                                                                                 |       |
+| [2016CCTV体坛风云人物评选](../Page/2016CCTV体坛风云人物评选.md "wikilink")   | 2017年1月15日 | [国家游泳中心](../Page/国家游泳中心.md "wikilink")                        | 张斌                                                                                 | \[2\] |
+| [2017CCTV体坛风云人物评选](../Page/2017CCTV体坛风云人物评选.md "wikilink")   | 未有举办       | 未有举办                                                          |                                                                                    | 停摆    |
 
 ## 历年获奖名单
 
@@ -148,7 +148,7 @@
 
   - 年度最佳男运动员奖：[孙杨](https://zh.wikipedia.org/wiki/孙杨 "wikilink")（游泳）
   - 年度最佳女运动员奖：[李娜](https://zh.wikipedia.org/wiki/李娜_\(网球运动员\) "wikilink")（网球）
-  - 年度最佳新人奖：[范可新](https://zh.wikipedia.org/wiki/范可新 "wikilink")（短道速滑）
+  - 年度最佳新人奖：[范可新](../Page/范可新.md "wikilink")（短道速滑）
   - 年度最佳组合奖：[蔡赟](../Page/蔡赟.md "wikilink") /
     [傅海峰](../Page/傅海峰.md "wikilink")（羽毛球）
   - 年度最佳团队奖：[中国国家女子排球队](https://zh.wikipedia.org/wiki/中国国家女子排球队 "wikilink")
@@ -188,11 +188,11 @@
   - 最佳团队奖：[广州恒大足球队](https://zh.wikipedia.org/wiki/广州恒大足球队 "wikilink")
   - 最佳教练奖：[里皮](https://zh.wikipedia.org/wiki/里皮 "wikilink")（广州恒大足球队主教练）
   - 最佳组合奖：[彭帅](../Page/彭帅.md "wikilink")/[谢淑薇](https://zh.wikipedia.org/wiki/谢淑薇 "wikilink")（网球）
-  - 最佳新人奖：[李金哲](https://zh.wikipedia.org/wiki/李金哲_\(跳远运动员\) "wikilink")（田徑）
+  - 最佳新人奖：[李金哲](../Page/李金哲_\(跳远运动员\).md "wikilink")（田徑）
   - 未名人士精神奖：[扎西吉](https://zh.wikipedia.org/wiki/扎西吉 "wikilink")（藏族武术教练）
   - 残疾人体育精神奖：[王永海](https://zh.wikipedia.org/wiki/王永海 "wikilink")（自行车）
   - 最佳非奥运动员奖：[丁俊晖](../Page/丁俊晖.md "wikilink")（台球）
-  - 年度特别贡献奖：[郭川](https://zh.wikipedia.org/wiki/郭川_\(航海家\) "wikilink")（帆船）
+  - 年度特别贡献奖：[郭川](../Page/郭川_\(航海家\).md "wikilink")（帆船）
   - 评委会大奖：[中国围棋队](https://zh.wikipedia.org/wiki/中国围棋队 "wikilink")
 
 <!-- end list -->
@@ -201,7 +201,7 @@
 
 <!-- end list -->
 
-  - 最佳男运动员奖：[宁泽涛](https://zh.wikipedia.org/wiki/宁泽涛 "wikilink")（游泳）
+  - 最佳男运动员奖：[宁泽涛](../Page/宁泽涛.md "wikilink")（游泳）
   - 最佳女运动员奖：[李娜](https://zh.wikipedia.org/wiki/李娜_\(网球运动员\) "wikilink")（网球）
   - 最佳团队奖：[中国女子排球队](https://zh.wikipedia.org/wiki/中国女子排球队 "wikilink")
   - 最佳教练奖：[郎平](../Page/郎平.md "wikilink")（中国女子排球队主教练）
@@ -210,7 +210,7 @@
   - 未名人士精神奖：[代建荣](https://zh.wikipedia.org/wiki/代建荣 "wikilink")（昆明市五华区新萌学校（智障儿童学校）体育教师）
   - 残疾人体育精神奖：[中国女子轮椅篮球队](https://zh.wikipedia.org/wiki/中国女子轮椅篮球队 "wikilink")
   - 最佳非奥运动员奖：[陈盆滨](https://zh.wikipedia.org/wiki/陈盆滨 "wikilink")（极限马拉松）
-  - 年度突破奖：[张虹](https://zh.wikipedia.org/wiki/张虹_\(运动员\) "wikilink")（速度滑冰）
+  - 年度突破奖：[张虹](../Page/张虹_\(运动员\).md "wikilink")（速度滑冰）
   - 评委会大奖：[李娜](https://zh.wikipedia.org/wiki/李娜_\(网球运动员\) "wikilink")（网球）
 
 <!-- end list -->
@@ -219,7 +219,7 @@
 
 <!-- end list -->
 
-  - 最佳男运动员奖：[宁泽涛](https://zh.wikipedia.org/wiki/宁泽涛 "wikilink")（游泳）
+  - 最佳男运动员奖：[宁泽涛](../Page/宁泽涛.md "wikilink")（游泳）
   - 最佳女运动员奖：[刘虹](../Page/刘虹.md "wikilink")（田徑）
   - 最佳团队奖：[中国女子排球队](https://zh.wikipedia.org/wiki/中国女子排球队 "wikilink")
   - 最佳教练奖：[郎平](../Page/郎平.md "wikilink")（中国女子排球队主教练）

@@ -30,7 +30,7 @@ JACK为达到足够的低延时的调度要求是目前[Linux 2.6
 ## 参见
 
   - [Ardour](../Page/Ardour_\(软件\).md "wikilink")
-  - [LADSPA](https://zh.wikipedia.org/wiki/LADSPA "wikilink")
+  - [LADSPA](../Page/LADSPA.md "wikilink")
   - [PulseAudio](../Page/PulseAudio.md "wikilink")
   - [aRts](https://zh.wikipedia.org/wiki/aRts "wikilink")
 

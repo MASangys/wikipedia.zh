@@ -23,7 +23,7 @@ M1A的[機匣是由嚴格的高](https://zh.wikipedia.org/wiki/機匣 "wikilink"
 
 ## M1A／M14選射步槍
 
-[M1A_Kafziel.jpg](https://zh.wikipedia.org/wiki/File:M1A_Kafziel.jpg "fig:M1A_Kafziel.jpg")和[M6](https://zh.wikipedia.org/wiki/M6刺刀 "wikilink")[刺刀的春田M](../Page/刺刀.md "wikilink")1A。\]\]
+[M1A_Kafziel.jpg](https://zh.wikipedia.org/wiki/File:M1A_Kafziel.jpg "fig:M1A_Kafziel.jpg")和[M6](../Page/M6刺刀.md "wikilink")[刺刀的春田M](../Page/刺刀.md "wikilink")1A。\]\]
 自1971年開始生產以來，大部分的M1A步槍都是為了商業市場而生產，因此大多數都只能夠半自動射擊。不過，據估計在1986年5月19日通過了[槍械擁有保護法案](https://zh.wikipedia.org/wiki/槍械擁有保護法案 "wikilink")（）以前，總共生產了1,000枝可選擇發射模式的[M14型步枪和民用所有權登記](../Page/M14自动步枪.md "wikilink")。在這以前，[春田公司](https://zh.wikipedia.org/wiki/春田公司 "wikilink")、史密斯企業是其中兩間擁有生產民用選射型M14型步槍的所有權的公司。直到1986年5月，春田公司仍然擁有一間位於[伊利诺伊州的全自動武器的](../Page/伊利诺伊州.md "wikilink")[工廠](../Page/工廠.md "wikilink")。有少數的M1A步槍被改造為全自動型並且由[尼爾史密斯](https://zh.wikipedia.org/wiki/尼爾史密斯 "wikilink")（）、（亦是由里斯家族所擁有）向[美國菸酒槍炮及爆裂物管理局](../Page/美國菸酒槍炮及爆裂物管理局.md "wikilink")（，簡稱：ATF）登記及歸類為[第二類槍械](https://zh.wikipedia.org/wiki/第二類槍械 "wikilink")。這些[機匣裝有選擇發射模式的步槍裝有選射鎖耳](https://zh.wikipedia.org/wiki/機匣 "wikilink")、操作桿導槽以便使用連接器組裝一起。
 
 由於其稀缺以及事實上民用市場方面已經不可以再生產任何全新的M1A或M14選射步槍（[威廉·J·休斯曾經對](https://zh.wikipedia.org/wiki/威廉·J·休斯 "wikilink")[麥克盧爾-沃爾克默法案的作出修訂](https://zh.wikipedia.org/wiki/槍械擁有保護法案#機槍禁令：休斯的修訂 "wikilink")），它們的市場價值已經超過[$](../Page/美元.md "wikilink")
@@ -63,7 +63,7 @@ M1A的[機匣是由嚴格的高](https://zh.wikipedia.org/wiki/機匣 "wikilink"
 16型較輕便和接近概念中的定義）。導氣系統進行了修改，以確保縮短槍管以下仍然能夠正常地操作，並新增了一個新型的槍口補償裝置，能夠有效地緩和[後座力](../Page/後座力.md "wikilink")。SOCOM
 II型的[護木裝有](https://zh.wikipedia.org/wiki/護木 "wikilink")[MIL-STD-1913集成型戰術導軌座系統](../Page/皮卡汀尼導軌.md "wikilink")（），而SOCOM
 16型則是合成[槍托](../Page/槍托.md "wikilink")（有[黑色和](../Page/黑色.md "wikilink")[橄欖色兩種](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")）上裝有一條較短的[光學瞄準鏡基座](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")。另外還有一種較為少見的衍生型被命名為SOCOM
-II加長[機匣頂部戰術導軌型](https://zh.wikipedia.org/wiki/機匣 "wikilink")，具有從[拋殼口上延長至的](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")[彈夾條護口的頂部戰術導軌](https://zh.wikipedia.org/wiki/彈夾條 "wikilink")，令使用者可以在更後的位置安裝日間／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。
+II加長[機匣頂部戰術導軌型](https://zh.wikipedia.org/wiki/機匣 "wikilink")，具有從[拋殼口上延長至的](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")[彈夾條護口的頂部戰術導軌](https://zh.wikipedia.org/wiki/彈夾條 "wikilink")，令使用者可以在更後的位置安裝日間／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。
 
 ### 序列號
 
@@ -228,7 +228,7 @@ II加長[機匣頂部戰術導軌型](https://zh.wikipedia.org/wiki/機匣 "wiki
 
   - [M14自动步枪](../Page/M14自动步枪.md "wikilink")
 
-  - [SRSS鬥牛犬762自動步槍](https://zh.wikipedia.org/wiki/SRSS鬥牛犬762自動步槍 "wikilink")
+  - [SRSS鬥牛犬762自動步槍](../Page/SRSS鬥牛犬762自動步槍.md "wikilink")
 
   - [春田SOCOM II型半自動步槍](../Page/春田SOCOM_II型半自動步槍.md "wikilink")
 

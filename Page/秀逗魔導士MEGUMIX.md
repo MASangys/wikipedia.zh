@@ -36,13 +36,11 @@ Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。（KICA9
 5.  **[MIDNIGHT BLUE](../Page/MIDNIGHT_BLUE.md "wikilink")** \[5:31\]
       - 作詞：有森聰美、作曲：佐藤英敏、編曲：五島翔
       - 電影『[秀逗魔導士 完全無欠版](../Page/秀逗魔導士_\(動畫\).md "wikilink")』主題曲
-6.  **[Just be
-    conscious](https://zh.wikipedia.org/wiki/Just_be_conscious "wikilink")**
+6.  **[Just be conscious](../Page/Just_be_conscious.md "wikilink")**
     \[4:38\]
       - 作詞：MEGUMI、作曲：佐藤英敏、編曲：添田啓二、合音：[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")
       - 電影『[秀逗魔導士 RETURN](../Page/秀逗魔導士_\(動畫\).md "wikilink")』主題曲
-7.  **[Reflection](https://zh.wikipedia.org/wiki/Reflection "wikilink")**
-    \[5:19\]
+7.  **[Reflection](../Page/Reflection.md "wikilink")** \[5:19\]
       - 作詞：MEGUMI、作曲：佐藤英敏、編曲：添田啓二
       - 電影『[秀逗魔導士 GREAT](../Page/秀逗魔導士_\(動畫\).md "wikilink")』主題曲
 8.  **[raging
@@ -99,20 +97,18 @@ Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。（KICA9
       - 精選集『the BEST of SLAYERS \[from TV＆RADIO\]』新製歌曲
 5.  **乙女の祈り** \[2:20\]
       - 歌：林原めぐみ・鈴木真仁
-      - 作詞：[渡部高志](https://zh.wikipedia.org/wiki/渡部高志 "wikilink")、作曲：奥井雅美、編曲：矢吹俊郎
+      - 作詞：[渡部高志](../Page/渡部高志.md "wikilink")、作曲：奥井雅美、編曲：矢吹俊郎
       - 『[秀逗魔導士NEXT](../Page/秀逗魔導士_\(動畫\).md "wikilink")』插入曲（第14集「禁断のダンス？最強呪文はどこだ！」）
       - 原聲帶『スレイヤーズNEXT SOUND BIBLE2』收錄曲
 6.  **[Shining Girl](../Page/MIDNIGHT_BLUE.md "wikilink")** \[4:11\]
       - 作詞：有森聰美、作曲：佐藤英敏、編曲：五島翔
       - 電影『[秀逗魔導士 完全無欠版](../Page/秀逗魔導士_\(動畫\).md "wikilink")』印象歌曲
-7.  **[RUN ALL THE
-    WAY\!](https://zh.wikipedia.org/wiki/Just_be_conscious "wikilink")**
+7.  **[RUN ALL THE WAY\!](../Page/Just_be_conscious.md "wikilink")**
     \[5:06\]
       - 作詞：有森聰美、作曲・編曲：[大森俊之](https://zh.wikipedia.org/wiki/大森俊之 "wikilink")
       - 電影『[秀逗魔導士RETURN](../Page/秀逗魔導士_\(動畫\).md "wikilink")』印象歌曲
       - OVA『[秀逗魔導士SPECIAL](../Page/秀逗魔導士_\(動畫\).md "wikilink")』插入曲（第3集）（1997年）
-8.  **[GLORIA〜君に届けたい〜](https://zh.wikipedia.org/wiki/Reflection "wikilink")**
-    \[4:20\]
+8.  **[GLORIA〜君に届けたい〜](../Page/Reflection.md "wikilink")** \[4:20\]
       - 作詞：有森聰美、作曲：松永和彦、編曲：[岩本正樹](https://zh.wikipedia.org/wiki/岩本正樹 "wikilink")
       - 電影『[秀逗魔導士GREAT](../Page/秀逗魔導士_\(動畫\).md "wikilink")』印象歌曲
 9.  **[ルンバ・ルンバ](https://zh.wikipedia.org/wiki/feel_well "wikilink")**

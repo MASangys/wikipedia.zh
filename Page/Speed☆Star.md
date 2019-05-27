@@ -32,7 +32,7 @@
       - 作詞：平野綾、作曲･編曲：黑須克彦
       - 《Super Driver》B面曲
 9.  VOXX
-      - 作詞：平野綾、作曲・編曲：[Tom-H@ck](https://zh.wikipedia.org/wiki/Tom-H@ck "wikilink")
+      - 作詞：平野綾、作曲・編曲：[Tom-H@ck](../Page/Tom-H@ck.md "wikilink")
 10. [Set me
     free](https://zh.wikipedia.org/wiki/Set_me_free／Sing_a_Song! "wikilink")
       - 作詞：平野綾、作曲：黑須克彦、編曲：nishi-ken

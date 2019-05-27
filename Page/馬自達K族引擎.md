@@ -87,7 +87,7 @@ Engines），並獲得日本財團法人汽車技術會的「技術240選」\[3\
     4.  1994年-1997年：[第六代626](https://zh.wikipedia.org/wiki/馬自達626#第六代（CG系_1994年-1997年） "wikilink")
     5.  1997年-2002年：[第七代626旅行車款](https://zh.wikipedia.org/wiki/馬自達626#第七代（GF/GW系_1997年-2002年） "wikilink")
 2.  KL-DE型：
-    1.  1991年-1995年：第三代[福特Telstar](https://zh.wikipedia.org/wiki/福特Telstar "wikilink")
+    1.  1991年-1995年：第三代[福特Telstar](../Page/福特Telstar.md "wikilink")
     2.  1991年-1998年：[馬自達Cronos](../Page/馬自達Cronos.md "wikilink")
     3.  1992年-1997年：[第二代MX-6](https://zh.wikipedia.org/wiki/馬自達MX-6#第二代（1992年至1997年） "wikilink")
     4.  1992年-1994年：[Autozam Clef](../Page/Autozam_Clef.md "wikilink")

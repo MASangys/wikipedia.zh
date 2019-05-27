@@ -1,4 +1,4 @@
-**白根IC**（平假名：しらねインターチェンジ）是位於[日本国](https://zh.wikipedia.org/wiki/日本国 "wikilink")[山梨縣](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")[南阿爾卑斯市的](../Page/南阿爾卑斯市.md "wikilink")[中部橫斷自動車道](https://zh.wikipedia.org/wiki/中部橫斷自動車道 "wikilink")（[新山梨環狀道路西部區間](https://zh.wikipedia.org/wiki/新山梨環狀道路 "wikilink")）之[交流道](../Page/交流道.md "wikilink")。
+**白根IC**（平假名：しらねインターチェンジ）是位於[日本国](https://zh.wikipedia.org/wiki/日本国 "wikilink")[山梨縣](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")[南阿爾卑斯市的](../Page/南阿爾卑斯市.md "wikilink")[中部橫斷自動車道](../Page/中部橫斷自動車道.md "wikilink")（[新山梨環狀道路西部區間](https://zh.wikipedia.org/wiki/新山梨環狀道路 "wikilink")）之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -13,7 +13,7 @@
 ## 歷史
 
   - 2002年3月30日 -
-    [中部橫斷自動車道](https://zh.wikipedia.org/wiki/中部橫斷自動車道 "wikilink")[雙葉JCT至白根IC開通](https://zh.wikipedia.org/wiki/雙葉JCT "wikilink")，此交流道也同時啟用。
+    [中部橫斷自動車道](../Page/中部橫斷自動車道.md "wikilink")[雙葉JCT至白根IC開通](https://zh.wikipedia.org/wiki/雙葉JCT "wikilink")，此交流道也同時啟用。
   - 2004年3月20日 -
     中部橫斷自動車道白根IC至[南阿爾卑斯IC開通](https://zh.wikipedia.org/wiki/南阿爾卑斯IC "wikilink")。
 
@@ -23,7 +23,7 @@
 
 ## 鄰近設施
 
-  - [中部橫斷自動車道](https://zh.wikipedia.org/wiki/中部橫斷自動車道 "wikilink")
+  - [中部橫斷自動車道](../Page/中部橫斷自動車道.md "wikilink")
     (6)[南阿爾卑斯IC](https://zh.wikipedia.org/wiki/南阿爾卑斯IC "wikilink") -
     (7)**白根IC** -
     (15-2)[雙葉JCT](https://zh.wikipedia.org/wiki/雙葉JCT "wikilink")

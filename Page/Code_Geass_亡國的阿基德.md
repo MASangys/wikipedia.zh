@@ -398,7 +398,7 @@ The Wyvern Arrives</p></td>
 <td><p>-{zh-tw: 被撕裂的翼龍; zh-hk: 翼龍折翼;zh-cn:被撕裂的翼龍 }-<br />
 The Wyvern Divide</p></td>
 <td><p>淺川美也<br />
-<a href="https://zh.wikipedia.org/wiki/大野木寬" title="wikilink">大野木寬</a><br />
+<a href="../Page/大野木寬.md" title="wikilink">大野木寬</a><br />
 赤根和樹</p></td>
 <td><p>安田賢司、<a href="https://zh.wikipedia.org/wiki/日高政光" title="wikilink">日高政光</a><br />
 赤根和樹</p></td>
@@ -417,7 +417,7 @@ The Wyvern Divide</p></td>
 <td></td>
 <td><p>-{zh-tw: 輝煌之物從天墮下; zh-hk: 閃耀之物由天墜落;zh-cn:輝煌之物從天墮下}-<br />
 The Brightness Falls</p></td>
-<td><p>日高政光、<a href="https://zh.wikipedia.org/wiki/蘆野芳晴" title="wikilink">蘆野芳晴</a><br />
+<td><p>日高政光、<a href="../Page/蘆野芳晴.md" title="wikilink">蘆野芳晴</a><br />
 田中孝行、佐佐木守<br />
 赤根和樹</p></td>
 <td><p>五十嵐達矢、三宅和男<br />

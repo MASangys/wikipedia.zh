@@ -1,6 +1,6 @@
 **NY5型柴油机车**是[西德](../Page/西德.md "wikilink")[亨舍尔公司为](../Page/亨舍爾.md "wikilink")[中国铁路设计制造的](../Page/中華人民共和國鐵路運輸.md "wikilink")[液力传动](https://zh.wikipedia.org/wiki/液力传动柴油机车 "wikilink")[柴油机车车型之一](../Page/柴油機車.md "wikilink")，总共四台机车于1967年交付使用，全部配属[北京铁路局](../Page/中国铁路北京局集团有限公司.md "wikilink")[北京内燃机务段](https://zh.wikipedia.org/wiki/北京内燃机务段 "wikilink")，引进目的是为了借鉴西德在液力传动方面的先进技术。NY5型柴油机车是在[德国联邦铁路](https://zh.wikipedia.org/wiki/德国联邦铁路 "wikilink")[V320型柴油机车基础上](../Page/德国联邦铁路V320型柴油机车.md "wikilink")，根据中国方面订货要求而设计的客货运通用液力传动柴油机车，工况齿轮箱的传动齿轮比可根据运用需要进行设置，使机车具有160公里/小时和120公里/小时两种最高速度，分别用于[客运和](https://zh.wikipedia.org/wiki/旅客列车 "wikilink")[货运用途](https://zh.wikipedia.org/wiki/货物列车 "wikilink")。机车设有两套相同而有独立的动力传动机组，车上装有两台[戴姆勒-奔驰](https://zh.wikipedia.org/wiki/戴姆勒-奔驰 "wikilink")[MB
 839
-Bb型高速柴油机](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰MB_835型柴油机 "wikilink")，以及两台[福伊特L](../Page/福伊特.md "wikilink")830rU型液力变速箱，机车名义功率为4000马力，最大运用功率为3400马力\[1\]。
+Bb型高速柴油机](../Page/梅赛德斯-奔驰MB_835型柴油机.md "wikilink")，以及两台[福伊特L](../Page/福伊特.md "wikilink")830rU型液力变速箱，机车名义功率为4000马力，最大运用功率为3400马力\[1\]。
 
 ## 发展历史
 
@@ -12,14 +12,14 @@ C'C'型液力传动柴油机车投入运用](https://zh.wikipedia.org/wiki/ML400
 
 ### 引进过程
 
-为了引进西德的液力传动先进技术，中国早于1961年已经开始与西德的机车车辆制造企业接触\[4\]，就引进大功率液力传动柴油机车的计划进行磋商，并派员赴[西欧多国对柴油机](../Page/西欧.md "wikilink")、液力传动装置、柴油机车进行选型考察。亨舍尔、[克虏伯](https://zh.wikipedia.org/wiki/克虏伯 "wikilink")、[克劳斯-玛菲](../Page/克劳斯-玛菲.md "wikilink")、等著名机车制造商，都曾经向中国推荐过多种大功率柴油机车的技术方案。1965年12月，经过比较和参考[德国联邦铁路液力传动柴油机车的使用情况后](https://zh.wikipedia.org/wiki/德国联邦铁路 "wikilink")，[中国技术进出口总公司与西德亨舍尔公司正式签订总值约合](https://zh.wikipedia.org/wiki/中国技术进出口总公司 "wikilink")250万[美元的外贸合同](../Page/美元.md "wikilink")\[5\]，引进四台以[德国联邦铁路V320型柴油机车为基础](../Page/德国联邦铁路V320型柴油机车.md "wikilink")\[6\]、根据中国方面订货要求而设计的4000马力液力传动柴油机车，作为自主研制大马力液力传动柴油机车的技术样板。
+为了引进西德的液力传动先进技术，中国早于1961年已经开始与西德的机车车辆制造企业接触\[4\]，就引进大功率液力传动柴油机车的计划进行磋商，并派员赴[西欧多国对柴油机](../Page/西欧.md "wikilink")、液力传动装置、柴油机车进行选型考察。亨舍尔、[克虏伯](https://zh.wikipedia.org/wiki/克虏伯 "wikilink")、[克劳斯-玛菲](../Page/克劳斯-玛菲.md "wikilink")、等著名机车制造商，都曾经向中国推荐过多种大功率柴油机车的技术方案。1965年12月，经过比较和参考[德国联邦铁路液力传动柴油机车的使用情况后](https://zh.wikipedia.org/wiki/德国联邦铁路 "wikilink")，[中国技术进出口总公司与西德亨舍尔公司正式签订总值约合](../Page/中国技术进出口总公司.md "wikilink")250万[美元的外贸合同](../Page/美元.md "wikilink")\[5\]，引进四台以[德国联邦铁路V320型柴油机车为基础](../Page/德国联邦铁路V320型柴油机车.md "wikilink")\[6\]、根据中国方面订货要求而设计的4000马力液力传动柴油机车，作为自主研制大马力液力传动柴油机车的技术样板。
 
 在东西方对峙持续升温的[冷战时期](../Page/冷战.md "wikilink")，西方国家对华技术输出不免触动美国的神经，而且当时拥有亨舍尔公司49%股份的美资，亦可能愿意为这笔交易安排融资\[7\]。根据已解密外交档案显示，[美国财政部最早在](../Page/美国财政部.md "wikilink")1963年5月已经开始评估这一交易的影响，但这时[华府内部已经逐渐形成了一个共识](../Page/华盛顿哥伦比亚特区.md "wikilink")，认为如果继续向美国公司的盟友和国外子公司施加压力、要求严格控制对华贸易，这在政治上和经济上都是徒劳的，因此华府没有试图阻止亨舍尔向中国出售铁路机车\[8\]。
 
 这种4000马力液力传动柴油机车采用双机组设计，机车上设有两套相同的动力传动装置，并选用[戴姆勒-奔驰](https://zh.wikipedia.org/wiki/戴姆勒-奔驰 "wikilink")[MB
 839
-Bb型高速柴油机和](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰MB_835型柴油机 "wikilink")[福伊特L](../Page/福伊特.md "wikilink")830rU型液力传动装置，机车还设有工况齿轮机构，当作为客运机车时的最高速度为160公里/小时，作为货运机车时的最高速度为120公里/小时\[9\]\[10\]。该型机车在中国国内被定型为**NY5型柴油机车**，其中“N”代表内燃机车、“Y”代表液力传动，机车编号为0001～0004。该型机车由位于德国[黑森州](../Page/黑森.md "wikilink")[卡塞尔的亨舍尔机车工厂组装](../Page/卡塞爾市.md "wikilink")，在亨舍尔公司的内部设计代号为**DHG
-4000**，机车生产序号为31.196～31.199\[11\]。1966年底，NY5型柴油机车出厂后在[巴伐利亚州境内的](../Page/巴伐利亚.md "wikilink")（[班贝格至](https://zh.wikipedia.org/wiki/班贝格车站 "wikilink")区段）完成了高速运行试验（该区段是德国联邦铁路第一个时速200公里的高速试验区段），最高速度达160公里/小时\[12\]。机车完成出厂验收试验后在[汉堡港分两批装船启运](https://zh.wikipedia.org/wiki/汉堡港 "wikilink")。
+Bb型高速柴油机和](../Page/梅赛德斯-奔驰MB_835型柴油机.md "wikilink")[福伊特L](../Page/福伊特.md "wikilink")830rU型液力传动装置，机车还设有工况齿轮机构，当作为客运机车时的最高速度为160公里/小时，作为货运机车时的最高速度为120公里/小时\[9\]\[10\]。该型机车在中国国内被定型为**NY5型柴油机车**，其中“N”代表内燃机车、“Y”代表液力传动，机车编号为0001～0004。该型机车由位于德国[黑森州](../Page/黑森.md "wikilink")[卡塞尔的亨舍尔机车工厂组装](../Page/卡塞爾市.md "wikilink")，在亨舍尔公司的内部设计代号为**DHG
+4000**，机车生产序号为31.196～31.199\[11\]。1966年底，NY5型柴油机车出厂后在[巴伐利亚州境内的](../Page/巴伐利亚.md "wikilink")（[班贝格至](../Page/班贝格车站.md "wikilink")区段）完成了高速运行试验（该区段是德国联邦铁路第一个时速200公里的高速试验区段），最高速度达160公里/小时\[12\]。机车完成出厂验收试验后在[汉堡港分两批装船启运](../Page/汉堡港.md "wikilink")。
 
 ### 运用历史
 
@@ -27,9 +27,9 @@ Bb型高速柴油机和](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰MB_835
 
 NY5型机车投入运用以后由于性能表现良好，同时为了缓解缺乏大功率柴油机车的局面，中国于1970年决定再次向亨舍尔公司订购一批功率更大的液力传动柴油机车，包括装用[MTU
 16V 652
-TB10型柴油机的](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰MB_835型柴油机 "wikilink")[NY6型柴油机车](../Page/NY6型柴油机车.md "wikilink")（4600马力），以及装用[MTU
+TB10型柴油机的](../Page/梅赛德斯-奔驰MB_835型柴油机.md "wikilink")[NY6型柴油机车](../Page/NY6型柴油机车.md "wikilink")（4600马力），以及装用[MTU
 12V 956
-SB10型柴油机](https://zh.wikipedia.org/wiki/MTU_956系列柴油机 "wikilink")、号称当时世界上单机功率最大液力传动柴油机车的[NY7型柴油机车](../Page/NY7型柴油机车.md "wikilink")（5400马力），这三种车型被机务部门昵称为“大马力”\[15\]。1970年代，“大马力”机车主要担当[京包铁路](../Page/京包铁路.md "wikilink")[北京至](../Page/北京站.md "wikilink")[张家口](https://zh.wikipedia.org/wiki/张家口南站 "wikilink")、[京山铁路北京至](../Page/京山铁路.md "wikilink")[山海关](https://zh.wikipedia.org/wiki/山海关站 "wikilink")、[京广铁路北京至](../Page/京广铁路.md "wikilink")[安阳区段的](../Page/安阳站.md "wikilink")[旅客列车牵引任务](https://zh.wikipedia.org/wiki/旅客列车 "wikilink")。1970年代后期开始，随着北京内燃机务段增配[北京型柴油机车](../Page/北京型柴油机车.md "wikilink")，“大马力”机车改为担当京包铁路、[京承铁路](../Page/京承铁路.md "wikilink")、[京原铁路](../Page/京原铁路.md "wikilink")、[丰沙铁路等北京周边山区铁路干线的客运牵引任务](../Page/丰沙铁路.md "wikilink")，其中NY5型机车主要用于牵引丰沙铁路北京至张家口区段的旅客列车。
+SB10型柴油机](../Page/MTU_956系列柴油机.md "wikilink")、号称当时世界上单机功率最大液力传动柴油机车的[NY7型柴油机车](../Page/NY7型柴油机车.md "wikilink")（5400马力），这三种车型被机务部门昵称为“大马力”\[15\]。1970年代，“大马力”机车主要担当[京包铁路](../Page/京包铁路.md "wikilink")[北京至](../Page/北京站.md "wikilink")[张家口](../Page/张家口南站.md "wikilink")、[京山铁路北京至](../Page/京山铁路.md "wikilink")[山海关](https://zh.wikipedia.org/wiki/山海关站 "wikilink")、[京广铁路北京至](../Page/京广铁路.md "wikilink")[安阳区段的](../Page/安阳站.md "wikilink")[旅客列车牵引任务](https://zh.wikipedia.org/wiki/旅客列车 "wikilink")。1970年代后期开始，随着北京内燃机务段增配[北京型柴油机车](../Page/北京型柴油机车.md "wikilink")，“大马力”机车改为担当京包铁路、[京承铁路](../Page/京承铁路.md "wikilink")、[京原铁路](../Page/京原铁路.md "wikilink")、[丰沙铁路等北京周边山区铁路干线的客运牵引任务](../Page/丰沙铁路.md "wikilink")，其中NY5型机车主要用于牵引丰沙铁路北京至张家口区段的旅客列车。
 
 “大马力”机车拥有当时国际上最为先进的液力传动技术，对中国的液力传动柴油机车发展具有重要的促进作用，中国从中吸收了[变扭器叶型](https://zh.wikipedia.org/wiki/液力变矩器 "wikilink")、端面齿轮连接、[万向轴和](../Page/万向接头.md "wikilink")[轴承等方面的设计制造技术](../Page/轴承.md "wikilink")，使国产液力传动装置的性能和可靠性得到大幅提升，并且被应用于北京型、[东方红3型](../Page/东方红3型柴油机车.md "wikilink")、[东方红4型等国产机车](../Page/东方红4型柴油机车.md "wikilink")，特别是采用单机组传动系统的北京型柴油机车，其液力变扭器效率和轮周效率均已达到了世界先进水平。“大马力”系列机车一直以极高的安全可靠性而备受机务部门赞誉，根据1980年北京内燃机务段液力传动机车使用情况的数字统计，“大马力”机车的每十万公里机破件数、临修件数、机车不良率均优于国产的东方红3型、北京型机车，零部件检修周期亦一般比国产机车长约五倍，而配件的磨耗和更换率也相对较低\[16\]。
 
@@ -46,14 +46,13 @@ SB10型柴油机](https://zh.wikipedia.org/wiki/MTU_956系列柴油机 "wikilink
 [China_Railways_NY5_0003_bogie_20100618.jpg](https://zh.wikipedia.org/wiki/File:China_Railways_NY5_0003_bogie_20100618.jpg "fig:China_Railways_NY5_0003_bogie_20100618.jpg")
 NY5型柴油机车是4000马力干线客货两用液力传动柴油机车，机车采用[全钢](../Page/钢.md "wikilink")[焊接结构的框架承载式车体](../Page/焊接.md "wikilink")，焊接在一起的车体和车架共同构成一个[刚性的整体承载结构](https://zh.wikipedia.org/wiki/剛度 "wikilink")。车底架长度为21,500毫米，[转向架中心间距为](../Page/轉向架.md "wikilink")12,300毫米，车钩中心线间距为23,110毫米，车架两端设有装有[排障器](https://zh.wikipedia.org/wiki/排障器 "wikilink")、[自动车钩和](https://zh.wikipedia.org/wiki/詹尼车钩 "wikilink")。车体部分用轻型钢结构制成，并在外部敷以薄钢板作为蒙皮。机车采用双端司机室、双侧对称结构的布置，可根据行车方向由机车任一端司机室操纵机车，但由于未考虑到机车运行过程中对动力室的巡检，两端司机室仅用单侧通道相连。车内设备布局采用双机组对称布置，装有两套相同而独立的动力传动机组，每套机组包括一台[柴油机及传动装置](../Page/柴油引擎.md "wikilink")，可以根据需要使用其中任何一套或两套同时工作。车体内部从前端至后端分为第一司机室、第一动力室、传动冷却室、第二动力室、第二司机室等五个部分\[19\]\[20\]。
 
-司机室内设有正副司机操纵台、电气控制柜、[空气制动阀](../Page/空气制动.md "wikilink")、手制动器手轮等设备。两个动力室各装有一台柴油机，以及[燃油及](../Page/燃料.md "wikilink")[机油的输送和加热等配套设备](../Page/機油.md "wikilink")。第一动力室内装有一台电动的主[空气压缩机](https://zh.wikipedia.org/wiki/压缩机 "wikilink")，另外还设有一台辅助柴油机，用于驱动辅助空气压缩机和辅助[发电机](../Page/发电机.md "wikilink")；第二动力室内还设有一台预热锅炉。当机车长时间停车待机时，由辅助柴油机供应辅助电源和[压缩空气](https://zh.wikipedia.org/wiki/压缩空气 "wikilink")，避免主柴油机在无负荷情况下长时间运转，并且有效节省燃油消耗。传动冷却室内下部的车架上装有两组液力传动装置，每组液力传动装置各自设有辅助输出轴，并通过[弹性联轴节驱动起动发电机和静液压泵](../Page/联轴器.md "wikilink")。NY5型柴油机车设有两套彼此独立的冷却水系统，两套V型结构的[散热器组设置在传动装置上方](../Page/散热器.md "wikilink")，每组[铜质管片式散热器由](../Page/铜.md "wikilink")28个冷却单节组成，散热器元件采用德国著名冷却设备制造商（Behr）的产品。每组散热器各设有两台轴流式[冷却风扇](../Page/风扇.md "wikilink")，分别为柴油机主循环系统和[中冷器次循环系统冷却](https://zh.wikipedia.org/wiki/中冷器 "wikilink")。冷却空气从车体侧墙上的通风百叶窗口吸入，流经散热器和吸收[热量之后从车顶排出](https://zh.wikipedia.org/wiki/熱量 "wikilink")。车体下方两台转向架之间的空间，吊挂着一个容量为7700升的燃油箱、两个总风缸和[蓄电池组](../Page/蓄電池.md "wikilink")\[21\]。
+司机室内设有正副司机操纵台、电气控制柜、[空气制动阀](../Page/空气制动.md "wikilink")、手制动器手轮等设备。两个动力室各装有一台柴油机，以及[燃油及](../Page/燃料.md "wikilink")[机油的输送和加热等配套设备](../Page/機油.md "wikilink")。第一动力室内装有一台电动的主[空气压缩机](https://zh.wikipedia.org/wiki/压缩机 "wikilink")，另外还设有一台辅助柴油机，用于驱动辅助空气压缩机和辅助[发电机](../Page/发电机.md "wikilink")；第二动力室内还设有一台预热锅炉。当机车长时间停车待机时，由辅助柴油机供应辅助电源和[压缩空气](https://zh.wikipedia.org/wiki/压缩空气 "wikilink")，避免主柴油机在无负荷情况下长时间运转，并且有效节省燃油消耗。传动冷却室内下部的车架上装有两组液力传动装置，每组液力传动装置各自设有辅助输出轴，并通过[弹性联轴节驱动起动发电机和静液压泵](../Page/联轴器.md "wikilink")。NY5型柴油机车设有两套彼此独立的冷却水系统，两套V型结构的[散热器组设置在传动装置上方](../Page/散热器.md "wikilink")，每组[铜质管片式散热器由](../Page/铜.md "wikilink")28个冷却单节组成，散热器元件采用德国著名冷却设备制造商（Behr）的产品。每组散热器各设有两台轴流式[冷却风扇](../Page/风扇.md "wikilink")，分别为柴油机主循环系统和[中冷器次循环系统冷却](../Page/中冷器.md "wikilink")。冷却空气从车体侧墙上的通风百叶窗口吸入，流经散热器和吸收[热量之后从车顶排出](https://zh.wikipedia.org/wiki/熱量 "wikilink")。车体下方两台转向架之间的空间，吊挂着一个容量为7700升的燃油箱、两个总风缸和[蓄电池组](../Page/蓄電池.md "wikilink")\[21\]。
 
 ### 柴油机
 
 NY5型柴油机车装用两台由[戴姆勒-奔驰公司制造的](https://zh.wikipedia.org/wiki/戴姆勒-奔驰 "wikilink")[MB
-839
-Bb型柴油机](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰MB_835型柴油机 "wikilink")，该型柴油机是在[MB
-820型柴油机基础上发展而来的](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰MB_820型柴油机 "wikilink")[四冲程](https://zh.wikipedia.org/wiki/四冲程循环 "wikilink")、[16气缸](https://zh.wikipedia.org/wiki/V16发动机 "wikilink")、[V型结构](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")、[预燃室式](https://zh.wikipedia.org/wiki/预燃室 "wikilink")、[废气涡轮增压](../Page/渦輪增壓器.md "wikilink")、[中间冷却的高速柴油机](https://zh.wikipedia.org/wiki/中冷器 "wikilink")，气缸内径为190毫米，[活塞行程为](https://zh.wikipedia.org/wiki/冲程 "wikilink")230毫米，气缸夹角为45°，[UIC标定功率为](../Page/國際鐵路聯盟.md "wikilink")2,000马力，装车功率为1,700马力，标定转速为每分钟1,450转。在V型夹角上面布置着两台[勃朗-包维利公司](https://zh.wikipedia.org/wiki/勃朗-包维利股份公司 "wikilink")（BBC）制造的VTR
+839 Bb型柴油机](../Page/梅赛德斯-奔驰MB_835型柴油机.md "wikilink")，该型柴油机是在[MB
+820型柴油机基础上发展而来的](../Page/梅赛德斯-奔驰MB_820型柴油机.md "wikilink")[四冲程](https://zh.wikipedia.org/wiki/四冲程循环 "wikilink")、[16气缸](https://zh.wikipedia.org/wiki/V16发动机 "wikilink")、[V型结构](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")、[预燃室式](https://zh.wikipedia.org/wiki/预燃室 "wikilink")、[废气涡轮增压](../Page/渦輪增壓器.md "wikilink")、[中间冷却的高速柴油机](../Page/中冷器.md "wikilink")，气缸内径为190毫米，[活塞行程为](https://zh.wikipedia.org/wiki/冲程 "wikilink")230毫米，气缸夹角为45°，[UIC标定功率为](../Page/國際鐵路聯盟.md "wikilink")2,000马力，装车功率为1,700马力，标定转速为每分钟1,450转。在V型夹角上面布置着两台[勃朗-包维利公司](https://zh.wikipedia.org/wiki/勃朗-包维利股份公司 "wikilink")（BBC）制造的VTR
 250型涡轮增压器，每台增压器旁边还设有用于冷却增压空气的中冷器，其排气管与柴油机进气管相连。柴油机采用整体铸铁机体、特种铸铁湿式气缸套、整体[铝合金非油冷](../Page/鋁合金.md "wikilink")[活塞](https://zh.wikipedia.org/wiki/活塞 "wikilink")、合金钢整体锻造[曲轴](https://zh.wikipedia.org/wiki/曲轴 "wikilink")、单体式铸铁[气缸盖](https://zh.wikipedia.org/wiki/汽缸蓋 "wikilink")、叉形连杆组、硅油减震器。除了出口中国的NY5型柴油机车外，MB
 839系列柴油机还大量装用于[德国联邦铁路的](https://zh.wikipedia.org/wiki/德国联邦铁路 "wikilink")[V160](../Page/德国联邦铁路V160型柴油机车.md "wikilink")、[V162型单机组液力传动柴油机车](../Page/德国联邦铁路V162型柴油机车.md "wikilink")，以及[V320型双机组液力传动柴油机车](../Page/德国联邦铁路V320型柴油机车.md "wikilink")。
 

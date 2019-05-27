@@ -1,5 +1,5 @@
 **Yak-B
-12.7**（；圖拉設計局原廠編號：TKB-063；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：）是一挺由[前苏联](../Page/苏联.md "wikilink")[P.G.
+12.7**（；圖拉設計局原廠編號：TKB-063；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：）是一挺由[前苏联](../Page/苏联.md "wikilink")[P.G.
 Jakuschew和](https://zh.wikipedia.org/wiki/P.G._Jakuschew "wikilink")[B.A.
 Borsow所設計](https://zh.wikipedia.org/wiki/B.A._Borsow "wikilink")、[KBP儀器設計廠生產的遙控型高轉速](../Page/俄联邦仪器设计局.md "wikilink")4[槍管](../Page/槍管.md "wikilink")[加特林式](../Page/加特林机枪.md "wikilink")[机枪](../Page/机枪.md "wikilink")，類似的槍械是[GAU-19](../Page/GAU-19加特林重機槍.md "wikilink")，發射[12.7×108毫米俄羅斯](../Page/12.7×108mm.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50俄羅斯）[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。其名字的來源是開發商的最後的字母縮寫和[亞庫舍夫·波薩克](https://zh.wikipedia.org/wiki/亞庫舍夫·波薩克 "wikilink")（）。
 
@@ -57,7 +57,7 @@ Mi-24上的Yak-B
 ## 衍生型
 
 **Yak-BYu
-12.7**（；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：）是Yak-B
+12.7**（；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：）是Yak-B
 12.7的現代化改進型。除了令射速不低於4,500發／分鐘外，並且把[槍管的壽命延長至](../Page/槍管.md "wikilink")80,000至120,000發。目前，Yak-BYu
 12.7就是該系列之中最完善的版本。
 

@@ -10,7 +10,7 @@
 
 音樂下載限定
 《[為了誰 -What can I do for
-someone?-](https://zh.wikipedia.org/wiki/為了誰_-What_can_I_do_for_someone?- "wikilink")》
+someone?-](../Page/為了誰_-What_can_I_do_for_someone?-.md "wikilink")》
 （2011年） | This single = 《**Everyday、髮箍**》
 （2011年） | Next single =《[飛翔入手](../Page/飛翔入手.md "wikilink")》
 （2011年） | Misc =  }}
@@ -27,7 +27,7 @@ Lady](https://zh.wikipedia.org/wiki/Pink_Lady "wikilink")、[光GENJI和](../Pag
 2011年4月16日，AKB48在[大阪巨蛋舉行的](../Page/大阪巨蛋.md "wikilink")《[變成櫻花樹](../Page/變成櫻花樹.md "wikilink")》發售紀念握手會中首次披露單曲的參加成員數目，共計有26位選拔成員\[20\]，為歷來最高紀錄\[21\]。其後，AKB48在《[MUSIC
 STATION](../Page/MUSIC_STATION.md "wikilink")》\[22\]、《[SMAP×SMAP](https://zh.wikipedia.org/wiki/SMAP×SMAP "wikilink")》\[23\]
 和《[MUSIC
-JAPAN](../Page/MUSIC_JAPAN.md "wikilink")》等音樂節目都有為單曲進行宣傳\[24\]。5月29日，AKB48在[橫濱球場舉辦了單曲發售的握手會](../Page/橫濱球場.md "wikilink")，大雨下仍然有1萬2千人出席\[25\]。6月4日，AKB48在大阪巨蛋舉行全國握手會以感謝歌迷對單曲的支持\[26\]，其後在[名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")\[27\]、\[28\]</ref>、[真駒內屋內競技場](https://zh.wikipedia.org/wiki/真駒內屋內競技場 "wikilink")\[29\]、\[30\]
+JAPAN](../Page/MUSIC_JAPAN.md "wikilink")》等音樂節目都有為單曲進行宣傳\[24\]。5月29日，AKB48在[橫濱球場舉辦了單曲發售的握手會](../Page/橫濱球場.md "wikilink")，大雨下仍然有1萬2千人出席\[25\]。6月4日，AKB48在大阪巨蛋舉行全國握手會以感謝歌迷對單曲的支持\[26\]，其後在[名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")\[27\]、\[28\]</ref>、[真駒內屋內競技場](../Page/真駒內屋內競技場.md "wikilink")\[29\]、\[30\]
 和[東京國際展示場都分別舉行了握手會](../Page/東京國際展示場.md "wikilink")\[31\]。AKB48、SKE48和NMB48的部分成員亦在台灣[第22屆金曲獎宣傳單曲](https://zh.wikipedia.org/wiki/第22屆金曲獎 "wikilink")，其中沒有參與這首單曲的成員亦有份在活動中演唱，例如SKE48的[小木曾汐莉和](../Page/小木曾汐莉.md "wikilink")[須田亞香里等](../Page/須田亞香里.md "wikilink")\[32\]。
 
 ## 歌曲

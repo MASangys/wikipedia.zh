@@ -1,6 +1,6 @@
 **GeoGebra**是一个在[GPL协议下发布的](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")[动态數學(几何)软件](https://zh.wikipedia.org/wiki/动态數學\(几何\)软件 "wikilink")。
 该项目于2001年由Markus Hohenwarter\[1\]在奧地利
-[萨尔茨堡大学创建](https://zh.wikipedia.org/wiki/萨尔茨堡大学 "wikilink").
+[萨尔茨堡大学创建](../Page/萨尔茨堡大学.md "wikilink").
 
 ## 简介
 

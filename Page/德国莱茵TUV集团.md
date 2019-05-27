@@ -16,7 +16,7 @@ Brandenburg Pfalz e.V.是单一股东。
 
 <!-- end list -->
 
-  - 产品服务类别：商用与工业产品、电子电气产品、能源、轻工产品、[医疗器械](../Page/医疗器械.md "wikilink")、[贸易与](../Page/贸易.md "wikilink")[零售商服务](../Page/零售商.md "wikilink")、[纺织品](https://zh.wikipedia.org/wiki/纺织品 "wikilink")、[玩具及](../Page/玩具.md "wikilink")[化学](https://zh.wikipedia.org/wiki/化学 "wikilink")。
+  - 产品服务类别：商用与工业产品、电子电气产品、能源、轻工产品、[医疗器械](../Page/医疗器械.md "wikilink")、[贸易与](../Page/贸易.md "wikilink")[零售商服务](../Page/零售商.md "wikilink")、[纺织品](../Page/纺织品.md "wikilink")、[玩具及](../Page/玩具.md "wikilink")[化学](https://zh.wikipedia.org/wiki/化学 "wikilink")。
 
 <!-- end list -->
 

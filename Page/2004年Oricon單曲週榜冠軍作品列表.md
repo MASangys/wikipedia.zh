@@ -215,7 +215,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Wonderland" title="wikilink">Wonderland</a></p></td>
+<td><p><a href="../Page/Wonderland.md" title="wikilink">Wonderland</a></p></td>
 <td><p><a href="../Page/稻葉浩志.md" title="wikilink">稻葉浩志</a></p></td>
 <td><p>15.5</p></td>
 <td><p>1</p></td>

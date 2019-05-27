@@ -55,7 +55,7 @@ stacks）、各行程檔案命名空間的命名空間直譯器（evaluator）�
 Inferno是[九號計畫的衍生產品](../Page/貝爾實驗室九號計畫.md "wikilink")，彼此之間有許多共通的設計概念以及核心中的程式碼，特別是關於裝置以及Styx/9P2000協定的部份。Inferno也把[Unix哲學與自貝爾實驗室繼承而來的UNIX經驗分享給九號計畫的專案](https://zh.wikipedia.org/wiki/Unix哲學 "wikilink")。許多Inferno的命令列工具原先也都是九號計畫的工具，之後才用Limbo語言改寫。
 
 [IEEE Internet
-Computing在](https://zh.wikipedia.org/wiki/IEEE_Internet_Computing "wikilink")1997年3-4月的刊物中有Inferno網路軟體的廣告。該廣告宣稱可利用多種裝置在包含網際網路、電信網路，以及區域網路等之"任何網路"上進行通訊。圖中甚至擺放了[PlayStation之類的照片](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，如果電玩可以跟電腦溝通、手機可以存取電子郵件、電視可以存取語音郵件。
+Computing在](https://zh.wikipedia.org/wiki/IEEE_Internet_Computing "wikilink")1997年3-4月的刊物中有Inferno網路軟體的廣告。該廣告宣稱可利用多種裝置在包含網際網路、電信網路，以及區域網路等之"任何網路"上進行通訊。圖中甚至擺放了[PlayStation之類的照片](../Page/PlayStation.md "wikilink")，如果電玩可以跟電腦溝通、手機可以存取電子郵件、電視可以存取語音郵件。
 
 [貝爾實驗室計算科學研究中心](https://zh.wikipedia.org/wiki/貝爾實驗室 "wikilink")（Computing
 Science Research Center）的成員[Ken

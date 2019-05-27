@@ -20,7 +20,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")�
     在[BTOB演唱會HelloMelody中作為嘉賓](../Page/BTOB.md "wikilink")
   - 2015年 加入Woollim Entertainment
   - 2017年 參加KBS選秀節目「[The
-    Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")」，於第11集被淘汰，最終排名33名。
+    Unit](../Page/The_Unit.md "wikilink")」，於第11集被淘汰，最終排名33名。
   - 2019年 5月與同齡的圈外男友步入婚姻，並舉行非公開婚禮。
 
 ## 音樂

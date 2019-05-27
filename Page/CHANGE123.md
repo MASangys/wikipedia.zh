@@ -1,5 +1,5 @@
-《**CHANGE123**》（）的原作是[坂口一克](https://zh.wikipedia.org/wiki/坂口一克 "wikilink")，作画是[岩泽紫丽](https://zh.wikipedia.org/wiki/岩泽紫丽 "wikilink")。于[秋田书店的月刊漫画杂志](https://zh.wikipedia.org/wiki/秋田书店 "wikilink")《[Champion
-RED](https://zh.wikipedia.org/wiki/Champion_RED "wikilink")》2005年6月号开始连载，直到2010年6月号结束。单行本全12卷。作品的基本类型是综合了[爱情喜剧与](https://zh.wikipedia.org/wiki/爱情喜剧 "wikilink")[格斗技的](https://zh.wikipedia.org/wiki/格斗技 "wikilink")[少年漫画](../Page/少年漫画.md "wikilink")。中文单行本分别由[玉皇朝与](../Page/玉皇朝.md "wikilink")[尖端出版发售](../Page/尖端出版.md "wikilink")。
+《**CHANGE123**》（）的原作是[坂口一克](../Page/坂口一克.md "wikilink")，作画是[岩泽紫丽](https://zh.wikipedia.org/wiki/岩泽紫丽 "wikilink")。于[秋田书店的月刊漫画杂志](https://zh.wikipedia.org/wiki/秋田书店 "wikilink")《[Champion
+RED](../Page/Champion_RED.md "wikilink")》2005年6月号开始连载，直到2010年6月号结束。单行本全12卷。作品的基本类型是综合了[爱情喜剧与](https://zh.wikipedia.org/wiki/爱情喜剧 "wikilink")[格斗技的](https://zh.wikipedia.org/wiki/格斗技 "wikilink")[少年漫画](../Page/少年漫画.md "wikilink")。中文单行本分别由[玉皇朝与](../Page/玉皇朝.md "wikilink")[尖端出版发售](../Page/尖端出版.md "wikilink")。
 
 于2008年发售了[广播剧CD](https://zh.wikipedia.org/wiki/广播剧CD "wikilink")。
 
@@ -137,7 +137,7 @@ RED](https://zh.wikipedia.org/wiki/Champion_RED "wikilink")》2005年6月号开�
 
   - 月斗素子：[福圆美里](https://zh.wikipedia.org/wiki/福圆美里 "wikilink")
   - 一响：[浅川悠](https://zh.wikipedia.org/wiki/浅川悠 "wikilink")
-  - 不二子：[堀越知惠](https://zh.wikipedia.org/wiki/堀越知惠 "wikilink")
+  - 不二子：[堀越知惠](../Page/堀越知惠.md "wikilink")
   - 三桐：[今野宏美](../Page/今野宏美.md "wikilink")
   - 小介川：[间岛淳司](https://zh.wikipedia.org/wiki/间岛淳司 "wikilink")
 

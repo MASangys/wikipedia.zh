@@ -13,7 +13,7 @@ color's〜](../Page/Sketch_book～素描簿～.md "wikilink")》的分工製作�
 Pictures合作首次參與製作熱門電視動畫](../Page/A-1_Pictures.md "wikilink")，並由山本寬擔任《[神薙](../Page/神薙.md "wikilink")》的導演。2010年才首次獨力制作單集動畫《[BLACK★ROCK
 SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》。
 
-2011年8月，Ordet與3DCG製作公司[三次元](https://zh.wikipedia.org/wiki/三次元_\(動畫製作公司\) "wikilink")、專門執行平面動畫製作的[TRIGGER及](../Page/TRIGGER.md "wikilink")[LIDENFILMS共同組成](../Page/LIDENFILMS.md "wikilink")*'
+2011年8月，Ordet與3DCG製作公司[三次元](../Page/三次元_\(動畫製作公司\).md "wikilink")、專門執行平面動畫製作的[TRIGGER及](../Page/TRIGGER.md "wikilink")[LIDENFILMS共同組成](../Page/LIDENFILMS.md "wikilink")*'
 Ultra Super Pictures 公司*'。
 
 2012年，Ordet動畫部旗下所有動畫師移籍LIDENFILMS。
@@ -46,7 +46,7 @@ Ultra Super Pictures 公司*'。
 <td><p>2月－3月</p></td>
 <td><p>吉岡忍</p></td>
 <td><p>原創</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/三次元_(動畫製作公司)" title="wikilink">三次元共同製作</a>。</p></td>
+<td><p>與<a href="../Page/三次元_(動畫製作公司).md" title="wikilink">三次元共同製作</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
@@ -177,7 +177,7 @@ Ultra Super Pictures 公司*'。
 
   - Blossom（2012年）
   - [宫河家的空腹](../Page/宫河家的空腹.md "wikilink")（）（與[ENCOURAGE
-    FILMS共同製作](https://zh.wikipedia.org/wiki/ENCOURAGE_FILMS "wikilink")，2013年）
+    FILMS共同製作](../Page/ENCOURAGE_FILMS.md "wikilink")，2013年）
   - Passepied - Tokyo City Underground（MV製作，2014年）
   - [ぇいくあっぷがーるZOO\!](../Page/Wake_Up,_Girls!.md "wikilink")（與Studio
     Moriken共同製作，2014年）
@@ -188,8 +188,7 @@ Ultra Super Pictures 公司*'。
 
 #### 廣告
 
-  - [武士道](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink") 系列廣告
-    花見篇（2012年）
+  - [武士道](../Page/武士道_\(公司\).md "wikilink") 系列廣告 花見篇（2012年）
 
   - （動畫部分，宣傳動畫製作，2014年）
 
@@ -212,7 +211,7 @@ Ultra Super Pictures 公司*'。
     Pictures，各話協力製作，2011年）
   - [WORKING'\!\!](../Page/迷糊餐廳.md "wikilink")（總承包商：A-1
     Pictures，各話協力製作，2011年）
-  - [坂道上的阿波羅](../Page/坂道上的阿波羅.md "wikilink")（）（總承包商：[MAPPA](https://zh.wikipedia.org/wiki/MAPPA "wikilink")、[手塚製作公司](../Page/手塚製作公司.md "wikilink")，各話協力製作，2012年）
+  - [坂道上的阿波羅](../Page/坂道上的阿波羅.md "wikilink")（）（總承包商：[MAPPA](../Page/MAPPA.md "wikilink")、[手塚製作公司](../Page/手塚製作公司.md "wikilink")，各話協力製作，2012年）
   - [超譯百人一首戀歌](../Page/超譯百人一首戀歌.md "wikilink")（）（總承包商：[TYO
     Animations](https://zh.wikipedia.org/wiki/TYO_Animations "wikilink")，各話協力製作，2012年）
   - [白色相簿2](../Page/白色相簿2.md "wikilink")（）（總承包商：[SATELIGHT](../Page/SATELIGHT.md "wikilink")，各話協力製作，2013年）
@@ -239,7 +238,7 @@ Ultra Super Pictures 公司*'。
   - [山本寬](../Page/山本寬.md "wikilink") (監督・演出・分鏡)
   - [吉岡忍](https://zh.wikipedia.org/wiki/吉岡忍 "wikilink") (監督・演出・分鏡)
   - [門脇聰](https://zh.wikipedia.org/wiki/門脇聰 "wikilink") (作畫監督)
-  - [松尾祐輔](https://zh.wikipedia.org/wiki/松尾祐輔 "wikilink") (作畫監督)
+  - [松尾祐輔](../Page/松尾祐輔.md "wikilink") (作畫監督)
   - [近岡直](https://zh.wikipedia.org/wiki/近岡直 "wikilink") (作畫監督)　
   - [袈裟丸絵美](https://zh.wikipedia.org/wiki/袈裟丸絵美 "wikilink") (美術監督)
   - [山崎雄太](https://zh.wikipedia.org/wiki/山崎雄太 "wikilink") (演出・分鏡)

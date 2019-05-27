@@ -5,7 +5,7 @@ SCEA於2009年11月17日推出重製《戰神》與《戰神II》戰神合輯版
 
 ## 概要
 
-《战神II》故事介于[战神：背叛和](https://zh.wikipedia.org/wiki/战神：背叛 "wikilink")[战神III之间](../Page/戰神III.md "wikilink")。克雷多斯成为战神之后，[斯巴达的军队战无不胜](../Page/斯巴达.md "wikilink")，最后，引起众神的愤怒，而克雷多斯被宙斯用计骗走神力，还被宙斯所杀，但是在通往[地狱的时候](https://zh.wikipedia.org/wiki/地狱 "wikilink")，被大地之母[盖亚所救](../Page/盖亚.md "wikilink")，并且鼓励克雷多斯杀死宙斯。所以，克雷多斯踏上了寻找[命运三女神的道路](https://zh.wikipedia.org/wiki/命运三女神 "wikilink")，终于，他杀死了命运三女神，改变了自己会被宙斯所杀的命运，最后与[宙斯大战](../Page/宙斯.md "wikilink")，在快要杀死他的时候，[雅典娜挺身而出](../Page/雅典娜.md "wikilink")，救了众神之神。但是不幸的是却被克雷多斯误杀，对于宙斯胆小鬼的行为，用自己的女儿来保命，克雷多斯愤怒了，他用命运女神的力量，来到了[泰坦和](https://zh.wikipedia.org/wiki/泰坦 "wikilink")[奥林匹斯山众神的战斗时刻](../Page/奥林匹斯山.md "wikilink")，将众泰坦带到了未来，一并向奥林匹斯山进军。
+《战神II》故事介于[战神：背叛和](../Page/战神：背叛.md "wikilink")[战神III之间](../Page/戰神III.md "wikilink")。克雷多斯成为战神之后，[斯巴达的军队战无不胜](../Page/斯巴达.md "wikilink")，最后，引起众神的愤怒，而克雷多斯被宙斯用计骗走神力，还被宙斯所杀，但是在通往[地狱的时候](https://zh.wikipedia.org/wiki/地狱 "wikilink")，被大地之母[盖亚所救](../Page/盖亚.md "wikilink")，并且鼓励克雷多斯杀死宙斯。所以，克雷多斯踏上了寻找[命运三女神的道路](https://zh.wikipedia.org/wiki/命运三女神 "wikilink")，终于，他杀死了命运三女神，改变了自己会被宙斯所杀的命运，最后与[宙斯大战](../Page/宙斯.md "wikilink")，在快要杀死他的时候，[雅典娜挺身而出](../Page/雅典娜.md "wikilink")，救了众神之神。但是不幸的是却被克雷多斯误杀，对于宙斯胆小鬼的行为，用自己的女儿来保命，克雷多斯愤怒了，他用命运女神的力量，来到了[泰坦和](https://zh.wikipedia.org/wiki/泰坦 "wikilink")[奥林匹斯山众神的战斗时刻](../Page/奥林匹斯山.md "wikilink")，将众泰坦带到了未来，一并向奥林匹斯山进军。
 
 ## 登場人物
 

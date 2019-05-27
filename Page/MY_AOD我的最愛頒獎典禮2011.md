@@ -301,7 +301,7 @@ Astro精彩預告（頻道302）和 Astro On Demand（頻道934）同步播出�
 
 ## 相關
 
-  - [星和無綫電視大獎2011](https://zh.wikipedia.org/wiki/星和無綫電視大獎2011 "wikilink")
+  - [星和無綫電視大獎2011](../Page/星和無綫電視大獎2011.md "wikilink")
   - [萬千星輝頒獎典禮2011](../Page/萬千星輝頒獎典禮2011.md "wikilink")
 
 [Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink")

@@ -279,7 +279,7 @@ CHORD」（），CHORD是「合音」之意。
 <ul>
 <li>發行日期：2018年7月12日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>備註：Prod. <a href="https://zh.wikipedia.org/wiki/Jung_Key" title="wikilink">Jung Key</a></li>
+<li>備註：Prod. <a href="../Page/Jung_Key.md" title="wikilink">Jung Key</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -471,7 +471,7 @@ From Me To You</p></td>
 <td><p>第二次分手的事</p></td>
 <td><p>두번헤어지는일</p></td>
 <td><p>Davichi</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/申昇勳" title="wikilink">申昇勳</a> 《申昇勳20th Anniversary紀念專輯》</p></td>
+<td><p><a href="../Page/申昇勳.md" title="wikilink">申昇勳</a> 《申昇勳20th Anniversary紀念專輯》</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年10月11日</p></td>
@@ -505,8 +505,8 @@ From Me To You</p></td>
 <td><p>2012年4月5日</p></td>
 <td><p>愛情都是那樣的吧</p></td>
 <td><p>사랑은 다 그런거래요</p></td>
-<td><p>李海莉 ＆ <a href="https://zh.wikipedia.org/wiki/Yangpa" title="wikilink">Yangpa</a> ＆ HANNA</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Yangpa" title="wikilink">Yangpa</a>《Together》</p></td>
+<td><p>李海莉 ＆ <a href="../Page/Yangpa.md" title="wikilink">Yangpa</a> ＆ HANNA</p></td>
+<td><p><a href="../Page/Yangpa.md" title="wikilink">Yangpa</a>《Together》</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年5月18日</p></td>
@@ -597,7 +597,7 @@ That's my fault</p></td>
 <td><p>2015年5月15日</p></td>
 <td><p>我們相遇的日子</p></td>
 <td><p>우리 만나는 날</p></td>
-<td><p>Davichi、、、<a href="../Page/DJ_DOC.md" title="wikilink">DJ DOC</a>、<a href="../Page/金範洙.md" title="wikilink">金範洙</a>、、<a href="https://zh.wikipedia.org/wiki/尹美萊" title="wikilink">尹美萊</a>、<a href="../Page/白智榮.md" title="wikilink">白智榮</a>、<a href="../Page/Bada_(歌手).md" title="wikilink">Bada</a>、<a href="https://zh.wikipedia.org/wiki/Ailee" title="wikilink">Ailee</a>、、<a href="../Page/金泰宇.md" title="wikilink">金泰宇</a>、<a href="https://zh.wikipedia.org/wiki/ALi_(歌手)" title="wikilink">ALi</a>、<a href="../Page/DJ_DOC.md" title="wikilink">DJ DOC</a>、<a href="https://zh.wikipedia.org/wiki/玫瑰旅館" title="wikilink">玫瑰旅館</a>、<a href="https://zh.wikipedia.org/wiki/Sistar" title="wikilink">Sistar</a>、<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>、<a href="../Page/Apink.md" title="wikilink">Apink</a>（<a href="../Page/鄭恩地.md" title="wikilink">鄭恩地</a>）、<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>（<a href="../Page/金聖圭.md" title="wikilink">金聖圭</a>、<a href="../Page/金明洙.md" title="wikilink">金明洙</a>）、<a href="../Page/EXO.md" title="wikilink">EXO</a>（<a href="https://zh.wikipedia.org/wiki/伯賢" title="wikilink">伯賢</a>、<a href="https://zh.wikipedia.org/wiki/CHEN" title="wikilink">CHEN</a>、<a href="https://zh.wikipedia.org/wiki/燦烈" title="wikilink">燦烈</a>）、<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>（<a href="https://zh.wikipedia.org/wiki/安喜延" title="wikilink">Hani</a>）、<a href="../Page/B1A4.md" title="wikilink">B1A4</a>（<a href="https://zh.wikipedia.org/wiki/燦多" title="wikilink">燦多</a>）、<a href="https://zh.wikipedia.org/wiki/Teen_Top" title="wikilink">Teen Top</a>（<a href="../Page/安丹尼爾.md" title="wikilink">Niel</a>）</p></td>
+<td><p>Davichi、、、<a href="../Page/DJ_DOC.md" title="wikilink">DJ DOC</a>、<a href="../Page/金範洙.md" title="wikilink">金範洙</a>、、<a href="https://zh.wikipedia.org/wiki/尹美萊" title="wikilink">尹美萊</a>、<a href="../Page/白智榮.md" title="wikilink">白智榮</a>、<a href="../Page/Bada_(歌手).md" title="wikilink">Bada</a>、<a href="https://zh.wikipedia.org/wiki/Ailee" title="wikilink">Ailee</a>、、<a href="../Page/金泰宇.md" title="wikilink">金泰宇</a>、<a href="https://zh.wikipedia.org/wiki/ALi_(歌手)" title="wikilink">ALi</a>、<a href="../Page/DJ_DOC.md" title="wikilink">DJ DOC</a>、<a href="../Page/玫瑰旅館.md" title="wikilink">玫瑰旅館</a>、<a href="https://zh.wikipedia.org/wiki/Sistar" title="wikilink">Sistar</a>、<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>、<a href="../Page/Apink.md" title="wikilink">Apink</a>（<a href="../Page/鄭恩地.md" title="wikilink">鄭恩地</a>）、<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>（<a href="../Page/金聖圭.md" title="wikilink">金聖圭</a>、<a href="../Page/金明洙.md" title="wikilink">金明洙</a>）、<a href="../Page/EXO.md" title="wikilink">EXO</a>（<a href="../Page/伯賢.md" title="wikilink">伯賢</a>、<a href="https://zh.wikipedia.org/wiki/CHEN" title="wikilink">CHEN</a>、<a href="https://zh.wikipedia.org/wiki/燦烈" title="wikilink">燦烈</a>）、<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>（<a href="https://zh.wikipedia.org/wiki/安喜延" title="wikilink">Hani</a>）、<a href="../Page/B1A4.md" title="wikilink">B1A4</a>（<a href="https://zh.wikipedia.org/wiki/燦多" title="wikilink">燦多</a>）、<a href="https://zh.wikipedia.org/wiki/Teen_Top" title="wikilink">Teen Top</a>（<a href="../Page/安丹尼爾.md" title="wikilink">Niel</a>）</p></td>
 <td><p>「我是大韓民國」慶典主題曲</p></td>
 </tr>
 <tr class="odd">
@@ -639,7 +639,7 @@ That's my fault</p></td>
 <td><p>2017年10月25日</p></td>
 <td><p>傻瓜啊</p></td>
 <td><p>바보야</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Standing_Egg" title="wikilink">Standing Egg</a> feat.李海莉</p></td>
+<td><p><a href="../Page/Standing_Egg.md" title="wikilink">Standing Egg</a> feat.李海莉</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -654,34 +654,34 @@ That's my fault</p></td>
 
 ### 原聲帶
 
-| 日期          | 中文歌名                  | 韓文歌名         | 演唱者                                                           | 收錄專輯                                                                              |
-| ----------- | --------------------- | ------------ | ------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 2008年1月25日  | 星光閃耀的夜晚               | 별이 빛나는 밤     | Davichi                                                       | 電視劇《) OST》                                                                        |
-| 2008年3月12日  | 時差                    | 시차           | Davichi ＆ [SeeYa](../Page/SeeYa.md "wikilink") ＆              | 電影《宿命 OST》                                                                        |
-| 2008年8月27日  | Crazy Woman           |              | 李海莉 ＆ 金延智 ＆ 李正敏                                               | 電視劇《[伊甸園之東](https://zh.wikipedia.org/wiki/伊甸園之東 "wikilink") OST》                  |
-| 2008年8月27日  | 紅豆I                   | 홍두I          | 李海莉                                                           |                                                                                   |
-| 2008年8月27日  | 水瓶                    | 물병           | Davichi                                                       |                                                                                   |
-| 2009年8月19日  | Hot Stuff             |              | Davichi                                                       | 電視劇《[拜託小姐](../Page/拜託小姐.md "wikilink") OST》                                       |
-| 2011年3月8日   | Can You Hear Me?（韓語版） |              | 李海莉                                                           | 音樂劇《天國的眼淚 OST》                                                                    |
-| 2011年3月8日   | Tears of heaven       |              | Davichi                                                       |                                                                                   |
-| 2011年3月11日  | 一個人                   | 한사람          | Davichi                                                       | 電視劇《[微笑，媽媽](../Page/微笑，媽媽.md "wikilink") OST》                                     |
-| 2011年8月1日   | Heavens               |              | Davichi                                                       | 電影《寄生靈 OST》                                                                       |
-| 2011年10月18日 | 相愛的人啊                 | 사랑하는사람아      | 李海莉（李海莉－作詞、作曲）                                                | 電視劇《[波塞冬](../Page/波塞冬.md "wikilink") OST》                                         |
-| 2011年12月6日  | To Angel              |              | Davichi                                                       | 電視節目《愛的請求 OST》                                                                    |
-| 2012年6月4日   | 因為是你                  | 너라서          | Davichi                                                       | 電視劇《BIG（[真愛上錯身](https://zh.wikipedia.org/wiki/真愛上錯身 "wikilink")） OST》             |
-| 2012年8月21日  | 離別來了                  | 이별이 온다       | 姜珉炅                                                           | 電視劇《[海雲臺戀人們](../Page/海雲臺戀人們.md "wikilink") OST》                                   |
-| 2013年2月13日  | 不知道嗎                  | 모르시나요        | Davichi                                                       | 電視劇《[IRIS 2](../Page/IRIS_2.md "wikilink") OST》                                   |
-| 2014年7月30日  | 沒關係 是愛情啊              | 괜찮아 사랑이야     | Davichi                                                       | 電視劇《[沒關係，是愛情啊](https://zh.wikipedia.org/wiki/沒關係，是愛情啊 "wikilink") OST》            |
-| 2015年11月4日  | 這瞬間                   | 이 순간         | Davichi                                                       | 網路劇《甜蜜的誘惑 OST》                                                                    |
-| 2016年3月3日   | This Love             | 이 사랑         | Davichi                                                       | 電視劇《[太陽的後裔](../Page/太陽的後裔.md "wikilink") OST》                                     |
-| 2016年9月6日   | 忘記你這件事                | 그대를 잊는다는 건   | Davichi                                                       | 電視劇《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink") OST》                         |
-| 2017年7月25日  | But                   |              | 李海莉                                                           | 電視劇《[王在相愛](https://zh.wikipedia.org/wiki/王在相愛 "wikilink") OST》                    |
-| 2017年8月2日   | Higher Plane          |              | Flowsik ft.姜珉炅                                                | 電視劇《[犯罪心理](https://zh.wikipedia.org/wiki/犯罪心理_\(韓國\) "wikilink") OST》             |
-| 2017年10月19日 | 今天也想念，想念              | 오늘도 그리워 그리워  | Davichi                                                       | 電視劇《[當你沉睡時](https://zh.wikipedia.org/wiki/當你沉睡時 "wikilink") OST》                  |
-| 2018年3月31日  | 因為是你                  | 그대니까요워       | Davichi                                                       | 電視劇《[Live](https://zh.wikipedia.org/wiki/Live_\(韓國電視劇\) "wikilink") OST》          |
-| 2018年5月16日  | 你和我在下雨的大街上            | 비 오는 거리 너와 나 | 姜珉炅 & [Kisum](https://zh.wikipedia.org/wiki/Kisum "wikilink") | 電視劇《[Suits](https://zh.wikipedia.org/wiki/金裝律師_\(韓國電視劇\) "wikilink") OST》         |
-| 2018年10月16日 | 如夢般降臨                 | 꿈처럼 내린       | Davichi                                                       | 電視劇《[愛上變身情人](https://zh.wikipedia.org/wiki/Beauty_Inside_\(電視劇\) "wikilink") OST》 |
-| 2019年5月2日   | Maybe                 |              | 李海莉                                                           | 電視劇《[她的私生活](https://zh.wikipedia.org/wiki/她的私生活 "wikilink") OST》                  |
+| 日期          | 中文歌名                  | 韓文歌名         | 演唱者                                              | 收錄專輯                                                                              |
+| ----------- | --------------------- | ------------ | ------------------------------------------------ | --------------------------------------------------------------------------------- |
+| 2008年1月25日  | 星光閃耀的夜晚               | 별이 빛나는 밤     | Davichi                                          | 電視劇《) OST》                                                                        |
+| 2008年3月12日  | 時差                    | 시차           | Davichi ＆ [SeeYa](../Page/SeeYa.md "wikilink") ＆ | 電影《宿命 OST》                                                                        |
+| 2008年8月27日  | Crazy Woman           |              | 李海莉 ＆ 金延智 ＆ 李正敏                                  | 電視劇《[伊甸園之東](https://zh.wikipedia.org/wiki/伊甸園之東 "wikilink") OST》                  |
+| 2008年8月27日  | 紅豆I                   | 홍두I          | 李海莉                                              |                                                                                   |
+| 2008年8月27日  | 水瓶                    | 물병           | Davichi                                          |                                                                                   |
+| 2009年8月19日  | Hot Stuff             |              | Davichi                                          | 電視劇《[拜託小姐](../Page/拜託小姐.md "wikilink") OST》                                       |
+| 2011年3月8日   | Can You Hear Me?（韓語版） |              | 李海莉                                              | 音樂劇《天國的眼淚 OST》                                                                    |
+| 2011年3月8日   | Tears of heaven       |              | Davichi                                          |                                                                                   |
+| 2011年3月11日  | 一個人                   | 한사람          | Davichi                                          | 電視劇《[微笑，媽媽](../Page/微笑，媽媽.md "wikilink") OST》                                     |
+| 2011年8月1日   | Heavens               |              | Davichi                                          | 電影《寄生靈 OST》                                                                       |
+| 2011年10月18日 | 相愛的人啊                 | 사랑하는사람아      | 李海莉（李海莉－作詞、作曲）                                   | 電視劇《[波塞冬](../Page/波塞冬.md "wikilink") OST》                                         |
+| 2011年12月6日  | To Angel              |              | Davichi                                          | 電視節目《愛的請求 OST》                                                                    |
+| 2012年6月4日   | 因為是你                  | 너라서          | Davichi                                          | 電視劇《BIG（[真愛上錯身](https://zh.wikipedia.org/wiki/真愛上錯身 "wikilink")） OST》             |
+| 2012年8月21日  | 離別來了                  | 이별이 온다       | 姜珉炅                                              | 電視劇《[海雲臺戀人們](../Page/海雲臺戀人們.md "wikilink") OST》                                   |
+| 2013年2月13日  | 不知道嗎                  | 모르시나요        | Davichi                                          | 電視劇《[IRIS 2](../Page/IRIS_2.md "wikilink") OST》                                   |
+| 2014年7月30日  | 沒關係 是愛情啊              | 괜찮아 사랑이야     | Davichi                                          | 電視劇《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink") OST》                               |
+| 2015年11月4日  | 這瞬間                   | 이 순간         | Davichi                                          | 網路劇《甜蜜的誘惑 OST》                                                                    |
+| 2016年3月3日   | This Love             | 이 사랑         | Davichi                                          | 電視劇《[太陽的後裔](../Page/太陽的後裔.md "wikilink") OST》                                     |
+| 2016年9月6日   | 忘記你這件事                | 그대를 잊는다는 건   | Davichi                                          | 電視劇《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink") OST》                         |
+| 2017年7月25日  | But                   |              | 李海莉                                              | 電視劇《[王在相愛](../Page/王在相愛.md "wikilink") OST》                                       |
+| 2017年8月2日   | Higher Plane          |              | Flowsik ft.姜珉炅                                   | 電視劇《[犯罪心理](https://zh.wikipedia.org/wiki/犯罪心理_\(韓國\) "wikilink") OST》             |
+| 2017年10月19日 | 今天也想念，想念              | 오늘도 그리워 그리워  | Davichi                                          | 電視劇《[當你沉睡時](../Page/當你沉睡時.md "wikilink") OST》                                     |
+| 2018年3月31日  | 因為是你                  | 그대니까요워       | Davichi                                          | 電視劇《[Live](../Page/Live_\(韓國電視劇\).md "wikilink") OST》                             |
+| 2018年5月16日  | 你和我在下雨的大街上            | 비 오는 거리 너와 나 | 姜珉炅 & [Kisum](../Page/Kisum.md "wikilink")       | 電視劇《[Suits](https://zh.wikipedia.org/wiki/金裝律師_\(韓國電視劇\) "wikilink") OST》         |
+| 2018年10月16日 | 如夢般降臨                 | 꿈처럼 내린       | Davichi                                          | 電視劇《[愛上變身情人](https://zh.wikipedia.org/wiki/Beauty_Inside_\(電視劇\) "wikilink") OST》 |
+| 2019年5月2日   | Maybe                 |              | 李海莉                                              | 電視劇《[她的私生活](../Page/她的私生活.md "wikilink") OST》                                     |
 
 ### 創作
 
@@ -932,7 +932,7 @@ That's my fault</p></td>
 <td><p>2011年7月30日</p></td>
 <td><p>你只是在比我更高處</p></td>
 <td><p>나보다 조금 더 높은 곳에 니가 있을 뿐</p></td>
-<td><p>【<a href="https://zh.wikipedia.org/wiki/申昇勳" title="wikilink">申昇勳</a> 特輯】初次參賽二連勝後敗</p></td>
+<td><p>【<a href="../Page/申昇勳.md" title="wikilink">申昇勳</a> 特輯】初次參賽二連勝後敗</p></td>
 </tr>
 <tr class="even">
 <td><p>2011年9月17日</p></td>
@@ -1199,15 +1199,15 @@ That's my fault</p></td>
 
 ### 廣播電台
 
-| 日期            | 節目                                                                                      |           |
-| ------------- | --------------------------------------------------------------------------------------- | --------- |
-| 2014年8月29日    | KBS COOL FM 劉寅娜的提高音量 유인나의 볼륨을 높여요                                                       | 特別DJ      |
-| 2014年8月30日    | KBS COOL FM 劉寅娜的提高音量 유인나의 볼륨을 높여요                                                       | 特別DJ      |
-| 2014年8月31日    | KBS COOL FM 劉寅娜的提高音量 유인나의 볼륨을 높여요                                                       | 特別DJ      |
-| 2018年9月3日     | SBS Power FM Cultwo Show 두시탈출 컬투쇼                                                       | 特別DJ（珉炅）  |
-| 2018年10月4日    | SBS Power FM Cultwo Show 두시탈출 컬투쇼                                                       | 特別DJ（珉炅）  |
-| 2018年11月13日   | MBC 標準FM [燦多星光燦爛的夜晚](https://zh.wikipedia.org/wiki/燦多 "wikilink")                       | 特別DJ（珉炅）  |
-| 2019年3月11－17日 | SBS Power FM [John Park的Music](https://zh.wikipedia.org/wiki/John_Park "wikilink") High | 特別DJ （珉炅） |
+| 日期            | 節目                                                                   |           |
+| ------------- | -------------------------------------------------------------------- | --------- |
+| 2014年8月29日    | KBS COOL FM 劉寅娜的提高音量 유인나의 볼륨을 높여요                                    | 特別DJ      |
+| 2014年8月30日    | KBS COOL FM 劉寅娜的提高音量 유인나의 볼륨을 높여요                                    | 特別DJ      |
+| 2014年8月31日    | KBS COOL FM 劉寅娜的提高音量 유인나의 볼륨을 높여요                                    | 特別DJ      |
+| 2018年9月3日     | SBS Power FM Cultwo Show 두시탈출 컬투쇼                                    | 特別DJ（珉炅）  |
+| 2018年10月4日    | SBS Power FM Cultwo Show 두시탈출 컬투쇼                                    | 特別DJ（珉炅）  |
+| 2018年11月13日   | MBC 標準FM [燦多星光燦爛的夜晚](https://zh.wikipedia.org/wiki/燦多 "wikilink")    | 特別DJ（珉炅）  |
+| 2019年3月11－17日 | SBS Power FM [John Park的Music](../Page/John_Park.md "wikilink") High | 特別DJ （珉炅） |
 
 ### 主持
 
@@ -1289,7 +1289,7 @@ That's my fault</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年5月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p>奧林匹克公園－奧林匹克廳</p></td>
 </tr>

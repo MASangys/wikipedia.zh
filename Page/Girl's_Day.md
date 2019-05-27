@@ -1,5 +1,5 @@
 **Girl's
-Day**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")於2010年7月9日推出的女子流行音樂團體，現任成員為隊長[素珍](../Page/素珍_\(韓國歌手\).md "wikilink")、[Yura](https://zh.wikipedia.org/wiki/Yura "wikilink")、[珉雅及](https://zh.wikipedia.org/wiki/方珉雅 "wikilink")[惠利](../Page/惠利.md "wikilink")。最初粉絲名稱為「Diamonds」，其後改為「Daisy」或「Dai5y」。團呼為「Every
+Day**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")於2010年7月9日推出的女子流行音樂團體，現任成員為隊長[素珍](../Page/素珍_\(韓國歌手\).md "wikilink")、[Yura](../Page/Yura.md "wikilink")、[珉雅及](https://zh.wikipedia.org/wiki/方珉雅 "wikilink")[惠利](../Page/惠利.md "wikilink")。最初粉絲名稱為「Diamonds」，其後改為「Daisy」或「Dai5y」。團呼為「Every
 day, Girl's
 Day」。2013年以《期待》的招牌吊帶舞打響名氣，引發模仿熱潮，2014年初再以《Something》拿下不少音樂獎項。經紀公司[Wellmade
 Yedang在](https://zh.wikipedia.org/wiki/Wellmade_STAR_M "wikilink")2013年12月2日公佈併購DreamT娛樂所有股份，Girl's
@@ -30,7 +30,7 @@ Yours》回歸。
 
   - 7月9日，Girl's Day正式出道，公開出道曲MV《Tilt My Head（갸우뚱）》。
   - 9月12日，公司公告其中兩位成員黄智善和李智仁正式的退團，主要的原因是智仁要專注於演戲，而智善要繼續攻讀音樂並找尋屬於她的音樂。
-  - 9月16日，公司公開兩位新成員[Yura和](https://zh.wikipedia.org/wiki/Yura "wikilink")[惠利](../Page/惠利.md "wikilink")。
+  - 9月16日，公司公開兩位新成員[Yura和](../Page/Yura.md "wikilink")[惠利](../Page/惠利.md "wikilink")。
   - 10月17日，Yura在參加MBC節目《花束》時，公開了為腿部投保多達5億韓元一事。
   - 10月24、25日，分別各公開一支第二張單曲《Girl's Day Party \#2》主打歌《잘해줘봐야（Nothing Lasts
     Forever）》MV預告。10月27日，公開完整版MV。
@@ -150,7 +150,7 @@ Yours》回歸。
     Day三月底發佈新迷你專輯，並已經在一月底完成主打歌的錄製，MV將在3月第二周開拍。\[32\]\[33\]
   - 3月10日，DreamT娛樂表示，Girl's Day將攜迷你新輯於27日回歸。在正式回歸前，Girl's
     Day將於本月12日至13日拍攝新曲MV，主打曲將是一首舞曲。\[34\]
-  - 3月，因為韓國女總統[朴槿惠的](../Page/朴槿惠.md "wikilink")[彈劾案通過](https://zh.wikipedia.org/wiki/朴槿惠弹劾案 "wikilink")，Girl's
+  - 3月，因為韓國女總統[朴槿惠的](../Page/朴槿惠.md "wikilink")[彈劾案通過](../Page/朴槿惠弹劾案.md "wikilink")，Girl's
     Day在四年前（2013年）推出的歌曲《女總統》竄升至音源榜一位，意外反應了社會現象，掀起另類話題。\[35\]
   - 3月13日，經紀公司透露：「Girl's Day
     將出演[JTBC綜藝節目](../Page/JTBC.md "wikilink")《[認識的哥哥](../Page/認識的哥哥.md "wikilink")》和《[請給一頓飯Show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")》。《認識的哥哥》預定於18日進行錄製，並可能在25日播出；《請給一頓飯》則預定於三月中錄製。」\[36\]
@@ -173,20 +173,20 @@ Yours》回歸。
 
 ## 成員列表
 
-| 現任成員                                                      |
-| --------------------------------------------------------- |
-| 藝名                                                        |
-| 藝名                                                        |
-| **[素珍](../Page/素珍_\(韓國歌手\).md "wikilink")**               |
-| **[Yura](https://zh.wikipedia.org/wiki/Yura "wikilink")** |
-| **[珉雅](https://zh.wikipedia.org/wiki/方珉雅 "wikilink")**    |
-| **[惠利](../Page/惠利.md "wikilink")**                        |
-| 已退出成員                                                     |
-| 藝名                                                        |
-| 藝名                                                        |
-| ****                                                      |
-| ****                                                      |
-| **[智海](../Page/智海_\(Girl's_Day\).md "wikilink")**         |
+| 現任成員                                                   |
+| ------------------------------------------------------ |
+| 藝名                                                     |
+| 藝名                                                     |
+| **[素珍](../Page/素珍_\(韓國歌手\).md "wikilink")**            |
+| **[Yura](../Page/Yura.md "wikilink")**                 |
+| **[珉雅](https://zh.wikipedia.org/wiki/方珉雅 "wikilink")** |
+| **[惠利](../Page/惠利.md "wikilink")**                     |
+| 已退出成員                                                  |
+| 藝名                                                     |
+| 藝名                                                     |
+| ****                                                   |
+| ****                                                   |
+| **[智海](../Page/智海_\(Girl's_Day\).md "wikilink")**      |
 
 ### 成員變遷表
 
@@ -642,7 +642,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>12月17日</p></td>
-<td><p>KBS2《<a href="https://zh.wikipedia.org/wiki/王的面孔" title="wikilink">王的面孔</a>》OST</p></td>
+<td><p>KBS2《<a href="../Page/王的面孔.md" title="wikilink">王的面孔</a>》OST</p></td>
 <td><p>一個人</p></td>
 <td></td>
 <td></td>
@@ -934,7 +934,7 @@ PlotData =
 <tr class="odd">
 <td><p>2014年</p></td>
 <td><p><a href="../Page/TV朝鮮.md" title="wikilink">TV朝鮮</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/最佳婚姻" title="wikilink">最佳婚姻</a>》</p></td>
+<td><p>《<a href="../Page/最佳婚姻.md" title="wikilink">最佳婚姻</a>》</p></td>
 <td><p>朴素珍</p></td>
 <td><p>李幼梨</p></td>
 <td><p>配角</p></td>
@@ -1033,7 +1033,7 @@ PlotData =
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p>JTBC</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/嘻哈老師" title="wikilink">嘻哈老師</a>》</p></td>
+<td><p>《<a href="../Page/嘻哈老師.md" title="wikilink">嘻哈老師</a>》</p></td>
 <td><p>金玉彬</p></td>
 <td><p>女主角</p></td>
 <td></td>
@@ -1050,7 +1050,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>MBC</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Two_Cops" title="wikilink">Two Cops</a>》</p></td>
+<td><p>《<a href="../Page/Two_Cops.md" title="wikilink">Two Cops</a>》</p></td>
 <td><p>李惠利</p></td>
 <td><p>宋智安</p></td>
 <td><p>主角</p></td>
@@ -1068,7 +1068,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/絕對達令_(韓國電視劇)" title="wikilink">絕對達令</a>》</p></td>
+<td><p>《<a href="../Page/絕對達令_(韓國電視劇).md" title="wikilink">絕對達令</a>》</p></td>
 <td><p>方珉雅</p></td>
 <td></td>
 <td><p>主角</p></td>
@@ -1145,7 +1145,7 @@ PlotData =
 | 2014年12月10日、12月17日               | 全體                                                                | 嘉賓                                                                                            |            |                 |
 | 2014年10月11日                      | MBC                                                               | [我們結婚了](../Page/我們結婚了.md "wikilink")                                                          | 惠利         | 客席主持            |
 | [tvN](../Page/TVN.md "wikilink") | SNL Korea S5                                                      | 全體                                                                                            | 嘉賓         |                 |
-| 2014年10月21日                      | KBS2                                                              | [1 VS 100](https://zh.wikipedia.org/wiki/1_VS_100 "wikilink")                                 | 惠利         |                 |
+| 2014年10月21日                      | KBS2                                                              | [1 VS 100](../Page/1_VS_100.md "wikilink")                                                    | 惠利         |                 |
 | 2014年11月2日                       | MBC                                                               | Section TV 演藝通訊                                                                               | Yura、惠利    |                 |
 | 2014年11月15日                      | JTBC                                                              | [隱藏歌手](../Page/隱藏歌手.md "wikilink")                                                            | 素珍、Yura    |                 |
 | 2014年11月28日                      | JTBC                                                              | 魔女狩獵                                                                                          | 惠利         | 客串              |
@@ -1159,7 +1159,7 @@ PlotData =
 | 2015年3月28日                       | KBS2                                                              | 演藝家中介                                                                                         |            |                 |
 | 2015年3月31日                       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")             | 4種秀                                                                                           | Yura、珉雅    |                 |
 | 2015年4月11日                       | KBS2                                                              | 不朽的名曲2                                                                                        | 珉雅         |                 |
-| 2015年4月14日 ─ 5月5日                | JTBC                                                              | [我去上學啦](https://zh.wikipedia.org/wiki/我去上學啦_\(韓國\) "wikilink")                                | Yura       |                 |
+| 2015年4月14日 ─ 5月5日                | JTBC                                                              | [我去上學啦](../Page/我去上學啦_\(韓國\).md "wikilink")                                                   | Yura       |                 |
 | 2015年4月24日                       | MBC                                                               | 我獨自生活                                                                                         |            |                 |
 | 2015年5月2日                        | MBC                                                               | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")                            | 惠利         | 特別MC            |
 | 2015年5月17日                       | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                    | 素珍                                                                                            | 參賽者        |                 |
@@ -1193,7 +1193,7 @@ PlotData =
 |                     |                                                         |                                                                                               |         |      |
 | ------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------- | ---- |
 | 日期                  | 電視台                                                     | 節目名稱                                                                                          | 成員      | 角色   |
-| 2016年1月25日          | SBS                                                     | [Healing Camp](https://zh.wikipedia.org/wiki/Healing_Camp "wikilink")                         | 素珍      | 嘉賓   |
+| 2016年1月25日          | SBS                                                     | [Healing Camp](../Page/Healing_Camp.md "wikilink")                                            | 素珍      | 嘉賓   |
 | 2016年2月1日           | 珉雅                                                      |                                                                                               |         |      |
 | 2016年2月5日           | JTBC                                                    | Code-秘密的房間                                                                                    | Yura    |      |
 | 2016年2月6日           | MBC                                                     | 我的小電視                                                                                         |         |      |
@@ -1242,48 +1242,48 @@ PlotData =
 | 2016年12月11日、12月18日  | SBS                                                     | [花樣旅行](../Page/花樣旅行.md "wikilink")                                                            | 珉雅      |      |
 | 2016年12月14日         | SBS                                                     | 尋笑人                                                                                           | Yura    | 主持   |
 
-|                     |                                                     |                                                                                                                           |         |       |
-| ------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------- | ----- |
-| 日期                  | 電視台                                                 | 節目名稱                                                                                                                      | 成員      | 角色    |
-| 2017年1月15日          | KBS2                                                | [超人回來了](https://zh.wikipedia.org/wiki/超人回來了 "wikilink")                                                                   | 惠利      | 嘉賓    |
-| SBS                 | [花樣旅行](../Page/花樣旅行.md "wikilink")                  | Yura                                                                                                                      |         |       |
-| 2017年2月9日 ─ 3月30日   | MBC every1                                          | 浪漫的一周4                                                                                                                    | 素珍      |       |
-| 2017年3月23日、3月30日    | KBS2                                                | [Happy Together](../Page/歡樂在一起.md "wikilink")                                                                             | 惠利、Yura |       |
-| 2017年3月25日          | SBS                                                 | [認識的哥哥](../Page/認識的哥哥.md "wikilink")                                                                                      | 全體      |       |
-| 2017年3月25日          | JTBC                                                | 白鍾元的三大天王                                                                                                                  |         |       |
-| 2017年3月25日          | KBS2                                                | 演藝家中介                                                                                                                     |         |       |
-| 2017年3月27日          | KBS2                                                | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")                                                                              |         |       |
-| 2017年3月29日          | tvN                                                 | [現場脫口秀Taxi](https://zh.wikipedia.org/wiki/現場脫口秀Taxi "wikilink")                                                           |         |       |
-| 2017年3月29日          | JTBC                                                | [請給一頓飯Show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")                                                           | 珉雅、惠利   |       |
-| 2017年4月2日、4月9日      | MBC                                                 | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                                                            | 珉雅      | 評審團   |
-| 2017年4月3日           | JTBC                                                | [非首腦會談](https://zh.wikipedia.org/wiki/非首腦會談 "wikilink")                                                                   | 素珍、Yura | 嘉賓    |
-| 2017年4月6日、4月13日     | Mnet                                                | [兩個男人Show](https://zh.wikipedia.org/wiki/兩個男人Show "wikilink")                                                             | 全體      |       |
-| 2017年4月11日          | SBS funE                                            | [The Show Fan PD - DIY idol fan meeting](https://zh.wikipedia.org/wiki/The_Show_Fan_PD_-_DIY_idol_fan_meeting "wikilink") |         |       |
-| 2017年4月11日          | KBS2                                                | 《1 vs 100》                                                                                                                | 素珍      |       |
-| 2017年4月13日          | tvN                                                 | [人生酒館](https://zh.wikipedia.org/wiki/人生酒館 "wikilink")                                                                     | 全體      |       |
-| 2017年4月22日、5月13日    | MBC                                                 | 我的小電視                                                                                                                     | Yura、惠利 |       |
-| 2017年4月29日 ─ 6月17日  | KBS Drama                                           | 《Beauty Bible 2017》                                                                                                       | Yura    | 主持    |
-| 2017年4月30日          | SBS                                                 | [Fantastic Duo 2](https://zh.wikipedia.org/wiki/Fantastic_Duo_2 "wikilink")                                               | 珉雅      | 特別嘉賓  |
-| 2017年5月18日 ─ 12月29日 | tvN                                                 | [人生酒館](https://zh.wikipedia.org/wiki/人生酒館 "wikilink")                                                                     | Yura    | 主持    |
-| 2017年5月12日 ─ 6月9日   | MBC                                                 | 無理的同居 ─ 有空房間                                                                                                              | 嘉賓      |       |
-| 2017年6月2日、7月7日      | JTBC                                                | Crime Scene 犯罪現場3                                                                                                         | 素珍      |       |
-| 2017年6月9日           | MBC                                                 | 無理的同居 ─ 有空房間                                                                                                              |         |       |
-| 2017年6月10日 ─ 7月1日   | KBS2                                                | 戰鬥旅行                                                                                                                      | Yura    | 特別 MC |
-| 2017年6月21日          | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 黃金漁場 - Radio Star                                                                                                         | 嘉賓      |       |
-| 2017年8月11日          | KBS                                                 | 親切的神                                                                                                                      | 素珍      |       |
-| 2017年8月17日、8月24日    | KBS2                                                | [Happy Together](../Page/歡樂在一起.md "wikilink")                                                                             | 珉雅      |       |
-| 2017年8月20日          | JTBC                                                | 夜行鬼怪                                                                                                                      | Yura    |       |
-| 2017年8月25日、9月1日     | MBC                                                 | [無理的同居 ─ 有空房間](https://zh.wikipedia.org/wiki/無理的同居_─_有空房間 "wikilink")                                                     | 素珍、Yura | 房東    |
-| 2017年8月27日 ─        | 中華TV                                                | Weekly China Now                                                                                                          | Yura    | 主持    |
-| 2017年9月14日 ─ 11月2日  | JTBC2                                               | 自討苦吃 - 自給自足遊記                                                                                                             | 素珍      | 嘉賓    |
-| 2017年10月1日 ─ 10月15日 | KBS2                                                | 兩天一夜S3                                                                                                                    | Yura    |       |
-| 2017年10月14日 ─       | E channel                                           | 我女兒的男人們2                                                                                                                  | 素珍      | 主持    |
-|                     |                                                     |                                                                                                                           |         |       |
+|                     |                                                     |                                                                                                        |         |       |
+| ------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------- | ----- |
+| 日期                  | 電視台                                                 | 節目名稱                                                                                                   | 成員      | 角色    |
+| 2017年1月15日          | KBS2                                                | [超人回來了](https://zh.wikipedia.org/wiki/超人回來了 "wikilink")                                                | 惠利      | 嘉賓    |
+| SBS                 | [花樣旅行](../Page/花樣旅行.md "wikilink")                  | Yura                                                                                                   |         |       |
+| 2017年2月9日 ─ 3月30日   | MBC every1                                          | 浪漫的一周4                                                                                                 | 素珍      |       |
+| 2017年3月23日、3月30日    | KBS2                                                | [Happy Together](../Page/歡樂在一起.md "wikilink")                                                          | 惠利、Yura |       |
+| 2017年3月25日          | SBS                                                 | [認識的哥哥](../Page/認識的哥哥.md "wikilink")                                                                   | 全體      |       |
+| 2017年3月25日          | JTBC                                                | 白鍾元的三大天王                                                                                               |         |       |
+| 2017年3月25日          | KBS2                                                | 演藝家中介                                                                                                  |         |       |
+| 2017年3月27日          | KBS2                                                | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")                                                           |         |       |
+| 2017年3月29日          | tvN                                                 | [現場脫口秀Taxi](../Page/現場脫口秀Taxi.md "wikilink")                                                           |         |       |
+| 2017年3月29日          | JTBC                                                | [請給一頓飯Show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")                                        | 珉雅、惠利   |       |
+| 2017年4月2日、4月9日      | MBC                                                 | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                                         | 珉雅      | 評審團   |
+| 2017年4月3日           | JTBC                                                | [非首腦會談](https://zh.wikipedia.org/wiki/非首腦會談 "wikilink")                                                | 素珍、Yura | 嘉賓    |
+| 2017年4月6日、4月13日     | Mnet                                                | [兩個男人Show](https://zh.wikipedia.org/wiki/兩個男人Show "wikilink")                                          | 全體      |       |
+| 2017年4月11日          | SBS funE                                            | [The Show Fan PD - DIY idol fan meeting](../Page/The_Show_Fan_PD_-_DIY_idol_fan_meeting.md "wikilink") |         |       |
+| 2017年4月11日          | KBS2                                                | 《1 vs 100》                                                                                             | 素珍      |       |
+| 2017年4月13日          | tvN                                                 | [人生酒館](https://zh.wikipedia.org/wiki/人生酒館 "wikilink")                                                  | 全體      |       |
+| 2017年4月22日、5月13日    | MBC                                                 | 我的小電視                                                                                                  | Yura、惠利 |       |
+| 2017年4月29日 ─ 6月17日  | KBS Drama                                           | 《Beauty Bible 2017》                                                                                    | Yura    | 主持    |
+| 2017年4月30日          | SBS                                                 | [Fantastic Duo 2](../Page/Fantastic_Duo_2.md "wikilink")                                               | 珉雅      | 特別嘉賓  |
+| 2017年5月18日 ─ 12月29日 | tvN                                                 | [人生酒館](https://zh.wikipedia.org/wiki/人生酒館 "wikilink")                                                  | Yura    | 主持    |
+| 2017年5月12日 ─ 6月9日   | MBC                                                 | 無理的同居 ─ 有空房間                                                                                           | 嘉賓      |       |
+| 2017年6月2日、7月7日      | JTBC                                                | Crime Scene 犯罪現場3                                                                                      | 素珍      |       |
+| 2017年6月9日           | MBC                                                 | 無理的同居 ─ 有空房間                                                                                           |         |       |
+| 2017年6月10日 ─ 7月1日   | KBS2                                                | 戰鬥旅行                                                                                                   | Yura    | 特別 MC |
+| 2017年6月21日          | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 黃金漁場 - Radio Star                                                                                      | 嘉賓      |       |
+| 2017年8月11日          | KBS                                                 | 親切的神                                                                                                   | 素珍      |       |
+| 2017年8月17日、8月24日    | KBS2                                                | [Happy Together](../Page/歡樂在一起.md "wikilink")                                                          | 珉雅      |       |
+| 2017年8月20日          | JTBC                                                | 夜行鬼怪                                                                                                   | Yura    |       |
+| 2017年8月25日、9月1日     | MBC                                                 | [無理的同居 ─ 有空房間](https://zh.wikipedia.org/wiki/無理的同居_─_有空房間 "wikilink")                                  | 素珍、Yura | 房東    |
+| 2017年8月27日 ─        | 中華TV                                                | Weekly China Now                                                                                       | Yura    | 主持    |
+| 2017年9月14日 ─ 11月2日  | JTBC2                                               | 自討苦吃 - 自給自足遊記                                                                                          | 素珍      | 嘉賓    |
+| 2017年10月1日 ─ 10月15日 | KBS2                                                | 兩天一夜S3                                                                                                 | Yura    |       |
+| 2017年10月14日 ─       | E channel                                           | 我女兒的男人們2                                                                                               | 素珍      | 主持    |
+|                     |                                                     |                                                                                                        |         |       |
 
 |                    |                                                     |                                                           |         |    |
 | ------------------ | --------------------------------------------------- | --------------------------------------------------------- | ------- | -- |
 | 日期                 | 電視台                                                 | 節目名稱                                                      | 成員      | 角色 |
-| 2018年2月17日 ─ 2月23日 | KBS2                                                | [戰鬥旅行](https://zh.wikipedia.org/wiki/戰鬥旅行 "wikilink")     | Yura、珉雅 | 嘉賓 |
+| 2018年2月17日 ─ 2月23日 | KBS2                                                | [戰鬥旅行](../Page/戰鬥旅行.md "wikilink")                        | Yura、珉雅 | 嘉賓 |
 | 2018年10月13日        | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[驚人的週六](https://zh.wikipedia.org/wiki/驚人的週六 "wikilink")》 |         |    |
 
 ## 廣告作品

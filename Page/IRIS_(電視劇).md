@@ -1,4 +1,4 @@
-《**IRIS**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2009年10月14日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由韓國名導演[姜帝圭企劃](../Page/姜帝圭.md "wikilink")，[李炳憲](../Page/李炳憲.md "wikilink")、[金泰希等人演出](../Page/金泰希.md "wikilink")。既是韩国首部諜報動作劇，又为首部由[電影製作公司所製作的韓劇](https://zh.wikipedia.org/wiki/電影 "wikilink")，斥資200億韓圓製作，先後前往[匈牙利](../Page/匈牙利.md "wikilink")、[日本](../Page/日本.md "wikilink")、[中國等地大規模取景拍攝](../Page/中國.md "wikilink")，2009年11月29日在[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")[光化門获准封街](../Page/光化門.md "wikilink")12小時拍攝，这也是史上首遭。在韓國開播前已高價外銷，每集以約2.7億韓圓售往日本。2010年獲[第46屆百想藝術大賞最佳電視劇作品獎](https://zh.wikipedia.org/wiki/第46屆百想藝術大賞 "wikilink")。
+《**IRIS**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2009年10月14日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由韓國名導演[姜帝圭企劃](../Page/姜帝圭.md "wikilink")，[李炳憲](../Page/李炳憲.md "wikilink")、[金泰希等人演出](../Page/金泰希.md "wikilink")。既是韩国首部諜報動作劇，又为首部由[電影製作公司所製作的韓劇](https://zh.wikipedia.org/wiki/電影 "wikilink")，斥資200億韓圓製作，先後前往[匈牙利](../Page/匈牙利.md "wikilink")、[日本](../Page/日本.md "wikilink")、[中國等地大規模取景拍攝](../Page/中國.md "wikilink")，2009年11月29日在[首爾](../Page/首爾.md "wikilink")[光化門获准封街](../Page/光化門.md "wikilink")12小時拍攝，这也是史上首遭。在韓國開播前已高價外銷，每集以約2.7億韓圓售往日本。2010年獲[第46屆百想藝術大賞最佳電視劇作品獎](https://zh.wikipedia.org/wiki/第46屆百想藝術大賞 "wikilink")。
 
 ## 登場人物
 
@@ -318,7 +318,7 @@
 <td><center>
 <p>優紀</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/美山加戀" title="wikilink">美山加戀</a></p></td>
+<p><a href="../Page/美山加戀.md" title="wikilink">美山加戀</a></p></td>
 <td><center></td>
 <td><p>日本少女，非常迷恋金贤俊的可爱少女，因为IRIS杀手B.I.G追击金贤俊（希望得到洪勝龍带出的隨身碟）而中枪身亡。</p></td>
 </tr>

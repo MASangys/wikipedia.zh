@@ -3,7 +3,7 @@
 ## 歷史
 
 [Moot_smiling_at_ROFLCon_II.jpg](https://zh.wikipedia.org/wiki/File:Moot_smiling_at_ROFLCon_II.jpg "fig:Moot_smiling_at_ROFLCon_II.jpg")
-4chan在2003年由来自[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")[克里斯托弗·普尔創建](https://zh.wikipedia.org/wiki/克里斯托弗·普尔 "wikilink")\[3\]\[4\]，其創立時的目標就是建立一個仿造美國版本的2chan，以作为貼圖討論日本动漫、[同人](../Page/同人_\(ACG\).md "wikilink")、御宅族文化的站点。\[5\]\[6\]克里斯托弗·普尔原本使用2chan下載二次元圖片的時候發現匿名發布机制非常有趣，便萌生出了創建一個類似英文網站的想法。他在得到該網站的源代码之後使用[AltaVista的](../Page/AltaVista.md "wikilink")[Babelfish平台的線上翻譯软件将源代码内的日文原文全部翻譯成英文](../Page/Yahoo!_Babel_Fish.md "wikilink")。\[7\]\[8\]
+4chan在2003年由来自[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")[克里斯托弗·普尔創建](../Page/克里斯托弗·普尔.md "wikilink")\[3\]\[4\]，其創立時的目標就是建立一個仿造美國版本的2chan，以作为貼圖討論日本动漫、[同人](../Page/同人_\(ACG\).md "wikilink")、御宅族文化的站点。\[5\]\[6\]克里斯托弗·普尔原本使用2chan下載二次元圖片的時候發現匿名發布机制非常有趣，便萌生出了創建一個類似英文網站的想法。他在得到該網站的源代码之後使用[AltaVista的](../Page/AltaVista.md "wikilink")[Babelfish平台的線上翻譯软件将源代码内的日文原文全部翻譯成英文](../Page/Yahoo!_Babel_Fish.md "wikilink")。\[7\]\[8\]
 
 創建時，4chan的貼圖討論版包括日本動漫版、隨機版、[H圖片版](https://zh.wikipedia.org/wiki/變態_\(日語\) "wikilink")、可愛二次元圖片版和[Yaoi版](../Page/Yaoi.md "wikilink")，而隨著時間的推移，4chan的版块也有所增加，新增的版块包括體育、科技、照相、音樂、[电子游戏](../Page/电子游戏.md "wikilink")、旅遊、健身、政治、武器、科學与數學、[Cosplay](../Page/Cosplay.md "wikilink")、料理与電影等等。现今網站上的版块有六大分類：[日本文化](../Page/日本文化.md "wikilink")、愛好、創意、成人（18禁）、其他和雜項（18禁），其中访问流量最大的版面從多到少排序依次为/b/
 （Random，隨機版）、/v/ （Video games，电子游戏版）、/a/ （Anime and Manga，日本動漫版）和 /s/
@@ -18,7 +18,7 @@
 
 ### 克里斯托弗·普尔
 
-剛開始克里斯托弗·普尔一直把自己的真实世界身份保密，只使用網名作标识，直到在2008年7月9日《[華爾街日報](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")》才透露真名\[31\]。同日，《[時代雜誌](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")》發表了一篇記者採訪，把克里斯托弗·普尔描述为在網上內容協作的演變中的「一個重要人物」\[32\]，但在當時《[華盛頓郵報](https://zh.wikipedia.org/wiki/華盛頓郵報 "wikilink")》一篇文章则称“一切（只是）一场大骗局，一个意图引人注目的报道。这只是你们想从4chan的创建者得到的（说法）而已。”（），暗示「克里斯托弗·普尔」的身份也有可能是伪造的。\[33\]在2009年3月，克里斯托弗·普尔入圍[時代百大人物](https://zh.wikipedia.org/wiki/時代百大人物 "wikilink")\[34\]。
+剛開始克里斯托弗·普尔一直把自己的真实世界身份保密，只使用網名作标识，直到在2008年7月9日《[華爾街日報](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")》才透露真名\[31\]。同日，《[時代雜誌](../Page/時代雜誌.md "wikilink")》發表了一篇記者採訪，把克里斯托弗·普尔描述为在網上內容協作的演變中的「一個重要人物」\[32\]，但在當時《[華盛頓郵報](https://zh.wikipedia.org/wiki/華盛頓郵報 "wikilink")》一篇文章则称“一切（只是）一场大骗局，一个意图引人注目的报道。这只是你们想从4chan的创建者得到的（说法）而已。”（），暗示「克里斯托弗·普尔」的身份也有可能是伪造的。\[33\]在2009年3月，克里斯托弗·普尔入圍[時代百大人物](https://zh.wikipedia.org/wiki/時代百大人物 "wikilink")\[34\]。
 
 在接受《華爾街日報》和《時代雜誌》採訪之前，克里斯托弗·普尔一直刻意把自己的真实身份跟4chan相隔离，在《時代雜誌》採訪中，他也表示「我本人的私生活与我在網上的活动泾渭分明……就如中間有堵防火牆般。」\[35\]克里斯托弗·普尔當時也在[耶魯大學和](https://zh.wikipedia.org/wiki/耶魯大學 "wikilink")[麻省理工學院的會議上發過言](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")\[36\]，其中2008年一篇《[觀察家報](../Page/觀察家報.md "wikilink")》的文章里描述：「他是你們根本沒有聽說過的最有影響的網絡實業家」\[37\]\[38\]。
 
@@ -55,7 +55,7 @@ Games，电子游戏）是討論電腦與电子游戏的貼圖版。\[71\]/v/上
 never talks about video
 games（/v/版从不討論電子遊戲）」。\[72\]由于很多人因在/v/上帖關於[口袋妖怪系列的信息而被其他版民騷擾](https://zh.wikipedia.org/wiki/口袋妖怪系列 "wikilink")，克里斯托弗·普尔在2010年新創建了專門討論口袋妖怪的/vp/版，並於2012年將/v/版分割出一般討論相关遊戲系列专用的/vg/版。\[73\]
 
-4chan許多的有名事件或網絡爆紅是從/v/開始的。\[74\]\[75\][GamerGate事件剛開始在](https://zh.wikipedia.org/wiki/GamerGate "wikilink")/v/啟動，可是由於一些關於管理員的爭議，大部分支持GamerGate的用戶為了繼續活動移到[8chan](https://zh.wikipedia.org/wiki/8chan "wikilink")。\[76\]\[77\]從2011年開始，/vp/版開始製造一個滑稽模仿版本神奇寶貝遊戲，叫做「Pokémon
+4chan許多的有名事件或網絡爆紅是從/v/開始的。\[74\]\[75\][GamerGate事件剛開始在](https://zh.wikipedia.org/wiki/GamerGate "wikilink")/v/啟動，可是由於一些關於管理員的爭議，大部分支持GamerGate的用戶為了繼續活動移到[8chan](../Page/8chan.md "wikilink")。\[76\]\[77\]從2011年開始，/vp/版開始製造一個滑稽模仿版本神奇寶貝遊戲，叫做「Pokémon
 Sage」（神奇寶貝 下げ版）。\[78\]
 
 ### /jp/
@@ -156,7 +156,7 @@ out of /jp/」（滾出/jp/）。/jp/的社區也发起过很多4chan以外的�
   - [瑞克搖擺](../Page/瑞克搖擺.md "wikilink")：瑞克搖擺的来源是4chan的/v/版，出现于2007年5月。\[105\]惡搞者将歌手[理查德·艾斯利唱的](../Page/理查德·艾斯利.md "wikilink")1987年歌曲《[Never
     Gonna Give You
     Up](https://zh.wikipedia.org/wiki/Never_Gonna_Give_You_Up "wikilink")》（永远不会放弃你）的音樂視頻链接贴在版面上，并谎称此视频与主题有关，结果受害者点击该連結后会到達錯的視頻。\[106\]2008年之后，这网络潮流在许多其他网站也流行起来，\[107\]结果得到主流媒體關注。\[108\]《[洛杉磯時報](../Page/洛杉磯時報.md "wikilink")》有報告這個網路爆紅现象，在採訪理查德·艾斯利的時候，他說他認為這種玩笑「又奇怪，又可笑」。\[109\]\[110\]
-  - 巧克力雨：一個[YouTube音樂視頻在](../Page/YouTube.md "wikilink")/b/版貼上之後在全網上便流行。大量的/b/用户不断提升[泰·桑迪的歌](https://zh.wikipedia.org/wiki/泰·桑迪 "wikilink")《[Chocolate
+  - 巧克力雨：一個[YouTube音樂視頻在](../Page/YouTube.md "wikilink")/b/版貼上之後在全網上便流行。大量的/b/用户不断提升[泰·桑迪的歌](../Page/泰·桑迪.md "wikilink")《[Chocolate
     Rain](https://zh.wikipedia.org/wiki/Chocolate_Rain "wikilink")》（巧克力雨）在YouTube上的排名。視頻中的一句「」（我喘氣的時候离麥克風遠一點）成為一個網絡流行語。\[111\]\[112\]\[113\]
   - [Pedobear](https://zh.wikipedia.org/wiki/Pedobear "wikilink")：/b/版用戶創造的戀童癖吉祥物。原來的外形來自一個[2chAA繪圖人物](https://zh.wikipedia.org/wiki/2ch "wikilink")，它的基本模樣被改裝之後成為了一個新人物。\[114\]
   - [波蘭球](https://zh.wikipedia.org/wiki/波蘭球 "wikilink")：來自美國4chan和德國Krautchan兩不同網站的/int/版，用來擬人化全球各種國家。\[115\]
@@ -215,9 +215,9 @@ out of /jp/」（滾出/jp/）。/jp/的社區也发起过很多4chan以外的�
 2012年2月17日，FBI以持有[兒童色情物品的指控逮捕了绍斯菲尔德的一名男子赛迪斯](../Page/兒童色情.md "wikilink")·麦克迈克尔（Thaddeus
 McMichael）。\[168\]根据FBI的刑事指控，其所持有的部分违法兒童色情图片是从/b/版取得的。\[169\]
 
-2014年8月31日，100名歐美明星裸體照片由於[iCloud系統安全受到損害](https://zh.wikipedia.org/wiki/iCloud "wikilink")[而被洩露](https://zh.wikipedia.org/wiki/2014年8月名人照片泄露事件 "wikilink")，大量照片被上傳在4chan上。\[170\]
+2014年8月31日，100名歐美明星裸體照片由於[iCloud系統安全受到損害](https://zh.wikipedia.org/wiki/iCloud "wikilink")[而被洩露](../Page/2014年8月名人照片泄露事件.md "wikilink")，大量照片被上傳在4chan上。\[170\]
 
-2017年2月，為了諷刺[自由主義者](https://zh.wikipedia.org/wiki/自由主義者 "wikilink")，4chan上開始流行傳播「[OK手勢代表](../Page/OK.md "wikilink")[白人至上主義](https://zh.wikipedia.org/wiki/白人至上主義 "wikilink")」的[謠言](https://zh.wikipedia.org/wiki/謠言 "wikilink")。後來該謠言越傳越大，導致西方大部分民眾都認為「OK手勢代表白人至上主義」是真實的\[171\]，例如[基督城清真寺槍擊案中的兇手在出庭時就做出OK手勢](https://zh.wikipedia.org/wiki/基督城清真寺槍擊案 "wikilink")\[172\]，而[暴雪也在](../Page/暴雪娛樂.md "wikilink")2019年4月就禁止[OWL的粉絲在直播中做OK手勢](https://zh.wikipedia.org/wiki/守望先锋联赛 "wikilink")\[173\]。
+2017年2月，為了諷刺[自由主義者](https://zh.wikipedia.org/wiki/自由主義者 "wikilink")，4chan上開始流行傳播「[OK手勢代表](../Page/OK.md "wikilink")[白人至上主義](https://zh.wikipedia.org/wiki/白人至上主義 "wikilink")」的[謠言](https://zh.wikipedia.org/wiki/謠言 "wikilink")。後來該謠言越傳越大，導致西方大部分民眾都認為「OK手勢代表白人至上主義」是真實的\[171\]，例如[基督城清真寺槍擊案中的兇手在出庭時就做出OK手勢](../Page/基督城清真寺槍擊案.md "wikilink")\[172\]，而[暴雪也在](../Page/暴雪娛樂.md "wikilink")2019年4月就禁止[OWL的粉絲在直播中做OK手勢](../Page/守望先锋联赛.md "wikilink")\[173\]。
 
 ### ISP封鎖
 

@@ -11,7 +11,7 @@ Fences通过在桌面上界定半透明区域来给图标分组\[3\]。这些半
 ## 评价
 
 一个[PC
-World的评论者称赞Fences](https://zh.wikipedia.org/wiki/PC_World "wikilink")：“安装这个软件不足5分钟，我便意识到在我以后的电脑生涯中，我会一直使用这个软件。它非常棒\[5\]。”
+World的评论者称赞Fences](../Page/PC_World.md "wikilink")：“安装这个软件不足5分钟，我便意识到在我以后的电脑生涯中，我会一直使用这个软件。它非常棒\[5\]。”
 
 在2009年2月，Fences的一个预览版被列入[TechSpot的一周热门下载榜单](https://zh.wikipedia.org/wiki/TechSpot "wikilink")\[6\]。
 

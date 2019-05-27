@@ -1,4 +1,4 @@
-**RPG-16**（；\[1\][俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）是一款由[前苏联](../Page/苏联.md "wikilink")（現在是[俄罗斯](../Page/俄罗斯.md "wikilink")）所研製及生產的58.3毫米[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，主要在[反坦克戰時使用](../Page/反坦克戰.md "wikilink")，發射[PG-16V](https://zh.wikipedia.org/wiki/PG-16V "wikilink")
+**RPG-16**（；\[1\][俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）是一款由[前苏联](../Page/苏联.md "wikilink")（現在是[俄罗斯](../Page/俄罗斯.md "wikilink")）所研製及生產的58.3毫米[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，主要在[反坦克戰時使用](../Page/反坦克戰.md "wikilink")，發射[PG-16V](https://zh.wikipedia.org/wiki/PG-16V "wikilink")
 [HEAT火箭彈](../Page/高爆反坦克彈.md "wikilink")。
 
 ## 歷史

@@ -114,7 +114,7 @@ X-Bow，攝於[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")\]\]
 [2013-03-05_Geneva_Motor_Show_8045.JPG](https://zh.wikipedia.org/wiki/File:2013-03-05_Geneva_Motor_Show_8045.JPG "fig:2013-03-05_Geneva_Motor_Show_8045.JPG")
 [KTMX-Bow.jpg](https://zh.wikipedia.org/wiki/File:KTMX-Bow.jpg "fig:KTMX-Bow.jpg")
 2006年開始，KTM聯同Kiska
-Design、[奧迪和意大利賽車底盤製造商達拉拿](https://zh.wikipedia.org/wiki/奧迪 "wikilink")（[Dallara](https://zh.wikipedia.org/wiki/達拉拉 "wikilink")）開始研發一輛超輕量而且可在歐洲街道上合法行駛的跑車，名為**X-Bow**\[7\]（讀crossbow）。X-Bow裝載一台奧迪引擎和一具來自達拉拿的底盤，全車僅重640[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")（1,400[磅](../Page/磅.md "wikilink")），只設兩個座位。首次展示於2008年的[日內瓦汽車展中](https://zh.wikipedia.org/wiki/日內瓦汽車展 "wikilink")。
+Design、[奧迪和意大利賽車底盤製造商達拉拿](https://zh.wikipedia.org/wiki/奧迪 "wikilink")（[Dallara](../Page/達拉拉.md "wikilink")）開始研發一輛超輕量而且可在歐洲街道上合法行駛的跑車，名為**X-Bow**\[7\]（讀crossbow）。X-Bow裝載一台奧迪引擎和一具來自達拉拿的底盤，全車僅重640[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")（1,400[磅](../Page/磅.md "wikilink")），只設兩個座位。首次展示於2008年的[日內瓦汽車展中](https://zh.wikipedia.org/wiki/日內瓦汽車展 "wikilink")。
 
 X-Bow搭載一台奧迪四汽缸2.0[公升](../Page/公升.md "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")。2008年的型號在5,500[rpm時可製造](https://zh.wikipedia.org/wiki/每分鐘轉速 "wikilink")237匹的[馬力](../Page/馬力.md "wikilink")，在2,000至5,500rpm時可輸出310[牛頓米的](../Page/牛頓米.md "wikilink")[力矩](../Page/力矩.md "wikilink")\[8\]，由靜止加速至100[km/h只需](https://zh.wikipedia.org/wiki/公里每小時 "wikilink")3.9[秒](../Page/秒.md "wikilink")\[9\]，極速達每小時217公里（每小時134.9[英里](../Page/英里.md "wikilink")）。2011年的X-Bow
 R型號所搭載的奧迪引擎更調校至擁有296匹馬力，在3,300rpm時可輸出400牛頓米的力矩\[10\]。

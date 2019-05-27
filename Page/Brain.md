@@ -64,7 +64,7 @@ website = <http://www.kbs.co.kr/drama/brain/> | production_website = |
 
 ### 客串出演
 
-  - [劉彩英](https://zh.wikipedia.org/wiki/劉彩英 "wikilink") 飾演 游泳教練
+  - [劉彩英](../Page/劉彩英.md "wikilink") 飾演 游泳教練
   - [李玹雨](../Page/李玹雨.md "wikilink") 飾演 朴東河
   - [李璨浩](https://zh.wikipedia.org/wiki/李璨浩 "wikilink")
   - [Marco](https://zh.wikipedia.org/wiki/Marco\(韓國演員\) "wikilink")

@@ -289,7 +289,7 @@
 
 **[平泉政權](../Page/奧州藤原氏.md "wikilink")**
 
-  - [藤原泰衡](https://zh.wikipedia.org/wiki/藤原泰衡 "wikilink") 　　
+  - [藤原泰衡](../Page/藤原泰衡.md "wikilink") 　　
 
   - 　　
 
@@ -301,7 +301,7 @@
 
   - [足利義滿](../Page/足利義滿.md "wikilink")
 
-  - [細川賴之](https://zh.wikipedia.org/wiki/細川賴之 "wikilink")
+  - [細川賴之](../Page/細川賴之.md "wikilink")
 
   - [斯波義將](../Page/斯波義將.md "wikilink")
 
@@ -312,7 +312,7 @@
 
   -
   -
-  - [楠木正儀](https://zh.wikipedia.org/wiki/楠木正儀 "wikilink")
+  - [楠木正儀](../Page/楠木正儀.md "wikilink")
 
   - [智蘊](https://zh.wikipedia.org/wiki/智蘊 "wikilink")
 
@@ -378,7 +378,7 @@
   - [特達曼格](https://zh.wikipedia.org/wiki/脫脫蒙哥 "wikilink")
   - [農蓋](../Page/那海.md "wikilink")
   - [塢斯](https://zh.wikipedia.org/wiki/兀魯斯 "wikilink")
-  - [托刻塔器雅](https://zh.wikipedia.org/wiki/脱黑脱乞牙 "wikilink")
+  - [托刻塔器雅](../Page/脱黑脱乞牙.md "wikilink")
   - [帖木爾滅里](https://zh.wikipedia.org/wiki/帖木兒·滅里 "wikilink")
   - [特庫答密休](../Page/脫脫迷失.md "wikilink")
   - [摩麥](https://zh.wikipedia.org/wiki/馬麥 "wikilink")
@@ -531,12 +531,12 @@
   -
 **[蒲甘朝](../Page/蒲甘王國.md "wikilink")**
 
-  - [提珞明彔](https://zh.wikipedia.org/wiki/醯路彌路 "wikilink")
-  - [賈司瓦](https://zh.wikipedia.org/wiki/迦娑婆 "wikilink")
-  - [印答邋挹得](https://zh.wikipedia.org/wiki/室利膺陀羅鐵 "wikilink")
+  - [提珞明彔](../Page/醯路彌路.md "wikilink")
+  - [賈司瓦](../Page/迦娑婆.md "wikilink")
+  - [印答邋挹得](../Page/室利膺陀羅鐵.md "wikilink")
   - [那羅梯訶波帝](https://zh.wikipedia.org/wiki/那拉提訶波提 "wikilink")
-  - [切烏斯瓦](https://zh.wikipedia.org/wiki/憍苴 "wikilink")
-  - [邦母安](https://zh.wikipedia.org/wiki/班孟 "wikilink")
+  - [切烏斯瓦](../Page/憍苴.md "wikilink")
+  - [邦母安](../Page/班孟.md "wikilink")
 
 **[吳哥王朝](https://zh.wikipedia.org/wiki/高棉帝國 "wikilink")**
 
@@ -605,7 +605,7 @@
 
   - [貝拉四世](https://zh.wikipedia.org/wiki/貝拉四世 "wikilink")
 
-  - [伊朱杜邦](https://zh.wikipedia.org/wiki/伊什特萬五世 "wikilink")
+  - [伊朱杜邦](../Page/伊什特萬五世.md "wikilink")
 
   - [拉斯羅](../Page/拉斯洛四世.md "wikilink")
 
@@ -617,7 +617,7 @@
 
   - [臘咱爾](https://zh.wikipedia.org/wiki/拉扎爾·赫雷別利亞諾維奇 "wikilink")
 
-  - [咖魯伊](https://zh.wikipedia.org/wiki/卡洛三世_\(那不勒斯\) "wikilink")
+  - [咖魯伊](../Page/卡洛三世_\(那不勒斯\).md "wikilink")
 
   - [西吉斯蒙](https://zh.wikipedia.org/wiki/西吉斯蒙德_\(神聖羅馬帝國\) "wikilink")
 
@@ -668,12 +668,12 @@
   -
   - [波列斯拉夫五世](https://zh.wikipedia.org/wiki/波列斯拉夫五世 "wikilink")
 
-  - [享利克](https://zh.wikipedia.org/wiki/亨里克四世 "wikilink")
+  - [享利克](../Page/亨里克四世.md "wikilink")
 
   -
-  - [亨利克一世](https://zh.wikipedia.org/wiki/亨里克一世_\(下西里西亞\) "wikilink")
+  - [亨利克一世](../Page/亨里克一世_\(下西里西亞\).md "wikilink")
 
-  - [亨利克二世](https://zh.wikipedia.org/wiki/亨里克二世_\(西里西亞\) "wikilink")
+  - [亨利克二世](../Page/亨里克二世_\(西里西亞\).md "wikilink")
 
   - [卡集米歇三世](https://zh.wikipedia.org/wiki/卡齊米日三世 "wikilink")
 
@@ -862,7 +862,7 @@
   - [約翰](https://zh.wikipedia.org/wiki/約翰_\(英格蘭國王\) "wikilink")
 
   -
-  - [倫夏](https://zh.wikipedia.org/wiki/威廉·倫夏 "wikilink")
+  - [倫夏](../Page/威廉·倫夏.md "wikilink")
 
   -
   - [羅賓漢](https://zh.wikipedia.org/wiki/羅賓漢 "wikilink")

@@ -4,7 +4,7 @@ TV在中国大陆发售官方简体中文版](https://zh.wikipedia.org/wiki/Nvid
 。
 
 《新超级马里奥兄弟Wii》成功地同时获得了市场和媒体的青睐，游戏评分综合网站[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic分别统计得出](../Page/Metacritic.md "wikilink")88%与87/100分。截止2015年3月，本作以2,932万份的全球销量，在[Wii畅销游戏排行榜上名列第四](https://zh.wikipedia.org/wiki/Wii畅销游戏列表 "wikilink")。
-游戏斩获多项殊荣，包括[斯派克电子游戏盛典](https://zh.wikipedia.org/wiki/斯派克电子游戏大奖 "wikilink")、[IGN与](../Page/IGN.md "wikilink")[GameTrailers颁发的](../Page/GameTrailers.md "wikilink")2009年度最佳Wii游戏。
+游戏斩获多项殊荣，包括[斯派克电子游戏盛典](../Page/斯派克电子游戏大奖.md "wikilink")、[IGN与](../Page/IGN.md "wikilink")[GameTrailers颁发的](../Page/GameTrailers.md "wikilink")2009年度最佳Wii游戏。
 
 本作的续作《[新超级马里奥兄弟2](../Page/新超级马里奥兄弟2.md "wikilink")》于2012年8月在[任天堂3DS上发行](../Page/任天堂3DS.md "wikilink")。而家用机平台上的续作《[新超级马里奥兄弟U](../Page/新超级马里奥兄弟U.md "wikilink")》作为任天堂的新家用游戏主机[Wii
 U的首发游戏之一](../Page/Wii_U.md "wikilink")，于2012年底在世界各地发售。

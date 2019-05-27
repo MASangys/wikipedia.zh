@@ -41,9 +41,7 @@ Last](https://zh.wikipedia.org/wiki/From_First_to_Last "wikilink")、[Our
 Last Night與](https://zh.wikipedia.org/wiki/Our_Last_Night "wikilink")[A
 Bullet for Pretty
 Boy的聲援](https://zh.wikipedia.org/wiki/A_Bullet_for_Pretty_Boy "wikilink")。後來又吉他手Bruce證實樂團也將與[Born
-of
-Osiris參加](https://zh.wikipedia.org/wiki/Born_of_Osiris "wikilink")《Thrash
-and
+of Osiris參加](../Page/Born_of_Osiris.md "wikilink")《Thrash and
 Burn夏祭巡迴》。\[2\]，而新專輯一曲《Breathless》就是在這時首先表演的。接著翻唱[阿肯的Right](../Page/阿肯.md "wikilink")
 Now (Na Na Na)，收錄在發行於2010年十一月的《[Punk Goes Pop
 3](https://zh.wikipedia.org/wiki/Punk_Goes_Pop_3 "wikilink")》。

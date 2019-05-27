@@ -14,12 +14,11 @@ Store\[2\]。
 
 2011年12月6日，微軟成立了Windows Store blog\[4\]，負責發布Windows Store的相關消息。
 
-2015年7月29日，[Windows
-10上市](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，Windows
+2015年7月29日，[Windows 10上市](../Page/Windows_10.md "wikilink")，Windows
 Store在此時架設了網站版本。
 
 2017年10月17日，微软发布[Windows
-10秋季创意者更新](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，并将“Windows商店”更名为“Microsoft商店”\[5\]\[6\]。同时更换新的标志，为微软“四色方形”新徽标嵌入白色提包的图案。
+10秋季创意者更新](../Page/Windows_10.md "wikilink")，并将“Windows商店”更名为“Microsoft商店”\[5\]\[6\]。同时更换新的标志，为微软“四色方形”新徽标嵌入白色提包的图案。
 
 ## 應用程式
 
@@ -107,7 +106,7 @@ Live整合在一起](../Page/Xbox_Live.md "wikilink")。
 用戶可以通過Windows Phone Store下載應用遊戲和軟件。如果可以使用[Xbox
 Live](../Page/Xbox_Live.md "wikilink")，則Windows Phone
 Store可以直接通過裝置遠程訪問。發布Windows
-Phone時，微軟還列出了大量可供下載的流行遊戲。\[12\]另外，在[Gamescom上](https://zh.wikipedia.org/wiki/Gamescom "wikilink")，微軟發布了超過50款優秀的Windows
+Phone時，微軟還列出了大量可供下載的流行遊戲。\[12\]另外，在[Gamescom上](../Page/Gamescom.md "wikilink")，微軟發布了超過50款優秀的Windows
 Phone遊戲和應用程序，\[13\]用户同樣可以利用Xbox Live下載。
 
 ### 内容限制

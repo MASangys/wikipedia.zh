@@ -1,4 +1,4 @@
-I或i在[語言方面可以指](https://zh.wikipedia.org/wiki/語言 "wikilink")：
+I或i在[語言方面可以指](../Page/語言.md "wikilink")：
 
   - **I**，是[拉丁字母的第九個字母](../Page/拉丁字母.md "wikilink")。
   - **I**，[國際音標及其他很多拉丁語系正寫法的](https://zh.wikipedia.org/wiki/國際音標 "wikilink")[閉前不圓唇元音](../Page/閉前不圓唇元音.md "wikilink")
@@ -77,6 +77,5 @@ I或i在其他方面可以指：
   - **[I
     (生物股長專輯)](../Page/I_\(生物股長專輯\).md "wikilink")**，日本樂團[生物股長的](https://zh.wikipedia.org/wiki/生物股長 "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")
   - **[Individual-i](../Page/布魯斯·施奈爾.md "wikilink")**，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[密碼學學者](https://zh.wikipedia.org/wiki/密碼學 "wikilink")、[資訊安全專家與](https://zh.wikipedia.org/wiki/資訊安全 "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[布魯斯·施奈爾的一個推廣符號](../Page/布魯斯·施奈爾.md "wikilink")
-  - **[I
-    (報章)](https://zh.wikipedia.org/wiki/I_\(報章\) "wikilink")**，2010年創刊的英國報刊
+  - **[I (報章)](../Page/I_\(報章\).md "wikilink")**，2010年創刊的英國報刊
   - **II**，[香港](../Page/香港.md "wikilink")[俚语中的意思即](https://zh.wikipedia.org/wiki/俚语 "wikilink")“非法入境者”（）

@@ -1,4 +1,4 @@
-是由[史克威尔开发并于](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")1992年发行的中世纪奇幻[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，游戏是[最终幻想系列的第五部作品](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")。游戏于日本[超级任天堂平台首发](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")，后来略作修改移植于[PlayStation和](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[Game
+是由[史克威尔开发并于](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")1992年发行的中世纪奇幻[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，游戏是[最终幻想系列的第五部作品](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")。游戏于日本[超级任天堂平台首发](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")，后来略作修改移植于[PlayStation和](../Page/PlayStation.md "wikilink")[Game
 Boy
 Advance平台](../Page/Game_Boy_Advance.md "wikilink")。1994年制作的[原創動畫錄影帶](../Page/原創動畫錄影帶.md "wikilink")《[最终幻想](https://zh.wikipedia.org/wiki/最终幻想_\(OVA\) "wikilink")》讲述了游戏情节的后续故事。游戏于2011年4月在日本[PlayStation
 Network发行](../Page/PlayStation_Network.md "wikilink")。使用了高分辨率图形和触摸界面的强化移植版的[iOS版于](https://zh.wikipedia.org/wiki/iOS "wikilink")2013年3月发行，[Android版于](../Page/Android.md "wikilink")2013年9月发行。
@@ -46,7 +46,7 @@ Advance版为26种）职业。每个角色初始职业为“佣兵”；若要�
 
 ## 开发
 
-《最终幻想V》的[总监为](https://zh.wikipedia.org/wiki/游戏总监 "wikilink")[坂口博信](../Page/坂口博信.md "wikilink")，他担任最终幻想系列创作人至《[最终幻想IX](../Page/最终幻想IX.md "wikilink")》，坂口这是他最喜欢的最终幻想游戏\[23\]\[24\]。角色、图像和作品Logo由系列插画者与图像设计者[天野喜孝设计](../Page/天野喜孝.md "wikilink")，实际的角色子画面由涉谷员子设计\[25\]。怪兽由[野村哲也设计](../Page/野村哲也.md "wikilink")\[26\]\[27\]。喜孝曾称，他认为他最喜欢的最终幻想设计在《最终幻想V》法利斯和《最终幻想VI》泰拉的刻画之间\[28\]。剧本文字的编写由坂口和[北瀨佳範合作完成](../Page/北瀨佳範.md "wikilink")\[29\]。坂口构思并主管情节，北濑尝试为相对严肃的故事加入更多幽默来缓和\[30\]\[31\]。职业系统由[伊藤裕之设计](https://zh.wikipedia.org/wiki/伊藤裕之 "wikilink")，他也和[松井聪彦一同担任战斗规划](https://zh.wikipedia.org/wiki/松井聪彦 "wikilink")\[32\]\[33\]\[34\]。飞空艇场景使用了[Mode
+《最终幻想V》的[总监为](https://zh.wikipedia.org/wiki/游戏总监 "wikilink")[坂口博信](../Page/坂口博信.md "wikilink")，他担任最终幻想系列创作人至《[最终幻想IX](../Page/最终幻想IX.md "wikilink")》，坂口这是他最喜欢的最终幻想游戏\[23\]\[24\]。角色、图像和作品Logo由系列插画者与图像设计者[天野喜孝设计](../Page/天野喜孝.md "wikilink")，实际的角色子画面由涉谷员子设计\[25\]。怪兽由[野村哲也设计](../Page/野村哲也.md "wikilink")\[26\]\[27\]。喜孝曾称，他认为他最喜欢的最终幻想设计在《最终幻想V》法利斯和《最终幻想VI》泰拉的刻画之间\[28\]。剧本文字的编写由坂口和[北瀨佳範合作完成](../Page/北瀨佳範.md "wikilink")\[29\]。坂口构思并主管情节，北濑尝试为相对严肃的故事加入更多幽默来缓和\[30\]\[31\]。职业系统由[伊藤裕之设计](../Page/伊藤裕之.md "wikilink")，他也和[松井聪彦一同担任战斗规划](https://zh.wikipedia.org/wiki/松井聪彦 "wikilink")\[32\]\[33\]\[34\]。飞空艇场景使用了[Mode
 7效果](../Page/Mode_7.md "wikilink")，飞空艇的移动会产生星球绕轴旋转的效果。史克威尔雇佣了45人的团队创作游戏，并使用16
 MB的空间容纳子图形、动画和细节背景。《[GamePro](https://zh.wikipedia.org/wiki/GamePro "wikilink")》1993年5月刊中称，日本当局要求史克威尔不要在教学日发售游戏，否则小学生会去逃课排队购买游戏\[35\]。
 《最终幻想V》日版后发行后不久开始官方英文化。游戏在北美标题定为“最终幻想III”，但项目最终未能实现\[36\]。翻译员[泰德·伍尔西在](https://zh.wikipedia.org/wiki/泰德·伍尔西 "wikilink")1994年的访谈中解释称，《最终幻想V》“正好难以让一般玩家足够接近”\[37\]。谣言称将可能尝试第二次本地化，并将游戏定名为“最终幻想
@@ -59,11 +59,11 @@ Software相同的版本还是真正的第四次尝试\[39\]。连续取消本地
 
 ## 移植与重制
 
-《最终幻想V》由[东星软件移植于索尼](../Page/东星软件.md "wikilink")[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，游戏于1998年3月19日发行；其与1999年收录于《最终幻想收藏集》中再发行，合集另外两部游戏是《最终幻想IV》和《最终幻想VI》\[41\]\[42\]。PlayStation版加入了为开场与结尾加入了新的[全动态影像过场](https://zh.wikipedia.org/wiki/全动态影像 "wikilink")，并新增了“备忘录存档”功能，而游戏其他方面依然没有变化\[43\]\[44\]。史克威尔发行了5万份带有最终幻想主题闹钟的限量版游戏\[45\]。同年，史克威尔在北美发行了PlayStation合集《最终幻想选集》，其收录了《最终幻想V》和PlayStation版《最终幻想VI》。这标志着游戏首发七年后，首次在日本以外发行\[46\]。2002年，史克威尔在欧洲和澳大利亚发行该版本游戏但这次是和《最终幻想IV》一起发行\[47\]\[48\]。英语版游戏在原版上做了变动——最明显的是法利斯设定为凯尔特“海盗”特点，同时角色名字翻译也和日本官方罗马字不同，如“Bartz”之于“Butz”，“Gill”之于“Guido”\[49\]。2012年12月18日，移植版和其他游戏打包，在日本以《最终幻想25周年纪念极致选集》为题发行\[50\]。
+《最终幻想V》由[东星软件移植于索尼](../Page/东星软件.md "wikilink")[PlayStation](../Page/PlayStation.md "wikilink")，游戏于1998年3月19日发行；其与1999年收录于《最终幻想收藏集》中再发行，合集另外两部游戏是《最终幻想IV》和《最终幻想VI》\[41\]\[42\]。PlayStation版加入了为开场与结尾加入了新的[全动态影像过场](https://zh.wikipedia.org/wiki/全动态影像 "wikilink")，并新增了“备忘录存档”功能，而游戏其他方面依然没有变化\[43\]\[44\]。史克威尔发行了5万份带有最终幻想主题闹钟的限量版游戏\[45\]。同年，史克威尔在北美发行了PlayStation合集《最终幻想选集》，其收录了《最终幻想V》和PlayStation版《最终幻想VI》。这标志着游戏首发七年后，首次在日本以外发行\[46\]。2002年，史克威尔在欧洲和澳大利亚发行该版本游戏但这次是和《最终幻想IV》一起发行\[47\]\[48\]。英语版游戏在原版上做了变动——最明显的是法利斯设定为凯尔特“海盗”特点，同时角色名字翻译也和日本官方罗马字不同，如“Bartz”之于“Butz”，“Gill”之于“Guido”\[49\]。2012年12月18日，移植版和其他游戏打包，在日本以《最终幻想25周年纪念极致选集》为题发行\[50\]。
 
 在[PlayStation
 2发行后](../Page/PlayStation_2.md "wikilink")，索尼报告称，新系统和《最终幻想选集》的《最终幻想V》部分有兼容性问题\[51\]。若玩家尝试存档游戏，游戏将会出现图形错误的bug\[52\]。史克威尔之后声明称，只是存档屏幕会崩坏，若玩家希望则仍可存档，反复进出存档屏幕将可看到正常的屏幕\[53\]。在PAL区和[Greatest
-Hits版](https://zh.wikipedia.org/wiki/Greatest_Hits "wikilink")《最终幻想选集》中，不兼容问题已被修复。
+Hits版](../Page/Greatest_Hits.md "wikilink")《最终幻想选集》中，不兼容问题已被修复。
 
 《最终幻想V》再次由东星移植于任天堂[Game Boy
 Advance平台](../Page/Game_Boy_Advance.md "wikilink")，游戏于2006年10月12日以《最终幻想V

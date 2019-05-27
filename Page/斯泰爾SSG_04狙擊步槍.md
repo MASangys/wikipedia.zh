@@ -84,8 +84,7 @@ Magnum](https://zh.wikipedia.org/wiki/.300_Winchester_Magnum "wikilink")（7.62�
   - [斯泰爾SSG 08](../Page/斯泰爾SSG_08狙擊步槍.md "wikilink")，改進型
   - [斯泰爾SSG M1](https://zh.wikipedia.org/wiki/斯泰爾SSG_M1狙擊步槍 "wikilink")
   - [斯泰爾HS .50](../Page/斯泰爾HS_.50狙擊步槍.md "wikilink")
-  - [斯泰爾IWS
-    2000](https://zh.wikipedia.org/wiki/斯泰爾IWS_2000狙擊步槍 "wikilink")
+  - [斯泰爾IWS 2000](../Page/斯泰爾IWS_2000狙擊步槍.md "wikilink")
 
 ## 資料來源
 

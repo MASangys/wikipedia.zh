@@ -54,7 +54,7 @@
   - [啟航吧！編舟計畫](https://zh.wikipedia.org/wiki/啟航吧！編舟計畫 "wikilink")（2016年）
   - [Frame Arms Girl
     骨裝機娘](https://zh.wikipedia.org/wiki/Frame_Arms_Girl_骨裝機娘 "wikilink")（2017年）
-  - [和風喫茶鹿楓堂](https://zh.wikipedia.org/wiki/和風喫茶鹿楓堂 "wikilink")（2018年）
+  - [和風喫茶鹿楓堂](../Page/和風喫茶鹿楓堂.md "wikilink")（2018年）
 
 ### OVA
 
@@ -62,10 +62,10 @@
 
 <!-- end list -->
 
-  - [偷×看](https://zh.wikipedia.org/wiki/偷×看 "wikilink")（2014年）
+  - [偷×看](../Page/偷×看.md "wikilink")（2014年）
   - [水母食堂](https://zh.wikipedia.org/wiki/水母食堂 "wikilink")（2016年）
   - [「英雄」解體](https://zh.wikipedia.org/wiki/「英雄」解體 "wikilink")（2016年）
-  - [牽牛花與加瀨同學。](https://zh.wikipedia.org/wiki/加瀨同學系列 "wikilink")（2018年）
+  - [牽牛花與加瀨同學。](../Page/加瀨同學系列.md "wikilink")（2018年）
 
 ## 參見
 

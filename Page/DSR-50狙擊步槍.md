@@ -46,7 +46,7 @@ BMG](../Page/12.7×99mm_NATO.md "wikilink")[步枪](../Page/步枪.md "wikilink"
   - [沙漠科技硬目標攔截狙擊步槍](../Page/沙漠科技硬目標攔截狙擊步槍.md "wikilink")
   - [KSVK](../Page/KSVK狙擊步槍.md "wikilink")
   - [LR2型狙击步枪](../Page/LR2型狙击步枪.md "wikilink")
-  - [托爾狙擊步槍](https://zh.wikipedia.org/wiki/托爾狙擊步槍 "wikilink")
+  - [托爾狙擊步槍](../Page/托爾狙擊步槍.md "wikilink")
 
 ## 資料來源
 

@@ -139,7 +139,7 @@ Linneman）谈到了关于Ishiiruka的。
   - [游戏机模拟器列表](https://zh.wikipedia.org/wiki/游戏机模拟器列表 "wikilink")
   - [Xenia](../Page/Xenia.md "wikilink")，第七代主机[Xbox
     360模拟器](../Page/Xbox_360.md "wikilink")
-  - [RPCS3](https://zh.wikipedia.org/wiki/RPCS3 "wikilink")，第七代主机[PlayStation
+  - [RPCS3](../Page/RPCS3.md "wikilink")，第七代主机[PlayStation
     3模拟器](../Page/PlayStation_3.md "wikilink")
 
 ## 參考資料

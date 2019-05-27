@@ -227,11 +227,11 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/比尔·休伊特.md" title="wikilink">比尔·休伊特</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/阿特·哈里斯" title="wikilink">阿特·哈里斯</a></p></td>
+<td><p><a href="../Page/阿特·哈里斯.md" title="wikilink">阿特·哈里斯</a></p></td>
 <td><p><a href="../Page/西雅图超音速.md" title="wikilink">西雅图超音速</a> (3)</p></td>
 <td></td>
 </tr>
@@ -262,7 +262,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/迪克·加勒特" title="wikilink">迪克·加勒特</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a> (2)</p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a> (2)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -337,7 +337,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/吉姆·普莱斯" title="wikilink">吉姆·普莱斯</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a> (3)</p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a> (3)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -387,7 +387,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/布莱恩·温特斯" title="wikilink">布莱恩·温特斯</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a> (4)</p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a> (4)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -421,7 +421,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 <td><p><a href="https://zh.wikipedia.org/wiki/布法罗勇士" title="wikilink">布法罗勇士</a> (5)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/斯科特·梅" title="wikilink">斯科特·梅</a></p></td>
+<td><p><a href="../Page/斯科特·梅.md" title="wikilink">斯科特·梅</a></p></td>
 <td><p><a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a> (3)</p></td>
 <td></td>
 </tr>
@@ -462,7 +462,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/诺姆·尼克森" title="wikilink">诺姆·尼克森</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a> (5)</p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a> (5)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -497,7 +497,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 </tr>
 <tr class="odd">
 <td><p><em><a href="https://zh.wikipedia.org/wiki/埃尔文·约翰逊" title="wikilink">埃尔文·约翰逊</a></em>*</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a> (6)</p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a> (6)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -582,7 +582,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 </tr>
 <tr class="even">
 <td><p><em><a href="../Page/詹姆斯·沃西.md" title="wikilink">詹姆斯·沃西</a></em>*</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a> (7)</p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a> (7)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -602,7 +602,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/拜伦·斯科特" title="wikilink">拜伦·斯科特</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a> (8)</p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a> (8)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -731,7 +731,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 <td><p><a href="../Page/雷克斯·查普曼.md" title="wikilink">雷克斯·查普曼</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/何塞·霍金斯" title="wikilink">何塞·霍金斯</a></p></td>
+<td><p><a href="../Page/何塞·霍金斯.md" title="wikilink">何塞·霍金斯</a></p></td>
 <td><p><a href="../Page/费城76人.md" title="wikilink">费城76人</a> (5)</p></td>
 <td><p><a href="../Page/克里斯·莫里斯.md" title="wikilink">克里斯·莫里斯</a></p></td>
 </tr>
@@ -751,13 +751,13 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 <td><p><a href="../Page/圣安东尼奥马刺.md" title="wikilink">圣安东尼奥马刺</a> (3)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蒂姆·哈达威" title="wikilink">蒂姆·哈达威</a></p></td>
+<td><p><a href="../Page/蒂姆·哈达威.md" title="wikilink">蒂姆·哈达威</a></p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a> (9)</p></td>
 <td><p><a href="../Page/肖恩·埃利奥特.md" title="wikilink">肖恩·埃利奥特</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/弗拉德·迪瓦茨.md" title="wikilink">弗拉德·迪瓦茨</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a> (9)</p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a> (9)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/斯塔塞·金" title="wikilink">斯塔塞·金</a></p></td>
 </tr>
 <tr class="even">
@@ -786,7 +786,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 <td><p><a href="https://zh.wikipedia.org/wiki/费尔顿·斯宾瑟" title="wikilink">费尔顿·斯宾瑟</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/莱昂内尔·西蒙斯" title="wikilink">莱昂内尔·西蒙斯</a></p></td>
+<td><p><a href="../Page/莱昂内尔·西蒙斯.md" title="wikilink">莱昂内尔·西蒙斯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/萨克拉门托国王" title="wikilink">萨克拉门托国王</a> (6)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/特拉维斯·梅斯" title="wikilink">特拉维斯·梅斯</a></p></td>
 </tr>
@@ -887,7 +887,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/埃迪·琼斯.md" title="wikilink">埃迪·琼斯</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a> (11)</p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a> (11)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/杰伦·罗斯" title="wikilink">杰伦·罗斯</a></p></td>
 </tr>
 <tr class="even">
@@ -1407,9 +1407,9 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 <td><p><a href="../Page/科迪·泽勒.md" title="wikilink">科迪·泽勒</a>^</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/小蒂姆·哈达威" title="wikilink">小蒂姆·哈达威</a>^</p></td>
+<td><p><a href="../Page/小蒂姆·哈达威.md" title="wikilink">小蒂姆·哈达威</a>^</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/纽约尼克斯" title="wikilink">纽约尼克斯</a> (17)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/史蒂文·亚当斯" title="wikilink">史蒂文·亚当斯</a>^</p></td>
+<td><p><a href="../Page/史蒂文·亚当斯.md" title="wikilink">史蒂文·亚当斯</a>^</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1433,7 +1433,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/乔丹·克拉克森" title="wikilink">乔丹·克拉克森</a>^</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a> (14)</p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a> (14)</p></td>
 <td><p><a href="../Page/兰斯顿·加洛韦.md" title="wikilink">兰斯顿·加洛韦</a>^</p></td>
 </tr>
 <tr class="odd">
@@ -1447,7 +1447,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 <td><p><a href="https://zh.wikipedia.org/wiki/德安傑洛·羅素" title="wikilink">德安傑洛·羅素</a>^</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/德文·布克" title="wikilink">德文·布克</a>^</p></td>
+<td><p><a href="../Page/德文·布克.md" title="wikilink">德文·布克</a>^</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鳳凰城太陽" title="wikilink">鳳凰城太陽</a> (13)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/伊曼紐爾·穆迪埃" title="wikilink">伊曼紐爾·穆迪埃</a>^</p></td>
 </tr>
@@ -1463,7 +1463,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 </tr>
 <tr class="even">
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/麥爾坎·波格登" title="wikilink">麥爾坎·波格登</a></strong>^</p></td>
+<td><p><strong><a href="../Page/麥爾坎·波格登.md" title="wikilink">麥爾坎·波格登</a></strong>^</p></td>
 <td><p><a href="../Page/密尔沃基雄鹿.md" title="wikilink">密尔沃基雄鹿</a> (11)</p></td>
 </tr>
 <tr class="odd">
@@ -1472,7 +1472,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 <td><p><a href="https://zh.wikipedia.org/wiki/贾伦·布朗" title="wikilink">贾伦·布朗</a>^</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/乔尔·恩比德" title="wikilink">乔尔·恩比德</a>^</p></td>
+<td><p><a href="../Page/乔尔·恩比德.md" title="wikilink">乔尔·恩比德</a>^</p></td>
 <td><p><a href="../Page/费城76人.md" title="wikilink">费城76人</a> (18)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/马奎斯·克里斯" title="wikilink">马奎斯·克里斯</a>^</p></td>
 </tr>
@@ -1497,19 +1497,19 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 <td><p><a href="https://zh.wikipedia.org/wiki/朗佐·鮑爾" title="wikilink">朗佐·鮑爾</a>^</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/傑森·塔圖姆" title="wikilink">傑森·塔圖姆</a>^</p></td>
+<td><p><a href="../Page/傑森·塔圖姆.md" title="wikilink">傑森·塔圖姆</a>^</p></td>
 <td><p><a href="../Page/波士顿凯尔特人.md" title="wikilink">波士顿凯尔特人</a> (21)</p></td>
 <td><p>^</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/凱爾·庫茲馬" title="wikilink">凱爾·庫茲馬</a>^</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a> (17)</p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a> (17)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波格丹·博格達諾維奇" title="wikilink">波格丹·博格達諾維奇</a>^</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/勞里·馬爾卡寧" title="wikilink">勞里·馬爾卡寧</a>^</p></td>
 <td><p><a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a> (22)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/喬許·傑克森" title="wikilink">喬許·傑克森</a>^</p></td>
+<td><p><a href="../Page/喬許·傑克森.md" title="wikilink">喬許·傑克森</a>^</p></td>
 </tr>
 </tbody>
 </table>

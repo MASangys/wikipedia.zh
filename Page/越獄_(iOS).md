@@ -199,13 +199,13 @@ Team向执法机构出售黑客软件并建议警方將其安裝至已越狱的i
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/iOS_7" title="wikilink">iOS 7</a> 7.1－7.1.2</p></td>
 <td><p>25</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱v</a>1.1.0~v1.2.1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱团队</a></p></td>
+<td><p><a href="../Page/盘古越狱.md" title="wikilink">盘古越狱v</a>1.1.0~v1.2.1</p></td>
+<td><p><a href="../Page/盘古越狱.md" title="wikilink">盘古越狱团队</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/iOS_8" title="wikilink">iOS 8</a></p></td>
 <td><p>35</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱for</a> iOS 8</p></td>
+<td><p><a href="../Page/盘古越狱.md" title="wikilink">盘古越狱for</a> iOS 8</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -277,8 +277,8 @@ Team向执法机构出售黑客软件并建议警方將其安裝至已越狱的i
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/iPhone_6S" title="wikilink">iPhone 6S</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱团队</a></p></td>
+<td><p><a href="../Page/盘古越狱.md" title="wikilink">盘古越狱</a></p></td>
+<td><p><a href="../Page/盘古越狱.md" title="wikilink">盘古越狱团队</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/iPhone_6s_Plus" title="wikilink">iPhone 6s Plus</a></p></td>
@@ -289,7 +289,7 @@ Team向执法机构出售黑客软件并建议警方將其安裝至已越狱的i
 <tr class="odd">
 <td><p>iOS 9.0</p></td>
 <td><p>25</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱V</a>1.0.0</p></td>
+<td><p><a href="../Page/盘古越狱.md" title="wikilink">盘古越狱V</a>1.0.0</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -307,10 +307,10 @@ Team向执法机构出售黑客软件并建议警方將其安裝至已越狱的i
 <tr class="even">
 <td><p>iOS 9.1</p></td>
 <td><p>142</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱V</a>1.3.0（Windows版）<br />
-<a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱V</a>1.1.0（Mac版）<br />
+<td><p><a href="../Page/盘古越狱.md" title="wikilink">盘古越狱V</a>1.3.0（Windows版）<br />
+<a href="../Page/盘古越狱.md" title="wikilink">盘古越狱V</a>1.1.0（Mac版）<br />
 <a href="https://zh.wikipedia.org/wiki/Jailbreakme" title="wikilink">Jailbreakme</a> 4.0 (jailbreak.me)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱团队</a><br />
+<td><p><a href="../Page/盘古越狱.md" title="wikilink">盘古越狱团队</a><br />
 <a href="https://zh.wikipedia.org/wiki/Tihmstar" title="wikilink">Tihmstar</a>(jailbreakme4.0)(支援32位元設備)</p></td>
 </tr>
 <tr class="odd">
@@ -748,7 +748,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
   - [Chronic dev
     team](https://zh.wikipedia.org/wiki/Chronic_dev_team "wikilink")
   - [Greenpois0n](https://zh.wikipedia.org/wiki/Greenpois0n "wikilink")
-  - [盘古越狱](https://zh.wikipedia.org/wiki/盘古越狱 "wikilink")
+  - [盘古越狱](../Page/盘古越狱.md "wikilink")
   - [evasi0n](https://zh.wikipedia.org/wiki/evasi0n "wikilink")
   - [Root (Android)](../Page/Root_\(Android\).md "wikilink")
 

@@ -58,7 +58,7 @@ James Garrett所提出\[1\]。
 
   - [Symfony](../Page/Symfony.md "wikilink")
 
-  - [Laravel](https://zh.wikipedia.org/wiki/Laravel "wikilink")
+  - [Laravel](../Page/Laravel.md "wikilink")
 
   -
   -
@@ -68,7 +68,7 @@ James Garrett所提出\[1\]。
 
   - [WindFramework](http://phpwind.github.io/windframework/)
 
-  - [Phalcon](https://zh.wikipedia.org/wiki/Phalcon "wikilink")
+  - [Phalcon](../Page/Phalcon.md "wikilink")
 
   - [FuelPHP](https://zh.wikipedia.org/wiki/FuelPHP "wikilink")
 

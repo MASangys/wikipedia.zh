@@ -81,7 +81,7 @@
   - [尾上綾華](https://zh.wikipedia.org/wiki/尾上綾華 "wikilink")
   - [吉田有希](https://zh.wikipedia.org/wiki/吉田有希 "wikilink")
   - [うえむらちか](https://zh.wikipedia.org/wiki/うえむらちか "wikilink")
-  - [陽月華](https://zh.wikipedia.org/wiki/陽月華 "wikilink")
+  - [陽月華](../Page/陽月華.md "wikilink")
   - [高田步美](../Page/高田步美.md "wikilink")
 
 #### 男性演員
@@ -98,7 +98,7 @@
 
   - [千葉紗子](../Page/千葉紗子.md "wikilink")
 
-  - [小林晃子](https://zh.wikipedia.org/wiki/小林晃子 "wikilink")
+  - [小林晃子](../Page/小林晃子.md "wikilink")
 
   - [南里侑香](../Page/南里侑香.md "wikilink")
 
@@ -147,7 +147,7 @@
 
 #### メンズトラント部門
 
-  - [大島崚](https://zh.wikipedia.org/wiki/大島崚 "wikilink")
+  - [大島崚](../Page/大島崚.md "wikilink")
   - [安倍龍太郎](https://zh.wikipedia.org/wiki/安倍龍太郎 "wikilink")
   - [渡邊友裕](https://zh.wikipedia.org/wiki/渡邊友裕 "wikilink")
   - [河井佑樹](https://zh.wikipedia.org/wiki/河井佑樹 "wikilink")

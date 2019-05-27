@@ -39,9 +39,7 @@
   - [月光に濡れる教室で、僕は。](https://zh.wikipedia.org/wiki/月光に濡れる教室で、僕は。 "wikilink")（矢崎
     良）
   - [しおさいの悲鳴](https://zh.wikipedia.org/wiki/しおさいの悲鳴 "wikilink")（絹塚 あげは）
-  - [Maple
-    Colors](https://zh.wikipedia.org/wiki/Maple_Colors "wikilink")（神宮寺
-    夢子）
+  - [Maple Colors](../Page/Maple_Colors.md "wikilink")（神宮寺 夢子）
 
 <!-- end list -->
 
@@ -67,8 +65,7 @@
   - [い・い・な・り](https://zh.wikipedia.org/wiki/い・い・な・り "wikilink")（野川 美穂）
   - [School Days](../Page/School_Days.md "wikilink")（**西園寺 世界**）
   - [小羽的憂鬱](https://zh.wikipedia.org/wiki/小羽的憂鬱 "wikilink")（如月 えり）
-  - [メイプルカラーズ
-    〜決戦は学園祭\!〜](https://zh.wikipedia.org/wiki/Maple_Colors "wikilink")（演劇部・副部長）
+  - [メイプルカラーズ 〜決戦は学園祭\!〜](../Page/Maple_Colors.md "wikilink")（演劇部・副部長）
   - [梦见之药](https://zh.wikipedia.org/wiki/梦见之药 "wikilink")（**白木 あえか**）
 
 <!-- end list -->
@@ -159,9 +156,7 @@
 
   - [神咒神威神樂](https://zh.wikipedia.org/wiki/神咒神威神樂 "wikilink")（**玖錠 紫織**）
   - [千金逼我嫁\!](https://zh.wikipedia.org/wiki/千金逼我嫁! "wikilink")（桐村 佑里恵）
-  - [Lover
-    Able](https://zh.wikipedia.org/wiki/Lover_Able "wikilink")（**三枝
-    奈々子**）
+  - [Lover Able](../Page/Lover_Able.md "wikilink")（**三枝 奈々子**）
   - [しゅ〜てぃんぐ妹スター☆
     〜お兄ちゃん、覚悟しててよね♪〜](https://zh.wikipedia.org/wiki/しゅ〜てぃんぐ妹スター☆_〜お兄ちゃん、覚悟しててよね♪〜 "wikilink")（**春夏秋冬
     遥**）
@@ -175,8 +170,7 @@
 <!-- end list -->
 
   - [架向星空之橋AA](../Page/架向星空之橋.md "wikilink")（**萬 千歌**）
-  - [同棲Lover
-    Able](https://zh.wikipedia.org/wiki/Lover_Able "wikilink")（**三枝奈々子**）
+  - [同棲Lover Able](../Page/Lover_Able.md "wikilink")（**三枝奈々子**）
   - [恋めくりクローバー](https://zh.wikipedia.org/wiki/恋めくりクローバー "wikilink")（**月館絵里**）
   - [真剣で私に恋しなさい\!S](../Page/認真和我談戀愛！.md "wikilink")（橘天衣）
   - [SHINY
@@ -248,7 +242,7 @@
   - [MILK・ジャンキー
     姉妹編](https://zh.wikipedia.org/wiki/MILK・ジャンキー2#OVA版 "wikilink")（房野
     文江）
-  - [鬼父2](https://zh.wikipedia.org/wiki/鬼父2 "wikilink")（牧野晶）
+  - [鬼父2](../Page/鬼父2.md "wikilink")（牧野晶）
   - [Innocent
     Blue](https://zh.wikipedia.org/wiki/Innocent_Blue "wikilink")（尾崎祐美）
   - [Dark Blue](../Page/Dark_Blue.md "wikilink")（哀沢鈴香）

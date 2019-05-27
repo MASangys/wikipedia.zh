@@ -28,9 +28,8 @@ Mobile的三星手机用戶界面](../Page/Windows_Mobile.md "wikilink")。
   - [三星Galaxy Note系列](../Page/三星Galaxy_Note系列.md "wikilink")：Note，Note
     2，Note 3，Note 4，Note 5，Note 7，Note Edge
 
-  - [三星Galaxy
-    C系列C](https://zh.wikipedia.org/wiki/三星Galaxy_C系列 "wikilink")5
-    Pro，C7 Pro，C9 Pro，C8，C5，C7，C9
+  - [三星Galaxy C系列C](../Page/三星Galaxy_C系列.md "wikilink")5 Pro，C7 Pro，C9
+    Pro，C8，C5，C7，C9
 
   - [三星Galaxy
     A系列A](../Page/三星Galaxy_A系列.md "wikilink")5(2015)，A9(2016)，A9
@@ -58,8 +57,7 @@ Mobile的三星手机用戶界面](../Page/Windows_Mobile.md "wikilink")。
   - [三星Galaxy
     Young系列](https://zh.wikipedia.org/wiki/三星Galaxy_Young系列 "wikilink")
 
-  - [三星Galaxy
-    Grand系列Grand](https://zh.wikipedia.org/wiki/三星Galaxy_Grand系列 "wikilink")
+  - [三星Galaxy Grand系列Grand](../Page/三星Galaxy_Grand系列.md "wikilink")
     Prime
 
   - 其他（详见[三星Galaxy系列](https://zh.wikipedia.org/wiki/三星Galaxy系列 "wikilink")）

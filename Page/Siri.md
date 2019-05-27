@@ -22,7 +22,7 @@ Watch](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")
 年 ) 及更新機型、[Mac
 Mini](https://zh.wikipedia.org/wiki/Mac_mini "wikilink") ( 2010 年 )
 及更新機型、 [Mac Pro](../Page/Mac_Pro.md "wikilink") ( 2010 年 )
-及更新機型以及苹果于2018年推出的智能音箱[HomePod](https://zh.wikipedia.org/wiki/HomePod "wikilink")。
+及更新機型以及苹果于2018年推出的智能音箱[HomePod](../Page/HomePod.md "wikilink")。
 
 ## 建立
 
@@ -96,7 +96,7 @@ Store](../Page/App_Store_\(iOS\).md "wikilink") 中下架，并取消了所有�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/印度英語" title="wikilink">印度</a></p></td>
+<td><p><a href="../Page/印度英語.md" title="wikilink">印度</a></p></td>
 <td><p>8.3 以上</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/macOS_Sierra" title="wikilink">macOS Sierra</a> 以上</p></td>
 <td></td>
@@ -180,7 +180,7 @@ Store](../Page/App_Store_\(iOS\).md "wikilink") 中下架，并取消了所有�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/智利西班牙语" title="wikilink">智利</a></p></td>
+<td><p><a href="../Page/智利西班牙语.md" title="wikilink">智利</a></p></td>
 <td><p>6.0 以上</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/macOS_Sierra" title="wikilink">macOS Sierra</a> 以上</p></td>
 <td></td>

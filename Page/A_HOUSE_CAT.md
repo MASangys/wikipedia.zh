@@ -12,7 +12,7 @@ SUPER COUNTDOWN
 於動畫歌曲相關排行榜《[SOMETHING DREAMS Multimedia
 Countdown](https://zh.wikipedia.org/wiki/SOMETHING_DREAMS_Multimedia_Countdown "wikilink")》登場第4週開始，連續6週蟬聯第1名。登場第9週時加上次作《[Proof
 of
-Myself](https://zh.wikipedia.org/wiki/Proof_of_Myself "wikilink")》，獨占排行榜第1、2名，次週因新作《Proof
+Myself](../Page/Proof_of_Myself.md "wikilink")》，獨占排行榜第1、2名，次週因新作《Proof
 of Myself》發行而漸漸從榜上消失。
 
 ## 收錄曲

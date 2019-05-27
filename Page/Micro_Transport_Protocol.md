@@ -42,7 +42,7 @@ IETF在互联网草案中描述了LEDBAT算法，\[19\] 但µTP具体的实现�
 
   - [µTorrent](https://zh.wikipedia.org/wiki/µTorrent "wikilink")
   - [BitTorrent](../Page/BitTorrent_\(协议\).md "wikilink")
-  - [TCP拥塞控制算法](https://zh.wikipedia.org/wiki/TCP拥塞控制 "wikilink")
+  - [TCP拥塞控制算法](../Page/TCP拥塞控制.md "wikilink")
 
 ## 参考文献
 

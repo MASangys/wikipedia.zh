@@ -128,7 +128,7 @@ EARTH（<a href="https://zh.wikipedia.org/wiki/世界的終結" title="wikilink"
 <a href="https://zh.wikipedia.org/wiki/Shall_we_travel??" title="wikilink">Shall we travel??</a>（<a href="https://zh.wikipedia.org/wiki/NAOTO_INTI_RAYMI" title="wikilink">NAOTO INTI RAYMI</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/billion_voices" title="wikilink">billion voices</a>（<a href="https://zh.wikipedia.org/wiki/七尾旅人" title="wikilink">七尾旅人</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/THE_DIE_IS_CAST" title="wikilink">THE DIE IS CAST</a>（<a href="https://zh.wikipedia.org/wiki/FAT_PROP" title="wikilink">FAT PROP</a>）<br />
-（<a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a>）<br />
+（<a href="../Page/星野源.md" title="wikilink">星野源</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/TOP_OF_THE_FUCK&#39;N_WORLD" title="wikilink">TOP OF THE FUCK'N WORLD</a>（<a href="https://zh.wikipedia.org/wiki/The_Mirraz" title="wikilink">The Mirraz</a>）</p>
 </div>
 </div></td>
@@ -137,7 +137,7 @@ EARTH（<a href="https://zh.wikipedia.org/wiki/世界的終結" title="wikilink"
 <td><p>第4回</p></td>
 <td><p>2012年</p></td>
 <td><p>（<a href="https://zh.wikipedia.org/wiki/桃色幸運草" title="wikilink">桃色幸運草</a>）</p></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a>）</p></td>
+<td><p>（<a href="../Page/星野源.md" title="wikilink">星野源</a>）</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
 <div class="NavHead" style="text-align:center">
 <p>其它入圍作品列表</p>
@@ -183,7 +183,7 @@ EARTH（<a href="https://zh.wikipedia.org/wiki/世界的終結" title="wikilink"
 （）<br />
 <a href="../Page/LEVEL3.md" title="wikilink">LEVEL3</a>（<a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a>）<br />
 <a href="../Page/人生×僕=.md" title="wikilink">人生×僕=</a>（<a href="https://zh.wikipedia.org/wiki/ONE_OK_ROCK" title="wikilink">ONE OK ROCK</a>）<br />
-（<a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a>）<br />
+（<a href="../Page/星野源.md" title="wikilink">星野源</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/sakanaction" title="wikilink">sakanaction</a>（<a href="../Page/魚韻.md" title="wikilink">魚韻</a>）<br />
 <a href="../Page/Delight.md" title="wikilink">Delight</a>（<a href="https://zh.wikipedia.org/wiki/miwa" title="wikilink">miwa</a>）</p>
 </div>
@@ -213,16 +213,16 @@ EARTH（<a href="https://zh.wikipedia.org/wiki/世界的終結" title="wikilink"
 <tr class="even">
 <td><p>第8回</p></td>
 <td><p>2016年</p></td>
-<td><p>YELLOW DANCER（<a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a>）</p></td>
+<td><p>YELLOW DANCER（<a href="../Page/星野源.md" title="wikilink">星野源</a>）</p></td>
 <td><p>ジパング（<a href="https://zh.wikipedia.org/wiki/星期三的康帕內拉" title="wikilink">星期三的康帕內拉</a>）<br />
-Are You Coming？（<a href="https://zh.wikipedia.org/wiki/WANIMA" title="wikilink">WANIMA</a>）</p></td>
+Are You Coming？（<a href="../Page/WANIMA.md" title="wikilink">WANIMA</a>）</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
 <div class="NavHead" style="text-align:center">
 <p>其它入圍作品列表</p>
 </div>
 <div class="NavContent" style="text-align:left">
 <p>「L-エル-」Acid Black Cherry<br />
-「HAPPY」<a href="https://zh.wikipedia.org/wiki/大原櫻子" title="wikilink">大原櫻子</a><br />
+「HAPPY」<a href="../Page/大原櫻子.md" title="wikilink">大原櫻子</a><br />
 「Obsure Ride」<a href="https://zh.wikipedia.org/wiki/cero" title="wikilink">cero</a><br />
 「シャンデリア」back number<br />
 「Bremen」<a href="../Page/米津玄師.md" title="wikilink">米津玄師</a></p>
@@ -268,7 +268,7 @@ MODERN TIMES（PUNPEE）</p></td>
 <tr class="odd">
 <td><p>第11回</p></td>
 <td><p>2019年</p></td>
-<td><p>（紅）POP VIRUS（<a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a>）<br />
+<td><p>（紅）POP VIRUS（<a href="../Page/星野源.md" title="wikilink">星野源</a>）<br />
 （藍）平成（<a href="https://zh.wikipedia.org/wiki/折坂悠太" title="wikilink">折坂悠太</a>）</p></td>
 <td></td>
 <td><div class="NavFrame" style="clear:both;border:0">
@@ -408,7 +408,7 @@ MODERN TIMES（PUNPEE）</p></td>
 | --- | ----- | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 第4回 | 2012年 | [薰和友樹，偶爾還有MUKKU。](../Page/薰和友樹，偶爾還有MUKKU。.md "wikilink") | [Maru Maru Mori Mori\!](../Page/Maru_Maru_Mori_Mori!.md "wikilink")                                                  |
 | 第5回 | 2013年 | [柴田淳](../Page/柴田淳.md "wikilink")                         | [COVER 70's](https://zh.wikipedia.org/wiki/COVER_70's "wikilink")                                                    |
-| 第6回 | 2014年 | [大友良英](https://zh.wikipedia.org/wiki/大友良英 "wikilink") 等  | [晨間小說連續劇](https://zh.wikipedia.org/wiki/晨間小說連續劇 "wikilink")「[小海女](https://zh.wikipedia.org/wiki/小海女 "wikilink")」原聲大碟 |
+| 第6回 | 2014年 | [大友良英](../Page/大友良英.md "wikilink") 等                     | [晨間小說連續劇](https://zh.wikipedia.org/wiki/晨間小說連續劇 "wikilink")「[小海女](https://zh.wikipedia.org/wiki/小海女 "wikilink")」原聲大碟 |
 |     |       |                                                          |                                                                                                                      |
 
 #### 古典獎

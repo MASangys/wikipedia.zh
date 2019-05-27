@@ -85,7 +85,7 @@ M型採用的則是麥克米蘭A5式玻璃钢強化塑料底盤一體式戰術�
 
 ### 附件
 
-[機匣頂部以](https://zh.wikipedia.org/wiki/機匣 "wikilink")4顆螺釘固定了一段[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")。由於該狙擊步槍並沒有[機械瞄具](../Page/機械瞄具.md "wikilink")（[照門及](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")），必需利用這段戰術導軌以安裝不同類型的日間／夜間[光學狙擊鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[热成像仪](../Page/热成像仪.md "wikilink")
+[機匣頂部以](https://zh.wikipedia.org/wiki/機匣 "wikilink")4顆螺釘固定了一段[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")。由於該狙擊步槍並沒有[機械瞄具](../Page/機械瞄具.md "wikilink")（[照門及](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")），必需利用這段戰術導軌以安裝不同類型的日間／夜間[光學狙擊鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[热成像仪](../Page/热成像仪.md "wikilink")
 
 由於機匣較短，其頂部的導軌也較短，有些瞄準鏡可能無法安裝，故此FNH
 USA建議使用者採用LaRue瞄準鏡座來安裝瞄具。LaRue瞄準鏡座其實是一個夾持架，其底部亦有戰術導軌，只要將一些無法直接安裝在SPR機匣頂部導軌上的瞄準鏡裝在LaRue瞄準鏡座中，再將瞄準鏡座安裝在SPR頂部導軌上即可。LaRue瞄準鏡座前上部還有一個可拆卸式懸臂，該懸臂的頂部和前端下側面也設有皮卡汀尼導軌，裝上該懸臂後，還可為SPR裝上額外的附件。如此設置的優點是擴大了瞄準具附件的加裝應用，例如使用流行的前後串連式安裝配置模式在光學狙擊鏡的前方再裝上夜視鏡以擴大瞄準具附件的加裝應用，但缺點是利用可拆卸式懸臂裝上的方式會使整體顯得臃腫累贅，攜帶不方便，也不符合一些使用者的使用習慣，只可說是應對機匣頂部導軌較短而難以加裝更多附件的一種勉強的解決方法。

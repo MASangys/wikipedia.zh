@@ -339,7 +339,7 @@ Gruppe）進行印度洋和太平洋的攻擊；而另外兩艘的[U-1060與](ht
   - [蘇聯海軍](../Page/蘇聯海軍.md "wikilink")：[U-1057](https://zh.wikipedia.org/wiki/U-1057 "wikilink")、[U-1058](https://zh.wikipedia.org/wiki/U-1058 "wikilink")、[U-1064](https://zh.wikipedia.org/wiki/U-1064 "wikilink")、[U-1305](https://zh.wikipedia.org/wiki/U-1305 "wikilink")
   - [西班牙海軍](../Page/西班牙海軍.md "wikilink")：[U-573](https://zh.wikipedia.org/wiki/U-573 "wikilink")（改名為G-7號）
   - [法國海軍](../Page/法國海軍.md "wikilink")：[U-471](https://zh.wikipedia.org/wiki/U-471 "wikilink")（改名為米勒號）、[U-766](https://zh.wikipedia.org/wiki/U-766 "wikilink")（改名為勞貝號）
-  - [挪威皇家海軍](https://zh.wikipedia.org/wiki/挪威皇家海軍 "wikilink")：[U-995](https://zh.wikipedia.org/wiki/U-995 "wikilink")
+  - [挪威皇家海軍](../Page/挪威皇家海軍.md "wikilink")：[U-995](https://zh.wikipedia.org/wiki/U-995 "wikilink")
 
 ## 相關條目
 

@@ -16,7 +16,7 @@
 <td><p>平假名</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/來迎寺站" title="wikilink">來迎寺站</a></p></td>
+<td><p><a href="../Page/來迎寺站.md" title="wikilink">來迎寺站</a></p></td>
 <td></td>
 <td><p>Raikōji Eki</p></td>
 </tr>

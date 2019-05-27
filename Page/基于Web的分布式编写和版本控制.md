@@ -47,7 +47,7 @@ WebDAV扩展了[request方法所允许的标准HTTP谓词和HTTP头](https://zh.
   - [微软的](../Page/微软.md "wikilink")[IIS也有WebDAV模块](../Page/網際網路資訊服務.md "wikilink")。
   - [Nginx有非常有限的可选WebDav模块](../Page/Nginx.md "wikilink")\[4\]和第三方模块\[5\]
   - [SabreDAV是一个PHP应用程序](https://zh.wikipedia.org/wiki/SabreDAV "wikilink")，可以在Apache或Nginx上使用，代替它们的捆绑模块
-  - [Nextcloud是一个云存储PHP应用程序](https://zh.wikipedia.org/wiki/Nextcloud "wikilink")，它提供了完整的WebDAV支持\[6\]
+  - [Nextcloud是一个云存储PHP应用程序](../Page/Nextcloud.md "wikilink")，它提供了完整的WebDAV支持\[6\]
   - [lighttpd有一个可选的WebDav模块](https://zh.wikipedia.org/wiki/lighttpd "wikilink")\[7\]
 
 ### 客户端支持
@@ -67,7 +67,7 @@ WebDAV扩展了[request方法所允许的标准HTTP谓词和HTTP头](https://zh.
 ## 参见
 
   - [內容管理](https://zh.wikipedia.org/wiki/內容管理 "wikilink")
-  - [集群文件系统](https://zh.wikipedia.org/wiki/集群文件系统 "wikilink")
+  - [集群文件系统](../Page/集群文件系统.md "wikilink")
 
 ## 参考文献
 

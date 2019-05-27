@@ -69,7 +69,7 @@ SMRT巴士營運6個[巴士轉換站](https://zh.wikipedia.org/wiki/公車站 "w
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_500_MMC" title="wikilink">亞歷山大丹尼士Enviro 500 MMC</a> <a href="https://zh.wikipedia.org/wiki/File:Accessibility-directory.svg" title="fig:Accessibility-directory.svg">Accessibility-directory.svg</a></p></td>
+<td><p><a href="../Page/亞歷山大丹尼士Enviro_500_MMC.md" title="wikilink">亞歷山大丹尼士Enviro 500 MMC</a> <a href="https://zh.wikipedia.org/wiki/File:Accessibility-directory.svg" title="fig:Accessibility-directory.svg">Accessibility-directory.svg</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:SMRTBuses-ADL-Enviro500-MMC.JPG" title="fig:SMRTBuses-ADL-Enviro500-MMC.JPG">SMRTBuses-ADL-Enviro500-MMC.JPG</a></p></td>
 <td><p><a href="../Page/亞歷山大丹尼士.md" title="wikilink">亞歷山大丹尼士</a></p></td>
 <td><p>2014</p></td>

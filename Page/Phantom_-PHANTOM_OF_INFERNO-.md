@@ -53,7 +53,7 @@ INTEGRATION Nitro The Best\! Vol.1》发售。
 <!-- end list -->
 
   - 藤枝美緒（）
-    声：[麻見順子](https://zh.wikipedia.org/wiki/麻見順子 "wikilink")/ 没有登場 /
+    声：[麻見順子](../Page/麻見順子.md "wikilink")/ 没有登場 /
     [小清水亜美](https://zh.wikipedia.org/wiki/小清水亜美 "wikilink")
     梧桐大輔同父異母的的妹妹，為了讓她遠離黑道紛爭而從小過繼，現作為普通的少女生活著，並不知道與梧桐組的關係，稱梧桐大輔為「叔叔」。與逃回日本的Zwei同班，在美緒好友的支持下和Zwei交往。
     动画版结局：Zwei因為珍惜平靜的生活，單純與美緒交心。美緒又羞於承認兩人的關係，以致於毫無進展。
@@ -197,7 +197,7 @@ Channel播放](https://zh.wikipedia.org/wiki/Funimation_Channel "wikilink")，�
   - 人物原案 - [矢野口君](https://zh.wikipedia.org/wiki/矢野口君 "wikilink")
   - 系列構成 - [黒田洋介](https://zh.wikipedia.org/wiki/黒田洋介 "wikilink")
   - 人物設計 -
-    [山下喜光](../Page/山下喜光.md "wikilink")、[佐佐木睦美](https://zh.wikipedia.org/wiki/佐佐木睦美 "wikilink")、[菊地洋子](../Page/菊地洋子.md "wikilink")、門智昭、つばたよしあき、[芝美奈子](https://zh.wikipedia.org/wiki/芝美奈子 "wikilink")
+    [山下喜光](../Page/山下喜光.md "wikilink")、[佐佐木睦美](https://zh.wikipedia.org/wiki/佐佐木睦美 "wikilink")、[菊地洋子](../Page/菊地洋子.md "wikilink")、門智昭、つばたよしあき、[芝美奈子](../Page/芝美奈子.md "wikilink")
   - 機械設計 - [寺岡賢司](https://zh.wikipedia.org/wiki/寺岡賢司 "wikilink")
   - 色彩設計 - 小島真喜子
   - 美術監督 - 海野吉見
@@ -209,9 +209,8 @@ Channel播放](https://zh.wikipedia.org/wiki/Funimation_Channel "wikilink")，�
   - 音樂製作 - [Lantis](../Page/Lantis.md "wikilink")
   - 製作人 - 吉沼忍、大澤信博
   - 動畫製作人 - 村岡秀昭、丸亮二
-  - 企劃 - [GENCO](https://zh.wikipedia.org/wiki/GENCO "wikilink")
-  - 動畫製作 - [BEE
-    TRAIN](https://zh.wikipedia.org/wiki/BEE_TRAIN "wikilink")
+  - 企劃 - [GENCO](../Page/GENCO.md "wikilink")
+  - 動畫製作 - [BEE TRAIN](../Page/BEE_TRAIN.md "wikilink")
   - 製作 - Project Phantom
 
 ### 主題曲
@@ -528,7 +527,7 @@ Channel播放](https://zh.wikipedia.org/wiki/Funimation_Channel "wikilink")，�
 
 ## 小說
 
-[虛淵玄](../Page/虛淵玄.md "wikilink")、著，[山田秀樹插畫](https://zh.wikipedia.org/wiki/山田秀樹 "wikilink")，[角川Sneaker文庫發行](../Page/角川Sneaker文庫.md "wikilink")。
+[虛淵玄](../Page/虛淵玄.md "wikilink")、著，[山田秀樹插畫](../Page/山田秀樹.md "wikilink")，[角川Sneaker文庫發行](../Page/角川Sneaker文庫.md "wikilink")。
 
   - Phantom〜Ein〜（） 2002年5月31日發售，ISBN 4-04-427801-6
   - Phantom〜Zwei〜（） 2002年11月30日發售，ISBN 4-04-427802-4

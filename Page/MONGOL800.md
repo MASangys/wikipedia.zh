@@ -39,7 +39,7 @@ STATION](../Page/MUSIC_STATION.md "wikilink")》中現場演唱了招牌曲《�
 <!-- end list -->
 
   -
-    主唱、貝斯手。[沖繩國際大學文學部英文學科畢業](https://zh.wikipedia.org/wiki/沖繩國際大學 "wikilink")
+    主唱、貝斯手。[沖繩國際大學文學部英文學科畢業](../Page/沖繩國際大學.md "wikilink")
 
 <!-- end list -->
 

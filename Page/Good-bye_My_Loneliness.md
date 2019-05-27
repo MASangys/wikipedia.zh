@@ -10,7 +10,7 @@ RECORDS時代CD編號則為BGDH-1010。
 ## 收錄曲
 
 1.  **Good-bye My Loneliness**
-      - 作詞：[坂井泉水](../Page/坂井泉水.md "wikilink")　作曲：[織田哲郎](../Page/織田哲郎.md "wikilink")　編曲：[明石昌夫](https://zh.wikipedia.org/wiki/明石昌夫 "wikilink")
+      - 作詞：[坂井泉水](../Page/坂井泉水.md "wikilink")　作曲：[織田哲郎](../Page/織田哲郎.md "wikilink")　編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
 2.  ：當時，編曲的明石昌夫是B'z的幕後BAND的一員、而葉山たけし則是吉他手。
 3.  **[愛は暗闇の中で](https://zh.wikipedia.org/wiki/展开双翼／爱在黑暗中 "wikilink")**
       - 作詞：坂井泉水　作曲：[栗林誠一郎](https://zh.wikipedia.org/wiki/栗林誠一郎 "wikilink")　編曲：[ZARD](../Page/ZARD.md "wikilink")・[寺尾広](https://zh.wikipedia.org/wiki/寺尾広 "wikilink")

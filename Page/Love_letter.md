@@ -59,8 +59,7 @@ letter）是用以表達[愛情的](../Page/愛情.md "wikilink")[書信](https:
   - [電子情書](../Page/電子情書.md "wikilink")（You've Got Mail）
   - [幽靈情書](../Page/幽靈情書.md "wikilink")（英文：Shadow）
   - [無情的情書](../Page/無情的情書.md "wikilink")：台灣團體[動力火車的首張錄音室專輯](../Page/動力火車.md "wikilink")
-  - [美味情書](https://zh.wikipedia.org/wiki/美味情書 "wikilink")（英語：The
-    Lunchbox）
+  - [美味情書](../Page/美味情書.md "wikilink")（英語：The Lunchbox）
   - [越洋情書](https://zh.wikipedia.org/wiki/越洋情書 "wikilink")（Lettres à
     Nelson Algren）
   - [鬼情書 (電影)](../Page/鬼情書_\(電影\).md "wikilink")

@@ -13,7 +13,7 @@ AT\&T體育場現已成為達拉斯地區舉辦重大活動的主要場館之一
   - [第四十五届超級碗](https://zh.wikipedia.org/wiki/第四十五届超級碗 "wikilink")
   - [摔角狂熱](../Page/摔角狂熱.md "wikilink")32
   - 2015年[泰勒絲的](../Page/泰勒·斯威夫特.md "wikilink")[1989世界巡迴演唱會](../Page/1989世界巡迴演唱會.md "wikilink")
-  - 2018年[泰勒絲的](../Page/泰勒·斯威夫特.md "wikilink")[舉世盛名體育場巡迴演唱會](https://zh.wikipedia.org/wiki/舉世盛名體育場巡迴演唱會 "wikilink")\[1\]
+  - 2018年[泰勒絲的](../Page/泰勒·斯威夫特.md "wikilink")[舉世盛名體育場巡迴演唱會](../Page/舉世盛名體育場巡迴演唱會.md "wikilink")\[1\]
 
 ## 外部連結
 

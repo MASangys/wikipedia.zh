@@ -767,7 +767,7 @@ ISBN 978-4-06-358411-0（限定版）</p></td>
 ### 製作人員
 
   - 監督、系列構成：[入江泰浩](https://zh.wikipedia.org/wiki/入江泰浩 "wikilink")
-  - 副監督：[迫井政行](https://zh.wikipedia.org/wiki/迫井政行 "wikilink")
+  - 副監督：[迫井政行](../Page/迫井政行.md "wikilink")
   - 角色設計、總作畫監督：秋谷有紀惠
   - 場景設計、美術作畫監督：菱沼由典
   - 美術監督：西俊樹
@@ -784,7 +784,7 @@ ISBN 978-4-06-358411-0（限定版）</p></td>
     CITRUS](https://zh.wikipedia.org/wiki/KINEMA_CITRUS "wikilink")
   - 製作：CODE:BREAKER製作委員會（[Bandai
     Visual](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")、Kinema
-    Citrus、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、[武士道](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、Memory
+    Citrus、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、[武士道](../Page/武士道_\(公司\).md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、Memory
     Tech）
 
 ### 主題曲
@@ -815,7 +815,7 @@ ISBN 978-4-06-358411-0（限定版）</p></td>
 <td></td>
 <td><p>大神的審判</p></td>
 <td><p>入江泰浩</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/迫井政行" title="wikilink">迫井政行</a></p></td>
+<td><p><a href="../Page/迫井政行.md" title="wikilink">迫井政行</a></p></td>
 <td><p>諸貫哲朗、服部聰志<br />
 、野崎敦子</p></td>
 </tr>

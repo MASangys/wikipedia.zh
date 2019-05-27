@@ -125,10 +125,10 @@
   - 原作 -
     [永井豪](../Page/永井豪.md "wikilink")・[石川賢](../Page/石川賢.md "wikilink")
   - 監督 - [川越淳](https://zh.wikipedia.org/wiki/川越淳 "wikilink")
-  - 系列構成 - [藤田伸三](https://zh.wikipedia.org/wiki/藤田伸三 "wikilink")
+  - 系列構成 - [藤田伸三](../Page/藤田伸三.md "wikilink")
   - 人物、機械原案 - 石川賢
   - 人物、機械設計 - [鈴木藤雄](https://zh.wikipedia.org/wiki/鈴木藤雄 "wikilink")
-  - 機械設計協力 - [田中良](https://zh.wikipedia.org/wiki/田中良 "wikilink")
+  - 機械設計協力 - [田中良](../Page/田中良.md "wikilink")
   - 美術 - 野崎俊郎
   - 色彩設計 - 原田幸子
   - 攝影 - 宇津畑隆
@@ -172,7 +172,7 @@
 <td><p>{{lang|ja|出撃</p></td>
 <td><p>ネオゲッターロボ!}}</p></td>
 <td><p>出擊！！NEO蓋特機器人！</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藤田伸三" title="wikilink">藤田伸三</a></p></td>
+<td><p><a href="../Page/藤田伸三.md" title="wikilink">藤田伸三</a></p></td>
 <td><p>-</p></td>
 <td><p>鈴木藤雄（人物）<br />
 <a href="https://zh.wikipedia.org/wiki/田中良_(動畫師)" title="wikilink">田中良</a>（機體）</p></td>
@@ -193,7 +193,7 @@
 <td><p>{{lang|ja|復活</p></td>
 <td><p>真ゲッターロボ!}}</p></td>
 <td><p>復活！！真蓋特機器人！</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西森章" title="wikilink">西森章</a></p></td>
+<td><p><a href="../Page/西森章.md" title="wikilink">西森章</a></p></td>
 <td><p>中山敦史</p></td>
 <td><p>中野典克<br />
 中原竜太（機體）</p></td>
@@ -215,7 +215,7 @@
 
 ## 小說版
 
-作者：[遠藤明範](https://zh.wikipedia.org/wiki/遠藤明範 "wikilink")、插畫：[鈴木藤雄](https://zh.wikipedia.org/wiki/鈴木藤雄 "wikilink")・[田中良](https://zh.wikipedia.org/wiki/田中良 "wikilink")、封面繪圖：[石川賢](../Page/石川賢.md "wikilink")。[角川Sneaker文庫全](../Page/角川Sneaker文庫.md "wikilink")2卷。
+作者：[遠藤明範](https://zh.wikipedia.org/wiki/遠藤明範 "wikilink")、插畫：[鈴木藤雄](https://zh.wikipedia.org/wiki/鈴木藤雄 "wikilink")・[田中良](../Page/田中良.md "wikilink")、封面繪圖：[石川賢](../Page/石川賢.md "wikilink")。[角川Sneaker文庫全](../Page/角川Sneaker文庫.md "wikilink")2卷。
 
 ## 關連項目
 

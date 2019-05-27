@@ -9,7 +9,7 @@ Avarus](https://zh.wikipedia.org/wiki/月刊Comic_Blade_Avarus "wikilink")》連
 作品首先以短篇《flat》及《flat；andante》刊登於《[月刊Comic
 Avarus](../Page/月刊Comic_Avarus.md "wikilink")》\[2\]，之後決定在2008年3月出版的4月號開始正式連載\[3\]。
 
-另外，漫畫和[育江綾的](https://zh.wikipedia.org/wiki/育江綾 "wikilink")《》於《[這本漫畫真厲害！](../Page/這本漫畫真厲害！.md "wikilink")（）》2010年版同列女性篇的第九位\[4\]。
+另外，漫畫和[育江綾的](../Page/育江綾.md "wikilink")《》於《[這本漫畫真厲害！](../Page/這本漫畫真厲害！.md "wikilink")（）》2010年版同列女性篇的第九位\[4\]。
 
 ## 登場人物
 

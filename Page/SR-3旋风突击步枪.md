@@ -1,6 +1,6 @@
 **SR-3“旋風”**（，[俄语罗马化全寫](../Page/俄语罗马化.md "wikilink")：**S**petsialnaya
 **R**azarbotka**-3**，意為：特別研發3型，Vikhr；，全寫：**С**пециальная
-**Р**азработка**-3**）是一枝由[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")（）所研製及生產的緊湊型全自動[突击步枪](../Page/突击步枪.md "wikilink")，發射[9×39毫米](https://zh.wikipedia.org/wiki/9×39mm "wikilink")[苏聯](https://zh.wikipedia.org/wiki/苏聯 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[亞音速](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**Р**азработка**-3**）是一枝由[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")（）所研製及生產的緊湊型全自動[突击步枪](../Page/突击步枪.md "wikilink")，發射[9×39毫米](../Page/9×39mm.md "wikilink")[苏聯](https://zh.wikipedia.org/wiki/苏聯 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[亞音速](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史
 
@@ -22,7 +22,7 @@ Vintorez的特質都結合起來](../Page/VSS_Vintorez狙擊步槍.md "wikilink"
 
 在21世纪初，中央精密機械工程研究院便以SR-3為藍本，開始研製類似9A-91的武器。這種衍生型被命名為SR-3M（），目前亦已經被俄羅斯各地的聯邦安全局和[特警隊少量使用](https://zh.wikipedia.org/wiki/特種警察 "wikilink")。
 
-在2012年[工程技術國際論壇上](https://zh.wikipedia.org/wiki/工程技術國際論壇 "wikilink")，中央精密機械工程研究院推出了SR-3MP（）。SR-3MP在[機匣頂部](https://zh.wikipedia.org/wiki/機匣 "wikilink")、[護木左右兩側及](https://zh.wikipedia.org/wiki/護木 "wikilink")底部裝上了[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，前兩者分別用以裝上[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")（或[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")、[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")）、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")（或[雷射指示器](https://zh.wikipedia.org/wiki/雷射指示器 "wikilink")），後者則是裝上一個倒轉的AS
+在2012年[工程技術國際論壇上](https://zh.wikipedia.org/wiki/工程技術國際論壇 "wikilink")，中央精密機械工程研究院推出了SR-3MP（）。SR-3MP在[機匣頂部](https://zh.wikipedia.org/wiki/機匣 "wikilink")、[護木左右兩側及](https://zh.wikipedia.org/wiki/護木 "wikilink")底部裝上了[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，前兩者分別用以裝上[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")（或[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")、[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")）、[戰術燈](../Page/戰術燈.md "wikilink")（或[雷射指示器](https://zh.wikipedia.org/wiki/雷射指示器 "wikilink")），後者則是裝上一個倒轉的AS
 Val型可拆卸式底部折疊式[槍托](../Page/槍托.md "wikilink")（折疊後為槍底部右邊）。推斷這樣設計是為了[警察及](../Page/警察.md "wikilink")[特種部隊人員在佩戴防彈](../Page/特種部隊.md "wikilink")[頭盔面罩時可以瞄準射擊](https://zh.wikipedia.org/wiki/盔 "wikilink")（但仍可裝上原來的折疊式槍托）。\[1\]
 
 ## 設計細節
@@ -45,7 +45,7 @@ Vintorez和SR-3原來配備的10發和20發可拆卸式[彈匣](../Page/彈匣.m
 Val和VSS
 Vintorez使用。SR-3M亦在機匣左側整合了一條屬於俄羅斯標準的[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，用以裝上各種瞄準裝置，例如[PSO-1快拆式](../Page/PSO-1光學瞄準鏡.md "wikilink")[光學瞄準鏡](https://zh.wikipedia.org/wiki/望远镜 "wikilink")。
 
-SR-3和SR-3M均採用上翻式調節的[機械瞄具](../Page/機械瞄具.md "wikilink")，射程裝定分別為攻擊100公尺（109.36码，328.08英尺）和200公尺（218.72碼，656.16英尺）以內的目標，準星和照門都裝有護翼以防損壞。但由於[瞄準基线實在過短](https://zh.wikipedia.org/wiki/瞄準基线 "wikilink")、亞音速子彈本身的飛行軌跡實在彎曲和本身用途和[冲锋枪相近](../Page/冲锋枪.md "wikilink")，令其實際有效射程僅僅是100公尺。但是對於[9×39毫米蘇聯](https://zh.wikipedia.org/wiki/9×39mm "wikilink")[口徑亞音速步槍子彈仍然有著比起使用](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手槍子彈的冲锋枪和短](../Page/手槍子彈列表.md "wikilink")[槍管](../Page/槍管.md "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")（例如[AKS-74U和](../Page/AKS-74U卡宾枪.md "wikilink")[HK-53](https://zh.wikipedia.org/wiki/HK33突擊步槍#型號 "wikilink")）更大的貫穿力（使用特別為其開發的SP-6型穿甲子彈的話，可以在200公尺距離貫穿8毫米的鋼板，貫穿具有三級(俄國分類，相當NIJ
+SR-3和SR-3M均採用上翻式調節的[機械瞄具](../Page/機械瞄具.md "wikilink")，射程裝定分別為攻擊100公尺（109.36码，328.08英尺）和200公尺（218.72碼，656.16英尺）以內的目標，準星和照門都裝有護翼以防損壞。但由於[瞄準基线實在過短](https://zh.wikipedia.org/wiki/瞄準基线 "wikilink")、亞音速子彈本身的飛行軌跡實在彎曲和本身用途和[冲锋枪相近](../Page/冲锋枪.md "wikilink")，令其實際有效射程僅僅是100公尺。但是對於[9×39毫米蘇聯](../Page/9×39mm.md "wikilink")[口徑亞音速步槍子彈仍然有著比起使用](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手槍子彈的冲锋枪和短](../Page/手槍子彈列表.md "wikilink")[槍管](../Page/槍管.md "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")（例如[AKS-74U和](../Page/AKS-74U卡宾枪.md "wikilink")[HK-53](https://zh.wikipedia.org/wiki/HK33突擊步槍#型號 "wikilink")）更大的貫穿力（使用特別為其開發的SP-6型穿甲子彈的話，可以在200公尺距離貫穿8毫米的鋼板，貫穿具有三級(俄國分類，相當NIJ
 IIIA)個人防護能力的[頭盔和](https://zh.wikipedia.org/wiki/盔 "wikilink")[避彈衣](https://zh.wikipedia.org/wiki/護甲 "wikilink")）和破壞力這種優勢來說，令其有著遠比冲锋枪和卡賓槍更高的作戰優勢。
 
 ## 使用國
@@ -128,7 +128,7 @@ Engineering technologies international forum - 2012 04.jpg|
 
 ## 參見
 
-  - [9×39毫米蘇聯口徑](https://zh.wikipedia.org/wiki/9×39mm "wikilink")
+  - [9×39毫米蘇聯口徑](../Page/9×39mm.md "wikilink")
   - [9A-91](../Page/9A-91突击步枪.md "wikilink")
   - [A-91](../Page/A-91突击步枪.md "wikilink")
   - [AS Val](https://zh.wikipedia.org/wiki/AS_VAL微聲自動步槍 "wikilink")

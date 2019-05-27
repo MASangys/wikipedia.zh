@@ -15,9 +15,9 @@
 第一種方法（RGB-LEDs）用多顆LED，每顆發出不同波長的光，LED間波長相距很少，所以形成了一條白[光譜](https://zh.wikipedia.org/wiki/光譜 "wikilink")。其優點是每顆LED的光度可獨立調較，造出不同顏色，但製作成本很高。
 
 第二種方法（螢光粉轉換白光發光二極體，phosphor converted LEDs,
-pcLEDs），利用短波長LED（通常是藍或紫外光），磷會吸收部分藍光，發出一個闊光譜的白光。這個原理跟[螢光燈利用磷發出白光相似](../Page/螢光燈.md "wikilink")。這個方法成本較低，[演色性指數](https://zh.wikipedia.org/wiki/演色性指數 "wikilink")（Color
+pcLEDs），利用短波長LED（通常是藍或紫外光），磷會吸收部分藍光，發出一個闊光譜的白光。這個原理跟[螢光燈利用磷發出白光相似](../Page/螢光燈.md "wikilink")。這個方法成本較低，[演色性指數](../Page/演色性指數.md "wikilink")（Color
 Rendering Index,
-[CRI](https://zh.wikipedia.org/wiki/演色性指數 "wikilink")）高，但不能隨意改變其發光特性，而且會減低效能。這種燈具價錢低且表現中等，這種技術今常用於一般照明。
+[CRI](../Page/演色性指數.md "wikilink")）高，但不能隨意改變其發光特性，而且會減低效能。這種燈具價錢低且表現中等，這種技術今常用於一般照明。
 
 ### 驅動電路
 
@@ -138,9 +138,9 @@ LED燈沒有玻璃管，內部零件裝嵌穩妥，不易受震盪和撞擊影�
 <!-- end list -->
 
   -
-    螢光燈無法完全取代[白熾燈的重要原因就是因為螢光燈](../Page/白熾燈.md "wikilink")[演色性不佳](https://zh.wikipedia.org/wiki/演色性 "wikilink")（白熾燈是連續而且平滑的[光譜](https://zh.wikipedia.org/wiki/光譜 "wikilink")，[演色性指數](https://zh.wikipedia.org/wiki/演色性指數 "wikilink")（Color
+    螢光燈無法完全取代[白熾燈的重要原因就是因為螢光燈](../Page/白熾燈.md "wikilink")[演色性不佳](https://zh.wikipedia.org/wiki/演色性 "wikilink")（白熾燈是連續而且平滑的[光譜](https://zh.wikipedia.org/wiki/光譜 "wikilink")，[演色性指數](../Page/演色性指數.md "wikilink")（Color
     Rendering Index,
-    [CRI](https://zh.wikipedia.org/wiki/演色性指數 "wikilink")）接近100，這樣的光線也有較健康護眼的特色；其他人工光源多屬[發射光譜](../Page/發射光譜.md "wikilink")，很難取代白熾燈及[陽光](https://zh.wikipedia.org/wiki/陽光 "wikilink")）。目前中低階LED的演色性甚至還低於螢光燈。大致上需要用波長組合的方式來模擬。
+    [CRI](../Page/演色性指數.md "wikilink")）接近100，這樣的光線也有較健康護眼的特色；其他人工光源多屬[發射光譜](../Page/發射光譜.md "wikilink")，很難取代白熾燈及[陽光](https://zh.wikipedia.org/wiki/陽光 "wikilink")）。目前中低階LED的演色性甚至還低於螢光燈。大致上需要用波長組合的方式來模擬。
 
 <!-- end list -->
 

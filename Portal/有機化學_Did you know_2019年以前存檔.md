@@ -1,10 +1,10 @@
 [Azelaic_acid_3D_ball.png](https://zh.wikipedia.org/wiki/File:Azelaic_acid_3D_ball.png "fig:Azelaic_acid_3D_ball.png")
 
-  - **[哪種二羧酸](https://zh.wikipedia.org/wiki/壬二酸 "wikilink")**可用作治療[痤瘡的藥物](https://zh.wikipedia.org/wiki/痤瘡 "wikilink")？
+  - **[哪種二羧酸](../Page/壬二酸.md "wikilink")**可用作治療[痤瘡的藥物](https://zh.wikipedia.org/wiki/痤瘡 "wikilink")？
 
 [Simeticone_40mg_pack.jpg](https://zh.wikipedia.org/wiki/File:Simeticone_40mg_pack.jpg "fig:Simeticone_40mg_pack.jpg")
 
-  - **[哪一種藥物](https://zh.wikipedia.org/wiki/西甲硅油 "wikilink")**能透過消[泡沫作用舒緩](../Page/泡沫.md "wikilink")[腹部脹氣所帶來的不適](https://zh.wikipedia.org/wiki/腹部脹氣 "wikilink")？
+  - **[哪一種藥物](../Page/西甲硅油.md "wikilink")**能透過消[泡沫作用舒緩](../Page/泡沫.md "wikilink")[腹部脹氣所帶來的不適](../Page/腹部脹氣.md "wikilink")？
 
 [Famotidine_20mg_generic.jpg](https://zh.wikipedia.org/wiki/File:Famotidine_20mg_generic.jpg "fig:Famotidine_20mg_generic.jpg")
 
@@ -16,7 +16,7 @@
 
 [Trifluridine_structure.svg](https://zh.wikipedia.org/wiki/File:Trifluridine_structure.svg "fig:Trifluridine_structure.svg")
 
-  - **[哪一種藥物](https://zh.wikipedia.org/wiki/三氟胸苷 "wikilink")**既是眼用[抗病毒藥物](https://zh.wikipedia.org/wiki/抗病毒藥物 "wikilink")，又是治療[大腸癌的](../Page/大腸癌.md "wikilink")[化療藥](https://zh.wikipedia.org/wiki/化療 "wikilink")？
+  - **[哪一種藥物](../Page/三氟胸苷.md "wikilink")**既是眼用[抗病毒藥物](https://zh.wikipedia.org/wiki/抗病毒藥物 "wikilink")，又是治療[大腸癌的](../Page/大腸癌.md "wikilink")[化療藥](https://zh.wikipedia.org/wiki/化療 "wikilink")？
 
 [Resiniferatoxin.svg](https://zh.wikipedia.org/wiki/File:Resiniferatoxin.svg "fig:Resiniferatoxin.svg")
 
@@ -28,70 +28,70 @@
 
 [Dicyclohexyl_ketone.png](https://zh.wikipedia.org/wiki/File:Dicyclohexyl_ketone.png "fig:Dicyclohexyl_ketone.png")
 
-  - [化学式](../Page/化学式.md "wikilink")(C<sub>6</sub>H<sub>11</sub>)<sub>2</sub>CO表示的是**[哪种酮类化合物](https://zh.wikipedia.org/wiki/二环己基甲酮 "wikilink")**？
+  - [化学式](../Page/化学式.md "wikilink")(C<sub>6</sub>H<sub>11</sub>)<sub>2</sub>CO表示的是**[哪种酮类化合物](../Page/二环己基甲酮.md "wikilink")**？
 
 [Sulfasalazine.svg](https://zh.wikipedia.org/wiki/File:Sulfasalazine.svg "fig:Sulfasalazine.svg")
 
-  - **[哪种磺胺类药物](https://zh.wikipedia.org/wiki/柳氮磺胺吡啶 "wikilink")**可用于治疗[风湿性关节炎](https://zh.wikipedia.org/wiki/风湿性关节炎 "wikilink")？
-  - 化工厂提炼石油生产各类[烯烃和](../Page/烯烃.md "wikilink")[芳香烃](../Page/芳香烃.md "wikilink")，这些产品**[统称为什么](https://zh.wikipedia.org/wiki/石油化工产品 "wikilink")**？
+  - **[哪种磺胺类药物](../Page/柳氮磺胺吡啶.md "wikilink")**可用于治疗[风湿性关节炎](https://zh.wikipedia.org/wiki/风湿性关节炎 "wikilink")？
+  - 化工厂提炼石油生产各类[烯烃和](../Page/烯烃.md "wikilink")[芳香烃](../Page/芳香烃.md "wikilink")，这些产品**[统称为什么](../Page/石油化工产品.md "wikilink")**？
 
 [Sulfacetamid_molecule.png](https://zh.wikipedia.org/wiki/File:Sulfacetamid_molecule.png "fig:Sulfacetamid_molecule.png")
 
-  - **[哪种磺胺类药物](https://zh.wikipedia.org/wiki/磺胺醋酰 "wikilink")**过去曾用于治疗泌尿道感染？
+  - **[哪种磺胺类药物](../Page/磺胺醋酰.md "wikilink")**过去曾用于治疗泌尿道感染？
 
 [Sulfadiazine-3D-vdW.png](https://zh.wikipedia.org/wiki/File:Sulfadiazine-3D-vdW.png "fig:Sulfadiazine-3D-vdW.png")
 
-  - **[哪种药物](https://zh.wikipedia.org/wiki/磺胺嘧啶 "wikilink")**在[磺胺类药物中拥有最高的](../Page/磺胺类药物.md "wikilink")[血脑屏障透过率](https://zh.wikipedia.org/wiki/血脑屏障 "wikilink")？
+  - **[哪种药物](../Page/磺胺嘧啶.md "wikilink")**在[磺胺类药物中拥有最高的](../Page/磺胺类药物.md "wikilink")[血脑屏障透过率](https://zh.wikipedia.org/wiki/血脑屏障 "wikilink")？
 
 [Phenyl_ethanal_Structure_V.1.svg](https://zh.wikipedia.org/wiki/File:Phenyl_ethanal_Structure_V.1.svg "fig:Phenyl_ethanal_Structure_V.1.svg")
 
-  - **[哪种化合物](https://zh.wikipedia.org/wiki/苯乙醛 "wikilink")**的[结构简式写作](https://zh.wikipedia.org/wiki/结构简式 "wikilink")“PhCH<sub>2</sub>CHO”？
+  - **[哪种化合物](../Page/苯乙醛.md "wikilink")**的[结构简式写作](https://zh.wikipedia.org/wiki/结构简式 "wikilink")“PhCH<sub>2</sub>CHO”？
 
 [Dicloxacillin.svg](https://zh.wikipedia.org/wiki/File:Dicloxacillin.svg "fig:Dicloxacillin.svg")
 
-  - Diclocil是**[哪一种抗生素](https://zh.wikipedia.org/wiki/双氯西林 "wikilink")**的商品名？
+  - Diclocil是**[哪一种抗生素](../Page/双氯西林.md "wikilink")**的商品名？
 
 [Methicillin.svg](https://zh.wikipedia.org/wiki/File:Methicillin.svg "fig:Methicillin.svg")
 
-  - [抗甲氧西林金黄色葡萄球菌](https://zh.wikipedia.org/wiki/抗甲氧西林金黄色葡萄球菌 "wikilink")（MRSA）最初发现时是对**[哪一种抗生素](https://zh.wikipedia.org/wiki/甲氧西林 "wikilink")**具有抗药性？
+  - [抗甲氧西林金黄色葡萄球菌](https://zh.wikipedia.org/wiki/抗甲氧西林金黄色葡萄球菌 "wikilink")（MRSA）最初发现时是对**[哪一种抗生素](../Page/甲氧西林.md "wikilink")**具有抗药性？
   - 给[蘑菇晒](https://zh.wikipedia.org/wiki/蘑菇 "wikilink")[太阳会得到](../Page/太阳.md "wikilink")**[哪种维生素D](../Page/麦角钙化醇.md "wikilink")**？
-  - **[哪个有机化合物](https://zh.wikipedia.org/wiki/菊油环酮 "wikilink")**的[分子式为C](https://zh.wikipedia.org/wiki/分子式 "wikilink")<sub>10</sub>H<sub>14</sub>O，由野中啓明、小竹無二雄两名日本化學家首次從[杭白菊](https://zh.wikipedia.org/wiki/杭白菊 "wikilink")[樹脂提取出來](https://zh.wikipedia.org/wiki/樹脂 "wikilink")？
+  - **[哪个有机化合物](../Page/菊油环酮.md "wikilink")**的[分子式为C](https://zh.wikipedia.org/wiki/分子式 "wikilink")<sub>10</sub>H<sub>14</sub>O，由野中啓明、小竹無二雄两名日本化學家首次從[杭白菊](https://zh.wikipedia.org/wiki/杭白菊 "wikilink")[樹脂提取出來](https://zh.wikipedia.org/wiki/樹脂 "wikilink")？
 
 [Isoamyl_alcohol.svg](https://zh.wikipedia.org/wiki/File:Isoamyl_alcohol.svg "fig:Isoamyl_alcohol.svg")
 
-  - 香蕉油在工业上由乙酸与**[哪种戊醇](https://zh.wikipedia.org/wiki/異戊醇 "wikilink")**经由酯化反应得到？
+  - 香蕉油在工业上由乙酸与**[哪种戊醇](../Page/異戊醇.md "wikilink")**经由酯化反应得到？
 
 [Copper_aspirinate.jpg](https://zh.wikipedia.org/wiki/File:Copper_aspirinate.jpg "fig:Copper_aspirinate.jpg")
 
-  - 将[阿司匹林用氢氧化钠溶解](../Page/阿司匹林.md "wikilink")，以铜为阳极、铂为阴极进行电解，阳极上出现的蓝色晶体是**[哪种化合物](https://zh.wikipedia.org/wiki/乙酰水杨酸铜 "wikilink")**？
+  - 将[阿司匹林用氢氧化钠溶解](../Page/阿司匹林.md "wikilink")，以铜为阳极、铂为阴极进行电解，阳极上出现的蓝色晶体是**[哪种化合物](../Page/乙酰水杨酸铜.md "wikilink")**？
 
 [Triptolide.svg](https://zh.wikipedia.org/wiki/File:Triptolide.svg "fig:Triptolide.svg")
 
-  - 由雷公藤产生的**[二萜类环氧化物](https://zh.wikipedia.org/wiki/雷公藤内酯 "wikilink")**是什么？
-  - 环状烃类[有机物的](https://zh.wikipedia.org/wiki/有机物 "wikilink")[碳被金属取代](../Page/碳.md "wikilink")，形成**[哪一类化合物](https://zh.wikipedia.org/wiki/金属杂环化合物 "wikilink")**？
+  - 由雷公藤产生的**[二萜类环氧化物](../Page/雷公藤内酯.md "wikilink")**是什么？
+  - 环状烃类[有机物的](https://zh.wikipedia.org/wiki/有机物 "wikilink")[碳被金属取代](../Page/碳.md "wikilink")，形成**[哪一类化合物](../Page/金属杂环化合物.md "wikilink")**？
 
 [Methyl_hypochlorite_Ball_and_Stick_3D.png](https://zh.wikipedia.org/wiki/File:Methyl_hypochlorite_Ball_and_Stick_3D.png "fig:Methyl_hypochlorite_Ball_and_Stick_3D.png")
 
-  - [甲醇的](../Page/甲醇.md "wikilink")[羟基氢被氯原子取代](../Page/羟基.md "wikilink")，得到的是**[哪种化合物](https://zh.wikipedia.org/wiki/次氯酸甲酯 "wikilink")**？
+  - [甲醇的](../Page/甲醇.md "wikilink")[羟基氢被氯原子取代](../Page/羟基.md "wikilink")，得到的是**[哪种化合物](../Page/次氯酸甲酯.md "wikilink")**？
 
 [Silibinin_3D.png](https://zh.wikipedia.org/wiki/File:Silibinin_3D.png "fig:Silibinin_3D.png")
 
-  - **[哪種植物多酚](../Page/水飛薊素.md "wikilink")**具有[抗氧化和護膚功能](https://zh.wikipedia.org/wiki/抗氧化 "wikilink")，並且因可干擾[STAT3的信号转导](https://zh.wikipedia.org/wiki/STAT3 "wikilink")，被認為有潛力用於[癌症治療](../Page/癌症.md "wikilink")？
-  - 1,3-二溴丙烷和[氰化钾反应](../Page/氰化钾.md "wikilink")，生成**[哪种化合物](https://zh.wikipedia.org/wiki/戊二腈 "wikilink")**？
-  - [过氧化物催化三氯乙烯的氧化反应](https://zh.wikipedia.org/wiki/过氧化物 "wikilink")，生成的主产物是**[哪种有机化合物](https://zh.wikipedia.org/wiki/二氯乙酰氯 "wikilink")**？
+  - **[哪種植物多酚](../Page/水飛薊素.md "wikilink")**具有[抗氧化和護膚功能](https://zh.wikipedia.org/wiki/抗氧化 "wikilink")，並且因可干擾[STAT3的信号转导](../Page/STAT3.md "wikilink")，被認為有潛力用於[癌症治療](../Page/癌症.md "wikilink")？
+  - 1,3-二溴丙烷和[氰化钾反应](../Page/氰化钾.md "wikilink")，生成**[哪种化合物](../Page/戊二腈.md "wikilink")**？
+  - [过氧化物催化三氯乙烯的氧化反应](https://zh.wikipedia.org/wiki/过氧化物 "wikilink")，生成的主产物是**[哪种有机化合物](../Page/二氯乙酰氯.md "wikilink")**？
 
 [2-amino-4-methylpyrimidine.png](https://zh.wikipedia.org/wiki/File:2-amino-4-methylpyrimidine.png "fig:2-amino-4-methylpyrimidine.png")
 
-  - **[哪种化合物](https://zh.wikipedia.org/wiki/2-氨基-4-甲基嘧啶 "wikilink")**的化学式为C<sub>5</sub>H<sub>7</sub>N<sub>3</sub>，在其[嘧啶环氮的邻位有一个甲基和一个氨基](../Page/嘧啶.md "wikilink")，并且有一个碳连接着有三个氮原子？
-  - 四价铀的**[哪种乙酸盐](https://zh.wikipedia.org/wiki/乙酸铀\(IV\) "wikilink")**是浅绿色的固体？
+  - **[哪种化合物](../Page/2-氨基-4-甲基嘧啶.md "wikilink")**的化学式为C<sub>5</sub>H<sub>7</sub>N<sub>3</sub>，在其[嘧啶环氮的邻位有一个甲基和一个氨基](../Page/嘧啶.md "wikilink")，并且有一个碳连接着有三个氮原子？
+  - 四价铀的**[哪种乙酸盐](../Page/乙酸铀\(IV\).md "wikilink")**是浅绿色的固体？
 
 [Sevoflurane.svg](https://zh.wikipedia.org/wiki/File:Sevoflurane.svg "fig:Sevoflurane.svg")
 
-  - **[哪種鹵代醚麻醉藥](https://zh.wikipedia.org/wiki/七氟醚 "wikilink")**起效快、安全性高，但是病患甦醒時可能出現煩躁和[譫妄等副作用](../Page/譫妄.md "wikilink")？
+  - **[哪種鹵代醚麻醉藥](../Page/七氟醚.md "wikilink")**起效快、安全性高，但是病患甦醒時可能出現煩躁和[譫妄等副作用](../Page/譫妄.md "wikilink")？
 
 [Desflurane2.svg](https://zh.wikipedia.org/wiki/File:Desflurane2.svg "fig:Desflurane2.svg")
 
-  - **[哪種鹵代醚麻醉藥](https://zh.wikipedia.org/wiki/地氟醚 "wikilink")**和七氟醚正逐步取代異氟醚，成為人用全身麻醉藥的首選？
+  - **[哪種鹵代醚麻醉藥](../Page/地氟醚.md "wikilink")**和七氟醚正逐步取代異氟醚，成為人用全身麻醉藥的首選？
 
 [Spandex_fiber.jpg](https://zh.wikipedia.org/wiki/File:Spandex_fiber.jpg "fig:Spandex_fiber.jpg")
 
@@ -99,23 +99,23 @@
 
 [Dimethyl-trisulfide-DFT-Mercury-3D-balls.png](https://zh.wikipedia.org/wiki/File:Dimethyl-trisulfide-DFT-Mercury-3D-balls.png "fig:Dimethyl-trisulfide-DFT-Mercury-3D-balls.png")
 
-  - **[哪种化合物](https://zh.wikipedia.org/wiki/二甲基三硫 "wikilink")**的分子式是C<sub>2</sub>H<sub>6</sub>S<sub>3</sub>但不含[巯基](https://zh.wikipedia.org/wiki/巯基 "wikilink")？
+  - **[哪种化合物](../Page/二甲基三硫.md "wikilink")**的分子式是C<sub>2</sub>H<sub>6</sub>S<sub>3</sub>但不含[巯基](https://zh.wikipedia.org/wiki/巯基 "wikilink")？
 
 [Isomalt.svg](https://zh.wikipedia.org/wiki/File:Isomalt.svg "fig:Isomalt.svg")
 
-  - **[哪一種糖醇](https://zh.wikipedia.org/wiki/異麥芽酮糖醇 "wikilink")**是從[蔗糖製取](../Page/蔗糖.md "wikilink")，將其完全水解後得到50%的[葡萄糖](../Page/葡萄糖.md "wikilink")、25%的[山梨糖醇和](../Page/山梨糖醇.md "wikilink")25%的[甘露醇](../Page/甘露醇.md "wikilink")？
+  - **[哪一種糖醇](../Page/異麥芽酮糖醇.md "wikilink")**是從[蔗糖製取](../Page/蔗糖.md "wikilink")，將其完全水解後得到50%的[葡萄糖](../Page/葡萄糖.md "wikilink")、25%的[山梨糖醇和](../Page/山梨糖醇.md "wikilink")25%的[甘露醇](../Page/甘露醇.md "wikilink")？
 
 [Lactitol.svg](https://zh.wikipedia.org/wiki/File:Lactitol.svg "fig:Lactitol.svg")
 
-  - **[哪一種糖醇](https://zh.wikipedia.org/wiki/乳糖醇 "wikilink")**由氫化[乳糖得到](../Page/乳糖.md "wikilink")，不僅是[甜味劑同時也是](https://zh.wikipedia.org/wiki/甜味劑 "wikilink")[瀉藥](https://zh.wikipedia.org/wiki/瀉藥 "wikilink")？
+  - **[哪一種糖醇](../Page/乳糖醇.md "wikilink")**由氫化[乳糖得到](../Page/乳糖.md "wikilink")，不僅是[甜味劑同時也是](https://zh.wikipedia.org/wiki/甜味劑 "wikilink")[瀉藥](https://zh.wikipedia.org/wiki/瀉藥 "wikilink")？
 
 [Isoflurane-3D-vdW.png](https://zh.wikipedia.org/wiki/File:Isoflurane-3D-vdW.png "fig:Isoflurane-3D-vdW.png")
 
-  - **[哪種鹵代醚麻醉藥](https://zh.wikipedia.org/wiki/異氟醚 "wikilink")**於美國在1979年首次獲准臨床使用？
+  - **[哪種鹵代醚麻醉藥](../Page/異氟醚.md "wikilink")**於美國在1979年首次獲准臨床使用？
 
 [Zethrene.svg](https://zh.wikipedia.org/wiki/File:Zethrene.svg "fig:Zethrene.svg")
 
-  - [并四苯的de和mn位上接有](../Page/并四苯.md "wikilink")[苯基的化合物是](https://zh.wikipedia.org/wiki/苯基 "wikilink")**[什么](https://zh.wikipedia.org/wiki/Zethrene "wikilink")**？
+  - [并四苯的de和mn位上接有](../Page/并四苯.md "wikilink")[苯基的化合物是](https://zh.wikipedia.org/wiki/苯基 "wikilink")**[什么](../Page/Zethrene.md "wikilink")**？
 
 [Purplec.png](https://zh.wikipedia.org/wiki/File:Purplec.png "fig:Purplec.png")
 
@@ -123,25 +123,25 @@
 
 [(1S)-(%E2%88%92)-alpha-pinene-from-xtal-3D-balls.png](https://zh.wikipedia.org/wiki/File:\(1S\)-\(%E2%88%92\)-alpha-pinene-from-xtal-3D-balls.png "fig:(1S)-(%E2%88%92)-alpha-pinene-from-xtal-3D-balls.png")
 
-  - **[哪種有機化合物](https://zh.wikipedia.org/wiki/蒎烯 "wikilink")**是[松節油的主要成份](https://zh.wikipedia.org/wiki/松節油 "wikilink")？
+  - **[哪種有機化合物](../Page/蒎烯.md "wikilink")**是[松節油的主要成份](https://zh.wikipedia.org/wiki/松節油 "wikilink")？
 
 [Phytol.svg](https://zh.wikipedia.org/wiki/File:Phytol.svg "fig:Phytol.svg")
 
-  - [叶绿素](../Page/叶绿素.md "wikilink")[a](https://zh.wikipedia.org/wiki/叶绿素a "wikilink")、[b](../Page/叶绿素b.md "wikilink")、[d](https://zh.wikipedia.org/wiki/叶绿素d "wikilink")、f的侧链基团**[由哪种醇](https://zh.wikipedia.org/wiki/植醇 "wikilink")**构成？
-  - 氯化六氨合镍与[草酸在](../Page/草酸.md "wikilink")[pH约为](https://zh.wikipedia.org/wiki/pH "wikilink")5时反应，生成的沉淀是**[哪种化合物](https://zh.wikipedia.org/wiki/草酸镍 "wikilink")**？
+  - [叶绿素](../Page/叶绿素.md "wikilink")[a](https://zh.wikipedia.org/wiki/叶绿素a "wikilink")、[b](../Page/叶绿素b.md "wikilink")、[d](https://zh.wikipedia.org/wiki/叶绿素d "wikilink")、f的侧链基团**[由哪种醇](../Page/植醇.md "wikilink")**构成？
+  - 氯化六氨合镍与[草酸在](../Page/草酸.md "wikilink")[pH约为](https://zh.wikipedia.org/wiki/pH "wikilink")5时反应，生成的沉淀是**[哪种化合物](../Page/草酸镍.md "wikilink")**？
 
 [Caffeic_acid.svg](https://zh.wikipedia.org/wiki/File:Caffeic_acid.svg "fig:Caffeic_acid.svg")
 
   - [绿原酸是](https://zh.wikipedia.org/wiki/绿原酸 "wikilink")[**哪种羟基肉桂酸**的](../Page/咖啡酸.md "wikilink")[酯](../Page/酯.md "wikilink")？
-  - **[哪种化合物](https://zh.wikipedia.org/wiki/磷酸三正丁酯 "wikilink")**的缩写为TBP，可用于放射性元素[铀的](https://zh.wikipedia.org/wiki/铀 "wikilink")[萃取分离](../Page/萃取.md "wikilink")？
-  - [早产儿呼吸暂停可以使用](https://zh.wikipedia.org/wiki/早产儿 "wikilink")**[哪一种](https://zh.wikipedia.org/wiki/柠檬酸咖啡因 "wikilink")**[黄嘌呤类药物治疗](../Page/黄嘌呤.md "wikilink")？
+  - **[哪种化合物](../Page/磷酸三正丁酯.md "wikilink")**的缩写为TBP，可用于放射性元素[铀的](https://zh.wikipedia.org/wiki/铀 "wikilink")[萃取分离](../Page/萃取.md "wikilink")？
+  - [早产儿呼吸暂停可以使用](https://zh.wikipedia.org/wiki/早产儿 "wikilink")**[哪一种](../Page/柠檬酸咖啡因.md "wikilink")**[黄嘌呤类药物治疗](../Page/黄嘌呤.md "wikilink")？
 
 [Iron(II)-oxalate-sample.jpg](https://zh.wikipedia.org/wiki/File:Iron\(II\)-oxalate-sample.jpg "fig:Iron(II)-oxalate-sample.jpg")
 
-  - **[哪种黄色沉淀](https://zh.wikipedia.org/wiki/草酸亚铁 "wikilink")**经[硫酸亚铁铵和](../Page/硫酸亚铁铵.md "wikilink")[草酸反应后形成](../Page/草酸.md "wikilink")？
-  - [环戊二烯基钠和无水](../Page/环戊二烯基钠.md "wikilink")[氯化钴在四氢呋喃中反应](https://zh.wikipedia.org/wiki/氯化钴 "wikilink")，可以生成**[哪种化合物](https://zh.wikipedia.org/wiki/二茂钴 "wikilink")**？
-  - [苯甲酸和](../Page/苯甲酸.md "wikilink")[氢氧化镍反应](../Page/氢氧化镍.md "wikilink")，生成**[哪种化合物](https://zh.wikipedia.org/wiki/苯甲酸镍 "wikilink")**？
-  - **[银的哪种羧酸盐](https://zh.wikipedia.org/wiki/甲酸银 "wikilink")**在室温会分解？
+  - **[哪种黄色沉淀](../Page/草酸亚铁.md "wikilink")**经[硫酸亚铁铵和](../Page/硫酸亚铁铵.md "wikilink")[草酸反应后形成](../Page/草酸.md "wikilink")？
+  - [环戊二烯基钠和无水](../Page/环戊二烯基钠.md "wikilink")[氯化钴在四氢呋喃中反应](https://zh.wikipedia.org/wiki/氯化钴 "wikilink")，可以生成**[哪种化合物](../Page/二茂钴.md "wikilink")**？
+  - [苯甲酸和](../Page/苯甲酸.md "wikilink")[氢氧化镍反应](../Page/氢氧化镍.md "wikilink")，生成**[哪种化合物](../Page/苯甲酸镍.md "wikilink")**？
+  - **[银的哪种羧酸盐](../Page/甲酸银.md "wikilink")**在室温会分解？
 
 <!-- end list -->
 
@@ -153,7 +153,7 @@
 
 [Pseudoknot.svg](https://zh.wikipedia.org/wiki/File:Pseudoknot.svg "fig:Pseudoknot.svg")
 
-  - **[哪種RNA結構](https://zh.wikipedia.org/wiki/假結結構 "wikilink")**的形狀像一個繩結？
+  - **[哪種RNA結構](../Page/假結結構.md "wikilink")**的形狀像一個繩結？
   - 編碼**[哪種人類蛋白質](../Page/布盧姆綜合症蛋白.md "wikilink")**的基因發生突變會引發[布盧姆綜合症](https://zh.wikipedia.org/wiki/布盧姆綜合症 "wikilink")？
 
 [PDB_1ymo_EBI.png](https://zh.wikipedia.org/wiki/File:PDB_1ymo_EBI.png "fig:PDB_1ymo_EBI.png")
@@ -229,11 +229,11 @@
 
 [ohira-bestmann_reagent_2d-skeletal.png](https://zh.wikipedia.org/wiki/File:ohira-bestmann_reagent_2d-skeletal.png "fig:ohira-bestmann_reagent_2d-skeletal.png")
 
-  - **[哪种有机试剂](https://zh.wikipedia.org/wiki/Bestmann-Ohira试剂 "wikilink")**能通过磷叶立德中间体将[羰基转化为炔基](../Page/羰基.md "wikilink")？
+  - **[哪种有机试剂](../Page/Bestmann-Ohira试剂.md "wikilink")**能通过磷叶立德中间体将[羰基转化为炔基](../Page/羰基.md "wikilink")？
 
 [Cuneane-HF-Mercury-3D-balls.png](https://zh.wikipedia.org/wiki/File:Cuneane-HF-Mercury-3D-balls.png "fig:Cuneane-HF-Mercury-3D-balls.png")
 
-  - **[哪种形似楔子的烷烃](https://zh.wikipedia.org/wiki/楔形烷 "wikilink")**是由[立方烷通过](../Page/立方烷.md "wikilink")[σ迁移反应所得到](https://zh.wikipedia.org/wiki/σ迁移反应 "wikilink")？
+  - **[哪种形似楔子的烷烃](../Page/楔形烷.md "wikilink")**是由[立方烷通过](../Page/立方烷.md "wikilink")[σ迁移反应所得到](https://zh.wikipedia.org/wiki/σ迁移反应 "wikilink")？
   - **[哪種化學物質](https://zh.wikipedia.org/wiki/二乙基二硫代氨基甲酸鈉 "wikilink")**能抑制對細胞兼有抗氧化和氧化作用的[超氧化物歧化酶](../Page/超氧化物歧化酶.md "wikilink")？
   - **[哪种烷烃](../Page/立方烷.md "wikilink")**的结构为[立方体](https://zh.wikipedia.org/wiki/立方体 "wikilink")，其衍生物可用作[炸药](https://zh.wikipedia.org/wiki/炸药 "wikilink")？
   - **[哪一种有机化合物](../Page/脂類.md "wikilink")**包括了脂肪、蜡、类固醇等，是生物储存能量的来源之一？
@@ -249,7 +249,7 @@
 [Electron_transport_chain_(zh-tw).svg](https://zh.wikipedia.org/wiki/File:Electron_transport_chain_\(zh-tw\).svg "fig:Electron_transport_chain_(zh-tw).svg")
 
   - [有氧呼吸中](https://zh.wikipedia.org/wiki/有氧呼吸 "wikilink")，**[哪个反应](../Page/氧化磷酸化.md "wikilink")**是生成[ATP的主要步骤](https://zh.wikipedia.org/wiki/ATP "wikilink")？
-  - **[哪种抗抑郁药](https://zh.wikipedia.org/wiki/单胺氧化酶抑制剂 "wikilink")**因为其与其他抗抑郁药的严重相互作用而受到冷落？
+  - **[哪种抗抑郁药](../Page/单胺氧化酶抑制剂.md "wikilink")**因为其与其他抗抑郁药的严重相互作用而受到冷落？
 
 [Menaquinone.svg](https://zh.wikipedia.org/wiki/File:Menaquinone.svg "fig:Menaquinone.svg")
 

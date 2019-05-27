@@ -36,7 +36,7 @@ Production风格强悍，手段有时也相当毒辣，甚至有報道指Burning
   - [丸山敦史](../Page/丸山敦史.md "wikilink")
   - [三浦翔平](../Page/三浦翔平.md "wikilink")
   - [溝口真央](https://zh.wikipedia.org/wiki/溝口真央 "wikilink")
-  - [犬飼貴丈](https://zh.wikipedia.org/wiki/犬飼貴丈 "wikilink")
+  - [犬飼貴丈](../Page/犬飼貴丈.md "wikilink")
 
 ### 前所屬藝人
 

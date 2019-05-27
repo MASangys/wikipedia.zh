@@ -72,7 +72,7 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：／香港：[林筠翔](https://zh.wikipedia.org/wiki/林筠翔 "wikilink")
+    配音員：日本：／香港：[林筠翔](../Page/林筠翔.md "wikilink")
     寶石寵物：莎菲
     [北海道出身](../Page/北海道.md "wikilink")，中學一年級生。
     心地溫柔也很喜歡吃東西。很會做菜，而且願意吃掉莎菲失敗的料理。
@@ -133,7 +133,7 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：園田泰隆／香港：[林筠翔](https://zh.wikipedia.org/wiki/林筠翔 "wikilink")
+    配音員：日本：園田泰隆／香港：[林筠翔](../Page/林筠翔.md "wikilink")
     語尾為「Pyo」。
     由莎菲製作的蛋孵化出來的
     外形像黃一，做的事也比黄一快很多
@@ -165,7 +165,7 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")
+    配音員：日本：[梁田清之](../Page/梁田清之.md "wikilink")
 
 <!-- end list -->
 
@@ -273,7 +273,7 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：[皆川純子](../Page/皆川純子.md "wikilink")／香港：[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")
+    配音員：日本：[皆川純子](../Page/皆川純子.md "wikilink")／香港：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")
 
 ### 其他寶石寵物
 
@@ -434,7 +434,7 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日：[大龜明日香](../Page/大龜明日香.md "wikilink")／香港：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")
+    配音員：日：[大龜明日香](../Page/大龜明日香.md "wikilink")／香港：[羅孔柔](../Page/羅孔柔.md "wikilink")
 
 <!-- end list -->
 
@@ -488,8 +488,8 @@ Stone」而來到寶石樂園的正義英雄？！
   - 音樂總監：金谷步、村上葉子
   - 音樂製作：[環球音樂](../Page/環球音樂_\(日本\).md "wikilink")
   - 准生產商：難波秀行、藏本健太郎（第1話 - 第13話）、渡邊愛美（第14話 - 第52話）、森田和寬
-  - 動畫製作人：[茂垣弘道](https://zh.wikipedia.org/wiki/茂垣弘道 "wikilink")、松本太輔（第1話
-    - 第3話） → 小竿俊一（第4話 - 第52話）
+  - 動畫製作人：[茂垣弘道](../Page/茂垣弘道.md "wikilink")、松本太輔（第1話 - 第3話） → 小竿俊一（第4話
+    - 第52話）
   - [監製](https://zh.wikipedia.org/wiki/監製 "wikilink")：小山佑介（東京電視台，第1話 -
     第41話） → 吉野文（東京電視台，第42話 - 第52話）、大野亮介、可知秀幸
   - [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[製作](../Page/製作.md "wikilink")：[STUDIO

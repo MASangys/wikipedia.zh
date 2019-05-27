@@ -2,7 +2,7 @@
 
 ## 履歷
 
-Superfly原有的兩名成員越智志帆與多保孝一于2004年的時候在日本愛媛縣松山大學一個音樂交流會認識并結成。樂團的名字來自著名靈魂樂歌手[柯提斯·梅菲爾德的作品](https://zh.wikipedia.org/wiki/柯提斯·梅菲爾德 "wikilink")《Superfly》。經過不同的唱片公司爭奪后，Superfly于2007年以單曲《Hello
+Superfly原有的兩名成員越智志帆與多保孝一于2004年的時候在日本愛媛縣松山大學一個音樂交流會認識并結成。樂團的名字來自著名靈魂樂歌手[柯提斯·梅菲爾德的作品](../Page/柯提斯·梅菲爾德.md "wikilink")《Superfly》。經過不同的唱片公司爭奪后，Superfly于2007年以單曲《Hello
 Hello》出道。在數月后，第二張單曲《Manifesto》發行，但于同年11月8日，多保孝一宣布會淡出樂團活動，但仍然會為樂團提供作曲及作詞。其後，越智志帆繼續使用Superfly名義進行個人音樂活動。11月28日，Superfly發行了與澳洲樂隊[Jet合作的單曲](../Page/Jet_\(樂隊\).md "wikilink")《I
 Spy I Spy》。
 
@@ -12,7 +12,7 @@ Andrew見面，作為參與紀錄片拍攝《the Steps of
 Janis》的一部分。于2009年紐約站的[胡士托音樂節紀念巡回演唱會](../Page/胡士托音樂節.md "wikilink")，越智志帆也與Big
 Brother and the Holding Company同臺演出。
 
-Superfly的首張原創專輯《[Superfly](https://zh.wikipedia.org/wiki/Superfly_\(專輯\) "wikilink")》于2008年5月推出，而第二張原創專輯《[Box
+Superfly的首張原創專輯《[Superfly](../Page/Superfly_\(專輯\).md "wikilink")》于2008年5月推出，而第二張原創專輯《[Box
 Emotions](../Page/Box_Emotions.md "wikilink")》則于2009年9月推出。該專輯推出首周便獲得超過200,000張銷量，也被日本[iTunes商店選為](https://zh.wikipedia.org/wiki/iTunes "wikilink")2009年最佳專輯。之后推出的單曲《Dancing
 on the
 Fire》也獲得了日本[MTV音樂頻道最佳搖滾MV獎](https://zh.wikipedia.org/wiki/MTV "wikilink")。
@@ -30,7 +30,7 @@ Shiho。
 
 **原創專輯**
 
-  - [Superfly](https://zh.wikipedia.org/wiki/Superfly_\(專輯\) "wikilink")（2008年）
+  - [Superfly](../Page/Superfly_\(專輯\).md "wikilink")（2008年）
   - [Box Emotions](../Page/Box_Emotions.md "wikilink")（2009年）
   - [Mind Travel](../Page/Mind_Travel.md "wikilink")（2011年）
   - [Force](../Page/Force_\(Superfly專輯\).md "wikilink")（2012年）

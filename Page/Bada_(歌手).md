@@ -41,7 +41,7 @@ V.O.X](../Page/Baby_V.O.X.md "wikilink")、[酷龍等團體把韓國音樂推廣
   - 2017年：[朴軫永的Party
     People](https://zh.wikipedia.org/wiki/朴軫永的Party_People "wikilink")(2017年9月30日)
   - 2017年：SBS《[Fantastic Duo
-    2](https://zh.wikipedia.org/wiki/Fantastic_Duo_2 "wikilink")》（固定嘉賓，2017年3月\~12月）
+    2](../Page/Fantastic_Duo_2.md "wikilink")》（固定嘉賓，2017年3月\~12月）
 
 ## 參考資料
 

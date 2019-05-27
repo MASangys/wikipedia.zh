@@ -56,7 +56,7 @@ PlotData=
 ` bar:14 from:0 till:63.065 color:barcolor text:"`[`14-15`](../Page/2014-15_NBA賽季.md "wikilink")` 63.065百萬美元"`
 ` bar:15 from:0 till:70.000 color:barcolor text:"`[`15-16`](https://zh.wikipedia.org/wiki/2015-16_NBA賽季 "wikilink")` 70.000百萬美元"`
 ` bar:16 from:0 till:94.143 color:barcolor text:"`[`16-17`](https://zh.wikipedia.org/wiki/2016-17_NBA賽季 "wikilink")` 94.143百萬美元"`
-` bar:17 from:0 till:99.093 color:barcolor text:"`[`17-18`](https://zh.wikipedia.org/wiki/2017-18_NBA賽季 "wikilink")` 99.093百萬美元"`
+` bar:17 from:0 till:99.093 color:barcolor text:"`[`17-18`](../Page/2017-18_NBA賽季.md "wikilink")` 99.093百萬美元"`
 ` bar:18 from:0 till:108 color:green text:"`[`18-19`](https://zh.wikipedia.org/wiki/2018-19_NBA賽季 "wikilink")` 108*百萬美元"`
 ` bar:19 from:0 till:109 color:green text:"`[`19-20`](https://zh.wikipedia.org/wiki/2019-20_NBA賽季 "wikilink")` 109*百萬美元"`
 ` bar:20 from:0 till:114 color:green text:"`[`20-21`](https://zh.wikipedia.org/wiki/2020-21_NBA賽季 "wikilink")` 114*百萬美元"`
@@ -167,7 +167,7 @@ Agreement）是指由資方（NBA總裁及三十位球會老闆）及勞方（NB
 
 该条款又被称作“百万条款”，因为在1998-99赛季这个特例起薪刚好是100万美元。双年特例因为每两年使用一次，而被冠名为“双年特例”，和中产特例一样，它的起薪也是被固定的，并且可以拆开签约多名球员。双年条款最长为2年合同。2011年最新的劳资协议规定双年条款起薪为167.2万美元，这个金额每年增加8%。
 
-作为该条款的一个例子，[2003-04赛季](https://zh.wikipedia.org/wiki/2003-04_NBA赛季 "wikilink")，[洛杉矶湖人队就用该条款签下](https://zh.wikipedia.org/wiki/洛杉矶湖人 "wikilink")[卡尔·马龙](../Page/卡爾·馬龍.md "wikilink")。
+作为该条款的一个例子，[2003-04赛季](https://zh.wikipedia.org/wiki/2003-04_NBA赛季 "wikilink")，[洛杉矶湖人队就用该条款签下](../Page/洛杉矶湖人.md "wikilink")[卡尔·马龙](../Page/卡爾·馬龍.md "wikilink")。
 
 ### 新秀條款
 

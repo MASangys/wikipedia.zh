@@ -39,7 +39,7 @@ SHOOTER》受到矚目的關係\[2\]，huke負責人物設計的家用[電子遊
   - [我的妹妹哪有這麼可愛！](../Page/我的妹妹哪有這麼可愛！.md "wikilink")（動畫第14話結束插圖）
 
   - [DARLING in the
-    FRANXX](https://zh.wikipedia.org/wiki/DARLING_in_the_FRANXX "wikilink")（叫龍設計）
+    FRANXX](../Page/DARLING_in_the_FRANXX.md "wikilink")（叫龍設計）
 
 ## 畫冊
 

@@ -1,5 +1,5 @@
 **李知恩**（；），藝名**IU**（
-），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[创作歌手](../Page/創作歌手.md "wikilink")、[女演员](https://zh.wikipedia.org/wiki/女演员 "wikilink")。[韓國音樂著作權協會登記編號為](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")10000992。
+），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[创作歌手](../Page/創作歌手.md "wikilink")、[女演员](https://zh.wikipedia.org/wiki/女演员 "wikilink")。[韓國音樂著作權協會登記編號為](../Page/韓國音樂著作權協會.md "wikilink")10000992。
 
 上中学时，IU为实现成为歌手的梦想，参加许多经纪公司的选拔。她于2007与[LOEN娛樂签约成为練習生](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，15岁时推出首张迷你专辑《[Lost
 and
@@ -147,7 +147,7 @@ All-kill」，為IU第7首得到該稱號的歌曲。11月8號，IU於[上海舉
 I\&U in
 Shanghai》，於[上海大舞台舉行](https://zh.wikipedia.org/wiki/上海大舞台 "wikilink")。12月20日，IU在北京汇源中心举行演唱会，并翻唱了[宋冬野的民谣歌曲](../Page/宋冬野.md "wikilink")《斑马，斑马》，她表示自己为练习这首歌在三周之内听了一千多遍原唱\[86\]。
 
-2016年1月4日，IU確定出演於9月播出的新劇《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")》。與[李準基](https://zh.wikipedia.org/wiki/李準基 "wikilink")、[姜河那](../Page/姜河那.md "wikilink")、[洪宗玄](../Page/洪宗玄.md "wikilink")、[伯賢](https://zh.wikipedia.org/wiki/伯賢 "wikilink")、[南柱赫及](https://zh.wikipedia.org/wiki/南柱赫 "wikilink")[Jisoo合作](https://zh.wikipedia.org/wiki/Jisoo "wikilink")，飾演一個從21世紀穿越到高麗時代的女子，是一個自己命運掌握在自己手中的極具個性的角色。\[87\]1月10日於台灣的[台北國際會議中心舉行見面會](../Page/台北國際會議中心.md "wikilink")，並首度嘗試以台語表演，翻唱了[莫文蔚的](../Page/莫文蔚.md "wikilink")《愛情》，該歌曲除了[标准汉语外](https://zh.wikipedia.org/wiki/标准汉语 "wikilink")，還有包含了[台語的部分](https://zh.wikipedia.org/wiki/台語 "wikilink")。\[88\]1月中，《月之戀人－步步驚心：麗》正式開拍。此劇以事前製作的方式進行拍攝，有別於多數韓劇「邊拍邊播」的製劇方式。7月1日凌晨，IU完成了五個多月於韓國各地進行的拍攝工作\[89\]。完成拍攝後，IU前往中國舉辦《GOODDAY》見面會「IU
+2016年1月4日，IU確定出演於9月播出的新劇《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")》。與[李準基](https://zh.wikipedia.org/wiki/李準基 "wikilink")、[姜河那](../Page/姜河那.md "wikilink")、[洪宗玄](../Page/洪宗玄.md "wikilink")、[伯賢](../Page/伯賢.md "wikilink")、[南柱赫及](https://zh.wikipedia.org/wiki/南柱赫 "wikilink")[Jisoo合作](https://zh.wikipedia.org/wiki/Jisoo "wikilink")，飾演一個從21世紀穿越到高麗時代的女子，是一個自己命運掌握在自己手中的極具個性的角色。\[87\]1月10日於台灣的[台北國際會議中心舉行見面會](../Page/台北國際會議中心.md "wikilink")，並首度嘗試以台語表演，翻唱了[莫文蔚的](../Page/莫文蔚.md "wikilink")《愛情》，該歌曲除了[标准汉语外](https://zh.wikipedia.org/wiki/标准汉语 "wikilink")，還有包含了[台語的部分](https://zh.wikipedia.org/wiki/台語 "wikilink")。\[88\]1月中，《月之戀人－步步驚心：麗》正式開拍。此劇以事前製作的方式進行拍攝，有別於多數韓劇「邊拍邊播」的製劇方式。7月1日凌晨，IU完成了五個多月於韓國各地進行的拍攝工作\[89\]。完成拍攝後，IU前往中國舉辦《GOODDAY》見面會「IU
 GOODDAY IN CHINA
 2016」，並於7月9日的[廣州演唱會作為開始](https://zh.wikipedia.org/wiki/廣州 "wikilink")，前往[長沙](https://zh.wikipedia.org/wiki/長沙 "wikilink")、[南京](https://zh.wikipedia.org/wiki/南京市 "wikilink")、[重慶](https://zh.wikipedia.org/wiki/重慶 "wikilink")、[武漢](https://zh.wikipedia.org/wiki/武漢 "wikilink")、[深圳和](../Page/深圳市.md "wikilink")[成都](../Page/成都市.md "wikilink")，共7個城市舉辦巡迴演唱\[90\]。8月29日，《月之戀人－步步驚心：麗》正式播出，並於海外多個頻道同步播出。12月3及4日，IU於[首爾奧林匹克公園的](https://zh.wikipedia.org/wiki/首爾奧林匹克公園 "wikilink")
 SK手球競技場舉辦一連兩場演唱會《24 STEPS: ONE TWO THREE FOUR (스물 네 걸음: 하나 둘 셋
@@ -170,20 +170,20 @@ All-kill的歌曲\[96\]。4月13日，IU再度透過官方 Facebook 公開曲目
 All-kill，成為此專輯第三首完成Perfect
 All-kill的歌曲。整張專輯在五大音樂節目中，獲得共十二個一位的佳績，當中更於SBS《人氣歌謠》中連續3次獲獎。
 
-2017年9月1日，經紀公司宣布IU預計將於9月中旬發表第二張翻唱專輯《[花书签2](https://zh.wikipedia.org/wiki/花书签2 "wikilink")》的消息，這次是事隔3年再次發表翻唱專輯，也是繼四月發行的正規專輯《Palette》後五個月發行專輯。另外，IU將會在24日於首爾梨花女子大學Samsung
+2017年9月1日，經紀公司宣布IU預計將於9月中旬發表第二張翻唱專輯《[花书签2](../Page/花书签2.md "wikilink")》的消息，這次是事隔3年再次發表翻唱專輯，也是繼四月發行的正規專輯《Palette》後五個月發行專輯。另外，IU將會在24日於首爾梨花女子大學Samsung
 Hall 舉行出道9周年粉絲見面會，預計會在見面會上公開第二張翻唱專輯《花書籤2》的舞台\[98\]。
 8日，經紀公司確定IU將會在9月22日發行第二張翻唱專輯《花書籤2》，也公開了音源日程和專輯封面\[99\]。
 18日，IU在韓國時間上午7時奇襲公開一首先行曲《秋日早晨》\[100\]，是由吉他手[鄭晟河負責編曲](../Page/鄭晟河.md "wikilink")、演奏，知名民謠音樂人Hareem演奏哨笛\[101\]。並公開第二支預告影片。19日，韓國時間14:30
 首次達成All-kill，20日，韓國時間22:30 完成Perfect All-kill，為IU第十一首達成Perfect
 All-kill的歌曲。\[102\]。11月至12月，[IU在韓國國內外五個都市舉行](https://zh.wikipedia.org/wiki/IU "wikilink")2017巡迴演唱會
--《Palette》，延續專輯中IU二十五歲的故事\[103\]。2017年，[IU透過正規專輯](https://zh.wikipedia.org/wiki/IU "wikilink")《Palette》、翻唱專輯《花書籤2》等音樂作品，於韓國[蓋洛普民調中心的](https://zh.wikipedia.org/wiki/蓋洛普 "wikilink")「年度閃耀歌手」排行榜中登上冠軍寶座。\[104\][IU先後獲得各大音樂頒獎典禮的奬項](https://zh.wikipedia.org/wiki/IU "wikilink"),
+-《Palette》，延續專輯中IU二十五歲的故事\[103\]。2017年，[IU透過正規專輯](https://zh.wikipedia.org/wiki/IU "wikilink")《Palette》、翻唱專輯《花書籤2》等音樂作品，於韓國[蓋洛普民調中心的](../Page/蓋洛普.md "wikilink")「年度閃耀歌手」排行榜中登上冠軍寶座。\[104\][IU先後獲得各大音樂頒獎典禮的奬項](https://zh.wikipedia.org/wiki/IU "wikilink"),
 其中於[甜瓜音樂獎憑正規專輯](../Page/甜瓜音樂獎.md "wikilink")《Palette》獲得年度專輯大賞\[105\],
 更於2018年舉行的[金唱片獎中獲得音源大賞](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")\[106\]，以及[Gaon
 Chart
 K-POP大獎中取得五個獎項成為大贏家](../Page/Gaon_Chart_K-POP大獎.md "wikilink")，受到許多樂迷喜愛。
 
 2018年3月，IU出演的 tvN
-水木電視劇《[我的大叔](https://zh.wikipedia.org/wiki/我的大叔 "wikilink")》首播。並與[李善均合作](../Page/李善均.md "wikilink")，飾演一個二十多歲承受着人生負重的女子李知安一角。7月18日，經紀公司Kakao
+水木電視劇《[我的大叔](../Page/我的大叔.md "wikilink")》首播。並與[李善均合作](../Page/李善均.md "wikilink")，飾演一個二十多歲承受着人生負重的女子李知安一角。7月18日，經紀公司Kakao
 M宣布與IU續約，公司表示雖然距離合約期滿還有幾個月的時間，但IU基於與公司之間的信任，因而決定提前續約。\[107\]7月18日，歌手[ZICO經紀公司表示將於](https://zh.wikipedia.org/wiki/ZICO "wikilink")7月30日發行由IU
 參與配唱的單曲《SoulMate》。二人繼2009年 IU 迷你二輯主打歌《Marshmallow》後，睽違九年再次合作。\[108\]
 9月12日，經紀公司透露，IU
@@ -206,7 +206,7 @@ S
 II代言](../Page/三星Galaxy_S_II.md "wikilink")\[122\]\[123\]，并为服装品牌Unionbay运动服和[樂卡克担任代言模特](../Page/樂卡克.md "wikilink")\[124\]\[125\]。她还出现在韩国最大无线运营商[SK电讯](../Page/SK电讯.md "wikilink")\[126\]、南阳乳业的酸奶品牌Yogurt\[127\]、石油精炼公司\[128\]和零售连锁店\[129\]的商业广告中。自2011年起，IU一直为快餐连锁店代言Mexicana炸鸡\[130\]。2012年，她与[俞承豪成为服装品牌G](../Page/俞承豪.md "wikilink")
 by
 GUESS的代言模特，还与[INFINITE共同代言Elite制服](../Page/INFINITE.md "wikilink")\[131\]\[132\]。她为SK电讯的11号街网上商城代言\[133\]，并出现在The
-Saem化妆品品牌、[农心集团的](../Page/农心集团.md "wikilink")[辛拉面和呼噜噜刀切面](https://zh.wikipedia.org/wiki/辛拉面 "wikilink")（与[朴寶劍合作](https://zh.wikipedia.org/wiki/朴寶劍 "wikilink")）的商业广告中\[134\]\[135\]\[136\]。IU与[時完和](../Page/時完.md "wikilink")[黃光熙出演了](../Page/黃光熙.md "wikilink")[三星Wave
+Saem化妆品品牌、[农心集团的](../Page/农心集团.md "wikilink")[辛拉面和呼噜噜刀切面](https://zh.wikipedia.org/wiki/辛拉面 "wikilink")（与[朴寶劍合作](../Page/朴寶劍.md "wikilink")）的商业广告中\[134\]\[135\]\[136\]。IU与[時完和](../Page/時完.md "wikilink")[黃光熙出演了](../Page/黃光熙.md "wikilink")[三星Wave
 3的三集商业剧](../Page/三星Wave_S8500.md "wikilink")《20岁，Wave的开始》（*20, Start of
 a
 Wave*）\[137\]。此外，IU还被选为[2012年丽水世博会的形象大使](../Page/2012年世界博覽會.md "wikilink")\[138\]。
@@ -233,7 +233,7 @@ Wave*）\[137\]。此外，IU还被选为[2012年丽水世博会的形象大使]
 | 2011年-2013年                                                                                            | Elite制服（與[INFINITE](../Page/INFINITE.md "wikilink")）                                                                                  | 學生制服                                                                 |
 | 2011年-2017年                                                                                            | Mexicana Chicken                                                                                                                      | 炸雞                                                                   |
 | 2012年                                                                                                  | G by Guess (與[俞承豪](../Page/俞承豪.md "wikilink")）                                                                                        | 服裝品牌                                                                 |
-| [農心呼嚕嚕刀切面](../Page/农心集团.md "wikilink") (與[朴寶劍](https://zh.wikipedia.org/wiki/朴寶劍 "wikilink"))          | 刀切面                                                                                                                                   |                                                                      |
+| [農心呼嚕嚕刀切面](../Page/农心集团.md "wikilink") (與[朴寶劍](../Page/朴寶劍.md "wikilink"))                             | 刀切面                                                                                                                                   |                                                                      |
 | 三星Wave 3（與[林時完](https://zh.wikipedia.org/wiki/林時完 "wikilink")）                                         | 手機                                                                                                                                    |                                                                      |
 | Lemona                                                                                                 | 維生素                                                                                                                                   |                                                                      |
 | 《永恆之塔（AION）4.0》（韓國地區）                                                                                  | 網路遊戲                                                                                                                                  |                                                                      |
@@ -318,7 +318,7 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
   - 《[Growing Up](../Page/Growing_Up_\(IU专辑\).md "wikilink")》（2009）
   - 《[Last Fantasy](../Page/Last_Fantasy.md "wikilink")》（2011）
   - 《[Modern Times](../Page/Modern_Times_\(IU专辑\).md "wikilink")》（2013）
-  - 《[Palette](https://zh.wikipedia.org/wiki/Palette_\(IU专辑\) "wikilink")》（2017）
+  - 《[Palette](../Page/Palette_\(IU专辑\).md "wikilink")》（2017）
 
 <!-- end list -->
 
@@ -334,7 +334,7 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
   - 《[二十岁的春天](../Page/二十岁的春天.md "wikilink")》（2012）
   - 《[花书签](../Page/花书签.md "wikilink")》（2014）
   - 《[CHAT-SHIRE](../Page/CHAT-SHIRE.md "wikilink")》（2015）
-  - 《[花书签2](https://zh.wikipedia.org/wiki/花书签2 "wikilink")》（2017）
+  - 《[花书签2](../Page/花书签2.md "wikilink")》（2017）
 
 <!-- end list -->
 
@@ -344,7 +344,7 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
 
   - 《[I□U](../Page/I□U.md "wikilink")》（2011）
   - 《[Can You Hear
-    Me?](https://zh.wikipedia.org/wiki/Can_You_Hear_Me?_\(IU迷你专辑\) "wikilink")》（2013）
+    Me?](../Page/Can_You_Hear_Me?_\(IU迷你专辑\).md "wikilink")》（2013）
 
 <!-- end list -->
 
@@ -372,8 +372,8 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
 |         [漂亮男人](../Page/漂亮男人.md "wikilink")          |                                金普通                                |                                                                       |            |       |    |
 |                        2015年                        |          [製作-{}-人](../Page/製作人_\(韓國電視劇\).md "wikilink")           |                              趙仁英 (Cindy)                              |   第二女主角    |       |    |
 |                        2016年                        |        [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")        |           [月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")            |   解樹／高夏真   | 第一女主角 |    |
-|                        2018年                        |        [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")        |         [我的大叔](https://zh.wikipedia.org/wiki/我的大叔 "wikilink")         |    李知安     |       |    |
-|                        2019年                        |      [德魯納酒店](https://zh.wikipedia.org/wiki/德魯納酒店 "wikilink")      |                                  張滿月                                  |            |       |    |
+|                        2018年                        |        [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")        |                  [我的大叔](../Page/我的大叔.md "wikilink")                   |    李知安     |       |    |
+|                        2019年                        |               [德魯納酒店](../Page/德魯納酒店.md "wikilink")                |                                  張滿月                                  |            |       |    |
 
 ### 電影
 
@@ -395,7 +395,7 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Real_(電影)" title="wikilink">Real</a></p></td>
+<td><p><a href="../Page/Real_(電影).md" title="wikilink">Real</a></p></td>
 <td><p>頒獎典禮的禮儀小姐</p></td>
 <td><p>客串</p></td>
 </tr>
@@ -442,7 +442,7 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
 <td><p>2集（240、249）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金諪恩的巧克力" title="wikilink">金諪恩的巧克力</a></p></td>
+<td><p><a href="../Page/金諪恩的巧克力.md" title="wikilink">金諪恩的巧克力</a></p></td>
 <td><p>演唱者</p></td>
 <td><p>1集（81）</p></td>
 <td></td>
@@ -556,7 +556,7 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/柳喜烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a></p></td>
+<td><p><a href="../Page/柳喜烈的寫生簿.md" title="wikilink">柳熙烈的寫生簿</a></p></td>
 <td><p>演唱者</p></td>
 <td><p>1集（2011年12月26日）</p></td>
 <td></td>
@@ -600,7 +600,7 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
 <li>與<a href="../Page/趙權.md" title="wikilink">趙權</a>、<a href="../Page/崔真理.md" title="wikilink">Sulli</a>、<a href="../Page/李起光.md" title="wikilink">李起光</a>（2011年3月20日－11月13日）</li>
 <li>與<a href="https://zh.wikipedia.org/wiki/具荷拉" title="wikilink">荷拉</a>、<a href="../Page/鄭龍珠.md" title="wikilink">妮可</a>（2011年11月20日－2012年5月20日）</li>
 <li>與<a href="../Page/李鍾碩.md" title="wikilink">李鍾碩</a>（2012年8月26日－12月2日）</li>
-<li>與<a href="../Page/李玹雨.md" title="wikilink">李玹雨</a>、<a href="https://zh.wikipedia.org/wiki/ZE:A" title="wikilink">黃光熙</a>（2012年12月16日－2013年7月28日）</li>
+<li>與<a href="../Page/李玹雨.md" title="wikilink">李玹雨</a>、<a href="../Page/ZE:A.md" title="wikilink">黃光熙</a>（2012年12月16日－2013年7月28日）</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -634,7 +634,7 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/柳喜烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a></p></td>
+<td><p><a href="../Page/柳喜烈的寫生簿.md" title="wikilink">柳熙烈的寫生簿</a></p></td>
 <td><p>演唱者</p></td>
 <td><p>1集（2012年5月25日）</p></td>
 <td></td>
@@ -688,7 +688,7 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
 <td><p>1集（2013年7月23日）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/柳喜烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a></p></td>
+<td><p><a href="../Page/柳喜烈的寫生簿.md" title="wikilink">柳熙烈的寫生簿</a></p></td>
 <td><p>演唱者</p></td>
 <td><p>1集（2013年10月11日）</p></td>
 <td></td>
@@ -760,13 +760,13 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/柳喜烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a></p></td>
+<td><p><a href="../Page/柳喜烈的寫生簿.md" title="wikilink">柳熙烈的寫生簿</a></p></td>
 <td><p>演唱者</p></td>
 <td><p>1集（2014年9月13日）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Healing_Camp" title="wikilink">Healing Camp</a></p></td>
+<td><p><a href="../Page/Healing_Camp.md" title="wikilink">Healing Camp</a></p></td>
 <td><p>演唱者</p></td>
 <td><p>2集（144、145）</p></td>
 <td></td>
@@ -814,7 +814,7 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
 <td><p>1集 (2017年4月29日)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/演藝家中介" title="wikilink">演藝家中介</a></p></td>
+<td><p><a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a></p></td>
 <td><p>嘉賓</p></td>
 <td><p>1集 (2017年4月30日)</p></td>
 <td></td>
@@ -826,7 +826,7 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Fantastic_Duo_2" title="wikilink">Fantastic Duo 2</a></p></td>
+<td><p><a href="../Page/Fantastic_Duo_2.md" title="wikilink">Fantastic Duo 2</a></p></td>
 <td><p>嘉賓</p></td>
 <td><p>2集</p></td>
 <td></td>
@@ -838,7 +838,7 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/孝利家民宿" title="wikilink">孝利家民宿</a></p></td>
+<td><p><a href="../Page/孝利家民宿.md" title="wikilink">孝利家民宿</a></p></td>
 <td><p>固定嘉賓（飾民宿職員）</p></td>
 <td><p>第2集開始至尾</p></td>
 <td></td>
@@ -846,7 +846,7 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
 <tr class="odd">
 <td><p><a href="../Page/SBS歌謠大戰.md" title="wikilink">SBS歌謠大戰</a></p></td>
 <td><p>主持人、演唱者</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/柳喜烈" title="wikilink">柳熙烈聯合主持</a></p></td>
+<td><p>與<a href="../Page/柳喜烈.md" title="wikilink">柳熙烈聯合主持</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -856,7 +856,7 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
 <td><p>1集（2018年6月2日）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/有品位地吃吧" title="wikilink">有品味地吃吧</a></p></td>
+<td><p><a href="../Page/有品位地吃吧.md" title="wikilink">有品味地吃吧</a></p></td>
 <td><p>嘉賓</p></td>
 <td><p>2集（2018年9月7日、14日）</p></td>
 <td></td>
@@ -875,7 +875,7 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/你的歌曲" title="wikilink">你的歌曲</a></p></td>
+<td><p><a href="../Page/你的歌曲.md" title="wikilink">你的歌曲</a></p></td>
 <td><p>嘉賓</p></td>
 <td><p>1集（2019年1月31日）</p></td>
 </tr>

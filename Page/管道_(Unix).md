@@ -80,8 +80,8 @@ command | while read var1 var2 ...; do
 
 ### 匿名管道
 
-使用[C语言在UNIX中使用pipe](https://zh.wikipedia.org/wiki/C语言 "wikilink")(2)[系统调用时](https://zh.wikipedia.org/wiki/系统调用 "wikilink")，这个函数会让系统构建一个[匿名管道](https://zh.wikipedia.org/wiki/匿名管道 "wikilink")，这样在进程中就打开了两个新的，打开的[文件描述符](../Page/文件描述符.md "wikilink")：一个只读端和一个只写端。管道的两端是两个普通的，匿名的文件描述符，这就让其他进程无法连接该管道。
-为了避免[死锁并利用进程的](../Page/死锁.md "wikilink")[并行运行的好处](https://zh.wikipedia.org/wiki/并行运行 "wikilink")，有一个或多个管道的UNIX进程通常会调用[`fork(2)`](https://zh.wikipedia.org/wiki/Fork_\(系统调用\) "wikilink")产生新进程。并且每个子进程在开始读或写管道之前都会关掉不会用到的管道端。或者进程会产生一个子[线程并使用管道来让线程进行数据交换](../Page/线程.md "wikilink")。
+使用[C语言在UNIX中使用pipe](https://zh.wikipedia.org/wiki/C语言 "wikilink")(2)[系统调用时](https://zh.wikipedia.org/wiki/系统调用 "wikilink")，这个函数会让系统构建一个[匿名管道](../Page/匿名管道.md "wikilink")，这样在进程中就打开了两个新的，打开的[文件描述符](../Page/文件描述符.md "wikilink")：一个只读端和一个只写端。管道的两端是两个普通的，匿名的文件描述符，这就让其他进程无法连接该管道。
+为了避免[死锁并利用进程的](../Page/死锁.md "wikilink")[并行运行的好处](https://zh.wikipedia.org/wiki/并行运行 "wikilink")，有一个或多个管道的UNIX进程通常会调用[`fork(2)`](../Page/Fork_\(系统调用\).md "wikilink")产生新进程。并且每个子进程在开始读或写管道之前都会关掉不会用到的管道端。或者进程会产生一个子[线程并使用管道来让线程进行数据交换](../Page/线程.md "wikilink")。
 实现代码：
 
 ``` c
@@ -217,13 +217,13 @@ files'。\[2\]\[3\]
 
 ## 参见
 
-  - [匿名管道](https://zh.wikipedia.org/wiki/匿名管道 "wikilink")，一個用於[行程間通訊的](../Page/行程間通訊.md "wikilink")
+  - [匿名管道](../Page/匿名管道.md "wikilink")，一個用於[行程間通訊的](../Page/行程間通訊.md "wikilink")
     [FIFO](https://zh.wikipedia.org/wiki/FIFO "wikilink") 架構。
 
   - [GStreamer](../Page/GStreamer.md "wikilink")，一個基於管道的多媒體架構。
 
   -
-  - [命名管道](https://zh.wikipedia.org/wiki/命名管道 "wikilink")，用于[进程间通信的持久性管道](https://zh.wikipedia.org/wiki/进程间通信 "wikilink")
+  - [命名管道](../Page/命名管道.md "wikilink")，用于[进程间通信的持久性管道](https://zh.wikipedia.org/wiki/进程间通信 "wikilink")
 
   - [流水线 (计算机)](../Page/流水线_\(计算机\).md "wikilink")，与计算机相关的其他管线
 

@@ -108,8 +108,7 @@ Scramble」計劃。但收集手段卻一概不問，Border之間籍此為個人
 
 <!-- end list -->
 
-  - 少年型－「ティント」
-    CV：[高倉有加](https://zh.wikipedia.org/wiki/高倉有加 "wikilink")
+  - 少年型－「ティント」 CV：[高倉有加](../Page/高倉有加.md "wikilink")
     澳洲出生。小時因為貪玩成功操控乘坐的Blast，自此定下志願要成為Border。
     性格頗弱氣連帶對話也有點口吃，但某些對白也有表現出其潛在鬥志。
 

@@ -133,7 +133,7 @@ queue)。在发生输入事件之后，Windows操作系统的输入设备驱动�
       - WM_MOUSEWHEEL发送给具有焦点的窗口（注意不一定是鼠标下面的窗口）
   - 定时器消息
   - 控件消息
-  - 跨进程发送数据的消息：WM_SETTEXT、WM_GETTEXT、WM_COPYDATA，系统自动分配使用可在进程间共享的[内存映射文件来传递数据](https://zh.wikipedia.org/wiki/内存映射文件 "wikilink")。
+  - 跨进程发送数据的消息：WM_SETTEXT、WM_GETTEXT、WM_COPYDATA，系统自动分配使用可在进程间共享的[内存映射文件来传递数据](../Page/内存映射文件.md "wikilink")。
 
 键盘输入时需要明确插入符位置，相关API函数为：CreateCaret、SetCaretPos、ShowCaret、HideCaret、DestroyCaret、GetCaretPos、GetCaretBlinkTime、SetCaretBlinkTime。
 
@@ -144,7 +144,7 @@ queue)。在发生输入事件之后，Windows操作系统的输入设备驱动�
 ## 同步与阻塞
 
 [Windows
-API函数SendMessage是个](../Page/Windows_API.md "wikilink")[同步调用](https://zh.wikipedia.org/wiki/同步_\(计算机科学\) "wikilink")，即它发出的Windows消息没被处理完之前这个函数就不返回。但这个函数不是阻塞的。分两种情形：\[5\]
+API函数SendMessage是个](../Page/Windows_API.md "wikilink")[同步调用](../Page/同步_\(计算机科学\).md "wikilink")，即它发出的Windows消息没被处理完之前这个函数就不返回。但这个函数不是阻塞的。分两种情形：\[5\]
 
   - 如果被指定的窗口是发起调用SendMessage的线程创建的，则该线程立即执行窗口过程（window procedure）；
   - 如果被指定的窗口不是发起调用SendMessage的线程创建的，操作系统切换到该窗口所属的线程执行相应的窗口过程。消息处理完之前，发送线程不从调用SendMessage处返回，但发送线程这期间可以处理非队列消息（nonqueued

@@ -9,8 +9,7 @@
     S01AA04 [土霉素](../Page/土霉素.md "wikilink")（Oxytetracycline）
     S01AA05 短杆菌素（）
     S01AA07 弗拉霉素（[Framycetin](../Page/新霉素.md "wikilink")）
-    S01AA09
-    四环素（[Tetracycline](https://zh.wikipedia.org/wiki/四環黴素 "wikilink")）
+    S01AA09 四环素（[Tetracycline](../Page/四環黴素.md "wikilink")）
     S01AA10 游霉素（）
     S01AA11 [庆大霉素](../Page/庆大霉素.md "wikilink")（Gentamicin）
     S01AA12 [妥布霉素](../Page/妥布霉素.md "wikilink")（Tobramycin）
@@ -64,8 +63,7 @@
     compounds）
     S01AX03 [锌化合物](../Page/锌.md "wikilink")（Zinc compounds）
     S01AX04 呋喃西林（[Nitrofural](../Page/呋喃西林.md "wikilink")）
-    S01AX05
-    [铋溴酚](https://zh.wikipedia.org/wiki/铋溴酚 "wikilink")（Bibrocathol）
+    S01AX05 [铋溴酚](../Page/铋溴酚.md "wikilink")（Bibrocathol）
     S01AX06 [间苯二酚](../Page/间苯二酚.md "wikilink")（Resorcinol）
     S01AX07 [硼砂钠](../Page/硼砂.md "wikilink")（Sodium borate）
     S01AX08 己脒定（）
@@ -221,8 +219,7 @@
     S01EE02 乌诺前列酮（）
     S01EE03 比马前列素（）
     S01EE04 曲伏前列素（）
-    S01EE05
-    他氟前列素（[Tafluprost](https://zh.wikipedia.org/wiki/他氟前列素 "wikilink")）
+    S01EE05 他氟前列素（[Tafluprost](../Page/他氟前列素.md "wikilink")）
 
 ### S01EX 其它抗青光眼制剂（Other antiglaucoma preparations）
 

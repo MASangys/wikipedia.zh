@@ -1,4 +1,4 @@
-**AGS-17**（\[1\]；Пламя，[拉丁化](https://zh.wikipedia.org/wiki/拉丁化 "wikilink")：Plamya，意為：烈火；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）是一挻由[前苏联](../Page/苏联.md "wikilink")（現在是[俄罗斯](../Page/俄罗斯.md "wikilink")）[KBP儀器設計廠所研製](../Page/俄联邦仪器设计局.md "wikilink")、現由所生產的30毫米[自動榴弹发射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，目前主要在[俄羅斯聯邦和世界多個國家當中服役](../Page/俄罗斯.md "wikilink")。其設計目的就是用以摧毀敵方人員及載具，保護使用方的步兵連。發射[無彈殼](../Page/無殼彈.md "wikilink")[榴彈](https://zh.wikipedia.org/wiki/榴彈 "wikilink")。
+**AGS-17**（\[1\]；Пламя，[拉丁化](https://zh.wikipedia.org/wiki/拉丁化 "wikilink")：Plamya，意為：烈火；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）是一挻由[前苏联](../Page/苏联.md "wikilink")（現在是[俄罗斯](../Page/俄罗斯.md "wikilink")）[KBP儀器設計廠所研製](../Page/俄联邦仪器设计局.md "wikilink")、現由所生產的30毫米[自動榴弹发射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，目前主要在[俄羅斯聯邦和世界多個國家當中服役](../Page/俄罗斯.md "wikilink")。其設計目的就是用以摧毀敵方人員及載具，保護使用方的步兵連。發射[無彈殼](../Page/無殼彈.md "wikilink")[榴彈](https://zh.wikipedia.org/wiki/榴彈 "wikilink")。
 
 ## 設計細節
 
@@ -8,7 +8,7 @@ AGS-17使用[後座作用原理的槍機結構](../Page/後座作用.md "wikilin
 
 AGS-17的榴彈都裝在一具金屬製的[彈鼓以內](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，並且以[不可散式彈鏈連接在一起](../Page/彈鏈.md "wikilink")。使用時彈鼓會鉤掛在[機匣右側以防止掉落](https://zh.wikipedia.org/wiki/機匣 "wikilink")。彈鼓標準容量為30發榴彈（有異說為29發）。
 
-AGS-17的[三腳架](https://zh.wikipedia.org/wiki/三腳架 "wikilink")（[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：），配有良好的平整[彈道功能](../Page/弹道学.md "wikilink")，由其是提供間接火力的時候。不使用的時候亦可將其摺疊以便運輸和攜帶。
+AGS-17的[三腳架](https://zh.wikipedia.org/wiki/三腳架 "wikilink")（[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：），配有良好的平整[彈道功能](../Page/弹道学.md "wikilink")，由其是提供間接火力的時候。不使用的時候亦可將其摺疊以便運輸和攜帶。
 
 AGS-17可裝上[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，[放大倍率為](https://zh.wikipedia.org/wiki/望远镜放大倍数 "wikilink")2.7倍，並具有夜間照明的功能，瞄準鏡拆卸以後可放在專用攜行袋內。
 
@@ -128,9 +128,8 @@ AGS-17榴彈發射器發射口徑（[不可散式彈鏈接接](../Page/彈鏈.md
   - [RG-6轉輪式榴彈發射器](../Page/RG-6轉輪式榴彈發射器.md "wikilink")
   - [AGS-40／6G27自動榴彈發射器](../Page/AGS-40巴爾幹自動榴彈發射器.md "wikilink")
   - [DP-64榴彈發射器](../Page/DP-64榴彈發射器.md "wikilink")
-  - [扎斯塔瓦M93
-    BGA自動榴彈發射器](https://zh.wikipedia.org/wiki/扎斯塔瓦M93_BGA自動榴彈發射器 "wikilink")
-  - [XM174自動榴彈發射器](https://zh.wikipedia.org/wiki/XM174自動榴彈發射器 "wikilink")
+  - [扎斯塔瓦M93 BGA自動榴彈發射器](../Page/扎斯塔瓦M93_BGA自動榴彈發射器.md "wikilink")
+  - [XM174自動榴彈發射器](../Page/XM174自動榴彈發射器.md "wikilink")
   - [Mk
     19自動榴彈發射器](../Page/Mk_19自動榴彈發射器.md "wikilink")，由[美国](../Page/美国.md "wikilink")[通用动力生產的自動榴彈發射器](../Page/通用动力.md "wikilink")
   - [Mk 47自動榴彈發射器](../Page/Mk_47自動榴彈發射器.md "wikilink")

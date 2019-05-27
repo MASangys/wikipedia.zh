@@ -17,13 +17,13 @@ Japan）旗下一家音樂出版社、藝能事務所，主要從事[聲優和](
 
 （）為於第幾屆「超級聲優試聽」獲取錄。
 
-  - [麻倉桃](https://zh.wikipedia.org/wiki/麻倉桃 "wikilink")（第2屆） ☆
+  - [麻倉桃](../Page/麻倉桃.md "wikilink")（第2屆） ☆
   - [雨宮天](https://zh.wikipedia.org/wiki/雨宮天 "wikilink")（第2屆） ☆
   - [壽美菜子](../Page/壽美菜子.md "wikilink")（第1屆） ☆
   - [高垣彩陽](../Page/高垣彩陽.md "wikilink")（第1屆） ☆
   - [戶松遙](../Page/戶松遙.md "wikilink")（第1屆） ☆
   - [豐崎愛生](../Page/豐崎愛生.md "wikilink")（第1屆） ☆
-  - [夏川椎菜](https://zh.wikipedia.org/wiki/夏川椎菜 "wikilink")（第2屆） ☆
+  - [夏川椎菜](../Page/夏川椎菜.md "wikilink")（第2屆） ☆
 
 ### 藝人
 
@@ -31,9 +31,9 @@ Japan）旗下一家音樂出版社、藝能事務所，主要從事[聲優和](
   - [Sphere](../Page/Sphere_\(聲優團體\).md "wikilink")（唱片公司為[Lantis的GloryHeaven](../Page/Lantis.md "wikilink")）
   - [CHiCO](../Page/CHiCO.md "wikilink") ☆
   - [TrySail](../Page/TrySail.md "wikilink")（唱片公司為[Aniplex](../Page/Aniplex.md "wikilink")→[SACRA
-    MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")）
+    MUSIC](../Page/SACRA_MUSIC.md "wikilink")）
   - [HoneyWorks](../Page/HoneyWorks.md "wikilink")（事務所為[INCS
-    toenter](https://zh.wikipedia.org/wiki/INCS_toenter "wikilink")） ☆
+    toenter](../Page/INCS_toenter.md "wikilink")） ☆
 
 ### 前屬藝人
 

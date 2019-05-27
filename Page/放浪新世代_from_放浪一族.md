@@ -12,11 +12,11 @@ zone，於2011年結成。
   - GENERATIONS的成員包括來自[EXPG的學生](../Page/EXPG.md "wikilink") -
     [小森隼](https://zh.wikipedia.org/wiki/小森隼 "wikilink")、[佐野玲於](../Page/佐野玲於.md "wikilink")、[關口Mandy](../Page/關口Mandy.md "wikilink")；[劇團EXILE成員](../Page/劇團EXILE.md "wikilink")[白濱亞嵐](../Page/白濱亞嵐.md "wikilink")、[町田啟太](../Page/町田啟太.md "wikilink")；和「」的三次審查通過者
     -
-    [數原龍友和](https://zh.wikipedia.org/wiki/數原龍友 "wikilink")[片寄涼太](https://zh.wikipedia.org/wiki/片寄涼太 "wikilink")\[2\]。在正式出道前，成員以「GENERATIONS候補生」身份進行「夢者修行」，取得正式出道的資格。
+    [數原龍友和](https://zh.wikipedia.org/wiki/數原龍友 "wikilink")[片寄涼太](../Page/片寄涼太.md "wikilink")\[2\]。在正式出道前，成員以「GENERATIONS候補生」身份進行「夢者修行」，取得正式出道的資格。
   - 2011年下旬，五位伴舞成員 -
     [中務裕太](https://zh.wikipedia.org/wiki/中務裕太 "wikilink")、[岩谷翔吾](https://zh.wikipedia.org/wiki/岩谷翔吾 "wikilink")、[藤原樹](https://zh.wikipedia.org/wiki/藤原樹 "wikilink")、[浦川翔平](https://zh.wikipedia.org/wiki/浦川翔平 "wikilink")、[佐藤大樹陸續加入GENERATIONS](../Page/佐藤大樹.md "wikilink")。[HIRO表示](../Page/五十嵐廣行.md "wikilink")、今後可能會加入更多的伴舞成員；而有才華的新人將有機會成為GENERATIONS的新候選者。\[3\]
   - 2012年2月14日，[町田啟太宣佈退團](../Page/町田啟太.md "wikilink")，並專注[劇團EXILE的演出](../Page/劇團EXILE.md "wikilink")\[4\]。
-  - 2012年4月17日，[白濱亞嵐](../Page/白濱亞嵐.md "wikilink")、[數原龍友](https://zh.wikipedia.org/wiki/數原龍友 "wikilink")、[片寄涼太](https://zh.wikipedia.org/wiki/片寄涼太 "wikilink")、[小森隼](https://zh.wikipedia.org/wiki/小森隼 "wikilink")、[佐野玲於和](../Page/佐野玲於.md "wikilink")[關口Mandy六位候選者成為GENERATIONS正式成員](../Page/關口Mandy.md "wikilink")。而且[長谷川慎和](https://zh.wikipedia.org/wiki/長谷川慎 "wikilink")[森田力斗加入為GENERATIONS伴舞成員](https://zh.wikipedia.org/wiki/森田力斗 "wikilink")。以主要出道作品為目標的前題下，GENERATIONS六位成員及其七位伴舞成員進行「夢者修行〜第二章〜」之活動\[5\]。
+  - 2012年4月17日，[白濱亞嵐](../Page/白濱亞嵐.md "wikilink")、[數原龍友](https://zh.wikipedia.org/wiki/數原龍友 "wikilink")、[片寄涼太](../Page/片寄涼太.md "wikilink")、[小森隼](https://zh.wikipedia.org/wiki/小森隼 "wikilink")、[佐野玲於和](../Page/佐野玲於.md "wikilink")[關口Mandy六位候選者成為GENERATIONS正式成員](../Page/關口Mandy.md "wikilink")。而且[長谷川慎和](https://zh.wikipedia.org/wiki/長谷川慎 "wikilink")[森田力斗加入為GENERATIONS伴舞成員](https://zh.wikipedia.org/wiki/森田力斗 "wikilink")。以主要出道作品為目標的前題下，GENERATIONS六位成員及其七位伴舞成員進行「夢者修行〜第二章〜」之活動\[5\]。
   - 2012年9月11日，伴舞成員[中務裕太昇格為GENERATIONS正式成員](https://zh.wikipedia.org/wiki/中務裕太 "wikilink")。
   - 2012年11月21日，出道單曲《[BRAVE IT
     OUT](../Page/BRAVE_IT_OUT.md "wikilink")》發行，《[BRAVE IT
@@ -92,17 +92,17 @@ zone，於2011年結成。
   - 1月27日，第11張單曲《[AGEHA](../Page/AGEHA_\(GENERATIONS單曲\).md "wikilink")》發行。
   - 3月2日，第3張原創專輯『[SPEEDSTER](../Page/SPEEDSTER.md "wikilink")』發行。
   - 6月29日，第12張單曲《[淚](../Page/淚_\(GENERATIONS單曲\).md "wikilink")》發行，並獲得Oricon公信榜每周銷量排名第1名。
-  - 11月16日，第13張單曲《[PIERROT](https://zh.wikipedia.org/wiki/PIERROT_\(GENERATIONS單曲\) "wikilink")》發行。
+  - 11月16日，第13張單曲《[PIERROT](../Page/PIERROT_\(GENERATIONS單曲\).md "wikilink")》發行。
 
 ### 2017年: 世巡、MAD CYCLONE
 
-  - 4月12日，第14張單曲《[日月皆同](https://zh.wikipedia.org/wiki/日月皆同 "wikilink")》發行。
+  - 4月12日，第14張單曲《[日月皆同](../Page/日月皆同.md "wikilink")》發行。
   - 5月展開世界巡迴演唱會「GENERATIONS from EXILE TRIBE WORLD TOUR 2017
     〜SPEEDSTER〜」，一共6場公演。同年7月展開全國巡迴及世界巡迴演唱會「GENERATIONS LIVE TOUR
     2017 "MAD CYCLONE"」，一共27場公演。
-  - 7月5日，第4張原創專輯『[沒有眼淚的小丑抬頭望着沒有太陽和月亮的天空](https://zh.wikipedia.org/wiki/沒有眼淚的小丑抬頭望着沒有太陽和月亮的天空 "wikilink")』發行。
+  - 7月5日，第4張原創專輯『[沒有眼淚的小丑抬頭望着沒有太陽和月亮的天空](../Page/沒有眼淚的小丑抬頭望着沒有太陽和月亮的天空.md "wikilink")』發行。
   - 10月25日，第15張單曲《[BIG CITY
-    RODEO](https://zh.wikipedia.org/wiki/BIG_CITY_RODEO "wikilink")》發行。
+    RODEO](../Page/BIG_CITY_RODEO.md "wikilink")》發行。
 
 ### 2018年: 中巡、UNITED JOURNEY
 
@@ -120,7 +120,7 @@ zone，於2011年結成。
 | **現任成員**                                                  |
 | **成員**                                                    |
 | **[白濱亞嵐](../Page/白濱亞嵐.md "wikilink")**                    |
-| **[片寄涼太](https://zh.wikipedia.org/wiki/片寄涼太 "wikilink")** |
+| **[片寄涼太](../Page/片寄涼太.md "wikilink")**                    |
 | **[數原龍友](https://zh.wikipedia.org/wiki/數原龍友 "wikilink")** |
 | **[小森隼](https://zh.wikipedia.org/wiki/小森隼 "wikilink")**   |
 | **[佐野玲於](../Page/佐野玲於.md "wikilink")**                    |
@@ -140,26 +140,26 @@ zone，於2011年結成。
 
 ### 單曲
 
-|      | 發行日         | 單曲                                                                                            | 週間單曲榜 | 所屬原創專輯                                                                                  | 所屬精選專輯                                                                      |
-| ---- | ----------- | --------------------------------------------------------------------------------------------- | ----- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 1st  | 2012年11月21日 | [BRAVE IT OUT](../Page/BRAVE_IT_OUT.md "wikilink")                                            | 3     | [GENERATIONS](../Page/GENERATIONS_\(GENERATIONS專輯\).md "wikilink")                      | [BEST GENERATION](https://zh.wikipedia.org/wiki/BEST_GENERATION "wikilink") |
-| 2nd  | 2013年1月30日  | [ANIMAL](../Page/ANIMAL.md "wikilink")                                                        | 2     |                                                                                         |                                                                             |
-| 3rd  | 2013年5月15日  | [Love You More](../Page/Love_You_More.md "wikilink")                                          | 3     |                                                                                         |                                                                             |
-| 4th  | 2013年10月9日  | [HOT SHOT](../Page/HOT_SHOT.md "wikilink")                                                    | 2     |                                                                                         |                                                                             |
-| 5th  | 2014年4月23日  | [NEVER LET YOU GO](../Page/NEVER_LET_YOU_GO.md "wikilink")                                    | 2     | [GENERATIONS EX](../Page/GENERATIONS_EX.md "wikilink")                                  |                                                                             |
-| 6th  | 2014年9月3日   | [Always with you](../Page/Always_with_you.md "wikilink")                                      | 3     |                                                                                         |                                                                             |
-| 7th  | 2015年1月28日  | [Sing it Loud](../Page/Sing_it_Loud.md "wikilink")                                            | 3     |                                                                                         |                                                                             |
-| 8th  | 2015年5月13日  | [Evergreen](../Page/Evergreen_\(GENERATIONS單曲\).md "wikilink")                                | 2     | [SPEEDSTER](../Page/SPEEDSTER.md "wikilink")                                            |                                                                             |
-| 9th  | 2015年8月12日  | [Hard Knock Days](../Page/Hard_Knock_Days.md "wikilink")                                      | 2     |                                                                                         |                                                                             |
-| 10th | 2015年9月16日  | [ALL FOR YOU](../Page/ALL_FOR_YOU_\(GENERATIONS單曲\).md "wikilink")                            | 1     |                                                                                         |                                                                             |
-| 11th | 2016年1月27日  | [AGEHA](../Page/AGEHA_\(GENERATIONS單曲\).md "wikilink")                                        | 2     |                                                                                         |                                                                             |
-| 12th | 2016年6月29日  | [涙](https://zh.wikipedia.org/wiki/涙_\(GENERATIONS單曲\) "wikilink")                             | 1     | [沒有眼淚的小丑抬頭望着沒有太陽和月亮的天空](https://zh.wikipedia.org/wiki/沒有眼淚的小丑抬頭望着沒有太陽和月亮的天空 "wikilink") |                                                                             |
-| 13th | 2016年11月16日 | [PIERROT](https://zh.wikipedia.org/wiki/PIERROT_\(GENERATIONS單曲\) "wikilink")                 | 2     |                                                                                         |                                                                             |
-| 14th | 2017年4月12日  | [日月皆同](https://zh.wikipedia.org/wiki/日月皆同 "wikilink")                                         | 6     |                                                                                         |                                                                             |
-| 15th | 2017年10月25日 | [BIG CITY RODEO](https://zh.wikipedia.org/wiki/BIG_CITY_RODEO "wikilink")                     | 2     |                                                                                         |                                                                             |
-| 16th | 2018年6月13日  | [F.L.Y. BOYS F.L.Y. GIRLS](https://zh.wikipedia.org/wiki/F.L.Y._BOYS_F.L.Y._GIRLS "wikilink") | 2     |                                                                                         |                                                                             |
-| 17th | 2018年10月31日 | [少年](https://zh.wikipedia.org/wiki/少年 "wikilink")                                             | 2     |                                                                                         |                                                                             |
-|      |             |                                                                                               |       |                                                                                         |                                                                             |
+|      | 發行日         | 單曲                                                                                            | 週間單曲榜 | 所屬原創專輯                                                               | 所屬精選專輯                                                                      |
+| ---- | ----------- | --------------------------------------------------------------------------------------------- | ----- | -------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 1st  | 2012年11月21日 | [BRAVE IT OUT](../Page/BRAVE_IT_OUT.md "wikilink")                                            | 3     | [GENERATIONS](../Page/GENERATIONS_\(GENERATIONS專輯\).md "wikilink")   | [BEST GENERATION](https://zh.wikipedia.org/wiki/BEST_GENERATION "wikilink") |
+| 2nd  | 2013年1月30日  | [ANIMAL](../Page/ANIMAL.md "wikilink")                                                        | 2     |                                                                      |                                                                             |
+| 3rd  | 2013年5月15日  | [Love You More](../Page/Love_You_More.md "wikilink")                                          | 3     |                                                                      |                                                                             |
+| 4th  | 2013年10月9日  | [HOT SHOT](../Page/HOT_SHOT.md "wikilink")                                                    | 2     |                                                                      |                                                                             |
+| 5th  | 2014年4月23日  | [NEVER LET YOU GO](../Page/NEVER_LET_YOU_GO.md "wikilink")                                    | 2     | [GENERATIONS EX](../Page/GENERATIONS_EX.md "wikilink")               |                                                                             |
+| 6th  | 2014年9月3日   | [Always with you](../Page/Always_with_you.md "wikilink")                                      | 3     |                                                                      |                                                                             |
+| 7th  | 2015年1月28日  | [Sing it Loud](../Page/Sing_it_Loud.md "wikilink")                                            | 3     |                                                                      |                                                                             |
+| 8th  | 2015年5月13日  | [Evergreen](../Page/Evergreen_\(GENERATIONS單曲\).md "wikilink")                                | 2     | [SPEEDSTER](../Page/SPEEDSTER.md "wikilink")                         |                                                                             |
+| 9th  | 2015年8月12日  | [Hard Knock Days](../Page/Hard_Knock_Days.md "wikilink")                                      | 2     |                                                                      |                                                                             |
+| 10th | 2015年9月16日  | [ALL FOR YOU](../Page/ALL_FOR_YOU_\(GENERATIONS單曲\).md "wikilink")                            | 1     |                                                                      |                                                                             |
+| 11th | 2016年1月27日  | [AGEHA](../Page/AGEHA_\(GENERATIONS單曲\).md "wikilink")                                        | 2     |                                                                      |                                                                             |
+| 12th | 2016年6月29日  | [涙](https://zh.wikipedia.org/wiki/涙_\(GENERATIONS單曲\) "wikilink")                             | 1     | [沒有眼淚的小丑抬頭望着沒有太陽和月亮的天空](../Page/沒有眼淚的小丑抬頭望着沒有太陽和月亮的天空.md "wikilink") |                                                                             |
+| 13th | 2016年11月16日 | [PIERROT](../Page/PIERROT_\(GENERATIONS單曲\).md "wikilink")                                    | 2     |                                                                      |                                                                             |
+| 14th | 2017年4月12日  | [日月皆同](../Page/日月皆同.md "wikilink")                                                            | 6     |                                                                      |                                                                             |
+| 15th | 2017年10月25日 | [BIG CITY RODEO](../Page/BIG_CITY_RODEO.md "wikilink")                                        | 2     |                                                                      |                                                                             |
+| 16th | 2018年6月13日  | [F.L.Y. BOYS F.L.Y. GIRLS](https://zh.wikipedia.org/wiki/F.L.Y._BOYS_F.L.Y._GIRLS "wikilink") | 2     |                                                                      |                                                                             |
+| 17th | 2018年10月31日 | [少年](https://zh.wikipedia.org/wiki/少年 "wikilink")                                             | 2     |                                                                      |                                                                             |
+|      |             |                                                                                               |       |                                                                      |                                                                             |
 
 ### 數位單曲
 
@@ -202,7 +202,7 @@ zone，於2011年結成。
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2017年7月5日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/沒有眼淚的小丑抬頭望着沒有太陽和月亮的天空" title="wikilink">沒有眼淚的小丑抬頭望着沒有太陽和月亮的天空</a></strong><br />
+<td><p><strong><a href="../Page/沒有眼淚的小丑抬頭望着沒有太陽和月亮的天空.md" title="wikilink">沒有眼淚的小丑抬頭望着沒有太陽和月亮的天空</a></strong><br />
 </p></td>
 <td><p>2</p></td>
 </tr>

@@ -309,7 +309,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
     Epitone Project；發行日期：2013年9月17日）
   - [昶旻](../Page/李昶旻.md "wikilink")《Moment》（《[繼承者們](../Page/繼承者們.md "wikilink")》OST；發行日期：2013年10月24日）
   - [昶旻](../Page/李昶旻.md "wikilink")、[珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")《愛你這句話》（《[Hotel
-    King](https://zh.wikipedia.org/wiki/Hotel_King "wikilink")》OST；發行日期：2014年5月8日）
+    King](../Page/Hotel_King.md "wikilink")》OST；發行日期：2014年5月8日）
   - [趙權](../Page/趙權.md "wikilink")、[Fei](../Page/王霏霏.md "wikilink")《One
     Summer
     Night》（《[誘惑](https://zh.wikipedia.org/wiki/誘惑 "wikilink")》OST；發行日期：2014年7月29日）
@@ -693,7 +693,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>2013年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/One_Spring_Day" title="wikilink">One Spring Day</a></p></td>
+<td><p><a href="../Page/One_Spring_Day.md" title="wikilink">One Spring Day</a></p></td>
 </tr>
 <tr class="even">
 <td><p>One Spring Day</p></td>

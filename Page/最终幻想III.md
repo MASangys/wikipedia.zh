@@ -211,7 +211,7 @@ Color上重制：
 [Hiromichi_Tanaka_and_Tomoya_Asano.jpg](https://zh.wikipedia.org/wiki/File:Hiromichi_Tanaka_and_Tomoya_Asano.jpg "fig:Hiromichi_Tanaka_and_Tomoya_Asano.jpg")
 
 在WonderSwan
-Color版重制失败，以及2003年史克威尔与前竞争对手[艾尼克斯合并为史克威尔艾尼克斯后](../Page/艾尼克斯.md "wikilink")，公司宣称游戏不会被完全遗忘，并曾考虑像前作那样，在[索尼电脑娱乐的](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[PlayStation或任天堂的](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[Game
+Color版重制失败，以及2003年史克威尔与前竞争对手[艾尼克斯合并为史克威尔艾尼克斯后](../Page/艾尼克斯.md "wikilink")，公司宣称游戏不会被完全遗忘，并曾考虑像前作那样，在[索尼电脑娱乐的](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[PlayStation或任天堂的](../Page/PlayStation.md "wikilink")[Game
 Boy
 Advance上重制](../Page/Game_Boy_Advance.md "wikilink")\[21\]。史克威尔艾尼克斯也考虑在[PlayStation
 2上重制](../Page/PlayStation_2.md "wikilink")，但最终接受任天堂将本作开发于其新掌机平台[任天堂DS的要求](../Page/任天堂DS.md "wikilink")，这一决定后来推动增强了[任天堂DS的商业成功](../Page/任天堂DS.md "wikilink")\[22\]。《最终幻想III》重制的消息最早于2004年10月24日公布，但一年来都没有详细消息。项目由担任执行制作人兼总监的田中弘道领导。不同於單純更新圖像的《最終幻想》與《最終幻想II》重製版，這次重製完全使用了任天堂DS的[3D功能](../Page/三维计算机图形.md "wikilink")，因而需要他來指導與監督。除了3D圖形外，遊戲類似於2D
@@ -220,7 +220,7 @@ Software開發](../Page/Matrix_Software.md "wikilink")\[23\]。
 
 [Final_Fantasy_III_Nintendo_DS_Japanese.jpg](https://zh.wikipedia.org/wiki/File:Final_Fantasy_III_Nintendo_DS_Japanese.jpg "fig:Final_Fantasy_III_Nintendo_DS_Japanese.jpg")
 重制版由浅野智也制作，史克威尔艾尼克斯和Matrix
-Software合作开发。相场良佑担任[艺术监制](https://zh.wikipedia.org/wiki/艺术监制 "wikilink")，[吉田明彦为](https://zh.wikipedia.org/wiki/吉田明彦 "wikilink")3D画面重新设计原版角色，并设计了新玩家角色\[24\]。原来的普通无名的玩家角色换为了更具体的角色，并为其设计了新个性与背景故事，同时为其个性发展加入了新增事件；但是故事主线情节没有明显变化\[25\]。除了四名主角，其它角色也会像原作般加入队伍。但和前作不同，这些角色可能会在战斗中随机参战\[26\]。
+Software合作开发。相场良佑担任[艺术监制](https://zh.wikipedia.org/wiki/艺术监制 "wikilink")，[吉田明彦为](../Page/吉田明彦.md "wikilink")3D画面重新设计原版角色，并设计了新玩家角色\[24\]。原来的普通无名的玩家角色换为了更具体的角色，并为其设计了新个性与背景故事，同时为其个性发展加入了新增事件；但是故事主线情节没有明显变化\[25\]。除了四名主角，其它角色也会像原作般加入队伍。但和前作不同，这些角色可能会在战斗中随机参战\[26\]。
 
 重制版使用了调整平衡的新设计职业系统，将原来游戏开始的默认职业“洋葱剑士”改为了“自由人”，洋葱剑士改为了隐藏职业。此外游戏加入了新事件，一个新水晶和迷宫，并取消了能量点。和原版游戏不同，大部分的职业仍然对整个游戏有用。终极职业忍者和贤者，以及风水师等较少使用的职业被重新设计，使其像战士那样有相同的能力水平。游戏另外加入了一些职业专用特殊道具，当角色完全掌握了特定职业才能使用。作为能量点的替代，每个角色转职后都会受到临时限制，即几场战斗中内降低角色的能力值。这段时间称为“职业过渡阶段”，时长取决于新旧职业的相似度，以及角色对新职业的精通程度，限制战斗场数为0至10之间\[27\]。
 

@@ -6,7 +6,7 @@ Aggie是一隻母的拉不拉多犬。出生後，被選中為導盲犬。1995�
 
 當時由於柯明期每次帶Aggie出入[公共場所時常遭拒](https://zh.wikipedia.org/wiki/公共場所 "wikilink")，他便向政府有關單位申請，促使[台灣立法院於](https://zh.wikipedia.org/wiki/台灣立法院 "wikilink")2004年6月修正通過[身心障礙者保護法](https://zh.wikipedia.org/wiki/身心障礙者 "wikilink")，規定導盲犬可自由出入公共場所及搭乘交通工具\[4\]\[5\]。
 
-2003年，因[髖關節退化](https://zh.wikipedia.org/wiki/髖關節 "wikilink")，自導盲犬除役，由收養家庭接收撫養。2011年1月，因年老，併發[多重器官衰竭而過世](https://zh.wikipedia.org/wiki/多重器官衰竭 "wikilink")，享壽16歲\[6\]\[7\]。[惠光導盲犬教育基金會特為牠舉辦了告別追思會](https://zh.wikipedia.org/wiki/惠光導盲犬教育基金會 "wikilink")\[8\]。
+2003年，因[髖關節退化](https://zh.wikipedia.org/wiki/髖關節 "wikilink")，自導盲犬除役，由收養家庭接收撫養。2011年1月，因年老，併發[多重器官衰竭而過世](https://zh.wikipedia.org/wiki/多重器官衰竭 "wikilink")，享壽16歲\[6\]\[7\]。[惠光導盲犬教育基金會特為牠舉辦了告別追思會](../Page/惠光導盲犬教育基金會.md "wikilink")\[8\]。
 
 ## 參考資料
 

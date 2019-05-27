@@ -1,4 +1,4 @@
-**泉田IC**（平假名：いずみたインターチェンジ）是位於[山形縣](https://zh.wikipedia.org/wiki/山形縣 "wikilink")[新-{庄}-市的](https://zh.wikipedia.org/wiki/新庄市 "wikilink")[東北中央自動車道](https://zh.wikipedia.org/wiki/東北中央自動車道 "wikilink")（[泉田道路](https://zh.wikipedia.org/wiki/泉田道路 "wikilink")）之[交流道](../Page/交流道.md "wikilink")。現時還未啟用。
+**泉田IC**（平假名：いずみたインターチェンジ）是位於[山形縣](https://zh.wikipedia.org/wiki/山形縣 "wikilink")[新-{庄}-市的](https://zh.wikipedia.org/wiki/新庄市 "wikilink")[東北中央自動車道](../Page/東北中央自動車道.md "wikilink")（[泉田道路](https://zh.wikipedia.org/wiki/泉田道路 "wikilink")）之[交流道](../Page/交流道.md "wikilink")。現時還未啟用。
 
 ## 連接道路
 
@@ -16,10 +16,10 @@
 
 ## 鄰近設施
 
-  - [東北中央自動車道](https://zh.wikipedia.org/wiki/東北中央自動車道 "wikilink")（[泉田道路](https://zh.wikipedia.org/wiki/泉田道路 "wikilink")）
+  - [東北中央自動車道](../Page/東北中央自動車道.md "wikilink")（[泉田道路](https://zh.wikipedia.org/wiki/泉田道路 "wikilink")）
     [新-{庄}-北IC](https://zh.wikipedia.org/wiki/新庄北IC "wikilink") -
     **泉田IC**（建設中）
-  - [東北中央自動車道](https://zh.wikipedia.org/wiki/東北中央自動車道 "wikilink")
+  - [東北中央自動車道](../Page/東北中央自動車道.md "wikilink")
     **泉田IC**（建設中） -
     [金山IC](https://zh.wikipedia.org/wiki/金山IC "wikilink")
 

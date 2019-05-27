@@ -45,7 +45,7 @@ Fun千奇百趣》分別於2010年10月2日[香港時間晚上](../Page/香港�
 7月20日</p></td>
 <td><p><a href="../Page/鄧梓峰.md" title="wikilink">鄧梓峰</a>、<a href="https://zh.wikipedia.org/wiki/林穎彤_(藝人)" title="wikilink">林穎彤</a><br />
 <a href="../Page/宋熙年.md" title="wikilink">宋熙年</a>、<a href="https://zh.wikipedia.org/wiki/龔嘉欣" title="wikilink">龔嘉欣</a><br />
-<a href="https://zh.wikipedia.org/wiki/彭懷安" title="wikilink">彭懷安</a>、<a href="../Page/王志安.md" title="wikilink">王志安</a></p></td>
+<a href="../Page/彭懷安.md" title="wikilink">彭懷安</a>、<a href="../Page/王志安.md" title="wikilink">王志安</a></p></td>
 <td><p>兔子跳<br />
 所有嘉賓</p></td>
 <td><p>槍林彈雨<br />
@@ -213,7 +213,7 @@ Fun千奇百趣》分別於2010年10月2日[香港時間晚上](../Page/香港�
 <td><p>8月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/高皓正" title="wikilink">高皓正</a>、<a href="../Page/吳若希.md" title="wikilink">吳若希</a><br />
 <a href="../Page/周國賢.md" title="wikilink">周國賢</a>、<a href="../Page/胡琳.md" title="wikilink">胡　琳</a><br />
-<a href="https://zh.wikipedia.org/wiki/易智遠" title="wikilink">易智遠</a>（啜啜）、<a href="../Page/王若琪.md" title="wikilink">王若琪</a></p></td>
+<a href="../Page/易智遠.md" title="wikilink">易智遠</a>（啜啜）、<a href="../Page/王若琪.md" title="wikilink">王若琪</a></p></td>
 <td><p>－[2]</p></td>
 <td><p>浪漫啜啜凳（戶外版）<br />
 <a href="https://zh.wikipedia.org/wiki/高皓正" title="wikilink">高皓正</a></p></td>
@@ -293,11 +293,9 @@ Fun千奇百趣》分別於2010年10月2日[香港時間晚上](../Page/香港�
   - 《[千奇百趣省港澳](../Page/千奇百趣省港澳.md "wikilink")》
   - 《[千奇百趣高B班](../Page/千奇百趣高B班.md "wikilink")》
   - 《[千奇百趣東南亞](../Page/千奇百趣東南亞.md "wikilink")》
-  - 《[千奇百趣玩FREE
-    D](https://zh.wikipedia.org/wiki/千奇百趣玩FREE_D "wikilink")》
-  - 《[千奇百趣玩HIGH
-    D](https://zh.wikipedia.org/wiki/千奇百趣玩HIGH_D "wikilink")》
-  - 《[千奇百趣特工隊](https://zh.wikipedia.org/wiki/千奇百趣特工隊 "wikilink")》
+  - 《[千奇百趣玩FREE D](../Page/千奇百趣玩FREE_D.md "wikilink")》
+  - 《[千奇百趣玩HIGH D](../Page/千奇百趣玩HIGH_D.md "wikilink")》
+  - 《[千奇百趣特工隊](../Page/千奇百趣特工隊.md "wikilink")》
 
 ## 記事
 

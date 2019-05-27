@@ -1198,7 +1198,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <!-- end list -->
 
   -
-    **Uva（）**（[山田悠介飾](https://zh.wikipedia.org/wiki/山田悠介 "wikilink")／香港配音:[周良鴻](../Page/周良鴻.md "wikilink")）
+    **Uva（）**（[山田悠介飾](../Page/山田悠介.md "wikilink")／香港配音:[周良鴻](../Page/周良鴻.md "wikilink")）
     昆蟲系幹部。下半身不完全，代表色是綠色，能創造蟲蛹型的Yummy。
     在復活時，身上持有七枚核心硬幣。
     名字的含義是「掠奪」。
@@ -1253,7 +1253,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <!-- end list -->
 
   -
-    **Gamel（）**（[松本博之飾](https://zh.wikipedia.org/wiki/松本博之 "wikilink")/台灣配音:[李勇](../Page/李勇_\(配音員\).md "wikilink")／香港配音:[林筠翔](https://zh.wikipedia.org/wiki/林筠翔 "wikilink")）
+    **Gamel（）**（[松本博之飾](https://zh.wikipedia.org/wiki/松本博之 "wikilink")/台灣配音:[李勇](../Page/李勇_\(配音員\).md "wikilink")／香港配音:[林筠翔](../Page/林筠翔.md "wikilink")）
     重力系幹部。上半身不完全，代表色是銀色，幾乎以自己的慾望創造Yummy。本身能創造超成長型的Yummy，劇中未使用，在其核心硬幣被Kazari奪走後而被使用。
     在首次復活時，身上持有七枚核心硬幣。
     名字的含義是「竊取」。
@@ -2401,7 +2401,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
   - 「[假面騎士×假面騎士 Wizard & Fourze
     Movie大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")」
   - 《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》（2017年12月9日上映）
+    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
 
 ## 樂曲
 
@@ -2508,7 +2508,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 
 1.  假面騎士OOO第48集片尾曾經顯示過假面騎士Fourze中的角色與Fourze所用的Switch，之後於2017年上映的《[假面騎士平成Generations
     FINAL Build & EX-AID with
-    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀。
+    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀。
 
 2.  幹巧的怪人形態在故事开始前本来就有，且才专属劇場版時被公布出来；而劍崎則是为了避免世界被毁灭而自愿变化的
 

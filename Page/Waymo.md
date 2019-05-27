@@ -8,7 +8,7 @@ Waymo剛開始是Google於2009年4月開啟的一項自動駕駛汽車計划\[1\
 
 ## 历史
 
-项目由[Google街景的共同发明人](https://zh.wikipedia.org/wiki/Google街景 "wikilink")[塞巴斯蒂安·特龙](https://zh.wikipedia.org/wiki/塞巴斯蒂安·特龙 "wikilink")（Sebastian
+项目由[Google街景的共同发明人](https://zh.wikipedia.org/wiki/Google街景 "wikilink")[塞巴斯蒂安·特龙](../Page/塞巴斯蒂安·特龙.md "wikilink")（Sebastian
 Thrun）领导\[3\]。谷歌的工程人员使用7辆试验车，其中6辆是[丰田普锐斯](https://zh.wikipedia.org/wiki/丰田普锐斯 "wikilink")，一辆是[奥迪TT](../Page/奥迪TT.md "wikilink")\[4\]。这些车在[加州几条道路上测试](https://zh.wikipedia.org/wiki/加州 "wikilink")，其中包括旧金山湾区的[九曲花街](../Page/倫巴底街_\(三藩市\).md "wikilink")。这些车辆使用照相机、雷达感应器和激光测距机来[“看”其他的交通状况](https://zh.wikipedia.org/wiki/計算機視覺 "wikilink")，并且使用详细地图来为前方的道路导航。谷歌说，这些车辆比有人驾驶的车更安全，因为它们能更迅速、更有效地作出反应。然而，在所有的测试中，都有人坐在駕駛座上於必要時可以随时控制车辆。\[5\]
 
 2012年4月1日，Google展示了他们的使用自动驾驶技术的赛车，命名为10^100（十的一百次方，也就是["Googol"](../Page/古戈爾.md "wikilink")，"Google"这个单词的词源）

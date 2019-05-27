@@ -105,7 +105,7 @@
 於第29集返港</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃莎莉" title="wikilink">黃莎莉</a></p></td>
+<td><p><a href="../Page/黃莎莉.md" title="wikilink">黃莎莉</a></p></td>
 <td><p>鄭碧華</p></td>
 <td><p>華姐</p></td>
 </tr>

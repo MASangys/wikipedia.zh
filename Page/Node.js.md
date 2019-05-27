@@ -143,7 +143,7 @@ Node.js将其注册到操作系统中，这样可以及时注意到新连接的�
 
   - [Koding](https://zh.wikipedia.org/wiki/Koding "wikilink")
   - [Codenvy IDE](https://zh.wikipedia.org/wiki/Codenvy "wikilink")
-  - [Cloud9 IDE](https://zh.wikipedia.org/wiki/Cloud9_IDE "wikilink")
+  - [Cloud9 IDE](../Page/Cloud9_IDE.md "wikilink")
   - [Codiad](http://codiad.com/)
 
 <!-- end list -->
@@ -194,7 +194,7 @@ SpiderMonkey在[iOS设备上运行Node应用程序](https://zh.wikipedia.org/wik
   - [Perl](../Page/Perl.md "wikilink")：[Perl Object
     Environment](https://zh.wikipedia.org/wiki/Perl_Object_Environment "wikilink")
   - [C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")：[libevent](https://zh.wikipedia.org/wiki/libevent "wikilink")
-  - Java、JavaScript、[Groovy](https://zh.wikipedia.org/wiki/Groovy_\(programming_language\) "wikilink")、Python、Scala、Clojure、Ruby、[Ceylon等](https://zh.wikipedia.org/wiki/Ceylon_\(programming_language\) "wikilink")：[Vert.x](https://zh.wikipedia.org/wiki/Vert.x "wikilink")
+  - Java、JavaScript、[Groovy](https://zh.wikipedia.org/wiki/Groovy_\(programming_language\) "wikilink")、Python、Scala、Clojure、Ruby、[Ceylon等](https://zh.wikipedia.org/wiki/Ceylon_\(programming_language\) "wikilink")：[Vert.x](../Page/Vert.x.md "wikilink")
   - Java和Scala：[Akka](https://zh.wikipedia.org/wiki/Akka "wikilink")
   - Ruby：[EventMachine](https://zh.wikipedia.org/wiki/EventMachine "wikilink")
   - [D语言](https://zh.wikipedia.org/wiki/D语言 "wikilink")：[vibe.d](https://zh.wikipedia.org/wiki/vibe.d "wikilink")

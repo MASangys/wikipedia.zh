@@ -16,8 +16,7 @@ ONE～/MOVE使用](https://zh.wikipedia.org/wiki/看不見的力量_～INVISIBLE
 
 到單曲[Real Thing
 Shakes之後刪除名義一直使用至今](../Page/Real_Thing_Shakes.md "wikilink")（1999年至2003年除外，但包括2000年發行的[B'z
-The
-"Mixture"精選輯](https://zh.wikipedia.org/wiki/B'z_The_"Mixture" "wikilink")）。
+The "Mixture"精選輯](../Page/B'z_The_"Mixture".md "wikilink")）。
 
 最終銷量約186.2萬張，為日本最暢銷單曲第30名。
 

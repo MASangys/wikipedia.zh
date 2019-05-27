@@ -11,7 +11,7 @@ Stratocaster吉他\]\]
 ## 歷史
 
 在1950年，第一種實心電吉他型號[Fender
-Telecaster以及第一種電貝斯型號](https://zh.wikipedia.org/wiki/Fender_Telecaster "wikilink")[Fender
+Telecaster以及第一種電貝斯型號](../Page/Fender_Telecaster.md "wikilink")[Fender
 Precision
 Bass在市場上取得了成功之後](https://zh.wikipedia.org/wiki/Fender_Precision_Bass "wikilink")，Fender公司的創始人[李奧·芬達在](https://zh.wikipedia.org/wiki/利奥·芬达 "wikilink")1952年開始了新的吉他型號的開發工作，及後在1954年生產了Stratocaster。
 

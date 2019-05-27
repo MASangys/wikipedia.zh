@@ -2,7 +2,7 @@
 
 ## 特色
 
-MK酒店位於[港鐵](../Page/港鐵.md "wikilink")[油麻地站與](../Page/油麻地站.md "wikilink")[旺角站之間](../Page/旺角站.md "wikilink")。附近有不少[旅遊](https://zh.wikipedia.org/wiki/旅遊 "wikilink")[消費](https://zh.wikipedia.org/wiki/消費 "wikilink")[娛樂場所](https://zh.wikipedia.org/wiki/娛樂 "wikilink")，例如[女人街](../Page/女人街.md "wikilink")、[波鞋街及](../Page/波鞋街.md "wikilink")[廟街等](../Page/廟街_\(香港\).md "wikilink")，[食肆林立](https://zh.wikipedia.org/wiki/食肆 "wikilink")。酒店地方袖珍，有108間標準客房。
+MK酒店位於[港鐵](../Page/港鐵.md "wikilink")[油麻地站與](../Page/油麻地站.md "wikilink")[旺角站之間](../Page/旺角站.md "wikilink")。附近有不少[旅遊](https://zh.wikipedia.org/wiki/旅遊 "wikilink")[消費](https://zh.wikipedia.org/wiki/消費 "wikilink")[娛樂場所](../Page/娛樂.md "wikilink")，例如[女人街](../Page/女人街.md "wikilink")、[波鞋街及](../Page/波鞋街.md "wikilink")[廟街等](../Page/廟街_\(香港\).md "wikilink")，[食肆林立](https://zh.wikipedia.org/wiki/食肆 "wikilink")。酒店地方袖珍，有108間標準客房。
 
 ## MK酒店前身及歷史
 

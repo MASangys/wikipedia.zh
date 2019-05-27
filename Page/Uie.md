@@ -1,6 +1,6 @@
 **金幽珍**\[1\]（韓文：，），藝名**U-IE**（韓文：**유이**），為[韓國女團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[After
 School的第二期成員](../Page/After_School.md "wikilink")\[2\]，2017年5月31日宣布從[After
-School畢業](../Page/After_School.md "wikilink")，而後轉至[Yuleum娛樂](https://zh.wikipedia.org/wiki/Yuleum娛樂 "wikilink")\[3\]。高中时是仁川體校的游泳特長生，擅長混合泳。父親金性甲是[韓國職棒](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")[SK飛龍的教練](../Page/SK飛龍.md "wikilink")。
+School畢業](../Page/After_School.md "wikilink")，而後轉至[Yuleum娛樂](../Page/Yuleum娛樂.md "wikilink")\[3\]。高中时是仁川體校的游泳特長生，擅長混合泳。父親金性甲是[韓國職棒](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")[SK飛龍的教練](../Page/SK飛龍.md "wikilink")。
 
 ## 個人經歷
 
@@ -19,7 +19,7 @@ School畢業](../Page/After_School.md "wikilink")，而後轉至[Yuleum娛樂](h
   - 2015年2月，參演[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[豪苟的愛](../Page/豪苟的愛.md "wikilink")》男主角的初戀游泳女神都壽曦
     ，卻因意外懷孕而再跟男主角重逢後發生的一系列複雜搞笑羅曼史。6月U-IE再度參與[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[上流社會](../Page/上流社會_\(電視劇\).md "wikilink")》的演出，飾演一位隱藏自己的身分的女人尋找一位即使自己不是財閥女兒、也願意愛自己的男人的故事。
   - 2016年3月，參演MBC週末特別計劃劇《[結婚契約](../Page/結婚契約.md "wikilink")》，與[李瑞鎮主演](../Page/李瑞鎮.md "wikilink")。
-  - 2016年11月，出演MBC新月火劇《[不夜城](https://zh.wikipedia.org/wiki/不夜城_\(電視劇\) "wikilink")》扮演渴望擺脫土湯匙的欲望女李世珍。
+  - 2016年11月，出演MBC新月火劇《[不夜城](../Page/不夜城_\(電視劇\).md "wikilink")》扮演渴望擺脫土湯匙的欲望女李世珍。
 
 ### 個人封號
 
@@ -77,7 +77,7 @@ School畢業](../Page/After_School.md "wikilink")，而後轉至[Yuleum娛樂](h
     Girls的](../Page/Wonder_Girls.md "wikilink")[昭熙](../Page/安昭熙.md "wikilink")、[After
     School的](../Page/After_School.md "wikilink")**U-IE**和[Brown Eyed
     Girls的](../Page/Brown_Eyed_Girls.md "wikilink")[佳人](https://zh.wikipedia.org/wiki/孫佳人 "wikilink")。”对此朴秀宏笑言“愚直的崔将军也是男人啊”。
-  - NO.14 [帝國之子ZE:A](https://zh.wikipedia.org/wiki/ZE:A "wikilink")
+  - NO.14 [帝國之子ZE:A](../Page/ZE:A.md "wikilink")
     [黃光熙](../Page/黃光熙.md "wikilink")：在《[我们结婚了](https://zh.wikipedia.org/wiki/我们结婚了 "wikilink")》中多次表达对**U-IE**的爱慕（还引起了假想夫妇[善伙的不满](https://zh.wikipedia.org/wiki/韩善伙 "wikilink"))。另外，光熙出演[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Section
     TV演艺通讯](https://zh.wikipedia.org/wiki/Section_TV演艺通讯 "wikilink")》时，曾告白"如果能换老婆的话，希望能换成性感的**U-IE**。
 
@@ -85,24 +85,24 @@ School畢業](../Page/After_School.md "wikilink")，而後轉至[Yuleum娛樂](h
 
 ### 電視劇
 
-| 電視劇演出列表                                                     |
-| ----------------------------------------------------------- |
-| 年份                                                          |
-| 2009年                                                       |
-| [SBS](../Page/SBS_\(韓國\).md "wikilink")                     |
-| 2010年                                                       |
-| 2011年                                                       |
-| [KBS](../Page/韓國放送公社.md "wikilink")                         |
-| MBC                                                         |
-| 2012年                                                       |
-| 2013年                                                       |
-| 2015年                                                       |
-| SBS                                                         |
-| 2016年                                                       |
-| [不夜城](https://zh.wikipedia.org/wiki/不夜城_\(電視劇\) "wikilink") |
-| 2017年                                                       |
-| 2018年                                                       |
-| KBS                                                         |
+| 電視劇演出列表                                  |
+| ---------------------------------------- |
+| 年份                                       |
+| 2009年                                    |
+| [SBS](../Page/SBS_\(韓國\).md "wikilink")  |
+| 2010年                                    |
+| 2011年                                    |
+| [KBS](../Page/韓國放送公社.md "wikilink")      |
+| MBC                                      |
+| 2012年                                    |
+| 2013年                                    |
+| 2015年                                    |
+| SBS                                      |
+| 2016年                                    |
+| [不夜城](../Page/不夜城_\(電視劇\).md "wikilink") |
+| 2017年                                    |
+| 2018年                                    |
+| KBS                                      |
 
 ### 綜藝節目
 

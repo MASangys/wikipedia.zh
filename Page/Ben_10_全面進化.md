@@ -3375,7 +3375,7 @@ Wyatt\[2\]設計並且於2012年英國玩具展公佈。\[3\]該系列預定於2
   - [Ben 10](https://zh.wikipedia.org/wiki/Ben_10 "wikilink")（最早的系列）
   - [Ben 10 外星英雄](../Page/Ben_10_外星英雄.md "wikilink")
   - [Ben 10 終極英雄](../Page/Ben_10_終極英雄.md "wikilink")
-  - [Ben 10 再顯神威](https://zh.wikipedia.org/wiki/Ben_10_再顯神威 "wikilink")
+  - [Ben 10 再顯神威](../Page/Ben_10_再顯神威.md "wikilink")
 
 ## 相關連結
 

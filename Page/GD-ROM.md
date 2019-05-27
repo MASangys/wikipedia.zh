@@ -3,10 +3,10 @@ memory](https://zh.wikipedia.org/wiki/只读存储器 "wikilink")”的简称）
 
 ## 光碟结构
 
-GD-ROM盘片上有三个数据区域。第一个区域是按照CD格式储存的，通常由一个包含随意或幽默的警告信息的音轨构成，以提醒使用者这张盘片是在Dreamcast上使用的，而非普通CD播放机的。这段声音常常来自游戏角色，如游戏[永恒的阿卡迪亚中的信息为](https://zh.wikipedia.org/wiki/永恒的阿卡迪亚 "wikilink")“我们不能在CD播放器中拯救世界！请把我们放回Dreamcast以让我们去做我们该做的！
+GD-ROM盘片上有三个数据区域。第一个区域是按照CD格式储存的，通常由一个包含随意或幽默的警告信息的音轨构成，以提醒使用者这张盘片是在Dreamcast上使用的，而非普通CD播放机的。这段声音常常来自游戏角色，如游戏[永恒的阿卡迪亚中的信息为](../Page/永恒的阿卡迪亚.md "wikilink")“我们不能在CD播放器中拯救世界！请把我们放回Dreamcast以让我们去做我们该做的！
 (We can't save the world from a CD player\! Put us back in the Dreamcast
 so we can do our
-job\!)”。这一CD数据区域同时也包含数据部分，使其可以在电脑上被读取。大部分GD-ROM碟片的这个区域只包含了一些文本文件，如游戏标识、版权信息及分类信息等。也有部分游戏为电脑用户准备了额外的资料，如游戏[索尼克大冒险中包含了索尼克的人物图片](https://zh.wikipedia.org/wiki/索尼克大冒险 "wikilink")。
+job\!)”。这一CD数据区域同时也包含数据部分，使其可以在电脑上被读取。大部分GD-ROM碟片的这个区域只包含了一些文本文件，如游戏标识、版权信息及分类信息等。也有部分游戏为电脑用户准备了额外的资料，如游戏[索尼克大冒险中包含了索尼克的人物图片](../Page/索尼克大冒险.md "wikilink")。
 
 接着是一个分割用的部分，除了“Produced by or under license from Sega Enterprises LTD
 Trademark Sega”这段文字之外，没有任何数据。而这段区域曾经被认为可能像[SEGA

@@ -37,8 +37,8 @@ e通卡系统曾于2005年获得厦门市科技进步二等奖\[10\]。
 
 曾经在2015年开放给部分终端（和移动合作），后在2018-19年重新上线手机e通卡
 
-  - [华为](https://zh.wikipedia.org/wiki/华为支付 "wikilink")
-  - [小米](https://zh.wikipedia.org/wiki/小米支付 "wikilink")
+  - [华为](../Page/华为支付.md "wikilink")
+  - [小米](../Page/小米支付.md "wikilink")
   - OPPO
   - VIVO
 
@@ -50,7 +50,7 @@ e通卡系统曾于2005年获得厦门市科技进步二等奖\[10\]。
 
 在租用型普通卡的基础上额外征收了35元的升级费用
 
-关于该卡支持的城市请参照[全国交通一卡通互联互通](https://zh.wikipedia.org/wiki/全国交通一卡通互联互通 "wikilink")
+关于该卡支持的城市请参照[全国交通一卡通互联互通](../Page/全国交通一卡通互联互通.md "wikilink")
 
 ## 使用范围
 

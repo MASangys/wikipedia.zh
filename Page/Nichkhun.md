@@ -14,9 +14,9 @@ Entertainment\&Media）公司，最后选择進入JYP娛樂旗下當练习生。
   - 2013年出演中韩合资的电视剧《一又二分之一的夏天》将在东方卫视播 出 。2014年6月确认出演电视剧《许愿清单》 。
   - 2014年1月4日，參演電影《[金田一少年事件簿狱门塾杀人事件](https://zh.wikipedia.org/wiki/金田一少年事件簿狱门塾杀人事件 "wikilink")》，飾演馬太知一角。
   - 2015年客串[何炅執導的電影](../Page/何炅.md "wikilink")《[梔子花開](https://zh.wikipedia.org/wiki/梔子花開 "wikilink")》。
-  - 2017年主演JTBC網劇《[魔術學校](https://zh.wikipedia.org/wiki/魔術學校 "wikilink")》在劇中飾演一名醫生。
+  - 2017年主演JTBC網劇《[魔術學校](../Page/魔術學校.md "wikilink")》在劇中飾演一名醫生。
   - 2018年5月10日,主演電影《Brother of the
-    Year/[把哥哥退貨可以嗎](https://zh.wikipedia.org/wiki/把哥哥退貨可以嗎 "wikilink")》上映，12月19日，在日本發行出道以來首張solo迷你專輯《ME》并在日本展開solo巡演活動。
+    Year/[把哥哥退貨可以嗎](../Page/把哥哥退貨可以嗎.md "wikilink")》上映，12月19日，在日本發行出道以來首張solo迷你專輯《ME》并在日本展開solo巡演活動。
   - 2019年2月18日，發行韓語迷你專輯《ME》。
 
 ## 影視作品
@@ -31,9 +31,7 @@ Entertainment\&Media）公司，最后选择進入JYP娛樂旗下當练习生。
   - 2011年 [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Dream
     High](https://zh.wikipedia.org/wiki/Dream_High "wikilink")》客串
     廣告中的羅密歐
-  - 2011年
-    [SBS](https://zh.wikipedia.org/wiki/SBS_TV "wikilink")《[Welcome to
-    the
+  - 2011年 [SBS](../Page/SBS_TV.md "wikilink")《[Welcome to the
     SHOW](https://zh.wikipedia.org/wiki/Welcome_to_the_SHOW "wikilink")》
   - 2011年 [富士電視台](../Page/富士電視台.md "wikilink")《[BOSS
     2](../Page/BOSS_\(電視劇\).md "wikilink")》客串第6集
@@ -46,10 +44,9 @@ Entertainment\&Media）公司，最后选择進入JYP娛樂旗下當练习生。
   - 2015年
     [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[製作人](../Page/製作人_\(韓國電視劇\).md "wikilink")》
     飾演 JYP的藝人
-  - 2015年 中國大陆《[尋找北極光](https://zh.wikipedia.org/wiki/尋找北極光 "wikilink")》
-    飾演 王義霖
+  - 2015年 中國大陆《[尋找北極光](../Page/尋找北極光.md "wikilink")》 飾演 王義霖
   - 2017年
-    [JTBC](../Page/JTBC.md "wikilink")《[魔術學校](https://zh.wikipedia.org/wiki/魔術學校 "wikilink")》
+    [JTBC](../Page/JTBC.md "wikilink")《[魔術學校](../Page/魔術學校.md "wikilink")》
     飾演 俊
   - 2018年
     [中國騰訊](https://zh.wikipedia.org/wiki/中國騰訊 "wikilink")《[勇往直前戀上你](https://zh.wikipedia.org/wiki/勇往直前戀上你 "wikilink")》飾演
@@ -67,7 +64,7 @@ Entertainment\&Media）公司，最后选择進入JYP娛樂旗下當练习生。
   - 2015年 [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")《ฉลุย
     แตะขอบฟ้า》飾演 Nichkhun 本人
   - 2018年
-    [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")《[把哥哥退貨可以嗎](https://zh.wikipedia.org/wiki/把哥哥退貨可以嗎 "wikilink")》
+    [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")《[把哥哥退貨可以嗎](../Page/把哥哥退貨可以嗎.md "wikilink")》
     飾演 天菜男友 小餅
 
 ## 作品
@@ -393,7 +390,7 @@ Entertainment\&Media）公司，最后选择進入JYP娛樂旗下當练习生。
 <td><p>EP104</p></td>
 <td><p>與<a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>（<a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a>）、<a href="../Page/李準_(歌手).md" title="wikilink">李準</a>（<a href="https://zh.wikipedia.org/wiki/MBLAQ" title="wikilink">MBLAQ</a>）、<br />
 <a href="../Page/銀赫.md" title="wikilink">銀赫</a>（<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>）、<a href="https://zh.wikipedia.org/wiki/斗俊" title="wikilink">斗俊</a>（<a href="https://zh.wikipedia.org/wiki/BEAST" title="wikilink">BEAST</a>）、<br />
-<a href="../Page/時完.md" title="wikilink">時完</a>（<a href="https://zh.wikipedia.org/wiki/ZE:A" title="wikilink">ZE:A</a>）、<a href="https://zh.wikipedia.org/wiki/咸慇晶" title="wikilink">咸慇晶</a>（<a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>）共同出演</p></td>
+<a href="../Page/時完.md" title="wikilink">時完</a>（<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>）、<a href="https://zh.wikipedia.org/wiki/咸慇晶" title="wikilink">咸慇晶</a>（<a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>）共同出演</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年9月2日、09日</p></td>
@@ -434,7 +431,7 @@ Entertainment\&Media）公司，最后选择進入JYP娛樂旗下當练习生。
 <tr class="odd">
 <td><p>2015年5月24日</p></td>
 <td><p>EP248</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/朴俊炯" title="wikilink">朴俊炯</a>（<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>）、<a href="../Page/滑川康男.md" title="wikilink">KangNam</a>（<a href="../Page/M.I.B.md" title="wikilink">M.I.B</a>）、<br />
+<td><p>與<a href="../Page/朴俊炯.md" title="wikilink">朴俊炯</a>（<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>）、<a href="../Page/滑川康男.md" title="wikilink">KangNam</a>（<a href="../Page/M.I.B.md" title="wikilink">M.I.B</a>）、<br />
 <a href="../Page/劉憲華.md" title="wikilink">Henry</a>（<a href="../Page/Super_Junior-M.md" title="wikilink">Super Junior-M</a>）、<a href="https://zh.wikipedia.org/wiki/劉逸雲" title="wikilink">Amber</a>（<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a>）共同出演</p></td>
 <td></td>
 <td></td>

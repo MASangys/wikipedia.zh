@@ -101,7 +101,7 @@ C++和Java语言之间的不同可以追溯到它们各自的传统，它们有�
 </tr>
 <tr class="even">
 <td><p>沒有標準的代碼內嵌文檔機制。不過有第三方的軟體(例如 <a href="../Page/Doxygen.md" title="wikilink">Doxygen</a>)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Javadoc" title="wikilink">Javadoc</a> 标准文档生成系统</p></td>
+<td><p><a href="../Page/Javadoc.md" title="wikilink">Javadoc</a> 标准文档生成系统</p></td>
 </tr>
 <tr class="odd">
 <td><p><code>const</code> 關鍵字用來定義不可改變的常量和成員函式</p></td>
@@ -335,10 +335,11 @@ C++
     Java 的引用只能指向对象.
   - 在 C++ 里, 指针可以指向函数或者方法（[函数指针](../Page/函数指针.md "wikilink")）. 在 Java
     里的等价物是对象或者接口的引用.
-  - 虽然有使用栈内存分配的对象, C++
-    还是支持[区域资源管理](https://zh.wikipedia.org/wiki/RAII "wikilink"),
-    一个用来自动管理内存和其他系统资源的技术,此技术支持确定性对象销毁(deterministic object destruction).
-    不过,区域资源管理在 C++ 里是不被保证的;它只是一个设计模式,所以需要依赖程序员遵守相关的规则. Java
+  - 虽然有使用栈内存分配的对象, C++ 还是支持[区域资源管理](../Page/RAII.md "wikilink"),
+    一个用来自动管理内存和其他系统资源的技术,此技术支持确定性对象销毁(deterministic
+    object destruction). 不过,区域资源管理在 C++
+    里是不被保证的;它只是一个设计模式,所以需要依赖程序员遵守相关的规则.
+    Java
     通过使用[垃圾搜集来支持自动内存管理](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink"),但对于其他的系统资源(窗口,通讯端口,线程),如果垃圾搜集器无法决定它们是否不再被用到,那通常还是需要显式的释放的.
   - C++
     的用户可自定义[操作符重载的特性在](https://zh.wikipedia.org/wiki/操作符重载 "wikilink")
@@ -380,8 +381,7 @@ C++
     Java [数组仍然是对象](../Page/数组.md "wikilink").)
   - Java 和 C++ 在资源管理上使用不同的习语. Java
     主要依赖只能回收内存的垃圾搜集机制,因为该机制如果用于回收使用中的非内存的系统资源可能是非常危险的。而
-    C++ 主要依赖 [RAII
-    (资源的获取就是初始化)](https://zh.wikipedia.org/wiki/RAII "wikilink").
+    C++ 主要依赖 [RAII (资源的获取就是初始化)](../Page/RAII.md "wikilink").
     这反映了这两种语言的几方面的不同:
       - 在 C++ 里在栈里申请复合类型的对象是很平常的,一旦退出栈的范围就会被销毁. 在 Java
         里复合类型的对象总是在堆里申请的内存,而后被垃圾搜集器搜集

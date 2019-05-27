@@ -45,7 +45,7 @@ TOPS](https://zh.wikipedia.org/wiki/TOP_OF_THE_TOPS "wikilink")》；2010年代�
       - 弦編曲：[佐橋佳幸](https://zh.wikipedia.org/wiki/佐橋佳幸 "wikilink")
       - 第12張單曲
 10. **OSAKA LADY BLUES～大阪女藍調～**（）
-      - 和歌名相通，歌曲為[大阪曲風](https://zh.wikipedia.org/wiki/大阪府 "wikilink")。歌詞中的「[南區的Lady](https://zh.wikipedia.org/wiki/南區_\(大阪市\) "wikilink")」指的是[和田現子](../Page/和田現子.md "wikilink")
+      - 和歌名相通，歌曲為[大阪曲風](https://zh.wikipedia.org/wiki/大阪府 "wikilink")。歌詞中的「[南區的Lady](../Page/南區_\(大阪市\).md "wikilink")」指的是[和田現子](../Page/和田現子.md "wikilink")
 11. **[EARLY IN THE MORNING
     ～旅程的早晨～](https://zh.wikipedia.org/wiki/其實是可怕的愛與羅曼史 "wikilink")**（）
       - 第13張單曲的c/w曲，原名是「EARLY IN THE MORNING」，收錄入專輯後增加了副題

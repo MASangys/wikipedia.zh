@@ -8,7 +8,7 @@ Ardour使用[JACK服务作为声卡信号低延迟的保障](../Page/JACK_Audio_
 ## 插件
 
 Ardour自身只是集成衰减器，其他的效果需要通过外部插件实现。
-在Linux操作系统上可以使用[LADSPA格式](https://zh.wikipedia.org/wiki/LADSPA "wikilink")、[LV2格式的插件](https://zh.wikipedia.org/wiki/LV2 "wikilink")，并通过[Wine可以实现部分](../Page/Wine.md "wikilink")[VST格式插件的使用](https://zh.wikipedia.org/wiki/Virtual_Studio_Technology "wikilink")（并非原始支持，所以很可能不稳定）。
+在Linux操作系统上可以使用[LADSPA格式](../Page/LADSPA.md "wikilink")、[LV2格式的插件](https://zh.wikipedia.org/wiki/LV2 "wikilink")，并通过[Wine可以实现部分](../Page/Wine.md "wikilink")[VST格式插件的使用](https://zh.wikipedia.org/wiki/Virtual_Studio_Technology "wikilink")（并非原始支持，所以很可能不稳定）。
 在OS
 X操作系统上还可以使用[AU格式的插件](https://zh.wikipedia.org/wiki/Audio_Units "wikilink")。
 

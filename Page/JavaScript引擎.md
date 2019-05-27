@@ -48,7 +48,7 @@ JavaScript虚拟机出现，Chrome的JavaScript执行速度就被超越了\[4\]\
     (JScript引擎)](../Page/Chakra_\(JScript引擎\).md "wikilink")，用於[Internet
     Explorer](../Page/Internet_Explorer.md "wikilink")\[11\]。
   - [Chakra
-    (JavaScript引擎)](https://zh.wikipedia.org/wiki/Chakra_\(JavaScript引擎\) "wikilink")，用於[Microsoft
+    (JavaScript引擎)](../Page/Chakra_\(JavaScript引擎\).md "wikilink")，用於[Microsoft
     Edge](../Page/Microsoft_Edge.md "wikilink")。
   - [KJS](../Page/KJS.md "wikilink")，KDE的ECMAScript／JavaScript引擎，最初由开发，用于KDE项目的Konqueror网页浏览器中。
 
@@ -104,7 +104,7 @@ JavaScript是一种[ECMAScript方言](../Page/ECMAScript.md "wikilink")，在许
 <td><p>ECMA-262，版本6</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Microsoft_Edge.md" title="wikilink">Microsoft Edge</a>，<a href="https://zh.wikipedia.org/wiki/Chakra_(JavaScript引擎)" title="wikilink">Chakra引擎</a></p></td>
+<td><p><a href="../Page/Microsoft_Edge.md" title="wikilink">Microsoft Edge</a>，<a href="../Page/Chakra_(JavaScript引擎).md" title="wikilink">Chakra引擎</a></p></td>
 <td><p><a href="../Page/JavaScript.md" title="wikilink">JavaScript</a></p></td>
 <td><p>EMCA-262，版本6</p></td>
 </tr>

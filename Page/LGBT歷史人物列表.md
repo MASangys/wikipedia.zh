@@ -4,7 +4,7 @@
 
 歷史人物是否为[同性戀或](../Page/同性戀.md "wikilink")[雙性戀](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")，時常會是人們爭辯的話題。然而關於这方面的確切資訊卻很少，人们只能利用有限的证据来推斷或[詮釋](https://zh.wikipedia.org/wiki/詮釋學 "wikilink")。列表人物的列名，是以親密情感或性關係來推測，從現代的標準來看不一定會被认为是同性恋或雙性戀\[6\]。親密情感可能是[浪漫友情的展現](https://zh.wikipedia.org/wiki/浪漫友情 "wikilink")，未必涉有[情慾關係](https://zh.wikipedia.org/wiki/情慾 "wikilink")\[7\]\[8\]。性關係的發生不必然表徵[性傾向和情慾品質](https://zh.wikipedia.org/wiki/性傾向 "wikilink")，而可能是迫於生計的[賣淫](https://zh.wikipedia.org/wiki/賣淫 "wikilink")，迎合社會形象成家生子，或[士人表現灑脫風流的一時享受](https://zh.wikipedia.org/wiki/士人 "wikilink")。經驗過同性或異性性行為的歷史人物，並不能確定該個體符合現代觀點下「同性戀」、「雙性戀」的[身份認同](https://zh.wikipedia.org/wiki/身份認同 "wikilink")\[9\]。
 
-不過由於過往歷史對[LGBT](../Page/LGBT.md "wikilink")的形成有所影響，同性情慾和親密友誼，仍是[LGBT歷史的重要面向](https://zh.wikipedia.org/wiki/LGBT歷史 "wikilink")\[10\]。本列表按照時代先後排序，收錄公元1900年前逝世的歷史人物，[二十世紀以及之後的LGBT人物請見](https://zh.wikipedia.org/wiki/二十世紀 "wikilink")[LGBT人物列表](https://zh.wikipedia.org/wiki/LGBT人物列表 "wikilink")。
+不過由於過往歷史對[LGBT](../Page/LGBT.md "wikilink")的形成有所影響，同性情慾和親密友誼，仍是[LGBT歷史的重要面向](../Page/LGBT歷史.md "wikilink")\[10\]。本列表按照時代先後排序，收錄公元1900年前逝世的歷史人物，[二十世紀以及之後的LGBT人物請見](https://zh.wikipedia.org/wiki/二十世紀 "wikilink")[LGBT人物列表](https://zh.wikipedia.org/wiki/LGBT人物列表 "wikilink")。
 
 ## 上古時期（公元前3000年～公元400年）
 
@@ -266,7 +266,7 @@ Zoticus</p></td>
 <ul>
 <li><a href="../Page/卡西乌斯·狄奥.md" title="wikilink">卡西乌斯·狄奥</a>《[<a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/80">http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/80</a>*.html Roman History]》：The husband of this "woman" was Hierocles, a Carian slave, once the favourite of Gordius, from whom he had learned to drive a chariot. It was in this connexion that he won the emperor's favour by a most remarkable chance....Aurelius Zoticus, a native of Smyrna, whom they also called "Cook," after his father's trade, incurred the emperor's thorough love and thorough hatred, and for the latter reason his life was saved. This Aurelius not only had a body that was beautiful all over, seeing that he was an athlete, but in particular he greatly surpassed all others in the size of his private parts.<br />
 </li>
-<li>《[<a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Elagabalus/1">http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Elagabalus/1</a>*.html Historia Augusta] (<a href="https://zh.wikipedia.org/wiki/罗马帝王纪" title="wikilink">罗马帝王纪</a>)》：And such was his passion for Hierocles that he kissed him in a place which it is indecent even to mention, declaring that he was celebrating the festival of Flora...During his reign Zoticus had such influence that all the chiefs of the palace-departments treated him as their master's consort...With this man Elagabalus went through a nuptial ceremony and consummated a marriage, even having a bridal-matron and exclaiming, "Go to work, Cook"</ref>[40]</li>
+<li>《[<a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Elagabalus/1">http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Elagabalus/1</a>*.html Historia Augusta] (<a href="../Page/罗马帝王纪.md" title="wikilink">罗马帝王纪</a>)》：And such was his passion for Hierocles that he kissed him in a place which it is indecent even to mention, declaring that he was celebrating the festival of Flora...During his reign Zoticus had such influence that all the chiefs of the palace-departments treated him as their master's consort...With this man Elagabalus went through a nuptial ceremony and consummated a marriage, even having a bridal-matron and exclaiming, "Go to work, Cook"</ref>[40]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -749,7 +749,7 @@ Zoticus</p></td>
 <tr class="odd">
 <td></td>
 <td><p>1527年－1578</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/日本戰國時代" title="wikilink">日本戰國時代的武將</a>、<a href="https://zh.wikipedia.org/wiki/眾道" title="wikilink">眾道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本戰國時代" title="wikilink">日本戰國時代的武將</a>、<a href="../Page/眾道.md" title="wikilink">眾道</a></p></td>
 <td><p><a href="../Page/武田信玄.md" title="wikilink">武田信玄</a></p></td>
 <td><p>[93][94]</p></td>
 </tr>
@@ -782,7 +782,7 @@ Zoticus</p></td>
 <td><p>在利家夜話中曾記載了他和<a href="../Page/織田信長.md" title="wikilink">織田信長的不尋常關係</a>[97]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/周汝礪" title="wikilink">周汝礪</a></p></td>
+<td><p><a href="../Page/周汝礪.md" title="wikilink">周汝礪</a></p></td>
 <td></td>
 <td><p>官吏</p></td>
 <td><p>孌童</p></td>
@@ -1271,9 +1271,9 @@ Zoticus</p></td>
 <tr class="odd">
 <td></td>
 <td><p>1849–1896</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/祖尼人" title="wikilink">祖尼</a>，美國<a href="../Page/雙靈.md" title="wikilink">雙靈</a></p></td>
+<td><p><a href="../Page/祖尼人.md" title="wikilink">祖尼</a>，美國<a href="../Page/雙靈.md" title="wikilink">雙靈</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/祖尼人" title="wikilink">祖尼</a>，肩負男性祭祀與女性紡織的社會職責，和人類學家為好友[155]</p></td>
+<td><p><a href="../Page/祖尼人.md" title="wikilink">祖尼</a>，肩負男性祭祀與女性紡織的社會職責，和人類學家為好友[155]</p></td>
 </tr>
 <tr class="even">
 <td></td>

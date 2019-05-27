@@ -174,7 +174,7 @@
       - 年度獨立創作精神獎：[滅火器樂團](https://zh.wikipedia.org/wiki/滅火器樂團 "wikilink")
       - 年度最佳新人：[陳彥允](https://zh.wikipedia.org/wiki/陳彥允 "wikilink")
       - 年度最佳電視原聲帶單曲：[繼承者們](../Page/繼承者們.md "wikilink")
-      - 年度最佳電影原聲帶單曲：[等一個人咖啡](https://zh.wikipedia.org/wiki/等一個人咖啡 "wikilink")
+      - 年度最佳電影原聲帶單曲：[等一個人咖啡](../Page/等一個人咖啡.md "wikilink")
       - 年度台語歌手：[江蕙](../Page/江蕙.md "wikilink")
       - 年度粵語歌手：[鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")
       - 年度西洋歌手：[Maroon
@@ -204,7 +204,7 @@
   - 年度風雲歌手
       - [林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")、[玖壹壹](https://zh.wikipedia.org/wiki/玖壹壹 "wikilink")、[周杰倫](../Page/周杰倫.md "wikilink")、[五月天](../Page/五月天.md "wikilink")、[田馥甄](../Page/田馥甄.md "wikilink")、[韋禮安](../Page/韋禮安.md "wikilink")、[兄弟本色](https://zh.wikipedia.org/wiki/兄弟本色 "wikilink")、[周興哲](../Page/周興哲.md "wikilink")、[鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、[丁噹](../Page/丁噹.md "wikilink")
   - 年度風雲獎項
-      - 年度獨立創作精神獎：[草東沒有派對](https://zh.wikipedia.org/wiki/草東沒有派對 "wikilink")
+      - 年度獨立創作精神獎：[草東沒有派對](../Page/草東沒有派對.md "wikilink")
       - 年度最佳新人：[UNDER LOVER](../Page/UNDER_LOVER.md "wikilink")
       - 年度最佳電視原聲帶單曲：[太陽的後裔](../Page/太陽的後裔.md "wikilink")
       - 年度最佳電影原聲帶單曲：[追婚日記](https://zh.wikipedia.org/wiki/追婚日記 "wikilink")
@@ -220,7 +220,7 @@
       - [陳奕迅](../Page/陳奕迅.md "wikilink")、[黃明志](https://zh.wikipedia.org/wiki/黃明志 "wikilink")、[謝和弦](../Page/謝和弦.md "wikilink")、[兄弟本色](https://zh.wikipedia.org/wiki/兄弟本色 "wikilink")、[周湯豪](../Page/周湯豪.md "wikilink")、[鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、[盧廣仲](../Page/盧廣仲.md "wikilink")、[楊丞琳](../Page/楊丞琳.md "wikilink")、[田馥甄](../Page/田馥甄.md "wikilink")、[家家](https://zh.wikipedia.org/wiki/家家 "wikilink")
   - 年度風雲獎項
       - 年度創作精神獎：[魏如萱](../Page/魏如萱.md "wikilink")
-      - 年度最佳新人：[J.Sheon](https://zh.wikipedia.org/wiki/J.Sheon "wikilink")
+      - 年度最佳新人：[J.Sheon](../Page/J.Sheon.md "wikilink")
       - 年度最佳華語單曲：[陳奕迅](../Page/陳奕迅.md "wikilink")《讓我留在你身邊》
       - 年度最佳西洋單曲：[Ed
         Sheeran](https://zh.wikipedia.org/wiki/Ed_Sheeran "wikilink")《Shape
@@ -228,7 +228,7 @@
       - 年度最佳韓語單曲：[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink") &
         [Punch](https://zh.wikipedia.org/wiki/Punch_\(韓國歌手\) "wikilink")《Stay
         With Me》
-      - 年度最佳日語單曲：[星野源](https://zh.wikipedia.org/wiki/星野源 "wikilink")《戀》
+      - 年度最佳日語單曲：[星野源](../Page/星野源.md "wikilink")《戀》
 
 ### 第十四屆 2019
 
@@ -240,7 +240,7 @@
         Junior](../Page/Super_Junior.md "wikilink")、[頑童MJ116](../Page/頑童MJ116.md "wikilink")、[張惠妹](../Page/張惠妹.md "wikilink")、[蕭敬騰](../Page/蕭敬騰.md "wikilink")、[李榮浩](../Page/李榮浩.md "wikilink")、[莫文蔚](../Page/莫文蔚.md "wikilink")、[周興哲](../Page/周興哲.md "wikilink")、[-{于}-文文](../Page/于文文.md "wikilink")、[周杰倫](../Page/周杰倫.md "wikilink")、[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")
   - 年度風雲獎項
       - 年度創作精神獎：[熊仔](../Page/熊仔.md "wikilink")
-      - 年度最佳新人：[茄子蛋](https://zh.wikipedia.org/wiki/茄子蛋 "wikilink")
+      - 年度最佳新人：[茄子蛋](../Page/茄子蛋.md "wikilink")
       - ETtoday星光雲KKBOX唱作歌手獎：[蕭秉治](../Page/蕭秉治.md "wikilink")
       - 年度最佳華語單曲：
       - 年度最佳西洋單曲：
@@ -271,11 +271,11 @@
 
   - 風雲榜前夜祭
 
-| 屆數 | 日期        | 主持人  | 表演歌手                                                                                                                                                                                                                                                                                                                              | 舉辦地點                                                        |
-| -- | --------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| 1  | 2017/1/20 | \-   | 藍洞樂團、Noodles、麻吉弟弟、Cookie、Diamonds                                                                                                                                                                                                                                                                                                 | Att Show Box                                                |
-| 2  | 2018/1/19 | FIFI | Miss Ko[葛仲珊](../Page/葛仲珊.md "wikilink")、[J.Sheon](https://zh.wikipedia.org/wiki/J.Sheon "wikilink") (街巷)、MR. SKIN 賴皮、DeeJay RayRay、[熊仔](../Page/熊仔.md "wikilink")、Julia Wu 吳卓源、SmashRegz/違法（Trout Fresh/呂士軒、Chang Wu / 張伍、SJIN/史今）、RPG、NEOSO 戴岑樺、ØZI、呂薔Amuyi、G.G 張思源、Kimberley[陳芳語](https://zh.wikipedia.org/wiki/陳芳語 "wikilink") | [凹仔底森林公園](https://zh.wikipedia.org/wiki/凹仔底森林公園 "wikilink") |
-|    |           |      |                                                                                                                                                                                                                                                                                                                                   |                                                             |
+| 屆數 | 日期        | 主持人  | 表演歌手                                                                                                                                                                                                                                                                                                           | 舉辦地點                                                        |
+| -- | --------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 1  | 2017/1/20 | \-   | 藍洞樂團、Noodles、麻吉弟弟、Cookie、Diamonds                                                                                                                                                                                                                                                                              | Att Show Box                                                |
+| 2  | 2018/1/19 | FIFI | Miss Ko[葛仲珊](../Page/葛仲珊.md "wikilink")、[J.Sheon](../Page/J.Sheon.md "wikilink") (街巷)、MR. SKIN 賴皮、DeeJay RayRay、[熊仔](../Page/熊仔.md "wikilink")、Julia Wu 吳卓源、SmashRegz/違法（Trout Fresh/呂士軒、Chang Wu / 張伍、SJIN/史今）、RPG、NEOSO 戴岑樺、ØZI、呂薔Amuyi、G.G 張思源、Kimberley[陳芳語](https://zh.wikipedia.org/wiki/陳芳語 "wikilink") | [凹仔底森林公園](https://zh.wikipedia.org/wiki/凹仔底森林公園 "wikilink") |
+|    |           |      |                                                                                                                                                                                                                                                                                                                |                                                             |
 
   - 未來風雲之星成果發表會（未來風雲舞台）
 

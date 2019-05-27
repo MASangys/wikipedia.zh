@@ -4,7 +4,7 @@
 
 劇集為[亞洲電視自繼](../Page/亞洲電視.md "wikilink")《[十六不搭喜趣來](../Page/十六不搭喜趣來.md "wikilink")》，2008年停拍劇集後，重新拍攝的[處境劇](https://zh.wikipedia.org/wiki/處境劇 "wikilink")，是[黃炳均入主後首部開拍的](../Page/黃炳均.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。劇集原於2010年10月25日19:30起播放，但及後[亞洲電視因存貨不足臨時抽起不播放](../Page/亞洲電視.md "wikilink")，同時段改播倉底貨《[如果月亮有眼睛](https://zh.wikipedia.org/wiki/如果月亮有眼睛 "wikilink")》，至播畢後11月22日19:30起播放，2011年1月31日此劇舉行煞科戲。
 
-而[贊助商](https://zh.wikipedia.org/wiki/贊助 "wikilink")[海天堂老闆](../Page/海天堂.md "wikilink")[吳耀明亦為劇集](../Page/吳耀明.md "wikilink")[友情客串](../Page/友情客串.md "wikilink")，為其第一套拍攝的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")；另外同時為[裴殷](../Page/裴殷.md "wikilink")、[古卓文及](../Page/古卓文.md "wikilink")[于天龍的首套](../Page/于天龍.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，也是[民建聯](https://zh.wikipedia.org/wiki/民建聯 "wikilink")[西貢區議會議員](../Page/西貢區議會.md "wikilink")[凌文海息影復出的第一炮](https://zh.wikipedia.org/wiki/凌文海 "wikilink")，他在1970至1990年代是亞視演員。
+而[贊助商](https://zh.wikipedia.org/wiki/贊助 "wikilink")[海天堂老闆](../Page/海天堂.md "wikilink")[吳耀明亦為劇集](../Page/吳耀明.md "wikilink")[友情客串](../Page/友情客串.md "wikilink")，為其第一套拍攝的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")；另外同時為[裴殷](../Page/裴殷.md "wikilink")、[古卓文及](../Page/古卓文.md "wikilink")[于天龍的首套](../Page/于天龍.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，也是[民建聯](https://zh.wikipedia.org/wiki/民建聯 "wikilink")[西貢區議會議員](../Page/西貢區議會.md "wikilink")[凌文海息影復出的第一炮](../Page/凌文海.md "wikilink")，他在1970至1990年代是亞視演員。
 
 本劇由[海天堂鮮製](../Page/海天堂.md "wikilink")[龜苓膏冠名贊助](../Page/龜苓膏.md "wikilink")，故稱《健康飲食龜苓膏專門店海天堂呈獻：香港GoGoGo》。
 
@@ -169,7 +169,7 @@
 <strong>阿祖</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/凌文海" title="wikilink">凌文海</a></strong></p></td>
+<td><p><strong><a href="../Page/凌文海.md" title="wikilink">凌文海</a></strong></p></td>
 <td><p><strong>李鼎</strong></p></td>
 <td><p>退休人士<br />
 替更司機</p></td>

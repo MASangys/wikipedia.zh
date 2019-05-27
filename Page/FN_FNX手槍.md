@@ -1,6 +1,6 @@
 **FN
 FNX**是一系列由[比利时槍械製造商](../Page/比利时.md "wikilink")[國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN）旗下、位於[南卡羅來納州](https://zh.wikipedia.org/wiki/南卡羅來納州 "wikilink")[哥倫比亞的](https://zh.wikipedia.org/wiki/哥倫比亞_\(南卡羅來納州\) "wikilink")[美国分公司](../Page/美国.md "wikilink")（FNH
-USA）所設計和生產的一系列[半自動手槍](../Page/半自動手槍.md "wikilink")。\[1\]具有[聚合物製造的](../Page/聚合物.md "wikilink")[底把](https://zh.wikipedia.org/wiki/机匣 "wikilink")，和分別有[不鏽鋼和聚合物兩種可以選擇的套筒](../Page/不鏽鋼.md "wikilink")。這款手槍在2010年（美國著名槍展）上首次亮相。推出時為[發射](../Page/膛室.md "wikilink")[9毫米鲁格弹](../Page/9×19mm魯格彈.md "wikilink")、[.40
+USA）所設計和生產的一系列[半自動手槍](../Page/半自動手槍.md "wikilink")。\[1\]具有[聚合物製造的](../Page/聚合物.md "wikilink")[底把](../Page/机匣.md "wikilink")，和分別有[不鏽鋼和聚合物兩種可以選擇的套筒](../Page/不鏽鋼.md "wikilink")。這款手槍在2010年（美國著名槍展）上首次亮相。推出時為[發射](../Page/膛室.md "wikilink")[9毫米鲁格弹](../Page/9×19mm魯格彈.md "wikilink")、[.40
 S\&W](../Page/.40_S&W.md "wikilink")，其後新增了[.45
 ACP口徑的衍生型](../Page/.45_ACP.md "wikilink")。
 
@@ -12,7 +12,7 @@ ACP口徑的衍生型](../Page/.45_ACP.md "wikilink")。
 
 ## 標準功能
 
-所有的FNX手槍衍生型都具有[能左右手操作操作的大型](../Page/两手同利.md "wikilink")[保險／待擊解脫桿](../Page/杠杆.md "wikilink")、[彈匣釋放按鈕和](../Page/彈匣.md "wikilink")[套筒鎖](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（套筒釋放裝置、[空槍掛機桿](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")）。\[2\]所有的衍生型亦具有凸出方格表面紋理和[生產商標誌的握把](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")，套筒前後用以向後拉動的鋸齒型防滑紋，設有一條整合在套筒下、[底把的](https://zh.wikipedia.org/wiki/机匣 "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")用以安裝各種[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器和其他戰術配件的](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[MIL-STD-1913綜合戰術配件導軌](../Page/皮卡汀尼導軌.md "wikilink")、固定三點式大型戰鬥[機械瞄具](../Page/機械瞄具.md "wikilink")，和套筒右側的[上膛顯示桿](https://zh.wikipedia.org/wiki/上膛顯示桿 "wikilink")。\[3\]新型號在銷售時會裝在一個[塑料製造的硬式攜帶盒內](../Page/塑料.md "wikilink")，連3
+所有的FNX手槍衍生型都具有[能左右手操作操作的大型](../Page/两手同利.md "wikilink")[保險／待擊解脫桿](../Page/杠杆.md "wikilink")、[彈匣釋放按鈕和](../Page/彈匣.md "wikilink")[套筒鎖](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（套筒釋放裝置、[空槍掛機桿](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")）。\[2\]所有的衍生型亦具有凸出方格表面紋理和[生產商標誌的握把](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")，套筒前後用以向後拉動的鋸齒型防滑紋，設有一條整合在套筒下、[底把的](../Page/机匣.md "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")用以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件的](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[MIL-STD-1913綜合戰術配件導軌](../Page/皮卡汀尼導軌.md "wikilink")、固定三點式大型戰鬥[機械瞄具](../Page/機械瞄具.md "wikilink")，和套筒右側的[上膛顯示桿](https://zh.wikipedia.org/wiki/上膛顯示桿 "wikilink")。\[3\]新型號在銷售時會裝在一個[塑料製造的硬式攜帶盒內](../Page/塑料.md "wikilink")，連3
 個專用的可拆卸式[彈匣](../Page/彈匣.md "wikilink")，以及四個可更換式後方握把片。\[4\]\[5\]\[6\]
 
 [FNX-40_field_strip.jpg](https://zh.wikipedia.org/wiki/File:FNX-40_field_strip.jpg "fig:FNX-40_field_strip.jpg")[套筒型FNX](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")-40的[不完全分解](https://zh.wikipedia.org/wiki/不完全分解 "wikilink")
@@ -71,7 +71,7 @@ Breed、Safariland和Fobus。可惜一些買家認為缺乏修改及配件的空
   - [FN M1905](https://zh.wikipedia.org/wiki/FN_M1905手槍 "wikilink")
   - [FN M1910](https://zh.wikipedia.org/wiki/FN_M1910手槍 "wikilink")
   - [白朗寧大威力手槍](../Page/白朗寧大威力手槍.md "wikilink")
-  - [FN HP-DA](https://zh.wikipedia.org/wiki/白朗寧雙動手槍 "wikilink")
+  - [FN HP-DA](../Page/白朗寧雙動手槍.md "wikilink")
   - [FN
     Forty-Nine](https://zh.wikipedia.org/wiki/FN_Forty-Nine手槍 "wikilink")
   - [FN Five-seveN](../Page/FN_Five-seveN手槍.md "wikilink")

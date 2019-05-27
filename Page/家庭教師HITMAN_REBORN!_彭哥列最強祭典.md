@@ -321,7 +321,7 @@ REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")**的角�
   - [井上優](../Page/井上優.md "wikilink")（山本武）
   - [木內秀信](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")（笹川了平）
   - [飯田利信](../Page/飯田利信.md "wikilink")（六道骸）
-  - [池田政典](https://zh.wikipedia.org/wiki/池田政典 "wikilink")（XANXUS）
+  - [池田政典](../Page/池田政典.md "wikilink")（XANXUS）
   - [高橋広樹](https://zh.wikipedia.org/wiki/高橋広樹 "wikilink")（史佩爾畢·史庫瓦羅）
   - [藤原祐規](../Page/藤原祐規.md "wikilink")（貝爾飛格爾）
   - [國立幸](../Page/國立幸.md "wikilink")（弗蘭）
@@ -409,7 +409,7 @@ MYCAL」十一間分別位於江別（[北海道](../Page/北海道.md "wikilink
   - [吉田仁美](../Page/吉田仁美.md "wikilink")（三浦春）
   - [竹內順子](../Page/竹內順子.md "wikilink")（藍波）
   - [蔣里美](../Page/蔣里美.md "wikilink")（一平）
-  - [池田政典](https://zh.wikipedia.org/wiki/池田政典 "wikilink")（XANXUS）
+  - [池田政典](../Page/池田政典.md "wikilink")（XANXUS）
   - [藤原佑規](https://zh.wikipedia.org/wiki/藤原佑規 "wikilink")（貝爾飛格爾）
   - [湯澤幸一郎](https://zh.wikipedia.org/wiki/湯澤幸一郎 "wikilink")（魯斯里亞）
   - [大山鎬則](../Page/大山鎬則.md "wikilink")（白蘭）

@@ -95,7 +95,7 @@
 <td><p>平假名</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/越中三鄉站" title="wikilink">越中三鄉車站</a></p></td>
+<td><p><a href="../Page/越中三鄉站.md" title="wikilink">越中三鄉車站</a></p></td>
 <td></td>
 <td><p>Etchu-Sangou-Eki</p></td>
 </tr>

@@ -442,7 +442,7 @@ Heald](https://zh.wikipedia.org/wiki/:en:Anthony_Heald "wikilink")）和[雷內�
 </tr>
 <tr class="even">
 <td><p>2016年－至今</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/律政巨人" title="wikilink">律政巨人</a></p></td>
+<td><p><a href="../Page/律政巨人.md" title="wikilink">律政巨人</a></p></td>
 <td><p><a href="../Page/亞馬遜影片.md" title="wikilink">Amazon</a></p></td>
 <td><p>開創（2016－）、編劇（2016－）<br />
 執行製作（2016－）</p></td>
@@ -450,7 +450,7 @@ Heald](https://zh.wikipedia.org/wiki/:en:Anthony_Heald "wikilink")）和[雷內�
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小謊言_(電視劇)" title="wikilink">小謊言</a></p></td>
+<td><p><a href="../Page/小謊言_(電視劇).md" title="wikilink">小謊言</a></p></td>
 <td><p><a href="../Page/HBO.md" title="wikilink">HBO</a></p></td>
 <td><p>開創（2017）、編劇（2017）<br />
 執行製作（2017）</p></td>
@@ -458,7 +458,7 @@ Heald](https://zh.wikipedia.org/wiki/:en:Anthony_Heald "wikilink")）和[雷內�
 </tr>
 <tr class="even">
 <td><p>2017年－至今</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/賓士先生_(電視劇)" title="wikilink">賓士先生</a></p></td>
+<td><p><a href="../Page/賓士先生_(電視劇).md" title="wikilink">賓士先生</a></p></td>
 <td></td>
 <td><p>開創（2017）、編劇（2017）<br />
 執行製作（2017）</p></td>

@@ -311,7 +311,7 @@ Girls，並稱大家是一個Sexy Family。
 <td><p>2018年6月6日</p></td>
 <td><p><strong>Innocent Days</strong>（イノセントデイズ）</p></td>
 <td><p>1位</p></td>
-<td><p>歌曲《イノセントデイズ》為成員<a href="../Page/佐藤勝利.md" title="wikilink">佐藤勝利出演的</a><a href="../Page/日本電視台.md" title="wikilink">日本電視台電視連續劇</a>「<a href="https://zh.wikipedia.org/wiki/Miss_Devil_人事惡魔·椿真子" title="wikilink">Miss Devil 人事惡魔·椿真子</a>」（）的插入曲。</p></td>
+<td><p>歌曲《イノセントデイズ》為成員<a href="../Page/佐藤勝利.md" title="wikilink">佐藤勝利出演的</a><a href="../Page/日本電視台.md" title="wikilink">日本電視台電視連續劇</a>「<a href="../Page/Miss_Devil_人事惡魔·椿真子.md" title="wikilink">Miss Devil 人事惡魔·椿真子</a>」（）的插入曲。</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
@@ -469,12 +469,12 @@ Girls，並稱大家是一個Sexy Family。
 <!-- end list -->
 
   - [Sexy Zone
-    CHANNEL](https://zh.wikipedia.org/wiki/Sexy_Zone_CHANNEL "wikilink")（首播时段：2014年2月26日迄今；首播頻道：・[NOTTV](https://zh.wikipedia.org/wiki/NOTTV "wikilink")）
+    CHANNEL](../Page/Sexy_Zone_CHANNEL.md "wikilink")（首播时段：2014年2月26日迄今；首播頻道：・[NOTTV](../Page/NOTTV.md "wikilink")）
 
 ### 廣告
 
-  - [NOTTVSexy](https://zh.wikipedia.org/wiki/NOTTV "wikilink") Zone
-    CHANNEL「轉動篇」 （2014年3月1日 - ）
+  - [NOTTVSexy](../Page/NOTTV.md "wikilink") Zone CHANNEL「轉動篇」
+    （2014年3月1日 - ）
   - [樂天集團Friutio](https://zh.wikipedia.org/wiki/樂天 "wikilink")「水果籃篇」（2014年3月18日
     - ）
   - [AOKIAOKIホールディングス](https://zh.wikipedia.org/wiki/AOKIホールディングス "wikilink")

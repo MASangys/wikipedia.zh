@@ -64,7 +64,7 @@ E-no》的創刊號是2009年4月20日發行的5月號。
     Maker](https://zh.wikipedia.org/wiki/Daughter_Maker "wikilink")（[河島正](https://zh.wikipedia.org/wiki/河島正 "wikilink")）
   - [はっぴいマリア](https://zh.wikipedia.org/wiki/はっぴいマリア "wikilink")（[仲原敬太郎](https://zh.wikipedia.org/wiki/仲原敬太郎 "wikilink")）
   - [HAYATE](https://zh.wikipedia.org/wiki/HAYATE "wikilink")（[風童じゅん](https://zh.wikipedia.org/wiki/風童じゅん "wikilink")）
-  - [パンプキン・シザーズ](https://zh.wikipedia.org/wiki/パンプキン・シザーズ "wikilink")（[岩永亮太郎](https://zh.wikipedia.org/wiki/岩永亮太郎 "wikilink")）
+  - [パンプキン・シザーズ](https://zh.wikipedia.org/wiki/パンプキン・シザーズ "wikilink")（[岩永亮太郎](../Page/岩永亮太郎.md "wikilink")）
   - [封嘴のコカトリス](https://zh.wikipedia.org/wiki/封嘴のコカトリス "wikilink")（[野本真哉](https://zh.wikipedia.org/wiki/野本真哉 "wikilink")）
   - [Who is
     風生\!?](https://zh.wikipedia.org/wiki/Who_is_風生!? "wikilink")（[なかざき冬](https://zh.wikipedia.org/wiki/なかざき冬 "wikilink")）

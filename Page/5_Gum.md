@@ -105,7 +105,7 @@ Stimulate your senses）。
 </tr>
 <tr class="even">
 <td><p><a href="../Page/薄荷.md" title="wikilink">薄荷</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藍綠色" title="wikilink">藍綠色</a></p></td>
+<td><p><a href="../Page/藍綠色.md" title="wikilink">藍綠色</a></p></td>
 <td><p>Solstice</p></td>
 <td><p>Instinct</p></td>
 <td></td>

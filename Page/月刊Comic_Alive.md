@@ -23,9 +23,9 @@ Factory的](../Page/Media_Factory.md "wikilink")[漫畫雜誌](../Page/漫畫雜
 
   - [TABOO-TATTO](https://zh.wikipedia.org/wiki/TABOO-TATTO "wikilink")（[真じろう](https://zh.wikipedia.org/wiki/真じろう "wikilink")）
 
-  - [斷裁分離的罪惡之剪](../Page/斷裁分離的罪惡之剪.md "wikilink")（[緋鍵龍彦](https://zh.wikipedia.org/wiki/緋鍵龍彥 "wikilink")）
+  - [斷裁分離的罪惡之剪](../Page/斷裁分離的罪惡之剪.md "wikilink")（[緋鍵龍彦](../Page/緋鍵龍彥.md "wikilink")）
 
-  - [屬性同好會](../Page/屬性同好會.md "wikilink")（[春野友矢](https://zh.wikipedia.org/wiki/春野友矢 "wikilink")）
+  - [屬性同好會](../Page/屬性同好會.md "wikilink")（[春野友矢](../Page/春野友矢.md "wikilink")）
 
   - （）
 
@@ -45,7 +45,7 @@ Factory的](../Page/Media_Factory.md "wikilink")[漫畫雜誌](../Page/漫畫雜
 
 ### 多媒體跨平台作品
 
-  - [玩伴貓耳娘](../Page/玩伴貓耳娘.md "wikilink")（原作：・角色原案：[放電映像](https://zh.wikipedia.org/wiki/放電映像 "wikilink")・作畫：[888](https://zh.wikipedia.org/wiki/888_\(漫画家\) "wikilink")）
+  - [玩伴貓耳娘](../Page/玩伴貓耳娘.md "wikilink")（原作：・角色原案：[放電映像](../Page/放電映像.md "wikilink")・作畫：[888](https://zh.wikipedia.org/wiki/888_\(漫画家\) "wikilink")）
   - [就算是哥哥，有愛就沒問題了，對吧](../Page/就算是哥哥，有愛就沒問題了，對吧.md "wikilink")
     （原作：[鈴木大輔](https://zh.wikipedia.org/wiki/鈴木大輔 "wikilink")・角色原案：[閏月戈](../Page/閏月戈.md "wikilink")・作畫：[綠青黑羽](https://zh.wikipedia.org/wiki/綠青黑羽 "wikilink")）
 
@@ -62,7 +62,7 @@ Factory的](../Page/Media_Factory.md "wikilink")[漫畫雜誌](../Page/漫畫雜
   - [屍體派對 Book of Shadows](../Page/屍體派對.md "wikilink")（原作：祁答院慎・作畫：織衣美歌）
   - [其中1個是妹妹！](../Page/其中1個是妹妹！.md "wikilink")（原作：[田口一](https://zh.wikipedia.org/wiki/田口一 "wikilink")・角色原案：・作畫：[もっつん\*](https://zh.wikipedia.org/wiki/もっつん* "wikilink")）
   - [這間教室被不回家社-{占}-領了](https://zh.wikipedia.org/wiki/這間教室被不回家社佔領了 "wikilink")（原作：[岡崎登](https://zh.wikipedia.org/wiki/岡崎登 "wikilink")・角色原案：[ぺこ](https://zh.wikipedia.org/wiki/ぺこ "wikilink")・作画：[rin](https://zh.wikipedia.org/wiki/rin "wikilink")）
-  - [Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")（原作：[5pb.](../Page/5pb..md "wikilink")×[Nitro+](../Page/Nitro+.md "wikilink")・作畫：[さらちよみ](https://zh.wikipedia.org/wiki/Sarachi_Yomi "wikilink")）
+  - [Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")（原作：[5pb.](../Page/5pb..md "wikilink")×[Nitro+](../Page/Nitro+.md "wikilink")・作畫：[さらちよみ](../Page/Sarachi_Yomi.md "wikilink")）
   - [人類衰退之後
     要當妖精嗎？](../Page/人類衰退之後.md "wikilink")（原作：[田中ロミオ](../Page/田中羅密歐.md "wikilink")・原作插圖：・作畫：）
   - [聖劍鍛造師](../Page/聖劍鍛造師.md "wikilink")（原作：[三浦勇雄](https://zh.wikipedia.org/wiki/三浦勇雄 "wikilink")・角色原案：・作畫：）
@@ -86,7 +86,7 @@ Factory的](../Page/Media_Factory.md "wikilink")[漫畫雜誌](../Page/漫畫雜
   - [機巧少女不會受傷](../Page/機巧少女不會受傷.md "wikilink")（原作：[海冬レイジ](../Page/海冬零兒.md "wikilink")・角色原案：[るろお](https://zh.wikipedia.org/wiki/LLO "wikilink")・作畫：[高城計](https://zh.wikipedia.org/wiki/高城計 "wikilink")）
   - [Robotics;Notes -Pleiades
     Ambition-](../Page/ROBOTICS;NOTES.md "wikilink")（原作：[MAGES.](https://zh.wikipedia.org/wiki/MAGES. "wikilink")・作畫：[空十雲](https://zh.wikipedia.org/wiki/空十雲 "wikilink")）
-  - [魔技科的劍士與召喚魔王](https://zh.wikipedia.org/wiki/魔技科的劍士與召喚魔王 "wikilink")（原作：三原みつき・角色原案：[CHuN](../Page/CHuN.md "wikilink")・作畫：孟倫）
+  - [魔技科的劍士與召喚魔王](../Page/魔技科的劍士與召喚魔王.md "wikilink")（原作：三原みつき・角色原案：[CHuN](../Page/CHuN.md "wikilink")・作畫：孟倫）
   - [尋找失去的未來](../Page/尋找失去的未來.md "wikilink")（原作：內濱學園天文學會）
 
 ## 休載中
@@ -154,7 +154,7 @@ Factory的](../Page/Media_Factory.md "wikilink")[漫畫雜誌](../Page/漫畫雜
   - [ハニーコスモス](https://zh.wikipedia.org/wiki/ハニーコスモス "wikilink")（）2006年8月號
     - 2007年4月號、全7話
 
-  - （[吉岡榊](https://zh.wikipedia.org/wiki/吉岡榊 "wikilink")）全3卷
+  - （[吉岡榊](../Page/吉岡榊.md "wikilink")）全3卷
 
   - [はんな of the
     Z](https://zh.wikipedia.org/wiki/はんな_of_the_Z "wikilink")（）全2卷
@@ -187,7 +187,7 @@ Factory的](../Page/Media_Factory.md "wikilink")[漫畫雜誌](../Page/漫畫雜
 
   - [戀愛遊星](https://zh.wikipedia.org/wiki/戀愛遊星 "wikilink")（[倉橋柚須](https://zh.wikipedia.org/wiki/倉橋柚須 "wikilink")）全1卷
 
-  - [羅賽達～薔薇聖十字騎士～](https://zh.wikipedia.org/wiki/羅賽達～薔薇聖十字騎士～ "wikilink")（[吉岡榊](https://zh.wikipedia.org/wiki/吉岡榊 "wikilink")）全2卷
+  - [羅賽達～薔薇聖十字騎士～](https://zh.wikipedia.org/wiki/羅賽達～薔薇聖十字騎士～ "wikilink")（[吉岡榊](../Page/吉岡榊.md "wikilink")）全2卷
 
 ### 多媒體跨平台作品
 

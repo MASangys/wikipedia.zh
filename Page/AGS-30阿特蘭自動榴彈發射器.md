@@ -1,4 +1,4 @@
-**AGS-30**（\[1\]；Атлант，，意為：阿特蘭；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）是一挻由[前苏联](../Page/苏联.md "wikilink")（現在是[俄罗斯](../Page/俄罗斯.md "wikilink")）[KBP儀器設計廠所研製及生產的](../Page/俄联邦仪器设计局.md "wikilink")30毫米[自動榴弹发射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，是[AGS-17的改進型](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")，發射[無彈殼](../Page/無殼彈.md "wikilink")[榴彈](https://zh.wikipedia.org/wiki/榴彈 "wikilink")。
+**AGS-30**（\[1\]；Атлант，，意為：阿特蘭；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）是一挻由[前苏联](../Page/苏联.md "wikilink")（現在是[俄罗斯](../Page/俄罗斯.md "wikilink")）[KBP儀器設計廠所研製及生產的](../Page/俄联邦仪器设计局.md "wikilink")30毫米[自動榴弹发射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，是[AGS-17的改進型](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")，發射[無彈殼](../Page/無殼彈.md "wikilink")[榴彈](https://zh.wikipedia.org/wiki/榴彈 "wikilink")。
 
 AGS-30可裝設在[三腳架](https://zh.wikipedia.org/wiki/三腳架 "wikilink")、[车辆](https://zh.wikipedia.org/wiki/车辆 "wikilink")、[船隻和](../Page/船.md "wikilink")[直升機以上使用](https://zh.wikipedia.org/wiki/直升機 "wikilink")。其設計的目的是摧毀敵方人員及載具，以保護使用方的步兵連。AGS-30已經被[俄羅斯軍隊所採用](https://zh.wikipedia.org/wiki/俄羅斯軍事 "wikilink")。
 
@@ -10,7 +10,7 @@ AGS-30使用改進型的[後座作用原理的槍機結構](../Page/後座作用
 
 AGS-30的榴彈都裝在一具重量大約是14公斤（30.86磅）的金屬製[彈鼓內](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，並且以[不可散式彈鏈連接在一起](../Page/彈鏈.md "wikilink")。使用時彈鼓會鉤掛在[機匣右側以防止掉落](https://zh.wikipedia.org/wiki/機匣 "wikilink")。彈鼓標準容量為30發榴彈（有異說為29發）。使用特別設計的改進型榴彈以後，AGS-30可以攻擊2,300公尺（2,515.31码）的主要目標並且造成極端的殺傷力。
 
-AGS-30的[三腳架為](https://zh.wikipedia.org/wiki/三腳架 "wikilink")**SAG-30**（[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：），配有良好的平整[彈道功能](../Page/弹道学.md "wikilink")，由其是提供間接火力的時候。不使用的時候亦可將其摺疊以便運輸和攜帶。有意思的是，和AGS-17的三腳架的相異之處就是扳機位於右側的握把，而握把則安裝在不可或缺的三腳架搖架上，而不是直接安裝在槍體上，這是為了射擊時更容易控制和舒適。
+AGS-30的[三腳架為](https://zh.wikipedia.org/wiki/三腳架 "wikilink")**SAG-30**（[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：），配有良好的平整[彈道功能](../Page/弹道学.md "wikilink")，由其是提供間接火力的時候。不使用的時候亦可將其摺疊以便運輸和攜帶。有意思的是，和AGS-17的三腳架的相異之處就是扳機位於右側的握把，而握把則安裝在不可或缺的三腳架搖架上，而不是直接安裝在槍體上，這是為了射擊時更容易控制和舒適。
 
 AGS-30可裝上[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，[放大倍率為](https://zh.wikipedia.org/wiki/望远镜放大倍数 "wikilink")2.7倍，並具有夜間照明的功能，瞄準鏡拆卸以後可放在專用攜行袋內。
 
@@ -74,9 +74,8 @@ AGS-30和[AGS-17一樣發射](../Page/AGS-17烈火自動榴彈發射器.md "wiki
   - [RG-6轉輪式榴彈發射器](../Page/RG-6轉輪式榴彈發射器.md "wikilink")
   - [AGS-40／6G27自動榴彈發射器](../Page/AGS-40巴爾幹自動榴彈發射器.md "wikilink")
   - [DP-64榴彈發射器](../Page/DP-64榴彈發射器.md "wikilink")
-  - [扎斯塔瓦M93
-    BGA自動榴彈發射器](https://zh.wikipedia.org/wiki/扎斯塔瓦M93_BGA自動榴彈發射器 "wikilink")
-  - [XM174自動榴彈發射器](https://zh.wikipedia.org/wiki/XM174自動榴彈發射器 "wikilink")
+  - [扎斯塔瓦M93 BGA自動榴彈發射器](../Page/扎斯塔瓦M93_BGA自動榴彈發射器.md "wikilink")
+  - [XM174自動榴彈發射器](../Page/XM174自動榴彈發射器.md "wikilink")
   - [Mk
     19自動榴彈發射器](../Page/Mk_19自動榴彈發射器.md "wikilink")，由[美国](../Page/美国.md "wikilink")[通用动力製造的自動榴彈發射器](../Page/通用动力.md "wikilink")
   - [Mk 47自動榴彈發射器](../Page/Mk_47自動榴彈發射器.md "wikilink")

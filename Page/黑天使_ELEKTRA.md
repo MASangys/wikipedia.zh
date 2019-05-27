@@ -39,13 +39,13 @@ Abby Miller</p></td>
 <td><p>為殺手集團「魔掌派」的總舵及鬼蟀的父親。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李威尹" title="wikilink">李威尹</a></p></td>
+<td><p><a href="../Page/李威尹.md" title="wikilink">李威尹</a></p></td>
 <td><p>鬼蟀</p></td>
 <td><p>為殺手集團「魔掌派」的殺手及「魔掌派」總舵的兒子。</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/棍叟_(漫畫)" title="wikilink">棍叟</a></p></td>
+<td><p><a href="../Page/棍叟_(漫畫).md" title="wikilink">棍叟</a></p></td>
 <td><p>為伊蕾莎及艾比·米勒的師父。</p></td>
 </tr>
 <tr class="odd">

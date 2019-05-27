@@ -132,7 +132,7 @@ Tous Les Jours**》。\[5\]
 <!-- end list -->
 
   -
-    聲：山田葵／[飯塚昭三](https://zh.wikipedia.org/wiki/飯塚昭三 "wikilink")
+    聲：山田葵／[飯塚昭三](../Page/飯塚昭三.md "wikilink")
     在Winford學園馬廄照顧馬匹的老年男性。
 
 <!-- end list -->

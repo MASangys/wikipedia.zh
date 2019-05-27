@@ -40,11 +40,11 @@ compatibility](https://zh.wikipedia.org/wiki/binary_code_compatibility "wikilink
 
 对于 [FreeBSD](../Page/FreeBSD.md "wikilink")，SMPlayer is available for
 installation from source via the [ports
-tree](https://zh.wikipedia.org/wiki/FreeBSD_Ports "wikilink") and also
-available as binary packages for most major FreeBSD releases. 对于
+tree](../Page/FreeBSD_Ports.md "wikilink") and also available as binary
+packages for most major FreeBSD releases. 对于
 [FreeBSD](../Page/FreeBSD.md "wikilink")，SMPlayer 可以通过 [ports
-tree](https://zh.wikipedia.org/wiki/FreeBSD_Ports "wikilink") 从源码安装，
-大多数主流 FreeBSD 发行版也提供了二进制版本。
+tree](../Page/FreeBSD_Ports.md "wikilink") 从源码安装， 大多数主流 FreeBSD
+发行版也提供了二进制版本。
 
 [OpenBSD](../Page/OpenBSD.md "wikilink") 也在 [ports
 collection](https://zh.wikipedia.org/wiki/ports_collection "wikilink")

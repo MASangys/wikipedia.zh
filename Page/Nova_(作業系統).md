@@ -12,7 +12,7 @@ Rodriguez）說「自由軟件運動更接近古巴人民的思想意識——�
 Nova第一個版本源於[Gentoo
 Linux](../Page/Gentoo_Linux.md "wikilink")，並以Baire為開發代號；而Nova
 2.1桌面版則源於[Ubuntu](../Page/Ubuntu.md "wikilink")\[16\]\[17\]。Nova
-Escritorio是資訊科學大學開發的[辦公室套件](https://zh.wikipedia.org/wiki/辦公室套件 "wikilink")，以取代[Microsoft
+Escritorio是資訊科學大學開發的[辦公室套件](../Page/辦公室套件.md "wikilink")，以取代[Microsoft
 Office為目標](../Page/Microsoft_Office.md "wikilink")\[18\]。
 
 ## 版本
@@ -78,7 +78,7 @@ Office為目標](../Page/Microsoft_Office.md "wikilink")\[18\]。
 
 ## 參見
 
-  - [Linux的採用](https://zh.wikipedia.org/wiki/Linux的採用 "wikilink")
+  - [Linux的採用](../Page/Linux的採用.md "wikilink")
   - [紅旗Linux](../Page/紅旗Linux.md "wikilink")
   - [紅星作業系統](../Page/紅星作業系統.md "wikilink")
 

@@ -220,7 +220,7 @@ Cube娛樂，常用外號為**United Cube**。
   - [BTOB](../Page/BTOB.md "wikilink")
   - [CLC](../Page/CLC.md "wikilink")
   - [PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")
-  - [(G)I-DLE](https://zh.wikipedia.org/wiki/\(G\)I-DLE "wikilink")
+  - [(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")
   - [開往秋天的列車](https://zh.wikipedia.org/wiki/開往秋天的列車 "wikilink")
 
 ### SOLO
@@ -228,15 +228,15 @@ Cube娛樂，常用外號為**United Cube**。
   - [趙權](../Page/趙權.md "wikilink")
   - [張賢勝](../Page/張賢勝.md "wikilink")
   - [柳善皓](https://zh.wikipedia.org/wiki/柳善皓 "wikilink")
-  - [賴冠霖](https://zh.wikipedia.org/wiki/賴冠霖 "wikilink")
+  - [賴冠霖](../Page/賴冠霖.md "wikilink")
 
 ### 子團
 
-  - [BTOB－BLUE](https://zh.wikipedia.org/wiki/BTOB－BLUE "wikilink")
+  - [BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")
 
 ### 企劃組合
 
-  - [禹奭 X 冠霖](https://zh.wikipedia.org/wiki/禹奭_X_冠霖 "wikilink")
+  - [禹奭 X 冠霖](../Page/禹奭_X_冠霖.md "wikilink")
 
 ### 演員
 
@@ -259,7 +259,7 @@ Cube娛樂，常用外號為**United Cube**。
 
 <!-- end list -->
 
-  - [趙旴燦](https://zh.wikipedia.org/wiki/趙旴燦 "wikilink")（05年，童星，公開練習生，[SMTM6](https://zh.wikipedia.org/wiki/SMTM6 "wikilink")）
+  - [趙旴燦](../Page/趙旴燦.md "wikilink")（05年，童星，公開練習生，[SMTM6](https://zh.wikipedia.org/wiki/SMTM6 "wikilink")）
   - [李宗元](https://zh.wikipedia.org/wiki/李宗元_\(歌手\) "wikilink")（04年，童星，公開練習生，[Under
     Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")）\[103\]
   - Oscar，OSC（公開練習生）\[104\]
@@ -273,10 +273,9 @@ Cube娛樂，常用外號為**United Cube**。
 
 <!-- end list -->
 
-  - 李珠賢（04年，已簽專屬合約，[The
-    Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")）
+  - 李珠賢（04年，已簽專屬合約，[The Unit](../Page/The_Unit.md "wikilink")）
   - 韓初媛（02年，童星，公開練習生\[108\]，[PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")）
+    48](../Page/PRODUCE_48.md "wikilink")）
   - 劉佳乙（04年，DEF SCHOOL）\[109\]\[110\]\[111\]
   - 姜娜允
   - 金彩玄
@@ -293,7 +292,7 @@ Cube娛樂，常用外號為**United Cube**。
   - [4minute](../Page/4minute.md "wikilink")（2009-2016） \[112\]\[113\]
       - [智贤](https://zh.wikipedia.org/wiki/南智贤 "wikilink")（2009-2016）
       - [嘉允](https://zh.wikipedia.org/wiki/许嘉允 "wikilink")（2009-2016）
-      - [祉潤](https://zh.wikipedia.org/wiki/田祉潤 "wikilink")（2009-2016）
+      - [祉潤](../Page/田祉潤.md "wikilink")（2009-2016）
       - [昭贤](https://zh.wikipedia.org/wiki/权昭贤 "wikilink")（2009-2016）
       - [泫雅](../Page/金泫雅.md "wikilink")（2009-2018）
   - [BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")（2009-2016）\[114\]
@@ -302,9 +301,7 @@ Cube娛樂，常用外號為**United Cube**。
 
   - [2Yoon](../Page/2Yoon.md "wikilink")（2013 - 2016）
   - [Trouble Maker](../Page/Trouble_Maker.md "wikilink")（2011 - 2018）
-  - [Triple
-    H](https://zh.wikipedia.org/wiki/Triple_H_\(企劃組合\) "wikilink")（2017
-    - 2018）
+  - [Triple H](../Page/Triple_H_\(企劃組合\).md "wikilink")（2017 - 2018）
 
 ### 歌手/藝人
 
@@ -328,7 +325,7 @@ Cube娛樂，常用外號為**United Cube**。
 
   - （2012－2018） \[125\]
 
-  - [金曉鐘](https://zh.wikipedia.org/wiki/金曉鐘 "wikilink")（2016－2018）
+  - [金曉鐘](../Page/金曉鐘.md "wikilink")（2016－2018）
 
 ### 練習生
 
@@ -340,22 +337,22 @@ Cube娛樂，常用外號為**United Cube**。
   - [宰孝](../Page/宰孝.md "wikilink")（[Block
     B](../Page/Block_B.md "wikilink")）
   - 趙達沅（VARSITY）
-  - [鄭秀彬](https://zh.wikipedia.org/wiki/VICTON "wikilink")（[VICTON](https://zh.wikipedia.org/wiki/VICTON "wikilink")）
-  - 申在勳（[Under dog](https://zh.wikipedia.org/wiki/Under_dog "wikilink")）
-  - [瑄友](https://zh.wikipedia.org/wiki/少年共和國 "wikilink")（[少年共和國](https://zh.wikipedia.org/wiki/少年共和國 "wikilink")）
+  - [鄭秀彬](../Page/VICTON.md "wikilink")（[VICTON](../Page/VICTON.md "wikilink")）
+  - 申在勳（[Under dog](../Page/Under_dog.md "wikilink")）
+  - [瑄友](../Page/少年共和國.md "wikilink")（[少年共和國](../Page/少年共和國.md "wikilink")）
   - [T.K](../Page/C-CLOWN.md "wikilink")（[C-CLOWN](../Page/C-CLOWN.md "wikilink")）
-  - [秦奮](https://zh.wikipedia.org/wiki/THE_LEGEND "wikilink")（[THE
-    LEGEND](https://zh.wikipedia.org/wiki/THE_LEGEND "wikilink")、
+  - [秦奮](../Page/THE_LEGEND.md "wikilink")（[THE
+    LEGEND](../Page/THE_LEGEND.md "wikilink")、
     《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）
-  - [Lito](https://zh.wikipedia.org/wiki/THE_LEGEND "wikilink")（[THE
-    LEGEND](https://zh.wikipedia.org/wiki/THE_LEGEND "wikilink")）
-  - [劉在赫](https://zh.wikipedia.org/wiki/THE_LEGEND "wikilink")（[THE
-    LEGEND](https://zh.wikipedia.org/wiki/THE_LEGEND "wikilink")）
-  - [李昌宣](https://zh.wikipedia.org/wiki/THE_LEGEND "wikilink")（[THE
-    LEGEND](https://zh.wikipedia.org/wiki/THE_LEGEND "wikilink")）
-  - [金昇勳](https://zh.wikipedia.org/wiki/金昇勳 "wikilink")（《[YG寶石盒](https://zh.wikipedia.org/wiki/YG寶石盒 "wikilink")》、[C9BOYZ](https://zh.wikipedia.org/wiki/C9BOYZ "wikilink")）
-  - [崔連準](https://zh.wikipedia.org/wiki/崔延俊 "wikilink")（[TXT](https://zh.wikipedia.org/wiki/TXT_\(組合\) "wikilink")）
-  - [李希侃](https://zh.wikipedia.org/wiki/李希侃 "wikilink")（公開練習生、《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）\[126\]
+  - [Lito](../Page/THE_LEGEND.md "wikilink")（[THE
+    LEGEND](../Page/THE_LEGEND.md "wikilink")）
+  - [劉在赫](../Page/THE_LEGEND.md "wikilink")（[THE
+    LEGEND](../Page/THE_LEGEND.md "wikilink")）
+  - [李昌宣](../Page/THE_LEGEND.md "wikilink")（[THE
+    LEGEND](../Page/THE_LEGEND.md "wikilink")）
+  - [金昇勳](../Page/金昇勳.md "wikilink")（《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》、[C9BOYZ](../Page/C9BOYZ.md "wikilink")）
+  - [崔連準](../Page/崔延俊.md "wikilink")（[TXT](../Page/TXT_\(組合\).md "wikilink")）
+  - [李希侃](../Page/李希侃.md "wikilink")（公開練習生、《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）\[126\]
   - \-{余}-明君（《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）\[127\]\[128\]
   - 朴泰正（《[看見你的聲音
     第4季](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》）\[129\]
@@ -372,14 +369,14 @@ Cube娛樂，常用外號為**United Cube**。
   - [韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")（SOLO）
   - [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")（除率智以外全員）
   - [Yuju](../Page/Yuju.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")）
-  - [Yerin](https://zh.wikipedia.org/wiki/Yerin "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")）
+  - [Yerin](../Page/Yerin.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")）
   - [SOYEE](https://zh.wikipedia.org/wiki/gu9udan "wikilink")（現[gu9udan成員](https://zh.wikipedia.org/wiki/gu9udan "wikilink")、曾為[Apink](../Page/Apink.md "wikilink")、[CLC預備成員](../Page/CLC.md "wikilink")）
   - [Ashley](../Page/Ladies'_Code.md "wikilink")（[Ladies'
     Code](../Page/Ladies'_Code.md "wikilink")）
   - 柳秀兒（OAHSIS（原名SEEART）、[Aqua](https://zh.wikipedia.org/wiki/Aqua "wikilink")、[PRODUCE
     101](../Page/PRODUCE_101.md "wikilink")）
-  - [苞娜](https://zh.wikipedia.org/wiki/苞娜 "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")）
-  - 丁海梨（[P.O.P](https://zh.wikipedia.org/wiki/P.O.P "wikilink")）
+  - [苞娜](../Page/苞娜.md "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")）
+  - 丁海梨（[P.O.P](../Page/P.O.P.md "wikilink")）
   - 李允書（《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》）
   - 徐惠璘（《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》）
   - 高序炫（[CLC預備成員](../Page/CLC.md "wikilink")）\[131\]
@@ -404,7 +401,7 @@ Cube娛樂，常用外號為**United Cube**。
 ### MUSIC CUBE
 
 **MUSIC
-CUBE**（）是獨立營運的音樂著作權公司，2005年8月18日於韓國創辦，主要經營音樂產品的出版製作、統籌發行、視覺設計、著作權管理，總部位於[首爾市](https://zh.wikipedia.org/wiki/首爾 "wikilink")[江南區](https://zh.wikipedia.org/wiki/江南區 "wikilink")，公司代表為申景和（）。\[162\]
+CUBE**（）是獨立營運的音樂著作權公司，2005年8月18日於韓國創辦，主要經營音樂產品的出版製作、統籌發行、視覺設計、著作權管理，總部位於[首爾市](../Page/首爾.md "wikilink")[江南區](https://zh.wikipedia.org/wiki/江南區 "wikilink")，公司代表為申景和（）。\[162\]
 
 **MUSIC CUBE JAPAN**是MUSIC
 CUBE旗下的日本子公司，2009年1月21日於日本創辦，主要經營音樂產品的製作開發、推廣發行、著作權管理等，總部位於東京都港区南麻布。\[163\]
@@ -488,9 +485,7 @@ CUBE TV，節目有[BTOB的](../Page/BTOB.md "wikilink")《BTOB
 SHOW》、[CLC的](../Page/CLC.md "wikilink")《CLC's Beautiful
 Mission》、[Pentagon的](../Page/Pentagon_\(男子組合\).md "wikilink")《[Pentagon
 maker](https://zh.wikipedia.org/wiki/PENTAGON_MAKER "wikilink")》、
-[Triple
-H的](https://zh.wikipedia.org/wiki/Triple_H_\(企劃組合\) "wikilink")《[Triple
-H
+[Triple H的](../Page/Triple_H_\(企劃組合\).md "wikilink")《[Triple H
 興新所](https://zh.wikipedia.org/wiki/Triple_H_興新所 "wikilink")》、網絡劇《[Spark](../Page/Spark_\(電視劇\).md "wikilink")》等等。
 \[172\] {{-}}
 
@@ -572,7 +567,7 @@ H
 </tr>
 <tr class="even">
 <td><p>2018年6月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/United_Cube_-_ONE_(單曲)" title="wikilink">2018 United Cube One</a></p></td>
+<td><p><a href="../Page/United_Cube_-_ONE_(單曲).md" title="wikilink">2018 United Cube One</a></p></td>
 <td><p>Upgrade</p></td>
 <td><p>金泫雅、趙權、BTOB、CLC、PENTAGON、柳善晧、(G)I-DLE</p></td>
 <td></td>

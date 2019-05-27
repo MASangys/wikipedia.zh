@@ -92,8 +92,7 @@ Heart～》，主打曲《Alive or Fallen》。
 8月25日，於東京國際論壇舉辦的《MYNAME LIVE 2017\~由再見開始的 STORY\~》演唱會\[40\]。
 9月6日，仁秀發行首張SOLO日文迷你專輯《NAKED》
 10月26日，仁秀在位忠清南道的論山訓練所入伍，完成基礎軍事訓練後服役。
-10月28日，其餘成員出演KBS選秀節目《[The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》。
+10月28日，其餘成員出演KBS選秀節目《[The Unit](../Page/The_Unit.md "wikilink")》。
 
 ## 影視作品
 
@@ -116,24 +115,24 @@ Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》。
 
 ### 綜藝節目
 
-|                         |             |                                                                 |             |              |
-| ----------------------- | ----------- | --------------------------------------------------------------- | ----------- | ------------ |
-| 日期                      | 頻道          | 節目                                                              | 參與成員        | 備註           |
-| 2011年10月25日－2011年12月25日 | SBS MTV     | 《Ta-Dah\! It's MYNAME》                                          | 全體          | 共九集\[41\]    |
-| 2011年11月25日             | MTV         | 《Let Me Show》                                                   |             |              |
-| 2011年11月26日             | Arirang     | 《Pops in Seoul - Pops Star Talk》                                |             |              |
-| 2011年12月24日             | JTBC        | 《Surprise Dream Project》                                        |             | 第4集          |
-| 2011年12月24日             | MBC         | 《改變世界的問題》                                                       | 建雨、世容       | 第135集        |
-| 2012年2月2日               | SBS MTV     | 《Studio C》                                                      |             | 第10集         |
-| 2012年2月23日              | MBC 特別生放送   | 《2012 分享美味\! 愛的食物銀行》                                            |             |              |
-| 2012年3月24日              | Y-Star      | 《食神之路》                                                          | 仁秀、世容       | 第70集         |
-| 2012年6月16日              | MBC         | 《改變世界的問題》                                                       | 全體          | 第135集 \[42\] |
-| 2012年6月25日              | MTV         | 《Diary》                                                         | 全體          | \[43\]\[44\] |
-| 2012年12月5日              | KBS         | 《強心臟》                                                           | 全體          | \[45\]       |
-| 2012年12月5日              | 日本 Tokyo MX | 《MYNAME 的 W 廚房》                                                 | 全體          | \[46\]       |
-| 2016年9月7日-2016年9月14日    | Mnet        | 《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》          | 世容          |              |
-| 2017年10月28日－2018年2月10日  | KBS         | 《[The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》 | 建雨、世容、俊Q、蔡晉 |              |
-| 2018年10月4日              | kakao TV    | 《清潭key廚》                                                        | 蔡晉          | 第5集          |
+|                         |             |                                                        |             |              |
+| ----------------------- | ----------- | ------------------------------------------------------ | ----------- | ------------ |
+| 日期                      | 頻道          | 節目                                                     | 參與成員        | 備註           |
+| 2011年10月25日－2011年12月25日 | SBS MTV     | 《Ta-Dah\! It's MYNAME》                                 | 全體          | 共九集\[41\]    |
+| 2011年11月25日             | MTV         | 《Let Me Show》                                          |             |              |
+| 2011年11月26日             | Arirang     | 《Pops in Seoul - Pops Star Talk》                       |             |              |
+| 2011年12月24日             | JTBC        | 《Surprise Dream Project》                               |             | 第4集          |
+| 2011年12月24日             | MBC         | 《改變世界的問題》                                              | 建雨、世容       | 第135集        |
+| 2012年2月2日               | SBS MTV     | 《Studio C》                                             |             | 第10集         |
+| 2012年2月23日              | MBC 特別生放送   | 《2012 分享美味\! 愛的食物銀行》                                   |             |              |
+| 2012年3月24日              | Y-Star      | 《食神之路》                                                 | 仁秀、世容       | 第70集         |
+| 2012年6月16日              | MBC         | 《改變世界的問題》                                              | 全體          | 第135集 \[42\] |
+| 2012年6月25日              | MTV         | 《Diary》                                                | 全體          | \[43\]\[44\] |
+| 2012年12月5日              | KBS         | 《強心臟》                                                  | 全體          | \[45\]       |
+| 2012年12月5日              | 日本 Tokyo MX | 《MYNAME 的 W 廚房》                                        | 全體          | \[46\]       |
+| 2016年9月7日-2016年9月14日    | Mnet        | 《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》 | 世容          |              |
+| 2017年10月28日－2018年2月10日  | KBS         | 《[The Unit](../Page/The_Unit.md "wikilink")》           | 建雨、世容、俊Q、蔡晉 |              |
+| 2018年10月4日              | kakao TV    | 《清潭key廚》                                               | 蔡晉          | 第5集          |
 
 **KBS 《出發吧！夢之隊》第二季**
 
@@ -213,12 +212,12 @@ Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》。
 
 ### 其他音樂錄影帶
 
-|        |                                                               |                                                               |             |              |              |
-| ------ | ------------------------------------------------------------- | ------------------------------------------------------------- | ----------- | ------------ | ------------ |
-| 年份     | 發布日期                                                          | 歌手/企劃                                                         | 歌曲名稱        | 參與成員         | 連結/備註        |
-| 2017年  | 10月16日                                                        | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | My Turn     | 建雨、世容、俊Q、蔡晉  | \[76\]\[77\] |
-| 10月23日 | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | Last One                                                      | 建雨、世容、俊Q、蔡晉 | \[78\]\[79\] |              |
-| 11月18日 | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | My Turn (Edition version)                                     | 建雨、世容、俊Q、蔡晉 | \[80\]       |              |
+|        |                                            |                                            |             |              |              |
+| ------ | ------------------------------------------ | ------------------------------------------ | ----------- | ------------ | ------------ |
+| 年份     | 發布日期                                       | 歌手/企劃                                      | 歌曲名稱        | 參與成員         | 連結/備註        |
+| 2017年  | 10月16日                                     | [The Unit](../Page/The_Unit.md "wikilink") | My Turn     | 建雨、世容、俊Q、蔡晉  | \[76\]\[77\] |
+| 10月23日 | [The Unit](../Page/The_Unit.md "wikilink") | Last One                                   | 建雨、世容、俊Q、蔡晉 | \[78\]\[79\] |              |
+| 11月18日 | [The Unit](../Page/The_Unit.md "wikilink") | My Turn (Edition version)                  | 建雨、世容、俊Q、蔡晉 | \[80\]       |              |
 
 ## 音樂作品
 
@@ -518,14 +517,14 @@ Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》。
 
 ### 其他歌曲
 
-| 日期          | 專輯 / 歌曲                                 | 歌手 / 企劃                                                       | 參與成員        | 備註 |
-| ----------- | --------------------------------------- | ------------------------------------------------------------- | ----------- | -- |
-| 2017年10月13日 | THE UNI+ - My turn                      | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | 建雨、世容、俊Q、蔡晉 |    |
-| 2017年10月20日 | THE UNI+ - Last One                     | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | 建雨、世容、俊Q、蔡晉 |    |
-| 2018年1月14日  | THE UNI+ B STEP 1 - You're Mine         | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | 俊Q          |    |
-| 2018年1月14日  | THE UNI+ B STEP 1 - My Story            | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | 世容          |    |
-| 2018年2月10日  | THE UNI+ FINAL - PRESENT                | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | 世容          |    |
-| 2018年2月10日  | THE UNI+ FINAL - Dancing with the Devil | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | 世容          |    |
+| 日期          | 專輯 / 歌曲                                 | 歌手 / 企劃                                    | 參與成員        | 備註 |
+| ----------- | --------------------------------------- | ------------------------------------------ | ----------- | -- |
+| 2017年10月13日 | THE UNI+ - My turn                      | [The Unit](../Page/The_Unit.md "wikilink") | 建雨、世容、俊Q、蔡晉 |    |
+| 2017年10月20日 | THE UNI+ - Last One                     | [The Unit](../Page/The_Unit.md "wikilink") | 建雨、世容、俊Q、蔡晉 |    |
+| 2018年1月14日  | THE UNI+ B STEP 1 - You're Mine         | [The Unit](../Page/The_Unit.md "wikilink") | 俊Q          |    |
+| 2018年1月14日  | THE UNI+ B STEP 1 - My Story            | [The Unit](../Page/The_Unit.md "wikilink") | 世容          |    |
+| 2018年2月10日  | THE UNI+ FINAL - PRESENT                | [The Unit](../Page/The_Unit.md "wikilink") | 世容          |    |
+| 2018年2月10日  | THE UNI+ FINAL - Dancing with the Devil | [The Unit](../Page/The_Unit.md "wikilink") | 世容          |    |
 
 ## 音樂現場
 

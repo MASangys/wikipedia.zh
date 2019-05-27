@@ -42,11 +42,10 @@ workgroup\admin
 
   - [`logname`](https://zh.wikipedia.org/wiki/logname "wikilink")
   - [`id`](https://zh.wikipedia.org/wiki/Id_\(Unix\) "wikilink")
-  - [`who`](https://zh.wikipedia.org/wiki/Who_\(Unix\) "wikilink")
+  - [`who`](../Page/Who_\(Unix\).md "wikilink")
   - [用户ID (Unix)](../Page/用户ID.md "wikilink")
   - [Unix 实用程序列表](../Page/Unix实用程序列表.md "wikilink")
-  - [GNU
-    核心工具组命令列表](https://zh.wikipedia.org/wiki/GNU核心工具组命令列表 "wikilink")
+  - [GNU 核心工具组命令列表](../Page/GNU核心工具组命令列表.md "wikilink")
 
 ## 参考内容
 

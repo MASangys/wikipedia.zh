@@ -152,7 +152,7 @@
   - 原作 -
     [矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
   - 制片人- 佐藤弘幸
-  - 監督 - [森邦宏](https://zh.wikipedia.org/wiki/森邦宏 "wikilink")、鈴木健一
+  - 監督 - [森邦宏](../Page/森邦宏.md "wikilink")、鈴木健一
   - 系列构成 - [浦畑達彦](https://zh.wikipedia.org/wiki/浦畑達彦 "wikilink")
   - SD设计 - 寺島慎也
   - 色彩設計 - 熊谷妙子
@@ -161,7 +161,7 @@
   - 音響監督 - [藤野貞義](https://zh.wikipedia.org/wiki/藤野貞義 "wikilink")
   - 音楽 - [吉川慶](https://zh.wikipedia.org/wiki/吉川慶 "wikilink")
   - 編集 - 吉武将人
-  - 製作 - サンライズ、[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")
+  - 製作 - サンライズ、[創通](../Page/創通.md "wikilink")
 
 ### 主題曲
 
@@ -340,7 +340,7 @@
 <td><p>新天地</p></td>
 <td><p>岸本みゆき</p></td>
 <td><p>小島正士</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">小坂春女</a></p></td>
+<td><p><a href="../Page/小坂春女.md" title="wikilink">小坂春女</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -393,7 +393,7 @@
 <td><p>{{lang|ja|天と地</p></td>
 <td><p>浦畑達彦}}</p></td>
 <td><p>天与地</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/青木康直" title="wikilink">青木康直</a></p></td>
+<td><p><a href="../Page/青木康直.md" title="wikilink">青木康直</a></p></td>
 <td><p>井上ジェット</p></td>
 <td></td>
 </tr>

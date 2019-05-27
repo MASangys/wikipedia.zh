@@ -1,5 +1,5 @@
 **JTB
-Entertainment**是[日本的演藝](../Page/日本.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，是[旅行社](https://zh.wikipedia.org/wiki/旅行社 "wikilink")[JTB的關係企業](https://zh.wikipedia.org/wiki/JTB "wikilink")。主要是負責[聲優](../Page/聲優.md "wikilink")、[藝人的經紀工作以及策劃活動](https://zh.wikipedia.org/wiki/藝人 "wikilink")，運營會員俱樂部。
+Entertainment**是[日本的演藝](../Page/日本.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，是[旅行社](https://zh.wikipedia.org/wiki/旅行社 "wikilink")[JTB的關係企業](../Page/JTB.md "wikilink")。主要是負責[聲優](../Page/聲優.md "wikilink")、[藝人的經紀工作以及策劃活動](https://zh.wikipedia.org/wiki/藝人 "wikilink")，運營會員俱樂部。
 
 2007年6月12日，JTB進入演藝行業而設立，同時開設了培育聲優的學校[JTB Entertainment
 Academy](https://zh.wikipedia.org/wiki/JTB_Entertainment_Academy "wikilink")。

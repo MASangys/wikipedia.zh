@@ -25,7 +25,7 @@ Protection）申请[破产保护](https://zh.wikipedia.org/wiki/破产保护 "wi
 ## 相关条目
 
   - [THQ
-    Nordic](https://zh.wikipedia.org/wiki/THQ_Nordic "wikilink")：奥地利的一家游戏公司，在THQ破产后购得其品牌名称和LOGO。
+    Nordic](../Page/THQ_Nordic.md "wikilink")：奥地利的一家游戏公司，在THQ破产后购得其品牌名称和LOGO。
 
 ## 外部链接
 

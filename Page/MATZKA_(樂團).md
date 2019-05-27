@@ -110,15 +110,11 @@ hot的發音，於是在大家共同討論之下，在2010年正式改名為MATZ
 
 ### 電影
 
-  - 2018年
-    《[花甲大人轉男孩](https://zh.wikipedia.org/wiki/花甲大人轉男孩 "wikilink")》Matzka玛斯卡
-    飾演 黑松
+  - 2018年 《[花甲大人轉男孩](../Page/花甲大人轉男孩.md "wikilink")》Matzka玛斯卡 飾演 黑松
 
 ### 電視劇
 
-  - 2018年
-    《[三明治女孩的逆襲](https://zh.wikipedia.org/wiki/三明治女孩的逆襲 "wikilink")》
-    Matzka玛斯卡 飾演 瑪斯卡
+  - 2018年 《[三明治女孩的逆襲](../Page/三明治女孩的逆襲.md "wikilink")》 Matzka玛斯卡 飾演 瑪斯卡
 
 ## 注釋
 

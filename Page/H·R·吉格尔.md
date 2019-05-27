@@ -52,7 +52,7 @@
 
   - 《[黑暗之蠱](https://zh.wikipedia.org/wiki/黑暗之蠱 "wikilink")》與它的續作《[黑暗之蠱2](https://zh.wikipedia.org/wiki/黑暗之蠱2 "wikilink")》這兩款都是[冒险游戏](../Page/冒险游戏.md "wikilink")。其平台有[Amiga](../Page/Amiga.md "wikilink")、[Amiga
     CD32](https://zh.wikipedia.org/wiki/Amiga_CD32 "wikilink")、
-    [Macintosh以及](https://zh.wikipedia.org/wiki/Macintosh "wikilink")[電腦等版本](https://zh.wikipedia.org/wiki/電腦 "wikilink")，由[Cyberdreams公司授權發行](https://zh.wikipedia.org/wiki/Cyberdreams "wikilink")。在日本，還發行過[PlayStation和](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[Saturn的版本](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")。
+    [Macintosh以及](https://zh.wikipedia.org/wiki/Macintosh "wikilink")[電腦等版本](https://zh.wikipedia.org/wiki/電腦 "wikilink")，由[Cyberdreams公司授權發行](https://zh.wikipedia.org/wiki/Cyberdreams "wikilink")。在日本，還發行過[PlayStation和](../Page/PlayStation.md "wikilink")[Saturn的版本](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")。
 
 ## 參考資料
 

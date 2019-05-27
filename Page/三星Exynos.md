@@ -2,7 +2,7 @@
 
 Exynos絕大多數只用在[三星Galaxy系列產品](../Page/三星Galaxy.md "wikilink")，除了[魅族以外很少有其它厂商採用](https://zh.wikipedia.org/wiki/魅族 "wikilink")。\[2\]
 
-2016年[安兔兔第二季度的报告指出](https://zh.wikipedia.org/wiki/安兔兔 "wikilink")，[Android阵营高跑分手机中多为使用骁龙和Exynos芯片](../Page/Android.md "wikilink")，此一現象直到兩年後[華為新款](https://zh.wikipedia.org/wiki/華為 "wikilink")[麒麟處理器出現後才打破](../Page/海思半導體.md "wikilink")。\[3\]
+2016年[安兔兔第二季度的报告指出](../Page/安兔兔.md "wikilink")，[Android阵营高跑分手机中多为使用骁龙和Exynos芯片](../Page/Android.md "wikilink")，此一現象直到兩年後[華為新款](https://zh.wikipedia.org/wiki/華為 "wikilink")[麒麟處理器出現後才打破](../Page/海思半導體.md "wikilink")。\[3\]
 
 ## 背景介绍
 
@@ -353,7 +353,7 @@ Chromebook 11, Samsung Homesync |- | Exynos 5 Octa\[40\]\[41\]\[42\]
 *(Exynos 5410)* |
 [28 nm](https://zh.wikipedia.org/wiki/28_nanometer "wikilink") HKMG |
 [Cortex-A15](https://zh.wikipedia.org/wiki/ARM_Cortex-A15 "wikilink")+
-[Cortex-A7](https://zh.wikipedia.org/wiki/ARM_Cortex-A7_MPCore "wikilink")\[43\]
+[Cortex-A7](../Page/ARM_Cortex-A7_MPCore.md "wikilink")\[43\]
 [big.LITTLE](https://zh.wikipedia.org/wiki/ARM_big.LITTLE "wikilink")\[44\]
 || 4+4 || 1.6–
 1.2 | IT [PowerVR
@@ -367,7 +367,7 @@ I9500,\[46\]\[47\] Hardkernel
 S II TD, iBerry CoreX8 3G |- | Exynos 5 Octa\[49\]
 *(Exynos 5420)* | 28 nm HKMG |
 [Cortex-A15](https://zh.wikipedia.org/wiki/ARM_Cortex-A15 "wikilink")+
-[Cortex-A7](https://zh.wikipedia.org/wiki/ARM_Cortex-A7_MPCore "wikilink")
+[Cortex-A7](../Page/ARM_Cortex-A7_MPCore.md "wikilink")
 (big.LITTLE with
 [GTS](https://zh.wikipedia.org/wiki/Big.little#Heterogeneous_multi-processing_\(global_task_scheduling\) "wikilink"))
 || 4+4 || 1.8–1.9
@@ -386,13 +386,13 @@ Samsung Galaxy Tab Pro
 &
 [10.1](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_Pro_10.1 "wikilink")),
 [Samsung Galaxy Tab S
-8.4](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_S_8.4 "wikilink"),
-[Samsung Galaxy Tab S
+8.4](../Page/Samsung_Galaxy_Tab_S_8.4.md "wikilink"), [Samsung Galaxy
+Tab S
 10.5](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_S_10.5 "wikilink"),
 Arndale Octa Board |- | Exynos 5 Octa\[52\]
 *(Exynos 5422)* | 28 nm HKMG |
 [Cortex-A15](https://zh.wikipedia.org/wiki/ARM_Cortex-A15 "wikilink")+
-[Cortex-A7](https://zh.wikipedia.org/wiki/ARM_Cortex-A7_MPCore "wikilink")
+[Cortex-A7](../Page/ARM_Cortex-A7_MPCore.md "wikilink")
 (big.LITTLE with
 [GTS](https://zh.wikipedia.org/wiki/Big.little#Heterogeneous_multi-processing_\(global_task_scheduling\) "wikilink"))
 || 4+4 || 1.9-2.1
@@ -404,7 +404,7 @@ S5](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S5 "wikilink")
 |- | Exynos 5 Hexa\[54\]
 *(Exynos 5260)* | 28 nm HKMG |
 [Cortex-A15](https://zh.wikipedia.org/wiki/ARM_Cortex-A15 "wikilink")+
-[Cortex-A7](https://zh.wikipedia.org/wiki/ARM_Cortex-A7_MPCore "wikilink")
+[Cortex-A7](../Page/ARM_Cortex-A7_MPCore.md "wikilink")
 (big.LITTLE with
 [GTS](https://zh.wikipedia.org/wiki/Big.little#Heterogeneous_multi-processing_\(global_task_scheduling\) "wikilink"))
 || 2+4 || 1.7–
@@ -422,7 +422,7 @@ A8](https://zh.wikipedia.org/wiki/Samsung_Galaxy_A8 "wikilink")（SM-A800F）
 |- | Exynos 5 Octa\[56\]
 *(Exynos 5800)* | 28 nm HKMG |
 [Cortex-A15](https://zh.wikipedia.org/wiki/ARM_Cortex-A15 "wikilink")+
-[Cortex-A7](https://zh.wikipedia.org/wiki/ARM_Cortex-A7_MPCore "wikilink")
+[Cortex-A7](../Page/ARM_Cortex-A7_MPCore.md "wikilink")
 (big.LITTLE with
 [GTS](https://zh.wikipedia.org/wiki/Big.little#Heterogeneous_multi-processing_\(global_task_scheduling\) "wikilink"))
 || 4+4 || 2.1–

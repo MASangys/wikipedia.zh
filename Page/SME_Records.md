@@ -13,7 +13,7 @@ Records**」，自原來的Sony Music Records分割出來。
   - [2004年11月](../Page/2004年11月.md "wikilink")，放棄使用[Copy
     Control](../Page/Copy_Control.md "wikilink")。
   - 2017年4月，部分歌手移藉至同為索尼旗下為動漫歌手開設的新品牌[SACRA
-    MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。\[1\]
+    MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[1\]
 
 ## 所屬藝人
 
@@ -53,7 +53,7 @@ Records**」，自原來的Sony Music Records分割出來。
   -
   - [Aimer](../Page/Aimer.md "wikilink")
 
-  - [冈崎体育](https://zh.wikipedia.org/wiki/冈崎体育 "wikilink")
+  - [冈崎体育](../Page/冈崎体育.md "wikilink")
 
   - [山下智久](../Page/山下智久.md "wikilink")
 
@@ -61,7 +61,7 @@ Records**」，自原來的Sony Music Records分割出來。
 
   - [ClariS](../Page/ClariS.md "wikilink")
   - [ELISA](../Page/ELISA_\(歌手\).md "wikilink")
-  - [GARNiDELiA](https://zh.wikipedia.org/wiki/GARNiDELiA "wikilink")
+  - [GARNiDELiA](../Page/GARNiDELiA.md "wikilink")
   - [Kalafina](../Page/Kalafina.md "wikilink")
   - [春奈るな](../Page/春奈露娜.md "wikilink")
   - [佐香智久](../Page/佐香智久.md "wikilink")

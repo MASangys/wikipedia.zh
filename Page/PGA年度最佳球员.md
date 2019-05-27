@@ -219,7 +219,7 @@ Year）**也同时被设立，用于奖励首次参加PGA巡回赛的球员。�
 <td><p>1969</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奥威尔·穆迪" title="wikilink">奥威尔·穆迪</a></p></td>
 <td><p>1955</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/道格·福特" title="wikilink">道格·福特</a></p></td>
+<td><p><a href="../Page/道格·福特.md" title="wikilink">道格·福特</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1982</p></td>
@@ -235,7 +235,7 @@ Year）**也同时被设立，用于奖励首次参加PGA巡回赛的球员。�
 <td><p>1967</p></td>
 <td><p>杰克·尼克劳斯</p></td>
 <td><p>1953</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/本·霍根" title="wikilink">本·霍根</a></p></td>
+<td><p><a href="../Page/本·霍根.md" title="wikilink">本·霍根</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1980</p></td>

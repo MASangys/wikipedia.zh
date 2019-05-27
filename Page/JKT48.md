@@ -24,7 +24,7 @@ JKT48和將[東京都內](../Page/東京都.md "wikilink")[秋葉原作為根據
 
   - 1月14日，歌曲《[Heavy
     Rotation](https://zh.wikipedia.org/wiki/Heavy_Rotation_（JKT48专辑） "wikilink")》（翻唱自《[無限重播](../Page/無限重播.md "wikilink")》）的MV公布。
-  - 2月11日，首次在频道演唱《[好想見你](https://zh.wikipedia.org/wiki/飞翔入手_\(JKT48单曲\) "wikilink")》。
+  - 2月11日，首次在频道演唱《[好想見你](../Page/飞翔入手_\(JKT48单曲\).md "wikilink")》。
   - 2月15日，AKB48的第25張單曲《[GIVE ME
     FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》發售，Melody Nurramdhani
     Laksani与SKE48的[松井珠理奈在B面曲](../Page/松井珠理奈.md "wikilink")《NEW
@@ -75,8 +75,7 @@ JKT48和將[東京都內](../Page/東京都.md "wikilink")[秋葉原作為根據
 ### 2014年
 
   - 2月24日，於舉辦的「AKB48集團大組閣祭」中宣布[近野莉菜将自AKB](../Page/近野莉菜.md "wikilink")48移籍至JKT48\[10\]。
-  - 3月5日，第五张单曲《[Flying
-    Get](https://zh.wikipedia.org/wiki/飞翔入手_\(JKT48单曲\) "wikilink")》发行。
+  - 3月5日，第五张单曲《[Flying Get](../Page/飞翔入手_\(JKT48单曲\).md "wikilink")》发行。
   - 3月15日，发表了3期生32名加入的消息\[11\]。
   - 3月 - 4月，举办了“JKT48
     6th单曲選抜总选举〜由大家决定的、16名选拔成员〜　重要的事要由大家决定\!”（）（第一屆單曲選拔總選舉）。总队长Melody
@@ -143,7 +142,7 @@ JKT48和將[東京都內](../Page/東京都.md "wikilink")[秋葉原作為根據
       - 斋月期間將進行劇場改裝，並引進最新技術
       - 新體制將於開齋節後的6月底實施，舊制研究生與6期生將先行編入學院生體制
   - 9月起，作为「日本與印尼建交60週年親善應援活動」的一部分，Team J成員Stephanie Pricilla Indarto
-    Putri至AKB48進行1個月的短期交換留學，AKB48成員[川本紗矢亦於同時期至JKT](https://zh.wikipedia.org/wiki/川本紗矢 "wikilink")48進行1個月的短期交換留學\[18\]。
+    Putri至AKB48進行1個月的短期交換留學，AKB48成員[川本紗矢亦於同時期至JKT](../Page/川本紗矢.md "wikilink")48進行1個月的短期交換留學\[18\]。
 
 ## 成員
 
@@ -1253,7 +1252,7 @@ Kyla</p></td>
 <td><p>28</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Melody_Nurramdhani_Laksani" title="wikilink">Melody Nurramdhani Laksani</a></p></td>
+<td><p><a href="../Page/Melody_Nurramdhani_Laksani.md" title="wikilink">Melody Nurramdhani Laksani</a></p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>J・T</p></td>
@@ -1345,7 +1344,7 @@ Kyla</p></td>
 <td><p>15</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/川本紗矢" title="wikilink">川本紗矢</a><br />
+<td><p><a href="../Page/川本紗矢.md" title="wikilink">川本紗矢</a><br />
 （Kawamoto Saya）</p></td>
 <td></td>
 <td><p>AKB48<br />
@@ -2885,7 +2884,7 @@ CD</p></td>
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>2014年12月24日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/風正在吹_(JKT48單曲)" title="wikilink">Kaze wa Fuiteru –Angin sedang berhembus–</a>》</p></td>
+<td><p>《<a href="../Page/風正在吹_(JKT48單曲).md" title="wikilink">Kaze wa Fuiteru –Angin sedang berhembus–</a>》</p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
 <td><p>通常盤<br />
@@ -2894,7 +2893,7 @@ CD</p></td>
 <tr class="even">
 <td><p>9</p></td>
 <td><p>2015年3月27日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/翡翠色的沙灘裙_(JKT48單曲)" title="wikilink">Pareo wa emerald –Pareo adalah emerald–</a>》</p></td>
+<td><p>《<a href="../Page/翡翠色的沙灘裙_(JKT48單曲).md" title="wikilink">Pareo wa emerald –Pareo adalah emerald–</a>》</p></td>
 <td><p>CD+DVD<br />
 CD<br />
 CD</p></td>
@@ -2905,7 +2904,7 @@ Basic Version</p></td>
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>2015年5月27日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/希望無限_(JKT48單曲)" title="wikilink">Kibouteki Refrain -Refrain Penuh Harapan-</a>》</p></td>
+<td><p>《<a href="../Page/希望無限_(JKT48單曲).md" title="wikilink">Kibouteki Refrain -Refrain Penuh Harapan-</a>》</p></td>
 <td><p>CD+DVD<br />
 Music Download Card</p></td>
 <td><p>通常盤<br />
@@ -2914,7 +2913,7 @@ Music Card</p></td>
 <tr class="even">
 <td><p>11</p></td>
 <td><p>2015年8月26日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Halloween_Night_(JKT48單曲)" title="wikilink">Halloween Night</a>》</p></td>
+<td><p>《<a href="../Page/Halloween_Night_(JKT48單曲).md" title="wikilink">Halloween Night</a>》</p></td>
 <td><p>CD+DVD<br />
 Music Download Card</p></td>
 <td><p>通常盤<br />
@@ -2923,7 +2922,7 @@ Music Card</p></td>
 <tr class="odd">
 <td><p>12</p></td>
 <td><p>2016年1月1日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Beginner_(JKT48單曲)" title="wikilink">Beginner</a>》</p></td>
+<td><p>《<a href="../Page/Beginner_(JKT48單曲).md" title="wikilink">Beginner</a>》</p></td>
 <td><p>CD+DVD<br />
 Music Download Card</p></td>
 <td><p>通常盤<br />
@@ -2941,7 +2940,7 @@ Music Card</p></td>
 <tr class="odd">
 <td><p>14</p></td>
 <td><p>2016年9月21日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/LOVE_TRIP_(JKT48單曲)" title="wikilink">LOVE TRIP</a>》</p></td>
+<td><p>《<a href="../Page/LOVE_TRIP_(JKT48單曲).md" title="wikilink">LOVE TRIP</a>》</p></td>
 <td><p>CD+DVD<br />
 Music Download Card</p></td>
 <td><p>通常盤<br />
@@ -2950,7 +2949,7 @@ Music Card</p></td>
 <tr class="even">
 <td><p>15</p></td>
 <td><p>2016年12月21日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/最棒了唷_(JKT48單曲)" title="wikilink">Saikou ka yo -Luar Biasa-</a>》</p></td>
+<td><p>《<a href="../Page/最棒了唷_(JKT48單曲).md" title="wikilink">Saikou ka yo -Luar Biasa-</a>》</p></td>
 <td><p>CD+DVD<br />
 Music Download Card</p></td>
 <td><p>通常盤<br />
@@ -2959,7 +2958,7 @@ Music Card</p></td>
 <tr class="odd">
 <td><p>16</p></td>
 <td><p>2017年3月8日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/So_Long!_(JKT48單曲)" title="wikilink">So Long!</a>》</p></td>
+<td><p>《<a href="../Page/So_Long!_(JKT48單曲).md" title="wikilink">So Long!</a>》</p></td>
 <td><p>CD+DVD<br />
 Music Download Card</p></td>
 <td><p>通常盤<br />
@@ -3034,7 +3033,7 @@ TYPE-B</p></td>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2016年3月23日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/神曲集_(JKT48专辑)" title="wikilink">Mahagita -Kamikyokutachi-</a>》</p></td>
+<td><p>《<a href="../Page/神曲集_(JKT48专辑).md" title="wikilink">Mahagita -Kamikyokutachi-</a>》</p></td>
 <td><p>CD<br />
 Music Download Card</p></td>
 <td><p>通常盤<br />
@@ -3043,7 +3042,7 @@ Music Card</p></td>
 <tr class="even">
 <td><p>-</p></td>
 <td><p>2017年2月22日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/JKT48盛典" title="wikilink">JKT48 Festival</a>》</p></td>
+<td><p>《<a href="../Page/JKT48盛典.md" title="wikilink">JKT48 Festival</a>》</p></td>
 <td><p>CD</p></td>
 <td><p>通常盤</p></td>
 </tr>
@@ -3128,7 +3127,7 @@ Music Card</p></td>
 <td><p>Ratu Vienny Fitrilya（Team KIII）<br />
 （434票）</p></td>
 <td><p>第六張單曲<br />
-《<a href="https://zh.wikipedia.org/wiki/飞翔入手_(JKT48单曲)" title="wikilink">Flying Get</a>》</p></td>
+《<a href="../Page/飞翔入手_(JKT48单曲).md" title="wikilink">Flying Get</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3238,7 +3237,7 @@ Music Card</p></td>
 <td><p>Shinta Naomi （Team J）<br />
 （3,716票）</p></td>
 <td><p>第十三張單曲<br />
-《<a href="https://zh.wikipedia.org/wiki/勇往直前_(JKT48单曲)" title="wikilink">Mae Shika Mukanee</a>》</p></td>
+《<a href="../Page/勇往直前_(JKT48单曲).md" title="wikilink">Mae Shika Mukanee</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3293,7 +3292,7 @@ Music Card</p></td>
 <td><p>陈紫薇（Team T）<br />
 （3,313票）</p></td>
 <td><p>第十七張單曲<br />
-《<a href="https://zh.wikipedia.org/wiki/夢見你的微笑" title="wikilink">Suzukake Nancharaa</a>》</p></td>
+《<a href="../Page/夢見你的微笑.md" title="wikilink">Suzukake Nancharaa</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3473,7 +3472,7 @@ Music Card</p></td>
   - [AKB和××\!](../Page/AKB和××!.md "wikilink")（2012年9月13日・9月27日、[讀賣電視台](../Page/讀賣電視台.md "wikilink")）
   - [週刊AKB](https://zh.wikipedia.org/wiki/週刊AKB "wikilink")（2012年9月14日 -
     9月28日、東京電視台）
-  - [AKB48的你、是誰？](https://zh.wikipedia.org/wiki/AKB48的你、是誰？ "wikilink")（2013年4月29日、[NOTTV](https://zh.wikipedia.org/wiki/NOTTV "wikilink")）
+  - [AKB48的你、是誰？](https://zh.wikipedia.org/wiki/AKB48的你、是誰？ "wikilink")（2013年4月29日、[NOTTV](../Page/NOTTV.md "wikilink")）
     - 高城亜樹、仲川遥香、Kinal、Jessica V、Melody、Nabilah
   - [AKB子兔道场](https://zh.wikipedia.org/wiki/AKB子兔道场 "wikilink")（2013年5月17日、東京電視台）
     - 高城亜樹、仲川遥香、Kinal、Nabilah
@@ -3511,7 +3510,7 @@ Music Card</p></td>
   - 花王「[Biore](https://zh.wikipedia.org/wiki/Biore "wikilink")」
       -
         使用曲：《[馬尾與髮圈](../Page/馬尾與髮圈.md "wikilink")》（日語）
-  - [SHARP](https://zh.wikipedia.org/wiki/夏普公司 "wikilink")「[AQUOS](https://zh.wikipedia.org/wiki/AQUOS "wikilink")」
+  - [SHARP](https://zh.wikipedia.org/wiki/夏普公司 "wikilink")「[AQUOS](../Page/AQUOS.md "wikilink")」
       -
         使用曲：《[Baby\! Baby\!
         Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")》（印尼語）
@@ -3882,7 +3881,7 @@ Music Card</p></td>
   - [NMB48](../Page/NMB48.md "wikilink")
   - [HKT48](../Page/HKT48.md "wikilink")
   - [NGT48](../Page/NGT48.md "wikilink")
-  - [STU48](https://zh.wikipedia.org/wiki/STU48 "wikilink")
+  - [STU48](../Page/STU48.md "wikilink")
   - [MNL48](https://zh.wikipedia.org/wiki/MNL48 "wikilink")
   - [BNK48](../Page/BNK48.md "wikilink")
   - [SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")

@@ -35,12 +35,11 @@ Blimey\! Games
     One](../Page/Xbox_One.md "wikilink"),
     [SteamOS](../Page/SteamOS.md "wikilink")）
 
-  - [2016](https://zh.wikipedia.org/wiki/2016年电子游戏界 "wikilink") – 《Red
-    Bull Air Race: The Game (红牛特技飞行世界锦标赛: 官方游戏)》 （TBA）
+  - [2016](../Page/2016年电子游戏界.md "wikilink") – 《Red Bull Air Race: The
+    Game (红牛特技飞行世界锦标赛: 官方游戏)》 （TBA）
 
-  - [2017](https://zh.wikipedia.org/wiki/2017年电子游戏界 "wikilink") –
-    《[Project C.A.R.S
-    2](https://zh.wikipedia.org/wiki/賽車計劃2 "wikilink")(賽車計劃2)》（[Microsoft
+  - [2017](../Page/2017年电子游戏界.md "wikilink") – 《[Project C.A.R.S
+    2](../Page/賽車計劃2.md "wikilink")(賽車計劃2)》（[Microsoft
     Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
     [PlayStation 4](../Page/PlayStation_4.md "wikilink"), [Xbox
     One](../Page/Xbox_One.md "wikilink"),

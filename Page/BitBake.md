@@ -11,7 +11,7 @@ BitBake自動化建置處方(recipes)描述了如何抓取，配置，編譯與�
 
   - [Yocto計劃](https://zh.wikipedia.org/wiki/Yocto計劃 "wikilink")
 
-  - [Buildroot](https://zh.wikipedia.org/wiki/Buildroot "wikilink")
+  - [Buildroot](../Page/Buildroot.md "wikilink")
 
   - [Openmoko](../Page/OpenMoko.md "wikilink")
 

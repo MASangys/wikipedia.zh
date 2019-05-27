@@ -42,7 +42,7 @@ FR-F1在[电影](../Page/电影.md "wikilink")《》（L'assaut）中被[國家�
   - [PGM Hecate
     II](https://zh.wikipedia.org/wiki/PGM_Hecate_II狙擊步槍 "wikilink")，另一种法國現役狙击步枪，[.50](../Page/12.7×99mm_NATO.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")
   - [PGM
-    338](https://zh.wikipedia.org/wiki/PGM_338狙擊步槍 "wikilink")，另一种法國現役狙击步枪，[.338](../Page/.338拉普麥格農.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")
+    338](../Page/PGM_338狙擊步槍.md "wikilink")，另一种法國現役狙击步枪，[.338](../Page/.338拉普麥格農.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")
 
 ## 資料來源
 

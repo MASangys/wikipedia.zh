@@ -7,7 +7,7 @@ Epstein，1982年9月14日）\[1\]，[法国歌手](https://zh.wikipedia.org/wik
 
 ## 音乐生涯
 
-艾普斯坦为[德国的](../Page/德国.md "wikilink")[Monrose乐队写过](https://zh.wikipedia.org/wiki/Monrose "wikilink")"[Strike
+艾普斯坦为[德国的](../Page/德国.md "wikilink")[Monrose乐队写过](../Page/Monrose.md "wikilink")"[Strike
 the
 Match](https://zh.wikipedia.org/wiki/Strike_the_Match "wikilink")"。为[比利时歌手](../Page/比利时.md "wikilink")[Natalia的双白金唱片](https://zh.wikipedia.org/wiki/Natalia "wikilink")[Everything
 &
@@ -49,7 +49,7 @@ Dark](https://zh.wikipedia.org/wiki/Morning_After_Dark "wikilink")"。\[3\]
 
 | 年代                                                                       | 歌曲                                                                              | 艺术家                                                                                 | 专辑                                                                                                      | 注释                  |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------- |
-| 2006                                                                     | "[Strike The Match](https://zh.wikipedia.org/wiki/Strike_The_Match "wikilink")" | [Monrose](https://zh.wikipedia.org/wiki/Monrose "wikilink")                         | *[I Am](https://zh.wikipedia.org/wiki/I_Am_\(Monrose_album\) "wikilink")*                               | writer of the song  |
+| 2006                                                                     | "[Strike The Match](https://zh.wikipedia.org/wiki/Strike_The_Match "wikilink")" | [Monrose](../Page/Monrose.md "wikilink")                                            | *[I Am](https://zh.wikipedia.org/wiki/I_Am_\(Monrose_album\) "wikilink")*                               | writer of the song  |
 | 2006                                                                     | "Appetite For Love"                                                             | [Natalia](https://zh.wikipedia.org/wiki/Natalia "wikilink")                         | *[Everything and More](https://zh.wikipedia.org/wiki/Everything_and_More_\(Natalia_album\) "wikilink")* | writer of the song  |
 | 2009                                                                     | "Ease Off The Liquor"                                                           | [Timbaland](https://zh.wikipedia.org/wiki/Timbaland "wikilink")                     | *[Shock Value II](https://zh.wikipedia.org/wiki/Shock_Value_II "wikilink")*                             | (additional vocals) |
 | "Lost Cause" \[4\]                                                       | [Chris Cornell](https://zh.wikipedia.org/wiki/Chris_Cornell "wikilink")         | *[Scream](https://zh.wikipedia.org/wiki/Scream_\(Chris_Cornell_album\) "wikilink")* | writer of the song                                                                                      |                     |

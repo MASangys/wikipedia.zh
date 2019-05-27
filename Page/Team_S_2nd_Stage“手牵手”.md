@@ -209,7 +209,7 @@ AKB48 新Team 4
 
   - 公演期：2013年11月3日－
   - 演出成員
-      - [相笠萌](https://zh.wikipedia.org/wiki/相笠萌 "wikilink")、[岩立沙穗](../Page/岩立沙穗.md "wikilink")、[內山奈月](https://zh.wikipedia.org/wiki/內山奈月 "wikilink")、[梅田綾乃](../Page/梅田綾乃.md "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[冈田奈奈](https://zh.wikipedia.org/wiki/冈田奈奈_\(AKB48\) "wikilink")、[北澤早紀](../Page/北澤早紀.md "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[篠崎彩奈](https://zh.wikipedia.org/wiki/篠崎彩奈 "wikilink")、[高島祐利奈](https://zh.wikipedia.org/wiki/高島祐利奈 "wikilink")、[西野未姬](https://zh.wikipedia.org/wiki/西野未姬 "wikilink")、[橋本耀](../Page/橋本耀.md "wikilink")、[前田美月](https://zh.wikipedia.org/wiki/前田美月 "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")（）、[村山彩希](../Page/村山彩希.md "wikilink")、[茂木忍](../Page/茂木忍.md "wikilink")
+      - [相笠萌](../Page/相笠萌.md "wikilink")、[岩立沙穗](../Page/岩立沙穗.md "wikilink")、[內山奈月](https://zh.wikipedia.org/wiki/內山奈月 "wikilink")、[梅田綾乃](../Page/梅田綾乃.md "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[冈田奈奈](https://zh.wikipedia.org/wiki/冈田奈奈_\(AKB48\) "wikilink")、[北澤早紀](../Page/北澤早紀.md "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[篠崎彩奈](../Page/篠崎彩奈.md "wikilink")、[高島祐利奈](https://zh.wikipedia.org/wiki/高島祐利奈 "wikilink")、[西野未姬](../Page/西野未姬.md "wikilink")、[橋本耀](../Page/橋本耀.md "wikilink")、[前田美月](https://zh.wikipedia.org/wiki/前田美月 "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")（）、[村山彩希](../Page/村山彩希.md "wikilink")、[茂木忍](../Page/茂木忍.md "wikilink")
   - 分组曲成员
       - 《Glory days》：相笠、西野、梅田綾
       - 《胸口的条码》：岩立、峯岸、茂木

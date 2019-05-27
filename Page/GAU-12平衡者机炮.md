@@ -6,7 +6,7 @@ GAU-12/U目前正被[美国](../Page/美国.md "wikilink")、[意大利及](../P
 
 5[管設計的](../Page/槍管.md "wikilink")“平衡者”航空[机炮於](https://zh.wikipedia.org/wiki/机炮 "wikilink")1970年代末期開始研製，並以[GAU-8“复仇者”的機構作為基礎改進](../Page/GAU-8复仇者机炮.md "wikilink")，以發射全新的[北约系列](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")[炮彈](../Page/炮彈.md "wikilink")（[M242巨蝮式鏈炮亦是使用這種](../Page/M242巨蝮式鏈炮.md "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")）。GAU-12/U机炮是由裝置於外部的15[馬力](../Page/馬力.md "wikilink")（11[千瓦](https://zh.wikipedia.org/wiki/千瓦 "wikilink")）[电动机操作](../Page/电动机.md "wikilink")，並且以[引氣機壓縮空氣以驅動氣動系統](https://zh.wikipedia.org/wiki/引氣 "wikilink")。它的一般射速是3,600發／分鐘，而最高射速是4,200發／分鐘。\[1\]而安裝在[洛克希德AC-130U幽靈式空中砲艇上的GAU](https://zh.wikipedia.org/wiki/AC-130空中砲艇#AC-130U幽靈式 "wikilink")-12的發射速率則降低至1,800發／分鐘，以節省彈藥。
 
-“平衡者”航空机炮通常使用PGU-20/U[穿甲](../Page/穿甲弹.md "wikilink")[燃烧弹](https://zh.wikipedia.org/wiki/燃烧弹 "wikilink")（，簡稱：API）或PGU-22／PGU-25（簡稱：HEI）。正因為大威力的彈藥和比較可觀的[槍口初速](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")，其威力比起舊式的[20毫米口径的](https://zh.wikipedia.org/wiki/20毫米口径 "wikilink")[M61火神式機砲更高致命性](../Page/M61火神式機砲.md "wikilink")，和比起舊式的[亞丁](https://zh.wikipedia.org/wiki/亞丁轉輪式機炮 "wikilink")（ADEN）30毫米[轉輪式](https://zh.wikipedia.org/wiki/轉輪式機炮 "wikilink")[航空機砲的射速](https://zh.wikipedia.org/wiki/航空机关炮 "wikilink")（只有1,200—1,700發／分鐘）更有效，但是其致命性和有效性則追不上更大[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[毛瑟](../Page/毛瑟.md "wikilink")[BK-27機炮](../Page/BK-27機炮.md "wikilink")。
+“平衡者”航空机炮通常使用PGU-20/U[穿甲](../Page/穿甲弹.md "wikilink")[燃烧弹](https://zh.wikipedia.org/wiki/燃烧弹 "wikilink")（，簡稱：API）或PGU-22／PGU-25（簡稱：HEI）。正因為大威力的彈藥和比較可觀的[槍口初速](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")，其威力比起舊式的[20毫米口径的](https://zh.wikipedia.org/wiki/20毫米口径 "wikilink")[M61火神式機砲更高致命性](../Page/M61火神式機砲.md "wikilink")，和比起舊式的[亞丁](../Page/亞丁轉輪式機炮.md "wikilink")（ADEN）30毫米[轉輪式](https://zh.wikipedia.org/wiki/轉輪式機炮 "wikilink")[航空機砲的射速](https://zh.wikipedia.org/wiki/航空机关炮 "wikilink")（只有1,200—1,700發／分鐘）更有效，但是其致命性和有效性則追不上更大[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[毛瑟](../Page/毛瑟.md "wikilink")[BK-27機炮](../Page/BK-27機炮.md "wikilink")。
 
 ## 當前使用
 
@@ -14,7 +14,7 @@ GAU-12/U目前正被[美国](../Page/美国.md "wikilink")、[意大利及](../P
 [AV-8B_Harrier_taking_off_in_Sierra_Leone_-_May_2006_(Defense_Visual_Information_Center,_USMC,_USDoD)_CROPPED.jpg](https://zh.wikipedia.org/wiki/File:AV-8B_Harrier_taking_off_in_Sierra_Leone_-_May_2006_\(Defense_Visual_Information_Center,_USMC,_USDoD\)_CROPPED.jpg "fig:AV-8B_Harrier_taking_off_in_Sierra_Leone_-_May_2006_(Defense_Visual_Information_Center,_USMC,_USDoD)_CROPPED.jpg")[攻击机](../Page/攻击机.md "wikilink")（）；機身底部的兩個筴艙分別裝上了GAU-12机炮（AV-8「海鷂II式」的左邊，可見發射孔）和[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")（AV-8「海鷂II式」的右邊）。\]\]
 “平衡者”航空[机炮目前正被](https://zh.wikipedia.org/wiki/机炮 "wikilink")[美国](../Page/美国.md "wikilink")[海军陆战队](../Page/美国海军陆战队.md "wikilink")\[2\]、[意大利](../Page/意大利.md "wikilink")[海军及](../Page/意大利海军.md "wikilink")[西班牙](../Page/西班牙.md "wikilink")[海军的](https://zh.wikipedia.org/wiki/西班牙海军 "wikilink")[AV-8B「獵鷹II式」](../Page/AV-8獵鷹II式攻擊機.md "wikilink")[攻击机](../Page/攻击机.md "wikilink")（）所使用。「海鷂II式」攻击机所使用的“平衡者”机炮系統是利用一對安裝在機身兩側，左側的筴艙就是“平衡者”[航空機砲](https://zh.wikipedia.org/wiki/航空机关炮 "wikilink")，而右側的筴艙就是其300發備彈。兩個筴艙之間通過筴艙尾部裝設的輸彈槽，另外它並包含了控制“平衡者”的驅動系統。整套裝備當中，亦包括兩端的供彈系統，以便將發射後的空彈殼也送回到[彈鼓內](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")；整個系統裝填後的重量是1,230磅（557.92公斤），而沒有[彈藥時是](https://zh.wikipedia.org/wiki/彈藥 "wikilink")900磅（408.23公斤）。
 
-而[英國皇家空軍](../Page/英國皇家空軍.md "wikilink")（簡稱：RAF）和[海軍航空兵](https://zh.wikipedia.org/wiki/英國皇家海軍航空兵 "wikilink")（簡稱：FAA）的[GR7和](https://zh.wikipedia.org/wiki/GR7 "wikilink")[GR9海鷂II式攻击机並沒有裝備](https://zh.wikipedia.org/wiki/GR9 "wikilink")“平衡者”航空機砲。英國原來的計劃是使用一對[亞丁](https://zh.wikipedia.org/wiki/亞丁轉輪式機炮 "wikilink")25毫米[口徑航空機砲](https://zh.wikipedia.org/wiki/口徑 "wikilink")（又稱為ADEN
+而[英國皇家空軍](../Page/英國皇家空軍.md "wikilink")（簡稱：RAF）和[海軍航空兵](https://zh.wikipedia.org/wiki/英國皇家海軍航空兵 "wikilink")（簡稱：FAA）的[GR7和](https://zh.wikipedia.org/wiki/GR7 "wikilink")[GR9海鷂II式攻击机並沒有裝備](https://zh.wikipedia.org/wiki/GR9 "wikilink")“平衡者”航空機砲。英國原來的計劃是使用一對[亞丁](../Page/亞丁轉輪式機炮.md "wikilink")25毫米[口徑航空機砲](https://zh.wikipedia.org/wiki/口徑 "wikilink")（又稱為ADEN
 Mk
 5，以原來的亞丁[轉輪式航空機砲作為基礎](https://zh.wikipedia.org/wiki/轉輪式火炮 "wikilink")，改為使用和GAU-12/U相同系列的彈藥）。可是，由於這種航空機砲在研製期間受到長期拖延導致研製出現問題，最終於1999年被取消了。而英國GR7和GR9海鷂II式攻击机直到退役之前都不會裝上任何机炮。
 
@@ -130,10 +130,10 @@ GAU-12登場於[电影](../Page/电影.md "wikilink")、電視資訊節目和多
   - [XM214微型砲機槍](../Page/XM214微型砲機槍.md "wikilink")
   - [M197加特林機炮](../Page/M197加特林機炮.md "wikilink")
   - [歐瑞康KBD加特林機炮](https://zh.wikipedia.org/wiki/歐瑞康KBD加特林機炮 "wikilink")
-  - [GIAT M811機炮](https://zh.wikipedia.org/wiki/GIAT_M811機炮 "wikilink")
+  - [GIAT M811機炮](../Page/GIAT_M811機炮.md "wikilink")
   - [M242巨蝮式鏈炮](../Page/M242巨蝮式鏈炮.md "wikilink")
-  - [亞丁轉輪式機炮](https://zh.wikipedia.org/wiki/亞丁轉輪式機炮 "wikilink")
-  - [德發轉輪式機炮](https://zh.wikipedia.org/wiki/德發轉輪式機炮 "wikilink")
+  - [亞丁轉輪式機炮](../Page/亞丁轉輪式機炮.md "wikilink")
+  - [德發轉輪式機炮](../Page/德發轉輪式機炮.md "wikilink")
   - [BK-27機炮](../Page/BK-27機炮.md "wikilink")
 
 ## 資料來源

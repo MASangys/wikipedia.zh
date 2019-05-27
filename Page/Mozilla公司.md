@@ -22,7 +22,7 @@ Firefox 1.5的發布，Mozilla公司的mozilla.com網站被公佈為Firefox和Th
 2014年3月，Mozilla在任命[布蘭登·艾克擔任新任首席執行長](../Page/布蘭登·艾克.md "wikilink")（CEO）之後受到了一些批評。2008年，艾克捐款1000美元，支持[加利福尼亞州8號提案](https://zh.wikipedia.org/wiki/加利福尼亞州8號提案 "wikilink")\[11\]，這是一項禁止法律承認[加州同性婚姻的投票](../Page/加州同性婚姻.md "wikilink")\[12\]。據報導，六名Mozilla董事會成員中有三人辭職\[13\]，儘管Mozilla表示辭職的董事會成員有「各種各樣的原因」\[14\]，並重申其繼續致力於LGBT平等\[15\]\[16\]，包括同性婚姻\[17\]。4月1日，線上交友網站OkCupid開始向[Mozilla
 Firefox使用者展示一條訊息](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")，敦促他們改用其他網頁瀏覽器，指出OkCupid網站上的8％的配對是同性伴侶\[18\]。4月3日，Mozilla宣布艾克決定辭去首席執行長職務，離開Mozilla基金會董事會\[19\]\[20\]。
 
-2014年4月，Mozilla前首席行銷長[克里斯·比爾德被任命為臨時首席執行長](https://zh.wikipedia.org/wiki/克里斯·比爾德 "wikilink")。比爾德於同年7月28日被任命為首席執行長.\[21\]。
+2014年4月，Mozilla前首席行銷長[克里斯·比爾德被任命為臨時首席執行長](../Page/克里斯·比爾德.md "wikilink")。比爾德於同年7月28日被任命為首席執行長.\[21\]。
 
 2017年2月27日，Mozilla收購網路儲存服務[Pocket](../Page/Pocket.md "wikilink")\[22\]。
 
@@ -36,15 +36,13 @@ Firefox使用者展示一條訊息](https://zh.wikipedia.org/wiki/Mozilla_Firefo
 
   - [米切爾·貝克](../Page/米切爾·貝克.md "wikilink")（Mitchell Baker），執行主席
   - [里德·霍夫曼](../Page/里德·霍夫曼.md "wikilink")（Reid Hoffman）
-  - [克里斯·比爾德](https://zh.wikipedia.org/wiki/克里斯·比爾德 "wikilink")（Chris
-    Beard），執行長
+  - [克里斯·比爾德](../Page/克里斯·比爾德.md "wikilink")（Chris Beard），執行長
 
 ### 管理團隊
 
   - [米切爾·貝克](../Page/米切爾·貝克.md "wikilink")（Mitchell Baker），董事長
 
-  - [克里斯·比爾德](https://zh.wikipedia.org/wiki/克里斯·比爾德 "wikilink")（Chris
-    Beard），執行長
+  - [克里斯·比爾德](../Page/克里斯·比爾德.md "wikilink")（Chris Beard），執行長
 
   - （Katharina Borchert），首席創新長
 

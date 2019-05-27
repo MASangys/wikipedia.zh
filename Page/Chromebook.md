@@ -35,9 +35,8 @@ iFixit的的凱爾威恩斯總結說：“我們的分析顯示，該5系列是�
 \! 處理器 \!\! 電池續航力 \!\! 記憶體 \!\! 螢幕尺寸 \!\! 螢幕解析度 \!\! 重量 \!\! 硬碟 \!\!
 WWAN \!\! 觸控式螢幕 \! Android Apps支援\[5\] \! 二合一電腦 \!\! [USB Type
 C](https://zh.wikipedia.org/wiki/USB-C "wikilink") \!\! 鍵盤背光 \!
-class="unsortable" |
-[產品壽命結束](https://zh.wikipedia.org/wiki/產品壽命結束 "wikilink")\[6\]
-|- | 2010年12月\[7\] | [Google](../Page/Google.md "wikilink") |
+class="unsortable" | [產品壽命結束](../Page/產品壽命結束.md "wikilink")\[6\] |- |
+2010年12月\[7\] | [Google](../Page/Google.md "wikilink") |
 [Cr-48](https://zh.wikipedia.org/wiki/#Cr-48 "wikilink") | Mario | [Atom
 N455](https://zh.wikipedia.org/wiki/Atom_N455 "wikilink") | 8 hours | 2
 GB |  | 1280×800 |  | 16GB SATA SSD | 3G | | | | | | 2015年12月\[8\] |- |
@@ -222,8 +221,7 @@ GB | 12.3 in (31.2 cm) | 2400×1600 | 2.38 lb (1.08 kg) | 32 GB | |  |  |
 RK3399 ARM hexacore CPU |9 hours |4 GB |10.1 in (25.6 cm) | 1200×800
 |1.9 lb (0.86 kg) |16 GB | |  |  |  |  | | |- | 2017年10月\[78\] |
 [Google](../Page/Google.md "wikilink") |
-[Pixelbook](https://zh.wikipedia.org/wiki/Google_Pixelbook "wikilink") |
-Eve | Intel i5
+[Pixelbook](../Page/Google_Pixelbook.md "wikilink") | Eve | Intel i5
 Intel i7 | 10 hours | 8 GB
 16 GB |12.3 in
 
@@ -234,9 +232,7 @@ Intel i7 | 10 hours | 8 GB
 螢幕分辨率 \!\! 重量 \!\! 硬碟 \!\! WWAN \!\! 觸控式螢幕 \!\! Android Apps支援 \!\!
 二合一電腦 \!\! [USB Type
 C](https://zh.wikipedia.org/wiki/USB-C "wikilink") \!\! 鍵盤背光 \!
-class="unsortable" |
-[產品壽命結束](https://zh.wikipedia.org/wiki/產品壽命結束 "wikilink")
-|}
+class="unsortable" | [產品壽命結束](../Page/產品壽命結束.md "wikilink") |}
 
 ## 參見
 

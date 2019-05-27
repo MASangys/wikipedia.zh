@@ -6,7 +6,7 @@
 
   - [香蕉哥哥](../Page/香蕉哥哥.md "wikilink")
   - [西瓜哥哥](../Page/西瓜哥哥.md "wikilink")
-  - [草莓姐姐](https://zh.wikipedia.org/wiki/草莓姐姐 "wikilink")
+  - [草莓姐姐](../Page/草莓姐姐.md "wikilink")
   - [柳丁哥哥](https://zh.wikipedia.org/wiki/柳丁哥哥 "wikilink")
   - [太陽哥哥](https://zh.wikipedia.org/wiki/太陽哥哥 "wikilink")
   - [月亮姐姐](../Page/沈佩儀.md "wikilink")

@@ -43,9 +43,9 @@ Girls勇敢追夢之旅》。
   - 2013年《[原來是美男](../Page/原來是美男_\(台灣電視劇\).md "wikilink")》（飾演李毓芬）
   - 2014年《[濤女郎](../Page/濤女郎.md "wikilink")》（飾演田心）
   - 2014年《[愛上兩個我](../Page/愛上兩個我.md "wikilink")》（飾演陶樂思）
-  - 2015年《[迷徒·Claire](https://zh.wikipedia.org/wiki/迷徒·Claire "wikilink")》（飾演Claire）
+  - 2015年《[迷徒·Claire](../Page/迷徒·Claire.md "wikilink")》（飾演Claire）
   - 2015年《[來自未來的史密特](../Page/來自未來的史密特.md "wikilink")》（飾演米雪）
-  - 2017年《[我和我的四個男人](https://zh.wikipedia.org/wiki/我和我的四個男人 "wikilink")》（飾演林春嬌）
+  - 2017年《[我和我的四個男人](../Page/我和我的四個男人.md "wikilink")》（飾演林春嬌）
 
 **[郭雪芙](../Page/郭雪芙.md "wikilink")**
 

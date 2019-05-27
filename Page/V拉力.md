@@ -1,7 +1,7 @@
 《**V拉力**》（*V-Rally*，又譯「**V拉力賽車**」），在[北美地區亦稱為](https://zh.wikipedia.org/wiki/北美 "wikilink")「**極速快感：V拉力**」（*Need
 for Speed:
 V-Rally*），是一款於1997年推出的[拉力](https://zh.wikipedia.org/wiki/拉力賽 "wikilink")[賽車遊戲](https://zh.wikipedia.org/wiki/賽車遊戲 "wikilink")。由[Eden
-Games製作](https://zh.wikipedia.org/wiki/Eden_Games "wikilink")，[英寶格發行](../Page/英寶格.md "wikilink")。遊戲最初發佈[PlayStation平台版本](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，及後重新發行「白金」版本，並在該版本中加入[DualShock控制器的支援](../Page/DualShock.md "wikilink")。
+Games製作](https://zh.wikipedia.org/wiki/Eden_Games "wikilink")，[英寶格發行](../Page/英寶格.md "wikilink")。遊戲最初發佈[PlayStation平台版本](../Page/PlayStation.md "wikilink")，及後重新發行「白金」版本，並在該版本中加入[DualShock控制器的支援](../Page/DualShock.md "wikilink")。
 
 ## 遊戲設定
 

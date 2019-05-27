@@ -1,7 +1,7 @@
 ，是[任天堂于](../Page/任天堂.md "wikilink")2011年推出的[攜帶型遊戲機](https://zh.wikipedia.org/wiki/攜帶型遊戲機 "wikilink")，是[任天堂DS的后续机种](../Page/任天堂DS.md "wikilink")。最大特點是利用了[视差障壁技術](https://zh.wikipedia.org/wiki/视差障壁 "wikilink")，讓使用者不需配戴任何[特殊眼鏡即可裸眼感受到立體](../Page/3D眼鏡.md "wikilink")[3D圖像效果](https://zh.wikipedia.org/wiki/3D "wikilink")。\[1\]该平台[向下兼容](../Page/向下兼容.md "wikilink")[任天堂DS和](../Page/任天堂DS.md "wikilink")[任天堂DSi的軟體](../Page/任天堂DSi.md "wikilink")。\[2\]
 
 目前任天堂3DS有五个衍生机型，分别是2012年7月发售的大屏幕版本任天堂3DS
-LL/XL；2013年10月在欧美发售的廉价型号[任天堂2DS](../Page/任天堂2DS.md "wikilink")；2014年10月起在日本发售的[新任天堂3DS与新任天堂](https://zh.wikipedia.org/wiki/新任天堂3DS "wikilink")3DS
+LL/XL；2013年10月在欧美发售的廉价型号[任天堂2DS](../Page/任天堂2DS.md "wikilink")；2014年10月起在日本发售的[新任天堂3DS与新任天堂](../Page/新任天堂3DS.md "wikilink")3DS
 LL/XL；以及于2017年7月起发售的[新任天堂2DS
 XL](https://zh.wikipedia.org/wiki/新任天堂2DS_XL "wikilink")。
 
@@ -154,9 +154,9 @@ XL的详细信息，本次的行货3DS采用了独有的马里奥图案作为机
 3D乐园”）和《[瑪利歐賽車7](../Page/瑪利歐賽車7.md "wikilink")》（神游译名“马力欧卡丁车7”）则会内置于主机内发售。
 
 iQue 3DS
-XL于2012年12月正式上市。雖然沒有開放[eShop](https://zh.wikipedia.org/wiki/任天堂eShop "wikilink")，但部份港臺發售的繁體中文遊戲軟體可以使用於此終端設備上，比如[精靈寶可夢
+XL于2012年12月正式上市。雖然沒有開放[eShop](../Page/任天堂eShop.md "wikilink")，但部份港臺發售的繁體中文遊戲軟體可以使用於此終端設備上，比如[精靈寶可夢
 太陽／月亮](../Page/精靈寶可夢_太陽／月亮.md "wikilink")、[精灵宝可梦
-究极之日／究极之月](https://zh.wikipedia.org/wiki/精灵宝可梦_究极之日／究极之月 "wikilink")。2013年9月6日，iQue
+究极之日／究极之月](../Page/精灵宝可梦_究极之日／究极之月.md "wikilink")。2013年9月6日，iQue
 3DS XL的[中國強制性產品認證证书](../Page/中國強制性產品認證.md "wikilink")（3C证书）被撤销。
 
 ### 名人代言
@@ -511,7 +511,7 @@ Code](https://zh.wikipedia.org/wiki/Friend_Code "wikilink")」（好友代碼）
 <tr class="even">
 <td><p>CX*-CTR-S-C0</p></td>
 <td><p>AR卡</p></td>
-<td><p>總共有六種、編號上會有「*」部分的差異。A：？符號、B：<a href="https://zh.wikipedia.org/wiki/马力欧" title="wikilink">瑪利歐</a>、C：<a href="../Page/林克_(塞尔达传说).md" title="wikilink">林克</a>、D：<a href="https://zh.wikipedia.org/wiki/卡比" title="wikilink">卡比</a>、E：<a href="../Page/銀河戰士系列.md" title="wikilink">薩姆斯</a>、F：<a href="https://zh.wikipedia.org/wiki/皮克敏" title="wikilink">皮克敏</a>。已預先包含在商品內，可以在任天堂官網購買，或下載官網的<a href="https://zh.wikipedia.org/wiki/PDF" title="wikilink">PDF備份檔案列印</a>。有提供「等身大Mii大小AR卡」（約73<a href="../Page/厘米.md" title="wikilink">公分</a>×46公分），需要用點數交換。</p></td>
+<td><p>總共有六種、編號上會有「*」部分的差異。A：？符號、B：<a href="https://zh.wikipedia.org/wiki/马力欧" title="wikilink">瑪利歐</a>、C：<a href="../Page/林克_(塞尔达传说).md" title="wikilink">林克</a>、D：<a href="https://zh.wikipedia.org/wiki/卡比" title="wikilink">卡比</a>、E：<a href="../Page/銀河戰士系列.md" title="wikilink">薩姆斯</a>、F：<a href="../Page/皮克敏.md" title="wikilink">皮克敏</a>。已預先包含在商品內，可以在任天堂官網購買，或下載官網的<a href="https://zh.wikipedia.org/wiki/PDF" title="wikilink">PDF備份檔案列印</a>。有提供「等身大Mii大小AR卡」（約73<a href="../Page/厘米.md" title="wikilink">公分</a>×46公分），需要用點數交換。</p></td>
 </tr>
 </tbody>
 </table>

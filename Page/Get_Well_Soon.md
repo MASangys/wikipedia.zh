@@ -49,7 +49,7 @@ Edward Chan</p></td>
 <tr class="odd">
 <td><p>04</p></td>
 <td><p>拿愛情給我</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/溫翰文" title="wikilink">溫翰文</a></p></td>
+<td><p><a href="../Page/溫翰文.md" title="wikilink">溫翰文</a></p></td>
 <td><p>陳詠謙</p></td>
 <td><p>怒花</p></td>
 <td><p>周錫漢<br />

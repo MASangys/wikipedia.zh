@@ -13,7 +13,7 @@ YOU**》是[安室奈美惠以个人单独名义在](../Page/安室奈美惠.md 
   - PV於[千葉縣](../Page/千葉縣.md "wikilink")[館山市的海岸拍攝](../Page/館山市.md "wikilink")。
   - 銷量自單曲《[Say the
     word](../Page/Say_the_word.md "wikilink")》相隔六作後突破10萬張\[1\]，並成為2004年年間銷量第86位。
-  - 同年7月24日，作為於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾舉行](https://zh.wikipedia.org/wiki/首爾 "wikilink")「2004
+  - 同年7月24日，作為於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾舉行](../Page/首爾.md "wikilink")「2004
     MTV BuzzASIA Concert」的日本代表表演歌手，演唱了《[Put 'Em
     Up](../Page/Put_'Em_Up.md "wikilink")》、《[ALARM](../Page/ALARM_\(安室奈美惠單曲\).md "wikilink")》與《ALL
     FOR

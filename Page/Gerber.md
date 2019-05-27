@@ -1,7 +1,7 @@
 **Gerber**是一种二维矢量图像文件格式。\[1\]
 它是[印刷线路板行业软件中用于描述印刷线路板图像的标准格式](https://zh.wikipedia.org/wiki/印刷线路板 "wikilink")，例如：线路层，阻焊层，字符层，钻孔层等。\[2\]\[3\]\[4\]
 
-Gerber格式最初是由Gerber系统公司开发。因[Ucamco公司其前身Barco公司收购了Gerber系统公司](https://zh.wikipedia.org/wiki/Ucamco "wikilink")，Gerber格式现由Ucamco公司所有。\[5\]\[6\]
+Gerber格式最初是由Gerber系统公司开发。因[Ucamco公司其前身Barco公司收购了Gerber系统公司](../Page/Ucamco.md "wikilink")，Gerber格式现由Ucamco公司所有。\[5\]\[6\]
 Ucamco公司不断地更新Gerber规格说明书的版本。\[7\]\[8\]\[9\]
 
 目前最新的Gerber文件格式规格是于2014年2月发布的J1版本，该版本增加了传达PCB元信息例如文件所代表层类型的属性。\[10\]最新的规格说明书可在

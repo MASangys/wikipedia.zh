@@ -604,7 +604,7 @@
       - \-{クラッシャージョウ 氷結監獄の罠}-
       - \-{クラッシャージョウ 最終兵器アッシュ}-
   - \-{[:ja:グラップラー刃牙](https://zh.wikipedia.org/wiki/:ja:グラップラー刃牙 "wikilink")}-
-    - [刃牙](https://zh.wikipedia.org/wiki/刃牙 "wikilink")（長鴻）
+    - [刃牙](../Page/刃牙.md "wikilink")（長鴻）
   - \-{[CLANNAD もうひとつの世界
     智代編](https://zh.wikipedia.org/wiki/:ja:CLANNAD_\(ゲーム\) "wikilink")}-
     - [CLANNAD](../Page/CLANNAD.md "wikilink") 另一個世界 智代篇
@@ -623,7 +623,7 @@
       - \-{新世紀くりいむレモン}-
       - \-{くりいむレモン New Generation}-
   - \-{[グリーングリーンOVA](https://zh.wikipedia.org/wiki/:ja:グリーングリーン_\(ゲーム\) "wikilink")}-
-    - [青青校樹OVA](https://zh.wikipedia.org/wiki/青青校樹_\(遊戲\) "wikilink")
+    - [青青校樹OVA](../Page/青青校樹_\(遊戲\).md "wikilink")
       - \-{グリーングリーンエロリューションズ}-
   - \-{[:ja:グリーンレジェンド乱](https://zh.wikipedia.org/wiki/:ja:グリーンレジェンド乱 "wikilink")}-
   - \-{[:ja:GRAY
@@ -866,7 +866,7 @@
   - [:ja:湘南純愛組\!](https://zh.wikipedia.org/wiki/:ja:湘南純愛組! "wikilink") -
     [湘南純愛組](https://zh.wikipedia.org/wiki/湘南純愛組 "wikilink")（東立）
   - [:ja:湘南爆走族](https://zh.wikipedia.org/wiki/:ja:湘南爆走族 "wikilink") -
-    [湘南爆走族](https://zh.wikipedia.org/wiki/湘南爆走族 "wikilink")
+    [湘南爆走族](../Page/湘南爆走族.md "wikilink")
   - \-{[JOKER
     マージナル・シティ](https://zh.wikipedia.org/wiki/:ja:ジョーカーシリーズ_\(漫画\) "wikilink")}-
   - \-{[:ja:少女ファイト](https://zh.wikipedia.org/wiki/:ja:少女ファイト "wikilink")}-
@@ -1247,7 +1247,7 @@
   - \-{[デッドヒート](https://zh.wikipedia.org/wiki/:ja:デッドヒート_\(OVA\) "wikilink")}-
   - \-{[てっぺん](https://zh.wikipedia.org/wiki/:ja:小成たか紀 "wikilink")}-
   - \-{[:ja:鉄腕バーディー](https://zh.wikipedia.org/wiki/:ja:鉄腕バーディー "wikilink")}-
-    - [鐵腕女警](https://zh.wikipedia.org/wiki/鐵腕女警 "wikilink")（東立）
+    - [鐵腕女警](../Page/鐵腕女警.md "wikilink")（東立）
   - \-{[:ja:DETONATORオーガン](https://zh.wikipedia.org/wiki/:ja:DETONATORオーガン "wikilink")}-
     - [復仇者奧剛](https://zh.wikipedia.org/wiki/復仇者奧剛 "wikilink")
   - \-{[:ja:デトロイト・メタル・シティ](https://zh.wikipedia.org/wiki/:ja:デトロイト・メタル・シティ "wikilink")}-
@@ -1311,7 +1311,7 @@
   - \-{[:ja:倒凶十将伝](https://zh.wikipedia.org/wiki/:ja:倒凶十将伝 "wikilink")}-
     - [倒凶十將傳](https://zh.wikipedia.org/wiki/倒凶十將傳 "wikilink")（木棉花）
   - \-{[:ja:東京大学物語シリーズ](https://zh.wikipedia.org/wiki/:ja:東京大学物語 "wikilink")}-
-    - [東京大學物語系列](https://zh.wikipedia.org/wiki/東京大學物語 "wikilink")
+    - [東京大學物語系列](../Page/東京大學物語.md "wikilink")
       - \-{東京大学物語 函館向陽高校編\]\]}- - 東京大學物語 函館向陽高中篇
       - \-{東京大学物語 仮面浪人編\]\]}- - 東京大學物語 假面浪人篇
       - \-{東京大学物語DX\]\]}- - 東京大學物語DX
@@ -1422,7 +1422,7 @@
     NINETEEN](https://zh.wikipedia.org/wiki/:ja:きたがわ翔 "wikilink")}-
     - [19 NINETEEN](https://zh.wikipedia.org/wiki/北川翔 "wikilink")
   - \-{[:ja:夏色の砂時計](https://zh.wikipedia.org/wiki/:ja:夏色の砂時計 "wikilink")}-
-    - [夏色的砂時計](https://zh.wikipedia.org/wiki/夏色的砂時計 "wikilink")（曼迪傳播）
+    - [夏色的砂時計](../Page/夏色的砂時計.md "wikilink")（曼迪傳播）
   - \-{[:ja:なつきクライシス](https://zh.wikipedia.org/wiki/:ja:なつきクライシス "wikilink")}-
     - [嬌娃夏生之危機](https://zh.wikipedia.org/wiki/嬌娃夏生之危機 "wikilink")（東立）
   - \-{[:ja:ナースウィッチ小麦ちゃんマジカルて](https://zh.wikipedia.org/wiki/:ja:ナースウィッチ小麦ちゃんマジカルて "wikilink")}-
@@ -1432,7 +1432,7 @@
     スーツケースの渡り鳥](https://zh.wikipedia.org/wiki/:ja:茄子_スーツケースの渡り鳥 "wikilink")}-
     - [茄子 旅行箱中的候鳥](https://zh.wikipedia.org/wiki/茄子_旅行箱中的候鳥 "wikilink")
   - \-{[:ja:菜々子解体診書](https://zh.wikipedia.org/wiki/:ja:菜々子解体診書 "wikilink")}-
-    - [菜菜子解體診書](https://zh.wikipedia.org/wiki/菜菜子解體診書 "wikilink")
+    - [菜菜子解體診書](../Page/菜菜子解體診書.md "wikilink")
   - \-{[七都市物語〜北極海戦線〜](https://zh.wikipedia.org/wiki/:ja:七都市物語 "wikilink")}-
     - [七都市物語～北極海戰線～](https://zh.wikipedia.org/wiki/七都市物語 "wikilink")
   - \-{[:ja:ナマケモノが見てた](https://zh.wikipedia.org/wiki/:ja:ナマケモノが見てた "wikilink")}-
@@ -1702,7 +1702,7 @@
       - \-{新世紀GPXサイバーフォーミュラSIN（ - シン）}- - 閃電霹靂車SIN
   - \-{[:ja:冬の蝉](https://zh.wikipedia.org/wiki/:ja:冬の蝉 "wikilink")}-
   - \-{[:ja:プラスチックリトル](https://zh.wikipedia.org/wiki/:ja:プラスチックリトル "wikilink")}-
-    - [雲海歷險](https://zh.wikipedia.org/wiki/雲海歷險 "wikilink")（元美國際） 又譯
+    - [雲海歷險](../Page/雲海歷險.md "wikilink")（元美國際） 又譯
     [雲海奇兵隊](https://zh.wikipedia.org/wiki/雲海奇兵隊 "wikilink")（東立）
   - \-{[ブラック・ジャック](https://zh.wikipedia.org/wiki/:ja:ブラック・ジャック_\(OVA\) "wikilink")（OVA版）}-
     - [怪醫黑傑克](../Page/怪醫黑傑克.md "wikilink")
@@ -1912,7 +1912,7 @@
     まもって守護月天\!](https://zh.wikipedia.org/wiki/:ja:まもって守護月天!#アニメ "wikilink")}-
     - [傳心 守護月天](https://zh.wikipedia.org/wiki/守護月天 "wikilink")
   - \-{[魔物ハンター妖子シリーズ](https://zh.wikipedia.org/wiki/:ja:魔物ハンター妖子 "wikilink")}-
-    - [魔物獵人妖子系列](https://zh.wikipedia.org/wiki/魔物獵人妖子 "wikilink")
+    - [魔物獵人妖子系列](../Page/魔物獵人妖子.md "wikilink")
       - \-{魔物ハンター妖子}-
       - \-{魔物ハンター妖子2}-
       - \-{魔物ハンター妖子3}-
@@ -1964,7 +1964,7 @@
       - \-{名探偵コナン MAGIC FILE2 ～工藤新一 謎の壁と黒ラブ事件～}-
   - \-{[:ja:メーテルレジェンド](https://zh.wikipedia.org/wiki/:ja:メーテルレジェンド "wikilink")}-
   - \-{[:ja:メガゾーン23](https://zh.wikipedia.org/wiki/:ja:メガゾーン23 "wikilink")}-
-    - [無限地帶23](https://zh.wikipedia.org/wiki/無限地帶23 "wikilink")
+    - [無限地帶23](../Page/無限地帶23.md "wikilink")
       - \-{メガゾーン23 PART II 秘密く・だ・さ・い}-
       - MEGAZONE23 III
   - \-{[女神候補生
@@ -2218,7 +2218,7 @@
 <li><a href="../Page/羚邦國際.md" title="wikilink">羚邦國際</a></li>
 <li><a href="../Page/國際影業.md" title="wikilink">國際影業</a></li>
 <li><a href="../Page/亞洲影帶.md" title="wikilink">亞洲影帶</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/寰亞洲立集團" title="wikilink">洲立影視</a></li>
+<li><a href="../Page/寰亞洲立集團.md" title="wikilink">洲立影視</a></li>
 </ul></td>
 </tr>
 </tbody>

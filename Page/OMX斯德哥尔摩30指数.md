@@ -177,7 +177,7 @@
 <td><p>1.58</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Tele2" title="wikilink">Tele2</a></p></td>
+<td><p><a href="../Page/Tele2.md" title="wikilink">Tele2</a></p></td>
 <td><p>綜合電信業務</p></td>
 <td></td>
 <td><p>1.57</p></td>

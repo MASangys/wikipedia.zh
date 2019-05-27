@@ -14,7 +14,7 @@ Records於](https://zh.wikipedia.org/wiki/King_Records_MM制作部 "wikilink")20
 
 1.  **My wish My love** \[5:24\]
 
-      - [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")：[椎名可憐](https://zh.wikipedia.org/wiki/椎名可憐 "wikilink")；[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：[太田雅友](https://zh.wikipedia.org/wiki/太田雅友 "wikilink")
+      - [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")：[椎名可憐](https://zh.wikipedia.org/wiki/椎名可憐 "wikilink")；[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：[太田雅友](../Page/太田雅友.md "wikilink")
           - [劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")『[魔法少女奈葉
             The MOVIE
             1st](../Page/魔法少女奈葉_The_MOVIE_1st.md "wikilink")』[片尾曲](../Page/主題曲.md "wikilink")

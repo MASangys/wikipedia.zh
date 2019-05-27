@@ -382,7 +382,7 @@
 
   - 希薇亞
     声 -
-    [桑谷夏子](../Page/桑谷夏子.md "wikilink")(日本)：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")(台灣)：[陸惠玲](../Page/陸惠玲.md "wikilink")(香港)
+    [桑谷夏子](../Page/桑谷夏子.md "wikilink")(日本)：[馮嘉德](../Page/馮嘉德.md "wikilink")(台灣)：[陸惠玲](../Page/陸惠玲.md "wikilink")(香港)
     喬的女友和本作女主角。一開始就被傑特組織抓走、而關在他們的基地中，但從透過自己的好勝心及積極表現而和裡面的小兵的變得相當親近並且因此改善自己的生活環境、以及準備好鍛鍊自己等行動來看、絕對不是一般的柔弱女主角。
     後半段和原作同様得到藍色大隊長所給的V手錶、而可以改變服裝變成**性感希薇亞**來和凱德戰鬥。主要是使用雙槍死亡貝拉多來進行遠距離攻撃。當打中敵人時會讓他們眼冒紅心而聽命於她。另外還可以和喬進行合作技攻擊。
     在她的皮帶中裝有可以封印伊貝魯王，叫作白色膠卷的強大力量。這個白色膠卷是當藍色大隊長失蹤不在時、由小時候的希薇亞不小心闖入他的房間中所找到有著藍色大隊長身影的一部分膠卷。
@@ -455,7 +455,7 @@
 <!-- end list -->
 
   - 剛力怪人 颶風塔比托
-    声 - [高瀨右光](https://zh.wikipedia.org/wiki/高瀨右光 "wikilink")
+    声 - [高瀨右光](../Page/高瀨右光.md "wikilink")
     傑特的幹部、用他的怪力和巨斧而爬到現在的地位。只要一生氣就會無法控制。有自己專用的機車、序盤中就用機車戴著被抓的希薇亞到藍色帝王那邊。腳指頭是牠的弱點。
     在傑特被消滅後，經營肉店、但由於店遭到大約翰破壞而和史普洛凱一起成為凱德的幹部。
     和查爾斯三世及大布魯斯經常作蠢事而成為本作中很重要的三大喜角。
@@ -538,7 +538,7 @@
 <td><p>1</p></td>
 <td><p>その男ジョー! の巻</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/石山タカ明" title="wikilink">石山タカ明</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/須田正己" title="wikilink">須田正己</a></p></td>
+<td><p><a href="../Page/須田正己.md" title="wikilink">須田正己</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -562,7 +562,7 @@
 <td><p>4</p></td>
 <td><p>シルヴィアSOS! の巻</p></td>
 <td><p>石田真弓</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鴫野彰" title="wikilink">鴫野彰</a></p></td>
+<td><p><a href="../Page/鴫野彰.md" title="wikilink">鴫野彰</a></p></td>
 <td><p>加藤茂</p></td>
 <td><p>アベ正己</p></td>
 </tr>
@@ -577,7 +577,7 @@
 <tr class="even">
 <td><p>6</p></td>
 <td><p>カモ～ン! シックスマシンの巻</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柿原優子" title="wikilink">柿原優子</a></p></td>
+<td><p><a href="../Page/柿原優子.md" title="wikilink">柿原優子</a></p></td>
 <td><p>赤坂三十郎</p></td>
 <td><p>大西景介</p></td>
 <td><p>服部憲知</p></td>

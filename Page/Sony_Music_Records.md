@@ -60,7 +60,7 @@ Records、gr8\!records、MASTERSIX FOUNDATION、N46Div.、K46Div等5個唱片品
   - [米米CLUB](../Page/米米CLUB.md "wikilink")
   - [佐々木希](https://zh.wikipedia.org/wiki/佐々木希 "wikilink")
   - [三枝夕夏](../Page/三枝夕夏.md "wikilink")
-  - [SAYAKA](https://zh.wikipedia.org/wiki/神田沙也加 "wikilink")
+  - [SAYAKA](../Page/神田沙也加.md "wikilink")
   - [須藤薫&杉真理](https://zh.wikipedia.org/wiki/須藤薫&杉真理 "wikilink")
   - [supercell](https://zh.wikipedia.org/wiki/supercell "wikilink")
   - [玉置浩二](../Page/玉置浩二.md "wikilink")

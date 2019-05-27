@@ -133,7 +133,7 @@ cm／90 kg
       - 美術：佛田洋
   - 機車協力：スズキ自動車
   - 製作：[每日放送](../Page/每日放送.md "wikilink")、[東映](../Page/東映.md "wikilink")
-  - 旁白：[小林清志](https://zh.wikipedia.org/wiki/小林清志 "wikilink")（第1～39集）、政宗一成（第40集之後）
+  - 旁白：[小林清志](../Page/小林清志.md "wikilink")（第1～39集）、政宗一成（第40集之後）
 
 ## 動作演員
 

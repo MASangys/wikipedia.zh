@@ -42,7 +42,7 @@
 <td><p>小板橋正次</p></td>
 <td><p>47歲</p></td>
 <td><p>警視（課長）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/勝村政信" title="wikilink">勝村政信</a></p></td>
+<td><p><a href="../Page/勝村政信.md" title="wikilink">勝村政信</a></p></td>
 </tr>
 <tr class="even">
 <td><p>杉浦幸造</p></td>

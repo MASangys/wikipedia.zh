@@ -82,7 +82,7 @@ PRODUCTIONS**（）主辦。SUMMER SONIC自2000年開始舉辦。形式類似英
 <li><a href="../Page/M.I.A..md" title="wikilink">M.I.A.</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/Kodaline" title="wikilink">Kodaline</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/Bastille" title="wikilink">Bastille</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/Chvrches" title="wikilink">Chvrches</a></li>
+<li><a href="../Page/Chvrches.md" title="wikilink">Chvrches</a></li>
 </ul></td>
 <td><ul>
 <li></li>
@@ -128,7 +128,7 @@ PRODUCTIONS**（）主辦。SUMMER SONIC自2000年開始舉辦。形式類似英
 <td><ul>
 <li><a href="../Page/秦基博.md" title="wikilink">秦基博</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/The_Ventures" title="wikilink">The Ventures</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/Sambomaster" title="wikilink">Sambomaster</a></li>
+<li><a href="../Page/Sambomaster.md" title="wikilink">Sambomaster</a></li>
 <li><a href="../Page/The_Pillows.md" title="wikilink">The Pillows</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/SCANDAL" title="wikilink">SCANDAL</a></li>
 <li></li>
@@ -198,7 +198,7 @@ PRODUCTIONS**（）主辦。SUMMER SONIC自2000年開始舉辦。形式類似英
 <td><ul>
 <li><a href="../Page/秦基博.md" title="wikilink">秦基博</a></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/KEYTALK" title="wikilink">KEYTALK</a></li>
+<li><a href="../Page/KEYTALK.md" title="wikilink">KEYTALK</a></li>
 </ul></td>
 </tr>
 </tbody>

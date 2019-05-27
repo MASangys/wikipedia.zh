@@ -1,5 +1,5 @@
 [AlohaTowerAtNight.jpg](https://zh.wikipedia.org/wiki/File:AlohaTowerAtNight.jpg "fig:AlohaTowerAtNight.jpg")[阿羅哈鐘樓建於](https://zh.wikipedia.org/wiki/阿羅哈鐘樓 "wikilink")1926年9月11日\]\]
-**Aloha**（中譯**阿羅哈**）是[夏威夷語中其中一個詞語](https://zh.wikipedia.org/wiki/夏威夷語 "wikilink")，本有[希望](https://zh.wikipedia.org/wiki/希望 "wikilink")、[愛](../Page/愛.md "wikilink")、[和平以及](../Page/和平.md "wikilink")[幸福等意思](https://zh.wikipedia.org/wiki/幸福 "wikilink")。自19世紀中期被英文詞彙吸收，後來變成[問候語](https://zh.wikipedia.org/wiki/問候語 "wikilink")，與「你好」的意思相近，並開始被廣泛應用。現時，Aloha大概可解作Hello、Goodbye、I
+**Aloha**（中譯**阿羅哈**）是[夏威夷語中其中一個詞語](https://zh.wikipedia.org/wiki/夏威夷語 "wikilink")，本有[希望](https://zh.wikipedia.org/wiki/希望 "wikilink")、[愛](../Page/愛.md "wikilink")、[和平以及](../Page/和平.md "wikilink")[幸福等意思](../Page/幸福.md "wikilink")。自19世紀中期被英文詞彙吸收，後來變成[問候語](https://zh.wikipedia.org/wiki/問候語 "wikilink")，與「你好」的意思相近，並開始被廣泛應用。現時，Aloha大概可解作Hello、Goodbye、I
 love
 you等意思。此外，Aloha亦是[夏威夷州的](../Page/夏威夷州.md "wikilink")[暱稱](../Page/美国各州昵称列表.md "wikilink")。
 
@@ -33,7 +33,7 @@ Power*）。
 
 电视剧《成长的烦恼》第3季有一集名为“Aloha”，剧中的演员[胡凯莉](../Page/胡凯莉.md "wikilink")（出生于夏威夷）在后来也常用Aloha和她的影迷打招呼。
 
-著名夏威夷民謠《[夏威夷骊歌](https://zh.wikipedia.org/wiki/夏威夷骊歌 "wikilink")》（Aloha
+著名夏威夷民謠《[夏威夷骊歌](../Page/夏威夷骊歌.md "wikilink")》（Aloha
 Oe）就是由[夏威夷王國末代君主](../Page/夏威夷王國.md "wikilink")[利留卡拉尼女王所寫的](https://zh.wikipedia.org/wiki/利留卡拉尼女王 "wikilink")。由美国[夏威夷大学开发的网络协议](../Page/夏威夷大学.md "wikilink")[ALOHA协议](https://zh.wikipedia.org/wiki/ALOHA协议 "wikilink")，其靈感亦來源自aloha。
 
 ## 參見

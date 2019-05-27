@@ -22,7 +22,7 @@
   - [麥人](../Page/麥人.md "wikilink")：ダゴン
   - [千葉繁](../Page/千葉繁.md "wikilink")
   - [島本須美](../Page/島本須美.md "wikilink")
-  - [飯塚昭三](https://zh.wikipedia.org/wiki/飯塚昭三 "wikilink")
+  - [飯塚昭三](../Page/飯塚昭三.md "wikilink")
   - [玄田哲章](../Page/玄田哲章.md "wikilink")
   - [古谷徹](../Page/古谷徹.md "wikilink")：德川太助
   - [西村知道](../Page/西村知道.md "wikilink")
@@ -50,7 +50,7 @@
 <td><p>1</p></td>
 <td><p>太陽系の破滅</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山本暎一" title="wikilink">山本暎一</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/白土武" title="wikilink">白土武</a></p></td>
+<td><p><a href="../Page/白土武.md" title="wikilink">白土武</a></p></td>
 <td><p><a href="../Page/高橋信也.md" title="wikilink">高橋信也</a></p></td>
 <td><p>棚橋一德</p></td>
 <td><p>343日</p></td>

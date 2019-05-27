@@ -16,7 +16,7 @@ clsid2 接替更新1.7.13後版本\[2\]。
     7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows
     8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows
     8.1及](../Page/Windows_8.1.md "wikilink")[Windows
-    10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，拥有[64位版本](https://zh.wikipedia.org/wiki/64位 "wikilink")
+    10](../Page/Windows_10.md "wikilink")，拥有[64位版本](https://zh.wikipedia.org/wiki/64位 "wikilink")
 
 <!-- end list -->
 

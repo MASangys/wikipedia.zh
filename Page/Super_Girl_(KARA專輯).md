@@ -8,11 +8,11 @@ SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")�
   - 收錄第3張單曲「[Jet Coaster
     Love](../Page/Jet_Coaster_Love.md "wikilink")」至第5張單曲「[Winter
     Magic](../Page/Winter_Magic.md "wikilink")」，共3首A面曲和3首B面曲。
-  - 初回盤收錄了第1張單曲「[Mister](https://zh.wikipedia.org/wiki/Mister "wikilink")」和第2張單曲「[Jumpin'](../Page/Jumpin'.md "wikilink")」，以及KARA第三張正規專輯「[STEP](https://zh.wikipedia.org/wiki/STEP "wikilink")」主打曲「STEP」
+  - 初回盤收錄了第1張單曲「[Mister](https://zh.wikipedia.org/wiki/Mister "wikilink")」和第2張單曲「[Jumpin'](../Page/Jumpin'.md "wikilink")」，以及KARA第三張正規專輯「[STEP](../Page/STEP.md "wikilink")」主打曲「STEP」
   - 本作分「初回盤A - C」和「CD ONLY」4種版本。「初回盤A」收錄了「[Jet Coaster
     Love](../Page/Jet_Coaster_Love.md "wikilink")」的Live、「[GO GO
     Summer\!](https://zh.wikipedia.org/wiki/GO_GO_Summer! "wikilink")」的PV、「[Winter
-    Magic](../Page/Winter_Magic.md "wikilink")」的PV和Making、「[STEP](https://zh.wikipedia.org/wiki/STEP "wikilink")」的PV和專輯「Super
+    Magic](../Page/Winter_Magic.md "wikilink")」的PV和Making、「[STEP](../Page/STEP.md "wikilink")」的PV和專輯「Super
     Girl」的Making。
   - 在12月5日於公信榜專輯週排行榜取得第1位
   - 此專輯連續3個月於公信榜專輯月排行榜取得TOP 10位置，並於公信榜專輯年排行榜取得第7位。
@@ -87,7 +87,7 @@ SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")�
         Soo、编曲：Han Jae Ho ・ Kim Seung Soo
 13. STEP (Korean Version) （）\[3:00\]
       -
-        韩语3rd專輯「[STEP](https://zh.wikipedia.org/wiki/STEP "wikilink")」主打曲
+        韩语3rd專輯「[STEP](../Page/STEP.md "wikilink")」主打曲
     <!-- end list -->
       - 作詞：Song Soo Yoon、作曲：Han Jae Ho ・ Kim Seung Soo、编曲：Han Jae Ho ・
         Kim Seung Soo

@@ -314,7 +314,7 @@ Android最初的版本是於2007年11月5日發行的Android
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Jelly_Bean" title="wikilink">Android Jelly Bean</a><br />
+<td><p><a href="../Page/Android_Jelly_Bean.md" title="wikilink">Android Jelly Bean</a><br />
 基于Linux Kernel 3.4.0</p></td>
 <td><p>2012年6月28日，Google釋出Android 4.1（JellyBean 雷根糖）在<a href="https://zh.wikipedia.org/wiki/Google_I/O" title="wikilink">Google I/O大會上隨搭載Android</a> 4.1的<a href="https://zh.wikipedia.org/wiki/Nexus_7" title="wikilink">Nexus 7平板電腦一起发布</a>，。主要更新如下：<a href="https://zh.wikipedia.org/wiki/File:Android_4.1_on_the_Galaxy_Nexus.jpeg" title="fig:Android_4.1_on_the_Galaxy_Nexus.jpeg">Android_4.1_on_the_Galaxy_Nexus.jpeg</a> 介面]]</p>
 <ul>
@@ -405,7 +405,7 @@ Android最初的版本是於2007年11月5日發行的Android
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_KitKat" title="wikilink">Android KitKat</a><br />
+<td><p><a href="../Page/Android_KitKat.md" title="wikilink">Android KitKat</a><br />
 基于Linux Kernel 3.4.0</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Android_Logo_(2014).svg" title="fig:缩略图">缩略图</a>2013年10月31日，Google釋出Android 4.4（奇巧Kitkat）。主要更新如下：<a href="https://zh.wikipedia.org/wiki/File:Nexus_5_(Android_4.4.2)_Screenshot.jpg" title="fig:Nexus_5_(Android_4.4.2)_Screenshot.jpg">Nexus_5_(Android_4.4.2)_Screenshot.jpg</a></p>
 <ul>
@@ -445,7 +445,7 @@ Android最初的版本是於2007年11月5日發行的Android
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Lollipop" title="wikilink">Android Lollipop</a><br />
+<td><p><a href="../Page/Android_Lollipop.md" title="wikilink">Android Lollipop</a><br />
 Android 5.0<br />
 基于Linux Kernel 3.4.0</p></td>
 <td><p>2014年6月25日，Google於I/O大會上展示Android L的開發者預覽版本，並開放下載。<a href="https://zh.wikipedia.org/wiki/File:Android_logo_(2014).svg" title="fig:缩略图">缩略图</a>2014年10月16日，Google釋出Android 5.0（棒棒糖Lollipop）。主要更新如下：<a href="https://zh.wikipedia.org/wiki/File:Android_L_Develpment_Preview.png" title="fig:Android_L_Develpment_Preview.png">Android_L_Develpment_Preview.png</a></p>
@@ -454,7 +454,7 @@ Android 5.0<br />
 <li>支援藍牙4.1。</li>
 <li>相機可存副檔名為*.dng的raw檔。</li>
 <li>採用全新Material Design介面。</li>
-<li>全面由 Dalvik 虚拟机轉用 <a href="https://zh.wikipedia.org/wiki/Android_Runtime" title="wikilink">Android RunTime</a>（ART）编译虚拟机。官方宣称新的虚拟机相较于旧虚拟机，性能可提昇四倍。</li>
+<li>全面由 Dalvik 虚拟机轉用 <a href="../Page/Android_Runtime.md" title="wikilink">Android RunTime</a>（ART）编译虚拟机。官方宣称新的虚拟机相较于旧虚拟机，性能可提昇四倍。</li>
 <li>改良的通知介面及新增Priority Mode。</li>
 <li>預載省電及充電預測功能。</li>
 <li>新增自動內容加密功能。</li>
@@ -484,7 +484,7 @@ Android 5.0<br />
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Lollipop" title="wikilink">Android Lollipop</a><br />
+<td><p><a href="../Page/Android_Lollipop.md" title="wikilink">Android Lollipop</a><br />
 Android 5.1<br />
 基于Linux Kernel 3.4.0</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Android_logo_(2014).svg" title="fig:缩略图">缩略图</a>2015年3月10日，Google釋出Android 5.1（棒棒糖Lollipop）。主要更新如下：<a href="https://zh.wikipedia.org/wiki/File:Android_5.0-en.png" title="fig:Android_5.0-en.png">Android_5.0-en.png</a></p>
@@ -551,7 +551,7 @@ Android 5.1<br />
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Oreo" title="wikilink">Android Oreo</a></p></td>
+<td><p><a href="../Page/Android_Oreo.md" title="wikilink">Android Oreo</a></p></td>
 <td><p>2017年3月21日，Google發布Android Oreo的開發者預覽版本。<a href="https://zh.wikipedia.org/wiki/File:Android_Oreo_logo.png" title="fig:缩略图">缩略图</a>2017年8月21日，Google釋出Android 8.0（奧利奧 Oreo）。<a href="https://zh.wikipedia.org/wiki/File:Android_Oreo_8.1_screenshot.png" title="fig:Android_Oreo_8.1_screenshot.png">Android_Oreo_8.1_screenshot.png</a></p>
 <ul>
 <li>強化與用戶互動之性能</li>

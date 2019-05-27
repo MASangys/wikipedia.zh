@@ -9,7 +9,7 @@ Z](https://zh.wikipedia.org/wiki/無雙OROCHI_Z "wikilink")》三部作品。
 2》、《無雙OROCHI 2 Special》《無雙OROCHI 2 Hyper》、《無雙OROCHI 2 Ultimate》多个版本。
 
 遊戲三代《[無雙OROCHI
-3](https://zh.wikipedia.org/wiki/無雙OROCHI_蛇魔_3 "wikilink")》是以《[真·三國無雙7](../Page/真·三國無雙7.md "wikilink")》、《[戰國無雙4](../Page/戰國無雙4.md "wikilink")》與該系列未登場的可操作角色與5位新增的角色。
+3](../Page/無雙OROCHI_蛇魔_3.md "wikilink")》是以《[真·三國無雙7](../Page/真·三國無雙7.md "wikilink")》、《[戰國無雙4](../Page/戰國無雙4.md "wikilink")》與該系列未登場的可操作角色與5位新增的角色。
 
 ## 歷代作品
 

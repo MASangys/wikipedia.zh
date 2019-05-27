@@ -245,7 +245,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛</a></p>
+<p><a href="../Page/李笛.md" title="wikilink">李笛</a></p>
 </center></td>
 <td><center>
 <p>李迪</p>

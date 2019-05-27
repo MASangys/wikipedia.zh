@@ -13,7 +13,7 @@
 
   - [林正英](../Page/林正英.md "wikilink")（配音：[周永光](../Page/周永光.md "wikilink")）
     飾 毛小方
-  - [孟　海](https://zh.wikipedia.org/wiki/孟海 "wikilink") 飾 小　海
+  - [孟　海](../Page/孟海.md "wikilink") 飾 小　海
   - [林文龍](../Page/林文龍.md "wikilink") 飾 郁達初
   - [程　東](../Page/程東.md "wikilink") 飾 雷　罡
   - [文頌嫻](../Page/文頌嫻.md "wikilink") 飾 雷　秀
@@ -36,7 +36,7 @@
   - [陳　銳](https://zh.wikipedia.org/wiki/陳銳_\(演員\) "wikilink") 飾 阿　忠
   - [李俊德](https://zh.wikipedia.org/wiki/李俊德 "wikilink") 飾 阿　邦
   - [黃清河](https://zh.wikipedia.org/wiki/黃清河 "wikilink") 飾 父　老
-  - [陳靖允](https://zh.wikipedia.org/wiki/陳靖允 "wikilink") 飾
+  - [陳靖允](../Page/陳靖允.md "wikilink") 飾
     [慈　禧](https://zh.wikipedia.org/wiki/慈禧 "wikilink")
   - [曾守明](../Page/曾守明.md "wikilink") 飾 將　軍
   - [周兆麟](https://zh.wikipedia.org/wiki/周兆麟 "wikilink") 飾

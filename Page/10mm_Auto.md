@@ -5,7 +5,7 @@ Auto**（10×25mm）是一種[半自動手槍](../Page/半自動手槍.md "wikil
 
 由著名的火器專家傑夫·庫柏研發，它被[諾瑪公司設計為一種中口徑規格子彈](https://zh.wikipedia.org/wiki/諾瑪精密 "wikilink")，有著比[.45
 ACP更佳的彈道](../Page/.45_ACP.md "wikilink")（更遠的射程）以及比[9×19毫米更大的](https://zh.wikipedia.org/wiki/9×19mm鲁格弹 "wikilink")，第一個使用該口徑子彈的手槍為[Bren
-Ten](https://zh.wikipedia.org/wiki/布倫十式半自動手槍 "wikilink")，即10
+Ten](../Page/布倫十式半自動手槍.md "wikilink")，即10
 mm口徑的[CZ-75手槍](https://zh.wikipedia.org/wiki/CZ-75手槍 "wikilink")；諾瑪打算增加傑夫原本構思子彈的威力，改良過的10mm
 Auto，於1983年生產，有著很高的威力及能量。
 

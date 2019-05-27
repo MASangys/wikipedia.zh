@@ -82,7 +82,7 @@ A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/篠崎彩奈" title="wikilink">篠崎彩奈</a></p></td>
+<td><p><a href="../Page/篠崎彩奈.md" title="wikilink">篠崎彩奈</a></p></td>
 <td><p>13期</p></td>
 <td><p>1830m</p></td>
 <td><p>-</p></td>
@@ -114,7 +114,7 @@ A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅�
 <td><p>未加入</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/後藤萌咲" title="wikilink">後藤萌咲</a></p></td>
+<td><p><a href="../Page/後藤萌咲.md" title="wikilink">後藤萌咲</a></p></td>
 <td><p>選秀1期</p></td>
 <td><p>拉布拉多獵犬</p></td>
 <td><p>-</p></td>
@@ -148,7 +148,7 @@ A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/千葉惠里" title="wikilink">千葉惠里</a></p></td>
 <td><p>選秀2期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Shoot_Sign" title="wikilink">Shoot Sign</a></p></td>
+<td><p><a href="../Page/Shoot_Sign.md" title="wikilink">Shoot Sign</a></p></td>
 <td><p>-</p></td>
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
@@ -170,7 +170,7 @@ A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅�
 <td><p>未加入</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/小栗有以" title="wikilink">小栗有以</a></p></td>
+<td><p><a href="../Page/小栗有以.md" title="wikilink">小栗有以</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
 <td><p>5</p></td>
@@ -212,7 +212,7 @@ A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/奥本陽菜" title="wikilink">奥本陽菜</a></p></td>
 <td><p>2017年9月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Teacher_Teacher" title="wikilink">Teacher Teacher</a></p></td>
+<td><p><a href="../Page/Teacher_Teacher.md" title="wikilink">Teacher Teacher</a></p></td>
 <td><p>-</p></td>
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
@@ -344,7 +344,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <td><p>未加入</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/市川愛美" title="wikilink">市川愛美</a></p></td>
+<td><p><a href="../Page/市川愛美.md" title="wikilink">市川愛美</a></p></td>
 <td><p>15期</p></td>
 <td><p><a href="../Page/真心電流.md" title="wikilink">真心電流</a></p></td>
 <td><p>-</p></td>
@@ -384,7 +384,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <td><p>未加入</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/込山榛香" title="wikilink">込山榛香</a></strong></p></td>
+<td><p><strong><a href="../Page/込山榛香.md" title="wikilink">込山榛香</a></strong></p></td>
 <td><p>15期</p></td>
 <td><p>真心電流</p></td>
 <td><p>4</p></td>
@@ -408,7 +408,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <td><p>未加入</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/倉野尾成美" title="wikilink">倉野尾成美</a></p></td>
+<td><p><a href="../Page/倉野尾成美.md" title="wikilink">倉野尾成美</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
 <td><p>1</p></td>
@@ -530,7 +530,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/矢作萌夏" title="wikilink">矢作萌夏</a></p></td>
 <td><p>选秀 3期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NO_WAY_MAN" title="wikilink">NO WAY MAN</a></p></td>
+<td><p><a href="../Page/NO_WAY_MAN.md" title="wikilink">NO WAY MAN</a></p></td>
 <td><p>-</p></td>
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
@@ -598,7 +598,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 <td><p>未加入</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/田北香世子" title="wikilink">田北香世子</a></p></td>
+<td><p><a href="../Page/田北香世子.md" title="wikilink">田北香世子</a></p></td>
 <td><p>選秀 1期</p></td>
 <td><p>拉布拉多獵犬</p></td>
 <td><p>-</p></td>
@@ -662,7 +662,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 <td><p>圈外</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/福岡聖菜" title="wikilink">福岡聖菜</a></p></td>
+<td><p><a href="../Page/福岡聖菜.md" title="wikilink">福岡聖菜</a></p></td>
 <td><p>15期</p></td>
 <td><p>真心電流</p></td>
 <td><p>-</p></td>
@@ -869,7 +869,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/大森美優" title="wikilink">大森美優</a></p></td>
+<td><p><a href="../Page/大森美優.md" title="wikilink">大森美優</a></p></td>
 <td><p>12期</p></td>
 <td><p>風正在吹</p></td>
 <td><p>-</p></td>
@@ -893,7 +893,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 <td><p>未加入</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/川本紗矢" title="wikilink">川本紗矢</a></p></td>
+<td><p><a href="../Page/川本紗矢.md" title="wikilink">川本紗矢</a></p></td>
 <td><p>選秀 1期</p></td>
 <td><p>拉布拉多獵犬</p></td>
 <td><p>6</p></td>
@@ -917,7 +917,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/大西桃香" title="wikilink">大西桃香</a></p></td>
+<td><p><a href="../Page/大西桃香.md" title="wikilink">大西桃香</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
 <td><p>1</p></td>
@@ -933,7 +933,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 <td><p>未加入</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/坂口渚沙" title="wikilink">坂口渚沙</a></p></td>
+<td><p><a href="../Page/坂口渚沙.md" title="wikilink">坂口渚沙</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
 <td><p>1</p></td>
@@ -941,7 +941,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 <td><p>未加入</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/佐藤七海" title="wikilink">佐藤七海</a></p></td>
+<td><p><a href="../Page/佐藤七海.md" title="wikilink">佐藤七海</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
 <td><p>-</p></td>
@@ -1111,7 +1111,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/北海道.md" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/坂口渚沙" title="wikilink">坂口渚沙</a></p></td>
+<td><p><a href="../Page/坂口渚沙.md" title="wikilink">坂口渚沙</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
 <td><p>1</p></td>
@@ -1120,7 +1120,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/青森縣.md" title="wikilink">青森</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/横山结衣" title="wikilink">横山结衣</a></p></td>
+<td><p><a href="../Page/横山结衣.md" title="wikilink">横山结衣</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
 <td><p>-</p></td>
@@ -1138,7 +1138,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/岩手縣" title="wikilink">岩手</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佐藤七海" title="wikilink">佐藤七海</a></p></td>
+<td><p><a href="../Page/佐藤七海.md" title="wikilink">佐藤七海</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
 <td><p>-</p></td>
@@ -1202,7 +1202,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/栃木縣.md" title="wikilink">栃木</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/本田仁美" title="wikilink">本田仁美</a></p></td>
+<td><p><a href="../Page/本田仁美.md" title="wikilink">本田仁美</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
 <td><p>1</p></td>
@@ -1238,7 +1238,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/東京都.md" title="wikilink">東京</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小栗有以" title="wikilink">小栗有以</a></p></td>
+<td><p><a href="../Page/小栗有以.md" title="wikilink">小栗有以</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
 <td><p>7</p></td>
@@ -1295,7 +1295,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 <td><p><a href="https://zh.wikipedia.org/wiki/爱知縣" title="wikilink">愛知</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/歌田初夏" title="wikilink">歌田初夏</a></p></td>
 <td><p>2016年6月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/High_Tension" title="wikilink">High Tension</a></p></td>
+<td><p><a href="../Page/High_Tension.md" title="wikilink">High Tension</a></p></td>
 <td><p>-</p></td>
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
@@ -1341,7 +1341,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 <td><p><a href="https://zh.wikipedia.org/wiki/平野光" title="wikilink">平野光</a><br />
 （）</p></td>
 <td><p>2016年12月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Teacher_Teacher" title="wikilink">Teacher Teacher</a></p></td>
+<td><p><a href="../Page/Teacher_Teacher.md" title="wikilink">Teacher Teacher</a></p></td>
 <td><p>-</p></td>
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
@@ -1420,7 +1420,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/奈良縣" title="wikilink">奈良</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大西桃香" title="wikilink">大西桃香</a></p></td>
+<td><p><a href="../Page/大西桃香.md" title="wikilink">大西桃香</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
 <td><p>1</p></td>
@@ -1919,7 +1919,7 @@ KII成員而終止\[7\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48集團大組閣祭" title="wikilink">第三次組閣</a></p></td>
+<td><p><a href="../Page/AKB48集團大組閣祭.md" title="wikilink">第三次組閣</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2590,7 +2590,7 @@ JKT48 Team T第一任隊長[84]<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/森川彩香" title="wikilink">森川彩香</a></p></td>
+<td><p><a href="../Page/森川彩香.md" title="wikilink">森川彩香</a></p></td>
 <td><p>11期</p></td>
 <td><p>變成櫻花樹</p></td>
 <td><p>-</p></td>
@@ -2780,7 +2780,7 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>4月2日</p></td>
 <td><p>解除兼任</p></td>
-<td><p>现为<a href="https://zh.wikipedia.org/wiki/IZ*ONE" title="wikilink">IZ*ONE成員</a></p></td>
+<td><p>现为<a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE成員</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/白間美瑠.md" title="wikilink">白間美瑠</a></p></td>
@@ -3236,7 +3236,7 @@ Team A第一、四任隊長<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/相笠萌" title="wikilink">相笠萌</a></p></td>
+<td><p><a href="../Page/相笠萌.md" title="wikilink">相笠萌</a></p></td>
 <td><p>13期</p></td>
 <td><p>1830m</p></td>
 <td><p>-</p></td>
@@ -3886,7 +3886,7 @@ SKE48 Team KII第一任副隊長[179]<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/矢吹奈子" title="wikilink">矢吹奈子</a></p></td>
+<td><p><a href="../Page/矢吹奈子.md" title="wikilink">矢吹奈子</a></p></td>
 <td><p>HKT48<br />
 3期</p></td>
 <td><p>倘若在梧桐樹什麼的</p></td>
@@ -3895,7 +3895,7 @@ SKE48 Team KII第一任副隊長[179]<br />
 <td><p>AKS</p></td>
 <td><p>4月2日</p></td>
 <td><p>解除兼任</p></td>
-<td><p>现为<a href="https://zh.wikipedia.org/wiki/IZ*ONE" title="wikilink">IZ*ONE成員</a></p></td>
+<td><p>现为<a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE成員</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
@@ -4067,7 +4067,7 @@ Team B第五任隊長<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/名取稚菜" title="wikilink">名取稚菜</a></p></td>
+<td><p><a href="../Page/名取稚菜.md" title="wikilink">名取稚菜</a></p></td>
 <td><p>11期</p></td>
 <td><p>變成櫻花樹</p></td>
 <td><p>1</p></td>
@@ -4089,7 +4089,7 @@ Team B第五任隊長<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/西野未姬" title="wikilink">西野未姬</a></p></td>
+<td><p><a href="../Page/西野未姬.md" title="wikilink">西野未姬</a></p></td>
 <td><p>14期</p></td>
 <td><p>UZA</p></td>
 <td><p>1</p></td>
@@ -4476,7 +4476,7 @@ Team B第五任隊長<br />
 </tr>
 <tr class="even">
 <td><p>山形</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/早坂紬" title="wikilink">早坂紬</a></p></td>
+<td><p><a href="../Page/早坂紬.md" title="wikilink">早坂紬</a></p></td>
 <td><p>-</p></td>
 <td><p>4月20日</p></td>
 <td><p>毕业前兼任Team A[235][236]</p></td>
@@ -5259,7 +5259,7 @@ SKE48 Team S第二任隊長[259]<br />
 <td><p>2月20日</p></td>
 <td><p>請辭</p></td>
 <td><p>[279]<br />
-後成為<a href="https://zh.wikipedia.org/wiki/GEM_(女子團體)" title="wikilink">GEM隊長</a>，現為<a href="../Page/SUPER☆GiRLS.md" title="wikilink">SUPER☆GiRLS成員</a>[280]</p></td>
+後成為<a href="../Page/GEM_(女子團體).md" title="wikilink">GEM隊長</a>，現為<a href="../Page/SUPER☆GiRLS.md" title="wikilink">SUPER☆GiRLS成員</a>[280]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/牛窪紗良.md" title="wikilink">牛窪紗良</a></p></td>
@@ -5565,7 +5565,7 @@ SKE48 Team S第二任隊長[259]<br />
 <tr class="even">
 <td></td>
 <td><p>-</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/心意告示牌" title="wikilink">心意告示牌</a></p></td>
+<td><p><a href="../Page/心意告示牌.md" title="wikilink">心意告示牌</a></p></td>
 <td><p>-</p></td>
 <td><p>未參加</p></td>
 <td><p>AKS</p></td>

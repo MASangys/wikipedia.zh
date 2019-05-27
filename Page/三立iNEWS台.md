@@ -6,7 +6,7 @@
 
   - 2011年5月3日，**三立財經台**開播，部分時段與[三立新聞台同步播出](../Page/三立新聞台.md "wikilink")（《0900整點新聞》、《[早安新鮮聞](https://zh.wikipedia.org/wiki/早安新鮮聞 "wikilink")》、《[1600
     iNEWS](https://zh.wikipedia.org/wiki/1600_iNEWS "wikilink")》、《[台灣大頭條](https://zh.wikipedia.org/wiki/台灣大頭條 "wikilink")》）。。
-  - 2012年6月1日中午12點，三立財經台與[創意頻道](https://zh.wikipedia.org/wiki/創意頻道 "wikilink")（今[三立綜合台](https://zh.wikipedia.org/wiki/三立綜合台 "wikilink")）在[中華電信MOD上架](../Page/中華電信MOD.md "wikilink")，三立財經台定頻於第54頻道，創意頻道定頻於第85頻道，兩者都是付費高畫質頻道，此為三立電視首度加入中華電信MOD。\[1\]
+  - 2012年6月1日中午12點，三立財經台與[創意頻道](https://zh.wikipedia.org/wiki/創意頻道 "wikilink")（今[三立綜合台](../Page/三立綜合台.md "wikilink")）在[中華電信MOD上架](../Page/中華電信MOD.md "wikilink")，三立財經台定頻於第54頻道，創意頻道定頻於第85頻道，兩者都是付費高畫質頻道，此為三立電視首度加入中華電信MOD。\[1\]
   - 2013年1月1日凌晨0點，三立財經台於[凱擘和](../Page/凱擘公司.md "wikilink")[台灣固網系統定頻於第](../Page/台灣固網.md "wikilink")88頻道播出。
   - 2013年6月5日凌晨0點，三立財經台於[中嘉網路系統定頻於第](../Page/中嘉網路.md "wikilink")88頻道播出。
   - 2014年11月1日起，高畫質版本「三立財經台HD」開始試播，但僅在[威達雲端電訊](https://zh.wikipedia.org/wiki/威達雲端電訊 "wikilink")\[2\]以高畫質播出。
@@ -31,11 +31,11 @@ iNEWS**、**新聞夜現場**、假日0700/0800**早安新鮮聞**、假日1200*
 <!-- end list -->
 
   - 2017年12月5日於iNEWS晚報起\[6\]，啟用全新百萬攝影棚並擁有全台最大直立式大電視牆。\[7\] \[8\]
-  - 2018年1月**三立iNEWS**大改版，另外[鄭弘儀將正式回歸](../Page/鄭弘儀.md "wikilink")，新節目《[鄭知道了](https://zh.wikipedia.org/wiki/鄭知道了 "wikilink")》於2018年1月22日開播。
+  - 2018年1月**三立iNEWS**大改版，另外[鄭弘儀將正式回歸](../Page/鄭弘儀.md "wikilink")，新節目《[鄭知道了](../Page/鄭知道了.md "wikilink")》於2018年1月22日開播。
   - 2018年1月10日，《**iNEWS錢進大頭條**》、《**iNEWS大世界**》和《**iNEWS最政新聞**》更換新聞片頭。
-  - 2018年1月22日，週一至週五22:00-24:00時段異動，停播[林楚茵的](https://zh.wikipedia.org/wiki/林楚茵 "wikilink")《iNEWS夜報》，改播[鄭弘儀主持的](../Page/鄭弘儀.md "wikilink")《[鄭知道了](https://zh.wikipedia.org/wiki/鄭知道了 "wikilink")》。
+  - 2018年1月22日，週一至週五22:00-24:00時段異動，停播[林楚茵的](https://zh.wikipedia.org/wiki/林楚茵 "wikilink")《iNEWS夜報》，改播[鄭弘儀主持的](../Page/鄭弘儀.md "wikilink")《[鄭知道了](../Page/鄭知道了.md "wikilink")》。
   - 2018年3月1日，[台灣大寬頻](../Page/台灣固網.md "wikilink")、[凱擘大寬頻升級高畫質播出](https://zh.wikipedia.org/wiki/凱擘大寬頻 "wikilink")。
-  - 2018年5月12日，週末21:00-23:00時段異動，停播《iStar全球新勢力》、《台灣亮起來》、《新聞深一度》、《360大世界》，改播《[鄭知道了](https://zh.wikipedia.org/wiki/鄭知道了 "wikilink")》。
+  - 2018年5月12日，週末21:00-23:00時段異動，停播《iStar全球新勢力》、《台灣亮起來》、《新聞深一度》、《360大世界》，改播《[鄭知道了](../Page/鄭知道了.md "wikilink")》。
   - 2018年12月24日，平日17:00-18:00時段異動，停播《iNEWS錢進大頭條》，改播《[iNEWS17NOW新聞](https://zh.wikipedia.org/wiki/iNEWS17NOW新聞 "wikilink")》
   - 2019年1月21日，平日21:00-22:00時段異動，停播《[iNEWS最政新聞](https://zh.wikipedia.org/wiki/iNEWS最政新聞 "wikilink")》，改播《[iNEWS21知識線](https://zh.wikipedia.org/wiki/iNEWS21知識線 "wikilink")》
   - 2019年1月25日起，每週五晚間九點半至十點推出『全民金融通』。

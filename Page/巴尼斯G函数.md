@@ -42,7 +42,7 @@ n^{\frac{5}{12}}\cdot(2\pi)^{(n-1)/2}\,=\,
 
 其中\(\zeta^\prime\)表示[黎曼ζ函数的](https://zh.wikipedia.org/wiki/黎曼ζ函数 "wikilink")[导函数](https://zh.wikipedia.org/wiki/导函数 "wikilink")，\(A\)则表示为格莱舍常数。
 
-\(\log \,G(z+1 )\)可[渐近展开为](https://zh.wikipedia.org/wiki/渐近展开 "wikilink")（由巴尼斯提出）：
+\(\log \,G(z+1 )\)可[渐近展开为](../Page/渐近展开.md "wikilink")（由巴尼斯提出）：
 
 \[\log G(z+1)=\frac{1}{12} - \log A + \frac{z}{2}\log 2\pi +\left(\frac{z^2}{2} -\frac{1}{12}\right)\log z -\frac{3z^2}{4}+
 \sum_{k=1}^{N}\frac{B_{2k+2}}{4k\left(k+1\right)z^{2k}} + O\left(\frac{1}{z^{2N+2}}\right).\]

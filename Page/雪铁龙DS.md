@@ -100,7 +100,7 @@ Decapotable
 
 [Citroen_DS_002.jpg](https://zh.wikipedia.org/wiki/File:Citroen_DS_002.jpg "fig:Citroen_DS_002.jpg")
 
-為了滿足不熟車又崇拜名牌的人識別需要，雪鐵龍在新世紀把最豪華的車型升格成新品牌[DS汽車](https://zh.wikipedia.org/wiki/DS汽車 "wikilink")。
+為了滿足不熟車又崇拜名牌的人識別需要，雪鐵龍在新世紀把最豪華的車型升格成新品牌[DS汽車](../Page/DS汽車.md "wikilink")。
 
 ## 历年DS产量
 

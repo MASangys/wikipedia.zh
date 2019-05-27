@@ -38,7 +38,7 @@ K的混编组——向日葵组公演的第一弹。人员采取双轨制，每�
 9.  《向日葵》
     （作词：秋元康　作曲：、编曲：近田潔人）
 10. 《竹内学长》（）
-    （作词：秋元康、作曲·编曲：[後藤次利](https://zh.wikipedia.org/wiki/後藤次利 "wikilink")）
+    （作词：秋元康、作曲·编曲：[後藤次利](../Page/後藤次利.md "wikilink")）
 11. 《这样那样的藉口》（）
     （作词：秋元康、作曲：上田晃司、编曲：田口智則、稲留春雄）
 12. 《似曾相识》（）
@@ -138,13 +138,13 @@ K的混编组——向日葵组公演的第一弹。人员采取双轨制，每�
   - 公演成員
       - 研究生
           -
-            [相笠萌](https://zh.wikipedia.org/wiki/相笠萌 "wikilink")、[岩立沙穂](https://zh.wikipedia.org/wiki/岩立沙穂 "wikilink")、[内山奈月](https://zh.wikipedia.org/wiki/内山奈月 "wikilink")、[梅田綾乃](../Page/梅田綾乃.md "wikilink")、[大森美優](https://zh.wikipedia.org/wiki/大森美優 "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[冈田奈奈](https://zh.wikipedia.org/wiki/冈田奈奈_\(AKB48\) "wikilink")、[北澤早紀](../Page/北澤早紀.md "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[薩伊德橫田繪玲奈](../Page/薩伊德橫田繪玲奈.md "wikilink")、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")、[篠崎彩奈](https://zh.wikipedia.org/wiki/篠崎彩奈 "wikilink")、[高島祐利奈](https://zh.wikipedia.org/wiki/高島祐利奈 "wikilink")、[西野未姫](https://zh.wikipedia.org/wiki/西野未姫 "wikilink")、[橋本耀](../Page/橋本耀.md "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")、[前田美月](https://zh.wikipedia.org/wiki/前田美月 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")、峯岸南、[茂木忍](../Page/茂木忍.md "wikilink")
+            [相笠萌](../Page/相笠萌.md "wikilink")、[岩立沙穂](https://zh.wikipedia.org/wiki/岩立沙穂 "wikilink")、[内山奈月](https://zh.wikipedia.org/wiki/内山奈月 "wikilink")、[梅田綾乃](../Page/梅田綾乃.md "wikilink")、[大森美優](../Page/大森美優.md "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[冈田奈奈](https://zh.wikipedia.org/wiki/冈田奈奈_\(AKB48\) "wikilink")、[北澤早紀](../Page/北澤早紀.md "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[薩伊德橫田繪玲奈](../Page/薩伊德橫田繪玲奈.md "wikilink")、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")、[篠崎彩奈](../Page/篠崎彩奈.md "wikilink")、[高島祐利奈](https://zh.wikipedia.org/wiki/高島祐利奈 "wikilink")、[西野未姫](https://zh.wikipedia.org/wiki/西野未姫 "wikilink")、[橋本耀](../Page/橋本耀.md "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")、[前田美月](https://zh.wikipedia.org/wiki/前田美月 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")、峯岸南、[茂木忍](../Page/茂木忍.md "wikilink")
               -
                 ※薩伊德橫田最后一次公演是2012年10月6日，同月7日发表辞退。
                 ※峯岸在2013年2月1日被从Team B成员降格为研究生、2月5日开始出演公演。
       - 昇格成员（2012年10月28日后未继续出演）
           -
-            [伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[大島涼花](../Page/大島涼花.md "wikilink")、[小嶋菜月](../Page/小嶋菜月.md "wikilink")、[名取椎菜](https://zh.wikipedia.org/wiki/名取椎菜 "wikilink")、[藤田奈那](../Page/藤田奈那.md "wikilink")、[光宗薫](https://zh.wikipedia.org/wiki/光宗薫 "wikilink")、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")、[森川彩香](https://zh.wikipedia.org/wiki/森川彩香 "wikilink")
+            [伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[大島涼花](../Page/大島涼花.md "wikilink")、[小嶋菜月](../Page/小嶋菜月.md "wikilink")、[名取椎菜](https://zh.wikipedia.org/wiki/名取椎菜 "wikilink")、[藤田奈那](../Page/藤田奈那.md "wikilink")、[光宗薫](https://zh.wikipedia.org/wiki/光宗薫 "wikilink")、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")、[森川彩香](../Page/森川彩香.md "wikilink")
               -
                 ※大島涼、光宗、武藤在2012年8月24日被宣布从研究生昇格。光宗在2012年10月24日辞退\[9\]。
                 ※2012年11月1日开始、伊豆田、大島涼、森川成为Team A、藤田、武藤成为Team
@@ -275,7 +275,7 @@ K的混编组——向日葵组公演的第一弹。人员采取双轨制，每�
 
   - 公演日期：2015年4月24日\[12\]－2016年1月10日
   - 出演成员
-      - 常规16人演出：董艷芸、[馮薪朵](../Page/馮薪朵.md "wikilink")、龔詩淇、[黃婷婷](https://zh.wikipedia.org/wiki/黃婷婷 "wikilink")、何曉玉、[鞠婧禕](../Page/鞠婧禕.md "wikilink")、羅蘭、[林思意](https://zh.wikipedia.org/wiki/林思意 "wikilink")、陸婷、[李藝彤](../Page/李藝彤.md "wikilink")、孟玥、[唐安琪](https://zh.wikipedia.org/wiki/唐安琪 "wikilink")、萬麗娜、易嘉愛、[趙粵](../Page/趙粵.md "wikilink")、[曾艷芬](https://zh.wikipedia.org/wiki/曾艷芬 "wikilink")
+      - 常规16人演出：董艷芸、[馮薪朵](../Page/馮薪朵.md "wikilink")、龔詩淇、[黃婷婷](https://zh.wikipedia.org/wiki/黃婷婷 "wikilink")、何曉玉、[鞠婧禕](../Page/鞠婧禕.md "wikilink")、羅蘭、[林思意](../Page/林思意.md "wikilink")、陸婷、[李藝彤](../Page/李藝彤.md "wikilink")、孟玥、[唐安琪](../Page/唐安琪.md "wikilink")、萬麗娜、易嘉愛、[趙粵](../Page/趙粵.md "wikilink")、[曾艷芬](https://zh.wikipedia.org/wiki/曾艷芬 "wikilink")
       - 初日演出：董艷芸、馮薪朵、龔詩淇、黄婷婷、何晓玉、鞠婧禕、林思意、陸婷、李藝彤、孟玥、唐安琪、萬麗娜、易嘉愛、趙粵、曾艷芬、张雨鑫
   - 分組曲擔當
       - 专属偶像（唐安琪、万丽娜、曾艳芬、羅蘭（张雨鑫））
@@ -303,13 +303,13 @@ K的混编组——向日葵组公演的第一弹。人员采取双轨制，每�
   - 公演期間：2016年7月16日\[15\]－
   - 出演成员
       - Team
-        A：[大家志津香](../Page/大家志津香.md "wikilink")、[大和田南那](../Page/大和田南那.md "wikilink")、[小嶋菜月](../Page/小嶋菜月.md "wikilink")、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")、[田北香世子](https://zh.wikipedia.org/wiki/田北香世子 "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")
+        A：[大家志津香](../Page/大家志津香.md "wikilink")、[大和田南那](../Page/大和田南那.md "wikilink")、[小嶋菜月](../Page/小嶋菜月.md "wikilink")、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")、[田北香世子](../Page/田北香世子.md "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")
       - Team
-        K：[相笠萌](https://zh.wikipedia.org/wiki/相笠萌 "wikilink")、[阿部玛利亚](../Page/阿部玛利亚.md "wikilink")、[市川愛美](https://zh.wikipedia.org/wiki/市川愛美 "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[下口绯奈奈](https://zh.wikipedia.org/wiki/下口绯奈奈 "wikilink")（）、[铃木玛莉亚](https://zh.wikipedia.org/wiki/铃木玛莉亚 "wikilink")（）、[中田千智](../Page/中田千智.md "wikilink")（）、[藤田奈那](../Page/藤田奈那.md "wikilink")、[茂木忍](../Page/茂木忍.md "wikilink")
+        K：[相笠萌](../Page/相笠萌.md "wikilink")、[阿部玛利亚](../Page/阿部玛利亚.md "wikilink")、[市川愛美](../Page/市川愛美.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[下口绯奈奈](https://zh.wikipedia.org/wiki/下口绯奈奈 "wikilink")（）、[铃木玛莉亚](https://zh.wikipedia.org/wiki/铃木玛莉亚 "wikilink")（）、[中田千智](../Page/中田千智.md "wikilink")（）、[藤田奈那](../Page/藤田奈那.md "wikilink")、[茂木忍](../Page/茂木忍.md "wikilink")
       - Team
         B：[梅田綾乃](../Page/梅田綾乃.md "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[達家真姫宝](https://zh.wikipedia.org/wiki/達家真姫宝 "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[馬嘉伶](../Page/馬嘉伶.md "wikilink")、[横島亚衿](https://zh.wikipedia.org/wiki/横島亚衿 "wikilink")
       - Team
-        4：[飯野雅](../Page/飯野雅.md "wikilink")、[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[岩立沙穂](https://zh.wikipedia.org/wiki/岩立沙穂 "wikilink")、[大川莉央](https://zh.wikipedia.org/wiki/大川莉央 "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[岡田奈奈](https://zh.wikipedia.org/wiki/岡田奈奈 "wikilink")、[北澤早紀](../Page/北澤早紀.md "wikilink")、[込山榛香](https://zh.wikipedia.org/wiki/込山榛香 "wikilink")、[佐藤妃星](https://zh.wikipedia.org/wiki/佐藤妃星 "wikilink")、[西野未姫](https://zh.wikipedia.org/wiki/西野未姫 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")
+        4：[飯野雅](../Page/飯野雅.md "wikilink")、[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[岩立沙穂](https://zh.wikipedia.org/wiki/岩立沙穂 "wikilink")、[大川莉央](https://zh.wikipedia.org/wiki/大川莉央 "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[岡田奈奈](https://zh.wikipedia.org/wiki/岡田奈奈 "wikilink")、[北澤早紀](../Page/北澤早紀.md "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[佐藤妃星](https://zh.wikipedia.org/wiki/佐藤妃星 "wikilink")、[西野未姫](https://zh.wikipedia.org/wiki/西野未姫 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")
       - 研究生：[野村奈央](https://zh.wikipedia.org/wiki/野村奈央 "wikilink")、[久保怜音](https://zh.wikipedia.org/wiki/久保怜音 "wikilink")、[高橋希良](https://zh.wikipedia.org/wiki/高橋希良 "wikilink")、[西川怜](https://zh.wikipedia.org/wiki/西川怜 "wikilink")、[山邊步夢](https://zh.wikipedia.org/wiki/山邊步夢 "wikilink")、[千葉惠里](https://zh.wikipedia.org/wiki/千葉惠里 "wikilink")
     <!-- end list -->
       -
@@ -336,7 +336,7 @@ K的混编组——向日葵组公演的第一弹。人员采取双轨制，每�
 | 梅田綾乃       | 大家志津香               |                |
 
   - 自第二场公演起，在演出的最后加演了新曲《[光与影的每一天](https://zh.wikipedia.org/wiki/LOVE_TRIP/分享幸福#光与影的每一天 "wikilink")》（至10月16日止），并于11月14日起追加演唱新單曲《[High
-    Tension](https://zh.wikipedia.org/wiki/High_Tension "wikilink")》。
+    Tension](../Page/High_Tension.md "wikilink")》。
 
 ## 劇場公演CD
 

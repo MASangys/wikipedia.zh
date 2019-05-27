@@ -1,5 +1,5 @@
 **Optare
-Prisma**是[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[Optare公司专为](https://zh.wikipedia.org/wiki/Optare "wikilink")[梅赛德斯-奔驰O405底盘生产的一个单层巴士车身](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰O405 "wikilink")。
+Prisma**是[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[Optare公司专为](../Page/Optare.md "wikilink")[梅赛德斯-奔驰O405底盘生产的一个单层巴士车身](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰O405 "wikilink")。
 
 Optare
 Prisma的車頭是由[梅赛德斯-奔驰制造的标准車頭](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")，侧身和尾部车身是按照当时其他的Optare产品的样式制造，例如[Optare

@@ -1,7 +1,7 @@
 《**Dream
 High**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2011年1月3日起播出的[月火迷你連續劇](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")。
 
-2011年3月1日，即電視劇播畢後的一天在[首爾播出了一個特輯](https://zh.wikipedia.org/wiki/首爾 "wikilink")，由原劇組演員出演。\[1\]\[2\]2012年1月後續的《-{[Dream
+2011年3月1日，即電視劇播畢後的一天在[首爾播出了一個特輯](../Page/首爾.md "wikilink")，由原劇組演員出演。\[1\]\[2\]2012年1月後續的《-{[Dream
 High 2](https://zh.wikipedia.org/wiki/Dream_High_2 "wikilink")}-》播出。
 
 ## 故事大綱

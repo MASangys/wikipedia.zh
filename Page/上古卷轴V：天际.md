@@ -11,7 +11,7 @@ Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStat
 4和](../Page/PlayStation_4.md "wikilink")[Xbox
 One平台发售了重制版](../Page/Xbox_One.md "wikilink")（*The Elder
 Scrolls V: Skyrim Special
-Edition*）。\[4\]此外游戏还在[任天堂Switch上发售](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")。\[5\]
+Edition*）。\[4\]此外游戏还在[任天堂Switch上发售](../Page/任天堂Switch.md "wikilink")。\[5\]
 
 ## 游戏玩法
 
@@ -28,7 +28,7 @@ Concorda），此妥协意味十足的协议导致帝国内部纷争不断。刀
 Blades）没有了效忠的对象，同时也失去了帝国的保护，沦为精灵政权剿灭的目标，成员或遭到暗杀，或被迫躲藏起来。天际省（Skyrim）则因为白金停战协议含有禁止信仰塔洛斯的内容，而引起内讧。鹰派人物，风盔城（Windhelm）领主奥弗瑞克·风暴斗篷向鸽派人物，天际的大领主（High
 King，又译“至高王”）托瑞格发起挑战，在决斗中依靠龙吼的力量击败并杀死了托瑞格。按照诺德人的古代习俗，这样的决斗结果意味着奥弗瑞克取得了大领主之位；但帝国方面借口在一场刀剑相交的决斗中使用龙吼这种力量是违规的，宣布奥弗瑞克是弑君凶手、叛乱者，内讧终于演变成了内战。这恰恰是上古卷轴（The
 Elder
-Scroll）预言中的一部分。预言的第二部分是世界吞噬者奥杜因的回归，伴随着他回归的将是末日的降臨。主角则是预言中提到的龙裔，在[龍語中](https://zh.wikipedia.org/wiki/多瓦祖爾語 "wikilink")“*Dovahkiin*
+Scroll）预言中的一部分。预言的第二部分是世界吞噬者奥杜因的回归，伴随着他回归的将是末日的降臨。主角则是预言中提到的龙裔，在[龍語中](../Page/多瓦祖爾語.md "wikilink")“*Dovahkiin*
 ”（）一语双关，既有着龙的血脉，又是屠龙者，最后的龙裔将肩负起抵御世界毁灭的威胁的重任。
 
 ### 剧情
@@ -37,9 +37,9 @@ Scroll）预言中的一部分。预言的第二部分是世界吞噬者奥杜�
 
 ## 开发
 
-在2010年8月，[托德·霍华德](https://zh.wikipedia.org/wiki/托德·霍华德 "wikilink")（Todd
+在2010年8月，[托德·霍华德](../Page/托德·霍华德.md "wikilink")（Todd
 Howard）在采访中透露，贝塞斯达已经在一款游戏上研发了两年，后续开发仍有很长路要走\[15\]。同年11月，[Eurogamer的记者从一位研发人员口中得知这个游戏就是上古卷轴系列的新作](../Page/Eurogamer.md "wikilink")\[16\]\[17\]。当时贝塞斯达没有当面回应，而在12月的Spike电子游戏奖中，托德·霍华德公布了新作的宣传视频和发布日期\[18\]\[19\]。[Game
-Informer](../Page/Game_Informer.md "wikilink")2011年2月刊首次登载了游戏的相关细节\[20\]。包括将引入一种新的在無界天際的故事和游戏中十分重要的新内容，龍語，或音譯成[多瓦祖爾語](https://zh.wikipedia.org/wiki/多瓦祖爾語 "wikilink")（Dovahzul,
+Informer](../Page/Game_Informer.md "wikilink")2011年2月刊首次登载了游戏的相关细节\[20\]。包括将引入一种新的在無界天際的故事和游戏中十分重要的新内容，龍語，或音譯成[多瓦祖爾語](../Page/多瓦祖爾語.md "wikilink")（Dovahzul,
 ）\[21\]。
 
 無界天際采用了全新的[引擎](../Page/游戏引擎.md "wikilink")，叫作[Creation

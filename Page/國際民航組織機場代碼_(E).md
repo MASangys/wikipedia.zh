@@ -286,7 +286,7 @@
   - **EGCG**：[Strubby機場](https://zh.wikipedia.org/wiki/Strubby機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[Strubby](https://zh.wikipedia.org/wiki/Strubby "wikilink")）
   - **EGCJ**：[謝爾本因埃爾梅特機場](https://zh.wikipedia.org/wiki/謝爾本因埃爾梅特機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[謝爾本因埃爾梅特](https://zh.wikipedia.org/wiki/謝爾本因埃爾梅特 "wikilink")）
   - **EGCK**：[卡那封機場](https://zh.wikipedia.org/wiki/卡那封機場 "wikilink")（[威爾斯](https://zh.wikipedia.org/wiki/威爾斯 "wikilink")[卡那封](https://zh.wikipedia.org/wiki/卡那封 "wikilink")）
-  - **EGCL**：[芬蘭德機場](https://zh.wikipedia.org/wiki/芬蘭德機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[斯伯丁](https://zh.wikipedia.org/wiki/斯伯丁 "wikilink")）
+  - **EGCL**：[芬蘭德機場](https://zh.wikipedia.org/wiki/芬蘭德機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[斯伯丁](../Page/斯伯丁.md "wikilink")）
   - **EGCN**：[羅賓漢機場](https://zh.wikipedia.org/wiki/羅賓漢機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[南約克郡](https://zh.wikipedia.org/wiki/南約克郡 "wikilink")）
   - **EGCO**：[紹斯波特－伯克戴爾金沙機場](https://zh.wikipedia.org/wiki/紹斯波特－伯克戴爾金沙機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[紹斯波特](../Page/紹斯波特.md "wikilink")）
   - **EGCR**：[克羅伊登機場](../Page/克羅伊登機場.md "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")）：(於1959年9月30日關閉)
@@ -314,11 +314,11 @@
   - **EGEH**：[沃爾賽機場](https://zh.wikipedia.org/wiki/沃爾賽機場 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[沃爾賽](https://zh.wikipedia.org/wiki/沃爾賽 "wikilink")）
   - **EGEN**：[北羅納機場](https://zh.wikipedia.org/wiki/北羅納機場 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[北羅納](https://zh.wikipedia.org/wiki/北羅納 "wikilink")）
   - **EGEO**：[奧本機場](https://zh.wikipedia.org/wiki/奧本機場 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[奧本](../Page/奧本.md "wikilink")）
-  - **EGEP**：[帕帕韋斯特雷機場](https://zh.wikipedia.org/wiki/帕帕韋斯特雷機場 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[帕帕韋斯特雷](https://zh.wikipedia.org/wiki/帕帕韋斯特雷 "wikilink")）
+  - **EGEP**：[帕帕韋斯特雷機場](../Page/帕帕韋斯特雷機場.md "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[帕帕韋斯特雷](https://zh.wikipedia.org/wiki/帕帕韋斯特雷 "wikilink")）
   - **EGER**：[斯特朗賽機場](https://zh.wikipedia.org/wiki/斯特朗賽機場 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[斯特朗賽](https://zh.wikipedia.org/wiki/斯特朗賽 "wikilink")）
   - **EGES**：[桑代機場](https://zh.wikipedia.org/wiki/桑代機場 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[桑代](https://zh.wikipedia.org/wiki/桑代 "wikilink")）
   - **EGET**：[Tingwall機場](https://zh.wikipedia.org/wiki/Tingwall機場 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[勒威克](../Page/勒威克.md "wikilink")）
-  - **EGEW**：[韋斯特雷機場](https://zh.wikipedia.org/wiki/韋斯特雷機場 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[韋斯特雷](https://zh.wikipedia.org/wiki/韋斯特雷 "wikilink")）
+  - **EGEW**：[韋斯特雷機場](../Page/韋斯特雷機場.md "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[韋斯特雷](https://zh.wikipedia.org/wiki/韋斯特雷 "wikilink")）
   - **EGFA**：[Aberporth機場](https://zh.wikipedia.org/wiki/Aberporth機場 "wikilink")（[威爾斯](https://zh.wikipedia.org/wiki/威爾斯 "wikilink")[Cardigan](https://zh.wikipedia.org/wiki/Cardigan "wikilink")）
   - **EGFC**：[卡迪夫直升機場](https://zh.wikipedia.org/wiki/卡迪夫直升機場 "wikilink")（[威爾斯](https://zh.wikipedia.org/wiki/威爾斯 "wikilink")[卡迪夫](https://zh.wikipedia.org/wiki/卡迪夫 "wikilink")）
   - **EGFE**：[哈弗福德韋斯特機場](https://zh.wikipedia.org/wiki/哈弗福德韋斯特機場 "wikilink")（[威爾斯](https://zh.wikipedia.org/wiki/威爾斯 "wikilink")[哈弗福德韋斯特](https://zh.wikipedia.org/wiki/哈弗福德韋斯特 "wikilink")）
@@ -347,7 +347,7 @@
   - **EGHR**：[奇切斯特機場](https://zh.wikipedia.org/wiki/奇切斯特機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[奇切斯特](../Page/奇切斯特.md "wikilink")）
   - **EGHS**：[亨斯特里奇機場](https://zh.wikipedia.org/wiki/亨斯特里奇機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[亨斯特里奇](https://zh.wikipedia.org/wiki/亨斯特里奇 "wikilink")）
   - **EGHT**：[特里斯科直升機場](https://zh.wikipedia.org/wiki/特里斯科直升機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[特里斯科](https://zh.wikipedia.org/wiki/特里斯科 "wikilink")）
-  - **EGHU**：[Eaglescott機場](https://zh.wikipedia.org/wiki/Eaglescott機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[大托靈頓](https://zh.wikipedia.org/wiki/大托靈頓 "wikilink")）
+  - **EGHU**：[Eaglescott機場](https://zh.wikipedia.org/wiki/Eaglescott機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[大托靈頓](../Page/大托靈頓.md "wikilink")）
   - **EGHY**：[特魯羅機場](https://zh.wikipedia.org/wiki/特魯羅機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[特魯羅](../Page/特魯羅.md "wikilink")）
   - **EGJA**：[奧爾德尼島機場](https://zh.wikipedia.org/wiki/奧爾德尼島機場 "wikilink")（[海峽群島](https://zh.wikipedia.org/wiki/海峽群島 "wikilink")[奧爾德尼島](https://zh.wikipedia.org/wiki/奧爾德尼島 "wikilink")）
   - **EGJB**：[根西島機場](https://zh.wikipedia.org/wiki/根西島機場 "wikilink")（[海峽群島](https://zh.wikipedia.org/wiki/海峽群島 "wikilink")[根西島](https://zh.wikipedia.org/wiki/根西島 "wikilink")）
@@ -365,7 +365,7 @@
   - **EGLF**：[法恩伯勒機場](https://zh.wikipedia.org/wiki/法恩伯勒機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[法恩伯勒](../Page/法恩伯勒.md "wikilink")）
   - **EGLG**：[潘尚機場](https://zh.wikipedia.org/wiki/潘尚機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[赫特福德](https://zh.wikipedia.org/wiki/赫特福德 "wikilink")）
   - **EGLJ**：[查爾格羅夫機場](https://zh.wikipedia.org/wiki/查爾格羅夫機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[牛津](../Page/牛津.md "wikilink")）
-  - **EGLK**：[Blackbushe機場](https://zh.wikipedia.org/wiki/Blackbushe機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[坎伯利](https://zh.wikipedia.org/wiki/坎伯利 "wikilink")）
+  - **EGLK**：[Blackbushe機場](https://zh.wikipedia.org/wiki/Blackbushe機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[坎伯利](../Page/坎伯利.md "wikilink")）
   - **EGLL**：[倫敦希斯路機場](../Page/倫敦希斯路機場.md "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")）
   - **EGLM**：[白沃爾瑟姆機場](https://zh.wikipedia.org/wiki/白沃爾瑟姆機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[白沃爾瑟姆](https://zh.wikipedia.org/wiki/白沃爾瑟姆 "wikilink")）
   - **EGLP**：[布林普頓機場](https://zh.wikipedia.org/wiki/布林普頓機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[巴克爾伯里](https://zh.wikipedia.org/wiki/巴克爾伯里 "wikilink")）
@@ -410,7 +410,7 @@
   - **EGPD**：[亞伯丁機場](https://zh.wikipedia.org/wiki/亞伯丁機場 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[亞伯丁](https://zh.wikipedia.org/wiki/亞伯丁 "wikilink")）
   - **EGPE**：[恩華尼斯機場](https://zh.wikipedia.org/wiki/恩華尼斯機場 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[恩華尼斯](https://zh.wikipedia.org/wiki/恩華尼斯 "wikilink")）
   - **EGPF**：[格拉斯哥國際機場](https://zh.wikipedia.org/wiki/格拉斯哥國際機場 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[格拉斯哥](https://zh.wikipedia.org/wiki/格拉斯哥 "wikilink")）
-  - **EGPG**：[坎伯諾爾德機場](https://zh.wikipedia.org/wiki/坎伯諾爾德機場 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[坎伯諾爾德](https://zh.wikipedia.org/wiki/坎伯諾爾德 "wikilink")）
+  - **EGPG**：[坎伯諾爾德機場](https://zh.wikipedia.org/wiki/坎伯諾爾德機場 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[坎伯諾爾德](../Page/坎伯諾爾德.md "wikilink")）
   - **EGPH**：[愛丁堡機場](../Page/愛丁堡機場.md "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[愛丁堡](https://zh.wikipedia.org/wiki/愛丁堡 "wikilink")）
   - **EGPI**：[艾拉島機場](https://zh.wikipedia.org/wiki/艾拉島機場 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[艾拉島](../Page/艾拉島.md "wikilink")）
   - **EGPJ**：[Fife機場](https://zh.wikipedia.org/wiki/Fife機場 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[格倫羅西斯](../Page/格倫羅西斯.md "wikilink")）
@@ -426,7 +426,7 @@
   - **EGQM**：[博爾默皇家空軍基地](https://zh.wikipedia.org/wiki/博爾默皇家空軍基地 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[阿尼克](https://zh.wikipedia.org/wiki/阿尼克 "wikilink")）
   - **EGQS**：[洛西茅斯皇家空軍基地](https://zh.wikipedia.org/wiki/洛西茅斯皇家空軍基地 "wikilink")（[蘇格蘭](../Page/蘇格蘭.md "wikilink")[洛西茅斯](https://zh.wikipedia.org/wiki/洛西茅斯 "wikilink")）
   - **EGSA**：[希普德姆機場](https://zh.wikipedia.org/wiki/希普德姆機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[希普德姆](https://zh.wikipedia.org/wiki/希普德姆 "wikilink")）
-  - **EGSB**：[貝德福德－卡斯爾米爾機場](https://zh.wikipedia.org/wiki/貝德福德－卡斯爾米爾機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[貝德福德](https://zh.wikipedia.org/wiki/貝德福德 "wikilink")）
+  - **EGSB**：[貝德福德－卡斯爾米爾機場](https://zh.wikipedia.org/wiki/貝德福德－卡斯爾米爾機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[貝德福德](../Page/貝德福德.md "wikilink")）
   - **EGSC**：[劍橋機場](https://zh.wikipedia.org/wiki/劍橋機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[劍橋](../Page/劍橋.md "wikilink")）
   - **EGSD**：[大雅茅斯－北德納機場](https://zh.wikipedia.org/wiki/大雅茅斯－北德納機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[大雅茅斯](../Page/大雅茅斯.md "wikilink")）
   - **EGSF**：[彼得伯勒商業機場](https://zh.wikipedia.org/wiki/彼得伯勒商業機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[彼得伯勒](../Page/彼得伯勒.md "wikilink")）
@@ -435,12 +435,12 @@
   - **EGSJ**：[Seething機場](https://zh.wikipedia.org/wiki/Seething機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[諾域治](https://zh.wikipedia.org/wiki/諾域治 "wikilink")）
   - **EGSK**：[Hethel機場](https://zh.wikipedia.org/wiki/Hethel機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[Hethel](https://zh.wikipedia.org/wiki/Hethel "wikilink")）
   - **EGSL**：[Andrewsfield機場](https://zh.wikipedia.org/wiki/Andrewsfield機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[布倫特里](https://zh.wikipedia.org/wiki/布倫特里 "wikilink")）
-  - **EGSM**：[貝克爾斯機場](https://zh.wikipedia.org/wiki/貝克爾斯機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[貝克爾斯](https://zh.wikipedia.org/wiki/貝克爾斯 "wikilink")）
+  - **EGSM**：[貝克爾斯機場](https://zh.wikipedia.org/wiki/貝克爾斯機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[貝克爾斯](../Page/貝克爾斯.md "wikilink")）
   - **EGSN**：[畛域機場](https://zh.wikipedia.org/wiki/畛域機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[劍橋](../Page/劍橋.md "wikilink")）
   - **EGSO**：[克羅菲爾德機場](https://zh.wikipedia.org/wiki/克羅菲爾德機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[伊普斯威奇](../Page/伊普斯威奇.md "wikilink")）
   - **EGSP**：[彼得伯勒/錫布森機場](https://zh.wikipedia.org/wiki/彼得伯勒/錫布森機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[彼得伯勒](../Page/彼得伯勒.md "wikilink")）
   - **EGSQ**：[克拉克頓機場](https://zh.wikipedia.org/wiki/克拉克頓機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[克拉克頓](https://zh.wikipedia.org/wiki/克拉克頓 "wikilink")）
-  - **EGSR**：（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[霍爾斯特德](https://zh.wikipedia.org/wiki/霍爾斯特德 "wikilink")）
+  - **EGSR**：（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[霍爾斯特德](../Page/霍爾斯特德.md "wikilink")）
   - **EGSS**：[倫敦斯坦斯特德機場](https://zh.wikipedia.org/wiki/倫敦斯坦斯特德機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")）
   - **EGST**：[埃爾姆西特機場](https://zh.wikipedia.org/wiki/埃爾姆西特機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[伊普斯威奇](../Page/伊普斯威奇.md "wikilink")）
   - **EGSU**：[達克斯福德機場](https://zh.wikipedia.org/wiki/達克斯福德機場 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[劍橋](../Page/劍橋.md "wikilink")）
@@ -468,7 +468,7 @@
   - **EGUW**：（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[斯托馬克特](https://zh.wikipedia.org/wiki/斯托馬克特 "wikilink")）
   - **EGUY**：[威頓皇家空軍基地](https://zh.wikipedia.org/wiki/威頓皇家空軍基地 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[聖艾夫斯](https://zh.wikipedia.org/wiki/聖艾夫斯 "wikilink")）
   - **EGVA**：（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[費爾福德](../Page/費爾福德.md "wikilink")）
-  - **EGVN**：[布萊茲諾頓皇家空軍基地](https://zh.wikipedia.org/wiki/布萊茲諾頓皇家空軍基地 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")）
+  - **EGVN**：[布萊茲諾頓皇家空軍基地](../Page/布萊茲諾頓皇家空軍基地.md "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")）
   - **EGVO**：[奧迪厄姆皇家空軍基地](https://zh.wikipedia.org/wiki/奧迪厄姆皇家空軍基地 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[奧迪厄姆](https://zh.wikipedia.org/wiki/奧迪厄姆 "wikilink")）
   - **EGVP**：[中旺洛皇家空軍基地](https://zh.wikipedia.org/wiki/中旺洛皇家空軍基地 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[安多弗](https://zh.wikipedia.org/wiki/安多弗 "wikilink")）
   - **EGWC**：[科斯福德皇家空軍基地](https://zh.wikipedia.org/wiki/科斯福德皇家空軍基地 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[奧爾布賴頓](https://zh.wikipedia.org/wiki/奧爾布賴頓 "wikilink")）
@@ -496,7 +496,7 @@
 
   - **EHAM**：[史基浦機場](https://zh.wikipedia.org/wiki/史基浦機場 "wikilink")（[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")[哈勒默梅爾](../Page/哈勒默梅爾.md "wikilink")）
   - **EHBD**：[比德爾機場](https://zh.wikipedia.org/wiki/比德爾機場 "wikilink")（[韋爾特](https://zh.wikipedia.org/wiki/韋爾特 "wikilink")）
-  - **EHDB**：[荷蘭皇家氣象研究所機場](https://zh.wikipedia.org/wiki/荷蘭皇家氣象研究所機場 "wikilink")（[德比爾特](https://zh.wikipedia.org/wiki/德比爾特 "wikilink")）
+  - **EHDB**：[荷蘭皇家氣象研究所機場](https://zh.wikipedia.org/wiki/荷蘭皇家氣象研究所機場 "wikilink")（[德比爾特](../Page/德比爾特.md "wikilink")）
   - **EHBK**：[馬斯特里赫特－亞琛機場](https://zh.wikipedia.org/wiki/馬斯特里赫特－亞琛機場 "wikilink")（[馬斯特里赫特](https://zh.wikipedia.org/wiki/馬斯特里赫特 "wikilink")）
   - **EHDL**：[代倫空軍基地](https://zh.wikipedia.org/wiki/代倫空軍基地 "wikilink")（[代倫](https://zh.wikipedia.org/wiki/代倫 "wikilink")）
   - **EHDP**：[德佩爾機場](https://zh.wikipedia.org/wiki/德佩爾機場 "wikilink")（[Venray](https://zh.wikipedia.org/wiki/Venray "wikilink")）
@@ -508,7 +508,7 @@
   - **EHHV**：[希佛薩姆機場](https://zh.wikipedia.org/wiki/希佛薩姆機場 "wikilink")（[希佛薩姆](https://zh.wikipedia.org/wiki/希佛薩姆 "wikilink")）
   - **EHKD**：[De
     Kooy機場](https://zh.wikipedia.org/wiki/De_Kooy機場 "wikilink")（[登海爾德](https://zh.wikipedia.org/wiki/登海爾德 "wikilink")）
-  - **EHVK**：[沃爾克爾空軍基地](https://zh.wikipedia.org/wiki/沃爾克爾空軍基地 "wikilink")（[烏登](https://zh.wikipedia.org/wiki/烏登 "wikilink")）
+  - **EHVK**：[沃爾克爾空軍基地](https://zh.wikipedia.org/wiki/沃爾克爾空軍基地 "wikilink")（[烏登](../Page/烏登.md "wikilink")）
   - **EHLE**：[萊利斯塔德機場](https://zh.wikipedia.org/wiki/萊利斯塔德機場 "wikilink")（[萊利斯塔德](https://zh.wikipedia.org/wiki/萊利斯塔德 "wikilink")）
   - **EHLW**：[呂伐登空軍基地](https://zh.wikipedia.org/wiki/呂伐登空軍基地 "wikilink")（[呂伐登](https://zh.wikipedia.org/wiki/呂伐登 "wikilink")）
   - **EHMC**：[Nieuw-Millingen機場](https://zh.wikipedia.org/wiki/Nieuw-Millingen機場 "wikilink")（[Nieuw-Millingen](https://zh.wikipedia.org/wiki/Nieuw-Millingen "wikilink")）
@@ -739,7 +739,7 @@
   - **ESKG**：[Gryttjom機場](https://zh.wikipedia.org/wiki/Gryttjom機場 "wikilink")（[Gryttjom](https://zh.wikipedia.org/wiki/Gryttjom "wikilink")）
   - **ESKH**：[埃克斯海拉德機場](https://zh.wikipedia.org/wiki/埃克斯海拉德機場 "wikilink")（[埃克斯海拉德](https://zh.wikipedia.org/wiki/埃克斯海拉德 "wikilink")）
   - **ESKK**：[卡爾斯庫加機場](https://zh.wikipedia.org/wiki/卡爾斯庫加機場 "wikilink")（[卡爾斯庫加](https://zh.wikipedia.org/wiki/卡爾斯庫加 "wikilink")）
-  - **ESKM**：[Mora-Siljan機場](https://zh.wikipedia.org/wiki/Mora-Siljan機場 "wikilink")（[Mora](https://zh.wikipedia.org/wiki/Mora "wikilink")）
+  - **ESKM**：[Mora-Siljan機場](https://zh.wikipedia.org/wiki/Mora-Siljan機場 "wikilink")（[Mora](../Page/Mora.md "wikilink")）
   - **ESKN**：[斯德哥爾摩－斯卡夫司塔機場](https://zh.wikipedia.org/wiki/斯德哥爾摩－斯卡夫司塔機場 "wikilink")（[斯德哥爾摩](https://zh.wikipedia.org/wiki/斯德哥爾摩 "wikilink")／[尼雪平](../Page/尼雪平.md "wikilink")）
   - **ESKO**：[蒙克福什機場](https://zh.wikipedia.org/wiki/蒙克福什機場 "wikilink")（[蒙克福什](https://zh.wikipedia.org/wiki/蒙克福什 "wikilink")）
   - **ESKS**：[斯特蘭奈斯空軍基地](https://zh.wikipedia.org/wiki/斯特蘭奈斯空軍基地 "wikilink")（[斯特蘭奈斯](https://zh.wikipedia.org/wiki/斯特蘭奈斯 "wikilink")）-已關閉
@@ -761,7 +761,7 @@
   - **ESML**：[蘭斯克魯納機場](https://zh.wikipedia.org/wiki/蘭斯克魯納機場 "wikilink")（[蘭斯克魯納](https://zh.wikipedia.org/wiki/蘭斯克魯納 "wikilink")）
   - **ESMN**：[隆德機場](https://zh.wikipedia.org/wiki/隆德機場 "wikilink")（[隆德](../Page/隆德.md "wikilink")）
   - **ESMO**：[奧斯卡港機場](https://zh.wikipedia.org/wiki/奧斯卡港機場 "wikilink")（[奧斯卡港](../Page/奧斯卡港.md "wikilink")）
-  - **ESMP**：[安德什托普機場](https://zh.wikipedia.org/wiki/安德什托普機場 "wikilink")（[安德什托普](https://zh.wikipedia.org/wiki/安德什托普 "wikilink")）
+  - **ESMP**：[安德什托普機場](https://zh.wikipedia.org/wiki/安德什托普機場 "wikilink")（[安德什托普](../Page/安德什托普.md "wikilink")）
   - **ESMQ**：[卡爾馬機場](https://zh.wikipedia.org/wiki/卡爾馬機場 "wikilink")（[卡爾馬](../Page/卡爾馬.md "wikilink")）
   - **ESMR**：[特雷勒堡機場](https://zh.wikipedia.org/wiki/特雷勒堡機場 "wikilink")（[特雷勒堡](../Page/特雷勒堡.md "wikilink")）
   - **ESMS**：[馬爾默機場](https://zh.wikipedia.org/wiki/馬爾默機場 "wikilink")（[馬爾默](https://zh.wikipedia.org/wiki/馬爾默 "wikilink")）
@@ -854,7 +854,7 @@
   - **ESUV**：[艾爾夫斯賓機場](https://zh.wikipedia.org/wiki/艾爾夫斯賓機場 "wikilink")（[艾爾夫斯賓](https://zh.wikipedia.org/wiki/艾爾夫斯賓 "wikilink")）
   - **ESUY**：[埃斯賓機場](https://zh.wikipedia.org/wiki/埃斯賓機場 "wikilink")（[埃斯賓](https://zh.wikipedia.org/wiki/埃斯賓 "wikilink")）
   - **ESVA**：[阿沃斯塔機場](https://zh.wikipedia.org/wiki/阿沃斯塔機場 "wikilink")（[阿沃斯塔市](https://zh.wikipedia.org/wiki/阿沃斯塔市 "wikilink")）
-  - **ESVB**：[邦吉機場](https://zh.wikipedia.org/wiki/邦吉機場 "wikilink")（[邦吉](https://zh.wikipedia.org/wiki/邦吉 "wikilink")）
+  - **ESVB**：[邦吉機場](https://zh.wikipedia.org/wiki/邦吉機場 "wikilink")（[邦吉](../Page/邦吉.md "wikilink")）
   - **ESVG**：[岡內夫機場](https://zh.wikipedia.org/wiki/岡內夫機場 "wikilink")（[岡內夫](https://zh.wikipedia.org/wiki/岡內夫 "wikilink")）
   - **ESVH**：[海勒福什機場](https://zh.wikipedia.org/wiki/海勒福什機場 "wikilink")（[海勒福什](https://zh.wikipedia.org/wiki/海勒福什 "wikilink")）
   - **ESVK**：[卡特琳娜霍爾姆機場](https://zh.wikipedia.org/wiki/卡特琳娜霍爾姆機場 "wikilink")（[卡特琳娜霍爾姆](https://zh.wikipedia.org/wiki/卡特琳娜霍爾姆 "wikilink")）

@@ -179,7 +179,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的後作，但是�
 <td><p>第1話</p></td>
 <td></td>
 <td><p>海豚老師終於到了Yeah！</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柿原優子" title="wikilink">柿原優子</a></p></td>
+<td><p><a href="../Page/柿原優子.md" title="wikilink">柿原優子</a></p></td>
 <td><p>稻垣隆行</p></td>
 <td><p>福井俊介<br />
 遠藤晉</p></td>
@@ -247,7 +247,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的後作，但是�
 <td></td>
 <td><p>莎菲的秘密Yeah！</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山口宏" title="wikilink">山口宏</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小寺勝之" title="wikilink">小寺勝之</a></p></td>
+<td><p><a href="../Page/小寺勝之.md" title="wikilink">小寺勝之</a></p></td>
 <td><p>徐惠真</p></td>
 <td><p>相坂ナオキ<br />
 金城美保</p></td>
@@ -258,7 +258,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的後作，但是�
 <td></td>
 <td><p>海豚格林披治大賽Yeah！</p></td>
 <td><p>柿原優子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/石踊宏" title="wikilink">石踊宏</a></p></td>
+<td><p><a href="../Page/石踊宏.md" title="wikilink">石踊宏</a></p></td>
 <td><p>松本勝次<br />
 川島尚</p></td>
 <td><p>7月18日</p></td>
@@ -585,7 +585,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的後作，但是�
 稻垣隆行</p></td>
 <td><p>荻原露光<br />
 稻垣隆行<br />
-<a href="https://zh.wikipedia.org/wiki/三澤伸" title="wikilink">三澤伸</a><br />
+<a href="../Page/三澤伸.md" title="wikilink">三澤伸</a><br />
 </p></td>
 <td><p>野田康行</p></td>
 <td><p>9月25日</p></td>
@@ -853,7 +853,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的後作，但是�
 <td></td>
 <td><p>荒野的兩個人Yeah！</p></td>
 <td><p>江夏由結</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三澤伸" title="wikilink">三澤伸</a></p></td>
+<td><p><a href="../Page/三澤伸.md" title="wikilink">三澤伸</a></p></td>
 <td><p>川久保圭史</p></td>
 <td><p>菅野智之<br />
 吉本拓二</p></td>

@@ -16,7 +16,7 @@ MUSIC-TV](https://zh.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")』的後繼節�
 
 :\*[杉上佐智枝播報員](https://zh.wikipedia.org/wiki/杉上佐智枝 "wikilink")（青木的産休代理、2010年2月19日出演）
 
-  - [キングコング](https://zh.wikipedia.org/wiki/キングコング_\(お笑い\) "wikilink")（[西野亮廣](https://zh.wikipedia.org/wiki/西野亮廣 "wikilink")・[梶原雄太](https://zh.wikipedia.org/wiki/梶原雄太 "wikilink")）
+  - [キングコング](https://zh.wikipedia.org/wiki/キングコング_\(お笑い\) "wikilink")（[西野亮廣](../Page/西野亮廣.md "wikilink")・[梶原雄太](https://zh.wikipedia.org/wiki/梶原雄太 "wikilink")）
   - [新谷保志播報員](https://zh.wikipedia.org/wiki/新谷保志 "wikilink")（旁白）
 
 <!-- end list -->

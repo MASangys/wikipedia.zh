@@ -77,8 +77,7 @@ Rackspace以OpenStack為基礎的私有雲業務每年7億美元，增長率超�
 
 ## 相關條目
 
-  - [IEEE
-    802.1aq](https://zh.wikipedia.org/wiki/IEEE_802.1aq "wikilink")
+  - [IEEE 802.1aq](../Page/IEEE_802.1aq.md "wikilink")
   - [OpenFlow](../Page/OpenFlow.md "wikilink")
 
 ## 參-{}-考文獻

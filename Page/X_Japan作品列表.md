@@ -301,7 +301,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>1988年4月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Vanishing_Vision" title="wikilink">Vanishing Vision</a></p></td>
+<td><p><a href="../Page/Vanishing_Vision.md" title="wikilink">Vanishing Vision</a></p></td>
 <td><p>EXTASY RECORDS</p></td>
 <td><p>EXL-001 (LP)</p></td>
 <td><p>85</p></td>
@@ -328,7 +328,7 @@
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>1989年4月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BLUE_BLOOD" title="wikilink">BLUE BLOOD</a></p></td>
+<td><p><a href="../Page/BLUE_BLOOD.md" title="wikilink">BLUE BLOOD</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/日本索尼音樂" title="wikilink">CBS Sony</a></p></td>
 <td><p>32DH-5224</p></td>
 <td><p>6</p></td>
@@ -780,7 +780,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/WE_ARE_X：X_JAPAN重生之路" title="wikilink">WE ARE X：X JAPAN重生之路</a></p></td>
+<td><p><a href="../Page/WE_ARE_X：X_JAPAN重生之路.md" title="wikilink">WE ARE X：X JAPAN重生之路</a></p></td>
 <td><p>2017年4月25日</p></td>
 <td></td>
 <td><p>2016年1月23日首映，關於X JAPAN樂團成員與其領導者YOSHIKI的故事，並在2014年10月紐約<a href="https://zh.wikipedia.org/wiki/麥迪遜廣場花園" title="wikilink">麥迪遜廣場花園演唱會舉行前後的時期跟拍</a>。</p></td>

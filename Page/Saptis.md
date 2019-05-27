@@ -1,5 +1,5 @@
 **SapTis**( Structure Analysis Program for Temperature and its Induced
-Stress)早期为一款[混凝土结构](../Page/混凝土.md "wikilink")[温度场](https://zh.wikipedia.org/wiki/温度场 "wikilink")、[温度应力分析](https://zh.wikipedia.org/wiki/温度应力 "wikilink")[软件](../Page/软件.md "wikilink")，由[中国水利水电科学研究院](https://zh.wikipedia.org/wiki/中国水利水电科学研究院 "wikilink")[张国新独自开发](https://zh.wikipedia.org/wiki/张国新 "wikilink")，已有20多年的开发应用历史。现已开发成为一款大型结构温度场、应力场线性及非线性分析程序。主要功能及特点如下：
+Stress)早期为一款[混凝土结构](../Page/混凝土.md "wikilink")[温度场](https://zh.wikipedia.org/wiki/温度场 "wikilink")、[温度应力分析](https://zh.wikipedia.org/wiki/温度应力 "wikilink")[软件](../Page/软件.md "wikilink")，由[中国水利水电科学研究院](https://zh.wikipedia.org/wiki/中国水利水电科学研究院 "wikilink")[张国新独自开发](../Page/张国新.md "wikilink")，已有20多年的开发应用历史。现已开发成为一款大型结构温度场、应力场线性及非线性分析程序。主要功能及特点如下：
 
 ## 混凝土坝浇筑到运行全过程仿真分析
 

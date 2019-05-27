@@ -280,7 +280,7 @@
 </tr>
 <tr class="odd">
 <td><p>1998年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/B&#39;z_The_Best_&quot;Pleasure&quot;" title="wikilink">B'z The Best "Pleasure"</a></p></td>
+<td><p><a href="../Page/B&#39;z_The_Best_&quot;Pleasure&quot;.md" title="wikilink">B'z The Best "Pleasure"</a></p></td>
 <td><p><a href="../Page/B&#39;z.md" title="wikilink">B'z</a></p></td>
 <td><p>1998年5月20日</p></td>
 <td><p>精選</p></td>
@@ -442,7 +442,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Are_You_Happy?" title="wikilink">Are You Happy?</a></p></td>
+<td><p><a href="../Page/Are_You_Happy?.md" title="wikilink">Are You Happy?</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>2016年10月26日</p></td>
 <td><p>原創</p></td>
@@ -451,7 +451,7 @@
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Finally" title="wikilink">Finally</a></p></td>
+<td><p><a href="../Page/Finally.md" title="wikilink">Finally</a></p></td>
 <td><p><a href="../Page/安室奈美惠.md" title="wikilink">安室奈美惠</a></p></td>
 <td><p>2017年11月8日</p></td>
 <td><p>精選</p></td>

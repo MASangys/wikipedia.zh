@@ -113,15 +113,14 @@
   - [伊莎貝爾 (2014) 「他他篇」](https://www.youtube.com/watch?v=OANSCeE5EhI)
   - [Tiffany & Co. (2015) "Love Without
     Limits"](https://www.youtube.com/watch?v=eIFE0cX48Ic)
-  - 麥當勞McCafé
-    [讓對話更有溫度「接納篇」](https://zh.wikipedia.org/wiki/讓對話更有溫度「接納篇」 "wikilink")
+  - 麥當勞McCafé [讓對話更有溫度「接納篇」](../Page/讓對話更有溫度「接納篇」.md "wikilink")
   - [Gay Ad Network](http://www.gayadnetwork.com/)
 
 ### 電影
 
   - [泰迪熊奖](../Page/泰迪熊奖.md "wikilink")：[柏林國際影展專門為影展中各個單元反映LGBT題材的電影所設的一個專門獎項](https://zh.wikipedia.org/wiki/柏林國際影展 "wikilink")
 
-  - ：由[GLAAD設立](https://zh.wikipedia.org/wiki/GLAAD "wikilink")，頒發給對LGBT有重大影響的電影、電視劇、戲劇、音樂、雜誌、廣告等大眾傳播媒體的獎項
+  - ：由[GLAAD設立](../Page/GLAAD.md "wikilink")，頒發給對LGBT有重大影響的電影、電視劇、戲劇、音樂、雜誌、廣告等大眾傳播媒體的獎項
 
   - [香港同志電影節](https://zh.wikipedia.org/wiki/香港同志電影節 "wikilink")：亞洲歷史最悠久的同志電影節《香港同志影展》每年旨在尋找並向大家呈獻世界各地最好和最新的同志電影。
 
@@ -143,7 +142,7 @@ village）為同性戀、雙性戀、跨性別等人口集中居住或頻繁活�
 
   - [歐美](https://zh.wikipedia.org/wiki/歐美 "wikilink")
       - [倫敦蘇荷區](https://zh.wikipedia.org/wiki/倫敦蘇荷區 "wikilink")、[伯明罕](https://zh.wikipedia.org/wiki/伯明罕 "wikilink")、[曼徹斯特](https://zh.wikipedia.org/wiki/曼徹斯特 "wikilink")[Canal
-        Street](https://zh.wikipedia.org/wiki/运河街_\(曼彻斯特\) "wikilink")
+        Street](../Page/运河街_\(曼彻斯特\).md "wikilink")
       - [紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")[切爾西](https://zh.wikipedia.org/wiki/切爾西 "wikilink")、[同志街](../Page/同志街.md "wikilink")、[石牆酒吧](../Page/石牆酒吧.md "wikilink")、[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[卡斯楚街](../Page/卡斯楚街.md "wikilink")、[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[西好萊塢](https://zh.wikipedia.org/wiki/西好萊塢 "wikilink")
       - [多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")
       - [馬德里](https://zh.wikipedia.org/wiki/馬德里 "wikilink")、[錫切斯](https://zh.wikipedia.org/wiki/錫切斯 "wikilink")
@@ -155,7 +154,7 @@ village）為同性戀、雙性戀、跨性別等人口集中居住或頻繁活�
   - [亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")
       - [特拉維夫](https://zh.wikipedia.org/wiki/特拉維夫 "wikilink")：特拉維夫被評選為最能接受LGBT生活的城市而被譽為同性戀之聖地。
       - [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[新宿二丁目](../Page/新宿.md "wikilink")、[大阪堂山町](../Page/大阪市.md "wikilink")
-      - [首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")[鐘路區](../Page/鐘路區.md "wikilink")、[梨泰院](../Page/梨泰院.md "wikilink")
+      - [首爾](../Page/首爾.md "wikilink")[鐘路區](../Page/鐘路區.md "wikilink")、[梨泰院](../Page/梨泰院.md "wikilink")
       - [曼谷](../Page/曼谷.md "wikilink")[是隆區](../Page/是隆路.md "wikilink")
       - [馬尼拉](https://zh.wikipedia.org/wiki/馬尼拉 "wikilink")
   - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")
@@ -206,7 +205,7 @@ village）為同性戀、雙性戀、跨性別等人口集中居住或頻繁活�
   - [LGBT虛構角色列表](../Page/LGBT虛構角色列表.md "wikilink")
 
   -
-  - [BL文化](https://zh.wikipedia.org/wiki/BL_\(和製英語\) "wikilink")
+  - [BL文化](../Page/BL_\(和製英語\).md "wikilink")
 
 ## 參考來源
 

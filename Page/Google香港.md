@@ -26,7 +26,7 @@ Suggest）的[香港粵語拼音搜尋服務](https://zh.wikipedia.org/wiki/香�
 
 2011年9月28日，Google宣布在[將軍澳購入](../Page/將軍澳.md "wikilink")2.7公頃土地，將耗費一億美元興建一座[數據中心](https://zh.wikipedia.org/wiki/數據中心 "wikilink")，\[4\]
 長遠投資達三億美元。\[5\]
-2013年，Google放棄有關工程\[6\]並先後啟用了新加坡資料中心與[台灣資料中心](https://zh.wikipedia.org/wiki/Google台灣資料中心 "wikilink")。
+2013年，Google放棄有關工程\[6\]並先後啟用了新加坡資料中心與[台灣資料中心](../Page/Google台灣資料中心.md "wikilink")。
 
 ## 參考文獻
 

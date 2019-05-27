@@ -292,8 +292,8 @@ TRG-42 2007-w24 18-1f.jpg|沙科TRG-42狙擊步槍（左右兩視圖） <File:Sa
   - [FN TSR](https://zh.wikipedia.org/wiki/FN_TSR狙擊步槍 "wikilink")
   - [FN Ballista](../Page/FN弩炮精確狙擊步槍.md "wikilink")
   - [FR-F2](../Page/FR-F2狙擊步槍.md "wikilink")
-  - [GOL狙擊手麥格農](https://zh.wikipedia.org/wiki/GOL狙擊手麥格農步槍 "wikilink")
-  - [IWI DAN](https://zh.wikipedia.org/wiki/IWI_DAN狙擊步槍 "wikilink")
+  - [GOL狙擊手麥格農](../Page/GOL狙擊手麥格農步槍.md "wikilink")
+  - [IWI DAN](../Page/IWI_DAN狙擊步槍.md "wikilink")
   - [JNG-90](../Page/JNG-90狙擊步槍.md "wikilink")
   - [JS 7.62](../Page/JS_7.62毫米狙击步枪.md "wikilink")
   - [Kefefs](https://zh.wikipedia.org/wiki/Kefefs狙擊步槍 "wikilink")
@@ -304,7 +304,7 @@ TRG-42 2007-w24 18-1f.jpg|沙科TRG-42狙擊步槍（左右兩視圖） <File:Sa
   - [雷明登700](../Page/雷明登700步槍.md "wikilink")
   - [雷明登M24](../Page/M24狙擊手武器系統.md "wikilink")
   - [雷明登M40](../Page/M40狙擊步槍.md "wikilink")
-  - [PGM 338](https://zh.wikipedia.org/wiki/PGM_338狙擊步槍 "wikilink")
+  - [PGM 338](../Page/PGM_338狙擊步槍.md "wikilink")
   - [雷明登SR8](../Page/雷明登SR8狙擊步槍.md "wikilink")
   - [雷明登M40-XS](https://zh.wikipedia.org/wiki/雷明登M40-XS狙擊步槍 "wikilink")
   - [雷明登M2010](../Page/M2010增強型狙擊步槍.md "wikilink")
@@ -403,8 +403,8 @@ TRG-42 2007-w24 18-1f.jpg|沙科TRG-42狙擊步槍（左右兩視圖） <File:Sa
     collection)](http://uvson308.free.fr/photogallery/TRG42/thumb.html)
 
   - —[uvson308.com TRG-42 vs. [PGM .338
-    LM](https://zh.wikipedia.org/wiki/PGM_338狙擊步槍 "wikilink") by Julien
-    Cartier (image
+    LM](../Page/PGM_338狙擊步槍.md "wikilink") by Julien Cartier
+    (image
     collection)](http://uvson308.free.fr/photogallery/TRGvsPGM/thumb.html)
 
   - —[Guns Magazine, April, 2002: Sako's sniper: The TRG-22 precision

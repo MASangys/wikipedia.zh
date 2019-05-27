@@ -243,7 +243,7 @@
 ## 工作人員
 
   - 編劇：[野島伸司](../Page/野島伸司.md "wikilink")
-  - 音樂：[千住明](../Page/千住明.md "wikilink")、[池賴廣](https://zh.wikipedia.org/wiki/池賴廣 "wikilink")
+  - 音樂：[千住明](../Page/千住明.md "wikilink")、[池賴廣](../Page/池賴廣.md "wikilink")
   - 製作人：[東康之](https://zh.wikipedia.org/wiki/東康之 "wikilink")
   - 導演：[河毛俊作](https://zh.wikipedia.org/wiki/河毛俊作 "wikilink")、[加藤裕將](https://zh.wikipedia.org/wiki/加藤裕將 "wikilink")、[石井祐介](https://zh.wikipedia.org/wiki/石井祐介 "wikilink")
   - 製作：富士電視台電視劇製作中心

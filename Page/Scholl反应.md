@@ -5,7 +5,7 @@
 
 [Scholl-reactie.png](https://zh.wikipedia.org/wiki/File:Scholl-reactie.png "fig:Scholl-reactie.png")
 
-常用的反应试剂有[氯化铁](../Page/氯化铁.md "wikilink")-[二氯甲烷](../Page/二氯甲烷.md "wikilink")；[氯化铜](../Page/氯化铜.md "wikilink")、[(双(三氟乙酰氧基)碘)苯和](https://zh.wikipedia.org/wiki/\(双\(三氟乙酰氧基\)碘\)苯 "wikilink")[三氟化硼醚络合物在](../Page/三氟化硼.md "wikilink")[二氯甲烷中的溶液](../Page/二氯甲烷.md "wikilink")，以及[五氯化钼和](https://zh.wikipedia.org/wiki/五氯化钼 "wikilink")[四乙酸铅与三氟化硼在](../Page/四乙酸铅.md "wikilink")[乙腈中的溶液](../Page/乙腈.md "wikilink")。\[3\]
+常用的反应试剂有[氯化铁](../Page/氯化铁.md "wikilink")-[二氯甲烷](../Page/二氯甲烷.md "wikilink")；[氯化铜](../Page/氯化铜.md "wikilink")、[(双(三氟乙酰氧基)碘)苯和](https://zh.wikipedia.org/wiki/\(双\(三氟乙酰氧基\)碘\)苯 "wikilink")[三氟化硼醚络合物在](../Page/三氟化硼.md "wikilink")[二氯甲烷中的溶液](../Page/二氯甲烷.md "wikilink")，以及[五氯化钼和](../Page/五氯化钼.md "wikilink")[四乙酸铅与三氟化硼在](../Page/四乙酸铅.md "wikilink")[乙腈中的溶液](../Page/乙腈.md "wikilink")。\[3\]
 
 反应所需温度较高，亦需要强酸性催化剂，因此反应产率一般较低，应用很少。分子内的 Scholl
 反应效果较分子间反应效果为好，例如下图中9-苯基[芴的制取](../Page/芴.md "wikilink")：

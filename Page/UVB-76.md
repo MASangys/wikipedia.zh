@@ -42,10 +42,10 @@ Buzzer（蜂鳴器）**。它每天24小时发送向外发送单调的声音，�
 
 <!-- end list -->
 
-  - 在2010年之后，每隔几周就会出现一次人声，而且总在发生重大事件前后。2014年3月18日，在[克里米亚投票加入俄罗斯之后不到](https://zh.wikipedia.org/wiki/2014年克里米亞歸屬公投 "wikilink")24小时，电台发出了“T-E-R-R-A-K-O-T-A.
+  - 在2010年之后，每隔几周就会出现一次人声，而且总在发生重大事件前后。2014年3月18日，在[克里米亚投票加入俄罗斯之后不到](../Page/2014年克里米亞歸屬公投.md "wikilink")24小时，电台发出了“T-E-R-R-A-K-O-T-A.
     Mikhail Dimitri Zhenya Boris （电台呼号）. Mikhail Dmitri Zhenya Boris. 81
     26
-    T-E-R-R-A-K-O-T-A.”的人声。\[11\]而在[2018年11月11日](https://www.youtube.com/watch?v=UgRa9JUSwlQ&app=desktop)和[2018年11月16日](https://www.youtube.com/watch?v=brDXPq_1W_w&app=desktop)所发出的信息正好与当年11月底发生的[刻赤海峡危机接近](https://zh.wikipedia.org/wiki/2018年克赤海峽衝突 "wikilink")。
+    T-E-R-R-A-K-O-T-A.”的人声。\[11\]而在[2018年11月11日](https://www.youtube.com/watch?v=UgRa9JUSwlQ&app=desktop)和[2018年11月16日](https://www.youtube.com/watch?v=brDXPq_1W_w&app=desktop)所发出的信息正好与当年11月底发生的[刻赤海峡危机接近](../Page/2018年克赤海峽衝突.md "wikilink")。
 
 <!-- end list -->
 
@@ -100,7 +100,7 @@ kW。天线形状是横向dipole VGDSh (Nadenenko)，高度约。
 
 该电台的发射器2010年之前位于俄罗斯境内郊外，Zelenograd和Solnechnogorsk之间，[莫斯科西北部](../Page/莫斯科.md "wikilink")40公里处，靠近Lozhki村。该发射器位置直到1997年第一次语音信息发送才被最终确认。2010年，发射台从莫斯科附近被转移到了俄罗斯西部的[普斯科夫州](../Page/普斯科夫州.md "wikilink")，此州靠近[爱沙尼亚和](../Page/爱沙尼亚.md "wikilink")[拉脱维亚的边境](https://zh.wikipedia.org/wiki/拉脱维亚 "wikilink")。\[16\]
 
-不知是什么用意，一个网站声称该电台是“为了向莫斯科军方的军事单位和军队招募中心传递信息”，这个说法是**未经证实**的，并且无法解释此电台在播送一些单词和数字之前的15年中一直重复播送嗡嗡声。但此电台在每当俄罗斯出现重大事件的时候，会有短暂的人声播报信息。如在2014年3月19日播出的信息正好是[乌克兰](../Page/乌克兰.md "wikilink")[克里米亚危机发生的时间前后](https://zh.wikipedia.org/wiki/2014年克里米亞危機 "wikilink")。而在[2018年11月11日](https://www.youtube.com/watch?v=UgRa9JUSwlQ&app=desktop)和[2018年11月16日](https://www.youtube.com/watch?v=brDXPq_1W_w&app=desktop)所发出的信息正好与当年11月底发生的[刻赤海峡危机接近](https://zh.wikipedia.org/wiki/2018年克赤海峽衝突 "wikilink")。现在，UVB-76在世界上被广泛认为是正在为俄罗斯间谍所服务的间谍活动传送编码邮件，就像许多国家的间谍信息活动被伪装成[數字電台那样](https://zh.wikipedia.org/wiki/數字電台 "wikilink")，占用着短波频率。事实上，现在在世界上的许多电台发射机也是一些国家的军队和情报机关安装的，虽然许多国家从来没有承认过这些电台的存在以及解释它们的用途。
+不知是什么用意，一个网站声称该电台是“为了向莫斯科军方的军事单位和军队招募中心传递信息”，这个说法是**未经证实**的，并且无法解释此电台在播送一些单词和数字之前的15年中一直重复播送嗡嗡声。但此电台在每当俄罗斯出现重大事件的时候，会有短暂的人声播报信息。如在2014年3月19日播出的信息正好是[乌克兰](../Page/乌克兰.md "wikilink")[克里米亚危机发生的时间前后](../Page/2014年克里米亞危機.md "wikilink")。而在[2018年11月11日](https://www.youtube.com/watch?v=UgRa9JUSwlQ&app=desktop)和[2018年11月16日](https://www.youtube.com/watch?v=brDXPq_1W_w&app=desktop)所发出的信息正好与当年11月底发生的[刻赤海峡危机接近](../Page/2018年克赤海峽衝突.md "wikilink")。现在，UVB-76在世界上被广泛认为是正在为俄罗斯间谍所服务的间谍活动传送编码邮件，就像许多国家的间谍信息活动被伪装成[數字電台那样](https://zh.wikipedia.org/wiki/數字電台 "wikilink")，占用着短波频率。事实上，现在在世界上的许多电台发射机也是一些国家的军队和情报机关安装的，虽然许多国家从来没有承认过这些电台的存在以及解释它们的用途。
 
 ## 引用
 

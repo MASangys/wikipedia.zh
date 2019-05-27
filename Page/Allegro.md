@@ -7,7 +7,7 @@
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[BeOS](../Page/BeOS.md "wikilink")、[Mac
 OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、多种[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")，程序只需要嵌入其[API即可使用](https://zh.wikipedia.org/wiki/API "wikilink")。该库还有独立的[AmigaOS
-4移植版](https://zh.wikipedia.org/wiki/AmigaOS_4 "wikilink")。
+4移植版](../Page/AmigaOS_4.md "wikilink")。
 
 该库使用[C语言编写](https://zh.wikipedia.org/wiki/C语言编写 "wikilink")，适用于C或[C++](../Page/C++.md "wikilink")，其附带很多文档和实例。
 

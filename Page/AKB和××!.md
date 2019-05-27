@@ -169,7 +169,7 @@
 <td><p>5</p></td>
 <td><p>11月25日[4]</p></td>
 <td><ul>
-<li>AKB和關西的領導人（於：<a href="https://zh.wikipedia.org/wiki/巢鴨" title="wikilink">巢鴨</a>）（高橋・小嶋・倉持・增田・大家・片山）
+<li>AKB和關西的領導人（於：<a href="../Page/巢鴨.md" title="wikilink">巢鴨</a>）（高橋・小嶋・倉持・增田・大家・片山）
 <ul>
 <li>學習領導權的旅行（於：<a href="../Page/京都市.md" title="wikilink">京都市</a><a href="../Page/伏見區.md" title="wikilink">伏見區</a>・<a href="https://zh.wikipedia.org/wiki/寺田屋" title="wikilink">寺田屋前</a>）（高橋・野呂）
 <ul>
@@ -291,7 +291,7 @@
 <ul>
 <li>現場表演漫畫的名場面（漫畫店享受方法）</li>
 <li>kencoba推薦美食家（炭火やきとり 栃木屋）</li>
-<li><a href="https://zh.wikipedia.org/wiki/東京文華東方酒店" title="wikilink">東京文華東方酒店的套房</a>
+<li><a href="../Page/東京文華東方酒店.md" title="wikilink">東京文華東方酒店的套房</a>
 <ul>
 <li><a href="https://zh.wikipedia.org/wiki/JoJo的奇妙冒險" title="wikilink">JoJo的奇妙百人一首</a></li>
 </ul></li>

@@ -10,7 +10,7 @@ Chloride），是一種[抗潰瘍劑](https://zh.wikipedia.org/wiki/抗潰瘍劑
 
 ## 效用
 
-  - 治療[食道炎](https://zh.wikipedia.org/wiki/食道炎 "wikilink")、[胃酸過多](../Page/胃酸.md "wikilink")、[胃炎](../Page/胃炎.md "wikilink")、[十二指腸潰瘍及](https://zh.wikipedia.org/wiki/十二指腸潰瘍 "wikilink")[胃潰瘍等](https://zh.wikipedia.org/wiki/胃潰瘍 "wikilink")[消化道疾病所引起的](../Page/消化道.md "wikilink")[胃灼熱](https://zh.wikipedia.org/wiki/胃灼熱 "wikilink")
+  - 治療[食道炎](https://zh.wikipedia.org/wiki/食道炎 "wikilink")、[胃酸過多](../Page/胃酸.md "wikilink")、[胃炎](../Page/胃炎.md "wikilink")、[十二指腸潰瘍及](https://zh.wikipedia.org/wiki/十二指腸潰瘍 "wikilink")[胃潰瘍等](https://zh.wikipedia.org/wiki/胃潰瘍 "wikilink")[消化道疾病所引起的](../Page/消化道.md "wikilink")[胃灼熱](../Page/胃灼熱.md "wikilink")
   - 胃部不適、胃作悶、胸作悶、[噁心](https://zh.wikipedia.org/wiki/噁心 "wikilink")、[噯氣](https://zh.wikipedia.org/wiki/噯氣 "wikilink")、[消化不良](../Page/消化不良.md "wikilink")、[食慾不振和](https://zh.wikipedia.org/wiki/食慾不振 "wikilink")[胃痛](https://zh.wikipedia.org/wiki/胃痛 "wikilink")
   - 飲酒過量及暴飲暴食所引致的腸胃不適\[5\]
 

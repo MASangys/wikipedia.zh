@@ -38,7 +38,7 @@
 <tr class="even">
 <td><p>前作:<br />
 <a href="../Page/小松未步.md" title="wikilink">小松未步</a><br />
-《<a href="https://zh.wikipedia.org/wiki/因為有你_(小松未步單曲)" title="wikilink">因為有你</a>》</p></td>
+《<a href="../Page/因為有你_(小松未步單曲).md" title="wikilink">因為有你</a>》</p></td>
 </tr>
 </tbody>
 </table>

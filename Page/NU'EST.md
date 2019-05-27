@@ -1,6 +1,6 @@
 **NU'EST**（），韓國[Pledis娛樂於](../Page/Pledis娛樂.md "wikilink")2012年推出的首組男子團體，成員有[Aron](../Page/郭英敏.md "wikilink")、[JR](../Page/JR_\(NU'EST\).md "wikilink")、[白虎](../Page/姜東昊.md "wikilink")、[旼炫及](../Page/黃旼炫.md "wikilink")[Ren](../Page/崔珉起.md "wikilink")，出道曲《FACE》為韓國男團出道曲YouTube最高觀看數記錄保持者，但後續發展不順，在瀕臨解散的2017年初四名成員參加《[PRODUCE
 101
-第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")》，節目中的出色表現使NU'EST重新獲得大眾矚目，被譽為逆行icon之一。
+第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，節目中的出色表現使NU'EST重新獲得大眾矚目，被譽為逆行icon之一。
 
 ## 組合資料
 
@@ -76,11 +76,11 @@ S.COUPS, 施妍 出演 LOVE LETTER
 BOYS MAGAZINE創刊號封面\[8\]。
 
 3月，出道曲〈FACE〉的團體及個人音樂影像預告陸續公開\[9\]。15日，於Mnet音樂節目《[M
-Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》正式出道，首張單曲《[FACE](https://zh.wikipedia.org/wiki/FACE_\(NU'EST單曲\) "wikilink")》正式發售\[10\]。主打歌〈FACE〉在歌詞和MV均把視線集中在學校暴力和孤立等社會問題上\[11\]
+Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》正式出道，首張單曲《[FACE](../Page/FACE_\(NU'EST單曲\).md "wikilink")》正式發售\[10\]。主打歌〈FACE〉在歌詞和MV均把視線集中在學校暴力和孤立等社會問題上\[11\]
 。出道作在眾多新人組合中脫穎而出
 ，銷量是[Gaon音樂榜月榜中的](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")11位\[12\]。主打曲更在MelOn音源網站排行榜最高達到十五名，MV迄至2019年5月累積觀看次數已超過一億。\[13\]，在2018年12月24日前為韓國男子團體出道曲於Youtube觀看次數最高紀錄保持者，於[觀看次數最多的YouTube韓國音樂影片列表也榜上有名](https://zh.wikipedia.org/wiki/觀看次數最多的YouTube韓國音樂影片列表 "wikilink")。
 
-7月，NU'EST發行首張迷你專輯《[Action](https://zh.wikipedia.org/wiki/Action_\(NU'EST迷你專輯\) "wikilink")》回歸樂壇\[14\]。主打歌〈Action〉描述青少年所感受的壓力，強調表達的自由和追求改變的心情\[15\]。期後以〈Not
+7月，NU'EST發行首張迷你專輯《[Action](../Page/Action_\(NU'EST迷你專輯\).md "wikilink")》回歸樂壇\[14\]。主打歌〈Action〉描述青少年所感受的壓力，強調表達的自由和追求改變的心情\[15\]。期後以〈Not
 over
 you〉展開後續曲活動，展現年輕人特有的純情與真摯的少年情懷\[16\]。韓國打歌期後，NU'EST开始扩大到全球市场，在日本、澳大利亚、亚洲其他地区和美国等地举办活动\[17\]\[18\]。\[19\]不但參與美國KCON演唱會\[20\]，更是創下了日本首場個唱全席售罄的佳績。\[21\]
 
@@ -90,7 +90,7 @@ NU'EST多次探討社會問題，使他們成為青少年代言人\[22\]。竄�
 
 NU'EST
 以新的概念密集地發行作品，積極地回歸。2月，以第二張迷你專輯《[Hello](https://zh.wikipedia.org/wiki/Hello_\(NU'EST迷你專輯\) "wikilink")》回歸\[25\]，主打曲〈Hello〉描繪了目擊女友和其他男人約會的男人的故事，表達了害怕分手，故作冷漠的男生的心情\[26\]。在宣傳期间，出演團隊綜藝節目的《日記》\[27\]。8月，以第三張迷你專輯《[Sleep
-Talking](https://zh.wikipedia.org/wiki/Sleep_Talking "wikilink")》回歸\[28\]，主打歌〈Sleep
+Talking](../Page/Sleep_Talking.md "wikilink")》回歸\[28\]，主打歌〈Sleep
 Talking〉描述對心儀的女孩子只敢在夢中告白的心情。專輯採用青春活潑、鮮豔色系的造型來突顯其神秘夢幻感\[29\]。
 
 11月，NU'EST开始进入中国市场，并增加了一名中國籍新成员Jason（符龍飛），六人團體名称為[NU'EST-M](https://zh.wikipedia.org/wiki/NU'EST-M "wikilink")\[30\]。NU'EST-M录制了中国版的〈FACE〉和〈Sleep
@@ -122,14 +122,14 @@ Bad》的限量版在三週年紀念日發行。白虎仍在手术恢复中，�
 NU'EST於2015年主力在日本發展。3月起將在日本展開的巡迴「NU'EST JAPAN TOUR 2015-SHOWTIME
 3」。5月20日，發行日本第二張單曲《[NA.NA.NA.淚](../Page/NA.NA.NA.淚.md "wikilink")》\[38\]。11月18日，發行首張日本專輯《[Bridge
 the
-World](https://zh.wikipedia.org/wiki/Bridge_the_World "wikilink")》\[39\]，一舉打進Oricon排行榜第二名\[40\]。
+World](../Page/Bridge_the_World.md "wikilink")》\[39\]，一舉打進Oricon排行榜第二名\[40\]。
 
 ### 2016年：《Q is.》、《CANVAS》
 
 1月9日，由Ren主演、其餘四位成員共同出演的日本電影《》於日本上映，卻因票房考量未能於韓國上映。
 
 暌違1年多，在2月17日NU'EST以第四張迷你專輯《[Q
-is](https://zh.wikipedia.org/wiki/Q_is "wikilink").》回歸，主打歌〈Overcome（女王的騎士）〉描寫了使用驅除痛苦的咒語守護心愛之人的內容\[41\]。[白虎也參與了專輯的製作](../Page/姜東昊.md "wikilink")，而專輯當中更收錄了成員們的自創曲\[42\]。
+is](../Page/Q_is.md "wikilink").》回歸，主打歌〈Overcome（女王的騎士）〉描寫了使用驅除痛苦的咒語守護心愛之人的內容\[41\]。[白虎也參與了專輯的製作](../Page/姜東昊.md "wikilink")，而專輯當中更收錄了成員們的自創曲\[42\]。
 
 8月29日，以第五張迷你專輯《[CANVAS](https://zh.wikipedia.org/wiki/Canvas_\(NU'EST專輯\) "wikilink")》回歸\[43\]，主打歌〈Love
 Paint（Every
@@ -142,7 +142,7 @@ SHOW首次成為一位侯補](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")�
 
 2月24日，Pledis娛樂無預警在NU'EST官方Cafe宣布暫停活動，除了Aron因受傷而休養中，其餘四名成員（JR、白虎、旼炫、Ren）將以本名參加《[PRODUCE
 101
-第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")》\[46\]\[47\]\[48\]\[49\]。
+第二季](../Page/PRODUCE_101_第二季.md "wikilink")》\[46\]\[47\]\[48\]\[49\]。
 
 節目初期，四人因為受到外界過大批評及壓力，表現並不突出，但節目持續進行後，重新把握機會回到舞台上的四人出色表現讓觀眾眼睛一亮\[50\]，使NU'EST所有發行過的專輯在韓國HANTEO榜、Aladdin和Yes24等多個銷量排行榜持續逆行，在緊急加印後所有過往專輯及單曲仍然銷售一空，《[CANVAS](https://zh.wikipedia.org/wiki/Canvas_\(NU'EST專輯\) "wikilink")》專輯於五月及六月間的銷售量甚至超越了發行當年的總年銷售量\[51\]\[52\]，限量發行五千張的三周年紀念單曲專輯也突然身價爆衝奇貨可居。
 
@@ -156,14 +156,14 @@ One成員的旼炫需暫時停止NU](https://zh.wikipedia.org/wiki/Wanna_One "wi
 Paint（every
 afternoon）〉與〈Daybreak（Minhyun\&JR）〉也分別取得第71名、第91名的成績\[57\]。〈Hello〉也在音樂節目《人氣歌謠》和《Music
 Bank》中逆襲回榜\[58\]\[59\]，無任何宣傳下於《人氣歌謠》獲第11名，刷新其最佳紀錄\[60\]。同時韓國最大電影院集團[CJ
-CGV也公告將於](https://zh.wikipedia.org/wiki/CJ_CGV "wikilink")9月獨家上映由Ren主演、其餘四位成員共同演出的日本電影《》\[61\]。成員JR與Ren首次接獲商業廣告，兩人成為化妝與保養品牌LABIOTTE代言人，促銷販售第一日即造成排隊搶購風潮，並使得該品牌官方網站銷售存貨售罄\[62\]。JR與Ren也第一次成為綜藝節目固定成員，分別加入了JTBC電視台的新綜藝《[夜行鬼怪](https://zh.wikipedia.org/wiki/夜行鬼怪 "wikilink")》\[63\]與《[自討苦吃](https://zh.wikipedia.org/wiki/自討苦吃 "wikilink")》\[64\]。
+CGV也公告將於](../Page/CJ_CGV.md "wikilink")9月獨家上映由Ren主演、其餘四位成員共同演出的日本電影《》\[61\]。成員JR與Ren首次接獲商業廣告，兩人成為化妝與保養品牌LABIOTTE代言人，促銷販售第一日即造成排隊搶購風潮，並使得該品牌官方網站銷售存貨售罄\[62\]。JR與Ren也第一次成為綜藝節目固定成員，分別加入了JTBC電視台的新綜藝《[夜行鬼怪](../Page/夜行鬼怪.md "wikilink")》\[63\]與《[自討苦吃](../Page/自討苦吃.md "wikilink")》\[64\]。
 
 ### 2017下半年：NU'EST W分隊、第一張迷你專輯《W, HERE》
 
 [Nuest_w_170819.jpg](https://zh.wikipedia.org/wiki/File:Nuest_w_170819.jpg "fig:Nuest_w_170819.jpg")
 為了答謝粉絲們的愛，NU'EST在7月14日公開了重新錄製的〈Hello（2017.ver）〉，後續並公布四人組分隊名稱為NU'EST
 W，W是Waiting的縮寫，代表等待旼炫歸隊、以及長久以來的等待終於迎來與粉絲見面的時刻，並以分隊形式在7月25日發行單曲〈[If
-You](https://zh.wikipedia.org/wiki/If_You_\(NU'EST_W單曲\) "wikilink")〉，為NU'EST
+You](../Page/If_You_\(NU'EST_W單曲\).md "wikilink")〉，為NU'EST
 W專輯的先行曲\[65\]\[66\]\[67\]。新曲發表後，首小時便在韓國Genie、Bugs、Naver等音源網站空降第一名，刷新NU'EST初次歌曲發行後首小時最高成績\[68\]\[69\]。當晚NU'EST
 W的Vlive直播節目為白虎於6月22日遭到黑函攻擊與7月3日父親意外過世後\[70\]，首次出現於觀眾前，四人的直播節目於結束前湧入50萬觀看人次，而直播節目於兩天後重新播映，由觀眾所點選的愛心數於重播後隔天突破一億次\[71\]。單曲〈If
 You〉並未於任何節目中宣傳且無拍攝音樂錄影帶，但憑藉著優秀的數位音源成績成為隔週《音樂中心》一位候補，最終排行第二名，也是NU'EST出道以來首次於無線台成為一位候補\[72\]。
@@ -187,11 +187,11 @@ Countdown》奪得出道六年以來第一個在音樂節目上的一位\[81\]�
 Youth活動始於2016年，目的在於發揚勇於挑戰的精神。NU'EST W通過出演Produce
 101迎來第二次機會，展現了朝着目標的熱情與團隊精神，詮釋了「Fear
 Nothing，燦爛的青春，開始總是美好」的概念\[83\]。而原本只有選擇JR和Ren為代言人的LABIOTTE因銷量大增，於11月與NU'EST
-W簽訂2018年全年度全品牌代言合約\[84\]。12月23日發行首次電視劇原聲帶作品[tvN](../Page/TVN.md "wikilink")《[花遊記](https://zh.wikipedia.org/wiki/和遊記 "wikilink")》OST〈Let
+W簽訂2018年全年度全品牌代言合約\[84\]。12月23日發行首次電視劇原聲帶作品[tvN](../Page/TVN.md "wikilink")《[花遊記](../Page/和遊記.md "wikilink")》OST〈Let
 Me Out〉，廣受各界好評。
 
 2017年末頒獎，出道第六年的NU'EST W成員憑著《W,
-HERE》專輯年度銷量308,108張的成績，首次踏上表演舞台與頒獎台，於[亞洲明星盛典獲得歌手部門最佳演藝人獎](https://zh.wikipedia.org/wiki/亞洲明星盛典 "wikilink")、[Mnet亞洲音樂大獎取得年度發現獎](../Page/Mnet亞洲音樂大獎.md "wikilink")，並繼2012年入圍[金唱片獎新人獎後](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")，再次入圍金唱片獎並贏得本賞，以及[首爾歌謠大賞獲頒本賞](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")，[Gaon
+HERE》專輯年度銷量308,108張的成績，首次踏上表演舞台與頒獎台，於[亞洲明星盛典獲得歌手部門最佳演藝人獎](../Page/亞洲明星盛典.md "wikilink")、[Mnet亞洲音樂大獎取得年度發現獎](../Page/Mnet亞洲音樂大獎.md "wikilink")，並繼2012年入圍[金唱片獎新人獎後](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")，再次入圍金唱片獎並贏得本賞，以及[首爾歌謠大賞獲頒本賞](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")，[Gaon
 Chart
 K-POP大獎提名](../Page/Gaon_Chart_K-POP大獎.md "wikilink")7月、10月音源部門年度歌手與第四季專輯部門年度歌手，並取得火熱表演獎。
 
@@ -213,29 +213,28 @@ YOU](https://zh.wikipedia.org/wiki/WHO,_YOU "wikilink")》回歸\[94\]，當天�
 Chart專輯榜、音源下載榜及BGM榜首位\[97\]。
 
 以《WHO,
-YOU》回歸期開始起跑，除了眾多的公演及團體參與綜藝節目，成員也展開多樣的個人活動。JR參與了旅行綜藝《[自討苦吃](https://zh.wikipedia.org/wiki/自討苦吃 "wikilink")》第二季\[98\]，以及成為《網線生活》與《[Love
-Catcher](https://zh.wikipedia.org/wiki/Love_Catcher "wikilink")》主持人之一\[99\]。Ren再次客串泰國戲劇《Coffee
+YOU》回歸期開始起跑，除了眾多的公演及團體參與綜藝節目，成員也展開多樣的個人活動。JR參與了旅行綜藝《[自討苦吃](../Page/自討苦吃.md "wikilink")》第二季\[98\]，以及成為《網線生活》與《[Love
+Catcher](../Page/Love_Catcher.md "wikilink")》主持人之一\[99\]。Ren再次客串泰國戲劇《Coffee
 Society
-4.0》以及加入Mnet全新綜藝節目《[老頑固LIVE](https://zh.wikipedia.org/wiki/The_Kkondae_Live "wikilink")》主持群\[100\]。Aron則是《[腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")》中收到最多觀眾請求邀約的特別來賓\[101\]。白虎以「大衛貝克漢」面具出演《[蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》，並晉級至第三輪競賽\[102\]；化名Bbae
+4.0》以及加入Mnet全新綜藝節目《[老頑固LIVE](../Page/The_Kkondae_Live.md "wikilink")》主持群\[100\]。Aron則是《[腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")》中收到最多觀眾請求邀約的特別來賓\[101\]。白虎以「大衛貝克漢」面具出演《[蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》，並晉級至第三輪競賽\[102\]；化名Bbae
 Ggom（빼꼼）參與女團[fromis_9第二張迷你專輯](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")《[To.
-Day](https://zh.wikipedia.org/wiki/To._Day "wikilink")》主打曲〈噗通噗通（DKDK）〉作詞；同時以製作人與作詞者身分帶著全新作品〈We
+Day](../Page/To._Day.md "wikilink")》主打曲〈噗通噗通（DKDK）〉作詞；同時以製作人與作詞者身分帶著全新作品〈We
 Together〉重回PRODUCE系列選秀節目《[PRODUCE
-48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》\[103\]，該曲後由節目出道團體[IZ\*ONE重新錄製並收錄於出道迷你專輯](https://zh.wikipedia.org/wiki/IZ*ONE "wikilink")《[COLOR\*IZ](https://zh.wikipedia.org/wiki/COLOR*IZ "wikilink")》中；7月21日個人生日當天在[奧林匹克公園突襲公演BAEKHODAY](../Page/奧林匹克公園_\(首爾\).md "wikilink")
+48](../Page/PRODUCE_48.md "wikilink")》\[103\]，該曲後由節目出道團體[IZ\*ONE重新錄製並收錄於出道迷你專輯](../Page/IZ*ONE.md "wikilink")《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》中；7月21日個人生日當天在[奧林匹克公園突襲公演BAEKHODAY](../Page/奧林匹克公園_\(首爾\).md "wikilink")
 BUSKING LIVE\[104\]；以及擔任BUMZU x Raina演唱會特別嘉賓\[105\]等音樂性活動。
 
 ### 2018下半年：NU'EST W分隊最後迷你專輯《WAKE,N》
 
-NU'EST
-W首先與tvN熱門戲劇《[陽光先生](https://zh.wikipedia.org/wiki/陽光先生 "wikilink")》合作，於8月26日發行原聲帶〈AND
+NU'EST W首先與tvN熱門戲劇《[陽光先生](../Page/陽光先生.md "wikilink")》合作，於8月26日發行原聲帶〈AND
 I〉\[106\]，在眾多熱門歌曲競爭之下取得音源榜Naver
 Music、Mnet、Soribada三榜一位的好成績。隨後與KBS飲食紀錄片《料理人類》李旭正PD攜手，在8月27日推出[韓國V](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 live上獨家播放的網路綜藝節目《[NU'EST
-W的L.O.Λ.E便當](https://zh.wikipedia.org/wiki/NU'EST_W的L.O.Λ.E便當 "wikilink")》，節目播出後成功引領「偶像烹飪」節目的新熱潮\[107\]\[108\]。
+W的L.O.Λ.E便當](../Page/NU'EST_W的L.O.Λ.E便當.md "wikilink")》，節目播出後成功引領「偶像烹飪」節目的新熱潮\[107\]\[108\]。
 
 廣告及代言活動不斷的NU'EST
 W，自10月1日起成為[NCsoft旗下角色品牌Spoonz的代言人](../Page/NCsoft.md "wikilink")\[109\]，當日發行合作單曲〈[I
 Don't Care（with
-Spoonz）](https://zh.wikipedia.org/wiki/I_Don't_Care（with_Spoonz） "wikilink")〉及MV，並且參與快閃店活動，此次代言合作得到熱烈迴響。11月1日開始則因其親切陽光的形象受到大眾喜愛，與同公司的[SEVENTEEN共同代言知名韓式速食品牌](../Page/Seventeen_\(組合\).md "wikilink")\[110\]\[111\]。活躍在各領域中的NU'EST
+Spoonz）](../Page/I_Don't_Care（with_Spoonz）.md "wikilink")〉及MV，並且參與快閃店活動，此次代言合作得到熱烈迴響。11月1日開始則因其親切陽光的形象受到大眾喜愛，與同公司的[SEVENTEEN共同代言知名韓式速食品牌](../Page/Seventeen_\(組合\).md "wikilink")\[110\]\[111\]。活躍在各領域中的NU'EST
 W，正積極展現出大勢偶像的不凡魅力。
 
 在歌迷們處於被各種活動、廣告代言與綜藝節目填滿的豐足時光中，11月1日由PLEDIS娛樂正式確認，以等待成員黃旼炫為意義的子團NU'EST
@@ -255,7 +254,7 @@ W分隊活動完美地劃下句點\[119\]\[120\]。
 、REN、旼炫的照片，這也是旼炫結束Wanna
 One團體後第一次於NU'EST官方SNS上發布旼炫的照片\[121\]。1月31日，隊長JR先行於NU'EST官方粉絲團向粉絲宣佈續約消息，翌日Pledis娛樂宣布基於七年來的信任與五名成員全員完成續約\[122\]。3月1日正式公布將於4月12至14號連續三天在[首爾奧林匹克體操競技場舉行](../Page/首尔奥林匹克体操竞技场.md "wikilink")〈Segno〉演唱會，為NU'EST第一次在韓國的完全體五人單獨演唱會，出道七年後終於踏入韓國偶像指標性演唱會場地。三場演唱會共動員3萬6千名粉絲，同時於末場演唱會中正式公布4月29日NU'EST將以第六張迷你專輯《[Happily
 Ever
-After](https://zh.wikipedia.org/wiki/Happily_Ever_After "wikilink")》正式回歸韓國樂壇。3月15日18時公開七周年特別單曲〈歌名（A
+After](../Page/Happily_Ever_After.md "wikilink")》正式回歸韓國樂壇。3月15日18時公開七周年特別單曲〈歌名（A
 Song For
 You）〉。4月3日18時發行成員旼炫的SOLO單曲〈Universe〉，作為完整體回歸專輯的先行曲。4月28日韓國時間17時09分，出道曲〈FACE〉MV在Youtube的觀看次數突破一億點擊，為韓國現存男團出道曲YouTube觀看數記錄達一億次首位者\[123\]。
 
@@ -269,18 +268,16 @@ You）〉。4月3日18時發行成員旼炫的SOLO單曲〈Universe〉，作為�
 
 #### 迷你專輯
 
-  - 2012年：[Action](https://zh.wikipedia.org/wiki/Action_\(NU'EST迷你專輯\) "wikilink")
+  - 2012年：[Action](../Page/Action_\(NU'EST迷你專輯\).md "wikilink")
   - 2013年：[Hello](https://zh.wikipedia.org/wiki/Hello_\(NU'EST迷你專輯\) "wikilink")
-  - 2013年：[Sleep
-    Talking](https://zh.wikipedia.org/wiki/Sleep_Talking "wikilink")
-  - 2016年：[Q is](https://zh.wikipedia.org/wiki/Q_is "wikilink")
+  - 2013年：[Sleep Talking](../Page/Sleep_Talking.md "wikilink")
+  - 2016年：[Q is](../Page/Q_is.md "wikilink")
   - 2016年：[CANVAS](https://zh.wikipedia.org/wiki/Canvas_\(NU'EST專輯\) "wikilink")
-  - 2019年：[Happily Ever
-    After](https://zh.wikipedia.org/wiki/Happily_Ever_After "wikilink")
+  - 2019年：[Happily Ever After](../Page/Happily_Ever_After.md "wikilink")
 
 #### 單曲
 
-  - 2012年：[FACE](https://zh.wikipedia.org/wiki/FACE_\(NU'EST單曲\) "wikilink")
+  - 2012年：[FACE](../Page/FACE_\(NU'EST單曲\).md "wikilink")
   - 2015年：[I'm Bad](https://zh.wikipedia.org/wiki/I'm_Bad "wikilink")
   - 2019年：A Song For You
 
@@ -294,17 +291,15 @@ You）〉。4月3日18時發行成員旼炫的SOLO單曲〈Universe〉，作為�
 
 #### OST
 
-  - 2019年：[成為王的男人](https://zh.wikipedia.org/wiki/成為王的男人 "wikilink")
-    Part.2 - 那天，我們（演唱：白虎）
+  - 2019年：[成為王的男人](../Page/成為王的男人.md "wikilink") Part.2 - 那天，我們（演唱：白虎）
 
 ### 日語作品
 
 #### 專輯
 
   - 2014年：[NU'EST BEST IN
-    KOREA](https://zh.wikipedia.org/wiki/NU'EST_BEST_IN_KOREA "wikilink")
-  - 2015年：[Bridge the
-    World](https://zh.wikipedia.org/wiki/Bridge_the_World "wikilink")
+    KOREA](../Page/NU'EST_BEST_IN_KOREA.md "wikilink")
+  - 2015年：[Bridge the World](../Page/Bridge_the_World.md "wikilink")
 
 #### 單曲
 
@@ -328,17 +323,15 @@ You）〉。4月3日18時發行成員旼炫的SOLO單曲〈Universe〉，作為�
 
 #### 單曲
 
-  - 2017年：[If
-    You](https://zh.wikipedia.org/wiki/If_You_\(NU'EST_W單曲\) "wikilink")
+  - 2017年：[If You](../Page/If_You_\(NU'EST_W單曲\).md "wikilink")
   - 2018年：[I Don't Care（with
-    Spoonz）](https://zh.wikipedia.org/wiki/I_Don't_Care（with_Spoonz） "wikilink")
+    Spoonz）](../Page/I_Don't_Care（with_Spoonz）.md "wikilink")
 
 #### OST
 
   - 2017年：[花遊記](https://zh.wikipedia.org/wiki/花遊記 "wikilink") Part.1 -
     Let Me Out
-  - 2018年：[陽光先生](https://zh.wikipedia.org/wiki/陽光先生 "wikilink") Part.10
-    - AND I
+  - 2018年：[陽光先生](../Page/陽光先生.md "wikilink") Part.10 - AND I
 
 #### 綜藝節目
 
@@ -431,7 +424,7 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p>第2屆 <a href="https://zh.wikipedia.org/wiki/亞洲明星盛典" title="wikilink">亞洲明星盛典</a></p></td>
+<td><p>第2屆 <a href="../Page/亞洲明星盛典.md" title="wikilink">亞洲明星盛典</a></p></td>
 <td><p>歌手部門最佳演藝人</p></td>
 <td><p>NU'EST W</p></td>
 <td></td>
@@ -507,7 +500,7 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第2屆 <a href="https://zh.wikipedia.org/wiki/Soribada最佳音樂大獎" title="wikilink">SORIBADA最佳音樂大獎</a></p></td>
+<td><p>第2屆 <a href="../Page/Soribada最佳音樂大獎.md" title="wikilink">SORIBADA最佳音樂大獎</a></p></td>
 <td><p>新韓流ICON賞</p></td>
 <td></td>
 <td></td>
@@ -681,10 +674,10 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 <td><p>2012年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/FACE_(NU&#39;EST單曲)" title="wikilink">FACE</a></p></td>
+<td><p><a href="../Page/FACE_(NU&#39;EST單曲).md" title="wikilink">FACE</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Action_(NU&#39;EST迷你專輯)" title="wikilink">Action</a></p></td>
+<td><p><a href="../Page/Action_(NU&#39;EST迷你專輯).md" title="wikilink">Action</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年</p></td>
@@ -693,7 +686,7 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 <td><p><a href="https://zh.wikipedia.org/wiki/Hello_(NU&#39;EST迷你專輯)" title="wikilink">Hello</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Sleep_Talking" title="wikilink">Sleep Talking</a></p></td>
+<td><p><a href="../Page/Sleep_Talking.md" title="wikilink">Sleep Talking</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
@@ -705,7 +698,7 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 <td><p>2016年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Q_is" title="wikilink">Q is</a>.</p></td>
+<td><p><a href="../Page/Q_is.md" title="wikilink">Q is</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Canvas_(NU&#39;EST專輯)" title="wikilink">CANVAS</a></p></td>
@@ -714,7 +707,7 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 <td><p>2017年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/If_You_(NU&#39;EST_W單曲)" title="wikilink">If You</a></p></td>
+<td><p><a href="../Page/If_You_(NU&#39;EST_W單曲).md" title="wikilink">If You</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/W,HERE" title="wikilink">W, HERE</a></p></td>
@@ -735,7 +728,7 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 <td><p>無</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Happily_Ever_After" title="wikilink">Happily Ever After</a></p></td>
+<td><p><a href="../Page/Happily_Ever_After.md" title="wikilink">Happily Ever After</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>

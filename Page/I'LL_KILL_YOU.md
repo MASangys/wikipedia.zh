@@ -1,6 +1,6 @@
 "*'I'll Kill You*"是[X
 Japan在](../Page/X_Japan.md "wikilink")1985年6月首次發行的單曲。重新錄製的版本收錄在樂團的第一張專輯*[Vanishing
-Vision](https://zh.wikipedia.org/wiki/Vanishing_Vision "wikilink")*裡。而在2004年時，法國[交響黑金屬系樂團](https://zh.wikipedia.org/wiki/交響黑金屬 "wikilink")[Anorexia
+Vision](../Page/Vanishing_Vision.md "wikilink")*裡。而在2004年時，法國[交響黑金屬系樂團](https://zh.wikipedia.org/wiki/交響黑金屬 "wikilink")[Anorexia
 Nervosa也翻唱這首單曲並收錄在他們的專輯](https://zh.wikipedia.org/wiki/Anorexia_Nervosa "wikilink")[Redemption
 Process中](https://zh.wikipedia.org/wiki/Redemption_Process "wikilink")\[1\]。
 

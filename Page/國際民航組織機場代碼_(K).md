@@ -136,7 +136,7 @@
 </tr>
 <tr class="even">
 <td><p>KPAE</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佩恩机场" title="wikilink">佩恩机场</a></p></td>
+<td><p><a href="../Page/佩恩机场.md" title="wikilink">佩恩机场</a></p></td>
 <td><p><a href="../Page/埃弗里特_(華盛頓州).md" title="wikilink">艾弗雷特</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a></p></td>
 </tr>

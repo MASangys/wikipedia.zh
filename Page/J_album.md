@@ -86,7 +86,7 @@ Kids](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")」的樂曲，與�
       - ※通常版收錄
       - 作曲：[萩原和樹](https://zh.wikipedia.org/wiki/萩原和樹 "wikilink")
       - 作詞：[紅茉來鈴](https://zh.wikipedia.org/wiki/紅茉來鈴 "wikilink")
-      - 編曲：[安部潤](https://zh.wikipedia.org/wiki/安部潤 "wikilink")
+      - 編曲：[安部潤](../Page/安部潤.md "wikilink")
 
 ## 初回版特典DVD收錄內容
 

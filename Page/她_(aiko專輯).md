@@ -6,7 +6,7 @@
 
 因為專輯代表各種各樣沉浸於愛情中的女性和女孩，所以專輯名稱取「[女朋友](../Page/女朋友.md "wikilink")」[第三人稱意味的](https://zh.wikipedia.org/wiki/第三人稱 "wikilink")「她」。
 
-aiko親自出演專輯的宣傳廣告，並且邀請來[大杉漣和](https://zh.wikipedia.org/wiki/大杉漣 "wikilink")[須賀健太一同出演](../Page/須賀健太.md "wikilink")。\[1\]
+aiko親自出演專輯的宣傳廣告，並且邀請來[大杉漣和](../Page/大杉漣.md "wikilink")[須賀健太一同出演](../Page/須賀健太.md "wikilink")。\[1\]
 
 專輯發行首週即取得Oricon公信榜冠軍，連續三張專輯、總共第五張取得冠軍。\[2\]並且取得2006年9月度Oricon月榜冠軍，連續兩張專輯取得月榜冠軍。
 

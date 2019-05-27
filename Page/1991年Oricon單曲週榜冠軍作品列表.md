@@ -199,7 +199,7 @@ OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")》（3週）等。
 <tr class="even">
 <td><p>7月8日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BEAT_EMOTION" title="wikilink">BEAT EMOTION</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/布袋寅泰" title="wikilink">布袋寅泰</a></p></td>
+<td><p><a href="../Page/布袋寅泰.md" title="wikilink">布袋寅泰</a></p></td>
 <td><p>11.9</p></td>
 <td><p>1</p></td>
 </tr>

@@ -257,7 +257,7 @@ FIVE\!》，由選拔成員組成的[樂隊](https://zh.wikipedia.org/wiki/樂�
 7.  在發售前的2012年2月5日，其有關AKB48的活動已經終止。
 
 8.
-9.  在2012年3月21日於[富士電視台現場直播的音樂特別節目](../Page/富士電視台.md "wikilink")《[隧道二人組的現場直播](../Page/隧道二人組.md "wikilink")！全部看得到的音樂節目！！〜有活力地演唱名曲吧〜》（）中，由於有多位主力成員缺席，而由多位替補隊員上陣。但由於負責[貝斯的大島優子與負責長號的指原莉乃無法出演又無人有能力演奏](../Page/電貝斯.md "wikilink")，因此現場是由專業樂手[後藤次利](https://zh.wikipedia.org/wiki/後藤次利 "wikilink")（貝斯）與[武田真治](https://zh.wikipedia.org/wiki/武田真治 "wikilink")（[薩克斯風](../Page/薩克斯風.md "wikilink")）同台演出。
+9.  在2012年3月21日於[富士電視台現場直播的音樂特別節目](../Page/富士電視台.md "wikilink")《[隧道二人組的現場直播](../Page/隧道二人組.md "wikilink")！全部看得到的音樂節目！！〜有活力地演唱名曲吧〜》（）中，由於有多位主力成員缺席，而由多位替補隊員上陣。但由於負責[貝斯的大島優子與負責長號的指原莉乃無法出演又無人有能力演奏](../Page/電貝斯.md "wikilink")，因此現場是由專業樂手[後藤次利](../Page/後藤次利.md "wikilink")（貝斯）與[武田真治](https://zh.wikipedia.org/wiki/武田真治 "wikilink")（[薩克斯風](../Page/薩克斯風.md "wikilink")）同台演出。
 
 10. [Apamanshop X AKB48](http://www.apamanshop.com/AKB48/)
 

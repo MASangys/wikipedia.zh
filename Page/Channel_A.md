@@ -12,7 +12,7 @@ A**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：****），為�
   - [蔬菜店的小夥子](../Page/蔬菜店的小夥子.md "wikilink")
   - [Happy And..](https://zh.wikipedia.org/wiki/Happy_And.. "wikilink")
   - [給你說個驚人的故事](https://zh.wikipedia.org/wiki/給你說個驚人的故事 "wikilink")
-  - [十二夜](https://zh.wikipedia.org/wiki/十二夜_\(韓國電視劇\) "wikilink")
+  - [十二夜](../Page/十二夜_\(韓國電視劇\).md "wikilink")
 
 #### 美國（外購）
 
@@ -36,17 +36,15 @@ A**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：****），為�
 
 #### 韓國（自製）
 
-  - [Heart
-    Signal](https://zh.wikipedia.org/wiki/Heart_Signal "wikilink")
+  - [Heart Signal](../Page/Heart_Signal.md "wikilink")
   - [Heart Signal
     (第二季)](https://zh.wikipedia.org/wiki/Heart_Signal_\(第二季\) "wikilink")
-  - [搭飛機去](https://zh.wikipedia.org/wiki/搭飛機去 "wikilink")
+  - [搭飛機去](../Page/搭飛機去.md "wikilink")
   - [給狗糧的男人](https://zh.wikipedia.org/wiki/給狗糧的男人 "wikilink")
-  - [我們也是國家代表](https://zh.wikipedia.org/wiki/我們也是國家代表 "wikilink")
-  - [賣掉才能回國](https://zh.wikipedia.org/wiki/賣掉才能回國 "wikilink")
-  - [千萬Holic，Coming
-    Soon](https://zh.wikipedia.org/wiki/千萬Holic，Coming_Soon "wikilink")
-  - [給你宇宙](https://zh.wikipedia.org/wiki/給你宇宙 "wikilink")
+  - [我們也是國家代表](../Page/我們也是國家代表.md "wikilink")
+  - [賣掉才能回國](../Page/賣掉才能回國.md "wikilink")
+  - [千萬Holic，Coming Soon](../Page/千萬Holic，Coming_Soon.md "wikilink")
+  - [給你宇宙](../Page/給你宇宙.md "wikilink")
   - [都市漁夫](https://zh.wikipedia.org/wiki/都市漁夫 "wikilink")
 
 ### 探討節目
@@ -58,8 +56,8 @@ A**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：****），為�
 ## 关连项目
 
   - [MBC标准FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink")
-  - [MBC TV](https://zh.wikipedia.org/wiki/MBC_TV "wikilink")
-  - [SBS TV](https://zh.wikipedia.org/wiki/SBS_TV "wikilink")
+  - [MBC TV](../Page/MBC_TV.md "wikilink")
+  - [SBS TV](../Page/SBS_TV.md "wikilink")
 
 ## 外部链接
 

@@ -188,8 +188,7 @@ Advance版](../Page/Game_Boy_Advance.md "wikilink")《[音速小子大冒險](ht
 
 <!-- end list -->
 
-  - PS4/Xbox One/PC
-    [劍魂VI](https://zh.wikipedia.org/wiki/劍魂VI "wikilink")（萬代南夢宮發行&共同開發）
+  - PS4/Xbox One/PC [劍魂VI](../Page/劍魂VI.md "wikilink")（萬代南夢宮發行&共同開發）
 
 ## 備註
 

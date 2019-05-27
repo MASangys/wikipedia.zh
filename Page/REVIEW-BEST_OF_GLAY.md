@@ -12,7 +12,7 @@ GLAY**》，或簡稱《**REVIEW**》，是[日本](../Page/日本.md "wikilink"
 單曲發售後連續五個星期佔據Oricon公信榜冠軍的位置。\[1\]初動200萬張，為日本流行音樂史上第一張初動量達到200萬的歌手，兩個月內的銷量已經突破300萬張，成為1997年度日本專輯銷量冠軍\[2\]；進入1998年，繼續熱賣100多萬張。總銷量高達487.6萬張\[3\]，總出貨量超過500萬張，並獲得[日本唱片協會的五百萬級的認證](../Page/日本唱片協會.md "wikilink")，部分其它的統計機構統計總銷量也超過500萬張。超過了[globe的專輯](https://zh.wikipedia.org/wiki/globe "wikilink")《[globe](https://zh.wikipedia.org/wiki/globe_\(專輯\) "wikilink")》，成為當時[日本史上銷量最高的音樂專輯](../Page/日本最暢銷專輯列表.md "wikilink")。1999年，[吉尼斯世界紀錄認為](https://zh.wikipedia.org/wiki/吉尼斯世界紀錄 "wikilink")《REVIEW》是「日本史上最暢銷專輯」。現時是日本史上第三暢銷的專輯，僅次於[宇多田光的](../Page/宇多田光.md "wikilink")《[First
 Love](https://zh.wikipedia.org/wiki/First_Love "wikilink")》和[B'z的](../Page/B'z.md "wikilink")《[B'z
 The Best
-"Pleasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Pleasure" "wikilink")》。\[4\]
+"Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")》。\[4\]
 
 這張精選輯幫助GLAY成功開拓了知名度和發展歌迷，使GLAY在1998年至1999年登上事業的巔峰。
 

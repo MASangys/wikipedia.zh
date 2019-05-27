@@ -53,14 +53,14 @@ you單曲使用蜜蜂尾部造型的B](https://zh.wikipedia.org/wiki/love_me,_I_
   - 《[LOOSE](https://zh.wikipedia.org/wiki/LOOSE_\(B'z專輯\) "wikilink")》（\#1、"BUZZ\!\!"
     STYLE）
   - 《[B'z The Best
-    "Treasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Treasure" "wikilink")》（\#1）
+    "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")》（\#1）
   - 《[B'z The
-    "Mixture"](https://zh.wikipedia.org/wiki/B'z_The_"Mixture" "wikilink")》（\#2、Mixture
+    "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")》（\#2、Mixture
     mix）
   - 《[B'z The Best "ULTRA
-    Pleasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")》（\#1）
+    Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")》（\#1）
   - 《[B'z The Best "ULTRA
-    Treasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")》（\#2）
+    Treasure"](../Page/B'z_The_Best_"ULTRA_Treasure".md "wikilink")》（\#2）
 
 ## 參考資料
 

@@ -118,9 +118,8 @@ Saturn的](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")《光明力量I
     － 2015（[Wii U](../Page/Wii_U.md "wikilink")）
   - 《[瑪利歐運動 超級巨星](https://zh.wikipedia.org/wiki/瑪利歐運動_超級巨星 "wikilink")》
     － 2017（任天堂3DS）
-  - 《[瑪利歐網球 王牌高手](https://zh.wikipedia.org/wiki/瑪利歐網球_王牌高手 "wikilink")》
-    －
-    2018（[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")）
+  - 《[瑪利歐網球 王牌高手](../Page/瑪利歐網球_王牌高手.md "wikilink")》 －
+    2018（[任天堂Switch](../Page/任天堂Switch.md "wikilink")）
 
 <!-- end list -->
 

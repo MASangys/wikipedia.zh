@@ -11,7 +11,7 @@
 3,500rpm。此顆引擎未曾出現在[日本與](../Page/日本.md "wikilink")[澳洲市場](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，由於稅金級距的關係出現在某些國家地區。車型：
 
 1.  1980年-1982年：[第五代323](https://zh.wikipedia.org/wiki/馬自達323#第五代（1980年-1985年） "wikilink")
-2.  1980年-1982年：第一代[福特Laser](https://zh.wikipedia.org/wiki/福特Laser "wikilink")
+2.  1980年-1982年：第一代[福特Laser](../Page/福特Laser.md "wikilink")
 
 ## E3型
 
@@ -20,7 +20,7 @@
 / 3,500rpm。車型：
 
 1.  1980年-1985年：[第五代323](https://zh.wikipedia.org/wiki/馬自達323#第五代（1980年-1985年） "wikilink")
-2.  1980年-1985年：第一代[福特Laser](https://zh.wikipedia.org/wiki/福特Laser "wikilink")
+2.  1980年-1985年：第一代[福特Laser](../Page/福特Laser.md "wikilink")
 3.  1981年-1986年：馬自達GLC（323的海外版名稱）
 
 ## E5型
@@ -30,7 +30,7 @@
 5,500rpm、最大扭力12.3kg·m / 3,500rpm。車型：
 
 1.  1980年-1985年：[第五代323](https://zh.wikipedia.org/wiki/馬自達323#第五代（1980年-1985年） "wikilink")
-2.  1980年-1985年：第一代[福特Laser](https://zh.wikipedia.org/wiki/福特Laser "wikilink")
+2.  1980年-1985年：第一代[福特Laser](../Page/福特Laser.md "wikilink")
 3.  1981年-1986年：[馬自達GLC](https://zh.wikipedia.org/wiki/馬自達323#第五代（1980年-1985年） "wikilink")（第五代323的海外版名稱）
 4.  1983年-1986年：[第三代Bongo](https://zh.wikipedia.org/wiki/馬自達Bongo#第三代（1983年至1999年） "wikilink")
 
@@ -54,8 +54,7 @@
 
 1.  1982年-1985年：[第五代323](https://zh.wikipedia.org/wiki/馬自達323#第五代（1980年-1985年） "wikilink")，XGi-R
     Turbo款
-2.  1982年-1985年：第一代[福特Laser](https://zh.wikipedia.org/wiki/福特Laser "wikilink")，S
-    Turbo款
+2.  1982年-1985年：第一代[福特Laser](../Page/福特Laser.md "wikilink")，S Turbo款
 
 ### E5T Carb型
 

@@ -29,7 +29,7 @@ Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")
 9也能支援WebM文件格式](../Page/Internet_Explorer_9.md "wikilink")\[18\]\[19\]。
 
 2015年9月，微软宣布[Windows
-10自带的](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Edge将支持WebM](../Page/Microsoft_Edge.md "wikilink")（Opus、Vorbis、[VP9](../Page/VP9.md "wikilink")）。\[20\]
+10自带的](../Page/Windows_10.md "wikilink")[Edge将支持WebM](../Page/Microsoft_Edge.md "wikilink")（Opus、Vorbis、[VP9](../Page/VP9.md "wikilink")）。\[20\]
 
 ### 硬體
 

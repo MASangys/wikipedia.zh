@@ -246,8 +246,7 @@ L1
   - F52-53：商戶：NIKE 原址商戶：Royal Sporting Hous
   - F54：新商戶：[NIKE](https://zh.wikipedia.org/wiki/NIKE "wikilink")
     原址商戶：亞來街
-  - F56：新商戶：[Superdry](https://zh.wikipedia.org/wiki/Superdry "wikilink")
-    原址商戶：Salon Anca
+  - F56：新商戶：[Superdry](../Page/Superdry.md "wikilink") 原址商戶：Salon Anca
   - F57-58：新商戶：J Select 原址商戶：EZAMPLE
   - F59：新商戶：[SECO優尚生活專門店](https://zh.wikipedia.org/wiki/SECO優尚生活專門店 "wikilink")
     原址商戶：New Vision

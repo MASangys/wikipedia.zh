@@ -39,7 +39,7 @@ Ripley**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 <small>幼年：<a href="../Page/鄭多彬_(2000年).md" title="wikilink">鄭多彬</a></small></p></td>
 <td><p>張美里[1]／<br />
 </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馮嘉德" title="wikilink">馮嘉德</a></p></td>
+<td><p><a href="../Page/馮嘉德.md" title="wikilink">馮嘉德</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/曾佩儀" title="wikilink">曾佩儀</a></p></td>
 <td><p>Mondo酒店職員，靠謊言不擇手段地生活</p></td>
 </tr>

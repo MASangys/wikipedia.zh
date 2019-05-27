@@ -18,7 +18,7 @@ SAM-N-6c1於1962年出廠，最大的改變是將原先需要分開攜帶的核�
 
 1968年5月23日，美國海軍[核動力](https://zh.wikipedia.org/wiki/核動力 "wikilink")[巡洋艦](https://zh.wikipedia.org/wiki/巡洋艦 "wikilink")[長灘號](https://zh.wikipedia.org/wiki/長灘號 "wikilink")（CGN-9）以艦尾飛彈發射架發射2枚護島神飛彈攔截一架120公里外的[北越](https://zh.wikipedia.org/wiki/北越 "wikilink")[米格-21戰鬥機](https://zh.wikipedia.org/wiki/米格-21 "wikilink")。此為本型導彈首次實戰擊落敵機，亦是有史以來首次有艦隻用區域防空飛彈成功實戰中截擊戰機的記錄。同年6月，同一艘艦再次以護島神防空飛彈截擊另一架MiG-21。
 
-1974年當新設計的[標準一型增程型飛彈開始服役之後](https://zh.wikipedia.org/wiki/RIM-67飛彈 "wikilink")，護島神飛彈逐漸開始退出現役，1979年所有的飛彈系統全數更換，剩下的飛彈彈體修改為**MQM-8**超音速靶彈，作為模擬[蘇聯超音速飛行的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[反艦飛彈之用](../Page/反艦飛彈.md "wikilink")。
+1974年當新設計的[標準一型增程型飛彈開始服役之後](../Page/RIM-67飛彈.md "wikilink")，護島神飛彈逐漸開始退出現役，1979年所有的飛彈系統全數更換，剩下的飛彈彈體修改為**MQM-8**超音速靶彈，作為模擬[蘇聯超音速飛行的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[反艦飛彈之用](../Page/反艦飛彈.md "wikilink")。
 
 ## 其他軍種
 

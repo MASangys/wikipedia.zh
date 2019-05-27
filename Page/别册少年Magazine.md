@@ -50,7 +50,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朋友遊戲" title="wikilink">朋友遊戲</a></p></td>
+<td><p><a href="../Page/朋友遊戲.md" title="wikilink">朋友遊戲</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/佐藤友生" title="wikilink">佐藤友生</a></p></td>
 <td></td>
@@ -267,13 +267,13 @@
   - [×××HOLiC·笼](../Page/×××HOLiC.md "wikilink") 增刊6號～2011年3月號 ※从
     [週刊Young Magazine移籍](../Page/週刊Young_Magazine.md "wikilink")
 
-  - [殼中少女](https://zh.wikipedia.org/wiki/殼中少女 "wikilink")（原作：[冲方丁](../Page/冲方丁.md "wikilink")、漫画：[大今良時](https://zh.wikipedia.org/wiki/大今良時 "wikilink")）2009年11月號～2012年6月號
+  - [殼中少女](https://zh.wikipedia.org/wiki/殼中少女 "wikilink")（原作：[冲方丁](../Page/冲方丁.md "wikilink")、漫画：[大今良時](../Page/大今良時.md "wikilink")）2009年11月號～2012年6月號
 
   - [小魔女計時器](https://zh.wikipedia.org/wiki/小魔女計時器 "wikilink")（[奈央晃德](../Page/奈央晃德.md "wikilink")）2009年12月號～2012年12月號
 
   - [殭屍哪有那麼萌？](../Page/殭屍哪有那麼萌？.md "wikilink")（[服部充](../Page/服部充.md "wikilink")）2010年1月號～2014年10月號
 
-  - [壬生義士傳](https://zh.wikipedia.org/wiki/壬生義士傳 "wikilink")（原作：[淺田次郎](https://zh.wikipedia.org/wiki/淺田次郎 "wikilink")、漫畫：[永安巧](../Page/永安巧.md "wikilink")）2010年2月號～2012年3月號
+  - [壬生義士傳](../Page/壬生義士傳.md "wikilink")（原作：[淺田次郎](https://zh.wikipedia.org/wiki/淺田次郎 "wikilink")、漫畫：[永安巧](../Page/永安巧.md "wikilink")）2010年2月號～2012年3月號
     ※從 移籍
 
   - [LOVEPLUS Rinko
@@ -288,24 +288,23 @@
   - [自新世界](https://zh.wikipedia.org/wiki/自新世界 "wikilink")（原作：[貴志祐介](../Page/貴志祐介.md "wikilink")、漫画：及川徹）2012年6月號～2014年7月號
 
   - [Real
-    Account](../Page/Real_Account.md "wikilink")（原作：億章、漫畫：[渡邊靜](https://zh.wikipedia.org/wiki/渡邊靜 "wikilink")）2014年2月號～2014年10月號
+    Account](../Page/Real_Account.md "wikilink")（原作：億章、漫畫：[渡邊靜](../Page/渡邊靜.md "wikilink")）2014年2月號～2014年10月號
     ※移籍至 [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
 
   - [即使如此我還是喜歡妳](../Page/馬子們！寫給曾經被我愛過傷害過的你們.md "wikilink")（原作：[徐譽庭](../Page/徐譽庭.md "wikilink")、漫畫：繪本奈央）2014年8月號～2016年4月號
     ※從 [週刊少年Magazine移籍](../Page/週刊少年Magazine.md "wikilink")
 
-  - [徒然喜歡你](https://zh.wikipedia.org/wiki/徒然喜歡你 "wikilink")（若林稔弥）2014年9月號～2015年4月號
-    ※移籍至 [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
+  - [徒然喜歡你](../Page/徒然喜歡你.md "wikilink")（若林稔弥）2014年9月號～2015年4月號 ※移籍至
+    [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
 
   - [學戰都市Asterisk](../Page/學戰都市Asterisk.md "wikilink")（原作：三屋咲悠、人物設定：okiura、漫畫：茜錆）2014年9月號～2016年10月號
 
-  - [迷え！七つの大罪学園！](https://zh.wikipedia.org/wiki/七大罪_\(漫畫\) "wikilink")（原作：鈴木央、漫畫：球木拾壹）2014年9月號～2016年11月號
+  - [迷え！七つの大罪学園！](../Page/七大罪_\(漫畫\).md "wikilink")（原作：鈴木央、漫畫：球木拾壹）2014年9月號～2016年11月號
 
   - [單蠢女孩](../Page/單蠢女孩.md "wikilink")（[ヒロユキ](https://zh.wikipedia.org/wiki/自稱清純派 "wikilink")）2015年7月號～2018年1月號
     ※從 [週刊少年Magazine移籍](../Page/週刊少年Magazine.md "wikilink")
 
-  - [寄宿學校的茱麗葉](https://zh.wikipedia.org/wiki/寄宿學校的茱麗葉 "wikilink")
-    2015年8月號～2017年7月號 ※移籍至
+  - [寄宿學校的茱麗葉](../Page/寄宿學校的茱麗葉.md "wikilink") 2015年8月號～2017年7月號 ※移籍至
     [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
 
 ## 注釋

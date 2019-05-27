@@ -11,7 +11,7 @@ Phone
 
 ## 相關條目
 
-  - [Twitch](https://zh.wikipedia.org/wiki/Twitch "wikilink")
+  - [Twitch](../Page/Twitch.md "wikilink")
   - [Justin.tv](../Page/Justin.tv.md "wikilink")
   - [NicoNico](https://zh.wikipedia.org/wiki/NicoNico "wikilink")
   - [LIVEhouse.in](../Page/LIVEhouse.in.md "wikilink")

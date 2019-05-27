@@ -44,7 +44,7 @@ WDDM
   - [DXGI](https://zh.wikipedia.org/wiki/DXGI "wikilink") 1.1，可用GDI 支援硬體
     [2D](https://zh.wikipedia.org/wiki/2D電腦圖形 "wikilink") 加速\[4\]（無
     GDI+）以及
-    [Direct2D](../Page/Direct2D.md "wikilink")/[DirectWrite](https://zh.wikipedia.org/wiki/DirectWrite "wikilink")
+    [Direct2D](../Page/Direct2D.md "wikilink")/[DirectWrite](../Page/DirectWrite.md "wikilink")
       - [BitBlt](https://zh.wikipedia.org/wiki/:en:Bit_blit "wikilink")、StretchBlt、TransparentBlt
       - [AlphaBlend](https://zh.wikipedia.org/wiki/:en:alpha_blending "wikilink")、ColorFill
       - [ClearType](../Page/ClearType.md "wikilink") 字型支援
@@ -63,7 +63,7 @@ WDDM
 
 [DXGI](https://zh.wikipedia.org/wiki/DXGI "wikilink")
 1.1、[Direct3D](../Page/Direct3D.md "wikilink")
-11、[Direct2D和](../Page/Direct2D.md "wikilink")[DirectWrite也將提供與Windows](https://zh.wikipedia.org/wiki/DirectWrite "wikilink")
+11、[Direct2D和](../Page/Direct2D.md "wikilink")[DirectWrite也將提供與Windows](../Page/DirectWrite.md "wikilink")
 Vista平臺更新。GDI / GDI+ 在Vista將繼續依靠軟件渲染。
 
 WDDM 1.1向後兼容WDDM 1.0規範，1.0和1.1的驅動程序可直接用於Windows Vista。
@@ -121,17 +121,14 @@ and GPU engine enumeration capabilities.
 2014年，微軟於Build 2014
 開發者大會公佈下一代[DirectX](../Page/DirectX.md "wikilink")
 API Direct X 12。與此同時DirectX 12需要建基於WDDM 2.0上，Direct X 12及WDDM 2.0
-將內建於[Windows
-10內](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")\[21\]
+將內建於[Windows 10內](../Page/Windows_10.md "wikilink")\[21\]
 DirectX 12將廢除自動資源管理和任務管線管理，允許開發人員可低階控制顯示卡的記憶體和渲染狀態。WDDM 2.0 降低支援虛擬記憶體尋扯的
 GPU
 於核心模式的驅動程式工作量。\[22\]並且使用者模式的驅動程式可並列執行多執行緒，從而降低CPU使用率。\[23\]\[24\]\[25\]
 
 ### WDDM 2.1
 
-[Windows
-10周年更新中包含WDDM](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
-2.1，它支援[Shader
+[Windows 10周年更新中包含WDDM](../Page/Windows_10.md "wikilink") 2.1，它支援[Shader
 Model](https://zh.wikipedia.org/wiki/Shader_Model "wikilink") 6.0
 (mandatory for [feature
 levels](https://zh.wikipedia.org/wiki/Direct3D_feature_level "wikilink")

@@ -13,7 +13,7 @@ Kit](https://zh.wikipedia.org/wiki/I/O_Kit "wikilink")，一套以[C++撰写的�
 
 ## 内核设计
 
-XNU是一个[混合内核](https://zh.wikipedia.org/wiki/混合核心 "wikilink")，将[宏内核与](https://zh.wikipedia.org/wiki/宏内核 "wikilink")[微内核两者的特性兼收并蓄](https://zh.wikipedia.org/wiki/微内核 "wikilink")，以期同时拥有两种内核的优点————比如在微内核中提高操作系统模块化程度以及让操作系统更多的部分接受[内存保护的](https://zh.wikipedia.org/wiki/内存保护 "wikilink")[消息传递机制](https://zh.wikipedia.org/wiki/訊息傳遞_\(軟體\) "wikilink")，和宏内核在高负荷下表现的高性能。
+XNU是一个[混合内核](../Page/混合核心.md "wikilink")，将[宏内核与](https://zh.wikipedia.org/wiki/宏内核 "wikilink")[微内核两者的特性兼收并蓄](https://zh.wikipedia.org/wiki/微内核 "wikilink")，以期同时拥有两种内核的优点————比如在微内核中提高操作系统模块化程度以及让操作系统更多的部分接受[内存保护的](https://zh.wikipedia.org/wiki/内存保护 "wikilink")[消息传递机制](https://zh.wikipedia.org/wiki/訊息傳遞_\(軟體\) "wikilink")，和宏内核在高负荷下表现的高性能。
 
 到2007年为止，XNU支持单核和具有[对称多处理的](https://zh.wikipedia.org/wiki/对称多处理 "wikilink")[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink")\[2\]，[IA-32和](https://zh.wikipedia.org/wiki/IA-32 "wikilink")[x86-64处理器](https://zh.wikipedia.org/wiki/x86-64 "wikilink")。在第10版（即[Mac
 OS X
@@ -29,7 +29,7 @@ Mac OS X
 
 内核的[伯克利软件套件](../Page/BSD.md "wikilink")（BSD）部分提供了[POSIX应用程序接口](https://zh.wikipedia.org/wiki/POSIX "wikilink")（BSD系统称为API）：基于Mach的[任务之上的](../Page/作業_\(電腦\).md "wikilink")[Unix进程模型](https://zh.wikipedia.org/wiki/Unix "wikilink")，基本安全策略，用户和用户组，权限，[网络协议栈](../Page/协议栈.md "wikilink")，[虚拟文件系统](https://zh.wikipedia.org/wiki/虚拟文件系统 "wikilink")（包括一个文件系统无关的[日志层](https://zh.wikipedia.org/wiki/日志 "wikilink")），几个本地文件系统（例如[HFS](https://zh.wikipedia.org/wiki/HFS "wikilink")/[HFS+](../Page/HFS+.md "wikilink")），[网络文件系统](../Page/网络文件系统.md "wikilink")（NFS）客户端与服务器，加密框架，[UNIX
 System
-V](../Page/UNIX_System_V.md "wikilink")[进程间通信](https://zh.wikipedia.org/wiki/进程间通信 "wikilink")（IPC），审计机制，[强制访问控制](https://zh.wikipedia.org/wiki/强制访问控制 "wikilink")，和一些锁原语\[3\]。XNU中的BSD代码来自[FreeBSD内核](../Page/FreeBSD.md "wikilink")。尽管其中相当一部分代码都被深度修改过，苹果和FreeBSD项目之间依然会交换代码\[4\]。
+V](../Page/UNIX_System_V.md "wikilink")[进程间通信](https://zh.wikipedia.org/wiki/进程间通信 "wikilink")（IPC），审计机制，[强制访问控制](../Page/强制访问控制.md "wikilink")，和一些锁原语\[3\]。XNU中的BSD代码来自[FreeBSD内核](../Page/FreeBSD.md "wikilink")。尽管其中相当一部分代码都被深度修改过，苹果和FreeBSD项目之间依然会交换代码\[4\]。
 
 ### K32/K64
 

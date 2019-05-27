@@ -39,12 +39,12 @@ Out服務。
 ### Line Pay
 
   - [LINE
-    Pay是一款在LINE所使用的電子付款方式](https://zh.wikipedia.org/wiki/LINE_Pay "wikilink")。在台灣使用者必須先綁定[信用卡](../Page/信用卡.md "wikilink")，就能購買
+    Pay是一款在LINE所使用的電子付款方式](../Page/LINE_Pay.md "wikilink")。在台灣使用者必須先綁定[信用卡](../Page/信用卡.md "wikilink")，就能購買
     LINE Pay
     上所合作的商家商品或服務。Line與[中國信託銀行合作推出了Line](https://zh.wikipedia.org/wiki/中國信託銀行 "wikilink")
     Pay信用卡及金融卡，2018年9月3日，與[一卡通合作](https://zh.wikipedia.org/wiki/一卡通_\(台灣\) "wikilink")，推出「LINE
     Pay
-    一卡通帳戶」結合[第三方支付功能](https://zh.wikipedia.org/wiki/第三方支付 "wikilink")。在日本則推出了由[JCB發行的Line](../Page/JCB.md "wikilink")
+    一卡通帳戶」結合[第三方支付功能](../Page/第三方支付.md "wikilink")。在日本則推出了由[JCB發行的Line](../Page/JCB.md "wikilink")
     Pay卡。在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")，LINE Pay
     與提供大眾運輸系統及離線電子支付的 [Rabbit
     Card](../Page/Rabbit_Card.md "wikilink") 發行公司，BSS 金控集團合作提供 Rabbit
@@ -87,8 +87,7 @@ Out服務。
 
 #### LINE TOWN
 
-《[LINE
-TOWN](https://zh.wikipedia.org/wiki/LINE_TOWN "wikilink")》是从2013年4月开始在日本[TX
+《[LINE TOWN](../Page/LINE_TOWN.md "wikilink")》是从2013年4月开始在日本[TX
 Network播放的動畫](https://zh.wikipedia.org/wiki/TX_Network "wikilink")，和《》是不同的動畫公司，但人物設定一致。前作為成人向动画，而本作為儿童向。\[21\]
 
 ### LINE Friends
@@ -296,7 +295,7 @@ Network播放的動畫](https://zh.wikipedia.org/wiki/TX_Network "wikilink")，�
 
 **影音軟件：**
 
-  - [LINE TV](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")
+  - [LINE TV](../Page/LINE_TV.md "wikilink")
   - LINE Webtoon 每日漫畫【提供者：NAVER Corp.】
 
 **自創貼圖軟件：**
@@ -312,8 +311,7 @@ Network播放的動畫](https://zh.wikipedia.org/wiki/TX_Network "wikilink")，�
   - [LINE
     Camera](https://zh.wikipedia.org/wiki/LINE_Camera "wikilink")（原
     aillis）
-  - [B612
-    (應用程式)](https://zh.wikipedia.org/wiki/B612_\(應用程式\) "wikilink")
+  - [B612 (應用程式)](../Page/B612_\(應用程式\).md "wikilink")
   - LINE 極短片
   - SNOW
 
@@ -391,7 +389,7 @@ LINE隨後對[Android及電腦客戶端作出幾次技術調整](../Page/Android
 ## 相關條目
 
   - [LINE (公司)](../Page/LINE_\(公司\).md "wikilink")
-  - [貼圖](https://zh.wikipedia.org/wiki/貼圖 "wikilink")
+  - [貼圖](../Page/貼圖.md "wikilink")
   - [即時通訊軟體比較](https://zh.wikipedia.org/wiki/即時通訊軟體比較 "wikilink")
   - [即时通讯软件列表](https://zh.wikipedia.org/wiki/即时通讯软件列表 "wikilink")
 

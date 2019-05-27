@@ -5,7 +5,7 @@ Remington或](../Page/.223_Remington.md "wikilink")[5.56×45毫米](../Page/5.56
 ## 詳情
 
 貝瑞塔Rx4
-Storm是一枝使用了[氣動式操作與](../Page/氣動式_\(槍械\).md "wikilink")[滾轉式槍機的](../Page/滾轉式槍機.md "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，並且採用了原為[伯奈利](https://zh.wikipedia.org/wiki/伯奈利 "wikilink")[专利的](../Page/专利.md "wikilink")「[自動調節氣動式操作](https://zh.wikipedia.org/wiki/自動調節氣動式操作 "wikilink")」（，簡稱：ARGO）系統。這枝步槍使用[STANAG彈匣供彈](../Page/STANAG彈匣.md "wikilink")，並可以選配固定式[槍托或可調節式槍托](../Page/槍托.md "wikilink")。貝瑞塔Rx4
+Storm是一枝使用了[氣動式操作與](../Page/氣動式_\(槍械\).md "wikilink")[滾轉式槍機的](../Page/滾轉式槍機.md "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，並且採用了原為[伯奈利](../Page/伯奈利.md "wikilink")[专利的](../Page/专利.md "wikilink")「[自動調節氣動式操作](https://zh.wikipedia.org/wiki/自動調節氣動式操作 "wikilink")」（，簡稱：ARGO）系統。這枝步槍使用[STANAG彈匣供彈](../Page/STANAG彈匣.md "wikilink")，並可以選配固定式[槍托或可調節式槍托](../Page/槍托.md "wikilink")。貝瑞塔Rx4
 Storm與[Px4
 Storm](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")、[Cx4
 Storm](../Page/貝瑞塔Cx4_Storm卡賓槍.md "wikilink")[卡賓槍等都是](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")“風暴”（）系列槍族的武器，但與上述槍械並沒有任何可以共用的操作系統或部件。這種武器只有在半自動模式下操作，並沒有[選擇射擊功能或是其他Rx](https://zh.wikipedia.org/wiki/選射槍械 "wikilink")4卡賓槍[全自動型版本的計劃](https://zh.wikipedia.org/wiki/全自動槍械 "wikilink")，因為貝瑞塔方面已經研發了一款完全不同的新世代[突击步枪](../Page/突击步枪.md "wikilink")，並且命名為[貝瑞塔ARX-160](../Page/貝瑞塔ARX-160突擊步槍.md "wikilink")。另一方面，貝瑞塔Rx4
@@ -26,7 +26,7 @@ Storm已經具有各種各樣可以使用的衍生型；可用的槍管長度分
 英吋槍管前端具有螺紋，並設有一個可拆卸式[槍口制退器](../Page/砲口制動器.md "wikilink")。
 
 貝瑞塔Rx4
-Storm具有一條裝在[機匣頂部的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌作為光學瞄準鏡基座用以安裝日間](../Page/皮卡汀尼導軌.md "wikilink")／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。每種Storm系列槍械還可以選擇利用兩顆安裝[螺絲以裝上前護木兩側的戰術導軌](../Page/螺絲.md "wikilink")，而另一種選擇是從生產商購買連底部的三條戰術導軌架連接座。前護木底部的戰術導軌同樣需要利用兩顆安裝螺絲從戰術導軌的兩端螺絲孔才能裝上前護木兩側之下。
+Storm具有一條裝在[機匣頂部的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌作為光學瞄準鏡基座用以安裝日間](../Page/皮卡汀尼導軌.md "wikilink")／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。每種Storm系列槍械還可以選擇利用兩顆安裝[螺絲以裝上前護木兩側的戰術導軌](../Page/螺絲.md "wikilink")，而另一種選擇是從生產商購買連底部的三條戰術導軌架連接座。前護木底部的戰術導軌同樣需要利用兩顆安裝螺絲從戰術導軌的兩端螺絲孔才能裝上前護木兩側之下。
 
 高壓火藥燃氣引導孔位於[膛室附近的導氣箍](../Page/膛室.md "wikilink")，使導出的火藥燃氣保持高溫和高壓，以及保持清潔。
 
@@ -88,7 +88,7 @@ Storm卡賓槍。裝有可拆卸式[槍口制退器的](../Page/砲口制動器.
   - [羅賓遜M96半自動步槍](../Page/羅賓遜M96半自動步槍.md "wikilink")
   - [儒格Mini-14半自動步槍](../Page/儒格Mini-14半自動步槍.md "wikilink")
   - [儒格SR-556半自動步槍](https://zh.wikipedia.org/wiki/儒格SR-556半自動步槍 "wikilink")
-  - [Saiga半自動步槍](https://zh.wikipedia.org/wiki/Saiga半自動步槍 "wikilink")
+  - [Saiga半自動步槍](../Page/Saiga半自動步槍.md "wikilink")
   - [史密斯威森軍警型M\&P15半自動步槍](../Page/史密斯威森軍警型M&P15半自動步槍.md "wikilink")
 
 ## 外部連結

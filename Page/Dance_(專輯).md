@@ -35,7 +35,7 @@
 <td><p>戰利品 (Love Conquest)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/畢國勇" title="wikilink">畢國勇</a></p></td>
 <td><p><a href="../Page/李宗恩.md" title="wikilink">李宗恩</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳星翰" title="wikilink">陳星翰</a></p></td>
+<td><p><a href="../Page/陳星翰.md" title="wikilink">陳星翰</a></p></td>
 <td><p>4:06</p></td>
 <td><p>第二主打</p></td>
 </tr>
@@ -148,7 +148,7 @@
 <td><p>戰利品 (Love Conquest)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/畢國勇" title="wikilink">畢國勇</a></p></td>
 <td><p><a href="../Page/李宗恩.md" title="wikilink">李宗恩</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳星翰" title="wikilink">陳星翰</a></p></td>
+<td><p><a href="../Page/陳星翰.md" title="wikilink">陳星翰</a></p></td>
 <td><p>4:06</p></td>
 <td><p>第二主打</p></td>
 </tr>

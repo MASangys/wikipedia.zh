@@ -25,11 +25,11 @@ Standards Group, FSG)聯合起來，成立了這個組織。
 
 ### Linux.com
 
-2009年3月3日，Linux基金会宣布将从其以前的拥有者[SourceForge接管](../Page/SourceForge.md "wikilink")[Linux.com的管理](https://zh.wikipedia.org/wiki/Linux.com "wikilink")。
+2009年3月3日，Linux基金会宣布将从其以前的拥有者[SourceForge接管](../Page/SourceForge.md "wikilink")[Linux.com的管理](../Page/Linux.com.md "wikilink")。
 
 该网站于2009年5月13日重新启动，从以前的新闻站点化身转变成为服务器，桌面/上网本，移动和嵌入式领域的Linux教程，信息，软件，文档和答案的核心来源。它还包括一个Linux软件和硬件目录。
 
-很像Linux本身，[Linux.com计划依靠社区来创建和驱动内容和对话](https://zh.wikipedia.org/wiki/Linux.com "wikilink")。
+很像Linux本身，[Linux.com计划依靠社区来创建和驱动内容和对话](../Page/Linux.com.md "wikilink")。
 
 ### 培训和认证
 

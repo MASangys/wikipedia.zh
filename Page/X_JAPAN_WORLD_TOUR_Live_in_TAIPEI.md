@@ -73,9 +73,8 @@ summit在第二天的演唱會上](https://zh.wikipedia.org/wiki/hide_memorial_s
 
 ### アンコール2
 
-  - [PROLOGUE (〜WORLD
-    ANTHEM)](https://zh.wikipedia.org/wiki/BLUE_BLOOD "wikilink")
-  - [X](https://zh.wikipedia.org/wiki/BLUE_BLOOD "wikilink")
+  - [PROLOGUE (〜WORLD ANTHEM)](../Page/BLUE_BLOOD.md "wikilink")
+  - [X](../Page/BLUE_BLOOD.md "wikilink")
   - [ENDLESS RAIN](../Page/ENDLESS_RAIN.md "wikilink")
 
 ### アンコール3

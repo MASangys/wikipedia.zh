@@ -51,7 +51,7 @@ M2和Comp M3必需使用2L76或DL1/3N型專用電池的問題。
 
 ### [電玩遊戲](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")
 
-  - 2017年—《[絕地求生](https://zh.wikipedia.org/wiki/絕地求生 "wikilink")》（PlayerUnknown's
+  - 2017年—《[絕地求生](../Page/絕地求生.md "wikilink")》（PlayerUnknown's
     Battlegrounds）：奇怪的採用了2倍率放大，命名為2倍瞄準鏡。
 
 ## 參見
@@ -103,7 +103,7 @@ M2和Comp M3必需使用2L76或DL1/3N型專用電池的問題。
 
   - [SUSAT光學瞄準鏡](../Page/SUSAT光學瞄準鏡.md "wikilink")
 
-  - [SUIT光學瞄準鏡](https://zh.wikipedia.org/wiki/SUIT光學瞄準鏡 "wikilink")
+  - [SUIT光學瞄準鏡](../Page/SUIT光學瞄準鏡.md "wikilink")
 
   - [EOTech全息瞄準鏡](https://zh.wikipedia.org/wiki/EOTech全息瞄準鏡 "wikilink")
 

@@ -3,9 +3,9 @@
 ，但被诊断处罹患[乳腺癌后](https://zh.wikipedia.org/wiki/乳腺癌 "wikilink")，她被迫取消了演出计划。\[1\]
 2006年11月11日，她在[悉尼娱乐中心举办名为](https://zh.wikipedia.org/wiki/悉尼娱乐中心 "wikilink")[Showgirl:
 The Homecoming
-Tour的演唱会](https://zh.wikipedia.org/wiki/Showgirl:_The_Homecoming_Tour "wikilink")，重续了先前中断的巡演，[Showgirl:
+Tour的演唱会](../Page/Showgirl:_The_Homecoming_Tour.md "wikilink")，重续了先前中断的巡演，[Showgirl:
 The Homecoming
-Tour巡演在曲目表和演出服装上做了一些变更](https://zh.wikipedia.org/wiki/Showgirl:_The_Homecoming_Tour "wikilink")。\[2\]
+Tour巡演在曲目表和演出服装上做了一些变更](../Page/Showgirl:_The_Homecoming_Tour.md "wikilink")。\[2\]
 这次巡演预计票房达到1990万美元。\[3\]
 
 ## 表演曲目

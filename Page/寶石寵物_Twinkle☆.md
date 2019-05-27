@@ -38,7 +38,7 @@ Twinkle☆」。因此，副標題「Tinkle☆」可等如「Twinkle☆」，兩
 
 由茱莉娜女王以魔法守護的國度。天上有著一大一小的[月亮](https://zh.wikipedia.org/wiki/月亮 "wikilink")，其中小月亮似乎隱藏著甚麼秘密。在寶石樂園的上空存在著被稱為「Jewel
 land
-Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行星環 "wikilink")，在地上看就像一道白色的[彩虹](https://zh.wikipedia.org/wiki/彩虹 "wikilink")。寶石樂園把人類所居住的世界稱之為「利亞利亞界」，而在利亞利亞界居住的人類則稱之為「利亞利亞」。
+Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行星環 "wikilink")，在地上看就像一道白色的[彩虹](../Page/彩虹.md "wikilink")。寶石樂園把人類所居住的世界稱之為「利亞利亞界」，而在利亞利亞界居住的人類則稱之為「利亞利亞」。
 
 在這世界居住的寶石寵物與生俱來就擁有使用魔法的能力。而這裡也有教授魔法的學校，而這裡所提及的「魔法學校」就是主角們所就讀的那一間，台灣版則將主角們所就讀的魔法學校命名為「魔法學園」。而寶石寵物入讀魔法學校必需有一個利亞利亞的搭擋。
 
@@ -592,7 +592,7 @@ Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行�
 <td><p>米莉亞的魔法，心情☆激動！</p></td>
 <td><p>米莉亞的魔法☆心兒怦怦跳</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/成田良美" title="wikilink">成田良美</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三澤伸" title="wikilink">三澤伸</a></p></td>
+<td><p><a href="../Page/三澤伸.md" title="wikilink">三澤伸</a></p></td>
 <td><p>小林浩輔</p></td>
 <td><p>古池ゆかり</p></td>
 <td><p>7月20日</p></td>
@@ -643,7 +643,7 @@ Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行�
 <td></td>
 <td><p>叮噹鐘，心情☆激動！</p></td>
 <td><p>鐘聲響叮噹☆心兒怦怦跳</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金春智子" title="wikilink">金春智子</a></p></td>
+<td><p><a href="../Page/金春智子.md" title="wikilink">金春智子</a></p></td>
 <td><p>稻垣隆行</p></td>
 <td><p>菅原靜貴</p></td>
 <td><p>梶浦紳一郎<br />
@@ -658,7 +658,7 @@ Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行�
 <td><p>初次考試，心情☆激動！</p></td>
 <td><p>第一次考試☆心兒怦怦跳</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/長谷川勝己" title="wikilink">長谷川勝己</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/植田秀仁" title="wikilink">植田秀仁</a></p></td>
+<td><p><a href="../Page/植田秀仁.md" title="wikilink">植田秀仁</a></p></td>
 <td><p>鳥宏明<br />
 金城美保<br />
 仁井宏隆</p></td>
@@ -724,7 +724,7 @@ Wing（寶石樂園之環）」的[行星環](https://zh.wikipedia.org/wiki/行�
 <td></td>
 <td><p>米莉亞的歌聲 心情☆激動！</p></td>
 <td><p>米莉亞的歌☆心兒怦怦跳</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/池田真美子" title="wikilink">池田真美子</a></p></td>
+<td><p><a href="../Page/池田真美子.md" title="wikilink">池田真美子</a></p></td>
 <td><p>福富博</p></td>
 <td><p>菅原靜貴</p></td>
 <td><p>原由美子</p></td>

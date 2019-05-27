@@ -1,11 +1,11 @@
 **Dal★Shabet**（）是[Happy
-Face娛樂在](../Page/Happy_Face娛樂.md "wikilink")2011年推出的女子團體，出道時成員包括、[世理](https://zh.wikipedia.org/wiki/世理 "wikilink")、[雅英](../Page/雅英.md "wikilink")、、[佳恩](../Page/佳恩_\(1992年出生\).md "wikilink")、[秀彬](../Page/秀彬.md "wikilink")。粉絲名稱為「Darling」。
+Face娛樂在](../Page/Happy_Face娛樂.md "wikilink")2011年推出的女子團體，出道時成員包括、[世理](../Page/世理.md "wikilink")、[雅英](../Page/雅英.md "wikilink")、、[佳恩](../Page/佳恩_\(1992年出生\).md "wikilink")、[秀彬](../Page/秀彬.md "wikilink")。粉絲名稱為「Darling」。
 
 ## 摘要
 
 Dal★Shabet的意思是Sweet
 Shabet，自身定位為擁有甜美而獨特音色的團體，粉絲的名稱經過官方票選後定為Darling。Dal★Shabet由E-TRIBE打造，E-TRIBE曾為[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[Super
-Junior](../Page/Super_Junior.md "wikilink")、[李孝利等人製做過熱門歌曲](../Page/李孝利.md "wikilink")\[1\]。成員們都是從小就學習唱歌、[舞蹈](../Page/舞蹈.md "wikilink")，在成為練習生之前就已進行專業訓練，為出道打好了底子\[2\]，出道前也上過[SBS電視臺的節目](../Page/SBS_\(韓國\).md "wikilink")《[金諪恩的巧克力](https://zh.wikipedia.org/wiki/金諪恩的巧克力 "wikilink")》，這在韓國是很例外的，其中成員、[世理](https://zh.wikipedia.org/wiki/世理 "wikilink")、與[雅英是同德女子大學](../Page/雅英.md "wikilink")[廣播系的同學](https://zh.wikipedia.org/wiki/廣播 "wikilink")，[佳恩與](../Page/佳恩_\(1992年出生\).md "wikilink")[秀彬則有](../Page/秀彬.md "wikilink")[模特兒經驗](../Page/模特兒.md "wikilink")。另外，她們曾在接受[訪問時表示有進軍](https://zh.wikipedia.org/wiki/訪問 "wikilink")[日本的打算](../Page/日本.md "wikilink")，若有機會還想發展[歐美市場](https://zh.wikipedia.org/wiki/歐美 "wikilink")\[3\]。
+Junior](../Page/Super_Junior.md "wikilink")、[李孝利等人製做過熱門歌曲](../Page/李孝利.md "wikilink")\[1\]。成員們都是從小就學習唱歌、[舞蹈](../Page/舞蹈.md "wikilink")，在成為練習生之前就已進行專業訓練，為出道打好了底子\[2\]，出道前也上過[SBS電視臺的節目](../Page/SBS_\(韓國\).md "wikilink")《[金諪恩的巧克力](../Page/金諪恩的巧克力.md "wikilink")》，這在韓國是很例外的，其中成員、[世理](../Page/世理.md "wikilink")、與[雅英是同德女子大學](../Page/雅英.md "wikilink")[廣播系的同學](https://zh.wikipedia.org/wiki/廣播 "wikilink")，[佳恩與](../Page/佳恩_\(1992年出生\).md "wikilink")[秀彬則有](../Page/秀彬.md "wikilink")[模特兒經驗](../Page/模特兒.md "wikilink")。另外，她們曾在接受[訪問時表示有進軍](https://zh.wikipedia.org/wiki/訪問 "wikilink")[日本的打算](../Page/日本.md "wikilink")，若有機會還想發展[歐美市場](https://zh.wikipedia.org/wiki/歐美 "wikilink")\[3\]。
 
 ## 經歷
 
@@ -30,7 +30,7 @@ Bling》的MV預告\[7\]，在8月10日公開完整版MV。\[8\]
 在2012年1月16日正式公開了專輯《Hit U》封面照\[9\]，1月17日公開了《Hit
 U》的MV預告\[10\]，而在1月27日公開了《Hit U》完整MV
 \[11\]，並在同日在[音樂銀行中回歸](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。\[12\]
-同年5月24日在即將推出首張正規專輯前，隊長因想以個人身份活動而宣佈退出團體\[13\]，由新成員[優熙遞補其空缺維持六人形式](https://zh.wikipedia.org/wiki/優熙 "wikilink")。
+同年5月24日在即將推出首張正規專輯前，隊長因想以個人身份活動而宣佈退出團體\[13\]，由新成員[優熙遞補其空缺維持六人形式](../Page/優熙.md "wikilink")。
 2012年5月30日公開加入新成員後的首張專輯合照，6月7日正式發售首張正規專輯《BANG BANG》。 11月9日，
 Dal★Shabet公開了第5張迷你專輯《Have, Don't Have》MV 預告\[14\]，《Have, Don't
 Have》這是一首有著讓人中毒 Disco 曲風歌曲。同時，歌詞是講述一個女孩對心愛的人表現感情的故事。這支 MV
@@ -51,7 +51,7 @@ Dal★Shabet所屬公司Happy Face
 Entertainment在1月2日無預警釋出回歸概念照\[19\]。並以成熟女人的形象發行第七張迷你專輯《B.B.B
 (Big Baby Baby)》回歸。
 
-成員[世理](https://zh.wikipedia.org/wiki/世理 "wikilink")、[雅英](../Page/雅英.md "wikilink")、、[佳恩](../Page/佳恩_\(1992年出生\).md "wikilink")、[秀彬於](../Page/秀彬.md "wikilink")2014年年末與台灣新人女子團體[Twinko合作拍攝創意方城市廣告](../Page/Twinko.md "wikilink")，並合唱廣告主題曲。
+成員[世理](../Page/世理.md "wikilink")、[雅英](../Page/雅英.md "wikilink")、、[佳恩](../Page/佳恩_\(1992年出生\).md "wikilink")、[秀彬於](../Page/秀彬.md "wikilink")2014年年末與台灣新人女子團體[Twinko合作拍攝創意方城市廣告](../Page/Twinko.md "wikilink")，並合唱廣告主題曲。
 
 ### 2015年：迷你八輯《JOKER IS ALIVE》、成員退出
 
@@ -81,22 +81,22 @@ Face 娛樂於官方 Facebook 留言：「2016.06.20 PM 12:00，秀彬 SINGLE PA
 
 9月29日，發行第十張迷你專輯《FRI. SAT. SUN》。
 
-### 2017年：部分成員參加[The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")，成員[世理](https://zh.wikipedia.org/wiki/世理 "wikilink")、[雅英](../Page/雅英.md "wikilink")、[秀彬合約到期不續約](../Page/秀彬.md "wikilink")
+### 2017年：部分成員參加[The Unit](../Page/The_Unit.md "wikilink")，成員[世理](../Page/世理.md "wikilink")、[雅英](../Page/雅英.md "wikilink")、[秀彬合約到期不續約](../Page/秀彬.md "wikilink")
 
-10月28日，成員[世理](https://zh.wikipedia.org/wiki/世理 "wikilink")、[優熙參加The](https://zh.wikipedia.org/wiki/優熙 "wikilink")
+10月28日，成員[世理](../Page/世理.md "wikilink")、[優熙參加The](../Page/優熙.md "wikilink")
 Unit。
 
 12月14日，[Happy
-Face娛樂宣布成員](../Page/Happy_Face娛樂.md "wikilink")[世理](https://zh.wikipedia.org/wiki/世理 "wikilink")、[雅英](../Page/雅英.md "wikilink")、[秀彬合約到期](../Page/秀彬.md "wikilink")，三人皆不續約，離開公司。公司聲明會繼續辦理世理的The
+Face娛樂宣布成員](../Page/Happy_Face娛樂.md "wikilink")[世理](../Page/世理.md "wikilink")、[雅英](../Page/雅英.md "wikilink")、[秀彬合約到期](../Page/秀彬.md "wikilink")，三人皆不續約，離開公司。公司聲明會繼續辦理世理的The
 Unit 事務。\[26\]
 
-### 2018年：[優熙The](https://zh.wikipedia.org/wiki/優熙 "wikilink") Unit 成功出道、合約到期不續約
+### 2018年：[優熙The](../Page/優熙.md "wikilink") Unit 成功出道、合約到期不續約
 
-2月3日，[世理在](https://zh.wikipedia.org/wiki/世理 "wikilink")《The
-Unit》中被淘汰。而成員[優熙於](https://zh.wikipedia.org/wiki/優熙 "wikilink")2018年2月11日，在《The
+2月3日，[世理在](../Page/世理.md "wikilink")《The
+Unit》中被淘汰。而成員[優熙於](../Page/優熙.md "wikilink")2018年2月11日，在《The
 Unit》的最後一集中獲得第7名，進入期間限定團體出道。
 
-12月5日，[優熙與所屬社合約到期不續約](https://zh.wikipedia.org/wiki/優熙 "wikilink")，離開公司。公司表示Dal★Shabet不會解散。
+12月5日，[優熙與所屬社合約到期不續約](../Page/優熙.md "wikilink")，離開公司。公司表示Dal★Shabet不會解散。
 
 ## 成員資料
 
@@ -114,7 +114,7 @@ Unit》的最後一集中獲得第7名，進入期間限定團體出道。
 <td><p><strong></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/世理" title="wikilink">世理</a><br />
+<td><p><strong><a href="../Page/世理.md" title="wikilink">世理</a><br />
 Serri<br />
 세리</strong></p></td>
 </tr>
@@ -127,7 +127,7 @@ Ayoung<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/優熙" title="wikilink">優熙</a><br />
+<td><p><a href="../Page/優熙.md" title="wikilink">優熙</a><br />
 Woohee<br />
 우희</p></td>
 </tr>
@@ -146,32 +146,32 @@ Subin<br />
 
 ### 電視劇
 
-| 日期                                                  | 電視台                                                             | 電視劇名稱                                                                   | 角色     | 參與成員 |
-| --------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------- | ------ | ---- |
-| 2011年                                               | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")             | 《[Dream High](https://zh.wikipedia.org/wiki/Dream_High "wikilink")》     | 第16集客串 | 全部成員 |
-| 2013年                                               | 《[廣告天才李太白](../Page/廣告天才李太白.md "wikilink")》                      | 孔善慧                                                                     | 雅英     |      |
-| 網絡劇                                                 | 《[陌生的一天](https://zh.wikipedia.org/wiki/陌生的一天 "wikilink")》       | 李智恩                                                                     |        |      |
-| [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[張玉貞，為愛而生](../Page/張玉貞，為愛而生.md "wikilink")》                    | 明安公主                                                                    |        |      |
-| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[韓國小姐](https://zh.wikipedia.org/wiki/韓國小姐 "wikilink")》         | 客串                                                                      |        |      |
-| [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[請回答1994](../Page/請回答1994.md "wikilink")》                      | 優熙                                                                      |        |      |
-| [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[來自星星的你](../Page/來自星星的你.md "wikilink")》                        | 世理、秀彬                                                                   |        |      |
-| 網絡劇                                                 | 《[無限動力](https://zh.wikipedia.org/wiki/無限動力 "wikilink")》         | 韓秀紫                                                                     | 優熙     |      |
-| 2014年                                               | [JTBC](../Page/JTBC.md "wikilink")                              | 《[12年後的重逢：山蒜醬湯](https://zh.wikipedia.org/wiki/12年後的重逢：山蒜醬湯 "wikilink")》 | 朴武熙    | 雅英   |
-| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[更夫日誌](../Page/更夫日誌.md "wikilink")》                            | 洪楚姬                                                                     |        |      |
-| MBC every1                                          | 《[愛情頻率37.2](https://zh.wikipedia.org/wiki/愛情頻率37.2 "wikilink")》 | 鄭善姬                                                                     |        |      |
-| 2015年                                               | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")           | 《[七顛八起具海拉](../Page/七顛八起具海拉.md "wikilink")》                              | 客串     | 優熙   |
-| 《[The Lover](../Page/The_Lover.md "wikilink")》      |                                                                 |                                                                         |        |      |
-| [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[愛你的時間](../Page/愛你的時間.md "wikilink")》                          | 洪恩靜                                                                     |        |      |
-| 2016年                                               | 網絡劇                                                             | 《[每天都換男朋友](https://zh.wikipedia.org/wiki/每天都換男朋友 "wikilink")》           | 瑟菲     |      |
-| [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[我們的甲順](../Page/我們的甲順.md "wikilink")》                          | 金英蘭                                                                     | 雅英     |      |
+| 日期                                                  | 電視台                                                             | 電視劇名稱                                                               | 角色     | 參與成員 |
+| --------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------- | ------ | ---- |
+| 2011年                                               | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")             | 《[Dream High](https://zh.wikipedia.org/wiki/Dream_High "wikilink")》 | 第16集客串 | 全部成員 |
+| 2013年                                               | 《[廣告天才李太白](../Page/廣告天才李太白.md "wikilink")》                      | 孔善慧                                                                 | 雅英     |      |
+| 網絡劇                                                 | 《[陌生的一天](https://zh.wikipedia.org/wiki/陌生的一天 "wikilink")》       | 李智恩                                                                 |        |      |
+| [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[張玉貞，為愛而生](../Page/張玉貞，為愛而生.md "wikilink")》                    | 明安公主                                                                |        |      |
+| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[韓國小姐](../Page/韓國小姐.md "wikilink")》                            | 客串                                                                  |        |      |
+| [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[請回答1994](../Page/請回答1994.md "wikilink")》                      | 優熙                                                                  |        |      |
+| [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[來自星星的你](../Page/來自星星的你.md "wikilink")》                        | 世理、秀彬                                                               |        |      |
+| 網絡劇                                                 | 《[無限動力](https://zh.wikipedia.org/wiki/無限動力 "wikilink")》         | 韓秀紫                                                                 | 優熙     |      |
+| 2014年                                               | [JTBC](../Page/JTBC.md "wikilink")                              | 《[12年後的重逢：山蒜醬湯](../Page/12年後的重逢：山蒜醬湯.md "wikilink")》                | 朴武熙    | 雅英   |
+| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[更夫日誌](../Page/更夫日誌.md "wikilink")》                            | 洪楚姬                                                                 |        |      |
+| MBC every1                                          | 《[愛情頻率37.2](https://zh.wikipedia.org/wiki/愛情頻率37.2 "wikilink")》 | 鄭善姬                                                                 |        |      |
+| 2015年                                               | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")           | 《[七顛八起具海拉](../Page/七顛八起具海拉.md "wikilink")》                          | 客串     | 優熙   |
+| 《[The Lover](../Page/The_Lover.md "wikilink")》      |                                                                 |                                                                     |        |      |
+| [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[愛你的時間](../Page/愛你的時間.md "wikilink")》                          | 洪恩靜                                                                 |        |      |
+| 2016年                                               | 網絡劇                                                             | 《[每天都換男朋友](https://zh.wikipedia.org/wiki/每天都換男朋友 "wikilink")》       | 瑟菲     |      |
+| [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[我們的甲順](../Page/我們的甲順.md "wikilink")》                          | 金英蘭                                                                 | 雅英     |      |
 
 ### 電影
 
-| 日期                                                        | 電影名稱                                                              | 角色 | 參與成員 |
-| --------------------------------------------------------- | ----------------------------------------------------------------- | -- | ---- |
-| 2013年                                                     | 《[屏息](../Page/No_Breathing.md "wikilink")》                        | 世美 | 雅英   |
-| 《[58年屬狗](https://zh.wikipedia.org/wiki/58年屬狗 "wikilink")》 | 今紅                                                                |    |      |
-| 2014年                                                     | 《[隧道 (電視劇)](https://zh.wikipedia.org/wiki/隧道_\(電視劇\) "wikilink")》 | 惠英 | 優熙   |
+| 日期                                                        | 電影名稱                                           | 角色 | 參與成員 |
+| --------------------------------------------------------- | ---------------------------------------------- | -- | ---- |
+| 2013年                                                     | 《[屏息](../Page/No_Breathing.md "wikilink")》     | 世美 | 雅英   |
+| 《[58年屬狗](https://zh.wikipedia.org/wiki/58年屬狗 "wikilink")》 | 今紅                                             |    |      |
+| 2014年                                                     | 《[隧道 (電視劇)](../Page/隧道_\(電視劇\).md "wikilink")》 | 惠英 | 優熙   |
 
 ### 綜藝節目
 
@@ -426,7 +426,7 @@ Subin<br />
 | 年份                                                                                        | 電視劇/電影名稱                                                                                                                                   | 歌曲名稱                 | 參與成員                                          | 備註 |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- | --------------------------------------------- | -- |
 | 2011年                                                                                     | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")《[神的測驗2](https://zh.wikipedia.org/wiki/神的測驗2 "wikilink")》                               | Turn Your Head\[27\] | 秀彬、世理                                         |    |
-| 2014年                                                                                     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[來了！張寶利](https://zh.wikipedia.org/wiki/來了！張寶利 "wikilink")》                             | 我的愛人你好\[28\]         | 優熙                                            |    |
+| 2014年                                                                                     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[來了！張寶利](../Page/來了！張寶利.md "wikilink")》                                                | 我的愛人你好\[28\]         | 優熙                                            |    |
 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[甜蜜的秘密](../Page/甜蜜的秘密.md "wikilink")》 | Only Tell Me\[29\]                                                                                                                         | 秀彬                   |                                               |    |
 | 2016年                                                                                     | [Channel CGV](https://zh.wikipedia.org/wiki/Channel_CGV "wikilink")《[我也是電影導演：青春電影](https://zh.wikipedia.org/wiki/我也是電影導演：青春電影 "wikilink")》 | Dream\[30\]          | 與[Eddy Kim合唱](../Page/Eddy_Kim.md "wikilink") |    |
 | UPDATE\[31\]                                                                              | 與[ATO合唱](https://zh.wikipedia.org/wiki/ATO "wikilink")                                                                                     |                      |                                               |    |
@@ -798,7 +798,7 @@ Subin<br />
 <td><p>男女混合4x100接力</p></td>
 <td><p>金牌(佳恩)</p></td>
 <td><p>和<a href="../Page/After_School.md" title="wikilink">After School</a>(<a href="../Page/李周妍.md" title="wikilink">珠妍</a>)、<br />
-<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>(<a href="https://zh.wikipedia.org/wiki/南優賢" title="wikilink">優鉉和</a><a href="https://zh.wikipedia.org/wiki/李浩沅" title="wikilink">HOYA</a>)</p></td>
+<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>(<a href="../Page/南優賢.md" title="wikilink">優鉉和</a><a href="https://zh.wikipedia.org/wiki/李浩沅" title="wikilink">HOYA</a>)</p></td>
 </tr>
 </tbody>
 </table>

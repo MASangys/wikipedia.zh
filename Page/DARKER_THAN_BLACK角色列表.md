@@ -909,7 +909,7 @@ Targa 4S型跑車。
 
   -
     **[總參謀部第二部部員](../Page/中国人民解放军总参谋部.md "wikilink")**
-    （聲優：[川島得愛](https://zh.wikipedia.org/wiki/川島得愛 "wikilink")）
+    （聲優：[川島得愛](../Page/川島得愛.md "wikilink")）
     隸屬於[解放軍的中國特工](https://zh.wikipedia.org/wiki/中國人民解放軍 "wikilink")。試圖從克羅德手上交易得到銀。和手下數名契約者皆被伊邪那美吸去魂魄而死。
     似乎與克羅德有過關係。
 

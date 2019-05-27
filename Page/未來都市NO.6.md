@@ -330,7 +330,7 @@ ISBN 978-4-06-358496-7（特裝版）</p></td>
 
   - 原作 - 淺野敦子（YA\!
     ENTERTAINMENT／[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）
-  - 監督 - [長崎健司](https://zh.wikipedia.org/wiki/長崎健司 "wikilink")
+  - 監督 - [長崎健司](../Page/長崎健司.md "wikilink")
   - 系列構成 - [水上清資](../Page/水上清資.md "wikilink")
   - 人物原案・概念设计 - [toi8](https://zh.wikipedia.org/wiki/toi8 "wikilink")
   - 人物设计、總作画監督 - [石野聰](https://zh.wikipedia.org/wiki/石野聰 "wikilink")
@@ -376,9 +376,9 @@ ISBN 978-4-06-358496-7（特裝版）</p></td>
 <td></td>
 <td><p>湿透的老鼠</p></td>
 <td><p><a href="../Page/水上清資.md" title="wikilink">水上清資</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/長崎健司" title="wikilink">長崎健司</a></p></td>
+<td><p><a href="../Page/長崎健司.md" title="wikilink">長崎健司</a></p></td>
 <td><p>清水久敏</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/菅野宏紀" title="wikilink">菅野宏紀</a></p></td>
+<td><p><a href="../Page/菅野宏紀.md" title="wikilink">菅野宏紀</a></p></td>
 </tr>
 <tr class="even">
 <td><p>#02</p></td>
@@ -421,8 +421,8 @@ ISBN 978-4-06-358496-7（特裝版）</p></td>
 <td><p>#06</p></td>
 <td></td>
 <td><p>偷偷接近的危機</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大野木寬" title="wikilink">大野木寬</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/增井壯一" title="wikilink">增井壯一</a></p></td>
+<td><p><a href="../Page/大野木寬.md" title="wikilink">大野木寬</a></p></td>
+<td><p><a href="../Page/增井壯一.md" title="wikilink">增井壯一</a></p></td>
 <td><p>佐藤育郎</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大城勝" title="wikilink">大城勝</a>、松田剛史</p></td>
 </tr>

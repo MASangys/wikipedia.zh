@@ -90,7 +90,7 @@
     B01AC22
     [普拉格雷](https://zh.wikipedia.org/wiki/普拉格雷 "wikilink")（[Prasugrel](https://zh.wikipedia.org/wiki/:en:Prasugrel "wikilink")）
     B01AC23
-    [西洛他唑](https://zh.wikipedia.org/wiki/西洛他唑 "wikilink")（[Cilostazol](https://zh.wikipedia.org/wiki/:en:Cilostazol "wikilink")）
+    [西洛他唑](../Page/西洛他唑.md "wikilink")（[Cilostazol](https://zh.wikipedia.org/wiki/:en:Cilostazol "wikilink")）
     B01AC24
     [替卡格雷](https://zh.wikipedia.org/wiki/替卡格雷 "wikilink")（[Ticagrelor](https://zh.wikipedia.org/wiki/:en:Ticagrelor "wikilink")）
     B01AC30 合剂（Combinations）

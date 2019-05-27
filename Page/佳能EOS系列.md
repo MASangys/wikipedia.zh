@@ -182,7 +182,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>158×163.6×82.7 mm</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS-1D_X_Mark_II" title="wikilink">1D X Mark II</a></p></td>
+<td><p><a href="../Page/佳能_EOS-1D_X_Mark_II.md" title="wikilink">1D X Mark II</a></p></td>
 <td><p><span style="display:否ne"></span> <a href="https://zh.wikipedia.org/wiki/DIGIC#Dual_DIGIC_6" title="wikilink">Dual DIGIC 6+</a></p></td>
 <td><p>36.0×24.0 mm CMOS</p></td>
 <td><p>20.2</p></td>
@@ -252,7 +252,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>150.7×116.4×75.9mm</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS_5Ds" title="wikilink">5Ds/5DsR</a></p></td>
+<td><p><a href="../Page/佳能_EOS_5Ds.md" title="wikilink">5Ds/5DsR</a></p></td>
 <td><p>Dual <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_+" title="wikilink">DIGIC 6</a></p></td>
 <td><p>36×24 mm CMOS</p></td>
 <td><p>50.6</p></td>
@@ -280,7 +280,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>144.5×110.5×71.2 mm</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS_6D_Mark_II" title="wikilink">6D Mark II</a></p></td>
+<td><p><a href="../Page/佳能_EOS_6D_Mark_II.md" title="wikilink">6D Mark II</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC" title="wikilink">DIGIC 7</a></p></td>
 <td><p>36×24 mm CMOS</p></td>
 <td><p>26.2</p></td>
@@ -448,7 +448,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>139×104.3×78.5 mm</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS_80D" title="wikilink">80D</a></p></td>
+<td><p><a href="../Page/佳能_EOS_80D.md" title="wikilink">80D</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_6" title="wikilink">DIGIC 6</a></p></td>
 <td><p>22.5 x 15.0mm CMOS</p></td>
 <td><p>24.2</p></td>
@@ -462,7 +462,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>139×105.2×78.5mm</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS_20Da" title="wikilink">20Da</a></p></td>
+<td><p><a href="../Page/佳能_EOS_20Da.md" title="wikilink">20Da</a></p></td>
 <td><p><span style="display:否ne">2</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_II" title="wikilink">DIGIC II</a></p></td>
 <td><p>22.5×15.0 mm CMOS</p></td>
 <td><p>8.2</p></td>
@@ -881,7 +881,7 @@ speedlite 430ex.jpg|Speedlite 430EX
   - [數位單眼相機](../Page/數位單眼相機.md "wikilink")
   - [佳能EF接环镜头](https://zh.wikipedia.org/wiki/佳能EF接环镜头 "wikilink")
   - [佳能EF-S接环镜头](https://zh.wikipedia.org/wiki/佳能EF-S接环镜头 "wikilink")
-  - [佳能EF-M接环镜头](https://zh.wikipedia.org/wiki/佳能EF-M接环镜头 "wikilink")
+  - [佳能EF-M接环镜头](../Page/佳能EF-M接环镜头.md "wikilink")
 
 ## 參考文獻
 

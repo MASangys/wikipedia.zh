@@ -1,5 +1,5 @@
 是遊戲開發商[卡普空中的遊戲系列之一](../Page/卡普空.md "wikilink")，為洛克人的第二個系列，1993年首次發行，故事背景承接[洛克人元祖系列](../Page/洛克人元祖系列.md "wikilink")，在22世紀的未來世界。此系列延續[洛克人元祖系列](../Page/洛克人元祖系列.md "wikilink")，依舊以高難度著稱，十二作中只有一作不是動作遊戲（[洛克人X
-指令任務是角色扮演遊戲](https://zh.wikipedia.org/wiki/洛克人X_指令任務 "wikilink")）。本系列另有一些漫畫改編作品與卡片周邊。
+指令任務是角色扮演遊戲](../Page/洛克人X_指令任務.md "wikilink")）。本系列另有一些漫畫改編作品與卡片周邊。
 
 ## 故事背景
 
@@ -19,7 +19,7 @@
 
 <SMALL>※SFC=[超級任天堂](../Page/超級任天堂.md "wikilink")、GB=[Game
 Boy](../Page/Game_Boy.md "wikilink")、GBC=[Game Boy
-Color](../Page/Game_Boy_Color.md "wikilink")、GC=[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、SS=[世嘉土星](../Page/世嘉土星.md "wikilink")、PS=[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")、PS2=[Playstation
+Color](../Page/Game_Boy_Color.md "wikilink")、GC=[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、SS=[世嘉土星](../Page/世嘉土星.md "wikilink")、PS=[PlayStation](../Page/PlayStation.md "wikilink")、PS2=[Playstation
 2](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")、PSP=[PlayStation
 Portable](../Page/PlayStation_Portable.md "wikilink")、PC=[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、VC=[Virtual
@@ -27,17 +27,15 @@ Console](../Page/Virtual_Console.md "wikilink")</SMALL>
 
   - [洛克人X](../Page/洛克人X_\(遊戲\).md "wikilink")（SFC、PC、VC、ios）
   - [洛克人X2](../Page/洛克人X2.md "wikilink")（SFC、VC）
-  - [洛克人X3](https://zh.wikipedia.org/wiki/洛克人X3 "wikilink")（SFC、PS、SS、PC）
+  - [洛克人X3](../Page/洛克人X3.md "wikilink")（SFC、PS、SS、PC）
   - [洛克人X4](../Page/洛克人X4.md "wikilink")（PS、SS、PC）
   - [洛克人X5](../Page/洛克人X5.md "wikilink")（PS、PC）
   - [洛克人X6](../Page/洛克人X6.md "wikilink")（PS、PC）
   - [洛克人X7](../Page/洛克人X7.md "wikilink")（PS2、PC）
   - [洛克人X8](../Page/洛克人X8.md "wikilink")（PS2、PC）
-  - [洛克人X 幻電任務](https://zh.wikipedia.org/wiki/洛克人X_幻電任務 "wikilink")（GBC）
-  - [洛克人X2
-    吸魂者](https://zh.wikipedia.org/wiki/洛克人X2_吸魂者 "wikilink")（GBC、VC）
-  - [洛克人X
-    指令任務](https://zh.wikipedia.org/wiki/洛克人X_指令任務 "wikilink")（PS2、GC）
+  - [洛克人X 幻電任務](../Page/洛克人X_幻電任務.md "wikilink")（GBC）
+  - [洛克人X2 吸魂者](../Page/洛克人X2_吸魂者.md "wikilink")（GBC、VC）
+  - [洛克人X 指令任務](../Page/洛克人X_指令任務.md "wikilink")（PS2、GC）
   - [反亂獵人X](../Page/反亂獵人X.md "wikilink")（PSP）
 
 ## 主要人物

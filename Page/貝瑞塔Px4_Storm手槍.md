@@ -4,7 +4,7 @@ S\&W和](../Page/.40_S&W.md "wikilink")[.45
 ACP這四種](../Page/.45_ACP.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 Px4
-Storm使用了與[貝瑞塔8000系列相同的](../Page/貝瑞塔8000手槍.md "wikilink")[槍管短行程後座作用](../Page/後座作用.md "wikilink")、[槍管偏轉式閉鎖槍機以及與](https://zh.wikipedia.org/wiki/槍管偏轉式 "wikilink")[貝瑞塔92／96](../Page/貝瑞塔92手槍.md "wikilink")／[M9系列相同的操作系統](../Page/貝瑞塔M9手槍.md "wikilink")。不過，從設計上可以看出與以上兩種系列完全不同的地方，例如可以減輕全槍重量和生產成本的輕[質量的工程用](https://zh.wikipedia.org/wiki/質量 "wikilink")[聚合物及](../Page/聚合物.md "wikilink")[钢材混合材料](../Page/钢.md "wikilink")、適合不同使用者的模組化[扳機結構](https://zh.wikipedia.org/wiki/扳機 "wikilink")、可以完全地閉鎖的[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、套筒下和[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條用以安裝[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器和其他戰術配件的](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[MIL-STD-1913戰術導軌以及握把使用了模塊化的可選擇更換式後方握把片](../Page/皮卡汀尼導軌.md "wikilink")。這些都是從根本上脫離過去的貝瑞塔手槍都沒有使用的設計。
+Storm使用了與[貝瑞塔8000系列相同的](../Page/貝瑞塔8000手槍.md "wikilink")[槍管短行程後座作用](../Page/後座作用.md "wikilink")、[槍管偏轉式閉鎖槍機以及與](https://zh.wikipedia.org/wiki/槍管偏轉式 "wikilink")[貝瑞塔92／96](../Page/貝瑞塔92手槍.md "wikilink")／[M9系列相同的操作系統](../Page/貝瑞塔M9手槍.md "wikilink")。不過，從設計上可以看出與以上兩種系列完全不同的地方，例如可以減輕全槍重量和生產成本的輕[質量的工程用](https://zh.wikipedia.org/wiki/質量 "wikilink")[聚合物及](../Page/聚合物.md "wikilink")[钢材混合材料](../Page/钢.md "wikilink")、適合不同使用者的模組化[扳機結構](https://zh.wikipedia.org/wiki/扳機 "wikilink")、可以完全地閉鎖的[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、套筒下和[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條用以安裝[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件的](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[MIL-STD-1913戰術導軌以及握把使用了模塊化的可選擇更換式後方握把片](../Page/皮卡汀尼導軌.md "wikilink")。這些都是從根本上脫離過去的貝瑞塔手槍都沒有使用的設計。
 
 ## 設計細節
 
@@ -18,7 +18,7 @@ Storm上移除而且不需要使用任何專用工具。這使得對發射機構
 
 貝瑞塔Px4
 Storm的特點是安裝在[套筒頂部的燕尾槽裡](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、可以更換和發光的[三點式準星瞄準系統](../Page/機械瞄具.md "wikilink")，在夜間瞄準用白點上還塗上了[超級夜光](https://zh.wikipedia.org/wiki/超級夜光 "wikilink")（Super-LumiNova）塗料，以便在黑暗或光線不足的情況下快速捕捉目標時使用。只要曝露於任何類型的光線一段短時間，夜間瞄準用白點就有著長達30分鐘的黑暗中發光時間。貝瑞塔Px4
-Storm還在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](https://zh.wikipedia.org/wiki/机匣 "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條[MIL-STD-1913式戰術燈安裝導軌](../Page/皮卡汀尼導軌.md "wikilink")，以安裝各種[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。安裝後是十分穩固的，而且無需使用任何工具輔助安裝。
+Storm還在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](../Page/机匣.md "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條[MIL-STD-1913式戰術燈安裝導軌](../Page/皮卡汀尼導軌.md "wikilink")，以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。安裝後是十分穩固的，而且無需使用任何工具輔助安裝。
 
 ### 可移除和通用的部件
 
@@ -52,7 +52,7 @@ S\&W這兩種](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilin
 Storm緊湊型還裝有非常靈巧的[套筒鎖](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（[空槍掛機杆](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")），安裝在套筒附近和扳機護圈上的兩側，兩手皆可讓[拇指舒服地操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")，進而快速識別彈盡和更換彈匣。貝瑞塔Px4
 Storm緊湊型亦可使用全尺寸型的可拆卸式[彈匣](../Page/彈匣.md "wikilink")，例如9×19毫米口徑的17、20發可拆卸式彈匣和.40
 S\&W口徑的14、17發可拆卸式彈匣。貝瑞塔Px4
-Storm緊湊型還在套筒下方、[底把的](https://zh.wikipedia.org/wiki/机匣 "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條較短的[MIL-STD-1913戰術導軌以安裝各種較小的戰術配件](../Page/皮卡汀尼導軌.md "wikilink")。
+Storm緊湊型還在套筒下方、[底把的](../Page/机匣.md "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條較短的[MIL-STD-1913戰術導軌以安裝各種較小的戰術配件](../Page/皮卡汀尼導軌.md "wikilink")。
 
 ### Px4 Storm袖珍型
 
@@ -63,8 +63,8 @@ Storm袖珍型採用了[槍管擺動式系統](https://zh.wikipedia.org/wiki/槍
 
 貝瑞塔銷售的Px4
 Storm袖珍型作為他們目前最先進的微型手槍。它重量輕巧和尺寸細小。[槍管是由](../Page/槍管.md "wikilink")[不鏽鋼製造](../Page/不鏽鋼.md "wikilink")，以防止因為汗水而[腐蚀](../Page/腐蚀.md "wikilink")。同樣在[扳機護圈後部的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[彈匣釋放按鈕可以轉換成兩種尺寸和安裝在左右任何一邊](../Page/彈匣.md "wikilink")。貝瑞塔Px4
-Storm袖珍型還在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](https://zh.wikipedia.org/wiki/机匣 "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條短小的[MIL-STD-1913戰術導軌足以安裝各種較小的戰術配件](../Page/皮卡汀尼導軌.md "wikilink")，例如由[透視科技公司](https://zh.wikipedia.org/wiki/透視科技公司 "wikilink")（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：Insight
-Technology）研製及生產的的整合式X2[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")／[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。後方握把片亦有三種尺寸，分別是：超薄型、標準型和超大型。彈匣釋放按鈕可以安裝在貝瑞塔Px4
+Storm袖珍型還在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](../Page/机匣.md "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條短小的[MIL-STD-1913戰術導軌足以安裝各種較小的戰術配件](../Page/皮卡汀尼導軌.md "wikilink")，例如由[透視科技公司](https://zh.wikipedia.org/wiki/透視科技公司 "wikilink")（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：Insight
+Technology）研製及生產的的整合式X2[戰術燈](../Page/戰術燈.md "wikilink")／[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。後方握把片亦有三種尺寸，分別是：超薄型、標準型和超大型。彈匣釋放按鈕可以安裝在貝瑞塔Px4
 Storm的左右任何一邊，或是被是以下三種尺寸將其取代，分別是：標準型、大型或戰鬥型（延長型）。最後貝瑞塔使用了[专利的SnapGrip彈匣延長底座](../Page/专利.md "wikilink")，延長了握把下端的尺寸，以達到握把能更安全和穩固地握緊。
 
 ### 聯合戰鬥手槍
@@ -75,7 +75,7 @@ Storm SD（SD，全稱：，意為：特別任務）。貝瑞塔Px4 Storm
 SD的設計目的是要滿足[美军](../Page/美军.md "wikilink")「聯合戰鬥手槍」（，簡稱：JCP）計劃之中的各項規定，其目的就是為了令美軍裝備一把可同時發射[.45
 ACP普通](../Page/.45_ACP.md "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")、[彈藥和高壓](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[彈藥的半自動手槍](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，並且取代目前發射[9毫米](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈的](../Page/子彈.md "wikilink")[M9手槍](../Page/貝瑞塔M9手槍.md "wikilink")。除了貝瑞塔Px4
 Storm SD，[HK45](../Page/HK45手槍.md "wikilink")、[SIG
-P220戰鬥型](../Page/SIG_P220手槍.md "wikilink")、[史密斯威森軍警型](https://zh.wikipedia.org/wiki/史密斯威森軍警型半自動手槍 "wikilink")、[格洛克21
+P220戰鬥型](../Page/SIG_P220手槍.md "wikilink")、[史密斯威森軍警型](../Page/史密斯威森軍警型半自動手槍.md "wikilink")、[格洛克21
 SF](https://zh.wikipedia.org/wiki/格洛克21#.E6.A0.BC.E6.B4.9B.E5.85.8B21SF "wikilink")、[FN
 FNP45-USG](../Page/FN_FNP手槍.md "wikilink")、[HS-45等](../Page/HS2000手槍.md "wikilink").45
 [口徑的手槍亦有參加](https://zh.wikipedia.org/wiki/口徑 "wikilink")。不過，聯合戰鬥手槍計劃在2006年被無限期中止，而目前M9手槍仍然是美軍的[制式手槍](https://zh.wikipedia.org/wiki/制式手槍 "wikilink")。
@@ -200,9 +200,9 @@ Storm和其衍生型亦登場於多隻[电影](../Page/电影.md "wikilink")、[
   - 2014年—《[-{zh:機器戰警; zh-cn:机械战警; zh-hk:鐵甲威龍;
     zh-tw:機器戰警;}-2014](../Page/机械战警_\(2014年电影\).md "wikilink")》（RoboCop
     2014）：型號為標準型，被艾力克斯·莫菲（Alex
-    Murphy，[喬爾·金納曼飾演](https://zh.wikipedia.org/wiki/喬爾·金納曼 "wikilink")）和其搭檔傑克·路易斯（Jack
+    Murphy，[喬爾·金納曼飾演](../Page/喬爾·金納曼.md "wikilink")）和其搭檔傑克·路易斯（Jack
     Lewis，[邁克爾·K·威廉姆斯飾演](https://zh.wikipedia.org/wiki/邁克爾·K·威廉姆斯 "wikilink")）作為所使用。
-  - 2014年—《[-{zh:三日杀戮;zh-hk:3日限殺令;zh-tw:特務殺很大;}-](https://zh.wikipedia.org/wiki/三日杀戮 "wikilink")》（3
+  - 2014年—《[-{zh:三日杀戮;zh-hk:3日限殺令;zh-tw:特務殺很大;}-](../Page/三日杀戮.md "wikilink")》（3
     Days to
     Kill）：型號為標準型，被[中央情报局](../Page/中央情报局.md "wikilink")[特工和狼](https://zh.wikipedia.org/wiki/特務 "wikilink")（The
     Wolf）的保鏢所使用，其中一名女特工的槍裝上[消聲器](../Page/抑制器.md "wikilink")。
@@ -278,7 +278,7 @@ Storm和其衍生型亦登場於多隻[电影](../Page/电影.md "wikilink")、[
   - 2013年—《[-{zh-cn:细胞分裂;
     zh-tw:縱橫諜海;}-：黑名單](../Page/縱橫諜海：黑名單.md "wikilink")》（Splinter
     Cell:
-    Blacklist）：型號為[橄榄绿](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")[底把Px](https://zh.wikipedia.org/wiki/机匣 "wikilink")4
+    Blacklist）：型號為[橄榄绿](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")[底把Px](../Page/机匣.md "wikilink")4
     Storm SD型，命名為“PX4 STORM
     .45”，10發[彈匣](../Page/彈匣.md "wikilink")，裝上[消聲器並且被主角](../Page/抑制器.md "wikilink")[-{zh-cn:山姆·费舍尔;
     zh-tw:山姆·費雪;}-](../Page/山姆·費雪.md "wikilink")（Sam
@@ -299,7 +299,7 @@ Storm和其衍生型亦登場於多隻[电影](../Page/电影.md "wikilink")、[
 
   - 2009年—[-{zh-hant:《CANAAN》; zh-tw:《迦南》（CANAAN）; zh-hk:《CANAAN迦南》;
     zh-hans:《迦南》（CANAAN）;
-    zh-mo:《CANAAN迦南》;}-](../Page/CANAAN.md "wikilink")：[橄欖色](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")[底把連](https://zh.wikipedia.org/wiki/机匣 "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒的](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑G型標準型被主角迦南](https://zh.wikipedia.org/wiki/口徑 "wikilink")（カナン，[聲優](../Page/聲優.md "wikilink")：日本：[澤城美雪](../Page/澤城美雪.md "wikilink")／香港：[陳琴雲](../Page/陳琴雲.md "wikilink")）所使用。
+    zh-mo:《CANAAN迦南》;}-](../Page/CANAAN.md "wikilink")：[橄欖色](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")[底把連](../Page/机匣.md "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒的](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑G型標準型被主角迦南](https://zh.wikipedia.org/wiki/口徑 "wikilink")（カナン，[聲優](../Page/聲優.md "wikilink")：日本：[澤城美雪](../Page/澤城美雪.md "wikilink")／香港：[陳琴雲](../Page/陳琴雲.md "wikilink")）所使用。
   - 2013年—《[劇場版 魔法少女小圓 ［新篇］
     叛逆的物語](../Page/劇場版_魔法少女小圓.md "wikilink")》（劇場版
     魔法少女まどか☆マギカ ［新編］
@@ -315,7 +315,7 @@ Storm和其衍生型亦登場於多隻[电影](../Page/电影.md "wikilink")、[
   - [貝瑞塔9000](../Page/貝瑞塔9000手槍.md "wikilink")
   - [貝瑞塔BU9 Nano](../Page/貝瑞塔BU9_Nano手槍.md "wikilink")
   - [貝瑞塔Pico](../Page/貝瑞塔Pico手槍.md "wikilink")
-  - [貝瑞塔APX](https://zh.wikipedia.org/wiki/貝瑞塔APX手槍 "wikilink")
+  - [貝瑞塔APX](../Page/貝瑞塔APX手槍.md "wikilink")
   - [貝瑞塔Cx4
     Storm](../Page/貝瑞塔Cx4_Storm卡賓槍.md "wikilink")，[半自動手槍](../Page/半自動手槍.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")
   - [貝瑞塔Rx4
@@ -324,7 +324,7 @@ Storm和其衍生型亦登場於多隻[电影](../Page/电影.md "wikilink")、[
     Storm](../Page/貝瑞塔Tx4_Storm半自動霰彈槍.md "wikilink")，[12鉛徑](../Page/散彈.md "wikilink")[半自動霰彈槍](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")
   - [貝瑞塔Mx4 Storm](../Page/貝瑞塔Mx4_Storm衝鋒槍.md "wikilink")，貝瑞塔Cx4
     Storm的短槍管全自動型版本
-  - [Q×4手枪](https://zh.wikipedia.org/wiki/Q×4手枪 "wikilink")
+  - [Q×4手枪](../Page/Q×4手枪.md "wikilink")
 
 ## 資料來源
 

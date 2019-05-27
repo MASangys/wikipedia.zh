@@ -125,7 +125,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/失控·幽靈飛車" title="wikilink">失控·幽靈飛車</a></p></td>
+<td><p><a href="../Page/失控·幽靈飛車.md" title="wikilink">失控·幽靈飛車</a></p></td>
 <td><p>柏林刑警: Tom Young</p></td>
 <td></td>
 </tr>

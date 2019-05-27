@@ -21,7 +21,7 @@ DOM解析器被称作`DocumentBuilder`，因为它构建一个内存中的`Docum
   - 元素节点，具有许多属性
   - 文本节点，代表文档元素开始和结束标签之间的文字。
 
-节点类型的完整列表，请参见包中的[Javadoc文档](https://zh.wikipedia.org/wiki/Javadoc "wikilink")。
+节点类型的完整列表，请参见包中的[Javadoc文档](../Page/Javadoc.md "wikilink")。
 
 ## SAX接口
 

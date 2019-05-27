@@ -291,7 +291,7 @@ V五人的生體能源活動的最終計畫－**黑‧極限勝利金剛**，順
 
   -
     **冥王吉爾菲瑟Dark King
-    Zylpheeza<small>｜**[中村大樹](https://zh.wikipedia.org/wiki/中村大樹 "wikilink")
+    Zylpheeza<small>｜**[中村大樹](../Page/中村大樹.md "wikilink")
     聲</small>
       - <small>屬性 = 天</small>
     災魔兄弟中的頭領，排名為老大，事實上牠的身分排名才老二，牠是屬於天屬性的災魔代表，牠作為災魔一族的最高司令官，代表稱號為『冥王』，胸前有著一顆紅色的星星為證，武器為長槍，在兄弟地位與稱號，都叫牠為大哥，牠繼承了大魔女格蘭狄努的邪惡本性，也要與其他三兄弟競爭，看誰派出去的災魔獸作亂次數較多，不過通常災魔獸牠派出來的都是天災性質的較多，比如颱風、龍捲風等。
@@ -532,7 +532,7 @@ Go-Blaster**發動**超越模式Hyper Mode**。 |-
         作為生命之鳥的鳥喙部分的[鑽頭型武器](https://zh.wikipedia.org/wiki/電鑽 "wikilink")。用於破壞門縫或鑽破圍牆。
     **鳥驅滅火槍Build Discharger**
       -
-        作為生命之鳥的軀體部分的[滅火器型武器](https://zh.wikipedia.org/wiki/滅火器 "wikilink")。能夠發射高壓水柱和冷凍煤氣，除了撲滅火種與火源外也能用於攻擊。
+        作為生命之鳥的軀體部分的[滅火器型武器](../Page/滅火器.md "wikilink")。能夠發射高壓水柱和冷凍煤氣，除了撲滅火種與火源外也能用於攻擊。
     **飛翼鐵剪Wing Spreader**
       -
         作為生命之鳥的羽翼部分的[鐵剪型武器](../Page/剪刀.md "wikilink")。能剪斷30公分的鋼筋和鑽石，有機械手臂功能。
@@ -1132,7 +1132,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>誇りのイエロー</p></td>
 <td><p>自豪的Go Yellow</p></td>
 <td><p>黒煙サイマ獣チャンバーノ（廢氣災魔獸，<a href="https://zh.wikipedia.org/wiki/谷昌樹" title="wikilink">谷昌樹</a> 聲）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山口亮太" title="wikilink">山口亮太</a></p></td>
+<td><p><a href="../Page/山口亮太.md" title="wikilink">山口亮太</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1397,7 +1397,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>37</p></td>
 <td><p>美女がサイマ獣!?</p></td>
 <td><p>美女是災魔獸？</p></td>
-<td><p>忍耐力サイマ獣ガルバリア（忍耐災魔獸，<a href="https://zh.wikipedia.org/wiki/長嶝高士" title="wikilink">長嶝高士</a> 聲）</p></td>
+<td><p>忍耐力サイマ獣ガルバリア（忍耐災魔獸，<a href="../Page/長嶝高士.md" title="wikilink">長嶝高士</a> 聲）</p></td>
 <td><p>小中肇</p></td>
 <td><p>武上純希</p></td>
 </tr>

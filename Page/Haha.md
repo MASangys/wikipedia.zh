@@ -21,24 +21,24 @@ Man》中表示戀情長達五年，並問候對方。
 
 ### 電影
 
-|       |                                                         |    |
-| ----- | ------------------------------------------------------- | -- |
-| 年份    | 片名                                                      | 備註 |
-| 2005年 | 《》                                                      |    |
-| 《》    |                                                         |    |
-| 2006年 | 《》                                                      |    |
-| 《》    | 與[金思朗](../Page/金思朗.md "wikilink")                       |    |
-| 《》    | 飾演小混混                                                   |    |
-| 2016年 | 《[致命戀愛](https://zh.wikipedia.org/wiki/致命戀愛 "wikilink")》 | 客串 |
+|       |                                      |    |
+| ----- | ------------------------------------ | -- |
+| 年份    | 片名                                   | 備註 |
+| 2005年 | 《》                                   |    |
+| 《》    |                                      |    |
+| 2006年 | 《》                                   |    |
+| 《》    | 與[金思朗](../Page/金思朗.md "wikilink")    |    |
+| 《》    | 飾演小混混                                |    |
+| 2016年 | 《[致命戀愛](../Page/致命戀愛.md "wikilink")》 | 客串 |
 
 ### 戲劇
 
-|       |                                                             |                                                                       |      |
-| ----- | ----------------------------------------------------------- | --------------------------------------------------------------------- | ---- |
-| 年份    | 電視台                                                         | 劇名                                                                    | 備註   |
-| 2002年 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《》                                                                    |      |
-| 2005年 | 《[悲傷戀歌](../Page/悲傷戀歌.md "wikilink")》                        |                                                                       |      |
-| 2018年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")         | 《[可愛又可怕的他](https://zh.wikipedia.org/wiki/Lovely_Horribly "wikilink")》 | 特別演出 |
+|       |                                                             |                                                    |      |
+| ----- | ----------------------------------------------------------- | -------------------------------------------------- | ---- |
+| 年份    | 電視台                                                         | 劇名                                                 | 備註   |
+| 2002年 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《》                                                 |      |
+| 2005年 | 《[悲傷戀歌](../Page/悲傷戀歌.md "wikilink")》                        |                                                    |      |
+| 2018年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")         | 《[可愛又可怕的他](../Page/Lovely_Horribly.md "wikilink")》 | 特別演出 |
 
 ### 主持
 
@@ -123,7 +123,7 @@ Man》中表示戀情長達五年，並問候對方。
 <tr class="even">
 <td><p>2017年2月10日-3月31日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/高等Rapper" title="wikilink">高等Rapper</a>》</p></td>
+<td><p>《<a href="../Page/高等Rapper.md" title="wikilink">高等Rapper</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年5月5日（試播）</p></td>
@@ -157,11 +157,9 @@ Man》中表示戀情長達五年，並問候對方。
 
 ### 2005年
 
-  - 5月2日
-    SBS《夜心萬萬》（與[李敬揆](https://zh.wikipedia.org/wiki/李敬揆 "wikilink")、金昌烈、Kim
+  - 5月2日 SBS《夜心萬萬》（與[李敬揆](../Page/李敬揆.md "wikilink")、金昌烈、Kim
     Jin、[朴真熙](../Page/朴真熙.md "wikilink")）　
-  - 5月9日
-    SBS《夜心萬萬》（與[李敬揆](https://zh.wikipedia.org/wiki/李敬揆 "wikilink")、金昌烈、Kim
+  - 5月9日 SBS《夜心萬萬》（與[李敬揆](../Page/李敬揆.md "wikilink")、金昌烈、Kim
     Jin、[朴真熙](../Page/朴真熙.md "wikilink")）　
   - 5月12日
     SBS《反轉劇：花花公子》（與崔正元、[朴貞雅](../Page/朴貞雅.md "wikilink")、[李智賢](https://zh.wikipedia.org/wiki/李智賢 "wikilink")）
@@ -228,7 +226,7 @@ Man》中表示戀情長達五年，並問候對方。
     MC、與[孝琳](../Page/孝琳.md "wikilink")＆[昭宥](https://zh.wikipedia.org/wiki/昭宥 "wikilink")（[SISTAR](../Page/SISTAR.md "wikilink")）)
   - 7月20日：SBS《1亿Quiz Show》
   - 8月8日： every1 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》
-    Ep55（與[Skull](https://zh.wikipedia.org/wiki/Skull_\(歌手\) "wikilink")）
+    Ep55（與[Skull](../Page/Skull_\(歌手\).md "wikilink")）
   - 8月25日: Mnet《尹道贤的must》
   - 10月25日：KBS2《[Happy Together](../Page/歡樂在一起.md "wikilink")
     3》Ep270料理王特輯（與[秀智](../Page/秀智.md "wikilink")([miss
@@ -238,25 +236,25 @@ Man》中表示戀情長達五年，並問候對方。
 
   - 2月12日：KBS《月光王子》（与[郑容和](https://zh.wikipedia.org/wiki/郑容和 "wikilink")、[文熙俊](../Page/文熙俊.md "wikilink")、[于志元](https://zh.wikipedia.org/wiki/于志元 "wikilink")）
   - 8月7日：MBC《[黄金渔场 Radio
-    Star](../Page/黄金渔场_Radio_Star.md "wikilink")》（與[Skull](https://zh.wikipedia.org/wiki/Skull_\(歌手\) "wikilink")、李贤道、、）
+    Star](../Page/黄金渔场_Radio_Star.md "wikilink")》（與[Skull](../Page/Skull_\(歌手\).md "wikilink")、李贤道、、）
   - 8月8日：KBS2《[Happy Together](../Page/歡樂在一起.md "wikilink")
-    3》Ep311（與[金鍾旼](../Page/金鍾旼.md "wikilink")、[Skull](https://zh.wikipedia.org/wiki/Skull_\(歌手\) "wikilink")、白佳、金智敏、[申寶拉](../Page/申寶拉.md "wikilink")）
+    3》Ep311（與[金鍾旼](../Page/金鍾旼.md "wikilink")、[Skull](../Page/Skull_\(歌手\).md "wikilink")、白佳、金智敏、[申寶拉](../Page/申寶拉.md "wikilink")）
   - 12月26日：KBS2《[Happy Together](../Page/歡樂在一起.md "wikilink")
     3》Ep331可惡的男人特輯（與[成始璄](../Page/成始璄.md "wikilink")、MINO、[鄭俊英](../Page/鄭俊英.md "wikilink")、NC.A
 
 ### 2014年
 
-  - 8月4日：[JTBC](../Page/JTBC.md "wikilink")《[非首脑会谈](https://zh.wikipedia.org/wiki/非首脑会谈 "wikilink")》（與[Skull](https://zh.wikipedia.org/wiki/Skull_\(歌手\) "wikilink")）
-  - 11月7日：[浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")《[奔跑吧兄弟](https://zh.wikipedia.org/wiki/奔跑吧兄弟 "wikilink")》（與《[Running
+  - 8月4日：[JTBC](../Page/JTBC.md "wikilink")《[非首脑会谈](https://zh.wikipedia.org/wiki/非首脑会谈 "wikilink")》（與[Skull](../Page/Skull_\(歌手\).md "wikilink")）
+  - 11月7日：[浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")《[奔跑吧兄弟](../Page/奔跑吧兄弟.md "wikilink")》（與《[Running
     Man](../Page/Running_Man.md "wikilink")》成員）
 
 ### 2015年
 
   - 3月1日：[中央電視台](https://zh.wikipedia.org/wiki/中央電視台 "wikilink")：《[叮咯咙咚呛](../Page/叮咯咙咚呛.md "wikilink")》第1期(與[池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")、[金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[李光洙視頻出演](../Page/李光洙_\(演員\).md "wikilink"))
   - 3月16日：SBS《[Healing
-    Camp](https://zh.wikipedia.org/wiki/Healing_Camp "wikilink")》（與[Star](../Page/Star_\(韓國歌手\).md "wikilink")）
+    Camp](../Page/Healing_Camp.md "wikilink")》（與[Star](../Page/Star_\(韓國歌手\).md "wikilink")）
   - 5月23日：SBS《中韓時尚王》（與[池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[李光洙](../Page/李光洙_\(演員\).md "wikilink")，視頻出演）
-  - 11月：SBS《[尋笑人](https://zh.wikipedia.org/wiki/尋笑人 "wikilink")》（《[Running
+  - 11月：SBS《[尋笑人](../Page/尋笑人.md "wikilink")》（《[Running
     Man](../Page/Running_Man.md "wikilink")》 Ep273 節目內任務）
   - 11月24日：[Channel
     M](https://zh.wikipedia.org/wiki/Channel_M "wikilink") 《School's
@@ -279,8 +277,8 @@ Man》中表示戀情長達五年，並問候對方。
     演艺通信](https://zh.wikipedia.org/wiki/sectionTV_演艺通信 "wikilink")
   - 4月5日: [JTBC](../Page/JTBC.md "wikilink") 《[Two Yoo Project - Sugar
     Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》
-    Ep26（與[Skull](https://zh.wikipedia.org/wiki/Skull_\(歌手\) "wikilink")）
-  - 5月13日：[浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")《[奔跑吧兄弟4](https://zh.wikipedia.org/wiki/奔跑吧兄弟 "wikilink")》（與《[Running
+    Ep26（與[Skull](../Page/Skull_\(歌手\).md "wikilink")）
+  - 5月13日：[浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")《[奔跑吧兄弟4](../Page/奔跑吧兄弟.md "wikilink")》（與《[Running
     Man](../Page/Running_Man.md "wikilink")》成員）
 
 ## 音樂作品
@@ -511,10 +509,10 @@ Man》中表示戀情長達五年，並問候對方。
 
 ### 《[無限挑戰](../Page/無限挑戰.md "wikilink")》創作歌曲
 
-  - 矮個子小孩的故事（，2007年[江邊北路歌謠祭](https://zh.wikipedia.org/wiki/江邊北路歌謠祭 "wikilink")）
+  - 矮個子小孩的故事（，2007年[江邊北路歌謠祭](../Page/江邊北路歌謠祭.md "wikilink")）
   - 糯米糕（，與10cm，2011年[西海岸高速公路歌謠祭](../Page/無限挑戰_西海岸高速公路歌謠祭.md "wikilink")）
   - 要不死要不交往（，與10cm，2011年[西海岸高速公路歌謠祭](../Page/無限挑戰_西海岸高速公路歌謠祭.md "wikilink")）
-  - 傻瓜獻給傻瓜（，與skull，改編自[朴明洙的](../Page/朴明洙.md "wikilink")《傻瓜獻給傻瓜》，2012年「[咱們也算是歌手](https://zh.wikipedia.org/wiki/咱們也算是歌手 "wikilink")」特輯）
+  - 傻瓜獻給傻瓜（，與skull，改編自[朴明洙的](../Page/朴明洙.md "wikilink")《傻瓜獻給傻瓜》，2012年「[咱們也算是歌手](../Page/咱們也算是歌手.md "wikilink")」特輯）
   - 超級雜草男（，與張基河與臉孔們，2013年[自由路歌謠祭](../Page/無限挑戰_自由路歌謠祭.md "wikilink")）
   - $ponsor(，與[Zion.T](../Page/Zion.T.md "wikilink")，2015年[嶺東高速公路歌謠祭](../Page/無限挑戰_嶺東高速公路歌謠祭.md "wikilink")）
 
@@ -544,7 +542,7 @@ Man》中表示戀情長達五年，並問候對方。
     Mulligan（中秋節精選電影《[無限挑戰](../Page/無限挑戰.md "wikilink")》特別配音版）
   - 2015年 動畫電影《》（與鄭埻夏）
   - 2017年《Hot
-    Suger》－[Turbo](https://zh.wikipedia.org/wiki/Turbo "wikilink")（與[梁世燦](https://zh.wikipedia.org/wiki/梁世燦 "wikilink")）
+    Suger》－[Turbo](https://zh.wikipedia.org/wiki/Turbo "wikilink")（與[梁世燦](../Page/梁世燦.md "wikilink")）
 
 ## 演唱會/見面會
 

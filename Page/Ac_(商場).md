@@ -51,7 +51,7 @@ Gate、Triumph、Wacoal及天仁茗茶等等。第5期位於1-4期商場中央�
       - [南小館](https://zh.wikipedia.org/wiki/南小館 "wikilink")
       - [吉野家](../Page/吉野家.md "wikilink")
       - [譚仔三哥](https://zh.wikipedia.org/wiki/譚仔三哥 "wikilink")
-      - [八方雲集](https://zh.wikipedia.org/wiki/八方雲集 "wikilink")
+      - [八方雲集](../Page/八方雲集.md "wikilink")
       - [滿記甜品](../Page/滿記甜品.md "wikilink")
       - [茶木](https://zh.wikipedia.org/wiki/茶木 "wikilink")
       - [肇順名匯河鮮專門店](https://zh.wikipedia.org/wiki/肇順名匯河鮮專門店 "wikilink")

@@ -22,7 +22,7 @@
   - [まい](https://zh.wikipedia.org/wiki/chay "wikilink")
   - [松村沙友理](../Page/松村沙友理.md "wikilink")（乃木坂46）
   - [宮本茉由](https://zh.wikipedia.org/wiki/宮本茉由 "wikilink")
-  - [山下美月](https://zh.wikipedia.org/wiki/山下美月 "wikilink")（乃木坂46）
+  - [山下美月](../Page/山下美月.md "wikilink")（乃木坂46）
 
 ### 已畢業
 

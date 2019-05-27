@@ -18,7 +18,7 @@ Base第一次獨立製作的電視動畫《[-{zh-hans:爆斗宣言大钢弹;zh-h
 Base初期並沒有自家的攝影和剪接部門。直至2000年代後期才正式開設，調整了公司的製作體制，開始能接受動畫和第二[原畫](https://zh.wikipedia.org/wiki/原畫 "wikilink")\[4\]
 的統包業務。現時有4個製作部門、2個作畫部門和1個攝影、剪接和上色共用的數碼部門\[5\]。旗下製作的經費較其他以[中小型企業模式營運的動畫工作室充足](https://zh.wikipedia.org/wiki/中小型企業 "wikilink")。
 
-2013年6月，第三製作部所屬的製作人佐藤由美離社，另外在[東京都](../Page/東京都.md "wikilink")[三鷹市成立](../Page/三鷹市.md "wikilink")「**[株式會社朱夏](https://zh.wikipedia.org/wiki/朱夏_\(動畫工作室\) "wikilink")**」\[6\]。
+2013年6月，第三製作部所屬的製作人佐藤由美離社，另外在[東京都](../Page/東京都.md "wikilink")[三鷹市成立](../Page/三鷹市.md "wikilink")「**[株式會社朱夏](../Page/朱夏_\(動畫工作室\).md "wikilink")**」\[6\]。
 
 2016年，企劃營業製作部所屬的製作人大石祐道離社，並以跟母體企業Brain's
 Base合作製作《[吸血鬼僕人](../Page/吸血鬼僕人.md "wikilink")》起家，成立「**株式會社Platinum
@@ -55,7 +55,7 @@ Vision**」。
 <td><p>2004年</p></td>
 <td><p><a href="../Page/冒險遊記Pluster_World.md" title="wikilink">冒險遊記Pluster World</a></p></td>
 <td></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Actas" title="wikilink">Actas共同製作</a>。</p></td>
+<td><p>與<a href="../Page/Actas.md" title="wikilink">Actas共同製作</a>。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -284,7 +284,7 @@ Vision**」。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/我們大家的河合莊" title="wikilink">我們大家的河合莊</a></p></td>
+<td><p><a href="../Page/我們大家的河合莊.md" title="wikilink">我們大家的河合莊</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -373,7 +373,7 @@ Vision**」。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/我太受歡迎了，該怎麼辦？" title="wikilink">我太受歡迎了，該怎麼辦？</a></p></td>
+<td><p><a href="../Page/我太受歡迎了，該怎麼辦？.md" title="wikilink">我太受歡迎了，該怎麼辦？</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -414,7 +414,7 @@ Vision**」。
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/格林筆記" title="wikilink">格林筆記 The Animation</a></p></td>
+<td><p><a href="../Page/格林筆記.md" title="wikilink">格林筆記 The Animation</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -817,7 +817,7 @@ Vision**」。
 
   - 菅原靜貴
 
-  - [田中良](https://zh.wikipedia.org/wiki/田中良 "wikilink")
+  - [田中良](../Page/田中良.md "wikilink")
 
   -
 

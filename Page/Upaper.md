@@ -14,7 +14,7 @@ box.jpg|《Upaper》專用回收箱
 ## 相關條目
 
   - [台灣報紙列表](../Page/台灣報紙列表.md "wikilink")
-  - [台灣媒體財團化](https://zh.wikipedia.org/wiki/台灣媒體財團化 "wikilink")
+  - [台灣媒體財團化](../Page/台灣媒體財團化.md "wikilink")
 
 ## 參考資料
 

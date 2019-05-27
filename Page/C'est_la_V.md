@@ -21,7 +21,7 @@ Tedder邀歌而成的](https://zh.wikipedia.org/wiki/Ryan_Tedder "wikilink")。
 <tr class="even">
 <td><p>01</p></td>
 <td><p>Intro</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳星翰" title="wikilink">陳星翰</a></p></td>
+<td><p><a href="../Page/陳星翰.md" title="wikilink">陳星翰</a></p></td>
 <td></td>
 <td><p>陳星翰</p></td>
 <td><p>純音樂</p></td>

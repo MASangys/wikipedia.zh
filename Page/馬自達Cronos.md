@@ -1,6 +1,6 @@
 **馬自達Cronos**（）是1990年代由[日本](../Page/日本.md "wikilink")[馬自達汽車公司製造的中型四門](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[轎車](https://zh.wikipedia.org/wiki/轎車 "wikilink")。因為當時[日本泡沫經濟時期景氣大好](https://zh.wikipedia.org/wiki/日本泡沫經濟 "wikilink")，馬自達汽車公司採[多品牌策略](https://zh.wikipedia.org/wiki/多品牌策略 "wikilink")，以同樣的車用平台一口氣推出六款車（見底下「參見」之詳述，若加上[福特的雙生車款Probe和Telstar則共有八款車](https://zh.wikipedia.org/wiki/福特汽車 "wikilink")），但是後來銷售成績證明這種策略行不通\[1\]，被稱作「Cronos的悲劇」。
 
-1993年Cronos的雙生車[福特Telstar曾在](https://zh.wikipedia.org/wiki/福特Telstar "wikilink")[臺灣以](../Page/臺灣.md "wikilink")「天王星TX-5」（第三代）之名銷售。
+1993年Cronos的雙生車[福特Telstar曾在](../Page/福特Telstar.md "wikilink")[臺灣以](../Page/臺灣.md "wikilink")「天王星TX-5」（第三代）之名銷售。
 
 ## 歷史
 

@@ -3,7 +3,7 @@ BEST**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikiped
 
 ## 簡介
 
-在[可苦可樂人氣急升的](../Page/可苦可樂.md "wikilink")2006年9月發行他們的首張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。收錄了從出道單曲《[YELL/Bell](https://zh.wikipedia.org/wiki/YELL/Bell "wikilink")》到2005年的單曲《[只在這裡盛開的花](../Page/只在這裡盛開的花.md "wikilink")》的所有A面曲和部分B面曲，以及當時最新的單曲《呼喊你名字的翅膀》。重新錄製了《轍》和《[DOOR](https://zh.wikipedia.org/wiki/DOOR_\(可苦可樂單曲\) "wikilink")》兩首歌，以及新歌《通往未來的歸路》。
+在[可苦可樂人氣急升的](../Page/可苦可樂.md "wikilink")2006年9月發行他們的首張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。收錄了從出道單曲《[YELL/Bell](https://zh.wikipedia.org/wiki/YELL/Bell "wikilink")》到2005年的單曲《[只在這裡盛開的花](../Page/只在這裡盛開的花.md "wikilink")》的所有A面曲和部分B面曲，以及當時最新的單曲《呼喊你名字的翅膀》。重新錄製了《轍》和《[DOOR](../Page/DOOR_\(可苦可樂單曲\).md "wikilink")》兩首歌，以及新歌《通往未來的歸路》。
 
 專輯發售前邀請了著名女[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")[菅野美穗作為](../Page/菅野美穗.md "wikilink")[電視廣告宣傳女主角](../Page/電視廣告.md "wikilink")。分初回限定盤和通常盤兩個版本，初回盤附送DVD。
 
@@ -25,21 +25,21 @@ BEST The Single Collection
     Films](https://zh.wikipedia.org/wiki/永遠在一起/Million_Films "wikilink")**
 6.  **[永遠在一起](https://zh.wikipedia.org/wiki/永遠在一起/Million_Films "wikilink")**（）
 7.  **[blue blue](https://zh.wikipedia.org/wiki/blue_blue "wikilink")**
-8.  **[寶島](https://zh.wikipedia.org/wiki/寶島_\(可苦可樂單曲\) "wikilink")**（）
-9.  **[不下雪的街道](https://zh.wikipedia.org/wiki/不下雪的街道 "wikilink")**（）
+8.  **[寶島](../Page/寶島_\(可苦可樂單曲\).md "wikilink")**（）
+9.  **[不下雪的街道](../Page/不下雪的街道.md "wikilink")**（）
 10. **[希望之歌](https://zh.wikipedia.org/wiki/希望之歌/太陽 "wikilink")**（）
 
 ### DISC2
 
-1.  **[風](https://zh.wikipedia.org/wiki/風_\(可苦可樂單曲\) "wikilink")**
+1.  **[風](../Page/風_\(可苦可樂單曲\).md "wikilink")**
 2.  **[YOU](https://zh.wikipedia.org/wiki/YOU/miss_you "wikilink")**
 3.  **[miss
     you](https://zh.wikipedia.org/wiki/YOU/miss_you "wikilink")**
 4.  **[YELL](https://zh.wikipedia.org/wiki/YELL/Bell "wikilink")**
 5.  **[Bell](https://zh.wikipedia.org/wiki/YELL/Bell "wikilink")**
 6.  **轍 - Street stroke -**
-7.  **[DOOR](https://zh.wikipedia.org/wiki/DOOR_\(可苦可樂單曲\) "wikilink") ～
-    The knock again ～**
+7.  **[DOOR](../Page/DOOR_\(可苦可樂單曲\).md "wikilink") ～ The knock again
+    ～**
 8.  **[太陽](https://zh.wikipedia.org/wiki/希望之歌/太陽 "wikilink")**
 9.  **[櫻花](../Page/櫻花_\(可苦可樂單曲\).md "wikilink")**（）
 10. **通往未來的歸路 (bonus track)**（）

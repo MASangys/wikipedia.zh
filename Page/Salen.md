@@ -22,7 +22,7 @@ SalenH<sub>2</sub>可以在市场上购买到。它最早由Pfeiffer制得。\[3
 ## 参见
 
   - [金属salen配合物](https://zh.wikipedia.org/wiki/金属salen配合物 "wikilink")
-  - [Salen性质表](https://zh.wikipedia.org/wiki/Salen性质表 "wikilink")
+  - [Salen性质表](../Page/Salen性质表.md "wikilink")
 
 ## 参考资料
 

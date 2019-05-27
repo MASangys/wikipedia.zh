@@ -15,7 +15,7 @@ myself》後來被用作第3首單曲《[Replay](../Page/Replay_\(單曲\).md "w
 專輯開始發售時的銷量並不高，在Oricon公信榜的最高排行也只有第13位。但是隨著Mr.Children知名度的提高以及人們對他們音樂實力的認同，Mr.Children的舊專輯被視為珍寶，長賣不斷。《Kind
 of
 Love》就是其中的典型例子，Oricon入榜時間長達159個星期，在發售後的3年4個月之後的1996年4月29日付的週榜上銷量突破百萬，最終總銷量高達118萬張。是日本史上銷量過百萬的專輯中Oricon最高排行最低的專輯，也是僅有兩張從未進入Oricon前十位但最終銷量過百萬的專輯之一（另外一張是[B'z的](../Page/B'z.md "wikilink")《[BAD
-COMMUNICATION](https://zh.wikipedia.org/wiki/BAD_COMMUNICATION "wikilink")》，最高第12位）。\[1\]
+COMMUNICATION](../Page/BAD_COMMUNICATION.md "wikilink")》，最高第12位）。\[1\]
 
 這張專輯被視為Mr.Children未成名時期最傑出的專輯，專輯中的《想擁抱你》、《想要變成一顆小星星》等歌曲都是Mr.Children的經典之作。
 

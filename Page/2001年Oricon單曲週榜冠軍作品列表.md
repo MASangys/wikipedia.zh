@@ -69,7 +69,7 @@ Thing的](https://zh.wikipedia.org/wiki/Every_Little_Thing "wikilink")《[fragil
 </tr>
 <tr class="even">
 <td><p>2月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Can_You_Keep_A_Secret?" title="wikilink">Can You Keep A Secret?</a></p></td>
+<td><p><a href="../Page/Can_You_Keep_A_Secret?.md" title="wikilink">Can You Keep A Secret?</a></p></td>
 <td><p><a href="../Page/宇多田光.md" title="wikilink">宇多田光</a></p></td>
 <td><p>78.3</p></td>
 <td><p>1</p></td>

@@ -17,7 +17,7 @@ RIM-2D（BT-3A（N））與RIM-2C基本結構相同，彈頭則改為1千噸[當
 
 相对于更大，射程更远的[RIM-8黄铜骑士导弹](https://zh.wikipedia.org/wiki/RIM-8导弹 "wikilink")，㹴犬飛彈系統的體積與重量相对較小，因此可以安裝在[巡洋艦與](https://zh.wikipedia.org/wiki/巡洋艦 "wikilink")[驅逐艦等級的艦艇上](https://zh.wikipedia.org/wiki/驅逐艦 "wikilink")，是20世纪60年代美國海軍多數巡洋艦上的防空飛彈系統。一个通常的小猎犬飞弹系统的配置包括一个Mk-10双臂发射架，后置弹仓装填，备弹40发，波士顿级导弹巡洋舰上的小猎犬系统则采用了底部弹仓装填，备弹72发的配置。
 
-小猎犬飛彈的生產線直到1966年關閉，被[標準I增程型飛彈逐漸取代](https://zh.wikipedia.org/wiki/RIM-67飛彈 "wikilink")。
+小猎犬飛彈的生產線直到1966年關閉，被[標準I增程型飛彈逐漸取代](../Page/RIM-67飛彈.md "wikilink")。
 
 ## 型号
 

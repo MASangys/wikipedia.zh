@@ -223,7 +223,7 @@ City
 <tr class="even">
 <td><p>《2005臺北最HIGH新年城Wifly迎向無線無線未來》</p></td>
 <td><p><a href="../Page/藍心湄.md" title="wikilink">藍心湄</a><br />
-<a href="https://zh.wikipedia.org/wiki/聶雲" title="wikilink">聶雲</a><br />
+<a href="../Page/聶雲.md" title="wikilink">聶雲</a><br />
 <a href="../Page/柳翰雅.md" title="wikilink">柳翰雅</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS-G" title="wikilink">TVBS-G</a></p></td>
@@ -384,7 +384,7 @@ Bestv百視通<br />
 <a href="https://zh.wikipedia.org/wiki/StarHub" title="wikilink">StarHub</a><br />
 <a href="https://zh.wikipedia.org/wiki/中華電視網" title="wikilink">中華電視網</a><br />
 Cinem＠rt<br />
-<a href="https://zh.wikipedia.org/wiki/三立綜合台" title="wikilink">三立綜合台</a><br />
+<a href="../Page/三立綜合台.md" title="wikilink">三立綜合台</a><br />
 <a href="https://zh.wikipedia.org/wiki/三立新聞網" title="wikilink">三立新聞網</a><br />
 <a href="../Page/好事聯播網.md" title="wikilink">好事989電台</a><br />
 <a href="../Page/YouTube.md" title="wikilink">YouTube</a><br />
@@ -401,10 +401,10 @@ viki</p></td>
 <td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台</a><br />
 <a href="../Page/公視主頻.md" title="wikilink">公視主頻</a><br />
 <a href="../Page/三立國際台.md" title="wikilink">三立國際台</a><br />
-<a href="https://zh.wikipedia.org/wiki/三立綜合台" title="wikilink">三立綜合台</a><br />
+<a href="../Page/三立綜合台.md" title="wikilink">三立綜合台</a><br />
 <a href="../Page/好事聯播網.md" title="wikilink">好事989電台</a><br />
 <a href="https://zh.wikipedia.org/wiki/三立新聞網" title="wikilink">三立新聞網</a><br />
-<a href="https://zh.wikipedia.org/wiki/Vidol" title="wikilink">Vidol</a><br />
+<a href="../Page/Vidol.md" title="wikilink">Vidol</a><br />
 <a href="../Page/台灣大哥大.md" title="wikilink">myVideo</a><br />
 <a href="../Page/YouTube.md" title="wikilink">YouTube</a><br />
 <a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a> <a href="../Page/J2.md" title="wikilink">J2</a><br />
@@ -420,11 +420,11 @@ viki</p></td>
 <td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台</a><br />
 <a href="../Page/YouTube.md" title="wikilink">YouTube</a><br />
 <a href="../Page/三立國際台.md" title="wikilink">三立國際台</a><br />
-<a href="https://zh.wikipedia.org/wiki/三立綜合台" title="wikilink">三立綜合台</a><br />
+<a href="../Page/三立綜合台.md" title="wikilink">三立綜合台</a><br />
 <a href="../Page/好事聯播網.md" title="wikilink">好事989電台</a><br />
 <a href="https://zh.wikipedia.org/wiki/三立新聞網" title="wikilink">三立新聞網</a><br />
-<a href="https://zh.wikipedia.org/wiki/Vidol" title="wikilink">Vidol</a><br />
-<a href="https://zh.wikipedia.org/wiki/LINE_TV" title="wikilink">LINE TV</a><br />
+<a href="../Page/Vidol.md" title="wikilink">Vidol</a><br />
+<a href="../Page/LINE_TV.md" title="wikilink">LINE TV</a><br />
 <a href="../Page/台灣大哥大.md" title="wikilink">myVideo</a><br />
 <a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a><br />
 <a href="https://zh.wikipedia.org/wiki/臺北廣播電台" title="wikilink">臺北廣播電台</a></p></td>

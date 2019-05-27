@@ -1,4 +1,4 @@
-《**高機動交響曲GPO**》是由[SCE所發售的](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[PlayStation2遊戲](https://zh.wikipedia.org/wiki/PlayStation2 "wikilink")。主要由《白之章》、《綠之章》、《青之章》三個編章構成。是2000年發售的[PlayStation遊戲](https://zh.wikipedia.org/wiki/PlayStation "wikilink")—**[高機動幻想](https://zh.wikipedia.org/wiki/高機動幻想 "wikilink")**的續篇。原案、人物設定都是芝村裕吏。
+《**高機動交響曲GPO**》是由[SCE所發售的](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[PlayStation2遊戲](https://zh.wikipedia.org/wiki/PlayStation2 "wikilink")。主要由《白之章》、《綠之章》、《青之章》三個編章構成。是2000年發售的[PlayStation遊戲](../Page/PlayStation.md "wikilink")—**[高機動幻想](https://zh.wikipedia.org/wiki/高機動幻想 "wikilink")**的續篇。原案、人物設定都是芝村裕吏。
 
 動畫版於2005年10月播放。全24話。
 
@@ -96,7 +96,7 @@
   -
     15歲的偵察兵。
       -
-        動畫版設定：雷電中隊的上司，身材肥胖且帶著眼鏡；本角色的名字源自於本系列作品的腳本家[芝村裕吏](https://zh.wikipedia.org/wiki/芝村裕吏 "wikilink")。
+        動畫版設定：雷電中隊的上司，身材肥胖且帶著眼鏡；本角色的名字源自於本系列作品的腳本家[芝村裕吏](../Page/芝村裕吏.md "wikilink")。
   -
     15歲的航空兵。
   -
@@ -333,7 +333,7 @@
 <td><p>3</p></td>
 <td><p>遠すぎた橋</p></td>
 <td><p>太過遙遠的路橋</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大西信介" title="wikilink">大西信介</a></p></td>
+<td><p><a href="../Page/大西信介.md" title="wikilink">大西信介</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/うえだひでひと" title="wikilink">うえだひでひと</a></p></td>
 <td><p>飯飼一幸<br />
 佐藤浩雅</p></td>
@@ -385,8 +385,8 @@
 <td><p>未完成交響楽</p></td>
 <td><p>未完成的交響樂</p></td>
 <td><p>福嶋幸典</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西森章" title="wikilink">西森章</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">小坂春女</a></p></td>
+<td><p><a href="../Page/西森章.md" title="wikilink">西森章</a></p></td>
+<td><p><a href="../Page/小坂春女.md" title="wikilink">小坂春女</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/本橋秀之" title="wikilink">本橋秀之</a></p></td>
 <td></td>
 </tr>

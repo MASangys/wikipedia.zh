@@ -289,7 +289,7 @@
 </ul>
 <ul>
 <li>#231 Chika <a href="../Page/有村千佳.md" title="wikilink">有村千佳</a></li>
-<li>#232 You <a href="https://zh.wikipedia.org/wiki/篠田优" title="wikilink">篠田ゆう</a></li>
+<li>#232 You <a href="../Page/篠田优.md" title="wikilink">篠田ゆう</a></li>
 <li>#233 Airi 美空あいり</li>
 <li>#234 Fuuka 皆瀬ふう花 (小滝みい菜)</li>
 <li>#235 Mai <a href="https://zh.wikipedia.org/wiki/三浦まい" title="wikilink">三浦まい</a></li>
@@ -330,7 +330,7 @@
 <li>#264 Ai <a href="https://zh.wikipedia.org/wiki/上原亜衣" title="wikilink">上原亜衣</a></li>
 <li>#265 Sae 愛原さえ</li>
 <li>#266 Chisato 鮎川千里</li>
-<li>#267 Tsuna <a href="https://zh.wikipedia.org/wiki/木村都那" title="wikilink">木村つな</a></li>
+<li>#267 Tsuna <a href="../Page/木村都那.md" title="wikilink">木村つな</a></li>
 <li>#268 Yuuki <a href="../Page/夏目優希.md" title="wikilink">夏目優希</a></li>
 <li>#269 Hirono 今井ひろの</li>
 <li>#270 Ayumi 岩佐あゆみ</li>
@@ -544,7 +544,7 @@
 <li>#442 Ian 花咲いあん</li>
 <li>#443 Ai 向井藍</li>
 <li>#444 Mei 葉山めい</li>
-<li>#445 Sora <a href="https://zh.wikipedia.org/wiki/椎名空" title="wikilink">椎名空</a></li>
+<li>#445 Sora <a href="../Page/椎名空.md" title="wikilink">椎名空</a></li>
 <li>#446 Aimi 吉川あいみ</li>
 <li>#447 Sally サリー</li>
 <li>#448 Misaki 翼みさき</li>

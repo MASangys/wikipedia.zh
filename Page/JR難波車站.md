@@ -51,7 +51,7 @@
 
   - **JR難波站前停留所（[四橋筋](https://zh.wikipedia.org/wiki/四橋筋 "wikilink")）**
       - 北行
-          - [84號系統](https://zh.wikipedia.org/wiki/大阪都市巴士港營業所#84號系統 "wikilink")　往[地下鐵西長堀經](https://zh.wikipedia.org/wiki/西長堀站 "wikilink")[弁天町站](../Page/弁天町站.md "wikilink")
+          - [84號系統](https://zh.wikipedia.org/wiki/大阪都市巴士港營業所#84號系統 "wikilink")　往[地下鐵西長堀經](../Page/西長堀站.md "wikilink")[弁天町站](../Page/弁天町站.md "wikilink")
           - [85號系統](https://zh.wikipedia.org/wiki/大阪都市巴士東成營業所#85・85A號系統 "wikilink")　往[玉造經杭全](../Page/玉造站.md "wikilink")
           - [103・103A號系統](https://zh.wikipedia.org/wiki/大阪都市巴士中津營業所#103號系統 "wikilink")　往四橋筋經由經[大阪站前](https://zh.wikipedia.org/wiki/大阪站 "wikilink")
 

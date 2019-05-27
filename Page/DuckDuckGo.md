@@ -58,7 +58,7 @@ Pitch Friday上亮相\[38\]。在BOSS Mashable挑战赛中，DuckDuckGo进入了
 
 2011年1月，DuckDuckGo因在舊金山架設了一塊寫有「Google會跟蹤你，我們不會」的廣告牌，而獲得了關注\[41\]。
 
-2011年10月，合廣投資公司投资了DuckDuckGo。DuckDuckGo在合廣投資公司的合作伙伴布拉德·伯納姆说：「我们注资DDG，是因为我们相信只有它有能力改变搜索引擎之间的竞争，而现在正是时候」\[42\]\[43\]。除此之外，[Trisquel](https://zh.wikipedia.org/wiki/Trisquel "wikilink")、[Linux
+2011年10月，合廣投資公司投资了DuckDuckGo。DuckDuckGo在合廣投資公司的合作伙伴布拉德·伯納姆说：「我们注资DDG，是因为我们相信只有它有能力改变搜索引擎之间的竞争，而现在正是时候」\[42\]\[43\]。除此之外，[Trisquel](../Page/Trisquel.md "wikilink")、[Linux
 Mint](../Page/Linux_Mint.md "wikilink")、[Midori網絡瀏覽器已在之前把DuckDuckGo設為預設搜尋引擎](../Page/Midori.md "wikilink")\[44\]。
 在2012年5月，DuckDuckGo平均每日處理的搜尋量达到150萬宗。溫伯格指它在2011年的收入為115,000美元，僱用了3名員工及一些外判商\[45\]。Compete.com估计在2012年4月，總共有266,465名獨立訪客訪問該網站\[46\]。2011年4月13日，[Alexa显示DuckDuckGo前三个月的造訪量增长率达到了](../Page/Alexa_Internet.md "wikilink")51%\[47\]。DuckDuckGo自身的網站流量統計顯示，在2012年8月其每天平均造訪量為1,393,644次，高於2010年4月的平均造訪量39,406次（能獲得的最早數據）\[48\]。《[华盛顿邮报](../Page/华盛顿邮报.md "wikilink")》在2012年11月指出，截至2012年10月，DuckDuckGo每月所處理的搜尋量達到45,000,000宗。該篇報導結論道：「溫伯格充滿雄心的目標使其成為古怪而又危險的線上競爭對手。他可以做到Google和Bing做不到的事；若他們效法DuckDuckGo，就會破壞其商業模式。如果用戶們發現自己更偏好於DuckDuckGo的作風，溫伯格就能在不作任何嘗試的情況下，改變現有的局面。這是一埸不對稱的數碼戰，合廣投資公司的DuckDuckGo擁護者稱Google十分脆弱」\[49\]。
 
@@ -87,7 +87,7 @@ Maps提供部分資訊](https://zh.wikipedia.org/wiki/Apple_Maps "wikilink")，�
 
 ## 評論
 
-《[時代雜誌](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")》作者哈里·麥克拉肯（Harry
+《[時代雜誌](../Page/時代雜誌.md "wikilink")》作者哈里·麥克拉肯（Harry
 McCracken）於2011年6月發表的評論中對DuckDuckGo高度讚揚，並拿它與作者最愛的漢堡餐廳[In-N-Out漢堡比對](../Page/In-N-Out漢堡.md "wikilink")：
 
 DuckDuckGo在其發表評論後進行了改版，並已加入自動完成及即時結果。麥克拉肯後把其名列在《時代雜誌》的「2011年度50大最佳網站」之中\[70\]。

@@ -123,7 +123,7 @@ Family**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/河戀姝" title="wikilink">河戀姝</a></p></td>
+<p><a href="../Page/河戀姝.md" title="wikilink">河戀姝</a></p></td>
 <td><center>
 <p>趙智恩</p></td>
 <td><p>允書與東進的女兒</p></td>

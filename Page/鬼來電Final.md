@@ -225,7 +225,7 @@ Final）。[鬼來電系列電影完結篇](https://zh.wikipedia.org/wiki/鬼來
   - 監製：[有重陽一](https://zh.wikipedia.org/wiki/有重陽一 "wikilink")﹑[山本章](https://zh.wikipedia.org/wiki/山本章 "wikilink")
   - 導演：[麻生學](https://zh.wikipedia.org/wiki/麻生學 "wikilink")
   - 腳本：[大良美波子](https://zh.wikipedia.org/wiki/大良美波子 "wikilink")﹑[真二郎](https://zh.wikipedia.org/wiki/真二郎 "wikilink")
-  - 攝影：[田中一成](https://zh.wikipedia.org/wiki/田中一成 "wikilink")
+  - 攝影：[田中一成](../Page/田中一成.md "wikilink")
   - 美術：[磯田典宏](https://zh.wikipedia.org/wiki/磯田典宏 "wikilink")
   - 照明：[岡野清](https://zh.wikipedia.org/wiki/岡野清 "wikilink")
   - 錄音：[瀧澤修](https://zh.wikipedia.org/wiki/瀧澤修 "wikilink")

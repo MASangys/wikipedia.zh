@@ -26,7 +26,7 @@ DOG/JVC Ent.」。
 
 ## 主要藝人
 
-  - [美波](https://zh.wikipedia.org/wiki/美波_\(創作歌手\) "wikilink")
+  - [美波](../Page/美波_\(創作歌手\).md "wikilink")
   - [AKINO](../Page/AKINO.md "wikilink")
   - [西澤幸奏](../Page/西澤幸奏.md "wikilink")
   - [新居昭乃](../Page/新居昭乃.md "wikilink")
@@ -65,7 +65,7 @@ DOG/JVC Ent.」。
   - [安野希世乃](../Page/安野希世乃.md "wikilink")
   - [沼倉愛美](../Page/沼倉愛美.md "wikilink")
   - [ワルキューレ](https://zh.wikipedia.org/wiki/ワルキューレ "wikilink")
-  - [JUNNA](https://zh.wikipedia.org/wiki/JUNNA "wikilink")
+  - [JUNNA](../Page/JUNNA.md "wikilink")
 
 ### 移籍藝人
 

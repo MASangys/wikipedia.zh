@@ -1,5 +1,5 @@
 是[Paradox Development
-Studio开发的一款](https://zh.wikipedia.org/wiki/Paradox_Development_Studio "wikilink")[战略游戏](https://zh.wikipedia.org/wiki/战略游戏 "wikilink")，是2003年的《[维多利亚：太阳帝国](https://zh.wikipedia.org/wiki/维多利亚：太阳帝国 "wikilink")》的续作，于2009年8月19日被宣布开发，并在2010年8月13日正式发布。\[1\]9月17日，在[Mac
+Studio开发的一款](../Page/Paradox_Development_Studio.md "wikilink")[战略游戏](https://zh.wikipedia.org/wiki/战略游戏 "wikilink")，是2003年的《[维多利亚：太阳帝国](https://zh.wikipedia.org/wiki/维多利亚：太阳帝国 "wikilink")》的续作，于2009年8月19日被宣布开发，并在2010年8月13日正式发布。\[1\]9月17日，在[Mac
 OS系统上运行的版本发行](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。\[2\]
 
 与前作类似，玩家可以在游戏中控制一个19世纪至20世纪初的[民族国家并且经营其](https://zh.wikipedia.org/wiki/民族国家 "wikilink")[政治](../Page/政治.md "wikilink")、[外交](../Page/外交.md "wikilink")、[经济](../Page/经济.md "wikilink")、[军事与](https://zh.wikipedia.org/wiki/军事 "wikilink")[科技的各项事务](https://zh.wikipedia.org/wiki/科技 "wikilink")。
@@ -14,7 +14,7 @@ OS系统上运行的版本发行](https://zh.wikipedia.org/wiki/Mac_OS "wikilink
 
 尽管军事也是游戏中的构成部分，但并没有像[钢铁雄心系列中那样成为主要的重点](https://zh.wikipedia.org/wiki/钢铁雄心 "wikilink")。\[5\]
 
-国家内的人口以[文化类型](https://zh.wikipedia.org/wiki/文化圈 "wikilink")、[宗教信仰和](https://zh.wikipedia.org/wiki/宗教信仰 "wikilink")[职业为差别划分出来](https://zh.wikipedia.org/wiki/职业 "wikilink")。其中，职业类型包括[贵族](https://zh.wikipedia.org/wiki/贵族 "wikilink")、[军官](https://zh.wikipedia.org/wiki/军官 "wikilink")、[僧侣](https://zh.wikipedia.org/wiki/僧侣 "wikilink")、[资本家](https://zh.wikipedia.org/wiki/资本家 "wikilink")、[职员](https://zh.wikipedia.org/wiki/职员 "wikilink")、手工业者、[士兵](https://zh.wikipedia.org/wiki/士兵 "wikilink")、[劳工](https://zh.wikipedia.org/wiki/劳工 "wikilink")、[农民以及新加入的技工与官僚](https://zh.wikipedia.org/wiki/农民 "wikilink")。
+国家内的人口以[文化类型](https://zh.wikipedia.org/wiki/文化圈 "wikilink")、[宗教信仰和](https://zh.wikipedia.org/wiki/宗教信仰 "wikilink")[职业为差别划分出来](https://zh.wikipedia.org/wiki/职业 "wikilink")。其中，职业类型包括[贵族](https://zh.wikipedia.org/wiki/贵族 "wikilink")、[军官](https://zh.wikipedia.org/wiki/军官 "wikilink")、[僧侣](https://zh.wikipedia.org/wiki/僧侣 "wikilink")、[资本家](https://zh.wikipedia.org/wiki/资本家 "wikilink")、[职员](https://zh.wikipedia.org/wiki/职员 "wikilink")、手工业者、[士兵](../Page/士兵.md "wikilink")、[劳工](https://zh.wikipedia.org/wiki/劳工 "wikilink")、[农民以及新加入的技工与官僚](https://zh.wikipedia.org/wiki/农民 "wikilink")。
 
 和《欧陆风云》系列相似，庞大的游戏中加入了千余种可以触发的历史事件和决议。\[6\]这些事件，以及[民族主义势力的增长都会导致国家的诞生或解体](https://zh.wikipedia.org/wiki/民族主义 "wikilink")。\[7\]
 

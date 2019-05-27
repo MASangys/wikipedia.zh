@@ -570,7 +570,7 @@ preceded_by = | followed_by = | related = | website =
 <tr class="odd">
 <td><p>-</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/邱隆杰" title="wikilink">邱隆-{杰}-</a></p></td>
+<p><a href="../Page/邱隆杰.md" title="wikilink">邱隆-{杰}-</a></p></td>
 <td><p>工地裡抗議的工人</p></td>
 <td><center></td>
 <td></td>

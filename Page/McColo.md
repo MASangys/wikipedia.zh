@@ -1,13 +1,13 @@
 [McColo-Spammonth-2008-11.gif](https://zh.wikipedia.org/wiki/File:McColo-Spammonth-2008-11.gif "fig:McColo-Spammonth-2008-11.gif")所觀察到的垃圾郵件數量顯著下降。\]\]
 **McColo**是一家位於美國[聖荷西的](../Page/聖荷西_\(加利福尼亞州\).md "wikilink")[ISP](https://zh.wikipedia.org/wiki/ISP "wikilink")，在2008年下半年因蓄意縱容[恶意软件與](../Page/恶意软件.md "wikilink")[殭屍網絡而被其上游](../Page/殭屍網絡.md "wikilink")[Global
 Crossing與](https://zh.wikipedia.org/wiki/Global_Crossing "wikilink")[Hurricane
-Electric切斷其連線](https://zh.wikipedia.org/wiki/Hurricane_Electric "wikilink")\[1\]\[2\]。
+Electric切斷其連線](../Page/Hurricane_Electric.md "wikilink")\[1\]\[2\]。
 
 ## 惡意流量
 
 在2008年11月11日，[Global
 Crossing與](https://zh.wikipedia.org/wiki/Global_Crossing "wikilink")[Hurricane
-Electric終止McColo的連線之後](https://zh.wikipedia.org/wiki/Hurricane_Electric "wikilink")，[SpamCop觀察到](https://zh.wikipedia.org/wiki/SpamCop "wikilink")[垃圾邮件的總量下滑超過三分之二](https://zh.wikipedia.org/wiki/垃圾邮件 "wikilink")\[3\]\[4\]，但在一段時間後，又慢慢恢復到原來的水平\[5\]。這主要是因為McColo是市場上提供「Bulletproof
+Electric終止McColo的連線之後](../Page/Hurricane_Electric.md "wikilink")，[SpamCop觀察到](../Page/SpamCop.md "wikilink")[垃圾邮件的總量下滑超過三分之二](https://zh.wikipedia.org/wiki/垃圾邮件 "wikilink")\[3\]\[4\]，但在一段時間後，又慢慢恢復到原來的水平\[5\]。這主要是因為McColo是市場上提供「Bulletproof
 Hosting」（即使收到反應，[ISP仍然會讓伺服器維持運作](https://zh.wikipedia.org/wiki/ISP "wikilink")）的主要廠商之一，而本來使用McColo的客戶轉移到其他ISP。
 
 在成功關閉McColo後，許多人將焦點放在其他提供類似服務的[ISP](https://zh.wikipedia.org/wiki/ISP "wikilink")，如[Russian

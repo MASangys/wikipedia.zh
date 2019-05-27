@@ -5,7 +5,7 @@ Latitude**（[中国大陆官方译名](../Page/中国大陆.md "wikilink")：**
 Maps上](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")。用户可以控制其他用户可以查看他们位置的精度和细节——确切位置或者仅所在城市。出于隐私考虑，用户可以关闭它，或者手动指定一个地理位置。用户必须选择加入“Google
 定位”，并且只能看到允许他们看到自己位置的好友的位置。\[1\]
 
-2005年Google收购的[Dodgeball](https://zh.wikipedia.org/wiki/Dodgeball "wikilink")，使用[短信提供了类似的服务](https://zh.wikipedia.org/wiki/短信 "wikilink")。“Google
+2005年Google收购的[Dodgeball](../Page/Dodgeball.md "wikilink")，使用[短信提供了类似的服务](https://zh.wikipedia.org/wiki/短信 "wikilink")。“Google
 定位”将服务扩展至了[个人电脑上](../Page/个人电脑.md "wikilink")，并且在手机上通过[Cell-ID](https://zh.wikipedia.org/wiki/Cell-ID "wikilink")、[蜂窝定位和](https://zh.wikipedia.org/wiki/蜂窝定位 "wikilink")
 [GPS自动检测地理位置](https://zh.wikipedia.org/wiki/GPS "wikilink")。
 

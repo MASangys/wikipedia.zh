@@ -1,4 +1,4 @@
-**CNBLUE**（；），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂旗下的四人樂團組合](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")，成員包括[鄭容和](../Page/鄭容和.md "wikilink")（隊長）、[李宗泫](../Page/李宗泫.md "wikilink")、[姜敏赫](../Page/姜敏赫.md "wikilink")、[李正信](../Page/李正信.md "wikilink")。
+**CNBLUE**（；），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂旗下的四人樂團組合](../Page/FNC娛樂.md "wikilink")，成員包括[鄭容和](../Page/鄭容和.md "wikilink")（隊長）、[李宗泫](../Page/李宗泫.md "wikilink")、[姜敏赫](../Page/姜敏赫.md "wikilink")、[李正信](../Page/李正信.md "wikilink")。
 
 **CNBLUE**是**Code Name
 BLUE**的簡稱，其中**BLUE**是**B**urning（[李宗泫](../Page/李宗泫.md "wikilink")）+**L**ovely（[姜敏赫](../Page/姜敏赫.md "wikilink")）+**U**ntouchable（[李正信](../Page/李正信.md "wikilink")）+**E**motional（[鄭容和](../Page/鄭容和.md "wikilink")）的合成詞，寓意團員的特質都是不同。
@@ -25,9 +25,9 @@ CNBLUE官方[愛好者名為](https://zh.wikipedia.org/wiki/愛好者 "wikilink"
     <small>（**CNBLUE**成員個人詳細資料請參閱[鄭容和](../Page/鄭容和.md "wikilink")、[李宗泫](../Page/李宗泫.md "wikilink")、[姜敏赫](../Page/姜敏赫.md "wikilink")、[李正信](../Page/李正信.md "wikilink")）
     </small>
 
-CNBLUE於2009年被[FNC娛樂公司派往](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")[日本接受音樂訓練](../Page/日本.md "wikilink")，6月在[日本以獨立樂團開始地下活動](../Page/日本.md "wikilink")，在街上和小型演奏廳進行了過百場演出。當時成員包括[鄭容和](../Page/鄭容和.md "wikilink")、[李宗泫](../Page/李宗泫.md "wikilink")、[姜敏赫](../Page/姜敏赫.md "wikilink")、[權光珍](https://zh.wikipedia.org/wiki/權光珍 "wikilink")，但是[權光珍在](https://zh.wikipedia.org/wiki/權光珍 "wikilink")9月以私人因素退團，由[李正信接任貝斯手](../Page/李正信.md "wikilink")。在[日本的訓練令CNBLUE廣闊了視野](../Page/日本.md "wikilink")，增加了成員之間的默契，並幫助他們累積實力，但是實際上他們的訓練生活過得很刻苦。
+CNBLUE於2009年被[FNC娛樂公司派往](../Page/FNC娛樂.md "wikilink")[日本接受音樂訓練](../Page/日本.md "wikilink")，6月在[日本以獨立樂團開始地下活動](../Page/日本.md "wikilink")，在街上和小型演奏廳進行了過百場演出。當時成員包括[鄭容和](../Page/鄭容和.md "wikilink")、[李宗泫](../Page/李宗泫.md "wikilink")、[姜敏赫](../Page/姜敏赫.md "wikilink")、[權光珍](https://zh.wikipedia.org/wiki/權光珍 "wikilink")，但是[權光珍在](https://zh.wikipedia.org/wiki/權光珍 "wikilink")9月以私人因素退團，由[李正信接任貝斯手](../Page/李正信.md "wikilink")。在[日本的訓練令CNBLUE廣闊了視野](../Page/日本.md "wikilink")，增加了成員之間的默契，並幫助他們累積實力，但是實際上他們的訓練生活過得很刻苦。
 
-2010年1月CNBLUE在[韓國正式出道](https://zh.wikipedia.org/wiki/韓國 "wikilink")，出道15天便獲得音樂節目的第一位，打破了[韓國新人最快獲得一位的紀錄](https://zh.wikipedia.org/wiki/韓國 "wikilink")，而這紀錄一直由CNBLUE保持了四年多。[FNC娛樂社長](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")曾表示，由於公司擴展過度，經營不善而迫使CNBLUE延後出道，在CNBLUE出道前公司欠債逹三十多億韓元；因CNBLUE出道初期便引起外界極大關注以致工作接踵而來，被外界指稱是CNBLUE出道數個月便令公司起死回生，之後CNBLUE更以全能藝人姿態活躍於各個娛樂領域。
+2010年1月CNBLUE在[韓國正式出道](https://zh.wikipedia.org/wiki/韓國 "wikilink")，出道15天便獲得音樂節目的第一位，打破了[韓國新人最快獲得一位的紀錄](https://zh.wikipedia.org/wiki/韓國 "wikilink")，而這紀錄一直由CNBLUE保持了四年多。[FNC娛樂社長](../Page/FNC娛樂.md "wikilink")曾表示，由於公司擴展過度，經營不善而迫使CNBLUE延後出道，在CNBLUE出道前公司欠債逹三十多億韓元；因CNBLUE出道初期便引起外界極大關注以致工作接踵而來，被外界指稱是CNBLUE出道數個月便令公司起死回生，之後CNBLUE更以全能藝人姿態活躍於各個娛樂領域。
 
 2012年CNBLUE在[非洲貧窮國家](../Page/非洲.md "wikilink")[布吉納法索建立了](../Page/布吉納法索.md "wikilink")**CNBLUE學校**，資助當地兒童飲食需求，提供他們學習機會。此後每年CNBLUE也會將部分收益，捐獻給該學校作為營運費用，而CNBLUE也一直積極參與各項慈善活動。
 
@@ -67,7 +67,7 @@ World Album排行榜第1位。
     Thanks\~＂公演。當天**CNBLUE**宣布將成立[日本官方歌迷俱樂部](../Page/日本.md "wikilink")**BOICE
     JAPAN**，並將在[日本發行首張單曲](../Page/日本.md "wikilink")，也將在[東京跟](https://zh.wikipedia.org/wiki/東京 "wikilink")[大阪舉辦](https://zh.wikipedia.org/wiki/大阪 "wikilink")**One
     Man Live**公演。
-  - 4月23日，經歌迷投票，團員與[FNC娛樂的工作人員超過半數同意後](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")，隊長[鄭容和在](../Page/鄭容和.md "wikilink")**CNBLUE**官網上公布**CNBLUE**官方粉絲名稱為**BOICE**，是**BLUE**
+  - 4月23日，經歌迷投票，團員與[FNC娛樂的工作人員超過半數同意後](../Page/FNC娛樂.md "wikilink")，隊長[鄭容和在](../Page/鄭容和.md "wikilink")**CNBLUE**官網上公布**CNBLUE**官方粉絲名稱為**BOICE**，是**BLUE**
     +
     **VOICE**的合成詞，寓意**BOICE**就是**CNBLUE**的**VOICE**，也像家人那樣永遠與**CNBLUE**同在。沒有應援色，應援物為**Blish**，是**BLUE**
     + **Stylish**的合成詞，寓意有**BOICE**就有**Blish**。
@@ -79,7 +79,7 @@ World Album排行榜第1位。
   - 2010年，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Gaon
     Chart數碼音源年榜前](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")50的排名中，第20位《LOVE》，第31位《외톨이야
     孤獨的人》，第37位《사랑 빛 愛情光》。
-  - **CNBLUE**在年底的2010年**MAMA**頒獎典禮、[首爾歌謠大賞](https://zh.wikipedia.org/wiki/首爾 "wikilink")、**Melon
+  - **CNBLUE**在年底的2010年**MAMA**頒獎典禮、[首爾歌謠大賞](../Page/首爾.md "wikilink")、**Melon
     Music Awards、Golden
     Disk**等音樂頒獎典禮，均獲得[韓國最佳新人獎](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
 
@@ -108,7 +108,7 @@ World Album排行榜第1位。
   - 12月28日，**CNBLUE**受邀參加[日本的rockin](../Page/日本.md "wikilink")'on
     presents COUNTDOWN JAPAN
     11/12，這是在[日本每年舉行的大型搖滾音樂節](../Page/日本.md "wikilink")，而**CNBLUE**是歷來第一支外國樂團能受邀參與這音樂盛典。
-  - 12月，在[韓國面向全國民的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[蓋洛普民意調查中](https://zh.wikipedia.org/wiki/蓋洛普 "wikilink")，《직감
+  - 12月，在[韓國面向全國民的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[蓋洛普民意調查中](../Page/蓋洛普.md "wikilink")，《직감
     直感》被選為全年度最受歡迎歌曲第4位。
   - [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Gaon
     Chart音樂榜數碼音源年榜前](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")50排名中，《직감
@@ -168,14 +168,14 @@ World Album排行榜第1位。
   - 2月2日，**CNBLUE**登上[韓國公眾波主新聞](https://zh.wikipedia.org/wiki/韓國 "wikilink")，[MBC新聞](https://zh.wikipedia.org/wiki/MBC "wikilink")"News
     Desk"以"樂隊的複活"為題進行了報導，[韓國歌謠界颳起了樂隊風潮](https://zh.wikipedia.org/wiki/韓國 "wikilink")，**K-POP**樂隊登上公眾波主新聞是非常罕見的事例。
   - 2月，[韓國獨立樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")**Crying
-    Nut**向地方法院正式提出訴訟，控告CNBLUE及[FNC娛樂代表](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")侵權，並要求賠償4000萬韓圜；但是並沒有控告[KBS電視台](https://zh.wikipedia.org/wiki/KBS "wikilink")。事件發生在2010年6月，於[KBS音樂節目的世界杯特輯中](https://zh.wikipedia.org/wiki/KBS "wikilink")，電視台要求**CNBLUE**表演**Crying
-    Nut**的《Offside》作為應援歌，**CNBLUE**剛出道不久，[FNC娛樂也不好意思拒絶電視台](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")。但是電視台準備不足，沒有用到**MR**，而是用了《Offside》的原曲作伴奏音樂，而且於同年八月在[日本發行的DVD中收錄此曲](../Page/日本.md "wikilink")，並沒有告知**Crying
-    Nut**。對這事件[FNC娛樂表示](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")，**CNBLUE**的表演是電視台要求的，而且伴奏音樂也是電視台提供，不過[FNC娛樂也沒清楚辨別歌曲便讓歌手上台表演](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")，後來才知道是**Crying
+    Nut**向地方法院正式提出訴訟，控告CNBLUE及[FNC娛樂代表](../Page/FNC娛樂.md "wikilink")侵權，並要求賠償4000萬韓圜；但是並沒有控告[KBS電視台](https://zh.wikipedia.org/wiki/KBS "wikilink")。事件發生在2010年6月，於[KBS音樂節目的世界杯特輯中](https://zh.wikipedia.org/wiki/KBS "wikilink")，電視台要求**CNBLUE**表演**Crying
+    Nut**的《Offside》作為應援歌，**CNBLUE**剛出道不久，[FNC娛樂也不好意思拒絶電視台](../Page/FNC娛樂.md "wikilink")。但是電視台準備不足，沒有用到**MR**，而是用了《Offside》的原曲作伴奏音樂，而且於同年八月在[日本發行的DVD中收錄此曲](../Page/日本.md "wikilink")，並沒有告知**Crying
+    Nut**。對這事件[FNC娛樂表示](../Page/FNC娛樂.md "wikilink")，**CNBLUE**的表演是電視台要求的，而且伴奏音樂也是電視台提供，不過[FNC娛樂也沒清楚辨別歌曲便讓歌手上台表演](../Page/FNC娛樂.md "wikilink")，後來才知道是**Crying
     Nut**的原曲伴奏，而DVD是由[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")**Media**及**CJ
-    E\&M**共同企劃，[FNC娛樂毫不知情也沒有利益](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")。而**CJ
-    E＆M**公司表示，承認當時是節目組要求**CNBLUE**表演該歌曲，也承認在未告知**CNBLUE**的狀況下，製作了DVD。**CNBLUE**和[FNC娛樂也向](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")**Crying
+    E\&M**共同企劃，[FNC娛樂毫不知情也沒有利益](../Page/FNC娛樂.md "wikilink")。而**CJ
+    E＆M**公司表示，承認當時是節目組要求**CNBLUE**表演該歌曲，也承認在未告知**CNBLUE**的狀況下，製作了DVD。**CNBLUE**和[FNC娛樂也向](../Page/FNC娛樂.md "wikilink")**Crying
     Nut**發了道歉聲明，但**Crying
-    Nut**不接受並惡意指責**CNBLUE**。[FNC娛樂向法庭對](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")**Crying
+    Nut**不接受並惡意指責**CNBLUE**。[FNC娛樂向法庭對](../Page/FNC娛樂.md "wikilink")**Crying
     Nut**提出假處分申請，但遭駁回。
   - 4月，正式開啓**CNBLUE**的世界巡迴演唱會，**CNBLUE**是[韓國第一個樂團舉辦世界巡迴演唱會](https://zh.wikipedia.org/wiki/韓國 "wikilink")，也是在[澳洲舉辦演唱會的第一個](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[韓國樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")。世巡包括[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")，[南美等地區](https://zh.wikipedia.org/wiki/南美 "wikilink")。
   - 4月10日在，[韓國發行](https://zh.wikipedia.org/wiki/韓國 "wikilink")《Re：BLUE》限量版，由成員親自設計參與製作，四種封面，收錄親筆畫和未公開明信片等。
@@ -239,12 +239,12 @@ World Album排行榜第1位。
   - 2015年[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Gaon
     Chart榜唱片銷量](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")，**CNBLUE**82,748，[鄭容和](../Page/鄭容和.md "wikilink")115,203。[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")**Hanteo**榜唱片銷量，**CNBLUE**56,747，[鄭容和](../Page/鄭容和.md "wikilink")87,729。
   - 2015年**CNBLUE**在[亞洲舉行的演唱會共四十七場](https://zh.wikipedia.org/wiki/亞洲 "wikilink")(包括[鄭容和](../Page/鄭容和.md "wikilink")**solo**演唱會十七場和[家族演唱會四場](https://zh.wikipedia.org/wiki/家族 "wikilink"))。
-  - **CNBLUE**與[鄭容和](../Page/鄭容和.md "wikilink")**solo**的2015全年收益，佔了[FNC娛樂公司全年總收益的](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")60%。
+  - **CNBLUE**與[鄭容和](../Page/鄭容和.md "wikilink")**solo**的2015全年收益，佔了[FNC娛樂公司全年總收益的](../Page/FNC娛樂.md "wikilink")60%。
 
 <!-- end list -->
 
-  - 2月，[首爾中央地方法院對](https://zh.wikipedia.org/wiki/首爾 "wikilink")"2013年韓國樂團**Crying
-    Nut**控告**CNBLUE**及[FNC娛樂代表](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")侵權，並要求賠償4000萬韓圜"一案作出判決，判原告勝訴。法庭指雖然提供伴奏音樂的電視台有一定責任，但**CNBLUE**作為演出方對侵權有直接責任，不過也判定**CNBLUE**沒有參與節目製作銷售**DVD**，且**Crying
+  - 2月，[首爾中央地方法院對](../Page/首爾.md "wikilink")"2013年韓國樂團**Crying
+    Nut**控告**CNBLUE**及[FNC娛樂代表](../Page/FNC娛樂.md "wikilink")侵權，並要求賠償4000萬韓圜"一案作出判決，判原告勝訴。法庭指雖然提供伴奏音樂的電視台有一定責任，但**CNBLUE**作為演出方對侵權有直接責任，不過也判定**CNBLUE**沒有參與節目製作銷售**DVD**，且**Crying
     Nut**提出受到財產損害部分的證據並不充足，加上電視台已經進行過賠償，判決**CNBLUE**只須賠償1500萬韓圜。
   - 4月4日，在[韓國發行第六張迷你專輯](https://zh.wikipedia.org/wiki/韓國 "wikilink")《BLUEMING》，專輯名稱《BLUEMING》是樂隊名稱**CNBLUE**和意味著花開的「blooming」的結合詞，意指重新綻放的**CNBLUE**音樂世界。主打歌為《美好的你（You're
     So
@@ -550,7 +550,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/In_My_Head_(CNBLUE單曲)" title="wikilink">CNBLUE In My Head</a></strong>》</p>
+<td><p>《<strong><a href="../Page/In_My_Head_(CNBLUE單曲).md" title="wikilink">CNBLUE In My Head</a></strong>》</p>
 <ul>
 <li>發行日期：2011年10月19日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -587,7 +587,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p><strong>4th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Robot_(CNBLUE單曲)" title="wikilink">Robot</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Robot_(CNBLUE單曲).md" title="wikilink">Robot</a></strong>》</p>
 <ul>
 <li>發行日期：2012年12月19日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -599,7 +599,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p><strong>5th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Blind_Love_(CNBLUE單曲)" title="wikilink">Blind Love</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Blind_Love_(CNBLUE單曲).md" title="wikilink">Blind Love</a></strong>》</p>
 <ul>
 <li>發行日期：2013年4月24日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -611,7 +611,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p><strong>6th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Lady_(CNBLUE單曲)" title="wikilink">Lady</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Lady_(CNBLUE單曲).md" title="wikilink">Lady</a></strong>》</p>
 <ul>
 <li>發行日期：2013年7月31日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和參與全部歌曲創作</a></li>
@@ -636,7 +636,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p><strong>8th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Go_your_way" title="wikilink">Go your way</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Go_your_way.md" title="wikilink">Go your way</a></strong>》</p>
 <ul>
 <li>發行日期：2014年8月20日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -672,7 +672,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p><strong>11th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/SHAKE_(CNBLUE單曲)" title="wikilink">SHAKE</a></strong>》</p>
+<td><p>《<strong><a href="../Page/SHAKE_(CNBLUE單曲).md" title="wikilink">SHAKE</a></strong>》</p>
 <ul>
 <li>發行日期：2017年5月10日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -697,7 +697,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/CODE_NAME_BLUE" title="wikilink">CODE NAME BLUE</a></strong>》</p>
+<td><p>《<strong><a href="../Page/CODE_NAME_BLUE.md" title="wikilink">CODE NAME BLUE</a></strong>》</p>
 <ul>
 <li>發行日期：2012年8月29日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與</a>11首歌曲創作</li>
@@ -712,7 +712,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《'''<a href="https://zh.wikipedia.org/wiki/What_turns_you_on?" title="wikilink">What turns you on?</a> '''》</p>
+<td><p>《'''<a href="../Page/What_turns_you_on?.md" title="wikilink">What turns you on?</a> '''》</p>
 <ul>
 <li>發行日期：2013年8月28日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -727,7 +727,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/WAVE" title="wikilink">WAVE</a></strong>》</p>
+<td><p>《<strong><a href="../Page/WAVE.md" title="wikilink">WAVE</a></strong>》</p>
 <ul>
 <li>發行日期：2014年9月17日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -755,7 +755,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p><strong>5th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/EUPHORIA_(CNBLUE專輯)" title="wikilink">EUPHORIA</a></strong>》</p>
+<td><p>《<strong><a href="../Page/EUPHORIA_(CNBLUE專輯).md" title="wikilink">EUPHORIA</a></strong>》</p>
 <ul>
 <li>發行日期：2016年10月19日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫參與全部歌曲創作</a></li>
@@ -768,7 +768,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p><strong>6th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Stay_Gold_(CNBLUE專輯)" title="wikilink">STAY GOLD</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Stay_Gold_(CNBLUE專輯).md" title="wikilink">STAY GOLD</a></strong>》</p>
 <ul>
 <li>發行日期：2017年10月18日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -1432,7 +1432,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宮合_(電影)" title="wikilink">宮合</a></p></td>
+<td><p><a href="../Page/宮合_(電影).md" title="wikilink">宮合</a></p></td>
 <td><p>姜敏赫</p></td>
 <td><p>姜輝</p></td>
 <td></td>
@@ -1584,7 +1584,7 @@ World Album排行榜第1位。
 <tr class="even">
 <td><p>2015</p></td>
 <td><p>KBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/謝謝你，兒子啊" title="wikilink">謝謝你，兒子啊</a></p></td>
+<td><p><a href="../Page/謝謝你，兒子啊.md" title="wikilink">謝謝你，兒子啊</a></p></td>
 <td><p>李正信</p></td>
 <td><p>張時宇</p></td>
 <td></td>
@@ -1647,7 +1647,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/My_Only_Love_Song" title="wikilink">My Only Love Song</a></p></td>
+<td><p><a href="../Page/My_Only_Love_Song.md" title="wikilink">My Only Love Song</a></p></td>
 <td><p>李宗泫</p></td>
 <td><p>溫達</p></td>
 <td><p>第一男主角</p></td>
@@ -1655,7 +1655,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p>KBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/學校2017" title="wikilink">學校2017</a></p></td>
+<td><p><a href="../Page/學校2017.md" title="wikilink">學校2017</a></p></td>
 <td><p>姜敏赫</p></td>
 <td><p>鍾勤前輩</p></td>
 <td><p>特別出演</p></td>
@@ -1663,7 +1663,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>MBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/醫療船_(韓國電視劇)" title="wikilink">醫療船</a></p></td>
+<td><p><a href="../Page/醫療船_(韓國電視劇).md" title="wikilink">醫療船</a></p></td>
 <td><p>郭賢</p></td>
 <td><p>第一男主角</p></td>
 <td></td>
@@ -1671,7 +1671,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Package" title="wikilink">The Package</a></p></td>
+<td><p><a href="../Page/The_Package.md" title="wikilink">The Package</a></p></td>
 <td><p>鄭容和</p></td>
 <td><p>單馬陸</p></td>
 <td></td>
@@ -1679,7 +1679,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>KBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/內衣少女時代" title="wikilink">內衣少女時代</a></p></td>
+<td><p><a href="../Page/內衣少女時代.md" title="wikilink">內衣少女時代</a></p></td>
 <td><p>李宗泫</p></td>
 <td><p>周英春</p></td>
 <td><p>第二男主角</p></td>
@@ -1687,7 +1687,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/OCN" title="wikilink">OCN</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/操心" title="wikilink">操心</a></p></td>
+<td><p><a href="../Page/操心.md" title="wikilink">操心</a></p></td>
 <td><p>李正信</p></td>
 <td><p>姜信寓</p></td>
 <td><p>第一男主角</p></td>
@@ -1695,14 +1695,14 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/那個男人_吳秀" title="wikilink">那個男人 吳秀</a></p></td>
+<td><p><a href="../Page/那個男人_吳秀.md" title="wikilink">那個男人 吳秀</a></p></td>
 <td><p>李宗泫</p></td>
 <td><p>吳秀</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Voice2" title="wikilink">Voice2</a></p></td>
+<td><p><a href="../Page/Voice2.md" title="wikilink">Voice2</a></p></td>
 <td><p>李正信</p></td>
 <td><p>李在熙<br />
 蟋蟀</p></td>
@@ -1940,7 +1940,7 @@ World Album排行榜第1位。
 <td><p>5月7日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/演藝家中介" title="wikilink">演藝家中介</a></p></td>
+<td><p><a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a></p></td>
 </tr>
 <tr class="even">
 <td><p>5月11日<br />
@@ -3103,7 +3103,7 @@ World Album排行榜第1位。
 <td></td>
 <td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td><p>李宗泫</p></td>
-<td><p>Special MC(與<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day的</a><a href="https://zh.wikipedia.org/wiki/Yura" title="wikilink">亞瑩和</a><a href="../Page/惠利.md" title="wikilink">惠利</a>)</p></td>
+<td><p>Special MC(與<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day的</a><a href="../Page/Yura.md" title="wikilink">亞瑩和</a><a href="../Page/惠利.md" title="wikilink">惠利</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>12月5日<br />
@@ -4599,10 +4599,10 @@ World Album排行榜第1位。
 <td><p>2010年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Bluetory" title="wikilink">Bluetory</a></p></td>
+<td><p><a href="../Page/Bluetory.md" title="wikilink">Bluetory</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/BLUELOVE" title="wikilink">BLUELOVE</a></p></td>
+<td><p><a href="../Page/BLUELOVE.md" title="wikilink">BLUELOVE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>LOVE</p></td>
@@ -4611,7 +4611,7 @@ World Album排行榜第1位。
 <td><p>2011年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/FIRST_STEP_(CNBLUE專輯)" title="wikilink">FIRST STEP</a></p></td>
+<td><p><a href="../Page/FIRST_STEP_(CNBLUE專輯).md" title="wikilink">FIRST STEP</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Love Girl</p></td>
@@ -4632,7 +4632,7 @@ World Album排行榜第1位。
 <td><p>2013年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Re:BLUE" title="wikilink">Re:BLUE</a></p></td>
+<td><p><a href="../Page/Re:BLUE.md" title="wikilink">Re:BLUE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>I'm Sorry</p></td>
@@ -4644,7 +4644,7 @@ World Album排行榜第1位。
 <td><p>2014年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Can&#39;t_Stop_(CNBLUE迷你專輯)" title="wikilink">Can't Stop</a></p></td>
+<td><p><a href="../Page/Can&#39;t_Stop_(CNBLUE迷你專輯).md" title="wikilink">Can't Stop</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>其實…</p></td>
@@ -4674,10 +4674,10 @@ World Album排行榜第1位。
 <td><p>2017年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/7℃N" title="wikilink">7℃N</a></p></td>
+<td><p><a href="../Page/7℃N.md" title="wikilink">7℃N</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/DO_DISTURB" title="wikilink">DO DISTURB</a></p></td>
+<td><p><a href="../Page/DO_DISTURB.md" title="wikilink">DO DISTURB</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>

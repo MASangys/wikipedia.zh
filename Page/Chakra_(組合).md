@@ -5,7 +5,7 @@
 | **Zam**      |
 | ''' Kiss ''' |
 
-**Chakra**（），是韓國演員[李惠英](../Page/李惠英_\(1971年\).md "wikilink")、音樂製作人[李尚敏共同打造而成的女子團體](https://zh.wikipedia.org/wiki/李尚敏 "wikilink")，2000年成軍，由[皇甫](../Page/皇甫惠貞.md "wikilink")、李妮、[麗媛](../Page/鄭麗媛.md "wikilink")、李恩組成。Charka指得是印度的詞語，擁有人們用眼睛看不到的“創造”“魅力”“平靜”“成就”這四種能量的意思。即是作為歌手也是Charka走的風格路線，是李惠英的構想。甫出道即囊括當年[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")、[KMTV](../Page/Mnet亞洲音樂大獎.md "wikilink")、[MNET](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")、[金唱片獎項之新人獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")，組合專輯走多變的異國風並隨即發行5張專輯（1輯-한，2輯-CHAKRA'
+**Chakra**（），是韓國演員[李惠英](../Page/李惠英_\(1971年\).md "wikilink")、音樂製作人[李尚敏共同打造而成的女子團體](../Page/李尚敏.md "wikilink")，2000年成軍，由[皇甫](../Page/皇甫惠貞.md "wikilink")、李妮、[麗媛](../Page/鄭麗媛.md "wikilink")、李恩組成。Charka指得是印度的詞語，擁有人們用眼睛看不到的“創造”“魅力”“平靜”“成就”這四種能量的意思。即是作為歌手也是Charka走的風格路線，是李惠英的構想。甫出道即囊括當年[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")、[KMTV](../Page/Mnet亞洲音樂大獎.md "wikilink")、[MNET](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")、[金唱片獎項之新人獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")，組合專輯走多變的異國風並隨即發行5張專輯（1輯-한，2輯-CHAKRA'
 CA，聖誕專輯-Ringing Gingle Bells，3輯-Chakra
 3，4輯-Tomato），官方粉絲俱樂部名稱為「女神」，官方應援色為[水晶紫](../Page/紫色.md "wikilink")\[1\]。
 
@@ -62,9 +62,7 @@ dance的音樂元素，將Chakra的音樂路向引領到一個全新境界。200
   - 身高/體重/血型：170cm 48kg A型
   - 隊中職務：第一任隊長
   - 家庭關係：1男2女中次女
-  - 特異事項: 1997年 題41會
-    [韓國小姐大會](https://zh.wikipedia.org/wiki/韓國小姐 "wikilink")
-    美(3等)
+  - 特異事項: 1997年 題41會 [韓國小姐大會](../Page/韓國小姐.md "wikilink") 美(3等)
   - 退出後動態：2017年1月9日，皇甫在MBC
     FM4U電台節目《池錫辰的兩點約會》中提及與李妮雖已經斷了聯繫，但據說已結婚了，正在紐約生活。
 

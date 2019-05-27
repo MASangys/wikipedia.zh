@@ -1,4 +1,4 @@
-**PLASMA**是[松下電器](../Page/松下電器.md "wikilink")[VIERA電視品牌的數位電漿電視系列之商品名稱](https://zh.wikipedia.org/wiki/VIERA "wikilink")。PLASMA原意為[等離子態](https://zh.wikipedia.org/wiki/等離子態 "wikilink")，是[等離子顯示屏的製作原理](../Page/等離子顯示屏.md "wikilink")。
+**PLASMA**是[松下電器](../Page/松下電器.md "wikilink")[VIERA電視品牌的數位電漿電視系列之商品名稱](../Page/VIERA.md "wikilink")。PLASMA原意為[等離子態](https://zh.wikipedia.org/wiki/等離子態 "wikilink")，是[等離子顯示屏的製作原理](../Page/等離子顯示屏.md "wikilink")。
 
 ## PLASMA歷史
 

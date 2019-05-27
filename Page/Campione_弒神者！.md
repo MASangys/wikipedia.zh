@@ -793,7 +793,7 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
   - 監督：[草川啟造](../Page/草川啟造.md "wikilink")
   - 副監督：[滿仲勸](../Page/滿仲勸.md "wikilink")
   - 系列構成：[花田十輝](https://zh.wikipedia.org/wiki/花田十輝 "wikilink")
-  - 角色設計、總作畫監督：[石川雅一](https://zh.wikipedia.org/wiki/石川雅一 "wikilink")
+  - 角色設計、總作畫監督：[石川雅一](../Page/石川雅一.md "wikilink")
   - 生物設計：
   - 動作作畫監督：津熊健德（第3話、第4話、第7話、第8話、第10話、第12話、第13話）
   - 美術監督：岩瀨榮治
@@ -910,8 +910,8 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
 <td><p>#6</p></td>
 <td></td>
 <td><p>王者們的會談</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鴻野貴光" title="wikilink">鴻野貴光</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/平川哲生" title="wikilink">平川哲生</a></p></td>
+<td><p><a href="../Page/鴻野貴光.md" title="wikilink">鴻野貴光</a></p></td>
+<td><p><a href="../Page/平川哲生.md" title="wikilink">平川哲生</a></p></td>
 <td><p>守田藝成</p></td>
 <td><p>志賀道憲<br />
 成川多加志</p></td>
@@ -922,7 +922,7 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
 <td><p>#7</p></td>
 <td></td>
 <td><p>風啊、雨啊、狼啊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/子安秀明" title="wikilink">子安秀明</a></p></td>
+<td><p><a href="../Page/子安秀明.md" title="wikilink">子安秀明</a></p></td>
 <td><p>平牧大輔</p></td>
 <td><p>小菅和久<br />
 本田敬一</p></td>

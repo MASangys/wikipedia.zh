@@ -502,7 +502,7 @@ shock God Emperor of the Great Tribulation }
 <td><p>究極龍 激神皇カタストロフドラゴン</p></td>
 <td><p>究極龍 激神皇災煱龍</p></td>
 <td><p>終極龍 激神皇卡斯多羅夫龍</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/網谷正治" title="wikilink">網谷正治</a></p></td>
+<td><p><a href="../Page/網谷正治.md" title="wikilink">網谷正治</a></p></td>
 <td><p>しのみやすゆき</p></td>
 <td><p>高橋順</p></td>
 <td><p>小田武士</p></td>

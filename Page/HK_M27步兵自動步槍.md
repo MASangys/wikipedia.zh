@@ -18,7 +18,7 @@ SAW雖然具有可便攜性和高火力容量，它在該用途上卻較為沉�
 
 1999年，基層士兵已發出了一份步兵自動步槍（IAR）的普遍需要聲明。大約在2000年，[海軍陸戰隊第1師](https://zh.wikipedia.org/wiki/海軍陸戰隊第1師 "wikilink")[第2營第7海軍陸戰隊團為了表明對輕型自動步槍的願望而進行了最初步而有限度的步兵自動步槍試驗](https://zh.wikipedia.org/wiki/美國海軍陸戰隊第2營第7海軍陸戰隊團 "wikilink")。在[伊拉克和](../Page/伊拉克战争.md "wikilink")[阿富汗的經歷持續了其正式建議請求](../Page/阿富汗戰爭_\(2001年\).md "wikilink")。在2005年初，當它被賦予了官方正式的程序狀態和功能並且進行制定時，從普遍的需求說明到經歷了採購過程共花了六年時間。\[6\]
 
-2005年7月14日，步兵自動步槍計劃正式開始，而當時的海軍陸戰隊亦試圖從生產商尋求信息。\[7\]。所尋求的武器目標包括：便攜性和可操作性；減少敵人對於自動武器的視覺識別性；加強反叛亂的情況下機槍手的參與；和保持高火力容積。而對於最少具有100發容量的彈匣（或供彈具）的初始要求則被取消並且被普遍贊成以30發[STANAG彈匣取代](../Page/STANAG彈匣.md "wikilink")，因為在測試開始時，可使用的100發容量彈匣（或供彈具）都是不可靠的。它必須是使用5.56×45毫米[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，而且不使用[彈鏈供彈](../Page/彈鏈.md "wikilink")，以實現與[制式步槍之間的供用性](https://zh.wikipedia.org/wiki/各國軍隊制式步槍列表 "wikilink")。\[8\]\[9\]
+2005年7月14日，步兵自動步槍計劃正式開始，而當時的海軍陸戰隊亦試圖從生產商尋求信息。\[7\]。所尋求的武器目標包括：便攜性和可操作性；減少敵人對於自動武器的視覺識別性；加強反叛亂的情況下機槍手的參與；和保持高火力容積。而對於最少具有100發容量的彈匣（或供彈具）的初始要求則被取消並且被普遍贊成以30發[STANAG彈匣取代](../Page/STANAG彈匣.md "wikilink")，因為在測試開始時，可使用的100發容量彈匣（或供彈具）都是不可靠的。它必須是使用5.56×45毫米[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，而且不使用[彈鏈供彈](../Page/彈鏈.md "wikilink")，以實現與[制式步槍之間的供用性](../Page/各國軍隊制式步槍列表.md "wikilink")。\[8\]\[9\]
 
 2006年，向[FN](https://zh.wikipedia.org/wiki/Fabrique_Nationale "wikilink")（推出一種[FN
 SCAR-L的IAR](../Page/FN_SCAR突擊步槍.md "wikilink")[衍生型](https://zh.wikipedia.org/wiki/FN_SCAR突擊步槍#FN_IAR "wikilink")，會自動地以溫度來調整[閉鎖](https://zh.wikipedia.org/wiki/閉鎖式槍機 "wikilink")／[開放式槍機兩種的槍機操作模式](../Page/開放式槍機.md "wikilink")）、[黑克勒-科赫](../Page/黑克勒&科赫.md "wikilink")（推出一種[HK416的IAR](../Page/HK416突擊步槍.md "wikilink")[衍生型](https://zh.wikipedia.org/wiki/HK416突擊步槍#衍生型 "wikilink")，是16.5英吋重槍管[自动步枪版本](../Page/自动步枪.md "wikilink")）和[柯爾特](../Page/塞缪尔·柯尔特.md "wikilink")[防務公司](https://zh.wikipedia.org/wiki/柯爾特防務公司 "wikilink")（推出了兩種相互競爭的設計）批出其樣槍的合同。其他企圖加入競標測試的公司，包括：[陸戰資源公司](https://zh.wikipedia.org/wiki/陸戰資源公司 "wikilink")（，推出一種[M6的IAR衍生型](../Page/LWRC_M6突擊步槍.md "wikilink")：[M6A4
@@ -72,7 +72,7 @@ SAW的另一個好處是，它在許多的零配件方面都很像小隊的其�
 第3海軍陸戰隊第1營的成員在[2011年4月帶著](../Page/2011年4月.md "wikilink")84枝M27
 IAR被部署到阿富汗。以前使用M249
 SAW的機槍手最初不喜歡M27，但隨著時間的推移都對它加以讚賞。它的總重達到4.08公斤（9磅），比總重大約9.98公斤（22磅）的M249
-SAW為輕，這在5小時時間的超長任務的時候，可是一個顯著的差異。機槍手表示這是“合兩款武器為一”，能夠準確地作單發射擊達到800公尺（874.89码，2,624.67英尺），並具有[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。它還融入了標準型M16[制式步槍的風格](https://zh.wikipedia.org/wiki/各國軍隊制式步槍列表 "wikilink")，讓敵人不知道誰是機槍手。營隊領導也看到了M27在防止間接傷害的表現上也更好，因為它在全自動射擊時比M249
+SAW為輕，這在5小時時間的超長任務的時候，可是一個顯著的差異。機槍手表示這是“合兩款武器為一”，能夠準確地作單發射擊達到800公尺（874.89码，2,624.67英尺），並具有[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。它還融入了標準型M16[制式步槍的風格](../Page/各國軍隊制式步槍列表.md "wikilink")，讓敵人不知道誰是機槍手。營隊領導也看到了M27在防止間接傷害的表現上也更好，因為它在全自動射擊時比M249
 SAW更容易控制。而被密切關注的火力損失的範圍則通過於[2010年12月所編制的培訓課程來彌補](../Page/2010年12月.md "wikilink")。
 
 使用M249 SAW時，壓制的想法是火力體積和機槍的聲音；而使用M27
@@ -168,7 +168,7 @@ SAW-MAG 150發彈鼓進行試射。\[41\]
 IAR槍手需耍攜帶多達16個，可說是在海軍陸戰隊隊員所有可用的口袋裡都插上了彈匣；而由於其用途和全自動射速，甚至需要攜帶多達21個。
 
 雖然M27 IAR的彈匣插座可以協助彈匣插入，但卻由於[PMAG 30 GEN
-M2彈匣額骨狀](https://zh.wikipedia.org/wiki/馬格普工業公司 "wikilink")[聚合物斜角](../Page/聚合物.md "wikilink")，導致其不可使用PMAG
+M2彈匣額骨狀](../Page/馬格普工業公司.md "wikilink")[聚合物斜角](../Page/聚合物.md "wikilink")，導致其不可使用PMAG
 30 GEN M2彈匣供彈。\[42\]由於M27
 IAR不能使用[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")[步兵班內廣泛使用的](../Page/步兵班.md "wikilink")[M16步槍或](../Page/M16突擊步槍.md "wikilink")[M4卡賓槍的PMAG](../Page/M4卡賓槍.md "wikilink")
 30 GEN
@@ -191,7 +191,7 @@ IAR在本質上是配備了海軍陸戰隊所需配件的HK416
 D16.5RS型。\[49\]因此與HK416一樣，M27
 IAR在[機匣及自由浮動式](https://zh.wikipedia.org/wiki/機匣 "wikilink")[前護木四周設有合共](https://zh.wikipedia.org/wiki/護木 "wikilink")5條[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，其中4條在前護木上包覆著[槍管](../Page/槍管.md "wikilink")。不過上機匣與前護木並非採用一體設計，而是兩個不同部件。
 
-其原廠預設的後備[機械瞄具](../Page/機械瞄具.md "wikilink")（[照門及](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")，預設時為覘孔式照門及柱狀準星）都是通過導軌安裝的。使用者可以將原廠預設的機械瞄具拆卸並且用以安裝對應導軌的日間／夜間[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。[機匣頂部整合的戰術導軌長度可以使用串連式安裝光學瞄準具](https://zh.wikipedia.org/wiki/機匣 "wikilink")，前後串連式安裝配置模式可以擴大瞄準具附件的加裝應用模式。而前護木兩側及底部則以便安裝對應導軌的[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")（LAM，例如[AN/PEQ-16A](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")）、[垂直前握把](../Page/輔助握把.md "wikilink")、[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[40毫米榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")。另外，前環由固定式改為安裝在戰術導軌上的可拆卸式槍背帶環。
+其原廠預設的後備[機械瞄具](../Page/機械瞄具.md "wikilink")（[照門及](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")，預設時為覘孔式照門及柱狀準星）都是通過導軌安裝的。使用者可以將原廠預設的機械瞄具拆卸並且用以安裝對應導軌的日間／夜間[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。[機匣頂部整合的戰術導軌長度可以使用串連式安裝光學瞄準具](https://zh.wikipedia.org/wiki/機匣 "wikilink")，前後串連式安裝配置模式可以擴大瞄準具附件的加裝應用模式。而前護木兩側及底部則以便安裝對應導軌的[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")（LAM，例如[AN/PEQ-16A](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")）、[垂直前握把](../Page/輔助握把.md "wikilink")、[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[40毫米榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")。另外，前環由固定式改為安裝在戰術導軌上的可拆卸式槍背帶環。
 
 [美国海军陆战队給M](../Page/美国海军陆战队.md "wikilink")27
 IAR使用的標準瞄準鏡是在2009年與[Trijicon公司簽約](https://zh.wikipedia.org/wiki/Trijicon公司 "wikilink")，原為[M249
@@ -227,7 +227,7 @@ MR/T
     3）：美國海軍陸戰隊支援兵（Support Class）裝備的輕機槍。命名為「M27
     IAR」，45發[彈匣](../Page/彈匣.md "wikilink")（聯機模式時可使用改裝：擴充彈匣增至60發），初始攜彈量為138發，最高攜彈量為230發，預設具有[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，奇怪地使用帶有4個通氣孔的短[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。單人故事模式之中可於「卡法洛夫」戰役中被[美国海军陆战队第一侦察营](../Page/美国海军陆战队.md "wikilink")“盲流1-3”（Misfit
     1-3）五人战术小队成員亨利·布莱克本上士（SSgt. Henry "Black"
-    Blackburn）所使用；聯機模式時為「支援兵」（Support）的解鎖武器包武器之一，為美國海軍陸戰隊支援兵預設武器（俄軍支援兵於達到170,000支援兵分時才能解鎖），被歸類為[輕机槍](https://zh.wikipedia.org/wiki/輕机槍 "wikilink")，並可以使用、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[步槍瞄準鏡](../Page/瞄准镜.md "wikilink")（放大6倍）、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[內紅點瞄準鏡](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[PKS-07](https://zh.wikipedia.org/wiki/PKS-07光學瞄準鏡 "wikilink")（放大7倍）、[擴充彈匣](../Page/彈匣.md "wikilink")、[重型槍管](../Page/槍管.md "wikilink")。
+    Blackburn）所使用；聯機模式時為「支援兵」（Support）的解鎖武器包武器之一，為美國海軍陸戰隊支援兵預設武器（俄軍支援兵於達到170,000支援兵分時才能解鎖），被歸類為[輕机槍](https://zh.wikipedia.org/wiki/輕机槍 "wikilink")，並可以使用、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[步槍瞄準鏡](../Page/瞄准镜.md "wikilink")（放大6倍）、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[內紅點瞄準鏡](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[PKS-07](https://zh.wikipedia.org/wiki/PKS-07光學瞄準鏡 "wikilink")（放大7倍）、[擴充彈匣](../Page/彈匣.md "wikilink")、[重型槍管](../Page/槍管.md "wikilink")。
   - 2013年—《[-{zh-cn:使命召唤：幽灵;
     zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》（Call
     of Duty:
@@ -263,7 +263,7 @@ MR/T
 
   - [HK MG36](https://zh.wikipedia.org/wiki/HK_G36突擊步槍#衍生型 "wikilink")
 
-  - [RPK](../Page/RPK輕機槍.md "wikilink")、[RPK-74](../Page/RPK-74輕機槍.md "wikilink")、[RPK-201](https://zh.wikipedia.org/wiki/RPK-201輕機槍 "wikilink")、[RPK-203](https://zh.wikipedia.org/wiki/RPK-203輕機槍 "wikilink")、[RPK-16](https://zh.wikipedia.org/wiki/RPK-16輕機槍 "wikilink")
+  - [RPK](../Page/RPK輕機槍.md "wikilink")、[RPK-74](../Page/RPK-74輕機槍.md "wikilink")、[RPK-201](../Page/RPK-201輕機槍.md "wikilink")、[RPK-203](../Page/RPK-203輕機槍.md "wikilink")、[RPK-16](../Page/RPK-16輕機槍.md "wikilink")
 
   - [QBB-95](../Page/95式班用機槍.md "wikilink")
 

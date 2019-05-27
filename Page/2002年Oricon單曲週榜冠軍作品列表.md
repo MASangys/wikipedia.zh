@@ -215,7 +215,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FLOATIN&#39;" title="wikilink">FLOATIN'</a></p></td>
+<td><p><a href="../Page/FLOATIN&#39;.md" title="wikilink">FLOATIN'</a></p></td>
 <td><p><a href="../Page/化學超男子.md" title="wikilink">化學超男子</a></p></td>
 <td><p>9.0</p></td>
 <td><p>1</p></td>

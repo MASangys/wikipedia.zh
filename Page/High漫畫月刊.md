@@ -8,7 +8,7 @@
 
 在這種百家爭鳴的局面中，《High漫畫月刊》的[定位便設定在](https://zh.wikipedia.org/wiki/市場定位 "wikilink")「成人漫畫」：並非狹義的[色情](../Page/色情.md "wikilink")，而是橋段內容需要進一步思考、不適合青少年的成人內容。譬如[鐮田洋次的](https://zh.wikipedia.org/wiki/鐮田洋次 "wikilink")《左輪玫瑰》描寫一個女[律師為了維持世間公理而出生入死](../Page/律師.md "wikilink")，[魚戶修的](https://zh.wikipedia.org/wiki/魚戶修 "wikilink")《家栽之人》探討[司法](../Page/司法機構.md "wikilink")、[青少年與家庭問題](../Page/青少年.md "wikilink")，[川口開治的](../Page/川口開治.md "wikilink")《革命情迷》探討[日本](../Page/日本.md "wikilink")[學生運動等等](../Page/學生運動.md "wikilink")。
 
-創刊初期仍以日系漫畫占最大比例，除上段所述的作品外，另刊載[Terry山本的](../Page/Terry山本.md "wikilink")《[家有賤狗](https://zh.wikipedia.org/wiki/家有賤狗 "wikilink")》、國友泰士的《AD物語》、的《》、[佐佐木倫子的](../Page/佐佐木倫子.md "wikilink")《》等。
+創刊初期仍以日系漫畫占最大比例，除上段所述的作品外，另刊載[Terry山本的](../Page/Terry山本.md "wikilink")《[家有賤狗](../Page/家有賤狗.md "wikilink")》、國友泰士的《AD物語》、的《》、[佐佐木倫子的](../Page/佐佐木倫子.md "wikilink")《》等。
 
 ### 左翻區
 

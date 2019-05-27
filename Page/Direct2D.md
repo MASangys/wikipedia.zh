@@ -8,7 +8,7 @@ rasterizer），即在显卡不支持硬件加速的情況下，Direct2D仍可�
 
 Direct2D可以使用[DXGI](https://zh.wikipedia.org/wiki/DXGI "wikilink")（DirectX
 Graphics
-Infrastructure）與交互操作，Direct2D还能很好的支持[DirectWrite](https://zh.wikipedia.org/wiki/DirectWrite "wikilink")。
+Infrastructure）與交互操作，Direct2D还能很好的支持[DirectWrite](../Page/DirectWrite.md "wikilink")。
 
 Direct2D的支持高品質的渲染，具有以下特點：
 
@@ -26,7 +26,7 @@ Explorer 9及](../Page/Internet_Explorer_9.md "wikilink")[Mozilla Firefox
 ## 參見
 
   - [DirectX](../Page/DirectX.md "wikilink")
-  - [DirectWrite](https://zh.wikipedia.org/wiki/DirectWrite "wikilink")
+  - [DirectWrite](../Page/DirectWrite.md "wikilink")
   - [Direct3D](../Page/Direct3D.md "wikilink")
   - [GDI](https://zh.wikipedia.org/wiki/图形设备接口 "wikilink")
   - [GDI+](../Page/GDI+.md "wikilink")

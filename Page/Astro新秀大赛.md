@@ -118,10 +118,10 @@ MY FM网络人气奖: <a href="https://zh.wikipedia.org/wiki/李政发" title="w
 <td><p><strong>2008年</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/颜莞倩" title="wikilink">颜莞倩</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/林淑晶" title="wikilink">林淑晶</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朱浩仁" title="wikilink">朱浩仁</a>（<a href="https://zh.wikipedia.org/wiki/朱豪仁" title="wikilink">朱豪仁</a>）</p></td>
+<td><p><a href="../Page/朱浩仁.md" title="wikilink">朱浩仁</a>（<a href="https://zh.wikipedia.org/wiki/朱豪仁" title="wikilink">朱豪仁</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/许佳麟" title="wikilink">许佳麟</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/张梦秦" title="wikilink">张梦秦</a></p></td>
-<td><p>我的至爱新秀: <a href="https://zh.wikipedia.org/wiki/朱浩仁" title="wikilink">朱浩仁</a></p></td>
+<td><p>我的至爱新秀: <a href="../Page/朱浩仁.md" title="wikilink">朱浩仁</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2009年</strong></p></td>
@@ -129,7 +129,7 @@ MY FM网络人气奖: <a href="https://zh.wikipedia.org/wiki/李政发" title="w
 <td><p><a href="https://zh.wikipedia.org/wiki/刘界辉" title="wikilink">刘界辉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/曾洁钰" title="wikilink">曾洁钰</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/涂富祖" title="wikilink">涂富祖</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/钟瑾桦" title="wikilink">钟瑾桦</a></p></td>
+<td><p><a href="../Page/钟瑾桦.md" title="wikilink">钟瑾桦</a></p></td>
 <td><p>我的至爱新秀: <a href="https://zh.wikipedia.org/wiki/刘界辉" title="wikilink">刘界辉</a></p></td>
 </tr>
 <tr class="odd">
@@ -382,7 +382,7 @@ MY FM 最受欢迎Astro新秀单曲: <a href="https://zh.wikipedia.org/wiki/江�
 <td><p>10强</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/林沁璇" title="wikilink">林沁璇</a></p></td>
 <td><p>10强</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朱浩仁" title="wikilink">朱浩仁</a></p></td>
+<td><p><a href="../Page/朱浩仁.md" title="wikilink">朱浩仁</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -709,7 +709,7 @@ MY FM 最受欢迎Astro新秀单曲: <a href="https://zh.wikipedia.org/wiki/江�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2014年 <a href="https://zh.wikipedia.org/wiki/中国梦之声_(第二季)" title="wikilink">中国梦之声 (第二季)</a></p></td>
+<td><p>2014年 <a href="../Page/中国梦之声_(第二季).md" title="wikilink">中国梦之声 (第二季)</a></p></td>
 <td><p>30强</p></td>
 <td></td>
 <td></td>

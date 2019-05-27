@@ -1,4 +1,4 @@
-**Instantbird**是一个基于[Mozilla的](../Page/Mozilla.md "wikilink")[XULRunner以及](https://zh.wikipedia.org/wiki/XULRunner "wikilink")[Pidgin的开发者创建的libpurple](../Page/Pidgin.md "wikilink")[开源库的](https://zh.wikipedia.org/wiki/开源 "wikilink")[即时通信软件](https://zh.wikipedia.org/wiki/即时通信 "wikilink")。Instantbird采用[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")2.0及以后版本授权（其使用的libpurple库采用GPL），大部分源代码同时使用Mozilla
+**Instantbird**是一个基于[Mozilla的](../Page/Mozilla.md "wikilink")[XULRunner以及](../Page/XULRunner.md "wikilink")[Pidgin的开发者创建的libpurple](../Page/Pidgin.md "wikilink")[开源库的](https://zh.wikipedia.org/wiki/开源 "wikilink")[即时通信软件](https://zh.wikipedia.org/wiki/即时通信 "wikilink")。Instantbird采用[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")2.0及以后版本授权（其使用的libpurple库采用GPL），大部分源代码同时使用Mozilla
 tri-license（[MPL](https://zh.wikipedia.org/wiki/MPL "wikilink")
 1.1/[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")
 2.0/[LGPL](https://zh.wikipedia.org/wiki/LGPL "wikilink")

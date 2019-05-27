@@ -92,8 +92,7 @@ Spanning Tree Protocol, MSTP)並定義了原始的[IEEE
 
   - [Shortest Path
     Bridging](https://zh.wikipedia.org/wiki/Shortest_Path_Bridging "wikilink")
-    (SPB), [IEEE
-    802.1aq](https://zh.wikipedia.org/wiki/IEEE_802.1aq "wikilink")
+    (SPB), [IEEE 802.1aq](../Page/IEEE_802.1aq.md "wikilink")
   - [VLAN Trunking
     Protocol](https://zh.wikipedia.org/wiki/VLAN_Trunking_Protocol "wikilink")
     (VTP), a Cisco proprietary VLAN management protocol

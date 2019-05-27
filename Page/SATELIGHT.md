@@ -6,7 +6,7 @@
 the
 Cupid的](https://zh.wikipedia.org/wiki/Bit_the_Cupid "wikilink")[數碼製作](https://zh.wikipedia.org/wiki/數碼 "wikilink")，[北海道](../Page/北海道.md "wikilink")[札幌市的軟件開發商](../Page/札幌市.md "wikilink")[B·U·G讓旗下子公司](https://zh.wikipedia.org/wiki/B·U·G "wikilink")的SATELIGHT事業部門獨立出來。公司名稱中**SATELIGHT**的**S**為札幌（Sapporo）、**A**為動畫（Animate）、**T**為科技（Technology）、**E**為娛樂（Entertainment）的英文字首組合而成。代表董事為在[B·U·G出身的經理](https://zh.wikipedia.org/wiki/B·U·G "wikilink")[佐藤道明](https://zh.wikipedia.org/wiki/佐藤道明 "wikilink")，跟另一插畫家同名同姓\[1\]。
 
-成立初期，主要為專門進行數碼動畫製作的製作公司\[2\]近年拉攏到多位具豐富經驗的監督參與製作，包括科幻系的[河森正治和](../Page/河森正治.md "wikilink")[佐藤龍雄](https://zh.wikipedia.org/wiki/佐藤龍雄 "wikilink")、以及治癒系的[佐藤順一等](../Page/佐藤順一.md "wikilink")，在參與製作同時協助培育有潛質的新人。公司的製作經費和時間方面都在業界前列，畫面有一定程度的美感和細緻度。
+成立初期，主要為專門進行數碼動畫製作的製作公司\[2\]近年拉攏到多位具豐富經驗的監督參與製作，包括科幻系的[河森正治和](../Page/河森正治.md "wikilink")[佐藤龍雄](../Page/佐藤龍雄.md "wikilink")、以及治癒系的[佐藤順一等](../Page/佐藤順一.md "wikilink")，在參與製作同時協助培育有潛質的新人。公司的製作經費和時間方面都在業界前列，畫面有一定程度的美感和細緻度。
 
 1996年，公司首次接受統包業務，作品為[Group
 TAC的](https://zh.wikipedia.org/wiki/Group_TAC "wikilink")《》，1998年更於[東京都](../Page/東京都.md "wikilink")[杉並區成立新工作室](../Page/杉並區.md "wikilink")\[3\]。
@@ -103,7 +103,7 @@ Cube公司購入股。該公司行政總裁內田善之兼任公司社長。同�
   - [戰姬絕唱SYMPHOGEAR系列](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")
 
 :\* 戰姬絕唱SYMPHOGEAR（，2012年）（1－3話製作協力，4話起製作，製作企劃為[ENCOURAGE
-FILMS](https://zh.wikipedia.org/wiki/ENCOURAGE_FILMS "wikilink")）
+FILMS](../Page/ENCOURAGE_FILMS.md "wikilink")）
 
 :\* 戰姬絕唱SYMPHOGEAR G（，2013年）
 
@@ -132,8 +132,8 @@ FILMS](https://zh.wikipedia.org/wiki/ENCOURAGE_FILMS "wikilink")）
   - [拉格納強襲天使](https://zh.wikipedia.org/wiki/拉格納強襲天使 "wikilink")（1話30秒的超短篇動畫，2016年）
   - [Scared Rider
     Xechs](../Page/Scared_Rider_Xechs.md "wikilink")（，2016年）
-  - [黑白來看守所](https://zh.wikipedia.org/wiki/黑白來看守所 "wikilink")（，2016年－2017年）
-  - [末日時在做什麼？有沒有空？可以來拯救嗎？](https://zh.wikipedia.org/wiki/末日時在做什麼？有沒有空？可以來拯救嗎？ "wikilink")（，2017年）
+  - [黑白來看守所](../Page/黑白來看守所.md "wikilink")（，2016年－2017年）
+  - [末日時在做什麼？有沒有空？可以來拯救嗎？](../Page/末日時在做什麼？有沒有空？可以來拯救嗎？.md "wikilink")（，2017年）
 
 <table>
 <thead>
@@ -156,7 +156,7 @@ FILMS](https://zh.wikipedia.org/wiki/ENCOURAGE_FILMS "wikilink")）
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/博多豚骨拉面团" title="wikilink">博多豚骨拉面团</a></p></td>
+<td><p><a href="../Page/博多豚骨拉面团.md" title="wikilink">博多豚骨拉面团</a></p></td>
 <td></td>
 <td><p>1月12日－播放中</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安田賢司" title="wikilink">安田賢司</a></p></td>
@@ -164,7 +164,7 @@ FILMS](https://zh.wikipedia.org/wiki/ENCOURAGE_FILMS "wikilink")）
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/重神機潘多拉" title="wikilink">重神機潘多拉</a></p></td>
+<td><p><a href="../Page/重神機潘多拉.md" title="wikilink">重神機潘多拉</a></p></td>
 <td></td>
 <td><p>4月－預定</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/佐藤英一" title="wikilink">佐藤英一</a></p></td>

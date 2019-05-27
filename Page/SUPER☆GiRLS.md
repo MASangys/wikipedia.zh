@@ -204,7 +204,7 @@ GAP激熱パフォーマー」</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/淺川梨奈" title="wikilink">淺川梨奈</a></p></td>
+<td><p><a href="../Page/淺川梨奈.md" title="wikilink">淺川梨奈</a></p></td>
 <td><p>淺川梨奈</p></td>
 <td><p>あさかわ なな</p></td>
 <td><p>なぁぽん</p></td>

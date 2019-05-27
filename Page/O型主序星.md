@@ -57,13 +57,13 @@ O型星都很年輕，年齡都只有數百萬年的歲月。在我們的[銀河
 
   - [天鴿座μ](https://zh.wikipedia.org/wiki/天鴿座μ "wikilink")：肉眼可見的O9.5主序星。
 
-  - [獵戶座θ<sup>1</sup>C](https://zh.wikipedia.org/wiki/獵戶座θ1C "wikilink")：在[獵戶座星雲中的](https://zh.wikipedia.org/wiki/獵戶座星雲 "wikilink")[獵戶四邊形星團最亮的恆星](https://zh.wikipedia.org/wiki/獵戶四邊形星團 "wikilink")。它是O6主序星，有一顆微弱的光譜伴星。
+  - [獵戶座θ<sup>1</sup>C](../Page/獵戶座θ1C.md "wikilink")：在[獵戶座星雲中的](https://zh.wikipedia.org/wiki/獵戶座星雲 "wikilink")[獵戶四邊形星團最亮的恆星](https://zh.wikipedia.org/wiki/獵戶四邊形星團 "wikilink")。它是O6主序星，有一顆微弱的光譜伴星。
 
   - [天市右垣十一](../Page/天市右垣十一.md "wikilink")（蛇夫座ζ）：是一顆O9.5主序星，天空中最亮的3[等星](https://zh.wikipedia.org/wiki/視星等 "wikilink")。
 
 ## 相關條目
 
-  - [O型星](https://zh.wikipedia.org/wiki/O型星 "wikilink")
+  - [O型星](../Page/O型星.md "wikilink")
 
   - ，恆星的綜合評述。
 

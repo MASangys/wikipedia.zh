@@ -39,14 +39,13 @@ Records**是[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂
     Promotion](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")）
   - [Lil'B](https://zh.wikipedia.org/wiki/Lil'B "wikilink")
   - [ON/OFF](https://zh.wikipedia.org/wiki/ON/OFF "wikilink")（所屬事務所[マジソンミュージックアカデミー](https://zh.wikipedia.org/wiki/マジソンミュージックアカデミー "wikilink")）
-  - [ROOKiEZ is
-    PUNK'D](https://zh.wikipedia.org/wiki/ROOKiEZ_is_PUNK'D "wikilink")
+  - [ROOKiEZ is PUNK'D](../Page/ROOKiEZ_is_PUNK'D.md "wikilink")
   - [kanon×kanon](https://zh.wikipedia.org/wiki/kanon×kanon "wikilink")
   - [mc2](https://zh.wikipedia.org/wiki/mc2_\(音樂\) "wikilink")
   - [AGGRESSIVE DOGS a.k.a
     UZI-ONE](https://zh.wikipedia.org/wiki/AGGRESSIVE_DOGS_a.k.a_UZI-ONE "wikilink")
   - [Aimer](../Page/Aimer.md "wikilink")
-  - [GARNiDELiA](https://zh.wikipedia.org/wiki/GARNiDELiA "wikilink")
+  - [GARNiDELiA](../Page/GARNiDELiA.md "wikilink")
 
 ### 過去所屬的藝人
 

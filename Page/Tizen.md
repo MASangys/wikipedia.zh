@@ -23,7 +23,7 @@ DoCoMo](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")、[Orange](https://
 [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
 蠶食完畢、[微軟在該市場的失敗](https://zh.wikipedia.org/wiki/微軟 "wikilink")，平板電腦市場需求持續疲軟，目前
 Tizen 的最大支持者三星電子主要將 Tizen
-用於除智慧型手機、平板電腦以外的領域，像是相機、智慧型手錶、智慧電視、媒體播放機、機上盒、乃至[智慧家庭](https://zh.wikipedia.org/wiki/智慧家庭 "wikilink")（包括空調系統、冰箱、照明控制等）等，試圖先行佔據新興市場領域。\[3\]
+用於除智慧型手機、平板電腦以外的領域，像是相機、智慧型手錶、智慧電視、媒體播放機、機上盒、乃至[智慧家庭](../Page/智慧家庭.md "wikilink")（包括空調系統、冰箱、照明控制等）等，試圖先行佔據新興市場領域。\[3\]
 
 ## 歷史
 
@@ -49,8 +49,7 @@ DoCoMo與Orange依然是Tizen Association的成員。\[16\]\[17\]
 目前三星是唯一推出使用 Tizen 的裝置的業者，也是 Tizen 的最大支持者。至 2017 年結束，Tizen
 是世界第二大智慧型手錶作業系統，僅次於蘋果
 [watchOS](https://zh.wikipedia.org/wiki/watchOS "wikilink")，比基於 Android
-的 [Wear OS](https://zh.wikipedia.org/wiki/Wear_OS "wikilink")
-還要多。\[19\]
+的 [Wear OS](../Page/Wear_OS.md "wikilink") 還要多。\[19\]
 
 ## 技術內容
 
@@ -96,7 +95,7 @@ Gear](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Gear "wikilink")、[Gear
 S](https://zh.wikipedia.org/wiki/Samsung_Gear_S "wikilink")、[Gear
 Fit等](https://zh.wikipedia.org/wiki/Samsung_Gear_Fit "wikilink")）、NX
 系列相機及 Z 系列智慧型手機也預裝 Tizen。2016年2月21日，三星發表了基於 Tizen
-的[互聯汽車系統](https://zh.wikipedia.org/wiki/互聯汽車 "wikilink")，提供[車輛診斷的資訊顯示分析](../Page/車上診斷系統.md "wikilink")、Wi-Fi
+的[互聯汽車系統](../Page/互聯汽車.md "wikilink")，提供[車輛診斷的資訊顯示分析](../Page/車上診斷系統.md "wikilink")、Wi-Fi
 以及其它車上系統的連接顯示服務。\[34\]
 
 ## 参见

@@ -30,7 +30,7 @@ Duchesne\!）。他們寫作敘事風格是以第一人稱的觀點，並且經�
 Link-en|讓-細鈁·莫里|Jean-Sifrein
 Maury}}，教皇權威強大的護衛者並且是[教士的公民組織法主要反對者](https://zh.wikipedia.org/wiki/教士的公民組織法 "wikilink")。
 
-國王[路易十六的出逃失敗後](../Page/路易十六的出逃.md "wikilink")，他的語調顯著變為冷酷強硬。由1792年開始，[巴黎公社和戰爭部長](https://zh.wikipedia.org/wiki/巴黎公社_\(法國大革命\) "wikilink")[讓-尼古拉·帕什](https://zh.wikipedia.org/wiki/讓-尼古拉·帕什 "wikilink")，及後來的購買幾千份**免費向公眾開放和部隊分發。
+國王[路易十六的出逃失敗後](../Page/路易十六的出逃.md "wikilink")，他的語調顯著變為冷酷強硬。由1792年開始，[巴黎公社和戰爭部長](https://zh.wikipedia.org/wiki/巴黎公社_\(法國大革命\) "wikilink")[讓-尼古拉·帕什](../Page/讓-尼古拉·帕什.md "wikilink")，及後來的購買幾千份**免費向公眾開放和部隊分發。
 
 1785年揭露於公眾無比荒謬的[鑽石項鍊事件](https://zh.wikipedia.org/wiki/鑽石項鍊事件 "wikilink")，皇后成為被嘲笑的廉價目標後，她就成為所有報紙口徑一致的目標。
 他提到[瑪麗·安托瓦內特為](https://zh.wikipedia.org/wiki/瑪麗·安東妮 "wikilink")“否決夫人”(
@@ -52,9 +52,9 @@ Veto)，並講到[路易十六稱為](../Page/路易十六.md "wikilink")“嗜�
 couvent de la Conception)”的修女。
 1792年2月7日解除僧職，36歲的她和35歲的埃貝爾結婚，隨後他們有一個女兒，弗吉尼亞-西皮翁·埃貝爾（1793年2月7日-1830年7月13日）。
 在這期間，埃貝爾過著豪華的，資產階級的生活。
-婚宴數週，他招待[讓-尼古拉·帕什](https://zh.wikipedia.org/wiki/讓-尼古拉·帕什 "wikilink")，巴黎市長和前戰爭部長，以及其他有影響力的人，喜歡優雅的打扮、然而他環繞自己的美麗事物有如美麗掛毯的飾物—
+婚宴數週，他招待[讓-尼古拉·帕什](../Page/讓-尼古拉·帕什.md "wikilink")，巴黎市長和前戰爭部長，以及其他有影響力的人，喜歡優雅的打扮、然而他環繞自己的美麗事物有如美麗掛毯的飾物—
 —可以對比的儉樸生活態度。 他從那裡得到了財政資源來支持他的生活方式，不清楚;
-無論如何，印發成千上萬份**是[讓-尼古拉·帕什的指令](https://zh.wikipedia.org/wiki/讓-尼古拉·帕什 "wikilink")，以及他與--的情婦和妻子--的關係。
+無論如何，印發成千上萬份**是[讓-尼古拉·帕什的指令](../Page/讓-尼古拉·帕什.md "wikilink")，以及他與--的情婦和妻子--的關係。
 
 作為
 [科德利埃俱樂部的成員](https://zh.wikipedia.org/wiki/科德利埃俱樂部 "wikilink")，他是革命的[巴黎公社](https://zh.wikipedia.org/wiki/巴黎公社_\(法國大革命\) "wikilink")
@@ -72,7 +72,7 @@ couvent de la Conception)”的修女。
 
 ## 恐怖統治和去除法蘭西基督教運動
 
-*[1793年5月31日至6月2日間](https://zh.wikipedia.org/wiki/1793年5月31日-6月2日的暴動 "wikilink")*，巴黎各分區-受到**，和雅克·埃貝爾的鼓勵;在[國民公會外抗議](https://zh.wikipedia.org/wiki/國民公會 "wikilink")，要求行政和政治[清洗](../Page/肅清.md "wikilink")，降低麵包固定價格，和僅僅對*[無套褲漢](../Page/無套褲漢.md "wikilink")*[選舉權的限制](https://zh.wikipedia.org/wiki/選舉權 "wikilink")。
+*[1793年5月31日至6月2日間](../Page/1793年5月31日-6月2日的暴動.md "wikilink")*，巴黎各分區-受到**，和雅克·埃貝爾的鼓勵;在[國民公會外抗議](https://zh.wikipedia.org/wiki/國民公會 "wikilink")，要求行政和政治[清洗](../Page/肅清.md "wikilink")，降低麵包固定價格，和僅僅對*[無套褲漢](../Page/無套褲漢.md "wikilink")*[選舉權的限制](https://zh.wikipedia.org/wiki/選舉權 "wikilink")。
 得到[國民自衛軍的支持](https://zh.wikipedia.org/wiki/國民自衛軍 "wikilink")，他們脅迫[國民公會逮捕](https://zh.wikipedia.org/wiki/國民公會 "wikilink")31名[吉倫特派領導人](https://zh.wikipedia.org/wiki/吉倫特派 "wikilink")，包括[雅克·皮埃爾·布里索](../Page/雅克·皮埃爾·布里索.md "wikilink")。繼這些逮捕後，6月10日雅各賓派取得[公共安全委員會](https://zh.wikipedia.org/wiki/公共安全委員會 "wikilink")
 控制權，建立了革命[獨裁政體](../Page/獨裁政體.md "wikilink") 。
 7月13日，雅各賓領導人之一的[讓-保爾·馬拉被同情吉倫特派的](https://zh.wikipedia.org/wiki/讓-保爾·馬拉 "wikilink")[夏綠蒂·科黛刺殺身亡](https://zh.wikipedia.org/wiki/夏綠蒂·科黛 "wikilink")，[新聞從業員以他們煽動性的](https://zh.wikipedia.org/wiki/新聞從業員 "wikilink")[修辭渲染](https://zh.wikipedia.org/wiki/修辭學 "wikilink")，使雅各賓派的政治影響力進一步增強。\[6\][喬治·雅克·丹敦](https://zh.wikipedia.org/wiki/喬治·雅克·丹敦 "wikilink")，[八月十日事件的領導人](../Page/八月十日事件.md "wikilink")，暴力對抗[國王](https://zh.wikipedia.org/wiki/國王 "wikilink")，從[公共安全委員會](https://zh.wikipedia.org/wiki/公共安全委員會 "wikilink")

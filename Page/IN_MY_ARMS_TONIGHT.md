@@ -12,7 +12,7 @@ TONIGHT**》，是[ZARD的第](../Page/ZARD.md "wikilink")5張單曲。1992年9�
 
 \#\*作詞：[坂井泉水](../Page/坂井泉水.md "wikilink")
 作曲：[春畑道哉](../Page/春畑道哉.md "wikilink")
-編曲：[明石昌夫](https://zh.wikipedia.org/wiki/明石昌夫 "wikilink")
+編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
 
 \#:[TUBE的春畑道哉提供的作品](https://zh.wikipedia.org/wiki/TUBE "wikilink")，首次非[織田哲郎作曲的A面曲](../Page/織田哲郎.md "wikilink")。
 2. '''汗の中でCRY '''

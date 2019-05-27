@@ -80,9 +80,9 @@ Together](../Page/Come_Together.md "wikilink")〉等以披頭四樂曲為主的�
 
   - 鶴田亜美 - [Sonim](https://zh.wikipedia.org/wiki/Sonim "wikilink")
 
-  - 樋口伸辛 - [大森南朋](https://zh.wikipedia.org/wiki/大森南朋 "wikilink")
+  - 樋口伸辛 - [大森南朋](../Page/大森南朋.md "wikilink")
 
-  - 保土之谷康志 - [柄本明](https://zh.wikipedia.org/wiki/柄本明 "wikilink")
+  - 保土之谷康志 - [柄本明](../Page/柄本明.md "wikilink")
 
   - 佐佐木一太郎 - [香川照之](../Page/香川照之.md "wikilink")
 

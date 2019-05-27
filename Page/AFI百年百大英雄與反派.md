@@ -178,9 +178,9 @@ Villains**），是[美國電影學會從](https://zh.wikipedia.org/wiki/美國�
 </tr>
 <tr class="odd">
 <td><p>17.</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/骯髒哈利" title="wikilink">哈利·卡拉漢</a></strong></p></td>
+<td><p><strong><a href="../Page/骯髒哈利.md" title="wikilink">哈利·卡拉漢</a></strong></p></td>
 <td><p><a href="../Page/克林·伊斯威特.md" title="wikilink">克林·伊斯威特</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/緊急追捕令" title="wikilink">緊急追捕令</a></p></td>
+<td><p><a href="../Page/緊急追捕令.md" title="wikilink">緊急追捕令</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><a href="../Page/凱西·貝茲.md" title="wikilink">凱西·貝茲</a></p></td>
 <td><p><a href="../Page/戰慄遊戲.md" title="wikilink">戰慄遊戲</a></p></td>
@@ -278,7 +278,7 @@ Villains**），是[美國電影學會從](https://zh.wikipedia.org/wiki/美國�
 <td><p><a href="https://zh.wikipedia.org/wiki/大陰謀" title="wikilink">大陰謀</a></p></td>
 <td><p><strong>火星人</strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/世界大戰_(1953年電影)" title="wikilink">世界大戰</a></p></td>
+<td><p><a href="../Page/世界大戰_(1953年電影).md" title="wikilink">世界大戰</a></p></td>
 </tr>
 <tr class="even">
 <td><p>28.</p></td>
@@ -309,7 +309,7 @@ Villains**），是[美國電影學會從](https://zh.wikipedia.org/wiki/美國�
 </tr>
 <tr class="odd">
 <td><p>31.</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/艾琳·布羅克維奇" title="wikilink">艾琳·布羅克維齊</a></strong></p></td>
+<td><p><strong><a href="../Page/艾琳·布羅克維奇.md" title="wikilink">艾琳·布羅克維齊</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/茱莉亞·羅勃茲" title="wikilink">茱莉亞·羅勃茲</a></p></td>
 <td><p><a href="../Page/永不妥協.md" title="wikilink">永不妥協</a></p></td>
 <td><p><strong>丹佛斯太太</strong></p></td>

@@ -63,14 +63,14 @@ Nexus
 5X由[LG製造](https://zh.wikipedia.org/wiki/LG "wikilink")，於2015年9月29日發布，首發搭載[Android
 6.0
 Marshmallow](../Page/Android_Marshmallow.md "wikilink")，支援升級至[Android
-Oreo](https://zh.wikipedia.org/wiki/Android_Oreo "wikilink")。
+Oreo](../Page/Android_Oreo.md "wikilink")。
 
 #### Nexus 6P
 
 Nexus 6P由[Huawei製造](../Page/华为.md "wikilink")，於2015年9月29日發布，首發搭載[Android
 6.0
 Marshmallow](../Page/Android_Marshmallow.md "wikilink")，支援升級至[Android
-8.0 Oreo](https://zh.wikipedia.org/wiki/Android_Oreo "wikilink")。
+8.0 Oreo](../Page/Android_Oreo.md "wikilink")。
 
 #### 比較
 
@@ -206,9 +206,9 @@ Marshmallow](../Page/Android_Marshmallow.md "wikilink")，支援升級至[Androi
 <td><p><a href="https://zh.wikipedia.org/wiki/Android_Eclair" title="wikilink">2.1 Eclair</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Android_Gingerbread" title="wikilink">2.3 Gingerbread</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Android_Ice_Cream_Sandwich" title="wikilink">4.0 Ice Cream Sandwich</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Jelly_Bean" title="wikilink">4.2 Jelly Bean</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_KitKat" title="wikilink">4.4 KitKat</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Lollipop" title="wikilink">5.0 Lollipop</a></p></td>
+<td><p><a href="../Page/Android_Jelly_Bean.md" title="wikilink">4.2 Jelly Bean</a></p></td>
+<td><p><a href="../Page/Android_KitKat.md" title="wikilink">4.4 KitKat</a></p></td>
+<td><p><a href="../Page/Android_Lollipop.md" title="wikilink">5.0 Lollipop</a></p></td>
 <td><p><a href="../Page/Android_Marshmallow.md" title="wikilink">6.0 Marshmallow</a></p></td>
 <td></td>
 </tr>
@@ -220,7 +220,7 @@ Marshmallow](../Page/Android_Marshmallow.md "wikilink")，支援升級至[Androi
 <td><p>5.1.1 Lollipop</p></td>
 <td><p>6.0.1 Marshmallow</p></td>
 <td><p><a href="../Page/Android_Nougat.md" title="wikilink">7.1.1 Nougat</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Oreo" title="wikilink">8.1.0 Oreo</a></p></td>
+<td><p><a href="../Page/Android_Oreo.md" title="wikilink">8.1.0 Oreo</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -279,7 +279,7 @@ Android 6.0.1（Marshmallow）。
  [Nexus
 9是由](../Page/Nexus_9.md "wikilink")[HTC代工](https://zh.wikipedia.org/wiki/HTC "wikilink")，於2014年10月15日發佈，首發搭載
 [Android 5.0
-Lollipop](https://zh.wikipedia.org/wiki/Android_Lollipop "wikilink")。其最新支援升級至Android
+Lollipop](../Page/Android_Lollipop.md "wikilink")。其最新支援升級至Android
 5.1.1（Lollipop）。採用[NVIDIA
 Tegra](https://zh.wikipedia.org/wiki/NVIDIA_Tegra "wikilink") K1
 [64位元](../Page/64位元.md "wikilink")2.3 GHz雙核心處理器，螢幕比例採用4:3，螢幕解析度為2048

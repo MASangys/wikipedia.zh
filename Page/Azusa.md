@@ -126,7 +126,7 @@ PCCG-01164（通常盤）</p></td>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2012年2月1日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Check_my_soul" title="wikilink">Check my soul</a></strong></p></td>
+<td><p><strong><a href="../Page/Check_my_soul.md" title="wikilink">Check my soul</a></strong></p></td>
 <td><p>PCCG-01229</p></td>
 <td><p>第20名</p></td>
 </tr>

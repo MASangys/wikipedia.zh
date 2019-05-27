@@ -8,7 +8,7 @@
 
 MPTP本身并没有[毒性](../Page/毒性.md "wikilink")，仅仅是一种能通过[血脑屏障的普通](https://zh.wikipedia.org/wiki/血脑屏障 "wikilink")[脂溶性](https://zh.wikipedia.org/wiki/脂溶性 "wikilink")[有机化合物](../Page/有机化合物.md "wikilink")。但是，当MPTP进入大脑之后，会被[神經膠質細胞产生的](../Page/神經膠質細胞.md "wikilink")[单胺氧化酶B](../Page/单胺氧化酶.md "wikilink")[代谢成有毒的](../Page/代谢.md "wikilink")[阳离子](https://zh.wikipedia.org/wiki/阳离子 "wikilink")[MPP+](../Page/MPP+.md "wikilink")（1-甲基-4-苯基吡啶）。MPP+能够杀死大脑中产生多巴胺的神经细胞。同时，MPP+还能干扰[线粒体代谢中的](https://zh.wikipedia.org/wiki/线粒体 "wikilink")[呼吸链里一种重要物质](https://zh.wikipedia.org/wiki/呼吸链 "wikilink")[NADH脱氢酶](../Page/NADH脱氢酶.md "wikilink")，从而导致[细胞死亡和能够进一步破坏](../Page/细胞死亡.md "wikilink")[细胞的](../Page/细胞.md "wikilink")[自由基的积蓄](../Page/自由基.md "wikilink")。
 
-因为MPTP的毒性作用并不来自于物质本身，通过[单胺氧化酶抑制剂](https://zh.wikipedia.org/wiki/单胺氧化酶抑制剂 "wikilink")（如）给药能够缓解MPTP急性中毒的症状。单胺氧化酶抑制剂（MAOIs）能够有效抑制单胺氧化酶B的活性，从而阻止MPTP转化为MPP+，防止神经的[坏死](https://zh.wikipedia.org/wiki/坏死 "wikilink")，使毒性降到最低。
+因为MPTP的毒性作用并不来自于物质本身，通过[单胺氧化酶抑制剂](../Page/单胺氧化酶抑制剂.md "wikilink")（如）给药能够缓解MPTP急性中毒的症状。单胺氧化酶抑制剂（MAOIs）能够有效抑制单胺氧化酶B的活性，从而阻止MPTP转化为MPP+，防止神经的[坏死](https://zh.wikipedia.org/wiki/坏死 "wikilink")，使毒性降到最低。
 
 MPP+在引发产生多巴胺神经细胞死亡上具有高度的选择性。一般来说它被认为是通过一个在[神经末梢中进行具有高度亲和力的吸收过程而被吸收的](https://zh.wikipedia.org/wiki/神经末梢 "wikilink")，而这个吸收过程正常情况下是用来被释放到[突触的多巴胺](../Page/突触.md "wikilink")。在这个过程中将MPP+转运至细胞中。
 

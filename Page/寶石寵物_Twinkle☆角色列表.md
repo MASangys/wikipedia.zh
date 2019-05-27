@@ -594,13 +594,13 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 <!-- end list -->
 
   - 伊四郎（、Ipushiron）
-    [配音員](../Page/配音員.md "wikilink")：日：[速水秀之](https://zh.wikipedia.org/wiki/速水秀之 "wikilink")／港：[李致林](../Page/李致林.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[速水秀之](../Page/速水秀之.md "wikilink")／港：[李致林](../Page/李致林.md "wikilink")
     Cosmo Boys的隊員。
 
 <!-- end list -->
 
   - 華魯夫（、Uorufu）
-    [配音員](../Page/配音員.md "wikilink")：日：[小田久史](https://zh.wikipedia.org/wiki/小田久史 "wikilink")／港：[梁偉德](../Page/梁偉德.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[小田久史](../Page/小田久史.md "wikilink")／港：[梁偉德](../Page/梁偉德.md "wikilink")
     Cosmo Boys的隊員。
 
 <!-- end list -->
@@ -791,7 +791,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 <!-- end list -->
 
   - 亞歷克（、Alex）
-    [配音員](../Page/配音員.md "wikilink")：日：[設樂麻美](https://zh.wikipedia.org/wiki/設樂麻美 "wikilink")、[五十嵐裕美](../Page/五十嵐裕美.md "wikilink")（代配）／港：[朱妙蘭](../Page/朱妙蘭.md "wikilink")／台：[黃珽筠](../Page/黃珽筠.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[設樂麻美](../Page/設樂麻美.md "wikilink")、[五十嵐裕美](../Page/五十嵐裕美.md "wikilink")（代配）／港：[朱妙蘭](../Page/朱妙蘭.md "wikilink")／台：[黃珽筠](../Page/黃珽筠.md "wikilink")
     第20話中登場，喜歡可愛女生，但是個花心的人，總和尼克、布朗尼共同向對方告白。
 
 <!-- end list -->

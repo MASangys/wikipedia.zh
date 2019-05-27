@@ -1,5 +1,5 @@
 **PlayStation
-Store**是[索尼互動娛樂提供的](../Page/索尼互動娛樂.md "wikilink")[PlayStation系列游戏机](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[数字媒体商店](https://zh.wikipedia.org/wiki/数字媒体 "wikilink")。其拥有包括数字版游戏、[DLC](../Page/可下载内容.md "wikilink")、[游戏试玩版](https://zh.wikipedia.org/wiki/游戏演示 "wikilink")、主题背景、音乐、影视在内的一系列付费及免费内容。它是[PlayStation
+Store**是[索尼互動娛樂提供的](../Page/索尼互動娛樂.md "wikilink")[PlayStation系列游戏机](../Page/PlayStation.md "wikilink")[数字媒体商店](https://zh.wikipedia.org/wiki/数字媒体 "wikilink")。其拥有包括数字版游戏、[DLC](../Page/可下载内容.md "wikilink")、[游戏试玩版](https://zh.wikipedia.org/wiki/游戏演示 "wikilink")、主题背景、音乐、影视在内的一系列付费及免费内容。它是[PlayStation
 Network的一部分](../Page/PlayStation_Network.md "wikilink")。
 
 ## 支持平台
@@ -36,7 +36,7 @@ Store推出网页版\[2\]，用户可在网页购买内容后将其加入下载�
 ## 另见
 
   - [Xbox Games商店](../Page/Xbox_Games商店.md "wikilink")
-  - [任天堂eShop](https://zh.wikipedia.org/wiki/任天堂eShop "wikilink")
+  - [任天堂eShop](../Page/任天堂eShop.md "wikilink")
   - [Wii Shop
     Channel](https://zh.wikipedia.org/wiki/Wii_Shop_Channel "wikilink")
 

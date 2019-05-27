@@ -178,9 +178,9 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 <td><p>EPISODE 05</p></td>
 <td></td>
 <td><p>旅途</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大西信介" title="wikilink">大西信介</a></p></td>
+<td><p><a href="../Page/大西信介.md" title="wikilink">大西信介</a></p></td>
 <td><p>吉岡忍</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松尾祐輔" title="wikilink">松尾祐輔</a></p></td>
+<td><p><a href="../Page/松尾祐輔.md" title="wikilink">松尾祐輔</a></p></td>
 <td><p>1.5%</p></td>
 <td></td>
 </tr>

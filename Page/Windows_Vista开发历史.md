@@ -90,7 +90,7 @@ Glass效果，这也是最后一个采用Plex主题界面的测试版。
 Glass被继承下来。
 
 **Build
-4051**（031001）是2003年[专业开发者大会](https://zh.wikipedia.org/wiki/专业开发者大会 "wikilink")（Professional
+4051**（031001）是2003年[专业开发者大会](../Page/专业开发者大会.md "wikilink")（Professional
 Developers
 Conference，PDC）的微软官方演示版本。这个版本并未发布给公众，但却在10月20日泄露。该版本中，[开始菜单上的一些项目被改名](https://zh.wikipedia.org/wiki/开始菜单 "wikilink")，“My”被去除，同时又新增了一些项目，比如共享文件、共享照片和视频。IE升级到6.05，新增了一个下载管理器，弹窗阻拦功能，加载项管理器，浏览历史清理工具\[6\]。除了下载管理器被弃用以外，其它三项都在Windows
 XP Service Pack 2的IE 6中得到保留。

@@ -67,7 +67,7 @@ Assembly，将其作为像以往的成功开发者一样纳入自己出版商的
 Creative
 Assembly签订了收购交易，\[18\]购买该公司所有已发行的[股票](../Page/股票.md "wikilink")。\[19\]世嘉解释说，此次收购是加强世嘉欧洲公司在欧洲和北美游戏市场的存在。\[20\]一个全面战争系列的[游戏机独占](https://zh.wikipedia.org/wiki/电子游戏机 "wikilink")[衍生作品](../Page/衍生作品.md "wikilink")《[斯巴达人：最强武士](https://zh.wikipedia.org/wiki/斯巴达人：最强武士 "wikilink")》的适时发布，确定了世嘉对the
 Creative Assembly的迅速影响。 \[21\]《斯巴达人：最强武士》是the Creative
-Assembly的第一款游戏机主题；之前所有全面战争系列的主题都完全是[电脑游戏](../Page/电脑游戏.md "wikilink")。2005年7月，世嘉已经从美国动视获得了《罗马：全面战争》的版权\[22\]而且该游戏有两个资料片：发布于2005年9月的《[蛮族入侵](https://zh.wikipedia.org/wiki/罗马：全面战争之蛮族入侵 "wikilink")》，展示了[罗马帝国的衰亡](https://zh.wikipedia.org/wiki/罗马帝国的衰亡 "wikilink")，而2006年9月发布的《[亚历山大](https://zh.wikipedia.org/wiki/罗马：全面战争之亚历山大 "wikilink")》着眼于[亚历山大大帝的功绩](../Page/亚历山大大帝.md "wikilink")。《斯巴达人：最强武士》于2005年10月发行，包括[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[PlayStation
+Assembly的第一款游戏机主题；之前所有全面战争系列的主题都完全是[电脑游戏](../Page/电脑游戏.md "wikilink")。2005年7月，世嘉已经从美国动视获得了《罗马：全面战争》的版权\[22\]而且该游戏有两个资料片：发布于2005年9月的《[蛮族入侵](https://zh.wikipedia.org/wiki/罗马：全面战争之蛮族入侵 "wikilink")》，展示了[罗马帝国的衰亡](https://zh.wikipedia.org/wiki/罗马帝国的衰亡 "wikilink")，而2006年9月发布的《[亚历山大](https://zh.wikipedia.org/wiki/罗马：全面战争之亚历山大 "wikilink")》着眼于[亚历山大大帝的功绩](../Page/亚历山大大帝.md "wikilink")。《斯巴达人：最强武士》于2005年10月发行，包括[Xbox](../Page/Xbox.md "wikilink")、[PlayStation
 2和](../Page/PlayStation_2.md "wikilink")[GameCube版本](https://zh.wikipedia.org/wiki/Nintendo_GameCube "wikilink")，受到了好评。\[23\]\[24\]\[25\]
 
 第四个全面战争宣布在2006年1月发行。\[26\]新主题《[中世纪II：全面战争](https://zh.wikipedia.org/wiki/中世纪II：全面战争 "wikilink")》是《中世纪：全面战争》使用《罗马：全面战争》之后的新资产和技术的复刻版。游戏发行于2006年11月，虽然不如《罗马：全面战争》成功，\[27\]《中世纪II:

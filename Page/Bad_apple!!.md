@@ -25,7 +25,7 @@ Apple\!\!　ＰＶ【影絵】》影片才初步结束了该轮比拼\[4\]。截
 
 《Bad
 apple\!\!》被多个[音乐游戏收录为游戏曲目](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。2013年，《Bad
-apple\!\!》被《[节奏大师](../Page/节奏大师.md "wikilink")》收录为游戏曲目\[7\]。2018年，《[太鼓达人](https://zh.wikipedia.org/wiki/太鼓达人 "wikilink")》（[任天堂Switch版](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")）宣布将《Bad
+apple\!\!》被《[节奏大师](../Page/节奏大师.md "wikilink")》收录为游戏曲目\[7\]。2018年，《[太鼓达人](https://zh.wikipedia.org/wiki/太鼓达人 "wikilink")》（[任天堂Switch版](../Page/任天堂Switch.md "wikilink")）宣布将《Bad
 apple\!\!》列入游戏收录曲目中\[8\]。
 
 ## 影响

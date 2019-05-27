@@ -26,7 +26,7 @@ Push☆1」活動使兩個組合建立了聯合關係。雙方的選拔成員組
   - [橫山琉璃香](https://zh.wikipedia.org/wiki/橫山琉璃香 "wikilink")（9号）以上1期生。
   - [酒井瞳](https://zh.wikipedia.org/wiki/酒井瞳 "wikilink")（14号）
   - [朝日奈央](https://zh.wikipedia.org/wiki/朝日奈央 "wikilink")（15号）
-  - [菊地亞美](https://zh.wikipedia.org/wiki/菊地亞美 "wikilink")（16号）
+  - [菊地亞美](../Page/菊地亞美.md "wikilink")（16号）
   - [三宅仁美](https://zh.wikipedia.org/wiki/三宅瞳 "wikilink")（17号）以上2期生。
 
 <!-- end list -->

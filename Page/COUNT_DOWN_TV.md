@@ -57,7 +57,7 @@ TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電
 
 ### 声之出演
 
-  - アビー君：[石川寬美](https://zh.wikipedia.org/wiki/石川寬美 "wikilink")（2004年1月10日～3月27日由[根本圭子代替](../Page/根本圭子.md "wikilink")）
+  - アビー君：[石川寬美](../Page/石川寬美.md "wikilink")（2004年1月10日～3月27日由[根本圭子代替](../Page/根本圭子.md "wikilink")）
   - 菊池君：[菊池正美](../Page/菊池正美.md "wikilink")
   - フミエ（初代）→デミコ（第2代）：[高田由美](../Page/高田由美.md "wikilink")
   - ミカちゃん（第3代）：[堀井美香](https://zh.wikipedia.org/wiki/堀井美香 "wikilink")（TBS[播音員](../Page/播音員.md "wikilink")）
@@ -155,7 +155,7 @@ TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電
 <td><p>2001年</p></td>
 <td><p>上半期<br />
 年間</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Can_You_Keep_A_Secret?" title="wikilink">Can You Keep A Secret?</a></p></td>
+<td><p><a href="../Page/Can_You_Keep_A_Secret?.md" title="wikilink">Can You Keep A Secret?</a></p></td>
 <td><p>宇多田光</p></td>
 </tr>
 <tr class="even">
@@ -316,8 +316,8 @@ TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p>上半期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/恋_(星野源单曲)" title="wikilink">戀</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a></p></td>
+<td><p><a href="../Page/恋_(星野源单曲).md" title="wikilink">戀</a></p></td>
+<td><p><a href="../Page/星野源.md" title="wikilink">星野源</a></p></td>
 </tr>
 <tr class="even">
 <td><p>年間</p></td>
@@ -328,7 +328,7 @@ TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電
 <tr class="odd">
 <td><p>2018年</p></td>
 <td><p>上半期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Lemon_(米津玄師歌曲)" title="wikilink">Lemon</a></p></td>
+<td><p><a href="../Page/Lemon_(米津玄師歌曲).md" title="wikilink">Lemon</a></p></td>
 <td><p><a href="../Page/米津玄師.md" title="wikilink">米津玄師</a></p></td>
 </tr>
 <tr class="even">
@@ -412,7 +412,7 @@ TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電
 <tr class="odd">
 <td><p>200</p></td>
 <td><p>1997年<a href="../Page/5月4日.md" title="wikilink">5月4日</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Hate_tell_a_lie" title="wikilink">Hate tell a lie</a></p></td>
+<td><p><a href="../Page/Hate_tell_a_lie.md" title="wikilink">Hate tell a lie</a></p></td>
 <td><p><a href="../Page/華原朋美.md" title="wikilink">華原朋美</a></p></td>
 </tr>
 <tr class="even">
@@ -467,7 +467,7 @@ TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電
 <tr class="even">
 <td><p>500</p></td>
 <td><p>2003年<a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KI_(稻葉浩志單曲)" title="wikilink">KI</a>（AKATSUKI／静かな雨／I'm on fire）</p></td>
+<td><p><a href="../Page/KI_(稻葉浩志單曲).md" title="wikilink">KI</a>（AKATSUKI／静かな雨／I'm on fire）</p></td>
 <td><p><a href="../Page/稻葉浩志.md" title="wikilink">稻葉浩志</a></p></td>
 </tr>
 <tr class="odd">
@@ -583,7 +583,7 @@ V6</p></td>
 <tr class="odd">
 <td><p>21週年</p></td>
 <td><p>2014年4月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高山上的蘋果" title="wikilink">高嶺の林檎</a></p></td>
+<td><p><a href="../Page/高山上的蘋果.md" title="wikilink">高嶺の林檎</a></p></td>
 <td><p><a href="../Page/NMB48.md" title="wikilink">NMB48</a></p></td>
 </tr>
 <tr class="even">

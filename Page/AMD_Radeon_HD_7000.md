@@ -832,7 +832,7 @@ Boost: 925</p></td>
 <th><p>記億體 (<a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a>)</p></th>
 <th><p>核心時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>顯示記憶體</p></th>
 <th><p>單精度浮點<br />
 （GFLOPs）</p></th>
@@ -1167,7 +1167,7 @@ GDDR5</p></td>
 <th><p>記億體 (<a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a>)</p></th>
 <th><p>核心時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>顯示記憶體</p></th>
 <th><p>單精度浮點<br />
 （GFLOPs）</p></th>
@@ -1326,7 +1326,7 @@ GDDR5</p></td>
 <th><p>顯示記憶體（<a href="../Page/Mebibyte.md" title="wikilink">MiB</a>）</p></th>
 <th><p>核心時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>單精度浮點（GFLOPS）</p></th>
 <th><p>雙精度浮點（GFLOPS）</p></th>

@@ -27,8 +27,8 @@ Running Man的鼎盛時期大約在2012～2014年，最高收視率曾見21.0%�
 2013年起，Running Man每年也會舉行亞洲巡迴粉絲見面會，受到海外觀眾熱烈歡迎。
 
 2014年5月30日，韓國SBS電視台正式宣布《Running
-Man》將推出中國版，選定中國[浙江衛視為中國版](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")“跑男”的協商對象，計劃共同開發製作。同年7月8日，[浙江衛視與韓國SBS電視台召開記者會](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")，定出新節目的名稱為《[奔跑吧兄弟](https://zh.wikipedia.org/wiki/奔跑吧兄弟 "wikilink")》，該節目已於8月28日正式開拍。\[3\]其中，韓國《Running
-Man》成員曾在《奔跑吧兄弟》節目第一季第五集和第四季第五集中擔任嘉賓（而金鐘國另於第一季第一集以韓國兄弟團代表身分擔任嘉賓以表祝賀，而已經退出的宋仲基則於第四季第七集擔任嘉賓）。直到第五季時因為「限韓令」影響而改版為《[奔跑吧](https://zh.wikipedia.org/wiki/奔跑吧 "wikilink")》，而且不再有任何韓方人員協助共同製作。
+Man》將推出中國版，選定中國[浙江衛視為中國版](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")“跑男”的協商對象，計劃共同開發製作。同年7月8日，[浙江衛視與韓國SBS電視台召開記者會](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")，定出新節目的名稱為《[奔跑吧兄弟](../Page/奔跑吧兄弟.md "wikilink")》，該節目已於8月28日正式開拍。\[3\]其中，韓國《Running
+Man》成員曾在《奔跑吧兄弟》節目第一季第五集和第四季第五集中擔任嘉賓（而金鐘國另於第一季第一集以韓國兄弟團代表身分擔任嘉賓以表祝賀，而已經退出的宋仲基則於第四季第七集擔任嘉賓）。直到第五季時因為「限韓令」影響而改版為《[奔跑吧](../Page/奔跑吧.md "wikilink")》，而且不再有任何韓方人員協助共同製作。
 
 ### 2015－2016年：低谷時期 （收視率低迷、Gary退出、改版風波）
 
@@ -43,13 +43,13 @@ Man》，取消停播決定，六位成員將繼續奔跑\[10\]\[11\]。
 
 ### 2017年－至今：重建時期（梁世燦、全昭旻加入、收視回升、製作動畫版、第二次形式更改、制作越南版）
 
-2017年4月3日，[梁世燦和](https://zh.wikipedia.org/wiki/梁世燦 "wikilink")[全昭旻加入成為](../Page/全昭旻.md "wikilink")《Running
+2017年4月3日，[梁世燦和](../Page/梁世燦.md "wikilink")[全昭旻加入成為](../Page/全昭旻.md "wikilink")《Running
 Man》半固定主持，但全球粉絲對新成員加入持有正反意見。\[12\]\[13\]\[14\]
 
 加入新成員後，Running Man的收視率有明顯改善，維持在約6%至9%之間。
 
 2017年5月14日，官方公布將製作[Running Man
-(動畫版)](https://zh.wikipedia.org/wiki/Running_Man_\(動畫版\) "wikilink")，角色將設定在2013年的動物王國中7位固定成員上，之後也陸續公布了預告片以及找來了[EXO-CBX演唱的主題曲](https://zh.wikipedia.org/wiki/EXO-CBX "wikilink")。動畫版第一季在2017年7月29日開播。
+(動畫版)](../Page/Running_Man_\(動畫版\).md "wikilink")，角色將設定在2013年的動物王國中7位固定成員上，之後也陸續公布了預告片以及找來了[EXO-CBX演唱的主題曲](../Page/EXO-CBX.md "wikilink")。動畫版第一季在2017年7月29日開播。
 
 由2017年年中至年尾，海外拍攝的節目已佔整體節目的一大部份，數目與常規節目看齊。成員和攝製隊在短短半年已到了5個國家進行拍攝，海外拍攝的節目亦受到歡迎，整體收視率有上升的趨勢。
 
@@ -70,7 +70,7 @@ Man》拍攝，預告號稱史上最強遊戲。\[16\]
   - [宋智孝](../Page/宋智孝.md "wikilink")（2010年－至今）
   - [李光洙](../Page/李光洙_\(演員\).md "wikilink")（2010年－至今）
   - [全昭旻](../Page/全昭旻.md "wikilink")（2017年－至今）
-  - [梁世燦](https://zh.wikipedia.org/wiki/梁世燦 "wikilink")（2017年－至今）
+  - [梁世燦](../Page/梁世燦.md "wikilink")（2017年－至今）
 
 ### 已離隊成員
 
@@ -244,7 +244,7 @@ Global Race</p></td>
 整集節目中有經常參與的出演者，無論其以何種身份出演或是否有遊戲勝出權皆視為嘉賓，其他只參與某一環節的出演者則視為「特別出演」或「驚喜出演」於備註欄中列出，而名字則以節目內的名牌為準；如節目於多過一個地標拍攝，會以最終任務場地或最重要的地標作準；主題名稱以節目播出時左上方資料以作標示。有關聯的集數（例如同一主題或同樣的嘉賓）會被視作「
 特輯 」，單一集數則為「 篇 」，播放次數以一「特輯」或一「篇」作計算。
 
-另外，集數欄括號內為官方網頁中《[星期天真好](../Page/星期天真好.md "wikilink")》的總集數；節目曾於2010年10月10日及2011年10月16日因直播韓國職業棒球季後賽超時、2010年11月14日改播SBS創社20週年特輯、2012年7月29日直播[倫敦奧運會賽事](https://zh.wikipedia.org/wiki/2012年夏季奧林匹克運動會 "wikilink")、2014年4月20日及2014年4月27日因[世越號沉沒事故](https://zh.wikipedia.org/wiki/世越號沉沒事故 "wikilink")、2014年9月14日因直播[仁川亞運男足預賽](https://zh.wikipedia.org/wiki/2014年亞洲運動會 "wikilink")、2017年3月12日因直播[朴槿惠搬離青瓦台而停播](https://zh.wikipedia.org/wiki/朴槿惠弹劾案 "wikilink")，以及2018年2月11日因直播[2018年冬季奧運會而停播一周](https://zh.wikipedia.org/wiki/2018年冬季奧林匹克運動會 "wikilink")、2018年2月25日因直播[2018年冬季奧林匹克運動會閉幕式](https://zh.wikipedia.org/wiki/2018年冬季奧林匹克運動會 "wikilink")、2018年10月28日因直播[韓國職棒聯賽赛事而停播一周](../Page/韓國職棒聯賽.md "wikilink")。
+另外，集數欄括號內為官方網頁中《[星期天真好](../Page/星期天真好.md "wikilink")》的總集數；節目曾於2010年10月10日及2011年10月16日因直播韓國職業棒球季後賽超時、2010年11月14日改播SBS創社20週年特輯、2012年7月29日直播[倫敦奧運會賽事](https://zh.wikipedia.org/wiki/2012年夏季奧林匹克運動會 "wikilink")、2014年4月20日及2014年4月27日因[世越號沉沒事故](https://zh.wikipedia.org/wiki/世越號沉沒事故 "wikilink")、2014年9月14日因直播[仁川亞運男足預賽](https://zh.wikipedia.org/wiki/2014年亞洲運動會 "wikilink")、2017年3月12日因直播[朴槿惠搬離青瓦台而停播](../Page/朴槿惠弹劾案.md "wikilink")，以及2018年2月11日因直播[2018年冬季奧運會而停播一周](https://zh.wikipedia.org/wiki/2018年冬季奧林匹克運動會 "wikilink")、2018年2月25日因直播[2018年冬季奧林匹克運動會閉幕式](https://zh.wikipedia.org/wiki/2018年冬季奧林匹克運動會 "wikilink")、2018年10月28日因直播[韓國職棒聯賽赛事而停播一周](../Page/韓國職棒聯賽.md "wikilink")。
 
 ## 節目嘉賓
 
@@ -263,7 +263,7 @@ Man**》調回1部時段，《金妍兒的Kiss &
 Cry》則改為2部；兩家收視調查公司改為以《星期天真好》的整體收視作主數據發佈該日的收視排名，並選擇性發佈單獨收視率\[19\]。
 
 《[減肥淘汰賽
-Victory](https://zh.wikipedia.org/wiki/減肥淘汰賽_Victory "wikilink")》於2011年8月28日接替《金妍兒的Kiss
+Victory](../Page/減肥淘汰賽_Victory.md "wikilink")》於2011年8月28日接替《金妍兒的Kiss
 & Cry》；在播放四星期後（即第62集），《星期天真好》改回分別發佈1部和2部的單獨收視以作排名。
 
 由第71集開始，《[K-pop Star 1](../Page/K-pop_Star_1.md "wikilink")》接替《減肥淘汰賽
@@ -273,7 +273,7 @@ Man**》成為《星期天真好》1部，而《**Running
 Man**》則在一年後再次被調往2部時段，與[KBS](../Page/韓國放送公社.md "wikilink")《[兩天一夜2](../Page/兩天一夜.md "wikilink")》及[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[我是歌手2](https://zh.wikipedia.org/wiki/我是歌手第二季_\(韓國\) "wikilink")》爭奪周日藝能收視冠軍。
 
 2012年12月18日起，《[K-pop Star
-2](https://zh.wikipedia.org/wiki/K-pop_Star_2 "wikilink")》於1部時段啟播。
+2](../Page/K-pop_Star_2.md "wikilink")》於1部時段啟播。
 
 2017年3月19日星期天真好播出最後一集，自3月26日起《**Running
 Man**》成为獨立節目，兩家調查公司改以分別發佈1部2部的單獨收視以作排名。
@@ -464,7 +464,7 @@ Man》十分相似。《奔跑吧兄弟》因受中國禁韓令影響，節目�
 看準節目老少咸宜的特性，以及在海外持續的高人氣，節目單位將根據2013年推出的《動物的王國》特輯設定，由7位成員化身各種動物，主要是以兒童為目標製作預計播出24集，是描寫代表各種動物的選手們，前去參加「Running
 Man
 大賽」角逐冠軍的奇幻冒險故事，事實上也就是將「撕名牌」主題動漫化的呈現，預計於7月底的週末晨間時段開播，甚至還會與通訊軟體LINE合作推出貼圖。\[42\]
-主題曲由[EXO-CBX演唱](https://zh.wikipedia.org/wiki/EXO-CBX "wikilink")。\[43\]
+主題曲由[EXO-CBX演唱](../Page/EXO-CBX.md "wikilink")。\[43\]
 
 #### Running Man：全露露的反擊(動畫電影)
 
@@ -473,8 +473,8 @@ Man
 ### RunningMan Heros
 
 《RunningMan Heroes》為電視動畫[《Running
-Man》動畫版的角色動作手遊](https://zh.wikipedia.org/wiki/Running_Man_\(動畫版\) "wikilink")。遊戲中手遊角色有7個，與[《Running
-Man》相同](https://zh.wikipedia.org/wiki/Running_Man_\(動畫版\) "wikilink")，玩家可以從七個種族的角色中選擇一名，並可以和最多六名的玩家一起進行即時對戰。手遊提供戰鬥到直至剩下最後一人為止的「皇家對戰模式」、分成兩個隊伍一決勝負的「小隊模式」，以及玩家一起協力執行任務的「劇情模式」等豐富的對戰系統。手遊由
+Man》動畫版的角色動作手遊](../Page/Running_Man_\(動畫版\).md "wikilink")。遊戲中手遊角色有7個，與[《Running
+Man》相同](../Page/Running_Man_\(動畫版\).md "wikilink")，玩家可以從七個種族的角色中選擇一名，並可以和最多六名的玩家一起進行即時對戰。手遊提供戰鬥到直至剩下最後一人為止的「皇家對戰模式」、分成兩個隊伍一決勝負的「小隊模式」，以及玩家一起協力執行任務的「劇情模式」等豐富的對戰系統。手遊由
 LINE FRIENDS 開發，NEXON代理，雖然遊戲尚未正式上市，但官方已經於Android系統進行封測。\[44\]
 
 ### RunningMan in Hong Kong
@@ -484,7 +484,7 @@ Man》業餘團隊。\[45\]\[46\]團隊透過網絡招募成員，於2011年9月
 
 ## 同時段競爭節目
 
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[日晚](https://zh.wikipedia.org/wiki/日晚 "wikilink")－[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[日晚](../Page/日晚.md "wikilink")－[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》
   - [KBS](../Page/韓國放送公社.md "wikilink")：《－[-{zh-hans:超人归来;zh-hant:超人歸來;zh-hk:超人回來了}-](../Page/超人歸來_\(韓國綜藝\).md "wikilink")》
 
 ## 註釋

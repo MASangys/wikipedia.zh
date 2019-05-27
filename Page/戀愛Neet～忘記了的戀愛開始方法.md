@@ -23,8 +23,7 @@
 
 <!-- end list -->
 
-  - **渡邊美帆**（32歳） -
-    **[市川實日子](https://zh.wikipedia.org/wiki/市川實日子 "wikilink")**
+  - **渡邊美帆**（32歳） - **[市川實日子](../Page/市川實日子.md "wikilink")**
 
 <!-- end list -->
 
@@ -71,8 +70,7 @@
 
 <!-- end list -->
 
-  - **神山純一郎**（40歳） -
-    **[橋本潤](https://zh.wikipedia.org/wiki/橋本潤 "wikilink")**
+  - **神山純一郎**（40歳） - **[橋本潤](../Page/橋本潤.md "wikilink")**
 
 <!-- end list -->
 

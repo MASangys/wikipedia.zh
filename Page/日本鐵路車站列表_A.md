@@ -176,7 +176,7 @@
 <td><p>Afurijinja-Eki</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/阿分車站" title="wikilink">阿分車站</a></p></td>
+<td><p><a href="../Page/阿分車站.md" title="wikilink">阿分車站</a></p></td>
 <td></td>
 <td><p>Afun-Eki</p></td>
 </tr>
@@ -1840,7 +1840,7 @@ Ariake-Tenisu-No-Nori-Eki</p></td>
 <td><p>Arihata-Eki</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/有馬溫泉車站" title="wikilink">有馬溫泉車站</a></p></td>
+<td><p><a href="../Page/有馬溫泉車站.md" title="wikilink">有馬溫泉車站</a></p></td>
 <td></td>
 <td><p>Arima-Onsen-Eki</p></td>
 </tr>
@@ -1850,7 +1850,7 @@ Ariake-Tenisu-No-Nori-Eki</p></td>
 <td><p>Arimagawa-Eki</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/有馬口車站" title="wikilink">有馬口車站</a></p></td>
+<td><p><a href="../Page/有馬口車站.md" title="wikilink">有馬口車站</a></p></td>
 <td></td>
 <td><p>Arimagichi-Eki</p></td>
 </tr>

@@ -15,12 +15,10 @@ Entertainment組長](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")�
   -
 ### 練習生（與合作）
 
-  - [姜丹尼爾](https://zh.wikipedia.org/wiki/姜丹尼爾 "wikilink") \[1\]（[PRODUCE
-    101
+  - [姜丹尼爾](../Page/姜丹尼爾.md "wikilink") \[1\]（[PRODUCE 101
     (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")、[Wanna
     One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")）
-  - [尹智聖](https://zh.wikipedia.org/wiki/尹智聖 "wikilink") \[2\]（[PRODUCE
-    101
+  - [尹智聖](../Page/尹智聖.md "wikilink") \[2\]（[PRODUCE 101
     (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")、[Wanna
     One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")）
   - 崔泰熊\[3\]（[PRODUCE 101

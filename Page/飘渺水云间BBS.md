@@ -43,7 +43,7 @@
 浙江大学学生使用的其它校内BBS：
 
   - [海纳百川BBS](../Page/海纳百川BBS.md "wikilink")
-  - [CC98论坛](https://zh.wikipedia.org/wiki/CC98论坛 "wikilink")
+  - [CC98论坛](../Page/CC98论坛.md "wikilink")
 
 相关内容：
 

@@ -53,7 +53,7 @@ Google代码搜索可以搜索包括`lang:`、`package:`、`license:`和`file:`�
   - [Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")
   - [Matlab](../Page/MATLAB.md "wikilink")
   - Message catalog
-  - [Modula-2](https://zh.wikipedia.org/wiki/Modula-2 "wikilink")
+  - [Modula-2](../Page/Modula-2.md "wikilink")
   - [Modula-3](../Page/Modula-3.md "wikilink")
   - [Objective-C](../Page/Objective-C.md "wikilink")
   - [OCaml](https://zh.wikipedia.org/wiki/Objective_Caml "wikilink")

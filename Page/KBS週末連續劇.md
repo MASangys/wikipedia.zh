@@ -225,7 +225,7 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 <td style="text-align: center;"><p>22</p></td>
 <td style="text-align: center;"><p><a href="../Page/李丞涓.md" title="wikilink">李丞涓</a>、<a href="../Page/金喜善.md" title="wikilink">金喜善</a>、<a href="../Page/金旻鍾.md" title="wikilink">金旻鍾</a>、<a href="../Page/申鉉濬.md" title="wikilink">申鉉濬</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/尹錫湖.md" title="wikilink">尹錫湖</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔允晶" title="wikilink">崔允晶</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/崔允晶.md" title="wikilink">崔允晶</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -323,7 +323,7 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/有情_(電視劇)" title="wikilink">有情</a><br />
 </p></td>
 <td style="text-align: center;"><p>56</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔智友" title="wikilink">崔智友</a>、<a href="https://zh.wikipedia.org/wiki/盧宙鉉" title="wikilink">盧宙鉉</a>、<a href="../Page/姜富子.md" title="wikilink">姜富子</a>、<a href="../Page/金侖珍.md" title="wikilink">金侖珍</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔智友" title="wikilink">崔智友</a>、<a href="../Page/盧宙鉉.md" title="wikilink">盧宙鉉</a>、<a href="../Page/姜富子.md" title="wikilink">姜富子</a>、<a href="../Page/金侖珍.md" title="wikilink">金侖珍</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴秀東" title="wikilink">朴秀東</a>、<a href="https://zh.wikipedia.org/wiki/李應鎮" title="wikilink">李應鎮</a>、<a href="https://zh.wikipedia.org/wiki/李在祥" title="wikilink">李在祥</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/胡榮玉" title="wikilink">胡榮玉</a>、<a href="https://zh.wikipedia.org/wiki/金明鎬" title="wikilink">金明鎬</a></p></td>
 <td style="text-align: center;"></td>
@@ -447,7 +447,7 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 <td style="text-align: center;"><p>48</p></td>
 <td style="text-align: center;"><p><a href="../Page/李鍾原.md" title="wikilink">李鍾原</a>、<a href="../Page/韓高恩.md" title="wikilink">韓高恩</a>、<a href="../Page/鄭俊.md" title="wikilink">鄭俊</a>、<a href="../Page/李敏英.md" title="wikilink">李敏英</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金勇奎" title="wikilink">金勇奎</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔允晶" title="wikilink">崔允晶</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/崔允晶.md" title="wikilink">崔允晶</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -523,7 +523,7 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/青青草原_(電視劇)" title="wikilink">青青草原</a><br />
 </p></td>
 <td style="text-align: center;"><p>52</p></td>
-<td style="text-align: center;"><p><a href="../Page/崔秀宗.md" title="wikilink">崔秀宗</a>、<a href="../Page/蔡琳.md" title="wikilink">蔡琳</a>、<a href="https://zh.wikipedia.org/wiki/尹泰榮" title="wikilink">尹泰榮</a>、<a href="../Page/蔡貞安.md" title="wikilink">蔡貞安</a>、<a href="../Page/金正蘭.md" title="wikilink">金正蘭</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/崔秀宗.md" title="wikilink">崔秀宗</a>、<a href="../Page/蔡琳.md" title="wikilink">蔡琳</a>、<a href="../Page/尹泰榮.md" title="wikilink">尹泰榮</a>、<a href="../Page/蔡貞安.md" title="wikilink">蔡貞安</a>、<a href="../Page/金正蘭.md" title="wikilink">金正蘭</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴燦弘.md" title="wikilink">朴燦弘</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金志宇.md" title="wikilink">金志宇</a></p></td>
 <td style="text-align: center;"></td>
@@ -545,7 +545,7 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 <td style="text-align: center;"><p><a href="../Page/珍珠項鍊.md" title="wikilink">珍珠項鍊</a><br />
 </p></td>
 <td style="text-align: center;"><p>52</p></td>
-<td style="text-align: center;"><p><a href="../Page/金有美.md" title="wikilink">金有美</a>、<a href="../Page/金旻鍾.md" title="wikilink">金旻鍾</a>、<a href="https://zh.wikipedia.org/wiki/尹泰榮" title="wikilink">尹泰榮</a>、<a href="../Page/金海淑.md" title="wikilink">金海淑</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金有美.md" title="wikilink">金有美</a>、<a href="../Page/金旻鍾.md" title="wikilink">金旻鍾</a>、<a href="../Page/尹泰榮.md" title="wikilink">尹泰榮</a>、<a href="../Page/金海淑.md" title="wikilink">金海淑</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/鄭成孝.md" title="wikilink">鄭成孝</a>、<a href="https://zh.wikipedia.org/wiki/閔俊荷" title="wikilink">閔俊荷</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李德載" title="wikilink">李德載</a></p></td>
 <td style="text-align: center;"></td>
@@ -835,7 +835,7 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 </p></td>
 <td style="text-align: center;"><p>70</p></td>
 <td style="text-align: center;"><p><a href="../Page/安內相.md" title="wikilink">安內相</a>、<a href="../Page/吳大奎.md" title="wikilink">吳大奎</a>、<a href="../Page/李浚赫.md" title="wikilink">李浚赫</a>、<a href="../Page/都知嫄.md" title="wikilink">都知嫄</a>、<a href="https://zh.wikipedia.org/wiki/金熙貞" title="wikilink">金熙貞</a>、<a href="https://zh.wikipedia.org/wiki/吳智恩" title="wikilink">吳智恩</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳亨旭" title="wikilink">陳亨旭</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/陳亨旭.md" title="wikilink">陳亨旭</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/文英南.md" title="wikilink">文英南</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -923,9 +923,9 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 <td style="text-align: center;"><p><a href="../Page/烏鵲橋兄弟.md" title="wikilink">烏鵲橋兄弟</a><br />
 </p></td>
 <td style="text-align: center;"><p>58</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/U-ie" title="wikilink">U-ie</a>、<a href="../Page/周元_(韓國).md" title="wikilink">周元</a>、<a href="../Page/白一燮.md" title="wikilink">白一燮</a>、<a href="../Page/金慈玉.md" title="wikilink">金慈玉</a>、<a href="https://zh.wikipedia.org/wiki/金容琳" title="wikilink">金容琳</a>、<a href="../Page/鄭雄仁.md" title="wikilink">鄭雄仁</a>、<a href="../Page/柳秀榮.md" title="wikilink">柳秀榮</a>、<a href="https://zh.wikipedia.org/wiki/崔貞允" title="wikilink">崔貞允</a>、<a href="../Page/延宇振.md" title="wikilink">延宇振</a>、<a href="../Page/趙美玲.md" title="wikilink">趙美玲</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/U-ie" title="wikilink">U-ie</a>、<a href="../Page/周元_(韓國).md" title="wikilink">周元</a>、<a href="../Page/白一燮.md" title="wikilink">白一燮</a>、<a href="../Page/金慈玉.md" title="wikilink">金慈玉</a>、<a href="../Page/金容琳.md" title="wikilink">金容琳</a>、<a href="../Page/鄭雄仁.md" title="wikilink">鄭雄仁</a>、<a href="../Page/柳秀榮.md" title="wikilink">柳秀榮</a>、<a href="https://zh.wikipedia.org/wiki/崔貞允" title="wikilink">崔貞允</a>、<a href="../Page/延宇振.md" title="wikilink">延宇振</a>、<a href="../Page/趙美玲.md" title="wikilink">趙美玲</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/奇民秀" title="wikilink">奇民秀</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李晶善" title="wikilink">李晶善</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李晶善.md" title="wikilink">李晶善</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -963,7 +963,7 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 </p></td>
 <td style="text-align: center;"><p>58</p></td>
 <td style="text-align: center;"><p><a href="../Page/金南珠_(1971年).md" title="wikilink">金南珠</a>、<a href="../Page/劉俊相.md" title="wikilink">劉俊相</a>、<a href="../Page/尹汝貞.md" title="wikilink">尹汝貞</a>、<a href="../Page/姜富子.md" title="wikilink">姜富子</a>、<a href="../Page/張勇_(演員).md" title="wikilink">張勇</a>、<a href="https://zh.wikipedia.org/wiki/趙允熙" title="wikilink">趙允熙</a>、<a href="../Page/梁瀞疋.md" title="wikilink">梁瀞疋</a>、<a href="../Page/俞知仁.md" title="wikilink">俞知仁</a>、<a href="../Page/楊姬瓊.md" title="wikilink">楊姬瓊</a>、<a href="../Page/金英蘭.md" title="wikilink">金英蘭</a>、<a href="../Page/羅映姬.md" title="wikilink">羅映姬</a>、<a href="../Page/金相浩.md" title="wikilink">金相浩</a>、<a href="../Page/李熙俊.md" title="wikilink">李熙俊</a>、<a href="../Page/吳漣序.md" title="wikilink">吳漣序</a>、<a href="../Page/姜敏赫.md" title="wikilink">姜敏赫</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金亨錫" title="wikilink">金亨錫</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金亨錫.md" title="wikilink">金亨錫</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴智恩_(編劇).md" title="wikilink">朴智恩</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1024,7 +1024,7 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 </p></td>
 <td style="text-align: center;"><p>50</p></td>
 <td style="text-align: center;"><p><a href="../Page/羅文姬.md" title="wikilink">羅文姬</a>、<a href="../Page/張勇_(演員).md" title="wikilink">張勇</a>、<a href="../Page/金海淑.md" title="wikilink">金海淑</a>、<a href="../Page/吳賢慶.md" title="wikilink">吳賢慶</a>、<a href="../Page/趙成夏.md" title="wikilink">趙成夏</a>、<a href="../Page/李泰蘭.md" title="wikilink">李泰蘭</a>、<a href="../Page/吳萬石.md" title="wikilink">吳萬石</a>、<a href="../Page/李允智.md" title="wikilink">李允智</a>、<a href="../Page/韓周完.md" title="wikilink">韓周完</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳亨旭" title="wikilink">陳亨旭</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/陳亨旭.md" title="wikilink">陳亨旭</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/文英南.md" title="wikilink">文英南</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1124,7 +1124,7 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 </p></td>
 <td style="text-align: center;"><p>54</p></td>
 <td style="text-align: center;"><p><a href="../Page/柳真.md" title="wikilink">柳真</a>、<a href="../Page/李尚禹.md" title="wikilink">李尚禹</a>、<a href="../Page/高斗心.md" title="wikilink">高斗心</a>、<a href="../Page/金甲洙.md" title="wikilink">金甲洙</a>、<a href="../Page/金美淑.md" title="wikilink">金美淑</a>、<a href="https://zh.wikipedia.org/wiki/宋承煥" title="wikilink">宋承煥</a>、<a href="../Page/金英玉.md" title="wikilink">金英玉</a>、<a href="https://zh.wikipedia.org/wiki/吳閔碩" title="wikilink">吳閔碩</a>、<a href="../Page/孫汝恩.md" title="wikilink">孫汝恩</a>、<a href="../Page/崔泰俊.md" title="wikilink">崔泰俊</a>、<a href="../Page/趙寶兒.md" title="wikilink">趙寶兒</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李健俊" title="wikilink">李健俊</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李健俊.md" title="wikilink">李健俊</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹景雅" title="wikilink">尹景雅</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1209,21 +1209,21 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 <tr class="odd">
 <td style="text-align: center;"><p>2017年3月4日－<br />
 2017年8月27日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/爸爸好奇怪" title="wikilink">爸爸好奇怪</a><br />
+<td style="text-align: center;"><p><a href="../Page/爸爸好奇怪.md" title="wikilink">爸爸好奇怪</a><br />
 </p></td>
 <td style="text-align: center;"><p>52</p></td>
 <td style="text-align: center;"><p><a href="../Page/李準_(歌手).md" title="wikilink">李準</a>、<a href="../Page/李幼梨.md" title="wikilink">李幼梨</a>、<a href="../Page/柳秀榮.md" title="wikilink">柳秀榮</a>、<a href="../Page/庭沼珉.md" title="wikilink">庭沼珉</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李在尚" title="wikilink">李在尚</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李晶善" title="wikilink">李晶善</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李晶善.md" title="wikilink">李晶善</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2017年9月2日－<br />
 2018年3月11日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/我的黃金光輝人生" title="wikilink">我的黃金光輝人生</a><br />
+<td style="text-align: center;"><p><a href="../Page/我的黃金光輝人生.md" title="wikilink">我的黃金光輝人生</a><br />
 </p></td>
 <td style="text-align: center;"><p>52</p></td>
-<td style="text-align: center;"><p><a href="../Page/朴施厚.md" title="wikilink">朴施厚</a>、<a href="../Page/申惠善.md" title="wikilink">申惠善</a>、<a href="../Page/李泰煥.md" title="wikilink">李泰煥</a>、<a href="https://zh.wikipedia.org/wiki/徐恩秀" title="wikilink">徐恩秀</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朴施厚.md" title="wikilink">朴施厚</a>、<a href="../Page/申惠善.md" title="wikilink">申惠善</a>、<a href="../Page/李泰煥.md" title="wikilink">李泰煥</a>、<a href="../Page/徐恩秀.md" title="wikilink">徐恩秀</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金亨碩" title="wikilink">金亨碩</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/蘇賢京.md" title="wikilink">蘇賢京</a></p></td>
 <td style="text-align: center;"></td>
@@ -1259,7 +1259,7 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 <tr class="odd">
 <td style="text-align: center;"><p>2018年3月17日－<br />
 2018年9月9日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/一起生活吧" title="wikilink">一起生活吧</a><br />
+<td style="text-align: center;"><p><a href="../Page/一起生活吧.md" title="wikilink">一起生活吧</a><br />
 </p></td>
 <td style="text-align: center;"><p>50</p></td>
 <td style="text-align: center;"><p><a href="../Page/劉東根.md" title="wikilink">劉東根</a>、<a href="../Page/張美姬.md" title="wikilink">張美姬</a>、<a href="../Page/韓智慧.md" title="wikilink">韓智慧</a>、<a href="../Page/李尚禹.md" title="wikilink">李尚禹</a></p></td>
@@ -1270,7 +1270,7 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 <tr class="even">
 <td style="text-align: center;"><p>2018年9月15日－<br />
 2019年3月17日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/我唯一的守護者" title="wikilink">我唯一的守護者</a><br />
+<td style="text-align: center;"><p><a href="../Page/我唯一的守護者.md" title="wikilink">我唯一的守護者</a><br />
 </p></td>
 <td style="text-align: center;"><p>106</p></td>
 <td style="text-align: center;"><p><a href="../Page/崔秀宗.md" title="wikilink">崔秀宗</a>、<a href="../Page/Uie.md" title="wikilink">Uie</a>、<a href="../Page/李章宇.md" title="wikilink">李章宇</a>、<a href="../Page/尹真伊.md" title="wikilink">尹真伊</a></p></td>
@@ -1309,7 +1309,7 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 <tr class="odd">
 <td style="text-align: center;"><p>2019年3月23日－<br />
 2019年月日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/我世上最漂亮的女兒" title="wikilink">我世上最漂亮的女兒</a><br />
+<td style="text-align: center;"><p><a href="../Page/我世上最漂亮的女兒.md" title="wikilink">我世上最漂亮的女兒</a><br />
 </p></td>
 <td style="text-align: center;"><p>100</p></td>
 <td style="text-align: center;"><p><a href="../Page/金海淑.md" title="wikilink">金海淑</a>、<a href="../Page/金素妍.md" title="wikilink">金素妍</a>、<a href="../Page/洪宗玄.md" title="wikilink">洪宗玄</a>、<a href="../Page/裕善.md" title="wikilink">裕善</a>、金荷京</p></td>

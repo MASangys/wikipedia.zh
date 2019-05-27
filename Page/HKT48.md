@@ -106,15 +106,15 @@ Espacio”（）做为备用剧场。新專屬劇場預計將在2020年春季於
     H隊長，而新Team KIV隊長則為多田愛佳\[31\]。
   - 1月26日，於TOKYO DOME CITY HALL舉辦的「[AKB48 重溫時間 最佳曲目200
     2014（200位-101位）](../Page/AKB48_重溫時間_最佳曲目200_2014.md "wikilink")」第四日演唱會中，宣布將於2月24日舉辦「AKB48集團大組閣祭」，新制將以大組閣新公布之隊伍分布內容為準\[32\]。
-  - 2月24日，於舉辦的「[AKB48集團大組閣祭](https://zh.wikipedia.org/wiki/AKB48集團大組閣祭 "wikilink")」中，宣布指原莉乃續任HKT48劇場經理，新Team
+  - 2月24日，於舉辦的「[AKB48集團大組閣祭](../Page/AKB48集團大組閣祭.md "wikilink")」中，宣布指原莉乃續任HKT48劇場經理，新Team
     H與新Team KIV隊長人選與轉班相同，同時新增副隊長職位，新Team H為松岡菜摘，新Team
     KIV為宮脇咲良，此外亦發表了成員之兼任與移籍，還有研究生升格\[33\]。
-  - 3月12日，發行第3張單曲《[櫻花，大家一起來品嚐](https://zh.wikipedia.org/wiki/櫻花，大家一起來品嚐 "wikilink")》\[34\]，此也成為HKT48隊伍重組前的最後一支單曲。
+  - 3月12日，發行第3張單曲《[櫻花，大家一起來品嚐](../Page/櫻花，大家一起來品嚐.md "wikilink")》\[34\]，此也成為HKT48隊伍重組前的最後一支單曲。
   - 4月5日，於「[AKB48集團埼玉超級競技場春季演唱會](../Page/AKB48集團埼玉超級競技場春季演唱會.md "wikilink")」的HKT48單獨演出場次中宣布各隊千秋樂與初日的時間表\[35\]。
   - 8月25日，在[台北](../Page/臺北市.md "wikilink")[青少年育樂中心舉行首次](https://zh.wikipedia.org/wiki/臺北市青少年育樂中心 "wikilink")[台灣歌迷見面活動](https://zh.wikipedia.org/wiki/台灣 "wikilink")，由[穴井千尋](../Page/穴井千尋.md "wikilink")、[兒玉遙](../Page/兒玉遙.md "wikilink")、[森保圓等](../Page/森保圓.md "wikilink")3名成員出席\[36\]。活動中同時發表將於同年12月7日在台北[ATT
     SHOW
     BOX舉行首次台灣公演](../Page/ATT_4_FUN.md "wikilink")\[37\]；隔日則在香港的歌迷見面活動上宣布將於2015年1月17日在[麥花臣場館舉行首次香港公演](../Page/麥花臣匯.md "wikilink")\[38\]。這兩場公演不但是HKT48首次的海外公演，也是AKB48集團在台港兩地首次舉行演唱會。
-  - 9月24日，發行第4張單曲《[有所保留的我愛你！](https://zh.wikipedia.org/wiki/有所保留的我愛你！ "wikilink")》\[39\]。
+  - 9月24日，發行第4張單曲《[有所保留的我愛你！](../Page/有所保留的我愛你！.md "wikilink")》\[39\]。
   - 12月7日，於台北ATT SHOW
     BOX舉行首次台灣公演「HKT48日本巡迴演唱會～日本統一還沒結束耶～番外篇in台北」，並出現HKT48演唱會首次的W安可（兩次[安可](../Page/安可.md "wikilink")）\[40\]。此外，並先行在前一天（12月6日）晚間於[台北101的](../Page/台北101.md "wikilink")91樓戶外觀景台舉辦「前夜祭」為公演暖身\[41\]。全員47人皆參與兩場活動的演出\[42\]。
 
@@ -132,27 +132,27 @@ Espacio”（）做为备用剧场。新專屬劇場預計將在2020年春季於
   - 7月11日，在演唱会「HKT48夏之Hall Tour2016～HKT要从AKB48
     家族脱离？国民投票演唱会～」上，宣佈穴井千寻畢業後的Team
     H隊長職缺，由副隊長松岡菜摘接任。
-  - 9月7日，發行第8張單曲《[最棒了唷](https://zh.wikipedia.org/wiki/最棒了唷 "wikilink")》。
+  - 9月7日，發行第8張單曲《[最棒了唷](../Page/最棒了唷.md "wikilink")》。
 
 ### 2017年
 
-  - 2月15日，發行第9張單曲《[BUG也無妨](https://zh.wikipedia.org/wiki/BUG也無妨 "wikilink")》\[47\]。
+  - 2月15日，發行第9張單曲《[BUG也無妨](../Page/BUG也無妨.md "wikilink")》\[47\]。
   - 4月10日，多田愛佳畢業\[48\]。在畢業演唱會上被指名的本村碧唯就任Team KIV第2任隊長。
-  - 8月2日，發行第10張單曲《[接吻真的只能慢慢來嗎？](https://zh.wikipedia.org/wiki/接吻真的只能慢慢來嗎？ "wikilink")》，MV導演為19歲的大學生\[49\]。中心成員由松岡花擔任。
+  - 8月2日，發行第10張單曲《[接吻真的只能慢慢來嗎？](../Page/接吻真的只能慢慢來嗎？.md "wikilink")》，MV導演為19歲的大學生\[49\]。中心成員由松岡花擔任。
   - 9月4日，Team H「劇場的女神」公演於Papillon 24 gas
     hall舉行，此场馆正式作为HKT48劇場使用\[50\]\[51\]。
   - 9月22日－23日，「HKT48新生代成員演唱會 in 博多座
     〜未來掌握在我們的手中…〜」於博多座舉行。演出成員平均年齡17歲，成為博多座有史以來於該地舉辦演唱會的最年少偶像團體\[52\]。
   - 11月24日－26日，於西鐵表演廳舉辦為期3天的「HKT48
     6週年～LOVE\&PEACE！一路走來，已經ROCK週年了喲（「ROCK」音似6的日文發音）…～」。營運單位於26日舉辦的「6週年特別紀念公演」中，正式宣布4期研究生（運上弘菜、小田彩加、堺萌香、清水梨央、武田智加、地頭江音音、月足天音、豐永阿紀、松本日向、宮崎想乃）全員昇格\[53\]。
-  - 12月27日，發行首張原創專輯《[092](https://zh.wikipedia.org/wiki/092 "wikilink")》\[54\]。
+  - 12月27日，發行首張原創專輯《[092](../Page/092.md "wikilink")》\[54\]。
 
 ### 2018年
 
   - 1月23日，Team KIV舉辦 「最終鐘聲鳴響」最終場公演\[55\]。
   - 1月29日，Team KIV舉辦首場「制服之芽」公演。此公演原為SKE48的劇場公演，這次是首度由其它组合演出\[56\]。
   - 2月5日，於福岡市中央區渡邊通的劇場「Skala espacio」舉辦首場公演（向日葵組「正在戀愛中」公演）\[57\]。
-  - 5月2日，發行第11張單曲《[快進的日曆](https://zh.wikipedia.org/wiki/快進的日曆 "wikilink")》\[58\]。首周銷量16.5萬張，第11度獲得Oricon公信榜週榜首位，同時刷新自己保持的「出道以來全單曲奪冠」第1名的榜單紀錄\[59\]。
+  - 5月2日，發行第11張單曲《[快進的日曆](../Page/快進的日曆.md "wikilink")》\[58\]。首周銷量16.5萬張，第11度獲得Oricon公信榜週榜首位，同時刷新自己保持的「出道以來全單曲奪冠」第1名的榜單紀錄\[59\]。
 
 ### 2019年
 
@@ -545,7 +545,7 @@ DANCE SCHOOL S.S.M出身[68]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/今村麻莉愛" title="wikilink">今村麻莉愛</a></p></td>
+<td><p><a href="../Page/今村麻莉愛.md" title="wikilink">今村麻莉愛</a></p></td>
 <td></td>
 <td></td>
 <td><p>選秀<br />
@@ -864,7 +864,7 @@ DANCE SCHOOL S.S.M出身[68]</p></td>
 
 ### IZ\*ONE專任成員
 
-2018年10月29日起專任[IZ\*ONE成員](https://zh.wikipedia.org/wiki/IZ*ONE "wikilink")\[70\]。
+2018年10月29日起專任[IZ\*ONE成員](../Page/IZ*ONE.md "wikilink")\[70\]。
 
 <table>
 <thead>
@@ -899,7 +899,7 @@ DANCE SCHOOL S.S.M出身[68]</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/矢吹奈子" title="wikilink">矢吹奈子</a></p></td>
+<td><p><a href="../Page/矢吹奈子.md" title="wikilink">矢吹奈子</a></p></td>
 <td></td>
 <td></td>
 <td><p>3期</p></td>
@@ -1294,7 +1294,7 @@ DANCE SCHOOL S.S.M出身[68]</p></td>
 <td><p>-</p></td>
 <td><p>因違反招募規定被取消資格<br />
 曾為<a href="https://zh.wikipedia.org/wiki/iDOL_Street" title="wikilink">iDOL Street的候補生</a><br />
-現為指原莉乃擔任製作人的聲優偶像團體<a href="https://zh.wikipedia.org/wiki/=LOVE" title="wikilink">=LOVE的成員</a></p></td>
+現為指原莉乃擔任製作人的聲優偶像團體<a href="../Page/=LOVE.md" title="wikilink">=LOVE的成員</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -2284,16 +2284,16 @@ Team H中西智代梨移籍至AKB48 Team A<br />
 
 ### 歷任各隊正副隊長
 
-| Team H                                                        | Team KIV               | Team TII              | 參考資料 |
-| ------------------------------------------------------------- | ---------------------- | --------------------- | ---- |
-| 隊長                                                            | 副隊長                    | 隊長                    | 副隊長  |
-| 穴井千尋                                                          | （尚未設置）                 | Team H成立\[97\]        |      |
-| [第一次組閣](https://zh.wikipedia.org/wiki/AKB48集團大組閣祭 "wikilink") |                        |                       |      |
-| 穴井千尋                                                          | 松岡菜摘                   | 多田愛佳                  | 宮脇咲良 |
-| 山下艾米麗                                                         | 外薗葉月                   | Team TII成立\[98\]      |      |
-| 松岡菜摘                                                          | （懸缺）                   | 穴井千尋畢業並指名松岡菜摘接任\[99\] |      |
-| 本村碧唯                                                          | 多田愛佳畢業並指名本村碧唯接任\[100\] |                       |      |
-| （懸缺）                                                          | 宮脇咲良暫停活動並專任IZ\*ONE成員   |                       |      |
+| Team H                                     | Team KIV               | Team TII              | 參考資料 |
+| ------------------------------------------ | ---------------------- | --------------------- | ---- |
+| 隊長                                         | 副隊長                    | 隊長                    | 副隊長  |
+| 穴井千尋                                       | （尚未設置）                 | Team H成立\[97\]        |      |
+| [第一次組閣](../Page/AKB48集團大組閣祭.md "wikilink") |                        |                       |      |
+| 穴井千尋                                       | 松岡菜摘                   | 多田愛佳                  | 宮脇咲良 |
+| 山下艾米麗                                      | 外薗葉月                   | Team TII成立\[98\]      |      |
+| 松岡菜摘                                       | （懸缺）                   | 穴井千尋畢業並指名松岡菜摘接任\[99\] |      |
+| 本村碧唯                                       | 多田愛佳畢業並指名本村碧唯接任\[100\] |                       |      |
+| （懸缺）                                       | 宮脇咲良暫停活動並專任IZ\*ONE成員   |                       |      |
 
 ## 唱片
 
@@ -2365,7 +2365,7 @@ CD</p></td>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2014年3月12日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/櫻花，大家一起來品嚐" title="wikilink">櫻花，大家一起來品嚐</a>》<br />
+<td><p>《<a href="../Page/櫻花，大家一起來品嚐.md" title="wikilink">櫻花，大家一起來品嚐</a>》<br />
 （）</p></td>
 <td><p>1</p></td>
 <td><p>25</p></td>
@@ -2379,7 +2379,7 @@ CD</p></td>
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2014年9月24日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/有所保留的我愛你！" title="wikilink">有所保留的我愛你！</a>》<br />
+<td><p>《<a href="../Page/有所保留的我愛你！.md" title="wikilink">有所保留的我愛你！</a>》<br />
 （）</p></td>
 <td><p>1</p></td>
 <td><p>22</p></td>
@@ -2438,7 +2438,7 @@ CD</p></td>
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>2016年9月7日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/最棒了唷" title="wikilink">最棒了唷</a>》<br />
+<td><p>《<a href="../Page/最棒了唷.md" title="wikilink">最棒了唷</a>》<br />
 （）</p></td>
 <td><p>1</p></td>
 <td><p>22</p></td>
@@ -2449,7 +2449,7 @@ CD</p></td>
 <tr class="even">
 <td><p>9</p></td>
 <td><p>2017年2月15日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/BUG也無妨" title="wikilink">BUG也無妨</a>》<br />
+<td><p>《<a href="../Page/BUG也無妨.md" title="wikilink">BUG也無妨</a>》<br />
 （）</p></td>
 <td><p>1</p></td>
 <td><p>24</p></td>
@@ -2460,7 +2460,7 @@ CD</p></td>
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>2017年8月2日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/接吻真的只能慢慢來嗎？" title="wikilink">接吻真的只能慢慢來嗎？</a>》<br />
+<td><p>《<a href="../Page/接吻真的只能慢慢來嗎？.md" title="wikilink">接吻真的只能慢慢來嗎？</a>》<br />
 （）</p></td>
 <td><p>1</p></td>
 <td><p>18</p></td>
@@ -2471,7 +2471,7 @@ CD</p></td>
 <tr class="even">
 <td><p>11</p></td>
 <td><p>2018年5月2日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/快進的日曆" title="wikilink">快進的日曆</a>》<br />
+<td><p>《<a href="../Page/快進的日曆.md" title="wikilink">快進的日曆</a>》<br />
 （）</p></td>
 <td><p>1</p></td>
 <td><p>23</p></td>
@@ -2536,7 +2536,7 @@ JAPAN<br />
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2017年12月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/092" title="wikilink">092</a></p></td>
+<td><p><a href="../Page/092.md" title="wikilink">092</a></p></td>
 <td><p>1</p></td>
 <td><p>15</p></td>
 <td><p>122,262張</p></td>
@@ -2748,7 +2748,7 @@ Blu-ray</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/VAP" title="wikilink">VAP發行</a></p></td>
+<td><p><a href="../Page/VAP.md" title="wikilink">VAP發行</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2871,7 +2871,7 @@ VPBF-10974</p></td>
 （）</p></td>
 <td><p>電視廣告曲：<a href="https://zh.wikipedia.org/wiki/東京單軌電車" title="wikilink">東京單軌電車</a>《羽田直達 單軌電車派》（）篇<br />
 <a href="../Page/TBS電視台.md" title="wikilink">TBS電視台</a>《<a href="https://zh.wikipedia.org/wiki/HKT48的御出掛！" title="wikilink">HKT48的御出掛！</a>》片尾曲</p></td>
-<td><p>第三張單曲《<a href="https://zh.wikipedia.org/wiki/櫻花，大家一起來品嚐" title="wikilink">櫻花，大家一起來品嚐</a>》</p></td>
+<td><p>第三張單曲《<a href="../Page/櫻花，大家一起來品嚐.md" title="wikilink">櫻花，大家一起來品嚐</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p>《你怎麼了？》<br />
@@ -2969,7 +2969,7 @@ H與安陪恭加、今田美奈、仲西彩佳、深川舞子等研究生。
   - 《[AKB48
     SHOW\!](../Page/AKB48_SHOW!.md "wikilink")》（[NHK](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")）：AKB48的主要冠名節目，包括HKT48在內的其他姊妹團體成員都會不定期參與。HKT48的成員是在2013年10月5日在該節目中首度登場。
   - 《[PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》（韩国）：参与成员有[松冈菜摘](https://zh.wikipedia.org/wiki/松冈菜摘 "wikilink")、[本村碧唯](../Page/本村碧唯.md "wikilink")、[村川绯杏](https://zh.wikipedia.org/wiki/村川绯杏 "wikilink")、[宫脇咲良](https://zh.wikipedia.org/wiki/宫脇咲良 "wikilink")、[荒卷美咲](https://zh.wikipedia.org/wiki/荒卷美咲 "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")、[今田美奈](https://zh.wikipedia.org/wiki/今田美奈 "wikilink")、[月足天音](https://zh.wikipedia.org/wiki/月足天音 "wikilink")、[栗原纱英](https://zh.wikipedia.org/wiki/栗原纱英 "wikilink")、[田中美久等](../Page/田中美久_\(HKT48\).md "wikilink")10人。
+    48](../Page/PRODUCE_48.md "wikilink")》（韩国）：参与成员有[松冈菜摘](https://zh.wikipedia.org/wiki/松冈菜摘 "wikilink")、[本村碧唯](../Page/本村碧唯.md "wikilink")、[村川绯杏](https://zh.wikipedia.org/wiki/村川绯杏 "wikilink")、[宫脇咲良](https://zh.wikipedia.org/wiki/宫脇咲良 "wikilink")、[荒卷美咲](https://zh.wikipedia.org/wiki/荒卷美咲 "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[今田美奈](https://zh.wikipedia.org/wiki/今田美奈 "wikilink")、[月足天音](https://zh.wikipedia.org/wiki/月足天音 "wikilink")、[栗原纱英](https://zh.wikipedia.org/wiki/栗原纱英 "wikilink")、[田中美久等](../Page/田中美久_\(HKT48\).md "wikilink")10人。
   - 《》（，日本電視台）：自2018年7月16日起，於每週一深夜播出，是HKT48在日本電視台的第四檔冠名節目。
 
 <!-- end list -->
@@ -2993,8 +2993,8 @@ H與安陪恭加、今田美奈、仲西彩佳、深川舞子等研究生。
   - 《[HKT48的御出掛！](https://zh.wikipedia.org/wiki/HKT48的御出掛！ "wikilink")》（，[TBS電視台](../Page/TBS電視台.md "wikilink")）：從2013年1月25日至2017年6月29日，於每週三深夜播出（初期為每週五深夜），也是面向日本全國播出的冠名節目。
   - 《[HKT48豚骨魔法少女學院](https://zh.wikipedia.org/wiki/HKT48豚骨魔法少女學院 "wikilink")》（），2013年7月2日－9月18日，日本電視台）：HKT48與[乃木坂46的共同合作企畫節目](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")《[乃木坂46×HKT48
     冠名節目對決！](../Page/乃木坂46×HKT48_冠名節目對決！.md "wikilink")》（）之一部分，與乃木坂46的《[NOGIBINGO\!](../Page/NOGIBINGO!.md "wikilink")》是在同一個時段內播出，但兩節目播放順序不定，將依照當週的節目表現由特別來賓選出其認為較有趣的一方，得勝方的節目會在下一週獲得先播資格。
-  - 《》（，[NOTTV](https://zh.wikipedia.org/wiki/NOTTV "wikilink")）：2014年5月20日開始於隔週二播出。
-  - 《[AKB48的你、是誰？](https://zh.wikipedia.org/wiki/AKB48的你、是誰？ "wikilink")》（[NOTTV](https://zh.wikipedia.org/wiki/NOTTV "wikilink")）：AKB48的主要冠名節目，包括HKT48在內的其他姊妹團體成員都會不定期參與。HKT48的成員是在2013年1月30日在該節目中首度登場。
+  - 《》（，[NOTTV](../Page/NOTTV.md "wikilink")）：2014年5月20日開始於隔週二播出。
+  - 《[AKB48的你、是誰？](https://zh.wikipedia.org/wiki/AKB48的你、是誰？ "wikilink")》（[NOTTV](../Page/NOTTV.md "wikilink")）：AKB48的主要冠名節目，包括HKT48在內的其他姊妹團體成員都會不定期參與。HKT48的成員是在2013年1月30日在該節目中首度登場。
   - 《[HKT48的炸牛蒡！](../Page/HKT48的炸牛蒡！.md "wikilink")》（，西日本電視台）：從2014年5月24日到2016年3月27日，於每週六中午播出。
   - 《》（，九州朝日放送）：2014年7月4日開始於每週五播出。
   - 《[HKT48 vs NGT48
@@ -3235,7 +3235,7 @@ H與安陪恭加、今田美奈、仲西彩佳、深川舞子等研究生。
   - 合格名單：
     **荒巻美咲**、**栗原紗英**、**坂本愛玲菜**、**田中美久**、筒井莉子、**外薗葉月**、**矢吹奈子**、**山內祐奈**、**山下艾米麗**
   - 主要暫定合格名單：
-    [倉野尾成美](https://zh.wikipedia.org/wiki/倉野尾成美 "wikilink")\[112\]（AKB48）
+    [倉野尾成美](../Page/倉野尾成美.md "wikilink")\[112\]（AKB48）
 
 ### HKT48四期生徵選
 
@@ -3264,7 +3264,7 @@ H與安陪恭加、今田美奈、仲西彩佳、深川舞子等研究生。
   - 合格名單：
     **運上弘菜**、**小田彩加**、**堺萌香**、**清水梨央**、**武田智加**、**地頭江音音**、**月足天音**、**豐永阿紀**、**松本日向**、**宮崎想乃**
   - 取消資格名單：
-    音嶋莉沙\[116\]（[=LOVE](https://zh.wikipedia.org/wiki/=LOVE "wikilink")）\[117\]
+    音嶋莉沙\[116\]（[=LOVE](../Page/=LOVE.md "wikilink")）\[117\]
   - 主要不合格名單：
     市岡愛弓\[118\]（STU48）、土路生優里\[119\]（STU48）
 
@@ -3288,7 +3288,7 @@ H與安陪恭加、今田美奈、仲西彩佳、深川舞子等研究生。
 HKT48講座：2018年6月24日（地點：福岡市Espacio）－獲選報名者可無條件通過二次審査\[122\]。出席成員：松岡菜摘、本村碧唯、山下艾米麗、今村麻莉愛、坂口理子、田中菜津美、田中美久、豐永阿紀。主持人：小雪
 
 :\*
-[SHOWROOM部門](https://zh.wikipedia.org/wiki/SHOWROOM "wikilink")：2018年8月20日17時00分－8月28日19時59分\[123\]
+[SHOWROOM部門](../Page/SHOWROOM.md "wikilink")：2018年8月20日17時00分－8月28日19時59分\[123\]
 
 :\* 最終審査－舞蹈、歌唱：2018年9月2日\[124\]
 

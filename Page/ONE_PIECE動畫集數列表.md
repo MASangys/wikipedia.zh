@@ -7407,7 +7407,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 <tr class="even">
 <td><p>SP2015夏</p></td>
 <td><p><br />
-<small><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜" title="wikilink">薩波特別篇 〜三兄弟的羈絆 奇跡的再會和被繼承的意志〜</a></small></p></td>
+<small><a href="../Page/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜.md" title="wikilink">薩波特別篇 〜三兄弟的羈絆 奇跡的再會和被繼承的意志〜</a></small></p></td>
 <td><p>上坂浩彦</p></td>
 <td><p>廣嶋秀樹<br />
 佐藤宏幸<br />

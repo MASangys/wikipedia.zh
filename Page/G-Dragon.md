@@ -84,7 +84,7 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/權志龍_(專輯)" title="wikilink">權志龍</a></strong>》</p>
+<td><p>《<strong><a href="../Page/權志龍_(專輯).md" title="wikilink">權志龍</a></strong>》</p>
 <ul>
 <li>發行日期：2017年6月8日</li>
 <li>語言：韓語</li>
@@ -350,17 +350,17 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
   - [Skrillex](https://zh.wikipedia.org/wiki/Skrillex "wikilink")〈Dirty
     Vibe〉(ft. [CL](https://zh.wikipedia.org/wiki/李彩麟 "wikilink"))
   - [太陽](../Page/太陽_\(歌手\).md "wikilink")〈Stay with me〉(Rap)
-  - 황태지黃太志(With.[光熙](https://zh.wikipedia.org/wiki/ZE:A "wikilink")&[太陽](../Page/太陽_\(歌手\).md "wikilink"))
+  - 황태지黃太志(With.[光熙](../Page/ZE:A.md "wikilink")&[太陽](../Page/太陽_\(歌手\).md "wikilink"))
     〈맙소사 我的天〉
   - [Baauer](https://zh.wikipedia.org/wiki/Baauer "wikilink") - Temple
     (Rap)(與[M.I.A.](../Page/M.I.A..md "wikilink"))
   - Okasian - 百萬元
-    (Rap)(與[CL](https://zh.wikipedia.org/wiki/李彩麟 "wikilink")、[BewhY](https://zh.wikipedia.org/wiki/BewhY "wikilink"))
+    (Rap)(與[CL](https://zh.wikipedia.org/wiki/李彩麟 "wikilink")、[BewhY](../Page/BewhY.md "wikilink"))
   - [Zion.T](../Page/Zion.T.md "wikilink") - Complex (Rap)
   - [IU](../Page/IU_\(艺人\).md "wikilink") - Palette (Rap)
   - [PSY](../Page/PSY.md "wikilink") - 팩트폭행 (Rap)
 
-### [韓國音樂著作權協會](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
+### [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
 
 | 姓名  | 登記名字     | 登記編號     | 參與歌曲列表 |
 | --- | -------- | -------- | ------ |
@@ -372,8 +372,8 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
     Light](https://zh.wikipedia.org/wiki/Shine_a_Light_\(G-Dragon演唱會\) "wikilink")
   - 2013年：[獨一無二世界巡迴演唱會](https://zh.wikipedia.org/wiki/獨一無二世界巡迴演唱會 "wikilink")（G-Dragon
     2013 World Tour：One of a Kind）
-  - 2017年：[母胎世界巡迴演唱會](https://zh.wikipedia.org/wiki/母胎世界巡迴演唱會 "wikilink")（G-Dragon
-    2017 World Tour：Act III, M.O.T.T.E）
+  - 2017年：[母胎世界巡迴演唱會](../Page/母胎世界巡迴演唱會.md "wikilink")（G-Dragon 2017
+    World Tour：Act III, M.O.T.T.E）
 
 ## 作品
 
@@ -490,7 +490,7 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
   - 2013年12月4日-12月11日
     \*[《一周的偶像-GD篇》](https://www.youtube.com/watch?v=W9IaX_rTf4Y)
   - 2015年1月23日 [浙江卫视](../Page/浙江卫视.md "wikilink")
-    《[奔跑吧兄弟](https://zh.wikipedia.org/wiki/奔跑吧兄弟 "wikilink")》2015魅力盛典(特別出演)
+    《[奔跑吧兄弟](../Page/奔跑吧兄弟.md "wikilink")》2015魅力盛典(特別出演)
   - 2014年1月25日 KBS
     \*[《演藝家中介》](http://www.tudou.com/programs/view/Z6jzicni8_g)
   - 2014年7月19日 KBS
@@ -510,7 +510,7 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
     \*[《演藝家中介》](http://www.dailymotion.com/video/x396ykn_151010-%EC%A7%80%EB%93%9C%EB%9E%98%EA%B3%A4%EA%B3%BC%EC%9D%98-%ED%8A%B9%EB%B3%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%8A%B8_music)
   - 2016年3月12日 OnStyle 《DevilsRunway》
   - 2016年8月27日-9月10日 MBC《[2016無限商社
-    危機的社員](https://zh.wikipedia.org/wiki/2016無限商社_危機的社員 "wikilink")》
+    危機的社員](../Page/2016無限商社_危機的社員.md "wikilink")》
   - 2016年12月17日MBC《無限挑戰》（BIGBANG全體，TOP入伍前完整體）
 
 ## 獎項

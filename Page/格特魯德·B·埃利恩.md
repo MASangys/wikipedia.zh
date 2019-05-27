@@ -11,7 +11,7 @@
 
   - [别嘌醇](../Page/别嘌醇.md "wikilink")（Allopurinol）用于[痛风](../Page/痛风.md "wikilink")。
 
-  - [乙胺嘧啶](https://zh.wikipedia.org/wiki/乙胺嘧啶 "wikilink")（Pyrimethamine）用于[疟疾](../Page/疟疾.md "wikilink")。
+  - [乙胺嘧啶](../Page/乙胺嘧啶.md "wikilink")（Pyrimethamine）用于[疟疾](../Page/疟疾.md "wikilink")。
 
   - [甲氧苄啶](../Page/甲氧苄啶.md "wikilink")（Trimethoprim）用于[脑膜炎](../Page/脑膜炎.md "wikilink")，[敗血症和](../Page/敗血症.md "wikilink")[病原菌引起的](https://zh.wikipedia.org/wiki/病原菌 "wikilink")[泌尿系統和](../Page/泌尿系統.md "wikilink")[呼吸道感染](../Page/呼吸道.md "wikilink")。
 

@@ -111,7 +111,7 @@ Russetto。
 ## 續集
 
 2015年7月28日，2K
-Games宣佈續集《[黑手黨III](https://zh.wikipedia.org/wiki/黑手黨III "wikilink")》。\[20\]同年8月在[Gamescom透露了續集的資料](https://zh.wikipedia.org/wiki/Gamescom "wikilink")，包括預告片等
+Games宣佈續集《[黑手黨III](https://zh.wikipedia.org/wiki/黑手黨III "wikilink")》。\[20\]同年8月在[Gamescom透露了續集的資料](../Page/Gamescom.md "wikilink")，包括預告片等
 已發售。\[21\]
 
 ## 参考资料

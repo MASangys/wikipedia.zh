@@ -28,15 +28,13 @@ PSV公司曾經有兩輛Enviro 200倉貨，其後被服務英格蘭東部的Far 
   - [飛鏢SLF](../Page/丹尼士飛鏢巴士.md "wikilink")
   - [三叉戟二型](../Page/丹尼士三叉戟二型.md "wikilink")
   - [Enviro 200 Dart](../Page/亞歷山大丹尼士Enviro_200_Dart.md "wikilink")
-  - [Enviro 200
-    MMC](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_200_MMC "wikilink")
+  - [Enviro 200 MMC](../Page/亞歷山大丹尼士Enviro_200_MMC.md "wikilink")
   - [Enviro 300](../Page/亞歷山大丹尼士Enviro_300.md "wikilink")
   - [Enviro
     350H](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_350H "wikilink")
   - [Enviro 400](../Page/亞歷山大丹尼士Enviro_400.md "wikilink")
   - [Enviro 500](../Page/亞歷山大丹尼士Enviro_500.md "wikilink")
-  - [Enviro 500
-    MMC](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_500_MMC "wikilink")
+  - [Enviro 500 MMC](../Page/亞歷山大丹尼士Enviro_500_MMC.md "wikilink")
 
 ## 外部連結
 

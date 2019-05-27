@@ -27,12 +27,12 @@ ACP](../Page/.45_ACP.md "wikilink")[口徑型號只能夠使用](https://zh.wiki
 
 貝瑞塔Cx4
 Storm裝有內置伸縮式[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以藉著推動前端按鈕和利用拇指護耳將戰術導軌從[前](https://zh.wikipedia.org/wiki/前護木 "wikilink")[護木內沿著](https://zh.wikipedia.org/wiki/護木 "wikilink")[槍管的底部拉出](../Page/槍管.md "wikilink")。每種Storm系列槍械還可以選擇利用兩顆安裝[螺絲以裝上前護木兩側的戰術導軌](../Page/螺絲.md "wikilink")，而另一種選擇是從生產商購買連底部的三條戰術導軌架連接座。前護木底部的戰術導軌同樣需要利用兩顆安裝螺絲從戰術導軌的兩端螺絲孔才能裝上前護木兩側之下。使用者也可以從生產商購買[機匣頂部的戰術導軌和利用工具連安裝至貝瑞塔Cx](https://zh.wikipedia.org/wiki/機匣 "wikilink")4
-Storm。其機匣頂部的戰術導軌需要使用三顆螺絲和三顆[螺母與利用機匣頂部的預鑽洞安裝](../Page/螺母.md "wikilink")，使得使用者能夠利用戰術導軌作為光學瞄準鏡基座，並且將另外兩個預鑽洞隱藏在塑料薄膜底下。安裝頂部附加導軌所需要的正確尺寸的[鑽頭是並不包括在卡賓槍或是頂部導軌套件上](https://zh.wikipedia.org/wiki/鑽頭 "wikilink")，而且必須自行購買。貝瑞塔Cx4
-Storm可以利用貝瑞塔配件包裝上最多五條戰術導軌，然後和各種目前流行的[机枪](../Page/机枪.md "wikilink")、[步枪及](../Page/步枪.md "wikilink")[冲锋枪一樣](../Page/冲锋枪.md "wikilink")，使用者可以利用這些戰術導軌以便安裝市面上各種對應導軌的各種[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")、[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")／或[兩腳架這些戰術配件](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")；另外，貝瑞塔Cx4
+Storm。其機匣頂部的戰術導軌需要使用三顆螺絲和三顆[螺母與利用機匣頂部的預鑽洞安裝](../Page/螺母.md "wikilink")，使得使用者能夠利用戰術導軌作為光學瞄準鏡基座，並且將另外兩個預鑽洞隱藏在塑料薄膜底下。安裝頂部附加導軌所需要的正確尺寸的[鑽頭是並不包括在卡賓槍或是頂部導軌套件上](../Page/鑽頭.md "wikilink")，而且必須自行購買。貝瑞塔Cx4
+Storm可以利用貝瑞塔配件包裝上最多五條戰術導軌，然後和各種目前流行的[机枪](../Page/机枪.md "wikilink")、[步枪及](../Page/步枪.md "wikilink")[冲锋枪一樣](../Page/冲锋枪.md "wikilink")，使用者可以利用這些戰術導軌以便安裝市面上各種對應導軌的各種[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")、[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")／或[兩腳架這些戰術配件](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")；另外，貝瑞塔Cx4
 Storm亦可以利用槍口以裝上或[消聲器](../Page/抑制器.md "wikilink")。這枝槍械的設計上有著非常高的自行定製適應能力。
 
 貝瑞塔Cx4
-Storm裝上了來自原廠的可調節式[機械瞄具系統](../Page/機械瞄具.md "wikilink")。前方的柱狀[準星可以利用隨槍提供的調整工具調節風偏和海拔](../Page/照準器.md "wikilink")。後方「L」字型可翻轉調節的覘孔式[照門是兩孔式設計](https://zh.wikipedia.org/wiki/照門 "wikilink")，分別是有迅速射擊和遠距離高精度射擊這兩種選擇。這兩個機械瞄具可以在利用[機匣頂部加裝的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[戰術導軌以安裝日間](../Page/皮卡汀尼導軌.md "wikilink")／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀時折疊下來](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。
+Storm裝上了來自原廠的可調節式[機械瞄具系統](../Page/機械瞄具.md "wikilink")。前方的柱狀[準星可以利用隨槍提供的調整工具調節風偏和海拔](../Page/照準器.md "wikilink")。後方「L」字型可翻轉調節的覘孔式[照門是兩孔式設計](https://zh.wikipedia.org/wiki/照門 "wikilink")，分別是有迅速射擊和遠距離高精度射擊這兩種選擇。這兩個機械瞄具可以在利用[機匣頂部加裝的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[戰術導軌以安裝日間](../Page/皮卡汀尼導軌.md "wikilink")／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀時折疊下來](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。
 
 貝瑞塔Cx4
 Storm的[槍托底板可以被使用者拔出以調節全槍的拉距](https://zh.wikipedia.org/wiki/槍托底板 "wikilink")。調整槍托時需要裝上槍托墊板加厚（加長）。貝瑞塔Cx4
@@ -88,7 +88,7 @@ Storm在加拿大刑事法典當中是被歸類為“限制類”，真正的突
   - 2002年—《[螢火蟲](../Page/螢火蟲_\(電視劇\).md "wikilink")》（Firefly）：被「星際聯盟」士兵用作電擊槍。
   - 2004年—《[-{zh-hans:太空堡垒卡拉狄加;
     zh-hant:星際大爭霸2005;}-](../Page/太空堡垒卡拉狄加.md "wikilink")》（Battlestar
-    Galactica，BSG）：2005年至2006年第2季，標準型被[宇宙戰艦卡拉狄加號和飛馬號上的殖民地海軍陸戰隊員用作制式](../Page/宇宙戰艦.md "wikilink")[長管槍械](https://zh.wikipedia.org/wiki/長管槍械 "wikilink")，以導軌裝上[紅點鏡](../Page/紅點鏡.md "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")，以及在槍口裝上特殊槍口裝置。
+    Galactica，BSG）：2005年至2006年第2季，標準型被[宇宙戰艦卡拉狄加號和飛馬號上的殖民地海軍陸戰隊員用作制式](../Page/宇宙戰艦.md "wikilink")[長管槍械](https://zh.wikipedia.org/wiki/長管槍械 "wikilink")，以導軌裝上[紅點鏡](../Page/紅點鏡.md "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")，以及在槍口裝上特殊槍口裝置。
   - 2016年—《[對峙](../Page/對峙.md "wikilink")》（Standoff）：2007年6月15日第13集「放逆火」（），被洛杉磯地鐵人質事件的搶劫成員所使用。
   - 2010年—《[-{zh:屍行者; zh-cn:行尸走肉; zh-tw:陰屍路;
     zh-hk:行屍;}-](../Page/屍行者.md "wikilink")》（The Walking

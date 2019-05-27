@@ -22,7 +22,7 @@
   - [如果折斷她的旗](../Page/如果折斷她的旗.md "wikilink")（，2014年）
   - [大圖書館的牧羊人](../Page/大圖書館的牧羊人.md "wikilink")（，2014年）
   - [漂流武士](../Page/漂流武士.md "wikilink")（，2016年，HOODS DRIFTERS STUDIO名義）
-  - [童話魔法使](https://zh.wikipedia.org/wiki/童話魔法使 "wikilink")（，2018年）
+  - [童話魔法使](../Page/童話魔法使.md "wikilink")（，2018年）
   - [三次元女友 REAL
     GIRLl](https://zh.wikipedia.org/wiki/三次元女友 "wikilink")（，2018年）
 

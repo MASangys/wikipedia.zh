@@ -68,7 +68,7 @@ Journey同人誌展售會**，簡稱[GJ](https://zh.wikipedia.org/wiki/GJ "wikil
 
 GJ系列同人活動除常態性的黑白彩稿展示投票、留言點播放送與問卷抽獎外，亦舉辦各類主題活動或邀請特別來賓進行座談會：
 
-1.  海風同人展：[Cosplay比賽](../Page/Cosplay.md "wikilink")、《[BLEACH](../Page/BLEACH.md "wikilink")》中文[配音員座談會](../Page/配音員.md "wikilink")（來賓：[錢欣郁](../Page/錢欣郁.md "wikilink")、[李香生](../Page/李香生.md "wikilink")、[吳文民](../Page/吳文民.md "wikilink")、[林谷珍](../Page/林谷珍.md "wikilink")、[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")）。
+1.  海風同人展：[Cosplay比賽](../Page/Cosplay.md "wikilink")、《[BLEACH](../Page/BLEACH.md "wikilink")》中文[配音員座談會](../Page/配音員.md "wikilink")（來賓：[錢欣郁](../Page/錢欣郁.md "wikilink")、[李香生](../Page/李香生.md "wikilink")、[吳文民](../Page/吳文民.md "wikilink")、[林谷珍](../Page/林谷珍.md "wikilink")、[馮嘉德](../Page/馮嘉德.md "wikilink")）。
 2.  GJ2：[傻呼嚕同盟演講](../Page/傻呼嚕同盟.md "wikilink")「從日本動漫畫發展看素人創作」（來賓：Alplus、Jo-Jo、ZERO）。
 3.  GJ3：[黑歷史販售會](https://zh.wikipedia.org/wiki/黑歷史 "wikilink")。
 4.  GJ4：GJ[板郎夏洛特會場廣播](https://zh.wikipedia.org/wiki/看板娘 "wikilink")（[配音員](../Page/配音員.md "wikilink")：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")）。GJ4首次採用[QR碼電子票券技術應用於社團入場與網路票券預購](../Page/QR碼.md "wikilink")\[5\]。

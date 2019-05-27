@@ -14,7 +14,7 @@ I/O年會上](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")\[13\]，以[B
 Technologies以開放原始碼方式釋出的編碼產品，前一個是捐贈給[Xiph.Org基金會的](../Page/Xiph.Org基金會.md "wikilink")[VP3](https://zh.wikipedia.org/wiki/VP3 "wikilink")\[15\]，隨後成為了影像編碼格式[Theora](../Page/Theora.md "wikilink")。
 
 2013年3月，Google與[MPEG
-LA達成協議](https://zh.wikipedia.org/wiki/MPEG_LA "wikilink")：Google取得VP8可能受影響的專利授權，同時Google也可以再次授權給VP8的使用者。\[16\]\[17\]
+LA達成協議](../Page/MPEG_LA.md "wikilink")：Google取得VP8可能受影響的專利授權，同時Google也可以再次授權給VP8的使用者。\[16\]\[17\]
 
 ## 實作
 
@@ -55,7 +55,7 @@ LA声称有12家公司持有Google VP8的相關专利。\[37\]美国MPEG
 LA表示：“建立VP8专利池的相关准备正在进行”。\[38\]\[39\]
 
 2013年3月，Google與[MPEG
-LA及](https://zh.wikipedia.org/wiki/MPEG_LA "wikilink")11個專利持有者達成協議，讓Google取得VP8以及其之前的VPx等編碼所**可能**侵犯的專利授權，同時Google也可以無償再次授權相關專利給VP8的使用者，此協議同時適用於下一代VPx編碼。至此MPEG
+LA及](../Page/MPEG_LA.md "wikilink")11個專利持有者達成協議，讓Google取得VP8以及其之前的VPx等編碼所**可能**侵犯的專利授權，同時Google也可以無償再次授權相關專利給VP8的使用者，此協議同時適用於下一代VPx編碼。至此MPEG
 LA放棄成立VP8[專利集中授權聯盟](https://zh.wikipedia.org/wiki/專利池 "wikilink")，VP8的使用者將可確定無償使用此編碼而無須擔心**可能的**專利侵權授權金的問題。\[40\]
 
 根據MSU Graphics & Media Lab在2011年5月的測試，VP8需要約213%的資料量，才能達到和H.264相同的影像品質

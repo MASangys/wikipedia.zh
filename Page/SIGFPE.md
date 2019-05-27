@@ -1,6 +1,6 @@
 在[POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink")
 兼容的平台上，**SIGFPE**是当一个[进程](../Page/行程.md "wikilink")
-执行了一个错误的算术操作时发送给它的[信号](https://zh.wikipedia.org/wiki/信号_\(计算机科学\) "wikilink")。SIGFPE的[符号常量在](https://zh.wikipedia.org/wiki/C预处理器 "wikilink")[头文件](../Page/头文件.md "wikilink")
+执行了一个错误的算术操作时发送给它的[信号](https://zh.wikipedia.org/wiki/信号_\(计算机科学\) "wikilink")。SIGFPE的[符号常量在](../Page/C预处理器.md "wikilink")[头文件](../Page/头文件.md "wikilink")
 [`signal.h`](https://zh.wikipedia.org/wiki/signal.h "wikilink")中定义。因为在不同平台上，信号数字可能变化，因此常使用信号名称。\[1\]
 
 ## 语源

@@ -53,12 +53,12 @@
   - 臺灣**[哪一座與明朝宗室有關的媽祖廟](../Page/大天后宮.md "wikilink")**在[日治時期曾經差點被改成佛寺和面臨標售拆毀的危機](https://zh.wikipedia.org/wiki/臺灣日治時期 "wikilink")？
   - 臺灣臺南市的**[哪一間媽祖廟](https://zh.wikipedia.org/wiki/海安宮_\(臺南市\) "wikilink")**其廟史與[福康安有關](../Page/福康安.md "wikilink")，且曾為[鹿耳門媽祖廟神像的寄祀之處](../Page/鹿耳門媽祖廟.md "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[臺南市的](https://zh.wikipedia.org/wiki/臺南市 "wikilink")**[哪一間廟宇](../Page/鹽埕天后宮.md "wikilink")**除了供奉[天上聖母外](https://zh.wikipedia.org/wiki/天上聖母 "wikilink")，還供奉了一座清代所刻的「重脩瀨北場碑記」碑？
-  - **[哪一座廟宇](https://zh.wikipedia.org/wiki/台南臨水夫人媽廟 "wikilink")**是[台灣唯一主祀](https://zh.wikipedia.org/wiki/台灣 "wikilink")[臨水夫人的廟宇](../Page/臨水夫人.md "wikilink")?
+  - **[哪一座廟宇](../Page/台南臨水夫人媽廟.md "wikilink")**是[台灣唯一主祀](https://zh.wikipedia.org/wiki/台灣 "wikilink")[臨水夫人的廟宇](../Page/臨水夫人.md "wikilink")?
   - 臺灣的[南部科學工業園區臺南園區在開發過程中](../Page/南部科學工業園區.md "wikilink")，因為**[什麼事物](../Page/南科考古遺址.md "wikilink")**的陸續發現而使得工程時而需要停工甚至變更設計？
   - **[哪一位曾擔任公務員的地方文史工作者](../Page/陳春木.md "wikilink")**除長期研究左鎮地方文史外，並在菜寮溪採集化石多年且擔任過菜寮化石館管理員，有「化石爺爺」之稱？
   - **[哪間不屬於臺灣糖業公司的糖廠](../Page/新南糖廠.md "wikilink")**是[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[南化區唯一的工廠](https://zh.wikipedia.org/wiki/南化區 "wikilink")，且糖廠名稱跟「新竹」有關？
   - **[哪一種臺灣史前人類](../Page/左鎮人.md "wikilink")**的化石是目前在[臺灣所發現之年代最久遠的人類化石](../Page/臺灣.md "wikilink")，並且以其在[臺南的發現地為名](https://zh.wikipedia.org/wiki/臺南 "wikilink")？
-  - 在[臺灣](../Page/臺灣.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[安平區有](https://zh.wikipedia.org/wiki/安平區 "wikilink")[**什麼與中日戰爭（八年抗戰）相關的史蹟**](https://zh.wikipedia.org/wiki/安平十二軍夫墓 "wikilink")，見證臺灣人為日本在華當軍夫的歷史？
+  - 在[臺灣](../Page/臺灣.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[安平區有](https://zh.wikipedia.org/wiki/安平區 "wikilink")[**什麼與中日戰爭（八年抗戰）相關的史蹟**](../Page/安平十二軍夫墓.md "wikilink")，見證臺灣人為日本在華當軍夫的歷史？
   - 臺灣[**哪一座軍民合用機場**在歷史上曾經被日本海軍航空隊](../Page/臺南機場.md "wikilink")、中華民國空軍與美國空軍所使用，並在1960年到1974年間佈署過美軍的[核彈](https://zh.wikipedia.org/wiki/核彈 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[南區的](https://zh.wikipedia.org/wiki/南區_\(臺南市\) "wikilink")**[哪一個地名](../Page/水交社_\(臺南市\).md "wikilink")**來自[日本海軍引用](https://zh.wikipedia.org/wiki/日本海軍 "wikilink")《[莊子](../Page/莊子_\(書\).md "wikilink")》典故而取的[交誼團體名稱](https://zh.wikipedia.org/wiki/水交社 "wikilink")？
   - 臺灣的[臺南市是](https://zh.wikipedia.org/wiki/臺南市 "wikilink")**[怎麼從荷蘭東印度公司的北部地方會議區逐漸演變而來的？](https://zh.wikipedia.org/wiki/台南市行政區劃 "wikilink")**

@@ -15,7 +15,7 @@ Records公司、過去旗下藝人的一覽記錄。
 
   - [天月](../Page/天月.md "wikilink")
   - [摩天樓オペラ](https://zh.wikipedia.org/wiki/摩天樓オペラ "wikilink")
-  - [INORAN](https://zh.wikipedia.org/wiki/INORAN "wikilink")
+  - [INORAN](../Page/INORAN.md "wikilink")
   - [植村花菜](../Page/植村花菜.md "wikilink")
   - [SHY](https://zh.wikipedia.org/wiki/SHY "wikilink")
   - [新興宗教樂團NoGoD](../Page/新興宗教樂團NoGoD.md "wikilink")
@@ -78,7 +78,7 @@ Records公司、過去旗下藝人的一覽記錄。
 <!-- end list -->
 
   - [Suara](../Page/Suara.md "wikilink")\[1\]
-  - [富田麻帆](https://zh.wikipedia.org/wiki/富田麻帆 "wikilink")
+  - [富田麻帆](../Page/富田麻帆.md "wikilink")
   - [水樹奈奈](../Page/水樹奈奈.md "wikilink")
   - [宮野真守](../Page/宮野真守.md "wikilink")
   - [唯夏織](../Page/唯夏織.md "wikilink")\[2\]
@@ -93,7 +93,7 @@ Records公司、過去旗下藝人的一覽記錄。
   - [信保陽子](https://zh.wikipedia.org/wiki/信保陽子 "wikilink")
   - [フリーウェイハイハイ](https://zh.wikipedia.org/wiki/フリーウェイハイハイ "wikilink")
   - [米倉千尋](../Page/米倉千尋.md "wikilink")
-  - [森川美穗](https://zh.wikipedia.org/wiki/森川美穗 "wikilink")
+  - [森川美穗](../Page/森川美穗.md "wikilink")
 
 ### MID ISLAND RECORDS
 

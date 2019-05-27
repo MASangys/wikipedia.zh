@@ -8,7 +8,7 @@
 
 1750年7月6日，讓·狄歐特和布魯諾·勒努瓦因同性戀身分而遭[火刑處死](https://zh.wikipedia.org/wiki/火刑 "wikilink")，是最後以此為罪名的刑事案件\[1\]。
 
-法國大革命時在1791年所頒佈的刑法典章法未提及個人私下的同性行為，首度為同性戀除罪化。這項保障個人性行為的方針也被保留在1810年[刑法典中](https://zh.wikipedia.org/wiki/刑法典 "wikilink")，並為法國本土與其殖民地所遵循。然而，[同性戀和](../Page/同性戀.md "wikilink")[異裝行為仍被視為異類](https://zh.wikipedia.org/wiki/異裝 "wikilink")、不道德，[同志時常被冠上違反公共道德和秩序等相關罪名](../Page/LGBT.md "wikilink")，故法律一直有名無實。[亞爾薩斯和](https://zh.wikipedia.org/wiki/亞爾薩斯 "wikilink")[洛林公國地區在](https://zh.wikipedia.org/wiki/洛林公國 "wikilink")1940年被[納粹德國侵略時](../Page/納粹德國.md "wikilink")，其境內部分同性戀者亦受到嚴重迫害、被遣送至集中營。
+法國大革命時在1791年所頒佈的刑法典章法未提及個人私下的同性行為，首度為同性戀除罪化。這項保障個人性行為的方針也被保留在1810年[刑法典中](https://zh.wikipedia.org/wiki/刑法典 "wikilink")，並為法國本土與其殖民地所遵循。然而，[同性戀和](../Page/同性戀.md "wikilink")[異裝行為仍被視為異類](../Page/異裝.md "wikilink")、不道德，[同志時常被冠上違反公共道德和秩序等相關罪名](../Page/LGBT.md "wikilink")，故法律一直有名無實。[亞爾薩斯和](https://zh.wikipedia.org/wiki/亞爾薩斯 "wikilink")[洛林公國地區在](https://zh.wikipedia.org/wiki/洛林公國 "wikilink")1940年被[納粹德國侵略時](../Page/納粹德國.md "wikilink")，其境內部分同性戀者亦受到嚴重迫害、被遣送至集中營。
 
 ## 反歧視法
 

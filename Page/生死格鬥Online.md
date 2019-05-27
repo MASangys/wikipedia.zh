@@ -3,7 +3,7 @@ or Alive
 Online*，[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：，簡稱“**DOA
 Online**”）是以《[-{zh-cn:死或生;
 zh-tw:生死格鬥;}-](https://zh.wikipedia.org/wiki/生死格鬥 "wikilink")》的世界來製作的[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")，但本作並非由[Team
-Ninja製作](https://zh.wikipedia.org/wiki/Team_Ninja "wikilink")，而是[Tecmo的Lievo](https://zh.wikipedia.org/wiki/Tecmo "wikilink")
+Ninja製作](../Page/Team_Ninja.md "wikilink")，而是[Tecmo的Lievo](https://zh.wikipedia.org/wiki/Tecmo "wikilink")
 Studio來開發；遊戲預計2008年在中國大陸、香港、澳門、台灣等地開始營運，[中國大陸由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[盛大網絡代理](https://zh.wikipedia.org/wiki/盛大網絡 "wikilink")，台灣則由[遊戲橘子獲得代理權](../Page/遊戲橘子.md "wikilink")。
 
 ## 特色

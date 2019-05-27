@@ -1,5 +1,5 @@
 **bj聯盟**（Basketball Japan
-League），是一個於2005年11月5日成立的職業籃球聯盟。劃分分為東、西兩區，2015年中有22支球隊。2006年舉辦首屆全明星賽，[斯伯丁為其主要贊助之一](https://zh.wikipedia.org/wiki/斯伯丁 "wikilink")。
+League），是一個於2005年11月5日成立的職業籃球聯盟。劃分分為東、西兩區，2015年中有22支球隊。2006年舉辦首屆全明星賽，[斯伯丁為其主要贊助之一](../Page/斯伯丁.md "wikilink")。
 
 此外，日本另有一個2007年開打的職業籃球聯盟[日本籃球聯盟](https://zh.wikipedia.org/wiki/日本籃球超級聯賽 "wikilink")（Japan
 Basketball
@@ -12,7 +12,7 @@ League），簡稱**JBL**或**日本聯盟**（2013年改組為NBL）。BJ聯盟
   - [岩手大公牛](https://zh.wikipedia.org/wiki/岩手大公牛 "wikilink")
     ([岩手縣](https://zh.wikipedia.org/wiki/岩手縣 "wikilink") -
     [盛岡市](../Page/盛岡市.md "wikilink")) 主場：岩手縣營體育館 (加入年 2011)
-  - [秋田北部喜悅](https://zh.wikipedia.org/wiki/秋田北部喜悅 "wikilink")
+  - [秋田北部喜悅](../Page/秋田北部喜悅.md "wikilink")
     ([秋田縣](https://zh.wikipedia.org/wiki/秋田縣 "wikilink") -
     [秋田市](../Page/秋田市.md "wikilink")) 主場：秋田縣立體育館 (加入年 2010)
   - [仙台89人](https://zh.wikipedia.org/wiki/仙台89人 "wikilink")
@@ -77,7 +77,7 @@ League），簡稱**JBL**或**日本聯盟**（2013年改組為NBL）。BJ聯盟
   - [宮崎光輝太陽](https://zh.wikipedia.org/wiki/宮崎光輝太陽 "wikilink")
     ([宮崎縣](../Page/宮崎縣.md "wikilink") -
     [宮崎市](../Page/宮崎市.md "wikilink")) 主場：宮崎縣體育館 (加入年 2010)
-  - [琉球黃金國王](https://zh.wikipedia.org/wiki/琉球黃金國王 "wikilink")
+  - [琉球黃金國王](../Page/琉球黃金國王.md "wikilink")
     ([沖繩縣](../Page/沖繩縣.md "wikilink") -
     [宜野灣市](../Page/宜野灣市.md "wikilink")) 主場：沖繩會議中心 (加入年
     2007)

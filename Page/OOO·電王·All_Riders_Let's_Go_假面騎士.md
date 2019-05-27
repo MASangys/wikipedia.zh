@@ -483,12 +483,12 @@ Shocker Greeed
   - 光 - [今井悠貴](../Page/今井悠貴.md "wikilink")
   - 直樹 - [吉川史樹](https://zh.wikipedia.org/wiki/吉川史樹 "wikilink")
   - 阿茂 - [林遼威](https://zh.wikipedia.org/wiki/林遼威 "wikilink")
-  - ノッコ - [恒松祐里](https://zh.wikipedia.org/wiki/恒松祐里 "wikilink")
+  - ノッコ - [恒松祐里](../Page/恒松祐里.md "wikilink")
   - 左翔太郎 / 幪面超人W（声） - [桐山漣](../Page/桐山漣.md "wikilink")（友情出演）
   - 菲利普 / 幪面超人W（声） -
     [菅田将暉](https://zh.wikipedia.org/wiki/菅田将暉 "wikilink")（友情出演）
   - 黑將軍 / 吸血蛭變色龍怪人（声） - [福本清三](../Page/福本清三.md "wikilink")
-  - 老闆 - [石丸謙二郎](https://zh.wikipedia.org/wiki/石丸謙二郎 "wikilink")
+  - 老闆 - [石丸謙二郎](../Page/石丸謙二郎.md "wikilink")
   - 白衣男 - [佐佐木功](../Page/佐佐木功.md "wikilink")
 
 ## 配音
@@ -512,14 +512,12 @@ Shocker Greeed
   - Apollo Geist -
     [川原和久](https://zh.wikipedia.org/wiki/川原和久 "wikilink")（友情出演）
   - モールイマジン1 - [笹沼尭羅](https://zh.wikipedia.org/wiki/笹沼尭羅 "wikilink")
-  - モールイマジン2 - [高梨謙吾](https://zh.wikipedia.org/wiki/高梨謙吾 "wikilink")
-  - モールイマジン3、シオマネキング -
-    [小田久史](https://zh.wikipedia.org/wiki/小田久史 "wikilink")
+  - モールイマジン2 - [高梨謙吾](../Page/高梨謙吾.md "wikilink")
+  - モールイマジン3、シオマネキング - [小田久史](../Page/小田久史.md "wikilink")
   - オースキャナー音声 - [串田アキラ](https://zh.wikipedia.org/wiki/串田アキラ "wikilink")
   - ガイアメモリ音声 - [立木文彦](../Page/立木文彦.md "wikilink")
   - ジェネラルシャドウ - [柴田秀勝](../Page/柴田秀勝.md "wikilink")
-  - キングダーク、大神官ダロム -
-    [飯塚昭三](https://zh.wikipedia.org/wiki/飯塚昭三 "wikilink")
+  - キングダーク、大神官ダロム - [飯塚昭三](../Page/飯塚昭三.md "wikilink")
   - 傑克將軍 - [加藤精三](https://zh.wikipedia.org/wiki/加藤精三 "wikilink")
   - 撒旦幫首領 - [納谷悟朗](https://zh.wikipedia.org/wiki/納谷悟朗 "wikilink")
   - 幪面超人V3、ズバット - [宮内洋](https://zh.wikipedia.org/wiki/宮内洋 "wikilink")

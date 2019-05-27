@@ -391,7 +391,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><p>24</p></td>
 <td><p>マダラカジン 毒ガスの恐怖</p></td>
 <td><ul>
-<li>マダラカジン（CV：<a href="https://zh.wikipedia.org/wiki/安原義人" title="wikilink">安原義人</a>）
+<li>マダラカジン（CV：<a href="../Page/安原義人.md" title="wikilink">安原義人</a>）
 <ul>
 <li>人間態（演：高木真二）</li>
 </ul></li>
@@ -649,7 +649,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><p>怪談シリーズ<br />
 呪いの化け猫 子供の血が欲しい！</p></td>
 <td><ul>
-<li>ドロニャンゴー（CV：<a href="https://zh.wikipedia.org/wiki/牧野和子" title="wikilink">牧野和子</a>）
+<li>ドロニャンゴー（CV：<a href="../Page/牧野和子.md" title="wikilink">牧野和子</a>）
 <ul>
 <li>人間態（演：西村幸子）</li>
 </ul></li>

@@ -115,7 +115,7 @@ Planum），因為當地地形相當平坦，並無許多岩石，是使用氣�
 目前的計畫建議使用NASA開發的太空吊車控制進場、下降和著陸系統（Entry, descent and landing,
 EDL）以將2台火星車一起送到火星表面\[75\]。
 
-如果有2台火星車在火星表面同一地點，將可在科學研究與儀器上進行互補，以減少資源重複。在同一地點操作兩台火星車的優點如後：兩台火星車互相拍攝、類似地質探測目標交叉分析、可能包含MAX-C火星車上的低頻[透地雷達和接收ExoMars上的WISDOM透地雷達以建立火星車之間地下構造圖](https://zh.wikipedia.org/wiki/透地雷達 "wikilink")、MAX-C也許可以從ExoMars取得和收集最有科學研究價值的地下土壤樣本\[76\]。
+如果有2台火星車在火星表面同一地點，將可在科學研究與儀器上進行互補，以減少資源重複。在同一地點操作兩台火星車的優點如後：兩台火星車互相拍攝、類似地質探測目標交叉分析、可能包含MAX-C火星車上的低頻[透地雷達和接收ExoMars上的WISDOM透地雷達以建立火星車之間地下構造圖](../Page/透地雷達.md "wikilink")、MAX-C也許可以從ExoMars取得和收集最有科學研究價值的地下土壤樣本\[76\]。
 
 #### ExoMars探測車
 
@@ -195,8 +195,8 @@ Ma-Miss），這是一台小型的、可探測鑽孔的紅外線攝譜儀。該�
 
 <!-- end list -->
 
-  - **[透地雷達](https://zh.wikipedia.org/wiki/透地雷達 "wikilink")**，又稱為**WISDOM**（**Water
-    Ice and Subsurface Deposit Information On
+  - **[透地雷達](../Page/透地雷達.md "wikilink")**，又稱為**WISDOM**（**Water Ice and
+    Subsurface Deposit Information On
     Mars**），將用來探測火星表面以下狀況以判定地層和選擇適合的地層進行取樣本分析\[106\]。該系統使用兩個位於車體後半部上方的小型[韋瓦第天線](https://zh.wikipedia.org/wiki/韋瓦第天線 "wikilink")（Vivaldi-antenna）。進入地下的電磁波會在土壤電磁參數突然改變的地方反射；科學家可依照電磁波反射狀況以建立地表下可能的地層圖和選定地表下2至3公尺的探測目標，以配合鑽孔深度最深可達2公尺的鑽孔機。探測資料將與全景攝影機和收集的樣本分析資料整合以幫助進行鑽孔探測\[107\]。
 
 <!-- end list -->

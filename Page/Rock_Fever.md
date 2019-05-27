@@ -195,7 +195,7 @@ RF5主题曲 演唱者：吴家瑀\[1\]。
 
 ### IGS兒童合唱團
 
-  - [看我72變](https://zh.wikipedia.org/wiki/看我72變_\(歌曲\) "wikilink") Child
+  - [看我72變](../Page/看我72變_\(歌曲\).md "wikilink") Child
 
 原唱：蔡依林
 

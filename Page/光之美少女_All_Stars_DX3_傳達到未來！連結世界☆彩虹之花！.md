@@ -250,7 +250,7 @@ Flower），想合謀把世界引向黑暗！如果虹色之花枯萎的話，�
     作詞：青木久美子，作曲：[小杉保夫](https://zh.wikipedia.org/wiki/小杉保夫 "wikilink")，編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")，主唱：[工藤真由](https://zh.wikipedia.org/wiki/工藤真由 "wikilink")，和聲：[五條真由美](../Page/五條真由美.md "wikilink")、
   - 片尾曲「」
     作詞：青木久美子、作曲：小杉保夫、編曲：鹽崎容正、主唱：Cure
-    Rainbows（[五條真由美](../Page/五條真由美.md "wikilink")、、工藤真由、[宮本佳那子](https://zh.wikipedia.org/wiki/宮本佳那子 "wikilink")、茂家瑞季、[林桃子](https://zh.wikipedia.org/wiki/林桃子 "wikilink")、[池田彩](https://zh.wikipedia.org/wiki/池田彩_\(歌手\) "wikilink")）with
+    Rainbows（[五條真由美](../Page/五條真由美.md "wikilink")、、工藤真由、[宮本佳那子](../Page/宮本佳那子.md "wikilink")、茂家瑞季、[林桃子](https://zh.wikipedia.org/wiki/林桃子 "wikilink")、[池田彩](https://zh.wikipedia.org/wiki/池田彩_\(歌手\) "wikilink")）with
     光之美少女 All Stars 21人，和聲：Young Fresh
 
 ## 製作人員

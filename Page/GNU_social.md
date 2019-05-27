@@ -53,7 +53,7 @@ Tech的TWiT](../Page/This_Week_in_Tech.md "wikilink") Army。\[10\]
   - [Twitter](../Page/Twitter.md "wikilink")
   - [Plurk](https://zh.wikipedia.org/wiki/Plurk "wikilink")
   - [Jaiku](../Page/Jaiku.md "wikilink")
-  - [Mastodon](https://zh.wikipedia.org/wiki/Mastodon "wikilink")
+  - [Mastodon](../Page/Mastodon.md "wikilink")
 
 ## 参考资料
 

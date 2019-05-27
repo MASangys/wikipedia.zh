@@ -51,7 +51,7 @@
   - GAL青姦-青空の下で猛烈に絡み合う肉体-（7月19日、[kira☆kira](https://zh.wikipedia.org/wiki/kira☆kira "wikilink")）
   - 淫ラナ腰ツキ Vol.4
     （7月25日、[美](https://zh.wikipedia.org/wiki/美_\(アダルトビデオ\) "wikilink")）
-  - マシンガンギャル騎乗位（9月16日、セックスエージェント）他出演：[泉麻那](https://zh.wikipedia.org/wiki/泉麻那 "wikilink")、北川瞳、[桐生さくら](https://zh.wikipedia.org/wiki/桐生さくら "wikilink")、つばさ、[aco](https://zh.wikipedia.org/wiki/aco "wikilink")、[ayami](https://zh.wikipedia.org/wiki/ayami "wikilink")、[希咲エマ](https://zh.wikipedia.org/wiki/希咲エマ "wikilink")、梨杏、ERIKA、須真杏里、RAIKA、[八神れおん](https://zh.wikipedia.org/wiki/八神れおん "wikilink")
+  - マシンガンギャル騎乗位（9月16日、セックスエージェント）他出演：[泉麻那](../Page/泉麻那.md "wikilink")、北川瞳、[桐生さくら](https://zh.wikipedia.org/wiki/桐生さくら "wikilink")、つばさ、[aco](https://zh.wikipedia.org/wiki/aco "wikilink")、[ayami](https://zh.wikipedia.org/wiki/ayami "wikilink")、[希咲エマ](https://zh.wikipedia.org/wiki/希咲エマ "wikilink")、梨杏、ERIKA、須真杏里、RAIKA、[八神れおん](https://zh.wikipedia.org/wiki/八神れおん "wikilink")
   - 嫁の妹と○○しちゃった俺 3
     JKバージョン（9月22日、[アキノリ](https://zh.wikipedia.org/wiki/アキノリ "wikilink")）出演：[さとう遥希](https://zh.wikipedia.org/wiki/さとう遥希 "wikilink")、[音羽レオン](https://zh.wikipedia.org/wiki/音羽レオン "wikilink")、[あずみ恋](https://zh.wikipedia.org/wiki/あずみ恋 "wikilink")
   - すぐに破れるコンドーム×AIKA（9月23日、[EROTICA](https://zh.wikipedia.org/wiki/ジャパンホームビデオ "wikilink")）
@@ -256,7 +256,7 @@
     夢の共演Wパイパン中出し（9月1日、Kawaii\*）共演：[鈴木心春](../Page/鈴木心春.md "wikilink")
     ※「AV OPEN 2016」參賽作品\[13\]
   - 娘のお友達と子供を作るので私、母親辞めます。（9月1日、ワンズファクトリー）
-  - うちのギャル姉妹4人がハチャメチャすぎたから子作り（9月1日、ZUKKON/BAKKON）共演：[藤本紫媛](https://zh.wikipedia.org/wiki/藤本紫媛 "wikilink")、丸山れおな、橘咲良
+  - うちのギャル姉妹4人がハチャメチャすぎたから子作り（9月1日、ZUKKON/BAKKON）共演：[藤本紫媛](../Page/藤本紫媛.md "wikilink")、丸山れおな、橘咲良
   - タマらなく性交したくなる淫口
     AIKA（9月2日、[ワープエンタテインメント](https://zh.wikipedia.org/wiki/Waap_Entertainment "wikilink")）
   - 募集ちゃんTV×PRESTIGE PREMIUM 08（9月9日、PRESTIGE）
@@ -305,7 +305,7 @@
   - 地元で有名なカリスマ黒ギャルが僕を守る為DQNな先輩に喧嘩を売ったら寝取られていた (3月7日、ダスッ\!)
   - 素人ユーザー参加企画 SODstar市川まさみとイクッ\!AVの聖地で夢の男優体験が出来る 有名ロケ地バスツアー\!
     feat.尾上若葉・倉多まお・AIKA (3月18日、SODクリエイト)
-    共演：[市川雅美](https://zh.wikipedia.org/wiki/市川雅美 "wikilink")、尾上若葉、[倉多真央](https://zh.wikipedia.org/wiki/倉多真央 "wikilink")
+    共演：[市川雅美](../Page/市川雅美.md "wikilink")、尾上若葉、[倉多真央](https://zh.wikipedia.org/wiki/倉多真央 "wikilink")
   - 欲求不満な団地妻と孕ませオヤジの汗だく濃厚中出し不倫 (4月13日、溜池ゴロー)
   - Twit○erで募集したファンの要望を撮影してみた5 AIKA（4月25日、セレブの友）
   - 緊縛令嬢 AIKA（5月12日、ケイ・エム・プロデュース）
@@ -356,9 +356,9 @@
   - ぬるぬるオイル誘惑セールスレディ（1月13日、ムーディーズ）
   - 強気な姉に早漏化オイルマッサージを試してみた。（2月1日、ムーディーズ）
   - 死ぬほど嫌いなオヤジ相手にねっちょり舌を絡ませるベロキス中毒ギャル（2月13日、ムーディーズ）
-  - ウチの弟マジでデカイんだけど見にこない?（2月13日、ムーディーズ）共演：[美谷朱里](https://zh.wikipedia.org/wiki/美谷朱里 "wikilink")、深田結梨
+  - ウチの弟マジでデカイんだけど見にこない?（2月13日、ムーディーズ）共演：[美谷朱里](../Page/美谷朱里.md "wikilink")、深田結梨
   - 絶対領域痴女ハーレム2
-    美脚に挟まれ身動きできず何度も中出しされちゃう\!\!（2月25日、痴女ヘブン）共演：蓮實克蕾雅、[桐嶋莉乃](https://zh.wikipedia.org/wiki/桐嶋莉乃 "wikilink")、佐佐木明希
+    美脚に挟まれ身動きできず何度も中出しされちゃう\!\!（2月25日、痴女ヘブン）共演：蓮實克蕾雅、[桐嶋莉乃](../Page/桐嶋莉乃.md "wikilink")、佐佐木明希
   - 「もう中出ししてるってばぁ\!」お口とマ○コで精子搾り取り\! 追撃PtoMセックス（3月1日、ワンズファクトリー）
 
 ### VR
@@ -407,8 +407,7 @@
   - リアル性教育\!\! 3DVRだから童貞でもセックスが楽しめる\!\!（7月29日、KMPVR）
   - 長尺VR\! リアル悪徳エステ体験\! ギャルに媚薬を飲ませ高級オイルマッサージで感度覚醒\!
     コリをほぐすだけとグチョグチョに興奮したマ●コを刺激して痙攣するまで生中出し\!
-    ギャル特別編\!（8月31日、SCOOP
-    VR）他出演：[水川蓳](https://zh.wikipedia.org/wiki/水稀美里 "wikilink")
+    ギャル特別編\!（8月31日、SCOOP VR）他出演：[水川蓳](../Page/水稀美里.md "wikilink")
   - ハーレムASMRVR【高画質＋高音質】で脳がとろける3D立体映像でトリップ体験できるVR（9月21日、ピーターズMAXVR）共演：[安部未華子](../Page/安部未華子.md "wikilink")、大槻響、波多野結衣
   - AV女優が裏で個人経営するソープ店で連続射精\!\! AIKA編（9月30日、KMPVR）
   - 黒ギャル女子●生たちとハーレム中出し性交
@@ -514,15 +513,15 @@
 
 ### 網路電視
 
-  - AV女優の初恋ピュア物語〜前編〜（2018年1月13日、[AbemaTV](https://zh.wikipedia.org/wiki/AbemaTV "wikilink")）\[19\]
-  - 桃色♡ゲームチャンネル（2018年1月25日\[20\]、2月8日、2月22日、3月8日、3月22日、4月19日、4月26日\[21\]、[AbemaTVウルトラゲームス](https://zh.wikipedia.org/wiki/AbemaTV "wikilink")）
+  - AV女優の初恋ピュア物語〜前編〜（2018年1月13日、[AbemaTV](../Page/AbemaTV.md "wikilink")）\[19\]
+  - 桃色♡ゲームチャンネル（2018年1月25日\[20\]、2月8日、2月22日、3月8日、3月22日、4月19日、4月26日\[21\]、[AbemaTVウルトラゲームス](../Page/AbemaTV.md "wikilink")）
   - 極楽とんぼKAKERUTV（2018年1月11日\[22\]、5月9日\[23\]、AbemaTV）
   - DTテレビ（2018年10月26日、AbemaTV）
   - 今日だけ、AV女優を辞めます。（2018年12月25日 - 、U-NEXT\[24\]）
 
 ## 台灣活動
 
-2015年8月11日，與[上原亞衣](https://zh.wikipedia.org/wiki/上原亞衣 "wikilink")、[沖田杏梨](../Page/沖田杏梨.md "wikilink")、[水菜麗](../Page/水菜麗.md "wikilink")、[彩乃奈奈與](https://zh.wikipedia.org/wiki/彩乃奈奈 "wikilink")[千乃杏美等](https://zh.wikipedia.org/wiki/千乃杏美 "wikilink")5人共同來台參加「第四屆成人博覽會」\[25\]\[26\]。
+2015年8月11日，與[上原亞衣](../Page/上原亞衣.md "wikilink")、[沖田杏梨](../Page/沖田杏梨.md "wikilink")、[水菜麗](../Page/水菜麗.md "wikilink")、[彩乃奈奈與](https://zh.wikipedia.org/wiki/彩乃奈奈 "wikilink")[千乃杏美等](https://zh.wikipedia.org/wiki/千乃杏美 "wikilink")5人共同來台參加「第四屆成人博覽會」\[25\]\[26\]。
 
 ## 參考資料
 

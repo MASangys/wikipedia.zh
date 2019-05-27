@@ -24,7 +24,7 @@
 | [吴倩莲](https://zh.wikipedia.org/wiki/吴倩莲 "wikilink")      | 小妹     | [吳小藝](../Page/吳小藝.md "wikilink")                          | 雞翼女友                              |
 | [陈法蓉](https://zh.wikipedia.org/wiki/陈法蓉 "wikilink")      |        | [龍寶鈿](../Page/龍寶鈿.md "wikilink")                          | 阿杰的旧情人                            |
 | [刘兆铭](https://zh.wikipedia.org/wiki/刘兆铭 "wikilink")      | 范叔     | [黃子敬](../Page/黃子敬.md "wikilink")                          | 被迫跳海自杀                            |
-| [王霄](https://zh.wikipedia.org/wiki/王霄_\(演員\) "wikilink") | 詹永飛    | [梁政平](../Page/梁政平.md "wikilink")                          | 曾是范叔的徒弟，后背叛了范叔 賽後被誤以為故意假賭，被老楊部下擊斃 |
+| [王霄](../Page/王霄_\(演員\).md "wikilink")                    | 詹永飛    | [梁政平](../Page/梁政平.md "wikilink")                          | 曾是范叔的徒弟，后背叛了范叔 賽後被誤以為故意假賭，被老楊部下擊斃 |
 | [黄秋生](https://zh.wikipedia.org/wiki/黄秋生 "wikilink")      | 炮哥     | [黄秋生](https://zh.wikipedia.org/wiki/黄秋生 "wikilink")       | 詹永飛的手下，被小妹开车撞死                    |
 | [陈卓欣](https://zh.wikipedia.org/wiki/陈卓欣 "wikilink")      | 欣欣     |                                                           | 阿杰的女儿                             |
 | [李兆基](../Page/李兆基_\(演員\).md "wikilink")                  | 阿基     | [盧雄](../Page/盧雄.md "wikilink")                            | 范叔的手下，被炮哥吊死                       |

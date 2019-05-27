@@ -105,8 +105,7 @@ NERV最高司令官（沿用前作的設定）。真嗣之父。
 :\* 赤木律子（聲優：[山口由里子](../Page/山口由里子.md "wikilink")） - AAA
 Wunder副艦長。她的頭髮比新劇場版：破的時候短很多。
 
-:\* 伊吹摩耶（聲優：[長澤美樹](https://zh.wikipedia.org/wiki/長澤美樹 "wikilink")） - AAA
-Wunder整備長。
+:\* 伊吹摩耶（聲優：[長澤美樹](../Page/長澤美樹.md "wikilink")） - AAA Wunder整備長。
 
 :\* 青葉茂（聲優：[子安武人](../Page/子安武人.md "wikilink")）- AAA Wunder操作员。
 
@@ -178,11 +177,11 @@ Mark.04、8号機、Mark.09、第13号機等。
   - 原作・脚本・总监督：[庵野秀明](../Page/庵野秀明.md "wikilink")
   - 监督：[摩砂雪](../Page/摩砂雪.md "wikilink")、[前田真宏](https://zh.wikipedia.org/wiki/前田真宏_\(动画导演\) "wikilink")、[鶴卷和哉](../Page/鶴卷和哉.md "wikilink")
   - 主・人物设定：[贞本义行](../Page/贞本义行.md "wikilink")
-  - 主・机械设定：[山下育人](https://zh.wikipedia.org/wiki/山下育人 "wikilink")
+  - 主・机械设定：[山下育人](../Page/山下育人.md "wikilink")
   - 分镜：鶴卷和哉、[樋口真嗣](../Page/樋口真嗣.md "wikilink")、摩砂雪、前田真宏、小松田大全、[轟木一騎](https://zh.wikipedia.org/wiki/轟木一騎 "wikilink")、庵野秀明
   - 总作画监督：[本田雄](../Page/本田雄.md "wikilink")
   - 作画监督：[林明美](https://zh.wikipedia.org/wiki/林明美_\(动画师\) "wikilink")、[井上俊之](../Page/井上俊之.md "wikilink")
-  - 特技监督：[增尾昭一](https://zh.wikipedia.org/wiki/增尾昭一 "wikilink")
+  - 特技监督：[增尾昭一](../Page/增尾昭一.md "wikilink")
   - 副监督：[中山胜一](https://zh.wikipedia.org/wiki/中山胜一 "wikilink")、小松田大全
   - 设计工作：[本田雄](../Page/本田雄.md "wikilink")、高倉武史、[渡部隆](https://zh.wikipedia.org/wiki/渡部隆 "wikilink")、コヤマシゲト、小松田大全、渭原敏明、小林浩康、吉崎響、[浅井真紀](https://zh.wikipedia.org/wiki/浅井真紀 "wikilink")、前田真宏、鶴卷和哉、[樋口真嗣](../Page/樋口真嗣.md "wikilink")、[出渕裕](https://zh.wikipedia.org/wiki/出渕裕 "wikilink")、庵野秀明
   - 总演出：鈴木清崇（[龙之子](https://zh.wikipedia.org/wiki/龙之子 "wikilink")）

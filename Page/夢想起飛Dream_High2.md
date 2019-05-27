@@ -111,7 +111,7 @@ School](../Page/After_School.md "wikilink")）\[2\] 主演。\[3\] \[4\]
 <td><p><strong>国語配音</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/段宜恩" title="wikilink">Mark</a>（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）</p></td>
+<td><p><a href="../Page/段宜恩.md" title="wikilink">Mark</a>（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）</p></td>
 <td><p>舞者</p></td>
 <td><p>第1集</p></td>
 <td></td>

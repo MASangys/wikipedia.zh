@@ -484,7 +484,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》上連載\[1\]。已出�
 <td><p>Channel 10</p></td>
 <td></td>
 <td><p>碳酸 Act up</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小島正幸" title="wikilink">小島正幸</a></p></td>
+<td><p><a href="../Page/小島正幸.md" title="wikilink">小島正幸</a></p></td>
 <td><p>池畠博史</p></td>
 <td><p>水上ろんど<br />
 酒井孝裕<br />

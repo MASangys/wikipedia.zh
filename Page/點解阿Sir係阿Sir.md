@@ -447,7 +447,7 @@ Macy之男友<br />
 5C班學生</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭家俊" title="wikilink">鄭家俊</a></p></td>
+<td><p><a href="../Page/鄭家俊.md" title="wikilink">鄭家俊</a></p></td>
 <td><p>沈智強</p></td>
 <td><p><strong>阿嬸</strong><br />
 善長饒舌（Rap）<br />
@@ -632,7 +632,7 @@ Macy之男友<br />
 <td><p>警員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/司徒暉" title="wikilink">司徒暉</a></p></td>
+<td><p><a href="../Page/司徒暉.md" title="wikilink">司徒暉</a></p></td>
 <td></td>
 <td><p>警員</p></td>
 </tr>
@@ -705,7 +705,7 @@ Macy之男友<br />
 於第25集因涉及毒品交易而被捕及判處終身監禁</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳少邦" title="wikilink">陳少邦</a></p></td>
+<td><p><a href="../Page/陳少邦.md" title="wikilink">陳少邦</a></p></td>
 <td><p>賀哲信</p></td>
 <td><p><strong>Terrence</strong><br />
 黑社會成員<br />
@@ -937,7 +937,7 @@ Jack之女</p></td>
 於第11集被判入懲教所3年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
 <td><p>張Sir</p></td>
 <td><p>「畢裘仁紀念中學」老師</p></td>
 </tr>
@@ -1255,12 +1255,12 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/尹詩沛" title="wikilink">尹詩沛</a></p></td>
+<td><p><a href="../Page/尹詩沛.md" title="wikilink">尹詩沛</a></p></td>
 <td><p>美　女</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蕭凱欣" title="wikilink">蕭凱欣</a></p></td>
+<td><p><a href="../Page/蕭凱欣.md" title="wikilink">蕭凱欣</a></p></td>
 <td><p>美　女</p></td>
 <td></td>
 </tr>
@@ -1275,7 +1275,7 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/方紹聰" title="wikilink">方紹聰</a></p></td>
+<td><p><a href="../Page/方紹聰.md" title="wikilink">方紹聰</a></p></td>
 <td><p>Billy</p></td>
 <td><p>游浩翔之朋友，後反目</p></td>
 </tr>
@@ -1291,7 +1291,7 @@ Jack之女</p></td>
 與倪鋒發生一夜情</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
 <td></td>
 <td><p>其他學校教練</p></td>
 </tr>
@@ -1337,7 +1337,7 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/姚兵" title="wikilink">姚　兵</a></p></td>
+<td><p><a href="../Page/姚兵.md" title="wikilink">姚　兵</a></p></td>
 <td><p>內地人員</p></td>
 <td></td>
 </tr>
@@ -1382,7 +1382,7 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
 <td><p>戚Sir</p></td>
 <td></td>
 </tr>
@@ -1407,7 +1407,7 @@ Jack之女</p></td>
 <td><p>Wedding Planner</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/易智遠" title="wikilink">易智遠</a></p></td>
+<td><p><a href="../Page/易智遠.md" title="wikilink">易智遠</a></p></td>
 <td><p>地產經紀</p></td>
 <td></td>
 </tr>
@@ -1527,7 +1527,7 @@ Jack之女</p></td>
 </tbody>
 </table>
 
-### [星和無綫電視大獎2012](https://zh.wikipedia.org/wiki/星和無綫電視大獎2012 "wikilink")
+### [星和無綫電視大獎2012](../Page/星和無綫電視大獎2012.md "wikilink")
 
 | 獎項           | 獲奬單位                                                                               |
 | ------------ | ---------------------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
 《**IS〈Infinite
 Stratos〉**》（），也称为《无限斯特拉托斯》，是[弓弦出著作的](../Page/弓弦出.md "wikilink")[日本](../Page/日本.md "wikilink")[轻小说系列](https://zh.wikipedia.org/wiki/轻小说 "wikilink")，曾因某些因素导致小说、漫画更换绘者，发行出版社变更為[Media
-Factory](../Page/Media_Factory.md "wikilink")，此版本[插画由](https://zh.wikipedia.org/wiki/插画 "wikilink")[okiura负责](https://zh.wikipedia.org/wiki/okiura "wikilink")，[OVERLAP新装版插画由](https://zh.wikipedia.org/wiki/OVERLAP "wikilink")[CHOCO负责](https://zh.wikipedia.org/wiki/CHOCO "wikilink")。台湾中文版均由[尖端出版代理](../Page/尖端出版.md "wikilink")。
+Factory](../Page/Media_Factory.md "wikilink")，此版本[插画由](https://zh.wikipedia.org/wiki/插画 "wikilink")[okiura负责](https://zh.wikipedia.org/wiki/okiura "wikilink")，[OVERLAP新装版插画由](../Page/OVERLAP.md "wikilink")[CHOCO负责](https://zh.wikipedia.org/wiki/CHOCO "wikilink")。台湾中文版均由[尖端出版代理](../Page/尖端出版.md "wikilink")。
 
 ## 概要
 
@@ -19,7 +19,7 @@ Factory](../Page/Media_Factory.md "wikilink")，此版本[插画由](https://zh.
     Factory已於](../Page/Media_Factory.md "wikilink")2012年2月28日完成原作商標讓渡。\[8\]
 
   - 2012年11月30日，動畫官網[Twitter宣佈再啟動](../Page/Twitter.md "wikilink")，由與Media
-    Factory協力關係密切的[OVERLAP出面參加](https://zh.wikipedia.org/wiki/OVERLAP "wikilink")[Comic
+    Factory協力關係密切的[OVERLAP出面參加](../Page/OVERLAP.md "wikilink")[Comic
     Market](../Page/Comic_Market.md "wikilink")
     83並販售原創商品\[9\]，作品商標也跟先前不同。
 
@@ -27,7 +27,7 @@ Factory](../Page/Media_Factory.md "wikilink")，此版本[插画由](https://zh.
 
   - 2013年4月8日，OVERLAP開設《OVERLAP文庫》創刊紀念活動特設網站，卻不慎洩露決定製作電視動畫新作的消息，之後修正。\[10\]同年4月20日正式宣佈。
 
-  - 2013年8月16日，作者應[尖端出版邀請來](../Page/尖端出版.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，在[漫畫博覽會首度舉辦簽名會](https://zh.wikipedia.org/wiki/漫畫博覽會 "wikilink")，並接受[台灣媒體聯訪](https://zh.wikipedia.org/wiki/台灣媒體 "wikilink")，透露未來將設定以台灣為形象的《IS》女性角色\[11\]。
+  - 2013年8月16日，作者應[尖端出版邀請來](../Page/尖端出版.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，在[漫畫博覽會首度舉辦簽名會](https://zh.wikipedia.org/wiki/漫畫博覽會 "wikilink")，並接受[台灣媒體聯訪](../Page/台灣媒體.md "wikilink")，透露未來將設定以台灣為形象的《IS》女性角色\[11\]。
 
 ## 故事簡介
 
@@ -576,7 +576,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/OVERLAP" title="wikilink">OVERLAP</a></p></th>
+<th><p><a href="../Page/OVERLAP.md" title="wikilink">OVERLAP</a></p></th>
 <th><p><a href="../Page/尖端出版.md" title="wikilink">尖端出版</a></p></th>
 </tr>
 </thead>
@@ -969,12 +969,12 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <td><p>第6話</p></td>
 <td></td>
 <td><p>少女的自尊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鴻野貴光" title="wikilink">鴻野貴光</a></p></td>
+<td><p><a href="../Page/鴻野貴光.md" title="wikilink">鴻野貴光</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/石倉賢一" title="wikilink">石倉賢一</a></p></td>
 <td><p>森義博</p></td>
 <td><p>堀井久美<br />
 清水空翔</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山內則康" title="wikilink">山內則康</a>、小澤圓<br />
+<td><p><a href="../Page/山內則康.md" title="wikilink">山內則康</a>、小澤圓<br />
 <a href="../Page/實原登.md" title="wikilink">實原登</a></p></td>
 <td><p>動畫原創<br />
 部份第7冊</p></td>

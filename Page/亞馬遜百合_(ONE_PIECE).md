@@ -151,7 +151,7 @@
 <!-- end list -->
 
   -
-    聲優：[西川宏美](https://zh.wikipedia.org/wiki/西川宏美 "wikilink")（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")〈ep.512〉（台灣）
+    聲優：[西川宏美](../Page/西川宏美.md "wikilink")（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")〈ep.512〉（台灣）
     九蛇海賊團的成員，口頭禪「」的胖女子<small>\[33\]</small>。
     名字「」源自英語「」，意即[波斯菊](https://zh.wikipedia.org/wiki/波斯菊 "wikilink")（花名）。
 

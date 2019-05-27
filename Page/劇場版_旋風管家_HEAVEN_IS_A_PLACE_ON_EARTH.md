@@ -30,7 +30,7 @@ FINAL](../Page/魔法老師_\(動畫\).md "wikilink")》一同放映。\[2\]\[3\
   - [綾崎鈴音](https://zh.wikipedia.org/wiki/旋風管家角色列表#鈴音 "wikilink")：[遠藤綾](../Page/遠藤綾.md "wikilink")（日本）／[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）
   - [春風千櫻](https://zh.wikipedia.org/wiki/旋風管家角色列表#春風千櫻 "wikilink")：[藤村步](../Page/藤村步.md "wikilink")（日本）／[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）
   - [劍野伽遊羅](https://zh.wikipedia.org/wiki/旋風管家角色列表#劍野伽遊羅 "wikilink")：[日笠陽子](../Page/日笠陽子.md "wikilink")（日本）／[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
-  - [水蓮寺琉加](https://zh.wikipedia.org/wiki/旋風管家角色列表#水蓮寺琉加 "wikilink")：[山崎遙](https://zh.wikipedia.org/wiki/山崎遙 "wikilink")（日本）／[龍顯蕙](../Page/龍顯蕙.md "wikilink")（台灣）
+  - [水蓮寺琉加](https://zh.wikipedia.org/wiki/旋風管家角色列表#水蓮寺琉加 "wikilink")：[山崎遙](../Page/山崎遙.md "wikilink")（日本）／[龍顯蕙](../Page/龍顯蕙.md "wikilink")（台灣）
   - [瀨川泉](https://zh.wikipedia.org/wiki/旋風管家角色列表#瀨川泉 "wikilink")：[矢作紗友里](../Page/矢作紗友里.md "wikilink")（日本）／[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）
   - [花菱美希](https://zh.wikipedia.org/wiki/旋風管家角色列表#花菱美希 "wikilink")：[中尾衣里](../Page/中尾衣里.md "wikilink")（日本）／[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
   - [朝風理沙](https://zh.wikipedia.org/wiki/旋風管家角色列表#朝風理沙 "wikilink")：[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")（日本）／[龍顯蕙](../Page/龍顯蕙.md "wikilink")（台灣）

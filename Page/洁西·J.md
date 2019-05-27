@@ -10,7 +10,7 @@ Bang](https://zh.wikipedia.org/wiki/砰砰 "wikilink")》，它在英国排名�
 J在全球销售了超过2000万首单曲和300万张专辑。\[2\]
 
 潔西·J援引且受到不同的影響，以其非常规的音乐及表演风格而受到認可，\[3\]\[4\]
-将[灵魂乐唱腔與](https://zh.wikipedia.org/wiki/灵魂乐 "wikilink")[當代節奏藍調](https://zh.wikipedia.org/wiki/當代節奏藍調 "wikilink")，[流行乐](../Page/流行_\(音樂類型\).md "wikilink")，[電子流行](https://zh.wikipedia.org/wiki/電子流行 "wikilink")，\[5\]\[6\]（Breakbeat）相混合。她获得了各种奖项和提名，包括2011年乐评人选择奖和2011年BBC[年度新声](../Page/年度新声.md "wikilink")。潔西·J支持各种慈善事业，出现在英国慈善电视節目《》和《[喜劇救濟](https://zh.wikipedia.org/wiki/喜劇救濟 "wikilink")》。她曾在电视歌唱节目和及担任導師和評委。
+将[灵魂乐唱腔與](https://zh.wikipedia.org/wiki/灵魂乐 "wikilink")[當代節奏藍調](https://zh.wikipedia.org/wiki/當代節奏藍調 "wikilink")，[流行乐](../Page/流行_\(音樂類型\).md "wikilink")，[電子流行](../Page/電子流行.md "wikilink")，\[5\]\[6\]（Breakbeat）相混合。她获得了各种奖项和提名，包括2011年乐评人选择奖和2011年BBC[年度新声](../Page/年度新声.md "wikilink")。潔西·J支持各种慈善事业，出现在英国慈善电视節目《》和《[喜劇救濟](https://zh.wikipedia.org/wiki/喜劇救濟 "wikilink")》。她曾在电视歌唱节目和及担任導師和評委。
 
 ## 早期生活
 
@@ -22,7 +22,7 @@ Late Sleepers）。\[11\]
 潔西·J有两个姐姐，她們在學校都是學生代表。与她的学究姐姐们不同，潔西·J表示她“從來沒真正擅長甚麼”。她说：“在学校他们的反应像是，噢你是柯妮許（Cornish）家的女孩，希望我能像我的姐姐们一样。给我些甚麼畫畫或給我套服裝選人，還有[发型](../Page/发型.md "wikilink")、[化妆](../Page/化妆.md "wikilink")、[表演](https://zh.wikipedia.org/wiki/表演 "wikilink")、写歌這些事我還好。但与算術有关的，从来没有我的事。”她还说她一直擅长唱歌，这是她的“事”。她也從未根据自己的考试成绩来评估自己的智慧。\[12\]2003年，潔西·J十五歲時，她贏得了電視秀英國傑出天才大賽中「最佳流行歌手」的獎項。\[13\]16歲開始就讀，17歲時加入一個女子樂團靈魂深處（Soul
 Deep）。\[14\]2006年和同學[愛黛兒](../Page/愛黛兒.md "wikilink")
 及[里歐娜畢業於表全英演藝學校](https://zh.wikipedia.org/wiki/里歐娜 "wikilink")。\[15\]
-潔西·J罹患[沃夫巴金森懷特症候群](https://zh.wikipedia.org/wiki/沃夫巴金森懷特症候群 "wikilink")，為一種先天心律不整的疾病，她称在18歲得過一次小[中風](../Page/中風.md "wikilink")。\[16\]关于她为何选择“”为艺名，在接受[每日邮报采访时说](https://zh.wikipedia.org/wiki/每日邮报 "wikilink")：“说实话，藝名中的J没甚么特别原因”。\[17\]
+潔西·J罹患[沃夫巴金森懷特症候群](../Page/沃夫巴金森懷特症候群.md "wikilink")，為一種先天心律不整的疾病，她称在18歲得過一次小[中風](../Page/中風.md "wikilink")。\[16\]关于她为何选择“”为艺名，在接受[每日邮报采访时说](https://zh.wikipedia.org/wiki/每日邮报 "wikilink")：“说实话，藝名中的J没甚么特别原因”。\[17\]
 
 ## 職業生涯
 
@@ -30,7 +30,7 @@ Deep）。\[14\]2006年和同學[愛黛兒](../Page/愛黛兒.md "wikilink")
 
 她和公司簽約，公司為她錄製了一张專輯，但在未發表任何作品前便破產。\[18\]\[19\]後來她發現作為歌曲創作者比較創佳績，得到[索尼/联合电视音乐出版公司的合同](https://zh.wikipedia.org/wiki/索尼/联合电视音乐出版 "wikilink")。\[20\]潔西·J为[克里斯小子和](https://zh.wikipedia.org/wiki/克里斯小子 "wikilink")[麥莉·希拉等藝人写过歌词](../Page/麥莉·希拉.md "wikilink")，包括麥莉·希拉的《》。\[21\]\[22\]2008年受邀在[辛蒂·羅波](../Page/辛蒂·羅波.md "wikilink")「Bring
 Ya To The Brink
-Tour」演唱會英國巡演期間擔任合音（辛蒂·羅波邀請她一起演出[女孩只想玩樂](https://zh.wikipedia.org/wiki/女孩只想玩樂 "wikilink")）。潔西·J加入過一个名为靈魂深處（Soul
+Tour」演唱會英國巡演期間擔任合音（辛蒂·羅波邀請她一起演出[女孩只想玩樂](../Page/女孩只想玩樂.md "wikilink")）。潔西·J加入過一个名为靈魂深處（Soul
 Deep）的女子乐队二年时间，然而她相信“它不会有未来”，她离开了乐队。尽管人们认为她最初成名是通过[YouTube](../Page/YouTube.md "wikilink")，但潔西·J在她的第一支影片发表以前已經签了四年的合约。当她在[索尼/联合电视音乐出版公司的出版人瑞奇](https://zh.wikipedia.org/wiki/索尼/联合电视音乐出版 "wikilink")·克里斯丁娜（Rich
 Christina）向Lava总裁发送潔西·J的[MySpace的页面链接後](https://zh.wikipedia.org/wiki/MySpace "wikilink")，潔西·J首先引起了的注意，该页面是唱片公司高层所喜爱的。\[23\]在看到一个令人印象深刻的美国展示案之后，Lava唱片以及其他几个唱片公司，热衷于签署这位艺人，但她經濟公司管理層堅持不懈的阻礙了進展，據杰森·弗洛姆所稱這是個“疯狂的交易條件”，公司也拒絕讓潔西·J与任何[唱片公司直接对话](../Page/唱片公司.md "wikilink")。\[24\]尽管如此，Lava唱片高级主管海林達·羅納（Harinder
 Rana）在2008年[冬天单独与潔西](https://zh.wikipedia.org/wiki/冬天 "wikilink")·J见面。这年晚些时候她的經紀公司皇冠音乐（Crown
@@ -46,9 +46,9 @@ Silk》的歌曲被青少年[喜劇電影](../Page/喜劇.md "wikilink")[破處�
 潔西·J在2010年11月21日於英國發行她的單曲《》，在[英國單曲排行榜上最终排名第](../Page/英國單曲排行榜.md "wikilink")2。此歌曲是与乔治·阿斯达西奥（George
 Astasio）、Tj·诺曼顿（Tj Normandin）、杰森·佩布沃思（Jason Pebworth）、乔恩·西弗（Jon
 Shave）、凯尔·亚伯拉罕斯（Kyle Abrahams）、彼得·伊立（Peter Ighile）共同撰写。最初Jessie
-J为[蕾哈娜写了这首歌](../Page/蕾哈娜.md "wikilink")，因为当时[蕾哈娜发行了歌曲](../Page/蕾哈娜.md "wikilink")《》部分激发了她的想法。她将这首歌给她的唱片公司[小島唱片](../Page/小島唱片.md "wikilink")，也给了蕾哈娜的经纪人，小島唱片则坚持认为这首歌因該成为潔西·J的第一支单曲。\[30\]她希望与蕾哈娜一起演唱这首歌。\[31\]单曲得到乐评人的积极评价。\[32\]她的后续单曲《》在2011年1月下旬发表，這首歌曲為專輯的第二首單曲。它由洁西·J，[卢克博士](https://zh.wikipedia.org/wiki/卢克博士 "wikilink")、和[巴比瑞撰写](../Page/巴比瑞.md "wikilink")。此单曲在英國單曲排行榜排名第一，也在[新西兰和](../Page/新西兰.md "wikilink")[爱尔兰排名第一](../Page/爱尔兰.md "wikilink")，2011年2月1日于美国发表後在[告示牌百大单曲榜上最终排名第](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")23。\[33\]这也是潔西·J最成功的音乐影片。她第一次上的美国电视节目是在2011年3月12作为音乐嘉宾出席[週六夜現場](../Page/週六夜現場.md "wikilink")。\[34\]
+J为[蕾哈娜写了这首歌](../Page/蕾哈娜.md "wikilink")，因为当时[蕾哈娜发行了歌曲](../Page/蕾哈娜.md "wikilink")《》部分激发了她的想法。她将这首歌给她的唱片公司[小島唱片](../Page/小島唱片.md "wikilink")，也给了蕾哈娜的经纪人，小島唱片则坚持认为这首歌因該成为潔西·J的第一支单曲。\[30\]她希望与蕾哈娜一起演唱这首歌。\[31\]单曲得到乐评人的积极评价。\[32\]她的后续单曲《》在2011年1月下旬发表，這首歌曲為專輯的第二首單曲。它由洁西·J，[卢克博士](../Page/卢克博士.md "wikilink")、和[巴比瑞撰写](../Page/巴比瑞.md "wikilink")。此单曲在英國單曲排行榜排名第一，也在[新西兰和](../Page/新西兰.md "wikilink")[爱尔兰排名第一](../Page/爱尔兰.md "wikilink")，2011年2月1日于美国发表後在[告示牌百大单曲榜上最终排名第](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")23。\[33\]这也是潔西·J最成功的音乐影片。她第一次上的美国电视节目是在2011年3月12作为音乐嘉宾出席[週六夜現場](../Page/週六夜現場.md "wikilink")。\[34\]
 
-2011年2月25日她的首张专辑《[你是誰](../Page/你是誰_\(潔西_J專輯\).md "wikilink")》发行。\[35\]该专辑于2011年3月6日首次进入[英国专辑排行榜](https://zh.wikipedia.org/wiki/英国专辑排行榜 "wikilink")，排在第二位，这张专辑在许多国家排名前十，在美国排名第11。\[36\]专辑发行后，她继续发表专辑中的第三首单曲《》。\[37\][音樂電視網报导](../Page/音樂電視網.md "wikilink")，至目前为止，该单曲仅在英国发表。\[38\]这张专辑的第四首单曲是《》。《》是她在美国的第二首单曲。\[39\][卢克博士说歌曲在](https://zh.wikipedia.org/wiki/卢克博士 "wikilink")2011年9月6日被送到主流電台。\[40\]随着专辑《你是誰》在北美的成功，潔西·J在2011年被选为[凱蒂·佩芮的](../Page/凱蒂·佩芮.md "wikilink")的开场表演嘉宾，但是在排练後她的脚受伤了。\[41\]潔西·J在[2011年MTV音樂錄影帶大獎進行表演](https://zh.wikipedia.org/wiki/2011年MTV音樂錄影帶大獎 "wikilink")，演奏了她的几首原创歌曲及商业广告。\[42\]
+2011年2月25日她的首张专辑《[你是誰](../Page/你是誰_\(潔西_J專輯\).md "wikilink")》发行。\[35\]该专辑于2011年3月6日首次进入[英国专辑排行榜](https://zh.wikipedia.org/wiki/英国专辑排行榜 "wikilink")，排在第二位，这张专辑在许多国家排名前十，在美国排名第11。\[36\]专辑发行后，她继续发表专辑中的第三首单曲《》。\[37\][音樂電視網报导](../Page/音樂電視網.md "wikilink")，至目前为止，该单曲仅在英国发表。\[38\]这张专辑的第四首单曲是《》。《》是她在美国的第二首单曲。\[39\][卢克博士说歌曲在](../Page/卢克博士.md "wikilink")2011年9月6日被送到主流電台。\[40\]随着专辑《你是誰》在北美的成功，潔西·J在2011年被选为[凱蒂·佩芮的](../Page/凱蒂·佩芮.md "wikilink")的开场表演嘉宾，但是在排练後她的脚受伤了。\[41\]潔西·J在[2011年MTV音樂錄影帶大獎進行表演](https://zh.wikipedia.org/wiki/2011年MTV音樂錄影帶大獎 "wikilink")，演奏了她的几首原创歌曲及商业广告。\[42\]
 [Jessie_J_in_NYC4.jpg](https://zh.wikipedia.org/wiki/File:Jessie_J_in_NYC4.jpg "fig:Jessie_J_in_NYC4.jpg")的一场音乐会上演出\]\]
 
 2011年6月12日，在伦敦[温布利球场举行的](../Page/温布利球场.md "wikilink")上，潔西·J在排练期间几根脚[肌腱断裂](https://zh.wikipedia.org/wiki/肌腱 "wikilink")，并在第二天坐在“镀金”的宝座上演出。\[43\]2011年6月25日她出席，再次坐在宝座上，她说医生告诉她不能演出且需要六周才能治愈脚伤。\[44\]潔西·J计划在整个[夏天参加几个音乐活动](https://zh.wikipedia.org/wiki/夏天 "wikilink")，但据报道，2011年7月1日，因为她的脚伤而无法参加、、、[iTunes
@@ -97,7 +97,7 @@ My Ex》，代表着迷（obsession）。\[77\]第三首单曲《Queen》于2017
 
 2017年10月，开始在[欧洲和](../Page/欧洲.md "wikilink")[美国进行](../Page/美国.md "wikilink")推广她即将发行的专辑。\[78\]
 
-2018年1月她參賽中国歌唱節目[歌手2018](https://zh.wikipedia.org/wiki/歌手2018 "wikilink")，在三个月后作为第一个欧洲人贏得了賽事的冠軍。\[79\]在比賽中累積取得5次冠軍，打破此節目開播以來的記錄，在總決賽中她獲得47.49%投票率。
+2018年1月她參賽中国歌唱節目[歌手2018](../Page/歌手2018.md "wikilink")，在三个月后作为第一个欧洲人贏得了賽事的冠軍。\[79\]在比賽中累積取得5次冠軍，打破此節目開播以來的記錄，在總決賽中她獲得47.49%投票率。
 
 2018年潔西·J繼上張專輯《[甜言蜜語](https://zh.wikipedia.org/wiki/甜言蜜語_\(婕茜·J專輯\) "wikilink")》後睽違4年於5月25發布全新專輯《》，並將專輯分成四個部份，R（Realisations/領悟）、O（Obsession/沉迷）、S（Sex/性）、E（Empowerment/釋放）、E（Empowerment/釋放），这张专辑远离了过去的音乐風格，而是采用了[R\&B风格](https://zh.wikipedia.org/wiki/R&B "wikilink")。\[80\]
 
@@ -205,7 +205,7 @@ Sullivan）一起在舞台上演出了《》，丹尼尔将在四个月后去世
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/歌手2018" title="wikilink">歌手2018</a></em></p></td>
+<td><p><em><a href="../Page/歌手2018.md" title="wikilink">歌手2018</a></em></p></td>
 <td><p>选手</p></td>
 <td><p>歌手競爭節目</p></td>
 </tr>

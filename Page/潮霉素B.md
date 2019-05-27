@@ -1,6 +1,6 @@
 **潮霉素B(Hygromycin B)**
 是一种由[吸水链霉菌](https://zh.wikipedia.org/wiki/吸水链霉菌 "wikilink")（*Streptomyces
-hygroscopicus*）产生的[抗生素](https://zh.wikipedia.org/wiki/抗生素 "wikilink")，是[氨基糖苷类抗生素之一](../Page/氨基糖苷类抗生素.md "wikilink")，为微黄褐色粉末。潮霉素B可通过抑制[细菌](../Page/细菌.md "wikilink")、[真菌和一些高等](https://zh.wikipedia.org/wiki/真菌 "wikilink")[真核生物](../Page/真核生物.md "wikilink")[细胞内的](../Page/细胞.md "wikilink")[蛋白质生物合成来杀死这些生物](https://zh.wikipedia.org/wiki/蛋白质生物合成 "wikilink")。\[1\]潮霉素B可溶于[甲醇](../Page/甲醇.md "wikilink")、[乙醇和](../Page/乙醇.md "wikilink")[水](../Page/水.md "wikilink")，但在[乙醚](../Page/乙醚.md "wikilink")、[氯仿或](../Page/氯仿.md "wikilink")[苯中都几乎不溶](../Page/苯.md "wikilink")。
+hygroscopicus*）产生的[抗生素](https://zh.wikipedia.org/wiki/抗生素 "wikilink")，是[氨基糖苷类抗生素之一](../Page/氨基糖苷类抗生素.md "wikilink")，为微黄褐色粉末。潮霉素B可通过抑制[细菌](../Page/细菌.md "wikilink")、[真菌和一些高等](../Page/真菌.md "wikilink")[真核生物](../Page/真核生物.md "wikilink")[细胞内的](../Page/细胞.md "wikilink")[蛋白质生物合成来杀死这些生物](https://zh.wikipedia.org/wiki/蛋白质生物合成 "wikilink")。\[1\]潮霉素B可溶于[甲醇](../Page/甲醇.md "wikilink")、[乙醇和](../Page/乙醇.md "wikilink")[水](../Page/水.md "wikilink")，但在[乙醚](../Page/乙醚.md "wikilink")、[氯仿或](../Page/氯仿.md "wikilink")[苯中都几乎不溶](../Page/苯.md "wikilink")。
 
 ## 历史
 

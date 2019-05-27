@@ -1,5 +1,5 @@
 **ClariS**（）是一個日本的雙人女子[偶像组合](https://zh.wikipedia.org/wiki/偶像 "wikilink")，目前唱片公司为[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂.md "wikilink")[SACRA
-MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")，經紀公司為。
+MUSIC](../Page/SACRA_MUSIC.md "wikilink")，經紀公司為。
 
 ## 發展
 
@@ -25,13 +25,13 @@ Sky」，同時公布了「新生ClariS」的首張視覺圖，依然維持雙�
 5的消息\[10\]。
 
 2015年1月25日，再次以真人参演方式参与了[LisAni\!LIVE
-5演唱会表演](https://zh.wikipedia.org/wiki/Lis_Ani! "wikilink")，但在强烈的灯光效果和佩戴了面纱的情况下，依然无法看到其真实脸容。\[11\]
+5演唱会表演](../Page/Lis_Ani!.md "wikilink")，但在强烈的灯光效果和佩戴了面纱的情况下，依然无法看到其真实脸容。\[11\]
 
 2015年7月31日，举办了第一场专属演唱会，不过依然保持以半脸纱遮盖脸容。\[12\]
 
 2017年4月，由原先[SME
 Records移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/SME_Records.md "wikilink")[SACRA
-MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。\[13\]
+MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[13\]
 
 ## 成員
 
@@ -177,7 +177,7 @@ ClariS最初是一個由來自北海道的兩個女中學生Clara和Aris（非�
 <tr class="even">
 <td><p>15th</p></td>
 <td><p>2016年9月14日</p></td>
-<td><p><strong>clever（ClariS×<a href="https://zh.wikipedia.org/wiki/GARNiDELiA" title="wikilink">GARNiDELiA</a>）</strong></p></td>
+<td><p><strong>clever（ClariS×<a href="../Page/GARNiDELiA.md" title="wikilink">GARNiDELiA</a>）</strong></p></td>
 <td></td>
 <td></td>
 <td><p>SECL-1975/6</p></td>
@@ -217,7 +217,7 @@ ClariS最初是一個由來自北海道的兩個女中學生Clara和Aris（非�
 <tr class="odd">
 <td><p>20th</p></td>
 <td><p>2018年8月15日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/CheerS_(ClariS單曲)" title="wikilink">CheerS</a></strong></p></td>
+<td><p><strong><a href="../Page/CheerS_(ClariS單曲).md" title="wikilink">CheerS</a></strong></p></td>
 <td><p>VVCL-1262/3</p></td>
 <td><p>VVCL-1264</p></td>
 <td><p>VVCL-1265/6</p></td>
@@ -369,24 +369,24 @@ ISBN 978-4789735421</p></td>
 
 ## 音樂合作
 
-| 樂曲               | 音樂合作一覽                                                                                                                                                                            | 時期    |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| **irony**        | [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[我的妹妹哪有這麼可愛！](../Page/我的妹妹哪有這麼可愛！.md "wikilink")』片頭曲                                                                        | 2010年 |
-| **Connect**      | 電視動畫『[魔法少女小圓](https://zh.wikipedia.org/wiki/魔法少女小圓 "wikilink")』片頭曲                                                                                                                | 2011年 |
-| **秘密的話（ナイショの話）** | 電視動畫『[偽物語](../Page/偽物語.md "wikilink")』片尾曲                                                                                                                                         | 2012年 |
-| **Wake Up**      | 電視動畫『[農大菌物語](../Page/農大菌物語.md "wikilink")』片頭曲                                                                                                                                     |       |
-| **Reunion**      | 電視動畫『[我的妹妹哪有這麼可愛。](https://zh.wikipedia.org/wiki/我的妹妹哪有這麼可愛。 "wikilink")』片頭曲                                                                                                      | 2013年 |
-| **CLICK**        | 電視動畫『[偽戀](../Page/偽戀.md "wikilink")（第1期）』片頭曲                                                                                                                                      | 2014年 |
-| **STEP**         | 電視動畫『[偽戀](../Page/偽戀.md "wikilink")（第1期）』片頭曲                                                                                                                                      |       |
-| **border**       | 電視動畫『[憑物語](../Page/憑物語.md "wikilink")』片尾曲                                                                                                                                         | 2015年 |
-| **アネモネ**         | 電視動畫『[Classroom☆Crisis](../Page/Classroom☆Crisis.md "wikilink")』片尾曲                                                                                                               | 2015年 |
-| **Gravity**      | 電視動畫『[Qualidea Code](../Page/Qualidea_Code.md "wikilink")』片尾曲1st                                                                                                                  | 2016年 |
-| **clever**       | 電視動畫『[Qualidea Code](../Page/Qualidea_Code.md "wikilink")』片尾曲3rd                                                                                                                  |       |
-| **again**        | [PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[PS Vita遊戲](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")『[秋葉原妄想物語](https://zh.wikipedia.org/wiki/秋葉原妄想物語 "wikilink")』主題曲 |       |
-| **ヒトリゴト**        | 電視動畫『[情色漫畫老師](https://zh.wikipedia.org/wiki/情色漫畫老師 "wikilink")』片頭曲                                                                                                                | 2017年 |
-| **SHIORI**       | 電視動畫『[終物語 第二季](../Page/終物語.md "wikilink")』第二片尾曲                                                                                                                                   |       |
-| **PRIMALove**    | 電視動畫『[沒有心跳的少女 BEATLESS](https://zh.wikipedia.org/wiki/沒有心跳的少女_BEATLESS "wikilink")』片尾曲                                                                                            | 2018年 |
-| **CheerS**       | 電視動畫『[工作細胞](https://zh.wikipedia.org/wiki/工作細胞 "wikilink")』片尾曲                                                                                                                    |       |
+| 樂曲               | 音樂合作一覽                                                                                                                                                         | 時期    |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| **irony**        | [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[我的妹妹哪有這麼可愛！](../Page/我的妹妹哪有這麼可愛！.md "wikilink")』片頭曲                                                     | 2010年 |
+| **Connect**      | 電視動畫『[魔法少女小圓](https://zh.wikipedia.org/wiki/魔法少女小圓 "wikilink")』片頭曲                                                                                             | 2011年 |
+| **秘密的話（ナイショの話）** | 電視動畫『[偽物語](../Page/偽物語.md "wikilink")』片尾曲                                                                                                                      | 2012年 |
+| **Wake Up**      | 電視動畫『[農大菌物語](../Page/農大菌物語.md "wikilink")』片頭曲                                                                                                                  |       |
+| **Reunion**      | 電視動畫『[我的妹妹哪有這麼可愛。](https://zh.wikipedia.org/wiki/我的妹妹哪有這麼可愛。 "wikilink")』片頭曲                                                                                   | 2013年 |
+| **CLICK**        | 電視動畫『[偽戀](../Page/偽戀.md "wikilink")（第1期）』片頭曲                                                                                                                   | 2014年 |
+| **STEP**         | 電視動畫『[偽戀](../Page/偽戀.md "wikilink")（第1期）』片頭曲                                                                                                                   |       |
+| **border**       | 電視動畫『[憑物語](../Page/憑物語.md "wikilink")』片尾曲                                                                                                                      | 2015年 |
+| **アネモネ**         | 電視動畫『[Classroom☆Crisis](../Page/Classroom☆Crisis.md "wikilink")』片尾曲                                                                                            | 2015年 |
+| **Gravity**      | 電視動畫『[Qualidea Code](../Page/Qualidea_Code.md "wikilink")』片尾曲1st                                                                                               | 2016年 |
+| **clever**       | 電視動畫『[Qualidea Code](../Page/Qualidea_Code.md "wikilink")』片尾曲3rd                                                                                               |       |
+| **again**        | [PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[PS Vita遊戲](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")『[秋葉原妄想物語](../Page/秋葉原妄想物語.md "wikilink")』主題曲 |       |
+| **ヒトリゴト**        | 電視動畫『[情色漫畫老師](https://zh.wikipedia.org/wiki/情色漫畫老師 "wikilink")』片頭曲                                                                                             | 2017年 |
+| **SHIORI**       | 電視動畫『[終物語 第二季](../Page/終物語.md "wikilink")』第二片尾曲                                                                                                                |       |
+| **PRIMALove**    | 電視動畫『[沒有心跳的少女 BEATLESS](../Page/沒有心跳的少女_BEATLESS.md "wikilink")』片尾曲                                                                                            | 2018年 |
+| **CheerS**       | 電視動畫『[工作細胞](../Page/工作細胞.md "wikilink")』片尾曲                                                                                                                    |       |
 
 ## [Niconico上的翻唱作品](https://zh.wikipedia.org/wiki/Niconico "wikilink")
 
@@ -481,7 +481,7 @@ ISBN 978-4789735421</p></td>
 <tr class="even">
 <td><p>12th</p></td>
 <td><p>2010年5月8日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Don&#39;t_say_&quot;lazy&quot;" title="wikilink">Don't say "lazy"</a></strong></p></td>
+<td><p><strong><a href="../Page/Don&#39;t_say_&quot;lazy&quot;.md" title="wikilink">Don't say "lazy"</a></strong></p></td>
 <td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/K-ON!" title="wikilink">K-ON!</a>》片尾曲</p></td>
 <td></td>
 </tr>

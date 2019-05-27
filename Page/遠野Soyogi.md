@@ -132,7 +132,7 @@ Days](../Page/School_Days.md "wikilink")》（桂言葉）、《[初音島II](..
     夢**）
   - [實妹相伴的大泉君](../Page/實妹相伴的大泉君.md "wikilink")（リアル妹がいる大泉くんのばあい）（**大泉
     栞**）
-  - [世界征服彼女](https://zh.wikipedia.org/wiki/世界征服彼女 "wikilink")（山野 希乃子）
+  - [世界征服彼女](../Page/世界征服彼女.md "wikilink")（山野 希乃子）
   - [77 〜beyond the Milky
     Way〜](../Page/77_～And,_two_stars_meet_again～.md "wikilink")、
     （**常葉 亜紀**）
@@ -179,22 +179,18 @@ Days](../Page/School_Days.md "wikilink")》（桂言葉）、《[初音島II](..
 **2011年**
 
   - [穢翼的尤斯蒂婭](../Page/穢翼的尤斯蒂婭.md "wikilink")、*[AUGUST](../Page/AUGUST.md "wikilink")*（**聖女伊蓮**）
-  - [戀愛0公里](https://zh.wikipedia.org/wiki/戀愛0公里 "wikilink")（**木ノ本 咲耶**）
+  - [戀愛0公里](../Page/戀愛0公里.md "wikilink")（**木ノ本 咲耶**）
   - [Princess Evangile](../Page/Princess_Evangile.md "wikilink")（**北御門
     律子**）
-  - [雨芳戀歌](https://zh.wikipedia.org/wiki/雨芳戀歌 "wikilink")（**叶夏恋**）
-  - [World Wide Love\!
-    世界征服彼女Fansisc](https://zh.wikipedia.org/wiki/世界征服彼女 "wikilink")（山野
+  - [雨芳戀歌](../Page/雨芳戀歌.md "wikilink")（**叶夏恋**）
+  - [World Wide Love\! 世界征服彼女Fansisc](../Page/世界征服彼女.md "wikilink")（山野
     希乃子）
   - [鬼ごっこ\!](https://zh.wikipedia.org/wiki/鬼ごっこ! "wikilink")（**吉備津宮 灯**）
   - [Flyable
     CandyHeart](https://zh.wikipedia.org/wiki/Flyable_CandyHeart "wikilink")（水無瀬
     桜子）
-  - [Lover
-    Able](https://zh.wikipedia.org/wiki/Lover_Able "wikilink")（**姫野
-    つぐみ**）
-  - [Duelist×Engage](https://zh.wikipedia.org/wiki/Duelist×Engage "wikilink")（**野咲
-    雛菊**）
+  - [Lover Able](../Page/Lover_Able.md "wikilink")（**姫野 つぐみ**）
+  - [Duelist×Engage](../Page/Duelist×Engage.md "wikilink")（**野咲 雛菊**）
   - [初恋タイムカプセル
     〜幼馴染とキャッキャうふふ〜](https://zh.wikipedia.org/wiki/初恋タイムカプセル_〜幼馴染とキャッキャうふふ〜 "wikilink")（**黒葛原
     舞花**）
@@ -218,14 +214,12 @@ Days](../Page/School_Days.md "wikilink")》（桂言葉）、《[初音島II](..
   - [倉野家的雙子事情](../Page/倉野家的雙子事情.md "wikilink")（**倉野彌惠**）
   - [姊妹Neo ～Second
     Sisters～](../Page/姊妹Neo_～Second_Sisters～.md "wikilink")（**日向舞**）
-  - [戀色婚姻](https://zh.wikipedia.org/wiki/戀色婚姻 "wikilink")（**ルリアスティス・T・御廚**）
+  - [戀色婚姻](../Page/戀色婚姻.md "wikilink")（**ルリアスティス・T・御廚**）
   - [少女編織愛的畫布](https://zh.wikipedia.org/wiki/少女編織愛的畫布 "wikilink")（猫西 昭江）
   - [在這蒼穹展翅](../Page/在這蒼穹展翅.md "wikilink")（羽々音 ひばり）
   - [Princess Evangile 〜W
     Happiness〜](../Page/Princess_Evangile.md "wikilink")（**北御門 律子**）
-  - [同棲Lover
-    Able](https://zh.wikipedia.org/wiki/Lover_Able "wikilink")（**姫野
-    つぐみ**）
+  - [同棲Lover Able](../Page/Lover_Able.md "wikilink")（**姫野 つぐみ**）
   - [ふたあねHs〜若葉とあやめのLOVEエロ物語〜](https://zh.wikipedia.org/wiki/ふたあねHs〜若葉とあやめのLOVEエロ物語〜 "wikilink")（**藤枝
     あやめ**）
   - [fortissimo EXS//Akkord:nächsten
@@ -239,12 +233,12 @@ Days](../Page/School_Days.md "wikilink")》（桂言葉）、《[初音島II](..
 **2013年**
 
   - [幸福惡夢](../Page/幸福惡夢.md "wikilink")（**內藤舞亞**）
-  - [間接之戀](https://zh.wikipedia.org/wiki/間接之戀 "wikilink")（**倉木夏芽**）
+  - [間接之戀](../Page/間接之戀.md "wikilink")（**倉木夏芽**）
   - [姊妹Neo＋ ～Second
     Sisters～](../Page/姊妹Neo_～Second_Sisters～.md "wikilink")（**日向舞**）
   - [D.C.III R](https://zh.wikipedia.org/wiki/D.C.III "wikilink")（雪村 杏）
   - [在這蒼穹展翅 FLIGHT DIARY](../Page/在這蒼穹展翅.md "wikilink")（羽々音 ひばり）
-  - [LOVELY×CATION2](https://zh.wikipedia.org/wiki/LOVELY×CATION2 "wikilink")（**韮崎日向**）
+  - [LOVELY×CATION2](../Page/LOVELY×CATION2.md "wikilink")（**韮崎日向**）
   - [妹スパイラル](https://zh.wikipedia.org/wiki/妹スパイラル "wikilink")（**妹尾水那**）
   - [みずカノ\!
     〜水着の彼女とHしよっ〜](https://zh.wikipedia.org/wiki/みずカノ!_〜水着の彼女とHしよっ〜 "wikilink")（**水瀬
@@ -278,41 +272,39 @@ Days](../Page/School_Days.md "wikilink")》（桂言葉）、《[初音島II](..
   - [もっともっと舞
     ～姉さんの美尻～](../Page/姊妹Neo_～Second_Sisters～.md "wikilink")（**日向舞**）
   - [鯨神のティアスティラ](https://zh.wikipedia.org/wiki/鯨神のティアスティラ "wikilink")（**上遠野惠那**）
-  - [花咲Workspring！](https://zh.wikipedia.org/wiki/花咲Workspring！ "wikilink")（**琴吹光**）
-  - [PURAMAI
-    WARS](https://zh.wikipedia.org/wiki/PURAMAI_WARS "wikilink")（**神宮實乃璃**）
-  - [LOVEREC.](https://zh.wikipedia.org/wiki/LOVEREC. "wikilink")（梁瀨鶴子）
+  - [花咲Workspring！](../Page/花咲Workspring！.md "wikilink")（**琴吹光**）
+  - [PURAMAI WARS](../Page/PURAMAI_WARS.md "wikilink")（**神宮實乃璃**）
+  - [LOVEREC.](../Page/LOVEREC..md "wikilink")（梁瀨鶴子）
   - [天ノ空レトロスペクト](https://zh.wikipedia.org/wiki/天ノ空レトロスペクト "wikilink")（**大空緋鞠**）
-  - [想要傳達給你的愛戀](https://zh.wikipedia.org/wiki/想要傳達給你的愛戀 "wikilink")（**小鞠結衣**）
+  - [想要傳達給你的愛戀](../Page/想要傳達給你的愛戀.md "wikilink")（**小鞠結衣**）
   - [フォーリンラブ×4tune](https://zh.wikipedia.org/wiki/フォーリンラブ×4tune "wikilink")（**カレン・ウォルプタス**）
-  - [抬頭看看吧，看那天上的繁星](https://zh.wikipedia.org/wiki/抬頭看看吧，看那天上的繁星 "wikilink")（**白鳥織姬**）
+  - [抬頭看看吧，看那天上的繁星](../Page/抬頭看看吧，看那天上的繁星.md "wikilink")（**白鳥織姬**）
 
 **2016年**
 
-  - [LOVEREC. -Mini
-    Theaters-](https://zh.wikipedia.org/wiki/LOVEREC. "wikilink")（梁瀨鶴子）
+  - [LOVEREC. -Mini Theaters-](../Page/LOVEREC..md "wikilink")（梁瀨鶴子）
   - [よめがみ My Sweet
     Goddess\!](https://zh.wikipedia.org/wiki/よめがみ_My_Sweet_Goddess! "wikilink")（**無花果美命**）
   - [Strip Battle Days
     2](https://zh.wikipedia.org/wiki/Strip_Battle_Days_2 "wikilink")（**桂言葉**）
-  - [喜歡與喜歡的三角戀](https://zh.wikipedia.org/wiki/喜歡與喜歡的三角戀 "wikilink")（卡拉·奧麗維亞）
+  - [喜歡與喜歡的三角戀](../Page/喜歡與喜歡的三角戀.md "wikilink")（卡拉·奧麗維亞）
   - [スクールオブファンタジア](https://zh.wikipedia.org/wiki/スクールオブファンタジア "wikilink")（東道桃花）
   - [乙女が彩る恋のエッセンス](https://zh.wikipedia.org/wiki/乙女が彩る恋のエッセンス "wikilink")（猫西昭江）
   - [抬頭看看吧，看那天上的繁星 FINE
-    DAYS](https://zh.wikipedia.org/wiki/抬頭看看吧，看那天上的繁星 "wikilink")（**白鳥織姬**）
+    DAYS](../Page/抬頭看看吧，看那天上的繁星.md "wikilink")（**白鳥織姬**）
 
 **2017年**
 
-  - [與你相戀的戀愛配方](https://zh.wikipedia.org/wiki/與你相戀的戀愛配方 "wikilink")（花梨老師）
+  - [與你相戀的戀愛配方](../Page/與你相戀的戀愛配方.md "wikilink")（花梨老師）
   - [癒しの女神の実験台](https://zh.wikipedia.org/wiki/癒しの女神の実験台 "wikilink")（**雪城
     まりも**）
   - [真・恋姫†夢想 -革命-
     蒼天の覇王](https://zh.wikipedia.org/wiki/真・恋姫†夢想_-革命-_蒼天の覇王 "wikilink")（張角）
-  - [金色Loveriche](https://zh.wikipedia.org/wiki/金色Loveriche "wikilink")（市松千惠華）
+  - [金色Loveriche](../Page/金色Loveriche.md "wikilink")（市松千惠華）
 
 **2018年**
 
-  - [借宿下的戀愛](https://zh.wikipedia.org/wiki/借宿下的戀愛 "wikilink")（臼島奈奈子）
+  - [借宿下的戀愛](../Page/借宿下的戀愛.md "wikilink")（臼島奈奈子）
   - 真・戀姬†夢想-革命- 孫吳的血脈（張角）
 
 **2019年**
@@ -321,7 +313,7 @@ Days](../Page/School_Days.md "wikilink")》（桂言葉）、《[初音島II](..
 
 ### OVA
 
-  - [治癒隊西遊記](https://zh.wikipedia.org/wiki/治癒隊西遊記 "wikilink")（リーリ）
+  - [治癒隊西遊記](../Page/治癒隊西遊記.md "wikilink")（リーリ）
   - [少女派别](../Page/少女派别.md "wikilink")（篠宮 茜）
   - [ドキドキ母娘レッスン
     〜教えて♪Hなお勉強〜](https://zh.wikipedia.org/wiki/ドキドキ母娘レッスン_〜教えて♪Hなお勉強〜 "wikilink")（熊谷

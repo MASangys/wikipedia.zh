@@ -616,7 +616,7 @@
 
 ## DVD
 
-2011年5月4日由[VAP發售](https://zh.wikipedia.org/wiki/VAP "wikilink")。
+2011年5月4日由[VAP發售](../Page/VAP.md "wikilink")。
 【BOX】
 
   - 「來自櫻花的信 ～AKB48 各自的畢業故事～」豪華版DVD-BOX

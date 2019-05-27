@@ -1,7 +1,7 @@
 **Brown Eyed
 Girls**（，，簡稱B.E.G.），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")4人女子團體。成員包括[JeA](../Page/金孝珍_\(歌手\).md "wikilink")、[Miryo](../Page/趙美慧.md "wikilink")、[Narsha及](../Page/朴效真.md "wikilink")[GaIn](https://zh.wikipedia.org/wiki/孫佳人 "wikilink")。由韓國作詞曲家組成的[NEGANETWORK公司打造](https://zh.wikipedia.org/wiki/NEGANETWORK "wikilink")，其後花了3年籌備，最終於2006年3月2日組成「Brown
 Eyed Girls」。出道作品為專輯《Your
-Story》，2008年以歌曲「[L.O.V.E.](https://zh.wikipedia.org/wiki/L.O.V.E. "wikilink")」開始為人熟識，2009年，Brown
+Story》，2008年以歌曲「[L.O.V.E.](../Page/L.O.V.E..md "wikilink")」開始為人熟識，2009年，Brown
 Eyed
 Girls所推出的主打歌「[Abracadabra](https://zh.wikipedia.org/wiki/Abracadabra "wikilink")」大受歡迎。
 
@@ -480,7 +480,7 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
 | 2011年12月18日 | [Padam Padam](https://zh.wikipedia.org/wiki/Padam_Padam "wikilink")      | 그대 바보 你的傻瓜    | JeA                           |
 | 2012年2月27日  | [工薪族楚漢志](../Page/工薪族楚漢志.md "wikilink")                                   | 너 때문에 因為你     | JeA                           |
 | 2013年5月9日   | [當男人戀愛時](../Page/當男人戀愛時.md "wikilink")                                   | 비밀노트타이틀 秘密筆記本 | JeA                           |
-| 2014年10月8日  | [我人生的春天](https://zh.wikipedia.org/wiki/我人生的春天 "wikilink")                | I Believe     | GaIn                          |
+| 2014年10月8日  | [我人生的春天](../Page/我人生的春天.md "wikilink")                                   | I Believe     | GaIn                          |
 
 ## 海外作品發行
 
@@ -895,7 +895,7 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
       - 日期:2010年4月6日
       - 地點:曼谷
       - 名稱:Mnet Showking M Bangkok \[35\]
-      - 同場演出藝人:[2AM](../Page/2AM.md "wikilink")、[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")、[KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")、[U-KISS](../Page/U-KISS.md "wikilink")、[Secret](../Page/Secret_\(組合\).md "wikilink")、[Seeya](https://zh.wikipedia.org/wiki/Seeya "wikilink")、[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")、[大國男兒](../Page/大國男兒.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")、[ZE:A](https://zh.wikipedia.org/wiki/ZE:A "wikilink")、、[8eight](https://zh.wikipedia.org/wiki/8eight "wikilink")、[金泰宇](../Page/金泰宇.md "wikilink")、[青林](https://zh.wikipedia.org/wiki/青林 "wikilink")、[SG
+      - 同場演出藝人:[2AM](../Page/2AM.md "wikilink")、[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")、[KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")、[U-KISS](../Page/U-KISS.md "wikilink")、[Secret](../Page/Secret_\(組合\).md "wikilink")、[Seeya](https://zh.wikipedia.org/wiki/Seeya "wikilink")、[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")、[大國男兒](../Page/大國男兒.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")、[ZE:A](../Page/ZE:A.md "wikilink")、、[8eight](https://zh.wikipedia.org/wiki/8eight "wikilink")、[金泰宇](../Page/金泰宇.md "wikilink")、[青林](https://zh.wikipedia.org/wiki/青林 "wikilink")、[SG
         Wannabe](../Page/SG_Wannabe.md "wikilink")、[孫浩英等](../Page/孫昊永.md "wikilink")
 
 <!-- end list -->

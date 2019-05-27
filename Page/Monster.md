@@ -85,9 +85,8 @@
 <!-- end list -->
 
   - 《[MONSTERS](../Page/MONSTERS.md "wikilink")》，日本電視劇
-  - 《[Monstar](https://zh.wikipedia.org/wiki/Monstar "wikilink")》，韓國Mnet、tvN電視劇
-  - 《[mon mon mon
-    MONSTERS](https://zh.wikipedia.org/wiki/報告老師！怪怪怪怪物！ "wikilink")》，台灣電影
+  - 《[Monstar](../Page/Monstar.md "wikilink")》，韓國Mnet、tvN電視劇
+  - 《[mon mon mon MONSTERS](../Page/報告老師！怪怪怪怪物！.md "wikilink")》，台灣電影
 
 ## 參見
 

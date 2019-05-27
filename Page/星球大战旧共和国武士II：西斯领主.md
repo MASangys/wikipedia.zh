@@ -1,10 +1,10 @@
-《**星球大战旧共和国武士II：西斯领主**》（，缩写为）是由[黑曜石娱乐开发](../Page/黑曜石娱乐.md "wikilink")、[LucasArts发行的](https://zh.wikipedia.org/wiki/LucasArts "wikilink")[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")。本作是颇受好评的前作《[星球大战：旧共和国武士](https://zh.wikipedia.org/wiki/星球大战：旧共和国武士 "wikilink")》（）的后续作品，其[Xbox版先於](https://zh.wikipedia.org/wiki/Xbox "wikilink")2004年12月6日发行，而后[Windows版本则在](https://zh.wikipedia.org/wiki/Windows "wikilink")2005年2月8日发行。本作亦是[黑岛工作室解散后](https://zh.wikipedia.org/wiki/黑岛工作室 "wikilink")，其成员组成黑曜石娱乐公司之后的处女作。
+《**星球大战旧共和国武士II：西斯领主**》（，缩写为）是由[黑曜石娱乐开发](../Page/黑曜石娱乐.md "wikilink")、[LucasArts发行的](../Page/LucasArts.md "wikilink")[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")。本作是颇受好评的前作《[星球大战：旧共和国武士](https://zh.wikipedia.org/wiki/星球大战：旧共和国武士 "wikilink")》（）的后续作品，其[Xbox版先於](../Page/Xbox.md "wikilink")2004年12月6日发行，而后[Windows版本则在](https://zh.wikipedia.org/wiki/Windows "wikilink")2005年2月8日发行。本作亦是[黑岛工作室解散后](https://zh.wikipedia.org/wiki/黑岛工作室 "wikilink")，其成员组成黑曜石娱乐公司之后的处女作。
 
-2011年底，[LucasArts與](https://zh.wikipedia.org/wiki/LucasArts "wikilink")[美商藝電聯合發佈了由](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")[BioWare開發的續作](../Page/BioWare.md "wikilink")《[星際大戰：舊共和國](../Page/星際大戰：舊共和國.md "wikilink")》，採用[MMORPG的形式](https://zh.wikipedia.org/wiki/MMORPG "wikilink")。
+2011年底，[LucasArts與](../Page/LucasArts.md "wikilink")[美商藝電聯合發佈了由](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")[BioWare開發的續作](../Page/BioWare.md "wikilink")《[星際大戰：舊共和國](../Page/星際大戰：舊共和國.md "wikilink")》，採用[MMORPG的形式](https://zh.wikipedia.org/wiki/MMORPG "wikilink")。
 
 ## 开发
 
-《星球大战旧共和国武士II：西斯领主》（以下简称《西斯领主》）同[Bioware於](https://zh.wikipedia.org/wiki/Bioware "wikilink")2003年开发并被[GameSpy等评为年度最佳游戏的](../Page/GameSpy.md "wikilink")《星球大战：旧共和国武士》属于同一系列。更换开发小组的原因来自Bioware，他们由于忙于开发《[翡翠帝国](https://zh.wikipedia.org/wiki/翡翠帝国 "wikilink")》并集中精力在[知识产权问题上而无暇顾及其他](../Page/知识产权.md "wikilink")\[1\]，并出于对黑曜石小组人员过去工作的熟悉而推荐他们来完成这项工作\[2\]。《西斯领主》的开发起始日和《星球大战：旧共和国武士》的Xbox版发售日为同一天\[3\]。
+《星球大战旧共和国武士II：西斯领主》（以下简称《西斯领主》）同[Bioware於](https://zh.wikipedia.org/wiki/Bioware "wikilink")2003年开发并被[GameSpy等评为年度最佳游戏的](../Page/GameSpy.md "wikilink")《星球大战：旧共和国武士》属于同一系列。更换开发小组的原因来自Bioware，他们由于忙于开发《[翡翠帝国](../Page/翡翠帝国.md "wikilink")》并集中精力在[知识产权问题上而无暇顾及其他](../Page/知识产权.md "wikilink")\[1\]，并出于对黑曜石小组人员过去工作的熟悉而推荐他们来完成这项工作\[2\]。《西斯领主》的开发起始日和《星球大战：旧共和国武士》的Xbox版发售日为同一天\[3\]。
 
 黑曜石从Bioware那里取得了前作采用并作出了一定升级的[奥德赛引擎](https://zh.wikipedia.org/wiki/奥德赛引擎 "wikilink")\[4\]，因而《西斯领主》沿用了相同的游戏引擎。而Bioware的技术人员也向黑曜石的开发者提供了一定技术支持\[5\]，本作新开发的技术包括一些新的战斗动作以及界面缩放\[6\]
 。

@@ -30,7 +30,7 @@ go），即把票卡或裝有票卡的車票夾或皮夾直接觸碰閘機的感
           - [筑豐本線](../Page/筑豐本線.md "wikilink")：[若松車站](https://zh.wikipedia.org/wiki/若松車站 "wikilink")
             -
             [桂川車站](https://zh.wikipedia.org/wiki/桂川車站_\(福岡縣\) "wikilink")
-          - [篠栗線](https://zh.wikipedia.org/wiki/篠栗線 "wikilink")：桂川車站 -
+          - [篠栗線](../Page/篠栗線.md "wikilink")：桂川車站 -
             [吉塚車站](https://zh.wikipedia.org/wiki/吉塚車站 "wikilink")
           - [香椎線](../Page/香椎線.md "wikilink")：[西戶崎車站](https://zh.wikipedia.org/wiki/西戶崎車站 "wikilink")
             - [香椎車站](../Page/香椎車站.md "wikilink") -

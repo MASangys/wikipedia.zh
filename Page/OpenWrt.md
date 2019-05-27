@@ -316,7 +316,7 @@ OpenWrt遵循著[市集](../Page/大教堂和市集.md "wikilink")-哲學而且�
       - 使用多個[互联网服务供应商達到負載平衡](../Page/互联网服务供应商.md "wikilink")。
       - IP穿透(tunneling)
       - [網路監視與統計數據等](https://zh.wikipedia.org/wiki/網路監視 "wikilink")。例如:
-        [RRDtool](https://zh.wikipedia.org/wiki/RRDtool "wikilink"),
+        [RRDtool](../Page/RRDtool.md "wikilink"),
         [Collectd](https://zh.wikipedia.org/wiki/Collectd "wikilink"),
         [Nagios](../Page/Nagios.md "wikilink"), ,
         [Zabbix等](https://zh.wikipedia.org/wiki/Zabbix "wikilink")。
@@ -391,7 +391,7 @@ OpenWrt，特別是其Buildroot構建系統，已經採用了很多次：
 
 ## 衍生分支
 
-  - [LEDE作為OpenWrt項目的分支機構而成立](https://zh.wikipedia.org/wiki/LEDE "wikilink")，並擁有許多相同的目標。现在已决定与OpenWRT合并。
+  - [LEDE作為OpenWrt項目的分支機構而成立](../Page/LEDE.md "wikilink")，並擁有許多相同的目標。现在已决定与OpenWRT合并。
   - *CeroWrt* 目的是補充debloat測試kernel tree，並為緩衝區修復的現實世界測試提供一個平台\[27\]\[28\]
   - Coova chilli 基於OpenWrt的專注於無線熱點，一個chillifire的分支專注於無線熱點管理
   - [Gargoyle](https://zh.wikipedia.org/wiki/Gargoyle_\(router_firmware\) "wikilink")
@@ -431,9 +431,8 @@ OpenWrt，特別是其Buildroot構建系統，已經採用了很多次：
 
 ## 路由器固件項目列表
 
-  - [客制路由器韌體清單](https://zh.wikipedia.org/wiki/客制路由器韌體清單 "wikilink")
-      - [LEDE](https://zh.wikipedia.org/wiki/LEDE "wikilink") -
-        OpenWRT的分支專案
+  - [客制路由器韌體清單](../Page/客制路由器韌體清單.md "wikilink")
+      - [LEDE](../Page/LEDE.md "wikilink") - OpenWRT的分支專案
 
 ## 注釋
 

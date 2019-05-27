@@ -43,7 +43,7 @@ back](https://zh.wikipedia.org/wiki/talk_back "wikilink")。
 <!-- end list -->
 
   - [田島裕也](https://zh.wikipedia.org/wiki/田島裕也 "wikilink")
-  - [立壁和也](https://zh.wikipedia.org/wiki/立壁和也 "wikilink")（，董事）
+  - [立壁和也](../Page/立壁和也.md "wikilink")（，董事）
   - [德本恭敬](https://zh.wikipedia.org/wiki/德本恭敬 "wikilink")
 
 <!-- end list -->
@@ -62,7 +62,7 @@ back](https://zh.wikipedia.org/wiki/talk_back "wikilink")。
 
 <!-- end list -->
 
-  - [花輪英司](https://zh.wikipedia.org/wiki/花輪英司 "wikilink")
+  - [花輪英司](../Page/花輪英司.md "wikilink")
   - [古田信幸](https://zh.wikipedia.org/wiki/古田信幸 "wikilink")
   - [寶龜克壽](../Page/寶龜克壽.md "wikilink")
   - [堀內賢雄](../Page/堀內賢雄.md "wikilink")（執行董事兼行政總裁）
@@ -74,7 +74,7 @@ back](https://zh.wikipedia.org/wiki/talk_back "wikilink")。
 
 <!-- end list -->
 
-  - [間宮康弘](https://zh.wikipedia.org/wiki/間宮康弘 "wikilink")
+  - [間宮康弘](../Page/間宮康弘.md "wikilink")
   - [三浦潤也](https://zh.wikipedia.org/wiki/三浦潤也 "wikilink")
   - [御園行洋](https://zh.wikipedia.org/wiki/御園行洋 "wikilink")
 
@@ -111,7 +111,7 @@ back](https://zh.wikipedia.org/wiki/talk_back "wikilink")。
   - [菊池心](../Page/菊池心.md "wikilink")
   - [許綾香](https://zh.wikipedia.org/wiki/許綾香 "wikilink")
   - [桐山由美](https://zh.wikipedia.org/wiki/桐山由美 "wikilink")
-  - [木下紗華](https://zh.wikipedia.org/wiki/木下紗華 "wikilink")
+  - [木下紗華](../Page/木下紗華.md "wikilink")
   - [小出悅子](https://zh.wikipedia.org/wiki/小出悅子 "wikilink")
 
 <!-- end list -->
@@ -134,7 +134,7 @@ back](https://zh.wikipedia.org/wiki/talk_back "wikilink")。
   - [高口幸子](../Page/高口幸子.md "wikilink")
   - [高梁碧](../Page/高梁碧.md "wikilink")
   - [高橋まゆこ](https://zh.wikipedia.org/wiki/高橋まゆこ "wikilink")
-  - [武田華](https://zh.wikipedia.org/wiki/武田華 "wikilink")
+  - [武田華](../Page/武田華.md "wikilink")
   - [橘U子](../Page/橘U子.md "wikilink")
 
 <!-- end list -->
@@ -181,7 +181,7 @@ back](https://zh.wikipedia.org/wiki/talk_back "wikilink")。
   - [鹿糠光明](https://zh.wikipedia.org/wiki/鹿糠光明 "wikilink")
   - [田內裕一](https://zh.wikipedia.org/wiki/田內裕一 "wikilink")
   - [林和良](https://zh.wikipedia.org/wiki/林和良 "wikilink")
-  - [速水秀之](https://zh.wikipedia.org/wiki/速水秀之 "wikilink")
+  - [速水秀之](../Page/速水秀之.md "wikilink")
 
 ### 女性
 
@@ -227,7 +227,7 @@ back](https://zh.wikipedia.org/wiki/talk_back "wikilink")。
 
   - [拓磨](https://zh.wikipedia.org/wiki/拓磨 "wikilink")
   - [次賀慎一郎](https://zh.wikipedia.org/wiki/次賀慎一郎 "wikilink")
-  - [寺島惇太](https://zh.wikipedia.org/wiki/寺島惇太 "wikilink")
+  - [寺島惇太](../Page/寺島惇太.md "wikilink")
 
 <!-- end list -->
 
@@ -371,7 +371,7 @@ back](https://zh.wikipedia.org/wiki/talk_back "wikilink")。
   - [澀谷朋子](https://zh.wikipedia.org/wiki/澀谷朋子 "wikilink")
   - [竹田小春](https://zh.wikipedia.org/wiki/竹田小春 "wikilink")
   - [富田裕美子](https://zh.wikipedia.org/wiki/富田裕美子 "wikilink")
-  - [早坂めぐみ](https://zh.wikipedia.org/wiki/早坂めぐみ "wikilink")（現所屬：[Production★A組](https://zh.wikipedia.org/wiki/Production★A組 "wikilink")）
+  - [早坂めぐみ](https://zh.wikipedia.org/wiki/早坂めぐみ "wikilink")（現所屬：[Production★A組](../Page/Production★A組.md "wikilink")）
   - [北斗利佳](https://zh.wikipedia.org/wiki/北斗利佳 "wikilink")
 
 ## 外部連結

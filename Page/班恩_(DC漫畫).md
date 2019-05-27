@@ -35,7 +35,7 @@ of the
 Demon」裡，描述他擁有[瞬間記憶](https://zh.wikipedia.org/wiki/瞬間記憶 "wikilink")（photographic
 memory）；並且在一年之內就推斷出了蝙蝠俠的真實身分。
 
-班恩狡猾並富有謀略，在監獄裡，他發展出自己一套的格鬥技巧、[體操和](https://zh.wikipedia.org/wiki/體操 "wikilink")[冥想方法](../Page/冥想.md "wikilink")，並使用某種[蛇或](../Page/蛇.md "wikilink")[蜘蛛的](../Page/蜘蛛.md "wikilink")[毒液增強了自己的身體質素](https://zh.wikipedia.org/wiki/毒液 "wikilink")，得到了超乎常人的力量和痊癒速度；雖然在1995年的《Vengeance
+班恩狡猾並富有謀略，在監獄裡，他發展出自己一套的格鬥技巧、[體操和](https://zh.wikipedia.org/wiki/體操 "wikilink")[冥想方法](../Page/冥想.md "wikilink")，並使用某種[蛇或](../Page/蛇.md "wikilink")[蜘蛛的](../Page/蜘蛛.md "wikilink")[毒液增強了自己的身體質素](../Page/毒液.md "wikilink")，得到了超乎常人的力量和痊癒速度；雖然在1995年的《Vengeance
 of Bane II》中，他發誓不再使用此種毒液，但是在後來的畫作還是有畫他那套聯結到他後腦的設備，作家Gail Simone在《Secret
 Six》裡借[死亡射手之口解釋班恩只是保持他的舊習慣而已](../Page/死亡射手.md "wikilink")。
 
@@ -52,7 +52,7 @@ Six》裡借[死亡射手之口解釋班恩只是保持他的舊習慣而已](..
     Batman/Superman
     Story（上集）」一集則為[克蘭西·布朗配音](../Page/克蘭西·布朗.md "wikilink")\[2\]\[3\]。
   - 《[蝙蝠俠智勇悍將](../Page/蝙蝠俠智勇悍將.md "wikilink")》：配音員為[邁克爾·多恩](https://zh.wikipedia.org/wiki/邁克爾·多恩 "wikilink")。
-  - 《[少年正義聯盟](https://zh.wikipedia.org/wiki/少年正義聯盟_\(動畫\) "wikilink")》：配音員為[丹尼·特喬](https://zh.wikipedia.org/wiki/丹尼·特喬 "wikilink")。
+  - 《[少年正義聯盟](../Page/少年正義聯盟_\(動畫\).md "wikilink")》：配音員為[丹尼·特喬](https://zh.wikipedia.org/wiki/丹尼·特喬 "wikilink")。
   - 《[南方公園](../Page/南方公園.md "wikilink")》：惡搞，於「Insecurity」一集中，片中劫車人的面罩為班恩在《[黑暗騎士：黎明昇起](../Page/黑暗騎士：黎明昇起.md "wikilink")》中的造型。
   - 《[少年悍將
     GO！](https://zh.wikipedia.org/wiki/少年悍將_GO！ "wikilink")》：班恩以《黑暗騎士：黎明昇起》中的造型作為片中的背景角色。
@@ -72,7 +72,7 @@ Six》裡借[死亡射手之口解釋班恩只是保持他的舊習慣而已](..
   - 《[樂高蝙蝠俠大電影：超級英雄集結](https://zh.wikipedia.org/wiki/樂高蝙蝠俠大電影：超級英雄集結 "wikilink")》：和其他罪犯一同逃出獄，但後來仍被捕回獄中。
   - 《[蝙蝠俠：血濺亞克漢](https://zh.wikipedia.org/wiki/蝙蝠俠：血濺亞克漢 "wikilink")》：和其他罪犯一起趁亂逃獄，後被蝙蝠俠制伏。
   - 《[樂高蝙蝠俠電影](../Page/樂高蝙蝠俠電影.md "wikilink")》
-  - 《[忍者蝙蝠俠](https://zh.wikipedia.org/wiki/忍者蝙蝠俠 "wikilink")》：由日本製作的動畫電影,，班恩化身成橫綱假面與蝙蝠俠戰鬥，短暫交手後被擊敗。
+  - 《[忍者蝙蝠俠](../Page/忍者蝙蝠俠.md "wikilink")》：由日本製作的動畫電影,，班恩化身成橫綱假面與蝙蝠俠戰鬥，短暫交手後被擊敗。
 
 ### 電子遊戲
 
@@ -96,7 +96,7 @@ Six》裡借[死亡射手之口解釋班恩只是保持他的舊習慣而已](..
   - 《黑暗騎士：黎明昇起》：班恩出現於這款[iPad和](https://zh.wikipedia.org/wiki/iPad "wikilink")[iPhone的遊戲中](https://zh.wikipedia.org/wiki/iPhone "wikilink")，模樣為電影中的造型。
   - 《[超級英雄：武力對決](../Page/超級英雄：武力對決.md "wikilink")》：配音員同為Fred
     Tatasciore。\[14\]。
-  - 《[超級英雄：武力對決2](https://zh.wikipedia.org/wiki/超級英雄：武力對決2 "wikilink")》：配音員同為Fred
+  - 《[超級英雄：武力對決2](../Page/超級英雄：武力對決2.md "wikilink")》：配音員同為Fred
     Tatasciore。\[15\]
 
 ## 參考文獻

@@ -13,7 +13,7 @@ Step步驟，提供學習[理財的方法](https://zh.wikipedia.org/wiki/理財 
 ## 其他同類媒體
 
 [商業週刊](https://zh.wikipedia.org/wiki/商業週刊 "wikilink")
-[今周刊](https://zh.wikipedia.org/wiki/今周刊 "wikilink")
+[今周刊](../Page/今周刊.md "wikilink")
 [MONEY錢雜誌](https://zh.wikipedia.org/wiki/MONEY錢雜誌 "wikilink")
 [天下雜誌](../Page/天下雜誌.md "wikilink")
 

@@ -5,7 +5,7 @@ Up》的作曲及編曲，為他首次擔當[倉木麻衣的A面歌的作曲與�
 ## 曲目
 
 1.  **Stand Up (4:36)**
-      - [可口可樂公司](https://zh.wikipedia.org/wiki/可口可樂公司 "wikilink")「[爽健美茶](https://zh.wikipedia.org/wiki/爽健美茶 "wikilink")」廣告曲。
+      - [可口可樂公司](https://zh.wikipedia.org/wiki/可口可樂公司 "wikilink")「[爽健美茶](../Page/爽健美茶.md "wikilink")」廣告曲。
 2.  '''Double Rainbow (4:42) '''
 3.  '''YES or NO 〜TRANCE Continental Remix〜 （Radio Edit） (5:38) '''
 4.  **Stand Up（Instrumental）**

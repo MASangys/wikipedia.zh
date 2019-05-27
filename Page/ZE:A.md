@@ -9,32 +9,30 @@ Empire Entertainment](../Page/明星帝國娛樂.md "wikilink")。
 ZE:A在出道前，成員們均有演繹經驗，曾經為同門組合出演多首音樂影片舞蹈員，及於現場伴舞。ZE:A由VOS和輝星作為聲樂老師、Poppin賢俊作為舞蹈老師。
 
 2012年6月26日，成員旼佑與佐佐木喜英及二階堂隼人組成[3
-Peace☆Lovers於日本正式出道](https://zh.wikipedia.org/wiki/3_Peace☆Lovers "wikilink")，並發行首張日文單曲為《Virtual
+Peace☆Lovers於日本正式出道](../Page/3_Peace☆Lovers.md "wikilink")，並發行首張日文單曲為《Virtual
 Love》,11月6日發行單曲《Love Evolution》。
 
-2013年1月9日，官方宣佈於同年2月成立子團體[ZE:A-FIVE進軍日本](https://zh.wikipedia.org/wiki/ZE:A-FIVE "wikilink")，由成員時完、Kevin、旼佑、炯植和桐俊所組成，於同月7日發行首張日文單曲《The
+2013年1月9日，官方宣佈於同年2月成立子團體[ZE:A-FIVE進軍日本](../Page/ZE:A-FIVE.md "wikilink")，由成員時完、Kevin、旼佑、炯植和桐俊所組成，於同月7日發行首張日文單曲《The
 Classic》，宣傳期間在日本展開長期留駐\[1\]。同年4月30日，[3
-Peace☆Lovers發行單曲](https://zh.wikipedia.org/wiki/3_Peace☆Lovers "wikilink")《Illusion
+Peace☆Lovers發行單曲](../Page/3_Peace☆Lovers.md "wikilink")《Illusion
 / My True Love》。同年5月29日，官方宣佈推出第二個子團體[ZE:A
-4U](https://zh.wikipedia.org/wiki/ZE:A_4U "wikilink")，由成員光熙、李厚、泰憲和熹哲所組成，於6月17日推出首張日文單曲《Oops\!\!～アプサ\!\!～》。同年6月24日，[3
-Peace☆Lovers首張發行專輯](https://zh.wikipedia.org/wiki/3_Peace☆Lovers "wikilink")《3
+4U](../Page/ZE:A_4U.md "wikilink")，由成員光熙、李厚、泰憲和熹哲所組成，於6月17日推出首張日文單曲《Oops\!\!～アプサ\!\!～》。同年6月24日，[3
+Peace☆Lovers首張發行專輯](../Page/3_Peace☆Lovers.md "wikilink")《3
 Peace☆Lovers》。
 
 2014年8月27日，官方宣佈推出混聲组合[Nasty
-Nasty](https://zh.wikipedia.org/wiki/Nasty_Nasty "wikilink")，是由成員
-凱文(Kevin)、[Nine
+Nasty](../Page/Nasty_Nasty.md "wikilink")，是由成員 凱文(Kevin)、[Nine
 Muses的朴倞利](https://zh.wikipedia.org/wiki/Nine_Muses "wikilink")、趙笑珍組成。9月4日正式公開《Knock》完整版MV，通过Mnet音樂節目《M！Countdown》正式出道。
 同年11月17日，官方宣佈推出第三個子團體[ZE:A
-J](https://zh.wikipedia.org/wiki/ZE:A_J "wikilink")，由成員Kevin、泰憲、熹哲、旼佑和桐俊所組成。
+J](../Page/ZE:A_J.md "wikilink")，由成員Kevin、泰憲、熹哲、旼佑和桐俊所組成。
 
 2015年1月21日，[ZE:A
-J推出日語單曲](https://zh.wikipedia.org/wiki/ZE:A_J "wikilink")《Roulette》（ルーレット），Kevin參與此曲創作,《Roulette》进入日本公信榜单曲榜Top10。同年8月9日携首支中文單曲《Marry
+J推出日語單曲](../Page/ZE:A_J.md "wikilink")《Roulette》（ルーレット），Kevin參與此曲創作,《Roulette》进入日本公信榜单曲榜Top10。同年8月9日携首支中文單曲《Marry
 Me》進軍中國市場,《Marry Me》是一首甜蜜的求婚歌曲，由桐俊參與作詞作曲。在20日在海南舉辦新歌發表會及粉絲見面會。 9月2日[ZE:A
-J發行第二張日語單曲](https://zh.wikipedia.org/wiki/ZE:A_J "wikilink")《君のそばに\~Love
-to you\~》。同年11月5日,熹哲XJ-STAR 《I Know》正式公開。
+J發行第二張日語單曲](../Page/ZE:A_J.md "wikilink")《君のそばに\~Love to
+you\~》。同年11月5日,熹哲XJ-STAR 《I Know》正式公開。
 
-2016年4月20日，[ZE:A
-J推出首張日語迷你專輯](https://zh.wikipedia.org/wiki/ZE:A_J "wikilink")《Just
+2016年4月20日，[ZE:A J推出首張日語迷你專輯](../Page/ZE:A_J.md "wikilink")《Just
 Tonight》，4月21日Kevin推出Solo單曲《Collection》，4月26日熹哲推出Solo單曲《First
 Love》，5月3日桐俊推出Solo單曲《Healing》，5月28日李厚(文俊英)推出Solo單曲《Too Late》。
 
@@ -66,7 +64,7 @@ Star》節目中更親自證實團體並未解散，只是每個人都換了公�
 <td><p>漢字[5]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李厚" title="wikilink">李厚</a></p></td>
+<td><p><a href="../Page/李厚.md" title="wikilink">李厚</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -314,7 +312,7 @@ Star》節目中更親自證實團體並未解散，只是每個人都換了公�
 <tr class="odd">
 <td><p>2014年</p></td>
 <td><p>MBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Triangle_(電視劇)" title="wikilink">Triangle</a></p></td>
+<td><p><a href="../Page/Triangle_(電視劇).md" title="wikilink">Triangle</a></p></td>
 <td><p>時完</p></td>
 <td><p>張東宇／尹良河</p></td>
 <td><p>三大男主角之一</p></td>
@@ -371,7 +369,7 @@ Star》節目中更親自證實團體並未解散，只是每個人都換了公�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/閃耀的恩秀" title="wikilink">閃耀的恩秀</a></p></td>
+<td><p><a href="../Page/閃耀的恩秀.md" title="wikilink">閃耀的恩秀</a></p></td>
 <td><p>尹秀浩</p></td>
 <td><p>第一男主角</p></td>
 <td></td>
@@ -396,7 +394,7 @@ Star》節目中更親自證實團體並未解散，只是每個人都換了公�
 </tr>
 <tr class="odd">
 <td><p>MBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/王在相愛" title="wikilink">王在相愛</a></p></td>
+<td><p><a href="../Page/王在相愛.md" title="wikilink">王在相愛</a></p></td>
 <td><p>時完</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/高麗忠宣王" title="wikilink">王謜</a>/韓川</p></td>
 <td><p>第一男主角</p></td>
@@ -404,7 +402,7 @@ Star》節目中更親自證實團體並未解散，只是每個人都換了公�
 </tr>
 <tr class="even">
 <td><p>|<a href="https://zh.wikipedia.org/wiki/OCN" title="wikilink">OCN</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Black_(韓國電視劇)" title="wikilink">Black</a></p></td>
+<td><p><a href="../Page/Black_(韓國電視劇).md" title="wikilink">Black</a></p></td>
 <td><p>桐俊</p></td>
 <td><p>吳萬秀</p></td>
 <td></td>
@@ -421,7 +419,7 @@ Star》節目中更親自證實團體並未解散，只是每個人都換了公�
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>KBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Suits_(韓國電視劇)" title="wikilink">金裝律師</a></p></td>
+<td><p><a href="../Page/Suits_(韓國電視劇).md" title="wikilink">金裝律師</a></p></td>
 <td><p>炯植</p></td>
 <td><p>高延宇</p></td>
 <td><p>雙男主之一</p></td>
@@ -499,7 +497,7 @@ Star》節目中更親自證實團體並未解散，只是每個人都換了公�
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/One_Line" title="wikilink">One Line</a></p></td>
+<td><p><a href="../Page/One_Line.md" title="wikilink">One Line</a></p></td>
 <td><p>旻載</p></td>
 <td></td>
 <td></td>
@@ -620,7 +618,7 @@ Star》節目中更親自證實團體並未解散，只是每個人都換了公�
 | 4月15日             | 黃金漁場Radio Star                                                                              | 光熙                                                              |              |
 | 4月24日             | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink") 中南半島篇                               | 炯植 (從第五回開始出演)                                                   |              |
 | 5月9日至今            | [無限挑戰](../Page/無限挑戰.md "wikilink") （固定成員）                                                   | **光熙**                                                          |              |
-| 8月10日             | [Healing Camp](https://zh.wikipedia.org/wiki/Healing_Camp "wikilink")                       | 炯植 (光熙、時完為客席嘉賓)                                                 |              |
+| 8月10日             | [Healing Camp](../Page/Healing_Camp.md "wikilink")                                          | 炯植 (光熙、時完為客席嘉賓)                                                 |              |
 | 8月29日─9月12日       | [奔馳本能 The Racer](https://zh.wikipedia.org/wiki/奔馳本能_The_Racer "wikilink")                   | 炯植                                                              |              |
 | 9月28日             | [偶像運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") 中秋特輯                           | 全體                                                              |              |
 | 10月9日─10月30日      | [一日三餐 漁村篇2](../Page/一日三餐.md "wikilink")                                                     | 炯植                                                              |              |

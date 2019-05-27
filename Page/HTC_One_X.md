@@ -118,7 +118,7 @@ III](https://zh.wikipedia.org/wiki/Galaxy_S_III "wikilink")、[Apple](https://zh
 <tr class="odd">
 <td><p>CPU</p></td>
 <td><p>1.5 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A9" title="wikilink">ARM Cortex-A9</a></p></td>
-<td><p>1.5 GHz dual-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait</a></p></td>
+<td><p>1.5 GHz dual-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="../Page/Krait_(CPU).md" title="wikilink">Krait</a></p></td>
 <td><p>1.7 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A9" title="wikilink">ARM Cortex-A9</a></p></td>
 <td></td>
 <td></td>
@@ -297,7 +297,7 @@ III](https://zh.wikipedia.org/wiki/Galaxy_S_III "wikilink")、[Apple](https://zh
 <tr class="even">
 <td><p>CPU</p></td>
 <td><p>1.5 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A9" title="wikilink">ARM Cortex-A9</a></p></td>
-<td><p>1.5 GHz dual-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait</a></p></td>
+<td><p>1.5 GHz dual-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="../Page/Krait_(CPU).md" title="wikilink">Krait</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -754,8 +754,7 @@ III](https://zh.wikipedia.org/wiki/Galaxy_S_III "wikilink")、[Apple](https://zh
     XT](https://web.archive.org/web/20120520035417/http://www.htc.com/cn/smartphones/htc-one-xt/)
   - [HTC One (M7)](../Page/HTC_One_\(M7\).md "wikilink"):
     2013年2月19日於美國紐約、英國倫敦兩地同步發表。
-  - [HTC One
-    (M8)](https://zh.wikipedia.org/wiki/HTC_One_\(M8\) "wikilink")
+  - [HTC One (M8)](../Page/HTC_One_\(M8\).md "wikilink")
 
 ## 評測
 

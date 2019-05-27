@@ -231,7 +231,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品]
   -
     作詞：
 
-    作曲・編曲：[太田雅友](https://zh.wikipedia.org/wiki/太田雅友 "wikilink")
+    作曲・編曲：[太田雅友](../Page/太田雅友.md "wikilink")
 
     歌：山田（[田村由香里](../Page/田村由香里.md "wikilink")）
 
@@ -246,7 +246,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品]
   -
     作詞：
 
-    作曲・編曲：[太田雅友](https://zh.wikipedia.org/wiki/太田雅友 "wikilink")
+    作曲・編曲：[太田雅友](../Page/太田雅友.md "wikilink")
 
     歌：山田（[田村由香里](../Page/田村由香里.md "wikilink")）
 

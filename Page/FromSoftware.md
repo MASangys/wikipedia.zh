@@ -1,4 +1,4 @@
-**FromSoftware**是[日本電子遊戲](../Page/日本.md "wikilink")[公司](../Page/公司.md "wikilink")。代表作為[機戰傭兵](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")、[合金獵犬](../Page/合金獵犬.md "wikilink")、[鋼鐵蒼狼：渾沌之戰等機器人動作遊戲及](https://zh.wikipedia.org/wiki/鋼鐵蒼狼：渾沌之戰 "wikilink")[國王密令](https://zh.wikipedia.org/wiki/國王密令 "wikilink")、[惡魔靈魂](https://zh.wikipedia.org/wiki/惡魔靈魂 "wikilink")、[黑暗靈魂等](https://zh.wikipedia.org/wiki/黑暗靈魂 "wikilink")[3D動作](https://zh.wikipedia.org/wiki/3D "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")。
+**FromSoftware**是[日本電子遊戲](../Page/日本.md "wikilink")[公司](../Page/公司.md "wikilink")。代表作為[機戰傭兵](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")、[合金獵犬](../Page/合金獵犬.md "wikilink")、[鋼鐵蒼狼：渾沌之戰等機器人動作遊戲及](https://zh.wikipedia.org/wiki/鋼鐵蒼狼：渾沌之戰 "wikilink")[國王密令](../Page/國王密令.md "wikilink")、[惡魔靈魂](../Page/惡魔靈魂.md "wikilink")、[黑暗靈魂等](../Page/黑暗靈魂.md "wikilink")[3D動作](https://zh.wikipedia.org/wiki/3D "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")。
 
 FromSoftware已於2014年被[角川集團收购](../Page/角川集團.md "wikilink")，成为其子公司。
 
@@ -8,21 +8,21 @@ FromSoftware已於2014年被[角川集團收购](../Page/角川集團.md "wikili
 
 ## 轉型
 
-20世紀90年代初，[日本](../Page/日本.md "wikilink")[泡沫經濟崩壞](https://zh.wikipedia.org/wiki/泡沫經濟 "wikilink")，原[業務萎縮](https://zh.wikipedia.org/wiki/業務 "wikilink")。此時**FromSoftware**就有投入遊戲開發之意，起因為[公司成員於午休期間利用公司](../Page/公司.md "wikilink")[工作站做出了操作](../Page/工作站.md "wikilink")[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[多邊形](https://zh.wikipedia.org/wiki/多邊形 "wikilink")[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，社長神直利對[遊戲也有熱情](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，認為有[商業潛力](https://zh.wikipedia.org/wiki/商業 "wikilink")。但礙於當時[個人電腦性能有限](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、家用[電玩主機開發工具規格特殊等原因](https://zh.wikipedia.org/wiki/電玩主機 "wikilink")，直至1994年才加入開發容易又特化[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[多邊形演算的](https://zh.wikipedia.org/wiki/多邊形 "wikilink")[PlayStation陣營](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。並於同年12月推出處女作《[國王密令](https://zh.wikipedia.org/wiki/國王密令 "wikilink")》這款[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[第一人稱](https://zh.wikipedia.org/wiki/第一人稱 "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")。\[4\]
+20世紀90年代初，[日本](../Page/日本.md "wikilink")[泡沫經濟崩壞](https://zh.wikipedia.org/wiki/泡沫經濟 "wikilink")，原[業務萎縮](https://zh.wikipedia.org/wiki/業務 "wikilink")。此時**FromSoftware**就有投入遊戲開發之意，起因為[公司成員於午休期間利用公司](../Page/公司.md "wikilink")[工作站做出了操作](../Page/工作站.md "wikilink")[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[多邊形](https://zh.wikipedia.org/wiki/多邊形 "wikilink")[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，社長神直利對[遊戲也有熱情](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，認為有[商業潛力](https://zh.wikipedia.org/wiki/商業 "wikilink")。但礙於當時[個人電腦性能有限](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、家用[電玩主機開發工具規格特殊等原因](https://zh.wikipedia.org/wiki/電玩主機 "wikilink")，直至1994年才加入開發容易又特化[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[多邊形演算的](https://zh.wikipedia.org/wiki/多邊形 "wikilink")[PlayStation陣營](../Page/PlayStation.md "wikilink")。並於同年12月推出處女作《[國王密令](../Page/國王密令.md "wikilink")》這款[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[第一人稱](https://zh.wikipedia.org/wiki/第一人稱 "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")。\[4\]
 
 ## 作風
 
 重視技術力，對參加新[電玩主機挺積極](https://zh.wikipedia.org/wiki/電玩主機 "wikilink")。從[Dreamcast](../Page/Dreamcast.md "wikilink")、[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、[PlayStation
 2](../Page/PlayStation_2.md "wikilink")、[PlayStation
-3到](../Page/PlayStation_3.md "wikilink")[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[Xbox
+3到](../Page/PlayStation_3.md "wikilink")[Xbox](../Page/Xbox.md "wikilink")、[Xbox
 360都在日本上市未滿兩年就推出作品](../Page/Xbox_360.md "wikilink")。[掌上型遊戲機甚至](https://zh.wikipedia.org/wiki/掌上型遊戲機 "wikilink")[手機遊戲都有涉獵](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")。
 
 開幕影片或試映片多半是有如實攝的逼真[CG影片](https://zh.wikipedia.org/wiki/CG "wikilink")。幾乎沒有[2D類遊戲](https://zh.wikipedia.org/wiki/2D "wikilink")。
 
-作品風格黑暗頹廢，敘事隱晦(如《[機戰傭兵](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")》的人物一律不露臉)，日本玩家稱能根據遊戲裡蛛絲馬跡架構還原世界觀的能力為「From腦」。在玩家間以硬派形象聞名，欠缺所謂的[萌系角色](../Page/萌.md "wikilink")（《[惡魔靈魂](https://zh.wikipedia.org/wiki/惡魔靈魂 "wikilink")》因[SCE希望提升賣相加入了女角](https://zh.wikipedia.org/wiki/SCE "wikilink")，卻是雙眼被蠟蓋住的黒衣火防女，令[SCE的製作人梶井語塞](https://zh.wikipedia.org/wiki/SCE "wikilink")\[5\]）、操作複雜、難易度高
+作品風格黑暗頹廢，敘事隱晦(如《[機戰傭兵](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")》的人物一律不露臉)，日本玩家稱能根據遊戲裡蛛絲馬跡架構還原世界觀的能力為「From腦」。在玩家間以硬派形象聞名，欠缺所謂的[萌系角色](../Page/萌.md "wikilink")（《[惡魔靈魂](../Page/惡魔靈魂.md "wikilink")》因[SCE希望提升賣相加入了女角](https://zh.wikipedia.org/wiki/SCE "wikilink")，卻是雙眼被蠟蓋住的黒衣火防女，令[SCE的製作人梶井語塞](https://zh.wikipedia.org/wiki/SCE "wikilink")\[5\]）、操作複雜、難易度高
 。只有少數如[玉兔追月走可愛路線](https://zh.wikipedia.org/wiki/玉兔追月 "wikilink")。
 
-作品慣例會出現名為Moonlight的強力[劍系](../Page/劍.md "wikilink")[武器](../Page/武器.md "wikilink")。2000年推出在[PC的](../Page/PC.md "wikilink")[國王密令開發工具亦以此為名](https://zh.wikipedia.org/wiki/國王密令 "wikilink")。
+作品慣例會出現名為Moonlight的強力[劍系](../Page/劍.md "wikilink")[武器](../Page/武器.md "wikilink")。2000年推出在[PC的](../Page/PC.md "wikilink")[國王密令開發工具亦以此為名](../Page/國王密令.md "wikilink")。
 
 ## 作品
 
@@ -42,8 +42,8 @@ FromSoftware已於2014年被[角川集團收购](../Page/角川集團.md "wikili
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/國王密令" title="wikilink">國王密令</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation" title="wikilink">PlayStation</a></p></td>
+<td><p><a href="../Page/國王密令.md" title="wikilink">國王密令</a></p></td>
+<td><p><a href="../Page/PlayStation.md" title="wikilink">PlayStation</a></p></td>
 <td><p>From Software</p></td>
 <td></td>
 <td></td>
@@ -52,9 +52,9 @@ FromSoftware已於2014年被[角川集團收购](../Page/角川集團.md "wikili
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/國王密令II" title="wikilink">國王密令 II</a><br />
+<td><p><a href="../Page/國王密令II.md" title="wikilink">國王密令 II</a><br />
 <em>King's Field II</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation" title="wikilink">PlayStation</a></p></td>
+<td><p><a href="../Page/PlayStation.md" title="wikilink">PlayStation</a></p></td>
 <td><p>From Software（日本）<br />
 <a href="../Page/ASCII_(公司).md" title="wikilink">ASCII</a>(北美)<br />
 <a href="https://zh.wikipedia.org/wiki/索尼电脑娱乐" title="wikilink">索尼电脑娱乐</a>（欧洲）</p></td>
@@ -65,9 +65,9 @@ FromSoftware已於2014年被[角川集團收购](../Page/角川集團.md "wikili
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/國王密令III" title="wikilink">國王密令 III</a><br />
+<td><p><a href="../Page/國王密令III.md" title="wikilink">國王密令 III</a><br />
 <em>King's Field III</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation" title="wikilink">PlayStation</a></p></td>
+<td><p><a href="../Page/PlayStation.md" title="wikilink">PlayStation</a></p></td>
 <td><p>From Software（日本）<br />
 ASCII(北美)</p></td>
 <td></td>
@@ -78,7 +78,7 @@ ASCII(北美)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/装甲核心" title="wikilink">装甲核心</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation" title="wikilink">PlayStation</a></p></td>
+<td><p><a href="../Page/PlayStation.md" title="wikilink">PlayStation</a></p></td>
 <td><p>From Software（日本）<br />
 索尼电脑娱乐(全球)</p></td>
 <td></td>
@@ -90,7 +90,7 @@ ASCII(北美)</p></td>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/装甲核心" title="wikilink">装甲核心 幻影计划</a><br />
 <em>Armored Core: Project Phantasma</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation" title="wikilink">PlayStation</a></p></td>
+<td><p><a href="../Page/PlayStation.md" title="wikilink">PlayStation</a></p></td>
 <td><p>From Software（日本）<br />
 ASCII(北美)</p></td>
 <td></td>
@@ -102,7 +102,7 @@ ASCII(北美)</p></td>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/暗影之塔" title="wikilink">暗影之塔</a><br />
 <em>Shadow Tower</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation" title="wikilink">PlayStation</a></p></td>
+<td><p><a href="../Page/PlayStation.md" title="wikilink">PlayStation</a></p></td>
 <td><p>From Software（日本）<br />
 Agetec（北美）</p></td>
 <td></td>
@@ -114,7 +114,7 @@ Agetec（北美）</p></td>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/惊声恶夜" title="wikilink">惊声恶夜</a><br />
 <em>Echo Night</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation" title="wikilink">PlayStation</a></p></td>
+<td><p><a href="../Page/PlayStation.md" title="wikilink">PlayStation</a></p></td>
 <td><p>From Software</p></td>
 <td></td>
 <td></td>
@@ -125,7 +125,7 @@ Agetec（北美）</p></td>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/装甲核心_竞技场之王" title="wikilink">装甲核心 竞技场之王</a><br />
 <em>Armored Core: Master of Arena</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation" title="wikilink">PlayStation</a></p></td>
+<td><p><a href="../Page/PlayStation.md" title="wikilink">PlayStation</a></p></td>
 <td><p>From Software（日本）<br />
 Agetec（北美）</p></td>
 <td></td>
@@ -137,7 +137,7 @@ Agetec（北美）</p></td>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/轰天高校生" title="wikilink">轰天高校生</a><br />
 <em>Spriggan: Lunar Verse</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation" title="wikilink">PlayStation</a></p></td>
+<td><p><a href="../Page/PlayStation.md" title="wikilink">PlayStation</a></p></td>
 <td><p>From Software</p></td>
 <td></td>
 <td></td>
@@ -159,7 +159,7 @@ Agetec（北美）</p></td>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/惊声恶夜2_The_Lord_of_Nightmares" title="wikilink">惊声恶夜2</a><br />
 <em>Echo Night 2: The Lord of Nightmares</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation" title="wikilink">PlayStation</a></p></td>
+<td><p><a href="../Page/PlayStation.md" title="wikilink">PlayStation</a></p></td>
 <td><p>From Software</p></td>
 <td></td>
 <td></td>
@@ -282,7 +282,7 @@ Metro3D（欧洲）</p></td>
 <tr class="odd">
 <td><p>御伽<br />
 <em>Otogi: Myth of Demons</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a></p></td>
+<td><p><a href="../Page/Xbox.md" title="wikilink">Xbox</a></p></td>
 <td><p>From Software（日本）<br />
 <a href="../Page/世嘉.md" title="wikilink">世嘉</a>（欧美）</p></td>
 <td></td>
@@ -306,7 +306,7 @@ Agetec（欧美）</p></td>
 <tr class="odd">
 <td><p>丛 -MURAKUMO-<br />
 <em>Murakumo: Renegade Mech Pursuit</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a></p></td>
+<td><p><a href="../Page/Xbox.md" title="wikilink">Xbox</a></p></td>
 <td><p>From Software（日本）<br />
 育碧（全球）</p></td>
 <td></td>
@@ -318,7 +318,7 @@ Agetec（欧美）</p></td>
 <tr class="even">
 <td><p>千鳕岛<br />
 <em>Thousand Land</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a></p></td>
+<td><p><a href="../Page/Xbox.md" title="wikilink">Xbox</a></p></td>
 <td><p>From Software</p></td>
 <td></td>
 <td></td>
@@ -351,7 +351,7 @@ Agetec（欧美）</p></td>
 <tr class="odd">
 <td><p>御伽〜百鬼讨伐絵巻〜<br />
 <em>Otogi 2: Immortal Warriors</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a></p></td>
+<td><p><a href="../Page/Xbox.md" title="wikilink">Xbox</a></p></td>
 <td><p>From Software（日本）<br />
 世嘉（欧美）</p></td>
 <td></td>
@@ -420,7 +420,7 @@ Agetec（欧美）</p></td>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/钢铁苍狼_浑沌之战" title="wikilink">钢铁苍狼 浑沌之战</a><br />
 <em>Metal Wolf Chaos</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a></p></td>
+<td><p><a href="../Page/Xbox.md" title="wikilink">Xbox</a></p></td>
 <td><p>FromSoftware</p></td>
 <td></td>
 <td></td>
@@ -944,7 +944,7 @@ Agetec（北美）<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/隻狼：暗影雙死" title="wikilink">隻狼：暗影雙死</a><br />
+<td><p><a href="../Page/隻狼：暗影雙死.md" title="wikilink">隻狼：暗影雙死</a><br />
 <em>Sekiro: Shadows Die Twice</em></p></td>
 <td><p><a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a></p></td>
 <td><p><a href="../Page/动视.md" title="wikilink">动视</a></p></td>
@@ -981,7 +981,7 @@ Agetec（北美）<br />
 
   - 1/4（[PlayStation 2](../Page/PlayStation_2.md "wikilink")）
   - Code: Inferno（[PlayStation 2](../Page/PlayStation_2.md "wikilink")）
-  - Gaia Blade（[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")）
+  - Gaia Blade（[Xbox](../Page/Xbox.md "wikilink")）
   - Gold
     Mountain（[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")）
   - Gold Star

@@ -26,7 +26,7 @@ December**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md
 <tr class="odd">
 <td><p>02</p></td>
 <td><p>Otherside</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安東尼·基德斯" title="wikilink">安東尼·基德斯</a><br />
+<td><p><a href="../Page/安東尼·基德斯.md" title="wikilink">安東尼·基德斯</a><br />
 <a href="../Page/Flea.md" title="wikilink">「跳蚤」麥可·巴札里</a><br />
 <br />
 <a href="../Page/約翰·伏許安.md" title="wikilink">約翰·伏許安</a></p></td>

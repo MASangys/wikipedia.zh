@@ -60,7 +60,7 @@ Entertainment），為[日本一家動畫製作發行公司](../Page/日本.md "
 <td><p><a href="../Page/麵包超人.md" title="wikilink">麵包超人</a></p></td>
 <td></td>
 <td><p>1988年10月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/永丘昭典" title="wikilink">永丘昭典</a> 等</p></td>
+<td><p><a href="../Page/永丘昭典.md" title="wikilink">永丘昭典</a> 等</p></td>
 <td><p>繪本</p></td>
 <td><p>TMS/3×CUBE（舊名東京電影）</p></td>
 </tr>
@@ -92,7 +92,7 @@ Entertainment），為[日本一家動畫製作發行公司](../Page/日本.md "
 <td><p><a href="../Page/哈姆太郎.md" title="wikilink">哈姆太郎</a></p></td>
 <td></td>
 <td><p>7月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鍋島修" title="wikilink">鍋島修</a></p></td>
+<td><p><a href="../Page/鍋島修.md" title="wikilink">鍋島修</a></p></td>
 <td><p>漫畫</p></td>
 <td></td>
 </tr>
@@ -108,7 +108,7 @@ Entertainment），為[日本一家動畫製作發行公司](../Page/日本.md "
 <td><p><a href="../Page/音速小子X.md" title="wikilink">音速小子X</a></p></td>
 <td></td>
 <td><p>4月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/龜垣一" title="wikilink">龜垣一</a></p></td>
+<td><p><a href="../Page/龜垣一.md" title="wikilink">龜垣一</a></p></td>
 <td><p>電玩</p></td>
 <td></td>
 </tr>
@@ -169,7 +169,7 @@ Entertainment），為[日本一家動畫製作發行公司](../Page/日本.md "
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/信長的忍者" title="wikilink">信長的忍者 ～伊勢·金崎篇</a></p></td>
+<td><p><a href="../Page/信長的忍者.md" title="wikilink">信長的忍者 ～伊勢·金崎篇</a></p></td>
 <td></td>
 <td><p>4月8日</p></td>
 <td><p><a href="../Page/大地丙太郎.md" title="wikilink">大地丙太郎</a></p></td>
@@ -177,7 +177,7 @@ Entertainment），為[日本一家動畫製作發行公司](../Page/日本.md "
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/猜謎王" title="wikilink">猜謎王</a></p></td>
+<td><p><a href="../Page/猜謎王.md" title="wikilink">猜謎王</a></p></td>
 <td></td>
 <td><p>7月4日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大宙征基" title="wikilink">大宙征基</a></p></td>
@@ -193,7 +193,7 @@ Entertainment），為[日本一家動畫製作發行公司](../Page/日本.md "
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/刃牙" title="wikilink">刃牙 (第2作)</a></p></td>
+<td><p><a href="../Page/刃牙.md" title="wikilink">刃牙 (第2作)</a></p></td>
 <td></td>
 <td><p>7月</p></td>
 <td></td>
@@ -201,7 +201,7 @@ Entertainment），為[日本一家動畫製作發行公司](../Page/日本.md "
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/付喪神出租中" title="wikilink">付喪神出租中</a></p></td>
+<td><p><a href="../Page/付喪神出租中.md" title="wikilink">付喪神出租中</a></p></td>
 <td></td>
 <td><p>7月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/畠中恵" title="wikilink">畠中恵</a> 原著</p></td>

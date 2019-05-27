@@ -53,7 +53,7 @@ CROW的CD作品，此一次在没有在封面个歌词小册子中刊登成员�
         〜水のない晴れた海へ〜](https://zh.wikipedia.org/wiki/first_soundscope_〜水のない晴れた海へ〜 "wikilink")》版本。读卖电视台・日本电视台动画《名侦探柯南》片尾曲。
 6.  **[flying](https://zh.wikipedia.org/wiki/flying "wikilink")**
       -
-        第六章单曲。[Namco](https://zh.wikipedia.org/wiki/Namco "wikilink")・[PlayStation用游戏软件](https://zh.wikipedia.org/wiki/PlayStation "wikilink")《[永恒传奇](https://zh.wikipedia.org/wiki/永恒传奇 "wikilink")》主题曲。
+        第六章单曲。[Namco](https://zh.wikipedia.org/wiki/Namco "wikilink")・[PlayStation用游戏软件](../Page/PlayStation.md "wikilink")《[永恒传奇](https://zh.wikipedia.org/wiki/永恒传奇 "wikilink")》主题曲。
 7.  **[Last love
     song](https://zh.wikipedia.org/wiki/Last_love_song "wikilink")**
       -
@@ -116,7 +116,7 @@ CROW的CD作品，此一次在没有在封面个歌词小册子中刊登成员�
 6.  **[今宵エデンの片隅で](https://zh.wikipedia.org/wiki/今宵伊甸园的一角 "wikilink")**
       -
         第二十二张单曲。东京电视台动画《MÄR 魔法世界》片尾曲。
-7.  **[まぼろし](https://zh.wikipedia.org/wiki/幻 "wikilink")**
+7.  **[まぼろし](../Page/幻.md "wikilink")**
       -
         第二十三张单曲。朝日电视台电视剧《[新女科调员](https://zh.wikipedia.org/wiki/女科调员 "wikilink")》主题曲。
 8.  **[風とRAINBOW](https://zh.wikipedia.org/wiki/风和彩虹/若是伸出这双手 "wikilink")**

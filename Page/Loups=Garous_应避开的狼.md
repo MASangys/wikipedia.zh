@@ -148,7 +148,7 @@ communication）变得越来越少。
   - 制片人- 向井地基起、[谷澤伸幸](https://zh.wikipedia.org/wiki/谷澤伸幸 "wikilink")
   - 脚本 - 後藤みどり、ハラダサヤカ
   - 人物原案 - [箸井地図](https://zh.wikipedia.org/wiki/箸井地図 "wikilink")
-  - 人物设计・作画監督 - [石井明治](https://zh.wikipedia.org/wiki/石井明治 "wikilink")
+  - 人物设计・作画監督 - [石井明治](../Page/石井明治.md "wikilink")
   - 美術監督 - 衛藤功二
   - 撮影監督 - 志村豪
   - 編集 - 植松淳一
@@ -158,7 +158,7 @@ communication）变得越来越少。
   - 制作 - [プロダクション
     I.G](../Page/Production_I.G.md "wikilink")、[トランス・アーツ](https://zh.wikipedia.org/wiki/トランス・アーツ "wikilink")
   - ルー=ガルー製作委員会 - [Kitty
-    film](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")、[萬代影視](../Page/萬代影視.md "wikilink")、[木下工務店](https://zh.wikipedia.org/wiki/木下工務店 "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[ミクシィ](https://zh.wikipedia.org/wiki/ミクシィ "wikilink")
+    film](../Page/Kitty_film.md "wikilink")、[萬代影視](../Page/萬代影視.md "wikilink")、[木下工務店](https://zh.wikipedia.org/wiki/木下工務店 "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[ミクシィ](https://zh.wikipedia.org/wiki/ミクシィ "wikilink")
 
 ### 歌曲
 

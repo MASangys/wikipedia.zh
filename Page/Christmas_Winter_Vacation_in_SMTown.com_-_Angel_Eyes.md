@@ -1,5 +1,5 @@
 ***Winter Vacation in SMTown.com – Angel Eyes***是[SM
-Town在](../Page/SM_Town.md "wikilink")2001年發行的第三張冬季合輯。除了這是[Dana](https://zh.wikipedia.org/wiki/喜悅Dana "wikilink")(當時未加入[天上智喜](../Page/天上智喜.md "wikilink")，以個人身份出道)和女子組合[M.I.L.K首次參與錄製外](https://zh.wikipedia.org/wiki/M.I.L.K "wikilink")，還是[H.O.T.成員](../Page/H.O.T..md "wikilink")[文熙俊和](../Page/文熙俊.md "wikilink")[安七炫在其組合解散後首次以個人名義參與家族合輯的錄製](../Page/安七炫.md "wikilink")。
+Town在](../Page/SM_Town.md "wikilink")2001年發行的第三張冬季合輯。除了這是[Dana](../Page/喜悅Dana.md "wikilink")(當時未加入[天上智喜](../Page/天上智喜.md "wikilink")，以個人身份出道)和女子組合[M.I.L.K首次參與錄製外](https://zh.wikipedia.org/wiki/M.I.L.K "wikilink")，還是[H.O.T.成員](../Page/H.O.T..md "wikilink")[文熙俊和](../Page/文熙俊.md "wikilink")[安七炫在其組合解散後首次以個人名義參與家族合輯的錄製](../Page/安七炫.md "wikilink")。
 
 ## 曲目列表
 
@@ -12,7 +12,7 @@ Town在](../Page/SM_Town.md "wikilink")2001年發行的第三張冬季合輯。�
 6.  O' Holy Night - [Fly to the
     Sky](../Page/Fly_to_the_Sky.md "wikilink")
 7.  Feliz Navidad - [BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")
-8.  Chocolate - [Dana](https://zh.wikipedia.org/wiki/喜悅Dana "wikilink")
+8.  Chocolate - [Dana](../Page/喜悅Dana.md "wikilink")
 9.  Sad Snow - [劉英振](../Page/劉英振.md "wikilink")
 10. The First Noel - [安七炫](../Page/安七炫.md "wikilink")
 11. White Love -

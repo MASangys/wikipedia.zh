@@ -107,7 +107,7 @@ Comp M4。
 
   - [SUSAT光學瞄準鏡](../Page/SUSAT光學瞄準鏡.md "wikilink")
 
-  - [SUIT光學瞄準鏡](https://zh.wikipedia.org/wiki/SUIT光學瞄準鏡 "wikilink")
+  - [SUIT光學瞄準鏡](../Page/SUIT光學瞄準鏡.md "wikilink")
 
   - [EOTech全息瞄準鏡](https://zh.wikipedia.org/wiki/EOTech全息瞄準鏡 "wikilink")
 

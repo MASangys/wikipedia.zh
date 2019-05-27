@@ -4,9 +4,9 @@
 ## 背景
 
 [美国国会](../Page/美国国会.md "wikilink")[众议院和](https://zh.wikipedia.org/wiki/美国众议院 "wikilink")[参议院分别在](../Page/美国参议院.md "wikilink")2011年10月26日和早前的5月12日推出了[禁止网络盗版法案](../Page/禁止网络盗版法案.md "wikilink")（SOPA）和[保护知识产权法案](../Page/保护知识产权法案.md "wikilink")（PIPA）。两者都回应了用美国法律制裁不属于美国司法管辖区的网站的问题。即便[数字千年版权法案及其他现行法律已经被普遍认为是打击美国网站非法内容或活动的有效手段](https://zh.wikipedia.org/wiki/数字千年版权法案 "wikilink")\[2\]
-，打击海外网站的行动仍是困难重重\[3\]。SOPA和PIPA均提出透过切断美国投资的侵权网站（尤其是[广告](../Page/网络广告.md "wikilink")）、[付费处理器](https://zh.wikipedia.org/wiki/付费处理器 "wikilink")、[搜索引擎结果](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")、[网页浏览器能见度来纠正这一困难](../Page/网页浏览器.md "wikilink")。所有这些服务的主要供应商总部设在美国。值得注意的是，该规定还涉及[域名系统](../Page/域名系统.md "wikilink")（DNS）的修改。DNS是整个互联网的支柱，是允许世界各地的计算机精确地相互搜寻的关键服务。
+，打击海外网站的行动仍是困难重重\[3\]。SOPA和PIPA均提出透过切断美国投资的侵权网站（尤其是[广告](../Page/网络广告.md "wikilink")）、[付费处理器](https://zh.wikipedia.org/wiki/付费处理器 "wikilink")、[搜索引擎结果](../Page/搜索引擎.md "wikilink")、[网页浏览器能见度来纠正这一困难](../Page/网页浏览器.md "wikilink")。所有这些服务的主要供应商总部设在美国。值得注意的是，该规定还涉及[域名系统](../Page/域名系统.md "wikilink")（DNS）的修改。DNS是整个互联网的支柱，是允许世界各地的计算机精确地相互搜寻的关键服务。
 
-部分媒体公司和[美国电影协会](https://zh.wikipedia.org/wiki/美国电影协会 "wikilink")、[美国唱片工业协会和](https://zh.wikipedia.org/wiki/美国唱片工业协会 "wikilink")[娱乐软件协会等行业协会对该决定表示支持](https://zh.wikipedia.org/wiki/娱乐软件协会 "wikilink")。支持者普遍认为需要更有效的法律打击国内的非法产品服务和假冒产品（处方药、运动鞋、化妆品等）销售，世界各地的版权侵犯活动存在预防问题，皆因它们源自美国以外的国家。
+部分媒体公司和[美国电影协会](https://zh.wikipedia.org/wiki/美国电影协会 "wikilink")、[美国唱片工业协会和](https://zh.wikipedia.org/wiki/美国唱片工业协会 "wikilink")[娱乐软件协会等行业协会对该决定表示支持](../Page/娱乐软件协会.md "wikilink")。支持者普遍认为需要更有效的法律打击国内的非法产品服务和假冒产品（处方药、运动鞋、化妆品等）销售，世界各地的版权侵犯活动存在预防问题，皆因它们源自美国以外的国家。
 
 反对法案的有技术和互联网企业和协会、维基百科社群等内容创作者、免费的软件作者、言论自由组织、国会议员及其他网站组织，还有许多受惠于其服务的市民。他们普遍认为法律给两个主要领域带来严重的副作用：
 

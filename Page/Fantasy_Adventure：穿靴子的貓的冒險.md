@@ -192,7 +192,7 @@ Adventure：穿靴子的貓的冒險**》（）是從1992年4月1日到9月23日
 <td><p>15</p></td>
 <td></td>
 <td><p>山田隆司</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/又野弘道" title="wikilink">又野弘道</a></p></td>
+<td><p><a href="../Page/又野弘道.md" title="wikilink">又野弘道</a></p></td>
 <td><p>矢沢則夫</p></td>
 </tr>
 <tr class="even">

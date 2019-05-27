@@ -5,18 +5,18 @@ Entertainment於](../Page/SM娛樂.md "wikilink")2012年4月8日正式推出的1
 
 ## 成員列表
 
-| 成員列表\[3\]                                                 |
-| --------------------------------------------------------- |
-| 藝名                                                        |
-| 藝名                                                        |
-| [Xiumin](https://zh.wikipedia.org/wiki/Xiumin "wikilink") |
-| [Lay](https://zh.wikipedia.org/wiki/Lay "wikilink")       |
-| [Chen](https://zh.wikipedia.org/wiki/金鍾大 "wikilink")      |
-| 正進行合約無效訴訟                                                 |
-| [Tao](../Page/黃子韜.md "wikilink")                          |
+| 成員列表\[3\]                                            |
+| ---------------------------------------------------- |
+| 藝名                                                   |
+| 藝名                                                   |
+| [Xiumin](../Page/Xiumin.md "wikilink")               |
+| [Lay](https://zh.wikipedia.org/wiki/Lay "wikilink")  |
+| [Chen](https://zh.wikipedia.org/wiki/金鍾大 "wikilink") |
+| 正進行合約無效訴訟                                            |
+| [Tao](../Page/黃子韜.md "wikilink")                     |
 
   - 离团成员
-      - [Luhan](https://zh.wikipedia.org/wiki/鹿晗 "wikilink")
+      - [Luhan](../Page/鹿晗.md "wikilink")
       - [Kris](../Page/吳亦凡.md "wikilink")
 
 ## 出道預告公開順序
@@ -169,7 +169,7 @@ Entertainment於](../Page/SM娛樂.md "wikilink")2012年4月8日正式推出的1
 <td><p>2012年5月15日</p></td>
 <td><p>《<a href="../Page/I_AM._-_SM家族青春傳記電影.md" title="wikilink">I AM. - SM家族青春傳記電影</a>》</p></td>
 <td><p>Dear My Family</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鹿晗" title="wikilink">Luhan</a>、<a href="https://zh.wikipedia.org/wiki/金鐘大" title="wikilink">Chen</a></p></td>
+<td><p><a href="../Page/鹿晗.md" title="wikilink">Luhan</a>、<a href="https://zh.wikipedia.org/wiki/金鐘大" title="wikilink">Chen</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SMTOWN" title="wikilink">SMTOWN</a></p></td>
 </tr>
 <tr class="odd">
@@ -177,7 +177,7 @@ Entertainment於](../Page/SM娛樂.md "wikilink")2012年4月8日正式推出的1
 <td><p>2012年10月31日</p></td>
 <td><p>PYL Younique Album Vol.1</p></td>
 <td><p>Maxstep</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鹿晗" title="wikilink">Luhan</a></p></td>
+<td><p><a href="../Page/鹿晗.md" title="wikilink">Luhan</a></p></td>
 <td><p><a href="../Page/Younique_Unit.md" title="wikilink">Younique Unit</a></p></td>
 </tr>
 <tr class="even">
@@ -225,7 +225,7 @@ Entertainment於](../Page/SM娛樂.md "wikilink")2012年4月8日正式推出的1
 <tr class="odd">
 <td><p>OST</p></td>
 <td><p>2014年4月7日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/斗舞帮" title="wikilink">Make Your Move 3D</a> Soundtrack》</p></td>
+<td><p>《<a href="../Page/斗舞帮.md" title="wikilink">Make Your Move 3D</a> Soundtrack》</p></td>
 <td><p>Say Yes</p></td>
 <td><p><a href="../Page/吳亦凡.md" title="wikilink">Kris</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Jessica_(1989年出生)" title="wikilink">潔西卡</a>、<a href="../Page/鄭秀晶.md" title="wikilink">Krystal</a></p></td>
@@ -254,7 +254,7 @@ Entertainment於](../Page/SM娛樂.md "wikilink")2012年4月8日正式推出的1
 |             |                       |                                                      |                                                               |
 | ----------- | --------------------- | ---------------------------------------------------- | ------------------------------------------------------------- |
 | 發佈日期        | 歌曲名稱                  | 歌手                                                   | 參與成員                                                          |
-| 2012年10月31日 | Maxstep               | [Younique Unit](../Page/Younique_Unit.md "wikilink") | [Luhan](https://zh.wikipedia.org/wiki/鹿晗 "wikilink")          |
+| 2012年10月31日 | Maxstep               | [Younique Unit](../Page/Younique_Unit.md "wikilink") | [Luhan](../Page/鹿晗.md "wikilink")                             |
 | 2013年11月8日  | Gone\[4\]             | [JIN](https://zh.wikipedia.org/wiki/JIN "wikilink")  | [Xiumin](https://zh.wikipedia.org/wiki/金珉錫_\(歌手\) "wikilink") |
 | 2014年8月5日   | 愛的獨白 (Agape)\[5\]     | [張力尹](https://zh.wikipedia.org/wiki/張力尹 "wikilink")  | [Tao](../Page/黃子韜.md "wikilink")                              |
 | 2014年9月22日  | 我一個人 (Not Alone)\[6\] |                                                      |                                                               |
@@ -301,7 +301,7 @@ Entertainment於](../Page/SM娛樂.md "wikilink")2012年4月8日正式推出的1
 | 2013年12月18日     | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")                                               | [Show Champion](../Page/Show_Champion.md "wikilink")               | Xiumin                                                                                                   | Special MC                                                                          |
 | 2014年1月4日       | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")                                     | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") | Special MC，代[珉豪主持](../Page/珉豪.md "wikilink")                                                             |                                                                                     |
 | 2014年3月8日       | Special MC，與[徐玄代替](https://zh.wikipedia.org/wiki/徐玄 "wikilink")[珉豪主持](../Page/珉豪.md "wikilink") |                                                                    |                                                                                                          |                                                                                     |
-| 2014年6月21日      | [CCTV 15](https://zh.wikipedia.org/wiki/中國中央電視台音樂頻道 "wikilink")                                 | [全球中文音乐榜上榜](https://zh.wikipedia.org/wiki/全球中文音乐榜上榜 "wikilink")    | Lay                                                                                                      | 嘉賓主持                                                                                |
+| 2014年6月21日      | [CCTV 15](https://zh.wikipedia.org/wiki/中國中央電視台音樂頻道 "wikilink")                                 | [全球中文音乐榜上榜](../Page/全球中文音乐榜上榜.md "wikilink")                       | Lay                                                                                                      | 嘉賓主持                                                                                |
 | 2014年6月30日－7月4日 | [北京電視台](https://zh.wikipedia.org/wiki/北京電視台 "wikilink")                                         | [音樂風雲榜](https://zh.wikipedia.org/wiki/音樂風雲榜 "wikilink")            | 一周代班主持                                                                                                   |                                                                                     |
 
 ## 代言
@@ -365,7 +365,7 @@ Entertainment於](../Page/SM娛樂.md "wikilink")2012年4月8日正式推出的1
 | 2014年5月11日 | 上海    | 上海梅賽德斯賓士文化中心 |
 
   - EXO首場亞洲巡迴演唱會《[EXO FROM. EXOPLANET ＃1 - THE LOST PLANET
-    -](https://zh.wikipedia.org/wiki/EXO_FROM._EXOPLANET_＃1_-_THE_LOST_PLANET_- "wikilink")》
+    -](../Page/EXO_FROM._EXOPLANET_＃1_-_THE_LOST_PLANET_-.md "wikilink")》
 
 |                |       |               |
 | -------------- | ----- | ------------- |
@@ -493,7 +493,7 @@ Entertainment於](../Page/SM娛樂.md "wikilink")2012年4月8日正式推出的1
 <tr class="even">
 <td><p>2014年9月19日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2014年亞洲運動會" title="wikilink">2014年仁川亞洲運動會開幕式暖場</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/仁川亞運主體育場" title="wikilink">仁川亞運主體育場</a></p></td>
+<td><p><a href="../Page/仁川亞運主體育場.md" title="wikilink">仁川亞運主體育場</a></p></td>
 <td><p><em>Kris、Luhan除外</em></p></td>
 </tr>
 <tr class="odd">
@@ -610,7 +610,7 @@ Entertainment於](../Page/SM娛樂.md "wikilink")2012年4月8日正式推出的1
 | 2013年12月26日          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                      |         |       |
 | 2013年12月27日          | [KBS 2](../Page/KBS第2频道.md "wikilink")                      | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      |                      |         |       |
 | 2014年1月2日            | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                      |         |       |
-| 2014年5月10日           | [CCTV 15](../Page/中国中央电视台音乐频道.md "wikilink")                | [全球中文音樂榜上榜](https://zh.wikipedia.org/wiki/全球中文音乐榜上榜 "wikilink")        | 上癮（Overdose）         | 1位      | EXO-M |
+| 2014年5月10日           | [CCTV 15](../Page/中国中央电视台音乐频道.md "wikilink")                | [全球中文音樂榜上榜](../Page/全球中文音乐榜上榜.md "wikilink")                           | 上癮（Overdose）         | 1位      | EXO-M |
 | 2014年5月17日           |                                                             |                                                                        |                      |         |       |
 | 2014年6月27日           | [KBS 2](../Page/KBS第2频道.md "wikilink")                      | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Miracles in December | 年中結算：5位 | EXO   |
 |                      |                                                             |                                                                        |                      |         |       |

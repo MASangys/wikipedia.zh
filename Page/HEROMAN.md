@@ -71,7 +71,7 @@ To Be continued ”的標語。但卻出現，在這之後呢“ ? ”）\[8\]�
     和威爾一起潛入sukuraggu基地、結果兩人一起被抓並被改造。被改造後，使用雙槍戰鬥。和威爾一樣，和喬伊在基地內戰鬥時洗腦被解除、但因為對於改造帶來的力量相當執著而仍繼續戰鬥、之後當基地被破壞時一起失蹤而生死不明。
     漫画版中當被解除洗腦後、由於被改造帶來的力量以及無法回到正常世界的絕望，所以順從了Gogoru。
   - 比利
-    声 - [長克巳](https://zh.wikipedia.org/wiki/長克巳 "wikilink")
+    声 - [長克巳](../Page/長克巳.md "wikilink")
     喬伊所打工的咖啡店「Eat at Hilly's」店長。他所泡的咖啡相當棒、而有很多常客。
   - 史丹
     声 - [伊井篤史](https://zh.wikipedia.org/wiki/伊井篤史 "wikilink")
@@ -224,7 +224,7 @@ To Be continued ”的標語。但卻出現，在這之後呢“ ? ”）\[8\]�
 <td><p>开端</p></td>
 <td><p><a href="../Page/大和屋曉.md" title="wikilink">大和屋曉</a></p></td>
 <td><p><a href="../Page/難波日登志.md" title="wikilink">三條なみみ</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/森邦宏" title="wikilink">森邦宏</a></p></td>
+<td><p><a href="../Page/森邦宏.md" title="wikilink">森邦宏</a></p></td>
 <td><p><a href="../Page/川元利浩.md" title="wikilink">川元利浩</a></p></td>
 </tr>
 <tr class="even">
@@ -259,7 +259,7 @@ To Be continued ”的標語。但卻出現，在這之後呢“ ? ”）\[8\]�
 <td><p>ASSASSINS</p></td>
 <td><p>刺客</p></td>
 <td><p><a href="../Page/石平信司.md" title="wikilink">石平信司</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/迫井政行" title="wikilink">迫井政行</a></p></td>
+<td><p><a href="../Page/迫井政行.md" title="wikilink">迫井政行</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/織田廣之" title="wikilink">織田廣之</a></p></td>
 <td></td>
 </tr>
@@ -340,7 +340,7 @@ To Be continued ”的標語。但卻出現，在這之後呢“ ? ”）\[8\]�
 <td><p>第14話</p></td>
 <td><p>BELEAGUER</p></td>
 <td><p>困扰</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/坂田純一" title="wikilink">坂田純一</a></p></td>
+<td><p><a href="../Page/坂田純一.md" title="wikilink">坂田純一</a></p></td>
 <td><p>淵上真</p></td>
 <td><p>垪和等</p></td>
 <td></td>

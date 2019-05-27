@@ -189,7 +189,7 @@ Busters的得力夥伴。
 <td><p>Yellow Buster</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蜂須賀祐一" title="wikilink"><font color="black">蜂須賀祐一</font></a><br />
 <a href="https://zh.wikipedia.org/wiki/内川仁朗" title="wikilink"><font color="black">内川仁朗</font></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/薛晴" title="wikilink"><font color="black">薛晴</font></a>（本篇）<br />
+<td><p><a href="../Page/薛晴.md" title="wikilink"><font color="black">薛晴</font></a>（本篇）<br />
 <a href="../Page/傅其慧.md" title="wikilink"><font color="black">傅其慧</font></a>（VS豪快者、VS強龍者）<br />
 <a href="../Page/連思宇.md" title="wikilink"><font color="black">連思宇</font></a>（超級英雄大戰、超級英雄大戰Z）</p></td>
 <td><p><a href="../Page/何寶珊.md" title="wikilink"><font color="black">何寶珊</font></a></p></td>
@@ -296,7 +296,7 @@ Busters的得力夥伴。
 <td><p><a href="https://zh.wikipedia.org/wiki/佐藤太輔" title="wikilink"><font color="#082567">佐藤太輔</font></a></p></td>
 <td><p><a href="../Page/夏治世.md" title="wikilink"><font color="#082567">夏治世</font></a>（本篇）<br />
 <a href="../Page/陳彥鈞.md" title="wikilink"><font color="#082567">陳彥鈞</font></a>（VS豪快者、VS強龍者）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林筠翔" title="wikilink"><font color="#082567">林筠翔</font></a></p></td>
+<td><p><a href="../Page/林筠翔.md" title="wikilink"><font color="#082567">林筠翔</font></a></p></td>
 </tr>
 <tr class="even">
 <td><p>第一人稱為「<strong>俺</strong>」。</p>
@@ -348,7 +348,7 @@ Busters的得力夥伴。
 <td><p>早乙女麗花</p></td>
 <td><p>Pink Buster</p></td>
 <td><p><a href="../Page/無.md" title="wikilink"><font color="black">無</font></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/薛晴" title="wikilink"><font color="black">薛晴</font></a></p></td>
+<td><p><a href="../Page/薛晴.md" title="wikilink"><font color="black">薛晴</font></a></p></td>
 <td><p><a href="../Page/何寶珊.md" title="wikilink"><font color="black">何寶珊</font></a></p></td>
 </tr>
 <tr class="even">
@@ -392,8 +392,8 @@ Busters的得力夥伴。
 
 <!-- end list -->
 
-  - **森下徹／**（[高橋直人](https://zh.wikipedia.org/wiki/高橋直人 "wikilink")
-    飾／台：[鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")（本篇）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（VS豪快者）／港：[黃積權](../Page/黃積權.md "wikilink")）
+  - **森下徹／**（[高橋直人](../Page/高橋直人.md "wikilink")
+    飾／台：[鈕凱暘](../Page/鈕凱暘.md "wikilink")（本篇）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（VS豪快者）／港：[黃積權](../Page/黃積權.md "wikilink")）
 
 <!-- end list -->
 
@@ -452,7 +452,7 @@ Busters的得力夥伴。
 而所謂的「**Vaglass**」，是人類擅自取的名字。
 
   - **Messiah／／彌賽亞（台、港譯）**（[佐佐木誠二](https://zh.wikipedia.org/wiki/佐佐木誠二 "wikilink")
-    聲／台：[鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")／港：[張炳強](../Page/張炳強.md "wikilink")）
+    聲／台：[鈕凱暘](../Page/鈕凱暘.md "wikilink")／港：[張炳強](../Page/張炳強.md "wikilink")）
 
 <!-- end list -->
 
@@ -1333,7 +1333,7 @@ Busters的得力夥伴。
 <td><p>金剛‧香蕉（港譯）／猩崎‧巴納（台譯）／Gorisaki Banana／</p></td>
 <td><p><a href="../Page/玄田哲章.md" title="wikilink"><font color="white">玄田哲章</font></a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/岡元次郎" title="wikilink"><font color="white">岡元次郎</font></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鈕凱暘" title="wikilink"><font color="white">鈕凱暘</font></a>(本篇)<br />
+<td><p><a href="../Page/鈕凱暘.md" title="wikilink"><font color="white">鈕凱暘</font></a>(本篇)<br />
 <a href="../Page/陳彥鈞.md" title="wikilink"><font color="white">陳彥鈞</font></a>(VS豪快者)</p></td>
 <td><p><a href="../Page/鄧港文.md" title="wikilink"><font color="white">鄧港文</font></a></p></td>
 </tr>
@@ -1399,7 +1399,7 @@ Busters的得力夥伴。
 <td><p><a href="https://zh.wikipedia.org/wiki/佐藤太輔" title="wikilink"><font color="black">佐藤太輔</font></a></p></td>
 <td><p><a href="../Page/夏治世.md" title="wikilink"><font color="black">夏治世</font></a>(本篇)<br />
 <a href="../Page/陳彥鈞.md" title="wikilink"><font color="black">陳彥鈞</font></a>(VS豪快者、VS強龍者)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林筠翔" title="wikilink"><font color="black">林筠翔</font></a></p></td>
+<td><p><a href="../Page/林筠翔.md" title="wikilink"><font color="black">林筠翔</font></a></p></td>
 </tr>
 </tbody>
 </table>
@@ -1773,7 +1773,7 @@ Busters的得力夥伴。
 <td><p>900萬hp/t</p></td>
 <td><p>岡元次郎</p></td>
 <td><p><a href="../Page/水木一郎.md" title="wikilink"><font color="gold">水木一郎</font></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鈕凱暘" title="wikilink"><font color="gold">鈕凱暘</font></a></p></td>
+<td><p><a href="../Page/鈕凱暘.md" title="wikilink"><font color="gold">鈕凱暘</font></a></p></td>
 <td><p>-</p></td>
 </tr>
 </tbody>
@@ -2067,7 +2067,7 @@ Busters的得力夥伴。
 <td><p>特命戦隊、集結せよ！</p></td>
 <td><p>特命戰隊、集结吧！</p></td>
 <td><ul>
-<li>【米達挖土機】|（<a href="https://zh.wikipedia.org/wiki/長嶝高士" title="wikilink">長嶝高士</a>／<a href="../Page/巫哲棋.md" title="wikilink">巫哲棋</a>）</li>
+<li>【米達挖土機】|（<a href="../Page/長嶝高士.md" title="wikilink">長嶝高士</a>／<a href="../Page/巫哲棋.md" title="wikilink">巫哲棋</a>）</li>
 </ul></td>
 <td><p>3.8%</p></td>
 <td><p><a href="../Page/小林靖子.md" title="wikilink">小林靖子</a></p></td>
@@ -2150,7 +2150,7 @@ Busters的得力夥伴。
 <td><p>合体！ゴーバスターオー</p></td>
 <td><p>合體！Go Buster王</p></td>
 <td><ul>
-<li>【米達滅火器】（<a href="https://zh.wikipedia.org/wiki/志賀克也" title="wikilink">志賀克也</a>／<a href="../Page/張方正.md" title="wikilink">張方正</a>）
+<li>【米達滅火器】（<a href="../Page/志賀克也.md" title="wikilink">志賀克也</a>／<a href="../Page/張方正.md" title="wikilink">張方正</a>）
 <ul>
 <li>スプレーゾード</li>
 <li>メガゾードγ</li>
@@ -2175,7 +2175,7 @@ Busters的得力夥伴。
 </ul></li>
 </ul></td>
 <td><p>4.5%</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/毛利亘宏" title="wikilink">毛利亘宏</a></p></td>
+<td><p><a href="../Page/毛利亘宏.md" title="wikilink">毛利亘宏</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2240,7 +2240,7 @@ Busters的得力夥伴。
 </ul></li>
 </ul></td>
 <td><p>4.4%</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/下山健人" title="wikilink">下山健人</a></p></td>
+<td><p><a href="../Page/下山健人.md" title="wikilink">下山健人</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2338,7 +2338,7 @@ Busters的得力夥伴。
 <td><p>その名はゴーバスタービート！</p></td>
 <td><p>其名為Go Buster Beet！</p></td>
 <td><ul>
-<li>【米達叉子】（<a href="https://zh.wikipedia.org/wiki/金光宣明" title="wikilink">金光宣明</a>／）
+<li>【米達叉子】（<a href="../Page/金光宣明.md" title="wikilink">金光宣明</a>／）
 <ul>
 <li>フォークゾード</li>
 <li>メガゾードδ</li>
@@ -3222,7 +3222,7 @@ Busters的得力夥伴。
 13. 但這ID應該是能源管理局時期的。
 14. 性格輕率這一點跟同樣是由小林靖子擔任劇本的[假面騎士電王的櫻井侑斗相似](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")。
 15. 因此Mission 16在他獨自變身的那段，彼得·J·阿角應該在其附近。
-16. 該角色在超級戰隊系列30週年紀念劇場版「[轟轟戰隊冒險者VS超級戰隊](../Page/轟轟戰隊冒險者VS超級戰隊.md "wikilink")」、2015年第39支[手裏劍戰隊忍忍者的第](../Page/手裏劍戰隊忍忍者.md "wikilink")38集出場，及於2018年客串「[英雄媽媽★聯盟](https://zh.wikipedia.org/wiki/英雄媽媽★聯盟 "wikilink")」。
+16. 該角色在超級戰隊系列30週年紀念劇場版「[轟轟戰隊冒險者VS超級戰隊](../Page/轟轟戰隊冒險者VS超級戰隊.md "wikilink")」、2015年第39支[手裏劍戰隊忍忍者的第](../Page/手裏劍戰隊忍忍者.md "wikilink")38集出場，及於2018年客串「[英雄媽媽★聯盟](../Page/英雄媽媽★聯盟.md "wikilink")」。
 17. 該名稱於Mission 30出現。
 18. 駕駛員有Red Buster、Beet Buster（Mission 38、43）、Blue Buster（Mission
     48）和豪快紅（[特命戰隊Go Busters VS 海賊戰隊豪快者 THE

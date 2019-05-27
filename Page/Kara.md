@@ -347,7 +347,7 @@ PlotData =
   - 2007年：[the First
     Bloooooming](https://zh.wikipedia.org/wiki/the_First_Bloooooming "wikilink")
   - 2009年：[REVOLUTION](../Page/REVOLUTION.md "wikilink")
-  - 2011年：[STEP](https://zh.wikipedia.org/wiki/STEP "wikilink")
+  - 2011年：[STEP](../Page/STEP.md "wikilink")
   - 2013年：[FULL BLOOM](../Page/FULL_BLOOM.md "wikilink")
 
 #### 迷你專輯
@@ -415,7 +415,7 @@ PlotData =
 | 2013年11月23-24日 | 神户站  | 神户世界音乐厅   |
 
   - Kara 3rd日本巡迴演唱會（[KARA 3rd JAPAN TOUR 2014
-    KARASIA](https://zh.wikipedia.org/wiki/KARA_3rd_JAPAN_TOUR_2014_KARASIA "wikilink")）
+    KARASIA](../Page/KARA_3rd_JAPAN_TOUR_2014_KARASIA.md "wikilink")）
 
 |                |      |                    |
 | -------------- | ---- | ------------------ |
@@ -629,10 +629,10 @@ PlotData =
 <td><p>2011年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/STEP" title="wikilink">STEP</a></p></td>
+<td><p><a href="../Page/STEP.md" title="wikilink">STEP</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/STEP" title="wikilink">STEP</a></p></td>
+<td><p><a href="../Page/STEP.md" title="wikilink">STEP</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2012年</p></td>

@@ -190,9 +190,9 @@ Umut Tursun<small>（第2季-）</small></p></td>
 <tr class="even">
 <td><p><br />
 </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Voice_决战好声" title="wikilink">The Voice 决战好声</a></small>[4][5]<br />
+<td><p><a href="../Page/The_Voice_决战好声.md" title="wikilink">The Voice 决战好声</a></small>[4][5]<br />
 <small><em>The Voice: The Ultimate Battle of the Best Voices</em></small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/星和视界" title="wikilink">星和视界</a> <a href="https://zh.wikipedia.org/wiki/HUB都会台" title="wikilink">HUB都会台</a>  <a href="../Page/Astro_AEC.md" title="wikilink">Astro AEC</a><br />
+<td><p><a href="../Page/星和视界.md" title="wikilink">星和视界</a> <a href="https://zh.wikipedia.org/wiki/HUB都会台" title="wikilink">HUB都会台</a>  <a href="../Page/Astro_AEC.md" title="wikilink">Astro AEC</a><br />
 <small><a href="http://thevoicesgmy.com/">官网</a></small></p></td>
 <td></td>
 <td></td>

@@ -1,4 +1,4 @@
-是由Seibu開發（）於1994年上市的縱向[捲軸射擊類型](https://zh.wikipedia.org/wiki/捲軸射擊 "wikilink")[街機遊戲](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")，[雷電系列的第三部作品](https://zh.wikipedia.org/wiki/雷電系列 "wikilink")。後來在1997年4月11日由日本System（日本システム）發售[PlayStation版](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，2000年10月26日由Hamster發售廉價版《雷電DX
+是由Seibu開發（）於1994年上市的縱向[捲軸射擊類型](https://zh.wikipedia.org/wiki/捲軸射擊 "wikilink")[街機遊戲](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")，[雷電系列的第三部作品](https://zh.wikipedia.org/wiki/雷電系列 "wikilink")。後來在1997年4月11日由日本System（日本システム）發售[PlayStation版](../Page/PlayStation.md "wikilink")，2000年10月26日由Hamster發售廉價版《雷電DX
 Major Wave1500系列》（）。\[1\]
 
 ## 與雷電II的不同

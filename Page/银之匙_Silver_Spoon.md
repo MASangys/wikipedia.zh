@@ -594,8 +594,7 @@ you](https://zh.wikipedia.org/wiki/Faraway/Kiss_you "wikilink")」
 ::
 作詞、作曲、主唱：[miwa](https://zh.wikipedia.org/wiki/miwa "wikilink")，編曲：Naoki-T
 
-:; 片尾曲「[Hello
-Especially](https://zh.wikipedia.org/wiki/Hello_Especially "wikilink")」
+:; 片尾曲「[Hello Especially](../Page/Hello_Especially.md "wikilink")」
 
   -
 
@@ -606,8 +605,7 @@ Especially](https://zh.wikipedia.org/wiki/Hello_Especially "wikilink")」
 
   - 第2季
 
-:;
-片頭曲「[LIFE](https://zh.wikipedia.org/wiki/LIFE_\(Fujifabric單曲\) "wikilink")」
+:; 片頭曲「[LIFE](../Page/LIFE_\(Fujifabric單曲\).md "wikilink")」
 
 :: 作詞、作曲：山内總一郎，編曲、主唱：Fujifabric
 
@@ -814,7 +812,7 @@ Especially](https://zh.wikipedia.org/wiki/Hello_Especially "wikilink")」
 <td><p>-{南九条、出现}-</p></td>
 <td><p>-{南九条登場}-</p></td>
 <td><p>-{南九條，出現了}-</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/神戶洋行" title="wikilink">神戶洋行</a></p></td>
+<td><p><a href="../Page/神戶洋行.md" title="wikilink">神戶洋行</a></p></td>
 <td><p>寺田悠一、德野悠我<br />
 吉住千秋</p></td>
 <td></td>
@@ -945,11 +943,11 @@ Especially](https://zh.wikipedia.org/wiki/Hello_Especially "wikilink")」
   - 八軒勇吾：[中島健人](../Page/中島健人.md "wikilink")<small>（香港配音：[巫哲棋](../Page/巫哲棋.md "wikilink")）</small>
   - 御影亞紀：[廣瀨愛麗絲](../Page/廣瀨愛麗絲.md "wikilink")<small>（香港配音：[黃昕瑜](../Page/黃昕瑜.md "wikilink")）</small>
   - 駒場一郎：<small>（香港配音：[李致林](../Page/李致林.md "wikilink")）</small>
-  - 南九条菖蒲：[黑木華](https://zh.wikipedia.org/wiki/黑木華 "wikilink")<small>（香港配音：[詹健兒](../Page/詹健兒.md "wikilink")）</small>
+  - 南九条菖蒲：[黑木華](../Page/黑木華.md "wikilink")<small>（香港配音：[詹健兒](../Page/詹健兒.md "wikilink")）</small>
   - 中島老師：[中村獅童](../Page/中村獅童_\(二代目\).md "wikilink")<small>（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）</small>
   - 常盤惠次：[矢本悠馬](../Page/矢本悠馬.md "wikilink")<small>（香港配音：[陳成港](../Page/陳成港.md "wikilink")）</small>
-  - 稻田多摩子：安田加奈<small>（香港配音：[李潤知](https://zh.wikipedia.org/wiki/李潤知 "wikilink")）</small>
-  - 吉野真由：<small>（香港配音：[廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink")）</small>
+  - 稻田多摩子：安田加奈<small>（香港配音：[李潤知](../Page/李潤知.md "wikilink")）</small>
+  - 吉野真由：<small>（香港配音：[廖杏茵](../Page/廖杏茵.md "wikilink")）</small>
   - 別府太郎：河野將也<small>（香港配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）</small>
   - 稲田真一郎：遠山悠介<small>（香港配音：）</small>
   - 大川進英：花戶祐介<small>（香港配音：）</small>

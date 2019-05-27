@@ -107,7 +107,7 @@ vz.
   - [AKM突擊步槍](../Page/AKM突擊步槍.md "wikilink")
   - [M4卡賓槍](../Page/M4卡賓槍.md "wikilink")
   - [SIG SG 540突擊步槍](../Page/SIG_SG_540突擊步槍.md "wikilink")
-  - [各國軍隊制式步槍列表](https://zh.wikipedia.org/wiki/各國軍隊制式步槍列表 "wikilink")
+  - [各國軍隊制式步槍列表](../Page/各國軍隊制式步槍列表.md "wikilink")
 
 ## 參考資料
 

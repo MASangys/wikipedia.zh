@@ -67,7 +67,7 @@ now觀星台星期一至五20:00至22:00為首播時段，分別在20:00及21:30
   -
     播放時間：2015年4月6日至9月14日《102觀星總部》時段內逢星期一20:15
 
-    主持：、[鄭文](../Page/鄭文.md "wikilink")、、[黃奕晨](https://zh.wikipedia.org/wiki/黃奕晨 "wikilink")
+    主持：、[鄭文](../Page/鄭文.md "wikilink")、、[黃奕晨](../Page/黃奕晨.md "wikilink")
 
   - 星期二
 
@@ -79,7 +79,7 @@ now觀星台星期一至五20:00至22:00為首播時段，分別在20:00及21:30
 
   -
     播放時間：《102觀星總部》時段內逢星期二20:00至20:30
-    主持：[鄒攝](https://zh.wikipedia.org/wiki/鄒攝 "wikilink")、[鄧洢玲](https://zh.wikipedia.org/wiki/鄧洢玲 "wikilink")、[蔡誌恩](https://zh.wikipedia.org/wiki/蔡誌恩 "wikilink")、[林志超](https://zh.wikipedia.org/wiki/林志超 "wikilink")
+    主持：[鄒攝](https://zh.wikipedia.org/wiki/鄒攝 "wikilink")、[鄧洢玲](../Page/鄧洢玲.md "wikilink")、[蔡誌恩](https://zh.wikipedia.org/wiki/蔡誌恩 "wikilink")、[林志超](https://zh.wikipedia.org/wiki/林志超 "wikilink")
     節目內容：報道當日主要新聞
 
 <!-- end list -->
@@ -396,7 +396,7 @@ now觀星台星期一至五20:00至22:00為首播時段，分別在20:00及21:30
 
   -
     播放時間：2014年5月13日至6月24日逢星期二21:30至22:00，2015年8月7日至9月17日逢星期五21:30至22:00
-    主持：[劉振宇](https://zh.wikipedia.org/wiki/劉振宇 "wikilink")、[岑樂怡](https://zh.wikipedia.org/wiki/岑樂怡 "wikilink")
+    主持：[劉振宇](https://zh.wikipedia.org/wiki/劉振宇 "wikilink")、[岑樂怡](../Page/岑樂怡.md "wikilink")
     節目內容：韓風正吹襲香港，now
     TV觀星台特別製作了《康泰旅行社呈獻：首爾追星記》，由兩位主持阿水（劉振宇）和阿­妹（岑樂怡）會為大家披露首爾最有機會與韓星偶遇的地點，令一眾追星族可以更快鎖定目­標，見到自己的偶像。
 
@@ -531,8 +531,8 @@ now觀星台星期一至五20:00至22:00為首播時段，分別在20:00及21:30
 
   -
     播放時間：2014年1月7日至2月18日，逢星期二21:30至22:00
-    主持：、[岑樂怡](https://zh.wikipedia.org/wiki/岑樂怡 "wikilink")
-    節目內容：([Brian](https://zh.wikipedia.org/wiki/陳安立 "wikilink"))和[岑樂怡](https://zh.wikipedia.org/wiki/岑樂怡 "wikilink")([阿妹](https://zh.wikipedia.org/wiki/岑樂怡 "wikilink"))將會與大家一同見證香港郵輪史的新一頁！於啟德­郵輪碼頭登上全亞洲最大之郵輪
+    主持：、[岑樂怡](../Page/岑樂怡.md "wikilink")
+    節目內容：([Brian](https://zh.wikipedia.org/wiki/陳安立 "wikilink"))和[岑樂怡](../Page/岑樂怡.md "wikilink")([阿妹](../Page/岑樂怡.md "wikilink"))將會與大家一同見證香港郵輪史的新一頁！於啟德­郵輪碼頭登上全亞洲最大之郵輪
     ﹣海洋水手號，與來自世界各地之乘客一同體驗郵輪上非同凡響的設施和活動。然而世上並­沒有免費午餐，他們在船上除了負責吃喝玩樂之外，原來另有任務，為了解開「郵輪究竟是­如何運作」之迷，他們要進行一系列競賽，輸了的一方要化身船員，在船上打工。今集，究­竟誰會「先拔頭籌」，率先感受一下在郵輪打工的滋味？
 
 <!-- end list -->
@@ -635,7 +635,7 @@ now觀星台星期一至五20:00至22:00為首播時段，分別在20:00及21:30
 
   -
     播放時間：2014年12月12日至2015年4月3日，逢星期五21:30至22:00
-    主持：[區永權](../Page/區永權.md "wikilink")、[黃心美](../Page/黃心美.md "wikilink")、[林志超](https://zh.wikipedia.org/wiki/林志超 "wikilink")、[鄧洢玲](https://zh.wikipedia.org/wiki/鄧洢玲 "wikilink")
+    主持：[區永權](../Page/區永權.md "wikilink")、[黃心美](../Page/黃心美.md "wikilink")、[林志超](https://zh.wikipedia.org/wiki/林志超 "wikilink")、[鄧洢玲](../Page/鄧洢玲.md "wikilink")
     節目內容：全新一輯Petgazine
     II，將會繼續發放多角度寵物資訊，誠意打造這本包羅萬有的寵物雜誌！香港有許多人飼養寵物，不過，飼養寵物需要注意的事項，卻未必知得清楚。在節目裡面，將會提供一系列實用的寵物情報，包括︰訓練小貼士、寵物好去處、感動小故事，還有與寵物相關的法例資訊！
     不管是飼養寵物多年、新手寵主，或者完全沒有飼養寵物的你，都可以透過這個節目，找到與寵物相關的有趣資訊！
@@ -648,7 +648,7 @@ now觀星台星期一至五20:00至22:00為首播時段，分別在20:00及21:30
 
   -
     播放時間：2015年4月10日至7月31日，逢星期五21:30至22:00
-    主持：[倪晨曦](../Page/倪晨曦.md "wikilink")、[趙勁皓](../Page/趙勁皓.md "wikilink")、[岑樂怡](https://zh.wikipedia.org/wiki/岑樂怡 "wikilink")、[黃奕晨](https://zh.wikipedia.org/wiki/黃奕晨 "wikilink")
+    主持：[倪晨曦](../Page/倪晨曦.md "wikilink")、[趙勁皓](../Page/趙勁皓.md "wikilink")、[岑樂怡](../Page/岑樂怡.md "wikilink")、[黃奕晨](../Page/黃奕晨.md "wikilink")
     節目內容：香港人愈來愈注重健康，運動文化亦逐漸注入港人的日常生活之中，其中健身、瑜伽大行其道。場地而不再局限於健身室進行，如在街頭利用公共設施健身在大草地聽著DJ打碟做Yoga。瑜伽的形式也趨多元化、像近期大熱的Plank平板式運動、高溫瑜伽、街頭健身(Street
     workout)等，節目將為觀衆搜羅香港最新、最潮的運動資訊，以「年輕」、「健康」為主要概念，以運動打造健康生活態度。
     節目中一眾主持都為專業的健身及瑜伽教練，他們除了會教授/拆解這些健身/瑜伽運動的技巧/場所之外，亦會和城中藝人分享他們的Keep
@@ -662,7 +662,7 @@ now觀星台星期一至五20:00至22:00為首播時段，分別在20:00及21:30
 
   -
     播放時間：2015年6月29日至8月3日逢星期一21:30至22:00
-    主持：、[楊柳青](https://zh.wikipedia.org/wiki/楊柳青_\(藝人\) "wikilink")
+    主持：、[楊柳青](../Page/楊柳青_\(藝人\).md "wikilink")
     節目內容：now TV伙拍先施及理工大學紡織及製衣學系合作，製作「Fashion Seoul
     大激戰2」節目，透過透過真人Show培養新一代的時裝買手及營銷高手，藉此向觀眾介紹時裝買手、時裝營銷背後種種的營運知識及職場生態。理工大學時裝營銷系/設計系的學生將會組隊參賽，他們先要透過撰寫一份可行、有創意的計劃書，最好表現的2隊出線最終決賽，可以獲得先施注資5萬元，並且免費到韓國選購時裝。2015年6月初，2組學生會和藝人Stephy鄧麗欣一同到首爾展開5日的掃貨之旅、於東大門、仁川富平地下街等韓國時裝熱點瘋狂掃貨。除之以外還會與韓國女子組合Two
     X、韓國梨花女子大學時裝設計系師生、韓國時裝攝影師、韓國時裝雜誌編輯交流，了解韓國人的時裝之道。從韓國入貨回港後，2組學生將在2015年7月8日-7月28日在先施銅鑼灣店開設為期3星期的Pop
@@ -713,7 +713,7 @@ now觀星台星期一至五20:00至22:00為首播時段，分別在20:00及21:30
 <td><p>主持、作家、<a href="../Page/香港電台.md" title="wikilink">香港電台電視部</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><del>黃俊銘</del> → <a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a>（Dixon）</p></td>
+<td><p><del>黃俊銘</del> → <a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>（Dixon）</p></td>
 <td><p>《102觀星總部》（星期一）</p></td>
 <td><p><sup>#</sup></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
@@ -746,13 +746,13 @@ now觀星台星期一至五20:00至22:00為首播時段，分別在20:00及21:30
 <td><p><a href="https://zh.wikipedia.org/wiki/林志超" title="wikilink">林志超</a>（Andy）</p></td>
 <td><p>《102觀星總部》（星期二、五、《E+Focus》）</p></td>
 <td><p><sup>#</sup></p></td>
-<td><p>自由職業、<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a>《<a href="https://zh.wikipedia.org/wiki/Think_Big_天地" title="wikilink">Think Big 天地</a>》「齊齊起動」環節，曾報名參加<a href="https://zh.wikipedia.org/wiki/2016年度香港先生選舉" title="wikilink">2016年度香港先生選舉</a></p></td>
+<td><p>自由職業、<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a>《<a href="https://zh.wikipedia.org/wiki/Think_Big_天地" title="wikilink">Think Big 天地</a>》「齊齊起動」環節，曾報名參加<a href="../Page/2016年度香港先生選舉.md" title="wikilink">2016年度香港先生選舉</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/梁思浩.md" title="wikilink">梁思浩</a></p></td>
 <td><p>《102觀星總部》（星期四《娛樂審死官》）</p></td>
 <td></td>
-<td><p>繼續主持DBC《<a href="../Page/大家真風騷.md" title="wikilink">大家真風騷</a>》，現轉投<a href="https://zh.wikipedia.org/wiki/亞洲電視數碼媒體" title="wikilink">亞洲電視數碼媒體</a></p></td>
+<td><p>繼續主持DBC《<a href="../Page/大家真風騷.md" title="wikilink">大家真風騷</a>》，現轉投<a href="../Page/亞洲電視數碼媒體.md" title="wikilink">亞洲電視數碼媒體</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>（Hailey）</p></td>
@@ -767,7 +767,7 @@ now觀星台星期一至五20:00至22:00為首播時段，分別在20:00及21:30
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a>（Elaine／阿旦）</p></td>
+<td><p><a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a>（Elaine／阿旦）</p></td>
 <td><p>《102觀星總部》（星期二）</p></td>
 <td><p><sup>#</sup></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
@@ -788,7 +788,7 @@ now觀星台星期一至五20:00至22:00為首播時段，分別在20:00及21:30
 <td><p><a href="https://zh.wikipedia.org/wiki/鄒攝" title="wikilink">鄒攝</a></p></td>
 <td><p>《102觀星總部》（《娛樂審死官》、《娛樂大公投》）</p></td>
 <td><p><sup>#</sup></p></td>
-<td><p>繼續主持<a href="https://zh.wikipedia.org/wiki/DBC" title="wikilink">DBC</a>《<a href="../Page/大家真風騷.md" title="wikilink">大家真風騷</a>》，現轉投<a href="https://zh.wikipedia.org/wiki/亞洲電視數碼媒體" title="wikilink">亞洲電視數碼媒體</a></p></td>
+<td><p>繼續主持<a href="https://zh.wikipedia.org/wiki/DBC" title="wikilink">DBC</a>《<a href="../Page/大家真風騷.md" title="wikilink">大家真風騷</a>》，現轉投<a href="../Page/亞洲電視數碼媒體.md" title="wikilink">亞洲電視數碼媒體</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/蕭敏惠" title="wikilink">蕭敏惠</a>（Lydia）</p></td>
@@ -803,7 +803,7 @@ now觀星台星期一至五20:00至22:00為首播時段，分別在20:00及21:30
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a>（Bonde／阿妹）</p></td>
+<td><p><a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>（Bonde／阿妹）</p></td>
 <td><p>《102觀星總部》娛樂記者</p></td>
 <td></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>

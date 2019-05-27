@@ -11,7 +11,7 @@
 
   - [魔法人力派遣公司](../Page/魔法人力派遣公司.md "wikilink")（著：[三田誠](https://zh.wikipedia.org/wiki/三田誠 "wikilink")／[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")）
 
-  - [超自然9人组](https://zh.wikipedia.org/wiki/超自然9人组 "wikilink")（著：[志仓千代丸](https://zh.wikipedia.org/wiki/志仓千代丸 "wikilink")／[OVERLAP文库](https://zh.wikipedia.org/wiki/OVERLAP文库 "wikilink")）
+  - [超自然9人组](../Page/超自然9人组.md "wikilink")（著：[志仓千代丸](https://zh.wikipedia.org/wiki/志仓千代丸 "wikilink")／[OVERLAP文库](https://zh.wikipedia.org/wiki/OVERLAP文库 "wikilink")）
 
 ### 小說插畫(宮沢波宏名義)
 

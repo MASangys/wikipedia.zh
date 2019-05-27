@@ -6,7 +6,7 @@
 
 被用作[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[ONE
 PIECE](../Page/ONE_PIECE.md "wikilink")》的劇場版《[ONE PIECE FILM
-強者天下](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_STRONG_WORLD "wikilink")》作為[主題曲](../Page/主題曲.md "wikilink")，是Mr.Children第二次演繹動畫主題曲。第一次是1993年《[彩虹的彼方](../Page/Kind_of_Love.md "wikilink")》被用作《[湘南爆走族](https://zh.wikipedia.org/wiki/湘南爆走族 "wikilink")》[OVA的主題曲](https://zh.wikipedia.org/wiki/OVA "wikilink")。《ONE
+強者天下](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_STRONG_WORLD "wikilink")》作為[主題曲](../Page/主題曲.md "wikilink")，是Mr.Children第二次演繹動畫主題曲。第一次是1993年《[彩虹的彼方](../Page/Kind_of_Love.md "wikilink")》被用作《[湘南爆走族](../Page/湘南爆走族.md "wikilink")》[OVA的主題曲](https://zh.wikipedia.org/wiki/OVA "wikilink")。《ONE
 PIECE》的[漫畫作者](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[尾田榮一郎得知這個消息之後非常興奮](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")，親自給Mr.Children發短信致謝。\[1\]
 
 歌曲成為當年12月2日—12月8日的一週付費下載冠軍歌曲。\[2\]

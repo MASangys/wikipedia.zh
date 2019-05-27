@@ -355,8 +355,8 @@ Spectrum的遊戲](https://zh.wikipedia.org/wiki/Sinclair_ZX_Spectrum "wikilink"
     — 原先將會是戰鎚40000的第一款MMORPG遊戲，但因預算不足而取消製作。
   - **[戰鎚40000：永恆遠征Online](https://zh.wikipedia.org/wiki/戰鎚40000：永恆遠征Online "wikilink")**
     — 一款開發中的戰鎚40000的MMOTPS遊戲，將在2016上市。
-  - **[全面战争：战锤](https://zh.wikipedia.org/wiki/全面战争：战锤 "wikilink")**（*Total
-    War: Warhammer*） — 一款采用战锤背景设定的全面战争系列游戏。
+  - **[全面战争：战锤](../Page/全面战争：战锤.md "wikilink")**（*Total War: Warhammer*）
+    — 一款采用战锤背景设定的全面战争系列游戏。
 
 ## 活動
 

@@ -113,7 +113,7 @@
 </tr>
 <tr class="odd">
 <td><p>5月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Hate_tell_a_lie" title="wikilink">Hate tell a lie</a></p></td>
+<td><p><a href="../Page/Hate_tell_a_lie.md" title="wikilink">Hate tell a lie</a></p></td>
 <td><p><a href="../Page/華原朋美.md" title="wikilink">華原朋美</a></p></td>
 <td><p>32.1</p></td>
 </tr>
@@ -173,7 +173,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LOVE_IS_ALL_MUSIC" title="wikilink">LOVE IS ALL MUSIC</a></p></td>
+<td><p><a href="../Page/LOVE_IS_ALL_MUSIC.md" title="wikilink">LOVE IS ALL MUSIC</a></p></td>
 <td><p><a href="../Page/華原朋美.md" title="wikilink">華原朋美</a></p></td>
 <td><p>23.4</p></td>
 </tr>

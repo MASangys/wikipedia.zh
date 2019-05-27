@@ -89,7 +89,7 @@ match.\[31\]，但是皇家大戰還沒開打，Umaga就先偷襲了希南，導
 Man Standing比賽，最後仍舊是希南獲勝，他在使出STFU的同時用繩圈勒了Umaga的脖子\[33\]。
 
 [Umaga_Vince_Shane.jpg](https://zh.wikipedia.org/wiki/File:Umaga_Vince_Shane.jpg "fig:Umaga_Vince_Shane.jpg")
-雖然Umaga挑戰WWE冠軍腰帶失敗，但是緊接著他又捲入名為*億萬富翁戰爭*的劇情裡，開始肇因於美國知名商人[川普宣稱他能夠在任何情況下](https://zh.wikipedia.org/wiki/川普 "wikilink")
+雖然Umaga挑戰WWE冠軍腰帶失敗，但是緊接著他又捲入名為*億萬富翁戰爭*的劇情裡，開始肇因於美國知名商人[川普宣稱他能夠在任何情況下](../Page/川普.md "wikilink")
 "超越"
 WWE的擁有者文斯·麥馬漢。文斯-{心有不干}-並要和川普來場一對一的決鬥，但是這兩個人最終同意各自找一位摔角選手為代打，在第23屆摔角狂熱上進行一場*頭髮對頭髮*的比賽，敗者必須將自己的頭髮剃成光頭。而文斯挑選了Umaga做為打手代表。為了激勵Umaga，文斯特別授予了Umaga挑戰洲際盃冠軍腰帶的權力，讓Umaga打敗當時的冠軍傑夫·哈迪，拿下了他的第一個冠軍頭銜\[34\]。另一方面，在*億萬富翁戰爭*中，川普挑選了[Bobby
 Lashley做為打手](https://zh.wikipedia.org/wiki/Bobby_Lashley "wikilink")\[35\]，但是在摔角狂熱上Umaga敗給了Bobby

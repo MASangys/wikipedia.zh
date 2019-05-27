@@ -11,7 +11,7 @@ teamS的第3场剧场公演。
 1.  《无法化作诉说恋情的诗人…》（）
     （作词：[秋元康](../Page/秋元康.md "wikilink")　作曲：[俊龍](../Page/俊龍.md "wikilink")　编曲：Sizuk）
 2.  《合格之吻》（）
-    （作词：秋元康　作曲、编曲：[後藤次利](https://zh.wikipedia.org/wiki/後藤次利 "wikilink")）
+    （作词：秋元康　作曲、编曲：[後藤次利](../Page/後藤次利.md "wikilink")）
 3.  《天线》（）
     （作词：秋元康　作曲：藤本貴則　编曲：、稲留春雄）
 4.  《制服之芽》（）
@@ -77,7 +77,7 @@ teamS的第3场剧场公演。
 
   - 公演时间：2014年1月5日至
   - 演出成员
-      - [青木詩織](https://zh.wikipedia.org/wiki/青木詩織 "wikilink")、[井田玲音名](https://zh.wikipedia.org/wiki/井田玲音名 "wikilink")、[犬塚朝奈](https://zh.wikipedia.org/wiki/犬塚朝奈 "wikilink")（）、[大脇有紗](https://zh.wikipedia.org/wiki/大脇有紗 "wikilink")、[荻野利沙](https://zh.wikipedia.org/wiki/荻野利沙 "wikilink")、[折户愛彩](https://zh.wikipedia.org/wiki/折户愛彩 "wikilink")、[鎌田菜月](https://zh.wikipedia.org/wiki/鎌田菜月 "wikilink")、[北川綾巴](../Page/北川綾巴.md "wikilink")、[北野瑠華](https://zh.wikipedia.org/wiki/北野瑠華 "wikilink")、[熊崎晴香](https://zh.wikipedia.org/wiki/熊崎晴香 "wikilink")、[後藤真由子](https://zh.wikipedia.org/wiki/後藤真由子 "wikilink")、[佐佐木柚香](https://zh.wikipedia.org/wiki/佐佐木柚香 "wikilink")、[空美夕日](https://zh.wikipedia.org/wiki/空美夕日 "wikilink")、[竹内彩姫](https://zh.wikipedia.org/wiki/竹内彩姫 "wikilink")、[野口由芽](https://zh.wikipedia.org/wiki/野口由芽 "wikilink")、[日高優月](https://zh.wikipedia.org/wiki/日高優月 "wikilink")、[松村香織](../Page/松村香織.md "wikilink")、[山田樹奈](https://zh.wikipedia.org/wiki/山田樹奈 "wikilink")、[山本由香](https://zh.wikipedia.org/wiki/山本由香 "wikilink")
+      - [青木詩織](https://zh.wikipedia.org/wiki/青木詩織 "wikilink")、[井田玲音名](https://zh.wikipedia.org/wiki/井田玲音名 "wikilink")、[犬塚朝奈](https://zh.wikipedia.org/wiki/犬塚朝奈 "wikilink")（）、[大脇有紗](https://zh.wikipedia.org/wiki/大脇有紗 "wikilink")、[荻野利沙](https://zh.wikipedia.org/wiki/荻野利沙 "wikilink")、[折户愛彩](https://zh.wikipedia.org/wiki/折户愛彩 "wikilink")、[鎌田菜月](../Page/鎌田菜月.md "wikilink")、[北川綾巴](../Page/北川綾巴.md "wikilink")、[北野瑠華](https://zh.wikipedia.org/wiki/北野瑠華 "wikilink")、[熊崎晴香](https://zh.wikipedia.org/wiki/熊崎晴香 "wikilink")、[後藤真由子](https://zh.wikipedia.org/wiki/後藤真由子 "wikilink")、[佐佐木柚香](https://zh.wikipedia.org/wiki/佐佐木柚香 "wikilink")、[空美夕日](https://zh.wikipedia.org/wiki/空美夕日 "wikilink")、[竹内彩姫](https://zh.wikipedia.org/wiki/竹内彩姫 "wikilink")、[野口由芽](https://zh.wikipedia.org/wiki/野口由芽 "wikilink")、[日高優月](https://zh.wikipedia.org/wiki/日高優月 "wikilink")、[松村香織](../Page/松村香織.md "wikilink")、[山田樹奈](https://zh.wikipedia.org/wiki/山田樹奈 "wikilink")、[山本由香](https://zh.wikipedia.org/wiki/山本由香 "wikilink")
   - 成員變動
       - 減少：山本由香（于2014年3月6日辞退）
   - 2014年4月的一部分公演由正規成员支援出演。

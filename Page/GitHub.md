@@ -43,7 +43,7 @@ GitHub通常用于软件开发。GitHub还支持以下格式和功能：
   - [任务列表](../Page/时间管理.md "wikilink")
   - [甘特图](https://zh.wikipedia.org/wiki/甘特图 "wikilink")
   - 可视化的地理位置分析
-  - 预览3D渲染文件。\[12\]预览功能通过[WebGL和](../Page/WebGL.md "wikilink")[Three.js实现](https://zh.wikipedia.org/wiki/Three.js "wikilink")。
+  - 预览3D渲染文件。\[12\]预览功能通过[WebGL和](../Page/WebGL.md "wikilink")[Three.js实现](../Page/Three.js.md "wikilink")。
   - 预览[Adobe
     Photoshop的PSD文件](../Page/Adobe_Photoshop.md "wikilink")，甚至可以比较同一文件的不同版本。
 
@@ -140,7 +140,7 @@ CI和](../Page/Travis_CI.md "wikilink")[虚幻引擎等共同合作](../Page/虚
 
   - \[34\]
 
-  - [Kodi](https://zh.wikipedia.org/wiki/Kodi "wikilink")
+  - [Kodi](../Page/Kodi.md "wikilink")
 
   - [雅虎UI库](../Page/雅虎UI库.md "wikilink")
 

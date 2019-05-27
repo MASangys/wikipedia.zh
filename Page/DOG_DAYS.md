@@ -703,7 +703,7 @@ mix](https://zh.wikipedia.org/wiki/C.G_mix "wikilink")，歌：米希奧蕾·F·
 <td><p>EPISODE 3</p></td>
 <td></td>
 <td><p>想回去！回不去？勇者在弗洛尼爾德！</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/植田秀仁" title="wikilink">植田秀仁</a></p></td>
+<td><p><a href="../Page/植田秀仁.md" title="wikilink">植田秀仁</a></p></td>
 <td><p>岡辰也</p></td>
 <td><p>山本善哉</p></td>
 <td><p>烏宏明</p></td>

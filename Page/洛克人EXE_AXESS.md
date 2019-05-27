@@ -147,7 +147,7 @@ AXESS**》（）是[洛克人EXE系列的第二部電視動畫](../Page/洛克�
 <td><p>鏡中的友情</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/関島眞頼" title="wikilink">関島眞頼</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/後信治" title="wikilink">後信治</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">林有紀</a></p></td>
+<td><p><a href="../Page/小坂春女.md" title="wikilink">林有紀</a></p></td>
 <td><p>本橋秀之</p></td>
 <td><p>11月22日</p></td>
 </tr>

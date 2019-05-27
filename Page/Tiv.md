@@ -72,8 +72,7 @@
   - [情色漫畫老師](https://zh.wikipedia.org/wiki/情色漫畫老師 "wikilink") －
     負責動畫劇中繪師『情色漫畫老師』所繪之插圖
 
-  - [寄宿學校的茱麗葉](https://zh.wikipedia.org/wiki/寄宿學校的茱麗葉 "wikilink") －
-    動畫第7話·片尾插畫
+  - [寄宿學校的茱麗葉](../Page/寄宿學校的茱麗葉.md "wikilink") － 動畫第7話·片尾插畫
 
 ### 遊戲
 
@@ -87,7 +86,7 @@
 
 ### 動畫
 
-  - [側車搭檔](https://zh.wikipedia.org/wiki/側車搭檔 "wikilink")-人物原案
+  - [側車搭檔](../Page/側車搭檔.md "wikilink")-人物原案
 
 ## 畫冊
 

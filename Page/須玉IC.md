@@ -1,4 +1,4 @@
-**須玉IC**（平假名：すたまインターチェンジ）是位於[山梨縣](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")[北杜市的](../Page/北杜市.md "wikilink")[中央自動車道](https://zh.wikipedia.org/wiki/中央自動車道 "wikilink")（[中部橫斷自動車道](https://zh.wikipedia.org/wiki/中部橫斷自動車道 "wikilink")）之[交流道](../Page/交流道.md "wikilink")。
+**須玉IC**（平假名：すたまインターチェンジ）是位於[山梨縣](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")[北杜市的](../Page/北杜市.md "wikilink")[中央自動車道](https://zh.wikipedia.org/wiki/中央自動車道 "wikilink")（[中部橫斷自動車道](../Page/中部橫斷自動車道.md "wikilink")）之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -27,7 +27,7 @@
     (16)[韮崎IC](https://zh.wikipedia.org/wiki/韮崎IC "wikilink") -
     (17)**須玉IC** -
     (17-1)[長坂IC](https://zh.wikipedia.org/wiki/長坂IC_\(山梨縣\) "wikilink")
-  - [中部橫斷自動車道](https://zh.wikipedia.org/wiki/中部橫斷自動車道 "wikilink")（長坂JCT至雙葉JCT是與中央自動車道重複區間）
+  - [中部橫斷自動車道](../Page/中部橫斷自動車道.md "wikilink")（長坂JCT至雙葉JCT是與中央自動車道重複區間）
     (16)韮崎IC - (17)**須玉IC** - (17-1)長坂IC
 
 ## 相關條目

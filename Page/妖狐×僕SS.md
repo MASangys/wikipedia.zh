@@ -483,7 +483,7 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
 <td></td>
 <td><p>茶與距離</p></td>
 <td><p>吉田泰三</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吉田隆彥" title="wikilink">吉田隆彥</a></p></td>
+<td><p><a href="../Page/吉田隆彥.md" title="wikilink">吉田隆彥</a></p></td>
 <td><p>清丸悟、岡崎洋美<br />
 宮下雄次、小林亮<br />
 蘇武裕子</p></td>

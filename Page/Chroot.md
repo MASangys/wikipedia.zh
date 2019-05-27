@@ -12,7 +12,7 @@ Joy）將chroot機制移植到[BSD系統上](../Page/BSD.md "wikilink")，主要
 Cheswick）開發出第一個[蜜罐程式](https://zh.wikipedia.org/wiki/蜜罐_\(電腦科學\) "wikilink")，來監視入侵[駭客的行動](https://zh.wikipedia.org/wiki/駭客 "wikilink")。他使用了chroot來進行實作，這是chroot最早被用於開發程式的先例，也因此，chroot創造出的根目錄空間，之後被人稱為軟體監獄（chroot
 jail）。
 
-2000年，FreeBSD團隊，將原本chroot機制，導入[虛擬化技術的概念](../Page/虛擬化.md "wikilink")，開發了新的[jail系統命令](https://zh.wikipedia.org/wiki/FreeBSD_jail "wikilink")，伴隨著FreeBSD
+2000年，FreeBSD團隊，將原本chroot機制，導入[虛擬化技術的概念](../Page/虛擬化.md "wikilink")，開發了新的[jail系統命令](../Page/FreeBSD_jail.md "wikilink")，伴隨著FreeBSD
 4.0版一同發布。
 
 2004年，因為駭客開發出許多可以破解chroot機制的方法，出現了[jailbreak這個術語](https://zh.wikipedia.org/wiki/jailbreak "wikilink")。
@@ -42,7 +42,7 @@ on steroids）。
 ## 限制
 
 chroot机制的設計中，並不包括抵抗特权用戶（root）的蓄意篡改。在大多数的系统中，chroot環境沒有設計出適當的堆疊，所以一個在chroot下執行的程式，可能會透過[第二次chroot](https://web.archive.org/web/20160127150916/http://www.bpfh.net/simes/computing/chroot-break.html)來獲得足夠權限，逃出chroot的限制。为了减轻这种安全漏洞所带来的风险，在使用chroot后，在chroot下執行的程序，應該盡快放棄root权限，或是改用其他机制來替代，例如[FreeBSD
-jail](https://zh.wikipedia.org/wiki/FreeBSD_jail "wikilink")。在某些作業系統中，例如FreeBSD，已經采取预防措施，來防止第二次chroot的攻擊\[1\]。
+jail](../Page/FreeBSD_jail.md "wikilink")。在某些作業系統中，例如FreeBSD，已經采取预防措施，來防止第二次chroot的攻擊\[1\]。
 
   - 在支持设备节点的文件系统中，一个在chroot中的root用户仍然可以创建设备节点和挂载在chroot根目录的文件系统；尽管，chroot机制不是被打算用来阻止低特权用户级访问系统设备。
   - 在启动时，程序都期望能在某些预设位置找到[scratch
@@ -53,7 +53,7 @@ jail](https://zh.wikipedia.org/wiki/FreeBSD_jail "wikilink")。在某些作業�
 
   - 在chroot的机制本身也不是为限制资源的使用而设计，如[I/O](https://zh.wikipedia.org/wiki/输入/输出 "wikilink")，带宽，磁盘空间或CPU时间。大多数Unix系统都没有以完全文件系统为导向，以即给可能通过网络和过程控制，通过系统调用接口来提供一个破坏chroot的程序。
 
-一些Unix系统提供扩展的chroot机制，一般称为[作業系統層虛擬化](https://zh.wikipedia.org/wiki/作業系統層虛擬化 "wikilink")—至少解决其中的一些限制。包括:
+一些Unix系统提供扩展的chroot机制，一般称为[作業系統層虛擬化](../Page/作業系統層虛擬化.md "wikilink")—至少解决其中的一些限制。包括:
 
   - [AIX中的](https://zh.wikipedia.org/wiki/IBM_AIX_\(operating_system\) "wikilink")[Workload
     Partitions](https://zh.wikipedia.org/wiki/Workload_Partitions "wikilink")
@@ -61,7 +61,7 @@ jail](https://zh.wikipedia.org/wiki/FreeBSD_jail "wikilink")。在某些作業�
   - [Linux下的](../Page/Linux.md "wikilink")[Linux-VServer](https://zh.wikipedia.org/wiki/Linux-VServer "wikilink"),
     [FreeVPS和](https://zh.wikipedia.org/wiki/FreeVPS "wikilink")[OpenVZ](../Page/OpenVZ.md "wikilink")
   - [FreeBSD](../Page/FreeBSD.md "wikilink")
-    中的[Jails](https://zh.wikipedia.org/wiki/FreeBSD_jail "wikilink")
+    中的[Jails](../Page/FreeBSD_jail.md "wikilink")
   - [NetBSD和](../Page/NetBSD.md "wikilink")[OpenBSD中的](../Page/OpenBSD.md "wikilink")[Sysjails](https://zh.wikipedia.org/wiki/sysjail "wikilink")
   - [DragonFly BSD中的](../Page/DragonFly_BSD.md "wikilink")[DragonFly BSD
     jails](https://zh.wikipedia.org/wiki/DragonFly_BSD_jails "wikilink")

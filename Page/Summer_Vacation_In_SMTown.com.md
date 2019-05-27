@@ -11,8 +11,7 @@ Beat和女子樂團[神飛樂團首次參與錄製](https://zh.wikipedia.org/wik
 5.  HERO - [神話](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink")
 6.  Forever - [Fly to the Sky](../Page/Fly_to_the_Sky.md "wikilink")
 7.  My Boy - [BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")
-8.  With 4 U (미안해... 고마워) -
-    [Dana](https://zh.wikipedia.org/wiki/喜悅Dana "wikilink")
+8.  With 4 U (미안해... 고마워) - [Dana](../Page/喜悅Dana.md "wikilink")
 9.  Make It High - Black Beat
 10. One Summer Dream -
     [M.I.L.K](https://zh.wikipedia.org/wiki/M.I.L.K "wikilink")

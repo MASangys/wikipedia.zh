@@ -54,7 +54,7 @@ isolation）保證為基礎列儲存，無需額外的資料管理開銷，中�
 | [Sparksee](https://zh.wikipedia.org/wiki/Sparksee_\(graph_database\) "wikilink") | [Java](../Page/Java.md "wikilink") ， [C\#](../Page/C♯.md "wikilink") |
 | [Neo4j](https://zh.wikipedia.org/wiki/Neo4j "wikilink")                          | [Java](../Page/Java.md "wikilink")                                   |
 | [FlockDB](https://zh.wikipedia.org/wiki/FlockDB "wikilink")                      | [Scala](../Page/Scala.md "wikilink")                                 |
-| [JanusGraph](https://zh.wikipedia.org/wiki/JanusGraph "wikilink")                | Java                                                                 |
+| [JanusGraph](../Page/JanusGraph.md "wikilink")                                   | Java                                                                 |
 
 ### 鍵-值（key‐value）儲存
 
@@ -115,10 +115,10 @@ isolation）保證為基礎列儲存，無需額外的資料管理開銷，中�
 | 名稱                                                                                  | 語言                                                |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------- |
 | [Graphite](../Page/Graphite.md "wikilink")                                          | [Python](../Page/Python.md "wikilink")            |
-| [InfluxDB](https://zh.wikipedia.org/wiki/InfluxDB "wikilink")                       | [Go](../Page/Go.md "wikilink")                    |
+| [InfluxDB](../Page/InfluxDB.md "wikilink")                                          | [Go](../Page/Go.md "wikilink")                    |
 | [Informix TimeSeries](https://zh.wikipedia.org/wiki/Informix_TimeSeries "wikilink") | [Erlang](../Page/Erlang.md "wikilink")            |
 | [OpenTSDB](https://zh.wikipedia.org/wiki/OpenTSDB "wikilink")                       | [Java](../Page/Java.md "wikilink")                |
-| [RRDtool](https://zh.wikipedia.org/wiki/RRDtool "wikilink")                         | [C](https://zh.wikipedia.org/wiki/C语言 "wikilink") |
+| [RRDtool](../Page/RRDtool.md "wikilink")                                            | [C](https://zh.wikipedia.org/wiki/C语言 "wikilink") |
 
 ### 对象数据库
 

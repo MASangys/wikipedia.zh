@@ -9,7 +9,7 @@
 2010年至2011年發售的OVA動畫《[聲優初體驗！The
 ANIMATION](../Page/聲優初體驗！.md "wikilink")》是Studio五組的第一部統包製作。然後2014年播映的《[結城友奈是勇者](../Page/結城友奈是勇者.md "wikilink")》是Studio五組的第一部原創製作電視動畫。
 
-Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少女;zh-tw:天才麻將少女;zh-hk:咲-Saki-}-》系列的續篇製作。一方面與從Studio五組內部第2工作室獨立的[AXsiZ一起共用同一棟辦公大樓](https://zh.wikipedia.org/wiki/AXsiZ "wikilink")、一起統包製作動畫及擔當下游包商協助其它公司。
+Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少女;zh-tw:天才麻將少女;zh-hk:咲-Saki-}-》系列的續篇製作。一方面與從Studio五組內部第2工作室獨立的[AXsiZ一起共用同一棟辦公大樓](../Page/AXsiZ.md "wikilink")、一起統包製作動畫及擔當下游包商協助其它公司。
 
 ## 作品列表
 
@@ -54,7 +54,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 <td><p>7月－9月</p></td>
 <td><p><a href="../Page/其中1個是妹妹！.md" title="wikilink">-{zh-hant:其中1個是妹妹！;zh-hans:其中一个是妹妹;}-</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/名和宗則" title="wikilink">名和宗則</a></p></td>
+<td><p><a href="../Page/名和宗則.md" title="wikilink">名和宗則</a></p></td>
 <td><p>小說</p></td>
 <td></td>
 <td></td>
@@ -73,7 +73,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 <td><p>4月－6月</p></td>
 <td><p><a href="../Page/斷裁分離的罪惡之剪.md" title="wikilink">斷裁分離的罪惡之剪</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山口祐司_(動畫導演)" title="wikilink">山口祐司</a></p></td>
+<td><p><a href="../Page/山口祐司_(動畫導演).md" title="wikilink">山口祐司</a></p></td>
 <td><p>漫畫</p></td>
 <td><p>－</p></td>
 </tr>
@@ -156,20 +156,20 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 <td></td>
 <td><p>名和宗則</p></td>
 <td><p>漫畫</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AXsiZ" title="wikilink">AXsiZ</a></p></td>
+<td><p><a href="../Page/AXsiZ.md" title="wikilink">AXsiZ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/清戀" title="wikilink">清戀</a></p></td>
+<td><p><a href="../Page/清戀.md" title="wikilink">清戀</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小林智樹" title="wikilink">小林智樹</a></p></td>
+<td><p><a href="../Page/小林智樹.md" title="wikilink">小林智樹</a></p></td>
 <td><p>原創</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>7月－9月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/徒然喜歡你" title="wikilink">徒然喜歡你</a></p></td>
+<td><p><a href="../Page/徒然喜歡你.md" title="wikilink">徒然喜歡你</a></p></td>
 <td></td>
 <td></td>
 <td><p>漫畫</p></td>
@@ -188,7 +188,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 <tr class="odd">
 <td><p>2018年</p></td>
 <td><p>1月－6月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/刀使之巫女" title="wikilink">刀使之巫女</a></p></td>
+<td><p><a href="../Page/刀使之巫女.md" title="wikilink">刀使之巫女</a></p></td>
 <td></td>
 <td><p>柿本廣大</p></td>
 <td></td>
@@ -215,7 +215,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 <tr class="even">
 <td><p>2019年</p></td>
 <td><p>1月－3月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Endro～！" title="wikilink">Endro～！</a></p></td>
+<td><p><a href="../Page/Endro～！.md" title="wikilink">Endro～！</a></p></td>
 <td></td>
 <td></td>
 <td><p>原創</p></td>
@@ -255,7 +255,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 <td><p>2013年</p></td>
 <td><p><a href="../Page/其中1個是妹妹！.md" title="wikilink">OVA-{zh-hant:中1個是妹妹！;zh-hans:中一个是妹妹;}-</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/名和宗則" title="wikilink">名和宗則</a></p></td>
+<td><p><a href="../Page/名和宗則.md" title="wikilink">名和宗則</a></p></td>
 <td><p>小說</p></td>
 </tr>
 <tr class="even">
@@ -312,7 +312,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 <td><p>4月－6月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/我們没有翅膀" title="wikilink">我們没有翅膀</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Nomad_(公司)" title="wikilink">NOMAD</a></p></td>
+<td><p><a href="../Page/Nomad_(公司).md" title="wikilink">NOMAD</a></p></td>
 <td><p>遊戲</p></td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 
 ## 相關項目
 
-  - [AXsiZ](https://zh.wikipedia.org/wiki/AXsiZ "wikilink")
+  - [AXsiZ](../Page/AXsiZ.md "wikilink")
   - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
 ## 外部連結

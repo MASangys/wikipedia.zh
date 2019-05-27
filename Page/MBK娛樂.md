@@ -1,5 +1,5 @@
 **MBK娛樂**（；），前身是金光洙代表的**Core Contents
-Media**。旗下藝人包括[Shannon](https://zh.wikipedia.org/wiki/Shannon_\(韓國歌手\) "wikilink")、[DIA](https://zh.wikipedia.org/wiki/DIA "wikilink")，於2014年10月在
+Media**。旗下藝人包括[Shannon](../Page/Shannon_\(韓國歌手\).md "wikilink")、[DIA](https://zh.wikipedia.org/wiki/DIA "wikilink")，於2014年10月在
 MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公司出身的高健錫。MBK為「**M**usic **B**eyond
 **K**orea」的縮寫有超越韓國音樂的意思，表示公司未來將不僅是著力於韓國市場，而是朝全球化邁進。
 
@@ -46,7 +46,7 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
   - 2014年6月30日，T-ara成員[孝敏以Solo身分出道](https://zh.wikipedia.org/wiki/朴宣映 "wikilink")。
   - 2014年9月，被MBK Ent.收購合併。
   - 2014年10月1日，Core Contents Media正式改名為MBK Entertainment。\[1\]
-  - 2014年11月29日，[Shannon於其子公司](https://zh.wikipedia.org/wiki/Shannon_\(韓國歌手\) "wikilink")[Dap
+  - 2014年11月29日，[Shannon於其子公司](../Page/Shannon_\(韓國歌手\).md "wikilink")[Dap
     sound](http://kpopn.com/2014/11/28/251111/)，透過《Hidden Singer》正式出道。
 
 ### 2015
@@ -86,9 +86,9 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 
   - 2017年4月5日，MBK娛樂宣布[DIA加入兩名新成員主恩](https://zh.wikipedia.org/wiki/DIA "wikilink")、順伊。
   - 2017年5月15日，T-ara成員[寶藍](https://zh.wikipedia.org/wiki/寶藍 "wikilink")、[昭妍合約到期](https://zh.wikipedia.org/wiki/昭妍 "wikilink")，離開公司。
-  - 2017年下半年，MBK娛樂宣布[IM66正式出道](https://zh.wikipedia.org/wiki/IM66 "wikilink")。
+  - 2017年下半年，MBK娛樂宣布[IM66正式出道](../Page/IM66.md "wikilink")。
   - 2017年10月28日，與[KBS合作製作](../Page/韓國放送公社.md "wikilink")[The
-    Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")，及負責管理出道組的演藝活動。\[3\]
+    Unit](../Page/The_Unit.md "wikilink")，及負責管理出道組的演藝活動。\[3\]
   - 2017年12月31日，T-ara成員[居麗](https://zh.wikipedia.org/wiki/居麗 "wikilink")、[𤨒晶](https://zh.wikipedia.org/wiki/𤨒晶 "wikilink")、[孝敏](https://zh.wikipedia.org/wiki/孝敏 "wikilink")、[芝妍合約到期](https://zh.wikipedia.org/wiki/芝妍 "wikilink")，離開公司。
 
 ### 2018
@@ -99,12 +99,12 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 
 ### 組合
 
-| 出道日期       | 組合名稱                                                  | 性別 | 成員                                                                                                                                                                  | 隊長                              | 官方粉絲名 | 官方應援色 | 官方應援物 |
-| ---------- | ----------------------------------------------------- | -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ----- | ----- | ----- |
-| 2013年10月8日 | Nutaz                                                 | 男  | Naino（劉炳吉）、Venimun（孫京民）                                                                                                                                             | —                               | —     | －     | －     |
-| 2015年7月6日  | [High Brow](../Page/High_Brow.md "wikilink")          | 男  | 李周憲、金形桂                                                                                                                                                             | 李周憲                             |       |       |       |
-| 2015年9月14日 | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink")   | 女  | Eunice、主恩、[熙賢](../Page/奇熙賢.md "wikilink")、Jenny、[豫彬](../Page/白豫彬.md "wikilink")、[彩娟](../Page/彩娟.md "wikilink")、[恩彩](https://zh.wikipedia.org/wiki/恩彩 "wikilink")、順伊 | [熙賢](../Page/奇熙賢.md "wikilink") | AID   |       |       |
-| 未知         | [IM66](https://zh.wikipedia.org/wiki/IM66 "wikilink") | 男  | 志鎬、盛採、KI-O、俊赫、允亨、尚禹、棋釋、翰潔、太垠、基重                                                                                                                                     | —                               | —     |       |       |
+| 出道日期       | 組合名稱                                                | 性別 | 成員                                                                                                                                               | 隊長                              | 官方粉絲名 | 官方應援色 | 官方應援物 |
+| ---------- | --------------------------------------------------- | -- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------- | ----- | ----- | ----- |
+| 2013年10月8日 | Nutaz                                               | 男  | Naino（劉炳吉）、Venimun（孫京民）                                                                                                                          | —                               | —     | －     | －     |
+| 2015年7月6日  | [High Brow](../Page/High_Brow.md "wikilink")        | 男  | 李周憲、金形桂                                                                                                                                          | 李周憲                             |       |       |       |
+| 2015年9月14日 | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink") | 女  | Eunice、主恩、[熙賢](../Page/奇熙賢.md "wikilink")、Jenny、[豫彬](../Page/白豫彬.md "wikilink")、[彩娟](../Page/彩娟.md "wikilink")、[恩彩](../Page/恩彩.md "wikilink")、順伊 | [熙賢](../Page/奇熙賢.md "wikilink") | AID   |       |       |
+| 未知         | [IM66](../Page/IM66.md "wikilink")                  | 男  | 志鎬、盛採、KI-O、俊赫、允亨、尚禹、棋釋、翰潔、太垠、基重                                                                                                                  | —                               | —     |       |       |
 
 ### Solo
 
@@ -150,18 +150,18 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 
 ### 子團體
 
-| 出道日期        | 組合名稱                                                           | 所屬組合                                                  | 性別 | 成員                                                                                                                                                       |
-| ----------- | -------------------------------------------------------------- | ----------------------------------------------------- | -- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2016年12月29日 | [彬彩賢斯順](https://zh.wikipedia.org/wiki/彬彩賢斯順 "wikilink")（BCHCS） | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink")   | 女  | [Eunice](https://zh.wikipedia.org/wiki/許秀娟 "wikilink")、[熙賢](../Page/奇熙賢.md "wikilink")、[豫彬](../Page/白豫彬.md "wikilink")、[彩娟](../Page/彩娟.md "wikilink")、順伊 |
-| 2016年12月31日 | [L.U.B](https://zh.wikipedia.org/wiki/L.U.B "wikilink")        | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink")   | 女  | 主恩、再妮、[恩彩](https://zh.wikipedia.org/wiki/恩彩 "wikilink")                                                                                                  |
-| 2017年9月1日   | IM                                                             | [IM66](https://zh.wikipedia.org/wiki/IM66 "wikilink") | 男  | 棋釋、翰潔、太垠、基重                                                                                                                                              |
+| 出道日期        | 組合名稱                                                           | 所屬組合                                                | 性別 | 成員                                                                                                                                                       |
+| ----------- | -------------------------------------------------------------- | --------------------------------------------------- | -- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2016年12月29日 | [彬彩賢斯順](https://zh.wikipedia.org/wiki/彬彩賢斯順 "wikilink")（BCHCS） | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink") | 女  | [Eunice](https://zh.wikipedia.org/wiki/許秀娟 "wikilink")、[熙賢](../Page/奇熙賢.md "wikilink")、[豫彬](../Page/白豫彬.md "wikilink")、[彩娟](../Page/彩娟.md "wikilink")、順伊 |
+| 2016年12月31日 | [L.U.B](https://zh.wikipedia.org/wiki/L.U.B "wikilink")        | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink") | 女  | 主恩、再妮、[恩彩](../Page/恩彩.md "wikilink")                                                                                                                     |
+| 2017年9月1日   | IM                                                             | [IM66](../Page/IM66.md "wikilink")                  | 男  | 棋釋、翰潔、太垠、基重                                                                                                                                              |
 
 ### 限定/企劃組合
 
 | 出道日期       | 名稱                                                   | 性別                                                                                                                                                        | 所屬組合                                                                                                                                                                                                | 成員                                    | 歌曲         |
 | ---------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ---------- |
 | 2013年6月10日 | —                                                    | 混合                                                                                                                                                        | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")、[The SeeYa](../Page/The_SeeYa.md "wikilink")、[SPEED](../Page/SPEED_\(韓國音樂團體\).md "wikilink")、[F-VE DOLLS](../Page/F-VE_DOLLS.md "wikilink") | [昭妍](../Page/朴昭妍.md "wikilink")、幼真、、、 | Painkiller |
-| 2014年1月29日 | [SPEED](../Page/SPEED_\(韓國音樂團體\).md "wikilink")、SOLO | [鍾國](https://zh.wikipedia.org/wiki/鍾國 "wikilink")、[Shannon](https://zh.wikipedia.org/wiki/Shannon_\(韓國歌手\) "wikilink")                                    | Remember You                                                                                                                                                                                        |                                       |            |
+| 2014年1月29日 | [SPEED](../Page/SPEED_\(韓國音樂團體\).md "wikilink")、SOLO | [鍾國](https://zh.wikipedia.org/wiki/鍾國 "wikilink")、[Shannon](../Page/Shannon_\(韓國歌手\).md "wikilink")                                                       | Remember You                                                                                                                                                                                        |                                       |            |
 | 2015年2月10日 | TS                                                   | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")、[The SeeYa](../Page/The_SeeYa.md "wikilink")、[SPEED](../Page/SPEED_\(韓國音樂團體\).md "wikilink")、SOLO | [昭妍](../Page/朴昭妍.md "wikilink")、[𤨒晶](../Page/咸𤨒晶.md "wikilink")、玟京、[鍾國](https://zh.wikipedia.org/wiki/鍾國 "wikilink")、、KI-O、[承希](../Page/曺承希.md "wikilink")                                          | Don't Forget Me                       |            |
 
 ### 演員/藝人
@@ -354,7 +354,7 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 <td><p>2009年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金延智" title="wikilink">金延智</a>、<a href="https://zh.wikipedia.org/wiki/李寶藍" title="wikilink">李寶藍</a></p></td>
+<td><p><a href="../Page/金延智.md" title="wikilink">金延智</a>、<a href="https://zh.wikipedia.org/wiki/李寶藍" title="wikilink">李寶藍</a></p></td>
 <td><p>2011年</p></td>
 <td></td>
 <td></td>
@@ -554,11 +554,11 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 <td><p><a href="../Page/SPICA_(組合).md" title="wikilink">SPICA</a>（前）<br />
 <a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>（前）<br />
 <a href="../Page/五少女.md" title="wikilink">五少女</a>（前）<br />
-<a href="https://zh.wikipedia.org/wiki/UNI.T" title="wikilink">UNI.T</a></p></td>
+<a href="../Page/UNI.T.md" title="wikilink">UNI.T</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>輝人</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/輝人" title="wikilink">丁輝人</a></p></td>
+<td><p><a href="../Page/輝人.md" title="wikilink">丁輝人</a></p></td>
 <td><p>歌手</p></td>
 <td><p>RBW娛樂</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a></p></td>
@@ -597,7 +597,7 @@ BELLA4（前）</p></td>
 <td><p>Alex</p></td>
 <td><p>Alex Bell</p></td>
 <td><p>練習生</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FNC娛樂" title="wikilink">FNC娛樂</a></p></td>
+<td><p><a href="../Page/FNC娛樂.md" title="wikilink">FNC娛樂</a></p></td>
 <td><p>NEO SCHOOL</p></td>
 </tr>
 <tr class="odd">
@@ -633,7 +633,7 @@ BELLA4（前）</p></td>
 <td><p>Coco Chanel Lee</p></td>
 <td><p>歌手</p></td>
 <td><p>MOLE娛樂</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CocoSori" title="wikilink">CocoSori</a><br />
+<td><p><a href="../Page/CocoSori.md" title="wikilink">CocoSori</a><br />
 <a href="../Page/BLADY.md" title="wikilink">BLADY</a>（前）</p></td>
 </tr>
 <tr class="even">
@@ -675,7 +675,7 @@ BELLA4（前）</p></td>
 <td><p>妍雨</p></td>
 <td><p>李多斌</p></td>
 <td><p>Duble Kick娛樂</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MOMOLAND" title="wikilink">MOMOLAND</a></p></td>
+<td><p><a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

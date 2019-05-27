@@ -3,7 +3,7 @@
 ## 簡介
 
 從[SUNRISE制作出身的](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")[白井勝也經由](https://zh.wikipedia.org/wiki/白井勝也 "wikilink")[STUDIO
-DEEN而設立這動畫製作公司](../Page/STUDIO_DEEN.md "wikilink")。成立初期，主要承接從[MADHOUSE為中心](../Page/MADHOUSE.md "wikilink")[統包得來的分件工作](../Page/統包.md "wikilink")。2003年首次為「[青青校樹](https://zh.wikipedia.org/wiki/青青校樹_\(遊戲\) "wikilink")」總承包商。2005年接得了來自MADHOUSE的轉包制作「[草莓100%](https://zh.wikipedia.org/wiki/草莓100% "wikilink")」後，就停止活動。2007年曾重新展開業務，又於同年再次停止活動。
+DEEN而設立這動畫製作公司](../Page/STUDIO_DEEN.md "wikilink")。成立初期，主要承接從[MADHOUSE為中心](../Page/MADHOUSE.md "wikilink")[統包得來的分件工作](../Page/統包.md "wikilink")。2003年首次為「[青青校樹](../Page/青青校樹_\(遊戲\).md "wikilink")」總承包商。2005年接得了來自MADHOUSE的轉包制作「[草莓100%](https://zh.wikipedia.org/wiki/草莓100% "wikilink")」後，就停止活動。2007年曾重新展開業務，又於同年再次停止活動。
 
 ## 主要作品
 
@@ -16,14 +16,14 @@ DEEN而設立這動畫製作公司](../Page/STUDIO_DEEN.md "wikilink")。成立�
   - [爆旋陀螺](https://zh.wikipedia.org/wiki/爆旋陀螺 "wikilink")
     （2001年、總承包商：MADHOUSE、制作協力）
   - [魔法少女貓](https://zh.wikipedia.org/wiki/魔法少女貓 "wikilink")
-    （2001年、總承包商：[TNK](https://zh.wikipedia.org/wiki/TNK "wikilink")、MADHOUSE、制作協力）
+    （2001年、總承包商：[TNK](../Page/TNK.md "wikilink")、MADHOUSE、制作協力）
   - [Chance Triangle
     Session](https://zh.wikipedia.org/wiki/Chance_Triangle_Session "wikilink")
     （2001年、總承包商：MADHOUSE、制作協力）
   - [馭龍少年](../Page/馭龍少年.md "wikilink") （2002年-2003年、總承包商：MADHOUSE、制作協力）
   - [炎之蜃氣樓](../Page/炎之蜃氣樓.md "wikilink") （2002年、總承包商：MADHOUSE、制作協力）
   - [迷糊天使](../Page/迷糊天使.md "wikilink") （2002年、總承包商：MADHOUSE、制作協力）
-  - [青青校樹](https://zh.wikipedia.org/wiki/青青校樹_\(遊戲\) "wikilink") （2003年）
+  - [青青校樹](../Page/青青校樹_\(遊戲\).md "wikilink") （2003年）
   - [TEXHNOLYZE](https://zh.wikipedia.org/wiki/TEXHNOLYZE "wikilink")
     （2003年、總承包商：MADHOUSE、各話制作協力）
   - [Di Gi Charat Nyo](../Page/Di_Gi_Charat.md "wikilink")

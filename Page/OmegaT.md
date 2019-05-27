@@ -7,7 +7,7 @@ OmegaT可运行于[Linux](../Page/Linux.md "wikilink")、[Mac OS
 X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 98
 SE或更高版本，\[1\]并且需要Java
-1.5。它的界面和文档被翻译成27种语言。在2010年对458名专业译员的调查\[2\]表明，OmegaT的用户数达到[Wordfast](../Page/Wordfast.md "wikilink")、DejaVu和[MemoQ的](https://zh.wikipedia.org/wiki/MemoQ "wikilink")1/3，且达到了市场领导者[塔多思的](../Page/塔多思.md "wikilink")1/8。在[Bing翻译的合作伙伴中](https://zh.wikipedia.org/wiki/Bing翻译 "wikilink")，OmegaT是其中唯一一个免费的专业级辅助翻译工具\[3\]
+1.5。它的界面和文档被翻译成27种语言。在2010年对458名专业译员的调查\[2\]表明，OmegaT的用户数达到[Wordfast](../Page/Wordfast.md "wikilink")、DejaVu和[MemoQ的](../Page/MemoQ.md "wikilink")1/3，且达到了市场领导者[塔多思的](../Page/塔多思.md "wikilink")1/8。在[Bing翻译的合作伙伴中](https://zh.wikipedia.org/wiki/Bing翻译 "wikilink")，OmegaT是其中唯一一个免费的专业级辅助翻译工具\[3\]
 。
 
 ## 历史
@@ -149,7 +149,7 @@ OmegaT可以直接翻译下列格式:
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/XLIFF" title="wikilink">XLIFF</a></p></td>
+<td><p><a href="../Page/XLIFF.md" title="wikilink">XLIFF</a></p></td>
 <td><p>.xlf, .sdlxliff</p></td>
 </tr>
 <tr class="even">

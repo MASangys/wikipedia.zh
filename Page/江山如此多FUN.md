@@ -194,7 +194,7 @@
     (名人隊)：[邊陳之娟](https://zh.wikipedia.org/wiki/邊陳之娟 "wikilink")、[林蛟](../Page/林蛟.md "wikilink")、[林夕](../Page/林夕.md "wikilink")
     (2630分)；(藝人隊)：[尹揚明](../Page/尹揚明.md "wikilink")、[葉玉卿](../Page/葉玉卿.md "wikilink")、[王馨平](../Page/王馨平.md "wikilink")(2510分)；勝方：名人隊
   - 第10集：(名人隊)：[陳淑芬](../Page/陳淑芬.md "wikilink")、[顧修全](../Page/顧修全.md "wikilink")、[李國奎](https://zh.wikipedia.org/wiki/李國奎 "wikilink")(2810分)；(藝人隊)：[方中信](../Page/方中信.md "wikilink")、[鄭浩南](../Page/鄭浩南.md "wikilink")、[湯寶如](../Page/湯寶如.md "wikilink")(2740分)；勝方：名人隊
-  - 第11集：(名人隊)：[施永青](../Page/施永青.md "wikilink")、[鍾慧冰](https://zh.wikipedia.org/wiki/鍾慧冰 "wikilink")、[陳國新](https://zh.wikipedia.org/wiki/陳國新 "wikilink")(2460分)；(藝人隊):
+  - 第11集：(名人隊)：[施永青](../Page/施永青.md "wikilink")、[鍾慧冰](../Page/鍾慧冰.md "wikilink")、[陳國新](https://zh.wikipedia.org/wiki/陳國新 "wikilink")(2460分)；(藝人隊):
     [梁榮忠](../Page/梁榮忠.md "wikilink")、[安德尊](../Page/安德尊.md "wikilink")、[韋綺姍](../Page/韋綺姍.md "wikilink")(3060分)；勝方：藝人隊
   - 第12集：(名人隊)：[鄭明明](https://zh.wikipedia.org/wiki/鄭明明 "wikilink")、[黃秉槐](../Page/黃秉槐.md "wikilink")、[阮兆輝](../Page/阮兆輝.md "wikilink")(2870分)；(藝人隊):
     [郭晉安](../Page/郭晉安.md "wikilink")、[馬敏兒](../Page/馬敏兒.md "wikilink")、[邵美琪](../Page/邵美琪.md "wikilink")(2720分)；勝方：名人隊
@@ -217,7 +217,7 @@
   - [黃霑](../Page/黃霑.md "wikilink")
   - [鄧飛](../Page/鄧飛_\(香港\).md "wikilink")
   - [中華狀元紅](https://zh.wikipedia.org/wiki/中華狀元紅 "wikilink")
-  - [一帶一路一狀元](https://zh.wikipedia.org/wiki/一帶一路一狀元 "wikilink")
+  - [一帶一路一狀元](../Page/一帶一路一狀元.md "wikilink")
   - [江山萬里情](../Page/江山萬里情.md "wikilink")
   - [無綫電視節目列表](../Page/無綫電視節目列表.md "wikilink")
   - [翡翠台電視節目列表 (2010年)](../Page/翡翠台電視節目列表_\(2010年\).md "wikilink")

@@ -1,7 +1,7 @@
 **Empathy**，是一个[即时通讯客户端軟體](https://zh.wikipedia.org/wiki/即时通讯客户端 "wikilink")，支持文本、音頻、視頻及多种通讯协议。
 
 Empathy
-同时提供了可重复利用的[图形界面及](https://zh.wikipedia.org/wiki/图形界面 "wikilink")[图形工具箱](https://zh.wikipedia.org/wiki/图形工具箱 "wikilink")，以开发[GNOME上的同类软件](../Page/GNOME.md "wikilink")\[1\]，构架基于[Telepathy框架](https://zh.wikipedia.org/wiki/Telepathy "wikilink")。
+同时提供了可重复利用的[图形界面及](https://zh.wikipedia.org/wiki/图形界面 "wikilink")[图形工具箱](https://zh.wikipedia.org/wiki/图形工具箱 "wikilink")，以开发[GNOME上的同类软件](../Page/GNOME.md "wikilink")\[1\]，构架基于[Telepathy框架](../Page/Telepathy.md "wikilink")。
 
 2.24版本之后，Empathy纳入GNOME桌面项目，\[2\]\[3\] [Ubuntu 9.10（Karmic
 Koala）和](../Page/Ubuntu.md "wikilink")[Fedora
@@ -10,8 +10,7 @@ Koala）和](../Page/Ubuntu.md "wikilink")[Fedora
 ## 当前特性
 
   - 多种协议：
-      - [Telepathy
-        Salut](https://zh.wikipedia.org/wiki/Telepathy "wikilink")
+      - [Telepathy Salut](../Page/Telepathy.md "wikilink")
       - 基本等同于[Pidgin](../Page/Pidgin.md "wikilink")：
           - [Bonjour](../Page/Bonjour.md "wikilink")
             (Apple的[Zeroconf](https://zh.wikipedia.org/wiki/Zero_configuration_networking "wikilink"))
@@ -40,7 +39,7 @@ Koala）和](../Page/Ubuntu.md "wikilink")[Fedora
             Talk](../Page/Google_Talk.md "wikilink")、[LiveJournal
             Talk](https://zh.wikipedia.org/wiki/LiveJournal "wikilink")、[Gizmo5](https://zh.wikipedia.org/wiki/Gizmo5 "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[校内网](https://zh.wikipedia.org/wiki/校内网 "wikilink"))
           - [Yahoo](../Page/Yahoo!_Messenger.md "wikilink")
-          - [Zephyr](https://zh.wikipedia.org/wiki/Zephyr "wikilink")
+          - [Zephyr](../Page/Zephyr.md "wikilink")
 
 <!-- end list -->
 

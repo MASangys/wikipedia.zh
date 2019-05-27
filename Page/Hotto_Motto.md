@@ -51,7 +51,7 @@ Motto**（）是[日本的餐饮](../Page/日本.md "wikilink")[连锁店](https
 
 ## CM代言人
 
-  - [山口智充](https://zh.wikipedia.org/wiki/山口智充 "wikilink")（[DonDokoDon](https://zh.wikipedia.org/wiki/DonDokoDon "wikilink")）（2010年3月16日
+  - [山口智充](../Page/山口智充.md "wikilink")（[DonDokoDon](https://zh.wikipedia.org/wiki/DonDokoDon "wikilink")）（2010年3月16日
     - 12月31日）
   - [AKB48](../Page/AKB48.md "wikilink")（2011年1月1日 -
     3月、GO\!カツフェア、2012年1月6日 -）

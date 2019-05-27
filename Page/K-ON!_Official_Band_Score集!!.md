@@ -5,15 +5,14 @@ Score集\!\!**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "w
 
 於2009年9月2日由[波麗佳音發行的原聲音樂專輯](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，在DISC1中加入了中野梓的[Cagayake\!GIRLS和](../Page/Cagayake!GIRLS.md "wikilink")[Don't
 say
-"lazy"的](https://zh.wikipedia.org/wiki/Don't_say_"lazy" "wikilink")5人版，[原聲帶未收錄的音樂](../Page/K-ON!_ORIGINAL_SOUND_TRACK.md "wikilink")；DISC2收錄Cagayake\!GIRLS少了一種樂器instrumental和佐和子老師解説。
+"lazy"的](../Page/Don't_say_"lazy".md "wikilink")5人版，[原聲帶未收錄的音樂](../Page/K-ON!_ORIGINAL_SOUND_TRACK.md "wikilink")；DISC2收錄Cagayake\!GIRLS少了一種樂器instrumental和佐和子老師解説。
 
 ### 收錄内容
 
 #### Disc-1
 
 1.  [Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")［5人Ver．］
-2.  [Don't say
-    "lazy"](https://zh.wikipedia.org/wiki/Don't_say_"lazy" "wikilink")［5人Ver．］
+2.  [Don't say "lazy"](../Page/Don't_say_"lazy".md "wikilink")［5人Ver．］
 3.  Cagayake\!GIRLS［5人Ver．］ （instrumental）
 4.  Don't say "lazy"［5人Ver．］（instrumental）
 5.  カレーのちライス『StudioMix』（instrumental）

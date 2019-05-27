@@ -34,7 +34,7 @@ Modern字体移植到了这些格式。一些项目还在Computer Modern上加�
   - 额外的字体样式
 
 现在，这些衍生字体已得到广泛应用，并包含在现代TeX发行版[TeX
-Live中](https://zh.wikipedia.org/wiki/TeX_Live "wikilink")。
+Live中](../Page/TeX_Live.md "wikilink")。
 
 目前，以通用的[OpenType格式发布的Computer](../Page/OpenType.md "wikilink")
 Modern字类—— CMU发行版（下方有链接）包括：

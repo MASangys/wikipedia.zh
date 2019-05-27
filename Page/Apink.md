@@ -86,7 +86,7 @@ Long》再次由隊長朴初瓏親自作詞。\[26\]專輯於31日正午12時正
 Bank](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》中以《》及主打歌《》的表演舞台正式回歸樂壇。此後一週的9至13日，憑《Mr.
 Chu (On Stage)》一曲橫掃韓國主要電視媒體的五個直播音樂節目排行榜榜首。
 
-6月14日，在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾舉行歌迷見面會](https://zh.wikipedia.org/wiki/首爾 "wikilink")《A
+6月14日，在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾舉行歌迷見面會](../Page/首爾.md "wikilink")《A
 Pink
 Picnic》\[30\]。見面會原訂於4月19日Apink出道三週年時舉行，後因「[世越號沉沒事故](https://zh.wikipedia.org/wiki/世越號沉沒事故 "wikilink")」影響而延期。\[31\]同日於見面會上公開《Crystal》完整MV\[32\]，並宣佈在秋天於[日本正式出道](../Page/日本.md "wikilink")\[33\]。6月24日，所屬經紀公司確認20日在社交網站披露的圖片上所載之文字「PINK
 BnN」為一個企劃活動的標記\[34\]\[35\]。25日公開企劃組合新曲試聽片段\[36\]；26日公開企劃組合成員為尹普美及金南珠\[37\]；27日公開完整單曲《My
@@ -112,7 +112,7 @@ Darling》2首歌曲。\[52\]因應《LUV》取得佳績，於12月8日宣佈正
 
 ### 2015年：首場韓國演唱會暨首場亞洲巡迴演唱會、《Pink MEMORY》、《PINK SEASON》、第二場韓國演唱會、首場日本巡迴演唱會
 
-1月30及31日，以[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾為首站舉行首場韓國演唱會暨首場亞洲巡迴演唱會](https://zh.wikipedia.org/wiki/首爾 "wikilink")《[PINK
+1月30及31日，以[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾為首站舉行首場韓國演唱會暨首場亞洲巡迴演唱會](../Page/首爾.md "wikilink")《[PINK
 PARADISE](../Page/PINK_PARADISE.md "wikilink")》。\[54\]3月22日，以[新加坡為第二站舉行亞洲巡迴演唱會](../Page/新加坡.md "wikilink")《PINK
 PARADISE in
 Singapore》。\[55\]5月30日，以[中國](../Page/中國.md "wikilink")[上海為第三站舉行亞洲巡迴演唱會](https://zh.wikipedia.org/wiki/上海市 "wikilink")《PINK
@@ -158,7 +158,7 @@ Meeting》。\[76\]4月19日，Apink為紀念出道五週年而推出繼《》�
 SUMMER-》。\[79\]\[80\]8月3日，第六張日本單曲《》正式發售\[81\]，1至7日分別在福岡、[廣島](../Page/廣島市.md "wikilink")、名古屋、大阪、[神戶](https://zh.wikipedia.org/wiki/神戶市 "wikilink")、東京及[新潟舉行單曲宣傳巡迴公演](../Page/新潟市.md "wikilink")\[82\]。
 
 9月26日，攜第三張正規專輯《[Pink
-Revolution](https://zh.wikipedia.org/wiki/Pink_Revolution "wikilink")》回歸\[83\]\[84\]，主打歌《Only
+Revolution](../Page/Pink_Revolution.md "wikilink")》回歸\[83\]\[84\]，主打歌《Only
 one》旋即在韓國8個主流在線音樂網站取得榜首。
 
 10月26日，第二張日本巡迴演唱會DVD及Blu-ray《Apink 2nd LIVE TOUR 2016 -PINK
@@ -172,7 +172,7 @@ Invitation》。12月21日，第二張日本正規專輯《》正式發售\[89\]
 [170528_Mercedes_Benz_Donatic_&_Race_Event_Part_2_(41).jpg](https://zh.wikipedia.org/wiki/File:170528_Mercedes_Benz_Donatic_&_Race_Event_Part_2_\(41\).jpg "fig:170528_Mercedes_Benz_Donatic_&_Race_Event_Part_2_(41).jpg")
 2月19日，在香港[亚洲国际博览馆举行首場粉絲見面會](../Page/亞洲國際博覽館.md "wikilink")《Apink "PINK
 AURORA" ASIA TOUR in Hong
-Kong》，3月29日，第七張[日本單曲](../Page/日本.md "wikilink")《》正式發售。\[91\]4月1及2日，分別在日本[東京及](https://zh.wikipedia.org/wiki/東京 "wikilink")[神戶舉行音樂會暨歌迷見面會](https://zh.wikipedia.org/wiki/神戶市 "wikilink")《徇眾要求BEST10！迷你演唱會&座談會\&more..2017》。\[92\]4月15日，在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾舉行Apink第四期PANDA見面會](https://zh.wikipedia.org/wiki/首爾 "wikilink")《傳聞中的6公主》。
+Kong》，3月29日，第七張[日本單曲](../Page/日本.md "wikilink")《》正式發售。\[91\]4月1及2日，分別在日本[東京及](https://zh.wikipedia.org/wiki/東京 "wikilink")[神戶舉行音樂會暨歌迷見面會](https://zh.wikipedia.org/wiki/神戶市 "wikilink")《徇眾要求BEST10！迷你演唱會&座談會\&more..2017》。\[92\]4月15日，在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾舉行Apink第四期PANDA見面會](../Page/首爾.md "wikilink")《傳聞中的6公主》。
 
 4月19日，Apink為紀念出道六週年而推出繼《》之後的第五張紀念單曲《[Always](https://zh.wikipedia.org/wiki/Always "wikilink")》。全輯於韓國時間當日正午12時公開。
 
@@ -199,13 +199,13 @@ Taipei》；11月4日前往[泰國](https://zh.wikipedia.org/wiki/泰國 "wikili
 
 4月19日，Apink為紀念出道七週年而推出第二張特別專輯《奇蹟般的故事》，主打歌《Miracle》於韓國時間當日下午6時公開。4月21日，在韓國首爾舉行Apink第五期PANDA見面會《PINK
 CINEMA》。7月2日，將發行第七張迷你專輯《[ONE &
-SIX](https://zh.wikipedia.org/wiki/ONE_&_SIX "wikilink")》以Girl
-Crush的風格回歸，主打曲為《I'm so sick》，獲得四大音樂節目一位，相當受到觀眾歡迎。第7張迷你專輯《ONE &
-SIX》在世界專輯榜中排名第11位，更首次進入美國Billboard Social
-50榜單、排名第39。8月11日，於香港亞洲國際博覽館展開《2018
-Apink Asia tour》。9月9日，於馬來西亞(Dewan Wawasan, Menara
-PGRM)舉行。9月21日，於東京豊洲PIT舉行2018 Apink Fanmeeting in
-Japan "One\&Six"。9月29日，於國立台灣大學綜合體育館舉行。
+SIX](../Page/ONE_&_SIX.md "wikilink")》以Girl Crush的風格回歸，主打曲為《I'm so
+sick》，獲得四大音樂節目一位，相當受到觀眾歡迎。第7張迷你專輯《ONE &
+SIX》在世界專輯榜中排名第11位，更首次進入美國Billboard
+Social 50榜單、排名第39。8月11日，於香港亞洲國際博覽館展開《2018 Apink Asia
+tour》。9月9日，於馬來西亞(Dewan Wawasan, Menara
+PGRM)舉行。9月21日，於東京豊洲PIT舉行2018 Apink Fanmeeting in Japan
+"One\&Six"。9月29日，於國立台灣大學綜合體育館舉行。
 [190120_Apink_Mini_Fan_Meeting.jpg](https://zh.wikipedia.org/wiki/File:190120_Apink_Mini_Fan_Meeting.jpg "fig:190120_Apink_Mini_Fan_Meeting.jpg")》後的小型粉絲見面會上\]\]
 
 ### 2019年：第五場韓國演唱會、《PERCENT》
@@ -228,7 +228,7 @@ Apink的歌曲多為類型，配有活潑的歌詞\[106\]。《[告示牌](../Pa
 Benjamin）評論道〈[My
 My](../Page/Snow_Pink.md "wikilink")〉令人回想起2000年代的泡泡糖流行樂，〈[NoNoNo](../Page/NoNoNo.md "wikilink")〉受到20世紀80年代[流行電音的影響](https://zh.wikipedia.org/wiki/流行電音 "wikilink")，〈[Luv](../Page/Pink_LUV.md "wikilink")〉則召回人們對20世紀90年代嘻哈音樂的回憶，同時融合民謠和憂傷的風格，是一首以秋天為主題的失戀歌曲\[107\]。2014年春季發行的〈[Mr.
 Chu](../Page/Pink_Blossom.md "wikilink")〉延續其「非常Apink」的標誌性泡泡糖流行樂風格\[108\]\[109\]，與此同時，〈[Remember](../Page/Pink_MEMORY.md "wikilink")〉則是一首讓人回憶起夏日愛情，並配有快速節奏和復古聲音的活潑流行電音歌曲\[110\]\[111\]。然後是她們的另一首歌曲〈[Only
-One](https://zh.wikipedia.org/wiki/Pink_Revolution "wikilink")〉，班傑明形容它是一首融合了中等速度的[R\&B](../Page/节奏布鲁斯.md "wikilink")、[舞蹈流行音樂和淡雅的嘻哈節奏的成熟歌曲](https://zh.wikipedia.org/wiki/舞蹈流行音樂 "wikilink")，同時展現出更多的風格，相比起她們以前的歌曲，〈Only
+One](../Page/Pink_Revolution.md "wikilink")〉，班傑明形容它是一首融合了中等速度的[R\&B](../Page/节奏布鲁斯.md "wikilink")、[舞蹈流行音樂和淡雅的嘻哈節奏的成熟歌曲](https://zh.wikipedia.org/wiki/舞蹈流行音樂 "wikilink")，同時展現出更多的風格，相比起她們以前的歌曲，〈Only
 One〉的曲風更為有力\[112\]\[113\]。
 
 ## 成員列表
@@ -307,8 +307,7 @@ PlotData =
 
   - 2012年：《[UNE ANNEE](../Page/UNE_ANNEE.md "wikilink")》
   - 2015年：《[Pink MEMORY](../Page/Pink_MEMORY.md "wikilink")》
-  - 2016年：《[Pink
-    Revolution](https://zh.wikipedia.org/wiki/Pink_Revolution "wikilink")》
+  - 2016年：《[Pink Revolution](../Page/Pink_Revolution.md "wikilink")》
 
 :;迷你專輯
 
@@ -319,10 +318,9 @@ PlotData =
     Garden](../Page/Secret_Garden_\(Apink迷你專輯\).md "wikilink")》
   - 2014年：《[Pink Blossom](../Page/Pink_Blossom.md "wikilink")》
   - 2014年：《[Pink LUV](../Page/Pink_LUV.md "wikilink")》
-  - 2017年：《[Pink Up](https://zh.wikipedia.org/wiki/Pink_Up "wikilink")》
-  - 2018年：《[ONE &
-    SIX](https://zh.wikipedia.org/wiki/ONE_&_SIX "wikilink")》
-  - 2019年：《[PERCENT](https://zh.wikipedia.org/wiki/PERCENT "wikilink")》
+  - 2017年：《[Pink Up](../Page/Pink_Up.md "wikilink")》
+  - 2018年：《[ONE & SIX](../Page/ONE_&_SIX.md "wikilink")》
+  - 2019年：《[PERCENT](../Page/PERCENT.md "wikilink")》
 
 :;單曲
 
@@ -338,7 +336,7 @@ PlotData =
 
 :;特別專輯
 
-  - 2016年：《[Dear](https://zh.wikipedia.org/wiki/Dear "wikilink")》
+  - 2016年：《[Dear](../Page/Dear.md "wikilink")》
   - 2018年：《[Miracle](https://zh.wikipedia.org/wiki/Miracle "wikilink")》
 
 :;韓國演唱會DVD
@@ -1226,7 +1224,7 @@ PlotData =
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Pink_Revolution" title="wikilink">Pink Revolution</a></p></td>
+<td><p><a href="../Page/Pink_Revolution.md" title="wikilink">Pink Revolution</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Dear_親愛的" title="wikilink">Dear</a></p></td>
@@ -1241,13 +1239,13 @@ PlotData =
 <td><p>2018年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_&amp;_SIX" title="wikilink">ONE &amp; SIX</a></p></td>
+<td><p><a href="../Page/ONE_&amp;_SIX.md" title="wikilink">ONE &amp; SIX</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/PERCENT" title="wikilink">PERCENT</a></p></td>
+<td><p><a href="../Page/PERCENT.md" title="wikilink">PERCENT</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>

@@ -11,7 +11,7 @@
   - 企划 -
     [有迫俊彦](https://zh.wikipedia.org/wiki/有迫俊彦 "wikilink")、[山本豪](https://zh.wikipedia.org/wiki/山本豪 "wikilink")
   - 脚本 - [富田祐弘](https://zh.wikipedia.org/wiki/富田祐弘 "wikilink")
-  - 作画監督 - [香川久](https://zh.wikipedia.org/wiki/香川久 "wikilink")
+  - 作画監督 - [香川久](../Page/香川久.md "wikilink")
   - 美術監督 - [窪田忠雄](https://zh.wikipedia.org/wiki/窪田忠雄 "wikilink")
   - 音乐 - [有澤孝紀](../Page/有澤孝紀.md "wikilink")
   - 配給 - [東映](../Page/東映.md "wikilink")

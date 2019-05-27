@@ -50,8 +50,8 @@ Format为XLIFF和管理占位符](../Page/开放文档格式.md "wikilink")（�
 
   - 主要的本地化格式
       - [Gettext](../Page/Gettext.md "wikilink") PO
-      - [XLIFF](https://zh.wikipedia.org/wiki/XLIFF "wikilink") (Normal
-        and PO representations)
+      - [XLIFF](../Page/XLIFF.md "wikilink") (Normal and PO
+        representations)
   - 其他相关的本地化格式
       - [TBX](https://zh.wikipedia.org/wiki/TBX "wikilink")
       - Java [.properties](../Page/.properties.md "wikilink")

@@ -16,7 +16,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/春風DoReMi" title="wikilink">春風DoReMi</a></p></td>
+<td><p><a href="../Page/春風DoReMi.md" title="wikilink">春風DoReMi</a></p></td>
 <td><p>日本：<a href="../Page/千葉千惠巳.md" title="wikilink">千葉千惠巳</a> 台灣：<a href="../Page/楊凱凱.md" title="wikilink">楊凱凱</a></p>
 <p><a href="../Page/林美秀_(配音員).md" title="wikilink">林美秀(第二期</a>31~49話)</p>
 <p>香港：<a href="https://zh.wikipedia.org/wiki/梁少霞" title="wikilink">梁少霞</a></p></td>
@@ -26,14 +26,14 @@
 <p>血型:B型 本作品女主角之一，也是本系列的女主角之一。 熱情開朗像顆小太陽，雖然做事常錯漏百出而粗心迷糊，但好奇心旺盛並重視友情，對待朋友和藹可親，經常會對遇到困難的同學朋友伸出援手，雖然沒有妹妹泡泡能幹，但很愛護自己的妹妹。因幼時父母帶她去餐廳吃牛排，從那之後牛排成為她最喜愛的料理。常稱自己為「世界上最不幸的美少女」。學業成績總是50分以下。在第一部喜歡五十嵐學長，但沒有勇氣去告白。是為了能與喜歡的人告白而成為魔女。第四部結尾與小竹告白，在升上高中後在一起。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/藤原羽月" title="wikilink">藤原羽月</a></p></td>
+<td><p><a href="../Page/藤原羽月.md" title="wikilink">藤原羽月</a></p></td>
 <td><p>日本：<a href="../Page/秋谷智子.md" title="wikilink">秋谷智子</a> 台灣：<a href="../Page/謝佼娟.md" title="wikilink">謝佼娟</a></p>
 <p>香港：<a href="https://zh.wikipedia.org/wiki/林元春" title="wikilink">林元春</a></p></td>
 <td><p>形象顏色:橘色 精靈:蕾蕾</p>
 <p>生日:1991年2月14日，<a href="https://zh.wikipedia.org/wiki/水瓶座" title="wikilink">水瓶座</a> 血型:A型 本作品女主角之一。魔法堂中唯一的眼鏡娘，在系列作中鮮少出現過沒戴眼鏡的樣子。 家境優渥，文靜溫柔，穩重大方，功課很好的千金小姐，同時也相當的天真及單純，與Doremi同樣容易被騙。擅長小提琴。夢想是成為小提琴家。 因為DoReMi的失誤，導致她與小愛發現了DoReMi的魔女見習生身份，連帶影響了魔女莉卡和精靈拉拉的身份曝光，所以與小愛跟著成為了魔女見習生，成為魔女的動機為「希望向母親勇敢拒絕並表達出自己的感受」。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/妹尾愛子" title="wikilink">妹尾愛子</a></p></td>
+<td><p><a href="../Page/妹尾愛子.md" title="wikilink">妹尾愛子</a></p></td>
 <td><p>日本：<a href="../Page/松岡由貴.md" title="wikilink">松岡由貴</a> 台灣：<a href="../Page/雷碧文.md" title="wikilink">雷碧文</a></p>
 <p><a href="../Page/謝佼娟.md" title="wikilink">謝佼娟(僅第一季第</a>3集)</p>
 <p>香港：<a href="../Page/鄭麗麗.md" title="wikilink">鄭麗麗</a></p></td>
@@ -43,14 +43,14 @@
 <p>血型:O型。 本作品女主角之一。 大阪出身，是名蠻橫嬌羞、堅強、精明能幹、有生意頭腦、懂得做所有家務、有些男孩子氣、善於各項運動（游泳除外，後來在羽月教導下學會），特別擅長田徑，不輕易掉淚，活潑又有大姐氣概的女孩，但跟Doremi一樣不擅課業。擅長製作章魚燒。 父母在她小時候便已離婚，所以有很多不愉快的回憶，內心感到悲傷和痛苦，卻可以表現得很開朗。 因為DoReMi的失誤，導致她與羽月發現了DoReMi的魔女見習生身份，連帶影響了魔女莉卡和精靈拉拉的身份曝光，所以與羽月跟著成為了魔女見習生，成為魔女的動機為「希望藉由學習魔法使父母破鏡重圓」。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/瀨川音符" title="wikilink">瀨川音符</a></p></td>
+<td><p><a href="../Page/瀨川音符.md" title="wikilink">瀨川音符</a></p></td>
 <td><p>日本：<a href="../Page/宍戶留美.md" title="wikilink">宍戶留美</a> 台灣：<a href="../Page/王瑞芹.md" title="wikilink">王瑞芹</a></p>
 <p>香港：<a href="../Page/陳凱婷.md" title="wikilink">陳凱婷</a></p></td>
 <td><p>形象顏色:紫色 精靈:樂樂。</p>
 <p>生日:1991年3月3日，<a href="../Page/双鱼座.md" title="wikilink">雙魚座</a> 血型:B型。 本作品女主角之一。 第一季前期以反派形象登場。 三年級寒假時發現魔女露卡的身分而成為魔女見習生，而也因為魔女露卡和魔女莉卡起初是敵對的關係而與DoReMi處於敵對狀態，濫用禁忌魔法，本身也是一名我行我素的偶像歌手，極度冷酷不顧他人。慢慢也與DoReMi她們成為好朋友，後來為了掩飾大家是魔女的身分，而使用禁忌魔法消除他人的記憶並面臨沉睡100年的命運。第一部結尾被DoReMi、羽月、小愛、泡泡用禁忌魔法喚醒，但也以捨棄魔女見習生身分作為代價。 因為人氣較高而成了魔法堂的活宣傳，很多人都是為了看她才去魔法堂購物。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/飛鳥桃子" title="wikilink">飛鳥桃子</a></p></td>
+<td><p><a href="../Page/飛鳥桃子.md" title="wikilink">飛鳥桃子</a></p></td>
 <td><p>日本：<a href="https://zh.wikipedia.org/wiki/宮原永海" title="wikilink">宮原永海</a> 台灣：<a href="../Page/雷碧文.md" title="wikilink">雷碧文</a></p>
 <p>香港：<a href="../Page/劉惠雲.md" title="wikilink">劉惠雲</a>→<a href="../Page/曾秀清.md" title="wikilink">曾秀清</a></p></td>
 <td><p>通稱:小桃子 形象顏色:黃色</p>
@@ -59,7 +59,7 @@
 <p>本作品女主角之一。 個性爽朗的美籍日僑，小時候就移居美國紐約，會說流利的英文，善於作甜點，第3部中女王為了幫助不會做糕點的DoReMi等人而派桃子來幫忙，善於彈吉他。因為文化上的差異，剛開始鬧出不少風波，但最後慢慢學習語言，鬧的笑話也變少了。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/春風泡泡" title="wikilink">春風泡泡</a></p></td>
+<td><p><a href="../Page/春風泡泡.md" title="wikilink">春風泡泡</a></p></td>
 <td><p>日本：<a href="../Page/石毛佐和.md" title="wikilink">石毛佐和</a> <a href="https://zh.wikipedia.org/wiki/詩乃優花" title="wikilink">詩乃優花</a>（第1期第27話臨時代替）</p>
 <p>台灣：<a href="../Page/雷碧文.md" title="wikilink">雷碧文</a></p>
 <p>香港：<a href="../Page/雷碧娜.md" title="wikilink">雷碧娜</a></p></td>
@@ -67,7 +67,7 @@
 <p>生日:1994年9月9日，<a href="https://zh.wikipedia.org/wiki/處女座" title="wikilink">處女座</a>，血型:AB型。  DoReMi的妹妹，不過比DoReMi能幹。 在學校中很受同學歡迎，她的同學更組織了泡泡親衛隊。 曾把變成魔女青蛙的魔女莉卡當成玩偶並以一千圓買下，更自行替其取名為「ブニュちゃん（台：小布丁，港：棉花糖）」 由於在魔法堂後院看見DoReMi三人使用魔法而揭穿了她們的身份，因此也成為魔女見習生。習慣早睡，而且一旦睡著就很難叫醒，DoReMi等人曾經叫醒她參加魔女見習生升級試也因此沒有成功，一直到第四部才完成所有魔女測驗。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/小花_(小魔女DoReMi)" title="wikilink">小花/薪旗山花</a></p></td>
+<td><p><a href="../Page/小花_(小魔女DoReMi).md" title="wikilink">小花/薪旗山花</a></p></td>
 <td><p>日本：<a href="../Page/大谷育江.md" title="wikilink">大谷育江</a> 台灣：<a href="../Page/謝佼娟.md" title="wikilink">謝佼娟</a>→<a href="https://zh.wikipedia.org/wiki/林美秀" title="wikilink">林美秀</a></p>
 <p>香港：<a href="../Page/陸惠玲.md" title="wikilink">陸惠玲</a>→<a href="../Page/程文意.md" title="wikilink">程文意</a></p></td>
 <td><p>形象顏色:白色 精靈:豆豆。</p>
@@ -77,7 +77,7 @@
 </tr>
 <tr class="even">
 <td><p>和久望美</p></td>
-<td><p>日本：<a href="https://zh.wikipedia.org/wiki/川田妙子" title="wikilink">川田妙子</a></p>
+<td><p>日本：<a href="../Page/川田妙子.md" title="wikilink">川田妙子</a></p>
 <p>台灣：鄭啟民</p>
 <p>香港：<a href="../Page/何璐怡.md" title="wikilink">何璐怡</a></p></td>
 <td><p>Doremi到醫院探望詩織時無意間認識的血癌病童，相當擅長玩神經衰弱。 與Doremi一樣從小就相信魔女的存在，並計畫痊癒出院後到魔法堂拜魔女莉卡為師。 其後因Doremi對女王的要求，使得女王計畫給她魔女見習生的身分，Doremi等人也在夜晚時將她換上魔女見習生的衣服，讓她與病童們度過了美好的一晚。 最後仍不敵病魔而離世，並在天上對Doremi表達了感謝。</p></td>
@@ -109,22 +109,22 @@
 | 魔幻舞台   | 拍拍砰呸 溫柔優美  | 派派幫幫 優美魔力  |
 | 皇家使者咒語 | 拍拍 皇家使者    | 派派 巴多利路    |
 
-| [妹尾愛子](https://zh.wikipedia.org/wiki/妹尾愛子 "wikilink") | 台灣             | 香港             |
-| ----------------------------------------------------- | -------------- | -------------- |
-| 魔法咒語                                                  | 帕美魯克拉魯克 拉哩摟哩波噴 | 巴美露古拉露古 拉里羅利卜布 |
-| 魔幻舞台                                                  | 帕美魯克拉魯克 樂音高亢   | 巴美露古拉露古 剛強魔力   |
-| 皇家使者咒語                                                | 帕美魯克 皇家使者      | 巴美露古 巴多利路      |
+| [妹尾愛子](../Page/妹尾愛子.md "wikilink") | 台灣             | 香港             |
+| ---------------------------------- | -------------- | -------------- |
+| 魔法咒語                               | 帕美魯克拉魯克 拉哩摟哩波噴 | 巴美露古拉露古 拉里羅利卜布 |
+| 魔幻舞台                               | 帕美魯克拉魯克 樂音高亢   | 巴美露古拉露古 剛強魔力   |
+| 皇家使者咒語                             | 帕美魯克 皇家使者      | 巴美露古 巴多利路      |
 
-| [瀨川音符](https://zh.wikipedia.org/wiki/瀨川音符 "wikilink") | 台灣          | 香港          |
-| ----------------------------------------------------- | ----------- | ----------- |
-| 魔法咒語                                                  | 噗魯魯噗魯 發咪發咪發 | 普路普普路 法米法米法 |
-| 魔幻舞台                                                  | 噗魯魯噗魯 清新爽朗  | 普路普普路 溫柔魔力  |
-| 皇家使者咒語                                                | 噗魯魯 皇家使者    | 普路普 巴多利路    |
+| [瀨川音符](../Page/瀨川音符.md "wikilink") | 台灣          | 香港          |
+| ---------------------------------- | ----------- | ----------- |
+| 魔法咒語                               | 噗魯魯噗魯 發咪發咪發 | 普路普普路 法米法米法 |
+| 魔幻舞台                               | 噗魯魯噗魯 清新爽朗  | 普路普普路 溫柔魔力  |
+| 皇家使者咒語                             | 噗魯魯 皇家使者    | 普路普 巴多利路    |
 
-| [飛鳥桃子](https://zh.wikipedia.org/wiki/飛鳥桃子 "wikilink") | 台灣          | 香港          |
-| ----------------------------------------------------- | ----------- | ----------- |
-| 魔法咒語                                                  | 佩魯坦佩登 啪拉力拉碰 | 佩露坦佩頓 巴拉里拉普 |
-| 魔幻舞台                                                  | 佩魯坦佩登 舒爽明亮  | 佩露坦佩頓 爽朗魔力  |
+| [飛鳥桃子](../Page/飛鳥桃子.md "wikilink") | 台灣          | 香港          |
+| ---------------------------------- | ----------- | ----------- |
+| 魔法咒語                               | 佩魯坦佩登 啪拉力拉碰 | 佩露坦佩頓 巴拉里拉普 |
+| 魔幻舞台                               | 佩魯坦佩登 舒爽明亮  | 佩露坦佩頓 爽朗魔力  |
 
 | 春風泡泡 | 台灣              | 香港              |
 | ---- | --------------- | --------------- |
@@ -537,7 +537,7 @@
     與隔壁鄰居兼隔壁班同學佐藤夏美為青梅竹馬，兩人互有好感。
     鬼故事的行家，任何故事從他口中說出都會變得相當恐怖。
     非常喜歡甜食，特別是蛋糕，但礙於家裡面是傳統寺廟的緣故所以不敢表達出來。
-    名稱來源取自本作演出設定之一的[山內重保](https://zh.wikipedia.org/wiki/山內重保 "wikilink")。
+    名稱來源取自本作演出設定之一的[山內重保](../Page/山內重保.md "wikilink")。
     角色歌：「ブツバツナイスガイ」
   -
     萬田純次的雙胞胎姊姊，皮膚較純次來的黝黑，兩人只要交換衣服，就可以替換身分不被人發現\[16\]，個性較身為弟弟的純次來的活潑，也把純次剋得死死的，戲份比起純次多上許多。
@@ -575,7 +575,7 @@
 #### 卡蓮女子學院
 
   -
-    [羽月的同班同學](https://zh.wikipedia.org/wiki/藤原羽月 "wikilink")，同樣就讀卡蓮女子學院高等部音樂科。
+    [羽月的同班同學](../Page/藤原羽月.md "wikilink")，同樣就讀卡蓮女子學院高等部音樂科。
     與羽月不同的是並非從卡蓮女子學院的國中部直升，過去原本要就從卡蓮女子學院的國中部直接就讀，但因為父親的公司倒閉，所以先就讀別所公立的學校，也因此中斷了小提琴的練習。
     雖然家中之後經濟改善並就考上高等部，但與其他從國中部直升的同學程度相差太大，特別是與主動想成為好朋友的班上狀元羽月相差最多，導致開始對羽月產生忌妒與恨意。
     後來在學校的網路匿名討論版中開始捏造消息毀謗羽月，在了解對方家境以及打工的事情後甚至變本加厲，演變到偷拍及上傳不實照片，雖然本人一度想住手但卻開始失控無法停止，間接傷害了羽月。
@@ -601,7 +601,7 @@
 <!-- end list -->
 
   -
-    [DoReMi的學妹](https://zh.wikipedia.org/wiki/春風DoReMi "wikilink")，稱呼DoReMi為「DoReMi學姊」，美空高校新進的1年級生。
+    [DoReMi的學妹](../Page/春風DoReMi.md "wikilink")，稱呼DoReMi為「DoReMi學姊」，美空高校新進的1年級生。
     在觀摩社團時被身為足球社副社長的小竹相中，之後和DoReMi共同就任新的足球社經理。
     性格開朗且充滿幹勁，因為家族成員都是足球迷的緣故，在上小學前就是[J聯盟的愛好者](https://zh.wikipedia.org/wiki/J聯盟 "wikilink")，擁有豐富的足球知識。
 
@@ -707,7 +707,7 @@
 <!-- end list -->
 
   -
-    [小愛所隸屬的田徑社的顧問](https://zh.wikipedia.org/wiki/妹尾愛子 "wikilink")。
+    [小愛所隸屬的田徑社的顧問](../Page/妹尾愛子.md "wikilink")。
     美空高中第一屆的畢業生，也是Doremi等人的老學長，過去原本入選為[東京奧運的田徑選手](https://zh.wikipedia.org/wiki/1964年夏季奧林匹克運動會 "wikilink")，但因為父親的過世不得放棄田徑而繼承家裡面的工作，此事之後一直成為他心中的疙瘩。
     與家人關係不是太好，後因Doremi一夥的暗中協助，不但在夢中達成了參加奧運的夢想，也改善了與家人的關係。
     之後與孫女一同為參加國民體育大賽的小愛應援，也使得小愛信心大發並一舉取得金牌。
@@ -743,7 +743,7 @@
 <!-- end list -->
 
   -
-    配音：[川田妙子](https://zh.wikipedia.org/wiki/川田妙子 "wikilink")／香港：[何璐怡](../Page/何璐怡.md "wikilink")
+    配音：[川田妙子](../Page/川田妙子.md "wikilink")／香港：[何璐怡](../Page/何璐怡.md "wikilink")
     參見[小魔女DoReMi角色列表\#魔女見習生](https://zh.wikipedia.org/wiki/小魔女DoReMi角色列表#魔女見習生 "wikilink")
 
 ## 魔女世界人物
@@ -1393,7 +1393,7 @@
 </tr>
 <tr class="odd">
 <td><p>魔女露卡</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/莊真由美" title="wikilink">莊真由美</a></p></td>
+<td><p><a href="../Page/莊真由美.md" title="wikilink">莊真由美</a></p></td>
 <td><p>謝佼娟</p></td>
 <td></td>
 </tr>
@@ -1532,7 +1532,7 @@
 <tr class="odd">
 <td><p>菲利浦‧Ｓ‧宗迪伯爵</p></td>
 <td><p><a href="../Page/乃村健次.md" title="wikilink">乃村健次</a><br />
-<a href="https://zh.wikipedia.org/wiki/金光宣明" title="wikilink">金光宣明</a><br />
+<a href="../Page/金光宣明.md" title="wikilink">金光宣明</a><br />
 <small>（第4部）</small></p></td>
 <td></td>
 <td><p><a href="../Page/梁志達.md" title="wikilink">梁志達</a></p></td>

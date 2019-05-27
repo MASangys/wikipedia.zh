@@ -50,7 +50,7 @@ Hostway在以下地方拥有办公室和数据中心：
   - [德国](../Page/德国.md "wikilink")[汉诺威](../Page/汉诺威.md "wikilink")
   - [澳大利亚](../Page/澳大利亚.md "wikilink")[悉尼](../Page/悉尼.md "wikilink")
   - [印度](../Page/印度.md "wikilink")[孟买](../Page/孟买.md "wikilink")
-  - [大韩民国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")
+  - [大韩民国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[首爾](../Page/首爾.md "wikilink")
   - [羅馬尼亞](../Page/羅馬尼亞.md "wikilink")[布加勒斯特](../Page/布加勒斯特.md "wikilink")
   - [劳德代尔堡](../Page/劳德代尔堡.md "wikilink")
   - [索菲亞](../Page/索菲亞.md "wikilink")

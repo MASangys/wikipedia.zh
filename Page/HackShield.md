@@ -3,7 +3,7 @@
 zh-cn:[冒险岛](https://zh.wikipedia.org/wiki/冒险岛_Online "wikilink")}-、-{zh-tw:[爆爆王](../Page/爆爆王.md "wikilink");
 zh-cn:[泡泡堂](https://zh.wikipedia.org/wiki/泡泡堂_Online "wikilink")}-、-{zh-tw:[瑪奇](https://zh.wikipedia.org/wiki/瑪奇 "wikilink");
 zh-cn:[洛奇](https://zh.wikipedia.org/wiki/洛奇_\(游戏\) "wikilink")}-、-{zh-tw:[夢幻龍族傳說](../Page/夢幻龍族傳說.md "wikilink");
-zh-cn:[梦幻龙族](https://zh.wikipedia.org/wiki/梦幻龙族 "wikilink")}-等[网络游戏中](../Page/网络游戏.md "wikilink")。Hackshield由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[安全软件](https://zh.wikipedia.org/wiki/安全软件 "wikilink")[公司](../Page/公司.md "wikilink")[安博士研发](https://zh.wikipedia.org/wiki/安博士 "wikilink")。从2001年开始，[韩国各](https://zh.wikipedia.org/wiki/韩国 "wikilink")[游戏开发商陸續开始使用该](https://zh.wikipedia.org/wiki/游戏开发商 "wikilink")[软件](../Page/软件.md "wikilink")，从
+zh-cn:[梦幻龙族](https://zh.wikipedia.org/wiki/梦幻龙族 "wikilink")}-等[网络游戏中](../Page/网络游戏.md "wikilink")。Hackshield由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[安全软件](https://zh.wikipedia.org/wiki/安全软件 "wikilink")[公司](../Page/公司.md "wikilink")[安博士研发](../Page/安博士.md "wikilink")。从2001年开始，[韩国各](https://zh.wikipedia.org/wiki/韩国 "wikilink")[游戏开发商陸續开始使用该](https://zh.wikipedia.org/wiki/游戏开发商 "wikilink")[软件](../Page/软件.md "wikilink")，从
 2005
 年开始，[美国部分](../Page/美国.md "wikilink")[游戏开发商也开始使用该套](https://zh.wikipedia.org/wiki/游戏开发商 "wikilink")[软件](../Page/软件.md "wikilink")。\[2\]
 

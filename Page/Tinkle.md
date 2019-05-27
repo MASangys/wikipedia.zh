@@ -1,4 +1,4 @@
-**Tinkle**（），是[日本的](../Page/日本.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")、[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，為與的男性二人組合。2000年以[十八禁遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")《沈睡森林的公主》（）[原畫家身份出道](https://zh.wikipedia.org/wiki/原畫家 "wikilink")，於2005年起主要以創作[漫畫作品和](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[輕小說插畫為主](../Page/輕小說.md "wikilink")。2010年****因為身體疾病等因素離開，2016到現在為與組合。在[專門學校時](https://zh.wikipedia.org/wiki/專門學校_\(日本\) "wikilink")，和插畫家（）、漫畫家[美水鏡是](../Page/美水鏡.md "wikilink")[同級生](https://zh.wikipedia.org/wiki/同级生_\(消歧义\) "wikilink")。
+**Tinkle**（），是[日本的](../Page/日本.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")、[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，為與的男性二人組合。2000年以[十八禁遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")《沈睡森林的公主》（）[原畫家身份出道](https://zh.wikipedia.org/wiki/原畫家 "wikilink")，於2005年起主要以創作[漫畫作品和](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[輕小說插畫為主](../Page/輕小說.md "wikilink")。2010年****因為身體疾病等因素離開，2016到現在為與組合。在[專門學校時](../Page/專門學校_\(日本\).md "wikilink")，和插畫家（）、漫畫家[美水鏡是](../Page/美水鏡.md "wikilink")[同級生](https://zh.wikipedia.org/wiki/同级生_\(消歧义\) "wikilink")。
 
 目前除了從事商業繪畫之外，也經常以[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")「TinkerBell（）」名義參加[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")\[1\]。
 
@@ -34,13 +34,13 @@
 
   - [物質幽靈](../Page/物質幽靈.md "wikilink")（[葵關南著](../Page/葵關南.md "wikilink")，[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")）
 
-  - （堂本烈著，[法蘭西書院](https://zh.wikipedia.org/wiki/法蘭西書院 "wikilink")）
+  - （堂本烈著，[法蘭西書院](../Page/法蘭西書院.md "wikilink")）
 
   - [蘿球社！](../Page/蘿球社！.md "wikilink")（著，[電擊文庫](../Page/電擊文庫.md "wikilink")）
 
   - （著，法蘭西書院）
 
-  - [天使的3P！](https://zh.wikipedia.org/wiki/天使的3P！ "wikilink")（著，[電擊文庫](../Page/電擊文庫.md "wikilink")）
+  - [天使的3P！](../Page/天使的3P！.md "wikilink")（著，[電擊文庫](../Page/電擊文庫.md "wikilink")）
 
   - （著，法蘭西書院）
 

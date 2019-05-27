@@ -48,8 +48,7 @@ Live金卡账户](../Page/Xbox_Live.md "wikilink")，以使用指定应用上发
 
 ## 向下兼容性
 
-Xbox
-360系统软件包括软件模拟器支持[旧版Xbox游戏系统](https://zh.wikipedia.org/wiki/Xbox "wikilink")。
+Xbox 360系统软件包括软件模拟器支持[旧版Xbox游戏系统](../Page/Xbox.md "wikilink")。
 软件[模拟器由可下载的模拟器配置文件实现](https://zh.wikipedia.org/wiki/模拟器 "wikilink")，这一功能需要一个硬盘
 。
 
@@ -58,7 +57,7 @@ Xbox
 **微软其他游戏平台：**
 
   - [Windows Phone 7](../Page/Windows_Phone.md "wikilink")
-  - [Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")
+  - [Xbox](../Page/Xbox.md "wikilink")
 
 **本[世代其他游戏平台](https://zh.wikipedia.org/wiki/视频游戏历史（第七世代） "wikilink")：**
 

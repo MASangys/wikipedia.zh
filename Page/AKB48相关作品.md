@@ -962,7 +962,7 @@ CD</p></td>
 <td><p>2014年<br />
 8月27日</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/心意告示牌" title="wikilink">心意告示牌</a></strong></p></td>
+<td><p><strong><a href="../Page/心意告示牌.md" title="wikilink">心意告示牌</a></strong></p></td>
 <td><center>
 <p>第1名</p>
 </center></td>
@@ -1207,7 +1207,7 @@ CD</p></td>
 <td><p>2016年<br />
 11月16日</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/High_Tension" title="wikilink">High Tension</a></strong></p></td>
+<td><p><strong><a href="../Page/High_Tension.md" title="wikilink">High Tension</a></strong></p></td>
 <td><center>
 <p>第1名</p>
 </center></td>
@@ -1229,7 +1229,7 @@ CD</p></td>
 <td><p>2017年<br />
 3月15日</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Shoot_Sign" title="wikilink">Shoot Sign</a></strong></p></td>
+<td><p><strong><a href="../Page/Shoot_Sign.md" title="wikilink">Shoot Sign</a></strong></p></td>
 <td><center>
 <p>第1名</p>
 </center></td>
@@ -1317,7 +1317,7 @@ CD</p></td>
 <td><p>2018年<br />
 3月14日</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Ja-Ba-Ja" title="wikilink">Ja-Ba-Ja</a></strong></p></td>
+<td><p><strong><a href="../Page/Ja-Ba-Ja.md" title="wikilink">Ja-Ba-Ja</a></strong></p></td>
 <td><center>
 <p>第1名</p>
 </center></td>
@@ -1338,7 +1338,7 @@ CD</p></td>
 <td><p>52</p></td>
 <td><p>2018年<br />
 5月30日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Teacher_Teacher" title="wikilink">Teacher Teacher</a></strong></p></td>
+<td><p><strong><a href="../Page/Teacher_Teacher.md" title="wikilink">Teacher Teacher</a></strong></p></td>
 <td><center>
 <p>第1名</p>
 </center></td>
@@ -1369,7 +1369,7 @@ CD</p></td>
 <td><p>2018年<br />
 9月19日</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/感傷列車" title="wikilink">感傷列車</a></strong></p></td>
+<td><p><strong><a href="../Page/感傷列車.md" title="wikilink">感傷列車</a></strong></p></td>
 <td><center>
 <p>第1名</p>
 </center></td>
@@ -1390,7 +1390,7 @@ CD</p></td>
 <td><p>54</p></td>
 <td><p>2018年<br />
 11月28日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/NO_WAY_MAN" title="wikilink">NO WAY MAN</a></strong></p></td>
+<td><p><strong><a href="../Page/NO_WAY_MAN.md" title="wikilink">NO WAY MAN</a></strong></p></td>
 <td><center>
 <p>第1名</p>
 </center></td>
@@ -1423,7 +1423,7 @@ CD</p></td>
 <td><p>2019年<br />
 3月13日</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/回憶上心頭DAYS" title="wikilink">回憶上心頭DAYS</a></strong></p></td>
+<td><p><strong><a href="../Page/回憶上心頭DAYS.md" title="wikilink">回憶上心頭DAYS</a></strong></p></td>
 <td><center>
 <p>第1名</p>
 </center></td>
@@ -1699,7 +1699,7 @@ CD</p></td>
 <td><p>5</p></td>
 <td><p>2017年1月25日</p></td>
 <td></td>
-<td><p><em>' <a href="https://zh.wikipedia.org/wiki/點時成菁" title="wikilink">點時成菁</a></em>'</p></td>
+<td><p><em>' <a href="../Page/點時成菁.md" title="wikilink">點時成菁</a></em>'</p></td>
 <td><p>第1名</p></td>
 <td><center>
 <p>15</p>
@@ -2049,7 +2049,7 @@ CD</p></td>
 <td><p>1</p></td>
 <td><p>2012年10月30日</p></td>
 <td><p>Wreck-It Ralph</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/華特迪士尼唱片" title="wikilink">華特迪士尼唱片</a></p></td>
+<td><p><a href="../Page/華特迪士尼唱片.md" title="wikilink">華特迪士尼唱片</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sugar_Rush" title="wikilink">Sugar Rush</a></p></td>
 </tr>
@@ -3407,7 +3407,7 @@ TDV20186D</p></td>
 <tr class="even">
 <td><p>2011年5月4日</p></td>
 <td><p><a href="../Page/來自櫻花的信_～AKB48_各自的畢業故事～.md" title="wikilink">來自櫻花的信 ～AKB48 各自的畢業故事～</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/VAP" title="wikilink">VAP</a></p></td>
+<td><p><a href="../Page/VAP.md" title="wikilink">VAP</a></p></td>
 <td><p>VPBX-14931<br />
 VPBX-14932</p></td>
 <td><p>豪華版DVD-BOX<br />
@@ -3534,7 +3534,7 @@ DVD-BOX</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年4月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陪酒須加學園" title="wikilink">陪酒須加學園</a></p></td>
+<td><p><a href="../Page/陪酒須加學園.md" title="wikilink">陪酒須加學園</a></p></td>
 <td><p>VAP</p></td>
 <td><p>VPXP-71609<br />
 VPBP-14118<br />
@@ -3554,7 +3554,7 @@ Blu-ray BOX</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年2月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/豆腐職業摔角" title="wikilink">豆腐職業摔角</a></p></td>
+<td><p><a href="../Page/豆腐職業摔角.md" title="wikilink">豆腐職業摔角</a></p></td>
 <td><p>波丽佳音</p></td>
 <td><p>BRBP-00069<br />
 BRXP-00014<br />
@@ -4079,7 +4079,7 @@ DVD</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2011年11月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sweet_Answer" title="wikilink">Sweet Answer</a> AKB48認真的挑戰了!</p></td>
+<td><p><a href="../Page/Sweet_Answer.md" title="wikilink">Sweet Answer</a> AKB48認真的挑戰了!</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波麗佳音" title="wikilink">波麗佳音</a></p></td>
 <td><p>PCBE-53861<br />
 PCBE-53862<br />

@@ -528,7 +528,7 @@ Peter Peters <small>(Season 1)</small></p></td>
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/The_X_Factor_Philippines" title="wikilink">The X Factor Philippines</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ABS-CBN" title="wikilink">ABS-CBN</a></p></td>
+<td><p><a href="../Page/ABS-CBN.md" title="wikilink">ABS-CBN</a></p></td>
 <td><p>Season 1, 2012: 即將播出</p></td>
 <td><p>TBA</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KC_Concepcion" title="wikilink">KC Concepcion</a></p></td>

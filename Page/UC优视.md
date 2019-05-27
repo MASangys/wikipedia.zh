@@ -2,7 +2,7 @@
 
 ## 历史
 
-优视科技的两位创始人[梁捷和](https://zh.wikipedia.org/wiki/梁捷 "wikilink")[何小鹏曾经服务于知名电信服务企业](https://zh.wikipedia.org/wiki/何小鹏 "wikilink")，在电信领域非常资深。2003年底他们独立创业后，于2004年8月最早开发了一款手机邮件客户端UCMAIL\[1\]。UCMAIL拥有很灵活的底层架构，支持[HTML](../Page/HTML.md "wikilink")。这就形成了一个开放的接口，直接通过邮件中的链接可以访问互联网上的[網頁](../Page/網頁.md "wikilink")。他们很快发现，虽然产品反响平平，手机用户使用HTML接口访问互联网的需求却异常强烈，因此他们很快决定做一个专门的手机上网工具\[2\]。同月，他们就在UCMAIL的基础上做出了手机浏览器UCWEB。
+优视科技的两位创始人[梁捷和](../Page/梁捷.md "wikilink")[何小鹏曾经服务于知名电信服务企业](../Page/何小鹏.md "wikilink")，在电信领域非常资深。2003年底他们独立创业后，于2004年8月最早开发了一款手机邮件客户端UCMAIL\[1\]。UCMAIL拥有很灵活的底层架构，支持[HTML](../Page/HTML.md "wikilink")。这就形成了一个开放的接口，直接通过邮件中的链接可以访问互联网上的[網頁](../Page/網頁.md "wikilink")。他们很快发现，虽然产品反响平平，手机用户使用HTML接口访问互联网的需求却异常强烈，因此他们很快决定做一个专门的手机上网工具\[2\]。同月，他们就在UCMAIL的基础上做出了手机浏览器UCWEB。
 
 UCWEB在中国第一家拥有了手机浏览器领域的核心技术及完整知识产权，也是世界第二家（早于[Opera
 Mini](../Page/Opera_Mini.md "wikilink")）采用了[主從式架構实现手机浏览](../Page/主從式架構.md "wikilink")[网页的软件](https://zh.wikipedia.org/wiki/网页 "wikilink")\[3\]。

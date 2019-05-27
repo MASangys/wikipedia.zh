@@ -11,10 +11,9 @@
 [NGT48](../Page/NGT48.md "wikilink")
 [MNL48](https://zh.wikipedia.org/wiki/MNL48 "wikilink")
 [BNK48](../Page/BNK48.md "wikilink")
-[AKB48 Team
-SH](https://zh.wikipedia.org/wiki/AKB48_Team_SH "wikilink")
-[MUM48](https://zh.wikipedia.org/wiki/MUM48 "wikilink")
-[SGO48](https://zh.wikipedia.org/wiki/SGO48 "wikilink") }}
+[AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")
+[MUM48](../Page/MUM48.md "wikilink")
+[SGO48](../Page/SGO48.md "wikilink") }}
 
 **NMB48**是[日本大型](../Page/日本.md "wikilink")[女子偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，以其專屬劇場所在的[大阪及](../Page/大阪市.md "wikilink")[關西地方為中心活動](../Page/近畿地方.md "wikilink")，總製作人為作詞家[秋元康](../Page/秋元康.md "wikilink")。於2010年10月正式披露的NMB48是繼[SKE48之後](../Page/SKE48.md "wikilink")，第二個根據[AKB48的概念而創立的](../Page/AKB48.md "wikilink")[地方性姊妹團體](../Page/在地偶像.md "wikilink")，名稱源自專屬劇場所在的大阪市內[商圈](../Page/商圈.md "wikilink")[難波](../Page/難波.md "wikilink")（羅馬拼音為「**N**A**MB**A」）。團體營運者與成員所屬[經紀公司為](../Page/經紀公司.md "wikilink")[吉本興業旗下子公司](../Page/吉本興業.md "wikilink")。
 
@@ -138,7 +137,7 @@ NMB48劇場前身曾是[难波豪华花月的專用劇場](https://zh.wikipedia.
 
 <!-- end list -->
 
-  - 3月26日，第九張單曲《[高山上的蘋果](https://zh.wikipedia.org/wiki/高山上的蘋果 "wikilink")》發售\[22\]。
+  - 3月26日，第九張單曲《[高山上的蘋果](../Page/高山上的蘋果.md "wikilink")》發售\[22\]。
 
 <!-- end list -->
 
@@ -153,7 +152,7 @@ NMB48劇場前身曾是[难波豪华花月的專用劇場](https://zh.wikipedia.
     藝人\!THE](https://zh.wikipedia.org/wiki/NMB48_藝人! "wikilink")
     MOVIE Returns 畢業\!搞笑青春女孩\!\!向全新啟程」上映。
   - 8月13日，第2張專輯『[世界的中心是大阪
-    ～難波自治區～](https://zh.wikipedia.org/wiki/世界的中心是大阪_～難波自治區～ "wikilink")』發售。
+    ～難波自治區～](../Page/世界的中心是大阪_～難波自治區～.md "wikilink")』發售。
   - 11月5日，第十張單曲發售預定\[25\]。
 
 ### 2015年
@@ -172,11 +171,11 @@ NMB48劇場前身曾是[难波豪华花月的專用劇場](https://zh.wikipedia.
   - 2月11日，宣佈在大阪的Zepp NAMBA加開三場『NMB48 Live House Tour 2016
     FINAL』。分別在3月30日（晚上場）和3月31日（下午場和晚上場）舉行\[29\]
   - 2月12日，在本鄉柚巴生誕祭中，宣佈5月7日至8日舉辦應援棒球隊伍[阪神虎的活動](../Page/阪神虎.md "wikilink")－Toraco
-    Day。而[山本彩](../Page/山本彩.md "wikilink")、[藪下柊](https://zh.wikipedia.org/wiki/藪下柊 "wikilink")、[木下春奈和](../Page/木下春奈.md "wikilink")[川上千尋則成為Toraco的應援隊長](https://zh.wikipedia.org/wiki/川上千尋 "wikilink")。\[30\]
+    Day。而[山本彩](../Page/山本彩.md "wikilink")、[藪下柊](https://zh.wikipedia.org/wiki/藪下柊 "wikilink")、[木下春奈和](../Page/木下春奈.md "wikilink")[川上千尋則成為Toraco的應援隊長](../Page/川上千尋.md "wikilink")。\[30\]
     Toraco的意思為支持阪神虎的女子。\[31\]
   - 8月9日，渡邊美優紀畢業。
   - 10月18日，NMB48的6周年Live中發表大組閣，並於2017年1月1日實施；同時[上西惠宣佈畢業](../Page/上西惠.md "wikilink")。
-  - 12月28日，NMB48的第16張單曲《[除我之外的人](https://zh.wikipedia.org/wiki/除我之外的人 "wikilink")》正式發行。
+  - 12月28日，NMB48的第16張單曲《[除我之外的人](../Page/除我之外的人.md "wikilink")》正式發行。
 
 ### 2017年
 
@@ -185,7 +184,7 @@ NMB48劇場前身曾是[难波豪华花月的專用劇場](https://zh.wikipedia.
     What can I do for someone? in
     大阪巨蛋》於[大阪巨蛋舉行](../Page/大阪巨蛋.md "wikilink")。
   - 4月19日，薮下柊毕业。
-  - 8月2日，第3張專輯《[難波愛～現在、想到的事情～](https://zh.wikipedia.org/wiki/難波愛～現在、想到的事情～ "wikilink")》正式發行。
+  - 8月2日，第3張專輯《[難波愛～現在、想到的事情～](../Page/難波愛～現在、想到的事情～.md "wikilink")》正式發行。
   - 8月5日及6日於兵庫縣神戶市世界紀念館舉辦「NMB48 LIVE 2017 in Summer
     還要繼續依賴山本彩嗎？Revenge」「NMB48 LIVE 2017 in
     Summer 最最最最棒了」演唱会，兩場演唱会門票銷售一空，正式達成去年所訂下的目標。
@@ -197,10 +196,10 @@ NMB48劇場前身曾是[难波豪华花月的專用劇場](https://zh.wikipedia.
 
 ### 2018年
 
-  - 4月4日，發行第18張單曲《[欲望者](https://zh.wikipedia.org/wiki/欲望者 "wikilink")》\[36\]。
+  - 4月4日，發行第18張單曲《[欲望者](../Page/欲望者.md "wikilink")》\[36\]。
   - 4月29日，开始招募6期生。
   - 7月30日，在东京中野サンプラザ舉行的「NMB48 LIVE TOUR 2018 in Summer」第一站中。總隊長山本彩宣布毕业。
-  - 10月17日，發行第19張單曲《[即使是我也會哭泣的啊](https://zh.wikipedia.org/wiki/即使是我也會哭泣的啊 "wikilink")》。
+  - 10月17日，發行第19張單曲《[即使是我也會哭泣的啊](../Page/即使是我也會哭泣的啊.md "wikilink")》。
   - 10月27日，于万博記念公園举行[山本彩的毕业演唱会](../Page/山本彩.md "wikilink")。
   - 11月4日，山本彩毕业。同日，山本彩于毕业公演指名小嶋花梨出任次任总队长。\[37\]\[38\]
 
@@ -256,7 +255,7 @@ Team N副隊長</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/磯佳奈江" title="wikilink">磯佳奈江</a></p></td>
+<td><p><a href="../Page/磯佳奈江.md" title="wikilink">磯佳奈江</a></p></td>
 <td></td>
 <td></td>
 <td><p>選秀<br />
@@ -271,7 +270,7 @@ NMB48最年長<br />
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/太田夢莉" title="wikilink">太田夢莉</a></p></td>
+<td><p><a href="../Page/太田夢莉.md" title="wikilink">太田夢莉</a></p></td>
 <td></td>
 <td></td>
 <td><p>3期</p></td>
@@ -294,7 +293,7 @@ NMB48最年長<br />
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/川上千尋" title="wikilink">川上千尋</a></strong></p></td>
+<td><p><strong><a href="../Page/川上千尋.md" title="wikilink">川上千尋</a></strong></p></td>
 <td><p><strong></strong></p></td>
 <td></td>
 <td><p>4期</p></td>
@@ -361,7 +360,7 @@ NMB48最年長<br />
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/村瀨紗英" title="wikilink">村瀨紗英</a></p></td>
+<td><p><a href="../Page/村瀨紗英.md" title="wikilink">村瀨紗英</a></p></td>
 <td></td>
 <td></td>
 <td><p>2期</p></td>
@@ -441,7 +440,7 @@ NMB48最年長<br />
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/石塚朱莉" title="wikilink">石塚朱莉</a></p></td>
+<td><p><a href="../Page/石塚朱莉.md" title="wikilink">石塚朱莉</a></p></td>
 <td></td>
 <td></td>
 <td><p>3期</p></td>
@@ -1573,7 +1572,7 @@ Team BII副隊長</p></td>
 <td><p>-</p></td>
 <td><p>原初代・上枝Team BII<br />
 當日畢業公演[66]<br />
-妹妹為<a href="https://zh.wikipedia.org/wiki/STU48" title="wikilink">STU48成員</a><a href="https://zh.wikipedia.org/wiki/藪下楓" title="wikilink">藪下楓</a>[67]</p></td>
+妹妹為<a href="../Page/STU48.md" title="wikilink">STU48成員</a><a href="https://zh.wikipedia.org/wiki/藪下楓" title="wikilink">藪下楓</a>[67]</p></td>
 <td><p>39</p></td>
 </tr>
 <tr class="odd">
@@ -1733,7 +1732,7 @@ Team BII副隊長</p></td>
 <td><p>script-title=ja:チームM 安藤愛璃菜 卒業公演/今後の活動に関するお知らせ|work=NMB48オフィシャルブログ |date=2018-08-07 |accessdate=2018-08-08}}</ref></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/沖田彩華" title="wikilink">沖田彩華</a></p></td>
+<td><p><a href="../Page/沖田彩華.md" title="wikilink">沖田彩華</a></p></td>
 <td></td>
 <td></td>
 <td><p>1期</p></td>
@@ -3738,7 +3737,7 @@ Team BII研究生清水里香、上西怜、中川美音、水田詩織升格</p
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48集團大組閣祭" title="wikilink">第一次組閣</a></p></td>
+<td><p><a href="../Page/AKB48集團大組閣祭.md" title="wikilink">第一次組閣</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3946,7 +3945,7 @@ CD</p></td>
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>2014年3月26日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/高山上的蘋果" title="wikilink">高山上的蘋果</a></strong><br />
+<td><p><strong><a href="../Page/高山上的蘋果.md" title="wikilink">高山上的蘋果</a></strong><br />
 （）</p></td>
 <td><p>1</p></td>
 <td><center>
@@ -4056,7 +4055,7 @@ CD</p></td>
 <tr class="even">
 <td><p>16</p></td>
 <td><p>2016年12月28日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/除我之外的人" title="wikilink">除我之外的人</a></strong><br />
+<td><p><strong><a href="../Page/除我之外的人.md" title="wikilink">除我之外的人</a></strong><br />
 （）</p></td>
 <td><p>1</p></td>
 <td><center>
@@ -4082,7 +4081,7 @@ CD</p></td>
 <tr class="even">
 <td><p>18</p></td>
 <td><p>2018年4月4日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/欲望者" title="wikilink">欲望者</a></strong></p></td>
+<td><p><strong><a href="../Page/欲望者.md" title="wikilink">欲望者</a></strong></p></td>
 <td><p>1</p></td>
 <td><center>
 <p>17</p>
@@ -4094,7 +4093,7 @@ CD</p></td>
 <tr class="odd">
 <td><p>19</p></td>
 <td><p>2018年10月17日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/即使是我也會哭泣的啊" title="wikilink">即使是我也會哭泣的啊</a></strong><br />
+<td><p><strong><a href="../Page/即使是我也會哭泣的啊.md" title="wikilink">即使是我也會哭泣的啊</a></strong><br />
 （）</p></td>
 <td><p>1</p></td>
 <td><center>
@@ -4203,7 +4202,7 @@ JAPAN<br />
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2014年8月13日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/世界的中心是大阪_～難波自治區～" title="wikilink">世界的中心是大阪 ～難波自治區～</a></strong>[101]<br />
+<td><p><strong><a href="../Page/世界的中心是大阪_～難波自治區～.md" title="wikilink">世界的中心是大阪 ～難波自治區～</a></strong>[101]<br />
 （）</p></td>
 <td><center>
 <p>1</p>
@@ -4221,7 +4220,7 @@ CD</p></td>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2017年8月2日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/難波愛～現在、想到的事情～" title="wikilink">難波愛～現在、想到的事情～</a></strong><br />
+<td><p><strong><a href="../Page/難波愛～現在、想到的事情～.md" title="wikilink">難波愛～現在、想到的事情～</a></strong><br />
 （）</p></td>
 <td><center>
 <p>1</p>
@@ -4388,17 +4387,17 @@ DVD</p></td>
 
 ### 難波撫子
 
-| \#                                                  | 發售日            | 標題                                                              | 唱片編號       |
-| --------------------------------------------------- | -------------- | --------------------------------------------------------------- | ---------- |
-| [VAP](https://zh.wikipedia.org/wiki/VAP "wikilink") |                |                                                                 |            |
-| 1                                                   | 2011年12月27日    | [難波撫子](https://zh.wikipedia.org/wiki/難波撫子#DVD "wikilink") Vol.1 | VPBF-15601 |
-| 2                                                   | 難波撫子 Vol.2     | VPBF-15602                                                      |            |
-| 3                                                   | 難波撫子 Vol.2     | VPBF-15603                                                      |            |
-| 4                                                   | 難波撫子 DVD-BOX 1 | VPBF-15985                                                      |            |
-| 5                                                   | 2012年2月28日     | 難波撫子 Vol.4                                                      | VPBF-15604 |
-| 6                                                   | 難波撫子 Vol.5     | VPBF-15605                                                      |            |
-| 7                                                   | 難波撫子 Vol.6     | VPBF-15606                                                      |            |
-| 8                                                   | 難波撫子 DVD-BOX 2 | VPBF-15990                                                      |            |
+| \#                               | 發售日            | 標題                                                              | 唱片編號       |
+| -------------------------------- | -------------- | --------------------------------------------------------------- | ---------- |
+| [VAP](../Page/VAP.md "wikilink") |                |                                                                 |            |
+| 1                                | 2011年12月27日    | [難波撫子](https://zh.wikipedia.org/wiki/難波撫子#DVD "wikilink") Vol.1 | VPBF-15601 |
+| 2                                | 難波撫子 Vol.2     | VPBF-15602                                                      |            |
+| 3                                | 難波撫子 Vol.2     | VPBF-15603                                                      |            |
+| 4                                | 難波撫子 DVD-BOX 1 | VPBF-15985                                                      |            |
+| 5                                | 2012年2月28日     | 難波撫子 Vol.4                                                      | VPBF-15604 |
+| 6                                | 難波撫子 Vol.5     | VPBF-15605                                                      |            |
+| 7                                | 難波撫子 Vol.6     | VPBF-15606                                                      |            |
+| 8                                | 難波撫子 DVD-BOX 2 | VPBF-15990                                                      |            |
 
 ### NMB48 藝人\!
 
@@ -4744,7 +4743,7 @@ VPXF-75935</p></td>
 <tr class="even">
 <td><p>「遇見你之後我變了」</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/スミス_(映像作家)" title="wikilink">スミス</a></p></td>
-<td><p>AKB48主要34th單曲「<a href="https://zh.wikipedia.org/wiki/倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢、我兀自持續想了好多天最後有點難為情地得到了一個結論" title="wikilink">倘若在梧桐樹的路上<br />
+<td><p>AKB48主要34th單曲「<a href="../Page/倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢、我兀自持續想了好多天最後有點難為情地得到了一個結論.md" title="wikilink">倘若在梧桐樹的路上<br />
 對你說「我夢見了你的微笑」<br />
 之後我們的關係會有什麼樣的變化呢、<br />
 我兀自持續想了好多天<br />
@@ -4753,7 +4752,7 @@ VPXF-75935</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>
-<td><p>「<a href="https://zh.wikipedia.org/wiki/高山上的蘋果" title="wikilink">高山上的蘋果</a>」</p></td>
+<td><p>「<a href="../Page/高山上的蘋果.md" title="wikilink">高山上的蘋果</a>」</p></td>
 <td><p>スミス</p></td>
 <td><p>9th單曲「高山上的蘋果」</p></td>
 </tr>
@@ -4784,7 +4783,7 @@ VPXF-75935</p></td>
 <tr class="even">
 <td><p>「<a href="../Page/伊維薩女孩.md" title="wikilink">伊維薩女孩</a>」</p></td>
 <td></td>
-<td><p>2nd專輯『<a href="https://zh.wikipedia.org/wiki/世界的中心是大阪_～難波自治區～" title="wikilink">世界的中心是大阪 ～難波自治區～</a>』</p></td>
+<td><p>2nd專輯『<a href="../Page/世界的中心是大阪_～難波自治區～.md" title="wikilink">世界的中心是大阪 ～難波自治區～</a>』</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -5028,7 +5027,7 @@ VPXF-75935</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>「<a href="https://zh.wikipedia.org/wiki/除我之外的人" title="wikilink">除我之外的人</a>」</p></td>
+<td><p>「<a href="../Page/除我之外的人.md" title="wikilink">除我之外的人</a>」</p></td>
 <td></td>
 <td><p>16th單曲「除我之外的人」</p></td>
 <td></td>
@@ -5073,12 +5072,12 @@ VPXF-75935</p></td>
 <td><p>2017</p></td>
 <td><p>「午夜的逞強」</p></td>
 <td><p>スミス</p></td>
-<td><p>AKB48 47th單曲「<a href="https://zh.wikipedia.org/wiki/Shoot_Sign" title="wikilink">Shoot Sign</a>」</p></td>
+<td><p>AKB48 47th單曲「<a href="../Page/Shoot_Sign.md" title="wikilink">Shoot Sign</a>」</p></td>
 </tr>
 <tr class="odd">
 <td><p>「竟然是新加坡」</p></td>
 <td></td>
-<td><p>3rd專輯「<a href="https://zh.wikipedia.org/wiki/難波愛～現在、想到的事情～" title="wikilink">難波愛～現在、想到的事情～</a>」</p></td>
+<td><p>3rd專輯「<a href="../Page/難波愛～現在、想到的事情～.md" title="wikilink">難波愛～現在、想到的事情～</a>」</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -5106,42 +5105,42 @@ NMB48與AKB48同样都是人數較多，通常是分為各個小組進行公演�
 
 第5張單曲起組成「難波鐵砲隊」，與「白組」「紅組」同様、是由選拔成員和表題曲一部分進入選拔成員組成，後來以「其之○」和連號數代表，並以此分队成员录制TYPE-C的B面曲。
 
-| 單曲                                                        | 白組         | 紅組       | Under Girls | 難波鐵砲隊             |
-| --------------------------------------------------------- | ---------- | -------- | ----------- | ----------------- |
-| [絕滅黑髮少女](../Page/絕滅黑髮少女.md "wikilink")                    | 我輸了的夏天     | 久等了，新學期  |             |                   |
-| [Oh My God\!](../Page/Oh_My_God!.md "wikilink")           | 結晶         | 捕食者們     |             |                   |
-| [純情U-19](../Page/純情U-19.md "wikilink")                    | 努力的水滴      | 向右轉！     | 每當場所GO\!    |                   |
-| [海岸邊最可愛的女孩！](../Page/海岸邊最可愛的女孩！.md "wikilink")            | 最後的宣洩      | 如果我稍微大膽點 | 不講理Ball     |                   |
-| [Virginity](../Page/Virginity.md "wikilink")              | 我們的帆船賽     | 其實並不存在   |             | 沙滩上的手枪（其之壱）       |
-| [北川謙二](../Page/北川謙二_\(單曲\).md "wikilink")                 | 星空的商隊      | 戀愛被害屆    |             | 冬將軍的遺憾（其之弐）       |
-| [我們的發現](../Page/我們的發現.md "wikilink")                      | 臼齿         | 野蠻的霜淇淋   |             | 在雛壇上發揮不了我的魅力（其之参） |
-| [大蔥鴨們](../Page/大蔥鴨們.md "wikilink")                        | 在傾盆暴雨的青春之中 | 追憶光線     |             | 已經不甘於處於下風了（其之四）   |
-| [高山上的蘋果](https://zh.wikipedia.org/wiki/高山上的蘋果 "wikilink") | 舞会上的恋人     | 打水漂      |             | 到山上去吧（其之伍）        |
-|                                                           |            |          |             |                   |
+| 單曲                                              | 白組         | 紅組       | Under Girls | 難波鐵砲隊             |
+| ----------------------------------------------- | ---------- | -------- | ----------- | ----------------- |
+| [絕滅黑髮少女](../Page/絕滅黑髮少女.md "wikilink")          | 我輸了的夏天     | 久等了，新學期  |             |                   |
+| [Oh My God\!](../Page/Oh_My_God!.md "wikilink") | 結晶         | 捕食者們     |             |                   |
+| [純情U-19](../Page/純情U-19.md "wikilink")          | 努力的水滴      | 向右轉！     | 每當場所GO\!    |                   |
+| [海岸邊最可愛的女孩！](../Page/海岸邊最可愛的女孩！.md "wikilink")  | 最後的宣洩      | 如果我稍微大膽點 | 不講理Ball     |                   |
+| [Virginity](../Page/Virginity.md "wikilink")    | 我們的帆船賽     | 其實並不存在   |             | 沙滩上的手枪（其之壱）       |
+| [北川謙二](../Page/北川謙二_\(單曲\).md "wikilink")       | 星空的商隊      | 戀愛被害屆    |             | 冬將軍的遺憾（其之弐）       |
+| [我們的發現](../Page/我們的發現.md "wikilink")            | 臼齿         | 野蠻的霜淇淋   |             | 在雛壇上發揮不了我的魅力（其之参） |
+| [大蔥鴨們](../Page/大蔥鴨們.md "wikilink")              | 在傾盆暴雨的青春之中 | 追憶光線     |             | 已經不甘於處於下風了（其之四）   |
+| [高山上的蘋果](../Page/高山上的蘋果.md "wikilink")          | 舞会上的恋人     | 打水漂      |             | 到山上去吧（其之伍）        |
+|                                                 |            |          |             |                   |
 
 ## 中心位置
 
-| 單曲                                                                | center                                                                | 備註        |
-| ----------------------------------------------------------------- | --------------------------------------------------------------------- | --------- |
-| [絕滅黑髮少女](../Page/絕滅黑髮少女.md "wikilink")                            | [渡邊美優紀](../Page/渡邊美優紀.md "wikilink")                                  |           |
-| [Oh My God\!](../Page/Oh_My_God!.md "wikilink")                   | [山田菜菜](../Page/山田菜菜.md "wikilink")、[山本彩](../Page/山本彩.md "wikilink")   |           |
-| [純情U-19](../Page/純情U-19.md "wikilink")                            | 山本彩                                                                   |           |
-| [海岸邊最可愛的女孩！](../Page/海岸邊最可愛的女孩！.md "wikilink")                    | 山本彩、渡邊美優紀                                                             |           |
-| [Virginity](../Page/Virginity.md "wikilink")                      | 山本彩                                                                   |           |
-| [北川謙二](../Page/北川謙二.md "wikilink")                                | 山本彩、渡邊美優紀                                                             |           |
-| [我們的發現](../Page/我們的發現.md "wikilink")                              | 山本彩                                                                   |           |
-| [大蔥鴨們](../Page/大蔥鴨們.md "wikilink")                                | 山本彩                                                                   |           |
-| [高山上的蘋果](https://zh.wikipedia.org/wiki/高山上的蘋果 "wikilink")         | 山本彩                                                                   |           |
-| [真不像我](../Page/真不像我.md "wikilink")                                | [白間美瑠](../Page/白間美瑠.md "wikilink")、[矢倉楓子](../Page/矢倉楓子.md "wikilink") |           |
-| [Don't look back\!](../Page/Don't_look_back!.md "wikilink")       | 山田菜菜                                                                  | 山田菜菜畢業單曲  |
-| [榴槤少年](../Page/榴槤少年.md "wikilink")                                | [須藤凜凜花](../Page/須藤凜凜花.md "wikilink")                                  |           |
-| [Must be now](../Page/Must_be_now.md "wikilink")                  | 山本彩                                                                   |           |
-| [輕咬少女](../Page/輕咬少女.md "wikilink")                                | 山本彩                                                                   |           |
-| [我不在](../Page/我不在.md "wikilink")                                  | 渡邊美優紀                                                                 | 渡邊美優紀畢業單曲 |
-| [除我之外的人](https://zh.wikipedia.org/wiki/除我之外的人 "wikilink")         | 山本彩                                                                   |           |
-| [呵呵人类](https://zh.wikipedia.org/wiki/呵呵人类 "wikilink")             | 白間美瑠                                                                  |           |
-| [欲望者](https://zh.wikipedia.org/wiki/欲望者 "wikilink")               | 山本彩                                                                   |           |
-| [即使是我也會哭泣的啊](https://zh.wikipedia.org/wiki/即使是我也會哭泣的啊 "wikilink") | 山本彩                                                                   | 山本彩畢業單曲   |
+| 單曲                                                          | center                                                                | 備註        |
+| ----------------------------------------------------------- | --------------------------------------------------------------------- | --------- |
+| [絕滅黑髮少女](../Page/絕滅黑髮少女.md "wikilink")                      | [渡邊美優紀](../Page/渡邊美優紀.md "wikilink")                                  |           |
+| [Oh My God\!](../Page/Oh_My_God!.md "wikilink")             | [山田菜菜](../Page/山田菜菜.md "wikilink")、[山本彩](../Page/山本彩.md "wikilink")   |           |
+| [純情U-19](../Page/純情U-19.md "wikilink")                      | 山本彩                                                                   |           |
+| [海岸邊最可愛的女孩！](../Page/海岸邊最可愛的女孩！.md "wikilink")              | 山本彩、渡邊美優紀                                                             |           |
+| [Virginity](../Page/Virginity.md "wikilink")                | 山本彩                                                                   |           |
+| [北川謙二](../Page/北川謙二.md "wikilink")                          | 山本彩、渡邊美優紀                                                             |           |
+| [我們的發現](../Page/我們的發現.md "wikilink")                        | 山本彩                                                                   |           |
+| [大蔥鴨們](../Page/大蔥鴨們.md "wikilink")                          | 山本彩                                                                   |           |
+| [高山上的蘋果](../Page/高山上的蘋果.md "wikilink")                      | 山本彩                                                                   |           |
+| [真不像我](../Page/真不像我.md "wikilink")                          | [白間美瑠](../Page/白間美瑠.md "wikilink")、[矢倉楓子](../Page/矢倉楓子.md "wikilink") |           |
+| [Don't look back\!](../Page/Don't_look_back!.md "wikilink") | 山田菜菜                                                                  | 山田菜菜畢業單曲  |
+| [榴槤少年](../Page/榴槤少年.md "wikilink")                          | [須藤凜凜花](../Page/須藤凜凜花.md "wikilink")                                  |           |
+| [Must be now](../Page/Must_be_now.md "wikilink")            | 山本彩                                                                   |           |
+| [輕咬少女](../Page/輕咬少女.md "wikilink")                          | 山本彩                                                                   |           |
+| [我不在](../Page/我不在.md "wikilink")                            | 渡邊美優紀                                                                 | 渡邊美優紀畢業單曲 |
+| [除我之外的人](../Page/除我之外的人.md "wikilink")                      | 山本彩                                                                   |           |
+| [呵呵人类](https://zh.wikipedia.org/wiki/呵呵人类 "wikilink")       | 白間美瑠                                                                  |           |
+| [欲望者](../Page/欲望者.md "wikilink")                            | 山本彩                                                                   |           |
+| [即使是我也會哭泣的啊](../Page/即使是我也會哭泣的啊.md "wikilink")              | 山本彩                                                                   | 山本彩畢業單曲   |
 
 ## 音樂合作
 
@@ -5270,7 +5269,7 @@ CM：フェザー安全剃刀「NMB48×FEATHER SamraiEdge」<br />
 <td><p><strong>君と出会って僕は変わった</strong></p></td>
 <td><p>CM：<a href="https://zh.wikipedia.org/wiki/H.I.S." title="wikilink">H.I.S.</a>『初夢フェア〈沖縄・札幌、ハワイ・グアム、ソウル・台北〉篇』<br />
 CM：クラスモ「NMB48がいるお部屋」篇・「NMB48・理想のお部屋」篇</p></td>
-<td><p>AKB48 34th單曲「<a href="https://zh.wikipedia.org/wiki/倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢、我兀自持續想了好多天最後有點難為情地得到了一個結論" title="wikilink">倘若在梧桐樹的路上<br />
+<td><p>AKB48 34th單曲「<a href="../Page/倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢、我兀自持續想了好多天最後有點難為情地得到了一個結論.md" title="wikilink">倘若在梧桐樹的路上<br />
 對你說「我夢見了你的微笑」之後<br />
 我們的關係會有什麼樣的變化呢、我兀自持續想了好多天<br />
 最後有點難為情地得到了一個結論</a>」</p></td>
@@ -5282,7 +5281,7 @@ CM：ジャンボカラオケ広場<br />
 關西電視台（關西地區）『NMB和學習君』2014年3月6日 - 6月19日結尾曲<br />
 <a href="https://zh.wikipedia.org/wiki/100%ヒッツ!スペースシャワーTVプラス" title="wikilink">スペースシャワーTVプラス</a>『<a href="https://zh.wikipedia.org/wiki/NMB48山本彩のM-姉_〜ミュージックお姉さん〜" title="wikilink">NMB48山本彩のM-姉 〜ミュージックお姉さん〜</a>』2014年4月18日 - 7月4日結尾曲<br />
 <a href="https://zh.wikipedia.org/wiki/BSスカパー!" title="wikilink">BSスカパー!</a>『IDOL REVUE「NMB48のナイショで限界突破!」』2014年4月23日 - 結尾曲</p></td>
-<td><p>9th單曲「<a href="https://zh.wikipedia.org/wiki/高山上的蘋果" title="wikilink">高山上的蘋果</a>」</p></td>
+<td><p>9th單曲「<a href="../Page/高山上的蘋果.md" title="wikilink">高山上的蘋果</a>」</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>伊維薩女孩</strong></p></td>
@@ -5290,7 +5289,7 @@ CM：ジャンボカラオケ広場<br />
 關西電視台（關西地區）『NMB和學習君』2014年6月26日 - 結尾曲<br />
 關西電視台（關西地區）『<a href="https://zh.wikipedia.org/wiki/NMBのめっちゃバイト" title="wikilink">NMBのめっちゃバイト</a>』2014年7月8日 - 結尾曲<br />
 スペースシャワーTVプラス『NMB48山本彩のM-姉 〜ミュージックお姉さん〜』2014年7月11日 - 結尾曲</p></td>
-<td><p>2nd專輯「<a href="https://zh.wikipedia.org/wiki/世界的中心是大阪_～難波自治區～" title="wikilink">世界的中心是大阪 ～難波自治區～</a>」</p></td>
+<td><p>2nd專輯「<a href="../Page/世界的中心是大阪_～難波自治區～.md" title="wikilink">世界的中心是大阪 ～難波自治區～</a>」</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>゛生徒手帳の写真は気に入っていない゛の法則</strong></p></td>
@@ -5565,8 +5564,7 @@ CM：ジャンボカラオケ広場<br />
     2014](../Page/NMB48_重溫時間_最佳曲目50_2014.md "wikilink")
     - 1.「[杏仁羊角麵包計劃](https://zh.wikipedia.org/wiki/尖端頂點之上! "wikilink")」,
     2.「[拉鏈](../Page/Team_N_3rd_Stage「天使在這裡」.md "wikilink")」,
-    3.「[去爬山吧](https://zh.wikipedia.org/wiki/高山上的蘋果 "wikilink")」
-    （2014年5月21日 -
+    3.「[去爬山吧](../Page/高山上的蘋果.md "wikilink")」 （2014年5月21日 -
     22日、[オリックス劇場](https://zh.wikipedia.org/wiki/オリックス劇場 "wikilink")）\[123\]
 
 #### AKB48名義
@@ -5634,7 +5632,7 @@ CM：ジャンボカラオケ広場<br />
 ### 現場活動
 
   - Visit Zoo宣傳活動應援企劃 AKB48 東京秋祭 supported by
-    （2010年10月9日、[葛西臨海公園](https://zh.wikipedia.org/wiki/葛西臨海公園 "wikilink")）
+    （2010年10月9日、[葛西臨海公園](../Page/葛西臨海公園.md "wikilink")）
 
   - （2011年4月11日、[ワールド記念ホール](https://zh.wikipedia.org/wiki/ワールド記念ホール "wikilink")）
     - Team N（除了山本彩・渡邊之外）・太田・山口
@@ -5661,7 +5659,7 @@ CM：ジャンボカラオケ広場<br />
     加藤・小谷・上西・山本彩・吉田・白間・藤江・村瀬・矢倉・山田・市川・梅田・門脇・渋谷・薮下・渡辺
 
   - AOMORI SHOKU ON
-    2014（2014年9月27日、[青森港新中央埠頭](https://zh.wikipedia.org/wiki/青森港 "wikilink")
+    2014（2014年9月27日、[青森港新中央埠頭](../Page/青森港.md "wikilink")
     特設ステージ） - 加藤・小谷・上西・山本彩・吉田・白間・藤江・村瀬・矢倉・山田・市川・梅田・門脇・渋谷・薮下・渡辺
 
   - RSK秋フェス2014 お祭りキングダム「LIVE KINGDOM」（2014年11月8日（予定）、コンベックス岡山 大展示場）

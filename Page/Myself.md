@@ -1,12 +1,12 @@
-《**Myself**》是臺灣歌手[蔡依林的第十一張](../Page/蔡依林.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，由[華納音樂於](../Page/華納音樂_\(台灣\).md "wikilink")2010年8月13日發行。該專輯區別以往走向，快歌在專輯整體中的比重佔有八成；專輯中的歌曲《[美人計](https://zh.wikipedia.org/wiki/美人計_\(歌曲\) "wikilink")》、《無言以對》與《玩愛之徒》於[Hit
+《**Myself**》是臺灣歌手[蔡依林的第十一張](../Page/蔡依林.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，由[華納音樂於](../Page/華納音樂_\(台灣\).md "wikilink")2010年8月13日發行。該專輯區別以往走向，快歌在專輯整體中的比重佔有八成；專輯中的歌曲《[美人計](../Page/美人計_\(歌曲\).md "wikilink")》、《無言以對》與《玩愛之徒》於[Hit
 FM年度百首單曲排行榜分別位居第](../Page/Hit_FM聯播網.md "wikilink")1名、第20名與第55名\[1\]\[2\]；該專輯於臺灣擁有超過6.5萬張的銷量，使蔡依林登上臺灣年度唱片銷量排行榜第4名，亦使其七度登上臺灣年度唱片銷量排行榜女歌手冠軍\[3\]；翌年5月憑藉專輯中的歌曲《美人計》MV入圍[第22屆臺灣金曲獎](https://zh.wikipedia.org/wiki/第22屆金曲獎 "wikilink")[最佳音樂錄影帶獎](../Page/最佳音樂錄影帶獎_\(金曲獎\).md "wikilink")\[4\]。该专辑於2010年10月29日發行改版「Take
 2 – Dance with Me 奢華慶功影音4D版」。
 
 ## 簡介
 
-臺灣歌手[蔡依林的第十一張](../Page/蔡依林.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《Myself》由[華納音樂於](../Page/華納音樂_\(台灣\).md "wikilink")2010年8月13日發行，該專輯包含八首舞曲與兩首重節拍的舞曲式節奏情歌，為體現該專輯的整體性，五段串場音樂穿插於歌曲之間達到前後呼應的效果\[5\]。舞曲一直是蔡依林最喜歡的音樂類型，舞曲既能表現蔡依林的個性態度，現場表演又能燃燒觀眾的熱情\[6\]。專輯名稱「Myself」不只是口號，而是代表這是一張濃縮蔡依林所有想法的專輯\[7\]。專輯的第一主打歌曲《[美人計](https://zh.wikipedia.org/wiki/美人計_\(歌曲\) "wikilink")》由英國音樂人Danielle
+臺灣歌手[蔡依林的第十一張](../Page/蔡依林.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《Myself》由[華納音樂於](../Page/華納音樂_\(台灣\).md "wikilink")2010年8月13日發行，該專輯包含八首舞曲與兩首重節拍的舞曲式節奏情歌，為體現該專輯的整體性，五段串場音樂穿插於歌曲之間達到前後呼應的效果\[5\]。舞曲一直是蔡依林最喜歡的音樂類型，舞曲既能表現蔡依林的個性態度，現場表演又能燃燒觀眾的熱情\[6\]。專輯名稱「Myself」不只是口號，而是代表這是一張濃縮蔡依林所有想法的專輯\[7\]。專輯的第一主打歌曲《[美人計](../Page/美人計_\(歌曲\).md "wikilink")》由英國音樂人Danielle
 Senior與加拿大音樂人Scott
-Wild共同創作，蔡依林首度嘗試念唱方式，展現有別於以往的低沉性感唱腔；该歌曲MV由韓國導演[車恩澤執導](https://zh.wikipedia.org/wiki/车恩泽 "wikilink")，製作費達到3百萬新臺幣\[8\]，之後蔡依林於媒體訪問中對該歌曲MV的拍攝成果表示些許不滿，並表示可能因為與導演溝通不足導致拍攝成功與預期具有差異\[9\]，該歌曲MV於翌年5月入圍[第22屆臺灣金曲獎](https://zh.wikipedia.org/wiki/第22屆金曲獎 "wikilink")[最佳音樂錄影帶獎](../Page/最佳音樂錄影帶獎_\(金曲獎\).md "wikilink")\[10\]。專輯的第二主打歌曲《玩愛之徒》由曾與蔡依林密切合作的丹麥音樂人Lars
+Wild共同創作，蔡依林首度嘗試念唱方式，展現有別於以往的低沉性感唱腔；该歌曲MV由韓國導演[車恩澤執導](../Page/车恩泽.md "wikilink")，製作費達到3百萬新臺幣\[8\]，之後蔡依林於媒體訪問中對該歌曲MV的拍攝成果表示些許不滿，並表示可能因為與導演溝通不足導致拍攝成功與預期具有差異\[9\]，該歌曲MV於翌年5月入圍[第22屆臺灣金曲獎](https://zh.wikipedia.org/wiki/第22屆金曲獎 "wikilink")[最佳音樂錄影帶獎](../Page/最佳音樂錄影帶獎_\(金曲獎\).md "wikilink")\[10\]。專輯的第二主打歌曲《玩愛之徒》由曾與蔡依林密切合作的丹麥音樂人Lars
 Quang、Nik Quang、Gabriel Ssezibwa與Rene
 Prang共同創作，該歌曲是蔡依林最愛亦是最想嘗試的中板[歐陸舞曲式情歌](https://zh.wikipedia.org/wiki/歐陸舞曲 "wikilink")；該歌曲MV由紐西蘭模特兒[錦榮參與出演](../Page/錦榮.md "wikilink")\[11\]。專輯的第三主打歌曲《無言以對》由曾與蔡依林合作過歌曲《特務J》的音樂人黃晟峰與梁錦興共同創作，該歌曲是蔡依林首度嘗試的都市[節奏藍調情歌](../Page/节奏布鲁斯.md "wikilink")，並兼顧流行傳唱與創新抒情。專輯的第四主打歌曲《七上八下》由音樂人[小安創作](../Page/小安.md "wikilink")，該歌曲帶有的異域風情搭配蔡依林拿捏得到的性感唱腔，表現男女之間的曖昧情愫\[12\]。專輯的第五主打歌曲《即時生效》由音樂人黃晟峰與梁錦興共同創作，是一首中版甜蜜歌曲，輕快的節奏讓人不自覺地想跟著翩翩起舞\[13\]。專輯的第六主打歌曲《小傷口》由音樂人饒善強與葛大為共同創作，該歌曲的歌詞簡單易懂且讓人十分有同感和共鳴，是一首描繪情傷的抒情歌曲\[14\]。專輯的第七主打歌曲《黑髮尤物》由瑞典音樂人Jonas
 Saeed與Pia
@@ -21,7 +21,7 @@ You》的韓國音樂人趙賢哲創作，歌曲名稱由「男子漢」演变�
 
 | 歌曲名稱                                               | 導演                                                  | 首播日期                                     | 首播媒介                                         | YouTube觀看人次                         | 附註                                                                                                                |
 | -------------------------------------------------- | --------------------------------------------------- | ---------------------------------------- | -------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| [美人計](http://www.youtube.com/watch?v=cLlndV2SwX0)  | [車恩澤](https://zh.wikipedia.org/wiki/车恩泽 "wikilink") | 2010年7月27日                               | [Channel V](../Page/Channel_V.md "wikilink") | 突破**1000萬**人次                       | 入圍[第22屆臺灣金曲獎](https://zh.wikipedia.org/wiki/第22屆金曲獎 "wikilink")[最佳音樂錄影帶獎](../Page/最佳音樂錄影帶獎_\(金曲獎\).md "wikilink") |
+| [美人計](http://www.youtube.com/watch?v=cLlndV2SwX0)  | [車恩澤](../Page/车恩泽.md "wikilink")                    | 2010年7月27日                               | [Channel V](../Page/Channel_V.md "wikilink") | 突破**1000萬**人次                       | 入圍[第22屆臺灣金曲獎](https://zh.wikipedia.org/wiki/第22屆金曲獎 "wikilink")[最佳音樂錄影帶獎](../Page/最佳音樂錄影帶獎_\(金曲獎\).md "wikilink") |
 | [玩愛之徒](http://www.youtube.com/watch?v=A9vhXjxMQWg) | 賴偉康                                                 | 2010年8月9日                                | 突破**200萬**人次                                 | MV出演：[錦榮](../Page/錦榮.md "wikilink") |                                                                                                                   |
 | [無言以對](http://www.youtube.com/watch?v=WAQL4pw4Nx4) | [比爾賈](https://zh.wikipedia.org/wiki/比爾賈 "wikilink") | 2010年8月19日                               | [中天綜合台](../Page/中天綜合台.md "wikilink")         | 突破**400萬**人次                        |                                                                                                                   |
 | [七上八下](http://www.youtube.com/watch?v=2-eZdgFFYfg) | 賴偉康                                                 | 2010年9月1日                                | Channel V                                    | 突破**300萬**人次                        |                                                                                                                   |
@@ -96,7 +96,7 @@ You》的韓國音樂人趙賢哲創作，歌曲名稱由「男子漢」演变�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/第22屆金曲獎" title="wikilink">第22屆臺灣金曲獎</a></p></td>
 <td><p><a href="../Page/最佳音樂錄影帶獎_(金曲獎).md" title="wikilink">最佳音樂錄影帶獎</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/美人計_(歌曲)" title="wikilink">美人計</a>》－<a href="https://zh.wikipedia.org/wiki/车恩泽" title="wikilink">車恩澤</a></p></td>
+<td><p>《<a href="../Page/美人計_(歌曲).md" title="wikilink">美人計</a>》－<a href="../Page/车恩泽.md" title="wikilink">車恩澤</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -104,8 +104,8 @@ You》的韓國音樂人趙賢哲創作，歌曲名稱由「男子漢」演变�
 
 ## 爭議事件
 
-該專輯意欲表現蔡依林時尚的態度，同時蔡依林為專輯第一主打歌曲《[美人計](https://zh.wikipedia.org/wiki/美人計_\(歌曲\) "wikilink")》向美國編舞師Benny
-Ninja學習因美國歌手[瑪丹娜而聞名的舞蹈](../Page/麥當娜.md "wikilink")[Voguing](https://zh.wikipedia.org/wiki/Vogue_\(舞蹈\) "wikilink")，故該專輯的正式名稱原本定為「Vogue」\[19\]，但該名稱之後被唱片公司[華納音樂發現已被登記註冊](../Page/華納音樂_\(台灣\).md "wikilink")，為避免法律責任而選擇將該專輯名稱改為「Vogueing」\[20\]，之後媒體指出該英文單字拼寫錯誤，華納音樂表示於英文單字「vogue」後直接添加「ing」實則強調[英語文法中的](../Page/英語語法.md "wikilink")[現在式時態](../Page/現在式.md "wikilink")\[21\]，之後華納音樂為避免過多非議而最終確定使用「Myself」作為專輯的正式名稱，強調自我的概念\[22\]。
+該專輯意欲表現蔡依林時尚的態度，同時蔡依林為專輯第一主打歌曲《[美人計](../Page/美人計_\(歌曲\).md "wikilink")》向美國編舞師Benny
+Ninja學習因美國歌手[瑪丹娜而聞名的舞蹈](../Page/麥當娜.md "wikilink")[Voguing](../Page/Vogue_\(舞蹈\).md "wikilink")，故該專輯的正式名稱原本定為「Vogue」\[19\]，但該名稱之後被唱片公司[華納音樂發現已被登記註冊](../Page/華納音樂_\(台灣\).md "wikilink")，為避免法律責任而選擇將該專輯名稱改為「Vogueing」\[20\]，之後媒體指出該英文單字拼寫錯誤，華納音樂表示於英文單字「vogue」後直接添加「ing」實則強調[英語文法中的](../Page/英語語法.md "wikilink")[現在式時態](../Page/現在式.md "wikilink")\[21\]，之後華納音樂為避免過多非議而最終確定使用「Myself」作為專輯的正式名稱，強調自我的概念\[22\]。
 
 ## 參考資料
 

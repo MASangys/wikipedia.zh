@@ -1,5 +1,5 @@
 《**GANTZ
-殺戮都市**》**二部曲**，是2011年由[佐藤信介執導](https://zh.wikipedia.org/wiki/佐藤信介 "wikilink")，改編自[奧浩哉原作](https://zh.wikipedia.org/wiki/奧浩哉 "wikilink")[同名漫畫的](https://zh.wikipedia.org/wiki/GANTZ "wikilink")[日本電影](https://zh.wikipedia.org/wiki/日本電影 "wikilink")。由[二宮和也及](../Page/二宮和也.md "wikilink")[松山研一主演](../Page/松山研一.md "wikilink")。
+殺戮都市**》**二部曲**，是2011年由[佐藤信介執導](../Page/佐藤信介.md "wikilink")，改編自[奧浩哉原作](../Page/奧浩哉.md "wikilink")[同名漫畫的](https://zh.wikipedia.org/wiki/GANTZ "wikilink")[日本電影](https://zh.wikipedia.org/wiki/日本電影 "wikilink")。由[二宮和也及](../Page/二宮和也.md "wikilink")[松山研一主演](../Page/松山研一.md "wikilink")。
 
 ## 概要
 
@@ -60,8 +60,8 @@ PERFECT ANSWER』會在5月12日上映。台灣方面則在2011年3月18日上�
 
 ## 工作人員
 
-  - 原作：[奧浩哉](https://zh.wikipedia.org/wiki/奧浩哉 "wikilink")
-  - 導演：[佐藤信介](https://zh.wikipedia.org/wiki/佐藤信介 "wikilink")
+  - 原作：[奧浩哉](../Page/奧浩哉.md "wikilink")
+  - 導演：[佐藤信介](../Page/佐藤信介.md "wikilink")
   - 編劇：[渡邊雄介](https://zh.wikipedia.org/wiki/渡邊雄介 "wikilink")
   - 原創音樂：[川井憲次](../Page/川井憲次.md "wikilink") 「Sound of GANTZ」，「Sound of
     GANTZ PERFECT ANSWER」
@@ -73,7 +73,7 @@ PERFECT ANSWER』會在5月12日上映。台灣方面則在2011年3月18日上�
   - 特攝組導演：[神谷誠](https://zh.wikipedia.org/wiki/神谷誠 "wikilink")
   - 動作導演：[下村勇二](https://zh.wikipedia.org/wiki/下村勇二 "wikilink")
   - 執行導演：[李相國](https://zh.wikipedia.org/wiki/李相國 "wikilink")
-  - 攝影指導：[河津太郎](https://zh.wikipedia.org/wiki/河津太郎 "wikilink") (JSC)
+  - 攝影指導：[河津太郎](../Page/河津太郎.md "wikilink") (JSC)
   - 剪接：[今井剛](https://zh.wikipedia.org/wiki/今井剛 "wikilink")
   - 音響總監：横野一氏工
   - 美術指導：原田恭明
@@ -93,7 +93,7 @@ PERFECT ANSWER』會在5月12日上映。台灣方面則在2011年3月18日上�
   - 鳴謝：神戸電影辦事處、[東京臨海高速鐵道](../Page/東京臨海高速鐵道.md "wikilink")
   - 出品：(C)2011 [「GANTZ」FILM
     PARTNERS](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（[日本電視放送網](https://zh.wikipedia.org/wiki/日本電視放送網 "wikilink")、[集英社](../Page/集英社.md "wikilink")、[東寶株式會社](https://zh.wikipedia.org/wiki/東寶株式會社 "wikilink")、[J
-    Storm](../Page/J_Storm.md "wikilink")、[Horipro](../Page/Horipro.md "wikilink")、[VAP](https://zh.wikipedia.org/wiki/VAP "wikilink")、[讀賣電視台](../Page/讀賣電視台.md "wikilink")、[讀賣新聞](../Page/讀賣新聞.md "wikilink")、[日活](../Page/日活.md "wikilink")
+    Storm](../Page/J_Storm.md "wikilink")、[Horipro](../Page/Horipro.md "wikilink")、[VAP](../Page/VAP.md "wikilink")、[讀賣電視台](../Page/讀賣電視台.md "wikilink")、[讀賣新聞](../Page/讀賣新聞.md "wikilink")、[日活](../Page/日活.md "wikilink")
     / 札幌テレビ放送/宮城テレビ放送/静岡第一テレビ/中京テレビ放送/広島テレビ放送/福岡放送）
 
 ## 與原作的不同之處

@@ -104,7 +104,7 @@ Fun**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是
 <td><p>12月21日</p></td>
 <td><p><a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a>、<a href="../Page/賈曉晨.md" title="wikilink">賈曉晨</a>、<br />
 <a href="../Page/王志安.md" title="wikilink">王志安</a>@<a href="../Page/EO2.md" title="wikilink">EO2</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/彭懷安" title="wikilink">彭懷安</a>@<a href="../Page/EO2.md" title="wikilink">EO2</a></p></td>
+<a href="../Page/彭懷安.md" title="wikilink">彭懷安</a>@<a href="../Page/EO2.md" title="wikilink">EO2</a></p></td>
 <td><p>斜塔汽水</p></td>
 <td><p><a href="../Page/EO2.md" title="wikilink">Otto</a>、<a href="../Page/EO2.md" title="wikilink">Eddie</a></p></td>
 <td><p>2個（失敗）</p></td>
@@ -257,11 +257,9 @@ Fun**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是
   - 《[千奇百趣省港澳](../Page/千奇百趣省港澳.md "wikilink")》
   - 《[千奇百趣高B班](../Page/千奇百趣高B班.md "wikilink")》
   - 《[千奇百趣東南亞](../Page/千奇百趣東南亞.md "wikilink")》
-  - 《[千奇百趣玩FREE
-    D](https://zh.wikipedia.org/wiki/千奇百趣玩FREE_D "wikilink")》
-  - 《[千奇百趣玩HIGH
-    D](https://zh.wikipedia.org/wiki/千奇百趣玩HIGH_D "wikilink")》
-  - 《[千奇百趣特工隊](https://zh.wikipedia.org/wiki/千奇百趣特工隊 "wikilink")》
+  - 《[千奇百趣玩FREE D](../Page/千奇百趣玩FREE_D.md "wikilink")》
+  - 《[千奇百趣玩HIGH D](../Page/千奇百趣玩HIGH_D.md "wikilink")》
+  - 《[千奇百趣特工隊](../Page/千奇百趣特工隊.md "wikilink")》
 
 ## 記事
 

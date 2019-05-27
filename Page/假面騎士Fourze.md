@@ -1999,7 +1999,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
     聽過奏樂的人心智會持續處於亢奮狀態而不能自拔。
     琴音能夠和天文裝置產生共鳴，「超新星」後令共鳴的訊號增幅。
 
-**[水瓶座Zodiarts](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")（）**（CV：／香港配音：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")、替身演員：）
+**[水瓶座Zodiarts](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")（）**（CV：／香港配音：[葉曉欣](../Page/葉曉欣.md "wikilink")、替身演員：）
 
   -
     本體身份：[艾妮露須田](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Switcher "wikilink")、[立神吼](https://zh.wikipedia.org/wiki/假面騎士Fourze#主要登場人物 "wikilink")、[我望光明](https://zh.wikipedia.org/wiki/假面騎士Fourze#主要登場人物 "wikilink")
@@ -2541,7 +2541,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>-{zh-hk:學・生・選・拔;zh-tw:星・徒・選・拔;zh-cn:星・徒・选・拔;zh-sg:星・徒・选・拔}-</p></td>
 <td></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/水瓶座" title="wikilink">水瓶座Zodiarts</a>（CV：／香港配音：<a href="https://zh.wikipedia.org/wiki/葉曉欣" title="wikilink">葉曉欣</a>)</li>
+<li><a href="https://zh.wikipedia.org/wiki/水瓶座" title="wikilink">水瓶座Zodiarts</a>（CV：／香港配音：<a href="../Page/葉曉欣.md" title="wikilink">葉曉欣</a>)</li>
 </ul></td>
 <td><p>5.8%</p></td>
 <td><p><a href="../Page/三條陸.md" title="wikilink">三條陸</a></p></td>
@@ -2723,7 +2723,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
   - **《[假面騎士x超級戰隊x宇宙刑事
     超級英雄大戰Z](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊x宇宙刑事_超級英雄大戰Z "wikilink")》**
   - 《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》（2017年12月9日上映）
+    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
 
 ### 映像商品化
 
@@ -2868,7 +2868,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
 作詞：[香蕉哥哥](../Page/香蕉哥哥.md "wikilink") / 作曲： /
 編曲：[西瓜哥哥](../Page/西瓜哥哥.md "wikilink") /
-歌：[草莓姐姐](https://zh.wikipedia.org/wiki/草莓姐姐 "wikilink")
+歌：[草莓姐姐](../Page/草莓姐姐.md "wikilink")
 
   - 『**幪面超人Switch On！**』（香港版）\[16\]
 
@@ -2986,7 +2986,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 1.  在OOO最終話ED時曾出現手握天文裝置的歌星和城島二人，顯見兩部作品之關聯性。
 2.  《假面騎士Fourze》最終話時操真晴人出現在大文字隼對風城美羽求婚。
 3.  之後於2017年上映的《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀
+    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀
 4.  在第22話中曾以此攻擊處女座
 5.  特攝Newtype THE LIVE 2011年10月號。
 6.  S 是代表Super，S-1 只是強化後的No.1 Rocket Switch。

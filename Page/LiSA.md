@@ -2,7 +2,7 @@
 is Same
 All」的主唱。個人的獨特魅力和搖滾曲風令她倍受矚目。演唱歌曲也被用作許多知名[動畫的主題曲](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，如《[刀劍神域I](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")/II/OVA/III》、《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》《[Angel
 Beats](https://zh.wikipedia.org/wiki/Angel_Beats "wikilink")》以及《[魔法科高中的劣等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")》。現時LiSA唱片公司為[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂.md "wikilink")[SACRA
-MUSIC公司](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。
+MUSIC公司](../Page/SACRA_MUSIC.md "wikilink")。
 
 ## 事業
 
@@ -29,7 +29,7 @@ Expo](../Page/Anime_Expo.md "wikilink")，第一次在[美國演出](https://zh.
 field》在2012年8月8日發售，是人氣動畫《[刀劍神域](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》的主題曲，此單曲拿过Oricon日榜单冠军，在周榜初登场获得了5位的成绩，在榜时间长达半年，先后出货量突破10万枚。2013年4月3日，第三張單曲《best
 day, best
 way》發售。第四張單曲《träumerei》同年8月7日發售，是TV動畫《[穿透幻影的太陽](https://zh.wikipedia.org/wiki/穿透幻影的太陽 "wikilink")》的主題曲。LiSA在2013年10月30日發表第二張個人專輯《Landspace》。同年11月22日，日本動漫音樂雜誌
-[Lis Ani\!](https://zh.wikipedia.org/wiki/Lis_Ani! "wikilink") （Listen
+[Lis Ani\!](../Page/Lis_Ani!.md "wikilink") （Listen
 Anime的縮寫）為LiSA出版了一本[寫真集](https://zh.wikipedia.org/wiki/寫真集 "wikilink")《今日もいい日だっ》，裡面收入了Lis
 Ani\!從LiSA出道以來照的照片，以及介紹LiSA的家鄉、時裝打扮和喜歡的音樂，食物等等的文章。為了宣傳此寫真集，[Anime
 Festival
@@ -65,7 +65,7 @@ Round》，同时也是[电视动畫](https://zh.wikipedia.org/wiki/电视动画
 -序列爭戰-](https://zh.wikipedia.org/wiki/刀劍神域劇場版_-序列爭戰- "wikilink")》主題曲的訊息，同時也宣布了2017年6月的ARENA巡迴計畫。
 
 2017年4月，由原先[Aniplex移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/Aniplex.md "wikilink")[SACRA
-MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")，並宣布創立自有品牌YAEVA
+MUSIC](../Page/SACRA_MUSIC.md "wikilink")，並宣布創立自有品牌YAEVA
 MUSIC。2017年6月24日，LiSA在さいたまスーパーアリーナ舉辦的巡迴演唱會中度過了生日，主辦單位在[安可曲後](../Page/安可.md "wikilink")，請來小小兵慶祝LiSA生日，並由全場粉絲一同唱起生日快樂歌，同時也宣布了LiSA將參與小小兵電影的[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")[配音工作](../Page/配音.md "wikilink")。2017年8月30日，為了慶祝[中國將於](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")9月15日上映《[刀劍神域劇場版
 -序列爭戰-](https://zh.wikipedia.org/wiki/刀劍神域劇場版_-序列爭戰- "wikilink")》，LiSA挑戰了[中文演唱主題曲](https://zh.wikipedia.org/wiki/中文 "wikilink")《Catch
 the
@@ -204,7 +204,7 @@ MAX和[台中迴響音樂藝文展演空間舉辦](https://zh.wikipedia.org/wiki
 | 9th      | 2015年9月30日  | ****                                                                                                    | SVWC-70104〜6 | SVWC-70102/3   | SVWC-70107 |
 | \*       | 2015年12月2日  | ****                                                                                                    | 網路配信無實體光碟    |                |            |
 | 10th     | 2016年8月24日  | ****                                                                                                    | SVWC-70183〜4 | SVWC-70181\~2  | SVWC-70185 |
-| 11th     | 2017年2月15日  | **[Catch the Moment](https://zh.wikipedia.org/wiki/Catch_the_Moment "wikilink")**                       | SVWC-70235   | SVWC-70233/4   | SVWC-70236 |
+| 11th     | 2017年2月15日  | **[Catch the Moment](../Page/Catch_the_Moment.md "wikilink")**                                          | SVWC-70235   | SVWC-70233/4   | SVWC-70236 |
 | 12th     | 2017年8月2日   | ****                                                                                                    | VVCL-1070    | VVCL-1067～1068 | VVCL-1069  |
 | 13th     | 2017年11月29日 | ****                                                                                                    | VVCL-1133/4  | VVCL-1130/1    | VVCL-1132  |
 | \*       | 2018年1月9日   | ****                                                                                                    | 網路配信無實體光碟    |                |            |
@@ -296,7 +296,7 @@ VVCL-1042/3 (CD+DVD)</p></td>
 | 印記（Shirushi）            | 電視動畫《[刀劍神域II](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》第三片尾曲                                             |
 | THIS ILLUSION           | 電視動畫《[Fate/stay night \[Unlimited Blade Works](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")\]》插入曲 |
 | Rally Go Round          | 電視動畫《[偽戀:](../Page/偽戀.md "wikilink")》片頭曲                                                                       |
-| ID                      | 遊戲《[電擊文庫 FIGHTING CLIMAX IGNITION](https://zh.wikipedia.org/wiki/電擊文庫_FIGHTING_CLIMAX "wikilink")》主題曲          |
+| ID                      | 遊戲《[電擊文庫 FIGHTING CLIMAX IGNITION](../Page/電擊文庫_FIGHTING_CLIMAX.md "wikilink")》主題曲                             |
 | Brave Freak Out         | 電視動畫《[Qualidea Code](../Page/Qualidea_Code.md "wikilink")》片頭曲                                                  |
 | AxxxiS                  |                                                                                                                |
 | Catch the Moment        | 動畫電影《[刀劍神域劇場版 -序列爭戰-](https://zh.wikipedia.org/wiki/刀劍神域劇場版_-序列爭戰- "wikilink")》主題曲                             |
@@ -304,7 +304,7 @@ VVCL-1042/3 (CD+DVD)</p></td>
 | ASH                     | 電視動畫《[Fate/Apocrypha](https://zh.wikipedia.org/wiki/Fate/Apocrypha "wikilink")》第二片頭曲                           |
 | Thrill, Risk, Heartless | 遊戲《[刀劍神域：奪命凶彈](https://zh.wikipedia.org/wiki/刀劍神域_奪命凶彈 "wikilink")》主題曲                                         |
 | ADAMAS                  | 電視動畫《[刀劍神域 Alicization 篇](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片頭曲                                   |
-| narrative               | 動畫電影《[機動戰士鋼彈 NT](https://zh.wikipedia.org/wiki/机动战士GUNDAM_NT "wikilink")》主題歌 \[3\]                             |
+| narrative               | 動畫電影《[機動戰士鋼彈 NT](../Page/机动战士GUNDAM_NT.md "wikilink")》主題歌 \[3\]                                                |
 | 紅蓮華                     | 電視動畫《[鬼滅之刃](../Page/鬼滅之刃.md "wikilink")》片頭曲                                                                    |
 
 ### 映像作品

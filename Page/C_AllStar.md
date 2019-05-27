@@ -5,7 +5,7 @@ Cappella**）為人所熟悉。其音樂作品以[廣東歌為主](https://zh.wi
 AllFans**」。
 
 **C AllStar**
-眾多歌曲當中最為人熟悉的《**[天梯](https://zh.wikipedia.org/wiki/天梯_\(歌曲\) "wikilink")**》是第三十三屆[十大中文金曲頒獎音樂會十大金曲之一](../Page/十大中文金曲頒獎音樂會.md "wikilink")，是同年度唯一獲金曲獎的新人組合。截至2018年9月，《[**天梯**](https://www.youtube.com/watch?v=eBvarz3DY00)》原裝MV在[YouTube的點擊率超過](../Page/YouTube.md "wikilink")1800萬次，成為千禧年後原創廣東歌之冠。往後亦有不少歌手重唱此曲，當中包括：[張智霖](../Page/張智霖.md "wikilink")、[蘇永康](../Page/蘇永康.md "wikilink")、[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")、[泳兒](../Page/泳兒.md "wikilink")、[關淑怡](../Page/關淑怡.md "wikilink")、[陳柏宇](../Page/陳柏宇.md "wikilink")、[周柏豪](../Page/周柏豪.md "wikilink")、[林欣彤等](../Page/林欣彤.md "wikilink")。
+眾多歌曲當中最為人熟悉的《**[天梯](../Page/天梯_\(歌曲\).md "wikilink")**》是第三十三屆[十大中文金曲頒獎音樂會十大金曲之一](../Page/十大中文金曲頒獎音樂會.md "wikilink")，是同年度唯一獲金曲獎的新人組合。截至2018年9月，《[**天梯**](https://www.youtube.com/watch?v=eBvarz3DY00)》原裝MV在[YouTube的點擊率超過](../Page/YouTube.md "wikilink")1800萬次，成為千禧年後原創廣東歌之冠。往後亦有不少歌手重唱此曲，當中包括：[張智霖](../Page/張智霖.md "wikilink")、[蘇永康](../Page/蘇永康.md "wikilink")、[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")、[泳兒](../Page/泳兒.md "wikilink")、[關淑怡](../Page/關淑怡.md "wikilink")、[陳柏宇](../Page/陳柏宇.md "wikilink")、[周柏豪](../Page/周柏豪.md "wikilink")、[林欣彤等](../Page/林欣彤.md "wikilink")。
 
 ## 成員
 
@@ -14,7 +14,7 @@ AllFans**」。
 [吳崇銘](../Page/吳崇銘.md "wikilink")（，），中學時期就讀北大附中（北京大學附屬中學深圳分校），大學畢業於[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")[私立華聯學院音樂系](https://zh.wikipedia.org/wiki/私立華聯學院 "wikilink")。
 在組合中擔任主唱、高音和唱及[Beatbox](https://zh.wikipedia.org/wiki/Beatbox "wikilink")。主唱歌曲包括《大雨傾城》（未被收錄在任何專輯）、《直到你肯定》、《混沌》。其中《混沌》是他第一首擔任作曲和編曲的作品。近年開始創作[電子舞曲](../Page/電子舞曲.md "wikilink")（Electronic
 Dance Music (簡稱：EDM)）音樂，《請勿靠近車門》是他第一首為專輯《生於斯》創作的電子音樂間奏作品。
-2016年獲邀參與拍攝一齣澳門電影《[那一年，我17](https://zh.wikipedia.org/wiki/那一年，我17 "wikilink")》\[3\]，在電影中擔任第二男主角。
+2016年獲邀參與拍攝一齣澳門電影《[那一年，我17](../Page/那一年，我17.md "wikilink")》\[3\]，在電影中擔任第二男主角。
 2017年於內地荔枝音樂節以[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")
 身份演出，被大會稱為「亞洲十大華人DJ 及 亞洲電音王子」\[4\]。在10月C
 AllStar於紅館舉辦之演唱會中負責為所有舞蹈表演的音樂重新編曲，更以**DJ
@@ -46,7 +46,7 @@ Crew**\>\[7\]。在2014年與[歐陽耀沖組成](https://zh.wikipedia.org/wiki/
 ### 梁釗峰（釗峰）
 
 [梁釗峰](../Page/梁釗峰.md "wikilink")（，），中學曾就讀香港[聖若瑟書院](../Page/聖若瑟書院.md "wikilink")，2009年曾到[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[清華大學當交換生](https://zh.wikipedia.org/wiki/清華大學 "wikilink")，2010年畢業於[香港城市大學市場營銷學系](../Page/香港城市大學.md "wikilink")。
-在組合中多擔任主唱或和音。釗峰在隊中的主唱歌曲包括《[天梯](https://zh.wikipedia.org/wiki/天梯_\(歌曲\) "wikilink")》、《別讓小島沉沒》、《少數》、《下靶》，並曾以爵士樂形式翻唱[陳奕迅的](../Page/陳奕迅.md "wikilink")《裙下之臣》。他也曾在TVB[無綫電視多回合淘汰音樂比赛](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[超級巨聲3](../Page/超級巨聲3.md "wikilink")》\[10\]中被香港著名音樂人[倫永亮當面稱讚](../Page/倫永亮.md "wikilink")，指他唱歌富有感情，並說到會繼續追隨他們的歌。而《下靶》是他包辦曲詞的處男作。
+在組合中多擔任主唱或和音。釗峰在隊中的主唱歌曲包括《[天梯](../Page/天梯_\(歌曲\).md "wikilink")》、《別讓小島沉沒》、《少數》、《下靶》，並曾以爵士樂形式翻唱[陳奕迅的](../Page/陳奕迅.md "wikilink")《裙下之臣》。他也曾在TVB[無綫電視多回合淘汰音樂比赛](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[超級巨聲3](../Page/超級巨聲3.md "wikilink")》\[10\]中被香港著名音樂人[倫永亮當面稱讚](../Page/倫永亮.md "wikilink")，指他唱歌富有感情，並說到會繼續追隨他們的歌。而《下靶》是他包辦曲詞的處男作。
 釗峰曾為[香港科技園](https://zh.wikipedia.org/wiki/香港科技園 "wikilink")2016《如果變成果廣告》、[Apple
 Inc](https://zh.wikipedia.org/wiki/Apple_Inc "wikilink") 《[IPad
 Pro](../Page/IPad_Pro.md "wikilink") 2017》…等多個廣告配音。
@@ -141,7 +141,7 @@ AllStar
 2014年3月23日，他們舉行首個紅館演唱會 —《C AllStar
 我們的胡士托演唱會》。演唱會中更被表演嘉賓之一[側田稱讚他們是繼](../Page/側田.md "wikilink")[温拿樂隊後](https://zh.wikipedia.org/wiki/温拿樂隊 "wikilink")，香港發展最成功的一對男子組合。3月21日推出首張新曲+精選專輯《[時日如飛
 C
-AllCollection](https://zh.wikipedia.org/wiki/時日如飛_C_AllCollection "wikilink")》，銷情十分理想，連續兩週進佔香港唱片商會銷售榜第一位。首波主打歌曲《時日如飛》派台隨即得到各大電台肯定，成為C
+AllCollection](../Page/時日如飛_C_AllCollection.md "wikilink")》，銷情十分理想，連續兩週進佔香港唱片商會銷售榜第一位。首波主打歌曲《時日如飛》派台隨即得到各大電台肯定，成為C
 AllStar的首支四台冠軍歌曲。5月份他們派上一首講述親情的作品《家書》，感動不少樂迷。8月1日，推出了歷來第二張演唱會專輯《[C
 AllStar 我們的胡士托演唱會
 CD](https://zh.wikipedia.org/wiki/C_AllStar_我們的胡士托演唱會_CD "wikilink")》。同日，C
@@ -476,7 +476,7 @@ Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/時日如飛_C_AllCollection" title="wikilink">時日如飛 C AllCollection</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/時日如飛_C_AllCollection.md" title="wikilink">時日如飛 C AllCollection</a></p></td>
 <td style="text-align: left;"><p>新曲+精選</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/私人国" title="wikilink">私人国</a><br />
 <a href="https://zh.wikipedia.org/wiki/寰亞唱片" title="wikilink">寰亞唱片</a></p></td>
@@ -560,7 +560,7 @@ Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得
 <li>-{后}-會無期（Feat. 梁詠琪）</li>
 <li>逾越生死</li>
 <li>時間之光 - On@C AllStar x 鄭秀文</li>
-<li><a href="https://zh.wikipedia.org/wiki/守望時光" title="wikilink">守望時光</a>（Remix）</li>
+<li><a href="../Page/守望時光.md" title="wikilink">守望時光</a>（Remix）</li>
 <li>日暮途遠</li>
 <li>靈魂進化 EDM Mix（New）</li>
 </ol></td>
@@ -966,7 +966,7 @@ Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/守望時光" title="wikilink">守望時光</a>》</strong></p></td>
+<td><p><strong>《<a href="../Page/守望時光.md" title="wikilink">守望時光</a>》</strong></p></td>
 <td><p>「香港心理衛生會60周年」<br />
 主題曲<br />
 </p></td>
@@ -1074,7 +1074,7 @@ Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得
 | Cantopopsibility                                                                        |
 | Cantopopsibility                                                                        |
 | **2014年**                                                                               |
-| [時日如飛 C AllCollection](https://zh.wikipedia.org/wiki/時日如飛_C_AllCollection "wikilink")   |
+| [時日如飛 C AllCollection](../Page/時日如飛_C_AllCollection.md "wikilink")                      |
 | 時日如飛 C AllCollection                                                                    |
 | 時日如飛 C AllCollection                                                                    |
 | [生於斯](../Page/生於斯.md "wikilink")                                                        |
@@ -1132,15 +1132,15 @@ Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得
 
 ### 2011年度
 
-  - [2011勁歌金曲優秀選第一回](https://zh.wikipedia.org/wiki/2011年勁歌金曲優秀選第一回得獎名單 "wikilink")
-    - 得獎歌曲《天梯》
+  - [2011勁歌金曲優秀選第一回](../Page/2011年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
+    得獎歌曲《天梯》
   - 《壹週刊》健康第壹大獎2011 - 十大健康之星
   - [2011年CASH金帆音樂獎](../Page/2011年CASH金帆音樂獎.md "wikilink") - 最佳合唱演繹《天梯》
   - [2011年CASH金帆音樂獎](../Page/2011年CASH金帆音樂獎.md "wikilink") - 最佳旋律《天梯》
   - [2011年CASH金帆音樂獎](../Page/2011年CASH金帆音樂獎.md "wikilink") - 最佳歌曲《天梯》
   - 2011年度全球華人金曲獎 - 年度最佳新组合《Make It Happen》
-  - [2011勁歌金曲優秀選第三回](https://zh.wikipedia.org/wiki/2011年勁歌金曲優秀選第三回得獎名單 "wikilink")
-    - 得獎歌曲《別讓小島沉沒》
+  - [2011勁歌金曲優秀選第三回](../Page/2011年勁歌金曲優秀選第三回得獎名單.md "wikilink") -
+    得獎歌曲《別讓小島沉沒》
   - [YAHOO\!搜尋人氣大獎2011](../Page/2011年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") -
     本地音樂組合
   - [YAHOO\!搜尋人氣大獎2011](../Page/2011年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") -
@@ -1168,8 +1168,8 @@ Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得
 
 ### 2012年度
 
-  - [2012勁歌金曲優秀選第二回](https://zh.wikipedia.org/wiki/2012年勁歌金曲優秀選第二回得獎名單 "wikilink")
-    - 得獎歌曲《少數》
+  - [2012勁歌金曲優秀選第二回](../Page/2012年勁歌金曲優秀選第二回得獎名單.md "wikilink") -
+    得獎歌曲《少數》
   - [2012年度新城國語力頒獎禮](../Page/2012年度新城國語力頒獎禮得獎名單.md "wikilink") -
     新城國語力歌曲《天梯》
   - [2012年度新城國語力頒獎禮](../Page/2012年度新城國語力頒獎禮得獎名單.md "wikilink") - 新城國語力組合
@@ -1224,8 +1224,8 @@ Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得
   - 加拿大至HIT中文歌曲排行榜2013年度總選 - 全國推崇粵語组合
   - [2013年度勁歌金曲頒獎典禮](../Page/2013年度勁歌金曲得獎名單.md "wikilink") - 勁歌金曲獎
     第十九位《薄情歌》
-  - [IFPI香港唱片銷量大獎2013](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒獎禮2013 "wikilink")
-    - 最暢銷本地現場錄製音像出品《2012 C AllLive》
+  - [IFPI香港唱片銷量大獎2013](../Page/IFPI香港唱片銷量大獎頒獎禮2013.md "wikilink") -
+    最暢銷本地現場錄製音像出品《2012 C AllLive》
 
 ### 2014年度
 
@@ -1275,8 +1275,8 @@ Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得
 
   - [2015勁歌金曲優秀選第一回](../Page/2015年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
     得獎歌曲《煙花非花》（與[鍾鎮濤合唱](../Page/鍾鎮濤.md "wikilink")）
-  - [2015勁歌金曲優秀選第二回](https://zh.wikipedia.org/wiki/2015年勁歌金曲優秀選第二回得獎名單 "wikilink")
-    - 得獎歌曲《逾越生死》
+  - [2015勁歌金曲優秀選第二回](../Page/2015年勁歌金曲優秀選第二回得獎名單.md "wikilink") -
+    得獎歌曲《逾越生死》
   - [2015年度勁歌金曲頒獎禮](../Page/2015年度勁歌金曲得獎名單.md "wikilink") - 最佳樂隊組合獎 金獎
   - [2015年度勁歌金曲頒獎禮](../Page/2015年度勁歌金曲得獎名單.md "wikilink") - 勁歌金曲獎《逾越生死》
   - [新城勁爆頒獎禮2015](../Page/2015年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆卡拉OK歌曲
@@ -1297,71 +1297,57 @@ Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得
 
 ### 2016年度
 
-  - [2016勁歌金曲優秀選第一回](https://zh.wikipedia.org/wiki/2016年勁歌金曲優秀選第一回得獎名單 "wikilink")
-    - 得獎歌曲《夜幕天星》
-  - [2016勁歌金曲優秀選第二回](https://zh.wikipedia.org/wiki/2016年勁歌金曲優秀選第二回得獎名單 "wikilink")
-    - 得獎歌曲《專業失戀30年》
-  - [第11屆「勁歌王」全球華人樂壇音樂盛典](https://zh.wikipedia.org/wiki/第11屆「勁歌王」全球華人樂壇音樂盛典獲獎名單 "wikilink")
+  - [2016勁歌金曲優秀選第一回](../Page/2016年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
+    得獎歌曲《夜幕天星》
+  - [2016勁歌金曲優秀選第二回](../Page/2016年勁歌金曲優秀選第二回得獎名單.md "wikilink") -
+    得獎歌曲《專業失戀30年》
+  - [第11屆「勁歌王」全球華人樂壇音樂盛典](../Page/第11屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink")
     - 粵語金曲獎《專業失戀30年》
-  - [第11屆「勁歌王」全球華人樂壇音樂盛典](https://zh.wikipedia.org/wiki/第11屆「勁歌王」全球華人樂壇音樂盛典獲獎名單 "wikilink")
+  - [第11屆「勁歌王」全球華人樂壇音樂盛典](../Page/第11屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink")
     - 最受歡迎組合（香港區）
-  - [新城勁爆頒獎禮2016](https://zh.wikipedia.org/wiki/2016年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 勁爆歌曲《聲音騷了》
-  - [新城勁爆頒獎禮2016](https://zh.wikipedia.org/wiki/2016年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 勁爆組合 金獎
+  - [新城勁爆頒獎禮2016](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆歌曲《聲音騷了》
+  - [新城勁爆頒獎禮2016](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆組合 金獎
   - [2016年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")
     - 專業推介叱咤十大 第四位《聲音騷了》
   - [2016年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")
     - 叱咤樂壇組合 金獎
-  - [第三十九屆十大中文金曲頒獎音樂會](https://zh.wikipedia.org/wiki/第三十九屆十大中文金曲得獎名單 "wikilink")
-    - 優秀流行歌手大獎
-  - [第三十九屆十大中文金曲頒獎音樂會](https://zh.wikipedia.org/wiki/第三十九屆十大中文金曲得獎名單 "wikilink")
-    - 全年最佳樂隊/組合獎 銀獎
-  - [2016年度勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/2016年度勁歌金曲得獎名單 "wikilink")
-    - 最佳組合獎 金獎
-  - [2016年度勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/2016年度勁歌金曲得獎名單 "wikilink")
-    - 勁歌金曲獎《專業失戀30年》
+  - [第三十九屆十大中文金曲頒獎音樂會](../Page/第三十九屆十大中文金曲得獎名單.md "wikilink") - 優秀流行歌手大獎
+  - [第三十九屆十大中文金曲頒獎音樂會](../Page/第三十九屆十大中文金曲得獎名單.md "wikilink") -
+    全年最佳樂隊/組合獎 銀獎
+  - [2016年度勁歌金曲頒獎典禮](../Page/2016年度勁歌金曲得獎名單.md "wikilink") - 最佳組合獎 金獎
+  - [2016年度勁歌金曲頒獎典禮](../Page/2016年度勁歌金曲得獎名單.md "wikilink") -
+    勁歌金曲獎《專業失戀30年》
   - 最受歡迎品牌頒獎典禮2016 - 最有廣告價值藝人獎
 
 ### 2017年度
 
   - 香港服務大獎2017頒獎典禮 - 慈善之星
-  - [2017勁歌金曲優秀選第一回](https://zh.wikipedia.org/wiki/2017年勁歌金曲優秀選第一回得獎名單 "wikilink")
-    - 得獎歌曲《一刻戀上》
+  - [2017勁歌金曲優秀選第一回](../Page/2017年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
+    得獎歌曲《一刻戀上》
   - 第17屆華語音樂傳媒大獎 - 年度粵語專輯大獎《生於斯》
-  - [2017勁歌金曲優秀選第二回](https://zh.wikipedia.org/wiki/2017年勁歌金曲優秀選第二回得獎名單 "wikilink")
-    - 得獎歌曲《此刻無價》
-  - [YAHOO\!人氣大獎2017
-    頒獎典禮](https://zh.wikipedia.org/wiki/2017年度YAHOO!搜尋人氣大獎得獎名單 "wikilink")
+  - [2017勁歌金曲優秀選第二回](../Page/2017年勁歌金曲優秀選第二回得獎名單.md "wikilink") -
+    得獎歌曲《此刻無價》
+  - [YAHOO\!人氣大獎2017 頒獎典禮](../Page/2017年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")
     - 人氣MV《一刻戀上》
-  - [YAHOO\!人氣大獎2017
-    頒獎典禮](https://zh.wikipedia.org/wiki/2017年度YAHOO!搜尋人氣大獎得獎名單 "wikilink")
+  - [YAHOO\!人氣大獎2017 頒獎典禮](../Page/2017年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")
     - 本地音樂組合
-  - [第四十屆十大中文金曲](https://zh.wikipedia.org/wiki/第四十屆十大中文金曲得獎名單 "wikilink")
-    - 十大中文金曲《兄兄我我》
-  - [第四十屆十大中文金曲](https://zh.wikipedia.org/wiki/第四十屆十大中文金曲得獎名單 "wikilink")
-    - 全年最佳樂隊/組合獎 銅獎
-  - [新城勁爆頒獎禮2017](https://zh.wikipedia.org/wiki/2017年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 勁爆歌曲《一刻戀上》
-  - [新城勁爆頒獎禮2017](https://zh.wikipedia.org/wiki/2017年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 勁爆組合
-  - [2017年度勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/2017年度勁歌金曲得獎名單 "wikilink")
-    - 最佳樂隊組合獎 金獎
-  - [2017年度勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/2017年度勁歌金曲得獎名單 "wikilink")
-    - 勁歌金曲獎《一刻戀上》
+  - [第四十屆十大中文金曲](../Page/第四十屆十大中文金曲得獎名單.md "wikilink") - 十大中文金曲《兄兄我我》
+  - [第四十屆十大中文金曲](../Page/第四十屆十大中文金曲得獎名單.md "wikilink") - 全年最佳樂隊/組合獎 銅獎
+  - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆歌曲《一刻戀上》
+  - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆組合
+  - [2017年度勁歌金曲頒獎典禮](../Page/2017年度勁歌金曲得獎名單.md "wikilink") - 最佳樂隊組合獎 金獎
+  - [2017年度勁歌金曲頒獎典禮](../Page/2017年度勁歌金曲得獎名單.md "wikilink") - 勁歌金曲獎《一刻戀上》
   - [2017年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2017年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")
     - 叱咤樂壇組合 銅獎
 
 ### 2018年度
 
   - 音樂先鋒榜頒獎典禮2018 - 最傑出組合獎
-  - [2018
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2018_CASH金帆音樂獎 "wikilink")
-    - 最佳合唱演繹《再不再見》
-  - [第四十一屆十大中文金曲](https://zh.wikipedia.org/wiki/第四十一屆十大中文金曲得獎名單 "wikilink")
-    - 最佳中文唱片獎（組合）《生於 C AllStar 演唱會》
-  - [KKBOX香港風雲榜](https://zh.wikipedia.org/wiki/KKBOX香港風雲榜 "wikilink") -
-    十大風雲歌手
+  - [2018 CASH金帆音樂獎](../Page/2018_CASH金帆音樂獎.md "wikilink") -
+    最佳合唱演繹《再不再見》
+  - [第四十一屆十大中文金曲](../Page/第四十一屆十大中文金曲得獎名單.md "wikilink") -
+    最佳中文唱片獎（組合）《生於 C AllStar 演唱會》
+  - [KKBOX香港風雲榜](../Page/KKBOX香港風雲榜.md "wikilink") - 十大風雲歌手
 
 ## 演唱會、音樂會\[17\]
 
@@ -2037,7 +2023,7 @@ Happy Birthday，小蘋果，星海，時日如飛，愛是最大權利，天梯
 <tbody>
 <tr class="odd">
 <td><p>2014年</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/區區有鬼故" title="wikilink">區區有鬼故</a><br />
+<td><p><strong><a href="../Page/區區有鬼故.md" title="wikilink">區區有鬼故</a><br />
 [35]</strong><br />
 </p></td>
 <td><p>C AllStar<br />
@@ -2060,7 +2046,7 @@ C AllStar</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/手語隨想曲" title="wikilink">手語隨想曲</a><br />
+<td><p><strong><a href="../Page/手語隨想曲.md" title="wikilink">手語隨想曲</a><br />
 第五輯[37]</strong></p></td>
 <td><p>(<a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a>)<br />
 飾演<br />
@@ -2138,7 +2124,7 @@ C AllStar</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/那一年，我17" title="wikilink">那一年，我17</a><br />
+<td><p><strong><a href="../Page/那一年，我17.md" title="wikilink">那一年，我17</a><br />
 (Our 17) [41]</strong></p></td>
 <td><p><a href="../Page/吳崇銘.md" title="wikilink">吳崇銘</a> - 楊偉 Peter (第二男主角)<br />
 <a href="../Page/陳健安.md" title="wikilink">陳健安</a> - 澳門警察 (客串)<br />
@@ -2315,7 +2301,7 @@ in Concert 2014》<br />
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/C_AllStar泰空曼遊" title="wikilink">C AllStar<br />
+<td><p><strong><a href="../Page/C_AllStar泰空曼遊.md" title="wikilink">C AllStar<br />
 泰空曼遊</a></strong><br />
 [50]</p></td>
 <td><p>4集</p></td>
@@ -2367,7 +2353,7 @@ in Concert 2014》<br />
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/千奇百趣玩HIGH_D" title="wikilink">千奇百趣玩HIGH D</a>》</strong></p></td>
+<td><p><strong>《<a href="../Page/千奇百趣玩HIGH_D.md" title="wikilink">千奇百趣玩HIGH D</a>》</strong></p></td>
 <td><p>第11集</p></td>
 <td><p>嘉賓</p></td>
 <td><p>C AllStar 勝出</p></td>
@@ -2447,7 +2433,7 @@ Jase模仿<a href="https://zh.wikipedia.org/wiki/陳小春" title="wikilink">陳
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/街坊廚神舌戰東京" title="wikilink">街坊廚神舌戰東京</a>》</strong></p></td>
+<td><p><strong>《<a href="../Page/街坊廚神舌戰東京.md" title="wikilink">街坊廚神舌戰東京</a>》</strong></p></td>
 <td><p>第7集</p></td>
 <td><p>嘉賓</p></td>
 <td><p>在學廚PK賽中 與主持隊打和</p></td>
@@ -2461,7 +2447,7 @@ Jase模仿<a href="https://zh.wikipedia.org/wiki/陳小春" title="wikilink">陳
 <td><p>主題：「星星」的嗜好，「星星」的夢想</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/千奇百趣特工隊" title="wikilink">千奇百趣特工隊</a>》</strong></p></td>
+<td><p><strong>《<a href="../Page/千奇百趣特工隊.md" title="wikilink">千奇百趣特工隊</a>》</strong></p></td>
 <td><p>第17集</p></td>
 <td><p>嘉賓</p></td>
 <td><p>分組：<br />
@@ -2539,7 +2525,7 @@ On仔 &amp; <a href="../Page/關楚耀.md" title="wikilink">關楚耀</a>，<br 
 (On仔)</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/Good_Night_Show_全民星戰" title="wikilink">全民星戰</a>》</strong></p></td>
+<td><p><strong>《<a href="../Page/Good_Night_Show_全民星戰.md" title="wikilink">全民星戰</a>》</strong></p></td>
 <td><p>第22集</p></td>
 <td><p>嘉賓<br />
 (On仔)</p></td>
@@ -2553,7 +2539,7 @@ On仔 &amp; <a href="../Page/關楚耀.md" title="wikilink">關楚耀</a>，<br 
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/Good_Night_Show_全民星戰" title="wikilink">全民造星總決賽</a>》</strong></p></td>
+<td><p><strong>《<a href="../Page/Good_Night_Show_全民星戰.md" title="wikilink">全民造星總決賽</a>》</strong></p></td>
 <td><p>-</p></td>
 <td><p>表演嘉賓</p></td>
 <td></td>

@@ -65,8 +65,7 @@
     ver.)](https://zh.wikipedia.org/wiki/守護你_〜White_Wishes〜 "wikilink")**
     (作詞・作曲：BoA / 編曲：Gakushi)
       - 30th單曲B面曲的專輯版本。
-11. **Possibility duet with
-    [三浦大知](https://zh.wikipedia.org/wiki/三浦大知 "wikilink")**
+11. **Possibility duet with [三浦大知](../Page/三浦大知.md "wikilink")**
       -
         作詞・作曲：[Nao'ymt](https://zh.wikipedia.org/wiki/Nao'ymt "wikilink")
     <!-- end list -->

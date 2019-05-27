@@ -1,5 +1,4 @@
-AKG Acoustics
-是[哈曼国际工业旗下的部门](https://zh.wikipedia.org/wiki/哈曼国际工业 "wikilink")，成立于1947年。
+AKG Acoustics 是[哈曼国际工业旗下的部门](../Page/哈曼国际工业.md "wikilink")，成立于1947年。
 
 ## 历史
 

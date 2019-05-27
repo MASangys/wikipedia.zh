@@ -123,8 +123,8 @@ D介子於1976年在[SLAC
 
 ## 另見
 
-  - [介子列表](https://zh.wikipedia.org/wiki/介子列表 "wikilink")
-  - [重子列表](https://zh.wikipedia.org/wiki/重子列表 "wikilink")
+  - [介子列表](../Page/介子列表.md "wikilink")
+  - [重子列表](../Page/重子列表.md "wikilink")
   - [粒子列表](../Page/粒子列表.md "wikilink")
   - [粒子發現年表](https://zh.wikipedia.org/wiki/粒子發現年表 "wikilink")
 

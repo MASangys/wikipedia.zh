@@ -1,4 +1,4 @@
-**SIMON**是一款由所研製及生產的城市作戰破[門用途](https://zh.wikipedia.org/wiki/門_\(建築部件\) "wikilink")[22毫米](https://zh.wikipedia.org/wiki/22毫米槍榴彈 "wikilink")[槍榴彈](../Page/步槍用榴彈.md "wikilink")。它可以給[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")，例如[M4卡賓槍使用](../Page/M4卡賓槍.md "wikilink")。
+**SIMON**是一款由所研製及生產的城市作戰破[門用途](https://zh.wikipedia.org/wiki/門_\(建築部件\) "wikilink")[22毫米](../Page/22毫米槍榴彈.md "wikilink")[槍榴彈](../Page/步槍用榴彈.md "wikilink")。它可以給[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")，例如[M4卡賓槍使用](../Page/M4卡賓槍.md "wikilink")。
 
 [Simon_bg.jpg](https://zh.wikipedia.org/wiki/File:Simon_bg.jpg "fig:Simon_bg.jpg")
 
@@ -43,11 +43,11 @@ SIMON槍榴彈還有一種衍生型號也可以人手將其直接貼在門上使
 
   - [城鎮戰](../Page/城鎮戰.md "wikilink")、[近身距離作戰](../Page/近身距離作戰.md "wikilink")
 
-  - [步槍兵突擊武器](https://zh.wikipedia.org/wiki/步槍兵突擊武器 "wikilink")
+  - [步槍兵突擊武器](../Page/步槍兵突擊武器.md "wikilink")
 
   - [M234防暴彈發射器](../Page/M234防暴彈發射器.md "wikilink")
 
-  - [22毫米槍榴彈](https://zh.wikipedia.org/wiki/22毫米槍榴彈 "wikilink")
+  - [22毫米槍榴彈](../Page/22毫米槍榴彈.md "wikilink")
 
 ## 資料來源
 

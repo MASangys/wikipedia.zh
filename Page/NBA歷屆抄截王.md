@@ -9,7 +9,7 @@ NBA赛季共抢断](https://zh.wikipedia.org/wiki/1985-86_NBA赛季 "wikilink")3
 NBA赛季的抢断次数最多](../Page/2007-08_NBA赛季.md "wikilink")，达217次，他还在[2008-09
 NBA赛季平均每场比赛抢断](../Page/2008-09_NBA赛季.md "wikilink")2.77次，同样超过其他现役球员。
 
-保罗是获抢断王称号次数最多的球员，共有六次。[迈克尔·雷·理查德森](https://zh.wikipedia.org/wiki/迈克尔·雷·理查德森 "wikilink")、罗伯逊、[迈克尔·乔丹和](../Page/迈克尔·乔丹.md "wikilink")[艾伦·艾佛森均以三次并列第二](https://zh.wikipedia.org/wiki/艾伦·艾佛森 "wikilink")。此外只有[魔术师约翰逊](../Page/魔术师约翰逊.md "wikilink")、[穆奇·布雷洛克](../Page/穆奇·布雷洛克.md "wikilink")、[贝伦·戴维斯和](https://zh.wikipedia.org/wiki/贝伦·戴维斯 "wikilink")[约翰·斯托克顿曾多次获抢助王称号](https://zh.wikipedia.org/wiki/约翰·斯托克顿 "wikilink")（均为两次）。保罗曾连续四次获抢断王头衔，同样超过其他球员。\[4\]历史上共有三位球员在同一赛季拿下抢断王称号的同时还带领球队赢得[总冠军](https://zh.wikipedia.org/wiki/NBA总冠军列表 "wikilink")，分别是[里克·巴里于](../Page/里克·巴里.md "wikilink")[1975年带领](https://zh.wikipedia.org/wiki/1975年NBA总决赛 "wikilink")[金州勇士打入决赛](../Page/金州勇士.md "wikilink")，魔术师约翰逊于[1982年带领](https://zh.wikipedia.org/wiki/1982年NBA总决赛 "wikilink")[洛杉矶湖人进入决赛](https://zh.wikipedia.org/wiki/洛杉矶湖人 "wikilink")，迈克尔·乔丹于[1993年带领](https://zh.wikipedia.org/wiki/1993年NBA总决赛 "wikilink")[芝加哥公牛打入决赛](../Page/芝加哥公牛.md "wikilink")。
+保罗是获抢断王称号次数最多的球员，共有六次。[迈克尔·雷·理查德森](https://zh.wikipedia.org/wiki/迈克尔·雷·理查德森 "wikilink")、罗伯逊、[迈克尔·乔丹和](../Page/迈克尔·乔丹.md "wikilink")[艾伦·艾佛森均以三次并列第二](https://zh.wikipedia.org/wiki/艾伦·艾佛森 "wikilink")。此外只有[魔术师约翰逊](../Page/魔术师约翰逊.md "wikilink")、[穆奇·布雷洛克](../Page/穆奇·布雷洛克.md "wikilink")、[贝伦·戴维斯和](https://zh.wikipedia.org/wiki/贝伦·戴维斯 "wikilink")[约翰·斯托克顿曾多次获抢助王称号](https://zh.wikipedia.org/wiki/约翰·斯托克顿 "wikilink")（均为两次）。保罗曾连续四次获抢断王头衔，同样超过其他球员。\[4\]历史上共有三位球员在同一赛季拿下抢断王称号的同时还带领球队赢得[总冠军](https://zh.wikipedia.org/wiki/NBA总冠军列表 "wikilink")，分别是[里克·巴里于](../Page/里克·巴里.md "wikilink")[1975年带领](https://zh.wikipedia.org/wiki/1975年NBA总决赛 "wikilink")[金州勇士打入决赛](../Page/金州勇士.md "wikilink")，魔术师约翰逊于[1982年带领](https://zh.wikipedia.org/wiki/1982年NBA总决赛 "wikilink")[洛杉矶湖人进入决赛](../Page/洛杉矶湖人.md "wikilink")，迈克尔·乔丹于[1993年带领](https://zh.wikipedia.org/wiki/1993年NBA总决赛 "wikilink")[芝加哥公牛打入决赛](../Page/芝加哥公牛.md "wikilink")。
 
 ## 图例
 
@@ -115,7 +115,7 @@ NBA赛季平均每场比赛抢断](../Page/2008-09_NBA赛季.md "wikilink")2.77�
 <td><p><a href="https://zh.wikipedia.org/wiki/1980-81_NBA赛季" title="wikilink">1980-81</a></p></td>
 <td><p><a href="../Page/魔术师约翰逊.md" title="wikilink">魔术师约翰逊</a>*{{#tag:ref|魔术师约翰逊在<a href="https://zh.wikipedia.org/wiki/1980-81_NBA赛季" title="wikilink">1980-81 NBA赛季只出场</a>37场，抢断总数排在第37位（<a href="https://zh.wikipedia.org/wiki/迈克尔·雷·理查德森" title="wikilink">迈克尔·雷·理查德森以</a>232次居首），但论场均抢断次数还是以约翰逊最高[20]。|group="注"}}</p></td>
 <td><p>/</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>37</p></td>
 <td><p>127</p></td>
 <td><p>3.43</p></td>
@@ -125,7 +125,7 @@ NBA赛季平均每场比赛抢断](../Page/2008-09_NBA赛季.md "wikilink")2.77�
 <td><p><a href="https://zh.wikipedia.org/wiki/1981-82_NBA赛季" title="wikilink">1981-82</a></p></td>
 <td><p><a href="../Page/魔术师约翰逊.md" title="wikilink">魔术师约翰逊</a>*（2）{{#tag:ref|<a href="https://zh.wikipedia.org/wiki/莫里斯·奇克斯" title="wikilink">莫里斯·奇克斯在</a><a href="https://zh.wikipedia.org/wiki/1981-82_NBA赛季" title="wikilink">1981-82 NBA赛季的抢断次数以</a>209次居首，但场所抢断以2.65次名列第二[23]。|group="注"}}</p></td>
 <td><p>/</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>78</p></td>
 <td><p>208</p></td>
 <td><p>2.67</p></td>
@@ -540,7 +540,7 @@ NBA赛季平均每场比赛抢断](../Page/2008-09_NBA赛季.md "wikilink")2.77�
 <a href="https://zh.wikipedia.org/wiki/约翰·斯托克顿" title="wikilink">约翰·斯托克顿</a></p></td>
 <td><p><a href="../Page/亚特兰大老鹰.md" title="wikilink">亚特兰大老鹰</a><br />
 新奥尔良鹈鹕（1）/金州勇士（1）<br />
-<a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><br />
+<a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><br />
 <a href="https://zh.wikipedia.org/wiki/犹他爵士" title="wikilink">犹他爵士</a></p></td>
 <td><p>2</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1996-97_NBA赛季" title="wikilink">1996-97</a>、<a href="https://zh.wikipedia.org/wiki/1997-98_NBA赛季" title="wikilink">1997-98</a><br />

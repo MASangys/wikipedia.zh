@@ -18,7 +18,7 @@ DCC銷量十分不理想，市場上十分少見，並迅速被Quadro4系列取�
   - 記憶體類型：DDR SDRAM
   - 記憶體容量：64MB
   - 記憶體頻率：460 MHz
-  - [記憶體頻寬](https://zh.wikipedia.org/wiki/内存带宽 "wikilink")：7.4 GB/s
+  - [記憶體頻寬](../Page/内存带宽.md "wikilink")：7.4 GB/s
   - [RAMDAC頻率](https://zh.wikipedia.org/wiki/RAMDAC "wikilink")：350 MHz
   - 渲染管線：4
   - 紋理單元：2

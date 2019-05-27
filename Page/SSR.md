@@ -86,7 +86,7 @@
 
 ## Other uses
 
-  - [瑞士广播电视集团](https://zh.wikipedia.org/wiki/瑞士广播电视集团 "wikilink")
+  - [瑞士广播电视集团](../Page/瑞士广播电视集团.md "wikilink")
 
   - , a senior secondary school in India
 

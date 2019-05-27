@@ -19,7 +19,7 @@
 <tr class="odd">
 <td><p>1968年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/星光華爾茲" title="wikilink">星光華爾茲</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/千昌夫" title="wikilink">千昌夫</a></p></td>
+<td><p><a href="../Page/千昌夫.md" title="wikilink">千昌夫</a></p></td>
 <td><p>1966年3月24日</p></td>
 <td><p>159.6</p></td>
 <td><p>170.8[1]</p></td>
@@ -155,7 +155,7 @@
 <tr class="even">
 <td><p>1985年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/為茱莉亞傷心" title="wikilink">為茱莉亞傷心</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Checkers" title="wikilink">The Checkers</a></p></td>
+<td><p><a href="../Page/The_Checkers.md" title="wikilink">The Checkers</a></p></td>
 <td><p>1984年11月21日</p></td>
 <td><p>70.3</p></td>
 <td><p>70.3</p></td>
@@ -283,7 +283,7 @@
 </tr>
 <tr class="even">
 <td><p>2001年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Can_You_Keep_A_Secret?" title="wikilink">Can You Keep A Secret?</a></p></td>
+<td><p><a href="../Page/Can_You_Keep_A_Secret?.md" title="wikilink">Can You Keep A Secret?</a></p></td>
 <td><p><a href="../Page/宇多田光.md" title="wikilink">宇多田光</a></p></td>
 <td><p>2001年2月16日</p></td>
 <td><p>148.4[40]</p></td>
@@ -411,7 +411,7 @@
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/空有願望" title="wikilink">空有願望</a></p></td>
+<td><p><a href="../Page/空有願望.md" title="wikilink">空有願望</a></p></td>
 <td><p>2017年5月31日</p></td>
 <td><p>139.2[64]</p></td>
 <td></td>
@@ -419,7 +419,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Teacher_Teacher" title="wikilink">Teacher Teacher</a></p></td>
+<td><p><a href="../Page/Teacher_Teacher.md" title="wikilink">Teacher Teacher</a></p></td>
 <td><p>2018年5月30日</p></td>
 <td><p>181.9</p></td>
 <td></td>

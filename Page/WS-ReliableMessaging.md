@@ -3,7 +3,7 @@
 2003年3月，[BEA
 Systems](https://zh.wikipedia.org/wiki/BEA_Systems "wikilink"),
 [微软](../Page/微软.md "wikilink"), [IBM](../Page/IBM.md "wikilink"),
-[TIBCO软件公司共同撰写了最初的规范](../Page/TIBCO软件公司.md "wikilink")，在随后的两年里进行改进。2005年6月，2005年3月的版本于被提交到[OASIS的Web服务可靠交换](https://zh.wikipedia.org/wiki/結構化資訊標準促進組織 "wikilink")(WS-RX)技术委员会，2007年6月14日，被批准成为[OASIS标准](https://zh.wikipedia.org/wiki/結構化資訊標準促進組織 "wikilink")，2009年2月2日，1.2版本被批准。
+[TIBCO软件公司共同撰写了最初的规范](../Page/TIBCO软件公司.md "wikilink")，在随后的两年里进行改进。2005年6月，2005年3月的版本于被提交到[OASIS的Web服务可靠交换](../Page/結構化資訊標準促進組織.md "wikilink")(WS-RX)技术委员会，2007年6月14日，被批准成为[OASIS标准](../Page/結構化資訊標準促進組織.md "wikilink")，2009年2月2日，1.2版本被批准。
 
 在WS-ReliableMessaging之前，OASIS曾提出过一个竞争的规范([WS-Reliability](https://zh.wikipedia.org/wiki/WS-Reliability "wikilink"))，该规范为[富士通](../Page/富士通.md "wikilink")，[日立](https://zh.wikipedia.org/wiki/日立 "wikilink")，[NEC](../Page/日本電氣.md "wikilink")，[甲骨文公司](../Page/甲骨文公司.md "wikilink")，[Progress
 Software和](https://zh.wikipedia.org/wiki/Progress_Software "wikilink")[昇陽電腦所支持](../Page/昇陽電腦.md "wikilink")。这些支持者中的大多数现在也支持WS-ReliableMessaging规范。

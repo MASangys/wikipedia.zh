@@ -166,7 +166,7 @@
   - 原作・總監督：[雨宮慶太](https://zh.wikipedia.org/wiki/雨宮慶太 "wikilink")
   - 監製：二宮清隆
   - 製片：沖元良、夏井佳奈子、比嘉一郎
-  - 編劇：[江良至](https://zh.wikipedia.org/wiki/江良至 "wikilink")、[井上敏樹](https://zh.wikipedia.org/wiki/井上敏樹 "wikilink")、[小林靖子](../Page/小林靖子.md "wikilink")、[藤平久子](https://zh.wikipedia.org/wiki/藤平久子 "wikilink")、[小林雄次](https://zh.wikipedia.org/wiki/小林雄次 "wikilink")、[田口恵](https://zh.wikipedia.org/wiki/田口恵 "wikilink")、[横山誠](https://zh.wikipedia.org/wiki/横山誠 "wikilink")、雨宮慶太
+  - 編劇：[江良至](https://zh.wikipedia.org/wiki/江良至 "wikilink")、[井上敏樹](../Page/井上敏樹.md "wikilink")、[小林靖子](../Page/小林靖子.md "wikilink")、[藤平久子](https://zh.wikipedia.org/wiki/藤平久子 "wikilink")、[小林雄次](https://zh.wikipedia.org/wiki/小林雄次 "wikilink")、[田口恵](https://zh.wikipedia.org/wiki/田口恵 "wikilink")、[横山誠](https://zh.wikipedia.org/wiki/横山誠 "wikilink")、雨宮慶太
   - 設定：田口恵
   - 武術指導：横山誠（AAC
     STUNTS）、[大橋明](https://zh.wikipedia.org/wiki/大橋明 "wikilink")
@@ -334,7 +334,7 @@
 <td><p>第十六話</p></td>
 <td><p><strong>面具</strong><br />
 （仮面）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/前田浩" title="wikilink">前田浩</a>（魔戒騎士・桑折）<br />
+<td><p><a href="../Page/前田浩.md" title="wikilink">前田浩</a>（魔戒騎士・桑折）<br />
 鐵騎<br />
 號龍人<br />
 機人利格爾</p></td>

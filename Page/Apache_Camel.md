@@ -50,7 +50,7 @@ Router](http://fusesource.com/products/enterprise-camel/)。
   - [Apache Camel JBI Service
     Engine](https://web.archive.org/web/20080915035805/http://wiki.open-esb.java.net/Wiki.jsp?page=CamelSE)
   - [Apache
-    [Apache_Qpid](https://zh.wikipedia.org/wiki/Apache_Qpid "wikilink")](http://cwiki.apache.org/qpid/)
+    [Apache_Qpid](../Page/Apache_Qpid.md "wikilink")](http://cwiki.apache.org/qpid/)
   - [Talend ESB based on Apache Camel](http://talend.com/)
 
 [分类:Java企业平台](https://zh.wikipedia.org/wiki/分类:Java企业平台 "wikilink")

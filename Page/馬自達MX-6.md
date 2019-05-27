@@ -39,7 +39,7 @@ depan).JPG Image:Mazda MX6 Turbo (14164976079).jpg Image:Mazda MX6 Turbo
 ### 第二代（1992年至1997年）
 
 1992年 -
-1月進行大改款，不但加大車身尺碼，外型也改得更為流線圓潤，符合其[轎跑車格調的定位](../Page/轎跑車.md "wikilink")。[底盤採用全新的GE平台](https://zh.wikipedia.org/wiki/底盤 "wikilink")，與五款兄弟車以及雙生車種和[福特Telstar共用](https://zh.wikipedia.org/wiki/福特Telstar "wikilink")[引擎](../Page/发动机.md "wikilink")、[變速箱](../Page/变速器.md "wikilink")、[懸吊系統](../Page/懸吊系統.md "wikilink")、[煞車制動系統](../Page/煞車.md "wikilink")、轉向系統等主要元件。該款車在全球市場可區分為三種型式：
+1月進行大改款，不但加大車身尺碼，外型也改得更為流線圓潤，符合其[轎跑車格調的定位](../Page/轎跑車.md "wikilink")。[底盤採用全新的GE平台](https://zh.wikipedia.org/wiki/底盤 "wikilink")，與五款兄弟車以及雙生車種和[福特Telstar共用](../Page/福特Telstar.md "wikilink")[引擎](../Page/发动机.md "wikilink")、[變速箱](../Page/变速器.md "wikilink")、[懸吊系統](../Page/懸吊系統.md "wikilink")、[煞車制動系統](../Page/煞車.md "wikilink")、轉向系統等主要元件。該款車在全球市場可區分為三種型式：
 
   - A規：此規格僅供應[北美洲市場](../Page/北美洲.md "wikilink")，值得注意的是在[加拿大的車名為](../Page/加拿大.md "wikilink")「**馬自達MX-6
     Mystère**」。其中分成三種級距：

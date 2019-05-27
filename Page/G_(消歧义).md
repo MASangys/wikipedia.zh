@@ -32,7 +32,7 @@ G, g 是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")7个字母。
 
 <!-- end list -->
 
-  - [ATC代码G](https://zh.wikipedia.org/wiki/ATC代码G "wikilink")，[解剖学治疗学及化学分类系统中表示](../Page/解剖学治疗学及化学分类系统.md "wikilink")[泌尿生殖系统及](https://zh.wikipedia.org/wiki/泌尿生殖系统 "wikilink")[性激素药品的解剖学分类](https://zh.wikipedia.org/wiki/性激素 "wikilink")。
+  - [ATC代码G](https://zh.wikipedia.org/wiki/ATC代码G "wikilink")，[解剖学治疗学及化学分类系统中表示](../Page/解剖学治疗学及化学分类系统.md "wikilink")[泌尿生殖系统及](../Page/泌尿生殖系统.md "wikilink")[性激素药品的解剖学分类](https://zh.wikipedia.org/wiki/性激素 "wikilink")。
 
 <!-- end list -->
 

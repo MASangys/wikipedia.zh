@@ -1,11 +1,11 @@
 **Visa金融卡**（），是一種[借記卡](https://zh.wikipedia.org/wiki/借記卡 "wikilink")，在[美國稱為](https://zh.wikipedia.org/wiki/美國 "wikilink")[支票卡](https://zh.wikipedia.org/wiki/支票卡 "wikilink")（cheque
 card），是一種取代[現金的](https://zh.wikipedia.org/wiki/現金 "wikilink")[塑膠貨幣](https://zh.wikipedia.org/wiki/塑膠貨幣 "wikilink")。
 
-Visa金融卡不是信用卡，是[ATM卡及](../Page/自動櫃員機.md "wikilink")[Visa卡的結合](https://zh.wikipedia.org/wiki/Visa卡 "wikilink")，可以在[自動櫃員機](../Page/自動櫃員機.md "wikilink")（ATM）提款，也可以直接在商店刷卡消費。刷卡時直接由存款帳戶扣款，帳戶有多少錢，才能刷多少錢，不會產生超刷、[透支或動用循環利息的狀況](https://zh.wikipedia.org/wiki/銀行透支 "wikilink")。
+Visa金融卡不是信用卡，是[ATM卡及](../Page/自動櫃員機.md "wikilink")[Visa卡的結合](https://zh.wikipedia.org/wiki/Visa卡 "wikilink")，可以在[自動櫃員機](../Page/自動櫃員機.md "wikilink")（ATM）提款，也可以直接在商店刷卡消費。刷卡時直接由存款帳戶扣款，帳戶有多少錢，才能刷多少錢，不會產生超刷、[透支或動用循環利息的狀況](../Page/銀行透支.md "wikilink")。
 
 ## 交易機制
 
-[自動櫃員機](../Page/自動櫃員機.md "wikilink")（ATM）提款，使用銀行提款卡機制，所以必須有對應的存款帳戶。目前，台灣法令依產品特性，限制Visa金融卡所對應的存款帳戶不得具有類似現金卡或循環動用等[透支功能](https://zh.wikipedia.org/wiki/銀行透支 "wikilink")。
+[自動櫃員機](../Page/自動櫃員機.md "wikilink")（ATM）提款，使用銀行提款卡機制，所以必須有對應的存款帳戶。目前，台灣法令依產品特性，限制Visa金融卡所對應的存款帳戶不得具有類似現金卡或循環動用等[透支功能](../Page/銀行透支.md "wikilink")。
 
 刷卡消費實際運作上使用信用卡交易機制，所以有對應的信用卡卡號。交易款項需店家向信用卡公司申請支付時，才會由銀行從帳戶扣款。在扣款之前，會於刷卡交易發生時，依照交易金額進行**存款圈存**（限制「被設定的存款金額額度內」執行動用交易）。存款戶於交易之後，僅能動用超過圈存金額部分的存款。一般圈存的存款，不影響其存款利息的計算，故有類似信用卡延遲付款的特性。但有部分銀行將此Visa金融卡交易，所造成的圈存區分出來，不計算利息。
 

@@ -521,7 +521,7 @@ Revo擔任所有曲目的作詞、作曲、編曲，並在DVD的結尾畫面中�
   - *' [桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")『[MOON
     PRIDE](../Page/MOON_PRIDE.md "wikilink")』*'（2014年7月30日）
 
-動畫[美少女戰士Crystal片頭曲](https://zh.wikipedia.org/wiki/美少女戰士Crystal "wikilink")「MOON
+動畫[美少女戰士Crystal片頭曲](../Page/美少女戰士Crystal.md "wikilink")「MOON
 PRIDE」。Revo擔任作詞、作曲、編曲。
 
 **歌詞提供**

@@ -78,7 +78,7 @@ Stage「誘惑的吊襪帶」公演](../Page/SDN48_1st_Stage「誘惑的吊襪�
   - AKB48
     コンサート「サプライズはありません」第3公演（2010年7月11日、[代代木第一体育館](https://zh.wikipedia.org/wiki/国立代代木競技場#第一体育館 "wikilink")）
   - Visit Zooキャンペーン応援プロジェクト AKB48 東京秋祭り supported by
-    NTTぷらら（2010年10月10日、[葛西臨海公園](https://zh.wikipedia.org/wiki/葛西臨海公園 "wikilink")）
+    NTTぷらら（2010年10月10日、[葛西臨海公園](../Page/葛西臨海公園.md "wikilink")）
 
 ## 備註
 

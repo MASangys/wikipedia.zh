@@ -24,7 +24,7 @@ MEMORIES](https://zh.wikipedia.org/wiki/玻璃蘋果/SWEET_MEMORIES "wikilink")�
 
 在首發銷售方面，超越《[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》第1期的片尾曲「[Don't
 say
-"lazy"](https://zh.wikipedia.org/wiki/Don't_say_"lazy" "wikilink")」，以及[ミニハムず的](https://zh.wikipedia.org/wiki/ミニハムず "wikilink")「[ミニハムずの愛の唄](https://zh.wikipedia.org/wiki/ミニハムずの愛の唄 "wikilink")」（2001年），創下角色名義單曲的最高首發銷售紀錄。以聲優單曲來看，也僅次於[林原惠的](../Page/林原惠.md "wikilink")「[don't
+"lazy"](../Page/Don't_say_"lazy".md "wikilink")」，以及[ミニハムず的](https://zh.wikipedia.org/wiki/ミニハムず "wikilink")「[ミニハムずの愛の唄](https://zh.wikipedia.org/wiki/ミニハムずの愛の唄 "wikilink")」（2001年），創下角色名義單曲的最高首發銷售紀錄。以聲優單曲來看，也僅次於[林原惠的](../Page/林原惠.md "wikilink")「[don't
 be
 discouraged](https://zh.wikipedia.org/wiki/don't_be_discouraged "wikilink")」（1997年），為歷年來首發銷售數量的第2名\[6\]。
 
@@ -32,7 +32,7 @@ discouraged](https://zh.wikipedia.org/wiki/don't_be_discouraged "wikilink")」�
 
 1.  **GO\! GO\! MANIAC**
       -
-        作詞：[大森祥子](https://zh.wikipedia.org/wiki/大森祥子 "wikilink")；作曲、編曲：[Tom-H@ck](https://zh.wikipedia.org/wiki/Tom-H@ck "wikilink")
+        作詞：[大森祥子](https://zh.wikipedia.org/wiki/大森祥子 "wikilink")；作曲、編曲：[Tom-H@ck](../Page/Tom-H@ck.md "wikilink")
         [電視動畫](../Page/日本電視動畫.md "wikilink")《[K-ON\!\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》的[片頭曲](../Page/主題曲.md "wikilink")。
 2.  **Genius…\!?**
 3.  GO\! GO\! MANIAC（instrumental）

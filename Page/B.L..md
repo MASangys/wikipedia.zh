@@ -67,27 +67,27 @@ Luck的縮寫），為[台灣男性](https://zh.wikipedia.org/wiki/台灣 "wikil
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Re:從零開始的異世界生活" title="wikilink">Re:從零開始的異世界生活</a></p></td>
+<td><p><a href="../Page/Re:從零開始的異世界生活.md" title="wikilink">Re:從零開始的異世界生活</a></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/菜月昴" title="wikilink">菜月昴</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/潔癖男子青山！" title="wikilink">潔癖男子青山！</a></p></td>
+<td><p><a href="../Page/潔癖男子青山！.md" title="wikilink">潔癖男子青山！</a></p></td>
 <td><p>伊吹誠吾</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/寶石之國" title="wikilink">寶石之國</a></p></td>
+<td><p><a href="../Page/寶石之國.md" title="wikilink">寶石之國</a></p></td>
 <td><p>阿克雷阿茲斯</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/見習神仙精靈" title="wikilink">見習神仙精靈</a></p></td>
+<td><p><a href="../Page/見習神仙精靈.md" title="wikilink">見習神仙精靈</a></p></td>
 <td><p>櫻井勇次郎</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/momo親子台" title="wikilink">momo親子台</a></p></td>
 <td></td>
@@ -120,21 +120,21 @@ Luck的縮寫），為[台灣男性](https://zh.wikipedia.org/wiki/台灣 "wikil
 <tbody>
 <tr class="odd">
 <td><p>2013</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宇宙小奇兵" title="wikilink">宇宙小奇兵</a></p></td>
+<td><p><a href="../Page/宇宙小奇兵.md" title="wikilink">宇宙小奇兵</a></p></td>
 <td><p>憤世魔王</p></td>
 <td><p><a href="../Page/迪士尼頻道.md" title="wikilink">迪士尼頻道</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/七寶_(動畫)" title="wikilink">七寶</a></p></td>
+<td><p><a href="../Page/七寶_(動畫).md" title="wikilink">七寶</a></p></td>
 <td><p>史塔區大人</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/魔髮奇緣_(電視影集)" title="wikilink">魔髮奇緣</a></p></td>
+<td><p><a href="../Page/魔髮奇緣_(電視影集).md" title="wikilink">魔髮奇緣</a></p></td>
 <td><p>費瑞安<br />
 史坦<br />
 奈吉爾<br />

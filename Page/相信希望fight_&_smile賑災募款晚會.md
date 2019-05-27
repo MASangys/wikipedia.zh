@@ -3,7 +3,7 @@ smile賑災募款晚會**》（），是[台灣的](https://zh.wikipedia.org/wik
 
 ## 提要
 
-2011年3月11日，日本[宮城縣發生](../Page/宮城縣.md "wikilink")[芮氏規模](https://zh.wikipedia.org/wiki/芮氏規模 "wikilink")9.0的[三一一大地震](../Page/東日本大震災.md "wikilink")，發生各項嚴重災難。基於「人溺己溺，人饑己饑」之精神，當時擔任[中華民國電視學會理事長的](../Page/中華民國電視學會.md "wikilink")[民視總經理](https://zh.wikipedia.org/wiki/民視 "wikilink")[陳剛信便協調台灣五大無線電視台](https://zh.wikipedia.org/wiki/陳剛信 "wikilink")（[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")、[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")、[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")、民視、[公視基金會](https://zh.wikipedia.org/wiki/公視基金會 "wikilink")）共同製播賑災特別節目；但最後由於各項原因談不攏，最終民視與台視獨立於前一天舉辦《送愛到日本
+2011年3月11日，日本[宮城縣發生](../Page/宮城縣.md "wikilink")[芮氏規模](https://zh.wikipedia.org/wiki/芮氏規模 "wikilink")9.0的[三一一大地震](../Page/東日本大震災.md "wikilink")，發生各項嚴重災難。基於「人溺己溺，人饑己饑」之精神，當時擔任[中華民國電視學會理事長的](../Page/中華民國電視學會.md "wikilink")[民視總經理](https://zh.wikipedia.org/wiki/民視 "wikilink")[陳剛信便協調台灣五大無線電視台](../Page/陳剛信.md "wikilink")（[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")、[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")、[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")、民視、[公視基金會](https://zh.wikipedia.org/wiki/公視基金會 "wikilink")）共同製播賑災特別節目；但最後由於各項原因談不攏，最終民視與台視獨立於前一天舉辦《送愛到日本
 311震災募款晚會》。而華視、中視與公視則與其他電視台共同製播此慈善節目，並同時公開由音樂製作人[陳建寧製作](../Page/陳建寧.md "wikilink")、近百位歌手及演藝人員共同演唱的主題曲《**BELIEVE-相信愛**》，截至3月19日00：30分止，募集的善款共超過[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")8億9仟多萬元（3月17日1億1仟4佰多萬元；3月18日7億8仟多萬元）。\[2\]
 
 ### 主持人

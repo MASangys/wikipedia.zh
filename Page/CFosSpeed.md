@@ -22,7 +22,7 @@ cFosSpeed也會降低TCP的窗口大小，以避免資料傳出者一次送出�
 
 ## 参见
 
-  - [TCP拥塞控制](https://zh.wikipedia.org/wiki/TCP拥塞控制 "wikilink")
+  - [TCP拥塞控制](../Page/TCP拥塞控制.md "wikilink")
 
 ## 参考文献
 

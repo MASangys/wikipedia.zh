@@ -25,7 +25,7 @@ Corporation，），艾科思達所提供的設備銷售、數位製播和和衛
 | Food Network Asia                                                          | Food Network 美食頻道                                        | 娛樂   | 235 | 是    | 有            |
 | Travel Channel HD                                                          | 旅游頻道                                                     | 娛樂   | 238 | 是    | 有            |
 | LUXE HD                                                                    | 奢華頻道                                                     | 娛樂   | 240 | 是    | 無            |
-| [Comedy Central](https://zh.wikipedia.org/wiki/爆笑頻道_\(亞洲\) "wikilink")     | Comedy Central                                           | 娛樂   | 246 | 是    | 有            |
+| [Comedy Central](../Page/爆笑頻道_\(亞洲\).md "wikilink")                        | Comedy Central                                           | 娛樂   | 246 | 是    | 有            |
 | Fashion TV                                                                 | 時裝頻道                                                     | 娛樂   | 245 | 是    | 無            |
 | FOX Crime HD                                                               | 福斯警匪頻道                                                   | 娛樂   | 248 | 是    | 有            |
 | [FX HD](https://zh.wikipedia.org/wiki/FX "wikilink")                       | FX HD影集                                                  | 娛樂   | 250 | 是    | 有            |

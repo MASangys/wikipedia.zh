@@ -5,7 +5,7 @@ Gazette*）\[3\]。另外，它還提供[時間表顯示可供瀏覽的部分](.
 
 最初該服務是推出相關網頁的簡易索引，而該項服務的擴展是於2008年9月8日發布，當時Google新聞才開始提供掃描報紙的索引內容\[4\]。時間表上報導範圍的豐富度也多樣化起來。
 
-自2008年起，《[紐約時報](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")》的新聞最早可搜索至1851年創報的時候，並提供[PDF的全文瀏覽](https://zh.wikipedia.org/wiki/PDF "wikilink")\[5\]。但20世紀絕大多數的新聞仍必須付費才能瀏覽，或者透過各學術單位訂購資料庫，例如[ProQuest](https://zh.wikipedia.org/wiki/ProQuest "wikilink")。
+自2008年起，《[紐約時報](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")》的新聞最早可搜索至1851年創報的時候，並提供[PDF的全文瀏覽](https://zh.wikipedia.org/wiki/PDF "wikilink")\[5\]。但20世紀絕大多數的新聞仍必須付費才能瀏覽，或者透過各學術單位訂購資料庫，例如[ProQuest](../Page/ProQuest.md "wikilink")。
 
 ## 參見
 

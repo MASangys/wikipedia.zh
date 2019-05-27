@@ -33,7 +33,7 @@
 
 ## 音乐作品
 
-  - [第五輯](https://zh.wikipedia.org/wiki/第五輯 "wikilink")（），美国乐队[魔力红](https://zh.wikipedia.org/wiki/魔力红 "wikilink")2014年发行的专辑
+  - [第五輯](../Page/第五輯.md "wikilink")（），美国乐队[魔力红](https://zh.wikipedia.org/wiki/魔力红 "wikilink")2014年发行的专辑
 
 ## 其他
 
@@ -47,7 +47,7 @@
   - Ⓥ，[挪威國家酒局的符号](../Page/挪威國家酒局.md "wikilink")
   - [VVVVVV](../Page/VVVVVV.md "wikilink")，特里·卡瓦纳设计的益智游戏
   - [金泰亨](https://zh.wikipedia.org/wiki/金泰亨 "wikilink")，藝名V，韓國男子組合[防彈少年團成員](../Page/防彈少年團.md "wikilink")
-  - 新北捷運[淡海輕軌](https://zh.wikipedia.org/wiki/淡海輕軌 "wikilink")，路線編碼為V
+  - 新北捷運[淡海輕軌](../Page/淡海輕軌.md "wikilink")，路線編碼為V
 
 ## 参见
 

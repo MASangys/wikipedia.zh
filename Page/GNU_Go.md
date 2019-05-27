@@ -25,7 +25,7 @@ Go在許多[電腦圍棋競賽表現出色](https://zh.wikipedia.org/wiki/電腦
 
 ### CGOS
 
-在[CGOS上](https://zh.wikipedia.org/wiki/CGOS "wikilink")，GNU
+在[CGOS上](../Page/CGOS.md "wikilink")，GNU
 Go被當作基準分數\[2\]，帳號為`Gnugo-3.7.10-a1`\[3\]\[4\]\[5\]，固定Elo與BayesElo分數為1800分，並且常態性在上面對弈，以維持分數穩定性。
 
 ## 相關連結

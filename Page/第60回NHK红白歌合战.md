@@ -16,7 +16,7 @@
       - 擔任[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、[手提電話等數碼傳輸媒體的情報宣傳大使](https://zh.wikipedia.org/wiki/手提電話 "wikilink")。同月30日起於官方網站中公開水樹負責的紅白倒數[部落格](https://zh.wikipedia.org/wiki/部落格 "wikilink")，11月起由水樹負責於官方部落格中更新紅白情報。
   - 11月3日 - NHK向媒體發佈[傳真](../Page/傳真.md "wikilink")，發表兩軍主持人
   - 11月18日 - 發表紅白原創歌曲
-      - 官方部落格發表紅白原創歌曲『歌曲的力量』完成，向觀眾募集該歌曲的動畫投稿。作為「範本」、由水樹及[加藤清史郎演唱該樂曲的動畫於羿日](https://zh.wikipedia.org/wiki/加藤清史郎 "wikilink")11月19日公開。加藤亦於當日被決定以「紅白的臉孔」身分演出。
+      - 官方部落格發表紅白原創歌曲『歌曲的力量』完成，向觀眾募集該歌曲的動畫投稿。作為「範本」、由水樹及[加藤清史郎演唱該樂曲的動畫於羿日](../Page/加藤清史郎.md "wikilink")11月19日公開。加藤亦於當日被決定以「紅白的臉孔」身分演出。
   - 11月23日 - 出場歌手發表
       - 紅白各選出25組、合計50組。
   - 11月27日 - 發表綜合主持人
@@ -28,7 +28,7 @@
       - 公佈取得所有出場歌手所屬[經紀公司的允許](../Page/經紀公司.md "wikilink")，於2010年[元旦起自](../Page/元旦.md "wikilink")1月11日，在「NHK
         on
         Demand」（NHK的[自選影像服務](https://zh.wikipedia.org/wiki/自選影像 "wikilink")）提供付費收看的「漏看節目服務」。此為[傑尼斯事務所旗下歌手出席的節目首次獲准於網上被收看](../Page/傑尼斯事務所.md "wikilink")。
-      - 公佈[英國歌手](https://zh.wikipedia.org/wiki/英國 "wikilink")[蘇珊·波伊爾](../Page/蘇珊·波伊爾.md "wikilink")（蘇珊大媽）將作為嘉賓演唱，另選出[阿部寬](../Page/阿部寬.md "wikilink")、[勝間和代](https://zh.wikipedia.org/wiki/勝間和代 "wikilink")、[草刈民代](https://zh.wikipedia.org/wiki/草刈民代 "wikilink")、[城田優](../Page/城田優.md "wikilink")、[杉山愛](../Page/杉山愛.md "wikilink")、[西田敏行](../Page/西田敏行.md "wikilink")、[白鵬翔](../Page/白鵬翔.md "wikilink")、[原辰德](https://zh.wikipedia.org/wiki/原辰德 "wikilink")、[深田恭子](../Page/深田恭子.md "wikilink")、[森光子](../Page/森光子.md "wikilink")10人為審查員。同時，過去的主持人中亦選出[堺正章](https://zh.wikipedia.org/wiki/堺正章 "wikilink")、[武田鐵矢等以Special](../Page/武田鐵矢.md "wikilink")
+      - 公佈[英國歌手](https://zh.wikipedia.org/wiki/英國 "wikilink")[蘇珊·波伊爾](../Page/蘇珊·波伊爾.md "wikilink")（蘇珊大媽）將作為嘉賓演唱，另選出[阿部寬](../Page/阿部寬.md "wikilink")、[勝間和代](https://zh.wikipedia.org/wiki/勝間和代 "wikilink")、[草刈民代](../Page/草刈民代.md "wikilink")、[城田優](../Page/城田優.md "wikilink")、[杉山愛](../Page/杉山愛.md "wikilink")、[西田敏行](../Page/西田敏行.md "wikilink")、[白鵬翔](../Page/白鵬翔.md "wikilink")、[原辰德](https://zh.wikipedia.org/wiki/原辰德 "wikilink")、[深田恭子](../Page/深田恭子.md "wikilink")、[森光子](../Page/森光子.md "wikilink")10人為審查員。同時，過去的主持人中亦選出[堺正章](https://zh.wikipedia.org/wiki/堺正章 "wikilink")、[武田鐵矢等以Special](../Page/武田鐵矢.md "wikilink")
         Presentor身分出場。
   - 12月27日 - 發表曲目順序
   - 12月28日 - 開始排練
@@ -45,7 +45,7 @@
   - 外景主持人：久保田祐佳（NHK主播）
   - 樂隊：[三原綱木與New](https://zh.wikipedia.org/wiki/三原綱木 "wikilink")
     Breed、[東京放送管弦樂團](https://zh.wikipedia.org/wiki/東京放送管弦樂團 "wikilink")
-  - 審查員：[阿部寬](../Page/阿部寬.md "wikilink")、[勝間和代](https://zh.wikipedia.org/wiki/勝間和代 "wikilink")、[草刈民代](https://zh.wikipedia.org/wiki/草刈民代 "wikilink")、[城田優](../Page/城田優.md "wikilink")、[杉山愛](../Page/杉山愛.md "wikilink")、[西田敏行](../Page/西田敏行.md "wikilink")、[白鵬翔](../Page/白鵬翔.md "wikilink")、[原辰德](https://zh.wikipedia.org/wiki/原辰德 "wikilink")、[深田恭子](../Page/深田恭子.md "wikilink")、[森光子](../Page/森光子.md "wikilink")
+  - 審查員：[阿部寬](../Page/阿部寬.md "wikilink")、[勝間和代](https://zh.wikipedia.org/wiki/勝間和代 "wikilink")、[草刈民代](../Page/草刈民代.md "wikilink")、[城田優](../Page/城田優.md "wikilink")、[杉山愛](../Page/杉山愛.md "wikilink")、[西田敏行](../Page/西田敏行.md "wikilink")、[白鵬翔](../Page/白鵬翔.md "wikilink")、[原辰德](https://zh.wikipedia.org/wiki/原辰德 "wikilink")、[深田恭子](../Page/深田恭子.md "wikilink")、[森光子](../Page/森光子.md "wikilink")
 
 ## 出场歌手
 
@@ -85,7 +85,7 @@
 </tr>
 <tr class="odd">
 <td><p>企划「小紅白歌合戰」（審査員：<a href="../Page/兩津勘吉.md" title="wikilink">兩津勘吉</a>(<a href="../Page/香取慎吾.md" title="wikilink">香取慎吾</a>)）<br />
-1：<a href="https://zh.wikipedia.org/wiki/加藤清史郎" title="wikilink">加藤清史郎</a> 「人生就像柴魚一樣」、2：<a href="../Page/櫻真耶.md" title="wikilink">櫻真耶</a> 「大豐收祭典」、<br />
+1：<a href="../Page/加藤清史郎.md" title="wikilink">加藤清史郎</a> 「人生就像柴魚一樣」、2：<a href="../Page/櫻真耶.md" title="wikilink">櫻真耶</a> 「大豐收祭典」、<br />
 3：<a href="https://zh.wikipedia.org/wiki/Snow_Prince合唱団" title="wikilink">Snow Prince合唱団</a> 「白雪王子」、4：<a href="../Page/大橋望美.md" title="wikilink">大橋望美</a> 「小信乘雲去-崖上的波妞」</p></td>
 <td></td>
 </tr>
@@ -107,7 +107,7 @@
 </tr>
 <tr class="even">
 <td><p>15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天童芳美" title="wikilink">天童芳美</a>（14）</p></td>
+<td><p><a href="../Page/天童芳美.md" title="wikilink">天童芳美</a>（14）</p></td>
 </tr>
 <tr class="odd">
 <td><p>17</p></td>

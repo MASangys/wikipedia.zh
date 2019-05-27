@@ -382,10 +382,9 @@ Daddy的行動。在此事件後的不久，Go Daddy方面公告了他們決定�
   - [Quora](../Page/Quora.md "wikilink")
   - [Raw Story](https://zh.wikipedia.org/wiki/Raw_Story "wikilink")
   - [Rackspace](../Page/Rackspace.md "wikilink")
-  - [Red 5
-    Studios](https://zh.wikipedia.org/wiki/Red_5_Studios "wikilink")
+  - [Red 5 Studios](../Page/Red_5_Studios.md "wikilink")
   - [ReferralCandy](https://zh.wikipedia.org/wiki/ReferralCandy "wikilink")
-  - [Riot Games](https://zh.wikipedia.org/wiki/Riot_Games "wikilink")
+  - [Riot Games](../Page/Riot_Games.md "wikilink")
   - [Runic Games](../Page/Runic_Games.md "wikilink")
   - [Scribd](../Page/Scribd.md "wikilink")
   - [ServInt](https://zh.wikipedia.org/wiki/ServInt "wikilink")

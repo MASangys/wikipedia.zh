@@ -36,7 +36,7 @@ Color Project Vol.3－Y－shirt
 ## 外部連結
 
   -
-  - [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")
+  - [The Unit](../Page/The_Unit.md "wikilink")
 
 <https://m.facebook.com/kimsoyaya>
 

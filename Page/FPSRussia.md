@@ -45,8 +45,9 @@
 
   - [AR-15自動步槍](../Page/AR-15自動步槍.md "wikilink")（[5.56子弹演示](../Page/5.56×45mm_NATO.md "wikilink")）、[AK-47](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")（[7.62子弹演示](../Page/7.62×39mm.md "wikilink")）、[莫辛-納甘步槍](../Page/莫辛-納甘步槍.md "wikilink")（[7.62子弹演示](../Page/7.62×54mmR.md "wikilink")）、[雷明顿R700](../Page/雷明登700步槍.md "wikilink")（.270子弹演示）
 
-  - [儒格P94](https://zh.wikipedia.org/wiki/儒格P系列手槍 "wikilink")（9毫米手枪弹演示），柯尔特蟒蛇S\&W
-    .357马格南转轮手枪（.38和.357手枪弹演示），S\&W .44马格南转轮手枪（.44手枪弹演示），3英寸口径猎枪
+  - [儒格P94](../Page/儒格P系列手槍.md "wikilink")（9毫米手枪弹演示），柯尔特蟒蛇S\&W
+    .357马格南转轮手枪（.38和.357手枪弹演示），S\&W
+    .44马格南转轮手枪（.44手枪弹演示），3英寸口径猎枪
 
   - [Kel-Tec SUB-2000卡賓槍](../Page/Kel-Tec_SUB-2000卡賓槍.md "wikilink")
 

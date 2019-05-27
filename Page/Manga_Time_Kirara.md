@@ -53,8 +53,8 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 ### 姐妹杂志
 
   - 《[Manga Time Kirara
-    MAX](https://zh.wikipedia.org/wiki/Manga_Time_Kirara_MAX "wikilink")》
-    - Vol. 1由《Manga Time Kirara》作为增刊发行，之后独立创刊。
+    MAX](../Page/Manga_Time_Kirara_MAX.md "wikilink")》 - Vol. 1由《Manga
+    Time Kirara》作为增刊发行，之后独立创刊。
   - 《[Manga Time Kirara
     Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》 - Vol. 4-Vol.
     15由《Manga Time Kirara》作为增刊发行，之后独立创刊。
@@ -62,13 +62,13 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
     Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")》 - Vol.
     1-Vol.10由《Manga Time Kirara》作为增刊发行，之后独立创刊。
   - 《[Manga Time Kirara
-    Miracle\!](https://zh.wikipedia.org/wiki/Manga_Time_Kirara_Miracle! "wikilink")》
-    - Vol. 1-Vol. 5由《Manga Time Kirara》作为增刊发行，之后独立创刊。
+    Miracle\!](../Page/Manga_Time_Kirara_Miracle!.md "wikilink")》 - Vol.
+    1-Vol. 5由《Manga Time Kirara》作为增刊发行，之后独立创刊。
 
 ### 网络连载
 
   - 官方网站“Manga Time Kirara Web”的“Web连载”栏目\[19\]。
-  - 官方频道“Kirara基地”，2016年4月9日开设于[Niconico靜畫](https://zh.wikipedia.org/wiki/Niconico靜畫 "wikilink")\[20\]。
+  - 官方频道“Kirara基地”，2016年4月9日开设于[Niconico靜畫](../Page/Niconico靜畫.md "wikilink")\[20\]。
 
 ### 改编为广播剧CD的作品
 
@@ -506,7 +506,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <tr class="even">
 <td><p><a href="../Page/三者三葉.md" title="wikilink">三者三葉</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/荒井切利" title="wikilink">荒井切利</a></p></td>
+<td><p><a href="../Page/荒井切利.md" title="wikilink">荒井切利</a></p></td>
 <td></td>
 <td><p>Vol. 7</p></td>
 <td><p>2019年1月号</p></td>
@@ -524,7 +524,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三宅大志" title="wikilink">三宅大志</a></p></td>
+<td><p><a href="../Page/三宅大志.md" title="wikilink">三宅大志</a></p></td>
 <td></td>
 <td><p>Vol. 16</p></td>
 <td><p>2005年9月号<br />
@@ -611,9 +611,9 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/里好" title="wikilink">里好</a></p></td>
+<td><p><a href="../Page/里好.md" title="wikilink">里好</a></p></td>
 <td><p>2006年3月号<br />
-<a href="https://zh.wikipedia.org/wiki/Manga_Time_Kirara_MAX" title="wikilink">MAX</a> 2006年4月号<br />
+<a href="../Page/Manga_Time_Kirara_MAX.md" title="wikilink">MAX</a> 2006年4月号<br />
 <a href="../Page/Manga_Time_Kirara_Carat.md" title="wikilink">Carat</a> 2006年4月号、5月号</p></td>
 <td><p>2006年5月号</p></td>
 <td><p>2011年2月号</p></td>
@@ -645,7 +645,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td><p>小林哲哉</p></td>
 <td><p>2006年7月号、9月号、10月号<br />
-<a href="https://zh.wikipedia.org/wiki/Manga_Time_Kirara_MAX" title="wikilink">MAX</a> 2006年8月号、11月号<br />
+<a href="../Page/Manga_Time_Kirara_MAX.md" title="wikilink">MAX</a> 2006年8月号、11月号<br />
 <a href="../Page/Manga_Time_Kirara_Carat.md" title="wikilink">Carat</a> 2006年8月号、9月号</p></td>
 <td><p>2007年1月号</p></td>
 <td><p>2010年7月号</p></td>
@@ -682,7 +682,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p><a href="../Page/花嫁三次方.md" title="wikilink">花嫁三次方</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Manga_Time_Kirara_MAX" title="wikilink">MAX</a> 2008年2月号</p></td>
+<td><p><a href="../Page/Manga_Time_Kirara_MAX.md" title="wikilink">MAX</a> 2008年2月号</p></td>
 <td><p>2008年3月号</p></td>
 <td><p>2010年8月号</p></td>
 <td></td>
@@ -960,7 +960,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/牛乳乃澪" title="wikilink">牛乳乃澪</a></p></td>
+<td><p><a href="../Page/牛乳乃澪.md" title="wikilink">牛乳乃澪</a></p></td>
 <td><p>2013年7月号</p></td>
 <td><p>2014年3月号</p></td>
 <td><p>未出版单行本</p></td>
@@ -1234,15 +1234,14 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 ## 相關項目
 
   - [日本漫畫雜誌](../Page/日本漫畫雜誌.md "wikilink")
-  - [Manga Time Kirara
-    MAX](https://zh.wikipedia.org/wiki/Manga_Time_Kirara_MAX "wikilink")
+  - [Manga Time Kirara MAX](../Page/Manga_Time_Kirara_MAX.md "wikilink")
   - [Manga Time Kirara
     Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")
   - [Manga Time Kirara
-    Miracle\!](https://zh.wikipedia.org/wiki/Manga_Time_Kirara_Miracle! "wikilink")
+    Miracle\!](../Page/Manga_Time_Kirara_Miracle!.md "wikilink")
   - [Manga Time Kirara
     Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")
-  - [闪耀幻想曲](https://zh.wikipedia.org/wiki/闪耀幻想曲 "wikilink")
+  - [闪耀幻想曲](../Page/闪耀幻想曲.md "wikilink")
 
 ## 外部連結
 

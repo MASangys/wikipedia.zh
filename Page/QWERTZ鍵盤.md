@@ -21,7 +21,7 @@ QWERTZ配置跟[QWERTY配置主要有四個分別](https://zh.wikipedia.org/wiki
   - 就像其他非英語鍵盤，QWERTZ鍵盤右方的「[Alt](https://zh.wikipedia.org/wiki/Alt "wikilink")」鍵都轉成了「[Alt
     Gr](https://zh.wikipedia.org/wiki/Alt_Gr "wikilink")」鍵來輸入第三層的特殊字母或符號，因為這樣便可以輸入[ASCII容不下的](../Page/ASCII.md "wikilink")[字元](https://zh.wikipedia.org/wiki/字元 "wikilink")，又不會增加鍵盤的大小。
 
-QWERTZ鍵盤廣泛用於使用[拉丁字母的](../Page/拉丁字母.md "wikilink")[東歐](https://zh.wikipedia.org/wiki/東歐 "wikilink")、[東南歐和](https://zh.wikipedia.org/wiki/東南歐 "wikilink")[中歐國家](https://zh.wikipedia.org/wiki/中歐 "wikilink")。[波蘭亦出現QWERTZ鍵盤的變體](https://zh.wikipedia.org/wiki/波蘭 "wikilink")，但從1990年代初開始，[QWERTY鍵盤已是主流](https://zh.wikipedia.org/wiki/QWERTY "wikilink")。只有[德國跟](https://zh.wikipedia.org/wiki/德國 "wikilink")[奧地利的QWERTZ鍵盤有](https://zh.wikipedia.org/wiki/奧地利 "wikilink")「Strg」鍵；而由於[瑞士有多種](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[官方](https://zh.wikipedia.org/wiki/官方語言 "wikilink")[語言](https://zh.wikipedia.org/wiki/語言 "wikilink")，瑞士鍵盤上亦有標成「Ctrl」的「Strg」鍵。
+QWERTZ鍵盤廣泛用於使用[拉丁字母的](../Page/拉丁字母.md "wikilink")[東歐](https://zh.wikipedia.org/wiki/東歐 "wikilink")、[東南歐和](https://zh.wikipedia.org/wiki/東南歐 "wikilink")[中歐國家](https://zh.wikipedia.org/wiki/中歐 "wikilink")。[波蘭亦出現QWERTZ鍵盤的變體](https://zh.wikipedia.org/wiki/波蘭 "wikilink")，但從1990年代初開始，[QWERTY鍵盤已是主流](https://zh.wikipedia.org/wiki/QWERTY "wikilink")。只有[德國跟](https://zh.wikipedia.org/wiki/德國 "wikilink")[奧地利的QWERTZ鍵盤有](https://zh.wikipedia.org/wiki/奧地利 "wikilink")「Strg」鍵；而由於[瑞士有多種](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[官方](https://zh.wikipedia.org/wiki/官方語言 "wikilink")[語言](../Page/語言.md "wikilink")，瑞士鍵盤上亦有標成「Ctrl」的「Strg」鍵。
 
 因為QWERTZ的「Z」跟「Y」鍵的互換，它有時被戲稱為「Kezboard」。
 

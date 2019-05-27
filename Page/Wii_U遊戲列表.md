@@ -271,7 +271,7 @@ U電玩主機遊戲軟體](../Page/Wii_U.md "wikilink")。
 <td><p>2012年11月30日</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/神奇101" title="wikilink">神奇101</a>》</p></td>
+<td><p>《<a href="../Page/神奇101.md" title="wikilink">神奇101</a>》</p></td>
 <td><p><em>The Wonderful 101</em></p></td>
 <td><p><a href="../Page/白金工作室.md" title="wikilink">白金工作室</a></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>

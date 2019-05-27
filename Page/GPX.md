@@ -54,7 +54,7 @@ GPX文件內的點，至少要包含经纬度座标兩項資訊；其它欄位�
 ## 参见
 
   - Concepts
-      - [興趣點](https://zh.wikipedia.org/wiki/興趣點 "wikilink")
+      - [興趣點](../Page/興趣點.md "wikilink")
       - [OpenStreetMap](https://zh.wikipedia.org/wiki/OpenStreetMap "wikilink"),
         a collaborative project to create free editable maps using GPX
         traces.

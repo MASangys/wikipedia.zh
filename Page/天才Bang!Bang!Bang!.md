@@ -6,7 +6,7 @@
 
 ## 前期單元
 
-前期單元以益智為主，每集邀請8位來賓分為「左腦隊」與「右腦隊」進行益智競賽；但有時會容許2人坐同一座位，例如[IPIS蟑螂合唱團參賽時即是如此](https://zh.wikipedia.org/wiki/IPIS蟑螂合唱團 "wikilink")。每集統計兩隊總分，總分最高者即是該集的優勝隊，優勝隊隊員各獲得同一個獎品。每集總分最高者即是該集的[MVP](https://zh.wikipedia.org/wiki/MVP "wikilink")。
+前期單元以益智為主，每集邀請8位來賓分為「左腦隊」與「右腦隊」進行益智競賽；但有時會容許2人坐同一座位，例如[IPIS蟑螂合唱團參賽時即是如此](../Page/IPIS蟑螂合唱團.md "wikilink")。每集統計兩隊總分，總分最高者即是該集的優勝隊，優勝隊隊員各獲得同一個獎品。每集總分最高者即是該集的[MVP](https://zh.wikipedia.org/wiki/MVP "wikilink")。
 
   - 〈天才黃金眼〉
     參賽者依據電視牆播放之[3D](../Page/三维计算机图形.md "wikilink")[電腦動畫短片內容回答問題](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")。胡瓜、吳宗憲在每次宣佈進行本單元時的台詞為：「〈黃金眼〉，Bang！」

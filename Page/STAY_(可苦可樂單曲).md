@@ -8,7 +8,7 @@
 
 被用作[佐藤浩市主演的](../Page/佐藤浩市.md "wikilink")[TBS](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《[官僚們的夏天](https://zh.wikipedia.org/wiki/官僚們的夏天 "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。\[1\]
 
-在Oricon公信榜最高排行第3位。\[2\]累計銷量約8.6萬張，是自《[DOOR](https://zh.wikipedia.org/wiki/DOOR_\(可苦可樂單曲\) "wikilink")》之後首張累計銷量未能超過10萬張的單曲。
+在Oricon公信榜最高排行第3位。\[2\]累計銷量約8.6萬張，是自《[DOOR](../Page/DOOR_\(可苦可樂單曲\).md "wikilink")》之後首張累計銷量未能超過10萬張的單曲。
 
 ## 收錄曲目
 

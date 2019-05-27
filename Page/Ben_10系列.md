@@ -3,7 +3,7 @@
 外星英雄](../Page/Ben_10_外星英雄.md "wikilink")》、《[Ben 10
 終極英雄](../Page/Ben_10_終極英雄.md "wikilink")》、《[Ben 10
 全面進化](../Page/Ben_10_全面進化.md "wikilink")》和《[Ben 10
-再顯神威](https://zh.wikipedia.org/wiki/Ben_10_再顯神威 "wikilink")》的電視影集系列，另外還有電影版、電子遊戲和玩具。
+再顯神威](../Page/Ben_10_再顯神威.md "wikilink")》的電視影集系列，另外還有電影版、電子遊戲和玩具。
 
 ## 作品
 

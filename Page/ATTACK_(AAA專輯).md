@@ -63,7 +63,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
         MUSIC FIGHTER」10月的片尾曲
 10. **VIRGIN F**
     （作詞：[motsu](https://zh.wikipedia.org/wiki/motsu "wikilink")
-    作曲・編曲：[後藤次利](https://zh.wikipedia.org/wiki/後藤次利 "wikilink")）
+    作曲・編曲：[後藤次利](../Page/後藤次利.md "wikilink")）
       -
         迷你專輯「[alohAAA\!](https://zh.wikipedia.org/wiki/alohAAA! "wikilink")」的收錄曲
 11. **在地球的懷抱裡** （地球に抱かれて）

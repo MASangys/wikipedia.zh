@@ -103,7 +103,7 @@ The MOVIE
 
       -
         作詞：[松井五郎](https://zh.wikipedia.org/wiki/松井五郎 "wikilink")
-        作曲：[太田雅友](https://zh.wikipedia.org/wiki/太田雅友 "wikilink")
+        作曲：[太田雅友](../Page/太田雅友.md "wikilink")
         編曲：太田雅友
         演唱：[田村ゆかり](https://zh.wikipedia.org/wiki/田村ゆかり "wikilink")（KING
         RECORDS）

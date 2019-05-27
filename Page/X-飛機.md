@@ -329,7 +329,7 @@ USAF, NASA</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/X-38試驗機.md" title="wikilink">X-38</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/縮尺複合體公司" title="wikilink">縮尺複合體公司</a><br />
+<td><p><a href="../Page/縮尺複合體公司.md" title="wikilink">縮尺複合體公司</a><br />
 NASA</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:ISS_Crew_Return_Vehicle.jpg" title="fig:ISS_Crew_Return_Vehicle.jpg">ISS_Crew_Return_Vehicle.jpg</a></p></td>
 <td><p>1999年</p></td>

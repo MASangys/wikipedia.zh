@@ -17,21 +17,18 @@
   - 2009年4月24日 - [マジスキ 〜Marginal
     Skip〜](https://zh.wikipedia.org/wiki/マジスキ_〜Marginal_Skip〜 "wikilink")
   - 2010年6月25日 - [Angel Ring
-    〜エンジェルリング〜](https://zh.wikipedia.org/wiki/Angel_Ring "wikilink")
+    〜エンジェルリング〜](../Page/Angel_Ring.md "wikilink")
   - 2011年7月29日 - [Princess Evangile 〜プリンセス
     エヴァンジール〜](../Page/Princess_Evangile.md "wikilink")
       - 2012年6月29日 - [Princess Evangile〜W
         Happiness〜](../Page/Princess_Evangile.md "wikilink")
   - 2013年9月27日 - [Magical Marriage Lunatics\!\! 〜マジカル マリッジ
-    ルナティクス〜](https://zh.wikipedia.org/wiki/Magical_Marriage_Lunatics!! "wikilink")
-  - 2014年4月25日 - [Love
-    Sweets](https://zh.wikipedia.org/wiki/Love_Sweets "wikilink")
+    ルナティクス〜](../Page/Magical_Marriage_Lunatics!!.md "wikilink")
+  - 2014年4月25日 - [Love Sweets](../Page/Love_Sweets.md "wikilink")
   - 2015年1月30日 - 夏の色のノスタルジア
-  - 2016年5月27日 -
-    [サクラノモリ†ドリーマーズ](https://zh.wikipedia.org/wiki/櫻之杜†淨夢者 "wikilink")
+  - 2016年5月27日 - [サクラノモリ†ドリーマーズ](../Page/櫻之杜†淨夢者.md "wikilink")
   - 2016年12月22日 - 仄暗き時の果てより
-  - 2017年7月28日 -
-    [サクラノモリ†ドリーマーズ2](https://zh.wikipedia.org/wiki/櫻之杜†淨夢者 "wikilink")
+  - 2017年7月28日 - [サクラノモリ†ドリーマーズ2](../Page/櫻之杜†淨夢者.md "wikilink")
 
 <!-- end list -->
 
@@ -48,7 +45,7 @@
     〜お兄ちゃんと5人の妹のも〜っと\!エッチしまくりな毎日〜](../Page/妹天堂！2.md "wikilink")
   - 2014年10月31日 - デーモンバスターズ ～えっちなえっちなデーモン退治～
   - 2018年1月26日 - [妹ぱらだいす\!3
-    ～お兄ちゃんと5人の妹のすご～く\!エッチしまくりな毎日～](https://zh.wikipedia.org/wiki/妹天堂！3 "wikilink")
+    ～お兄ちゃんと5人の妹のすご～く\!エッチしまくりな毎日～](../Page/妹天堂！3.md "wikilink")
 
 <!-- end list -->
 
@@ -56,10 +53,8 @@
 
 <!-- end list -->
 
-  - 2015年6月26日 -
-    [大小姐和秘密少女](https://zh.wikipedia.org/wiki/大小姐和秘密少女 "wikilink")
-  - 2016年8月26日 - [ユウワク
-    スクランブル](https://zh.wikipedia.org/wiki/誘惑爭奪 "wikilink")
+  - 2015年6月26日 - [大小姐和秘密少女](../Page/大小姐和秘密少女.md "wikilink")
+  - 2016年8月26日 - [ユウワク スクランブル](../Page/誘惑爭奪.md "wikilink")
   - 2018年4月27日 - にゃんと素敵な夏色デイズ
 
 <!-- end list -->

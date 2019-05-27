@@ -4,7 +4,7 @@
 
   - [黃立成](../Page/黃立成.md "wikilink")
   - [黃立行](../Page/黃立行.md "wikilink")
-  - [Andrew 周立銘](https://zh.wikipedia.org/wiki/麻吉弟弟 "wikilink")
+  - [Andrew 周立銘](../Page/麻吉弟弟.md "wikilink")
   - Edward 艾德華 (黃立全)
 
 第二代加入

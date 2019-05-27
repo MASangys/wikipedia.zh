@@ -1,5 +1,5 @@
 **B.A.P**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TS
-Entertainment公司於](https://zh.wikipedia.org/wiki/TS_Entertainment "wikilink")2012年推出的男子團體，由**方容國**、**力燦**、**[大賢](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")**、**永才**、**鐘業**、**Zelo**六名成員組成。
+Entertainment公司於](https://zh.wikipedia.org/wiki/TS_Entertainment "wikilink")2012年推出的男子團體，由**方容國**、**力燦**、**[大賢](../Page/鄭大賢.md "wikilink")**、**永才**、**鐘業**、**Zelo**六名成員組成。
 
 團名是縮寫自「**Best**（最好的）」、「**Absolute**（絕對的）」、「**Perfect**（完美的）」。官方粉絲名稱「BABY（베이비）」，是隊長方容國在正式出道前就使用的稱呼，而成員們也一致決定沿用此名。應援色為綠芒色，應援物為綠色兔子手燈（MATOKI
 Stick）、毛巾和哨子。團體概念設定為從MATO星球（MATO
@@ -36,7 +36,7 @@ Entertainment認證後公布的漢字正名](https://zh.wikipedia.org/wiki/TS_En
 | 藝名                                                  |
 | [方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink") |
 | 力燦\[5\]                                             |
-| [大賢](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")  |
+| [大賢](../Page/鄭大賢.md "wikilink")                     |
 | 永才                                                  |
 | 鐘業                                                  |
 | Zelo                                                |
@@ -147,7 +147,7 @@ LineData =
 
   - ：專輯發行。
 
-### [韓國音樂著作權協會](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
+### [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
 
 | 姓名   | 登記名字 | 編號       | 歌曲列表\[6\]\[7\] |
 | ---- | ---- | -------- | -------------- |
@@ -369,8 +369,8 @@ TVCast和V Live，公開〈Feel So Good〉練習室。4月14日，於舊金山�
 Awake\!\!"》。除了率先公開單曲五輯的主打歌〈That's My
 Jam〉之外，鐘業也公開了和朋友共同創作的歌曲〈Photo〉(ft.[方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink"))。另外，7日的演唱會除了於日本全國、台灣、香港的電影院進行現場直播之外\[61\]\[62\]，亦透過官方V
 Live進行收費直播。8月8日，韓國時間凌晨12點，單曲五輯《Put'em Up》音源和主打歌〈That's My
-Jam〉MV公開。此次回歸將以舉行簽名會取代出席音樂節目。8月12日，根據[韓國音樂著作權協會官方網站](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")，[方容國以Andrew](https://zh.wikipedia.org/wiki/方容國 "wikilink")
-Baag為名，參與[VIXX單曲六輯](../Page/VIXX.md "wikilink")《[Hades](https://zh.wikipedia.org/wiki/Hades_\(VIXX單曲\) "wikilink")》的收錄曲〈Love
+Jam〉MV公開。此次回歸將以舉行簽名會取代出席音樂節目。8月12日，根據[韓國音樂著作權協會官方網站](../Page/韓國音樂著作權協會.md "wikilink")，[方容國以Andrew](https://zh.wikipedia.org/wiki/方容國 "wikilink")
+Baag為名，參與[VIXX單曲六輯](../Page/VIXX.md "wikilink")《[Hades](../Page/Hades_\(VIXX單曲\).md "wikilink")》的收錄曲〈Love
 Me Do〉的作詞、作曲、編曲\[63\]。
 
 10月18日，公開《Noir》的預告海報「WHO IS
@@ -407,14 +407,14 @@ Chan討論的結果，決定以恢復健康為優先，將不參與後續的宣�
 2017 World Tour 'Party Baby\!' – Seoul Boom》，先前因肋骨疲勞性骨折而暫停活動的Him
 Chan正式回歸。4月1日至2日，[TS娛樂表示鐘業因確診](../Page/TS娛樂.md "wikilink")[腸炎](../Page/腸胃炎.md "wikilink")，將缺席1日的漢陽大學簽名會，及2日的蠶室簽名會和電台行程\[86\]\[87\]。
 
-5月22日，音樂劇《拿破崙》演出陣容揭曉，[大賢將飾演拿破崙的弟弟呂西安](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")，亦是首次挑戰音樂劇\[88\]。5月26日，音樂劇《拿破崙》第一波演出日程表公開，[大賢將演出](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")7月16日、7月19日、7月28日、7月30日、8月1日共七場次\[89\]。6月7日，根據KBS歌謠審議的結果，鐘業的〈Try
+5月22日，音樂劇《拿破崙》演出陣容揭曉，[大賢將飾演拿破崙的弟弟呂西安](../Page/鄭大賢.md "wikilink")，亦是首次挑戰音樂劇\[88\]。5月26日，音樂劇《拿破崙》第一波演出日程表公開，[大賢將演出](../Page/鄭大賢.md "wikilink")7月16日、7月19日、7月28日、7月30日、8月1日共七場次\[89\]。6月7日，根據KBS歌謠審議的結果，鐘業的〈Try
 My Luck〉因使用日語（Chotto mateyo onaka suita nanka tabeyo）、及19禁歌詞（I need your
 body on
-me），被判定不合格\[90\]。同日，由[大賢的](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")〈Shadow〉打頭陣，鐘業的〈Try
+me），被判定不合格\[90\]。同日，由[大賢的](../Page/鄭大賢.md "wikilink")〈Shadow〉打頭陣，鐘業的〈Try
 My Luck〉接續在後，開始為期兩週的宣傳活動\[91\]。6月8日，Project專輯《Party
-Baby》音源公開，收錄了[大賢的](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")〈Shadow
+Baby》音源公開，收錄了[大賢的](../Page/鄭大賢.md "wikilink")〈Shadow
 (ft. Zelo) (Album Ver.)〉和鐘業的〈Try My
-Luck〉。6月26日，音樂劇《拿破崙》第二波演出日程表公開，[大賢將演出](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")8月12日、8月13日、8月15日共四場次\[92\]。7月13日，音樂劇《拿破崙》演出陣容異動，因製作公司的要求，原定由[大賢演出的](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")7月16日、7月19日共三場次，將改由同飾一角的陳泰華演出\[93\]。7月30日，音樂劇《拿破崙》第三波演出日程表公開，[大賢將演出](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")9月10日、9月16日、9月19日、9月24日、9月26日、9月29日共六場次\[94\]。8月8日，音樂劇《拿破崙》演出陣容再次異動，因演員的專輯活動計畫，原定由[大賢演出的](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")9月24日共一場次，將改由同飾一角的陳泰華演出\[95\]。
+Luck〉。6月26日，音樂劇《拿破崙》第二波演出日程表公開，[大賢將演出](../Page/鄭大賢.md "wikilink")8月12日、8月13日、8月15日共四場次\[92\]。7月13日，音樂劇《拿破崙》演出陣容異動，因製作公司的要求，原定由[大賢演出的](../Page/鄭大賢.md "wikilink")7月16日、7月19日共三場次，將改由同飾一角的陳泰華演出\[93\]。7月30日，音樂劇《拿破崙》第三波演出日程表公開，[大賢將演出](../Page/鄭大賢.md "wikilink")9月10日、9月16日、9月19日、9月24日、9月26日、9月29日共六場次\[94\]。8月8日，音樂劇《拿破崙》演出陣容再次異動，因演員的專輯活動計畫，原定由[大賢演出的](../Page/鄭大賢.md "wikilink")9月24日共一場次，將改由同飾一角的陳泰華演出\[95\]。
 
 8月11日，公開神秘預告照「Security Warning From
 B.A.P」，預告B.A.P即將回歸\[96\]。8月22日，單曲七輯《Blue》行程表公開\[97\]。23日至25日公開個人及團體預告照，28日公開專輯封面照，29日和9月1日公開兩個版本的MV預告視頻，9月5日公開全曲音源和MV。
@@ -428,11 +428,11 @@ Zelo)〉、Zelo的〈Howler〉。11月8日起至11月25日，於美國柏克萊�
 2018 North America Tour
 "Forever"》。11月30日起至12月9日，於西班牙馬德里、法國巴黎、英國倫敦、德國柏林和杜塞道夫舉行演唱會《B.A.P
 2018 Europe Tour "Forever With
-BABYz"》。12月1日，[大賢個人數位單曲](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")《BABY》音源和主打歌〈Baby〉MV公開。12月24日，[TS娛樂發表正式聲明](../Page/TS娛樂.md "wikilink")：「自2011年12月2日起與[TS娛樂攜手同行的Zelo](../Page/TS娛樂.md "wikilink")，在合約到期之前，與本人長時間討論後，決定在2018年12月2日正式結束專屬合約」\[100\]。
+BABYz"》。12月1日，[大賢個人數位單曲](../Page/鄭大賢.md "wikilink")《BABY》音源和主打歌〈Baby〉MV公開。12月24日，[TS娛樂發表正式聲明](../Page/TS娛樂.md "wikilink")：「自2011年12月2日起與[TS娛樂攜手同行的Zelo](../Page/TS娛樂.md "wikilink")，在合約到期之前，與本人長時間討論後，決定在2018年12月2日正式結束專屬合約」\[100\]。
 
 ### 2019年：繼方容國、Zelo之後→全員不續約
 
-2月18日，[TS娛樂發表正式聲明](../Page/TS娛樂.md "wikilink")：「力燦、[大賢](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")、永才、鐘業與[TS娛樂的專屬合約正式到期](../Page/TS娛樂.md "wikilink")，不再續約」\[101\]。同日，鐘業接受韓國媒體News1的電話採訪，表示：「雖因各自的情況和不同的未來規劃，而暫時無法實現，但我相信總有一天會再次重聚」，並提到：「從未說過『解散』一詞。因有成員想試著自己闖一闖，形成了無法再在一起的情況，所以我們決定互相為彼此應援」，此外亦向一直以來給予應援的BABY們表達感謝\[102\]\[103\]。
+2月18日，[TS娛樂發表正式聲明](../Page/TS娛樂.md "wikilink")：「力燦、[大賢](../Page/鄭大賢.md "wikilink")、永才、鐘業與[TS娛樂的專屬合約正式到期](../Page/TS娛樂.md "wikilink")，不再續約」\[101\]。同日，鐘業接受韓國媒體News1的電話採訪，表示：「雖因各自的情況和不同的未來規劃，而暫時無法實現，但我相信總有一天會再次重聚」，並提到：「從未說過『解散』一詞。因有成員想試著自己闖一闖，形成了無法再在一起的情況，所以我們決定互相為彼此應援」，此外亦向一直以來給予應援的BABY們表達感謝\[102\]\[103\]。
 
 ## 音樂作品
 
@@ -442,7 +442,7 @@ BABYz"》。12月1日，[大賢個人數位單曲](https://zh.wikipedia.org/wiki
 
   - 《[First
     Sensibility](../Page/First_Sensibility.md "wikilink")》（2014年）
-  - 《[NOIR](https://zh.wikipedia.org/wiki/Noir_\(B.A.P專輯\) "wikilink")》（2016年）
+  - 《[NOIR](../Page/Noir_\(B.A.P專輯\).md "wikilink")》（2016年）
 
 #### 迷你專輯
 
@@ -1093,7 +1093,7 @@ BABYz"》。12月1日，[大賢個人數位單曲](https://zh.wikipedia.org/wiki
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Noir_(B.A.P專輯)" title="wikilink">NOIR</a></p></td>
+<td><p><a href="../Page/Noir_(B.A.P專輯).md" title="wikilink">NOIR</a></p></td>
 <td><p>SKYDIVE</p></td>
 <td><p>/</p></td>
 <td><p>27</p></td>

@@ -107,7 +107,7 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 <td style="text-align: center;"><p>26</p></td>
 <td style="text-align: center;"><p><a href="../Page/李昌勳.md" title="wikilink">李昌勳</a>、<a href="../Page/吳娟受.md" title="wikilink">吳娟受</a>、<a href="../Page/尹東煥.md" title="wikilink">尹東煥</a>、<a href="../Page/裴宗玉.md" title="wikilink">裴宗玉</a>、<a href="https://zh.wikipedia.org/wiki/金善京" title="wikilink">金善京</a>、<a href="../Page/安在旭.md" title="wikilink">安在旭</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/申鎬均" title="wikilink">申鎬均</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金正秀" title="wikilink">金正秀</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金正秀.md" title="wikilink">金正秀</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -195,7 +195,7 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 </p></td>
 <td style="text-align: center;"><p>17</p></td>
 <td style="text-align: center;"><p><a href="../Page/韓彩英.md" title="wikilink">韓彩英</a>、<a href="../Page/姜至奐.md" title="wikilink">姜至奐</a>、<a href="../Page/朴恩惠.md" title="wikilink">朴恩惠</a>、<a href="../Page/尹相鉉.md" title="wikilink">尹相鉉</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭世浩" title="wikilink">鄭世浩</a>、<a href="https://zh.wikipedia.org/wiki/金洪善" title="wikilink">金洪善</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭世浩" title="wikilink">鄭世浩</a>、<a href="../Page/金洪善.md" title="wikilink">金洪善</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金順德" title="wikilink">金順德</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -288,8 +288,8 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 <td style="text-align: center;"><p><a href="../Page/順其自然_(電視劇).md" title="wikilink">順其自然</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/文晸赫.md" title="wikilink">文晸赫</a>、<a href="https://zh.wikipedia.org/wiki/鄭有美" title="wikilink">鄭有美</a>、<a href="../Page/李奎翰.md" title="wikilink">李奎翰</a>、<a href="https://zh.wikipedia.org/wiki/尹智慧" title="wikilink">尹智慧</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金允哲" title="wikilink">金允哲</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/文晸赫.md" title="wikilink">文晸赫</a>、<a href="https://zh.wikipedia.org/wiki/鄭有美" title="wikilink">鄭有美</a>、<a href="../Page/李奎翰.md" title="wikilink">李奎翰</a>、<a href="../Page/尹智慧.md" title="wikilink">尹智慧</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金允哲.md" title="wikilink">金允哲</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陶賢正" title="wikilink">陶賢正</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -421,7 +421,7 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 <td style="text-align: center;"><p><a href="../Page/2009外人球團.md" title="wikilink">2009外人球團</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹泰榮" title="wikilink">尹泰榮</a>、<a href="../Page/金玟廷.md" title="wikilink">金玟廷</a>、<a href="https://zh.wikipedia.org/wiki/朴城民" title="wikilink">朴城民</a>、<a href="https://zh.wikipedia.org/wiki/宋亞英" title="wikilink">宋亞英</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/尹泰榮.md" title="wikilink">尹泰榮</a>、<a href="../Page/金玟廷.md" title="wikilink">金玟廷</a>、<a href="https://zh.wikipedia.org/wiki/朴城民" title="wikilink">朴城民</a>、<a href="https://zh.wikipedia.org/wiki/宋亞英" title="wikilink">宋亞英</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋昌秀" title="wikilink">宋昌秀</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金仁淑" title="wikilink">金仁淑</a></p></td>
 <td style="text-align: center;"><p>原創:<a href="https://zh.wikipedia.org/wiki/李賢世" title="wikilink">李賢世</a>《恐怖的外人球團》</p></td>
@@ -688,7 +688,7 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 </p></td>
 <td style="text-align: center;"><p>41</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/U-ie" title="wikilink">U-ie</a>、<a href="../Page/丁一宇.md" title="wikilink">丁一宇</a>、<a href="../Page/李載允.md" title="wikilink">李載允</a>、<a href="../Page/車藝蓮.md" title="wikilink">車藝蓮</a>、<a href="../Page/朴元淑.md" title="wikilink">朴元淑</a>、<a href="../Page/金相中.md" title="wikilink">金相中</a>、<a href="../Page/都知嫄.md" title="wikilink">都知嫄</a>、<a href="../Page/趙敏基.md" title="wikilink">趙敏基</a>、<a href="../Page/安內相.md" title="wikilink">安內相</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/姜大善.md" title="wikilink">姜大善</a>、<a href="https://zh.wikipedia.org/wiki/李在珍_(導演)" title="wikilink">李在珍</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/姜大善.md" title="wikilink">姜大善</a>、<a href="../Page/李在珍_(導演).md" title="wikilink">李在珍</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/孫英睦.md" title="wikilink">孫英睦</a>、<a href="https://zh.wikipedia.org/wiki/車怡英" title="wikilink">車怡英</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -723,11 +723,11 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 <tr class="odd">
 <td style="text-align: center;"><p>2014年4月5日－<br />
 2014年7月27日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Hotel_King" title="wikilink">Hotel King</a><br />
+<td style="text-align: center;"><p><a href="../Page/Hotel_King.md" title="wikilink">Hotel King</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/李棟旭.md" title="wikilink">李棟旭</a>、<a href="../Page/李多海.md" title="wikilink">李多海</a>、<a href="https://zh.wikipedia.org/wiki/任瑟雍" title="wikilink">任瑟雍</a>、<a href="../Page/王智慧.md" title="wikilink">王智慧</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金大鎮" title="wikilink">金大鎮</a>、<a href="../Page/崔秉吉.md" title="wikilink">崔秉吉</a>、<a href="https://zh.wikipedia.org/wiki/張俊豪_(導演)" title="wikilink">張俊豪</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金大鎮.md" title="wikilink">金大鎮</a>、<a href="../Page/崔秉吉.md" title="wikilink">崔秉吉</a>、<a href="https://zh.wikipedia.org/wiki/張俊豪_(導演)" title="wikilink">張俊豪</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/趙恩貞" title="wikilink">趙恩貞</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -745,7 +745,7 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 <tr class="odd">
 <td style="text-align: center;"><p>2014年10月25日－<br />
 2015年3月8日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/湔雪的魔女" title="wikilink">湔雪的魔女</a><br />
+<td style="text-align: center;"><p><a href="../Page/湔雪的魔女.md" title="wikilink">湔雪的魔女</a><br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
 <td style="text-align: center;"><p><a href="../Page/韓智慧.md" title="wikilink">韓智慧</a>、<a href="../Page/高斗心.md" title="wikilink">高斗心</a>、<a href="../Page/吳賢慶.md" title="wikilink">吳賢慶</a>、<a href="../Page/河錫辰.md" title="wikilink">河錫辰</a>、<a href="../Page/夏沇秀.md" title="wikilink">夏沇秀</a>、<a href="../Page/卞貞秀.md" title="wikilink">卞貞秀</a></p></td>
@@ -799,7 +799,7 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 </p></td>
 <td style="text-align: center;"><p>51</p></td>
 <td style="text-align: center;"><p><a href="../Page/錢忍和.md" title="wikilink">錢忍和</a>、<a href="../Page/白珍熙.md" title="wikilink">白珍熙</a>、<a href="../Page/尹賢旻.md" title="wikilink">尹賢旻</a>、<a href="../Page/朴世榮.md" title="wikilink">朴世榮</a>、<a href="https://zh.wikipedia.org/wiki/都想友" title="wikilink">都想友</a>、<a href="../Page/朴相元.md" title="wikilink">朴相元</a>、<a href="../Page/孫暢敏.md" title="wikilink">孫暢敏</a>、<a href="../Page/都知嫄.md" title="wikilink">都知嫄</a>、<a href="../Page/金姬貞.md" title="wikilink">金姬貞</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/白浩民.md" title="wikilink">白浩民</a>、<a href="https://zh.wikipedia.org/wiki/李在珍_(導演)" title="wikilink">李在珍</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/白浩民.md" title="wikilink">白浩民</a>、<a href="../Page/李在珍_(導演).md" title="wikilink">李在珍</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金順玉.md" title="wikilink">金順玉</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -895,11 +895,11 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 <tr class="odd">
 <td style="text-align: center;"><p>2017年5月13日－2017年11月5日<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/小偷傢伙，小偷大人" title="wikilink">小偷傢伙，小偷大人</a><br />
+<td style="text-align: center;"><p><a href="../Page/小偷傢伙，小偷大人.md" title="wikilink">小偷傢伙，小偷大人</a><br />
 </p></td>
 <td style="text-align: center;"><p>50</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/徐玄" title="wikilink">徐玄</a>、<a href="../Page/智鉉寓.md" title="wikilink">智鉉寓</a>、<a href="../Page/金智勳.md" title="wikilink">金智勳</a>、<a href="../Page/林珠銀.md" title="wikilink">林珠銀</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳慶勳" title="wikilink">吳慶勳</a>、<a href="https://zh.wikipedia.org/wiki/張俊浩" title="wikilink">張俊浩</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳慶勳" title="wikilink">吳慶勳</a>、<a href="../Page/張俊浩.md" title="wikilink">張俊浩</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/孫英睦.md" title="wikilink">孫英睦</a>、<a href="https://zh.wikipedia.org/wiki/車怡英" title="wikilink">車怡英</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -945,10 +945,10 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 <tr class="odd">
 <td style="text-align: center;"><p>2018年3月3日－2018年5月19日<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/入贅丈夫吳作鬥" title="wikilink">入贅丈夫吳作鬥</a><br />
+<td style="text-align: center;"><p><a href="../Page/入贅丈夫吳作鬥.md" title="wikilink">入贅丈夫吳作鬥</a><br />
 </p></td>
 <td style="text-align: center;"><p>24</p></td>
-<td style="text-align: center;"><p><a href="../Page/金剛于.md" title="wikilink">金剛-{于}-</a>、<a href="../Page/Uie.md" title="wikilink">Uie</a>、<a href="https://zh.wikipedia.org/wiki/鄭尚勳" title="wikilink">鄭尚勳</a>、<a href="../Page/韓善伙.md" title="wikilink">韓善伙</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金剛于.md" title="wikilink">金剛-{于}-</a>、<a href="../Page/Uie.md" title="wikilink">Uie</a>、<a href="../Page/鄭尚勳.md" title="wikilink">鄭尚勳</a>、<a href="../Page/韓善伙.md" title="wikilink">韓善伙</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/白浩民.md" title="wikilink">白浩民</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/劉允京" title="wikilink">劉允京</a></p></td>
 <td style="text-align: center;"></td>
@@ -956,10 +956,10 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 <tr class="even">
 <td style="text-align: center;"><p>2018年5月26日－2018年8月4日<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/離別已別離" title="wikilink">離別已別離</a><br />
+<td style="text-align: center;"><p><a href="../Page/離別已別離.md" title="wikilink">離別已別離</a><br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
-<td style="text-align: center;"><p><a href="../Page/蔡時那.md" title="wikilink">蔡時那</a>、<a href="../Page/李成宰.md" title="wikilink">李成宰</a>、<a href="../Page/趙寶兒.md" title="wikilink">趙寶兒</a>、<a href="https://zh.wikipedia.org/wiki/李濬榮" title="wikilink">李濬榮</a>、<a href="../Page/鄭慧英.md" title="wikilink">鄭慧英</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/蔡時那.md" title="wikilink">蔡時那</a>、<a href="../Page/李成宰.md" title="wikilink">李成宰</a>、<a href="../Page/趙寶兒.md" title="wikilink">趙寶兒</a>、<a href="../Page/李濬榮.md" title="wikilink">李濬榮</a>、<a href="../Page/鄭慧英.md" title="wikilink">鄭慧英</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金民植" title="wikilink">金民植</a>、<a href="https://zh.wikipedia.org/wiki/盧英燮" title="wikilink">盧英燮</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/蘇在源" title="wikilink">蘇在源</a></p></td>
 <td style="text-align: center;"></td>
@@ -978,11 +978,11 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 <tr class="even">
 <td style="text-align: center;"><p>2018年11月24日－2019年2月16日<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/與神的約定" title="wikilink">與神的約定</a><br />
+<td style="text-align: center;"><p><a href="../Page/與神的約定.md" title="wikilink">與神的約定</a><br />
 </p></td>
 <td style="text-align: center;"><p>48</p></td>
 <td style="text-align: center;"><p><a href="../Page/韓彩英.md" title="wikilink">韓彩英</a>、<a href="../Page/裴秀彬.md" title="wikilink">裴秀彬</a>、<a href="../Page/李天熙.md" title="wikilink">李天熙</a>、<a href="../Page/吳允兒.md" title="wikilink">吳允兒</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹在文" title="wikilink">尹在文</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/尹在文.md" title="wikilink">尹在文</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/洪瑩熙" title="wikilink">洪瑩熙</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1017,18 +1017,18 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 <tr class="odd">
 <td style="text-align: center;"><p>2019年2月23日－<br />
 2019年4月27日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/悲傷時相愛" title="wikilink">悲傷時相愛</a><br />
+<td style="text-align: center;"><p><a href="../Page/悲傷時相愛.md" title="wikilink">悲傷時相愛</a><br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
 <td style="text-align: center;"><p><a href="../Page/智鉉寓.md" title="wikilink">智鉉寓</a>、<a href="../Page/朴韓星.md" title="wikilink">朴韓星</a>、<a href="../Page/柳秀榮.md" title="wikilink">柳秀榮</a>、<a href="../Page/王嬪娜.md" title="wikilink">王嬪娜</a>、<a href="../Page/朴荷娜.md" title="wikilink">朴荷娜</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔怡燮" title="wikilink">崔怡燮</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/崔怡燮.md" title="wikilink">崔怡燮</a></p></td>
 <td style="text-align: center;"><p>宋正琳</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年5月4日－<br />
 2019年7月</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/異夢" title="wikilink">異夢</a><br />
+<td style="text-align: center;"><p><a href="../Page/異夢.md" title="wikilink">異夢</a><br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
 <td style="text-align: center;"><p><a href="../Page/李枖原.md" title="wikilink">李枖原</a>、<a href="../Page/劉智泰.md" title="wikilink">劉智泰</a>、<a href="../Page/林周煥.md" title="wikilink">林周煥</a>、<a href="../Page/南奎里.md" title="wikilink">南奎里</a></p></td>

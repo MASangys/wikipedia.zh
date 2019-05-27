@@ -13,8 +13,7 @@ Amuse 為主體，還包括專門製作音樂軟體的  及製作、銷售影像
 Creative](../Page/萬代影視.md "wikilink")
 兩家公司就**動畫相關內容的海外發展**發表締結業務合作聲明\[1\]。海外拓展的內容包含了
 **Lantis 旗下藝人**之演唱會及**動漫相關活動**（例如 [Lantis
-Festival](https://zh.wikipedia.org/wiki/Lantis_Festival "wikilink") 和
-[**Anisong World
+Festival](../Page/Lantis_Festival.md "wikilink") 和 [**Anisong World
 Matsuri**](http://www.anime-expo.org/anisong-world-matsuri-2017/)）的主辦權、且公開販售
 Lantis 和 BANDAI NAMCO Live Creative 所有版權的動漫歌曲等（於 ASMART
 上架，台灣地區由Yahoo奇摩超級商城代理）。
@@ -36,7 +35,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")
   - [上野樹里](../Page/上野樹里.md "wikilink")
   - [植原卓也](../Page/植原卓也.md "wikilink")
   - [大谷亮平](../Page/大谷亮平.md "wikilink")
-  - [小倉久寬](https://zh.wikipedia.org/wiki/小倉久寬 "wikilink")
+  - [小倉久寬](../Page/小倉久寬.md "wikilink")
 
 <!-- end list -->
 
@@ -44,15 +43,15 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")
 
 <!-- end list -->
 
-  - [甲斐翔真](https://zh.wikipedia.org/wiki/甲斐翔真 "wikilink")
+  - [甲斐翔真](../Page/甲斐翔真.md "wikilink")
   - [加賀美聖良](https://zh.wikipedia.org/wiki/加賀美聖良 "wikilink")
   - [賀来賢人](https://zh.wikipedia.org/wiki/賀来賢人 "wikilink")
   - [風間由次郎](https://zh.wikipedia.org/wiki/風間由次郎 "wikilink")
   - [株元英彰](https://zh.wikipedia.org/wiki/株元英彰 "wikilink")
   - [神木隆之介](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink")
   - [岸谷五朗](../Page/岸谷五朗.md "wikilink")
-  - [清原果耶](https://zh.wikipedia.org/wiki/清原果耶 "wikilink")
-  - [熊田茜音](https://zh.wikipedia.org/wiki/熊田茜音 "wikilink")
+  - [清原果耶](../Page/清原果耶.md "wikilink")
+  - [熊田茜音](../Page/熊田茜音.md "wikilink")
   - [Cross Gene](https://zh.wikipedia.org/wiki/:CROSS_GENE "wikilink")
   - [向野章太郎](https://zh.wikipedia.org/wiki/向野章太郎 "wikilink")
   - [小關裕太](../Page/小關裕太.md "wikilink")
@@ -109,7 +108,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")
   - [藤原櫻](../Page/藤原櫻.md "wikilink")
   - [凡人譜](../Page/凡人譜.md "wikilink")
   - [FLOW](../Page/FLOW_\(樂團\).md "wikilink")
-  - [星野源](https://zh.wikipedia.org/wiki/星野源 "wikilink")
+  - [星野源](../Page/星野源.md "wikilink")
   - [色情塗鴉](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")
 
 <!-- end list -->
@@ -124,7 +123,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")
   - [水田航生](../Page/水田航生.md "wikilink")
   - [溝口琢矢](../Page/溝口琢矢.md "wikilink")
   - [三宅裕司](https://zh.wikipedia.org/wiki/三宅裕司 "wikilink")
-  - [愛希禮夏](https://zh.wikipedia.org/wiki/愛希禮夏 "wikilink")
+  - [愛希禮夏](../Page/愛希禮夏.md "wikilink")
   - [五月天](../Page/五月天.md "wikilink")
 
 <!-- end list -->
@@ -155,8 +154,8 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")
 
   - [慢慢說MURMURSHOW](../Page/慢慢說樂團.md "wikilink")
   - [田中千绘](../Page/田中千绘.md "wikilink")（日籍）
-  - [李聿安](https://zh.wikipedia.org/wiki/李婕 "wikilink")
-  - [張行](https://zh.wikipedia.org/wiki/張行 "wikilink")
+  - [李聿安](../Page/李婕.md "wikilink")
+  - [張行](../Page/張行.md "wikilink")
   - WHATEVER樂團
 
 <!-- end list -->

@@ -26,7 +26,7 @@ Europaea、欧洲分子生物组织(EMBO)、[美国文理科学院以及](../Pag
   - 2010 [Rosenstiel
     Award](https://zh.wikipedia.org/wiki/Rosenstiel_Award "wikilink")
     (与Ruslan M. Medzhitov分享)
-  - 2010 [庆应医学奖](https://zh.wikipedia.org/wiki/庆应医学奖 "wikilink")
+  - 2010 [庆应医学奖](../Page/庆应医学奖.md "wikilink")
   - 2011 [Gairdner Foundation International
     Award](https://zh.wikipedia.org/wiki/Gairdner_Foundation_International_Award "wikilink")
     (与[審良靜男分享](../Page/審良靜男.md "wikilink"))

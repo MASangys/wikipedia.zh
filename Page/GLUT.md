@@ -54,7 +54,7 @@ API：[freeglut](https://zh.wikipedia.org/wiki/freeglut "wikilink")，以盡可�
   - [Simple DirectMedia
     Layer](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")（SDL）
 
-  - [GLFW](https://zh.wikipedia.org/wiki/GLFW "wikilink")
+  - [GLFW](../Page/GLFW.md "wikilink")
 
 ## 外部連結
 

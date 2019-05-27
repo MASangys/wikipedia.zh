@@ -8,7 +8,7 @@
     [出町勇人](https://zh.wikipedia.org/wiki/出町勇人 "wikilink")）
   - 西川陽子 - [齊藤由貴](../Page/齊藤由貴.md "wikilink")（15歳 -
     [三浦透子](https://zh.wikipedia.org/wiki/三浦透子 "wikilink")）
-  - 大久保真一 - [三上博史](https://zh.wikipedia.org/wiki/三上博史 "wikilink")（15歳 -
+  - 大久保真一 - [三上博史](../Page/三上博史.md "wikilink")（15歳 -
     [栗田將輝](https://zh.wikipedia.org/wiki/栗田將輝 "wikilink")）
   - 宮澤誠一郎 - [吹越滿](../Page/吹越滿.md "wikilink")
   - 龜村太一 - [六角精兒](https://zh.wikipedia.org/wiki/六角精兒 "wikilink")

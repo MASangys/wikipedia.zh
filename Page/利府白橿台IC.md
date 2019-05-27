@@ -4,7 +4,7 @@
 
 ### 直接連接
 
-  - [宮城縣道3號鹽釜吉岡線](https://zh.wikipedia.org/wiki/宮城縣道3號鹽釜吉岡線 "wikilink")
+  - [宮城縣道3號鹽釜吉岡線](../Page/宮城縣道3號鹽釜吉岡線.md "wikilink")
 
 ## 歷史
 

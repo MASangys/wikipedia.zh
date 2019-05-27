@@ -173,7 +173,7 @@ Seven的力量。
 <!-- end list -->
 
   - SP
-    聲 - [高部愛](https://zh.wikipedia.org/wiki/高部愛 "wikilink")
+    聲 - [高部愛](../Page/高部愛.md "wikilink")
     **生日**：9月27日
     **血型**：B型
     **年齡**：不明
@@ -276,8 +276,8 @@ Seven的力量。
 <td><p>#02</p></td>
 <td></td>
 <td><p>琉璃色的羁绊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松尾衡" title="wikilink">松尾衡</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/五月女浩一朗" title="wikilink">五月女浩一朗</a></p></td>
+<td><p><a href="../Page/松尾衡.md" title="wikilink">松尾衡</a></p></td>
+<td><p><a href="../Page/五月女浩一朗.md" title="wikilink">五月女浩一朗</a></p></td>
 <td><p>杉光登</p></td>
 <td></td>
 </tr>

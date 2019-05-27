@@ -1346,7 +1346,7 @@ CANVAS」上的「星之時鐘」的指針走過一圈時，「LOST CANVAS」就
   - [天退星](https://zh.wikipedia.org/wiki/天退星 "wikilink")
     [玄武](../Page/玄武.md "wikilink") 格雷高
 
-:\*聲優：[金光宣明](https://zh.wikipedia.org/wiki/金光宣明 "wikilink")／港：[李錦綸](https://zh.wikipedia.org/wiki/李錦綸 "wikilink")
+:\*聲優：[金光宣明](../Page/金光宣明.md "wikilink")／港：[李錦綸](https://zh.wikipedia.org/wiki/李錦綸 "wikilink")
 
   -
     天退星被稱為「玄武」的冥鬥士。攻擊方式是蜷縮身體砸向對手。

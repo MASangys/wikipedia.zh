@@ -3,7 +3,7 @@ Films**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），�
 
 ## 簡介
 
-前作《[DOOR](https://zh.wikipedia.org/wiki/DOOR_\(可苦可樂單曲\) "wikilink")》約5個月之後發行。可苦可樂首次親自擔任[音樂製作人的單曲](../Page/音樂製作人.md "wikilink")，也是從此開始，之後的唱片都是可苦可樂親自製作。
+前作《[DOOR](../Page/DOOR_\(可苦可樂單曲\).md "wikilink")》約5個月之後發行。可苦可樂首次親自擔任[音樂製作人的單曲](../Page/音樂製作人.md "wikilink")，也是從此開始，之後的唱片都是可苦可樂親自製作。
 
 《永遠在一起》是[小淵健太郎為朋友的](../Page/小淵健太郎.md "wikilink")[婚禮所作的歌曲](https://zh.wikipedia.org/wiki/婚禮 "wikilink")（新郎是可苦可樂的演唱會工作人員；新娘本身是音樂人，也是可苦可樂的support成員），小淵在婚禮舉行前不久才用很短的時間創作出這首歌。至今這首歌已經成為日本的一首婚禮定番歌曲。
 

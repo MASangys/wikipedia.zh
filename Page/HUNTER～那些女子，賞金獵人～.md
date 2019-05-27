@@ -125,7 +125,7 @@
 
 <!-- end list -->
 
-  - 大岩省吾（65）：[柄本明](https://zh.wikipedia.org/wiki/柄本明 "wikilink")
+  - 大岩省吾（65）：[柄本明](../Page/柄本明.md "wikilink")
 
 <!-- end list -->
 
@@ -231,7 +231,7 @@
 
   - 惠利子：
   - 瀨谷利夫：諫山幸治
-  - 楢崎修：[尾美利德](https://zh.wikipedia.org/wiki/尾美利德 "wikilink")（青年時期：茨木真之介）
+  - 楢崎修：[尾美利德](../Page/尾美利德.md "wikilink")（青年時期：茨木真之介）
   - 古谷雄一：川嶋秀明
 
 <!-- end list -->

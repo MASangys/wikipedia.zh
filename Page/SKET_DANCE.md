@@ -920,7 +920,7 @@ Site「[VOMIC](https://zh.wikipedia.org/wiki/VOMIC "wikilink")」放送。
 <td><p>5月26日</p></td>
 <td><p><a href="../Page/筆安一幸.md" title="wikilink">筆安一幸</a></p></td>
 <td><p>渡邊慎一</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/貞方希久子" title="wikilink">貞方希久子</a></p></td>
+<td><p><a href="../Page/貞方希久子.md" title="wikilink">貞方希久子</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

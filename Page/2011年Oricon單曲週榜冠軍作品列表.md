@@ -53,7 +53,7 @@
 </tr>
 <tr class="even">
 <td><p>2月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Why?_(Keep_Your_Head_Down)" title="wikilink">Why? (Keep Your Head Down)</a></p></td>
+<td><p><a href="../Page/Why?_(Keep_Your_Head_Down).md" title="wikilink">Why? (Keep Your Head Down)</a></p></td>
 <td><p><a href="../Page/東方神起.md" title="wikilink">東方神起</a></p></td>
 <td><p>23.1</p></td>
 <td><p>1</p></td>

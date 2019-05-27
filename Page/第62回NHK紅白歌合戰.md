@@ -201,7 +201,7 @@ Gaga确定以录像的形式登场](../Page/Lady_Gaga.md "wikilink")，[成龙�
 <td><p><strong><a href="../Page/松田聖子.md" title="wikilink">松田聖子</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/神田沙也加" title="wikilink">神田沙也加</a></strong></p></td>
+<td><p><strong><a href="../Page/神田沙也加.md" title="wikilink">神田沙也加</a></strong></p></td>
 <td><p>初</p></td>
 </tr>
 <tr class="odd">
@@ -214,7 +214,7 @@ Gaga确定以录像的形式登场](../Page/Lady_Gaga.md "wikilink")，[成龙�
 </tr>
 <tr class="odd">
 <td><p>47</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天童芳美" title="wikilink">天童芳美</a></p></td>
+<td><p><a href="../Page/天童芳美.md" title="wikilink">天童芳美</a></p></td>
 </tr>
 <tr class="even">
 <td><p>49</p></td>

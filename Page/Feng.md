@@ -3,8 +3,7 @@
 ## 作品列表
 
   - 2002年7月26日 - knot 〜〜
-  - 2003年11月7日 - [White
-    Princess](https://zh.wikipedia.org/wiki/White_Princess "wikilink")
+  - 2003年11月7日 - [White Princess](../Page/White_Princess.md "wikilink")
   - 2005年3月4日 -
   - 2006年4月21日 - [望见青空之丘](../Page/望见青空之丘.md "wikilink")（）
   - 2007年7月27日 - [染红的街道](../Page/染红的街道.md "wikilink")（）
@@ -13,13 +12,11 @@
   - 2012年4月27日 -
     [架向星空之桥AA](https://zh.wikipedia.org/wiki/架向星空之桥 "wikilink")（）
   - 2013年10月25日 -
-  - 2014年12月19日 -
-    [彼女のセイイキ](https://zh.wikipedia.org/wiki/她的聖域 "wikilink")
+  - 2014年12月19日 - [彼女のセイイキ](../Page/她的聖域.md "wikilink")
   - 2015年8月28日 -
   - 2016年11月25日 -
   - 2018年3月30日 -
-  - 2019年2月22日 -
-    [夢と色でできている](https://zh.wikipedia.org/wiki/由夢想與色彩組成的 "wikilink")
+  - 2019年2月22日 - [夢と色でできている](../Page/由夢想與色彩組成的.md "wikilink")
 
 ## 主要人员
 

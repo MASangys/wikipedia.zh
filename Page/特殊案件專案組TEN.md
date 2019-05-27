@@ -1,4 +1,4 @@
-《**特殊案件專案組TEN**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN製播的](https://zh.wikipedia.org/wiki/OCN "wikilink")[經典系列電視劇](https://zh.wikipedia.org/wiki/OCN_Original_Series "wikilink")（Original
+《**特殊案件專案組TEN**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN製播的](https://zh.wikipedia.org/wiki/OCN "wikilink")[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original
 Series），[李勝英導演與](https://zh.wikipedia.org/wiki/李勝英 "wikilink")[李再坤](https://zh.wikipedia.org/wiki/李再坤 "wikilink")、[南相旭作家攜手合作](https://zh.wikipedia.org/wiki/南相旭 "wikilink")，[朱相昱](../Page/朱相昱.md "wikilink")、[趙安](../Page/趙安_\(韓國藝人\).md "wikilink")、[金相浩](../Page/金相浩.md "wikilink")、[崔宇植參與演出](../Page/崔宇植.md "wikilink")。描繪負責破案率不足10%的重大犯罪案件的特殊案件專案組的正宗刑偵劇，以「消滅有的未結案件」為出發點想要逼真地描摹出與那些妄圖進行完美犯罪的殺人凶手鬥智鬥勇的特別案件組。
 
 ## 系列概況
@@ -22,8 +22,7 @@ Series），[李勝英導演與](https://zh.wikipedia.org/wiki/李勝英 "wikili
     ([TVB](https://zh.wikipedia.org/wiki/TVB "wikilink"))）
   - [趙　安](../Page/趙安_\(韓國藝人\).md "wikilink") 飾演
     南睿莉（粵語配音：[賴芸芬](../Page/賴芸芬.md "wikilink")
-    (channel M)、[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")
-    (TVB)）
+    (channel M)、[黃瑩瑩](../Page/黃瑩瑩.md "wikilink") (TVB)）
   - [金相浩](../Page/金相浩.md "wikilink") 飾演
     白道式（粵語配音：[李建良](https://zh.wikipedia.org/wiki/李建良 "wikilink")
     (channel M)、[朱子聰](../Page/朱子聰.md "wikilink") (TVB)）
@@ -34,7 +33,7 @@ Series），[李勝英導演與](https://zh.wikipedia.org/wiki/李勝英 "wikili
 
 #### 其他角色
 
-  - [尹智慧](https://zh.wikipedia.org/wiki/尹智慧 "wikilink") 飾演
+  - [尹智慧](../Page/尹智慧.md "wikilink") 飾演
     徐友蘭（粵語配音：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")
     (TVB)）
   - [崔凡浩](https://zh.wikipedia.org/wiki/崔凡浩 "wikilink") 飾演
@@ -86,7 +85,7 @@ Series），[李勝英導演與](https://zh.wikipedia.org/wiki/李勝英 "wikili
   - [朱相昱](../Page/朱相昱.md "wikilink") 饰演
     呂智勳（粤语配音：[苏强文](https://zh.wikipedia.org/wiki/苏强文 "wikilink")）
   - [趙　安](../Page/趙安_\(韓國藝人\).md "wikilink") 飾演
-    南睿莉（粵語配音：[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")）
+    南睿莉（粵語配音：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")）
   - [金相浩](../Page/金相浩.md "wikilink") 飾演
     白道式（粵語配音：[朱子聰](../Page/朱子聰.md "wikilink")）
   - [崔宇植](../Page/崔宇植.md "wikilink") 飾演
@@ -97,7 +96,7 @@ Series），[李勝英導演與](https://zh.wikipedia.org/wiki/李勝英 "wikili
   - [崔凡浩](https://zh.wikipedia.org/wiki/崔凡浩 "wikilink") 飾演
     鄭宇植（粵語配音：[招世亮](../Page/招世亮.md "wikilink")）
 
-  - [尹智慧](https://zh.wikipedia.org/wiki/尹智慧 "wikilink") 飾演
+  - [尹智慧](../Page/尹智慧.md "wikilink") 飾演
     徐友蘭（粵語配音：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")）
 
   - [崔　珉](../Page/崔珉.md "wikilink") 飾演
@@ -109,7 +108,7 @@ Series），[李勝英導演與](https://zh.wikipedia.org/wiki/李勝英 "wikili
   - [金鎬英](https://zh.wikipedia.org/wiki/金鎬英 "wikilink") 飾演
     鄭由秀（第2集）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
 
-  - [朴秉恩](https://zh.wikipedia.org/wiki/朴秉恩 "wikilink") 飾演
+  - [朴秉恩](../Page/朴秉恩.md "wikilink") 飾演
     宋慶泰（第2集）（粵語配音：[陳卓智](../Page/陳卓智.md "wikilink")）
 
   - [吳承允](../Page/吳承允.md "wikilink") 飾演

@@ -2,13 +2,13 @@
 
 ## 历史
 
-OTs-14研制计划开展于1992年12月，主设计师分别是[GP-25下挂式榴弹发射器设计者维列里](../Page/GP-25附加型榴彈發射器.md "wikilink")·捷列什和尤里·列别捷夫。\[1\]研发团队以成熟的[AKS-74U卡宾枪为起点](../Page/AKS-74U卡宾枪.md "wikilink")，设计出一款结合了各种近身战斗枪械特点的新武器。在经历将近1年的测试后，OTs-14在1994年初得以投产，并在同年4月的在[莫斯科举行的武器展销会中亮相](../Page/莫斯科.md "wikilink")。很快，OTs-14赢得了[俄联邦内务部队](../Page/俄罗斯联邦内务部.md "wikilink")（МВД）和[格魯烏旗下的](https://zh.wikipedia.org/wiki/格魯烏 "wikilink")[特种部队](../Page/俄罗斯特种部队.md "wikilink")（Спецназ）的青睐。除了这两支部队以外，一些伞兵部队和[工兵等前线特殊战斗单位也装备了这种武器](https://zh.wikipedia.org/wiki/工兵 "wikilink")。OTs-14设计初期有[5.45×39毫米](../Page/5.45×39mm.md "wikilink")、[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")、[7.62×39毫米和](../Page/7.62×39mm.md "wikilink")[9×39毫米](https://zh.wikipedia.org/wiki/9×39mm "wikilink")4种口径，但为满足内务部队在[车臣战争中队近战武器的需求](https://zh.wikipedia.org/wiki/车臣战争 "wikilink")，早期只生产了9x39毫米的型号，即“闪电-4”型。后来也生产了7.62×39毫米的“闪电-1”型，以满足其他部队的需要。\[2\]
+OTs-14研制计划开展于1992年12月，主设计师分别是[GP-25下挂式榴弹发射器设计者维列里](../Page/GP-25附加型榴彈發射器.md "wikilink")·捷列什和尤里·列别捷夫。\[1\]研发团队以成熟的[AKS-74U卡宾枪为起点](../Page/AKS-74U卡宾枪.md "wikilink")，设计出一款结合了各种近身战斗枪械特点的新武器。在经历将近1年的测试后，OTs-14在1994年初得以投产，并在同年4月的在[莫斯科举行的武器展销会中亮相](../Page/莫斯科.md "wikilink")。很快，OTs-14赢得了[俄联邦内务部队](../Page/俄罗斯联邦内务部.md "wikilink")（МВД）和[格魯烏旗下的](https://zh.wikipedia.org/wiki/格魯烏 "wikilink")[特种部队](../Page/俄罗斯特种部队.md "wikilink")（Спецназ）的青睐。除了这两支部队以外，一些伞兵部队和[工兵等前线特殊战斗单位也装备了这种武器](https://zh.wikipedia.org/wiki/工兵 "wikilink")。OTs-14设计初期有[5.45×39毫米](../Page/5.45×39mm.md "wikilink")、[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")、[7.62×39毫米和](../Page/7.62×39mm.md "wikilink")[9×39毫米](../Page/9×39mm.md "wikilink")4种口径，但为满足内务部队在[车臣战争中队近战武器的需求](https://zh.wikipedia.org/wiki/车臣战争 "wikilink")，早期只生产了9x39毫米的型号，即“闪电-4”型。后来也生产了7.62×39毫米的“闪电-1”型，以满足其他部队的需要。\[2\]
 
 ## 设计
 
 OTs-14设计基于AKS-74U[卡宾枪](../Page/卡宾枪.md "wikilink")，因而继承其[气动式活塞系统和](../Page/氣動式_\(槍械\).md "wikilink")[转拴式枪机闭锁系统](https://zh.wikipedia.org/wiki/转拴式枪机 "wikilink")，以及气冷枪管、弹匣供弹等特性。正因如此，OTs-14与AKS-74U有75%的部件是可以互换的，主要零件也是从AKS-74U改良所得，并有所简化，以降低生产成本。由于采取了模块化设计，任何一种“闪电-4”型号都能通过更换零件变成另一种，以适应不同任务的需要。\[3\]OTs-14采用了[无托结构](https://zh.wikipedia.org/wiki/无托结构 "wikilink")，提高了便携性并使枪重量平衡，易于单手握持并可以像手枪一样单手射击。
 
-OTs-14使用封闭式[枪机](https://zh.wikipedia.org/wiki/枪机 "wikilink")，有开火模式选择功能。机械式瞄具整合在枪身上方的提把上，照门位置可调，以便瞄准射击50米到200米范围目标。[PSO-1光學瞄準鏡可以安装在提把上方的对应位置](../Page/PSO-1光學瞄準鏡.md "wikilink"),OTs-14亦可安装夜视仪，加强夜间作战能力。
+OTs-14使用封闭式[枪机](../Page/枪机.md "wikilink")，有开火模式选择功能。机械式瞄具整合在枪身上方的提把上，照门位置可调，以便瞄准射击50米到200米范围目标。[PSO-1光學瞄準鏡可以安装在提把上方的对应位置](../Page/PSO-1光學瞄準鏡.md "wikilink"),OTs-14亦可安装夜视仪，加强夜间作战能力。
 
 ### 配件
 
@@ -52,7 +52,7 @@ OTs-14与各种配件可以装在专用铝制运输箱里，以应对多种不�
       - OTs-14-1A-03命名為「GROZA-1」，30+1發彈匣，為「武器包」中新增武器，被歸類為[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，可被所有兵種使用。
       - OTs-14-4A-03命名為「GROZA-4」，20+1發彈匣，為「武器包」中新增武器，被歸類為[個人防衛武器](../Page/個人防衛武器.md "wikilink")，可被工程兵所使用。
   - 2016年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：2016年夏季活動登場，被萌擬人化的少女戰術人形。
-  - 2017年—《[絕地求生](https://zh.wikipedia.org/wiki/絕地求生 "wikilink")》（PlayerUnknown's
+  - 2017年—《[絕地求生](../Page/絕地求生.md "wikilink")》（PlayerUnknown's
     Battlegrounds）：型號為OTs-14-1A，命名為「Groza」，作為只能夠在空投補給獲得的武器及全自動步槍出現，裝彈量為30（擴容後為40），可配備：步槍消音器、所有突擊步槍彈匣、紅點瞄準鏡、全息瞄準鏡、6倍及以下高倍瞄準鏡
 
 ### 生存遊戲用槍

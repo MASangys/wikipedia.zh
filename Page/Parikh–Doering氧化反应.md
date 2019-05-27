@@ -1,6 +1,6 @@
 **Parikh-Doering氧化反应**（Parikh-Doering oxidation）
 
-以[二甲亚砜为](https://zh.wikipedia.org/wiki/二甲亚砜 "wikilink")[氧化剂](../Page/氧化剂.md "wikilink")，[三氧化硫-吡啶络合物为活化剂](https://zh.wikipedia.org/wiki/三氧化硫吡啶 "wikilink")，[三乙胺为碱而将](../Page/三乙胺.md "wikilink")[伯醇和](https://zh.wikipedia.org/wiki/伯醇 "wikilink")[仲醇转化为相应的](https://zh.wikipedia.org/wiki/仲醇 "wikilink")[醛](../Page/醛.md "wikilink")[酮](../Page/酮.md "wikilink")。
+以[二甲亚砜为](https://zh.wikipedia.org/wiki/二甲亚砜 "wikilink")[氧化剂](../Page/氧化剂.md "wikilink")，[三氧化硫-吡啶络合物为活化剂](../Page/三氧化硫吡啶.md "wikilink")，[三乙胺为碱而将](../Page/三乙胺.md "wikilink")[伯醇和](https://zh.wikipedia.org/wiki/伯醇 "wikilink")[仲醇转化为相应的](https://zh.wikipedia.org/wiki/仲醇 "wikilink")[醛](../Page/醛.md "wikilink")[酮](../Page/酮.md "wikilink")。
 
 
 [parikh-doeringscheme.png](https://zh.wikipedia.org/wiki/File:parikh-doeringscheme.png "fig:parikh-doeringscheme.png")

@@ -71,7 +71,7 @@ IS-2坦克也被交给[中国人民志愿军并参加了](../Page/中国人民�
 
 <!-- end list -->
 
-  - [古巴革命武装力量](https://zh.wikipedia.org/wiki/古巴革命武装力量 "wikilink"):1960年交付41辆IS-2M。
+  - [古巴革命武装力量](../Page/古巴革命武装力量.md "wikilink"):1960年交付41辆IS-2M。
 
 <!-- end list -->
 

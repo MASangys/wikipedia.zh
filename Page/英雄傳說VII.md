@@ -38,7 +38,7 @@
 <!-- end list -->
 
   - 而後個人電腦[Microsoft
-    Windows平台版本在](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[英特衛的極力請求下](https://zh.wikipedia.org/wiki/英特衛 "wikilink")，[欢乐百世決定取得代理並負責移植與進行](https://zh.wikipedia.org/wiki/欢乐百世 "wikilink")[高畫質重製](../Page/HD_DVD.md "wikilink")\[9\]。
+    Windows平台版本在](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[英特衛的極力請求下](https://zh.wikipedia.org/wiki/英特衛 "wikilink")，[欢乐百世決定取得代理並負責移植與進行](../Page/欢乐百世.md "wikilink")[高畫質重製](../Page/HD_DVD.md "wikilink")\[9\]。
 
 <!-- end list -->
 
@@ -719,8 +719,8 @@ Craft）與支援戰技（Support Craft）。《碧》則在AI戰鬥系統中新
 ### 中文版
 
 個人電腦[Microsoft
-Windows平台版本由在](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[英特衛的極力請求下](https://zh.wikipedia.org/wiki/英特衛 "wikilink")，[欢乐百世決定取得代理並負責移植與進行](https://zh.wikipedia.org/wiki/欢乐百世 "wikilink")[高畫質重製](../Page/HD_DVD.md "wikilink")\[44\]。
-簡體中文版由[欢乐百世在中國大陸發售](https://zh.wikipedia.org/wiki/欢乐百世 "wikilink")，而繁體中文版由[英特衛和](https://zh.wikipedia.org/wiki/英特衛 "wikilink")[Typhoon
+Windows平台版本由在](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[英特衛的極力請求下](https://zh.wikipedia.org/wiki/英特衛 "wikilink")，[欢乐百世決定取得代理並負責移植與進行](../Page/欢乐百世.md "wikilink")[高畫質重製](../Page/HD_DVD.md "wikilink")\[44\]。
+簡體中文版由[欢乐百世在中國大陸發售](../Page/欢乐百世.md "wikilink")，而繁體中文版由[英特衛和](https://zh.wikipedia.org/wiki/英特衛 "wikilink")[Typhoon
 Games分別在臺灣及香港發售](../Page/Typhoon_Games.md "wikilink")。
 
 | 版本   | 各地發行時間      |

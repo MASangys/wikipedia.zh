@@ -15,8 +15,7 @@ Town首次以雙CD的形式推出家族合輯](../Page/SM_Town.md "wikilink")。
     [BoA](https://zh.wikipedia.org/wiki/BoA "wikilink"),
     [M.I.L.K](https://zh.wikipedia.org/wiki/M.I.L.K "wikilink")
 5.  Blind – [Fly to the Sky](../Page/Fly_to_the_Sky.md "wikilink")
-6.  My Christmas Story –
-    [Dana](https://zh.wikipedia.org/wiki/喜悅Dana "wikilink")
+6.  My Christmas Story – [Dana](../Page/喜悅Dana.md "wikilink")
 7.  Silver Bell – [安七炫](../Page/安七炫.md "wikilink"),
     [申彗星](../Page/申彗星.md "wikilink"), Isak N Jiyeon
 8.  들어볼래요 – Black Beat

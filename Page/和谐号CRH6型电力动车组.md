@@ -15,7 +15,7 @@ CRH6型动车组具有轻量化大功率牵引设备，采用交流传动技术�
 [CRH6A-0407_at_Pearl_River_West_Bridge_(20180924132130).jpg](https://zh.wikipedia.org/wiki/File:CRH6A-0407_at_Pearl_River_West_Bridge_\(20180924132130\).jpg "fig:CRH6A-0407_at_Pearl_River_West_Bridge_(20180924132130).jpg")的CRH6A于[珠江大桥](../Page/珠江大桥.md "wikilink")\]\]
 CRH6A车型定员载客量557人（座席）\[6\]（双门中间车厢，一说554人）\[7\]或477人（三门中间车厢）\[8\]，超员载客量1488人（按每平方米站立4人计算）。座位采用2+2布置、可调节座椅，局部设茶桌，端部设可翻转座椅；非端段部的车厢座椅编排与欧洲铁路车辆及大部分国铁车厢的软座較常用，全部座椅面向車廂中心的編排。另外1、3、5、7号车厢设置卫生间\[9\]，列车采用真空集便器。
 
-值得一提的是，CRH6A-4002和CRH6A-4502以及上海[金山铁路](https://zh.wikipedia.org/wiki/金山铁路 "wikilink")、北京[副中心线用车的中间车厢为三门车厢](https://zh.wikipedia.org/wiki/北京市郊铁路城市副中心线 "wikilink")，而其他的CRH6A车型均为双门车厢。
+值得一提的是，CRH6A-4002和CRH6A-4502以及上海[金山铁路](https://zh.wikipedia.org/wiki/金山铁路 "wikilink")、北京[副中心线用车的中间车厢为三门车厢](../Page/北京市郊铁路城市副中心线.md "wikilink")，而其他的CRH6A车型均为双门车厢。
 
 由[广深铁路股份有限公司向四方厂定制的CRH](https://zh.wikipedia.org/wiki/广深铁路股份有限公司 "wikilink")6A-4132\~4137采用与[统型CRH2型动车组相同的布局](../Page/和谐号CRH2型电力动车组.md "wikilink")，头尾车厢不设驾驶室门，并设置一等座车（ZY），二等座车改为3+2布局，其中二等座中部空间位置设有茶桌采用2+2布局，所有座椅均可旋转。在5号车厢（ZEC）还设置[吧台](https://zh.wikipedia.org/wiki/餐车 "wikilink")，亦设有残疾人士卫生间，车厢內部装潢与[复兴号动车组相似](https://zh.wikipedia.org/wiki/复兴号动车组 "wikilink")。这一部分的CRH6A全部配属[广深铁路股份有限公司广州东](https://zh.wikipedia.org/wiki/广深铁路股份有限公司 "wikilink")（石牌）动车所，担当[广深动车组列车](../Page/广深动车组列车.md "wikilink")。
 
@@ -342,7 +342,7 @@ CRH6A-A车型为CRH6A的4辆小编组版本，最大载客量达688人。该车�
 
 ### CRH6F（160km/h）
 
-[201712_CRH6F-0433_at_Changshaxi_Station.jpg](https://zh.wikipedia.org/wiki/File:201712_CRH6F-0433_at_Changshaxi_Station.jpg "fig:201712_CRH6F-0433_at_Changshaxi_Station.jpg")使用的CRH6F列车停靠在[长沙西站](https://zh.wikipedia.org/wiki/长沙西站 "wikilink")\]\]
+[201712_CRH6F-0433_at_Changshaxi_Station.jpg](https://zh.wikipedia.org/wiki/File:201712_CRH6F-0433_at_Changshaxi_Station.jpg "fig:201712_CRH6F-0433_at_Changshaxi_Station.jpg")使用的CRH6F列车停靠在[长沙西站](../Page/长沙西站.md "wikilink")\]\]
 CRH6F车型定员载客量达1502人（包括座席及站席，按每平方米站立4人计算），超员载客量达1998人（包括座席及站席，按每平方米站立6人计算）。列车座位同样采用2+2布置，但座椅不可调节或翻转；列车在3、6号车设[卫生间](https://zh.wikipedia.org/wiki/洗手間 "wikilink")。与CRH6A不同，车门采用宽阔的对开塞拉门，每节车辆侧设有3个塞拉门（头尾车辆有2个，其中一个为驾驶室门）。该车牵引制动性能比CRH6A更优、载客量更大，更适合较短站间距的城际线路和站站停模式使用。
 
 <File:201712> Interior of CRH6F-0433.jpg|CRH6F列车内部
@@ -554,7 +554,7 @@ CRH6F-A车型为CRH6F的4辆小编组版本，最大载客量达875人\[11\]。
 
 ### 基于Cinova城际列车平台衍生的市域动车组（140km/h）
 
-[WZMTR_S1_Train_with_CRH380B.jpg](https://zh.wikipedia.org/wiki/File:WZMTR_S1_Train_with_CRH380B.jpg "fig:WZMTR_S1_Train_with_CRH380B.jpg")市域动车组列车于[动车南站](https://zh.wikipedia.org/wiki/动车南站_\(温州市\) "wikilink")\]\]
+[WZMTR_S1_Train_with_CRH380B.jpg](https://zh.wikipedia.org/wiki/File:WZMTR_S1_Train_with_CRH380B.jpg "fig:WZMTR_S1_Train_with_CRH380B.jpg")市域动车组列车于[动车南站](../Page/动车南站_\(温州市\).md "wikilink")\]\]
 市域动车组车型定员载客量达765人，（包括座席及站席，按每平方米站立4人计算），超员载客量达1322人，座椅為一般城市軌道交通設計；列车在5号车厢设残疾人乘坐空间，列车不设洗手间，目前投入至[温州市域铁路S1线的运营](../Page/温州市域铁路S1线.md "wikilink")。
 
 ## 运用
@@ -575,7 +575,7 @@ CRH6F-A车型为CRH6F的4辆小编组版本，最大载客量达875人\[11\]。
 
 2017年9月28日，新采购的两列CRH6A在上海[金山铁路运行](https://zh.wikipedia.org/wiki/金山铁路 "wikilink")\[26\]。
 
-2017年11月3日，[北京市郊铁路城市副中心线的首列CRH](https://zh.wikipedia.org/wiki/北京市郊铁路城市副中心线 "wikilink")6A（车组编号0438）在青岛下线。\[27\]除上述线路外，CRH6A、CRH6F还获得了河南城际铁路等订单\[28\]。
+2017年11月3日，[北京市郊铁路城市副中心线的首列CRH](../Page/北京市郊铁路城市副中心线.md "wikilink")6A（车组编号0438）在青岛下线。\[27\]除上述线路外，CRH6A、CRH6F还获得了河南城际铁路等订单\[28\]。
 
 2018年1月14日，CRH6A型动车组列车在广深线投入运营。\[29\]
 
@@ -586,7 +586,7 @@ CRH6F-A车型为CRH6F的4辆小编组版本，最大载客量达875人\[11\]。
 2019年1月23日，基于Cinova城际列车平台衍生的市域动车组在[温州市域铁路S1线投入试运营](../Page/温州市域铁路S1线.md "wikilink")。\[32\]
 
 <File:CRH6A-0439@LXI>
-(20180630070543).jpg|用于[北京市郊铁路城市副中心线的CRH](https://zh.wikipedia.org/wiki/北京市郊铁路城市副中心线 "wikilink")6A型动车组通过[良乡站](../Page/良乡站.md "wikilink")
+(20180630070543).jpg|用于[北京市郊铁路城市副中心线的CRH](../Page/北京市郊铁路城市副中心线.md "wikilink")6A型动车组通过[良乡站](../Page/良乡站.md "wikilink")
 <File:201806> CRH6A-0420 operates as C3660 enters into Shanghainan
 Station.jpg|[金山铁路使用的CRH](https://zh.wikipedia.org/wiki/金山铁路 "wikilink")6A于[上海南站](https://zh.wikipedia.org/wiki/上海南站 "wikilink")
 <File:CRH6A-0427> at JZU, 20180221
@@ -672,7 +672,7 @@ Station.jpg|[成灌铁路使用CRH](../Page/成灌铁路.md "wikilink")6A-A停�
 <td><p>5</p></td>
 <td><p>0436～0439、0623</p></td>
 <td><p>北京西</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/北京市郊铁路城市副中心线" title="wikilink">北京城市副中心线</a></p></td>
+<td><p><a href="../Page/北京市郊铁路城市副中心线.md" title="wikilink">北京城市副中心线</a></p></td>
 <td><p>三开门版本，车身为蓝色色带，列车命名为「京通号」</p></td>
 </tr>
 <tr class="even">
@@ -853,8 +853,8 @@ CRH6在车门靠两车厢接驳位的一侧设有3个折叠座椅，既可当临
   - [珠三角城际快速轨道交通](https://zh.wikipedia.org/wiki/珠三角城际快速轨道交通 "wikilink")
   - [和谐号CRH1型电力动车组](../Page/和谐号CRH1型电力动车组.md "wikilink")
   - [和谐号CJ1型电力动车组](../Page/和谐号CJ1型电力动车组.md "wikilink")
-  - [和谐号CJ2型电力动车组](https://zh.wikipedia.org/wiki/和谐号CJ2型电力动车组 "wikilink")
-  - [复兴号CR300AF型电力动车组](https://zh.wikipedia.org/wiki/复兴号CR300AF型电力动车组 "wikilink")
+  - [和谐号CJ2型电力动车组](../Page/和谐号CJ2型电力动车组.md "wikilink")
+  - [复兴号CR300AF型电力动车组](../Page/复兴号CR300AF型电力动车组.md "wikilink")
 
 [Category:和谐号电力动车组](https://zh.wikipedia.org/wiki/Category:和谐号电力动车组 "wikilink")
 [Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink")

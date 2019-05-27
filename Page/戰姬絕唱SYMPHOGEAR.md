@@ -837,7 +837,7 @@ Evan Call）</p></td>
 </tr>
 <tr class="odd">
 <td><p>動畫製作</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ENCOURAGE_FILMS" title="wikilink">ENCOURAGE FILMS</a><br />
+<td><p><a href="../Page/ENCOURAGE_FILMS.md" title="wikilink">ENCOURAGE FILMS</a><br />
 ↓<br />
 <a href="../Page/SATELIGHT.md" title="wikilink">SATELIGHT</a></p></td>
 <td><p>SATELIGHT</p></td>
@@ -1897,7 +1897,7 @@ Evan Call</p></td>
 <td><p>EPISODE 4</p></td>
 <td></td>
 <td><p>我能回去的地方</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/若林厚史" title="wikilink">若林厚史</a></p></td>
+<td><p><a href="../Page/若林厚史.md" title="wikilink">若林厚史</a></p></td>
 <td><p>高橋英俊</p></td>
 <td><p>下條祐未</p></td>
 <td><p>藤本悟</p></td>

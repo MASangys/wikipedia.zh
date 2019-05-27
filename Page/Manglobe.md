@@ -40,7 +40,7 @@
   - [劇場版 旋風管家 HEAVEN IS A PLACE ON
     EARTH](../Page/劇場版_旋風管家_HEAVEN_IS_A_PLACE_ON_EARTH.md "wikilink")
     （2011年）
-  - [虐殺器官](https://zh.wikipedia.org/wiki/虐殺器官 "wikilink")（製作終止，由  接替）
+  - [虐殺器官](../Page/虐殺器官.md "wikilink")（製作終止，由  接替）
 
 ### OVA
 
@@ -64,7 +64,7 @@
 ### 參與制作
 
   - [蔷薇少女
-    彷如梦境](../Page/薔薇少女.md "wikilink")（動畫製作：[NOMAD](https://zh.wikipedia.org/wiki/Nomad_\(公司\) "wikilink")，[OP製作](https://zh.wikipedia.org/wiki/OP "wikilink")，2005年）
+    彷如梦境](../Page/薔薇少女.md "wikilink")（動畫製作：[NOMAD](../Page/Nomad_\(公司\).md "wikilink")，[OP製作](https://zh.wikipedia.org/wiki/OP "wikilink")，2005年）
   - [天保異聞 妖奇士](../Page/天保異聞_妖奇士.md "wikilink")
     （動畫製作：[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")，全片制作協力，2006年-2007年）
   - [鬼面騎士 THE SKULL MAN](../Page/鬼面騎士.md "wikilink")
@@ -75,7 +75,7 @@
     （動畫製作：[XEBEC](../Page/XEBEC.md "wikilink")，全片制作協力，2007年）
   - [BLUE DROP
     〜天使們的戲曲〜](https://zh.wikipedia.org/wiki/BLUE_DROP "wikilink")
-    （動畫製作：BeSTACK・[旭Production](https://zh.wikipedia.org/wiki/旭Production "wikilink")，全片制作協力，2007年）
+    （動畫製作：BeSTACK・[旭Production](../Page/旭Production.md "wikilink")，全片制作協力，2007年）
   - [Pandora Hearts](../Page/潘朵拉之心.md "wikilink")
     （動畫製作：XEBEC，全片制作協力，2009年）
   - [BREAK BLADE 破刃之劍 第二章 訣別之路](../Page/破刃之劍.md "wikilink")

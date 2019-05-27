@@ -32,7 +32,7 @@ soul**》是[日本樂團](../Page/日本.md "wikilink")[B'z的第](../Page/B'z.
   - [GREEN](../Page/GREEN_\(B'z專輯\).md "wikilink")（\#1、Alternative
     Guitar Solo ver.）
   - [B'z The Best "Pleasure
-    II"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")（\#1）
+    II"](../Page/B'z_The_Best_"Pleasure_II".md "wikilink")（\#1）
   - B'z The Best "ULTRA Pleasure"（\#1）
   - B'z（\#1）
   - B'z The Best "ULTRA Treasure"（\#3）

@@ -273,8 +273,7 @@ Collection登場時](https://zh.wikipedia.org/wiki/東京Girls_Collection "wikil
 
   - 大面 厚 - [佐藤二朗](../Page/佐藤二朗.md "wikilink")：寢具賣場的部長。
 
-  - 尾崎 隆 -
-    [田中哲司](https://zh.wikipedia.org/wiki/田中哲司 "wikilink")：越前屋·經營戰略部總經理。
+  - 尾崎 隆 - [田中哲司](../Page/田中哲司.md "wikilink")：越前屋·經營戰略部總經理。
 
 #### 客串
 
@@ -308,8 +307,7 @@ Collection登場時](https://zh.wikipedia.org/wiki/東京Girls_Collection "wikil
   - 山內 一義 -
     [福井友信](https://zh.wikipedia.org/wiki/福井友信 "wikilink")：達也的父親（第4集）
 
-  - 山內 由美 -
-    [鷲尾真知子](https://zh.wikipedia.org/wiki/鷲尾真知子 "wikilink")：達也的母親（第4集）
+  - 山內 由美 - [鷲尾真知子](../Page/鷲尾真知子.md "wikilink")：達也的母親（第4集）
 
   - 山內 雄一 -
     [三浦剛](https://zh.wikipedia.org/wiki/三浦剛 "wikilink")：達也的哥哥（第4集）

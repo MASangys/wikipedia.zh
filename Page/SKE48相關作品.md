@@ -247,7 +247,7 @@ CD</p></td>
 <tr class="even">
 <td><p>14</p></td>
 <td><p>2014年3月19日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/未來是什麼？" title="wikilink">未來是什麼？</a></strong><br />
+<td><p><strong><a href="../Page/未來是什麼？.md" title="wikilink">未來是什麼？</a></strong><br />
 （）</p></td>
 <td><p>1</p></td>
 <td><p>397,874張</p></td>
@@ -365,7 +365,7 @@ CD</p></td>
 <tr class="odd">
 <td><p>21</p></td>
 <td><p>2017年7月19日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/意外是芒果" title="wikilink">意外是芒果</a></strong><br />
+<td><p><strong><a href="../Page/意外是芒果.md" title="wikilink">意外是芒果</a></strong><br />
 （）</p></td>
 <td><p>1</p></td>
 <td><p>272,872張</p></td>
@@ -387,7 +387,7 @@ CD</p></td>
 <tr class="odd">
 <td><p>23</p></td>
 <td><p>2018年7月4日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/突如其來Punchline" title="wikilink">突如其來Punchline</a></strong><br />
+<td><p><strong><a href="../Page/突如其來Punchline.md" title="wikilink">突如其來Punchline</a></strong><br />
 （）</p></td>
 <td><p>1</p></td>
 <td><p>240,126張</p></td>
@@ -398,7 +398,7 @@ CD</p></td>
 <tr class="even">
 <td><p>24</p></td>
 <td><p>2018年12月12日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Stand_by_you" title="wikilink">Stand by you</a></strong></p></td>
+<td><p><strong><a href="../Page/Stand_by_you.md" title="wikilink">Stand by you</a></strong></p></td>
 <td><p>1</p></td>
 <td><p>234,008張</p></td>
 <td><p>18</p></td>
@@ -466,7 +466,7 @@ JAPAN<br />
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2017年2月22日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/革命之丘" title="wikilink">革命之丘</a></strong><br />
+<td><p><strong><a href="../Page/革命之丘.md" title="wikilink">革命之丘</a></strong><br />
 （革命の丘）</p></td>
 <td><p>2</p></td>
 <td><center>
@@ -1144,14 +1144,14 @@ Blu-ray</p></td>
 
 ### 非常SKE 黎明前的国盗48番胜负
 
-|                                                     | 發售日         | 名稱                                                     | 商品編號 |
-| --------------------------------------------------- | ----------- | ------------------------------------------------------ | ---- |
-| [VAP](https://zh.wikipedia.org/wiki/VAP "wikilink") |             |                                                        |      |
-| 1                                                   | 2010年8月24日  | [非常SKE](../Page/非常SKE.md "wikilink") 黎明前的国盗48番胜负 Vol.1 | \-   |
-| 2                                                   | 2010年11月27日 | 非常SKE 黎明前的国盗48番胜负 Vol.2                                | \-   |
-| 3                                                   | 2011年2月23日  | 非常SKE 黎明前的国盗48番胜负 Vol.3                                | \-   |
-| 4                                                   | 2011年5月25日  | 非常SKE 黎明前的国盗48番胜负 Vol.4                                | \-   |
-|                                                     |             |                                                        |      |
+|                                  | 發售日         | 名稱                                                     | 商品編號 |
+| -------------------------------- | ----------- | ------------------------------------------------------ | ---- |
+| [VAP](../Page/VAP.md "wikilink") |             |                                                        |      |
+| 1                                | 2010年8月24日  | [非常SKE](../Page/非常SKE.md "wikilink") 黎明前的国盗48番胜负 Vol.1 | \-   |
+| 2                                | 2010年11月27日 | 非常SKE 黎明前的国盗48番胜负 Vol.2                                | \-   |
+| 3                                | 2011年2月23日  | 非常SKE 黎明前的国盗48番胜负 Vol.3                                | \-   |
+| 4                                | 2011年5月25日  | 非常SKE 黎明前的国盗48番胜负 Vol.4                                | \-   |
+|                                  |             |                                                        |      |
 
 ### 妄想刑事！
 
@@ -1376,7 +1376,7 @@ VPBF-10991</p></td>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2015年3月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SKE48_炸蝦商!" title="wikilink">SKE48 炸蝦商!</a></p></td>
+<td><p><a href="../Page/SKE48_炸蝦商!.md" title="wikilink">SKE48 炸蝦商!</a></p></td>
 <td><p>VAP</p></td>
 <td><p>VPBF-29914<br />
 VPXF-72949</p></td>

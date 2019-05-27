@@ -18,8 +18,7 @@ to the Sky最後一次參與錄製](../Page/Fly_to_the_Sky.md "wikilink")。
     [安七炫](../Page/安七炫.md "wikilink") & Isak N Jiyeon
 11. That's The Way – [劉英振](../Page/劉英振.md "wikilink")
 12. Don't Tell Me – Black Beat
-13. Baby Come Tonight –
-    [Dana](https://zh.wikipedia.org/wiki/喜悅Dana "wikilink")
+13. Baby Come Tonight – [Dana](../Page/喜悅Dana.md "wikilink")
 14. 꿈속에서  – [Shoo](../Page/Shoo.md "wikilink")
 15. Rainy Day – Choo Ka Yul
 16. Midnight Parade –

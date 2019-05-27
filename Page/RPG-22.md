@@ -1,4 +1,4 @@
-**RPG-22**（；\[1\]\[2\]俄語羅馬化：Netto；[英文](../Page/英语.md "wikilink")：**Net**，意為：網；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）是一款由[前苏联](../Page/苏联.md "wikilink")（現在是[俄罗斯](../Page/俄罗斯.md "wikilink")）所研製及生產的72.5毫米一次射擊型[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，是[RPG-18的](../Page/RPG-18.md "wikilink")[火力提升版本](https://zh.wikipedia.org/wiki/火力 "wikilink")。同樣地，主要在短距離[反坦克戰時使用](../Page/反坦克戰.md "wikilink")。武器可以在大約10秒內開火，並且可以貫穿400毫米的裝甲，1.2米的磚或是1米的鋼筋混凝土。發射[PG-22V](https://zh.wikipedia.org/wiki/PG-22V "wikilink")
+**RPG-22**（；\[1\]\[2\]俄語羅馬化：Netto；[英文](../Page/英语.md "wikilink")：**Net**，意為：網；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）是一款由[前苏联](../Page/苏联.md "wikilink")（現在是[俄罗斯](../Page/俄罗斯.md "wikilink")）所研製及生產的72.5毫米一次射擊型[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，是[RPG-18的](../Page/RPG-18.md "wikilink")[火力提升版本](https://zh.wikipedia.org/wiki/火力 "wikilink")。同樣地，主要在短距離[反坦克戰時使用](../Page/反坦克戰.md "wikilink")。武器可以在大約10秒內開火，並且可以貫穿400毫米的裝甲，1.2米的磚或是1米的鋼筋混凝土。發射[PG-22V](https://zh.wikipedia.org/wiki/PG-22V "wikilink")
 [HEAT火箭彈](../Page/高爆反坦克彈.md "wikilink")。\[3\]
 
 ## 歷史
@@ -21,7 +21,7 @@ RPG-22採用簡易[機械瞄具](../Page/機械瞄具.md "wikilink")。前瞄準
 
 ## 使用
 
-在2000年9月20日晚上，[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[秘密情報局總部](../Page/秘密情報局.md "wikilink")[軍情六處大樓](https://zh.wikipedia.org/wiki/SIS大樓 "wikilink")，被未知、未被逮捕的武裝組織使用RPG-22火箭彈攻擊，造成表面損傷。\[4\]
+在2000年9月20日晚上，[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[秘密情報局總部](../Page/秘密情報局.md "wikilink")[軍情六處大樓](../Page/SIS大樓.md "wikilink")，被未知、未被逮捕的武裝組織使用RPG-22火箭彈攻擊，造成表面損傷。\[4\]
 
 2000年8月在克羅地亞境內，揭發一個武器庫，包括了一些RPG-22，要運到手中。每件武器的價格範圍從£150到£220不等。對軍情六處大樓攻擊的RPG-22是在俄羅斯製造的，而在[鄧甘嫩使用的則來自](https://zh.wikipedia.org/wiki/鄧甘嫩 "wikilink")[保加利亚](https://zh.wikipedia.org/wiki/保加利亚 "wikilink")。\[5\]
 
@@ -74,7 +74,7 @@ RPG-22採用簡易[機械瞄具](../Page/機械瞄具.md "wikilink")。前瞄準
       - [RPG-32](../Page/RPG-32.md "wikilink")
   - [RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")
   - [M72 LAW](../Page/M72輕型反裝甲武器.md "wikilink")
-  - [M80反坦克火箭筒](https://zh.wikipedia.org/wiki/M80反坦克火箭筒 "wikilink")
+  - [M80反坦克火箭筒](../Page/M80反坦克火箭筒.md "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")
 
 ## 資料來源

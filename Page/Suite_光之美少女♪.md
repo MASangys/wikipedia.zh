@@ -690,7 +690,7 @@
 <td><p>喵Pu，賽蓮和哈咪的秘密，喵</p></td>
 <td><p>米村正二</p></td>
 <td><p>芝田浩樹</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/上野賢" title="wikilink">上野賢</a></p></td>
+<td><p><a href="../Page/上野賢.md" title="wikilink">上野賢</a></p></td>
 <td><p>田中里綠</p></td>
 <td><p>5月8日</p></td>
 <td><p>8月26日</p></td>
@@ -1292,7 +1292,7 @@
     [光之美少女 All Stars
     大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
     [HUG！光之美少女♡光之美少女 All Stars
-    Memories](https://zh.wikipedia.org/wiki/HUG！光之美少女♡光之美少女_All_Stars_Memories "wikilink")
+    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
 
 ## 註釋
 

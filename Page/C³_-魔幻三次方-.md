@@ -486,7 +486,7 @@
 
   -
     作詞 - [松井五郎](https://zh.wikipedia.org/wiki/松井五郎 "wikilink")，作曲、編曲 -
-    [太田雅友](https://zh.wikipedia.org/wiki/太田雅友 "wikilink")，歌 -
+    [太田雅友](../Page/太田雅友.md "wikilink")，歌 -
     [田村由香里](../Page/田村由香里.md "wikilink")
 
 <!-- end list -->
@@ -637,7 +637,7 @@
 <td><p>歸來者散發者不可思議的氣息</p></td>
 <td><p>渡邊慎一</p></td>
 <td><p>福井俊介</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吉田隆彥" title="wikilink">吉田隆彥</a>、山吉一幸、渡邊亞彩美<br />
+<td><p><a href="../Page/吉田隆彥.md" title="wikilink">吉田隆彥</a>、山吉一幸、渡邊亞彩美<br />
 高澤美佳、佐野惠理、出野喜則</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/CUTEG" title="wikilink">CUTEG</a></p></td>
 <td></td>

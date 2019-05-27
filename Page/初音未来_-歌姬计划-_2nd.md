@@ -245,7 +245,7 @@ iroha（sasaki）</p></td>
 <td><p>愛言葉</p></td>
 <td><p>愛的話語</p></td>
 <td><p>初音未來</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/DECO*27" title="wikilink">DECO*27</a></p></td>
+<td><p><a href="../Page/DECO*27.md" title="wikilink">DECO*27</a></p></td>
 <td></td>
 <td></td>
 </tr>

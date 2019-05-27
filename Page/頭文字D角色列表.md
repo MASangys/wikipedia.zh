@@ -48,7 +48,7 @@ D的D是[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")（Diamond）\[
 <td><p><strong>改裝部分</strong></p></td>
 <td><p>Cibie<a href="https://zh.wikipedia.org/wiki/車頭燈" title="wikilink">車頭燈</a>、RS Watanabe<a href="https://zh.wikipedia.org/wiki/車輪" title="wikilink">車輪</a>、藤壺<a href="https://zh.wikipedia.org/wiki/消音器" title="wikilink">消音器</a>、<a href="https://zh.wikipedia.org/wiki/車門" title="wikilink">車門保護</a>、<br />
 4AGE-U AE101競技<a href="https://zh.wikipedia.org/wiki/引擎" title="wikilink">引擎</a>、輕量化<a href="../Page/碳纖維.md" title="wikilink">碳纖維引擎蓋</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/SMITHS" title="wikilink">SMITHS製</a>12000rpm高<a href="https://zh.wikipedia.org/wiki/轉速表" title="wikilink">轉速表</a>、最高只能轉至11000rpm、最終改<a href="https://zh.wikipedia.org/wiki/ULTRA" title="wikilink">ULTRA製</a>13000rpm高<a href="https://zh.wikipedia.org/wiki/轉速表" title="wikilink">轉速表</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/SMITHS" title="wikilink">SMITHS製</a>12000rpm高<a href="../Page/轉速表.md" title="wikilink">轉速表</a>、最高只能轉至11000rpm、最終改<a href="https://zh.wikipedia.org/wiki/ULTRA" title="wikilink">ULTRA製</a>13000rpm高<a href="../Page/轉速表.md" title="wikilink">轉速表</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>車牌號碼</strong></p></td>

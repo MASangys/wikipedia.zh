@@ -177,7 +177,7 @@ BURTON (作曲家)|BURTON</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2016年6月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/少女＊領域" title="wikilink">少女＊領域</a></p></td>
+<td><p><a href="../Page/少女＊領域.md" title="wikilink">少女＊領域</a></p></td>
 <td><p>、（SD原畫）</p></td>
 <td><p>NYAON</p></td>
 <td><p>BURTON</p></td>

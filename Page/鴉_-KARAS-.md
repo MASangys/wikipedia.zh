@@ -186,7 +186,7 @@ KARAS》的故事描述了一個充滿[妖怪的虛構](../Page/妖怪.md "wikil
   - CG首席動畫師：
   - CG總監：山田豐德
   - 特技監督：
-  - 音樂：[池賴廣](https://zh.wikipedia.org/wiki/池賴廣 "wikilink")
+  - 音樂：[池賴廣](../Page/池賴廣.md "wikilink")
   - 管弦樂演奏：布拉格交響樂團（Symfonický orchestr hl. m. Prahy FOK）
   - 交響樂團演奏指揮：馬力歐‧克萊門斯
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")

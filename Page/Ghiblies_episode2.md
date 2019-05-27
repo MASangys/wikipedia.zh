@@ -22,7 +22,7 @@ episode2**》（）為日本[吉卜力工作室製作的動畫短片](https://zh
 ## 配音人員
 
   - 野中君（）：[西村雅彦](https://zh.wikipedia.org/wiki/西村雅彦 "wikilink")
-  - 老奧（）：[古田新太](https://zh.wikipedia.org/wiki/古田新太 "wikilink")
+  - 老奧（）：[古田新太](../Page/古田新太.md "wikilink")
   - 由佳里小姐（）：[鈴木京香](../Page/鈴木京香.md "wikilink")
   - 德先生（）：[齊藤曉](https://zh.wikipedia.org/wiki/齊藤曉 "wikilink")
   - 小螢（）：

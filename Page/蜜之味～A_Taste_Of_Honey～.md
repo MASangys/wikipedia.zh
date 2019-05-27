@@ -29,7 +29,7 @@ Honey～**》（），[日本](../Page/日本.md "wikilink")[富士電視台於]
 ### 東和醫科大學關係者
 
   - 瀧之原健司：[升毅](https://zh.wikipedia.org/wiki/升毅 "wikilink")
-  - 霧島正：[佐野史郎](https://zh.wikipedia.org/wiki/佐野史郎 "wikilink")
+  - 霧島正：[佐野史郎](../Page/佐野史郎.md "wikilink")
   - 細川裕司：[山崎樹範](https://zh.wikipedia.org/wiki/山崎樹範 "wikilink")
   - 白井：[西山茉希](../Page/西山茉希.md "wikilink")
 

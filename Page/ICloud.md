@@ -12,7 +12,7 @@ and match）功能。iCloud服務讓用戶可在任何裝置上存取先前從iT
 起初在2011年，蘋果一開始使用了[亞馬遜AWS和](https://zh.wikipedia.org/wiki/Amazon_Web_Services "wikilink")[微軟Azure支撐旗下的iCloud服務](../Page/Microsoft_Azure.md "wikilink")（發表於2014年的蘋果[iOS安全白皮書中](https://zh.wikipedia.org/wiki/iOS "wikilink")，蘋果承認加密過的[iOS檔案是存放在](https://zh.wikipedia.org/wiki/iOS "wikilink")[Amazon
 S3和](../Page/Amazon_S3.md "wikilink")[微軟Azure](../Page/Microsoft_Azure.md "wikilink")\[3\]。從2016年開始又加入[Google
 Cloud
-Platform來支撐部分iCloud功能雲端平台運作](https://zh.wikipedia.org/wiki/Google雲端平台 "wikilink")\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]。
+Platform來支撐部分iCloud功能雲端平台運作](../Page/Google雲端平台.md "wikilink")\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]。
 
 2018年，蘋果棄用微軟Azure解決方案，目前僅以Amazon S3與Google Cloud
 Platform支撐iCloud服務。\[10\]

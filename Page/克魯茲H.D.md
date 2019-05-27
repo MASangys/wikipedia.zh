@@ -6,8 +6,7 @@ Dela**，，生於[多明尼加](../Page/多明尼加.md "wikilink")），[多�
   - [美國職棒](../Page/美國職業棒球大聯盟.md "wikilink")[多倫多藍鳥隊](../Page/多倫多藍鳥.md "wikilink")（小聯盟，1984年～1990年）
   - [日本職棒](https://zh.wikipedia.org/wiki/日本棒球機構 "wikilink")[讀賣巨人隊](../Page/讀賣巨人.md "wikilink")（1991年）
   - [中華職棒](https://zh.wikipedia.org/wiki/中華職業棒球大聯盟 "wikilink")[兄弟象隊](https://zh.wikipedia.org/wiki/兄弟象 "wikilink")（1992年～1993年）
-  - [墨西哥聯盟Mexico](https://zh.wikipedia.org/wiki/墨西哥聯盟 "wikilink") City
-    Tigres（1994年）
+  - [墨西哥聯盟Mexico](../Page/墨西哥聯盟.md "wikilink") City Tigres（1994年）
   - 中華職棒[興農牛隊](https://zh.wikipedia.org/wiki/興農牛 "wikilink")（1996年）
   - 墨西哥聯盟Quintana Roo Langosteros（1997年）
   - 墨西哥聯盟Yucatan Leones（1997年）

@@ -1,4 +1,4 @@
-**ZERO+**是[台灣的一個女子歌唱團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")。起始成員有[邵庭](https://zh.wikipedia.org/wiki/鄧少婷 "wikilink")、[安娜](../Page/李宗望.md "wikilink")、[荷希](https://zh.wikipedia.org/wiki/黃雅暄 "wikilink")、[亞理](https://zh.wikipedia.org/wiki/俞曉帆 "wikilink")、[妍愷共計五位團員](https://zh.wikipedia.org/wiki/許蓁蓁 "wikilink")。首部作品是3D寫真書《嬉戲》附同名專輯單曲CD《Sha
+**ZERO+**是[台灣的一個女子歌唱團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")。起始成員有[邵庭](https://zh.wikipedia.org/wiki/鄧少婷 "wikilink")、[安娜](../Page/李宗望.md "wikilink")、[荷希](https://zh.wikipedia.org/wiki/黃雅暄 "wikilink")、[亞理](https://zh.wikipedia.org/wiki/俞曉帆 "wikilink")、[妍愷共計五位團員](../Page/許蓁蓁.md "wikilink")。首部作品是3D寫真書《嬉戲》附同名專輯單曲CD《Sha
 la la
 la》，在2010年8月加入“[以薰](https://zh.wikipedia.org/wiki/王鈺馨 "wikilink")”後成員變為6人。2010年底“[亞理](https://zh.wikipedia.org/wiki/俞曉帆 "wikilink")”因遠赴海外深造而離開，成員仍為5人。約在11月時再加入另一名新成員“[愛瑪](https://zh.wikipedia.org/wiki/黃芝蓉 "wikilink")”成員變為6人。之後又因“[邵庭](https://zh.wikipedia.org/wiki/鄧少婷 "wikilink")”個人工作較為繁忙，於2011年7月27日[衛視中文台的](../Page/衛視中文台.md "wikilink")[麻辣天后宮節目中說明已退出團體](../Page/麻辣天后宮.md "wikilink")，成員變回5人。同年10月5日再加入新成員[若穎](https://zh.wikipedia.org/wiki/陳若穎 "wikilink")。2011年6月發行第二部作品《女孩‧華麗冒險》EP+寫真日誌，及後成員只剩[安娜](../Page/李宗望.md "wikilink")、[愛瑪](https://zh.wikipedia.org/wiki/黃芝蓉 "wikilink")、[以薰](https://zh.wikipedia.org/wiki/王鈺馨 "wikilink")，因為各自發展的緣故，已於2014年初解散。
 
@@ -84,7 +84,7 @@ PLUS）；中文團名取其諧音為《鄰家女孩》（零加女孩），強�
 <td><p>2010年退出</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/許蓁蓁" title="wikilink">許蓁蓁</a></p></td>
+<td><p><a href="../Page/許蓁蓁.md" title="wikilink">許蓁蓁</a></p></td>
 <td><p>妍愷</p></td>
 <td><p>Jane</p></td>
 <td></td>

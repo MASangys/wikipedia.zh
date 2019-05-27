@@ -167,7 +167,7 @@ AOD Favourites Awards
 
 ## 相關
 
-  - [星和無綫電視大獎2010](https://zh.wikipedia.org/wiki/星和無綫電視大獎2010 "wikilink")
+  - [星和無綫電視大獎2010](../Page/星和無綫電視大獎2010.md "wikilink")
   - [萬千星輝頒獎典禮2010](../Page/萬千星輝頒獎典禮2010.md "wikilink")
 
 [Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink")

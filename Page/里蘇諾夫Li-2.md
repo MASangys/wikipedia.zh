@@ -88,7 +88,7 @@
   - ：[保加利亞空軍](../Page/保加利亞空軍.md "wikilink")
     ：[捷克空軍](https://zh.wikipedia.org/wiki/捷克空軍 "wikilink")
     ：[中国人民解放軍空軍](https://zh.wikipedia.org/wiki/中国人民解放軍空軍 "wikilink")
-    ：[匈牙利空軍](https://zh.wikipedia.org/wiki/匈牙利空軍 "wikilink")
+    ：[匈牙利空軍](../Page/匈牙利空軍.md "wikilink")
     ：
     ：
     ：[朝鮮人民軍空軍](../Page/朝鮮人民軍空軍.md "wikilink")

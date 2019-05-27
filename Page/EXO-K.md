@@ -12,11 +12,11 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 | 藝名 \[3\]                                                 | 本名 | 出生       | 虛構超能力 \[4\] | 國籍             |
 | 藝名                                                       | 諺文 | 漢字       | 諺文          | 羅馬拼音           |
 | [Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")     | 수호 | **金俊勉**  | 김준면         | Kim Jun Myun   |
-| [Baekhyun](https://zh.wikipedia.org/wiki/伯賢 "wikilink")  | 백현 | 邊伯賢      | 변백현         | Byun Baek Hyun |
+| [Baekhyun](../Page/伯賢.md "wikilink")                     | 백현 | 邊伯賢      | 변백현         | Byun Baek Hyun |
 | [Chanyeol](https://zh.wikipedia.org/wiki/朴燦烈 "wikilink") | 찬열 | 朴燦烈      | 박찬열         | Park Chan Yeol |
 | [D.O.](../Page/都敬秀.md "wikilink")                        | 디오 | 都敬秀\[5\] | 도경수         | Doh Kyung Soo  |
 | [Kai](https://zh.wikipedia.org/wiki/金鐘仁 "wikilink")      | 카이 | 金鍾仁      | 김종인         | Kim Jong In    |
-| [Sehun](https://zh.wikipedia.org/wiki/Sehun "wikilink")  | 세훈 | 吳世勳      | 오세훈         | Oh Se Hun      |
+| [Sehun](../Page/Sehun.md "wikilink")                     | 세훈 | 吳世勳      | 오세훈         | Oh Se Hun      |
 
 ## 出道預告公開順序
 
@@ -163,40 +163,40 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 
 ### 其他歌曲
 
-|                |                                                                                                                         |                                                                      |                           |                                                                                                                              |                                                           |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| 形式             | 發佈日期                                                                                                                    | 專輯名稱                                                                 | 歌曲名稱                      | 參與成員                                                                                                                         | 合作藝人                                                      |
-| OST            | 2012年5月15日                                                                                                              | 《[I AM. - SM家族青春傳記電影](../Page/I_AM._-_SM家族青春傳記電影.md "wikilink")》     | Dear My Family            | Baekhyun、D.O.                                                                                                                | [SMTOWN](https://zh.wikipedia.org/wiki/SMTOWN "wikilink") |
-| CD             | 2012年10月31日                                                                                                             | 《PYL Younique Album Vol.1                                            | Maxstep                   | Kai                                                                                                                          | [Younique Unit](../Page/Younique_Unit.md "wikilink")      |
-| 2013年7月29日     | [f(x)正規二輯](../Page/F\(x\)_\(組合\).md "wikilink")《[Pink Tape](../Page/Pink_Tape.md "wikilink")》                           | Goodbye Summer                                                       | D.O.                      | [Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna](../Page/朴善英.md "wikilink")、[Krystal](../Page/鄭秀晶.md "wikilink") |                                                           |
-| OST            | 2013年12月6日                                                                                                              | 《Saving Santa Soundtrack》                                            | Prospects（韓文版）            | Suho                                                                                                                         | －                                                         |
-| Do or Die（韓文版） | [恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）                                                   |                                                                      |                           |                                                                                                                              |                                                           |
-| CF             | 2014年5月23日                                                                                                              | 樂天免稅店廣告                                                              | You're so Beautiful Ver.2 | [EXO](../Page/EXO.md "wikilink")                                                                                             | －                                                         |
-| CD             | 2014年7月13日                                                                                                              | [Henry迷你二輯](https://zh.wikipedia.org/wiki/刘宪华 "wikilink")《Fantastic》 | Bad Girl                  | Chanyeol                                                                                                                     | [Henry](../Page/劉憲華.md "wikilink")                        |
-| 2014年8月18日     | [泰民迷你一輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")《[ACE](https://zh.wikipedia.org/wiki/ACE_\(李泰民迷你專輯\) "wikilink")》 | Pretty Boy                                                           | Kai                       | [泰民](https://zh.wikipedia.org/wiki/李泰民 "wikilink")                                                                           |                                                           |
-| 2014年11月3日     | [周覓迷你一輯](https://zh.wikipedia.org/wiki/周覓 "wikilink")《》                                                                 | Rewind (Korean Version)                                              | Chanyeol                  | [周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")                                                                            |                                                           |
+|                |                                                                                                      |                                                                      |                           |                                                                                                                              |                                                           |
+| -------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| 形式             | 發佈日期                                                                                                 | 專輯名稱                                                                 | 歌曲名稱                      | 參與成員                                                                                                                         | 合作藝人                                                      |
+| OST            | 2012年5月15日                                                                                           | 《[I AM. - SM家族青春傳記電影](../Page/I_AM._-_SM家族青春傳記電影.md "wikilink")》     | Dear My Family            | Baekhyun、D.O.                                                                                                                | [SMTOWN](https://zh.wikipedia.org/wiki/SMTOWN "wikilink") |
+| CD             | 2012年10月31日                                                                                          | 《PYL Younique Album Vol.1                                            | Maxstep                   | Kai                                                                                                                          | [Younique Unit](../Page/Younique_Unit.md "wikilink")      |
+| 2013年7月29日     | [f(x)正規二輯](../Page/F\(x\)_\(組合\).md "wikilink")《[Pink Tape](../Page/Pink_Tape.md "wikilink")》        | Goodbye Summer                                                       | D.O.                      | [Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna](../Page/朴善英.md "wikilink")、[Krystal](../Page/鄭秀晶.md "wikilink") |                                                           |
+| OST            | 2013年12月6日                                                                                           | 《Saving Santa Soundtrack》                                            | Prospects（韓文版）            | Suho                                                                                                                         | －                                                         |
+| Do or Die（韓文版） | [恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）                                |                                                                      |                           |                                                                                                                              |                                                           |
+| CF             | 2014年5月23日                                                                                           | 樂天免稅店廣告                                                              | You're so Beautiful Ver.2 | [EXO](../Page/EXO.md "wikilink")                                                                                             | －                                                         |
+| CD             | 2014年7月13日                                                                                           | [Henry迷你二輯](https://zh.wikipedia.org/wiki/刘宪华 "wikilink")《Fantastic》 | Bad Girl                  | Chanyeol                                                                                                                     | [Henry](../Page/劉憲華.md "wikilink")                        |
+| 2014年8月18日     | [泰民迷你一輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")《[ACE](../Page/ACE_\(李泰民迷你專輯\).md "wikilink")》 | Pretty Boy                                                           | Kai                       | [泰民](https://zh.wikipedia.org/wiki/李泰民 "wikilink")                                                                           |                                                           |
+| 2014年11月3日     | [周覓迷你一輯](https://zh.wikipedia.org/wiki/周覓 "wikilink")《》                                              | Rewind (Korean Version)                                              | Chanyeol                  | [周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")                                                                            |                                                           |
 
 ## 影視作品
 
 ### 電視劇
 
-|                                         |                                                                |                                                         |                |             |      |         |
-| --------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------- | -------------- | ----------- | ---- | ------- |
-| 年份                                      | 電視台                                                            | 劇集名稱                                                    | 參演成員           | 角色          | 性質   | 集數      |
-| 2012年                                   | [SBS](../Page/SBS_\(韓國\).md "wikilink")                        | [致美麗的你](../Page/花樣少年少女_\(2012年電視劇\).md "wikilink")      | EXO-K          | Party中的表演嘉賓 | 客串   | 第2集     |
-| 2013年                                   | [JTBC](../Page/JTBC.md "wikilink")                             | [皇家別墅](../Page/皇家別墅.md "wikilink")                      | Chanyeol、Sehun | 大學人氣男       | 特別出演 |         |
-| 2014年                                   | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")      | [總理與我](../Page/總理與我.md "wikilink")                      | Suho           | 韓泰雄         | 客串   | 第10－12集 |
-| [SBS](../Page/SBS_\(韓國\).md "wikilink") | [沒關係，是愛情啊](https://zh.wikipedia.org/wiki/沒關係，是愛情啊 "wikilink")  | D.O.                                                    | 韓江宇            | 配角          | 全劇   |         |
-| 2015年                                   | [LINE](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink") | [我的鄰居是EXO](../Page/我的鄰居是EXO.md "wikilink")              | EXO            | —           | 主演   |         |
-| 2016年                                   | [SBS](../Page/SBS_\(韓國\).md "wikilink")                        | [月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")        | Baekhyun       | 十皇子王銀       | 主演   | ─       |
-| 2018年                                   | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")            | [百日的郎君](https://zh.wikipedia.org/wiki/百日的郎君 "wikilink") | D.O.           | 李律/願德       | 主演   | 全劇      |
+|                                         |                                                                |                                                    |                |             |      |         |
+| --------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- | -------------- | ----------- | ---- | ------- |
+| 年份                                      | 電視台                                                            | 劇集名稱                                               | 參演成員           | 角色          | 性質   | 集數      |
+| 2012年                                   | [SBS](../Page/SBS_\(韓國\).md "wikilink")                        | [致美麗的你](../Page/花樣少年少女_\(2012年電視劇\).md "wikilink") | EXO-K          | Party中的表演嘉賓 | 客串   | 第2集     |
+| 2013年                                   | [JTBC](../Page/JTBC.md "wikilink")                             | [皇家別墅](../Page/皇家別墅.md "wikilink")                 | Chanyeol、Sehun | 大學人氣男       | 特別出演 |         |
+| 2014年                                   | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")      | [總理與我](../Page/總理與我.md "wikilink")                 | Suho           | 韓泰雄         | 客串   | 第10－12集 |
+| [SBS](../Page/SBS_\(韓國\).md "wikilink") | [沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")                     | D.O.                                               | 韓江宇            | 配角          | 全劇   |         |
+| 2015年                                   | [LINE](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink") | [我的鄰居是EXO](../Page/我的鄰居是EXO.md "wikilink")         | EXO            | —           | 主演   |         |
+| 2016年                                   | [SBS](../Page/SBS_\(韓國\).md "wikilink")                        | [月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")   | Baekhyun       | 十皇子王銀       | 主演   | ─       |
+| 2018年                                   | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")            | [百日的郎君](../Page/百日的郎君.md "wikilink")               | D.O.           | 李律/願德       | 主演   | 全劇      |
 
 ### 網絡劇
 
-|        |                                                                                      |                                                           |                                  |                                  |           |
-| ------ | ------------------------------------------------------------------------------------ | --------------------------------------------------------- | -------------------------------- | -------------------------------- | --------- |
-| **年份** | **播放平台**                                                                             | **劇名**                                                    | 參演成員                             | **角色**                           | **備註**    |
-| 2016年  | [NAVER tvcast](../Page/NAVER.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink") | 《[七次的初吻](https://zh.wikipedia.org/wiki/七次的初吻 "wikilink")》 | [Kai](../Page/Kai.md "wikilink") | [Kai](../Page/Kai.md "wikilink") | 第五集－我們是師生 |
+|        |                                                                                      |                                        |                                  |                                  |           |
+| ------ | ------------------------------------------------------------------------------------ | -------------------------------------- | -------------------------------- | -------------------------------- | --------- |
+| **年份** | **播放平台**                                                                             | **劇名**                                 | 參演成員                             | **角色**                           | **備註**    |
+| 2016年  | [NAVER tvcast](../Page/NAVER.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink") | 《[七次的初吻](../Page/七次的初吻.md "wikilink")》 | [Kai](../Page/Kai.md "wikilink") | [Kai](../Page/Kai.md "wikilink") | 第五集－我們是師生 |
 
 ### 電影
 
@@ -217,15 +217,15 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 
 ### 音樂錄影帶
 
-|             |                                                             |                                                           |                             |
-| ----------- | ----------------------------------------------------------- | --------------------------------------------------------- | --------------------------- |
-| 發佈日期        | 歌曲名稱                                                        | 歌手                                                        | 參與成員                        |
-| 2008年12月1日  | Ha Ha Song                                                  | [東方神起](../Page/東方神起.md "wikilink")                        | Suho、Chanyeol、Kai           |
-| 2010年9月8日   | [GENIE](../Page/Genie_\(單曲\).md "wikilink")（日文版）            | [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")     | Chanyeol                    |
-| 2012年4月30日  | [Twinkle](https://zh.wikipedia.org/wiki/Twinkle "wikilink") | [少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")                | Baekhyun、Chanyeol、Kai、Sehun |
-| 2012年10月31日 | Maxstep                                                     | [Younique Unit](../Page/Younique_Unit.md "wikilink")      | Kai                         |
-| 2013年10月18日 | You Don't Know Love                                         | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink") | Chanyeol                    |
-| 2016年2月15日  | Crosswalk                                                   | [趙權](../Page/趙權.md "wikilink")                            | Suho                        |
+|             |                                                  |                                                           |                             |
+| ----------- | ------------------------------------------------ | --------------------------------------------------------- | --------------------------- |
+| 發佈日期        | 歌曲名稱                                             | 歌手                                                        | 參與成員                        |
+| 2008年12月1日  | Ha Ha Song                                       | [東方神起](../Page/東方神起.md "wikilink")                        | Suho、Chanyeol、Kai           |
+| 2010年9月8日   | [GENIE](../Page/Genie_\(單曲\).md "wikilink")（日文版） | [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")     | Chanyeol                    |
+| 2012年4月30日  | [Twinkle](../Page/Twinkle.md "wikilink")         | [少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")                | Baekhyun、Chanyeol、Kai、Sehun |
+| 2012年10月31日 | Maxstep                                          | [Younique Unit](../Page/Younique_Unit.md "wikilink")      | Kai                         |
+| 2013年10月18日 | You Don't Know Love                              | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink") | Chanyeol                    |
+| 2016年2月15日  | Crosswalk                                        | [趙權](../Page/趙權.md "wikilink")                            | Suho                        |
 
 ## 綜藝作品
 
@@ -245,7 +245,7 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 | ---------------------- | ----------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------ | ----------- | -- |
 | 日期                     | 電視台                                                   | 節目名稱                                                            | 參與成員                                       | 集數          | 備註 |
 | 2013年12月20日－2014年2月21日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink") 密克羅尼西亞篇 | [Chanyeol](../Page/Chanyeol.md "wikilink") | 10          |    |
-| 2014年5月4日－9月14日        | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [Roommate](https://zh.wikipedia.org/wiki/Roommate "wikilink")   | 21                                         | 缺席於8月17、24日 |    |
+| 2014年5月4日－9月14日        | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [Roommate](../Page/Roommate.md "wikilink")                      | 21                                         | 缺席於8月17、24日 |    |
 |                        |                                                       |                                                                 |                                            |             |    |
 
 ### 主持
@@ -360,7 +360,7 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 | 2014年5月11日 | 上海    | 上海梅賽德斯奔馳中心 |
 
   - EXO首場亞洲巡迴演唱會《[EXO FROM. EXOPLANET ＃1 - THE LOST PLANET
-    -](https://zh.wikipedia.org/wiki/EXO_FROM._EXOPLANET_＃1_-_THE_LOST_PLANET_- "wikilink")》
+    -](../Page/EXO_FROM._EXOPLANET_＃1_-_THE_LOST_PLANET_-.md "wikilink")》
 
 |                |       |               |
 | -------------- | ----- | ------------- |

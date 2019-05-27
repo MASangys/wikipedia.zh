@@ -1,5 +1,5 @@
 **StylipS**（\[1\]）是[Style
-Cube所屬的](https://zh.wikipedia.org/wiki/Style_Cube "wikilink")[女性](../Page/女性.md "wikilink")[声优](https://zh.wikipedia.org/wiki/日本配音員 "wikilink")3人組成的[声優组合](https://zh.wikipedia.org/wiki/声優组合 "wikilink")。所屬唱片公司是[Lantis](../Page/Lantis.md "wikilink")。
+Cube所屬的](../Page/Style_Cube.md "wikilink")[女性](../Page/女性.md "wikilink")[声优](https://zh.wikipedia.org/wiki/日本配音員 "wikilink")3人組成的[声優组合](https://zh.wikipedia.org/wiki/声優组合 "wikilink")。所屬唱片公司是[Lantis](../Page/Lantis.md "wikilink")。
 
 组合的概念是「**一起實現夢想**（）」。
 

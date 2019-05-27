@@ -198,7 +198,7 @@ Way》里，大多数贝斯线完全脱离了疯克。Flea觉得Frusciante写的
 Flea经常观看继父曾在的一个[咆勃爵士樂](../Page/咆勃爵士樂.md "wikilink")（爵士音乐的一种）乐队的即兴；因此不久就变得痴迷于小号。Flea将他接下来的音乐兴趣归功于爵士演奏家比如[邁爾士·戴維斯](../Page/邁爾士·戴維斯.md "wikilink")、[查利·帕克](../Page/查利·帕克.md "wikilink")、[路易斯·阿姆斯特朗](../Page/路易斯·阿姆斯特朗.md "wikilink")、[約翰·柯川及](../Page/約翰·柯川.md "wikilink")[迪齊·格萊斯彼](../Page/迪齐·吉莱斯皮.md "wikilink")。Kiedis向他介绍朋克和摇滚乐后，Flea变得迷恋像The
 Germs、Styx、[大卫·鲍伊和Defunkt那样的艺人](../Page/大卫·鲍伊.md "wikilink")。《Blood
 Sugar Sex
-Magik》之前Flea早期主要受疯克艺人的影响，比如、[百樂門-放克瘋](https://zh.wikipedia.org/wiki/百樂門-放克瘋 "wikilink")、[史萊和史東家族合唱團以及The](https://zh.wikipedia.org/wiki/史萊和史東家族合唱團 "wikilink")
+Magik》之前Flea早期主要受疯克艺人的影响，比如、[百樂門-放克瘋](../Page/百樂門-放克瘋.md "wikilink")、[史萊和史東家族合唱團以及The](../Page/史萊和史東家族合唱團.md "wikilink")
 Meters。一直到《Mother's Milk》这些艺人都是影响Red Hot Chili
 Peppers音乐值得注意的方面。起初，Flea深受朋克乐队的影响--弹得越快越狠就越好，但是最终在《Blood
 Sugar Sex

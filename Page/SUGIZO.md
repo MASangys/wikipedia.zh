@@ -8,7 +8,7 @@ More Nukes Play The Guitar》\[1\]。曾於2016年隨聯合國難民署前往約
 ## 經歷
 
   - 高中時期　和[真矢組成樂團](https://zh.wikipedia.org/wiki/山口真矢 "wikilink")「*Pinocchio*」（[小木偶之意](https://zh.wikipedia.org/wiki/木偶奇遇記 "wikilink")），擔任貝斯手。
-  - 1989年　在[INORAN和](https://zh.wikipedia.org/wiki/INORAN "wikilink")[J的邀請下](https://zh.wikipedia.org/wiki/J_\(音樂人\) "wikilink")，組成樂團*LUNACY*。
+  - 1989年　在[INORAN和](../Page/INORAN.md "wikilink")[J的邀請下](https://zh.wikipedia.org/wiki/J_\(音樂人\) "wikilink")，組成樂團*LUNACY*。
   - 1992年　和Extasy Records簽約，樂團更名為**[LUNA
     SEA](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")**，並發行第一張同名專輯『[LUNA
     SEA](../Page/LUNA_SEA_\(專輯\).md "wikilink")』而正式出道。

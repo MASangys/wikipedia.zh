@@ -90,7 +90,7 @@ NT的](../Page/Windows_NT.md "wikilink")[域控制器和](https://zh.wikipedia.o
   - Cory Buford (September 10, 2008) *[Turn your machine into enterprise
     storage with
     Openfiler](http://www.linux.com/archive/feature/146861)*,
-    [Linux.com](https://zh.wikipedia.org/wiki/Linux.com "wikilink")
+    [Linux.com](../Page/Linux.com.md "wikilink")
   - Steven J. Vaughan-Nichols, (Sep. 20, 2006) *[Openfiler simplifies
     Linux NAS and
     SAN](http://www.linux-watch.com/news/NS4683277422.html)*,

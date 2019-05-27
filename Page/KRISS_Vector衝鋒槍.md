@@ -75,10 +75,10 @@ MBUS），[機匣上](https://zh.wikipedia.org/wiki/機匣 "wikilink")（安裝�
 **Vector卡賓槍特種作戰型**（）是美國KRISS對美國民用武器市場生產了三種Vector系列的半自動型版本之一。\[15\]為一種半自動[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，配有406.4毫米（16英吋）的槍管，延長的槍管以很像[消聲器形狀的](../Page/抑制器.md "wikilink")包覆保護。該槍的標準配備則是中西部工業MBUIS翻轉折疊式後備[機械瞄具](../Page/機械瞄具.md "wikilink")（BUIS），13或10發[格洛克21](../Page/格洛克21.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")，纜線鎖和塑料外殼。當中“CRB”的意思是“卡賓槍”（CRB=**C**a**rb**ine），而“SO”的意思是“特種作戰”（SO=**S**pecial
 **O**peration）；該槍的標準型號在美國其中45個州可以在配備折疊式[槍托以下出售](../Page/槍托.md "wikilink")，而另外5個州（分別是[加州](../Page/加利福尼亚州.md "wikilink")、[纽约州](../Page/纽约州.md "wikilink")、[新泽西州](../Page/新泽西州.md "wikilink")、[康乃狄克州和](../Page/康乃狄克州.md "wikilink")[麻薩諸塞州](../Page/麻薩諸塞州.md "wikilink")）則針對其州份禁止槍械使用可縮折和／或而改為配備原來可以選擇的固定式槍托以下出售。該型號具有增強版本，頂部建有全長度[MIL-STD-1913戰術導軌以及](../Page/皮卡汀尼導軌.md "wikilink")[M4卡賓槍風格的伸縮式槍托取代了原廠的槍托](../Page/M4卡賓槍.md "wikilink")。
 
-較新型的第二代版本配備了重新設計的握把和扳機，除了原來的黑色槍身以外，還可選用原廠Cerakote塗料的橄欖色（綠色）、黑色平坦（棕褐色）、高山（白色）或戰鬥灰色槍身，同時保險桿的擺動角度由120度降低至45度。第二代版本還取消了原來武器的槍管頂部可選用的[戰術燈的開口](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")，因為這都不再生產。\[16\]第二代版本也能夠藉由更換下機匣而轉換為9×19毫米鲁格、.40
+較新型的第二代版本配備了重新設計的握把和扳機，除了原來的黑色槍身以外，還可選用原廠Cerakote塗料的橄欖色（綠色）、黑色平坦（棕褐色）、高山（白色）或戰鬥灰色槍身，同時保險桿的擺動角度由120度降低至45度。第二代版本還取消了原來武器的槍管頂部可選用的[戰術燈的開口](../Page/戰術燈.md "wikilink")，因為這都不再生產。\[16\]第二代版本也能夠藉由更換下機匣而轉換為9×19毫米鲁格、.40
 S\&W（使用格洛克22彈匣）、10毫米Auto（使用格洛克20彈匣）或.357
 SIG（使用格洛克31彈匣）口徑版本。意大利民用市場可購買9×2毫米IMI口徑版本而使用標準的9×19毫米鲁格的格洛克17彈匣。
-加拿大（以及美國一些州份）的民用市場版本只能使用10發彈匣而非全容量的彈匣。與軍警用衝鋒槍型號一樣，這型號可藉由更換下機匣，轉換其口徑和發射的彈藥。第二代“增強”型版本還可以使用折疊式M4卡賓槍伸縮式槍托適配器（而非標準型的折疊式槍托，預設裝有[馬格普UBR槍托](https://zh.wikipedia.org/wiki/馬格普工業公司 "wikilink")）和方形[消聲器形](../Page/抑制器.md "wikilink")，而這些附件也可以單獨購入。
+加拿大（以及美國一些州份）的民用市場版本只能使用10發彈匣而非全容量的彈匣。與軍警用衝鋒槍型號一樣，這型號可藉由更換下機匣，轉換其口徑和發射的彈藥。第二代“增強”型版本還可以使用折疊式M4卡賓槍伸縮式槍托適配器（而非標準型的折疊式槍托，預設裝有[馬格普UBR槍托](../Page/馬格普工業公司.md "wikilink")）和方形[消聲器形](../Page/抑制器.md "wikilink")，而這些附件也可以單獨購入。
 
 ### Vector短槍管特種作戰型
 
@@ -86,10 +86,10 @@ SIG（使用格洛克31彈匣）口徑版本。意大利民用市場可購買9×
 **B**arrel
 **R**ifle）；由於1934年（簡稱：NFA）的法規，SBR需要由三級經銷商轉讓，以及向[美國煙酒槍械爆炸物管理局](https://zh.wikipedia.org/wiki/美國煙酒槍械爆炸物管理局 "wikilink")（BATFE）登記，然後才可以考慮讓購買者擁有。該型號具有一個增強版本，頂部建有全長度[MIL-STD-1913戰術導軌以及](../Page/皮卡汀尼導軌.md "wikilink")[M4卡賓槍風格的伸縮式槍托取代了原廠的槍托](../Page/M4卡賓槍.md "wikilink")。
 
-較新型的第二代版本配備了重新設計的握把和扳機，除了原來的黑色槍身以外，還可選用原廠Cerakote塗料的橄欖色（綠色）、黑色平坦（棕褐色）、高山（白色）或戰鬥灰色槍身，同時保險桿的擺動角度由120度降低至45度。第二代版本還取消了原來武器的槍管頂部可選用的[戰術燈的開口](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")，因為這都不再生產。\[17\]第二代版本也能夠藉由更換下機匣而轉換為9×19毫米鲁格、.40
+較新型的第二代版本配備了重新設計的握把和扳機，除了原來的黑色槍身以外，還可選用原廠Cerakote塗料的橄欖色（綠色）、黑色平坦（棕褐色）、高山（白色）或戰鬥灰色槍身，同時保險桿的擺動角度由120度降低至45度。第二代版本還取消了原來武器的槍管頂部可選用的[戰術燈的開口](../Page/戰術燈.md "wikilink")，因為這都不再生產。\[17\]第二代版本也能夠藉由更換下機匣而轉換為9×19毫米鲁格、.40
 S\&W（使用格洛克22彈匣）、10毫米Auto（使用格洛克20彈匣）或.357
 SIG（使用格洛克31彈匣）口徑版本。意大利民用市場可購買9×2毫米IMI口徑版本而使用標準的9×19毫米鲁格的格洛克17彈匣。
-加拿大（以及美國一些州份）的民用市場版本只能使用10發彈匣而非全容量的彈匣。與軍警用衝鋒槍型號一樣，這型號可藉由更換下機匣，轉換其口徑和發射的彈藥。第二代“增強”型版本還可以使用折疊式M4卡賓槍伸縮式槍托適配器（而非標準型的折疊式槍托，預設裝有[馬格普UBR槍托](https://zh.wikipedia.org/wiki/馬格普工業公司 "wikilink")）和方形[消聲器形](../Page/抑制器.md "wikilink")，而這些附件也可以單獨購入。
+加拿大（以及美國一些州份）的民用市場版本只能使用10發彈匣而非全容量的彈匣。與軍警用衝鋒槍型號一樣，這型號可藉由更換下機匣，轉換其口徑和發射的彈藥。第二代“增強”型版本還可以使用折疊式M4卡賓槍伸縮式槍托適配器（而非標準型的折疊式槍托，預設裝有[馬格普UBR槍托](../Page/馬格普工業公司.md "wikilink")）和方形[消聲器形](../Page/抑制器.md "wikilink")，而這些附件也可以單獨購入。
 
 ### Vector特別任務手槍型
 
@@ -99,10 +99,10 @@ SDP，當中“SDP”的意思是特別任務手槍（SDP=**S**pecial **D**uty
 **P**istol）。它在實質與SBR是相同的，除了它裝上了一個不可拆除而且可以裝上的防塵端蓋，取代原來的折疊式[槍托或固定式槍托](../Page/槍托.md "wikilink")。這種設計在方法上是類似將[AR-15和](../Page/AR-15自動步槍.md "wikilink")[AK-47等](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[長管槍械作手槍平台化](https://zh.wikipedia.org/wiki/長管槍械 "wikilink")，而當中裝上很短的[槍管和將其緊湊化是必需要的](../Page/槍管.md "wikilink")。該槍的標準配備則是中西部工業MBUIS翻轉折疊式後備[機械瞄具](../Page/機械瞄具.md "wikilink")（BUIS），13或10發[格洛克21](../Page/格洛克21.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")，纜線鎖和塑料外殼。但一般客戶並不會希望首先要支付[$](../Page/美元.md "wikilink")
 200[印花税](../Page/印花税.md "wikilink")，然後還要等待4—6個月收到由它們發出的4張表格，接著他們才可以取得該槍的[所有權](https://zh.wikipedia.org/wiki/所有權 "wikilink")。
 
-較新型的第二代版本配備了重新設計的握把和扳機，除了原來的黑色槍身以外，還可選用原廠Cerakote塗料的橄欖色（綠色）、黑色平坦（棕褐色）、高山（白色）或戰鬥灰色槍身，同時保險桿的擺動角度由120度降低至45度。第二代版本還取消了原來武器的槍管頂部可選用的[戰術燈的開口](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")，因為這都不再生產。\[18\]第二代版本也能夠藉由更換下機匣而轉換為9×19毫米鲁格、.40
+較新型的第二代版本配備了重新設計的握把和扳機，除了原來的黑色槍身以外，還可選用原廠Cerakote塗料的橄欖色（綠色）、黑色平坦（棕褐色）、高山（白色）或戰鬥灰色槍身，同時保險桿的擺動角度由120度降低至45度。第二代版本還取消了原來武器的槍管頂部可選用的[戰術燈的開口](../Page/戰術燈.md "wikilink")，因為這都不再生產。\[18\]第二代版本也能夠藉由更換下機匣而轉換為9×19毫米鲁格、.40
 S\&W（使用格洛克22彈匣）、10毫米Auto（使用格洛克20彈匣）或.357
 SIG（使用格洛克31彈匣）口徑版本。意大利民用市場可購買9×2毫米IMI口徑版本而使用標準的9×19毫米鲁格的格洛克17彈匣。
-加拿大（以及美國一些州份）的民用市場版本只能使用10發彈匣而非全容量的彈匣。與軍警用衝鋒槍型號一樣，這型號可藉由更換下機匣，轉換其口徑和發射的彈藥。第二代“增強”型版本還可以使用折疊式M4卡賓槍伸縮式槍托適配器（而非標準型的折疊式槍托，預設裝有[馬格普UBR槍托](https://zh.wikipedia.org/wiki/馬格普工業公司 "wikilink")）和方形[消聲器形](../Page/抑制器.md "wikilink")，而這些附件也可以單獨購入。
+加拿大（以及美國一些州份）的民用市場版本只能使用10發彈匣而非全容量的彈匣。與軍警用衝鋒槍型號一樣，這型號可藉由更換下機匣，轉換其口徑和發射的彈藥。第二代“增強”型版本還可以使用折疊式M4卡賓槍伸縮式槍托適配器（而非標準型的折疊式槍托，預設裝有[馬格普UBR槍托](../Page/馬格普工業公司.md "wikilink")）和方形[消聲器形](../Page/抑制器.md "wikilink")，而這些附件也可以單獨購入。
 
 ### Vector K10
 
@@ -148,7 +148,7 @@ Vector同時出現在[电影](../Page/电影.md "wikilink")、多個[電視劇](
   - 2012年—《[-{zh-cn:全面回忆; zh-tw:攔截記憶碼;
     zh-hk:新宇宙威龍;}-](../Page/全面回忆_\(2012年电影\).md "wikilink")》（Total
     Recall
-    2012）：型號為Vector衝鋒槍型，裝上[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、前握把和並且被不列顛聯邦警察部隊和特警隊、主角道格·奎德（Douglas
+    2012）：型號為Vector衝鋒槍型，裝上[戰術燈](../Page/戰術燈.md "wikilink")、前握把和並且被不列顛聯邦警察部隊和特警隊、主角道格·奎德（Douglas
     "Doug" Quaid，[-{zh-hans:科林·法瑞尔; zh-hk:哥連·費路;
     zh-tw:柯林·法洛;}-飾演](../Page/科林·法雷尔.md "wikilink")）、蘿莉（Lori，[-{zh-cn:凯特·贝金塞尔;
     zh-hk:姬蒂·碧金莎;
@@ -165,8 +165,7 @@ Vector同時出現在[电影](../Page/电影.md "wikilink")、多個[電視劇](
     zh-hk:救參96小時;}-3](../Page/即刻救援3.md "wikilink")》：型號為Vector衝鋒槍型，被奧列格的心腹所使用。
   - 2015年—《[-{zh:分歧者2：叛亂者; zh-cn:分歧者2：绝地反击; zh-hk:叛亂者·強權終結;
     zh-tw:分歧者2：叛亂者;}-](../Page/分歧者2：叛亂者.md "wikilink")》：以Vector衝鋒槍為藍本，修改外觀以後變為「步槍」，被碧翠絲·「翠絲」·普里爾（Beatrice
-    "Tris"
-    Prior，[莎蓮·活莉飾演](https://zh.wikipedia.org/wiki/莎蓮·活莉 "wikilink")）所使用。
+    "Tris" Prior，[莎蓮·活莉飾演](../Page/莎蓮·活莉.md "wikilink")）所使用。
   - 2015年—《[-{zh-hk:猛火鎗;zh-tw:全面逃殺;zh-cn:使命召唤;}-](../Page/全面逃殺.md "wikilink")》：型號為Vector衝鋒槍型，使用短彈匣供彈，被雷尼格（Reiniger，[彼得·法蘭森飾演](https://zh.wikipedia.org/wiki/彼得·法蘭森 "wikilink")）為首的多名打手所使用。
   - 2016年—《[-{zh-cn:人类清除计划3：大选年; zh-tw:國定殺戮日：大選之年;
     zh-hk:國定殺戮日：大選狂屠;}-](https://zh.wikipedia.org/wiki/國定殺戮日：大選之年 "wikilink")》：型號為Vector衝鋒槍型，被教堂內的NFFA守衛所使用。
@@ -187,13 +186,13 @@ Vector同時出現在[电影](../Page/电影.md "wikilink")、多個[電視劇](
       - 海神波賽頓KRISS SUPER V（[2013年3月推出](../Page/2013年3月.md "wikilink")）
       - 古代機械KRISS
   - 2007年—《[-{zh-cn:反恐精英Online;
-    zh-hk:絕對武力Online}-](../Page/絕對武力Online.md "wikilink")》：型號為Vector衝鋒槍型，使用黑色上[機匣至](https://zh.wikipedia.org/wiki/機匣 "wikilink")[槍托及前握把和沙色握把至下機匣](../Page/槍托.md "wikilink")，並裝上了[寬型前握把和](https://zh.wikipedia.org/wiki/寬型前握把 "wikilink")[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")（後者無法使用）。單槍版為30發[彈匣並可加裝](../Page/彈匣.md "wikilink")[消音器](../Page/抑制器.md "wikilink")。港台地區於2010年6月8日推出單槍版，命名為「霹靂戰警」；中国大陆地區於2010年6月16日推出單槍版，命名為「致命蝎刺」；在各地版本均已開放使用，但泰國版因結束營運的關係而不會在這兩個版本開放使用。另外亦有兩種改進版：
+    zh-hk:絕對武力Online}-](../Page/絕對武力Online.md "wikilink")》：型號為Vector衝鋒槍型，使用黑色上[機匣至](https://zh.wikipedia.org/wiki/機匣 "wikilink")[槍托及前握把和沙色握把至下機匣](../Page/槍托.md "wikilink")，並裝上了[寬型前握把和](https://zh.wikipedia.org/wiki/寬型前握把 "wikilink")[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")（後者無法使用）。單槍版為30發[彈匣並可加裝](../Page/彈匣.md "wikilink")[消音器](../Page/抑制器.md "wikilink")。港台地區於2010年6月8日推出單槍版，命名為「霹靂戰警」；中国大陆地區於2010年6月16日推出單槍版，命名為「致命蝎刺」；在各地版本均已開放使用，但泰國版因結束營運的關係而不會在這兩個版本開放使用。另外亦有兩種改進版：
       - Dual Vector Super
-        V：[雙持槍械版](../Page/雙持.md "wikilink")，50發[彈匣](../Page/彈匣.md "wikilink")，同樣裝上了寬型前握把和[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")（兩者均無法使用），不可加裝[消音器](../Page/抑制器.md "wikilink")。港台地區於2010年10月12日推出雙槍版，命名為「霹靂悍將」；中国大陆地區於2010年10月13日推出雙槍版，命名為「致命双刺」。
+        V：[雙持槍械版](../Page/雙持.md "wikilink")，50發[彈匣](../Page/彈匣.md "wikilink")，同樣裝上了寬型前握把和[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")（兩者均無法使用），不可加裝[消音器](../Page/抑制器.md "wikilink")。港台地區於2010年10月12日推出雙槍版，命名為「霹靂悍將」；中国大陆地區於2010年10月13日推出雙槍版，命名為「致命双刺」。
       - Dual Kriss Custom：為Dual Vector Super
-        V的英雄版本，70發[彈匣](../Page/彈匣.md "wikilink")，使用深青、紅、黑、白槍身，裝上了、管式、寬型前握把和[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")（後兩者均無法使用），按滑鼠右鍵為B模式：1倍放大倍率，奇怪地可在雙持下使用瞄準鏡來瞄準和發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。港台地區於2015年6月30日推出，命名為「終極悍將」；中國大陸地區已於2015年7月1日推出，命名為「英雄双刺」。
+        V的英雄版本，70發[彈匣](../Page/彈匣.md "wikilink")，使用深青、紅、黑、白槍身，裝上了、管式、寬型前握把和[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")（後兩者均無法使用），按滑鼠右鍵為B模式：1倍放大倍率，奇怪地可在雙持下使用瞄準鏡來瞄準和發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。港台地區於2015年6月30日推出，命名為「終極悍將」；中國大陸地區已於2015年7月1日推出，命名為「英雄双刺」。
       - VULCANUS-3：最早於韓國版2016年4月21日時推出，為Vector Super
-        V其中一種反殭屍用改進型，使用白色、藍色和橙色槍身，45發[彈匣](../Page/彈匣.md "wikilink")；機匣頂部具有Vulcanus裝置，亦裝上了管式[槍口制退器](../Page/砲口制動器.md "wikilink")、寬型前握把和[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")（後者無法使用）；一般射擊每9發時，Vulcanus裝置將會從收納處展開追加槍管（發射雷射），總共可追加4根槍管（增為5個槍口），傷害也會隨之增加，直到一定時間沒有射擊以後回到基本狀態。港台地區於2016年4月26日推出，命名為「詭影殺手」；中國大陸地區已於2016年4月27日推出，命名為「逆天行」。
+        V其中一種反殭屍用改進型，使用白色、藍色和橙色槍身，45發[彈匣](../Page/彈匣.md "wikilink")；機匣頂部具有Vulcanus裝置，亦裝上了管式[槍口制退器](../Page/砲口制動器.md "wikilink")、寬型前握把和[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")（後者無法使用）；一般射擊每9發時，Vulcanus裝置將會從收納處展開追加槍管（發射雷射），總共可追加4根槍管（增為5個槍口），傷害也會隨之增加，直到一定時間沒有射擊以後回到基本狀態。港台地區於2016年4月26日推出，命名為「詭影殺手」；中國大陸地區已於2016年4月27日推出，命名為「逆天行」。
   - 2007年—《[穿越火线](../Page/穿越火线.md "wikilink")》：型號為Vector衝鋒槍型，加装[全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")（不可使用），使用13发[弹匣供弹但奇怪的可以装填](https://zh.wikipedia.org/wiki/弹匣 "wikilink")35发弹药。海外服务器的默认版本使用沙色涂装，命名为“MK5”，中国服务器的默认版本使用印有[Razer的LOGO的绿色涂装](https://zh.wikipedia.org/wiki/Razer "wikilink")，命名为“雷蛇冲锋枪”，并有多种改型。
   - 2008年—《[AVA Online](../Page/戰地之王.md "wikilink")》：型號為Vector衝鋒槍型。
   - 2009年—《[殺戮空間](../Page/殺戮空間.md "wikilink")》（Killing
@@ -228,7 +227,7 @@ Vector同時出現在[电影](../Page/电影.md "wikilink")、多個[電視劇](
   - 2012年—《[-{zh-hans:孤岛惊魂3; zh-hant:極地戰嚎3;
     zh-tw:極地戰嚎3;}-](../Page/孤岛惊魂3.md "wikilink")》：型號為Vector衝鋒槍型，命名為「Vector
     .45
-    ACP」，30發[彈匣](../Page/彈匣.md "wikilink")，並裝上了[寬型前握把和](https://zh.wikipedia.org/wiki/寬型前握把 "wikilink")[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")（後者無法使用）；解鎖衍生型為「碎紙機」，同樣裝上了寬型前握把和[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")（後者無法使用），可加裝[消聲器](../Page/抑制器.md "wikilink")、延長彈匣和管狀[反射式瞄準鏡以及增強](../Page/紅點鏡.md "wikilink")[精度和傷害](../Page/準確與精密.md "wikilink")。
+    ACP」，30發[彈匣](../Page/彈匣.md "wikilink")，並裝上了[寬型前握把和](https://zh.wikipedia.org/wiki/寬型前握把 "wikilink")[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")（後者無法使用）；解鎖衍生型為「碎紙機」，同樣裝上了寬型前握把和[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")（後者無法使用），可加裝[消聲器](../Page/抑制器.md "wikilink")、延長彈匣和管狀[反射式瞄準鏡以及增強](../Page/紅點鏡.md "wikilink")[精度和傷害](../Page/準確與精密.md "wikilink")。
   - 2013年—《[潛龍諜影崛起：再復仇](https://zh.wikipedia.org/wiki/潛龍諜影崛起：再復仇 "wikilink")》（Metal
     Gear Rising: Revengeance）：型號為Vector
     K10型，使用了MP5風格弧形彈匣和MP7風格[槍管和前端](../Page/槍管.md "wikilink")。
@@ -242,17 +241,17 @@ Vector同時出現在[电影](../Page/电影.md "wikilink")、多個[電視劇](
   - 2013年—《[-{zh-cn:使命召唤：幽灵;
     zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》（Call
     of Duty: Ghosts）：型號為Vector衝鋒槍型，命名為「Vector
-    CRB」，黑色槍身，造型上裝有不可使用[戰術燈和](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")[MagPul
+    CRB」，黑色槍身，造型上裝有不可使用[戰術燈和](../Page/戰術燈.md "wikilink")[MagPul
     AFG直角前握把](../Page/直角前握把.md "wikilink")，30發（故事模式及滅絕模式）和32發（聯機模式，可使用改裝：延長彈匣增至48發）[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為180發（故事模式）、64發（聯機模式）和120發（滅絕模式），最高攜彈量為210發（故事模式）、192發（聯機模式）和300發（滅絕模式）。故事模式之中被美國精銳部隊「魅影」（Ghosts）和敵軍「聯邦」（Federation）雙方所使用；聯機模式時可以使用[紅點鏡](../Page/紅點鏡.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、、[可變倍率反射式瞄準鏡](https://zh.wikipedia.org/wiki/望遠鏡放大倍數 "wikilink")、[熱能探測混合式瞄準鏡](../Page/热能.md "wikilink")、追踪器瞄準鏡、、[消音器](../Page/抑制器.md "wikilink")、[槍口制退器](../Page/砲口制動器.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")、射速增加；滅絕模式時以1,500點取得。
-  - 2013年—《[劫薪日2](https://zh.wikipedia.org/wiki/劫薪日2 "wikilink")》（Payday
-    2）：命名為「Kross Vertex」，使用啞黑色槍身，30發[彈匣](../Page/彈匣.md "wikilink")。
+  - 2013年—《[劫薪日2](../Page/劫薪日2.md "wikilink")》（Payday 2）：命名為「Kross
+    Vertex」，使用啞黑色槍身，30發[彈匣](../Page/彈匣.md "wikilink")。
   - 2013年—《[-{zh-cn:反恐精英Online 2; zh-tw:絕對武力2 Online; zh-hk:絕對武力2
     Online; zh-sg:絕對武力2
     Online;}-](https://zh.wikipedia.org/wiki/絕對武力2_Online "wikilink")》（Counter
     Strike Online
     2）：最早於韓國版2013年12月12日時推出。型號為Vector衝鋒槍型，在遊戲中使用啞黑色槍身、發射[.45
     ACP手槍子彈和](../Page/.45_ACP.md "wikilink")25
-    發容量彈匣，並裝上了[寬型前握把和](https://zh.wikipedia.org/wiki/寬型前握把 "wikilink")[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")（後者無法使用），命名為「TDI
+    發容量彈匣，並裝上了[寬型前握把和](https://zh.wikipedia.org/wiki/寬型前握把 "wikilink")[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")（後者無法使用），命名為「TDI
     Kriss Super Vector」。中國大陸版於2015年3月25日時推出。
   - 2014年—《[看門狗](../Page/看門狗_\(遊戲\).md "wikilink")》（Watch
     Dogs）：命名為“Vector
@@ -266,7 +265,7 @@ Vector同時出現在[电影](../Page/电影.md "wikilink")、多個[電視劇](
   - 2014年—《[-{zh-hans:孤岛惊魂4; zh-hant:極地戰嚎4;
     zh-tw:極地戰嚎4;}-](https://zh.wikipedia.org/wiki/極地戰嚎4 "wikilink")》：型號為Vector衝鋒槍型，命名為「Vector
     .45
-    ACP」，30發彈匣，並裝上了[寬型前握把和](https://zh.wikipedia.org/wiki/寬型前握把 "wikilink")[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")（後者無法使用）；解鎖衍生型為「碎紙機」，同樣裝上了寬型前握把和[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")（後者無法使用），可加裝消聲器、延長彈匣和管狀反射式瞄準鏡以及增強精度和傷害。
+    ACP」，30發彈匣，並裝上了[寬型前握把和](https://zh.wikipedia.org/wiki/寬型前握把 "wikilink")[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")（後者無法使用）；解鎖衍生型為「碎紙機」，同樣裝上了寬型前握把和[槍管頂部](../Page/槍管.md "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")（後者無法使用），可加裝消聲器、延長彈匣和管狀反射式瞄準鏡以及增強精度和傷害。
   - 2015年—《[-{zh-hans:战地：硬仗;
     zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》（Battlefield
     Hardline）：型號為Vector K10型，命名為「K10」，歸類為衝鋒槍，發射[.45
@@ -285,13 +284,13 @@ Vector同時出現在[电影](../Page/电影.md "wikilink")、多個[電視劇](
   - 2016年—《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》（Rainbow Six
     :Siege）：型号为Vector冲锋枪型以及Vector CRB；
       - Vector冲锋枪型命名為「Vector .45
-        ACP」，于第二年追加下载内容“丝绒壳行动”中登场，被防守方[西班牙反恐特別行動小組幹員Mira所使用](https://zh.wikipedia.org/wiki/西班牙反恐特別行動小組 "wikilink")。
+        ACP」，于第二年追加下载内容“丝绒壳行动”中登场，被防守方[西班牙反恐特別行動小組幹員Mira所使用](../Page/西班牙反恐特別行動小組.md "wikilink")。
       - Vector
         CRB命名为「V308」，于第三年追加下载内容“奇美拉行动”中登场，被进攻方[GIGN化生放核危机应变小组干员Lion所使用](https://zh.wikipedia.org/wiki/GIGN "wikilink")，修改为使用[7.62×51mm
         NATO弹药](../Page/7.62×51mm_NATO.md "wikilink")，装备50发[弹鼓并归类为突击步枪](https://zh.wikipedia.org/wiki/弹鼓 "wikilink")。
   - 2016年（台版2017年）—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》（Girls'
     Frontline）：為五星人形衝鋒槍，透過工廠製造獲得，立繪上、下槍身配色為沙色，上槍身黑色，並配置黑色。
-  - 2017年—《[絕地求生](https://zh.wikipedia.org/wiki/絕地求生 "wikilink")》（PLAYERUNKNOWN'S
+  - 2017年—《[絕地求生](../Page/絕地求生.md "wikilink")》（PLAYERUNKNOWN'S
     BATTLEGROUNDS）：型號為Vector衝鋒槍型，13發[彈匣](../Page/彈匣.md "wikilink")，可自行改造彈匣最大為25發，可增加握把、瞄準鏡、枪口零件和战术枪托。
   - 2018年—《[穿越火线高清竞技大区](https://zh.wikipedia.org/wiki/穿越火线高清竞技大区 "wikilink")》（Crossfire
     HD）：型號為Vector衝鋒槍型，上机匣采用黑色涂装、下机匣采用银灰色涂装，命名为“Vector”，使用25发弹匣装填，在非开火状态下按住前进键1秒后会自动进入冲刺状态。
@@ -299,7 +298,7 @@ Vector同時出現在[电影](../Page/电影.md "wikilink")、多個[電視劇](
     zh-hant:極地戰嚎;}-5](https://zh.wikipedia.org/wiki/極地戰嚎5 "wikilink")》（Far
     Cry 5）：型號為Vector衝鋒槍型，命名為「Vector .45 ACP」。
   - 2019年—《[-{zh-hans:孤岛惊魂：新曙光;
-    zh-hant:極地戰嚎：破曉;}-](https://zh.wikipedia.org/wiki/孤岛惊魂：新曙光 "wikilink")》（Far
+    zh-hant:極地戰嚎：破曉;}-](../Page/孤岛惊魂：新曙光.md "wikilink")》（Far
     Cry: New Dawn）
 
 ### 網頁遊戲
@@ -317,7 +316,7 @@ Vector同時出現在[电影](../Page/电影.md "wikilink")、多個[電視劇](
   - 2013年—《[鲁邦三世VS名侦探柯南 THE
     MOVIE](https://zh.wikipedia.org/wiki/鲁邦三世VS名侦探柯南_THE_MOVIE "wikilink")》：被峰不二子（なかむらゆり，聲優：[澤城美雪](../Page/澤城美雪.md "wikilink")）所使用，[雙持時由右手使用](../Page/雙持.md "wikilink")（左手則持有[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")）。
   - 2015年—《[絕命制裁X](../Page/絕命制裁X.md "wikilink")》：裝上了[寬型前握把](https://zh.wikipedia.org/wiki/寬型前握把 "wikilink")，被NEOTV新大樓劫持人質事件主犯Wild
-    Hunt／賽蓮（サイレン，聲優：[藏合紗惠子](https://zh.wikipedia.org/wiki/藏合紗惠子 "wikilink")）所使用。
+    Hunt／賽蓮（サイレン，聲優：[藏合紗惠子](../Page/藏合紗惠子.md "wikilink")）所使用。
 
 ## 參見
 

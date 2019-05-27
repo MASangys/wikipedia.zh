@@ -292,7 +292,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page
 <tr class="odd">
 <td><p>1</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鈴木行" title="wikilink">鈴木行</a></p></td>
+<td><p><a href="../Page/鈴木行.md" title="wikilink">鈴木行</a></p></td>
 <td><p>江島泰男</p></td>
 <td><p>清丸悟</p></td>
 </tr>
@@ -353,7 +353,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page
 <tr class="odd">
 <td><p>9</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/福本潔" title="wikilink">福本潔</a></p></td>
+<td><p><a href="../Page/福本潔.md" title="wikilink">福本潔</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/青野厚司" title="wikilink">青野厚司</a><br />
 岡村正弘</p></td>
 <td></td>

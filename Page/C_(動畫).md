@@ -311,7 +311,7 @@ Fund」的政府系金融機構，憑著成功地運用政府的資金，讓政�
 
   - 監督 : [中村健治](https://zh.wikipedia.org/wiki/中村健治 "wikilink")
 
-  - 系列構成 : [高木登](https://zh.wikipedia.org/wiki/高木登 "wikilink")
+  - 系列構成 : [高木登](../Page/高木登.md "wikilink")
 
   - 人物設定 : [mebae](https://zh.wikipedia.org/wiki/mebae "wikilink")
 

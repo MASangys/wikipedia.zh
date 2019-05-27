@@ -1,6 +1,6 @@
 **Rockstar高级游戏引擎**（，简称**RAGE**）為遊戲公司[Rockstar
 Games](../Page/Rockstar_Games.md "wikilink") 公司旗下子公司[Rockstar San
-Diego所開發](https://zh.wikipedia.org/wiki/Rockstar_San_Diego "wikilink")，此引擎適用於[Microsoft
+Diego所開發](../Page/Rockstar_San_Diego.md "wikilink")，此引擎適用於[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[Wii](../Page/Wii.md "wikilink")、[Xbox
 360](../Page/Xbox_360.md "wikilink")、[Xbox
@@ -27,8 +27,7 @@ One](../Page/Xbox_One.md "wikilink")、[PlayStation
     360，PS3，PC）, 2012
   - [俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")\[6\]（Xbox 360，PS3，Xbox
     One，PS4）, 2013 （PC) , 2015
-  - [碧血狂殺2](https://zh.wikipedia.org/wiki/碧血狂殺2 "wikilink") (Xbox
-    One，PS4) 2018
+  - [碧血狂殺2](../Page/碧血狂殺2.md "wikilink") (Xbox One，PS4) 2018
 
 ## 参考资料
 

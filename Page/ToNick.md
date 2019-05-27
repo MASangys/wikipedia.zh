@@ -29,7 +29,7 @@ Punk音樂風格受到學生的歡迎，加上他們經常將生活小事帶進�
     整蠱[洪卓立](../Page/洪卓立.md "wikilink")（趙善恆）（小龜）（與[李健宏合作](../Page/李健宏.md "wikilink")）
   - [情義兩難全之玩爆你個腎](../Page/情義兩難全之玩爆你個腎.md "wikilink") - 理大求婚（全員）（與李健宏合作）
   - 及時恆烙（系列）（趙善恆）（與[駱胤鳴合作](../Page/駱胤鳴.md "wikilink")）
-  - 異想兵團（系列）（趙善恆）（與[Ming仔](../Page/Ming仔.md "wikilink")、[薑檸樂](https://zh.wikipedia.org/wiki/薑檸樂_\(網絡名人\) "wikilink")、[譚杏藍合作](../Page/譚杏藍.md "wikilink")）
+  - 異想兵團（系列）（趙善恆）（與[Ming仔](../Page/Ming仔.md "wikilink")、[薑檸樂](../Page/薑檸樂_\(網絡名人\).md "wikilink")、[譚杏藍合作](../Page/譚杏藍.md "wikilink")）
   - 等一個人伊麵（趙善恆）（與Ming仔、[Miss
     Hunny合作](https://zh.wikipedia.org/wiki/Miss_Hunny "wikilink")）
   - 點解會搞成咁（系列）（趙善恆）
@@ -43,13 +43,13 @@ Punk音樂風格受到學生的歡迎，加上他們經常將生活小事帶進�
   - 第二人生 飾 張旭哲（青年）（[香港電視網絡](../Page/香港電視網絡.md "wikilink")）（趙善恆）
   - 私隱何價II-女神背後（[香港電台](../Page/香港電台.md "wikilink")）（趙善恆）
   - 沒有牆的世界V - 溫室外的跌碰（[香港電台](../Page/香港電台.md "wikilink")）（趙善恆）
-  - 《[手語隨想曲III](https://zh.wikipedia.org/wiki/手語隨想曲 "wikilink")》 -
+  - 《[手語隨想曲III](../Page/手語隨想曲.md "wikilink")》 -
     說不出的名字、特別的我獻給特別的你（[香港電台](../Page/香港電台.md "wikilink")）（趙善恆）
   - [獅子山下](../Page/獅子山下.md "wikilink")2015 -
     兩個月亮（[香港電台](../Page/香港電台.md "wikilink")）（趙善恆）
   - [獅子山下](../Page/獅子山下.md "wikilink")2016 -
     城中蓬萊（[香港電台](../Page/香港電台.md "wikilink")）（趙善恆）
-  - [火速救兵IV](https://zh.wikipedia.org/wiki/火速救兵IV "wikilink") - 兄弟
+  - [火速救兵IV](../Page/火速救兵IV.md "wikilink") - 兄弟
     ([香港電台](../Page/香港電台.md "wikilink")) (趙善恆)
 
 ### 主持
@@ -69,8 +69,7 @@ Punk音樂風格受到學生的歡迎，加上他們經常將生活小事帶進�
 
   - 不意外的意外 -
     [連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")（小龜擔任幕後工作）
-  - 大聲講我知 -
-    [SIS樂印姊妹](https://zh.wikipedia.org/wiki/SIS樂印姊妹 "wikilink")（恆仔參與演出）\[2\]
+  - 大聲講我知 - [SIS樂印姊妹](../Page/SIS樂印姊妹.md "wikilink")（恆仔參與演出）\[2\]
 
 ### 電影
 
@@ -78,10 +77,8 @@ Punk音樂風格受到學生的歡迎，加上他們經常將生活小事帶進�
   - [八星抱喜](../Page/八星抱喜.md "wikilink")（插曲、編曲）（趙善恆、小龜）
   - [救殭清道夫](https://zh.wikipedia.org/wiki/救殭清道夫 "wikilink") 飾
     被踩車頂的司機（趙善恆）（兼任電影導演、配樂及故事）（導演及故事與[甄柏榮合作](https://zh.wikipedia.org/wiki/甄柏榮 "wikilink")）
-  - [西謊極落之太爆太子太空艙](https://zh.wikipedia.org/wiki/西謊極落之太爆太子太空艙 "wikilink")
-    飾 高醫生 (趙善恆)
-  - [辣警霸王花](https://zh.wikipedia.org/wiki/辣警霸王花 "wikilink")2不義之戰 飾 李志恆
-    (趙善恆)
+  - [西謊極落之太爆太子太空艙](../Page/西謊極落之太爆太子太空艙.md "wikilink") 飾 高醫生 (趙善恆)
+  - [辣警霸王花](../Page/辣警霸王花.md "wikilink")2不義之戰 飾 李志恆 (趙善恆)
 
 ### 專輯
 
@@ -293,11 +290,11 @@ Mic](http://www.youtube.com/watch?v=RGevhlYeEko&list=TLmPcAEJhO1Ew)</ref>
   - **春節大禁忌**
     為ToNick第一首上榜歌曲，於2017年農曆新年推出。
   - **長相廝守**
-    為《[救殭清道夫](https://zh.wikipedia.org/wiki/救殭清道夫 "wikilink")》電影主題曲，於2017年初推出，推出後極受歡迎，流行至今，亦為ToNick第二首上榜歌曲。後推出與[林明禎的合唱版](../Page/林明禎.md "wikilink")。為樂隊成立十年以來首支冠軍歌，更是兩台冠軍：此曲先於2017年4月在[903專業推介成為冠軍歌](../Page/903專業推介.md "wikilink")，之後再兩奪亞軍；後又於8月先後登上[勁歌金榜](../Page/勁歌金榜.md "wikilink")、[中文歌曲龍虎榜及](../Page/中文歌曲龍虎榜.md "wikilink")[新城勁爆流行榜](https://zh.wikipedia.org/wiki/新城勁爆流行榜 "wikilink")\[5\]，更於勁歌金榜中奪得冠軍，其餘兩榜中則於三甲位置止步\[6\]。此曲成功將ToNick打入主流，更於年底為ToNick贏得不少[獎項](https://zh.wikipedia.org/wiki/#2017年度 "wikilink")。2018年，此曲再次打入903專業推介排行榜。同年，此曲獲提名[香港電影金像獎最佳原創電影歌曲](https://zh.wikipedia.org/wiki/第37屆香港電影金像獎 "wikilink")。
+    為《[救殭清道夫](https://zh.wikipedia.org/wiki/救殭清道夫 "wikilink")》電影主題曲，於2017年初推出，推出後極受歡迎，流行至今，亦為ToNick第二首上榜歌曲。後推出與[林明禎的合唱版](../Page/林明禎.md "wikilink")。為樂隊成立十年以來首支冠軍歌，更是兩台冠軍：此曲先於2017年4月在[903專業推介成為冠軍歌](../Page/903專業推介.md "wikilink")，之後再兩奪亞軍；後又於8月先後登上[勁歌金榜](../Page/勁歌金榜.md "wikilink")、[中文歌曲龍虎榜及](../Page/中文歌曲龍虎榜.md "wikilink")[新城勁爆流行榜](https://zh.wikipedia.org/wiki/新城勁爆流行榜 "wikilink")\[5\]，更於勁歌金榜中奪得冠軍，其餘兩榜中則於三甲位置止步\[6\]。此曲成功將ToNick打入主流，更於年底為ToNick贏得不少[獎項](https://zh.wikipedia.org/wiki/#2017年度 "wikilink")。2018年，此曲再次打入903專業推介排行榜。同年，此曲獲提名[香港電影金像獎最佳原創電影歌曲](../Page/第37屆香港電影金像獎.md "wikilink")。
   - **阿飛與阿基**
     為ToNick第三首上榜歌曲，於2017年5月推出。
   - **回憶備份**
-    為ToNick第四首上榜歌曲，於2017年9月推出。為[ViuTV節目](../Page/ViuTV.md "wikilink")《[回憶備份](https://zh.wikipedia.org/wiki/回憶備份 "wikilink")》主題曲。
+    為ToNick第四首上榜歌曲，於2017年9月推出。為[ViuTV節目](../Page/ViuTV.md "wikilink")《[回憶備份](../Page/回憶備份.md "wikilink")》主題曲。
   - **不停站**
     為ToNick第五首上榜歌曲，於2017年11月推出。為「[ToNick不停站演唱會](https://zh.wikipedia.org/wiki/ToNick不停站演唱會 "wikilink")」主題曲。
   - **Let's Goal**
@@ -367,10 +364,9 @@ Mic](http://www.youtube.com/watch?v=RGevhlYeEko&list=TLmPcAEJhO1Ew)</ref>
 
 ### 2017年度
 
-  - [2017勁歌金曲優秀選第二回](https://zh.wikipedia.org/wiki/2017年勁歌金曲優秀選第二回得獎名單 "wikilink")
-    - 得獎歌曲《長相廝守》
-  - [YAHOO\!人氣大獎2017
-    頒獎典禮](https://zh.wikipedia.org/wiki/2017年度YAHOO!搜尋人氣大獎得獎名單 "wikilink")
+  - [2017勁歌金曲優秀選第二回](../Page/2017年勁歌金曲優秀選第二回得獎名單.md "wikilink") -
+    得獎歌曲《長相廝守》
+  - [YAHOO\!人氣大獎2017 頒獎典禮](../Page/2017年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")
     - 人氣歌曲《長相廝守》
   - [2017年度 YouTube Rewind
     香港十大本地音樂影片排行榜](https://zh.wikipedia.org/wiki/YouTube聚光燈#YouTube年度回顧 "wikilink")
@@ -379,14 +375,10 @@ Mic](http://www.youtube.com/watch?v=RGevhlYeEko&list=TLmPcAEJhO1Ew)</ref>
     香港十大本地音樂影片排行榜](https://zh.wikipedia.org/wiki/YouTube聚光燈#YouTube年度回顧 "wikilink")
     - 第六位《長相廝守》（feat. 林明禎）
   - 2017年度iTunes音樂精選（香港區）- 年度最佳歌曲《長相廝守》
-  - [第四十屆十大中文金曲](https://zh.wikipedia.org/wiki/第四十屆十大中文金曲得獎名單 "wikilink")
-    - 十大中文金曲《長相廝守》
-  - [新城勁爆頒獎禮2017](https://zh.wikipedia.org/wiki/2017年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 勁爆獨立音樂人／樂隊
-  - [2017年度勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/2017年度勁歌金曲得獎名單 "wikilink")
-    - 最佳樂隊組合獎 銅獎
-  - [2017年度勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/2017年度勁歌金曲得獎名單 "wikilink")
-    - 勁歌金曲獎《長相廝守》
+  - [第四十屆十大中文金曲](../Page/第四十屆十大中文金曲得獎名單.md "wikilink") - 十大中文金曲《長相廝守》
+  - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆獨立音樂人／樂隊
+  - [2017年度勁歌金曲頒獎典禮](../Page/2017年度勁歌金曲得獎名單.md "wikilink") - 最佳樂隊組合獎 銅獎
+  - [2017年度勁歌金曲頒獎典禮](../Page/2017年度勁歌金曲得獎名單.md "wikilink") - 勁歌金曲獎《長相廝守》
   - [2017年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2017年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")
     - 專業推介叱咤十大 第五位《長相廝守》
   - [2017年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2017年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")

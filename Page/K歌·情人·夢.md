@@ -1,7 +1,7 @@
 [許慧欣](../Page/許慧欣.md "wikilink"){{、w}}[張棟樑](https://zh.wikipedia.org/wiki/張棟樑 "wikilink"){{、w}}
 [藍鈞天](../Page/藍鈞天.md "wikilink"){{、w}}[馬念先](../Page/馬念先.md "wikilink"){{、w}}[豆花妹](../Page/蔡黃汝.md "wikilink"){{、w}}
 [陳思函](../Page/陳思函.md "wikilink"){{、w}}[師鈺婷](https://zh.wikipedia.org/wiki/師鈺婷 "wikilink"){{、w}}[布孟璇](https://zh.wikipedia.org/wiki/布孟璇 "wikilink"){{、w}}
-[江莛鈞](https://zh.wikipedia.org/wiki/江莛鈞 "wikilink"){{、w}}[郭耀仁](../Page/郭耀仁.md "wikilink"){{、w}}[黃柏語](https://zh.wikipedia.org/wiki/黃柏語 "wikilink")
+[江莛鈞](https://zh.wikipedia.org/wiki/江莛鈞 "wikilink"){{、w}}[郭耀仁](../Page/郭耀仁.md "wikilink"){{、w}}[黃柏語](../Page/黃柏語.md "wikilink")
 | judges = | voices = | narrated = | theme_music_composer = |
 opentheme = [超有種](https://zh.wikipedia.org/wiki/超有種 "wikilink")《一路發威》 |
 endtheme = [范逸臣](../Page/范逸臣.md "wikilink")《我是誰》 | country =  | language
@@ -211,7 +211,7 @@ followed_by = | related = | website =
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黃柏語" title="wikilink">黃柏語</a></p></td>
+<p><a href="../Page/黃柏語.md" title="wikilink">黃柏語</a></p></td>
 <td><center>
 <p>安震</p></td>
 <td><p>Super Seed樂團之一，夜總會伴唱牛郎。</p></td>
@@ -551,7 +551,7 @@ followed_by = | related = | website =
 
 ## 電視劇歌曲
 
-  - 超有種成員─[張棟樑](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")、[豆花妹](../Page/蔡黃汝.md "wikilink")、[陳思函](../Page/陳思函.md "wikilink")、[師鈺婷](https://zh.wikipedia.org/wiki/師鈺婷 "wikilink")、[Terry](https://zh.wikipedia.org/wiki/江莛鈞 "wikilink")、[郭耀仁](../Page/郭耀仁.md "wikilink")、[黃柏語](https://zh.wikipedia.org/wiki/黃柏語 "wikilink")、[布孟璇](https://zh.wikipedia.org/wiki/布孟璇 "wikilink")
+  - 超有種成員─[張棟樑](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")、[豆花妹](../Page/蔡黃汝.md "wikilink")、[陳思函](../Page/陳思函.md "wikilink")、[師鈺婷](https://zh.wikipedia.org/wiki/師鈺婷 "wikilink")、[Terry](https://zh.wikipedia.org/wiki/江莛鈞 "wikilink")、[郭耀仁](../Page/郭耀仁.md "wikilink")、[黃柏語](../Page/黃柏語.md "wikilink")、[布孟璇](https://zh.wikipedia.org/wiki/布孟璇 "wikilink")
 
 <table>
 <tbody>
@@ -671,7 +671,7 @@ followed_by = | related = | website =
 第1、8、13集</p></td>
 </tr>
 <tr class="odd">
-<td><p>超有種，除了<a href="https://zh.wikipedia.org/wiki/黃柏語" title="wikilink">黃柏語</a> （第8集）</p></td>
+<td><p>超有種，除了<a href="../Page/黃柏語.md" title="wikilink">黃柏語</a> （第8集）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -690,7 +690,7 @@ followed_by = | related = | website =
 <tr class="odd">
 <td><p>插曲</p></td>
 <td><p>十年（改編曲）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃柏語" title="wikilink">黃柏語</a></p></td>
+<td><p><a href="../Page/黃柏語.md" title="wikilink">黃柏語</a></p></td>
 <td><p><a href="../Page/林夕.md" title="wikilink">林夕</a></p></td>
 <td><p><a href="../Page/陳小霞.md" title="wikilink">陳小霞</a></p></td>
 <td><p>原唱：<a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a><br />
@@ -790,7 +790,7 @@ followed_by = | related = | website =
 <td><p>AYO</p></td>
 <td><p><a href="../Page/溫嵐.md" title="wikilink">溫嵐與超有種</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/周啟民" title="wikilink">周啟民</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朱敬然" title="wikilink">朱敬然</a>、<a href="https://zh.wikipedia.org/wiki/溫小嵐" title="wikilink">溫小嵐</a></p></td>
+<td><p><a href="../Page/朱敬然.md" title="wikilink">朱敬然</a>、<a href="https://zh.wikipedia.org/wiki/溫小嵐" title="wikilink">溫小嵐</a></p></td>
 <td><p>原唱：<a href="../Page/溫嵐.md" title="wikilink">溫嵐</a><br />
 第4、13集</p></td>
 </tr>
@@ -798,8 +798,8 @@ followed_by = | related = | website =
 <td><p>插曲</p></td>
 <td><p>Baby Girl</p></td>
 <td><p><a href="../Page/藍鈞天.md" title="wikilink">藍鈞天</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高愷蔚" title="wikilink">高愷蔚</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高愷蔚" title="wikilink">高愷蔚</a></p></td>
+<td><p><a href="../Page/高愷蔚.md" title="wikilink">高愷蔚</a></p></td>
+<td><p><a href="../Page/高愷蔚.md" title="wikilink">高愷蔚</a></p></td>
 <td><p>第5、13集</p></td>
 </tr>
 <tr class="even">
@@ -849,7 +849,7 @@ followed_by = | related = | website =
 </tr>
 <tr class="odd">
 <td><p>超有種，除了<br />
-<a href="https://zh.wikipedia.org/wiki/江莛鈞" title="wikilink">Terry</a>、<a href="../Page/郭耀仁.md" title="wikilink">郭耀仁</a>、<a href="https://zh.wikipedia.org/wiki/黃柏語" title="wikilink">黃柏語</a>(第7集)</p></td>
+<a href="https://zh.wikipedia.org/wiki/江莛鈞" title="wikilink">Terry</a>、<a href="../Page/郭耀仁.md" title="wikilink">郭耀仁</a>、<a href="../Page/黃柏語.md" title="wikilink">黃柏語</a>(第7集)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -886,7 +886,7 @@ Pete Barringer、Douglas Shawe</p></td>
 <td><p>插曲</p></td>
 <td><p>我要你的愛（改編曲）</p></td>
 <td><p>超有種，除了<br />
-<a href="https://zh.wikipedia.org/wiki/江莛鈞" title="wikilink">TERRY</a>、<a href="../Page/郭耀仁.md" title="wikilink">郭耀仁</a>、<a href="https://zh.wikipedia.org/wiki/黃柏語" title="wikilink">黃柏語</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/江莛鈞" title="wikilink">TERRY</a>、<a href="../Page/郭耀仁.md" title="wikilink">郭耀仁</a>、<a href="../Page/黃柏語.md" title="wikilink">黃柏語</a></p></td>
 <td><p><a href="../Page/姚敏.md" title="wikilink">姚敏</a></p></td>
 <td><p><a href="../Page/姚敏.md" title="wikilink">姚敏</a></p></td>
 <td><p>原唱：<a href="https://zh.wikipedia.org/wiki/葛蘭" title="wikilink">葛蘭</a><br />
@@ -905,7 +905,7 @@ Pete Barringer、Douglas Shawe</p></td>
 <td><p>插曲</p></td>
 <td><p>保庇</p></td>
 <td><p><a href="../Page/王彩樺.md" title="wikilink">王彩樺與超有種</a>，<br />
-除了<a href="https://zh.wikipedia.org/wiki/黃柏語" title="wikilink">黃柏語</a></p></td>
+除了<a href="../Page/黃柏語.md" title="wikilink">黃柏語</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Choi_Kyu_Sung" title="wikilink">Choi Kyu Sung</a>、<a href="https://zh.wikipedia.org/wiki/博修" title="wikilink">博修</a>(改編詞)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/S._Tiger" title="wikilink">S. Tiger</a></p></td>
 <td><p>原唱：<a href="../Page/王彩樺.md" title="wikilink">王彩樺</a><br />
@@ -941,7 +941,7 @@ Pete Barringer、Douglas Shawe</p></td>
 <td><p>插曲</p></td>
 <td><p>王妃</p></td>
 <td><p><a href="../Page/蕭敬騰.md" title="wikilink">蕭敬騰</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳鎮川" title="wikilink">陳鎮川</a></p></td>
+<td><p><a href="../Page/陳鎮川.md" title="wikilink">陳鎮川</a></p></td>
 <td><p><a href="../Page/李偲菘.md" title="wikilink">李偲菘</a></p></td>
 <td><p>第9、13集</p></td>
 </tr>

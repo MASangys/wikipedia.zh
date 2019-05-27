@@ -12,7 +12,7 @@ Soul+音乐小组旗下的一位[日本女性歌手](../Page/日本.md "wikilink
       - 2009年4月22日發售 / コロムビアミュージックエンタテインメント
           - 電視動畫『[クプ〜\!\!まめゴマ\!](https://zh.wikipedia.org/wiki/まめゴマ#メディア展開 "wikilink")』片尾曲
           - 片頭曲「サンキュ\!は I LOVE
-            YOU」（[宮本佳那子](https://zh.wikipedia.org/wiki/宮本佳那子 "wikilink")）のc/w
+            YOU」（[宮本佳那子](../Page/宮本佳那子.md "wikilink")）のc/w
 3.  君ノ記憶
       - 2010年4月21日發售 / ティームエンタテインメント
           - 電視動畫『[薄櫻鬼](https://zh.wikipedia.org/wiki/薄櫻鬼_〜新選組奇譚〜 "wikilink")』片尾曲

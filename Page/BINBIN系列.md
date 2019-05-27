@@ -1,6 +1,6 @@
 《**BINBIN系列**》（），是[日本](../Page/日本.md "wikilink")[富士電視台播放的系列](../Page/富士電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，[東寶製作](https://zh.wikipedia.org/wiki/東寶株式會社 "wikilink")。由1987年至1989年連續三年的三部[月九檔](../Page/富士電視台週一晚間九點連續劇.md "wikilink")[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，以及多部特別篇組成。是1980年代後期的大熱日本電視劇。
 
-系列故事均圍繞德川龍之介（[田原俊彥](https://zh.wikipedia.org/wiki/田原俊彥 "wikilink")
+系列故事均圍繞德川龍之介（[田原俊彥](../Page/田原俊彥.md "wikilink")
 飾）和榎本英樹（[野村宏伸](https://zh.wikipedia.org/wiki/野村宏伸 "wikilink")
 飾）兩個角色展開，但是角色的設定在不同的故事中也會有所不同。
 
@@ -12,7 +12,7 @@
 
 ### 登場人物
 
-  - [田原俊彥](https://zh.wikipedia.org/wiki/田原俊彥 "wikilink")：德川龍之介（主人公）
+  - [田原俊彥](../Page/田原俊彥.md "wikilink")：德川龍之介（主人公）
 
   - [野村宏伸](https://zh.wikipedia.org/wiki/野村宏伸 "wikilink")：榎本英樹（職場的後輩）
 
@@ -50,7 +50,7 @@
 
 ### 主題曲
 
-  - [田原俊彥](https://zh.wikipedia.org/wiki/田原俊彥 "wikilink")「[如果？](https://zh.wikipedia.org/wiki/如果？ "wikilink")」
+  - [田原俊彥](../Page/田原俊彥.md "wikilink")「[如果？](https://zh.wikipedia.org/wiki/如果？ "wikilink")」
       -
         作詞：[橋本淳](https://zh.wikipedia.org/wiki/橋本淳_\(作詞家\) "wikilink")；作曲：[筒美京平](../Page/筒美京平.md "wikilink")；編曲：[船山基紀](https://zh.wikipedia.org/wiki/船山基紀 "wikilink")
 
@@ -67,7 +67,7 @@ Best Ten](../Page/The_Best_Ten.md "wikilink")》年度冠軍歌曲。
 
 ### 登場人物
 
-  - [田原俊彥](https://zh.wikipedia.org/wiki/田原俊彥 "wikilink")：德川龍之介（香港配音:[鄧榮銾](../Page/鄧榮銾.md "wikilink")）
+  - [田原俊彥](../Page/田原俊彥.md "wikilink")：德川龍之介（香港配音:[鄧榮銾](../Page/鄧榮銾.md "wikilink")）
 
   - [野村宏伸](https://zh.wikipedia.org/wiki/野村宏伸 "wikilink")：榎本英樹（香港配音:[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")）
 
@@ -221,7 +221,7 @@ Best Ten](../Page/The_Best_Ten.md "wikilink")》年度冠軍歌曲。
 
 ### 主題曲
 
-  - [田原俊彥](https://zh.wikipedia.org/wiki/田原俊彥 "wikilink")「[擁抱TONIGHT](https://zh.wikipedia.org/wiki/擁抱TONIGHT "wikilink")」
+  - [田原俊彥](../Page/田原俊彥.md "wikilink")「[擁抱TONIGHT](https://zh.wikipedia.org/wiki/擁抱TONIGHT "wikilink")」
       -
         作詞：[森浩美](https://zh.wikipedia.org/wiki/森浩美 "wikilink")；作曲：[筒美京平](../Page/筒美京平.md "wikilink")；編曲：[船山基紀](https://zh.wikipedia.org/wiki/船山基紀 "wikilink")
   - 香港版主題曲：《最愛的妳》(收錄於專輯《Changes》內)
@@ -244,7 +244,7 @@ Best Ten](../Page/The_Best_Ten.md "wikilink")》年度冠軍歌曲。
 
 ### 登場人物
 
-  - [田原俊彥](https://zh.wikipedia.org/wiki/田原俊彥 "wikilink")：德川龍之介
+  - [田原俊彥](../Page/田原俊彥.md "wikilink")：德川龍之介
 
   - [野村宏伸](https://zh.wikipedia.org/wiki/野村宏伸 "wikilink")：榎本英樹
 
@@ -403,7 +403,7 @@ Best Ten](../Page/The_Best_Ten.md "wikilink")》年度冠軍歌曲。
 
 ### 主題曲
 
-  - [田原俊彥](https://zh.wikipedia.org/wiki/田原俊彥 "wikilink")「[抱歉，眼淚](https://zh.wikipedia.org/wiki/抱歉，眼淚 "wikilink")」
+  - [田原俊彥](../Page/田原俊彥.md "wikilink")「[抱歉，眼淚](https://zh.wikipedia.org/wiki/抱歉，眼淚 "wikilink")」
       -
         作詞：[松井五郎](https://zh.wikipedia.org/wiki/松井五郎 "wikilink")；作曲：[都志見隆](https://zh.wikipedia.org/wiki/都志見隆 "wikilink")；編曲：[船山基紀](https://zh.wikipedia.org/wiki/船山基紀 "wikilink")
 

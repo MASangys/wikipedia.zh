@@ -6,7 +6,7 @@ LOVER的第](../Page/My_Little_Lover.md "wikilink")6張單曲。1996年12月2日
 [MY LITTLE
 LOVER第一次暫停樂團活動之前的最後一張單曲](../Page/My_Little_Lover.md "wikilink")。
 
-被用作[岩井俊二執導](../Page/岩井俊二.md "wikilink")、[小林武史擔任音樂製作人的](../Page/小林武史.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[燕尾蝶](../Page/燕尾蝶_\(電影\).md "wikilink")》的插曲，在電影中這首歌被男主角飛鴻（[三上博史飾演](https://zh.wikipedia.org/wiki/三上博史 "wikilink")）稱為「**All
+被用作[岩井俊二執導](../Page/岩井俊二.md "wikilink")、[小林武史擔任音樂製作人的](../Page/小林武史.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[燕尾蝶](../Page/燕尾蝶_\(電影\).md "wikilink")》的插曲，在電影中這首歌被男主角飛鴻（[三上博史飾演](../Page/三上博史.md "wikilink")）稱為「**All
 or Nothing**」和「**Free Flower**」。
 
 單曲發行首週即獲得[Oricon公信榜冠軍](../Page/Oricon公信榜.md "wikilink")\[1\]，是MY LITTLE

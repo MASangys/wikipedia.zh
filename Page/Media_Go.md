@@ -223,7 +223,7 @@ PC\[1\]。
       - 缺陷修复和改进。
       - 新增对全新Sony高解析度音频设备SRS-X77、SRS-X88和SRS-X99扬声器的支持。
   - 版本 3.0，2015年10月15日发布。从这一版本起支持[Windows
-    10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")\[15\]。
+    10](../Page/Windows_10.md "wikilink")\[15\]。
       - 扩展Throw功能。
       - 探索“播客目录”中“热门播客”区域下的新内容。
       - 新增对智能手机的支持：Xperia™ C5 Ultra、Xperia™ C5 Ultra Dual、Xperia™

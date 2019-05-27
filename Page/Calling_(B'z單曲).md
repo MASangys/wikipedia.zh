@@ -30,13 +30,13 @@
 
   - ：鼓（\#2）
 
-  - [明石昌夫](https://zh.wikipedia.org/wiki/明石昌夫 "wikilink")：貝斯
+  - [明石昌夫](../Page/明石昌夫.md "wikilink")：貝斯
 
   - [德永曉人](../Page/德永曉人.md "wikilink")：貝斯（\#1）、編曲（\#1）
 
   - [小野塚晃](https://zh.wikipedia.org/wiki/小野塚晃 "wikilink")：鋼琴（\#1）
 
-  - [增田隆宣](https://zh.wikipedia.org/wiki/增田隆宣 "wikilink")：電子琴（\#2）
+  - [增田隆宣](../Page/增田隆宣.md "wikilink")：電子琴（\#2）
 
   - [池田大介](https://zh.wikipedia.org/wiki/池田大介 "wikilink")：編曲（\#1）
 

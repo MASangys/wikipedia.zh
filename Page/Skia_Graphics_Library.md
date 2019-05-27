@@ -33,7 +33,7 @@ Skia主要的類別是SkCanvas，所有的繪圖功能都是實作於此類別�
 
   - [Direct2D](../Page/Direct2D.md "wikilink")
 
-  - [OpenVG](https://zh.wikipedia.org/wiki/OpenVG "wikilink")
+  - [OpenVG](../Page/OpenVG.md "wikilink")
 
   -
   -

@@ -132,7 +132,7 @@
 我會去找那些跟我一樣的人來擔任評委，我可是一個有20年從業經歷的唱片製作人。”\[22\]
 有很多關於評委人選的猜測，例如：[妮可·舒辛格](https://zh.wikipedia.org/wiki/妮可·舒辛格 "wikilink")、[乔治·迈克尔](../Page/乔治·迈克尔.md "wikilink")、\[23\]
 [妮琪·米娜](https://zh.wikipedia.org/wiki/妮琪·米娜 "wikilink")、\[24\]
-[蕾哈娜](../Page/蕾哈娜.md "wikilink")、[凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink")、[埃爾頓·約翰](https://zh.wikipedia.org/wiki/埃爾頓·約翰 "wikilink")、[瑪麗亞·凱莉和](https://zh.wikipedia.org/wiki/瑪麗亞·凱莉 "wikilink")[潔西卡·辛普森](../Page/潔西卡·辛普森.md "wikilink")，但是[西蒙·考威尔很快便否認了](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")[凱蒂·佩芮和](../Page/凱蒂·佩芮.md "wikilink")[埃爾頓·約翰會加入評委團](https://zh.wikipedia.org/wiki/埃爾頓·約翰 "wikilink")。\[25\]
+[蕾哈娜](../Page/蕾哈娜.md "wikilink")、[凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink")、[埃爾頓·約翰](https://zh.wikipedia.org/wiki/埃爾頓·約翰 "wikilink")、[瑪麗亞·凱莉和](../Page/瑪麗亞·凱莉.md "wikilink")[潔西卡·辛普森](../Page/潔西卡·辛普森.md "wikilink")，但是[西蒙·考威尔很快便否認了](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")[凱蒂·佩芮和](../Page/凱蒂·佩芮.md "wikilink")[埃爾頓·約翰會加入評委團](https://zh.wikipedia.org/wiki/埃爾頓·約翰 "wikilink")。\[25\]
 最後，[格萊美獎最佳唱片製作](https://zh.wikipedia.org/wiki/格萊美獎 "wikilink")、詞曲作者、唱片製作人，\[26\]\[27\]
 前任《[英國版X音素](../Page/英國版X音素.md "wikilink")》評委[雪莉·柯爾](../Page/雪莉·柯爾.md "wikilink")\[28\]\[29\]和[西蒙·考威尔在](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")《[美國偶像](../Page/美國偶像.md "wikilink")》里的搭檔及評委[寶拉·阿巴杜](../Page/寶拉·阿巴杜.md "wikilink")\[30\]
 確認為評委。

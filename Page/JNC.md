@@ -4,16 +4,16 @@ Begins》出道。團體成員分別由與兩組正在活動中的團體組合�
 
 ## 簡歷
 
-**JNC**是由J-Walk成員[金在德](https://zh.wikipedia.org/wiki/金在德 "wikilink")、[張水院與Click](https://zh.wikipedia.org/wiki/張水院 "wikilink")-B成員、、、[吳鐘赫組成](../Page/吳鐘赫.md "wikilink")。2004年於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")
+**JNC**是由J-Walk成員[金在德](../Page/金在德.md "wikilink")、[張水院與Click](../Page/張水院.md "wikilink")-B成員、、、[吳鐘赫組成](../Page/吳鐘赫.md "wikilink")。2004年於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")
 [Music
 Bank以主打歌曲](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")〈過了一天〉出道。拍攝M/V〈But〉(邀請[皇甫惠貞擔任女主角](../Page/皇甫惠貞.md "wikilink"))。組合也以〈HOT〉一曲活動並且於[MTV音樂現場Live](https://zh.wikipedia.org/wiki/MTV "wikilink")
 Wow Special節目以不同以往的形象學習中。
 
 ## 成員
 
-  - [金在德](https://zh.wikipedia.org/wiki/金在德 "wikilink")（1979年8月7日）
+  - [金在德](../Page/金在德.md "wikilink")（1979年8月7日）
 
-  - [張水院](https://zh.wikipedia.org/wiki/張水院 "wikilink")（1980年7月16日）
+  - [張水院](../Page/張水院.md "wikilink")（1980年7月16日）
 
   - （1981年3月19日）
 

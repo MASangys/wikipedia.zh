@@ -237,10 +237,10 @@ Star中日向葵與美翔舞為彩虹天使型態下，衣服為過去二種變�
   - 美術：[平澤晃弘](https://zh.wikipedia.org/wiki/平澤晃弘 "wikilink")
   - 美術監督：[平間由香](https://zh.wikipedia.org/wiki/平間由香 "wikilink")
   - 色彩設計：[澤田豐二](https://zh.wikipedia.org/wiki/澤田豐二 "wikilink")
-  - 原創人物設計：[稻上晃](../Page/稻上晃.md "wikilink")、[川村敏江](https://zh.wikipedia.org/wiki/川村敏江 "wikilink")、[香川久](https://zh.wikipedia.org/wiki/香川久 "wikilink")、[馬越嘉彥](https://zh.wikipedia.org/wiki/馬越嘉彥 "wikilink")
+  - 原創人物設計：[稻上晃](../Page/稻上晃.md "wikilink")、[川村敏江](../Page/川村敏江.md "wikilink")、[香川久](../Page/香川久.md "wikilink")、[馬越嘉彥](https://zh.wikipedia.org/wiki/馬越嘉彥 "wikilink")
   - 人物設計：[青山充](https://zh.wikipedia.org/wiki/青山充 "wikilink")
   - 作畫監督：青山充
-  - 監督：[大塚隆史](https://zh.wikipedia.org/wiki/大塚隆史 "wikilink")
+  - 監督：[大塚隆史](../Page/大塚隆史.md "wikilink")
   - 製作：電影光之美少女All Star
     2製作委員會：（[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、[東映](../Page/東映.md "wikilink")、[萬代](../Page/萬代.md "wikilink")、アサツー・ディ・ケイ、[朝日電視台](../Page/朝日電視台.md "wikilink")、[Marvelous
     Entertainment](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")、木下工務店）

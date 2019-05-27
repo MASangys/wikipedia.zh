@@ -306,7 +306,7 @@
 </tr>
 <tr class="even">
 <td><p>10月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/魔咒_-MIROTIC-" title="wikilink">魔咒 -MIROTIC-</a></p></td>
+<td><p><a href="../Page/魔咒_-MIROTIC-.md" title="wikilink">魔咒 -MIROTIC-</a></p></td>
 <td><p><a href="../Page/東方神起.md" title="wikilink">東方神起</a></p></td>
 <td><p>7.0</p></td>
 <td><p>1</p></td>

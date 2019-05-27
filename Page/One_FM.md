@@ -66,18 +66,18 @@ FM设有「一號奇兵」团体，以與民眾有更親密的接觸，提供各
 
 ## 頻率\[6\]
 
-| 地区                                                                                                                                                                      | 频率                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [吉隆坡](../Page/吉隆坡.md "wikilink")/[雲頂高原](../Page/雲頂高原.md "wikilink")                                                                                                     | 88.1 FM                  |
-| [峇株巴辖](https://zh.wikipedia.org/wiki/峇株巴辖 "wikilink")/[麻坡](../Page/麻坡.md "wikilink")/[居銮](../Page/居銮.md "wikilink")/[昔加末](https://zh.wikipedia.org/wiki/昔加末 "wikilink") | 88.1 FM                  |
-| [新山](../Page/新山.md "wikilink")                                                                                                                                          | 105.3 FM                 |
-| [北马](https://zh.wikipedia.org/wiki/北马 "wikilink")/[太平](../Page/太平_\(霹雳\).md "wikilink")                                                                                 | 87.8 FM                  |
-| [怡保](../Page/怡保.md "wikilink")/[金马仑高原](https://zh.wikipedia.org/wiki/金马仑高原 "wikilink")/霹雳其他部分                                                                           | 87.6 FM（原頻率为87.5 FM）     |
-| [马六甲](../Page/马六甲.md "wikilink")                                                                                                                                        | 88.1 FM                  |
-| [亚庇](https://zh.wikipedia.org/wiki/亚庇 "wikilink")                                                                                                                       | 95.7 FM                  |
-| [关丹](../Page/关丹.md "wikilink")、东彭亨和甘马挽                                                                                                                                  | 100.4 FM                 |
-| [芙蓉](../Page/芙蓉市.md "wikilink")                                                                                                                                         | 88.3 FM（曾短期試播FM 90.9MHz） |
-| [古晋](https://zh.wikipedia.org/wiki/古晋 "wikilink")                                                                                                                       | 98.3 FM                  |
+| 地区                                                                                                                                | 频率                       |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [吉隆坡](../Page/吉隆坡.md "wikilink")/[雲頂高原](../Page/雲頂高原.md "wikilink")                                                               | 88.1 FM                  |
+| [峇株巴辖](../Page/峇株巴辖.md "wikilink")/[麻坡](../Page/麻坡.md "wikilink")/[居銮](../Page/居銮.md "wikilink")/[昔加末](../Page/昔加末.md "wikilink") | 88.1 FM                  |
+| [新山](../Page/新山.md "wikilink")                                                                                                    | 105.3 FM                 |
+| [北马](../Page/北马.md "wikilink")/[太平](../Page/太平_\(霹雳\).md "wikilink")                                                              | 87.8 FM                  |
+| [怡保](../Page/怡保.md "wikilink")/[金马仑高原](https://zh.wikipedia.org/wiki/金马仑高原 "wikilink")/霹雳其他部分                                     | 87.6 FM（原頻率为87.5 FM）     |
+| [马六甲](../Page/马六甲.md "wikilink")                                                                                                  | 88.1 FM                  |
+| [亚庇](https://zh.wikipedia.org/wiki/亚庇 "wikilink")                                                                                 | 95.7 FM                  |
+| [关丹](../Page/关丹.md "wikilink")、东彭亨和甘马挽                                                                                            | 100.4 FM                 |
+| [芙蓉](../Page/芙蓉市.md "wikilink")                                                                                                   | 88.3 FM（曾短期試播FM 90.9MHz） |
+| [古晋](https://zh.wikipedia.org/wiki/古晋 "wikilink")                                                                                 | 98.3 FM                  |
 
 ## 参考资料
 

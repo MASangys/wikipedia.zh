@@ -1,5 +1,5 @@
 《**歐陸風雲III**》（Europa Universalis III）是[Paradox Development
-Studio所研發的大型戰略遊戲](https://zh.wikipedia.org/wiki/Paradox_Development_Studio "wikilink")。遊戲年代始於1453年，以[君士坦丁堡淪陷為第一個時間點](../Page/君士坦丁堡的陷落.md "wikilink")。其後續直到1789年，[法國大革命剛發生時為第二個時間點](https://zh.wikipedia.org/wiki/法國大革命 "wikilink")。而玩家將帶領遊戲內所選擇的國家，在這兩段漫長的歷史時間中，處理宣戰、外交和經貿等等相關國家事務。因《歐陸風雲III》其遊戲畫面設計採用[3D引擎](https://zh.wikipedia.org/wiki/3D "wikilink")，所以系統配置對[顯示卡的要求須支援](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")[Pixel
+Studio所研發的大型戰略遊戲](../Page/Paradox_Development_Studio.md "wikilink")。遊戲年代始於1453年，以[君士坦丁堡淪陷為第一個時間點](../Page/君士坦丁堡的陷落.md "wikilink")。其後續直到1789年，[法國大革命剛發生時為第二個時間點](https://zh.wikipedia.org/wiki/法國大革命 "wikilink")。而玩家將帶領遊戲內所選擇的國家，在這兩段漫長的歷史時間中，處理宣戰、外交和經貿等等相關國家事務。因《歐陸風雲III》其遊戲畫面設計採用[3D引擎](https://zh.wikipedia.org/wiki/3D "wikilink")，所以系統配置對[顯示卡的要求須支援](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")[Pixel
 Shader
 2.0](../Page/像素著色引擎.md "wikilink")。《歐陸風雲III》遊戲地圖由1700個陸地省份與海洋區塊，組成250個歷史上著名的國家。
 

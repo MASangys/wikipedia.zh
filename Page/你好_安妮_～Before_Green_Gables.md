@@ -957,7 +957,7 @@ Gables*）。自2009年4月5日播至同年2009年12月27日，全39話。
 
 ## 從前作節目的變更點
 
-  - 公司所提供的[好侍食品如今再次複數打廣告](https://zh.wikipedia.org/wiki/好侍食品 "wikilink")(好侍食品與[SECOM](../Page/SECOM.md "wikilink"))兩所公司、從第27話追加第3個公司[萬代](../Page/萬代.md "wikilink")。為此，在標題的「世界名作劇場」上，沒有提名上好侍食品的字樣。
+  - 公司所提供的[好侍食品如今再次複數打廣告](../Page/好侍食品.md "wikilink")(好侍食品與[SECOM](../Page/SECOM.md "wikilink"))兩所公司、從第27話追加第3個公司[萬代](../Page/萬代.md "wikilink")。為此，在標題的「世界名作劇場」上，沒有提名上好侍食品的字樣。
   - 從復活作到前作為止，除了CM外，其副標題是不被唸的，這是名作劇場系列復活後第一次由擔任旁白的[池田昌子來宣讀](../Page/池田昌子.md "wikilink")。還有現在為止的BGM的[過場上](https://zh.wikipedia.org/wiki/過場_\(動畫\) "wikilink")，旁白呼叫安妮的名字，而安妮使用「是」來回答的形式。
       - 自10月4日後播映時(第27話)開始是以[SHINZI
         KATOH所設計的過場畫面而變更](https://zh.wikipedia.org/wiki/SHINZI_KATOH "wikilink")。

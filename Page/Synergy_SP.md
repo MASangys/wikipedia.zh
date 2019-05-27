@@ -4,7 +4,7 @@ SP**（），是一間企劃、製作[日本動畫的公司](https://zh.wikipedi
 ## 歷史
 
 駐於[Studio
-Junio的](https://zh.wikipedia.org/wiki/Junio_Brain_Trust "wikilink")[東映動畫外部團隊](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，以製作海外合作動畫為主的各個成員——岡崎稔、[前田實及我妻宏](https://zh.wikipedia.org/wiki/前田實 "wikilink")，於1998年5月1日創立公司。同年9月24日，以「Synergy
+Junio的](../Page/Junio_Brain_Trust.md "wikilink")[東映動畫外部團隊](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，以製作海外合作動畫為主的各個成員——岡崎稔、[前田實及我妻宏](../Page/前田實.md "wikilink")，於1998年5月1日創立公司。同年9月24日，以「Synergy
 Japan」的名義公司化，成為[有限會社](https://zh.wikipedia.org/wiki/有限會社 "wikilink")。主要制作儿童的动画片。
 
 成立當初只接收來自其他公司的作畫統包工作，於2001年與[日本動畫公司合作製作](../Page/日本動畫公司.md "wikilink")《[彗星公主](../Page/彗星公主_\(動畫\).md "wikilink")》，是為該社首部參與的獨立製作。其後於《[爆旋陀螺
@@ -175,13 +175,13 @@ SP」，負責不少小學館作品的改編動畫企劃及製作。公司參與
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [前田實](https://zh.wikipedia.org/wiki/前田實 "wikilink")
+  - [前田實](../Page/前田實.md "wikilink")
   - 岡崎稔
   - 我妻宏
   - [長森佳容](../Page/長森佳容.md "wikilink")
   - 島崎知美
   - 牧内桃子
-  - [堀内修](https://zh.wikipedia.org/wiki/堀内修 "wikilink")
+  - [堀内修](../Page/堀内修.md "wikilink")
   - 槙田一章
   - 小丸敏之
   - 初見浩一

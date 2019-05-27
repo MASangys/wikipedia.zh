@@ -61,8 +61,7 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
     編曲：[馬飼野康二](https://zh.wikipedia.org/wiki/馬飼野康二 "wikilink")）
       -
         6th單曲
-9.  **[這是怎樣的戀愛 YOU
-    KNOW?](https://zh.wikipedia.org/wiki/這是怎樣的戀愛_YOU_KNOW? "wikilink")**
+9.  **[這是怎樣的戀愛 YOU KNOW?](../Page/這是怎樣的戀愛_YOU_KNOW?.md "wikilink")**
     ()
     （作詞・作曲：淳君 編曲：平田祥一郎）
       -

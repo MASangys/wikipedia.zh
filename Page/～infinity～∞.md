@@ -13,13 +13,13 @@ Records販售](https://zh.wikipedia.org/wiki/King_Records "wikilink")（KIDA-161
     reason](../Page/Give_a_reason.md "wikilink")》則成為第3名（*詳細說明請參照[Give a
     reason](../Page/Give_a_reason.md "wikilink")*）。並且第1名《Give a
     reason》、第2名《[Don't be
-    discouraged](https://zh.wikipedia.org/wiki/Don't_be_discouraged "wikilink")》、第3名《[Just
+    discouraged](../Page/Don't_be_discouraged.md "wikilink")》、第3名《[Just
     be
-    conscious](https://zh.wikipedia.org/wiki/Just_be_conscious "wikilink")》皆與《[秀逗魔導士](../Page/秀逗魔導士_\(動畫\).md "wikilink")》相關連，作為《秀逗魔導士》以外的商業搭配歌曲得到了第1名。不過，此次合作作品《失落的宇宙》的原作者－[神坂一正是](../Page/神坂一.md "wikilink")《秀逗魔導士》的作者。
+    conscious](../Page/Just_be_conscious.md "wikilink")》皆與《[秀逗魔導士](../Page/秀逗魔導士_\(動畫\).md "wikilink")》相關連，作為《秀逗魔導士》以外的商業搭配歌曲得到了第1名。不過，此次合作作品《失落的宇宙》的原作者－[神坂一正是](../Page/神坂一.md "wikilink")《秀逗魔導士》的作者。
   - 動畫歌曲關聯排行榜《SOMETHING DREAMS Multimedia
     Countdown》中初登場時得到第3名，登場2週後3週連續獲得第1名，登場第5週時被一直位居第2名的[TWO-MIX以](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")「[BEAT
     OF
-    DESTINY](https://zh.wikipedia.org/wiki/BEAT_OF_DESTINY "wikilink")」奪走寶座。不過，登場第7週時返回第1名之後，在「raging
+    DESTINY](../Page/BEAT_OF_DESTINY.md "wikilink")」奪走寶座。不過，登場第7週時返回第1名之後，在「raging
     waves」進榜前都一直維持在前3名。
 
 ## 内容

@@ -5,7 +5,7 @@ Format，简称**WOFF**）是一種網頁所採用的[字體格式標準](https:
 
 ## 规格
 
-WOFF本质上是包含了基于[SFNT的字体](https://zh.wikipedia.org/wiki/SFNT "wikilink")（如[TrueType](../Page/TrueType.md "wikilink")、[OpenType或其他开放字体格式](../Page/OpenType.md "wikilink")），且这些字体均经过WOFF的编码工具压缩，以便嵌入网页中。\[9\]WOFF
+WOFF本质上是包含了基于[SFNT的字体](../Page/SFNT.md "wikilink")（如[TrueType](../Page/TrueType.md "wikilink")、[OpenType或其他开放字体格式](../Page/OpenType.md "wikilink")），且这些字体均经过WOFF的编码工具压缩，以便嵌入网页中。\[9\]WOFF
 1.0使用[zlib压缩](https://zh.wikipedia.org/wiki/zlib "wikilink")，\[10\]文件大小一般比TTF小40%。\[11\]而WOFF
 2.0使用[Brotli压缩](../Page/Brotli.md "wikilink")，文件大小比上一版小30%。
 

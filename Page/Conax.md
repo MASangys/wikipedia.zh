@@ -4,11 +4,11 @@ access)的公司。該公司總部位於[挪威首都](../Page/挪威.md "wikili
 
 ## 簡介
 
-在1986年，Conax原本是研究小組名称，由[挪威電信成立](https://zh.wikipedia.org/wiki/挪威電信 "wikilink")，隸屬於[挪威電信研究及發展部門](https://zh.wikipedia.org/wiki/挪威電信 "wikilink")。自1992年開始，該部門的技術，包括世界上第一張[付費電視](https://zh.wikipedia.org/wiki/付費電視 "wikilink")[智慧卡](../Page/智慧卡.md "wikilink")，開始投入大規模營運。
-1994年，該小組正式独立成一間公司，現為[挪威電信的子公司](https://zh.wikipedia.org/wiki/挪威電信 "wikilink")。
+在1986年，Conax原本是研究小組名称，由[挪威電信成立](../Page/挪威電信.md "wikilink")，隸屬於[挪威電信研究及發展部門](../Page/挪威電信.md "wikilink")。自1992年開始，該部門的技術，包括世界上第一張[付費電視](https://zh.wikipedia.org/wiki/付費電視 "wikilink")[智慧卡](../Page/智慧卡.md "wikilink")，開始投入大規模營運。
+1994年，該小組正式独立成一間公司，現為[挪威電信的子公司](../Page/挪威電信.md "wikilink")。
 
-現今，[挪威電信擁有Conax公司](https://zh.wikipedia.org/wiki/挪威電信 "wikilink")90%股權,而另外10%
-由Telenor Venture II ASA擁有。
+現今，[挪威電信擁有Conax公司](../Page/挪威電信.md "wikilink")90%股權,而另外10% 由Telenor
+Venture II ASA擁有。
 
 Open and Interoperable by sticking to a non-proprietary and open
 solution，Conax公司兼承科技技術有『自由選擇』(freedom of choice)的概念，這包括：

@@ -18,7 +18,7 @@ Chalvon-Demersay）等人出席了签字仪式\[1\]。该型机车被定型为ND
 | image2 =
 [ND4型14号机车（1989年1月）](http://www.flickr.com/photos/42309484@N03/4789298001/)
 }}
-1973年11月，ND4型机车运抵中国，50台机车全部配属[北京铁路局丰台机务段](https://zh.wikipedia.org/wiki/北京铁路局 "wikilink")，开始了丰台机务段干线牵引机车内燃化的进程\[2\]。从1970年代中至1980年代初，ND4型机车曾经是[京原铁路](../Page/京原铁路.md "wikilink")[丰台西至](../Page/丰台西站.md "wikilink")[灵丘](https://zh.wikipedia.org/wiki/灵丘站 "wikilink")、[京山铁路丰台西至](../Page/京山铁路.md "wikilink")[南仓](../Page/南仓站_\(天津市\).md "wikilink")、[丰沙铁路丰台西至](../Page/丰沙铁路.md "wikilink")[张家口区段的主力货运机车](../Page/张家口站.md "wikilink")，主要担当“晋煤外运”煤炭重载列车的牵引任务。至1984年后，丰台机务段大量配属从美国进口的ND5型柴油机车并投入丰沙、京原铁路运用，大部分ND4型机车改为投入京山铁路运用。
+1973年11月，ND4型机车运抵中国，50台机车全部配属[北京铁路局丰台机务段](https://zh.wikipedia.org/wiki/北京铁路局 "wikilink")，开始了丰台机务段干线牵引机车内燃化的进程\[2\]。从1970年代中至1980年代初，ND4型机车曾经是[京原铁路](../Page/京原铁路.md "wikilink")[丰台西至](../Page/丰台西站.md "wikilink")[灵丘](../Page/灵丘站.md "wikilink")、[京山铁路丰台西至](../Page/京山铁路.md "wikilink")[南仓](../Page/南仓站_\(天津市\).md "wikilink")、[丰沙铁路丰台西至](../Page/丰沙铁路.md "wikilink")[张家口区段的主力货运机车](../Page/张家口站.md "wikilink")，主要担当“晋煤外运”煤炭重载列车的牵引任务。至1984年后，丰台机务段大量配属从美国进口的ND5型柴油机车并投入丰沙、京原铁路运用，大部分ND4型机车改为投入京山铁路运用。
 
 随着机车运用时间日渐增长，由于种种原因，导致ND4型机车始终无法获得全面性维修、机车质量日益下降，机车老化问题严重\[3\]。至1980年代末，每台ND4型机车已经平均走行了240～250万公里，主要质量问题和事故包括柴油机机体裂纹、活塞破损爆缸、曲轴颈烧损、牵引电机接地、电线[短路和油管破裂导致机车火灾等](../Page/短路.md "wikilink")\[4\]。由于ND4型机车为进口机车，机务段和机车检修厂并不具备整车大修的能力，因此ND4型机车仅能由丰台机务段进行有限度的段修工作。为了维持机车基本质量，铁道部决定从1987年开始，对ND4型机车逐台投资100万元人民币实行简易厂修，增加了车体、转向架、电机的检修范围。然而，由于简易厂修能力有限，对一些威胁行车安全的质量问题仍然束手无策，而国产化部件往往价格偏高或质量不达标，因此机务段实际上对ND4型机车的质量并没有太大把握\[5\]。
 
@@ -51,7 +51,7 @@ ND4型机车采用承载式[焊接钢结构车体](../Page/焊接.md "wikilink")
 
 ND4型机车装用一台由[阿尔萨斯机械制造公司](../Page/阿尔萨斯机械制造公司.md "wikilink")（SACM）设计制造、与法国国铁CC
 72000型机车相同的AGO V16
-ESHR型[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，属于AGO大缸径柴油机系列。该型柴油机为16[气缸](https://zh.wikipedia.org/wiki/气缸 "wikilink")、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、[废气涡轮增压的直喷式](https://zh.wikipedia.org/wiki/涡轮增压 "wikilink")[V型高速柴油机](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")，在50°V形夹角上方布置两套增压器和[中冷器](https://zh.wikipedia.org/wiki/中冷器 "wikilink")。[气缸直径为](https://zh.wikipedia.org/wiki/气缸 "wikilink")240毫米，[活塞行程为](https://zh.wikipedia.org/wiki/活塞 "wikilink")220毫米，标定转速为每分钟1350转，使用转速范围为每分钟550～1250转。柴油机标定功率为2940千瓦，装车功率为2680千瓦\[12\]。
+ESHR型[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，属于AGO大缸径柴油机系列。该型柴油机为16[气缸](https://zh.wikipedia.org/wiki/气缸 "wikilink")、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、[废气涡轮增压的直喷式](https://zh.wikipedia.org/wiki/涡轮增压 "wikilink")[V型高速柴油机](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")，在50°V形夹角上方布置两套增压器和[中冷器](../Page/中冷器.md "wikilink")。[气缸直径为](https://zh.wikipedia.org/wiki/气缸 "wikilink")240毫米，[活塞行程为](https://zh.wikipedia.org/wiki/活塞 "wikilink")220毫米，标定转速为每分钟1350转，使用转速范围为每分钟550～1250转。柴油机标定功率为2940千瓦，装车功率为2680千瓦\[12\]。
 
 ND4型机车也是中国至今惟一一种采用自动延时电控风启动的柴油机车，机车起动时由起动风缸和起动风泵提供[压缩空气](https://zh.wikipedia.org/wiki/压缩空气 "wikilink")，高压空气经空气分配器和启动阀按柴油机点火顺序流入气缸并推动活塞，当[曲轴达到稳定转速后停止供气](https://zh.wikipedia.org/wiki/曲轴 "wikilink")，同时[喷油泵供油点火](https://zh.wikipedia.org/wiki/喷油泵 "wikilink")，从而驱动柴油机，整个过程均为自动控制，司机只要按下“启机”按钮，可以自动完成上述动作启动柴油机\[13\]。
 

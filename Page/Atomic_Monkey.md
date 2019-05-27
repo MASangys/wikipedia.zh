@@ -115,7 +115,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
 <!-- end list -->
 
   - [愛河里花子](../Page/愛河里花子.md "wikilink")
-  - [藍原琴美](https://zh.wikipedia.org/wiki/藍原琴美 "wikilink")
+  - [藍原琴美](../Page/藍原琴美.md "wikilink")
   - [青木瑠璃子](../Page/青木瑠璃子.md "wikilink")
   - 井田愛里紗
   - 稻本千尋
@@ -143,7 +143,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
 
   - 木舩幸步
 
-  - [小市真琴](https://zh.wikipedia.org/wiki/小市真琴 "wikilink")
+  - [小市真琴](../Page/小市真琴.md "wikilink")
 
 <!-- end list -->
 
@@ -169,10 +169,10 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
 
 <!-- end list -->
 
-  - [長澤美樹](https://zh.wikipedia.org/wiki/長澤美樹 "wikilink")
+  - [長澤美樹](../Page/長澤美樹.md "wikilink")
 
   -
-  - [奈波果林](https://zh.wikipedia.org/wiki/奈波果林 "wikilink")
+  - [奈波果林](../Page/奈波果林.md "wikilink")
 
   - [西田望見](../Page/西田望見.md "wikilink")
 
@@ -187,7 +187,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
   - [潘惠美](../Page/潘惠美.md "wikilink")
 
   -
-  - [星河舞](https://zh.wikipedia.org/wiki/星河舞 "wikilink")
+  - [星河舞](../Page/星河舞.md "wikilink")
 
 <!-- end list -->
 
@@ -217,7 +217,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
 
 ### 男性
 
-  - （舊藝名：，現所屬：[悟空](https://zh.wikipedia.org/wiki/悟空_\(聲優事務所\) "wikilink")）
+  - （舊藝名：，現所屬：[悟空](../Page/悟空_\(聲優事務所\).md "wikilink")）
 
   - [小野友樹](../Page/小野友樹.md "wikilink")
 
@@ -261,7 +261,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
 
   - （現所屬：）
 
-  - [吉川由彌](https://zh.wikipedia.org/wiki/吉川由彌 "wikilink")（引退）
+  - [吉川由彌](../Page/吉川由彌.md "wikilink")（引退）
 
 ## 音樂事業部
 

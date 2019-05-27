@@ -141,7 +141,7 @@ ZBD-04的改进型（称为“502改”），最初该改型步战车照片披�
 <tr class="even">
 <td><p>武装</p></td>
 <td><p><small>100毫米口徑低壓線膛炮<br />
-<a href="https://zh.wikipedia.org/wiki/希普諾夫2A72機炮" title="wikilink">ZPT-99</a> 30毫米口径<a href="https://zh.wikipedia.org/wiki/机炮" title="wikilink">机炮</a><br />
+<a href="../Page/希普諾夫2A72機炮.md" title="wikilink">ZPT-99</a> 30毫米口径<a href="https://zh.wikipedia.org/wiki/机炮" title="wikilink">机炮</a><br />
 7.6毫米口徑同軸機槍</small></p></td>
 <td><p><small><a href="../Page/M242巨蝮式鏈炮.md" title="wikilink">M242</a> 25毫米機炮<br />
 <a href="../Page/BGM-71拖式飛彈.md" title="wikilink">陶式（TOW）反坦克飛彈</a><br />
@@ -152,14 +152,14 @@ Bionix II：<a href="../Page/Mk_44巨蝮二式鏈炮.md" title="wikilink">Mk 44<
 <td><p><small><a href="../Page/歐瑞康GDF雙管高射炮.md" title="wikilink">90口徑35mm機砲KDE</a><br />
 <a href="../Page/79式反載具飛彈.md" title="wikilink">79式反載具飛彈</a><br />
 <a href="../Page/住友74式7.62毫米車載機槍.md" title="wikilink">74式車載7.62毫米機槍</a></small></p></td>
-<td><p><small><a href="https://zh.wikipedia.org/wiki/2A70線膛炮" title="wikilink">2A70</a> 100毫米线膛炮（<a href="https://zh.wikipedia.org/wiki/9K116指節套環反坦克導彈" title="wikilink">AT-10反坦克飛彈</a>）<br />
+<td><p><small><a href="https://zh.wikipedia.org/wiki/2A70線膛炮" title="wikilink">2A70</a> 100毫米线膛炮（<a href="../Page/9K116指節套環反坦克導彈.md" title="wikilink">AT-10反坦克飛彈</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/希普诺夫2A72机炮" title="wikilink">2A72 30毫米机炮</a></small></p></td>
 <td><p><small><a href="../Page/希普諾夫2A42機炮.md" title="wikilink">2A42 30毫米機炮</a><br />
 <a href="../Page/PK通用機槍.md" title="wikilink">PKT 7.62毫米同軸機槍</a><br />
 <a href="../Page/9M133短號反坦克导弹.md" title="wikilink">9M133短號反坦克导弹</a><br />
 Afghanit主動防禦系統</small></p></td>
-<td><p><small><a href="https://zh.wikipedia.org/wiki/2A70線膛炮" title="wikilink">2A70</a> 100毫米线膛炮（<a href="https://zh.wikipedia.org/wiki/9K116指節套環反坦克導彈" title="wikilink">AT-10反坦克飛彈</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/希普諾夫2A72機炮" title="wikilink">2A72 30毫米机炮</a><br />
+<td><p><small><a href="https://zh.wikipedia.org/wiki/2A70線膛炮" title="wikilink">2A70</a> 100毫米线膛炮（<a href="../Page/9K116指節套環反坦克導彈.md" title="wikilink">AT-10反坦克飛彈</a>）<br />
+<a href="../Page/希普諾夫2A72機炮.md" title="wikilink">2A72 30毫米机炮</a><br />
 7.62毫米并列机枪<br />
 7.62毫米航向机枪<br />
 5.45毫米车体前侧机枪<br />

@@ -414,7 +414,7 @@ episode:0 因果論 '''》。
 <td><p>幻の像</p></td>
 <td><p>幻之像</p></td>
 <td><p>木村隆一</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/菅野宏紀" title="wikilink">菅野宏紀</a>、武本大介</p></td>
+<td><p><a href="../Page/菅野宏紀.md" title="wikilink">菅野宏紀</a>、武本大介</p></td>
 <td><p>坂口安吾《明治開化 安吾捕物帖 "幻の塔"》</p></td>
 <td></td>
 <td></td>
@@ -477,7 +477,7 @@ episode:0 因果論 '''》。
 <td><p>最終話</p></td>
 <td><p>私はただ探している</p></td>
 <td><p>我唯有尋找</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/長崎健司" title="wikilink">長崎健司</a><br />
+<td><p><a href="../Page/長崎健司.md" title="wikilink">長崎健司</a><br />
 水島精二</p></td>
 <td><p>清水久敏</p></td>
 <td><p>出雲誉明、長谷部敦志<br />

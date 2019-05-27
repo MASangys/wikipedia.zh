@@ -126,7 +126,7 @@ A的第3台剧场公演。2011年，AKB48的姊妹團體[NMB48亦使用了](../P
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/為了誰_-What_can_I_do_for_someone?-" title="wikilink">為了誰 -What can I do for someone?-</a></strong></p></td>
+<td><p><strong><a href="../Page/為了誰_-What_can_I_do_for_someone?-.md" title="wikilink">為了誰 -What can I do for someone?-</a></strong></p></td>
 <td></td>
 <td><p>井上義正</p></td>
 <td></td>
@@ -521,7 +521,7 @@ A的第3台剧场公演。2011年，AKB48的姊妹團體[NMB48亦使用了](../P
   - 《生日夜》（[AKB48
     1st專輯](../Page/SET_LIST～Greatest_Songs_2006-2007～.md "wikilink")）
   - 《為了誰 〜What can I do for someone?〜》（[AKB48
-    配信限定慈善歌](https://zh.wikipedia.org/wiki/為了誰_-What_can_I_do_for_someone?- "wikilink")）
+    配信限定慈善歌](../Page/為了誰_-What_can_I_do_for_someone?-.md "wikilink")）
   - 《NMB48》（[NMB48
     1st專輯](https://zh.wikipedia.org/wiki/尖端頂點之上！ "wikilink")）
 

@@ -284,7 +284,7 @@
 <td><p>Ikawasakura-Eki</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/伊賀和志車站" title="wikilink">伊賀和志車站</a></p></td>
+<td><p><a href="../Page/伊賀和志車站.md" title="wikilink">伊賀和志車站</a></p></td>
 <td></td>
 <td><p>Ikawashi-Eki</p></td>
 </tr>
@@ -588,32 +588,32 @@ Ikenoura-Shiisaido-Eki</p></td>
 <td><p>Ishigamimae-Eki</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/石狩金澤車站" title="wikilink">石狩金澤車站</a></p></td>
+<td><p><a href="../Page/石狩金澤車站.md" title="wikilink">石狩金澤車站</a></p></td>
 <td></td>
 <td><p>Ishikari Kanazawa-Eki</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/石狩月形車站" title="wikilink">石狩月形車站</a></p></td>
+<td><p><a href="../Page/石狩月形車站.md" title="wikilink">石狩月形車站</a></p></td>
 <td></td>
 <td><p>Ishikari Tsukigata-Eki</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/石狩當別車站" title="wikilink">石狩當別車站</a></p></td>
+<td><p><a href="../Page/石狩當別車站.md" title="wikilink">石狩當別車站</a></p></td>
 <td></td>
 <td><p>Ishikari Tōbetsu-Eki</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/石狩沼田車站" title="wikilink">石狩沼田車站</a></p></td>
+<td><p><a href="../Page/石狩沼田車站.md" title="wikilink">石狩沼田車站</a></p></td>
 <td></td>
 <td><p>Ishikari Numata-Eki</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/石狩沼田車站" title="wikilink">石狩沼田車站</a></p></td>
+<td><p><a href="../Page/石狩沼田車站.md" title="wikilink">石狩沼田車站</a></p></td>
 <td></td>
 <td><p>Ishikari Numata-Eki</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/石狩太美車站" title="wikilink">石狩太美車站</a></p></td>
+<td><p><a href="../Page/石狩太美車站.md" title="wikilink">石狩太美車站</a></p></td>
 <td></td>
 <td><p>Ishikari Futomi-Eki</p></td>
 </tr>

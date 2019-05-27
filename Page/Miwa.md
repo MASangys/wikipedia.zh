@@ -62,7 +62,7 @@ concert tour 2013 "Delight"』。8月4日預定出演「ROCK IN JAPAN FESTIVAL
 
 11月12日發行第15張單曲「希望の環（WA）/月食 〜winter moon〜」。
 
-12月31日在[第65回NHK紅白歌合戰中第二次登場演出](https://zh.wikipedia.org/wiki/第65回NHK紅白歌合戰 "wikilink")，演唱曲目為《Faith》。
+12月31日在[第65回NHK紅白歌合戰中第二次登場演出](../Page/第65回NHK紅白歌合戰.md "wikilink")，演唱曲目為《Faith》。
 
 2015年1月28日發行第16張單曲「fighting-φ-girls」。
 
@@ -71,7 +71,7 @@ live at 武道館 〜acoguissimo〜』。採用置中360°的旋轉舞台，整�
 guitar(無任何伴奏、僅以木吉他自彈自唱)的形式演出。其中『片想い』更為清唱。兩天皆湧進1萬2千名觀眾滿場。3月底到6月，举行了《miwa
 spring concert 2015 "ONENESS"》专题巡演
 
-2月25日發行第17張單曲「360°」，作為動畫電影[大雄之宇宙英雄記之主題曲](https://zh.wikipedia.org/wiki/大雄之宇宙英雄記 "wikilink")。
+2月25日發行第17張單曲「360°」，作為動畫電影[大雄之宇宙英雄記之主題曲](../Page/大雄之宇宙英雄記.md "wikilink")。
 
 4月，担任NHK-FM的《MUSE
 NOTE》栏目2015年度主持人。8日，第四张个人专辑《ONENESS》发售。6月2日，在TUBE新单《SUMMER
@@ -96,7 +96,7 @@ ballad collection ～graduation～」正式发售，同时举行新一轮的专�
 
 2017年2月22日發行第5張專輯『SPLASH☆WORLD』。
 
-5月24日發行第22張單曲「シャイニー」，作為日本地區[爽健美茶的廣告曲](https://zh.wikipedia.org/wiki/爽健美茶 "wikilink")。
+5月24日發行第22張單曲「シャイニー」，作為日本地區[爽健美茶的廣告曲](../Page/爽健美茶.md "wikilink")。
 
 ## 作品
 

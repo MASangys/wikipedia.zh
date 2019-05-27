@@ -597,7 +597,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/瑪麗亞·凱莉" title="wikilink">瑪麗亞·凱莉</a></p></td>
+<td><p><a href="../Page/瑪麗亞·凱莉.md" title="wikilink">瑪麗亞·凱莉</a></p></td>
 <td><p>1</p></td>
 <td><p>[123]</p></td>
 <td></td>

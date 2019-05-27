@@ -35,14 +35,14 @@ SIG SG
 SIG SG
 553系列在[機匣及](https://zh.wikipedia.org/wiki/機匣 "wikilink")[護木四周設有合共](https://zh.wikipedia.org/wiki/護木 "wikilink")5條[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，其中4條在前護木上包覆著[槍管](../Page/槍管.md "wikilink")。不過上機匣與護木並非採用一體設計，而是兩個不同部件。護木可被改為不帶MIL-STD-1913戰術導軌版本。
 
-使用者可以用以安裝對應導軌的日間／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。機匣頂部及護木上方都具有戰術導軌時可以串連式安裝光學瞄準具，前後串連式安裝配置模式可以擴大瞄準具附件的加裝應用模式。而前護木兩側及底部則以便安裝對應導軌的[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[垂直前握把](../Page/輔助握把.md "wikilink")、[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[40毫米榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")（例如[M203](../Page/M203榴彈發射器.md "wikilink")，亦有其專用的[SIG
+使用者可以用以安裝對應導軌的日間／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。機匣頂部及護木上方都具有戰術導軌時可以串連式安裝光學瞄準具，前後串連式安裝配置模式可以擴大瞄準具附件的加裝應用模式。而前護木兩側及底部則以便安裝對應導軌的[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[垂直前握把](../Page/輔助握把.md "wikilink")、[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[40毫米榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")（例如[M203](../Page/M203榴彈發射器.md "wikilink")，亦有其專用的[SIG
 GL
 5340](../Page/SIG_GL_5040附加型榴彈發射器.md "wikilink")）。另外，前環由固定式改為安裝在戰術導軌上的可拆卸式槍背帶環。
 
 ### 長槍管型
 
 SIG SG 553的加長槍管版本被稱為**SIG SG 553
-LB**，裝上了一根能夠發射[22毫米](https://zh.wikipedia.org/wiki/22毫米槍榴彈 "wikilink")[槍榴彈和裝上](../Page/步槍用榴彈.md "wikilink")[刺刀的](../Page/刺刀.md "wikilink")347毫米（13.66英吋）的長槍管。亦可以向原廠選擇在SG
+LB**，裝上了一根能夠發射[22毫米](../Page/22毫米槍榴彈.md "wikilink")[槍榴彈和裝上](../Page/步槍用榴彈.md "wikilink")[刺刀的](../Page/刺刀.md "wikilink")347毫米（13.66英吋）的長槍管。亦可以向原廠選擇在SG
 553系列步槍的[機匣和](https://zh.wikipedia.org/wiki/機匣 "wikilink")[護木上整合](https://zh.wikipedia.org/wiki/護木 "wikilink")[MIL-STD-1913戰術導軌和可調節](../Page/皮卡汀尼導軌.md "wikilink")[槍托](../Page/槍托.md "wikilink")。\[1\]
 
 ## 衍生型
@@ -53,7 +53,7 @@ LB**，裝上了一根能夠發射[22毫米](https://zh.wikipedia.org/wiki/22毫
 
 ### SG 553 LB
 
-長槍管型，為發射[22毫米槍榴彈和裝上刺刀設計](https://zh.wikipedia.org/wiki/22毫米槍榴彈 "wikilink")。
+長槍管型，為發射[22毫米槍榴彈和裝上刺刀設計](../Page/22毫米槍榴彈.md "wikilink")。
 
 ### SG 553 P（P553）
 
@@ -222,7 +222,7 @@ SG 553 SB</p></td>
     3）：型號為SG 553
     SB，命名為「SG553」，發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，30+1發[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為124發（聯機模式），最高攜彈量為372發（單人模式）和217發（聯機模式）。單人故事模式之中被[法国国家宪兵干預組和](../Page/國家憲兵干預組.md "wikilink")[美国海军陆战队第一侦察营](../Page/美国海军陆战队.md "wikilink")“米斯菲1-3”（Misfit
     1-3）五人战术小队成員亨利·布列克上士（SSgt. Henry "Black"
-    Blackburn）所使用；多人聯機模式時為「工程兵」（Engineer）的解鎖武器包武器之一，於合作故事模式之中達到120,000分時解鎖（以前為378,000分），被歸類為[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、、[消音器](../Page/抑制器.md "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[重型槍管](../Page/槍管.md "wikilink")、[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[步槍瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")（放大6倍）、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、、[內紅點瞄準鏡](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[PKS-07](https://zh.wikipedia.org/wiki/PKS-07光學瞄準鏡 "wikilink")（放大7倍）、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）。
+    Blackburn）所使用；多人聯機模式時為「工程兵」（Engineer）的解鎖武器包武器之一，於合作故事模式之中達到120,000分時解鎖（以前為378,000分），被歸類為[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、、[消音器](../Page/抑制器.md "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[重型槍管](../Page/槍管.md "wikilink")、[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[步槍瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")（放大6倍）、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、、[內紅點瞄準鏡](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[PKS-07](https://zh.wikipedia.org/wiki/PKS-07光學瞄準鏡 "wikilink")（放大7倍）、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）。
   - 2012年—《[-{zh-hans:孤岛惊魂3; zh-hant:極地戰嚎3;
     zh-tw:極地戰嚎3;}-](../Page/孤岛惊魂3.md "wikilink")》（Far
     Cry 3）：型號為SG 553
@@ -231,7 +231,7 @@ SG 553 SB</p></td>
     zh-tw:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：型號為SG 553
     SB，命名為「SG553」（中文版則命名為「SG553卡賓步槍」），發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，30+1發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為124發（單人模式）。單人故事模式之中於「上海突圍」（Shanghai）戰役達到銀牌時解鎖並且可被[美国海军陆战队精英小隊](../Page/美国海军陆战队.md "wikilink")「墓碑」隊長丹尼爾·雷克（Daniel
-    Recker）所使用；多人聯機模式時為所有兵種的解鎖武器包武器之一，於達到11,000點卡賓槍得分時才能解鎖，被歸類為[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直角握把](../Page/直角前握把.md "wikilink")、[重型槍管](../Page/槍管.md "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[手電筒](../Page/手電筒.md "wikilink")、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[制動器以及七件戰鬥包附件](../Page/砲口制動器.md "wikilink")（稜鏡（放大3.4倍）、JGM-4（放大4倍）、土狼、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、三光束雷射、HD-33、FLIR（紅外線放大2倍）、[R2消音器當中之七](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")）。
+    Recker）所使用；多人聯機模式時為所有兵種的解鎖武器包武器之一，於達到11,000點卡賓槍得分時才能解鎖，被歸類為[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直角握把](../Page/直角前握把.md "wikilink")、[重型槍管](../Page/槍管.md "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[手電筒](../Page/手電筒.md "wikilink")、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[制動器以及七件戰鬥包附件](../Page/砲口制動器.md "wikilink")（稜鏡（放大3.4倍）、JGM-4（放大4倍）、土狼、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射、HD-33、FLIR（紅外線放大2倍）、[R2消音器當中之七](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")）。
   - 2014年—《[-{zh-hans:孤岛惊魂4; zh-hant:極地戰嚎4;
     zh-tw:極地戰嚎4;}-](https://zh.wikipedia.org/wiki/極地戰嚎4 "wikilink")》（Far
     Cry 4）：型號為SG 553-1

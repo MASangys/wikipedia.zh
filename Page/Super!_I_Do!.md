@@ -11,15 +11,14 @@ DO\!**》是[台視](https://zh.wikipedia.org/wiki/台灣電視公司 "wikilink"
 3.  踮起腳尖愛 ([洪佩瑜](../Page/洪佩瑜.md "wikilink"))
     （民視《[我可能不會愛你](../Page/我可能不會愛你.md "wikilink")》插曲）
 4.  讓我繼續愛你 ([杜牧](../Page/杜牧_\(歌手\).md "wikilink"))
-5.  對時機 ([謝宜君](https://zh.wikipedia.org/wiki/謝宜君 "wikilink")、
+5.  對時機 ([謝宜君](../Page/謝宜君.md "wikilink")、
     [趙太祥](https://zh.wikipedia.org/wiki/趙太祥 "wikilink"))
-6.  Party Party (OT: Red Light On)
-    ([榮忠豪](https://zh.wikipedia.org/wiki/榮忠豪 "wikilink"))
+6.  Party Party (OT: Red Light On) ([榮忠豪](../Page/榮忠豪.md "wikilink"))
 7.  功夫熊貓
     ([李寶龍](../Page/李寶龍.md "wikilink")、[王瀞韓](https://zh.wikipedia.org/wiki/王瀞韓 "wikilink"))
 8.  夜行動物 ([蔡東儒](https://zh.wikipedia.org/wiki/蔡東儒 "wikilink"))
 9.  又發現了愛
-    ([蔡東儒](https://zh.wikipedia.org/wiki/蔡東儒 "wikilink")、[吳海文](../Page/吳海文.md "wikilink")、[李寶龍](../Page/李寶龍.md "wikilink")、[榮忠豪](https://zh.wikipedia.org/wiki/榮忠豪 "wikilink")、[翁詩耀](https://zh.wikipedia.org/wiki/翁詩耀 "wikilink"))
+    ([蔡東儒](https://zh.wikipedia.org/wiki/蔡東儒 "wikilink")、[吳海文](../Page/吳海文.md "wikilink")、[李寶龍](../Page/李寶龍.md "wikilink")、[榮忠豪](../Page/榮忠豪.md "wikilink")、[翁詩耀](https://zh.wikipedia.org/wiki/翁詩耀 "wikilink"))
 10. 當我躺在你懷中 ([翁詩耀](https://zh.wikipedia.org/wiki/翁詩耀 "wikilink"))
 
 ## MV

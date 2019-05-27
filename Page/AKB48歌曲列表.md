@@ -445,7 +445,7 @@ JAPAN</a><br />
 <tr class="odd">
 <td><p>34</p></td>
 <td><p>2013年12月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢、我兀自持續想了好多天最後有點難為情地得到了一個結論" title="wikilink">倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢、我兀自持續想了好多天最後有點難為情地得到了一個結論</a></p></td>
+<td><p><a href="../Page/倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢、我兀自持續想了好多天最後有點難為情地得到了一個結論.md" title="wikilink">倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢、我兀自持續想了好多天最後有點難為情地得到了一個結論</a></p></td>
 <td><p>|1,086,491</p></td>
 <td><p>22</p></td>
 <td><p>[74][75]</p></td>
@@ -478,7 +478,7 @@ JAPAN</a><br />
 <tr class="even">
 <td><p>37</p></td>
 <td><p>2014年8月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/心意告示牌" title="wikilink">心意告示牌</a></p></td>
+<td><p><a href="../Page/心意告示牌.md" title="wikilink">心意告示牌</a></p></td>
 <td><p>1,061,976</p></td>
 <td><p>26</p></td>
 <td><p>[80][81]</p></td>
@@ -577,7 +577,7 @@ JAPAN</a><br />
 <tr class="odd">
 <td><p>46</p></td>
 <td><p>2016年11月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/High_Tension" title="wikilink">High Tension</a></p></td>
+<td><p><a href="../Page/High_Tension.md" title="wikilink">High Tension</a></p></td>
 <td><p>1,222,461</p></td>
 <td><p>35</p></td>
 <td><p>1,469,811</p></td>
@@ -588,7 +588,7 @@ JAPAN</a><br />
 <tr class="even">
 <td><p>47</p></td>
 <td><p>2017年3月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Shoot_Sign" title="wikilink">Shoot Sign</a></p></td>
+<td><p><a href="../Page/Shoot_Sign.md" title="wikilink">Shoot Sign</a></p></td>
 <td><p>1,086,412</p></td>
 <td><p>23</p></td>
 <td><p>1,353,450</p></td>
@@ -599,7 +599,7 @@ JAPAN</a><br />
 <tr class="odd">
 <td><p>48</p></td>
 <td><p>2017年5月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/空有願望" title="wikilink">空有願望</a></p></td>
+<td><p><a href="../Page/空有願望.md" title="wikilink">空有願望</a></p></td>
 <td><p>1,392,231</p></td>
 <td><p>18</p></td>
 <td><p>2,649,234</p></td>
@@ -610,7 +610,7 @@ JAPAN</a><br />
 <tr class="even">
 <td><p>49</p></td>
 <td><p>2017年8月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/＃就是喜歡你" title="wikilink">#就是喜歡你</a></p></td>
+<td><p><a href="../Page/＃就是喜歡你.md" title="wikilink">#就是喜歡你</a></p></td>
 <td><p>1,129,165</p></td>
 <td><p>25</p></td>
 <td><p>1,493,543</p></td>
@@ -632,7 +632,7 @@ JAPAN</a><br />
 <tr class="even">
 <td><p>51</p></td>
 <td><p>2018年3月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ja-Ba-Ja" title="wikilink">Ja-Ba-Ja</a></p></td>
+<td><p><a href="../Page/Ja-Ba-Ja.md" title="wikilink">Ja-Ba-Ja</a></p></td>
 <td><p>1,172,399</p></td>
 <td><p>22</p></td>
 <td><p>1,260,919</p></td>
@@ -643,7 +643,7 @@ JAPAN</a><br />
 <tr class="odd">
 <td><p>52</p></td>
 <td><p>2018年5月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Teacher_Teacher" title="wikilink">Teacher Teacher</a></p></td>
+<td><p><a href="../Page/Teacher_Teacher.md" title="wikilink">Teacher Teacher</a></p></td>
 <td><p>1,820,963</p></td>
 <td><p>21</p></td>
 <td><p>2,922,460</p></td>
@@ -654,7 +654,7 @@ JAPAN</a><br />
 <tr class="even">
 <td><p>53</p></td>
 <td><p>2018年9月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/感傷列車" title="wikilink">感傷列車</a></p></td>
+<td><p><a href="../Page/感傷列車.md" title="wikilink">感傷列車</a></p></td>
 <td><p>1,476,462</p></td>
 <td><p>20</p></td>
 <td><p>1,639,898</p></td>
@@ -665,7 +665,7 @@ JAPAN</a><br />
 <tr class="odd">
 <td><p>54</p></td>
 <td><p>2018年11月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NO_WAY_MAN" title="wikilink">NO WAY MAN</a></p></td>
+<td><p><a href="../Page/NO_WAY_MAN.md" title="wikilink">NO WAY MAN</a></p></td>
 <td><p>1,229,081</p></td>
 <td><p>20</p></td>
 <td><p>1,374,101</p></td>
@@ -676,7 +676,7 @@ JAPAN</a><br />
 <tr class="even">
 <td><p>55</p></td>
 <td><p>2019年3月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/回憶上心頭DAYS" title="wikilink">回憶上心頭DAYS</a></p></td>
+<td><p><a href="../Page/回憶上心頭DAYS.md" title="wikilink">回憶上心頭DAYS</a></p></td>
 <td><p>1,279,845</p></td>
 <td><p>5</p></td>
 <td><p>1,422,727</p></td>
@@ -1222,7 +1222,7 @@ JAPAN</a><br />
 <tr class="odd">
 <td><p>2011年4月1日</p></td>
 <td><p>AKB48</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/為了誰_-What_can_I_do_for_someone?-" title="wikilink">為了誰 -What can I do for someone?-</a></p></td>
+<td><p><a href="../Page/為了誰_-What_can_I_do_for_someone?-.md" title="wikilink">為了誰 -What can I do for someone?-</a></p></td>
 <td><p><a href="../Page/AKS.md" title="wikilink">AKS</a></p></td>
 <td><p>[270]</p></td>
 <td></td>
@@ -1271,7 +1271,7 @@ JAPAN</a><br />
 <td><p>2012年10月30日</p></td>
 <td><p>AKB48</p></td>
 <td><p><a href="../Page/Sugar_Rush_(AKB48歌曲).md" title="wikilink">Sugar Rush</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/華特迪士尼唱片" title="wikilink">華特迪士尼唱片</a></p></td>
+<td><p><a href="../Page/華特迪士尼唱片.md" title="wikilink">華特迪士尼唱片</a></p></td>
 <td><p>美國<a href="https://zh.wikipedia.org/wiki/動畫電影" title="wikilink">動畫電影</a>《<a href="https://zh.wikipedia.org/wiki/無敵破壞王" title="wikilink">無敵破壞王</a>》片尾曲，收錄於該片的<a href="https://zh.wikipedia.org/wiki/電影原聲帶" title="wikilink">電影原聲帶中及在</a>《<a href="../Page/So_long!.md" title="wikilink">So long!</a>》 中收录了该曲的音乐录影带.</p></td>
 <td></td>
 </tr>
@@ -1389,7 +1389,7 @@ JAPAN</a><br />
 </tr>
 <tr class="odd">
 <td><p>2017年1月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/點時成菁" title="wikilink">點時成菁</a></p></td>
+<td><p><a href="../Page/點時成菁.md" title="wikilink">點時成菁</a></p></td>
 <td><p>錄音室專輯</p></td>
 <td><p>632,615</p></td>
 <td><p>15</p></td>
@@ -1399,7 +1399,7 @@ JAPAN</a><br />
 </tr>
 <tr class="even">
 <td><p>2018年1月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/那個黎明，我們都知道" title="wikilink">那個黎明，我們都知道</a></p></td>
+<td><p><a href="../Page/那個黎明，我們都知道.md" title="wikilink">那個黎明，我們都知道</a></p></td>
 <td><p>611,056</p></td>
 <td></td>
 <td></td>

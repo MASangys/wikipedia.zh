@@ -2,7 +2,7 @@
 
 ## 同性性行為相關法律歷程
 
-2007年以前，非商業、成年、合意一致的同性性行為在尼泊爾為非法，最高可被判處兩年[有期徒刑](../Page/有期徒刑.md "wikilink")。此外，[異裝也被當成](https://zh.wikipedia.org/wiki/異裝 "wikilink")「不道德」的行為，同樣違法。
+2007年以前，非商業、成年、合意一致的同性性行為在尼泊爾為非法，最高可被判處兩年[有期徒刑](../Page/有期徒刑.md "wikilink")。此外，[異裝也被當成](../Page/異裝.md "wikilink")「不道德」的行為，同樣違法。
 
 2007年12月23日，[尼泊爾國會兩大黨](https://zh.wikipedia.org/wiki/尼泊爾國會 "wikilink")[尼泊爾大會黨和](https://zh.wikipedia.org/wiki/尼泊爾大會黨 "wikilink")[尼泊爾聯合共產黨（毛派）達成協議](https://zh.wikipedia.org/wiki/尼泊爾聯合共產黨（毛澤東主義） "wikilink")，廢除君主制，使尼泊爾成為一個共和國。同年12月21日，尼泊爾最高法院裁定，新成立的民主政府應修訂保障[女同性戀](../Page/女同性戀.md "wikilink")、[男同性戀](../Page/男同性戀.md "wikilink")、雙性戀和[跨性別者權益的法律](https://zh.wikipedia.org/wiki/跨性別者 "wikilink")，否則就是歧視\[1\]。同性性行為也在此時被非刑事化，因為新政府參考外國法律重修了刑法典，將同性性行為法律自刑法中消除。
 

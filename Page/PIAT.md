@@ -61,7 +61,7 @@ Attack）至[叢林師中所有步兵排](https://zh.wikipedia.org/wiki/叢林�
   - 1944年10月21日，使用PIAT摧毀了一輛德國坦克，並協助擊退德國的反擊，由此守住[薩維奧河上的灘頭陣地](https://zh.wikipedia.org/wiki/薩維奧河 "wikilink")\[50\]。
   - 1944年12月9日，利用PIAT和其它武器擊退由德國[第90裝甲擲彈兵師製造的攻勢](https://zh.wikipedia.org/wiki/第90裝甲擲彈兵師 "wikilink")\[51\]。
 
-直到1950年代初由[巴祖卡火箭筒和](../Page/巴祖卡火箭筒.md "wikilink")[埃奈加反坦克榴彈所取代之前](https://zh.wikipedia.org/wiki/ENERGA反坦克槍榴彈 "wikilink")，所有英國和英聯邦軍隊有服役的戰事中都有使用到PIAT\[52\]。澳大利亞陸軍在朝鮮戰爭開始時混用PIAT和的巴祖卡火箭筒，但後來都由的M20「超級巴祖卡」迅速取代\[53\]。
+直到1950年代初由[巴祖卡火箭筒和](../Page/巴祖卡火箭筒.md "wikilink")[埃奈加反坦克榴彈所取代之前](../Page/ENERGA反坦克槍榴彈.md "wikilink")，所有英國和英聯邦軍隊有服役的戰事中都有使用到PIAT\[52\]。澳大利亞陸軍在朝鮮戰爭開始時混用PIAT和的巴祖卡火箭筒，但後來都由的M20「超級巴祖卡」迅速取代\[53\]。
 
 1948年[以色列獨立戰爭中](https://zh.wikipedia.org/wiki/以色列獨立戰爭 "wikilink")，以色列[哈加納和](https://zh.wikipedia.org/wiki/哈加納 "wikilink")[以色列國防軍使用PIAT對付阿拉伯的裝甲部隊](../Page/以色列國防軍.md "wikilink")\[54\]。
 

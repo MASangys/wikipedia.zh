@@ -82,7 +82,7 @@
 
   - 原作 - [西崎義展](https://zh.wikipedia.org/wiki/西崎義展 "wikilink")
   - 監督・[VFX](https://zh.wikipedia.org/wiki/VFX "wikilink") -
-    [山崎貴](https://zh.wikipedia.org/wiki/山崎貴 "wikilink")
+    [山崎貴](../Page/山崎貴.md "wikilink")
   - 脚本 - [佐藤嗣麻子](https://zh.wikipedia.org/wiki/佐藤嗣麻子 "wikilink")
   - 音樂 - [佐藤直紀](../Page/佐藤直紀.md "wikilink")（原曲 -
     [宮川泰](https://zh.wikipedia.org/wiki/宮川泰 "wikilink")「宇宙戰艦大和號」「無限に廣がる大宇宙」）
@@ -90,7 +90,7 @@
   - 企畫 -
     [中澤敏明](https://zh.wikipedia.org/wiki/中澤敏明 "wikilink")、[濱名一哉](https://zh.wikipedia.org/wiki/濱名一哉 "wikilink")
   - 執行製作 -
-    [飯島三智](https://zh.wikipedia.org/wiki/飯島三智 "wikilink")、[阿部秀司](https://zh.wikipedia.org/wiki/阿部秀司 "wikilink")、[市川南](https://zh.wikipedia.org/wiki/市川南 "wikilink")
+    [飯島三智](../Page/飯島三智.md "wikilink")、[阿部秀司](https://zh.wikipedia.org/wiki/阿部秀司 "wikilink")、[市川南](https://zh.wikipedia.org/wiki/市川南 "wikilink")
   - 製作 -
     [東信弘](https://zh.wikipedia.org/wiki/東信弘 "wikilink")、[山田康裕](https://zh.wikipedia.org/wiki/山田康裕 "wikilink")、[石丸彰彥](https://zh.wikipedia.org/wiki/石丸彰彥 "wikilink")、[安藤親廣](https://zh.wikipedia.org/wiki/安藤親廣 "wikilink")
   - ラインプロデューサー - [竹內勝一](https://zh.wikipedia.org/wiki/竹內勝一 "wikilink")
@@ -105,7 +105,7 @@
   - 編集 - [宮島龍治](https://zh.wikipedia.org/wiki/宮島龍治 "wikilink")
   - 片尾曲 - [史蒂芬·泰勒](../Page/史蒂芬·泰勒.md "wikilink") －「LOVE LIVES」
   - 製作 - 「SPACE BATTLESHIP
-    ヤマト」製作委員会（[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")・セディックインターナショナル・[東寶](https://zh.wikipedia.org/wiki/東寶株式會社 "wikilink")・[ROBOT](https://zh.wikipedia.org/wiki/ROBOT "wikilink")・[ジェイ・ドリーム](https://zh.wikipedia.org/wiki/ジェイ・ドリーム "wikilink")・[博報堂DYメディアパートナーズ](https://zh.wikipedia.org/wiki/博報堂DYメディアパートナーズ "wikilink")・[小學館](../Page/小學館.md "wikilink")・[毎日放送](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")・[中部日本放送](../Page/中部日本放送.md "wikilink")・[白組](https://zh.wikipedia.org/wiki/白組 "wikilink")・[阿部秀司事務所](https://zh.wikipedia.org/wiki/阿部秀司事務所 "wikilink")・[TBSラジオ&コミュニケーションズ](https://zh.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")・[TCエンタテインメント](https://zh.wikipedia.org/wiki/TCエンタテインメント "wikilink")・[FM東京](../Page/FM東京.md "wikilink")・[東北新社](https://zh.wikipedia.org/wiki/東北新社 "wikilink")・[RKB每日放送](../Page/RKB每日放送.md "wikilink")・[北海道放送](../Page/北海道放送.md "wikilink")・[JNN全28局](https://zh.wikipedia.org/wiki/Japan_News_Network "wikilink")）
+    ヤマト」製作委員会（[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")・セディックインターナショナル・[東寶](https://zh.wikipedia.org/wiki/東寶株式會社 "wikilink")・[ROBOT](https://zh.wikipedia.org/wiki/ROBOT "wikilink")・[ジェイ・ドリーム](https://zh.wikipedia.org/wiki/ジェイ・ドリーム "wikilink")・[博報堂DYメディアパートナーズ](https://zh.wikipedia.org/wiki/博報堂DYメディアパートナーズ "wikilink")・[小學館](../Page/小學館.md "wikilink")・[毎日放送](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")・[中部日本放送](../Page/中部日本放送.md "wikilink")・[白組](../Page/白組.md "wikilink")・[阿部秀司事務所](https://zh.wikipedia.org/wiki/阿部秀司事務所 "wikilink")・[TBSラジオ&コミュニケーションズ](https://zh.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")・[TCエンタテインメント](https://zh.wikipedia.org/wiki/TCエンタテインメント "wikilink")・[FM東京](../Page/FM東京.md "wikilink")・[東北新社](https://zh.wikipedia.org/wiki/東北新社 "wikilink")・[RKB每日放送](../Page/RKB每日放送.md "wikilink")・[北海道放送](../Page/北海道放送.md "wikilink")・[JNN全28局](https://zh.wikipedia.org/wiki/Japan_News_Network "wikilink")）
 
 ## 出版物
 

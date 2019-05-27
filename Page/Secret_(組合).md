@@ -446,18 +446,18 @@ PlotData =
 | [KBS](../Page/韓國放送公社.md "wikilink")                     | [Family](../Page/Family_\(韓國電視劇\).md "wikilink")              | 枝恩                                                                | 跟蹤狂   | 第45集   |       |
 | 2013年                                                   | [廣告天才李太白](../Page/廣告天才李太白.md "wikilink")                      | 善伙                                                                | 李素蘭   |        |       |
 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")     | 枝恩                                                            | 姜秀智（少年）                                                           |       |        |       |
-| 2014年                                                   | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")           | [能看見鬼的警察處容](https://zh.wikipedia.org/wiki/能看見鬼的警察處容 "wikilink")   | 烋星    | 韓娜英    | 全集    |
+| 2014年                                                   | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")           | [能看見鬼的警察處容](../Page/能看見鬼的警察處容.md "wikilink")                      | 烋星    | 韓娜英    | 全集    |
 | SBS                                                     | [神的禮物－14天](https://zh.wikipedia.org/wiki/神的禮物－14天 "wikilink") | 善伙                                                                | Jenny |        |       |
 | KBS                                                     | [貓來了](../Page/貓來了.md "wikilink")                              | 烋星                                                                | 韓秀梨   |        |       |
 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")     | [不要戀愛要結婚](../Page/不要戀愛要結婚.md "wikilink")                      | 善伙                                                                | 姜世雅   |        |       |
-| MBC                                                     | [薔薇色戀人們](https://zh.wikipedia.org/wiki/薔薇色戀人們 "wikilink")     | 白薔薇                                                               |       |        |       |
-| 2015年                                                   | OCN                                                           | [能看見鬼的警察處容2](https://zh.wikipedia.org/wiki/能看見鬼的警察處容 "wikilink")  | 烋星    | 韓娜英    | 全集    |
+| MBC                                                     | [薔薇色戀人們](../Page/薔薇色戀人們.md "wikilink")                        | 白薔薇                                                               |       |        |       |
+| 2015年                                                   | OCN                                                           | [能看見鬼的警察處容2](../Page/能看見鬼的警察處容.md "wikilink")                     | 烋星    | 韓娜英    | 全集    |
 | tvN                                                     | [超人時代](../Page/超人時代.md "wikilink")                            | 枝恩                                                                | 枝恩    |        |       |
 | Naver tvcast                                            | 初戀不變的法則                                                       | 枝恩                                                                | 李如莉   | 全集     |       |
 | 2015-2016年                                              | KBS1                                                          | [我們家蜜醰子](../Page/我們家蜜罈子.md "wikilink")                            | 枝恩    | 崔波蘭／吳春 | 全集    |
 | SBS                                                     | [Wanted](../Page/Wanted.md "wikilink")                        | 烋星                                                                | 朴寶妍   |        |       |
-| 2017年                                                   | Naver tvcast / OCN                                            | [焦急的羅曼史](https://zh.wikipedia.org/wiki/焦急的羅曼史 "wikilink")         | 枝恩    | 李宥美    | 全集    |
-| tvN                                                     | [內向的老闆](https://zh.wikipedia.org/wiki/內向的老闆 "wikilink")       | 烋星                                                                | 金喬禮   |        |       |
+| 2017年                                                   | Naver tvcast / OCN                                            | [焦急的羅曼史](../Page/焦急的羅曼史.md "wikilink")                            | 枝恩    | 李宥美    | 全集    |
+| tvN                                                     | [內向的老闆](../Page/內向的老闆.md "wikilink")                          | 烋星                                                                | 金喬禮   |        |       |
 
 ### 綜藝節目
 
@@ -474,7 +474,7 @@ PlotData =
 | 2010年5月20日-2010年9月1日 | 《[TrendReport Feel 第五季 时尚学院](https://zh.wikipedia.org/wiki/TrendReport_Feel_第五季_时尚学院 "wikilink")》                                                              |      |
 | 2010年7月25日-2011年2月20 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[花束](https://zh.wikipedia.org/wiki/花束 "wikilink")》                                                         |      |
 | 2010年8月11日           | 《[申政煥PD的藝能製造局](https://zh.wikipedia.org/wiki/申政煥PD的藝能製造局 "wikilink")》                                                                                          |      |
-| 2010年9月12日           | 《[金諪恩的巧克力](https://zh.wikipedia.org/wiki/金諪恩的巧克力 "wikilink")》                                                                                                  |      |
+| 2010年9月12日           | 《[金諪恩的巧克力](../Page/金諪恩的巧克力.md "wikilink")》                                                                                                                     |      |
 | 2010年9月14日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[中秋運動會](https://zh.wikipedia.org/wiki/中秋運動會 "wikilink")》                                                   |      |
 | 2010年10月16日          | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[明星金鐘](https://zh.wikipedia.org/wiki/明星金鐘 "wikilink")》                                                     |      |
 | 2010年10月30日          | [SBS](../Page/SBS_\(韓國\).md "wikilink")《[Starking](https://zh.wikipedia.org/wiki/Starking "wikilink")》                                                         |      |

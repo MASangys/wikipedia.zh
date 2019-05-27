@@ -203,7 +203,7 @@
 
 **第2章**
 
-  - **徳山茂：[塚地武雅](https://zh.wikipedia.org/wiki/塚地武雅 "wikilink")**（）
+  - **徳山茂：[塚地武雅](../Page/塚地武雅.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -630,7 +630,7 @@
 
 <!-- end list -->
 
-  - **鳴海亞美：[藤井佳代子](https://zh.wikipedia.org/wiki/藤井佳代子 "wikilink")**
+  - **鳴海亞美：[藤井佳代子](../Page/藤井佳代子.md "wikilink")**
 
 <!-- end list -->
 

@@ -70,10 +70,10 @@
   - [Sylvester](https://zh.wikipedia.org/wiki/Sylvester "wikilink")
   - [SWFObject](https://zh.wikipedia.org/wiki/SWFObject "wikilink")
   - [Taffy DB](https://zh.wikipedia.org/wiki/Taffy_DB "wikilink")
-  - [Three.js](https://zh.wikipedia.org/wiki/Three.js "wikilink")
+  - [Three.js](../Page/Three.js.md "wikilink")
   - [typeface.js](https://zh.wikipedia.org/wiki/typeface.js "wikilink")
   - [Underscore.js](https://zh.wikipedia.org/wiki/Underscore.js "wikilink")
-  - [Verge3D](https://zh.wikipedia.org/wiki/Verge3D "wikilink")
+  - [Verge3D](../Page/Verge3D.md "wikilink")
   - [Yahoo\! UI
     Library](https://zh.wikipedia.org/wiki/Yahoo!_UI_Library "wikilink")
   - [Zeleos web

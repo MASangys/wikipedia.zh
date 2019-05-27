@@ -161,7 +161,7 @@
 <td style="text-align: center;"><p><a href="../Page/善巖女高偵探團.md" title="wikilink">善巖女高偵探團</a><br />
 </p></td>
 <td style="text-align: center;"><p>14</p></td>
-<td style="text-align: center;"><p><a href="../Page/陳智熙.md" title="wikilink">陳智熙</a>、<a href="../Page/姜敏兒.md" title="wikilink">姜敏兒</a>、<a href="../Page/惠利.md" title="wikilink">惠利</a>、<a href="https://zh.wikipedia.org/wiki/李史蒂芬妮" title="wikilink">李史蒂芬妮</a>、<a href="https://zh.wikipedia.org/wiki/李敏芝" title="wikilink">李敏芝</a>、<a href="../Page/金敏俊.md" title="wikilink">金敏俊</a>、<a href="../Page/李丞涓.md" title="wikilink">李丞涓</a>、<a href="https://zh.wikipedia.org/wiki/黃石正" title="wikilink">黃石正</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/陳智熙.md" title="wikilink">陳智熙</a>、<a href="../Page/姜敏兒.md" title="wikilink">姜敏兒</a>、<a href="../Page/惠利.md" title="wikilink">惠利</a>、<a href="https://zh.wikipedia.org/wiki/李史蒂芬妮" title="wikilink">李史蒂芬妮</a>、<a href="../Page/李敏芝.md" title="wikilink">李敏芝</a>、<a href="../Page/金敏俊.md" title="wikilink">金敏俊</a>、<a href="../Page/李丞涓.md" title="wikilink">李丞涓</a>、<a href="../Page/黃石正.md" title="wikilink">黃石正</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/呂雲赫" title="wikilink">呂雲赫</a>、<a href="https://zh.wikipedia.org/wiki/劉正煥" title="wikilink">劉正煥</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/申廣浩" title="wikilink">申廣浩</a></p></td>
 <td style="text-align: center;"><p>原作：朴河億《善巖女高偵探團：放學後的推理》<br />

@@ -55,7 +55,7 @@ studs](https://zh.wikipedia.org/wiki/the_studs "wikilink")）的粉絲，在個�
   - 2012年8月10日 - [学☆王 It's Heartful
     Days\!\!](https://zh.wikipedia.org/wiki/学☆王_-THE_ROYAL_SEVEN_STARS-#学☆王_It's_Heartful_Days!! "wikilink")（人物設計、原畫、彩色）
   - 2013年5月31日 - [Magical
-    Charming\!](https://zh.wikipedia.org/wiki/Magical_Charming! "wikilink")（人物設計、原畫、彩色）
+    Charming\!](../Page/Magical_Charming!.md "wikilink")（人物設計、原畫、彩色）
 
 <!-- end list -->
 
@@ -63,10 +63,9 @@ studs](https://zh.wikipedia.org/wiki/the_studs "wikilink")）的粉絲，在個�
 
 <!-- end list -->
 
-  - 2017年1月27日 -
-    [星戀＊閃爍](https://zh.wikipedia.org/wiki/星戀＊閃爍 "wikilink")（人物設計、原畫、彩色）
+  - 2017年1月27日 - [星戀＊閃爍](../Page/星戀＊閃爍.md "wikilink")（人物設計、原畫、彩色）
   - 2018年11月30日 - [Amazing Grace
-    -你的屬性是什麼顏色？-](https://zh.wikipedia.org/wiki/Amazing_Grace_-你的屬性是什麼顏色？- "wikilink")（人物設計、原畫、彩色）
+    -你的屬性是什麼顏色？-](../Page/Amazing_Grace_-你的屬性是什麼顏色？-.md "wikilink")（人物設計、原畫、彩色）
 
 ### 一般遊戲
 

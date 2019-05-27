@@ -384,7 +384,7 @@ GENE-X](https://zh.wikipedia.org/wiki/月刊Sunday_GENE-X "wikilink")》2007年1
 <td></td>
 <td><p>HERMA</p></td>
 <td><p>西澤晉</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">小坂春女</a></p></td>
+<td><p><a href="../Page/小坂春女.md" title="wikilink">小坂春女</a></p></td>
 <td><p>本橋秀之</p></td>
 <td></td>
 </tr>

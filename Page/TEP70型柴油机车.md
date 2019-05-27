@@ -43,7 +43,7 @@ TEP70BS型机车是为俄罗斯铁路非电气化干线设计制造的准高速�
 [缩略图](https://zh.wikipedia.org/wiki/File:Tep70-h.jpg "fig:缩略图")
 TEP70型机车是单节六轴干线客运用柴油机车，采用了桁架式侧壁承载[车体](https://zh.wikipedia.org/wiki/车体 "wikilink")，是一个由车架、侧墙、司机室、上弦梁、下弦梁等部件焊接成一个完整的箱形结构。底架和车体结构中广泛采用[低合金钢焊接结构](https://zh.wikipedia.org/wiki/低合金钢 "wikilink")，底架中部设有下凹的燃油箱及[蓄电池箱](https://zh.wikipedia.org/wiki/蓄电池 "wikilink")，并在安装二系弹簧悬挂装置的相应位置设有凹槽，而车体侧壁蒙皮采用[铝合金板材制作](https://zh.wikipedia.org/wiki/铝合金 "wikilink")。车体经过轻量化减重设计，TEP70型机车的车架和车体总重量为19.36吨，车体每延米重量仅为0.89吨，比TEP60型机车下降了0.14吨。机车采用[电控空气制动机](https://zh.wikipedia.org/wiki/电控空气制动机 "wikilink")（包括292号空气分配阀、305号电磁阀、395号单元制动器、254号辅助制动阀）。
 
-机车的冷却水系统分为高温冷却水系统及低温冷却水系统。高温水系统是柴油机冷却水的系统，而低温水系统是为[机油](https://zh.wikipedia.org/wiki/机油 "wikilink")[热交换器及](https://zh.wikipedia.org/wiki/热交换器 "wikilink")[增压空气中间冷却器而设的冷却水系统](https://zh.wikipedia.org/wiki/中冷器 "wikilink")。冷却装置由[散热器与](../Page/散热器.md "wikilink")[风扇组成](../Page/风扇.md "wikilink")，冷却水带出的热量在散热器中传给空气而冷却。TEP70型机车采用了集中布置的中央通风冷却系统，由柴油机曲轴驱动的轴流式风扇，通过车体侧壁的[百叶窗及](https://zh.wikipedia.org/wiki/百叶窗 "wikilink")[空气滤清装置抽入冷风](../Page/空气滤清器.md "wikilink")，经过通风支路为牵引发电机、牵引电机、整流装置及励磁机进行冷却，中央通风冷却系统具有空气流量大、空气过滤效果好、减少辅助功率消耗等优点。
+机车的冷却水系统分为高温冷却水系统及低温冷却水系统。高温水系统是柴油机冷却水的系统，而低温水系统是为[机油](https://zh.wikipedia.org/wiki/机油 "wikilink")[热交换器及](https://zh.wikipedia.org/wiki/热交换器 "wikilink")[增压空气中间冷却器而设的冷却水系统](../Page/中冷器.md "wikilink")。冷却装置由[散热器与](../Page/散热器.md "wikilink")[风扇组成](../Page/风扇.md "wikilink")，冷却水带出的热量在散热器中传给空气而冷却。TEP70型机车采用了集中布置的中央通风冷却系统，由柴油机曲轴驱动的轴流式风扇，通过车体侧壁的[百叶窗及](https://zh.wikipedia.org/wiki/百叶窗 "wikilink")[空气滤清装置抽入冷风](../Page/空气滤清器.md "wikilink")，经过通风支路为牵引发电机、牵引电机、整流装置及励磁机进行冷却，中央通风冷却系统具有空气流量大、空气过滤效果好、减少辅助功率消耗等优点。
 
 ### 柴油机
 

@@ -4,7 +4,7 @@
 
 IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "wikilink")，最早始自1917年。首届得主为[美国](../Page/美国.md "wikilink")[无线电工程先驱](https://zh.wikipedia.org/wiki/无线电 "wikilink")、[发明家](https://zh.wikipedia.org/wiki/发明家 "wikilink")[阿姆斯特朗](https://zh.wikipedia.org/wiki/埃德溫·阿姆斯特朗 "wikilink")。奖章奖励给在电气电子工程届做出有卓越贡献的人物。奖章每年颁发一次，每次只允许颁发给一人。奖励包括一枚金质奖章、一枚奖章的铜质复制品、一本获奖证书和一笔奖金。
 
-奖章最早由[无线电工程师学会](https://zh.wikipedia.org/wiki/无线电工程师学会 "wikilink")（IRE）创立，1963年成为IEEE的最高荣誉。当时IRE与美国电气电子工程师学会合并。
+奖章最早由[无线电工程师学会](../Page/无线电工程师学会.md "wikilink")（IRE）创立，1963年成为IEEE的最高荣誉。当时IRE与美国电气电子工程师学会合并。
 
 ## 华人得主
 
@@ -91,7 +91,7 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
   - 1980年：[威廉·肖克利](../Page/威廉·肖克利.md "wikilink")
     [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1956年
   - 1981年：
-  - 1982年：[约翰·图基](https://zh.wikipedia.org/wiki/约翰·图基 "wikilink")
+  - 1982年：[约翰·图基](../Page/约翰·图基.md "wikilink")
   - 1983年：[尼古拉斯·布隆伯根](../Page/尼古拉斯·布隆伯根.md "wikilink")
     [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1981年
   - 1984年：[諾曼·拉姆齊](https://zh.wikipedia.org/wiki/諾曼·拉姆齊 "wikilink")
@@ -144,7 +144,7 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
 
   - [IEEE約翰·馮·諾伊曼獎章](../Page/约翰·冯诺依曼奖.md "wikilink")
 
-  - [IEEE理察·衛斯里·漢明獎章](https://zh.wikipedia.org/wiki/IEEE理察·衛斯里·漢明獎章 "wikilink")
+  - [IEEE理察·衛斯里·漢明獎章](../Page/IEEE理察·衛斯里·漢明獎章.md "wikilink")
 
   -
   - [IEEE西澤潤一獎](../Page/IEEE西澤潤一獎.md "wikilink")
@@ -162,7 +162,7 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
   - [邵逸夫獎](../Page/邵逸夫獎.md "wikilink")
   - [唐獎](../Page/唐獎.md "wikilink")
   - [搞笑诺贝尔奖](https://zh.wikipedia.org/wiki/搞笑诺贝尔奖 "wikilink")
-  - [馬可尼獎](https://zh.wikipedia.org/wiki/馬可尼獎 "wikilink")
+  - [馬可尼獎](../Page/馬可尼獎.md "wikilink")
   - [約翰·弗里茨獎章](https://zh.wikipedia.org/wiki/約翰·弗里茨獎章 "wikilink")
 
 ## 參考資料

@@ -1,5 +1,5 @@
 [Original_antigenic_sin.svg](https://zh.wikipedia.org/wiki/File:Original_antigenic_sin.svg "fig:Original_antigenic_sin.svg")是[免疫系统中制造](../Page/免疫系统.md "wikilink")[抗体来对抗](https://zh.wikipedia.org/wiki/抗体 "wikilink")[抗原的一种细胞](../Page/抗原.md "wikilink")。它们会针对特定抗原产生记忆细胞来加速第二次的免疫反应。\]\]
-**记忆B细胞**是在初次[免疫反应后](https://zh.wikipedia.org/wiki/免疫反应 "wikilink")，產生[IgM](../Page/IgM.md "wikilink")[抗體的](https://zh.wikipedia.org/wiki/抗體 "wikilink")[B細胞轉為產生](https://zh.wikipedia.org/wiki/B細胞 "wikilink")[IgG的一种B細胞](https://zh.wikipedia.org/wiki/IgG "wikilink")。
+**记忆B细胞**是在初次[免疫反应后](https://zh.wikipedia.org/wiki/免疫反应 "wikilink")，產生[IgM](../Page/IgM.md "wikilink")[抗體的](https://zh.wikipedia.org/wiki/抗體 "wikilink")[B細胞轉為產生](https://zh.wikipedia.org/wiki/B細胞 "wikilink")[IgG的一种B細胞](../Page/IgG.md "wikilink")。
 
 ## 初次免疫反应、[抗原决定簇与](https://zh.wikipedia.org/wiki/抗原决定簇 "wikilink")[抗体决定簇](https://zh.wikipedia.org/wiki/抗体决定簇 "wikilink")
 

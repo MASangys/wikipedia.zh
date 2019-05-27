@@ -1,6 +1,6 @@
 《**Marry
 Me**》是韓國歌手[金賢重的首張個人數位單曲](../Page/金賢重.md "wikilink")，於2011年12月15日推出\[1\]，由[CJ
-E\&M發行](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink")。
+E\&M發行](../Page/CJ_E&M.md "wikilink")。
 
 ## 概述
 

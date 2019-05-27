@@ -31,7 +31,7 @@ Netflix是一種提供[電影和](https://zh.wikipedia.org/wiki/電影 "wikilink
 
 在2014年10月10日以前，Netflix的串流服務並不支援[Linux](../Page/Linux.md "wikilink")
 PC，然而以Linux為基礎架構的Roku機上盒則可以使用Netflix服務。Linux電腦的使用者可透過轉接器將Roku機上盒、電子遊戲主機或[Blu-ray光碟播放器連接至Linux電腦](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")，或使用[VirtualBox或](../Page/VirtualBox.md "wikilink")[QEMU等虛擬電腦軟體執行](../Page/QEMU.md "wikilink")[Microsoft
-Windows來觀看Netflix](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。在《[TechRepublic](https://zh.wikipedia.org/wiki/TechRepublic "wikilink")》2010年8月的一篇專訪中，Neflix的公司通訊副總裁表示Linux上可使用的Moonlight等[Silverlightj外掛元件並不支援Netflix需要的PlayReady](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")[数字版权管理](../Page/数字版权管理.md "wikilink")（DRM）系統。\[18\]然而，Netflix支援[Android作業系統](../Page/Android.md "wikilink")，Android是[Linux核心為主的](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")[複刻版本](https://zh.wikipedia.org/wiki/複刻 "wikilink")。一套以[Wine為基礎的非官方程式能讓使用者在不安裝Windows虛擬機器的情況下觀看Netflix串流影片](../Page/Wine.md "wikilink")。此套名為「Pipelight」的[Firefox外掛元件](../Page/Firefox.md "wikilink")，是以桌面版Netflix計畫為基礎，透過連結到在Wine基底上運行的Silverlight外掛元件，讓Linux原生的網路瀏覽器能播放Netflix。\[19\]然而，在2014年10月10日，Ubuntu
+Windows來觀看Netflix](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。在《[TechRepublic](../Page/TechRepublic.md "wikilink")》2010年8月的一篇專訪中，Neflix的公司通訊副總裁表示Linux上可使用的Moonlight等[Silverlightj外掛元件並不支援Netflix需要的PlayReady](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")[数字版权管理](../Page/数字版权管理.md "wikilink")（DRM）系統。\[18\]然而，Netflix支援[Android作業系統](../Page/Android.md "wikilink")，Android是[Linux核心為主的](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")[複刻版本](https://zh.wikipedia.org/wiki/複刻 "wikilink")。一套以[Wine為基礎的非官方程式能讓使用者在不安裝Windows虛擬機器的情況下觀看Netflix串流影片](../Page/Wine.md "wikilink")。此套名為「Pipelight」的[Firefox外掛元件](../Page/Firefox.md "wikilink")，是以桌面版Netflix計畫為基礎，透過連結到在Wine基底上運行的Silverlight外掛元件，讓Linux原生的網路瀏覽器能播放Netflix。\[19\]然而，在2014年10月10日，Ubuntu
 12.04或14.04版本的使用者，能安裝支援Netflix
 [HTML5數位版權管理機制的Chrome瀏覽器外掛元件](../Page/HTML5.md "wikilink")。\[20\]透過Google
 Chrome播放的Netflix影片最高支援[720p的解析度](../Page/720p.md "wikilink")。\[21\]
@@ -74,7 +74,7 @@ Netflix與《發展受阻》的[密歇·赫維玆](https://zh.wikipedia.org/wiki
 Hurwitz）及其製作公司在2014年4月宣佈簽約，將在接下來的數年間為Netflix製作原創內容\[44\]
 
 Netflix在2014年9月擊敗[Amazon
-Prime和](https://zh.wikipedia.org/wiki/Amazon_Prime "wikilink")[Hulu](../Page/Hulu.md "wikilink")，取得《[愛](https://zh.wikipedia.org/wiki/愛_\(電視影集\) "wikilink")》（*Love*）的版權，該影集是由[賈德·阿帕托](https://zh.wikipedia.org/wiki/賈德·阿帕托 "wikilink")、萊斯里·亞芬（Leslie
+Prime和](https://zh.wikipedia.org/wiki/Amazon_Prime "wikilink")[Hulu](../Page/Hulu.md "wikilink")，取得《[愛](https://zh.wikipedia.org/wiki/愛_\(電視影集\) "wikilink")》（*Love*）的版權，該影集是由[賈德·阿帕托](../Page/賈德·阿帕托.md "wikilink")、萊斯里·亞芬（Leslie
 Arfin）和[保羅·魯斯特](../Page/保羅·魯斯特.md "wikilink")（Paul Rust）製作的全新愛情喜劇。
 
 Netflix在2014年11月19日宣佈，《[西鎮警魂](https://zh.wikipedia.org/wiki/西鎮警魂 "wikilink")》將在2015年於Netflix平台推出共10集的第四季內容\[45\]
@@ -98,7 +98,7 @@ Netflix在2014年11月19日宣佈，《[西鎮警魂](https://zh.wikipedia.org/w
 
 ##### 臺灣
 
-Netflix於2016年1月6日正式於臺灣上線，並於同年6月與[三立電視公司結成內容伙伴](../Page/三立電視.md "wikilink")，於該平台上推出三立過去曾製播之戲劇節目。翌年，Netflix與[公共電視台](https://zh.wikipedia.org/wiki/公共電視文化事業基金會 "wikilink")、[凱擘影藝合作](../Page/凱擘公司.md "wikilink")，製播原創戲劇《[雙城故事](https://zh.wikipedia.org/wiki/雙城故事_\(電視劇\) "wikilink")》，該劇於同年年底開拍，2018年中旬上架，公視部分戲劇節目亦於該平台推出。2018年9月，Netflix宣布《[罪梦者](https://zh.wikipedia.org/wiki/罪梦者 "wikilink")》将在10月份开拍。
+Netflix於2016年1月6日正式於臺灣上線，並於同年6月與[三立電視公司結成內容伙伴](../Page/三立電視.md "wikilink")，於該平台上推出三立過去曾製播之戲劇節目。翌年，Netflix與[公共電視台](https://zh.wikipedia.org/wiki/公共電視文化事業基金會 "wikilink")、[凱擘影藝合作](../Page/凱擘公司.md "wikilink")，製播原創戲劇《[雙城故事](../Page/雙城故事_\(電視劇\).md "wikilink")》，該劇於同年年底開拍，2018年中旬上架，公視部分戲劇節目亦於該平台推出。2018年9月，Netflix宣布《[罪梦者](https://zh.wikipedia.org/wiki/罪梦者 "wikilink")》将在10月份开拍。
 
 #### 印度尼西亚
 
@@ -188,7 +188,7 @@ Tomcat](../Page/Apache_Tomcat.md "wikilink")、[Hive](https://zh.wikipedia.org/w
 
 ###
 
-[广电总局规定](https://zh.wikipedia.org/wiki/中华人民共和国国家新闻出版广电总局 "wikilink")，境外公司不得在中国大陆境内开展视听服务，再加上该地区严厉苛刻的[网络审查制度](../Page/中华人民共和国网络审查.md "wikilink")，导致Netflix至今仍未进入中国大陆市场。\[85\]\[86\]\[87\]\[88\]
+[广电总局规定](../Page/中华人民共和国国家新闻出版广电总局.md "wikilink")，境外公司不得在中国大陆境内开展视听服务，再加上该地区严厉苛刻的[网络审查制度](../Page/中华人民共和国网络审查.md "wikilink")，导致Netflix至今仍未进入中国大陆市场。\[85\]\[86\]\[87\]\[88\]
 
 ###
 
@@ -200,13 +200,13 @@ Netflix的英文版于2011年被[俄罗斯政府屏蔽](../Page/俄罗斯.md "wi
 
 ###
 
-Netflix应[沙特阿拉伯政府的要求下架了政治喜剧节目](../Page/沙特阿拉伯.md "wikilink")《[哈桑·明哈杰：爱国者有话说](https://zh.wikipedia.org/wiki/哈桑·明哈杰：爱国者有话说 "wikilink")》的第2集《沙特阿拉伯》（仅限沙特境内），沙特政府认为这一集讽刺了沙特王储[穆罕默德·本·萨勒曼以及批评了沙特政府对異見記者](https://zh.wikipedia.org/wiki/穆罕默德·本·萨勒曼 "wikilink")[贾迈勒·卡舒吉遇害的反应](https://zh.wikipedia.org/wiki/贾迈勒·卡舒吉 "wikilink")。\[93\]\[94\]\[95\]\[96\]
+Netflix应[沙特阿拉伯政府的要求下架了政治喜剧节目](../Page/沙特阿拉伯.md "wikilink")《[哈桑·明哈杰：爱国者有话说](../Page/哈桑·明哈杰：爱国者有话说.md "wikilink")》的第2集《沙特阿拉伯》（仅限沙特境内），沙特政府认为这一集讽刺了沙特王储[穆罕默德·本·萨勒曼以及批评了沙特政府对異見記者](https://zh.wikipedia.org/wiki/穆罕默德·本·萨勒曼 "wikilink")[贾迈勒·卡舒吉遇害的反应](https://zh.wikipedia.org/wiki/贾迈勒·卡舒吉 "wikilink")。\[93\]\[94\]\[95\]\[96\]
 
 ## 挑战
 
 Neil Cybart认为，多年以来Netflix依然保持如此平稳的增长-{zh-hans:态势;
 zh-hant:趨勢}-是因为它成功进入了一个良性的“内容—会员”的增长循环，但这种良性循环绝对不会持续太久，它会面临两方面的竞争。一，用户看在线视频所用的时间，传统的电视台和突然-{zh-hans:入局;
-zh-hant:侵入}-[流媒体行业的](../Page/流媒体.md "wikilink")[迪士尼+](https://zh.wikipedia.org/wiki/迪士尼+ "wikilink")（含[二十一世纪福斯](https://zh.wikipedia.org/wiki/二十一世纪福斯 "wikilink")）与[Hulu](../Page/Hulu.md "wikilink")、-{zh-hans:背靠;
+zh-hant:侵入}-[流媒体行业的](../Page/流媒体.md "wikilink")[迪士尼+](../Page/迪士尼+.md "wikilink")（含[二十一世纪福斯](https://zh.wikipedia.org/wiki/二十一世纪福斯 "wikilink")）与[Hulu](../Page/Hulu.md "wikilink")、-{zh-hans:背靠;
 zh-hant:依靠}-[AT\&T的](../Page/AT&T.md "wikilink")[HBO与](../Page/HBO.md "wikilink")[DC漫画](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")、[苹果公司和](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[YouTube](../Page/YouTube.md "wikilink")（YouTube
 Originals）等强劲对手。二，付费视频行业难以出现一家独大的局面。\[97\]
 

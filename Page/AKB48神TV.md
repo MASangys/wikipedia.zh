@@ -26,7 +26,7 @@
 
   - [AKB48](../Page/AKB48.md "wikilink")（請参照[\#播出日期・企劃・出演成員（Season1）](https://zh.wikipedia.org/wiki/#播出日期・企劃・出演成員（Season1） "wikilink")）
   - [有吉弘行](../Page/有吉弘行.md "wikilink") - 恶整传道士
-  - [小林清志](https://zh.wikipedia.org/wiki/小林清志 "wikilink") - 旁白
+  - [小林清志](../Page/小林清志.md "wikilink") - 旁白
 
 <!-- end list -->
 
@@ -1333,7 +1333,7 @@ AKB48、SKE48成员</p></td>
   - 本郷博(2・3) -
     [職業訓練指導員](https://zh.wikipedia.org/wiki/職業訓練指導員 "wikilink")([焊接科](../Page/焊接.md "wikilink"))
   - 遠藤好典(2・3) - 職業訓練指導員(焊接科)
-  - [田中雅美](https://zh.wikipedia.org/wiki/田中雅美 "wikilink")(4・5) -
+  - [田中雅美](../Page/田中雅美.md "wikilink")(4・5) -
     [蛙泳元日本代表](https://zh.wikipedia.org/wiki/蛙泳 "wikilink")([2000年夏季奧林匹克運動會大会](https://zh.wikipedia.org/wiki/2000年夏季奧林匹克運動會 "wikilink")・女子400m混合泳接力[銅牌](https://zh.wikipedia.org/wiki/銅牌 "wikilink"))
   - 關口洋志(4・5) -
     JSS游泳學校副主任[教練](https://zh.wikipedia.org/wiki/教練 "wikilink")
@@ -1343,7 +1343,7 @@ AKB48、SKE48成员</p></td>
   - 百瀬直人(7・8) -
     [寵物專門店](https://zh.wikipedia.org/wiki/寵物 "wikilink")・目黑店副店長
   - 關こな美(7・8) - [Ank
-    Rouge](https://zh.wikipedia.org/wiki/松岡里枝 "wikilink")[澀谷109店主](https://zh.wikipedia.org/wiki/澀谷109 "wikilink")
+    Rouge](../Page/松岡里枝.md "wikilink")[澀谷109店主](https://zh.wikipedia.org/wiki/澀谷109 "wikilink")
   - 関一行(7・8) -
     [大和運輸](https://zh.wikipedia.org/wiki/大和運輸 "wikilink")・銀座紺屋橋センター長
   - 長野博文(9) - 職業攝影師
@@ -3389,7 +3389,7 @@ KII</small></p></td>
       - [勇往直前](https://zh.wikipedia.org/wiki/勇往直前 "wikilink")
       - [拉布拉多猎犬](https://zh.wikipedia.org/wiki/拉布拉多猎犬 "wikilink")
   - Season16
-      - [心意告示牌](https://zh.wikipedia.org/wiki/心意告示牌 "wikilink")
+      - [心意告示牌](../Page/心意告示牌.md "wikilink")
   - Season17
       - [希望无限](https://zh.wikipedia.org/wiki/希望无限 "wikilink")
   - Season18

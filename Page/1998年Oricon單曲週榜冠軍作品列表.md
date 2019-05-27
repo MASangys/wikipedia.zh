@@ -315,7 +315,7 @@ Kids的](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")《[擁抱全部/�
 <tr class="even">
 <td><p>12月28日</p></td>
 <td><p><a href="../Page/稻葉浩志.md" title="wikilink">稻葉浩志</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/到遠方" title="wikilink">到遠方</a></p></td>
+<td><p><a href="../Page/到遠方.md" title="wikilink">到遠方</a></p></td>
 <td><p>41.8</p></td>
 </tr>
 </tbody>

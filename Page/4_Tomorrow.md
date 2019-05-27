@@ -48,7 +48,7 @@ Tomorrow）於2009年10月6日推出\[1\]。
     Girls](../Page/Wonder_Girls.md "wikilink")，[4minute](../Page/4minute.md "wikilink")（已解散）
   - 退團原因：[Wonder
     Girls](../Page/Wonder_Girls.md "wikilink")：因慢性腸胃炎和頭暈等病痛問題經常暈倒，父母親對她身體狀況相當擔憂而在2007年7月退出。
-    [4minute](../Page/4minute.md "wikilink")：因成员[南智賢](https://zh.wikipedia.org/wiki/南智賢 "wikilink")、[許嘉允](../Page/許嘉允.md "wikilink")、[田祉潤和](https://zh.wikipedia.org/wiki/田祉潤 "wikilink")[權昭賢不与](../Page/權昭賢.md "wikilink")[Cube娱乐续约](https://zh.wikipedia.org/wiki/Cube娱乐 "wikilink")，只有[泫雅续约](../Page/金泫雅.md "wikilink")，因此4minute解散
+    [4minute](../Page/4minute.md "wikilink")：因成员[南智賢](https://zh.wikipedia.org/wiki/南智賢 "wikilink")、[許嘉允](../Page/許嘉允.md "wikilink")、[田祉潤和](../Page/田祉潤.md "wikilink")[權昭賢不与](../Page/權昭賢.md "wikilink")[Cube娱乐续约](https://zh.wikipedia.org/wiki/Cube娱乐 "wikilink")，只有[泫雅续约](../Page/金泫雅.md "wikilink")，因此4minute解散
 
 ## MV
 

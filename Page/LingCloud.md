@@ -13,7 +13,7 @@ LingCloud的主要组件\[4\]包括：
     LingCloud系统核心，一套[弹性计算基础设施管理软件](https://zh.wikipedia.org/wiki/弹性计算 "wikilink")，提供异构资源管理与租赁框架，并作为面向基础设施与应用资源的单一控制点。
   - **Portal** —
     基于[web的系统管理界面](https://zh.wikipedia.org/wiki/web "wikilink")，其模块包括：
-      - 基础设施：基于与[机群技术的物理机与虚拟机管理](https://zh.wikipedia.org/wiki/计算机集群 "wikilink")。
+      - 基础设施：基于与[机群技术的物理机与虚拟机管理](../Page/计算机集群.md "wikilink")。
       - 应用封装：[虚拟电器创建与管理](https://zh.wikipedia.org/wiki/虚拟电器 "wikilink")。
       - 系统监控：机群运行时信息监控。
 

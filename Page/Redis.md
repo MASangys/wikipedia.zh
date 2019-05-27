@@ -24,7 +24,7 @@ C编写的](../Page/ANSI_C.md "wikilink")[开源](https://zh.wikipedia.org/wiki/
   - [Haxe](../Page/Haxe.md "wikilink")
   - [Io](https://zh.wikipedia.org/wiki/Io语言 "wikilink")
   - [Java](https://zh.wikipedia.org/wiki/Java语言 "wikilink")
-  - [Fibjs](https://zh.wikipedia.org/wiki/Fibjs "wikilink")
+  - [Fibjs](../Page/Fibjs.md "wikilink")
   - [Node.js](../Page/Node.js.md "wikilink")
   - [Lua](https://zh.wikipedia.org/wiki/Lua语言 "wikilink")
 

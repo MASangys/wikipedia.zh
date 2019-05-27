@@ -287,7 +287,7 @@
 </tr>
 <tr class="odd">
 <td><p>1977-7-27</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黄延秋外星人事件" title="wikilink">黄延秋外星人事件</a></p></td>
+<td><p><a href="../Page/黄延秋外星人事件.md" title="wikilink">黄延秋外星人事件</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/邯鄲市" title="wikilink">邯鄲市</a></p></td>
 <td><p>中國</p></td>
 <td><p>農民黄延秋疑似經歷<a href="https://zh.wikipedia.org/wiki/第五類接觸" title="wikilink">第五類接觸事件</a>，事件中未出現傳統意義上的飛碟或外星人，但詭秘程度極高又有眾多官員和軍方的證據，央視直到數十年後依然播放相關紀錄片。</p></td>
@@ -422,7 +422,7 @@
 </tr>
 <tr class="odd">
 <td><p>2006-11-07</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2006年歐海爾國際機場不明飛行物體目擊事件" title="wikilink">歐海爾事件</a></p></td>
+<td><p><a href="../Page/2006年歐海爾國際機場不明飛行物體目擊事件.md" title="wikilink">歐海爾事件</a></p></td>
 <td><p><a href="../Page/芝加哥.md" title="wikilink">芝加哥</a>，<a href="https://zh.wikipedia.org/wiki/伊利诺斯州" title="wikilink">伊利诺斯州</a></p></td>
 <td><p>美国</p></td>
 <td><p>美航员工和飞行员据称在芝加哥O'Hare机场上空看到了飞碟状悬浮物体。FAA起初拒绝承认收到了报告，但是由Freedom of Information Act放出的消息证实了这一目击事件。</p></td>

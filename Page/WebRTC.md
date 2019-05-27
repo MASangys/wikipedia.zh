@@ -107,8 +107,8 @@ Origin](https://zh.wikipedia.org/wiki/uBlock_Origin "wikilink")：安装uBlock
 Origin并在设置中启用“避免WebRTC 泄露本地IP地址”可以避免本地IP泄露。但需注意的是，该方案不适用于Firefox
 41（或更低）、uBlock Origin 1.3.3（或更低）版本用户。\[23\]
 
-[隐私獾](https://zh.wikipedia.org/wiki/隐私獾 "wikilink")：安装隐私獾并在设置中启用”避免
-WebRTC 泄露本地 IP 地址 “可以获得额外防护，但未知具体效果。
+[隐私獾](../Page/隐私獾.md "wikilink")：安装隐私獾并在设置中启用”避免 WebRTC 泄露本地 IP 地址
+“可以获得额外防护，但未知具体效果。
 
 ## 相關條目
 

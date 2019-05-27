@@ -20,7 +20,7 @@ me2」，選台號碼轉為02。現時台長為[莫鳳儀](../Page/莫鳳儀.md 
 
 [Dbc4.jpg](https://zh.wikipedia.org/wiki/File:Dbc4.jpg "fig:Dbc4.jpg")
 2013年1月28日復播後，不再沿用過往的「大-{晒}-台」名稱，改名為「**數碼四台**」，以24小時電腦隨機播放外語[流行歌曲](https://zh.wikipedia.org/wiki/流行歌曲 "wikilink")，間中插入政府宣傳聲帶及自家頻道廣告。同年9月4日，原於[數碼一台播放](../Page/數碼一台.md "wikilink")，由時任香港數碼電台台長[麥潤壽所主持的](../Page/麥潤壽.md "wikilink")
-《[星空再遇鐵達尼](../Page/星空再遇鐵達尼.md "wikilink")》，改於本台播放，9月16日，數碼四台革新改稱為「**校園台**」\[2\]，加入大量針對中學生、大學生、家長及教師的節目，並且加入不少DJ主持，包括兼任校園台台長的著名教育工作者[莫鳳儀](../Page/莫鳳儀.md "wikilink")、前香港[滑浪風帆代表](../Page/滑浪風帆.md "wikilink")[陳敬然](../Page/陳敬然.md "wikilink")、[香港中文大學新聞及傳播學院院長](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")[馮應謙等](https://zh.wikipedia.org/wiki/馮應謙 "wikilink")。12月20日，「校園台」隨其餘六條頻道作官方正式開台。
+《[星空再遇鐵達尼](../Page/星空再遇鐵達尼.md "wikilink")》，改於本台播放，9月16日，數碼四台革新改稱為「**校園台**」\[2\]，加入大量針對中學生、大學生、家長及教師的節目，並且加入不少DJ主持，包括兼任校園台台長的著名教育工作者[莫鳳儀](../Page/莫鳳儀.md "wikilink")、前香港[滑浪風帆代表](../Page/滑浪風帆.md "wikilink")[陳敬然](../Page/陳敬然.md "wikilink")、[香港中文大學新聞及傳播學院院長](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")[馮應謙等](../Page/馮應謙.md "wikilink")。12月20日，「校園台」隨其餘六條頻道作官方正式開台。
 
 2014年11月10日，校園台進行了一次大規模的節目更新，不少節目皆被更換，當中涉及幼兒和家長題裁的均大幅減裁，體育類的節目更是全部換走；取而換之是更針對年青人潮流和個人成長的節目，如旅遊、飲食、同性群體、[性題裁等](https://zh.wikipedia.org/wiki/人類的性 "wikilink")。所有節目均設有獨立的[Facebook專頁](../Page/Facebook.md "wikilink")。
 

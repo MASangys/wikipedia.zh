@@ -83,8 +83,7 @@ Disc和](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")[DVD發售](https
 17. **[ふわふわ時間](../Page/輕飄飄時間.md "wikilink")**
       -
         歌＆演奏：放課後TEA TIME
-18. **[Don't say
-    "lazy"](https://zh.wikipedia.org/wiki/Don't_say_"lazy" "wikilink")**
+18. **[Don't say "lazy"](../Page/Don't_say_"lazy".md "wikilink")**
       -
         歌：放課後TEA TIME
 19. **[Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")**

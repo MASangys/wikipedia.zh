@@ -25,7 +25,7 @@ Gary的綽號多由其出演的節目《[Running Man](../Page/Running_Man.md "wi
   - 平和Gary：早期節目有拍照遊戲環節，節目組準備相機，遊戲參與者必須在快門按下的那刻，對準相機鏡頭成功入鏡。無論遊戲進行地多麼激烈，Gary總是能成功入鏡，且臉上的表情總是很平和，故稱「平和Gary」，如Ep5。另外，他很能忍痛和吃辣，但不能吃咸。
   - 大眾臉：因有許多人長相與Gary神似。在《[Running
     Man](../Page/Running_Man.md "wikilink")》中，劉在錫曾在泰國特輯與Gary擦身而過，但沒有認出Gary
-    (Ep51)。值得一提的是Gary與《[奔跑吧兄弟](https://zh.wikipedia.org/wiki/奔跑吧兄弟 "wikilink")》（中國版《Running
+    (Ep51)。值得一提的是Gary與《[奔跑吧兄弟](../Page/奔跑吧兄弟.md "wikilink")》（中國版《Running
     Man》）常駐隊員之一的[鄭愷不但長相非常相似](https://zh.wikipedia.org/wiki/鄭愷 "wikilink")，而且兩人的角色設定亦非常相近。
   - 直行Gary：節目環節需要找RM旗子或是關卡所在地時，Gary常常沒看到旗子或關卡所在地而一直線地奔跑，故稱「直行Gary」，如Ep66、121。他還一時興起創作了《直行頌》(Ep148)。
   - 最想擁有的男人：其組合[Leessang每次演出](../Page/Leessang.md "wikilink") Leessang
@@ -403,7 +403,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <tr class="odd">
 <td><p>10月31日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金諪恩的巧克力" title="wikilink">金諪恩的巧克力</a></p></td>
+<td><p><a href="../Page/金諪恩的巧克力.md" title="wikilink">金諪恩的巧克力</a></p></td>
 <td><p>77</p></td>
 <td><p><a href="../Page/Leessang.md" title="wikilink">Leessang成員</a><a href="../Page/吉成俊.md" title="wikilink">吉</a></p></td>
 <td></td>
@@ -645,7 +645,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <td><p>2015</p></td>
 <td><p>2月2日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Healing_Camp" title="wikilink">Healing Camp</a></p></td>
+<td><p><a href="../Page/Healing_Camp.md" title="wikilink">Healing Camp</a></p></td>
 <td><p>177</p></td>
 <td><p>（影片出演）</p></td>
 </tr>
@@ -676,7 +676,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <tr class="odd">
 <td><p>11月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尋笑人" title="wikilink">尋笑人</a></p></td>
+<td><p><a href="../Page/尋笑人.md" title="wikilink">尋笑人</a></p></td>
 <td></td>
 <td><p>(《<a href="../Page/Running_Man.md" title="wikilink">Running Man</a>》 Ep273 節目內任務)</p></td>
 <td></td>
@@ -685,7 +685,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <td><p>2016</p></td>
 <td><p>1月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/演藝家中介" title="wikilink">演藝家中介</a></p></td>
+<td><p><a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a></p></td>
 <td></td>
 <td><p><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a></p></td>
 </tr>
@@ -716,7 +716,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <tr class="even">
 <td><p>5月13日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奔跑吧兄弟" title="wikilink">奔跑吧兄弟4</a></p></td>
+<td><p><a href="../Page/奔跑吧兄弟.md" title="wikilink">奔跑吧兄弟4</a></p></td>
 <td><p>5</p></td>
 <td><p>(與《<a href="../Page/Running_Man.md" title="wikilink">Running Man</a>》全體成員共同出演)</p></td>
 <td></td>

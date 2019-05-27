@@ -1,4 +1,4 @@
-**4Minute(4M)**（）是[韓國娛樂公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Cube娛樂於](../Page/Cube娛樂.md "wikilink")2009年6月成立的五人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，成員包括[南智賢](https://zh.wikipedia.org/wiki/南智賢 "wikilink")、[許嘉允](../Page/許嘉允.md "wikilink")、[田祉潤](https://zh.wikipedia.org/wiki/田祉潤 "wikilink")、[金泫雅](../Page/金泫雅.md "wikilink")、[權昭賢](../Page/權昭賢.md "wikilink")。2009年6月18日，以首張單曲《Hot
+**4Minute(4M)**（）是[韓國娛樂公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Cube娛樂於](../Page/Cube娛樂.md "wikilink")2009年6月成立的五人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，成員包括[南智賢](https://zh.wikipedia.org/wiki/南智賢 "wikilink")、[許嘉允](../Page/許嘉允.md "wikilink")、[田祉潤](../Page/田祉潤.md "wikilink")、[金泫雅](../Page/金泫雅.md "wikilink")、[權昭賢](../Page/權昭賢.md "wikilink")。2009年6月18日，以首張單曲《Hot
 Issue》正式出道。
 
 團名的意義即在舞台上的4分鐘内展示她們每個人的不同魅力，另外，for (a) Minute也包含了她們希望在每個瞬間都會努力做到最好的意思。
@@ -62,7 +62,7 @@ Cream》的MV於10月22日發布，PSY為感謝泫雅先前參與《[江南Style
 ### 2013年：子團2Yoon出道、第四張迷你專輯《Name is 4minute》、Trouble Maker第二張迷你專輯《CHEMISTRY》
 
 在去年的12月25日，[Cube
-Entertainment社長在他的個人](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[Twitter中對外透露由成員](../Page/Twitter.md "wikilink")[嘉允和](../Page/許嘉允.md "wikilink")[祉潤組成的](https://zh.wikipedia.org/wiki/田祉潤 "wikilink")[2Yoon限定團體將於](../Page/2Yoon.md "wikilink")2013年1月推出，而當時專輯已在後製階段即將完成。2Yoon的首張迷你專輯《[Harvest
+Entertainment社長在他的個人](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[Twitter中對外透露由成員](../Page/Twitter.md "wikilink")[嘉允和](../Page/許嘉允.md "wikilink")[祉潤組成的](../Page/田祉潤.md "wikilink")[2Yoon限定團體將於](../Page/2Yoon.md "wikilink")2013年1月推出，而當時專輯已在後製階段即將完成。2Yoon的首張迷你專輯《[Harvest
 Moon](../Page/Harvest_Moon.md "wikilink")》於1月17日中午公開發售，MV於當日連同音源公開，主打曲《24/7》的音樂風格為Country
 Pop，由新沙洞老虎、金度勋及李尚浩聯手創作。
 
@@ -123,7 +123,7 @@ Crush）概念\[7\]。
 | 漢字                                                  |
 | [南智賢](https://zh.wikipedia.org/wiki/南智賢 "wikilink") |
 | [許嘉允](../Page/許嘉允.md "wikilink")                    |
-| [田祉潤](https://zh.wikipedia.org/wiki/田祉潤 "wikilink") |
+| [田祉潤](../Page/田祉潤.md "wikilink")                    |
 | [金泫雅](../Page/金泫雅.md "wikilink")                    |
 | [權昭賢](../Page/權昭賢.md "wikilink")                    |
 
@@ -629,7 +629,7 @@ Crush）概念\[7\]。
 <ul>
 <li>發行日期：2011年2月7日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>歌手：<a href="https://zh.wikipedia.org/wiki/田祉潤" title="wikilink">祉潤</a></li>
+<li>歌手：<a href="../Page/田祉潤.md" title="wikilink">祉潤</a></li>
 </ul></td>
 <td></td>
 </tr>

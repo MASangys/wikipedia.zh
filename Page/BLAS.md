@@ -1,5 +1,5 @@
 **BLAS**（Basic Linear Algebra
-Subprograms，基础线性代数程序集）是一个[应用程序接口](../Page/应用程序接口.md "wikilink")（API）标准，用以规范发布基础线性代数操作的数值库（如矢量或矩阵乘法）。该程序集最初发布于1979年，并用于建立更大的数值程序包（如[LAPACK](../Page/LAPACK.md "wikilink")）。在高性能计算领域，BLAS被广泛使用。例如，[LINPACK的运算成绩则很大程度上取决于BLAS中子程序](https://zh.wikipedia.org/wiki/LINPACK "wikilink")[DGEMM的表现](https://zh.wikipedia.org/wiki/DGEMM "wikilink")。
+Subprograms，基础线性代数程序集）是一个[应用程序接口](../Page/应用程序接口.md "wikilink")（API）标准，用以规范发布基础线性代数操作的数值库（如矢量或矩阵乘法）。该程序集最初发布于1979年，并用于建立更大的数值程序包（如[LAPACK](../Page/LAPACK.md "wikilink")）。在高性能计算领域，BLAS被广泛使用。例如，[LINPACK的运算成绩则很大程度上取决于BLAS中子程序](../Page/LINPACK.md "wikilink")[DGEMM的表现](https://zh.wikipedia.org/wiki/DGEMM "wikilink")。
 
 为提高性能，各軟硬件厂商则针对其產品对BLAS接口实现进行高度最佳化。
 
@@ -49,7 +49,7 @@ miss）而提高運算效能。\[2\] \[3\]
   - GSL: [GNU科学数值库](../Page/GNU.md "wikilink")（GNU Scientific
     Library）包含了[GNU下的多平台C语言实现](../Page/GNU.md "wikilink")。
   - RenderScript IntrinsicBLAS:
-    基于[Renderscript的](https://zh.wikipedia.org/wiki/Renderscript "wikilink")[Android移动终端高性能BLAS实现](../Page/Android.md "wikilink").
+    基于[Renderscript的](../Page/Renderscript.md "wikilink")[Android移动终端高性能BLAS实现](../Page/Android.md "wikilink").
     \[11\]
 
 ## 參考文獻

@@ -46,8 +46,7 @@
 
 #### 第2話
 
-  - **小宮山義彦（40） -
-    [杉本哲太](https://zh.wikipedia.org/wiki/杉本哲太 "wikilink")**
+  - **小宮山義彦（40） - [杉本哲太](../Page/杉本哲太.md "wikilink")**
   - **小宮山宏輔 - [小林海人](https://zh.wikipedia.org/wiki/小林海人 "wikilink")**
   - **小宮山律师事务所的秘書 - [中村友理](../Page/中村友理.md "wikilink")**
   - **柴田雄三 - [佐々木勝彦](https://zh.wikipedia.org/wiki/佐々木勝彦 "wikilink")**

@@ -33,7 +33,7 @@ with NAOMI CAMPBELL」的名義在1996年5月13日發行。
 
   - [本多RuRu](../Page/本多RuRu.md "wikilink")：收錄於《初心》日文專輯，2007年4月4日發行。\[3\]
 
-  - [三浦大知](https://zh.wikipedia.org/wiki/三浦大知 "wikilink")：收錄於[Live音樂會DVD](https://zh.wikipedia.org/wiki/音乐会#Live音乐会 "wikilink")－《》，2009年9月16日發行。
+  - [三浦大知](../Page/三浦大知.md "wikilink")：收錄於[Live音樂會DVD](https://zh.wikipedia.org/wiki/音乐会#Live音乐会 "wikilink")－《》，2009年9月16日發行。
 
   - ：收錄於[翻唱](https://zh.wikipedia.org/wiki/翻唱 "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")《》，2010年1月13日發行。
 

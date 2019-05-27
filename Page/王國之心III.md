@@ -38,11 +38,11 @@ One平台發售](../Page/Xbox_One.md "wikilink")\[11\]。
 
 2018年，[史克威爾艾尼克斯於美國洛杉磯舉行的](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")《王國之心》演奏會「KINGDOM
 HEARTS Orchestra -World
-Tour-」當中宣布《王國之心III》的發售日期。日本將在2019年1月25日發售，國際版則是在2019年1月29日發售\[12\]。11月21日，[Xbox官方](https://zh.wikipedia.org/wiki/Xbox "wikilink")[微博透露遊戲將會推出中文版](../Page/微博.md "wikilink")，隨後將內容修改成「语言支持待原厂后续公布」\[13\]。在Xbox修改內容之後，[SIE宣布](https://zh.wikipedia.org/wiki/SIE "wikilink")《王國之心III》將會推出中文版\[14\]。2019年1月25日，[橋本真司現身台北電玩展宣布PlayStation](https://zh.wikipedia.org/wiki/橋本真司 "wikilink")
+Tour-」當中宣布《王國之心III》的發售日期。日本將在2019年1月25日發售，國際版則是在2019年1月29日發售\[12\]。11月21日，[Xbox官方](../Page/Xbox.md "wikilink")[微博透露遊戲將會推出中文版](../Page/微博.md "wikilink")，隨後將內容修改成「语言支持待原厂后续公布」\[13\]。在Xbox修改內容之後，[SIE宣布](https://zh.wikipedia.org/wiki/SIE "wikilink")《王國之心III》將會推出中文版\[14\]。2019年1月25日，[橋本真司現身台北電玩展宣布PlayStation](https://zh.wikipedia.org/wiki/橋本真司 "wikilink")
 4平台繁體中文版的《王國之心III》將於5月23日發售\[15\]。
 
 雖然遊戲預計於PlayStation 4和Xbox
-One平台發售，但[野村哲也在接受](../Page/野村哲也.md "wikilink")[IGN採訪時表示可能會開發](../Page/IGN.md "wikilink")[任天堂Switch版的](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")《王國之心III》，但這些要等到PlayStation
+One平台發售，但[野村哲也在接受](../Page/野村哲也.md "wikilink")[IGN採訪時表示可能會開發](../Page/IGN.md "wikilink")[任天堂Switch版的](../Page/任天堂Switch.md "wikilink")《王國之心III》，但這些要等到PlayStation
 4和Xbox One平台的開發告一段落才會考慮\[16\]。
 
 本作於發售日的隔週全球出貨數即超過了500萬份。\[17\]

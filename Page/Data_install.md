@@ -71,7 +71,7 @@ Edition](../Page/Little_Busters!.md "wikilink")》的PSP版，於新聞稿表示
   - 11月1日 [女神異聞錄3
     Portable](https://zh.wikipedia.org/wiki/女神異聞錄3#Persona_3_PORTABLE "wikilink")（[ATLUS](https://zh.wikipedia.org/wiki/ATLUS "wikilink")）
   - 11月12日 [ja:Jリーグ プロサッカークラブをつくろう\!6 Pride of
-    J](https://zh.wikipedia.org/wiki/SEGA創造球會 "wikilink")（[世嘉公司](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink")）
+    J](../Page/SEGA創造球會.md "wikilink")（[世嘉公司](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink")）
   - 11月26日 [學園天堂 BOY'S LOVE
     SCRAMBLE\!](../Page/學園天堂.md "wikilink")（Prototype）
   - 11月26日 [寒蟬黎明 攜帶版 MEGA
