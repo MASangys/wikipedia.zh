@@ -233,7 +233,7 @@ project](../Page/OSTER_project.md "wikilink")，歌：Sweety
 <td><p>COLLECTION-1</p></td>
 <td><p>Sweet Little Devil</p></td>
 <td><p>甜蜜小惡魔</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/雜破業" title="wikilink">雜破業</a></p></td>
+<td><p><a href="../Page/雜破業.md" title="wikilink">雜破業</a></p></td>
 <td><p><a href="../Page/後藤圭二.md" title="wikilink">後藤圭二</a></p></td>
 <td><p>柴田勝紀</p></td>
 <td></td>
@@ -309,7 +309,7 @@ project](../Page/OSTER_project.md "wikilink")，歌：Sweety
 <td><p>Ambitious Princess-Ⅰ</p></td>
 <td><p>野心公主-Ⅰ</p></td>
 <td><p>新井輝</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佐藤雄三" title="wikilink">佐藤雄三</a></p></td>
+<td><p><a href="../Page/佐藤雄三.md" title="wikilink">佐藤雄三</a></p></td>
 <td><p>有富興二</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/龜谷響子" title="wikilink">龜谷響子</a><br />
 近藤奈都子</p></td>

@@ -80,8 +80,7 @@
     A02BA01 [西咪替丁](../Page/西咪替丁.md "wikilink")（Cimetidine）
     A02BA02 [雷尼替丁](../Page/雷尼替丁.md "wikilink")（Ranitidine）
     A02BA03 [法莫替丁](../Page/法莫替丁.md "wikilink")（Famotidine）
-    A02BA04
-    [尼扎替丁](https://zh.wikipedia.org/wiki/尼扎替丁 "wikilink")（Nizatidine）
+    A02BA04 [尼扎替丁](../Page/尼扎替丁.md "wikilink")（Nizatidine）
     A02BA05
     [尼培替丁](https://zh.wikipedia.org/wiki/尼培替丁 "wikilink")（Niperotidine）
     A02BA06
@@ -101,8 +100,7 @@
 ### A02BB 前列腺素类（Prostaglandins）
 
   -
-    A02BB01
-    [米索前列醇](https://zh.wikipedia.org/wiki/米索前列醇 "wikilink")（Misoprostol）
+    A02BB01 [米索前列醇](../Page/米索前列醇.md "wikilink")（Misoprostol）
     A02BB02 [恩前列素](../Page/恩前列素.md "wikilink")（Enprostil）
 
 ### A02BC 质子泵抑制药（Proton pump inhibitors）

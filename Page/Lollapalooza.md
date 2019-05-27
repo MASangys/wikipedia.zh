@@ -1,7 +1,7 @@
 **Lollapalooza**音乐节
 ()是每年举办的[音乐节](https://zh.wikipedia.org/wiki/音乐节 "wikilink")，它的音乐类型包括[另类摇滚](../Page/另类摇滚.md "wikilink"),
 [重金属](../Page/重金属音乐.md "wikilink"),[朋克摇滚](https://zh.wikipedia.org/wiki/朋克摇滚 "wikilink")，[嘻哈](../Page/嘻哈.md "wikilink"),[舞曲](../Page/舞曲.md "wikilink")，[喜剧表演等](https://zh.wikipedia.org/wiki/喜剧 "wikilink")。它也会为非公益和政治团体开放平台。在为期三天的音乐节上会有超过160,000人参与。
-Lollapalooza音乐节以丰富多样的众多乐队而著名，包括[Migos](https://zh.wikipedia.org/wiki/Migos "wikilink"),
+Lollapalooza音乐节以丰富多样的众多乐队而著名，包括[Migos](../Page/Migos.md "wikilink"),
 [Metallica](https://zh.wikipedia.org/wiki/Metallica "wikilink"),
 [Coldplay](https://zh.wikipedia.org/wiki/Coldplay "wikilink"),
 [Eminem](../Page/Eminem.md "wikilink"), [Depeche

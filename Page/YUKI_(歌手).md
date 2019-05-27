@@ -143,7 +143,7 @@ MARY主唱](../Page/JUDY_AND_MARY.md "wikilink")。出身於[北海道](../Page/
 <!-- end list -->
 
   - 在电台节目「YUKI的All Night
-    Nippon」尚未正式担任夜间时段之前，YUKI经常在节目内说出禁止播放的用语。从节目开始后就一直说很喜欢后来成为了她丈夫的真心兄弟的倉持阳一。倉持阳一也出席过这个电台节目。YUKI曾经表示,虽然获得了oricon榜单的第一位,但也感受到了压力，而[布袋寅泰则说了](https://zh.wikipedia.org/wiki/布袋寅泰 "wikilink")「那样的榜单全部都是骗人的。所以你不要在意尽管继续做自己的音乐就好了（あんなチャートは全部インチキだ。だから、気にしないで自分なりの音楽を続ければいい）」这样微妙的话，YUKI表示面对音乐榜单的压迫感都快受不了了。担任清晨时段的时候经常有TAKUYA乱入，和YUKI成为二人模式。1996年3月22日举行的「海道北男フェスティバル」中，在日本放送银河演播室募集了60名听众进行了公开放送。
+    Nippon」尚未正式担任夜间时段之前，YUKI经常在节目内说出禁止播放的用语。从节目开始后就一直说很喜欢后来成为了她丈夫的真心兄弟的倉持阳一。倉持阳一也出席过这个电台节目。YUKI曾经表示,虽然获得了oricon榜单的第一位,但也感受到了压力，而[布袋寅泰则说了](../Page/布袋寅泰.md "wikilink")「那样的榜单全部都是骗人的。所以你不要在意尽管继续做自己的音乐就好了（あんなチャートは全部インチキだ。だから、気にしないで自分なりの音楽を続ければいい）」这样微妙的话，YUKI表示面对音乐榜单的压迫感都快受不了了。担任清晨时段的时候经常有TAKUYA乱入，和YUKI成为二人模式。1996年3月22日举行的「海道北男フェスティバル」中，在日本放送银河演播室募集了60名听众进行了公开放送。
 
 ## 作品簡介
 
@@ -293,14 +293,14 @@ YUKI的音樂錄像充滿著她的獨特風格，曾數次取得SPACE SHOWER Mus
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2002年3月6日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/三棱镜_(YUKI的单曲)" title="wikilink">プリズム</a></strong></p></td>
+<td><p><strong><a href="../Page/三棱镜_(YUKI的单曲).md" title="wikilink">プリズム</a></strong></p></td>
 <td><p>ESCL-2298</p></td>
 <td><p>11位</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>2002年6月5日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/66db" title="wikilink">66db</a></strong></p></td>
+<td><p><strong><a href="../Page/66db.md" title="wikilink">66db</a></strong></p></td>
 <td><p>ESCL-2312</p></td>
 <td><p>30位</p></td>
 </tr>
@@ -314,7 +314,7 @@ YUKI的音樂錄像充滿著她的獨特風格，曾數次取得SPACE SHOWER Mus
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2003年2月19日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Sentimental_Journey_(YUKI的单曲)" title="wikilink">センチメンタルジャーニー</a></strong></p></td>
+<td><p><strong><a href="../Page/Sentimental_Journey_(YUKI的单曲).md" title="wikilink">センチメンタルジャーニー</a></strong></p></td>
 <td><p>ESCL-2388</p></td>
 <td><p>17位</p></td>
 </tr>
@@ -328,7 +328,7 @@ YUKI的音樂錄像充滿著她的獨特風格，曾數次取得SPACE SHOWER Mus
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>2004年8月18日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Home_Sweet_Home_(YUKI的单曲)" title="wikilink">Home Sweet Home</a></strong></p></td>
+<td><p><strong><a href="../Page/Home_Sweet_Home_(YUKI的单曲).md" title="wikilink">Home Sweet Home</a></strong></p></td>
 <td><p>ESCL-2735（<a href="https://zh.wikipedia.org/wiki/コピーコントロールCD" title="wikilink">CCCD</a>）<br />
 ESCL-2601（<a href="https://zh.wikipedia.org/wiki/CD-DA" title="wikilink">CD-DA</a>）</p></td>
 <td><p>9位</p></td>
@@ -344,14 +344,14 @@ ESCL-2739（CD-DA）</p></td>
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p>2005年1月19日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/JOY_(YUKI的单曲)" title="wikilink">JOY</a></strong></p></td>
+<td><p><strong><a href="../Page/JOY_(YUKI的单曲).md" title="wikilink">JOY</a></strong></p></td>
 <td><p>ESCL-2618</p></td>
 <td><p>10位</p></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
 <td><p>2005年4月27日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/长长的梦_(YUKI的单曲)" title="wikilink">長い夢</a></strong></p></td>
+<td><p><strong><a href="../Page/长长的梦_(YUKI的单曲).md" title="wikilink">長い夢</a></strong></p></td>
 <td><p>ESCL-2651</p></td>
 <td><p>4位</p></td>
 </tr>
@@ -365,7 +365,7 @@ ESCL-2739（CD-DA）</p></td>
 <tr class="even">
 <td><p>12th</p></td>
 <td><p>2005年9月7日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/欢乐的种子_(YUKI的单曲)" title="wikilink">歓びの種</a></strong></p></td>
+<td><p><strong><a href="../Page/欢乐的种子_(YUKI的单曲).md" title="wikilink">歓びの種</a></strong></p></td>
 <td><p>ESCL-2706</p></td>
 <td><p>5位</p></td>
 </tr>
@@ -529,7 +529,7 @@ ESCL-4094（通常盤）</p></td>
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2002年3月27日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/PRISMIC" title="wikilink">PRISMIC</a></strong></p></td>
+<td><p><strong><a href="../Page/PRISMIC.md" title="wikilink">PRISMIC</a></strong></p></td>
 <td><p>ESCL-2300</p></td>
 <td><p>3位</p></td>
 </tr>

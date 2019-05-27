@@ -1,4 +1,4 @@
-**RG-6**（；\[1\][俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）是一款由[前苏联](../Page/苏联.md "wikilink")（TsKIB
+**RG-6**（；\[1\][俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）是一款由[前苏联](../Page/苏联.md "wikilink")（TsKIB
 SOO）所研製、現在由俄罗斯[KBP儀器設計廠所生產的輕型](../Page/俄联邦仪器设计局.md "wikilink")[雙動操作](https://zh.wikipedia.org/wiki/扳機 "wikilink")6連發[轉輪式](https://zh.wikipedia.org/wiki/榴弹发射器#转轮式榴弹发射器 "wikilink")[肩射型](https://zh.wikipedia.org/wiki/榴彈發射器#肩射型 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射。
 
 ## 歷史
@@ -88,7 +88,7 @@ RG-6發射的榴彈除了VOG-25（）和VOG-25P（）兩種外，還有其訓練
   - [LG4轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/LG4轉輪式榴彈發射器 "wikilink")
   - \-{[米尔科姆转轮连发式榴弹发射器](../Page/米尔科姆转轮连发式榴弹发射器.md "wikilink")}-
   - [MM-1轉輪式榴彈發射器](../Page/MM-1轉輪式榴彈發射器.md "wikilink")
-  - [RGA-86轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/RGA-86轉輪式榴彈發射器 "wikilink")
+  - [RGA-86轉輪式榴彈發射器](../Page/RGA-86轉輪式榴彈發射器.md "wikilink")
   - [RGP-40轉輪式榴彈發射器](../Page/RGP-40轉輪式榴彈發射器.md "wikilink")
   - [RH-ALAN
     RBG-6轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/RH-ALAN_RBG-6轉輪式榴彈發射器 "wikilink")
@@ -97,7 +97,7 @@ RG-6發射的榴彈除了VOG-25（）和VOG-25P（）兩種外，還有其訓練
   - [06式半自動榴彈發射器](../Page/06式半自動榴彈發射器.md "wikilink")
   - [CZW
     RAG-30自动榴弹发射器](https://zh.wikipedia.org/wiki/CZW_RAG-30自动榴弹发射器 "wikilink")
-  - [丹尼爾PAW-20半自動榴彈發射器](https://zh.wikipedia.org/wiki/丹尼爾PAW-20半自動榴彈發射器 "wikilink")
+  - [丹尼爾PAW-20半自動榴彈發射器](../Page/丹尼爾PAW-20半自動榴彈發射器.md "wikilink")
   - [XM25反防禦目標應對系統](../Page/XM25反防禦目標應對系統.md "wikilink")
   - [左輪手槍](https://zh.wikipedia.org/wiki/左輪手槍 "wikilink")
   - [前鋒型霰彈槍](../Page/前鋒型霰彈槍.md "wikilink")

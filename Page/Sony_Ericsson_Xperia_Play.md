@@ -11,7 +11,7 @@ Sony Ericsson Xperia Play 採用側面滑動式設計，與 [Xperia
 X10](../Page/Sony_Ericsson_Xperia_X10.md "wikilink")
 的設計相近，但顯示屏滑動後會呈現遊戲控制按鍵。左面設有
 [D-pad](https://zh.wikipedia.org/wiki/D-pad "wikilink") 方向按鍵，右面則設有標準
-[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink") 遊戲鍵
+[PlayStation](../Page/PlayStation.md "wikilink") 遊戲鍵
 ([PlayStationTriangle.svg](https://zh.wikipedia.org/wiki/File:PlayStationTriangle.svg "fig:PlayStationTriangle.svg"),
 [PlayStationCircle.svg](https://zh.wikipedia.org/wiki/File:PlayStationCircle.svg "fig:PlayStationCircle.svg"),
 [PlayStationX.svg](https://zh.wikipedia.org/wiki/File:PlayStationX.svg "fig:PlayStationX.svg")

@@ -122,7 +122,7 @@ FIRST PERSONA ASIA TOUR亞洲巡迴演唱會》正如火如荼的進行中。
 <p>2009年10月20日</p>
 </center></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></p>
+<p><a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p>
 </center></td>
 <td><center>
 <p>CD</p>
@@ -167,7 +167,7 @@ FIRST PERSONA ASIA TOUR亞洲巡迴演唱會》正如火如荼的進行中。
 <p>2009年10月22日</p>
 </center></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></p>
+<p><a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p>
 </center></td>
 <td><center>
 <p>CD</p>

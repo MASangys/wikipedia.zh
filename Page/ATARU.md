@@ -17,7 +17,7 @@
 
   -
     又名冒失鬼\[1\]（チョコザイ）。是一名患有[學者症候群](../Page/學者症候群.md "wikilink")（Savant
-    Syndrome）的自閉症青年，擁有過人的記憶力及超強的理解力，並且精通各國[語言](https://zh.wikipedia.org/wiki/語言 "wikilink")。
+    Syndrome）的自閉症青年，擁有過人的記憶力及超強的理解力，並且精通各國[語言](../Page/語言.md "wikilink")。
 
 <!-- end list -->
 
@@ -92,7 +92,7 @@
 <!-- end list -->
 
   - 渥見怜志 -
-    [田中哲司](https://zh.wikipedia.org/wiki/田中哲司 "wikilink")（香港配音：[古明華](../Page/古明華.md "wikilink")→[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
+    [田中哲司](../Page/田中哲司.md "wikilink")（香港配音：[古明華](../Page/古明華.md "wikilink")→[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
 
 <!-- end list -->
 
@@ -154,7 +154,7 @@
 <!-- end list -->
 
   - 水野流美 -
-    [島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")（AKB48）（特別篇）（香港配音：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")）
+    [島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")（AKB48）（特別篇）（香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")）
 
 <!-- end list -->
 
@@ -220,9 +220,9 @@
   - 早乙女隆 -
     [神尾佑](https://zh.wikipedia.org/wiki/神尾佑 "wikilink")（香港配音：[雷霆](../Page/雷霆.md "wikilink")）
   - 早乙女信子 -
-    [坂井真紀](https://zh.wikipedia.org/wiki/坂井真紀 "wikilink")（香港配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
+    [坂井真紀](../Page/坂井真紀.md "wikilink")（香港配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
   - 莊田美咲 -
-    [陽月華](https://zh.wikipedia.org/wiki/陽月華 "wikilink")（香港配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
+    [陽月華](../Page/陽月華.md "wikilink")（香港配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
   - 增本治 -
     [金山一彥](https://zh.wikipedia.org/wiki/金山一彥 "wikilink")（香港配音：[陳曙光](../Page/陳曙光.md "wikilink")）
   - 增本三枝 -

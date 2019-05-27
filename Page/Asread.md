@@ -504,7 +504,7 @@ Twinkle負責統包。
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Soul_Eater_Not!" title="wikilink">Soul Eater Not!</a></p></td>
+<td><p><a href="../Page/Soul_Eater_Not!.md" title="wikilink">Soul Eater Not!</a></p></td>
 <td></td>
 <td><p>BONES</p></td>
 <td><p>各話協力製作</p></td>

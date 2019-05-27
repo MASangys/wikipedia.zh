@@ -25,7 +25,7 @@ CLUB限定人氣投票結果選出的大熱歌曲](https://zh.wikipedia.org/wiki
 
 ### 支援樂手
 
-  - [增田隆宣](https://zh.wikipedia.org/wiki/增田隆宣 "wikilink")：[鍵盤手](../Page/鍵盤樂器.md "wikilink")
+  - [增田隆宣](../Page/增田隆宣.md "wikilink")：[鍵盤手](../Page/鍵盤樂器.md "wikilink")
 
   - ：[鼓手](../Page/爵士鼓.md "wikilink")
 
@@ -134,8 +134,7 @@ Letterbox方式制作。
 6.  **[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")**
       -
         同年發售的單曲，也是本場LIVE的標題曲。稻葉從「ZERO」開始到本曲幾乎沒停頓過。
-7.  **[BAD
-    COMMUNICATION](https://zh.wikipedia.org/wiki/BAD_COMMUNICATION "wikilink")**
+7.  **[BAD COMMUNICATION](../Page/BAD_COMMUNICATION.md "wikilink")**
       -
         收錄於89年發售的同名[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。結尾是大雨中狂亂的表演，還有再現了「B'z
         LIVE-GYM Pleasure '93 JAP THE

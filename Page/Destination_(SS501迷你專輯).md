@@ -148,7 +148,7 @@ EDITION裏以所謂善與悪的(SM)型式呈現，而NORMAL以整體線條優美
 <p>2010年5月24日</p>
 </center></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></p>
+<p><a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p>
 </center></td>
 <td><center>
 <p>CD</p>
@@ -193,7 +193,7 @@ EDITION裏以所謂善與悪的(SM)型式呈現，而NORMAL以整體線條優美
 <p>2010年5月24日</p>
 </center></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></p>
+<p><a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p>
 </center></td>
 <td><center>
 <p>CD</p>

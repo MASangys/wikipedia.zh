@@ -53,7 +53,7 @@ PL1型蒸汽機車之前身為南滿州鐵道Purei（プレイ）型 \[2\] ，�
 
 ### 保存車輛
 
-PL1-220（[沈阳铁路陈列馆](https://zh.wikipedia.org/wiki/沈阳铁路陈列馆 "wikilink")）
+PL1-220（[沈阳铁路陈列馆](../Page/沈阳铁路陈列馆.md "wikilink")）
 
 ## PL2型
 

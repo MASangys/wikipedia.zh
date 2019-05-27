@@ -1,4 +1,4 @@
-**MTV歐洲**（）是一個於1987年8月1日建立的[泛歐洲](https://zh.wikipedia.org/wiki/泛歐洲 "wikilink")24小時[娛樂台和電視頻道](https://zh.wikipedia.org/wiki/娛樂 "wikilink")。起初，該頻道覆蓋歐洲一切地區，成為當時極少數頻道能覆蓋歐洲一切地區。現今，該頻道只覆蓋歐洲一部份地區，全因[MTV歐洲網絡開始於](https://zh.wikipedia.org/wiki/MTV歐洲網絡 "wikilink")1997年重整其網絡。
+**MTV歐洲**（）是一個於1987年8月1日建立的[泛歐洲](https://zh.wikipedia.org/wiki/泛歐洲 "wikilink")24小時[娛樂台和電視頻道](../Page/娛樂.md "wikilink")。起初，該頻道覆蓋歐洲一切地區，成為當時極少數頻道能覆蓋歐洲一切地區。現今，該頻道只覆蓋歐洲一部份地區，全因[MTV歐洲網絡開始於](https://zh.wikipedia.org/wiki/MTV歐洲網絡 "wikilink")1997年重整其網絡。
 
 MTV歐洲起初是以合作形式運作，合作兩方為[維亞康姆以及](../Page/維亞康姆.md "wikilink")[英國電信](../Page/英國電信.md "wikilink")，直至1991年，維亞康姆獲得其全權。\[1\]
 MTV歐洲現全部為[MTV歐洲網絡所擁有](https://zh.wikipedia.org/wiki/MTV歐洲網絡 "wikilink")。

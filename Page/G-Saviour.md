@@ -49,7 +49,7 @@
     技术者集团 Saviour
     Team的工程师。议会军に[ブグを提供した一方で](https://zh.wikipedia.org/wiki/议会军の機動兵器#ブグ "wikilink")、イルミナーティにもGセイバーや[イリュージョン（Iセイバー）を開発](https://zh.wikipedia.org/wiki/セイバーシリーズ#イリュージョン（Iセイバー） "wikilink")・提供し、協力する。彼等セイバーチームのおかげで、イルミナーティは本格的な有事に対処できるだけの戦力を確保できた。本編未登場。
   - コンピューター
-    声 - ?／?／[山口隆行](https://zh.wikipedia.org/wiki/山口隆行 "wikilink")
+    声 - ?／?／[山口隆行](../Page/山口隆行.md "wikilink")
 
 ### セツルメント国家议会军
 
@@ -62,7 +62,7 @@
     议会军情报部下属白人女性。马克的恋人。议会军の戦略立案員のポストを狙っており、マークに口添えを頼んだり、パーティー会場でのマークの反抗的態度を諫める。ガーノー総督を信頼していたが、彼が生物発光体サンプルを活かす気が全くないことを知り、その考えを大きく変える。
   - ガーノー（Garneaux）
     扮演者：[Kenneth
-    Welsh](https://zh.wikipedia.org/wiki/Kenneth_Welsh "wikilink")，配音演员：?／[ラサール石井](https://zh.wikipedia.org/wiki/ラサール石井 "wikilink")／[糸博](https://zh.wikipedia.org/wiki/糸博 "wikilink")（サウンドシネマ版）
+    Welsh](https://zh.wikipedia.org/wiki/Kenneth_Welsh "wikilink")，配音演员：?／[ラサール石井](https://zh.wikipedia.org/wiki/ラサール石井 "wikilink")／[糸博](../Page/糸博.md "wikilink")（サウンドシネマ版）
     议会军总督（DVD中错写为“总监”）。白人男性。SIDE
     GAIAを占領して地球圏の食糧供給を支配し、そして地球圏そのものを支配しようとする。
   - ティム・ハロウェイ
@@ -94,10 +94,10 @@
     扮演者：ナームア・デラニー
 
   - バーテンダー
-    扮演者：クリストファー・シャイヤー，配音演员：?／[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")
+    扮演者：クリストファー・シャイヤー，配音演员：?／[梁田清之](../Page/梁田清之.md "wikilink")
 
   - ウェイトレス
-    扮演者：?，配音演员：?／[丹羽紫保里](https://zh.wikipedia.org/wiki/丹羽紫保里 "wikilink")
+    扮演者：?，配音演员：?／[丹羽紫保里](../Page/丹羽紫保里.md "wikilink")
 
   - ニュースキャスター2
     扮演者：エド・ワトソン，配音演员：?／[宗矢樹頼](https://zh.wikipedia.org/wiki/宗矢樹頼 "wikilink")

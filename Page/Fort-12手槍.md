@@ -15,7 +15,7 @@
 
 目前，Fort-12被烏克蘭多個執法部門所使用，包括[警察](../Page/警察.md "wikilink")、[特警隊](https://zh.wikipedia.org/wiki/特警隊 "wikilink")、軍隊及等，更在[俄羅斯本土生產](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。
 
-[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")（部份是繼承自[克里米亞共和國的舊](https://zh.wikipedia.org/wiki/克里米亞共和國 "wikilink")[金鵰特種部隊](../Page/金鵰特種部隊.md "wikilink")）及[烏茲別克也有採用](https://zh.wikipedia.org/wiki/烏茲別克 "wikilink")。Fort-12有向民間市場發售，不過民用型只能發射如橡膠彈或[催淚彈等非致命彈藥](../Page/催淚彈.md "wikilink")。
+[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")（部份是繼承自[克里米亞共和國的舊](../Page/克里米亞共和國.md "wikilink")[金鵰特種部隊](../Page/金鵰特種部隊.md "wikilink")）及[烏茲別克也有採用](https://zh.wikipedia.org/wiki/烏茲別克 "wikilink")。Fort-12有向民間市場發售，不過民用型只能發射如橡膠彈或[催淚彈等非致命彈藥](../Page/催淚彈.md "wikilink")。
 
 ## 獎勵
 
@@ -59,7 +59,7 @@ Fort-12唯一比較顯眼的缺陷就是缺乏一個安全的退彈系統。
   - [CZ 75手槍](../Page/CZ_75手槍.md "wikilink")
   - [QSZ-92](../Page/92式手槍.md "wikilink")
   - [馬卡洛夫手槍](../Page/馬卡洛夫手槍.md "wikilink")
-  - [扎斯塔瓦CZ 99手槍](https://zh.wikipedia.org/wiki/扎斯塔瓦CZ_99手槍 "wikilink")
+  - [扎斯塔瓦CZ 99手槍](../Page/扎斯塔瓦CZ_99手槍.md "wikilink")
   - [WIST-94手槍](../Page/WIST-94手槍.md "wikilink")
   - [MAG-95手槍](../Page/MAG-95手槍.md "wikilink")
 

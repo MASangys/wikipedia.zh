@@ -165,7 +165,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2014年9月27日－2014年12月26日<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/最佳婚姻" title="wikilink">最佳婚姻</a><br />
+<td style="text-align: center;"><p><a href="../Page/最佳婚姻.md" title="wikilink">最佳婚姻</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/朴時妍.md" title="wikilink">朴時妍</a>、<a href="../Page/裴秀彬.md" title="wikilink">裴秀彬</a>、<a href="https://zh.wikipedia.org/wiki/魯敏宇" title="wikilink">魯敏宇</a>、<a href="../Page/嚴賢璟.md" title="wikilink">嚴賢璟</a></p></td>
@@ -204,11 +204,11 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2018年3月3日－2018年5月6日<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/大君－繪製愛情" title="wikilink">大君－繪製愛情</a><br />
+<td style="text-align: center;"><p><a href="../Page/大君－繪製愛情.md" title="wikilink">大君－繪製愛情</a><br />
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/尹施允.md" title="wikilink">尹施允</a>、<a href="../Page/陳世娫.md" title="wikilink">陳世娫</a>、<a href="../Page/朱相昱.md" title="wikilink">朱相昱</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金政珉" title="wikilink">金政珉</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金政珉.md" title="wikilink">金政珉</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/趙賢慶" title="wikilink">趙賢慶</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -243,7 +243,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年1月27日－2019年<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Babel_(電視劇)" title="wikilink">Babel</a><br />
+<td style="text-align: center;"><p><a href="../Page/Babel_(電視劇).md" title="wikilink">Babel</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/朴施厚.md" title="wikilink">朴施厚</a>、<a href="../Page/張熙軫.md" title="wikilink">張熙軫</a>、<a href="../Page/金智勳.md" title="wikilink">金智勳</a>、<a href="../Page/張伸瑛.md" title="wikilink">張伸瑛</a></p></td>

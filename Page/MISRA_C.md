@@ -41,7 +41,7 @@ C的一些規則是針對運算符的限制，例如MISRA-C:2004的規則12.10�
 
   - \[11\]
 
-  - [Polyspace](https://zh.wikipedia.org/wiki/Polyspace "wikilink")\[12\]
+  - [Polyspace](../Page/Polyspace.md "wikilink")\[12\]
 
   - \[13\]
 

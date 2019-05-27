@@ -1,5 +1,5 @@
 《**a BEAUTIFUL REEL. B'z LIVE-GYM 2002 GREEN
-〜GO★FIGHT★WIN〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z於](../Page/B'z.md "wikilink")[2002年](../Page/2002年.md "wikilink")[11月27日發行的第](../Page/11月27日.md "wikilink")7張影像作品（作為VHS是第7張，作為DVD是第5張）。
+〜GO★FIGHT★WIN〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z於](../Page/B'z.md "wikilink")[2002年](../Page/2002年.md "wikilink")[11月27日發行的第](../Page/11月27日.md "wikilink")7張影像作品（作為VHS是第7張，作為DVD是第5張）。
 
 ## 演奏
 
@@ -10,7 +10,7 @@
 
 ### 支援樂手
 
-  - [增田隆宣](https://zh.wikipedia.org/wiki/增田隆宣 "wikilink")：[電子琴](../Page/電子琴.md "wikilink")
+  - [增田隆宣](../Page/增田隆宣.md "wikilink")：[電子琴](../Page/電子琴.md "wikilink")
 
   - ：[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")
 
@@ -73,7 +73,7 @@ Angel)，在HALL公演上的「[ながい愛](https://zh.wikipedia.org/wiki/Brot
 11. **[DEVIL](https://zh.wikipedia.org/wiki/DEVIL#收錄曲 "wikilink")**
       -
         自舞台前方及後方噴出火焰，亦從組成人形的11座巨大[桁架](../Page/桁架_\(工程\).md "wikilink")『ROCK
-        MAN』（）身上噴出火花。此外，在樂曲結尾加入了來自[增田隆宣的電子琴SOLO演奏](https://zh.wikipedia.org/wiki/增田隆宣 "wikilink")。
+        MAN』（）身上噴出火花。此外，在樂曲結尾加入了來自[增田隆宣的電子琴SOLO演奏](../Page/增田隆宣.md "wikilink")。
 12. **[Everlasting](https://zh.wikipedia.org/wiki/GREEN_\(B'z專輯\)#收錄曲 "wikilink")**
 13. **[FIREBALL](../Page/FIREBALL.md "wikilink")**
       -

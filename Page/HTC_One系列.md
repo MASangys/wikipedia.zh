@@ -1,7 +1,7 @@
 **HTC
 One系列**是[宏達電旗下的旗艦](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機產品系列](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，第一款產品為[HTC
 One S](../Page/HTC_One_S.md "wikilink")，後繼系列為[HTC
-U系列](https://zh.wikipedia.org/wiki/HTC_U系列 "wikilink")。
+U系列](../Page/HTC_U系列.md "wikilink")。
 
 ## 旗下產品
 
@@ -26,10 +26,8 @@ U系列](https://zh.wikipedia.org/wiki/HTC_U系列 "wikilink")。
   - [One
     (E8)（One時尚版）](https://zh.wikipedia.org/wiki/HTC_One_\(E8\) "wikilink")
   - [One (M8)（One (M8) Google Play Edition·One (M8) Harman Kardon
-    Edition·One (M8 Eye)·One
-    M8S）](https://zh.wikipedia.org/wiki/HTC_One_\(M8\) "wikilink")
-  - [One Mini 2（One
-    Remix）](https://zh.wikipedia.org/wiki/HTC_One_Mini_2 "wikilink")
+    Edition·One (M8 Eye)·One M8S）](../Page/HTC_One_\(M8\).md "wikilink")
+  - [One Mini 2（One Remix）](../Page/HTC_One_Mini_2.md "wikilink")
   - [One A9](../Page/HTC_One_A9.md "wikilink")
   - [One A9s](https://zh.wikipedia.org/wiki/HTC_One_A9s "wikilink")
   - [One E9（One
@@ -63,8 +61,8 @@ U系列](https://zh.wikipedia.org/wiki/HTC_U系列 "wikilink")。
 <th><p><a href="https://zh.wikipedia.org/wiki/HTC_One_(2013)" title="wikilink">HTC One (2013)</a></p></th>
 <th><p><a href="../Page/HTC_One_Mini.md" title="wikilink">HTC One Mini</a>[9]</p></th>
 <th><p><a href="../Page/HTC_One_Max.md" title="wikilink">HTC One Max</a>[10]</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/HTC_One_(M8)" title="wikilink">HTC One (M8)</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/HTC_One_Mini_2" title="wikilink">HTC One Mini 2</a></p></th>
+<th><p><a href="../Page/HTC_One_(M8).md" title="wikilink">HTC One (M8)</a></p></th>
+<th><p><a href="../Page/HTC_One_Mini_2.md" title="wikilink">HTC One Mini 2</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -192,18 +190,18 @@ N/A (Windows Phone 8.1 Update 1)</p></td>
 </tr>
 <tr class="odd">
 <td><p>CPU</p></td>
-<td><p>1 GHz single-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="https://zh.wikipedia.org/wiki/Scorpion_(CPU)" title="wikilink">Scorpion</a></p></td>
-<td><p>1.2 GHz dual core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait</a></p></td>
-<td><p>1.5 GHz dual-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait</a></p></td>
-<td><p>1.7 GHz dual-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="https://zh.wikipedia.org/wiki/Scorpion_(CPU)" title="wikilink">Scorpion</a><br />
+<td><p>1 GHz single-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="../Page/Scorpion_(CPU).md" title="wikilink">Scorpion</a></p></td>
+<td><p>1.2 GHz dual core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="../Page/Krait_(CPU).md" title="wikilink">Krait</a></p></td>
+<td><p>1.5 GHz dual-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="../Page/Krait_(CPU).md" title="wikilink">Krait</a></p></td>
+<td><p>1.7 GHz dual-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="../Page/Scorpion_(CPU).md" title="wikilink">Scorpion</a><br />
 (Modified performance up to Snapdragon S4)</p></td>
 <td><p>1.5 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A9" title="wikilink">ARM Cortex-A9</a></p></td>
-<td><p>1.5 GHz dual-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait</a></p></td>
+<td><p>1.5 GHz dual-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="../Page/Krait_(CPU).md" title="wikilink">Krait</a></p></td>
 <td><p>1.7 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A9" title="wikilink">ARM Cortex-A9</a></p></td>
-<td><p>1.7 GHz quad-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait 300</a></p></td>
-<td><p>1.4 GHz dual-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait 300</a></p></td>
-<td><p>1.7 GHz quad-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait 300</a></p></td>
-<td><p>2.3 GHz (International)/ 2.5 GHz (Asia) quad-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait 400</a></p></td>
+<td><p>1.7 GHz quad-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="../Page/Krait_(CPU).md" title="wikilink">Krait 300</a></p></td>
+<td><p>1.4 GHz dual-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="../Page/Krait_(CPU).md" title="wikilink">Krait 300</a></p></td>
+<td><p>1.7 GHz quad-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="../Page/Krait_(CPU).md" title="wikilink">Krait 300</a></p></td>
+<td><p>2.3 GHz (International)/ 2.5 GHz (Asia) quad-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="../Page/Krait_(CPU).md" title="wikilink">Krait 400</a></p></td>
 <td><p>1.2 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A7" title="wikilink">ARM Cortex-A7</a></p></td>
 <td></td>
 </tr>

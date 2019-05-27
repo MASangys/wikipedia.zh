@@ -9,7 +9,7 @@ Mali显示芯片系列，该部门的前身是**Falanx**。
 cores）嵌入式技术的3D显示芯片一样，Mali显示芯片组没有提供特别用来驱动LCD显示器显示图像的[显示控制器](https://zh.wikipedia.org/wiki/显示控制器 "wikilink")（类似于[显卡](https://zh.wikipedia.org/wiki/显卡 "wikilink")），相反地，它是一个纯3D显示引擎，它将图像载入到缓存中，并且由专门负责图像显示处理的内置显示核心来显示这些图像。
 
 其内置的那些不同渲染API，例如[OpenGL
-ES](../Page/OpenGL_ES.md "wikilink")、[OpenVG等等](https://zh.wikipedia.org/wiki/OpenVG "wikilink")，都实现了[shader图像处理程序](https://zh.wikipedia.org/wiki/shader "wikilink")。ARM还提供了开发工具用来进行针对其显示芯片的处理，如**Mali
+ES](../Page/OpenGL_ES.md "wikilink")、[OpenVG等等](../Page/OpenVG.md "wikilink")，都实现了[shader图像处理程序](https://zh.wikipedia.org/wiki/shader "wikilink")。ARM还提供了开发工具用来进行针对其显示芯片的处理，如**Mali
 GPU Shader Development Studio**和**Mali GPU User Interface Engine**。
 
 ## 型号
@@ -27,13 +27,13 @@ Mali显示芯片组改进自Falanx公司研发生产的显示技术芯片组，�
 <th><p>芯片面积(mm<sup>2</sup>)</p></th>
 <th><p>时钟(<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></th>
 <th><p><a href="../Page/CPU缓存.md" title="wikilink">二级缓存大小</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>总线带宽(<a href="../Page/字节.md" title="wikilink">字节</a>)</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/FLOPS" title="wikilink">GFLOPS</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/API" title="wikilink">API</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/乘积累加" title="wikilink">乘积累加</a></p></th>
 <th><p>使用的芯片</p></th>
-<th><p>/<a href="https://zh.wikipedia.org/wiki/零复制" title="wikilink">零复制</a></p></th>
+<th><p>/<a href="../Page/零复制.md" title="wikilink">零复制</a></p></th>
 <th><p>用途</p></th>
 </tr>
 </thead>
@@ -43,7 +43,7 @@ Mali显示芯片组改进自Falanx公司研发生产的显示技术芯片组，�
 <td><p>十亿<a href="../Page/像素.md" title="wikilink">像素</a>/s</p></td>
 <td><p><a href="../Page/Vulkan_(API).md" title="wikilink">Vulkan</a></p></td>
 <td><p><a href="../Page/OpenGL_ES.md" title="wikilink">OpenGL ES</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/OpenVG" title="wikilink">OpenVG</a></p></td>
+<td><p><a href="../Page/OpenVG.md" title="wikilink">OpenVG</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 <td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
 <td></td>
@@ -469,13 +469,12 @@ ES](../Page/OpenGL_ES.md "wikilink") 2.0的全面支持。\[20\]
   - [Adreno](../Page/Adreno.md "wikilink") –
     [Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink")
     研发的移动GPU，用于第三方授权。
-  - [Vivante](https://zh.wikipedia.org/wiki/图芯技术 "wikilink") –
-    [图芯技术](https://zh.wikipedia.org/wiki/图芯技术 "wikilink")
-    研发的移动GPU，用于第三方授权。
+  - [Vivante](../Page/图芯技术.md "wikilink") –
+    [图芯技术](../Page/图芯技术.md "wikilink") 研发的移动GPU，用于第三方授权。
   - [Tegra](https://zh.wikipedia.org/wiki/Tegra "wikilink") –
     [NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")
     研发的移动SoC，不向第三方授权。
-  - [VideoCore](https://zh.wikipedia.org/wiki/VideoCore "wikilink") –
+  - [VideoCore](../Page/VideoCore.md "wikilink") –
     [Broadcom](https://zh.wikipedia.org/wiki/Broadcom "wikilink")
     研发的移动GPU，允许第三方授权。
   - [Intel Atom](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink") –

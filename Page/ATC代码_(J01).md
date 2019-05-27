@@ -61,8 +61,7 @@
     [阿洛西林](https://zh.wikipedia.org/wiki/阿洛西林 "wikilink")（Azlocillin）
     J01CA10
     [美洛西林](https://zh.wikipedia.org/wiki/美洛西林 "wikilink")（Mezlocillin）
-    J01CA11
-    [美西林](https://zh.wikipedia.org/wiki/美西林 "wikilink")（Mecillinam）
+    J01CA11 [美西林](../Page/美西林.md "wikilink")（Mecillinam）
     J01CA12
     [哌拉西林](https://zh.wikipedia.org/wiki/哌拉西林 "wikilink")（Piperacillin）
     J01CA13
@@ -113,14 +112,11 @@
 ### J01CF 耐β-内酰胺酶的青霉素类（Beta-lactamase-resistant penicillins）
 
   -
-    J01CF01
-    [双氯西林](https://zh.wikipedia.org/wiki/双氯西林 "wikilink")（Dicloxacillin）
+    J01CF01 [双氯西林](../Page/双氯西林.md "wikilink")（Dicloxacillin）
     J01CF02
     [氯唑西林](https://zh.wikipedia.org/wiki/氯唑西林 "wikilink")（Cloxacillin）
-    J01CF03
-    [甲氧西林](https://zh.wikipedia.org/wiki/甲氧西林 "wikilink")（Methicillin）
-    J01CF04
-    [苯唑西林](https://zh.wikipedia.org/wiki/苯唑西林 "wikilink")（Oxacillin）
+    J01CF03 [甲氧西林](../Page/甲氧西林.md "wikilink")（Methicillin）
+    J01CF04 [苯唑西林](../Page/苯唑西林.md "wikilink")（Oxacillin）
     J01CF05 [氟氯西林](../Page/氟氯西林.md "wikilink")（Flucloxacillin）
     QJ01CF06
     [奈夫西林](https://zh.wikipedia.org/wiki/奈夫西林 "wikilink")（Nafcillin）
@@ -306,8 +302,7 @@
     [磺胺索嘧啶](https://zh.wikipedia.org/wiki/磺胺索嘧啶 "wikilink")（Sulfaisodimidine）
     J01EB02
     [磺胺甲二唑](https://zh.wikipedia.org/wiki/磺胺甲二唑 "wikilink")（Sulfamethizole）
-    J01EB03
-    [磺胺二甲嘧啶](https://zh.wikipedia.org/wiki/磺胺二甲嘧啶 "wikilink")（Sulfadimidine）
+    J01EB03 [磺胺二甲嘧啶](../Page/磺胺二甲嘧啶.md "wikilink")（Sulfadimidine）
     J01EB04
     [磺胺吡啶](https://zh.wikipedia.org/wiki/磺胺吡啶 "wikilink")（Sulfapyridine）
     J01EB05
@@ -323,8 +318,7 @@
 
   -
     J01EC01 [磺胺甲噁唑](../Page/磺胺甲噁唑.md "wikilink")（Sulfamethoxazole）
-    J01EC02
-    [磺胺嘧啶](https://zh.wikipedia.org/wiki/磺胺嘧啶 "wikilink")（Sulfadiazine）
+    J01EC02 [磺胺嘧啶](../Page/磺胺嘧啶.md "wikilink")（Sulfadiazine）
     J01EC03
     [磺胺恶唑](https://zh.wikipedia.org/wiki/磺胺恶唑 "wikilink")（Sulfamoxole）
     J01EC20 复方（Combinations）
@@ -334,8 +328,7 @@
   -
     J01ED01
     [磺胺地索辛](https://zh.wikipedia.org/wiki/磺胺地索辛 "wikilink")（Sulfadimethoxine）
-    J01ED02
-    [磺胺嘧啶](https://zh.wikipedia.org/wiki/磺胺嘧啶 "wikilink")（Sulfalene）
+    J01ED02 [磺胺嘧啶](../Page/磺胺嘧啶.md "wikilink")（Sulfalene）
     J01ED03
     [磺胺噁唑](https://zh.wikipedia.org/wiki/磺胺噁唑 "wikilink")（Sulfametomidine）
     J01ED04
@@ -370,8 +363,7 @@
     [Sulfapyrazole](https://zh.wikipedia.org/wiki/Sulfapyrazole "wikilink")
     QJ01EQ02
     [磺胺甲二唑](https://zh.wikipedia.org/wiki/磺胺甲二唑 "wikilink")（Sulfamethizole）
-    QJ01EQ03
-    [磺胺二甲嘧啶](https://zh.wikipedia.org/wiki/磺胺二甲嘧啶 "wikilink")（Sulfadimidine）
+    QJ01EQ03 [磺胺二甲嘧啶](../Page/磺胺二甲嘧啶.md "wikilink")（Sulfadimidine）
     QJ01EQ04
     [磺胺吡啶](https://zh.wikipedia.org/wiki/磺胺吡啶 "wikilink")（Sulfapyridine）
     QJ01EQ05
@@ -383,13 +375,11 @@
     [磺胺苯吡唑](https://zh.wikipedia.org/wiki/磺胺苯吡唑 "wikilink")（Sulfaphenazole）
     QJ01EQ09
     [磺胺地索辛](https://zh.wikipedia.org/wiki/磺胺地索辛 "wikilink")（Sulfadimethoxine）
-    QJ01EQ10
-    [磺胺嘧啶](https://zh.wikipedia.org/wiki/磺胺嘧啶 "wikilink")（Sulfadiazine）
+    QJ01EQ10 [磺胺嘧啶](../Page/磺胺嘧啶.md "wikilink")（Sulfadiazine）
     QJ01EQ11 [磺胺甲噁唑](../Page/磺胺甲噁唑.md "wikilink")（Sulfamethoxazole）
     QJ01EQ12
     [磺胺氯哒嗪](https://zh.wikipedia.org/wiki/磺胺氯哒嗪 "wikilink")（Sulfachlorpyridazine）
-    QJ01EQ13
-    [磺胺多辛](https://zh.wikipedia.org/wiki/磺胺多辛 "wikilink")（Sulfadoxine）
+    QJ01EQ13 [磺胺多辛](../Page/磺胺多辛.md "wikilink")（Sulfadoxine）
     QJ01EQ14
     [磺胺曲沙唑](https://zh.wikipedia.org/wiki/磺胺曲沙唑 "wikilink")（Sulfatroxazol）
     QJ01EQ15

@@ -90,7 +90,7 @@ Dance組合[SS501老么](../Page/SS501.md "wikilink")[金亨俊的個人首張�
 
 | 國家                                                | 日期        | 發行方式                                                                               | 發行公司                                                       |
 | ------------------------------------------------- | --------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink") | 2011年3月8日 | [CD](../Page/CD.md "wikilink"), 數碼下載                                               | [CJ E\&M](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink") |
+| [南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink") | 2011年3月8日 | [CD](../Page/CD.md "wikilink"), 數碼下載                                               | [CJ E\&M](../Page/CJ_E&M.md "wikilink")                    |
 | 全球                                                | 數碼下載      |                                                                                    |                                                            |
 | 日本\[4\]                                           | 2011年4月6日 | [CD](../Page/CD.md "wikilink")+[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink") | [Avex](https://zh.wikipedia.org/wiki/Avex "wikilink")      |
 | [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") | 2011年4月8日 | [CD](../Page/CD.md "wikilink")+[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink") | [環球音樂](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")（台壓版） |
