@@ -50,8 +50,7 @@ Girl，當時因為[柳真懷孕](../Page/柳真.md "wikilink")，所以由[少�
   - *Surprise* (2001)
   - *Choose My Life-U* (2002)
   - *Friend* (2002)
-  - *[Remember](https://zh.wikipedia.org/wiki/Remember_\(S.E.S._專輯\) "wikilink")*
-    (2017)
+  - *[Remember](../Page/Remember_\(S.E.S._專輯\).md "wikilink")* (2017)
 
 ### [日語專輯](https://zh.wikipedia.org/wiki/日語 "wikilink")
 

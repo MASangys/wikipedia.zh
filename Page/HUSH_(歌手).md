@@ -10,7 +10,7 @@ HUSH在2015年[POP
 Radio電台節目上](https://zh.wikipedia.org/wiki/POP_Radio "wikilink")，再次跨越「性別藩籬」，自曝內心真實想法，坦言很想加入Legacy「都市女聲」系列演出，但該系列過往都是女生專利，心思讓人猜不透？
 HUSH說自己想動手「竄改」題目為「鄉間女聲」，然後成為第一個加入此系列的男歌手，結果反而很多朋友都不懂這次的演唱會主題。HUSH解釋他是想以詼諧的方式翻玩，向「都市女聲」致敬\[6\]。
 
-HUSH在2017年12月23日在五月天[人生無限公司巡迴演唱會桃園分公司第一天擔任開場嘉賓](https://zh.wikipedia.org/wiki/人生無限公司巡迴演唱會 "wikilink")。
+HUSH在2017年12月23日在五月天[人生無限公司巡迴演唱會桃園分公司第一天擔任開場嘉賓](../Page/人生無限公司巡迴演唱會.md "wikilink")。
 
 ## 個人生活
 
@@ -213,7 +213,7 @@ roll ok！？」表示不管性向如何都沒有出櫃問題\[10\]。
 <td><p>哈囉</p></td>
 <td></td>
 <td></td>
-<td><p>『<a href="https://zh.wikipedia.org/wiki/在一起_(安心亞專輯)" title="wikilink">在一起</a>』</p></td>
+<td><p>『<a href="../Page/在一起_(安心亞專輯).md" title="wikilink">在一起</a>』</p></td>
 <td><p><a href="../Page/安心亞.md" title="wikilink">安心亞</a></p></td>
 <td></td>
 </tr>
@@ -309,7 +309,7 @@ roll ok！？」表示不管性向如何都沒有出櫃問題\[10\]。
 <td><p>還是想念</p></td>
 <td></td>
 <td></td>
-<td><p>『<a href="https://zh.wikipedia.org/wiki/還是想念" title="wikilink">還是想念</a>』</p></td>
+<td><p>『<a href="../Page/還是想念.md" title="wikilink">還是想念</a>』</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/家家" title="wikilink">家家</a></p></td>
 <td></td>
 </tr>
@@ -349,7 +349,7 @@ roll ok！？」表示不管性向如何都沒有出櫃問題\[10\]。
 <td><p>身後</p></td>
 <td></td>
 <td></td>
-<td><p>『<a href="https://zh.wikipedia.org/wiki/偷故事的人" title="wikilink">偷故事的人</a>』</p></td>
+<td><p>『<a href="../Page/偷故事的人.md" title="wikilink">偷故事的人</a>』</p></td>
 <td><p><a href="../Page/張惠妹.md" title="wikilink">張惠妹</a></p></td>
 <td></td>
 </tr>
@@ -358,7 +358,7 @@ roll ok！？」表示不管性向如何都沒有出櫃問題\[10\]。
 <td><p>人樣</p></td>
 <td></td>
 <td></td>
-<td><p>『<a href="https://zh.wikipedia.org/wiki/希遊記" title="wikilink">希遊記</a>』</p></td>
+<td><p>『<a href="../Page/希遊記.md" title="wikilink">希遊記</a>』</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a></p></td>
 </tr>
 <tr class="even">

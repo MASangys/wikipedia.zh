@@ -3,7 +3,7 @@ WILL**》（）是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "
 
 ## 背景
 
-2015年3月2日，FTIsland的韓國經紀公司[FNC娛樂老闆在](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")（）於FNC娛樂的網站發表了FTIsland將回歸韓國樂壇的消息\[1\]，後來在3月13日宣布樂隊將在3月23日推出第五張正規專輯\[2\]，並在同日開設專輯預告網站\[3\]。
+2015年3月2日，FTIsland的韓國經紀公司[FNC娛樂老闆在](../Page/FNC娛樂.md "wikilink")（）於FNC娛樂的網站發表了FTIsland將回歸韓國樂壇的消息\[1\]，後來在3月13日宣布樂隊將在3月23日推出第五張正規專輯\[2\]，並在同日開設專輯預告網站\[3\]。
 
 3月17日，專輯預告網站釋出先行歌曲《To The Light》的音樂錄影帶，這是2014年FTIsland在日本發行的第14張單曲《[To
 The
@@ -135,7 +135,7 @@ WILL》「是他們第一個『孩子』」，是他們首次只收錄自創歌�
 <td><p>韓國</p></td>
 <td><p>2015年3月23日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FNC娛樂" title="wikilink">FNC娛樂</a><br />
+<td><p><a href="../Page/FNC娛樂.md" title="wikilink">FNC娛樂</a><br />
 </p></td>
 </tr>
 <tr class="even">

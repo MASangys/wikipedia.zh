@@ -4,7 +4,7 @@
 
 ## 歷史
 
-“狙击榴彈發射器”这名词虽然是隨LG5和[QLU-11而出现](https://zh.wikipedia.org/wiki/11式狙击榴弹发射器 "wikilink")，但事实上世界上首枝狙击榴彈發射器却是2004年时，由[巴雷特槍械公司所设计的](../Page/巴雷特槍械公司.md "wikilink")[XM109](../Page/巴雷特XM109狙擊榴彈發射器.md "wikilink")。XM109的使用思路与LG5和QLU-11基本一致，都是同时具有[狙击步枪的高](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")[精度和榴彈的面杀伤威力的榴彈發射器](../Page/準確與精密.md "wikilink")，只是并非全新研制，而是设计一种可使M82A1M的下机匣适应25毫米弹药的转换装置。可是，虽然经过多个改进，但被美国军队方面认为XM109的[后座力过大](https://zh.wikipedia.org/wiki/后座力 "wikilink")，加上其他计划而被取消。
+“狙击榴彈發射器”这名词虽然是隨LG5和[QLU-11而出现](../Page/11式狙击榴弹发射器.md "wikilink")，但事实上世界上首枝狙击榴彈發射器却是2004年时，由[巴雷特槍械公司所设计的](../Page/巴雷特槍械公司.md "wikilink")[XM109](../Page/巴雷特XM109狙擊榴彈發射器.md "wikilink")。XM109的使用思路与LG5和QLU-11基本一致，都是同时具有[狙击步枪的高](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")[精度和榴彈的面杀伤威力的榴彈發射器](../Page/準確與精密.md "wikilink")，只是并非全新研制，而是设计一种可使M82A1M的下机匣适应25毫米弹药的转换装置。可是，虽然经过多个改进，但被美国军队方面认为XM109的[后座力过大](https://zh.wikipedia.org/wiki/后座力 "wikilink")，加上其他计划而被取消。
 
 LG5狙击榴弹发射器于2008年由[湖南兵器轻武器研究所立项](https://zh.wikipedia.org/wiki/湖南兵器轻武器研究所 "wikilink")，2012年12月设计定型，并于2014年第七届中国国际警用装备博览会上由研制商展出，可说是狙击榴彈發射器的首个研制成功例子。
 
@@ -59,12 +59,12 @@ LG5狙击榴弹发射器**重型状态**是LG5的重型版本，配备光电火�
   - [97式枪挂榴彈發射器](https://zh.wikipedia.org/wiki/97式枪挂榴彈發射器 "wikilink")
   - [04式自动榴弹发射器](../Page/04式自动榴弹发射器.md "wikilink")（QLZ-04）
   - [06式半自動榴彈發射器](../Page/06式半自動榴彈發射器.md "wikilink")（QLB-06）
-  - [10／10A式枪挂榴弹发射器](https://zh.wikipedia.org/wiki/10式枪挂榴弹发射器 "wikilink")（QLG-10／QLG-10A）
-  - [11式狙击榴弹发射器](https://zh.wikipedia.org/wiki/11式狙击榴弹发射器 "wikilink")（QLU-11）
+  - [10／10A式枪挂榴弹发射器](../Page/10式枪挂榴弹发射器.md "wikilink")（QLG-10／QLG-10A）
+  - [11式狙击榴弹发射器](../Page/11式狙击榴弹发射器.md "wikilink")（QLU-11）
   - [LG1／LG2枪挂式榴弹发射器](https://zh.wikipedia.org/wiki/LG1枪挂榴弹发射器 "wikilink")
   - [LG3自动榴弹发射器](../Page/LG3自动榴弹发射器.md "wikilink")
   - [LG4转轮式榴弹发射器](../Page/LG4转轮式榴弹发射器.md "wikilink")
-  - [LG6半自动榴弹发射器](https://zh.wikipedia.org/wiki/LG6半自动榴弹发射器 "wikilink")
+  - [LG6半自动榴弹发射器](../Page/LG6半自动榴弹发射器.md "wikilink")
   - [巴雷特XM109狙擊榴彈發射器](../Page/巴雷特XM109狙擊榴彈發射器.md "wikilink")
   - [NTW-20](../Page/NTW-20.md "wikilink")
   - [反器材步槍](../Page/反器材步槍.md "wikilink")

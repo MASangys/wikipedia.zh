@@ -11,7 +11,7 @@ Buildroot或](https://zh.wikipedia.org/wiki/OpenWrt_Buildroot "wikilink")[OpenEm
 
 请注意，额外的组件，如[显示服务器或程序](https://zh.wikipedia.org/wiki/显示服务器 "wikilink")（像[Blender](../Page/Blender.md "wikilink")），不一定适用以下所有平台。根本上说，所有软件都需要移植到执行该软件的硬件上，即适用特定体系。在编程时抽象的程度决定了该软件日后移植时所需要付出的努力。
 
-相关术语：移植目标中有[计算机系统结构](../Page/计算机系统结构.md "wikilink")，包括[指令集架構和](../Page/指令集架構.md "wikilink")[微处理器](../Page/微处理器.md "wikilink")（至少为[CPU](../Page/中央处理器.md "wikilink")）的[微架構](../Page/微架構.md "wikilink")。目标还包括整个系统的“系统设计”，无论是[超级计算机](../Page/超级计算机.md "wikilink")、[桌上型電腦还是某些](../Page/桌上型電腦.md "wikilink")[系统芯片](../Page/系统芯片.md "wikilink")，如在某些情况下，使用的是独一无二的[总线](../Page/总线.md "wikilink")。过去，内存控制器是在[主板](../Page/主板.md "wikilink")[芯片组的一部分](../Page/芯片组.md "wikilink")，而不是在CPU[晶粒上](https://zh.wikipedia.org/wiki/晶粒 "wikilink")。
+相关术语：移植目标中有[计算机系统结构](../Page/计算机系统结构.md "wikilink")，包括[指令集架構和](../Page/指令集架構.md "wikilink")[微处理器](../Page/微处理器.md "wikilink")（至少为[CPU](../Page/中央处理器.md "wikilink")）的[微架構](../Page/微架構.md "wikilink")。目标还包括整个系统的“系统设计”，无论是[超级计算机](../Page/超级计算机.md "wikilink")、[桌上型電腦还是某些](../Page/桌上型電腦.md "wikilink")[系统芯片](../Page/系统芯片.md "wikilink")，如在某些情况下，使用的是独一无二的[总线](../Page/总线.md "wikilink")。过去，内存控制器是在[主板](../Page/主板.md "wikilink")[芯片组的一部分](../Page/芯片组.md "wikilink")，而不是在CPU[晶粒上](../Page/晶粒.md "wikilink")。
 
 尽管支持特定指令集是编译器的任务，软件在编写时也需考虑一定程度的抽象，才能使移植成为可能。以汇编语言写成的任何代码都将限定于某一指令集。
 
@@ -30,8 +30,7 @@ Buildroot或](https://zh.wikipedia.org/wiki/OpenWrt_Buildroot "wikilink")[OpenEm
         PC系列](https://zh.wikipedia.org/wiki/Risc_PC "wikilink")
       - [全志](../Page/全志科技.md "wikilink")
       - [Apple Ax](https://zh.wikipedia.org/wiki/苹果系统芯片 "wikilink")
-      - [Broadcom
-        VideoCore](https://zh.wikipedia.org/wiki/VideoCore "wikilink")
+      - [Broadcom VideoCore](../Page/VideoCore.md "wikilink")
       - DEC [StrongARM](../Page/StrongARM.md "wikilink")
       - [三星Exynos](../Page/三星Exynos.md "wikilink")
       - [Marvell](https://zh.wikipedia.org/wiki/迈威尔科技 "wikilink")（原英特尔）[XScale](../Page/XScale.md "wikilink")
@@ -115,7 +114,7 @@ Buildroot或](https://zh.wikipedia.org/wiki/OpenWrt_Buildroot "wikilink")[OpenEm
             and [VIA
             C7](https://zh.wikipedia.org/wiki/VIA_C7 "wikilink")
             processors
-      - [微软](../Page/微软.md "wikilink")[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")（奔腾III处理器），通过[Xbox
+      - [微软](../Page/微软.md "wikilink")[Xbox](../Page/Xbox.md "wikilink")（奔腾III处理器），通过[Xbox
         Linux项目](https://zh.wikipedia.org/wiki/Xbox_Linux "wikilink")
       - [SGI Visual
         Workstation](https://zh.wikipedia.org/wiki/SGI_Visual_Workstation "wikilink")

@@ -1,5 +1,5 @@
 **金鍾大**（
-，；），[藝名](../Page/藝名.md "wikilink")**Chen**（），[韓國男](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，為男子團體[EXO成員](../Page/EXO.md "wikilink")、[中國分隊](../Page/中國.md "wikilink")[EXO-M及三人子團體小分隊](../Page/EXO-M.md "wikilink")[EXO-CBX的成員](https://zh.wikipedia.org/wiki/EXO-CBX "wikilink")。在隊內擔當三大主唱之一，虛構超能力為「**闪电**」。
+，；），[藝名](../Page/藝名.md "wikilink")**Chen**（），[韓國男](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，為男子團體[EXO成員](../Page/EXO.md "wikilink")、[中國分隊](../Page/中國.md "wikilink")[EXO-M及三人子團體小分隊](../Page/EXO-M.md "wikilink")[EXO-CBX的成員](../Page/EXO-CBX.md "wikilink")。在隊內擔當三大主唱之一，虛構超能力為「**闪电**」。
 
 ## 演藝經歷
 
@@ -18,7 +18,7 @@ BALLAD Vol. 2 –
 Breath》中與[張力尹共同演唱](https://zh.wikipedia.org/wiki/張力尹 "wikilink")《呼吸》，與[鐘鉉共同演唱](../Page/鐘鉉.md "wikilink")《一天（A
 Day Without You）》和與[Krystal共同演唱](../Page/鄭秀晶.md "wikilink")《回想（When I
 Was...When U
-Were）》\[1\]。7月，Chen為電視劇《[沒關係，是愛情啊！](https://zh.wikipedia.org/wiki/沒關係，是愛情啊 "wikilink")》演唱OST《最佳的幸運（Best
+Were）》\[1\]。7月，Chen為電視劇《[沒關係，是愛情啊！](../Page/沒關係，是愛情啊.md "wikilink")》演唱OST《最佳的幸運（Best
 Luck）》\[2\]。
 
 ### 2015年-現今：音樂劇演出、EXO-CBX、Solo出道
@@ -94,7 +94,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 </tr>
 <tr class="odd">
 <td><p>2014年7月23日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/沒關係，是愛情啊" title="wikilink">沒關係，是愛情啊OST</a> Part.1》</p></td>
+<td><p>《<a href="../Page/沒關係，是愛情啊.md" title="wikilink">沒關係，是愛情啊OST</a> Part.1》</p></td>
 <td><p>最佳的幸運（Best Luck）</p></td>
 <td></td>
 </tr>
@@ -114,7 +114,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <td><p>2016年8月25日</p></td>
 <td><p>《<a href="../Page/月之戀人－步步驚心：麗.md" title="wikilink">月之戀人－步步驚心：麗</a>》</p></td>
 <td><p>For You</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/邊伯賢" title="wikilink">Baekhyun</a>、<a href="https://zh.wikipedia.org/wiki/Xiumin" title="wikilink">Xiumin</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邊伯賢" title="wikilink">Baekhyun</a>、<a href="../Page/Xiumin.md" title="wikilink">Xiumin</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年2月16日</p></td>
@@ -126,17 +126,17 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <td><p>2018年3月24日</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/Live" title="wikilink">Live</a>》</p></td>
 <td><p>Someone Like You</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/邊伯賢" title="wikilink">Baekhyun</a>、<a href="https://zh.wikipedia.org/wiki/Xiumin" title="wikilink">Xiumin</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邊伯賢" title="wikilink">Baekhyun</a>、<a href="../Page/Xiumin.md" title="wikilink">Xiumin</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年10月16日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/百日的郎君" title="wikilink">百日的郎君</a>》[5]</p></td>
+<td><p>《<a href="../Page/百日的郎君.md" title="wikilink">百日的郎君</a>》[5]</p></td>
 <td><p>櫻花戀歌（Cherry Blossom Love Song）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2019年2月7日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/觸及真心" title="wikilink">觸及真心</a>》</p></td>
+<td><p>《<a href="../Page/觸及真心.md" title="wikilink">觸及真心</a>》</p></td>
 <td><p>把握光陰（Make It Count）</p></td>
 <td></td>
 </tr>
@@ -145,34 +145,34 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 
 ### 創作作品
 
-|                 |                    |                                                                                |                                                                              |    |
-| --------------- | ------------------ | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | -- |
-| 日期              | 歌曲                 | 歌手                                                                             | 專輯                                                                           | 備注 |
-| 2015年6月3日       | 약속（EXO 2014）       | EXO                                                                            | 《[LOVE ME RIGHT](https://zh.wikipedia.org/wiki/EXODUS_\(EXO專輯\) "wikilink")》 | 填詞 |
-| 2016年8月18日      | 꿈 (She's Dreaming) | 《[LOTTO](../Page/EX'ACT.md "wikilink")》                                        |                                                                              |    |
-| 2017年7月18日      | Ko Ko Bop          | 《[The War](https://zh.wikipedia.org/wiki/The_War "wikilink")》                  |                                                                              |    |
-| 너의손짓 (Touch It) |                    |                                                                                |                                                                              |    |
-| 2017年11月3日      | Bye Babe           | [10cm](../Page/10cm.md "wikilink") x Chen                                      | 《[SM STATION 2](https://zh.wikipedia.org/wiki/SM_STATION_2 "wikilink")》      |    |
-| 2017年12月26日     | Lights Out         | EXO                                                                            | 《Universe》                                                                   |    |
-| 2018年12月13日     | Love Shot          | 《[Love Shot](https://zh.wikipedia.org/wiki/Don't_Mess_Up_My_Tempo "wikilink")》 |                                                                              |    |
-| 2019年4月1日       | Flower             | Chen                                                                           | 《April, and a flower》                                                        |    |
+|                 |                    |                                                             |                                                                         |    |
+| --------------- | ------------------ | ----------------------------------------------------------- | ----------------------------------------------------------------------- | -- |
+| 日期              | 歌曲                 | 歌手                                                          | 專輯                                                                      | 備注 |
+| 2015年6月3日       | 약속（EXO 2014）       | EXO                                                         | 《[LOVE ME RIGHT](../Page/EXODUS_\(EXO專輯\).md "wikilink")》               | 填詞 |
+| 2016年8月18日      | 꿈 (She's Dreaming) | 《[LOTTO](../Page/EX'ACT.md "wikilink")》                     |                                                                         |    |
+| 2017年7月18日      | Ko Ko Bop          | 《[The War](../Page/The_War.md "wikilink")》                  |                                                                         |    |
+| 너의손짓 (Touch It) |                    |                                                             |                                                                         |    |
+| 2017年11月3日      | Bye Babe           | [10cm](../Page/10cm.md "wikilink") x Chen                   | 《[SM STATION 2](https://zh.wikipedia.org/wiki/SM_STATION_2 "wikilink")》 |    |
+| 2017年12月26日     | Lights Out         | EXO                                                         | 《Universe》                                                              |    |
+| 2018年12月13日     | Love Shot          | 《[Love Shot](../Page/Don't_Mess_Up_My_Tempo.md "wikilink")》 |                                                                         |    |
+| 2019年4月1日       | Flower             | Chen                                                        | 《April, and a flower》                                                   |    |
 
 ## 影視作品
 
 ### 電視劇
 
-|       |                                                             |                                                                 |      |    |
-| ----- | ----------------------------------------------------------- | --------------------------------------------------------------- | ---- | -- |
-| 年份    | 電視臺                                                         | 戲劇名稱                                                            | 角色   | 性質 |
-| 2015年 | [LINE TV](https://zh.wikipedia.org/wiki/LINE_TV "wikilink") | 《[我的鄰居是EXO](https://zh.wikipedia.org/wiki/我的鄰居是EXO "wikilink")》 | Chen | 客串 |
-|       |                                                             |                                                                 |      |    |
+|       |                                          |                                              |      |    |
+| ----- | ---------------------------------------- | -------------------------------------------- | ---- | -- |
+| 年份    | 電視臺                                      | 戲劇名稱                                         | 角色   | 性質 |
+| 2015年 | [LINE TV](../Page/LINE_TV.md "wikilink") | 《[我的鄰居是EXO](../Page/我的鄰居是EXO.md "wikilink")》 | Chen | 客串 |
+|       |                                          |                                              |      |    |
 
 ### 固定綜藝
 
-|                     |      |            |                                                            |
-| ------------------- | ---- | ---------- | ---------------------------------------------------------- |
-| 日期                  | 頻道   | 節目名稱       | 備注                                                         |
-| 2016年5月2日-2016年5月6日 | 網絡綜藝 | 《沒有經紀人的旅行》 | 與[Xiumin](https://zh.wikipedia.org/wiki/Xiumin "wikilink") |
+|                     |      |            |                                         |
+| ------------------- | ---- | ---------- | --------------------------------------- |
+| 日期                  | 頻道   | 節目名稱       | 備注                                      |
+| 2016年5月2日-2016年5月6日 | 網絡綜藝 | 《沒有經紀人的旅行》 | 與[Xiumin](../Page/Xiumin.md "wikilink") |
 
 ### 綜藝節目
 
@@ -190,12 +190,12 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <td><p>7月1日</p></td>
 <td><p>Mnet</p></td>
 <td><p>《The Beatles Code》</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/鹿晗" title="wikilink">Luhan</a>、<a href="../Page/Suho.md" title="wikilink">Suho</a>、<a href="../Page/Chanyeol.md" title="wikilink">Chanyeol</a>、<a href="../Page/Kai.md" title="wikilink">Kai</a></p></td>
+<td><p>與<a href="../Page/鹿晗.md" title="wikilink">Luhan</a>、<a href="../Page/Suho.md" title="wikilink">Suho</a>、<a href="../Page/Chanyeol.md" title="wikilink">Chanyeol</a>、<a href="../Page/Kai.md" title="wikilink">Kai</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7月7日</p></td>
 <td><p>SBS</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/挑战千曲" title="wikilink">挑戰千曲</a>》</p></td>
+<td><p>《<a href="../Page/挑战千曲.md" title="wikilink">挑戰千曲</a>》</p></td>
 <td><p>與Chanyeol、<a href="../Page/都敬秀.md" title="wikilink">D.O.</a></p></td>
 <td></td>
 </tr>
@@ -203,7 +203,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <td><p>8月17日</p></td>
 <td><p>KBS2</p></td>
 <td><p>《<a href="../Page/不朽的名曲：傳說在歌唱.md" title="wikilink">不朽的名曲：傳說在歌唱</a>》</p></td>
-<td><p>與Luhan、Suho、<a href="https://zh.wikipedia.org/wiki/伯賢" title="wikilink">Baekhyun</a>、Chanyeol</p></td>
+<td><p>與Luhan、Suho、<a href="../Page/伯賢.md" title="wikilink">Baekhyun</a>、Chanyeol</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -217,7 +217,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <td><p>9月14日</p></td>
 <td><p>KBS2</p></td>
 <td><p>《<a href="../Page/不朽的名曲：傳說在歌唱.md" title="wikilink">不朽的名曲：傳說在歌唱</a>》</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Xiumin" title="wikilink">Xiumin</a>、Luhan、<a href="../Page/張藝興.md" title="wikilink">Lay</a>、Suho、Baekhyun、D.O.、Kai、<a href="https://zh.wikipedia.org/wiki/Sehun" title="wikilink">Sehun</a></p></td>
+<td><p>與<a href="../Page/Xiumin.md" title="wikilink">Xiumin</a>、Luhan、<a href="../Page/張藝興.md" title="wikilink">Lay</a>、Suho、Baekhyun、D.O.、Kai、<a href="../Page/Sehun.md" title="wikilink">Sehun</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -293,14 +293,14 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <tr class="odd">
 <td><p>4月4日</p></td>
 <td><p>KBS2</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/演藝家中介" title="wikilink">演藝家中介</a>》</p></td>
+<td><p>《<a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a>》</p></td>
 <td><p>與Xiumin、Lay、Chanyeol、Kai、Sehun</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月5日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/CCTV3" title="wikilink">CCTV3</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/叮咯咙咚呛" title="wikilink">叮咯咙咚呛</a>》</p></td>
+<td><p>《<a href="../Page/叮咯咙咚呛.md" title="wikilink">叮咯咙咚呛</a>》</p></td>
 <td><p>與Tao</p></td>
 <td></td>
 </tr>
@@ -344,7 +344,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <p>5月18日</p>
 <p>5月19日</p></td>
 <td><p>V APP</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/看得見的SM" title="wikilink">看得見的SM</a>》</p></td>
+<td><p>《<a href="../Page/看得見的SM.md" title="wikilink">看得見的SM</a>》</p></td>
 <td><p>與Chanyeol、Sehun</p></td>
 <td></td>
 </tr>
@@ -402,7 +402,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <td><p>7月9日<br />
 7月16日</p></td>
 <td><p>SBS</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Fantastic_Duo_2" title="wikilink">Fantastic Duo 2</a>》</p></td>
+<td><p>《<a href="../Page/Fantastic_Duo_2.md" title="wikilink">Fantastic Duo 2</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -422,7 +422,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <tr class="odd">
 <td><p>4月13日</p></td>
 <td><p>tvN</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/驚人的星期六" title="wikilink">驚人的星期六</a>》</p></td>
+<td><p>《<a href="../Page/驚人的星期六.md" title="wikilink">驚人的星期六</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -431,13 +431,13 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 
 ### 主持
 
-|               |                                                           |                                                                    |                                                                         |
-| ------------- | --------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| 日期            | 頻道                                                        | 節目名稱                                                               | 備注                                                                      |
-| 2013年12月13日   | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")  | 與[Baekhyun](https://zh.wikipedia.org/wiki/伯賢 "wikilink")（待機室Special MC） |
-| 2015年4月8日、22日 | MV BANK STARDUST                                          | 與[Suho](../Page/Suho.md "wikilink")                                |                                                                         |
-| 2015年4月11日    | MBC                                                       | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") | 與[Yeri](https://zh.wikipedia.org/wiki/Yeri "wikilink")（Special MC）      |
-| 2015年4月24日    | KBS 2                                                     | [Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")        | 與[Suho](../Page/Suho.md "wikilink")（待機室Special MC）                      |
+|               |                                                           |                                                                    |                                                      |
+| ------------- | --------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------- |
+| 日期            | 頻道                                                        | 節目名稱                                                               | 備注                                                   |
+| 2013年12月13日   | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")  | 與[Baekhyun](../Page/伯賢.md "wikilink")（待機室Special MC） |
+| 2015年4月8日、22日 | MV BANK STARDUST                                          | 與[Suho](../Page/Suho.md "wikilink")                                |                                                      |
+| 2015年4月11日    | MBC                                                       | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") | 與[Yeri](../Page/Yeri.md "wikilink")（Special MC）      |
+| 2015年4月24日    | KBS 2                                                     | [Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")        | 與[Suho](../Page/Suho.md "wikilink")（待機室Special MC）   |
 
 ### 音樂劇
 
@@ -465,14 +465,14 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 
 ### 寫真雜誌
 
-|           |         |                                                                                                                                   |
-| --------- | ------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 期數        | 雜誌名稱    | 備注                                                                                                                                |
-| 2014年9月刊  | Nylon   |                                                                                                                                   |
-| 2015年8月刊  | star1   | 與[Baekhyun](https://zh.wikipedia.org/wiki/伯賢 "wikilink")、Suho\[7\]                                                                |
-| 2015年12月刊 | Vogue   | 與[Suho](../Page/Suho.md "wikilink")、[Kai](../Page/Kai.md "wikilink")、[Sehun](https://zh.wikipedia.org/wiki/Sehun "wikilink")\[8\] |
-| 2016年10月刊 | Vivi    | 日本雜誌\[9\]                                                                                                                         |
-| 2017年3月刊  | Singles | 封面\[10\]                                                                                                                          |
+|           |         |                                                                                                                |
+| --------- | ------- | -------------------------------------------------------------------------------------------------------------- |
+| 期數        | 雜誌名稱    | 備注                                                                                                             |
+| 2014年9月刊  | Nylon   |                                                                                                                |
+| 2015年8月刊  | star1   | 與[Baekhyun](../Page/伯賢.md "wikilink")、Suho\[7\]                                                                |
+| 2015年12月刊 | Vogue   | 與[Suho](../Page/Suho.md "wikilink")、[Kai](../Page/Kai.md "wikilink")、[Sehun](../Page/Sehun.md "wikilink")\[8\] |
+| 2016年10月刊 | Vivi    | 日本雜誌\[9\]                                                                                                      |
+| 2017年3月刊  | Singles | 封面\[10\]                                                                                                       |
 
 ## 其他演出
 
@@ -490,7 +490,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 | 日期         | 頻道                                                                  | 節目名稱                        | 共同嘉賓/備注                                                            |
 | 2013年9月16日 | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | Super Junior的Kiss the Radio | [Baekhyun](https://zh.wikipedia.org/wiki/Baekhyun "wikilink")／代班DJ |
 | 2015年5月3日  | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | K-pop Planet                | [D.O.](https://zh.wikipedia.org/wiki/D.O. "wikilink")／Special DJ   |
-| 2016年1月11日 | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | Super Junior的Kiss the Radio | [Sehun](https://zh.wikipedia.org/wiki/Sehun "wikilink")／代班DJ       |
+| 2016年1月11日 | [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | Super Junior的Kiss the Radio | [Sehun](../Page/Sehun.md "wikilink")／代班DJ                          |
 |            |                                                                     |                             |                                                                    |
 
 ## 獎項與榮譽

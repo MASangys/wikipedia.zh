@@ -6,11 +6,11 @@ polynomials)是一个以[基本超几何函数定义的](../Page/基本超几何
 
 ## 极限关系
 
-[Q梅西纳-帕拉泽克多项式](../Page/Q梅西纳-帕拉泽克多项式.md "wikilink")→[连续q拉盖尔多项式](https://zh.wikipedia.org/wiki/连续q拉盖尔多项式 "wikilink")
+[Q梅西纳-帕拉泽克多项式](../Page/Q梅西纳-帕拉泽克多项式.md "wikilink")→[连续q拉盖尔多项式](../Page/连续q拉盖尔多项式.md "wikilink")
 
 \(P_{n}(cos(\theta+\phi);q^{\alpha/2+1/2}|q)=\)\(q^{(-\alpha/2-1/4)*n}*P_{n}^(\alpha)(cos\theta|q)\)
 
-[阿拉-萨拉姆-迟哈剌多项式](https://zh.wikipedia.org/wiki/阿拉-萨拉姆-迟哈剌多项式 "wikilink")→连续q拉盖尔多项式
+[阿拉-萨拉姆-迟哈剌多项式](../Page/阿拉-萨拉姆-迟哈剌多项式.md "wikilink")→连续q拉盖尔多项式
 
 令连续q拉盖尔多项式中\(x=q^x\),q→1,即得[拉盖尔多项式](../Page/拉盖尔多项式.md "wikilink")
 

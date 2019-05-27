@@ -1,5 +1,5 @@
 《행복(Happiness)》（中文：幸福）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
-Velvet的首張數位單曲](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")，於2014年8月4日發行。
+Velvet的首張數位單曲](../Page/Red_Velvet.md "wikilink")，於2014年8月4日發行。
 
 ## 製作背景與發行
 
@@ -7,7 +7,7 @@ Velvet的首張數位單曲](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink"
 Simms製作。
 
 這張數位單曲於2014年8月4日發行，通過[iTunes
-Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、[Melon](https://zh.wikipedia.org/wiki/Melon "wikilink")、Genie和其他音源網站進行全球發布。另外，Red
+Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、[Melon](../Page/Melon.md "wikilink")、Genie和其他音源網站進行全球發布。另外，Red
 Velvet以《幸福》於8月1日在KBS《[Music
 Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》舞台上正式出道\[1\]。
 
@@ -60,15 +60,15 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》舞台上正式出�
 
 ## 各成員衍生的背號列表
 
-| 各成員衍生的背號列表                                                                 |
-| -------------------------------------------------------------------------- |
-| 成員藝名                                                                       |
-| **[Irene](https://zh.wikipedia.org/wiki/Irene_\(Red_Velvet\) "wikilink")** |
-| [Seulgi](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")                      |
-| [Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")                        |
-| [Joy](https://zh.wikipedia.org/wiki/Joy_\(Red_Velvet\) "wikilink")         |
-| [Yeri](https://zh.wikipedia.org/wiki/Yeri "wikilink")                      |
-|                                                                            |
+| 各成員衍生的背號列表                                              |
+| ------------------------------------------------------- |
+| 成員藝名                                                    |
+| **[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")** |
+| [Seulgi](../Page/瑟琪.md "wikilink")                      |
+| [Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")     |
+| [Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")         |
+| [Yeri](../Page/Yeri.md "wikilink")                      |
+|                                                         |
 
 ## 排行榜走勢
 

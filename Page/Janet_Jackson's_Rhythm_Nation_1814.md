@@ -20,7 +20,7 @@ Jackson's Rhythm Nation
 
 ### 樂評評價
 
-美國音樂權威[滾石雜誌給予](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")《節奏國度》四顆星的評價，珍娜·傑克森共有兩張專輯被授與四顆星，另一張是1993年的《[珍娜](https://zh.wikipedia.org/wiki/Janet_\(專輯\) "wikilink")》\[8\]。滾石雜誌推崇珍娜·傑克森為1980年代最出色的節奏藍調藝人之一，在美國，她和哥哥[麥可·傑克森兩人在樂壇的地位更加接近了](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")。
+美國音樂權威[滾石雜誌給予](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")《節奏國度》四顆星的評價，珍娜·傑克森共有兩張專輯被授與四顆星，另一張是1993年的《[珍娜](../Page/Janet_\(專輯\).md "wikilink")》\[8\]。滾石雜誌推崇珍娜·傑克森為1980年代最出色的節奏藍調藝人之一，在美國，她和哥哥[麥可·傑克森兩人在樂壇的地位更加接近了](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")。
 
 2016年告示牌雜誌遴選「**Greatest of All Time Billboard 200
 Albums**」，這張專輯位居第94名\[9\]。
@@ -33,16 +33,13 @@ Albums**」，這張專輯位居第94名\[9\]。
 
 《節奏國度》在美國推出七首單曲（〈State of the World〉僅在澳洲推出單曲），它們依序為
 
-  - 〈[想念你](https://zh.wikipedia.org/wiki/Miss_You_Much "wikilink")〉
-    (4週冠軍)
+  - 〈[想念你](../Page/Miss_You_Much.md "wikilink")〉 (4週冠軍)
   - 〈[節奏國度](../Page/節奏國度.md "wikilink")〉 (第2名)
-  - 〈[掙脫束縛](https://zh.wikipedia.org/wiki/Escapade_\(歌曲\) "wikilink")〉
-    (3週冠軍)
+  - 〈[掙脫束縛](../Page/Escapade_\(歌曲\).md "wikilink")〉 (3週冠軍)
   - 〈[我心所願](../Page/我心所願.md "wikilink")〉 (第4名)
   - 〈[回到我身邊](../Page/Come_Back_to_Me_\(珍娜·傑克森歌曲\).md "wikilink")〉 (第2名)
-  - 〈[黑貓](https://zh.wikipedia.org/wiki/Black_Cat_\(歌曲\) "wikilink")〉
-    (1週冠軍)
-  - 〈[愛少了你不完整](https://zh.wikipedia.org/wiki/Love_Will_Never_Do_\(Without_You\) "wikilink")〉
+  - 〈[黑貓](../Page/Black_Cat_\(歌曲\).md "wikilink")〉 (1週冠軍)
+  - 〈[愛少了你不完整](../Page/Love_Will_Never_Do_\(Without_You\).md "wikilink")〉
     (1週冠軍)\[16\]
 
 ### 獎項紀錄
@@ -53,7 +50,7 @@ Albums**」，這張專輯位居第94名\[9\]。
 | [美國音樂獎](https://zh.wikipedia.org/wiki/美國音樂獎 "wikilink")   | Favorite Dance Artist, Favorite Pop/Rock Female Artist, Favorite Soul/R\&B Female Artist, Favorite Dance Single ("Miss You Much"), Favorite R\&B Single ("Miss You Much")                                                                                                              | 1990年-1991年 |        |
 | [告示牌音樂獎](https://zh.wikipedia.org/wiki/告示牌音樂獎 "wikilink") | Top Hot 100 Singles Artist of the Year, Top Selling Album of the Year, Top Selling R\&B Album of the Year, Top Selling R\&B Albums Artist of the Year, Top Selling R\&B Artist of the Year, Top Dance Club Play Artist of the Year, Top Hot Dance 12" Singles Sales Artist of the Year | 1990年       |        |
 | Billboard's Tanqueray Sterling Music Video Awards         | Best Female Video Artist, Black/Rap, Best Female Artist, Dance, Director's Award, Black/Rap (Rhythm Nation 1814 Film), Director's Award, Dance ("Alright"), Tanqueray Sterling Music Video Award for Artistic Achievement (Rhythm Nation 1814 Film)                                    | 1990年       |        |
-| [MTV音樂錄影帶大獎](../Page/MTV音樂錄影帶大獎.md "wikilink")            | Best Choreography ("Rhythm Nation"), [音樂錄影帶先鋒獎](https://zh.wikipedia.org/wiki/迈克尔·杰克逊音乐录像带先锋奖 "wikilink")                                                                                                                                                                              | 1990年       |        |
+| [MTV音樂錄影帶大獎](../Page/MTV音樂錄影帶大獎.md "wikilink")            | Best Choreography ("Rhythm Nation"), [音樂錄影帶先鋒獎](../Page/迈克尔·杰克逊音乐录像带先锋奖.md "wikilink")                                                                                                                                                                                                 | 1990年       |        |
 | [葛萊美獎](../Page/葛萊美獎.md "wikilink")                        | Best Music Video, Long Form (Rhythm Nation 1814 Film)                                                                                                                                                                                                                                  | 1990年       | \[17\] |
 | [滾石雜誌](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")     | Women In Rock: The 50 Essential Albums — \#27                                                                                                                                                                                                                                          | 2002年       |        |
 | 滾石雜誌                                                      | Women Who Rock: The 50 Greatest Albums of All Time — \#26                                                                                                                                                                                                                              | 2012年       | \[18\] |

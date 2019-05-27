@@ -85,7 +85,7 @@
 <td><p>韓國</p></td>
 <td><p>2015年1月23日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NH_Media" title="wikilink">NH Media</a><br />
+<td><p><a href="../Page/NH_Media.md" title="wikilink">NH Media</a><br />
 </p></td>
 </tr>
 </tbody>

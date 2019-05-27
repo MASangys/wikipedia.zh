@@ -22,7 +22,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
       - [Dream](https://zh.wikipedia.org/wiki/Dream "wikilink")：、
       - [Happiness](../Page/Happiness_\(組合\).md "wikilink")：[SAYAKA](https://zh.wikipedia.org/wiki/SAYAKA "wikilink")、[楓](https://zh.wikipedia.org/wiki/土橋楓 "wikilink")、、[YURINO](https://zh.wikipedia.org/wiki/鈴木結莉乃 "wikilink")
       - [Flower](https://zh.wikipedia.org/wiki/Flower "wikilink")：[藤井萩花](https://zh.wikipedia.org/wiki/藤井萩花 "wikilink")、、[坂東希](https://zh.wikipedia.org/wiki/坂東希 "wikilink")、[佐藤晴美](https://zh.wikipedia.org/wiki/佐藤晴美 "wikilink")
-      - EGD：、[稲垣莉生](https://zh.wikipedia.org/wiki/稲垣莉生 "wikilink")、[石井杏奈](https://zh.wikipedia.org/wiki/石井杏奈 "wikilink")、[山口乃乃華](https://zh.wikipedia.org/wiki/山口乃乃華 "wikilink")
+      - EGD：、[稲垣莉生](https://zh.wikipedia.org/wiki/稲垣莉生 "wikilink")、[石井杏奈](../Page/石井杏奈.md "wikilink")、[山口乃乃華](https://zh.wikipedia.org/wiki/山口乃乃華 "wikilink")
 
 <!-- end list -->
 

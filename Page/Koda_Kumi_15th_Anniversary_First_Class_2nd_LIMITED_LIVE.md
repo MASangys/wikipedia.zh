@@ -13,7 +13,7 @@ LIVE**》為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Pag
     Kumi 15th Anniversary Live Tour 2015 supported by
     Mercedes-Benz**」，且為倖田首次於巡演名稱加冠贊助商名稱\[4\]。
   - 本次演唱會內容收錄於專輯《[WALK OF MY
-    LIFE](https://zh.wikipedia.org/wiki/WALK_OF_MY_LIFE "wikilink")》的粉絲俱樂部限定盤中。
+    LIFE](../Page/WALK_OF_MY_LIFE.md "wikilink")》的粉絲俱樂部限定盤中。
 
 ## 曲目\[5\]
 

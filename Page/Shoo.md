@@ -1,4 +1,4 @@
-**Shoo**（）本名為**柳水永**（；），[日本](../Page/日本.md "wikilink")[橫濱市出生](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")，[韓國女歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，與[Sea及](../Page/Bada_\(歌手\).md "wikilink")[Eugene為女子團體](../Page/柳真.md "wikilink")[S.E.S.成員](https://zh.wikipedia.org/wiki/S.E.S._\(組合\) "wikilink")，於1997年11月以專輯《》正式出道。當時與[H.O.T.](../Page/H.O.T..md "wikilink")、[神話](https://zh.wikipedia.org/wiki/神話 "wikilink")、[Baby
+**Shoo**（）本名為**柳水永**（；），[日本](../Page/日本.md "wikilink")[橫濱市出生](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")，[韓國女歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，與[Sea及](../Page/Bada_\(歌手\).md "wikilink")[Eugene為女子團體](../Page/柳真.md "wikilink")[S.E.S.成員](../Page/S.E.S._\(組合\).md "wikilink")，於1997年11月以專輯《》正式出道。當時與[H.O.T.](../Page/H.O.T..md "wikilink")、[神話](https://zh.wikipedia.org/wiki/神話 "wikilink")、[Baby
 V.O.X](../Page/Baby_V.O.X.md "wikilink")、[酷龍等團體把韓國音樂推廣到國外](../Page/酷龍.md "wikilink")，2002年組合解散後留在[SM娛樂作個人發展](../Page/SM娛樂.md "wikilink")。
 
 ## 家庭情況及經歷
@@ -323,8 +323,7 @@ Shoo與職業籃球運動員經過一年多的交往，於2010年4月11日結婚
     Roommate與雙胞胎的親近育兒日記\[27\]
   - 1月25日 MBC 《Section TV演藝通訊》 \[28\]
   - 2月4日 MBC 《夫婦日記》 \[29\]
-  - 2月9日 SBS 《[Healing
-    Camp](https://zh.wikipedia.org/wiki/Healing_Camp "wikilink")》 \[30\]
+  - 2月9日 SBS 《[Healing Camp](../Page/Healing_Camp.md "wikilink")》 \[30\]
   - 2月15日、22日 SBS 《[Running Man](../Page/Running_Man.md "wikilink")》\*
     2015新年料理大戰
   - 2月20日 MBC 《無限挑戰》新年特輯 六六歌紀錄片 新年特輯 與

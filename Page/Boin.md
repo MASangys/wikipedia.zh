@@ -1,4 +1,4 @@
-《**boin**》是日本[Crossnet-Pie在](https://zh.wikipedia.org/wiki/CROSSNET "wikilink")2004年9月24日发售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2005年開始發售OVA。2007年3月16日發售同世界觀設定的新作《**[度假村Boin](https://zh.wikipedia.org/wiki/度假村Boin "wikilink")**》。
+《**boin**》是日本[Crossnet-Pie在](../Page/CROSSNET.md "wikilink")2004年9月24日发售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2005年開始發售OVA。2007年3月16日發售同世界觀設定的新作《**[度假村Boin](https://zh.wikipedia.org/wiki/度假村Boin "wikilink")**》。
 
 ## 故事
 

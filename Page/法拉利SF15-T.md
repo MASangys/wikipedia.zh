@@ -49,9 +49,9 @@
 <td></td>
 <td><p><a href="../Page/2015年澳大利亞大獎賽.md" title="wikilink">澳</a></p></td>
 <td><p><a href="../Page/2015年馬來西亞大獎賽.md" title="wikilink">馬</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2015年中國大獎賽" title="wikilink">中</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2015年巴林大獎賽" title="wikilink">巴林</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2015年西班牙大獎賽" title="wikilink">西</a></p></td>
+<td><p><a href="../Page/2015年中國大獎賽.md" title="wikilink">中</a></p></td>
+<td><p><a href="../Page/2015年巴林大獎賽.md" title="wikilink">巴林</a></p></td>
+<td><p><a href="../Page/2015年西班牙大獎賽.md" title="wikilink">西</a></p></td>
 <td><p><a href="../Page/2015年摩納哥大獎賽.md" title="wikilink">摩</a></p></td>
 <td><p><a href="../Page/2015年加拿大大獎賽.md" title="wikilink">加</a></p></td>
 <td><p><a href="../Page/2015年奧地利大獎賽.md" title="wikilink">奧</a></p></td>

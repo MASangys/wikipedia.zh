@@ -1,5 +1,5 @@
 是[日本的一家](../Page/日本.md "wikilink")[电子游戏开发商及](https://zh.wikipedia.org/wiki/电子游戏开发商 "wikilink")[发行商](https://zh.wikipedia.org/wiki/电子游戏发行商 "wikilink")，从属于[多玩国](https://zh.wikipedia.org/wiki/多玩国 "wikilink")。\[1\]
-公司成立于2012年4月1日，由日本游戏厂商[Spike和](https://zh.wikipedia.org/wiki/Spike_\(公司\) "wikilink")[Chunsoft合并而来](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")。除了合并前两家的游戏系列，Spike
+公司成立于2012年4月1日，由日本游戏厂商[Spike和](../Page/Spike_\(公司\).md "wikilink")[Chunsoft合并而来](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")。除了合并前两家的游戏系列，Spike
 Chunsoft还负责了一些西方游戏在日本地区的发行工作。
 
 ## 公司作品
@@ -16,7 +16,7 @@ Chunsoft还负责了一些西方游戏在日本地区的发行工作。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/CONCEPTION_產子救世錄" title="wikilink">CONCEPTION 產子救世錄</a><br />
+<td><p><a href="../Page/CONCEPTION_產子救世錄.md" title="wikilink">CONCEPTION 產子救世錄</a><br />
 </p></td>
 <td><p>2012年4月26日（日本）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/电子角色扮演游戏" title="wikilink">角色扮演</a></p></td>
@@ -202,7 +202,7 @@ PlayStation Vita</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/世界树与不思议的迷宫" title="wikilink">世界树与不思议的迷宫</a><br />
+<td><p><a href="../Page/世界树与不思议的迷宫.md" title="wikilink">世界树与不思议的迷宫</a><br />
 <br />
 <em></em></p></td>
 <td><p>2015年3月5日（日本）<br />
@@ -298,7 +298,7 @@ Windows</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/JUMP_FORCE" title="wikilink">JUMP FORCE</a> JUMP FORCE</p></td>
+<td><p><a href="../Page/JUMP_FORCE.md" title="wikilink">JUMP FORCE</a> JUMP FORCE</p></td>
 <td><p>2019年2月15日</p></td>
 <td><p>格鬥</p></td>
 <td><p>PlayStation 4<br />

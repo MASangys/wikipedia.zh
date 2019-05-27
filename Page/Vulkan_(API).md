@@ -18,7 +18,7 @@ Vulkan旨在提供更低的CPU开销与更直接的GPU控制，其理念大致�
   - 相比于Direct3D 12，Vulkan与前身OpenGL类似，受多种操作系统支持。Vulkan已经能在[Windows
     7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows
     8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows
-    10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")、[Tizen](../Page/Tizen.md "wikilink")、[Linux与](../Page/Linux.md "wikilink")[Android上运行](../Page/Android.md "wikilink")（[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[macOS有第三方支持](https://zh.wikipedia.org/wiki/macOS "wikilink")\[15\]）。
+    10](../Page/Windows_10.md "wikilink")、[Tizen](../Page/Tizen.md "wikilink")、[Linux与](../Page/Linux.md "wikilink")[Android上运行](../Page/Android.md "wikilink")（[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[macOS有第三方支持](https://zh.wikipedia.org/wiki/macOS "wikilink")\[15\]）。
   - 通过批量处理（Batching）减少CPU负载，使CPU可以执行更多其他的计算或渲染任务。\[16\]\[17\]
   - 在多核心CPU上，Vulkan能对核心与线程进行优化。Direct3D 11与OpenGL
     4最初为单核心CPU设计，尽管后来出现了针对多核心CPU优化的扩展，不过与Vulkan相比，优化仍不是很好。\[18\]

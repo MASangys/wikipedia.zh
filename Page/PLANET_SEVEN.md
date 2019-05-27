@@ -6,10 +6,10 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
   - 與上一張原創專輯《[THE BEST / BLUE
     IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》相距約1年。
-  - 收錄第12張單曲《[S.A.K.U.R.A.](https://zh.wikipedia.org/wiki/S.A.K.U.R.A. "wikilink")》至第15張單曲《[O.R.I.O.N.](../Page/O.R.I.O.N..md "wikilink")》共4首A面曲和4首B面曲。
+  - 收錄第12張單曲《[S.A.K.U.R.A.](../Page/S.A.K.U.R.A..md "wikilink")》至第15張單曲《[O.R.I.O.N.](../Page/O.R.I.O.N..md "wikilink")》共4首A面曲和4首B面曲。
   - 新曲《Eeny, meeny, miny, moe\!》為此專輯的主打曲目。
   - 本作分「初回限定盤（CD+2Blu-ray）」、「初回限定盤（CD+2DVD）」、「初回限定盤（CD+Blu-ray）」、「初回限定盤（CD+DVD）」、「CD盤（CD）」5種版本。
-  - DVD與Blu-ray收錄了《[S.A.K.U.R.A.](https://zh.wikipedia.org/wiki/S.A.K.U.R.A. "wikilink")》、《[R.Y.U.S.E.I.](../Page/R.Y.U.S.E.I..md "wikilink")》、《[C.O.S.M.O.S.
+  - DVD與Blu-ray收錄了《[S.A.K.U.R.A.](../Page/S.A.K.U.R.A..md "wikilink")》、《[R.Y.U.S.E.I.](../Page/R.Y.U.S.E.I..md "wikilink")》、《[C.O.S.M.O.S.
     ～秋櫻～](../Page/C.O.S.M.O.S._～秋櫻～.md "wikilink")》、《[O.R.I.O.N.](../Page/O.R.I.O.N..md "wikilink")》、《Eeny,
     meeny, miny, moe\!》5首歌曲的Music Video和製作花絮（Document），並收錄第三代J Soul
     Brothers演唱會「第三代 J Soul Brothers LIVE TOUR 2014 "BLUE
@@ -33,7 +33,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     （作詞：STY　作曲：STY、Maozon）
       -
         13th單曲、TCK（東京城市賽馬）2014年的活動歌曲
-3.  **[S.A.K.U.R.A.](https://zh.wikipedia.org/wiki/S.A.K.U.R.A. "wikilink")**
+3.  **[S.A.K.U.R.A.](../Page/S.A.K.U.R.A..md "wikilink")**
     （作詞・作曲：STY / Rap詞：SWAY）
       -
         12th單曲、[朝日電視台節目](../Page/朝日電視台.md "wikilink")《お願い\!ランキング》2014年3月度片尾曲
@@ -67,7 +67,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     ストリングスアレンジ：前嶋康明）
       -
         [今市隆二Solo](../Page/今市隆二.md "wikilink")
-10. **[乘風前行](https://zh.wikipedia.org/wiki/S.A.K.U.R.A. "wikilink")**（風の中、歩き出す）
+10. **[乘風前行](../Page/S.A.K.U.R.A..md "wikilink")**（風の中、歩き出す）
     （作詞：樫田正剛 / 作曲・編曲：h-wonder / ストリングスアレンジ：CHICA）
       -
         12th單曲、《S.A.K.U.R.A.》B面曲
@@ -134,7 +134,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     SAITAMA SUPER ARENA 10DAYS PLANET SEVEN Selection**
     1.  [SO RIGHT](../Page/SO_RIGHT.md "wikilink")
     2.  [Waking Me Up](../Page/BURNING_UP.md "wikilink")
-    3.  [SOUTHSIDE](https://zh.wikipedia.org/wiki/TRIBAL_SOUL "wikilink")
+    3.  [SOUTHSIDE](../Page/TRIBAL_SOUL.md "wikilink")
     4.  Wedding Bell 〜美好的人生〜
 
 [Category:J_Soul_Brothers的音樂專輯](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers的音樂專輯 "wikilink")

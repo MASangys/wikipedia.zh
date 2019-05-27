@@ -210,7 +210,7 @@ zh-hant:阿斯格特;}-](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")�
   - 次要角色設計：森本由布希
   - 次要角色設計（神鬥士）：西野文那
   - 小物設計：
-  - 美術監督：（[Production-ai](https://zh.wikipedia.org/wiki/Production-ai "wikilink")）
+  - 美術監督：（[Production-ai](../Page/Production-ai.md "wikilink")）
   - 色彩設計：舟田圭一（Wish）
   - 摄影監督：大泉鉱（T2studio）
   - 摄影監督補佐：石黑瑠美（T2studio）

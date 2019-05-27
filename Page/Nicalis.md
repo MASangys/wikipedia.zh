@@ -2,7 +2,7 @@
 
 ## 游戏
 
-公司自建立以来，开发与发行了数款游戏，最早的游戏分别是2008年的《[舞蹈革命：莫比乌斯](https://zh.wikipedia.org/wiki/舞蹈革命：莫比乌斯 "wikilink")》和2010年的《[洞窟物语](https://zh.wikipedia.org/wiki/洞窟物语 "wikilink")》。2011年10月，Nicalis宣布，通过[任天堂eShop发行](https://zh.wikipedia.org/wiki/任天堂eShop "wikilink")《[VVVVVV](../Page/VVVVVV.md "wikilink")》的[任天堂3DS移植版](../Page/任天堂3DS.md "wikilink")\[5\]。2011年11月，Nicalis的《[NightSky](https://zh.wikipedia.org/wiki/NightSky "wikilink")》和《洞窟物语+》收录于《[Humble
+公司自建立以来，开发与发行了数款游戏，最早的游戏分别是2008年的《[舞蹈革命：莫比乌斯](https://zh.wikipedia.org/wiki/舞蹈革命：莫比乌斯 "wikilink")》和2010年的《[洞窟物语](https://zh.wikipedia.org/wiki/洞窟物语 "wikilink")》。2011年10月，Nicalis宣布，通过[任天堂eShop发行](../Page/任天堂eShop.md "wikilink")《[VVVVVV](../Page/VVVVVV.md "wikilink")》的[任天堂3DS移植版](../Page/任天堂3DS.md "wikilink")\[5\]。2011年11月，Nicalis的《[NightSky](https://zh.wikipedia.org/wiki/NightSky "wikilink")》和《洞窟物语+》收录于《[Humble
 Indie Bundle
 4](https://zh.wikipedia.org/wiki/Humble_Indie_Bundle_4 "wikilink")》\[6\]。2012年4月，Nicalis宣布，计划在欧美发行的《[La-Mulana](https://zh.wikipedia.org/wiki/La-Mulana "wikilink")》因WiiWare用户群下滑而取消\[7\]。
 

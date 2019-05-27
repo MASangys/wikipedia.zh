@@ -2,7 +2,7 @@
 
 ## 概要
 
-[馬自達公司在](https://zh.wikipedia.org/wiki/馬自達 "wikilink")2014年[洛杉磯車展上公開名為](../Page/洛杉矶国际车展.md "wikilink")「馬自達CX-3」的手繪彩色草稿\[1\]，接著在11月19日正式發表該款車\[2\]，乃以第四代[馬自達2為架構而發展的小型](../Page/馬自達2.md "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")，對手直指[速霸陸XV](../Page/速霸陸XV.md "wikilink")、、[日產Juke](../Page/日產Juke.md "wikilink")、[本田HR-V](https://zh.wikipedia.org/wiki/本田HR-V "wikilink")、[斯柯達Yeti等車款](../Page/斯柯达野帝.md "wikilink")。
+[馬自達公司在](https://zh.wikipedia.org/wiki/馬自達 "wikilink")2014年[洛杉磯車展上公開名為](../Page/洛杉矶国际车展.md "wikilink")「馬自達CX-3」的手繪彩色草稿\[1\]，接著在11月19日正式發表該款車\[2\]，乃以第四代[馬自達2為架構而發展的小型](../Page/馬自達2.md "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")，對手直指[速霸陸XV](../Page/速霸陸XV.md "wikilink")、、[日產Juke](../Page/日產Juke.md "wikilink")、[本田HR-V](../Page/本田HR-V.md "wikilink")、[斯柯達Yeti等車款](../Page/斯柯达野帝.md "wikilink")。
 
 關於車名的由來，「CX」取自crossover\[3\]，「3」則為近年來[馬自達公司命名車種的方式](https://zh.wikipedia.org/wiki/馬自達 "wikilink")，原則上數字越大表示越高階或車身越大的車款。從[引擎](../Page/发动机.md "wikilink")、[底盤](https://zh.wikipedia.org/wiki/底盤 "wikilink")、[傳動系統](https://zh.wikipedia.org/wiki/變速器 "wikilink")、乃至於車身結構，皆採用該公司近年來力推的[創馳藍天技術](../Page/創馳藍天技術.md "wikilink")。
 {{-}}

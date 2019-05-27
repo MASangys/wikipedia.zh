@@ -6,11 +6,11 @@
 
 ## 极限关系
 
-  - [连续q雅可比多项式](https://zh.wikipedia.org/wiki/连续q雅可比多项式 "wikilink")→[连续q拉盖尔多项式](https://zh.wikipedia.org/wiki/连续q拉盖尔多项式 "wikilink")
+  - [连续q雅可比多项式](../Page/连续q雅可比多项式.md "wikilink")→[连续q拉盖尔多项式](../Page/连续q拉盖尔多项式.md "wikilink")
 
 \(\lim_{\beta \to \infty}P_{n}^{(\alpha;\beta)}(x|q)=P_{n}^{(\alpha)}(x|q)\)
 
-  - [连续q雅可比多项式](https://zh.wikipedia.org/wiki/连续q雅可比多项式 "wikilink")→[雅科比多项式](https://zh.wikipedia.org/wiki/雅科比多项式 "wikilink")
+  - [连续q雅可比多项式](../Page/连续q雅可比多项式.md "wikilink")→[雅科比多项式](https://zh.wikipedia.org/wiki/雅科比多项式 "wikilink")
 
 \(\lim_{q \to 1}P_{n}^{(\alpha;\beta)}(x|q)=P_{n}^{(\alpha;\beta)}(x|q)\)
 

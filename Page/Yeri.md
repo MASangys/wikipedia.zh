@@ -1,12 +1,12 @@
 [SM ROOKIES](../Page/SM_ROOKIES.md "wikilink") | IMDb = 6588737 }}
 
 **金藝琳**（，\[1\]，），藝名**Yeri**（，），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女藝人](https://zh.wikipedia.org/wiki/女藝人 "wikilink")，為[SM娛樂旗下的五人女子組合](../Page/SM娛樂.md "wikilink")[Red
-Velvet的成員之一](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。2015年3月加入[Red
-Velvet正式出道](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。
+Velvet的成員之一](../Page/Red_Velvet.md "wikilink")。2015年3月加入[Red
+Velvet正式出道](../Page/Red_Velvet.md "wikilink")。
 
 ## 個人生活
 
-**金藝琳**在1999年3月5日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾特別市](https://zh.wikipedia.org/wiki/首爾 "wikilink")，曾畢業于光東中學校、長峴初等學校和首爾翰林藝術高中。有三個妹妹，是四姊妹中的大姊。2018年被[尹敏洙透露](../Page/尹敏洙.md "wikilink")：[Vibe隊友柳宰賢是Yeri的表哥](../Page/Vibe.md "wikilink")。\[2\]
+**金藝琳**在1999年3月5日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾特別市](../Page/首爾.md "wikilink")，曾畢業于光東中學校、長峴初等學校和首爾翰林藝術高中。有三個妹妹，是四姊妹中的大姊。2018年被[尹敏洙透露](../Page/尹敏洙.md "wikilink")：[Vibe隊友柳宰賢是Yeri的表哥](../Page/Vibe.md "wikilink")。\[2\]
 
 ## 簡歷
 
@@ -16,13 +16,13 @@ Velvet正式出道](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。
 
 2014年8月1日，以[SM
 ROOKIES身份與Lami](../Page/SM_ROOKIES.md "wikilink")、Herin、Hina、Koeun出演[Red
-Velvet的出道單曲](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")《Happiness》。10月，在SMTOWN
+Velvet的出道單曲](../Page/Red_Velvet.md "wikilink")《Happiness》。10月，在SMTOWN
 Live第四次世界巡迴演唱會的首爾場上，以[SM
 ROOKIES的身份表演](../Page/SM_ROOKIES.md "wikilink")《Violet
 Fragrance (보랏빛 향기)》與《No No No No No》等歌曲。
 
 2015年3月11日，[SM娛樂宣佈金藝琳加入](../Page/SM娛樂.md "wikilink")[Red
-Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")\[3\]。3月18日，金藝琳以**YERI**為藝名在Naver
+Velvet](../Page/Red_Velvet.md "wikilink")\[3\]。3月18日，金藝琳以**YERI**為藝名在Naver
 Music的《Red Velvet 的 Ice Cream TV》出道。隊内擔當為忙内、領舞、副唱。
 
 ### 出道後
@@ -36,17 +36,17 @@ Countdown》初舞臺出道。同年3月27號在[KBS](https://zh.wikipedia.org/w
 2016年5月11日至19日，與[利特](../Page/利特.md "wikilink")（[Super
 Junior](../Page/Super_Junior.md "wikilink")）、金政模（[TRAX](https://zh.wikipedia.org/wiki/TRAX "wikilink")）共同主持[NAVER](../Page/NAVER.md "wikilink")
 V LIVE
-《[看得見的SM](https://zh.wikipedia.org/wiki/看得見的SM "wikilink")》。\[6\]7月8日，參演前輩[J-Min的音樂錄影帶](../Page/J-Min.md "wikilink")《家门前（Way
+《[看得見的SM](../Page/看得見的SM.md "wikilink")》。\[6\]7月8日，參演前輩[J-Min的音樂錄影帶](../Page/J-Min.md "wikilink")《家门前（Way
 Back
 Home）》。10月10日，與成員Seulgi在回宿舍的途中遭遇車禍。隨即公司發表聲明倆人會暫停一切活動，集中時間進行休息。\[7\]12月26日，身體好轉並與成員一起參演SBS歌謠大戰。\[8\]
 
-2017年11月17日，爲了專心于組合活動，表明不參與韓國高考。\[9\]\[10\]2018年2月9日從[首爾翰林藝術高中實用音樂科畢業](https://zh.wikipedia.org/wiki/翰林演藝藝術高等學校 "wikilink")。
+2017年11月17日，爲了專心于組合活動，表明不參與韓國高考。\[9\]\[10\]2018年2月9日從[首爾翰林藝術高中實用音樂科畢業](../Page/翰林演藝藝術高等學校.md "wikilink")。
 
 2018年4月21日，于[Spotify发行首张个人翻唱数码单曲](../Page/Spotify.md "wikilink")‘Yeri's’，收录Yeri参与作词和作曲的“이야기(Story)”（原唱为Ragoon）以及“깊이
 아래로 (Deep Down)”（原唱为Cheeze）。\[11\]
 
 2019年3月14日，在她20歲（實歲）生日後不久，在Youtube發表個人原創作品《致二十歲（Dear
-Diary）》。此曲早於去年《[秘密姐姐](https://zh.wikipedia.org/wiki/秘密姐姐 "wikilink")》（20[虛歲生日前](../Page/虚岁.md "wikilink")）已完成創作。
+Diary）》。此曲早於去年《[秘密姐姐](../Page/秘密姐姐.md "wikilink")》（20[虛歲生日前](../Page/虚岁.md "wikilink")）已完成創作。
 
 ## 音樂作品
 
@@ -76,7 +76,7 @@ Diary）》。此曲早於去年《[秘密姐姐](https://zh.wikipedia.org/wiki/
 <td><p>《<strong>Yeri's</strong>》[12]</p>
 <ul>
 <li>發行日期：2018年4月21日</li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">RV</a></li>
+<li>唱片公司：<a href="../Page/Red_Velvet.md" title="wikilink">RV</a></li>
 <li>語言：韓語</li>
 <li>音乐平台：<a href="../Page/Spotify.md" title="wikilink">Spotify</a></li>
 </ul></td>
@@ -215,11 +215,11 @@ Yeri 首张翻唱数码单曲《Yeri's》</p></td>
 
 ### 固定出演
 
-| **放送日期**           | **電視臺**                                               | **節目名稱**                                                | **備註**                                                   |
-| ------------------ | ----------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
-| 2018年5月4日 - 5月25日  | [JTBC](../Page/JTBC.md "wikilink")4                   | 《[秘密姐姐](https://zh.wikipedia.org/wiki/秘密姐姐 "wikilink")》 | [韩彩英為秘密姐姐](https://zh.wikipedia.org/wiki/韩彩英 "wikilink") |
-| 2018年6月29日 - 7月20日 | [塞班島特輯](https://zh.wikipedia.org/wiki/塞班島 "wikilink") |                                                         |                                                          |
-|                    |                                                       |                                                         |                                                          |
+| **放送日期**           | **電視臺**                                               | **節目名稱**                             | **備註**                                                   |
+| ------------------ | ----------------------------------------------------- | ------------------------------------ | -------------------------------------------------------- |
+| 2018年5月4日 - 5月25日  | [JTBC](../Page/JTBC.md "wikilink")4                   | 《[秘密姐姐](../Page/秘密姐姐.md "wikilink")》 | [韩彩英為秘密姐姐](https://zh.wikipedia.org/wiki/韩彩英 "wikilink") |
+| 2018年6月29日 - 7月20日 | [塞班島特輯](https://zh.wikipedia.org/wiki/塞班島 "wikilink") |                                      |                                                          |
+|                    |                                                       |                                      |                                                          |
 
 ### 單次訪問/嘉賓出演
 
@@ -240,17 +240,17 @@ Yeri 首张翻唱数码单曲《Yeri's》</p></td>
 <tr class="even">
 <td><p>2015年4月13日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a>》</p></td>
-<td><p>與Joy、<a href="https://zh.wikipedia.org/wiki/金鐘大" title="wikilink">Chen</a> 、<a href="../Page/Chanyeol.md" title="wikilink">Chanyeol</a>、<a href="https://zh.wikipedia.org/wiki/伯賢" title="wikilink">Baekhyun</a></p></td>
+<td><p>與Joy、<a href="https://zh.wikipedia.org/wiki/金鐘大" title="wikilink">Chen</a> 、<a href="../Page/Chanyeol.md" title="wikilink">Chanyeol</a>、<a href="../Page/伯賢.md" title="wikilink">Baekhyun</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年1月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a> 《<a href="https://zh.wikipedia.org/wiki/把便利店掏空吧" title="wikilink">把便利店掏空吧</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a> 《<a href="../Page/把便利店掏空吧.md" title="wikilink">把便利店掏空吧</a>》</p></td>
 <td><p>試播2<br />
 與Irene、Joy</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年4月20日</p></td>
-<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a>4 《<a href="https://zh.wikipedia.org/wiki/秘密姐姐" title="wikilink">秘密姐姐</a>》</p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a>4 《<a href="../Page/秘密姐姐.md" title="wikilink">秘密姐姐</a>》</p></td>
 <td><p>試播</p></td>
 </tr>
 <tr class="odd">
@@ -280,16 +280,16 @@ Yeri 首张翻唱数码单曲《Yeri's》</p></td>
 | ---------------- | ------------------------------------------------------ | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 2015年4月11日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")    | 《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》     | 一日MC(與[珉豪](../Page/珉豪.md "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鐘大 "wikilink"))                                               |
 | 2015年5月9日至11月14日 | 固定MC                                                   |                                                                          |                                                                                                                                          |
-| 2016年5月11日至19日   | [NAVER](../Page/NAVER.md "wikilink") V LIVE            | 《[看得見的SM](https://zh.wikipedia.org/wiki/看得見的SM "wikilink")》              | 與[Super Junior](../Page/Super_Junior.md "wikilink") [利特](../Page/利特.md "wikilink")、[TRAX](https://zh.wikipedia.org/wiki/TRAX "wikilink") |
-| 2017年2月9日        | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")  | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 一日MC(與[Seulgi](https://zh.wikipedia.org/wiki/瑟琪 "wikilink"))                                                                             |
+| 2016年5月11日至19日   | [NAVER](../Page/NAVER.md "wikilink") V LIVE            | 《[看得見的SM](../Page/看得見的SM.md "wikilink")》                                 | 與[Super Junior](../Page/Super_Junior.md "wikilink") [利特](../Page/利特.md "wikilink")、[TRAX](https://zh.wikipedia.org/wiki/TRAX "wikilink") |
+| 2017年2月9日        | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")  | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 一日MC(與[Seulgi](../Page/瑟琪.md "wikilink"))                                                                                                |
 | 2017年7月13日       | 一日MC(與[Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")) |                                                                          |                                                                                                                                          |
 | 2018年2月3日        | MBC                                                    | 《Show\! 音樂中心》                                                            | 一日MC(與[B.I](../Page/B.I.md "wikilink")、[Bobby](../Page/金知元_\(饒舌者\).md "wikilink"))                                                       |
 
 ### 合作舞臺
 
-| **年份** | **表演日期** | **節目名稱**                                                    | **合作藝人**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **影片**                                                             |
-| ------ | -------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 2018年  | 12月28日   | [KBS歌謠盛典](https://zh.wikipedia.org/wiki/KBS歌謠盛典 "wikilink") | [Kei](https://zh.wikipedia.org/wiki/Kei "wikilink")（[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")）、[嚴智](../Page/Umji.md "wikilink")([GFRIEND](../Page/GFRIEND.md "wikilink")）、[Arin](https://zh.wikipedia.org/wiki/Arin "wikilink")（[Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")）、[多賢](../Page/多賢.md "wikilink")（[Twice](https://zh.wikipedia.org/wiki/Twice "wikilink")）、[雨琦](https://zh.wikipedia.org/wiki/雨琦 "wikilink")（[(G)I-DLE](https://zh.wikipedia.org/wiki/\(G\)I-DLE "wikilink")） | [《Kissing You》 Video](https://www.youtube.com/watch?v=wyo7ufOVQng) |
+| **年份** | **表演日期** | **節目名稱**                                 | **合作藝人**                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **影片**                                                             |
+| ------ | -------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 2018年  | 12月28日   | [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink") | [Kei](../Page/Kei.md "wikilink")（[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")）、[嚴智](../Page/Umji.md "wikilink")([GFRIEND](../Page/GFRIEND.md "wikilink")）、[Arin](../Page/Arin.md "wikilink")（[Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")）、[多賢](../Page/多賢.md "wikilink")（[Twice](https://zh.wikipedia.org/wiki/Twice "wikilink")）、[雨琦](https://zh.wikipedia.org/wiki/雨琦 "wikilink")（[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")） | [《Kissing You》 Video](https://www.youtube.com/watch?v=wyo7ufOVQng) |
 
 ## 代言
 
@@ -310,7 +310,7 @@ Yeri 首张翻唱数码单曲《Yeri's》</p></td>
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p>SKECHERS D'Lites 2 Sweet Monster</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">Seulgi</a>、<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>、<a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a><br />
+<td><p><a href="../Page/瑟琪.md" title="wikilink">Seulgi</a>、<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>、<a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a><br />
 <a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
 </tr>
 </tbody>

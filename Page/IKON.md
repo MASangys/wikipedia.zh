@@ -1,13 +1,13 @@
-[宋允亨](../Page/宋允亨.md "wikilink"){{·}}[BOBBY](https://zh.wikipedia.org/wiki/金知元_\(饶舌者\) "wikilink"){{·}}[B.I](../Page/B.I.md "wikilink"){{·}}[金東赫](https://zh.wikipedia.org/wiki/金東赫 "wikilink"){{·}}[具俊會](https://zh.wikipedia.org/wiki/具俊會 "wikilink"){{·}}[鄭粲右](../Page/鄭粲右.md "wikilink")
+[宋允亨](../Page/宋允亨.md "wikilink"){{·}}[BOBBY](https://zh.wikipedia.org/wiki/金知元_\(饶舌者\) "wikilink"){{·}}[B.I](../Page/B.I.md "wikilink"){{·}}[金東赫](../Page/金東赫.md "wikilink"){{·}}[具俊會](../Page/具俊會.md "wikilink"){{·}}[鄭粲右](../Page/鄭粲右.md "wikilink")
 }}
 **iKON**（；），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂於](../Page/YG娛樂.md "wikilink")2015年推出的男子組合，歷經出道生存節目《[WIN](../Page/WIN.md "wikilink")》和《[MIX
 &
-MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")》，最終由[B.I](../Page/B.I.md "wikilink")（隊長）、[BOBBY](https://zh.wikipedia.org/wiki/金知元_\(饒舌者\) "wikilink")（《[Show
+MATCH](../Page/MIX_&_MATCH.md "wikilink")》，最終由[B.I](../Page/B.I.md "wikilink")（隊長）、[BOBBY](../Page/金知元_\(饒舌者\).md "wikilink")（《[Show
 Me The Money
-3](https://zh.wikipedia.org/wiki/Show_Me_The_Money_3 "wikilink")》冠軍）、[金振煥](https://zh.wikipedia.org/wiki/金振煥 "wikilink")、[宋允亨](../Page/宋允亨.md "wikilink")、[具俊會](https://zh.wikipedia.org/wiki/具俊會 "wikilink")\[1\]、[金東赫和](https://zh.wikipedia.org/wiki/金東赫 "wikilink")[鄭粲右](../Page/鄭粲右.md "wikilink")\[2\]\[3\]\[4\]\[5\]\[6\]七人組成。
+3](../Page/Show_Me_The_Money_3.md "wikilink")》冠軍）、[金振煥](../Page/金振煥.md "wikilink")、[宋允亨](../Page/宋允亨.md "wikilink")、[具俊會](../Page/具俊會.md "wikilink")\[1\]、[金東赫和](../Page/金東赫.md "wikilink")[鄭粲右](../Page/鄭粲右.md "wikilink")\[2\]\[3\]\[4\]\[5\]\[6\]七人組成。
 2015年9月15日出道時以《取向狙擊》\[7\]（；）橫掃韓國[Melon等](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")8大音樂排行榜，並囊括韓國五大頒獎典禮[MMA](../Page/甜瓜音樂獎.md "wikilink")、[MAMA](../Page/Mnet亞洲音樂大獎.md "wikilink")、[首爾歌謠大賞](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")、[金唱片大賞和](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")[Gaon
 Chart
-K-POP大獎的新人賞](../Page/Gaon_Chart_K-POP大獎.md "wikilink")，完成「新人賞大滿貫」\[8\]。2016年1月13日於日本出道後，亦獲得最佳新人賞的殊榮。2018年1月25日發布的第二張正規專輯《[Return](https://zh.wikipedia.org/wiki/Return_\(iKON專輯\) "wikilink")》之主打歌《Love
+K-POP大獎的新人賞](../Page/Gaon_Chart_K-POP大獎.md "wikilink")，完成「新人賞大滿貫」\[8\]。2016年1月13日於日本出道後，亦獲得最佳新人賞的殊榮。2018年1月25日發布的第二張正規專輯《[Return](../Page/Return_\(iKON專輯\).md "wikilink")》之主打歌《Love
 Scenario》\[9\]除了橫掃韓國Melon等7大音樂排行榜外，更連續位居實時榜單一位達41日，突破近十年來韓國樂壇史的最長紀錄\[10\]。同年2月9日更被美國《時代雜誌》選為現時K-POP（韓國流行音樂）界中的6大團體之一\[11\]。
 
 ## 團名由來
@@ -21,7 +21,7 @@ iKON的官方粉絲名稱為「iKONIC」，官方應援物為球棒造型的手�
 
 ### 2011年－2013年：組合成立前
 
-2011年1月3日隊長[B.I和來自濟州島的](../Page/B.I.md "wikilink")[金振煥同日加入](https://zh.wikipedia.org/wiki/金振煥 "wikilink")[YG娛樂成為練習生](../Page/YG娛樂.md "wikilink")，一星期後來自[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[BOBBY也加入一同練習](https://zh.wikipedia.org/wiki/金知元_\(饒舌者\) "wikilink")（因成員三人都姓「金」，又稱「金三角」），2012年4月18日[具俊會](https://zh.wikipedia.org/wiki/具俊會 "wikilink")、[宋允亨加入](../Page/宋允亨.md "wikilink")，2012年11月5日[金東赫加入](https://zh.wikipedia.org/wiki/金東赫 "wikilink")\[14\]，組成TEAM
+2011年1月3日隊長[B.I和來自濟州島的](../Page/B.I.md "wikilink")[金振煥同日加入](../Page/金振煥.md "wikilink")[YG娛樂成為練習生](../Page/YG娛樂.md "wikilink")，一星期後來自[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[BOBBY也加入一同練習](../Page/金知元_\(饒舌者\).md "wikilink")（因成員三人都姓「金」，又稱「金三角」），2012年4月18日[具俊會](../Page/具俊會.md "wikilink")、[宋允亨加入](../Page/宋允亨.md "wikilink")，2012年11月5日[金東赫加入](../Page/金東赫.md "wikilink")\[14\]，組成TEAM
 B，與TEAM
 A於2013年5月31日開始錄製[YG娛樂所屬男子組合](../Page/YG娛樂.md "wikilink")[WINNER出道生存賽節目](../Page/WINNER.md "wikilink")《[WIN](../Page/WIN.md "wikilink")》\[15\]。在《[WIN](../Page/WIN.md "wikilink")》節目中TEAM
 B的著名舞蹈場面有《6 Foot 7 Foot\[16\]》\[17\]； 同年的10月25日總決賽直播，Team
@@ -29,19 +29,18 @@ B演唱自作曲《Climax\[18\]》\[19\]\[20\]，人氣投票輸給TEAM
 A，未能出道。重新回到練習生活，接受歌唱訓練和舞蹈教學，並公開由世界編舞大師所教的練習影片《Get
 Like Me》\[21\]\[22\]
 
-### 2014年：《[MIX & MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")》iKON 七名成員選拔
+### 2014年：《[MIX & MATCH](../Page/MIX_&_MATCH.md "wikilink")》iKON 七名成員選拔
 
 2014年5月2日演出《YG FAMILY
 CONCERT》東京場，同年5月7日，[YG娛樂楊賢碩社長召集原TEAM](../Page/YG娛樂.md "wikilink")
 B成員六人，宣佈開始錄製[iKON出道生存節目](https://zh.wikipedia.org/wiki/iKON "wikilink")《[MIX
 &
-MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")》，並加入新成員二名[鄭鎮馨和](https://zh.wikipedia.org/wiki/鄭鎮馨 "wikilink")[鄭粲右](../Page/鄭粲右.md "wikilink")，第一次評價舞台後，於6月11日又加入新成員[梁洪碩](https://zh.wikipedia.org/wiki/梁洪碩 "wikilink")\[23\]\[24\]。同年9月2日，楊賢碩與9位成員出席《[MIX
+MATCH](../Page/MIX_&_MATCH.md "wikilink")》，並加入新成員二名[鄭鎮馨和](https://zh.wikipedia.org/wiki/鄭鎮馨 "wikilink")[鄭粲右](../Page/鄭粲右.md "wikilink")，第一次評價舞台後，於6月11日又加入新成員[梁洪碩](https://zh.wikipedia.org/wiki/梁洪碩 "wikilink")\[23\]\[24\]。同年9月2日，楊賢碩與9位成員出席《[MIX
 &
-MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")》記者發佈會\[25\]，宣佈組合名「iKON」，預計有7名成員，已確定3個成員分別是隊長[B.I](../Page/B.I.md "wikilink")、[金振煥](https://zh.wikipedia.org/wiki/金振煥 "wikilink")、和《Show
-Me The Money
-3》冠軍[BOBBY](https://zh.wikipedia.org/wiki/金知元_\(饒舌者\) "wikilink")\[26\]\[27\]。
+MATCH](../Page/MIX_&_MATCH.md "wikilink")》記者發佈會\[25\]，宣佈組合名「iKON」，預計有7名成員，已確定3個成員分別是隊長[B.I](../Page/B.I.md "wikilink")、[金振煥](../Page/金振煥.md "wikilink")、和《Show
+Me The Money 3》冠軍[BOBBY](../Page/金知元_\(饒舌者\).md "wikilink")\[26\]\[27\]。
 9月11日，《[MIX &
-MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")》正式开播（每星期四晚上11时在[Mnet频道播出](https://zh.wikipedia.org/wiki/Mnet "wikilink")。）第一集片尾公佈TEAM
+MATCH](../Page/MIX_&_MATCH.md "wikilink")》正式开播（每星期四晚上11时在[Mnet频道播出](https://zh.wikipedia.org/wiki/Mnet "wikilink")。）第一集片尾公佈TEAM
 B自作曲《Wait For
 Me》\[28\]。第八集公開10月22日[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[高麗大學華政體育館舉辦的最後Final](../Page/高麗大學.md "wikilink")
 Match舞台，並公佈自作曲《Long Time No See》和《Sinosijak》\[29\]。
@@ -60,7 +59,7 @@ Entertainment宣布從](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink
   - 11月6日：金東赫\[35\]
 
 11月6日《[MIX &
-MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")》最後一集，宣佈最終[iKON七位成員](https://zh.wikipedia.org/wiki/iKON "wikilink")。並於11月15日、16日开始展开的[BIGBANG日本五大巨蛋巡回演唱会](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，擔任演出嘉宾。
+MATCH](../Page/MIX_&_MATCH.md "wikilink")》最後一集，宣佈最終[iKON七位成員](https://zh.wikipedia.org/wiki/iKON "wikilink")。並於11月15日、16日开始展开的[BIGBANG日本五大巨蛋巡回演唱会](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，擔任演出嘉宾。
 
 12月3日，Bobby与B.I参与第16届[Mnet亚洲音乐大奖担任开场嘉宾并和](https://zh.wikipedia.org/wiki/Mnet亚洲音乐大奖 "wikilink")[Epik
 High合作演唱歌曲](../Page/Epik_High.md "wikilink")《BORN
@@ -81,7 +80,7 @@ HATER\[36\]》的表演舞台\[37\]\[38\]\[39\]。
     SUHYUN的](https://zh.wikipedia.org/wiki/HI_SUHYUN "wikilink")《I'M
     DIFFERENT》的伴唱，从出道前开始便备受瞩目，尤其是BOBBY成为人气嘻哈MC受到关注。”Billboard还介绍称，iKON从出道前开始通过出演实录节目《[MIX
     &
-    MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")》，以及参与前辈歌手们的专辑等实力与人气备受认可，并评价称，他们有望成为2015年歌坛界大红大紫的新星。
+    MATCH](../Page/MIX_&_MATCH.md "wikilink")》，以及参与前辈歌手们的专辑等实力与人气备受认可，并评价称，他们有望成为2015年歌坛界大红大紫的新星。
 
 3月19日iKON被選為「水原 JS 盃足球大會」的宣傳大使\[42\]\[43\]。
 
@@ -120,7 +119,7 @@ BACK》於日本出道,當日創下5.3207萬張銷量，位居日刊榜冠軍\[6
 
 1月30日由韓國首爾奧林匹克競技場開始，造訪[日本](../Page/日本.md "wikilink")、[中國](../Page/中國.md "wikilink")、[香港](../Page/香港.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞及](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[印尼等國家及地區](https://zh.wikipedia.org/wiki/印尼 "wikilink")，進行為時八個多月，共28場的巡迴演唱會《[iKONCERT
 2016 SHOW TIME
-TOUR](https://zh.wikipedia.org/wiki/IKoncert_2016：Showtime_Tour "wikilink")》。其中日本場共5座城市14場演出聚集14萬6千名歌迷動員\[62\]；演唱會期間，於2月17日獲第五屆[Gaon
+TOUR](../Page/IKoncert_2016：Showtime_Tour.md "wikilink")》。其中日本場共5座城市14場演出聚集14萬6千名歌迷動員\[62\]；演唱會期間，於2月17日獲第五屆[Gaon
 Chart
 K-POP大獎九月音源賞與新人賞](../Page/Gaon_Chart_K-POP大獎.md "wikilink")，為韓國歌謠界首次新人獎與音源獎同時受賞的男子團體\[63\]，至此為止亦是繼SHINee後時隔八年，取得**新人賞大滿貫**之團體。3月23日獲得中國QQ音樂盛典年度樂壇新勢力組合、年度媒體推薦專輯；4月15日獲得[全球華語榜中榜](https://zh.wikipedia.org/wiki/全球華語榜中榜 "wikilink")
 亞洲影響力最受歡迎組合。5月29日發布數位單曲《\#WYD\[64\]》，發布後於Naver等7大音源榜取得1位，並在Melon與1位歌曲同時破表。
@@ -134,7 +133,7 @@ DUMBER\[79\]》，收錄數位音源《\#WYD\[80\]》、日本首發曲《LOVE M
 REMIX\[82\]》等4首歌的日文版，獲得日本Oricon單曲周榜第一\[83\]。12月30日在日本[TBS播出的第](../Page/TBS.md "wikilink")58屆日本Record大賞中，獲[JAPAN
 RECORD AWARDS第](../Page/日本唱片大獎.md "wikilink")58屆最優秀新人賞\[84\]。
 
-### 2017年：首張單曲專輯《[NEW KIDS : BEGIN](https://zh.wikipedia.org/wiki/New_Kids:_Begin_\(iKON韓語單曲\) "wikilink")》；新團綜《[違反校規的修學旅行](https://zh.wikipedia.org/wiki/違反校規的修學旅行 "wikilink")》
+### 2017年：首張單曲專輯《[NEW KIDS : BEGIN](../Page/New_Kids:_Begin_\(iKON韓語單曲\).md "wikilink")》；新團綜《[違反校規的修學旅行](../Page/違反校規的修學旅行.md "wikilink")》
 
 延續2016年《iKON JAPAN TOUR
 2016》，2017年2月10日至3月20日於[日本](../Page/日本.md "wikilink")[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")、[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")、[橫濱三座城市共](https://zh.wikipedia.org/wiki/橫濱 "wikilink")9場演出動員12萬人次，合稱《iKON
@@ -144,11 +143,11 @@ iKON Japan Dome
 Tour》，追加公演從9月9日起至11月12日止於[神戶](https://zh.wikipedia.org/wiki/神戶 "wikilink")、[長野](https://zh.wikipedia.org/wiki/長野 "wikilink")、[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")、[神奈川](https://zh.wikipedia.org/wiki/神奈川 "wikilink")、[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")、[靜岡](https://zh.wikipedia.org/wiki/靜岡 "wikilink")、[愛知](https://zh.wikipedia.org/wiki/愛知 "wikilink")、[千葉縣](../Page/千葉縣.md "wikilink")、[兵庫](https://zh.wikipedia.org/wiki/兵庫 "wikilink")8座城市共22場演出動員23.3萬人次\[85\]。
 
 官方網站於5月16日宣布iKON將於5月22日以新單曲專輯《[NEW KIDS :
-BEGIN](https://zh.wikipedia.org/wiki/New_Kids:_Begin_\(iKON韓語單曲\) "wikilink")》回歸\[86\]，並發佈專輯預告MV\[87\]\[88\]。後於5月21日公開《[NEW
+BEGIN](../Page/New_Kids:_Begin_\(iKON韓語單曲\).md "wikilink")》回歸\[86\]，並發佈專輯預告MV\[87\]\[88\]。後於5月21日公開《[NEW
 KIDS :
-BEGIN](https://zh.wikipedia.org/wiki/New_Kids:_Begin_\(iKON韓語單曲\) "wikilink")》七位成員概念照，公布除[B.I和](../Page/B.I.md "wikilink")[BOBBY外之其餘五名原本使用本名活動的成員新藝名](https://zh.wikipedia.org/wiki/BOBBY "wikilink")\[89\]。5月22日通過各大數位音樂網站公開線上音源，正式發行《[NEW
+BEGIN](../Page/New_Kids:_Begin_\(iKON韓語單曲\).md "wikilink")》七位成員概念照，公布除[B.I和](../Page/B.I.md "wikilink")[BOBBY外之其餘五名原本使用本名活動的成員新藝名](https://zh.wikipedia.org/wiki/BOBBY "wikilink")\[89\]。5月22日通過各大數位音樂網站公開線上音源，正式發行《[NEW
 KIDS :
-BEGIN](https://zh.wikipedia.org/wiki/New_Kids:_Begin_\(iKON韓語單曲\) "wikilink")》，並公開雙主打MV《BLING
+BEGIN](../Page/New_Kids:_Begin_\(iKON韓語單曲\).md "wikilink")》，並公開雙主打MV《BLING
 BLING\[90\]》、《B-DAY\[91\]》。《BLING
 BLING》由成員[B.I](../Page/B.I.md "wikilink")、[BOBBY與MILLENNIUM](https://zh.wikipedia.org/wiki/BOBBY "wikilink")（YG練習生최래성，音譯崔來星）共同製作；《B-DAY》是Birthday的縮略語，韓文音譯為（벌떼），意同為「蜜蜂」，由[B.I與](../Page/B.I.md "wikilink")[BOBBY作詞](https://zh.wikipedia.org/wiki/BOBBY "wikilink")、[B.I及AiRPLAY](../Page/B.I.md "wikilink")、姜旭鎮作曲。音源一發表短時間內竄升至韓國各大音源榜上位圈，並且拿下了[香港](../Page/香港.md "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[泰國等共](https://zh.wikipedia.org/wiki/泰國 "wikilink")10個國家的iTunes
 Chart專輯榜冠軍\[92\]，2天後Melon即時排行榜為第66跟第86名（以24日下午2點為基準），韓媒《Sports東亞》認為發行後表現不如預期\[93\]。7月27日公佈日文版《BLING
@@ -156,19 +155,18 @@ BLING\[94\]》、《B-DAY\[95\]》MV，8月16日於日本發行迷小專輯，�
 \[96\]\[97\]。
 
 6月18日，出演[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台](https://zh.wikipedia.org/wiki/SBS "wikilink")《[Fantastic
-Duo
-2](https://zh.wikipedia.org/wiki/Fantastic_Duo_2 "wikilink")》，與合作特別舞台,《雨和你的故事\[98\]》（）。
+Duo 2](../Page/Fantastic_Duo_2.md "wikilink")》，與合作特別舞台,《雨和你的故事\[98\]》（）。
 10月22日受邀參演釜山音樂節（Busan One Asia Festival，簡稱BOF）演唱《BLING
 BLING》和《B-DAY》\[99\]。10月23日首爾大韓貿易投資振興公社委任iKON為2017韓流博覽會胡志明站宣傳大使\[100\]。
 
-11月4日，於韓國[JTBC播出新團綜](../Page/JTBC.md "wikilink")《[違反校規的修學旅行](https://zh.wikipedia.org/wiki/違反校規的修學旅行 "wikilink")》，是一檔由iKON成員與7位日本女藝人一起前往濟州島度過5天4夜旅行的節目。朴智恩PD
+11月4日，於韓國[JTBC播出新團綜](../Page/JTBC.md "wikilink")《[違反校規的修學旅行](../Page/違反校規的修學旅行.md "wikilink")》，是一檔由iKON成員與7位日本女藝人一起前往濟州島度過5天4夜旅行的節目。朴智恩PD
 (節目總監)
 在製作發表會上表示：「在企劃這個節目的過程中，對iKON進行採訪時，發現成員們因為成為練習生，而少了很多學生時代的回憶。而且成員們也沒有其他親近的藝人，只跟成員們比較要好，我覺得這樣太過可惜，才企劃出這個讓平均22歲的參加成員一起前往修學旅行的節目。」\[101\]\[102\]。隔年2月在[日本通過](../Page/日本.md "wikilink")[Abema
 TV從](https://zh.wikipedia.org/wiki/Abema_TV "wikilink")9日起開播。
 
-### 2018年：正規二輯《[Return](https://zh.wikipedia.org/wiki/Return_\(iKON專輯\) "wikilink")》、團綜《iKON TV》、MV破億、迷你一輯《New Kids:Continue》、迷你二輯《New Kids:The Final》
+### 2018年：正規二輯《[Return](../Page/Return_\(iKON專輯\).md "wikilink")》、團綜《iKON TV》、MV破億、迷你一輯《New Kids:Continue》、迷你二輯《New Kids:The Final》
 
-#### 第一次回歸：正規二輯《[Return](https://zh.wikipedia.org/wiki/Return_\(iKON專輯\) "wikilink")》
+#### 第一次回歸：正規二輯《[Return](../Page/Return_\(iKON專輯\).md "wikilink")》
 
 2018年1月7日發佈前導預告片\[103\]，1月25日下午6時通過各大數位音樂網站公開線上音源\[104\]及主打歌《LOVE
 SCENARIO》MV\[105\]。1月27日[YG娛樂梁鉉錫社長的IG公佈](../Page/YG娛樂.md "wikilink")[iKON成員的IG個人帳戶](https://zh.wikipedia.org/wiki/iKON "wikilink")\[106\]，2月12日，在韓國最大的音源網站Melon，以及Naver
@@ -176,7 +174,7 @@ Music、Mnet、Monkey 3、Olleh
 Music、Genie、Bugs、Soribada等八大音樂網站上排名第一，再此突破Perfect
 ALL
 KILL紀錄\[107\]，連續18日占據音源榜一位，成為近3年來韓國男子組合的最熱門歌曲，並在美國、日本、中國等17個國家與地區的iTunes及音源網站上取得榜單一位的成績\[108\]；2月21日，連續28日位居實時榜單一位，橫掃最大音源網站Melon、Mnet、Genie、Soribada、Olleh、Naver、Monkey3等7個實時榜單一位，持續24小時收聽人數超過70萬人，突破韓國樂壇近十年來的最長紀錄\[109\]\[110\]\[111\]\[112\]\[113\]。截至3月5號，已連續41日居一位\[114\]，並在當天發行數位單曲《[Rubber
-Band](https://zh.wikipedia.org/wiki/Rubber_Band_\(iKON歌曲\) "wikilink")》\[115\]，是首由[WINNER所屬](../Page/WINNER.md "wikilink")[宋旻浩和iKON所屬](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")[B.I合作的曲子](../Page/B.I.md "wikilink")\[116\]，作為達謝粉絲的禮物\[117\]\[118\]；憑藉音源優異表現，取得由韓國企業信譽研究所分析結果，三月「男團品牌信譽」排行榜第三名\[119\]，成員[具俊會首次個人出演綜藝節目](https://zh.wikipedia.org/wiki/具俊會 "wikilink")《[被子外面很危險](https://zh.wikipedia.org/wiki/被子外面很危險 "wikilink")》\[120\]。在音樂節目上拿下
+Band](../Page/Rubber_Band_\(iKON歌曲\).md "wikilink")》\[115\]，是首由[WINNER所屬](../Page/WINNER.md "wikilink")[宋旻浩和iKON所屬](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")[B.I合作的曲子](../Page/B.I.md "wikilink")\[116\]，作為達謝粉絲的禮物\[117\]\[118\]；憑藉音源優異表現，取得由韓國企業信譽研究所分析結果，三月「男團品牌信譽」排行榜第三名\[119\]，成員[具俊會首次個人出演綜藝節目](../Page/具俊會.md "wikilink")《[被子外面很危險](../Page/被子外面很危險.md "wikilink")》\[120\]。在音樂節目上拿下
 11 座冠軍獎盃，這首歌也成為iKON出道以來的第一支破億MV。
 
 #### 團綜《iKON TV》
@@ -190,16 +188,16 @@ TV》的打工體驗\[126\]\[127\]\[128\]！4月15日起陸續公佈宣傳片\[1
 (韓國時間) 透過Naver V LIVE\[134\]、YouTube\[135\]正式播出。開播第一集即請來韓國當紅搞笑限定女團[Celeb
 Five當重量級嘉賓一起玩遊戲](https://zh.wikipedia.org/wiki/Celeb_Five "wikilink")\[136\]，在「團隊合作」的測試環節中，參賽者要在限定時間內用嘴巴傳遞吸油面紙，傳遞最多的一隊獲勝。[Celeb
 Five的積極表現讓iKON成員忍不住雙手掩面](https://zh.wikipedia.org/wiki/Celeb_Five "wikilink")：「攻擊性好強！
-」[金振煥吐槽](https://zh.wikipedia.org/wiki/金振煥 "wikilink")[金東赫動作太積極](https://zh.wikipedia.org/wiki/金東赫 "wikilink")，讓人很有負擔，於是乾脆閉上眼睛不想面對，就在此時吸油面紙突然滑落，兩人真實kiss；隊伍結尾處的[鄭粲右則是每接到一張面紙就用求救的眼神看向](../Page/鄭粲右.md "wikilink")[B.I](../Page/B.I.md "wikilink")，然而[B.I提起癱坐在地上的粲右](../Page/B.I.md "wikilink")，按住粲右的頭：「繼續！
-」；節目播出不到半天點擊量破百萬\[137\]。成員利用打工體驗賺來的錢，由[B.I擔任導演](../Page/B.I.md "wikilink")，執導iKON《Beautiful》MV，不過這支MV和以前的畫風相差甚遠，由[宋允亨擔任男主](../Page/宋允亨.md "wikilink")，分別搭檔由其它成員變裝扮演的「女主角」重現《[狼的誘惑](../Page/狼的誘惑.md "wikilink")》、《[那年冬天風在吹](../Page/那年冬天風在吹.md "wikilink")》、《[我腦海中的橡皮擦](https://zh.wikipedia.org/wiki/我腦海中的橡皮擦 "wikilink")》、《[經常請吃飯的漂亮姐姐](https://zh.wikipedia.org/wiki/經常請吃飯的漂亮姐姐 "wikilink")》等作品的經典場面\[138\]。播出期間成員[具俊會IG追蹤人數突破](https://zh.wikipedia.org/wiki/具俊會 "wikilink")100萬，是在團內的[B.I](../Page/B.I.md "wikilink")、[BOBBY以後](https://zh.wikipedia.org/wiki/BOBBY "wikilink")，第3個破百萬的成員，他po出「只穿內褲、曬巧克力腹肌+人魚線」的照片以示慶祝\[139\]；忙內[鄭粲右則是獲邀為偶像LG雙子隊開球](../Page/鄭粲右.md "wikilink")\[140\]，並在2018年7月23日開通YOUTUBE個人頻道「찬우살이」。6月30日播出《iKON
+」[金振煥吐槽](../Page/金振煥.md "wikilink")[金東赫動作太積極](../Page/金東赫.md "wikilink")，讓人很有負擔，於是乾脆閉上眼睛不想面對，就在此時吸油面紙突然滑落，兩人真實kiss；隊伍結尾處的[鄭粲右則是每接到一張面紙就用求救的眼神看向](../Page/鄭粲右.md "wikilink")[B.I](../Page/B.I.md "wikilink")，然而[B.I提起癱坐在地上的粲右](../Page/B.I.md "wikilink")，按住粲右的頭：「繼續！
+」；節目播出不到半天點擊量破百萬\[137\]。成員利用打工體驗賺來的錢，由[B.I擔任導演](../Page/B.I.md "wikilink")，執導iKON《Beautiful》MV，不過這支MV和以前的畫風相差甚遠，由[宋允亨擔任男主](../Page/宋允亨.md "wikilink")，分別搭檔由其它成員變裝扮演的「女主角」重現《[狼的誘惑](../Page/狼的誘惑.md "wikilink")》、《[那年冬天風在吹](../Page/那年冬天風在吹.md "wikilink")》、《[我腦海中的橡皮擦](https://zh.wikipedia.org/wiki/我腦海中的橡皮擦 "wikilink")》、《[經常請吃飯的漂亮姐姐](../Page/經常請吃飯的漂亮姐姐.md "wikilink")》等作品的經典場面\[138\]。播出期間成員[具俊會IG追蹤人數突破](../Page/具俊會.md "wikilink")100萬，是在團內的[B.I](../Page/B.I.md "wikilink")、[BOBBY以後](https://zh.wikipedia.org/wiki/BOBBY "wikilink")，第3個破百萬的成員，他po出「只穿內褲、曬巧克力腹肌+人魚線」的照片以示慶祝\[139\]；忙內[鄭粲右則是獲邀為偶像LG雙子隊開球](../Page/鄭粲右.md "wikilink")\[140\]，並在2018年7月23日開通YOUTUBE個人頻道「찬우살이」。6月30日播出《iKON
 TV》最後一集，發佈送給粉絲的新歌《JUST FOR YOU》（） \[141\]\[142\]。
 
 #### MV破億
 
 《LOVE
-SCENARIO》歷經127天，YouTube觀看次數於6月1日突破1億次\[143\]\[144\]，10月31日超過兩億次\[145\]，為iKON第一首破億MV；7月17日[韓國傍晚播出的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")[深夜正式演藝報導](https://zh.wikipedia.org/wiki/深夜正式演藝 "wikilink")7月在韓國門戶網站搜索《LOVE
+SCENARIO》歷經127天，YouTube觀看次數於6月1日突破1億次\[143\]\[144\]，10月31日超過兩億次\[145\]，為iKON第一首破億MV；7月17日[韓國傍晚播出的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")[深夜正式演藝報導](../Page/深夜正式演藝.md "wikilink")7月在韓國門戶網站搜索《LOVE
 SCENARIO》出現地不是iKON
-MV，而是小學生或幼稚園小朋友錄唱視頻，顯示該曲在幼稚園和小學生間吹起逆襲風\[146\]，記者訪問小朋友們大多不了解歌詞意思，報導中分別訪問童謠專家和大學教授，童謠專家이민숙(音譯：李敏淑)表示：「是四分之四簡單的拍子，和孩子們容易跟唱的簡單旋律的反覆，所以對孩子們來說很有人氣。」電子工程學教授장준혁(音譯：張俊相)表示：「相同的位置以相同的時間差，節奏快地周期性放入特定的擊打音，人們會有中毒性現象，形成一種洗腦效果」\[147\]。成員[具俊會演出](https://zh.wikipedia.org/wiki/具俊會 "wikilink")[MBC電視台綜藝節目](https://zh.wikipedia.org/wiki/MBC "wikilink")[意外的Q時](https://zh.wikipedia.org/wiki/意外的Q "wikilink")，主持人劉世允問：「《Love
+MV，而是小學生或幼稚園小朋友錄唱視頻，顯示該曲在幼稚園和小學生間吹起逆襲風\[146\]，記者訪問小朋友們大多不了解歌詞意思，報導中分別訪問童謠專家和大學教授，童謠專家이민숙(音譯：李敏淑)表示：「是四分之四簡單的拍子，和孩子們容易跟唱的簡單旋律的反覆，所以對孩子們來說很有人氣。」電子工程學教授장준혁(音譯：張俊相)表示：「相同的位置以相同的時間差，節奏快地周期性放入特定的擊打音，人們會有中毒性現象，形成一種洗腦效果」\[147\]。成員[具俊會演出](../Page/具俊會.md "wikilink")[MBC電視台綜藝節目](https://zh.wikipedia.org/wiki/MBC "wikilink")[意外的Q時](../Page/意外的Q.md "wikilink")，主持人劉世允問：「《Love
 Scenario》怎麼會在小學生那麼流行？」具俊會答覆：「因為跟童謠有點像」\[148\]\[149\]。
 
 成為新一代「小學生統領」（或「幼稚園統領」\[150\]）的iKON為報答孩子們的喜愛，8月4日下午在漢江公園的藝島舉行《PiKONIC
@@ -256,7 +254,7 @@ OK》\[186\]的MV；此張專輯共收錄23首歌曲（韓國專輯罕見的曲�
 OK》一推出，截至8日上午，橫掃了馬來西亞、菲律賓、沙烏地阿拉伯、新加坡、越南…等12個國家的
 iTunes 排行榜冠軍\[187\]\[188\]。
 
-1月28日與英國《TGE》（）和法國《[MIDEM](https://zh.wikipedia.org/wiki/MIDEM "wikilink")》稱之為世界三大音樂盛典的《[SXSW](../Page/西南偏南.md "wikilink")》\[189\]，其官方網站宣佈2019年《[SXSW](../Page/西南偏南.md "wikilink")》音樂祭的韓國焦點舞台（），將由iKON壓軸演出\[190\]；這也是iKON第一次在美國演出\[191\]\[192\]。
+1月28日與英國《TGE》（）和法國《[MIDEM](../Page/MIDEM.md "wikilink")》稱之為世界三大音樂盛典的《[SXSW](../Page/西南偏南.md "wikilink")》\[189\]，其官方網站宣佈2019年《[SXSW](../Page/西南偏南.md "wikilink")》音樂祭的韓國焦點舞台（），將由iKON壓軸演出\[190\]；這也是iKON第一次在美國演出\[191\]\[192\]。
 
 ## 成員列表
 
@@ -264,12 +262,12 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 | ------------------------------------------------------------- |
 | 藝名                                                            |
 | 藝名                                                            |
-| [金振煥](https://zh.wikipedia.org/wiki/金振煥 "wikilink")           |
+| [金振煥](../Page/金振煥.md "wikilink")                              |
 | [宋允亨](../Page/宋允亨.md "wikilink")                              |
 | [BOBBY](https://zh.wikipedia.org/wiki/金知元_\(饶舌者\) "wikilink") |
 | [B.I](../Page/B.I.md "wikilink")                              |
-| [金東赫](https://zh.wikipedia.org/wiki/金東赫 "wikilink")           |
-| [具俊會](https://zh.wikipedia.org/wiki/具俊會 "wikilink") \[193\]   |
+| [金東赫](../Page/金東赫.md "wikilink")                              |
+| [具俊會](../Page/具俊會.md "wikilink") \[193\]                      |
 | [鄭粲右](../Page/鄭粲右.md "wikilink")                              |
 
 ## 音樂作品
@@ -280,7 +278,7 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 
   - 2015年：[Welcome
     Back](../Page/WELCOME_BACK_\(iKON韓語專輯\).md "wikilink")
-  - 2018年：[Return](https://zh.wikipedia.org/wiki/Return_\(iKON專輯\) "wikilink")
+  - 2018年：[Return](../Page/Return_\(iKON專輯\).md "wikilink")
 
 #### 迷你專輯
 
@@ -297,13 +295,12 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 #### 數位單曲
 
   - 2016年：[\#WYD](https://zh.wikipedia.org/wiki/#WYD "wikilink")
-  - 2018年：[Rubber
-    Band](https://zh.wikipedia.org/wiki/Rubber_Band_\(iKON歌曲\) "wikilink")
+  - 2018年：[Rubber Band](../Page/Rubber_Band_\(iKON歌曲\).md "wikilink")
 
 #### 單曲專輯
 
   - 2017年：[New
-    Kids：Begin](https://zh.wikipedia.org/wiki/New_Kids:_Begin_\(iKON韓語單曲\) "wikilink")
+    Kids：Begin](../Page/New_Kids:_Begin_\(iKON韓語單曲\).md "wikilink")
 
 ### 日本發行
 
@@ -335,7 +332,7 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 ### 巡迴演唱會
 
   - 2016：[iKONCERT 2016：Showtime
-    Tour](https://zh.wikipedia.org/wiki/IKoncert_2016：Showtime_Tour "wikilink")
+    Tour](../Page/IKoncert_2016：Showtime_Tour.md "wikilink")
   - 2016–2017：Japan Tour
   - 2017：Japan Dome Tour
   - 2018：iKON Japan Tour 2018
@@ -354,25 +351,25 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 <tr class="even">
 <td><p>2014年</p></td>
 <td><p>「NONAGON」 服飾[194]</p></td>
-<td><p><a href="../Page/B.I.md" title="wikilink">B.I</a>&amp; <a href="https://zh.wikipedia.org/wiki/金知元_(饒舌者)" title="wikilink">BOBBY</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Lisa_(泰國歌手)" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
+<td><p><a href="../Page/B.I.md" title="wikilink">B.I</a>&amp; <a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a></p></td>
+<td><p><a href="../Page/Lisa_(泰國歌手).md" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p>「NONAGON」 服飾[195]</p></td>
-<td><p><a href="../Page/B.I.md" title="wikilink">B.I</a>&amp; <a href="https://zh.wikipedia.org/wiki/金知元_(饒舌者)" title="wikilink">BOBBY</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Lisa_(泰國歌手)" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
+<td><p><a href="../Page/B.I.md" title="wikilink">B.I</a>&amp; <a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a></p></td>
+<td><p><a href="../Page/Lisa_(泰國歌手).md" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>雪碧汽水</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金知元_(饒舌者)" title="wikilink">BOBBY</a></p></td>
+<td><p><a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a></p></td>
 <td><p><a href="../Page/姜素拉.md" title="wikilink">姜素拉</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>「SMART」校服[196]</p></td>
 <td><p>全體</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金智秀_(歌手)" title="wikilink">Jisoo</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a> )</p></td>
+<td><p><a href="../Page/金智秀_(歌手).md" title="wikilink">Jisoo</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a> )</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -390,8 +387,8 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 <tr class="even">
 <td><p>2016年</p></td>
 <td><p>「NONAGON」 服飾[199]</p></td>
-<td><p><a href="../Page/B.I.md" title="wikilink">B.I</a>&amp; <a href="https://zh.wikipedia.org/wiki/金知元_(饒舌者)" title="wikilink">BOBBY</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Lisa_(泰國歌手)" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
+<td><p><a href="../Page/B.I.md" title="wikilink">B.I</a>&amp; <a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a></p></td>
+<td><p><a href="../Page/Lisa_(泰國歌手).md" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>「NIVEA」(妮維雅)極淨刮鬍泡[200]<br />
@@ -403,7 +400,7 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 <tr class="even">
 <td><p>「LG」 X series[202][203]</p></td>
 <td><p>全體</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金智秀_(歌手)" title="wikilink">Jisoo</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a> )</p></td>
+<td><p><a href="../Page/金智秀_(歌手).md" title="wikilink">Jisoo</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a> )</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -421,8 +418,8 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p>「NONAGON」服飾[207]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金知元_(饒舌者)" title="wikilink">BOBBY</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Lisa_(泰國歌手)" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
+<td><p><a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a></p></td>
+<td><p><a href="../Page/Lisa_(泰國歌手).md" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>「Reebok Classic」 復古鞋 Club C[208]</p></td>
@@ -458,8 +455,8 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 <tr class="odd">
 <td><p>2018年</p></td>
 <td><p>「NONAGON」服飾[213]</p></td>
-<td><p>|<a href="https://zh.wikipedia.org/wiki/金知元_(饒舌者)" title="wikilink">BOBBY</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Lisa_(泰國歌手)" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
+<td><p>|<a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a></p></td>
+<td><p><a href="../Page/Lisa_(泰國歌手).md" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>「NIVEA」(妮維雅)Pop Ball潤唇膏[214][215]</p></td>
@@ -677,7 +674,7 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 
 14. 在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")《[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")》出道生存節目[MIX
     &
-    MATCH中公開六人的面試影像和加入](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")[YG娛樂時間](../Page/YG娛樂.md "wikilink")
+    MATCH中公開六人的面試影像和加入](../Page/MIX_&_MATCH.md "wikilink")[YG娛樂時間](../Page/YG娛樂.md "wikilink")
 
 15. 公開正式錄製的日期。
 

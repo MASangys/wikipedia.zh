@@ -1,11 +1,11 @@
-**RubyGems**是[Ruby的一个](../Page/Ruby.md "wikilink")[包管理器](https://zh.wikipedia.org/wiki/包管理器 "wikilink")，提供了分发Ruby程序和[函式庫的标准格式](../Page/函式庫.md "wikilink")“gem”，旨在方便地管理gem安装的工具，以及用于分发gem的服务器。这类似于[Python的](../Page/Python.md "wikilink")[pip](https://zh.wikipedia.org/wiki/Pip_\(軟件包管理系統\) "wikilink")。RubyGems大约创建于2003年11月，从Ruby
+**RubyGems**是[Ruby的一个](../Page/Ruby.md "wikilink")[包管理器](https://zh.wikipedia.org/wiki/包管理器 "wikilink")，提供了分发Ruby程序和[函式庫的标准格式](../Page/函式庫.md "wikilink")“gem”，旨在方便地管理gem安装的工具，以及用于分发gem的服务器。这类似于[Python的](../Page/Python.md "wikilink")[pip](../Page/Pip_\(軟件包管理系統\).md "wikilink")。RubyGems大约创建于2003年11月，从Ruby
 1.9版起成为Ruby标准库的一部分。
 
 ## Gem
 
 Gem是类似于的包。其包含包信息，以及用于安装的文件。
 
-Gem通常是依照“.gemspec”文件构建的，其为包含了有关Gem信息的[YAML文件](../Page/YAML.md "wikilink")。然而，Ruby代码也可以直接建立Gem，这种情况下通常利用[Rake来进行](https://zh.wikipedia.org/wiki/Rake "wikilink")。
+Gem通常是依照“.gemspec”文件构建的，其为包含了有关Gem信息的[YAML文件](../Page/YAML.md "wikilink")。然而，Ruby代码也可以直接建立Gem，这种情况下通常利用[Rake来进行](../Page/Rake.md "wikilink")。
 
 ### `gem`命令
 

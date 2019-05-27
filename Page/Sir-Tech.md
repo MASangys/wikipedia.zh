@@ -7,7 +7,7 @@ Inc.**是美国已歇业[电子游戏开发商及](https://zh.wikipedia.org/wiki
 Sirotek和](https://zh.wikipedia.org/wiki/Norman_Sirotek "wikilink")[罗伯特·伍德黑德在](https://zh.wikipedia.org/wiki/罗伯特·伍德黑德 "wikilink")1980年春建立了**Sirotech
 Software**。Sirotech
 Software发行了[信息树](https://zh.wikipedia.org/wiki/信息树 "wikilink")（一款[数据库管理程序](../Page/数据库管理系统.md "wikilink"))、《[Galactic
-Attack](https://zh.wikipedia.org/wiki/Galactic_Attack "wikilink")》和测试版的《巫术：绝望的迷宫》。《绝望的迷宫》随后易名《[巫术：疯狂领主的试验场](https://zh.wikipedia.org/wiki/巫术：疯狂领主的试验场 "wikilink")》并于1981年秋正式发行，标志着[巫术系列首款游戏的发行](../Page/巫术系列.md "wikilink")\[1\]。
+Attack](https://zh.wikipedia.org/wiki/Galactic_Attack "wikilink")》和测试版的《巫术：绝望的迷宫》。《绝望的迷宫》随后易名《[巫术：疯狂领主的试验场](../Page/巫术：疯狂领主的试验场.md "wikilink")》并于1981年秋正式发行，标志着[巫术系列首款游戏的发行](../Page/巫术系列.md "wikilink")\[1\]。
 
 1981年春，电子游戏开发发行商Sir-Tech Software, Inc.在美国建立。
 
@@ -23,7 +23,7 @@ Sir-Tech美国于1998年关闭\[2\]。位于加拿大的Sirtech加拿大有限�
     Attack](https://zh.wikipedia.org/wiki/Galactic_Attack "wikilink")（1980，以Sirotech名义)
   - [Wizardry: Dungeons of
     Despair](https://zh.wikipedia.org/wiki/Wizardry:_Dungeons_of_Despair "wikilink")（1981，以Sirotech名义)
-  - [巫术：疯狂领主的试验场](https://zh.wikipedia.org/wiki/巫术：疯狂领主的试验场 "wikilink")（1981）
+  - [巫术：疯狂领主的试验场](../Page/巫术：疯狂领主的试验场.md "wikilink")（1981）
   - [Wizardry II: The Knight of
     Diamonds](https://zh.wikipedia.org/wiki/Wizardry_II:_The_Knight_of_Diamonds "wikilink")（1982）
   - [Wizardry III: Legacy of
@@ -81,8 +81,7 @@ Sir-Tech美国于1998年关闭\[2\]。位于加拿大的Sirtech加拿大有限�
     Delirious](https://zh.wikipedia.org/wiki/Armed_&_Delirious "wikilink")（1997）
   - [Excalibur 2555
     AD](https://zh.wikipedia.org/wiki/Excalibur_2555_AD "wikilink")（1997）
-  - [Virus: The
-    Game](https://zh.wikipedia.org/wiki/巫术：疯狂领主的试验场 "wikilink")（1997）
+  - [Virus: The Game](../Page/巫术：疯狂领主的试验场.md "wikilink")（1997）
   - [Realms of Arkania: Shadows over
     Riva](https://zh.wikipedia.org/wiki/Realms_of_Arkania:_Shadows_over_Riva "wikilink")（1997）
 

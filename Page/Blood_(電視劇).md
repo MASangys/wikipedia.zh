@@ -91,7 +91,7 @@ Doctor](https://zh.wikipedia.org/wiki/Good_Doctor "wikilink")》編劇[朴才範
 <td><p><strong>国语配音</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/丁海寅" title="wikilink">丁海寅</a></strong></p></td>
+<td><p><strong><a href="../Page/丁海寅.md" title="wikilink">丁海寅</a></strong></p></td>
 <td><p><strong>朱玄宇</strong></p></td>
 <td><p><strong>志尚的摯友、知名感染學學者、機器人Luvvy的開發者。</strong><br />
 深信吸血鬼或狼人的存在而不斷發表相關論文，最後被教授除名，卻因此遇見志尚。給予志尚物質和精神上極大的幫助，是志尚的得力助手。除了是感染學者以外也是一名駭客。初次見到秀恩便一見鍾情。開發出解藥VTH-17後遭追殺死亡。</p></td>
@@ -243,7 +243,7 @@ Doctor](https://zh.wikipedia.org/wiki/Good_Doctor "wikilink")》編劇[朴才範
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴俊勉" title="wikilink">朴俊勉</a></p></td>
+<td><p><a href="../Page/朴俊勉.md" title="wikilink">朴俊勉</a></p></td>
 <td><p>李英珠</p></td>
 <td><p>泰民癌症中心護士長。</p></td>
 <td><p><a href="../Page/陳凱婷.md" title="wikilink">陳凱婷</a></p></td>
@@ -374,7 +374,7 @@ Doctor](https://zh.wikipedia.org/wiki/Good_Doctor "wikilink")》編劇[朴才範
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/洪和利" title="wikilink">洪和利</a></p></td>
+<td><p><a href="../Page/洪和利.md" title="wikilink">洪和利</a></p></td>
 <td><p>李娜靜<br />
 <small>（第7-11、13-17集）</small></p></td>
 <td><p><strong>21A病房住院者，孤兒。</strong><br />
@@ -564,8 +564,8 @@ Doctor](https://zh.wikipedia.org/wiki/Good_Doctor "wikilink")》編劇[朴才範
 
 ## 同時段競爭節目
 
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[輝煌或瘋狂](https://zh.wikipedia.org/wiki/輝煌或瘋狂 "wikilink")》、《[華政](https://zh.wikipedia.org/wiki/華政 "wikilink")》
-  - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")：《[Punch](../Page/Punch_\(電視劇\).md "wikilink")》、《[聽到傳聞](https://zh.wikipedia.org/wiki/聽到傳聞 "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[輝煌或瘋狂](../Page/輝煌或瘋狂.md "wikilink")》、《[華政](../Page/華政.md "wikilink")》
+  - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")：《[Punch](../Page/Punch_\(電視劇\).md "wikilink")》、《[聽到傳聞](../Page/聽到傳聞.md "wikilink")》
 
 ## 記事
 

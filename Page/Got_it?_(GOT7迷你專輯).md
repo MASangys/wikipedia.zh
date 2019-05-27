@@ -15,7 +15,7 @@ Countdown》展开首个放送舞台，正式出道。20日同步發行音源與
 hop歌曲，具有濃濃的JYP“Swag”風格，特別是歌曲中還添加了[Wonder
 Girls熱門歌曲](../Page/Wonder_Girls.md "wikilink")《Tell me》中昭熙的那一句“O
 MO
-NA”，展現了GOT7帥氣之外可愛的一面\[5\]。《跟我來》集合了GOT7眾多成員的創作，[珍榮參與編舞](../Page/朴珍榮.md "wikilink")，[Mark](https://zh.wikipedia.org/wiki/段宜恩 "wikilink")、[Jackson參與英文Rap歌詞創作](../Page/王嘉爾.md "wikilink")。
+NA”，展現了GOT7帥氣之外可愛的一面\[5\]。《跟我來》集合了GOT7眾多成員的創作，[珍榮參與編舞](../Page/朴珍榮.md "wikilink")，[Mark](../Page/段宜恩.md "wikilink")、[Jackson參與英文Rap歌詞創作](../Page/王嘉爾.md "wikilink")。
 
 2月28日、3月2日、3月6日 GOT7分別於音樂節目《Music Bank》、《人氣歌謠》、《M\!
 Countdown》表演歌曲《我喜歡你》，做為GoodBye舞台，向歌迷表達感謝，結束宣傳期。

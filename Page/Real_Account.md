@@ -1,5 +1,5 @@
 《**REAL ACCOUNT
-真實帳號**》（）是創作、[渡邊靜作畫的死亡遊戲類鬥智漫畫](https://zh.wikipedia.org/wiki/渡邊靜 "wikilink")。《[別冊少年Magazine](https://zh.wikipedia.org/wiki/別冊少年Magazine "wikilink")》2014年2月號至10月號連載第1部，《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》2015年4・5合併號至2018年28月号連載第2部\[1\]\[2\]。台灣和香港分別於2015年20+21期的《[新少年快報](../Page/新少年快報.md "wikilink")》及《[新少年](../Page/新少年週刊.md "wikilink")》由第2部「向井雄馬」篇開始連載。
+真實帳號**》（）是創作、[渡邊靜作畫的死亡遊戲類鬥智漫畫](../Page/渡邊靜.md "wikilink")。《[別冊少年Magazine](https://zh.wikipedia.org/wiki/別冊少年Magazine "wikilink")》2014年2月號至10月號連載第1部，《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》2015年4・5合併號至2018年28月号連載第2部\[1\]\[2\]。台灣和香港分別於2015年20+21期的《[新少年快報](../Page/新少年快報.md "wikilink")》及《[新少年](../Page/新少年週刊.md "wikilink")》由第2部「向井雄馬」篇開始連載。
 
 ## 故事概要
 

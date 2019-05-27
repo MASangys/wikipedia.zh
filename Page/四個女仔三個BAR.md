@@ -60,7 +60,7 @@
 喜愛與<a href="../Page/蝴蝶.md" title="wikilink">蝴蝶有關的東西</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林景程" title="wikilink">林景程</a></p></td>
+<td><p><a href="../Page/林景程.md" title="wikilink">林景程</a></p></td>
 <td><p><strong>齊安居</strong></p></td>
 <td><p><strong>Lincoln</strong><br />
 見習大律師，於第一集為執業大律師<br />
@@ -231,7 +231,7 @@ Lawrence之妻、育有一子</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/周梓盈" title="wikilink">周梓盈</a></p></td>
+<td><p><a href="../Page/周梓盈.md" title="wikilink">周梓盈</a></p></td>
 <td><p>Elaine</p></td>
 <td></td>
 </tr>
@@ -663,7 +663,7 @@ Lawrence之妻、育有一子</p></td>
 登場集數：第8集</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
 <td><p>裘百通</p></td>
 <td><p>被告，被控與未成年少女發生性行為及非法肛交<br />
 後因首項控罪成立及第二項控罪不成立而被判監禁五年<br />
@@ -810,7 +810,7 @@ Adrian之女友</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/阮政峰" title="wikilink">阮政峰</a></p></td>
+<td><p><a href="../Page/阮政峰.md" title="wikilink">阮政峰</a></p></td>
 <td><p>林俊濤</p></td>
 <td></td>
 </tr>

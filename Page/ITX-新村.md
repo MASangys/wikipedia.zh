@@ -8,9 +8,8 @@ ITX-新村的引進目的是為了於2018年前取代所有舊[新村號列車](
 
   - [京釜線](../Page/京釜線.md "wikilink") [首爾](../Page/首爾站.md "wikilink") -
     [釜山](../Page/釜山站.md "wikilink")
-  - [東海線](https://zh.wikipedia.org/wiki/東海線 "wikilink")
-    [首爾](../Page/首爾站.md "wikilink") -
-    [新海雲臺](https://zh.wikipedia.org/wiki/新海云台站 "wikilink")（京釜線直通）
+  - [東海線](../Page/東海線.md "wikilink") [首爾](../Page/首爾站.md "wikilink") -
+    [新海雲臺](../Page/新海云台站.md "wikilink")（京釜線直通）
   - [慶全線](../Page/慶全線.md "wikilink") [首爾](../Page/首爾站.md "wikilink") -
     [晉州](https://zh.wikipedia.org/wiki/晉州站_\(慶尚南道\) "wikilink")（京釜線直通）
   - [湖南線](../Page/湖南線.md "wikilink")

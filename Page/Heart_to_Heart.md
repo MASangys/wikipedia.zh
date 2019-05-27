@@ -1,5 +1,5 @@
 《**Heart to
-Heart**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2015年1月9日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由《[咖啡王子1號店](../Page/咖啡王子1號店.md "wikilink")》、《[Triple](../Page/冰舞飛揚.md "wikilink")》[李允正導演及李正雅作家三度聯手打造](https://zh.wikipedia.org/wiki/李允正 "wikilink")。講述了喜歡受人矚目的精神科醫生和患有社交恐懼症，一受人關注就會臉紅的女生之間的治癒系羅曼史
+Heart**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2015年1月9日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由《[咖啡王子1號店](../Page/咖啡王子1號店.md "wikilink")》、《[Triple](../Page/冰舞飛揚.md "wikilink")》[李允正導演及李正雅作家三度聯手打造](../Page/李允正.md "wikilink")。講述了喜歡受人矚目的精神科醫生和患有社交恐懼症，一受人關注就會臉紅的女生之間的治癒系羅曼史
 \[1\]
 
 ## 演員陣容
@@ -76,7 +76,7 @@ Heart**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/朱鉉" title="wikilink">朱鉉</a></p></td>
+<p><a href="../Page/朱鉉.md" title="wikilink">朱鉉</a></p></td>
 <td><center>
 <p>高尚奎</p></td>
 <td><p>易錫的爺爺</p></td>
@@ -127,7 +127,7 @@ Heart**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/徐宜淑" title="wikilink">徐宜淑</a></p></td>
+<p><a href="../Page/徐宜淑.md" title="wikilink">徐宜淑</a></p></td>
 <td><center>
 <p>嚴琪春</p></td>
 <td><p>精神科醫師</p></td>
@@ -135,7 +135,7 @@ Heart**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/崔武成" title="wikilink">崔武成</a></p></td>
+<p><a href="../Page/崔武成.md" title="wikilink">崔武成</a></p></td>
 <td><center>
 <p>安秉烈</p></td>
 <td><p>高家的執事</p></td>

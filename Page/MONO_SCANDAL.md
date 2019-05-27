@@ -83,7 +83,7 @@ SCANDAL**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wik
 <td><p>韓國</p></td>
 <td><p>2014年6月2日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NH_Media" title="wikilink">NH Media</a><br />
+<td><p><a href="../Page/NH_Media.md" title="wikilink">NH Media</a><br />
 </p></td>
 </tr>
 </tbody>

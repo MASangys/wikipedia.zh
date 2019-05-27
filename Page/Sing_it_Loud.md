@@ -6,7 +6,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
   - A面曲 《Sing it
     Loud》是[TBS電視台連續劇](../Page/TBS電視台.md "wikilink")《警部補・杉山真太郎〜吉祥寺署事件檔案》主題曲，亦是GENERATIONS第二張專輯《[GENERATIONS
-    EX](https://zh.wikipedia.org/wiki/GENERATIONS_EX "wikilink")》的先行單曲。
+    EX](../Page/GENERATIONS_EX.md "wikilink")》的先行單曲。
   - 與前作相同，此單曲收錄了上一張單曲的英語版本。
   - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《Sing it Loud》的Music
     Video。
@@ -19,7 +19,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 1.  **Sing it Loud**
     （作詞：Amon Hayashi、作曲：ZETTON、SHIKATA、Chris Hope、J FAITH）
 2.  **STORY**
-    （作詞：[片寄涼太](https://zh.wikipedia.org/wiki/片寄涼太 "wikilink")、作曲：SIRIUS、Jonas
+    （作詞：[片寄涼太](../Page/片寄涼太.md "wikilink")、作曲：SIRIUS、Jonas
     Zekkari、Gabriel Alares、BIG-F）
 3.  Sing it Loud (Instrumental)
 4.  STORY (Instrumental)

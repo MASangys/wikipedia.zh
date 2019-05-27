@@ -20,7 +20,7 @@ Cookies 是根据以下规则构造的初始序号：
      `[`>>`](https://zh.wikipedia.org/wiki/位操作#逻辑移位 "wikilink")`  6 `，提供
     64 秒的解析度）；
   - 令 **m** 为服务器会在 SYN
-    队列条目中存储的[最大分段大小](https://zh.wikipedia.org/wiki/最大分段大小 "wikilink")（maximum
+    队列条目中存储的[最大分段大小](../Page/最大分段大小.md "wikilink")（maximum
     segment size，简称为 MSS）；
   - 令 **s**
     为一个加密[散列函数对服务器和客户端各自的](https://zh.wikipedia.org/wiki/散列算法 "wikilink")

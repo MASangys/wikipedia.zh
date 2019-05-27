@@ -137,7 +137,7 @@ Lover**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[
 
 <!-- end list -->
 
-  - [羅海嶺](https://zh.wikipedia.org/wiki/BESTie "wikilink") 飾演 海嶺
+  - [羅海嶺](../Page/BESTie.md "wikilink") 飾演 海嶺
 
 ## 腳註
 

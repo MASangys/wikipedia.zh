@@ -16,7 +16,7 @@
 
 <!-- end list -->
 
-  - 7月15日－9月9日：**[東京猩紅～警視廳NS係](https://zh.wikipedia.org/wiki/東京猩紅 "wikilink")**（）
+  - 7月15日－9月9日：**[東京猩紅～警視廳NS係](../Page/東京猩紅.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -36,7 +36,7 @@
 
 #### 2015年
 
-  - 1月13日－3月17日：**[純白](https://zh.wikipedia.org/wiki/純白 "wikilink")**（）
+  - 1月13日－3月17日：**[純白](../Page/純白.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -93,9 +93,9 @@
 <!-- end list -->
 
   -
-    主演：[黑木華](https://zh.wikipedia.org/wiki/黑木華 "wikilink")
-    原作：[松田奈緒子](https://zh.wikipedia.org/wiki/松田奈緒子 "wikilink")
-    劇本：[野木亞紀子](https://zh.wikipedia.org/wiki/野木亞紀子 "wikilink")
+    主演：[黑木華](../Page/黑木華.md "wikilink")
+    原作：[松田奈緒子](../Page/松田奈緒子.md "wikilink")
+    劇本：[野木亞紀子](../Page/野木亞紀子.md "wikilink")
 
 <!-- end list -->
 
@@ -110,18 +110,18 @@
 
 <!-- end list -->
 
-  - 10月11日－12月20日：**[逃避雖可恥但有用](https://zh.wikipedia.org/wiki/逃避雖可恥但有用 "wikilink")**（）
+  - 10月11日－12月20日：**[逃避雖可恥但有用](../Page/逃避雖可恥但有用.md "wikilink")**（）
 
 <!-- end list -->
 
   -
     主演：[新垣結衣](../Page/新垣結衣.md "wikilink")
     原作：[海野綱彌](https://zh.wikipedia.org/wiki/海野綱彌 "wikilink")
-    劇本：[野木亞紀子](https://zh.wikipedia.org/wiki/野木亞紀子 "wikilink")
+    劇本：[野木亞紀子](../Page/野木亞紀子.md "wikilink")
 
 #### 2017年
 
-  - 1月17日－3月21日：**[四重奏](https://zh.wikipedia.org/wiki/四重奏_\(日本電視劇\) "wikilink")**（）
+  - 1月17日－3月21日：**[四重奏](../Page/四重奏_\(日本電視劇\).md "wikilink")**（）
 
 <!-- end list -->
 
@@ -137,12 +137,12 @@
 
   -
     主演：[波瑠](../Page/波瑠.md "wikilink")
-    原作：[育江綾](https://zh.wikipedia.org/wiki/育江綾 "wikilink")
+    原作：[育江綾](../Page/育江綾.md "wikilink")
     劇本：[吉澤智子](https://zh.wikipedia.org/wiki/吉澤智子 "wikilink")
 
 <!-- end list -->
 
-  - 7月18日－9月19日：**[神奈小姐](https://zh.wikipedia.org/wiki/神奈小姐 "wikilink")**（）
+  - 7月18日－9月19日：**[神奈小姐](../Page/神奈小姐.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -153,7 +153,7 @@
 
 <!-- end list -->
 
-  - 10月17日－12月19日：**[監獄公主](https://zh.wikipedia.org/wiki/監獄公主 "wikilink")**（）
+  - 10月17日－12月19日：**[監獄公主](../Page/監獄公主.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -163,19 +163,19 @@
 
 #### 2018年
 
-  - 1月16日－3月20日：**[你已藏在我心底](https://zh.wikipedia.org/wiki/你已藏在我心底 "wikilink")**（）
+  - 1月16日－3月20日：**[你已藏在我心底](../Page/你已藏在我心底.md "wikilink")**（）
 
 <!-- end list -->
 
   -
-    主演：[吉岡里帆](https://zh.wikipedia.org/wiki/吉岡里帆 "wikilink")
+    主演：[吉岡里帆](../Page/吉岡里帆.md "wikilink")
     原作：[天堂麒麟](https://zh.wikipedia.org/wiki/天堂麒麟 "wikilink")
     劇本：[吉澤智子](https://zh.wikipedia.org/wiki/吉澤智子 "wikilink")、[德尾浩司](https://zh.wikipedia.org/wiki/德尾浩司 "wikilink")
 
 <!-- end list -->
 
   - 4月17日－6月26日：**[花過天晴～花樣男子 Next
-    Season～](https://zh.wikipedia.org/wiki/花過天晴～花樣男子_Next_Season～ "wikilink")**（）
+    Season～](../Page/花過天晴～花樣男子_Next_Season～.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -186,14 +186,14 @@
 
 <!-- end list -->
 
-  - 7月10日－9月18日：**[繼母與女兒的藍調](https://zh.wikipedia.org/wiki/繼母與女兒的藍調 "wikilink")**（）
+  - 7月10日－9月18日：**[繼母與女兒的藍調](../Page/繼母與女兒的藍調.md "wikilink")**（）
 
 <!-- end list -->
 
   -
     主演：[綾瀨遙](../Page/綾瀨遙.md "wikilink")
     原作：[櫻澤鈴](https://zh.wikipedia.org/wiki/櫻澤鈴 "wikilink")
-    劇本：[森下佳子](https://zh.wikipedia.org/wiki/森下佳子 "wikilink")
+    劇本：[森下佳子](../Page/森下佳子.md "wikilink")
 
 <!-- end list -->
 
@@ -208,7 +208,7 @@
 
 #### 2019年
 
-  - 1月15日－3月19日：**[初戀那一天所讀的故事](https://zh.wikipedia.org/wiki/初戀那一天所讀的故事 "wikilink")**（）
+  - 1月15日－3月19日：**[初戀那一天所讀的故事](../Page/初戀那一天所讀的故事.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -241,23 +241,23 @@
 
 ## 平均收視率最高5位
 
-|     |                                                               |       |       |
-| --- | ------------------------------------------------------------- | ----- | ----- |
-| 第1位 | [逃避雖可恥但有用](https://zh.wikipedia.org/wiki/逃避雖可恥但有用 "wikilink") | 2016年 | 14.6% |
-| 第2位 | [繼母與女兒的藍調](https://zh.wikipedia.org/wiki/繼母與女兒的藍調 "wikilink") | 2018年 | 14.2% |
-| 第3位 | [其實並不在乎你](https://zh.wikipedia.org/wiki/其實並不在乎你 "wikilink")   | 2017年 | 11.2% |
-| 第4位 | [神奈小姐](https://zh.wikipedia.org/wiki/神奈小姐 "wikilink")         | 2017年 | 10.1% |
-| 第5位 | [拜託請愛我](../Page/請和這個沒用的我談戀愛.md "wikilink")                    | 2016年 | 9.5%  |
+|     |                                                             |       |       |
+| --- | ----------------------------------------------------------- | ----- | ----- |
+| 第1位 | [逃避雖可恥但有用](../Page/逃避雖可恥但有用.md "wikilink")                  | 2016年 | 14.6% |
+| 第2位 | [繼母與女兒的藍調](../Page/繼母與女兒的藍調.md "wikilink")                  | 2018年 | 14.2% |
+| 第3位 | [其實並不在乎你](https://zh.wikipedia.org/wiki/其實並不在乎你 "wikilink") | 2017年 | 11.2% |
+| 第4位 | [神奈小姐](../Page/神奈小姐.md "wikilink")                          | 2017年 | 10.1% |
+| 第5位 | [拜託請愛我](../Page/請和這個沒用的我談戀愛.md "wikilink")                  | 2016年 | 9.5%  |
 
 ## 單集收視率最高5位
 
-|     |                                                               |       |            |
-| --- | ------------------------------------------------------------- | ----- | ---------- |
-| 第1位 | [逃避雖可恥但有用](https://zh.wikipedia.org/wiki/逃避雖可恥但有用 "wikilink") | 2016年 | 20.8%（最終話） |
-| 第2位 | [繼母與女兒的藍調](https://zh.wikipedia.org/wiki/繼母與女兒的藍調 "wikilink") | 2018年 | 19.2%（最終話） |
-| 第3位 | [其實並不在乎你](https://zh.wikipedia.org/wiki/其實並不在乎你 "wikilink")   | 2017年 | 14.8%（最終話） |
-| 第4位 | [神奈小姐](https://zh.wikipedia.org/wiki/神奈小姐 "wikilink")         | 2017年 | 12.6%（第2話） |
-| 第5位 | [四重奏](https://zh.wikipedia.org/wiki/四重奏_\(日本電視劇\) "wikilink") | 2017年 | 11.0%（第9話） |
+|     |                                                             |       |            |
+| --- | ----------------------------------------------------------- | ----- | ---------- |
+| 第1位 | [逃避雖可恥但有用](../Page/逃避雖可恥但有用.md "wikilink")                  | 2016年 | 20.8%（最終話） |
+| 第2位 | [繼母與女兒的藍調](../Page/繼母與女兒的藍調.md "wikilink")                  | 2018年 | 19.2%（最終話） |
+| 第3位 | [其實並不在乎你](https://zh.wikipedia.org/wiki/其實並不在乎你 "wikilink") | 2017年 | 14.8%（最終話） |
+| 第4位 | [神奈小姐](../Page/神奈小姐.md "wikilink")                          | 2017年 | 12.6%（第2話） |
+| 第5位 | [四重奏](../Page/四重奏_\(日本電視劇\).md "wikilink")                  | 2017年 | 11.0%（第9話） |
 
 ## 播出台
 

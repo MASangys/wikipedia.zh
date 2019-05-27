@@ -9,7 +9,7 @@ Thế Thành。
 pdfTeX的两大突出特点是产生有内容的字符突出，以及[赫尔曼·察普夫提出的用于改善排版页面灰度的展开字体](../Page/赫尔曼·察普夫.md "wikilink")。都延伸核心段落打破惯例。二者都在Thành的论文中作了探讨。\[1\]
 
 pdfTeX包含于[LaTeX和](https://zh.wikipedia.org/wiki/LaTeX "wikilink")最现代的发行版（包含[TeX
-Live](https://zh.wikipedia.org/wiki/TeX_Live "wikilink")、和[MiKTeX](https://zh.wikipedia.org/wiki/MiKTeX "wikilink")）\[2\]并用作默认TeX引擎。\[3\]\[4\]\[5\]TeX和pdfTeX之间主要的不同之处在于TeX输出文件，pdfTeX能直接输出[PDF文件](https://zh.wikipedia.org/wiki/PDF "wikilink")。这可以紧密结合PDF特性如[超链接和目录](https://zh.wikipedia.org/wiki/超链接 "wikilink")，使用[hyperref这样的软件包](https://zh.wikipedia.org/wiki/hyperref "wikilink")。另一方面，一些软件包（如[PSTricks](https://zh.wikipedia.org/wiki/PSTricks "wikilink")）早期所运用的从DVI到[PostScript的转换进程可能会失败](../Page/PostScript.md "wikilink")，即使像[PGF/TikZ这样的替代品已经编写出来](https://zh.wikipedia.org/wiki/PGF/TikZ "wikilink")。PostScript图形的直接嵌入已不再有用，而且被eps2pdf之类的软件所用以转换EPS文件到PDF，这可以由pdfTeX直接插入。
+Live](../Page/TeX_Live.md "wikilink")、和[MiKTeX](https://zh.wikipedia.org/wiki/MiKTeX "wikilink")）\[2\]并用作默认TeX引擎。\[3\]\[4\]\[5\]TeX和pdfTeX之间主要的不同之处在于TeX输出文件，pdfTeX能直接输出[PDF文件](https://zh.wikipedia.org/wiki/PDF "wikilink")。这可以紧密结合PDF特性如[超链接和目录](https://zh.wikipedia.org/wiki/超链接 "wikilink")，使用[hyperref这样的软件包](https://zh.wikipedia.org/wiki/hyperref "wikilink")。另一方面，一些软件包（如[PSTricks](https://zh.wikipedia.org/wiki/PSTricks "wikilink")）早期所运用的从DVI到[PostScript的转换进程可能会失败](../Page/PostScript.md "wikilink")，即使像[PGF/TikZ这样的替代品已经编写出来](https://zh.wikipedia.org/wiki/PGF/TikZ "wikilink")。PostScript图形的直接嵌入已不再有用，而且被eps2pdf之类的软件所用以转换EPS文件到PDF，这可以由pdfTeX直接插入。
 
 从pdfTeX获得DVI输出是可以的。DVI的这一输出等同于TeX的功能，即使pdfTeX额外的特性被激活。此外[LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink")、[ConTeXt等简单地TeX](https://zh.wikipedia.org/wiki/ConTeXt "wikilink")[宏软件包](../Page/巨集.md "wikilink")，他们与pdfTeX运行的同样好。由此举例说明，鉴于pdfTeX为[ConTeXt文档的默认渲染引擎](https://zh.wikipedia.org/wiki/ConTeXt "wikilink")，`pdflatex`可用标准[LaTeX宏调用pdfTeX程序来编排LaTeX文档](https://zh.wikipedia.org/wiki/LaTeX "wikilink")。
 
@@ -25,7 +25,7 @@ pdfTeX具有一些标准TeX软件所不具备的功能：
 ## 参见
 
   - [PDF软件列表](https://zh.wikipedia.org/wiki/PDF软件列表 "wikilink")
-  - [LuaTeX](https://zh.wikipedia.org/wiki/LuaTeX "wikilink")
+  - [LuaTeX](../Page/LuaTeX.md "wikilink")
   - [XeTeX](../Page/XeTeX.md "wikilink")
 
 ## 参考资料

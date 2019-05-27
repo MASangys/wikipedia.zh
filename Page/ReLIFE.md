@@ -1,5 +1,5 @@
 **ReLIFE
-重返17歲**（）为[夜宵草创作的一部日本漫画](https://zh.wikipedia.org/wiki/夜宵草 "wikilink")，於2013年10月12日在[comico连载](https://zh.wikipedia.org/wiki/comico "wikilink")，在2018年3月16日漫畫正式完結，全222話；2014年發售單行本，並於2015年6月榮獲講談大賞之作。
+重返17歲**（）为[夜宵草创作的一部日本漫画](../Page/夜宵草.md "wikilink")，於2013年10月12日在[comico连载](https://zh.wikipedia.org/wiki/comico "wikilink")，在2018年3月16日漫畫正式完結，全222話；2014年發售單行本，並於2015年6月榮獲講談大賞之作。
 
 改編的電視動畫於2016年播出，於同年的7月2日正式動畫發放播映\[1\]；2017年4月23日宣布製作動畫"完結篇"（全四話），於2018年3月21日發售。
 
@@ -376,11 +376,9 @@ colspan="2"|[ai](../Page/川嶋愛.md "wikilink") || nao
 小澤純 || [I WiSH](../Page/I_WiSH.md "wikilink") |- | 第11集 || [PIECES OF A
 DREAM](../Page/PIECES_OF_A_DREAM.md "wikilink") || 麻生哲朗 ||
 colspan="2"|藤本和則 || [CHEMISTRY](../Page/化學超男子.md "wikilink") |- |
-第12集 || [夏祭り](https://zh.wikipedia.org/wiki/夏祭 "wikilink") ||
-colspan="3"|破矢 ||
-[Whiteberry](https://zh.wikipedia.org/wiki/Whiteberry "wikilink") |- |
-第14集 || [花](../Page/花_\(橘子新樂園單曲\).md "wikilink") ||
-colspan="2"|[ORANGE
+第12集 || [夏祭り](../Page/夏祭.md "wikilink") || colspan="3"|破矢 ||
+[Whiteberry](../Page/Whiteberry.md "wikilink") |- | 第14集 ||
+[花](../Page/花_\(橘子新樂園單曲\).md "wikilink") || colspan="2"|[ORANGE
 RANGE](https://zh.wikipedia.org/wiki/ORANGE_RANGE "wikilink") ||  ||
 ORANGE RANGE |- | 第15集 || [CHE.R.RY](../Page/CHE.R.RY.md "wikilink") ||
 colspan="2"|[YUI](../Page/YUI.md "wikilink") || northa+ || YUI |- | 第16集
@@ -668,7 +666,7 @@ Report 112[20]</p></td>
 
 ## 真人電影
 
-2017年4月15日由[松竹發行](../Page/松竹.md "wikilink")、上映。導演[古澤健](https://zh.wikipedia.org/wiki/古澤健 "wikilink")。主演[中川大志與](../Page/中川大志.md "wikilink")[平祐奈雙主演](https://zh.wikipedia.org/wiki/平祐奈 "wikilink")\[21\]\[22\]
+2017年4月15日由[松竹發行](../Page/松竹.md "wikilink")、上映。導演[古澤健](https://zh.wikipedia.org/wiki/古澤健 "wikilink")。主演[中川大志與](../Page/中川大志.md "wikilink")[平祐奈雙主演](../Page/平祐奈.md "wikilink")\[21\]\[22\]
 。導演表示故事剧情最后将会以原创方式作結尾。
 
 ### 工作人員
@@ -680,13 +678,13 @@ Report 112[20]</p></td>
 ### 演員
 
   - 海崎新太：[中川大志](../Page/中川大志.md "wikilink")
-  - 日代千鶴：[平祐奈](https://zh.wikipedia.org/wiki/平祐奈 "wikilink")
+  - 日代千鶴：[平祐奈](../Page/平祐奈.md "wikilink")
   - 夜明了：[千葉雄大](../Page/千葉雄大.md "wikilink")
   - 大神和臣：[高杉真宙](../Page/高杉真宙.md "wikilink")
   - 狩生玲奈：[池田依來沙](../Page/池田依來沙.md "wikilink")
   - 小野屋杏：岡崎紗絵
   - 天津心：[夏菜](../Page/夏菜.md "wikilink")
-  - 佐伯美知留：[市川實日子](https://zh.wikipedia.org/wiki/市川實日子 "wikilink")
+  - 佐伯美知留：[市川實日子](../Page/市川實日子.md "wikilink")
 
 ## 典故
 

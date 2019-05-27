@@ -29,7 +29,7 @@
 -
 22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，改編自[湊佳苗的同名推理小說](../Page/湊佳苗.md "wikilink")，由[榮倉奈奈主演](../Page/榮倉奈奈.md "wikilink")\[1\]。本劇是繼2013年1月於同時段播出的《[夜行觀覽車](../Page/夜行觀覽車.md "wikilink")》以來，同班底再度改編的湊佳苗原作之電視劇\[2\]。
 
-此劇在[第83回日劇學院賞獲得最佳作品獎](https://zh.wikipedia.org/wiki/第83回日劇學院賞 "wikilink")、最佳男配角獎、最佳導演獎、最佳歌曲獎。
+此劇在[第83回日劇學院賞獲得最佳作品獎](../Page/第83回日劇學院賞.md "wikilink")、最佳男配角獎、最佳導演獎、最佳歌曲獎。
 
 ### 概要
 
@@ -64,8 +64,8 @@
   - 西崎寬：<small>（粵語配音：[黃子敬](../Page/黃子敬.md "wikilink")）</small>
   - 磯野友子：梨木舞<small>（粵語配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）</small>
   - 杉下晉：<small>（粵語配音：[盧國權](../Page/盧國權.md "wikilink")）</small>
-  - 杉下（池園）早苗：[山本未來](https://zh.wikipedia.org/wiki/山本未來 "wikilink")<small>（粵語配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）</small>
-  - 杉下洋介：[葉山獎之](https://zh.wikipedia.org/wiki/葉山獎之 "wikilink")<small>（粵語配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")）</small>
+  - 杉下（池園）早苗：[山本未來](../Page/山本未來.md "wikilink")<small>（粵語配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）</small>
+  - 杉下洋介：[葉山獎之](../Page/葉山獎之.md "wikilink")<small>（粵語配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")）</small>
   - 野原兼文：<small>（粵語配音：[陳曙光](../Page/陳曙光.md "wikilink")）</small>
   - 野口貴弘（**N**oguchi
     Takahiro）：[德井義實](../Page/德井義實.md "wikilink")\[4\]<small>（粵語配音：[蘇強文](../Page/蘇強文.md "wikilink")）</small>
@@ -90,8 +90,8 @@
 1999年，居住在[瀨戶內海青景島上的杉下希美](../Page/瀨戶內海.md "wikilink")（[榮倉奈奈](../Page/榮倉奈奈.md "wikilink")
 飾），是個家庭幸福、家境富裕的高中二年級生。某日，希美父親（
 飾）將[外遇的對象宮本](../Page/外遇.md "wikilink")（[柴本幸](../Page/柴本幸.md "wikilink")
-飾）帶回家中，並將希美和母親（[山本未來](https://zh.wikipedia.org/wiki/山本未來 "wikilink")
-飾）、弟弟（[葉山獎之](https://zh.wikipedia.org/wiki/葉山獎之 "wikilink")
+飾）帶回家中，並將希美和母親（[山本未來](../Page/山本未來.md "wikilink")
+飾）、弟弟（[葉山獎之](../Page/葉山獎之.md "wikilink")
 飾）全部趕出家門。三人被臨時安置在外祖父母早年的山上小屋裡，頓時從天堂墜入了不幸。習慣於富裕生活的母親因無法面對突如其來的打擊，精神瀕臨崩潰狀態，阻止姐弟倆外出打工，甚至將丈夫匯進帳戶的一個月生活費一舉揮霍殆盡。希美一肩挑起照顧精神不穩定的母親和就學中的弟弟之責任，無奈在三餐不繼又無法工作的困境下，無計可施的希美向父親的婚外情對象宮本開口借錢，但只答應施捨食物的宮本表示希美必須每次來下跪，才能答應希美的請求。為了母親和弟弟，希美拋棄自尊流著淚水向宮本下跪，並忍辱得到了食物。其後，即將考大學的希美，為了未來的學費支出而和弟弟前去找父親商量，但冷嘲熱諷的父親認為女孩子不需要唸大學。
 
 希美的同班同學成瀨慎司（[窪田正孝](https://zh.wikipedia.org/wiki/窪田正孝 "wikilink")
@@ -235,8 +235,8 @@
 
 ### 獎項
 
-  - 2014年[銀河賞電視劇部門月間賞最佳作品](../Page/銀河賞.md "wikilink")（與《[對不起青春！](https://zh.wikipedia.org/wiki/對不起青春！ "wikilink")》一同獲得）
-  - 2015年[第83回日劇學院賞](https://zh.wikipedia.org/wiki/第83回日劇學院賞 "wikilink")
+  - 2014年[銀河賞電視劇部門月間賞最佳作品](../Page/銀河賞.md "wikilink")（與《[對不起青春！](../Page/對不起青春！.md "wikilink")》一同獲得）
+  - 2015年[第83回日劇學院賞](../Page/第83回日劇學院賞.md "wikilink")
 
 <!-- end list -->
 
@@ -257,7 +257,7 @@
 ### 製作團隊
 
   - 原作：[湊佳苗](../Page/湊佳苗.md "wikilink")《為了N》
-  - 劇本：[奥寺佐渡子](https://zh.wikipedia.org/wiki/奥寺佐渡子 "wikilink")
+  - 劇本：[奥寺佐渡子](../Page/奥寺佐渡子.md "wikilink")
   - 配樂：[橫山克](https://zh.wikipedia.org/wiki/橫山克 "wikilink")
   - 主題曲：〈Silly〉[家入里歐](../Page/家入里歐.md "wikilink")（JVCKENWOOD Victor
     Entertainment）

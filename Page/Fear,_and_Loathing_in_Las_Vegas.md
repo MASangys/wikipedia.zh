@@ -21,7 +21,7 @@ Vegas》。該部小說於1998年被拍成同名電影，中文片名翻譯有�
     out\!\!/Twilight』便正式出道。在這之前還有出過一首歌「Why Couldn't I Say The Last
     Goodbye To You?」，但沒有收錄在任何單曲或專輯裡。接著11月發行首張專輯『Dance &
     Scream』，該專輯收錄了前三張單曲。
-  - 2011年7月，迷你專輯『[NEXTREME](https://zh.wikipedia.org/wiki/NEXTREME "wikilink")』發售。這張專輯的收錄曲「Chase
+  - 2011年7月，迷你專輯『[NEXTREME](../Page/NEXTREME.md "wikilink")』發售。這張專輯的收錄曲「Chase
     the
     Light」被用於電視動畫《[逆境无赖开司破戒录篇](https://zh.wikipedia.org/wiki/赌博默示录 "wikilink")》的片頭曲，同時也收錄於街機遊戲《[REFLEC
     BEAT](https://zh.wikipedia.org/wiki/REFLEC_BEAT "wikilink")》。另外「Jump
@@ -79,7 +79,7 @@ Vegas》。該部小說於1998年被拍成同名電影，中文片名翻譯有�
     **Minami** -
     [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[嘶吼](https://zh.wikipedia.org/wiki/嘶吼 "wikilink")、[鍵盤](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")、[合成器](../Page/合成器.md "wikilink")（[電子琴](../Page/電子琴.md "wikilink")）
     本名未知，關西學院大學理工學部，1990年生。
-    特徵是一頭黑色捲髮和煙燻妝，在學生時期與「[Crossfaith](https://zh.wikipedia.org/wiki/Crossfaith "wikilink")」的貝斯手**Hiroki**曾組名為「**BlankTime**」的樂團。
+    特徵是一頭黑色捲髮和煙燻妝，在學生時期與「[Crossfaith](../Page/Crossfaith.md "wikilink")」的貝斯手**Hiroki**曾組名為「**BlankTime**」的樂團。
 
 <!-- end list -->
 
@@ -395,7 +395,7 @@ VPCC-82656 (Premium Edition)</p></td>
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2011年7月13日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/NEXTREME" title="wikilink">NEXTREME</a></strong></p></td>
+<td><p><strong><a href="../Page/NEXTREME.md" title="wikilink">NEXTREME</a></strong></p></td>
 <td><p><br />
 </p>
 <div class="NavFrame" style="clear:both;border:0;">
@@ -569,7 +569,7 @@ VPCC-82656 (Premium Edition)</p></td>
         w/[KNOCK OUT
         MONKEY](https://zh.wikipedia.org/wiki/KNOCK_OUT_MONKEY "wikilink")/[JAWEYE](https://zh.wikipedia.org/wiki/JAWEYE "wikilink")/[LOUDNESS](https://zh.wikipedia.org/wiki/LOUDNESS "wikilink")/HER
         NAME IN BLOOD/FIVE NEW OLD/[AIR
-        SWELL](https://zh.wikipedia.org/wiki/AIR_SWELL "wikilink")/GARI/[KEYTALK](https://zh.wikipedia.org/wiki/KEYTALK "wikilink")/and
+        SWELL](https://zh.wikipedia.org/wiki/AIR_SWELL "wikilink")/GARI/[KEYTALK](../Page/KEYTALK.md "wikilink")/and
         more
   - 2014年12月19日 - Fear, and Loathing in Las Vegas「PHASE 2」Release Tour
     Final

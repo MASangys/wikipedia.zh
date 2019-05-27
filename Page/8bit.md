@@ -120,14 +120,14 @@ Stratos〉](../Page/IS〈Infinite_Stratos〉.md "wikilink")》。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/騎士&amp;魔法" title="wikilink">騎士&amp;魔法</a></p></td>
+<td><p><a href="../Page/騎士&amp;魔法.md" title="wikilink">騎士&amp;魔法</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小木乃伊到我家" title="wikilink">小木乃伊到我家</a></p></td>
+<td><p><a href="../Page/小木乃伊到我家.md" title="wikilink">小木乃伊到我家</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -381,7 +381,7 @@ Stratos〉](../Page/IS〈Infinite_Stratos〉.md "wikilink")》。
 ## 關連人物
 
   - [葛西勵](https://zh.wikipedia.org/wiki/葛西勵 "wikilink")
-  - [菊地康仁](https://zh.wikipedia.org/wiki/菊地康仁 "wikilink")
+  - [菊地康仁](../Page/菊地康仁.md "wikilink")
 
 ## 關連項目
 

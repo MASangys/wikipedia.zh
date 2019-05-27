@@ -86,9 +86,9 @@ Higashi-Nakano station west 20120914.jpg|atré vie東中野
 隨著JR東日本集團內事業整合，2009年4月起由株式會社atre接手以下業務。
 
   - Skip北小金（スキップ北小金） -
-    2000年4月開幕的[北小金站南口商業設施](https://zh.wikipedia.org/wiki/北小金站 "wikilink")（3層）。過去由株式會社JR東京企劃開發（ジェイアール東京企画開発）營運。
+    2000年4月開幕的[北小金站南口商業設施](../Page/北小金站.md "wikilink")（3層）。過去由株式會社JR東京企劃開發（ジェイアール東京企画開発）營運。
   - Skip南柏（スキップ南柏） -
-    1999年3月開幕的[南柏站西口商業設施](https://zh.wikipedia.org/wiki/南柏站 "wikilink")（3層）。過去由株式會社JR東京企劃開發營運。
+    1999年3月開幕的[南柏站西口商業設施](../Page/南柏站.md "wikilink")（3層）。過去由株式會社JR東京企劃開發營運。
   - 牛久Astair（牛久アステア） -
     2001年10月開幕的商業設施（2層）。2012年4月移讓給株式會社。過去由株式會社水戶服務開發（水戸サービス開発）營運。
 
@@ -118,7 +118,7 @@ Higashi-Nakano station west 20120914.jpg|atré vie東中野
   - Champ de Herbe（シャン・ド・エルブ） - 化妝雜貨店事業。
   - Defricheur（デフリシュール） - 男性複合店。
   - 秋葉原複合館（アキバセレクト館）
-  - 其他 - 、[羅多倫咖啡等](https://zh.wikipedia.org/wiki/羅多倫咖啡 "wikilink")。
+  - 其他 - 、[羅多倫咖啡等](../Page/羅多倫咖啡.md "wikilink")。
 
 ## 沿革
 

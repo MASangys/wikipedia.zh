@@ -55,10 +55,9 @@ TFO的实现包括：
   - [苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS
     9和](https://zh.wikipedia.org/wiki/iOS_9 "wikilink")[OS X
     10.11支持TCP快速打开](https://zh.wikipedia.org/wiki/OS_X_10.11 "wikilink")，但并未为各连接默认启用。\[15\]
-  - [Microsoft
-    Edge从](https://zh.wikipedia.org/wiki/Microsoft_Edge "wikilink")[Windows
-    10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink") Preview
-    build 14352开始支持TFO。\[16\]
+  - [Microsoft Edge从](../Page/Microsoft_Edge.md "wikilink")[Windows
+    10](../Page/Windows_10.md "wikilink") Preview build
+    14352开始支持TFO。\[16\]
 
 ## 替代品
 
@@ -69,8 +68,7 @@ TCP快速打开（TFO）类似一项1994年被称作[T/TCP](https://zh.wikipedia
 
   - [SPDY](../Page/SPDY.md "wikilink")
   - [SYN cookies](https://zh.wikipedia.org/wiki/SYN_cookies "wikilink")
-  - [TCP Cookie
-    传输](https://zh.wikipedia.org/wiki/TCP_Cookie_传输 "wikilink")
+  - [TCP Cookie 传输](../Page/TCP_Cookie_传输.md "wikilink")
 
 ## 参考文献
 

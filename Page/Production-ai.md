@@ -9,7 +9,7 @@ Production-ai雖然是成立至今將近半個世紀的老鋪動畫工作室。�
 早年從電視動畫製作開始承接許多[龍之子和](../Page/龍之子製作公司.md "wikilink")[葦PRODUCTION](../Page/PRODUCTION_REED.md "wikilink")（現已改名PRODUCTION
 REED）的作品。1980年代之後，逐漸向[STUDIO
 DEEN](../Page/STUDIO_DEEN.md "wikilink")、[XEBEC](../Page/XEBEC.md "wikilink")、[日昇動畫和](../Page/日昇動畫.md "wikilink")[BEE
-TRAIN等總承包商的作品為中心承包背景製作至今](https://zh.wikipedia.org/wiki/BEE_TRAIN "wikilink")。
+TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAIN.md "wikilink")。
 
 ## 主要参與作品
 
@@ -210,7 +210,7 @@ TRAIN等總承包商的作品為中心承包背景製作至今](https://zh.wikip
 
   - [競女\!\!\!\!\!\!\!\!](../Page/競女!!!!!!!!.md "wikilink")（2016年）
 
-#### [BEE TRAIN](https://zh.wikipedia.org/wiki/BEE_TRAIN "wikilink")
+#### [BEE TRAIN](../Page/BEE_TRAIN.md "wikilink")
 
   - [火龍小武士](../Page/火龍小武士.md "wikilink")（1998年－1999年）
 
@@ -322,14 +322,13 @@ TRAIN等總承包商的作品為中心承包背景製作至今](https://zh.wikip
     ARAGOTO](../Page/流浪神差.md "wikilink")（總承包商：[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")，2015年）
 
   - [時空使徒](https://zh.wikipedia.org/wiki/時空使徒 "wikilink")（總承包商：[Creators
-    in
-    Pack](https://zh.wikipedia.org/wiki/Creators_in_Pack "wikilink")，2016年）
+    in Pack](../Page/Creators_in_Pack.md "wikilink")，2016年）
 
-  - [王室教師海涅](https://zh.wikipedia.org/wiki/王室教師海涅 "wikilink")（總承包商：[Bridge](https://zh.wikipedia.org/wiki/Bridge_\(公司\) "wikilink")，2017年）
+  - [王室教師海涅](../Page/王室教師海涅.md "wikilink")（總承包商：[Bridge](https://zh.wikipedia.org/wiki/Bridge_\(公司\) "wikilink")，2017年）
 
   - （總承包商：[OLM](../Page/OLM.md "wikilink")，2017年）
 
-  - [搖曳露營△](https://zh.wikipedia.org/wiki/搖曳露營△ "wikilink")（總承包商：[C-Station](https://zh.wikipedia.org/wiki/C-Station "wikilink")，2018年）
+  - [搖曳露營△](../Page/搖曳露營△.md "wikilink")（總承包商：[C-Station](../Page/C-Station.md "wikilink")，2018年）
 
 ### OVA
 
@@ -342,25 +341,24 @@ TRAIN等總承包商的作品為中心承包背景製作至今](https://zh.wikip
   - [高橋留美子世界](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")（總承包商：[Studio
     Pierrot](../Page/Studio_Pierrot.md "wikilink")）
 
-      - [火焰之旅](https://zh.wikipedia.org/wiki/火焰之旅 "wikilink")（1985年）
-      - [The 超女](https://zh.wikipedia.org/wiki/The_超女 "wikilink")（1985年）
-      - [微笑標的](https://zh.wikipedia.org/wiki/微笑標的 "wikilink")（1987年）
+      - [火焰之旅](../Page/火焰之旅.md "wikilink")（1985年）
+      - [The 超女](../Page/The_超女.md "wikilink")（1985年）
+      - [微笑標的](../Page/微笑標的.md "wikilink")（1987年）
 
   - （總承包商：[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")、[Victor
     Entertainment](../Page/勝利娛樂.md "wikilink")，1993年）
 
   - [偶像防衛隊](../Page/偶像防衛隊.md "wikilink")（總承包商：[葦Production](../Page/PRODUCTION_REED.md "wikilink")，1994年－1995年）※美術指導。
 
-  - （總承包商：龍之子製作公司、[創通Agency](https://zh.wikipedia.org/wiki/創通 "wikilink")，1994年－1995年）
+  - （總承包商：龍之子製作公司、[創通Agency](../Page/創通.md "wikilink")，1994年－1995年）
 
   - [純情房東俏房客
     Again](../Page/純情房東俏房客.md "wikilink")（總承包商：[XEBEC](../Page/XEBEC.md "wikilink")，2002年）
 
-  - （總承包商：[BEE
-    TRAIN](https://zh.wikipedia.org/wiki/BEE_TRAIN "wikilink")，2007年）
+  - （總承包商：[BEE TRAIN](../Page/BEE_TRAIN.md "wikilink")，2007年）
 
   - （總承包商：[Creators in
-    Pack](https://zh.wikipedia.org/wiki/Creators_in_Pack "wikilink")，2014年）
+    Pack](../Page/Creators_in_Pack.md "wikilink")，2014年）
 
   - WILD ADAPTER -航-（總承包商：Creators in Pack，2015年）
 
@@ -371,8 +369,7 @@ TRAIN等總承包商的作品為中心承包背景製作至今](https://zh.wikip
 
   - （總承包商：[STUDIO DEEN](../Page/STUDIO_DEEN.md "wikilink")，1986年）
 
-  - （總承包商：[Kitty
-    film](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")，1992年）
+  - （總承包商：[Kitty film](../Page/Kitty_film.md "wikilink")，1992年）
 
   - 土俵鬼（1994年）
 

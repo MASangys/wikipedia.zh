@@ -53,8 +53,7 @@ Tips的黑猩猩引发了纪念品这一副产品的生产，其中包括收藏�
 ### T-鸟( The T-Birds)
 
 2002年，“Tipps一家”由一群住在一起的[泥塑动画鸟代替](https://zh.wikipedia.org/wiki/泥塑动画 "wikilink")，名为“T-鸟”。这是由[阿德曼动画公司摄制的](../Page/阿德曼动画.md "wikilink")，也就是制作《[超级无敌掌门狗](../Page/超级无敌掌门狗.md "wikilink")》电影系列（''Wallace
-and Gromit
-*)以及《[小鸡快跑](https://zh.wikipedia.org/wiki/小鸡快跑 "wikilink")》（*Chicken
+and Gromit *)以及《[小鸡快跑](../Page/小鸡快跑.md "wikilink")》（*Chicken
 Run*）的公司。在爱尔兰，这些广告一直到2006年后期也还在播出，虽然宣传的是里昂茶（另一个联合利华的品牌）。这使得PG
 Tips成为2005年十月首映的该系列的第一部电影《[超级无敌掌门狗：人兔的诅咒](../Page/酷狗寶貝之魔兔詛咒.md "wikilink")》（*The
 Curse of the

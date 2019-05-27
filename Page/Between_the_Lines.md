@@ -23,9 +23,8 @@ Japan與](https://zh.wikipedia.org/wiki/Sony_Music_Online_Japan "wikilink")[MORR
     Return](https://zh.wikipedia.org/wiki/Point_of_No_Return "wikilink")
     ([決日子的remix](../Page/決明子_\(團體\).md "wikilink")。)
 4.  戀戀KAREN
-5.  [BACK TOGETHER
-    AGAIN](https://zh.wikipedia.org/wiki/FLOATIN' "wikilink") (West
-    Indies Dream Mix)
+5.  [BACK TOGETHER AGAIN](../Page/FLOATIN'.md "wikilink") (West Indies
+    Dream Mix)
 6.  [B.M.N. (BIG MAN,
     NOW)](https://zh.wikipedia.org/wiki/You_Go_Your_Way "wikilink")
 7.  [PIECES OF A DREAM](../Page/PIECES_OF_A_DREAM.md "wikilink") ([DJ

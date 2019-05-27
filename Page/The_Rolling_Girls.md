@@ -1,5 +1,5 @@
 《**The Rolling Girls**》（），是日本動畫公司[WIT
-STUDIO製作的原創](https://zh.wikipedia.org/wiki/WIT_STUDIO "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，於2015年1月播出，中文翻譯「旋轉少女」。
+STUDIO製作的原創](../Page/WIT_STUDIO.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，於2015年1月播出，中文翻譯「旋轉少女」。
 2014年10月開始，在[Mag Garden旗下雜誌](../Page/Mag_Garden.md "wikilink")《月刊Comic
 Garden》與網絡雜誌《[月刊Comic
 Blade](https://zh.wikipedia.org/wiki/月刊Comic_Blade "wikilink")》上連載改編漫畫。
@@ -38,7 +38,7 @@ War)结束十年以后，大多数的政治人物与经济大亨神秘消失。�
 
   -
     來自東村山的熱血少女，東村山自警團「北多摩Dangers」的團員。聽到真茶未與望未的相互告白一時激動想揍望未，卻粗心揍到旁邊的鱷。
-    後被「北多摩Dangers」開除，而與望未一起旅行。由於沒有[駕照](https://zh.wikipedia.org/wiki/駕照 "wikilink")，所以坐在望未機車的[邊車中](https://zh.wikipedia.org/wiki/邊車 "wikilink")，也成為唯一一個沒騎機車的人。
+    後被「北多摩Dangers」開除，而與望未一起旅行。由於沒有[駕照](https://zh.wikipedia.org/wiki/駕照 "wikilink")，所以坐在望未機車的[邊車中](../Page/邊車.md "wikilink")，也成為唯一一個沒騎機車的人。
     渴望變強。得知月光石可以激發人類潛能後，要求小真多餘的部份給自己。
     據本人透露自己「能力」
 
@@ -47,7 +47,7 @@ War)结束十年以后，大多数的政治人物与经济大亨神秘消失。�
   -
     神秘的少女，有著虎牙，一開始帶著[防毒面具](../Page/防毒面具.md "wikilink")（東京篇時扔棄掉防毒面具，之後皆以面目示人）。暱稱「**小千**」，但縫衣會稱「千仔」。
     與其他三人初次認識，卻呼叫三人小時候的綽號：「望助」（望未）、「結季貝」（結季奈）、「鳴炭」（縫衣）。
-    趁真茶未在本部時偷偷將委託信塞入[邊車](https://zh.wikipedia.org/wiki/邊車 "wikilink")，變成望未第一個處理的委託。
+    趁真茶未在本部時偷偷將委託信塞入[邊車](../Page/邊車.md "wikilink")，變成望未第一個處理的委託。
     為了尋找月光石與望未一起旅行，但經歷東京的事後放棄自己的月光石，並決定不再追求。
     所澤國大統領御園遙的女兒，但並未向望未她們表明身分，卻透露自己的機車是跟籾山借來的。
 
@@ -259,7 +259,7 @@ War)结束十年以后，大多数的政治人物与经济大亨神秘消失。�
 ## 製作
 
 由製作過電視動畫《[進擊的巨人](../Page/進擊的巨人.md "wikilink")》和《[鬼燈的冷徹](../Page/鬼燈的冷徹.md "wikilink")》的[WIT
-STUDIO擔任動畫製作](https://zh.wikipedia.org/wiki/WIT_STUDIO "wikilink")，導演由曾負責《[銀之匙](https://zh.wikipedia.org/wiki/銀之匙 "wikilink")》第二期的出合小都美擔任，[劇本統籌則是由](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")《[戰國BASARA](https://zh.wikipedia.org/wiki/戰國BASARA "wikilink")》的武藤泰之負責，曾參與《[TARI
+STUDIO擔任動畫製作](../Page/WIT_STUDIO.md "wikilink")，導演由曾負責《[銀之匙](https://zh.wikipedia.org/wiki/銀之匙 "wikilink")》第二期的出合小都美擔任，[劇本統籌則是由](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")《[戰國BASARA](https://zh.wikipedia.org/wiki/戰國BASARA "wikilink")》的武藤泰之負責，曾參與《[TARI
 TARI](../Page/TARI_TARI.md "wikilink")》製作的tanu擔任角色原案，而北田勝彥則擔任[角色設定及](https://zh.wikipedia.org/wiki/角色設定 "wikilink")[總作畫導演](https://zh.wikipedia.org/wiki/作畫監督 "wikilink")，這是北田繼2013年的《HAL》（）角色設定及總作畫導演後又一次參與WIT
 STUDIO製作的動畫。\[1\]
 
@@ -422,7 +422,7 @@ Kan Sinu、Kim Jung eun</p></td>
 <td><p>第7話</p></td>
 <td></td>
 <td><p>請給我星星</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/橘正紀" title="wikilink">橘正紀</a></p></td>
+<td><p><a href="../Page/橘正紀.md" title="wikilink">橘正紀</a></p></td>
 <td><p>青柳宏宜</p></td>
 <td><p>磯野智</p></td>
 <td></td>
@@ -431,7 +431,7 @@ Kan Sinu、Kim Jung eun</p></td>
 <td><p>第8話</p></td>
 <td></td>
 <td><p>雨過天青</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/平川哲生" title="wikilink">平川哲生</a><br />
+<td><p><a href="../Page/平川哲生.md" title="wikilink">平川哲生</a><br />
 江原康之</p></td>
 <td><p>淺見松雄<br />
 金森陽子</p></td>

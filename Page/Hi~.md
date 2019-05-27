@@ -4,7 +4,7 @@ Entertainment發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，主�
 
 ## 概要
 
-2015年2月11日，釋出一輯後續回歸概念照。2月16-23日，分別依次序釋出成員[劉智嬡](https://zh.wikipedia.org/wiki/劉智嬡 "wikilink")、[鄭藝仁](https://zh.wikipedia.org/wiki/鄭藝仁 "wikilink")、BabySoul、柳秀靜、[Kei](https://zh.wikipedia.org/wiki/Kei "wikilink")、[Jin](https://zh.wikipedia.org/wiki/JIN "wikilink")、李美珠及團體七人的回歸概念照，並預告於3月3日回歸歌壇。2月17日，Naver
+2015年2月11日，釋出一輯後續回歸概念照。2月16-23日，分別依次序釋出成員[劉智嬡](https://zh.wikipedia.org/wiki/劉智嬡 "wikilink")、[鄭藝仁](https://zh.wikipedia.org/wiki/鄭藝仁 "wikilink")、BabySoul、柳秀靜、[Kei](../Page/Kei.md "wikilink")、[Jin](https://zh.wikipedia.org/wiki/JIN "wikilink")、李美珠及團體七人的回歸概念照，並預告於3月3日回歸歌壇。2月17日，Naver
 StarCast釋出《Lovelyz Diary Season 2》預告，逢周二及五播出一集。3月3日，公開專輯音源及主打歌《안녕
 (Hi\~)》MV。3月5日，於《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》開始於各大音樂節目進行回歸舞台。4月16日，宣布結束正規一輯改版專輯主打歌《안녕

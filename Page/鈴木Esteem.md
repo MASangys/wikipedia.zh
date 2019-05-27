@@ -1,11 +1,10 @@
-**鈴木Esteem**（）乃[日本](../Page/日本.md "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1995年至2007年間開發製造的四門[緊湊型轎車](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")、五門緊湊型[旅行車](../Page/旅行車.md "wikilink")。在日本市場，此車款是[鈴木Cultus的高端車型](https://zh.wikipedia.org/wiki/鈴木Cultus "wikilink")，稱為**鈴木Cultus
+**鈴木Esteem**（）乃[日本](../Page/日本.md "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1995年至2007年間開發製造的四門[緊湊型轎車](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")、五門緊湊型[旅行車](../Page/旅行車.md "wikilink")。在日本市場，此車款是[鈴木Cultus的高端車型](../Page/鈴木Cultus.md "wikilink")，稱為**鈴木Cultus
 Crescent**；[北美洲和](../Page/北美洲.md "wikilink")[臺灣市場使用](../Page/臺灣.md "wikilink")「鈴木Esteem」，而[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[澳洲及其他](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[亞洲市場則稱為](https://zh.wikipedia.org/wiki/亞洲 "wikilink")**鈴木Baleno**。由[印度](../Page/印度.md "wikilink")[馬魯蒂鈴木公司製造發售的稱為](../Page/馬魯蒂鈴木公司.md "wikilink")**馬魯蒂Baleno**（四門轎車）、**馬魯蒂Baleno
 Altura**（五門旅行車），不過[菲律賓則](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[更換廠徽標誌後叫作](../Page/换牌工程.md "wikilink")**雪佛蘭Cassia**。
 
 ## 歷史與概要
 
-1995年 -
-1月日本正式發售[Cultus的高級車型](https://zh.wikipedia.org/wiki/鈴木Cultus "wikilink")「Cultus
+1995年 - 1月日本正式發售[Cultus的高級車型](../Page/鈴木Cultus.md "wikilink")「Cultus
 Crescent」，包括三門掀背車（1.3L、1.5L）、四門轎車（1.5L、1.6L）。上半年起開始外銷，包括北美洲、歐洲等地。此車款以Cultus之[底盤為基礎稍事修改](https://zh.wikipedia.org/wiki/底盤 "wikilink")，並加大車室空間，其它零組件則與原型車共用。1.6L車型可選購[4WD](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，另外運動化車型「GT」則搭載由[馬自達供應的](https://zh.wikipedia.org/wiki/馬自達 "wikilink")1.8L直列四缸DOHC
 [J18A型引擎](https://zh.wikipedia.org/wiki/鈴木J族引擎#J18/J18A型 "wikilink")
 1.8L直列四缸DOHC
@@ -36,7 +35,7 @@ Wagon.jpg Image:Esteem Sedan.jpg Image:Suzuki Esteem Wagon.jpg
 ## 內部連結
 
   - [鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")
-  - [鈴木Cultus](https://zh.wikipedia.org/wiki/鈴木Cultus "wikilink")
+  - [鈴木Cultus](../Page/鈴木Cultus.md "wikilink")
   - [鈴木Liana](../Page/鈴木Liana.md "wikilink")
 
 ## 參考資料

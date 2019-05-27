@@ -5,14 +5,14 @@ aq&bdq&cq\\ \end{matrix};q;q\right]\]
 
 ## 极限关系
 
-  - **Q拉卡多项式**→[双q哈恩多项式](https://zh.wikipedia.org/wiki/双q哈恩多项式 "wikilink")；
+  - **Q拉卡多项式**→[双q哈恩多项式](../Page/双q哈恩多项式.md "wikilink")；
 
 在Q拉卡多项式中令\(\beta =0\)以及\(\alpha{q}=q^{-N}\),即得双q哈恩多项式：
 
 \(R_{n}(\mu(x);q^{-N-1},0,\gamma,\delta|q)=R_{n}(\mu(x);\gamma,\delta,N|q)\)
 
 令**Q拉卡多项式**中\(a=b\),\(cq=q^{-N}\)
-即得[双Q克拉夫楚克多项式](https://zh.wikipedia.org/wiki/双Q克拉夫楚克多项式 "wikilink")
+即得[双Q克拉夫楚克多项式](../Page/双Q克拉夫楚克多项式.md "wikilink")
 
 ## 图集
 

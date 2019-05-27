@@ -56,7 +56,7 @@ Day》再次上臺完成演唱會，然[SM娛樂及](../Page/SM娛樂.md "wikili
 <tbody>
 <tr class="odd">
 <td><p>2015年3月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a> [25]</p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a> [25]</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
 <td><p>總計67,040名</p></td>
@@ -343,7 +343,7 @@ Day》再次上臺完成演唱會，然[SM娛樂及](../Page/SM娛樂.md "wikili
 </tr>
 <tr class="even">
 <td><p>2016年3月18日（安可）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
 <td><p>總計45,000名</p></td>

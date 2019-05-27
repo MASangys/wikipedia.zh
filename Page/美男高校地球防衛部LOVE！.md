@@ -2,7 +2,7 @@
 COMET。2017年3月18日宣布决定制作OVA《美男高校地球防卫部LOVE\!LOVE\!LOVE\!》，并于2017年8月26日起在剧场限定上映。
 
 在《美男高校地球防衛部》系列下，繼《美男高校地球防卫部LOVE\!》後，以原有導演高松信司等製作人員，另外原創電視動畫《[美男高校地球防衛部HAPPY
-KISS！](https://zh.wikipedia.org/wiki/美男高校地球防衛部HAPPY_KISS！ "wikilink")》，推出並起用全新的主角群和配音員。自2018年4月8日起播放。\[3\]
+KISS！](../Page/美男高校地球防衛部HAPPY_KISS！.md "wikilink")》，推出並起用全新的主角群和配音員。自2018年4月8日起播放。\[3\]
 
 ## 故事簡介
 
@@ -408,8 +408,8 @@ Lovers」展開對戰。
 </tr>
 <tr class="even">
 <td><p>人物設計</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/石川雅一" title="wikilink">石川雅一</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/原由美子" title="wikilink">原由美子</a></p></td>
+<td><p><a href="../Page/石川雅一.md" title="wikilink">石川雅一</a></p></td>
+<td><p><a href="../Page/原由美子.md" title="wikilink">原由美子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>副人物設計<br />
@@ -464,13 +464,13 @@ Lovers」展開對戰。
 </tr>
 <tr class="odd">
 <td><p>動畫製作人</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/關山晃弘" title="wikilink">關山晃弘</a></p></td>
+<td><p><a href="../Page/關山晃弘.md" title="wikilink">關山晃弘</a></p></td>
 <td><p>鵜飼浩史</p></td>
 </tr>
 <tr class="even">
 <td><p>動畫製作</p></td>
 <td><p><a href="../Page/Diomedéa.md" title="wikilink">Diomedéa</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/STUDIO_COMET" title="wikilink">STUDIO COMET</a></p></td>
+<td><p><a href="../Page/STUDIO_COMET.md" title="wikilink">STUDIO COMET</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>製作</p></td>
@@ -485,7 +485,7 @@ Lovers」展開對戰。
   - 第1期
     片頭曲「」
     作詞：hotaru，作曲、編曲：奧井康介
-    主唱：地球防衛部〔箱根有基（[山本和臣](../Page/山本和臣.md "wikilink")）、由布院煙（[梅原裕一郎](https://zh.wikipedia.org/wiki/梅原裕一郎 "wikilink")）、鬼怒川熱史（[西山宏太朗](../Page/西山宏太朗.md "wikilink")）、鳴子硫黃（[白井悠介](https://zh.wikipedia.org/wiki/白井悠介 "wikilink")）、藏王立（[增田俊樹](../Page/增田俊樹.md "wikilink")）〕
+    主唱：地球防衛部〔箱根有基（[山本和臣](../Page/山本和臣.md "wikilink")）、由布院煙（[梅原裕一郎](../Page/梅原裕一郎.md "wikilink")）、鬼怒川熱史（[西山宏太朗](../Page/西山宏太朗.md "wikilink")）、鳴子硫黃（[白井悠介](../Page/白井悠介.md "wikilink")）、藏王立（[增田俊樹](../Page/增田俊樹.md "wikilink")）〕
     第1、12話為片尾使用。
   - 片尾曲「」
     作詞：hotaru，作曲、編曲：eba
@@ -567,7 +567,7 @@ Lovers」展開對戰。
 <td></td>
 <td><p>去愛吧，自戀狂！</p></td>
 <td><p><a href="../Page/高橋奈津子.md" title="wikilink">高橋奈津子</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/木村泰大" title="wikilink">木村泰大</a></p></td>
+<td><p><a href="../Page/木村泰大.md" title="wikilink">木村泰大</a></p></td>
 <td><p>大澤美奈</p></td>
 <td></td>
 </tr>
@@ -586,7 +586,7 @@ Lovers」展開對戰。
 <td><p>毫不吝嗇奪取愛</p></td>
 <td><p>橫手美智子</p></td>
 <td><p>高松信司</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">小坂春女</a></p></td>
+<td><p><a href="../Page/小坂春女.md" title="wikilink">小坂春女</a></p></td>
 <td><p>、荒川理惠</p></td>
 </tr>
 <tr class="odd">
@@ -594,7 +594,7 @@ Lovers」展開對戰。
 <td></td>
 <td><p>愛你在心口難開</p></td>
 <td><p>高橋奈津子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三澤伸" title="wikilink">三澤伸</a></p></td>
+<td><p><a href="../Page/三澤伸.md" title="wikilink">三澤伸</a></p></td>
 <td><p>西村博昭</p></td>
 <td><p>安田祥子、池原百合子</p></td>
 </tr>

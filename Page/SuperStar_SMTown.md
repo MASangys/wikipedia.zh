@@ -2,7 +2,7 @@
 SMTOWN**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂公司和韓國](../Page/SM娛樂.md "wikilink")[節奏遊戲公司Dalcomsoft合作](https://zh.wikipedia.org/wiki/節奏遊戲 "wikilink")，2014年8月在[Google
 Play推出的](../Page/Google_Play.md "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")。遊戲特色在於，歌曲是韓國SM娛樂公司藝人的主打歌曲，像是：[寶兒](../Page/寶兒.md "wikilink")、[東方神起](../Page/東方神起.md "wikilink")、[Super
 Junior](../Page/Super_Junior.md "wikilink")、[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[SHINee](../Page/SHINee.md "wikilink")、[f(x)](https://zh.wikipedia.org/wiki/f\(x\) "wikilink")、[EXO](../Page/EXO.md "wikilink")、[Red
-Velvet和](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")[NCT](../Page/NCT.md "wikilink")。需要說明的是，本遊戲僅在韓國、新加坡、香港、菲律賓、馬來西亞及泰國[App
+Velvet和](../Page/Red_Velvet.md "wikilink")[NCT](../Page/NCT.md "wikilink")。需要說明的是，本遊戲僅在韓國、新加坡、香港、菲律賓、馬來西亞及泰國[App
 Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")（iOS）和Google
 Play（Android）提供，而在語言則是提供[英文及](https://zh.wikipedia.org/wiki/英文 "wikilink")[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")。《[全民天團](https://zh.wikipedia.org/wiki/全民天團 "wikilink")》是該遊戲的中國服務器版本。
 
@@ -32,8 +32,8 @@ Junior](../Page/Super_Junior.md "wikilink")、[圭賢](../Page/圭賢.md "wikili
 Junior Donghae &
 Eunhyuk](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")、[M\&D](https://zh.wikipedia.org/wiki/M&D "wikilink")、[厲旭](../Page/厲旭.md "wikilink")、[藝聲](../Page/藝聲.md "wikilink")、[Super
 Junior-M](../Page/Super_Junior-M.md "wikilink")、[Henry](../Page/劉憲華.md "wikilink")、[周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")、[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")、[泰妍](https://zh.wikipedia.org/wiki/泰妍 "wikilink")、[蒂芬妮](https://zh.wikipedia.org/wiki/蒂芬妮 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")、[允兒](https://zh.wikipedia.org/wiki/允兒 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[SHINee](../Page/SHINee.md "wikilink")、[泰民](../Page/泰民.md "wikilink")、[鐘鉉](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")、[KEY
-(歌手)](https://zh.wikipedia.org/wiki/KEY_\(歌手\) "wikilink")、[溫流](../Page/溫流.md "wikilink")、[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")、[Amber](https://zh.wikipedia.org/wiki/刘逸云 "wikilink")、[Luna](../Page/朴善英.md "wikilink")、[EXO-K](../Page/EXO-K.md "wikilink")、[EXO-M](../Page/EXO-M.md "wikilink")、[EXO-CBX](https://zh.wikipedia.org/wiki/EXO-CBX "wikilink")、[Chen](https://zh.wikipedia.org/wiki/Chen "wikilink")、[LAY](https://zh.wikipedia.org/wiki/张艺兴 "wikilink")、[Red
-Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")、[NCT所屬的](../Page/NCT.md "wikilink")[NCT
+(歌手)](https://zh.wikipedia.org/wiki/KEY_\(歌手\) "wikilink")、[溫流](../Page/溫流.md "wikilink")、[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")、[Amber](https://zh.wikipedia.org/wiki/刘逸云 "wikilink")、[Luna](../Page/朴善英.md "wikilink")、[EXO-K](../Page/EXO-K.md "wikilink")、[EXO-M](../Page/EXO-M.md "wikilink")、[EXO-CBX](../Page/EXO-CBX.md "wikilink")、[Chen](https://zh.wikipedia.org/wiki/Chen "wikilink")、[LAY](https://zh.wikipedia.org/wiki/张艺兴 "wikilink")、[Red
+Velvet](../Page/Red_Velvet.md "wikilink")、[NCT所屬的](../Page/NCT.md "wikilink")[NCT
 127](https://zh.wikipedia.org/wiki/NCT_127 "wikilink")、[NCT
 U及](https://zh.wikipedia.org/wiki/NCT_U "wikilink")[NCT
 DREAM和](../Page/NCT.md "wikilink")[SMTOWN以及公司内其他企划](https://zh.wikipedia.org/wiki/SMTOWN "wikilink")（如[S.M.THE

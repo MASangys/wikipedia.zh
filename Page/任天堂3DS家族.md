@@ -45,7 +45,7 @@ XL/LL。於2017年7月13日在日本地區上市、並且在2017年7月28日在�
 LL除了畫面皆以2D顯示之外，其他都和3DS
 LL擁有近乎相同的機能。」和取消摺疊開蓋設計、以雙2D螢幕上下並列的平板機身設計的[任天堂2DS不同](../Page/任天堂2DS.md "wikilink")，新任天堂2DS
 XL/LL機身採可折疊的設計。3DS LL和2DS LL對照比較之下，上畫面液晶同樣為4.88吋，重量則是329g和260g，2DS
-LL更為輕薄。支援超過1,000款[任天堂3DS遊戲](../Page/任天堂3DS.md "wikilink")，並且跟[新任天堂3DS一樣內建可以與](https://zh.wikipedia.org/wiki/新任天堂3DS "wikilink")[amiibo連線的NFC功能](https://zh.wikipedia.org/wiki/amiibo "wikilink")。
+LL更為輕薄。支援超過1,000款[任天堂3DS遊戲](../Page/任天堂3DS.md "wikilink")，並且跟[新任天堂3DS一樣內建可以與](../Page/新任天堂3DS.md "wikilink")[amiibo連線的NFC功能](https://zh.wikipedia.org/wiki/amiibo "wikilink")。
 
 ## 硬件比较
 

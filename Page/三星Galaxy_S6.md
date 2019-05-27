@@ -1,9 +1,9 @@
 **Samsung Galaxy
 S6系列**是韩国[三星电子于](https://zh.wikipedia.org/wiki/三星电子 "wikilink")2015年3月1日([MWC](https://zh.wikipedia.org/wiki/MWC "wikilink"))和2015年8月13日([IFA前](../Page/柏林國際廣播展.md "wikilink"))发布的第六代S系列旗舰级[智能手机](../Page/智能手机.md "wikilink")，是[Samsung
 Galaxy
-S5的後续机型](https://zh.wikipedia.org/wiki/三星Galaxy_S5 "wikilink")，预装最新的[Android](../Page/Android.md "wikilink")[5.0.1(Lollipop)](https://zh.wikipedia.org/wiki/Android_Lollipop "wikilink")([Samsung
-Galaxy S6](https://zh.wikipedia.org/wiki/三星Galaxy_S6 "wikilink"))/
-[Android](../Page/Android.md "wikilink")[5.1.1(Lollipop)](https://zh.wikipedia.org/wiki/Android_Lollipop "wikilink")
+S5的後续机型](../Page/三星Galaxy_S5.md "wikilink")，预装最新的[Android](../Page/Android.md "wikilink")[5.0.1(Lollipop)](../Page/Android_Lollipop.md "wikilink")([Samsung
+Galaxy S6](../Page/三星Galaxy_S6.md "wikilink"))/
+[Android](../Page/Android.md "wikilink")[5.1.1(Lollipop)](../Page/Android_Lollipop.md "wikilink")
 ([Samsung Galaxy S6
 Edge+](https://zh.wikipedia.org/wiki/三星Galaxy_S6_Edge+ "wikilink"))操作系统。配備1600萬像素後置鏡頭及500萬像素前置鏡頭，且都搭載F1.9光圈。兼用NFC功能以Samsung
 pay 付款。充電10分鐘可用4小時並支援無線充電和超級省電模式可延長手機使用時間。無線充電時，把手機放在充電板上，即可充電。Samsung
@@ -11,7 +11,7 @@ Galaxy S6及S6 Edge更取得全球手機營幕清晰度最高的寶座，達577p
 。Samsung Galaxy S6, S6 edge 及 S6 edge+ 的同期主要競爭對手是[iPhone
 6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")、[LG
 G4](https://zh.wikipedia.org/wiki/LG_G4 "wikilink")、[HTC One
-M9](https://zh.wikipedia.org/wiki/HTC_One_M9 "wikilink") 及 [Sony Xperia
+M9](../Page/HTC_One_M9.md "wikilink") 及 [Sony Xperia
 Z3+](../Page/Sony_Xperia_Z3+.md "wikilink")\[1\]
 
 ## 意外事故

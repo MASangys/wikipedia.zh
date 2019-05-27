@@ -8,7 +8,7 @@ Day](../Page/Girl's_Day.md "wikilink")[素珍公開交往](https://zh.wikipedia.
 ### Burning Sun夜店醜聞
 
 2019年3月31日，Eddy Kim被首爾地方警察局以[Burning
-Sun-勝利門事件關係人身分進行](https://zh.wikipedia.org/wiki/Burning_Sun-勝利門事件 "wikilink")2小時偵訊後，列為嫌疑人立案。同年4月4日，MBC《News
+Sun-勝利門事件關係人身分進行](../Page/Burning_Sun-勝利門事件.md "wikilink")2小時偵訊後，列為嫌疑人立案。同年4月4日，MBC《News
 Desk》確認為第10名涉案的藝人，立即被韓國Green Plugged音樂節取消表演\[4\]。
 
 ## 音樂作品
@@ -137,7 +137,7 @@ Desk》確認為第10名涉案的藝人，立即被韓國Green Plugged音樂節�
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Roommate" title="wikilink">Roommate</a> OST Part 1</strong>》</p>
+<td><p>《<strong><a href="../Page/Roommate.md" title="wikilink">Roommate</a> OST Part 1</strong>》</p>
 <ul>
 <li>發行日期：2014年6月2日</li>
 </ul></td>
@@ -145,7 +145,7 @@ Desk》確認為第10名涉案的藝人，立即被韓國Green Plugged音樂節�
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/傲慢與偏見_(韓國電視劇)" title="wikilink">傲慢與偏見</a> OST Part 1</strong>》</p>
+<td><p>《<strong><a href="../Page/傲慢與偏見_(韓國電視劇).md" title="wikilink">傲慢與偏見</a> OST Part 1</strong>》</p>
 <ul>
 <li>發行日期：2014年10月27日</li>
 </ul></td>
@@ -153,7 +153,7 @@ Desk》確認為第10名涉案的藝人，立即被韓國Green Plugged音樂節�
 </tr>
 <tr class="odd">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/有理的愛情" title="wikilink">有理的愛情</a> OST Part 2</strong>》</p>
+<td><p>《<strong><a href="../Page/有理的愛情.md" title="wikilink">有理的愛情</a> OST Part 2</strong>》</p>
 <ul>
 <li>發行日期：2014年12月30日</li>
 </ul></td>
@@ -177,7 +177,7 @@ Desk》確認為第10名涉案的藝人，立即被韓國Green Plugged音樂節�
 </tr>
 <tr class="even">
 <td><p><strong>6th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/當你沉睡時" title="wikilink">當你沉睡時</a> OST Part 1</strong>》</p>
+<td><p>《<strong><a href="../Page/當你沉睡時.md" title="wikilink">當你沉睡時</a> OST Part 1</strong>》</p>
 <ul>
 <li>發行日期：2017年9月28日</li>
 </ul></td>
@@ -186,7 +186,7 @@ Desk》確認為第10名涉案的藝人，立即被韓國Green Plugged音樂節�
 </tbody>
 </table>
 
-### [韓國音樂著作權協會](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
+### [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
 
 | 姓名       | 登記名字                  | 登記編號     | 參與歌曲列表                                                                                            |
 | -------- | --------------------- | -------- | ------------------------------------------------------------------------------------------------- |
@@ -194,8 +194,7 @@ Desk》確認為第10名涉案的藝人，立即被韓國Green Plugged音樂節�
 
 ## 影視作品
 
-  - 2018年4月：Channel A
-    《[給你宇宙](https://zh.wikipedia.org/wiki/給你宇宙 "wikilink")》
+  - 2018年4月：Channel A 《[給你宇宙](../Page/給你宇宙.md "wikilink")》
 
 ## 獎項
 

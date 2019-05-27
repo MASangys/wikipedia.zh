@@ -34,7 +34,7 @@ Big之星」的參賽者，可以參與四位「星級導師」指導的「星�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/余德丞" title="wikilink">余德丞</a>（Dickson）</p></td>
+<td><p><a href="../Page/余德丞.md" title="wikilink">余德丞</a>（Dickson）</p></td>
 <td><p>Dickson</p></td>
 <td><p>2015年1月17日</p></td>
 <td><p>2015年10月17日</p></td>
@@ -46,7 +46,7 @@ Big之星」的參賽者，可以參與四位「星級導師」指導的「星�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃愷怡" title="wikilink">黃愷怡</a>（Jasmin）</p></td>
+<td><p><a href="../Page/黃愷怡.md" title="wikilink">黃愷怡</a>（Jasmin）</p></td>
 <td><p>Jasmin</p></td>
 <td></td>
 <td></td>
@@ -58,7 +58,7 @@ Big之星」的參賽者，可以參與四位「星級導師」指導的「星�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李雯希" title="wikilink">李雯希</a>（Simon）</p></td>
+<td><p><a href="../Page/李雯希.md" title="wikilink">李雯希</a>（Simon）</p></td>
 <td><p>雯希</p></td>
 <td><p>2015年6月6日</p></td>
 <td></td>
@@ -165,7 +165,7 @@ Big之星」的參賽者，可以參與四位「星級導師」指導的「星�
 <td><p>關裕勳<small>（7）</small> 、廖浚鴻<small>（9）</small></p></td>
 <td><p>跳舞</p></td>
 <td><p>2+0<small>（27）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/王卓淇" title="wikilink">王卓淇</a>、<a href="../Page/何艷娟.md" title="wikilink">何艷娟</a></p></td>
+<td><p><a href="../Page/王卓淇.md" title="wikilink">王卓淇</a>、<a href="../Page/何艷娟.md" title="wikilink">何艷娟</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>莊蔓翹<small>（8）</small>、吳欣錡<small>（9）</small></p></td>
@@ -189,7 +189,7 @@ Big之星」的參賽者，可以參與四位「星級導師」指導的「星�
 <td><p>KINGS Girls<small>（5-11）</small></p></td>
 <td><p>藝術體操</p></td>
 <td><p>2+0<small>（18）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SIS樂印姊妹" title="wikilink">SIS樂印姊妹</a></p></td>
+<td><p><a href="../Page/SIS樂印姊妹.md" title="wikilink">SIS樂印姊妹</a></p></td>
 </tr>
 <tr class="even">
 <td><p>陳樂晴<small>（12）</small></p></td>
@@ -261,7 +261,7 @@ Big之星」的參賽者，可以參與四位「星級導師」指導的「星�
 <td><p>井川雪奈<small>（12）</small></p></td>
 <td><p>跆拳舞</p></td>
 <td><p>3+1<small>（30）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/邵珮詩" title="wikilink">邵珮詩</a></p></td>
+<td><p><a href="../Page/邵珮詩.md" title="wikilink">邵珮詩</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>張靖瑜<small>（4）</small></p></td>
@@ -373,7 +373,7 @@ Big之星」的參賽者，可以參與四位「星級導師」指導的「星�
 <td><p>粵劇六人組<small>（4-9）</small></p></td>
 <td><p>粵劇<small>（梁祝之化蝶）</small></p></td>
 <td><p>2+0<small>（25）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李逸朗" title="wikilink">李逸朗</a>、<a href="https://zh.wikipedia.org/wiki/阮政峰" title="wikilink">阮政峰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李逸朗" title="wikilink">李逸朗</a>、<a href="../Page/阮政峰.md" title="wikilink">阮政峰</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>張卓謙、梁梓恩<small>（7-9）</small></p></td>

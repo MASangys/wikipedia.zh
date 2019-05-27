@@ -401,8 +401,7 @@
     第49話被變身為「宏偉公主」的光之美少女消滅，臨死前把全部的絕望能量交託給克羅茲。
 
     後來在[STMM中被索爾希埃爾的魔力以一般型態復活](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")，第一次登場與[Go\!
-    Princess
-    光之美少女和](https://zh.wikipedia.org/wiki/Go!_Princess_光之美少女 "wikilink")[魔法使
+    Princess 光之美少女和](../Page/Go!_Princess_光之美少女.md "wikilink")[魔法使
     光之美少女！交戰](../Page/魔法使_光之美少女！.md "wikilink")，第二次登場與[DokiDoki！光之美少女及魔法天使交戰](https://zh.wikipedia.org/wiki/DokiDoki！光之美少女 "wikilink")，最後自爆。
 
     名字源自於英語「絕望」。
@@ -855,7 +854,7 @@
 <td></td>
 <td><p>學園公主！Cure Mermaid登場！</p></td>
 <td><p>門由利子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/稻上晃" title="wikilink">稻上晃</a></p></td>
+<td><p><a href="../Page/稻上晃.md" title="wikilink">稻上晃</a></p></td>
 <td><p>齊藤優</p></td>
 <td><p>2月8日</p></td>
 <td></td>
@@ -1415,7 +1414,7 @@
   - 企劃：野下洋、西出將之（朝日放送）、波多野淳一（旭通廣告）、清水慎治（第1話至第41話）、鷲尾天（東映動畫）
   - 製作人：土肥繁葉樹→植月幹夫（朝日放送）、高橋知子（旭通廣告）、柴田宏明（第1話至第23話）、神木優（東映動畫）
   - 系列導演：田中裕太
-  - 系列構成：[田中仁](https://zh.wikipedia.org/wiki/田中仁 "wikilink")
+  - 系列構成：[田中仁](../Page/田中仁.md "wikilink")
   - 角色設計：中谷友紀子
   - 美術設計：增田龍太郎
   - 色彩設計：佐久間子
@@ -1536,25 +1535,24 @@
 <!-- end list -->
 
   - [All Stars
-    春之嘉年華♪上映於本作播出初期](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_春之嘉年華♪ "wikilink")，因此以本作故事初期設定為準。
+    春之嘉年華♪上映於本作播出初期](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")，因此以本作故事初期設定為準。
 
 <!-- end list -->
 
   -
     [光之美少女 All Stars
-    春之嘉年華♪](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_春之嘉年華♪ "wikilink")
+    春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
     [光之美少女 All Stars
     大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
     [HUG！光之美少女♡光之美少女 All Stars
-    Memories](https://zh.wikipedia.org/wiki/HUG！光之美少女♡光之美少女_All_Stars_Memories "wikilink")
+    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
 
 ### Dream Stars
 
   -
     主條目：[Dream Stars
     系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#Dream_Stars_系列電影 "wikilink")
-    [光之美少女 Dream
-    Stars\!](https://zh.wikipedia.org/wiki/光之美少女_Dream_Stars! "wikilink")
+    [光之美少女 Dream Stars\!](../Page/光之美少女_Dream_Stars!.md "wikilink")
 
 ### Miracle Universe
 
@@ -1562,7 +1560,7 @@
     主條目：[Miracle
     Universe](https://zh.wikipedia.org/wiki/光之美少女系列#Miracle_Universe_系列電影 "wikilink")
     [光之美少女 Miracle
-    Universe](https://zh.wikipedia.org/wiki/光之美少女_Miracle_Universe "wikilink")
+    Universe](../Page/光之美少女_Miracle_Universe.md "wikilink")
     本作可能為公主四人組在短期之內最後一次登上大螢幕。
 
 ## 相關資料、補充

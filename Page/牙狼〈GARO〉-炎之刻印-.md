@@ -1,4 +1,4 @@
-《**牙狼〈GARO〉-炎之刻印-**》是由[MAPPA製作的電視動畫](https://zh.wikipedia.org/wiki/MAPPA "wikilink")，於2014年10月3日播放，全24話。作品改編自特攝劇集《[牙狼](../Page/牙狼〈GARO〉.md "wikilink")》，動畫延續《牙狼》系列的世界觀，但故事是完全原創的。
+《**牙狼〈GARO〉-炎之刻印-**》是由[MAPPA製作的電視動畫](../Page/MAPPA.md "wikilink")，於2014年10月3日播放，全24話。作品改編自特攝劇集《[牙狼](../Page/牙狼〈GARO〉.md "wikilink")》，動畫延續《牙狼》系列的世界觀，但故事是完全原創的。
 
 ## 本劇特色
 
@@ -107,7 +107,7 @@
 
   - 監督：[林祐一郎](https://zh.wikipedia.org/wiki/林祐一郎 "wikilink")
   - 系列構成：[小林靖子](../Page/小林靖子.md "wikilink")
-  - 動畫製作：[MAPPA](https://zh.wikipedia.org/wiki/MAPPA "wikilink")、[東北新社](https://zh.wikipedia.org/wiki/東北新社 "wikilink")
+  - 動畫製作：[MAPPA](../Page/MAPPA.md "wikilink")、[東北新社](https://zh.wikipedia.org/wiki/東北新社 "wikilink")
 
 ### 主題曲
 

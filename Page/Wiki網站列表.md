@@ -85,7 +85,7 @@
 </tr>
 <tr class="odd">
 <td><p>MediaWiki</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Encyclopedia_Dramatica" title="wikilink">Encyclopedia Dramatica</a></p></td>
+<td><p><a href="../Page/Encyclopedia_Dramatica.md" title="wikilink">Encyclopedia Dramatica</a></p></td>
 <td></td>
 <td><p>合理使用</p></td>
 <td><p>[10]</p></td>
@@ -169,7 +169,7 @@
 </tr>
 <tr class="odd">
 <td><p>MediaWiki</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Metapedia" title="wikilink">Metapedia</a></p></td>
+<td><p><a href="../Page/Metapedia.md" title="wikilink">Metapedia</a></p></td>
 <td><p>在線百科全書</p></td>
 <td></td>
 <td><p>[21]</p></td>
@@ -253,7 +253,7 @@
 </tr>
 <tr class="odd">
 <td><p>MediaWiki</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Translatewiki.net" title="wikilink">Translatewiki.net</a></p></td>
+<td><p><a href="../Page/Translatewiki.net.md" title="wikilink">Translatewiki.net</a></p></td>
 <td><p><a href="../Page/電腦輔助翻譯.md" title="wikilink">電腦輔助翻譯</a></p></td>
 <td></td>
 <td></td>

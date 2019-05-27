@@ -41,7 +41,7 @@ Phabricator的部分用户有：\[8\]
 
 ## 参见
 
-  - [代码审查工具列表](https://zh.wikipedia.org/wiki/代码审查工具列表 "wikilink")
+  - [代码审查工具列表](../Page/代码审查工具列表.md "wikilink")
 
 ## 参考文献
 

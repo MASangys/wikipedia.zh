@@ -84,7 +84,7 @@ Line**》（）是从2015年4月开始在[富士电视台的](https://zh.wikiped
   - 主製作人：松崎容子、橫山朱子、市川和弘
   - 製作人：木村誠、小田桐成美、齊藤紳也
   - 動畫製作人：大塚學、野田楓子
-  - 動畫製作：[MAPPA](https://zh.wikipedia.org/wiki/MAPPA "wikilink")
+  - 動畫製作：[MAPPA](../Page/MAPPA.md "wikilink")
   - 製作：Punch
     Line製作委員會（富士電視台、[Aniplex](../Page/Aniplex.md "wikilink")、MAGES.、京樂產業集團、[關西電視台](../Page/關西電視台.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")）
 

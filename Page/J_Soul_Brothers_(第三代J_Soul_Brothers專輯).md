@@ -15,7 +15,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     Brothers](../Page/J_Soul_Brothers.md "wikilink")（現[THE SECOND from
     EXILE](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")）專輯《[J
     Soul
-    Brothers](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(J_Soul_Brothers專輯\) "wikilink")》的收錄曲，本作收錄的版本為合唱版本。
+    Brothers](../Page/J_Soul_Brothers_\(J_Soul_Brothers專輯\).md "wikilink")》的收錄曲，本作收錄的版本為合唱版本。
   - 新曲《24karats STAY GOLD feat. 三代目 J Soul
     Brothers》原為[EXILE第](https://zh.wikipedia.org/wiki/EXILE "wikilink")33張單曲《[FANTASY](../Page/FANTASY_\(EXILE單曲\).md "wikilink")》的B面曲，本作收錄的版本為合唱版本。
   - 本作分「初回限定盤（CD+DVD）」和「CD盤」2種版本

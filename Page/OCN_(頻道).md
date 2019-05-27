@@ -10,9 +10,8 @@ E\&M旗下的一個有線電視頻道。
 
 ## 原創電視電影／電視影集
 
-  - [OCN Original
-    Series](https://zh.wikipedia.org/wiki/OCN_Original_Series "wikilink")
-  - [OCN Pick](https://zh.wikipedia.org/wiki/OCN_Pick "wikilink")
+  - [OCN Original Series](../Page/OCN_Original_Series.md "wikilink")
+  - [OCN Pick](../Page/OCN_Pick.md "wikilink")
 
 ### 最高收視率排行
 
@@ -34,7 +33,7 @@ E\&M旗下的一個有線電視頻道。
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Voice2" title="wikilink">Voice2</a></p></td>
+<td><p><a href="../Page/Voice2.md" title="wikilink">Voice2</a></p></td>
 <td><p>12</p></td>
 <td></td>
 <td></td>
@@ -82,7 +81,7 @@ E\&M旗下的一個有線電視頻道。
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/救救我" title="wikilink">救救我</a></p></td>
+<td><p><a href="../Page/救救我.md" title="wikilink">救救我</a></p></td>
 <td><p>16</p></td>
 <td><p>4.797%</p></td>
 <td></td>
@@ -146,49 +145,44 @@ E\&M旗下的一個有線電視頻道。
   - 《[特殊案件專案組TEN](../Page/特殊案件專案組TEN.md "wikilink")》（）：2011年11月18日－2013年6月30日（共2季）
   - 《[英雄](../Page/英雄_\(OCN\).md "wikilink")》（）：2012年3月18日－2012年5月13日
   - 《[病毒](../Page/病毒_\(電視劇\).md "wikilink")》（）：2013年3月1日－2013年5月3日
-  - 《[能看見鬼的警察處容](https://zh.wikipedia.org/wiki/能看見鬼的警察處容 "wikilink")》（）：2014年2月9日－至今（共2季）
+  - 《[能看見鬼的警察處容](../Page/能看見鬼的警察處容.md "wikilink")》（）：2014年2月9日－至今（共2季）
   - 《[Reset](../Page/Reset.md "wikilink")》（）：2014年8月17日－2014年11月17日
   - 《[壞小子們](https://zh.wikipedia.org/wiki/壞小子們 "wikilink")》（）：2014年10月4日－至今（預計2季）
-  - 《[Frost醫生](https://zh.wikipedia.org/wiki/Frost醫生 "wikilink")》（）：2014年11月23日－2015年2月1日
+  - 《[Frost醫生](../Page/Frost醫生.md "wikilink")》（）：2014年11月23日－2015年2月1日
   - 《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink")》（）：2015年3月28日－2015年5月30日
   - 《[我的美麗新娘](../Page/我的美麗新娘.md "wikilink")》（）：2015年6月20日－2015年8月9日
   - 《[鄰家英雄](../Page/鄰家英雄.md "wikilink")》（）：2016年1月23日－2016年3月20日
   - 《[吸血鬼偵探](../Page/吸血鬼偵探.md "wikilink")》（）：2016年3月27日－2016年6月12日
   - 《[38師機動隊](../Page/38師機動隊.md "wikilink")》（）：2016年6月17日－2016年8月6日
-  - 《[Voice](https://zh.wikipedia.org/wiki/Voice_\(韓國電視劇\) "wikilink")》（）：2017年1月14日－2017年3月12日
-  - 《[隧道](https://zh.wikipedia.org/wiki/隧道_\(電視劇\) "wikilink")》（）：2017年3月25日－2017年5月28日
+  - 《[Voice](../Page/Voice_\(韓國電視劇\).md "wikilink")》（）：2017年1月14日－2017年3月12日
+  - 《[隧道](../Page/隧道_\(電視劇\).md "wikilink")》（）：2017年3月25日－2017年5月28日
   - 《[焦急的罗曼史](https://zh.wikipedia.org/wiki/焦急的罗曼史 "wikilink")》(
     ）：2017年4月17日－2017年5月30日
-  - 《[Duel](https://zh.wikipedia.org/wiki/Duel "wikilink")》（）：2017年6月3日－2017年7月23日
-  - 《[救救我](https://zh.wikipedia.org/wiki/救救我 "wikilink")》（）：2017年8月5日－2017年9月24日
-  - 《[Black](https://zh.wikipedia.org/wiki/Black_\(韓國電視劇\) "wikilink")》（）：2017年10月14日－2017年12月10日
+  - 《[Duel](../Page/Duel.md "wikilink")》（）：2017年6月3日－2017年7月23日
+  - 《[救救我](../Page/救救我.md "wikilink")》（）：2017年8月5日－2017年9月24日
+  - 《[Black](../Page/Black_\(韓國電視劇\).md "wikilink")》（）：2017年10月14日－2017年12月10日
   - 《[Melo
     Holic](https://zh.wikipedia.org/wiki/Melo_Holic "wikilink")》（）：2017年11月6日－2017年12月5日
   - 《[坏家伙们：恶的都市](https://zh.wikipedia.org/wiki/坏家伙们：恶的都市 "wikilink")》（）：2017年12月16日－2018年2月4日
-  - 《[操心](https://zh.wikipedia.org/wiki/操心 "wikilink")》（애간장/My First
+  - 《[操心](../Page/操心.md "wikilink")》（애간장/My First
     Love）：2018年1月28日－2018年2月6日
-  - 《[小神的孩子們](https://zh.wikipedia.org/wiki/小神的孩子們 "wikilink")》（작은 신의
+  - 《[小神的孩子們](../Page/小神的孩子們.md "wikilink")》（작은 신의
     아이들）：2018年3月3日－2018年4月22日
-  - 《[那個男人
-    歐樹](https://zh.wikipedia.org/wiki/那個男人_吳秀 "wikilink")》（）：2018年3月5日－2018年4月24日
-  - 《[火星生活Life on
-    Mars](https://zh.wikipedia.org/wiki/火星生活_\(韓國電視劇\) "wikilink")》（**라이프
-    온 마스**）：2018年6月9日－2018年8月5日
-  - 《[Voice2](https://zh.wikipedia.org/wiki/Voice2 "wikilink")》（）：2018年8月11日－2018年9月16日
-  - 《[客：The
-    Guest](https://zh.wikipedia.org/wiki/客：The_Guest "wikilink")》(손:
-    The Guest)：2018年9月12日－2018年11月1日
-  - 《[Priest](https://zh.wikipedia.org/wiki/Priest "wikilink")》(프리스트)：2018年11月24日－2019年1月20日
-  - 《[圈套](https://zh.wikipedia.org/wiki/圈套_\(韓國電視劇\) "wikilink")》(트랩)：2019年2月9日－2019年3月2日
-  - 《[附身](https://zh.wikipedia.org/wiki/附身_\(電視劇\) "wikilink")》(빙의)：2019年3月6日－2019年
-  - 《[Kill
-    It](https://zh.wikipedia.org/wiki/Kill_It "wikilink")》（킬잇）：2019年3月16日－2019年
+  - 《[那個男人 歐樹](../Page/那個男人_吳秀.md "wikilink")》（）：2018年3月5日－2018年4月24日
+  - 《[火星生活Life on Mars](../Page/火星生活_\(韓國電視劇\).md "wikilink")》（**라이프 온
+    마스**）：2018年6月9日－2018年8月5日
+  - 《[Voice2](../Page/Voice2.md "wikilink")》（）：2018年8月11日－2018年9月16日
+  - 《[客：The Guest](../Page/客：The_Guest.md "wikilink")》(손: The
+    Guest)：2018年9月12日－2018年11月1日
+  - 《[Priest](../Page/Priest.md "wikilink")》(프리스트)：2018年11月24日－2019年1月20日
+  - 《[圈套](../Page/圈套_\(韓國電視劇\).md "wikilink")》(트랩)：2019年2月9日－2019年3月2日
+  - 《[附身](../Page/附身_\(電視劇\).md "wikilink")》(빙의)：2019年3月6日－2019年
+  - 《[Kill It](../Page/Kill_It.md "wikilink")》（킬잇）：2019年3月16日－2019年
 
 ## 美國／英國影集
 
   - 《[CSI](../Page/CSI犯罪現場.md "wikilink")》（）
-  - 《[CSI:
-    CYBER](https://zh.wikipedia.org/wiki/CSI犯罪現場：網路犯罪 "wikilink")》（）
+  - 《[CSI: CYBER](../Page/CSI犯罪現場：網路犯罪.md "wikilink")》（）
   - 《[CSI: MIAMI](../Page/CSI犯罪現場：邁阿密.md "wikilink")》（）
   - 《[CSI: NY](../Page/CSI犯罪現場：紐約.md "wikilink")》（）
   - 《[NCIS](../Page/重返犯罪現場.md "wikilink")》（）

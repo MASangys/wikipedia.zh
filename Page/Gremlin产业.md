@@ -42,7 +42,7 @@ Collection](https://zh.wikipedia.org/wiki/Sega_Genesis_Collection "wikilink")》
 <!-- end list -->
 
   - [Gee
-    Bee](https://zh.wikipedia.org/wiki/弹珠台砖块 "wikilink")（南梦宫授权；Gremlin版本将“N-A-M-C-O”字样替换为公司标识的“G”）
+    Bee](../Page/弹珠台砖块.md "wikilink")（南梦宫授权；Gremlin版本将“N-A-M-C-O”字样替换为公司标识的“G”）
   - [Blasto](https://zh.wikipedia.org/wiki/Blasto_\(arcade_game\) "wikilink")
   - [Frogs](https://zh.wikipedia.org/wiki/Frogs_\(video_game\) "wikilink")
 

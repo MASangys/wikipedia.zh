@@ -124,7 +124,7 @@ Mini-14和Mini-30具有範圍廣泛的售後市場配件可供使用，包括大
 
   -   - [美國農業部](https://zh.wikipedia.org/wiki/美國農業部 "wikilink")（Mini-14GB）
 
-      - [印第安事務局](https://zh.wikipedia.org/wiki/印第安事務局 "wikilink")（Mini-14）
+      - [印第安事務局](../Page/印第安事務局.md "wikilink")（Mini-14）
 
       - [美國國家公園管理局](https://zh.wikipedia.org/wiki/美國國家公園管理局 "wikilink")（Mini-14GB）
 
@@ -184,7 +184,7 @@ American），由[佐治·古尼飾演的主角](../Page/佐治·古尼.md "wiki
     zh-tw:惡靈勢力2;}-](../Page/求生之路2.md "wikilink")》之中，裝上了15發[彈匣及](../Page/彈匣.md "wikilink")[瞄準鏡的儒格Mini](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")-14以獵用步槍（Hunting
     Rifle）之姿出現並可被倖存者角色所使用。
   - 2014年—《》（Insurgency）：型號為AC-556，安全部隊專用武器。
-  - 2017年—《[絕地求生](https://zh.wikipedia.org/wiki/絕地求生 "wikilink")》：命名为“Mini14”（中文：“Mini14狙击枪”），虽然名为狙击枪，实则是被定位成一把精确射手步枪（Designated
+  - 2017年—《[絕地求生](../Page/絕地求生.md "wikilink")》：命名为“Mini14”（中文：“Mini14狙击枪”），虽然名为狙击枪，实则是被定位成一把精确射手步枪（Designated
     Marksman
     Rifle，简称：DMR），使用5.56mm口径子弹，装弹量为20发（若有扩容弹匣，则装弹量为30发），可配备：所有步槍槍口及彈匣、所有瞄具
 

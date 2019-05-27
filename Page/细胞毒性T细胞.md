@@ -5,7 +5,7 @@ T細胞**，屬於[T細胞的一種](https://zh.wikipedia.org/wiki/T細胞 "wiki
 
 大部份的胞毒T細胞會辨識特定的[抗原](../Page/抗原.md "wikilink")，而辨識的受體則稱為[T細胞受體](https://zh.wikipedia.org/wiki/T細胞受體 "wikilink")。這些抗原則常常是由癌細胞和病毒製造的。胞內抗原會與[第一型MHC分子結合](../Page/主要组织相容性复合体.md "wikilink")，並被帶到細胞表面，以利於T細胞辨識。一旦被TCR辨識出特定的受體，T細胞便會摧毀該細胞。
 
-有些T細胞受體中含有一種稱為[CD8的](../Page/CD8受体.md "wikilink")[醣蛋白](../Page/醣蛋白.md "wikilink")，可與[MHC1類分子結合](https://zh.wikipedia.org/wiki/MHC1類分子 "wikilink")，也因此，這些細胞又稱為**CD8+
+有些T細胞受體中含有一種稱為[CD8的](../Page/CD8受体.md "wikilink")[醣蛋白](../Page/醣蛋白.md "wikilink")，可與[MHC1類分子結合](../Page/MHC1類分子.md "wikilink")，也因此，這些細胞又稱為**CD8+
 T細胞**。
 
 和第一型MHC分子結合的CD8 T細胞會發育為細胞毒性T細胞，而CD8分子則會持續牢牢的抓著第一型MHC分子，不讓目標細胞離開，以進行細胞毒殺。
@@ -49,7 +49,7 @@ T細胞視為目標，會引起對於後者的耐受作用。\[5\]
 
 ## 作用機制
 
-當細胞毒性T細胞遇到受感染或是不健康的體細胞，細胞毒性T細胞會釋放出細胞毒素，如[穿孔素](https://zh.wikipedia.org/wiki/穿孔素 "wikilink")、，以及[顆粒溶解素](https://zh.wikipedia.org/wiki/顆粒溶解素 "wikilink")。這些酵素會進入目標細胞的細胞質，並使細胞內的[丝氨酸蛋白酶誘發](../Page/丝氨酸蛋白酶.md "wikilink")[胱天蛋白酶的](../Page/胱天蛋白酶.md "wikilink")[級聯反應](https://zh.wikipedia.org/wiki/級聯反應 "wikilink")，這個反應會使一連串的胱胺酸蛋白酶活化，引發[细胞凋亡](../Page/细胞凋亡.md "wikilink")。
+當細胞毒性T細胞遇到受感染或是不健康的體細胞，細胞毒性T細胞會釋放出細胞毒素，如[穿孔素](../Page/穿孔素.md "wikilink")、，以及[顆粒溶解素](https://zh.wikipedia.org/wiki/顆粒溶解素 "wikilink")。這些酵素會進入目標細胞的細胞質，並使細胞內的[丝氨酸蛋白酶誘發](../Page/丝氨酸蛋白酶.md "wikilink")[胱天蛋白酶的](../Page/胱天蛋白酶.md "wikilink")[級聯反應](https://zh.wikipedia.org/wiki/級聯反應 "wikilink")，這個反應會使一連串的胱胺酸蛋白酶活化，引發[细胞凋亡](../Page/细胞凋亡.md "wikilink")。
 
 另外一種誘發細胞凋亡的途徑是藉由細胞表面受體的結合。細胞毒性T細胞表面上有種表面蛋白，叫（FasL，又稱Apo1L、CD95L）。這種蛋白會和目標細胞上的（Apo1，又稱CD95）結合\[6\]。Fas與FasL結合後，會引來死亡誘導訊號複合體（**d**eath-**i**nduced
 **s**ignaling **c**omplex，簡稱**DISC**），Fas關聯死亡區域（Fas-associated death

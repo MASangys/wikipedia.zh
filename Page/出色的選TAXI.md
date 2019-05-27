@@ -42,7 +42,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/清野菜名" title="wikilink">清野菜名</a>[8][9]</p></td>
+<td><p><a href="../Page/清野菜名.md" title="wikilink">清野菜名</a>[8][9]</p></td>
 <td><p><a href="../Page/何寶珊.md" title="wikilink">何寶珊</a></p></td>
 <td><p>咖啡店女店員。劇中劇《犯罪刑警》的劇迷。年少時，曾為家鄉<a href="../Page/暴走族.md" title="wikilink">暴走族</a>「苦露惡慘[10]」第六代總長（第7話）。</p></td>
 </tr>
@@ -112,7 +112,7 @@
 <tr class="odd">
 <td><p>-{zh:強佔;zh-tw:強佔;zh-hk:據守;zh-cn:強佔;}-刑警</p></td>
 <td><p>（第9話）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄧志堅" title="wikilink">鄧志堅</a></p></td>
+<td><p><a href="../Page/鄧志堅.md" title="wikilink">鄧志堅</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -128,7 +128,7 @@
 
 **第1話**
 
-  - 村上秀樹－[安田顯](https://zh.wikipedia.org/wiki/安田顯 "wikilink")（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）
+  - 村上秀樹－[安田顯](../Page/安田顯.md "wikilink")（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）
     不紅的演員，在劇中劇《犯罪刑警》只出現了10秒。為了向浦澤香求婚，預約了高級餐廳。
   - 浦澤香－[小西真奈美](../Page/小西真奈美.md "wikilink")（香港配音：[張頌欣](../Page/張頌欣.md "wikilink")）
     秀樹的女友，相信村上秀樹最終會出人頭地，默默陪伴秀樹8年。
@@ -139,7 +139,7 @@
 
 **第2話**
 
-  - 平野－[仲村亨](../Page/仲村亨.md "wikilink")\[13\]（學生時代：）（香港配音：[陳廷軒](../Page/陳廷軒.md "wikilink")；學生時代：[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")）
+  - 平野－[仲村亨](../Page/仲村亨.md "wikilink")\[13\]（學生時代：）（香港配音：[陳廷軒](../Page/陳廷軒.md "wikilink")；學生時代：[鄧志堅](../Page/鄧志堅.md "wikilink")）
     [民宿老闆](../Page/民宿.md "wikilink")。因為自身的處境與鎮長的女兒類似，而逕自捲進了綁架事件當中。
   - 橫山－（香港配音：[馮志輝](../Page/馮志輝.md "wikilink")）
     千葉縣警察特殊班管理官。小學跟平野是同班同學。負責執行鎮長女兒綁架事件的前線指揮。
@@ -147,22 +147,22 @@
     優陽鎮鎮長。提出渡假村開發計畫。
   - 松原巡警－（香港配音：[李震權](../Page/李震權.md "wikilink")）
     跟平陽熟識，在優陽1丁目派出所工作的警察。
-  - 高橋加奈子－[霧島麗香](https://zh.wikipedia.org/wiki/霧島麗香 "wikilink")（學生時代：）（香港配音：[許盈](../Page/許盈.md "wikilink")；學生時代：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")）
+  - 高橋加奈子－[霧島麗香](https://zh.wikipedia.org/wiki/霧島麗香 "wikilink")（學生時代：）（香港配音：[許盈](../Page/許盈.md "wikilink")；學生時代：[葉曉欣](../Page/葉曉欣.md "wikilink")）
     鎮長的妻子。學生時代跟平野交往過，不過被父親強迫去相親，因此與平野分手。
-  - －（香港配音：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")）
+  - －（香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")）
     鎮長的女兒。
-  - 達也－[間宮祥太朗](https://zh.wikipedia.org/wiki/間宮祥太朗 "wikilink")（香港配音：[李鎮然](../Page/李鎮然.md "wikilink")）
+  - 達也－[間宮祥太朗](../Page/間宮祥太朗.md "wikilink")（香港配音：[李鎮然](../Page/李鎮然.md "wikilink")）
     祈的男朋友。
 
 **第3話**
 
-  - 香西麻里奈－[木村文乃](https://zh.wikipedia.org/wiki/木村文乃 "wikilink")\[14\]（香港配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
+  - 香西麻里奈－[木村文乃](../Page/木村文乃.md "wikilink")\[14\]（香港配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
     野野山的秘書。希望結束跟野野山的婚外情，讓他跟妻子離婚後跟自己結婚。
   - 野野山武彥－（香港配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
     IT企業社長。透過追求麻里奈的過程獲取一時的安逸與歡樂。
   - 野野山明步－[笛木優子](../Page/笛木優子.md "wikilink")（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
     野野山的妻子。模特兒。不管是工作或私事都以丈夫為第一優先，但這樣的想法卻未能傳達給野野山。
-  - 芝田省吾－（香港配音：[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")）
+  - 芝田省吾－（香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）
     週刊雜誌記者。麻里奈的前男友。負責採訪野野山夫妻出席的「模範夫妻獎」。
 
 **第4話**
@@ -188,7 +188,7 @@
     區政府職員。徵婚派對餐加者。
   - 韮澤滿－（香港配音：[周倚天](../Page/周倚天.md "wikilink")）
     徵婚派對參加者。
-  - 夏川英里香－（香港配音：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")）
+  - 夏川英里香－（香港配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）
     徵婚派對參加者。
 
 **第6話**\[16\]\[17\]\[18\]
@@ -254,9 +254,9 @@
     校外教學負責帶領學生的實習國中導師。外號是「金八老師」。
   - 小野寺秋人－（香港配音：[陳廷軒](../Page/陳廷軒.md "wikilink")）
     國中老師。在金本任交的班級擔任副導師的熱血老師。
-  - 太田麻尋－[清原果耶](https://zh.wikipedia.org/wiki/清原果耶 "wikilink")（香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
+  - 太田麻尋－[清原果耶](../Page/清原果耶.md "wikilink")（香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
     金本任教的班級中的學生。因為某個理由而自住宿的旅館不告而別。
-  - 窪田健吾－[松重豐](https://zh.wikipedia.org/wiki/松重豐 "wikilink")（香港配音：[朱子聰](../Page/朱子聰.md "wikilink")）
+  - 窪田健吾－[松重豐](../Page/松重豐.md "wikilink")（香港配音：[朱子聰](../Page/朱子聰.md "wikilink")）
     期望能將自己善良的一面表現在遊人面前的中年男性。
 
 ## 製作人員
@@ -345,7 +345,7 @@
 <td></td>
 <td><p>筧昌也[31][32]</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/木村文乃" title="wikilink">木村文乃</a></p></td>
+<td><p><a href="../Page/木村文乃.md" title="wikilink">木村文乃</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>

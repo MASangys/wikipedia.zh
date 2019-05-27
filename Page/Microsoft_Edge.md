@@ -1,6 +1,6 @@
 **Microsoft Edge**（研发代号为**Project
 Spartan**，譯為**微軟边缘浏览器**\[1\]，或**微軟前沿瀏覽器**\[2\]）是一个由[微软研发的](../Page/微软.md "wikilink")[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")，於2015年1月21日公布，2015年3月30日公开发布第一个预览版。该浏览器在[Windows
-10和](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Windows 10
+10和](../Page/Windows_10.md "wikilink")[Windows 10
 Mobile中取代](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")[IE成为預設浏览器](../Page/Internet_Explorer.md "wikilink")，其中，Windows
 10 Mobile中的IE已经被移除。
 
@@ -14,8 +14,9 @@ Edge未来将基于[Chromium开发](../Page/Chromium.md "wikilink")，并将支�
 
 Microsoft Edge在[Windows 10
 Mobile](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")、[Windows
-10桌面版和](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Xbox
-One遊戲主機中取代](../Page/Xbox_One.md "wikilink")[Internet Explorer
+10桌面版和](../Page/Windows_10.md "wikilink")[Xbox
+One遊戲主機中取代](../Page/Xbox_One.md "wikilink")[Internet
+Explorer
 Mobile和](../Page/Internet_Explorer_Mobile.md "wikilink")[Internet
 Explorer
 11作为預設瀏覽器](../Page/Internet_Explorer_11.md "wikilink")\[5\]。Microsoft
@@ -77,7 +78,7 @@ Edge使用白名单策略允许部分网站绕过Edge安全功能运行Flash内�
 
 ## 参见
 
-  - [Windows 10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
+  - [Windows 10](../Page/Windows_10.md "wikilink")
   - [Microsoft
     Cortana](https://zh.wikipedia.org/wiki/Microsoft_Cortana "wikilink")
   - [Internet Explorer 11](../Page/Internet_Explorer_11.md "wikilink")

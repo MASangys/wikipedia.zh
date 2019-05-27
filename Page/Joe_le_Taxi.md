@@ -2,7 +2,7 @@
 Taxi**》是香港女歌手[陳慧嫻於](../Page/陳慧嫻.md "wikilink")1988年推出的大熱改編歌曲，改編自同樣非常流行的法國少女歌手[Vanessa
 Paradis的同名歌曲](https://zh.wikipedia.org/wiki/Vanessa_Paradis "wikilink")。作曲
 Franck Langolff和Étienne
-Roda-Gil，填詞[陳少琪](https://zh.wikipedia.org/wiki/陳少琪 "wikilink")，編曲[盧東尼](https://zh.wikipedia.org/wiki/盧東尼 "wikilink")，監製[歐丁玉](../Page/歐丁玉.md "wikilink")。\[1\]收錄於同年推出的專輯《Remix》內，而新混音版亦收錄於《[秋色](../Page/秋色.md "wikilink")》內。歌曲的原版雖然在法國很紅，但陳慧嫻的版本在香港依然很流行，樂壇成績亦相當不俗，取得RTHK冠軍及叱咤903與勁歌金榜亞軍。
+Roda-Gil，填詞[陳少琪](https://zh.wikipedia.org/wiki/陳少琪 "wikilink")，編曲[盧東尼](../Page/盧東尼.md "wikilink")，監製[歐丁玉](../Page/歐丁玉.md "wikilink")。\[1\]收錄於同年推出的專輯《Remix》內，而新混音版亦收錄於《[秋色](../Page/秋色.md "wikilink")》內。歌曲的原版雖然在法國很紅，但陳慧嫻的版本在香港依然很流行，樂壇成績亦相當不俗，取得RTHK冠軍及叱咤903與勁歌金榜亞軍。
 
 ## 簡介
 

@@ -207,8 +207,8 @@ CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》、《[黃金帝國](../Pa
 
 ## 同時段競爭節目
 
-  - [KBS](../Page/韓國放送公社.md "wikilink")：《[Healer](https://zh.wikipedia.org/wiki/Healer "wikilink")》、《[Blood](https://zh.wikipedia.org/wiki/Blood_\(電視劇\) "wikilink")》
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[傲慢與偏見](https://zh.wikipedia.org/wiki/傲慢與偏見_\(韓國電視劇\) "wikilink")》、《[輝煌或瘋狂](https://zh.wikipedia.org/wiki/輝煌或瘋狂 "wikilink")》
+  - [KBS](../Page/韓國放送公社.md "wikilink")：《[Healer](../Page/Healer.md "wikilink")》、《[Blood](../Page/Blood_\(電視劇\).md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[傲慢與偏見](../Page/傲慢與偏見_\(韓國電視劇\).md "wikilink")》、《[輝煌或瘋狂](../Page/輝煌或瘋狂.md "wikilink")》
 
 ## 獎項
 

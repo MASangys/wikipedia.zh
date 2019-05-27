@@ -1,5 +1,5 @@
 [D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink"){{、w}}[文佳煐](../Page/文佳煐.md "wikilink"){{、w}}
-[Baekhyun](https://zh.wikipedia.org/wiki/伯賢 "wikilink"){{、w}}[Sehun](https://zh.wikipedia.org/wiki/Sehun "wikilink")
+[Baekhyun](../Page/伯賢.md "wikilink"){{、w}}[Sehun](../Page/Sehun.md "wikilink")
 | country =  | language =
 [韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink")（網路平台） /
 [繁體中文](https://zh.wikipedia.org/wiki/繁體中文 "wikilink") |
@@ -11,7 +11,7 @@ Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
 [LINE](../Page/LINE.md "wikilink") | distributor =
 [NAVER](../Page/NAVER.md "wikilink")
 [LINE](../Page/LINE.md "wikilink") | channel = [LINE
-TV](https://zh.wikipedia.org/wiki/LINE_TV "wikilink"){{、w}}[NAVER TV
+TV](../Page/LINE_TV.md "wikilink"){{、w}}[NAVER TV
 CAST](https://zh.wikipedia.org/wiki/NAVER_TV_CAST "wikilink"){{、w}}[爱奇艺](../Page/爱奇艺.md "wikilink")
 | first_run = | first_aired =  | last_aired =  | preceded_by = |
 followed_by = | related =
@@ -21,38 +21,37 @@ followed_by = | related =
 《**我的邻居是EXO**》（，）是自2015年4月9日播出的[偶像劇](../Page/偶像劇.md "wikilink")，[EXO将作为人气偶像组合登场](../Page/EXO.md "wikilink")，将成员的真实面貌和假想性格相结合的魅力角色预计将满足粉丝们的幻想。通过电视剧来學習戀爱的母胎单身及EXO的忠實粉絲「池妍熙」（[文佳煐飾](../Page/文佳煐.md "wikilink")）家隔壁，明星**EXO**搬家来之后发生的浪漫搞笑故事。
 
 我的邻居是EXO不仅会在[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")，还将会在[中国大陆](../Page/中国大陆.md "wikilink")、[日本](../Page/日本.md "wikilink")、[泰国](../Page/泰国.md "wikilink")、[台湾等](https://zh.wikipedia.org/wiki/台湾 "wikilink")[亚洲各地通过](../Page/亚洲.md "wikilink")[LINE
-TV](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")、[NAVER
+TV](../Page/LINE_TV.md "wikilink")、[NAVER
 TV](https://zh.wikipedia.org/wiki/NAVER_TV "wikilink")、[YouTube](../Page/YouTube.md "wikilink")、[愛奇藝進行播出](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")。在7日举行的「The
 EXO'luXion」EXO第二次单独演唱会上，已经率先公开了先行预告片。
 
 播出前於臺灣進行了秘密活動，且於節目中出現了2014年7月11日[EXO於臺北小巨蛋一巡的畫面](../Page/EXO.md "wikilink")，令臺灣粉絲欣喜不已。[臺灣透過](../Page/臺灣.md "wikilink")[LINE
-TV於](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")2015年4月9日起至2015年5月28日上架16集版本。
+TV於](../Page/LINE_TV.md "wikilink")2015年4月9日起至2015年5月28日上架16集版本。
 
 ## 演出列表
 
-| 演出者                                                           | 人物簡介                                                                                                                                                                                        |
-| :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [朴燦烈](https://zh.wikipedia.org/wiki/朴燦烈 "wikilink") Chanyeol  | EXO成員，飾演 Chanyeol。有修長的身材，發光的外貌。 還有過人的音樂天賦，是最棒的Idol Star EXO的成員。 沒有不足，總是開朗的紳士燦烈不知從哪一天開始變得有些敏感， 就連刻薄的樣子都沒辦法令人討厭的燦烈， 令他變得消沉的原因是把爺爺給他的寶物弄碎了！ 在爺爺曾居住的屋暫住, 遇上童年玩伴妍熙，知道D.O也喜歡妍熙後與D.O.開始了爭奪心儀女生的戰爭。 |
-| [文佳煐](../Page/文佳煐.md "wikilink")                              | 飾演 池妍熙。遇到喜歡的人，便會臉紅耳赤, 口齒也變得不清起來, 母胎單身, 只能通过电视剧来学习恋爱。與燦烈是青梅竹馬的鄰居,因為媽媽的威迫只能在假期去鄰家大屋當女傭照顧著毒舌的偶像燦烈, 但竟然不認得這個童年玩伴。因為D.O. 的親切而把D.O.當成朋友。                                                          |
-| [都敬秀](../Page/都敬秀.md "wikilink") D.O.                         | EXO成員，飾演 D.O.。是從純情漫畫中走出來的嗎？ 像是吃了成熟甜蜜的果實一樣溫柔親切的男人D.O. 是一個用溫暖微笑融化經常被欺負的妍熙的鄰家青年。 對這個可愛的女幫傭一見鍾情，曾向妍熙表白, 開始與燦烈爭奪妍熙。                                                                              |
-| [邊伯賢](https://zh.wikipedia.org/wiki/邊伯賢 "wikilink") Baekhyun  | EXO成員，飾演 Baekhyun。燦烈的好朋友，EXO的主唱。 以「亞洲抒情王子」身份登場 為了玩弄妍熙，在妍熙用望遠鏡看EXO時， 跟世勳假裝做親密動作 曾幫助D.O.製造與妍熙排戲的機會。                                                                                           |
-| [吳世勳](https://zh.wikipedia.org/wiki/Sehun "wikilink") Sehun   | EXO成員，飾演 Sehun。優越的身高， 雕刻般的外貌。 使周圍的人氣餒，但舞台外的Sehun還擁有他人無法比擬的4次元魅力， 為了玩弄妍熙，在妍熙用望遠鏡看EXO時，跟伯賢假裝做親密動作， 是EXO魅力綜合的忙內，和妍熙的弟弟光洙迅速成為了朋友。                                                               |
-| [金珉錫](https://zh.wikipedia.org/wiki/Xiumin "wikilink") Xiumin | EXO成員，飾演 Xiumin。除了住在妍熙隔壁的EXO成員外，第一個知道那裡發生的事的成員。                                                                                                                                             |
-| [金俊勉](https://zh.wikipedia.org/wiki/金俊勉 "wikilink") Suho      | EXO成員，飾演 Suho。曾因為和燦烈在練習室練舞後，燦烈不小心打翻水瓶，而令Suho摔倒弄傷了腿，所以很悲觀。                                                                                                                                   |
-| [金鍾仁](https://zh.wikipedia.org/wiki/金鍾仁 "wikilink") Kai       | EXO成員，飾演 Kai。為試探燦烈對妍熙的感情而故意親近妍熙示好。                                                                                                                                                          |
-| [张艺兴](https://zh.wikipedia.org/wiki/张艺兴 "wikilink") Lay       | EXO成員，飾演 Lay。                                                                                                                                                                               |
-| [金鍾大](https://zh.wikipedia.org/wiki/金鍾大 "wikilink") Chen      | EXO成員，飾演 Chen。Chen德瑞拉，因為為人細心，經常照顧隊員。                                                                                                                                                        |
-| [黃子韜](../Page/黃子韜.md "wikilink") Tao                          | EXO成員，飾演 Tao。                                                                                                                                                                               |
-| 張宥尚                                                           | 飾演 池光洙。池妍熙的弟弟。與Sehun是好朋友, EXO的粉絲。                                                                                                                                                           |
-| [全秀珍](../Page/全秀珍.md "wikilink")                              | 飾演 佳恩。跟妍熙是好朋友。                                                                                                                                                                              |
-| [金姬貞](../Page/金姬貞.md "wikilink")                              | 飾演 池媽媽。                                                                                                                                                                                     |
-| [尹朱尚](../Page/尹朱尚.md "wikilink")                              | 飾演 燦烈爺爺。                                                                                                                                                                                    |
-| 鄭時顯                                                           | 飾演 敏煥，妍熙的初戀。                                                                                                                                                                                |
+| 演出者                                                          | 人物簡介                                                                                                                                                                                        |
+| :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [朴燦烈](https://zh.wikipedia.org/wiki/朴燦烈 "wikilink") Chanyeol | EXO成員，飾演 Chanyeol。有修長的身材，發光的外貌。 還有過人的音樂天賦，是最棒的Idol Star EXO的成員。 沒有不足，總是開朗的紳士燦烈不知從哪一天開始變得有些敏感， 就連刻薄的樣子都沒辦法令人討厭的燦烈， 令他變得消沉的原因是把爺爺給他的寶物弄碎了！ 在爺爺曾居住的屋暫住, 遇上童年玩伴妍熙，知道D.O也喜歡妍熙後與D.O.開始了爭奪心儀女生的戰爭。 |
+| [文佳煐](../Page/文佳煐.md "wikilink")                             | 飾演 池妍熙。遇到喜歡的人，便會臉紅耳赤, 口齒也變得不清起來, 母胎單身, 只能通过电视剧来学习恋爱。與燦烈是青梅竹馬的鄰居,因為媽媽的威迫只能在假期去鄰家大屋當女傭照顧著毒舌的偶像燦烈, 但竟然不認得這個童年玩伴。因為D.O. 的親切而把D.O.當成朋友。                                                          |
+| [都敬秀](../Page/都敬秀.md "wikilink") D.O.                        | EXO成員，飾演 D.O.。是從純情漫畫中走出來的嗎？ 像是吃了成熟甜蜜的果實一樣溫柔親切的男人D.O. 是一個用溫暖微笑融化經常被欺負的妍熙的鄰家青年。 對這個可愛的女幫傭一見鍾情，曾向妍熙表白, 開始與燦烈爭奪妍熙。                                                                              |
+| [邊伯賢](https://zh.wikipedia.org/wiki/邊伯賢 "wikilink") Baekhyun | EXO成員，飾演 Baekhyun。燦烈的好朋友，EXO的主唱。 以「亞洲抒情王子」身份登場 為了玩弄妍熙，在妍熙用望遠鏡看EXO時， 跟世勳假裝做親密動作 曾幫助D.O.製造與妍熙排戲的機會。                                                                                           |
+| [吳世勳](../Page/Sehun.md "wikilink") Sehun                     | EXO成員，飾演 Sehun。優越的身高， 雕刻般的外貌。 使周圍的人氣餒，但舞台外的Sehun還擁有他人無法比擬的4次元魅力， 為了玩弄妍熙，在妍熙用望遠鏡看EXO時，跟伯賢假裝做親密動作， 是EXO魅力綜合的忙內，和妍熙的弟弟光洙迅速成為了朋友。                                                               |
+| [金珉錫](../Page/Xiumin.md "wikilink") Xiumin                   | EXO成員，飾演 Xiumin。除了住在妍熙隔壁的EXO成員外，第一個知道那裡發生的事的成員。                                                                                                                                             |
+| [金俊勉](https://zh.wikipedia.org/wiki/金俊勉 "wikilink") Suho     | EXO成員，飾演 Suho。曾因為和燦烈在練習室練舞後，燦烈不小心打翻水瓶，而令Suho摔倒弄傷了腿，所以很悲觀。                                                                                                                                   |
+| [金鍾仁](https://zh.wikipedia.org/wiki/金鍾仁 "wikilink") Kai      | EXO成員，飾演 Kai。為試探燦烈對妍熙的感情而故意親近妍熙示好。                                                                                                                                                          |
+| [张艺兴](https://zh.wikipedia.org/wiki/张艺兴 "wikilink") Lay      | EXO成員，飾演 Lay。                                                                                                                                                                               |
+| [金鍾大](https://zh.wikipedia.org/wiki/金鍾大 "wikilink") Chen     | EXO成員，飾演 Chen。Chen德瑞拉，因為為人細心，經常照顧隊員。                                                                                                                                                        |
+| [黃子韜](../Page/黃子韜.md "wikilink") Tao                         | EXO成員，飾演 Tao。                                                                                                                                                                               |
+| 張宥尚                                                          | 飾演 池光洙。池妍熙的弟弟。與Sehun是好朋友, EXO的粉絲。                                                                                                                                                           |
+| [全秀珍](../Page/全秀珍.md "wikilink")                             | 飾演 佳恩。跟妍熙是好朋友。                                                                                                                                                                              |
+| [金姬貞](../Page/金姬貞.md "wikilink")                             | 飾演 池媽媽。                                                                                                                                                                                     |
+| [尹朱尚](../Page/尹朱尚.md "wikilink")                             | 飾演 燦烈爺爺。                                                                                                                                                                                    |
+| 鄭時顯                                                          | 飾演 敏煥，妍熙的初戀。                                                                                                                                                                                |
 
 ### OST
 
-  - [邊伯賢](https://zh.wikipedia.org/wiki/伯賢 "wikilink") OST **怦然心動 -
-    Beautiful**
+  - [邊伯賢](../Page/伯賢.md "wikilink") OST **怦然心動 - Beautiful**
 
 ### 大型頒獎禮獎項
 

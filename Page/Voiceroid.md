@@ -47,7 +47,7 @@ EX』。\[3\]
   - ****：\[26\]
     是经众筹推出的Voiceroid。由创作团体つくる女的[立花理香提供原声](../Page/立花理香.md "wikilink")。众筹结束她以筹到¥4,038,500，已超过两倍推出Voiceroid
     (¥2,000,000)所需要的金额。发行日期为2016年6月10日。\[27\]
-  - ****：为近期经过竞选推出的Voiceroid。她是「[东北俊子](https://zh.wikipedia.org/wiki/东北俊子 "wikilink")」的妹妹，同时拥有一个为她发布的[UTAU声库](https://zh.wikipedia.org/wiki/UTAU "wikilink")，由[茜屋日海夏提供声源](https://zh.wikipedia.org/wiki/茜屋日海夏 "wikilink")。2016年5月18日募集推出Voiceroid的目标金额定在¥4,500,000。\[28\]结束时以筹到¥6,983,080，已超过所需的55%。于2016年10月27日发售。
+  - ****：为近期经过竞选推出的Voiceroid。她是「[东北俊子](https://zh.wikipedia.org/wiki/东北俊子 "wikilink")」的妹妹，同时拥有一个为她发布的[UTAU声库](https://zh.wikipedia.org/wiki/UTAU "wikilink")，由[茜屋日海夏提供声源](../Page/茜屋日海夏.md "wikilink")。2016年5月18日募集推出Voiceroid的目标金额定在¥4,500,000。\[28\]结束时以筹到¥6,983,080，已超过所需的55%。于2016年10月27日发售。
 
 <!-- end list -->
 

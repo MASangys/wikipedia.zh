@@ -112,12 +112,12 @@ PlotData =
 <a href="https://zh.wikipedia.org/wiki/STEM出創意" title="wikilink">STEM出創意</a>（T）<br />
 <a href="https://zh.wikipedia.org/wiki/Think_Big之森探險團" title="wikilink">Think Big之森探險團</a>（酋長） [5]<br />
 <a href="https://zh.wikipedia.org/wiki/粵語猜猜猜" title="wikilink">粵語猜猜猜</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Big_Big小明星" title="wikilink">Big Big小明星</a></p></td>
+<td><p><a href="../Page/Big_Big小明星.md" title="wikilink">Big Big小明星</a></p></td>
 <td><p><br />
 STEM出創意顏色：</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/邱晴" title="wikilink">邱晴</a><br />
+<td><p><a href="../Page/邱晴.md" title="wikilink">邱晴</a><br />
 （Mandy）<br />
 （第四代）</p></td>
 <td><p>Mandy</p></td>
@@ -131,7 +131,7 @@ STEM出創意顏色：</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/何依婷" title="wikilink">何依婷</a><br />
+<td><p><a href="../Page/何依婷.md" title="wikilink">何依婷</a><br />
 （Regina）<br />
 （第四代）</p></td>
 <td><p>Regina</p></td>
@@ -144,7 +144,7 @@ STEM出創意顏色：</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/伍樂怡" title="wikilink">伍樂怡</a><br />
+<td><p><a href="../Page/伍樂怡.md" title="wikilink">伍樂怡</a><br />
 （Kelly）<br />
 （第四代）</p></td>
 <td><p>Kelly</p></td>
@@ -178,7 +178,7 @@ STEM出創意顏色：</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/王虹茵" title="wikilink">王虹茵</a><br />
+<td><p><a href="../Page/王虹茵.md" title="wikilink">王虹茵</a><br />
 （Sharlene）<br />
 （第六代）</p></td>
 <td><p>Sharlene</p></td>
@@ -238,7 +238,7 @@ STEM出創意顏色：</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/余德丞" title="wikilink">余德丞</a><br />
+<td><p><a href="../Page/余德丞.md" title="wikilink">余德丞</a><br />
 （Dickson）<br />
 （第一代）</p></td>
 <td><p>Dickson</p></td>
@@ -269,7 +269,7 @@ STEM出創意顏色：</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃愷怡" title="wikilink">黃愷怡</a><br />
+<td><p><a href="../Page/黃愷怡.md" title="wikilink">黃愷怡</a><br />
 （Jasmin）<br />
 （第一代）</p></td>
 <td><p>Jasmin</p></td>
@@ -302,7 +302,7 @@ STEM出創意顏色：</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李雯希" title="wikilink">李雯希</a><br />
+<td><p><a href="../Page/李雯希.md" title="wikilink">李雯希</a><br />
 （Simon）<br />
 （第二代）</p></td>
 <td><p>雯希</p></td>
@@ -331,7 +331,7 @@ STEM出創意顏色：</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/單文柔" title="wikilink">單文柔</a><br />
+<td><p><a href="../Page/單文柔.md" title="wikilink">單文柔</a><br />
 （Phoebe）<br />
 （第三代）</p></td>
 <td><p>Phoebe</p></td>
@@ -345,7 +345,7 @@ STEM出創意顏色：</p></td>
 STEM出創意顏色：</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鍾君揚" title="wikilink">鍾君揚</a><br />
+<td><p><a href="../Page/鍾君揚.md" title="wikilink">鍾君揚</a><br />
 （Freeyon）<br />
 （第三代）</p></td>
 <td><p>Freeyon</p></td>
@@ -355,12 +355,12 @@ STEM出創意顏色：</p></td>
 <a href="https://zh.wikipedia.org/wiki/STEM出創意" title="wikilink">STEM出創意</a>（S）<br />
 <a href="https://zh.wikipedia.org/wiki/搶住嚟答通識比賽" title="wikilink">搶住嚟答通識比賽</a>[16]<br />
 <a href="https://zh.wikipedia.org/wiki/Think_Big冒險之旅" title="wikilink">Think Big冒險之旅</a>（自戀王子）[17]<br />
-<a href="https://zh.wikipedia.org/wiki/Big_Big小明星" title="wikilink">Big Big小明星</a></p></td>
+<a href="../Page/Big_Big小明星.md" title="wikilink">Big Big小明星</a></p></td>
 <td><p><br />
 STEM出創意顏色：</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鍾晴_(藝人)" title="wikilink">鍾晴</a><br />
+<td><p><a href="../Page/鍾晴_(藝人).md" title="wikilink">鍾晴</a><br />
 （Karlie）<br />
 （第三代）</p></td>
 <td><p>Karlie</p></td>
@@ -371,7 +371,7 @@ STEM出創意顏色：</p></td>
 <a href="https://zh.wikipedia.org/wiki/Patrick_Sir爆趣英語逐個捉" title="wikilink">Patrick Sir爆趣英語逐個捉</a>[19]<br />
 <a href="https://zh.wikipedia.org/wiki/粵語猜猜猜" title="wikilink">粵語猜猜猜</a><br />
 <a href="https://zh.wikipedia.org/wiki/齊齊Art_Like" title="wikilink">齊齊Art Like</a>（Rainy）<br />
-<a href="https://zh.wikipedia.org/wiki/Big_Big小明星" title="wikilink">Big Big小明星</a></p></td>
+<a href="../Page/Big_Big小明星.md" title="wikilink">Big Big小明星</a></p></td>
 <td><p><br />
 STEM出創意顏色：</p></td>
 </tr>
@@ -405,7 +405,7 @@ STEM出創意顏色：</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/劉聖雪" title="wikilink">劉聖雪</a></p></td>
+<td><p><a href="../Page/劉聖雪.md" title="wikilink">劉聖雪</a></p></td>
 <td><p>Dana</p></td>
 <td><p>常識</p></td>
 <td><p>2015年5月4日</p></td>
@@ -513,13 +513,13 @@ Think Big 腦力戰<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/張寶兒" title="wikilink">張寶兒</a></p></td>
+<td><p><a href="../Page/張寶兒.md" title="wikilink">張寶兒</a></p></td>
 <td><p>Bowie</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/林凱恩" title="wikilink">林凱恩</a></p></td>
+<td><p><a href="../Page/林凱恩.md" title="wikilink">林凱恩</a></p></td>
 <td><p>Iris</p></td>
 <td></td>
 <td></td>
@@ -766,7 +766,7 @@ Family」，參與跟本節目相關的活動\[21\]，隨後亦在tvb.com開通�
 
 ## 節目調動
 
-  - 2015年2月19日：由於15:10至17:20直播《[AET羊年賀歲盃國際足球邀請賽](https://zh.wikipedia.org/wiki/2015年賀歲盃足球賽 "wikilink")–南華
+  - 2015年2月19日：由於15:10至17:20直播《[AET羊年賀歲盃國際足球邀請賽](../Page/2015年賀歲盃足球賽.md "wikilink")–南華
     對 紐約宇宙》，當日提早至14:40-15:10播出。
   - 2015年4月22日：由於約15:30-16:45插播《政改記者會》以直播政改三人組記者會，當日改為16:55-17:20播出。
   - 2015年6月18日：由於約16:15-16:30插播《特別新聞報道》以直播行政長官見記者，前一節目《[幪面戰士](../Page/幪面戰士.md "wikilink")》順延播出，當日順延至17:00-17:25播出。

@@ -21,7 +21,7 @@
 <th><p>員工心聲 |- style="background-color: #F2F2F2; text-align: center;" |</p></th>
 <th><p>02</p></th>
 <th><p>2015年1月6日</p></th>
-<th><p><a href="../Page/朱慧珊.md" title="wikilink">朱慧珊</a>、<a href="https://zh.wikipedia.org/wiki/陳文康" title="wikilink">陳文康</a></p></th>
+<th><p><a href="../Page/朱慧珊.md" title="wikilink">朱慧珊</a>、<a href="../Page/陳文康.md" title="wikilink">陳文康</a></p></th>
 <th><p><a href="../Page/劉錫賢.md" title="wikilink">劉錫賢</a></p></th>
 <th><p>支持者心聲：<a href="https://zh.wikipedia.org/wiki/Carman_Lam" title="wikilink">Carman Lam</a>、<a href="https://zh.wikipedia.org/wiki/仇克明" title="wikilink">仇克明</a> |- style="background-color: #F2F2F2; text-align: center;" |</p></th>
 <th><p>03</p></th>
@@ -180,7 +180,7 @@
 <th><p>支持者心聲：<a href="https://zh.wikipedia.org/wiki/羅銘偉" title="wikilink">羅銘偉</a>、<a href="../Page/甘國衛.md" title="wikilink">甘國衛</a> |- style="background-color: #F2F2F2; text-align: center;" |</p></th>
 <th><p>32</p></th>
 <th><p>2015年2月17日</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/陳靖允" title="wikilink">陳靖允</a></p></th>
+<th><p><a href="../Page/陳靖允.md" title="wikilink">陳靖允</a></p></th>
 <th><p><a href="../Page/蔡國威.md" title="wikilink">蔡國威</a></p></th>
 <th><p>|- style="background-color: #F2F2F2; text-align: center;" |</p></th>
 <th><p>33</p></th>

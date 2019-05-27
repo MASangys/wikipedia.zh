@@ -48,7 +48,7 @@ Nexus
 ## 参看
 
   - [Moto X](../Page/Moto_X.md "wikilink")
-  - [Nexus 9](https://zh.wikipedia.org/wiki/Nexus_9 "wikilink")
+  - [Nexus 9](../Page/Nexus_9.md "wikilink")
 
 ## 參考資料
 

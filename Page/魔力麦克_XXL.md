@@ -18,11 +18,9 @@
 
   - 飾 Tito
 
-  - [加布里埃爾·伊格萊西亞斯](https://zh.wikipedia.org/wiki/加布里埃爾·伊格萊西亞斯 "wikilink")
-    飾 Tobias
+  - [加布里埃爾·伊格萊西亞斯](../Page/加布里埃爾·伊格萊西亞斯.md "wikilink") 飾 Tobias
 
-  - [安迪·麥杜維](https://zh.wikipedia.org/wiki/安迪·麥杜維 "wikilink")\[6\] 飾
-    Nancy
+  - [安迪·麥杜維](../Page/安迪·麥杜維.md "wikilink")\[6\] 飾 Nancy
 
   - [安柏·赫德](https://zh.wikipedia.org/wiki/安柏·赫德 "wikilink")\[7\] 飾 Zoe
 
@@ -33,7 +31,7 @@
 
   - Jane McNeill 飾 Mae
 
-  - [唐納·葛洛佛](https://zh.wikipedia.org/wiki/唐納·葛洛佛 "wikilink") 飾 Andre
+  - [唐納·葛洛佛](../Page/唐納·葛洛佛.md "wikilink") 飾 Andre
 
   - 飾 Augustus
 

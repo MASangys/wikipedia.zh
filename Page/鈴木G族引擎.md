@@ -1,4 +1,4 @@
-**鈴木G族引擎**是1990年代起[日本](../Page/日本.md "wikilink")[鈴木公司開發製造的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[往復式](../Page/往复式发动机.md "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")，其中G18K型引擎實際上是J18A型，詳情參看[鈴木J族引擎\#J18/J18A型](https://zh.wikipedia.org/wiki/鈴木J族引擎#J18/J18A型 "wikilink")。由於1981年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[汽車巨擘](https://zh.wikipedia.org/wiki/汽車 "wikilink")[通用汽車購入鈴木的股票](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")，雙方展開合作關係，此族引擎大部份搭載於通用汽車旗下所發展的車款，也就是第一代[鈴木Cultus和第一代](https://zh.wikipedia.org/wiki/鈴木Cultus "wikilink")[鈴木Escudo的兄弟車](../Page/鈴木Escudo.md "wikilink")。
+**鈴木G族引擎**是1990年代起[日本](../Page/日本.md "wikilink")[鈴木公司開發製造的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[往復式](../Page/往复式发动机.md "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")，其中G18K型引擎實際上是J18A型，詳情參看[鈴木J族引擎\#J18/J18A型](https://zh.wikipedia.org/wiki/鈴木J族引擎#J18/J18A型 "wikilink")。由於1981年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[汽車巨擘](https://zh.wikipedia.org/wiki/汽車 "wikilink")[通用汽車購入鈴木的股票](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")，雙方展開合作關係，此族引擎大部份搭載於通用汽車旗下所發展的車款，也就是第一代[鈴木Cultus和第一代](../Page/鈴木Cultus.md "wikilink")[鈴木Escudo的兄弟車](../Page/鈴木Escudo.md "wikilink")。
 
 ## G10型
 
@@ -14,7 +14,7 @@
 
 車型：
 
-1.  1985年-2001年：[鈴木Cultus](https://zh.wikipedia.org/wiki/鈴木Cultus "wikilink")（某些市場稱作鈴木Swift、鈴木Forsa）及其兄弟車雪佛蘭Sprint、吉優/雪佛蘭Metro、龐蒂克Firefly等
+1.  1985年-2001年：[鈴木Cultus](../Page/鈴木Cultus.md "wikilink")（某些市場稱作鈴木Swift、鈴木Forsa）及其兄弟車雪佛蘭Sprint、吉優/雪佛蘭Metro、龐蒂克Firefly等
 
 2.  1986年-1988年：
 
@@ -115,7 +115,7 @@ lash adjuster）。車型：
 
 1.  1988年-2003年：[第二代鈴木Cultus](https://zh.wikipedia.org/wiki/鈴木Cultus#第二代（SF系_1988年-1999年） "wikilink")
 2.  1995年-2002年：鈴木Baleno、鈴木Swift（第三代鈴木Cultus外銷版）
-3.  2004年迄今：[鈴木APV](https://zh.wikipedia.org/wiki/鈴木APV "wikilink")
+3.  2004年迄今：[鈴木APV](../Page/鈴木APV.md "wikilink")
 
 ## G16型
 
@@ -128,7 +128,7 @@ EPI噴射。最大馬力為100ps / 6,000rpm，最大扭力14.0kg·m / 4,500rpm�
 2.  1990年：第二代鈴木Cultus ST413型
 3.  1995年-1997年：[鈴木X-90](../Page/鈴木X-90.md "wikilink")
 4.  1996年-1998年：鈴木Sidekick / 吉優Tracker（鈴木Escudo外銷版，加拿大）
-5.  2004年迄今：[鈴木APV](https://zh.wikipedia.org/wiki/鈴木APV "wikilink")
+5.  2004年迄今：[鈴木APV](../Page/鈴木APV.md "wikilink")
 6.  2008年迄今：[鈴木Super Carry](../Page/鈴木Carry.md "wikilink")
 
 ### G16B型

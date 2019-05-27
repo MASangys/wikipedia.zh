@@ -1,4 +1,4 @@
-**麥可·巴卡里·喬丹**（，）是一名[美國男演員](https://zh.wikipedia.org/wiki/美國 "wikilink")。他較著名的是在電視劇《[火線重案組](https://zh.wikipedia.org/wiki/火線重案組_\(電視影集\) "wikilink")》（2002年）中飾演華萊士、《[我的孩子們](https://zh.wikipedia.org/wiki/我的孩子們 "wikilink")》（2003年至2006年）中飾演雷吉·波特·蒙哥馬利、《[勝利之光](https://zh.wikipedia.org/wiki/勝利之光_\(電視劇\) "wikilink")》（2009年至2011年）中詮釋東狄龍高中的四分衛范斯·霍華與《[為人父母](https://zh.wikipedia.org/wiki/為人父母 "wikilink")》（2010年至2011年）中飾演亞歷克斯一角。後來，喬丹出演了電影《[超能失控](../Page/超能失控.md "wikilink")》（2012年）和廣受好評的《[奧斯卡的一天](../Page/奧斯卡的一天.md "wikilink")》（2013年）。而他也在2015年的超級英雄電影《[驚奇4超人](https://zh.wikipedia.org/wiki/驚奇4超人_\(2015年電影\) "wikilink")》中飾演[強尼·史東／霹靂火](../Page/霹靂火.md "wikilink")，並也在同年的「[洛基系列電影](https://zh.wikipedia.org/wiki/洛基系列電影 "wikilink")」外傳《[金牌拳手](../Page/金牌拳手.md "wikilink")》中詮釋阿波羅之子阿多尼斯。
+**麥可·巴卡里·喬丹**（，）是一名[美國男演員](https://zh.wikipedia.org/wiki/美國 "wikilink")。他較著名的是在電視劇《[火線重案組](https://zh.wikipedia.org/wiki/火線重案組_\(電視影集\) "wikilink")》（2002年）中飾演華萊士、《[我的孩子們](https://zh.wikipedia.org/wiki/我的孩子們 "wikilink")》（2003年至2006年）中飾演雷吉·波特·蒙哥馬利、《[勝利之光](https://zh.wikipedia.org/wiki/勝利之光_\(電視劇\) "wikilink")》（2009年至2011年）中詮釋東狄龍高中的四分衛范斯·霍華與《[為人父母](https://zh.wikipedia.org/wiki/為人父母 "wikilink")》（2010年至2011年）中飾演亞歷克斯一角。後來，喬丹出演了電影《[超能失控](../Page/超能失控.md "wikilink")》（2012年）和廣受好評的《[奧斯卡的一天](../Page/奧斯卡的一天.md "wikilink")》（2013年）。而他也在2015年的超級英雄電影《[驚奇4超人](../Page/驚奇4超人_\(2015年電影\).md "wikilink")》中飾演[強尼·史東／霹靂火](../Page/霹靂火.md "wikilink")，並也在同年的「[洛基系列電影](https://zh.wikipedia.org/wiki/洛基系列電影 "wikilink")」外傳《[金牌拳手](../Page/金牌拳手.md "wikilink")》中詮釋阿波羅之子阿多尼斯。
 
 ## 早期生活
 
@@ -75,7 +75,7 @@ Davis）是在藝術學校就職，而父親麥可·A·喬丹則是在經營餐�
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/驚奇4超人_(2015年電影)" title="wikilink">驚奇4超人</a></p></td>
+<td><p><a href="../Page/驚奇4超人_(2015年電影).md" title="wikilink">驚奇4超人</a></p></td>
 <td><p><a href="../Page/霹靂火.md" title="wikilink">強尼·史東／霹靂火</a></p></td>
 <td></td>
 </tr>
@@ -87,19 +87,19 @@ Davis）是在藝術學校就職，而父親麥可·A·喬丹則是在經營餐�
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黑豹_(電影)" title="wikilink">黑豹</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/艾瑞克·齊爾蒙格" title="wikilink">艾瑞克·史蒂文斯／齊爾蒙格</a></p></td>
+<td><p><a href="../Page/黑豹_(電影).md" title="wikilink">黑豹</a></p></td>
+<td><p><a href="../Page/艾瑞克·齊爾蒙格.md" title="wikilink">艾瑞克·史蒂文斯／齊爾蒙格</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天煞重炮" title="wikilink">光戰未來</a></p></td>
+<td><p><a href="../Page/天煞重炮.md" title="wikilink">光戰未來</a></p></td>
 <td><p>男清潔工</p></td>
 <td><p>客串；兼監製</p></td>
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金牌拳手：父仇" title="wikilink">金牌拳手：父仇</a></p></td>
+<td><p><a href="../Page/金牌拳手：父仇.md" title="wikilink">金牌拳手：父仇</a></p></td>
 <td><p>阿多尼斯·克里德</p></td>
 <td></td>
 </tr>
@@ -228,7 +228,7 @@ Davis）是在藝術學校就職，而父親麥可·A·喬丹則是在經營餐�
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/華氏451度_(2018年電影)" title="wikilink">華氏451度</a></p></td>
+<td><p><a href="../Page/華氏451度_(2018年電影).md" title="wikilink">華氏451度</a></p></td>
 <td></td>
 <td><p>電視電影</p></td>
 </tr>
@@ -312,7 +312,7 @@ Davis）是在藝術學校就職，而父親麥可·A·喬丹則是在經營餐�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/好萊塢電影獎" title="wikilink">好萊塢電影獎</a></p></td>
+<td><p><a href="../Page/好萊塢電影獎.md" title="wikilink">好萊塢電影獎</a></p></td>
 <td><p>好萊塢聚光燈獎[17]</p></td>
 <td></td>
 <td></td>
@@ -363,7 +363,7 @@ Davis）是在藝術學校就職，而父親麥可·A·喬丹則是在經營餐�
 <tr class="odd">
 <td><p>2014</p></td>
 <td><p><a href="../Page/獨立精神獎.md" title="wikilink">獨立精神獎</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/獨立精神獎最佳男主角" title="wikilink">最佳男主角</a>[24]</p></td>
+<td><p><a href="../Page/獨立精神獎最佳男主角.md" title="wikilink">最佳男主角</a>[24]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -413,7 +413,7 @@ Davis）是在藝術學校就職，而父親麥可·A·喬丹則是在經營餐�
 <td><p>2016</p></td>
 <td><p><a href="../Page/金酸莓獎.md" title="wikilink">金酸莓獎</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金酸莓獎最差搭檔" title="wikilink">最差搭檔</a><small>（與<a href="../Page/麥爾斯·泰勒.md" title="wikilink">麥爾斯·泰勒</a>、<a href="../Page/凱特·瑪拉.md" title="wikilink">凱特·瑪拉和</a><a href="https://zh.wikipedia.org/wiki/傑米·貝爾" title="wikilink">傑米·貝爾共享</a>）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/驚奇4超人_(2015年電影)" title="wikilink">驚奇4超人</a></p></td>
+<td><p><a href="../Page/驚奇4超人_(2015年電影).md" title="wikilink">驚奇4超人</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

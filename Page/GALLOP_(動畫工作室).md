@@ -3,7 +3,7 @@
 ## 概要、沿革
 
 1978年12月13日\[2\]，由舊[蟲製作公司旗下攝影團隊所屬的動畫攝影工作室](../Page/蟲製作公司.md "wikilink")「（今改名Anime
-Film）」出身的攝影指導[若菜章夫](https://zh.wikipedia.org/wiki/若菜章夫 "wikilink")\[3\]另自立門戶，成立動畫專業攝影工作室「**有限公司STUDIO
+Film）」出身的攝影指導[若菜章夫](../Page/若菜章夫.md "wikilink")\[3\]另自立門戶，成立動畫專業攝影工作室「**有限公司STUDIO
 GALLOP**（<small></small>）」。以承包[小丑工作室（Studio
 Pierrot的舊名）和](../Page/Studio_Pierrot.md "wikilink")等作品的攝影工作起家。
 
@@ -23,7 +23,7 @@ GALLOP更名為「**有限公司S.G**（<small></small>）」\[8\]，同時成�
 
 2012年，由曾經擔任《-{zh-cn:奇天烈大百科;zh-tw:奇天烈大百科;zh-hk:奇天烈百科全書;}-》和《[烏龍派出所](../Page/烏龍派出所.md "wikilink")》的攝影指導就任董事，但是到了隔年又換該公司的創立人若菜再度就任。
 
-當中，有多數主要的資深動畫師，如、[渡邊一](https://zh.wikipedia.org/wiki/渡邊一 "wikilink")、、、石井邦幸、柳田勤等人皆來自GALLOP。
+當中，有多數主要的資深動畫師，如、[渡邊一](../Page/渡邊一.md "wikilink")、、、石井邦幸、柳田勤等人皆來自GALLOP。
 
 另外在主要電視動畫作品中，1996年播出的《烏龍派出所》和《[-{zh-cn:浪客剑心;zh-tw:神劍闖江湖;zh-hk:浪客劍心;}-](../Page/浪客剑心.md "wikilink")》\[10\]、以及分別從1998年和2000年開播至今有15年以上的《[-{zh-cn:反斗小王子;zh-tw:丸少爺;zh-hk:反斗小王子;}-](../Page/反斗小王子.md "wikilink")》和《[遊☆戲☆王](../Page/遊戲王.md "wikilink")》系列等等都出自於GALLOP製作。
 
@@ -178,7 +178,7 @@ GALLOP更名為「**有限公司S.G**（<small></small>）」\[8\]，同時成�
 </tr>
 <tr class="even">
 <td><p>2004年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/烏龍派出所_(動畫)" title="wikilink">烏龍派出所</a></p></td>
+<td><p><a href="../Page/烏龍派出所_(動畫).md" title="wikilink">烏龍派出所</a></p></td>
 <td></td>
 <td><p>後在2005年－2008年間以不定期的方式播出續集。</p></td>
 <td></td>
@@ -228,7 +228,7 @@ GALLOP更名為「**有限公司S.G**（<small></small>）」\[8\]，同時成�
 <tr class="even">
 <td><p>2000年</p></td>
 <td><p>2004年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/遊戲王－怪獸之決鬥" title="wikilink">遊☆戲☆王 怪獸之決鬥</a></p></td>
+<td><p><a href="../Page/遊戲王－怪獸之決鬥.md" title="wikilink">遊☆戲☆王 怪獸之決鬥</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -389,7 +389,7 @@ GALLOP更名為「**有限公司S.G**（<small></small>）」\[8\]，同時成�
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p><strong>播出中</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/遊戲王VRAINS" title="wikilink">遊☆戲☆王VRAINS</a></p></td>
+<td><p><a href="../Page/遊戲王VRAINS.md" title="wikilink">遊☆戲☆王VRAINS</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -521,7 +521,7 @@ GALLOP更名為「**有限公司S.G**（<small></small>）」\[8\]，同時成�
 </tr>
 <tr class="even">
 <td><p>2004年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/遊戲王－怪獸之決鬥" title="wikilink">遊☆戲☆王 怪獸之決鬥：光之金字塔</a></p></td>
+<td><p><a href="../Page/遊戲王－怪獸之決鬥.md" title="wikilink">遊☆戲☆王 怪獸之決鬥：光之金字塔</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -535,7 +535,7 @@ GALLOP更名為「**有限公司S.G**（<small></small>）」\[8\]，同時成�
 </tr>
 <tr class="even">
 <td><p>2016年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/遊戲王：次元的黑暗面" title="wikilink">劇場版 遊☆戲☆王：次元的黑暗面</a></p></td>
+<td><p><a href="../Page/遊戲王：次元的黑暗面.md" title="wikilink">劇場版 遊☆戲☆王：次元的黑暗面</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -717,7 +717,7 @@ GALLOP更名為「**有限公司S.G**（<small></small>）」\[8\]，同時成�
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [赤城博昭](https://zh.wikipedia.org/wiki/赤城博昭 "wikilink")
+  - [赤城博昭](../Page/赤城博昭.md "wikilink")
 
   - 井口忠一
 
@@ -756,17 +756,17 @@ GALLOP更名為「**有限公司S.G**（<small></small>）」\[8\]，同時成�
   - [櫻井弘明](../Page/櫻井弘明.md "wikilink")
 
   -
-  - [佐藤雄三](https://zh.wikipedia.org/wiki/佐藤雄三 "wikilink")
+  - [佐藤雄三](../Page/佐藤雄三.md "wikilink")
 
   -
-  - [鴫野彰](https://zh.wikipedia.org/wiki/鴫野彰 "wikilink")
+  - [鴫野彰](../Page/鴫野彰.md "wikilink")
 
   - [大地丙太郎](../Page/大地丙太郎.md "wikilink")
 
   - 高田昌宏
 
   -
-  - [高本宣弘](https://zh.wikipedia.org/wiki/高本宣弘 "wikilink")
+  - [高本宣弘](../Page/高本宣弘.md "wikilink")
 
   - 田中理子
 
@@ -787,7 +787,7 @@ GALLOP更名為「**有限公司S.G**（<small></small>）」\[8\]，同時成�
   -
   - 秦野三和子
 
-  - [早川啟二](https://zh.wikipedia.org/wiki/早川啟二 "wikilink")
+  - [早川啟二](../Page/早川啟二.md "wikilink")
 
   - [原憲一](../Page/原憲一.md "wikilink")
 
@@ -806,13 +806,13 @@ GALLOP更名為「**有限公司S.G**（<small></small>）」\[8\]，同時成�
 
   - 橫田明美
 
-  - [橫山彰利](https://zh.wikipedia.org/wiki/橫山彰利 "wikilink")
+  - [橫山彰利](../Page/橫山彰利.md "wikilink")
 
   -
   -
-  - [渡部高志](https://zh.wikipedia.org/wiki/渡部高志 "wikilink")
+  - [渡部高志](../Page/渡部高志.md "wikilink")
 
-  - [渡邊一](https://zh.wikipedia.org/wiki/渡邊一 "wikilink")
+  - [渡邊一](../Page/渡邊一.md "wikilink")
 
 </div>
 
@@ -831,7 +831,7 @@ GALLOP更名為「**有限公司S.G**（<small></small>）」\[8\]，同時成�
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   -
-  - [若菜章夫](https://zh.wikipedia.org/wiki/若菜章夫 "wikilink")
+  - [若菜章夫](../Page/若菜章夫.md "wikilink")
 
   - 田中日出男
 

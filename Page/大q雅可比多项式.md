@@ -11,7 +11,7 @@
 
 ## 极限关系
 
-  - 大q雅可比多项式→[大q拉盖尔多项式](https://zh.wikipedia.org/wiki/大q拉盖尔多项式 "wikilink")
+  - 大q雅可比多项式→[大q拉盖尔多项式](../Page/大q拉盖尔多项式.md "wikilink")
 
 令大q雅可比多项式中的\(b =0\),即得大q拉盖尔多项式
 

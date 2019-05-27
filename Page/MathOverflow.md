@@ -20,7 +20,7 @@ Vakil支援網站寄存。\[3\]網站原來是在獨立安裝的StackExchange
 
 ## 使用數學表達式
 
-這網站原先版本不支援使用[LaTeX標記來表示數學表達式](https://zh.wikipedia.org/wiki/LaTeX "wikilink")。為了支援[LaTeX的大部份功能](https://zh.wikipedia.org/wiki/LaTeX "wikilink")，網站加入了[MathJax](https://zh.wikipedia.org/wiki/MathJax "wikilink")，使數學表達式的LaTeX代碼可以轉換成合適的形式。現時帖子上任何在「數學模式」中的代碼（前後加上$符號的），都會自動轉換成適當的數學符號。
+這網站原先版本不支援使用[LaTeX標記來表示數學表達式](https://zh.wikipedia.org/wiki/LaTeX "wikilink")。為了支援[LaTeX的大部份功能](https://zh.wikipedia.org/wiki/LaTeX "wikilink")，網站加入了[MathJax](../Page/MathJax.md "wikilink")，使數學表達式的LaTeX代碼可以轉換成合適的形式。現時帖子上任何在「數學模式」中的代碼（前後加上$符號的），都會自動轉換成適當的數學符號。
 
 ## 網站特點
 

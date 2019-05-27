@@ -20,7 +20,7 @@
 ## 關連條目
 
   - [彭建源KTV縱火案](https://zh.wikipedia.org/wiki/彭建源KTV縱火案 "wikilink")
-  - [台南帝王飯店縱火案](https://zh.wikipedia.org/wiki/帝王飯店縱火案 "wikilink")
+  - [台南帝王飯店縱火案](../Page/帝王飯店縱火案.md "wikilink")
   - [台南新營醫院大火](../Page/行政院衛生署新營醫院北門院區火災事故.md "wikilink")
   - [桃園佳育安親班縱火案](../Page/鍾德樹.md "wikilink")
   - [台北市神話世界KTV縱火案](https://zh.wikipedia.org/wiki/湯銘雄案 "wikilink")

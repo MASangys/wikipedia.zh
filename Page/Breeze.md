@@ -1,5 +1,5 @@
 **breeze**（）是[微風國際旗下的](https://zh.wikipedia.org/wiki/微風國際 "wikilink")[台灣女子團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[1\]，
-出道初由[若穎](https://zh.wikipedia.org/wiki/陳若穎 "wikilink")、[源元](../Page/郭源元.md "wikilink")、[艾熙](https://zh.wikipedia.org/wiki/陳郁涵 "wikilink")、[以辰組成](../Page/梁以辰.md "wikilink")，秘密訓練2年，\[2\]
+出道初由[若穎](https://zh.wikipedia.org/wiki/陳若穎 "wikilink")、[源元](../Page/郭源元.md "wikilink")、[艾熙](../Page/陳郁涵.md "wikilink")、[以辰組成](../Page/梁以辰.md "wikilink")，秘密訓練2年，\[2\]
 在2014年11月5日發行首張EP《[Pretty](https://zh.wikipedia.org/wiki/Pretty "wikilink")》而出道。\[3\]
 
 ## 成員資料
@@ -60,7 +60,7 @@
 <td><p><a href="../Page/微風廣場.md" title="wikilink">微風廣場旗下代言人</a>，台美混血兒，藝名為「<a href="https://zh.wikipedia.org/wiki/佟凱玲" title="wikilink">佟凱玲</a>」，2017年初加入<a href="https://zh.wikipedia.org/wiki/微女神" title="wikilink">微女神</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳郁涵" title="wikilink">陳郁涵</a></p></td>
+<td><p><a href="../Page/陳郁涵.md" title="wikilink">陳郁涵</a></p></td>
 <td><p>艾熙（已退團）</p></td>
 <td><p>Amber</p></td>
 <td></td>
@@ -134,7 +134,7 @@
   - 2013年[PMAM](../Page/PMAM.md "wikilink")（飾演Lisa）
   - 2014年[PMAM之美好偵探社](../Page/PMAM之美好偵探社.md "wikilink")（飾演魏以奈）
   - 2016年[在一起，就好](../Page/在一起，就好.md "wikilink")（飾演楊芸菁）
-  - 2017年[只為你停留](https://zh.wikipedia.org/wiki/只為你停留 "wikilink")（飾演關小姐）
+  - 2017年[只為你停留](../Page/只為你停留.md "wikilink")（飾演關小姐）
 
 ### 梁以辰
 
@@ -191,9 +191,9 @@ Kaye、郁潔、Nina、小燕、Jessica、小E、飛飛、白白</p></td>
 <tr class="odd">
 <td><p>2014年12月7日</p></td>
 <td><p><a href="../Page/TVBS歡樂台.md" title="wikilink">TVBS歡樂台</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/全球中文音樂榜上榜_(臺灣版)" title="wikilink">全球中文音樂榜上榜</a></p></td>
+<td><p><a href="../Page/全球中文音樂榜上榜_(臺灣版).md" title="wikilink">全球中文音樂榜上榜</a></p></td>
 <td></td>
-<td><p><strong>Breeze</strong>、<a href="https://zh.wikipedia.org/wiki/鶴天賜" title="wikilink">鶴天賜</a></p></td>
+<td><p><strong>Breeze</strong>、<a href="../Page/鶴天賜.md" title="wikilink">鶴天賜</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2014年12月13日</p></td>
@@ -255,7 +255,7 @@ Kaye、郁潔、Nina、小燕、Jessica、小E、飛飛、白白</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SS小燕之夜" title="wikilink">SS小燕之夜</a></p></td>
 <td><p>男女約會 這些地雷不要踩！</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/嘻遊記" title="wikilink">嘻遊記</a><br />
-<a href="../Page/袁詠琳.md" title="wikilink">袁詠琳</a>、<a href="../Page/游振宜.md" title="wikilink">小優</a>、<a href="../Page/吳怡霈.md" title="wikilink">吳怡霈</a>、<a href="https://zh.wikipedia.org/wiki/陳郁涵" title="wikilink">陳艾熙</a></p></td>
+<a href="../Page/袁詠琳.md" title="wikilink">袁詠琳</a>、<a href="../Page/游振宜.md" title="wikilink">小優</a>、<a href="../Page/吳怡霈.md" title="wikilink">吳怡霈</a>、<a href="../Page/陳郁涵.md" title="wikilink">陳艾熙</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年2月18日</p></td>
@@ -268,7 +268,7 @@ Kaye、郁潔、Nina、小燕、Jessica、小E、飛飛、白白</p></td>
 <tr class="odd">
 <td><p>2015年3月7日</p></td>
 <td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/女王的密室" title="wikilink">女王的密室</a><br />
+<td><p><a href="../Page/女王的密室.md" title="wikilink">女王的密室</a><br />
 </p></td>
 <td><p>R1：五熊(答對2題，獲得「愚民」等級。$0) R2：紀言愷(答對2題，獲得「愚民」等級。$0)</p>
 <p>R3：孟耿如(答對8題，獲得「<a href="https://zh.wikipedia.org/wiki/智慧魔法師" title="wikilink">智慧魔法師</a>」等級。$30,000)</p>

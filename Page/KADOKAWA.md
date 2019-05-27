@@ -1,10 +1,10 @@
-**株式會社KADOKAWA**（，）是一家[日本](../Page/日本.md "wikilink")[出版公司](https://zh.wikipedia.org/wiki/出版 "wikilink")，为[角川多玩国的子公司](https://zh.wikipedia.org/wiki/角川多玩国 "wikilink")，也是[KADOKAWA集团的核心](../Page/角川集團.md "wikilink")，拥有包含[角川書店在内的诸多品牌](../Page/角川書店.md "wikilink")。
+**株式會社KADOKAWA**（，）是一家[日本](../Page/日本.md "wikilink")[出版公司](https://zh.wikipedia.org/wiki/出版 "wikilink")，为[角川多玩国的子公司](../Page/角川多玩国.md "wikilink")，也是[KADOKAWA集团的核心](../Page/角川集團.md "wikilink")，拥有包含[角川書店在内的诸多品牌](../Page/角川書店.md "wikilink")。
 
 ## 历史
 
 该公司最初名为角川书店，成立于1954年4月2日。2003年4月1日，更名为角川控股集团公司，角川书店品牌的出版业务转交子公司角川书店出版。2013年6月22日，更名为KADOKAWA公司\[1\]。2013年10月1日，其九家子公司合并至KADOKAWA公司\[2\]。
 
-2014年5月14日，KADOKAWA公司宣布与[多玩国合并](https://zh.wikipedia.org/wiki/多玩国 "wikilink")。2014年10月1日，成立控股公司[角川多玩国](https://zh.wikipedia.org/wiki/角川多玩国 "wikilink")，成为双方的母公司。
+2014年5月14日，KADOKAWA公司宣布与[多玩国合并](https://zh.wikipedia.org/wiki/多玩国 "wikilink")。2014年10月1日，成立控股公司[角川多玩国](../Page/角川多玩国.md "wikilink")，成为双方的母公司。
 
 2015年4月，廢除[分公司制的](../Page/分公司制.md "wikilink")「品牌公司」、整編為[事業部制的](https://zh.wikipedia.org/wiki/事業部制 "wikilink")「局」；角川書店、中經出版、富士見書房等子公司以品牌的形式併入母公司，子公司解散。\[3\]
 
@@ -41,7 +41,7 @@ KADOKAWA吸收合併，曾以[品牌公司名義存續的企業群](../Page/分�
 
 ## 爭議
 
-  - 2017年9月25日，以《[動物朋友](https://zh.wikipedia.org/wiki/動物朋友 "wikilink")》系列成名的的動畫監督[達紀在推特公告](https://zh.wikipedia.org/wiki/達紀 "wikilink")，稱遭到角川辭退，將不再參與動物朋友第二期動畫的製作\[4\]。隨之而來的一連串風波與角川本身的不當應對方式，對整個集團的商譽造成了非常不良的影響。
+  - 2017年9月25日，以《[動物朋友](../Page/動物朋友.md "wikilink")》系列成名的的動畫監督[達紀在推特公告](../Page/達紀.md "wikilink")，稱遭到角川辭退，將不再參與動物朋友第二期動畫的製作\[4\]。隨之而來的一連串風波與角川本身的不當應對方式，對整個集團的商譽造成了非常不良的影響。
 
 ## 参考资料
 

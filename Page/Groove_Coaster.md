@@ -192,7 +192,7 @@ iOS版的HARD及AC版的EXTRA一開始不能選取，前者需於NORMAL得到合
   -
   - ──提供歌曲給遊戲，出演AC版推出前的NICONICO生放送\[8\]及活動\[9\]、公開實況遊玩的影片\[10\]等，與本作有密切關係。
 
-  - [古川未鈴](https://zh.wikipedia.org/wiki/古川未鈴 "wikilink")（[電波組.inc](https://zh.wikipedia.org/wiki/電波組.inc "wikilink")）──EX官方應援成員，出演EX的海報及PV\[11\]。
+  - [古川未鈴](../Page/古川未鈴.md "wikilink")（[電波組.inc](../Page/電波組.inc.md "wikilink")）──EX官方應援成員，出演EX的海報及PV\[11\]。
 
 ## 註腳
 

@@ -36,8 +36,8 @@
   - [沙糙鸟蛤](https://zh.wikipedia.org/wiki/沙糙鸟蛤 "wikilink")\[5\]
     *Acrosterigma maculosum* <small>(Reeve,
     1845)</small>：又名[沙尾鳥尾蛤](https://zh.wikipedia.org/wiki/沙尾鳥尾蛤 "wikilink")，分佈於台灣、西太平洋、\[6\]甚至[紅海](https://zh.wikipedia.org/wiki/紅海 "wikilink")\[7\]。
-  - [巴西鳥尾蛤](https://zh.wikipedia.org/wiki/巴西鳥尾蛤 "wikilink")
-    <small>(Linnaeus, 1758)</small>（巴西、加勒比海）；
+  - [巴西鳥尾蛤](../Page/巴西鳥尾蛤.md "wikilink")  <small>(Linnaeus,
+    1758)</small>（巴西、加勒比海）；
   - *[Acrosterigma
     marielae](https://zh.wikipedia.org/wiki/Acrosterigma_marielae "wikilink")*
     Wilson & Stevenson, 1977

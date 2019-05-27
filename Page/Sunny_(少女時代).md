@@ -3,7 +3,7 @@ zh-hant:海灣戰爭;zh-tw:波斯灣戰爭}-被遣送回韓國](../Page/海湾�
 
 原本在父親李秀英的經紀公司訓練了9年，並要加入其公司旗下的「Sugar」出道，但在加入前，該團體就已先解散。再後來準備以組合「TINTOP」出道時，遇上公司破產。之後由[亞由美推薦參加](https://zh.wikipedia.org/wiki/ICONIQ "wikilink")[SM
 Entertainment甄選成為練習生](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，2007年8月5日以女子組合[少女時代出道](https://zh.wikipedia.org/wiki/少女時代 "wikilink")，在隊内擔任主唱。2018年與[太妍](../Page/太妍.md "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[俞利](../Page/俞利.md "wikilink")、[潤娥組成少女時代子團](https://zh.wikipedia.org/wiki/潤娥 "wikilink")[少女時代-Oh\!
-GG](https://zh.wikipedia.org/wiki/少女時代-Oh!_GG "wikilink")。
+GG](../Page/少女時代-Oh!_GG.md "wikilink")。
 
 另外，珊妮是SM娛樂创办人兼会长[李秀滿的姪女](https://zh.wikipedia.org/wiki/李秀滿 "wikilink")\[1\]。
 
@@ -167,7 +167,7 @@ Lee**}-為[加州出生局顯示的英文本名](https://zh.wikipedia.org/wiki/�
 <td><p>2016年12月30日</p></td>
 <td><p>你的聲音（Sound of Your Heart）</p></td>
 <td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION</a></p></td>
-<td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="https://zh.wikipedia.org/wiki/Luna" title="wikilink">朴善英</a>、<a href="https://zh.wikipedia.org/wiki/Seulgi" title="wikilink">Seulgi</a>、<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy (Red Velvet)</a>、<a href="https://zh.wikipedia.org/wiki/文泰一" title="wikilink">泰一</a>、<a href="https://zh.wikipedia.org/wiki/道英" title="wikilink">道英</a></p></td>
+<td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="https://zh.wikipedia.org/wiki/Luna" title="wikilink">朴善英</a>、<a href="https://zh.wikipedia.org/wiki/Seulgi" title="wikilink">Seulgi</a>、<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy (Red Velvet)</a>、<a href="https://zh.wikipedia.org/wiki/文泰一" title="wikilink">泰一</a>、<a href="../Page/道英.md" title="wikilink">道英</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年9月15日</p></td>
@@ -318,7 +318,7 @@ Lee**}-為[加州出生局顯示的英文本名](https://zh.wikipedia.org/wiki/�
 <tr class="odd">
 <td><p>2017年11月2日－ 2018年1月18日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/交換人生實境節目－將我送給你" title="wikilink">交換人生實境節目－將我送給你</a></p></td>
+<td><p><a href="../Page/交換人生實境節目－將我送給你.md" title="wikilink">交換人生實境節目－將我送給你</a></p></td>
 <td><p>全集</p></td>
 </tr>
 <tr class="even">
@@ -448,7 +448,7 @@ Lee**}-為[加州出生局顯示的英文本名](https://zh.wikipedia.org/wiki/�
   - 8月28日 [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《Happy
     Together 3》
   - 9月21日-15年4月14日 [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    《[Roommate](https://zh.wikipedia.org/wiki/Roommate "wikilink")》
+    《[Roommate](../Page/Roommate.md "wikilink")》
   - 10月 4日
     [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[無限挑戰](../Page/無限挑戰.md "wikilink")》
   - 11月21日、11月28日
@@ -481,12 +481,12 @@ Lee**}-為[加州出生局顯示的英文本名](https://zh.wikipedia.org/wiki/�
   - 8月11日 〔KBS〕《認識的哥哥》
   - 8月11日 [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《Happy
     Together 3》
-  - 10月17日 《[My SMT](https://zh.wikipedia.org/wiki/My_SMT "wikilink")》
+  - 10月17日 《[My SMT](../Page/My_SMT.md "wikilink")》
 
 <!-- end list -->
 
   - 5月12日 [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")
-    《[我獨自生活](https://zh.wikipedia.org/wiki/我獨自生活 "wikilink")》
+    《[我獨自生活](../Page/我獨自生活.md "wikilink")》
   - 8月4日 [JTBC](../Page/JTBC.md "wikilink")
     《[白鍾元的三大天王](https://zh.wikipedia.org/wiki/白鍾元的三大天王 "wikilink")》
   - 8月29日 [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") 《名單公開》
@@ -498,15 +498,14 @@ Lee**}-為[加州出生局顯示的英文本名](https://zh.wikipedia.org/wiki/�
   - 9月16日 [SBS](../Page/SBS_\(韓國\).md "wikilink") 《[朴軫永的Party
     People](https://zh.wikipedia.org/wiki/朴軫永的Party_People "wikilink")》
   - 9月29日 [Channel A](../Page/Channel_A.md "wikilink")
-    《[我們也是國家代表](https://zh.wikipedia.org/wiki/我們也是國家代表 "wikilink")》
+    《[我們也是國家代表](../Page/我們也是國家代表.md "wikilink")》
   - 9月30日 [KBS
-    2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[戰鬥旅行](https://zh.wikipedia.org/wiki/戰鬥旅行 "wikilink")》與[孝淵共同出演](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")
+    2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[戰鬥旅行](../Page/戰鬥旅行.md "wikilink")》與[孝淵共同出演](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")
   - 10月7日 [KBS
-    2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[戰鬥旅行](https://zh.wikipedia.org/wiki/戰鬥旅行 "wikilink")》與[孝淵共同出演](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")
+    2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[戰鬥旅行](../Page/戰鬥旅行.md "wikilink")》與[孝淵共同出演](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")
   - 10月14日 [KBS
-    2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[戰鬥旅行](https://zh.wikipedia.org/wiki/戰鬥旅行 "wikilink")》與[孝淵共同出演](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")
-  - 10月31日 FashionN
-    《[拜託了梳妝台](https://zh.wikipedia.org/wiki/拜託了梳妝台 "wikilink")3》
+    2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[戰鬥旅行](../Page/戰鬥旅行.md "wikilink")》與[孝淵共同出演](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")
+  - 10月31日 FashionN 《[拜託了梳妝台](../Page/拜託了梳妝台.md "wikilink")3》
 
 <!-- end list -->
 
@@ -516,14 +515,12 @@ Lee**}-為[加州出生局顯示的英文本名](https://zh.wikipedia.org/wiki/�
   - 4月22日 [Channel A](../Page/Channel_A.md "wikilink")
     《[給狗糧的男人2](https://zh.wikipedia.org/wiki/給狗糧的男人 "wikilink")》
   - 5月5日 [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")
-    《[意外的Q](https://zh.wikipedia.org/wiki/意外的Q "wikilink")》
+    《[意外的Q](../Page/意外的Q.md "wikilink")》
   - 7月15日  《今天吃什麼 - 全能料理教室》
   - 8月30日 [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")
     《[公司食堂](https://zh.wikipedia.org/wiki/公司食堂 "wikilink")》
-  - 11月17日 Lifetime
-    《[睡衣朋友](https://zh.wikipedia.org/wiki/睡衣朋友 "wikilink")》代班主持
-  - 11月24日 Lifetime
-    《[睡衣朋友](https://zh.wikipedia.org/wiki/睡衣朋友 "wikilink")》代班主持
+  - 11月17日 Lifetime 《[睡衣朋友](../Page/睡衣朋友.md "wikilink")》代班主持
+  - 11月24日 Lifetime 《[睡衣朋友](../Page/睡衣朋友.md "wikilink")》代班主持
 
 ### 旁白配音
 
@@ -596,13 +593,13 @@ Lee**}-為[加州出生局顯示的英文本名](https://zh.wikipedia.org/wiki/�
 <tr class="even">
 <td><p>2016年6月5日－8月21日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天下壯士" title="wikilink">天下壯士</a></p></td>
+<td><p><a href="../Page/天下壯士.md" title="wikilink">天下壯士</a></p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/姜虎东" title="wikilink">姜虎东</a>、殷志源、<a href="https://zh.wikipedia.org/wiki/郑珍云" title="wikilink">郑珍云</a>、李奎翰、尹正秀</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年9月30日</p></td>
 <td><p><a href="../Page/Channel_A.md" title="wikilink">Channel A</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我們也是國家代表" title="wikilink">我們也是國家代表</a></p></td>
+<td><p><a href="../Page/我們也是國家代表.md" title="wikilink">我們也是國家代表</a></p></td>
 <td><p>特別MC，與<a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="https://zh.wikipedia.org/wiki/康男" title="wikilink">康男主持</a></p></td>
 </tr>
 <tr class="even">
@@ -614,26 +611,26 @@ Lee**}-為[加州出生局顯示的英文本名](https://zh.wikipedia.org/wiki/�
 <tr class="odd">
 <td><p>2018年1月11日－ 2月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBN" title="wikilink">MBN</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/現實男女" title="wikilink">現實男女</a></p></td>
-<td><p>與、<a href="https://zh.wikipedia.org/wiki/梁世炯" title="wikilink">梁世炯</a>、<a href="../Page/申成宇.md" title="wikilink">申成宇</a>、<a href="../Page/崔鍾訓.md" title="wikilink">崔鍾訓</a>、<a href="https://zh.wikipedia.org/wiki/韓銀貞" title="wikilink">韓銀貞</a>、<a href="../Page/孔賢珠.md" title="wikilink">孔賢珠</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏主持</a></p></td>
+<td><p><a href="../Page/現實男女.md" title="wikilink">現實男女</a></p></td>
+<td><p>與、<a href="../Page/梁世炯.md" title="wikilink">梁世炯</a>、<a href="../Page/申成宇.md" title="wikilink">申成宇</a>、<a href="../Page/崔鍾訓.md" title="wikilink">崔鍾訓</a>、<a href="https://zh.wikipedia.org/wiki/韓銀貞" title="wikilink">韓銀貞</a>、<a href="../Page/孔賢珠.md" title="wikilink">孔賢珠</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏主持</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018年2月12日－ 4月5日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛情也能翻譯嗎" title="wikilink">愛情也能翻譯嗎</a></p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/梁世炯" title="wikilink">梁世炯</a>、<a href="https://zh.wikipedia.org/wiki/朴娜萊_(喜劇演員)" title="wikilink">朴娜萊</a>、<a href="https://zh.wikipedia.org/wiki/Eric_Nam" title="wikilink">Eric Nam</a>、<a href="https://zh.wikipedia.org/wiki/娜榮" title="wikilink">娜榮主持</a></p></td>
+<td><p><a href="../Page/愛情也能翻譯嗎.md" title="wikilink">愛情也能翻譯嗎</a></p></td>
+<td><p>與<a href="../Page/梁世炯.md" title="wikilink">梁世炯</a>、<a href="https://zh.wikipedia.org/wiki/朴娜萊_(喜劇演員)" title="wikilink">朴娜萊</a>、<a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a>、<a href="https://zh.wikipedia.org/wiki/娜榮" title="wikilink">娜榮主持</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年5月1日 - 10月16日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Video_Star" title="wikilink">Video Star</a></p></td>
+<td><p><a href="../Page/Video_Star.md" title="wikilink">Video Star</a></p></td>
 <td><p>與<a href="../Page/朴素賢.md" title="wikilink">朴素賢</a>、<a href="../Page/金淑.md" title="wikilink">金淑</a>、<a href="https://zh.wikipedia.org/wiki/朴娜萊_(喜劇演員)" title="wikilink">朴娜萊主持</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018年8月10日 - 10月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBN" title="wikilink">MBN</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/現實男女" title="wikilink">現實男女2</a></p></td>
-<td><p>與、<a href="https://zh.wikipedia.org/wiki/梁世炯" title="wikilink">梁世炯</a>、<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/徐恩光.md" title="wikilink">徐恩光</a>、<a href="https://zh.wikipedia.org/wiki/韓銀貞" title="wikilink">韓銀貞</a>、<a href="https://zh.wikipedia.org/wiki/張度妍" title="wikilink">張度妍</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏主持</a></p></td>
+<td><p><a href="../Page/現實男女.md" title="wikilink">現實男女2</a></p></td>
+<td><p>與、<a href="../Page/梁世炯.md" title="wikilink">梁世炯</a>、<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/徐恩光.md" title="wikilink">徐恩光</a>、<a href="https://zh.wikipedia.org/wiki/韓銀貞" title="wikilink">韓銀貞</a>、<a href="https://zh.wikipedia.org/wiki/張度妍" title="wikilink">張度妍</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏主持</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年5月12日 -</p></td>
@@ -688,7 +685,7 @@ Lee**}-為[加州出生局顯示的英文本名](https://zh.wikipedia.org/wiki/�
 <td><p>2017年9月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS 2</a></p></td>
 <td><p>2017 K-POP World Festival</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/金成柱_(主持人)" title="wikilink">金成柱</a>、<a href="https://zh.wikipedia.org/wiki/任創均" title="wikilink">任創均主持</a></p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/金成柱_(主持人)" title="wikilink">金成柱</a>、<a href="../Page/任創均.md" title="wikilink">任創均主持</a></p></td>
 </tr>
 </tbody>
 </table>

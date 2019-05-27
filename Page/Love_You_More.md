@@ -21,8 +21,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     （作詞：SHIROSE、作曲：BACHLOGIC・Mats Lie Skare・SHIROSE）
 3.  Love You More (Instrumental)
 4.  My Eyes On You (Instrumental)
-5.  **[ANIMAL](https://zh.wikipedia.org/wiki/ANIMAL "wikilink")（English
-    version）**
+5.  **[ANIMAL](../Page/ANIMAL.md "wikilink")（English version）**
     （作詞：SUNNY BOY、作曲：Erik Lidbom・Jon Hallgren、編曲：Erik Lidbom）
 
 ### DVD

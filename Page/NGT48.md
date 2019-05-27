@@ -10,7 +10,7 @@
   - 創團成員26人中[新潟縣在地出身者僅有不到一半的](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")12人，現役成員（含研究生）則為同樣不到一半的17人，比率是AKB48集團各團體中最低的。
   - 較其他較早成立的日本國內姊妹團體注重「」，戮力於與新潟在地的連結。
 
-NGT48的營運者、以及大部分成員所屬的經紀公司為[AKS](../Page/AKS.md "wikilink")，即AKB48集團的營運公司，此與[HKT48的情況相同](../Page/HKT48.md "wikilink")\[1\]。目前加入個別經紀公司的成員共有2人，分別為[荻野由佳](../Page/荻野由佳.md "wikilink")（[Horipro](../Page/Horipro.md "wikilink")）、[中井莉加](https://zh.wikipedia.org/wiki/中井莉加 "wikilink")（[太田製作](../Page/太田製作.md "wikilink")）。所屬的唱片公司則為[日本索尼音樂旗下品牌](../Page/日本索尼音樂娛樂.md "wikilink")「」。
+NGT48的營運者、以及大部分成員所屬的經紀公司為[AKS](../Page/AKS.md "wikilink")，即AKB48集團的營運公司，此與[HKT48的情況相同](../Page/HKT48.md "wikilink")\[1\]。目前加入個別經紀公司的成員共有2人，分別為[荻野由佳](../Page/荻野由佳.md "wikilink")（[Horipro](../Page/Horipro.md "wikilink")）、[中井莉加](../Page/中井莉加.md "wikilink")（[太田製作](../Page/太田製作.md "wikilink")）。所屬的唱片公司則為[日本索尼音樂旗下品牌](../Page/日本索尼音樂娛樂.md "wikilink")「」。
 
 ## 歷史
 
@@ -21,7 +21,7 @@ NGT48的營運者、以及大部分成員所屬的經紀公司為[AKS](../Page/A
     重溫時間
     最佳曲目1035](https://zh.wikipedia.org/wiki/AKB48_重溫時間_最佳曲目1035 "wikilink")」第五日晚場演唱會中，宣佈將在新潟地區成立“NGT48”的相關訊息，包括SKE48劇場管理人候補生今村悦朗移籍至NGT48擔任劇場管理人，並於同年3月開始招募第一期成員，但原本預定於同年10月1日成立的NGT48劇場則於9月時宣布將延至2016年1月10日才開幕。\[2\]\[3\]\[4\]\[5\]
   - 3月26日，AKB48單獨演唱會上宣佈人事異動，[北原里英將移籍至NGT](../Page/北原里英.md "wikilink")48並擔任隊長，[柏木由紀将取消兼任NMB](../Page/柏木由紀.md "wikilink")48轉為兼任NGT48，實行日期另行公佈，為NGT48最早確定之成員。\[6\]
-  - 5月10日，參與於[有明競技場舉辦的](https://zh.wikipedia.org/wiki/有明競技場 "wikilink")「第二屆AKB48集團選秀會」，由北原里英、柏木由紀與劇場管理人今村悦朗三人代表參加\[7\]，最終選中[荻野由佳](../Page/荻野由佳.md "wikilink")、[西潟茉莉奈兩人](../Page/西潟茉莉奈.md "wikilink")\[8\]\[9\]\[10\]。
+  - 5月10日，參與於[有明競技場舉辦的](../Page/有明競技場.md "wikilink")「第二屆AKB48集團選秀會」，由北原里英、柏木由紀與劇場管理人今村悦朗三人代表參加\[7\]，最終選中[荻野由佳](../Page/荻野由佳.md "wikilink")、[西潟茉莉奈兩人](../Page/西潟茉莉奈.md "wikilink")\[8\]\[9\]\[10\]。
   - 5月24日，在新潟市內的記者會上公佈劇場地点、以及上述选秀会中取得交涉权的两名成员的合约成立，同時劇場管理人今村悦朗公佈應徵人數\[11\]。
   - 7月25日，NGT48一期生徵選结束，共有22人通过徵選。\[12\]
   - 7月30日，NGT48得到第一份正式工作，受新潟县知事任命为「新潟家乡名物商品宣傳大使」\[13\]。
@@ -47,12 +47,12 @@ NGT48的營運者、以及大部分成員所屬的經紀公司為[AKS](../Page/A
   - 1月21日及22日舉辦的「AKB48集團 [重溫時間
     最佳曲目100](https://zh.wikipedia.org/wiki/AKB48公演列表#重温时间_最佳曲目100 "wikilink")
     2017」中，NGT48歌曲《Max朱鷺315號》獲得第一名，為NGT48首次在此票選活動中拿下冠軍。
-  - 4月12日，首張單曲《[青春時鐘](https://zh.wikipedia.org/wiki/青春時鐘 "wikilink")》發行，Center由[中井莉加擔任](https://zh.wikipedia.org/wiki/中井莉加 "wikilink")。\[17\]
-  - 6月1日，[AKB48第49張單曲選拔總選舉公布速報結果](https://zh.wikipedia.org/wiki/AKB48第49張單曲選拔總選舉 "wikilink")，NGT48位居前10名的成員有第1名的荻野由佳、第5名的[本間日陽及第](https://zh.wikipedia.org/wiki/本間日陽 "wikilink")7名的高倉萌香。在速報的前100名成員中，NGT48共有11名成員上榜\[18\]。6月17日的總選舉開票活動於[沖繩縣](../Page/沖繩縣.md "wikilink")[豐見城市舉行](../Page/豐見城市.md "wikilink")，NGT48選入選拔組的成員為第5名的荻野由佳、第10名的北原里英、以及第13名的本間日陽。在總選舉前80名入選成員中，NGT48共有10人上榜\[19\]。
+  - 4月12日，首張單曲《[青春時鐘](../Page/青春時鐘.md "wikilink")》發行，Center由[中井莉加擔任](../Page/中井莉加.md "wikilink")。\[17\]
+  - 6月1日，[AKB48第49張單曲選拔總選舉公布速報結果](https://zh.wikipedia.org/wiki/AKB48第49張單曲選拔總選舉 "wikilink")，NGT48位居前10名的成員有第1名的荻野由佳、第5名的[本間日陽及第](../Page/本間日陽.md "wikilink")7名的高倉萌香。在速報的前100名成員中，NGT48共有11名成員上榜\[18\]。6月17日的總選舉開票活動於[沖繩縣](../Page/沖繩縣.md "wikilink")[豐見城市舉行](../Page/豐見城市.md "wikilink")，NGT48選入選拔組的成員為第5名的荻野由佳、第10名的北原里英、以及第13名的本間日陽。在總選舉前80名入選成員中，NGT48共有10人上榜\[19\]。
   - 6月5日，Team NIII舉行「睡衣兜風」千秋樂公演。
   - 7月2日，Team NIII舉行第三部劇場公演「」初日公演\[20\]。
   - 8月21日，於新潟市歷史博物館舉辦的NGT48成立2週年紀念活動上，自AKB48移籍近2年半的北原里英宣布明年將自NGT48暨AKB48集團畢業\[21\]。
-  - 12月6日，第2張單曲《[藍天會延續到這世界上的哪裡去呢？](https://zh.wikipedia.org/wiki/藍天會延續到這世界上的哪裡去呢？ "wikilink")》發行，Center由荻野由佳擔任\[22\]。
+  - 12月6日，第2張單曲《[藍天會延續到這世界上的哪裡去呢？](../Page/藍天會延續到這世界上的哪裡去呢？.md "wikilink")》發行，Center由荻野由佳擔任\[22\]。
 
 ### 2018年
 
@@ -65,7 +65,7 @@ NGT48的營運者、以及大部分成員所屬的經紀公司為[AKS](../Page/A
     2018」中，NGT48以《藍天會延續到這世界上的哪裡去呢？》獲得第一名，連續兩年奪得冠軍；此外NGT48的全部原創曲皆有上榜\[24\]。
   - 2月25日，於「榮耀之丘」公演中公布第三屆AKB48集團選秀會議中由Team
     NIII指名的5名成員，合约即日起成立，象徵正式加入NGT48\[25\]。
-  - 4月11日，第3張單曲《[春天哪裏來？](https://zh.wikipedia.org/wiki/春天哪裏來？ "wikilink")》發行，Center由本間日陽擔任，選拔成員則由NGT48全體創團成員構成\[26\]。
+  - 4月11日，第3張單曲《[春天哪裏來？](../Page/春天哪裏來？.md "wikilink")》發行，Center由本間日陽擔任，選拔成員則由NGT48全體創團成員構成\[26\]。
   - 4月13日，首次在根據地新潟舉辦的大型演唱會「NGT48單獨演唱會～朱鷺來了！從新潟邁向全國！～」在[朱鷺展覽館舉行](../Page/朱鷺展覽館.md "wikilink")，演唱會上發表首次組閣（分隊編組調整）的消息，包括成立Team
     G、北原里英的Team NIII隊長職務由[加藤美南接棒](../Page/加藤美南.md "wikilink")、荻野由佳續任Team
     NⅢ副隊長、1期研究生全數升格、選秀3期研究生續任Team NIII研究生，同時也宣布兩個分隊的新劇場公演將於7月上旬開始，Team
@@ -80,11 +80,11 @@ NGT48的營運者、以及大部分成員所屬的經紀公司為[AKS](../Page/A
     ～久等了！我們也是新潟之女！～」\[35\]\[36\]。
   - 9月15日，於[日本武道館舉行第](../Page/日本武道館.md "wikilink")4張單曲發售紀念活動「新篇章
     NGT48宣言\!\!　～世界的人呀，一同歌唱吧～」\[37\]。
-  - 10月3日，第4張單曲《[獻給世人](https://zh.wikipedia.org/wiki/獻給世人 "wikilink")》發行，Center由荻野由佳擔任，單曲本身則於同月19日在世界119個國家[數位發行](https://zh.wikipedia.org/wiki/數位發行 "wikilink")\[38\]。
+  - 10月3日，第4張單曲《[獻給世人](../Page/獻給世人.md "wikilink")》發行，Center由荻野由佳擔任，單曲本身則於同月19日在世界119個國家[數位發行](https://zh.wikipedia.org/wiki/數位發行 "wikilink")\[38\]。
 
 ### 2019年
 
-  - 1月8日，成員山口真帆於深夜在個人[SHOWROOM直播上公布去年](https://zh.wikipedia.org/wiki/SHOWROOM "wikilink")12月前在自宅玄關處被兩名男子襲擊的事件\[39\]，隨後在個人推特上詳述事件經過（其後部分推文被删除）。隔日，NGT48營運單位AKS在NGT48官方網站發表「關於山口真帆近日的一連串騷動的報告」加以說明\[40\]\[41\]。山口真帆襲擊事件爆發後，[新潟日報等新潟在地媒體](../Page/新潟日報.md "wikilink")、以及日本各大媒體均以頭條或重要篇幅報導；同時，NGT48各成員的[SNS帳號數日均停止更新](../Page/社交網路服務.md "wikilink")。
+  - 1月8日，成員山口真帆於深夜在個人[SHOWROOM直播上公布去年](../Page/SHOWROOM.md "wikilink")12月前在自宅玄關處被兩名男子襲擊的事件\[39\]，隨後在個人推特上詳述事件經過（其後部分推文被删除）。隔日，NGT48營運單位AKS在NGT48官方網站發表「關於山口真帆近日的一連串騷動的報告」加以說明\[40\]\[41\]。山口真帆襲擊事件爆發後，[新潟日報等新潟在地媒體](../Page/新潟日報.md "wikilink")、以及日本各大媒體均以頭條或重要篇幅報導；同時，NGT48各成員的[SNS帳號數日均停止更新](../Page/社交網路服務.md "wikilink")。
   - 1月10日，於NGT48劇場舉辦「NGT48劇場三周年特別紀念公演
     ～有志者事竟成！我们來自這裡！～」。山口真帆於該場公演亦有出演一首歌曲，並在歌曲表演後對前天自爆的襲擊事件引發的騷動簡短地向粉絲致歉；但山口身為受害者出面道歉之舉，引發媒體及輿論譁然。
   - 1月14日，AKS於凌晨在NGT48官方網站公布人事異動，劇場管理人今村悦朗調回東京，新任劇場管理人由原SKE48營運單位工作人員早川麻依子接任，同時增設副劇場管理人，由岡田剛擔任。當日上午在AKB48集團成人式活動後於場地[神田明神舉辦記者招待會](../Page/神田明神.md "wikilink")，AKS營運負責人兼董事松村匠與新任劇場管理人早川麻依子、副劇場管理人岡田剛在記者會中為山口真帆襲擊事件向社會大眾公開道歉\[42\]\[43\]。
@@ -251,7 +251,7 @@ TIII，以及具有預備成員功能的研究生隊伍。成員徵選合格者�
 <td><p>53</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/中井莉加" title="wikilink">中井莉加</a><br />
+<td><p><a href="../Page/中井莉加.md" title="wikilink">中井莉加</a><br />
 （）</p></td>
 <td></td>
 <td></td>
@@ -329,7 +329,7 @@ TIII，以及具有預備成員功能的研究生隊伍。成員徵選合格者�
 <td><p>77</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/本間日陽" title="wikilink">本間日陽</a></p></td>
+<td><p><a href="../Page/本間日陽.md" title="wikilink">本間日陽</a></p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
@@ -1167,7 +1167,7 @@ AKB48 Team B柏木由紀兼任發表</p></td>
   -
     一次審査－書面審查：報名人數4100名\[101\]
     二次審査－面試（2018年4月28日）：參加者131名\[102\]
-    [SHOWROOM直播](https://zh.wikipedia.org/wiki/SHOWROOM "wikilink")（2018年4月16日17時00分－4月25日19時59分）\[103\]
+    [SHOWROOM直播](../Page/SHOWROOM.md "wikilink")（2018年4月16日17時00分－4月25日19時59分）\[103\]
     三次最終審査－舞蹈、歌唱（2018年4月28日）：參加者53名→合格者19名\[104\]（加入者16名）
 
 **最終合格者**（粗體字者為在籍成員）
@@ -1242,7 +1242,7 @@ JAPAN<br />
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2017年4月11日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/青春時鐘" title="wikilink">青春時鐘</a>》</p></td>
+<td><p>《<a href="../Page/青春時鐘.md" title="wikilink">青春時鐘</a>》</p></td>
 <td><p>不適用</p></td>
 <td><p>特別版</p></td>
 <td><p>數位下載</p></td>
@@ -1308,7 +1308,7 @@ CD</p></td>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2017年12月5日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/藍天會延續到這世界上的哪裡去呢？" title="wikilink">藍天會延續到這世界上的哪裡去呢？</a>》</p></td>
+<td><p>《<a href="../Page/藍天會延續到這世界上的哪裡去呢？.md" title="wikilink">藍天會延續到這世界上的哪裡去呢？</a>》</p></td>
 <td><p>不適用</p></td>
 <td><p>特別版</p></td>
 <td><p>數位下載</p></td>
@@ -1408,7 +1408,7 @@ CD</p></td>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>2018年10月2日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/獻給世人" title="wikilink">獻給世人</a>》</p></td>
+<td><p>《<a href="../Page/獻給世人.md" title="wikilink">獻給世人</a>》</p></td>
 <td><p>不適用</p></td>
 <td><p>特別版</p></td>
 <td><p>數位下載</p></td>
@@ -1472,14 +1472,14 @@ CD</p></td>
 
 收錄於非NGT48名義發行的唱片作品中。
 
-| 張數                                                                                                   | 發行日期       | 歌名                                                                | 收錄作品                                                                     |
-| ---------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [You, Be Cool\!](../Page/You,_Be_Cool!.md "wikilink") / [King Records發行](../Page/國王唱片.md "wikilink") |            |                                                                   |                                                                          |
-| 1                                                                                                    | 2016年3月9日  | 《[Max朱鷺315號](https://zh.wikipedia.org/wiki/Max朱鷺315號 "wikilink")》 | AKB48《[你就是旋律](../Page/你就是旋律.md "wikilink")》                              |
-| 2                                                                                                    | 2016年6月1日  | 《你在哪裡？》                                                           | AKB48《[不需要翅膀](../Page/不需要翅膀.md "wikilink")》                              |
-| 3                                                                                                    | 2017年3月15日 | 《綠意森林運動公園》                                                        | AKB48《[Shoot Sign](https://zh.wikipedia.org/wiki/Shoot_Sign "wikilink")》 |
-| 4                                                                                                    | 2018年3月14日 | 《就當朋友吧》                                                           | AKB48《[Ja-Ba-Ja](https://zh.wikipedia.org/wiki/Ja-Ba-Ja "wikilink")》     |
-|                                                                                                      |            |                                                                   |                                                                          |
+| 張數                                                                                                   | 發行日期       | 歌名                                                                | 收錄作品                                                  |
+| ---------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------- | ----------------------------------------------------- |
+| [You, Be Cool\!](../Page/You,_Be_Cool!.md "wikilink") / [King Records發行](../Page/國王唱片.md "wikilink") |            |                                                                   |                                                       |
+| 1                                                                                                    | 2016年3月9日  | 《[Max朱鷺315號](https://zh.wikipedia.org/wiki/Max朱鷺315號 "wikilink")》 | AKB48《[你就是旋律](../Page/你就是旋律.md "wikilink")》           |
+| 2                                                                                                    | 2016年6月1日  | 《你在哪裡？》                                                           | AKB48《[不需要翅膀](../Page/不需要翅膀.md "wikilink")》           |
+| 3                                                                                                    | 2017年3月15日 | 《綠意森林運動公園》                                                        | AKB48《[Shoot Sign](../Page/Shoot_Sign.md "wikilink")》 |
+| 4                                                                                                    | 2018年3月14日 | 《就當朋友吧》                                                           | AKB48《[Ja-Ba-Ja](../Page/Ja-Ba-Ja.md "wikilink")》     |
+|                                                                                                      |            |                                                                   |                                                       |
 
 ### 演唱會
 
@@ -1586,7 +1586,7 @@ Blu-ray<br />
 <td><p>1</p></td>
 <td><p>2016年12月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/HKT48_vs_NGT48指北合戰" title="wikilink">HKT48 vs NGT48指北合戰</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/VAP" title="wikilink">VAP Inc.</a></p></td>
+<td><p><a href="../Page/VAP.md" title="wikilink">VAP Inc.</a></p></td>
 <td><p>VPBF-14532<br />
 VPXF-71467</p></td>
 <td><p>DVD BOX<br />
@@ -1677,11 +1677,11 @@ NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新�
       - 暮蟬悲鳴時 解答篇（2016年11月25日 - 12月16日） -
         參與成員：加藤美南、中井莉加、清司麗菜、本間日陽、北原里英、高倉萌香
 
-  - [豆腐職業摔角](https://zh.wikipedia.org/wiki/豆腐職業摔角 "wikilink")（2017年1月22日
-    - 7月2日；朝日電視台） - 參與成員：山田野繪、中井莉加、加藤美南
+  - [豆腐職業摔角](../Page/豆腐職業摔角.md "wikilink")（2017年1月22日 - 7月2日；朝日電視台） -
+    參與成員：山田野繪、中井莉加、加藤美南
 
-  - [馬路無理學園](https://zh.wikipedia.org/wiki/馬路無理學園 "wikilink")（2018年7月25日
-    - 播出中；[日本電視台](../Page/日本電視台.md "wikilink")） -
+  - [馬路無理學園](../Page/馬路無理學園.md "wikilink")（2018年7月25日 -
+    播出中；[日本電視台](../Page/日本電視台.md "wikilink")） -
     參與成員：本間日陽、荻野由佳、加藤美南、山口真帆、村雲颯香、太野彩香、西村菜那子、髙橋真生
 
 ### 綜藝、情報節目
@@ -1716,9 +1716,8 @@ NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新�
     - 3月29日；日本電視台）\[170\]
   - NGT48 Bakauke開發計劃TV （2016年6月14日 -
     7月16日；[新潟電視台21](https://zh.wikipedia.org/wiki/新潟電視台21 "wikilink")）\[171\]
-  - [PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")（2018年6月15日
-    - 8月31日；韩国[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")）
+  - [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")（2018年6月15日 -
+    8月31日；韩国[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")）
 
 ### 广播节目
 

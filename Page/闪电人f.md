@@ -13,7 +13,7 @@
   - ガイゼル総統 - [安藤三男](https://zh.wikipedia.org/wiki/安藤三男 "wikilink")
   - ウデスパー（声）、ウデスパーβ（声）、サデスパー（声） -
     [岩名雅記](https://zh.wikipedia.org/wiki/岩名雅記 "wikilink")
-  - ウデスパーα（声） - [渡部猛](https://zh.wikipedia.org/wiki/渡部猛 "wikilink")
+  - ウデスパーα（声） - [渡部猛](../Page/渡部猛.md "wikilink")
   - 合体ウデスパー（声） - [和田周](https://zh.wikipedia.org/wiki/和田周 "wikilink")
   - K麻耶 - [山科ゆり](https://zh.wikipedia.org/wiki/山科ゆり "wikilink")
   - 村野ユキ - [久万里由香](https://zh.wikipedia.org/wiki/久万里由香 "wikilink")

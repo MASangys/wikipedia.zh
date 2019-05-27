@@ -3,7 +3,7 @@
 
 在設定上，Please 美眉和Secret 酷莓為OPEN小將和LOCK小將的妹妹，具有變身成女高中生的魔法能力，是和家族其他成員不同的地方。
 
-為了推廣兩位角色，邀請了擔任電視動畫[LoveLive\!內角色的](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")[日本女性配音員](../Page/日本.md "wikilink")：[Pile和](https://zh.wikipedia.org/wiki/Pile "wikilink")[楠田亞衣奈來替](../Page/楠田亞衣奈.md "wikilink")**Please
+為了推廣兩位角色，邀請了擔任電視動畫[LoveLive\!內角色的](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")[日本女性配音員](../Page/日本.md "wikilink")：[Pile和](../Page/Pile.md "wikilink")[楠田亞衣奈來替](../Page/楠田亞衣奈.md "wikilink")**Please
 美眉**和**Secret
 酷莓**進行配音\[2\]，組成偶像團體**Please\&Secret**並進行活動，發行單曲輯以及NicoNico生放送。\[3\]\[4\]\[5\]
 

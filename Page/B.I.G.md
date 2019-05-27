@@ -214,16 +214,16 @@ HELLO》。\[19\] 2017年7月7日，發行第七張單曲《我會記得（기�
 
 ### 其他歌曲
 
-|             |                              |                                                               |       |        |
-| ----------- | ---------------------------- | ------------------------------------------------------------- | ----- | ------ |
-| 日期          | 專輯 / 歌曲                      | 歌手 / 企劃                                                       | 參與成員  | 備註     |
-| 2016年2月1日   | 武林學校 OST - Hey Girl          | [武林學校](../Page/武林學校.md "wikilink") OST                        | 全員    |        |
-| 2017年6月12日  | 투르 드 코리아 Tour de Korea       | National sporting event                                       | 熙都    | \[20\] |
-| 2017年10月13日 | THE UNI+ - My turn           | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | 建珉、熙都 |        |
-| 2017年10月20日 | THE UNI+ - Last One          | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | 建珉、熙都 |        |
-| 2018年1月14日  | THE UNI+ B STEP 1 - My Story | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | 熙都    |        |
+|             |                              |                                            |       |        |
+| ----------- | ---------------------------- | ------------------------------------------ | ----- | ------ |
+| 日期          | 專輯 / 歌曲                      | 歌手 / 企劃                                    | 參與成員  | 備註     |
+| 2016年2月1日   | 武林學校 OST - Hey Girl          | [武林學校](../Page/武林學校.md "wikilink") OST     | 全員    |        |
+| 2017年6月12日  | 투르 드 코리아 Tour de Korea       | National sporting event                    | 熙都    | \[20\] |
+| 2017年10月13日 | THE UNI+ - My turn           | [The Unit](../Page/The_Unit.md "wikilink") | 建珉、熙都 |        |
+| 2017年10月20日 | THE UNI+ - Last One          | [The Unit](../Page/The_Unit.md "wikilink") | 建珉、熙都 |        |
+| 2018年1月14日  | THE UNI+ B STEP 1 - My Story | [The Unit](../Page/The_Unit.md "wikilink") | 熙都    |        |
 
-### [韓國音樂著作權協會](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
+### [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
 
 |       |               |          |        |
 | ----- | ------------- | -------- | ------ |
@@ -252,17 +252,17 @@ HELLO》。\[19\] 2017年7月7日，發行第七張單曲《我會記得（기�
 
 ### 其他音樂錄影帶
 
-|        |                                                               |                           |               |              |        |
-| ------ | ------------------------------------------------------------- | ------------------------- | ------------- | ------------ | ------ |
-| 年份     | 發布日期                                                          | 歌手/企劃                     | 歌曲名稱          | 參與成員         | 連結/備註  |
-| 2017年  | 6月12日                                                         | National sporting event   | Tour de Korea | 熙都           | \[34\] |
-| 10月16日 | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | My Turn                   | 建珉、熙都         | \[35\]\[36\] |        |
-| 10月23日 | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | Last One                  | 建珉、熙都         | \[37\]\[38\] |        |
-| 11月18日 | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | My Turn (Edition version) | 建珉、熙都         | \[39\]       |        |
-| 2018年  |                                                               |                           |               |              |        |
-| 5月2日   | 熙都 feat.建珉                                                    | VANILLA SKY               |               | \[40\]       |        |
-| 1月18日  | 熙都                                                            | 양아치                       |               | \[41\]\[42\] |        |
-| 1月18日  | 熙都 feat.建珉                                                    | Lonely Night              |               | \[43\]       |        |
+|        |                                            |                           |               |              |        |
+| ------ | ------------------------------------------ | ------------------------- | ------------- | ------------ | ------ |
+| 年份     | 發布日期                                       | 歌手/企劃                     | 歌曲名稱          | 參與成員         | 連結/備註  |
+| 2017年  | 6月12日                                      | National sporting event   | Tour de Korea | 熙都           | \[34\] |
+| 10月16日 | [The Unit](../Page/The_Unit.md "wikilink") | My Turn                   | 建珉、熙都         | \[35\]\[36\] |        |
+| 10月23日 | [The Unit](../Page/The_Unit.md "wikilink") | Last One                  | 建珉、熙都         | \[37\]\[38\] |        |
+| 11月18日 | [The Unit](../Page/The_Unit.md "wikilink") | My Turn (Edition version) | 建珉、熙都         | \[39\]       |        |
+| 2018年  |                                            |                           |               |              |        |
+| 5月2日   | 熙都 feat.建珉                                 | VANILLA SKY               |               | \[40\]       |        |
+| 1月18日  | 熙都                                         | 양아치                       |               | \[41\]\[42\] |        |
+| 1月18日  | 熙都 feat.建珉                                 | Lonely Night              |               | \[43\]       |        |
 
 ### 練習室/ 編舞影音
 
@@ -468,7 +468,7 @@ HELLO》。\[19\] 2017年7月7日，發行第七張單曲《我會記得（기�
 <tr class="odd">
 <td><p>2014年11月4日</p></td>
 <td><p>ARIRANG TV</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/After_School_Club" title="wikilink">After School Club</a></p></td>
+<td><p><a href="../Page/After_School_Club.md" title="wikilink">After School Club</a></p></td>
 <td><p>全員 [58]</p></td>
 </tr>
 <tr class="even">
@@ -492,7 +492,7 @@ HELLO》。\[19\] 2017年7月7日，發行第七張單曲《我會記得（기�
 <tr class="odd">
 <td><p>2014年12月29日</p></td>
 <td><p>ARIRANG TV</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/After_School_Club" title="wikilink">After School Club</a> - Hangout with Benji′s friend</p></td>
+<td><p><a href="../Page/After_School_Club.md" title="wikilink">After School Club</a> - Hangout with Benji′s friend</p></td>
 <td><p>Benji [62]</p></td>
 </tr>
 <tr class="even">
@@ -504,13 +504,13 @@ HELLO》。\[19\] 2017年7月7日，發行第七張單曲《我會記得（기�
 <tr class="odd">
 <td><p>2015年1月4日</p></td>
 <td><p>ARIRANG TV</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/After_School_Club" title="wikilink">After School Club</a> ASC K.Star Quiz</p></td>
+<td><p><a href="../Page/After_School_Club.md" title="wikilink">After School Club</a> ASC K.Star Quiz</p></td>
 <td><p>Benji [64]</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年1月21日</p></td>
 <td><p>ARIRANG TV</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/After_School_Club" title="wikilink">After School Club</a> After Show with Benji</p></td>
+<td><p><a href="../Page/After_School_Club.md" title="wikilink">After School Club</a> After Show with Benji</p></td>
 <td><p>Benji [65]</p></td>
 </tr>
 <tr class="odd">
@@ -582,7 +582,7 @@ HELLO》。\[19\] 2017年7月7日，發行第七張單曲《我會記得（기�
 <tr class="even">
 <td><p>2017年6月13日</p></td>
 <td><p>ARIRANG TV</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/After_School_Club" title="wikilink">After School Club</a></p></td>
+<td><p><a href="../Page/After_School_Club.md" title="wikilink">After School Club</a></p></td>
 <td><p>全員 [81]</p></td>
 </tr>
 <tr class="odd">
@@ -594,7 +594,7 @@ HELLO》。\[19\] 2017年7月7日，發行第七張單曲《我會記得（기�
 <tr class="even">
 <td><p>2017年10月28日－2018年1月27日</p></td>
 <td><p>KBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Unit" title="wikilink">The Unit</a></p></td>
+<td><p><a href="../Page/The_Unit.md" title="wikilink">The Unit</a></p></td>
 <td><p>建珉、熙都 [83][84][85]</p></td>
 </tr>
 <tr class="odd">

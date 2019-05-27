@@ -2,8 +2,8 @@ X-2 HD重制版; zh-tw:Final Fantasy X{{\!}}X-2 HD Remaster;
 zh-hk:最終幻想X{{\!}}X-2 HD Remaster; | G1=Games | G2=Square Enix |
 1=zh-cn:HD重制版; zh-tw:HD Remaster; }}  | developer =
 [史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")
-[维塔士](https://zh.wikipedia.org/wiki/维塔士 "wikilink")\[1\] | publisher =
-| producer = [北濑佳范](https://zh.wikipedia.org/wiki/北濑佳范 "wikilink")
+[维塔士](../Page/维塔士.md "wikilink")\[1\] | publisher =  | producer =
+[北濑佳范](https://zh.wikipedia.org/wiki/北濑佳范 "wikilink")
 克里斯托弗·冈东
 龚道、崔莹 | director = 原田弘、潘峰 | artist = 高井慎太郎
 安德里亚·科迪拉
@@ -14,25 +14,24 @@ platforms = [PlayStation 4](../Page/PlayStation_4.md "wikilink")
 [PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")
 [Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
-[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")\[2\] |
-released = | genre =
-[角色扮演](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")
-| modes = [单人](https://zh.wikipedia.org/wiki/单人电子游戏 "wikilink") }}
+[任天堂Switch](../Page/任天堂Switch.md "wikilink")\[2\] | released = | genre =
+[角色扮演](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink") | modes =
+[单人](https://zh.wikipedia.org/wiki/单人电子游戏 "wikilink") }}
 
 是[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")《[最终幻想X](../Page/最终幻想X.md "wikilink")》和《[最终幻想X-2](../Page/最终幻想X-2.md "wikilink")》的[高清强化移植合辑](https://zh.wikipedia.org/wiki/PlayStation游戏机的高清强化移植 "wikilink")，原游戏由[史克威尔艾尼克斯开发](../Page/史克威尔艾尼克斯.md "wikilink")，并分别于2001年和2003年在[PlayStation
-2平台发行](../Page/PlayStation_2.md "wikilink")。合集沿用了之前《国际版》新增的故事内容，并加入設定于《X-2》数年后新故事的新广播剧。中国大陆工作室[维塔士负责大部分开发工作](https://zh.wikipedia.org/wiki/维塔士 "wikilink")，史克威尔艾尼克斯协助开发與发行合辑。游戏于2013年12月在日本[PlayStation
+2平台发行](../Page/PlayStation_2.md "wikilink")。合集沿用了之前《国际版》新增的故事内容，并加入設定于《X-2》数年后新故事的新广播剧。中国大陆工作室[维塔士负责大部分开发工作](../Page/维塔士.md "wikilink")，史克威尔艾尼克斯协助开发與发行合辑。游戏于2013年12月在日本[PlayStation
 3和](../Page/PlayStation_3.md "wikilink")[PlayStation
 Vita平台发行](../Page/PlayStation_Vita.md "wikilink")，2014年在台湾、香港、北美和欧洲发行，2015年在中国大陆随PlayStation
 Vita中国大陆版[首发上市](https://zh.wikipedia.org/wiki/首发游戏 "wikilink")\[3\]。2015年5月起，游戏登陆[PlayStation
 4平台](../Page/PlayStation_4.md "wikilink")，并于次年移植至[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，通过[Steam发售](../Page/Steam.md "wikilink")，预计2019发售[任天堂Switch以及](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")[Xbox
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，通过[Steam发售](../Page/Steam.md "wikilink")，预计2019发售[任天堂Switch以及](../Page/任天堂Switch.md "wikilink")[Xbox
 One版本](../Page/Xbox_One.md "wikilink")。
 
 合辑以两款游戏的[国际版为基础](https://zh.wikipedia.org/wiki/国际版 "wikilink")，并调整了图形和音乐，同時西方玩家可以首次玩到某些原版缺失的功能。合辑在日本和西方皆销量可观，并获得西方的积极评价。对于画面改进，以及可以在新平台上玩到游戏，评论多有称赞，但合辑因为少量小更新问题以及两游戏质量差異較大而获得批评，此外一些新增内容褒贬不一。
 
 ## 内容
 
-《高清重制版》收录了《[最终幻想X](../Page/最终幻想X.md "wikilink")》和《[最终幻想X-2](../Page/最终幻想X-2.md "wikilink")》两款游戏。首款游戏讲述了年轻人提达被生物“辛”传送到[史匹拉世界后开始旅行的故事](https://zh.wikipedia.org/wiki/史匹拉 "wikilink")。他成为召唤士[尤娜的守卫之一](https://zh.wikipedia.org/wiki/尤娜 "wikilink")，保护她完成打败辛的朝圣之路，并尋找辛和其父及尤娜父的联系\[4\]\[5\]。游戏采用計算時間戰鬥系統（美版称条件回合制战斗系统），玩家可以在战斗中替换队员。角色通过幻光球盘升级，玩家通过选择走盘路线，让角色学习特定技能或提升特定能力\[6\]。第二款游戏设定在《最终幻想X》故事的两年后，讲述尤娜为寻找提达而成为财宝猎人收集幻光球的故事\[7\]。本作通過效果配置盘系統回歸系列传统的职业系统：职业可通过变装幻光球获得，角色更換服装获得不同能力，服装可以在战斗中更換\[8\]。《X-2》有多个小游戏，比如破解幻光球和水鬥球，后者也是《X》中的重要小游戏\[9\]。
+《高清重制版》收录了《[最终幻想X](../Page/最终幻想X.md "wikilink")》和《[最终幻想X-2](../Page/最终幻想X-2.md "wikilink")》两款游戏。首款游戏讲述了年轻人提达被生物“辛”传送到[史匹拉世界后开始旅行的故事](../Page/史匹拉.md "wikilink")。他成为召唤士[尤娜的守卫之一](https://zh.wikipedia.org/wiki/尤娜 "wikilink")，保护她完成打败辛的朝圣之路，并尋找辛和其父及尤娜父的联系\[4\]\[5\]。游戏采用計算時間戰鬥系統（美版称条件回合制战斗系统），玩家可以在战斗中替换队员。角色通过幻光球盘升级，玩家通过选择走盘路线，让角色学习特定技能或提升特定能力\[6\]。第二款游戏设定在《最终幻想X》故事的两年后，讲述尤娜为寻找提达而成为财宝猎人收集幻光球的故事\[7\]。本作通過效果配置盘系統回歸系列传统的职业系统：职业可通过变装幻光球获得，角色更換服装获得不同能力，服装可以在战斗中更換\[8\]。《X-2》有多个小游戏，比如破解幻光球和水鬥球，后者也是《X》中的重要小游戏\[9\]。
 
 虽然《X》和《X-2》的主要游戏系统没有变化，但画面有大幅强化，同时《X》中的诸多曲目也被改编。全部發行地區皆以《国际版》为蓝本：合辑保留了《X》的专家版幻光球盘和附加头目，以及《X-2》中新增的变装幻光球和小游戏。游戏还加入了魔物创造系统，玩家可以扑捉怪物敌人和某些[非玩家角色](../Page/非玩家角色.md "wikilink")（NPC）培养，再将它们编入战斗队伍共同作战，如同[精灵宝可梦系列](../Page/精灵宝可梦系列.md "wikilink")，扑捉同伴可以在竞技场中战斗与强化。《X-2》收录了走迷宫式的[roguelike](https://zh.wikipedia.org/wiki/roguelike "wikilink")
 3D游戏《最终的任务》，角色在随机生成的网格式布局的地图上移动与遭遇敌人。玩家角色像主遊戲那樣用变装幻光球装备职业。玩家达成的《X-2》结局会影响主角间的对话。合辑亦收錄設定於《X》与《X-2》故事间的影片《永远的那基节》\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]。合辑可以跨[PlayStation
@@ -48,11 +47,11 @@ Vita和](../Page/PlayStation_Vita.md "wikilink")[PlayStation
 移植的构想源自在《[最终幻想
 零式](https://zh.wikipedia.org/wiki/最终幻想_零式 "wikilink")》制作間，游戏原开发团队和配音员的重聚。角色设计师[野村哲也](../Page/野村哲也.md "wikilink")、助理制作人今泉英树和一名配音员认为，它们应该为《X》十周年纪念创作一些东西\[24\]。制作人[北濑佳范的个人动机是让年轻人去玩游戏体验](https://zh.wikipedia.org/wiki/北濑佳范 "wikilink")，他儿子的年紀只能从《[最终幻想
 纷争](https://zh.wikipedia.org/wiki/最终幻想_纷争 "wikilink")》和[前传中了解角色提达和尤娜](https://zh.wikipedia.org/wiki/最终幻想_纷争012 "wikilink")。此外因游戏無法相容主流PlayStation
-3型号，也不像[PlayStation的](https://zh.wikipedia.org/wiki/PlayStation "wikilink")《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》和《[IX](../Page/最终幻想IX.md "wikilink")》能在[PlayStation
+3型号，也不像[PlayStation的](../Page/PlayStation.md "wikilink")《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》和《[IX](../Page/最终幻想IX.md "wikilink")》能在[PlayStation
 Network上运行](../Page/PlayStation_Network.md "wikilink")，因而许多人無法玩到作品\[25\]\[26\]。野岛及其他老成员經過磋商获得《X》与《X-2》移植许可，但因团队大多成员仍忙于《[最终幻想XIII](../Page/最终幻想XIII.md "wikilink")》，实际开发进度從而延迟\[27\]。移植版在[东京电玩展](../Page/东京电玩展.md "wikilink")
 2011上首次亮相，当时称游戏会作为《X》十周年纪念发售\[28\]。
 
-移植的大多数工作外包给上海工作室[维塔士](https://zh.wikipedia.org/wiki/维塔士 "wikilink")。史克威尔艾尼克斯内部职员负责重組原版资产，并协助重做部分高清数据\[29\]\[30\]\[31\]。原版团队中的[鸟山求](https://zh.wikipedia.org/wiki/鸟山求 "wikilink")、直良有佑、松田俊孝和小林正树监督制作。《X-2》艺术总监高井慎太郎在两部移植游戏中担任同样职务\[32\]。中国大陆开发团队由总经理潘峰率领\[33\]。因原圖形使用許多PlayStation
+移植的大多数工作外包给上海工作室[维塔士](../Page/维塔士.md "wikilink")。史克威尔艾尼克斯内部职员负责重組原版资产，并协助重做部分高清数据\[29\]\[30\]\[31\]。原版团队中的[鸟山求](https://zh.wikipedia.org/wiki/鸟山求 "wikilink")、直良有佑、松田俊孝和小林正树监督制作。《X-2》艺术总监高井慎太郎在两部移植游戏中担任同样职务\[32\]。中国大陆开发团队由总经理潘峰率领\[33\]。因原圖形使用許多PlayStation
 2硬體獨有的功能，團隊在將遊戲移植到PlayStation
 3和Vita時遇到困難\[34\]。原资产部分损失与修复是也是一重问题，北濑的意见是这可能更易于从头重建数据\[35\]。
 
@@ -60,7 +59,7 @@ PlayStation
 3版支持[720p和](../Page/720p.md "wikilink")[1080p分辨率](../Page/1080p.md "wikilink")——其中仅前者支持[抗锯齿](https://zh.wikipedia.org/wiki/抗锯齿 "wikilink")——而Vita版以720×408像素运行。水體效果等图形功能和灯光都有改进。其他改进如支持高光，圆形改進為动态阴影，以及微调环境几何和纹理\[36\]。开发改善了两款游戏的3D模型：雖然大多模型仅使用了新纹理，但完全重建的玩家角色面部变化显著\[37\]\[38\]。为适应屏幕，过场和预渲染环境需要从4:3改为16:9，為此需要重调大量原画和程序。如角色模型本應在过场中显示，但因宽屏显示致使他们仅出现后镜头；这类实例必须修復\[39\]。预渲染背景图像和过场都為为新屏幕比例而彻底剪裁。此外他們在图形清晰化的处理上遇到了困难\[40\]；移植游戏系统的同時保障遊戲達到高清标准的困难超过团队想象\[41\]。
 
 遊戲改編了由[植松伸夫](../Page/植松伸夫.md "wikilink")、[滨涡正志和](../Page/滨涡正志.md "wikilink")[仲野顺也為原版](../Page/仲野顺也.md "wikilink")《最终幻想X》創作的60首曲目\[42\]\[43\]。滨涡和仲野负责改编大部分音乐，成田勉和山崎良亦重编数曲\[44\]。《最终幻想X-2》的原声则沿用原PlayStation
-2版[松枝贺子和](https://zh.wikipedia.org/wiki/松枝贺子 "wikilink")[江口貴勅的作曲](https://zh.wikipedia.org/wiki/江口貴勅 "wikilink")\[45\]。为创作高清重制，编剧[野岛一成编写了广播剧](../Page/野岛一成.md "wikilink")《最终幻想X
+2版[松枝贺子和](https://zh.wikipedia.org/wiki/松枝贺子 "wikilink")[江口貴勅的作曲](../Page/江口貴勅.md "wikilink")\[45\]。为创作高清重制，编剧[野岛一成编写了广播剧](../Page/野岛一成.md "wikilink")《最终幻想X
 -Will-》，讲述了《X-2》情节两年后的故事。野岛和野村认为这是扩展《X》世界观的好机会。它们之所以选择广播剧形式，是因为团队無意创作扎實的视觉作品，而希望以語音作品代之\[46\]\[47\]\[48\]。团队希望广播剧和感觉乐观欢快的《X-2》结局“针锋相对”。他们希望气氛忧郁，因此《X》中的主要敌对力量辛回到了故事中，它们希望它的出现方式类似于《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》及[展开媒体中主角](../Page/最终幻想VII补完计划.md "wikilink")[萨菲罗斯](https://zh.wikipedia.org/wiki/萨菲罗斯 "wikilink")。广播剧故意设置为开放结局，北濑“希望把一些东西留给玩家的想象”\[49\]。
 
 繁体中文版采用日语配音和中文字幕，由索尼电脑娱乐亚洲和史克威尔艾尼克斯共同汉化\[50\]。
@@ -91,7 +90,7 @@ Vita和PlayStation
 移植质量主要获得积极评价。[IGN的梅根](../Page/IGN.md "wikilink")·萨利文称，虽然游戏展示了它的根源，但“视觉和音效都更为生动”，但他认为原版中一些纹理、令人不快的面部特写和嘴唇动作问题未能改善\[69\]。[GameSpot的约西亚](../Page/GameSpot.md "wikilink")·勒诺丹的评价总体积极，称画面改进是“重玩长寿系列中一款最打动人心作品的强有力理由”，但對於玩家角色和NPC的图形改善有別，他認為很不协调\[70\]。[Destructoid的戴尔](../Page/Destructoid.md "wikilink")·诺斯对PlayStation
 3版的改进总体表示赞扬，然而他称固定镜头并不成熟，同时环境和模型的细节方面并未彻底高清化\[71\]。[Game
 Informer的金伯利](../Page/Game_Informer.md "wikilink")·华莱士也對改进表示总体称赞，但他稱角色動作出卖了游戏年龄\[72\]。[GamesRadar的阿什利](https://zh.wikipedia.org/wiki/GamesRadar "wikilink")·莉德称环境美妙动人，但角色确是“奇怪的布娃娃”，同时游戏没有改善原版的图形局限。她认为在《X-2》中这些问题较轻\[73\]。[Digital
-Spy的马克](https://zh.wikipedia.org/wiki/Digital_Spy "wikilink")·奥斯汀亦对改善表示称赞，但不满於遊戲降帧和“旧式”动画。他还称《X-2》的角色模型和《X》相比較優\[74\]。[VideoGamer.com的丹尼尔](https://zh.wikipedia.org/wiki/VideoGamer.com "wikilink")·凯恩斯對PlayStation
+Spy的马克](https://zh.wikipedia.org/wiki/Digital_Spy "wikilink")·奥斯汀亦对改善表示称赞，但不满於遊戲降帧和“旧式”动画。他还称《X-2》的角色模型和《X》相比較優\[74\]。[VideoGamer.com的丹尼尔](../Page/VideoGamer.com.md "wikilink")·凯恩斯對PlayStation
 3版表示高度称赞，不過也指出了有時揮之不去的笨拙瞬間\[75\]。[NowGamer的瑞恩](https://zh.wikipedia.org/wiki/Imagine_Publishing "wikilink")·金在PlayStation
 Vita版評測中称赞了游戏的改进与翻新\[76\]。其他主流评论也对Vita版表示了相似的称赞，但勒諾丹和华莱士称一些纹理过时非常明显\[77\]\[78\]。
 

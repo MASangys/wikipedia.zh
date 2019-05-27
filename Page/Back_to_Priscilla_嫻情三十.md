@@ -7,7 +7,7 @@ to Priscilla 30th Anniversary Concert
 
 ## 銷售成績
 
-此專輯在[香港唱片商會合共上榜](https://zh.wikipedia.org/wiki/香港唱片商會 "wikilink")7星期，當中包括5週亞軍及1週季軍，成績不俗。
+此專輯在[香港唱片商會合共上榜](../Page/香港唱片商會.md "wikilink")7星期，當中包括5週亞軍及1週季軍，成績不俗。
 
   - 唱片商會 完整走勢: 2-\>2-\>2-\>2-\>2-\>4-\>X-\>X-\>X-\>3
 

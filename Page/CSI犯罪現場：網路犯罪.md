@@ -104,7 +104,7 @@ FBI特別探員→FBI副處長</p></td>
 <tr class="odd">
 <td><p>芮文{{·}}雷米瑞<br />
 （Raven Ramirez）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/海莉·喜代子" title="wikilink">海莉·喜代子</a><br />
+<td><p><a href="../Page/海莉·喜代子.md" title="wikilink">海莉·喜代子</a><br />
 （Hayley Kiyoko）</p></td>
 <td><p>FBI分析師→FBI顧問</p></td>
 <td><p><font color=yellow>主角</p></td>
@@ -151,7 +151,7 @@ FBI特別探員→FBI副處長</p></td>
 <tr class="even">
 <td><p>蜜雪兒{{·}}孟多<br />
 （Michelle Mundo）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/麥肯娜·葛瑞絲" title="wikilink">麥肯娜·葛瑞絲</a><br />
+<td><p><a href="../Page/麥肯娜·葛瑞絲.md" title="wikilink">麥肯娜·葛瑞絲</a><br />
 （Mckenna Grace）</p></td>
 <td><p>伊利加{{·}}孟多的女兒</p></td>
 <td></td>
@@ -186,8 +186,7 @@ FBI特別探員→FBI副處長</p></td>
 
   -
   -
-  - [CSI犯罪現場：網路犯罪（CSI:
-    Cyber）](https://zh.wikipedia.org/wiki/CSI犯罪現場：網路犯罪 "wikilink")
+  - [CSI犯罪現場：網路犯罪（CSI: Cyber）](../Page/CSI犯罪現場：網路犯罪.md "wikilink")
 
   - [AXN](http://www.axn-taiwan.com/programs/csi-cyber-wang-lu-fan-zui)
 

@@ -6,7 +6,7 @@ GreatFire开发了现在依旧活跃的翻墙软件[自由浏览](../Page/自由
 
 GreatFire與BBC合作，透過collateral
 freedom（依附的自由\[8\]）技術，讓中國大陸網路用戶能夠連線到被防火長城封鎖的[BBC中文網](https://zh.wikipedia.org/wiki/BBC中文網 "wikilink")，看到普遍使用的[內容傳遞網路像是](../Page/內容傳遞網路.md "wikilink")[Amazon
-CloudFront和](https://zh.wikipedia.org/wiki/Amazon_CloudFront "wikilink")[CloudFlare的鏡像內容](../Page/CloudFlare.md "wikilink")，讓網路封鎖系統因要花太多資源而放棄封鎖\[9\]\[10\]\[11\]\[12\]。GreatFire網站也架設其他相似的[鏡像站](https://zh.wikipedia.org/wiki/鏡像站 "wikilink")，有[Google](../Page/Google.md "wikilink")、[紐約時報及](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")[德國之聲等被封鎖的網站](https://zh.wikipedia.org/wiki/德國之聲 "wikilink")，以及在[GitHub上建立連結目錄](../Page/GitHub.md "wikilink")，但如今已无法访问\[13\]\[14\]。其也停止了相关项目的维护\[15\]。
+CloudFront和](../Page/Amazon_CloudFront.md "wikilink")[CloudFlare的鏡像內容](../Page/CloudFlare.md "wikilink")，讓網路封鎖系統因要花太多資源而放棄封鎖\[9\]\[10\]\[11\]\[12\]。GreatFire網站也架設其他相似的[鏡像站](https://zh.wikipedia.org/wiki/鏡像站 "wikilink")，有[Google](../Page/Google.md "wikilink")、[紐約時報及](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")[德國之聲等被封鎖的網站](https://zh.wikipedia.org/wiki/德國之聲 "wikilink")，以及在[GitHub上建立連結目錄](../Page/GitHub.md "wikilink")，但如今已无法访问\[13\]\[14\]。其也停止了相关项目的维护\[15\]。
 
 2015年1月17日，[Outlook遭到了](../Page/Microsoft_Outlook.md "wikilink")[中間人攻擊](https://zh.wikipedia.org/wiki/中間人攻擊 "wikilink")\[16\]\[17\]\[18\]。19日，GreatFire撰文稱懷疑此攻擊是由[国家互-{}-联网信-{}-息办公室](../Page/国务院新闻办公室.md "wikilink")（網信辦）發起的\[19\]；22日，網信辦對此文作出了回應，稱「Greatfire.org是境外[反华组织创办的反华网站](https://zh.wikipedia.org/wiki/反华 "wikilink")」，「这一无端臆测，纯属境外反华势力的造谣和污蔑」\[20\]。
 

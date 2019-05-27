@@ -3,7 +3,7 @@ COMET**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都]
 
 ## 概要、沿革
 
-1986年1月21日\[2\]，由當時[土田製作公司所屬的動畫製作人](../Page/土田製作公司.md "wikilink")[茂垣弘道](https://zh.wikipedia.org/wiki/茂垣弘道 "wikilink")\[3\]與同社的工作人員另自立門戶，從承包分鏡作畫、演出之業務起家。而這一年又剛好是[哈雷彗星最接近地球的時期](../Page/哈雷彗星.md "wikilink")，因此以「**彗星**」做命名，正式成立「**有限公司STUDIO
+1986年1月21日\[2\]，由當時[土田製作公司所屬的動畫製作人](../Page/土田製作公司.md "wikilink")[茂垣弘道](../Page/茂垣弘道.md "wikilink")\[3\]與同社的工作人員另自立門戶，從承包分鏡作畫、演出之業務起家。而這一年又剛好是[哈雷彗星最接近地球的時期](../Page/哈雷彗星.md "wikilink")，因此以「**彗星**」做命名，正式成立「**有限公司STUDIO
 COMET**（<small></small>）」。創設初期，STUDIO
 COMET的首要工作是繼承同年7月11日倒閉的土田製作公司承包未完結的電視動畫《》，並在成立之後同時與[廣告代理商](../Page/廣告代理商.md "wikilink")[NAS建立合作關係](../Page/日本AD_SYSTEMS.md "wikilink")，從此兩家一起共同製作過許多電視動畫。
 
@@ -18,7 +18,7 @@ COMET持續專注於獨立製作，並朝著多樣化作品的製作進行挑戰
 
 而STODIO COMET的動畫大部分發包給戶外的公司代工製作。如Stidio Ttwinkle負責攝影的工作、CG
 Work的工作由SUBARU
--昴-、剪輯工作由[岡安Promotion負責](https://zh.wikipedia.org/wiki/岡安Promotion "wikilink")。
+-昴-、剪輯工作由[岡安Promotion負責](../Page/岡安Promotion.md "wikilink")。
 
 近年，STUDIO COMET鮮少有新的獨立作品，而是轉向協助製作別家公司的獨立作品。
 
@@ -48,7 +48,7 @@ Work的工作由SUBARU
 <td></td>
 <td></td>
 <td><p>漫畫</p></td>
-<td><p>從第9話開始，第8－26話的部分集數於過渡期間由<a href="https://zh.wikipedia.org/wiki/GALLOP_(動畫工作室)" title="wikilink">GALLOP支援製作</a>。</p></td>
+<td><p>從第9話開始，第8－26話的部分集數於過渡期間由<a href="../Page/GALLOP_(動畫工作室).md" title="wikilink">GALLOP支援製作</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>1987年</p></td>
@@ -208,7 +208,7 @@ Work的工作由SUBARU
 <td><p><a href="https://zh.wikipedia.org/wiki/真·女神轉生_惡魔之子#真·女神轉生D_惡魔之子_光之書與闇之書" title="wikilink">真·女神轉生D 惡魔之子 光之書與闇之書</a></p></td>
 <td></td>
 <td><p>遊戲</p></td>
-<td><p>從第27話開始承包，第26話之前由<a href="https://zh.wikipedia.org/wiki/Actas" title="wikilink">Actas製作</a>。</p></td>
+<td><p>從第27話開始承包，第26話之前由<a href="../Page/Actas.md" title="wikilink">Actas製作</a>。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -279,7 +279,7 @@ Work的工作由SUBARU
 <tr class="even">
 <td><p>2006年</p></td>
 <td><p>2007年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奇幻魔法Melody：轉轉旋律魔法牌" title="wikilink">我愛美樂蒂：轉轉旋律魔法牌</a></p></td>
+<td><p><a href="../Page/奇幻魔法Melody：轉轉旋律魔法牌.md" title="wikilink">我愛美樂蒂：轉轉旋律魔法牌</a></p></td>
 <td></td>
 <td><p>三麗鷗角色-{「}-美樂蒂-{」}-原案衍生動畫系列。</p></td>
 <td></td>
@@ -311,7 +311,7 @@ Work的工作由SUBARU
 <tr class="even">
 <td><p>2007年</p></td>
 <td><p>2008年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奇幻魔法Melody：輕鬆舒暢♪" title="wikilink">我愛美樂蒂：輕鬆舒暢♪</a></p></td>
+<td><p><a href="../Page/奇幻魔法Melody：輕鬆舒暢♪.md" title="wikilink">我愛美樂蒂：輕鬆舒暢♪</a></p></td>
 <td></td>
 <td><p>三麗鷗角色-{「}-美樂蒂-{」}-原案衍生動畫系列。</p></td>
 <td></td>
@@ -407,7 +407,7 @@ Work的工作由SUBARU
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/美男高校地球防衛部HAPPY_KISS！" title="wikilink">美男高校地球防衛部HAPPY KISS！</a></p></td>
+<td><p><a href="../Page/美男高校地球防衛部HAPPY_KISS！.md" title="wikilink">美男高校地球防衛部HAPPY KISS！</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -917,7 +917,7 @@ Work的工作由SUBARU
 <tr class="odd">
 <td><p><a href="../Page/夜櫻四重奏.md" title="wikilink">夜櫻四重奏</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Nomad_(公司)" title="wikilink">Nomad</a></p></td>
+<td><p><a href="../Page/Nomad_(公司).md" title="wikilink">Nomad</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -946,7 +946,7 @@ Work的工作由SUBARU
 <td><p>2012年</p></td>
 <td><p><a href="../Page/元氣媽媽.md" title="wikilink">元氣媽媽</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GALLOP_(動畫工作室)" title="wikilink">GALLOP</a></p></td>
+<td><p><a href="../Page/GALLOP_(動畫工作室).md" title="wikilink">GALLOP</a></p></td>
 <td><p>漫畫</p></td>
 <td></td>
 </tr>
@@ -1079,7 +1079,7 @@ Work的工作由SUBARU
 <tr class="odd">
 <td><p><a href="../Page/狐仙的戀愛入門.md" title="wikilink">狐仙的戀愛入門</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Production_IMS" title="wikilink">Production IMS</a></p></td>
+<td><p><a href="../Page/Production_IMS.md" title="wikilink">Production IMS</a></p></td>
 <td><p>漫畫</p></td>
 <td></td>
 <td></td>
@@ -1167,7 +1167,7 @@ Work的工作由SUBARU
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/我被綁架到貴族女校當「庶民樣本」" title="wikilink">我被抓到貴族女校當「庶民樣本」</a></p></td>
+<td><p><a href="../Page/我被綁架到貴族女校當「庶民樣本」.md" title="wikilink">我被抓到貴族女校當「庶民樣本」</a></p></td>
 <td></td>
 <td><p>小說</p></td>
 <td></td>
@@ -1230,7 +1230,7 @@ Work的工作由SUBARU
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/我太受歡迎了，該怎麼辦？" title="wikilink">我太受歡迎了，該怎麼辦？</a></p></td>
+<td><p><a href="../Page/我太受歡迎了，該怎麼辦？.md" title="wikilink">我太受歡迎了，該怎麼辦？</a></p></td>
 <td></td>
 <td><p><a href="../Page/Brain&#39;s_Base.md" title="wikilink">Brain's Base</a></p></td>
 <td><p>漫畫</p></td>
@@ -1240,16 +1240,16 @@ Work的工作由SUBARU
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戀愛暴君_(三星眼鏡的漫畫)" title="wikilink">戀愛暴君</a></p></td>
+<td><p><a href="../Page/戀愛暴君_(三星眼鏡的漫畫).md" title="wikilink">戀愛暴君</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/EMT_Squared" title="wikilink">EMT Squared</a></p></td>
+<td><p><a href="../Page/EMT_Squared.md" title="wikilink">EMT Squared</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/URAHARA" title="wikilink">URAHARA</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/白組" title="wikilink">白組</a>×EMT Squared</p></td>
+<td><p><a href="../Page/URAHARA.md" title="wikilink">URAHARA</a></p></td>
+<td><p><a href="../Page/白組.md" title="wikilink">白組</a>×EMT Squared</p></td>
 <td><p>原創</p></td>
 <td></td>
 <td></td>
@@ -1366,10 +1366,10 @@ Work的工作由SUBARU
 
   - 飯田清貴
 
-  - [石踊宏](https://zh.wikipedia.org/wiki/石踊宏 "wikilink")
+  - [石踊宏](../Page/石踊宏.md "wikilink")
 
   -
-  - [稻垣隆行](https://zh.wikipedia.org/wiki/稻垣隆行 "wikilink")
+  - [稻垣隆行](../Page/稻垣隆行.md "wikilink")
 
   -
   - 大澤美奈
@@ -1390,7 +1390,7 @@ Work的工作由SUBARU
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [佐藤昌文](https://zh.wikipedia.org/wiki/佐藤昌文 "wikilink")
+  - [佐藤昌文](../Page/佐藤昌文.md "wikilink")
 
   - [志田正博](../Page/志田正.md "wikilink")
 
@@ -1405,15 +1405,15 @@ Work的工作由SUBARU
   -
   - [野田康行](../Page/野田康行.md "wikilink")
 
-  - [原由美子](https://zh.wikipedia.org/wiki/原由美子 "wikilink")
+  - [原由美子](../Page/原由美子.md "wikilink")
 
   - 平川亞喜雄
 
   - 福地和浩
 
-  - [福富博](https://zh.wikipedia.org/wiki/福富博 "wikilink")
+  - [福富博](../Page/福富博.md "wikilink")
 
-  - [福本潔](https://zh.wikipedia.org/wiki/福本潔 "wikilink")
+  - [福本潔](../Page/福本潔.md "wikilink")
 
 </div>
 
@@ -1421,11 +1421,11 @@ Work的工作由SUBARU
 
   - 本田辰雄
 
-  - [又野弘道](https://zh.wikipedia.org/wiki/又野弘道 "wikilink")
+  - [又野弘道](../Page/又野弘道.md "wikilink")
 
   - 松本勝次
 
-  - [三澤伸](https://zh.wikipedia.org/wiki/三澤伸 "wikilink")
+  - [三澤伸](../Page/三澤伸.md "wikilink")
 
   - 宮川知子
 
@@ -1442,7 +1442,7 @@ Work的工作由SUBARU
 
   - 渡邊健一郎
 
-  - [渡邊一](https://zh.wikipedia.org/wiki/渡邊一 "wikilink")
+  - [渡邊一](../Page/渡邊一.md "wikilink")
 
 </div>
 
@@ -1453,9 +1453,9 @@ Work的工作由SUBARU
   - 小竿俊一
 
   -
-  - [關山晃弘](https://zh.wikipedia.org/wiki/關山晃弘 "wikilink")
+  - [關山晃弘](../Page/關山晃弘.md "wikilink")
 
-  - [茂垣弘道](https://zh.wikipedia.org/wiki/茂垣弘道 "wikilink")
+  - [茂垣弘道](../Page/茂垣弘道.md "wikilink")
 
 </div>
 

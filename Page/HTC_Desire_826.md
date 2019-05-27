@@ -20,8 +20,7 @@ Desire EYE 一樣的隱藏設計 \[4\]。
 
 ### 软件
 
-搭载[Android 5.0
-Lollipop](https://zh.wikipedia.org/wiki/Android_Lollipop "wikilink")，[HTC
+搭载[Android 5.0 Lollipop](../Page/Android_Lollipop.md "wikilink")，[HTC
 Sense 6.0](https://zh.wikipedia.org/wiki/HTC_Sense_6.0 "wikilink") 操作介面。
 
 ## 详细规格

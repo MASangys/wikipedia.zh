@@ -7,7 +7,7 @@ trax旗下的](../Page/Avex_trax.md "wikilink")「FRAME」，[經紀公司為tig
 有別於一般的音樂組合，King Cream
 Soda的成立完全只因要為[卡通片](https://zh.wikipedia.org/wiki/卡通片 "wikilink")《[妖怪手錶](https://zh.wikipedia.org/wiki/妖怪手錶 "wikilink")》錄製主題曲而已\[1\]，就連在官方網頁的個人介紹中，也只是放置了組合的相片及其名稱而已，各成員一切的個人資枓均全部欠奉\[2\]，令這組合給予人非常神秘；但是，團中的其中一名成員Gerappa（），因以「」的名義為《妖怪手錶》作詞，而其打扮、外貌及紋身亦與以往在藝能界出現的motsu十分吻合，因而普遍皆相信兩者實為同一人，亦即是以往曾參與過多個音樂組合，本名「**瀨川素公**」的音樂人motsu。
 
-與同樣主題主唱《妖怪手錶》歌曲的[Dream5一樣](../Page/Dream5.md "wikilink")，受惠於漫畫大熱的原故，作為主題曲的《嘎啦嘎啦砰之歌》成為大熱作品，並且與Dream5所主唱的[插曲](https://zh.wikipedia.org/wiki/插曲 "wikilink")《》獲得第47屆[日本有線大賞](https://zh.wikipedia.org/wiki/日本有線大賞 "wikilink")「有線話題賞」\[3\]；第56回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")「特別獎」\[4\]；並且以特別企劃形式首度入選[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第65回NHK紅白歌合戰 "wikilink")\[5\]。而年末其他電視台所舉辦節大型音樂活動，包括[讀賣電視台的](../Page/讀賣電視台.md "wikilink")[BEST
+與同樣主題主唱《妖怪手錶》歌曲的[Dream5一樣](../Page/Dream5.md "wikilink")，受惠於漫畫大熱的原故，作為主題曲的《嘎啦嘎啦砰之歌》成為大熱作品，並且與Dream5所主唱的[插曲](https://zh.wikipedia.org/wiki/插曲 "wikilink")《》獲得第47屆[日本有線大賞](https://zh.wikipedia.org/wiki/日本有線大賞 "wikilink")「有線話題賞」\[3\]；第56回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")「特別獎」\[4\]；並且以特別企劃形式首度入選[NHK紅白歌合戰](../Page/第65回NHK紅白歌合戰.md "wikilink")\[5\]。而年末其他電視台所舉辦節大型音樂活動，包括[讀賣電視台的](../Page/讀賣電視台.md "wikilink")[BEST
 HIT歌謠祭](https://zh.wikipedia.org/wiki/BEST_HIT歌謠祭 "wikilink")、[富士電視台的](../Page/富士電視台.md "wikilink")、[朝日電視台的](../Page/朝日電視台.md "wikilink")[MUSIC
 STATION SUPER LIVE
 2014等](../Page/MUSIC_STATION.md "wikilink")，均被邀請出席，而各電視台的藝人訪問清談節目也相繼與King

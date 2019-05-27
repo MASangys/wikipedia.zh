@@ -1,4 +1,4 @@
-《**失蹤的黑色M**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自](https://zh.wikipedia.org/wiki/OCN "wikilink")2015年3月28日起播出的[經典系列電視劇](https://zh.wikipedia.org/wiki/OCN_Original_Series "wikilink")（Original
+《**失蹤的黑色M**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自](https://zh.wikipedia.org/wiki/OCN "wikilink")2015年3月28日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original
 Series），講述了調查1%失蹤案件的專案組員警和惡性犯罪嫌疑人之間對決的故事。FBI出身的天才精英刑警吉秀賢（金剛于
 飾）和純度100%的本土老派勢力刑警吳大榮（朴喜洵
 飾）的拍檔將會怎樣在一定期限內找出失踪者並與前所未聞的惡性犯罪者抗衡的故事，以“失踪”為主題，不僅將描繪尋找失踪者的過程，還將會是一段尋找社會丟失的正義、價值的旅程，是一部全新題材的刑偵劇。\[1\]\[2\]
@@ -52,7 +52,7 @@ Series），講述了調查1%失蹤案件的專案組員警和惡性犯罪嫌疑
 
 ### 其他人物
 
-  - [韓抒縝](https://zh.wikipedia.org/wiki/韓抒縝 "wikilink") 飾演 李素允
+  - [韓抒縝](../Page/韓抒縝.md "wikilink") 飾演 李素允
 
 ### 特別演出
 
@@ -61,14 +61,14 @@ Series），講述了調查1%失蹤案件的專案組員警和惡性犯罪嫌疑
   - [高寶潔](https://zh.wikipedia.org/wiki/高寶潔 "wikilink") 飾演 姜順盈（第1－2集）
   - [李承亨](../Page/李承亨.md "wikilink") 飾演 金石鎮（第2集）
   - [朴海俊](../Page/朴海俊.md "wikilink") 飾演 河泰兆（第3－4集）
-  - [張光](https://zh.wikipedia.org/wiki/張光_\(演員\) "wikilink") 飾演 南錫台（第5集）
+  - [張光](../Page/張光_\(演員\).md "wikilink") 飾演 南錫台（第5集）
   - [孫秀賢](../Page/孫秀賢.md "wikilink") 飾演 潘孝靜（第7集）
   - [L.Joe](https://zh.wikipedia.org/wiki/李秉憲 "wikilink") 飾演 梁正浩（第7集）
   - [李妍杜](https://zh.wikipedia.org/wiki/李妍杜 "wikilink") 飾演
     鄭善美/金貞熙（第8、9集）
   - [沈宜英](../Page/沈宜英.md "wikilink") 飾演 吳大榮的妻子
   - [鄭燦](../Page/鄭燦.md "wikilink") 飾演 洪振基
-  - [金炳哲](https://zh.wikipedia.org/wiki/金炳哲 "wikilink") 飾演 姜允九
+  - [金炳哲](../Page/金炳哲.md "wikilink") 飾演 姜允九
 
 ## 原聲帶
 

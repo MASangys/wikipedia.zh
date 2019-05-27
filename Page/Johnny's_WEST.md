@@ -30,7 +30,7 @@ WEST**（）是[日本](../Page/日本.md "wikilink")[傑尼斯事務所旗下�
 <td><p>175cm</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/濱田崇裕" title="wikilink">濱田崇裕</a></strong></p></td>
+<td><p><strong><a href="../Page/濱田崇裕.md" title="wikilink">濱田崇裕</a></strong></p></td>
 <td><p>はまだ　たかひろ</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/血型" title="wikilink">AB型</a></p></td>
@@ -57,7 +57,7 @@ WEST**（）是[日本](../Page/日本.md "wikilink")[傑尼斯事務所旗下�
 <td><p>172cm</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/神山智洋" title="wikilink">神山智洋</a></strong></p></td>
+<td><p><strong><a href="../Page/神山智洋.md" title="wikilink">神山智洋</a></strong></p></td>
 <td><p>かみやま ともひろ</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/血型" title="wikilink">A型</a></p></td>
@@ -66,7 +66,7 @@ WEST**（）是[日本](../Page/日本.md "wikilink")[傑尼斯事務所旗下�
 <td><p>170cm</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/藤井流星" title="wikilink">藤井流星</a></strong></p></td>
+<td><p><strong><a href="../Page/藤井流星.md" title="wikilink">藤井流星</a></strong></p></td>
 <td><p>ふじい りゅうせい</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/血型" title="wikilink">B型</a></p></td>
@@ -75,7 +75,7 @@ WEST**（）是[日本](../Page/日本.md "wikilink")[傑尼斯事務所旗下�
 <td><p>180cm</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/小瀧望" title="wikilink">小瀧望</a></strong></p></td>
+<td><p><strong><a href="../Page/小瀧望.md" title="wikilink">小瀧望</a></strong></p></td>
 <td><p>こたき のぞむ</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/血型" title="wikilink">O型</a></p></td>

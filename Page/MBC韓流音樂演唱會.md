@@ -107,7 +107,7 @@ Wave，包括[曼谷](../Page/曼谷.md "wikilink")、[北京等](https://zh.wik
 <a href="../Page/張藝興.md" title="wikilink">Lay</a>、<a href="../Page/黃子韜.md" title="wikilink">Tao</a>（特別環節 MC）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>、<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>、<a href="../Page/EXO.md" title="wikilink">EXO</a>、<a href="https://zh.wikipedia.org/wiki/BEAST" title="wikilink">BEAST</a>、<a href="../Page/4minute.md" title="wikilink">4minute</a>、<br />
 <a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a>、<a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>、<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>、<a href="https://zh.wikipedia.org/wiki/miss_A" title="wikilink">miss A</a>、<a href="https://zh.wikipedia.org/wiki/Teen_Top" title="wikilink">Teen Top</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/ZE:A" title="wikilink">ZE:A</a>、<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>、<a href="../Page/B1A4.md" title="wikilink">B1A4</a>、<a href="../Page/B.A.P.md" title="wikilink">B.A.P</a>、<a href="../Page/TASTY.md" title="wikilink">TASTY</a>、<a href="../Page/Crayon_Pop.md" title="wikilink">Crayon Pop</a></p></td>
+<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>、<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>、<a href="../Page/B1A4.md" title="wikilink">B1A4</a>、<a href="../Page/B.A.P.md" title="wikilink">B.A.P</a>、<a href="../Page/TASTY.md" title="wikilink">TASTY</a>、<a href="../Page/Crayon_Pop.md" title="wikilink">Crayon Pop</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年7月30日</p></td>

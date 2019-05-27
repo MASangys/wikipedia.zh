@@ -40,7 +40,7 @@
 <!-- end list -->
 
   - ミスターアスモディ
-    演：早川五郎（声：[飯塚昭三](https://zh.wikipedia.org/wiki/飯塚昭三 "wikilink")）
+    演：早川五郎（声：[飯塚昭三](../Page/飯塚昭三.md "wikilink")）
 
 ## 主題歌　
 

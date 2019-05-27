@@ -38,7 +38,7 @@ Protocol Security，简称：IPsec）隧道。
 
 ## 参见
 
-[IP交换](https://zh.wikipedia.org/wiki/IP交换 "wikilink")（IPX）
+[IP交换](../Page/IP交换.md "wikilink")（IPX）
 
 ## 参考资料
 

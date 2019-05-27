@@ -2,17 +2,17 @@
 
 ## 沿革與概要
 
-1986年5月1日[田嶋伸博自己出資於](https://zh.wikipedia.org/wiki/田嶋伸博 "wikilink")[東京都](../Page/東京都.md "wikilink")[調布市創立](../Page/調布市.md "wikilink")，創業初期製造、販售[鈴木Cultus專用的競技零件部品](https://zh.wikipedia.org/wiki/鈴木Cultus "wikilink")。雖然直到2007年鈴木公司才出資納入旗下，購入35.06%[股權](../Page/股票.md "wikilink")，不過實際上該公司以鈴木廠隊之身分長年參與競速賽事。2002年以「[鈴木Ignis
+1986年5月1日[田嶋伸博自己出資於](../Page/田嶋伸博.md "wikilink")[東京都](../Page/東京都.md "wikilink")[調布市創立](../Page/調布市.md "wikilink")，創業初期製造、販售[鈴木Cultus專用的競技零件部品](../Page/鈴木Cultus.md "wikilink")。雖然直到2007年鈴木公司才出資納入旗下，購入35.06%[股權](../Page/股票.md "wikilink")，不過實際上該公司以鈴木廠隊之身分長年參與競速賽事。2002年以「[鈴木Ignis
 Super
 1600](https://zh.wikipedia.org/wiki/鈴木Ignis#競速賽事 "wikilink")」投入[世界青年拉力錦標賽](../Page/世界青年拉力錦標賽.md "wikilink")（簡稱JWRC）的賽事，2006年以降更參加[世界拉力錦標賽](https://zh.wikipedia.org/wiki/世界拉力錦標賽 "wikilink")（簡稱WRC）。此外，以「[鈴木SX4
-WRC](https://zh.wikipedia.org/wiki/鈴木SX4#競速賽事 "wikilink")」參與WRC的[鈴木世界拉力車隊亦為該公司其中之一的團隊](https://zh.wikipedia.org/wiki/鈴木世界拉力車隊 "wikilink")\[1\]。
+WRC](https://zh.wikipedia.org/wiki/鈴木SX4#競速賽事 "wikilink")」參與WRC的[鈴木世界拉力車隊亦為該公司其中之一的團隊](../Page/鈴木世界拉力車隊.md "wikilink")\[1\]。
 
 可惜的是，受到[金融海嘯的衝擊](../Page/2007年–2008年環球金融危機.md "wikilink")，2008年12月該公司宣布退出2009年度WRC賽事\[2\]；而且鈴木公司也將鈴木運動公司的持股出售。2011年12月1日該公司將公司名稱改為「IRD公司」\[3\]。
 
 ## 內部連結
 
   - [鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")
-  - [田嶋伸博](https://zh.wikipedia.org/wiki/田嶋伸博 "wikilink")
+  - [田嶋伸博](../Page/田嶋伸博.md "wikilink")
 
 ## 參考資料
 

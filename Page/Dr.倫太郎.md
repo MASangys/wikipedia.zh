@@ -1,6 +1,6 @@
 ，是2015年4月至2015年6月於[日本電視台](../Page/日本電視台.md "wikilink")[水10時段](../Page/日本電視台週三連續劇.md "wikilink")（22:00
 -
-22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[中園美保編劇](https://zh.wikipedia.org/wiki/中園美保 "wikilink")\[1\]，[堺雅人主演](../Page/堺雅人.md "wikilink")\[2\]\[3\]。此劇亦是堺雅人初次在此時段擔任主演。
+22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[中園美保編劇](../Page/中園美保.md "wikilink")\[1\]，[堺雅人主演](../Page/堺雅人.md "wikilink")\[2\]\[3\]。此劇亦是堺雅人初次在此時段擔任主演。
 
 ## 概要
 
@@ -52,7 +52,7 @@
 
   - 宮川貴博（41）：
 
-  - 蓮見榮介（52）：[松重豐](https://zh.wikipedia.org/wiki/松重豐 "wikilink")
+  - 蓮見榮介（52）：[松重豐](../Page/松重豐.md "wikilink")
 
   - 矢部街子（29）：[真飛聖](../Page/真飛聖.md "wikilink")
 
@@ -175,7 +175,7 @@
 
 **第三話**
 
-  - 小林弓子：[宮本真希](https://zh.wikipedia.org/wiki/宮本真希 "wikilink")
+  - 小林弓子：[宮本真希](../Page/宮本真希.md "wikilink")
 
 <!-- end list -->
 
@@ -259,7 +259,7 @@
 ## 製作人員
 
   - 原案：《Therapeutic Love》（KADOKAWA）
-  - 劇本：[中園美保](https://zh.wikipedia.org/wiki/中園美保 "wikilink")、
+  - 劇本：[中園美保](../Page/中園美保.md "wikilink")、
   - 導演：[水田伸生](../Page/水田伸生.md "wikilink")、
   - 音樂：[三宅一德](../Page/三宅一德.md "wikilink")
   - 精神科醫生協助：[和田秀樹](https://zh.wikipedia.org/wiki/和田秀樹 "wikilink")
@@ -301,7 +301,7 @@
 <td><p>4月15日</p></td>
 <td><p>來吧，迷途的羔羊們！能診斷你的心嗎？<br />
 <small></small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中園美保" title="wikilink">中園美保</a></p></td>
+<td><p><a href="../Page/中園美保.md" title="wikilink">中園美保</a></p></td>
 <td><p><a href="../Page/水田伸生.md" title="wikilink">水田伸生</a></p></td>
 <td></td>
 <td></td>

@@ -22,9 +22,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     （作詞：P.O.S.、作曲：SKY BEATZ・SHIKATA・Chris Hope）
 3.  NEVER LET YOU GO (Instrumental)
 4.  REVOLVER (Instrumental)
-5.  **[HOT
-    SHOT](https://zh.wikipedia.org/wiki/HOT_SHOT "wikilink")（English
-    version）**
+5.  **[HOT SHOT](../Page/HOT_SHOT.md "wikilink")（English version）**
     （作詞：SUNNY BOY、作曲：Ricky Hanley・Kevin Charge・Hide Nakamura）
 
 ### DVD

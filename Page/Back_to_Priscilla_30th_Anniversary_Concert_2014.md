@@ -1,7 +1,7 @@
 《**Back To Priscilla 30th Anniversary Concert
 2014**》為[香港女歌手](../Page/香港.md "wikilink")[陳慧嫻自](../Page/陳慧嫻.md "wikilink")2003年離開香港樂壇後，於2013年宣布全面復出后首次在[香港體育館举行的演唱會](../Page/香港體育館.md "wikilink")，由6月19日至21日合共3場，全場爆滿，由[環球唱片旗下](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")[寶麗金發行](../Page/寶麗金.md "wikilink")。演唱會的實況專輯共收錄2CD，於2014年8月26日正式推出，銷量不俗，曾榮登香港唱片商會銷量榜週榜冠軍。而她為演唱會前出的熱身碟《[Back
 to Priscilla
-嫻情三十](https://zh.wikipedia.org/wiki/Back_to_Priscilla_嫻情三十 "wikilink")》的銷量亦不俗，在唱片商會銷量榜亦取得5週亞軍之佳績。
+嫻情三十](../Page/Back_to_Priscilla_嫻情三十.md "wikilink")》的銷量亦不俗，在唱片商會銷量榜亦取得5週亞軍之佳績。
 
 ## 演唱會曲目
 
@@ -70,12 +70,12 @@ CD 2
 
 ## 評價
 
-外界普遍對陳慧嫻全面復出後的狀態讚賞，其好友[張學友便在擔任嘉賓期間指陳慧嫻](https://zh.wikipedia.org/wiki/張學友 "wikilink")「返來了」(意指:回來了)，狀態比以往提升不少。而本次演唱會亦是鮮有地不是由《[千千闕歌](https://zh.wikipedia.org/wiki/千千闕歌 "wikilink")》作為壓軸，而是以《[傻女](https://zh.wikipedia.org/wiki/傻女 "wikilink")》作為主題。
+外界普遍對陳慧嫻全面復出後的狀態讚賞，其好友[張學友便在擔任嘉賓期間指陳慧嫻](https://zh.wikipedia.org/wiki/張學友 "wikilink")「返來了」(意指:回來了)，狀態比以往提升不少。而本次演唱會亦是鮮有地不是由《[千千闕歌](https://zh.wikipedia.org/wiki/千千闕歌 "wikilink")》作為壓軸，而是以《[傻女](../Page/傻女.md "wikilink")》作為主題。
 
 ## 銷售成績
 
 本碟在香港唱片銷量榜共上榜4週，其中取得1冠1亞1季的佳績，而連同早前推出的《[By
-Heart](../Page/By_Heart.md "wikilink")》及《[嫻情三十](https://zh.wikipedia.org/wiki/Back_to_Priscilla_嫻情三十 "wikilink")》合共在2014年上榜超過20星期，為陳慧嫻帶來大豐收的一年。
+Heart](../Page/By_Heart.md "wikilink")》及《[嫻情三十](../Page/Back_to_Priscilla_嫻情三十.md "wikilink")》合共在2014年上榜超過20星期，為陳慧嫻帶來大豐收的一年。
 
   - 唱片商會 完整走勢: **1**-\>3-\>2-\>10
 

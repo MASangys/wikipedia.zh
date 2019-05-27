@@ -1,7 +1,7 @@
 《**DANGER -Japanese
 Ver.-**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[防彈少年團的第三張日語單曲](../Page/防彈少年團.md "wikilink")，由PDOGG、、[HITMAN
 BANG](https://zh.wikipedia.org/wiki/房時赫 "wikilink")、[Rap
-Monster](../Page/金南俊.md "wikilink")、[SUGA](../Page/閔玧其.md "wikilink")、[j-hope作曲](https://zh.wikipedia.org/wiki/鄭號錫 "wikilink")、作詞，並在2014年11月19日以三個不同版本推出\[1\]。
+Monster](../Page/金南俊.md "wikilink")、[SUGA](../Page/閔玧其.md "wikilink")、[j-hope作曲](../Page/鄭號錫.md "wikilink")、作詞，並在2014年11月19日以三個不同版本推出\[1\]。
 
 ## 背景
 

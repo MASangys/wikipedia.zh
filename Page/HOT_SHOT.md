@@ -5,7 +5,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 ## 概要
 
   - 《HOT
-    SHOT》是GENERATIONS首張專輯《[GENERATIONS](https://zh.wikipedia.org/wiki/GENERATIONS_\(GENERATIONS專輯\) "wikilink")》的先行單曲。
+    SHOT》是GENERATIONS首張專輯《[GENERATIONS](../Page/GENERATIONS_\(GENERATIONS專輯\).md "wikilink")》的先行單曲。
   - A面曲《HOT
     SHOT》為[朝日電視台節目](../Page/朝日電視台.md "wikilink")《お願い\!ランキング》2013年10月度片尾曲
   - B面曲《Into You》是品牌Samantha Thavasa《Samantha Vega×Kawaii×Art》的電視廣告歌曲。
@@ -23,8 +23,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     （作詞：岡田マリア、作曲：SKY BEATZ・FAST LANE・Chris Hope・J Faith）
 3.  HOT SHOT (Instrumental)
 4.  Into You (Instrumental)
-5.  **[Love You
-    More](https://zh.wikipedia.org/wiki/Love_You_More "wikilink")（English
+5.  **[Love You More](../Page/Love_You_More.md "wikilink")（English
     version）**
     （作詞：岡田マリア、作曲：SKY BEATZ・SHIKATA・Chris Hope・J Faith）
 

@@ -62,7 +62,7 @@ Mind**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilin
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/許峻豪" title="wikilink">許峻豪</a></p></td>
+<td><p><a href="../Page/許峻豪.md" title="wikilink">許峻豪</a></p></td>
 <td><p>李建明</p></td>
 <td><p>賢誠醫院心腦血管中心主任，李英五的父親。</p></td>
 </tr>
@@ -87,7 +87,7 @@ Mind**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilin
 <td><p>賢誠醫院麻醉研究員。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/丁文晟" title="wikilink">丁文晟</a></p></td>
+<td><p><a href="../Page/丁文晟.md" title="wikilink">丁文晟</a></p></td>
 <td><p>黃正煥</p></td>
 <td><p>賢誠醫院放射學副教授。</p></td>
 </tr>
@@ -102,7 +102,7 @@ Mind**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilin
 <td><p>賢誠醫院神經外科醫生。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/河在淑" title="wikilink">河在淑</a></p></td>
+<td><p><a href="../Page/河在淑.md" title="wikilink">河在淑</a></p></td>
 <td><p>張文慶</p></td>
 <td><p>賢誠醫院PA護士，孕婦。</p></td>
 </tr>
@@ -283,7 +283,7 @@ Mind**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilin
 <td><p>賢誠醫院病患，肺癌已轉移到腦部，想要放棄治療（第2和9集）。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/許俊碩" title="wikilink">許俊碩</a></p></td>
+<td><p><a href="../Page/許俊碩.md" title="wikilink">許俊碩</a></p></td>
 <td><p>洪一凡</p></td>
 <td><p>女孩病患的爸爸（第3集）。</p></td>
 </tr>
@@ -308,7 +308,7 @@ Mind**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilin
 <td><p>桂真诚的弟弟。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/藝秀晶" title="wikilink">藝秀晶</a></p></td>
+<td><p><a href="../Page/藝秀晶.md" title="wikilink">藝秀晶</a></p></td>
 <td></td>
 <td><p>桂真诚家的鄰居奶奶，與患病的媳婦相依為命。</p></td>
 </tr>

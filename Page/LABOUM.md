@@ -1,7 +1,7 @@
 **LABOUM**（韓語：**라붐**、日語：**ラブーム**）是[NH
-Media與](https://zh.wikipedia.org/wiki/NH_Media "wikilink")[Nega
-Network合作於](https://zh.wikipedia.org/wiki/NEGANETWORK "wikilink")2014年推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，最初由6名成員組成，分别为[金柔廷](https://zh.wikipedia.org/wiki/金柔廷 "wikilink")、[鄭昭娟](https://zh.wikipedia.org/wiki/鄭昭娟 "wikilink")、[ZN](https://zh.wikipedia.org/wiki/ZN_\(LABOUM\) "wikilink")、廉海仁、[安率濱](https://zh.wikipedia.org/wiki/安率濱 "wikilink")、[金律喜](https://zh.wikipedia.org/wiki/金律喜 "wikilink")。團名「LABOUM」在法文則是代表「派對」的意思，配合團名的意義，LABOUM
-將展現有別於性感風的魅力，開創屬於她們自己的獨特風格。官方粉絲名由官咖網路票選為Latte(拿鐵)。\[1\]\[2\]成员[金律喜于](https://zh.wikipedia.org/wiki/金律喜 "wikilink")2017年11月3日退队\[3\]，現任成員为[金柔廷](https://zh.wikipedia.org/wiki/金柔廷 "wikilink")、[鄭昭娟](https://zh.wikipedia.org/wiki/鄭昭娟 "wikilink")、[ZN](https://zh.wikipedia.org/wiki/ZN_\(LABOUM\) "wikilink")、廉海仁、[安率濱](https://zh.wikipedia.org/wiki/安率濱 "wikilink")。2018年2月11日，在选秀節目《The
+Media與](../Page/NH_Media.md "wikilink")[Nega
+Network合作於](https://zh.wikipedia.org/wiki/NEGANETWORK "wikilink")2014年推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，最初由6名成員組成，分别为[金柔廷](../Page/金柔廷.md "wikilink")、[鄭昭娟](https://zh.wikipedia.org/wiki/鄭昭娟 "wikilink")、[ZN](../Page/ZN_\(LABOUM\).md "wikilink")、廉海仁、[安率濱](https://zh.wikipedia.org/wiki/安率濱 "wikilink")、[金律喜](../Page/金律喜.md "wikilink")。團名「LABOUM」在法文則是代表「派對」的意思，配合團名的意義，LABOUM
+將展現有別於性感風的魅力，開創屬於她們自己的獨特風格。官方粉絲名由官咖網路票選為Latte(拿鐵)。\[1\]\[2\]成员[金律喜于](../Page/金律喜.md "wikilink")2017年11月3日退队\[3\]，現任成員为[金柔廷](../Page/金柔廷.md "wikilink")、[鄭昭娟](https://zh.wikipedia.org/wiki/鄭昭娟 "wikilink")、[ZN](../Page/ZN_\(LABOUM\).md "wikilink")、廉海仁、[安率濱](https://zh.wikipedia.org/wiki/安率濱 "wikilink")。2018年2月11日，在选秀節目《The
 Unit》的最後一集中，ZN獲得第8名，進入期間限定團體出道。
 
 ## 經歷
@@ -68,7 +68,7 @@ Bank獲得出道以來首個一位](https://zh.wikipedia.org/wiki/Music_Bank "wi
 ### 2018年：ZN獲勝《The Unit》、第五張單曲《Between Us》、日本首張單曲《Hwi hwi》、第六張單曲《I'M YOURS》
 
 2月11日，在選秀節目《[The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》的最後一集中，ZN獲得第8名，進入期間限定團體[UNI.T出道](https://zh.wikipedia.org/wiki/UNI.T "wikilink")。
+Unit](../Page/The_Unit.md "wikilink")》的最後一集中，ZN獲得第8名，進入期間限定團體[UNI.T出道](../Page/UNI.T.md "wikilink")。
 
 7月10日，官方 Facebook 上公開了一張預告照，將以五人體制於7月24日發行單曲專輯《Between
 Us》回歸，照片以粉紅色為底，並以白色字體寫上「LABOUM」、「Between
@@ -278,7 +278,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/MISS_THIS_KISS" title="wikilink">MISS THIS KISS</a></strong>》</p>
+<td><p>《<strong><a href="../Page/MISS_THIS_KISS.md" title="wikilink">MISS THIS KISS</a></strong>》</p>
 <ul>
 <li>發行日期：2017年4月17日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -328,16 +328,16 @@ PlotData =
 
 \====電視劇原聲帶====
 
-|                                                                    |                                                              |                 |               |         |
-| ------------------------------------------------------------------ | ------------------------------------------------------------ | --------------- | ------------- | ------- |
-| 年份                                                                 | 電視劇                                                          | 歌曲              | 參與成員          | 備註      |
-| 2015年                                                              | KBS《[我們家蜜罈子](../Page/我們家蜜罈子.md "wikilink")》                  | 冰冷的愛\[14\]      | 昭娟            |         |
-| 2017年                                                              | MBC《[醫療船](https://zh.wikipedia.org/wiki/醫療船 "wikilink")》     | I Feel Love     |               |         |
-| KBS《[Jugglers](https://zh.wikipedia.org/wiki/Jugglers "wikilink")》 | Cosmic                                                       |                 |               |         |
-| 2018年                                                              | MBC《[過來抱抱我](https://zh.wikipedia.org/wiki/過來抱抱我 "wikilink")》 | Don't disappear | 柔廷、昭娟         |         |
-| XtvN《復仇筆記2》                                                        | Rise up                                                      | 柔廷              | 與JI MIN HYEOK |         |
-| 2019年                                                              | SBS《[福秀回來了](https://zh.wikipedia.org/wiki/福秀回來了 "wikilink")》 | 是愛情嗎            | 昭娟            | 與DinDin |
-| MBC 《[春天來了，春天](https://zh.wikipedia.org/wiki/春天來了，春天 "wikilink")》  | 與春天相遇                                                        | 昭娟、ZN、率濱        |               |         |
+|                                                 |                                                          |                 |               |         |
+| ----------------------------------------------- | -------------------------------------------------------- | --------------- | ------------- | ------- |
+| 年份                                              | 電視劇                                                      | 歌曲              | 參與成員          | 備註      |
+| 2015年                                           | KBS《[我們家蜜罈子](../Page/我們家蜜罈子.md "wikilink")》              | 冰冷的愛\[14\]      | 昭娟            |         |
+| 2017年                                           | MBC《[醫療船](https://zh.wikipedia.org/wiki/醫療船 "wikilink")》 | I Feel Love     |               |         |
+| KBS《[Jugglers](../Page/Jugglers.md "wikilink")》 | Cosmic                                                   |                 |               |         |
+| 2018年                                           | MBC《[過來抱抱我](../Page/過來抱抱我.md "wikilink")》                | Don't disappear | 柔廷、昭娟         |         |
+| XtvN《復仇筆記2》                                     | Rise up                                                  | 柔廷              | 與JI MIN HYEOK |         |
+| 2019年                                           | SBS《[福秀回來了](../Page/福秀回來了.md "wikilink")》                | 是愛情嗎            | 昭娟            | 與DinDin |
+| MBC 《[春天來了，春天](../Page/春天來了，春天.md "wikilink")》  | 與春天相遇                                                    | 昭娟、ZN、率濱        |               |         |
 
 #### 翻唱作品
 
@@ -398,7 +398,7 @@ PlotData =
 
 ## 音樂創作
 
-[社團法人韓國音樂著作權協會(KOMCA)登記之資料](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
+[社團法人韓國音樂著作權協會(KOMCA)登記之資料](../Page/韓國音樂著作權協會.md "wikilink")
 
 | 成員 | 登記名稱     | 登記編號     | 參與歌曲列表 |
 | -- | -------- | -------- | ------ |
@@ -417,19 +417,19 @@ PlotData =
 
 ### 電視劇
 
-| 年份                                                            | 電視台                                                                   | 電視劇名稱                                                                 | 參與成員 | 角色        | 性質  | 備註  |
-| ------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | ---- | --------- | --- | --- |
-| 2014年                                                         | [TV朝鮮](../Page/TV朝鮮.md "wikilink")                                    | 《[百年新娘](../Page/百年的新娘.md "wikilink")》                                 | 柔廷   | 李安        | 女配角 |     |
-| 2015年                                                         | Naver TV Cast                                                         | 《About Love ─ Milky Love》                                             | ZN   | 瑪麗        | 女主角 | 網路劇 |
-| 2016年                                                         | [JTBC](../Page/JTBC.md "wikilink")                                    | 《[所羅門的僞證](https://zh.wikipedia.org/wiki/所羅門的偽證_\(韓國電視劇\) "wikilink")》 | 率濱   | 李幼珍       | 女配角 |     |
-| 2017年                                                         | Bridge Ent TV                                                         | 《Love Security》                                                       | 柔廷   | 柔廷        | 女主角 | 網路劇 |
-| [Naver TV](https://zh.wikipedia.org/wiki/Naver_TV "wikilink") | 《奇怪國家的特別飲食》                                                           | 率濱                                                                    | 率濱   |           |     |     |
-| OCN                                                           | 《[Melo Holic](https://zh.wikipedia.org/wiki/Melo_Holic "wikilink")》   | 金敏貞                                                                   | 女配角  |           |     |     |
-| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")           | 《[再次重逢的世界](https://zh.wikipedia.org/wiki/再次重逢的世界_\(電視劇\) "wikilink")》 | 南順智                                                                   |      |           |     |     |
-| 2018年                                                         | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                   | 《[善良魔女傳](https://zh.wikipedia.org/wiki/善良魔女傳 "wikilink")》             | 奉千智  |           |     |     |
-| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")           | 《一閃一閃聽見的》                                                             | 李秀雅                                                                   | 女主角  | 關愛殘疾人士電視劇 |     |     |
-| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")           | 《[江南醜聞](https://zh.wikipedia.org/wiki/江南醜聞 "wikilink")》               | 海仁                                                                    | 殷素淡  | 女配角       |     |     |
-|                                                               |                                                                       |                                                                       |      |           |     |     |
+| 年份                                                            | 電視台                                                                   | 電視劇名稱                                              | 參與成員 | 角色        | 性質  | 備註  |
+| ------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------- | ---- | --------- | --- | --- |
+| 2014年                                                         | [TV朝鮮](../Page/TV朝鮮.md "wikilink")                                    | 《[百年新娘](../Page/百年的新娘.md "wikilink")》              | 柔廷   | 李安        | 女配角 |     |
+| 2015年                                                         | Naver TV Cast                                                         | 《About Love ─ Milky Love》                          | ZN   | 瑪麗        | 女主角 | 網路劇 |
+| 2016年                                                         | [JTBC](../Page/JTBC.md "wikilink")                                    | 《[所羅門的僞證](../Page/所羅門的偽證_\(韓國電視劇\).md "wikilink")》 | 率濱   | 李幼珍       | 女配角 |     |
+| 2017年                                                         | Bridge Ent TV                                                         | 《Love Security》                                    | 柔廷   | 柔廷        | 女主角 | 網路劇 |
+| [Naver TV](https://zh.wikipedia.org/wiki/Naver_TV "wikilink") | 《奇怪國家的特別飲食》                                                           | 率濱                                                 | 率濱   |           |     |     |
+| OCN                                                           | 《[Melo Holic](https://zh.wikipedia.org/wiki/Melo_Holic "wikilink")》   | 金敏貞                                                | 女配角  |           |     |     |
+| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")           | 《[再次重逢的世界](https://zh.wikipedia.org/wiki/再次重逢的世界_\(電視劇\) "wikilink")》 | 南順智                                                |      |           |     |     |
+| 2018年                                                         | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                   | 《[善良魔女傳](../Page/善良魔女傳.md "wikilink")》             | 奉千智  |           |     |     |
+| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")           | 《一閃一閃聽見的》                                                             | 李秀雅                                                | 女主角  | 關愛殘疾人士電視劇 |     |     |
+| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")           | 《[江南醜聞](../Page/江南醜聞.md "wikilink")》                                  | 海仁                                                 | 殷素淡  | 女配角       |     |     |
+|                                                               |                                                                       |                                                    |      |           |     |     |
 
 ### 音樂錄影帶
 
@@ -585,7 +585,7 @@ PlotData =
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>넘어(No More)[39]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/UNI.T" title="wikilink">UNI.T</a></p></td>
+<td><p><a href="../Page/UNI.T.md" title="wikilink">UNI.T</a></p></td>
 <td><p>ZN</p></td>
 <td><p>|</p></td>
 </tr>
@@ -671,7 +671,7 @@ PlotData =
 <tr class="even">
 <td><p>2016年11月29日－2016年12月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/LABOUM_Project" title="wikilink">LABOUM Project</a>》</p></td>
+<td><p>《<a href="../Page/LABOUM_Project.md" title="wikilink">LABOUM Project</a>》</p></td>
 <td><p>全員</p></td>
 <td><p>4集</p></td>
 </tr>

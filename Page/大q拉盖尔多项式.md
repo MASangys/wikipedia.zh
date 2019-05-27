@@ -10,9 +10,9 @@
 
 \(P_{n}(x;a,0,c;q)=P_{n}(x;a,c;q)\)
 
-  - 大q拉盖尔多项式→[小q拉盖尔多项式](https://zh.wikipedia.org/wiki/小q拉盖尔多项式 "wikilink")
+  - 大q拉盖尔多项式→[小q拉盖尔多项式](../Page/小q拉盖尔多项式.md "wikilink")
 
-在大q拉盖尔多项式中，令\(x \to  bqx\),并令\(b \to \infty\)即得[小q拉盖尔多项式](https://zh.wikipedia.org/wiki/小q拉盖尔多项式 "wikilink")
+在大q拉盖尔多项式中，令\(x \to  bqx\),并令\(b \to \infty\)即得[小q拉盖尔多项式](../Page/小q拉盖尔多项式.md "wikilink")
 \(\lim_{b \to \infty}P_{n}(bqx;a,b;q)=p_{n}(x;a|q)\)
 
   - 大→q拉盖尔多项式→[阿尔-萨拉姆-卡里兹多项式

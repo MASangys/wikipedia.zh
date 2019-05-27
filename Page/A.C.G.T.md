@@ -3,7 +3,7 @@
 
 ## 概要、沿革
 
-A.C.G.T是主要從事與[OB企劃](../Page/OB企劃.md "wikilink")、[GENCO共同企劃](https://zh.wikipedia.org/wiki/GENCO "wikilink")、動畫製作為中心的動畫工作室。
+A.C.G.T是主要從事與[OB企劃](../Page/OB企劃.md "wikilink")、[GENCO共同企劃](../Page/GENCO.md "wikilink")、動畫製作為中心的動畫工作室。
 
 2000年12月19日，由前動畫工作室的製作出身、[TRIANGLE
 STAFF的製作人安部正次郎與工作人員馬場健等人跟OB企劃建立旗下企業關係後](../Page/TRIANGLE_STAFF.md "wikilink")，在[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")[井草五丁目設立](../Page/井草.md "wikilink")。
@@ -171,7 +171,7 @@ ENTERTAINMENT的舊址](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")，數年�
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南鎌倉高校女子自行車社" title="wikilink">南鎌倉高校女子自行車社</a></p></td>
+<td><p><a href="../Page/南鎌倉高校女子自行車社.md" title="wikilink">南鎌倉高校女子自行車社</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -350,7 +350,7 @@ ENTERTAINMENT的舊址](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")，數年�
 </tr>
 <tr class="odd">
 <td><p>2003年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蒲公英之戀" title="wikilink">蒲公英之戀</a></p></td>
+<td><p><a href="../Page/蒲公英之戀.md" title="wikilink">蒲公英之戀</a></p></td>
 <td></td>
 <td><p><a href="../Page/SHAFT.md" title="wikilink">SHAFT</a></p></td>
 <td><p>遊戲</p></td>
@@ -576,7 +576,7 @@ ENTERTAINMENT的舊址](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")，數年�
 <tr class="odd">
 <td><p><a href="../Page/我，要成為雙馬尾.md" title="wikilink">我，要成為雙馬尾</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Production_IMS" title="wikilink">Production IMS</a></p></td>
+<td><p><a href="../Page/Production_IMS.md" title="wikilink">Production IMS</a></p></td>
 <td><p>小說</p></td>
 <td></td>
 <td></td>
@@ -612,7 +612,7 @@ ENTERTAINMENT的舊址](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")，數年�
 <tr class="odd">
 <td><p>2014年</p></td>
 <td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/積木戰士" title="wikilink">積木戰士</a></p></td>
+<td><p><a href="../Page/積木戰士.md" title="wikilink">積木戰士</a></p></td>
 <td></td>
 <td><p>BONES</p></td>
 <td><p>原創</p></td>
@@ -703,7 +703,7 @@ ENTERTAINMENT的舊址](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")，數年�
 <td><p>2016年</p></td>
 <td><p><a href="../Page/齊木楠雄的災難.md" title="wikilink">齊木楠雄的災難</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/EGG_FIRM" title="wikilink">EGG FIRM</a>、J.C.STAFF</p></td>
+<td><p><a href="../Page/EGG_FIRM.md" title="wikilink">EGG FIRM</a>、J.C.STAFF</p></td>
 <td></td>
 <td></td>
 <td></td>

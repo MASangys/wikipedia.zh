@@ -18,7 +18,7 @@ ENTERTAINMENT**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
   - 2007年2月1日，株式會社RADIX與Wedge Holdings的旗下企業MOBANIMATION合併後，改名為「株式會社RADIX
     MOBANIMATION（<small></small>）」。
   - 2007年12月21日，根岸弘辭任Wedge Holdings董事。
-  - 2011年6月2日，株式會社[ZERO-G](https://zh.wikipedia.org/wiki/ZERO-G "wikilink")（<small></small>，和Wedge
+  - 2011年6月2日，株式會社[ZERO-G](../Page/ZERO-G.md "wikilink")（<small></small>，和Wedge
     Holdings毫無關係）成立。根岸弘就任董事。
   - 2012年9月1日，ZERO-G取得RADIX MOBANIMATION動畫作品的所有相關版權。
 
@@ -197,7 +197,7 @@ ENTERTAINMENT**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
 </tr>
 <tr class="odd">
 <td><p>2006年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/聲優白皮書" title="wikilink">聲優白皮書</a></p></td>
+<td><p><a href="../Page/聲優白皮書.md" title="wikilink">聲優白皮書</a></p></td>
 <td></td>
 <td><p>原創</p></td>
 <td></td>
@@ -294,7 +294,7 @@ ENTERTAINMENT**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/菜菜子解體診書" title="wikilink">菜菜子解體診書</a></p></td>
+<td><p><a href="../Page/菜菜子解體診書.md" title="wikilink">菜菜子解體診書</a></p></td>
 <td></td>
 <td><p>原創</p></td>
 <td></td>
@@ -410,9 +410,9 @@ ENTERTAINMENT**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
 </tr>
 <tr class="even">
 <td><p>1999年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/D4公主" title="wikilink">D4公主朵莉絲</a></p></td>
+<td><p><a href="../Page/D4公主.md" title="wikilink">D4公主朵莉絲</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/童夢_(動畫工作室)" title="wikilink">童夢</a></p></td>
+<td><p><a href="../Page/童夢_(動畫工作室).md" title="wikilink">童夢</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -429,7 +429,7 @@ ENTERTAINMENT**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
 <tr class="even">
 <td><p>2001年</p></td>
 <td><p><a href="../Page/NOIR.md" title="wikilink">NOIR</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BEE_TRAIN" title="wikilink">BEE TRAIN</a></p></td>
+<td><p><a href="../Page/BEE_TRAIN.md" title="wikilink">BEE TRAIN</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -600,7 +600,7 @@ ENTERTAINMENT**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
 <tr class="even">
 <td><p>2002年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/.hack" title="wikilink">.hack//Liminality</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BEE_TRAIN" title="wikilink">BEE TRAIN</a></p></td>
+<td><p><a href="../Page/BEE_TRAIN.md" title="wikilink">BEE TRAIN</a></p></td>
 <td></td>
 <td></td>
 <td></td>

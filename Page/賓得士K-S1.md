@@ -8,7 +8,7 @@ K-3一樣省略光學抗混叠滤波器](https://zh.wikipedia.org/wiki/賓得士
 [FPS錄影功能](../Page/帧率.md "wikilink")。
 
 要注意的是，K-S1的體積稍大於同時期全世界體積最小、重量最輕的數位單眼相機[佳能 EOS
-100D](https://zh.wikipedia.org/wiki/佳能_EOS_100D "wikilink")\[2\]。
+100D](../Page/佳能_EOS_100D.md "wikilink")\[2\]。
 
 ## 參考資料
 

@@ -18,7 +18,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/极限竞速" title="wikilink">极限竞速</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/竞速游戏" title="wikilink">竞速</a></p></td>
 <td><p>2005年5月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a></p></td>
+<td><p><a href="../Page/Xbox.md" title="wikilink">Xbox</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/微软游戏工作室" title="wikilink">微软游戏工作室</a></p></td>
 <td></td>
 </tr>
@@ -47,7 +47,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/极限竞速_地平线" title="wikilink">极限竞速 地平线</a></p></td>
+<td><p><a href="../Page/极限竞速_地平线.md" title="wikilink">极限竞速 地平线</a></p></td>
 <td><p>2012年10月23日</p></td>
 <td><p>[1]</p></td>
 <td></td>
@@ -73,7 +73,7 @@
 <tr class="even">
 <td></td>
 <td><p>2015年9月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a>、Xbox One</p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a>、Xbox One</p></td>
 <td><p>[3]</p></td>
 <td></td>
 <td></td>

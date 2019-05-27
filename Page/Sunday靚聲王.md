@@ -113,7 +113,7 @@
 <td><p>05</p></td>
 <td><p>3月15日</p></td>
 <td><p>人人愛唱 別人的歌</p></td>
-<td><p><a href="../Page/倫永亮.md" title="wikilink">倫永亮</a>、<a href="https://zh.wikipedia.org/wiki/戴蘊慧" title="wikilink">戴蘊慧</a>、<br />
+<td><p><a href="../Page/倫永亮.md" title="wikilink">倫永亮</a>、<a href="../Page/戴蘊慧.md" title="wikilink">戴蘊慧</a>、<br />
 <a href="../Page/莫鎮賢.md" title="wikilink">莫鎮賢</a>、<a href="../Page/泳兒.md" title="wikilink">泳　兒</a>、<br />
 <a href="../Page/蔡立兒.md" title="wikilink">蔡立兒</a>、<a href="../Page/夏韶聲.md" title="wikilink">夏韶聲</a></p></td>
 <td><ul>
@@ -135,7 +135,7 @@
 <td><p>06</p></td>
 <td><p>3月22日</p></td>
 <td><p>粵語金曲 代代傳唱</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳浩德" title="wikilink">陳浩德</a>、<a href="../Page/方伊琪.md" title="wikilink">方伊琪</a>、<br />
+<td><p><a href="../Page/陳浩德.md" title="wikilink">陳浩德</a>、<a href="../Page/方伊琪.md" title="wikilink">方伊琪</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/鄭錦昌" title="wikilink">鄭錦昌</a>、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>、<br />
 <a href="../Page/鍾舒祺.md" title="wikilink">鍾舒祺</a>、<a href="../Page/鍾舒漫.md" title="wikilink">鍾舒漫</a></p></td>
 <td><ul>
@@ -292,7 +292,7 @@
 <td><p>5月31日</p></td>
 <td><p>柔柔古韻 盡在小調</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劉鳳屏" title="wikilink">劉鳳屏</a>、<a href="../Page/柳影虹.md" title="wikilink">柳影虹</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/陳浩德" title="wikilink">陳浩德</a>、<a href="../Page/李龍基.md" title="wikilink">李龍基</a>、<br />
+<a href="../Page/陳浩德.md" title="wikilink">陳浩德</a>、<a href="../Page/李龍基.md" title="wikilink">李龍基</a>、<br />
 <a href="../Page/麗莎_(歌手).md" title="wikilink">麗　莎</a></p></td>
 <td><ul>
 <li>熊熊聖火—鄭少秋（1978年無綫電視劇《<a href="../Page/倚天屠龍記_(1978年電視劇).md" title="wikilink">倚天屠龍記</a>》插曲）</li>
@@ -358,7 +358,7 @@
 <td><p>6月21日</p></td>
 <td><p>齊齊回味 登台往事</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Maria_Cordero" title="wikilink">Maria Cordero</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/李麗霞" title="wikilink">李麗霞</a>、<a href="../Page/蘇姍.md" title="wikilink">蘇姍</a>、<br />
+<a href="../Page/李麗霞.md" title="wikilink">李麗霞</a>、<a href="../Page/蘇姍.md" title="wikilink">蘇姍</a>、<br />
 <a href="../Page/張立基.md" title="wikilink">張立基</a>、<a href="https://zh.wikipedia.org/wiki/方麗盈" title="wikilink">方麗盈</a></p></td>
 <td><ul>
 <li>肥媽 Maria Cordero 送上多首金曲：義海豪情、上海灘、醉紅塵、飲勝、萬水千山緃橫</li>
@@ -398,17 +398,17 @@
 <td><p>7月5日</p></td>
 <td><p>種種劇集 靚歌相襯</p></td>
 <td><p><a href="../Page/胡渭康.md" title="wikilink">胡渭康</a>、<a href="../Page/威利_(香港).md" title="wikilink">威利</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/戴蘊慧" title="wikilink">戴蘊慧</a>、<a href="../Page/文佩玲.md" title="wikilink">文佩玲</a>、<br />
+<a href="../Page/戴蘊慧.md" title="wikilink">戴蘊慧</a>、<a href="../Page/文佩玲.md" title="wikilink">文佩玲</a>、<br />
 <a href="../Page/韋綺姍.md" title="wikilink">韋綺姍</a>、<a href="../Page/李國祥.md" title="wikilink">李國祥</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/李樂詩" title="wikilink">李樂詩</a>、<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/許廷鏗" title="wikilink">許廷鏗</a>、<a href="https://zh.wikipedia.org/wiki/林師傑" title="wikilink">林師傑</a>、<br />
 <a href="../Page/羅鈞滿.md" title="wikilink">羅鈞滿</a></p></td>
 <td><ul>
-<li>銀河—汪明荃（2015年無綫電視劇《<a href="https://zh.wikipedia.org/wiki/華麗轉身" title="wikilink">華麗轉身</a>》插曲）</li>
+<li>銀河—汪明荃（2015年無綫電視劇《<a href="../Page/華麗轉身.md" title="wikilink">華麗轉身</a>》插曲）</li>
 <li>伴我啟航—胡渭康、林師傑、羅鈞滿（1984年無綫電視劇《<a href="../Page/新紮師兄.md" title="wikilink">新紮師兄</a>》主題曲，原唱：小虎隊（香港））</li>
 <li>胸懷大志一威利（1982年無綫電視劇《<a href="https://zh.wikipedia.org/wiki/獵鷹" title="wikilink">獵鷹</a>》主題曲）</li>
 <li>心債—戴蘊慧（1982年無綫電視劇《<a href="../Page/香城浪子.md" title="wikilink">香城浪子</a>》主題曲，原唱：梅艷芳）</li>
-<li>錯在情多一文佩玲 （1987年無綫電視劇《<a href="https://zh.wikipedia.org/wiki/男兒本色_(香港電視劇)" title="wikilink">男兒本色</a>》主題曲）</li>
+<li>錯在情多一文佩玲 （1987年無綫電視劇《<a href="../Page/男兒本色_(香港電視劇).md" title="wikilink">男兒本色</a>》主題曲）</li>
 <li>愛定你一個一韋綺姍（1982年無綫電視劇《<a href="https://zh.wikipedia.org/wiki/播音人" title="wikilink">播音人</a>》主題曲，原唱：甄妮）</li>
 <li>化蝶—胡鴻鈞（2013年無綫電視劇《<a href="../Page/師父·明白了.md" title="wikilink">師父·明白了</a>》插曲)</li>
 <li>一生何求一李國祥（1989年無綫電視劇《<a href="../Page/義不容情.md" title="wikilink">義不容情</a>》主題曲，原唱：陳百強）</li>
@@ -495,7 +495,7 @@
 <td><p>女人情歌 款款愛情</p></td>
 <td><p><a href="../Page/彭家麗.md" title="wikilink">彭家麗</a>、<a href="../Page/李麗蕊.md" title="wikilink">李麗蕊</a>、<br />
 <a href="../Page/方伊琪.md" title="wikilink">方伊琪</a>、<a href="https://zh.wikipedia.org/wiki/糖妹" title="wikilink">糖妹</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/SIS樂印姊妹" title="wikilink">SIS樂印姊妹</a>、<br />
+<a href="../Page/SIS樂印姊妹.md" title="wikilink">SIS樂印姊妹</a>、<br />
 <a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>、<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a></p></td>
 <td><ul>
 <li>抱緊眼前人—鄭少秋（1997年無綫電視劇《<a href="../Page/大鬧廣昌隆_(電視劇).md" title="wikilink">大鬧廣昌隆</a>》主題曲，原唱：梅艷芳）</li>
@@ -540,7 +540,7 @@
 <td><p>9月6日</p></td>
 <td><p>電影金曲 歷歷在耳</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/張麗瑾" title="wikilink">張麗瑾</a>、<a href="../Page/洪卓立.md" title="wikilink">洪卓立</a>、<br />
-<a href="../Page/林欣彤.md" title="wikilink">林欣彤</a>、<a href="https://zh.wikipedia.org/wiki/陳浩德" title="wikilink">陳浩德</a>、<br />
+<a href="../Page/林欣彤.md" title="wikilink">林欣彤</a>、<a href="../Page/陳浩德.md" title="wikilink">陳浩德</a>、<br />
 <a href="../Page/羅鈞滿.md" title="wikilink">羅鈞滿</a>、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>、<br />
 <a href="../Page/鄭丹瑞.md" title="wikilink">鄭丹瑞</a>、<a href="../Page/袁鳳瑛.md" title="wikilink">袁鳳瑛</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/李健達" title="wikilink">李健達</a></p></td>
@@ -596,7 +596,7 @@
 <td><p><a href="../Page/胡蓓蔚.md" title="wikilink">胡蓓蔚</a>、<a href="../Page/Joe_Junior.md" title="wikilink">Joe Junior</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/Christine_Samson" title="wikilink">Christine Samson</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/Anders_Nelsson" title="wikilink">Anders Nelsson</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/張武孝" title="wikilink">大AL</a>、<a href="../Page/蘇姍.md" title="wikilink">蘇姍</a>、<br />
+<a href="../Page/張武孝.md" title="wikilink">大AL</a>、<a href="../Page/蘇姍.md" title="wikilink">蘇姍</a>、<br />
 <a href="../Page/D&#39;Topnotes.md" title="wikilink">D'Topnotes</a>、<a href="../Page/苗可秀.md" title="wikilink">苗可秀</a>、<br />
 <a href="../Page/羅孝勇.md" title="wikilink">羅孝勇</a>、<a href="../Page/譚嘉儀.md" title="wikilink">譚嘉儀</a></p></td>
 <td><ul>
@@ -674,7 +674,7 @@
 <td><p>懷舊國粵 裊裊餘音</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭錦昌" title="wikilink">鄭錦昌</a>、<a href="../Page/麗莎_(歌手).md" title="wikilink">麗莎</a>、<br />
 <a href="../Page/華娃.md" title="wikilink">華娃</a>、<a href="../Page/李龍基.md" title="wikilink">李龍基</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/姚兵" title="wikilink">姚兵</a></p></td>
+<a href="../Page/姚兵.md" title="wikilink">姚兵</a></p></td>
 <td><ul>
 <li>男兒志在四方—鄭少秋</li>
 <li>鴛鴦江—鄭錦昌</li>
@@ -698,7 +698,7 @@
 <td><p><a href="../Page/林子祥.md" title="wikilink">林子祥</a>、<a href="../Page/鄧建明.md" title="wikilink">鄧建明</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/雷有輝" title="wikilink">雷有輝</a>、<a href="../Page/徐日勤.md" title="wikilink">徐日勤</a></p></td>
 <td><ul>
-<li>最愛是誰—鄭少秋（1986年香港電影《<a href="https://zh.wikipedia.org/wiki/最爱_(1986年电影)" title="wikilink">最愛</a>》主題曲，原唱：林子祥）</li>
+<li>最愛是誰—鄭少秋（1986年香港電影《<a href="../Page/最爱_(1986年电影).md" title="wikilink">最愛</a>》主題曲，原唱：林子祥）</li>
 <li>男兒當自強—林子祥</li>
 <li>阿里巴巴—林子祥</li>
 <li>數字人生—林子祥</li>
@@ -829,12 +829,12 @@
 <td><p>35</p></td>
 <td><p>11月29日</p></td>
 <td><p>集集靚聲 止於安娜</p></td>
-<td><p><a href="../Page/雷安娜.md" title="wikilink">雷安娜</a>、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>、<a href="https://zh.wikipedia.org/wiki/邵珮詩" title="wikilink">邵珮詩</a>、<a href="../Page/許家傑.md" title="wikilink">許家傑</a>、<a href="../Page/胡渭康.md" title="wikilink">胡渭康</a></p></td>
+<td><p><a href="../Page/雷安娜.md" title="wikilink">雷安娜</a>、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>、<a href="../Page/邵珮詩.md" title="wikilink">邵珮詩</a>、<a href="../Page/許家傑.md" title="wikilink">許家傑</a>、<a href="../Page/胡渭康.md" title="wikilink">胡渭康</a></p></td>
 <td><ul>
 <li>人在旅途灑淚時—鄭少秋、雷安娜（1980年麗的電視劇《<a href="https://zh.wikipedia.org/wiki/人在江湖_(電視劇)" title="wikilink">人在江湖</a>》插曲，原唱：關正傑、雷安娜）</li>
 <li>彩雲曲—雷安娜（1982年香港電影《<a href="../Page/彩雲曲.md" title="wikilink">彩雲曲</a>》主題曲）</li>
 <li>別了憂鬱 Johnny Blue—雷安娜</li>
-<li>音樂劇，主演：<a href="https://zh.wikipedia.org/wiki/邵珮詩" title="wikilink">邵珮詩</a>、<a href="../Page/許家傑.md" title="wikilink">許家傑</a></li>
+<li>音樂劇，主演：<a href="../Page/邵珮詩.md" title="wikilink">邵珮詩</a>、<a href="../Page/許家傑.md" title="wikilink">許家傑</a></li>
 <li>暫別—雷安娜、鄭世豪 (原唱:<a href="../Page/譚詠麟.md" title="wikilink">譚詠麟</a>)</li>
 <li>無奈我心亂如麻—雷安娜</li>
 <li>停不了的愛—雷安娜、胡渭康</li>
@@ -894,7 +894,7 @@
 
 ## 獎項
 
-### [星和無綫電視大獎2015](https://zh.wikipedia.org/wiki/星和無綫電視大獎2015 "wikilink")
+### [星和無綫電視大獎2015](../Page/星和無綫電視大獎2015.md "wikilink")
 
 | 獎項              | 獲奬單位        |
 | --------------- | ----------- |
@@ -911,7 +911,7 @@
 
   - 2015年4月19日：由於19:30-23:00直播《[第三十四屆香港電影金像獎頒獎典禮](https://zh.wikipedia.org/wiki/第34屆香港電影金像獎 "wikilink")》，本節目暫停播映一次。
   - 2015年4月26日：由於20:30-21:30播映劇集《[水髮胭脂](../Page/水髮胭脂.md "wikilink")》大結局，本節目暫停播映一次。
-  - 2015年5月24日：由於20:30-22:30播映劇集《[華麗轉身](https://zh.wikipedia.org/wiki/華麗轉身 "wikilink")》兩小時大結局，本節目暫停播映一次。
+  - 2015年5月24日：由於20:30-22:30播映劇集《[華麗轉身](../Page/華麗轉身.md "wikilink")》兩小時大結局，本節目暫停播映一次。
   - 2015年7月12日：由於20:30-22:30播映劇集《[武則天](../Page/武媚娘传奇.md "wikilink")》兩小時大結局，本節目暫停播映一次。
   - 2015年8月9日：由於20:30-22:30播映劇集《[鬼同你OT](../Page/鬼同你OT.md "wikilink")》兩小時大結局，本節目暫停播映一次。
   - 2015年8月30日：由於20:30-22:40直播《[2015香港小姐競選決賽](../Page/2015年度香港小姐競選.md "wikilink")》，本節目暫停播映一次。

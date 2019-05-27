@@ -15,7 +15,7 @@ TRIBE的成員參與演出](../Page/EXILE_TRIBE.md "wikilink")\[5\]\[6\]。
   - 瀨川希一：[TAKAHIRO](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")
   - 三木洸介：[青柳翔](../Page/青柳翔.md "wikilink")
   - 佐伯春太郎：[岩田剛典](../Page/岩田剛典.md "wikilink")
-  - 德井哲平：[野替愁平](https://zh.wikipedia.org/wiki/野替愁平 "wikilink")
+  - 德井哲平：[野替愁平](../Page/野替愁平.md "wikilink")
   - 神部剛：
   - 里島透：[佐藤大樹](../Page/佐藤大樹.md "wikilink")
   - 林田典明：[黑木啟司](../Page/KEIJI.md "wikilink")

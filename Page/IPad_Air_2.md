@@ -23,7 +23,7 @@ or cellular來打網路VoIP 電話 (如果硬體支援) ，例如
 ### 硬件
 
   - CPU性能比前代提升2.5倍。
-  - 全新的20纳米级 [A8X](https://zh.wikipedia.org/wiki/Apple_A8X "wikilink")
+  - 全新的20纳米级 [A8X](../Page/Apple_A8X.md "wikilink")
     3核处理器拥有30亿晶体管，在仅1.5GHZ的频率及三核心下能发挥出惊人的效能，达到了功耗与性能的完美切合，其性能相比前代有55%的提升。
   - 最佳的抗反光塗層，螢幕反光僅有2.5%，這優異的塗層使得[藍寶石玻璃的實用性大減](https://zh.wikipedia.org/wiki/藍寶石 "wikilink")
   - iPad Air 2擁有6.1mm的極薄的機身

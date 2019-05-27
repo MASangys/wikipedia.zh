@@ -15,10 +15,8 @@
 ### ApRicoT
 
   - 2001年11月2日 DEEP VOICE
-  - 2003年7月25日 [Maple
-    Colors](https://zh.wikipedia.org/wiki/Maple_Colors "wikilink")
-  - 2004年4月30日 [Maple Colors
-    H](https://zh.wikipedia.org/wiki/Maple_Colors "wikilink")
+  - 2003年7月25日 [Maple Colors](../Page/Maple_Colors.md "wikilink")
+  - 2004年4月30日 [Maple Colors H](../Page/Maple_Colors.md "wikilink")
   - 2005年10月28日 [AYAKASHI](../Page/AYAKASHI.md "wikilink")
   - 2006年9月29日 [AYAKASHI H](../Page/AYAKASHI.md "wikilink")
   - 2008年12月26日 Maple Colors 2

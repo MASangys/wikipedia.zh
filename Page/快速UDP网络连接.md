@@ -51,11 +51,11 @@ Chrome于](../Page/Google_Chrome.md "wikilink")2012年开始开发QUIC协议并�
 
 ### 服务端
 
-截至2017年，有三种活跃维护中的实现。谷歌的服务器及谷歌发布的[原型服务器](https://code.google.com/p/chromium/codesearch#chromium/src/net/tools/quic/quic_server.cc)使用Go语言编写的[quic-go](https://github.com/lucas-clemente/quic-go)及[Caddy的试验性QUIC支持](https://zh.wikipedia.org/wiki/Caddy "wikilink")。在2017年7月11日，LiteSpeed科技正式在他们的[负载均衡](../Page/负载均衡.md "wikilink")（[WebADC](https://www.litespeedtech.com/products/litespeed-web-adc)）及
+截至2017年，有三种活跃维护中的实现。谷歌的服务器及谷歌发布的[原型服务器](https://code.google.com/p/chromium/codesearch#chromium/src/net/tools/quic/quic_server.cc)使用Go语言编写的[quic-go](https://github.com/lucas-clemente/quic-go)及[Caddy的试验性QUIC支持](../Page/Caddy.md "wikilink")。在2017年7月11日，LiteSpeed科技正式在他们的[负载均衡](../Page/负载均衡.md "wikilink")（[WebADC](https://www.litespeedtech.com/products/litespeed-web-adc)）及
 LiteSpeed 服务器中支持QUIC。截止 17 年 12 月， 97.5%的使用 QUIC 协议的网站在 LiteSpeed
 服务器中运行\[15\]。
 
-另有几种不再维护的社区产品，基于Chromium实现并且减少使用依赖的[libquic](https://github.com/devsisters/libquic)、提供libquic的Go语言绑定的[goquic](https://github.com/devsisters/goquic)、打包为[Docker镜像的用来转换为普通HTTP请求的反向代理](https://zh.wikipedia.org/wiki/Docker "wikilink")[quic-reverse-proxy](https://hub.docker.com/r/devsisters/quic-reverse-proxy/)。
+另有几种不再维护的社区产品，基于Chromium实现并且减少使用依赖的[libquic](https://github.com/devsisters/libquic)、提供libquic的Go语言绑定的[goquic](https://github.com/devsisters/goquic)、打包为[Docker镜像的用来转换为普通HTTP请求的反向代理](../Page/Docker.md "wikilink")[quic-reverse-proxy](https://hub.docker.com/r/devsisters/quic-reverse-proxy/)。
 
 ## 参见
 
@@ -83,9 +83,8 @@ LiteSpeed 服务器中支持QUIC。截止 17 年 12 月， 97.5%的使用 QUIC �
 
   - : [HTTP/3 explained](https://http3-explained.haxx.se/en/)
 
-  - [Linux Weekly
-    News](https://zh.wikipedia.org/wiki/LWN.net "wikilink"): [Connecting
-    on the QUIC](https://lwn.net/Articles/558826/) (2013)
+  - [Linux Weekly News](../Page/LWN.net.md "wikilink"): [Connecting on
+    the QUIC](https://lwn.net/Articles/558826/) (2013)
 
   - [QUIC:](https://www.ietf.org/proceedings/88/slides/slides-88-tsvarea-10.pdf),
     IETF-88 TSV Area Presentation (2013-11-07)

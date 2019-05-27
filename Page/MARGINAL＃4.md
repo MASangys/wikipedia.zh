@@ -18,7 +18,7 @@
   - 2016年3月9日第九張單曲『IV AILE』發售。
   - 2016年8月5日於Rejet新作發表會上公開手機音遊化與動畫化的消息。
   - 網路播放=  [LiTV
-    線上影視](https://zh.wikipedia.org/wiki/LiTV_線上影視 "wikilink")、[巴哈姆特動畫瘋](../Page/巴哈姆特電玩資訊站.md "wikilink")
+    線上影視](../Page/LiTV_線上影視.md "wikilink")、[巴哈姆特動畫瘋](../Page/巴哈姆特電玩資訊站.md "wikilink")
 
 ## 成員
 

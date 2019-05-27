@@ -7,11 +7,11 @@
 
 ## 极限关系
 
-[连续q哈恩多项式](https://zh.wikipedia.org/wiki/连续q哈恩多项式 "wikilink")→[Q梅西纳-帕拉泽克多项式](https://zh.wikipedia.org/wiki/Q梅西纳-帕拉泽克多项式 "wikilink")
+[连续q哈恩多项式](../Page/连续q哈恩多项式.md "wikilink")→[Q梅西纳-帕拉泽克多项式](../Page/Q梅西纳-帕拉泽克多项式.md "wikilink")
 
 \(\frac{p_{n}(cos(\theta+\phi);a,0,0,a;q)}{(q;q)_{n}}=P_{n}(cos(\theta+\phi);a|q)\)
 
-  - [阿斯基-威尔逊多项式](https://zh.wikipedia.org/wiki/阿斯基-威尔逊多项式 "wikilink")→[连续q哈恩多项式](https://zh.wikipedia.org/wiki/连续q哈恩多项式 "wikilink")
+  - [阿斯基-威尔逊多项式](../Page/阿斯基-威尔逊多项式.md "wikilink")→[连续q哈恩多项式](../Page/连续q哈恩多项式.md "wikilink")
 
 在阿斯基-威尔逊多项式中作代换\(\theta  \to  \theta+\phi\),\(a \to ae^{i\theta}\),\(b \to be^{i\theta}\),\(c \to ce^{-i\theta}\),\(d \to de^{-i\theta}\)即得连续q哈恩多项式：
 \(p_{n}(cos(\theta+\phi);ae^{i\theta},be^{i\theta},ce^{-i\theta},de^{-i\theta}|q)=p_{n}(cos(\theta+\phi),a,b,c,d;q)\)

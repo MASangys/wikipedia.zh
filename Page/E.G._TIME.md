@@ -5,7 +5,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 ## 概要
 
   - 與上一張原創專輯《[COLORFUL
-    POP](https://zh.wikipedia.org/wiki/COLORFUL_POP "wikilink")》相距約9個月。儘管發布日期是2015年1月1日，實際上已經開始從2014年12月25日在CD店出售。
+    POP](../Page/COLORFUL_POP.md "wikilink")》相距約9個月。儘管發布日期是2015年1月1日，實際上已經開始從2014年12月25日在CD店出售。
   - 收錄第9張單曲《[E.G. Anthem -WE ARE
     VENUS-](../Page/E.G._Anthem_-WE_ARE_VENUS-.md "wikilink")》至第12張單曲《[Mr.
     Snowman](../Page/Mr._Snowman.md "wikilink")》4首A面曲和4首B面曲，共8首曲目。
@@ -18,7 +18,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     〜相信奇蹟〜》是[Dream第](https://zh.wikipedia.org/wiki/Dream "wikilink")24張單曲《[如此地](https://zh.wikipedia.org/wiki/如此地 "wikilink")》的B面曲。此專輯收錄的版本以[Dream成員為主音](https://zh.wikipedia.org/wiki/Dream "wikilink")，並加入藤井夏戀、川本璃、鷲尾伶菜、市來杏香、武部柚那等作和音和伴唱。
   - 本作分「初回限定盤A（2CD+3Blu-rays）」、「初回限定盤B（2CD+3DVDs）」、「初回限定盤C（2CD+Blu-ray）」、「初回限定盤D（2CD+DVD）」和「CD盤」5種版本。
   - 專輯以雙CD發行，Disc 2為《E-girls RYDEEN Remixies》，收錄多首《[RYDEEN 〜Dance All
-    Night〜](https://zh.wikipedia.org/wiki/COLORFUL_POP "wikilink")》的混音版本
+    Night〜](../Page/COLORFUL_POP.md "wikilink")》的混音版本
   - DVD收錄了《[E.G. Anthem -WE ARE
     VENUS-](../Page/E.G._Anthem_-WE_ARE_VENUS-.md "wikilink")》、《[大家來跳舞](../Page/大家來跳舞_\(E-girls單曲\).md "wikilink")》、《[Highschool♡love](../Page/Highschool♡love.md "wikilink")》、《[Mr.
     Snowman](../Page/Mr._Snowman.md "wikilink")》、《[Move It\! -Dream &
@@ -27,7 +27,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     in 日本武道館」全曲影像及演唱會記錄片（Documentary Movie）。
   - 在1月12日於公信榜專輯週排行榜取得第1位，繼《[Lesson
     1](../Page/Lesson_1.md "wikilink")》、《[COLORFUL
-    POP](https://zh.wikipedia.org/wiki/COLORFUL_POP "wikilink")》後，連續三張專輯於排行榜取得第1位。
+    POP](../Page/COLORFUL_POP.md "wikilink")》後，連續三張專輯於排行榜取得第1位。
 
 ## 收錄內容
 
@@ -83,8 +83,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     （作詞：藤林聖子・NA.ZU.NA、作曲：NA.ZU.NA、編曲：家原正樹・NA.ZU.NA）
       -
         9th單曲、《E.G. Anthem -WE ARE VENUS-》的B面曲
-13. **[滿懷歉意的Kissing
-    You](https://zh.wikipedia.org/wiki/滿懷歉意的Kissing_You "wikilink")（E.G.
+13. **[滿懷歉意的Kissing You](../Page/滿懷歉意的Kissing_You.md "wikilink")（E.G.
     TIME version）**（）
     （作詞：Yu Shimoji、作曲・編曲：CLARABELL(RzC)）
 14. **[Follow Me](../Page/Follow_Me.md "wikilink")（E.G. TIME
@@ -120,14 +119,11 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 <!-- end list -->
 
 1.  Opening
-2.  [RYDEEN 〜Dance All
-    Night〜](https://zh.wikipedia.org/wiki/COLORFUL_POP "wikilink")
-3.  [滿懷歉意的Kissing
-    You](https://zh.wikipedia.org/wiki/滿懷歉意的Kissing_You "wikilink")
+2.  [RYDEEN 〜Dance All Night〜](../Page/COLORFUL_POP.md "wikilink")
+3.  [滿懷歉意的Kissing You](../Page/滿懷歉意的Kissing_You.md "wikilink")
 4.  [JUST IN LOVE](../Page/THE_NEVER_ENDING_STORY.md "wikilink")
 5.  [One Two Three](../Page/One_Two_Three.md "wikilink")
-6.  [Diamond
-    Only](https://zh.wikipedia.org/wiki/Diamond_Only "wikilink")
+6.  [Diamond Only](../Page/Diamond_Only.md "wikilink")
 7.  [喜歡嗎?](../Page/Follow_Me.md "wikilink") / Shizuka + 鷲尾伶菜
 8.  [離別](../Page/轉啊轉.md "wikilink") / Shizuka + 鷲尾伶菜
 9.  [JUICY LOVE](https://zh.wikipedia.org/wiki/JUICY_LOVE "wikilink") /
@@ -142,10 +138,9 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 13. [Only
     You](https://zh.wikipedia.org/wiki/Only_You_\(Dream單曲\) "wikilink")
     / Dream
-14. [白雪公主](https://zh.wikipedia.org/wiki/白雪公主_\(Flower單曲\) "wikilink") /
-    Flower
+14. [白雪公主](../Page/白雪公主_\(Flower單曲\).md "wikilink") / Flower
 15. [熱帶魚的淚](https://zh.wikipedia.org/wiki/熱帶魚的淚 "wikilink") / Flower
-16. [太陽和向日葵](https://zh.wikipedia.org/wiki/太陽和向日葵 "wikilink") / Flower
+16. [太陽和向日葵](../Page/太陽和向日葵.md "wikilink") / Flower
 
 ### DVD（Disc 3）
 
@@ -165,7 +160,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     VENUS-](../Page/E.G._Anthem_-WE_ARE_VENUS-.md "wikilink")
 9.  [高興\! 快樂\! 我愛你\!](../Page/大家來跳舞_\(E-girls單曲\).md "wikilink")
 10. [大家來跳舞](../Page/大家來跳舞_\(E-girls單曲\).md "wikilink")
-11. [約定的地方](https://zh.wikipedia.org/wiki/COLORFUL_POP "wikilink")
+11. [約定的地方](../Page/COLORFUL_POP.md "wikilink")
 
 ## 選拔成員
 

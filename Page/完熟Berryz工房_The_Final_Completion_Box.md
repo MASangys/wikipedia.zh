@@ -56,8 +56,7 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
     編曲：[馬飼野康二](https://zh.wikipedia.org/wiki/馬飼野康二 "wikilink")）
       -
         6th單曲
-7.  **[這是怎樣的戀愛 YOU
-    KNOW?](https://zh.wikipedia.org/wiki/這是怎樣的戀愛_YOU_KNOW? "wikilink")**
+7.  **[這是怎樣的戀愛 YOU KNOW?](../Page/這是怎樣的戀愛_YOU_KNOW?.md "wikilink")**
     ()
     （作詞・作曲：淳君
     編曲：[平田祥一郎](https://zh.wikipedia.org/wiki/平田祥一郎 "wikilink")）
@@ -298,8 +297,7 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
     （作詞・作曲：淳君 編曲：鈴木Daichi秀行）
       -
         6th單曲、《Special Generation》的B面曲
-7.  **[做夢](https://zh.wikipedia.org/wiki/這是怎樣的戀愛_YOU_KNOW? "wikilink")**
-    ()
+7.  **[做夢](../Page/這是怎樣的戀愛_YOU_KNOW?.md "wikilink")** ()
     （作詞・作曲：淳君 編曲：橋本由香利）
       -
         7th單曲、《這是怎樣的戀愛 YOU KNOW?》的B面曲

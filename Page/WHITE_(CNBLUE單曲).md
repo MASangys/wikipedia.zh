@@ -13,7 +13,7 @@ SPRING LIVE 2015 “WHITE”》單曲發行紀念演唱會\[6\]。
 
   - 初回限定盤A（編號：WPZL-30996/7）：這版本包括了一片收錄了《STAY SOBER》的純音樂版本的單曲CD、一片收錄《2014
     ARENA TOUR ～WAVE～@[OSAKA-JO
-    HALL](https://zh.wikipedia.org/wiki/大阪城音樂廳 "wikilink")》音樂會片段及《WHITE》[音樂錄影帶與製作花絮的DVD](../Page/音樂錄影帶.md "wikilink")\[7\]。
+    HALL](../Page/大阪城音樂廳.md "wikilink")》音樂會片段及《WHITE》[音樂錄影帶與製作花絮的DVD](../Page/音樂錄影帶.md "wikilink")\[7\]。
 
 <!-- end list -->
 

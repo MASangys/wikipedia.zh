@@ -1,5 +1,5 @@
 **奥林巴斯 OM-D E-M5**(简称**E-M5**或**EM5**)
-于2012年2月发布，属于[微4/3系统的可换镜头数码无反机型](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")。其属于新的子系列**OM-D**，外形设计和命名是向奥林巴斯的35mm[单反机型](https://zh.wikipedia.org/wiki/单反 "wikilink")[奥林巴斯OM系列致敬](https://zh.wikipedia.org/wiki/奥林巴斯OM系列 "wikilink")。
+于2012年2月发布，属于[微4/3系统的可换镜头数码无反机型](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")。其属于新的子系列**OM-D**，外形设计和命名是向奥林巴斯的35mm[单反机型](https://zh.wikipedia.org/wiki/单反 "wikilink")[奥林巴斯OM系列致敬](../Page/奥林巴斯OM系列.md "wikilink")。
 
 其继任者是于2015年2月推出的[奥林巴斯 OM-D E-M5 Mark
 II](https://zh.wikipedia.org/wiki/奥林巴斯_OM-D_E-M5_Mark_II "wikilink")。
@@ -36,7 +36,7 @@ II](https://zh.wikipedia.org/wiki/奥林巴斯_OM-D_E-M5_Mark_II "wikilink")。
 <!-- end list -->
 
   - [奥林巴斯](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")
-      - [奥林巴斯OM系列](https://zh.wikipedia.org/wiki/奥林巴斯OM系列 "wikilink")
+      - [奥林巴斯OM系列](../Page/奥林巴斯OM系列.md "wikilink")
 
 ## 参考与引用
 

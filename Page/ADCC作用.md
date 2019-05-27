@@ -3,7 +3,7 @@
 
 ## NK细胞的ADCC作用
 
-经典的ADCC作用涉及抗体对NK细胞的激活。NK细胞表面表达有分子，或称为FcγRIII，是一种，能识别并结合于抗体（如[IgG](https://zh.wikipedia.org/wiki/免疫球蛋白G "wikilink")）的Fc端，从而结合到[病原体感染的靶细胞表面](../Page/病原体.md "wikilink")。一旦Fc受体与IgG的Fc区域结合，自然杀伤细胞就会释放[细胞因子](../Page/细胞因子.md "wikilink")（如[IFN-γ](../Page/干扰素伽玛.md "wikilink")）和细胞毒性颗粒，包括[穿孔素和](https://zh.wikipedia.org/wiki/穿孔素 "wikilink")[颗粒酶](https://zh.wikipedia.org/wiki/颗粒酶 "wikilink")，进入靶细胞触发[细胞凋亡](../Page/细胞凋亡.md "wikilink")。
+经典的ADCC作用涉及抗体对NK细胞的激活。NK细胞表面表达有分子，或称为FcγRIII，是一种，能识别并结合于抗体（如[IgG](https://zh.wikipedia.org/wiki/免疫球蛋白G "wikilink")）的Fc端，从而结合到[病原体感染的靶细胞表面](../Page/病原体.md "wikilink")。一旦Fc受体与IgG的Fc区域结合，自然杀伤细胞就会释放[细胞因子](../Page/细胞因子.md "wikilink")（如[IFN-γ](../Page/干扰素伽玛.md "wikilink")）和细胞毒性颗粒，包括[穿孔素和](../Page/穿孔素.md "wikilink")[颗粒酶](../Page/颗粒酶.md "wikilink")，进入靶细胞触发[细胞凋亡](../Page/细胞凋亡.md "wikilink")。
 
 ## 嗜酸性粒细胞的ADCC作用
 

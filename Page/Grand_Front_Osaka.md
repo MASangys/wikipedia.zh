@@ -49,7 +49,7 @@ Lab、地庫的主題展覽場EVENT Lab、2樓的Suntory Whisky House、3樓可�
     （[西日本旅客鐵道（JR西日本）](../Page/西日本旅客鐵道.md "wikilink")）
   - [梅田站](../Page/梅田站.md "wikilink")
     （[大阪市營地下鐵御堂筋線](https://zh.wikipedia.org/wiki/大阪市營地下鐵御堂筋線 "wikilink")、[阪急電鉄](https://zh.wikipedia.org/wiki/阪急電鉄 "wikilink")、[阪神本線](../Page/阪神本線.md "wikilink")）
-      - [東梅田站](https://zh.wikipedia.org/wiki/東梅田站 "wikilink")
+      - [東梅田站](../Page/東梅田站.md "wikilink")
         （[大阪市營地下鐵谷町線](https://zh.wikipedia.org/wiki/大阪市營地下鐵谷町線 "wikilink")）
       - [西梅田站](../Page/西梅田站.md "wikilink")
         （[大阪市營地下鐵四つ橋線](https://zh.wikipedia.org/wiki/大阪市營地下鐵四つ橋線 "wikilink")）

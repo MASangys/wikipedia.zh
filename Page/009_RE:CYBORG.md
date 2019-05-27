@@ -32,7 +32,7 @@ RE:CYBORG**》是2012年10月27日上映的[日本](../Page/日本.md "wikilink"
   - 製作總指揮：石川光久、紀伊宗之
   - 製作人：石井朋彥
   - 製作：[Production
-    I.G](../Page/Production_I.G.md "wikilink")、[三次元](https://zh.wikipedia.org/wiki/三次元_\(動畫製作公司\) "wikilink")
+    I.G](../Page/Production_I.G.md "wikilink")、[三次元](../Page/三次元_\(動畫製作公司\).md "wikilink")
   - 發行：Production I.G、T-JOY
   - 製作商：「009 RE:CYBORG」製作委員會（[Production
     I.G](../Page/Production_I.G.md "wikilink")、T-JOY、AMAZON

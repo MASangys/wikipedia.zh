@@ -1,5 +1,5 @@
 《**Myself世界巡迴演唱會
-台北安可場**》（）是臺灣歌手[蔡依林的第六張](../Page/蔡依林.md "wikilink")[現場專輯](../Page/現場專輯.md "wikilink")，由[華納音樂於](../Page/華納音樂_\(台灣\).md "wikilink")2013年10月19日發行。該專輯內容包括蔡依林於2012年12月22日至23日於臺灣臺北市[臺北小巨蛋舉辦的](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")「[Myself世界巡迴演唱會](https://zh.wikipedia.org/wiki/Myself世界巡迴演唱會 "wikilink")」臺北安可場的現場實錄與1支音樂錄影帶；該專輯收錄的蔡依林早期歌曲獲得曾經與其簽約的三家唱片公司的授權許可，為其出道14年以來收錄最完整的巡演現場實錄\[1\]；專輯中的歌曲《[旅程](https://zh.wikipedia.org/wiki/旅程_\(蔡依林歌曲\) "wikilink")》於[Hit
+台北安可場**》（）是臺灣歌手[蔡依林的第六張](../Page/蔡依林.md "wikilink")[現場專輯](../Page/現場專輯.md "wikilink")，由[華納音樂於](../Page/華納音樂_\(台灣\).md "wikilink")2013年10月19日發行。該專輯內容包括蔡依林於2012年12月22日至23日於臺灣臺北市[臺北小巨蛋舉辦的](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")「[Myself世界巡迴演唱會](https://zh.wikipedia.org/wiki/Myself世界巡迴演唱會 "wikilink")」臺北安可場的現場實錄與1支音樂錄影帶；該專輯收錄的蔡依林早期歌曲獲得曾經與其簽約的三家唱片公司的授權許可，為其出道14年以來收錄最完整的巡演現場實錄\[1\]；專輯中的歌曲《[旅程](../Page/旅程_\(蔡依林歌曲\).md "wikilink")》於[Hit
 FM年度百首單曲排行榜位居第](../Page/Hit_FM聯播網.md "wikilink")15名\[2\]。
 
 ## 曲目

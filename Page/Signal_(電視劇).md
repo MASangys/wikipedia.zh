@@ -6,7 +6,7 @@ Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元
 故事描述一位專長心理分析的[罪犯側寫師](../Page/罪犯側寫.md "wikilink")，透過偶然拾獲的一支舊型對講機，聯繫上15年前一位作風獨特的重案組刑警，兩人橫跨古今交換線索、攜手調查被警方忽略的長年懸案。全劇藉由時空交錯的敘事手法，對於[法律追溯期的制度精神](../Page/追訴權.md "wikilink")、人性與真相的多重性、正義與人情的兩難等議題，具有相當深刻的演繹與討論。
 
 2018年由[日本](../Page/日本.md "wikilink")[關西電視台翻拍成](../Page/關西電視台.md "wikilink")《[Signal
-長期未解決事件搜查班](https://zh.wikipedia.org/wiki/Signal_長期未解決事件搜查班 "wikilink")》。
+長期未解決事件搜查班](../Page/Signal_長期未解決事件搜查班.md "wikilink")》。
 
 ## 演員陣容
 
@@ -76,7 +76,7 @@ Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元
 <td><p><strong>國語配音</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭海均" title="wikilink">鄭海均</a></p></td>
+<td><p><a href="../Page/鄭海均.md" title="wikilink">鄭海均</a></p></td>
 <td><p>安治秀</p></td>
 <td><p>40歲中旬～50歲後半，廣域搜查隊股長。首爾地方警察廳搜索局長-{zh-hk:金范周; zh-tw:金范洙;}-的棋子。</p></td>
 <td><p><a href="../Page/葉振聲.md" title="wikilink">葉振聲</a></p></td>
@@ -97,7 +97,7 @@ Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元
 <td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭涵妃" title="wikilink">鄭涵妃</a></p></td>
+<td><p><a href="../Page/鄭涵妃.md" title="wikilink">鄭涵妃</a></p></td>
 <td><p>吳允書</p></td>
 <td><p>30歲初半，國科搜法醫學者。表面上看起來高傲冷漠且性感，但近距離跟她對話就會發現其不成熟的內在。自戀狂，太率直到讓旁人難以招架。</p></td>
 <td><p><a href="../Page/張頌欣.md" title="wikilink">張頌欣</a></p></td>
@@ -217,7 +217,7 @@ Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元
 <td><p><a href="../Page/雷碧娜.md" title="wikilink">雷碧娜</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林華映" title="wikilink">林華映</a></p></td>
+<td><p><a href="../Page/林華映.md" title="wikilink">林華映</a></p></td>
 <td><p>車秀敏</p></td>
 <td><p>秀賢的妹妹。</p></td>
 <td><p><a href="../Page/劉惠雲.md" title="wikilink">劉惠雲</a></p></td>
@@ -241,7 +241,7 @@ Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元
 <td><p><a href="../Page/潘文柏.md" title="wikilink">潘文柏</a></p></td>
 </tr>
 <tr class="even">
-<td><p>{{link-ko|<a href="https://zh.wikipedia.org/wiki/黃勝妍" title="wikilink">黃勝妍</a></p></td>
+<td><p>{{link-ko|<a href="../Page/黃勝妍.md" title="wikilink">黃勝妍</a></p></td>
 <td><p>韓都妍</p></td>
 <td><p>朴海英高中同學（第13集）。</p></td>
 <td><p><a href="../Page/何璐怡.md" title="wikilink">何璐怡</a></p></td>
@@ -344,10 +344,10 @@ Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李詩雅" title="wikilink">李詩雅</a></p></td>
+<td><p><a href="../Page/李詩雅.md" title="wikilink">李詩雅</a></p></td>
 <td><p>黃敏珠</p></td>
 <td><p>公車售票員，京畿道南部連續殺人案的受害者之一。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/葉曉欣" title="wikilink">葉曉欣</a></p></td>
+<td><p><a href="../Page/葉曉欣.md" title="wikilink">葉曉欣</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -358,7 +358,7 @@ Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李詩雅" title="wikilink">李詩雅</a></p></td>
+<td><p><a href="../Page/李詩雅.md" title="wikilink">李詩雅</a></p></td>
 <td><p>金媛景/金元靜</p></td>
 <td><p>洞辦事處職員，和李材韓互相喜歡對方，京畿道南部連續殺人案的受害者之一。</p></td>
 <td><p><a href="../Page/何寶珊.md" title="wikilink">何寶珊</a></p></td>
@@ -421,10 +421,10 @@ Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴蒔恩" title="wikilink">朴蒔恩</a></p></td>
+<td><p><a href="../Page/朴蒔恩.md" title="wikilink">朴蒔恩</a></p></td>
 <td><p>吳恩智</p></td>
 <td><p>吳景泰/吳京泰的女兒，改變過去後意外死去。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/羅孔柔" title="wikilink">羅孔柔</a></p></td>
+<td><p><a href="../Page/羅孔柔.md" title="wikilink">羅孔柔</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -479,7 +479,7 @@ Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/徐恩雅" title="wikilink">徐恩雅</a></p></td>
+<td><p><a href="../Page/徐恩雅.md" title="wikilink">徐恩雅</a></p></td>
 <td><p>劉昇燕</p></td>
 <td><p>洪源洞/紅院洞連續殺人案被害者之一。</p></td>
 <td><p><a href="../Page/詹健兒.md" title="wikilink">詹健兒</a></p></td>
@@ -516,7 +516,7 @@ Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/徐志焄" title="wikilink">徐志焄</a></p></td>
+<td><p><a href="../Page/徐志焄.md" title="wikilink">徐志焄</a></p></td>
 <td><p>張太鎮</p></td>
 <td><p>仁州水泥社長的兒子，國會議員張英哲的姪兒，仁川女高中生集體性暴力事件第一個加害者。</p></td>
 <td><p><a href="../Page/鍾見麟.md" title="wikilink">鍾見麟</a></p></td>
@@ -556,7 +556,7 @@ Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元
 ### 其他搭配歌曲
 
   - 台灣[緯來戲劇台版本](../Page/緯來戲劇台.md "wikilink")
-      - 片頭曲：[光澤](https://zh.wikipedia.org/wiki/光澤_\(音樂人\) "wikilink")《上癮》
+      - 片頭曲：[光澤](../Page/光澤_\(音樂人\).md "wikilink")《上癮》
 
 ## 收視率
 

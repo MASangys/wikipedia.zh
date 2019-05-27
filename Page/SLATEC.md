@@ -1,11 +1,11 @@
 **SLATEC公用数学库**（）是包含1400多个数学及统计程序的[FORTRAN
 77程序库](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")。其由[美国政府的多个研究实验室开发](https://zh.wikipedia.org/wiki/美国政府 "wikilink")，故代码属于[公有领域](../Page/公有领域.md "wikilink")。
 
-“SLATEC”是[桑迪亚](https://zh.wikipedia.org/wiki/桑迪亚国家实验室 "wikilink")（）、[洛斯阿拉莫斯](../Page/洛斯阿拉莫斯国家实验室.md "wikilink")（）及[空军武器](https://zh.wikipedia.org/wiki/空军研究实验室 "wikilink")（）实验室技术交换委员会（）的缩写。该组织成立于1974年，致力于美国政府各实验室的计算机中心之间技术信息的交换。
+“SLATEC”是[桑迪亚](../Page/桑迪亚国家实验室.md "wikilink")（）、[洛斯阿拉莫斯](../Page/洛斯阿拉莫斯国家实验室.md "wikilink")（）及[空军武器](https://zh.wikipedia.org/wiki/空军研究实验室 "wikilink")（）实验室技术交换委员会（）的缩写。该组织成立于1974年，致力于美国政府各实验室的计算机中心之间技术信息的交换。
 
 ## 内容
 
-SLATAC库的所有程序都属于其13个子库中的一个。其中一些子库（如[BLAS](../Page/BLAS.md "wikilink")、[EIPACK](https://zh.wikipedia.org/wiki/EIPACK "wikilink")、[FFTPACK](../Page/FFTPACK.md "wikilink")、[LINPACK](https://zh.wikipedia.org/wiki/LINPACK "wikilink")、[QUADPACK等](https://zh.wikipedia.org/wiki/QUADPACK "wikilink")）是知名的独立FORTRAN程序库。下表列出了其所有子库的信息：
+SLATAC库的所有程序都属于其13个子库中的一个。其中一些子库（如[BLAS](../Page/BLAS.md "wikilink")、[EIPACK](https://zh.wikipedia.org/wiki/EIPACK "wikilink")、[FFTPACK](../Page/FFTPACK.md "wikilink")、[LINPACK](../Page/LINPACK.md "wikilink")、[QUADPACK等](https://zh.wikipedia.org/wiki/QUADPACK "wikilink")）是知名的独立FORTRAN程序库。下表列出了其所有子库的信息：
 
 |                                          |      |                                                                   |                                                                                                           |
 | ---------------------------------------- | ---- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |

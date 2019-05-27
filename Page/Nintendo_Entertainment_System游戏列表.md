@@ -378,7 +378,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="even">
 <td><p><em>Balloon Fight</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/气球大战" title="wikilink">气球大战</a></p></td>
+<td><p><a href="../Page/气球大战.md" title="wikilink">气球大战</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1986-06-03" | 1986年6月3日</p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1986-12-15" | 1986年12月15日</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -434,7 +434,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="even">
 <td><p><em>Baseball</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/棒球_(游戏)" title="wikilink">棒球</a></p></td>
+<td><p><a href="../Page/棒球_(游戏).md" title="wikilink">棒球</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1985-10-18" | 1985年10月18日</p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1986-09-01" | 1986年9月1日</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -945,7 +945,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="odd">
 <td><p><em>Clu Clu Land</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/轉轉樂園" title="wikilink">轉轉樂園</a></p></td>
+<td><p><a href="../Page/轉轉樂園.md" title="wikilink">轉轉樂園</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1985-10-18" | 1985年10月18日</p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1987-02-15" | 1987年2月15日</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -1176,7 +1176,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="even">
 <td><p><em>Devil World</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/恶魔世界" title="wikilink">恶魔世界</a></p></td>
+<td><p><a href="../Page/恶魔世界.md" title="wikilink">恶魔世界</a></p></td>
 <td></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1987-07-15" | 1987年7月15日</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -1267,7 +1267,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="odd">
 <td><p><em>Donkey Kong 3</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大金刚3" title="wikilink">大金刚3</a></p></td>
+<td><p><a href="../Page/大金刚3.md" title="wikilink">大金刚3</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1986-06" | 1986年6月</p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1987-09" | 1987年9月</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -1288,7 +1288,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="even">
 <td><p><em>Donkey Kong Jr. Math</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小金剛算數" title="wikilink">小金剛算數</a></p></td>
+<td><p><a href="../Page/小金剛算數.md" title="wikilink">小金剛算數</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1985-10-18" | 1985年10月18日</p></td>
 <td><p>1986年</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -1414,7 +1414,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="even">
 <td><p><em>Duck Hunt</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/打鸭子" title="wikilink">打鸭子</a></p></td>
+<td><p><a href="../Page/打鸭子.md" title="wikilink">打鸭子</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1985-10-18" | 1985年10月18日</p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1987-08-15" | 1987年8月15日</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">Nintendo</a></p></td>
@@ -1939,7 +1939,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="odd">
 <td><p><em>Hogan's Alley</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/警技射击" title="wikilink">警技射击</a></p></td>
+<td><p><a href="../Page/警技射击.md" title="wikilink">警技射击</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1985-10-18" | 1985年10月18日</p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1987-12-15" | 1987年12月15日</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -2730,7 +2730,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="even">
 <td><p>Mega Man 6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛克人6_史上最大戰爭！！" title="wikilink">洛克人6 史上最大戰爭！！</a></p></td>
+<td><p><a href="../Page/洛克人6_史上最大戰爭！！.md" title="wikilink">洛克人6 史上最大戰爭！！</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1994-03" | 1994年3月</p></td>
 <td></td>
 <td></td>
@@ -3185,7 +3185,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="odd">
 <td><p>Pinball</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/弹珠台_(电子游戏)" title="wikilink">弹珠台</a></p></td>
+<td><p><a href="../Page/弹珠台_(电子游戏).md" title="wikilink">弹珠台</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1985-10-18" | 1985年10月18日</p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1986-09-01" | 1986年9月1日</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -3584,7 +3584,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="even">
 <td><p>Romance of the Three Kingdoms II</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三國志II" title="wikilink">三國志II</a></p></td>
+<td><p><a href="../Page/三國志II.md" title="wikilink">三國志II</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1991-09" | 1991年9月</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/光榮" title="wikilink">光榮</a></p></td>
@@ -3997,7 +3997,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="odd">
 <td><p>StarTropics</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/StarTropics" title="wikilink">StarTropics</a></p></td>
+<td><p><a href="../Page/StarTropics.md" title="wikilink">StarTropics</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1990-12" | 1990年12月</p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1992-08-20" | 1992年8月20日</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -4620,7 +4620,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="even">
 <td><p>Urban Champion</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/街头小子" title="wikilink">街头小子</a></p></td>
+<td><p><a href="../Page/街头小子.md" title="wikilink">街头小子</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1986-08-01" | 1986年8月1日</p></td>
 <td></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -4795,7 +4795,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="odd">
 <td><p>Wizardry: Proving Grounds of the Mad Overlord</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巫术：疯狂领主的试验场" title="wikilink">巫术：疯狂领主的试验场</a></p></td>
+<td><p><a href="../Page/巫术：疯狂领主的试验场.md" title="wikilink">巫术：疯狂领主的试验场</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1990-07" | 1990年7月</p></td>
 <td></td>
 <td><p><a href="../Page/ASCII_(公司).md" title="wikilink">ASCII</a></p></td>
@@ -4858,7 +4858,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="even">
 <td><p>Wrecking Crew</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拆屋工" title="wikilink">拆屋工</a></p></td>
+<td><p><a href="../Page/拆屋工.md" title="wikilink">拆屋工</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1985-10-18" | 1985年10月18日</p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1987-10-15" | 1987年10月15日</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -4907,7 +4907,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="odd">
 <td><p>Xevious</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/铁板阵" title="wikilink">铁板阵</a></p></td>
+<td><p><a href="../Page/铁板阵.md" title="wikilink">铁板阵</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1988-09" | 1988年9月</p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1989-10-25" | 1989年10月25日</p></td>
 <td><p><a href="../Page/萬代.md" title="wikilink">萬代</a></p></td>

@@ -71,7 +71,7 @@ Japan”\[46\]。而AI也由此成为了该唱片公司旗下的“EMI Records
 Japan”的艺人。同年7月，AI的第10张专辑《MORIAGARO》正式发售\[47\]，该专辑在2013年7月29日公布的Oricon周榜中排名第5\[48\]。2014年10月，单曲〈Story〉的英语版正式发行，该曲是电影《[超能陆战队](https://zh.wikipedia.org/wiki/超能陆战队 "wikilink")》日本版的片尾曲\[49\]。
 
 2014年1月至2015年上半年，AI由于结婚以及怀孕暂停了音乐活动。2015年8月底，她产下一女后，宣布重返乐坛。\[50\]11月25日，她发布了重返乐坛后的第一张专辑《THE
-BEST》\[51\]。2016年1月，AI发布了仅限[数位音乐下载的单曲](https://zh.wikipedia.org/wiki/数位音乐下载 "wikilink")〈[每个人都是英雄](https://zh.wikipedia.org/wiki/每个人都是英雄 "wikilink")〉\[52\]，引起热烈反响，截止同年4月1日共收获大约40万次下载次数，之后该单曲收录于同年5月4日发售的精选辑《THE
+BEST》\[51\]。2016年1月，AI发布了仅限[数位音乐下载的单曲](https://zh.wikipedia.org/wiki/数位音乐下载 "wikilink")〈[每个人都是英雄](../Page/每个人都是英雄.md "wikilink")〉\[52\]，引起热烈反响，截止同年4月1日共收获大约40万次下载次数，之后该单曲收录于同年5月4日发售的精选辑《THE
 BEST》的DELUXE
 EDITION版中\[53\]。同年12月31日，AI参演了[第67届红白歌会](https://zh.wikipedia.org/wiki/第67回NHK红白歌合战 "wikilink")，这是她时隔11年再度在红白歌会中亮相，而她在歌会中演唱的正是〈每个人都是英雄〉\[54\]。
 
@@ -401,7 +401,7 @@ TOCT-40463（通常盘）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年1月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/每个人都是英雄" title="wikilink">每个人都是英雄</a><br />
+<td><p><a href="../Page/每个人都是英雄.md" title="wikilink">每个人都是英雄</a><br />
 （）</p></td>
 <td><p>原旋律取自美國民謠「稻草上的火雞」<br />
 au「三太郎系列」<a href="../Page/廣告.md" title="wikilink">廣告之一</a></p></td>
@@ -409,12 +409,12 @@ au「三太郎系列」<a href="../Page/廣告.md" title="wikilink">廣告之一
 <tr class="even">
 <td><p>2017年5月19日</p></td>
 <td><p><strong>最後は必ず正義が勝つ</strong></p></td>
-<td><p>电视剧《<a href="https://zh.wikipedia.org/wiki/紧急审讯室" title="wikilink">紧急审讯室</a>》第二季主题歌</p></td>
+<td><p>电视剧《<a href="../Page/紧急审讯室.md" title="wikilink">紧急审讯室</a>》第二季主题歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年8月1日</p></td>
 <td><p><strong>キラキラ feat. カンナ</strong></p></td>
-<td><p>电视剧《<a href="https://zh.wikipedia.org/wiki/神奈小姐" title="wikilink">神奈小姐</a>》主题歌 与该剧主演<a href="../Page/渡邊直美.md" title="wikilink">渡边直美共同演唱</a></p></td>
+<td><p>电视剧《<a href="../Page/神奈小姐.md" title="wikilink">神奈小姐</a>》主题歌 与该剧主演<a href="../Page/渡邊直美.md" title="wikilink">渡边直美共同演唱</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -828,7 +828,7 @@ Blu-ray</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2016年/<a href="https://zh.wikipedia.org/wiki/第67回NHK紅白歌合戰" title="wikilink">第67回</a></p></td>
+<td><p>2016年/<a href="../Page/第67回NHK紅白歌合戰.md" title="wikilink">第67回</a></p></td>
 <td><p>2</p></td>
 <td></td>
 <td><p>15/23</p></td>
@@ -836,7 +836,7 @@ Blu-ray</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2017年/<a href="https://zh.wikipedia.org/wiki/第68回NHK紅白歌合戰" title="wikilink">第68回</a></p></td>
+<td><p>2017年/<a href="../Page/第68回NHK紅白歌合戰.md" title="wikilink">第68回</a></p></td>
 <td><p>3</p></td>
 <td><p>キラキラ feat. カンナ</p></td>
 <td><p>4/23</p></td>

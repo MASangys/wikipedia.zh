@@ -10,7 +10,7 @@
   - [F-Zero](https://zh.wikipedia.org/wiki/F-Zero_\(游戏\) "wikilink")（1990，[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")）－2006年于Wii
     [Virtual Console再版](../Page/Virtual_Console.md "wikilink")
   - BS F-Zero
-    大奖赛（1996－1997，[Satellaview](https://zh.wikipedia.org/wiki/Satellaview "wikilink")）－包括续作《BS零式赛车
+    大奖赛（1996－1997，[Satellaview](../Page/Satellaview.md "wikilink")）－包括续作《BS零式赛车
     大奖赛2》
   - [Zero
     Racers](https://zh.wikipedia.org/wiki/Zero_Racers "wikilink")（1996，[Virtual

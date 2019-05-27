@@ -1,5 +1,5 @@
 **GFRIEND**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Source
-Music公司推出的六人女子組合](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，成員包括隊長[所願](../Page/Sowon.md "wikilink")、[睿隣](https://zh.wikipedia.org/wiki/Yerin "wikilink")、[銀河](../Page/Eunha.md "wikilink")、[裕株](../Page/Yuju.md "wikilink")、[信飛及](../Page/SinB.md "wikilink")[嚴智](../Page/Umji.md "wikilink")。2015年1月16日，GFRIEND於[Music
+Music公司推出的六人女子組合](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，成員包括隊長[所願](../Page/Sowon.md "wikilink")、[睿隣](../Page/Yerin.md "wikilink")、[銀河](../Page/Eunha.md "wikilink")、[裕株](../Page/Yuju.md "wikilink")、[信飛及](../Page/SinB.md "wikilink")[嚴智](../Page/Umji.md "wikilink")。2015年1月16日，GFRIEND於[Music
 Bank以](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")《[Glass
 Bead](../Page/Season_of_Glass.md "wikilink")》一曲正式出道\[1\]。
 
@@ -83,7 +83,7 @@ MV，《Rough》和《NAVILLERA》分別排名第2名和第10名\[42\]\[43\]。�
 ### 2017年：《The Awakening》、《PARALLEL》、《Rainbow》
 
 2月23日，公司預告將於3月6日，以第四張迷你專輯《[The
-Awakening](https://zh.wikipedia.org/wiki/The_Awakening "wikilink")》正式回歸\[46\]。2月27日公開MV預告，主打歌為《FINGERTIP》\[47\]。另外《The
+Awakening](../Page/The_Awakening.md "wikilink")》正式回歸\[46\]。2月27日公開MV預告，主打歌為《FINGERTIP》\[47\]。另外《The
 Awakening》專輯在全球的預購量超過10萬。3月6日，官方於下午12時公開主打歌《FINGERTIP》MV和《The
 Awakening》全輯音源，《FINGERTIP》亦登上韓國音源網站Bugs、Soribada、olleh、genie第一位，Melon、Mnet、Naver則登上第五位。3月9日，GFRIEND於《M\!
 Countdown》中正式回歸\[48\]。在SBS MTV的《THE SHOW》表演中，拿下《FINGERTIP》2個冠軍。《The
@@ -108,7 +108,7 @@ SHOW》、《M Countdown》共獲得2個《SUMMER RAIN》的冠軍。9月24日�
 11月12日，GFRIEND獲得MTV歐洲音樂大獎（MTV Europe Music Awards）最佳韓國藝人獎（Best Korea
 Act），為2013年設立此項以來首次得獎之女團。12月6日和8日，GFRIEND首次演唱會《[GFRIEND 1st CONCERT -
 Season of
-GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND_1st_CONCERT_-_Season_of_GFRIEND "wikilink")》的門票，在3分鐘內全數售罄\[66\]。
+GFRIEND](../Page/GFRIEND_1st_CONCERT_-_Season_of_GFRIEND.md "wikilink")》的門票，在3分鐘內全數售罄\[66\]。
 
 ### 2018年：首次單獨演唱會、日本出道、《Time For The Moon Night》、《Sunny Summer》
 
@@ -116,11 +116,11 @@ GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND_1st_CONCERT_-_Season_of_GFRIEND "
 KING RECORD CO.
 LTD.簽訂合約，預定於今年5月在日本發行出道專輯。」\[67\]\[68\]\[69\]。3月16日，日本時尚娛樂網站Modelpress報導，GFRIEND將於5月23日以推出《[今天開始的我們～GFRIEND
 1st
-BEST](https://zh.wikipedia.org/wiki/今天開始的我們～GFRIEND_1st_BEST "wikilink")》，並在日本出道。該專輯收錄了以主題曲「Me
+BEST](../Page/今天開始的我們～GFRIEND_1st_BEST.md "wikilink")》，並在日本出道。該專輯收錄了以主題曲「Me
 Gustas Tu」為首的6首GFRIEND人氣歌曲的日文版本和韓語原創歌曲\[70\]。
 
 4月17日，GFRIEND透過官方Facebook宣布將於4月30日發行第六張迷你專輯《[Time For The Moon
-Night](https://zh.wikipedia.org/wiki/Time_For_The_Moon_Night "wikilink")》\[71\]\[72\]，並於17日、18日和20日公開預告照以及個人概念照\[73\]\[74\]。4月30日，專輯的音源與主打歌MV公開\[75\]，並舉辦Showcase表演新歌。美國
+Night](../Page/Time_For_The_Moon_Night.md "wikilink")》\[71\]\[72\]，並於17日、18日和20日公開預告照以及個人概念照\[73\]\[74\]。4月30日，專輯的音源與主打歌MV公開\[75\]，並舉辦Showcase表演新歌。美國
 Billboard (告示牌) 世界專輯榜公開5月9日的週榜單 ，《Time For The Moon Night
 》獲得第6名。\[76\]5月8日於《THE
 SHOW》取得一位後，迷你六輯共獲得10個一位。4月26日，GFRIEND公開官方應援色為「彩通11-4201
@@ -128,16 +128,15 @@ SHOW》取得一位後，迷你六輯共獲得10個一位。4月26日，GFRIEND�
 紫外光」\[77\]\[78\]。6月20日，GFRIEND被選為了日本動畫電影《于離別之朝束起約定之花》在韓國的形象宣傳大使，並于7月3日在首爾出席該片的宣傳活動\[79\]。
 
 7月5日，GFRIEND透過官方Facebook及Instagram宣布將於7月19日發行夏日迷你專輯，並同時公開兩張預告畫報。7月9日，在官方Facebook上公開了回歸行程表\[80\]，並宣布夏日迷你專輯名為《[Sunny
-Summer](https://zh.wikipedia.org/wiki/Sunny_Summer "wikilink")》。7月10日，在官方
-Facebook 上公開了專輯曲目表，包含同名主打歌《Sunny Summer
+Summer](../Page/Sunny_Summer.md "wikilink")》。7月10日，在官方 Facebook
+上公開了專輯曲目表，包含同名主打歌《Sunny Summer
 (여름여름해)》在內，共收錄五首歌曲。由知名製作人二段橫踢創作，首次與二段橫踢合作\[81\]。陸續於11日、13日、15日及16日，在官方
 Facebook
 上公開了多波團體及個人概念照\[82\]，並於7月12日、17日和18日發布了MV和專輯預告\[83\]。7月29日，於《人氣歌謠》進行表演舞台後，結束宣傳。
 
 10月10日，GFRIEND發行首張日本單曲《[Memoria/夜(Time for the moon
 night)](https://zh.wikipedia.org/wiki/Memoria/夜\(Time_for_the_moon_night\) "wikilink")》的雙A面單曲。12月7日，日本官方发出消息，明年二月和三月将在日本发行双月单曲。12月17日，官方宣布，目標明年1月以正規專輯回歸。12月23日，GFRIEND透過官方Facebook及Instagram宣布將於明年1月14日發行第二張正規專輯《[Time
-for
-us](https://zh.wikipedia.org/wiki/Time_for_us "wikilink")》，並宣布主打歌名為《해야
+for us](../Page/Time_for_us.md "wikilink")》，並宣布主打歌名為《해야
 (Sunrise)》\[84\]。25日，在官方 Facebook
 公開專輯曲目表，包含主打歌與其純伴奏版，總共收錄13首歌曲\[85\]。12月29日，Source
 Music 宣布 GFRIEND 的官方 Fan cafe 已經有超過十萬人加入，並於30日發布了慶祝影片\[86\]\[87\]。
@@ -148,11 +147,11 @@ Music 宣布 GFRIEND 的官方 Fan cafe 已經有超過十萬人加入，並於3
 (해야)》的動態海報，並繼續公開多波團體及個人概念照。5日、12日及13日，在官方 Facebook 及 Youtube 上公開主打歌的 MV
 預告和專輯預告\[88\]\[89\]。
 
-1月12日，日本官方發出消息，2月13日將發行第二張日本單曲《[SUNRISE](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》。收錄第二张正规专辑《[Time
+1月12日，日本官方發出消息，2月13日將發行第二張日本單曲《[SUNRISE](../Page/SUNRISE_\(GFRIEND單曲\).md "wikilink")》。收錄第二张正规专辑《[Time
 for
-us](https://zh.wikipedia.org/wiki/Time_for_us "wikilink")》主打歌「[해야（Sunrise）](https://zh.wikipedia.org/wiki/Time_for_us "wikilink")」日文版及一首日文原創單曲「La
+us](../Page/Time_for_us.md "wikilink")》主打歌「[해야（Sunrise）](../Page/Time_for_us.md "wikilink")」日文版及一首日文原創單曲「La
 pam pam」。1月14日，第二张正规专辑《[Time for
-us](https://zh.wikipedia.org/wiki/Time_for_us "wikilink")》正式发布，專輯的音源與主打歌MV公開，並舉辦Showcase表演新歌。《Time
+us](../Page/Time_for_us.md "wikilink")》正式发布，專輯的音源與主打歌MV公開，並舉辦Showcase表演新歌。《Time
 for
 us》在台灣、香港、印尼、馬來西亞、菲律賓、泰國等9個國家的iTunes綜合專輯榜摘下冠軍。此外，主打歌《Sunrise》也在韓國的Soribada、Bugs、Naver音源榜中摘冠，在Genie也拿下亞軍，在Mnet則獲得第三名。該曲還打入了香港、馬來西亞等10個國家的iTunes綜合歌曲榜Top
 10\[90\]。22日，在The Show成功拿下《Sunrise (해야)》第一個一位。23日，在Show
@@ -163,9 +162,9 @@ Countdown拿到出道以來的第50個一位。25日，在Music
 Bank拿下《Sunrise (해야)》第四個一位。26日，在Show\! Music Core拿下《Sunrise
 (해야)》第五個一位。27日，在Inkigayo拿下《Sunrise (해야)》第六個一位。1月31日，在官方
 Facebook 及 Youtube
-上公開第二張日本單曲《[SUNRISE](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》短版MV。2月9日，公開GFRIEND日本手燈。2月13日，公開《[SUNRISE
+上公開第二張日本單曲《[SUNRISE](../Page/SUNRISE_\(GFRIEND單曲\).md "wikilink")》短版MV。2月9日，公開GFRIEND日本手燈。2月13日，公開《[SUNRISE
 (JP
-ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正式版MV。2月16日，日本官方發出消息，3月13日將發行第三張日本單曲《[FLOWER](https://zh.wikipedia.org/wiki/FLOWER "wikilink")》，並公開曲目為《FLOWER》及《Beautiful》。
+ver.)](../Page/SUNRISE_\(GFRIEND單曲\).md "wikilink")》正式版MV。2月16日，日本官方發出消息，3月13日將發行第三張日本單曲《[FLOWER](../Page/FLOWER.md "wikilink")》，並公開曲目為《FLOWER》及《Beautiful》。
 
 4月24日，公開GFRIEND二代應援手燈。
 
@@ -175,16 +174,16 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
 
   - 名字**粗體**為隊長
 
-| 成員資料 \[92\]                                             |
-| ------------------------------------------------------- |
-| 藝名                                                      |
-| 藝名                                                      |
-| **[Sowon](../Page/Sowon.md "wikilink")**                |
-| [Yerin](https://zh.wikipedia.org/wiki/Yerin "wikilink") |
-| [Eunha](../Page/Eunha.md "wikilink")                    |
-| [Yuju](../Page/Yuju.md "wikilink")                      |
-| [SinB](../Page/SinB.md "wikilink")                      |
-| [Umji](../Page/Umji.md "wikilink")                      |
+| 成員資料 \[92\]                              |
+| ---------------------------------------- |
+| 藝名                                       |
+| 藝名                                       |
+| **[Sowon](../Page/Sowon.md "wikilink")** |
+| [Yerin](../Page/Yerin.md "wikilink")     |
+| [Eunha](../Page/Eunha.md "wikilink")     |
+| [Yuju](../Page/Yuju.md "wikilink")       |
+| [SinB](../Page/SinB.md "wikilink")       |
+| [Umji](../Page/Umji.md "wikilink")       |
 
 ## 音樂作品
 
@@ -195,8 +194,7 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
 <!-- end list -->
 
   - 2016-07-11《[L.O.L](../Page/L.O.L.md "wikilink")》
-  - 2019-01-14《[Time for
-    us](https://zh.wikipedia.org/wiki/Time_for_us "wikilink")》
+  - 2019-01-14《[Time for us](../Page/Time_for_us.md "wikilink")》
 
 <!-- end list -->
 
@@ -207,12 +205,11 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
   - 2015-01-15《[Season of Glass](../Page/Season_of_Glass.md "wikilink")》
   - 2015-07-23《[Flower Bud](../Page/Flower_Bud.md "wikilink")》
   - 2016-01-25《[Snowflake](../Page/Snowflake.md "wikilink")》
-  - 2017-03-06《[The
-    Awakening](https://zh.wikipedia.org/wiki/The_Awakening "wikilink")》
+  - 2017-03-06《[The Awakening](../Page/The_Awakening.md "wikilink")》
   - 2017-08-01《[PARALLEL](https://zh.wikipedia.org/wiki/PARALLEL "wikilink")》
   - 2017-09-13《[Rainbow](https://zh.wikipedia.org/wiki/PARALLEL "wikilink")》（改版專輯）
   - 2018-04-30《[Time For The Moon
-    Night](https://zh.wikipedia.org/wiki/Time_For_The_Moon_Night "wikilink")》
+    Night](../Page/Time_For_The_Moon_Night.md "wikilink")》
 
 <!-- end list -->
 
@@ -220,8 +217,7 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
 
 <!-- end list -->
 
-  - 2018-07-19《[Sunny
-    Summer](https://zh.wikipedia.org/wiki/Sunny_Summer "wikilink")》
+  - 2018-07-19《[Sunny Summer](../Page/Sunny_Summer.md "wikilink")》
 
 ### 日語作品
 
@@ -230,7 +226,7 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
 <!-- end list -->
 
   - 2018-05-23《[今天開始的我們～GFRIEND 1st
-    BEST](https://zh.wikipedia.org/wiki/今天開始的我們～GFRIEND_1st_BEST "wikilink")》
+    BEST](../Page/今天開始的我們～GFRIEND_1st_BEST.md "wikilink")》
 
 <!-- end list -->
 
@@ -240,22 +236,21 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
 
   - 2018-10-10《[Memoria/夜(Time for the moon
     night)](https://zh.wikipedia.org/wiki/Memoria/夜\(Time_for_the_moon_night\) "wikilink")》
-  - 2019-02-13《[SUNRISE](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》
-  - 2019-03-13《[FLOWER](https://zh.wikipedia.org/wiki/FLOWER "wikilink")》
+  - 2019-02-13《[SUNRISE](../Page/SUNRISE_\(GFRIEND單曲\).md "wikilink")》
+  - 2019-03-13《[FLOWER](../Page/FLOWER.md "wikilink")》
 
 ## 影視作品
 
 ### 專屬綜藝節目
 
-  - 2015：《[GFRIEND\!
-    拜託了，小狗](https://zh.wikipedia.org/wiki/GFRIEND!_拜託了，小狗 "wikilink")》
+  - 2015：《[GFRIEND\! 拜託了，小狗](../Page/GFRIEND!_拜託了，小狗.md "wikilink")》
   - 2015：《美好的一天 Season 8》
   - 2016：《GFRIEND，去哪裡？！》
   - 2016：《[Showtime Mamamoo X
     GFriend](../Page/Showtime_Mamamoo_X_GFriend.md "wikilink")》
   - 2016：《GFRIEND所愛的歐洲》
   - 2017：《[The Friends in
-    亞得里亞海](https://zh.wikipedia.org/wiki/The_Friends_in_亞得里亞海 "wikilink")》
+    亞得里亞海](../Page/The_Friends_in_亞得里亞海.md "wikilink")》
 
 ## 出版物
 
@@ -315,33 +310,33 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
 
 ## 廣告代言
 
-| 日期                                                          | 種類                                                                        | 商品名稱                                 | 合作藝人         | 來源           |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------ | ------------ | ------------ |
-| 2015年                                                       | 休閒服飾                                                                      | 「Akiii Classic 運動鞋」                  | rowspan="17" | \[93\]\[94\] |
-| 食品                                                          | 「Hosigi Chicken 炸雞」                                                       |                                      |              |              |
-| 手機遊戲                                                        | 「[艾爾之光線上遊戲](../Page/艾爾之光.md "wikilink")」                                  |                                      |              |              |
-| 「[王牌對決線上遊戲](https://zh.wikipedia.org/wiki/王牌對決 "wikilink")」 |                                                                           |                                      |              |              |
-| 2016年                                                       | 休閒服飾                                                                      | 「NUOVO 鞋」                            |              |              |
-| 手機遊戲                                                        | 「[Talesrunner線上遊戲](https://zh.wikipedia.org/wiki/Talesrunner "wikilink")」 |                                      |              |              |
-| 休閒服飾                                                        | 「American Tourister 旅行箱」                                                  |                                      |              |              |
-| 化妝產品                                                        | 「Etude House 化妝品」                                                         |                                      |              |              |
-| 手機遊戲                                                        | 「棒球經理 手機遊戲」                                                               |                                      |              |              |
-| 線上遊戲                                                        | 「[突擊風暴線上遊戲](https://zh.wikipedia.org/wiki/突擊風暴 "wikilink")」               | \[95\]                               |              |              |
-| 食品                                                          | 「Hosigi Chicken炸雞」                                                        |                                      |              |              |
-| 手錶品牌                                                        | 「Swatch 手錶」                                                               |                                      |              |              |
-| 眼鏡品牌                                                        | 「Red Bull Eyewear 眼鏡」                                                     |                                      |              |              |
-| 線上遊戲                                                        | 「Mstar 線上遊戲」                                                              |                                      |              |              |
-| 休閒服飾                                                        | 「樂天世界水上樂園」                                                                |                                      |              |              |
-| 化妝產品                                                        | 「CLINIQUE」                                                                |                                      |              |              |
-| 應用程式                                                        | 「Poolus APP移動應用程式」                                                        |                                      |              |              |
-| 休閒服飾                                                        | 「Smart 服飾」                                                                | [防彈少年團](../Page/防彈少年團.md "wikilink") | \[96\]       |              |
-| 2017年                                                       | 電訊品牌                                                                      | 「SKtelecom T world」                  | rowspan="2"  |              |
-| 隱形眼鏡品牌                                                      | 「LENS NINE」                                                               | \[97\]                               |              |              |
-| 2018年                                                       | 電訊品牌                                                                      | 「Celebon」                            | rowspan="3"  |              |
-| 空氣清淨機品牌                                                     | 「DK 空氣清淨機」                                                                |                                      |              |              |
-| 運動鞋品牌                                                       | 「Reebok 運動鞋」                                                              | \[98\]                               |              |              |
-| 2019年                                                       | 化妝產品                                                                      | 「Innisfree 化妝品」                      | rowspan="3"  |              |
-|                                                             |                                                                           |                                      |              |              |
+| 日期                                       | 種類                                                                        | 商品名稱                                 | 合作藝人         | 來源           |
+| ---------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------ | ------------ | ------------ |
+| 2015年                                    | 休閒服飾                                                                      | 「Akiii Classic 運動鞋」                  | rowspan="17" | \[93\]\[94\] |
+| 食品                                       | 「Hosigi Chicken 炸雞」                                                       |                                      |              |              |
+| 手機遊戲                                     | 「[艾爾之光線上遊戲](../Page/艾爾之光.md "wikilink")」                                  |                                      |              |              |
+| 「[王牌對決線上遊戲](../Page/王牌對決.md "wikilink")」 |                                                                           |                                      |              |              |
+| 2016年                                    | 休閒服飾                                                                      | 「NUOVO 鞋」                            |              |              |
+| 手機遊戲                                     | 「[Talesrunner線上遊戲](https://zh.wikipedia.org/wiki/Talesrunner "wikilink")」 |                                      |              |              |
+| 休閒服飾                                     | 「American Tourister 旅行箱」                                                  |                                      |              |              |
+| 化妝產品                                     | 「Etude House 化妝品」                                                         |                                      |              |              |
+| 手機遊戲                                     | 「棒球經理 手機遊戲」                                                               |                                      |              |              |
+| 線上遊戲                                     | 「[突擊風暴線上遊戲](https://zh.wikipedia.org/wiki/突擊風暴 "wikilink")」               | \[95\]                               |              |              |
+| 食品                                       | 「Hosigi Chicken炸雞」                                                        |                                      |              |              |
+| 手錶品牌                                     | 「Swatch 手錶」                                                               |                                      |              |              |
+| 眼鏡品牌                                     | 「Red Bull Eyewear 眼鏡」                                                     |                                      |              |              |
+| 線上遊戲                                     | 「Mstar 線上遊戲」                                                              |                                      |              |              |
+| 休閒服飾                                     | 「樂天世界水上樂園」                                                                |                                      |              |              |
+| 化妝產品                                     | 「CLINIQUE」                                                                |                                      |              |              |
+| 應用程式                                     | 「Poolus APP移動應用程式」                                                        |                                      |              |              |
+| 休閒服飾                                     | 「Smart 服飾」                                                                | [防彈少年團](../Page/防彈少年團.md "wikilink") | \[96\]       |              |
+| 2017年                                    | 電訊品牌                                                                      | 「SKtelecom T world」                  | rowspan="2"  |              |
+| 隱形眼鏡品牌                                   | 「LENS NINE」                                                               | \[97\]                               |              |              |
+| 2018年                                    | 電訊品牌                                                                      | 「Celebon」                            | rowspan="3"  |              |
+| 空氣清淨機品牌                                  | 「DK 空氣清淨機」                                                                |                                      |              |              |
+| 運動鞋品牌                                    | 「Reebok 運動鞋」                                                              | \[98\]                               |              |              |
+| 2019年                                    | 化妝產品                                                                      | 「Innisfree 化妝品」                      | rowspan="3"  |              |
+|                                          |                                                                           |                                      |              |              |
 
 ## 演唱會
 
@@ -362,13 +357,13 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
 <td><p>2016</p></td>
 <td><p>1月25日</p></td>
 <td><p>GFRIEND Comeback Showcase</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="../Page/廣津區.md" title="wikilink">廣津區AK</a>-KOREA</p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/廣津區.md" title="wikilink">廣津區AK</a>-KOREA</p></td>
 <td><p>第三張迷你專輯《<a href="../Page/Snowflake.md" title="wikilink">Snowflake</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>7月11日</p></td>
 <td><p>GFRIEND L.O.L Comeback Showcase</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="../Page/廣津區.md" title="wikilink">廣津區YES</a> 24 LIVE HALL</p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/廣津區.md" title="wikilink">廣津區YES</a> 24 LIVE HALL</p></td>
 <td><p>首張正規專輯《<a href="../Page/L.O.L.md" title="wikilink">L.O.L</a>》</p></td>
 <td></td>
 </tr>
@@ -397,15 +392,15 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
 <td><p>2017</p></td>
 <td><p>8月1日</p></td>
 <td><p>GFRIEND PARALLEL Comeback Showcase</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="../Page/延世大學.md" title="wikilink">延世大學大禮堂</a></p></td>
-<td><p>第五張迷你專輯《<a href="https://zh.wikipedia.org/wiki/Parallel" title="wikilink">PARALLEL</a>》</p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/延世大學.md" title="wikilink">延世大學大禮堂</a></p></td>
+<td><p>第五張迷你專輯《<a href="../Page/Parallel.md" title="wikilink">PARALLEL</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
 <td><p>4月30日</p></td>
 <td><p>GFRIEND Time For The Moon Night Comeback Showcase</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="../Page/廣津區.md" title="wikilink">廣津區YES</a> 24 LIVE HALL</p></td>
-<td><p>第六張迷你專輯《<a href="https://zh.wikipedia.org/wiki/Time_For_The_Moon_Night" title="wikilink">Time For The Moon Night</a>》</p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/廣津區.md" title="wikilink">廣津區YES</a> 24 LIVE HALL</p></td>
+<td><p>第六張迷你專輯《<a href="../Page/Time_For_The_Moon_Night.md" title="wikilink">Time For The Moon Night</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>5月23日</p></td>
@@ -420,8 +415,8 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
 <td><p>2019</p></td>
 <td><p>1月14日</p></td>
 <td><p>GFRIEND The 2nd Album Comeback Showcase</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="../Page/廣津區.md" title="wikilink">廣津區YES</a> 24 LIVE HALL</p></td>
-<td><p>第二張正規專輯《<a href="https://zh.wikipedia.org/wiki/Time_for_us" title="wikilink">Time for us</a>》</p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/廣津區.md" title="wikilink">廣津區YES</a> 24 LIVE HALL</p></td>
+<td><p>第二張正規專輯《<a href="../Page/Time_for_us.md" title="wikilink">Time for us</a>》</p></td>
 </tr>
 </tbody>
 </table>
@@ -443,7 +438,7 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
 <td><p>2017</p></td>
 <td><p>4月2日</p></td>
 <td><p>GFriend The First Fanmeeting - Dear Buddy</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="../Page/奧林匹克公園_(首爾).md" title="wikilink">奧林匹克公園</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/奧林匹克公園_(首爾).md" title="wikilink">奧林匹克公園</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -457,7 +452,7 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
 <td><p>2019</p></td>
 <td><p>2月10日</p></td>
 <td><p>GFRIEND The 2nd FAN MEETING Dear. Buddy - Cross the Sunset</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="../Page/奧林匹克公園_(首爾).md" title="wikilink">奧林匹克公園</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/奧林匹克公園_(首爾).md" title="wikilink">奧林匹克公園</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -502,7 +497,7 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
 </table>
 
   - GFRIEND首場單獨演唱會《[GFRIEND 1st CONCERT - Season of
-    GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND_1st_CONCERT_-_Season_of_GFRIEND "wikilink")》
+    GFRIEND](../Page/GFRIEND_1st_CONCERT_-_Season_of_GFRIEND.md "wikilink")》
 
 <table>
 <thead>
@@ -779,14 +774,14 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
 <tr class="even">
 <td><p>9月30日</p></td>
 <td><p>韓流慶典 K-POP演唱會</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="../Page/江南區_(首爾).md" title="wikilink">江南區永東大路</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/江南區_(首爾).md" title="wikilink">江南區永東大路</a></p></td>
 <td><p>音樂銀行特輯</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>10月22日</p></td>
 <td><p>2016樂天FAMILY演唱會</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="https://zh.wikipedia.org/wiki/蠶室綜合運動場" title="wikilink">蠶室綜合運動場</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="https://zh.wikipedia.org/wiki/蠶室綜合運動場" title="wikilink">蠶室綜合運動場</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -814,7 +809,7 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
 <tr class="odd">
 <td><p>9月20日</p></td>
 <td><p>2017 SORIBADA BEST K-MUSIC AWARDS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="https://zh.wikipedia.org/wiki/蠶室綜合運動場" title="wikilink">蠶室綜合運動場</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="https://zh.wikipedia.org/wiki/蠶室綜合運動場" title="wikilink">蠶室綜合運動場</a></p></td>
 <td><p>SBS MTV生放送</p></td>
 <td></td>
 </tr>
@@ -828,7 +823,7 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
 <tr class="odd">
 <td><p>10月1日</p></td>
 <td><p>2017 Fandom School Korea Music Festival</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="https://zh.wikipedia.org/wiki/高尺天空巨蛋" title="wikilink">高尺天空巨蛋</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/高尺天空巨蛋.md" title="wikilink">高尺天空巨蛋</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -957,7 +952,7 @@ ver.)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\) "wikilink")》正
 <td><p>12月9日</p></td>
 <td><p>2018 K City Camps</p></td>
 <td><p>雅加達</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/CLC" title="wikilink">CLC共同出演</a></p></td>
+<td><p>與<a href="../Page/CLC.md" title="wikilink">CLC共同出演</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1003,7 +998,7 @@ SHOW;zh-hans:韓秀榜}-](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》�
 <td><p>2017年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Awakening" title="wikilink">The Awakening</a></p></td>
+<td><p><a href="../Page/The_Awakening.md" title="wikilink">The Awakening</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/PARALLEL" title="wikilink">PARALLEL</a></p></td>
@@ -1015,16 +1010,16 @@ SHOW;zh-hans:韓秀榜}-](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》�
 <td><p>2018年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Time_For_The_Moon_Night" title="wikilink">Time For The Moon Night</a></p></td>
+<td><p><a href="../Page/Time_For_The_Moon_Night.md" title="wikilink">Time For The Moon Night</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Sunny_Summer" title="wikilink">Sunny Summer</a></p></td>
+<td><p><a href="../Page/Sunny_Summer.md" title="wikilink">Sunny Summer</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Time_for_us" title="wikilink">Time for us</a></p></td>
+<td><p><a href="../Page/Time_for_us.md" title="wikilink">Time for us</a></p></td>
 </tr>
 <tr class="odd">
 <td><ul>

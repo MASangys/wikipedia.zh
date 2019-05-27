@@ -68,8 +68,7 @@ ReWalk需經專業復健科醫師診端評估是否適用，經各項檢測評�
     startupbeat, April 20, 2015
 5.  [The 25 Best Inventions of the
     Year 2013](http://techland.time.com/2013/11/14/the-25-best-inventions-of-the-year-2013/slide/rewalk/)
-    ,[時代雜誌](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink"), Nov. 13,
-    2013
+    ,[時代雜誌](../Page/時代雜誌.md "wikilink"), Nov. 13, 2013
 6.  ["'Rewalk' bionic legs get FDA
     approval"](http://www.news.com.au/technology/rewalk-bionic-legs-get-fda-approval/story-e6frfro0-1225989332272).
     News.com.au. 17 January 2011. Retrieved 13 May 2012.

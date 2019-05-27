@@ -18,7 +18,7 @@ Drama播放的水木迷你劇](../Page/韓國放送公社.md "wikilink")。本�
   - [張殷豐](https://zh.wikipedia.org/wiki/張殷豐 "wikilink") 飾演 周基燦
   - [安勝勛](https://zh.wikipedia.org/wiki/安勝勛 "wikilink") 飾演 安社長
   - [朴樹榮](https://zh.wikipedia.org/wiki/朴樹榮 "wikilink") 飾演 沈石峰
-  - [吉海妍](https://zh.wikipedia.org/wiki/吉海妍 "wikilink") 飾演 馬女士
+  - [吉海妍](../Page/吉海妍.md "wikilink") 飾演 馬女士
   - [金河宥](https://zh.wikipedia.org/wiki/金河宥 "wikilink") 飾演 徐河露
   - [裴康宥](https://zh.wikipedia.org/wiki/裴康宥 "wikilink") 飾演 李宗民
 

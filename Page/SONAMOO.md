@@ -1,5 +1,5 @@
 **SONAMOO**（）是[TS
-Entertainment於](https://zh.wikipedia.org/wiki/TS_Entertainment "wikilink")2014年底推出的七人女子組合，成員包含[受玟](https://zh.wikipedia.org/wiki/池受玟 "wikilink")、[旼宰](https://zh.wikipedia.org/wiki/旼宰 "wikilink")、[D.ana](https://zh.wikipedia.org/wiki/曹恩愛 "wikilink")、[娜玹](https://zh.wikipedia.org/wiki/金娜炫 "wikilink")、[宜珍](https://zh.wikipedia.org/wiki/宜珍_\(SONAMOO\) "wikilink")、[High.D及](https://zh.wikipedia.org/wiki/金到姬 "wikilink")[New
+Entertainment於](https://zh.wikipedia.org/wiki/TS_Entertainment "wikilink")2014年底推出的七人女子組合，成員包含[受玟](../Page/池受玟.md "wikilink")、[旼宰](../Page/旼宰.md "wikilink")、[D.ana](../Page/曹恩愛.md "wikilink")、[娜玹](../Page/金娜炫.md "wikilink")、[宜珍](../Page/宜珍_\(SONAMOO\).md "wikilink")、[High.D及](https://zh.wikipedia.org/wiki/金到姬 "wikilink")[New
 Sun等七人](https://zh.wikipedia.org/wiki/崔允瑄 "wikilink")。2014年12月29日發行首張迷你專輯《Deja
 Vu》，並於同日舉辦出道SHOWCASE，2015年1月2日於[Music
 Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
@@ -19,7 +19,7 @@ IT》MV中客串。宜珍在B.A.P的電視節目《Ta-Dah\! It's B.A.P》EP4及E
 2013年，High.D在[Untouchable迷你](https://zh.wikipedia.org/wiki/Untouchable_\(南韓組合\) "wikilink")4輯收錄的《Keep
 In Touch》以本名到姬合唱。
 
-2014年，受玟、娜玹在電視劇《[能看見鬼的警察處容](https://zh.wikipedia.org/wiki/能看見鬼的警察處容 "wikilink")》EP4中分別飾演叫鄭妍珠及朴澀琪的女學生。宜珍在Untouchable的《TAKE
+2014年，受玟、娜玹在電視劇《[能看見鬼的警察處容](../Page/能看見鬼的警察處容.md "wikilink")》EP4中分別飾演叫鄭妍珠及朴澀琪的女學生。宜珍在Untouchable的《TAKE
 OUT》音樂節目現場中客串。受玟、娜玹在B.A.P的《1004》MV中客串。
 
 ### 2014年：《Deja Vu》時期
@@ -137,7 +137,7 @@ Sun也將參與填詞\[9\]。
 8月14日，正式发布數位单曲《HAPPY BOX PART.1》與主打歌《금요일밤（周五晚上）》音源與MV。
 
 欲在9月發佈的《HAPPY BOX PART.2》因成员宜珍将于10月份参加選秀节目《[The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》而推迟发布。
+Unit](../Page/The_Unit.md "wikilink")》而推迟发布。
 
 10月24日，官方在Twitter账号上发布《HAPPY BOX PART.2》的成员预览照。\[19\]。
 
@@ -146,7 +146,7 @@ Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》而推迟发布。
 ### 2018年：宜珍成功出道
 
 2月11日，在选秀節目《The
-Unit》的最後一集中，宜珍獲得第1名，進入期間限定團體[UNI.T出道](https://zh.wikipedia.org/wiki/UNI.T "wikilink")。10月12日，從UNI.T活動完結歸隊。
+Unit》的最後一集中，宜珍獲得第1名，進入期間限定團體[UNI.T出道](../Page/UNI.T.md "wikilink")。10月12日，從UNI.T活動完結歸隊。
 
 ## 成員資料
 

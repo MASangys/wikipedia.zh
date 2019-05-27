@@ -7,7 +7,7 @@ ADIPOR1和[G蛋白偶联受体](../Page/G蛋白偶联受体.md "wikilink")（GPC
 
 ## 功能
 
-[脂联素的受体](../Page/脂联素.md "wikilink")，ADIPOR1和[ADIPOR2](https://zh.wikipedia.org/wiki/ADIPOR2 "wikilink")，能应答球状或全长的脂联素信号，促使和配体活性增加，以及[脂肪酸的氧化和葡萄糖摄取](../Page/脂肪酸.md "wikilink")\[3\]\[4\]。
+[脂联素的受体](../Page/脂联素.md "wikilink")，ADIPOR1和[ADIPOR2](../Page/ADIPOR2.md "wikilink")，能应答球状或全长的脂联素信号，促使和配体活性增加，以及[脂肪酸的氧化和葡萄糖摄取](../Page/脂肪酸.md "wikilink")\[3\]\[4\]。
 
 ## 参考文献
 

@@ -8,7 +8,7 @@
 
 ## 拉丁語與
 
-與是[同義詞](https://zh.wikipedia.org/wiki/同義詞 "wikilink")，因此在漢語中，都被譯為教義。但這兩個單字，在不同教派中，可能有不同涵義。又可被譯為[教理](https://zh.wikipedia.org/wiki/教理 "wikilink")。
+與是[同義詞](https://zh.wikipedia.org/wiki/同義詞 "wikilink")，因此在漢語中，都被譯為教義。但這兩個單字，在不同教派中，可能有不同涵義。又可被譯為[教理](../Page/教理.md "wikilink")。
 
 一般來說，[天主教認為](../Page/天主教.md "wikilink")，教義（）是一種經過正式會議肯定過的信仰內容，而教理（doctrina）只是由教會或是某個導師，根據教義（），進一步歸結出的非正式信仰原理，可以作為教育信徒之用，但是具備較低的權威性。但是這個定義不一定適用於[基督教新教教會](https://zh.wikipedia.org/wiki/基督教新教 "wikilink")。包括[原罪](../Page/原罪.md "wikilink")、[三位一體等](../Page/三位一體.md "wikilink")，都被視為是一個教理（doctrine）。
 
@@ -24,7 +24,7 @@ and Covenants）。因為跟Dogma的意義相近，也因此在漢語中使用�
 doctrina被應用在拉丁文《新約》的翻譯上。對應到希臘文新約，可以對應到不同的希臘文名詞，如在《提摩太前書》中，doctrina對應到（didaskalia），其字義為教訓；但在《提摩太後書》，也被譯為doctrina。一般來說，在中世紀，doctrina被理解為[基督教的基本原理及學說](../Page/基督教.md "wikilink")，並進入歐洲各語言中。經由拉丁語及法語，在14世紀時首次進入[中古英語](https://zh.wikipedia.org/wiki/中古英語 "wikilink")，成為。另外進入英語，成為[教義問答](https://zh.wikipedia.org/wiki/教義問答 "wikilink")（）的字根。
 
 ，在《[欽定版聖經](https://zh.wikipedia.org/wiki/欽定版聖經 "wikilink")》（King James
-Bible）中，對應到這個名詞，被用來指[基督的教導](../Page/基督.md "wikilink")\[10\]、宗教及道德上的教導，被譯為[教理](https://zh.wikipedia.org/wiki/教理 "wikilink")\[11\]，[教義](https://zh.wikipedia.org/wiki/教義 "wikilink")\[12\]，道理\[13\]，教訓\[14\]，或訓誨\[15\]。
+Bible）中，對應到這個名詞，被用來指[基督的教導](../Page/基督.md "wikilink")\[10\]、宗教及道德上的教導，被譯為[教理](../Page/教理.md "wikilink")\[11\]，[教義](https://zh.wikipedia.org/wiki/教義 "wikilink")\[12\]，道理\[13\]，教訓\[14\]，或訓誨\[15\]。
 
 在天主教會中，以[信理部](../Page/信理部.md "wikilink")（）負責天主教教義的一致與純正。天主教會與新教會之間，也針對於不同教義間進行交流，並發表聯合聲明。例如在1999年發布的《[關於稱義教義的聯合聲明](https://zh.wikipedia.org/wiki/關於稱義教義的聯合聲明 "wikilink")》（）。
 

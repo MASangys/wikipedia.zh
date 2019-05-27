@@ -1,7 +1,7 @@
 《**I'm home**》（），為日本漫畫家創作的日本漫畫，1997年7月至1998年12月於小學館「BIG COMIC
 ORIGINAL」連載。1999年2月發行上下集單行本漫畫。2004年由[NHK改編為連續劇](https://zh.wikipedia.org/wiki/NHK "wikilink")《I'm
 home
-遙遠的返家之路》（）\[1\]，由[淺野妙子編劇](https://zh.wikipedia.org/wiki/淺野妙子 "wikilink")，真鍋齋、本木一博執導，[時任三郎](../Page/時任三郎.md "wikilink")、及主演，全劇共24集。2015年4月由[朝日電視台改編為連續劇](../Page/朝日電視台.md "wikilink")，全劇共10集。本條目僅介紹2015版改編連續劇。
+遙遠的返家之路》（）\[1\]，由[淺野妙子編劇](../Page/淺野妙子.md "wikilink")，真鍋齋、本木一博執導，[時任三郎](../Page/時任三郎.md "wikilink")、及主演，全劇共24集。2015年4月由[朝日電視台改編為連續劇](../Page/朝日電視台.md "wikilink")，全劇共10集。本條目僅介紹2015版改編連續劇。
 
 ## 內容概要
 
@@ -73,7 +73,7 @@ home**》（）自4月16日起每週四晚間9:00－9:54於[朝日電視台](../
 
 <!-- end list -->
 
-  - 小鳥遊優愛：[吉本實憂](../Page/吉本實憂.md "wikilink")（香港配音：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")）
+  - 小鳥遊優愛：[吉本實憂](../Page/吉本實憂.md "wikilink")（香港配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）
 
 <!-- end list -->
 
@@ -154,7 +154,7 @@ home**》（）自4月16日起每週四晚間9:00－9:54於[朝日電視台](../
 
 #### 其他人物
 
-  - 本城剛：[田中圭](https://zh.wikipedia.org/wiki/田中圭 "wikilink")（香港配音：[李鎮然](../Page/李鎮然.md "wikilink")）
+  - 本城剛：[田中圭](../Page/田中圭.md "wikilink")（香港配音：[李鎮然](../Page/李鎮然.md "wikilink")）
 
 <!-- end list -->
 

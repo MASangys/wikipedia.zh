@@ -54,7 +54,7 @@ BookStore](../Page/Culture_Convenience_Club.md "wikilink")
 ## 影城和飯店
 
   - 南港店有[六福萬怡酒店和](https://zh.wikipedia.org/wiki/六福萬怡酒店 "wikilink")[喜樂時代影城](../Page/喜樂時代影城.md "wikilink")\[9\]。
-  - 松山店有國賓大飯店台北松山[意舍酒店](https://zh.wikipedia.org/wiki/意舍酒店 "wikilink")\[10\]\[11\]。
+  - 松山店有國賓大飯店台北松山[意舍酒店](../Page/意舍酒店.md "wikilink")\[10\]\[11\]。
 
 ## 營業時間
 

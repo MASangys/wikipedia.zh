@@ -139,7 +139,7 @@ out作品《[人造人间电脑黑魔](../Page/电脑黑魔.md "wikilink")》是
   - [人造人间电脑黑魔](../Page/电脑黑魔.md "wikilink")
   - [假面骑士铠武](https://zh.wikipedia.org/wiki/假面骑士铠武 "wikilink")
   - [人造人间](https://zh.wikipedia.org/wiki/电脑奇侠#动画 "wikilink")
-  - [电脑奇侠](https://zh.wikipedia.org/wiki/电脑奇侠 "wikilink")
+  - [电脑奇侠](../Page/电脑奇侠.md "wikilink")
 
 [Category:石之森章太郎](https://zh.wikipedia.org/wiki/Category:石之森章太郎 "wikilink")
 [Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink")

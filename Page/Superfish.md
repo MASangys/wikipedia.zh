@@ -14,7 +14,7 @@ Slate雜誌的一名編輯David Auerbach亦表示「安裝Superfish是一間科�
 
 基於安全考量，資安專家建議購買聯想產品者「重新安裝Windows系統」\[13\]。
 
-2017年9月，联想与美国[联邦贸易委员会](https://zh.wikipedia.org/wiki/联邦贸易委员会 "wikilink")（FTC）就此事引发的[集体诉讼达成和解](https://zh.wikipedia.org/wiki/集体诉讼 "wikilink")，同意支付350万美元，并且在未来[预装软件前须征得消费者同意](https://zh.wikipedia.org/wiki/预装 "wikilink")\[14\]。
+2017年9月，联想与美国[联邦贸易委员会](https://zh.wikipedia.org/wiki/联邦贸易委员会 "wikilink")（FTC）就此事引发的[集体诉讼达成和解](../Page/集体诉讼.md "wikilink")，同意支付350万美元，并且在未来[预装软件前须征得消费者同意](https://zh.wikipedia.org/wiki/预装 "wikilink")\[14\]。
 
 ## 参考文献
 

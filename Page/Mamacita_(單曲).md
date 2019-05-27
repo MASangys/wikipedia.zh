@@ -5,7 +5,7 @@ trax發售。\[1\]\[2\]
 ## 概要
 
 [Super
-Junior第六張日語單曲](../Page/Super_Junior.md "wikilink")《Mamacita》是該組合第七張韓語正規專輯主打曲《[Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink")》的日語版本，一共收錄了兩首歌曲。
+Junior第六張日語單曲](../Page/Super_Junior.md "wikilink")《Mamacita》是該組合第七張韓語正規專輯主打曲《[Mamacita](../Page/Mamacita.md "wikilink")》的日語版本，一共收錄了兩首歌曲。
 
 ## 收錄內容
 

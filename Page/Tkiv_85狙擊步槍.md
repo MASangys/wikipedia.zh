@@ -1,6 +1,6 @@
 **7.62口徑狙擊步槍1985年型**（[芬蘭語](https://zh.wikipedia.org/wiki/芬蘭語 "wikilink")：7.62
 Tarkkuuskivääri 85，簡稱：7.62 Tkiv
-85），是[芬蘭國防軍於](../Page/芬蘭國防軍.md "wikilink")1984年起裝備的一種[手動槍機式](../Page/手動槍機.md "wikilink")[精確射手步槍](https://zh.wikipedia.org/wiki/精確射手步槍 "wikilink")／[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。
+85），是[芬蘭國防軍於](../Page/芬蘭國防軍.md "wikilink")1984年起裝備的一種[手動槍機式](../Page/手動槍機.md "wikilink")[精確射手步槍](../Page/精確射手步槍.md "wikilink")／[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。
 
 ## 特色
 

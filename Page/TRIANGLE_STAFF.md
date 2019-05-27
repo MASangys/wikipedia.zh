@@ -13,7 +13,7 @@ STAFF成立以來，原本主要從事OVA的製作。1990年代後半，開始�
 STAFF獨立製作的電視動畫《[玲音](../Page/玲音.md "wikilink")》榮獲日本第2屆。可是在2000年12月，卻停止動畫製作。
 
 停止動畫製作前後的1999年3月，TRIANGLE STAFF所屬的動畫製作人山口克巳另外成立。2000年12月19日，TRIANGLE
-STAFF的另一位動畫製作人安部正次郎與工作人員馬場健等人設立現在的[A.C.G.T](https://zh.wikipedia.org/wiki/A.C.G.T "wikilink")，並與[OB企劃建立旗下企業關係](../Page/OB企劃.md "wikilink")。
+STAFF的另一位動畫製作人安部正次郎與工作人員馬場健等人設立現在的[A.C.G.T](../Page/A.C.G.T.md "wikilink")，並與[OB企劃建立旗下企業關係](../Page/OB企劃.md "wikilink")。
 
 而TRIANGLE
 STAFF事業停止的真正原因不明，不過停止事業之後，在商品的著作權商標或動畫工作人員表上還是有顯示該公司名稱。2002年3月30日上映的電影動畫《[機動警察
@@ -43,7 +43,7 @@ WXIII](../Page/機動警察.md "wikilink")》在製作途中則由老東家MADHO
 <td></td>
 <td><p>MEREMANOID</p></td>
 <td><p>原創</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Kitty_film" title="wikilink">Kitty film共同製作</a>。</p></td>
+<td><p>與<a href="../Page/Kitty_film.md" title="wikilink">Kitty film共同製作</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>1997年</p></td>
@@ -364,7 +364,7 @@ WXIII](../Page/機動警察.md "wikilink")》在製作途中則由老東家MADHO
 <td><p>2000年</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Actas" title="wikilink">Actas</a></p></td>
+<td><p><a href="../Page/Actas.md" title="wikilink">Actas</a></p></td>
 <td></td>
 <td></td>
 </tr>

@@ -1,6 +1,6 @@
 **鈴木Solio**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1999年起開發製造的[次緊湊型車](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")，此車款乃依據[鈴木Wagon
-R發展而來](https://zh.wikipedia.org/wiki/鈴木Wagon_R "wikilink")，故本條目一併記述Wagon
-R Wide（前身）、Wagon R+、Wagon R
+R發展而來](../Page/鈴木Wagon_R.md "wikilink")，故本條目一併記述Wagon R Wide（前身）、Wagon
+R+、Wagon R
 Solio等車型。2002年4月[臺灣](../Page/臺灣.md "wikilink")[太子汽車曾將第二代國產化](../Page/太子汽車.md "wikilink")，並於2004年以超過3萬輛的年銷售量穩居臺灣車壇小型車級距之龍頭\[1\]。
 
 由於原廠與[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[通用汽車自](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")1980年代起的合作關係，這款車的第二代曾經[換牌成](https://zh.wikipedia.org/wiki/換牌工程 "wikilink")、佛賀Agila（[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")）、（[日本](../Page/日本.md "wikilink")）；而第三代也換牌成。
@@ -11,12 +11,11 @@ Solio等車型。2002年4月[臺灣](../Page/臺灣.md "wikilink")[太子汽車�
 
 ### 第一代 MA61S/MB61S型（1997年-1999年）
 
-**主條目：[鈴木Wagon
-R](https://zh.wikipedia.org/wiki/鈴木Wagon_R "wikilink")**
+**主條目：[鈴木Wagon R](../Page/鈴木Wagon_R.md "wikilink")**
 
 1997年 - 2月「Wagon R
 Wide」正式在日本推出，乃是原廠為[輕型車](../Page/輕型車.md "wikilink")[鈴木Wagon
-R加大尺碼](https://zh.wikipedia.org/wiki/鈴木Wagon_R "wikilink")、升級動力以便跨足至[小型車之級距](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")\[2\]。動力來源為1.0L直列四缸DOHC
+R加大尺碼](../Page/鈴木Wagon_R.md "wikilink")、升級動力以便跨足至[小型車之級距](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")\[2\]。動力來源為1.0L直列四缸DOHC
 [K10A型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K10A型 "wikilink")、1.0L直列四缸DOHC
 [K10A型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K10A型 "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器）等二具，內裝方面跟Wagon
 R不同，具有數位液晶時鐘、2DIN音響系統等；同年6月4WD車型追加四速自排變速箱。同為右駕之緣故，Wagon R
@@ -91,7 +90,7 @@ Lyrical Nanoha itasha rigt-head 20131116.jpg
 
 2010年 -
 12月24日原廠正式發表大改款的第三代Solio，預計2011年1月7日開始販售。為了適應都會區的用車習慣，雙後門改採滑門式設計。依照入門或高端車型的差異，配備包括自發光儀表板、[方向盤音響控制鍵](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、附[USB與](../Page/USB.md "wikilink")[iPod輸入功能的](https://zh.wikipedia.org/wiki/iPod "wikilink")[CD音響](../Page/CD.md "wikilink")、4.3吋多媒體顯示螢幕、倒車顯影、[衛星導航系統](https://zh.wikipedia.org/wiki/衛星導航系統 "wikilink")、恆溫空調、具有冷藏功能的手套箱、Keyless感應式門鎖、Push
-Start引擎啟動按鈕等。另外，跟[鈴木Palette同為滑門設計](https://zh.wikipedia.org/wiki/鈴木Palette "wikilink")，故沿用車門飾板等零件。動力心臟採用1.2L直列四缸DOHC吸排氣Dual
+Start引擎啟動按鈕等。另外，跟[鈴木Palette同為滑門設計](../Page/鈴木Palette.md "wikilink")，故沿用車門飾板等零件。動力心臟採用1.2L直列四缸DOHC吸排氣Dual
 VVT
 [K12B型引擎](https://zh.wikipedia.org/wiki/鈴木K族引擎#K12B型 "wikilink")，最大馬力為91hp
 / 6,000rpm，扭力為12.0kg·m /
@@ -152,7 +151,7 @@ front.JPG
 
 ## 內部連結
 
-  - [鈴木Wagon R](https://zh.wikipedia.org/wiki/鈴木Wagon_R "wikilink")
+  - [鈴木Wagon R](../Page/鈴木Wagon_R.md "wikilink")
   - [鈴木Splash](../Page/鈴木Splash.md "wikilink")
 
 ## 參考資料

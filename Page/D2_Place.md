@@ -62,7 +62,7 @@ Café。3樓為特色美食廣場。
 
 5至9樓劃為實驗空間「TheLabs滙創坊」。發展商投資2億元翻新及改裝，2017年1月21日正式開幕。\[2\]
 
-10至11樓為韓國大型連鎖電影院品牌[CGV](https://zh.wikipedia.org/wiki/CJ_CGV "wikilink")，共有4個播影廳及500個座位，並引入韓國最新4DX放映技術和全港首個ScreenX影廳。電影院於2017年5月引入，並在2018年9月開幕。開幕後成為當時深水埗區僅存兩間電影院之一（另一間位於[又一城](../Page/又一城.md "wikilink")）。\[3\]
+10至11樓為韓國大型連鎖電影院品牌[CGV](../Page/CJ_CGV.md "wikilink")，共有4個播影廳及500個座位，並引入韓國最新4DX放映技術和全港首個ScreenX影廳。電影院於2017年5月引入，並在2018年9月開幕。開幕後成為當時深水埗區僅存兩間電影院之一（另一間位於[又一城](../Page/又一城.md "wikilink")）。\[3\]
 
 <File:D2> Place Two GF 201705.jpg|地下大堂 <File:D2> Place Two Level 1 shops
 201705.jpg|1樓商店 <File:D2> Place Two Level 2 201705.jpg|2樓商店

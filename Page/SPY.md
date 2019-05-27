@@ -1,5 +1,5 @@
 《SPY》（）是韓國[KBS
-2TV將於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2015年1月9日起播出的金曜劇，改编自以色列電視劇《》。由韓相云、李江編劇，朴鉉錫導演，[金在中](../Page/金在中.md "wikilink")、[裴宗玉](../Page/裴宗玉.md "wikilink")、[劉五性](../Page/劉五性.md "wikilink")、[高聖熙等演員領銜主演](https://zh.wikipedia.org/wiki/高聖熙 "wikilink")\[1\]\[2\]。
+2TV將於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2015年1月9日起播出的金曜劇，改编自以色列電視劇《》。由韓相云、李江編劇，朴鉉錫導演，[金在中](../Page/金在中.md "wikilink")、[裴宗玉](../Page/裴宗玉.md "wikilink")、[劉五性](../Page/劉五性.md "wikilink")、[高聖熙等演員領銜主演](../Page/高聖熙.md "wikilink")\[1\]\[2\]。
 
 該劇主要講述了身為前職間諜的母親和擔任國情院要員的兒子之間愛與欺騙的故事。相互深愛的家人之間互相隱瞞、欺騙的間諜戰，將間諜元素融入大眾化的家庭劇題材中，是一部以20-40年龄層為收視目標群體的新概電視劇。
 
@@ -50,7 +50,7 @@ TV自](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")2015年5�
 <td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/高聖熙" title="wikilink">高聖熙</a></p></td>
+<td><p><a href="../Page/高聖熙.md" title="wikilink">高聖熙</a></p></td>
 <td><p>李潤真</p></td>
 <td><p><strong>善宇的女朋友；旅行社職員</strong><br />
 剛出校門進入旅行社工作的職場新人。在地鐵上與中國客人通話時結結巴巴，多虧身旁的善宇幫忙擺脫危機，之後漸漸發展成戀人。豈料奇哲以留在北韓的潤真家人為人質作要挾威脅，使之產生了家人和男朋友之間的矛盾。</p></td>
@@ -80,7 +80,7 @@ TV自](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")2015年5�
 <td><p>金宇碩</p></td>
 <td><p><strong>善宇的父親；惠林的丈夫</strong><br />
 曾IT保安公司幹部。雖然知曉妻子是北韓情報員，但因為愛她與之結婚。向北韓情報局建議和妻子一起監視兒子善宇從而獲取情報。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/康殿宏" title="wikilink">康殿宏</a></p></td>
+<td><p><a href="../Page/康殿宏.md" title="wikilink">康殿宏</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李荷恩" title="wikilink">李荷恩</a></p></td>
@@ -134,7 +134,7 @@ TV自](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")2015年5�
 <td><p>鄭奎勇</p></td>
 <td><p><em>' 國情院1次長</em>'<br />
 對上司阿諛奉承，只想著自己升官。從對北情報分析組長鍾赫那裡掌握所有狀況。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/康殿宏" title="wikilink">康殿宏</a></p></td>
+<td><p><a href="../Page/康殿宏.md" title="wikilink">康殿宏</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -196,7 +196,7 @@ TV自](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")2015年5�
 <td><p><strong>配音</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡秀彬" title="wikilink">蔡秀彬</a></p></td>
+<td><p><a href="../Page/蔡秀彬.md" title="wikilink">蔡秀彬</a></p></td>
 <td><p>趙秀妍</p></td>
 <td><p><strong>北韓南派間諜</strong><br />
 朝鮮派往韓國的間諜。因為北韓旗下新干事為了大換血交替使得现存的南派間諜們卷入了死亡漩渦而叛逃，協助配合著國情院，致力于將北韓的家人帶離當地。[6]</p></td>
@@ -361,11 +361,10 @@ TV自](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")2015年5�
 ## 同時段競爭作品
 
   - [tvN](../Page/TVN.md "wikilink")：《[Heart to
-    Heart](https://zh.wikipedia.org/wiki/Heart_to_Heart "wikilink")》（20:30
-    - 21:50）
+    Heart](../Page/Heart_to_Heart.md "wikilink")》（20:30 - 21:50）
   - [JTBC](../Page/JTBC.md "wikilink")：《[下女們](../Page/下女們.md "wikilink")》（21:45
     - 23:00）
-  - [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")：《[七顛八起具海拉](https://zh.wikipedia.org/wiki/七顛八起具海拉 "wikilink")》（23:00
+  - [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")：《[七顛八起具海拉](../Page/七顛八起具海拉.md "wikilink")》（23:00
     - 24:30；僅第一、二集）
 
 ## 參考資料

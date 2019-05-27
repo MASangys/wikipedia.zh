@@ -1,7 +1,7 @@
 **鈴木Liana**（，乃「*Life In A New
 Age*」之字首縮寫）乃是[日本](../Page/日本.md "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")2001年至2007年間開發製造的四門[緊湊型轎車](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")、五門緊湊型[多功能休旅車](../Page/多功能休旅車.md "wikilink")。此車名使用於[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[東南亞](https://zh.wikipedia.org/wiki/東南亞 "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[中國](../Page/中國.md "wikilink")、[澳大利亞等市場](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")，日本當地則稱作**鈴木Aerio**（）。此外，[印尼市場將四門轎車稱作](https://zh.wikipedia.org/wiki/印尼 "wikilink")**鈴木Baleno**（第二代），五門掀背車則稱為鈴木Aerio。
 
-縱然2007年正式停產，不過[中國和](../Page/中國.md "wikilink")[巴基斯坦等地仍持續發售](../Page/巴基斯坦.md "wikilink")；前者由[昌河鈴木製造](https://zh.wikipedia.org/wiki/昌河汽车 "wikilink")，後者則由[巴基鈴木公司製造](https://zh.wikipedia.org/wiki/巴基鈴木公司 "wikilink")。
+縱然2007年正式停產，不過[中國和](../Page/中國.md "wikilink")[巴基斯坦等地仍持續發售](../Page/巴基斯坦.md "wikilink")；前者由[昌河鈴木製造](../Page/昌河汽车.md "wikilink")，後者則由[巴基鈴木公司製造](../Page/巴基鈴木公司.md "wikilink")。
 
 ## 歷史與概要
 
@@ -29,7 +29,7 @@ Sedan」。
 [M18A型引擎](https://zh.wikipedia.org/wiki/鈴木M族引擎#M18A型 "wikilink")，將全車空力套件列成標準配備，舊有的數位式儀錶板也換成類比式。
 
 2005年 -
-除了[長安鈴木生產SX](https://zh.wikipedia.org/wiki/長安鈴木 "wikilink")4外，位於[中國](../Page/中國.md "wikilink")[江西省的](../Page/江西省.md "wikilink")[昌河鈴木也正式投產Liana](https://zh.wikipedia.org/wiki/昌河汽车 "wikilink")，[中文名稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")「鈴木利亞納」。配置1.6L[直列四缸DOHC](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")
+除了[長安鈴木生產SX](https://zh.wikipedia.org/wiki/長安鈴木 "wikilink")4外，位於[中國](../Page/中國.md "wikilink")[江西省的](../Page/江西省.md "wikilink")[昌河鈴木也正式投產Liana](../Page/昌河汽车.md "wikilink")，[中文名稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")「鈴木利亞納」。配置1.6L[直列四缸DOHC](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")
 [M16A型引擎](https://zh.wikipedia.org/wiki/鈴木M族引擎#M16A型 "wikilink")，共有四速自排或五速手排等二種變速箱，以及前座雙[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、ABS[防鎖死煞車系統](../Page/防鎖死煞車系統.md "wikilink")、EBD[電子制動力分配系統等安全配備](https://zh.wikipedia.org/wiki/電子制動力分配系統 "wikilink")。
 
 2006年 -
@@ -74,7 +74,7 @@ Car）〉，邀請[明星在](https://zh.wikipedia.org/wiki/明星 "wikilink")[�
 ## 內部連結
 
   - [鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")
-  - [鈴木Cultus](https://zh.wikipedia.org/wiki/鈴木Cultus "wikilink")
+  - [鈴木Cultus](../Page/鈴木Cultus.md "wikilink")
   - [鈴木SX4](../Page/鈴木SX4.md "wikilink")
 
 ## 參考資料

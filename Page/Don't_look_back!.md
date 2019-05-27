@@ -274,7 +274,7 @@ BII成員所拍攝。
 K.作曲、编曲。此曲風格激昂，PV前半部分以黑白色調為主，後半才加上色彩。擔任此曲的中心位置是將於4月3日畢業的山田菜菜，站於兩旁的均是NMB48的王牌成員，山本彩及渡邊美優紀。參與此曲錄音與MV拍攝的選拔組成員包括了：
 
   - Team
-    N：[太田夢莉](https://zh.wikipedia.org/wiki/太田夢莉 "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[加藤夕夏](https://zh.wikipedia.org/wiki/加藤夕夏 "wikilink")、[小谷里歩](https://zh.wikipedia.org/wiki/小谷里歩 "wikilink")、[上西惠](../Page/上西惠.md "wikilink")、[吉田朱里](../Page/吉田朱里.md "wikilink")、[須藤凜凜花](../Page/須藤凜凜花.md "wikilink")（）、[西村愛華](https://zh.wikipedia.org/wiki/西村愛華 "wikilink")、[山本彩](../Page/山本彩.md "wikilink")
+    N：[太田夢莉](../Page/太田夢莉.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[加藤夕夏](https://zh.wikipedia.org/wiki/加藤夕夏 "wikilink")、[小谷里歩](https://zh.wikipedia.org/wiki/小谷里歩 "wikilink")、[上西惠](../Page/上西惠.md "wikilink")、[吉田朱里](../Page/吉田朱里.md "wikilink")、[須藤凜凜花](../Page/須藤凜凜花.md "wikilink")（）、[西村愛華](https://zh.wikipedia.org/wiki/西村愛華 "wikilink")、[山本彩](../Page/山本彩.md "wikilink")
   - Team
     M：[久代梨奈](https://zh.wikipedia.org/wiki/久代梨奈 "wikilink")、[谷川愛梨](../Page/谷川愛梨.md "wikilink")、[村瀬紗英](https://zh.wikipedia.org/wiki/村瀬紗英 "wikilink")、[白間美瑠](../Page/白間美瑠.md "wikilink")、[藤江麗奈](../Page/藤江麗奈.md "wikilink")（）、[矢倉楓子](../Page/矢倉楓子.md "wikilink")、[山田菜菜](../Page/山田菜菜.md "wikilink")（）
   - Team
@@ -288,7 +288,7 @@ K.作曲、编曲。此曲風格激昂，PV前半部分以黑白色調為主，�
   - Team
     N：[岸野里香](../Page/岸野里香.md "wikilink")、小谷里歩、上西恵、[山岸奈津美](https://zh.wikipedia.org/wiki/山岸奈津美 "wikilink")、[山口夕輝](../Page/山口夕輝.md "wikilink")、山本彩、吉田朱里
   - Team
-    M：[沖田彩華](https://zh.wikipedia.org/wiki/沖田彩華 "wikilink")、[川上礼奈](https://zh.wikipedia.org/wiki/川上礼奈 "wikilink")、[木下百花](../Page/木下百花.md "wikilink")、[近藤里奈](../Page/近藤里奈.md "wikilink")、白間美瑠、山田菜菜
+    M：[沖田彩華](../Page/沖田彩華.md "wikilink")、[川上礼奈](https://zh.wikipedia.org/wiki/川上礼奈 "wikilink")、[木下百花](../Page/木下百花.md "wikilink")、[近藤里奈](../Page/近藤里奈.md "wikilink")、白間美瑠、山田菜菜
   - Team BII：門脇佳奈子、[木下春奈](../Page/木下春奈.md "wikilink")、渡邊美優紀
 
 演唱成員均是在籍的一期生。
@@ -311,7 +311,7 @@ K.作曲、编曲。此曲風格激昂，PV前半部分以黑白色調為主，�
 （Center：矢倉楓子、白間美瑠）
 
   - Team
-    M：[東由樹](https://zh.wikipedia.org/wiki/東由樹 "wikilink")、[石塚朱莉](https://zh.wikipedia.org/wiki/石塚朱莉 "wikilink")、沖田彩華、川上礼奈、木下百花、久代梨奈、近藤里奈、白間美瑠、[高野祐衣](https://zh.wikipedia.org/wiki/高野祐衣 "wikilink")、[武井紗良](https://zh.wikipedia.org/wiki/武井紗良 "wikilink")、谷川愛梨、藤江麗奈、[三浦亞莉沙](https://zh.wikipedia.org/wiki/三浦亞莉沙 "wikilink")、[三田麻央](../Page/三田麻央.md "wikilink")、[村上文香](../Page/村上文香.md "wikilink")、村瀨紗英、[鹈野瑞希](https://zh.wikipedia.org/wiki/鹈野瑞希 "wikilink")（）、[中野麗来](https://zh.wikipedia.org/wiki/中野麗来 "wikilink")、[松村芽久未](https://zh.wikipedia.org/wiki/松村芽久未 "wikilink")、[森田彩花](https://zh.wikipedia.org/wiki/森田彩花 "wikilink")、矢倉楓子、山田菜菜
+    M：[東由樹](https://zh.wikipedia.org/wiki/東由樹 "wikilink")、[石塚朱莉](../Page/石塚朱莉.md "wikilink")、沖田彩華、川上礼奈、木下百花、久代梨奈、近藤里奈、白間美瑠、[高野祐衣](https://zh.wikipedia.org/wiki/高野祐衣 "wikilink")、[武井紗良](https://zh.wikipedia.org/wiki/武井紗良 "wikilink")、谷川愛梨、藤江麗奈、[三浦亞莉沙](https://zh.wikipedia.org/wiki/三浦亞莉沙 "wikilink")、[三田麻央](../Page/三田麻央.md "wikilink")、[村上文香](../Page/村上文香.md "wikilink")、村瀨紗英、[鹈野瑞希](https://zh.wikipedia.org/wiki/鹈野瑞希 "wikilink")（）、[中野麗来](https://zh.wikipedia.org/wiki/中野麗来 "wikilink")、[松村芽久未](https://zh.wikipedia.org/wiki/松村芽久未 "wikilink")、[森田彩花](https://zh.wikipedia.org/wiki/森田彩花 "wikilink")、矢倉楓子、山田菜菜
 
 鵜野、中野、松村、森田是於2月昇格後首次參與。
 
@@ -328,7 +328,7 @@ K.作曲、编曲。此曲風格激昂，PV前半部分以黑白色調為主，�
 （Center:渡邊美優紀）
 
   - Team
-    BII：[井尻晏菜](https://zh.wikipedia.org/wiki/井尻晏菜 "wikilink")、[磯佳奈江](https://zh.wikipedia.org/wiki/磯佳奈江 "wikilink")、市川美織、[植田碧麗](https://zh.wikipedia.org/wiki/植田碧麗 "wikilink")、梅田彩佳、門脇佳奈子、[上枝惠美加](../Page/上枝惠美加.md "wikilink")、[川上千尋](https://zh.wikipedia.org/wiki/川上千尋 "wikilink")、木下春奈、[日下木之實](https://zh.wikipedia.org/wiki/日下木之實 "wikilink")、[黑川葉月](https://zh.wikipedia.org/wiki/黑川葉月 "wikilink")、澀谷凪咲、[内木志](https://zh.wikipedia.org/wiki/内木志 "wikilink")、[林萌萌香](https://zh.wikipedia.org/wiki/林萌萌香 "wikilink")、薮下柊、[大段舞依](https://zh.wikipedia.org/wiki/大段舞依 "wikilink")、[照井穂乃佳](https://zh.wikipedia.org/wiki/照井穂乃佳 "wikilink")、[松岡知穂](https://zh.wikipedia.org/wiki/松岡知穂 "wikilink")、渡邊美優紀
+    BII：[井尻晏菜](https://zh.wikipedia.org/wiki/井尻晏菜 "wikilink")、[磯佳奈江](../Page/磯佳奈江.md "wikilink")、市川美織、[植田碧麗](https://zh.wikipedia.org/wiki/植田碧麗 "wikilink")、梅田彩佳、門脇佳奈子、[上枝惠美加](../Page/上枝惠美加.md "wikilink")、[川上千尋](../Page/川上千尋.md "wikilink")、木下春奈、[日下木之實](https://zh.wikipedia.org/wiki/日下木之實 "wikilink")、[黑川葉月](https://zh.wikipedia.org/wiki/黑川葉月 "wikilink")、澀谷凪咲、[内木志](https://zh.wikipedia.org/wiki/内木志 "wikilink")、[林萌萌香](https://zh.wikipedia.org/wiki/林萌萌香 "wikilink")、薮下柊、[大段舞依](https://zh.wikipedia.org/wiki/大段舞依 "wikilink")、[照井穂乃佳](https://zh.wikipedia.org/wiki/照井穂乃佳 "wikilink")、[松岡知穂](https://zh.wikipedia.org/wiki/松岡知穂 "wikilink")、渡邊美優紀
 
 大段、照井、松岡是於2月昇格後首次參與。
 

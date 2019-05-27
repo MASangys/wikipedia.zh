@@ -153,7 +153,7 @@
 <td style="text-align: center;"><p><a href="../Page/SPY.md" title="wikilink">SPY</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/金在中.md" title="wikilink">金在中</a>、<a href="../Page/裴宗玉.md" title="wikilink">裴宗玉</a>、<a href="../Page/劉五性.md" title="wikilink">劉五性</a>、<a href="https://zh.wikipedia.org/wiki/高聖熙" title="wikilink">高聖熙</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金在中.md" title="wikilink">金在中</a>、<a href="../Page/裴宗玉.md" title="wikilink">裴宗玉</a>、<a href="../Page/劉五性.md" title="wikilink">劉五性</a>、<a href="../Page/高聖熙.md" title="wikilink">高聖熙</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓相云" title="wikilink">韓相云</a>、<a href="https://zh.wikipedia.org/wiki/李江（編劇）" title="wikilink">李江</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴鉉錫" title="wikilink">朴鉉錫</a></p></td>
 <td style="text-align: center;"></td>

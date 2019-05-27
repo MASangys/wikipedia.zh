@@ -55,7 +55,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     （作詞：[數原龍友](https://zh.wikipedia.org/wiki/數原龍友 "wikilink")、作曲：FAST
     LANE・CHRIS HOPE・J FAITH）
 12. **[STORY](../Page/Sing_it_Loud.md "wikilink")**
-    （作詞：[片寄涼太](https://zh.wikipedia.org/wiki/片寄涼太 "wikilink")、作曲：SIRIUS、Jonas
+    （作詞：[片寄涼太](../Page/片寄涼太.md "wikilink")、作曲：SIRIUS、Jonas
     Zekkari、Gabriel Alares、BIG-F）
       -
         7th單曲、《Sing it Loud》的B面曲

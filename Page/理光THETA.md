@@ -25,7 +25,7 @@ THETA在全球市场取得巨大的关注，理光公司也追加了后续机型
 2014年11月发布\[6\]\[7\]。加入了视频录制功能，以MPEG-4
 AVC/H.264编码。在2015年的固件更新中，视频录制时间延长到最长5分钟\[8\]。具有蓝黄红白四色。
 
-  - [RICOH THETA S](https://zh.wikipedia.org/wiki/理光THETA_S "wikilink")
+  - [RICOH THETA S](../Page/理光THETA_S.md "wikilink")
 
 2015年9月发布\[9\]\[10\]，外观不变，感光元件升级到1/2.3英寸规格，镜头也使用新设计的6群7枚，开放光圈F2\[11\]。静止图像支持最高5376×2688规格，视频拍摄时间延长到15分；此外，底部提供了
 type D 型的[HDMI输出接口](../Page/HDMI.md "wikilink")。仅提供黑色款。
@@ -217,7 +217,7 @@ HDR合成<br />
   - [理光](../Page/理光.md "wikilink")
       - **理光 THETA**
       - 理光 THETA m15
-      - [理光 THETA S](https://zh.wikipedia.org/wiki/理光THETA_S "wikilink")
+      - [理光 THETA S](../Page/理光THETA_S.md "wikilink")
       - 理光 THETA SC
       - 理光 THETA V
   - [全景](https://zh.wikipedia.org/wiki/全景 "wikilink")

@@ -8,7 +8,7 @@ OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，以及
 [Linux](../Page/Linux.md "wikilink")。
 
 NUKE
-参与过很多著名影片的制作和合成，例如：《[阿凡达](../Page/阿凡达.md "wikilink")》，《[无姓之人](https://zh.wikipedia.org/wiki/无姓之人 "wikilink")》，《[本杰明·巴顿奇事](https://zh.wikipedia.org/wiki/本杰明·巴顿奇事 "wikilink")》，《[金刚](https://zh.wikipedia.org/wiki/金刚_\(2005年电影\) "wikilink")》，《[时空骇客](https://zh.wikipedia.org/wiki/时空骇客 "wikilink")》，《[机械公敌](https://zh.wikipedia.org/wiki/机械公敌 "wikilink")》，《[生化危机3：灭绝](https://zh.wikipedia.org/wiki/生化危机3：灭绝 "wikilink")》，《[创：光速战记](https://zh.wikipedia.org/wiki/创：光速战记 "wikilink")》，《[爱丽丝梦游仙境](https://zh.wikipedia.org/wiki/爱丽丝梦游仙境_\(2010年电影\) "wikilink")》，《[黑天鹅](../Page/黑天鹅_\(电影\).md "wikilink")》和《[霍比特人](../Page/霍比特人电影系列.md "wikilink")》系列电影。
+参与过很多著名影片的制作和合成，例如：《[阿凡达](../Page/阿凡达.md "wikilink")》，《[无姓之人](../Page/无姓之人.md "wikilink")》，《[本杰明·巴顿奇事](https://zh.wikipedia.org/wiki/本杰明·巴顿奇事 "wikilink")》，《[金刚](https://zh.wikipedia.org/wiki/金刚_\(2005年电影\) "wikilink")》，《[时空骇客](https://zh.wikipedia.org/wiki/时空骇客 "wikilink")》，《[机械公敌](https://zh.wikipedia.org/wiki/机械公敌 "wikilink")》，《[生化危机3：灭绝](https://zh.wikipedia.org/wiki/生化危机3：灭绝 "wikilink")》，《[创：光速战记](https://zh.wikipedia.org/wiki/创：光速战记 "wikilink")》，《[爱丽丝梦游仙境](https://zh.wikipedia.org/wiki/爱丽丝梦游仙境_\(2010年电影\) "wikilink")》，《[黑天鹅](../Page/黑天鹅_\(电影\).md "wikilink")》和《[霍比特人](../Page/霍比特人电影系列.md "wikilink")》系列电影。
 
 ## 开发历史
 

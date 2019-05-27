@@ -1,4 +1,4 @@
-**fresh极客少年团**，是[尚雯婕工作室](../Page/尚雯婕.md "wikilink")[黑金时尚于](https://zh.wikipedia.org/wiki/黑金时尚 "wikilink")2014年10月13日推出的一支[中国新生代偶像男子](https://zh.wikipedia.org/wiki/中国 "wikilink")\[1\]音乐团体\[2\]，由马尔辰、[侯明昊](https://zh.wikipedia.org/wiki/侯明昊 "wikilink")、[曾舜晞](https://zh.wikipedia.org/wiki/曾舜晞 "wikilink")、万翔和李昂洋5位成员组成。2015年10月9日，曾舜晞退出组合，个人发展 。2016年1月10日侯明昊和李昂洋退出组合，並加入李歌洋。
+**fresh极客少年团**，是[尚雯婕工作室](../Page/尚雯婕.md "wikilink")[黑金时尚于](https://zh.wikipedia.org/wiki/黑金时尚 "wikilink")2014年10月13日推出的一支[中国新生代偶像男子](https://zh.wikipedia.org/wiki/中国 "wikilink")\[1\]音乐团体\[2\]，由马尔辰、[侯明昊](https://zh.wikipedia.org/wiki/侯明昊 "wikilink")、[曾舜晞](../Page/曾舜晞.md "wikilink")、万翔和李昂洋5位成员组成。2015年10月9日，曾舜晞退出组合，个人发展 。2016年1月10日侯明昊和李昂洋退出组合，並加入李歌洋。
 
 ## 主要经历
 
@@ -20,7 +20,7 @@ fresh极客少年团是由黑金时尚文化传媒公司和多家互联网平台
 | 成员名称                                                | 生日         | 籍贯     | 备注                                       |
 | --------------------------------------------------- | ---------- | ------ | ---------------------------------------- |
 | [侯明昊](https://zh.wikipedia.org/wiki/侯明昊 "wikilink") | 1997年8月3日  | 北京市    | 前[SM娱乐练习生](../Page/SM娛樂.md "wikilink")   |
-| [曾舜晞](https://zh.wikipedia.org/wiki/曾舜晞 "wikilink") | 1997年10月9日 | 广东省深圳市 | 前[JYP娛樂練習生](../Page/JYP娛樂.md "wikilink") |
+| [曾舜晞](../Page/曾舜晞.md "wikilink")                    | 1997年10月9日 | 广东省深圳市 | 前[JYP娛樂練習生](../Page/JYP娛樂.md "wikilink") |
 
 ## 音乐作品
 

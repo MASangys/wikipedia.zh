@@ -2,7 +2,7 @@
 K）、**腐生真菌碱性蛋白酶**（Tritirachium alkaline
 proteinase）、**腐生真菌丝氨酸蛋白酶**（Tritirachium album serine
 proteinase）、**腐生真菌蛋白酶K**（Tritirachium album proteinase
-K），是一种用途广泛的[丝氨酸蛋白酶](../Page/丝氨酸蛋白酶.md "wikilink")\[1\]\[2\]\[3\]。这种酶于1974年在[真菌](https://zh.wikipedia.org/wiki/真菌 "wikilink")
+K），是一种用途广泛的[丝氨酸蛋白酶](../Page/丝氨酸蛋白酶.md "wikilink")\[1\]\[2\]\[3\]。这种酶于1974年在[真菌](../Page/真菌.md "wikilink")
 （*Engyodontium
 album*）的提取物中发现\[4\]。蛋白酶K能消化天然的[角蛋白](../Page/角蛋白.md "wikilink")（**K**erati），而得名蛋白酶K。其主要的切割位点是[脂肪族](https://zh.wikipedia.org/wiki/脂肪族化合物 "wikilink")[氨基酸和](../Page/氨基酸.md "wikilink")[芳香族](../Page/芳香性.md "wikilink")[氨基酸的羧基端肽键](../Page/氨基酸.md "wikilink")。由于其广泛地的切割能力，在实验室中很常用。此蛋白酶属于丝氨酸蛋白酶SB[超家族中的S](https://zh.wikipedia.org/wiki/蛋白质超家族 "wikilink")8家族（[枯草杆菌蛋白酶也属于这个超家族](../Page/枯草杆菌蛋白酶.md "wikilink")）。蛋白酶K的分子量为28.9千道尔顿。
 

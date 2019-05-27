@@ -26,7 +26,7 @@ Image:Nissan Pixo 20090809 rear.JPG|日產Pixo車尾
 
 2014年 -
 自本代起全球統一車名為「鈴木Celerio」，2月在[新德里國際車展發表](https://zh.wikipedia.org/wiki/新德里國際車展 "wikilink")\[1\]後旋即投入印度工廠的[生產線](../Page/大量生產.md "wikilink")。隨著Celerio投入市場，馬魯蒂鈴木公司趁機將業績不振的A-Star和[Estilo](https://zh.wikipedia.org/wiki/鈴木MR_Wagon#印度馬魯蒂Zen_Estilo "wikilink")（原型車為[鈴木MR
-Wagon](https://zh.wikipedia.org/wiki/鈴木MR_Wagon "wikilink")）停產\[2\]。大改款的第二代以2013年11月泰國車展發表的「A：Wind」[概念車](../Page/概念車.md "wikilink")\[3\]為基礎，動力來源沿用上一代的1.0L直列三缸DOHC
+Wagon](../Page/鈴木MR_Wagon.md "wikilink")）停產\[2\]。大改款的第二代以2013年11月泰國車展發表的「A：Wind」[概念車](../Page/概念車.md "wikilink")\[3\]為基礎，動力來源沿用上一代的1.0L直列三缸DOHC
 [K10B型引擎](https://zh.wikipedia.org/wiki/鈴木K族引擎#K10B型 "wikilink")，歐洲市場則改用雙燃油噴射系統的1.0L直列三缸DOHC
 [K10C型引擎](https://zh.wikipedia.org/wiki/鈴木K族引擎#K10C型 "wikilink")。變速系統方面除了原有的五速手排，新增甫開發的「Auto
 Gear

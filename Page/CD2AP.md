@@ -16,7 +16,7 @@ CD2AP已顯示出與[NPHS2](../Page/NPHS2.md "wikilink")、\[4\][腎病蛋白](.
 
 ## 參見
 
-  - [局灶節段性腎小球硬化症](https://zh.wikipedia.org/wiki/局灶節段性腎小球硬化症 "wikilink")
+  - [局灶節段性腎小球硬化症](../Page/局灶節段性腎小球硬化症.md "wikilink")
 
 ## 註釋
 

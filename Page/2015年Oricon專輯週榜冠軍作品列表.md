@@ -20,7 +20,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FUN!_FUN!_FANFARE!" title="wikilink">FUN! FUN! FANFARE!</a></p></td>
+<td><p><a href="../Page/FUN!_FUN!_FANFARE!.md" title="wikilink">FUN! FUN! FANFARE!</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/生物股長" title="wikilink">生物股長</a></p></td>
 <td><p>原創</p></td>
 <td><p>10.1</p></td>
@@ -28,7 +28,7 @@
 </tr>
 <tr class="even">
 <td><p>1月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/E.G._TIME" title="wikilink">E.G. TIME</a></p></td>
+<td><p><a href="../Page/E.G._TIME.md" title="wikilink">E.G. TIME</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/E-girls" title="wikilink">E-girls</a></p></td>
 <td><p>原創</p></td>
 <td><p>7.6</p></td>
@@ -36,7 +36,7 @@
 </tr>
 <tr class="odd">
 <td><p>1月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/透明色_(乃木坂46專輯)" title="wikilink">透明色</a></p></td>
+<td><p><a href="../Page/透明色_(乃木坂46專輯).md" title="wikilink">透明色</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></p></td>
 <td><p>原創</p></td>
 <td><p>22.2</p></td>
@@ -52,7 +52,7 @@
 </tr>
 <tr class="odd">
 <td><p>2月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/這裡是羅德斯島、在這裡跳吧！" title="wikilink">這裡是羅德斯島、在這裡跳吧！</a></p></td>
+<td><p><a href="../Page/這裡是羅德斯島、在這裡跳吧！.md" title="wikilink">這裡是羅德斯島、在這裡跳吧！</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>原創</p></td>
 <td><p>74.1</p></td>
@@ -60,7 +60,7 @@
 </tr>
 <tr class="even">
 <td><p>2月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PLANET_SEVEN" title="wikilink">PLANET SEVEN</a></p></td>
+<td><p><a href="../Page/PLANET_SEVEN.md" title="wikilink">PLANET SEVEN</a></p></td>
 <td><p><a href="../Page/J_Soul_Brothers.md" title="wikilink">第三代J Soul Brothers</a></p></td>
 <td><p>原創</p></td>
 <td><p>50.8</p></td>
@@ -84,7 +84,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GENERATIONS_EX" title="wikilink">GENERATIONS EX</a></p></td>
+<td><p><a href="../Page/GENERATIONS_EX.md" title="wikilink">GENERATIONS EX</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE" title="wikilink">GENERATIONS</a></p></td>
 <td><p>原創</p></td>
 <td><p>6.4</p></td>
@@ -100,7 +100,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/EPIC_DAY" title="wikilink">EPIC DAY</a></p></td>
+<td><p><a href="../Page/EPIC_DAY.md" title="wikilink">EPIC DAY</a></p></td>
 <td><p><a href="../Page/B&#39;z.md" title="wikilink">B'z</a></p></td>
 <td><p>原創</p></td>
 <td><p>21.0</p></td>
@@ -116,7 +116,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/WALK_OF_MY_LIFE" title="wikilink">WALK OF MY LIFE</a></p></td>
+<td><p><a href="../Page/WALK_OF_MY_LIFE.md" title="wikilink">WALK OF MY LIFE</a></p></td>
 <td><p><a href="../Page/倖田來未.md" title="wikilink">倖田來未</a></p></td>
 <td><p>原創</p></td>
 <td><p>3.9</p></td>
@@ -124,7 +124,7 @@
 </tr>
 <tr class="even">
 <td><p>4月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/19_-Road_to_AMAZING_WORLD-" title="wikilink">19 -Road to AMAZING WORLD-</a></p></td>
+<td><p><a href="../Page/19_-Road_to_AMAZING_WORLD-.md" title="wikilink">19 -Road to AMAZING WORLD-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EXILE" title="wikilink">EXILE</a></p></td>
 <td><p>原創</p></td>
 <td><p>20.4</p></td>
@@ -309,7 +309,7 @@
 <tr class="odd">
 <td><p>9月14日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/八奏繪卷" title="wikilink">八奏繪卷</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/和樂器樂團" title="wikilink">和樂器樂團</a></p></td>
+<td><p><a href="../Page/和樂器樂團.md" title="wikilink">和樂器樂團</a></p></td>
 <td><p>原創</p></td>
 <td><p>3.6</p></td>
 <td><p>1</p></td>
@@ -413,7 +413,7 @@
 <tr class="even">
 <td><p>12月14日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a></p></td>
+<td><p><a href="../Page/星野源.md" title="wikilink">星野源</a></p></td>
 <td><p>原創</p></td>
 <td><p>13.2</p></td>
 <td><p>1</p></td>

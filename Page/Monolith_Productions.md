@@ -154,7 +154,7 @@ Productions**（或简称**Monolith**）是位于美国华盛顿[柯克兰的电
 <td><p><a href="../Page/第一人称射击游戏.md" title="wikilink">第一人称射击</a></p></td>
 <td><p>2003年8月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a>、<a href="https://zh.wikipedia.org/wiki/Mac_OS" title="wikilink">Mac OS</a><br />
-<a href="../Page/Game_Boy_Advance.md" title="wikilink">Game Boy Advance</a>、<a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a></p></td>
+<a href="../Page/Game_Boy_Advance.md" title="wikilink">Game Boy Advance</a>、<a href="../Page/Xbox.md" title="wikilink">Xbox</a></p></td>
 <td></td>
 <td></td>
 </tr>

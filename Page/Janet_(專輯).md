@@ -1,11 +1,11 @@
-《**珍娜**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**janet.**）是美國黑人女歌手[珍娜·傑克森第五張個人](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，1993年5月18日由美國[維京唱片發行](../Page/維京唱片.md "wikilink")。《珍娜》是珍娜·傑克森跳槽至維京旗下所發行的首張專輯，《珍娜》曾獲得告示牌流行專輯榜以及節奏藍調專輯榜雙料冠軍，這張專輯產生兩首冠軍單曲，其中〈[愛就是這樣](https://zh.wikipedia.org/wiki/愛就是這樣_\(珍納·積遜歌曲\) "wikilink")〉獲得第36屆[葛萊美最佳節奏藍調歌曲獎](https://zh.wikipedia.org/wiki/葛萊美 "wikilink")\[1\]\[2\]\[3\]，《珍娜》在美國地區銷售數字突破六白金。
+《**珍娜**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**janet.**）是美國黑人女歌手[珍娜·傑克森第五張個人](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，1993年5月18日由美國[維京唱片發行](../Page/維京唱片.md "wikilink")。《珍娜》是珍娜·傑克森跳槽至維京旗下所發行的首張專輯，《珍娜》曾獲得告示牌流行專輯榜以及節奏藍調專輯榜雙料冠軍，這張專輯產生兩首冠軍單曲，其中〈[愛就是這樣](../Page/愛就是這樣_\(珍納·積遜歌曲\).md "wikilink")〉獲得第36屆[葛萊美最佳節奏藍調歌曲獎](https://zh.wikipedia.org/wiki/葛萊美 "wikilink")\[1\]\[2\]\[3\]，《珍娜》在美國地區銷售數字突破六白金。
 
 ## 專輯介紹
 
 ### 製作過程
 
 [珍娜·傑克森自](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")1991年和維京唱片簽約之後，並未馬上著手製作新專輯，和其它女藝人一樣，她也選擇唱而優則演，因此珍娜·傑克森在加入維京後，即拋下歌星身份轉往電影圈發展。珍娜·傑克森在1992年8月完成自己首部主演的電影《Poetic
-Justice》之後，隔月她才回復歌星身份展開新專輯的錄製工作。美國樂壇當時正是鄉村音樂和黑人音樂當紅之態，流行專輯榜上由[葛斯·布魯克斯](https://zh.wikipedia.org/wiki/加斯·布鲁克斯 "wikilink")（Garth
+Justice》之後，隔月她才回復歌星身份展開新專輯的錄製工作。美國樂壇當時正是鄉村音樂和黑人音樂當紅之態，流行專輯榜上由[葛斯·布魯克斯](../Page/加斯·布鲁克斯.md "wikilink")（Garth
 Brooks）和[比利·雷·賽勒斯](../Page/比利·雷·赛勒斯.md "wikilink")（Billy Ray
 Cyrus）兩位鄉村歌手獨領風騷，但反觀流行單曲榜上卻是黑人歌手佔領半璧江山。珍娜·傑克森為了在維京唱片的首張專輯能有好的成績，於是招集老搭檔Jimmy
 Jam and Terry
@@ -16,7 +16,7 @@ Jam and Terry Lewis。
 
 ### 曲風走向
 
-《珍娜》比起珍娜·傑克森上一張專輯《[節奏國度](../Page/Janet_Jackson's_Rhythm_Nation_1814.md "wikilink")》加入了更多元的曲風，[節奏藍調](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")、[嘻哈](../Page/嘻哈.md "wikilink")、[靈魂樂](../Page/靈魂樂.md "wikilink")、[放克](../Page/放克.md "wikilink")、[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")、[浩室](https://zh.wikipedia.org/wiki/浩室 "wikilink")、[爵士甚至](../Page/爵士.md "wikilink")[歌劇](https://zh.wikipedia.org/wiki/歌劇 "wikilink")，歌曲在編排上承襲《節奏國度》以間奏串聯而成，時間總長度約75分鐘，幾乎是一般專輯的兩倍時間。在新專輯當中，很明顯的發現珍娜·傑克森不再一味的唱那種重節拍快節奏的流行式舞曲，〈[愛就是這樣](https://zh.wikipedia.org/wiki/愛就是這樣_\(珍納·積遜歌曲\) "wikilink")〉、〈不知所措〉和〈[因為愛](../Page/因為愛_\(珍娜·傑克森歌曲\).md "wikilink")〉讓她更散發出女人味，〈[無論何時何地](../Page/無論何時何地.md "wikilink")〉和〈[再一次](https://zh.wikipedia.org/wiki/Again_\(珍納·積遜單曲\) "wikilink")〉使她的女人味更加性感嫵媚\[4\]。
+《珍娜》比起珍娜·傑克森上一張專輯《[節奏國度](../Page/Janet_Jackson's_Rhythm_Nation_1814.md "wikilink")》加入了更多元的曲風，[節奏藍調](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")、[嘻哈](../Page/嘻哈.md "wikilink")、[靈魂樂](../Page/靈魂樂.md "wikilink")、[放克](../Page/放克.md "wikilink")、[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")、[浩室](https://zh.wikipedia.org/wiki/浩室 "wikilink")、[爵士甚至](../Page/爵士.md "wikilink")[歌劇](https://zh.wikipedia.org/wiki/歌劇 "wikilink")，歌曲在編排上承襲《節奏國度》以間奏串聯而成，時間總長度約75分鐘，幾乎是一般專輯的兩倍時間。在新專輯當中，很明顯的發現珍娜·傑克森不再一味的唱那種重節拍快節奏的流行式舞曲，〈[愛就是這樣](../Page/愛就是這樣_\(珍納·積遜歌曲\).md "wikilink")〉、〈不知所措〉和〈[因為愛](../Page/因為愛_\(珍娜·傑克森歌曲\).md "wikilink")〉讓她更散發出女人味，〈[無論何時何地](../Page/無論何時何地.md "wikilink")〉和〈[再一次](../Page/Again_\(珍納·積遜單曲\).md "wikilink")〉使她的女人味更加性感嫵媚\[4\]。
 
 ### 樂評評價
 
@@ -29,7 +29,7 @@ Albums」，這張專輯位居第119名\[6\]。
 
 珍娜·傑克森睽違四年的全新力作《珍娜》來勢洶洶，1993年6月5日進榜首週雙雙空降流行專輯榜和節奏藍調專輯榜的冠軍寶座，在流行專輯榜部分更是終結了[惠妮·休斯頓](https://zh.wikipedia.org/wiki/惠妮·休斯頓 "wikilink")《終極保鑣》稱霸20週的冠軍紀錄，《珍娜》在榜首蟬連6週，成為珍娜·傑克森第三張全美冠軍專輯，它同時也是珍娜·傑克森冠軍週數最長的冠軍專輯，它在專輯榜內一共待了106週之久，和《[控制](../Page/控制_\(珍娜傑克森專輯\).md "wikilink")》打成平手，小輸《節奏國度》的108週，《珍娜》在節奏藍調專輯榜也蟬連了3週冠軍，專輯銷售數字在美突破六白金。《珍娜》更是連續兩年都進入告示牌年終專輯榜前十名，1993年排名第4名，1994年排名第8名。
 
-《珍娜》在美一共推出六首單曲，這六首單曲全都進入前十名，其中尚包括兩首冠軍單曲〈[愛就是這樣](https://zh.wikipedia.org/wiki/愛就是這樣_\(珍納·積遜歌曲\) "wikilink")〉獲得8週冠軍，是珍娜·傑克森成績最好的冠軍單曲，〈[再一次](https://zh.wikipedia.org/wiki/Again_\(珍納·積遜單曲\) "wikilink")〉獲得2週冠軍。其它單曲〈[如果](../Page/如果_\(珍娜傑克森歌曲\).md "wikilink")〉第4名、〈[因為愛](../Page/因為愛_\(珍娜·傑克森歌曲\).md "wikilink")〉第10名、〈[無論何時何地](../Page/無論何時何地.md "wikilink")〉第2名、〈[你要這個](https://zh.wikipedia.org/wiki/你要這個 "wikilink")〉第8名。
+《珍娜》在美一共推出六首單曲，這六首單曲全都進入前十名，其中尚包括兩首冠軍單曲〈[愛就是這樣](../Page/愛就是這樣_\(珍納·積遜歌曲\).md "wikilink")〉獲得8週冠軍，是珍娜·傑克森成績最好的冠軍單曲，〈[再一次](../Page/Again_\(珍納·積遜單曲\).md "wikilink")〉獲得2週冠軍。其它單曲〈[如果](../Page/如果_\(珍娜傑克森歌曲\).md "wikilink")〉第4名、〈[因為愛](../Page/因為愛_\(珍娜·傑克森歌曲\).md "wikilink")〉第10名、〈[無論何時何地](../Page/無論何時何地.md "wikilink")〉第2名、〈[你要這個](../Page/你要這個.md "wikilink")〉第8名。
 
 《珍娜》也在英國專輯榜摘下2週冠軍，成為珍娜·傑克森第一張也是目前唯一一張全英冠軍專輯。〈愛就是這樣〉在英國單曲榜獲得第2名，迄今為止，珍娜·傑克森尚無英國冠軍單曲產生。\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]
 

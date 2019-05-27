@@ -26,7 +26,7 @@ Fi（[何美婷飾](../Page/何美婷.md "wikilink")）經過打拼後，成為�
   - [陳麗雲](../Page/陳麗雲.md "wikilink") 飾 三　姑
   - [關偉倫](../Page/關偉倫.md "wikilink") 飾 勤表哥
   - [盧希萊](../Page/盧希萊.md "wikilink") 飾 Stella
-  - [凌文海](https://zh.wikipedia.org/wiki/凌文海 "wikilink") 飾 Henry
+  - [凌文海](../Page/凌文海.md "wikilink") 飾 Henry
   - [苑瓊丹](../Page/苑瓊丹.md "wikilink") 飾 Maria
   - [鄒偉麟](https://zh.wikipedia.org/wiki/鄒偉麟 "wikilink") 飾 Ben
   - [黃素歡](../Page/黃素歡.md "wikilink") 飾 Janet

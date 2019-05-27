@@ -34,13 +34,13 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道
 2017年1月5日，3名新成員EuiJin、LEX、SungMin，於Vapp直播中首次亮相。\[16\]\[17\]
 
 2017年10月，除YUSEONG外，全體成員參與選秀節目《[The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》遴選，EUIJIN和LEX成功入選節目。\[18\]\[19\]
+Unit](../Page/The_Unit.md "wikilink")》遴選，EUIJIN和LEX成功入選節目。\[18\]\[19\]
 
 2017年12月30日，LEX在《[The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》第2次排名儀式，以第45名被淘汰。
+Unit](../Page/The_Unit.md "wikilink")》第2次排名儀式，以第45名被淘汰。
 
 2018年2月11日，《[The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》最後一集直播舞台，Euijin獲得第2名，加入期間限定團體[UNB出道](https://zh.wikipedia.org/wiki/UNB "wikilink")。\[20\]
+Unit](../Page/The_Unit.md "wikilink")》最後一集直播舞台，Euijin獲得第2名，加入期間限定團體[UNB出道](../Page/UNB.md "wikilink")。\[20\]
 
 2018年11月8日，Ron預計於明年1月27日結婚。\[21\]
 
@@ -335,15 +335,15 @@ Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》最後一集直播舞
 
 ### 其他音樂錄影帶
 
-|        |                                                               |                                                               |            |                                                                                                                                                                        |              |
-| ------ | ------------------------------------------------------------- | ------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 年份     | 發布日期                                                          | 歌手/企劃                                                         | 歌曲名稱       | 參與成員                                                                                                                                                                   | 連結/備註        |
-| 2017年  | 10月16日                                                        | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | My Turn    | EUIJIN和LEX                                                                                                                                                             | \[35\]\[36\] |
-| 10月23日 | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | Last One                                                      | EUIJIN和LEX | \[37\]\[38\]                                                                                                                                                           |              |
-| 11月18日 | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | My Turn (Edition version)                                     | EUIJIN和LEX | \[39\]                                                                                                                                                                 |              |
-| 2018年  | 1月14日                                                         | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | Question   | EUIJIN                                                                                                                                                                 | \[40\]\[41\] |
-| 1月17日  | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | Question (EUIJIN Fan Cam ver.)                                | EUIJIN     | \[42\]\[43\] |-|url=[http://www.segye.com/newsView/20180115000979|accessdate=2018-01-15](http://www.segye.com/newsView/20180115000979%7Caccessdate=2018-01-15)}}</ref> |              |
-| 1月20日  | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | Question (Performance ver.)                                   | EUIJIN     | \[44\]                                                                                                                                                                 |              |
+|        |                                            |                                            |            |                                                                                                                                                                        |              |
+| ------ | ------------------------------------------ | ------------------------------------------ | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| 年份     | 發布日期                                       | 歌手/企劃                                      | 歌曲名稱       | 參與成員                                                                                                                                                                   | 連結/備註        |
+| 2017年  | 10月16日                                     | [The Unit](../Page/The_Unit.md "wikilink") | My Turn    | EUIJIN和LEX                                                                                                                                                             | \[35\]\[36\] |
+| 10月23日 | [The Unit](../Page/The_Unit.md "wikilink") | Last One                                   | EUIJIN和LEX | \[37\]\[38\]                                                                                                                                                           |              |
+| 11月18日 | [The Unit](../Page/The_Unit.md "wikilink") | My Turn (Edition version)                  | EUIJIN和LEX | \[39\]                                                                                                                                                                 |              |
+| 2018年  | 1月14日                                      | [The Unit](../Page/The_Unit.md "wikilink") | Question   | EUIJIN                                                                                                                                                                 | \[40\]\[41\] |
+| 1月17日  | [The Unit](../Page/The_Unit.md "wikilink") | Question (EUIJIN Fan Cam ver.)             | EUIJIN     | \[42\]\[43\] |-|url=[http://www.segye.com/newsView/20180115000979|accessdate=2018-01-15](http://www.segye.com/newsView/20180115000979%7Caccessdate=2018-01-15)}}</ref> |              |
+| 1月20日  | [The Unit](../Page/The_Unit.md "wikilink") | Question (Performance ver.)                | EUIJIN     | \[44\]                                                                                                                                                                 |              |
 
 ### 練習室
 
@@ -438,10 +438,10 @@ Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》最後一集直播舞
 | 2017年3月15日             | 클럽캐백수 Youtube                                                     | Open Mic                                                          | 全體                    | \[61\]                    |
 | 2017年3月17日             | TBS                                                               | Fact In Star                                                      | 全體                    |                           |
 | 2017年3月23日             | KStyle TV                                                         | The Immigration                                                   | 全體                    |                           |
-| 2017年10月28日-2018年2月10日 | KBS                                                               | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")     | Euijin LEX            |                           |
+| 2017年10月28日-2018年2月10日 | KBS                                                               | [The Unit](../Page/The_Unit.md "wikilink")                        | Euijin LEX            |                           |
 | 2018年10月2日-2018年10月29日 | 1THEK                                                             | DANCE WAR                                                         | EuiJin                | ROUND 1-3                 |
 | 2018年11月23日-           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")             | [Somebody](https://zh.wikipedia.org/wiki/Somebody "wikilink")     | EuiJin                |                           |
-| 2019年1月1日              | MBC every1                                                        | [Video Star](https://zh.wikipedia.org/wiki/Video_Star "wikilink") | EuiJin RON            | EP125                     |
+| 2019年1月1日              | MBC every1                                                        | [Video Star](../Page/Video_Star.md "wikilink")                    | EuiJin RON            | EP125                     |
 
 ## 電台節目
 

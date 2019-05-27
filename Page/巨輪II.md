@@ -3,7 +3,7 @@ II**），[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝�
 
 此劇是《[巨輪](../Page/巨輪.md "wikilink")》的續集，亦繼續由[钜記餅家冠名贊助](https://zh.wikipedia.org/wiki/钜記餅家 "wikilink")，並於[澳門](../Page/澳門.md "wikilink")、[香港](../Page/香港.md "wikilink")、[日本取景](../Page/日本.md "wikilink")。
 
-此劇為2015[香港國際影視展](https://zh.wikipedia.org/wiki/TVB影視展星勢 "wikilink")11部推介劇集之一、[2016無綫節目巡禮之一](../Page/2016無綫節目巡禮.md "wikilink")、2016[香港國際影視展](https://zh.wikipedia.org/wiki/TVB影視展星勢 "wikilink")12部推介劇集之一、無綫海外業務及簡介2016‬所推介的17部劇集之一。\[1\]\[2\]本劇自2018年1月22日起於「大大平台」上架，除了提供粵語、國語雙聲道外，還有台語配音的選擇，絕對讓台灣人充滿親切感。
+此劇為2015[香港國際影視展](../Page/TVB影視展星勢.md "wikilink")11部推介劇集之一、[2016無綫節目巡禮之一](../Page/2016無綫節目巡禮.md "wikilink")、2016[香港國際影視展](../Page/TVB影視展星勢.md "wikilink")12部推介劇集之一、無綫海外業務及簡介2016‬所推介的17部劇集之一。\[1\]\[2\]本劇自2018年1月22日起於「大大平台」上架，除了提供粵語、國語雙聲道外，還有台語配音的選擇，絕對讓台灣人充滿親切感。
 
 ## 本劇特色
 
@@ -673,7 +673,7 @@ Noon之男友<br />
 <td><p>2014年至2015年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/易智遠" title="wikilink">易智遠</a></p></td>
+<td><p><a href="../Page/易智遠.md" title="wikilink">易智遠</a></p></td>
 <td><p>肥仔強</p></td>
 <td><p>羅信記設計部員工<br />
 徐知力之好友</p></td>
@@ -686,7 +686,7 @@ Noon之男友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/周梓盈" title="wikilink">周梓盈</a></p></td>
+<td><p><a href="../Page/周梓盈.md" title="wikilink">周梓盈</a></p></td>
 <td><p>琴</p></td>
 <td></td>
 <td></td>
@@ -788,7 +788,7 @@ Noon之男友<br />
 <td><p>2、10、20、25、33、36-39</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/司徒暉" title="wikilink">司徒暉</a></p></td>
+<td><p><a href="../Page/司徒暉.md" title="wikilink">司徒暉</a></p></td>
 <td><p>麥偉權</p></td>
 <td><p><strong>Mark</strong><br />
 高天鷲之手下兼保鑣<br />
@@ -851,7 +851,7 @@ Noon之男友<br />
 <td><p>7-9、19-20、22-27、34-35</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/袁鎮業" title="wikilink">袁鎮業</a></p></td>
+<td><p><a href="../Page/袁鎮業.md" title="wikilink">袁鎮業</a></p></td>
 <td><p>龍</p></td>
 <td><p>馬文泰之手下</p></td>
 <td><p>6-9、19、22-27、34</p></td>
@@ -897,7 +897,7 @@ Noon之男友<br />
 <td><p>3、5-7、9-10</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃建東" title="wikilink">黃建東</a></p></td>
+<td><p><a href="../Page/黃建東.md" title="wikilink">黃建東</a></p></td>
 <td><p>莊禮臣</p></td>
 <td><p>Johnson<br />
 臣飛市場廣告策略公司合夥人<br />
@@ -1248,7 +1248,7 @@ Noon之男友<br />
 <td><p>1-5</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭恕峰" title="wikilink">鄭恕峰</a></p></td>
+<td><p><a href="../Page/鄭恕峰.md" title="wikilink">鄭恕峰</a></p></td>
 <td><p>吳　坤</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/緬甸" title="wikilink">緬甸華僑</a><br />
 與高天鷲合作，借二手車生意洗黑錢<br />
@@ -1636,7 +1636,7 @@ Noon之男友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/盧峻峯" title="wikilink">盧峻峯</a></p></td>
+<td><p><a href="../Page/盧峻峯.md" title="wikilink">盧峻峯</a></p></td>
 <td><p>金</p></td>
 <td><p>20-21</p></td>
 <td></td>
@@ -1994,13 +1994,13 @@ Noon之男友<br />
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/譚永浩" title="wikilink">譚永浩</a></p></td>
+<td><p><a href="../Page/譚永浩.md" title="wikilink">譚永浩</a></p></td>
 <td><p>記　者</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/尹詩沛" title="wikilink">尹詩沛</a></p></td>
+<td><p><a href="../Page/尹詩沛.md" title="wikilink">尹詩沛</a></p></td>
 <td><p>Bo Bo</p></td>
 <td><p>姚浩男之損友<br />
 於第6集陷害姚浩男<a href="https://zh.wikipedia.org/wiki/性騷擾" title="wikilink">性騷擾並敲詐姚家</a>，其後失敗</p></td>
@@ -2026,7 +2026,7 @@ Noon之男友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳俊堅" title="wikilink">陳俊堅</a></p></td>
+<td><p><a href="../Page/陳俊堅.md" title="wikilink">陳俊堅</a></p></td>
 <td><p>Wet仔</p></td>
 <td><p>3、6</p></td>
 <td></td>
@@ -2092,7 +2092,7 @@ Noon之男友<br />
 <td><p>5-6</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/容天佑" title="wikilink">容天佑</a></p></td>
+<td><p><a href="../Page/容天佑.md" title="wikilink">容天佑</a></p></td>
 <td><p>Jimmy</p></td>
 <td></td>
 <td><p>6</p></td>
@@ -2124,7 +2124,7 @@ Noon之男友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/彭慧中" title="wikilink">彭慧中</a></p></td>
+<td><p><a href="../Page/彭慧中.md" title="wikilink">彭慧中</a></p></td>
 <td><p>少　女</p></td>
 <td></td>
 <td></td>
@@ -2173,13 +2173,13 @@ Noon之男友<br />
 <td><p>11</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朱斐斐" title="wikilink">朱斐斐</a></p></td>
+<td><p><a href="../Page/朱斐斐.md" title="wikilink">朱斐斐</a></p></td>
 <td><p>老人院員工</p></td>
 <td></td>
 <td><p>11</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳靖雲" title="wikilink">陳靖雲</a></p></td>
+<td><p><a href="../Page/陳靖雲.md" title="wikilink">陳靖雲</a></p></td>
 <td><p>記　者</p></td>
 <td></td>
 <td><p>11</p></td>
@@ -2197,7 +2197,7 @@ Noon之男友<br />
 <td><p>11</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/楊嘉欣" title="wikilink">楊嘉欣</a></p></td>
+<td><p><a href="../Page/楊嘉欣.md" title="wikilink">楊嘉欣</a></p></td>
 <td><p>婦女會員工</p></td>
 <td></td>
 <td><p>11</p></td>
@@ -2239,7 +2239,7 @@ Noon之男友<br />
 <td><p>11</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蕭凱欣" title="wikilink">蕭凱欣</a></p></td>
+<td><p><a href="../Page/蕭凱欣.md" title="wikilink">蕭凱欣</a></p></td>
 <td><p>同　學</p></td>
 <td><p>姚浩男之同學</p></td>
 <td><p>11</p></td>
@@ -2305,7 +2305,7 @@ Noon之男友<br />
 <td><p>19、21</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李晉強" title="wikilink">李晉強</a></p></td>
+<td><p><a href="../Page/李晉強.md" title="wikilink">李晉強</a></p></td>
 <td><p>酒　客</p></td>
 <td></td>
 <td><p>19</p></td>
@@ -2394,13 +2394,13 @@ Noon之表哥<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/梁茵_(演員)" title="wikilink">梁　茵</a></p></td>
+<td><p><a href="../Page/梁茵_(演員).md" title="wikilink">梁　茵</a></p></td>
 <td><p>骨　妹</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/郭千瑜" title="wikilink">郭千瑜</a></p></td>
+<td><p><a href="../Page/郭千瑜.md" title="wikilink">郭千瑜</a></p></td>
 <td><p>骨　妹</p></td>
 <td></td>
 <td></td>
@@ -2518,7 +2518,7 @@ Noon之表哥<br />
 <td><p>36</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/周嘉洛" title="wikilink">周嘉洛</a></p></td>
+<td><p><a href="../Page/周嘉洛.md" title="wikilink">周嘉洛</a></p></td>
 <td><p>手　下</p></td>
 <td><p>鍾國寶之手下</p></td>
 <td><p>36</p></td>
@@ -2550,7 +2550,7 @@ Noon之表哥<br />
 
   - 2014年、2015年：[香港](../Page/香港.md "wikilink")[佔領中環](https://zh.wikipedia.org/wiki/佔領中環 "wikilink")、[雨傘運動](https://zh.wikipedia.org/wiki/雨傘運動 "wikilink")、[地產霸權](../Page/地產霸權.md "wikilink")（第1集）
   - 2015年：[筲箕灣避風塘三級火警](../Page/筲箕灣避風塘.md "wikilink")（第1、18集）
-  - 2014年：[台灣、香港、澳門地溝油風波](https://zh.wikipedia.org/wiki/2014年台灣劣質油品事件 "wikilink")（第6-9集）
+  - 2014年：[台灣、香港、澳門地溝油風波](../Page/2014年台灣劣質油品事件.md "wikilink")（第6-9集）
   - 2014年：《[明報](../Page/明報.md "wikilink")》總編輯[劉進圖遇襲案](../Page/劉進圖.md "wikilink")（第9集）
   - 2014年：[香港高鐵超支延誤事件](../Page/香港高鐵超支延誤事件.md "wikilink")（第9集）
   - 2014年：[馬來西亞航空370號班機空難](https://zh.wikipedia.org/wiki/馬來西亞航空370號班機空難 "wikilink")（第14-15、18集）
@@ -2655,14 +2655,14 @@ Noon之表哥<br />
 
 ## 獎項
 
-### [星和無綫電視大獎2016](https://zh.wikipedia.org/wiki/星和無綫電視大獎2016 "wikilink")
+### [星和無綫電視大獎2016](../Page/星和無綫電視大獎2016.md "wikilink")
 
 | 獎項            | 獲奬單位                                  |
 | ------------- | ------------------------------------- |
 | 「我最愛TVB電視男角色」 | [蕭正楠](../Page/蕭正楠.md "wikilink")（羅威信） |
 | 「我最愛TVB電視女角色」 | [田蕊妮](../Page/田蕊妮.md "wikilink")（姚文英） |
 
-### [萬千星輝頒獎典禮2016](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2016 "wikilink")
+### [萬千星輝頒獎典禮2016](../Page/萬千星輝頒獎典禮2016.md "wikilink")
 
 <table style="width:56%;">
 <colgroup>
@@ -2751,7 +2751,7 @@ Noon之表哥<br />
   - [上集的編審為](../Page/巨輪.md "wikilink")[吳肇銅](../Page/吳肇銅.md "wikilink")，這集改由[鄭成武編審](../Page/鄭成武.md "wikilink")。
   - 此劇是[萧正楠與](https://zh.wikipedia.org/wiki/萧正楠 "wikilink")[楊明繼](../Page/楊明.md "wikilink")《[戀愛自由式](../Page/戀愛自由式.md "wikilink")》、《[天梯
     (無綫電視劇)](../Page/天梯_\(無綫電視劇\).md "wikilink")》、《[師奶MADAM](../Page/師奶MADAM.md "wikilink")》後再度合作。
-  - 此劇是[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")、[李佳芯與](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")[李璧琦繼](../Page/李璧琦.md "wikilink")《[名門暗戰](https://zh.wikipedia.org/wiki/名門暗戰 "wikilink")》後再度合作，後兩者在《[潮流教主](https://zh.wikipedia.org/wiki/潮流教主 "wikilink")》亦有合作。
+  - 此劇是[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")、[李佳芯與](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")[李璧琦繼](../Page/李璧琦.md "wikilink")《[名門暗戰](../Page/名門暗戰.md "wikilink")》後再度合作，後兩者在《[潮流教主](https://zh.wikipedia.org/wiki/潮流教主 "wikilink")》亦有合作。
   - 此劇是[田蕊妮與](../Page/田蕊妮.md "wikilink")[趙永洪繼前作](../Page/趙永洪.md "wikilink")《[巨輪](../Page/巨輪.md "wikilink")》、《[天天天晴](../Page/天天天晴.md "wikilink")》《[衝呀！瘦薪兵團](../Page/衝呀！瘦薪兵團.md "wikilink")》《[鬼同你OT](../Page/鬼同你OT.md "wikilink")》、《[無雙譜](https://zh.wikipedia.org/wiki/無雙譜 "wikilink")》後第五度合作，除《[天天天晴](../Page/天天天晴.md "wikilink")》《[衝呀！瘦薪兵團](../Page/衝呀！瘦薪兵團.md "wikilink")》外三次都飾演對立關係。
   - 此劇是[田蕊妮](../Page/田蕊妮.md "wikilink")、[楊明](../Page/楊明.md "wikilink")、[何遠東與](../Page/何遠東.md "wikilink")[李璧琦繼](../Page/李璧琦.md "wikilink")《[忠奸人](https://zh.wikipedia.org/wiki/忠奸人_\(電視劇\) "wikilink")》後再度合作，前兩者飾演男女朋友關係，而[田蕊妮與](../Page/田蕊妮.md "wikilink")[何遠東則在](../Page/何遠東.md "wikilink")《[忠奸人](https://zh.wikipedia.org/wiki/忠奸人_\(電視劇\) "wikilink")》飾演好友關係，而在本劇繼前作《[巨輪](../Page/巨輪.md "wikilink")》飾演姊弟關係兼第三度合作。
   - 此劇是[趙永洪](../Page/趙永洪.md "wikilink")、[張美妮繼](../Page/張美妮.md "wikilink")《[衝呀！瘦薪兵團](../Page/衝呀！瘦薪兵團.md "wikilink")》後再演夫妻。
@@ -2793,8 +2793,8 @@ Noon之表哥<br />
 
 本劇開拍時，劇組曾宣稱乃前作《[巨輪](../Page/巨輪.md "wikilink")》的“原班人馬”參演劇集，但角色設定方面，主要保留參演羅家、姚家、“羅信記”員工的演員，並增加已回巢的[吳岱融](../Page/吳岱融.md "wikilink")、[梁琤等資深演員](../Page/梁琤.md "wikilink")。然而前作深受觀眾歡迎的螢幕情侶[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[陳展鵬卻以](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")“特别客串”的身份出演續集\[15\]，甚至劇集巡禮片中都未提及二人的角色，只是將演員[陳展鵬置於最初宣傳海報當中吸納廣告商](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")，正式海報卻將二人照片放在左下角並標明為“特別演出”，引起不少觀眾及視迷的失望；但亦有部分觀眾關注二人飾演的角色喬天生與卓靜在續集的感情結果\[16\]\[17\]\[18\]。相反，近年來被TVB極為力捧，並在多部劇集飾演重角的2013年港姐冠軍[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")，在此劇飾演女主角高伊娜，與男主角[蕭正楠合作飾演情侶](../Page/蕭正楠.md "wikilink")，戲份較重，相關安排更引起不少網民的不滿，甚至在劇情未發展至第5集[陳凱琳出場前](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")，已有不少針對[陳凱琳演技的投訴](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")。\[19\]\[20\]
 
-結果此劇播出以後，陳凱琳在《巨輪II》的演技備受批評，甚至被指影響收視\[21\]\[22\]。而在劇情發展初段和中段，其演出亦如預期備受批評，唯到劇情末段，她飾演的高伊娜多次在劇中被養父企圖強姦，部份網民亦認為其表現雖仍有很大進步空間，但對比之前的劇集亦算略有進步。\[23\]而飾演其養父的[吳岱融在此劇的大反派演出則讓觀眾注目](../Page/吳岱融.md "wikilink")，網民更以「一個高天鷲救起整套劇」盛讚其演技精湛，還推舉他為《[萬千星輝頒獎典禮2016](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2016 "wikilink")》「**最佳男主角**」\[24\]\[25\]\[26\]\[27\]。此角色也使吳岱融首度獲提名《[TVB
-馬來西亞星光薈萃頒獎典禮2016](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2016 "wikilink")》「**最喜愛TVB男配角**」、《萬千星輝頒獎典禮2016》「**最佳男配角**」及「**最受歡迎電視男角色**」。
+結果此劇播出以後，陳凱琳在《巨輪II》的演技備受批評，甚至被指影響收視\[21\]\[22\]。而在劇情發展初段和中段，其演出亦如預期備受批評，唯到劇情末段，她飾演的高伊娜多次在劇中被養父企圖強姦，部份網民亦認為其表現雖仍有很大進步空間，但對比之前的劇集亦算略有進步。\[23\]而飾演其養父的[吳岱融在此劇的大反派演出則讓觀眾注目](../Page/吳岱融.md "wikilink")，網民更以「一個高天鷲救起整套劇」盛讚其演技精湛，還推舉他為《[萬千星輝頒獎典禮2016](../Page/萬千星輝頒獎典禮2016.md "wikilink")》「**最佳男主角**」\[24\]\[25\]\[26\]\[27\]。此角色也使吳岱融首度獲提名《[TVB
+馬來西亞星光薈萃頒獎典禮2016](../Page/TVB_馬來西亞星光薈萃頒獎典禮2016.md "wikilink")》「**最喜愛TVB男配角**」、《萬千星輝頒獎典禮2016》「**最佳男配角**」及「**最受歡迎電視男角色**」。
 
 ### 大結局
 

@@ -3,7 +3,7 @@
 中国大陆[爱奇艺和香港](../Page/爱奇艺.md "wikilink")[Viu同步日本网络播映全](../Page/Viu.md "wikilink")6章，马来西亚由片商Lambaian
 Filem代理发行简体中文、英文、马来文字幕（日语原声）版本[DVD和](https://zh.wikipedia.org/wiki/DVD "wikilink")[Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")。
 
-曾經為本系列主唱眾多樂曲的歌手[和田光司先生](https://zh.wikipedia.org/wiki/和田光司 "wikilink")，在本作第三章OVA製作期間，其官方事務所「SOLID
+曾經為本系列主唱眾多樂曲的歌手[和田光司先生](../Page/和田光司.md "wikilink")，在本作第三章OVA製作期間，其官方事務所「SOLID
 VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Page/鼻咽癌.md "wikilink")4月3日逝世，享年42歲，葬礼为近亲参加的密葬，本作第二章片尾曲「Seven～tri.Version～」
 也成為生前最後的錄音作品。由於正值本作上映風潮期間，消息瞬間廣泛-{zh-cn:报道;zh-tw:報導;}-到世界各地，4月26日在惠比寿LIQUIDROOM举行了“和田光司
 告别会”，官方[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、本作[聲優](../Page/聲優.md "wikilink")、音樂業界以及眾多和田光司的生前好友都致以哀悼，當中包括參與「Butter-Fly」的製作人千綿偉功及渡部チェル、太田美知彦、[AiM](https://zh.wikipedia.org/wiki/AiM "wikilink")、宮崎步、[谷本貴義等等](../Page/谷本貴義.md "wikilink")。不少觀眾得悉後表現悲傷，但同時亦讚賞其奮鬥癌症13年的堅強意志力與生命力令人欽佩不已，以及感謝和田光司所帶來的童年回憶，將永遠緬懷他的音樂。而在《[數碼寶貝大冒險](../Page/數碼寶貝大冒險.md "wikilink")》和《[數碼寶貝大冒險02](../Page/數碼寶貝大冒險02.md "wikilink")》中配過[武之內空的聲優](https://zh.wikipedia.org/wiki/武之內空 "wikilink")[水谷優子女士和](../Page/水谷優子.md "wikilink")[八神太一的聲優](https://zh.wikipedia.org/wiki/八神太一 "wikilink")[藤田淑子女士](../Page/藤田淑子.md "wikilink")，先後皆因[乳腺癌而逝世](https://zh.wikipedia.org/wiki/乳腺癌 "wikilink")。
@@ -298,12 +298,12 @@ VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Pa
 ### 音樂
 
   -
-    經歷歲月不饒人，本作在音樂方面，先後有兩位資深歌手及音樂創作人離世。[和田光司官方網站於](https://zh.wikipedia.org/wiki/和田光司 "wikilink")2016年4月8日發出聲明，表示其因[喉癌已於](../Page/喉癌.md "wikilink")4月3日病逝，其主題曲「Butter-Fly」成為和田光司出道作、也是最後的告別作；創作歷代背景音樂的作曲家[有澤孝紀亦於](../Page/有澤孝紀.md "wikilink")2005年因[膀胱癌去世](../Page/膀胱癌.md "wikilink")，後者已由創作《[約會大作戰](../Page/約會大作戰.md "wikilink")》背景音樂的坂部剛代替。
+    經歷歲月不饒人，本作在音樂方面，先後有兩位資深歌手及音樂創作人離世。[和田光司官方網站於](../Page/和田光司.md "wikilink")2016年4月8日發出聲明，表示其因[喉癌已於](../Page/喉癌.md "wikilink")4月3日病逝，其主題曲「Butter-Fly」成為和田光司出道作、也是最後的告別作；創作歷代背景音樂的作曲家[有澤孝紀亦於](../Page/有澤孝紀.md "wikilink")2005年因[膀胱癌去世](../Page/膀胱癌.md "wikilink")，後者已由創作《[約會大作戰](../Page/約會大作戰.md "wikilink")》背景音樂的坂部剛代替。
 
 #### 第1章「再會」
 
   -
-    本作將舊有的歌曲重新編曲，當中以主題曲「[Butter-Fly](../Page/Butter-Fly.md "wikilink")」曲風變化最大，原因是[和田光司於](https://zh.wikipedia.org/wiki/和田光司 "wikilink")2003年患上喉癌而失聲長達2年、繼而於2011年再次因為癌症復發全面停工。2013年復出後，聲帶及唱功水準只能以舒情曲風為主，因此本作的主題曲風格比舊有版本柔和，而當時已病重的和田光司從曲中副歌部分可見相當吃力，但仍聲嘶力竭地完成歌曲錄音更獲得觀眾高度評價。
+    本作將舊有的歌曲重新編曲，當中以主題曲「[Butter-Fly](../Page/Butter-Fly.md "wikilink")」曲風變化最大，原因是[和田光司於](../Page/和田光司.md "wikilink")2003年患上喉癌而失聲長達2年、繼而於2011年再次因為癌症復發全面停工。2013年復出後，聲帶及唱功水準只能以舒情曲風為主，因此本作的主題曲風格比舊有版本柔和，而當時已病重的和田光司從曲中副歌部分可見相當吃力，但仍聲嘶力竭地完成歌曲錄音更獲得觀眾高度評價。
 
 <!-- end list -->
 
@@ -395,7 +395,7 @@ VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Pa
   - 企劃：森下孝三
   - 原案：[本鄉昭由](https://zh.wikipedia.org/wiki/本鄉昭由 "wikilink")
   - 監督：[元永慶太郎](../Page/元永慶太郎.md "wikilink")
-  - 系列構成：[柿原優子](https://zh.wikipedia.org/wiki/柿原優子 "wikilink")
+  - 系列構成：[柿原優子](../Page/柿原優子.md "wikilink")
   - 角色設計：宇木敦哉
   - 動畫角色設計：筱雅律
   - 動畫導演：伊藤浩二
@@ -458,8 +458,8 @@ VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Pa
 <td><p>再會</p></td>
 <td><p>#01</p></td>
 <td><p>再會</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柿原優子" title="wikilink">柿原優子</a><br />
-<a href="https://zh.wikipedia.org/wiki/廣田光毅" title="wikilink">廣田光毅</a><br />
+<td><p><a href="../Page/柿原優子.md" title="wikilink">柿原優子</a><br />
+<a href="../Page/廣田光毅.md" title="wikilink">廣田光毅</a><br />
 鈴木貴昭<br />
 <a href="https://zh.wikipedia.org/wiki/綾奈由仁子" title="wikilink">綾奈由仁子</a></p></td>
 <td><p>岩畑剛一<br />
@@ -966,7 +966,7 @@ VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Pa
 
   -
     　 編曲：玉木千尋
-    　 主唱：[和田光司](https://zh.wikipedia.org/wiki/和田光司 "wikilink")
+    　 主唱：[和田光司](../Page/和田光司.md "wikilink")
 
 ### 插曲
 

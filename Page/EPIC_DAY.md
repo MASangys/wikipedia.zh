@@ -73,7 +73,7 @@ EXTRA」演唱會的影像\[4\]。
 14. **Juice**
 15. **[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")**
 16. **[衝動](../Page/衝動_\(B'z單曲\).md "wikilink")**
-17. **[Home](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")**
+17. **[Home](../Page/B'z_The_Best_"ULTRA_Treasure".md "wikilink")**
 18. '''[HEAT](../Page/B'z_The_Best_XXV_1988-1998.md "wikilink")
 19. **[BLOWIN'](../Page/BLOWIN'.md "wikilink")**
 

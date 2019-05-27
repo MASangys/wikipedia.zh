@@ -46,7 +46,7 @@ hour》。\[6\]
   - 小林唯月（CV：毬岡留美/[吉住梢](../Page/吉住梢.md "wikilink")）
     龍胆寺家的女僕。
 
-  - 小寺一撃（CV：しょにー小倉/[田中一成](https://zh.wikipedia.org/wiki/田中一成 "wikilink")）
+  - 小寺一撃（CV：しょにー小倉/[田中一成](../Page/田中一成.md "wikilink")）
     和真的惡友。
 
   - 総哉（CV：未知/[宮下榮治](https://zh.wikipedia.org/wiki/宮下榮治 "wikilink")）

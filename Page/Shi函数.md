@@ -67,10 +67,10 @@ G^{1, 1}_{1, 3}\\left(-1/4\\,{z}^{2}\\, \\Big\\vert\\,^{1}_{1/2, 0,
 ## 参见
 
   - [Sinhc函数](../Page/Sinhc函数.md "wikilink")
-  - [Coshc函数](https://zh.wikipedia.org/wiki/Coshc函数 "wikilink")
+  - [Coshc函数](../Page/Coshc函数.md "wikilink")
   - [Tanc函数](../Page/Tanc函数.md "wikilink")
   - [Tanhc函数](../Page/Tanhc函数.md "wikilink")
-  - [Chi函数](https://zh.wikipedia.org/wiki/Chi函数 "wikilink")
+  - [Chi函数](../Page/Chi函数.md "wikilink")
 
 ## 参考文献
 

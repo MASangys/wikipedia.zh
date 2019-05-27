@@ -7,7 +7,7 @@ q & -q^{1/2} &-q  \end{matrix}
 
 ## 极限关系
 
-令[连续q勒让德多项式](https://zh.wikipedia.org/wiki/连续q勒让德多项式 "wikilink") q-\>1
+令[连续q勒让德多项式](../Page/连续q勒让德多项式.md "wikilink") q-\>1
 得[勒让德多项式](../Page/勒让德多项式.md "wikilink")
 
 \(\lim_{q \to 1}P_{n}(x|q)=P_{n}(x)\)

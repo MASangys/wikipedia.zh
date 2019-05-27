@@ -13,8 +13,7 @@
 [Katja_Nyberg2.jpg](https://zh.wikipedia.org/wiki/File:Katja_Nyberg2.jpg "fig:Katja_Nyberg2.jpg")運動員[卡特娅·尼贝格](../Page/卡特娅·尼贝格.md "wikilink")\]\]
 [Anja_Pärson_Semmering_2008.jpg](https://zh.wikipedia.org/wiki/File:Anja_Pärson_Semmering_2008.jpg "fig:Anja_Pärson_Semmering_2008.jpg")\]\]
 [Michael_Sam_final_Mizzou_home_game.jpg](https://zh.wikipedia.org/wiki/File:Michael_Sam_final_Mizzou_home_game.jpg "fig:Michael_Sam_final_Mizzou_home_game.jpg")員[-{zh-cn:迈克尔·山姆;
-zh-tw:麥可·山姆;
-zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wikilink")\]\]
+zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "wikilink")\]\]
 [Sheryl_Swoopes_WNBA.jpg](https://zh.wikipedia.org/wiki/File:Sheryl_Swoopes_WNBA.jpg "fig:Sheryl_Swoopes_WNBA.jpg")運動員\]\]
 [Gareth_Thomas_(rugby_player).jpg](https://zh.wikipedia.org/wiki/File:Gareth_Thomas_\(rugby_player\).jpg "fig:Gareth_Thomas_(rugby_player).jpg")運動員\]\]
 [Ian_Thorpe_2012.jpg](https://zh.wikipedia.org/wiki/File:Ian_Thorpe_2012.jpg "fig:Ian_Thorpe_2012.jpg")\]\]
@@ -152,7 +151,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p>L<ref name="arndt rossner">{{cite web |url=<a href="http://www.abc.net.au/news/2004-08-16/german-cyclist-arndt-livid-over-exclusion-of/2026710">http://www.abc.net.au/news/2004-08-16/german-cyclist-arndt-livid-over-exclusion-of/2026710</a> |title=German cyclist Arndt livid over exclusion of lesbian lover |date=2004-08-16 |work={{tsl|en|ABC News (Australia)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/西蒙妮·奥古斯塔斯" title="wikilink">西蒙妮·奥古斯塔斯</a></p></td>
+<td><p><a href="../Page/西蒙妮·奥古斯塔斯.md" title="wikilink">西蒙妮·奥古斯塔斯</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/篮球.md" title="wikilink">篮球</a></p></td>
@@ -271,7 +270,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p>G<ref name="mark bingham">{{cite news |url=<a href="http://books.google.com/books?id=IGUEAAAAMBAJ&amp;pg=PA45&amp;dq=%22mark+bingham%22&amp;hl=en&amp;sa=X&amp;ei=xCYJT6WoBYfMtgfY3KDcBA&amp;ved=0CDMQ6AEwAA#v=onepage&amp;q=%22mark%20bingham%22&amp;f=false">http://books.google.com/books?id=IGUEAAAAMBAJ&amp;pg=PA45&amp;dq=%22mark+bingham%22&amp;hl=en&amp;sa=X&amp;ei=xCYJT6WoBYfMtgfY3KDcBA&amp;ved=0CDMQ6AEwAA#v=onepage&amp;q=%22mark%20bingham%22&amp;f=false</a> |title=Mark Bingham |work={{tsl|en|The Advocate</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/休·伯德" title="wikilink">休·伯德</a></p></td>
+<td><p><a href="../Page/休·伯德.md" title="wikilink">休·伯德</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/篮球.md" title="wikilink">篮球</a></p></td>
@@ -292,7 +291,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p>G[28]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/布萊恩·博伊塔諾" title="wikilink">布萊恩·博伊塔諾</a></p></td>
+<td><p><a href="../Page/布萊恩·博伊塔諾.md" title="wikilink">布萊恩·博伊塔諾</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/花式溜冰" title="wikilink">花式溜冰</a></p></td>
@@ -482,7 +481,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p>T[47]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朱慧雯" title="wikilink">朱慧雯</a></p></td>
+<td><p><a href="../Page/朱慧雯.md" title="wikilink">朱慧雯</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/冰球.md" title="wikilink">冰球</a></p></td>
@@ -580,7 +579,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p><a href="../Page/澳式足球.md" title="wikilink">澳式足球</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/約翰·庫利" title="wikilink">約翰·庫利</a></p></td>
+<td><p><a href="../Page/約翰·庫利.md" title="wikilink">約翰·庫利</a></p></td>
 <td><p>1949–1994</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/花式溜冰" title="wikilink">花式溜冰</a></p></td>
@@ -723,7 +722,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p>Abby Dunkin</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/輪椅籃球" title="wikilink">輪椅籃球</a></p></td>
+<td><p><a href="../Page/輪椅籃球.md" title="wikilink">輪椅籃球</a></p></td>
 <td><p>L[70]</p></td>
 </tr>
 <tr class="even">
@@ -741,7 +740,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p><a href="../Page/击剑.md" title="wikilink">击剑</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/宝拉·艾格努" title="wikilink">宝拉·艾格努</a></p></td>
+<td><p><a href="../Page/宝拉·艾格努.md" title="wikilink">宝拉·艾格努</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/排球.md" title="wikilink">排球</a></p></td>
@@ -868,7 +867,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p>G[83]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鲁迪·加林多" title="wikilink">鲁迪·加林多</a></p></td>
+<td><p><a href="../Page/鲁迪·加林多.md" title="wikilink">鲁迪·加林多</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/花式溜冰" title="wikilink">花式溜冰</a></p></td>
@@ -952,7 +951,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p><a href="https://zh.wikipedia.org/wiki/新闻工作者" title="wikilink">新闻工作者</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/布里特妮·格里娜" title="wikilink">布里特妮·格里娜</a></p></td>
+<td><p><a href="../Page/布里特妮·格里娜.md" title="wikilink">布里特妮·格里娜</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/籃球" title="wikilink">籃球</a></p></td>
@@ -1348,7 +1347,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/划船" title="wikilink">划船</a></p></td>
+<td><p><a href="../Page/划船.md" title="wikilink">划船</a></p></td>
 <td><p>L<ref><a href="http://www.cbc.ca/news/canada/newfoundland-labrador/homophobia-in-sports-still-pervasive-in-canada-new-study-shows-1.3067167">"Homophobia in sports still pervasive in Canada, new study shows"</a>. {{tsl|en|CBC News</p></td>
 </tr>
 <tr class="odd">
@@ -1552,7 +1551,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/划船" title="wikilink">划船</a></p></td>
+<td><p><a href="../Page/划船.md" title="wikilink">划船</a></p></td>
 <td><p>G[144]</p></td>
 </tr>
 <tr class="even">
@@ -1608,7 +1607,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/划船" title="wikilink">划船</a></p></td>
+<td><p><a href="../Page/划船.md" title="wikilink">划船</a></p></td>
 <td><p>L[150]</p></td>
 </tr>
 <tr class="even">
@@ -1671,7 +1670,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/划船" title="wikilink">划船</a></p></td>
+<td><p><a href="../Page/划船.md" title="wikilink">划船</a></p></td>
 <td><p>L<ref name="metcalf tewksbury">{{cite web |url=<a href="http://forum-network.org/lecture/heroes-among-us-holly-metcalf-and-mark-tewksbury">http://forum-network.org/lecture/heroes-among-us-holly-metcalf-and-mark-tewksbury</a> |title=Heroes Among Us: Holly Metcalf and Mark Tewksbury |work={{tsl|en|WGBH-TV</p></td>
 </tr>
 <tr class="odd">
@@ -1781,7 +1780,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p>L<ref name="navratilova spencer-devlin">{{cite news |url=<a href="http://books.google.com/books?id=emMEAAAAMBAJ&amp;pg=PT25&amp;dq=Muffin+Spencer-Devlin&amp;hl=en&amp;sa=X&amp;ei=FDwHT8OgL8mCtgeRl5TQBg&amp;ved=0CEkQ6AEwBQ#v=onepage&amp;q=Muffin%20Spencer-Devlin&amp;f=false">http://books.google.com/books?id=emMEAAAAMBAJ&amp;pg=PT25&amp;dq=Muffin+Spencer-Devlin&amp;hl=en&amp;sa=X&amp;ei=FDwHT8OgL8mCtgeRl5TQBg&amp;ved=0CEkQ6AEwBQ#v=onepage&amp;q=Muffin%20Spencer-Devlin&amp;f=false</a> |title=Golfer Muffin Spencer-Devlin and ice skater Rudy Galindo test the limits of straight America's acceptance of gay sports heroes |work={{tsl|en|The Advocate</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/翁德熱·內佩拉" title="wikilink">翁德熱·內佩拉</a></p></td>
+<td><p><a href="../Page/翁德熱·內佩拉.md" title="wikilink">翁德熱·內佩拉</a></p></td>
 <td><p>1951–1989</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/花式溜冰" title="wikilink">花式溜冰</a></p></td>
@@ -1851,7 +1850,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p><a href="../Page/冰舞.md" title="wikilink">冰舞</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/布莱恩·奥瑟" title="wikilink">布莱恩·奥瑟</a></p></td>
+<td><p><a href="../Page/布莱恩·奥瑟.md" title="wikilink">布莱恩·奥瑟</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/花式溜冰" title="wikilink">花式溜冰</a></p></td>
@@ -1929,7 +1928,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p>L[172]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/派特·派特森" title="wikilink">派特·派特森</a></p></td>
+<td><p><a href="../Page/派特·派特森.md" title="wikilink">派特·派特森</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/職業摔角.md" title="wikilink">職業摔角</a></p></td>
@@ -2020,7 +2019,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p>B[183]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/艾瑞克·拉德福德" title="wikilink">艾瑞克·拉德福德</a></p></td>
+<td><p><a href="../Page/艾瑞克·拉德福德.md" title="wikilink">艾瑞克·拉德福德</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/花式溜冰" title="wikilink">花式溜冰</a></p></td>
@@ -2034,7 +2033,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p>L[184]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/梅根·拉皮诺埃" title="wikilink">梅根·拉皮诺埃</a></p></td>
+<td><p><a href="../Page/梅根·拉皮诺埃.md" title="wikilink">梅根·拉皮诺埃</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/足球.md" title="wikilink">足球</a></p></td>
@@ -2111,7 +2110,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p>G[189]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/尤利马尔·罗哈斯" title="wikilink">尤利马尔·罗哈斯</a></p></td>
+<td><p><a href="../Page/尤利马尔·罗哈斯.md" title="wikilink">尤利马尔·罗哈斯</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/田徑" title="wikilink">田徑</a></p></td>
@@ -2146,7 +2145,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p>T[193]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/麥可·山姆" title="wikilink">-{zh-cn:迈克尔·山姆; zh-tw:麥可·山姆; zh-hk:米高·山姆;}-</a></p></td>
+<td><p><a href="../Page/麥可·山姆.md" title="wikilink">-{zh-cn:迈克尔·山姆; zh-tw:麥可·山姆; zh-hk:米高·山姆;}-</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/美式足球.md" title="wikilink">美式足球</a></p></td>
@@ -2412,7 +2411,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p>G[218]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黛安娜·陶乐西" title="wikilink">黛安娜·陶乐西</a></p></td>
+<td><p><a href="../Page/黛安娜·陶乐西.md" title="wikilink">黛安娜·陶乐西</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/篮球.md" title="wikilink">篮球</a></p></td>
@@ -2727,7 +2726,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 <td><p>L<ref name="andrea worrall">{{cite news |title=Women in sports: The lesbian peril |date=2011-05-04 |accessdate=2012-01-10 |work={{tsl|en|Diva (magazine)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/伊伦·伍斯特" title="wikilink">伊伦·伍斯特</a></p></td>
+<td><p><a href="../Page/伊伦·伍斯特.md" title="wikilink">伊伦·伍斯特</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/速度滑冰.md" title="wikilink">速度滑冰</a></p></td>
@@ -2912,8 +2911,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 
 54. ["Sochi: Canadian Olympians weigh in on Russia's anti-gay
     law"](http://www.thestar.com/sports/amateur/2013/08/16/sochi_canadian_olympians_weigh_in_on_russias_antigay_law.html).
-    *[Toronto Star](https://zh.wikipedia.org/wiki/多倫多星報 "wikilink")*,
-    August 16, 2013.
+    *[Toronto Star](../Page/多倫多星報.md "wikilink")*, August 16, 2013.
 
 55.
 
@@ -3109,8 +3107,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 149.
 
 150. "Marriage, medals and mentorship". *[Toronto
-     Star](https://zh.wikipedia.org/wiki/多倫多星報 "wikilink")*, November 7,
-     2014.
+     Star](../Page/多倫多星報.md "wikilink")*, November 7, 2014.
 
 151.
 
@@ -3242,8 +3239,7 @@ zh-hk:米高·山姆}-簡卓](https://zh.wikipedia.org/wiki/麥可·山姆 "wiki
 217.
 
 218. "For kayaker Connor Taras, coming out was ultimate victory".
-     *[Toronto Star](https://zh.wikipedia.org/wiki/多倫多星報 "wikilink")*,
-     July 22, 2014.
+     *[Toronto Star](../Page/多倫多星報.md "wikilink")*, July 22, 2014.
 
 219.
 220.

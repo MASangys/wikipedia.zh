@@ -110,7 +110,7 @@ A](https://zh.wikipedia.org/wiki/miss_A "wikilink")**是韓國[JYP娛樂旗下�
 <td><p>175</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Colors_(miss_A迷你專輯)" title="wikilink">Colors</a></p></td>
+<td><p><a href="../Page/Colors_(miss_A迷你專輯).md" title="wikilink">Colors</a></p></td>
 <td><ul>
 <li>日期：2015年3月30日</li>
 <li>廠牌：JYP娛樂、KT Music</li>
@@ -686,7 +686,7 @@ A](https://zh.wikipedia.org/wiki/miss_A "wikilink")**是韓國[JYP娛樂旗下�
 <tr class="odd">
 <td><p>I Love You Boy</p></td>
 <td><p>2017年10月11日</p></td>
-<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/當你沉睡時" title="wikilink">當你沉睡時</a>》</p></td>
+<td><p>電視劇《<a href="../Page/當你沉睡時.md" title="wikilink">當你沉睡時</a>》</p></td>
 <td></td>
 <td></td>
 </tr>

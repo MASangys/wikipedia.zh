@@ -17,8 +17,8 @@
 
   - Macrodontia batesi Lameere, 1912
   - Macrodontia castroi Marazzi, 2008
-  - [長牙大天牛](https://zh.wikipedia.org/wiki/長牙大天牛 "wikilink")（*Macrodontia
-    cervicornis*） (Linnaeus, 1758)
+  - [長牙大天牛](../Page/長牙大天牛.md "wikilink")（*Macrodontia cervicornis*）
+    (Linnaeus, 1758)
   - Macrodontia crenata (Olivier, 1795)
   - Macrodontia dejeani Gory, 1839
   - Macrodontia flavipennis Chevrolat, 1833

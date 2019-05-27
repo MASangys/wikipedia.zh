@@ -1,4 +1,4 @@
-**Ever**是於2000年所成立的[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，為前[beyond鼓手](https://zh.wikipedia.org/wiki/beyond "wikilink")[葉世榮旗下藝人](../Page/葉世榮.md "wikilink")，由三位成員組成，分別是[何家豪](https://zh.wikipedia.org/wiki/何家豪 "wikilink")、[何家杰以及](https://zh.wikipedia.org/wiki/何家杰 "wikilink")[李恆韜](https://zh.wikipedia.org/wiki/李恆韜 "wikilink")，活躍時間為2000年至今。而[何家豪负责打鼓](https://zh.wikipedia.org/wiki/何家豪 "wikilink")，写歌、填词、编曲以及主唱一手包办。
+**Ever**是於2000年所成立的[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，為前[beyond鼓手](https://zh.wikipedia.org/wiki/beyond "wikilink")[葉世榮旗下藝人](../Page/葉世榮.md "wikilink")，由三位成員組成，分別是[何家豪](../Page/何家豪.md "wikilink")、[何家杰以及](https://zh.wikipedia.org/wiki/何家杰 "wikilink")[李恆韜](https://zh.wikipedia.org/wiki/李恆韜 "wikilink")，活躍時間為2000年至今。而[何家豪负责打鼓](../Page/何家豪.md "wikilink")，写歌、填词、编曲以及主唱一手包办。
 
 ## 簡介
 
@@ -9,7 +9,7 @@ EVER希望透过他们的音乐将欢乐传递给乐迷，所以他们的音乐�
 
 ## 成員
 
-  - 中文名:[何家豪](https://zh.wikipedia.org/wiki/何家豪 "wikilink")
+  - 中文名:[何家豪](../Page/何家豪.md "wikilink")
   - 英文名:Andy Ho
   - 生 日: 12月31日
   - 星 座: 山羊座

@@ -109,7 +109,7 @@
 ## 参见
 
   - [Tanhc函数](../Page/Tanhc函数.md "wikilink")
-  - [Coshc函数](https://zh.wikipedia.org/wiki/Coshc函数 "wikilink")
+  - [Coshc函数](../Page/Coshc函数.md "wikilink")
   - [Tanc函数](../Page/Tanc函数.md "wikilink")
   - [双曲正弦积分函数](https://zh.wikipedia.org/wiki/双曲正弦积分函数 "wikilink")
 

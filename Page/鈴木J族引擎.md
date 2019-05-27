@@ -7,7 +7,7 @@
 3,000rpm。車型：
 
 1.  1995年-2002年：第三代鈴木Cultus Crescent
-    Wagon、[鈴木Esteem](https://zh.wikipedia.org/wiki/鈴木Esteem "wikilink")（鈴木Cultus外銷版名稱）
+    Wagon、[鈴木Esteem](../Page/鈴木Esteem.md "wikilink")（鈴木Cultus外銷版名稱）
 2.  1996年-2000年：第一、二代[鈴木Escudo](../Page/鈴木Escudo.md "wikilink")
 
 ## J20/J20A型
@@ -19,7 +19,7 @@
     Levante](../Page/馬自達Proceed_Levante.md "wikilink")
 2.  1997年-2008年：第二、三代鈴木Escudo
 3.  1999年-2004年：第二代
-4.  2001年-2007年：[鈴木Liana](https://zh.wikipedia.org/wiki/鈴木Liana "wikilink")
+4.  2001年-2007年：[鈴木Liana](../Page/鈴木Liana.md "wikilink")
 5.  2006年迄今：第一、二代[鈴木SX4](../Page/鈴木SX4.md "wikilink")
 
 ## J23A型
@@ -27,7 +27,7 @@
 排氣量2,290c.c.的**J23A型**引擎之缸徑90.0mm、衝程90.0mm，最大馬力156hp /
 5,400rpm、最大扭力20.1kg·m / 3,000rpm。車型：
 
-1.  2001年-2007年：[鈴木Liana](https://zh.wikipedia.org/wiki/鈴木Liana "wikilink")
+1.  2001年-2007年：[鈴木Liana](../Page/鈴木Liana.md "wikilink")
 
 ## J24B型
 
@@ -37,7 +37,7 @@
 4,000rpm。此外，這具引擎具有鈴木公司史上首度採用的旋轉閥式可變進氣系統、平衡軸等元件。車型：
 
 1.  2008年迄今：第三代鈴木Escudo
-2.  2009年-2014年：[鈴木Kizashi](https://zh.wikipedia.org/wiki/鈴木Kizashi "wikilink")
+2.  2009年-2014年：[鈴木Kizashi](../Page/鈴木Kizashi.md "wikilink")
 
 ## 內部連結
 

@@ -260,7 +260,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視�
 ### 瓦爾德海賊團
 
   - <span id="班迪·瓦爾德"></span>
-    聲優：[古田新太](https://zh.wikipedia.org/wiki/古田新太 "wikilink")（日本）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")、[錢欣郁](../Page/錢欣郁.md "wikilink")〔幼年時期〕（台灣）；待查詢、[王慧珠](../Page/王慧珠.md "wikilink")〔幼年時期〕（香港）
+    聲優：[古田新太](../Page/古田新太.md "wikilink")（日本）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")、[錢欣郁](../Page/錢欣郁.md "wikilink")〔幼年時期〕（台灣）；待查詢、[王慧珠](../Page/王慧珠.md "wikilink")〔幼年時期〕（香港）
     「瓦爾德海賊團」船長，通稱「瓦爾德」，被稱為「世界破壞者」，**懸賞金額：<s>2億貝里</s> （入獄前）→
     5億貝里（逃獄後）**是曾與**[「海賊王」哥爾·D·羅傑](../Page/哥爾·D·羅傑.md "wikilink")**、**[「白鬍子」艾德華·紐蓋特](https://zh.wikipedia.org/wiki/白鬍子海賊團#艾德華·紐蓋特 "wikilink")**等一同讓世界政府和海軍畏懼的男人，年輕時十分保護哥哥賓杰克，但因為一件事的緣故，從此性情大變。
     掌握了六式中的**月步**和**剃**以及全身性的**[武裝色霸氣](https://zh.wikipedia.org/wiki/霸氣_\(ONE_PIECE\) "wikilink")**、**[見聞色霸氣](https://zh.wikipedia.org/wiki/霸氣_\(ONE_PIECE\) "wikilink")**，是吃了**超人系「[倍增果實](../Page/惡魔果實.md "wikilink")」**能力者（more，更加的意思），能讓接觸到的物體的大小、速度提升上百倍。

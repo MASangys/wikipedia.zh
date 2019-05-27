@@ -3,7 +3,7 @@
 Nexus系列的第](../Page/Google_Nexus.md "wikilink")4款[Android平板电脑](../Page/Android.md "wikilink")。这款平板採用8.9英吋[4:3屏幕](https://zh.wikipedia.org/wiki/4:3 "wikilink")（[解析度](https://zh.wikipedia.org/wiki/解析度 "wikilink")2048x1536），而不是前3款Nexus平板所採用的16:10屏幕。这一产品将会以16GB和32GB两种存储容量上市。
 
 Nexus 9与[Nexus 6一同搭载](../Page/Nexus_6.md "wikilink")[Android
-Lollipop](https://zh.wikipedia.org/wiki/Android_Lollipop "wikilink")(5.0)[操作系统](../Page/操作系统.md "wikilink")。目前可升級最新版本[Android
+Lollipop](../Page/Android_Lollipop.md "wikilink")(5.0)[操作系统](../Page/操作系统.md "wikilink")。目前可升級最新版本[Android
 Nougat](../Page/Android_Nougat.md "wikilink")(7.1.1)。
 
 ## 特色
@@ -41,7 +41,7 @@ GHz。是唯一搭載該处理器的平板电脑。
 <tbody>
 <tr class="odd">
 <td><p>系統</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Lollipop" title="wikilink">Android Lollipop (5.1.1)</a> 目前可升級最新版本<a href="../Page/Android_Nougat.md" title="wikilink">Android Nougat (7.1.1)</a>。</p></td>
+<td><p><a href="../Page/Android_Lollipop.md" title="wikilink">Android Lollipop (5.1.1)</a> 目前可升級最新版本<a href="../Page/Android_Nougat.md" title="wikilink">Android Nougat (7.1.1)</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>螢幕</p></td>

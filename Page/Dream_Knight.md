@@ -80,7 +80,7 @@ Pictures共同製作拍攝的網路劇，由[JYP娛樂旗下男子團體](../Pag
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/段宜恩" title="wikilink">段宜恩</a></p></td>
+<p><a href="../Page/段宜恩.md" title="wikilink">段宜恩</a></p></td>
 <td><center>
 <p>Mark</p></td>
 <td><p>有一張令少女們都為之傾倒的天使臉孔，平常是舉止貼心浪漫的美少年，但搗蛋起來則是小惡魔一個，尤其和Jackson在一起更是惡作劇界的天作之合，兩人時常逗弄著仁馨，讓仁馨哭笑不得。個人必殺技是Wink，具有如丘比特般讓人「瞬間萌生愛意」的超能力。酷愛玩滑板。</p></td>
@@ -116,7 +116,7 @@ Pictures共同製作拍攝的網路劇，由[JYP娛樂旗下男子團體](../Pag
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/金有謙" title="wikilink">金有謙</a></p></td>
+<p><a href="../Page/金有謙.md" title="wikilink">金有謙</a></p></td>
 <td><center>
 <p>有謙</p></td>
 <td><p>惹人疼愛的老么，當紅人氣團體GOT的舞蹈擔當，是偶像中最強的舞神偶像。留著一頭齊平的瀏海，因此常被騎士們恥笑像「門簾」。對於隊長Jr.給予的任務都會認真的完成，常常掛著天真無邪的笑容，但偶爾也會露出迷人的「壞男孩」的表情，是個兼具「男孩」與「男人」魅力的反轉男。</p></td>
@@ -204,7 +204,7 @@ Pictures共同製作拍攝的網路劇，由[JYP娛樂旗下男子團體](../Pag
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/張姬領" title="wikilink">張姬領</a></p></td>
+<p><a href="../Page/張姬領.md" title="wikilink">張姬領</a></p></td>
 <td><p>「智秀」，Jr.曾愛慕與守護的對象</p></td>
 <td><center>
 <p>8、9</p></td>
@@ -416,7 +416,7 @@ Pictures共同製作拍攝的網路劇，由[JYP娛樂旗下男子團體](../Pag
 </tr>
 <tr class="even">
 <td><p>最佳新銳獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張姬領" title="wikilink">張姬令</a></p></td>
+<td><p><a href="../Page/張姬領.md" title="wikilink">張姬令</a></p></td>
 <td></td>
 <td></td>
 <td></td>

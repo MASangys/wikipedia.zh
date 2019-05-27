@@ -14,7 +14,7 @@ Presents SMAPがんばりますっ\!\!》中播出。
   - 編劇：[米村正二](https://zh.wikipedia.org/wiki/米村正二 "wikilink")
   - 導演：[田村直己](https://zh.wikipedia.org/wiki/田村直己 "wikilink")（テレビ朝日）
   - 顧問：小野寺章（石森プロ）、[奥田創史](https://zh.wikipedia.org/wiki/奥田創史 "wikilink")（テレビ朝日）
-  - 製作人：[梶淳](https://zh.wikipedia.org/wiki/梶淳 "wikilink")・大江達樹（テレビ朝日）、[白倉伸一郎](https://zh.wikipedia.org/wiki/白倉伸一郎 "wikilink")・[武部直美](https://zh.wikipedia.org/wiki/武部直美 "wikilink")・和佐野健一（東映）
+  - 製作人：[梶淳](../Page/梶淳.md "wikilink")・大江達樹（テレビ朝日）、[白倉伸一郎](https://zh.wikipedia.org/wiki/白倉伸一郎 "wikilink")・[武部直美](https://zh.wikipedia.org/wiki/武部直美 "wikilink")・和佐野健一（東映）
   - 武術指導：[村上潤](https://zh.wikipedia.org/wiki/村上潤 "wikilink")
   - 攝影：[いのくままさお](https://zh.wikipedia.org/wiki/いのくままさお "wikilink")
   - 角色設計：[早瀬マサト](https://zh.wikipedia.org/wiki/早瀬マサト "wikilink")（石森プロ）、[野中剛](https://zh.wikipedia.org/wiki/野中剛 "wikilink")

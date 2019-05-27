@@ -21,7 +21,7 @@ GTP是[GPRS核心网中使用的主要协议](../Page/GPRS核心网.md "wikilink
       - 位置更新。例如，当签约用户从一个[SGSN移动到另一个SGSN](https://zh.wikipedia.org/wiki/GPRS核心网#业务GPRS支撑节点（SGSN） "wikilink")
   - [GTP'用于从各个](../Page/GTP'.md "wikilink")[GSN传送计费数据到计费网关功能](https://zh.wikipedia.org/wiki/GPRS核心网#GPRS支撑节点\(GSN\) "wikilink")（CGF，）。
 
-[GGSN和](https://zh.wikipedia.org/wiki/GPRS核心网#网关GPRS支撑节点（GGSN） "wikilink")[SGSN](https://zh.wikipedia.org/wiki/GPRS核心网#业务GPRS支撑节点（SGSN） "wikilink")（合称为“[GSN](https://zh.wikipedia.org/wiki/GPRS核心网#GPRS支撑节点（GSN） "wikilink")”）在[UDP端口](../Page/用户数据报协议.md "wikilink")2123上监听GTP-C消息，在端口2152上监听GTP-U消息。GTP协议通信可以通过[GPRS漫游交换](https://zh.wikipedia.org/wiki/GPRS漫游交换 "wikilink")（）发生在不同运营商之间。
+[GGSN和](https://zh.wikipedia.org/wiki/GPRS核心网#网关GPRS支撑节点（GGSN） "wikilink")[SGSN](https://zh.wikipedia.org/wiki/GPRS核心网#业务GPRS支撑节点（SGSN） "wikilink")（合称为“[GSN](https://zh.wikipedia.org/wiki/GPRS核心网#GPRS支撑节点（GSN） "wikilink")”）在[UDP端口](../Page/用户数据报协议.md "wikilink")2123上监听GTP-C消息，在端口2152上监听GTP-U消息。GTP协议通信可以通过[GPRS漫游交换](../Page/GPRS漫游交换.md "wikilink")（）发生在不同运营商之间。
 
 *计费网关功能*（CGF，英文：Charging Gateway
 Function）在[TCP](../Page/传输控制协议.md "wikilink")/[UDP端口](../Page/用户数据报协议.md "wikilink")3386上监听发送自[GSN的GTP](https://zh.wikipedia.org/wiki/GPRS核心网#GPRS支撑节点（GSN） "wikilink")'消息。核心网发送计费信息到CGF，计费信息至少包含[PDP上下文激活次数以及终端用户传送的数据量](https://zh.wikipedia.org/wiki/GPRS核心网#PDP上下文 "wikilink")。与GTP-C和GTP-U不同，GTP'协议承载的报文通常只在单个运营商网络内部使用，因此并不那么标准化。运营商可以做特殊的配置，使用特别的编码，甚至使用完全不同的系统来完成计费。

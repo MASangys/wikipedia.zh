@@ -1,5 +1,5 @@
-**布雷非德菌素A**（）是一种大环[内酯类](../Page/内酯.md "wikilink")[抗生素](https://zh.wikipedia.org/wiki/抗生素 "wikilink")，由[布雷正青霉菌](https://zh.wikipedia.org/wiki/布雷正青霉菌 "wikilink")（*Penicillium
-brefeldianum*）等[真菌组织产生](https://zh.wikipedia.org/wiki/真菌 "wikilink")\[1\]。布雷非德菌素A能通过阻止[COPI被膜小泡的形成来抑制从](https://zh.wikipedia.org/wiki/COPI "wikilink")[内质网到](../Page/内质网.md "wikilink")[高尔基体的蛋白质转运](../Page/高尔基体.md "wikilink")\[2\]。布雷非德菌素A最初被当做抗病毒药物分离出来\[3\]，但现今的主要作用是在[细胞生物学中研究蛋白质的转运](../Page/细胞生物学.md "wikilink")。
+**布雷非德菌素A**（）是一种大环[内酯类](../Page/内酯.md "wikilink")[抗生素](https://zh.wikipedia.org/wiki/抗生素 "wikilink")，由[布雷正青霉菌](../Page/布雷正青霉菌.md "wikilink")（*Penicillium
+brefeldianum*）等[真菌组织产生](../Page/真菌.md "wikilink")\[1\]。布雷非德菌素A能通过阻止[COPI被膜小泡的形成来抑制从](https://zh.wikipedia.org/wiki/COPI "wikilink")[内质网到](../Page/内质网.md "wikilink")[高尔基体的蛋白质转运](../Page/高尔基体.md "wikilink")\[2\]。布雷非德菌素A最初被当做抗病毒药物分离出来\[3\]，但现今的主要作用是在[细胞生物学中研究蛋白质的转运](../Page/细胞生物学.md "wikilink")。
 
 ## 物理性质
 

@@ -6,7 +6,7 @@
 
 〈掙脫束縛〉為[珍娜·傑克森第四張](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《**[節奏國度](../Page/Janet_Jackson's_Rhythm_Nation_1814.md "wikilink")**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Janet
 Jackson's Rhythm Nation
-1814**）中所推出的第三首單曲，前兩首單曲為〈[想念你](https://zh.wikipedia.org/wiki/Miss_You_Much "wikilink")〉（四週冠軍）以及〈[節奏國度](../Page/節奏國度.md "wikilink")〉（第2名）\[4\]。
+1814**）中所推出的第三首單曲，前兩首單曲為〈[想念你](../Page/Miss_You_Much.md "wikilink")〉（四週冠軍）以及〈[節奏國度](../Page/節奏國度.md "wikilink")〉（第2名）\[4\]。
 
 ### 單曲簡介
 

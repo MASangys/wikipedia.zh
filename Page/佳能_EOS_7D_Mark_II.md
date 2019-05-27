@@ -8,7 +8,7 @@ II**是[佳能于](../Page/佳能.md "wikilink")2014年9月15日推出的一款[
     [CMOS图像传感器](https://zh.wikipedia.org/wiki/CMOS "wikilink")
   - 双DIGIC6图像传感器
   - 实时取景模式
-  - 100%视野率[取景器](https://zh.wikipedia.org/wiki/取景器 "wikilink")，约1倍放大倍率（使用50mm镜头对无限远对焦）\[3\]
+  - 100%视野率[取景器](../Page/取景器.md "wikilink")，约1倍放大倍率（使用50mm镜头对无限远对焦）\[3\]
   - 10张/秒高速连拍
   - 65点全十字型对焦系统
   - ISO感光度范围100-16000（可扩展至51200）

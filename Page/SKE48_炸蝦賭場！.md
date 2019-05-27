@@ -6,7 +6,7 @@
 ## 簡介
 
 該節目是SKE48與女性[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[大久保佳代子繼](../Page/大久保佳代子.md "wikilink")《[SKE48的炸蝦週五夜](../Page/SKE48的炸蝦週五夜.md "wikilink")》和《[SKE48
-炸蝦商\!](https://zh.wikipedia.org/wiki/SKE48_炸蝦商! "wikilink")》之後、合作的「炸蝦」系列綜藝節目的第三部。
+炸蝦商\!](../Page/SKE48_炸蝦商!.md "wikilink")》之後、合作的「炸蝦」系列綜藝節目的第三部。
 
 在大久保佳代子私設的[賭場內](../Page/賭場.md "wikilink")，SKE48的成員們將分組對大久保老闆舉辦的各式各樣「人間比試」結果進行預測，答案錯誤的會受到恐怖的懲罰。
 
@@ -28,7 +28,7 @@
         KII：[阿比留李帆](../Page/阿比留李帆.md "wikilink")、[荒井優希](https://zh.wikipedia.org/wiki/荒井優希 "wikilink")、[石田安奈](../Page/石田安奈.md "wikilink")、[内山命](https://zh.wikipedia.org/wiki/内山命 "wikilink")、[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[神門沙樹](https://zh.wikipedia.org/wiki/神門沙樹 "wikilink")、[惣田紗莉渚](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")、[高木由麻奈](../Page/高木由麻奈.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[日高優月](https://zh.wikipedia.org/wiki/日高優月 "wikilink")、[古川愛李](../Page/古川愛李.md "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[水埜帆乃香](https://zh.wikipedia.org/wiki/水埜帆乃香 "wikilink")、[山下由加里](https://zh.wikipedia.org/wiki/山下由加里 "wikilink")、[山田菜菜](../Page/山田菜菜.md "wikilink")、[山田瑞穗](https://zh.wikipedia.org/wiki/山田瑞穗 "wikilink")
       - Team
         E：[磯原杏華](../Page/磯原杏華.md "wikilink")、[市野成美](https://zh.wikipedia.org/wiki/市野成美 "wikilink")、[岩永亞美](https://zh.wikipedia.org/wiki/岩永亞美 "wikilink")、[梅本圓](../Page/梅本圓.md "wikilink")、[加藤琉美](../Page/加藤琉美.md "wikilink")、[木本花音](../Page/木本花音.md "wikilink")、[熊崎晴香](https://zh.wikipedia.org/wiki/熊崎晴香 "wikilink")、[小石公美子](https://zh.wikipedia.org/wiki/小石公美子 "wikilink")、[小林亞實](../Page/小林亞實.md "wikilink")、[齊藤真木子](https://zh.wikipedia.org/wiki/齊藤真木子 "wikilink")、[酒井萌衣](https://zh.wikipedia.org/wiki/酒井萌衣 "wikilink")、[佐藤堇](../Page/佐藤堇.md "wikilink")、[柴田阿彌](https://zh.wikipedia.org/wiki/柴田阿彌 "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")、[松井玲奈](../Page/松井玲奈.md "wikilink")
-      - 研究生：[青木詩織](https://zh.wikipedia.org/wiki/青木詩織 "wikilink")、[井田玲音名](https://zh.wikipedia.org/wiki/井田玲音名 "wikilink")、[鎌田菜月](https://zh.wikipedia.org/wiki/鎌田菜月 "wikilink")、[佐佐木柚香](https://zh.wikipedia.org/wiki/佐佐木柚香 "wikilink")、[松村香織](../Page/松村香織.md "wikilink")、[山田樹奈](https://zh.wikipedia.org/wiki/山田樹奈 "wikilink")
+      - 研究生：[青木詩織](https://zh.wikipedia.org/wiki/青木詩織 "wikilink")、[井田玲音名](https://zh.wikipedia.org/wiki/井田玲音名 "wikilink")、[鎌田菜月](../Page/鎌田菜月.md "wikilink")、[佐佐木柚香](https://zh.wikipedia.org/wiki/佐佐木柚香 "wikilink")、[松村香織](../Page/松村香織.md "wikilink")、[山田樹奈](https://zh.wikipedia.org/wiki/山田樹奈 "wikilink")
   - 解說員
       - [梶裕貴](../Page/梶裕貴.md "wikilink")
       - [布萊德庫特·莎拉·惠美](../Page/布萊德庫特·莎拉·惠美.md "wikilink")（第3回-）
@@ -199,7 +199,7 @@
 
   - [SKE48的炸蝦週五夜](../Page/SKE48的炸蝦週五夜.md "wikilink") -
     實質的節目前身，SKE48炸蝦系列的第一部。
-  - [SKE48 炸蝦商\!](https://zh.wikipedia.org/wiki/SKE48_炸蝦商! "wikilink") -
+  - [SKE48 炸蝦商\!](../Page/SKE48_炸蝦商!.md "wikilink") -
     實質的節目前身，SKE48炸蝦系列的第二部。
 
 ## 參考文獻

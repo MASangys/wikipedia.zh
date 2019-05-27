@@ -1,7 +1,7 @@
 《**SOUND
 VOLTEX**》（，中文译名：**音律炫动**\[1\]）是[KONAMI於](https://zh.wikipedia.org/wiki/KONAMI "wikilink")2012年1月18日起推出的[街機](https://zh.wikipedia.org/wiki/街機 "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")，屬於[Bemani系列的一員](https://zh.wikipedia.org/wiki/Bemani "wikilink")。官方簡稱為「**SDVX**」及「****」\[2\]。
 2011年7月16日進行了事前沒有發表的突發場測，而同年8月24日進行了官方場測。本作跟《[pop'n
-music](https://zh.wikipedia.org/wiki/流行音乐_\(游戏\) "wikilink")》、《[jubeat](https://zh.wikipedia.org/wiki/jubeat "wikilink")》及《[REFLEC
+music](../Page/流行音乐_\(游戏\).md "wikilink")》、《[jubeat](https://zh.wikipedia.org/wiki/jubeat "wikilink")》及《[REFLEC
 BEAT](https://zh.wikipedia.org/wiki/REFLEC_BEAT "wikilink")》一樣，並沒有模擬某種特定樂器的形態，本作的特徵並非「正確地演奏並發出聲音」，而是「透過操作裝置達到效果」。這是BEMANI系列中，自《[beatmania
 III](https://zh.wikipedia.org/wiki/beatmania "wikilink")》相隔十多年以來，再次內藏[耳機端口](../Page/耳機.md "wikilink")。
 
@@ -183,8 +183,7 @@ infinite infection 追加，属于 BEMANI 系列的跨机种联动计划之一�
 ### SOUND VOLTEX II -infinite infection-
 
   - （2013年6月5日推出）
-    本作的第二代。[DJ
-    Yoshitaka就任製作者](https://zh.wikipedia.org/wiki/西村宜隆 "wikilink")。
+    本作的第二代。[DJ Yoshitaka就任製作者](../Page/西村宜隆.md "wikilink")。
     於2013年2月15日至2月16日舉行的 2013首次登場\[23\]。
     設計以白色及粉紅色為主調，白色為主要顏色\[24\]。
     增加了更多EFFECTOR、增加了LONG BT OBJECT（BT按鈕的長按）及CHIP FX

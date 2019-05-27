@@ -131,8 +131,8 @@
 
 ## 参看
 
-  - [Sinhc函数](https://zh.wikipedia.org/wiki/Sinhc函数 "wikilink")
-  - [Coshc函数](https://zh.wikipedia.org/wiki/Coshc函数 "wikilink")
+  - [Sinhc函数](../Page/Sinhc函数.md "wikilink")
+  - [Coshc函数](../Page/Coshc函数.md "wikilink")
   - [Tanhc函数](../Page/Tanhc函数.md "wikilink")
   - [双曲正弦积分函数](https://zh.wikipedia.org/wiki/双曲正弦积分函数 "wikilink")
 

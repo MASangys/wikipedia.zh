@@ -16,9 +16,9 @@ Girls（好好笑女孩）**，為[台灣的女子搞笑團體](https://zh.wikip
 
 本名陳玉珊。長期關注及參與社會運動。喜歡恐怖片及血腥片。
 
-  - [涵冷娜](https://zh.wikipedia.org/wiki/許乃涵 "wikilink")
+  - [涵冷娜](../Page/許乃涵.md "wikilink")
 
-本名[許乃涵](https://zh.wikipedia.org/wiki/許乃涵 "wikilink")。負責團內劇本發想及創意表現。
+本名[許乃涵](../Page/許乃涵.md "wikilink")。負責團內劇本發想及創意表現。
 
   - ㄆㄆ
 

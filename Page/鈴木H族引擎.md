@@ -1,4 +1,4 @@
-**鈴木H族引擎**是1990年代[日本](../Page/日本.md "wikilink")[鈴木公司開發製造的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[往復式](../Page/往复式发动机.md "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")，共通設計為[V型六缸](https://zh.wikipedia.org/wiki/V6发动机 "wikilink")、[DOHC](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")、24汽門、多點燃油噴射（multi-point
+**鈴木H族引擎**是1990年代[日本](../Page/日本.md "wikilink")[鈴木公司開發製造的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[往復式](../Page/往复式发动机.md "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")，共通設計為[V型六缸](../Page/V6发动机.md "wikilink")、[DOHC](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")、24汽門、多點燃油噴射（multi-point
 fuel
 injection）的結構。H20A型引擎曾和[馬自達汽車共同合作研發](https://zh.wikipedia.org/wiki/馬自達 "wikilink")，故姊妹品乃[馬自達KF型引擎](https://zh.wikipedia.org/wiki/馬自達K族引擎#KF型 "wikilink")。
 
@@ -26,7 +26,7 @@ injection）的結構。H20A型引擎曾和[馬自達汽車共同合作研發](h
 2.  1996年-1997年：第一代鈴木Escudo（[澳洲除外](https://zh.wikipedia.org/wiki/澳洲 "wikilink")）
 3.  1997年-2005年：第二代鈴木Escudo
 4.  1998年-2006年：[鈴木Grand Vitara
-    XL-7](https://zh.wikipedia.org/wiki/鈴木Grand_Escudo "wikilink")（[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")）
+    XL-7](../Page/鈴木Grand_Escudo.md "wikilink")（[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")）
 5.  2001年-2004年：
 
 ## H27A型
@@ -40,7 +40,7 @@ injection）的結構。H20A型引擎曾和[馬自達汽車共同合作研發](h
 比較特殊的是，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")所製造、仿製[P-51戰鬥機](../Page/P-51戰鬥機.md "wikilink")3/4大小的亦可選配此具引擎\[2\]車型：
 
 1.  1998年-2006年：[鈴木Grand Vitara
-    XL-7](https://zh.wikipedia.org/wiki/鈴木Grand_Escudo "wikilink")
+    XL-7](../Page/鈴木Grand_Escudo.md "wikilink")
 2.  2005年迄今：第三代鈴木Escudo
 
 ## 內部連結

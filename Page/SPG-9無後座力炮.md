@@ -1,7 +1,7 @@
 **SPG-9“矛”**（；СПГ，全寫：Станковый Противотанковый
-Гранатомёт，意為：炮架以上的反坦克榴彈發射器；Копьё，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：，；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／；以下簡稱為“SPG-9”）是一門由[苏联所](../Page/苏联.md "wikilink")[研發的](../Page/研究開發.md "wikilink")[三腳式炮架及單兵便攜式](https://zh.wikipedia.org/wiki/三腳架 "wikilink")73毫米[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[无后座力炮](../Page/无后座力炮.md "wikilink")，發射73毫米[炮彈](../Page/炮彈.md "wikilink")。
+Гранатомёт，意為：炮架以上的反坦克榴彈發射器；Копьё，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：，；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／；以下簡稱為“SPG-9”）是一門由[苏联所](../Page/苏联.md "wikilink")[研發的](../Page/研究開發.md "wikilink")[三腳式炮架及單兵便攜式](https://zh.wikipedia.org/wiki/三腳架 "wikilink")73毫米[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[无后座力炮](../Page/无后座力炮.md "wikilink")，發射73毫米[炮彈](../Page/炮彈.md "wikilink")。
 
-該武器結合了[榴彈發射器和](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")[反坦克武器的屬性](https://zh.wikipedia.org/wiki/反坦克武器 "wikilink")，為摩托化步兵和空降兵部隊用以打擊裝甲車輛和野戰工事的戰鬥系統。其發射的尾翼穩定及火箭助推式高爆彈和[高爆反坦克彈類似於](../Page/高爆反坦克彈.md "wikilink")[BMP-1裝甲車上的](../Page/BMP-1步兵戰車.md "wikilink")73毫米[2A28「雷電」低膛壓滑膛炮的炮彈](https://zh.wikipedia.org/wiki/2A28_73毫米雷電滑膛炮 "wikilink")。
+該武器結合了[榴彈發射器和](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")[反坦克武器的屬性](https://zh.wikipedia.org/wiki/反坦克武器 "wikilink")，為摩托化步兵和空降兵部隊用以打擊裝甲車輛和野戰工事的戰鬥系統。其發射的尾翼穩定及火箭助推式高爆彈和[高爆反坦克彈類似於](../Page/高爆反坦克彈.md "wikilink")[BMP-1裝甲車上的](../Page/BMP-1步兵戰車.md "wikilink")73毫米[2A28「雷電」低膛壓滑膛炮的炮彈](../Page/2A28_73毫米雷電滑膛炮.md "wikilink")。
 
 它自1962年獲採用以後服役，取代了過重的。雖然現在更多的現代武器系統取代其在正規武裝部隊的地位，它們仍然裝備在不同的軍隊和非正規部隊之中。
 
@@ -86,7 +86,7 @@ SPG-9被[恐怖分子和非洲之角地區的海上](../Page/恐怖主义.md "wi
 </tbody>
 </table>
 
-該無後座力炮還可發射[2A28「雷電」低膛壓滑膛炮的PG](https://zh.wikipedia.org/wiki/2A28_73毫米雷電滑膛炮 "wikilink")-15[聚能装药破甲弹](https://zh.wikipedia.org/wiki/聚能装药 "wikilink")。
+該無後座力炮還可發射[2A28「雷電」低膛壓滑膛炮的PG](../Page/2A28_73毫米雷電滑膛炮.md "wikilink")-15[聚能装药破甲弹](https://zh.wikipedia.org/wiki/聚能装药 "wikilink")。
 
 ## 衍生型
 
@@ -99,21 +99,21 @@ SPG-9具有多種衍生型，後綴字母為該修改確定的指數代碼。若
 
 ### SPG-9D
 
-SPG-9D（；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）是SPG-9的空降部隊使用型。[三腳架型炮架已被修改](https://zh.wikipedia.org/wiki/三腳架 "wikilink")。三腳架的前端被設計成可伸縮式結構，這樣便可設置不同的炮口高度，以採取更好的掩護優勢。武器運送時可將底部改為單軸運輸車架。運輸車架是由彈簧所承載，這使得它在戰鬥時可連接在牽引車輛的後方運送。
+SPG-9D（；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）是SPG-9的空降部隊使用型。[三腳架型炮架已被修改](https://zh.wikipedia.org/wiki/三腳架 "wikilink")。三腳架的前端被設計成可伸縮式結構，這樣便可設置不同的炮口高度，以採取更好的掩護優勢。武器運送時可將底部改為單軸運輸車架。運輸車架是由彈簧所承載，這使得它在戰鬥時可連接在牽引車輛的後方運送。
 
 ### SPG-9M
 
-SPG-9M（；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）是SPG-9的現代化改進型。PGO-9[光學瞄準鏡可被校整式瞄準鏡PGOK](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")-9所取代。這使得直接和間接校直射擊變得可能的。
+SPG-9M（；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）是SPG-9的現代化改進型。PGO-9[光學瞄準鏡可被校整式瞄準鏡PGOK](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")-9所取代。這使得直接和間接校直射擊變得可能的。
 
 ### SPG-9DM
 
-SPG-9DM（；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）是SPG-9的現代化空降部隊使用型。除了改進了SPG-9D的炮架，PGO-9[光學瞄準鏡亦可被校整式瞄準鏡PGOK](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")-9所取代。這使得直接和間接校直射擊變得可能的。
+SPG-9DM（；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）是SPG-9的現代化空降部隊使用型。除了改進了SPG-9D的炮架，PGO-9[光學瞄準鏡亦可被校整式瞄準鏡PGOK](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")-9所取代。這使得直接和間接校直射擊變得可能的。
 
 ### SPG-9N
 
-SPG-9N（）是SPG-9的夜間戰鬥型。使用的瞄準具為PGN-9（[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）[红外线被動式](../Page/红外线.md "wikilink")[夜視鏡](../Page/夜視鏡.md "wikilink")。針對這一點，炮管上裝有一個合適的支架。此外，入射瞳口的殼體附有保護蓋，以保護夜視鏡免受閃光燈等閃光的亮度損壞。當SPG-9D、SPG-9M和SPG9DM時裝上PGN-9夜視鏡時的型號名分別是SPG-9DN、SPG-9MN和SPG-9DMN。
+SPG-9N（）是SPG-9的夜間戰鬥型。使用的瞄準具為PGN-9（[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）[红外线被動式](../Page/红外线.md "wikilink")[夜視鏡](../Page/夜視鏡.md "wikilink")。針對這一點，炮管上裝有一個合適的支架。此外，入射瞳口的殼體附有保護蓋，以保護夜視鏡免受閃光燈等閃光的亮度損壞。當SPG-9D、SPG-9M和SPG9DM時裝上PGN-9夜視鏡時的型號名分別是SPG-9DN、SPG-9MN和SPG-9DMN。
 
-73毫米[2A28「雷電」低膛壓滑膛炮也是基於SPG](https://zh.wikipedia.org/wiki/2A28_73毫米雷電滑膛炮 "wikilink")-9M，而成為複雜的[BMP-1](../Page/BMP-1步兵戰車.md "wikilink")[裝步戰車的一部分](https://zh.wikipedia.org/wiki/裝步戰車 "wikilink")。
+73毫米[2A28「雷電」低膛壓滑膛炮也是基於SPG](../Page/2A28_73毫米雷電滑膛炮.md "wikilink")-9M，而成為複雜的[BMP-1](../Page/BMP-1步兵戰車.md "wikilink")[裝步戰車的一部分](https://zh.wikipedia.org/wiki/裝步戰車 "wikilink")。
 
 ## 使用國
 
@@ -162,21 +162,21 @@ SPG-9N（）是SPG-9的夜間戰鬥型。使用的瞄準具為PGN-9（[俄罗斯
 
 ## 參見
 
-  - [2A28「雷電」低膛壓滑膛炮](https://zh.wikipedia.org/wiki/2A28_73毫米雷電滑膛炮 "wikilink")
+  - [2A28「雷電」低膛壓滑膛炮](../Page/2A28_73毫米雷電滑膛炮.md "wikilink")
 
   -
   -
-  - [SPG-82無後座力炮](https://zh.wikipedia.org/wiki/SPG-82無後座力炮 "wikilink")
+  - [SPG-82無後座力炮](../Page/SPG-82無後座力炮.md "wikilink")
 
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")
 
   - [78式无后座力炮](https://zh.wikipedia.org/wiki/78式无后座力炮 "wikilink")
 
-  - [布雷達迅雷無後座力炮](https://zh.wikipedia.org/wiki/布雷達迅雷無後座力炮 "wikilink")
+  - [布雷達迅雷無後座力炮](../Page/布雷達迅雷無後座力炮.md "wikilink")
 
-  - [M20無後座力炮](https://zh.wikipedia.org/wiki/M20無後座力炮 "wikilink")
+  - [M20無後座力炮](../Page/M20無後座力炮.md "wikilink")
 
-  - [M40無後座力炮](https://zh.wikipedia.org/wiki/M40無後座力炮 "wikilink")
+  - [M40無後座力炮](../Page/M40無後座力炮.md "wikilink")
 
   - [博福斯Pvpj 1110無後座力炮](../Page/博福斯Pvpj_1110無後座力炮.md "wikilink")
 

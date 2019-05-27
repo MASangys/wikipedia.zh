@@ -6,8 +6,7 @@
 
 根據[WoRMS](https://zh.wikipedia.org/wiki/WoRMS "wikilink")，本屬有物種27種\[2\]：
 
-  - [角糙鸟蛤](https://zh.wikipedia.org/wiki/角糙鸟蛤 "wikilink")
-    <small>(Lamarck, 1819)</small>
+  - [角糙鸟蛤](../Page/角糙鸟蛤.md "wikilink")  <small>(Lamarck, 1819)</small>
   - *[Vasticardium
     assimile](https://zh.wikipedia.org/wiki/Vasticardium_assimile "wikilink")*
     <small>(Reeve, 1844)</small>

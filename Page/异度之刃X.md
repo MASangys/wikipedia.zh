@@ -1,6 +1,6 @@
 是一款由[Monolith
 Soft開發](../Page/Monolith_Soft.md "wikilink")，[由任天堂於](../Page/任天堂.md "wikilink")[Wii
-U平台發行的日式](../Page/Wii_U.md "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。游戏是[异度系列作品之一](https://zh.wikipedia.org/wiki/异度系列 "wikilink")，为[Wii游戏](../Page/Wii.md "wikilink")《[异度之刃](https://zh.wikipedia.org/wiki/异度之刃 "wikilink")》的[精神续作](../Page/精神续作.md "wikilink")\[1\]。游戏于2015年4月29日在日本发行，同年12月在欧美發行\[2\]。
+U平台發行的日式](../Page/Wii_U.md "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。游戏是[异度系列作品之一](../Page/异度系列.md "wikilink")，为[Wii游戏](../Page/Wii.md "wikilink")《[异度之刃](https://zh.wikipedia.org/wiki/异度之刃 "wikilink")》的[精神续作](../Page/精神续作.md "wikilink")\[1\]。游戏于2015年4月29日在日本发行，同年12月在欧美發行\[2\]。
 
 ## 游戏角色
 

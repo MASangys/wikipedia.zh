@@ -22,7 +22,7 @@ Over**》是[太極樂隊的](../Page/太極樂隊.md "wikilink")[雷有輝於](
 | 5\.  | 多謝失戀    | [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") | [伍樂城](../Page/伍樂城.md "wikilink")                    | [雷有輝](https://zh.wikipedia.org/wiki/雷有輝 "wikilink") |
 | 6\.  | 旁人怎好    | [余邵琪](https://zh.wikipedia.org/wiki/余邵琪 "wikilink") | [雷有輝](https://zh.wikipedia.org/wiki/雷有輝 "wikilink") | [雷有輝](https://zh.wikipedia.org/wiki/雷有輝 "wikilink") |
 | 7\.  | 閃靈      | [林夕](../Page/林夕.md "wikilink")                      | [伍樂城](../Page/伍樂城.md "wikilink")                    | [雷有輝](https://zh.wikipedia.org/wiki/雷有輝 "wikilink") |
-| 8\.  | 心淡      | [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") | [徐繼宗](https://zh.wikipedia.org/wiki/徐繼宗 "wikilink") | [雷有輝](https://zh.wikipedia.org/wiki/雷有輝 "wikilink") |
+| 8\.  | 心淡      | [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") | [徐繼宗](../Page/徐繼宗.md "wikilink")                    | [雷有輝](https://zh.wikipedia.org/wiki/雷有輝 "wikilink") |
 | 9\.  | 背後的歌    | [甄健強](../Page/甄健強.md "wikilink")                    | [雷有輝](https://zh.wikipedia.org/wiki/雷有輝 "wikilink") | [雷有輝](https://zh.wikipedia.org/wiki/雷有輝 "wikilink") |
 | 10\. | 爸爸（國）   | [李焯雄](https://zh.wikipedia.org/wiki/李焯雄 "wikilink") | [雷有輝](https://zh.wikipedia.org/wiki/雷有輝 "wikilink") | [雷有輝](https://zh.wikipedia.org/wiki/雷有輝 "wikilink") |
 | 11\. | 有你在懷（國） | [姚謙](https://zh.wikipedia.org/wiki/姚謙 "wikilink")   | [雷有輝](https://zh.wikipedia.org/wiki/雷有輝 "wikilink") | [雷有輝](https://zh.wikipedia.org/wiki/雷有輝 "wikilink") |

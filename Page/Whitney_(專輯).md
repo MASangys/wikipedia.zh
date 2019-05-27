@@ -10,10 +10,10 @@ Me)](https://zh.wikipedia.org/wiki/I_Wanna_Dance_With_Somebody_\(Who_Loves_Me\) 
 Davis）更加重視這塊瑰寶，克立夫·戴維斯為了要重新打造惠妮·休斯頓，欽點納瑞達·麥可·華登（Narada Michael
 Walden）擔任《惠妮》的總製作人。這是納瑞達·麥可·華登初挑整張專輯製作大樑，他之前曾幫惠妮·休斯頓製作了單曲〈[How
 Will I
-Know](https://zh.wikipedia.org/wiki/How_Will_I_Know "wikilink")〉，初次的合作大大的成功。這也是總裁點名納瑞達·麥可·華登擔任如此重責大任的主要原因，他希望惠妮·休斯頓跳脫上一張專輯過於保守的框架，使她的歌聲能有更具活力動感的表現，〈I
+Know](../Page/How_Will_I_Know.md "wikilink")〉，初次的合作大大的成功。這也是總裁點名納瑞達·麥可·華登擔任如此重責大任的主要原因，他希望惠妮·休斯頓跳脫上一張專輯過於保守的框架，使她的歌聲能有更具活力動感的表現，〈I
 Wanna Dance With Somebody (Who Loves Me)〉、〈[So
-Emotional](https://zh.wikipedia.org/wiki/So_Emotional "wikilink")〉以及〈Love
-Will Save The Day〉就是最好的印證。
+Emotional](../Page/So_Emotional.md "wikilink")〉以及〈Love Will Save The
+Day〉就是最好的印證。
 
 《惠妮》一共收錄了11首歌曲，這次芒穗唱片公司特地安排惠妮·休斯頓和媽媽西西·休斯頓（Cissy
 Houston）兩人合作，母女兩重新詮釋了音樂劇「Chess」主題曲〈I
@@ -37,10 +37,10 @@ Albums**」，這張專輯位居第159名\[5\]。
 
 《惠妮》所推出的單曲，接連四首依序登上榜首位置，從動感十足熱力四射的〈I Wanna Dance With Somebody (Who
 Loves Me)〉2週冠軍、激情高亢的〈[Didn't We Almost Have It
-All](https://zh.wikipedia.org/wiki/Didn't_We_Almost_Have_It_All "wikilink")〉2週冠軍、節奏分明鏗鏘有力的〈[So
-Emotional](https://zh.wikipedia.org/wiki/So_Emotional "wikilink")〉1週冠軍到深情款款的〈[Where
-Do Broken Hearts
-Go](https://zh.wikipedia.org/wiki/Where_Do_Broken_Hearts_Go "wikilink")〉2週冠軍。第五首主打歌曲〈Love
+All](../Page/Didn't_We_Almost_Have_It_All.md "wikilink")〉2週冠軍、節奏分明鏗鏘有力的〈[So
+Emotional](../Page/So_Emotional.md "wikilink")〉1週冠軍到深情款款的〈[Where Do
+Broken Hearts
+Go](../Page/Where_Do_Broken_Hearts_Go.md "wikilink")〉2週冠軍。第五首主打歌曲〈Love
 Will Save The Day〉也獲得了第9名的好成績。
 
 《惠妮》除了在美國獲得11週冠軍之外，在英國專輯榜也拿下6週冠軍，上一張《惠妮·休斯頓》可惜只拿到第2名，《惠妮》成為惠妮·休斯頓首張英國冠軍專輯，它在英國榜內一共待了102週\[7\]。〈I
@@ -51,7 +51,7 @@ Wanna Dance With Somebody (Who Loves Me)〉也拿下英國單曲榜兩週冠軍�
 ### 葛萊美獎
 
 1985年，惠妮·休斯頓以《惠妮·休斯頓》中的〈[Saving All My Love for
-You](https://zh.wikipedia.org/wiki/Saving_All_My_Love_for_You "wikilink")〉榮獲第28屆[葛萊美獎最佳流行女歌手獎](../Page/葛萊美獎.md "wikilink")（），當時她是從表姊狄昂·華薇克（Dionne
+You](../Page/Saving_All_My_Love_for_You.md "wikilink")〉榮獲第28屆[葛萊美獎最佳流行女歌手獎](../Page/葛萊美獎.md "wikilink")（），當時她是從表姊狄昂·華薇克（Dionne
 Warwick）手中接過這個獎項。1987年，惠妮·休斯頓再度入圍該獎項，最後她依舊脫穎而出，憑恃單曲〈I Wanna Dance With
 Somebody (Who Loves Me)〉受到評審青睞，奪下第30屆葛萊美獎最佳流行女歌手獎。
 
@@ -68,11 +68,11 @@ Hearts Go〉（2週冠軍）\[11\]等四首。
 Know〉（2週冠軍）以及〈Greatest Love of
 All〉（3週冠軍）在內，惠妮·休斯頓創下了連續締造7首冠軍單曲的新紀錄\[12\]，超越之前則由[披頭四連續](https://zh.wikipedia.org/wiki/披頭四 "wikilink")6首冠軍歌曲紀錄。截至2016年，惠妮·休斯頓連奪七冠的紀錄尚未被超越。
 
-惠妮·休斯頓成為美國史上首位能在[錄音室專輯締造四首冠軍單曲的女藝人](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，此紀錄隨後也陸續被[寶拉·阿巴杜](../Page/寶拉·阿巴杜.md "wikilink")、[珍娜·傑克森和](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")[瑪麗亞·凱莉追平](https://zh.wikipedia.org/wiki/瑪麗亞·凱莉 "wikilink")，不過這紀錄已在2010年被[凱蒂·佩芮的專輯](../Page/凱蒂·佩芮.md "wikilink")《[花漾年華](../Page/花漾年華.md "wikilink")》（）締造5首冠軍單曲的成績超越。
+惠妮·休斯頓成為美國史上首位能在[錄音室專輯締造四首冠軍單曲的女藝人](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，此紀錄隨後也陸續被[寶拉·阿巴杜](../Page/寶拉·阿巴杜.md "wikilink")、[珍娜·傑克森和](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")[瑪麗亞·凱莉追平](../Page/瑪麗亞·凱莉.md "wikilink")，不過這紀錄已在2010年被[凱蒂·佩芮的專輯](../Page/凱蒂·佩芮.md "wikilink")《[花漾年華](../Page/花漾年華.md "wikilink")》（）締造5首冠軍單曲的成績超越。
 
 ### 天后之爭
 
-當代西洋流行音樂史中，有資格和惠妮·休斯頓相提並論的女藝人當屬[瑪丹娜和](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")[瑪麗亞·凱莉](https://zh.wikipedia.org/wiki/瑪麗亞·凱莉 "wikilink")，這三位女藝人在西洋樂壇上各自引領風騷。惠妮·休斯頓和瑪丹娜的資歷相仿，兩人都出道於1980年代初期，彼此在所屬的演藝事業上都取得巨大的成功，一位憑藉著優異的歌唱實力走紅，一位靠著出色的舞台魅力征服歌迷，兩位在全球的樂壇上都是能呼風喚雨的天后級角色。在1980年代結束時，惠妮·休斯頓和瑪丹娜各以7首冠軍單曲打成平手，這使得兩位天后的戰火繼續延燒到1990年代。
+當代西洋流行音樂史中，有資格和惠妮·休斯頓相提並論的女藝人當屬[瑪丹娜和](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")[瑪麗亞·凱莉](../Page/瑪麗亞·凱莉.md "wikilink")，這三位女藝人在西洋樂壇上各自引領風騷。惠妮·休斯頓和瑪丹娜的資歷相仿，兩人都出道於1980年代初期，彼此在所屬的演藝事業上都取得巨大的成功，一位憑藉著優異的歌唱實力走紅，一位靠著出色的舞台魅力征服歌迷，兩位在全球的樂壇上都是能呼風喚雨的天后級角色。在1980年代結束時，惠妮·休斯頓和瑪丹娜各以7首冠軍單曲打成平手，這使得兩位天后的戰火繼續延燒到1990年代。
 
 三人之中年紀最輕的瑪麗亞·凱莉出道於1990年，甫嶄露頭角歌唱事業就一飛沖天，她在美國樂壇竄紅的速度令人咋舌。瑪麗亞·凱莉和惠妮·休斯頓兩人在樂壇的發跡過程，其中有許多相似之處。兩人都以首張個人專輯成為告示牌最佳年度專輯，兩人都是出道第一年就獲得葛萊美獎最佳女歌手獎，瑪麗亞·凱莉的首張專輯就締造了四首冠軍單曲，這兩人除了在演藝事業上的成就不分軒輊之外，瑪麗亞·凱莉早期的嗓音、歌路和曲風都存在著惠妮·休斯頓諸多影子。瑪麗亞·凱莉一舉成名之後，她也順理成章的瓜分了惠妮·休斯頓這位樂壇前輩的市場和歌迷，長久以來，彼此有心結不見面的傳聞不脛而走。娛樂圈沒有永遠的敵人和朋友，瑪麗亞·凱莉和惠妮·休斯頓這兩位當代美聲天后在1998年破天荒攜手合作，為動畫電影共同獻唱主題曲〈[When
 You

@@ -67,7 +67,7 @@
 <tr class="even">
 <td><p>2008年9月15日、16日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奧勒岡州" title="wikilink">奧勒岡州</a><a href="https://zh.wikipedia.org/wiki/波特蘭" title="wikilink">波特蘭</a><a href="https://zh.wikipedia.org/wiki/波特蘭州立大學" title="wikilink">波特蘭州立大學</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奧勒岡州" title="wikilink">奧勒岡州</a><a href="https://zh.wikipedia.org/wiki/波特蘭" title="wikilink">波特蘭</a><a href="../Page/波特蘭州立大學.md" title="wikilink">波特蘭州立大學</a></p></td>
 <td></td>
 <td><p>[19]</p></td>
 </tr>

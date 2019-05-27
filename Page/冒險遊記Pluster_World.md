@@ -43,7 +43,7 @@
   - アニメーションプロデューサー - 山東学、木川田清一、南喜長
   - プロデューサー - 笹村武史、高橋知子
   - アニメーション制作 -
-    [アクタス](https://zh.wikipedia.org/wiki/Actas "wikilink")、[ブレインズ・ベース](../Page/Brain's_Base.md "wikilink")
+    [アクタス](../Page/Actas.md "wikilink")、[ブレインズ・ベース](../Page/Brain's_Base.md "wikilink")
   - 製作 - テレビ東京、NAS
 
 ## 主題歌
@@ -125,7 +125,7 @@
 <td><p>4</p></td>
 <td><p>神出＋鬼没＝デリィ</p></td>
 <td><p>神出 鬼没 戴莉</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大橋志吉" title="wikilink">大橋志吉</a></p></td>
+<td><p><a href="../Page/大橋志吉.md" title="wikilink">大橋志吉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奥村吉昭" title="wikilink">奥村吉昭</a></p></td>
 <td><p>浅見松雄</p></td>
 <td><p>田村一彦</p></td>

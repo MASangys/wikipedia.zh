@@ -16,10 +16,10 @@ WE队员及其他新人组成](https://zh.wikipedia.org/wiki/Team_WE "wikilink")
 
 #### 2014赛季
 
-2013年底，[皇族决定将旗下的LMQ战队转移至北美地区的](https://zh.wikipedia.org/wiki/皇族电子竞技俱乐部 "wikilink")[NA
-LCS联赛](https://zh.wikipedia.org/wiki/北美地区英雄联盟冠军联赛 "wikilink")，因此将空出的LPL名额转手给EDG战队，而2014年LPL春季赛也成为了EDG建队后参加的首项赛事。在2014年春季赛中，EDG在常规赛排名第二，并在季后赛中击败WE与[IG](https://zh.wikipedia.org/wiki/Invictus_Gaming "wikilink")，获得首个LPL冠军。
+2013年底，[皇族决定将旗下的LMQ战队转移至北美地区的](../Page/皇族电子竞技俱乐部.md "wikilink")[NA
+LCS联赛](../Page/北美地区英雄联盟冠军联赛.md "wikilink")，因此将空出的LPL名额转手给EDG战队，而2014年LPL春季赛也成为了EDG建队后参加的首项赛事。在2014年春季赛中，EDG在常规赛排名第二，并在季后赛中击败WE与[IG](https://zh.wikipedia.org/wiki/Invictus_Gaming "wikilink")，获得首个LPL冠军。
 
-夏季赛中EDG依旧表现出色，其在常规赛中排名第一，在季后赛中先后击败[LGD与](https://zh.wikipedia.org/wiki/LGD_Gaming "wikilink")[OMG](https://zh.wikipedia.org/wiki/OMG电子竞技俱乐部 "wikilink")，并在决赛中3:0再次战胜在败者组决赛中战胜SH皇族的OMG，成功卫冕LPL冠军的同时也以LPL赛区一号种子身份晋级[英雄联盟2014赛季全球总决赛](https://zh.wikipedia.org/wiki/英雄联盟2014赛季全球总决赛 "wikilink")。
+夏季赛中EDG依旧表现出色，其在常规赛中排名第一，在季后赛中先后击败[LGD与](https://zh.wikipedia.org/wiki/LGD_Gaming "wikilink")[OMG](../Page/OMG电子竞技俱乐部.md "wikilink")，并在决赛中3:0再次战胜在败者组决赛中战胜SH皇族的OMG，成功卫冕LPL冠军的同时也以LPL赛区一号种子身份晋级[英雄联盟2014赛季全球总决赛](../Page/英雄联盟2014赛季全球总决赛.md "wikilink")。
 
 在S4总决赛上，EDG与[三星白（SSW）](https://zh.wikipedia.org/wiki/Samsung_Galaxy_\(電競隊伍\)#Samsung_Galaxy_White（已解散） "wikilink")、[AHQ和Dark](https://zh.wikipedia.org/wiki/AHQ "wikilink")
 Passage分在A组，最终三胜三负凭借与AHQ的加赛获胜晋级八强，但在八强赛中2:3不敌SH皇族遭到淘汰。
@@ -28,8 +28,8 @@ Passage分在A组，最终三胜三负凭借与AHQ的加赛获胜晋级八强，
 
 在2015赛季开始前的LPL韩援转会潮中，EDG从解散的前三星双队（S4冠军三星白和四强三星蓝）中分别签下PawN和Deft两名选手。随后的春季赛中EDG再次获得常规赛第一并一路击败WE和IG杀入决赛，在春季赛决赛中，EDG和LGD打满五局，并最终战胜对手连续第三次获得LPL冠军。也成为了目前为止LPL仅有的一支三连冠队伍。
 
-获得春季赛冠军的同时，EDG也获得了参加当年的[首届英雄联盟季中邀请赛的名额](https://zh.wikipedia.org/wiki/2015年英雄联盟季中邀请赛 "wikilink")。在小组赛中，EDG四胜一负以第二名晋级淘汰赛，并在半决赛中3:0淘汰AHQ。在决赛中，EDG与[SKT打满五局](https://zh.wikipedia.org/wiki/SK_Telecom_T1 "wikilink")，最终3:2击败对手夺冠。EDG成为第一支获得获得[Riot
-Games官方举办的国际赛事冠军的中国大陆战队](https://zh.wikipedia.org/wiki/Riot_Games "wikilink")，也是至今唯一一支在BO5中击败过SKT的非韩战队。
+获得春季赛冠军的同时，EDG也获得了参加当年的[首届英雄联盟季中邀请赛的名额](../Page/2015年英雄联盟季中邀请赛.md "wikilink")。在小组赛中，EDG四胜一负以第二名晋级淘汰赛，并在半决赛中3:0淘汰AHQ。在决赛中，EDG与[SKT打满五局](../Page/SK_Telecom_T1.md "wikilink")，最终3:2击败对手夺冠。EDG成为第一支获得获得[Riot
+Games官方举办的国际赛事冠军的中国大陆战队](../Page/Riot_Games.md "wikilink")，也是至今唯一一支在BO5中击败过SKT的非韩战队。
 
 在2015年夏季赛中，EDG状态有所下滑，而上单位置的引援也未能起到预想中的效果。最终EDG先后在半决赛与季军赛中负于LGD与IG仅获第四名，所幸在随后的S5中国区预选赛中EDG及时调整了状态，成功晋级[英雄联盟2015赛季全球总决赛](../Page/英雄联盟2015赛季全球总决赛.md "wikilink")。
 
@@ -41,7 +41,7 @@ Games官方举办的国际赛事冠军的中国大陆战队](https://zh.wikipedi
 
 夏季赛中，EDG将前辅助选手Mouse代替Koro1担任上单，并开始逐渐重用另一名韩国中单选手Scout。最终EDG在常规赛中创下了史无前例的十六场BO3全胜记录。在季后赛半决赛中，EDG3:2击败WE，并在决赛中3:0复仇RNG，获得队史第四座LPL冠军。
 
-在[英雄联盟2016赛季全球总决赛中](https://zh.wikipedia.org/wiki/英雄联盟2016赛季全球总决赛 "wikilink")，EDG作为LPL一号种子与H2K、AHQ和巴西外卡INTZ分在C组。然而EDG在第一场比赛中就出人意料地输给了外卡赛区的INTZ，并在第二循环与AHQ的比赛中依靠PawN的出色发挥才得以惊险翻盘免遭小组出局的命运，但EDG之后在争夺小组第一的加赛中负于H2K，结果八强赛作为小组第二名抽到了A组第一名，当年LCK夏季赛冠军ROX
+在[英雄联盟2016赛季全球总决赛中](../Page/英雄联盟2016赛季全球总决赛.md "wikilink")，EDG作为LPL一号种子与H2K、AHQ和巴西外卡INTZ分在C组。然而EDG在第一场比赛中就出人意料地输给了外卡赛区的INTZ，并在第二循环与AHQ的比赛中依靠PawN的出色发挥才得以惊险翻盘免遭小组出局的命运，但EDG之后在争夺小组第一的加赛中负于H2K，结果八强赛作为小组第二名抽到了A组第一名，当年LCK夏季赛冠军ROX
 Tigers。在八强赛中，EDG 1:3遭到淘汰，连续三年止步八强。
 
 #### 2017赛季
@@ -55,13 +55,13 @@ Rolster，而EDG则在将原替补中单Scout转正的同时签下韩援Zet担�
 2017年夏季赛开始前，EDG将青训队员iBoy和Audi提升为替补，并让Clearlove（改游戏名为Clearlove7）逐渐复出。在首届[英雄联盟洲际系列赛决赛中EDG在不被看好](https://zh.wikipedia.org/wiki/英雄联盟洲际系列赛 "wikilink")（之前几场全负）的情况下战胜了[SSG](https://zh.wikipedia.org/wiki/Samsung_Galaxy_\(电竞队伍\) "wikilink")，帮助LPL赛区击败LCK赛区夺冠。之后的LPL常规赛中EDG获得小组第一，并在半决赛中击败IG进入决赛，在与RNG的决赛中，EDG在先失两局的情况下成功实现让二追三，获得队史第五座LPL冠军。队中新人ADC
 iBoy也因在本场比赛中发挥出色逐渐坐稳主力位置。
 
-在[英雄联盟2017赛季全球总决赛中](https://zh.wikipedia.org/wiki/英雄联盟2017赛季全球总决赛 "wikilink")，EDG作为LPL赛区一号种子与SKT、AHQ和Cloud9分在A组，本土作战的EDG在小组第一循环中三场皆负濒临出局，尽管在第二循环一开始EDG调整状态战胜了AHQ和C9，但在事关出线名额的最后一场与SKT的比赛中，EDG在一度破掉对手两路高地的情况下遭遇翻盘，最终两胜四负小组出局。
+在[英雄联盟2017赛季全球总决赛中](../Page/英雄联盟2017赛季全球总决赛.md "wikilink")，EDG作为LPL赛区一号种子与SKT、AHQ和Cloud9分在A组，本土作战的EDG在小组第一循环中三场皆负濒临出局，尽管在第二循环一开始EDG调整状态战胜了AHQ和C9，但在事关出线名额的最后一场与SKT的比赛中，EDG在一度破掉对手两路高地的情况下遭遇翻盘，最终两胜四负小组出局。
 
 #### 2018赛季
 
 S7结束后，队中上单Mouse离队，EDG召回曾担任队中替补上单的韩援Ray。
 
-2018赛季开始后，随着IG、RW两支队伍的崛起和RNG的强势，EDG逐渐失去了过去几年间在LPL的统治地位。尽管如此，EDG还是在2018年获得了LPL春季赛亚军和夏季赛第五名，并最终在LPL区域预选赛中接连击败JDG和RW，以三号种子身份晋级[英雄联盟2018赛季全球总决赛](https://zh.wikipedia.org/wiki/英雄联盟2018赛季全球总决赛 "wikilink")。
+2018赛季开始后，随着IG、RW两支队伍的崛起和RNG的强势，EDG逐渐失去了过去几年间在LPL的统治地位。尽管如此，EDG还是在2018年获得了LPL春季赛亚军和夏季赛第五名，并最终在LPL区域预选赛中接连击败JDG和RW，以三号种子身份晋级[英雄联盟2018赛季全球总决赛](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")。
 
 在2018年全球总决赛上，EDG与KT Rolster、Team Liquid与MAD
 Team分在C组，并四胜两负以小组第二名晋级淘汰赛，但在随后1:3不敌Fnatic，止步八强。
@@ -222,8 +222,8 @@ Team分在C组，并四胜两负以小组第二名晋级淘汰赛，但在随后
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朱佳文" title="wikilink">NaMei</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朱佳文" title="wikilink">朱佳文</a></p></td>
+<td><p><a href="../Page/朱佳文.md" title="wikilink">NaMei</a></p></td>
+<td><p><a href="../Page/朱佳文.md" title="wikilink">朱佳文</a></p></td>
 <td><p>ADC</p></td>
 <td></td>
 <td></td>
@@ -294,7 +294,7 @@ Team分在C组，并四胜两负以小组第二名晋级淘汰赛，但在随后
 
 **冠军:**
 
-  - **[英雄联盟季中邀请赛](https://zh.wikipedia.org/wiki/英雄联盟季中邀请赛 "wikilink")(1)**：[2015](https://zh.wikipedia.org/wiki/英雄联盟2015季中邀请赛 "wikilink")
+  - **[英雄联盟季中邀请赛](../Page/英雄联盟季中邀请赛.md "wikilink")(1)**：[2015](https://zh.wikipedia.org/wiki/英雄联盟2015季中邀请赛 "wikilink")
   - **[英雄联盟职业联赛](../Page/英雄联盟职业联赛.md "wikilink")(5)**：
     2014春、2014夏、2015春、2016夏、2017夏
   - **[德玛西亚杯](https://zh.wikipedia.org/wiki/德玛西亚杯 "wikilink")(6)**：2014、2015春、2015夏、2015总决赛、2016、2017

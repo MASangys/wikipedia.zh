@@ -19,7 +19,7 @@
 
   - 《[神奇女侠](../Page/神奇女侠_\(1974年电视电影\).md "wikilink")》：1974年[电视电影](https://zh.wikipedia.org/wiki/电视电影 "wikilink")。由[凱蒂·李·克羅斯比飾演](https://zh.wikipedia.org/wiki/凱蒂·李·克羅斯比 "wikilink")。
   - 《[神奇女侠](https://zh.wikipedia.org/wiki/神奇女侠_\(2009年动画电影\) "wikilink")》：2009年推出的动画电影。由[维吉妮娅·马德森配音](../Page/维吉妮娅·马德森.md "wikilink")。
-  - [DC擴展宇宙](https://zh.wikipedia.org/wiki/DC擴展宇宙 "wikilink")
+  - [DC擴展宇宙](../Page/DC擴展宇宙.md "wikilink")
       - 《[神奇女侠](https://zh.wikipedia.org/wiki/神力女超人_\(2017年電影\) "wikilink")》：2017年電影。由[康妮·尼爾森飾演](../Page/康妮·尼爾森.md "wikilink")。
       - 《[正義聯盟](https://zh.wikipedia.org/wiki/正義聯盟_\(電影\) "wikilink")》：2017年電影。由[康妮·尼爾森飾演](../Page/康妮·尼爾森.md "wikilink")。
 

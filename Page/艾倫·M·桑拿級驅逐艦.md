@@ -1,5 +1,5 @@
 **艾倫·M·桑拿級驅逐艦**（，或常簡稱為**桑拿級**）是[美國海軍於](../Page/美國海軍.md "wikilink")[二次世界大戰中建造的](https://zh.wikipedia.org/wiki/二次世界大戰 "wikilink")58艘驅逐艦艦級，另有12艘改成[佈雷驅逐艦](https://zh.wikipedia.org/wiki/佈雷驅逐艦 "wikilink")（destroyer
-minelayer）。此級和前級[佛萊契爾級相比](https://zh.wikipedia.org/wiki/弗莱彻级驱逐舰 "wikilink")，有很大改變，換裝雙聯裝主砲，雙舵，以及加強防空武力。後來本級加長以後就成了[基靈級](https://zh.wikipedia.org/wiki/基靈級驅逐艦 "wikilink")。
+minelayer）。此級和前級[佛萊契爾級相比](https://zh.wikipedia.org/wiki/弗莱彻级驱逐舰 "wikilink")，有很大改變，換裝雙聯裝主砲，雙舵，以及加強防空武力。後來本級加長以後就成了[基靈級](../Page/基靈級驅逐艦.md "wikilink")。
 
 此級各艦全部都是在二次大戰期間中建造（1943年至1945年間），在大戰中被擊沈4艘，一艘損壞過重解體，其他的後來經過現代化以後，在美國海軍服役到
 1970年代，其中有29艘後來又賣給盟國海軍繼續使用。同級艦中只有21號艦（USS Laffey

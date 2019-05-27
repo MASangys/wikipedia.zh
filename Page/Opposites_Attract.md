@@ -10,7 +10,7 @@ Attract〉是從[寶拉·阿巴杜首張專輯](../Page/寶拉·阿巴杜.md "wi
 Out〉（第41名）、〈[(It's Just) the Way That You Love
 Me](../Page/只是你愛我的方式.md "wikilink")〉（第88名）、〈[Straight
 Up](../Page/Straight_Up.md "wikilink")〉（三週冠軍）、〈[Forever Your
-Girl](https://zh.wikipedia.org/wiki/Forever_Your_Girl_\(單曲\) "wikilink")〉（兩週冠軍）、〈[Cold
+Girl](../Page/Forever_Your_Girl_\(單曲\).md "wikilink")〉（兩週冠軍）、〈[Cold
 Hearted](../Page/Cold_Hearted.md "wikilink")〉（一週冠軍）和〈(It's Just) the Way
 That You Love Me〉（二度推出單曲，成績為第3名）。在寶拉·阿巴杜這張專輯當，〈Opposites
 Attract〉距離第一首單曲發行的時間已經達一年半之餘。

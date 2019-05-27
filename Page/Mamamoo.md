@@ -1,10 +1,10 @@
 [玟星](https://zh.wikipedia.org/wiki/文星伊 "wikilink")
-{{·}}[輝人](https://zh.wikipedia.org/wiki/輝人 "wikilink")
-{{·}}[華莎](https://zh.wikipedia.org/wiki/華莎 "wikilink") |過往成員 =
-|音樂專輯 = |電影 = |主持節目 = |電視劇 = |廣播劇 = |舞台劇 = |書籍 = |電視節目 = }}
+{{·}}[輝人](../Page/輝人.md "wikilink")
+{{·}}[華莎](../Page/華莎.md "wikilink") |過往成員 = |音樂專輯 = |電影 = |主持節目
+= |電視劇 = |廣播劇 = |舞台劇 = |書籍 = |電視節目 = }}
 
 **MAMAMOO**（）原屬WA Entertainment旗下的四人女子音樂團體，2015年經紀公司與 [Rainbow Bridge
-World](https://zh.wikipedia.org/wiki/Rainbow_Bridge_World "wikilink")
+World](../Page/Rainbow_Bridge_World.md "wikilink")
 (簡稱RBW)合併，成員有[頌樂](https://zh.wikipedia.org/wiki/金容仙 "wikilink")、[玟星](https://zh.wikipedia.org/wiki/文星伊 "wikilink")、[輝人及](https://zh.wikipedia.org/wiki/丁輝人 "wikilink")[華莎](https://zh.wikipedia.org/wiki/安惠真 "wikilink")。「MAMA」是不論種族或國家的所有初生嬰兒學會的第一句詞彙，而「MOO」為嬰兒牙牙學語時發出的擬聲詞，意即MAMAMOO期望為大眾帶來超越國籍性別，且展現原始以及本能性的音樂。
 
 MAMAMOO於2014年6月19日正式透過[M
@@ -91,13 +91,13 @@ SHOW中得到](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")《Décalcomani
 [170719_Mamamoo_마마무_02_(cropped).jpg](https://zh.wikipedia.org/wiki/File:170719_Mamamoo_마마무_02_\(cropped\).jpg "fig:170719_Mamamoo_마마무_02_(cropped).jpg")
 1月6日到8日，在[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[品川區舉辦首次見面會](../Page/品川區.md "wikilink")，在7日「“K-POP
 LOVERS\!” SHOWCASE
-Vol.5」進行表演。3月3日至5日，MAMAMOO將在[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")[奧林匹克公園奧林匹克大廳舉行第二次演唱會](../Page/奧林匹克公園_\(首爾\).md "wikilink")："2017
+Vol.5」進行表演。3月3日至5日，MAMAMOO將在[首爾](../Page/首爾.md "wikilink")[奧林匹克公園奧林匹克大廳舉行第二次演唱會](../Page/奧林匹克公園_\(首爾\).md "wikilink")："2017
 MAMAMOO CONCERT MOOSICAL CURTAIN
 CALL"\[8\]。在1月23及25日的會員及非會員預售，總達10,000席座位都在僅僅一分鐘內瞬殺，見證了MAMAMOO的超高人氣。\[9\]
 
 6月7日，RBW正式公布回歸消息，並公布第五張迷你專輯名稱為《Purple》。6月9日釋出首波先行曲「아재개그(大叔玩笑)」的highlight影片。6月13日公布PURPLE專輯收錄的五首歌曲名稱，包含此次的主打歌「就我來說的話（Yes
 I Am）」，以及「大叔玩笑（Aze
-Gag）」外，還有[玟星的自作曲](https://zh.wikipedia.org/wiki/玟星 "wikilink")「好卑微」及[輝人與](https://zh.wikipedia.org/wiki/輝人 "wikilink")[Jeff
+Gag）」外，還有[玟星的自作曲](../Page/玟星.md "wikilink")「好卑微」及[輝人與](../Page/輝人.md "wikilink")[Jeff
 Bernat](https://zh.wikipedia.org/wiki/Jeff_Bernat "wikilink")、[B.O.的合作曲](https://zh.wikipedia.org/wiki/B.O. "wikilink")「DARADA」。6月21日，釋出《大叔玩笑（Aze
 Gag）》MV。6月22日釋出主打歌《就我來說的話（Yes I
 Am）》MV，音源方面大破自身記錄，於兩小時內就登上各大排行榜的首位。6月23日，主打歌《就我來說的話（Yes
@@ -185,7 +185,7 @@ Forget」。\[42\]
 
 ### 青龍電影獎
 
-2016年11月25日MAMAMOO全員受邀為2016[青龍電影獎表演](../Page/青龍電影獎.md "wikilink")，表演中成員自然地將電影臺詞融入歌中，讓原本氣氛凝重的觀眾席傳出陣陣笑聲，其中最令人印象深刻的片段，為[玟星對著台下的來賓](https://zh.wikipedia.org/wiki/文星伊 "wikilink")[鄭雨盛說出他出演的作品](../Page/鄭雨盛.md "wikilink")的台詞：「鄭雨盛！要是我乾了這杯，你要和我交往嗎？」，而在表演結束後主打歌Décalcomanie在[Melon音源榜上逆行](https://zh.wikipedia.org/wiki/Melon "wikilink")，並於當日23:00整點達到第一位，讓原本在打歌期就遲遲不上升的排名，瞬間爆衝至一位。成員們稱這次的逆行「青龍獎效應」。\[45\]
+2016年11月25日MAMAMOO全員受邀為2016[青龍電影獎表演](../Page/青龍電影獎.md "wikilink")，表演中成員自然地將電影臺詞融入歌中，讓原本氣氛凝重的觀眾席傳出陣陣笑聲，其中最令人印象深刻的片段，為[玟星對著台下的來賓](https://zh.wikipedia.org/wiki/文星伊 "wikilink")[鄭雨盛說出他出演的作品](../Page/鄭雨盛.md "wikilink")的台詞：「鄭雨盛！要是我乾了這杯，你要和我交往嗎？」，而在表演結束後主打歌Décalcomanie在[Melon音源榜上逆行](../Page/Melon.md "wikilink")，並於當日23:00整點達到第一位，讓原本在打歌期就遲遲不上升的排名，瞬間爆衝至一位。成員們稱這次的逆行「青龍獎效應」。\[45\]
 2017年MAMAMOO再次受邀擔任第38屆青龍電影獎表演嘉賓。\[46\]
 
 ### 成員受傷
@@ -194,7 +194,7 @@ Forget」。\[42\]
 
 2018年1月13日，[MAMAMOO前往](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")[馬來西亞參加K](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")-WAVE
 MUSIC
-FESTIVAL，[頌樂在彩排時腰部不慎受傷](https://zh.wikipedia.org/wiki/頌樂 "wikilink")，不過仍敬業的參與表演。1月15日，[頌樂因嚴重腰傷](https://zh.wikipedia.org/wiki/頌樂 "wikilink")，需由經紀人攙扶才能行走，回到韓國後，立即被送往醫院治療。RBW官方也發表聲明表示，[頌樂因腰傷需靜養](https://zh.wikipedia.org/wiki/頌樂 "wikilink")，將暫停所有活動，因此由其他3位團員代表參加16日的[平昌冬奧聖火傳遞與表演](https://zh.wikipedia.org/wiki/平昌冬奧 "wikilink")。\[47\]而預定1月15日出演的《偶像運動會》保齡球項目，也因傷勢考量決定放棄參加。\[48\]1月25日，頌樂經治療靜養後恢復活動，參與27屆首爾音樂大賞表演與領獎。\[49\]
+FESTIVAL，[頌樂在彩排時腰部不慎受傷](../Page/頌樂.md "wikilink")，不過仍敬業的參與表演。1月15日，[頌樂因嚴重腰傷](../Page/頌樂.md "wikilink")，需由經紀人攙扶才能行走，回到韓國後，立即被送往醫院治療。RBW官方也發表聲明表示，[頌樂因腰傷需靜養](../Page/頌樂.md "wikilink")，將暫停所有活動，因此由其他3位團員代表參加16日的[平昌冬奧聖火傳遞與表演](https://zh.wikipedia.org/wiki/平昌冬奧 "wikilink")。\[47\]而預定1月15日出演的《偶像運動會》保齡球項目，也因傷勢考量決定放棄參加。\[48\]1月25日，頌樂經治療靜養後恢復活動，參與27屆首爾音樂大賞表演與領獎。\[49\]
 
 2018年6月23日，RBW發表公開聲明，內容為玟星在練習回歸舞蹈時感覺腰背部疼痛，當下立即送至醫院檢查。官方表示只要接受適當的治療和肌肉運動，玟星便能康復。在與當事人討論過後，玟星仍敬業的以坐在椅子上的方式進行各項活動演出。\[50\]\[51\]
 
@@ -210,26 +210,23 @@ FESTIVAL，[頌樂在彩排時腰部不慎受傷](https://zh.wikipedia.org/wiki/
 
 #### 迷你專輯
 
-  - 2014年：[Hello](https://zh.wikipedia.org/wiki/Hello_\(Mamamoo迷你專輯\) "wikilink")
+  - 2014年：[Hello](../Page/Hello_\(Mamamoo迷你專輯\).md "wikilink")
   - 2014年：\[Piano Man (Mamamoo迷你專輯)|Piano Man\]
-  - 2015年：[Pink
-    Funky](https://zh.wikipedia.org/wiki/Pink_Funky_\(Mamamoo迷你專輯\) "wikilink")
-  - 2016年：[Memory](https://zh.wikipedia.org/wiki/Memory_\(Mamamoo迷你專輯\) "wikilink")
-  - 2017年：[Purple](https://zh.wikipedia.org/wiki/Purple_\(Mamamoo迷你專輯\) "wikilink")
+  - 2015年：[Pink Funky](../Page/Pink_Funky_\(Mamamoo迷你專輯\).md "wikilink")
+  - 2016年：[Memory](../Page/Memory_\(Mamamoo迷你專輯\).md "wikilink")
+  - 2017年：[Purple](../Page/Purple_\(Mamamoo迷你專輯\).md "wikilink")
   - 2018年：[Yellow
     Flower](https://zh.wikipedia.org/wiki/Yellow_Flower_\(Mamamoo迷你專輯\) "wikilink")
-  - 2018年：[Red
-    Moon](https://zh.wikipedia.org/wiki/Red_Moon_\(Mamamoo迷你專輯\) "wikilink")
-  - 2018年：[BLUE;S](https://zh.wikipedia.org/wiki/BLUE;S_\(Mamamoo迷你專輯\) "wikilink")
-  - 2019年：[White
-    Wind](https://zh.wikipedia.org/wiki/White_Wind "wikilink")
+  - 2018年：[Red Moon](../Page/Red_Moon_\(Mamamoo迷你專輯\).md "wikilink")
+  - 2018年：[BLUE;S](../Page/BLUE;S_\(Mamamoo迷你專輯\).md "wikilink")
+  - 2019年：[White Wind](../Page/White_Wind.md "wikilink")
 
 #### 數位單曲
 
   - 2016年：Angel（Angel Line）
   - 2016年：Dab Dab（Rapper Line）
   - 2018年：Paint Me
-  - 2018年：[Everyday](https://zh.wikipedia.org/wiki/Everyday（MAMAMOO單曲） "wikilink")
+  - 2018年：[Everyday](../Page/Everyday（MAMAMOO單曲）.md "wikilink")
   - 2018年：Rainy Season
 
 ### 日語作品
@@ -237,9 +234,9 @@ FESTIVAL，[頌樂在彩排時腰部不慎受傷](https://zh.wikipedia.org/wiki/
 #### 單曲
 
   - 2018年：[Décalcomanie (Japanese
-    ver.)](https://zh.wikipedia.org/wiki/Décalcomanie_\(Mamamoo日本單曲\) "wikilink")
+    ver.)](../Page/Décalcomanie_\(Mamamoo日本單曲\).md "wikilink")
   - 2019年：[Wind flower (Japanese
-    ver.)](https://zh.wikipedia.org/wiki/Wind_flower_\(Mamamoo日本單曲\) "wikilink")
+    ver.)](../Page/Wind_flower_\(Mamamoo日本單曲\).md "wikilink")
 
 ## 影視作品
 
@@ -247,7 +244,7 @@ FESTIVAL，[頌樂在彩排時腰部不慎受傷](https://zh.wikipedia.org/wiki/
 
 ### 專屬節目
 
-  - 2018年：《[好運的一天](https://zh.wikipedia.org/wiki/好運的一天_\(Mamamoo實境節目\) "wikilink")》
+  - 2018年：《[好運的一天](../Page/好運的一天_\(Mamamoo實境節目\).md "wikilink")》
 
 ## 品牌代言
 
@@ -307,9 +304,9 @@ FESTIVAL，[頌樂在彩排時腰部不慎受傷](https://zh.wikipedia.org/wiki/
 
 <!-- end list -->
 
-  - 2017年：MAMAMOO首場海外專輯宣傳見面會《[Memory](https://zh.wikipedia.org/wiki/Memory_\(Mamamoo迷你專輯\) "wikilink")》（日本）
+  - 2017年：MAMAMOO首場海外專輯宣傳見面會《[Memory](../Page/Memory_\(Mamamoo迷你專輯\).md "wikilink")》（日本）
   - 2018年：MAMAMOO首場海外專輯宣傳見面會《[Red
-    Moon](https://zh.wikipedia.org/wiki/Red_Moon_\(Mamamoo迷你專輯\) "wikilink")》（巴西）
+    Moon](../Page/Red_Moon_\(Mamamoo迷你專輯\).md "wikilink")》（巴西）
 
 <!-- end list -->
 
@@ -349,16 +346,16 @@ FESTIVAL，[頌樂在彩排時腰部不慎受傷](https://zh.wikipedia.org/wiki/
 <td><p>善男善女</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Hello_(Mamamoo迷你專輯)" title="wikilink">Hello</a></p></td>
+<td><p><a href="../Page/Hello_(Mamamoo迷你專輯).md" title="wikilink">Hello</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Piano_Man_(Mamamoo迷你專輯)" title="wikilink">Piano Man</a></p></td>
+<td><p><a href="../Page/Piano_Man_(Mamamoo迷你專輯).md" title="wikilink">Piano Man</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Pink_Funky_(Mamamoo迷你專輯)" title="wikilink">Pink Funky</a></p></td>
+<td><p><a href="../Page/Pink_Funky_(Mamamoo迷你專輯).md" title="wikilink">Pink Funky</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Um Oh Ah Yeh</p></td>
@@ -376,7 +373,7 @@ FESTIVAL，[頌樂在彩排時腰部不慎受傷](https://zh.wikipedia.org/wiki/
 <td><p>You're The Best</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Memory_(Mamamoo迷你專輯)" title="wikilink">Memory</a></p></td>
+<td><p><a href="../Page/Memory_(Mamamoo迷你專輯).md" title="wikilink">Memory</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Décalcomanie</p></td>
@@ -385,7 +382,7 @@ FESTIVAL，[頌樂在彩排時腰部不慎受傷](https://zh.wikipedia.org/wiki/
 <td><p>2017年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Purple_(Mamamoo迷你專輯)" title="wikilink">Purple</a></p></td>
+<td><p><a href="../Page/Purple_(Mamamoo迷你專輯).md" title="wikilink">Purple</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Aze Gag</p></td>
@@ -400,19 +397,19 @@ FESTIVAL，[頌樂在彩排時腰部不慎受傷](https://zh.wikipedia.org/wiki/
 <td><p>Starry Night</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Moon_(Mamamoo迷你專輯)" title="wikilink">Red Moon</a></p></td>
+<td><p><a href="../Page/Red_Moon_(Mamamoo迷你專輯).md" title="wikilink">Red Moon</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Egotistic</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/BLUE;S_(Mamamoo迷你專輯)" title="wikilink">BLUE;S</a></p></td>
+<td><p><a href="../Page/BLUE;S_(Mamamoo迷你專輯).md" title="wikilink">BLUE;S</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/White_Wind" title="wikilink">White Wind</a></p></td>
+<td><p><a href="../Page/White_Wind.md" title="wikilink">White Wind</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>

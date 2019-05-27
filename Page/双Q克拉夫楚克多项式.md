@@ -6,7 +6,7 @@
 
   - 令[Q拉卡多项式中](../Page/Q拉卡多项式.md "wikilink")\(a=b\),\(cq=q^{-N}\)
     即得**双Q克拉夫楚克多项式**
-  - 令[双q哈恩多项式中](https://zh.wikipedia.org/wiki/双q哈恩多项式 "wikilink")\(d=c\gamma^{-1}q^{-N-1}\),且\(\gamma\)→0,即得**双Q克拉夫楚克多项式**
+  - 令[双q哈恩多项式中](../Page/双q哈恩多项式.md "wikilink")\(d=c\gamma^{-1}q^{-N-1}\),且\(\gamma\)→0,即得**双Q克拉夫楚克多项式**
   - 令**双Q克拉夫楚克多项式**\(c=1=p^{-1}\),并令q→1,即得[克拉夫楚克多项式](../Page/克拉夫楚克多项式.md "wikilink")
 
 ## 图集

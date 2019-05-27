@@ -66,7 +66,7 @@ q-导数算符是一个线性算子：
 
   -
   -
-  - [Q指数](https://zh.wikipedia.org/wiki/Q指数 "wikilink")
+  - [Q指数](../Page/Q指数.md "wikilink")
 
   -
   -

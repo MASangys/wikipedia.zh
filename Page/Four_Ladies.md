@@ -2,7 +2,7 @@
 Ladies**（），多數寫成**4L**，是一個由[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jade
 Contents
 Media](https://zh.wikipedia.org/wiki/Jade_Contents_Media "wikilink")
-所創造的[韓國女子](https://zh.wikipedia.org/wiki/韓國 "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")。除了藝瑟以外，其他成員由同年七人女子組合[M.O.A分拆組成](https://zh.wikipedia.org/wiki/M.O.A "wikilink")。2015年6月藝瑟退出，宣布以solo歌手身份出道。2016年6月16日，子英在個人[Instagram上宣布與J](../Page/Instagram.md "wikilink")-na以[J-Young成員身份重新出道](https://zh.wikipedia.org/wiki/J-Young "wikilink")。而車妮則在2016年11月以[UREKA成員身份出道](https://zh.wikipedia.org/wiki/UREKA "wikilink")，因此4L解散。
+所創造的[韓國女子](https://zh.wikipedia.org/wiki/韓國 "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")。除了藝瑟以外，其他成員由同年七人女子組合[M.O.A分拆組成](../Page/M.O.A.md "wikilink")。2015年6月藝瑟退出，宣布以solo歌手身份出道。2016年6月16日，子英在個人[Instagram上宣布與J](../Page/Instagram.md "wikilink")-na以[J-Young成員身份重新出道](https://zh.wikipedia.org/wiki/J-Young "wikilink")。而車妮則在2016年11月以[UREKA成員身份出道](https://zh.wikipedia.org/wiki/UREKA "wikilink")，因此4L解散。
 
 ## 成員檔案
 
@@ -37,7 +37,7 @@ Media](https://zh.wikipedia.org/wiki/Jade_Contents_Media "wikilink")
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張單曲《<strong><a href="https://zh.wikipedia.org/wiki/Move_(4L單曲)" title="wikilink">MOVE</a></strong>》</p>
+<td><p>首張單曲《<strong><a href="../Page/Move_(4L單曲).md" title="wikilink">MOVE</a></strong>》</p>
 <ul>
 <li>發行日期：2014年8月1日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>

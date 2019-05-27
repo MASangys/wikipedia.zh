@@ -48,7 +48,7 @@ HSTS可以很大程度上解决SSL剥离攻击，因为只要浏览器曾经与�
 用户首次访问某网站是不受HSTS保护的。这是因为首次访问时，浏览器还未收到HSTS，所以仍有可能通过明文HTTP来访问。解决这个不足目前有两种方案，一是浏览器预置HSTS域名列表，[Google
 Chrome](../Page/Google_Chrome.md "wikilink")、[Firefox](../Page/Firefox.md "wikilink")、[Internet
 Explorer和](../Page/Internet_Explorer.md "wikilink")[Microsoft
-Edge实现了这一方案](https://zh.wikipedia.org/wiki/Microsoft_Edge "wikilink")\[13\]\[14\]。二是将HSTS信息加入到[域名系统记录中](../Page/域名系统.md "wikilink")。但这需要保证DNS的安全性，也就是需要部署[域名系统安全扩展](../Page/域名系统安全扩展.md "wikilink")。截至2016年这一方案没有大规模部署。
+Edge实现了这一方案](../Page/Microsoft_Edge.md "wikilink")\[13\]\[14\]。二是将HSTS信息加入到[域名系统记录中](../Page/域名系统.md "wikilink")。但这需要保证DNS的安全性，也就是需要部署[域名系统安全扩展](../Page/域名系统安全扩展.md "wikilink")。截至2016年这一方案没有大规模部署。
 
 由于HSTS会在一定时间后失效（有效期由max-age指定），所以浏览器是否强制HSTS策略取决于当前系统时间。部分操作系统经常通过[网络时间协议更新系统时间](https://zh.wikipedia.org/wiki/网络时间协议 "wikilink")，如[Ubuntu每次连接网络时](../Page/Ubuntu.md "wikilink")、[OS
 X
@@ -67,8 +67,8 @@ Lion每隔](https://zh.wikipedia.org/wiki/OS_X_Lion "wikilink")9分钟会自动�
     Mavericks起](../Page/OS_X_Mavericks.md "wikilink")
   - [Internet
     Explorer和](../Page/Internet_Explorer.md "wikilink")[Microsoft
-    Edge从](https://zh.wikipedia.org/wiki/Microsoft_Edge "wikilink")[Windows
-    10开始支持](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")\[18\]
+    Edge从](../Page/Microsoft_Edge.md "wikilink")[Windows
+    10开始支持](../Page/Windows_10.md "wikilink")\[18\]
 
 ## 网站支持
 

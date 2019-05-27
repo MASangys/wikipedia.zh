@@ -18,7 +18,7 @@ Watch的](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")[作業系統](ht
 
 ## 使用者介面
 
-watchOS的[主畫面是由許多圓形的應用程式圖示組成](https://zh.wikipedia.org/wiki/主界面 "wikilink")，畫面可藉由旋轉蘋果手錶側邊的數位錶冠（Digital
+watchOS的[主畫面是由許多圓形的應用程式圖示組成](../Page/主界面.md "wikilink")，畫面可藉由旋轉蘋果手錶側邊的數位錶冠（Digital
 Crown）來放大和縮小。不同的動作指令透過輕點或按壓觸控式螢幕來完成，蘋果手錶中裝設有一個特殊的零件負責感測使用者按壓螢幕的力道大小\[2\]。許多應用程序都是小型化的，它們的iOS對應版本的簡化版本。
 
 ## HealthKit

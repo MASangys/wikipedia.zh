@@ -49,7 +49,7 @@
 
   - [金澤21世紀美術館](../Page/金澤21世紀美術館.md "wikilink")
 
-  - [東京都現代美術館](https://zh.wikipedia.org/wiki/東京都現代美術館 "wikilink")
+  - [東京都現代美術館](../Page/東京都現代美術館.md "wikilink")
 
   -
   -

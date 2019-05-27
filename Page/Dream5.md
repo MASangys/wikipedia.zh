@@ -13,7 +13,7 @@ Make\!》則是首張打入Oricon週間排行榜首十位的單曲唱片\[1\]。
 
 2014年參與了由[電玩改編為電視](https://zh.wikipedia.org/wiki/電玩 "wikilink")[動畫的](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[妖怪手錶](https://zh.wikipedia.org/wiki/妖怪手錶 "wikilink")》中的片尾曲《》及《Dan
 Dan
-Dubi·Zuba》，動畫及樂曲均出乎意料之外地在日本爆紅\[2\]，由最初成為幼稚園、小學的運動會的必備表演活動外，再藉不少人透過網上平台拍攝及上載模仿舞蹈片段，令全日本都掀起「妖怪體操」的熱潮，各大電視台的節目隨即也爭相邀請Dream5出演，此曲亦使他們獲得第47屆[日本有線大賞](https://zh.wikipedia.org/wiki/日本有線大賞 "wikilink")「有線話題賞」\[3\]；第56回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")「特別獎」\[4\]；並且以特別企劃形式首度入選[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第65回NHK紅白歌合戰 "wikilink")\[5\]。而年末其他電視台所舉辦節大型音樂活動，包括[讀賣電視台的](../Page/讀賣電視台.md "wikilink")[BEST
+Dubi·Zuba》，動畫及樂曲均出乎意料之外地在日本爆紅\[2\]，由最初成為幼稚園、小學的運動會的必備表演活動外，再藉不少人透過網上平台拍攝及上載模仿舞蹈片段，令全日本都掀起「妖怪體操」的熱潮，各大電視台的節目隨即也爭相邀請Dream5出演，此曲亦使他們獲得第47屆[日本有線大賞](https://zh.wikipedia.org/wiki/日本有線大賞 "wikilink")「有線話題賞」\[3\]；第56回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")「特別獎」\[4\]；並且以特別企劃形式首度入選[NHK紅白歌合戰](../Page/第65回NHK紅白歌合戰.md "wikilink")\[5\]。而年末其他電視台所舉辦節大型音樂活動，包括[讀賣電視台的](../Page/讀賣電視台.md "wikilink")[BEST
 HIT歌謠祭](https://zh.wikipedia.org/wiki/BEST_HIT歌謠祭 "wikilink")、[富士電視台的](../Page/富士電視台.md "wikilink")、[朝日電視台的](../Page/朝日電視台.md "wikilink")[MUSIC
 STATION SUPER LIVE 2014等](../Page/MUSIC_STATION.md "wikilink")，均被邀請出席。
 

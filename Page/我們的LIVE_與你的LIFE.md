@@ -64,7 +64,7 @@ CD共收錄了兩首歌曲、其純音樂版以及「LoveLive\!」中九人各�
 
 10. *（初次見面 -西木野真姬-）* \[2:17\]
 
-      - 出演：西木野真姬（声：[Pile](https://zh.wikipedia.org/wiki/Pile "wikilink")）
+      - 出演：西木野真姬（声：[Pile](../Page/Pile.md "wikilink")）
 
 11. *（初次見面 -東條希-）* \[2:04\]
 
@@ -107,7 +107,7 @@ CD共收錄了兩首歌曲、其純音樂版以及「LoveLive\!」中九人各�
   - 編輯：今井大介
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")
-  - 音樂製作人：[齋藤滋](https://zh.wikipedia.org/wiki/齋藤滋 "wikilink")
+  - 音樂製作人：[齋藤滋](../Page/齋藤滋.md "wikilink")
   - 製作人：平山理志、伊藤善之、
   - 舞蹈編排：yumi
   - 製作：Project LoveLive\!（日昇動畫、Lantis、[ASCII Media

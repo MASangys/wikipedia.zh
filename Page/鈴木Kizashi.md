@@ -9,9 +9,9 @@
 [SuzukiKizashi.jpg](https://zh.wikipedia.org/wiki/File:SuzukiKizashi.jpg "fig:SuzukiKizashi.jpg")
 2007年[法蘭克福車展上](../Page/法蘭克福車展.md "wikilink")，鈴木公司發表一款名為「Kizashi」的[概念車](../Page/概念車.md "wikilink")，具備2.0L[渦輪增壓](../Page/渦輪增壓器.md "wikilink")[柴油引擎](../Page/柴油引擎.md "wikilink")、序列式6速變速箱、21吋[鋁合金鋼圈](../Page/鋁合金.md "wikilink")、[全時四輪驅動等配備](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")\[3\]。接著在2007年10月開幕的第40屆[東京車展公開](../Page/東京車展.md "wikilink")「Kizashi
 2」概念車，這是一輛五門[跨界休旅](../Page/跨界休旅車.md "wikilink")[旅行車](../Page/旅行車.md "wikilink")，配置3,564c.c.
-[V型六缸引擎](https://zh.wikipedia.org/wiki/V6发动机 "wikilink")、6速自動排檔變速系統、i-AWD四輪驅動及265/45ZR22輻射層[輪胎等配備](../Page/輪胎.md "wikilink")。2008年[紐約國際車展上原廠再行公開](https://zh.wikipedia.org/wiki/紐約國際車展 "wikilink")「Kizashi
+[V型六缸引擎](../Page/V6发动机.md "wikilink")、6速自動排檔變速系統、i-AWD四輪驅動及265/45ZR22輻射層[輪胎等配備](../Page/輪胎.md "wikilink")。2008年[紐約國際車展上原廠再行公開](https://zh.wikipedia.org/wiki/紐約國際車展 "wikilink")「Kizashi
 3」，同樣配置3,564c.c.
-[V型六缸引擎](https://zh.wikipedia.org/wiki/V6发动机 "wikilink")，最大[馬力達](../Page/馬力.md "wikilink")300hp；另有6速自動排檔變速箱、21英吋[鋁合金鋼圈](../Page/鋁合金.md "wikilink")、255/30ZR21輪胎等裝備。
+[V型六缸引擎](../Page/V6发动机.md "wikilink")，最大[馬力達](../Page/馬力.md "wikilink")300hp；另有6速自動排檔變速箱、21英吋[鋁合金鋼圈](../Page/鋁合金.md "wikilink")、255/30ZR21輪胎等裝備。
 
 2011年紐約國際車展中，原廠展示出一輛「Kizashi
 Apex」。為了瞄準性能取向的消費者，這部概念車所搭載的[渦輪增壓引擎可榨出](../Page/渦輪增壓器.md "wikilink")275hp（5,800rpm）至300hp（6,200rpm），同時配備運動化鋁圈及[橫濱](../Page/橫濱橡膠.md "wikilink")245/35R19輪胎，車身塗裝也是發想自鈴木的[摩托車產品](../Page/摩托車.md "wikilink")\[4\]。另一輛講求環保的[油電混合動力概念車](https://zh.wikipedia.org/wiki/混合動力車輛#油電混合動力及柴電混合動力 "wikilink")「Kizashi

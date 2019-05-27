@@ -33,7 +33,7 @@ kill -KILL 1234
 kill -9 1234
 ```
 
-其它有用的信号包括HUP、TRAP、INT、[SEGV及ALRM](../Page/SIGSEGV.md "wikilink")。HUP发送[SIGHUP信号](https://zh.wikipedia.org/wiki/SIGHUP "wikilink")。一些守护程序，包括[Apache和](https://zh.wikipedia.org/wiki/Apache "wikilink")[Sendmail的](../Page/Sendmail.md "wikilink")，在接收到SIGHUP时重新读取[配置文件](https://zh.wikipedia.org/wiki/配置文件 "wikilink")，因此可用kill命令执行这个功能。在大多数[Unix外壳中](../Page/Unix_shell.md "wikilink")，只需按下[{{keypress便可以产生](https://zh.wikipedia.org/wiki/Control-C "wikilink")[SIGINT信号](https://zh.wikipedia.org/wiki/SIGINT_\(POSIX\) "wikilink")。[{{keypress也常映射至](https://zh.wikipedia.org/wiki/Control-Z "wikilink")[SIGTSTP](https://zh.wikipedia.org/wiki/SIGTSTP "wikilink")，[{{keypress](https://zh.wikipedia.org/wiki/Control-/ "wikilink")（反斜杠）映射至[SIGQUIT](https://zh.wikipedia.org/wiki/SIGQUIT "wikilink")，这可强制程序进行[核心转储](https://zh.wikipedia.org/wiki/核心转储 "wikilink")。
+其它有用的信号包括HUP、TRAP、INT、[SEGV及ALRM](../Page/SIGSEGV.md "wikilink")。HUP发送[SIGHUP信号](https://zh.wikipedia.org/wiki/SIGHUP "wikilink")。一些守护程序，包括[Apache和](https://zh.wikipedia.org/wiki/Apache "wikilink")[Sendmail的](../Page/Sendmail.md "wikilink")，在接收到SIGHUP时重新读取[配置文件](../Page/配置文件.md "wikilink")，因此可用kill命令执行这个功能。在大多数[Unix外壳中](../Page/Unix_shell.md "wikilink")，只需按下[{{keypress便可以产生](https://zh.wikipedia.org/wiki/Control-C "wikilink")[SIGINT信号](https://zh.wikipedia.org/wiki/SIGINT_\(POSIX\) "wikilink")。[{{keypress也常映射至](https://zh.wikipedia.org/wiki/Control-Z "wikilink")[SIGTSTP](https://zh.wikipedia.org/wiki/SIGTSTP "wikilink")，[{{keypress](https://zh.wikipedia.org/wiki/Control-/ "wikilink")（反斜杠）映射至[SIGQUIT](https://zh.wikipedia.org/wiki/SIGQUIT "wikilink")，这可强制程序进行[核心转储](https://zh.wikipedia.org/wiki/核心转储 "wikilink")。
 
 #### 相关程序
 
@@ -51,7 +51,7 @@ kill -9 1234
 
 在微软的命令行解释器[Windows
 PowerShell中](../Page/Windows_PowerShell.md "wikilink")，预定义的`kill`是一个`Stop-Process`
-cmdlet的[命令别名](https://zh.wikipedia.org/wiki/Alias_\(命令\) "wikilink")。
+cmdlet的[命令别名](../Page/Alias_\(命令\).md "wikilink")。
 
 [Microsoft Windows
 XP](../Page/Windows_XP.md "wikilink")、[Vista和](../Page/Windows_Vista.md "wikilink")[7中附带了](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")`taskkill`命令\[4\]以终止进程。常见用法为`taskkill

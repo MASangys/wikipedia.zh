@@ -194,7 +194,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/張光_(演員)" title="wikilink">張光</a></p></td>
+<p><a href="../Page/張光_(演員).md" title="wikilink">張光</a></p></td>
 <td><center>
 <p>方光</p></td>
 <td><center>
@@ -529,7 +529,7 @@
 <!-- end list -->
 
   - [MBC
-    Drama](../Page/MBC_Plus_Media.md "wikilink")：《[我的遺憾男友](https://zh.wikipedia.org/wiki/我的遺憾男友 "wikilink")》
+    Drama](../Page/MBC_Plus_Media.md "wikilink")：《[我的遺憾男友](../Page/我的遺憾男友.md "wikilink")》
 
 <!-- end list -->
 
@@ -538,7 +538,7 @@
 <!-- end list -->
 
   - [KBS1](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")：《[我的愛屬於你](https://zh.wikipedia.org/wiki/我的愛屬於你 "wikilink")》
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[狎鷗亭白夜](https://zh.wikipedia.org/wiki/狎鷗亭白夜 "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[狎鷗亭白夜](../Page/狎鷗亭白夜.md "wikilink")》
 
 <!-- end list -->
 
@@ -547,7 +547,7 @@
 <!-- end list -->
 
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")：《[青鳥之家](../Page/青鳥之家.md "wikilink")》
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[薔薇色戀人們](https://zh.wikipedia.org/wiki/薔薇色戀人們 "wikilink")》、《[讓女人哭泣](https://zh.wikipedia.org/wiki/讓女人哭泣 "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[薔薇色戀人們](../Page/薔薇色戀人們.md "wikilink")》、《[讓女人哭泣](../Page/讓女人哭泣.md "wikilink")》
   - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")：《[誕生吧！家族](../Page/誕生吧！家族.md "wikilink")》
 
 ## 腳註

@@ -31,7 +31,7 @@ Press）。\[15\]
 ## 流行文化
 
   - 2015年電影《[怪物遊戲](https://zh.wikipedia.org/wiki/怪物遊戲 "wikilink")》，由[傑克·布萊克飾演](../Page/傑克·布萊克.md "wikilink")。
-  - 2018年電影《[怪物遊戲2：妖獸讚](https://zh.wikipedia.org/wiki/怪物遊戲2：妖獸讚 "wikilink")》，由[傑克·布萊克飾演](../Page/傑克·布萊克.md "wikilink")。
+  - 2018年電影《[怪物遊戲2：妖獸讚](../Page/怪物遊戲2：妖獸讚.md "wikilink")》，由[傑克·布萊克飾演](../Page/傑克·布萊克.md "wikilink")。
 
 ## 參考文獻
 

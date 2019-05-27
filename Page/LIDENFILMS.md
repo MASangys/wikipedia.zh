@@ -2,7 +2,7 @@
 
 ## 概要、沿革
 
-**LIDENFILMS**是日本一家以執行動畫的企畫和製作為主要事業內容的動畫製作工作室。2012年2月\[3\]，由[三次元的松浦裕曉](https://zh.wikipedia.org/wiki/三次元_\(動畫製作公司\) "wikilink")、BARNUM
+**LIDENFILMS**是日本一家以執行動畫的企畫和製作為主要事業內容的動畫製作工作室。2012年2月\[3\]，由[三次元的松浦裕曉](../Page/三次元_\(動畫製作公司\).md "wikilink")、BARNUM
 STUDIO的動畫製作人，[MADHOUSE](../Page/MADHOUSE.md "wikilink")、[SHAFT出身的企劃製作人岩城忠雄在](../Page/SHAFT.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")[上荻](../Page/荻窪_\(杉並區\).md "wikilink")\[4\]共同創立工作室之後。協助[Ordet和三次元共同製作](../Page/Ordet.md "wikilink")《[BLACK★ROCK
 SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全話與別間動畫工作室[TRIGGER共同製作](../Page/TRIGGER.md "wikilink")）。
 
@@ -46,7 +46,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <td><p><a href="../Page/Aiura.md" title="wikilink">Aiura</a></p></td>
 <td></td>
 <td><p>4月－6月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中村亮介" title="wikilink">中村亮介</a></p></td>
+<td><p><a href="../Page/中村亮介.md" title="wikilink">中村亮介</a></p></td>
 <td><p>LIDENFILMS的首部獨立製作、1話5分鐘的短篇電視動畫</p></td>
 <td></td>
 <td></td>
@@ -57,7 +57,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <td><p>10月－12月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/岩崎良明" title="wikilink">岩崎良明</a></p></td>
 <td><p>原創</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/三次元_(動畫製作公司)" title="wikilink">三次元共同製作</a></p></td>
+<td><p>與<a href="../Page/三次元_(動畫製作公司).md" title="wikilink">三次元共同製作</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -116,7 +116,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 </tr>
 <tr class="even">
 <td><p>2016年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/石膏男孩" title="wikilink">石膏男孩</a></p></td>
+<td><p><a href="../Page/石膏男孩.md" title="wikilink">石膏男孩</a></p></td>
 <td></td>
 <td><p>1月 - 3月</p></td>
 <td><p>宅野誠起</p></td>
@@ -188,7 +188,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/牙鬥獸娘" title="wikilink">牙鬥獸娘</a></p></td>
+<td><p><a href="../Page/牙鬥獸娘.md" title="wikilink">牙鬥獸娘</a></p></td>
 <td></td>
 <td><p>1月－3月</p></td>
 <td><p>西片康人</p></td>
@@ -196,7 +196,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/LOST_SONG" title="wikilink">LOST SONG</a></p></td>
+<td><p><a href="../Page/LOST_SONG.md" title="wikilink">LOST SONG</a></p></td>
 <td><p>4月－6月</p></td>
 <td><p>森田純平</p></td>
 <td><p>原創</p></td>
@@ -205,7 +205,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/雷頓的神秘之旅_卡翠愛兒與大富翁的陰謀" title="wikilink">雷頓神秘偵探社 ～卡特莉的解謎事件簿～</a></p></td>
+<td><p><a href="../Page/雷頓的神秘之旅_卡翠愛兒與大富翁的陰謀.md" title="wikilink">雷頓神秘偵探社 ～卡特莉的解謎事件簿～</a></p></td>
 <td></td>
 <td><p>4月－<strong>播出中</strong></p></td>
 <td><p><a href="../Page/滿仲勸.md" title="wikilink">滿仲勸</a></p></td>
@@ -214,7 +214,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/輕羽飛揚" title="wikilink">羽球戰爭</a></p></td>
+<td><p><a href="../Page/輕羽飛揚.md" title="wikilink">羽球戰爭</a></p></td>
 <td></td>
 <td><p>7月－9月</p></td>
 <td><p>江崎慎平</p></td>
@@ -225,14 +225,14 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/森邦宏" title="wikilink">森邦宏</a></p></td>
+<td><p><a href="../Page/森邦宏.md" title="wikilink">森邦宏</a></p></td>
 <td><p>遊戲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/寄宿學校的茱麗葉" title="wikilink">寄宿學校的茱麗葉</a></p></td>
+<td><p><a href="../Page/寄宿學校的茱麗葉.md" title="wikilink">寄宿學校的茱麗葉</a></p></td>
 <td></td>
 <td><p>10月－12月</p></td>
 <td><p><a href="../Page/吉岡孝夫.md" title="wikilink">吉岡孝夫</a></p></td>
@@ -241,7 +241,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/只要別西卜大小姐喜歡就好" title="wikilink">只要別西卜大小姐喜歡就好</a></p></td>
+<td><p><a href="../Page/只要別西卜大小姐喜歡就好.md" title="wikilink">只要別西卜大小姐喜歡就好</a></p></td>
 <td></td>
 <td><p>和ト湊</p></td>
 <td></td>
@@ -251,7 +251,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/魔法少女特殊戰明日香" title="wikilink">魔法少女特殊戰明日香</a></p></td>
+<td><p><a href="../Page/魔法少女特殊戰明日香.md" title="wikilink">魔法少女特殊戰明日香</a></p></td>
 <td></td>
 <td><p>1月－<strong>播出中</strong></p></td>
 <td><p>山本秀世</p></td>
@@ -348,7 +348,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <td><p>先導者 Neonmessiah]]</p></td>
 <td><p>{{lang|ja|劇場版 カードファイト</p></td>
 <td><p>ヴァンガード ネオンメサイア}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/板垣伸" title="wikilink">板垣伸</a></p></td>
+<td><p><a href="../Page/板垣伸.md" title="wikilink">板垣伸</a></p></td>
 <td><p>遊戲</p></td>
 </tr>
 <tr class="odd">
@@ -391,7 +391,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 #### 電視廣告
 
   - [Hortensia SAGA
-    蒼之騎士團](https://zh.wikipedia.org/wiki/Hortensia_SAGA_蒼之騎士團 "wikilink")（2017年）
+    蒼之騎士團](../Page/Hortensia_SAGA_蒼之騎士團.md "wikilink")（2017年）
 
 #### 舞台LIVE
 
@@ -423,7 +423,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <tr class="even">
 <td><p><a href="../Page/坂道上的阿波羅.md" title="wikilink">坂道上的阿波羅</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MAPPA" title="wikilink">MAPPA</a>、<a href="../Page/手塚製作公司.md" title="wikilink">手塚製作公司</a></p></td>
+<td><p><a href="../Page/MAPPA.md" title="wikilink">MAPPA</a>、<a href="../Page/手塚製作公司.md" title="wikilink">手塚製作公司</a></p></td>
 <td><p>各話協力製作</p></td>
 <td></td>
 <td></td>
@@ -487,7 +487,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯" title="wikilink">兩個人是少女福爾摩斯</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/J.C.STAFF" title="wikilink">J.C.STAFF</a>、<a href="https://zh.wikipedia.org/wiki/Nomad_(公司)" title="wikilink">Nomad</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/J.C.STAFF" title="wikilink">J.C.STAFF</a>、<a href="../Page/Nomad_(公司).md" title="wikilink">Nomad</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -526,7 +526,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/噗嗶啵～來自未來～" title="wikilink">噗嗶啵～來自未來～</a></p></td>
+<td><p><a href="../Page/噗嗶啵～來自未來～.md" title="wikilink">噗嗶啵～來自未來～</a></p></td>
 <td></td>
 <td><p><a href="../Page/動畫國際公司.md" title="wikilink">AIC PLUS+</a></p></td>
 <td><p>各話原畫管理</p></td>

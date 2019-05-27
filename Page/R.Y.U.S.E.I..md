@@ -16,7 +16,7 @@ zone發售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     IMPACT"](https://zh.wikipedia.org/wiki/第三代_J_Soul_Brothers_LIVE_TOUR_2014_"BLUE_IMPACT" "wikilink")」同時發行。
   - 在7月7日於[公信榜单曲週排行榜取得第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")1位，成為第三代J
     Soul Brothers出道以來第2張公信榜每周銷量排名第一的單曲。
-  - 在第56屆[日本唱片大獎獲得](../Page/日本唱片大獎.md "wikilink")「優秀作品獎」及「最優秀作品獎」，同年年末在[第65回NHK紅白歌合戰演唱其歌曲](https://zh.wikipedia.org/wiki/第65回NHK紅白歌合戰 "wikilink")。
+  - 在第56屆[日本唱片大獎獲得](../Page/日本唱片大獎.md "wikilink")「優秀作品獎」及「最優秀作品獎」，同年年末在[第65回NHK紅白歌合戰演唱其歌曲](../Page/第65回NHK紅白歌合戰.md "wikilink")。
 
 ## 收錄曲目
 

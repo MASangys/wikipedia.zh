@@ -43,7 +43,7 @@ Vita上市后，经一些媒体测试，发现中国大陆版主机只能登陆�
 
 ## 参见
 
-  - [家用游戏机入华](https://zh.wikipedia.org/wiki/家用游戏机入华 "wikilink")
+  - [家用游戏机入华](../Page/家用游戏机入华.md "wikilink")
 
 ## 参考资料
 

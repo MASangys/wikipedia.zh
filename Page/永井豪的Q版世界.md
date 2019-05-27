@@ -1,4 +1,4 @@
-《**永井豪的Q版世界**》（）是[永井豪作品原作改编的](../Page/永井豪.md "wikilink")[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，於1991年发售共3集VHS，在2007年6月22日由[萬代影視发售](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")[DVD-BOX](https://zh.wikipedia.org/wiki/DVD-BOX "wikilink")。\[1\]\[2\]
+《**永井豪的Q版世界**》（）是[永井豪作品原作改编的](../Page/永井豪.md "wikilink")[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，於1991年发售共3集VHS，在2007年6月22日由[萬代影視发售](../Page/萬代影視.md "wikilink")[DVD-BOX](https://zh.wikipedia.org/wiki/DVD-BOX "wikilink")。\[1\]\[2\]
 
 ## 故事簡介
 
@@ -17,7 +17,7 @@
 <!-- end list -->
 
   - [飛鳥了](https://zh.wikipedia.org/wiki/惡魔人 "wikilink")（あすか
-    りょう）（配音：[水島裕](https://zh.wikipedia.org/wiki/水島裕 "wikilink")）
+    りょう）（配音：[水島裕](../Page/水島裕.md "wikilink")）
 
 <!-- end list -->
 
@@ -89,8 +89,7 @@
   - 撮影監督：藤倉直人
   - 音響監督：[千葉繁](../Page/千葉繁.md "wikilink")
   - 音樂：[川井憲次](../Page/川井憲次.md "wikilink")
-  - 製作：ダイナミックプロ、[TRIANGLE
-    STAFF](https://zh.wikipedia.org/wiki/TRIANGLE_STAFF "wikilink")
+  - 製作：ダイナミックプロ、[TRIANGLE STAFF](../Page/TRIANGLE_STAFF.md "wikilink")
   - 製作：[萬代](../Page/萬代.md "wikilink")
 
 ## 各話列表

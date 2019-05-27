@@ -216,7 +216,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
   - 7月27日，第3張單曲《[森巴\! Kobushi熱內盧 / 來吧青春\! /
     我是最受歡迎的](https://zh.wikipedia.org/wiki/森巴!_Kobushi熱內盧_/_來吧青春!_/_我是最受歡迎的 "wikilink")》發行。
   - 9月17日-11月20日，《玉蘭花Factory Live Tour 2016秋 ～Hyper Mode～》於全14個城市舉辦。
-  - 11月30日，第1張專輯《[辛夷其之一](https://zh.wikipedia.org/wiki/辛夷其之一 "wikilink")》發行。
+  - 11月30日，第1張專輯《[辛夷其之一](../Page/辛夷其之一.md "wikilink")》發行。
 
 <!-- end list -->
 
@@ -225,7 +225,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 <!-- end list -->
 
   - 5月12日，由官方發表聲明，[藤井梨央將於早安家族夏季演唱會結束之後於](https://zh.wikipedia.org/wiki/藤井梨央 "wikilink")[Kobushi
-    Factory及](https://zh.wikipedia.org/wiki/Kobushi_Factory "wikilink")[早安家族畢業](../Page/早安家族.md "wikilink")。\[7\]\[8\]
+    Factory及](../Page/Kobushi_Factory.md "wikilink")[早安家族畢業](../Page/早安家族.md "wikilink")。\[7\]\[8\]
   - 6月14日，第4張單曲《[Shalala！必定能做得到／超赞的不是吗？忍者也行对吧？](https://zh.wikipedia.org/wiki/Shalala！必定能做得到／超赞的不是吗？忍者也行对吧？ "wikilink")》發行。
   - 7月6日，由官方發表聲明，原訂於9月2日從團體及早安家族畢業的[藤井梨央](https://zh.wikipedia.org/wiki/藤井梨央 "wikilink")，由於違反合約內容之事，故提前解約。\[9\]\[10\]
   - 7月13日，成員[小川麗奈從](https://zh.wikipedia.org/wiki/小川麗奈 "wikilink")4日開始有持續發燒及感冒等症狀，經醫師診斷為[精神官能症](https://zh.wikipedia.org/wiki/精神官能症 "wikilink")，必須在家中進行療養至8月中旬，期間包括7月15日開始的家族夏季演唱會及7月17日電影上映的首映會舞台都將缺席。
@@ -288,7 +288,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>獨立製作、DVD單曲</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/辛夷其之一" title="wikilink">辛夷其之一</a></p></td>
+<td><p><a href="../Page/辛夷其之一.md" title="wikilink">辛夷其之一</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
@@ -395,7 +395,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 <td><p>1st</p></td>
 <td><p>2016年11月30日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/辛夷其之一" title="wikilink">辛夷其之一</a></p></td>
+<td><p><a href="../Page/辛夷其之一.md" title="wikilink">辛夷其之一</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -540,12 +540,12 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
   - TOKYO IDOL FESTIVAL
     2015（2015年9月2日，[富士電視台](../Page/富士電視台.md "wikilink")）
   - 未來定番曲～Future Standard～\#129（2015年9月14日，[World Hi-Vision
-    Channel等](https://zh.wikipedia.org/wiki/World_Hi-Vision_Channel "wikilink")）
+    Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
   - 未來定番曲～Future Standard～\#131（2015年9月29日，[World Hi-Vision
-    Channel等](https://zh.wikipedia.org/wiki/World_Hi-Vision_Channel "wikilink")）
+    Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
   - LiveB♪ （2015年9月29日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
   - 未來定番曲～Future Standard～\#132（2015年10月6日，[World Hi-Vision
-    Channel等](https://zh.wikipedia.org/wiki/World_Hi-Vision_Channel "wikilink")）
+    Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
   - MUSIC JAPAN （2015年9月6日，[日本廣播協會](../Page/日本廣播協會.md "wikilink")）
   - Oha Sta（2015年11月4日，[東京電視台](../Page/東京電視台.md "wikilink")）
   - 第57屆[日本唱片大奖](https://zh.wikipedia.org/wiki/日本唱片大奖 "wikilink")（2015年12月30日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
@@ -556,12 +556,12 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
   - 音流～ONRYU～ （2016年2月19日，[東京電視台](../Page/東京電視台.md "wikilink")）
   - MUSIC JAPAN （2016年2月21日，[日本廣播協會](../Page/日本廣播協會.md "wikilink")）
   - 未來定番曲～Future Standard～\#152（2016年2月22日，[World Hi-Vision
-    Channel等](https://zh.wikipedia.org/wiki/World_Hi-Vision_Channel "wikilink")）
+    Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
   - LiveB♪ （2016年3月30日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
   - Nsta
     宮城（2016年3月30日，[東北放送](https://zh.wikipedia.org/wiki/東北放送 "wikilink")）
   - 未來定番曲～Future Standard～\#159（2016年4月11日，[World Hi-Vision
-    Channel等](https://zh.wikipedia.org/wiki/World_Hi-Vision_Channel "wikilink")）
+    Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
   - musicる TV（2016年5月9日，[朝日電視台](../Page/朝日電視台.md "wikilink")）
   - musicる TV（2016年5月16日，[朝日電視台](../Page/朝日電視台.md "wikilink")）
   - musicる TV（2016年5月23日，[朝日電視台](../Page/朝日電視台.md "wikilink")）
@@ -569,7 +569,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
   - LiveB♪ （2016年7月26日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
   - 魁\!music（2016年7月31日，[富士電視台](../Page/富士電視台.md "wikilink")）
   - 未來定番曲～Future Standard～\#179（2016年8月29日，[World Hi-Vision
-    Channel等](https://zh.wikipedia.org/wiki/World_Hi-Vision_Channel "wikilink")）
+    Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
   - musicる TV（2016年10月24日，[朝日電視台](../Page/朝日電視台.md "wikilink")）
   - Full Chorus \#65（2016年11月15日，[SKY
     PerfecTV\!](../Page/SKY_PerfecTV!.md "wikilink")）
@@ -582,7 +582,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 
   - 於[日本環球影城](../Page/日本環球影城.md "wikilink") TKO（2017年5月1日，J:COM頻道）
   - 未來定番曲～Future Standard～\#220（2017年6月12日，[World Hi-Vision
-    Channel等](https://zh.wikipedia.org/wiki/World_Hi-Vision_Channel "wikilink")）
+    Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
   - Full Chorus \#88（2017年6月13日，[SKY
     PerfecTV\!](../Page/SKY_PerfecTV!.md "wikilink")）
   - Station\!（2017年6月15日，岐阜電視台）

@@ -27,7 +27,7 @@ WORLD**》是由日本樂團[SCANDAL所發行的第](../Page/SCANDAL_\(日本音
         HARUNA solo曲
 6.  [黎明的流星雨](../Page/黎明的流星雨.md "wikilink")
     :作詞:TOMOMI、田中秀典　作曲：田中秀典　編曲：龜田誠治
-    為神奇寶貝電影版『[XY破壞之繭與蒂安希](https://zh.wikipedia.org/wiki/Pokemon_the_movie_XY_破壞之繭與蒂安希 "wikilink")』之片尾曲。
+    為神奇寶貝電影版『[XY破壞之繭與蒂安希](../Page/Pokemon_the_movie_XY_破壞之繭與蒂安希.md "wikilink")』之片尾曲。
 7.  許願的NAVIGATION （お願いナビゲーション）
       -
         作詞:RINA　作曲：MAMI　編曲：MAMI、川口圭太

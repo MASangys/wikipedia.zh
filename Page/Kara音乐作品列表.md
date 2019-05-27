@@ -138,7 +138,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>3rd</strong></p></td>
-<td style="text-align: left;"><p>《<strong><a href="https://zh.wikipedia.org/wiki/STEP" title="wikilink">STEP</a></strong>》</p>
+<td style="text-align: left;"><p>《<strong><a href="../Page/STEP.md" title="wikilink">STEP</a></strong>》</p>
 <ul>
 <li>發行日期：2011年9月9日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -999,7 +999,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p><strong>-</strong></p></td>
-<td style="text-align: left;"><p>《<strong><a href="https://zh.wikipedia.org/wiki/KARA_3rd_JAPAN_TOUR_2014_KARASIA" title="wikilink">KARA 3rd JAPAN TOUR 2014 KARASIA</a></strong>》</p>
+<td style="text-align: left;"><p>《<strong><a href="../Page/KARA_3rd_JAPAN_TOUR_2014_KARASIA.md" title="wikilink">KARA 3rd JAPAN TOUR 2014 KARASIA</a></strong>》</p>
 <ul>
 <li>發行日期：2015年3月18日</li>
 <li>语言：日语 / 韩语</li>

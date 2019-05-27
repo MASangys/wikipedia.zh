@@ -196,7 +196,7 @@
     光之美少女！](../Page/Happiness_Charge_光之美少女！.md "wikilink")》後期片尾曲。
   - 「」
     作詞：青木久美子，作曲：高取秀明，編曲：籠島裕昌，主唱：光之美少女 All
-    Stars（[嶋村侑](../Page/嶋村侑.md "wikilink")、[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")、[山村響](../Page/山村響.md "wikilink")、[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")、[潘惠美](../Page/潘惠美.md "wikilink")、[北川里奈](https://zh.wikipedia.org/wiki/北川里奈 "wikilink")、[戶松遙](../Page/戶松遙.md "wikilink")）
+    Stars（[嶋村侑](../Page/嶋村侑.md "wikilink")、[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")、[山村響](../Page/山村響.md "wikilink")、[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")、[潘惠美](../Page/潘惠美.md "wikilink")、[北川里奈](../Page/北川里奈.md "wikilink")、[戶松遙](../Page/戶松遙.md "wikilink")）
   - 「」
     作詞：，作曲：山本清香，編曲：多田彰文，主唱：北川理惠
     本曲為《[GO\!

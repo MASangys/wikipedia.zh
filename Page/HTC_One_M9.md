@@ -53,7 +53,7 @@ P8](https://zh.wikipedia.org/wiki/Huawei_P8 "wikilink")。\[1\]
 <tr class="odd">
 <td><p>系統</p></td>
 <td><p>colspan 2 |<a href="../Page/Android_Nougat.md" title="wikilink">Android 7.0</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Lollipop" title="wikilink">Android 5.0.2</a>（M9s/M9 Prime Camera Edition） <a href="../Page/Android_Marshmallow.md" title="wikilink">Android 6.0.1</a>（S9）</p></td>
+<td><p><a href="../Page/Android_Lollipop.md" title="wikilink">Android 5.0.2</a>（M9s/M9 Prime Camera Edition） <a href="../Page/Android_Marshmallow.md" title="wikilink">Android 6.0.1</a>（S9）</p></td>
 </tr>
 <tr class="even">
 <td><p>介面</p></td>

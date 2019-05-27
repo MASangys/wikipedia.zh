@@ -95,7 +95,7 @@
 <tr class="even">
 <td><p>2017年6月2日－<br />
 2017年7月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/最佳的一擊" title="wikilink">最佳的一擊</a><br />
+<td><p><a href="../Page/最佳的一擊.md" title="wikilink">最佳的一擊</a><br />
 </p></td>
 <td><p>32</p></td>
 <td><p><a href="../Page/尹施允.md" title="wikilink">尹施允</a>、<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="../Page/金旻載.md" title="wikilink">金旻載</a>、<a href="../Page/尹孫河.md" title="wikilink">尹孫河</a>、<a href="https://zh.wikipedia.org/wiki/李世榮" title="wikilink">李世榮</a></p></td>
@@ -106,10 +106,10 @@
 <tr class="odd">
 <td><p>2017年8月4日－<br />
 2017年9月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/最強送餐員" title="wikilink">最強送餐員</a><br />
+<td><p><a href="../Page/最強送餐員.md" title="wikilink">最強送餐員</a><br />
 </p></td>
 <td><p>16</p></td>
-<td><p><a href="../Page/高庚杓.md" title="wikilink">高庚杓</a>、<a href="../Page/蔡秀彬.md" title="wikilink">蔡秀彬</a>、<a href="https://zh.wikipedia.org/wiki/金善浩" title="wikilink">金善浩</a>、<a href="../Page/高媛熙.md" title="wikilink">高媛熙</a></p></td>
+<td><p><a href="../Page/高庚杓.md" title="wikilink">高庚杓</a>、<a href="../Page/蔡秀彬.md" title="wikilink">蔡秀彬</a>、<a href="../Page/金善浩.md" title="wikilink">金善浩</a>、<a href="../Page/高媛熙.md" title="wikilink">高媛熙</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/全雨盛" title="wikilink">全雨盛</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李政宇" title="wikilink">李政宇</a></p></td>
 <td></td>
@@ -117,7 +117,7 @@
 <tr class="even">
 <td><p>2017年10月13日－<br />
 2017年11月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Go_Back夫婦" title="wikilink">Go Back夫婦</a><br />
+<td><p><a href="../Page/Go_Back夫婦.md" title="wikilink">Go Back夫婦</a><br />
 </p></td>
 <td><p>12</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫浩俊" title="wikilink">孫浩俊</a>、<a href="../Page/張娜拉.md" title="wikilink">張娜拉</a></p></td>

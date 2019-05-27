@@ -1,6 +1,6 @@
 是[俄羅斯在](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")1993年設計的8×8輪式[裝甲運兵車](https://zh.wikipedia.org/wiki/裝甲運兵車 "wikilink")，於1994年首次公開展出。該車是BTR-80的增大版本，裝備與BMP-2一樣的[希普諾夫2A42機炮](../Page/希普諾夫2A42機炮.md "wikilink")。相對於BTR-80，BTR-90改進了整個戰車的前緣弧設計，使其能夠有效防禦14.5毫米口徑的槍彈。
 
-BTR-90配備一門希普諾夫2A42機炮（BTR-90M使用的則是[2A72機炮](https://zh.wikipedia.org/wiki/希普諾夫2A72機炮 "wikilink")）以及一挺[PKT](../Page/PK通用機槍.md "wikilink")
+BTR-90配備一門希普諾夫2A42機炮（BTR-90M使用的則是[2A72機炮](../Page/希普諾夫2A72機炮.md "wikilink")）以及一挺[PKT](../Page/PK通用機槍.md "wikilink")
 7.62毫米同軸輕機槍或[Kord](../Page/Kord重機槍.md "wikilink")
 12.7毫米[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")，同時在炮台的兩側配備了5發戰車射反坦克導彈以及[AGS-17](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")
 30毫米自動[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")。
@@ -68,8 +68,7 @@ BTR-90使用[希普諾夫2A42](../Page/希普諾夫2A42機炮.md "wikilink")
 
   - BTR-90M
 
-擁有一門來自於BMP-3的2A70
-100mm線膛炮和[希普諾夫2A72](https://zh.wikipedia.org/wiki/希普諾夫2A72機炮 "wikilink")
+擁有一門來自於BMP-3的2A70 100mm線膛炮和[希普諾夫2A72](../Page/希普諾夫2A72機炮.md "wikilink")
 30mm口徑機炮同軸機炮和一挺7.62毫米PKT機槍。BTR-90M在2001年首次公開展出卻並未服役於軍隊。
 
   - Krymsk
@@ -82,7 +81,7 @@ Krymsk通過遠程遙控的方式進行戰鬥，可以配備新式的武器系�
 ## 流行文化
 
 BTR-90步兵战车在2013年[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[戰地風雲4](../Page/戰地風雲4.md "wikilink")》（Battlefield
-4）中以俄罗斯陆军步兵战车之姿出现，但是为了简化游戏的设定参数，奇怪地使用25毫米機炮（預設）、[拖式飛彈](../Page/BGM-71拖式飛彈.md "wikilink")（解鎖後）和[祖尼火箭](https://zh.wikipedia.org/wiki/祖尼火箭 "wikilink")（解鎖後），類似的情況亦出現在[ZBL-09](../Page/ZBL-08步兵战车.md "wikilink")。
+4）中以俄罗斯陆军步兵战车之姿出现，但是为了简化游戏的设定参数，奇怪地使用25毫米機炮（預設）、[拖式飛彈](../Page/BGM-71拖式飛彈.md "wikilink")（解鎖後）和[祖尼火箭](../Page/祖尼火箭.md "wikilink")（解鎖後），類似的情況亦出現在[ZBL-09](../Page/ZBL-08步兵战车.md "wikilink")。
 
 ## 图集
 

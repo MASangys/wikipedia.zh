@@ -73,7 +73,7 @@ Edition則是將前兩作合併並改編的一般向動畫。
   - 音響監督：神保直史
   - 編輯：汐閏樹静流
   - 製作人：吉田小陰、堀江拓
-  - 動畫製作：[Seven](https://zh.wikipedia.org/wiki/Animation_StudiO_Seven "wikilink")
+  - 動畫製作：[Seven](../Page/Animation_StudiO_Seven.md "wikilink")
   - 製作：PinkPineapple
 
 ### 發售日

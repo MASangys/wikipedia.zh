@@ -1,4 +1,4 @@
-[DC擴展宇宙是一個](https://zh.wikipedia.org/wiki/DC擴展宇宙 "wikilink")[跨媒體製作的](../Page/跨媒體製作.md "wikilink")[共同](../Page/共同世界.md "wikilink")[虛構宇宙](https://zh.wikipedia.org/wiki/虛構宇宙 "wikilink")，為[華納兄弟影業公司所製作發展的](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")[DC漫畫](../Page/DC漫畫.md "wikilink")[超級英雄電影世界觀](../Page/超級英雄電影.md "wikilink")，基於出現在DC漫畫出版物中的角色所創作。
+[DC擴展宇宙是一個](../Page/DC擴展宇宙.md "wikilink")[跨媒體製作的](../Page/跨媒體製作.md "wikilink")[共同](../Page/共同世界.md "wikilink")[虛構宇宙](https://zh.wikipedia.org/wiki/虛構宇宙 "wikilink")，為[華納兄弟影業公司所製作發展的](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")[DC漫畫](../Page/DC漫畫.md "wikilink")[超級英雄電影世界觀](../Page/超級英雄電影.md "wikilink")，基於出現在DC漫畫出版物中的角色所創作。
 
 由於DC擴展宇宙電影根據多部DC漫畫出版物改編而成，於是有著多位主角。最早，[亨利·卡維爾在](../Page/亨利·卡維爾.md "wikilink")《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》（2013年）和《[蝙蝠俠對超人：正義曙光](https://zh.wikipedia.org/wiki/蝙蝠俠對超人：正義曙光 "wikilink")》（2016年）飾演[凱·艾爾
 / 克拉克·肯特 /
@@ -10,11 +10,11 @@
 / 鋼骨](../Page/鋼骨_\(漫畫\).md "wikilink")、[亞瑟·庫瑞 /
 水行俠除了出現在](../Page/水行俠.md "wikilink")《正義曙光》外，還將出演自己的獨立電影《鋼骨》（2020年）與《水行俠》（2018年），而飾演[貝瑞·艾倫
 /
-閃電俠的](https://zh.wikipedia.org/wiki/貝瑞·艾倫 "wikilink")[伊薩·米勒也參與了獨立電影](https://zh.wikipedia.org/wiki/伊薩·米勒 "wikilink")《閃電俠》的演出。[巨石強森將在](../Page/巨石強森.md "wikilink")《黑亞當》（TBA）中飾演[黑亞當](https://zh.wikipedia.org/wiki/黑亞當 "wikilink")，而[柴克·萊威則會在](../Page/柴克·萊威.md "wikilink")《[沙贊！](https://zh.wikipedia.org/wiki/沙贊！_\(電影\) "wikilink")》（2019年）中飾演[比利·巴特森
+閃電俠的](https://zh.wikipedia.org/wiki/貝瑞·艾倫 "wikilink")[伊薩·米勒也參與了獨立電影](https://zh.wikipedia.org/wiki/伊薩·米勒 "wikilink")《閃電俠》的演出。[巨石強森將在](../Page/巨石強森.md "wikilink")《黑亞當》（TBA）中飾演[黑亞當](../Page/黑亞當.md "wikilink")，而[柴克·萊威則會在](../Page/柴克·萊威.md "wikilink")《[沙贊！](https://zh.wikipedia.org/wiki/沙贊！_\(電影\) "wikilink")》（2019年）中飾演[比利·巴特森
 /
 沙贊](https://zh.wikipedia.org/wiki/驚奇隊長_\(DC漫畫\) "wikilink")。，而演出蝙蝠俠對超人及正義聯盟的班·艾佛列克目前正式宣告退出DC宇宙，並不會參與之後未具名的蝙蝠俠獨立電影。
 
-其他飾演[常設角色的演員包含](https://zh.wikipedia.org/wiki/常設角色 "wikilink")[艾美·亞當斯](https://zh.wikipedia.org/wiki/艾美·亞當斯 "wikilink")、[威廉·達佛](../Page/威廉·達佛.md "wikilink")、[傑西·艾森柏格](../Page/傑西·艾森柏格.md "wikilink")、[勞倫斯·費許朋](../Page/勞倫斯·費許朋.md "wikilink")、[安柏·赫德](https://zh.wikipedia.org/wiki/安柏·赫德 "wikilink")、[傑瑞米·艾恩斯](../Page/傑瑞米·艾恩斯.md "wikilink")、[黛安·蓮恩](https://zh.wikipedia.org/wiki/黛安·蓮恩 "wikilink")、[康妮·尼爾森](../Page/康妮·尼爾森.md "wikilink")、[瑪格·羅比以及](https://zh.wikipedia.org/wiki/瑪格·羅比 "wikilink")[J·K·西蒙斯等人](https://zh.wikipedia.org/wiki/J·K·西蒙斯 "wikilink")。
+其他飾演[常設角色的演員包含](https://zh.wikipedia.org/wiki/常設角色 "wikilink")[艾美·亞當斯](https://zh.wikipedia.org/wiki/艾美·亞當斯 "wikilink")、[威廉·達佛](../Page/威廉·達佛.md "wikilink")、[傑西·艾森柏格](../Page/傑西·艾森柏格.md "wikilink")、[勞倫斯·費許朋](../Page/勞倫斯·費許朋.md "wikilink")、[安柏·赫德](https://zh.wikipedia.org/wiki/安柏·赫德 "wikilink")、[傑瑞米·艾恩斯](../Page/傑瑞米·艾恩斯.md "wikilink")、[黛安·蓮恩](https://zh.wikipedia.org/wiki/黛安·蓮恩 "wikilink")、[康妮·尼爾森](../Page/康妮·尼爾森.md "wikilink")、[瑪格·羅比以及](https://zh.wikipedia.org/wiki/瑪格·羅比 "wikilink")[J·K·西蒙斯等人](../Page/J·K·西蒙斯.md "wikilink")。
 
 ## 演員和角色
 
@@ -55,7 +55,7 @@
 <th><p><strong><a href="https://zh.wikipedia.org/wiki/蝙蝠俠對超人：正義曙光" title="wikilink">蝙蝠俠對超人：<br />
 <small>正義曙光</small></a></strong><br />
 <small>（2016年）</small></p></th>
-<th><p><strong><a href="https://zh.wikipedia.org/wiki/自殺突擊隊" title="wikilink">自殺突擊隊</a></strong><br />
+<th><p><strong><a href="../Page/自殺突擊隊.md" title="wikilink">自殺突擊隊</a></strong><br />
 <small>（2016年）</small></p></th>
 <th><p><strong><a href="https://zh.wikipedia.org/wiki/神力女超人_(2017年電影)" title="wikilink">神力女超人</a></strong><br />
 <small>（2017年）</small></p></th>
@@ -164,7 +164,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李察·席夫" title="wikilink">李察·席夫</a>[11]</p></td>
+<td><p><a href="../Page/李察·席夫.md" title="wikilink">李察·席夫</a>[11]</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
@@ -457,7 +457,7 @@
 <tr class="even">
 <td></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岡本多緒" title="wikilink">岡本多緒</a>[53]</p></td>
+<td><p><a href="../Page/岡本多緒.md" title="wikilink">岡本多緒</a>[53]</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
@@ -469,7 +469,7 @@
 <tr class="odd">
 <td><p>華利斯·基夫</p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/史考特·麥奈利" title="wikilink">史考特·麥奈利</a>[54]</p></td>
+<td><p><a href="../Page/史考特·麥奈利.md" title="wikilink">史考特·麥奈利</a>[54]</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
@@ -491,7 +491,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/KG野獸" title="wikilink">安納托利·尼克亞傑夫</a></p></td>
+<td><p><a href="../Page/KG野獸.md" title="wikilink">安納托利·尼克亞傑夫</a></p></td>
 <td><p> </p></td>
 <td><p><a href="../Page/卡爾·穆爾維.md" title="wikilink">卡爾·穆爾維</a>[56]</p></td>
 <td><p> </p></td>
@@ -589,11 +589,11 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/荒原狼_(漫畫)" title="wikilink">荒原狼</a></p></td>
+<td><p><a href="../Page/荒原狼_(漫畫).md" title="wikilink">荒原狼</a></p></td>
 <td><p> </p></td>
 <td><p>CGI角色[75][76]</p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/希朗·漢德" title="wikilink">希朗·漢德</a>[77][78]</p></td>
+<td><p><a href="../Page/希朗·漢德.md" title="wikilink">希朗·漢德</a>[77][78]</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
@@ -626,7 +626,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/史提夫·崔佛" title="wikilink">史提夫·崔佛</a></p></td>
+<td><p><a href="../Page/史提夫·崔佛.md" title="wikilink">史提夫·崔佛</a></p></td>
 <td><p> </p></td>
 <td><p><a href="../Page/克里斯·潘恩.md" title="wikilink">克里斯·潘恩</a>[83]</p></td>
 <td><p> </p></td>
@@ -651,7 +651,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/瑪莎·韋恩" title="wikilink">瑪莎·韋恩</a></p></td>
+<td><p><a href="../Page/瑪莎·韋恩.md" title="wikilink">瑪莎·韋恩</a></p></td>
 <td><p> </p></td>
 <td><p><a href="../Page/蘿倫·科漢.md" title="wikilink">蘿倫·科漢</a>[88]</p></td>
 <td><p> </p></td>
@@ -749,7 +749,7 @@
 <tr class="even">
 <td></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/喬爾·金納曼" title="wikilink">喬爾·金納曼</a>[97]</p></td>
+<td><p><a href="../Page/喬爾·金納曼.md" title="wikilink">喬爾·金納曼</a>[97]</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
@@ -909,7 +909,7 @@
 <tr class="odd">
 <td></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/傑·赫南德茲" title="wikilink">傑·赫南德茲</a>[110]</p></td>
+<td><p><a href="../Page/傑·赫南德茲.md" title="wikilink">傑·赫南德茲</a>[110]</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
@@ -921,7 +921,7 @@
 <tr class="even">
 <td><p>德克斯特·托利弗</p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大衛·哈伯" title="wikilink">大衛·哈伯</a>[111]</p></td>
+<td><p><a href="../Page/大衛·哈伯.md" title="wikilink">大衛·哈伯</a>[111]</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
@@ -1004,7 +1004,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/阿瑞斯_(DC漫畫)" title="wikilink">阿瑞斯<br />
+<td><p><a href="../Page/阿瑞斯_(DC漫畫).md" title="wikilink">阿瑞斯<br />
 <small>派翠克·摩根爵士</small></a></p></td>
 <td><p> </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大衛·休利斯" title="wikilink">大衛·休利斯</a>[118][119][120]</p></td>
@@ -1164,7 +1164,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/詹姆斯·高登_(漫畫)" title="wikilink">詹姆斯·高登</a></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/J·K·西蒙斯" title="wikilink">J·K·西蒙斯</a>[135]</p></td>
+<td><p><a href="../Page/J·K·西蒙斯.md" title="wikilink">J·K·西蒙斯</a>[135]</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
@@ -1174,7 +1174,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/梅拉_(漫畫)" title="wikilink">梅拉</a></p></td>
+<td><p><a href="../Page/梅拉_(漫畫).md" title="wikilink">梅拉</a></p></td>
 <td><p> </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安柏·赫德" title="wikilink">安柏·赫德</a>[136]</p></td>
 <td><p> </p></td>
@@ -1319,10 +1319,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黑蝠鱝" title="wikilink">大衛·海德<br />
+<td><p><a href="../Page/黑蝠鱝.md" title="wikilink">大衛·海德<br />
 <small>黑蝠鱝</small></a></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/葉海亞·阿巴杜-馬汀二世" title="wikilink">葉海亞·阿巴杜-馬汀二世</a>[151][152]</p></td>
+<td><p><a href="../Page/葉海亞·阿巴杜-馬汀二世.md" title="wikilink">葉海亞·阿巴杜-馬汀二世</a>[151][152]</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
@@ -1359,7 +1359,7 @@
 <tr class="even">
 <td><p>莫克</p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林路迪" title="wikilink">林路迪</a>[156]</p></td>
+<td><p><a href="../Page/林路迪.md" title="wikilink">林路迪</a>[156]</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
@@ -1395,7 +1395,7 @@
 <tr class="odd">
 <td></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藍道爾·朴" title="wikilink">藍道爾·朴</a>[161]</p></td>
+<td><p><a href="../Page/藍道爾·朴.md" title="wikilink">藍道爾·朴</a>[161]</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
@@ -1421,7 +1421,7 @@
 <small>沙贊</small></a></p></td>
 <td><p> </p></td>
 <td><p><a href="../Page/柴克·萊威.md" title="wikilink">柴克·萊威</a>[162]<br />
-<a href="https://zh.wikipedia.org/wiki/艾許·安傑" title="wikilink">艾許·安傑</a><br />
+<a href="../Page/艾許·安傑.md" title="wikilink">艾許·安傑</a><br />
 （少年）[163]</p></td>
 <td><p> </p></td>
 <td></td>
@@ -1444,7 +1444,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/希瓦納博士" title="wikilink">希瓦納博士</a></p></td>
+<td><p><a href="../Page/希瓦納博士.md" title="wikilink">希瓦納博士</a></p></td>
 <td><p> </p></td>
 <td><p><a href="../Page/馬克·史壯.md" title="wikilink">馬克·史壯</a>[165]</p></td>
 <td><p> </p></td>
@@ -1645,7 +1645,7 @@
 ## 參見
 
   - [DC漫畫角色列表](../Page/DC漫畫角色列表.md "wikilink")
-  - [漫威電影宇宙電影演員列表](https://zh.wikipedia.org/wiki/漫威電影宇宙電影演員列表 "wikilink")
+  - [漫威電影宇宙電影演員列表](../Page/漫威電影宇宙電影演員列表.md "wikilink")
 
 ## 參考資料
 

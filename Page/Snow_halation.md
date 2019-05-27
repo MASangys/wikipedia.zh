@@ -11,7 +11,7 @@ project）的名義發行，但自本作起的所有新作則全部改用在2010
 
 作為[法人特典](../Page/法人.md "wikilink")，在[Animate](https://zh.wikipedia.org/wiki/Animate "wikilink")、、[Comic虎之穴購買本作時](../Page/Comic虎之穴.md "wikilink")，會附贈實際並不存在的架空活動門票，而各個法人所虛構的活動及門票設計均有所不同。
 
-2017年，在NHK为纪念[日本动画诞生一百周年而进行的](../Page/日本动画.md "wikilink")“[日本动画100](https://zh.wikipedia.org/wiki/日本动画100 "wikilink")”特别企划中，获选为“Best
+2017年，在NHK为纪念[日本动画诞生一百周年而进行的](../Page/日本动画.md "wikilink")“[日本动画100](../Page/日本动画100.md "wikilink")”特别企划中，获选为“Best
 Anisong 100”动画歌曲第一名\[1\]。
 
 ### “橙色奇迹”
@@ -71,7 +71,7 @@ CD共收錄了兩首歌曲、其純音樂版以及十一段廣播劇，而DVD則
 
 11. *（與你的聖誕節 -西木野真姬-）* \[1:02\]
 
-      - 出演：西木野真姬（声：[Pile](https://zh.wikipedia.org/wiki/Pile "wikilink")）
+      - 出演：西木野真姬（声：[Pile](../Page/Pile.md "wikilink")）
 
 12. *（與你的聖誕節 -東條希-）* \[0:57\]
 
@@ -116,7 +116,7 @@ CD共收錄了兩首歌曲、其純音樂版以及十一段廣播劇，而DVD則
   - 編輯：今井大介
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 音樂制作：[Lantis](../Page/Lantis.md "wikilink")
-  - 音樂製作人：[齋藤滋](https://zh.wikipedia.org/wiki/齋藤滋 "wikilink")
+  - 音樂製作人：[齋藤滋](../Page/齋藤滋.md "wikilink")
   - 製作人：平山理志、伊藤善之、
   - 舞蹈編排：yumi
   - 製作：Project LoveLive\!（日昇動畫、Lantis、[ASCII Media

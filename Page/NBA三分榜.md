@@ -331,7 +331,7 @@
 </tr>
 <tr class="even">
 <td><p>27</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蒂姆·哈达威" title="wikilink">蒂姆·哈达威</a>†</p></td>
+<td><p><a href="../Page/蒂姆·哈达威.md" title="wikilink">蒂姆·哈达威</a>†</p></td>
 <td><p>控球後衛</p></td>
 <td></td>
 <td><p>1542</p></td>
@@ -439,7 +439,7 @@
 <td><p>小前鋒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/纽约尼克斯" title="wikilink">纽约尼克斯</a><br />
 <a href="../Page/奥兰多魔术.md" title="wikilink">奥兰多魔术</a><br />
-<a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><br />
+<a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><br />
 <a href="https://zh.wikipedia.org/wiki/新奥尔良黄蜂" title="wikilink">新奥尔良黄蜂</a><br />
 <a href="https://zh.wikipedia.org/wiki/华盛顿奇才" title="wikilink">华盛顿奇才</a><br />
 <a href="https://zh.wikipedia.org/wiki/休斯顿火箭" title="wikilink">休斯顿火箭</a></p></td>
@@ -630,8 +630,7 @@
 本列表统计的是国家篮球协会（NBA）常规赛历季三分球命中数最多者及球员生涯三分球命中数递增情况。
 
   -
-    *数据截至[2017-18
-    NBA赛季](https://zh.wikipedia.org/wiki/2017-18_NBA賽季 "wikilink")。*
+    *数据截至[2017-18 NBA赛季](../Page/2017-18_NBA賽季.md "wikilink")。*
 
 |    |                                                    |
 | -- | -------------------------------------------------- |
@@ -897,7 +896,7 @@
 </tr>
 <tr class="even">
 <td><p>1998-99</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/迪·布朗_(1968年出生)" title="wikilink">迪·布朗</a><small><a href="../Page/多伦多猛龙.md" title="wikilink">猛龙</a></p></td>
+<td><p><a href="../Page/迪·布朗_(1968年出生).md" title="wikilink">迪·布朗</a><small><a href="../Page/多伦多猛龙.md" title="wikilink">猛龙</a></p></td>
 <td><p>135</p></td>
 <td><p>1,702</p></td>
 <td><p>1,702</p></td>

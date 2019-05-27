@@ -1,13 +1,13 @@
 **株式會社LUMINE**（，**Lumine
 Co.,Ltd.**）是經營型[商場的企業](../Page/商場.md "wikilink")，為[東日本旅客鐵道（JR東日本）連結子公司](../Page/東日本旅客鐵道.md "wikilink")、JR東日本集團的中核企業之一。
 
-商品價格大多在1萬日圓以下\[1\]，顧客群以25-30歲女性\[2\]為主，是日本最大的[時裝大樓營運企業](https://zh.wikipedia.org/wiki/時裝大樓 "wikilink")\[3\]。
+商品價格大多在1萬日圓以下\[1\]，顧客群以25-30歲女性\[2\]為主，是日本最大的[時裝大樓營運企業](../Page/時裝大樓.md "wikilink")\[3\]。
 
 ## 概要
 
 LUMINE起於1976年（[昭和](../Page/昭和.md "wikilink")51年）[國鐵](../Page/國鐵.md "wikilink")[新宿站南口的新宿LUMINE](https://zh.wikipedia.org/wiki/新宿站 "wikilink")（現新宿LUMINE1）。之後橫濱站與荻窪站等車站大樓繼續使用「LUMINE」作為商場名。原先國鐵車站大樓商場為各自獨立的公司，1991年（[平成](../Page/平成.md "wikilink")3年）4月，LUMINE等JR東日本車站大樓營運公司合併成立「株式會社LUMINE」，進行JR東日本車站大樓事業重整，其他名稱的商業設施也陸續轉換為「LUMINE」，統一其品牌印象。
 
-為了擺脫原有的老舊國鐵印象而進行的整修與租戶政策獲得了巨大的成果，成為最具代表性的[時裝大樓](https://zh.wikipedia.org/wiki/時裝大樓 "wikilink")[百貨店之一](https://zh.wikipedia.org/wiki/百貨店 "wikilink")\[4\]。
+為了擺脫原有的老舊國鐵印象而進行的整修與租戶政策獲得了巨大的成果，成為最具代表性的[時裝大樓](../Page/時裝大樓.md "wikilink")[百貨店之一](https://zh.wikipedia.org/wiki/百貨店 "wikilink")\[4\]。
 
 由其他公司營運的LUMINE商場有株式會社LUMINE茅崎的「茅崎LUMINE」（[茅崎站](../Page/茅崎站.md "wikilink")）與福島車站開發株式會社營運的「福島LUMINE」（[福島站](https://zh.wikipedia.org/wiki/福島站_\(福島縣\) "wikilink")，[東北唯一店鋪](https://zh.wikipedia.org/wiki/東北地方_\(日本\) "wikilink")）。前者現已併入湘南車站大樓株式會社，2006年（平成18年）3月更名為「」，後者併入，2004年3月20日更名為「」。
 

@@ -1,5 +1,5 @@
 **For Inspiration and Recognition of Science and Technology**
-(**FIRST**)\[1\]是一个国际性青少年组织，组织并举办了[FIRST机器人竞赛](https://zh.wikipedia.org/wiki/FIRST机器人竞赛 "wikilink")、[FIRST乐高联赛](https://zh.wikipedia.org/wiki/FIRST乐高联赛 "wikilink")、、[FIRST科技挑战赛](../Page/FIRST科技挑战赛.md "wikilink")
+(**FIRST**)\[1\]是一个国际性青少年组织，组织并举办了[FIRST机器人竞赛](../Page/FIRST机器人竞赛.md "wikilink")、[FIRST乐高联赛](../Page/FIRST乐高联赛.md "wikilink")、、[FIRST科技挑战赛](../Page/FIRST科技挑战赛.md "wikilink")
 
 FIRST由[迪安·卡蒙和](../Page/狄恩·卡门.md "wikilink")创立于1989年，它的目标是使激励学生在[工程领域和](https://zh.wikipedia.org/wiki/工程 "wikilink")[科技领域方面的途径不断拓展](https://zh.wikipedia.org/wiki/科技 "wikilink")。FIRST著称于它合作与竞赛并存的理念，这个理念被解释为*[协作竞争](https://zh.wikipedia.org/wiki/协作竞争 "wikilink")*和*高尚的专业精神*。
 
@@ -19,7 +19,7 @@ FIRST的最重要的组织是董事会，就像其他的[董事会一样运转](
 ### FIRST科技挑战赛
 
 [100_9640.JPG](https://zh.wikipedia.org/wiki/File:100_9640.JPG "fig:100_9640.JPG")FIRST科技挑战赛（FTC），之前叫做FIRST
-Vex挑战赛（FVC），是2005年3月22日宣布的一个中级机器人竞赛。按照FIRST的说法，这个竞赛是对于学校来说更易接受和支付的选择，FIRST同样说FTC项目是为中级能力等级创造的。FIRST科技挑战赛的机器人相当于FRC机器人三分之一的大小。FTC比赛意味着是学生从[FLL到FRC的一个过渡](https://zh.wikipedia.org/wiki/FIRST乐高联赛 "wikilink")。FTC基于,可以通过商业渠道购买到的。\[5\]
+Vex挑战赛（FVC），是2005年3月22日宣布的一个中级机器人竞赛。按照FIRST的说法，这个竞赛是对于学校来说更易接受和支付的选择，FIRST同样说FTC项目是为中级能力等级创造的。FIRST科技挑战赛的机器人相当于FRC机器人三分之一的大小。FTC比赛意味着是学生从[FLL到FRC的一个过渡](../Page/FIRST乐高联赛.md "wikilink")。FTC基于,可以通过商业渠道购买到的。\[5\]
 
 在2005年六月，FIRST将FIRST Vex
 Challenge作为一个有潜力的项目进行试运行。\[6\]这次试运行有超过130支队伍在6个区域参加1：3的锦标赛（）\[7\]。
@@ -96,7 +96,7 @@ FIRST寻求促进工程师[团队合作和](https://zh.wikipedia.org/wiki/团队
 <tr class="header">
 <th><p>年</p></th>
 <th></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/FIRST乐高联赛" title="wikilink">FLL</a></p></th>
+<th><p><a href="../Page/FIRST乐高联赛.md" title="wikilink">FLL</a></p></th>
 <th></th>
 <th><p><a href="../Page/FIRST科技挑战赛.md" title="wikilink">FTC</a></p></th>
 </tr>
@@ -217,7 +217,7 @@ FIRST寻求促进工程师[团队合作和](https://zh.wikipedia.org/wiki/团队
 <tr class="odd">
 <td><p>2008</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FIRST乐高联赛" title="wikilink">FIRST乐高联赛</a></p></td>
+<td><p><a href="../Page/FIRST乐高联赛.md" title="wikilink">FIRST乐高联赛</a></p></td>
 <td><p>Power Puzzle</p></td>
 <td></td>
 </tr>

@@ -12,7 +12,7 @@ Extensions](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")
 Extensions](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")。Linux版本采用[Clang构建](../Page/Clang.md "wikilink")\[4\]。它兼容大多数[Firefox附加组件和](https://zh.wikipedia.org/wiki/Add-on_\(Mozilla\) "wikilink")64位[NPAPI浏览器插件](../Page/NPAPI.md "wikilink")\[5\]。Waterfox包含旨在利用64位系统架构的修改，并提高了Mozilla旗舰浏览器的速度。Waterfox还删除了Adobe
 DRM、Pocket功能以及Firefox的数据收集组件，并称与[Windows
 XP](../Page/Windows_XP.md "wikilink") 64位版本兼容。Waterfox继续支援Firefox
-57起移除的[XUL和](../Page/XUL.md "wikilink")[XPCOM附加元件](https://zh.wikipedia.org/wiki/XPCOM "wikilink")\[6\]\[7\]\[8\]\[9\]。
+57起移除的[XUL和](../Page/XUL.md "wikilink")[XPCOM附加元件](../Page/XPCOM.md "wikilink")\[6\]\[7\]\[8\]\[9\]。
 
 [Waterfox_icon_for_user.png](https://zh.wikipedia.org/wiki/File:Waterfox_icon_for_user.png "fig:Waterfox_icon_for_user.png")
 [Waterfox_Logo_(redesigned_2015).png](https://zh.wikipedia.org/wiki/File:Waterfox_Logo_\(redesigned_2015\).png "fig:Waterfox_Logo_(redesigned_2015).png")

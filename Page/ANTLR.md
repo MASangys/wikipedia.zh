@@ -63,7 +63,7 @@ IDE中更以ANTLR解析C++。[Twitter搜索使用ANTLR解析](../Page/Twitter.md
 
 ## 參見
 
-  - [JavaCC](https://zh.wikipedia.org/wiki/JavaCC "wikilink")
+  - [JavaCC](../Page/JavaCC.md "wikilink")
   - [SableCC](https://zh.wikipedia.org/wiki/SableCC "wikilink")
   - [DMS Software Reengineering
     Toolkit](https://zh.wikipedia.org/wiki/DMS_Software_Reengineering_Toolkit "wikilink")

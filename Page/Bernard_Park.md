@@ -71,11 +71,11 @@ Park**（）；），原名**朴洛俊**（音譯，\[1\]），是一位美籍�
 
 ### 原聲帶（OST）
 
-| 年份    | 曲目                             | 戲劇／電影                                                                                  |
-| ----- | ------------------------------ | -------------------------------------------------------------------------------------- |
-| 2016年 | 塵（먼지)                          | KBS《[Beautiful Mind](https://zh.wikipedia.org/wiki/Beautiful_Mind "wikilink")》\[4\]    |
-| 2018年 | 被遮掩的道路 (가리워진 길)(Sound Track 版) | KBS《[Radio Romance](https://zh.wikipedia.org/wiki/Radio_Romance "wikilink")》OST Part 2 |
-| 2018年 | 被遮掩的道路 (가리워진 길)(live Ver. 版)   | KBS《[Radio Romance](https://zh.wikipedia.org/wiki/Radio_Romance "wikilink")》OST Part 2 |
+| 年份    | 曲目                             | 戲劇／電影                                                               |
+| ----- | ------------------------------ | ------------------------------------------------------------------- |
+| 2016年 | 塵（먼지)                          | KBS《[Beautiful Mind](../Page/Beautiful_Mind.md "wikilink")》\[4\]    |
+| 2018年 | 被遮掩的道路 (가리워진 길)(Sound Track 版) | KBS《[Radio Romance](../Page/Radio_Romance.md "wikilink")》OST Part 2 |
+| 2018年 | 被遮掩的道路 (가리워진 길)(live Ver. 版)   | KBS《[Radio Romance](../Page/Radio_Romance.md "wikilink")》OST Part 2 |
 
 ## 演唱會
 

@@ -69,7 +69,7 @@ Point。\[7\]其他租戶包括[Hollister](https://zh.wikipedia.org/wiki/Hollist
 Secret](https://zh.wikipedia.org/wiki/Victoria's_Secret "wikilink")、[Calvin
 Klein](https://zh.wikipedia.org/wiki/Calvin_Klein "wikilink")、[Clarks](https://zh.wikipedia.org/wiki/Clarks "wikilink")、Geox、Giordano
 Ladies、[EVISU](https://zh.wikipedia.org/wiki/EVISU "wikilink")、Designal、[Jack
-Wills](https://zh.wikipedia.org/wiki/Jack_Wills "wikilink")、[Pandora](https://zh.wikipedia.org/wiki/Pandora "wikilink")、[Superdry](https://zh.wikipedia.org/wiki/Superdry "wikilink")、[Swatch](https://zh.wikipedia.org/wiki/Swatch "wikilink")、inital以至i.t.旗下的AAPE、Chocoolate、Camper、Fred
+Wills](../Page/Jack_Wills.md "wikilink")、[Pandora](https://zh.wikipedia.org/wiki/Pandora "wikilink")、[Superdry](../Page/Superdry.md "wikilink")、[Swatch](https://zh.wikipedia.org/wiki/Swatch "wikilink")、inital以至i.t.旗下的AAPE、Chocoolate、Camper、Fred
 Perry及izzue等。[7-11便利店](https://zh.wikipedia.org/wiki/7-11便利店 "wikilink")、[東亞銀行亦會在商場](https://zh.wikipedia.org/wiki/東亞銀行 "wikilink")1樓營業。
 
 食肆大多以高檔消費為主，九成食肆是首度進駐新界西北，包括家上海、安南、caffe HABITU、[Pizza

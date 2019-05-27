@@ -170,7 +170,7 @@ You－學校2015**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "
 <td><p>很愛美，常常化妝。男友是基泰。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/張仁燮" title="wikilink">張仁燮</a></p></td>
+<td><p><a href="../Page/張仁燮.md" title="wikilink">張仁燮</a></p></td>
 <td><p>成允才</p></td>
 <td></td>
 </tr>
@@ -356,7 +356,7 @@ You－學校2015**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "
 <td><p>6</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金佳英" title="wikilink">金佳英</a></p></td>
+<td><p><a href="../Page/金佳英.md" title="wikilink">金佳英</a></p></td>
 <td><p>佳英</p></td>
 <td></td>
 <td><p>6</p></td>
@@ -368,7 +368,7 @@ You－學校2015**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "
 <td><p>9</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/森姆·汗明頓" title="wikilink">Sam Hammington</a></p></td>
+<td><p><a href="../Page/森姆·汗明頓.md" title="wikilink">Sam Hammington</a></p></td>
 <td><p>新來的英文老師。</p></td>
 <td><p>15</p></td>
 <td></td>

@@ -70,7 +70,7 @@ Lane.JPG|2015年5月
   - [山景園](https://zh.wikipedia.org/wiki/山景園 "wikilink")
   - [金陵閣](https://zh.wikipedia.org/wiki/金陵閣 "wikilink")
   - [山道花園](https://zh.wikipedia.org/wiki/山道花園 "wikilink")
-  - [南里壹號](https://zh.wikipedia.org/wiki/南里壹號 "wikilink")
+  - [南里壹號](../Page/南里壹號.md "wikilink")
 
 ## 外部連結
 

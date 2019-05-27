@@ -92,7 +92,7 @@ N/mm2等級的SN400YB、SN 400YC及降伏強度325 N/mm2等級的SN490YB、SN
   - [熟铁](https://zh.wikipedia.org/wiki/熟铁 "wikilink")
   - [铸铁](../Page/铸铁.md "wikilink")
   - [高碳钢](https://zh.wikipedia.org/wiki/高碳钢 "wikilink")
-  - [高速鋼](https://zh.wikipedia.org/wiki/高速鋼 "wikilink")
+  - [高速鋼](../Page/高速鋼.md "wikilink")
 
 <!-- end list -->
 

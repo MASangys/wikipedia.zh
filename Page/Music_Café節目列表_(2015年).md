@@ -8,12 +8,9 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 **[2014年](../Page/Music_Café節目列表_\(2014年\).md "wikilink")** -
 **2015年** -
 **[2016年](../Page/Music_Café節目列表_\(2016年\).md "wikilink")**
--
-**[2017年](https://zh.wikipedia.org/wiki/Music_Café節目列表_\(2017年\) "wikilink")**
--
-**[2018年](https://zh.wikipedia.org/wiki/Music_Café節目列表_\(2018年\) "wikilink")**
--
-**[2019年](https://zh.wikipedia.org/wiki/Music_Café節目列表_\(2019年\) "wikilink")**</span>
+- **[2017年](../Page/Music_Café節目列表_\(2017年\).md "wikilink")** -
+**[2018年](../Page/Music_Café節目列表_\(2018年\).md "wikilink")** -
+**[2019年](../Page/Music_Café節目列表_\(2019年\).md "wikilink")**</span>
 
 </div>
 
@@ -51,7 +48,7 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 | 集數  | J2首播日期 | 主題                      | 嘉賓                                                                                                                           |
 | --- | ------ | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | 216 | 4月10日  | Mr.　回歸香港樂壇　笑談工作中的「現實遊戲」 | [Mr.](../Page/Mr..md "wikilink") |- style="background-color: \#FFFFFF" |                                                     |
-| 217 | 4月17日  | 鄰家女孩SIS樂印姊妹　幻想「如果我是個男孩」 | [SIS樂印姊妹](https://zh.wikipedia.org/wiki/SIS樂印姊妹 "wikilink") |- style="background-color: \#FFFFFF" |                          |
+| 217 | 4月17日  | 鄰家女孩SIS樂印姊妹　幻想「如果我是個男孩」 | [SIS樂印姊妹](../Page/SIS樂印姊妹.md "wikilink") |- style="background-color: \#FFFFFF" |                                             |
 | 218 | 4月24日  | 林漢洋、馬嘉均　二人中談創作合唱歌曲感受    | [林漢洋](https://zh.wikipedia.org/wiki/林漢洋 "wikilink")、[馬嘉均](../Page/馬嘉均.md "wikilink") |- style="background-color: \#FFFFFF" | |
 
 ## 5月
@@ -97,7 +94,7 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 | 235 | 9月5日   | 周國賢　戰勝情緒再出新歌       | [周國賢](../Page/周國賢.md "wikilink") |- style="background-color: \#FFFFFF" |                                   |
 | 236 | 9月12日  | 陳凱彤、Jude　來自英美的新星   | [陳凱彤](../Page/陳凱彤.md "wikilink")、[Jude](../Page/曾若華.md "wikilink") |- style="background-color: \#FFFFFF" | |
 | 237 | 9月19日  | As One　全新配搭再攻韓國樂壇  | [As One](../Page/As_One.md "wikilink") |- style="background-color: \#FFFFFF" |                             |
-| 238 | 9月26日  | KillerSoap　暢談演出難忘事 | [KillerSoap](https://zh.wikipedia.org/wiki/KillerSoap "wikilink") |- style="background-color: \#FFFFFF" |  |
+| 238 | 9月26日  | KillerSoap　暢談演出難忘事 | [KillerSoap](../Page/KillerSoap.md "wikilink") |- style="background-color: \#FFFFFF" |                     |
 
 ## 10月
 
@@ -120,12 +117,12 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 
 ## 12月
 
-| 集數  | J2首播日期 | 主題                  | 嘉賓                                                                                                                                                                   |
-| --- | ------ | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 248 | 12月5日  | 林奕匡、葉巧琳　借西方偉人做新歌    | [林奕匡](../Page/林奕匡.md "wikilink")、[葉巧琳](https://zh.wikipedia.org/wiki/葉巧琳 "wikilink") |- style="background-color: \#FFFFFF" |                                         |
-| 249 | 12月12日 | JW、SIS樂印姊妹、胡渭康　抒情獻唱 | [JW](../Page/王灝兒.md "wikilink")、[SIS樂印姊妹](https://zh.wikipedia.org/wiki/SIS樂印姊妹 "wikilink")、[胡渭康](../Page/胡渭康.md "wikilink") |- style="background-color: \#FFFFFF" | |
-| 250 | 12月19日 | 陳凱彤、陳家樂　暢談小確幸及戀愛經歷  | [陳凱彤](../Page/陳凱彤.md "wikilink")、[陳家樂](../Page/陳家樂_\(藝人\).md "wikilink") |- style="background-color: \#FFFFFF" |                                                     |
-| 251 | 12月26日 | 黎曉陽　自豪做廢青　彭永琛　示範比賽歌 | [黎曉陽](https://zh.wikipedia.org/wiki/黎曉陽 "wikilink")、[彭永琛](../Page/彭永琛.md "wikilink") |- style="background-color: \#FFFFFF" |                                         |
+| 集數  | J2首播日期 | 主題                  | 嘉賓                                                                                                                                                |
+| --- | ------ | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 248 | 12月5日  | 林奕匡、葉巧琳　借西方偉人做新歌    | [林奕匡](../Page/林奕匡.md "wikilink")、[葉巧琳](https://zh.wikipedia.org/wiki/葉巧琳 "wikilink") |- style="background-color: \#FFFFFF" |                      |
+| 249 | 12月12日 | JW、SIS樂印姊妹、胡渭康　抒情獻唱 | [JW](../Page/王灝兒.md "wikilink")、[SIS樂印姊妹](../Page/SIS樂印姊妹.md "wikilink")、[胡渭康](../Page/胡渭康.md "wikilink") |- style="background-color: \#FFFFFF" | |
+| 250 | 12月19日 | 陳凱彤、陳家樂　暢談小確幸及戀愛經歷  | [陳凱彤](../Page/陳凱彤.md "wikilink")、[陳家樂](../Page/陳家樂_\(藝人\).md "wikilink") |- style="background-color: \#FFFFFF" |                                  |
+| 251 | 12月26日 | 黎曉陽　自豪做廢青　彭永琛　示範比賽歌 | [黎曉陽](https://zh.wikipedia.org/wiki/黎曉陽 "wikilink")、[彭永琛](../Page/彭永琛.md "wikilink") |- style="background-color: \#FFFFFF" |                      |
 
 [Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink")
 [Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink")

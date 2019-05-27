@@ -297,7 +297,7 @@ PlotData =
 <td><p>《<strong>난리가 난리가 났네</strong>》</p>
 <ul>
 <li>發行日期：2018年4月27日</li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie 音乐</a></li>
+<li>發行公司：<a href="../Page/Genie音樂.md" title="wikilink">Genie 音乐</a></li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
@@ -316,10 +316,10 @@ PlotData =
 
 ### 電視劇
 
-|       |                                                     |                                                                             |      |      |     |
-| ----- | --------------------------------------------------- | --------------------------------------------------------------------------- | ---- | ---- | --- |
-| 年份    | 電視台                                                 | 節目名稱                                                                        | 參與成員 | 角色名稱 | 備註  |
-| 2017年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[Circle：相連的兩個世界](https://zh.wikipedia.org/wiki/Circle：相連的兩個世界 "wikilink")》 | 邰賀   | 秀彬   | 女配角 |
+|       |                                                     |                                                          |      |      |     |
+| ----- | --------------------------------------------------- | -------------------------------------------------------- | ---- | ---- | --- |
+| 年份    | 電視台                                                 | 節目名稱                                                     | 參與成員 | 角色名稱 | 備註  |
+| 2017年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[Circle：相連的兩個世界](../Page/Circle：相連的兩個世界.md "wikilink")》 | 邰賀   | 秀彬   | 女配角 |
 
 ### 音樂錄影帶
 
@@ -361,12 +361,12 @@ PlotData =
 
 ### 非固定綜藝節目
 
-|      |       |                                                                     |                                                                 |             |      |
-| ---- | ----- | ------------------------------------------------------------------- | --------------------------------------------------------------- | ----------- | ---- |
-| 年份   | 曰期    | 電視台                                                                 | 節目名稱                                                            | 參與成員        | 備註   |
-| 2015 | 4月15日 | [MBC Every1](https://zh.wikipedia.org/wiki/MBC_Every1 "wikilink")   | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                | 全員（除祚弦）     |      |
-| 2016 | 5月14日 | [TvN](https://zh.wikipedia.org/wiki/TvN "wikilink")                 | [SNL Korea](https://zh.wikipedia.org/wiki/SNL_Korea "wikilink") | 邰賀、多藝、世馨、高雲 | 特別嘉賓 |
-| 2018 | 8月29日 | [MBC Every 1](https://zh.wikipedia.org/wiki/MBC_Every_1 "wikilink") | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                | 全員          |      |
+|      |       |                                                                     |                                                  |             |      |
+| ---- | ----- | ------------------------------------------------------------------- | ------------------------------------------------ | ----------- | ---- |
+| 年份   | 曰期    | 電視台                                                                 | 節目名稱                                             | 參與成員        | 備註   |
+| 2015 | 4月15日 | [MBC Every1](https://zh.wikipedia.org/wiki/MBC_Every1 "wikilink")   | [Weekly Idol](../Page/Weekly_Idol.md "wikilink") | 全員（除祚弦）     |      |
+| 2016 | 5月14日 | [TvN](https://zh.wikipedia.org/wiki/TvN "wikilink")                 | [SNL Korea](../Page/SNL_Korea.md "wikilink")     | 邰賀、多藝、世馨、高雲 | 特別嘉賓 |
+| 2018 | 8月29日 | [MBC Every 1](https://zh.wikipedia.org/wiki/MBC_Every_1 "wikilink") | [Weekly Idol](../Page/Weekly_Idol.md "wikilink") | 全員          |      |
 
 ### 真人秀
 

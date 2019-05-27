@@ -292,27 +292,24 @@ MOVIE**》（），是2015年1月17日東映預定上映的特攝電影，同時
 ## 演員
 
   - 來斗（鈴樹來斗） / 特急1號（聲） - [志尊淳](../Page/志尊淳.md "wikilink") /
-    馬渕誉（孩童時期）（台灣配音：[鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")）
+    馬渕誉（孩童時期）（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
   - 十勝（渡嘉敷晴） / 特急2號（聲） - [平牧仁](../Page/平牧仁.md "wikilink") /
     永瀬圭志朗（孩童時期）（台灣配音：）
-  - 美緒（夏目美緒） / 特急3號（聲） -
-    [小島梨里杏](https://zh.wikipedia.org/wiki/小島梨里杏 "wikilink")
-    / 石井薫子（孩童時期）（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
-  - 洸（野野村洸） / 特急4號（聲） -
-    [橫濱流星](https://zh.wikipedia.org/wiki/橫濱流星 "wikilink")
-    / 山崎光（孩童時期）（台灣配音：）
-  - 神樂（泉神樂） / 特急5號（聲） -
-    [森高愛](https://zh.wikipedia.org/wiki/森高愛 "wikilink") /
+  - 美緒（夏目美緒） / 特急3號（聲） - [小島梨里杏](../Page/小島梨里杏.md "wikilink") /
+    石井薫子（孩童時期）（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
+  - 洸（野野村洸） / 特急4號（聲） - [橫濱流星](../Page/橫濱流星.md "wikilink") /
+    山崎光（孩童時期）（台灣配音：）
+  - 神樂（泉神樂） / 特急5號（聲） - [森高愛](../Page/森高愛.md "wikilink") /
     清水羅羅（孩童時期）（台灣配音：[連思宇](../Page/連思宇.md "wikilink")）
   - 虹野明 / 特急6號（聲） -
     [長濱慎](../Page/長濱慎.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
   - 闇黑皇帝Ｚ / 怪人型態（聲） -
     [大口兼悟](https://zh.wikipedia.org/wiki/大口兼悟 "wikilink")（台灣配音：）
-  - 車掌 - [關根勤](https://zh.wikipedia.org/wiki/關根勤 "wikilink")（台灣配音：）
+  - 車掌 - [關根勤](../Page/關根勤.md "wikilink")（台灣配音：）
   - 桐生大吾 / 強龍紅（聲） -
     [龍星涼](../Page/龍星涼.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
   - 伊恩・尤克蘭 / 強龍黑（聲） -
-    [齊藤秀翼](../Page/齊藤秀翼.md "wikilink")（台灣配音：[鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")）
+    [齊藤秀翼](../Page/齊藤秀翼.md "wikilink")（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
   - 有働伸治 / 強龍藍（聲） - [金城大和](../Page/金城大和.md "wikilink")（台灣配音：）
   - 立風館總司 / 強龍綠（聲） -
     [塩野瑛久](https://zh.wikipedia.org/wiki/鹽野瑛久 "wikilink")（台灣配音：）
@@ -329,7 +326,7 @@ MOVIE**》（），是2015年1月17日東映預定上映的特攝電影，同時
     [飯豐萬理江](../Page/飯豐萬理江.md "wikilink")（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
   - 強龍銀 - [山下真司](../Page/山下真司.md "wikilink")（台灣配音：）
   - 賢神多林 -
-    [森川智之](../Page/森川智之.md "wikilink")（台灣配音：[鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")）
+    [森川智之](../Page/森川智之.md "wikilink")（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
   - 強龍者各種電子音 - [千葉繁](../Page/千葉繁.md "wikilink")
   - 喜之戰騎嘉黎拉 -
     [戶松遙](../Page/戶松遙.md "wikilink")（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）

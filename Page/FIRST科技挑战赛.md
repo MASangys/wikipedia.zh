@@ -7,7 +7,7 @@ FIRST科技挑战赛的最终目标是让更多的青少年能够低成本参与
 
 ## 历史
 
-FIRST科技挑战赛是由[FIRST机器人竞赛和IFI机械平台发展而来的](https://zh.wikipedia.org/wiki/FIRST机器人竞赛 "wikilink")，FIRST，和Innovation
+FIRST科技挑战赛是由[FIRST机器人竞赛和IFI机械平台发展而来的](../Page/FIRST机器人竞赛.md "wikilink")，FIRST，和Innovation
 First合作开发一个升级版的了IFI机械套件。这个叫做的套件得到了显著的提升。在2008-2009赛季中Pitsco开发了，使用[乐高Mindstorms
 NXT的平台和新的结构框架以及硬件](https://zh.wikipedia.org/wiki/乐高Mindstorms_NXT "wikilink")。TETRIX使用的铝合金构件允许添加[乐高部件和](https://zh.wikipedia.org/wiki/乐高 "wikilink")[传感器](../Page/传感器.md "wikilink")，包括4个直流电机和更大的轮子。除了硬件上的改变，这套系统现在能使用[RobotC和](../Page/樂高Mindstorms_NXT.md "wikilink")[LabVIEW来编写程序](../Page/LabVIEW.md "wikilink")。
 
@@ -26,7 +26,7 @@ Challenge作为一个有潜力的项目进行试点。\[2\]这次试点有超过
 
 ### 赛事历程
 
-在每年的9月，FIRST会在赛季初向FTC队伍宣布下个赛季的挑战，不同于[FIRST机器人竞赛的是](https://zh.wikipedia.org/wiki/FIRST机器人竞赛 "wikilink"),
+在每年的9月，FIRST会在赛季初向FTC队伍宣布下个赛季的挑战，不同于[FIRST机器人竞赛的是](../Page/FIRST机器人竞赛.md "wikilink"),
 FTC没有完成机器人的期限，团队可以在整个赛季中不断完善机器人\[5\] 。
 
 资格赛和区域冠军赛会在10月到3月举行，全球冠军赛将在4月举行\[6\]。
@@ -135,12 +135,12 @@ Over It".jpg|TETRIX套件制作的机器人(Team 37)
 
 ## 相关条目
 
-  - [FIRST](https://zh.wikipedia.org/wiki/FIRST "wikilink") - FIRST组织
+  - [FIRST](../Page/FIRST.md "wikilink") - FIRST组织
 
   -
-  - [FIRST机器人竞赛](https://zh.wikipedia.org/wiki/FIRST机器人竞赛 "wikilink")
+  - [FIRST机器人竞赛](../Page/FIRST机器人竞赛.md "wikilink")
 
-  - [FIRST乐高联赛](https://zh.wikipedia.org/wiki/FIRST乐高联赛 "wikilink")
+  - [FIRST乐高联赛](../Page/FIRST乐高联赛.md "wikilink")
 
   -
   - [RobotC](../Page/樂高Mindstorms_NXT.md "wikilink")

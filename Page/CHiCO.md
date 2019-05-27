@@ -18,7 +18,7 @@ HoneyWorks」名義推出的第一張單曲，為電視動畫《[閃爍的青春
 
   - 閃爍的青春盤（期間生產限定盤）：CD／1,340日圓
       - [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink")：SMCL-345
-      - 封面為吉岡雙葉和馬淵洸，由[咲坂伊緒繪製](https://zh.wikipedia.org/wiki/咲坂伊緒 "wikilink")
+      - 封面為吉岡雙葉和馬淵洸，由[咲坂伊緒繪製](../Page/咲坂伊緒.md "wikilink")
   - CHiCO with HoneyWorks盤：CD／1,340日圓
       - [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink")：SMCL-344
       - 封面為CHiCO，[Rokoru負責角色設計](../Page/HoneyWorks.md "wikilink")，並由[Yamako繪製](../Page/HoneyWorks.md "wikilink")

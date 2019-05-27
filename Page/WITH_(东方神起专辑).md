@@ -3,14 +3,13 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
-  - 距離上一張錄音室專輯《[TREE](https://zh.wikipedia.org/wiki/TREE_\(东方神起专辑\) "wikilink")》相隔约九个月之後發行，是東方神起二人體制下活動再開後的第四張專輯。
+  - 距離上一張錄音室專輯《[TREE](../Page/TREE_\(东方神起专辑\).md "wikilink")》相隔约九个月之後發行，是東方神起二人體制下活動再開後的第四張專輯。
   - 收錄第41張單曲《[SWEAT /
     ANSWER](https://zh.wikipedia.org/wiki/Sweat_/_Answer "wikilink")》和第42張單曲《[Time
-    Works
-    Wonders](https://zh.wikipedia.org/wiki/Time_Works_Wonders "wikilink")》的4首曲。
+    Works Wonders](../Page/Time_Works_Wonders.md "wikilink")》的4首曲。
   - 歌曲《Sweat》为[日本电视台新闻节目](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")《SUKKIRI\!\!（日语：スッキリ\!\!）》6月份结束曲。
   - 歌曲《Answer》为在[NHK播放的由](https://zh.wikipedia.org/wiki/日本放送协会 "wikilink")[桥本爱初次主演的电视连续剧](https://zh.wikipedia.org/wiki/桥本爱 "wikilink")《数学女孩的恋爱事件簿（日语：ハードナッツ\!）》的主题曲。
-  - 歌曲《SURISURI》是東方神起第七張正規再版專輯《[Spellbound](https://zh.wikipedia.org/wiki/TENSE "wikilink")》主打歌曲《Spellbound》的日語版本。
+  - 歌曲《SURISURI》是東方神起第七張正規再版專輯《[Spellbound](../Page/TENSE.md "wikilink")》主打歌曲《Spellbound》的日語版本。
 
 ## 收錄內容
 

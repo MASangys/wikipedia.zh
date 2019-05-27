@@ -76,8 +76,7 @@
 
 ## 另見
 
-  - 《[情書
-    (1997年電影)](https://zh.wikipedia.org/wiki/情書_\(1997年電影\) "wikilink")》
+  - 《[情書 (1997年電影)](../Page/情書_\(1997年電影\).md "wikilink")》
     （[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")）
   - 《》 （[泰國翻拍](https://zh.wikipedia.org/wiki/泰國 "wikilink")）
   - [2007年电影](../Page/2007年电影.md "wikilink")

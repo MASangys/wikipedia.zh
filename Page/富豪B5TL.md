@@ -16,7 +16,7 @@ Ecolife Type 6AP1003B全自動波箱。
 
   - [富豪B9TL](https://zh.wikipedia.org/wiki/富豪B9TL "wikilink")
   - [亞歷山大丹尼士Enviro 400](../Page/亞歷山大丹尼士Enviro_400.md "wikilink")
-  - [VDL DB300](https://zh.wikipedia.org/wiki/VDL_DB300 "wikilink")
+  - [VDL DB300](../Page/VDL_DB300.md "wikilink")
 
 ## 參考資料
 

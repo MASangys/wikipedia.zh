@@ -107,7 +107,7 @@
   - 最佳作品獎：《[家政婦女王](https://zh.wikipedia.org/wiki/家政婦女王 "wikilink")》
   - 最佳男主角獎：[大澤隆夫](../Page/大澤隆夫.md "wikilink")（[仁醫](https://zh.wikipedia.org/wiki/仁醫 "wikilink")2）
   - 最佳女主角獎：[松嶋菜菜子](../Page/松嶋菜菜子.md "wikilink")（[家政婦女王](https://zh.wikipedia.org/wiki/家政婦女王 "wikilink")）\[3\]
-  - 最佳男配角獎：[長谷川博己](https://zh.wikipedia.org/wiki/長谷川博己 "wikilink")（[家政婦女王](https://zh.wikipedia.org/wiki/家政婦女王 "wikilink")）
+  - 最佳男配角獎：[長谷川博己](../Page/長谷川博己.md "wikilink")（[家政婦女王](https://zh.wikipedia.org/wiki/家政婦女王 "wikilink")）
   - 最佳女配角獎：[杏](../Page/杏_\(演員\).md "wikilink")（[妖怪人間貝姆](../Page/妖怪人間貝姆.md "wikilink")）
   - 新進男演員獎：[鈴木福](../Page/鈴木福.md "wikilink")（[妖怪人間貝姆](../Page/妖怪人間貝姆.md "wikilink")）
   - 新進女演員獎：[瀧本美織](../Page/瀧本美織.md "wikilink")（[幸福鐵板燒](../Page/幸福鐵板燒.md "wikilink")）
@@ -139,7 +139,7 @@
     PILOT](../Page/Miss_PILOT.md "wikilink")）
   - 最佳女配角獎：[上戶彩](../Page/上戶彩.md "wikilink")（[半澤直樹](../Page/半澤直樹.md "wikilink")）
   - 新進男演員獎：（[Miss PILOT](../Page/Miss_PILOT.md "wikilink")）
-  - 新進女演員獎：[黑木華](https://zh.wikipedia.org/wiki/黑木華 "wikilink")（[王牌大律師](https://zh.wikipedia.org/wiki/王牌大律師 "wikilink")2）
+  - 新進女演員獎：[黑木華](../Page/黑木華.md "wikilink")（[王牌大律師](https://zh.wikipedia.org/wiki/王牌大律師 "wikilink")2）
 
 <!-- end list -->
 
@@ -150,7 +150,7 @@
   - 最佳作品獎：《[死神君](../Page/死神君.md "wikilink")》
   - 最佳男主角獎：[大野智](../Page/大野智.md "wikilink")（[死神君](../Page/死神君.md "wikilink")）
   - 最佳女主角獎：[杏](../Page/杏_\(演員\).md "wikilink")（[花咲舞無法沉默](../Page/花咲舞無法沉默.md "wikilink")）
-  - 最佳男配角獎：[松重豐](https://zh.wikipedia.org/wiki/松重豐 "wikilink")（[死神君](../Page/死神君.md "wikilink")）
+  - 最佳男配角獎：[松重豐](../Page/松重豐.md "wikilink")（[死神君](../Page/死神君.md "wikilink")）
   - 最佳女配角獎：[石原聰美](../Page/石原聰美.md "wikilink")（[失戀巧克力](https://zh.wikipedia.org/wiki/失戀巧克力 "wikilink")）
   - 新進男演員獎：[工藤阿須加](../Page/工藤阿須加.md "wikilink")（[羅斯福遊戲](../Page/羅斯福遊戲.md "wikilink")）
   - 新進女演員獎：[鈴木梨央](../Page/鈴木梨央.md "wikilink")（[明天媽媽不在](../Page/明天媽媽不在.md "wikilink")）
@@ -166,7 +166,7 @@
   - 最佳女主角獎：[杏](../Page/杏_\(演員\).md "wikilink")（花咲舞無法沉默2）
   - 最佳男配角獎：[神木隆之介](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink")（[學校的階梯](../Page/學校的階梯_\(電視劇\).md "wikilink")）
   - 最佳女配角獎：[木村文乃](../Page/木村文乃.md "wikilink")（錢的戰爭）
-  - 新進男演員獎：[岸優太](https://zh.wikipedia.org/wiki/岸優太 "wikilink")（[哥哥扭蛋](https://zh.wikipedia.org/wiki/哥哥扭蛋 "wikilink")）
+  - 新進男演員獎：[岸優太](../Page/岸優太.md "wikilink")（[哥哥扭蛋](../Page/哥哥扭蛋.md "wikilink")）
   - 新進女演員獎：[廣瀨鈴](../Page/廣瀨鈴.md "wikilink")（學校的階梯）
 
 <!-- end list -->

@@ -7,8 +7,7 @@ aq & q^-N  \end{matrix}
 
 ## 极限关系
 
-**Q哈恩多项式**→
-[量子Q克拉夫楚克多项式](https://zh.wikipedia.org/wiki/量子Q克拉夫楚克多项式 "wikilink")：
+**Q哈恩多项式**→ [量子Q克拉夫楚克多项式](../Page/量子Q克拉夫楚克多项式.md "wikilink")：
 
 \(\lim_{a \to \infty}Q_{n}(q^-{x};a;p,N|q)=K_{n}^{qtm}(q^-{x};p,N;q)\)
 

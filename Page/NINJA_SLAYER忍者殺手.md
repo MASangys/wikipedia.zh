@@ -111,7 +111,7 @@ Morzez兩人共同創作的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikili
     原本是「好好先生製藥」的研究員，被「阮氏・忍者」附身而變成忍者。變成忍者後他決定離職，同時也解放了公司中幾位生化忍者，建立起生化忍者集團「倖存者道場」。
     受到忍者靈魂自帶的[越南戰爭記憶所影響](https://zh.wikipedia.org/wiki/越南戰爭 "wikilink")，不時陷入記憶錯亂的狀態，以為自己身在越戰戰場，做出一些詭異的言行，比如說將敵人當成「[越共](../Page/越南南方民族解放陣線.md "wikilink")」、高喊「[傑羅尼莫](../Page/傑羅尼莫.md "wikilink")」或「[西貢](https://zh.wikipedia.org/wiki/西貢 "wikilink")」之類的怪異口號。
     雖然看似舉止瘋狂，但緊急狀況下能夠冷靜思考與決策，領導「倖存者道場」突破危機。身為游擊戰專家，擅長跟蹤、潛伏、設陷阱與偷襲，但他並不是只會偷襲，其空手道實力也不弱，能與忍者殺手正面對決。
-    身穿迷彩色的忍者服裝，頭戴越南風格的[斗笠](https://zh.wikipedia.org/wiki/斗笠 "wikilink")（足以抵擋手裏劍、或直接當作投擲武器）。擅長使用竹槍，也會使用[開山刀](https://zh.wikipedia.org/wiki/開山刀 "wikilink")、弓箭等武器。
+    身穿迷彩色的忍者服裝，頭戴越南風格的[斗笠](https://zh.wikipedia.org/wiki/斗笠 "wikilink")（足以抵擋手裏劍、或直接當作投擲武器）。擅長使用竹槍，也會使用[開山刀](../Page/開山刀.md "wikilink")、弓箭等武器。
     原則上「不必要的不殺」，只為了生存而殺人、為了倖存者道場這些「家人」而殺人。
     由於在某次相遇時，倖存者道場的成員被忍者殺手所殺，導致與忍者殺手的關係變得水火不容，但在利害關係一致的情況下還是會暫時合作。
     對於「南希・李」非常執著，想要讓她當老婆。
@@ -155,7 +155,7 @@ Bond一同用餐的過程。\[2\]2014年，在忍者殺手首次宣布動畫化�
 
 ### 日文翻譯
 
-2005年12月，一群志願翻譯者在日本社群網站[Mixi發布了原篇名為](https://zh.wikipedia.org/wiki/Mixi "wikilink")「Ninja
+2005年12月，一群志願翻譯者在日本社群網站[Mixi發布了原篇名為](../Page/Mixi.md "wikilink")「Ninja
 Slayer
 Classics」的日文翻譯文章。2010年，以本兌有、杉ライカ兩人為核心的翻譯團隊「ダイハードテイルズ」（Diehardtales）正式從原作方取得了忍者殺手的翻譯授權。同年7月，該團隊在[推特上開始公開連載原作的日文翻譯](https://zh.wikipedia.org/wiki/推特 "wikilink")，時至今日仍在連載中，而且完全免費（實際良心！）。由於推特上每次推文最多只能包含140字元，因此一條推文只會寫上一兩句翻譯，形成大量分散的條列式文句。
 
@@ -635,8 +635,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[BS11等電視頻道進
 
 :;「劇場支配人のテーマ」（第3話）
 
-::歌 - [THE
-PINBALLS](https://zh.wikipedia.org/wiki/THE_PINBALLS "wikilink")
+::歌 - [THE PINBALLS](../Page/THE_PINBALLS.md "wikilink")
 
 :;「SRKEEN」（第4話）
 
@@ -705,7 +704,7 @@ CIRCLE](https://zh.wikipedia.org/wiki/SCAM_CIRCLE "wikilink")
 
 :;「泥の雨」（第20話）
 
-::歌 - [人間椅子](https://zh.wikipedia.org/wiki/人間椅子 "wikilink")
+::歌 - [人間椅子](../Page/人間椅子.md "wikilink")
 
 :;「Hight Speed」（第21話）
 
@@ -834,7 +833,7 @@ REMIX\!\!\!\!」（第11話）
 <td><p>Last Girl Standing</p></td>
 <td><p>清水久敏</p></td>
 <td><p>宮島善博</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/平田雄三" title="wikilink">平田雄三</a></p></td>
+<td><p><a href="../Page/平田雄三.md" title="wikilink">平田雄三</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -910,7 +909,7 @@ REMIX\!\!\!\!」（第11話）
 <td><p>Menace of Darkninja</p></td>
 <td></td>
 <td><p>宮島善博</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/平田雄三" title="wikilink">平田雄三</a></p></td>
+<td><p><a href="../Page/平田雄三.md" title="wikilink">平田雄三</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

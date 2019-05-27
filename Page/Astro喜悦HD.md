@@ -25,7 +25,7 @@ HD](../Page/Astro_AEC.md "wikilink")、[Astro双星HD](https://zh.wikipedia.org/
 </tr>
 <tr class="even">
 <td><p>13:00 - 14:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/1006的房客" title="wikilink">1006的房客</a></p></td>
+<td><p><a href="../Page/1006的房客.md" title="wikilink">1006的房客</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -62,7 +62,7 @@ HD](../Page/Astro_AEC.md "wikilink")、[Astro双星HD](https://zh.wikipedia.org/
 <tr class="odd">
 <td><p>星期一至五</p></td>
 <td><p>18:00 - 19:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/雖然30但仍17" title="wikilink">雖然30但仍17</a></p></td>
+<td><p><a href="../Page/雖然30但仍17.md" title="wikilink">雖然30但仍17</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -130,17 +130,17 @@ HD](../Page/Astro_AEC.md "wikilink")、[Astro双星HD](https://zh.wikipedia.org/
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/前男友不是人" title="wikilink">前男友不是人</a></p></td>
+<td><p><a href="../Page/前男友不是人.md" title="wikilink">前男友不是人</a></p></td>
 <td><p><a href="../Page/八大電視.md" title="wikilink">八大電視</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/翻牆的記憶" title="wikilink">翻牆的記憶</a></p></td>
+<td><p><a href="../Page/翻牆的記憶.md" title="wikilink">翻牆的記憶</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聯利媒體股份有限公司" title="wikilink">TVBS 聯利媒體股份有限公司</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/三明治女孩的逆襲" title="wikilink">三明治女孩的逆襲</a></p></td>
+<td><p><a href="../Page/三明治女孩的逆襲.md" title="wikilink">三明治女孩的逆襲</a></p></td>
 <td><p><a href="../Page/三立電視.md" title="wikilink">三立電視</a></p></td>
 <td></td>
 </tr>

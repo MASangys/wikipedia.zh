@@ -25,7 +25,7 @@ Evans）。
 ## 重要发现
 
 Project Zero
-于2017年中期发现了会影响大多数现代[CPU的重要漏洞](https://zh.wikipedia.org/wiki/CPU "wikilink")[Meltdown和](https://zh.wikipedia.org/wiki/熔毁_\(安全漏洞\) "wikilink")[Spectre](https://zh.wikipedia.org/wiki/幽灵_\(安全漏洞\) "wikilink")，并于2018年1月初公开。
+于2017年中期发现了会影响大多数现代[CPU的重要漏洞](https://zh.wikipedia.org/wiki/CPU "wikilink")[Meltdown和](../Page/熔毁_\(安全漏洞\).md "wikilink")[Spectre](https://zh.wikipedia.org/wiki/幽灵_\(安全漏洞\) "wikilink")，并于2018年1月初公开。
 
 ## 参考文献
 

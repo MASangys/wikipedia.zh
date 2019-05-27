@@ -18,8 +18,8 @@ SSL）。在該技術的支持下，Cloudflare可以於不持有客戶[私鑰的
 
 ## 公共DNS
 
-[1.1.1.1是](https://zh.wikipedia.org/wiki/1.1.1.1 "wikilink") Cloudflare
-和 APNIC 的合作項目。借助Cloudflare
+[1.1.1.1是](../Page/1.1.1.1.md "wikilink") Cloudflare 和 APNIC
+的合作項目。借助Cloudflare
 运行全球规模最大、速度最快的网络，建构一个隐私优先，不记录用户IP地址的公共DNS，并且每年进行审计以保证其目标。\[6\]但由于其所使用的地址块原来属于未分配的地址块，部分网络会使用该地址作为内部认证系统或测试系统地址，所以可能会导致用户无法正常访问该地址或导致被恶意流量攻击。
 
 ## 歷史

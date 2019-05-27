@@ -4,7 +4,7 @@
 
 ### 創業
 
-1993年10月1日，由位於長野縣的軟體開發公司——株式會社經研系統\[1\]（）將娛樂軟體開發部門獨立出子公司而成立。當時雜誌介紹其為長野縣第一間遊戲公司，並於該雑誌上發表了處女作，[PC-9801版的](https://zh.wikipedia.org/wiki/PC-9801 "wikilink")。成立當初以[個人電腦為對象進行開發](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，但翌年1994年立即宣布加入[家用遊戲機](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")[PlayStation的行列](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，1995年發售PlayStation的處女作《[ファルカタ
+1993年10月1日，由位於長野縣的軟體開發公司——株式會社經研系統\[1\]（）將娛樂軟體開發部門獨立出子公司而成立。當時雜誌介紹其為長野縣第一間遊戲公司，並於該雑誌上發表了處女作，[PC-9801版的](https://zh.wikipedia.org/wiki/PC-9801 "wikilink")。成立當初以[個人電腦為對象進行開發](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，但翌年1994年立即宣布加入[家用遊戲機](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")[PlayStation的行列](../Page/PlayStation.md "wikilink")，1995年發售PlayStation的處女作《[ファルカタ
 〜アストラン・パードマの紋章〜](https://zh.wikipedia.org/wiki/ファルカタ_〜アストラン・パードマの紋章〜 "wikilink")》。其後轉換跑道為開發家用遊戲軟體。1997年發售的《[鍊金術士瑪莉](https://zh.wikipedia.org/wiki/鍊金術士瑪莉 "wikilink")》大獲好評而成為系列作，至今[鍊金術士系列為Gust的招牌作品](../Page/鍊金術士系列.md "wikilink")。
 
 2011年7月27日，於同年6月23日發售的鍊金術士系列作品《[梅露露的工作室～亞蘭德的鍊金術士3～](https://zh.wikipedia.org/wiki/梅露露的工作室～亞蘭德的鍊金術士3～ "wikilink")》，因為發現有部分表現不符合CERO分級制度，該作品因此暫停出貨並重新審查，依[CERO的規定遭受懲處](../Page/電腦娛樂分級機構.md "wikilink")。
@@ -52,7 +52,7 @@
 <!-- end list -->
 
   - 不可思議系列
-      - [蘇菲的鍊金工房～不可思議書的鍊金術士～](https://zh.wikipedia.org/wiki/蘇菲的鍊金工房～不可思議書的鍊金術士～ "wikilink")
+      - [蘇菲的鍊金工房～不可思議書的鍊金術士～](../Page/蘇菲的鍊金工房～不可思議書的鍊金術士～.md "wikilink")
       - [菲莉絲的鍊金工房～不可思議旅的鍊金術士～](https://zh.wikipedia.org/wiki/菲莉絲的鍊金工房～不可思議旅的鍊金術士～ "wikilink")
       - [莉迪&蘇瑞的鍊金工房～不可思議繪畫的鍊金術士～](https://zh.wikipedia.org/wiki/莉迪&蘇瑞的鍊金工房～不可思議繪畫的鍊金術士～ "wikilink")
 
@@ -82,7 +82,7 @@
       - 世界樹之塔
       - 飛空英雄 國際版
       - [BLUE REFLECTION
-        幻舞少女之劍](https://zh.wikipedia.org/wiki/BLUE_REFLECTION_幻舞少女之劍 "wikilink")
+        幻舞少女之劍](../Page/BLUE_REFLECTION_幻舞少女之劍.md "wikilink")
 
 ## 參考資料
 

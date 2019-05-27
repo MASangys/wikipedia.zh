@@ -47,7 +47,7 @@
 <td><p>與<a href="https://zh.wikipedia.org/wiki/Telecom_Animation_Film" title="wikilink">Telecom Animation Film共同製作</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/十二大戰" title="wikilink">十二大戰</a></p></td>
+<td><p><a href="../Page/十二大戰.md" title="wikilink">十二大戰</a></p></td>
 <td></td>
 <td><p>2017年10月3日</p></td>
 <td><p><a href="../Page/細田直人.md" title="wikilink">細田直人</a></p></td>
@@ -62,7 +62,7 @@
 
 [樂園追放 -Expelled from
 Paradise-](../Page/樂園追放_-Expelled_from_Paradise-.md "wikilink")
-[HELLO WORLD](https://zh.wikipedia.org/wiki/HELLO_WORLD "wikilink")
+[HELLO WORLD](../Page/HELLO_WORLD.md "wikilink")
 
 ## 參考文獻與註釋
 

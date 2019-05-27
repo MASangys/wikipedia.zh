@@ -21,7 +21,7 @@ IMC-40榴弹发射器作为一款下挂式榴弹发射器，在将其下挂于�
   - [SIG GL 5040附加型榴彈發射器](../Page/SIG_GL_5040附加型榴彈發射器.md "wikilink")
   - [斯泰爾GL
     40附加型榴彈發射器](https://zh.wikipedia.org/wiki/斯泰爾GL_40附加型榴彈發射器 "wikilink")
-  - [VHS-BG附加型榴彈發射器](https://zh.wikipedia.org/wiki/VHS-BG附加型榴彈發射器 "wikilink")
+  - [VHS-BG附加型榴彈發射器](../Page/VHS-BG附加型榴彈發射器.md "wikilink")
   - [GP-25附加型榴彈發射器](../Page/GP-25附加型榴彈發射器.md "wikilink")
   - [10式枪挂榴弹发射器](../Page/10式枪挂榴弹发射器.md "wikilink")
 

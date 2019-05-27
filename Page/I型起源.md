@@ -13,7 +13,7 @@
   - [阿斯特丽德·伯格斯-弗瑞斯贝](https://zh.wikipedia.org/wiki/阿斯特丽德·伯格斯-弗瑞斯贝 "wikilink")
     飾演 Sofi Elizondo
 
-  - [史蒂文·連](https://zh.wikipedia.org/wiki/史蒂文·連 "wikilink") 飾演 Kenny
+  - [史蒂文·連](../Page/史蒂文·連.md "wikilink") 飾演 Kenny
 
   - [雅琪·潘嘉比](../Page/雅琪·潘嘉比.md "wikilink") 飾演 Priya Varma
 

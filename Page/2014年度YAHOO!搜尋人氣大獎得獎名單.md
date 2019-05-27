@@ -40,14 +40,14 @@
       - 《[容祖兒1314演唱會](https://zh.wikipedia.org/wiki/容祖兒1314演唱會 "wikilink")》
         － [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
   - 人氣大碟
-      - 《[Kontinue](https://zh.wikipedia.org/wiki/Kontinue "wikilink")》
-        － [謝安琪](../Page/謝安琪.md "wikilink")
+      - 《[Kontinue](../Page/Kontinue.md "wikilink")》 －
+        [謝安琪](../Page/謝安琪.md "wikilink")
   - 年度熱搜歌曲
       - 《流淚行勝利道》 － [許志安](../Page/許志安.md "wikilink")
   - 樂壇新勢力
       - [鄭俊弘](../Page/鄭俊弘.md "wikilink")
       - [小塵埃](../Page/小塵埃.md "wikilink")
-      - [SIS樂印姊妹](https://zh.wikipedia.org/wiki/SIS樂印姊妹 "wikilink")
+      - [SIS樂印姊妹](../Page/SIS樂印姊妹.md "wikilink")
   - 本地唱作歌手
       - [藍奕邦](../Page/藍奕邦.md "wikilink")
   - 本地音樂組合

@@ -168,7 +168,7 @@ EMA）同等的亞洲音樂獎項。創立於2002年，該活動給予在成就�
 </tr>
 <tr class="even">
 <td><p>終生成就獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/瑪麗亞·凱莉" title="wikilink">瑪麗亞·凱莉</a></p></td>
+<td><p><a href="../Page/瑪麗亞·凱莉.md" title="wikilink">瑪麗亞·凱莉</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

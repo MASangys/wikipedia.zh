@@ -1,7 +1,7 @@
 **BASTARZ**（）是[Block
 B在](../Page/Block_B.md "wikilink")2015年推出的子團體，由[Block
 B中的三位成員](../Page/Block_B.md "wikilink")[B-Bomb](https://zh.wikipedia.org/wiki/B-Bomb "wikilink")、[U-Kwon和](../Page/U-Kwon.md "wikilink")[P.O組成](../Page/P.O.md "wikilink")，也在採訪中指出認為年紀最大的[B-Bomb為隊長](https://zh.wikipedia.org/wiki/B-Bomb "wikilink")
-。而他們也在訪問中提希望[BASTARZ可以帶給粉絲不一樣的音樂風格](https://zh.wikipedia.org/wiki/BASTARZ "wikilink")，更加強烈、成熟、有個性。
+。而他們也在訪問中提希望[BASTARZ可以帶給粉絲不一樣的音樂風格](../Page/BASTARZ.md "wikilink")，更加強烈、成熟、有個性。
 
 ## 成員
 
@@ -96,9 +96,9 @@ B中的三位成員](../Page/Block_B.md "wikilink")[B-Bomb](https://zh.wikipedia
 | ---------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | **播放日期**   | **電視台／播放平台**                                                      | **節目名稱**                                                                                 |
 | 2015年4月14日 | Moncast                                                           | 《No Answer Live》                                                                         |
-| 2015年4月28日 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[After School Club](https://zh.wikipedia.org/wiki/After_School_Club "wikilink")》EP157   |
+| 2015年4月28日 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[After School Club](../Page/After_School_Club.md "wikilink")》EP157                      |
 | 2018年5月20日 | [JTBC](../Page/JTBC.md "wikilink")                                | 《[Two Yoo Project - Sugar Man 2](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》EP18 |
-| 2019年4月6日  | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")               | 《[驚人的星期六](https://zh.wikipedia.org/wiki/驚人的星期六 "wikilink")》EP53                          |
+| 2019年4月6日  | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")               | 《[驚人的星期六](../Page/驚人的星期六.md "wikilink")》EP53                                             |
 
 ### 電台
 
@@ -114,7 +114,7 @@ B中的三位成員](../Page/Block_B.md "wikilink")[B-Bomb](https://zh.wikipedia
 | --------------------------------------------------------------------------------------------------- |
 | 專輯                                                                                                  |
 | colspan="9" style="background:\#CCC709" data-ve-attributes="{"style":"background:\#CCC709"}" |2015年 |
-| [品行ZERO](https://zh.wikipedia.org/wiki/品行ZERO "wikilink")                                           |
+| [品行ZERO](../Page/品行ZERO.md "wikilink")                                                              |
 | 查理卓別林                                                                                               |
 | colspan="9" style="background:\#CCC709" data-ve-attributes="{"style":"background:\#CCC709"}" |2016年 |
 | [WELCOME 2 BASTARZ](https://zh.wikipedia.org/wiki/WELCOME_2_BASTARZ "wikilink")                     |

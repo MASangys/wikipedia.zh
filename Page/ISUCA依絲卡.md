@@ -1,4 +1,4 @@
-《**ISUCA依絲卡**》（）是[高橋脩的日本](https://zh.wikipedia.org/wiki/高橋脩 "wikilink")[青年漫畫作品](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，於〈[YOUNG
+《**ISUCA依絲卡**》（）是[高橋脩的日本](../Page/高橋脩.md "wikilink")[青年漫畫作品](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，於〈[YOUNG
 ACE](https://zh.wikipedia.org/wiki/YOUNG_ACE "wikilink")〉2009年Vol.1中開始連載。\[1\]2012年改為隔月連載。
 
 2014年6月決定改編成電視動畫\[2\]，同年10月宣布會於2015年1月播出\[3\]。
@@ -184,9 +184,9 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[AT-X](../Page/AT-X.md 
 
 ### 製作人員
 
-  - 原作：[高橋脩](https://zh.wikipedia.org/wiki/高橋脩 "wikilink")\[5\]
+  - 原作：[高橋脩](../Page/高橋脩.md "wikilink")\[5\]
   - 監督：岩永彰
-  - 系列構成：[鈴木雅詞](https://zh.wikipedia.org/wiki/鈴木雅詞 "wikilink")
+  - 系列構成：[鈴木雅詞](../Page/鈴木雅詞.md "wikilink")
   - 角色設計：秋山由樹子
   - 妖魔設計：久我嘉輝
   - 道具設計：宮川治雄
@@ -202,7 +202,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[AT-X](../Page/AT-X.md 
   - 音樂：流歌、千葉“naotyu-”直樹、秋月須清
   - 音樂製作：[MAGES.](https://zh.wikipedia.org/wiki/MAGES. "wikilink")
   - 音樂製作人：金谷雄文、村上純
-  - 動畫製作：[Arms](https://zh.wikipedia.org/wiki/Arms "wikilink")
+  - 動畫製作：[Arms](../Page/Arms.md "wikilink")
   - 製作：ISUCA製作委員會
   - 片尾曲原畫：[梅津泰臣](../Page/梅津泰臣.md "wikilink")
 
@@ -213,7 +213,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[AT-X](../Page/AT-X.md 
     Saga](https://zh.wikipedia.org/wiki/Afilia_Saga "wikilink")
   - 片尾曲「Somebody to love」
     作詞：Kanon
-    Kuwa，作曲：藤田智史，編曲：川羽田敍新，主唱：TWO-FORMULA（[佐土原香織](../Page/佐土原香織.md "wikilink")、[藏合紗惠子](https://zh.wikipedia.org/wiki/藏合紗惠子 "wikilink")）
+    Kuwa，作曲：藤田智史，編曲：川羽田敍新，主唱：TWO-FORMULA（[佐土原香織](../Page/佐土原香織.md "wikilink")、[藏合紗惠子](../Page/藏合紗惠子.md "wikilink")）
 
 ### 各話列表
 

@@ -6,7 +6,7 @@ HEVC全稱「」，意为「[高效率视频编码](../Page/高效率视频编�
 
 ## 專利
 
-BPG由於採用了部分HEVC技術，因此相信亦包含了部分HEVC持有的專利；基於這個技術上的門檻，[LWN.net認為BPG很難取代JPEG的地位](https://zh.wikipedia.org/wiki/LWN.net "wikilink")\[7\]。
+BPG由於採用了部分HEVC技術，因此相信亦包含了部分HEVC持有的專利；基於這個技術上的門檻，[LWN.net認為BPG很難取代JPEG的地位](../Page/LWN.net.md "wikilink")\[7\]。
 
 ## 參看
 

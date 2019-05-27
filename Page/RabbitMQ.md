@@ -2,7 +2,7 @@
 
 ## 历史
 
-Rabbit科技有限公司开发了RabbitMQ，并提供对其的支持。起初，Rabbit科技是LSHIFT和CohesiveFT在2007年成立的合资企业\[1\]，2010年4月被[VMware旗下的](../Page/VMware.md "wikilink")[SpringSource收购](https://zh.wikipedia.org/wiki/SpringSource "wikilink")\[2\]。RabbitMQ在2013年5月成为[GoPivotal的一部分](https://zh.wikipedia.org/wiki/GoPivotal "wikilink")\[3\]
+Rabbit科技有限公司开发了RabbitMQ，并提供对其的支持。起初，Rabbit科技是LSHIFT和CohesiveFT在2007年成立的合资企业\[1\]，2010年4月被[VMware旗下的](../Page/VMware.md "wikilink")[SpringSource收购](../Page/SpringSource.md "wikilink")\[2\]。RabbitMQ在2013年5月成为[GoPivotal的一部分](https://zh.wikipedia.org/wiki/GoPivotal "wikilink")\[3\]
 。
 
 ## 基本概念

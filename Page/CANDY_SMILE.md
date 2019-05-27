@@ -5,7 +5,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 ## 概要
 
   - 《CANDY SMILE》是E-girls首張專輯《[Lesson
-    1](https://zh.wikipedia.org/wiki/Lesson_1 "wikilink")》的先行單曲。
+    1](../Page/Lesson_1.md "wikilink")》的先行單曲。
   - A面曲 《CANDY
     SMILE》為[UHA味覺糖](../Page/味覺糖.md "wikilink")「e-maのど飴」的電視廣告歌曲。而配合廣告標題，組合名字「E-girls」的「E」改為「e」
   - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《CANDY SMILE》的Music Video。
@@ -20,7 +20,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
       - [Dream](https://zh.wikipedia.org/wiki/Dream "wikilink")：、
       - [Happiness](../Page/Happiness_\(組合\).md "wikilink")：[SAYAKA](https://zh.wikipedia.org/wiki/SAYAKA "wikilink")、[楓](https://zh.wikipedia.org/wiki/土橋楓 "wikilink")、
       - [Flower](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")：[水野繪梨奈](../Page/水野繪梨奈.md "wikilink")、[藤井萩花](https://zh.wikipedia.org/wiki/藤井萩花 "wikilink")、、[佐藤晴美](https://zh.wikipedia.org/wiki/佐藤晴美 "wikilink")
-      - EGD：[石井杏奈](https://zh.wikipedia.org/wiki/石井杏奈 "wikilink")、[須田安娜](https://zh.wikipedia.org/wiki/須田安娜 "wikilink")、[生田梨沙](https://zh.wikipedia.org/wiki/生田梨沙 "wikilink")
+      - EGD：[石井杏奈](../Page/石井杏奈.md "wikilink")、[須田安娜](https://zh.wikipedia.org/wiki/須田安娜 "wikilink")、[生田梨沙](https://zh.wikipedia.org/wiki/生田梨沙 "wikilink")
 
 <!-- end list -->
 

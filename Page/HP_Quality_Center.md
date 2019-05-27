@@ -1,6 +1,6 @@
 **HP Quality Center**（意为“惠普质量中心”）是的一款品质管理软件。其多数功能是从收购公司而来的\[1\]。HP
 Quality
-Center提供[SQA](https://zh.wikipedia.org/wiki/软件质量保证 "wikilink")，包括针对[IT和应用程序的](https://zh.wikipedia.org/wiki/IT "wikilink")[需求管理](../Page/需求管理.md "wikilink")、和[业务过程测试](../Page/业务过程.md "wikilink")\[2\]。HP
+Center提供[SQA](../Page/软件质量保证.md "wikilink")，包括针对[IT和应用程序的](https://zh.wikipedia.org/wiki/IT "wikilink")[需求管理](../Page/需求管理.md "wikilink")、和[业务过程测试](../Page/业务过程.md "wikilink")\[2\]。HP
 Quality Center是软件解决方案集的一个组成部分\[3\]。
 
 ## 产品形式

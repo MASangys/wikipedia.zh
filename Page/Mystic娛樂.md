@@ -53,7 +53,7 @@ Actors的統合，包含了正式完整的作為一家綜合性娛樂公司出�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a></p></td>
+<td><p><a href="../Page/徐章煇.md" title="wikilink">徐章煇</a></p></td>
 <td><p>主持人</p></td>
 <td><p>1998年</p></td>
 <td><p>前籃球員</p></td>
@@ -65,7 +65,7 @@ Actors的統合，包含了正式完整的作為一家綜合性娛樂公司出�
 <td><p>團體成員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/張才人" title="wikilink">張才人</a></p></td>
+<td><p><a href="../Page/張才人.md" title="wikilink">張才人</a></p></td>
 <td><p>歌手</p></td>
 <td><p>2010年</p></td>
 <td></td>
@@ -77,7 +77,7 @@ Actors的統合，包含了正式完整的作為一家綜合性娛樂公司出�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Eddy_Kim" title="wikilink">Eddy Kim</a></p></td>
+<td><p><a href="../Page/Eddy_Kim.md" title="wikilink">Eddy Kim</a></p></td>
 <td></td>
 <td><p>2012年</p></td>
 <td></td>
@@ -107,7 +107,7 @@ Actors的統合，包含了正式完整的作為一家綜合性娛樂公司出�
 <td><p>團體</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金永哲_(藝人)" title="wikilink">金永哲</a></p></td>
+<td><p><a href="../Page/金永哲_(藝人).md" title="wikilink">金永哲</a></p></td>
 <td><p>搞笑藝人</p></td>
 <td><p>1999年</p></td>
 <td><p>搞笑藝人</p></td>
@@ -119,7 +119,7 @@ Actors的統合，包含了正式完整的作為一家綜合性娛樂公司出�
 <td><p>前<a href="../Page/韓國放送公社.md" title="wikilink">KBS</a> 主播</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴芝潤" title="wikilink">朴芝潤</a></p></td>
+<td><p><a href="../Page/朴芝潤.md" title="wikilink">朴芝潤</a></p></td>
 <td></td>
 <td><p>2004年</p></td>
 <td><p>前<a href="../Page/韓國放送公社.md" title="wikilink">KBS</a> 主播</p></td>
@@ -143,7 +143,7 @@ Actors的統合，包含了正式完整的作為一家綜合性娛樂公司出�
 <td><p>Superstar K 第5季的總冠軍</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/旗安84" title="wikilink">旗安84</a></p></td>
+<td><p><a href="../Page/旗安84.md" title="wikilink">旗安84</a></p></td>
 <td><p>漫畫家及綜藝人</p></td>
 <td><p>2009年</p></td>
 <td></td>
@@ -194,7 +194,7 @@ Actors的統合，包含了正式完整的作為一家綜合性娛樂公司出�
 <td><p>2000年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/河在淑" title="wikilink">河在淑</a></p></td>
+<td><p><a href="../Page/河在淑.md" title="wikilink">河在淑</a></p></td>
 <td><p>2000年</p></td>
 </tr>
 <tr class="odd">
@@ -277,7 +277,7 @@ Apop是以獨門的音樂內容消除藝人和偶像的界線，代表亞洲的�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金敏書" title="wikilink">敏書</a></p></td>
+<td><p><a href="../Page/金敏書.md" title="wikilink">敏書</a></p></td>
 <td><p>歌手</p></td>
 <td><p>2016年</p></td>
 <td></td>
@@ -341,19 +341,19 @@ ALL I KNOW MUSIC(簡稱：AIKM)是旗下嘻哈音樂廠牌。
   - [金秀賢](https://zh.wikipedia.org/wiki/金秀賢_\(2000年\) "wikilink")
     ([PRODUCE 101](../Page/PRODUCE_101.md "wikilink")、[MIX
     NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")、[A-TEEN
-    (電視劇)](https://zh.wikipedia.org/wiki/A-TEEN_\(電視劇\) "wikilink")、已簽專屬合約)
+    (電視劇)](../Page/A-TEEN_\(電視劇\).md "wikilink")、已簽專屬合約)
   - 黃知敏 ([MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink"))
   - 金承閔 ([MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink"))
   - 李道允 ([K-pop
     Star](https://zh.wikipedia.org/wiki/K-pop_Star "wikilink")、[MIX
     NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink"))
-  - [李秀敏](https://zh.wikipedia.org/wiki/李秀敏_\(1999年\) "wikilink")
-    ([PRODUCE 101](../Page/PRODUCE_101.md "wikilink")、[K-pop Star
-    6](https://zh.wikipedia.org/wiki/K-pop_Star_6 "wikilink")、[MIX
+  - [李秀敏](../Page/李秀敏_\(1999年\).md "wikilink") ([PRODUCE
+    101](../Page/PRODUCE_101.md "wikilink")、[K-pop Star
+    6](../Page/K-pop_Star_6.md "wikilink")、[MIX
     NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink"))
   - [竹內美宥](../Page/竹內美宥.md "wikilink")
     ([AKB48前成員](../Page/AKB48.md "wikilink")、[PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink"))
+    48](../Page/PRODUCE_48.md "wikilink"))
 
 ### 離開的藝人
 

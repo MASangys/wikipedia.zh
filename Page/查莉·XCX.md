@@ -162,7 +162,7 @@ hate music that's green, yellow or brown.)”\[43\]
     －[1989巡迴演唱會](https://zh.wikipedia.org/wiki/1989巡迴演唱會 "wikilink")
     (The 1989 World Tour) (2015)
   - [泰勒絲](../Page/泰勒·斯威夫特.md "wikilink")
-    —[舉世盛名體育場巡迴演唱會](https://zh.wikipedia.org/wiki/舉世盛名體育場巡迴演唱會 "wikilink")
+    —[舉世盛名體育場巡迴演唱會](../Page/舉世盛名體育場巡迴演唱會.md "wikilink")
     (Taylor Swift Reputation Stadium Tour) (2018) (開場表演)
 
 ## 参考资料

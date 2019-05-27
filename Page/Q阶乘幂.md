@@ -1,4 +1,4 @@
-**q阶乘幂**是[阶乘幂的](https://zh.wikipedia.org/wiki/阶乘幂 "wikilink")[Q-模拟](../Page/Q-模拟.md "wikilink")\[1\]。与阶乘幂在[广义超几何函数中的作用类似](https://zh.wikipedia.org/wiki/广义超几何函数 "wikilink")，q阶乘幂也是定义[基本超几何函数的基础](https://zh.wikipedia.org/wiki/基本超几何函数 "wikilink")。
+**q阶乘幂**是[阶乘幂的](https://zh.wikipedia.org/wiki/阶乘幂 "wikilink")[Q-模拟](../Page/Q-模拟.md "wikilink")\[1\]。与阶乘幂在[广义超几何函数中的作用类似](../Page/广义超几何函数.md "wikilink")，q阶乘幂也是定义[基本超几何函数的基础](../Page/基本超几何函数.md "wikilink")。
 
 ## 定义
 

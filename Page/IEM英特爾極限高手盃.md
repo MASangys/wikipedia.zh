@@ -91,7 +91,7 @@ Rivals。\[2\] 此賽事台灣16:1勝利後遭禁止參賽\[3\]
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/英雄聯盟" title="wikilink">英雄聯盟</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SK_Telecom_T1" title="wikilink">SK Telecom T1</a></p></td>
+<td><p><a href="../Page/SK_Telecom_T1.md" title="wikilink">SK Telecom T1</a></p></td>
 <td><p><a href="../Page/Fnatic.md" title="wikilink">Fnatic</a></p></td>
 <td></td>
 <td></td>

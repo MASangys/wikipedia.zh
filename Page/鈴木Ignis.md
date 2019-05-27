@@ -1,5 +1,5 @@
-**鈴木Ignis**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")2000年至2008年間開發製造的[次緊湊型車](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")，作為[鈴木Cultus的後繼車種](../Page/鈴木Cultus.md "wikilink")，此款車的日規版稱為**[鈴木Swift](https://zh.wikipedia.org/wiki/鈴木Swift "wikilink")**。此外，1981年[美國汽車巨擘](https://zh.wikipedia.org/wiki/美國 "wikilink")[通用汽車購入鈴木的](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")[股票](../Page/股票.md "wikilink")，雙方開始合作關係；全盛時期時前者甚至持有後者20.4%的股權。由於前者採行集團共用車型的政策，這部車出現許多兄弟車：**雪佛蘭Cruze**、**霍頓Cruze**（[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")）。甚至還有**[第三代速霸陸G3X
-Justy](https://zh.wikipedia.org/wiki/速霸陸Justy#第三代（2003年-2007年） "wikilink")**，由位於[匈牙利的](../Page/匈牙利.md "wikilink")[馬札爾鈴木公司製造供應給同屬通用汽車集團的](../Page/馬札爾鈴木公司.md "wikilink")[速霸陸汽車專門在](../Page/速霸陸汽車.md "wikilink")[歐洲販售](https://zh.wikipedia.org/wiki/歐洲 "wikilink")\[1\]。2016年1月起再度復活，定位介於[鈴木Hustler和](https://zh.wikipedia.org/wiki/鈴木Hustler "wikilink")[鈴木Escudo之間的小型](../Page/鈴木Escudo.md "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")\[2\]。
+**鈴木Ignis**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")2000年至2008年間開發製造的[次緊湊型車](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")，作為[鈴木Cultus的後繼車種](../Page/鈴木Cultus.md "wikilink")，此款車的日規版稱為**[鈴木Swift](../Page/鈴木Swift.md "wikilink")**。此外，1981年[美國汽車巨擘](https://zh.wikipedia.org/wiki/美國 "wikilink")[通用汽車購入鈴木的](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")[股票](../Page/股票.md "wikilink")，雙方開始合作關係；全盛時期時前者甚至持有後者20.4%的股權。由於前者採行集團共用車型的政策，這部車出現許多兄弟車：**雪佛蘭Cruze**、**霍頓Cruze**（[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")）。甚至還有**[第三代速霸陸G3X
+Justy](https://zh.wikipedia.org/wiki/速霸陸Justy#第三代（2003年-2007年） "wikilink")**，由位於[匈牙利的](../Page/匈牙利.md "wikilink")[馬札爾鈴木公司製造供應給同屬通用汽車集團的](../Page/馬札爾鈴木公司.md "wikilink")[速霸陸汽車專門在](../Page/速霸陸汽車.md "wikilink")[歐洲販售](https://zh.wikipedia.org/wiki/歐洲 "wikilink")\[1\]。2016年1月起再度復活，定位介於[鈴木Hustler和](../Page/鈴木Hustler.md "wikilink")[鈴木Escudo之間的小型](../Page/鈴木Escudo.md "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")\[2\]。
 {{-}}
 
 ## 歷史與概要
@@ -139,7 +139,7 @@ Ignis - Mondial de l'Automobile de Paris 2016 - 007.jpg
 
 ## 內部連結
 
-  - [鈴木Swift](https://zh.wikipedia.org/wiki/鈴木Swift "wikilink")
+  - [鈴木Swift](../Page/鈴木Swift.md "wikilink")
   - [鈴木Kei](../Page/鈴木Kei.md "wikilink")
 
 ## 參考資料

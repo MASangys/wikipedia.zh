@@ -24,7 +24,7 @@
 </tr>
 <tr class="even">
 <td><p>下行</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/加耶大站" title="wikilink">加耶大方向</a></p></td>
+<td><p><a href="../Page/加耶大站.md" title="wikilink">加耶大方向</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -49,7 +49,7 @@
 
   - [釜山－金海輕軌電鐵](https://zh.wikipedia.org/wiki/釜山－金海輕軌電鐵 "wikilink")
   - [釜山都市鐵道](../Page/釜山都市鐵道.md "wikilink")
-  - [釜山交通公社](https://zh.wikipedia.org/wiki/釜山交通公社 "wikilink")
+  - [釜山交通公社](../Page/釜山交通公社.md "wikilink")
 
 ## 外部連結
 

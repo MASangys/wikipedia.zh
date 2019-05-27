@@ -1,11 +1,11 @@
 《**Kill Me Heal
-Me**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2015年1月7日起播出的[水木連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由《[伊甸園之東](../Page/伊甸園之東_\(電視劇\).md "wikilink")》、《[醜聞](../Page/醜聞：極具衝擊性與不道德的事件.md "wikilink")》導演[金镇滿執導與](https://zh.wikipedia.org/wiki/金镇滿 "wikilink")《[擁抱太陽的月亮](../Page/擁抱太陽的月亮.md "wikilink")》[陳秀完作家執筆](https://zh.wikipedia.org/wiki/陳秀完 "wikilink")，並加入神秘推理情節，描寫擁有七重人格的主角車道賢（[池晟飾](../Page/池晟.md "wikilink")）與精神科醫生吳悧珍（[黃正音飾](https://zh.wikipedia.org/wiki/黃正音 "wikilink")）的愛情故事，為首次有韓劇使用的題材。本劇是[池晟與](../Page/池晟.md "wikilink")[黃正音時隔一年多繼](https://zh.wikipedia.org/wiki/黃正音 "wikilink")《[秘密](../Page/秘密_\(2013年電視劇\).md "wikilink")》後再度合作。此劇由於題材創新，故事高潮迭起，[池晟在劇中所飾演的七種人格](../Page/池晟.md "wikilink")，每種人格的分別皆能清楚演繹，展現演員的精湛演技而廣受好評。
+Me**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2015年1月7日起播出的[水木連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由《[伊甸園之東](../Page/伊甸園之東_\(電視劇\).md "wikilink")》、《[醜聞](../Page/醜聞：極具衝擊性與不道德的事件.md "wikilink")》導演[金镇滿執導與](https://zh.wikipedia.org/wiki/金镇滿 "wikilink")《[擁抱太陽的月亮](../Page/擁抱太陽的月亮.md "wikilink")》[陳秀完作家執筆](../Page/陳秀完.md "wikilink")，並加入神秘推理情節，描寫擁有七重人格的主角車道賢（[池晟飾](../Page/池晟.md "wikilink")）與精神科醫生吳悧珍（[黃正音飾](https://zh.wikipedia.org/wiki/黃正音 "wikilink")）的愛情故事，為首次有韓劇使用的題材。本劇是[池晟與](../Page/池晟.md "wikilink")[黃正音時隔一年多繼](https://zh.wikipedia.org/wiki/黃正音 "wikilink")《[秘密](../Page/秘密_\(2013年電視劇\).md "wikilink")》後再度合作。此劇由於題材創新，故事高潮迭起，[池晟在劇中所飾演的七種人格](../Page/池晟.md "wikilink")，每種人格的分別皆能清楚演繹，展現演員的精湛演技而廣受好評。
 
 ## 劇集背景
 
 ### 劇集起源
 
-此劇集的劇本早於2008年已編排，原名為《無人知曉》，但最後製作公司與MBC電視台認為劇集並不配合當年劇集的氣氛\[1\]，而將劇集擱置。其後，編劇[陳秀完於](https://zh.wikipedia.org/wiki/陳秀完 "wikilink")2012年的作品《[擁抱太陽的月亮](../Page/擁抱太陽的月亮.md "wikilink")》獲得40%的極高收視，令這部被放棄多年的作品獲重新審視。最後，MBC認為《Kill
+此劇集的劇本早於2008年已編排，原名為《無人知曉》，但最後製作公司與MBC電視台認為劇集並不配合當年劇集的氣氛\[1\]，而將劇集擱置。其後，編劇[陳秀完於](../Page/陳秀完.md "wikilink")2012年的作品《[擁抱太陽的月亮](../Page/擁抱太陽的月亮.md "wikilink")》獲得40%的極高收視，令這部被放棄多年的作品獲重新審視。最後，MBC認為《Kill
 Me Heal Me》已經充分適合推出，因此重新著手製作。
 
 ### 選角
@@ -13,7 +13,7 @@ Me Heal Me》已經充分適合推出，因此重新著手製作。
 起初《Kill Me Heal Me》
 的選角是主角由[李昇基飾演](../Page/李昇基.md "wikilink")，但接拍後又突然辭演，隨著不斷有演員辭演《Kill
 Me Heal Me》
-的消息，令劇集的播出再度陷入危機。在準備階段時，韓國更發生了死傷慘重的[世越號沉没事故](https://zh.wikipedia.org/wiki/世越號沉没事故 "wikilink")，再加上沉重的劇本及選角的不順，令劇組倍添壓力。\[2\]唯獨在選擇演員出現吳悧溫一角時，[陳秀完作家的屬意只有](https://zh.wikipedia.org/wiki/陳秀完 "wikilink")[朴敘俊一人](../Page/朴敘俊.md "wikilink")。直至劇集開播前僅僅一個月，兩位主角[池晟及](../Page/池晟.md "wikilink")[黃正音才臨危受命](https://zh.wikipedia.org/wiki/黃正音 "wikilink")，出演此劇集。
+的消息，令劇集的播出再度陷入危機。在準備階段時，韓國更發生了死傷慘重的[世越號沉没事故](https://zh.wikipedia.org/wiki/世越號沉没事故 "wikilink")，再加上沉重的劇本及選角的不順，令劇組倍添壓力。\[2\]唯獨在選擇演員出現吳悧溫一角時，[陳秀完作家的屬意只有](../Page/陳秀完.md "wikilink")[朴敘俊一人](../Page/朴敘俊.md "wikilink")。直至劇集開播前僅僅一個月，兩位主角[池晟及](../Page/池晟.md "wikilink")[黃正音才臨危受命](https://zh.wikipedia.org/wiki/黃正音 "wikilink")，出演此劇集。
 
 ### 池晟極度優秀的演技
 
@@ -206,7 +206,7 @@ Mr.X 出現，這個過渡期的人格代表著他的爸爸，是幫助他的人
 <td><p>安國</p></td>
 <td><p>道賢的秘書，幫道賢處理關於他多重人格障礙所衍生的問題。</p></td>
 <td><p><a href="../Page/黃天佑.md" title="wikilink">黃天佑</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄧志堅" title="wikilink">鄧志堅</a></p></td>
+<td><p><a href="../Page/鄧志堅.md" title="wikilink">鄧志堅</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金姈愛.md" title="wikilink">金姈愛</a></p></td>
@@ -260,11 +260,11 @@ Mr.X 出現，這個過渡期的人格代表著他的爸爸，是幫助他的人
 
 ### 基俊家
 
-|                                                     |        |                            |                                                     |                                  |
-| --------------------------------------------------- | ------ | -------------------------- | --------------------------------------------------- | -------------------------------- |
-| **演員**                                              | **角色** | 介紹                         | **國語配音**                                            | **粵語配音**                         |
-| [金日宇](../Page/金日宇.md "wikilink")                    | 車榮表    | 車基俊之父，車建浩的侄子，車俊彪的堂弟，車道賢的堂叔 | [蔣鐵城](../Page/蔣鐵城.md "wikilink")                    | [朱子聰](../Page/朱子聰.md "wikilink") |
-| [金娜雲](https://zh.wikipedia.org/wiki/金娜雲 "wikilink") | 尹慈卿    | 車基俊之母，車道賢的堂嬸               | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") | [沈小蘭](../Page/沈小蘭.md "wikilink") |
+|                                  |        |                            |                                                     |                                  |
+| -------------------------------- | ------ | -------------------------- | --------------------------------------------------- | -------------------------------- |
+| **演員**                           | **角色** | 介紹                         | **國語配音**                                            | **粵語配音**                         |
+| [金日宇](../Page/金日宇.md "wikilink") | 車榮表    | 車基俊之父，車建浩的侄子，車俊彪的堂弟，車道賢的堂叔 | [蔣鐵城](../Page/蔣鐵城.md "wikilink")                    | [朱子聰](../Page/朱子聰.md "wikilink") |
+| [金娜雲](../Page/金娜雲.md "wikilink") | 尹慈卿    | 車基俊之母，車道賢的堂嬸               | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") | [沈小蘭](../Page/沈小蘭.md "wikilink") |
 
 ### 客串
 
@@ -273,7 +273,7 @@ Mr.X 出現，這個過渡期的人格代表著他的爸爸，是幫助他的人
 | **演員**                                                    | **角色**  | 介紹             | **登場集數** | **國語配音**                         | **粵語配音**                                            |
 | [禹賢](https://zh.wikipedia.org/wiki/禹賢 "wikilink")         |         | 精神科患者          | 1        |                                  | [葉振聲](../Page/葉振聲.md "wikilink")                    |
 | [具俊曄](https://zh.wikipedia.org/wiki/具俊曄 "wikilink")       |         | Club DJ        | 1        |                                  |                                                     |
-| [簡美妍](../Page/簡美妍.md "wikilink")                          | 神秘美女    | 申世奇的女友         | 1        |                                  | [李潤知](https://zh.wikipedia.org/wiki/李潤知 "wikilink") |
+| [簡美妍](../Page/簡美妍.md "wikilink")                          | 神秘美女    | 申世奇的女友         | 1        |                                  | [李潤知](../Page/李潤知.md "wikilink")                    |
 | [趙允浩](https://zh.wikipedia.org/wiki/趙允浩 "wikilink")       |         | 暴走族            | 1-3      |                                  | [李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")            |
 | [李施彥](../Page/李施彥.md "wikilink")                          | 朴敏才     | 精神科醫生、俐珍的前輩    | 1-4      | [蔣鐵城](../Page/蔣鐵城.md "wikilink") | [劉奕希](../Page/劉奕希.md "wikilink")                    |
 | [金瑟琪](../Page/金瑟琪.md "wikilink")                          | 許淑熙     | 俐珍的患者          | 1-4      | [馮美麗](../Page/馮美麗.md "wikilink") | [凌晞](../Page/凌晞.md "wikilink")                      |
@@ -282,7 +282,7 @@ Mr.X 出現，這個過渡期的人格代表著他的爸爸，是幫助他的人
 | [許志雄](https://zh.wikipedia.org/wiki/許志雄 "wikilink")       |         | 雜誌社編輯長         | 7-8      |                                  |                                                     |
 | [LU:KUS](https://zh.wikipedia.org/wiki/LU:KUS "wikilink") | Rocking | ID娛樂旗下團體       | 8,11     |                                  |                                                     |
 | [朴瑟琪](../Page/朴瑟琪.md "wikilink")                          |         | Rocking 歌迷會 MC | 8        |                                  | [陳皓宜](../Page/陳皓宜.md "wikilink")                    |
-| [安英美](https://zh.wikipedia.org/wiki/安英美 "wikilink")       |         | 塔羅牌師           | 13       | [馮美麗](../Page/馮美麗.md "wikilink") | [陳皓宜](../Page/陳皓宜.md "wikilink")                    |
+| [安英美](../Page/安英美.md "wikilink")                          |         | 塔羅牌師           | 13       | [馮美麗](../Page/馮美麗.md "wikilink") | [陳皓宜](../Page/陳皓宜.md "wikilink")                    |
 | [Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")      | 安耀娜     |                | 20       | [楊凱凱](../Page/楊凱凱.md "wikilink") | [何璐怡](../Page/何璐怡.md "wikilink")                    |
 
 ## 原聲帶
@@ -488,8 +488,8 @@ Mr.X 出現，這個過渡期的人格代表著他的爸爸，是幫助他的人
 
 ## 同時段競爭節目
 
-  - [KBS](../Page/韓國放送公社.md "wikilink")：《[王的面孔](https://zh.wikipedia.org/wiki/王的面孔 "wikilink")》、《[謝謝你，兒子啊](https://zh.wikipedia.org/wiki/謝謝你，兒子啊 "wikilink")》、《[不善良的女人们](https://zh.wikipedia.org/wiki/不善良的女人们 "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")：《[皮諾丘](https://zh.wikipedia.org/wiki/皮諾丘_\(電視劇\) "wikilink")》、《[海德、哲基尔与我](https://zh.wikipedia.org/wiki/海德、哲基尔与我 "wikilink")》
+  - [KBS](../Page/韓國放送公社.md "wikilink")：《[王的面孔](../Page/王的面孔.md "wikilink")》、《[謝謝你，兒子啊](../Page/謝謝你，兒子啊.md "wikilink")》、《[不善良的女人们](../Page/不善良的女人们.md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink")：《[皮諾丘](../Page/皮諾丘_\(電視劇\).md "wikilink")》、《[海德、哲基尔与我](../Page/海德、哲基尔与我.md "wikilink")》
 
 ## 獎項
 
@@ -530,7 +530,7 @@ MBC演技大賞的大贏家](https://zh.wikipedia.org/wiki/2015_MBC演技大賞 
 </tr>
 <tr class="even">
 <td><p>劇本賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳秀完" title="wikilink">陳秀完</a></p></td>
+<td><p><a href="../Page/陳秀完.md" title="wikilink">陳秀完</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -557,7 +557,7 @@ MBC演技大賞的大贏家](https://zh.wikipedia.org/wiki/2015_MBC演技大賞 
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/首尔国际电视节" title="wikilink">第十屆首爾國際戲劇大賞</a></p></td>
+<td><p><a href="../Page/首尔国际电视节.md" title="wikilink">第十屆首爾國際戲劇大賞</a></p></td>
 <td><p>韓流連續劇最優秀作品獎</p></td>
 <td><p>《Kill Me Heal Me》</p></td>
 <td></td>
@@ -607,7 +607,7 @@ MBC演技大賞的大贏家](https://zh.wikipedia.org/wiki/2015_MBC演技大賞 
 </tr>
 <tr class="odd">
 <td><p>最佳O.S.T賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張才人" title="wikilink">張才人</a>－ 《幻聽》</p></td>
+<td><p><a href="../Page/張才人.md" title="wikilink">張才人</a>－ 《幻聽》</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -727,7 +727,7 @@ MBC演技大賞的大贏家](https://zh.wikipedia.org/wiki/2015_MBC演技大賞 
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾音樂獎" title="wikilink">首爾音樂獎</a></p></td>
 <td><p>OST賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張才人" title="wikilink">張才人</a>－《幻聽》</p></td>
+<td><p><a href="../Page/張才人.md" title="wikilink">張才人</a>－《幻聽》</p></td>
 <td></td>
 <td></td>
 </tr>

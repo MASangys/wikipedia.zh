@@ -154,14 +154,14 @@ OWARI的](../Page/SEKAI_NO_OWARI.md "wikilink")《[RPG](../Page/RPG_\(單曲\).m
 Hill -Zone 1》和《[人中之龍
 維新！](../Page/人中之龍_維新！.md "wikilink")》的《鼓動》等等，而且在2月14至15日於[千葉縣](../Page/千葉縣.md "wikilink")[幕張展覽館舉行的](../Page/幕張展覽館.md "wikilink")中可以提早試玩\[46\]。2月26日，maimai
 GreeN正式更新至maimai GreeN PLUS，這次更新推出了變化更大的星條，而且亦增加BREAK SOUND和SLIDE
-SOUND等利用maimile購買的項目\[47\]。3月23日，Hiro和光吉猛修前往[沖繩縣出席與maimai玩家聚首的活動](../Page/沖繩縣.md "wikilink")\[48\]。3月31日，maimai新增了手機遊戲《[鎖鏈戰記](../Page/鎖鏈戰記.md "wikilink")》主題曲《絆之物語》（》和[任天堂3DS遊戲](../Page/任天堂3DS.md "wikilink")《》主題曲《賺錢吧！小麻煩英雄》（）\[49\]。4月10日，maimai新增了小提琴家、音樂人、聲優[若井友希和鋼琴家](https://zh.wikipedia.org/wiki/若井友希 "wikilink")[Marasy等人](https://zh.wikipedia.org/wiki/Marasy "wikilink")，總共5首原創歌曲\[50\]。5月15日，maimai新增了5首歌曲，分別是三首東方Project歌曲以及作曲家[山根美智等人的原創歌曲兩首](https://zh.wikipedia.org/wiki/山根美智 "wikilink")\[51\]。5月23日，maimai為了慶祝[高橋名人的生日而新增其主唱的一首歌曲](https://zh.wikipedia.org/wiki/高橋名人 "wikilink")\[52\]。6月4日，SEGA宣佈在8月30至31日於[東京國際展示場舉行以maimai歌曲為主的演唱會](../Page/東京國際展示場.md "wikilink")\[53\]。翌日，SEGA宣佈將會在秋天推出maimai
-ORANGE\[54\]。6月17日，適逢為《[人中之龍](../Page/人中之龍_\(遊戲\).md "wikilink")》主角[桐生一馬的生日](https://zh.wikipedia.org/wiki/桐生一馬 "wikilink")，maimai因此新增了兩首人中之龍歌曲以及組合[EXILE歌曲](https://zh.wikipedia.org/wiki/EXILE "wikilink")《[VICTORY](../Page/FANTASY_\(EXILE單曲\).md "wikilink")》\[55\]。6月20日，maimai新增了超音鼠的聲效可供購入\[56\]。7月17日，maimai新增了[平井堅的](../Page/平井堅.md "wikilink")《[POP
+SOUND等利用maimile購買的項目\[47\]。3月23日，Hiro和光吉猛修前往[沖繩縣出席與maimai玩家聚首的活動](../Page/沖繩縣.md "wikilink")\[48\]。3月31日，maimai新增了手機遊戲《[鎖鏈戰記](../Page/鎖鏈戰記.md "wikilink")》主題曲《絆之物語》（》和[任天堂3DS遊戲](../Page/任天堂3DS.md "wikilink")《》主題曲《賺錢吧！小麻煩英雄》（）\[49\]。4月10日，maimai新增了小提琴家、音樂人、聲優[若井友希和鋼琴家](../Page/若井友希.md "wikilink")[Marasy等人](https://zh.wikipedia.org/wiki/Marasy "wikilink")，總共5首原創歌曲\[50\]。5月15日，maimai新增了5首歌曲，分別是三首東方Project歌曲以及作曲家[山根美智等人的原創歌曲兩首](https://zh.wikipedia.org/wiki/山根美智 "wikilink")\[51\]。5月23日，maimai為了慶祝[高橋名人的生日而新增其主唱的一首歌曲](https://zh.wikipedia.org/wiki/高橋名人 "wikilink")\[52\]。6月4日，SEGA宣佈在8月30至31日於[東京國際展示場舉行以maimai歌曲為主的演唱會](../Page/東京國際展示場.md "wikilink")\[53\]。翌日，SEGA宣佈將會在秋天推出maimai
+ORANGE\[54\]。6月17日，適逢為《[人中之龍](../Page/人中之龍_\(遊戲\).md "wikilink")》主角[桐生一馬的生日](../Page/桐生一馬.md "wikilink")，maimai因此新增了兩首人中之龍歌曲以及組合[EXILE歌曲](https://zh.wikipedia.org/wiki/EXILE "wikilink")《[VICTORY](../Page/FANTASY_\(EXILE單曲\).md "wikilink")》\[55\]。6月20日，maimai新增了超音鼠的聲效可供購入\[56\]。7月17日，maimai新增了[平井堅的](../Page/平井堅.md "wikilink")《[POP
 STAR](../Page/POP_STAR.md "wikilink")》、[月島KIRARI的](../Page/久住小春.md "wikilink")《[巴拉拉卡](https://zh.wikipedia.org/wiki/巴拉拉卡_\(月島KIRARI歌曲\) "wikilink")》和[40mP的](../Page/40mP.md "wikilink")《[活動小丑](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Megurhythm "wikilink")》等9首歌曲\[57\]。
 
 ### maimai ORANGE（2014年9月－2015年3月）
 
 8月8日，SEGA宣佈參加maimai歌曲演唱會的人士將獲得入場限定CD，並且送贈襟章、毛巾和扇子，並且提供學生優惠，另外入場者可以抽籤試玩maimai
-ORANGE兩首未公開的歌曲，名額約40人\[58\]。8月22日，maimai新增了搖滾樂隊翻唱的和作曲家等人的5首作品\[59\]。9月1日，maimai新增了音樂人[DECO\*27的](https://zh.wikipedia.org/wiki/DECO*27 "wikilink")《》等3首[VOCALOID歌曲](../Page/VOCALOID.md "wikilink")，並且公佈將於9月18日更新至maimai
+ORANGE兩首未公開的歌曲，名額約40人\[58\]。8月22日，maimai新增了搖滾樂隊翻唱的和作曲家等人的5首作品\[59\]。9月1日，maimai新增了音樂人[DECO\*27的](../Page/DECO*27.md "wikilink")《》等3首[VOCALOID歌曲](../Page/VOCALOID.md "wikilink")，並且公佈將於9月18日更新至maimai
 ORANGE\[60\]
 
 ### maimai ORANGE PLUS（2015年3月－2015年12月）

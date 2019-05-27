@@ -1,9 +1,9 @@
 **朴秀英**\[1\]\[2\]\[3\]（，，），藝名**Joy**（，），[韩国女](https://zh.wikipedia.org/wiki/韩国 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，為[SM娛樂旗下的五人女子組合](../Page/SM娛樂.md "wikilink")[Red
-Velvet的成員](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。
+Velvet的成員](../Page/Red_Velvet.md "wikilink")。
 
 ## 個人生活
 
-**朴秀英**在1996年9月3日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[濟州特別自治道](../Page/濟州特別自治道.md "wikilink")，後搬至[首爾特別市](https://zh.wikipedia.org/wiki/首爾 "wikilink")[道峰區](https://zh.wikipedia.org/wiki/道峰區 "wikilink")。家中有兩個妹妹，排行老大\[4\]。
+**朴秀英**在1996年9月3日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[濟州特別自治道](../Page/濟州特別自治道.md "wikilink")，後搬至[首爾特別市](../Page/首爾.md "wikilink")[道峰區](https://zh.wikipedia.org/wiki/道峰區 "wikilink")。家中有兩個妹妹，排行老大\[4\]。
 
 曾就讀于首爾新化初等學校、新昌中學、鹽光高等學校后轉讀首爾公演藝術高中。2015年2月，畢業于[首爾公演藝術高中](https://zh.wikipedia.org/wiki/首爾公演藝術高中 "wikilink")。
 
@@ -12,7 +12,7 @@ Velvet的成員](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。
 ### 出道前
 
 **朴秀英**於2012年透過[SM娛樂舉辦的全球徵選](../Page/SM娛樂.md "wikilink")（首爾）而成為練習生，同時具備可愛的外貌和歌唱舞蹈等多方面才能\[5\]\[6\]。此外，她也是在[Red
-Velvet組合中唯一沒有透過](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")[SM
+Velvet組合中唯一沒有透過](../Page/Red_Velvet.md "wikilink")[SM
 ROOKIES亮相的成員](../Page/SM_ROOKIES.md "wikilink")。練習生時長2年半。
 
 2014年8月1日，以**Joy**為藝名，與[Irene](https://zh.wikipedia.org/wiki/裴柱現 "wikilink")、[Seulgi](https://zh.wikipedia.org/wiki/姜瑟琪 "wikilink")、[Wendy在KBS](https://zh.wikipedia.org/wiki/孫勝完 "wikilink")2《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》正式出道。
@@ -29,22 +29,22 @@ Star賞」、和[陸星材共同獲得](../Page/陸星材.md "wikilink")「最�
 2016年4月16日，與陸星材以夫婦名義推出合作單曲《稚愛（어린애）》，並參與歌曲填詞
 \[11\]\[12\]。5月7日，與陸星材從《我們結婚了S4》中下車，結束長達11個月的夫妻假想生活\[13\]\[14\]\[15\]。11月3日，與[2AM前輩](../Page/2AM.md "wikilink")[瑟雍合作推出](https://zh.wikipedia.org/wiki/瑟雍 "wikilink")[SM
 STATION的第](../Page/SM_STATION.md "wikilink")39週單曲《Always In My
-Heart》\[16\]\[17\]。12月18日，與[NCT的](../Page/NCT.md "wikilink")[道英在](https://zh.wikipedia.org/wiki/道英 "wikilink")[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》演繹《First
+Heart》\[16\]\[17\]。12月18日，與[NCT的](../Page/NCT.md "wikilink")[道英在](../Page/道英.md "wikilink")[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》演繹《First
 Christmas》，為人氣歌謠特別企劃。
 
-2017年3月，在個人處女作《[她愛上了我的謊](https://zh.wikipedia.org/wiki/她愛上了我的謊_\(韓國電視劇\) "wikilink")》中
+2017年3月，在個人處女作《[她愛上了我的謊](../Page/她愛上了我的謊_\(韓國電視劇\).md "wikilink")》中
 飾演女主角**尹素琳**，搭檔[李玹雨](../Page/李玹雨.md "wikilink")，正式作爲演員出道\[18\]\[19\]\[20\]。
 
 2018年1月7日，擔任[JTBC](../Page/JTBC.md "wikilink")《[Two Yoo Project - Sugar
 Man S2](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》固定主持之一。
 
-2018年1月，出演[MBC月火連續劇](../Page/MBC月火連續劇.md "wikilink")《[偉大的誘惑者](https://zh.wikipedia.org/wiki/偉大的誘惑者 "wikilink")》，飾演女主角殷泰熙，搭檔[禹棹煥](https://zh.wikipedia.org/wiki/禹棹煥 "wikilink")\[21\]。
+2018年1月，出演[MBC月火連續劇](../Page/MBC月火連續劇.md "wikilink")《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》，飾演女主角殷泰熙，搭檔[禹棹煥](../Page/禹棹煥.md "wikilink")\[21\]。
 
-2018年9月15日，與[張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[程瀟作為固定成員共同出演Lifetime綜藝節目](https://zh.wikipedia.org/wiki/程瀟 "wikilink")《[睡衣朋友](https://zh.wikipedia.org/wiki/睡衣朋友 "wikilink")》\[22\]。
+2018年9月15日，與[張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[程瀟作為固定成員共同出演Lifetime綜藝節目](https://zh.wikipedia.org/wiki/程瀟 "wikilink")《[睡衣朋友](../Page/睡衣朋友.md "wikilink")》\[22\]。
 
 2019年4月5日，擔任[On
 Style](https://zh.wikipedia.org/wiki/On_Style "wikilink")《[Get it
-beauty](https://zh.wikipedia.org/wiki/Get_it_beauty "wikilink")》固定主持之一。
+beauty](../Page/Get_it_beauty.md "wikilink")》固定主持之一。
 
 ## 音樂作品
 
@@ -71,41 +71,41 @@ beauty](https://zh.wikipedia.org/wiki/Get_it_beauty "wikilink")》固定主持�
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p>3月20日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/她愛上了我的謊_(韓國電視劇)" title="wikilink">她愛上了我的謊OST</a> Part.1》</p></td>
+<td><p>《<a href="../Page/她愛上了我的謊_(韓國電視劇).md" title="wikilink">她愛上了我的謊OST</a> Part.1》</p></td>
 <td><p>女雨夜（여우야）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3月27日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/她愛上了我的謊_(韓國電視劇)" title="wikilink">她愛上了我的謊OST</a> Part.2》</p></td>
+<td><p>《<a href="../Page/她愛上了我的謊_(韓國電視劇).md" title="wikilink">她愛上了我的謊OST</a> Part.2》</p></td>
 <td><p>我沒關係（괜찮아, 난）</p></td>
 <td><p>feat. <a href="../Page/李玹雨.md" title="wikilink">李玹雨</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月11日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/她愛上了我的謊_(韓國電視劇)" title="wikilink">她愛上了我的謊OST</a> Part.4》</p></td>
+<td><p>《<a href="../Page/她愛上了我的謊_(韓國電視劇).md" title="wikilink">她愛上了我的謊OST</a> Part.4》</p></td>
 <td><p>最近的你呀（요즘 너 말야）</p></td>
 <td><p>rowspan=5 </p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4月17日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/她愛上了我的謊_(韓國電視劇)" title="wikilink">她愛上了我的謊OST</a> Part.5》</p></td>
+<td><p>《<a href="../Page/她愛上了我的謊_(韓國電視劇).md" title="wikilink">她愛上了我的謊OST</a> Part.5》</p></td>
 <td><p>Shiny Boy</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>5月1日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/她愛上了我的謊_(韓國電視劇)" title="wikilink">她愛上了我的謊OST</a> Part.8》</p></td>
+<td><p>《<a href="../Page/她愛上了我的謊_(韓國電視劇).md" title="wikilink">她愛上了我的謊OST</a> Part.8》</p></td>
 <td><p>等待你的方法（너를 기다리는 법 ）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5月8日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/她愛上了我的謊_(韓國電視劇)" title="wikilink">她愛上了我的謊OST</a> Part.9》</p></td>
+<td><p>《<a href="../Page/她愛上了我的謊_(韓國電視劇).md" title="wikilink">她愛上了我的謊OST</a> Part.9》</p></td>
 <td><p>走向我的路（내게 오는 길）</p></td>
 <td></td>
 <td></td>
@@ -113,14 +113,14 @@ beauty](https://zh.wikipedia.org/wiki/Get_it_beauty "wikilink")》固定主持�
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>3月27日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/偉大的誘惑者" title="wikilink">偉大的誘惑者OST</a> Part.2》</p></td>
+<td><p>《<a href="../Page/偉大的誘惑者.md" title="wikilink">偉大的誘惑者OST</a> Part.2》</p></td>
 <td><p>不像話(OMG</p></td>
 <td><p>Happing to me)<br />
 （말도 안돼(OMG</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月18日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/今天的偵探" title="wikilink">今天的偵探OST</a> Part.6》</p></td>
+<td><p>《<a href="../Page/今天的偵探.md" title="wikilink">今天的偵探OST</a> Part.6》</p></td>
 <td><p>名為我的夢（나라는 꿈）</p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/Mark_(1999年)" title="wikilink">Mark</a></p></td>
 <td></td>
@@ -132,11 +132,11 @@ beauty](https://zh.wikipedia.org/wiki/Get_it_beauty "wikilink")》固定主持�
 
 ### 電視劇
 
-|        |                                     |                                                                       |        |        |
-| ------ | ----------------------------------- | --------------------------------------------------------------------- | ------ | ------ |
-| **年份** | **電視台**                             | **劇名**                                                                | **角色** | **備註** |
-| 2017   | [tvN](../Page/TVN.md "wikilink")    | [她愛上了我的謊](https://zh.wikipedia.org/wiki/她愛上了我的謊_\(韓國電視劇\) "wikilink") | 尹素琳    | 第一女主角  |
-| 2018   | [MBC](../Page/文化廣播公司.md "wikilink") | [偉大的誘惑者](https://zh.wikipedia.org/wiki/偉大的誘惑者 "wikilink")             | 殷泰熙    |        |
+|        |                                     |                                                    |        |        |
+| ------ | ----------------------------------- | -------------------------------------------------- | ------ | ------ |
+| **年份** | **電視台**                             | **劇名**                                             | **角色** | **備註** |
+| 2017   | [tvN](../Page/TVN.md "wikilink")    | [她愛上了我的謊](../Page/她愛上了我的謊_\(韓國電視劇\).md "wikilink") | 尹素琳    | 第一女主角  |
+| 2018   | [MBC](../Page/文化廣播公司.md "wikilink") | [偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")             | 殷泰熙    |        |
 
 ### 個人參演音樂錄影帶
 
@@ -171,10 +171,10 @@ beauty](https://zh.wikipedia.org/wiki/Get_it_beauty "wikilink")》固定主持�
 | ---------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | 放送日期                   | 電視台                                                           | 節目名稱                                                                                  | 備註                                                                                                                                           |
 | 2015年6月20日 - 2016年5月7日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")           | 《[我們結婚了 S4](https://zh.wikipedia.org/wiki/我們結婚了_\(第四季\)#星宿夫婦 "wikilink")》             | 假想丈夫為[陸星材](../Page/陸星材.md "wikilink")（[BTOB](../Page/BTOB.md "wikilink")），名為[星宿夫婦](../Page/我們結婚了_\(第四季\).md "wikilink")                      |
-| 2016年11月23日－2017年2月15日 | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")         | 《[TRICK\&TRUE](https://zh.wikipedia.org/wiki/TRICK&TRUE "wikilink")》                  | 與[Wendy為固定嘉賓](../Page/Wendy_\(Red_Velvet\).md "wikilink")                                                                                    |
+| 2016年11月23日－2017年2月15日 | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")         | 《[TRICK\&TRUE](../Page/TRICK&TRUE.md "wikilink")》                                     | 與[Wendy為固定嘉賓](../Page/Wendy_\(Red_Velvet\).md "wikilink")                                                                                    |
 | 2018年1月14日－5月27日       | [JTBC](../Page/JTBC.md "wikilink")                            | 《[Two Yoo Project - Sugar Man S2](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》 | 固定MC，與[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、[朴娜萊](../Page/朴娜萊.md "wikilink")                  |
-| 2018年9月15日－12月8日       | Lifetime                                                      | 《[睡衣朋友](https://zh.wikipedia.org/wiki/睡衣朋友 "wikilink")》                               | 固定MC，與[張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink") |
-| 2019年4月5日－             | [On Style](https://zh.wikipedia.org/wiki/On_Style "wikilink") | 《[Get it beauty](https://zh.wikipedia.org/wiki/Get_it_beauty "wikilink")》             | 固定MC，與張允珠、[金度延](../Page/金度延.md "wikilink")（[Weki Meki](https://zh.wikipedia.org/wiki/Weki_Meki "wikilink")）、文佳菲、金秀美                          |
+| 2018年9月15日－12月8日       | Lifetime                                                      | 《[睡衣朋友](../Page/睡衣朋友.md "wikilink")》                                                  | 固定MC，與[張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink") |
+| 2019年4月5日－             | [On Style](https://zh.wikipedia.org/wiki/On_Style "wikilink") | 《[Get it beauty](../Page/Get_it_beauty.md "wikilink")》                                | 固定MC，與張允珠、[金度延](../Page/金度延.md "wikilink")（[Weki Meki](../Page/Weki_Meki.md "wikilink")）、文佳菲、金秀美                                             |
 |                        |                                                               |                                                                                       |                                                                                                                                              |
 
 ### 單次訪問/嘉賓出演
@@ -202,7 +202,7 @@ beauty](https://zh.wikipedia.org/wiki/Get_it_beauty "wikilink")》固定主持�
 <tr class="even">
 <td><p>2016年</p></td>
 <td><p>1月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>《<a href="https://zh.wikipedia.org/wiki/My_Little_Television" title="wikilink">My Little Television</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>《<a href="../Page/My_Little_Television.md" title="wikilink">My Little Television</a>》</p></td>
 <td><p>與<a href="../Page/陸星材.md" title="wikilink">陸星材</a>（<a href="../Page/BTOB.md" title="wikilink">BTOB</a>）<br />
 ( 於網路進行直播放送 )</p></td>
 </tr>
@@ -233,20 +233,20 @@ beauty](https://zh.wikipedia.org/wiki/Get_it_beauty "wikilink")》固定主持�
 <tr class="odd">
 <td><p>11月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a> 《<a href="../Page/Running_Man.md" title="wikilink">Running Man</a>》</p></td>
-<td><p>與<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a>、<a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="../Page/東海_(藝人).md" title="wikilink">東海</a>、<a href="https://zh.wikipedia.org/wiki/Irene_(Red_Velvet)" title="wikilink">Irene</a></p></td>
+<td><p>與<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a>、<a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="../Page/東海_(藝人).md" title="wikilink">東海</a>、<a href="../Page/Irene_(Red_Velvet).md" title="wikilink">Irene</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>11月22日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a> 《<a href="https://zh.wikipedia.org/wiki/請給一頓飯Show" title="wikilink">請給一頓飯Show</a>》</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Irene_(Red_Velvet)" title="wikilink">Irene</a></p></td>
+<td><p>與<a href="../Page/Irene_(Red_Velvet).md" title="wikilink">Irene</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
 <td><p>11月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a> 《<a href="../Page/Running_Man.md" title="wikilink">Running Man</a>》</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Irene_(Red_Velvet)" title="wikilink">Irene</a>、<a href="../Page/姜漢娜.md" title="wikilink">姜漢娜</a>、<a href="https://zh.wikipedia.org/wiki/薛仁雅" title="wikilink">薛仁雅</a></p></td>
+<td><p>與<a href="../Page/Irene_(Red_Velvet).md" title="wikilink">Irene</a>、<a href="../Page/姜漢娜.md" title="wikilink">姜漢娜</a>、<a href="../Page/薛仁雅.md" title="wikilink">薛仁雅</a></p></td>
 </tr>
 <tr class="even">
 <td><p>12月8日</p></td>
@@ -280,15 +280,15 @@ beauty](https://zh.wikipedia.org/wiki/Get_it_beauty "wikilink")》固定主持�
 
 ### 合作舞臺
 
-|        |                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                      |                                                                               |
-| ------ | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| **年份** | **表演日期**                                                    | **表演節目**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **合作藝人**                                                                                                                                                                                                                                                                                                                                                                             | **影片**                                                                        |
-| 2014年  | 12月31日                                                      | [MBC歌謠大祭典](https://zh.wikipedia.org/wiki/MBC歌謠大祭典 "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                               | [夏榮](https://zh.wikipedia.org/wiki/夏榮 "wikilink")（[A Pink](https://zh.wikipedia.org/wiki/A_Pink "wikilink")）、[澯美](https://zh.wikipedia.org/wiki/澯美 "wikilink")（[AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")）                                                                                                                                                           | [《성인식（成人禮）》 Video](https://www.youtube.com/watch?v=ZjekhM-hGvA)               |
-| 2015年  | 12月30日                                                      | [MBC演藝大賞](https://zh.wikipedia.org/wiki/MBC演藝大賞 "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                 | [陸星材](../Page/陸星材.md "wikilink")（[BTOB](../Page/BTOB.md "wikilink")）                                                                                                                                                                                                                                                                                                                 | [《 Bbyu 'marry you' 》 Video](https://www.youtube.com/watch?v=6EWAW-y5mUs)     |
-| 2016年  | 6月24日                                                       | KBS2《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》                                                                                                                                                                                                                                                                                                                                                                                                                     | [Yuju](../Page/Yuju.md "wikilink")（[GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")）、[MoMo](../Page/Momo_\(TWICE\).md "wikilink")（[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）（[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）、丞延（[CLC](https://zh.wikipedia.org/wiki/CLC "wikilink")）                                                               | [《Touch My Body (SISTAR)》 Video](https://www.youtube.com/watch?v=0EjAMl0VoWQ) |
-| 12月18日 | SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》  | |[道英](https://zh.wikipedia.org/wiki/道英 "wikilink")（[NCT](../Page/NCT.md "wikilink")）                                                                                                                                                                                                                                                                                                                                                                                                        | [《First Christmas》 Video](https://www.youtube.com/watch?v=3aBGP0S7dCg)                                                                                                                                                                                                                                                                                                               |                                                                               |
-| 2018年  | | 12月25日                                                    | [SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                    | [Irene](https://zh.wikipedia.org/wiki/Irene "wikilink")、[SeulGi](https://zh.wikipedia.org/wiki/SeulGi "wikilink")（[Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")）、[Momo](https://zh.wikipedia.org/wiki/Momo "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink")、[子瑜](https://zh.wikipedia.org/wiki/子瑜 "wikilink")（[Twice](https://zh.wikipedia.org/wiki/Twice "wikilink")） | [《Dreams Come True》 Video](https://www.youtube.com/watch?v=C7BJJSfJrlg)       |
-| 12月28日 | [KBS歌謠盛典](https://zh.wikipedia.org/wiki/KBS歌謠盛典 "wikilink") | [美珠](../Page/李美珠.md "wikilink")（[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")）、[所願](../Page/Sowon.md "wikilink")（[GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")）、[祉呼](https://zh.wikipedia.org/wiki/祉呼 "wikilink")（[Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")）、[子瑜](https://zh.wikipedia.org/wiki/子瑜 "wikilink")（[Twice](https://zh.wikipedia.org/wiki/Twice "wikilink")）、([MOMOLAND](https://zh.wikipedia.org/wiki/MOMOLAND "wikilink")） | [《Hush》 Video](https://www.youtube.com/watch?v=B0lgodGJNeg)                                                                                                                                                                                                                                                                                                                          |                                                                               |
+|        |                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                   |                                                                               |
+| ------ | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **年份** | **表演日期**                                                   | **表演節目**                                                                                                                                                                                                                                                                                                                                                                                                                           | **合作藝人**                                                                                                                                                                                                                                                                                                                                                          | **影片**                                                                        |
+| 2014年  | 12月31日                                                     | [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                         | [夏榮](https://zh.wikipedia.org/wiki/夏榮 "wikilink")（[A Pink](https://zh.wikipedia.org/wiki/A_Pink "wikilink")）、[澯美](../Page/澯美.md "wikilink")（[AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")）                                                                                                                                                           | [《성인식（成人禮）》 Video](https://www.youtube.com/watch?v=ZjekhM-hGvA)               |
+| 2015年  | 12月30日                                                     | [MBC演藝大賞](https://zh.wikipedia.org/wiki/MBC演藝大賞 "wikilink")                                                                                                                                                                                                                                                                                                                                                                        | [陸星材](../Page/陸星材.md "wikilink")（[BTOB](../Page/BTOB.md "wikilink")）                                                                                                                                                                                                                                                                                              | [《 Bbyu 'marry you' 》 Video](https://www.youtube.com/watch?v=6EWAW-y5mUs)     |
+| 2016年  | 6月24日                                                      | KBS2《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》                                                                                                                                                                                                                                                                                                                                                            | [Yuju](../Page/Yuju.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")）、[MoMo](../Page/Momo_\(TWICE\).md "wikilink")（[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）（[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）、丞延（[CLC](../Page/CLC.md "wikilink")）                                                                                  | [《Touch My Body (SISTAR)》 Video](https://www.youtube.com/watch?v=0EjAMl0VoWQ) |
+| 12月18日 | SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》 | |[道英](../Page/道英.md "wikilink")（[NCT](../Page/NCT.md "wikilink")）                                                                                                                                                                                                                                                                                                                                                                  | [《First Christmas》 Video](https://www.youtube.com/watch?v=3aBGP0S7dCg)                                                                                                                                                                                                                                                                                            |                                                                               |
+| 2018年  | | 12月25日                                                   | [SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                           | [Irene](https://zh.wikipedia.org/wiki/Irene "wikilink")、[SeulGi](https://zh.wikipedia.org/wiki/SeulGi "wikilink")（[Red Velvet](../Page/Red_Velvet.md "wikilink")）、[Momo](https://zh.wikipedia.org/wiki/Momo "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink")、[子瑜](https://zh.wikipedia.org/wiki/子瑜 "wikilink")（[Twice](https://zh.wikipedia.org/wiki/Twice "wikilink")） | [《Dreams Come True》 Video](https://www.youtube.com/watch?v=C7BJJSfJrlg)       |
+| 12月28日 | [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")                   | [美珠](../Page/李美珠.md "wikilink")（[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")）、[所願](../Page/Sowon.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")）、[祉呼](../Page/祉呼.md "wikilink")（[Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")）、[子瑜](https://zh.wikipedia.org/wiki/子瑜 "wikilink")（[Twice](https://zh.wikipedia.org/wiki/Twice "wikilink")）、([MOMOLAND](../Page/MOMOLAND.md "wikilink")） | [《Hush》 Video](https://www.youtube.com/watch?v=B0lgodGJNeg)                                                                                                                                                                                                                                                                                                       |                                                                               |
 
 ### 電台
 
@@ -332,7 +332,7 @@ beauty](https://zh.wikipedia.org/wiki/Get_it_beauty "wikilink")》固定主持�
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p>SKECHERS D'Lites 2 Sweet Monster</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a><br />
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a><br />
 <a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
 </tr>
 <tr class="odd">
@@ -349,8 +349,7 @@ beauty](https://zh.wikipedia.org/wiki/Get_it_beauty "wikilink")》固定主持�
 
   -
     <small>僅列出個人獲得之獎項，團體獎項請參閱 [Red
-    Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink") \#獎項
-    </small>
+    Velvet](../Page/Red_Velvet.md "wikilink") \#獎項 </small>
 
 <table>
 <tbody>
@@ -384,8 +383,8 @@ beauty](https://zh.wikipedia.org/wiki/Get_it_beauty "wikilink")》固定主持�
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018_MBC演技大獎" title="wikilink">2018 MBC演技大獎</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/偉大的誘惑者" title="wikilink">偉大的誘惑者</a>》</p></td>
+<td><p><a href="../Page/2018_MBC演技大獎.md" title="wikilink">2018 MBC演技大獎</a></p></td>
+<td><p>《<a href="../Page/偉大的誘惑者.md" title="wikilink">偉大的誘惑者</a>》</p></td>
 <td><p>月火迷你劇部門 女子優秀演技獎</p></td>
 <td></td>
 </tr>

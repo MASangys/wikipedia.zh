@@ -10,14 +10,13 @@ Vitara XL-7**。到了2006年第二代上市，則改稱**鈴木XL7**。
 
 1998年 -
 以1997年發售的[第二代Escudo作為基礎](https://zh.wikipedia.org/wiki/鈴木Escudo#第二代（1997年-2005年） "wikilink")，修改成3排座位、可供7人搭乘的SUV；但是也有2排5人的設定。動力心臟為2.7L
-[V型六缸DOHC](https://zh.wikipedia.org/wiki/V6发动机 "wikilink")
+[V型六缸DOHC](../Page/V6发动机.md "wikilink")
 [H27A型引擎](https://zh.wikipedia.org/wiki/鈴木H族引擎#H27A型 "wikilink")，但[印尼市場則搭載](https://zh.wikipedia.org/wiki/印尼 "wikilink")2.5L
-[V型六缸DOHC](https://zh.wikipedia.org/wiki/V6发动机 "wikilink")
+[V型六缸DOHC](../Page/V6发动机.md "wikilink")
 [H25A型引擎](https://zh.wikipedia.org/wiki/鈴木H族引擎#H25A型 "wikilink")。在日本可選擇四速自排或五速手排的變速系統，不過美國市場卻罕見地只有五速手排單一選擇\[2\]。
 
 2001年 - 臺灣[金鈴汽車於](../Page/金鈴汽車.md "wikilink")8月13日正式引進Grand Vitara
-XL-7\[3\]，搭載2.7L
-[V型六缸DOHC](https://zh.wikipedia.org/wiki/V6发动机 "wikilink")
+XL-7\[3\]，搭載2.7L [V型六缸DOHC](../Page/V6发动机.md "wikilink")
 [H27A型引擎](https://zh.wikipedia.org/wiki/鈴木H族引擎#H27A型 "wikilink")，馬力表現為173ps
 / 6,000rpm，扭力表現則是23.5kg·m / 3,300rpm。座椅排列採取2-3-2方式，共可乘坐7人。
 

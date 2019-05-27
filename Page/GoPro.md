@@ -46,7 +46,7 @@ Karma是其消费级[无人机产品](https://zh.wikipedia.org/wiki/无人机 "w
 
 2016年9月，Karma无人机与手柄产品，与新款的 GoPro Hero5 Black
 一同公布，可相互协作。其与[大疆公司的](https://zh.wikipedia.org/wiki/大疆 "wikilink")[Mavic
-Pro为同一时期发布](https://zh.wikipedia.org/wiki/大疆_Mavic_Pro "wikilink")，且价格定位类似，存在竞争关系；但在稍后的11月，无人机产品被发现存在使用中断电问题而被召回，并影响估计大幅下跌\[15\]。在错过圣诞节档期后，于2017年2月重新上架\[16\]。
+Pro为同一时期发布](../Page/大疆_Mavic_Pro.md "wikilink")，且价格定位类似，存在竞争关系；但在稍后的11月，无人机产品被发现存在使用中断电问题而被召回，并影响估计大幅下跌\[15\]。在错过圣诞节档期后，于2017年2月重新上架\[16\]。
 
 由于长期低靡的市场表现，GoPro在2018年初进行了约200～300人规模的裁员，大部分集中在Karma部门\[17\]\[18\]。
 
@@ -54,7 +54,7 @@ Karma的本意为[业](../Page/業.md "wikilink")，来源于印度宗教。
 
 ### GoPro Fusion 全景相机
 
-Fusion是GoPro于2017年11月发布的全景相机产品，可以记录360°\(\times\)180°范围的[全景图](https://zh.wikipedia.org/wiki/全景 "wikilink")。采用了类似该系列先驱[理光THETA产品一样的双镜头一体式设计](https://zh.wikipedia.org/wiki/理光THETA系列 "wikilink")，但两枚镜头并不对称，且整体更加庞大\[19\]，提供了5.2K视频记录能力\[20\]。
+Fusion是GoPro于2017年11月发布的全景相机产品，可以记录360°\(\times\)180°范围的[全景图](https://zh.wikipedia.org/wiki/全景 "wikilink")。采用了类似该系列先驱[理光THETA产品一样的双镜头一体式设计](../Page/理光THETA系列.md "wikilink")，但两枚镜头并不对称，且整体更加庞大\[19\]，提供了5.2K视频记录能力\[20\]。
 
 GoPro在之前的2015与2016年，分别推出**GoPro Odyssey**\[21\]\[22\]与**GoPro
 Omni**\[23\]的全天球视频记录方案，但一体式设计的Fusion姗姗来迟，且在2017年中发布后，延期到11月才开始零星发货\[24\]。

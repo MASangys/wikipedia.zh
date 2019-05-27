@@ -1,4 +1,4 @@
-《**官方Xbox杂志**》（）是电子游戏月刊杂志，在初代[Xbox发售的](https://zh.wikipedia.org/wiki/Xbox "wikilink")2001年11月创刊。E3
+《**官方Xbox杂志**》（）是电子游戏月刊杂志，在初代[Xbox发售的](../Page/Xbox.md "wikilink")2001年11月创刊。E3
 2001上发行了预览刊，并在2001年11月发行了另一期预览刊。杂志捆绑光碟，收录内容有[游戏演示](https://zh.wikipedia.org/wiki/游戏演示 "wikilink")、预览视频、预告片，以及Xbox更新和免费Gamerpic等内容。碟片还有[Xbox
 360向下兼容的Xbox的游戏](../Page/Xbox_360.md "wikilink")，这样无需[宽带与](https://zh.wikipedia.org/wiki/宽带 "wikilink")[Xbox
 Live访问](../Page/Xbox_Live.md "wikilink")。

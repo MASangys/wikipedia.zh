@@ -670,7 +670,7 @@ Clubs**）是四隊[香港超級聯賽傳統強隊的統稱](https://zh.wikipedi
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/查維斯·美查" title="wikilink">查維斯</a></p></td>
+<td><p><a href="../Page/查維斯·美查.md" title="wikilink">查維斯</a></p></td>
 <td><p>香港飛馬</p></td>
 <td><p>3</p></td>
 </tr>
@@ -730,7 +730,7 @@ Clubs**）是四隊[香港超級聯賽傳統強隊的統稱](https://zh.wikipedi
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/麥高·派路域" title="wikilink">麥高派路域</a></p></td>
+<td><p><a href="../Page/麥高·派路域.md" title="wikilink">麥高派路域</a></p></td>
 <td><p>南華</p></td>
 <td><p>1</p></td>
 </tr>

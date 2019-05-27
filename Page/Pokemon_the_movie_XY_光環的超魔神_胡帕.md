@@ -24,16 +24,16 @@
 | [希特隆](https://zh.wikipedia.org/wiki/希特隆_\(神奇寶貝\) "wikilink")（シトロン） | [梶裕貴](../Page/梶裕貴.md "wikilink")                        | [莎拉](../Page/莎拉.md "wikilink")                      |
 | 柚麗嘉（ユリーカ）                                                          | [伊瀨茉莉也](../Page/伊瀨茉莉也.md "wikilink")                    | [顧詠雪](../Page/顧詠雪.md "wikilink")                    |
 | 武藏（ムサシ）                                                            | [林原惠](../Page/林原惠.md "wikilink")                        | [莊巧兒](../Page/莊巧兒.md "wikilink")                    |
-| 小次郎（コジロウ）                                                          | [三木眞一郎](https://zh.wikipedia.org/wiki/三木眞一郎 "wikilink") | [蔡忠衛](https://zh.wikipedia.org/wiki/蔡忠衛 "wikilink") |
+| 小次郎（コジロウ）                                                          | [三木眞一郎](https://zh.wikipedia.org/wiki/三木眞一郎 "wikilink") | [蔡忠衛](../Page/蔡忠衛.md "wikilink")                    |
 | 喵喵（ニャース）                                                           | [犬山犬子](../Page/犬山犬子.md "wikilink")                      | [王夢華](../Page/王夢華.md "wikilink")                    |
 
 ### 客串人物
 
-| 角色       | 配音員                                                                                          | 介紹                                                  |
-| -------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| 日本       | 香港                                                                                           | 臺灣                                                  |
-| 巴爾札（バルザ） | [藤原龍也](../Page/藤原龍也.md "wikilink")/[竹內順子](../Page/竹內順子.md "wikilink")(童年)                    | [簡懷甄](../Page/簡懷甄.md "wikilink")                    |
-| 梅雅利（メアリ） | [中川翔子](../Page/中川翔子.md "wikilink")/[佐倉綾音](https://zh.wikipedia.org/wiki/佐倉綾音 "wikilink")(童年) | [王綺婷](https://zh.wikipedia.org/wiki/王綺婷 "wikilink") |
+| 角色       | 配音員                                                                                          | 介紹                               |
+| -------- | -------------------------------------------------------------------------------------------- | -------------------------------- |
+| 日本       | 香港                                                                                           | 臺灣                               |
+| 巴爾札（バルザ） | [藤原龍也](../Page/藤原龍也.md "wikilink")/[竹內順子](../Page/竹內順子.md "wikilink")(童年)                    | [簡懷甄](../Page/簡懷甄.md "wikilink") |
+| 梅雅利（メアリ） | [中川翔子](../Page/中川翔子.md "wikilink")/[佐倉綾音](https://zh.wikipedia.org/wiki/佐倉綾音 "wikilink")(童年) | [王綺婷](../Page/王綺婷.md "wikilink") |
 
 ### 傳說的神奇寶貝們
 
@@ -55,8 +55,8 @@
 <td><p>胡帕（フーパ）</p></td>
 <td><p><a href="../Page/釘宮理惠.md" title="wikilink">釘宮理惠</a>（懲戒形態）<br />
 <a href="../Page/山寺宏一.md" title="wikilink">山寺宏一</a>（解放形態）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黎皓宜" title="wikilink">黎皓宜</a>（懲戒形態）<br />
-<a href="https://zh.wikipedia.org/wiki/竺諺鴻" title="wikilink">竺諺鴻</a>（解放形態）</p></td>
+<td><p><a href="../Page/黎皓宜.md" title="wikilink">黎皓宜</a>（懲戒形態）<br />
+<a href="../Page/竺諺鴻.md" title="wikilink">竺諺鴻</a>（解放形態）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/洛奇亞.md" title="wikilink">洛奇亞</a>（ルギア）</p></td>

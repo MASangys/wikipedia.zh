@@ -1,5 +1,5 @@
 《**假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰 Full
-Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》和《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》聯動劇場版，日本地區於2014年12月13日上映。
+Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》和《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》聯動劇場版，日本地區於2014年12月13日上映。
 
 本作劇場版的口號為「鎧武、最後的花道！最後的舞台！」「Drive、史上最大的事件\!
 怪盜・Lupin上場！」、「不會停步！水果．汽車一起炸裂！」。
@@ -108,7 +108,7 @@ Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假�
     隸屬特狀課的少年-{}-刑警，專門調查與惡路程式有關的案件。
     因佐魯克東-{条}-每次犯案的現場之中，總會發生「重加速」的現象而需要介入追查事件。
 
-**詩島霧子（）**（[內田理央飾](https://zh.wikipedia.org/wiki/內田理央 "wikilink")）
+**詩島霧子（）**（[內田理央飾](../Page/內田理央.md "wikilink")）
 
   -
     與泊進之介同屬特狀課的女警，亦是假面騎士Drive的支援者。
@@ -140,7 +140,7 @@ Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假�
   -
     特狀課的客席電子物理研究學家，同是為假面騎士Drive作技術支援。
 
-**西城究（）**（[濱野謙太飾](https://zh.wikipedia.org/wiki/濱野謙太 "wikilink")）
+**西城究（）**（[濱野謙太飾](../Page/濱野謙太.md "wikilink")）
 
   -
     特狀課的客席網絡研究家，負責以網絡作情報搜集的工作。
@@ -161,7 +161,7 @@ Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假�
   -
     惡路程式的幹部之一，真身為惡路程式003 / 頭腦惡路程式。
 
-**Chase（）**（[上遠野太洸飾](https://zh.wikipedia.org/wiki/上遠野太洸 "wikilink")）
+**Chase（）**（[上遠野太洸飾](../Page/上遠野太洸.md "wikilink")）
 
   -
     惡路程式的幹部之一，能夠變身成為別稱「死神」的**魔進追跡者**亦真身為惡路程式000。
@@ -655,15 +655,14 @@ Drive鎧甲</p></td>
 #### 登場角色
 
   - 泊進之介 - [竹内涼真](https://zh.wikipedia.org/wiki/竹内涼真 "wikilink") 飾
-  - 詩島霧子 - [內田理央](https://zh.wikipedia.org/wiki/內田理央 "wikilink") 飾
+  - 詩島霧子 - [內田理央](../Page/內田理央.md "wikilink") 飾
   - 早瀨明 -  飾
   - 西堀光也 / 惡路程式005 -  飾/聲
   - 女主播 - [田野アサミ](https://zh.wikipedia.org/wiki/田野アサミ "wikilink") 飾
 
 #### 聲音演出
 
-  - 假面騎士Protodrive -
-    [上遠野太洸](https://zh.wikipedia.org/wiki/上遠野太洸 "wikilink")
+  - 假面騎士Protodrive - [上遠野太洸](../Page/上遠野太洸.md "wikilink")
   - 惡路程式 - [蕨野友也](../Page/蕨野友也.md "wikilink")、
 
 #### 製作人員
@@ -726,19 +725,15 @@ Drive鎧甲</p></td>
 
 **假面騎士Drive**
 
-  - 泊進之介 / 假面騎士Drive -
-    [竹內涼真](https://zh.wikipedia.org/wiki/竹內涼真 "wikilink")
-    飾/聲
-  - 詩島霧子 - [內田理央](https://zh.wikipedia.org/wiki/內田理央 "wikilink") 飾
+  - 泊進之介 / 假面騎士Drive - [竹內涼真](../Page/竹內涼真.md "wikilink") 飾/聲
+  - 詩島霧子 - [內田理央](../Page/內田理央.md "wikilink") 飾
   - 佐魯克東-{条}- / 假面騎士Lupin / Cyberoid ZZZ -  飾/聲
   - Heart / 心臟惡路程式 - [蕨野友也](../Page/蕨野友也.md "wikilink") 飾/聲
   - Brain / 頭腦惡路程式 -  飾/聲
-  - Chase / 魔進追跡者 -
-    [上遠野太洸](https://zh.wikipedia.org/wiki/上遠野太洸 "wikilink")
-    飾/聲
+  - Chase / 魔進追跡者 - [上遠野太洸](../Page/上遠野太洸.md "wikilink") 飾/聲
   - 本願寺純 -  飾
   - 澤神鈴奈 - [吉井怜](../Page/吉井怜.md "wikilink") 飾
-  - 西城究 - [濱野謙太](https://zh.wikipedia.org/wiki/濱野謙太 "wikilink") 飾
+  - 西城究 - [濱野謙太](../Page/濱野謙太.md "wikilink") 飾
   - 追田現八郎 - [井俣太良](../Page/井俣太良.md "wikilink") 飾
   - 克里姆‧施丹伯特 / 腰帶先生（Drive驅動器） -  飾/聲
 

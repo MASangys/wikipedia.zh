@@ -7,7 +7,7 @@ Day**》是美國女歌手[寶拉·阿巴杜在](../Page/寶拉·阿巴杜.md "w
 
 〈The Promise of a New
 Day〉是從[寶拉·阿巴杜第二張個人專輯](../Page/寶拉·阿巴杜.md "wikilink")《**[意亂情迷](../Page/Spellbound_\(專輯\).md "wikilink")**》（）推出的第二首單曲，上一首單曲是〈[Rush
-Rush](https://zh.wikipedia.org/wiki/Rush_Rush "wikilink")〉（5週冠軍）。這是一首旋律討好節奏輕快的流行舞曲，曲風融合了踢踏、現代、爵士和街頭等多種元素。歌詞則是描寫有關於環保的議題，當中寫到一段印地安人的諺語When
+Rush](../Page/Rush_Rush.md "wikilink")〉（5週冠軍）。這是一首旋律討好節奏輕快的流行舞曲，曲風融合了踢踏、現代、爵士和街頭等多種元素。歌詞則是描寫有關於環保的議題，當中寫到一段印地安人的諺語When
 the forest dies，we all die，Leave the jungle alone
 當叢林消失，我們也活不下去，不要去干擾森林，〈The
 Promise of a New Day〉可算是一首發人深省的歌曲。

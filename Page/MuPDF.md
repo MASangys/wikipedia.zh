@@ -21,7 +21,7 @@ MuPDF注重速度、代码轻量及高质量反锯齿渲染。自1.2版起，MuP
 
 许多自由应用软件用MuPDF渲染PDF文档，最有名的是[Sumatra
 PDF](../Page/Sumatra_PDF.md "wikilink")。还可在[Debian](../Page/Debian.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[Archlinux](https://zh.wikipedia.org/wiki/Archlinux "wikilink")、[FreeBSD
-Ports及](https://zh.wikipedia.org/wiki/FreeBSD_Ports "wikilink")[OpenBSD
+Ports及](../Page/FreeBSD_Ports.md "wikilink")[OpenBSD
 Ports作为软件包使用](https://zh.wikipedia.org/wiki/Ports_collection "wikilink")。
 
 该库被一些独立组织移植到多个平台，包括 [Amazon

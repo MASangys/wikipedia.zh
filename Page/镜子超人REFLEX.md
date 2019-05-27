@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td><p>影山恭太郎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/石田信之" title="wikilink">石田信之</a></p></td>
+<td><p><a href="../Page/石田信之.md" title="wikilink">石田信之</a></p></td>
 <td><p>影山鑑的大哥，百襲的父親。<br />
 曾預言過邪仙的出現。<br />
 讓鬼道在現代復活的人。<br />

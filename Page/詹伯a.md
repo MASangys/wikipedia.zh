@@ -73,7 +73,7 @@
   - デモンゴーネの声：[田中信夫](../Page/田中信夫.md "wikilink")（男）、[加川友里](https://zh.wikipedia.org/wiki/鳳芳野 "wikilink")（女）
   - エメラルド星人の声：[納谷悟郎](https://zh.wikipedia.org/wiki/納谷悟朗 "wikilink")
   - 怪獣：坂本道治、岩本照雄、白鳥一夫、高やすのり、森一成、大瀬松一 ほか
-  - ナレーター：[浦野光](https://zh.wikipedia.org/wiki/浦野光 "wikilink")
+  - ナレーター：[浦野光](../Page/浦野光.md "wikilink")
 
 ## 漫画
 

@@ -13,7 +13,7 @@
 
 \(P_{n}(cos\phi;\beta|q)=C_{n}(cos\phi);\beta|q)\)
 
-**Q梅西纳-帕拉泽克多项式**→[连续q拉盖尔多项式](https://zh.wikipedia.org/wiki/连续q拉盖尔多项式 "wikilink")
+**Q梅西纳-帕拉泽克多项式**→[连续q拉盖尔多项式](../Page/连续q拉盖尔多项式.md "wikilink")
 
 \(P_{n}(cos(\theta+\phi);q^{\alpha/2+1/2}|q)=\)\(q^{(-\alpha/2-1/4)*n}*P_{n}^(\alpha)(cos\theta|q)\)
 

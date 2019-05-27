@@ -8,9 +8,7 @@ Xperia Z3
 Compact為[安卓操作系统的輕旗艦](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，作為它的前一代[Sony
 Xperia Z1
 Compact的後續機型](../Page/Sony_Xperia_Z1_Compact.md "wikilink")。同期的競爭對手有[HTC
-One Mini
-2](https://zh.wikipedia.org/wiki/HTC_One_Mini_2 "wikilink")，[Samsung
-Galaxy
+One Mini 2](../Page/HTC_One_Mini_2.md "wikilink")，[Samsung Galaxy
 Alpha](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Alpha "wikilink")，[LG
 G3 Beat](https://zh.wikipedia.org/wiki/LG_G3_Beat "wikilink")，[iPhone
 6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")。

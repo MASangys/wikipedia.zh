@@ -1,4 +1,4 @@
-《**爆Talk**》（）是[香港電視網絡所製作的綜藝清談節目](../Page/香港電視網絡.md "wikilink")，由[劉玉翠](../Page/劉玉翠.md "wikilink")、[古天祥及](https://zh.wikipedia.org/wiki/古天祥 "wikilink")[黃冠斌主持](../Page/黃冠斌.md "wikilink")。節目每集邀請不同嘉賓進行爆料訪談，與觀眾分享明星趣事。
+《**爆Talk**》（）是[香港電視網絡所製作的綜藝清談節目](../Page/香港電視網絡.md "wikilink")，由[劉玉翠](../Page/劉玉翠.md "wikilink")、[古天祥及](../Page/古天祥.md "wikilink")[黃冠斌主持](../Page/黃冠斌.md "wikilink")。節目每集邀請不同嘉賓進行爆料訪談，與觀眾分享明星趣事。
 
 ## 節目列表
 
@@ -115,7 +115,7 @@
 <td><p>14</p></td>
 <td><p>3月21日</p></td>
 <td><p>今集《爆Talk》請來廖安麗跟大家分享從結婚、<a href="https://zh.wikipedia.org/wiki/葉青霖" title="wikilink">丈夫出家到離婚等一切的女人最痛</a>，到底她可以怎樣從新出發？身為廖安麗爆friend的賈思樂更會大爆廖安麗婚姻的箇中內情，當中秘密竟然隱瞞超過20年……</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廖安麗" title="wikilink">廖安麗</a><br />
+<td><p><a href="../Page/廖安麗.md" title="wikilink">廖安麗</a><br />
 <a href="../Page/賈思樂.md" title="wikilink">賈思樂</a></p></td>
 </tr>
 <tr class="odd">

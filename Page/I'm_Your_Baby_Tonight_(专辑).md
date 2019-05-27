@@ -18,11 +18,11 @@ Didn't Know〉，更將惠妮·休斯頓完美到令人激賞的唱功表露無�
 
 《親愛的今夜屬於你》在首週進榜即佔第22名\[4\]，最高成績為第3名\[5\]，成為惠妮·休斯頓出道以來首張未奪冠的[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，它在榜內一共待了將近一年的時間\[6\]。這張專輯也締造出兩首冠軍單曲〈[I'm
 Your Baby
-Tonight](https://zh.wikipedia.org/wiki/I'm_Your_Baby_Tonight_\(歌曲\) "wikilink")〉和〈[All
+Tonight](../Page/I'm_Your_Baby_Tonight_\(歌曲\).md "wikilink")〉和〈[All
 the Man That I
-Need](https://zh.wikipedia.org/wiki/All_the_Man_That_I_Need "wikilink")〉，這將惠妮·休斯頓的全美冠軍單曲累積至9首。專輯中尚包括第9名單曲〈Miracle〉和第20名單曲〈My
+Need](../Page/All_the_Man_That_I_Need.md "wikilink")〉，這將惠妮·休斯頓的全美冠軍單曲累積至9首。專輯中尚包括第9名單曲〈Miracle〉和第20名單曲〈My
 Name Is Not
-Susan〉，專輯的銷售成績也高達四白金。《親愛的今夜屬於你》成為1991年告示牌最佳年度節奏藍調專輯，但在年終專輯榜僅位居第10名，該年度的最佳年度專輯由[瑪麗亞·凱莉的](https://zh.wikipedia.org/wiki/瑪麗亞·凱莉 "wikilink")《[瑪麗亞·凱莉](https://zh.wikipedia.org/wiki/Mariah_Carey_\(專輯\) "wikilink")》獲得\[7\]\[8\]。
+Susan〉，專輯的銷售成績也高達四白金。《親愛的今夜屬於你》成為1991年告示牌最佳年度節奏藍調專輯，但在年終專輯榜僅位居第10名，該年度的最佳年度專輯由[瑪麗亞·凱莉的](../Page/瑪麗亞·凱莉.md "wikilink")《[瑪麗亞·凱莉](https://zh.wikipedia.org/wiki/Mariah_Carey_\(專輯\) "wikilink")》獲得\[7\]\[8\]。
 
 《親愛的今夜屬於你》在英國專輯榜獲得第4名\[9\]。
 
@@ -32,7 +32,7 @@ Susan〉，專輯的銷售成績也高達四白金。《親愛的今夜屬於你
 
 比起前兩張專輯《**[惠妮·休斯頓](../Page/惠特妮·休斯顿_\(专辑\).md "wikilink")**》（）以及《**[惠妮](../Page/Whitney_\(專輯\).md "wikilink")**》（）在全球狂銷熱賣的佳績，《親愛的今夜屬於你》無論是在銷售數字上，或是在排行榜成績方面都大幅衰退，轉型後的惠妮·休斯頓明顯少了許多歌迷，即使如此，這張專輯卻獲得眾多樂評的讚賞，認為是惠妮·休斯頓出道以來最好也最完整的一張專輯，[滾石雜誌也給了這張專輯三顆星的評價](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")，並將惠妮·休斯頓在流行樂壇的地位提升到和[麥可·傑克森與](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")[瑪丹娜的水準](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")。\[10\]。
 
-1990年惠妮·休斯頓的轉型大作《親愛的今夜屬於你》除了要和自己昔日的成績一較高下之外，另外她必須要面對一個剛崛起的新樂壇敵手[瑪麗亞·凱莉](https://zh.wikipedia.org/wiki/瑪麗亞·凱莉 "wikilink")，後者以初生之犢不畏虎之姿炫風式竄起。惠妮·休斯頓要如何面對瑪麗亞·凱莉來勢洶洶的衝擊，頓時之間成為各大媒體爭相報導的熱門焦點。1989年惠妮·休斯頓認識了當紅的黑人新天王[巴比·布朗](https://zh.wikipedia.org/wiki/鮑比·布朗 "wikilink")，縱使這相差6歲的姐弟戀並不被外界所看好，但沉醉在愛河中的兩人還是在1992年7月18日攜手步入禮堂。
+1990年惠妮·休斯頓的轉型大作《親愛的今夜屬於你》除了要和自己昔日的成績一較高下之外，另外她必須要面對一個剛崛起的新樂壇敵手[瑪麗亞·凱莉](../Page/瑪麗亞·凱莉.md "wikilink")，後者以初生之犢不畏虎之姿炫風式竄起。惠妮·休斯頓要如何面對瑪麗亞·凱莉來勢洶洶的衝擊，頓時之間成為各大媒體爭相報導的熱門焦點。1989年惠妮·休斯頓認識了當紅的黑人新天王[巴比·布朗](https://zh.wikipedia.org/wiki/鮑比·布朗 "wikilink")，縱使這相差6歲的姐弟戀並不被外界所看好，但沉醉在愛河中的兩人還是在1992年7月18日攜手步入禮堂。
 
 ### 獎項
 

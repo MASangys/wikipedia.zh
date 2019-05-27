@@ -23,7 +23,7 @@
 ## 平面设计
 
 [Hindenburg_burning.jpg](https://zh.wikipedia.org/wiki/File:Hindenburg_burning.jpg "fig:Hindenburg_burning.jpg")在[着火几秒钟时的景象](../Page/興登堡號空難.md "wikilink")。\]\]
-佩奇选择了一张[興登堡號飛船在空中燃烧的黑白照片作为](https://zh.wikipedia.org/wiki/興登堡號飛船 "wikilink")《》的专辑封面，意指乐队名字的由来\[19\]。封底是乐队的一张照片，由前[雏鸟乐队成员](../Page/雏鸟乐队.md "wikilink")[克里斯·德雷加拍摄](https://zh.wikipedia.org/wiki/克里斯·德雷加 "wikilink")\[20\]。唱片套的整体设计由负责，他也设计了乐队后来的几张专辑\[21\]。2001年，乐评人在《[滚石](https://zh.wikipedia.org/wiki/滚石_\(杂志\) "wikilink")》杂志上写道：“《》的封面……是兴登堡号燃烧着下坠，充满了阳具崇拜式的荣耀。这图像很好地概括了里面的音乐：性、灾祸和爆炸。\[22\]”
+佩奇选择了一张[興登堡號飛船在空中燃烧的黑白照片作为](https://zh.wikipedia.org/wiki/興登堡號飛船 "wikilink")《》的专辑封面，意指乐队名字的由来\[19\]。封底是乐队的一张照片，由前[雏鸟乐队成员](../Page/雏鸟乐队.md "wikilink")[克里斯·德雷加拍摄](../Page/克里斯·德雷加.md "wikilink")\[20\]。唱片套的整体设计由负责，他也设计了乐队后来的几张专辑\[21\]。2001年，乐评人在《[滚石](https://zh.wikipedia.org/wiki/滚石_\(杂志\) "wikilink")》杂志上写道：“《》的封面……是兴登堡号燃烧着下坠，充满了阳具崇拜式的荣耀。这图像很好地概括了里面的音乐：性、灾祸和爆炸。\[22\]”
 
 ## 创作
 

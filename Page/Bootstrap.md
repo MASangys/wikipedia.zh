@@ -44,7 +44,7 @@ Bootstrap采用模块化设计，并且用[LESS样式表语言来实现各种组
 
 通过一个基本配置文件可以进行有限的定制，此外也可以进行更加深入的定制。
 
-LESS语言支持变量、函数、运算符、组合选择器和一个叫做[Mixin](https://zh.wikipedia.org/wiki/Mixin "wikilink")（混入）的功能。
+LESS语言支持变量、函数、运算符、组合选择器和一个叫做[Mixin](../Page/Mixin.md "wikilink")（混入）的功能。
 
 从Bootstrap
 2.0开始，Bootstrap文档包括一个叫做“自定义”的特别选项，开发者可以根据自己的实际需要来选择包含的组件和效果，然后生成和下载已经编译好的包。

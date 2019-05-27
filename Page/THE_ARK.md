@@ -14,8 +14,7 @@ YUNA KIM、珉柱已經在兩個月前提出終止合約，決定退出 THE ARK 
 Music K娛樂雖然沒有表示THE ARK現在的情況，但在2016年他們將公司主頁的藝人欄中無有關THE
 ARK的資料，以及于2017年申請撤銷THE
 ARK的官方Facebook及推特的帳號。而其餘成員HALLA和Jane也作爲[Real
-Girls
-Project一員活動](https://zh.wikipedia.org/wiki/Real_Girls_Project "wikilink")，成員有珍也在Power
+Girls Project一員活動](../Page/Real_Girls_Project.md "wikilink")，成員有珍也在Power
 Vocal作爲學員培訓中，她們也終止與公司的合約。這種種現象足以證明THE ARK已在2016年解散\[2\]。
 
 ## 組合資料
@@ -92,21 +91,21 @@ Performing Project)
 #### 2017年
 
 4月2日，成員**珉柱**打破自身记录，在《[K-pop Star
-6](https://zh.wikipedia.org/wiki/K-pop_Star_6 "wikilink")》中获得Top
-4名次。4月14日，与HYWY娱乐签约。4月26日，HYWY娱乐表示珉柱將作爲为新五人女子組合DAYDAY其中一员，计划在7月出道。\[10\]\[11\]4月28日，成員**漢拏**和**JANE**主演的《[偶像大師.KR](https://zh.wikipedia.org/wiki/偶像大師.KR "wikilink")》首播。\[12\]4月29日，成員**珉柱**首次为电视剧SBS《[姐姐风采依旧](https://zh.wikipedia.org/wiki/姐姐风采依旧 "wikilink")》演唱OST。\[13\]10月21日，因公司自身的情況以及與成員之間意見的差異，HYWY娛樂宣布DAYDAY將不會出道。並於10月23日刪除官方SNS及關閉官咖。\[14\]
+6](../Page/K-pop_Star_6.md "wikilink")》中获得Top
+4名次。4月14日，与HYWY娱乐签约。4月26日，HYWY娱乐表示珉柱將作爲为新五人女子組合DAYDAY其中一员，计划在7月出道。\[10\]\[11\]4月28日，成員**漢拏**和**JANE**主演的《[偶像大師.KR](../Page/偶像大師.KR.md "wikilink")》首播。\[12\]4月29日，成員**珉柱**首次为电视剧SBS《[姐姐风采依旧](https://zh.wikipedia.org/wiki/姐姐风采依旧 "wikilink")》演唱OST。\[13\]10月21日，因公司自身的情況以及與成員之間意見的差異，HYWY娛樂宣布DAYDAY將不會出道。並於10月23日刪除官方SNS及關閉官咖。\[14\]
 
 11月4日，成員**Yuna Kim**及**漢拏**以**前THE
 ARK**成員的身份參與[KBS偶像重振計劃](https://zh.wikipedia.org/wiki/KBS "wikilink")《[The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》。\[15\]\[16\]\[17\]\[18\]\[19\]\[20\]
+Unit](../Page/The_Unit.md "wikilink")》。\[15\]\[16\]\[17\]\[18\]\[19\]\[20\]
 
 #### 2018年
 
 2月11日，在选秀節目《The
-Unit》的最後一集中，成員**漢拏**獲得第9名，進入期間限定團體**[UNI.T](https://zh.wikipedia.org/wiki/UNI.T "wikilink")**出道。**Yuna
+Unit》的最後一集中，成員**漢拏**獲得第9名，進入期間限定團體**[UNI.T](../Page/UNI.T.md "wikilink")**出道。**Yuna
 Kim**則以第10名遺憾落選。\[21\]
 
 3月26日，據媒體報導，**全珉柱**將和**Yuna
-Kim**組成分隊，並獲得公司證實正在討論相關細節。\[22\]4月12日，[Maroo企劃表示全珉柱與Yuna](https://zh.wikipedia.org/wiki/Maroo企劃 "wikilink")
+Kim**組成分隊，並獲得公司證實正在討論相關細節。\[22\]4月12日，[Maroo企劃表示全珉柱與Yuna](../Page/Maroo企劃.md "wikilink")
 Kim組成了雙人組合[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")，目前正以5月中旬出道為目標進行相關準備工作。\[23\]
 
 ## 成員資料
@@ -185,15 +184,15 @@ Kim Tae-sung{{·}}Iconic Sounds{{·}}220 | Writer = Sophia Pae }}
   -
     <small>依官方YOUTUBE上傳時間排序。</small>
 
-|            |                                                               |                                                                                   |                                                               |
-| ---------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| 發佈日期       | 參與成員                                                          | 歌曲名稱                                                                              | 演唱者                                                           |
-| 2014年11月5日 | HALLA                                                         | [Cheer Up](https://www.youtube.com/watch?v=RYV1s0ylNFM)                           | [洪真英](../Page/洪真英.md "wikilink")                              |
-| 2015年4月9日  | [The Light](https://www.youtube.com/watch?v=yRXUkx3lh74)      | The Ark                                                                           |                                                               |
-| 2016年6月5日  | HALLA & JANE                                                  | [One For All](https://www.youtube.com/watch?v=06b86Rs_1eI)                        | THE IDOLM@STER.KR @ B Team                                    |
-| 2016年8月24日 | [Dream](https://www.youtube.com/watch?v=PJC3Uey1Ipg)          | [Real Girls Project](https://zh.wikipedia.org/wiki/Real_Girls_Project "wikilink") |                                                               |
-| 2017年4月11日 | HALLA                                                         | [ACACIA](https://www.youtube.com/watch?v=394e159oiZY)                             | [Red Queen](https://zh.wikipedia.org/wiki/偶像大師.KR "wikilink") |
-| 2017年8月2日  | [PING PONG GAME](https://www.youtube.com/watch?v=3lGyl9oPwD8) | Real Girls Project                                                                |                                                               |
+|            |                                                               |                                                                |                                            |
+| ---------- | ------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------ |
+| 發佈日期       | 參與成員                                                          | 歌曲名稱                                                           | 演唱者                                        |
+| 2014年11月5日 | HALLA                                                         | [Cheer Up](https://www.youtube.com/watch?v=RYV1s0ylNFM)        | [洪真英](../Page/洪真英.md "wikilink")           |
+| 2015年4月9日  | [The Light](https://www.youtube.com/watch?v=yRXUkx3lh74)      | The Ark                                                        |                                            |
+| 2016年6月5日  | HALLA & JANE                                                  | [One For All](https://www.youtube.com/watch?v=06b86Rs_1eI)     | THE IDOLM@STER.KR @ B Team                 |
+| 2016年8月24日 | [Dream](https://www.youtube.com/watch?v=PJC3Uey1Ipg)          | [Real Girls Project](../Page/Real_Girls_Project.md "wikilink") |                                            |
+| 2017年4月11日 | HALLA                                                         | [ACACIA](https://www.youtube.com/watch?v=394e159oiZY)          | [Red Queen](../Page/偶像大師.KR.md "wikilink") |
+| 2017年8月2日  | [PING PONG GAME](https://www.youtube.com/watch?v=3lGyl9oPwD8) | Real Girls Project                                             |                                            |
 
 ### Choreography / Dance Cover
 

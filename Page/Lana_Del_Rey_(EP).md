@@ -15,7 +15,7 @@ Rey）的第二张EP，于2012年1月10日通过[新视镜唱片公司在](https
   - [Paradise](../Page/Paradise_\(EP\).md "wikilink")
   - [Kill Kill](../Page/Kill_Kill_\(EP\).md "wikilink")
   - [Born to Die - The Paradise
-    Edition](https://zh.wikipedia.org/wiki/生死相守_–_天堂版_\(专辑\) "wikilink")
-  - [Tropico](https://zh.wikipedia.org/wiki/Tropico_\(微电影\) "wikilink")
+    Edition](../Page/生死相守_–_天堂版_\(专辑\).md "wikilink")
+  - [Tropico](../Page/Tropico_\(微电影\).md "wikilink")
 
 [Category:美國流行音樂](https://zh.wikipedia.org/wiki/Category:美國流行音樂 "wikilink")

@@ -31,14 +31,14 @@ LG6主要旨在一人手持式使用，并设有镂空式[槍托](../Page/槍托
   - [97式枪挂榴彈發射器](https://zh.wikipedia.org/wiki/97式枪挂榴彈發射器 "wikilink")
   - [04式自动榴弹发射器](../Page/04式自动榴弹发射器.md "wikilink")（QLZ-04）
   - [06式半自動榴彈發射器](../Page/06式半自動榴彈發射器.md "wikilink")（QLB-06）
-  - [10／10A式枪挂榴弹发射器](https://zh.wikipedia.org/wiki/10式枪挂榴弹发射器 "wikilink")（QLG-10／QLG-10A）
-  - [11式狙击榴弹发射器](https://zh.wikipedia.org/wiki/11式狙击榴弹发射器 "wikilink")（QLU-11）
+  - [10／10A式枪挂榴弹发射器](../Page/10式枪挂榴弹发射器.md "wikilink")（QLG-10／QLG-10A）
+  - [11式狙击榴弹发射器](../Page/11式狙击榴弹发射器.md "wikilink")（QLU-11）
   - [LG1／LG2枪挂式榴弹发射器](https://zh.wikipedia.org/wiki/LG1枪挂榴弹发射器 "wikilink")
   - [LG3自动榴弹发射器](../Page/LG3自动榴弹发射器.md "wikilink")
   - [LG4转轮式榴弹发射器](../Page/LG4转轮式榴弹发射器.md "wikilink")
   - [LG5狙击榴弹发射器](../Page/LG5狙击榴弹发射器.md "wikilink")
   - [XM25反防禦目標應對系統](../Page/XM25反防禦目標應對系統.md "wikilink")
-  - [丹尼爾PAW-20半自動榴彈發射器](https://zh.wikipedia.org/wiki/丹尼爾PAW-20半自動榴彈發射器 "wikilink")
+  - [丹尼爾PAW-20半自動榴彈發射器](../Page/丹尼爾PAW-20半自動榴彈發射器.md "wikilink")
 
 ## 外部連結
 

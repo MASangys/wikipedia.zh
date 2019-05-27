@@ -61,7 +61,7 @@
 
 <!-- end list -->
 
-  - **雙龍法師**（[柄本明飾](https://zh.wikipedia.org/wiki/柄本明 "wikilink")）
+  - **雙龍法師**（[柄本明飾](../Page/柄本明.md "wikilink")）
 
 <!-- end list -->
 
@@ -223,7 +223,7 @@
 <td><p>ヘデラ人間態 - <a href="https://zh.wikipedia.org/wiki/やべきょうすけ" title="wikilink">やべきょうすけ</a><br />
 ゲリル人間態 - <a href="https://zh.wikipedia.org/wiki/前田健" title="wikilink">前田健</a><br />
 魔戒法師ヒカゲ - <a href="https://zh.wikipedia.org/wiki/奥井雅美" title="wikilink">奥井雅美</a><br />
-魔戒法師モユル - <a href="https://zh.wikipedia.org/wiki/松村雄基" title="wikilink">松村雄基</a><br />
+魔戒法師モユル - <a href="../Page/松村雄基.md" title="wikilink">松村雄基</a><br />
 ガルド幼少期 - <a href="https://zh.wikipedia.org/wiki/市村涼風" title="wikilink">市村涼風</a><br />
 ハルナ幼少期 - <a href="https://zh.wikipedia.org/wiki/木村日翠" title="wikilink">木村日翠</a></p></td>
 </tr>
@@ -265,7 +265,7 @@
 <td><p>第十七話</p></td>
 <td><p>鏡</p></td>
 <td><p>ユウト - <a href="https://zh.wikipedia.org/wiki/中野魁星" title="wikilink">中野魁星</a><br />
-魔戒法師モユル - <a href="https://zh.wikipedia.org/wiki/松村雄基" title="wikilink">松村雄基</a><br />
+魔戒法師モユル - <a href="../Page/松村雄基.md" title="wikilink">松村雄基</a><br />
 ガルド幼少期 - <a href="https://zh.wikipedia.org/wiki/市村涼風" title="wikilink">市村涼風</a><br />
 ハルナ幼少期 - <a href="https://zh.wikipedia.org/wiki/木村日翠" title="wikilink">木村日翠</a></p></td>
 </tr>

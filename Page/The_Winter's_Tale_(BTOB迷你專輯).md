@@ -84,7 +84,7 @@ Tale**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2015年Gaon專輯冠軍作品列表" title="wikilink">專輯週榜</a></p></td>
+<td><p><a href="../Page/2015年Gaon專輯冠軍作品列表.md" title="wikilink">專輯週榜</a></p></td>
 <td><p>2015年1月4日－1月10日</p></td>
 <td><p>#1</p></td>
 <td><p>[3]</p></td>

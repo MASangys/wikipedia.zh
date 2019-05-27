@@ -37,7 +37,7 @@ X25-E等較新的闪存SSD固態硬碟其IOPS會比傳統的硬碟要高，在Xs
 X25-E 64 GB G1的IOPS一開始有 10000 IOPs，在八分鐘後快速掉到4000
 IOPS，之後的42分鐘持續的下降，自第50分鐘起到第八小時之間，IOPS在3000至4000之間變化\[11\]。即使第50分鐘IOPS快速下降，X25-E的IOPS仍較傳統硬碟要高。像[OCZRevoDrive](../Page/OCZ.md "wikilink")
 3 x2
-PCIe用[SandForce控制器](https://zh.wikipedia.org/wiki/SandForce "wikilink")，其持續寫入性能和讀取速度大致相近\[12\]。
+PCIe用[SandForce控制器](../Page/SandForce.md "wikilink")，其持續寫入性能和讀取速度大致相近\[12\]。
 
 ## 一些IOPS的範例
 
@@ -85,7 +85,7 @@ PCIe用[SandForce控制器](https://zh.wikipedia.org/wiki/SandForce "wikilink")�
 <td><p>SSD</p></td>
 <td><p>~20,000 IOPS[22]。</p></td>
 <td><p>SATA 3 Gbit/s</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SandForce" title="wikilink">SandForce</a>-1200為基礎的固態硬體，配合加強版的韌體，最快可到50,000 IOPS，性能测试的結果是隨機讀取可到~25,000 IOPS，隨機寫入可到~15,000 IOPS[23]。</p></td>
+<td><p><a href="../Page/SandForce.md" title="wikilink">SandForce</a>-1200為基礎的固態硬體，配合加強版的韌體，最快可到50,000 IOPS，性能测试的結果是隨機讀取可到~25,000 IOPS，隨機寫入可到~15,000 IOPS[23]。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/OCZ_Storage_Solutions" title="wikilink">OCZ</a> Vertex 3</p></td>

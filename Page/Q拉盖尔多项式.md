@@ -16,7 +16,7 @@ Q-拉盖尔多项式满足下列正交关系
 
 在校q雅可比多项式的定义中，令\(a=q^\alpha\)以及\(x  \to  -b^{-1}q^{-1}\),并令\(b \to \infty\),即得q拉盖尔多项式。
 
-  - [Q梅西纳多项式](https://zh.wikipedia.org/wiki/Q梅西纳多项式 "wikilink")→Q拉盖尔多项式;
+  - [Q梅西纳多项式](../Page/Q梅西纳多项式.md "wikilink")→Q拉盖尔多项式;
 
 令Q梅西纳多项式中\(b=q^\alpha\),以及\(q^{-x}=cq^{\alpha}x\),然后取\(c  \to  \infty\)即得Q拉盖尔多项式。
 

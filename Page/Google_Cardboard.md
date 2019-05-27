@@ -6,15 +6,15 @@ I/O开发者大会上亮相](https://zh.wikipedia.org/wiki/Google_I/O "wikilink"
 View允许开发者嵌入网络及他们移动应用中的VR内容。
 
 到2017年3月，Cardboard发货量超过1000万个，1.6亿个Cardboard应用程序上线。乘着Cardboard平台的成功，Google在2016年的Google
-I/O上宣布了增强VR平台[Daydream](https://zh.wikipedia.org/wiki/Google_Daydream "wikilink")。
+I/O上宣布了增强VR平台[Daydream](../Page/Google_Daydream.md "wikilink")。
 
 ## 组装和操作
 
 Google
 Cardboard头盔利用简单低廉的组件制作。头盔规格由Google设计，零件清单、原理图和组装说明书在其网站上免费提供，让人们从现成的零件中组装Cardboard。预先做好的头盔只能从第三方供应商取得，直到2016年2月，Google开始透过[Google
-Store销售自家出产的头盔](https://zh.wikipedia.org/wiki/Google_Store "wikilink")\[5\]。
+Store销售自家出产的头盔](../Page/Google_Store.md "wikilink")\[5\]。
 
-组装Cardboard头盔的零件有一块切割成精确形状的[纸板](https://zh.wikipedia.org/wiki/纸板 "wikilink")、45mm[焦距](../Page/焦距.md "wikilink")[透镜](../Page/透镜.md "wikilink")、[磁铁或](https://zh.wikipedia.org/wiki/磁铁 "wikilink")[电容式感应胶带](../Page/电容式感应.md "wikilink")、[尼龙搭扣](../Page/尼龙搭扣.md "wikilink")（如[维克罗](https://zh.wikipedia.org/wiki/维克罗 "wikilink")）、橡皮圈和可选的[近场通信标签](https://zh.wikipedia.org/wiki/近场通信 "wikilink")。Google为大规模制造提供额外的建议，基于这些计划的预组装套件源于多个供应商，成本不到5美元\[6\]，这些供应商也制作各种Cardboard。
+组装Cardboard头盔的零件有一块切割成精确形状的[纸板](https://zh.wikipedia.org/wiki/纸板 "wikilink")、45mm[焦距](../Page/焦距.md "wikilink")[透镜](../Page/透镜.md "wikilink")、[磁铁或](https://zh.wikipedia.org/wiki/磁铁 "wikilink")[电容式感应胶带](../Page/电容式感应.md "wikilink")、[尼龙搭扣](../Page/尼龙搭扣.md "wikilink")（如[维克罗](../Page/维克罗.md "wikilink")）、橡皮圈和可选的[近场通信标签](https://zh.wikipedia.org/wiki/近场通信 "wikilink")。Google为大规模制造提供额外的建议，基于这些计划的预组装套件源于多个供应商，成本不到5美元\[6\]，这些供应商也制作各种Cardboard。
 
 组件装好后，将智能手机插入设备背部，用所选的紧固装备固定。兼容Google
 Cardboard的应用程序将智能手机显示的画面分成两个，每个眼睛一个，同时对每个画面进行桶形失真，抵消镜头的[枕形失真](https://zh.wikipedia.org/wiki/畸變 "wikilink")\[7\]，形成视野广阔的[立体](https://zh.wikipedia.org/wiki/3D眼镜 "wikilink")（3D）图像。
@@ -72,7 +72,7 @@ VR”移动应用使用。组委会联合Vantage.tv提供音乐节的VR内容，
 2016年1月27日，Google宣布平台第19个月，Cardboard发货量超过500个，上架的兼容应用超过1000个，安装次数达2500多万次。公司介绍，期间用户观看了超过35万小时的YouTube
 VR视频，50万名学生通过Expeditions计划进行VR实地考察\[35\]\[36\]。到2017年3月，发货量突破1000万，应用程序下载量超过1.6亿次\[37\]。
 
-Cardboard的成功说服Google开发更先进的虚拟现实硬件并任命新的虚拟现实主管\[38\]。2016年5月18日，Google在I/O大会上公布了名为[Daydream的增强型VR平台](https://zh.wikipedia.org/wiki/Google_Daydream "wikilink")\[39\]。
+Cardboard的成功说服Google开发更先进的虚拟现实硬件并任命新的虚拟现实主管\[38\]。2016年5月18日，Google在I/O大会上公布了名为[Daydream的增强型VR平台](../Page/Google_Daydream.md "wikilink")\[39\]。
 
 ## 參見
 

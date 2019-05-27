@@ -50,7 +50,7 @@ LG4的支撑框有著著很高的强度安全系数。即使整枝发射器从1.
 
 ### 瞄準具和皮卡汀尼导轨
 
-LG4设置了全射程[机械瞄具](https://zh.wikipedia.org/wiki/机械瞄具 "wikilink")，分別是[立式標尺及片狀](https://zh.wikipedia.org/wiki/立式標尺 "wikilink")[準星](../Page/照準器.md "wikilink")，可进行概略瞄准，表尺可折叠以便于携行。虽然LG4自带的机械瞄具可满足基本瞄准要求，但标准配备的一款专用[激光](../Page/激光.md "wikilink")[全息瞄准镜能极大地提高其精度](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")。
+LG4设置了全射程[机械瞄具](https://zh.wikipedia.org/wiki/机械瞄具 "wikilink")，分別是[立式標尺及片狀](https://zh.wikipedia.org/wiki/立式標尺 "wikilink")[準星](../Page/照準器.md "wikilink")，可进行概略瞄准，表尺可折叠以便于携行。虽然LG4自带的机械瞄具可满足基本瞄准要求，但标准配备的一款专用[激光](../Page/激光.md "wikilink")[全息瞄准镜能极大地提高其精度](../Page/全像武器照準器.md "wikilink")。
 
 枪管和支撑框均有标准[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")。任何瞄准镜都需要通过MIL-STD-1913戰術导轨安装在发射器支撑框上部。而因榴弹的弹道较弯曲，其专用激光全息瞄准镜设有拔插式射角装定机构。这样使使瞄准镜可倾斜设置，因此瞄准镜轴线与发射管轴线具有一定夹角。拔插式射角装定机构的装定射距以50米为刻度分划。打开瞄准镜以后，瞄准镜内便会显示一个可调節亮度的瞄准环。当插销插入对应射距的孔位后，以瞄准镜内瞄准环对准目标即可发射。射击时，使用者一只眼睛盯住瞄准镜内的瞄准环，另一只眼睛则可畅通无阻地从瞄准镜外观察目标。该瞄准镜智能化高，使用简单，大大提高了射手在400米全射程上的射击精度。
 
@@ -68,12 +68,12 @@ LG4可以发射中国內外的各种[40×46毫米系列低速榴彈](../Page/40�
   - [97式枪挂榴彈發射器](https://zh.wikipedia.org/wiki/97式枪挂榴彈發射器 "wikilink")
   - [04式自动榴弹发射器](../Page/04式自动榴弹发射器.md "wikilink")（QLZ-04）
   - [06式半自動榴彈發射器](../Page/06式半自動榴彈發射器.md "wikilink")（QLB-06）
-  - [10／10A式枪挂榴弹发射器](https://zh.wikipedia.org/wiki/10式枪挂榴弹发射器 "wikilink")（QLG-10／QLG-10A）
-  - [11式狙击榴弹发射器](https://zh.wikipedia.org/wiki/11式狙击榴弹发射器 "wikilink")（QLU-11）
+  - [10／10A式枪挂榴弹发射器](../Page/10式枪挂榴弹发射器.md "wikilink")（QLG-10／QLG-10A）
+  - [11式狙击榴弹发射器](../Page/11式狙击榴弹发射器.md "wikilink")（QLU-11）
   - [LG1／LG2枪挂式榴弹发射器](https://zh.wikipedia.org/wiki/LG1枪挂榴弹发射器 "wikilink")
   - [LG3自动榴弹发射器](../Page/LG3自动榴弹发射器.md "wikilink")
-  - [LG5狙击榴弹发射器](https://zh.wikipedia.org/wiki/LG5狙击榴弹发射器 "wikilink")
-  - [LG6半自动榴弹发射器](https://zh.wikipedia.org/wiki/LG6半自动榴弹发射器 "wikilink")
+  - [LG5狙击榴弹发射器](../Page/LG5狙击榴弹发射器.md "wikilink")
+  - [LG6半自动榴弹发射器](../Page/LG6半自动榴弹发射器.md "wikilink")
   - [阿森納雪崩轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/阿森納雪崩轉輪式榴彈發射器 "wikilink")
   - [阿森納MSGL轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/阿森納MSGL轉輪式榴彈發射器 "wikilink")
   - \-{[米尔科姆转轮连发式榴弹发射器](../Page/米尔科姆转轮连发式榴弹发射器.md "wikilink")}-
@@ -84,10 +84,10 @@ LG4可以发射中国內外的各种[40×46毫米系列低速榴彈](../Page/40�
     RBG-6轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/RH-ALAN_RBG-6轉輪式榴彈發射器 "wikilink")
   - [Zastava
     MSRG-40轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/Zastava_MSRG-40轉輪式榴彈發射器 "wikilink")
-  - [RGA-86轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/RGA-86轉輪式榴彈發射器 "wikilink")
+  - [RGA-86轉輪式榴彈發射器](../Page/RGA-86轉輪式榴彈發射器.md "wikilink")
   - [CZW
     RAG-30自動榴彈發射器](https://zh.wikipedia.org/wiki/CZW_RAG-30自動榴彈發射器 "wikilink")
-  - [丹尼爾PAW-20半自動榴彈發射器](https://zh.wikipedia.org/wiki/丹尼爾PAW-20半自動榴彈發射器 "wikilink")
+  - [丹尼爾PAW-20半自動榴彈發射器](../Page/丹尼爾PAW-20半自動榴彈發射器.md "wikilink")
   - [XM25反防禦目標應對系統](../Page/XM25反防禦目標應對系統.md "wikilink")
   - [左輪手槍](https://zh.wikipedia.org/wiki/左輪手槍 "wikilink")
   - [前鋒型霰彈槍](../Page/前鋒型霰彈槍.md "wikilink")

@@ -24,7 +24,7 @@
 <tr class="even">
 <td><p>1月12日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/假面女子" title="wikilink">假面女子</a></p></td>
+<td><p><a href="../Page/假面女子.md" title="wikilink">假面女子</a></p></td>
 <td><p>13.2</p></td>
 <td><p>1</p></td>
 </tr>
@@ -37,7 +37,7 @@
 </tr>
 <tr class="even">
 <td><p>1月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/有頂天" title="wikilink">有頂天</a></p></td>
+<td><p><a href="../Page/有頂天.md" title="wikilink">有頂天</a></p></td>
 <td><p><a href="../Page/B&#39;z.md" title="wikilink">B'z</a></p></td>
 <td><p>13.4</p></td>
 <td><p>1</p></td>
@@ -65,7 +65,7 @@
 </tr>
 <tr class="even">
 <td><p>2月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/記憶／心靈躍動" title="wikilink">記憶／心靈躍動</a></p></td>
+<td><p><a href="../Page/記憶／心靈躍動.md" title="wikilink">記憶／心靈躍動</a></p></td>
 <td><p><a href="../Page/澀谷昴.md" title="wikilink">澀谷昴</a></p></td>
 <td><p>10.1</p></td>
 <td><p>1</p></td>
@@ -79,14 +79,14 @@
 </tr>
 <tr class="even">
 <td><p>3月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sakura_(嵐)" title="wikilink">Sakura</a></p></td>
+<td><p><a href="../Page/Sakura_(嵐).md" title="wikilink">Sakura</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>46.5</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Green_Flash_(AKB48單曲)" title="wikilink">Green Flash</a></p></td>
+<td><p><a href="../Page/Green_Flash_(AKB48單曲).md" title="wikilink">Green Flash</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>100.1</p></td>
 <td><p>1</p></td>
@@ -100,7 +100,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/生命如此美好" title="wikilink">生命如此美好</a></p></td>
+<td><p><a href="../Page/生命如此美好.md" title="wikilink">生命如此美好</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></p></td>
 <td><p>50.0</p></td>
 <td><p>1</p></td>
@@ -114,7 +114,7 @@
 </tr>
 <tr class="odd">
 <td><p>4月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/風情萬種塞車中" title="wikilink">風情萬種塞車中</a></p></td>
+<td><p><a href="../Page/風情萬種塞車中.md" title="wikilink">風情萬種塞車中</a></p></td>
 <td><p><a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
 <td><p>64.0</p></td>
 <td><p>1</p></td>
@@ -156,7 +156,7 @@
 </tr>
 <tr class="odd">
 <td><p>5月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/青空下，和你一起" title="wikilink">青空下，和你一起</a></p></td>
+<td><p><a href="../Page/青空下，和你一起.md" title="wikilink">青空下，和你一起</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>50.1</p></td>
 <td><p>1</p></td>
@@ -184,7 +184,7 @@
 </tr>
 <tr class="odd">
 <td><p>6月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/RED" title="wikilink">RED</a></p></td>
+<td><p><a href="../Page/RED.md" title="wikilink">RED</a></p></td>
 <td><p><a href="../Page/B&#39;z.md" title="wikilink">B'z</a></p></td>
 <td><p>15.7</p></td>
 <td><p>1</p></td>
@@ -353,7 +353,7 @@
 <tr class="odd">
 <td><p>12月7日</p></td>
 <td><p><a href="../Page/吵死了！.md" title="wikilink">吵死了！</a></p></td>
-<td><p>HKT48 feat. <a href="https://zh.wikipedia.org/wiki/氣志團" title="wikilink">氣志團</a></p></td>
+<td><p>HKT48 feat. <a href="../Page/氣志團.md" title="wikilink">氣志團</a></p></td>
 <td><p>28.1</p></td>
 <td><p>1</p></td>
 </tr>
@@ -390,7 +390,7 @@
 
 ## 參見
 
-  - [2015年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2015年Oricon專輯週榜冠軍作品列表 "wikilink")
+  - [2015年Oricon專輯週榜冠軍作品列表](../Page/2015年Oricon專輯週榜冠軍作品列表.md "wikilink")
 
 ## 參考資料
 

@@ -61,7 +61,7 @@ Team A</p></td>
 <td><p><a href="../Page/埼玉縣.md" title="wikilink">埼玉縣</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/川本紗矢" title="wikilink">川本紗矢</a></p></td>
+<td><p><a href="../Page/川本紗矢.md" title="wikilink">川本紗矢</a></p></td>
 <td><p><br />
 Kawamoto Saya</p></td>
 <td><p><br />
@@ -95,7 +95,7 @@ Team B</p></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/矢吹奈子" title="wikilink">矢吹奈子</a></p></td>
+<td><p><a href="../Page/矢吹奈子.md" title="wikilink">矢吹奈子</a></p></td>
 <td><p><br />
 Yabuki Nako</p></td>
 <td><p><br />

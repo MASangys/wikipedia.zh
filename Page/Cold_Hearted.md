@@ -10,7 +10,7 @@ Hearted〉是從[寶拉·阿巴杜首張專輯](../Page/寶拉·阿巴杜.md "wi
 Out〉（第41名）、〈[(It's Just) the Way That You Love
 Me](../Page/只是你愛我的方式.md "wikilink")〉（第88名，1989年二度發行獲得第3名）、〈[Straight
 Up](../Page/Straight_Up.md "wikilink")〉（三週冠軍）和〈[Forever Your
-Girl](https://zh.wikipedia.org/wiki/Forever_Your_Girl_\(單曲\) "wikilink")〉（兩週冠軍）。
+Girl](../Page/Forever_Your_Girl_\(單曲\).md "wikilink")〉（兩週冠軍）。
 
 ### 音樂影片
 
@@ -26,7 +26,7 @@ Hearted〉推出之後自然受到矚目，1989年6月24日首週進入單曲榜
 
 寶拉·阿巴杜在1989年告示牌年終單曲榜一共有三首單曲進榜，她在前十名就佔了兩席，分別是〈[Straight
 Up](../Page/Straight_Up.md "wikilink")〉第4名、〈Cold
-Hearted〉第6名以及〈[永遠是你的女孩](https://zh.wikipedia.org/wiki/Forever_Your_Girl_\(單曲\) "wikilink")〉第30名。
+Hearted〉第6名以及〈[永遠是你的女孩](../Page/Forever_Your_Girl_\(單曲\).md "wikilink")〉第30名。
 
 〈Cold Hearted〉在英國單曲榜成績僅得到第46名\[5\]。
 

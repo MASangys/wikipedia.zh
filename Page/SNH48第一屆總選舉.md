@@ -4,7 +4,7 @@
 
 2014年5月6日，SNH48官方公佈第一屆總選舉的啟動儀式將分別於5月10日S隊公演現場和5月11日N隊公演開始前舉行。\[2\]投票由5月20日中午12時開始，直到7月25日早上10時結束，期間會分別作一次速報及一次中期結果公佈。最終結果在7月26日在上海国际体操中心公佈，翌日於上海市貿商城舉辦答謝握手會。
 
-另外，配合是次總選舉推出的專輯《[一心向前](https://zh.wikipedia.org/wiki/一心向前 "wikilink")》於5月10日起預售，5月16日起正式發售。\[3\]
+另外，配合是次總選舉推出的專輯《[一心向前](../Page/一心向前.md "wikilink")》於5月10日起預售，5月16日起正式發售。\[3\]
 
 ## 候選人員
 
@@ -13,17 +13,17 @@
   - Team SII （21人）:
     [陈观慧](https://zh.wikipedia.org/wiki/陈观慧 "wikilink")、[陳思](https://zh.wikipedia.org/wiki/陳思_\(SNH48\) "wikilink")、[戴萌](https://zh.wikipedia.org/wiki/戴萌 "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")（海外留學生，兼任SKE48
     Team
-    S）、[蒋芸](https://zh.wikipedia.org/wiki/蒋芸 "wikilink")、[孔肖吟](https://zh.wikipedia.org/wiki/孔肖吟 "wikilink")、[铃木玛莉亚](https://zh.wikipedia.org/wiki/铃木玛莉亚 "wikilink")（海外留學生，兼任AKB48
+    S）、[蒋芸](https://zh.wikipedia.org/wiki/蒋芸 "wikilink")、[孔肖吟](../Page/孔肖吟.md "wikilink")、[铃木玛莉亚](https://zh.wikipedia.org/wiki/铃木玛莉亚 "wikilink")（海外留學生，兼任AKB48
     Team
-    K）、[李宇琪](https://zh.wikipedia.org/wiki/李宇琪 "wikilink")、[莫寒](https://zh.wikipedia.org/wiki/莫寒 "wikilink")、[钱蓓婷](https://zh.wikipedia.org/wiki/钱蓓婷 "wikilink")、[邱欣怡](../Page/邱欣怡.md "wikilink")、[孙芮](../Page/孙芮.md "wikilink")、[沈之琳](https://zh.wikipedia.org/wiki/沈之琳 "wikilink")、[温晶婕](https://zh.wikipedia.org/wiki/温晶婕 "wikilink")、[吳哲晗](https://zh.wikipedia.org/wiki/吳哲晗 "wikilink")、[徐晨辰](https://zh.wikipedia.org/wiki/徐晨辰 "wikilink")、[许佳琪](../Page/许佳琪.md "wikilink")、[徐子轩](https://zh.wikipedia.org/wiki/徐子轩 "wikilink")、[袁雨桢](https://zh.wikipedia.org/wiki/袁雨桢 "wikilink")、[赵嘉敏](https://zh.wikipedia.org/wiki/赵嘉敏 "wikilink")、[张语格](../Page/张语格.md "wikilink")
+    K）、[李宇琪](../Page/李宇琪.md "wikilink")、[莫寒](../Page/莫寒.md "wikilink")、[钱蓓婷](https://zh.wikipedia.org/wiki/钱蓓婷 "wikilink")、[邱欣怡](../Page/邱欣怡.md "wikilink")、[孙芮](../Page/孙芮.md "wikilink")、[沈之琳](https://zh.wikipedia.org/wiki/沈之琳 "wikilink")、[温晶婕](https://zh.wikipedia.org/wiki/温晶婕 "wikilink")、[吳哲晗](https://zh.wikipedia.org/wiki/吳哲晗 "wikilink")、[徐晨辰](https://zh.wikipedia.org/wiki/徐晨辰 "wikilink")、[许佳琪](../Page/许佳琪.md "wikilink")、[徐子轩](https://zh.wikipedia.org/wiki/徐子轩 "wikilink")、[袁雨桢](https://zh.wikipedia.org/wiki/袁雨桢 "wikilink")、[赵嘉敏](https://zh.wikipedia.org/wiki/赵嘉敏 "wikilink")、[张语格](../Page/张语格.md "wikilink")
   - Team NII （19人）:
-    [陈佳莹](https://zh.wikipedia.org/wiki/陈佳莹 "wikilink")、[陳問言](https://zh.wikipedia.org/wiki/陳問言 "wikilink")、[董艳芸](https://zh.wikipedia.org/wiki/董艳芸 "wikilink")、[冯薪朵](https://zh.wikipedia.org/wiki/冯薪朵 "wikilink")、[龚诗淇](../Page/龚诗淇.md "wikilink")、[黄婷婷](../Page/黄婷婷.md "wikilink")、[何晓玉](https://zh.wikipedia.org/wiki/何晓玉 "wikilink")、[鞠婧祎](https://zh.wikipedia.org/wiki/鞠婧祎 "wikilink")、[罗兰](https://zh.wikipedia.org/wiki/罗兰_\(SNH48\) "wikilink")、[林思意](https://zh.wikipedia.org/wiki/林思意 "wikilink")、[陆婷](https://zh.wikipedia.org/wiki/陆婷 "wikilink")、[李艺彤](https://zh.wikipedia.org/wiki/李艺彤 "wikilink")、[孟玥](https://zh.wikipedia.org/wiki/孟玥 "wikilink")、[唐安琪](https://zh.wikipedia.org/wiki/唐安琪 "wikilink")、[万丽娜](https://zh.wikipedia.org/wiki/万丽娜 "wikilink")、[徐言雨](https://zh.wikipedia.org/wiki/徐言雨 "wikilink")、[易嘉爱](https://zh.wikipedia.org/wiki/易嘉爱 "wikilink")、[赵粤](https://zh.wikipedia.org/wiki/赵粤 "wikilink")、[曾艳芬](../Page/曾艳芬.md "wikilink")
+    [陈佳莹](https://zh.wikipedia.org/wiki/陈佳莹 "wikilink")、[陳問言](https://zh.wikipedia.org/wiki/陳問言 "wikilink")、[董艳芸](https://zh.wikipedia.org/wiki/董艳芸 "wikilink")、[冯薪朵](https://zh.wikipedia.org/wiki/冯薪朵 "wikilink")、[龚诗淇](../Page/龚诗淇.md "wikilink")、[黄婷婷](../Page/黄婷婷.md "wikilink")、[何晓玉](https://zh.wikipedia.org/wiki/何晓玉 "wikilink")、[鞠婧祎](https://zh.wikipedia.org/wiki/鞠婧祎 "wikilink")、[罗兰](https://zh.wikipedia.org/wiki/罗兰_\(SNH48\) "wikilink")、[林思意](../Page/林思意.md "wikilink")、[陆婷](https://zh.wikipedia.org/wiki/陆婷 "wikilink")、[李艺彤](https://zh.wikipedia.org/wiki/李艺彤 "wikilink")、[孟玥](https://zh.wikipedia.org/wiki/孟玥 "wikilink")、[唐安琪](../Page/唐安琪.md "wikilink")、[万丽娜](https://zh.wikipedia.org/wiki/万丽娜 "wikilink")、[徐言雨](https://zh.wikipedia.org/wiki/徐言雨 "wikilink")、[易嘉爱](https://zh.wikipedia.org/wiki/易嘉爱 "wikilink")、[赵粤](https://zh.wikipedia.org/wiki/赵粤 "wikilink")、[曾艳芬](../Page/曾艳芬.md "wikilink")
 
 ## 投票資格及方法
 
 \[4\]
 
-  - 购买附有投票券的總選舉投票專輯《[一心向前](https://zh.wikipedia.org/wiki/一心向前 "wikilink")》。專輯分以下版本:
+  - 购买附有投票券的總選舉投票專輯《[一心向前](../Page/一心向前.md "wikilink")》。專輯分以下版本:
       - 標準版（5月16日發售）:1张投票券（1次投票機會）
       - 精裝版（5月10日預售，限量1000套）:1张投票券（3次投票機會）
       - 标准应援版（6月10日發售，限量發售）:1张投票券（8次投票機會）
@@ -104,27 +104,26 @@
 演唱會上表演的曲目:
 
 1.  《Overture》
-2.  《[遙遠的彼岸](https://zh.wikipedia.org/wiki/一心向前 "wikilink")》 - 全員
+2.  《[遙遠的彼岸](../Page/一心向前.md "wikilink")》 - 全員
 3.  《[飛翔入手](../Page/飛翔入手.md "wikilink")》 - 全員
 4.  《[無盡旋轉](https://zh.wikipedia.org/wiki/無盡旋轉 "wikilink")》 - 全員
 5.  《[化作櫻花樹](https://zh.wikipedia.org/wiki/無盡旋轉 "wikilink")》 - Team SII
 6.  《[第一隻兔子](https://zh.wikipedia.org/wiki/嗚吒 "wikilink")》 - Team NII
-7.  《[愛的意義](https://zh.wikipedia.org/wiki/心電感應_\(SNH48_EP\) "wikilink")》
-    - Team NII
+7.  《[愛的意義](../Page/心電感應_\(SNH48_EP\).md "wikilink")》 - Team NII
 8.  《[SNH参上\!](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」#SNH48_Team_SII_2nd_Stage「永恆之光」公演 "wikilink")》
     - Team SII
 9.  《[懸鈴木](https://zh.wikipedia.org/wiki/嗚吒 "wikilink")》 - Team SII
-10. 《[馬尾與髮圈](https://zh.wikipedia.org/wiki/一心向前 "wikilink")》 - Team NII
+10. 《[馬尾與髮圈](../Page/一心向前.md "wikilink")》 - Team NII
 11. 《[诚实的汗水](https://zh.wikipedia.org/wiki/Team_K_5th_Stage「引體後翻」#SNH48_Team_NII_2nd_Stage「逆流而上」公演 "wikilink")》
     - Team NII
 12. 《[開拓者](../Page/愛的幸運曲奇.md "wikilink")》 - Team SII
 13. 《[流着淚微笑](https://zh.wikipedia.org/wiki/SNH48第一屆總選舉#開票日演唱會 "wikilink")》
     - 徐晨辰、鞠婧禕
-14. 《[狼與自尊](https://zh.wikipedia.org/wiki/雨季之後 "wikilink")》 - 龔詩淇、易嘉愛
+14. 《[狼與自尊](../Page/雨季之後.md "wikilink")》 - 龔詩淇、易嘉愛
 15. 《[錯過奇蹟](https://zh.wikipedia.org/wiki/嗚吒 "wikilink")》 - 孔肖吟、李宇琪、邱欣怡
 16. 《[伴我同行](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage“手牵手”#SNH48_Team_HII_2nd_Stage「手牽手」公演 "wikilink")》
     - 全員
-17. 《[一心向前](https://zh.wikipedia.org/wiki/一心向前 "wikilink")》 - 全員
+17. 《[一心向前](../Page/一心向前.md "wikilink")》 - 全員
 
 ## 最終結果
 

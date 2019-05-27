@@ -587,11 +587,11 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》開始連載。2015年7月公布�
   - 攝影監督：出水田和人（T2 studio）
   - 編集：定松剛（SATELIGHT）
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
-  - 音樂：[椎名豪](https://zh.wikipedia.org/wiki/椎名豪 "wikilink")、藤澤慶昌
+  - 音樂：[椎名豪](../Page/椎名豪.md "wikilink")、藤澤慶昌
   - 音樂監製：齋藤滋
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")、I WILL
   - 動畫製作：[Studio
-    3Hz](https://zh.wikipedia.org/wiki/3Hz "wikilink")×[Orange](https://zh.wikipedia.org/wiki/Orange_\(動畫工作室\) "wikilink")
+    3Hz](../Page/3Hz.md "wikilink")×[Orange](../Page/Orange_\(動畫工作室\).md "wikilink")
   - 製作：DW製作委員會
 
 ### 主題曲

@@ -215,7 +215,7 @@ Annie、Angie、Anna之上司<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/梁茵_(演員)" title="wikilink">梁　茵</a></p></td>
+<td><p><a href="../Page/梁茵_(演員).md" title="wikilink">梁　茵</a></p></td>
 <td><p>Candy</p></td>
 <td></td>
 </tr>
@@ -271,7 +271,7 @@ Annie、Angie、Anna之上司<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/袁鎮業" title="wikilink">袁鎮業</a></p></td>
+<td><p><a href="../Page/袁鎮業.md" title="wikilink">袁鎮業</a></p></td>
 <td><p>Frankie</p></td>
 <td></td>
 </tr>
@@ -301,7 +301,7 @@ Annie、Angie、Anna之上司<br />
 間接害死-{姜}-蓉，並感覺到其腦電波（鬼魂）之存在<br />
 於第20集出場<br />
 於第28集為羅麗花之男友<br />
-參見<strong><a href="https://zh.wikipedia.org/wiki/降魔的2.0" title="wikilink">降魔的2.0</a></strong></p></td>
+參見<strong><a href="../Page/降魔的2.0.md" title="wikilink">降魔的2.0</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/趙永洪.md" title="wikilink">趙永洪</a></p></td>
@@ -337,7 +337,7 @@ Annie、Angie、Anna之上司<br />
 於第28集成為孫淑梅之秘書</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/尹詩沛" title="wikilink">尹詩沛</a></p></td>
+<td><p><a href="../Page/尹詩沛.md" title="wikilink">尹詩沛</a></p></td>
 <td><p>Jessica</p></td>
 <td><p>接待員</p></td>
 </tr>
@@ -379,7 +379,7 @@ Annie、Angie、Anna之上司<br />
 孫蔡秀玉之客戶兼冤家，與其漸生情愫，後為其男友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/于淼" title="wikilink">-{于}-　淼</a></p></td>
+<td><p><a href="../Page/于淼.md" title="wikilink">-{于}-　淼</a></p></td>
 <td><p><strong>康　為</strong></p></td>
 <td><p><strong>胸圍</strong><br />
 姜炳仁之羽毛球教練，於第28集成為垃圾清道夫<br />
@@ -429,12 +429,12 @@ Annie、Angie、Anna之上司<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃建東" title="wikilink">黃建東</a></p></td>
+<td><p><a href="../Page/黃建東.md" title="wikilink">黃建東</a></p></td>
 <td><p>劉先生</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/周梓盈" title="wikilink">周梓盈</a></p></td>
+<td><p><a href="../Page/周梓盈.md" title="wikilink">周梓盈</a></p></td>
 <td><p>黃小姐</p></td>
 <td></td>
 </tr>
@@ -536,7 +536,7 @@ Annie、Angie、Anna之上司<br />
 <td><p>歌王</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/尹詩沛" title="wikilink">尹詩沛</a></p></td>
+<td><p><a href="../Page/尹詩沛.md" title="wikilink">尹詩沛</a></p></td>
 <td><p>Jessica</p></td>
 <td><p>MK妹</p></td>
 </tr>
@@ -566,7 +566,7 @@ Annie、Angie、Anna之上司<br />
 <td><p>大勝哥</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/袁鎮業" title="wikilink">袁鎮業</a></p></td>
+<td><p><a href="../Page/袁鎮業.md" title="wikilink">袁鎮業</a></p></td>
 <td><p>Frankie</p></td>
 <td><p>刑警</p></td>
 </tr>
@@ -591,7 +591,7 @@ Annie、Angie、Anna之上司<br />
 <td><p>荷包乾硬化</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/梁茵_(演員)" title="wikilink">梁　茵</a></p></td>
+<td><p><a href="../Page/梁茵_(演員).md" title="wikilink">梁　茵</a></p></td>
 <td><p>Candy</p></td>
 <td><p>在下元秋</p></td>
 </tr>
@@ -624,7 +624,7 @@ Annie、Angie、Anna之上司<br />
 
 ## 獎項
 
-### [星和無綫電視大獎2015](https://zh.wikipedia.org/wiki/星和無綫電視大獎2015 "wikilink")
+### [星和無綫電視大獎2015](../Page/星和無綫電視大獎2015.md "wikilink")
 
 <table style="width:49%;">
 <colgroup>

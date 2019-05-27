@@ -41,7 +41,7 @@ Award](https://zh.wikipedia.org/wiki/微软创新杯 "wikilink")。\[9\]
 
   - [VOCALOID](../Page/VOCALOID.md "wikilink")
   - [UTAU](https://zh.wikipedia.org/wiki/UTAU "wikilink")
-  - [Sinsy](https://zh.wikipedia.org/wiki/Sinsy "wikilink")
+  - [Sinsy](../Page/Sinsy.md "wikilink")
 
 ## 参考文献
 

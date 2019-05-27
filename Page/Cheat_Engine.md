@@ -10,7 +10,7 @@ Engine，使用者可以查找與修改電腦的記憶體。
 ## 特色
 
 Cheat
-Engine可以查詢與修改程式經過[反汇编後的記憶體](https://zh.wikipedia.org/wiki/反汇编器 "wikilink")。透過修改記憶體，使用者可以在遊戲裡獲得一些好處，例如無限的生命值、時間或彈藥。它還包含一些[Direct3D的工具讓你可以透視牆壁](../Page/Direct3D.md "wikilink")，在一些高級選項裡還可以替你移動滑鼠，這功能可以用來製作aimbot。不過Cheat
+Engine可以查詢與修改程式經過[反汇编後的記憶體](../Page/反汇编器.md "wikilink")。透過修改記憶體，使用者可以在遊戲裡獲得一些好處，例如無限的生命值、時間或彈藥。它還包含一些[Direct3D的工具讓你可以透視牆壁](../Page/Direct3D.md "wikilink")，在一些高級選項裡還可以替你移動滑鼠，這功能可以用來製作aimbot。不過Cheat
 Engine主要使用在單人遊戲，在多人遊戲方面並不鼓勵。\[2\]
 
 Cheat

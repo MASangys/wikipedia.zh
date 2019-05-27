@@ -36,12 +36,12 @@
 
 ## 關連條目
 
-  - [台南帝王飯店縱火案](https://zh.wikipedia.org/wiki/帝王飯店縱火案 "wikilink")
+  - [台南帝王飯店縱火案](../Page/帝王飯店縱火案.md "wikilink")
   - [台南新營醫院大火](../Page/行政院衛生署新營醫院北門院區火災事故.md "wikilink")
-  - [基隆女人心卡拉OK縱火案](https://zh.wikipedia.org/wiki/基隆女人心卡拉OK縱火案 "wikilink")
+  - [基隆女人心卡拉OK縱火案](../Page/基隆女人心卡拉OK縱火案.md "wikilink")
   - [桃園佳育安親班縱火案](../Page/鍾德樹.md "wikilink")
   - [台北市神話世界KTV縱火案](https://zh.wikipedia.org/wiki/湯銘雄案 "wikilink")
-  - [新北蘆洲大囍市社區火災](https://zh.wikipedia.org/wiki/蘆洲大囍市社區火災 "wikilink")
+  - [新北蘆洲大囍市社區火災](../Page/蘆洲大囍市社區火災.md "wikilink")
   - [台灣災難列表](https://zh.wikipedia.org/wiki/台灣災難列表 "wikilink")
   - [台灣死刑犯列表](https://zh.wikipedia.org/wiki/台灣死刑犯列表 "wikilink")
 

@@ -37,15 +37,14 @@ A成員](https://zh.wikipedia.org/wiki/miss_A "wikilink")[Min正在交往中](ht
 ### 迷你專輯
 
   - [Coming
-    Home](https://zh.wikipedia.org/wiki/Coming_Home_\(G.Soul迷你專輯\) "wikilink")（2015年1月20日）
-  - [Dirty](https://zh.wikipedia.org/wiki/Dirty "wikilink")（2015年9月10日）
+    Home](../Page/Coming_Home_\(G.Soul迷你專輯\).md "wikilink")（2015年1月20日）
+  - [Dirty](../Page/Dirty.md "wikilink")（2015年9月10日）
   - Circles (2017年9月7日）
 
 ### 單曲
 
-  - [Love Me
-    Again](https://zh.wikipedia.org/wiki/Love_Me_Again "wikilink")（2015年6月29日）
-  - [遠遠地](https://zh.wikipedia.org/wiki/遠遠地 "wikilink")（2016年5月12日）
+  - [Love Me Again](../Page/Love_Me_Again.md "wikilink")（2015年6月29日）
+  - [遠遠地](../Page/遠遠地.md "wikilink")（2016年5月12日）
   - bad habit（2017年7月5日）
   - I'll be there (2017年12月25日)
 
@@ -58,11 +57,9 @@ A成員](https://zh.wikipedia.org/wiki/miss_A "wikilink")[Min正在交往中](ht
   - G.Soul數位單曲－Tequila（Feat. Hoody）（2017年6月27日）
   - [Zico迷你專輯](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")《Television》－ANTI（Feat.
     G.Soul）（2017年7月12日）
-  - [Junoflo](https://zh.wikipedia.org/wiki/Junoflo "wikilink") ([Show
-    Me The Money
-    6](https://zh.wikipedia.org/wiki/Show_Me_The_Money_6 "wikilink")) －
-    Eyes on me（Feat. G.Soul,
-    [Dok2](../Page/Dok2.md "wikilink")）（2017年8月19日）
+  - [Junoflo](../Page/Junoflo.md "wikilink") ([Show Me The Money
+    6](../Page/Show_Me_The_Money_6.md "wikilink")) － Eyes on me（Feat.
+    G.Soul, [Dok2](../Page/Dok2.md "wikilink")）（2017年8月19日）
 
 ### 原聲帶
 

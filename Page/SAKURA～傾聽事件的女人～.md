@@ -195,7 +195,7 @@
   - 宮原惠美（歌廳小姐）☆ -
     [川村雪繪](https://zh.wikipedia.org/wiki/川村雪繪 "wikilink")（香港配音：[詹健兒](../Page/詹健兒.md "wikilink")）
   - 三嶋一宏（自由記者）☆ -
-    [笠原秀幸](https://zh.wikipedia.org/wiki/笠原秀幸 "wikilink")（香港配音：[陳耀楠](https://zh.wikipedia.org/wiki/陳耀楠 "wikilink")）
+    [笠原秀幸](https://zh.wikipedia.org/wiki/笠原秀幸 "wikilink")（香港配音：[陳耀楠](../Page/陳耀楠.md "wikilink")）
   - 間山雅美（良平祖母） -
     [增子倭文江](https://zh.wikipedia.org/wiki/增子倭文江 "wikilink")（香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
   - 今井聰（木原的秘書） -
@@ -326,7 +326,7 @@
   - 成宮良明（早紀的養父） -
     佐藤旭（香港配音：[李錦綸](https://zh.wikipedia.org/wiki/李錦綸 "wikilink")）
   - 成宮充子（早紀的養母） -
-    [水木薰](https://zh.wikipedia.org/wiki/水木薰 "wikilink")（香港配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
+    [水木薰](../Page/水木薰.md "wikilink")（香港配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
   - 宇野俊介（警視廳刑事部警部補，五十嵐的未婚夫） -
     [尾關伸嗣](https://zh.wikipedia.org/wiki/尾關伸嗣 "wikilink")（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
   - 木川雅文（大春縱火殺人事件嫌疑人，早紀的親生父親） -
@@ -371,7 +371,7 @@
 
   - 劇本 -
     松本美彌子、[山岡潤平](https://zh.wikipedia.org/wiki/山岡潤平 "wikilink")、豬原健太、來島麥、兒玉賴子
-  - 音樂 - [末廣健一郎](https://zh.wikipedia.org/wiki/末廣健一郎 "wikilink")
+  - 音樂 - [末廣健一郎](../Page/末廣健一郎.md "wikilink")
   - 導演 - 鈴木浩介、水村秀雄、加藤新
   - 主題曲 - [Aqua
     Timez](../Page/Aqua_Timez.md "wikilink")「[生きて](https://zh.wikipedia.org/wiki/生きて "wikilink")」（活下去）（[史诗唱片日本](https://zh.wikipedia.org/wiki/史诗唱片日本 "wikilink")）\[4\]

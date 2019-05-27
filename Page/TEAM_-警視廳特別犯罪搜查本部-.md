@@ -34,7 +34,7 @@
     階級[巡査部長](https://zh.wikipedia.org/wiki/巡査部長 "wikilink")。[機動部隊出身](https://zh.wikipedia.org/wiki/機動部隊 "wikilink")。
   - 加藤善治
     演出 -
-    [田中隆三](https://zh.wikipedia.org/wiki/田中隆三 "wikilink")（香港配音：[柯偉聰](https://zh.wikipedia.org/wiki/柯偉聰 "wikilink")）
+    [田中隆三](https://zh.wikipedia.org/wiki/田中隆三 "wikilink")（香港配音：[柯偉聰](../Page/柯偉聰.md "wikilink")）
     階級[警部補](../Page/警部補.md "wikilink")。
   - 中藤卓
     演出 -
@@ -184,8 +184,7 @@
 :\* 岩崎玲奈（羽川商事营業部职員） -
 [小川夏果](https://zh.wikipedia.org/wiki/小川夏果 "wikilink")
 
-:\* 山口里美（外資企業职員） -
-[山下真实子](https://zh.wikipedia.org/wiki/山下真实子 "wikilink")
+:\* 山口里美（外資企業职員） - [山下真实子](../Page/山下真实子.md "wikilink")
 
   -
 
@@ -265,7 +264,7 @@
   - 第7集 「一个有外国国籍和骨骼的尸体」
 
 :\* 市川樹理（児童養護施設出身者） -
-[浅见丽奈](https://zh.wikipedia.org/wiki/浅见丽奈 "wikilink")（香港配音：[吳梅](https://zh.wikipedia.org/wiki/吳梅 "wikilink")）
+[浅见丽奈](https://zh.wikipedia.org/wiki/浅见丽奈 "wikilink")（香港配音：[吳梅](../Page/吳梅.md "wikilink")）
 
 :\* 仲正利樹（投資ファンド代表） -
 [西村雅彦](https://zh.wikipedia.org/wiki/西村雅彦 "wikilink")（少年期：高山純平）
@@ -320,7 +319,7 @@
 [長谷川朝晴](https://zh.wikipedia.org/wiki/長谷川朝晴 "wikilink")
 
 :\* 吉崎仁美（吉崎の娘・沢村の婚約者） -
-[和希沙也](https://zh.wikipedia.org/wiki/和希沙也 "wikilink")（香港配音：[吳梅](https://zh.wikipedia.org/wiki/吳梅 "wikilink")）
+[和希沙也](https://zh.wikipedia.org/wiki/和希沙也 "wikilink")（香港配音：[吳梅](../Page/吳梅.md "wikilink")）
 
 :\* 西田启太（稻葉的部下） - 中脇樹人
 
@@ -354,7 +353,7 @@
   - 导演 -
     [猪崎宣昭](https://zh.wikipedia.org/wiki/猪崎宣昭 "wikilink")、[新村良二](https://zh.wikipedia.org/wiki/新村良二 "wikilink")
   - 主題曲 -
-    [加藤米莉亚](https://zh.wikipedia.org/wiki/加藤米莉亚 "wikilink")×[清水翔太](../Page/清水翔太.md "wikilink")「ESCAPE」（[Sony
+    [加藤米莉亚](../Page/加藤米莉亚.md "wikilink")×[清水翔太](../Page/清水翔太.md "wikilink")「ESCAPE」（[Sony
     Music Records](../Page/Sony_Music_Records.md "wikilink") / MASTERSIX
     FOUNDATION）
   - 导演助理 - 丸毛典子、安養寺工
@@ -495,7 +494,7 @@
     -警視庁特別犯罪捜査本部-](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/04_06/team/index.html)
     、Sponichi网站、2014年6月14日查阅。
 3.  『ザテレビジョン』の発表では9.5%。（电视週刊关西版
-    2014年8月22日号第26页，[KADOKAWA出版](https://zh.wikipedia.org/wiki/KADOKAWA "wikilink")）
+    2014年8月22日号第26页，[KADOKAWA出版](../Page/KADOKAWA.md "wikilink")）
 4.  [静岡朝日电视台 2014年5月18日
     番組表](http://www.satv.co.jp/0200weekly/?date=20140514)
     2014年5月6日閲覧。

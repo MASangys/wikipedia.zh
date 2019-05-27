@@ -5,7 +5,7 @@
 筆名**Siro**來自「聽了會淺顯易懂」的意思。[左撇子](https://zh.wikipedia.org/wiki/左撇子 "wikilink")。輕描淡寫的色彩與柔和的筆觸是他的[插畫特徵](../Page/插畫.md "wikilink")。參與[同人創作別名](https://zh.wikipedia.org/wiki/同人 "wikilink")「WHITEPAPER」\[4\]。
 
 代表作品是在《[Comic Earth
-Star](https://zh.wikipedia.org/wiki/Comic_Earth_Star "wikilink")》連載以戶外登山為主題的漫畫《[前進吧！登山少女](../Page/前進吧！登山少女.md "wikilink")》\[5\]\[6\]。
+Star](../Page/Comic_Earth_Star.md "wikilink")》連載以戶外登山為主題的漫畫《[前進吧！登山少女](../Page/前進吧！登山少女.md "wikilink")》\[5\]\[6\]。
 
 2017年8月2日在[Twitter宣布已經結婚和第一個孩子誕生](../Page/Twitter.md "wikilink")\[7\]。
 
@@ -14,8 +14,8 @@ Star](https://zh.wikipedia.org/wiki/Comic_Earth_Star "wikilink")》連載以戶�
 ### 漫畫
 
   - [前進吧！登山少女](../Page/前進吧！登山少女.md "wikilink")，原名《》（《[Comic Earth
-    Star](https://zh.wikipedia.org/wiki/Comic_Earth_Star "wikilink")》連載，2011年9月號
-    - ）。中文版由[尖端出版正式授權發行](../Page/尖端出版.md "wikilink")。
+    Star](../Page/Comic_Earth_Star.md "wikilink")》連載，2011年9月號 -
+    ）。中文版由[尖端出版正式授權發行](../Page/尖端出版.md "wikilink")。
 
   - （《》連載，2015年12月號－）
 

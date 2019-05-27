@@ -31,8 +31,7 @@ magazine》的號數，每月號一般在前兩個月的30日發行（如「2010
   - 11月29日
     透過歌迷票選決定九人校園偶像的團體名為「μ's」
   - 12月22日
-    μ's 2nd單曲《[Snow
-    halation](https://zh.wikipedia.org/wiki/Snow_halation "wikilink")》發售。
+    μ's 2nd單曲《[Snow halation](../Page/Snow_halation.md "wikilink")》發售。
   - 12月27日-1月13日
     第2回μ's總選舉開始
 

@@ -57,7 +57,7 @@ construction in April 2015.jpg|Peninsula East山坡出入口工程（2015年4月
   - [油塘站](../Page/油塘站.md "wikilink")(步行約5分鐘)
   - [油塘中心](../Page/油塘中心.md "wikilink")
   - [鯉魚門邨](../Page/鯉魚門邨.md "wikilink")
-  - [海傲灣](https://zh.wikipedia.org/wiki/海傲灣 "wikilink")
+  - [海傲灣](../Page/海傲灣.md "wikilink")
   - 三家村遊樂場
   - 曦臺 (四山街項目)
   - 崇信街與仁宇圍交界項目

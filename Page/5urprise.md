@@ -1,17 +1,17 @@
-**5urprise**，韓國首個演員組合。由[唯一](https://zh.wikipedia.org/wiki/唯一_\(Surprise\) "wikilink")、[徐康俊](../Page/徐康俊.md "wikilink")、[孔明](../Page/孔明_\(藝人\).md "wikilink")、[姜泰伍](https://zh.wikipedia.org/wiki/姜泰伍 "wikilink")、[李太奐五名成員組成](https://zh.wikipedia.org/wiki/李太奐 "wikilink")。2013年9月2日出道作品為網絡電視劇《放學後福不福》，以團體戲劇正式出道。2014年11月18日，組合發行了首張迷你專輯《From
+**5urprise**，韓國首個演員組合。由[唯一](https://zh.wikipedia.org/wiki/唯一_\(Surprise\) "wikilink")、[徐康俊](../Page/徐康俊.md "wikilink")、[孔明](../Page/孔明_\(藝人\).md "wikilink")、[姜泰伍](../Page/姜泰伍.md "wikilink")、[李太奐五名成員組成](https://zh.wikipedia.org/wiki/李太奐 "wikilink")。2013年9月2日出道作品為網絡電視劇《放學後福不福》，以團體戲劇正式出道。2014年11月18日，組合發行了首張迷你專輯《From
 My Heart》以團體歌手正式出道。
 
 ## 成員資料
 
-| 成員列表                                                           |
-| -------------------------------------------------------------- |
-| 藝名                                                             |
-| 漢字                                                             |
-| [唯一](https://zh.wikipedia.org/wiki/唯一_\(5urprise\) "wikilink") |
-| [徐康俊](../Page/徐康俊.md "wikilink")                               |
-| [孔明](../Page/孔明_\(藝人\).md "wikilink")                          |
-| [姜泰伍](https://zh.wikipedia.org/wiki/姜泰伍 "wikilink")            |
-| [李泰煥](https://zh.wikipedia.org/wiki/李泰煥 "wikilink")            |
+| 成員列表                                        |
+| ------------------------------------------- |
+| 藝名                                          |
+| 漢字                                          |
+| [唯一](../Page/唯一_\(5urprise\).md "wikilink") |
+| [徐康俊](../Page/徐康俊.md "wikilink")            |
+| [孔明](../Page/孔明_\(藝人\).md "wikilink")       |
+| [姜泰伍](../Page/姜泰伍.md "wikilink")            |
+| [李泰煥](../Page/李泰煥.md "wikilink")            |
 
 ## 影視作品
 
@@ -57,8 +57,8 @@ My Heart》以團體歌手正式出道。
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Drama_Festival" title="wikilink">Drama Festival</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜泰伍" title="wikilink">姜泰伍</a></p></td>
+<td><p><a href="../Page/Drama_Festival.md" title="wikilink">Drama Festival</a></p></td>
+<td><p><a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a></p></td>
 <td><p>南南哲</p></td>
 <td><p>男配角</p></td>
 <td><p>第7集</p></td>
@@ -76,7 +76,7 @@ My Heart》以團體歌手正式出道。
 <tr class="odd">
 <td><p>MBC</p></td>
 <td><p><a href="../Page/韓國小姐_(電視劇).md" title="wikilink">韓國小姐</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜泰伍" title="wikilink">姜泰伍</a></p></td>
+<td><p><a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a></p></td>
 <td><p>姜尚錫</p></td>
 <td><p>配角</p></td>
 <td></td>
@@ -84,7 +84,7 @@ My Heart》以團體歌手正式出道。
 </tr>
 <tr class="even">
 <td><p><a href="../Page/TVN.md" title="wikilink">tvN</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/二十歲_(電視劇)" title="wikilink">二十歲</a></p></td>
+<td><p><a href="../Page/二十歲_(電視劇).md" title="wikilink">二十歲</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -103,7 +103,7 @@ My Heart》以團體歌手正式出道。
 <tr class="even">
 <td><p>2014年</p></td>
 <td><p>MBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/心懷叵測的恢單女" title="wikilink">心懷叵測的恢單女</a></p></td>
+<td><p><a href="../Page/心懷叵測的恢單女.md" title="wikilink">心懷叵測的恢單女</a></p></td>
 <td><p><a href="../Page/徐康俊.md" title="wikilink">徐康俊</a></p></td>
 <td><p>國承鉉</p></td>
 <td><p>第二男主角</p></td>
@@ -112,7 +112,7 @@ My Heart》以團體歌手正式出道。
 <tr class="odd">
 <td><p>KBS</p></td>
 <td><p>愛情與戰爭 2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜泰伍" title="wikilink">姜泰伍</a></p></td>
+<td><p><a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a></p></td>
 <td><p>朱元</p></td>
 <td><p>主角</p></td>
 <td><p>第108集</p></td>
@@ -121,7 +121,7 @@ My Heart》以團體歌手正式出道。
 <tr class="even">
 <td><p>tvN</p></td>
 <td><p><a href="../Page/高校處世王.md" title="wikilink">高校處世王</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李泰煥" title="wikilink">李泰煥</a></p></td>
+<td><p><a href="../Page/李泰煥.md" title="wikilink">李泰煥</a></p></td>
 <td><p>吳泰錫</p></td>
 <td><p>配角</p></td>
 <td></td>
@@ -138,8 +138,8 @@ My Heart》以團體歌手正式出道。
 </tr>
 <tr class="even">
 <td><p>MBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/傲慢與偏見_(韓國電視劇)" title="wikilink">傲慢與偏見</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李泰煥" title="wikilink">李泰煥</a></p></td>
+<td><p><a href="../Page/傲慢與偏見_(韓國電視劇).md" title="wikilink">傲慢與偏見</a></p></td>
+<td><p><a href="../Page/李泰煥.md" title="wikilink">李泰煥</a></p></td>
 <td><p>姜秀、徐太沅</p></td>
 <td><p>第三男主角</p></td>
 <td></td>
@@ -148,10 +148,10 @@ My Heart》以團體歌手正式出道。
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p>MBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/華政" title="wikilink">華政</a></p></td>
+<td><p><a href="../Page/華政.md" title="wikilink">華政</a></p></td>
 <td><p><a href="../Page/徐康俊.md" title="wikilink">徐康俊</a><br />
 <a href="../Page/孔明_(藝人).md" title="wikilink">孔明</a><br />
-<a href="https://zh.wikipedia.org/wiki/李泰煥" title="wikilink">李泰煥</a></p></td>
+<a href="../Page/李泰煥.md" title="wikilink">李泰煥</a></p></td>
 <td><p>洪柱元<br />
 子京<br />
 光海君(少年)</p></td>
@@ -160,8 +160,8 @@ My Heart》以團體歌手正式出道。
 <td><p>全集</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/女王之花" title="wikilink">女王之花</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜泰伍" title="wikilink">姜泰伍</a></p></td>
+<td><p><a href="../Page/女王之花.md" title="wikilink">女王之花</a></p></td>
+<td><p><a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a></p></td>
 <td><p>許東九</p></td>
 <td><p>男配角</p></td>
 <td><p>全集</p></td>
@@ -180,7 +180,7 @@ My Heart》以團體歌手正式出道。
 <tr class="even">
 <td><p>tvN</p></td>
 <td><p><a href="../Page/第二個二十歲.md" title="wikilink">第二個二十歲</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜泰伍" title="wikilink">姜泰伍</a></p></td>
+<td><p><a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a></p></td>
 <td><p>金旴澈（少年）</p></td>
 <td></td>
 <td></td>
@@ -197,7 +197,7 @@ My Heart》以團體歌手正式出道。
 </tr>
 <tr class="even">
 <td><p><a href="../Page/最佳戀人.md" title="wikilink">最佳戀人</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜泰伍" title="wikilink">姜泰伍</a></p></td>
+<td><p><a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a></p></td>
 <td><p>崔英光</p></td>
 <td></td>
 <td></td>
@@ -216,7 +216,7 @@ My Heart》以團體歌手正式出道。
 <tr class="even">
 <td><p>SBS</p></td>
 <td><p><a href="../Page/回來吧大叔.md" title="wikilink">回來吧大叔</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李泰煥" title="wikilink">李泰煥</a></p></td>
+<td><p><a href="../Page/李泰煥.md" title="wikilink">李泰煥</a></p></td>
 <td><p>崔勝宰</p></td>
 <td><p>配角</p></td>
 <td></td>
@@ -238,7 +238,7 @@ My Heart》以團體歌手正式出道。
 <tr class="even">
 <td><p>MBC</p></td>
 <td><p><a href="../Page/W－兩個世界.md" title="wikilink">W－兩個世界</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李泰煥" title="wikilink">李泰煥</a></p></td>
+<td><p><a href="../Page/李泰煥.md" title="wikilink">李泰煥</a></p></td>
 <td><p>徐道允</p></td>
 <td><p>男配角</p></td>
 <td></td>
@@ -265,7 +265,7 @@ My Heart》以團體歌手正式出道。
 <tr class="odd">
 <td><p>MBC</p></td>
 <td><p><a href="../Page/爸爸，我來伺候你.md" title="wikilink">爸爸，我來伺候你</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李泰煥" title="wikilink">李泰煥</a></p></td>
+<td><p><a href="../Page/李泰煥.md" title="wikilink">李泰煥</a></p></td>
 <td><p>韓成俊</p></td>
 <td><p>第二男主角</p></td>
 <td></td>
@@ -274,15 +274,15 @@ My Heart》以團體歌手正式出道。
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p>MBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/你太過分了" title="wikilink">你太過分了</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜泰伍" title="wikilink">姜泰伍</a></p></td>
+<td><p><a href="../Page/你太過分了.md" title="wikilink">你太過分了</a></p></td>
+<td><p><a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a></p></td>
 <td><p>李慶修</p></td>
 <td><p>主要人物</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>KBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/個人主義者智英小姐" title="wikilink">個人主義者智英小姐</a></p></td>
+<td><p><a href="../Page/個人主義者智英小姐.md" title="wikilink">個人主義者智英小姐</a></p></td>
 <td><p><a href="../Page/孔明_(藝人).md" title="wikilink">孔明</a></p></td>
 <td><p>朴碧洙</p></td>
 <td><p>男主角</p></td>
@@ -291,7 +291,7 @@ My Heart》以團體歌手正式出道。
 </tr>
 <tr class="even">
 <td><p>tvN</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/河伯的新娘_2017" title="wikilink">河伯的新娘 2017</a></p></td>
+<td><p><a href="../Page/河伯的新娘_2017.md" title="wikilink">河伯的新娘 2017</a></p></td>
 <td><p><a href="../Page/孔明_(藝人).md" title="wikilink">孔明</a></p></td>
 <td><p>飛廉</p></td>
 <td><p>第二男主角</p></td>
@@ -300,8 +300,8 @@ My Heart》以團體歌手正式出道。
 </tr>
 <tr class="odd">
 <td><p>KBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我的黃金光輝人生" title="wikilink">我的黃金光輝人生</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李泰煥" title="wikilink">李泰煥</a></p></td>
+<td><p><a href="../Page/我的黃金光輝人生.md" title="wikilink">我的黃金光輝人生</a></p></td>
+<td><p><a href="../Page/李泰煥.md" title="wikilink">李泰煥</a></p></td>
 <td><p>鮮-{于}-赫</p></td>
 <td><p>主要人物</p></td>
 <td></td>
@@ -309,7 +309,7 @@ My Heart》以團體歌手正式出道。
 </tr>
 <tr class="even">
 <td><p>tvN</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卞赫的愛情" title="wikilink">卞赫的愛情</a></p></td>
+<td><p><a href="../Page/卞赫的愛情.md" title="wikilink">卞赫的愛情</a></p></td>
 <td><p><a href="../Page/孔明_(藝人).md" title="wikilink">孔明</a></p></td>
 <td><p>權帝勳</p></td>
 <td><p>第二男主角</p></td>
@@ -319,8 +319,8 @@ My Heart》以團體歌手正式出道。
 <tr class="odd">
 <td><p>2018年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/OCN" title="wikilink">OCN</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/那個男人_吳秀" title="wikilink">那個男人 吳秀</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜泰伍" title="wikilink">姜泰伍</a><br />
+<td><p><a href="../Page/那個男人_吳秀.md" title="wikilink">那個男人 吳秀</a></p></td>
+<td><p><a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a><br />
 <a href="https://zh.wikipedia.org/wiki/唯一" title="wikilink">唯一</a></p></td>
 <td><p>金鎮佑<br />
 朴敏浩</p></td>
@@ -329,7 +329,7 @@ My Heart》以團體歌手正式出道。
 </tr>
 <tr class="even">
 <td><p>KBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/你也是人類嗎" title="wikilink">你也是人類嗎</a></p></td>
+<td><p><a href="../Page/你也是人類嗎.md" title="wikilink">你也是人類嗎</a></p></td>
 <td><p><a href="../Page/徐康俊.md" title="wikilink">徐康俊</a></p></td>
 <td><p>南信</p></td>
 <td><p>男主角</p></td>
@@ -338,8 +338,8 @@ My Heart》以團體歌手正式出道。
 </tr>
 <tr class="odd">
 <td><p>tvN</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金秘書為何那樣" title="wikilink">金秘書為何那樣</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李泰煥" title="wikilink">李泰煥</a></p></td>
+<td><p><a href="../Page/金秘書為何那樣.md" title="wikilink">金秘書為何那樣</a></p></td>
+<td><p><a href="../Page/李泰煥.md" title="wikilink">李泰煥</a></p></td>
 <td><p>李成延</p></td>
 <td><p>第二男主角</p></td>
 <td></td>
@@ -347,7 +347,7 @@ My Heart》以團體歌手正式出道。
 </tr>
 <tr class="even">
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第3種魅力" title="wikilink">第3種魅力</a></p></td>
+<td><p><a href="../Page/第3種魅力.md" title="wikilink">第3種魅力</a></p></td>
 <td><p><a href="../Page/徐康俊.md" title="wikilink">徐康俊</a></p></td>
 <td><p>溫俊英</p></td>
 <td><p>男主角</p></td>
@@ -356,7 +356,7 @@ My Heart》以團體歌手正式出道。
 </tr>
 <tr class="odd">
 <td><p>KBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/就算死也喜歡" title="wikilink">就算死也喜歡</a></p></td>
+<td><p><a href="../Page/就算死也喜歡.md" title="wikilink">就算死也喜歡</a></p></td>
 <td><p><a href="../Page/孔明_(藝人).md" title="wikilink">孔明</a></p></td>
 <td><p>姜俊浩</p></td>
 <td><p>第二男主角</p></td>
@@ -366,8 +366,8 @@ My Heart》以團體歌手正式出道。
 <tr class="even">
 <td><p>2019年</p></td>
 <td><p>SBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/農夫士官學校" title="wikilink">農夫士官學校</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李泰煥" title="wikilink">李泰煥</a></p></td>
+<td><p><a href="../Page/農夫士官學校.md" title="wikilink">農夫士官學校</a></p></td>
+<td><p><a href="../Page/李泰煥.md" title="wikilink">李泰煥</a></p></td>
 <td><p>河周碩</p></td>
 <td><p>男主角</p></td>
 <td></td>
@@ -409,14 +409,14 @@ My Heart》以團體歌手正式出道。
 
 ### 電影
 
-|       |                                                                     |      |     |    |
-| ----- | ------------------------------------------------------------------- | ---- | --- | -- |
-| 年份    | 戲名                                                                  | 參演成員 | 角色  | 性質 |
-| 2013年 | If you were me 6                                                    | 孔明   |     |    |
-| 2014年 | 道熙呀                                                                 | 孔明   |     |    |
-| 2014年 | 旋轉便利店（這是我們的結局）                                                      | 孔明   |     |    |
-| 2014年 | 我的愛我的新娘                                                             | 徐康俊  | 俊秀  | 配角 |
-| 2015年 | [對不起 我愛你 謝謝你](https://zh.wikipedia.org/wiki/對不起_我愛你_謝謝你 "wikilink") | 徐康俊  | 韓尚奎 |    |
+|       |                                                  |      |     |    |
+| ----- | ------------------------------------------------ | ---- | --- | -- |
+| 年份    | 戲名                                               | 參演成員 | 角色  | 性質 |
+| 2013年 | If you were me 6                                 | 孔明   |     |    |
+| 2014年 | 道熙呀                                              | 孔明   |     |    |
+| 2014年 | 旋轉便利店（這是我們的結局）                                   | 孔明   |     |    |
+| 2014年 | 我的愛我的新娘                                          | 徐康俊  | 俊秀  | 配角 |
+| 2015年 | [對不起 我愛你 謝謝你](../Page/對不起_我愛你_謝謝你.md "wikilink") | 徐康俊  | 韓尚奎 |    |
 
 ### 音樂劇
 
@@ -429,43 +429,43 @@ My Heart》以團體歌手正式出道。
 
 ### 參與電視節目
 
-|                        |                                                                                                                    |               |        |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------- | ------ |
-| 日期                     | 節目名稱                                                                                                               | 參與成員          | 備註     |
-| 2013年10月13日            | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《出发梦之队2》                                                        | 姜泰伍           |        |
-| 2013年11月3日             | KBS《出发梦之队2》                                                                                                        | 姜泰伍           |        |
-| 2013年11月10日            | KBS《出发梦之队2》                                                                                                        | 姜泰伍           |        |
-| 2013年11月17日            | KBS《出发梦之队2》                                                                                                        | 姜泰伍           |        |
-| 2013年11月24日            | KBS《出发梦之队2》                                                                                                        | 姜泰伍           |        |
-| 2013年11月27日            | KBS《出发梦之队2》                                                                                                        | 姜泰伍           |        |
-| 2013年12月8日             | KBS《出发梦之队2》                                                                                                        | 姜泰伍           |        |
-| 2013年12月25日            | KBS《出发梦之队2》                                                                                                        | 姜泰伍、孔明        |        |
-| 2013年12月29日            | KBS《出发梦之队2》                                                                                                        | 姜泰伍、李泰煥、孔明    |        |
-| 2014年1月12日             | KBS《出发梦之队2》                                                                                                        | 姜泰伍           |        |
-| 2014年1月19日             | KBS《出发梦之队2》                                                                                                        | 姜泰伍           |        |
-| 2014年1月29日             | 《黄金渔场之Radio Star》                                                                                                  | 徐康俊           |        |
-| 2014年1月30日             | 《偶像運動會》                                                                                                            | 唯一、孔明、徐康俊、李泰煥 |        |
-| 2014年1月31日             | 《偶像運動會》                                                                                                            | 唯一、孔明、徐康俊、李泰煥 |        |
-| 2014年2月9日              | 《Section TV 演艺通信》                                                                                                  | 徐康俊           |        |
-| 2014年4月30日             | 《深夜TV》                                                                                                             | 徐康俊           |        |
-| 2014年5月8日              | 《 [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink") 》                                                          | 徐康俊           |        |
-| 2014年6月22日             | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[Roommate](https://zh.wikipedia.org/wiki/Roommate "wikilink")》 | 唯一、李泰煥        | 燒烤派對   |
-| 2014年11月15日            | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[我們結婚了](../Page/我們結婚了.md "wikilink")》精靈夫婦                      | 唯一、徐康俊、姜泰伍    |        |
-| 2014年11月22日            | MBC《我們結婚了》精靈夫婦                                                                                                     | 唯一、徐康俊、姜泰伍    |        |
-| 2014年11月29日            | MBC《我們結婚了》精靈夫婦                                                                                                     | 唯一、徐康俊、姜泰伍    |        |
-| 2014年12月6日             | MBC《我們結婚了》精靈夫婦                                                                                                     | 唯一、徐康俊、姜泰伍    |        |
-| 2014年12月13日            | MBC《我們結婚了》精靈夫婦                                                                                                     | 唯一、徐康俊、姜泰伍    |        |
-| 2015年1月18日             | SBS《[Running Man](../Page/Running_Man.md "wikilink")》                                                              | 徐康俊           |        |
-| 2015年7月24日             | MBC《[改變世界的問答](https://zh.wikipedia.org/wiki/改變世界的問答 "wikilink")》                                                   | 姜泰伍           |        |
-| 2016年1月31日             | SBS《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》                                                       | 徐康俊           | 東加篇    |
-| 2016年11月3日&2016年11月10日 | [tvN](../Page/TVN.md "wikilink")《[我耳邊的糖果](https://zh.wikipedia.org/wiki/我耳邊的糖果 "wikilink")》                        | 孔明            |        |
-| 2016年12月10日            | SBS《－[白種元的3大天王](https://zh.wikipedia.org/wiki/白種元的3大天王 "wikilink")》                                                | 孔明            |        |
-| 2017年1月6日-2017年2月3日    | SBS《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》                                                       | 孔明            | 美娜多篇   |
-| 2017年2月4日              | MBC《[我們結婚了](../Page/我們結婚了.md "wikilink")》心空夫婦                                                                      | 徐康俊、唯一、姜泰伍    | 孔明表白作戰 |
-| 2017年2月10日-2017年3月3日   | SBS《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》                                                       | 姜泰伍           | 美娜多篇   |
-| 2017年7月2日              | SBS《[Running Man](../Page/Running_Man.md "wikilink")》                                                              | 李泰煥           |        |
-| 2018年5月11日             | Netflix《[明星來解謎](https://zh.wikipedia.org/wiki/明星來解謎 "wikilink")》                                                   | 全體            |        |
-| 2019年1月20日             | SBS《[Running Man](../Page/Running_Man.md "wikilink")》                                                              | 孔明            |        |
+|                        |                                                                                                 |               |        |
+| ---------------------- | ----------------------------------------------------------------------------------------------- | ------------- | ------ |
+| 日期                     | 節目名稱                                                                                            | 參與成員          | 備註     |
+| 2013年10月13日            | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《出发梦之队2》                                     | 姜泰伍           |        |
+| 2013年11月3日             | KBS《出发梦之队2》                                                                                     | 姜泰伍           |        |
+| 2013年11月10日            | KBS《出发梦之队2》                                                                                     | 姜泰伍           |        |
+| 2013年11月17日            | KBS《出发梦之队2》                                                                                     | 姜泰伍           |        |
+| 2013年11月24日            | KBS《出发梦之队2》                                                                                     | 姜泰伍           |        |
+| 2013年11月27日            | KBS《出发梦之队2》                                                                                     | 姜泰伍           |        |
+| 2013年12月8日             | KBS《出发梦之队2》                                                                                     | 姜泰伍           |        |
+| 2013年12月25日            | KBS《出发梦之队2》                                                                                     | 姜泰伍、孔明        |        |
+| 2013年12月29日            | KBS《出发梦之队2》                                                                                     | 姜泰伍、李泰煥、孔明    |        |
+| 2014年1月12日             | KBS《出发梦之队2》                                                                                     | 姜泰伍           |        |
+| 2014年1月19日             | KBS《出发梦之队2》                                                                                     | 姜泰伍           |        |
+| 2014年1月29日             | 《黄金渔场之Radio Star》                                                                               | 徐康俊           |        |
+| 2014年1月30日             | 《偶像運動會》                                                                                         | 唯一、孔明、徐康俊、李泰煥 |        |
+| 2014年1月31日             | 《偶像運動會》                                                                                         | 唯一、孔明、徐康俊、李泰煥 |        |
+| 2014年2月9日              | 《Section TV 演艺通信》                                                                               | 徐康俊           |        |
+| 2014年4月30日             | 《深夜TV》                                                                                          | 徐康俊           |        |
+| 2014年5月8日              | 《 [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink") 》                                       | 徐康俊           |        |
+| 2014年6月22日             | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[Roommate](../Page/Roommate.md "wikilink")》 | 唯一、李泰煥        | 燒烤派對   |
+| 2014年11月15日            | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[我們結婚了](../Page/我們結婚了.md "wikilink")》精靈夫婦   | 唯一、徐康俊、姜泰伍    |        |
+| 2014年11月22日            | MBC《我們結婚了》精靈夫婦                                                                                  | 唯一、徐康俊、姜泰伍    |        |
+| 2014年11月29日            | MBC《我們結婚了》精靈夫婦                                                                                  | 唯一、徐康俊、姜泰伍    |        |
+| 2014年12月6日             | MBC《我們結婚了》精靈夫婦                                                                                  | 唯一、徐康俊、姜泰伍    |        |
+| 2014年12月13日            | MBC《我們結婚了》精靈夫婦                                                                                  | 唯一、徐康俊、姜泰伍    |        |
+| 2015年1月18日             | SBS《[Running Man](../Page/Running_Man.md "wikilink")》                                           | 徐康俊           |        |
+| 2015年7月24日             | MBC《[改變世界的問答](https://zh.wikipedia.org/wiki/改變世界的問答 "wikilink")》                                | 姜泰伍           |        |
+| 2016年1月31日             | SBS《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》                                    | 徐康俊           | 東加篇    |
+| 2016年11月3日&2016年11月10日 | [tvN](../Page/TVN.md "wikilink")《[我耳邊的糖果](../Page/我耳邊的糖果.md "wikilink")》                        | 孔明            |        |
+| 2016年12月10日            | SBS《－[白種元的3大天王](https://zh.wikipedia.org/wiki/白種元的3大天王 "wikilink")》                             | 孔明            |        |
+| 2017年1月6日-2017年2月3日    | SBS《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》                                    | 孔明            | 美娜多篇   |
+| 2017年2月4日              | MBC《[我們結婚了](../Page/我們結婚了.md "wikilink")》心空夫婦                                                   | 徐康俊、唯一、姜泰伍    | 孔明表白作戰 |
+| 2017年2月10日-2017年3月3日   | SBS《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》                                    | 姜泰伍           | 美娜多篇   |
+| 2017年7月2日              | SBS《[Running Man](../Page/Running_Man.md "wikilink")》                                           | 李泰煥           |        |
+| 2018年5月11日             | Netflix《[明星來解謎](../Page/明星來解謎.md "wikilink")》                                                   | 全體            |        |
+| 2019年1月20日             | SBS《[Running Man](../Page/Running_Man.md "wikilink")》                                           | 孔明            |        |
 
 ### 音樂錄影帶(MV)
 
@@ -479,19 +479,19 @@ My Heart》以團體歌手正式出道。
 | 2013年6月13日  | Flashback                 | [After School](../Page/After_School.md "wikilink")               | 孔明   |
 | 2014年7月11日  | I\`m In Love              | [Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink") &2LSON   | 徐康俊  |
 | 2014年11月17日 | Three People              | Toy &[成始璄](../Page/成始璄.md "wikilink")                            | 孔明   |
-| 2014年12月7日  | Reset                     | Toy &[李笛](https://zh.wikipedia.org/wiki/李笛 "wikilink")           | 孔明   |
+| 2014年12月7日  | Reset                     | Toy &[李笛](../Page/李笛.md "wikilink")                              | 孔明   |
 | 2015年4月20日  | 심쿵주의보                     | [Sunny](https://zh.wikipedia.org/wiki/Sunny "wikilink") &옥탑방 작업실 | 姜泰伍  |
 | 2015年7月26日  | I'm Ill                   | Hello Venus                                                      | 李泰煥  |
 | 2017年1月11日  | Mysterious                | Hello Venus                                                      | 徐康俊  |
 
 ### 固定綜藝
 
-|                       |                                                                                                                    |      |    |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------ | ---- | -- |
-| 日期                    | 節目名稱                                                                                                               | 參與成員 | 集數 |
-| 2014年5月4日－2014年9月14日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[Roommate](https://zh.wikipedia.org/wiki/Roommate "wikilink")》 | 徐康俊  | 20 |
-| 2014年9月21日－2015年4月14日 | SBS《Roommate2》                                                                                                     | 徐康俊  | 26 |
-| 2016年12月10日－2017年5月6日 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[我們結婚了](../Page/我們結婚了.md "wikilink")》                  | 孔明   | 21 |
+|                       |                                                                                                   |      |    |
+| --------------------- | ------------------------------------------------------------------------------------------------- | ---- | -- |
+| 日期                    | 節目名稱                                                                                              | 參與成員 | 集數 |
+| 2014年5月4日－2014年9月14日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[Roommate](../Page/Roommate.md "wikilink")》   | 徐康俊  | 20 |
+| 2014年9月21日－2015年4月14日 | SBS《Roommate2》                                                                                    | 徐康俊  | 26 |
+| 2016年12月10日－2017年5月6日 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[我們結婚了](../Page/我們結婚了.md "wikilink")》 | 孔明   | 21 |
 
 ## 音樂作品
 

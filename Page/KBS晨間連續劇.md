@@ -358,7 +358,7 @@
 <td style="text-align: center;"><p><br />
 </p></td>
 <td style="text-align: center;"><p>120</p></td>
-<td style="text-align: center;"><p><a href="../Page/鄭愛利.md" title="wikilink">鄭愛利</a>、、<a href="https://zh.wikipedia.org/wiki/宋承桓" title="wikilink">宋承桓</a>、</p></td>
+<td style="text-align: center;"><p><a href="../Page/鄭愛利.md" title="wikilink">鄭愛利</a>、、<a href="../Page/宋承桓.md" title="wikilink">宋承桓</a>、</p></td>
 <td style="text-align: center;"><p>朴鎮宇</p></td>
 <td style="text-align: center;"><p>金秀東</p></td>
 <td style="text-align: center;"></td>
@@ -447,7 +447,7 @@
 <td style="text-align: center;"><p><br />
 </p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="../Page/錢忍和.md" title="wikilink">錢忍和</a>、<a href="../Page/千虎珍.md" title="wikilink">千虎珍</a>、、<a href="https://zh.wikipedia.org/wiki/金容琳" title="wikilink">金容琳</a>、、</p></td>
+<td style="text-align: center;"><p><a href="../Page/錢忍和.md" title="wikilink">錢忍和</a>、<a href="../Page/千虎珍.md" title="wikilink">千虎珍</a>、、<a href="../Page/金容琳.md" title="wikilink">金容琳</a>、、</p></td>
 <td style="text-align: center;"><p>金正</p></td>
 <td style="text-align: center;"><p>嚴基白</p></td>
 <td style="text-align: center;"></td>
@@ -508,7 +508,7 @@
 <td style="text-align: center;"><p><br />
 </p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="../Page/朴尚民.md" title="wikilink">朴尚民</a>、<a href="../Page/李敏英.md" title="wikilink">李敏英</a>、<a href="../Page/鮮于銀淑.md" title="wikilink">鮮于銀淑</a>、<a href="https://zh.wikipedia.org/wiki/李在龙" title="wikilink">李在龙</a>、、<a href="https://zh.wikipedia.org/wiki/李尚雅" title="wikilink">李尚雅</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朴尚民.md" title="wikilink">朴尚民</a>、<a href="../Page/李敏英.md" title="wikilink">李敏英</a>、<a href="../Page/鮮于銀淑.md" title="wikilink">鮮于銀淑</a>、<a href="https://zh.wikipedia.org/wiki/李在龙" title="wikilink">李在龙</a>、、<a href="../Page/李尚雅.md" title="wikilink">李尚雅</a></p></td>
 <td style="text-align: center;"><p>池尚學</p></td>
 <td style="text-align: center;"><p>金在賢</p></td>
 <td style="text-align: center;"></td>
@@ -921,7 +921,7 @@
 <td style="text-align: center;"><p>174</p></td>
 <td style="text-align: center;"><p><a href="../Page/朴素賢.md" title="wikilink">-{朴}-素賢</a>、<a href="../Page/金甲洙.md" title="wikilink">金甲洙</a>、、</p></td>
 <td style="text-align: center;"><p>高奉煌</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳亨旭" title="wikilink">陳亨旭</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/陳亨旭.md" title="wikilink">陳亨旭</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -1058,7 +1058,7 @@
 <td style="text-align: center;"><p><br />
 </p></td>
 <td style="text-align: center;"><p>174</p></td>
-<td style="text-align: center;"><p><a href="../Page/金慈玉.md" title="wikilink">金慈玉</a>、、<a href="https://zh.wikipedia.org/wiki/吳娜拉" title="wikilink">吳娜拉</a>、<a href="../Page/金彬宇.md" title="wikilink">金彬宇</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金慈玉.md" title="wikilink">金慈玉</a>、、<a href="../Page/吳娜拉.md" title="wikilink">吳娜拉</a>、<a href="../Page/金彬宇.md" title="wikilink">金彬宇</a></p></td>
 <td style="text-align: center;"><p>權敏秀</p></td>
 <td style="text-align: center;"><p>嚴基白</p></td>
 <td style="text-align: center;"></td>
@@ -1144,7 +1144,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2018年9月3日－<br />
 2019年1月18日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/車達萊夫人的愛情" title="wikilink">車達萊夫人的愛情</a><br />
+<td style="text-align: center;"><p><a href="../Page/車達萊夫人的愛情.md" title="wikilink">車達萊夫人的愛情</a><br />
 </p></td>
 <td style="text-align: center;"><p>100</p></td>
 <td style="text-align: center;"><p><a href="../Page/夏希羅.md" title="wikilink">夏希羅</a>、<a href="../Page/安善英.md" title="wikilink">安善英</a>、<a href="../Page/高恩美.md" title="wikilink">高恩美</a></p></td>

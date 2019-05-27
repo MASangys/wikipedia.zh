@@ -3,7 +3,7 @@
 原本路線在郊區的終點是在Broad Street與Plymouth
 Avenue交叉口，在此以[三角線進行迴轉](../Page/三角線.md "wikilink")。在1980年8月30日，M線延伸至[巴爾波亞公園站](https://zh.wikipedia.org/wiki/巴爾波亞公園站 "wikilink")\[1\]。
 
-[雙峰隧道內的](../Page/雙峰隧道.md "wikilink")[尤利卡站原先為K線的一個停站](https://zh.wikipedia.org/wiki/尤利卡站 "wikilink")，但在1972年關閉。10年後，由配合新建立的輕軌系統而設的取代。
+[雙峰隧道內的](../Page/雙峰隧道.md "wikilink")[尤利卡站原先為K線的一個停站](../Page/尤利卡站.md "wikilink")，但在1972年關閉。10年後，由配合新建立的輕軌系統而設的取代。
 
 ## 參考資料
 

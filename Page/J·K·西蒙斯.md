@@ -3,7 +3,7 @@ K.」·西蒙斯**（，）是一位[美国男演员](../Page/美国.md "wikilin
 Emil
 Skoda，[HBO出品的监狱剧集](../Page/HBO.md "wikilink")《[监狱风云](../Page/监狱风云_\(美国电视剧\).md "wikilink")》中的Vernon
 Schillinger，[TNT剧集](https://zh.wikipedia.org/wiki/Turner_Network_Television "wikilink")《[真相追击](https://zh.wikipedia.org/wiki/真相追击 "wikilink")》里的Will
-Pope，[山姆·雷米执导的](../Page/山姆·雷米.md "wikilink")「[蜘蛛侠三部曲](https://zh.wikipedia.org/wiki/蜘蛛侠 "wikilink")」中的[J·喬納·詹姆森](https://zh.wikipedia.org/wiki/J·喬納·詹姆森 "wikilink")。在2014年电影《[爆裂鼓手](../Page/爆裂鼓手.md "wikilink")》里，演绎的魔鬼导师为其收获广泛好评，赢得包括[美國演員工會獎最佳男配角](https://zh.wikipedia.org/wiki/美國演員工會獎最佳男配角 "wikilink")、[英國電影學院獎最佳男配角](../Page/英國電影學院獎最佳男配角.md "wikilink")、[第72届金球奖最佳男配角以及](https://zh.wikipedia.org/wiki/第72届金球奖 "wikilink")[第87届奥斯卡金像奖最佳男配角等在内的许多男配角奖项](https://zh.wikipedia.org/wiki/第87屆奧斯卡金像獎 "wikilink")。
+Pope，[山姆·雷米执导的](../Page/山姆·雷米.md "wikilink")「[蜘蛛侠三部曲](https://zh.wikipedia.org/wiki/蜘蛛侠 "wikilink")」中的[J·喬納·詹姆森](../Page/J·喬納·詹姆森.md "wikilink")。在2014年电影《[爆裂鼓手](../Page/爆裂鼓手.md "wikilink")》里，演绎的魔鬼导师为其收获广泛好评，赢得包括[美國演員工會獎最佳男配角](https://zh.wikipedia.org/wiki/美國演員工會獎最佳男配角 "wikilink")、[英國電影學院獎最佳男配角](../Page/英國電影學院獎最佳男配角.md "wikilink")、[第72届金球奖最佳男配角以及](https://zh.wikipedia.org/wiki/第72届金球奖 "wikilink")[第87届奥斯卡金像奖最佳男配角等在内的许多男配角奖项](https://zh.wikipedia.org/wiki/第87屆奧斯卡金像獎 "wikilink")。
 
 ## 生平
 
@@ -37,7 +37,7 @@ Simmons\[1\]\[2\]\[3\]。他成长于[俄亥俄州的](../Page/俄亥俄州.md "
   - 2000：《[靈異大逆轉](../Page/靈異大逆轉.md "wikilink")》-珀爾·強森保安官
   - 2001：《[危險情人](https://zh.wikipedia.org/wiki/危險情人_\(電影\) "wikilink")》-Ted
     Slocum
-  - 2002：《[蜘蛛人](../Page/蜘蛛人_\(電影\).md "wikilink")》-[J·喬納·詹姆森](https://zh.wikipedia.org/wiki/J·喬納·詹姆森 "wikilink")
+  - 2002：《[蜘蛛人](../Page/蜘蛛人_\(電影\).md "wikilink")》-[J·喬納·詹姆森](../Page/J·喬納·詹姆森.md "wikilink")
   - 2003：《Disposal》-年邁的獵人（短片）
   - 2003：《[無關緊要](https://zh.wikipedia.org/wiki/無關緊要 "wikilink")》-George
   - 2004：《[沙漠騎兵](https://zh.wikipedia.org/wiki/沙漠騎兵 "wikilink")》-[水牛比爾](../Page/水牛比爾.md "wikilink")
@@ -96,8 +96,7 @@ Simmons\[1\]\[2\]\[3\]。他成长于[俄亥俄州的](../Page/俄亥俄州.md "
   - 2013：《[三怪傑](https://zh.wikipedia.org/wiki/三怪傑 "wikilink")》-J Kimball
   - 2013：《[賈伯斯](https://zh.wikipedia.org/wiki/賈伯斯_\(電影\) "wikilink")》-Arthur
     Rock
-  - 2013：《[一日一生](https://zh.wikipedia.org/wiki/一日一生 "wikilink")》-Mr.
-    Jervis
+  - 2013：《[一日一生](../Page/一日一生.md "wikilink")》-Mr. Jervis
   - 2013：《[黑暗天際](https://zh.wikipedia.org/wiki/黑暗天際 "wikilink")》-Edwin
     Pollard
   - 2013：《The Heeler》-Roscoe（短片）
@@ -122,20 +121,19 @@ Simmons\[1\]\[2\]\[3\]。他成长于[俄亥俄州的](../Page/俄亥俄州.md "
   - 2016：《Still Punching the Clown》-Jay Warren
   - 2016：《[動物方城市](../Page/動物方城市.md "wikilink")》-獅明德（配音）
   - 2016：《[搖滾藏獒](https://zh.wikipedia.org/wiki/搖滾藏獒 "wikilink")》-Khampa（配音）
-  - 2016：《[樂來越愛你](https://zh.wikipedia.org/wiki/樂來越愛你 "wikilink")》-老闆
+  - 2016：《[樂來越愛你](../Page/樂來越愛你.md "wikilink")》-老闆
   - 2016：《[晚熟男人](https://zh.wikipedia.org/wiki/晚熟男人 "wikilink")》-James
     Newmans
   - 2016：《[會計師](../Page/會計師_\(2016年電影\).md "wikilink")》-Ray King
   - 2016：《[愛國者行動](https://zh.wikipedia.org/wiki/愛國者行動_\(2016年電影\) "wikilink")》-Jeffrey
     Pugliese
-  - 2017：《[潛龍突擊隊](https://zh.wikipedia.org/wiki/潛龍突擊隊 "wikilink")》-Levin
-  - 2017：《[雪人](https://zh.wikipedia.org/wiki/雪人_\(2017年電影\) "wikilink")》-Arve
-    Støp
+  - 2017：《[潛龍突擊隊](../Page/潛龍突擊隊.md "wikilink")》-Levin
+  - 2017：《[雪人](../Page/雪人_\(2017年電影\).md "wikilink")》-Arve Støp
   - 2017：《[正義聯盟](https://zh.wikipedia.org/wiki/正義聯盟_\(電影\) "wikilink")》-[詹姆斯·高登](https://zh.wikipedia.org/wiki/詹姆斯·高登_\(漫畫\) "wikilink")
   - 2017：《[追爸大行動](https://zh.wikipedia.org/wiki/追爸大行動 "wikilink")》-Roland
     Hunt
   - 2017:《單身漢》-Bill
-  - 2018:《[爆料世代](https://zh.wikipedia.org/wiki/爆料世代 "wikilink")》-比爾·迪克森
+  - 2018:《[爆料世代](../Page/爆料世代.md "wikilink")》-比爾·迪克森
 
 ### 電視劇
 

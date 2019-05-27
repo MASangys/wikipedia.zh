@@ -37,7 +37,7 @@ N旗下的一个以播放](https://zh.wikipedia.org/wiki/KBS_N "wikilink")[女�
   - 《[感激时代：斗神的诞生](https://zh.wikipedia.org/wiki/感激时代：斗神的诞生 "wikilink")》
   - 《[真是好时节](https://zh.wikipedia.org/wiki/真是好时节 "wikilink")》
   - 《[家人之间为何这样](https://zh.wikipedia.org/wiki/家人之间为何这样 "wikilink")》
-  - 《[當時間停止時](https://zh.wikipedia.org/wiki/時間停止的瞬間 "wikilink")》
+  - 《[當時間停止時](../Page/時間停止的瞬間.md "wikilink")》
 
 ### 其他节目
 

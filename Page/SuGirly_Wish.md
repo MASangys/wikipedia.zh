@@ -34,7 +34,7 @@ Portable版](../Page/PlayStation_Portable.md "wikilink")《SuGirly Wish
 
 ### 其他角色
 
-  - 水野真理惠（CV：[民安ともえ](https://zh.wikipedia.org/wiki/民安友繪 "wikilink")）
+  - 水野真理惠（CV：[民安ともえ](../Page/民安友繪.md "wikilink")）
     純平的同學。
   - 芝原美佳（CV：真中海）
     純平的同學。

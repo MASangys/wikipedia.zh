@@ -124,7 +124,7 @@ Body）返回地面。和地面协助人员“丁格（Dingo）”寻找并摧�
   - 动画监制：森口博史
   - 动画总监：吉冈宏
   - 制片人：野口光一
-  - 动画制作：[GRAPHINICA](https://zh.wikipedia.org/wiki/Graphinica "wikilink")
+  - 动画制作：[GRAPHINICA](../Page/Graphinica.md "wikilink")
   - 配給：T-JOY
   - 协力：东映
   - 制作委员会：东映动画、
@@ -183,7 +183,7 @@ Body）返回地面。和地面协助人员“丁格（Dingo）”寻找并摧�
 
 ### 遊戲
 
-\*;本作首次參戰[超級機器人大戰T](https://zh.wikipedia.org/wiki/超級機器人大戰T "wikilink")
+\*;本作首次參戰[超級機器人大戰T](../Page/超級機器人大戰T.md "wikilink")
 
 ## 现实影响
 

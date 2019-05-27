@@ -2,7 +2,7 @@
 
 ## 設計細節
 
-LR2型12.7毫米手动狙击步枪是一枝由[湖南轻武器研究所研制的单警反器材武器](https://zh.wikipedia.org/wiki/湖南轻武器研究所 "wikilink")，可配备白光瞄准镜、光电瞄准具和红外瞄准镜。采用[包络式枪机](https://zh.wikipedia.org/wiki/包络式枪机 "wikilink")、[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")、螺旋闭锁、[击锤回转式击发机构](https://zh.wikipedia.org/wiki/击锤 "wikilink")、[弹鼓供弹](https://zh.wikipedia.org/wiki/弹鼓 "wikilink")、专利缓冲技术、模块化设计，具有结构紧凑、重量轻、[后坐力小](https://zh.wikipedia.org/wiki/后坐力 "wikilink")、勤务性好等特点。
+LR2型12.7毫米手动狙击步枪是一枝由[湖南轻武器研究所研制的单警反器材武器](https://zh.wikipedia.org/wiki/湖南轻武器研究所 "wikilink")，可配备白光瞄准镜、光电瞄准具和红外瞄准镜。采用[包络式枪机](https://zh.wikipedia.org/wiki/包络式枪机 "wikilink")、[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")、螺旋闭锁、[击锤回转式击发机构](../Page/击锤.md "wikilink")、[弹鼓供弹](https://zh.wikipedia.org/wiki/弹鼓 "wikilink")、专利缓冲技术、模块化设计，具有结构紧凑、重量轻、[后坐力小](https://zh.wikipedia.org/wiki/后坐力 "wikilink")、勤务性好等特点。
 
 该枪外形与美国[巴雷特](../Page/巴雷特槍械公司.md "wikilink")[M95狙击步枪相似](../Page/巴雷特M95狙擊步槍.md "wikilink")，只是发射[12.7×108毫米](../Page/12.7×108mm.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")、使用枪身左側的瞄准镜接口、枪身右側拋売口前方的拉机柄和[弹鼓供弹](https://zh.wikipedia.org/wiki/弹鼓 "wikilink")。但由于中国制造的专业型狙击步枪子弹发展仍然较慢，所以该枪也没有装备专用狙击[弹药](https://zh.wikipedia.org/wiki/弹药 "wikilink")，使得其[精度性能遜色](../Page/準確與精密.md "wikilink")。另外，整枪细节做工亦比国外同类产品有些差距。
 
@@ -19,7 +19,7 @@ LR2型12.7毫米手动狙击步枪是一枝由[湖南轻武器研究所研制的
   - [狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")、[反器材步槍](../Page/反器材步槍.md "wikilink")
   - [犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")
   - [10式狙擊步槍](https://zh.wikipedia.org/wiki/10式狙擊步槍 "wikilink")
-  - [11式狙击榴弹发射器](https://zh.wikipedia.org/wiki/11式狙击榴弹发射器 "wikilink")
+  - [11式狙击榴弹发射器](../Page/11式狙击榴弹发射器.md "wikilink")
   - [AMR-2](../Page/AMR-2狙击步枪.md "wikilink")
   - [W03型狙击步枪](https://zh.wikipedia.org/wiki/W03型狙击步枪 "wikilink")
   - [JS 05](https://zh.wikipedia.org/wiki/JS_05狙擊步槍 "wikilink")
@@ -30,7 +30,7 @@ LR2型12.7毫米手动狙击步枪是一枝由[湖南轻武器研究所研制的
   - [CS/LR14](https://zh.wikipedia.org/wiki/CS/LR14型自动步枪 "wikilink")
   - [CS/LR17](https://zh.wikipedia.org/wiki/CS/LR17型模块化自動步槍 "wikilink")
   - [CS/LR19](https://zh.wikipedia.org/wiki/CS/LR19型狙击步枪 "wikilink")
-  - [LG5](https://zh.wikipedia.org/wiki/LG5狙击榴弹发射器 "wikilink")
+  - [LG5](../Page/LG5狙击榴弹发射器.md "wikilink")
   - [XY
     7.62毫米高精度狙击步枪](https://zh.wikipedia.org/wiki/XY_7.62毫米高精度狙击步枪 "wikilink")
   - [巴雷特M82狙擊步槍](../Page/巴雷特M82狙擊步槍.md "wikilink")
@@ -40,7 +40,7 @@ LR2型12.7毫米手动狙击步枪是一枝由[湖南轻武器研究所研制的
   - [DSR-50狙擊步槍](../Page/DSR-50狙擊步槍.md "wikilink")
   - [KSVK狙擊步槍](../Page/KSVK狙擊步槍.md "wikilink")
   - [OM 50復仇女神狙擊步槍](../Page/OM_50復仇女神狙擊步槍.md "wikilink")
-  - [托爾狙擊步槍](https://zh.wikipedia.org/wiki/托爾狙擊步槍 "wikilink")
+  - [托爾狙擊步槍](../Page/托爾狙擊步槍.md "wikilink")
 
 ## 參考文獻
 
