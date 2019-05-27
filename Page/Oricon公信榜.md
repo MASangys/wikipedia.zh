@@ -250,7 +250,7 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
 | 11位 | [YAH YAH YAH/夢之守護者](https://zh.wikipedia.org/wiki/YAH_YAH_YAH/夢之守護者 "wikilink")               | 恰克與飛鳥                                                      | 241.8萬張                      | 1位・1993年度1位                     |
 | 12位 | [無名的詩](../Page/無名的詩.md "wikilink")                                                            | Mr.Children                                                | 230.8萬張                      | 1位・1996年度1位                     |
 | 13位 | 桜坂                                                                                            | [福山雅治](../Page/福山雅治.md "wikilink")                         | 229.9萬張                      | 1位・2000年度2位                     |
-| 14位 | [CAN YOU CELEBRATE?](https://zh.wikipedia.org/wiki/CAN_YOU_CELEBRATE? "wikilink")             | [安室奈美惠](../Page/安室奈美惠.md "wikilink")                       | 229.6萬張                      | 1位・1997年度1位・1998年度54位           |
+| 14位 | [CAN YOU CELEBRATE?](../Page/CAN_YOU_CELEBRATE?.md "wikilink")                                | [安室奈美惠](../Page/安室奈美惠.md "wikilink")                       | 229.6萬張                      | 1位・1997年度1位・1998年度54位           |
 | 15位 | [DEPARTURES](../Page/DEPARTURES.md "wikilink")                                                | [globe](https://zh.wikipedia.org/wiki/globe "wikilink")    | 228.8萬張                      | 1位・1996年度2位                     |
 | 16位 | 黒ネコのタンゴ                                                                                       | 皆川おさむ                                                      | 223.6萬張<small>※</small>\[4\] | 1位・1969年度5位・1970年度1位            |
 | 17位 | WOW WAR TONIGHT 〜時には起こせよムーヴメント                                                                | H Jungle With t                                            | 213.4萬張                      | 1位・1995年度2位                     |
@@ -300,7 +300,7 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
 </tr>
 <tr class="even">
 <td><p>4位</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Teacher_Teacher" title="wikilink">Teacher Teacher</a></p></td>
+<td><p><a href="../Page/Teacher_Teacher.md" title="wikilink">Teacher Teacher</a></p></td>
 <td><p>2018年5月30日</p></td>
 <td><p>166.1萬張</p></td>
 <td></td>
@@ -420,7 +420,7 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
 </tr>
 <tr class="odd">
 <td><p>19位</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/High_Tension" title="wikilink">High Tension</a></p></td>
+<td><p><a href="../Page/High_Tension.md" title="wikilink">High Tension</a></p></td>
 <td><p>2016年11月16日</p></td>
 <td><p>118.0萬張</p></td>
 <td></td>
@@ -622,7 +622,7 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
 </tr>
 <tr class="odd">
 <td><p><strong>1400</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/有頂天" title="wikilink">有頂天</a></p></td>
+<td><p><a href="../Page/有頂天.md" title="wikilink">有頂天</a></p></td>
 <td><p><a href="../Page/B&#39;z.md" title="wikilink">B'z</a></p></td>
 <td><p>2015年1月26日</p></td>
 </tr>
@@ -752,7 +752,7 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
   - 男性個人歌手一週最高銷量：桜坂（銷量：75.1萬張・2000年4月26日止、歌手：[福山雅治](../Page/福山雅治.md "wikilink")）
   - 女性組合歌手一週最高銷量：[再見自由式](../Page/再見自由式.md "wikilink")（銷量：176.3萬張、歌手：[AKB48](../Page/AKB48.md "wikilink")）
   - 外國歌手一週最高銷量：THE
-    ONES（銷量：104万枚・1998年1月18日止、歌手：[瑪麗亞·凱莉](https://zh.wikipedia.org/wiki/瑪麗亞·凱莉 "wikilink")）
+    ONES（銷量：104万枚・1998年1月18日止、歌手：[瑪麗亞·凱莉](../Page/瑪麗亞·凱莉.md "wikilink")）
   - 初動史上最低但之後卻獲得冠軍：[化為千風](https://zh.wikipedia.org/wiki/化為千風 "wikilink")（2006年6月5日止初動銷量為513張→之後在2007年1月22日止，週間銷量29094張獲得冠軍歌手：[秋川雅史](../Page/秋川雅史.md "wikilink")）
   - 获得周榜第一的最低销量单曲：トイレの神様（銷量：11327張・2011年1月10日时第1位，歌手：[植村花菜](../Page/植村花菜.md "wikilink")）
   - 进入周榜前十的最低銷量單曲：（銷量：3346張・2011年4月11日時第10位，歌手：[山本讓二](../Page/山本讓二.md "wikilink")）
@@ -765,7 +765,7 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
   - 發售之後距離最久獲得冠軍單曲（包含再發售）：勝手にシンドバッド（1306週・1978年6月25日〜2003年7月7日、歌手：南方之星）
   - 同一曲已獲冠軍之後，再度獲得冠軍距離時間最久：[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")（39週・2003年4月14日～2004年1月12日止、歌手：SMAP）
       - 包含再發售的話（原版至混音版）：[CAN YOU
-        CELEBRATE?](https://zh.wikipedia.org/wiki/CAN_YOU_CELEBRATE? "wikilink")（43週・1997年3月10日〜1998年1月5日、歌手：安室奈美惠）
+        CELEBRATE?](../Page/CAN_YOU_CELEBRATE?.md "wikilink")（43週・1997年3月10日〜1998年1月5日、歌手：安室奈美惠）
   - 再度獲得冠軍單曲時間相隔最久：小田和正「Oh\!
     Yeah\!／突如其來的愛情故事」(第6張單曲)～「こころ」(第25張單曲)（16年個月・1991年4月17日～2007年8月27日）
   - 再度进入周榜前十时间相隔最久：北島三郎（仁義、周第10位） - （夫婦一生、周第10位）（40年5か月・1969年7月21日 -
@@ -854,39 +854,39 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
 
 #### 專輯銷售史上總銷量前20名
 
-| 排名  | 作品名                                                                                         | 歌手名                                                                               | 總銷量     | 最高排名‧年度排名                          |
-| --- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------- | ---------------------------------- |
-| 1位  | [First Love](../Page/First_Love_\(宇多田光專輯\).md "wikilink")                                   | [宇多田光](../Page/宇多田光.md "wikilink")                                                | 765.0萬張 | 1位・1999年度1位                        |
-| 2位  | [B'z The Best "Pleasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Pleasure" "wikilink") | [B'z](../Page/B'z.md "wikilink")                                                  | 513.6萬張 | 1位・1998年度1位                        |
-| 3位  | [REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")                            | [GLAY](../Page/GLAY.md "wikilink")                                                | 487.5萬張 | 1位・1997年度1位                        |
-| 4位  | [Distance](../Page/Distance.md "wikilink")                                                  | [宇多田光](../Page/宇多田光.md "wikilink")                                                | 447.2萬張 | 1位・2001年度1位                        |
-| 5位  | [B'z The Best "Treasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Treasure" "wikilink") | [B'z](../Page/B'z.md "wikilink")                                                  | 443.9萬張 | 1位・1998年度2位                        |
-| 6位  | [A BEST](../Page/A_BEST.md "wikilink")                                                      | [濱崎步](../Page/濱崎步.md "wikilink")                                                  | 429.4萬張 | 1位・2001年度2位                        |
-| 7位  | [globe](https://zh.wikipedia.org/wiki/globe "wikilink")                                     | [globe](https://zh.wikipedia.org/wiki/globe "wikilink")                           | 413.6萬張 | 1位・1996年度1位                        |
-| 8位  | [DEEP RIVER](../Page/DEEP_RIVER.md "wikilink")                                              | [宇多田光](../Page/宇多田光.md "wikilink")                                                | 360.5萬張 | 1位・2002年度1位                        |
-| 9位  | [Delicious Way](https://zh.wikipedia.org/wiki/Delicious_Way "wikilink")                     | [倉木麻衣](../Page/倉木麻衣.md "wikilink")                                                | 353.0萬張 | 1位・2000年度1位                        |
-| 10位 | [Time to Destination](../Page/Time_to_Destination.md "wikilink")                            | [Every Little Thing](https://zh.wikipedia.org/wiki/Every_Little_Thing "wikilink") | 352.0萬張 | 1位・1998年度3位                        |
-| 11位 | \[\[海之Yeah                                                                                  | |海之Yeah                                                                           | \]\]    | [南方之星](../Page/南方之星.md "wikilink") |
-| 12位 | [Atomic Heart](../Page/Atomic_Heart.md "wikilink")                                          | [Mr.Children](../Page/Mr.Children.md "wikilink")                                  | 342.9萬張 | 1位・1994年度3位                        |
-| 13位 | SWEET 19 BLUES                                                                              | [安室奈美惠](../Page/安室奈美惠.md "wikilink")                                              | 335.9萬張 | 1位・1996年度2位                        |
-| 14位 | |[BOLERO](../Page/BOLERO_\(專輯\).md "wikilink")                                              | [Mr.Children](../Page/Mr.Children.md "wikilink")                                  | 328.3萬張 | 1位・1997年度2位                        |
-| 15位 | Neue Musik                                                                                  | [松任谷由實](../Page/松任谷由實.md "wikilink")                                              | 325.1萬張 | 1位・1998年度5位                        |
-| 16位 | FACES PLACES                                                                                | [globe](https://zh.wikipedia.org/wiki/globe "wikilink")                           | 323.9萬張 | 1位・1997年度3位                        |
-| 17位 | The Swinging Star                                                                           | [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")                        | 322.6萬張 | 1位・1992年度5位                        |
-| 18位 | impressions                                                                                 | [竹內瑪莉亞](../Page/竹內瑪莉亞.md "wikilink")                                              | 306.7萬張 | 1位・1994年度2位                        |
-| 19位 | [ALL SINGLES BEST](../Page/ALL_SINGLES_BEST_\(可苦可樂專輯\).md "wikilink")                       | [可苦可樂](../Page/可苦可樂.md "wikilink")                                                | 305.4萬張 | 1位・2006年度3位                        |
-| 20位 | ZARD BEST The Single Collection 〜軌跡〜                                                        | [ZARD](../Page/ZARD.md "wikilink")                                                | 303.4萬張 | 1位・1999年度2位                        |
+| 排名  | 作品名                                                                      | 歌手名                                                                               | 總銷量     | 最高排名‧年度排名                          |
+| --- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ------- | ---------------------------------- |
+| 1位  | [First Love](../Page/First_Love_\(宇多田光專輯\).md "wikilink")                | [宇多田光](../Page/宇多田光.md "wikilink")                                                | 765.0萬張 | 1位・1999年度1位                        |
+| 2位  | [B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink") | [B'z](../Page/B'z.md "wikilink")                                                  | 513.6萬張 | 1位・1998年度1位                        |
+| 3位  | [REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")         | [GLAY](../Page/GLAY.md "wikilink")                                                | 487.5萬張 | 1位・1997年度1位                        |
+| 4位  | [Distance](../Page/Distance.md "wikilink")                               | [宇多田光](../Page/宇多田光.md "wikilink")                                                | 447.2萬張 | 1位・2001年度1位                        |
+| 5位  | [B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink") | [B'z](../Page/B'z.md "wikilink")                                                  | 443.9萬張 | 1位・1998年度2位                        |
+| 6位  | [A BEST](../Page/A_BEST.md "wikilink")                                   | [濱崎步](../Page/濱崎步.md "wikilink")                                                  | 429.4萬張 | 1位・2001年度2位                        |
+| 7位  | [globe](https://zh.wikipedia.org/wiki/globe "wikilink")                  | [globe](https://zh.wikipedia.org/wiki/globe "wikilink")                           | 413.6萬張 | 1位・1996年度1位                        |
+| 8位  | [DEEP RIVER](../Page/DEEP_RIVER.md "wikilink")                           | [宇多田光](../Page/宇多田光.md "wikilink")                                                | 360.5萬張 | 1位・2002年度1位                        |
+| 9位  | [Delicious Way](https://zh.wikipedia.org/wiki/Delicious_Way "wikilink")  | [倉木麻衣](../Page/倉木麻衣.md "wikilink")                                                | 353.0萬張 | 1位・2000年度1位                        |
+| 10位 | [Time to Destination](../Page/Time_to_Destination.md "wikilink")         | [Every Little Thing](https://zh.wikipedia.org/wiki/Every_Little_Thing "wikilink") | 352.0萬張 | 1位・1998年度3位                        |
+| 11位 | \[\[海之Yeah                                                               | |海之Yeah                                                                           | \]\]    | [南方之星](../Page/南方之星.md "wikilink") |
+| 12位 | [Atomic Heart](../Page/Atomic_Heart.md "wikilink")                       | [Mr.Children](../Page/Mr.Children.md "wikilink")                                  | 342.9萬張 | 1位・1994年度3位                        |
+| 13位 | SWEET 19 BLUES                                                           | [安室奈美惠](../Page/安室奈美惠.md "wikilink")                                              | 335.9萬張 | 1位・1996年度2位                        |
+| 14位 | |[BOLERO](../Page/BOLERO_\(專輯\).md "wikilink")                           | [Mr.Children](../Page/Mr.Children.md "wikilink")                                  | 328.3萬張 | 1位・1997年度2位                        |
+| 15位 | Neue Musik                                                               | [松任谷由實](../Page/松任谷由實.md "wikilink")                                              | 325.1萬張 | 1位・1998年度5位                        |
+| 16位 | FACES PLACES                                                             | [globe](https://zh.wikipedia.org/wiki/globe "wikilink")                           | 323.9萬張 | 1位・1997年度3位                        |
+| 17位 | The Swinging Star                                                        | [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")                        | 322.6萬張 | 1位・1992年度5位                        |
+| 18位 | impressions                                                              | [竹內瑪莉亞](../Page/竹內瑪莉亞.md "wikilink")                                              | 306.7萬張 | 1位・1994年度2位                        |
+| 19位 | [ALL SINGLES BEST](../Page/ALL_SINGLES_BEST_\(可苦可樂專輯\).md "wikilink")    | [可苦可樂](../Page/可苦可樂.md "wikilink")                                                | 305.4萬張 | 1位・2006年度3位                        |
+| 20位 | ZARD BEST The Single Collection 〜軌跡〜                                     | [ZARD](../Page/ZARD.md "wikilink")                                                | 303.4萬張 | 1位・1999年度2位                        |
 
 #### 專輯初動銷量前20名
 
-參見:[日本百萬初動專輯排行](https://zh.wikipedia.org/wiki/日本百萬初動專輯排行 "wikilink")
+參見:[日本百萬初動專輯排行](../Page/日本百萬初動專輯排行.md "wikilink")
 
 | 排名  | 作品名                                                                                             | 歌手名                                                                               | 發售日         | 初動週間張數    |
 | --- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------- | --------- |
 | 1位  | [Distance](../Page/Distance.md "wikilink")                                                      | [宇多田光](../Page/宇多田光.md "wikilink")                                                | 2001年3月28日  | 3,002,720 |
 | 2位  | [A BEST](../Page/A_BEST.md "wikilink")                                                          | [濱崎步](../Page/濱崎步.md "wikilink")                                                  | 2001年3月28日  | 2,874,870 |
-| 3位  | [B'z The Best "Pleasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Pleasure" "wikilink")     | [B'z](../Page/B'z.md "wikilink")                                                  | 1998年5月20日  | 2,709,530 |
-| 4位  | [B'z The Best "Treasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Treasure" "wikilink")     | [B'z](../Page/B'z.md "wikilink")                                                  | 1998年9月20日  | 2,500,120 |
+| 3位  | [B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")                        | [B'z](../Page/B'z.md "wikilink")                                                  | 1998年5月20日  | 2,709,530 |
+| 4位  | [B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")                        | [B'z](../Page/B'z.md "wikilink")                                                  | 1998年9月20日  | 2,500,120 |
 | 5位  | [DEEP RIVER](../Page/DEEP_RIVER.md "wikilink")                                                  | [宇多田光](../Page/宇多田光.md "wikilink")                                                | 2002年6月19日  | 2,350,170 |
 | 6位  | [delicious way](https://zh.wikipedia.org/wiki/delicious_way "wikilink")                         | [倉木麻衣](../Page/倉木麻衣.md "wikilink")                                                | 2000年6月28日  | 2,218,640 |
 | 7位  | [First Love](../Page/First_Love_\(宇多田光專輯\).md "wikilink")                                       | [宇多田光](../Page/宇多田光.md "wikilink")                                                | 1999年3月10日  | 2,026,870 |
@@ -896,7 +896,7 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
 | 11位 | [BOLERO](../Page/BOLERO_\(專輯\).md "wikilink")                                                   | [Mr.Children](../Page/Mr.Children.md "wikilink")                                  | 1997年3月5日   | 1,734,880 |
 | 12位 | [DRIVE～GLAY complete BEST～](https://zh.wikipedia.org/wiki/DRIVE～GLAY_complete_BEST～ "wikilink") | [GLAY](../Page/GLAY.md "wikilink")                                                | 2000年11月29日 | 1,726,780 |
 | 13位 | [Duty](../Page/Duty.md "wikilink")                                                              | [濱崎步](../Page/濱崎步.md "wikilink")                                                  | 2000年9月27日  | 1,682,760 |
-| 14位 | [CRUISE RECORD 1995-2000](https://zh.wikipedia.org/wiki/CRUISE_RECORD_1995-2000 "wikilink")     | [globe](https://zh.wikipedia.org/wiki/globe "wikilink")                           | 1999年9月22日  | 1,664,330 |
+| 14位 | [CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")                        | [globe](https://zh.wikipedia.org/wiki/globe "wikilink")                           | 1999年9月22日  | 1,664,330 |
 | 15位 | [FACES PLACES](https://zh.wikipedia.org/wiki/FACES_PLACES "wikilink")                           | [globe](https://zh.wikipedia.org/wiki/globe "wikilink")                           | 1997年3月12日  | 1,648,550 |
 | 16位 | [HEAVY GAUGE](../Page/HEAVY_GAUGE.md "wikilink")                                                | [GLAY](../Page/GLAY.md "wikilink")                                                | 1999年10月20日 | 1,569,290 |
 | 17位 | [Time to Destination](../Page/Time_to_Destination.md "wikilink")                                | [Every Little Thing](https://zh.wikipedia.org/wiki/Every_Little_Thing "wikilink") | 1998年4月15日  | 1,563,560 |
@@ -921,7 +921,7 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
 | 400  | LINDBERG IV                                                      | LINDBERG                                                      | 1991年4月29日  |
 | 450  | GUYS                                                             | [恰克與飛鳥](../Page/恰克與飛鳥.md "wikilink")                          | 1992年11月16日 |
 | 500  | OH MY LOVE                                                       | [ZARD](../Page/ZARD.md "wikilink")                            | 1994年6月13日  |
-| 550  | [夢遊仙境](../Page/夢遊仙境_\(瑪麗亞·凱莉專輯\).md "wikilink")                  | [瑪麗亞·凱莉](https://zh.wikipedia.org/wiki/瑪麗亞·凱莉 "wikilink")     | 1995年10月9日  |
+| 550  | [夢遊仙境](../Page/夢遊仙境_\(瑪麗亞·凱莉專輯\).md "wikilink")                  | [瑪麗亞·凱莉](../Page/瑪麗亞·凱莉.md "wikilink")                        | 1995年10月9日  |
 | 600  | SICKS                                                            | THE YELLOW MONKEY                                             | 1997年2月3日   |
 | 650  | SHINE                                                            | [LUNA SEA](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink") | 1998年8月3日   |
 | 700  | FRESH BRASH OLD MAN                                              | SNAIL RAMP                                                    | 2000年1月31日  |
@@ -982,7 +982,7 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
 | [GLAY](../Page/GLAY.md "wikilink")                      |         |                                                                   |
 | 17位                                                     | 12作     | [恰克與飛鳥](../Page/恰克與飛鳥.md "wikilink")                              |
 | [長渕剛](https://zh.wikipedia.org/wiki/長渕剛 "wikilink")     |         |                                                                   |
-| 19位                                                     | 11作     | [冰室京介](https://zh.wikipedia.org/wiki/冰室京介 "wikilink")             |
+| 19位                                                     | 11作     | [冰室京介](../Page/冰室京介.md "wikilink")                                |
 | [倖田来未](https://zh.wikipedia.org/wiki/倖田来未 "wikilink")   |         |                                                                   |
 | [V6](https://zh.wikipedia.org/wiki/V6 "wikilink")       |         |                                                                   |
 | [ZARD](../Page/ZARD.md "wikilink")                      |         |                                                                   |
@@ -1047,7 +1047,7 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
         20](../Page/Concentration_20.md "wikilink")
       - 20代:[181920](../Page/181920.md "wikilink")
       - 30代:[BEST FICTION](../Page/BEST_FICTION.md "wikilink")
-      - 40代:[Finally](https://zh.wikipedia.org/wiki/Finally "wikilink")
+      - 40代:[Finally](../Page/Finally.md "wikilink")
   - 連續四個年代皆獲得冠軍專輯男歌手：[德永英明](../Page/德永英明.md "wikilink")（1980年代、1990年代、2000年代、2010年代）
       - 1980年代：BIRDS（1987年）
       - 1990年代：JUSTICE（1990年）、REVOLUTION（1991年）

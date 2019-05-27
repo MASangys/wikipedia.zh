@@ -13,7 +13,7 @@ Face**》是[KAT-TUN的第一张单曲同是也是出道曲](../Page/KAT-TUN.md 
 
   - ORICON首週銷售量達到75.4萬張，是B'z的『[裸足的女神](../Page/裸足的女神.md "wikilink")』首週銷售77.8萬張以來ORICON單曲榜史上第13高的記録。2000年以來僅有[宇多田光的](../Page/宇多田光.md "wikilink")『[Wait\&See
     ～Risk～](../Page/Wait&See_～Risk～.md "wikilink")』、『[Can You Keep A
-    Secret?](https://zh.wikipedia.org/wiki/Can_You_Keep_A_Secret? "wikilink")』以來的第3高（達成週時点で）。
+    Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")』以來的第3高（達成週時点で）。
   - 雖然是同樣的單曲，但包裝的形式不同，一共出了九個版本。其中六個版本是以六個成員放在中間，一個版本是通常盤，一個版本是通常盤初回附加，及一個版本是BOX版本。以當時非官方計算，Oricon單曲榜頭10位的銷售情況如下：第1位是完全限定BOX、2位是通常盤、3位是初回限定盤（[龜梨和也](../Page/龜梨和也.md "wikilink")）、4位是初回限定盤（[赤西仁](../Page/赤西仁.md "wikilink")）、6位是初回限定盤（[田口淳之介](../Page/田口淳之介.md "wikilink")）、7位是初回限定盤（[上田龍也](../Page/上田龍也.md "wikilink")）、8位是初回限定盤（[中丸雄一](../Page/中丸雄一.md "wikilink")）及9位是初回限定盤（[田中聖](../Page/田中聖.md "wikilink")）。
   - 出道曲獲得ORICON公信榜連續三週單曲冠軍。3週冠軍，是自[KinKi
     Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")「[Anniversary](../Page/Anniversary.md "wikilink")」以來，相隔了1年3個月。至於出道單曲3週冠軍的成就，是自[KinKi

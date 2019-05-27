@@ -4,7 +4,7 @@ EATER**》（）是由[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫�
 ENIX出版](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")）上連載。電視動畫獲選為2008年第十二回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭動畫部門推薦的作品](../Page/文化廳媒體藝術祭.md "wikilink")。
 
 於「月刊少年GANGAN」2011年度2月號開始連載外傳作品《**[SOUL EATER
-NOT\!](https://zh.wikipedia.org/wiki/Soul_Eater_Not! "wikilink")**》
+NOT\!](../Page/Soul_Eater_Not!.md "wikilink")**》
 
 ## 概要
 
@@ -319,10 +319,10 @@ Scythe的總部。現存有9位Death Scythe 。「死武専」是為了防止鬼
   - Death The Kid：[本田貴子](../Page/本田貴子.md "wikilink")
   - 死神之鎌：[平田廣明](../Page/平田廣明.md "wikilink")
   - 弗藍肯‧斯坦：[宮本充](../Page/宮本充.md "wikilink")
-  - 死神大人：[大林隆介](https://zh.wikipedia.org/wiki/大林隆介 "wikilink")
+  - 死神大人：[大林隆介](../Page/大林隆介.md "wikilink")
   - 莉絲‧湯普森：[甲斐田裕子](../Page/甲斐田裕子.md "wikilink")
   - 帕蒂‧湯普森：[澤城美雪](../Page/澤城美雪.md "wikilink")
-  - 布蕾亞：[笹本優子](https://zh.wikipedia.org/wiki/笹本優子 "wikilink")
+  - 布蕾亞：[笹本優子](../Page/笹本優子.md "wikilink")
   - 死人‧巴雷特：[赤城進](https://zh.wikipedia.org/wiki/赤城進 "wikilink")
 
 ## 電視動畫

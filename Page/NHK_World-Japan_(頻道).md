@@ -24,7 +24,7 @@ TV開始以[1080i規格全高清播出](https://zh.wikipedia.org/wiki/1080i "wik
 ## 节目
 
 NHK World-Japan节目以新闻资讯为主，每天24小時逢整點播出新聞節目《[NHK
-NEWSLINE](https://zh.wikipedia.org/wiki/NHK_NEWSLINE "wikilink")》，也会提供部分文化、音乐、料理等节目。部分节目会在[NHK
+NEWSLINE](../Page/NHK_NEWSLINE.md "wikilink")》，也会提供部分文化、音乐、料理等节目。部分节目会在[NHK
 BS1播出](../Page/NHK_BS1.md "wikilink")。另外，如果日本国内发生重大事件，NHK
 World-Japan会以英语同声传译的方式与NHK其他频道同步播出（如[2016年熊本地震期间及](../Page/2016年熊本地震.md "wikilink")2016年8月8日[天皇](../Page/天皇.md "wikilink")[明仁发表电视讲话](../Page/明仁.md "wikilink")）。
 

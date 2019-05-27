@@ -857,7 +857,7 @@ Gravion對戰過。另外大張導演在DVD特典說出「如果讓Zeravion和Gr
 <td><p>沒有笑容的少女</p></td>
 <td></td>
 <td><p>奥野健</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/神戶洋行" title="wikilink">神戶洋行</a></p></td>
+<td><p><a href="../Page/神戶洋行.md" title="wikilink">神戶洋行</a></p></td>
 <td><p>椛島洋介</p></td>
 <td><p>2002年11月11日</p></td>
 <td></td>
@@ -912,7 +912,7 @@ Gravion對戰過。另外大張導演在DVD特典說出「如果讓Zeravion和Gr
 <td><p>10</p></td>
 <td><p>龜裂</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/坂田純一" title="wikilink">坂田純一</a></p></td>
+<td><p><a href="../Page/坂田純一.md" title="wikilink">坂田純一</a></p></td>
 <td><p>岡崎ユキオ</p></td>
 <td><p>斉藤良成<br />
 田村勝之<br />

@@ -229,13 +229,13 @@ F線列車在任何時候都在同一條路線上使用相同的服務形式。\
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）</p></td>
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）</p></td>
 <td><p>線巴士往<a href="https://zh.wikipedia.org/wiki/拉瓜迪亞機場" title="wikilink">拉瓜迪亞機場</a>（只限）<br />
 <br />
 往<a href="https://zh.wikipedia.org/wiki/拉瓜迪亞機場" title="wikilink">拉瓜迪亞機場</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/63街線" title="wikilink">63街線</a></strong></p></td>
+<td><p><strong><a href="../Page/63街線.md" title="wikilink">63街線</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -307,7 +307,7 @@ F線列車在任何時候都在同一條路線上使用相同的服務形式。\
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Aiga_elevator.svg" title="fig:Aiga_elevator.svg">Aiga_elevator.svg</a></p></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>，<a href="https://zh.wikipedia.org/wiki/第五大道車站_(IRT法拉盛線)" title="wikilink">第五大道</a>）</p></td>
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>，<a href="https://zh.wikipedia.org/wiki/第五大道車站_(IRT法拉盛線)" title="wikilink">第五大道</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -432,7 +432,7 @@ F線列車在任何時候都在同一條路線上使用相同的服務形式。\
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡爾洛街車站_(IND卡爾弗線)" title="wikilink">卡爾洛街</a></p></td>
+<td><p><a href="../Page/卡爾洛街車站_(IND卡爾弗線).md" title="wikilink">卡爾洛街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -489,7 +489,7 @@ F線列車在任何時候都在同一條路線上使用相同的服務形式。\
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/迪特馬斯大道車站_(IND卡爾弗線)" title="wikilink">迪特馬斯大道</a></p></td>
+<td><p><a href="../Page/迪特馬斯大道車站_(IND卡爾弗線).md" title="wikilink">迪特馬斯大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -505,7 +505,7 @@ F線列車在任何時候都在同一條路線上使用相同的服務形式。\
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/I大道車站_(IND卡爾弗線)" title="wikilink">I大道</a></p></td>
+<td><p><a href="../Page/I大道車站_(IND卡爾弗線).md" title="wikilink">I大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -513,7 +513,7 @@ F線列車在任何時候都在同一條路線上使用相同的服務形式。\
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/海灣公園道車站_(IND卡爾弗線)" title="wikilink">海灣公園道</a></p></td>
+<td><p><a href="../Page/海灣公園道車站_(IND卡爾弗線).md" title="wikilink">海灣公園道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -521,7 +521,7 @@ F線列車在任何時候都在同一條路線上使用相同的服務形式。\
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/N大道車站_(IND卡爾弗線)" title="wikilink">N大道</a></p></td>
+<td><p><a href="../Page/N大道車站_(IND卡爾弗線).md" title="wikilink">N大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -529,7 +529,7 @@ F線列車在任何時候都在同一條路線上使用相同的服務形式。\
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/P大道車站_(IND卡爾弗線)" title="wikilink">P大道</a></p></td>
+<td><p><a href="../Page/P大道車站_(IND卡爾弗線).md" title="wikilink">P大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -546,7 +546,7 @@ F線列車在任何時候都在同一條路線上使用相同的服務形式。\
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/U大道車站_(IND卡爾弗線)" title="wikilink">U大道</a></p></td>
+<td><p><a href="../Page/U大道車站_(IND卡爾弗線).md" title="wikilink">U大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -554,7 +554,7 @@ F線列車在任何時候都在同一條路線上使用相同的服務形式。\
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/X大道車站_(IND卡爾弗線)" title="wikilink">X大道</a></p></td>
+<td><p><a href="../Page/X大道車站_(IND卡爾弗線).md" title="wikilink">X大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -581,7 +581,7 @@ F線列車在任何時候都在同一條路線上使用相同的服務形式。\
 <td><p><a href="https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_(IND卡爾弗線)" title="wikilink">康尼島-斯提威爾大道</a></p></td>
 <td></td>
 <td></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/BMT西城線" title="wikilink">BMT西城線</a>）<br />
+<td><p>（<a href="../Page/BMT西城線.md" title="wikilink">BMT西城線</a>）<br />
 （<a href="https://zh.wikipedia.org/wiki/BMT海灘線" title="wikilink">BMT海灘線</a>）<br />
 （<a href="https://zh.wikipedia.org/wiki/BMT布萊頓線" title="wikilink">BMT布萊頓線</a>）</p></td>
 <td></td>

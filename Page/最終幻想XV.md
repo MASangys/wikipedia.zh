@@ -9,7 +9,7 @@ VR](../Page/PlayStation_VR.md "wikilink")）的遊戲內容。
 3改到PlayStation](../Page/PlayStation_3.md "wikilink") 4和Xbox
 One\[2\]\[3\]。[野村哲也最初任监督](../Page/野村哲也.md "wikilink")，并设计角色与构思基本故事。2014年，[田畑端加入担任共同总监](../Page/田畑端.md "wikilink")。游戏在2016年11月29日发行PS4與Xbox
 One版本，Windows版本於2018年3月发售。人物以Q版大頭造型重製的手機版《[Final Fantasy XV
-口袋版](https://zh.wikipedia.org/wiki/Final_Fantasy_XV_口袋版 "wikilink")》在2018年2月於iOS和Android平台發行，同年9月則先後在PS4、Xbox
+口袋版](../Page/Final_Fantasy_XV_口袋版.md "wikilink")》在2018年2月於iOS和Android平台發行，同年9月則先後在PS4、Xbox
 One和任天堂Switch平台發行HD移植版\[4\]\[5\]。2018年9月，本作的PS4與Xbox
 One版本合計已達到810萬套的全球累計出貨數\[6\]\[7\]。
 
@@ -102,7 +102,7 @@ XIII”为题对应[PlayStation
 降临之子](../Page/最终幻想VII_降临之子.md "wikilink")》一组处理预渲染影片，技术职员制造引擎\[72\]\[73\]。原总监[野村哲也构思游戏内容以及基本故事](../Page/野村哲也.md "wikilink")，并与罗伯托·法拉利合作设计角色\[74\]\[75\]。[桥本真司担任制作人](../Page/桥本真司.md "wikilink")，[野岛一成编写剧本](../Page/野岛一成.md "wikilink")，[下村阳子谱写原声](../Page/下村阳子.md "wikilink")\[76\]\[77\]。《降临之子》共同总监之一的野末武志负责过场等视觉部分\[78\]。几名职员在制作期间加入或离开项目：比如[北濑佳范是最初的制作人](https://zh.wikipedia.org/wiki/北濑佳范 "wikilink")，但已不再直接参与项目；美术[直良有佑后来加入团队](../Page/直良有佑.md "wikilink")\[79\]\[80\]\[81\]。2012年7月，原史克威尔艾尼克斯CEO[和田洋一指派](../Page/和田洋一.md "wikilink")《最终幻想
 零式》开发者援助《最终幻想15》制作\[82\]。一年后田畑端成为共同总监\[83\]。野村已在游戏相当末期时将重点转移到《[王国之心III](../Page/王國之心III.md "wikilink")》等其他项目，田畑成为唯一总监\[84\]\[85\]\[86\]。游戏现有200余名工作人员\[87\]。
 
-《最终幻想15》最初使用史克威尔为[第七世代游戏机和PC设计的中间件引擎](https://zh.wikipedia.org/wiki/游戏机历史_\(第七世代\) "wikilink")[水晶工具](../Page/水晶工具.md "wikilink")\[88\]。但游戏之后用专用动作导向引擎和一些中间件工具重建，同时使用的还有公司新引擎[夜光](https://zh.wikipedia.org/wiki/夜光引擎 "wikilink")，比如它的灯光技术\[89\]。在《最终幻想Agito
+《最终幻想15》最初使用史克威尔为[第七世代游戏机和PC设计的中间件引擎](https://zh.wikipedia.org/wiki/游戏机历史_\(第七世代\) "wikilink")[水晶工具](../Page/水晶工具.md "wikilink")\[88\]。但游戏之后用专用动作导向引擎和一些中间件工具重建，同时使用的还有公司新引擎[夜光](../Page/夜光引擎.md "wikilink")，比如它的灯光技术\[89\]。在《最终幻想Agito
 XIII》易名《最终幻想 零式》，2011年次世代主机[PlayStation
 4和](../Page/PlayStation_4.md "wikilink")[Xbox
 One送给史克威尔艾尼克斯时](../Page/Xbox_One.md "wikilink")，公司决定在内部将《最终幻想Versus
@@ -136,7 +136,7 @@ XIII》而非《最终幻想15》。但随着内容规模的快速增长，最�
 ### 音樂
 
   -
-    主條目：[最终幻想15 的音乐](https://zh.wikipedia.org/wiki/最终幻想15的音乐 "wikilink")
+    主條目：[最终幻想15 的音乐](../Page/最终幻想15的音乐.md "wikilink")
 
 《最終幻想XV》的遊戲音樂主要由[下村陽子負責](https://zh.wikipedia.org/wiki/下村陽子 "wikilink")，她也是《[王國之心系列](../Page/王國之心系列.md "wikilink")》音樂的主要創作者。而主题曲是由英国乐队[Florence
 + the
@@ -169,7 +169,7 @@ Fan-{}-tasy XV Judgment Disc》\[140\]。
 
 [北京时间](../Page/北京时间.md "wikilink")2016年3月31日，[微软在中国大陆地区的家用游戏机合作伙伴](../Page/微软.md "wikilink")[上海东方明珠新媒体股份有限公司与史克威尔艾尼克斯于](../Page/东方明珠_\(公司\).md "wikilink")[美国](../Page/美国.md "wikilink")[洛杉矶签署](../Page/洛杉矶.md "wikilink")《最终幻想15》项目合作协议，合作范围除了游戏本体，还包括云游戏及电影、动画等最终幻想系列产品\[141\]。合作协议签署后，Xbox
 One平台与PlayStation
-4平台上的《最终幻想15》在中国大陆地区均交由东方明珠新媒体发行。与之前引进的《[最终幻想XIV：重生之境](https://zh.wikipedia.org/wiki/最终幻想XIV：重生之境 "wikilink")》和《[最终幻想X/X-2
+4平台上的《最终幻想15》在中国大陆地区均交由东方明珠新媒体发行。与之前引进的《[最终幻想XIV：重生之境](../Page/最终幻想XIV：重生之境.md "wikilink")》和《[最终幻想X/X-2
 HD重制版](https://zh.wikipedia.org/wiki/最终幻想X/X-2_HD重制版 "wikilink")》不同，此次的译名为《最终幻-{}-想15》，舍弃了罗马数字“XV”，文本和图标都为此进行了相应修改\[142\]\[143\]。
 
 大陆发行版本为了能够通过当局审批，对部分游戏内容进行了修改\[144\]。2016年11月15日晚，有媒体报道称大陆版《最终幻想15》已通过[国家新闻出版广电总局审批并获颁批准文号](https://zh.wikipedia.org/wiki/国家新闻出版广电总局 "wikilink")，官方微博账号亦于同期发布首条留言\[145\]。2016年11月26日晚，发行方在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[东方明珠广场召开发布会](../Page/东方明珠广播电视塔.md "wikilink")，在会上正式宣布大陆版《最终幻想15》将于11月29日全球同步上市\[146\]。
@@ -193,7 +193,7 @@ TYPE-D」。
 
 此外游戏还在发售后不断追加了一些新的功能，像可以越野的-{「}-雷格里亞
 TYPE-D-{」}-等。而-{「}-雷迦利亚-{」}-也作为追加下载车辆出现在微软的竞速游戏《[极限竞速
-地平线3](https://zh.wikipedia.org/wiki/极限竞速_地平线3 "wikilink")》中\[150\]。
+地平线3](../Page/极限竞速_地平线3.md "wikilink")》中\[150\]。
 
 ## 評價
 
@@ -381,22 +381,21 @@ E3
     Empire），關於本篇主角諾克提斯與帝國的冒險故事，是款由史克威爾艾尼克斯授權於Machine
     Zone公司製作及發行的策略經營的手機遊戲，玩家的首要目標是要讓帝國壯大並且集結各路好友，共同成立強大的公會聯盟成為世界的霸主。要讓帝國變強，不單練等、創建部隊這麼簡單，玩家還需要鞏固城牆抵禦外敵、生產資源等等。資源除了耕地生產之外，還可以透過採集的方式，或是率領部隊攻打其他帝國來掠奪資源。遊戲內建
     32 國語言即時翻譯，玩家可以和全球玩家即時對話、廝殺。遊戲于2017年6月1日開放事前登錄。
-  - 《[最终幻想15：口袋版](https://zh.wikipedia.org/wiki/Final_Fantasy_XV_口袋版 "wikilink")》（Final
+  - 《[最终幻想15：口袋版](../Page/Final_Fantasy_XV_口袋版.md "wikilink")》（Final
     F-{}-antasy XV: Pocket
     Edition），2018年2月发售，游戏正篇的手机版（iOS、Android），角色采用了Q版造型重新製做。分10个章节发售，第一章節可免費試玩\[171\]。
 
 ### 主机游戏
 
-  - 《[最终幻想15：口袋版HD](https://zh.wikipedia.org/wiki/Final_Fantasy_XV_口袋版 "wikilink")》（Final
+  - 《[最终幻想15：口袋版HD](../Page/Final_Fantasy_XV_口袋版.md "wikilink")》（Final
     F-{}-antasy XV: Pocket Edition
     HD），2018年9月发售，手机版的高清移植作品，登陆PlayStation
     4、Xbox One以及任天堂Switch等主机平台\[172\]。
 
 ### 動畫
 
-  - 《[兄弟情
-    最终幻想XV](https://zh.wikipedia.org/wiki/兄弟情_最终幻想XV "wikilink")》（BROTHERHOOD
-    FINAL FANTASY XV），關於諾克提斯與三位夥伴格拉迪歐、伊格尼斯與普羅恩普特之間的故事，媒體為網路動畫。
+  - 《[兄弟情 最终幻想XV](../Page/兄弟情_最终幻想XV.md "wikilink")》（BROTHERHOOD FINAL
+    FANTASY XV），關於諾克提斯與三位夥伴格拉迪歐、伊格尼斯與普羅恩普特之間的故事，媒體為網路動畫。
 
 <!-- end list -->
 

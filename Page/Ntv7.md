@@ -1,4 +1,4 @@
-**ntv7**，全称为**NatSeven電視私人有限公司**（），是[馬來西亞私营电视台](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，1998年4月7日早上8：00开播。ntv7的目标是为了使马来西亚社会更欢乐又更进步，正式的中文[口號是](https://zh.wikipedia.org/wiki/口號 "wikilink")**“感覺美好”**，当初为一家独立私营电视台，既是与[TV3与](../Page/TV3_\(马来西亚\).md "wikilink")[八度空间竞争](../Page/八度空间_\(电视台\).md "wikilink")。但在2005年，ntv7因财务困难而被[首要媒体收购](https://zh.wikipedia.org/wiki/首要媒体 "wikilink")，因此ntv7与TV3、八度空间与[TV9皆同屬於首要媒體](https://zh.wikipedia.org/wiki/TV9 "wikilink")。
+**ntv7**，全称为**NatSeven電視私人有限公司**（），是[馬來西亞私营电视台](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，1998年4月7日早上8：00开播。ntv7的目标是为了使马来西亚社会更欢乐又更进步，正式的中文[口號是](https://zh.wikipedia.org/wiki/口號 "wikilink")**“感覺美好”**，当初为一家独立私营电视台，既是与[TV3与](../Page/TV3_\(马来西亚\).md "wikilink")[八度空间竞争](../Page/八度空间_\(电视台\).md "wikilink")。但在2005年，ntv7因财务困难而被[首要媒体收购](../Page/首要媒体.md "wikilink")，因此ntv7与TV3、八度空间与[TV9皆同屬於首要媒體](https://zh.wikipedia.org/wiki/TV9 "wikilink")。
 
 自2017年1月1日起，ntv7的全天播出时间改為06:00-次日凌晨01:50（[除夕](../Page/除夕.md "wikilink")02:00，有時會因播出《CJ
 WOW
@@ -219,7 +219,7 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 </tr>
 <tr class="odd">
 <td><p>11:00p.m</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大秦帝国之崛起" title="wikilink">大秦帝国之崛起</a> （第10-15集）</p></td>
+<td><p><a href="../Page/大秦帝国之崛起.md" title="wikilink">大秦帝国之崛起</a> （第10-15集）</p></td>
 <td><p>CJ WOW SHOP 中文版</p></td>
 <td></td>
 <td></td>
@@ -510,7 +510,7 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 <tr class="odd">
 <td><p><em>夺命游戏2</em><br />
 <small><em>The Game 2</em></small></p></td>
-<td><p><a href="../Page/蔡佩璇.md" title="wikilink">蔡佩璇</a>、<a href="https://zh.wikipedia.org/wiki/王爱玲" title="wikilink">王爱玲</a>、<a href="https://zh.wikipedia.org/wiki/庄惟翔" title="wikilink">庄惟翔</a>、<a href="https://zh.wikipedia.org/wiki/林静苗" title="wikilink">林静苗</a>、<a href="https://zh.wikipedia.org/wiki/林冰冰" title="wikilink">林冰冰</a>、<a href="https://zh.wikipedia.org/wiki/盛智伟" title="wikilink">盛智伟</a>、<a href="https://zh.wikipedia.org/wiki/魏幽兰" title="wikilink">魏幽兰</a>、<a href="https://zh.wikipedia.org/wiki/吴欣婷" title="wikilink">吴欣婷</a></p></td>
+<td><p><a href="../Page/蔡佩璇.md" title="wikilink">蔡佩璇</a>、<a href="../Page/王爱玲.md" title="wikilink">王爱玲</a>、<a href="https://zh.wikipedia.org/wiki/庄惟翔" title="wikilink">庄惟翔</a>、<a href="https://zh.wikipedia.org/wiki/林静苗" title="wikilink">林静苗</a>、<a href="https://zh.wikipedia.org/wiki/林冰冰" title="wikilink">林冰冰</a>、<a href="https://zh.wikipedia.org/wiki/盛智伟" title="wikilink">盛智伟</a>、<a href="https://zh.wikipedia.org/wiki/魏幽兰" title="wikilink">魏幽兰</a>、<a href="https://zh.wikipedia.org/wiki/吴欣婷" title="wikilink">吴欣婷</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -523,7 +523,7 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 <td><p>2014年</p></td>
 <td><p>|忆起回家<br />
 <small><em>Spring Chorus</em></small></p></td>
-<td><p><a href="../Page/蔡河立.md" title="wikilink">蔡河立</a>、<a href="../Page/吳天瑜.md" title="wikilink">吳天瑜</a>、<a href="https://zh.wikipedia.org/wiki/王爱玲" title="wikilink">王爱玲</a>、<a href="../Page/庄仲维.md" title="wikilink">庄仲维</a>、<a href="https://zh.wikipedia.org/wiki/陈凯旋" title="wikilink">陈凯旋</a>、<a href="../Page/李洺中.md" title="wikilink">李洺中</a>、<a href="https://zh.wikipedia.org/wiki/秦雯彬" title="wikilink">秦雯彬</a>、<a href="../Page/张惠虹.md" title="wikilink">张惠虹</a>、<a href="../Page/王淑君.md" title="wikilink">王淑君</a>、<a href="../Page/王冠逸.md" title="wikilink">王冠逸</a>、<a href="https://zh.wikipedia.org/wiki/梁雅高" title="wikilink">梁雅高</a></p></td>
+<td><p><a href="../Page/蔡河立.md" title="wikilink">蔡河立</a>、<a href="../Page/吳天瑜.md" title="wikilink">吳天瑜</a>、<a href="../Page/王爱玲.md" title="wikilink">王爱玲</a>、<a href="../Page/庄仲维.md" title="wikilink">庄仲维</a>、<a href="https://zh.wikipedia.org/wiki/陈凯旋" title="wikilink">陈凯旋</a>、<a href="../Page/李洺中.md" title="wikilink">李洺中</a>、<a href="https://zh.wikipedia.org/wiki/秦雯彬" title="wikilink">秦雯彬</a>、<a href="../Page/张惠虹.md" title="wikilink">张惠虹</a>、<a href="../Page/王淑君.md" title="wikilink">王淑君</a>、<a href="../Page/王冠逸.md" title="wikilink">王冠逸</a>、<a href="https://zh.wikipedia.org/wiki/梁雅高" title="wikilink">梁雅高</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2016年</p></td>

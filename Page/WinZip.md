@@ -3,7 +3,7 @@
 **WinZip**是一个由WinZip Computing（前Nico Mak Computing）开发，適用於[Microsoft
 Windows作業系統的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[数据压缩软件](../Page/数据压缩.md "wikilink")。它原先的基礎是使用[PKZIP](https://zh.wikipedia.org/wiki/PKZIP "wikilink")，但也不同程度地支持其它压缩格式。
 
-WinZip最初在1990年代早期出现，是一个[共享软件](https://zh.wikipedia.org/wiki/共享软件 "wikilink")，PKZIP的[图形用户界面前台程序](../Page/图形用户界面.md "wikilink")。1996年前后，WinZip加入来自[Info-ZIP计划的代码](https://zh.wikipedia.org/wiki/Info-ZIP "wikilink")，从此不需要PKZIP程序以执行。
+WinZip最初在1990年代早期出现，是一个[共享软件](https://zh.wikipedia.org/wiki/共享软件 "wikilink")，PKZIP的[图形用户界面前台程序](../Page/图形用户界面.md "wikilink")。1996年前后，WinZip加入来自[Info-ZIP计划的代码](../Page/Info-ZIP.md "wikilink")，从此不需要PKZIP程序以执行。
 
 从版本6.0到9.0，注册用户可以下载软件的最新版本，只需输入购买时获得的序列号就能获得一次免费升级。但从版本10.0起後，这项升级功能被取消。\[1\]WinZip大致上分為标准版（Standard）和专业版（Professional）。
 

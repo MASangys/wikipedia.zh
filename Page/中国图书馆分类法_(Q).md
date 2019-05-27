@@ -28,7 +28,7 @@
 
 :\*Q21 [细胞的形成与演化](../Page/细胞.md "wikilink")
 
-:\*Q23 [细胞遗传学](https://zh.wikipedia.org/wiki/细胞遗传学 "wikilink")
+:\*Q23 [细胞遗传学](../Page/细胞遗传学.md "wikilink")
 
 :\*Q24 [细胞形态学](https://zh.wikipedia.org/wiki/细胞形态学 "wikilink")
 

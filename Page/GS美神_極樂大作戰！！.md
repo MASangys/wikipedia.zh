@@ -403,8 +403,8 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
 全3冊，內容為電影動畫的小說化。
 
-  - [松井亞彌](https://zh.wikipedia.org/wiki/松井亞彌 "wikilink")《
-    前篇》（小學館〈〉，1993年）ISBN 4-09-440151-2
+  - [松井亞彌](../Page/松井亞彌.md "wikilink")《 前篇》（小學館〈〉，1993年）ISBN
+    4-09-440151-2
   - 松井亞彌《GS美神極樂大作戰\!\! Vol.2 水迷宮的少女\!\! 後篇》（小學館〈Super
     Quest文庫〉，1994年）ISBN 4-09-440152-0
 
@@ -433,7 +433,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
 1993年4月11日至1994年3月6日在[朝日放送](../Page/朝日放送.md "wikilink")、[朝日電視網的](../Page/全日本新聞網.md "wikilink")時段首播，動畫由[東映動畫製作](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，全45話。
 
-配音陣容方面。主角美神令子、橫島忠夫、小絹依序分別由[鶴弘美](../Page/鶴弘美.md "wikilink")、[堀川亮](../Page/堀川亮.md "wikilink")、[國府田麻理子獻聲](../Page/國府田麻理子.md "wikilink")。旁白（見鬼愁／<small></small>）由[青野武配音](../Page/青野武.md "wikilink")。相反的是，當初小絹指定由[西原久美子擔任](../Page/西原久美子.md "wikilink")、六道冥子由國府田麻理子擔任，[千葉繁負責旁白](../Page/千葉繁.md "wikilink")（見鬼娃娃）。但在擔任導演和劇本總監的[梅澤淳稔的反對下](https://zh.wikipedia.org/wiki/梅澤淳稔 "wikilink")，才決定正式播出時的配音陣容，而六道冥子改由西原久美子配音、[千葉繁則飾演卡歐斯博士](../Page/千葉繁.md "wikilink")\[2\]。
+配音陣容方面。主角美神令子、橫島忠夫、小絹依序分別由[鶴弘美](../Page/鶴弘美.md "wikilink")、[堀川亮](../Page/堀川亮.md "wikilink")、[國府田麻理子獻聲](../Page/國府田麻理子.md "wikilink")。旁白（見鬼愁／<small></small>）由[青野武配音](../Page/青野武.md "wikilink")。相反的是，當初小絹指定由[西原久美子擔任](../Page/西原久美子.md "wikilink")、六道冥子由國府田麻理子擔任，[千葉繁負責旁白](../Page/千葉繁.md "wikilink")（見鬼娃娃）。但在擔任導演和劇本總監的[梅澤淳稔的反對下](../Page/梅澤淳稔.md "wikilink")，才決定正式播出時的配音陣容，而六道冥子改由西原久美子配音、[千葉繁則飾演卡歐斯博士](../Page/千葉繁.md "wikilink")\[2\]。
 
 與原作不同的地方是美神除靈事務的所在地一開始就設定在一軒屋（原作的初期設定是位於5樓的一般商業大樓，後來才轉移至一軒屋），基本上大致和原作相同。還有，美神的住所是在她的除靈事務所（原作的初期設定在高級公寓）。
 
@@ -445,8 +445,8 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
   - 製作人：平尾知也（[ABC](../Page/朝日放送.md "wikilink")）、龜山泰夫（[ASATSU](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")）、、（[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")）
   - 原作：[椎名高志](../Page/椎名高志.md "wikilink")（[小學館](../Page/小學館.md "wikilink")《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》刊）
-  - 系列導演：[梅澤淳稔](https://zh.wikipedia.org/wiki/梅澤淳稔 "wikilink")
-  - [劇本統籌](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")：[松井亞彌](https://zh.wikipedia.org/wiki/松井亞彌 "wikilink")
+  - 系列導演：[梅澤淳稔](../Page/梅澤淳稔.md "wikilink")
+  - [劇本統籌](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")：[松井亞彌](../Page/松井亞彌.md "wikilink")
   - 音樂：[佐橋俊彥](../Page/佐橋俊彥.md "wikilink")
   - 製作擔當：藤本芳弘
   - 美術設計：浦田又治
@@ -463,11 +463,9 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
 ### 主題歌
 
-  - 片頭曲「[GHOST
-    SWEEPER](https://zh.wikipedia.org/wiki/GHOST_SWEEPER "wikilink")」
+  - 片頭曲「[GHOST SWEEPER](../Page/GHOST_SWEEPER.md "wikilink")」
     作詞 ：，作曲 ：，編曲 ：岩本正樹，主唱：
-  - 片尾曲「'''[BELIEVE
-    ME](https://zh.wikipedia.org/wiki/BELIEVE_ME_\(小坂由美子歌曲\) "wikilink")」
+  - 片尾曲「'''[BELIEVE ME](../Page/BELIEVE_ME_\(小坂由美子歌曲\).md "wikilink")」
     作詞 ：有森聰美，作曲 ：西岡治彥，編曲 ：岩本正樹，主唱：[小坂由美子](../Page/小坂由美子.md "wikilink")
 
 ### 各話列表
@@ -491,8 +489,8 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 <td><p><strong>1993年</strong><br />
 4月11日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松井亞彌" title="wikilink">松井亞彌</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/梅澤淳稔" title="wikilink">梅澤淳稔</a></p></td>
+<td><p><a href="../Page/松井亞彌.md" title="wikilink">松井亞彌</a></p></td>
+<td><p><a href="../Page/梅澤淳稔.md" title="wikilink">梅澤淳稔</a></p></td>
 <td></td>
 <td><p>浦田又治</p></td>
 <td><p>第1卷「美神驅魔公司出馬記</p></td>
@@ -512,7 +510,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 <td><p>4月25日</p></td>
 <td><p>{{lang|ja|呪いの人形帝国</p></td>
 <td><p>}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岸間信明" title="wikilink">岸間信明</a></p></td>
+<td><p><a href="../Page/岸間信明.md" title="wikilink">岸間信明</a></p></td>
 <td><p>矢部秋則</p></td>
 <td></td>
 <td><p>伊藤岩光</p></td>
@@ -531,7 +529,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 <td><p>5</p></td>
 <td><p>5月9日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/網谷正治" title="wikilink">網谷正治</a></p></td>
+<td><p><a href="../Page/網谷正治.md" title="wikilink">網谷正治</a></p></td>
 <td><p>岡佳廣</p></td>
 <td><p>河野宏之</p></td>
 <td></td>
@@ -543,7 +541,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 <td></td>
 <td><p>松井亞彌</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/志水淳兒" title="wikilink">志水淳兒</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/內山正幸" title="wikilink">內山正幸</a></p></td>
+<td><p><a href="../Page/內山正幸.md" title="wikilink">內山正幸</a></p></td>
 <td><p>伊藤岩光</p></td>
 <td><p>第2卷「驅魔清道伕，六道冥子登場</p></td>
 </tr>
@@ -552,7 +550,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 <td><p>5月23日</p></td>
 <td></td>
 <td><p>岸間信明</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/設樂博" title="wikilink">設樂博</a></p></td>
+<td><p><a href="../Page/設樂博.md" title="wikilink">設樂博</a></p></td>
 <td><p>青山充</p></td>
 <td><p>塩崎廣光</p></td>
 <td><p>第2卷「卡歐斯博士的挑戰</p></td>
@@ -573,7 +571,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 <td><p>{{lang|ja|お願いチューして</p></td>
 <td><p>}}</p></td>
 <td><p>矢部秋則</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/川村敏江" title="wikilink">川村敏江</a></p></td>
+<td><p><a href="../Page/川村敏江.md" title="wikilink">川村敏江</a></p></td>
 <td><p>浦田又治</p></td>
 <td></td>
 </tr>
@@ -947,16 +945,16 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
 #### 主題曲
 
-| 發行日期       | 標題                                                                            | 規格編號    |
-| ---------- | ----------------------------------------------------------------------------- | ------- |
-| 1993年4月30日 | [GHOST SWEEPER](https://zh.wikipedia.org/wiki/GHOST_SWEEPER "wikilink")       | KIDA-56 |
-| 1993年5月21日 | [BELIEVE ME](https://zh.wikipedia.org/wiki/BELIEVE_ME_\(小坂由美子歌曲\) "wikilink") | KIDA-60 |
-| 1994年8月5日  | [My Jolly Days](https://zh.wikipedia.org/wiki/My_Jolly_Days "wikilink")       | KIDA-85 |
+| 發行日期       | 標題                                                         | 規格編號    |
+| ---------- | ---------------------------------------------------------- | ------- |
+| 1993年4月30日 | [GHOST SWEEPER](../Page/GHOST_SWEEPER.md "wikilink")       | KIDA-56 |
+| 1993年5月21日 | [BELIEVE ME](../Page/BELIEVE_ME_\(小坂由美子歌曲\).md "wikilink") | KIDA-60 |
+| 1994年8月5日  | [My Jolly Days](../Page/My_Jolly_Days.md "wikilink")       | KIDA-85 |
 
 #### 角色歌曲
 
 所有歌曲都以「[GS美神
-美麗的逃亡者系列](https://zh.wikipedia.org/wiki/GS美神_美麗的逃亡者系列 "wikilink")」發行。曾創下1994年3月度的2萬張最高銷售記錄。其中，小絹的聲優[國府田麻理子的](../Page/國府田麻理子.md "wikilink")『V』（「悲DESTINY」）更創下高達2萬8000張的銷售記錄\[4\]。
+美麗的逃亡者系列](../Page/GS美神_美麗的逃亡者系列.md "wikilink")」發行。曾創下1994年3月度的2萬張最高銷售記錄。其中，小絹的聲優[國府田麻理子的](../Page/國府田麻理子.md "wikilink")『V』（「悲DESTINY」）更創下高達2萬8000張的銷售記錄\[4\]。
 
 | 發行日期                                                                                            | 標題                                                                                           | 規格編號    |
 | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------- |
@@ -1005,8 +1003,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
   - 上映時間：60分鐘／彩色
   - 片頭主題曲：原田千榮「**GHOST SWEEPER**」
   - 片尾主題曲：[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")「**[My
-    Jolly
-    Days](https://zh.wikipedia.org/wiki/My_Jolly_Days "wikilink")**」
+    Jolly Days](../Page/My_Jolly_Days.md "wikilink")**」
   - 插入歌：奥井雅美「**BEATS the BAND**」
 
 ### 劇情簡介

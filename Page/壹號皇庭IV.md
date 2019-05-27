@@ -279,7 +279,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/許思敏" title="wikilink">許思敏</a></p></td>
+<td><p><a href="../Page/許思敏.md" title="wikilink">許思敏</a></p></td>
 <td><p>杜　太</p></td>
 <td><p>杜永富太太</p></td>
 </tr>
@@ -510,7 +510,7 @@
 <td><p><strong>暱稱/身份</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李家強" title="wikilink">李家強</a></p></td>
+<td><p><a href="../Page/李家強.md" title="wikilink">李家強</a></p></td>
 <td><p>李偉成</p></td>
 <td><p>的士司機<br />
 被告</p></td>

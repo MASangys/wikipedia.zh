@@ -34,8 +34,7 @@ RPK通用40發香蕉型[彈匣](../Page/彈匣.md "wikilink")、75發專用[彈�
   -
   -
   -
-  - —採用[Zastava
-    M72及其衍生型](https://zh.wikipedia.org/wiki/扎斯塔瓦M72輕機槍 "wikilink")。
+  - —採用[Zastava M72及其衍生型](../Page/扎斯塔瓦M72輕機槍.md "wikilink")。
 
   -
   -
@@ -131,21 +130,21 @@ RPK通用40發香蕉型[彈匣](../Page/彈匣.md "wikilink")、75發專用[彈�
   - **RPKS-N**—配有夜視瞄準具的 RPKS
   - **RPKM**—採用玻璃纖維塑料護木及摺疊槍托的現代化版本，口徑與RPK相同
   - **[RPK-74](../Page/RPK-74輕機槍.md "wikilink")**－1974年[5.45×39毫米版本](../Page/5.45×39mm.md "wikilink")
-  - **[RPK-16](https://zh.wikipedia.org/wiki/RPK-16輕機槍 "wikilink")**－2016年5.45×39毫米版本
+  - **[RPK-16](../Page/RPK-16輕機槍.md "wikilink")**－2016年5.45×39毫米版本
 
 ### 其他
 
   - **Valmet M78**—[芬蘭仿製版本](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")
   - **TUL 1**—[越南仿製版本](https://zh.wikipedia.org/wiki/越南 "wikilink")
-  - **扎斯塔瓦M65**及**[M72](https://zh.wikipedia.org/wiki/扎斯塔瓦M72輕機槍 "wikilink")**—[塞爾維亞仿製版本](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")，衍生型包括**M72
+  - **扎斯塔瓦M65**及**[M72](../Page/扎斯塔瓦M72輕機槍.md "wikilink")**—[塞爾維亞仿製版本](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")，衍生型包括**M72
     B1/AB1**、**M70
-    B1**（摺疊槍托）、**[M77](https://zh.wikipedia.org/wiki/扎斯塔瓦M77輕機槍 "wikilink")**（[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")）及**M90**（[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")）
+    B1**（摺疊槍托）、**[M77](../Page/扎斯塔瓦M77輕機槍.md "wikilink")**（[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")）及**M90**（[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")）
 
 ## 參考
 
   - [AK-47](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")
   - [RPK-74](../Page/RPK-74輕機槍.md "wikilink")
-  - [Zastava M72](https://zh.wikipedia.org/wiki/扎斯塔瓦M72輕機槍 "wikilink")
+  - [Zastava M72](../Page/扎斯塔瓦M72輕機槍.md "wikilink")
   - [FN Minimi](../Page/FN_Minimi輕機槍.md "wikilink")
   - [M249](../Page/M249班用自動武器.md "wikilink")
   - [HK23](../Page/HK23輕機槍.md "wikilink")

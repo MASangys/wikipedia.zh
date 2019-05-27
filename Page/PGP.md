@@ -1,4 +1,4 @@
-**PGP**（，中文翻译「优良保密协议」）是一套用于讯息加密、验证的应用程式，采用[IDEA的散列](https://zh.wikipedia.org/wiki/國際資料加密演算法 "wikilink")[演算法作为加密和验证之用](https://zh.wikipedia.org/wiki/演算法 "wikilink")。
+**PGP**（，中文翻译「优良保密协议」）是一套用于讯息加密、验证的应用程式，采用[IDEA的散列](../Page/國際資料加密演算法.md "wikilink")[演算法作为加密和验证之用](https://zh.wikipedia.org/wiki/演算法 "wikilink")。
 
 PGP的主要开发者是[菲尔·齐默曼](https://zh.wikipedia.org/wiki/菲尔·齐默曼 "wikilink")。齐默曼于1991年将PGP在互联网上免费发布。PGP本身是商业应用程序；[开源并具有同类功能的工具名为](../Page/开源软件.md "wikilink")[GnuPG](../Page/GnuPG.md "wikilink")（GPG）。PGP及其同类产品均遵守[OpenPGP数据加解密标准](https://zh.wikipedia.org/wiki/#OpenPGP "wikilink")（RFC
 4880）。
@@ -76,12 +76,12 @@ PGP一般在[企业资源规划](https://zh.wikipedia.org/wiki/企业资源规�
 Inc.与齐默尔曼同意[IETF制定一项公开的](https://zh.wikipedia.org/wiki/IETF "wikilink")[互联网标准](https://zh.wikipedia.org/wiki/互联网标准 "wikilink")，称作OpenPGP，任何支持这一标准的程序也被允许称作OpenPGP。\[4\]
 
 许多电子邮件系统提供了OpenPGP兼容的安全性，由RFC 3156来描述。2007年11月发布的规范RFC 4880作为RFC
-2440的替代版，指出一套算法，包括非对称的[ElGamal加密算法](https://zh.wikipedia.org/wiki/ElGamal加密算法 "wikilink"),
+2440的替代版，指出一套算法，包括非对称的[ElGamal加密算法](../Page/ElGamal加密算法.md "wikilink"),
 ,
 [三重資料加密演算法以及](https://zh.wikipedia.org/wiki/三重資料加密演算法 "wikilink")[SHA-1](../Page/SHA-1.md "wikilink").
 标准还建议使用[PKCS \#1](https://zh.wikipedia.org/wiki/PKCS_#1 "wikilink") v1.5
 描述的[RSA加密演算法用作加密与签名](../Page/RSA加密演算法.md "wikilink")，以及[AES-128](../Page/高级加密标准.md "wikilink"),
-，[IDEA等对称加密算法](https://zh.wikipedia.org/wiki/國際資料加密演算法 "wikilink")。许多其他加密算法也被支持。
+，[IDEA等对称加密算法](../Page/國際資料加密演算法.md "wikilink")。许多其他加密算法也被支持。
 2009年发布的RFC 5581支持[Camellia加密](../Page/Camellia.md "wikilink")。
 基于[椭圆曲线密码学](../Page/椭圆曲线密码学.md "wikilink")
 ([ECDSA](https://zh.wikipedia.org/wiki/ECDSA "wikilink"),
@@ -95,7 +95,7 @@ Inc.与齐默尔曼同意[IETF制定一项公开的](https://zh.wikipedia.org/wi
 
 使用[JavaScript编写的开源库OpenPGPjs](../Page/JavaScript.md "wikilink"),\[5\]用于网页程序，如[ProtonMail](../Page/ProtonMail.md "wikilink"),
 [Mailfence](https://zh.wikipedia.org/wiki/Mailfence "wikilink"),
-[GlobaLeaks](https://zh.wikipedia.org/wiki/GlobaLeaks "wikilink"), and
+[GlobaLeaks](../Page/GlobaLeaks.md "wikilink"), and
 [Mailvelope](https://zh.wikipedia.org/wiki/Mailvelope "wikilink").
 
 iOS或Android平台上的OpenPGP应用程序有iPGMail\[6\] ，OpenKeychain\[7\]。

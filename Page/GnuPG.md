@@ -9,14 +9,14 @@ GnuPG是[自由軟件基金會的](https://zh.wikipedia.org/wiki/自由軟件基
 ## 歷史
 
 德国人于1997年9月，在一个兴趣组（BoF
-session）上听了[理查德·斯托曼的请求欧洲自由软件编写者实现公开密钥软件的演讲](../Page/理查德·斯托曼.md "wikilink")。禁止在美国境内编写这样的软件，甚至在境外的美国公民也不行。Koch用[Blowfish算法代替](https://zh.wikipedia.org/wiki/Blowfish_\(密码学\) "wikilink")[IDEA算法](https://zh.wikipedia.org/wiki/IDEA算法 "wikilink")，用[Elgamal算法代替](https://zh.wikipedia.org/wiki/ElGamal加密算法 "wikilink")[RSA算法](https://zh.wikipedia.org/wiki/RSA算法 "wikilink")，实现了[流加密](https://zh.wikipedia.org/wiki/流加密 "wikilink")，增加了一些密钥管理，获得Peter
+session）上听了[理查德·斯托曼的请求欧洲自由软件编写者实现公开密钥软件的演讲](../Page/理查德·斯托曼.md "wikilink")。禁止在美国境内编写这样的软件，甚至在境外的美国公民也不行。Koch用[Blowfish算法代替](https://zh.wikipedia.org/wiki/Blowfish_\(密码学\) "wikilink")[IDEA算法](https://zh.wikipedia.org/wiki/IDEA算法 "wikilink")，用[Elgamal算法代替](../Page/ElGamal加密算法.md "wikilink")[RSA算法](https://zh.wikipedia.org/wiki/RSA算法 "wikilink")，实现了[流加密](https://zh.wikipedia.org/wiki/流加密 "wikilink")，增加了一些密钥管理，获得Peter
 Gutmann的授权使用随机数代码（适用于没有`/dev/random`的系统）。于1998年2月24日发布了第一个版本（gnupg-0.2.8）。1998年7月，第一个几乎与OpenPGP兼容的版本。1998年底，Matthew
 Skala贡献了[Twofish代码](../Page/Twofish.md "wikilink")，Michael
 Roth贡献了[Triple-DES实现](https://zh.wikipedia.org/wiki/三重DES "wikilink")。这样，OpenPGP所需的一套算法就完成了。
 
 1.0.0版於1999年9月7日發佈。2010年9月18日发布了专利刚刚失效的[RSA的](https://zh.wikipedia.org/wiki/RSA算法 "wikilink")1.0.3版。[德國聯邦經濟及科技部於](https://zh.wikipedia.org/wiki/德國聯邦經濟及科技部 "wikilink")2000年資助31.8万马克推动把它移植至[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。GnuPG是按照OpenPGP標準的軟件，因此OpenPGP的歷史與GnuPG的關係密切。[電子郵件加密協定則由](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")[Phil
-Zimmermann開發](https://zh.wikipedia.org/wiki/菲爾·齊默爾曼 "wikilink")。2000年修改的美国出口控制条款最终允许美国公民可以参与GnuPG的开发。
+Zimmermann開發](../Page/菲爾·齊默爾曼.md "wikilink")。2000年修改的美国出口控制条款最终允许美国公民可以参与GnuPG的开发。
 
 德国政府于2005年资助开发[S/MIME](https://zh.wikipedia.org/wiki/S/MIME "wikilink")。GnuPG
 2.0於2006年11月13日發佈，加入了[S/MIME](https://zh.wikipedia.org/wiki/S/MIME "wikilink")-多用途网际邮件扩充协议（Secure
@@ -36,7 +36,7 @@ Thunderbird和](../Page/Mozilla_Thunderbird.md "wikilink")[SeaMonkey提供了Gnu
 Firefox提供了GnuPG支持](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")。
 
 在2005年，G10
-Code和[Intevation发行了](https://zh.wikipedia.org/wiki/Intevation "wikilink")[Gpg4win](https://zh.wikipedia.org/wiki/Gpg4win "wikilink")，一个包含GnuPG
+Code和[Intevation发行了](https://zh.wikipedia.org/wiki/Intevation "wikilink")[Gpg4win](../Page/Gpg4win.md "wikilink")，一个包含GnuPG
 for Windows,
 [WinPT](https://zh.wikipedia.org/wiki/WinPT "wikilink")、[Gnu Privacy
 Assistant](https://zh.wikipedia.org/wiki/Gnu_Privacy_Assistant "wikilink")，和为[Windows
@@ -63,7 +63,7 @@ GnuPG是一個混合加密軟件程序，它使用常規對稱密鑰提高加密
   - [Enigform](https://zh.wikipedia.org/wiki/Enigform "wikilink")
   - [Enigmail](../Page/Enigmail.md "wikilink")
   - [FireGPG](https://zh.wikipedia.org/wiki/FireGPG "wikilink")\[6\]
-  - [Gpg4win](https://zh.wikipedia.org/wiki/Gpg4win "wikilink")
+  - [Gpg4win](../Page/Gpg4win.md "wikilink")
   - [Gpg4usb](https://zh.wikipedia.org/wiki/Gpg4usb "wikilink")
   - [GPGMail](https://zh.wikipedia.org/wiki/GPGMail "wikilink")
   - [GPGServices](https://zh.wikipedia.org/wiki/GPGServices "wikilink")

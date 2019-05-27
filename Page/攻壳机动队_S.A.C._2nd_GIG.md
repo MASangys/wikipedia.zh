@@ -57,11 +57,11 @@ I.G](../Page/Production_I.G.md "wikilink")」，也许预示着S.A.C时代的续
   - 音樂 - [菅野洋子](../Page/菅野洋子.md "wikilink")
   - 音樂製作人 - 太田敏明
   - 音樂監督 - 石川吉元
-  - 音樂製作 - [勝利娛樂](https://zh.wikipedia.org/wiki/勝利娛樂 "wikilink")
+  - 音樂製作 - [勝利娛樂](../Page/勝利娛樂.md "wikilink")
   - 製作人 - 松家雄一郎、国崎久徳
   - 動畫製作 - [Production I.G](../Page/Production_I.G.md "wikilink")
   - 製作 - 攻殻機動隊製作委員会（Production
-    I.G、[萬代影視](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")、萬代娛樂、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[日本電視台](../Page/日本電視台.md "wikilink")、[德間書店](../Page/德間書店.md "wikilink")、[勝利娛樂](https://zh.wikipedia.org/wiki/勝利娛樂 "wikilink")、MANGA娛樂）
+    I.G、[萬代影視](../Page/萬代影視.md "wikilink")、萬代娛樂、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[日本電視台](../Page/日本電視台.md "wikilink")、[德間書店](../Page/德間書店.md "wikilink")、[勝利娛樂](../Page/勝利娛樂.md "wikilink")、MANGA娛樂）
 
 ## 主題曲
 
@@ -105,7 +105,7 @@ I.G](../Page/Production_I.G.md "wikilink")」，也许预示着S.A.C时代的续
 <td><p><strong> <em>REEMBODY</em></strong>（再啟動）<br />
 <span style="font-size:95%"><em>DI: Reactivation – REEMBODY</em></span></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/櫻井圭記" title="wikilink">櫻井圭記</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/橘正紀" title="wikilink">橘正紀</a></p></td>
+<td><p><a href="../Page/橘正紀.md" title="wikilink">橘正紀</a></p></td>
 <td><p>中村悟</p></td>
 <td></td>
 </tr>
@@ -269,7 +269,7 @@ I.G](../Page/Production_I.G.md "wikilink")」，也许预示着S.A.C时代的续
 <td><p>神山健治</p></td>
 <td><p>吉原正行</p></td>
 <td><p>河野利幸</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/芝美奈子" title="wikilink">芝美奈子</a></p></td>
+<td><p><a href="../Page/芝美奈子.md" title="wikilink">芝美奈子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>

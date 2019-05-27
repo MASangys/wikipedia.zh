@@ -176,8 +176,7 @@ FG），漢語圈多稱為「初代高達」、「高達0079」、「0079」或�
   - 《SD戰國傳3 新SD戰國傳
     地上最強編》（[GB](https://zh.wikipedia.org/wiki/GameBoy "wikilink")）1992年
   - 《新SD戰國傳 大將軍列傳》（[SFC](../Page/超級任天堂.md "wikilink")）1995年
-  - 《新SD戰國傳
-    機動武者大戰》（[PS](https://zh.wikipedia.org/wiki/PlayStation "wikilink")）1996年
+  - 《新SD戰國傳 機動武者大戰》（[PS](../Page/PlayStation.md "wikilink")）1996年
 
 #### SD鋼彈外傳
 

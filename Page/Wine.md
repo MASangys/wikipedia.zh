@@ -102,7 +102,7 @@ DLL完美地运行[暴雪发行的多款](https://zh.wikipedia.org/wiki/暴雪 "
     Juillard將CrossOver的原始碼回饋給Wine。在2005年6月22日，CodeWeavers宣布支持基於[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[處理器的](https://zh.wikipedia.org/wiki/處理器 "wikilink")[蘋果電腦](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")。
   - 《[PlayOnLinux](../Page/PlayOnLinux.md "wikilink")》輔助安裝程式，支援非常多的商用應用程式，對於應用程式的安裝經過最佳化，所以幾乎不用設定。
   - 《[ReactOS](https://zh.wikipedia.org/wiki/ReactOS "wikilink")》一款模擬Windows的作業系統，和Wine有相當密切的合作，所開發的元件很多都能共用。
-  - 《[Winetricks](https://zh.wikipedia.org/wiki/Winetricks "wikilink")》可以對wine的選項進行更多設定與微調，也可以安裝一些基本元件。
+  - 《[Winetricks](../Page/Winetricks.md "wikilink")》可以對wine的選項進行更多設定與微調，也可以安裝一些基本元件。
 
 ## 微軟對Wine的回應
 

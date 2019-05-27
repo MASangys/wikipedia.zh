@@ -1997,7 +1997,7 @@
 ::::\*TQ176.9 三废处理与综合利用
 
 :::\*TQ177
-[人造石及其他](https://zh.wikipedia.org/wiki/人造石 "wikilink")[胶凝材料](https://zh.wikipedia.org/wiki/胶凝材料 "wikilink")
+[人造石及其他](../Page/人造石.md "wikilink")[胶凝材料](https://zh.wikipedia.org/wiki/胶凝材料 "wikilink")
 
 ::::\*TQ177.1 人造石
 

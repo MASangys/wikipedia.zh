@@ -182,7 +182,7 @@
 <td><p>朱仙鎮一戰变殭屍，最後被箭頭杀死。在地狱与箭頭重遇。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭恕峰" title="wikilink">鄭恕峰</a></p></td>
+<td><p><a href="../Page/鄭恕峰.md" title="wikilink">鄭恕峰</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/雷王" title="wikilink">雷王</a></p></td>
 <td><p>完顏不破的手下大將。死于朱仙镇。。</p></td>
 </tr>

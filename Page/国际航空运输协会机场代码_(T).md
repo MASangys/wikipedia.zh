@@ -16,7 +16,7 @@
 </tr>
 <tr class="even">
 <td><p>TAC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/獨魯萬機場" title="wikilink">獨魯萬機場</a></p></td>
+<td><p><a href="../Page/獨魯萬機場.md" title="wikilink">獨魯萬機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/獨魯萬市" title="wikilink">獨魯萬市</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/菲律賓" title="wikilink">菲律賓</a></p></td>
 </tr>
@@ -262,7 +262,7 @@
 </tr>
 <tr class="odd">
 <td><p>TPA</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/坦帕國際機場" title="wikilink">坦帕國際機場</a></p></td>
+<td><p><a href="../Page/坦帕國際機場.md" title="wikilink">坦帕國際機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/坦帕_(佛羅里達州)" title="wikilink">坦帕</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a></p></td>
 </tr>
@@ -334,7 +334,7 @@
 </tr>
 <tr class="odd">
 <td><p>TZX</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/特拉布宗機場" title="wikilink">特拉布宗機場</a></p></td>
+<td><p><a href="../Page/特拉布宗機場.md" title="wikilink">特拉布宗機場</a></p></td>
 <td><p><a href="../Page/特拉布宗.md" title="wikilink">特拉布宗</a></p></td>
 <td><p><a href="../Page/土耳其.md" title="wikilink">土耳其</a></p></td>
 </tr>

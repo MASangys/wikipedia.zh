@@ -58,13 +58,13 @@
 
 <!-- end list -->
 
-  - [日本配音員](../Page/日本.md "wikilink")：[太田淑子](https://zh.wikipedia.org/wiki/太田淑子 "wikilink")（1973年）→[小原乃梨子](https://zh.wikipedia.org/wiki/小原乃梨子 "wikilink")（1979年4月—2005年3月）、[丸山裕子](https://zh.wikipedia.org/wiki/丸山裕子 "wikilink")（1979年7月替代）→[大原惠](../Page/大原惠.md "wikilink")（2005年3月—）
+  - [日本配音員](../Page/日本.md "wikilink")：[太田淑子](https://zh.wikipedia.org/wiki/太田淑子 "wikilink")（1973年）→[小原乃梨子](../Page/小原乃梨子.md "wikilink")（1979年4月—2005年3月）、[丸山裕子](https://zh.wikipedia.org/wiki/丸山裕子 "wikilink")（1979年7月替代）→[大原惠](../Page/大原惠.md "wikilink")（2005年3月—）
 
 <!-- end list -->
 
   -
     幼兒期：[大本真基子](../Page/大本真基子.md "wikilink")（2000年）→[門脇舞以](../Page/門脇舞以.md "wikilink")（2005年3月）
-    成年期：[鹽屋浩三](../Page/鹽屋浩三.md "wikilink")（1984年11月）→[廣森信吾](https://zh.wikipedia.org/wiki/廣森信吾 "wikilink")（1987年—1990年）→[小原乃梨子](https://zh.wikipedia.org/wiki/小原乃梨子 "wikilink")（2000年—2004年）→[大川透](../Page/大川透.md "wikilink")（2005年3月）→[堀秀行](../Page/堀秀行.md "wikilink")（2006年）→[大原惠](../Page/大原惠.md "wikilink")（電視新版本，大雄的結婚前夜）→[妻夫木聰](../Page/妻夫木聰.md "wikilink")（STAND
+    成年期：[鹽屋浩三](../Page/鹽屋浩三.md "wikilink")（1984年11月）→[廣森信吾](https://zh.wikipedia.org/wiki/廣森信吾 "wikilink")（1987年—1990年）→[小原乃梨子](../Page/小原乃梨子.md "wikilink")（2000年—2004年）→[大川透](../Page/大川透.md "wikilink")（2005年3月）→[堀秀行](../Page/堀秀行.md "wikilink")（2006年）→[大原惠](../Page/大原惠.md "wikilink")（電視新版本，大雄的結婚前夜）→[妻夫木聰](../Page/妻夫木聰.md "wikilink")（STAND
     BY ME 哆啦A夢）
 
 <!-- end list -->
@@ -95,7 +95,7 @@
     叮当版本：[堡堡](https://zh.wikipedia.org/wiki/堡堡 "wikilink")
     阿蒙版本\[2\]：[王麗華](https://zh.wikipedia.org/wiki/王麗華 "wikilink")→[腾腾](https://zh.wikipedia.org/wiki/腾腾 "wikilink")、王羊（小部分集数）、张璐（小部分集数）
     哆啦A夢版本：1979年版：[伍凤春](https://zh.wikipedia.org/wiki/伍凤春 "wikilink")（央視新版，在中央电视台少儿频道《动漫世界》播出）、[姚培华](https://zh.wikipedia.org/wiki/姚培华 "wikilink")（上海李曄版）→[祖丽晴](https://zh.wikipedia.org/wiki/祖丽晴 "wikilink")（廣東梁穎版）
-    2005年版：[黄笑嬿](https://zh.wikipedia.org/wiki/黄笑嬿 "wikilink")（2006—2008年电影版）→[伍凤春](https://zh.wikipedia.org/wiki/伍凤春 "wikilink")&[韩庚](https://zh.wikipedia.org/wiki/韩庚 "wikilink")（[哆啦A梦：伴我同行](https://zh.wikipedia.org/wiki/哆啦A梦：伴我同行 "wikilink")）→[四刀辉彰](https://zh.wikipedia.org/wiki/四刀辉彰 "wikilink")（2016—2017年电影版）→[腾腾](https://zh.wikipedia.org/wiki/腾腾 "wikilink")（2018年电影版）
+    2005年版：[黄笑嬿](https://zh.wikipedia.org/wiki/黄笑嬿 "wikilink")（2006—2008年电影版）→[伍凤春](https://zh.wikipedia.org/wiki/伍凤春 "wikilink")&[韩庚](https://zh.wikipedia.org/wiki/韩庚 "wikilink")（[哆啦A梦：伴我同行](https://zh.wikipedia.org/wiki/哆啦A梦：伴我同行 "wikilink")）→[四刀辉彰](../Page/四刀辉彰.md "wikilink")（2016—2017年电影版）→[腾腾](https://zh.wikipedia.org/wiki/腾腾 "wikilink")（2018年电影版）
 
 <!-- end list -->
 
@@ -147,7 +147,7 @@
   -
     [晓晓](https://zh.wikipedia.org/wiki/晓晓 "wikilink")（叮当时期）
     [房露](https://zh.wikipedia.org/wiki/房露 "wikilink")→唐亚男（小部分集数）→唐烨→陈立博（小部分集数）→王雪纯（阿蒙时期）\[3\]
-    陈青（中央电视台少儿频道版）、[邓玉婷](https://zh.wikipedia.org/wiki/邓玉婷 "wikilink")（廣東梁穎配音版）、詹佳（2006—2008年剧场版）→张艾&[周冬雨](https://zh.wikipedia.org/wiki/周冬雨 "wikilink")（哆啦A梦：伴我同行）→[C小调](https://zh.wikipedia.org/wiki/C小调_\(配音演员\) "wikilink")（2016—2017年电影版）→[马晓骥](https://zh.wikipedia.org/wiki/马晓骥 "wikilink")（2018年电影版）
+    陈青（中央电视台少儿频道版）、[邓玉婷](https://zh.wikipedia.org/wiki/邓玉婷 "wikilink")（廣東梁穎配音版）、詹佳（2006—2008年剧场版）→张艾&[周冬雨](https://zh.wikipedia.org/wiki/周冬雨 "wikilink")（哆啦A梦：伴我同行）→[C小调](../Page/C小调_\(配音演员\).md "wikilink")（2016—2017年电影版）→[马晓骥](https://zh.wikipedia.org/wiki/马晓骥 "wikilink")（2018年电影版）
 
 <!-- end list -->
 
@@ -168,7 +168,7 @@
 
 <!-- end list -->
 
-  - [日本配音員](../Page/日本.md "wikilink")：[肝付兼太](https://zh.wikipedia.org/wiki/肝付兼太 "wikilink")（1973年）→[立壁和也](https://zh.wikipedia.org/wiki/立壁和也 "wikilink")（1979年4月-2005年3月）→[木村昴](../Page/木村昴.md "wikilink")（2005年4月-）
+  - [日本配音員](../Page/日本.md "wikilink")：[肝付兼太](../Page/肝付兼太.md "wikilink")（1973年）→[立壁和也](../Page/立壁和也.md "wikilink")（1979年4月-2005年3月）→[木村昴](../Page/木村昴.md "wikilink")（2005年4月-）
 
 <!-- end list -->
 
@@ -197,8 +197,8 @@
 <!-- end list -->
 
   -
-    1979年版：烨烨（叮当时期）→[鲍大志](../Page/鲍大志.md "wikilink")、关海龙、[李易](https://zh.wikipedia.org/wiki/李易_\(配音演员\) "wikilink")、李立宏（阿蒙时期）\[4\]→芯雯（CCTV少儿）→汪译男（上海配音）、[张琳](../Page/张琳.md "wikilink")（廣東梁穎配音版）
-    2005年版：[吴磊](https://zh.wikipedia.org/wiki/吴磊 "wikilink")（2006—2008年电影版）→王磊（哆啦A梦：伴我同行）→Slayerboom（2016—2017年电影版）→鲍大志（2018年电影版）
+    1979年版：烨烨（叮当时期）→[鲍大志](../Page/鲍大志.md "wikilink")、关海龙、[李易](../Page/李易_\(配音演员\).md "wikilink")、李立宏（阿蒙时期）\[4\]→芯雯（CCTV少儿）→汪译男（上海配音）、[张琳](../Page/张琳.md "wikilink")（廣東梁穎配音版）
+    2005年版：[吴磊](../Page/吴磊.md "wikilink")（2006—2008年电影版）→王磊（哆啦A梦：伴我同行）→Slayerboom（2016—2017年电影版）→鲍大志（2018年电影版）
 
 <!-- end list -->
 
@@ -218,7 +218,7 @@
 
 <!-- end list -->
 
-  - [日本配音員](../Page/日本.md "wikilink")：[八代駿](https://zh.wikipedia.org/wiki/八代駿 "wikilink")（1973年）→[肝付兼太](https://zh.wikipedia.org/wiki/肝付兼太 "wikilink")（1979年4月—2005年3月）、[龍田直樹](../Page/龍田直樹.md "wikilink")（1985年11月?日—12日替代）→[關智一](../Page/關智一.md "wikilink")（2005年4月—）
+  - [日本配音員](../Page/日本.md "wikilink")：[八代駿](https://zh.wikipedia.org/wiki/八代駿 "wikilink")（1973年）→[肝付兼太](../Page/肝付兼太.md "wikilink")（1979年4月—2005年3月）、[龍田直樹](../Page/龍田直樹.md "wikilink")（1985年11月?日—12日替代）→[關智一](../Page/關智一.md "wikilink")（2005年4月—）
 
 <!-- end list -->
 
@@ -248,7 +248,7 @@
 
   -
     1979年版：军军（叮当时期）→腾腾、关海龙、赵欣、李智伟、尹永斌、李野墨、纪元（阿蒙时期，均为小部分集数，该版本角色配音演员没有固定）\[6\]→袁铭鸿（CCTV少儿）→邓玉婷（广东）、→张惠（上海配音）
-    2005年版：[翟巍](https://zh.wikipedia.org/wiki/翟巍 "wikilink")（2006—2008年剧场版）→[马晓骥](https://zh.wikipedia.org/wiki/马晓骥 "wikilink")（哆啦A梦：伴我同行）→[皇贞季](https://zh.wikipedia.org/wiki/皇贞季 "wikilink")（2016—2017年剧场版）→[王丽华](https://zh.wikipedia.org/wiki/王丽华 "wikilink")（2018年电影版）
+    2005年版：[翟巍](https://zh.wikipedia.org/wiki/翟巍 "wikilink")（2006—2008年剧场版）→[马晓骥](https://zh.wikipedia.org/wiki/马晓骥 "wikilink")（哆啦A梦：伴我同行）→[皇贞季](../Page/皇贞季.md "wikilink")（2016—2017年剧场版）→[王丽华](https://zh.wikipedia.org/wiki/王丽华 "wikilink")（2018年电影版）
 
 <!-- end list -->
 
@@ -268,7 +268,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[小原乃梨子](https://zh.wikipedia.org/wiki/小原乃梨子 "wikilink")（1973年）→[千千松幸子](../Page/千千松幸子.md "wikilink")（1979年4月—2005年3月）→[三石琴乃](../Page/三石琴乃.md "wikilink")（2005年4月—）
+  - 日本配音員：[小原乃梨子](../Page/小原乃梨子.md "wikilink")（1973年）→[千千松幸子](../Page/千千松幸子.md "wikilink")（1979年4月—2005年3月）→[三石琴乃](../Page/三石琴乃.md "wikilink")（2005年4月—）
 
 <!-- end list -->
 
@@ -326,7 +326,7 @@
 <!-- end list -->
 
   -
-    少年時期：[小原乃梨子](https://zh.wikipedia.org/wiki/小原乃梨子 "wikilink")（1979年）→[山田榮子](../Page/山田榮子.md "wikilink")（1984年—1985年）→小原乃梨子（1987年）→[小林由美子](../Page/小林由美子.md "wikilink")（2005年）→大本眞基子（2009）→優希比呂（2010）、[野澤雅子](../Page/野澤雅子.md "wikilink")（[大雄與奇跡之島](../Page/大雄與奇跡之島.md "wikilink")）
+    少年時期：[小原乃梨子](../Page/小原乃梨子.md "wikilink")（1979年）→[山田榮子](../Page/山田榮子.md "wikilink")（1984年—1985年）→小原乃梨子（1987年）→[小林由美子](../Page/小林由美子.md "wikilink")（2005年）→大本眞基子（2009）→優希比呂（2010）、[野澤雅子](../Page/野澤雅子.md "wikilink")（[大雄與奇跡之島](../Page/大雄與奇跡之島.md "wikilink")）
 
 <!-- end list -->
 
@@ -361,7 +361,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[白川澄子](https://zh.wikipedia.org/wiki/白川澄子 "wikilink")（1980年4月—2005年3月）→[萩野志保子](https://zh.wikipedia.org/wiki/萩野志保子 "wikilink")（朝日電視台版2005年5月—）／
+  - 日本配音員：[白川澄子](https://zh.wikipedia.org/wiki/白川澄子 "wikilink")（1980年4月—2005年3月）→[萩野志保子](../Page/萩野志保子.md "wikilink")（朝日電視台版2005年5月—）／
 
 <!-- end list -->
 
@@ -440,7 +440,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[小原乃梨子](https://zh.wikipedia.org/wiki/小原乃梨子 "wikilink")（1979年4月—2005年3月）→[龜井芳子](../Page/龜井芳子.md "wikilink")（2005年4月—）
+  - 日本配音員：[小原乃梨子](../Page/小原乃梨子.md "wikilink")（1979年4月—2005年3月）→[龜井芳子](../Page/龜井芳子.md "wikilink")（2005年4月—）
   - 香港配音員：[雷碧娜](../Page/雷碧娜.md "wikilink")、[袁淑珍](../Page/袁淑珍.md "wikilink")（叮噹早期TV版）
   - 台灣配音員（哆啦A夢版本）：楊凱凱（1979年版）、錢欣郁（1979年版代理）→姚敏敏（2005年版）
   - 中國大陸版配音員：
@@ -533,7 +533,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[村松康雄](../Page/村松康雄.md "wikilink")（—2005年3月）→[橋本晃一](https://zh.wikipedia.org/wiki/橋本晃一 "wikilink")（2006年11月）
+  - 日本配音員：[村松康雄](../Page/村松康雄.md "wikilink")（—2005年3月）→[橋本晃一](../Page/橋本晃一.md "wikilink")（2006年11月）
   - 香港配音員：[劉昭文](../Page/劉昭文.md "wikilink")
 
 <!-- end list -->
@@ -582,7 +582,7 @@
 <!-- end list -->
 
   - 日本配音員：不明（1979年5月）→[加藤正之](https://zh.wikipedia.org/wiki/加藤正之 "wikilink")（1979年11月—1980年3月）→[池田勝](https://zh.wikipedia.org/wiki/池田勝 "wikilink")（1981年10月）→[久米明](https://zh.wikipedia.org/wiki/久米明 "wikilink")（1999年3月）→（2005年7月—）
-  - 香港配音員：[蕭徽勇](../Page/蕭徽勇.md "wikilink")、[張頌欣](../Page/張頌欣.md "wikilink")（童年）（2005年版）/[陳旭恆](../Page/陳旭恆.md "wikilink")、[李忠強](https://zh.wikipedia.org/wiki/李忠強 "wikilink")（STAND
+  - 香港配音員：[蕭徽勇](../Page/蕭徽勇.md "wikilink")、[張頌欣](../Page/張頌欣.md "wikilink")（童年）（2005年版）/[陳旭恆](../Page/陳旭恆.md "wikilink")、[李忠強](../Page/李忠強.md "wikilink")（STAND
     BY ME）
   - 中國大陸配音員：
   - 真人版演員：[三浦友和](https://zh.wikipedia.org/wiki/三浦友和 "wikilink")（豐田汽車廣告）\[16\]
@@ -620,7 +620,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：不明（1973年）→[加藤治](https://zh.wikipedia.org/wiki/加藤治 "wikilink")（1979年4月—2005年3月）→[肝付兼太一時期代役](https://zh.wikipedia.org/wiki/肝付兼太 "wikilink")（1989年5月—1990年1月）→[田中秀幸](../Page/田中秀幸.md "wikilink")（2005年6月—）
+  - 日本配音員：不明（1973年）→[加藤治](https://zh.wikipedia.org/wiki/加藤治 "wikilink")（1979年4月—2005年3月）→[肝付兼太一時期代役](../Page/肝付兼太.md "wikilink")（1989年5月—1990年1月）→[田中秀幸](../Page/田中秀幸.md "wikilink")（2005年6月—）
   - 香港配音員：[源家祥](../Page/源家祥.md "wikilink")→[黃子敬](../Page/黃子敬.md "wikilink")
   - 台灣配音員（哆啦A夢版本）：于正昇＆于正昌（1979年版）
   - [中国大陆配音員](../Page/中国大陆.md "wikilink")：
@@ -665,7 +665,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[堀絢子](https://zh.wikipedia.org/wiki/堀絢子 "wikilink")（1997）→[真山亞子](../Page/真山亞子.md "wikilink")（2012）
+  - 日本配音員：[堀絢子](../Page/堀絢子.md "wikilink")（1997）→[真山亞子](../Page/真山亞子.md "wikilink")（2012）
   - 香港配音員：[袁淑珍](../Page/袁淑珍.md "wikilink")
 
 <!-- end list -->
@@ -680,7 +680,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：不明（1973年5月）→[太田淑子](https://zh.wikipedia.org/wiki/太田淑子 "wikilink")（1979年4月）→[青木和代](https://zh.wikipedia.org/wiki/青木和代 "wikilink")（1980年1月—2005年3月）→[山崎バニラ](https://zh.wikipedia.org/wiki/山崎バニラ "wikilink")（2005年6月—）→[山田ふしぎ](https://zh.wikipedia.org/wiki/山田ふしぎ "wikilink")（2012年2月—）
+  - 日本配音員：不明（1973年5月）→[太田淑子](https://zh.wikipedia.org/wiki/太田淑子 "wikilink")（1979年4月）→[青木和代](../Page/青木和代.md "wikilink")（1980年1月—2005年3月）→[山崎バニラ](https://zh.wikipedia.org/wiki/山崎バニラ "wikilink")（2005年6月—）→[山田ふしぎ](https://zh.wikipedia.org/wiki/山田ふしぎ "wikilink")（2012年2月—）
   - 香港配音員：[雷碧娜](../Page/雷碧娜.md "wikilink")/[賴芸芬](../Page/賴芸芬.md "wikilink")（STAND
     BY ME）
   - 台灣配音員（哆啦A夢版本）：許淑嬪（1979年版）、錢欣郁（1979年版代理）→林美秀（2005年版）
@@ -703,7 +703,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[青木和代](https://zh.wikipedia.org/wiki/青木和代 "wikilink")（1979年4月—2005年3月）→[竹內都子](https://zh.wikipedia.org/wiki/竹內都子 "wikilink")（[ピンクの電話](https://zh.wikipedia.org/wiki/ピンクの電話 "wikilink")・2005年4月—）
+  - 日本配音員：[青木和代](../Page/青木和代.md "wikilink")（1979年4月—2005年3月）→[竹內都子](https://zh.wikipedia.org/wiki/竹內都子 "wikilink")（[ピンクの電話](https://zh.wikipedia.org/wiki/ピンクの電話 "wikilink")・2005年4月—）
   - 香港配音員：[姚天麗](../Page/姚天麗.md "wikilink")→[沈小蘭](../Page/沈小蘭.md "wikilink")，[劉惠雲](../Page/劉惠雲.md "wikilink")（新大雄的宇宙開拓史）/[葉嘉敏](https://zh.wikipedia.org/wiki/葉嘉敏 "wikilink")（STAND
     BY ME）
   - 台灣配音員（哆啦A夢版本）：楊凱凱（1979年版）、姚敏敏（1979年版代理）→劉如蘋（2005年版前52集）→劉凱寧（2005年版第53集起）→林筱玲（2005年版第209集起）
@@ -738,8 +738,7 @@
 <!-- end list -->
 
   - 日本配音員：[玄田哲章](../Page/玄田哲章.md "wikilink")（1981.
-    12）→[青木和代](https://zh.wikipedia.org/wiki/青木和代 "wikilink")→（—2005.
-    3）
+    12）→[青木和代](../Page/青木和代.md "wikilink")→（—2005. 3）
   - 香港配音員：[梁偉德](../Page/梁偉德.md "wikilink")
 
 <!-- end list -->
@@ -788,7 +787,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[田中崇](../Page/銀河萬丈.md "wikilink")（1981年3月）→[兼本新吾](https://zh.wikipedia.org/wiki/兼本新吾 "wikilink")（1985年2月—1990年9月）→[渡部猛](https://zh.wikipedia.org/wiki/渡部猛 "wikilink")（1991年3月—2005年3月）→[宝龜克寿](https://zh.wikipedia.org/wiki/宝龜克寿 "wikilink")（2005年7月—）
+  - 日本配音員：[田中崇](../Page/銀河萬丈.md "wikilink")（1981年3月）→[兼本新吾](https://zh.wikipedia.org/wiki/兼本新吾 "wikilink")（1985年2月—1990年9月）→[渡部猛](../Page/渡部猛.md "wikilink")（1991年3月—2005年3月）→[宝龜克寿](https://zh.wikipedia.org/wiki/宝龜克寿 "wikilink")（2005年7月—）
   - 香港配音員：[源家祥](../Page/源家祥.md "wikilink")→[黃子敬](../Page/黃子敬.md "wikilink")
   - 台灣配音員（哆啦A夢版本）：于正昇＆于正昌（1979年版）→李世揚（2005年版）、陳幼文（電影版，2014年）
   - 中国大陆配音員：
@@ -804,7 +803,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：不明（1987年5月）→不明（1991年9月）→不明（1992年8月）→[真柴摩利](../Page/真柴摩利.md "wikilink")（1993年2月）→[麻見順子](https://zh.wikipedia.org/wiki/麻見順子 "wikilink")（1993年4月）→[渡邊久美子](../Page/渡邊久美子.md "wikilink")（1994年5月—1995年8月）→[中澤綠](../Page/中澤綠.md "wikilink")（1995年11月—1996年10月）→[熊井統子](../Page/熊井統子.md "wikilink")（1997年12月）→[瀧本富士子](../Page/瀧本富士子.md "wikilink")（1998年3月、12月）→[松本幸](../Page/松本幸.md "wikilink")（1998年5月、1999年6月—2004年9月、2005年3月）
+  - 日本配音員：不明（1987年5月）→不明（1991年9月）→不明（1992年8月）→[真柴摩利](../Page/真柴摩利.md "wikilink")（1993年2月）→[麻見順子](../Page/麻見順子.md "wikilink")（1993年4月）→[渡邊久美子](../Page/渡邊久美子.md "wikilink")（1994年5月—1995年8月）→[中澤綠](../Page/中澤綠.md "wikilink")（1995年11月—1996年10月）→[熊井統子](../Page/熊井統子.md "wikilink")（1997年12月）→[瀧本富士子](../Page/瀧本富士子.md "wikilink")（1998年3月、12月）→[松本幸](../Page/松本幸.md "wikilink")（1998年5月、1999年6月—2004年9月、2005年3月）
 
 <!-- end list -->
 
@@ -817,7 +816,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[白川澄子](https://zh.wikipedia.org/wiki/白川澄子 "wikilink")→[真柴摩利](../Page/真柴摩利.md "wikilink")→[佐藤智惠](../Page/佐藤智惠.md "wikilink")、[松本幸](../Page/松本幸.md "wikilink")、[佐藤佑子](../Page/佐藤佑子.md "wikilink")（—2005年3月）→[丸田麻里](https://zh.wikipedia.org/wiki/丸田麻里 "wikilink")
+  - 日本配音員：[白川澄子](https://zh.wikipedia.org/wiki/白川澄子 "wikilink")→[真柴摩利](../Page/真柴摩利.md "wikilink")→[佐藤智惠](../Page/佐藤智惠.md "wikilink")、[松本幸](../Page/松本幸.md "wikilink")、[佐藤佑子](../Page/佐藤佑子.md "wikilink")（—2005年3月）→[丸田麻里](../Page/丸田麻里.md "wikilink")
   - 台灣配音員（哆啦A夢版本）：許淑嬪（1979年版）
   - 香港配音員：[許盈](../Page/許盈.md "wikilink")（2005年版）
   - 中國大陸版配音員：
@@ -833,7 +832,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[青木和代](https://zh.wikipedia.org/wiki/青木和代 "wikilink")、[佐藤智惠](../Page/佐藤智惠.md "wikilink")、[丸田麻里](https://zh.wikipedia.org/wiki/丸田麻里 "wikilink")、[佐藤佑子](../Page/佐藤佑子.md "wikilink")、[松本幸](../Page/松本幸.md "wikilink")（—2005年3月）→[山下亚矢香](https://zh.wikipedia.org/wiki/山下亚矢香 "wikilink")
+  - 日本配音員：[青木和代](../Page/青木和代.md "wikilink")、[佐藤智惠](../Page/佐藤智惠.md "wikilink")、[丸田麻里](../Page/丸田麻里.md "wikilink")、[佐藤佑子](../Page/佐藤佑子.md "wikilink")、[松本幸](../Page/松本幸.md "wikilink")（—2005年3月）→[山下亚矢香](https://zh.wikipedia.org/wiki/山下亚矢香 "wikilink")
   - 香港配音員：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")→[黃淑芬](../Page/黃淑芬.md "wikilink")→[吳羨婷](../Page/吳羨婷.md "wikilink")、[魏惠娥](../Page/魏惠娥.md "wikilink")（代配）
   - 台灣配音員（哆啦A夢版本）：劉傑、陳美貞（1979年版）
   - 中國大陸配音員：
@@ -997,7 +996,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[堀絢子](https://zh.wikipedia.org/wiki/堀絢子 "wikilink")（1973）
+  - 日本配音員：[堀絢子](../Page/堀絢子.md "wikilink")（1973）
 
 <!-- end list -->
 

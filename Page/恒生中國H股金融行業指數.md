@@ -39,7 +39,7 @@
   - 3328 [交通銀行](../Page/交通銀行.md "wikilink")
   - 3618 [重慶農村商業銀行](https://zh.wikipedia.org/wiki/重慶農村商業銀行 "wikilink")
   - 3698 [徽商銀行](https://zh.wikipedia.org/wiki/徽商銀行 "wikilink")
-  - 3903 [瀚華金控](https://zh.wikipedia.org/wiki/瀚華金控 "wikilink")
+  - 3903 [瀚華金控](../Page/瀚華金控.md "wikilink")
   - 3908 [中金公司](https://zh.wikipedia.org/wiki/中金公司 "wikilink")
 
 <!-- end list -->
@@ -92,7 +92,7 @@
 <td><p>01551 廣州農商銀行<br />
 02611 國泰君安<br />
 06122 九台農商銀行</p></td>
-<td><p>01606 <a href="https://zh.wikipedia.org/wiki/國銀租賃" title="wikilink">國銀租賃</a></p></td>
+<td><p>01606 <a href="../Page/國銀租賃.md" title="wikilink">國銀租賃</a></p></td>
 <td><p>46</p></td>
 <td></td>
 </tr>
@@ -148,7 +148,7 @@
 <tr class="odd">
 <td><p>2015年3月9日</p></td>
 <td><p>02066 盛京銀行</p></td>
-<td><p>03903 <a href="https://zh.wikipedia.org/wiki/瀚華金控" title="wikilink">瀚華金控</a></p></td>
+<td><p>03903 <a href="../Page/瀚華金控.md" title="wikilink">瀚華金控</a></p></td>
 <td><p>25</p></td>
 <td></td>
 </tr>

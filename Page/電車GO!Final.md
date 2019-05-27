@@ -369,8 +369,8 @@ express) | [681系](https://zh.wikipedia.org/wiki/681系 "wikilink") | 上行 |
 |[向日町](https://zh.wikipedia.org/wiki/向日町站 "wikilink") \!
 width="16px" |[長岡京](https://zh.wikipedia.org/wiki/長岡京站 "wikilink") \!
 width="16px" |[山崎](https://zh.wikipedia.org/wiki/山崎站 "wikilink") \!
-width="16px" |[高槻](https://zh.wikipedia.org/wiki/高槻站 "wikilink") \!
-width="16px" |[摂津富田](https://zh.wikipedia.org/wiki/攝津富田站 "wikilink") \!
+width="16px" |[高槻](../Page/高槻站.md "wikilink") \! width="16px"
+|[摂津富田](https://zh.wikipedia.org/wiki/攝津富田站 "wikilink") \!
 width="16px" |[茨木](https://zh.wikipedia.org/wiki/茨木站 "wikilink") \!
 width="16px" |[千里丘](https://zh.wikipedia.org/wiki/千里丘站 "wikilink") \!
 width="16px" |[岸辺](https://zh.wikipedia.org/wiki/岸邊站 "wikilink") \!
@@ -378,8 +378,8 @@ width="16px" |[吹田](https://zh.wikipedia.org/wiki/吹田站 "wikilink") \!
 width="16px" |[東淀川](../Page/東淀川站.md "wikilink") \! width="16px"
 |[新大阪](https://zh.wikipedia.org/wiki/新大阪站 "wikilink") \!
 width="16px" |[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink") \!
-width="16px" |[塚本](https://zh.wikipedia.org/wiki/塚本站 "wikilink") \!
-width="16px" |[尼崎](../Page/尼崎站_\(JR西日本\).md "wikilink") \! width="16px"
+width="16px" |[塚本](../Page/塚本站.md "wikilink") \! width="16px"
+|[尼崎](../Page/尼崎站_\(JR西日本\).md "wikilink") \! width="16px"
 |[立花](https://zh.wikipedia.org/wiki/立花站 "wikilink") \! width="16px"
 |[甲子園口](../Page/甲子園口站.md "wikilink") \! width="16px"
 |[西ノ宮](https://zh.wikipedia.org/wiki/西之宮站 "wikilink") \!

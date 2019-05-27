@@ -300,7 +300,7 @@
 
   - 三賢人
     （╱ （CV：[柴田秀勝](../Page/柴田秀勝.md "wikilink")）、╱
-    （CV：[安原義人](https://zh.wikipedia.org/wiki/安原義人 "wikilink")）、╱
+    （CV：[安原義人](../Page/安原義人.md "wikilink")）、╱
     （CV：[長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink")）
 
 ### 遺跡獵人

@@ -110,9 +110,9 @@ layer），在BSD操作系统上，可以運行相同構架下其他操作系统
       - [DragonFly BSD](../Page/DragonFly_BSD.md "wikilink")，一個由FreeBSD
         4-STABLE分支出來的項目
           - FireflyBSD
-      - [DesktopBSD](https://zh.wikipedia.org/wiki/DesktopBSD "wikilink")
+      - [DesktopBSD](../Page/DesktopBSD.md "wikilink")
       - [TrueOS](../Page/TrueOS.md "wikilink")
-          - [GhostBSD](https://zh.wikipedia.org/wiki/GhostBSD "wikilink")
+          - [GhostBSD](../Page/GhostBSD.md "wikilink")
       - PicoBSD，為在單張1.44MB[软盘執行而設計的FreeBSD精簡版本](../Page/软盘.md "wikilink")
       - [TrustedBSD](https://zh.wikipedia.org/wiki/TrustedBSD "wikilink")，非操作系统，而是為FreeBSD和[Darwin構件擴展的一個項目](https://zh.wikipedia.org/wiki/Darwin "wikilink")
       - ClosedBSD

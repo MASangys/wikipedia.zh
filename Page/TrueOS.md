@@ -84,7 +84,7 @@ Moore\[10\]。
 
 ## 參看條目
 
-  - [DesktopBSD](https://zh.wikipedia.org/wiki/DesktopBSD "wikilink")
+  - [DesktopBSD](../Page/DesktopBSD.md "wikilink")
 
   - [FreeBSD](../Page/FreeBSD.md "wikilink")
 

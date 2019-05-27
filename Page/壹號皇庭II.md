@@ -781,7 +781,7 @@
 | --------------------------------------------------- | ------ | --------- |
 | **演員**                                              | **角色** | **暱稱/身份** |
 | [林　偉](../Page/林偉_\(演員\).md "wikilink")              | 方世豪    | 被告        |
-| [麥子雲](https://zh.wikipedia.org/wiki/麥子雲 "wikilink") | 陳雄生    | 死者        |
+| [麥子雲](../Page/麥子雲.md "wikilink")                    | 陳雄生    | 死者        |
 | [黃振寧](https://zh.wikipedia.org/wiki/黃振寧 "wikilink") | 標      |           |
 |                                                     |        |           |
 
@@ -884,7 +884,7 @@
 | --------------------------------------------------------- | -------- | --------- |
 | **演員**                                                    | **角色**   | **暱稱/身份** |
 | [彭鎮南](https://zh.wikipedia.org/wiki/彭鎮南 "wikilink")       | 馬更生      | 被告        |
-| [林映輝](https://zh.wikipedia.org/wiki/林映輝 "wikilink")       | 馬淑珍      |           |
+| [林映輝](../Page/林映輝.md "wikilink")                          | 馬淑珍      |           |
 | [區　嶽](https://zh.wikipedia.org/wiki/區嶽 "wikilink")        | 馬偉忠      |           |
 | [-{于}-　楓](https://zh.wikipedia.org/wiki/于楓 "wikilink")    | \-{杰}-　母 |           |
 | [白　蘭](https://zh.wikipedia.org/wiki/白蘭_\(演員\) "wikilink") | 垃圾婆      |           |

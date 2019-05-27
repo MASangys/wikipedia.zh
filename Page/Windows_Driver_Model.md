@@ -214,7 +214,7 @@ DDK提供了大量的WDM範例（samples）參考，這些範例隨著DDK的安�
     Foundation](https://zh.wikipedia.org/wiki/Windows_Driver_Foundation "wikilink")
   - [Windows Display Driver
     Model](../Page/Windows_Display_Driver_Model.md "wikilink")
-  - [VxD](https://zh.wikipedia.org/wiki/VxD "wikilink")
+  - [VxD](../Page/VxD.md "wikilink")
 
 ## 外部連結
 

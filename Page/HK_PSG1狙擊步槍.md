@@ -1,4 +1,4 @@
-**PSG-1**（[德文](../Page/德语.md "wikilink")：**P**räzisions-**S**charfschützen-**G**ewehr，意為：「[精確射手步槍](https://zh.wikipedia.org/wiki/精確射手步槍 "wikilink")」），是由[黑克勒-科赫生产的一种](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")[半自动](../Page/半自动步枪.md "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")。
+**PSG-1**（[德文](../Page/德语.md "wikilink")：**P**räzisions-**S**charfschützen-**G**ewehr，意為：「[精確射手步槍](../Page/精確射手步槍.md "wikilink")」），是由[黑克勒-科赫生产的一种](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")[半自动](../Page/半自动步枪.md "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")。
 
 ## 历史
 
@@ -126,7 +126,7 @@ Koch发布了PSG](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")-1A1
   -   - 特警單位
 
   -   - [警政署](https://zh.wikipedia.org/wiki/警政署 "wikilink")[維安特勤隊](../Page/維安特勤隊.md "wikilink")
-      - [海洋委員會海巡署](https://zh.wikipedia.org/wiki/海洋委員會海巡署 "wikilink")[署偵防分署](https://zh.wikipedia.org/wiki/海洋委員會海巡署偵防分署 "wikilink")[海巡特勤隊](https://zh.wikipedia.org/wiki/海巡特勤隊 "wikilink")
+      - [海洋委員會海巡署](https://zh.wikipedia.org/wiki/海洋委員會海巡署 "wikilink")[署偵防分署](../Page/海洋委員會海巡署偵防分署.md "wikilink")[海巡特勤隊](../Page/海巡特勤隊.md "wikilink")
 
   -   - 特種部隊單位
 
@@ -159,7 +159,7 @@ Koch发布了PSG](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")-1A1
   - 2002年—《[全球行動](https://zh.wikipedia.org/wiki/全球行動 "wikilink")》（Global
     Operation）：可選購額外彈匣或是高倍數瞄準具。
   - 2002年—《[-{zh-hans:命运战士2：双重螺旋;
-    zh-hant:傭兵戰場2：雙重螺旋;}-](https://zh.wikipedia.org/wiki/傭兵戰場2：雙重螺旋 "wikilink")》（Soldier
+    zh-hant:傭兵戰場2：雙重螺旋;}-](../Page/傭兵戰場2：雙重螺旋.md "wikilink")》（Soldier
     of Fortune II: Double Helix）：軍用版本MSG-90。
   - 2002年—《[-{zh-hans:秘密潜入2：隐秘行动;
     zh-hant:核武浩劫2;}-](../Page/秘密潜入2：隐秘行动.md "wikilink")》（IGI2
@@ -202,7 +202,7 @@ Koch发布了PSG](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")-1A1
       - PSG-1
       - PSG-1 S
   - 2013年—《[-{zh-hans:收获日;
-    zh-hant:劫薪日;}-2](https://zh.wikipedia.org/wiki/劫薪日2 "wikilink")》（Payday
+    zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》（Payday
     2）：以["Gewehr 3 Rifle"的改裝版本登場](../Page/HK_G3自動步槍.md "wikilink")。
 
 ### 動畫

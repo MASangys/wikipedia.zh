@@ -9,11 +9,11 @@ Pictures總部遷往在[東京都](../Page/東京都.md "wikilink")[杉並區的
 Pictures獨立製作的第一部電視動畫《[王牌投手 振臂高揮](../Page/王牌投手_振臂高揮.md "wikilink")》播出。
 
 2011年，以偶像為題材的電玩遊戲系列原作的改編作品《偶像大師》於同年7月播出的之後，榮獲『Newtype×Machi☆Asobi動畫獎2011』的CM部門獎、『Newtype×Machi☆Asobi動畫獎2012』的導演獎和腳本獎等7個部門，並擠進排行榜上的前2名。2014年在劇院上映的劇場版獲得了『Newtype×Machi☆Asobi動畫獎2014』的工作室獎和導演獎等6個部門多種獎項。2015年，又再度獲得了『Newtype×Machi☆Asobi動畫獎2015』的工作室獎。同年1月，《偶像大師》推出的另一部電玩遊戲系列原作的改編作品《[偶像大師
-灰姑娘女孩](https://zh.wikipedia.org/wiki/偶像大師_灰姑娘女孩 "wikilink")》的電視動畫播出之後入圍人物設計獎。同時，另一部與[TROYCA共同製作的原創動畫](https://zh.wikipedia.org/wiki/TROYCA "wikilink")《[ALDNOAH.ZERO](../Page/ALDNOAH.ZERO.md "wikilink")》入圍機械設計獎和音效獎。並達成4冠紀錄的成果。
+灰姑娘女孩](https://zh.wikipedia.org/wiki/偶像大師_灰姑娘女孩 "wikilink")》的電視動畫播出之後入圍人物設計獎。同時，另一部與[TROYCA共同製作的原創動畫](../Page/TROYCA.md "wikilink")《[ALDNOAH.ZERO](../Page/ALDNOAH.ZERO.md "wikilink")》入圍機械設計獎和音效獎。並達成4冠紀錄的成果。
 
 2012年，同樣位於東京都杉並區的[高圓寺工作室正式啟用](../Page/高圓寺.md "wikilink")。
 
-2018年4月1日，高圆寺工作室改名**[CloverWorks](https://zh.wikipedia.org/wiki/CloverWorks "wikilink")**，成为新品牌\[2\]。同年10月1日，CloverWorks從A-1
+2018年4月1日，高圆寺工作室改名**[CloverWorks](../Page/CloverWorks.md "wikilink")**，成为新品牌\[2\]。同年10月1日，CloverWorks從A-1
 Pictures獨立\[3\]。
 
 由於有[Aniplex的大量資金和周邊媒體業務支持](../Page/Aniplex.md "wikilink")，A-1
@@ -145,15 +145,15 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 
 <!-- end list -->
 
-  - [世界征服 謀略之星](https://zh.wikipedia.org/wiki/世界征服_謀略之星 "wikilink")（）
+  - [世界征服 謀略之星](../Page/世界征服_謀略之星.md "wikilink")（）
   - [龍孃七七七埋藏的寶藏](../Page/龍孃七七七埋藏的寶藏.md "wikilink")（）
   - [ALDNOAH.ZERO系列](../Page/ALDNOAH.ZERO.md "wikilink")（）（與TROYCA共同製作）
       - 第1期
       - 第2期（2015年）
   - [女神異聞錄4黃金版](https://zh.wikipedia.org/wiki/女神異聞錄4#第二季（Persona4_the_Golden_ANIMATION） "wikilink")（）
   - [神偷怪盜1412](https://zh.wikipedia.org/wiki/魔术快斗 "wikilink")（）（2014年－2015年）
-  - [四月是你的謊言](https://zh.wikipedia.org/wiki/四月是你的謊言 "wikilink")（）（2014年－2015年）
-  - [七大罪系列](https://zh.wikipedia.org/wiki/七大罪_\(漫畫\) "wikilink")（）
+  - [四月是你的謊言](../Page/四月是你的謊言.md "wikilink")（）（2014年－2015年）
+  - [七大罪系列](../Page/七大罪_\(漫畫\).md "wikilink")（）
       - 七大罪（2014年－2015年）
       - 七大罪 聖戰的預兆（2016年）
       - 七大罪 戒律的復活（2018年）
@@ -167,9 +167,8 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
   - [不起眼女主角培育法系列](../Page/不起眼女主角培育法.md "wikilink")（）
       - 不起眼女主角培育法
       - 不起眼女主角培育法♭（2017年）
-  - [偶像大師
-    灰姑娘女孩](https://zh.wikipedia.org/wiki/偶像大師_灰姑娘女孩_\(動畫\) "wikilink")（）
-  - [雙槍激鬥](https://zh.wikipedia.org/wiki/雙槍激鬥 "wikilink")（）
+  - [偶像大師 灰姑娘女孩](../Page/偶像大師_灰姑娘女孩_\(動畫\).md "wikilink")（）
+  - [雙槍激鬥](../Page/雙槍激鬥.md "wikilink")（）
   - [魔法少女奈葉ViVid](../Page/魔法少女奈葉ViVid.md "wikilink")（）
   - [電波教師](../Page/電波教師.md "wikilink")
   - [GATE 奇幻自衛隊系列](../Page/GATE_奇幻自衛隊.md "wikilink")（）
@@ -216,7 +215,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 <td><p><a href="../Page/灰與幻想的格林姆迦爾.md" title="wikilink">灰與幻想的格林姆迦爾</a></p></td>
 <td></td>
 <td><p>1月10日－3月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中村亮介" title="wikilink">中村亮介</a></p></td>
+<td><p><a href="../Page/中村亮介.md" title="wikilink">中村亮介</a></p></td>
 <td><p>輕小說</p></td>
 <td></td>
 </tr>
@@ -238,7 +237,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/七大罪_(漫畫)" title="wikilink">七大罪 聖戰的預兆</a></p></td>
+<td><p><a href="../Page/七大罪_(漫畫).md" title="wikilink">七大罪 聖戰的預兆</a></p></td>
 <td></td>
 <td><p>8月28日－9月18日</p></td>
 <td><p><a href="../Page/岡村天齋.md" title="wikilink">岡村天齋</a></p></td>
@@ -270,10 +269,10 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/亞人醬有話要說" title="wikilink">亞人醬有話要說</a></p></td>
+<td><p><a href="../Page/亞人醬有話要說.md" title="wikilink">亞人醬有話要說</a></p></td>
 <td></td>
 <td><p>1月7日－3月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安藤良" title="wikilink">安藤良</a></p></td>
+<td><p><a href="../Page/安藤良.md" title="wikilink">安藤良</a></p></td>
 <td><p>漫畫</p></td>
 <td></td>
 </tr>
@@ -297,7 +296,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 <td><p><a href="https://zh.wikipedia.org/wiki/情色漫畫老師" title="wikilink">情色漫畫老師</a></p></td>
 <td></td>
 <td><p>4月8日－6月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/竹下良平" title="wikilink">竹下良平</a></p></td>
+<td><p><a href="../Page/竹下良平.md" title="wikilink">竹下良平</a></p></td>
 <td><p>輕小說</p></td>
 <td></td>
 </tr>
@@ -305,7 +304,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 <td><p><a href="../Page/不起眼女主角培育法.md" title="wikilink">不起眼女主角培育法♭</a></p></td>
 <td></td>
 <td><p>4月13日－6月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/龜井幹太" title="wikilink">龜井幹太</a></p></td>
+<td><p><a href="../Page/龜井幹太.md" title="wikilink">龜井幹太</a></p></td>
 <td><p>第2期</p></td>
 <td></td>
 </tr>
@@ -318,7 +317,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/偶像大師SideM" title="wikilink">偶像大師SideM</a></p></td>
+<td><p><a href="../Page/偶像大師SideM.md" title="wikilink">偶像大師SideM</a></p></td>
 <td></td>
 <td><p>10月6日－12月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/原田孝宏" title="wikilink">原田孝宏</a>、<a href="https://zh.wikipedia.org/wiki/黑木美幸" title="wikilink">黑木美幸</a></p></td>
@@ -326,7 +325,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/調教咖啡廳" title="wikilink">調教咖啡廳</a></p></td>
+<td><p><a href="../Page/調教咖啡廳.md" title="wikilink">調教咖啡廳</a></p></td>
 <td></td>
 <td><p>10月7日－12月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/益山亮司" title="wikilink">益山亮司</a></p></td>
@@ -342,7 +341,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/皇帝聖印戰記" title="wikilink">皇帝聖印戰記</a></p></td>
+<td><p><a href="../Page/皇帝聖印戰記.md" title="wikilink">皇帝聖印戰記</a></p></td>
 <td></td>
 <td><p>1月5日－6月22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/畠山守" title="wikilink">畠山守</a></p></td>
@@ -350,7 +349,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/七大罪_(漫畫)" title="wikilink">七大罪 戒律的復活</a></p></td>
+<td><p><a href="../Page/七大罪_(漫畫).md" title="wikilink">七大罪 戒律的復活</a></p></td>
 <td></td>
 <td><p>1月13日－6月30日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/古田丈司" title="wikilink">古田丈司</a></p></td>
@@ -374,7 +373,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 <td><p>第3期</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/FAIRY_TAIL_(動畫)" title="wikilink">FAIRY TAIL</a></p></td>
+<td><p><a href="../Page/FAIRY_TAIL_(動畫).md" title="wikilink">FAIRY TAIL</a></p></td>
 <td></td>
 <td><p>10月7日－播放中</p></td>
 <td><p><a href="../Page/石平信司.md" title="wikilink">石平信司</a></p></td>
@@ -391,7 +390,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/輝夜姬想讓人告白~天才們的戀愛頭腦戰~" title="wikilink">輝夜姬想讓人告白~天才們的戀愛頭腦戰~</a></p></td>
+<td><p><a href="../Page/輝夜姬想讓人告白~天才們的戀愛頭腦戰~.md" title="wikilink">輝夜姬想讓人告白~天才們的戀愛頭腦戰~</a></p></td>
 <td></td>
 <td><p>1月12日－播放中</p></td>
 <td><p>畠山守</p></td>
@@ -420,7 +419,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
   - [FAIRY TAIL
     妖精們的懲罰遊戲](https://zh.wikipedia.org/wiki/FAIRY_TAIL_\(動畫\)#OAD "wikilink")（OAD7）（2016年）
 
-  - [亞人醬有話要說](https://zh.wikipedia.org/wiki/亞人醬有話要說 "wikilink")（2017年）
+  - [亞人醬有話要說](../Page/亞人醬有話要說.md "wikilink")（2017年）
 
 ### 電影動畫（劇場版）
 
@@ -434,7 +433,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
     我們仍未知道那天所看見的花的名字。](https://zh.wikipedia.org/wiki/我們仍未知道那天所看見的花的名字。 "wikilink")（）（2013年）
 
   - [偶像大師 劇場版
-    前往光輝的另一端！](https://zh.wikipedia.org/wiki/偶像大師_劇場版_前往光輝的另一端！ "wikilink")（）（2014年）
+    前往光輝的另一端！](../Page/偶像大師_劇場版_前往光輝的另一端！.md "wikilink")（）（2014年）
 
   - [宇宙兄弟\#0](../Page/宇宙兄弟.md "wikilink")（2014年）
 
@@ -454,7 +453,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 
   - [劇場版 黑執事 Book of the Atlanctc](../Page/黑執事.md "wikilink")（）（2017年）
 
-  - [刀劍神域劇場版：序列爭戰](https://zh.wikipedia.org/wiki/刀劍神域劇場版：序列爭戰 "wikilink")（）（2017年）
+  - [刀劍神域劇場版：序列爭戰](../Page/刀劍神域劇場版：序列爭戰.md "wikilink")（）（2017年）
 
   - [劇場版 FAIRY TAIL -DRAGON
     CRY-](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")（）（2017年）
@@ -480,7 +479,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
     3套新作動畫包裝封套。
 
   - [偶像大師
-    百萬人演唱會！](https://zh.wikipedia.org/wiki/偶像大師_百萬人演唱會！ "wikilink")（）（[社交網路遊戲](https://zh.wikipedia.org/wiki/社交網路遊戲 "wikilink")，2013年）－偶像角色們的卡片插圖。
+    百萬人演唱會！](../Page/偶像大師_百萬人演唱會！.md "wikilink")（）（[社交網路遊戲](https://zh.wikipedia.org/wiki/社交網路遊戲 "wikilink")，2013年）－偶像角色們的卡片插圖。
 
   - （2015年夏季）－擔任原作及製作。
 
@@ -504,7 +503,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
   - （2014年）
 
   - [Shelter (避難所) (Porter ‧
-    Robinson歌曲)](https://zh.wikipedia.org/wiki/避难所_\(波特·鲁滨逊歌曲\) "wikilink")
+    Robinson歌曲)](../Page/避难所_\(波特·鲁滨逊歌曲\).md "wikilink")
     （2016年）
 
 ## 爭議
@@ -524,12 +523,12 @@ Pictures於『』奪得2014業界賞。
 ## 關連人物
 
   - [山本寛](https://zh.wikipedia.org/wiki/山本寛 "wikilink")
-  - [植田益朗](https://zh.wikipedia.org/wiki/植田益朗 "wikilink")
+  - [植田益朗](../Page/植田益朗.md "wikilink")
 
 ### 動畫師/演出家
 
   - [赤井俊文](../Page/赤井俊文.md "wikilink")
-  - [高雄統子](https://zh.wikipedia.org/wiki/高雄統子 "wikilink")
+  - [高雄統子](../Page/高雄統子.md "wikilink")
 
 ## 外部链接
 

@@ -10,7 +10,7 @@
 
   - 作品標題是紅色的，片頭曲為音頭風格。
   - 哆啦A夢手腳較長，身高很高。
-  - [胖虎的配音員](https://zh.wikipedia.org/wiki/胖虎 "wikilink")，是在朝日電視台的版本中擔任[小夫的](https://zh.wikipedia.org/wiki/小夫 "wikilink")[肝付兼太](https://zh.wikipedia.org/wiki/肝付兼太 "wikilink")。
+  - [胖虎的配音員](https://zh.wikipedia.org/wiki/胖虎 "wikilink")，是在朝日電視台的版本中擔任[小夫的](https://zh.wikipedia.org/wiki/小夫 "wikilink")[肝付兼太](../Page/肝付兼太.md "wikilink")。
   - 原作幾乎不登場的虛幻的登場人物是機器鴨「ガチャ子」，在靜香家居住。靜香家裡還有「ボタ子」，還有沒出現在原作中的家務助理。
   - 胖虎的媽媽去世了。
   - [大雄等人就讀](../Page/野比大雄.md "wikilink")「下町小学校」。
@@ -54,16 +54,16 @@
   - [哆啦A夢](https://zh.wikipedia.org/wiki/哆啦A夢_\(漫畫角色\) "wikilink")：[富田耕生](../Page/富田耕生.md "wikilink")（第1話～第13話）→[野澤雅子](../Page/野澤雅子.md "wikilink")（第14話以後）
   - [野比大雄](../Page/野比大雄.md "wikilink")：[太田淑子](https://zh.wikipedia.org/wiki/太田淑子 "wikilink")
   - [源靜香](../Page/源靜香.md "wikilink")：[惠比壽真沙子](https://zh.wikipedia.org/wiki/惠比壽真沙子 "wikilink")
-  - [剛田武](../Page/剛田武.md "wikilink")：[肝付兼太](https://zh.wikipedia.org/wiki/肝付兼太 "wikilink")
+  - [剛田武](../Page/剛田武.md "wikilink")：[肝付兼太](../Page/肝付兼太.md "wikilink")
   - [骨川小夫](../Page/骨川小夫.md "wikilink")：[八代駿](https://zh.wikipedia.org/wiki/八代駿 "wikilink")
-  - 大雄的媽媽（[野比玉子](../Page/野比玉子.md "wikilink")）：[小原乃梨子](https://zh.wikipedia.org/wiki/小原乃梨子 "wikilink")
+  - 大雄的媽媽（[野比玉子](../Page/野比玉子.md "wikilink")）：[小原乃梨子](../Page/小原乃梨子.md "wikilink")
   - 大雄的爸爸（[野比伸助](../Page/野比伸助.md "wikilink")）：[村越伊知郎](https://zh.wikipedia.org/wiki/村越伊知郎 "wikilink")
   - 小夫的媽媽：[高橋和枝](https://zh.wikipedia.org/wiki/高橋和枝 "wikilink")
-  - 小鬼Q太郎：[堀絢子](https://zh.wikipedia.org/wiki/堀絢子 "wikilink")
+  - 小鬼Q太郎：[堀絢子](../Page/堀絢子.md "wikilink")
   - [世修](https://zh.wikipedia.org/wiki/世修 "wikilink")：[山本圭子](https://zh.wikipedia.org/wiki/山本圭子 "wikilink")
   - 大雄的老師：[加藤修](https://zh.wikipedia.org/wiki/加藤修 "wikilink")→[雨森雅司](https://zh.wikipedia.org/wiki/雨森雅司 "wikilink")
   - Botako（）：[野澤雅子](../Page/野澤雅子.md "wikilink")
-  - Debuko（）時常與靜香一起玩的胖妹：[塚瀨紀子](https://zh.wikipedia.org/wiki/塚瀨紀子 "wikilink")
+  - Debuko（）時常與靜香一起玩的胖妹：[塚瀨紀子](../Page/塚瀨紀子.md "wikilink")
   - Jyamako（）：[吉田理保子](../Page/吉田理保子.md "wikilink")
 
 #### 其他配音（角色不明）
@@ -72,11 +72,11 @@
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/大竹宏" title="wikilink">大竹宏</a></li>
+<li><a href="../Page/大竹宏.md" title="wikilink">大竹宏</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/兼本新吾" title="wikilink">兼本新吾</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/田中亮一" title="wikilink">田中亮一</a></li>
 <li><a href="../Page/野村道子.md" title="wikilink">野村道子</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/水鳥鐵夫" title="wikilink">水鳥鐵夫</a></li>
+<li><a href="../Page/水鳥鐵夫.md" title="wikilink">水鳥鐵夫</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/山下啓介" title="wikilink">山下啓介</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/岡本敏明" title="wikilink">岡本敏明</a></li>
 <li><a href="../Page/槐柳二.md" title="wikilink">槐柳二</a></li>
@@ -87,7 +87,7 @@
 <li><a href="https://zh.wikipedia.org/wiki/峰恵研" title="wikilink">峰恵研</a></li>
 <li><a href="../Page/山田俊司.md" title="wikilink">山田俊司</a></li>
 <li><a href="../Page/神谷明.md" title="wikilink">神谷明</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/北川米彥" title="wikilink">北川國彥</a></li>
+<li><a href="../Page/北川米彥.md" title="wikilink">北川國彥</a></li>
 <li><a href="../Page/中西妙子.md" title="wikilink">中西妙子</a></li>
 <li><a href="../Page/松金米子.md" title="wikilink">松金米子</a></li>
 </ul></td>
@@ -99,7 +99,7 @@
 <li><a href="../Page/永井一郎.md" title="wikilink">永井一郎</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/丸山裕子" title="wikilink">丸山裕子</a></li>
 <li><a href="../Page/矢田耕司.md" title="wikilink">矢田耕司</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/渡邊典子" title="wikilink">渡邊典子</a></li>
+<li><a href="../Page/渡邊典子.md" title="wikilink">渡邊典子</a></li>
 </ul></td>
 </tr>
 </tbody>

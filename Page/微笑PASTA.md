@@ -108,7 +108,7 @@
 <td><p><strong>粵語配音</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/趙舜" title="wikilink">趙　舜</a></p></td>
+<td><p><a href="../Page/趙舜.md" title="wikilink">趙　舜</a></p></td>
 <td><p>成　金</p></td>
 <td><p>成曉詩的爺爺，微笑Pasta主廚<br />
 成金在成家雖然年紀最大，心境卻最年輕。他活潑開朗，愛好熱鬧，對新奇有趣的事物特別感興趣，對年輕一代的新觀念特別容易接受。他的思想開放，言行又不正經，不但容易跟上時代潮流，又勇於追求流行，所以跟兒子成剛站在一起，看起來甚至比成剛還年輕。</p></td>
@@ -143,7 +143,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/林元春" title="wikilink">林元春</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/吳震亞" title="wikilink">吳震亞</a></p></td>
+<td><p><a href="../Page/吳震亞.md" title="wikilink">吳震亞</a></p></td>
 <td><p>雷　龍</p></td>
 <td><p>成曉詩最忠實的愛慕者，誓死保護曉詩<br />
 個性耿直、渾身肌肉的雷龍，是成金在微笑Pasta最有力的助手，他在義大利麵的技術層面上，是個高手，但是在創意展現上，卻是個低能兒。雷龍愛曉詩愛到發狂，自認是曉詩的頭號擁護者，但曉詩卻對他一點意思也沒有。</p></td>
@@ -170,7 +170,7 @@
 <td><p><a href="../Page/黃健強.md" title="wikilink">黃健強</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鮑正芳" title="wikilink">鮑正芳</a></p></td>
+<td><p><a href="../Page/鮑正芳.md" title="wikilink">鮑正芳</a></p></td>
 <td><p>畢麗鈴</p></td>
 <td><p>何孟元的老婆<br />
 識大體、溫柔，是緩和兒子何群和老公孟元的衝突的中間人。</p></td>

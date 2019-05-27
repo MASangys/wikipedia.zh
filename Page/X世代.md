@@ -37,7 +37,7 @@ Chauvel）分析世代間骨折[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wi
 
 ## 流行文化
 
-[香港著名歌手](../Page/香港.md "wikilink")[郭富城於](../Page/郭富城.md "wikilink")1998年發行的粵語唱片《[唱這歌](https://zh.wikipedia.org/wiki/唱這歌 "wikilink")》內的同名歌曲，歌詞就有提及Generation
+[香港著名歌手](../Page/香港.md "wikilink")[郭富城於](../Page/郭富城.md "wikilink")1998年發行的粵語唱片《[唱這歌](../Page/唱這歌.md "wikilink")》內的同名歌曲，歌詞就有提及Generation
 X一詞，配合其招牌舞姿，已成為不少香港人的集體回憶。
 
 ## X世代出生名人榜

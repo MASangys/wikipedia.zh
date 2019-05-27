@@ -11,7 +11,7 @@ Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[MacOS](.
 
 的沙香克·沙尔玛（Shashank
 Sharma）给了Privoxy以9/10星的评价并说：“Privoxy有着高度自定义性、简单的配置流程和良好的软件文档并且使用它很有乐趣。用它吧！”\[4\][PC
-World的埃雷兹](https://zh.wikipedia.org/wiki/PC_World "wikilink")·祖克曼（Erez
+World的埃雷兹](../Page/PC_World.md "wikilink")·祖克曼（Erez
 Zukerman）给了Privoxy以4/5星的评价并称它虽然很复杂但是功能十分强大。 \[5\]的米歇尔·练（Michelle
 Delio）称Privoxy是“保护个人隐私的绝佳方法”。\[6\]
 

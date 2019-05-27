@@ -3,7 +3,7 @@
 ## 背景
 
 [Johnadamsvp.flipped.jpg](https://zh.wikipedia.org/wiki/File:Johnadamsvp.flipped.jpg "fig:Johnadamsvp.flipped.jpg")
-1794年，美国总统[乔治·华盛顿为了避免战争](../Page/乔治·华盛顿.md "wikilink")，缓和與英国的关系，派遣[约翰·杰伊去伦敦与](../Page/约翰·杰伊.md "wikilink")[英国签订](https://zh.wikipedia.org/wiki/英国 "wikilink")[杰伊条约](https://zh.wikipedia.org/wiki/杰伊条约 "wikilink")。杰伊条约激怒了法国，当时法国正在与英国交战，法国认为这一条约意味着美国和英国形成了同盟，破坏了此前美国在英法战争中一直保持的中立，实质上违反了美国與法国之间的友好通商条约。
+1794年，美国总统[乔治·华盛顿为了避免战争](../Page/乔治·华盛顿.md "wikilink")，缓和與英国的关系，派遣[约翰·杰伊去伦敦与](../Page/约翰·杰伊.md "wikilink")[英国签订](https://zh.wikipedia.org/wiki/英国 "wikilink")[杰伊条约](../Page/杰伊条约.md "wikilink")。杰伊条约激怒了法国，当时法国正在与英国交战，法国认为这一条约意味着美国和英国形成了同盟，破坏了此前美国在英法战争中一直保持的中立，实质上违反了美国與法国之间的友好通商条约。
 
 1797年[约翰·亚当斯当选美国总统后](../Page/约翰·亚当斯.md "wikilink")，他和他的[联邦党主张加强联邦政府的权力](https://zh.wikipedia.org/wiki/美国联邦党 "wikilink")，极力反对[法国大革命](../Page/法国大革命.md "wikilink")，批评法国大革命实施的压制统治和极端激进主义，这导致法国与美国关系的进一步恶化。
 

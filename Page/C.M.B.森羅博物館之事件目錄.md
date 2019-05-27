@@ -284,7 +284,7 @@ ISBN 9789861020365</p></td>
 <td><p>Op.17</p></td>
 <td><p>櫛野村奇譚 (A Strange Tale from Kushino Mura)</p></td>
 <td><p>2008年2月号</p></td>
-<td><p>森罗和立树等人前往栉野村<a href="https://zh.wikipedia.org/wiki/滑雪" title="wikilink">滑雪</a>。挑战超上级者滑道的两人在风雪中迷失时，进入了偶然发现的山中小屋，但却好像<a href="https://zh.wikipedia.org/wiki/时间旅行" title="wikilink">回到了村子被命名为“栉野村”之前的过去</a>。</p></td>
+<td><p>森罗和立树等人前往栉野村<a href="https://zh.wikipedia.org/wiki/滑雪" title="wikilink">滑雪</a>。挑战超上级者滑道的两人在风雪中迷失时，进入了偶然发现的山中小屋，但却好像<a href="../Page/时间旅行.md" title="wikilink">回到了村子被命名为“栉野村”之前的过去</a>。</p></td>
 <td></td>
 <td></td>
 </tr>

@@ -314,7 +314,7 @@
 
 ::::\*I313.45 [现代小说](https://zh.wikipedia.org/wiki/现代小说 "wikilink")
 
-::\*I312 [朝鲜文学](https://zh.wikipedia.org/wiki/朝鲜文学 "wikilink")
+::\*I312 [朝鲜文学](../Page/朝鲜文学.md "wikilink")
 
 ::\*I333 [越南文学](https://zh.wikipedia.org/wiki/越南文学 "wikilink")
 
@@ -322,7 +322,7 @@
 
 ::\*I339 [新加坡文学](https://zh.wikipedia.org/wiki/新加坡文学 "wikilink")
 
-::\*I351 [印度文学](https://zh.wikipedia.org/wiki/印度文学 "wikilink")
+::\*I351 [印度文学](../Page/印度文学.md "wikilink")
 
 :\*I37 西亚（西南亚）文学
 

@@ -121,7 +121,7 @@ Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")、[Oracle
 <td><center>
 <p>16</p>
 </center></td>
-<td><p>Windows 7，<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">Windows 8</a>，<a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1</a>，<a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p>Windows 7，<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">Windows 8</a>，<a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1</a>，<a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 <td><p><a href="../Page/Microsoft_Office_2016.md" title="wikilink">Office 2016 Professional及Professional Plus</a></p></td>
 </tr>
 <tr class="even">
@@ -130,8 +130,8 @@ Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")、[Oracle
 <td><center>
 <p>17</p>
 </center></td>
-<td><p>|<a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
-<td><p>|<a href="https://zh.wikipedia.org/wiki/Windows_Server_2019" title="wikilink">Windows Server 2019</a></p></td>
+<td><p>|<a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
+<td><p>|<a href="../Page/Windows_Server_2019.md" title="wikilink">Windows Server 2019</a></p></td>
 </tr>
 </tbody>
 </table>

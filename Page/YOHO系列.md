@@ -21,7 +21,7 @@ Town由八個分區組成\[1\]，規劃概念仿傚集團於1985年落成的[沙
 <!-- end list -->
 
   - Zone 5：YOHO Mall 北翼 及 其上蓋住宅[Grand
-    YOHO](https://zh.wikipedia.org/wiki/Grand_YOHO "wikilink")
+    YOHO](../Page/Grand_YOHO.md "wikilink")
   - Zone 6：YOHO Boulevard－接連YOHO Mall 北南翼的購物走廊
   - Zone 7：YOHO Mall南翼 及 其上蓋住宅 [YOHO
     Midtown](../Page/YOHO_Midtown.md "wikilink")
@@ -60,7 +60,7 @@ Club亦設有無線上網系統及多媒體中心。
 Town第二期，由8座住宅大廈組成，提供1,890個單位。物業低座為佔地4層大型購物商場。住宅部分在2010年10月入伙。
 
 商場命名為[YOHO MALL
-形點](https://zh.wikipedia.org/wiki/YOHO_MALL_形點 "wikilink")。樓高三層，佔地200,000平方呎。地下設有開放式食肆，1樓為各式店舖，2樓為美食廣場。當中地下設有一個大型廣場及公園，以模仿日本六本木（Tokyo
+形點](../Page/YOHO_MALL_形點.md "wikilink")。樓高三層，佔地200,000平方呎。地下設有開放式食肆，1樓為各式店舖，2樓為美食廣場。當中地下設有一個大型廣場及公園，以模仿日本六本木（Tokyo
 Midtown）的公共空間概念。公眾將可以在公園綠色草坪欣賞翠綠景緻，或觀賞公共雕塑。商場於2010年10月落成，落成後曾空置3年。到2013年10月15日起，商場部份範圍進行重舖地台及翻新假天花工程，在2015年9月正式投入運作。
 
 ## YOHO Midtown 第2A期
@@ -181,8 +181,7 @@ YOHO Town
 
 ## 參見
 
-  - [YOHO MALL
-    形點](https://zh.wikipedia.org/wiki/YOHO_MALL_形點 "wikilink")
+  - [YOHO MALL 形點](../Page/YOHO_MALL_形點.md "wikilink")
   - [形點II](https://zh.wikipedia.org/wiki/形點II "wikilink")
   - [新元朗中心](../Page/新元朗中心.md "wikilink")
   - [元朗市中心](../Page/元朗市中心.md "wikilink")

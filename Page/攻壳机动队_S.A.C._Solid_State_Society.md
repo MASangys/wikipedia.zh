@@ -24,7 +24,7 @@ S.A.C.的世界](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C. "wikilink"
   - 荒卷大辅：[阪脩](../Page/阪脩.md "wikilink")
   - 巴特：[大塚明夫](../Page/大塚明夫.md "wikilink")
   - 陀古薩（德古沙）：[山寺宏一](../Page/山寺宏一.md "wikilink")
-  - 石川：[仲野裕](https://zh.wikipedia.org/wiki/仲野裕 "wikilink")
+  - 石川：[仲野裕](../Page/仲野裕.md "wikilink")
   - 齊藤：[大川透](../Page/大川透.md "wikilink")
   - 巴兹：[小野塚貴志](https://zh.wikipedia.org/wiki/小野塚貴志 "wikilink")
   - 博馬（波瑪）：[山口太郎](https://zh.wikipedia.org/wiki/山口太郎 "wikilink")

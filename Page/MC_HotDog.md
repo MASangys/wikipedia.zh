@@ -21,9 +21,9 @@ HotDog
     of Blues」邀請，與張震嶽一起前往美國十大城市演出。
   - 2005年6月，受邀前往[香港擔任張震嶽演唱會嘉賓](../Page/香港.md "wikilink")。
   - 2006年1月，推出個人首張完整[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[Wake
-    Up](https://zh.wikipedia.org/wiki/Wake_Up_\(MC_HotDog专辑\) "wikilink")》。發行了個人專輯後慢慢走出自我的風格，和好友[大支也開始結束彼此的合作關係](../Page/大支.md "wikilink")。4月，於[台北世貿二館舉辦個人首次售票演唱會](https://zh.wikipedia.org/wiki/台北世貿 "wikilink")；門票在演唱會前兩週即售罄，[黃牛票在網路上喊價十倍](https://zh.wikipedia.org/wiki/黃牛票 "wikilink")。6月，參加[第17屆金曲獎演出](https://zh.wikipedia.org/wiki/第17屆金曲獎 "wikilink")。
+    Up](../Page/Wake_Up_\(MC_HotDog专辑\).md "wikilink")》。發行了個人專輯後慢慢走出自我的風格，和好友[大支也開始結束彼此的合作關係](../Page/大支.md "wikilink")。4月，於[台北世貿二館舉辦個人首次售票演唱會](https://zh.wikipedia.org/wiki/台北世貿 "wikilink")；門票在演唱會前兩週即售罄，[黃牛票在網路上喊價十倍](https://zh.wikipedia.org/wiki/黃牛票 "wikilink")。6月，參加[第17屆金曲獎演出](https://zh.wikipedia.org/wiki/第17屆金曲獎 "wikilink")。
   - 2007年6月，《[Wake
-    Up](https://zh.wikipedia.org/wiki/Wake_Up_\(MC_HotDog专辑\) "wikilink")》專輯獲[第18屆金曲獎最佳國語專輯獎](https://zh.wikipedia.org/wiki/第18屆金曲獎 "wikilink")，表示其另類風格受評審肯定。（兩人在金曲獎頒獎典禮上的表演片段在[中國大陸地區禁止播出](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，其帶有粗口的專輯在中國大陸地區禁止發行。）
+    Up](../Page/Wake_Up_\(MC_HotDog专辑\).md "wikilink")》專輯獲[第18屆金曲獎最佳國語專輯獎](https://zh.wikipedia.org/wiki/第18屆金曲獎 "wikilink")，表示其另類風格受評審肯定。（兩人在金曲獎頒獎典禮上的表演片段在[中國大陸地區禁止播出](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，其帶有粗口的專輯在中國大陸地區禁止發行。）
   - 2008年10月，推出第二張專輯《[差不多先生](https://zh.wikipedia.org/wiki/差不多先生 "wikilink")》。
   - 2012年7月，推出第三張專輯《[貧民百萬歌星](https://zh.wikipedia.org/wiki/貧民百萬歌星 "wikilink")》。
   - 2013年2月27日，首度登上[香港](../Page/香港.md "wikilink")[紅磡體育館舉辦個人售票演唱會](https://zh.wikipedia.org/wiki/紅磡體育館 "wikilink")。
@@ -31,10 +31,10 @@ HotDog
   - 2014年8月21日，向《[ETtoday
     東森新聞雲](https://zh.wikipedia.org/wiki/ETtoday_東森新聞雲 "wikilink")》坦言，在大學時曾在好奇心與朋友慫恿下[吸毒兩年](https://zh.wikipedia.org/wiki/吸毒 "wikilink")，曾經吸食[搖頭丸](../Page/搖頭丸.md "wikilink")、[大麻及](https://zh.wikipedia.org/wiki/大麻_\(藥用\) "wikilink")[K他命](https://zh.wikipedia.org/wiki/K他命 "wikilink")，吸毒亢奮完後反而心靈空虛、食慾不振、面黃肌瘦、沒精神；到了後期，吸毒後，心中會浮現悔意；直到有一天，突然想通了，決定把[手機裡藥頭及吸毒朋友們的電話號碼全部刪掉](https://zh.wikipedia.org/wiki/手機 "wikilink")，「吸毒傷身又花錢，沒意思，也沒必要一直玩」。坦率講出吸毒往事，他說：「玩過，沒什麼好避諱！」
   - 2015年7月10日，創作過無數經典歌曲的創作歌手[張震嶽](https://zh.wikipedia.org/wiki/張震嶽 "wikilink")，與華語饒舌指標性歌手MC
-    HotDog(熱狗)，再加上華語音樂圈最潮嘻哈新人記錄王[頑童MJ116](https://zh.wikipedia.org/wiki/頑童MJ116 "wikilink")，在北京召開新聞發布會，宣布「兄弟本色日落黑趴世界巡迴演唱會」正式起航，並宣告「[兄弟本色](https://zh.wikipedia.org/wiki/兄弟本色 "wikilink")」時代正式降臨。
-  - 2017年，擔任[《中國有嘻哈》明星製作人兼評審](https://zh.wikipedia.org/wiki/中国有嘻哈 "wikilink")
+    HotDog(熱狗)，再加上華語音樂圈最潮嘻哈新人記錄王[頑童MJ116](../Page/頑童MJ116.md "wikilink")，在北京召開新聞發布會，宣布「兄弟本色日落黑趴世界巡迴演唱會」正式起航，並宣告「[兄弟本色](https://zh.wikipedia.org/wiki/兄弟本色 "wikilink")」時代正式降臨。
+  - 2017年，擔任[《中國有嘻哈》明星製作人兼評審](../Page/中国有嘻哈.md "wikilink")
   - 2018年，擔任[《中國新說唱》明星製作人兼評審](https://zh.wikipedia.org/wiki/中國新說唱 "wikilink")
-  - 2019年，加盟[我是唱作人](https://zh.wikipedia.org/wiki/我是唱作人 "wikilink")
+  - 2019年，加盟[我是唱作人](../Page/我是唱作人.md "wikilink")
 
 ## 音樂作品
 
@@ -107,7 +107,7 @@ EP+<a href="../Page/VCD.md" title="wikilink">VCD</a></p></td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p>《<a href="https://zh.wikipedia.org/wiki/Wake_Up_(MC_HotDog专辑)" title="wikilink">Wake Up</a>》</p></td>
+<td style="text-align: left;"><p>《<a href="../Page/Wake_Up_(MC_HotDog专辑).md" title="wikilink">Wake Up</a>》</p></td>
 <td style="text-align: left;"><ol>
 <li>Intro</li>
 <li>我行我素</li>
@@ -217,8 +217,8 @@ EP+<a href="../Page/VCD.md" title="wikilink">VCD</a></p></td>
 | 2013年8月  | 蛋堡, 葛仲珊                                                                                                                                                                     | 合作單曲                                             | 「walk this way」                                                           |
 | 2013年9月  | [蔡健雅](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")                                                                                                                         | 《天使與魔鬼的對話》                                       | 「Easy Come Easy GO」                                                       |
 | 2014年2月  | 黃崇旭, J Wu                                                                                                                                                                   | 合作單曲                                             | 「Welcome back」                                                            |
-| 2014年4月  | [頑童MJ116](https://zh.wikipedia.org/wiki/頑童MJ116 "wikilink")                                                                                                                 | 《Fresh Game》                                     | 「[MJ FRESH GANG](https://zh.wikipedia.org/wiki/MJ_FRESH_GANG "wikilink")」 |
-| 2015年7月  | [岳云鹏](../Page/岳云鹏.md "wikilink")                                                                                                                                            | 电影《[煎饼侠](../Page/煎饼侠.md "wikilink")》插曲           | 「[五环之歌](https://zh.wikipedia.org/wiki/五环之歌 "wikilink")」                   |
+| 2014年4月  | [頑童MJ116](../Page/頑童MJ116.md "wikilink")                                                                                                                                    | 《Fresh Game》                                     | 「[MJ FRESH GANG](https://zh.wikipedia.org/wiki/MJ_FRESH_GANG "wikilink")」 |
+| 2015年7月  | [岳云鹏](../Page/岳云鹏.md "wikilink")                                                                                                                                            | 电影《[煎饼侠](../Page/煎饼侠.md "wikilink")》插曲           | 「[五环之歌](../Page/五环之歌.md "wikilink")」                                      |
 | 2016年7月  | 陳冠希, 鄭秀文                                                                                                                                                                    | 合作單曲                                             | 「MR SANDMAN」                                                              |
 | 2018年6月  | 熊仔, BR, 韓森, 小人, 大支                                                                                                                                                          | 「Peace?零皮草演唱會」                                   | 「PEACE?」                                                                  |
 | 2018年7月  | 老莫 ILL MO                                                                                                                                                                   | 合作單曲                                             | 「Nightclub love」                                                          |
@@ -227,11 +227,11 @@ EP+<a href="../Page/VCD.md" title="wikilink">VCD</a></p></td>
 
 **合作單曲**
 
-| 日期      | 合作           | 組合名稱                                                                  | 专辑/EP            |
-| ------- | ------------ | --------------------------------------------------------------------- | ---------------- |
-| 2013年9月 | 陳冠希          | 超級兄弟Super brothers                                                    | 《Super brothers》 |
-| 2016年1月 | 張震嶽, 頑童MJ116 | [兄弟本色G.U.T.S.](https://zh.wikipedia.org/wiki/兄弟本色G.U.T.S. "wikilink") | 《FLY OUT》        |
-| 2017年4月 | 張震嶽, 頑童MJ116 | [兄弟本色G.U.T.S.](https://zh.wikipedia.org/wiki/兄弟本色G.U.T.S. "wikilink") | 《SKRU UP》        |
+| 日期      | 合作           | 組合名稱                                               | 专辑/EP            |
+| ------- | ------------ | -------------------------------------------------- | ---------------- |
+| 2013年9月 | 陳冠希          | 超級兄弟Super brothers                                 | 《Super brothers》 |
+| 2016年1月 | 張震嶽, 頑童MJ116 | [兄弟本色G.U.T.S.](../Page/兄弟本色G.U.T.S..md "wikilink") | 《FLY OUT》        |
+| 2017年4月 | 張震嶽, 頑童MJ116 | [兄弟本色G.U.T.S.](../Page/兄弟本色G.U.T.S..md "wikilink") | 《SKRU UP》        |
 
 限定組合
 
@@ -242,7 +242,7 @@ EP+<a href="../Page/VCD.md" title="wikilink">VCD</a></p></td>
 | 改變     |           |             |
 |        |           |             |
 
-[我是唱作人創作單曲](https://zh.wikipedia.org/wiki/我是唱作人 "wikilink")
+[我是唱作人創作單曲](../Page/我是唱作人.md "wikilink")
 
 ## 网络剧
 

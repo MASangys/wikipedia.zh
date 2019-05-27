@@ -124,7 +124,7 @@ L線列車在任何時候都在同一條路線上使用相同的服務形式。\
 <td><p><a href="https://zh.wikipedia.org/wiki/羅里默街車站_(BMT卡納西線)" title="wikilink">羅里默街</a></p></td>
 <td></td>
 <td></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/IND跨城線" title="wikilink">IND跨城線</a>，<a href="https://zh.wikipedia.org/wiki/大都會大道車站_(IND跨城線)" title="wikilink">大都會大道</a>）</p></td>
+<td><p>（<a href="../Page/IND跨城線.md" title="wikilink">IND跨城線</a>，<a href="https://zh.wikipedia.org/wiki/大都會大道車站_(IND跨城線)" title="wikilink">大都會大道</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -101,7 +101,7 @@ N首尔塔的观景台是眺望[汉江和欣赏](https://zh.wikipedia.org/wiki/�
 <td><center>
 <p>11</p>
 </center></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC_TV" title="wikilink">MBC TV</a></p></td>
+<td><p><a href="../Page/MBC_TV.md" title="wikilink">MBC TV</a></p></td>
 <td><p>HLKV-DTV</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">文化廣播</a></p></td>
 <td></td>

@@ -1,5 +1,5 @@
 '''釜山IPark
-'''（）是由[大宇集团於](../Page/大宇集团.md "wikilink")1983年在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[釜山成立的](https://zh.wikipedia.org/wiki/釜山 "wikilink")。球隊原稱「大宇」（后更名大宇皇家），是[K聯賽的創始俱樂部之一](https://zh.wikipedia.org/wiki/K聯賽 "wikilink")。[1985–86年亚洲球会锦标赛](https://zh.wikipedia.org/wiki/1985–86年亚洲球会锦标赛 "wikilink")，大宇皇家以3-1擊敗[沙烏地阿拉伯的](https://zh.wikipedia.org/wiki/沙烏地阿拉伯 "wikilink")[-{zh-hans:阿赫利;
+'''（）是由[大宇集团於](../Page/大宇集团.md "wikilink")1983年在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[釜山成立的](https://zh.wikipedia.org/wiki/釜山 "wikilink")。球隊原稱「大宇」（后更名大宇皇家），是[K聯賽的創始俱樂部之一](../Page/K聯賽.md "wikilink")。[1985–86年亚洲球会锦标赛](https://zh.wikipedia.org/wiki/1985–86年亚洲球会锦标赛 "wikilink")，大宇皇家以3-1擊敗[沙烏地阿拉伯的](https://zh.wikipedia.org/wiki/沙烏地阿拉伯 "wikilink")[-{zh-hans:阿赫利;
 zh-hk:吉達艾阿里; zh-tw:
 阿爾阿里;}-](https://zh.wikipedia.org/wiki/吉達艾阿里體育會 "wikilink")，成為韓國職業足球隊中，第一個奪下[亞洲冠軍盃的球隊](https://zh.wikipedia.org/wiki/亞洲冠軍聯賽 "wikilink")。
 
@@ -15,8 +15,7 @@ zh-hk:吉達艾阿里; zh-tw:
 
 ## 榮譽
 
-  - [K聯賽](https://zh.wikipedia.org/wiki/K聯賽 "wikilink")：1984, 1987,
-    1991, 1997
+  - [K聯賽](../Page/K聯賽.md "wikilink")：1984, 1987, 1991, 1997
   - [韓國足總杯](https://zh.wikipedia.org/wiki/韓國足總杯 "wikilink")：2004
   - [adidas杯](https://zh.wikipedia.org/wiki/adidas "wikilink")：1997
   - [韓國聯賽杯](https://zh.wikipedia.org/wiki/韓國聯賽杯 "wikilink")：1997, 1998

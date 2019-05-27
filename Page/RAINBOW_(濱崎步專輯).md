@@ -3,7 +3,7 @@
 ## 背景與主題
 
 在《I
-am...》的發行之後，濱崎步開始接納在[日本以外的地區進行表演活動](../Page/日本.md "wikilink")。在2002年[MTV亞洲大獎的表演後](https://zh.wikipedia.org/wiki/MTV "wikilink")，濱崎步認為以[日文填寫歌詞已經不足以傳遞她的訊息給國外的聽眾](https://zh.wikipedia.org/wiki/日文 "wikilink")。她認知[英語是世界最為通用的](https://zh.wikipedia.org/wiki/英語 "wikilink")[語言](https://zh.wikipedia.org/wiki/語言 "wikilink")，於是她開始在歌曲中加入英文的填詞\[1\]\[2\]。
+am...》的發行之後，濱崎步開始接納在[日本以外的地區進行表演活動](../Page/日本.md "wikilink")。在2002年[MTV亞洲大獎的表演後](https://zh.wikipedia.org/wiki/MTV "wikilink")，濱崎步認為以[日文填寫歌詞已經不足以傳遞她的訊息給國外的聽眾](https://zh.wikipedia.org/wiki/日文 "wikilink")。她認知[英語是世界最為通用的](https://zh.wikipedia.org/wiki/英語 "wikilink")[語言](../Page/語言.md "wikilink")，於是她開始在歌曲中加入英文的填詞\[1\]\[2\]。
 
 在這張專輯中，濱崎步還是以[CREA的筆名與D](../Page/CREA.md "wikilink")･A･I共同進行創作。但是在風格上又有了轉變，它包含了搖滾、Trip-hop、黑人靈歌風格的音樂。填詞亦與前作不同，自由地追求愛、女性的迷惘等富有[女性主義色彩的填詞已經漸漸融入歌詞中](../Page/女性主義.md "wikilink")，另外「悲情之夏」也是這張專輯的一個特色。
 

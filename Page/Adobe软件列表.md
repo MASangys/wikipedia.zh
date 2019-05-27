@@ -35,7 +35,7 @@
         Link](https://zh.wikipedia.org/wiki/Adobe_Dynamic_Link "wikilink")
       - [Encore](https://zh.wikipedia.org/wiki/Adobe_Encore "wikilink")
       - [Experience
-        Design](https://zh.wikipedia.org/wiki/Adobe_Experience_Design "wikilink")
+        Design](../Page/Adobe_Experience_Design.md "wikilink")
       - [Fireworks](../Page/Adobe_Fireworks.md "wikilink")
       - [Illustrator](../Page/Adobe_Illustrator.md "wikilink")
       - [InDesign](../Page/Adobe_InDesign.md "wikilink")

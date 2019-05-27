@@ -344,7 +344,7 @@
 <td><p>EDW</p></td>
 <td><p>KEDW</p></td>
 <td><p><a href="../Page/爱德华兹空军基地.md" title="wikilink">爱德华兹空军基地</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛德華茲_(加利福尼亞州)" title="wikilink">愛德華茲</a>，<a href="https://zh.wikipedia.org/wiki/加利福尼亞州" title="wikilink">加利福尼亞州</a></p></td>
+<td><p><a href="../Page/愛德華茲_(加利福尼亞州).md" title="wikilink">愛德華茲</a>，<a href="https://zh.wikipedia.org/wiki/加利福尼亞州" title="wikilink">加利福尼亞州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -581,7 +581,7 @@
 <tr class="even">
 <td><p>EIL</p></td>
 <td><p>PAEI</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/艾爾森空軍基地" title="wikilink">艾爾森空軍基地</a></p></td>
+<td><p><a href="../Page/艾爾森空軍基地.md" title="wikilink">艾爾森空軍基地</a></p></td>
 <td><p><a href="../Page/費爾班克斯_(阿拉斯加州).md" title="wikilink">費爾班克斯</a>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
 <td></td>
 </tr>
@@ -630,7 +630,7 @@
 <tr class="odd">
 <td><p>EJN</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/额济纳旗桃来机场" title="wikilink">额济纳旗桃来机场</a></p></td>
+<td><p><a href="../Page/额济纳旗桃来机场.md" title="wikilink">额济纳旗桃来机场</a></p></td>
 <td><p><a href="../Page/额济纳旗.md" title="wikilink">额济纳旗</a>，<a href="https://zh.wikipedia.org/wiki/內蒙古自治區" title="wikilink">內蒙古自治區</a></p></td>
 <td></td>
 </tr>
@@ -750,7 +750,7 @@
 <td><p>ELD</p></td>
 <td><p>KELD</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/埃爾多拉多_(阿肯色州)" title="wikilink">埃爾多拉多</a>，<a href="../Page/阿肯色州.md" title="wikilink">阿肯色州</a></p></td>
+<td><p><a href="../Page/埃爾多拉多_(阿肯色州).md" title="wikilink">埃爾多拉多</a>，<a href="../Page/阿肯色州.md" title="wikilink">阿肯色州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1057,7 +1057,7 @@
 <tr class="even">
 <td><p>ENE</p></td>
 <td><p>WATE</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/赫·哈桑·阿罗波斯曼机场" title="wikilink">赫·哈桑·阿罗波斯曼机场</a></p></td>
+<td><p><a href="../Page/赫·哈桑·阿罗波斯曼机场.md" title="wikilink">赫·哈桑·阿罗波斯曼机场</a></p></td>
 <td><p>，<a href="https://zh.wikipedia.org/wiki/東努沙登加拉省" title="wikilink">東努沙登加拉省</a></p></td>
 <td></td>
 </tr>
@@ -1078,7 +1078,7 @@
 <tr class="odd">
 <td><p>ENI</p></td>
 <td><p>RPEN</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛妮島機場" title="wikilink">愛妮島機場</a></p></td>
+<td><p><a href="../Page/愛妮島機場.md" title="wikilink">愛妮島機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛妮島_(巴拉望省)" title="wikilink">愛妮島</a>，<a href="https://zh.wikipedia.org/wiki/民馬羅巴區" title="wikilink">民馬羅巴區</a></p></td>
 <td></td>
 </tr>
@@ -1093,7 +1093,7 @@
 <td><p>ENK</p></td>
 <td><p>EGAB</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/恩尼斯基林" title="wikilink">恩尼斯基林</a>，<a href="https://zh.wikipedia.org/wiki/北愛爾蘭" title="wikilink">北愛爾蘭</a></p></td>
+<td><p><a href="../Page/恩尼斯基林.md" title="wikilink">恩尼斯基林</a>，<a href="https://zh.wikipedia.org/wiki/北愛爾蘭" title="wikilink">北愛爾蘭</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1184,7 +1184,7 @@
 <td><p>EOK</p></td>
 <td><p>KEOK</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/基奥卡克_(艾奥瓦州)" title="wikilink">基奧卡克</a>，<a href="https://zh.wikipedia.org/wiki/艾奧瓦州" title="wikilink">艾奧瓦州</a></p></td>
+<td><p><a href="../Page/基奥卡克_(艾奥瓦州).md" title="wikilink">基奧卡克</a>，<a href="https://zh.wikipedia.org/wiki/艾奧瓦州" title="wikilink">艾奧瓦州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1877,7 +1877,7 @@
 <tr class="odd">
 <td><p>EXT</p></td>
 <td><p>EGTE</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/埃克塞特國際機場" title="wikilink">埃克塞特國際機場</a></p></td>
+<td><p><a href="../Page/埃克塞特國際機場.md" title="wikilink">埃克塞特國際機場</a></p></td>
 <td><p><a href="../Page/埃克塞特.md" title="wikilink">埃克塞特</a>，<a href="https://zh.wikipedia.org/wiki/英格蘭" title="wikilink">英格蘭</a></p></td>
 <td></td>
 </tr>

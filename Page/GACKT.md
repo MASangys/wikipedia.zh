@@ -18,7 +18,7 @@
         Live Tour2005 12 24 DIABOLOS～哀婉の詩と聖夜の涙～》。
   - 2006年
       - 1月14日
-        在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾舉辦與日本同樣规模及内容的演唱會](https://zh.wikipedia.org/wiki/首爾 "wikilink")《Gackt
+        在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾舉辦與日本同樣规模及内容的演唱會](../Page/首爾.md "wikilink")《Gackt
         Live Tour 2005 DIABOLOS\~哀婉の詩\~In ASIA》。
       - 2月28日
         透過廣播節目通信認識的兵庫縣立舞子高等學校的學生邀請參加他們的畢業典禮。於是決定在畢業生、在校生前舉辦[畢業典禮纪念演唱](https://zh.wikipedia.org/wiki/:GACKT#.E7.95.A2.E6.A5.AD.E5.85.B8.E7.A6.AE.E7.8D.BB.E5.94.B1 "wikilink")。兩天後公開為了畢業典禮寫的歌曲《像花一樣自由綻放》（野に咲く花のように），於2007年2月7日發售。
@@ -2528,7 +2528,7 @@ GACKT本人此五曲擔當。</small></p></td>
   - [楽園Lifeロイヤルパレス](https://yoyaku-top10.jp/u/a/MTM1NTU)（IOS）／Raystrike
     Inc.
   - \[<http://www.sengokushurasoul.jp/>　戦国修羅SOUL\]（IOS/Android/楽天アプリ）／クリーク・アンド・リバー社／配音：戦国GACKT、[上杉謙信](../Page/上杉謙信.md "wikilink")
-  - [逆転オセロニア](https://www.othellonia.com/)（IOS/Android）／[DeNA](https://zh.wikipedia.org/wiki/DeNA "wikilink")／配音：魔天・ルエド
+  - [逆転オセロニア](https://www.othellonia.com/)（IOS/Android）／[DeNA](../Page/DeNA.md "wikilink")／配音：魔天・ルエド
 
 ## 書籍
 

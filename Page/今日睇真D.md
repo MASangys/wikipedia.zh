@@ -37,8 +37,8 @@
   - [林子博](../Page/林子博.md "wikilink")（已转职[無綫娛樂新聞-{台}-主播](https://zh.wikipedia.org/wiki/無綫娛樂新聞台 "wikilink")，外景記者及無綫電視劇集演員）
   - [蘇敏聰](https://zh.wikipedia.org/wiki/蘇敏聰 "wikilink")（曾經轉職《[城市追擊](../Page/城市追擊.md "wikilink")》，已離開娛樂圈，現在已移居[加拿大](../Page/加拿大.md "wikilink")）
   - [黎淑賢](../Page/黎淑賢.md "wikilink")
-  - [袁潔儀](../Page/袁潔儀.md "wikilink")（曾主持亞洲電視婦女節目[我愛下午茶](https://zh.wikipedia.org/wiki/我愛下午茶 "wikilink")，現在回巢[無線電視](https://zh.wikipedia.org/wiki/TVB "wikilink")）
-  - [胡慧冲](https://zh.wikipedia.org/wiki/胡慧冲 "wikilink"):
+  - [袁潔儀](../Page/袁潔儀.md "wikilink")（曾主持亞洲電視婦女節目[我愛下午茶](../Page/我愛下午茶.md "wikilink")，現在回巢[無線電視](https://zh.wikipedia.org/wiki/TVB "wikilink")）
+  - [胡慧冲](../Page/胡慧冲.md "wikilink"):
     1990年年初去泰國後，便喜歡該國。曾被《壹週刊》以其「變泰」事蹟成為雜誌跨頁專訪。在2002年移居[泰國至今](https://zh.wikipedia.org/wiki/泰國 "wikilink")16年，任職泰國旅遊專欄作家及旅遊節目主持人。
 
 ## 與節目相關活動

@@ -83,7 +83,7 @@ CQ突擊步槍也曾出現在一些[中國大陸製作的軍事題材](https://z
     of
     War）：型號為CQ，為尤里.奧洛夫於[黎巴嫩售賣的武器之一](../Page/黎巴嫩.md "wikilink")，堆積在大量[M16A2和少量](../Page/M16突擊步槍.md "wikilink")[HK
     G3之中](../Page/HK_G3自動步槍.md "wikilink")。
-  - 2015年—《[战狼](https://zh.wikipedia.org/wiki/战狼 "wikilink")》（Wolf
+  - 2015年—《[战狼](../Page/战狼.md "wikilink")》（Wolf
     Warriors）：型号为CQ，枪托为沙色涂装，使用战术导轨护木并安装[瞄准镜和](../Page/瞄准镜.md "wikilink")[前握把](../Page/輔助握把.md "wikilink")，用以充當[美國製](https://zh.wikipedia.org/wiki/美國 "wikilink")[M16A1突擊步槍](../Page/M16突擊步槍.md "wikilink")，被雇佣兵组织队长「老猫」（[斯科特·阿金斯饰](../Page/斯科特·阿金斯.md "wikilink")）所使用。
 
 ### [電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")
@@ -91,7 +91,7 @@ CQ突擊步槍也曾出現在一些[中國大陸製作的軍事題材](https://z
   - 2006年—
     《[士兵突击](../Page/士兵突击.md "wikilink")》系列：型号为CQ，第七篇被许三多在军事演习中對抗的假想敌部隊所使用，用以充當[美軍的M](https://zh.wikipedia.org/wiki/美軍 "wikilink")16步枪。
   - 2009年—《[重案六组](../Page/重案六组.md "wikilink")3》：型号为CQ，劇中的特警所使用的是CQ-A步枪。
-  - 2014年—《[雅典娜女神](https://zh.wikipedia.org/wiki/雅典娜女神 "wikilink")》：型号为CQ，奇怪的会出现在1930年代，被特战队成员所使用。
+  - 2014年—《[雅典娜女神](../Page/雅典娜女神.md "wikilink")》：型号为CQ，奇怪的会出现在1930年代，被特战队成员所使用。
 
 ### [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")
 

@@ -223,7 +223,7 @@ Studio来制定](https://zh.wikipedia.org/wiki/AsiaFont_Studio "wikilink")。
   - [International Components for
     Unicode](https://zh.wikipedia.org/wiki/International_Components_for_Unicode "wikilink")（带有字体输出软件库的开源多语种架构）
 
-  - [嵌入式OpenType](https://zh.wikipedia.org/wiki/嵌入式OpenType "wikilink")
+  - [嵌入式OpenType](../Page/嵌入式OpenType.md "wikilink")
 
   - [字体排印学](../Page/字体排印学.md "wikilink")
 
@@ -232,9 +232,9 @@ Studio来制定](https://zh.wikipedia.org/wiki/AsiaFont_Studio "wikilink")。
   - [WOFF（Web Open Font
     Format）](https://zh.wikipedia.org/wiki/Web开放字体格式 "wikilink")，包含带元数据的OpenType字体的web字体格式
 
-  - [思源黑體](https://zh.wikipedia.org/wiki/思源黑體 "wikilink")
+  - [思源黑體](../Page/思源黑體.md "wikilink")
 
-  - [Noto](https://zh.wikipedia.org/wiki/Noto "wikilink")
+  - [Noto](../Page/Noto.md "wikilink")
 
   - [蘋果高級排版](https://zh.wikipedia.org/wiki/蘋果高級排版 "wikilink")（Apple
     Advanced Typography、AAT）

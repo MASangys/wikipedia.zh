@@ -1,4 +1,4 @@
-****（简称**SVN**，svn），一個[开放源代码的](../Page/开放源代码.md "wikilink")[版本控制系統](../Page/版本控制.md "wikilink")，相较于[RCS](https://zh.wikipedia.org/wiki/修订控制系统 "wikilink")、[CVS](https://zh.wikipedia.org/wiki/协作版本系统 "wikilink")，它採用了分支管理系統，它的設計目標就是取代CVS。互聯網上很多版本控制服務已从CVS转移到Subversion。
+****（简称**SVN**，svn），一個[开放源代码的](../Page/开放源代码.md "wikilink")[版本控制系統](../Page/版本控制.md "wikilink")，相较于[RCS](../Page/修订控制系统.md "wikilink")、[CVS](https://zh.wikipedia.org/wiki/协作版本系统 "wikilink")，它採用了分支管理系統，它的設計目標就是取代CVS。互聯網上很多版本控制服務已从CVS转移到Subversion。
 
 ## 历史
 

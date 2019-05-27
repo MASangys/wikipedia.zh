@@ -10,7 +10,7 @@ bzip2比传统的[gzip或者](https://zh.wikipedia.org/wiki/gzip "wikilink")[ZIP
 
 bzip2使用[Burrows-Wheeler
 transform将重复出现的字符序列转换成同样字母的字符串](https://zh.wikipedia.org/wiki/Burrows-Wheeler_transform "wikilink")，然后用[move-to-front
-transform进行处理](https://zh.wikipedia.org/wiki/move-to-front_transform "wikilink")，最后使用[哈夫曼编码进行压缩](https://zh.wikipedia.org/wiki/哈夫曼编码 "wikilink")。在bzip2中所有的数据块都是大小一样的纯文本数据块，它们可以用命令行变量进行选择，然后用从[π的十进制表示得到的一个任意位序列标识成压缩文本](https://zh.wikipedia.org/wiki/圓周率 "wikilink")。
+transform进行处理](https://zh.wikipedia.org/wiki/move-to-front_transform "wikilink")，最后使用[哈夫曼编码进行压缩](https://zh.wikipedia.org/wiki/哈夫曼编码 "wikilink")。在bzip2中所有的数据块都是大小一样的纯文本数据块，它们可以用命令行变量进行选择，然后用从[π的十进制表示得到的一个任意位序列标识成压缩文本](../Page/圓周率.md "wikilink")。
 
 起初，bzip2的前一代**bzip**在数据块排列之后使用[算术编码进行压缩](../Page/算术编码.md "wikilink")，由于软件[专利的限制现在已经不再使用](../Page/专利.md "wikilink")[算术编码](../Page/算术编码.md "wikilink")。
 

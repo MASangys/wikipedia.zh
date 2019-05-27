@@ -6,7 +6,7 @@ CXCL10，CXCL11结合外还可以与[CXCL4结合](https://zh.wikipedia.org/wiki/
 ## 表达
 
 CXCR3主要表达在[T细胞](../Page/T细胞.md "wikilink")、[自然杀伤细胞活性上](https://zh.wikipedia.org/wiki/自然杀伤细胞 "wikilink")\[3\]，有的[上皮细胞和一些](https://zh.wikipedia.org/wiki/上皮细胞 "wikilink")[内皮细胞也表达CXCR](https://zh.wikipedia.org/wiki/内皮细胞 "wikilink")3。
-I型[辅助T细胞](https://zh.wikipedia.org/wiki/辅助T细胞 "wikilink")（Th1）优先表达CXCR3及[CCR5](https://zh.wikipedia.org/wiki/CCR5 "wikilink")\[4\]，而II型辅助T细胞（Th2）表达[CCR3和](https://zh.wikipedia.org/wiki/CCR3 "wikilink")[CCR4](https://zh.wikipedia.org/wiki/CCR4 "wikilink")。
+I型[辅助T细胞](https://zh.wikipedia.org/wiki/辅助T细胞 "wikilink")（Th1）优先表达CXCR3及[CCR5](../Page/CCR5.md "wikilink")\[4\]，而II型辅助T细胞（Th2）表达[CCR3和](https://zh.wikipedia.org/wiki/CCR3 "wikilink")[CCR4](https://zh.wikipedia.org/wiki/CCR4 "wikilink")。
 CXCR3与配体结合后在诱导I型辅助T细胞（Th1）迁移的同时又阻止II型辅助T细胞（Th2）的迁徙。从而增强T细胞的分化效应。
 
 ## 信号传递

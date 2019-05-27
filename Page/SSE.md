@@ -101,8 +101,8 @@ Duo處理器中](https://zh.wikipedia.org/wiki/Core_2_Duo "wikilink")。
 
 ### SSE4
 
-[SSE4是Intel在Penryn核心的Core](https://zh.wikipedia.org/wiki/SSE4 "wikilink")
-2 Duo與Core 2 Solo處理器時，新增的47條新多媒體指令集，現在SSE4版本更新至SSE4.2。
+[SSE4是Intel在Penryn核心的Core](../Page/SSE4.md "wikilink") 2 Duo與Core 2
+Solo處理器時，新增的47條新多媒體指令集，現在SSE4版本更新至SSE4.2。
 
 #### SSE4a
 

@@ -42,7 +42,7 @@ Feel與[史克威爾艾尼克斯开发](https://zh.wikipedia.org/wiki/史克威�
 
 游戏由[鸟山求监督](https://zh.wikipedia.org/wiki/鸟山求 "wikilink")、编剧，鸟山还是《[最终幻想X-2](../Page/最终幻想X-2.md "wikilink")》和《[最终幻想XIII](../Page/最终幻想XIII.md "wikilink")》的总监\[13\]。鸟山称，游戏面向无最终幻想游戏经历的任天堂DS玩家，会除去“过分复杂的战斗要素，让（玩家）用最少的操作击败敌人”\[14\]。因北美玩家“更熟悉”即时战略游戏，《归来之翼》在北美本地化时，朝困难方向重新调整平衡\[15\]。
 
-游戏采用3D背景与[精灵图形](https://zh.wikipedia.org/wiki/精灵_\(计算机图形学\) "wikilink")，角色由《[最终幻想战略版](../Page/最终幻想战略版.md "wikilink")》的伊藤龙马设计。横山荣介借鉴[魔兽争霸和](https://zh.wikipedia.org/wiki/魔兽争霸 "wikilink")[帝国时代](https://zh.wikipedia.org/wiki/帝国时代 "wikilink")，希望“浓缩这些游戏的真正‘乐趣’”，将之融入最终幻想\[16\]。伊藤在[吉田明彦](https://zh.wikipedia.org/wiki/吉田明彦 "wikilink")《最终幻想XII》的角色设计上，部分加入了自己的设计。伊藤从吉田处获得“商业秘密”；伊藤在修改《最终幻想战略版》[莫古利时](https://zh.wikipedia.org/wiki/莫古利 "wikilink")，从制作人[松野泰己](../Page/松野泰己.md "wikilink")（也是《最终幻想XII》的创作者）的肯定中获得信心\[17\]。
+游戏采用3D背景与[精灵图形](https://zh.wikipedia.org/wiki/精灵_\(计算机图形学\) "wikilink")，角色由《[最终幻想战略版](../Page/最终幻想战略版.md "wikilink")》的伊藤龙马设计。横山荣介借鉴[魔兽争霸和](https://zh.wikipedia.org/wiki/魔兽争霸 "wikilink")[帝国时代](https://zh.wikipedia.org/wiki/帝国时代 "wikilink")，希望“浓缩这些游戏的真正‘乐趣’”，将之融入最终幻想\[16\]。伊藤在[吉田明彦](../Page/吉田明彦.md "wikilink")《最终幻想XII》的角色设计上，部分加入了自己的设计。伊藤从吉田处获得“商业秘密”；伊藤在修改《最终幻想战略版》[莫古利时](https://zh.wikipedia.org/wiki/莫古利 "wikilink")，从制作人[松野泰己](../Page/松野泰己.md "wikilink")（也是《最终幻想XII》的创作者）的肯定中获得信心\[17\]。
 
 《归来之翼》由[崎元仁和](../Page/崎元仁.md "wikilink")[福井健一郎配乐](../Page/福井健一郎.md "wikilink")，崎元是《最终幻想XII》的作曲人，福井为英语版《[Kiss
 Me
@@ -56,7 +56,7 @@ Good-Bye](../Page/Kiss_Me_Good-Bye.md "wikilink")》编曲。崎元表示，虽�
 日本版获《[Fami通](../Page/Fami通.md "wikilink")》32/40的评价\[22\]。《[电击DS &
 Wii风格](https://zh.wikipedia.org/wiki/电击任天堂 "wikilink")》称赞游戏的任务式情节，战斗“简单并有更多的参与”。游戏支持大量角色同时参战，带给玩家“亲临作战”之感，游戏难度几可吸引“不常玩角色扮演游戏”的感觉。游戏触控笔划选战区不畅招致批评\[23\]。
 
-北美版游戏主获积极评分，[Metacritic的汇总得分为](../Page/Metacritic.md "wikilink")81/100。《[电子游戏月刊](https://zh.wikipedia.org/wiki/电子游戏月刊 "wikilink")》三名评测者分别打出8、7.5和6分（满分皆为10分），评论赞扬游戏角色扮演与策略的结合，但批评画面尺寸难称大量行动单位\[24\]。本作是IGN
+北美版游戏主获积极评分，[Metacritic的汇总得分为](../Page/Metacritic.md "wikilink")81/100。《[电子游戏月刊](../Page/电子游戏月刊.md "wikilink")》三名评测者分别打出8、7.5和6分（满分皆为10分），评论赞扬游戏角色扮演与策略的结合，但批评画面尺寸难称大量行动单位\[24\]。本作是IGN
 2007年11月的月度任天堂DS游戏\[25\]。 {{-}}
 
 ## 参考文献

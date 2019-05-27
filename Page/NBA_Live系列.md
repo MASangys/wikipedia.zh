@@ -50,10 +50,10 @@ One平台，並且於同年8月11日推出試玩版。\[7\]
 
 | 名稱                                                                          | 球員．球隊                                                                                                                    |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [勁爆美國職籃95](https://zh.wikipedia.org/wiki/勁爆美國職籃95 "wikilink")               | [休士頓火箭與](https://zh.wikipedia.org/wiki/休士頓火箭 "wikilink")[紐約尼克在](https://zh.wikipedia.org/wiki/紐約尼克 "wikilink")94年冠軍賽爭冠場面 |
+| [勁爆美國職籃95](../Page/勁爆美國職籃95.md "wikilink")                                  | [休士頓火箭與](https://zh.wikipedia.org/wiki/休士頓火箭 "wikilink")[紐約尼克在](https://zh.wikipedia.org/wiki/紐約尼克 "wikilink")94年冠軍賽爭冠場面 |
 | 勁爆美國職籃96                                                                    | [-{zh-hans:沙奎尔·奥尼尔; zh-hk:沙奎爾·奧尼爾;}-](https://zh.wikipedia.org/wiki/沙奎爾·奧尼爾 "wikilink")                                  |
 | 勁爆美國職籃97                                                                    | [-{zh-hans:米奇·里奇蒙德; zh-hk:米奇·列治文;}-](../Page/米奇·里奇蒙德.md "wikilink")                                                      |
-| 勁爆美國職籃98                                                                    | [-{zh-hans:蒂姆·哈达威; zh-hk:添·夏達威;}-](https://zh.wikipedia.org/wiki/蒂姆·哈达威 "wikilink")                                      |
+| 勁爆美國職籃98                                                                    | [-{zh-hans:蒂姆·哈达威; zh-hk:添·夏達威;}-](../Page/蒂姆·哈达威.md "wikilink")                                                         |
 | 勁爆美國職籃99                                                                    | [安東尼·沃克](https://zh.wikipedia.org/wiki/安東尼·沃克 "wikilink")                                                                |
 | 勁爆美國職籃2000                                                                  | [-{zh-hans:蒂姆·邓肯; zh-hk:添·鄧肯;}-](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")                                         |
 | 勁爆美國職籃2001                                                                  | [-{zh-hans:凯文·加内特; zh-hk:奇雲·加納特;}-](../Page/凯文·加内特.md "wikilink")                                                        |
@@ -66,7 +66,7 @@ One平台，並且於同年8月11日推出試玩版。\[7\]
 | [勁爆美國職籃08](../Page/勁爆美國職籃08.md "wikilink")                                  | [吉爾伯特·阿里納斯](https://zh.wikipedia.org/wiki/吉爾伯特·阿里納斯 "wikilink")                                                          |
 | [勁爆美國職籃09](../Page/勁爆美國職籃09.md "wikilink")                                  | [托尼·帕克](../Page/托尼·帕克.md "wikilink")                                                                                     |
 | [勁爆美國職籃10](../Page/勁爆美國職籃10.md "wikilink")                                  | [德怀特·霍华德](https://zh.wikipedia.org/wiki/德怀特·霍华德 "wikilink")                                                              |
-| [NBA Elite 11](https://zh.wikipedia.org/wiki/NBA_Elite_11 "wikilink")       | [凯文·杜兰特](../Page/凯文·杜兰特.md "wikilink")                                                                                   |
+| [NBA Elite 11](../Page/NBA_Elite_11.md "wikilink")                          | [凯文·杜兰特](../Page/凯文·杜兰特.md "wikilink")                                                                                   |
 | [NBA LIVE 14](https://zh.wikipedia.org/wiki/NBA_LIVE_14 "wikilink")         | [凯里·欧文](https://zh.wikipedia.org/wiki/凯里·欧文 "wikilink")                                                                  |
 | [NBA LIVE 15](https://zh.wikipedia.org/wiki/NBA_LIVE_15 "wikilink")         | [達米恩·李拉德](https://zh.wikipedia.org/wiki/達米恩·李拉德 "wikilink")                                                              |
 | [NBA LIVE 16](https://zh.wikipedia.org/wiki/NBA_LIVE_16 "wikilink")         | [拉塞爾·威斯布魯克](https://zh.wikipedia.org/wiki/拉塞爾·威斯布魯克 "wikilink")                                                          |

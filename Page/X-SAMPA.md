@@ -606,7 +606,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td><p><code>U\</code></p></td>
 <td><p>or </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-Uslash.png" title="fig:File:Xsampa-Uslash.png"><a href="File:Xsampa-Uslash.png">File:Xsampa-Uslash.png</a></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/次閉央圓唇元音" title="wikilink">次閉央圓唇元音</a></p></td>
+<td><p><a href="../Page/次閉央圓唇元音.md" title="wikilink">次閉央圓唇元音</a></p></td>
 <td><p>英語的 e<strong>u</strong>phoria [<code>jU\"fO@r\i@</code>]</p></td>
 </tr>
 <tr class="even">
@@ -860,7 +860,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td><p><code>&lt;\</code></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-lessthanslash.png" title="fig:File:Xsampa-lessthanslash.png"><a href="File:Xsampa-lessthanslash.png">File:Xsampa-lessthanslash.png</a></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/濁會厭擦音" title="wikilink">濁會厭擦音</a></p></td>
+<td><p><a href="../Page/濁會厭擦音.md" title="wikilink">濁會厭擦音</a></p></td>
 <td><p> </p></td>
 </tr>
 <tr class="odd">
@@ -1157,7 +1157,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td><p><code>_N</code></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-_N.png" title="fig:File:Xsampa- N.png"><a href="File:Xsampa-">File:Xsampa-</a> N.png</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/舌唇音" title="wikilink">舌唇音</a></p></td>
+<td><p><a href="../Page/舌唇音.md" title="wikilink">舌唇音</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><code>_n</code></p></td>

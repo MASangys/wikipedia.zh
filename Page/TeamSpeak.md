@@ -24,7 +24,7 @@ Online的整合元件](https://zh.wikipedia.org/wiki/Vendetta_Online "wikilink")
 
 ## 相關條目
 
-  - [Mumble](https://zh.wikipedia.org/wiki/Mumble "wikilink")
+  - [Mumble](../Page/Mumble.md "wikilink")
 
   -
   -

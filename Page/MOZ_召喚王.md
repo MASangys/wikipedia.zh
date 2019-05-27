@@ -12,7 +12,7 @@
 
 ### 召喚師卡
 
-各召喚師有自己所屬的隊伍、等級、屬性、[年齡](https://zh.wikipedia.org/wiki/年齡 "wikilink")、[性別](https://zh.wikipedia.org/wiki/性別 "wikilink")、[速度](../Page/速度.md "wikilink")、修正值和[天](https://zh.wikipedia.org/wiki/天 "wikilink")、[左](https://zh.wikipedia.org/wiki/左 "wikilink")、[右三方的召喚屬性](https://zh.wikipedia.org/wiki/右 "wikilink")。
+各召喚師有自己所屬的隊伍、等級、屬性、[年齡](https://zh.wikipedia.org/wiki/年齡 "wikilink")、[性別](https://zh.wikipedia.org/wiki/性別 "wikilink")、[速度](../Page/速度.md "wikilink")、修正值和[天](../Page/天.md "wikilink")、[左](https://zh.wikipedia.org/wiki/左 "wikilink")、[右三方的召喚屬性](https://zh.wikipedia.org/wiki/右 "wikilink")。
 
   - 召喚屬性：
       - 格里夫篇、莫哥拿篇：火、水、大地、大氣、森、闇、光、機械、黃金、貝、無屬性

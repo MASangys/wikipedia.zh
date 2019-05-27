@@ -5,7 +5,7 @@ baobab**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都
 
 ### 歷史
 
-1979年8月1日\[2\]，由[青二Production出身的](../Page/青二製作.md "wikilink")16名聲優及6名工作人員獨立創社。當時主要創立元老是以[富田耕生為中心](../Page/富田耕生.md "wikilink")，參加者有[富山敬](../Page/富山敬.md "wikilink")、[小原乃梨子](https://zh.wikipedia.org/wiki/小原乃梨子 "wikilink")、[神谷明](../Page/神谷明.md "wikilink")、[井上和彥](../Page/井上和彥.md "wikilink")、[肝付兼太](https://zh.wikipedia.org/wiki/肝付兼太 "wikilink")、[緒方賢一](../Page/緒方賢一.md "wikilink")、[吉田理保子](../Page/吉田理保子.md "wikilink")、[千千松幸子](../Page/千千松幸子.md "wikilink")、、[水島裕](https://zh.wikipedia.org/wiki/水島裕 "wikilink")、、[北濱晴子](../Page/北濱晴子.md "wikilink")、[野澤雅子](../Page/野澤雅子.md "wikilink")、[三矢雄二](https://zh.wikipedia.org/wiki/三矢雄二 "wikilink")、[基頓山田等人](../Page/山田俊司.md "wikilink")。
+1979年8月1日\[2\]，由[青二Production出身的](../Page/青二製作.md "wikilink")16名聲優及6名工作人員獨立創社。當時主要創立元老是以[富田耕生為中心](../Page/富田耕生.md "wikilink")，參加者有[富山敬](../Page/富山敬.md "wikilink")、[小原乃梨子](../Page/小原乃梨子.md "wikilink")、[神谷明](../Page/神谷明.md "wikilink")、[井上和彥](../Page/井上和彥.md "wikilink")、[肝付兼太](../Page/肝付兼太.md "wikilink")、[緒方賢一](../Page/緒方賢一.md "wikilink")、[吉田理保子](../Page/吉田理保子.md "wikilink")、[千千松幸子](../Page/千千松幸子.md "wikilink")、、[水島裕](../Page/水島裕.md "wikilink")、、[北濱晴子](../Page/北濱晴子.md "wikilink")、[野澤雅子](../Page/野澤雅子.md "wikilink")、[三矢雄二](../Page/三矢雄二.md "wikilink")、[基頓山田等人](../Page/山田俊司.md "wikilink")。
 
 另外，該經紀公司的名稱是由清水鞠所決定的，其靈感來自法國小說《[小王子](../Page/小王子.md "wikilink")》作品中出現和劇情所用到的[baobab](https://zh.wikipedia.org/wiki/猴麵包樹 "wikilink")，而且是主要生長於[稀樹草原](https://zh.wikipedia.org/wiki/稀樹草原 "wikilink")（savanna）地帶的[植物](../Page/植物.md "wikilink")\[3\]。
 
@@ -44,13 +44,13 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
       - 另外日文版[歌詞則是完全無視原始歌詞](https://zh.wikipedia.org/wiki/歌詞 "wikilink")，而是依據[莫斯科奧運填詞而成](https://zh.wikipedia.org/wiki/1980年夏季奧林匹克運動會 "wikilink")，其中一部份內容跟當時成員所演出的的動畫角色有所關連。
       - 該歌曲後來CD化時，現在還能在《歌編 富》以及《/MF 超空想》這2張獨立CD裡聽到。
       - 至於B面收錄由富田耕生與富山敬翻唱的歌曲「」（日文歌詞翻譯：，英文版請參照「」
-        ）第一次問世的時間是在1914年，1950年曾被作為電影《》的知名主題曲使用，由[德琵·雷諾和](https://zh.wikipedia.org/wiki/德琵·雷諾 "wikilink")主唱。
+        ）第一次問世的時間是在1914年，1950年曾被作為電影《》的知名主題曲使用，由[德琵·雷諾和](../Page/德琵·雷諾.md "wikilink")主唱。
 
   - OH！（1980年，成吉思汗歌曲「Samurai」的日語翻唱版，日文歌詞翻譯：藤公之介　規格編號：GK-392）
 
       - B面收錄的是富山敬的主唱歌曲「」（作詞：藤公之介、作曲：）。
 
-後來在2017年，發行了聲優組合「」（由[井上和彥](../Page/井上和彥.md "wikilink")、[三矢雄二](https://zh.wikipedia.org/wiki/三矢雄二 "wikilink")、[水島裕共](https://zh.wikipedia.org/wiki/水島裕 "wikilink")3人組成）的同名歌曲翻唱版，並收錄在專輯《FULL
+後來在2017年，發行了聲優組合「」（由[井上和彥](../Page/井上和彥.md "wikilink")、[三矢雄二](../Page/三矢雄二.md "wikilink")、[水島裕共](../Page/水島裕.md "wikilink")3人組成）的同名歌曲翻唱版，並收錄在專輯《FULL
 Labs ～未早！～》裡。
 
   - 專輯
@@ -127,7 +127,7 @@ Labs ～未早！～》裡。
 
   - 莊司勝也
 
-  - [白熊寬嗣](https://zh.wikipedia.org/wiki/白熊寬嗣 "wikilink")
+  - [白熊寬嗣](../Page/白熊寬嗣.md "wikilink")
 
   -
   - [菅原淳一](../Page/菅原淳一.md "wikilink")
@@ -139,7 +139,7 @@ Labs ～未早！～》裡。
 
 <!-- end list -->
 
-  - [田谷隼](https://zh.wikipedia.org/wiki/田谷隼 "wikilink")
+  - [田谷隼](../Page/田谷隼.md "wikilink")
 
   - [富田耕生](../Page/富田耕生.md "wikilink")
 
@@ -187,7 +187,7 @@ Labs ～未早！～》裡。
   -
   -
   -
-  - [水中雅章](https://zh.wikipedia.org/wiki/水中雅章 "wikilink")
+  - [水中雅章](../Page/水中雅章.md "wikilink")
 
   -
   -
@@ -227,12 +227,12 @@ Labs ～未早！～》裡。
   - 有馬莞奈
 
   -
-  - [一城美由希](https://zh.wikipedia.org/wiki/一城美由希 "wikilink")
+  - [一城美由希](../Page/一城美由希.md "wikilink")
 
   -
   - 岩崎里菜
 
-  - [岩橋由佳](https://zh.wikipedia.org/wiki/岩橋由佳 "wikilink")
+  - [岩橋由佳](../Page/岩橋由佳.md "wikilink")
 
   -
   -
@@ -287,10 +287,10 @@ Labs ～未早！～》裡。
   -
   - 立石美子
 
-  - [田中真奈美](https://zh.wikipedia.org/wiki/田中真奈美 "wikilink")
+  - [田中真奈美](../Page/田中真奈美.md "wikilink")
 
   -
-  - [冨樫和美](https://zh.wikipedia.org/wiki/冨樫和美 "wikilink")
+  - [冨樫和美](../Page/冨樫和美.md "wikilink")
 
 <!-- end list -->
 
@@ -313,13 +313,13 @@ Labs ～未早！～》裡。
   -
   - [平田真菜](../Page/平田真菜.md "wikilink")
 
-  - [深田愛衣](https://zh.wikipedia.org/wiki/深田愛衣 "wikilink")
+  - [深田愛衣](../Page/深田愛衣.md "wikilink")
 
   -
   -
   - [星野千壽子](../Page/星野千壽子.md "wikilink")
 
-  - [堀絢子](https://zh.wikipedia.org/wiki/堀絢子 "wikilink")
+  - [堀絢子](../Page/堀絢子.md "wikilink")
 
   -
 <!-- end list -->
@@ -334,7 +334,7 @@ Labs ～未早！～》裡。
   - [松岡由貴](../Page/松岡由貴.md "wikilink")
 
   -
-  - [峰敦子](https://zh.wikipedia.org/wiki/峰敦子 "wikilink")
+  - [峰敦子](../Page/峰敦子.md "wikilink")
 
   - [本井英美](../Page/本井英美.md "wikilink")
 
@@ -374,8 +374,7 @@ Labs ～未早！～》裡。
 
   - （現所屬：[Atomic Monkey](../Page/Atomic_Monkey.md "wikilink")）
 
-  - （現所屬：[Bell
-    Production](https://zh.wikipedia.org/wiki/Bell_Production "wikilink")）
+  - （現所屬：[Bell Production](../Page/Bell_Production.md "wikilink")）
 
   - [石野龍三](../Page/石野龍三.md "wikilink")（現所屬：[81
     Produce](../Page/81_Produce.md "wikilink")）
@@ -387,7 +386,7 @@ Labs ～未早！～》裡。
 
   -
   -
-  - [大瀧進矢](https://zh.wikipedia.org/wiki/大瀧進矢 "wikilink")（[自由職業](../Page/自由職業.md "wikilink")）
+  - [大瀧進矢](../Page/大瀧進矢.md "wikilink")（[自由職業](../Page/自由職業.md "wikilink")）
 
   - （引退）
 
@@ -403,7 +402,7 @@ Labs ～未早！～》裡。
 
   - （自由職業）
 
-  - [小田敏充](https://zh.wikipedia.org/wiki/小田敏充 "wikilink")（自由職業）
+  - [小田敏充](../Page/小田敏充.md "wikilink")（自由職業）
 
   - [小野健一](../Page/小野健一.md "wikilink")（現所屬：[remax](https://zh.wikipedia.org/wiki/remax "wikilink")）
 
@@ -414,15 +413,15 @@ Labs ～未早！～》裡。
 <!-- end list -->
 
   -
-  - （現所屬：[希樂星](https://zh.wikipedia.org/wiki/希樂星 "wikilink")）
+  - （現所屬：[希樂星](../Page/希樂星.md "wikilink")）
 
-  - 金宗俊二（現所屬：[Production★A組](https://zh.wikipedia.org/wiki/Production★A組 "wikilink")）
+  - 金宗俊二（現所屬：[Production★A組](../Page/Production★A組.md "wikilink")）
 
   - [神谷明](../Page/神谷明.md "wikilink")（現所屬：冴羽商事代表）
 
   -
-  - [川村拓央](https://zh.wikipedia.org/wiki/川村拓央 "wikilink")（現所屬：[Bell
-    Production](https://zh.wikipedia.org/wiki/Bell_Production "wikilink")）
+  - [川村拓央](../Page/川村拓央.md "wikilink")（現所屬：[Bell
+    Production](../Page/Bell_Production.md "wikilink")）
 
   - （現所屬：）
 
@@ -430,8 +429,7 @@ Labs ～未早！～》裡。
 
   - （現所屬：Kenyu Office）
 
-  - [肝付兼太](https://zh.wikipedia.org/wiki/肝付兼太 "wikilink")（移籍81
-    Produce之後於在籍中死去）
+  - [肝付兼太](../Page/肝付兼太.md "wikilink")（移籍81 Produce之後於在籍中死去）
 
   -
   - （現所屬：Kenyu Office）
@@ -442,7 +440,7 @@ Labs ～未早！～》裡。
 
   - （自由職業）
 
-  - （現所屬：[Yellow-Tail](https://zh.wikipedia.org/wiki/Yellow-Tail "wikilink")）
+  - （現所屬：[Yellow-Tail](../Page/Yellow-Tail.md "wikilink")）
 
   - [子安武人](../Page/子安武人.md "wikilink")（現所屬：[T's
     Factory代表](https://zh.wikipedia.org/wiki/子安武人#T's_Facory "wikilink")）
@@ -458,9 +456,9 @@ Labs ～未早！～》裡。
 
   - （現所屬：Kenyu Office）
 
-  - [齊藤瑞樹](https://zh.wikipedia.org/wiki/齊藤瑞樹 "wikilink")（移籍之後於在籍中死去）
+  - [齊藤瑞樹](../Page/齊藤瑞樹.md "wikilink")（移籍之後於在籍中死去）
 
-  - [坂詰貴之](https://zh.wikipedia.org/wiki/坂詰貴之 "wikilink")（現所屬：[Aksent](../Page/Aksent.md "wikilink")）
+  - [坂詰貴之](../Page/坂詰貴之.md "wikilink")（現所屬：[Aksent](../Page/Aksent.md "wikilink")）
 
   -
   - [椎橋和義](https://zh.wikipedia.org/wiki/椎橋和義 "wikilink")
@@ -471,10 +469,9 @@ Labs ～未早！～》裡。
 
   -
   - [杉山紀彰](../Page/杉山紀彰.md "wikilink")（現所屬：[Stay
-    Luck](https://zh.wikipedia.org/wiki/Stay_Luck "wikilink")）
+    Luck](../Page/Stay_Luck.md "wikilink")）
 
-  - [鈴木勝美](https://zh.wikipedia.org/wiki/鈴木勝美 "wikilink")（現所屬：81
-    Produce）
+  - [鈴木勝美](../Page/鈴木勝美.md "wikilink")（現所屬：81 Produce）
 
   - （在籍中死去）
 
@@ -503,8 +500,7 @@ Labs ～未早！～》裡。
 
   - （現所屬：）
 
-  - （現所屬：[EARLY
-    WING](https://zh.wikipedia.org/wiki/EARLY_WING "wikilink")）
+  - （現所屬：[EARLY WING](../Page/EARLY_WING.md "wikilink")）
 
   - [寺島拓篤](../Page/寺島拓篤.md "wikilink")（現所屬：[AXL
     ONE](../Page/AXL_ONE.md "wikilink")）
@@ -580,10 +576,10 @@ Labs ～未早！～》裡。
 
   - [水島大宙](../Page/水島大宙.md "wikilink")（現所屬：AXL ONE）
 
-  - [水島裕](https://zh.wikipedia.org/wiki/水島裕 "wikilink")（現所屬：[Knot
+  - [水島裕](../Page/水島裕.md "wikilink")（現所屬：[Knot
     Communications](http://www.knot-com.com/)）
 
-  - [三矢雄二](https://zh.wikipedia.org/wiki/三矢雄二 "wikilink")（現所屬：[Combination](https://zh.wikipedia.org/wiki/Combination_\(聲優事務所\) "wikilink")）
+  - [三矢雄二](../Page/三矢雄二.md "wikilink")（現所屬：[Combination](../Page/Combination_\(聲優事務所\).md "wikilink")）
 
   - （現所屬：[aptepro](https://zh.wikipedia.org/wiki/aptepro "wikilink")）
 
@@ -626,15 +622,14 @@ Labs ～未早！～》裡。
 
   - [青木沙耶香](../Page/青木沙耶香.md "wikilink")（現所屬：Bell Production）
 
-  - [秋山照子](https://zh.wikipedia.org/wiki/秋山照子 "wikilink")（移籍81
-    Produce之後於在籍中死去）
+  - [秋山照子](../Page/秋山照子.md "wikilink")（移籍81 Produce之後於在籍中死去）
 
   - [淺野麻由美](../Page/淺野麻由美.md "wikilink")（現所屬：大澤事務所）
 
-  - [麻見順子](https://zh.wikipedia.org/wiki/麻見順子 "wikilink")（自由職業）
+  - [麻見順子](../Page/麻見順子.md "wikilink")（自由職業）
 
   -
-  - [荒井靜香](https://zh.wikipedia.org/wiki/荒井靜香 "wikilink")（現所屬：）
+  - [荒井靜香](../Page/荒井靜香.md "wikilink")（現所屬：）
 
   - [五十嵐麗](../Page/五十嵐麗.md "wikilink")（現所屬：[Rush
     Style](http://rushstyle.net/)）
@@ -661,7 +656,7 @@ Labs ～未早！～》裡。
   - （自由職業）
 
   -
-  - [小原乃梨子](https://zh.wikipedia.org/wiki/小原乃梨子 "wikilink")
+  - [小原乃梨子](../Page/小原乃梨子.md "wikilink")
 
   - [折笠愛](../Page/折笠愛.md "wikilink")（現所屬：AXL ONE）
 
@@ -675,11 +670,11 @@ Labs ～未早！～》裡。
 
   - [門-{脇}-舞以](../Page/門脇舞以.md "wikilink")（自由職業、（業務提攜））
 
-  - [華乃由里](https://zh.wikipedia.org/wiki/華乃由里 "wikilink")（現所屬：海風）
+  - [華乃由里](../Page/華乃由里.md "wikilink")（現所屬：海風）
 
   -
   -
-  - [川上千尋](https://zh.wikipedia.org/wiki/川上千尋 "wikilink")（現所屬：Object）
+  - [川上千尋](../Page/川上千尋.md "wikilink")（現所屬：Object）
 
   - [川上倫子](../Page/川上倫子.md "wikilink")（在籍中死去）
 
@@ -689,7 +684,7 @@ Labs ～未早！～》裡。
 
   - [北濱晴子](../Page/北濱晴子.md "wikilink")（現所屬：青二Production）
 
-  - [木村圓](https://zh.wikipedia.org/wiki/木村圓 "wikilink")（現所屬：）
+  - [木村圓](../Page/木村圓.md "wikilink")（現所屬：）
 
   -
   - [神代知衣](../Page/神代知衣.md "wikilink")（現所屬：81 Produce）
@@ -726,7 +721,7 @@ Labs ～未早！～》裡。
 
   - （現所屬：PRODUCTION DAYZE）
 
-  - [佐藤晴香](https://zh.wikipedia.org/wiki/佐藤晴香 "wikilink")
+  - [佐藤晴香](../Page/佐藤晴香.md "wikilink")
 
   - [佐藤佑子](../Page/佐藤佑子.md "wikilink")（現所屬：Akseny）
 
@@ -792,7 +787,7 @@ Labs ～未早！～》裡。
 
   - [原田瞳](../Page/原田瞳.md "wikilink")（自由職業、（業務提攜））
 
-  - [引田有美](https://zh.wikipedia.org/wiki/引田有美 "wikilink")（現所屬：ARTSVISION）
+  - [引田有美](../Page/引田有美.md "wikilink")（現所屬：ARTSVISION）
 
   -
   -
@@ -835,7 +830,7 @@ Labs ～未早！～》裡。
 <!-- end list -->
 
   - [矢島晶子](../Page/矢島晶子.md "wikilink")（自由職業、[AIR
-    AGENCY](https://zh.wikipedia.org/wiki/AIR_AGENCY "wikilink")（業務提攜））
+    AGENCY](../Page/AIR_AGENCY.md "wikilink")（業務提攜））
 
   -
   -

@@ -2,7 +2,7 @@
 **PFA年度最佳青年球員**（，簡稱為**PFA Young Player of the
 Year**），是[英格蘭職業足球運動員協會從](../Page/英格蘭職業足球運動員協會.md "wikilink")1973-74賽季開始頒發的獎項，旨在表彰在[英格蘭足球聯賽中](https://zh.wikipedia.org/wiki/英格蘭足球聯賽 "wikilink")，表現最出色的二十三歲或以下球員。得獎者每一年由[英格蘭職業足球運動員協會的會員互相投票選出](../Page/英格蘭職業足球運動員協會.md "wikilink")\[1\]。首位PFA年度最佳青年球員是效力[-{zh-hans:伊普斯维奇;
 zh-hk:葉士域治;zh-tw:伊普斯維奇;}-的後衛](../Page/伊普斯维奇城足球俱乐部.md "wikilink")[-{zh-hans:凯文·比尔堤;
-zh-hk:奇雲·比堤;zh-tw:凱文·比爾堤;}-](https://zh.wikipedia.org/wiki/奇雲·比堤 "wikilink")，而2016年最新的獲獎者是效力[-{zh-hans:托特纳姆热刺;
+zh-hk:奇雲·比堤;zh-tw:凱文·比爾堤;}-](../Page/奇雲·比堤.md "wikilink")，而2016年最新的獲獎者是效力[-{zh-hans:托特纳姆热刺;
 zh-hk:托定咸熱刺;zh-tw:托特納姆熱刺;}-的中場](https://zh.wikipedia.org/wiki/托特纳姆热刺足球俱乐部 "wikilink")[-{zh-hans:迪尼·阿里;
 zh-hk:迪尼·阿里;
 zh-tw:迪尼·阿里;}-](https://zh.wikipedia.org/wiki/迪尼·阿里 "wikilink")。
@@ -35,7 +35,7 @@ zh-hk:羅比·科拿;zh-tw:羅比·福勒;}-和](../Page/罗比·福勒.md "wiki
 <tr class="odd">
 <td><p>1973–74</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奇雲·比堤" title="wikilink">-{zh-hans:凯文·比尔堤; zh-hk:奇雲·比堤;zh-tw:凱文·比爾堤;}-</a></p></td>
+<td><p><a href="../Page/奇雲·比堤.md" title="wikilink">-{zh-hans:凯文·比尔堤; zh-hk:奇雲·比堤;zh-tw:凱文·比爾堤;}-</a></p></td>
 <td><p><a href="../Page/伊普斯维奇城足球俱乐部.md" title="wikilink">-{zh-hans:伊普斯维奇; zh-hk:葉士域治;zh-tw:伊普斯維奇;}-</a></p></td>
 <td></td>
 <td style="text-align: center;"></td>
@@ -43,7 +43,7 @@ zh-hk:羅比·科拿;zh-tw:羅比·福勒;}-和](../Page/罗比·福勒.md "wiki
 <tr class="even">
 <td><p>1974–75</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/摩雲·地" title="wikilink">-{zh-hans:梅文·戴; zh-hk:摩雲·地;zh-tw:梅文·戴}-</a></p></td>
+<td><p><a href="../Page/摩雲·地.md" title="wikilink">-{zh-hans:梅文·戴; zh-hk:摩雲·地;zh-tw:梅文·戴}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/西汉姆联足球俱乐部" title="wikilink">-{zh-hans:西汉姆联;zh-hk:韋斯咸;zh-tw:西漢姆聯;}-</a></p></td>
 <td></td>
 <td style="text-align: center;"><p>[10]</p></td>
@@ -91,7 +91,7 @@ zh-hk:羅比·科拿;zh-tw:羅比·福勒;}-和](../Page/罗比·福勒.md "wiki
 <tr class="even">
 <td><p>1980–81</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/加利·梳爾" title="wikilink">-{zh-hans:加里·肖; zh-hk:加利·梳爾;zh-tw:加里·肖;}-</a></p></td>
+<td><p><a href="../Page/加利·梳爾.md" title="wikilink">-{zh-hans:加里·肖; zh-hk:加利·梳爾;zh-tw:加里·肖;}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿斯顿维拉足球俱乐部" title="wikilink">-{zh-hans:阿斯顿维拉; zh-hk:阿士東維拉;zh-tw:阿斯頓維拉;}-</a></p></td>
 <td></td>
 <td style="text-align: center;"></td>
@@ -155,7 +155,7 @@ zh-hk:羅比·科拿;zh-tw:羅比·福勒;}-和](../Page/罗比·福勒.md "wiki
 <tr class="even">
 <td><p>1988–89</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/保羅·麥臣" title="wikilink">-{zh-hans:保罗·梅森;zh-hk:保羅·麥臣;zh-tw:保羅·梅森;}-</a></p></td>
+<td><p><a href="../Page/保羅·麥臣.md" title="wikilink">-{zh-hans:保罗·梅森;zh-hk:保羅·麥臣;zh-tw:保羅·梅森;}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿仙奴足球會" title="wikilink">阿仙奴</a></p></td>
 <td></td>
 <td style="text-align: center;"></td>
@@ -592,7 +592,7 @@ zh-hk:羅比·科拿;zh-tw:羅比·福勒;}-和](../Page/罗比·福勒.md "wiki
 9.  PPY代表[英格蘭PFA足球先生](../Page/英格蘭PFA足球先生.md "wikilink")、FPY代表[英格蘭FWA足球先生](../Page/英格蘭FWA足球先生.md "wikilink")、FWA代表。
 
 10. [-{zh-hans:梅文·戴;
-    zh-hk:摩雲·地;zh-tw:梅文·戴}-是首次贏得此獎項的門將](https://zh.wikipedia.org/wiki/摩雲·地 "wikilink")。
+    zh-hk:摩雲·地;zh-tw:梅文·戴}-是首次贏得此獎項的門將](../Page/摩雲·地.md "wikilink")。
 
 11. 是首位贏得此獎項的非英格蘭籍球員，亦是首位贏得PFA年度最佳青年球員的球員和[英格蘭PFA足球先生的球員](../Page/英格蘭PFA足球先生.md "wikilink")。
 

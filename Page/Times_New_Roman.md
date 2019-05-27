@@ -24,8 +24,7 @@ Roman已成為經典字型之一，迄今仍廣泛使用在圖書、雜誌、報
 New Roman
 PS（[TrueType字体](../Page/TrueType.md "wikilink")），[视窗系统从](https://zh.wikipedia.org/wiki/视窗 "wikilink")3.1版本开始就一直附带这个字体。而在[苹果电脑公司的](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")[麦金塔系统中使用的是Linotype公司的Times](https://zh.wikipedia.org/wiki/麦金塔 "wikilink")
 Roman（在Macintosh系统中直接简称为“Times”）。[开放源代码的](../Page/开放源代码.md "wikilink")[操作系统中一般使用](../Page/操作系统.md "wikilink")的[Nimbus
-Roman No. 9
-L](https://zh.wikipedia.org/wiki/Nimbus_Roman_No._9_L "wikilink")，它是Times
+Roman No. 9 L](../Page/Nimbus_Roman_No._9_L.md "wikilink")，它是Times
 Roman的URW
 PostScript版本，是基于[GNU通用公共许可证发布的](../Page/GNU通用公共许可证.md "wikilink")。
 

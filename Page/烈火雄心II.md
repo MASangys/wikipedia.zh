@@ -621,7 +621,7 @@
 參見<strong><a href="https://zh.wikipedia.org/wiki/#消防救護隊" title="wikilink">消防救護隊</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳少邦" title="wikilink">陳少邦</a></p></td>
+<td><p><a href="../Page/陳少邦.md" title="wikilink">陳少邦</a></p></td>
 <td><p>亞　標</p></td>
 <td><p>蔡南豐之同門師弟</p></td>
 </tr>
@@ -631,7 +631,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
 <td><p>亞　良</p></td>
 <td></td>
 </tr>
@@ -1124,7 +1124,7 @@ Gary之前女友<br />
 <td><p>（第20集出現）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
 <td><p>金毛強</p></td>
 <td></td>
 <td></td>
@@ -1136,7 +1136,7 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
 <td><p>紀興田之舊同學</p></td>
 <td></td>
 <td><p>（第21集）</p></td>
@@ -1254,8 +1254,8 @@ Gary之前女友<br />
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/張雪芹.md" title="wikilink">張雪芹</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/伴娘" title="wikilink">伴　娘</a></p></td>
-<td><p>唐明及江逸雅的<a href="https://zh.wikipedia.org/wiki/伴娘" title="wikilink">伴娘</a></p></td>
+<td><p><a href="../Page/伴娘.md" title="wikilink">伴　娘</a></p></td>
+<td><p>唐明及江逸雅的<a href="../Page/伴娘.md" title="wikilink">伴娘</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1283,7 +1283,7 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/潘冠霖" title="wikilink">潘冠霖</a></p></td>
+<td><p><a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a></p></td>
 <td></td>
 <td></td>
 <td></td>

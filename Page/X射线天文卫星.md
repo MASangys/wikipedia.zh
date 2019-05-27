@@ -8,7 +8,7 @@
 [Chandra_X-ray_Observatory.jpg](https://zh.wikipedia.org/wiki/File:Chandra_X-ray_Observatory.jpg "fig:Chandra_X-ray_Observatory.jpg")
 20世纪90年代，意大利和荷兰共同研制的[BeppoSAX卫星发现了](../Page/BeppoSAX卫星.md "wikilink")[伽玛射线暴的X射线余辉](../Page/伽玛射线暴.md "wikilink")。德国、美国、英国联合研制的[伦琴卫星](../Page/伦琴卫星.md "wikilink")（）首次在软X射线波段进行了巡天观测，在9年时间里新发现了7万多个X射线源，使X射线源的总数达到了12万个。1993年日本发射的[ASCA卫星则首先将](https://zh.wikipedia.org/wiki/ASCA卫星 "wikilink")设备用于X射线成像。美国的[罗西X射线时变探测器](https://zh.wikipedia.org/wiki/罗西X射线时变探测器 "wikilink")（）虽然不能成像，但是能够探测X射线源的快速光变。1999年，两个重要的X射线天文卫星先后发射升空——美国的[钱德拉X射线天文台和欧洲的](../Page/钱德拉X射线天文台.md "wikilink")[XMM-牛顿卫星](../Page/XMM-牛顿卫星.md "wikilink")。前者具有极高的空间分辨率（小于1角秒）和较宽的能段（0.1-1keV），后者则具有非常高的谱分辨率。它们是21世纪初X射线天文学主要的观测设备，取得了一大批重要的研究成果。除此之外，1990年代升空的X射线望远镜还有俄罗斯发射的探测高能X射线的[伽马1卫星](https://zh.wikipedia.org/wiki/伽马1 "wikilink")、日本发射的用于观测[太阳耀斑的](https://zh.wikipedia.org/wiki/太阳耀斑 "wikilink")[阳光卫星等](https://zh.wikipedia.org/wiki/阳光卫星 "wikilink")。
 
-截止到2006年，正在工作的X射线天文卫星有欧洲的XMM-牛顿卫星、美国的罗西X射线时变探测器、钱德拉X射线天文台、日本的[朱雀卫星](../Page/朱雀卫星.md "wikilink")（）\[1\]、中国的[硬X射线调制望远镜](https://zh.wikipedia.org/wiki/硬X射线调制望远镜 "wikilink")\[2\]。此外，欧洲的[国际伽玛射线天体物理实验室](../Page/国际伽玛射线天体物理实验室.md "wikilink")（）和美国的[雨燕卫星也安装有X射线观测设备](https://zh.wikipedia.org/wiki/雨燕卫星 "wikilink")。计划中的下一代X射线天文卫星有美国的\[3\]、欧洲的（）\[4\]等。
+截止到2006年，正在工作的X射线天文卫星有欧洲的XMM-牛顿卫星、美国的罗西X射线时变探测器、钱德拉X射线天文台、日本的[朱雀卫星](../Page/朱雀卫星.md "wikilink")（）\[1\]、中国的[硬X射线调制望远镜](../Page/硬X射线调制望远镜.md "wikilink")\[2\]。此外，欧洲的[国际伽玛射线天体物理实验室](../Page/国际伽玛射线天体物理实验室.md "wikilink")（）和美国的[雨燕卫星也安装有X射线观测设备](https://zh.wikipedia.org/wiki/雨燕卫星 "wikilink")。计划中的下一代X射线天文卫星有美国的\[3\]、欧洲的（）\[4\]等。
 
 ## 参见
 

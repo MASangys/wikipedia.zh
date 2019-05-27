@@ -112,7 +112,7 @@ Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")）
 <td><p>茶色眼裡的景象</p></td>
 <td><p><a href="../Page/佐藤順一.md" title="wikilink">甚目喜一</a></p></td>
 <td><p>横山広行</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/窪岡俊之" title="wikilink">窪岡俊之</a></p></td>
+<td><p><a href="../Page/窪岡俊之.md" title="wikilink">窪岡俊之</a></p></td>
 <td><p>1989年4月25日</p></td>
 <td></td>
 <td></td>

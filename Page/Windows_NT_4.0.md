@@ -35,8 +35,7 @@ FrontPage](../Page/Microsoft_FrontPage.md "wikilink")（撰寫以及管理網站
 
 此版本另一個重要的特色為針對網路應用程式提供了[Microsoft Transaction
 Server](https://zh.wikipedia.org/wiki/Microsoft_Transaction_Server "wikilink")，以及[Microsoft
-Message
-Queuing](https://zh.wikipedia.org/wiki/Microsoft_Message_Queuing "wikilink")
+Message Queuing](../Page/Microsoft_Message_Queuing.md "wikilink")
 (MSMQ)，提高了通訊能力。
 
 而跟之前版本的明顯差異，即為Windows NT將[Graphics Device

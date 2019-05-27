@@ -14,7 +14,7 @@ DSC-MZ3**乃[三洋](https://zh.wikipedia.org/wiki/三洋 "wikilink")（[Sanyo](
     Fine, Fine, Normal）, [TIFF](../Page/TIFF.md "wikilink")（非壓縮）
   - 記錄格式（影像）：影像[Quick
     Time](https://zh.wikipedia.org/wiki/Quick_Time "wikilink")
-    Movie（[Photo-JPEG](https://zh.wikipedia.org/wiki/Photo-JPEG "wikilink")）聲音[WAVE](https://zh.wikipedia.org/wiki/WAVE "wikilink")
+    Movie（[Photo-JPEG](https://zh.wikipedia.org/wiki/Photo-JPEG "wikilink")）聲音[WAVE](../Page/WAVE.md "wikilink")
   - 記錄檔案名稱：SANY\#\#\#\#
   - [Exif版本](https://zh.wikipedia.org/wiki/Exif "wikilink")：2.2
   - 支援[解析度](https://zh.wikipedia.org/wiki/解析度 "wikilink")（圖像）：2000x1496（軟件支援）,

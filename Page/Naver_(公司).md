@@ -4,7 +4,7 @@ Mobile公司。
 ## 沿革
 
 以**NHN株式會社**開始營運，其中的「NHN」有「**N**ext **H**uman
-**N**etwork」的意思。在NHN時代，即為韓國國內最大型的[搜索引擎](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")[NAVER與世界最大型的](../Page/NAVER.md "wikilink")[網絡遊戲網站](https://zh.wikipedia.org/wiki/網絡遊戲 "wikilink")[Hangame](../Page/Hangame.md "wikilink")，這兩項為NHN公司的兩大支柱業務。
+**N**etwork」的意思。在NHN時代，即為韓國國內最大型的[搜索引擎](../Page/搜索引擎.md "wikilink")[NAVER與世界最大型的](../Page/NAVER.md "wikilink")[網絡遊戲網站](https://zh.wikipedia.org/wiki/網絡遊戲 "wikilink")[Hangame](../Page/Hangame.md "wikilink")，這兩項為NHN公司的兩大支柱業務。
 
 在韓國新興的[股票市場的](https://zh.wikipedia.org/wiki/股票市場 "wikilink")[KOSDAQ中](https://zh.wikipedia.org/wiki/KOSDAQ "wikilink")，NHN的股票市值總額曾名列第一位（在2005年1月時約為1兆5千億韓圜；股票編號：35420）。2006年1月的[商業週刊說](https://zh.wikipedia.org/wiki/商業週刊 "wikilink")，NHN是導致Google在韓國市場的競爭中屢屢受挫的最主要的企業。
 

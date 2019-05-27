@@ -133,8 +133,7 @@ Vista的首部作品](../Page/Windows_Vista.md "wikilink")。在遊戲發售之�
 
 <!-- end list -->
 
-  - 姬百合瑠璃（ひめゆり
-    るり）（[吉田小南美](https://zh.wikipedia.org/wiki/吉田小南美 "wikilink")）
+  - 姬百合瑠璃（ひめゆり るり）（[吉田小南美](../Page/吉田小南美.md "wikilink")）
     姬百合珊瑚的妹妹，家事料理樣樣行，但是對於讀書並不拿手。
     生日：6月16日。身高：152cm。三圍：80/56/79。血型：O。背景曲：。
 
@@ -326,7 +325,7 @@ Vista的首部作品](../Page/Windows_Vista.md "wikilink")。在遊戲發售之�
 <td><p>4</p></td>
 <td></td>
 <td><p>自行車</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藤田伸三" title="wikilink">藤田伸三</a></p></td>
+<td><p><a href="../Page/藤田伸三.md" title="wikilink">藤田伸三</a></p></td>
 <td><p>橫田和善</p></td>
 <td><p>中村憲由<br />
 小川康治</p></td>

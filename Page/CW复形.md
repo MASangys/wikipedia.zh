@@ -137,7 +137,7 @@ CW复形的[奇异同调](https://zh.wikipedia.org/wiki/奇异同调 "wikilink")
     (1959)。\[5\] 注意到 \(X\) 和 \(Y\) 都是紧生成豪斯多夫空间，因此
     \(\operatorname{Hom}(X,Y)\) 常常取其紧生成的变种；以上结论对于这个变种仍然成立。\[6\]
   - CW复形的[覆疊空間也是CW复形](../Page/覆疊空間.md "wikilink")。
-  - CW复形是[仿紧空间](https://zh.wikipedia.org/wiki/仿紧空间 "wikilink")，而有限CW复形是[紧空间](../Page/紧空间.md "wikilink")。CW复形的紧子空间必定包含于一有限子复形内。\[7\]\[8\]
+  - CW复形是[仿紧空间](../Page/仿紧空间.md "wikilink")，而有限CW复形是[紧空间](../Page/紧空间.md "wikilink")。CW复形的紧子空间必定包含于一有限子复形内。\[7\]\[8\]
 
 ## 參考文獻
 

@@ -17,7 +17,7 @@ K Sunkus的公司法人則同時更名為「株式會社FamilyMart」並繼承Fa
   - 1986年：日本國內店數已達1000家
   - 1987年：成立**沖繩全家股份有限公司**（），開始於[沖繩縣進行展店](../Page/沖繩縣.md "wikilink")
   - 1988年：於[台灣成立](https://zh.wikipedia.org/wiki/台灣 "wikilink")**全家便利商店股份有限公司**並開始展店，係FamilyMart的第一個海外據點
-  - 1990年：於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾成立](https://zh.wikipedia.org/wiki/首爾 "wikilink")**Bokwang
+  - 1990年：於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾成立](../Page/首爾.md "wikilink")**Bokwang
     FamilyMart Co.,Ltd.**，開始在南韓展店
   - 1992年：更換識別標誌，以綠色及藍色為主要顏色；於[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷市成立](https://zh.wikipedia.org/wiki/曼谷市 "wikilink")**Siam
     FamilyMart Co.,Ltd**，開始在泰國展店

@@ -469,7 +469,7 @@ WPC53289西九龍交通部警員→特遣隊<br />
 於第30集被李大軍槍殺身亡</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
 <td><p>宋子傑</p></td>
 <td><p>師傅仔<br />
 鄧劍豪之徒<br />
@@ -581,7 +581,7 @@ Rambo、了哥、黃玉基之老大<br />
 於第6集被陳耀揚槍殺身亡</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/麥子雲" title="wikilink">麥子雲</a></p></td>
+<td><p><a href="../Page/麥子雲.md" title="wikilink">麥子雲</a></p></td>
 <td><p>黃玉基</p></td>
 <td><p><strong>泊車基</strong><br />
 陳耀掦手下，利用泊車之便，複印車匙模偷車<br />
@@ -703,7 +703,7 @@ Rambo、了哥、黃玉基之老大<br />
 於第16集被捕</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
+<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
 <td><p>吹　水</p></td>
 <td><p>貴利成手下<br />
 於第16集被捕</p></td>
@@ -878,7 +878,7 @@ Rambo、了哥、黃玉基之老大<br />
 | [劉文俊](../Page/劉文俊.md "wikilink")                    | \-       | 金毛，在[心意吧使用偽鈔](https://zh.wikipedia.org/wiki/#心意吧 "wikilink")（第8集） |
 | [朱婉儀](https://zh.wikipedia.org/wiki/朱婉儀 "wikilink") | \-       | 護士（第8，23集）                                                        |
 | [李明麗](https://zh.wikipedia.org/wiki/李明麗 "wikilink") | \-       |                                                                   |
-| [李啓傑](https://zh.wikipedia.org/wiki/李啓傑 "wikilink") | \-       | 醫生（第8，24集）                                                        |
+| [李啓傑](../Page/李啓傑.md "wikilink")                    | \-       | 醫生（第8，24集）                                                        |
 | [宋紫盈](https://zh.wikipedia.org/wiki/宋紫盈 "wikilink") | \-       | 老師（第9集）                                                           |
 | [潘惠文](https://zh.wikipedia.org/wiki/潘惠文 "wikilink") | \-       | 髮型屋老闆，潘志明僱主（第9集）                                                  |
 | [王冠忠](https://zh.wikipedia.org/wiki/王冠忠 "wikilink") | \-       | 伙記（第9集）                                                           |

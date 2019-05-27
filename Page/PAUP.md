@@ -21,7 +21,7 @@ X所设计的完整用户界面正在开发中，预计2006年内会发布。但
 
   - [Phylip](https://zh.wikipedia.org/wiki/Phylip "wikilink")
   - [PAML](https://zh.wikipedia.org/wiki/PAML "wikilink")
-  - [MEGA](https://zh.wikipedia.org/wiki/MEGA "wikilink")
+  - [MEGA](../Page/MEGA.md "wikilink")
   - [MrBayes](https://zh.wikipedia.org/wiki/MrBayes "wikilink")
 
 ## 外部链接

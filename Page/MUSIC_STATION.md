@@ -45,23 +45,23 @@ STATION》現任主持人為[田森](https://zh.wikipedia.org/wiki/田森 "wikil
     BEST10則計算由每週星期五至下一星期的星期四銷量，這與節目的播放天一致。這單元自1989年啟播開始，已經幾乎每集都會出現。如果歌手的單曲銷量打破自己或全球銷售紀錄，通常都會於節目中演出。
     此單元目前是放在 BIRTH YEAR SONGS 之後的一到兩組歌手演出完畢時。
 
-| 年度    | 曲名                                                                                        | 歌手名                                                                                              |
-| ----- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 1995年 | [TOMORROW](../Page/TOMORROW_\(岡本真夜單曲\).md "wikilink")                                     | [岡本真夜](https://zh.wikipedia.org/wiki/岡本真夜 "wikilink")                                            |
-| 1996年 | [LA·LA·LA LOVE SONG](../Page/LA·LA·LA_LOVE_SONG.md "wikilink")                            | [久保田利伸](../Page/久保田利伸.md "wikilink")&[娜歐蜜·坎貝兒](https://zh.wikipedia.org/wiki/娜歐蜜·坎貝兒 "wikilink") |
-| 1997年 | [CAN YOU CELEBRATE?](https://zh.wikipedia.org/wiki/CAN_YOU_CELEBRATE? "wikilink")         | [安室奈美惠](../Page/安室奈美惠.md "wikilink")                                                             |
-| 1998年 | [夜空的彼方](https://zh.wikipedia.org/wiki/夜空的彼方 "wikilink")                                   | [SMAP](../Page/SMAP.md "wikilink")                                                               |
-| 1999年 | [Automatic](https://zh.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")            | [宇多田光](../Page/宇多田光.md "wikilink")                                                               |
-| 2000年 | [TSUNAMI](../Page/海嘯_\(單曲\).md "wikilink")                                                | [南方之星](../Page/南方之星.md "wikilink")                                                               |
-| 2001年 | [Can You Keep A Secret?](https://zh.wikipedia.org/wiki/Can_You_Keep_A_Secret? "wikilink") | [宇多田光](../Page/宇多田光.md "wikilink")                                                               |
-| 2002年 | [H](../Page/H_\(濱崎步單曲\).md "wikilink")                                                    | [濱崎步](../Page/濱崎步.md "wikilink")                                                                 |
-| 2003年 | [世界上唯一的花](../Page/世界上唯一的花.md "wikilink")                                                  | [SMAP](../Page/SMAP.md "wikilink")                                                               |
-| 2004年 | [花](../Page/花_\(橘子新樂園單曲\).md "wikilink")                                                  | [橘子新樂園](https://zh.wikipedia.org/wiki/橘子新樂園 "wikilink")                                          |
-| 2005年 | [青春Amigo](../Page/青春Amigo.md "wikilink")                                                  | [修二與彰](../Page/修二與彰.md "wikilink")                                                               |
-| 2006年 | [Real Face](../Page/Real_Face.md "wikilink")                                              | [KAT-TUN](../Page/KAT-TUN.md "wikilink")                                                         |
-| 2007年 | [化為千風](https://zh.wikipedia.org/wiki/化為千風_\(秋川雅史\) "wikilink")                            | [秋川雅史](../Page/秋川雅史.md "wikilink")                                                               |
-| 2008年 | [truth/前往風的彼方](https://zh.wikipedia.org/wiki/truth/前往風的彼方 "wikilink")                     | [嵐](../Page/嵐.md "wikilink")                                                                     |
-| 2009年 | [Believe/烏雲散去、天氣晴](https://zh.wikipedia.org/wiki/Believe/烏雲散去、天氣晴 "wikilink")             | [嵐](../Page/嵐.md "wikilink") / [矢野健太 starring Satoshi Ohno](../Page/大野智.md "wikilink")           |
+| 年度    | 曲名                                                                             | 歌手名                                                                                              |
+| ----- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| 1995年 | [TOMORROW](../Page/TOMORROW_\(岡本真夜單曲\).md "wikilink")                          | [岡本真夜](https://zh.wikipedia.org/wiki/岡本真夜 "wikilink")                                            |
+| 1996年 | [LA·LA·LA LOVE SONG](../Page/LA·LA·LA_LOVE_SONG.md "wikilink")                 | [久保田利伸](../Page/久保田利伸.md "wikilink")&[娜歐蜜·坎貝兒](https://zh.wikipedia.org/wiki/娜歐蜜·坎貝兒 "wikilink") |
+| 1997年 | [CAN YOU CELEBRATE?](../Page/CAN_YOU_CELEBRATE?.md "wikilink")                 | [安室奈美惠](../Page/安室奈美惠.md "wikilink")                                                             |
+| 1998年 | [夜空的彼方](https://zh.wikipedia.org/wiki/夜空的彼方 "wikilink")                        | [SMAP](../Page/SMAP.md "wikilink")                                                               |
+| 1999年 | [Automatic](https://zh.wikipedia.org/wiki/Automatic/time_will_tell "wikilink") | [宇多田光](../Page/宇多田光.md "wikilink")                                                               |
+| 2000年 | [TSUNAMI](../Page/海嘯_\(單曲\).md "wikilink")                                     | [南方之星](../Page/南方之星.md "wikilink")                                                               |
+| 2001年 | [Can You Keep A Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")         | [宇多田光](../Page/宇多田光.md "wikilink")                                                               |
+| 2002年 | [H](../Page/H_\(濱崎步單曲\).md "wikilink")                                         | [濱崎步](../Page/濱崎步.md "wikilink")                                                                 |
+| 2003年 | [世界上唯一的花](../Page/世界上唯一的花.md "wikilink")                                       | [SMAP](../Page/SMAP.md "wikilink")                                                               |
+| 2004年 | [花](../Page/花_\(橘子新樂園單曲\).md "wikilink")                                       | [橘子新樂園](https://zh.wikipedia.org/wiki/橘子新樂園 "wikilink")                                          |
+| 2005年 | [青春Amigo](../Page/青春Amigo.md "wikilink")                                       | [修二與彰](../Page/修二與彰.md "wikilink")                                                               |
+| 2006年 | [Real Face](../Page/Real_Face.md "wikilink")                                   | [KAT-TUN](../Page/KAT-TUN.md "wikilink")                                                         |
+| 2007年 | [化為千風](https://zh.wikipedia.org/wiki/化為千風_\(秋川雅史\) "wikilink")                 | [秋川雅史](../Page/秋川雅史.md "wikilink")                                                               |
+| 2008年 | [truth/前往風的彼方](https://zh.wikipedia.org/wiki/truth/前往風的彼方 "wikilink")          | [嵐](../Page/嵐.md "wikilink")                                                                     |
+| 2009年 | [Believe/烏雲散去、天氣晴](https://zh.wikipedia.org/wiki/Believe/烏雲散去、天氣晴 "wikilink")  | [嵐](../Page/嵐.md "wikilink") / [矢野健太 starring Satoshi Ohno](../Page/大野智.md "wikilink")           |
 
 獲得全年第一位的歌曲（1995年－2009年）
 
@@ -179,7 +179,7 @@ STATION》現任主持人為[田森](https://zh.wikipedia.org/wiki/田森 "wikil
   -
     從1986年10月24日[成龍出演以來](../Page/成龍.md "wikilink")，海外歌手樂隊例如：[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")（Alan）、[女子十二乐坊](https://zh.wikipedia.org/wiki/女子十二乐坊 "wikilink")、[五月天](../Page/五月天.md "wikilink")、[Kiss合唱團](../Page/Kiss合唱團.md "wikilink")（KISS）、[快嘴約翰](../Page/快嘴約翰.md "wikilink")（Scatman
     John）、[-{zh-hans:空中铁匠;zh-hk:史密夫飛船;zh-tw:史密斯飛船;}-](../Page/空中铁匠.md "wikilink")（Aerosmith）、[藍尼·克羅維茲](https://zh.wikipedia.org/wiki/藍尼·克羅維茲 "wikilink")（Lenny
-    Kravitz\]）、[瑪麗亞·凱莉](https://zh.wikipedia.org/wiki/瑪麗亞·凱莉 "wikilink")（Mariah
+    Kravitz\]）、[瑪麗亞·凱莉](../Page/瑪麗亞·凱莉.md "wikilink")（Mariah
     Carey）、[希拉里·达夫](../Page/希拉里·达夫.md "wikilink")（Hilary
     Duff）、[艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")（Avril
     Lavigne）、[後街男孩](../Page/後街男孩.md "wikilink")（Backstreet
@@ -317,7 +317,7 @@ STATION》現任主持人為[田森](https://zh.wikipedia.org/wiki/田森 "wikil
 
   - 「LIFE」（5月30日）
 
-  - [秦基博](https://zh.wikipedia.org/wiki/秦基博 "wikilink")「」（6月6日）
+  - [秦基博](../Page/秦基博.md "wikilink")「」（6月6日）
 
   - [NICO Touches the
     Walls](../Page/NICO_Touches_the_Walls.md "wikilink")「Broken
@@ -355,7 +355,7 @@ STATION》現任主持人為[田森](https://zh.wikipedia.org/wiki/田森 "wikil
 ### 現在
 
   - 片頭曲：[\#1090 \~Million
-    Dreams\~](https://zh.wikipedia.org/wiki/1090_〜Thousand_Dreams〜 "wikilink")（2016年3月25日－）
+    Dreams\~](../Page/1090_〜Thousand_Dreams〜.md "wikilink")（2016年3月25日－）
   - 片尾曲：[\#1090
     \[千夢一夜](https://zh.wikipedia.org/wiki/華_\(專輯\) "wikilink")\]（2002年3月1日－）
 
@@ -371,7 +371,7 @@ STATION》現任主持人為[田森](https://zh.wikipedia.org/wiki/田森 "wikil
   - 1990年4月13日－1992年3月20日：「The
     Desire」（原題：「DESIRE,THE＊欲望」）音樂：[横關敦](https://zh.wikipedia.org/wiki/横關敦 "wikilink")
   - 1992年4月10日－2016年3月11日：[\#1090\~Thousand
-    Dreams\~](https://zh.wikipedia.org/wiki/1090_〜Thousand_Dreams〜 "wikilink")（片頭曲）音樂：松本孝弘（B'z）
+    Dreams\~](../Page/1090_〜Thousand_Dreams〜.md "wikilink")（片頭曲）音樂：松本孝弘（B'z）
   - 1992年4月10日－2002年2月22日：「」（片尾曲）音樂：[松本孝弘](../Page/松本孝弘.md "wikilink")（[B'z](../Page/B'z.md "wikilink")）、合唱：[大黑摩季](../Page/大黑摩季.md "wikilink")
 
 ## 播出回數記念日

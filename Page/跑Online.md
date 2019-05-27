@@ -344,8 +344,7 @@ Runner)。
     [iKON加入代言行列](https://zh.wikipedia.org/wiki/iKON "wikilink")。
   - 2015年11月 韓版舉行10週年線下派對，[Girl's
     Day加入代言行列](../Page/Girl's_Day.md "wikilink")。
-  - 2016年2月
-    [GFRIEND加入代言行列](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")。
+  - 2016年2月 [GFRIEND加入代言行列](../Page/GFRIEND.md "wikilink")。
   - 2016年6月 與[防彈少年團合作](../Page/防彈少年團.md "wikilink")，6月15日公開11週年紀念活動。
   - 2016年9月
     與韓劇[步步驚心：麗合作](https://zh.wikipedia.org/wiki/步步驚心：麗 "wikilink")，並公開4種角色寵物。

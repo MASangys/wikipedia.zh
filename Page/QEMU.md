@@ -91,7 +91,7 @@ QEMU支持仿真各种体系结构，包括：
 
 <!-- end list -->
 
-  - [RISC-V](https://zh.wikipedia.org/wiki/RISC-V "wikilink")
+  - [RISC-V](../Page/RISC-V.md "wikilink")
 
 [虚拟机可以连接多种类型的物理主机硬件](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")。这些包括：[硬盘](../Page/硬盘.md "wikilink")，[CD-ROM](../Page/CD-ROM.md "wikilink")，[网卡](../Page/网卡.md "wikilink")，[音效卡和](../Page/声卡.md "wikilink")[USB](../Page/USB.md "wikilink")。可以完全模拟USB设备（从图像文件，输入设备进行海量存储），也可以使用主机的USB设备（但这需要管理员权限，并且不适用于所有设备）。
 

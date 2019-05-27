@@ -11,7 +11,7 @@
 ### 发射：和平号19成员
 
   - **[阿纳托利·索罗耶夫](https://zh.wikipedia.org/wiki/阿纳托利·索罗耶夫 "wikilink")**（）
-  - **[尼古拉·布达林](https://zh.wikipedia.org/wiki/尼古拉·布达林 "wikilink")**（）
+  - **[尼古拉·布达林](../Page/尼古拉·布达林.md "wikilink")**（）
 
 ### 返回：和平号18成员
 

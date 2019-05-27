@@ -43,7 +43,7 @@ Landscape Garden 2007.jpg|主題園景地帶 <File:Union> Square Fountain
       - [淡馬錫控股有限公司](https://zh.wikipedia.org/wiki/淡馬錫控股 "wikilink")
       - [新加坡置地有限公司](https://zh.wikipedia.org/wiki/新加坡置地 "wikilink")
       - [吉寶置業有限公司](https://zh.wikipedia.org/wiki/吉寶置業 "wikilink")
-      - [麗新發展有限公司](https://zh.wikipedia.org/wiki/麗新發展 "wikilink")
+      - [麗新發展有限公司](../Page/麗新發展.md "wikilink")
       - [環球投資](https://zh.wikipedia.org/wiki/環球投資 "wikilink")（百慕達）有限公司
   - 用途：[住宅](../Page/住宅.md "wikilink")
   - 樓宇幢數：6 (Tower 9, 10, 11, 12, 13, 14)

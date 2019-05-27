@@ -72,7 +72,7 @@ Windows API所提供的功能可以归为七类：\[4\]
 <!-- end list -->
 
   - 网络服务（Network
-    Services）\[12\]，为访问操作系统提供的多种[网络功能提供接口](https://zh.wikipedia.org/wiki/网络 "wikilink")。它包括[NetBIOS](../Page/NetBIOS.md "wikilink")、[Winsock](https://zh.wikipedia.org/wiki/Winsock "wikilink")、[NetDDE及](https://zh.wikipedia.org/wiki/NetDDE "wikilink")[RPC等](https://zh.wikipedia.org/wiki/RPC "wikilink")。
+    Services）\[12\]，为访问操作系统提供的多种[网络功能提供接口](https://zh.wikipedia.org/wiki/网络 "wikilink")。它包括[NetBIOS](../Page/NetBIOS.md "wikilink")、[Winsock](../Page/Winsock.md "wikilink")、[NetDDE及](https://zh.wikipedia.org/wiki/NetDDE "wikilink")[RPC等](https://zh.wikipedia.org/wiki/RPC "wikilink")。
 
 ### Web相关API
 

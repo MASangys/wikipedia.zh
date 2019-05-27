@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - [金屬射出成型](https://zh.wikipedia.org/wiki/金屬射出成型 "wikilink")，原文，[縮寫MIM](../Page/縮寫.md "wikilink")。
+  - [金屬射出成型](../Page/金屬射出成型.md "wikilink")，原文，[縮寫MIM](../Page/縮寫.md "wikilink")。
 
 <!-- end list -->
 

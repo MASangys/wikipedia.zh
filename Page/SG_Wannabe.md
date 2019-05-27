@@ -30,8 +30,7 @@ Entertainment簽約](../Page/Jellyfish娛樂.md "wikilink")，開始個人活動
 
 ### Whyme 金勇俊
 
-  - 名字：[金勇俊](https://zh.wikipedia.org/wiki/金容俊 "wikilink")\[2\]（김용준 Kim
-    Yong Jun）
+  - 名字：[金勇俊](../Page/金容俊.md "wikilink")\[2\]（김용준 Kim Yong Jun）
   - 出生日期：
   - 學歷：安陽藝術高等學校演劇映畫科、慶熙網絡（CYBER）大學全球經營學專業
   - 曾與[黃正音一同參與綜藝節目](../Page/黄正音.md "wikilink")[我們結婚了](../Page/我們結婚了.md "wikilink")，預先體驗結婚後的生活，是一對現實生活中的情侶成為假想夫婦，倆人交往快十年，卻在2015年宣布分手。

@@ -166,7 +166,7 @@ MyUniversity<br />
 四眼乜乜乜 (暫代主持/已完結)<br />
 城邦論壇（已腰斬）<br />
 崑崙風（嘉賓主持）</p></td>
-<td><p>資深傳媒人、普羅政治學苑副主席、MyRadio創台台長。現時是MyRadio台長、<a href="../Page/癲狗日報.md" title="wikilink">癲狗日報電子版總編輯</a>。曾任<a href="../Page/癲狗日報.md" title="wikilink">癲狗日報總編輯</a>、<a href="../Page/香港人民廣播電台.md" title="wikilink">香港人民廣播電台副台長</a>（註冊社團副主席）、網媒<a href="https://zh.wikipedia.org/wiki/本土新聞" title="wikilink">本土新聞總編輯</a>、OurTV及OurRadio台長。</p></td>
+<td><p>資深傳媒人、普羅政治學苑副主席、MyRadio創台台長。現時是MyRadio台長、<a href="../Page/癲狗日報.md" title="wikilink">癲狗日報電子版總編輯</a>。曾任<a href="../Page/癲狗日報.md" title="wikilink">癲狗日報總編輯</a>、<a href="../Page/香港人民廣播電台.md" title="wikilink">香港人民廣播電台副台長</a>（註冊社團副主席）、網媒<a href="../Page/本土新聞.md" title="wikilink">本土新聞總編輯</a>、OurTV及OurRadio台長。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/何故.md" title="wikilink">何故</a></p></td>
@@ -237,7 +237,7 @@ MyUniversity<br />
 <td><p><a href="../Page/香港民族黨.md" title="wikilink">香港民族黨召集人</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/周浩輝" title="wikilink">周浩輝</a></p></td>
+<td><p><a href="../Page/周浩輝.md" title="wikilink">周浩輝</a></p></td>
 <td><p>合眾唯識(已完結)<br />
 本土最前線</p></td>
 <td><p><a href="../Page/香港民族黨.md" title="wikilink">香港民族黨發言人</a></p></td>
@@ -258,7 +258,7 @@ MyUniversity<br />
 <td><p>何鈞（HK）</p></td>
 <td><p>學生主場 (已完結)<br />
 誰主香江</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中大本土學社" title="wikilink">中大本土學社召集人</a></p></td>
+<td><p><a href="../Page/中大本土學社.md" title="wikilink">中大本土學社召集人</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/賴珮" title="wikilink">賴珮</a></p></td>
@@ -346,7 +346,7 @@ MyUniversity<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/張珈衍" title="wikilink">張珈衍</a>（法國佬）</p></td>
+<td><p><a href="../Page/張珈衍.md" title="wikilink">張珈衍</a>（法國佬）</p></td>
 <td><p>本土最前線<br />
 梁錦祥一週時事（嘉賓主持）</p></td>
 <td><p>駕駛教練。前<a href="../Page/熱血公民.md" title="wikilink">熱血公民成員</a>、前<a href="../Page/熱血時報.md" title="wikilink">熱血時報主持</a>。</p></td>
@@ -383,7 +383,7 @@ MyUniversity</p></td>
 <td><p><a href="../Page/人民力量.md" title="wikilink">人民力量成員</a>。前<a href="../Page/社會民主連線.md" title="wikilink">社會民主連線成員</a>、前<a href="https://zh.wikipedia.org/wiki/立法會議員" title="wikilink">立法會議員</a>、前荃灣區議會（麗興選區）議員。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/湯詠芝" title="wikilink">湯詠芝</a>（Carol／嘉露）</p></td>
+<td><p><a href="../Page/湯詠芝.md" title="wikilink">湯詠芝</a>（Carol／嘉露）</p></td>
 <td><p>毓民踩場 (曾客席)</p></td>
 <td><p>曾任陳偉業議員助理</p></td>
 </tr>
@@ -455,7 +455,7 @@ MyUniversity</p></td>
 香港著名影視男演員、節目主持及模特兒。現為香港<a href="../Page/電視廣播有限公司.md" title="wikilink">無綫電視男藝員</a>。<a href="../Page/無綫電視藝員訓練班.md" title="wikilink">無綫電視藝員訓練班第四期藝員進修班畢業藝員</a>、第二屆寶麗金卡拉OK模特兒大賽冠軍、2015年全球粵語主持人大賽冠軍並獲得最有台型大獎。曾為<a href="../Page/亞洲電視.md" title="wikilink">亞洲電視</a>、<a href="https://zh.wikipedia.org/wiki/Now寬頻電視" title="wikilink">Now寬頻電視及</a><a href="../Page/香港有線電視.md" title="wikilink">香港有線電視男藝員</a>。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/何志光_(香港)" title="wikilink">何志光</a>（CK）</p></td>
+<td><p><a href="../Page/何志光_(香港).md" title="wikilink">何志光</a>（CK）</p></td>
 <td><p>建國弟兄會 (已完結)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/香港本土力量" title="wikilink">香港本土力量主席</a></p></td>
 </tr>
@@ -475,21 +475,21 @@ MyUniversity</p></td>
 <td><p>中文大學人類學學士和哲學碩士、浸會大學青年輔導學社會科學碩士、中文大學性別研究課程博士候選人；具美國醫學及牙科催眠學會專業牌照，美國執業性治療師。早年曾任報章專欄作家。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃台仰" title="wikilink">黃台仰</a></p></td>
+<td><p><a href="../Page/黃台仰.md" title="wikilink">黃台仰</a></p></td>
 <td><p>素人起義 (已完結)<br />
 吾國吾聞 (已完結)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/本土民主前線" title="wikilink">本土民主前線召集人</a></p></td>
+<td><p><a href="../Page/本土民主前線.md" title="wikilink">本土民主前線召集人</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/梁天琦.md" title="wikilink">梁天琦</a></p></td>
 <td><p>吾國吾聞 (已完結)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/本土民主前線" title="wikilink">本土民主前線發言人</a>，曾參與2016年新界東補選。</p></td>
+<td><p><a href="../Page/本土民主前線.md" title="wikilink">本土民主前線發言人</a>，曾參與2016年新界東補選。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/曾焯文" title="wikilink">曾焯文</a></p></td>
+<td><p><a href="../Page/曾焯文.md" title="wikilink">曾焯文</a></p></td>
 <td><p>本土粵文 (已腰斬)<br />
 粵字匯唐文 (已腰斬)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/本土新聞" title="wikilink">本土新聞翻譯主管</a></p></td>
+<td><p><a href="../Page/本土新聞.md" title="wikilink">本土新聞翻譯主管</a></p></td>
 </tr>
 <tr class="even">
 <td><p>周韋樂（阿樂、周圍轆）</p></td>
@@ -502,7 +502,7 @@ MyUniversity</p></td>
 <td><p>作家、時事評論員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/仇思達" title="wikilink">仇思達</a>（無敵神駒）</p></td>
+<td><p><a href="../Page/仇思達.md" title="wikilink">仇思達</a>（無敵神駒）</p></td>
 <td><p>勞思動眾 (曾客席、已腰斬)</p></td>
 <td><p>作家，曾任<a href="../Page/香港城市大學.md" title="wikilink">香港城市大學校董</a>，現為個人網絡電台<a href="https://zh.wikipedia.org/wiki/本土台" title="wikilink">本土台台長</a>、時事評論員，並著有《屹屹屹》一書</p></td>
 </tr>
@@ -517,7 +517,7 @@ MyUniversity</p></td>
 <td><p>資深傳媒人，<a href="../Page/中國國民黨.md" title="wikilink">中國國民黨黨員</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭松泰" title="wikilink">鄭松泰</a>（泰博）</p></td>
+<td><p><a href="../Page/鄭松泰.md" title="wikilink">鄭松泰</a>（泰博）</p></td>
 <td><p>建國研習班（已改在熱血時報播放）</p></td>
 <td><p><a href="../Page/香港理工大學.md" title="wikilink">香港理工大學應用社會科學系講師</a>、立法會議員(2016-)、熱血公民主席(2016-)、熱血時報節目主持</p></td>
 </tr>
@@ -525,7 +525,7 @@ MyUniversity</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馬愉生" title="wikilink">馬愉生</a></p></td>
 <td><p>毓民踩場（已離任）<br />
 立睇九龍 (已完結)</p></td>
-<td><p>普羅政治學苑副主席。前社會民主連線副秘書長、社區服務主任，曾參選<a href="https://zh.wikipedia.org/wiki/2016年香港立法會選舉" title="wikilink">2016年立法會九龍西選區選舉</a>。</p></td>
+<td><p>普羅政治學苑副主席。前社會民主連線副秘書長、社區服務主任，曾參選<a href="../Page/2016年香港立法會選舉.md" title="wikilink">2016年立法會九龍西選區選舉</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/陳云根.md" title="wikilink">陳-{云}-根</a>（陳雲、國師）</p></td>
@@ -549,7 +549,7 @@ MyUniversity</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭錦滿" title="wikilink">鄭錦滿</a>（四眼哥哥）</p></td>
+<td><p><a href="../Page/鄭錦滿.md" title="wikilink">鄭錦滿</a>（四眼哥哥）</p></td>
 <td><p>四眼乜乜乜（已完結）<br />
 素人起義（已完結）</p></td>
 <td><p>熱血公民副主席，曾參與2016年立法會港島區選舉。</p></td>
@@ -575,12 +575,12 @@ MyUniversity</p></td>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/方智龍" title="wikilink">方智龍</a>（Addie）</p></td>
 <td><p>網上辣辛聞（已完結）</p></td>
-<td><p>調解員。前<a href="../Page/熱血公民.md" title="wikilink">熱血公民成員</a>、前<a href="../Page/熱血時報.md" title="wikilink">熱血時報主持</a>，曾參與<a href="https://zh.wikipedia.org/wiki/2015年香港區議會選舉" title="wikilink">2015年區議會元州及蘇屋區選舉</a>。</p></td>
+<td><p>調解員。前<a href="../Page/熱血公民.md" title="wikilink">熱血公民成員</a>、前<a href="../Page/熱血時報.md" title="wikilink">熱血時報主持</a>，曾參與<a href="../Page/2015年香港區議會選舉.md" title="wikilink">2015年區議會元州及蘇屋區選舉</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/李政熙" title="wikilink">李政熙</a></p></td>
 <td><p>網上辣辛聞（嘉賓主持）（已完結）</p></td>
-<td><p>前<a href="../Page/熱血公民.md" title="wikilink">熱血公民成員</a>，曾參與<a href="https://zh.wikipedia.org/wiki/2015年香港區議會選舉" title="wikilink">2015年區議會天平西區選舉</a>。</p></td>
+<td><p>前<a href="../Page/熱血公民.md" title="wikilink">熱血公民成員</a>，曾參與<a href="../Page/2015年香港區議會選舉.md" title="wikilink">2015年區議會天平西區選舉</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Vega</p></td>
@@ -637,7 +637,7 @@ MyUniversity</p></td>
 <td><p>商人、佛學博士，<a href="https://zh.wikipedia.org/wiki/香港顯密學會" title="wikilink">香港顯密學會會長</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/張展豪" title="wikilink">張展豪</a>（文豪）</p></td>
+<td><p><a href="../Page/張展豪.md" title="wikilink">張展豪</a>（文豪）</p></td>
 <td><p>坐看雲起時（已完結）</p></td>
 <td><p>攝影師</p></td>
 </tr>

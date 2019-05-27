@@ -1,8 +1,7 @@
 **Xbox Live**
 是由[微軟公司所開發](https://zh.wikipedia.org/wiki/微軟 "wikilink")、管理的在线游戏、數位媒体服务平台。Xbox
-Live 最初於 2002 年 11 月在
-[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink") 平台上推出，後來延伸至 [Xbox
-360](../Page/Xbox_360.md "wikilink")、 [Xbox
+Live 最初於 2002 年 11 月在 [Xbox](../Page/Xbox.md "wikilink") 平台上推出，後來延伸至
+[Xbox 360](../Page/Xbox_360.md "wikilink")、 [Xbox
 One](../Page/Xbox_One.md "wikilink")、[Windows
 Phone](../Page/Windows_Phone.md "wikilink") 和
 [Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")

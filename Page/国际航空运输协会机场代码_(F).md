@@ -295,7 +295,7 @@
 <td><p>FCY</p></td>
 <td><p>KFCY</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/福雷斯特城_(阿肯色州)" title="wikilink">福雷斯特城</a>，<a href="../Page/阿肯色州.md" title="wikilink">阿肯色州</a></p></td>
+<td><p><a href="../Page/福雷斯特城_(阿肯色州).md" title="wikilink">福雷斯特城</a>，<a href="../Page/阿肯色州.md" title="wikilink">阿肯色州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -351,7 +351,7 @@
 <td><p>FDY</p></td>
 <td><p>KFDY</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/芬德利_(俄亥俄州)" title="wikilink">芬德利</a>，<a href="../Page/俄亥俄州.md" title="wikilink">俄亥俄州</a></p></td>
+<td><p><a href="../Page/芬德利_(俄亥俄州).md" title="wikilink">芬德利</a>，<a href="../Page/俄亥俄州.md" title="wikilink">俄亥俄州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -428,7 +428,7 @@
 <td><p>FET</p></td>
 <td><p>KFET</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/弗里蒙特_(內布拉斯加州)" title="wikilink">弗里蒙特</a>，<a href="https://zh.wikipedia.org/wiki/內布拉斯加州" title="wikilink">內布拉斯加州</a></p></td>
+<td><p><a href="../Page/弗里蒙特_(內布拉斯加州).md" title="wikilink">弗里蒙特</a>，<a href="https://zh.wikipedia.org/wiki/內布拉斯加州" title="wikilink">內布拉斯加州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -652,7 +652,7 @@
 <td><p>FKL</p></td>
 <td><p>KFKL</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/富蘭克林_(賓夕法尼亞州)" title="wikilink">富蘭克林</a>，<a href="https://zh.wikipedia.org/wiki/賓夕法尼亞州" title="wikilink">賓夕法尼亞州</a></p></td>
+<td><p><a href="../Page/富蘭克林_(賓夕法尼亞州).md" title="wikilink">富蘭克林</a>，<a href="https://zh.wikipedia.org/wiki/賓夕法尼亞州" title="wikilink">賓夕法尼亞州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -785,7 +785,7 @@
 <td><p>FLT</p></td>
 <td></td>
 <td><p>弗拉特機場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/弗拉特_(阿拉斯加州)" title="wikilink">弗拉特</a>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
+<td><p><a href="../Page/弗拉特_(阿拉斯加州).md" title="wikilink">弗拉特</a>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

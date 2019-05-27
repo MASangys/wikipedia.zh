@@ -47,8 +47,8 @@
   - 鳳 圭一郎 -
     [田口淳之介](../Page/田口淳之介.md "wikilink")（[KAT-TUN](../Page/KAT-TUN.md "wikilink")）
   - 竜ヶ崎 蝶子 - [小林麻央](../Page/小林麻央.md "wikilink")
-  - 賀来 菊子 - [夏川純](https://zh.wikipedia.org/wiki/夏川純 "wikilink")
-  - 海野 家康 - [荒川良良](https://zh.wikipedia.org/wiki/荒川良良 "wikilink")
+  - 賀来 菊子 - [夏川純](../Page/夏川純.md "wikilink")
+  - 海野 家康 - [荒川良良](../Page/荒川良良.md "wikilink")
   - 桂木 - [沼田爆](https://zh.wikipedia.org/wiki/沼田爆 "wikilink")
   - 山口 百太郎 - [森下能幸](https://zh.wikipedia.org/wiki/森下能幸 "wikilink")
   - 竜ヶ崎 花江 - [渡辺えり子](https://zh.wikipedia.org/wiki/渡辺えり子 "wikilink")

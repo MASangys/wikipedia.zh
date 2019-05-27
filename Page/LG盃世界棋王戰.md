@@ -287,7 +287,7 @@
 <td><p><a href="../Page/谢尔豪.md" title="wikilink">谢尔豪五段</a></p></td>
 <td><p>2:1</p></td>
 <td><p><a href="../Page/井山裕太.md" title="wikilink">井山裕太九段</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柯洁" title="wikilink">柯洁</a></p></td>
+<td><p><a href="../Page/柯洁.md" title="wikilink">柯洁</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
@@ -373,7 +373,7 @@
 
 综合预选赛于2012年4月18-24日在首尔举行，出线棋手：
 
-  - ：[连笑](https://zh.wikipedia.org/wiki/连笑 "wikilink")、[檀啸](../Page/檀啸.md "wikilink")、[李轩豪](https://zh.wikipedia.org/wiki/李轩豪 "wikilink")、[牛雨田](https://zh.wikipedia.org/wiki/牛雨田 "wikilink")、[周鹤洋](https://zh.wikipedia.org/wiki/周鹤洋 "wikilink")、[孟泰龄](https://zh.wikipedia.org/wiki/孟泰龄 "wikilink")、[彭立峣](https://zh.wikipedia.org/wiki/彭立峣 "wikilink")、[刘星](https://zh.wikipedia.org/wiki/刘星_\(围棋棋手\) "wikilink")、[李康](https://zh.wikipedia.org/wiki/李康_\(围棋棋手\) "wikilink")、[党毅飞](../Page/党毅飞.md "wikilink")、[孔杰](../Page/孔杰.md "wikilink")、[邬光亚](https://zh.wikipedia.org/wiki/邬光亚 "wikilink")，
+  - ：[连笑](https://zh.wikipedia.org/wiki/连笑 "wikilink")、[檀啸](../Page/檀啸.md "wikilink")、[李轩豪](../Page/李轩豪.md "wikilink")、[牛雨田](../Page/牛雨田.md "wikilink")、[周鹤洋](https://zh.wikipedia.org/wiki/周鹤洋 "wikilink")、[孟泰龄](https://zh.wikipedia.org/wiki/孟泰龄 "wikilink")、[彭立峣](https://zh.wikipedia.org/wiki/彭立峣 "wikilink")、[刘星](https://zh.wikipedia.org/wiki/刘星_\(围棋棋手\) "wikilink")、[李康](../Page/李康_\(围棋棋手\).md "wikilink")、[党毅飞](../Page/党毅飞.md "wikilink")、[孔杰](../Page/孔杰.md "wikilink")、[邬光亚](https://zh.wikipedia.org/wiki/邬光亚 "wikilink")，
 
   - ：[李映九](https://zh.wikipedia.org/wiki/李映九 "wikilink")、[朴承华](https://zh.wikipedia.org/wiki/朴承华 "wikilink")、[崔基勋](https://zh.wikipedia.org/wiki/崔基勋 "wikilink")、[罗玄](https://zh.wikipedia.org/wiki/罗玄 "wikilink")
 
@@ -393,7 +393,7 @@
 
 综合预选赛于2013年4月17-23日进行，16名出线者晋级本赛：\[5\]
 
-  - ：[李钦诚初段](https://zh.wikipedia.org/wiki/李钦诚 "wikilink")、[谢尔豪初段](../Page/谢尔豪.md "wikilink")、[柁嘉熹三段](../Page/柁嘉熹.md "wikilink")、[韩一洲二段](https://zh.wikipedia.org/wiki/韩一洲 "wikilink")、[李喆六段](https://zh.wikipedia.org/wiki/李喆 "wikilink")、[张涛三段](https://zh.wikipedia.org/wiki/张涛_\(围棋棋手\) "wikilink")、[国宇征三段](https://zh.wikipedia.org/wiki/国宇征 "wikilink")、[夏晨琨二段](https://zh.wikipedia.org/wiki/夏晨琨 "wikilink")
+  - ：[李钦诚初段](https://zh.wikipedia.org/wiki/李钦诚 "wikilink")、[谢尔豪初段](../Page/谢尔豪.md "wikilink")、[柁嘉熹三段](../Page/柁嘉熹.md "wikilink")、[韩一洲二段](../Page/韩一洲.md "wikilink")、[李喆六段](https://zh.wikipedia.org/wiki/李喆 "wikilink")、[张涛三段](https://zh.wikipedia.org/wiki/张涛_\(围棋棋手\) "wikilink")、[国宇征三段](../Page/国宇征.md "wikilink")、[夏晨琨二段](../Page/夏晨琨.md "wikilink")
 
   - ：[李昌镐九段](https://zh.wikipedia.org/wiki/李昌镐 "wikilink")、[安祚永九段](https://zh.wikipedia.org/wiki/安祚永 "wikilink")、[洪性志九段](https://zh.wikipedia.org/wiki/洪性志 "wikilink")、[睦镇硕九段](../Page/睦镇硕.md "wikilink")、[安亨浚三段](https://zh.wikipedia.org/wiki/安亨浚 "wikilink")、[姜东润九段](../Page/姜东润.md "wikilink")、[金成进二段](https://zh.wikipedia.org/wiki/金成进 "wikilink")、[崔哲瀚九段](../Page/崔哲瀚.md "wikilink")
 
@@ -409,18 +409,18 @@
 
 预选赛于2018年4月2-7日在韩国举行\[6\]\[7\] 预选赛出线名单：\[8\]
 
-  - ：[时越](../Page/时越.md "wikilink")、[钟文靖](https://zh.wikipedia.org/wiki/钟文靖 "wikilink")、[杨鼎新](../Page/杨鼎新.md "wikilink")、[范胤](https://zh.wikipedia.org/wiki/范胤 "wikilink")、[彭立尧](https://zh.wikipedia.org/wiki/彭立尧 "wikilink")、[唐韦星](../Page/唐韦星.md "wikilink")、[俞斌](../Page/俞斌.md "wikilink")、[范蕴若](https://zh.wikipedia.org/wiki/范蕴若 "wikilink")、[江维杰](https://zh.wikipedia.org/wiki/江维杰 "wikilink")、[赵晨宇](https://zh.wikipedia.org/wiki/赵晨宇 "wikilink")、[孟泰龄](https://zh.wikipedia.org/wiki/孟泰龄 "wikilink")、[范廷钰](../Page/范廷钰.md "wikilink")
+  - ：[时越](../Page/时越.md "wikilink")、[钟文靖](https://zh.wikipedia.org/wiki/钟文靖 "wikilink")、[杨鼎新](../Page/杨鼎新.md "wikilink")、[范胤](../Page/范胤.md "wikilink")、[彭立尧](https://zh.wikipedia.org/wiki/彭立尧 "wikilink")、[唐韦星](../Page/唐韦星.md "wikilink")、[俞斌](../Page/俞斌.md "wikilink")、[范蕴若](../Page/范蕴若.md "wikilink")、[江维杰](https://zh.wikipedia.org/wiki/江维杰 "wikilink")、[赵晨宇](https://zh.wikipedia.org/wiki/赵晨宇 "wikilink")、[孟泰龄](https://zh.wikipedia.org/wiki/孟泰龄 "wikilink")、[范廷钰](../Page/范廷钰.md "wikilink")
 
-  - ：[李元荣](https://zh.wikipedia.org/wiki/李元荣 "wikilink")、[卞相壹](https://zh.wikipedia.org/wiki/卞相壹 "wikilink")、[朴永训](../Page/朴永训.md "wikilink")、[崔哲瀚](../Page/崔哲瀚.md "wikilink")
+  - ：[李元荣](https://zh.wikipedia.org/wiki/李元荣 "wikilink")、[卞相壹](../Page/卞相壹.md "wikilink")、[朴永训](../Page/朴永训.md "wikilink")、[崔哲瀚](../Page/崔哲瀚.md "wikilink")
 
 
 种子棋手名单：
 
-  - ：[柯洁](https://zh.wikipedia.org/wiki/柯洁 "wikilink")、[谢尔豪](../Page/谢尔豪.md "wikilink")、[辜梓豪](../Page/辜梓豪.md "wikilink")、[檀啸](../Page/檀啸.md "wikilink")
+  - ：[柯洁](../Page/柯洁.md "wikilink")、[谢尔豪](../Page/谢尔豪.md "wikilink")、[辜梓豪](../Page/辜梓豪.md "wikilink")、[檀啸](../Page/檀啸.md "wikilink")
 
   - ：[李世石](https://zh.wikipedia.org/wiki/李世石 "wikilink")、[元晟溱](../Page/元晟溱.md "wikilink")、[姜东润](../Page/姜东润.md "wikilink")、[金志锡](https://zh.wikipedia.org/wiki/金志锡 "wikilink")、[朴廷桓](../Page/朴廷桓.md "wikilink")、[申真谞](../Page/申真谞.md "wikilink")
 
-  - ：[井山裕太](../Page/井山裕太.md "wikilink")、[伊田笃史](https://zh.wikipedia.org/wiki/伊田笃史 "wikilink")、[一力辽](https://zh.wikipedia.org/wiki/一力辽 "wikilink")、[芝野虎丸](https://zh.wikipedia.org/wiki/芝野虎丸 "wikilink")
+  - ：[井山裕太](../Page/井山裕太.md "wikilink")、[伊田笃史](https://zh.wikipedia.org/wiki/伊田笃史 "wikilink")、[一力辽](https://zh.wikipedia.org/wiki/一力辽 "wikilink")、[芝野虎丸](../Page/芝野虎丸.md "wikilink")
 
   - ：[陈祈睿](https://zh.wikipedia.org/wiki/陈祈睿 "wikilink")
 

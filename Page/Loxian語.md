@@ -20,7 +20,7 @@ shorthand)等元素。
 ## 批評
 
 [都柏林大學的英語教授](../Page/都柏林大學.md "wikilink") Terry Dolan 在檢視過 Loxian
-之後，認為其語言本身含有許多其他語言的元素，例如[盎格魯撒克遜語](https://zh.wikipedia.org/wiki/盎格魯撒克遜語 "wikilink")、[北印度語](https://zh.wikipedia.org/wiki/北印度語 "wikilink")、[威爾斯語及](https://zh.wikipedia.org/wiki/威爾斯語 "wikilink")[西伯利亞](https://zh.wikipedia.org/wiki/西伯利亞 "wikilink")[尤皮克语](../Page/尤皮克语.md "wikilink")，也批評它是一種「混雜拼湊組合的[語言](https://zh.wikipedia.org/wiki/語言 "wikilink")」（very
+之後，認為其語言本身含有許多其他語言的元素，例如[盎格魯撒克遜語](https://zh.wikipedia.org/wiki/盎格魯撒克遜語 "wikilink")、[北印度語](https://zh.wikipedia.org/wiki/北印度語 "wikilink")、[威爾斯語及](https://zh.wikipedia.org/wiki/威爾斯語 "wikilink")[西伯利亞](https://zh.wikipedia.org/wiki/西伯利亞 "wikilink")[尤皮克语](../Page/尤皮克语.md "wikilink")，也批評它是一種「混雜拼湊組合的[語言](../Page/語言.md "wikilink")」（very
 mixum-gatherum
 linguistically），毫無[文法或](../Page/文法.md "wikilink")[詞序](https://zh.wikipedia.org/wiki/詞序 "wikilink")，令人難以理解。
 

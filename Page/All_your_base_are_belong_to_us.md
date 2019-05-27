@@ -136,7 +136,7 @@ bases”。至少，也應該改作「All your bases belong to us」以合乎文
 <!-- end list -->
 
   - 在
-    《[戰地風雲3](../Page/戰地風雲3.md "wikilink")》中的「征服模式」的勳章[狗牌上](https://zh.wikipedia.org/wiki/军人身份确认牌 "wikilink")，刻有三張旗子，分別寫著“ALL”、“YOUR”和“BASE”，正是「All
+    《[戰地風雲3](../Page/戰地風雲3.md "wikilink")》中的「征服模式」的勳章[狗牌上](../Page/军人身份确认牌.md "wikilink")，刻有三張旗子，分別寫著“ALL”、“YOUR”和“BASE”，正是「All
     your base are belong to us」的簡稱。\[17\]
 
 <!-- end list -->

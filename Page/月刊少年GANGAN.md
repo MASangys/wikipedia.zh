@@ -29,7 +29,7 @@ Enix發行的月刊少年](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")
 
   - [海貓鳴泣之時散 episode7 - Requiem of the golden
     witch](https://zh.wikipedia.org/wiki/海貓鳴泣之時散_episode7_-_Requiem_of_the_golden_witch "wikilink")
-    （原作・監修：[竜騎士07](https://zh.wikipedia.org/wiki/竜騎士07 "wikilink")、作画：[水野英多](https://zh.wikipedia.org/wiki/水野英多 "wikilink")）
+    （原作・監修：[竜騎士07](https://zh.wikipedia.org/wiki/竜騎士07 "wikilink")、作画：[水野英多](../Page/水野英多.md "wikilink")）
     2011年5月号-
 
   - [咲-Saki-阿知賀編 episode of side-A](../Page/咲-Saki-.md "wikilink")
@@ -73,13 +73,13 @@ Enix發行的月刊少年](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")
   - [JUDGE](https://zh.wikipedia.org/wiki/JUDGE "wikilink")
     (ジャッジ[外海良基](../Page/外海良基.md "wikilink"))
   - [Soul Eater
-    Not\!](https://zh.wikipedia.org/wiki/Soul_Eater_Not! "wikilink")（[大久保篤](https://zh.wikipedia.org/wiki/大久保篤 "wikilink")）
+    Not\!](../Page/Soul_Eater_Not!.md "wikilink")（[大久保篤](https://zh.wikipedia.org/wiki/大久保篤 "wikilink")）
   - [666～サタン～](../Page/666～撒旦～.md "wikilink")（[岸本聖史](https://zh.wikipedia.org/wiki/岸本聖史 "wikilink")）
   - [里見☆八犬伝](https://zh.wikipedia.org/wiki/里見☆八犬伝 "wikilink")（[よしむらなつき](https://zh.wikipedia.org/wiki/よしむらなつき "wikilink")）
   - [少年偵探～推理之絆～](https://zh.wikipedia.org/wiki/少年偵探 "wikilink")（原作：[城平京](../Page/城平京.md "wikilink")
-    作画：[水野英多](https://zh.wikipedia.org/wiki/水野英多 "wikilink")）
+    作画：[水野英多](../Page/水野英多.md "wikilink")）
   - [少年偵探～螺旋重現～](https://zh.wikipedia.org/wiki/少年偵探 "wikilink")（原作：[城平京](../Page/城平京.md "wikilink")
-    作画：[水野英多](https://zh.wikipedia.org/wiki/水野英多 "wikilink")）
+    作画：[水野英多](../Page/水野英多.md "wikilink")）
   - [勇者鬥惡龍](https://zh.wikipedia.org/wiki/勇者鬥惡龍 "wikilink")（[藤原カムイ](https://zh.wikipedia.org/wiki/藤原カムイ "wikilink")）
   - [勇者鬥惡龍
     伊甸的戰士](https://zh.wikipedia.org/wiki/勇者鬥惡龍 "wikilink")（[藤原カムイ](https://zh.wikipedia.org/wiki/藤原カムイ "wikilink")）

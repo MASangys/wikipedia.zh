@@ -17,7 +17,7 @@ DK，即**捷格加廖夫大口径机枪**。该武器在1930年設計，在1933
 1938**，並成為[二戰及之后蘇聯軍隊的制式重機槍](https://zh.wikipedia.org/wiki/二戰 "wikilink")。
 [DShK_on_T-55_DD-SD-01-05147.JPEG](https://zh.wikipedia.org/wiki/File:DShK_on_T-55_DD-SD-01-05147.JPEG "fig:DShK_on_T-55_DD-SD-01-05147.JPEG")坦克上的DShKM防空機槍。\]\]
 
-DShK在[二戰時被大量採用](https://zh.wikipedia.org/wiki/二戰 "wikilink")，通常裝在轉軸三腳架作固定防空用途，或裝在[GAZ-AA防空裝甲車上](https://zh.wikipedia.org/wiki/GAZ-AA "wikilink")。[二戰後期](https://zh.wikipedia.org/wiki/二戰 "wikilink")，DShK亦被在[IS-2坦克及](https://zh.wikipedia.org/wiki/IS-2 "wikilink")[ISU-152自走砲上](https://zh.wikipedia.org/wiki/ISU-152 "wikilink")。DShK也被步兵用作支援用途，裝在輪式射架上，亦有被用作同軸機槍，如[T-40輕型](https://zh.wikipedia.org/wiki/T-40 "wikilink")[兩棲坦克](https://zh.wikipedia.org/wiki/兩棲坦克 "wikilink")。
+DShK在[二戰時被大量採用](https://zh.wikipedia.org/wiki/二戰 "wikilink")，通常裝在轉軸三腳架作固定防空用途，或裝在[GAZ-AA防空裝甲車上](../Page/GAZ-AA.md "wikilink")。[二戰後期](https://zh.wikipedia.org/wiki/二戰 "wikilink")，DShK亦被在[IS-2坦克及](https://zh.wikipedia.org/wiki/IS-2 "wikilink")[ISU-152自走砲上](https://zh.wikipedia.org/wiki/ISU-152 "wikilink")。DShK也被步兵用作支援用途，裝在輪式射架上，亦有被用作同軸機槍，如[T-40輕型](https://zh.wikipedia.org/wiki/T-40 "wikilink")[兩棲坦克](https://zh.wikipedia.org/wiki/兩棲坦克 "wikilink")。
 
 DShK亦被不少國家特許生產，如[中國](../Page/中國.md "wikilink")（54式或54-1式重機槍）、[巴基斯坦及](../Page/巴基斯坦.md "wikilink")[羅馬尼亞等](../Page/羅馬尼亞.md "wikilink")，[越戰中亦有出現](https://zh.wikipedia.org/wiki/越戰 "wikilink")。自1970年代起，[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")／[俄羅斯軍隊開始以較現代化的](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[NSV重機槍和](../Page/NSV重機槍.md "wikilink")[Kord重機槍取代DShK](../Page/Kord重機槍.md "wikilink")，但直至近年仍有部分[俄羅斯軍隊裝備](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。
 
@@ -219,7 +219,7 @@ DShK也是一種廣被[準軍事組織和](https://zh.wikipedia.org/wiki/準軍�
   - [阿富汗](../Page/阿富汗.md "wikilink")[聖戰者](../Page/聖戰者.md "wikilink")
   - [車臣武裝份子](https://zh.wikipedia.org/wiki/車臣 "wikilink")
   - [伊拉克叛軍](../Page/伊拉克.md "wikilink")\[69\]
-  - [臨時愛爾蘭共和軍](https://zh.wikipedia.org/wiki/臨時愛爾蘭共和軍 "wikilink")\[70\]
+  - [臨時愛爾蘭共和軍](../Page/臨時愛爾蘭共和軍.md "wikilink")\[70\]
   - [越南南方民族解放陣線](../Page/越南南方民族解放陣線.md "wikilink")－[越戰時廣泛使用](https://zh.wikipedia.org/wiki/越戰 "wikilink")。\[71\]
   - [反卡扎菲勢力](https://zh.wikipedia.org/wiki/反卡扎菲勢力 "wikilink")－在[2011年利比亞內戰中使用](https://zh.wikipedia.org/wiki/2011年利比亞內戰 "wikilink")，大部份裝在[武裝改裝車上](https://zh.wikipedia.org/wiki/武裝改裝車 "wikilink")。\[72\]
   - [敘利亞自由軍](https://zh.wikipedia.org/wiki/敘利亞自由軍 "wikilink")
@@ -230,7 +230,7 @@ DShK也是一種廣被[準軍事組織和](https://zh.wikipedia.org/wiki/準軍�
 
 <references/>
 
-  - [UB航空機槍](https://zh.wikipedia.org/wiki/UB航空機槍 "wikilink")
+  - [UB航空機槍](../Page/UB航空機槍.md "wikilink")
   - [NSV重機槍](../Page/NSV重機槍.md "wikilink")
   - [KPV重機槍](../Page/KPV重機槍.md "wikilink")
   - [白朗寧M2重機槍](../Page/白朗寧M2重機槍.md "wikilink")（[美国相同用途的重機槍](../Page/美国.md "wikilink")）

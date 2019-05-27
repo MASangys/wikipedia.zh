@@ -20,7 +20,7 @@ Dyne》，並在1994年以季刊誌的《Comic電擊大王》為名創刊。在�
   - [相対性モテ論](https://zh.wikipedia.org/wiki/相対性モテ論 "wikilink")（原作：[築地俊彦](https://zh.wikipedia.org/wiki/築地俊彦 "wikilink")
     作画：[前田理想](https://zh.wikipedia.org/wiki/前田理想 "wikilink")）
   - [情色女作家的正義](https://zh.wikipedia.org/wiki/情色女作家的正義 "wikilink")（原名：、作者：[真田鈴](../Page/真田鈴.md "wikilink")）
-  - [Doubt\!](https://zh.wikipedia.org/wiki/Doubt! "wikilink")（[天乃咲哉](../Page/天乃咲哉.md "wikilink")）
+  - [Doubt\!](../Page/Doubt!.md "wikilink")（[天乃咲哉](../Page/天乃咲哉.md "wikilink")）
   - [虎吻 A School
     Odyssey](https://zh.wikipedia.org/wiki/虎吻_A_School_Odyssey "wikilink")（原名：、原作：[鴨志田一](https://zh.wikipedia.org/wiki/鴨志田一 "wikilink")
     作画：[トマトマト](https://zh.wikipedia.org/wiki/トマトマト "wikilink")）
@@ -31,7 +31,7 @@ Dyne》，並在1994年以季刊誌的《Comic電擊大王》為名創刊。在�
     （[kashmir](https://zh.wikipedia.org/wiki/kashmir "wikilink")）
   - [四葉妹妹\!](https://zh.wikipedia.org/wiki/四葉妹妹! "wikilink")（[東清彥](https://zh.wikipedia.org/wiki/東清彥 "wikilink")）
   - [理香和春和溫泉和海豚](https://zh.wikipedia.org/wiki/理香和春和溫泉和海豚 "wikilink")（原名：、作者：[ヒジキ](https://zh.wikipedia.org/wiki/ヒジキ "wikilink")）
-  - [終將成為妳](https://zh.wikipedia.org/wiki/終將成為妳 "wikilink")（原名：やがて君になる、作者：仲谷鳰）
+  - [終將成為妳](../Page/終將成為妳.md "wikilink")（原名：やがて君になる、作者：仲谷鳰）
 
 ### MediaWorks企劃
 
@@ -51,13 +51,12 @@ Dyne》，並在1994年以季刊誌的《Comic電擊大王》為名創刊。在�
     BLOOD](https://zh.wikipedia.org/wiki/STRIKE_THE_BLOOD "wikilink")（原名：ストライク・ザ・ブラッド、原作：[三雲岳斗](../Page/三雲岳斗.md "wikilink")、作画：[TATE](https://zh.wikipedia.org/wiki/TATE "wikilink")、角色設計：[マニャ子](https://zh.wikipedia.org/wiki/マニャ子 "wikilink")）
   - [すぴぱら girl's
     diary](https://zh.wikipedia.org/wiki/すぴぱら "wikilink")（[犬居なぎ](https://zh.wikipedia.org/wiki/犬居なぎ "wikilink")）
-  - [天元突破紅蓮螺巖](https://zh.wikipedia.org/wiki/天元突破紅蓮螺巖 "wikilink")（[森小太郎](https://zh.wikipedia.org/wiki/森小太郎 "wikilink")
+  - [天元突破紅蓮螺巖](https://zh.wikipedia.org/wiki/天元突破紅蓮螺巖 "wikilink")（[森小太郎](../Page/森小太郎.md "wikilink")
     原作：[GAINAX](../Page/GAINAX.md "wikilink")、監修：[中島かずき](https://zh.wikipedia.org/wiki/中島かずき "wikilink")）
     - 從『電撃コミックガオ\!』移籍
   - [科學超電磁砲](../Page/科學超電磁砲.md "wikilink")（原作：[鎌池和馬](../Page/鎌池和馬.md "wikilink")、作画：[冬川基](https://zh.wikipedia.org/wiki/冬川基 "wikilink")、角色設計：[はいむらきよたか](../Page/灰村清孝.md "wikilink")）
   - [TIGER×DRAGON！](../Page/TIGER×DRAGON！.md "wikilink")（原作：[竹宮悠由子](../Page/竹宮悠由子.md "wikilink")
-    作画：[絕叫](https://zh.wikipedia.org/wiki/絕叫 "wikilink")） -
-    從『電撃コミックガオ\!』移籍
+    作画：[絕叫](../Page/絕叫.md "wikilink")） - 從『電撃コミックガオ\!』移籍
   - [打工吧！魔王大人](https://zh.wikipedia.org/wiki/打工吧！魔王大人 "wikilink")（原作：[和ヶ原聡司](https://zh.wikipedia.org/wiki/和ヶ原聡司 "wikilink")、作画：[柊暁生](https://zh.wikipedia.org/wiki/柊暁生 "wikilink")、角色設計：[029](https://zh.wikipedia.org/wiki/029 "wikilink")）
   - [Muv-Luv
     Alternative](../Page/Muv-Luv_Alternative.md "wikilink")（原作：[アージュ](https://zh.wikipedia.org/wiki/アージュ "wikilink")、作画：[蒔島梓](https://zh.wikipedia.org/wiki/蒔島梓 "wikilink")）
@@ -65,15 +64,15 @@ Dyne》，並在1994年以季刊誌的《Comic電擊大王》為名創刊。在�
     rising](../Page/Muv-Luv_Alternative_Total_Eclipse.md "wikilink")（原名：マブラヴ
     オルタネイティヴ トータル・イクリプス
     rising、原作：[吉宗鋼紀](https://zh.wikipedia.org/wiki/吉田博彦 "wikilink")、作画：[ROHGUN](https://zh.wikipedia.org/wiki/ROHGUN "wikilink")）
-  - [魔法科高中的優等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")（原作：[佐島勤](https://zh.wikipedia.org/wiki/佐島勤 "wikilink")、作画：[森夕](https://zh.wikipedia.org/wiki/森夕 "wikilink")、角色設計：[石田可奈](https://zh.wikipedia.org/wiki/石田可奈 "wikilink")）
+  - [魔法科高中的優等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")（原作：[佐島勤](https://zh.wikipedia.org/wiki/佐島勤 "wikilink")、作画：[森夕](https://zh.wikipedia.org/wiki/森夕 "wikilink")、角色設計：[石田可奈](../Page/石田可奈.md "wikilink")）
   - [紫色的Qualia](../Page/紫色的Qualia.md "wikilink")（原作：[うえお久光](https://zh.wikipedia.org/wiki/うえお久光 "wikilink")、作画：[綱島志朗](https://zh.wikipedia.org/wiki/綱島志朗 "wikilink")）
   - [Rewrite:Side-R](../Page/Rewrite.md "wikilink")（原作：[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")、作画：[川上修一](https://zh.wikipedia.org/wiki/川上修一 "wikilink")）
   - [記錄的地平線外傳 Honey Moon
     Logs](../Page/記錄的地平線.md "wikilink")（原作：[橙乃ままれ](https://zh.wikipedia.org/wiki/橙乃ままれ "wikilink")、作画：[松モトヤ](https://zh.wikipedia.org/wiki/松モトヤ "wikilink")）
   - [我家有個狐仙大人](../Page/我家有個狐仙大人.md "wikilink")（原作：[柴村仁](../Page/柴村仁.md "wikilink")
     作画：[松風水蓮](https://zh.wikipedia.org/wiki/松風水蓮 "wikilink")
-    角色設計：[放電映像](https://zh.wikipedia.org/wiki/放電映像 "wikilink")）
-    - 從『電撃コミックガオ\!』移籍
+    角色設計：[放電映像](../Page/放電映像.md "wikilink")） -
+    從『電撃コミックガオ\!』移籍
   - [Walkure Romanze
     少女騎士物語](../Page/Walkure_Romanze_少女騎士物語.md "wikilink")（原作：[Ricotta](../Page/Ricotta.md "wikilink")
     作画：[蜜キング](https://zh.wikipedia.org/wiki/蜜キング "wikilink")
@@ -210,7 +209,7 @@ Dyne》，並在1994年以季刊誌的《Comic電擊大王》為名創刊。在�
   - [To Heart 2](../Page/To_Heart_2.md "wikilink")
   - [夜明前的琉璃色](../Page/夜明前的琉璃色.md "wikilink")（夜明け前より瑠璃色な）
   - [神的記事本](../Page/神的記事本.md "wikilink")（作画：[Tiv](../Page/Tiv.md "wikilink")、原作：[杉井光](../Page/杉井光.md "wikilink")、角色原案：[岸田梅爾](../Page/岸田梅爾.md "wikilink")）
-  - [野狼大神與七位夥伴](../Page/野狼大神.md "wikilink")（原作：[沖田雅](https://zh.wikipedia.org/wiki/沖田雅 "wikilink")、作画：[珠洲城くるみ](https://zh.wikipedia.org/wiki/珠洲城くるみ "wikilink")、角色設計：[うなじ](https://zh.wikipedia.org/wiki/うなじ_\(イラストレーター\) "wikilink")）
+  - [野狼大神與七位夥伴](../Page/野狼大神.md "wikilink")（原作：[沖田雅](../Page/沖田雅.md "wikilink")、作画：[珠洲城くるみ](https://zh.wikipedia.org/wiki/珠洲城くるみ "wikilink")、角色設計：[うなじ](https://zh.wikipedia.org/wiki/うなじ_\(イラストレーター\) "wikilink")）
 
 ## 外部連結
 

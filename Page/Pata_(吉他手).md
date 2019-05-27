@@ -13,7 +13,7 @@ PATA有一分鐘彈奏結他700至800下的超凡造詣，就連已故隊員[HID
 
   - 與搖滾歌手[NoB](https://zh.wikipedia.org/wiki/NoB "wikilink")（[山田信夫](../Page/山田信夫.md "wikilink")）結成P.A.F.。
   - 曾隷屬於Dope HEADz。目前活動休止。
-  - 2002年與原[TENSAW樂團貝斯手](https://zh.wikipedia.org/wiki/TENSAW "wikilink")[鈴木享明](../Page/鈴木享明.md "wikilink")、鼓手[向山Tetsu共組](https://zh.wikipedia.org/wiki/向山Tetsu "wikilink")[Ra:IN樂團](https://zh.wikipedia.org/wiki/Ra:IN "wikilink")。（2007年鍵盤手DIE加入）
+  - 2002年與原[TENSAW樂團貝斯手](https://zh.wikipedia.org/wiki/TENSAW "wikilink")[鈴木享明](../Page/鈴木享明.md "wikilink")、鼓手[向山Tetsu共組](https://zh.wikipedia.org/wiki/向山Tetsu "wikilink")[Ra:IN樂團](../Page/Ra:IN.md "wikilink")。（2007年鍵盤手DIE加入）
   - 目前仍以Ra:IN樂團吉他手的身份從事各項音樂活動，並參與過[相川七瀨](../Page/相川七瀨.md "wikilink")、[上杉昇等多位歌手的各地巡迴演出](https://zh.wikipedia.org/wiki/上杉昇 "wikilink")。
 
 ## 個人作品
@@ -120,7 +120,7 @@ PATA有一分鐘彈奏結他700至800下的超凡造詣，就連已故隊員[HID
   - 2002年1月: Dope HEADz新主唱Shame（EX.Ravecraft）加入。
   - 2002年7月24日: Dope HEADz發表第二張專輯「PLANET　OF　THE　Dope」。
   - 2002年夏天:
-    與原[TENSAW樂團貝斯手](https://zh.wikipedia.org/wiki/TENSAW "wikilink")[鈴木享明](../Page/鈴木享明.md "wikilink")、鼓手[向山Tetsu](https://zh.wikipedia.org/wiki/向山Tetsu "wikilink")（創作女歌手[cocco的固定合作班底](https://zh.wikipedia.org/wiki/cocco "wikilink")）組成[Ra:IN樂團](https://zh.wikipedia.org/wiki/Ra:IN "wikilink")。
+    與原[TENSAW樂團貝斯手](https://zh.wikipedia.org/wiki/TENSAW "wikilink")[鈴木享明](../Page/鈴木享明.md "wikilink")、鼓手[向山Tetsu](https://zh.wikipedia.org/wiki/向山Tetsu "wikilink")（創作女歌手[cocco的固定合作班底](https://zh.wikipedia.org/wiki/cocco "wikilink")）組成[Ra:IN樂團](../Page/Ra:IN.md "wikilink")。
   - 2003年3月: Dope HEADz活動暫時休止。
   - 2003年: Ra:IN發行Live會場限定販賣的Maxi單曲「The Border」。（註：封面是PATA的愛犬"海-Kai"）
   - 2003年11月7日: Ra:IN發表第一張專輯「The Line」。

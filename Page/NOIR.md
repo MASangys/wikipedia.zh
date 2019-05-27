@@ -22,10 +22,10 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
 
 ## 製作團隊
 
-  - 原案、構成、腳本 - [月村了衛](https://zh.wikipedia.org/wiki/月村了衛 "wikilink")
+  - 原案、構成、腳本 - [月村了衛](../Page/月村了衛.md "wikilink")
   - 監督、音響演出 - [真下耕一](../Page/真下耕一.md "wikilink")
   - 人物設計 -
-    [菊地洋子](../Page/菊地洋子.md "wikilink")、[芝美奈子](https://zh.wikipedia.org/wiki/芝美奈子 "wikilink")、宮地聰子
+    [菊地洋子](../Page/菊地洋子.md "wikilink")、[芝美奈子](../Page/芝美奈子.md "wikilink")、宮地聰子
   - 機械設計 - [寺岡賢司](https://zh.wikipedia.org/wiki/寺岡賢司 "wikilink")
   - 色彩設計 - 片山由美子
   - 美術監督 - 小山俊久
@@ -34,9 +34,8 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
   - 音樂 - [梶浦由記](../Page/梶浦由記.md "wikilink")
   - 製作人 - 北山茂
   - 動畫製作人 - 江川功爾憲、神林名里
-  - 動畫製作 - [BEE
-    TRAIN](https://zh.wikipedia.org/wiki/BEE_TRAIN "wikilink")
-  - 製作 - [勝利娛樂](https://zh.wikipedia.org/wiki/勝利娛樂 "wikilink")
+  - 動畫製作 - [BEE TRAIN](../Page/BEE_TRAIN.md "wikilink")
+  - 製作 - [勝利娛樂](../Page/勝利娛樂.md "wikilink")
 
 ## 主題曲
 
@@ -87,7 +86,7 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
 <tr class="even">
 <td><p>第2話</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/橘正紀" title="wikilink">橘正紀</a></p></td>
+<td><p><a href="../Page/橘正紀.md" title="wikilink">橘正紀</a></p></td>
 <td><p>門智昭</p></td>
 <td></td>
 </tr>
@@ -103,14 +102,14 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
 <td><p>第4話</p></td>
 <td></td>
 <td><p>有江勇樹</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/芝美奈子" title="wikilink">芝美奈子</a></p></td>
+<td><p><a href="../Page/芝美奈子.md" title="wikilink">芝美奈子</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第5話</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/多田俊介" title="wikilink">多田俊介</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/川面真也" title="wikilink">川面真也</a></p></td>
+<td><p><a href="../Page/川面真也.md" title="wikilink">川面真也</a></p></td>
 <td><p>津幡佳明</p></td>
 </tr>
 <tr class="even">
@@ -216,7 +215,7 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
 <td><p>第20話</p></td>
 <td></td>
 <td><p>山本秀世</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/田中雄一" title="wikilink">田中雄一</a></p></td>
+<td><p><a href="../Page/田中雄一.md" title="wikilink">田中雄一</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

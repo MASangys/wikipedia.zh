@@ -56,7 +56,7 @@ Pitchfork Media選為1970年代中第七偉大的專輯。
 
   - Graphreaks – 設計協調
 
-  -  – [音訊工程](https://zh.wikipedia.org/wiki/音訊工程師 "wikilink")、混音
+  -  – [音訊工程](../Page/音訊工程師.md "wikilink")、混音
 
   - Joe Sidore – 音頻母帶調整（1984年光碟版）
 

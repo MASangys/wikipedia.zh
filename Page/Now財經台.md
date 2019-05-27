@@ -1,7 +1,7 @@
 [HK_Telecom_House_201612.jpg](https://zh.wikipedia.org/wiki/File:HK_Telecom_House_201612.jpg "fig:HK_Telecom_House_201612.jpg")
 **now財經台**（第333頻道），是香港[now寬頻電視首個自製的電視頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，於2006年3月20日09:00啟播，同日10:00正式開台。now財經台是24小時財經新聞頻道，其直播新聞中心位於[香港](../Page/香港.md "wikilink")[灣仔](../Page/灣仔.md "wikilink")[電訊大廈](https://zh.wikipedia.org/wiki/電訊大廈 "wikilink")，亦於[香港交易所設有直播室](../Page/香港交易所.md "wikilink")。每個港股交易日交易時段直播，緊貼香港股市情況，該台其中一個特點是設有全港首創之電視報價服務，觀眾只需透過遙控器，便可在電視螢幕得到一小時延遲金股匯市免費報價服務，同時在2006年8月3日起，觀眾亦可付費訂購即時報價服務；另外由2006年9月6日起，觀眾更可付費訂購now財經台自選服務，隨時收看該-{台}-的精選節目《大鳴大放》、《樓市每日睇》及《環球金融快線》，平日亦設有新聞、財經、時事討論節目等，由2006年12月9日起，假日全日增設新聞報導，並重播部分精選與[港台的電視節目](../Page/香港電台.md "wikilink")。而在交易時段期間的新聞提要，則由2007年5月2日起全面取消。2007年10月24日，[now新聞台啟播](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")，now財經台播放的新聞報道時段改與now新聞台聯播，並開始播放在財經台單獨播放的《now財經新聞》。2010年9月20日，now財經台進行改革（主要是於now財經台直播室的玻璃窗加上磨紗），連帶[now新聞台的資料列顯示亦同時出現改變](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")，改革初期曾錯誤將財經節目的結尾改成「now新聞台製作」。
 
-頻道之競爭對手為[香港有線電視的](../Page/香港有線電視.md "wikilink")[有線財經資訊台](../Page/有線財經資訊台.md "wikilink")、[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[無綫財經·資訊台和交易時段內的](https://zh.wikipedia.org/wiki/無綫財經·資訊台 "wikilink")[奇妙電視](../Page/奇妙電視.md "wikilink")[香港開電視](../Page/香港開電視.md "wikilink")。
+頻道之競爭對手為[香港有線電視的](../Page/香港有線電視.md "wikilink")[有線財經資訊台](../Page/有線財經資訊台.md "wikilink")、[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[無綫財經·資訊台和交易時段內的](../Page/無綫財經·資訊台.md "wikilink")[奇妙電視](../Page/奇妙電視.md "wikilink")[香港開電視](../Page/香港開電視.md "wikilink")。
 
 此台的所有電視和拍攝畫面，使用[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")
 [XDCAM拍攝並以](../Page/XDCAM.md "wikilink")[Professional
@@ -465,7 +465,7 @@ now財經台直播室（右方）<br />
 附註：如果當日港股下午休市，<br />
 12:50-17:00改為與now新聞台聯播節目<br />
 <br />
-附註1：如《城市論壇》暫停播映，改為播映<a href="https://zh.wikipedia.org/wiki/港台電視31、31A" title="wikilink">港台電視31、31A當日</a>12:00節目<br />
+附註1：如《城市論壇》暫停播映，改為播映<a href="../Page/港台電視31、31A.md" title="wikilink">港台電視31、31A當日</a>12:00節目<br />
 <br />
 附註2：立法會暑期休會期間，《議事論事》暫停播映，改為重播其他港台節目</p></td>
 <td></td>

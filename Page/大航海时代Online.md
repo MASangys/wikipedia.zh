@@ -233,7 +233,7 @@
 
 ### 中国大陆
 
-  - 2006年6月1日－2007年9月2日，[盛宣鸣代理](https://zh.wikipedia.org/wiki/盛宣鸣 "wikilink")。
+  - 2006年6月1日－2007年9月2日，[盛宣鸣代理](../Page/盛宣鸣.md "wikilink")。
   - 2007年10月30日－2010年11月26日，[中荣巡游代理](https://zh.wikipedia.org/wiki/中荣巡游 "wikilink")。
   - 2012年10月18日－至今，[上海天戏代理](https://zh.wikipedia.org/wiki/上海天戏 "wikilink")。
 

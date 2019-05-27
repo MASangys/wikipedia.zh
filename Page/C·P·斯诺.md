@@ -31,7 +31,7 @@ Galdós），[亨利·詹姆斯和](../Page/亨利·詹姆斯.md "wikilink")[马
 
 ## 值得注意的观点与见解
 
-斯诺最值得人们注意的是他关于他“[兩種文化](https://zh.wikipedia.org/wiki/兩種文化 "wikilink")”这一概念的讲演与书籍。这一概念在他的《[两种文化与科学变革](https://zh.wikipedia.org/wiki/两种文化与科学变革 "wikilink")》（*[The
+斯诺最值得人们注意的是他关于他“[兩種文化](../Page/兩種文化.md "wikilink")”这一概念的讲演与书籍。这一概念在他的《[两种文化与科学变革](https://zh.wikipedia.org/wiki/两种文化与科学变革 "wikilink")》（*[The
 Two Cultures and the Scientific
 Revolution](https://zh.wikipedia.org/wiki/:en:The_Two_Cultures_and_the_Scientific_Revolution "wikilink")*，1959年出版）。在这本书中，斯诺注意到[科学与](../Page/科学.md "wikilink")[人文中联系的中断对解决](https://zh.wikipedia.org/wiki/人文 "wikilink")[世界上的问题是一个主要障碍](../Page/世界.md "wikilink")。
 

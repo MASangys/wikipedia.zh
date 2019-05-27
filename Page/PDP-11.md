@@ -347,7 +347,7 @@ Professional系列為桌上型個人電腦](https://zh.wikipedia.org/wiki/DEC_Pr
     BK-0010](https://zh.wikipedia.org/wiki/Electronics_BK-0010 "wikilink")，[DVK](https://zh.wikipedia.org/wiki/DVK "wikilink")，[UKNC](https://zh.wikipedia.org/wiki/UKNC "wikilink")（[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")）
   - [SM-4](https://zh.wikipedia.org/wiki/SM-4 "wikilink")，[SM-1420](https://zh.wikipedia.org/wiki/SM-1420 "wikilink")，[IZOT-1016與週邊設備](https://zh.wikipedia.org/wiki/IZOT-1016 "wikilink")（[保加利亞](https://zh.wikipedia.org/wiki/保加利亞 "wikilink")）。
   - [SM-1420](https://zh.wikipedia.org/wiki/SM-1420 "wikilink")（[東德](../Page/東德.md "wikilink")）
-  - [Mera](https://zh.wikipedia.org/wiki/Mera "wikilink")（[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")）
+  - [Mera](../Page/Mera.md "wikilink")（[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")）
   - [SM-4](https://zh.wikipedia.org/wiki/SM-4 "wikilink")（[匈牙利](../Page/匈牙利.md "wikilink")）
   - 獨立設備（[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")）
 

@@ -1,5 +1,5 @@
-**BONES**（****）是日本的一家動畫工作室，由于旗下一些较高水準的动画作品，而受到业内外瞩目。被許多動畫迷視為業界良心。其代表作有《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師_\(電視動畫\) "wikilink")》、《[交响诗篇](../Page/交响诗篇.md "wikilink")》、《[狼雨](../Page/狼雨.md "wikilink")》、《[櫻蘭高校男公關部](../Page/櫻蘭高校男公關部.md "wikilink")》、《[東京震級8.0](https://zh.wikipedia.org/wiki/東京震級8.0 "wikilink")》、《[血界戰線](https://zh.wikipedia.org/wiki/血界戰線 "wikilink")》、《[文豪Stray
-Dogs](https://zh.wikipedia.org/wiki/文豪Stray_Dogs "wikilink")》等等。
+**BONES**（****）是日本的一家動畫工作室，由于旗下一些较高水準的动画作品，而受到业内外瞩目。被許多動畫迷視為業界良心。其代表作有《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師_\(電視動畫\) "wikilink")》、《[交响诗篇](../Page/交响诗篇.md "wikilink")》、《[狼雨](../Page/狼雨.md "wikilink")》、《[櫻蘭高校男公關部](../Page/櫻蘭高校男公關部.md "wikilink")》、《[東京震級8.0](https://zh.wikipedia.org/wiki/東京震級8.0 "wikilink")》、《[血界戰線](../Page/血界戰線.md "wikilink")》、《[文豪Stray
+Dogs](../Page/文豪Stray_Dogs.md "wikilink")》等等。
 
 ## 历史
 
@@ -46,13 +46,13 @@ BONES工作室是在1998年10月由前[日昇動畫](../Page/日昇動畫.md "wi
   - \-{zh-hans:[野良神](https://zh.wikipedia.org/wiki/野良神 "wikilink");zh-hant:[流浪神差](../Page/流浪神差.md "wikilink");zh-cn:[野良神](https://zh.wikipedia.org/wiki/野良神 "wikilink");zh-tw:[流浪神差](../Page/流浪神差.md "wikilink");zh-hk:[流浪神差](../Page/流浪神差.md "wikilink");}-（2014年1月5日－3月23日）
   - [地球隊長](../Page/地球隊長.md "wikilink")（2014年4月5日－9月20日）
   - [Soul Eater
-    Not\!](https://zh.wikipedia.org/wiki/Soul_Eater_Not! "wikilink")（2014年4月8日－7月1日）
+    Not\!](../Page/Soul_Eater_Not!.md "wikilink")（2014年4月8日－7月1日）
   - [棺姬嘉依卡](../Page/棺姬嘉依卡.md "wikilink")（2014年4月9日－6月25日）
   - [棺姬嘉依卡 AVENGING
     BATTLE](../Page/棺姬嘉依卡.md "wikilink")（2014年10月8日－12月10日）
   - [SHOW BY
     ROCK\!\!](../Page/SHOW_BY_ROCK!!.md "wikilink")（2015年4月5日－2015年6月21日）
-  - [血界戰線](https://zh.wikipedia.org/wiki/血界戰線 "wikilink")（2015年4月5日－2015年10月4日）
+  - [血界戰線](../Page/血界戰線.md "wikilink")（2015年4月5日－2015年10月4日）
   - [赤髮白雪姬](../Page/赤髮白雪姬.md "wikilink")（2015年7月6日－2015年9月11日）
   - \-{zh-hans:[野良神](https://zh.wikipedia.org/wiki/野良神 "wikilink");zh-hant:[流浪神差](../Page/流浪神差.md "wikilink");zh-cn:[野良神](https://zh.wikipedia.org/wiki/野良神 "wikilink");zh-tw:[流浪神差](../Page/流浪神差.md "wikilink");zh-hk:[流浪神差](../Page/流浪神差.md "wikilink");}-
     ARAGOTO（2015年10月2日－2015年12月25日）
@@ -60,32 +60,23 @@ BONES工作室是在1998年10月由前[日昇動畫](../Page/日昇動畫.md "wi
   - [赤髮白雪姬](../Page/赤髮白雪姬.md "wikilink") 第二期（2016年1月11日－2016年3月28日）
   - [超人幻想](../Page/Concrete_Revolutio～超人幻想～.md "wikilink")
     第二期（2016年4月10日－2016年6月19日）
-  - [我的英雄學院](https://zh.wikipedia.org/wiki/我的英雄學院 "wikilink") 第一季
-    （2016年4月3日－2016年6月26日）
-  - [文豪Stray
-    Dogs](https://zh.wikipedia.org/wiki/文豪Stray_Dogs "wikilink")
+  - [我的英雄學院](../Page/我的英雄學院.md "wikilink") 第一季 （2016年4月3日－2016年6月26日）
+  - [文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink")
     第一季（2016年4月6日－2016年6月22日）
   - [SHOW BY ROCK\!\!
     Short\!\!](../Page/SHOW_BY_ROCK!!.md "wikilink")（2016年7月4日－2016年9月19日）
-  - [路人超能100](https://zh.wikipedia.org/wiki/路人超能100 "wikilink")（2016年7月11日－9月26日）
+  - [路人超能100](../Page/路人超能100.md "wikilink")（2016年7月11日－9月26日）
   - [SHOW BY ROCK\!\!
     第二季](../Page/SHOW_BY_ROCK!!.md "wikilink")（2016年2016年10月2日－2016年12月18日）
-  - [文豪Stray
-    Dogs](https://zh.wikipedia.org/wiki/文豪Stray_Dogs "wikilink")
+  - [文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink")
     第二季（2016年10月6日－2016年12月16日）
-  - [我的英雄學院](https://zh.wikipedia.org/wiki/我的英雄學院 "wikilink") 第二季
-    （2017年4月1日 - 2017年9月30日）
-  - [血界戰線](https://zh.wikipedia.org/wiki/血界戰線 "wikilink")
-    第二季（2017年10月8日－2017年12月24日）
-  - [我的英雄學院](https://zh.wikipedia.org/wiki/我的英雄學院 "wikilink") 第三季
-    （2018年4月7日－9月29日）
-  - [飛龍女孩](https://zh.wikipedia.org/wiki/飛龍女孩 "wikilink")（2018年4月12日－2018年6月28日）
-  - [路人超能100](https://zh.wikipedia.org/wiki/路人超能100 "wikilink")
-    第二季（2019年1月7日－）
+  - [我的英雄學院](../Page/我的英雄學院.md "wikilink") 第二季 （2017年4月1日 - 2017年9月30日）
+  - [血界戰線](../Page/血界戰線.md "wikilink") 第二季（2017年10月8日－2017年12月24日）
+  - [我的英雄學院](../Page/我的英雄學院.md "wikilink") 第三季 （2018年4月7日－9月29日）
+  - [飛龍女孩](../Page/飛龍女孩.md "wikilink")（2018年4月12日－2018年6月28日）
+  - [路人超能100](../Page/路人超能100.md "wikilink") 第二季（2019年1月7日－）
   - [卡萝与星期二](https://zh.wikipedia.org/wiki/Carole_&_Tuesday "wikilink")（2019年4月10日－）
-  - [文豪Stray
-    Dogs](https://zh.wikipedia.org/wiki/文豪Stray_Dogs "wikilink")
-    第三季（2019年4月12日－）
+  - [文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink") 第三季（2019年4月12日－）
 
 <table>
 <thead>
@@ -149,8 +140,7 @@ BONES工作室是在1998年10月由前[日昇動畫](../Page/日昇動畫.md "wi
     嘆息之丘的神聖之星](../Page/鋼之鍊金術師_嘆息之丘的聖星.md "wikilink")（2011年7月2日公映）
   - [STAR DRIVER 閃亮的塔科特
     劇場版](../Page/STAR_DRIVER_閃亮的塔科特.md "wikilink")（）（2013年2月9日公映）
-  - [我的英雄學院THE MOVIE
-    ～2人的英雄～](https://zh.wikipedia.org/wiki/我的英雄學院 "wikilink")（僕のヒーローアカデミア
+  - [我的英雄學院THE MOVIE ～2人的英雄～](../Page/我的英雄學院.md "wikilink")（僕のヒーローアカデミア
     THE MOVIE 〜2人の英雄〜）（2018年8月3日公映）
   - [文豪ストレイドッグス DEAD
     APPLE](https://zh.wikipedia.org/wiki/文豪ストレイドッグス "wikilink")
@@ -167,15 +157,13 @@ BONES工作室是在1998年10月由前[日昇動畫](../Page/日昇動畫.md "wi
     （PS2，史克威尔艾尼克斯）
   - [钢之炼金术师](https://zh.wikipedia.org/wiki/钢之炼金术师 "wikilink")3
     （PS2，史克威尔艾尼克斯）
-  - [我的英雄學院 Battle For
-    All](https://zh.wikipedia.org/wiki/我的英雄學院 "wikilink")
-    僕のヒーローアカデミア バトル・フォー・オール（BANDAI，2016年5月19日）
-  - [我的英雄學院 激突！英雄戰鬥](https://zh.wikipedia.org/wiki/我的英雄學院 "wikilink")
-    僕のヒーローアカデミア 激突！ヒーローズバトル（街機，2016年4月28日）
-  - [我的英雄學院 SMASH TAP](https://zh.wikipedia.org/wiki/我的英雄學院 "wikilink")
-    僕のヒーローアカデミア SMASH TAP（BANDAI，手機遊戲，2017年5月29日）
-  - [我的英雄學院 唯我正義](https://zh.wikipedia.org/wiki/我的英雄學院 "wikilink")
-    僕のヒーローアカデミア One's
+  - [我的英雄學院 Battle For All](../Page/我的英雄學院.md "wikilink") 僕のヒーローアカデミア
+    バトル・フォー・オール（BANDAI，2016年5月19日）
+  - [我的英雄學院 激突！英雄戰鬥](../Page/我的英雄學院.md "wikilink") 僕のヒーローアカデミア
+    激突！ヒーローズバトル（街機，2016年4月28日）
+  - [我的英雄學院 SMASH TAP](../Page/我的英雄學院.md "wikilink") 僕のヒーローアカデミア SMASH
+    TAP（BANDAI，手機遊戲，2017年5月29日）
+  - [我的英雄學院 唯我正義](../Page/我的英雄學院.md "wikilink") 僕のヒーローアカデミア One's
     Justice（BANDAI，[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")/[Nintendo
     Switch](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")，2018年8月23日）
 

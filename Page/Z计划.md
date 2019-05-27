@@ -35,7 +35,7 @@ zh-hant:鐵必制;}-的设计建造计划也进入了研讨阶段](https://zh.wi
   - 三艘[O級戰鬥巡洋艦](https://zh.wikipedia.org/wiki/O級戰鬥巡洋艦 "wikilink")
   - 十二艘“P级”远洋[装甲舰](../Page/装甲舰.md "wikilink")
   - 两艘[希佩爾海軍上將級重巡洋艦](https://zh.wikipedia.org/wiki/希佩爾海軍上將級重巡洋艦 "wikilink")：（Seydlitz）和（）
-  - 四艘[“M级”轻巡洋舰](https://zh.wikipedia.org/wiki/M級輕巡洋艦 "wikilink")
+  - 四艘[“M级”轻巡洋舰](../Page/M級輕巡洋艦.md "wikilink")
   - 两艘“改进型M级”轻巡洋舰
   - 六艘“远洋侦查级”大型[驱逐舰](../Page/驱逐舰.md "wikilink")
 

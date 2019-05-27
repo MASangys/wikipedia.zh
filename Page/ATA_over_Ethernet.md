@@ -1,7 +1,7 @@
 [Cc25-20060903-AoE-1.png](https://zh.wikipedia.org/wiki/File:Cc25-20060903-AoE-1.png "fig:Cc25-20060903-AoE-1.png")協定（右半）的比較圖，圖中可明顯看出AoE協定的堆疊層數少於iSCSI，因此在傳輸效益表現上AoE能夠比iSCSI更具效率。\]\]
 
 **ATA over Ethernet**（簡稱：**AoE**）是由[Brantley
-Coile](https://zh.wikipedia.org/wiki/Brantley_Coile "wikilink")\[1\]所提創的一種[網路通訊协议](../Page/网络传输协议.md "wikilink")，此協定可以在[乙太網路上访问](../Page/以太网.md "wikilink")[ATA標準的存储裝置](https://zh.wikipedia.org/wiki/ATA "wikilink")（多指[硬碟](../Page/硬盘.md "wikilink")\[2\]），運用此協定的好處在於能以平價且標準的技術來實現一個[儲存區域網路環境](../Page/存储区域网络.md "wikilink")。
+Coile](https://zh.wikipedia.org/wiki/Brantley_Coile "wikilink")\[1\]所提創的一種[網路通訊协议](../Page/网络传输协议.md "wikilink")，此協定可以在[乙太網路上访问](../Page/以太网.md "wikilink")[ATA標準的存储裝置](../Page/ATA.md "wikilink")（多指[硬碟](../Page/硬盘.md "wikilink")\[2\]），運用此協定的好處在於能以平價且標準的技術來實現一個[儲存區域網路環境](../Page/存储区域网络.md "wikilink")。
 
 AoE不倚賴乙太網路中網路層以上的協定，包括[IP](../Page/网际协议.md "wikilink")、[UDP](../Page/用户数据报协议.md "wikilink")、[TCP等都棄捨不用](../Page/传输控制协议.md "wikilink")，這表示AoE不能通过在[區域網路上進行路由](../Page/局域网.md "wikilink")、繞徑，很明顯AoE僅打算做為[儲存區域網路之用](../Page/存储区域网络.md "wikilink")。
 
@@ -52,7 +52,7 @@ module）來運作。
 
 ### 區塊性的儲存傳輸
 
-首先，[ATA在AoE中被當成一種](https://zh.wikipedia.org/wiki/ATA "wikilink")[硬碟用的線路協定](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，資料寫入硬碟後若要進行讀出，則會以一個或一個以上的塊狀型態進行回傳，且[每塊的容量尺寸大小](https://zh.wikipedia.org/wiki/區塊尺寸 "wikilink")（[Block
+首先，[ATA在AoE中被當成一種](../Page/ATA.md "wikilink")[硬碟用的線路協定](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，資料寫入硬碟後若要進行讀出，則會以一個或一個以上的塊狀型態進行回傳，且[每塊的容量尺寸大小](https://zh.wikipedia.org/wiki/區塊尺寸 "wikilink")（[Block
 size](../Page/块_\(数据存储\).md "wikilink")）固定一致，此可稱為[傳輸區塊](https://zh.wikipedia.org/wiki/傳輸區塊 "wikilink")（[Block](../Page/块_\(数据存储\).md "wikilink")），AoE的技術基礎即是此種「區塊性傳輸」。
 
 接著，AoE協定直接、簡單地將ATA指令（ATA
@@ -69,7 +69,7 @@ cable](https://zh.wikipedia.org/wiki/柔性扁平排线 "wikilink")），AoE可�
 然而在使用AoE時，由於AoE運用乙太網路來取代ATA排線，這就有可能破壞此種想定用法，改以AoE方式運作對傳統檔案系統而言是一件危險的事，有可能導致檔案系統的錯亂，或造成作業系統的[核心錯愕](https://zh.wikipedia.org/wiki/核心錯愕 "wikilink")（[kernel
 panic](../Page/内核错误.md "wikilink")）。
 
-對此，AoE是用[集群式的檔案系統來避免這些問題](https://zh.wikipedia.org/wiki/计算机集群 "wikilink")，使AoE硬碟、硬碟櫃的區塊性儲存、傳輸的裝置設備，能夠同時供多部電腦存取使用，跳脫過往ATA技術只能讓硬碟、硬碟群專供單一部電腦存取使用的限制。若就實際的功效運作來說，能夠存取AoE硬碟櫃的伺服器自身就如同是加入叢集系統的一部叢集電腦，是以叢集的共享機制來共同取用儲存資源，而AoE硬碟櫃即是一個可供共享的區塊性儲存設備。
+對此，AoE是用[集群式的檔案系統來避免這些問題](../Page/计算机集群.md "wikilink")，使AoE硬碟、硬碟櫃的區塊性儲存、傳輸的裝置設備，能夠同時供多部電腦存取使用，跳脫過往ATA技術只能讓硬碟、硬碟群專供單一部電腦存取使用的限制。若就實際的功效運作來說，能夠存取AoE硬碟櫃的伺服器自身就如同是加入叢集系統的一部叢集電腦，是以叢集的共享機制來共同取用儲存資源，而AoE硬碟櫃即是一個可供共享的區塊性儲存設備。
 
 至於具叢集功效的檔案系統有哪些，常見的有[GFS](https://zh.wikipedia.org/wiki/GFS "wikilink")、[OCFS2等](https://zh.wikipedia.org/wiki/OCFS2 "wikilink")。
 

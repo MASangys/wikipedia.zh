@@ -78,12 +78,11 @@ Mobile FeliCa 芯片，增加了容量且通信功能加強。使用此種芯片
   - 「[Apple
     Pay](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")（日本销售\[1\]的[iPhone
     7和](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")[Apple Watch
-    Series
-    2及全球](https://zh.wikipedia.org/wiki/Apple_Watch_Series_2 "wikilink")[iPhone
+    Series 2及全球](../Page/Apple_Watch_Series_2.md "wikilink")[iPhone
     8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")、[iPhone
     X和](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")[Apple Watch
     Series
-    3](https://zh.wikipedia.org/wiki/Apple_Watch_Series_3 "wikilink")\[2\]开始搭载Felica功能）\[3\]
+    3](../Page/Apple_Watch_Series_3.md "wikilink")\[2\]开始搭载Felica功能）\[3\]
 
 在手机上的普及狀況，請參考[錢包手機條目](https://zh.wikipedia.org/wiki/錢包手機 "wikilink")。
 

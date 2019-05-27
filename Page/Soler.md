@@ -220,7 +220,7 @@ SaveSolerMusic網站 及於[YouTube短片網站上放上](../Page/YouTube.md "wi
 
 <!-- end list -->
 
-  - [賭城風雲II](https://zh.wikipedia.org/wiki/賭城風雲II "wikilink")
+  - [賭城風雲II](../Page/賭城風雲II.md "wikilink")
 
 ## 廣告
 

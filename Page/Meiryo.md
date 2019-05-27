@@ -13,7 +13,7 @@ XP以前的各种视窗版本并没有这个字体。字体设计上属于[無�
 
 明瞭体对应[日本工业标准的](https://zh.wikipedia.org/wiki/日本工业标准 "wikilink")字符集，解决了各种兼容性问题。由此，基于日本《[戶籍法](https://zh.wikipedia.org/wiki/日本戶籍法 "wikilink")》施行规则中的“[人名用漢字](../Page/人名用漢字.md "wikilink")”可以无障碍地正常使用。这些汉字的使用在其它字体，比如原来的系统-{zh-hans:默认字体;
 zh-hant:預設;}-[微軟哥德體](https://zh.wikipedia.org/wiki/微软哥特体 "wikilink")（）系列的三种字体和[MS
-明朝系列的两种字体中](https://zh.wikipedia.org/wiki/MS_明朝 "wikilink")，需要[理光公司通过补丁的形式进行支持](../Page/理光.md "wikilink")。这个补丁也适用于Windows
+明朝系列的两种字体中](../Page/MS_明朝.md "wikilink")，需要[理光公司通过补丁的形式进行支持](../Page/理光.md "wikilink")。这个补丁也适用于Windows
 XP，\[1\]这样才保证了与明瞭体的兼容性。
 
 明瞭体（日文作“”，Meirio）的名称源于汉字词汇“明瞭”（，发音为“”，Meiryō），因为其无论是屏幕显示还是印刷，都保持明瞭清晰的特点。日文表记中不直接写而改为的理由是，发音富有异国情调，而且可以少用一个假名。\[2\]

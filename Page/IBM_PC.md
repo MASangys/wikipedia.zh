@@ -65,8 +65,7 @@ PC是IBM首个使用外部企业机构（在IBM的用语中被称为“第三者
   - 1984年8月宣布的[IBM PC
     AT使用](https://zh.wikipedia.org/wiki/IBM_PC_AT "wikilink")[Intel
     80286处理器](../Page/Intel_80286.md "wikilink")（一开始6MHz），它的总线是16位的ISA，还有一块20MB的硬盘。1986年引入使用8MHz的较快的型号。IBM试图将它引入多用户电脑市场，但是它主要被需要高速度的电脑用户使用。一开始AT非常不稳定，其主要原因是软件和硬件的不兼容，尤其是其内部的20MB硬盘有问题。当时有人认为IBM的[硬盘驱动器是罪魁祸首](https://zh.wikipedia.org/wiki/硬盘驱动器 "wikilink")，也有人认为其硬盘的硬件有问题。IBM的驱动器与其它硬盘工作时没有问题（包括同一硬盘生产商的33MB模型）。这些问题使得有些人对AT的引入提出疑问，有人甚至认为286结构本身有问题。但是IBM取代其初始的硬盘之后这些问题就被解决。AT后来成为一个影响深远的工业标准。
-  - [IBM PC
-    Convertible](https://zh.wikipedia.org/wiki/IBM_PC_Convertible "wikilink")
+  - [IBM PC Convertible](../Page/IBM_PC_Convertible.md "wikilink")
   - IBM Portable PC
   - [IBM PCjr](https://zh.wikipedia.org/wiki/IBM_PCjr "wikilink")
 

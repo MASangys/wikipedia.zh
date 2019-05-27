@@ -74,7 +74,7 @@ Nu GUNDAM](../Page/RX-93系列机动战士.md "wikilink")。
   - 原作、總監督、腳本：[富野由悠季](../Page/富野由悠季.md "wikilink")
   - 角色設定：[北爪宏幸](../Page/北爪宏幸.md "wikilink")
   - MS設定：[出渕裕](https://zh.wikipedia.org/wiki/出渕裕 "wikilink")
-  - 機械設定：[GAINAX](../Page/GAINAX.md "wikilink")（[庵野秀明](../Page/庵野秀明.md "wikilink")、[增尾昭一](https://zh.wikipedia.org/wiki/增尾昭一 "wikilink")）、[佐山善則](https://zh.wikipedia.org/wiki/佐山善則 "wikilink")
+  - 機械設定：[GAINAX](../Page/GAINAX.md "wikilink")（[庵野秀明](../Page/庵野秀明.md "wikilink")、[增尾昭一](../Page/增尾昭一.md "wikilink")）、[佐山善則](https://zh.wikipedia.org/wiki/佐山善則 "wikilink")
   - 作畫監督：[稲野義信](https://zh.wikipedia.org/wiki/稲野義信 "wikilink")、[北爪宏幸](../Page/北爪宏幸.md "wikilink")、、[大森英敏](https://zh.wikipedia.org/wiki/大森英敏 "wikilink")、[小田川幹雄](https://zh.wikipedia.org/wiki/小田川幹雄 "wikilink")、[仙波隆綱](https://zh.wikipedia.org/wiki/仙波隆綱 "wikilink")
   - 音樂：[三枝成彰](../Page/三枝成彰.md "wikilink")
 

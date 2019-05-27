@@ -141,7 +141,7 @@ RPD在[中國](../Page/中國.md "wikilink")、[朝鲜等部分國家都獲授�
   - [56式班用機槍](../Page/56式班用機槍.md "wikilink")
   - [RPK](../Page/RPK輕機槍.md "wikilink")
   - [RPK-74](../Page/RPK-74輕機槍.md "wikilink")
-  - [RPK-16](https://zh.wikipedia.org/wiki/RPK-16輕機槍 "wikilink")
+  - [RPK-16](../Page/RPK-16輕機槍.md "wikilink")
   - [FN Minimi](../Page/FN_Minimi輕機槍.md "wikilink")／[M249
     SAW](../Page/M249班用自動武器.md "wikilink")
   - [PK／PKM](../Page/PK通用機槍.md "wikilink")

@@ -17,7 +17,7 @@ Soft的](../Page/Hudson_Soft.md "wikilink")）之後，最終選擇了[軟碟](h
 
 ### 發售
 
-1986年2月21日，FC磁碟機於日本發售，售價15000[日圓](../Page/日圓.md "wikilink")，首發遊戲包括《[棒球](https://zh.wikipedia.org/wiki/棒球_\(遊戲\) "wikilink")》、《[高爾夫球](https://zh.wikipedia.org/wiki/高爾夫_\(遊戲\) "wikilink")》、《[麻將](https://zh.wikipedia.org/wiki/麻將_\(1983年遊戲\) "wikilink")》、《[足球](https://zh.wikipedia.org/wiki/足球_\(1985年遊戲\) "wikilink")》、《[網球](https://zh.wikipedia.org/wiki/網球_\(遊戲\) "wikilink")》、《[超級瑪利歐兄弟](https://zh.wikipedia.org/wiki/超級瑪利歐兄弟 "wikilink")》的軟碟移植版及專為充分運用軟碟媒介設計的全新遊戲《[薩爾達傳說](https://zh.wikipedia.org/wiki/薩爾達傳說_\(遊戲\) "wikilink")》\[13\]\[14\]\[15\]。
+1986年2月21日，FC磁碟機於日本發售，售價15000[日圓](../Page/日圓.md "wikilink")，首發遊戲包括《[棒球](https://zh.wikipedia.org/wiki/棒球_\(遊戲\) "wikilink")》、《[高爾夫球](https://zh.wikipedia.org/wiki/高爾夫_\(遊戲\) "wikilink")》、《[麻將](../Page/麻將_\(1983年遊戲\).md "wikilink")》、《[足球](https://zh.wikipedia.org/wiki/足球_\(1985年遊戲\) "wikilink")》、《[網球](https://zh.wikipedia.org/wiki/網球_\(遊戲\) "wikilink")》、《[超級瑪利歐兄弟](https://zh.wikipedia.org/wiki/超級瑪利歐兄弟 "wikilink")》的軟碟移植版及專為充分運用軟碟媒介設計的全新遊戲《[薩爾達傳說](https://zh.wikipedia.org/wiki/薩爾達傳說_\(遊戲\) "wikilink")》\[13\]\[14\]\[15\]。
 
 任天堂於日本各地的電子遊戲零售商設置了專用軟碟讀寫機，只需一次500日圓的讀寫費即可更換新遊戲，相較當時一般卡帶動輒2600日圓以上的售價便宜許多\[16\]\[17\]\[18\]。部分據點的軟碟讀寫機還具備傳輸功能，玩家可以將支援此功能的軟碟（如《[FC大獎賽系列](https://zh.wikipedia.org/wiki/FC大獎賽系列 "wikilink")》）帶至零售商處，透過讀寫機的傳真機能將玩家的分數整理後發送給任天堂，藉此與全日本的玩家競爭，還有機會得到獎項\[19\]\[20\]。
 

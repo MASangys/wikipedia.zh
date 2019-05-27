@@ -1,6 +1,6 @@
 **灌籃大賽**（）是一項[NBA全明星賽中的帶有娛樂性質的比賽](https://zh.wikipedia.org/wiki/NBA全明星賽 "wikilink")，通常是在全明星賽前的週六舉辦。參賽者嘗試做出各種最具觀賞性和難度的[入樽動作](https://zh.wikipedia.org/wiki/入樽 "wikilink")，評審共五人，每次的扣籃動作評分從6-10分不等，但此競賽為娛樂性質居多，並無嚴肅的比賽壓力。首次入樽大賽是[美國籃球協會](../Page/美國籃球協會.md "wikilink")（ABA）在1976所舉辦的全明星賽上，當時的「J博士」[朱利葉斯·歐文奪得了那次比賽的冠軍](https://zh.wikipedia.org/wiki/朱利葉斯·歐文 "wikilink")。
 
-[扎克·拉文](https://zh.wikipedia.org/wiki/扎克·拉文 "wikilink")、[傑森·理察森](https://zh.wikipedia.org/wiki/傑森·理察森 "wikilink")、[哈洛德·邁納](https://zh.wikipedia.org/wiki/哈洛德·邁納 "wikilink")、[多米尼克·威爾金斯和](https://zh.wikipedia.org/wiki/多米尼克·威爾金斯 "wikilink")[麥可·喬丹都曾贏得過兩次入樽大賽冠軍頭銜](https://zh.wikipedia.org/wiki/麥可·喬丹 "wikilink")，而[內特·羅賓遜是唯一一位贏得三次入樽大賽冠軍的球員](https://zh.wikipedia.org/wiki/內特·羅賓遜 "wikilink")，同時[麥可·喬丹和](https://zh.wikipedia.org/wiki/麥可·喬丹 "wikilink")曾經在自己主場贏得冠軍。
+[扎克·拉文](../Page/扎克·拉文.md "wikilink")、[傑森·理察森](https://zh.wikipedia.org/wiki/傑森·理察森 "wikilink")、[哈洛德·邁納](https://zh.wikipedia.org/wiki/哈洛德·邁納 "wikilink")、[多米尼克·威爾金斯和](https://zh.wikipedia.org/wiki/多米尼克·威爾金斯 "wikilink")[麥可·喬丹都曾贏得過兩次入樽大賽冠軍頭銜](https://zh.wikipedia.org/wiki/麥可·喬丹 "wikilink")，而[內特·羅賓遜是唯一一位贏得三次入樽大賽冠軍的球員](https://zh.wikipedia.org/wiki/內特·羅賓遜 "wikilink")，同時[麥可·喬丹和](https://zh.wikipedia.org/wiki/麥可·喬丹 "wikilink")曾經在自己主場贏得冠軍。
 
 ## 2014年賽制失敗
 
@@ -38,13 +38,13 @@
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/扎克·拉文" title="wikilink">扎克·拉文</a></p></td>
+<td><p><a href="../Page/扎克·拉文.md" title="wikilink">扎克·拉文</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/明尼蘇達木狼" title="wikilink">明尼蘇達木狼</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/多倫多" title="wikilink">多倫多</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/扎克·拉文" title="wikilink">扎克·拉文</a></p></td>
+<td><p><a href="../Page/扎克·拉文.md" title="wikilink">扎克·拉文</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/明尼蘇達木狼" title="wikilink">明尼蘇達木狼</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐約" title="wikilink">紐約</a>/<a href="https://zh.wikipedia.org/wiki/布魯克林" title="wikilink">布魯克林</a></p></td>
 </tr>
@@ -56,7 +56,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/泰伦斯·罗斯" title="wikilink">泰伦斯·罗斯</a></p></td>
+<td><p><a href="../Page/泰伦斯·罗斯.md" title="wikilink">泰伦斯·罗斯</a></p></td>
 <td><p><a href="../Page/多伦多猛龙.md" title="wikilink">多伦多猛龙</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休士頓" title="wikilink">休士頓</a></p></td>
 </tr>
@@ -188,7 +188,7 @@
 </tr>
 <tr class="odd">
 <td><p>1991</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/迪·布朗_(1968年出生)" title="wikilink">迪·布朗</a></p></td>
+<td><p><a href="../Page/迪·布朗_(1968年出生).md" title="wikilink">迪·布朗</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波士頓塞爾提克" title="wikilink">波士頓塞爾提克</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/夏洛特" title="wikilink">夏洛特</a></p></td>
 </tr>
@@ -241,9 +241,9 @@
 
 由於NBA灌籃大賽已舉辦多年，因此也曾被批評越來越難看。
 
-但在2016年NBA灌籃大賽中，[扎克·拉文和](https://zh.wikipedia.org/wiki/扎克·拉文 "wikilink")[阿隆·戈登的精采對決](https://zh.wikipedia.org/wiki/阿隆·戈登 "wikilink")，讓球迷有種「灌籃大賽要復活了」的感覺。而該屆也被評為近年來灌籃大賽最精彩的一屆。
+但在2016年NBA灌籃大賽中，[扎克·拉文和](../Page/扎克·拉文.md "wikilink")[阿隆·戈登的精采對決](https://zh.wikipedia.org/wiki/阿隆·戈登 "wikilink")，讓球迷有種「灌籃大賽要復活了」的感覺。而該屆也被評為近年來灌籃大賽最精彩的一屆。
 
-在2017年NBA灌籃大賽中，已經奪下灌籃大賽2連霸的[扎克·拉文確定不會參加該屆的灌籃大賽](https://zh.wikipedia.org/wiki/扎克·拉文 "wikilink")，因此讓2016年灌籃大賽亞軍[阿隆·戈登被看好能夠奪冠](https://zh.wikipedia.org/wiki/阿隆·戈登 "wikilink")，是該屆呼聲最高的，在首輪中，[阿隆·戈登噱頭十足](https://zh.wikipedia.org/wiki/阿隆·戈登 "wikilink")，第一灌就使出無人機灌籃，不過高登卻連續3次失敗，直到第4次才成功，只得到38分。接下來的第二灌更是連續4次失敗，只得到34分。最終總分72分，在首輪遭到淘汰。而最終雖然由[格連·羅賓森三世奪冠](https://zh.wikipedia.org/wiki/格連·羅賓森三世 "wikilink")，但由於該屆選手狀態不好，發生大量灌籃失敗的情形，因此精采度不如上屆（2016年）。
+在2017年NBA灌籃大賽中，已經奪下灌籃大賽2連霸的[扎克·拉文確定不會參加該屆的灌籃大賽](../Page/扎克·拉文.md "wikilink")，因此讓2016年灌籃大賽亞軍[阿隆·戈登被看好能夠奪冠](https://zh.wikipedia.org/wiki/阿隆·戈登 "wikilink")，是該屆呼聲最高的，在首輪中，[阿隆·戈登噱頭十足](https://zh.wikipedia.org/wiki/阿隆·戈登 "wikilink")，第一灌就使出無人機灌籃，不過高登卻連續3次失敗，直到第4次才成功，只得到38分。接下來的第二灌更是連續4次失敗，只得到34分。最終總分72分，在首輪遭到淘汰。而最終雖然由[格連·羅賓森三世奪冠](https://zh.wikipedia.org/wiki/格連·羅賓森三世 "wikilink")，但由於該屆選手狀態不好，發生大量灌籃失敗的情形，因此精采度不如上屆（2016年）。
 
 ## 參考資料
 

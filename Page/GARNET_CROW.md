@@ -463,7 +463,7 @@ GZCA-4073</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006年9月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/幻" title="wikilink">まぼろし</a></p></td>
+<td><p><a href="../Page/幻.md" title="wikilink">まぼろし</a></p></td>
 <td><p>GZCA-4079</p></td>
 <td><p>18,494</p></td>
 <td><p>13,347</p></td>
@@ -863,7 +863,7 @@ GZCA-5246/5247(通常盤)</p></td>
 | 2005年7月20日  | 5th Anniversary DVD ["le 5 emè anniversaire" L'Histoire de 2000 à 2005](https://zh.wikipedia.org/wiki/"le_5_emè_anniversaire"_L'Histoire_de_2000_à_2005 "wikilink") | 音乐类周最高排名：3 \[日最高排名：1\] 初动：12,153 累计：17,582（音乐类30内） |
 | 2007年6月27日  | [GARNET CROW LIVESCOPE OF THE TWILIGHT VALLEY](../Page/GARNET_CROW_LIVESCOPE_OF_THE_TWILIGHT_VALLEY.md "wikilink")                                                  | 音乐类周最高排名：1 \[日最高排名：1\] 初动：10,564 累计：15,928（音乐类50内） |
 | 2008年12月17日 | [GARNET CROW Special live in 仁和寺](../Page/GARNET_CROW_Special_live_in_仁和寺.md "wikilink")                                                                            |                                                    |
-| 2009年5月20日  | [Are You Ready To Lock On?\! ～livescope at the JCB Hall～](https://zh.wikipedia.org/wiki/Are_You_Ready_To_Lock_On?!_～livescope_at_the_JCB_Hall～ "wikilink")          |                                                    |
+| 2009年5月20日  | [Are You Ready To Lock On?\! ～livescope at the JCB Hall～](../Page/Are_You_Ready_To_Lock_On?!_～livescope_at_the_JCB_Hall～.md "wikilink")                             |                                                    |
 | 2010年8月4日   | [GARNET CROW livescope 2010 ～THE BEST TOUR～](../Page/GARNET_CROW_livescope_2010_～THE_BEST_TOUR～.md "wikilink")                                                      |                                                    |
 | 2011年6月29日  | GARNET CROW livescope 2009 ～夜明けのSoul～                                                                                                                               |                                                    |
 | 2011年6月26日  | GARNET CROW livescope 2010+～welcome to the parallel universe\!～                                                                                                     |                                                    |

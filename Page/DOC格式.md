@@ -5,7 +5,7 @@
 [Word](../Page/Microsoft_Word.md "wikilink") 中，使用了 .doc
 作為副檔名，並廣為流行；而前兩者的格式已幾近絕跡。
 
-微軟的“.doc”格式是一種自己的專屬格式，其[檔案可容納更多文字格式](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")、[腳本語言及復原等資訊](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")，比其他的文件檔格式如[RTF](../Page/RTF.md "wikilink")、[HTML等要多](../Page/HTML.md "wikilink")，但因為該格式是屬於專屬格式，因此其[兼容性也較低](https://zh.wikipedia.org/wiki/兼容性 "wikilink")。
+微軟的“.doc”格式是一種自己的專屬格式，其[檔案可容納更多文字格式](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")、[腳本語言及復原等資訊](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")，比其他的文件檔格式如[RTF](../Page/RTF.md "wikilink")、[HTML等要多](../Page/HTML.md "wikilink")，但因為該格式是屬於專屬格式，因此其[兼容性也較低](../Page/兼容性.md "wikilink")。
 
 在[Palm
 OS系統中](../Page/Palm_OS.md "wikilink")，“.doc”是[PalmDoc所使用的副檔名](https://zh.wikipedia.org/wiki/PalmDoc "wikilink")，一個完全無關的格式，主要用於[電子圖書的編碼](https://zh.wikipedia.org/wiki/電子圖書 "wikilink")。
@@ -33,8 +33,7 @@ OS系統中](../Page/Palm_OS.md "wikilink")，“.doc”是[PalmDoc所使用的�
   - [ODT](https://zh.wikipedia.org/wiki/ODT "wikilink") –
     [OpenDocument](https://zh.wikipedia.org/wiki/OpenDocument "wikilink")
     Text
-  - [OASIS](https://zh.wikipedia.org/wiki/結構化資訊標準促進組織 "wikilink") [Open
-    Office
+  - [OASIS](../Page/結構化資訊標準促進組織.md "wikilink") [Open Office
     XML](https://zh.wikipedia.org/wiki/Open_Office_XML "wikilink")（又稱為OpenDocument）
   - [PDF](https://zh.wikipedia.org/wiki/PDF "wikilink") - Adobe Portable
     Document Format

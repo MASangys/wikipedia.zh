@@ -1,4 +1,4 @@
-是由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（今[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）为索尼[PlayStation游戏机开发并发行的](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。游戏于2000年首发，是[最终幻想系列第](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")9部正传，也是系列最后一部首发于初代PlayStation的作品。[史克威爾在授權的港台版攻略與宣傳使用了舊譯名稱](../Page/史克威爾.md "wikilink")「太空-{}-戰士9」，因此此作又有玩家簡稱為太9。游戏2010年作为PSone
+是由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（今[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）为索尼[PlayStation游戏机开发并发行的](../Page/PlayStation.md "wikilink")[角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。游戏于2000年首发，是[最终幻想系列第](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")9部正传，也是系列最后一部首发于初代PlayStation的作品。[史克威爾在授權的港台版攻略與宣傳使用了舊譯名稱](../Page/史克威爾.md "wikilink")「太空-{}-戰士9」，因此此作又有玩家簡稱為太9。游戏2010年作为PSone
 Classics作品通过[PlayStation
 Network发行](../Page/PlayStation_Network.md "wikilink")。游戏为系列引入了“即時事件”“莫古通信网”，并使用独特的装备和技能系统。
 
@@ -62,7 +62,7 @@ Master、道具以及能力值（AP）\[16\]。
 
 ## 开发
 
-史克威尔在《[最终幻想VIII](../Page/最终幻想VIII.md "wikilink")》开发尚未完成时即开始着手《最终幻想IX》\[67\]。作为对居住在美国开发者的折衷，游戏在[夏威夷开发](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")\[68\]。作为PlayStation的最后一作，坂口期望“反映”系列旧作。在发售之前，坂口称《最终幻想IX》是他最喜欢的最终幻想游戏，因为这“最贴近（他）对于最终幻想应当如何的理想觀點”\[69\]。这一转变也是对爱好者和其他开发者诉求的回应\[70\]。此外，团队还想创作深入角色发展並可以理解的故事；这促成了“即時事件”的創作\[71\]。游戏剧本由坂口博信编写。他在1998年7月左右开始前期策划\[72\]\[73\]。总监[伊藤裕之提议主人公吉坦喜欢调情女性](https://zh.wikipedia.org/wiki/伊藤裕之 "wikilink")\[74\]。
+史克威尔在《[最终幻想VIII](../Page/最终幻想VIII.md "wikilink")》开发尚未完成时即开始着手《最终幻想IX》\[67\]。作为对居住在美国开发者的折衷，游戏在[夏威夷开发](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")\[68\]。作为PlayStation的最后一作，坂口期望“反映”系列旧作。在发售之前，坂口称《最终幻想IX》是他最喜欢的最终幻想游戏，因为这“最贴近（他）对于最终幻想应当如何的理想觀點”\[69\]。这一转变也是对爱好者和其他开发者诉求的回应\[70\]。此外，团队还想创作深入角色发展並可以理解的故事；这促成了“即時事件”的創作\[71\]。游戏剧本由坂口博信编写。他在1998年7月左右开始前期策划\[72\]\[73\]。总监[伊藤裕之提议主人公吉坦喜欢调情女性](../Page/伊藤裕之.md "wikilink")\[74\]。
 
 在游戏的概念阶段时，开发者明言作品未必會命名為《最终幻想IX》，因为打破《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》和《最终幻想VIII》的寫實主義可能會疏離受眾。爱好者因此推测遊戲可能会作為本传的[外传发行](https://zh.wikipedia.org/wiki/外传 "wikilink")\[75\]。但到1999年下半年，史克威尔确认游戏确实会以《最终幻想IX》名义发售，而到2000年早期时游戏基本完工。开发者数度调整游戏，如结局修改了7次\[76\]。总监伊藤设计游戏的战斗系统\[77\]。
 
@@ -77,7 +77,7 @@ Master、道具以及能力值（AP）\[16\]。
 
 植松伸夫在两篇报道中不假思索的称《最终幻想IX》是他最喜爱的配乐\[90\]\[91\]。原版游戏[原声音乐收录了](../Page/原声音乐.md "wikilink")110首曲目；追加原声《最终幻想IX原声音乐Plus》收录了42首新曲目。与《最终幻想VIII》和《最终幻想X》类似，《最终幻想IX》使用了[日本流行乐](https://zh.wikipedia.org/wiki/日本流行乐 "wikilink")[民谣](https://zh.wikipedia.org/wiki/民谣 "wikilink")《Melodies
 of
-Life》。歌曲由植松伸夫作曲，[伊藤裕之](https://zh.wikipedia.org/wiki/伊藤裕之 "wikilink")（以塩见名义）作日语版词，[白鸟英美子演唱](https://zh.wikipedia.org/wiki/白鸟英美子 "wikilink")，英文版由[亚历山大·O·史密斯填词](https://zh.wikipedia.org/wiki/亚历山大·O·史密斯 "wikilink")。
+Life》。歌曲由植松伸夫作曲，[伊藤裕之](../Page/伊藤裕之.md "wikilink")（以塩见名义）作日语版词，[白鸟英美子演唱](https://zh.wikipedia.org/wiki/白鸟英美子 "wikilink")，英文版由[亚历山大·O·史密斯填词](https://zh.wikipedia.org/wiki/亚历山大·O·史密斯 "wikilink")。
 
 ## 发行
 

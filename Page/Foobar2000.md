@@ -58,7 +58,7 @@ x86平台通过[Wine运行程序](../Page/Wine.md "wikilink")，只是Columns UI
 ## 参见
 
   - [Airplay](../Page/Airplay.md "wikilink")
-  - [Mcool](https://zh.wikipedia.org/wiki/Mcool "wikilink")
+  - [Mcool](../Page/Mcool.md "wikilink")
   - [Winamp](../Page/Winamp.md "wikilink")
   - [Windows Media
     Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")

@@ -1,4 +1,4 @@
-**INFOCOMP電腦科學期刊**為一份國際性的科學[期刊](https://zh.wikipedia.org/wiki/期刊 "wikilink")（索引指標、印刷出版、[季刊](https://zh.wikipedia.org/wiki/季刊 "wikilink")、連續流通）。所注重的領域為（但不限於此）：
+**INFOCOMP電腦科學期刊**為一份國際性的科學[期刊](../Page/期刊.md "wikilink")（索引指標、印刷出版、[季刊](https://zh.wikipedia.org/wiki/季刊 "wikilink")、連續流通）。所注重的領域為（但不限於此）：
 
   - [人工智能](../Page/人工智能.md "wikilink")
   - [組合最佳化與](https://zh.wikipedia.org/wiki/組合最佳化 "wikilink")[啟發式演算法](https://zh.wikipedia.org/wiki/啟發式演算法 "wikilink")

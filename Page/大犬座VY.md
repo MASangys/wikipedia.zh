@@ -114,9 +114,7 @@ VLBI 搭配 SiO [邁射量到的距離則是](https://zh.wikipedia.org/wiki/邁�
     [University of Minnesota](../Page/明尼苏达大学.md "wikilink")
   - ["What is the Biggest Star in the
     Universe?"](http://www.universetoday.com/2008/04/06/what-is-the-biggest-star-in-the-universe/),
-    [Universe
-    Today](https://zh.wikipedia.org/wiki/Universe_Today "wikilink"),
-    2008-04-06
+    [Universe Today](../Page/Universe_Today.md "wikilink"), 2008-04-06
 
 <!-- end list -->
 

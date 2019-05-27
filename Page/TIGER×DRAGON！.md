@@ -1,7 +1,7 @@
 《**TIGER×DRAGON！**》（**虎與龍**）是由[竹宮悠由子寫作](../Page/竹宮悠由子.md "wikilink")、[泰](https://zh.wikipedia.org/wiki/泰 "wikilink")（）負責繪製插畫的一部[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")。本系列作品在日本的[電擊文庫刊載](../Page/電擊文庫.md "wikilink")，本編10卷，另有番外篇3卷，共13卷[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。[台灣與](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港地區由](../Page/香港.md "wikilink")[台灣角川發行](../Page/台灣角川.md "wikilink")，[中國大陸地區則由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天聞角川取得授權發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")。電視動畫獲選為2009年第十三回[日本](../Page/日本.md "wikilink")[文部科學省](../Page/文部科學省.md "wikilink")[文化廳媒體藝術祭動畫部門推薦的作品](../Page/文化廳媒體藝術祭.md "wikilink")。
 
 本作品也從《[月刊電擊Comic
-gao\!](https://zh.wikipedia.org/wiki/月刊電擊Comic_gao! "wikilink")》（[MediaWorks](../Page/MediaWorks.md "wikilink")）於2007年9月號開始連載漫畫版本，由[絕叫擔任作畫](https://zh.wikipedia.org/wiki/絕叫 "wikilink")。\[1\]於2008年3月起转到《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》（ASCII
+gao\!](https://zh.wikipedia.org/wiki/月刊電擊Comic_gao! "wikilink")》（[MediaWorks](../Page/MediaWorks.md "wikilink")）於2007年9月號開始連載漫畫版本，由[絕叫擔任作畫](../Page/絕叫.md "wikilink")。\[1\]於2008年3月起转到《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》（ASCII
 MEDIA WORKS、MediaWorks）上连载。
 
 ## 故事大綱
@@ -78,7 +78,7 @@ MEDIA WORKS、MediaWorks）上连载。
     配音員：（日）[田中理惠](../Page/田中理惠_\(聲優\).md "wikilink")／（台）[劉如蘋](../Page/劉如蘋.md "wikilink")
     29歲單身，並即將邁入第30個年頭。2年C班的導師，教授英文。相當懷念年輕的時光，轉而對學生們懷有類似嫉妒的微妙感情，常近乎瘋狂的自暴自棄說自己只是個「年近三十的獨身老姑婆」。當與大河言語對峙時常顯出她的懦弱。
   -
-    配音員：（日）[金光宣明](https://zh.wikipedia.org/wiki/金光宣明 "wikilink")／（台）[何志威](../Page/何志威.md "wikilink")
+    配音員：（日）[金光宣明](../Page/金光宣明.md "wikilink")／（台）[何志威](../Page/何志威.md "wikilink")
     體育教師，身材壯碩且皮膚黝黑。
 
 ### 家人
@@ -318,7 +318,7 @@ ISBN 978-4-04-891618-9（通常版）</p></td>
   - 系列構成：[岡田麿里](../Page/岡田麿里.md "wikilink")
   - 人物設定：[田中將賀](../Page/田中將賀.md "wikilink")
   - 動畫製作：[J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")
-  - 企劃製作：[GENCO](https://zh.wikipedia.org/wiki/GENCO "wikilink")
+  - 企劃製作：[GENCO](../Page/GENCO.md "wikilink")
   - 音樂：[橋本由香利](../Page/橋本由香利.md "wikilink")
   - 音樂製作：[STARCHILD
     Record](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")

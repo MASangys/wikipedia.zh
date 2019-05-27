@@ -118,8 +118,7 @@ Step 2: if E (x <sub>1</sub>, … , x <sub>n</sub>) is true then success
   - [Graph of NP-complete
     Problems](http://page.mi.fu-berlin.de/aneumann/npc.html)
 
-  - [American
-    Scientist](https://zh.wikipedia.org/wiki/American_Scientist "wikilink")
+  - [American Scientist](../Page/American_Scientist.md "wikilink")
     primer on traditional and recent complexity theory research:
     ["Accidental
     Algorithms"](http://www.americanscientist.org/issues/pub/accidental-algorithms/)

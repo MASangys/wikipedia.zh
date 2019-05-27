@@ -64,7 +64,7 @@ D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/�
 
 [911事件後](https://zh.wikipedia.org/wiki/911事件 "wikilink")[C線停駛期間](../Page/紐約地鐵C線.md "wikilink")，D線代其於第八大道線59街車站以北行駛慢車。
 
-2004年2月22日，曼哈頓橋北邊軌道再度開放，D線經其駛至斯提威爾大道車站，取代[W線第四大道快車](../Page/紐約地鐵W線.md "wikilink")。同年3月24日起[IND匯集線閉線維修](https://zh.wikipedia.org/wiki/IND匯集線 "wikilink")，D線停駛[布朗克斯的快車直到秋季](../Page/布朗克斯.md "wikilink")。
+2004年2月22日，曼哈頓橋北邊軌道再度開放，D線經其駛至斯提威爾大道車站，取代[W線第四大道快車](../Page/紐約地鐵W線.md "wikilink")。同年3月24日起[IND匯集線閉線維修](../Page/IND匯集線.md "wikilink")，D線停駛[布朗克斯的快車直到秋季](../Page/布朗克斯.md "wikilink")。
 
 2005年1月的第八大道線火災後，D線代替C線於第八大道線59街車站以北行駛慢車，直到2月2日C線復駛。
 
@@ -93,7 +93,7 @@ D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/IND匯集線" title="wikilink">IND匯集線</a>（全線）</p></td>
+<td><p><a href="../Page/IND匯集線.md" title="wikilink">IND匯集線</a>（全線）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/諾伍德-205街車站_(IND匯集線)" title="wikilink">諾伍德-205街</a></p></td>
 <td><p>全部</p></td>
 <td><p> </p></td>
@@ -170,7 +170,7 @@ D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/BMT西城線" title="wikilink">BMT西城線</a>（全線）</p></td>
+<td><p><a href="../Page/BMT西城線.md" title="wikilink">BMT西城線</a>（全線）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第九大道車站_(BMT西城線)" title="wikilink">第九大道</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_(BMT西城線)" title="wikilink">康尼島-斯提威爾大道</a></p></td>
 <td><p> </p></td>
@@ -204,7 +204,7 @@ D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/IND匯集線" title="wikilink">匯集線</a></strong></p></td>
+<td><p><strong><a href="../Page/IND匯集線.md" title="wikilink">匯集線</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -289,7 +289,7 @@ D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/�
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IRT傑羅姆大道線" title="wikilink">IRT傑羅姆大道線</a>）</p></td>
+（<a href="../Page/IRT傑羅姆大道線.md" title="wikilink">IRT傑羅姆大道線</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -373,7 +373,7 @@ D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/�
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Aiga_elevator.svg" title="fig:Aiga_elevator.svg">Aiga_elevator.svg</a></p></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>，<a href="https://zh.wikipedia.org/wiki/第五大道車站_(IRT法拉盛線)" title="wikilink">第五大道</a>）</p></td>
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>，<a href="https://zh.wikipedia.org/wiki/第五大道車站_(IRT法拉盛線)" title="wikilink">第五大道</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -496,7 +496,7 @@ D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/BMT西城線" title="wikilink">西城線</a></strong></p></td>
+<td><p><strong><a href="../Page/BMT西城線.md" title="wikilink">西城線</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -513,7 +513,7 @@ D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/漢密爾頓堡公園道車站_(BMT西城線)" title="wikilink">漢密爾頓堡公園道</a></p></td>
+<td><p><a href="../Page/漢密爾頓堡公園道車站_(BMT西城線).md" title="wikilink">漢密爾頓堡公園道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -521,7 +521,7 @@ D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/50街車站_(BMT西城線)" title="wikilink">50街</a></p></td>
+<td><p><a href="../Page/50街車站_(BMT西城線).md" title="wikilink">50街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -529,7 +529,7 @@ D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/55街車站_(BMT西城線)" title="wikilink">55街</a></p></td>
+<td><p><a href="../Page/55街車站_(BMT西城線).md" title="wikilink">55街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -545,7 +545,7 @@ D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/71街車站_(BMT西城線)" title="wikilink">71街</a></p></td>
+<td><p><a href="../Page/71街車站_(BMT西城線).md" title="wikilink">71街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -553,7 +553,7 @@ D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/79街車站_(BMT西城線)" title="wikilink">79街</a></p></td>
+<td><p><a href="../Page/79街車站_(BMT西城線).md" title="wikilink">79街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -561,7 +561,7 @@ D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/18大道車站_(BMT西城線)" title="wikilink">18大道</a></p></td>
+<td><p><a href="../Page/18大道車站_(BMT西城線).md" title="wikilink">18大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -569,7 +569,7 @@ D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/20大道車站_(BMT西城線)" title="wikilink">20大道</a></p></td>
+<td><p><a href="../Page/20大道車站_(BMT西城線).md" title="wikilink">20大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -585,7 +585,7 @@ D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/25大道車站_(BMT西城線)" title="wikilink">25大道</a></p></td>
+<td><p><a href="../Page/25大道車站_(BMT西城線).md" title="wikilink">25大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -593,7 +593,7 @@ D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/海灣50街車站_(BMT西城線)" title="wikilink">海灣50街</a></p></td>
+<td><p><a href="../Page/海灣50街車站_(BMT西城線).md" title="wikilink">海灣50街</a></p></td>
 <td></td>
 <td></td>
 <td></td>

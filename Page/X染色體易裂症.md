@@ -1,7 +1,7 @@
 [Fragile_x_syndrom.png](https://zh.wikipedia.org/wiki/File:Fragile_x_syndrom.png "fig:Fragile_x_syndrom.png")
 
 **X染色體易裂症**（Fragile X syndrome
-(FXS)）是一種可能造成[智能障礙的病症](../Page/智能障礙.md "wikilink")。患病以男性為主，相較女性嚴重，可能[睾丸較大](../Page/睾丸.md "wikilink")、[咬合不正](https://zh.wikipedia.org/wiki/咬合不正 "wikilink")、[自閉症](../Page/自閉症.md "wikilink")、[肌肉張力低下](https://zh.wikipedia.org/wiki/肌肉張力低下 "wikilink")，面部[下顎向前突出](https://zh.wikipedia.org/wiki/下顎 "wikilink")、耳朵較大、臉長、[高弓狀硬顎](https://zh.wikipedia.org/wiki/高弓狀硬顎 "wikilink")。其他問題包括[脊柱前彎](https://zh.wikipedia.org/wiki/脊柱前彎 "wikilink")、[漏斗胸](https://zh.wikipedia.org/wiki/漏斗胸 "wikilink")。女性若有一條易裂X染色體，另一條正常，可能只會有輕微的病徵，亦可能是正常的。此症是[X聯隱性遺傳病](../Page/X染色體.md "wikilink")，男性較易發病，男性發病率是1/3600，女性1/4000\~6000，差距約2倍。\[1\]
+(FXS)）是一種可能造成[智能障礙的病症](../Page/智能障礙.md "wikilink")。患病以男性為主，相較女性嚴重，可能[睾丸較大](../Page/睾丸.md "wikilink")、[咬合不正](https://zh.wikipedia.org/wiki/咬合不正 "wikilink")、[自閉症](../Page/自閉症.md "wikilink")、[肌肉張力低下](https://zh.wikipedia.org/wiki/肌肉張力低下 "wikilink")，面部[下顎向前突出](https://zh.wikipedia.org/wiki/下顎 "wikilink")、耳朵較大、臉長、[高弓狀硬顎](https://zh.wikipedia.org/wiki/高弓狀硬顎 "wikilink")。其他問題包括[脊柱前彎](https://zh.wikipedia.org/wiki/脊柱前彎 "wikilink")、[漏斗胸](../Page/漏斗胸.md "wikilink")。女性若有一條易裂X染色體，另一條正常，可能只會有輕微的病徵，亦可能是正常的。此症是[X聯隱性遺傳病](../Page/X染色體.md "wikilink")，男性較易發病，男性發病率是1/3600，女性1/4000\~6000，差距約2倍。\[1\]
 
 雖女性染色體為XX而有較高機率得到突變基因(來自帶因者媽媽的X或帶因者爸爸的X)，但因其中隨機一條[X染色體失活](../Page/X染色體去活化.md "wikilink")(又叫里昂化Lyonization,失活的X染色體成[巴爾氏體](../Page/巴爾小體.md "wikilink"))，只要另一條正常，受到影響的程度會較低，而男性因X為[半合子](https://zh.wikipedia.org/wiki/半合子 "wikilink")，只有來自媽媽的X，故只要從媽媽得到突變的X就會有嚴重症狀。\[2\]
 

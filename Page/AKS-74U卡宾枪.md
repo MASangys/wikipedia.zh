@@ -167,7 +167,7 @@ AKS-74U在蘇軍和俄軍服役期間經常被士兵暱稱為“Kysusha”（К�
   - 2010年—《[-{zh-hans:使命召唤：黑色行动; zh-hk:使命召喚：黑色行動;
     zh-hant:決勝時刻：黑色行動;}-](../Page/決勝時刻：黑色行動.md "wikilink")》（Call
     of Duty: Black
-    Ops）：在所有模式中皆有登場，命名為「AK74u」，被歸類為衝鋒槍，使用黑色[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")、手槍握把、早期型[AK-74的鋼製彈匣且預設移除了槍托](https://zh.wikipedia.org/wiki/AK-74突擊步槍 "wikilink")，奇怪地會在1960年代出現。在故事模式時被[越南南方民族解放陣線和](../Page/越南南方民族解放陣線.md "wikilink")[蘇聯軍隊所使用](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")。在聯機模式於等級17解鎖，並可使用[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、反射式瞄準鏡、[握把](../Page/輔助握把.md "wikilink")、延長彈匣（增至45發）、[雙彈匣](https://zh.wikipedia.org/wiki/彈匣並聯 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[榴彈發射器及射速增加](../Page/BS-1_Tishina榴彈發射器.md "wikilink")。在殭屍模式中有一款稱為「AK74fu2」的改型。
+    Ops）：在所有模式中皆有登場，命名為「AK74u」，被歸類為衝鋒槍，使用黑色[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")、手槍握把、早期型[AK-74的鋼製彈匣且預設移除了槍托](https://zh.wikipedia.org/wiki/AK-74突擊步槍 "wikilink")，奇怪地會在1960年代出現。在故事模式時被[越南南方民族解放陣線和](../Page/越南南方民族解放陣線.md "wikilink")[蘇聯軍隊所使用](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")。在聯機模式於等級17解鎖，並可使用[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、反射式瞄準鏡、[握把](../Page/輔助握把.md "wikilink")、延長彈匣（增至45發）、[雙彈匣](../Page/彈匣並聯.md "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[榴彈發射器及射速增加](../Page/BS-1_Tishina榴彈發射器.md "wikilink")。在殭屍模式中有一款稱為「AK74fu2」的改型。
   - 2010年—《[-{zh-hans:地铁2033;
     zh-hant:戰慄深隧;}-](https://zh.wikipedia.org/wiki/地鐵2033_\(遊戲\) "wikilink")》（Metro
     2033）
@@ -183,11 +183,11 @@ AKS-74U在蘇軍和俄軍服役期間經常被士兵暱稱為“Kysusha”（К�
   - 2012年—《[-{zh-hans:使命召唤：黑色行动; zh-hk:使命召喚：黑色行動;
     zh-hant:決勝時刻：黑色行動;}-II](../Page/決勝時刻：黑色行動II.md "wikilink")》（Call
     of Duty: Black Ops
-    II）：只在故事模式和殭屍模式中登場，命名為「AK74u」，被歸類為衝鋒槍，造型跟[前作相近](../Page/決勝時刻：黑色行動.md "wikilink")。故事模式中被[蘇聯軍隊](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")、和梅嫩德斯·卡特爾所使用，並於玩家完成“因果”關卡以後解鎖。能夠使用：反射式瞄準鏡、[抑制器](../Page/抑制器.md "wikilink")、長[槍管](../Page/槍管.md "wikilink")、延長彈匣（增至40發）、[快速重裝彈匣](https://zh.wikipedia.org/wiki/彈匣並聯 "wikilink")、[槍托以及射速增加](../Page/槍托.md "wikilink")。
+    II）：只在故事模式和殭屍模式中登場，命名為「AK74u」，被歸類為衝鋒槍，造型跟[前作相近](../Page/決勝時刻：黑色行動.md "wikilink")。故事模式中被[蘇聯軍隊](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")、和梅嫩德斯·卡特爾所使用，並於玩家完成“因果”關卡以後解鎖。能夠使用：反射式瞄準鏡、[抑制器](../Page/抑制器.md "wikilink")、長[槍管](../Page/槍管.md "wikilink")、延長彈匣（增至40發）、[快速重裝彈匣](../Page/彈匣並聯.md "wikilink")、[槍托以及射速增加](../Page/槍托.md "wikilink")。
   - 2012年—《[-{zh-hans:荣誉勋章：战士;
     zh-hant:榮譽勳章：鐵血悍將;}-](https://zh.wikipedia.org/wiki/榮譽勳章：鐵血悍將 "wikilink")》（Medal
     of Honor:
-    Warfighter）：型號為AKMSU，命名為「AKS-74U」，故事模式中被黑鳥特遣隊所屬的[OGA隊員](https://zh.wikipedia.org/wiki/中央情報局特別行動科 "wikilink")“老媽”和“牧師”，OGA臥底人員“Argyrus”及所有敵軍所使用。聯機模式當中為[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[阿爾法小組的可用武器](../Page/阿爾法小組.md "wikilink")，並能夠按用戶需求而作自定義改裝。
+    Warfighter）：型號為AKMSU，命名為「AKS-74U」，故事模式中被黑鳥特遣隊所屬的[OGA隊員](../Page/中央情報局特別行動科.md "wikilink")“老媽”和“牧師”，OGA臥底人員“Argyrus”及所有敵軍所使用。聯機模式當中為[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[阿爾法小組的可用武器](../Page/阿爾法小組.md "wikilink")，並能夠按用戶需求而作自定義改裝。
   - 2013年—《[-{zh-hans:地铁：最后的曙光;
     zh-hant:戰慄深隧：最後光芒;}-](https://zh.wikipedia.org/wiki/戰慄深隧：最後光芒 "wikilink")》（Metro:
     Last Light）

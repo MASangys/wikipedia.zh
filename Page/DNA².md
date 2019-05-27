@@ -42,7 +42,7 @@ Medicine」）子彈射向純太，使得純太體內產生[超能力基因](../
 <li>栗本三郎：<a href="https://zh.wikipedia.org/wiki/峰惠研" title="wikilink">峰惠研</a></li>
 <li>桃生千代：<a href="https://zh.wikipedia.org/wiki/丸山裕子" title="wikilink">丸山裕子</a></li>
 <li>時光機電腦：<a href="../Page/山田榮子.md" title="wikilink">山田榮子</a></li>
-<li>橫森：<a href="https://zh.wikipedia.org/wiki/大林隆介" title="wikilink">大林隆之介</a></li>
+<li>橫森：<a href="../Page/大林隆介.md" title="wikilink">大林隆之介</a></li>
 <li>森：<a href="https://zh.wikipedia.org/wiki/筈見純" title="wikilink">筈見純</a></li>
 <li>川崎嚕啦啦：<a href="https://zh.wikipedia.org/wiki/玉川紗己子" title="wikilink">玉川紗己子</a></li>
 </ul></td>
@@ -79,7 +79,7 @@ Medicine」）子彈射向純太，使得純太體內產生[超能力基因](../
 動畫由[MADHOUSE和](../Page/MADHOUSE.md "wikilink")[STUDIO
 DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。1994年10月7日至12月23日由[日本電視台](../Page/日本電視台.md "wikilink")[聯播網播出全](../Page/聯播網.md "wikilink")12集的電視動畫，並與其姐妹台[山形放送](https://zh.wikipedia.org/wiki/山形放送 "wikilink")、[TV新潟放送網及](https://zh.wikipedia.org/wiki/TV新潟放送網 "wikilink")[金澤電視台於毎週五](https://zh.wikipedia.org/wiki/金澤電視台 "wikilink")17:30‐18:00在關東地區播放。
 
-1995年由[萬代影視發行全](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")3集的OVA，內容為動畫版追加的原創故事。VHS・LD全5巻。而桃生純太在動畫版的設定是沒有超能力的。
+1995年由[萬代影視發行全](../Page/萬代影視.md "wikilink")3集的OVA，內容為動畫版追加的原創故事。VHS・LD全5巻。而桃生純太在動畫版的設定是沒有超能力的。
 
 本作品自從1995年發售OVA以來沒有被製作成DVD等媒介；直到2013年的動畫化20週年紀念活動上才正式宣布製作DVD與BD，2014年1月29日發行\[1\]。
 
@@ -93,9 +93,9 @@ DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。1994年10月7日至12月23日�
 <tbody>
 <tr class="odd">
 <td><ul>
-<li>企画：<a href="https://zh.wikipedia.org/wiki/武井英彥" title="wikilink">武井英彥</a>、<a href="https://zh.wikipedia.org/wiki/落合茂一" title="wikilink">落合茂一</a></li>
+<li>企画：<a href="https://zh.wikipedia.org/wiki/武井英彥" title="wikilink">武井英彥</a>、<a href="../Page/落合茂一.md" title="wikilink">落合茂一</a></li>
 <li>製作群：前田伸一郎、岡田洋、長-{谷}-川洋、丸山正雄</li>
-<li>導演：<a href="https://zh.wikipedia.org/wiki/坂田純一" title="wikilink">坂田純一</a></li>
+<li>導演：<a href="../Page/坂田純一.md" title="wikilink">坂田純一</a></li>
 <li>編劇：<a href="../Page/浦畑達彥.md" title="wikilink">浦畑達彥</a></li>
 <li>系列構成：浦畑達彥</li>
 <li>色彩設計：秋山久美、三笠修</li>
@@ -120,8 +120,7 @@ DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。1994年10月7日至12月23日�
 
   - 片頭曲：〈Blurry Eyes〉
     作詞：[hyde](https://zh.wikipedia.org/wiki/hyde "wikilink")，作曲：[tetsu](https://zh.wikipedia.org/wiki/tetsu "wikilink")，編曲、主唱：[L'Arc～en～Ciel](https://zh.wikipedia.org/wiki/L'Arc～en～Ciel "wikilink")
-  - 片尾曲：〈[Single
-    Bed](https://zh.wikipedia.org/wiki/Single_Bed "wikilink")〉
+  - 片尾曲：〈[Single Bed](../Page/Single_Bed.md "wikilink")〉
     作詞：[淳君](../Page/淳君.md "wikilink")，作曲：，編曲：、，主唱：射亂Q
 
 ### 副標題

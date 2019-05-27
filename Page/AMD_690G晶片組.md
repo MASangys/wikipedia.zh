@@ -89,7 +89,7 @@ X9.0c及Shader Model 3.0，而只支援Direct X9.0及Shader Model
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Mini-ITX" title="wikilink">Mini-ITX</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>需要<a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="https://zh.wikipedia.org/wiki/SO-DIMM" title="wikilink">SO-DIMM</a></p></td>
+<td style="text-align: center;"><p>需要<a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="../Page/SO-DIMM.md" title="wikilink">SO-DIMM</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/華碩電腦" title="wikilink">華碩電腦</a></p></td>
@@ -318,7 +318,7 @@ X9.0c及Shader Model 3.0，而只支援Direct X9.0及Shader Model
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><strong>ATI RS600</strong></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陞技電腦" title="wikilink">陞技電腦</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/陞技電腦.md" title="wikilink">陞技電腦</a></p></td>
 <td style="text-align: center;"><p>Fatal1ty F-I90HD</p></td>
 <td style="text-align: center;"><p>Micro ATX</p></td>
 <td style="text-align: center;"></td>

@@ -8,7 +8,7 @@
   - [高橋智秋](../Page/高橋智秋.md "wikilink")（代表色紫色）
   - [神田朱未](../Page/神田朱未.md "wikilink")（代表色[紅色](https://zh.wikipedia.org/wiki/紅色 "wikilink")）
   - [淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")（代表色綠色）
-  - [木村圓](https://zh.wikipedia.org/wiki/木村圓 "wikilink")（代表色[黃色](https://zh.wikipedia.org/wiki/黃色 "wikilink")）
+  - [木村圓](../Page/木村圓.md "wikilink")（代表色[黃色](https://zh.wikipedia.org/wiki/黃色 "wikilink")）
 
 ## 唱片目录
 

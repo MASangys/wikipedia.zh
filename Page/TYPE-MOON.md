@@ -214,7 +214,7 @@ night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》和《[空之
 
 #### 漫畫
 
-  - [琥珀ACE](https://zh.wikipedia.org/wiki/琥珀ACE "wikilink")
+  - [琥珀ACE](../Page/琥珀ACE.md "wikilink")
   - Fate/KOHA-ACE 帝都聖杯奇譚
 
 #### 設定資料集

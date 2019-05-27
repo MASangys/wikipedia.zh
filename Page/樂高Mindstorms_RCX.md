@@ -12,7 +12,7 @@ RCX使用的微型控制器，是[日立H](https://zh.wikipedia.org/wiki/日立 
 
 H8/300 CPU（8位）。工作频率16 百萬赫，有八个通用16 位寄存器（r0 - r7, r7 作为堆栈指针(sp) 使用）， 16
 位程序寄存器（[pc](https://zh.wikipedia.org/wiki/pc "wikilink")），和一个8位[状态寄存器](https://zh.wikipedia.org/wiki/状态寄存器 "wikilink")(cc)
-。状态寄存器显示算术状态（如[进位](https://zh.wikipedia.org/wiki/进位 "wikilink")，[溢出](https://zh.wikipedia.org/wiki/溢出 "wikilink")，[和零](https://zh.wikipedia.org/wiki/和零 "wikilink")）和中断屏蔽与使能。指令集包括[暂存器](https://zh.wikipedia.org/wiki/暂存器 "wikilink")-暂存器运算，如16
+。状态寄存器显示算术状态（如[进位](../Page/进位.md "wikilink")，[溢出](https://zh.wikipedia.org/wiki/溢出 "wikilink")，[和零](https://zh.wikipedia.org/wiki/和零 "wikilink")）和中断屏蔽与使能。指令集包括[暂存器](https://zh.wikipedia.org/wiki/暂存器 "wikilink")-暂存器运算，如16
 位加法、16 位减法、8位乘法和16 位／8
 位除法），及常见的逻辑操作如「异或」、「或」、「与」、「非」、「移位」、「位操作」、「子程序」的调用与返回和使RCX进入节电模式的「sleep指令」。数据类型包括「位」、「4位[BCD码](https://zh.wikipedia.org/wiki/BCD码 "wikilink")」、「[字节](../Page/字节.md "wikilink")」和「字」（2
 个字节）

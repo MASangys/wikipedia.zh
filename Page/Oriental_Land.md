@@ -8,8 +8,7 @@ Land首次與[華特迪士尼公司接洽](https://zh.wikipedia.org/wiki/華特�
 Land決定與華特迪士尼公司以[特許經營模式營運](https://zh.wikipedia.org/wiki/特許經營 "wikilink")，每年Oriental
 Land公司須付出授權費用給華特迪士尼公司，而華特迪士尼公司也派出[幻想工程師設計和建造整個](https://zh.wikipedia.org/wiki/幻想工程師 "wikilink")[東京迪士尼度假區](../Page/東京迪士尼度假區.md "wikilink")，以及在2001年開幕的第二座主題樂園—[東京迪士尼海洋](../Page/東京迪士尼海洋.md "wikilink")。
 
-Oriental
-Land同時也持有並負責營運日本所有[迪士尼商店](https://zh.wikipedia.org/wiki/迪士尼商店 "wikilink")（Disney
+Oriental Land同時也持有並負責營運日本所有[迪士尼商店](../Page/迪士尼商店.md "wikilink")（Disney
 Store）。但隨著迪士尼商店經營績效不佳，Oriental
 Land已經決議在2010年3月底，將迪士尼商店股份全數移交給日本華特迪士尼股份有限公司。\[1\]
 

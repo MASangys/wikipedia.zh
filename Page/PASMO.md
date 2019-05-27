@@ -21,7 +21,7 @@ PASMO的[吉祥物是一個](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")
 
 #### 2007年3月18日起
 
-  - [伊豆箱根铁道](https://zh.wikipedia.org/wiki/伊豆箱根铁道 "wikilink")（只限[大雄山線](https://zh.wikipedia.org/wiki/大雄山線 "wikilink")）◇
+  - [伊豆箱根铁道](https://zh.wikipedia.org/wiki/伊豆箱根铁道 "wikilink")（只限[大雄山線](../Page/大雄山線.md "wikilink")）◇
   - [江之島電鐵](../Page/江之島電鐵.md "wikilink")◇
   - [小田急電鐵](../Page/小田急電鐵.md "wikilink")
   - [京王電鐵](../Page/京王電鐵.md "wikilink")
@@ -38,13 +38,13 @@ PASMO的[吉祥物是一個](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")
   - [東京都交通局](../Page/東京都交通局.md "wikilink")（[都营地下铁](https://zh.wikipedia.org/wiki/都营地下铁 "wikilink")、[日暮里-舍人线](https://zh.wikipedia.org/wiki/日暮里-舍人线 "wikilink")）
     - [上野懸垂線除外](../Page/上野懸垂線.md "wikilink")
   - [東武铁道](https://zh.wikipedia.org/wiki/東武铁道 "wikilink")
-  - [東葉高速鐵道](https://zh.wikipedia.org/wiki/東葉高速鐵道 "wikilink")
+  - [東葉高速鐵道](../Page/東葉高速鐵道.md "wikilink")
   - [箱根登山铁道](https://zh.wikipedia.org/wiki/箱根登山铁道 "wikilink")
   - [北总铁道](https://zh.wikipedia.org/wiki/北总铁道 "wikilink")
   - [百合鸥](../Page/百合鷗_\(鐵路公司\).md "wikilink")
   - [横滨高速铁道](https://zh.wikipedia.org/wiki/横滨高速铁道 "wikilink")
   - [横滨市交通局](https://zh.wikipedia.org/wiki/横滨市交通局 "wikilink")（[橫濱市營地下鐵](https://zh.wikipedia.org/wiki/橫濱市營地下鐵 "wikilink")）
-  - [橫濱海岸線](https://zh.wikipedia.org/wiki/橫濱海岸線 "wikilink")◇ \[2\]
+  - [橫濱海岸線](../Page/橫濱海岸線.md "wikilink")◇ \[2\]
 
 #### 2009年3月14日起
 
@@ -116,14 +116,14 @@ PASMO的[吉祥物是一個](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")
     ※武藏野營業所、青梅街道營業所、五日市街道營業所、阿佐谷營業所
     ★丸山營業所
 
-  - <span style="color:gold">**★**</span>[京濱急行巴士](https://zh.wikipedia.org/wiki/京濱急行巴士 "wikilink")
+  - <span style="color:gold">**★**</span>[京濱急行巴士](../Page/京濱急行巴士.md "wikilink")
     ※京濱島營業所、羽田營業所、大森營業所 ★逗子營業所、☆衣笠營業所、三崎營業所、久里濱營業所
 
       - <span style="color:gold">**★**</span>羽田京急巴士 ※東京營業所
       - <span style="color:gold">**★**</span>橫濱京急巴士 ※杉田營業所、能見台營業所 ☆追濱營業所
       - <span style="color:gold">**★**</span>湘南京急巴士 ☆鎌倉營業所、堀內營業所
 
-  - <span style="color:gold">**★**</span>[京王電鐵巴士](https://zh.wikipedia.org/wiki/京王電鐵巴士 "wikilink")
+  - <span style="color:gold">**★**</span>[京王電鐵巴士](../Page/京王電鐵巴士.md "wikilink")
     ★府中營業所、櫻丘營業所、多摩營業所、八王子營業所
 
       - <span style="color:gold">**★**</span>京王巴士東 ※中野營業所、永福町營業所 ★調布營業所
@@ -132,7 +132,7 @@ PASMO的[吉祥物是一個](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")
       - <span style="color:gold">**★**</span>京王巴士中央 ★
       - <span style="color:gold">**★**</span>京王巴士小金井 ★
 
-  - <span style="color:gold">**★**</span>[京成巴士](https://zh.wikipedia.org/wiki/京成巴士 "wikilink")
+  - <span style="color:gold">**★**</span>[京成巴士](../Page/京成巴士.md "wikilink")
     ※金町營業所、江戶川營業所、茜濱車庫 ★船橋營業所（習志野市社區巴士）
     ☆長沼營業所、花見川車庫、船橋營業所（習志野市社區巴士除外）、松戶營業所、千葉營業所、市川營業所
 
@@ -158,7 +158,7 @@ PASMO的[吉祥物是一個](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")
 
   - <span style="color:gold">**★**</span> ※旭營業所、☆橫濱營業所、綾瀨營業所
 
-  - <span style="color:gold">**★**</span>[西武巴士](https://zh.wikipedia.org/wiki/西武巴士 "wikilink")
+  - <span style="color:gold">**★**</span>[西武巴士](../Page/西武巴士.md "wikilink")
     ※練馬營業所、高野台營業所、上石神井營業所、新座營業所 ★瀧山營業所
     ☆小平營業所、立川營業所、所澤營業所、大宮營業所、川越營業所、狹山營業所、飯能營業所
 
@@ -170,7 +170,7 @@ PASMO的[吉祥物是一個](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")
 
   - ◇銚子營業所（只限、）、成田營業所
 
-  - <span style="color:gold">**★**</span>[東急巴士](https://zh.wikipedia.org/wiki/東急巴士 "wikilink")
+  - <span style="color:gold">**★**</span>[東急巴士](../Page/東急巴士.md "wikilink")
     ※淡島營業所、弦卷營業所、下馬營業所、高津營業所 ★瀨田營業所、目黑營業所、池上營業所、荏原營業所、虹丘營業所
     ☆青葉台營業所、川崎營業所、東山田營業所、新羽營業所
 

@@ -1,7 +1,7 @@
 **加速處理器**（，縮寫**APU**）是[AMD一個](https://zh.wikipedia.org/wiki/AMD "wikilink")[處理器品牌](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")，包括E1/E2/A4/A6/A8/A10/Athlon/Sempron/FX與Ax-PRO等多個子系列。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 **APU**以往以**Fusion**作為其專案代號。[AMD
-Ryzen以後](https://zh.wikipedia.org/wiki/AMD_Ryzen "wikilink")，APU指的是整合了顯示核心的AMD處理器。
+Ryzen以後](../Page/AMD_Ryzen.md "wikilink")，APU指的是整合了顯示核心的AMD處理器。
 
 ## 歷史
 
@@ -21,7 +21,7 @@ Catalyst](https://zh.wikipedia.org/wiki/AMD_Catalyst "wikilink")[驅動程式更
 HD顯示核心的效能表現。\[13\]\[14\]\[15\]\[16\]
 
 2013年，超微取消了基於[Bobcat 2.0架構的Fusion](../Page/AMD_Bobcat.md "wikilink")
-APU，\[17\]取而代之的是[Jaguar架構](https://zh.wikipedia.org/wiki/AMD_Jaguar "wikilink")，核心代號分別爲「Kabini」和「Temash」，對應超低功耗裝置和平板裝置，晶片採用[台積電的](https://zh.wikipedia.org/wiki/台積電 "wikilink")28奈米制程製造。\[18\]\[19\]
+APU，\[17\]取而代之的是[Jaguar架構](../Page/AMD_Jaguar.md "wikilink")，核心代號分別爲「Kabini」和「Temash」，對應超低功耗裝置和平板裝置，晶片採用[台積電的](https://zh.wikipedia.org/wiki/台積電 "wikilink")28奈米制程製造。\[18\]\[19\]
 
 ### 商標爭議
 
@@ -77,7 +77,7 @@ APU的一樣，在內建顯示核心和獨立顯示核心之間根據負載進�
 | AMD 高解析度媒體加速器（AMD HD Media Accelerator）\[39\]                                                                                                                         | 2012年        |                 | [UVD單元](../Page/UVD.md "wikilink")                                                | 相比舊有的UVD單元，新的媒體加速器包括AMD 高解析度完美畫面技術（AMD Perfect Picture HD）、AMD Quick Stream技術（類似對手英特爾的[Quick Sync Video技術](https://zh.wikipedia.org/wiki/Quick_Sync_Video "wikilink")），以及AMD Steady Video技術\[40\]                                                             |
 | [HDMI](../Page/HDMI.md "wikilink"), [DisplayPort](../Page/DisplayPort.md "wikilink") 1.2, [DVI控制器](https://zh.wikipedia.org/wiki/Digital_Visual_Interface "wikilink") | 2012年        |                 |                                                                                   |                                                                                                                                                                                                                                                               |
 | 統一北橋                                                                                                                                                                  | 2012年        |                 | 北橋                                                                                | 新的統一北橋與舊有的整合北橋相比，內建處理器電源管理和新的C6電源狀態，新增Turbo Core 3.0（可根據負載需要和功耗狀態動態調整CPU核心和GPU核心的電壓和時脈，允許一段時間內實際時脈和電壓高於預設值但不超過熱設計功耗）\[41\]                                                                                                                                    |
-| [AMD Jaguar處理器核心](https://zh.wikipedia.org/wiki/AMD_Jaguar "wikilink")                                                                                                |              | 2013年           | [AMD Bobcat處理器核心](../Page/AMD_Bobcat.md "wikilink")                               |                                                                                                                                                                                                                                                               |
+| [AMD Jaguar處理器核心](../Page/AMD_Jaguar.md "wikilink")                                                                                                                   |              | 2013年           | [AMD Bobcat處理器核心](../Page/AMD_Bobcat.md "wikilink")                               |                                                                                                                                                                                                                                                               |
 | [AMD Steamroller處理器核心](../Page/AMD_Steamroller.md "wikilink")                                                                                                         | 2013年        |                 | [AMD Piledriver](../Page/AMD_Piledriver.md "wikilink")                            |                                                                                                                                                                                                                                                               |
 | [AMD Radeon HD 7000顯示核心](../Page/AMD_Radeon_HD_7000.md "wikilink")                                                                                                    | 2013年        | 2013年           | AMD Radeon HD 6900系列顯示核心                                                          | 新的GCN（Graphics Core Next）顯示核心架構：[RISC](https://zh.wikipedia.org/wiki/精簡指令集 "wikilink") [SIMD取代](https://zh.wikipedia.org/wiki/SIMD "wikilink")4/5-[VLIW](https://zh.wikipedia.org/wiki/VLIW "wikilink") [SIMD](https://zh.wikipedia.org/wiki/SIMD "wikilink") |
 | [南橋](https://zh.wikipedia.org/wiki/南橋 "wikilink")                                                                                                                     |              | 2013年           |                                                                                   |                                                                                                                                                                                                                                                               |
@@ -193,7 +193,7 @@ FM1](https://zh.wikipedia.org/wiki/Socket_FM1 "wikilink")，包括A4、A6和A8�
 FM2](../Page/Socket_FM2.md "wikilink")，包括E1、E2、A4、A6、A8和A10，晶片組為A55/A75/A85X。
 
 第三代AMD APU於2013年5月推出，核心代號Kabini，採用[Socket
-AM1以及](https://zh.wikipedia.org/wiki/Socket_AM1 "wikilink")[Socket
+AM1以及](../Page/Socket_AM1.md "wikilink")[Socket
 FT3](https://zh.wikipedia.org/wiki/Socket_FT3 "wikilink")，前者包括Athlon和Sempron後者包括E1、E2、A4、A6，為Soc設計。
 
 AMD APU於2013年6月推出第二代APU Refresh版，核心代號Richland，採用[Socket
@@ -215,7 +215,7 @@ AMD APU於2015年6月推出第四代APU Refresh版，核心代號Godavari，採�
 FM2+](../Page/Socket_FM2+.md "wikilink")，包括A4到A10，晶片組為A58/A78/A88X。
 
 第七代AMD APU於2016年4月發表，核心代號Bristol Ridge，採用[Socket
-AM4](https://zh.wikipedia.org/wiki/Socket_AM4 "wikilink")，包括A6到A12，晶片組為B350/A320。
+AM4](../Page/Socket_AM4.md "wikilink")，包括A6到A12，晶片組為B350/A320。
 
 2018年2月13日，首款AMD Ryzen™桌上型APU發表。\[51\]
 

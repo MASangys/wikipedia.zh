@@ -15,7 +15,7 @@ Explorer的更新。自Internet Explorer 7起，不支援Windows XP SP1及更舊
 
 2005年2月15日，在舊金山舉行的RSA會議上，微軟主席[比爾·蓋茨宣佈微軟計劃將在Windows](../Page/比尔·盖茨.md "wikilink")
 XP上推出新版的Internet Explorer\[1\]。他和Internet
-Explorer團隊總經理[迪安·哈查莫維奇都認為改善安全性是推出新版本的主要原因](https://zh.wikipedia.org/wiki/迪安·哈查莫維奇 "wikilink")\[2\]。
+Explorer團隊總經理[迪安·哈查莫維奇都認為改善安全性是推出新版本的主要原因](../Page/迪安·哈查莫維奇.md "wikilink")\[2\]。
 
 IE7的第一個測試版於2005年7月27日發布，用於技術測試，Internet Explorer 7的第一個公開預覽版本（Beta 2
 preview: Pre-Beta 2 version）於2006年1月31日發布\[3\]。

@@ -708,7 +708,7 @@
 <td><p>GFL</p></td>
 <td><p>KGFL</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/格倫斯福爾斯" title="wikilink">格倫斯福爾斯</a>，<a href="https://zh.wikipedia.org/wiki/紐約州" title="wikilink">紐約州</a></p></td>
+<td><p><a href="../Page/格倫斯福爾斯.md" title="wikilink">格倫斯福爾斯</a>，<a href="https://zh.wikipedia.org/wiki/紐約州" title="wikilink">紐約州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -988,7 +988,7 @@
 <td><p>GIU</p></td>
 <td><p>VCCS</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/丹布勒" title="wikilink">丹布勒</a>，<a href="../Page/中央省_(斯里蘭卡).md" title="wikilink">中央省</a></p></td>
+<td><p><a href="../Page/丹布勒.md" title="wikilink">丹布勒</a>，<a href="../Page/中央省_(斯里蘭卡).md" title="wikilink">中央省</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1100,7 +1100,7 @@
 <td><p>GKN</p></td>
 <td><p>PAGK</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/格爾卡納_(阿拉斯加州)" title="wikilink">格爾卡納</a>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
+<td><p><a href="../Page/格爾卡納_(阿拉斯加州).md" title="wikilink">格爾卡納</a>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1163,7 +1163,7 @@
 <td><p>GLF</p></td>
 <td><p>MRGF</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戈爾菲托區" title="wikilink">戈爾菲托區</a>，<a href="https://zh.wikipedia.org/wiki/蓬塔雷納斯省" title="wikilink">蓬塔雷納斯省</a></p></td>
+<td><p><a href="../Page/戈爾菲托區.md" title="wikilink">戈爾菲托區</a>，<a href="https://zh.wikipedia.org/wiki/蓬塔雷納斯省" title="wikilink">蓬塔雷納斯省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1177,7 +1177,7 @@
 <td><p>GLH</p></td>
 <td><p>KGLH</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/格林維爾_(密西西比州)" title="wikilink">格林維爾</a>，<a href="../Page/密西西比州.md" title="wikilink">密西西比州</a></p></td>
+<td><p><a href="../Page/格林維爾_(密西西比州).md" title="wikilink">格林維爾</a>，<a href="../Page/密西西比州.md" title="wikilink">密西西比州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1352,7 +1352,7 @@
 <td><p>GMN</p></td>
 <td><p>NZGM</p></td>
 <td><p><a href="../Page/格雷默斯機場.md" title="wikilink">格雷默斯機場</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/格雷茅斯" title="wikilink">格雷茅斯</a>，<a href="https://zh.wikipedia.org/wiki/西岸大區" title="wikilink">西岸大區</a></p></td>
+<td><p><a href="../Page/格雷茅斯.md" title="wikilink">格雷茅斯</a>，<a href="https://zh.wikipedia.org/wiki/西岸大區" title="wikilink">西岸大區</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1366,7 +1366,7 @@
 <td><p>GMP</p></td>
 <td><p>RKSS</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金浦國際機場" title="wikilink">金浦國際機場</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1575,7 +1575,7 @@
 <tr class="even">
 <td><p>GOI</p></td>
 <td><p>VOGO</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/果阿國際機場" title="wikilink">果阿國際機場</a></p></td>
+<td><p><a href="../Page/果阿國際機場.md" title="wikilink">果阿國際機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/莫爾穆加奧" title="wikilink">莫爾穆加奧</a>，<a href="../Page/果阿邦.md" title="wikilink">果阿邦</a></p></td>
 <td></td>
 </tr>

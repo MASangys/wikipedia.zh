@@ -28,7 +28,7 @@ Share在[亚洲相当受欢迎](../Page/亚洲.md "wikilink")，尤其是在除�
 
 ## 软件下载
 
-因为考虑到在日本的合法性，Share正式发布的版本目前在日本仅有为数不多的网站提供下载。不过也可以从日本以外的网站上下载到本软件，或者通过[搜索引擎来进行搜索以找到下载链接](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")。目前最新的版本是于2006年4月1日发布的EX2版。[ED2K或者其他](https://zh.wikipedia.org/wiki/EDonkey_Network "wikilink")[P2P网络中也可以找到該軟體檔案](https://zh.wikipedia.org/wiki/P2P "wikilink")。
+因为考虑到在日本的合法性，Share正式发布的版本目前在日本仅有为数不多的网站提供下载。不过也可以从日本以外的网站上下载到本软件，或者通过[搜索引擎来进行搜索以找到下载链接](../Page/搜索引擎.md "wikilink")。目前最新的版本是于2006年4月1日发布的EX2版。[ED2K或者其他](https://zh.wikipedia.org/wiki/EDonkey_Network "wikilink")[P2P网络中也可以找到該軟體檔案](https://zh.wikipedia.org/wiki/P2P "wikilink")。
 
 ## 使用要点
 

@@ -304,7 +304,7 @@ Sunny</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭恕峰" title="wikilink">鄭恕峰</a></p></td>
+<td><p><a href="../Page/鄭恕峰.md" title="wikilink">鄭恕峰</a></p></td>
 <td><p>劉　海</p></td>
 <td><p>警察，況天佑與Sunny的上司，後為掩護天佑逃生而被司徒奮仁所殺。</p></td>
 </tr>

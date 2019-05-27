@@ -117,12 +117,12 @@ WTA年终总决赛通常被认为是继[四大网球公开赛之後水平最高�
 <tr class="even">
 <td><p>1986年（2）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/纳芙拉蒂洛娃" title="wikilink">纳芙拉蒂洛娃</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/施特菲·格拉芙" title="wikilink">格拉芙</a></p></td>
+<td><p><a href="../Page/施特菲·格拉芙.md" title="wikilink">格拉芙</a></p></td>
 <td><p>7-6, 6-3, 6-2</p></td>
 </tr>
 <tr class="odd">
 <td><p>1987年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/施特菲·格拉芙" title="wikilink">格拉芙</a></p></td>
+<td><p><a href="../Page/施特菲·格拉芙.md" title="wikilink">格拉芙</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/加布里埃拉·薩巴蒂尼" title="wikilink">薩巴蒂尼</a></p></td>
 <td><p>4-6, 6-4, 6-0, 6-4</p></td>
 </tr>
@@ -134,7 +134,7 @@ WTA年终总决赛通常被认为是继[四大网球公开赛之後水平最高�
 </tr>
 <tr class="odd">
 <td><p>1989年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/施特菲·格拉芙" title="wikilink">格拉芙</a></p></td>
+<td><p><a href="../Page/施特菲·格拉芙.md" title="wikilink">格拉芙</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/纳芙拉蒂洛娃" title="wikilink">纳芙拉蒂洛娃</a></p></td>
 <td><p>6-4, 7-5, 2-6, 6-2</p></td>
 </tr>
@@ -158,7 +158,7 @@ WTA年终总决赛通常被认为是继[四大网球公开赛之後水平最高�
 </tr>
 <tr class="odd">
 <td><p>1993年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/施特菲·格拉芙" title="wikilink">格拉芙</a></p></td>
+<td><p><a href="../Page/施特菲·格拉芙.md" title="wikilink">格拉芙</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿蘭查·桑切斯-維卡裡奧" title="wikilink">桑切斯</a></p></td>
 <td><p>6-1, 6-4, 3-6, 6-1</p></td>
 </tr>
@@ -170,13 +170,13 @@ WTA年终总决赛通常被认为是继[四大网球公开赛之後水平最高�
 </tr>
 <tr class="odd">
 <td><p>1995年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/施特菲·格拉芙" title="wikilink">格拉芙</a></p></td>
+<td><p><a href="../Page/施特菲·格拉芙.md" title="wikilink">格拉芙</a></p></td>
 <td><p><a href="../Page/安克·胡貝爾.md" title="wikilink">胡貝爾</a></p></td>
 <td><p>6-1, 2-6, 6-1, 4-6, 6-3</p></td>
 </tr>
 <tr class="even">
 <td><p>1996年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/施特菲·格拉芙" title="wikilink">格拉芙</a></p></td>
+<td><p><a href="../Page/施特菲·格拉芙.md" title="wikilink">格拉芙</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/瑪蒂娜·辛吉斯" title="wikilink">辛吉絲</a></p></td>
 <td><p>6-3, 4-6, 6-0, 4-6, 6-0</p></td>
 </tr>

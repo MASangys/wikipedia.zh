@@ -29,7 +29,7 @@
 | HFT | 亨墨菲斯機場                                                                    | [亨墨菲斯](../Page/亨墨菲斯.md "wikilink")                                   | [挪威](../Page/挪威.md "wikilink")                              |
 | HGH | [杭州蕭山國際機場](https://zh.wikipedia.org/wiki/杭州蕭山國際機場 "wikilink")             | [杭州市](../Page/杭州市.md "wikilink")                                     | [中國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")      |
 | HGR | 黑格斯敦地方機場                                                                  | [黑格斯敦](../Page/黑格斯敦_\(馬里蘭州\).md "wikilink")                          | [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")           |
-| HGU | [芒特哈根机场](https://zh.wikipedia.org/wiki/芒特哈根机场 "wikilink")                 | [芒特哈根](../Page/芒特哈根.md "wikilink")                                   | [巴布亞紐幾內亞](https://zh.wikipedia.org/wiki/巴布亞紐幾內亞 "wikilink") |
+| HGU | [芒特哈根机场](../Page/芒特哈根机场.md "wikilink")                                    | [芒特哈根](../Page/芒特哈根.md "wikilink")                                   | [巴布亞紐幾內亞](https://zh.wikipedia.org/wiki/巴布亞紐幾內亞 "wikilink") |
 | HHH | 希爾頓黑德島機場                                                                  | [希爾頓黑德島](https://zh.wikipedia.org/wiki/希爾頓黑德島_\(南卡羅來納州\) "wikilink") | [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")           |
 | HIJ | [廣島機場](https://zh.wikipedia.org/wiki/廣島機場 "wikilink")                     | [廣島縣](../Page/廣島縣.md "wikilink")                                     | [日本](../Page/日本.md "wikilink")                              |
 | HIN | [泗川機場](../Page/泗川機場.md "wikilink")                                        | [泗川市](../Page/泗川市.md "wikilink")                                     | [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")           |

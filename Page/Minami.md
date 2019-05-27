@@ -3,7 +3,7 @@
 
 ## 人物
 
-常葉学園橘高等学校音樂科、[代代木動畫學院声優人才科](https://zh.wikipedia.org/wiki/代代木動畫學院 "wikilink")（[特待生](https://zh.wikipedia.org/wiki/特待生 "wikilink")）畢業。幼稚園到[短期大學畢業都在學習鋼琴](https://zh.wikipedia.org/wiki/短期大學 "wikilink")，短大還專攻[声樂](https://zh.wikipedia.org/wiki/声樂 "wikilink")。從短大入学到2000年頃曾組過樂團，演唱、作詞、作曲一手包辦，當時拔擢為廣播節目助手，製作[廣播劇主題曲為契機](../Page/廣播劇.md "wikilink")\[1\]，以本名**村上久美子**名義從事音樂活動，但不順遂；直到改[藝名為](../Page/藝名.md "wikilink")-{栗}-林美奈實，參與成人遊戲《[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")》配音並演唱主題曲才聲名大噪。2016年以出道15週年為由，宣布改用現在藝名Minami\[2\]。
+常葉学園橘高等学校音樂科、[代代木動畫學院声優人才科](../Page/代代木動畫學院.md "wikilink")（[特待生](https://zh.wikipedia.org/wiki/特待生 "wikilink")）畢業。幼稚園到[短期大學畢業都在學習鋼琴](https://zh.wikipedia.org/wiki/短期大學 "wikilink")，短大還專攻[声樂](https://zh.wikipedia.org/wiki/声樂 "wikilink")。從短大入学到2000年頃曾組過樂團，演唱、作詞、作曲一手包辦，當時拔擢為廣播節目助手，製作[廣播劇主題曲為契機](../Page/廣播劇.md "wikilink")\[1\]，以本名**村上久美子**名義從事音樂活動，但不順遂；直到改[藝名為](../Page/藝名.md "wikilink")-{栗}-林美奈實，參與成人遊戲《[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")》配音並演唱主題曲才聲名大噪。2016年以出道15週年為由，宣布改用現在藝名Minami\[2\]。
 
 2015年宣佈已育有一男\[3\]。
 

@@ -3,7 +3,7 @@
 | IAD | [華盛頓杜勒斯國際機場](https://zh.wikipedia.org/wiki/華盛頓杜勒斯國際機場 "wikilink")   | [華盛頓特區](https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區 "wikilink")    | [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")      |
 | IAG | [尼亞加拉瀑布國際機場](https://zh.wikipedia.org/wiki/尼亞加拉瀑布國際機場 "wikilink")   | [尼亞加拉瀑布城](../Page/尼亞加拉瀑布城_\(紐約州\).md "wikilink")               | [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")      |
 | IAH | [喬治·布希洲際機場](https://zh.wikipedia.org/wiki/喬治·布希洲際機場 "wikilink")     | [休士頓](https://zh.wikipedia.org/wiki/休士頓 "wikilink")            | [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")      |
-| IAS | [雅西國際機場](https://zh.wikipedia.org/wiki/雅西國際機場 "wikilink")           | [雅西](https://zh.wikipedia.org/wiki/雅西 "wikilink")              | [羅馬尼亞](../Page/羅馬尼亞.md "wikilink")                     |
+| IAS | [雅西國際機場](../Page/雅西國際機場.md "wikilink")                              | [雅西](https://zh.wikipedia.org/wiki/雅西 "wikilink")              | [羅馬尼亞](../Page/羅馬尼亞.md "wikilink")                     |
 | IBZ | [伊維薩機場](https://zh.wikipedia.org/wiki/伊維薩機場 "wikilink")             | [伊維薩島](https://zh.wikipedia.org/wiki/伊維薩島 "wikilink")          | [西班牙](../Page/西班牙.md "wikilink")                       |
 | ICN | [仁川國際機場](../Page/仁川國際機場.md "wikilink")                              | [仁川](../Page/仁川廣域市.md "wikilink")                              | [大韩民国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")  |
 | IEV | [基輔國際機場](../Page/基輔國際機場.md "wikilink")                              | [基輔](../Page/基輔.md "wikilink")                                 | [烏克蘭](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")    |

@@ -1,5 +1,5 @@
 **ARCH模型**（***Autoregressive conditional heteroskedasticity
-model***）全称“自回归条件异方差模型”，解决了传统的[计量经济学对](../Page/计量经济学.md "wikilink")[时间序列变量的第二个假设](https://zh.wikipedia.org/wiki/时间序列 "wikilink")（[變異數恆定](https://zh.wikipedia.org/wiki/變異數 "wikilink")）所引起的问题。这个模型是获得2003年[诺贝尔经济学奖的](https://zh.wikipedia.org/wiki/诺贝尔经济学奖 "wikilink")[计量经济学成果之一](../Page/计量经济学.md "wikilink")。
+model***）全称“自回归条件异方差模型”，解决了传统的[计量经济学对](../Page/计量经济学.md "wikilink")[时间序列变量的第二个假设](https://zh.wikipedia.org/wiki/时间序列 "wikilink")（[變異數恆定](https://zh.wikipedia.org/wiki/變異數 "wikilink")）所引起的问题。这个模型是获得2003年[诺贝尔经济学奖的](../Page/诺贝尔经济学奖.md "wikilink")[计量经济学成果之一](../Page/计量经济学.md "wikilink")。
 
 ## 起源
 
@@ -9,7 +9,7 @@ model***）全称“自回归条件异方差模型”，解决了传统的[计�
 
 ## ARCH模型内涵
 
-以\(\varepsilon_t\)表示收益或者收益残差，假设\(\varepsilon_t=\sigma_t z_t\)，此处\(z_t\sim iid\ N(0,1)\)（即[独立同分布](https://zh.wikipedia.org/wiki/独立同分布 "wikilink")，均符合[期望为](https://zh.wikipedia.org/wiki/期望 "wikilink")0，[方差为](../Page/方差.md "wikilink")1的[正态分布](../Page/正态分布.md "wikilink")）此处序列\(\sigma_t^2\)建模为
+以\(\varepsilon_t\)表示收益或者收益残差，假设\(\varepsilon_t=\sigma_t z_t\)，此处\(z_t\sim iid\ N(0,1)\)（即[独立同分布](../Page/独立同分布.md "wikilink")，均符合[期望为](https://zh.wikipedia.org/wiki/期望 "wikilink")0，[方差为](../Page/方差.md "wikilink")1的[正态分布](../Page/正态分布.md "wikilink")）此处序列\(\sigma_t^2\)建模为
 
 \[\sigma_t^2=\alpha_0+\alpha_1 \varepsilon_{t-1}^2+\cdots+\alpha_p \varepsilon_{t-p}^2\]
 

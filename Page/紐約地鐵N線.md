@@ -1,6 +1,6 @@
 **N線百老匯快車**（），又稱**紐約地鐵N線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵路線](../Page/地鐵.md "wikilink")。由於該線在[曼哈頓使用](../Page/曼哈頓.md "wikilink")[BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")，因此其路線徽號為黃色\[1\]。
 
-N線在任何時候都營運，來往[阿斯托利亞的](https://zh.wikipedia.org/wiki/阿斯托里亞_\(皇后區\) "wikilink")[迪特馬斯林蔭路與](https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_\(BMT阿斯托利亞線\) "wikilink")[康尼島的](../Page/康尼島.md "wikilink")[斯提威爾大道](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_\(BMT海灘線\) "wikilink")，有限度服務以[上東城的](https://zh.wikipedia.org/wiki/上東城 "wikilink")[96街而不是迪特馬斯林蔭路](https://zh.wikipedia.org/wiki/96街車站_\(第二大道線\) "wikilink")。平日日間服務在皇后區以慢車營運，在曼哈頓（[34街-先驅廣場至](https://zh.wikipedia.org/wiki/34街-先驅廣場車站_\(BMT百老匯線\) "wikilink")[堅尼街](https://zh.wikipedia.org/wiki/堅尼街車站_\(BMT百老匯線\) "wikilink")）及布魯克林（[大西洋大道-巴克萊中心至](https://zh.wikipedia.org/wiki/大西洋大道-巴克萊中心車站_\(BMT第四大道線\) "wikilink")[59街](https://zh.wikipedia.org/wiki/59街車站_\(BMT第四大道線\) "wikilink")，通過[德卡爾布大道](https://zh.wikipedia.org/wiki/德卡爾布大道車站_\(BMT第四大道線\) "wikilink")）以快車營運，途經[曼哈頓大橋南側](../Page/曼哈頓大橋.md "wikilink")；平日曼哈頓慢車服務由[W線負責](../Page/紐約地鐵W線.md "wikilink")\[2\]。週末日間服務與平日日間服務相同，但曼哈頓[堅尼街以北以慢車而不是快車營運](https://zh.wikipedia.org/wiki/堅尼街車站_\(BMT百老匯線\) "wikilink")。每日深夜，列車停靠全線所有車站，途經。
+N線在任何時候都營運，來往[阿斯托利亞的](../Page/阿斯托里亞_\(皇后區\).md "wikilink")[迪特馬斯林蔭路與](https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_\(BMT阿斯托利亞線\) "wikilink")[康尼島的](../Page/康尼島.md "wikilink")[斯提威爾大道](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_\(BMT海灘線\) "wikilink")，有限度服務以[上東城的](https://zh.wikipedia.org/wiki/上東城 "wikilink")[96街而不是迪特馬斯林蔭路](https://zh.wikipedia.org/wiki/96街車站_\(第二大道線\) "wikilink")。平日日間服務在皇后區以慢車營運，在曼哈頓（[34街-先驅廣場至](https://zh.wikipedia.org/wiki/34街-先驅廣場車站_\(BMT百老匯線\) "wikilink")[堅尼街](https://zh.wikipedia.org/wiki/堅尼街車站_\(BMT百老匯線\) "wikilink")）及布魯克林（[大西洋大道-巴克萊中心至](https://zh.wikipedia.org/wiki/大西洋大道-巴克萊中心車站_\(BMT第四大道線\) "wikilink")[59街](https://zh.wikipedia.org/wiki/59街車站_\(BMT第四大道線\) "wikilink")，通過[德卡爾布大道](https://zh.wikipedia.org/wiki/德卡爾布大道車站_\(BMT第四大道線\) "wikilink")）以快車營運，途經[曼哈頓大橋南側](../Page/曼哈頓大橋.md "wikilink")；平日曼哈頓慢車服務由[W線負責](../Page/紐約地鐵W線.md "wikilink")\[2\]。週末日間服務與平日日間服務相同，但曼哈頓[堅尼街以北以慢車而不是快車營運](https://zh.wikipedia.org/wiki/堅尼街車站_\(BMT百老匯線\) "wikilink")。每日深夜，列車停靠全線所有車站，途經。
 
 N線沿[IND皇后林蔭路線前往](../Page/IND皇后林蔭路線.md "wikilink")[森林小丘-71大道以慢車營運](https://zh.wikipedia.org/wiki/森林小丘-71大道車站_\(IND皇后林蔭路線\) "wikilink")，直至1987年與R線對調總站。
 
@@ -310,7 +310,7 @@ N線沿[IND皇后林蔭路線前往](../Page/IND皇后林蔭路線.md "wikilink"
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/63街線" title="wikilink">63街線</a></strong>（只限繁忙時段有限度服務）[6]</p></td>
+<td><p><strong><a href="../Page/63街線.md" title="wikilink">63街線</a></strong>（只限繁忙時段有限度服務）[6]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -368,7 +368,7 @@ N線沿[IND皇后林蔭路線前往](../Page/IND皇后林蔭路線.md "wikilink"
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿斯托利亞林蔭路車站_(BMT阿斯托利亞線)" title="wikilink">阿斯托利亞林蔭路</a></p></td>
+<td><p><a href="../Page/阿斯托利亞林蔭路車站_(BMT阿斯托利亞線).md" title="wikilink">阿斯托利亞林蔭路</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -377,7 +377,7 @@ N線沿[IND皇后林蔭路線前往](../Page/IND皇后林蔭路線.md "wikilink"
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/30大道車站_(BMT阿斯托利亞線)" title="wikilink">30大道</a></p></td>
+<td><p><a href="../Page/30大道車站_(BMT阿斯托利亞線).md" title="wikilink">30大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -395,7 +395,7 @@ N線沿[IND皇后林蔭路線前往](../Page/IND皇后林蔭路線.md "wikilink"
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/36大道車站_(BMT阿斯托利亞線)" title="wikilink">36大道</a></p></td>
+<td><p><a href="../Page/36大道車站_(BMT阿斯托利亞線).md" title="wikilink">36大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -404,7 +404,7 @@ N線沿[IND皇后林蔭路線前往](../Page/IND皇后林蔭路線.md "wikilink"
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/39大道車站_(BMT阿斯托利亞線)" title="wikilink">39大道</a></p></td>
+<td><p><a href="../Page/39大道車站_(BMT阿斯托利亞線).md" title="wikilink">39大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -417,7 +417,7 @@ N線沿[IND皇后林蔭路線前往](../Page/IND皇后林蔭路線.md "wikilink"
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）</p></td>
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -447,7 +447,7 @@ N線沿[IND皇后林蔭路線前往](../Page/IND皇后林蔭路線.md "wikilink"
 <td></td>
 <td><p><br />
 （<a href="../Page/IRT萊辛頓大道線.md" title="wikilink">IRT萊辛頓大道線</a>）<br />
-出站轉乘：（<a href="https://zh.wikipedia.org/wiki/63街線" title="wikilink">63街線</a>，<a href="https://zh.wikipedia.org/wiki/萊辛頓大道-63街車站" title="wikilink">萊辛頓大道-63街</a>）</p></td>
+出站轉乘：（<a href="../Page/63街線.md" title="wikilink">63街線</a>，<a href="https://zh.wikipedia.org/wiki/萊辛頓大道-63街車站" title="wikilink">萊辛頓大道-63街</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/羅斯福島纜車" title="wikilink">羅斯福島纜車</a></p></td>
 </tr>
 <tr class="odd">
@@ -503,7 +503,7 @@ N線沿[IND皇后林蔭路線前往](../Page/IND皇后林蔭路線.md "wikilink"
 <td></td>
 <td><p><br />
 （<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>）<br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）<br />
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）<br />
 （<a href="https://zh.wikipedia.org/wiki/IND第八大道線" title="wikilink">IND第八大道線</a>，<a href="https://zh.wikipedia.org/wiki/42街-航港局客運總站車站_(IND第八大道線)" title="wikilink">42街-航港局客運總站</a>）<br />
 （<a href="../Page/42街接駁線.md" title="wikilink">42街接駁線</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐新航港局客運總站" title="wikilink">紐新航港局客運總站</a></p></td>
@@ -835,7 +835,7 @@ N線沿[IND皇后林蔭路線前往](../Page/IND皇后林蔭路線.md "wikilink"
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/漢密爾頓堡公園道車站_(BMT海灘線)" title="wikilink">漢密爾頓堡公園道</a></p></td>
+<td><p><a href="../Page/漢密爾頓堡公園道車站_(BMT海灘線).md" title="wikilink">漢密爾頓堡公園道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -848,13 +848,13 @@ N線沿[IND皇后林蔭路線前往](../Page/IND皇后林蔭路線.md "wikilink"
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/BMT西城線" title="wikilink">BMT西城線</a>，<a href="https://zh.wikipedia.org/wiki/62街車站_(BMT西城線)" title="wikilink">62街</a>）</p></td>
+（<a href="../Page/BMT西城線.md" title="wikilink">BMT西城線</a>，<a href="https://zh.wikipedia.org/wiki/62街車站_(BMT西城線)" title="wikilink">62街</a>）</p></td>
 <td><p>康尼島方向列車因翻新不停靠此站直至2018年秋天。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/18大道車站_(BMT海灘線)" title="wikilink">18大道</a></p></td>
+<td><p><a href="../Page/18大道車站_(BMT海灘線).md" title="wikilink">18大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -863,7 +863,7 @@ N線沿[IND皇后林蔭路線前往](../Page/IND皇后林蔭路線.md "wikilink"
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/20大道車站_(BMT海灘線)" title="wikilink">20大道</a></p></td>
+<td><p><a href="../Page/20大道車站_(BMT海灘線).md" title="wikilink">20大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -872,7 +872,7 @@ N線沿[IND皇后林蔭路線前往](../Page/IND皇后林蔭路線.md "wikilink"
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/海灣公園道車站_(BMT海灘線)" title="wikilink">海灣公園道</a></p></td>
+<td><p><a href="../Page/海灣公園道車站_(BMT海灘線).md" title="wikilink">海灣公園道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -913,7 +913,7 @@ N線沿[IND皇后林蔭路線前往](../Page/IND皇后林蔭路線.md "wikilink"
 <td><p><a href="https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_(BMT海灘線)" title="wikilink">康尼島-斯提威爾大道</a></p></td>
 <td></td>
 <td></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/BMT西城線" title="wikilink">BMT西城線</a>）<br />
+<td><p>（<a href="../Page/BMT西城線.md" title="wikilink">BMT西城線</a>）<br />
 （<a href="https://zh.wikipedia.org/wiki/IND卡爾弗線" title="wikilink">IND卡爾弗線</a>）<br />
 （<a href="https://zh.wikipedia.org/wiki/BMT布萊頓線" title="wikilink">BMT布萊頓線</a>）</p></td>
 <td></td>

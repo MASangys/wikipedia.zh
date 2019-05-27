@@ -546,7 +546,7 @@
 <tr class="odd">
 <td><p>ADB</p></td>
 <td><p>LTBJ</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿德南·曼德列斯機場" title="wikilink">阿德南·曼德列斯機場</a></p></td>
+<td><p><a href="../Page/阿德南·曼德列斯機場.md" title="wikilink">阿德南·曼德列斯機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/伊茲密爾省" title="wikilink">伊茲密爾省</a><a href="https://zh.wikipedia.org/wiki/伊茲密爾" title="wikilink">伊茲密爾</a></p></td>
 <td></td>
 </tr>
@@ -687,7 +687,7 @@
 <td><p>ADV</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/東達爾富爾州" title="wikilink">東達爾富爾州</a><a href="https://zh.wikipedia.org/wiki/杜艾因" title="wikilink">杜艾因</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東達爾富爾州" title="wikilink">東達爾富爾州</a><a href="../Page/杜艾因.md" title="wikilink">杜艾因</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1128,7 +1128,7 @@
 <td><p>AHC</p></td>
 <td><p>KAHC</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/加利福尼亞州" title="wikilink">加利福尼亞州</a><a href="https://zh.wikipedia.org/wiki/赫朗_(加利福尼亞州)" title="wikilink">赫朗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加利福尼亞州" title="wikilink">加利福尼亞州</a><a href="../Page/赫朗_(加利福尼亞州).md" title="wikilink">赫朗</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1946,7 +1946,7 @@
 <tr class="odd">
 <td><p>AMQ</p></td>
 <td><p>WAPP</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴蒂穆拉国际机场" title="wikilink">巴蒂穆拉国际机场</a></p></td>
+<td><p><a href="../Page/巴蒂穆拉国际机场.md" title="wikilink">巴蒂穆拉国际机场</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/摩鹿加省" title="wikilink">摩鹿加省</a><a href="../Page/安汶.md" title="wikilink">安汶</a></p></td>
 <td></td>
 </tr>
@@ -2080,7 +2080,7 @@
 <td><p>ANL</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/比耶省" title="wikilink">比耶省</a><a href="https://zh.wikipedia.org/wiki/安杜洛" title="wikilink">安杜洛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/比耶省" title="wikilink">比耶省</a><a href="../Page/安杜洛.md" title="wikilink">安杜洛</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2570,7 +2570,7 @@
 <td><p>ARC</p></td>
 <td><p>PARC</p></td>
 <td></td>
-<td><p><a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a><a href="https://zh.wikipedia.org/wiki/北極村_(阿拉斯加州)" title="wikilink">北極村</a></p></td>
+<td><p><a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a><a href="../Page/北極村_(阿拉斯加州).md" title="wikilink">北極村</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3424,7 +3424,7 @@
 <td><p>AWM</p></td>
 <td><p>KAWM</p></td>
 <td></td>
-<td><p><a href="../Page/阿肯色州.md" title="wikilink">阿肯色州</a><a href="https://zh.wikipedia.org/wiki/西孟菲斯_(阿肯色州)" title="wikilink">西孟菲斯</a></p></td>
+<td><p><a href="../Page/阿肯色州.md" title="wikilink">阿肯色州</a><a href="../Page/西孟菲斯_(阿肯色州).md" title="wikilink">西孟菲斯</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3697,7 +3697,7 @@
 <td><p>AYS</p></td>
 <td><p>KAYS</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韋克羅斯_(喬治亞州)" title="wikilink">韋克羅斯</a></p></td>
+<td><p><a href="../Page/韋克羅斯_(喬治亞州).md" title="wikilink">韋克羅斯</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -19,8 +19,8 @@ YY
 
 2001年，徐天佑和黃又南組成Shine，簽約[EMI唱片公司](../Page/EMI.md "wikilink")，當時只有18歲。他們正式出道前曾被公司派往[日本受訓](../Page/日本.md "wikilink")，學習[結他](https://zh.wikipedia.org/wiki/結他 "wikilink")、[健身和](https://zh.wikipedia.org/wiki/健身 "wikilink")[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")。
 
-2002年2月20日，Shine正式出道。Shine在這年推出了兩張唱片，分別為《[電影男孩](https://zh.wikipedia.org/wiki/電影男孩 "wikilink")》\[2\]
-和《[心頭好](https://zh.wikipedia.org/wiki/心頭好 "wikilink")》。在2002年度[叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/叱吒樂壇流行榜頒獎典禮 "wikilink")，Shine同時奪得[叱咤樂壇生力軍組合金獎和](../Page/2002年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")[叱咤樂壇組合金獎](../Page/2002年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")。Shine這一年內拍攝了四部電影，包括《[香港有個荷里活](../Page/香港有個荷里活.md "wikilink")》、與[Twins拍攝的勵志愛情喜劇電影](https://zh.wikipedia.org/wiki/Twins "wikilink")《[這個夏天有異性](../Page/這個夏天有異性.md "wikilink")》、又南參演而Twins主演的電影《[一碌蔗](../Page/一碌蔗.md "wikilink")》和他們主演的電影《[五個嚇鬼的少年](https://zh.wikipedia.org/wiki/五個嚇鬼的少年 "wikilink")》，風頭十足。又南更憑《[一碌蔗](../Page/一碌蔗.md "wikilink")》和《香港有個荷里活》獲得《[2003年香港電影金像獎](https://zh.wikipedia.org/wiki/2003年香港電影金像獎 "wikilink")》兩項[最佳新演員提名](https://zh.wikipedia.org/wiki/最佳新演員 "wikilink")，又憑《香港有個荷里活》獲得[第三十九屆金馬獎最佳新演員提名](https://zh.wikipedia.org/wiki/第三十九屆金馬獎 "wikilink")。
+2002年2月20日，Shine正式出道。Shine在這年推出了兩張唱片，分別為《[電影男孩](../Page/電影男孩.md "wikilink")》\[2\]
+和《[心頭好](../Page/心頭好.md "wikilink")》。在2002年度[叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/叱吒樂壇流行榜頒獎典禮 "wikilink")，Shine同時奪得[叱咤樂壇生力軍組合金獎和](../Page/2002年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")[叱咤樂壇組合金獎](../Page/2002年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")。Shine這一年內拍攝了四部電影，包括《[香港有個荷里活](../Page/香港有個荷里活.md "wikilink")》、與[Twins拍攝的勵志愛情喜劇電影](https://zh.wikipedia.org/wiki/Twins "wikilink")《[這個夏天有異性](../Page/這個夏天有異性.md "wikilink")》、又南參演而Twins主演的電影《[一碌蔗](../Page/一碌蔗.md "wikilink")》和他們主演的電影《[五個嚇鬼的少年](https://zh.wikipedia.org/wiki/五個嚇鬼的少年 "wikilink")》，風頭十足。又南更憑《[一碌蔗](../Page/一碌蔗.md "wikilink")》和《香港有個荷里活》獲得《[2003年香港電影金像獎](https://zh.wikipedia.org/wiki/2003年香港電影金像獎 "wikilink")》兩項[最佳新演員提名](https://zh.wikipedia.org/wiki/最佳新演員 "wikilink")，又憑《香港有個荷里活》獲得[第三十九屆金馬獎最佳新演員提名](https://zh.wikipedia.org/wiki/第三十九屆金馬獎 "wikilink")。
 
 2003年，Shine推出了三張唱片《[半熟男孩](https://zh.wikipedia.org/wiki/半熟男孩 "wikilink")》、《[Natural
 Shine](https://zh.wikipedia.org/wiki/Natural_Shine "wikilink")》、《[Super
@@ -516,7 +516,7 @@ Moments Live
 <td><p><strong>2002年</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/電影男孩" title="wikilink">電影男孩</a></p></td>
+<td><p><a href="../Page/電影男孩.md" title="wikilink">電影男孩</a></p></td>
 </tr>
 <tr class="even">
 <td><p>電影男孩</p></td>
@@ -531,7 +531,7 @@ Moments Live
 <td><p>free {love}</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/心頭好" title="wikilink">心頭好</a></p></td>
+<td><p><a href="../Page/心頭好.md" title="wikilink">心頭好</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>心頭好</p></td>
@@ -651,7 +651,7 @@ Essentials</p></td>
   - 2011年：《[競雄女俠秋瑾](https://zh.wikipedia.org/wiki/競雄女俠秋瑾 "wikilink")》
   - 2014年：《[那夜凌晨,我坐上了旺角開往大埔的紅VAN](../Page/那夜凌晨，我坐上了旺角開往大埔的紅VAN_\(電影\).md "wikilink")》
   - 2017年：《[藍精靈：迷失的村莊](https://zh.wikipedia.org/wiki/藍精靈3 "wikilink")》（配音）
-  - 2019年：《[再見UFO](https://zh.wikipedia.org/wiki/再見UFO "wikilink")》
+  - 2019年：《[再見UFO](../Page/再見UFO.md "wikilink")》
 
 ## 獲獎記錄
 
@@ -708,9 +708,8 @@ Essentials</p></td>
 <!-- end list -->
 
   - [IFPI香港唱片銷量大獎](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎 "wikilink")2013
-    ——
-    [最暢銷本地現場錄製音像出品](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒獎禮2013 "wikilink")
-    《Shine Passion Live》
+    —— [最暢銷本地現場錄製音像出品](../Page/IFPI香港唱片銷量大獎頒獎禮2013.md "wikilink") 《Shine
+    Passion Live》
 
 ## 參考文獻
 

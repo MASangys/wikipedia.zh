@@ -6,7 +6,7 @@ Interface，簡稱**MIDI**）是一個工業標準的電子[通訊協定](https:
 MIDI不傳送聲音，只傳送像是音調和音樂強度的數據，音量，顫音和相位\[1\]等參數的控制訊號，還有設定節奏的時鐘信號。在不同的電腦上，輸出的聲音也因音源器不同而有差異。
 
 MIDI演出控制協議（MSC
-Protocol）是為MIDI而設的工業標準，由[MIDI產業協會在](https://zh.wikipedia.org/wiki/MIDI產業協會 "wikilink")1991年制定。它允許不同種類的媒體控制裝置在相互之間的通訊，借助電腦可以現場進行[演出控制的功能與](https://zh.wikipedia.org/wiki/演出控制 "wikilink")[娛樂應用](https://zh.wikipedia.org/wiki/娛樂 "wikilink")。與音樂MIDI相同，MSC並不傳輸實際顯示的媒體－
+Protocol）是為MIDI而設的工業標準，由[MIDI產業協會在](https://zh.wikipedia.org/wiki/MIDI產業協會 "wikilink")1991年制定。它允許不同種類的媒體控制裝置在相互之間的通訊，借助電腦可以現場進行[演出控制的功能與](https://zh.wikipedia.org/wiki/演出控制 "wikilink")[娛樂應用](../Page/娛樂.md "wikilink")。與音樂MIDI相同，MSC並不傳輸實際顯示的媒體－
 它只是簡單地傳輸有關[多媒體性能的指令](https://zh.wikipedia.org/wiki/多媒體 "wikilink")。
 
 現在幾乎所有的錄音工程都將MIDI作為一項關鍵開放技術來紀錄音樂。除此之外，MIDI也用來控制包括錄音設備的硬體，如舞台燈、效果器踏板等高性能的設備。近十年，MIDI已經堂堂邁入行動電話領域。MIDI用來播放支援MIDI行動電話的[鈴聲](https://zh.wikipedia.org/wiki/鈴聲 "wikilink")。MIDI還可為某些[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")、[電腦遊戲提供背景音樂](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。

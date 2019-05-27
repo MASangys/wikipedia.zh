@@ -15,7 +15,7 @@ K8T800差的頹氣。
 ## 產品規格
 
   - [PCI Express总线](../Page/PCI_Express.md "wikilink")
-  - 2組[ATA](https://zh.wikipedia.org/wiki/ATA "wikilink") 133通道
+  - 2組[ATA](../Page/ATA.md "wikilink") 133通道
   - 4組[SATA](../Page/SATA.md "wikilink")，支援[RAID](../Page/RAID.md "wikilink")
   - 10个[USB](../Page/USB.md "wikilink") 2.0接口
   - 千兆[网卡](../Page/网卡.md "wikilink")，支援nVIDIA

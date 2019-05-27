@@ -15,7 +15,7 @@ OPEN」作品競賽，並集合500位男女集體性愛拍攝成作品，同時�
   - SOD STAR
   - 本物人妻
   - 童貞狩
-  - [透明人](https://zh.wikipedia.org/wiki/透明人 "wikilink")
+  - [透明人](../Page/透明人.md "wikilink")
   - 時間停止系列
   - 魔術鏡系列
   - 我的皮可系列

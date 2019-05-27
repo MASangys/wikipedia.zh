@@ -1,6 +1,6 @@
 [C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")**运算符**都被[C++语言支持](https://zh.wikipedia.org/wiki/C++语言 "wikilink")。C语言不支持[运算符重载](../Page/运算符重载.md "wikilink")。
 
-在不重载时，运算符`&&`、`||`、`,`（），在第一个操作数求值之后有一个[顺序点](https://zh.wikipedia.org/wiki/顺序点 "wikilink")。
+在不重载时，运算符`&&`、`||`、`,`（），在第一个操作数求值之后有一个[顺序点](../Page/顺序点.md "wikilink")。
 
 大部分C与C++运算符也可用于其它程序设计语言如[C\#](../Page/C♯.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[PHP等](../Page/PHP.md "wikilink")，具有相同的优先级、结合性与语义。
 

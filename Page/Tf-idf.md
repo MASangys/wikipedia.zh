@@ -1,4 +1,4 @@
-**tf-idf**（）是一種用於[資訊檢索與](https://zh.wikipedia.org/wiki/資訊檢索 "wikilink")[文本挖掘的常用加權技術](../Page/文本挖掘.md "wikilink")。tf-idf是一種統計方法，用以評估一字詞對於一個文件集或一個[語料庫中的其中一份](https://zh.wikipedia.org/wiki/語料庫 "wikilink")[文件的重要程度](https://zh.wikipedia.org/wiki/文件 "wikilink")。字詞的重要性隨著它在文件中出現的次數成[正比增加](https://zh.wikipedia.org/wiki/正比 "wikilink")，但同時會隨著它在語料庫中出現的頻率成反比下降。tf-idf加權的各種形式常被[搜索引擎應用](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")，作為文件與用戶查詢之間相關程度的度量或評級。除了tf-idf以外，互聯網上的搜尋引擎還會使用基於連結分析的評級方法，以確定文件在搜尋結果中出現的順序。
+**tf-idf**（）是一種用於[資訊檢索與](https://zh.wikipedia.org/wiki/資訊檢索 "wikilink")[文本挖掘的常用加權技術](../Page/文本挖掘.md "wikilink")。tf-idf是一種統計方法，用以評估一字詞對於一個文件集或一個[語料庫中的其中一份](https://zh.wikipedia.org/wiki/語料庫 "wikilink")[文件的重要程度](https://zh.wikipedia.org/wiki/文件 "wikilink")。字詞的重要性隨著它在文件中出現的次數成[正比增加](https://zh.wikipedia.org/wiki/正比 "wikilink")，但同時會隨著它在語料庫中出現的頻率成反比下降。tf-idf加權的各種形式常被[搜索引擎應用](../Page/搜索引擎.md "wikilink")，作為文件與用戶查詢之間相關程度的度量或評級。除了tf-idf以外，互聯網上的搜尋引擎還會使用基於連結分析的評級方法，以確定文件在搜尋結果中出現的順序。
 
 ## 原理
 

@@ -2,7 +2,7 @@
 
 M線因為[BMT默特爾大道線短暫關閉而分為兩段](https://zh.wikipedia.org/wiki/BMT默特爾大道線 "wikilink")，正常情況下來往[中村-大都會大道](https://zh.wikipedia.org/wiki/中村-大都會大道車站_\(BMT默特爾大道線\) "wikilink")，直至2018年4月。其中一段以[接駁線來往](../Page/紐約地鐵S線.md "wikilink")的[大都會大道與](https://zh.wikipedia.org/wiki/中村-大都會大道車站_\(BMT默特爾大道線\) "wikilink")[布什維克的](https://zh.wikipedia.org/wiki/布什維克_\(布魯克林\) "wikilink")[默特爾-威克奧夫大道](https://zh.wikipedia.org/wiki/默特爾-威克奧夫大道車站_\(BMT默特爾大道線\) "wikilink")，任何時段都營運。另一段則除深夜外任何時段都營運。平日日間來往[森林小丘的](../Page/森林小丘.md "wikilink")[71大道與](https://zh.wikipedia.org/wiki/森林小丘-71大道車站_\(IND皇后林蔭路線\) "wikilink")的[百老匯交匯](https://zh.wikipedia.org/wiki/百老匯交匯車站_\(BMT牙買加線\) "wikilink")，停靠沿途所有車站；有限度服務以[東村的](https://zh.wikipedia.org/wiki/東村_\(曼哈頓\) "wikilink")[第二大道為總站而不是百老匯交匯車站](https://zh.wikipedia.org/wiki/第二大道車站_\(IND第六大道線\) "wikilink")；平日深夜列車由百老匯交匯開往[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[錢伯斯街](https://zh.wikipedia.org/wiki/錢伯斯街車站_\(BMT納蘇街線\) "wikilink")而不是71大道；週末日間列車來往百老匯交匯與曼哈頓[下東城的](https://zh.wikipedia.org/wiki/下東城 "wikilink")[埃塞克斯街](https://zh.wikipedia.org/wiki/埃塞克斯街車站_\(BMT納蘇街線\) "wikilink")。
 
-2010年以前M線途經[BMT納蘇街線](https://zh.wikipedia.org/wiki/BMT納蘇街線 "wikilink")、[BMT第四大道線](https://zh.wikipedia.org/wiki/BMT第四大道線 "wikilink")、[BMT西城線](https://zh.wikipedia.org/wiki/BMT西城線 "wikilink")、布魯克林南部到[第九大道或](https://zh.wikipedia.org/wiki/第九大道車站_\(BMT西城線\) "wikilink")[海灣公園道](https://zh.wikipedia.org/wiki/海灣公園道車站_\(BMT西城線\) "wikilink")。M線沿[BMT布萊頓線前往](https://zh.wikipedia.org/wiki/BMT布萊頓線 "wikilink")[康尼島-斯提威爾大道車站直至](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站 "wikilink")1987年為止。BMT默特爾大道線在以西路段拆除前曾經有MJ線行走全線。
+2010年以前M線途經[BMT納蘇街線](https://zh.wikipedia.org/wiki/BMT納蘇街線 "wikilink")、[BMT第四大道線](https://zh.wikipedia.org/wiki/BMT第四大道線 "wikilink")、[BMT西城線](../Page/BMT西城線.md "wikilink")、布魯克林南部到[第九大道或](https://zh.wikipedia.org/wiki/第九大道車站_\(BMT西城線\) "wikilink")[海灣公園道](https://zh.wikipedia.org/wiki/海灣公園道車站_\(BMT西城線\) "wikilink")。M線沿[BMT布萊頓線前往](https://zh.wikipedia.org/wiki/BMT布萊頓線 "wikilink")[康尼島-斯提威爾大道車站直至](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站 "wikilink")1987年為止。BMT默特爾大道線在以西路段拆除前曾經有MJ線行走全線。
 
 <div class="thumb tright" style="width:auto;">
 
@@ -64,7 +64,7 @@ M線因為[BMT默特爾大道線短暫關閉而分為兩段](https://zh.wikipedi
 
 1972年區間線停駛，麥朵大道線剩M線列車行駛。
 
-1976年8月27日[K線停駛](https://zh.wikipedia.org/wiki/紐約地鐵K線 "wikilink")，M線調整為慢車。
+1976年8月27日[K線停駛](../Page/紐約地鐵K線.md "wikilink")，M線調整為慢車。
 
 1986年4月26日布魯克林的訖站調至95街車站，並於[BMT第四大道線行快車](https://zh.wikipedia.org/wiki/BMT第四大道線 "wikilink")。隔年改行西側線，尖峰訖於海灣園道車站。
 
@@ -295,7 +295,7 @@ M線因為[BMT默特爾大道線短暫關閉而分為兩段](https://zh.wikipedi
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）</p></td>
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）</p></td>
 <td><p>線巴士往<a href="https://zh.wikipedia.org/wiki/拉瓜迪亞機場" title="wikilink">拉瓜迪亞機場</a>（只限）<br />
 <br />
 往<a href="https://zh.wikipedia.org/wiki/拉瓜迪亞機場" title="wikilink">拉瓜迪亞機場</a></p></td>
@@ -361,8 +361,8 @@ M線因為[BMT默特爾大道線短暫關閉而分為兩段](https://zh.wikipedi
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Aiga_elevator.svg" title="fig:Aiga_elevator.svg">Aiga_elevator.svg</a></p></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IND跨城線" title="wikilink">IND跨城線</a>）<br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）</p></td>
+（<a href="../Page/IND跨城線.md" title="wikilink">IND跨城線</a>）<br />
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -418,7 +418,7 @@ M線因為[BMT默特爾大道線短暫關閉而分為兩段](https://zh.wikipedi
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Aiga_elevator.svg" title="fig:Aiga_elevator.svg">Aiga_elevator.svg</a></p></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>，<a href="https://zh.wikipedia.org/wiki/第五大道車站_(IRT法拉盛線)" title="wikilink">第五大道</a>）</p></td>
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>，<a href="https://zh.wikipedia.org/wiki/第五大道車站_(IRT法拉盛線)" title="wikilink">第五大道</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -10,7 +10,7 @@ Flex 3
 IDEA](../Page/IntelliJ_IDEA.md "wikilink")、[Eclipse](../Page/Eclipse.md "wikilink")、[自由及开放源代码的IDE](https://zh.wikipedia.org/wiki/自由及开放源代码 "wikilink")
 [FlashDevelop](https://zh.wikipedia.org/wiki/FlashDevelop "wikilink")，以及专属软件[Adobe
 Flash
-Builder](https://zh.wikipedia.org/wiki/Adobe_Flash_Builder "wikilink")。最新版的SDK版本是4.16.1，采用第2版的[Apache许可证释出](../Page/Apache许可证.md "wikilink")。
+Builder](../Page/Adobe_Flash_Builder.md "wikilink")。最新版的SDK版本是4.16.1，采用第2版的[Apache许可证释出](../Page/Apache许可证.md "wikilink")。
 
 ## 成因
 

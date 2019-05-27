@@ -159,7 +159,7 @@ DETT 雙渦輪引擎。
 [Nissan_Skyline_Sedan_V35_in_2007.jpg](https://zh.wikipedia.org/wiki/File:Nissan_Skyline_Sedan_V35_in_2007.jpg "fig:Nissan_Skyline_Sedan_V35_in_2007.jpg")
 自1999年[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[雷諾与日產汽車结盟後](https://zh.wikipedia.org/wiki/雷諾 "wikilink")，開始對日產產品線進行大修訂，其中包括Skyline。
 
-日產於2001年6月正式發佈第十一代的Skyline，型號為V35，屬豪華車型。與之前相比，第十一代的Skyline與日產的[350Z使用同一開發平台](../Page/日產Z系列.md "wikilink")，採用應用於[日產Cefiro和](https://zh.wikipedia.org/wiki/日產Cefiro "wikilink")[日產Cedric的日產VQ引擎](https://zh.wikipedia.org/wiki/日產Cedric "wikilink")。
+日產於2001年6月正式發佈第十一代的Skyline，型號為V35，屬豪華車型。與之前相比，第十一代的Skyline與日產的[350Z使用同一開發平台](../Page/日產Z系列.md "wikilink")，採用應用於[日產Cefiro和](https://zh.wikipedia.org/wiki/日產Cefiro "wikilink")[日產Cedric的日產VQ引擎](../Page/日產Cedric.md "wikilink")。
 
 此代的Skyline在出口到[美國時](https://zh.wikipedia.org/wiki/美國 "wikilink")，車型是稱[英菲尼迪G35](https://zh.wikipedia.org/wiki/英菲尼迪G35 "wikilink")；日規掛NISSAN車名繼續稱「Skyline」。而不同於R32、R33、R34，V35並沒有任何特別版本，包括GT-R。這是基於1999年[雷諾車廠入主日產後所作的新策略](https://zh.wikipedia.org/wiki/雷諾 "wikilink")。
 

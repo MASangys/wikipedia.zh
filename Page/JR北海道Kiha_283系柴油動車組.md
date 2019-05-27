@@ -58,8 +58,8 @@
 
 ## 使用列車
 
-  - [超級大空](https://zh.wikipedia.org/wiki/超級大空號列車 "wikilink")（[札幌](../Page/札幌站.md "wikilink")～[釧路](../Page/釧路車站.md "wikilink")）
-  - [超級十勝](https://zh.wikipedia.org/wiki/超級大空號列車 "wikilink")（札幌～[帶廣](../Page/帶廣車站.md "wikilink")）
+  - [超級大空](../Page/超級大空號列車.md "wikilink")（[札幌](../Page/札幌站.md "wikilink")～[釧路](../Page/釧路車站.md "wikilink")）
+  - [超級十勝](../Page/超級大空號列車.md "wikilink")（札幌～[帶廣](../Page/帶廣車站.md "wikilink")）
 
 [Category:擺式列車](https://zh.wikipedia.org/wiki/Category:擺式列車 "wikilink")
 [Category:日本柴油動車組](https://zh.wikipedia.org/wiki/Category:日本柴油動車組 "wikilink")

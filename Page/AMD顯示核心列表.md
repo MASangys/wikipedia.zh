@@ -761,7 +761,7 @@ implementations.
 <th><p>傳輸介面</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>浮點運算效能<br />
 (<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>
@@ -973,7 +973,7 @@ GDDR4</p></td>
 <th><p>傳輸介面</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>浮點運算效能<br />
 (<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>
@@ -1398,7 +1398,7 @@ local frame buffer<br />
 <th><p>核心時脈 (MHz)</p></th>
 <th><p>記憶體時脈 (MHz)</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API支援</a> (版本)</p></th>
 </tr>
@@ -1745,7 +1745,7 @@ units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <th><p>傳輸介面</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>記憶體<sup>2</sup></p></th>
 <th><p>浮點運算效能<br />
 (<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>
@@ -3684,7 +3684,7 @@ Tahiti XTL[103]</p></td>
 <th><p>匯流排介面</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>記憶體<sup>6</sup></p></th>
 <th><p>浮點運算效能<br />
 (<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>
@@ -4123,13 +4123,12 @@ GDDR5</p></td>
 
 全系列支援以下技術:
 
-  - 支援AMD [FreeSync](https://zh.wikipedia.org/wiki/FreeSync "wikilink"),
-    AMD [TrueAudio](https://zh.wikipedia.org/wiki/TrueAudio "wikilink")
+  - 支援AMD [FreeSync](../Page/FreeSync.md "wikilink"), AMD
+    [TrueAudio](https://zh.wikipedia.org/wiki/TrueAudio "wikilink")
     Next, [DirectX
     12](https://zh.wikipedia.org/wiki/DirectX_12 "wikilink"), H.265
     [HEVC](https://zh.wikipedia.org/wiki/HEVC "wikilink"),
-    [Vulkan](https://zh.wikipedia.org/wiki/Vulkan_\(API\) "wikilink")
-    API
+    [Vulkan](../Page/Vulkan_\(API\).md "wikilink") API
   - 支援PlayReady 3.0、4k解析度
   - 支援影像輸出: [DisplayPort](../Page/DisplayPort.md "wikilink") 1.3 HBR and
     1.4
@@ -4153,7 +4152,7 @@ GDDR5</p></td>
 <th><p>匯流排介面</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>浮點運算效能<br />
 (<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>
@@ -8094,7 +8093,7 @@ of the AMD Radeon Rx 200 Series are code-named "Crystal Series":
 <th><p><a href="https://zh.wikipedia.org/wiki/Computer_bus" title="wikilink">匯流排</a> <a href="https://zh.wikipedia.org/wiki/I/O_interface" title="wikilink">介面</a></p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>浮點運算效能<br />
 (<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>

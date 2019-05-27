@@ -15,7 +15,7 @@ Mobile于2006年1月推出爲期六個月的“3G優先試”活動，进行3G�
 
 ### 上市
 
-SUNDAY在[香港電訊市場份額一向不大](../Page/香港電訊.md "wikilink")。1999年末、2000年初，[TOM.COM在港掀起](https://zh.wikipedia.org/wiki/TOM.COM "wikilink")[科網股熱潮](https://zh.wikipedia.org/wiki/科網股 "wikilink")，同樣具新科技概念的SUNDAY雖然未符合三年盈利的上市規定，但它以基建公司類別向聯交所申請豁免獲批，成功借科網股之勢上市集資。當時，SUNDAY的主要股東包括Distacom、[麗新發展](https://zh.wikipedia.org/wiki/麗新發展 "wikilink")、富聯國際、[僑福建設企業及中旅](https://zh.wikipedia.org/wiki/僑福建設企業 "wikilink")。
+SUNDAY在[香港電訊市場份額一向不大](../Page/香港電訊.md "wikilink")。1999年末、2000年初，[TOM.COM在港掀起](https://zh.wikipedia.org/wiki/TOM.COM "wikilink")[科網股熱潮](https://zh.wikipedia.org/wiki/科網股 "wikilink")，同樣具新科技概念的SUNDAY雖然未符合三年盈利的上市規定，但它以基建公司類別向聯交所申請豁免獲批，成功借科網股之勢上市集資。當時，SUNDAY的主要股東包括Distacom、[麗新發展](../Page/麗新發展.md "wikilink")、富聯國際、[僑福建設企業及中旅](https://zh.wikipedia.org/wiki/僑福建設企業 "wikilink")。
 
 2000年3月16日，SUNDAY以招股上限3.78港元掛牌，集資淨額約21億港元。但隨着科網股熱潮爆破，加上香港電訊競爭激烈，SUNDAY股價逐年下跌，2002年曾挫至0.092元的歷史新低，較招股價跌了97%。
 

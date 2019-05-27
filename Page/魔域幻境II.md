@@ -13,7 +13,7 @@ Pistol**，以及一個相同的種族：**Liandri**。
 《魔域幻境II：多人遊戲延伸》（**Unreal II eXpanded
 MultiPlayer**），簡稱**XMP**，在2003年12月9日免費釋出，提供一個類似[搶旗子的團隊模式](https://zh.wikipedia.org/wiki/奪旗 "wikilink")，補充了原先沒有的多人連線部分。
 
-《魔域幻境II》的[Xbox版在](https://zh.wikipedia.org/wiki/Xbox "wikilink")2004年2月10日發行。
+《魔域幻境II》的[Xbox版在](../Page/Xbox.md "wikilink")2004年2月10日發行。
 
 ## 武器
 

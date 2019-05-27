@@ -1,13 +1,13 @@
 **XSD (XML Schema
 Definition)**是[W3C于](https://zh.wikipedia.org/wiki/World_Wide_Web_Consortium "wikilink")2001年5月发布的推荐标准，指出如何形式描述XML文档的元素。XSD是許多[XML
 Schema
-语言中的一支](https://zh.wikipedia.org/wiki/XML_Schema_语言 "wikilink")。XSD是首先分離於XML本身的schema語言，故取得W3C的推薦地位。
+语言中的一支](../Page/XML_Schema_语言.md "wikilink")。XSD是首先分離於XML本身的schema語言，故取得W3C的推薦地位。
 
 像所有[XML Schema
-语言一樣](https://zh.wikipedia.org/wiki/XML_Schema_语言 "wikilink")，XSD用來描述一組规则──一个XML文件必須遵守这些規则，才能根據該schema『合法（Valid）』。
+语言一樣](../Page/XML_Schema_语言.md "wikilink")，XSD用來描述一組规则──一个XML文件必須遵守这些規则，才能根據該schema『合法（Valid）』。
 
 然而，与其他[XML Schema
-语言不同](https://zh.wikipedia.org/wiki/XML_Schema_语言 "wikilink")，XSD意圖設計为在确认一个文档的有效性时，将会产生满足特定[数据类型的一个信息集合](https://zh.wikipedia.org/wiki/数据类型 "wikilink")。这种后验证的[XML信息集可用来開發XML文件處理軟件](../Page/XML信息集.md "wikilink")。
+语言不同](../Page/XML_Schema_语言.md "wikilink")，XSD意圖設計为在确认一个文档的有效性时，将会产生满足特定[数据类型的一个信息集合](https://zh.wikipedia.org/wiki/数据类型 "wikilink")。这种后验证的[XML信息集可用来開發XML文件處理軟件](../Page/XML信息集.md "wikilink")。
 
 ## XSD名称的来源
 
@@ -16,7 +16,7 @@ Schema，Schema永遠字首大寫。
 
 “XML Schema”在2001年5月成为W3C推荐标准。由于“XML Schema”作为一种W3C的推荐标准的名字与广义的[XML
 Schema
-语言存在名称上的混淆](https://zh.wikipedia.org/wiki/XML_Schema_语言 "wikilink")，用户社区的一部分人采用了“WXS”来称呼它，
+语言存在名称上的混淆](../Page/XML_Schema_语言.md "wikilink")，用户社区的一部分人采用了“WXS”来称呼它，
 用户社区的另一部分人采用“**XSD**”（**X**ML **S**chema
 **D**efinition[首字母縮略字](../Page/首字母縮略字.md "wikilink")）来称呼它。W3C发布的1.1标准采用了“**XSD**”作为官方称呼。
 

@@ -1,7 +1,7 @@
 《**To
 Heart**》是由[Leaf在](../Page/Leaf.md "wikilink")1997年5月23日發售的[視覺小說類型](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2003年6月27日發售全年齡版《**To
 Heart
-PSE**》，是PS版本再加上附加小遊戲而成。遊戲機版都是由[AQUAPLUS發售](../Page/AQUAPLUS.md "wikilink")，1999年3月25日發售加入[配音的](../Page/配音.md "wikilink")[PS版](https://zh.wikipedia.org/wiki/PlayStation "wikilink")\[2\]，2004年12月28日發售[PS2版](https://zh.wikipedia.org/wiki/PS2 "wikilink")，2009年7月30日發售收錄1代和2代的[PSP版](https://zh.wikipedia.org/wiki/PSP "wikilink")《**ToHeart2
+PSE**》，是PS版本再加上附加小遊戲而成。遊戲機版都是由[AQUAPLUS發售](../Page/AQUAPLUS.md "wikilink")，1999年3月25日發售加入[配音的](../Page/配音.md "wikilink")[PS版](../Page/PlayStation.md "wikilink")\[2\]，2004年12月28日發售[PS2版](https://zh.wikipedia.org/wiki/PS2 "wikilink")，2009年7月30日發售收錄1代和2代的[PSP版](https://zh.wikipedia.org/wiki/PSP "wikilink")《**ToHeart2
 PORTABLE
 Wパック**》，2011年10月27日發售1代的PSP廉價版。\[3\]1999年4月1日到6月24日播放電視動畫\[4\]，2004年10月2日到12月25日播放第二部電視動畫《**To
 Heart 〜Remember my Memories〜**》。\[5\]
@@ -92,7 +92,7 @@ Jacky播放過電視動畫版](https://zh.wikipedia.org/wiki/ET_Jacky "wikilink"
   - 片頭曲「Feeling Heart」
     作詞：[須谷尚子](https://zh.wikipedia.org/wiki/須谷尚子 "wikilink")　作曲、編曲：[下川直哉](https://zh.wikipedia.org/wiki/下川直哉 "wikilink")　歌：[中司雅美](https://zh.wikipedia.org/wiki/中司雅美 "wikilink")
   - 片尾曲「Access」
-    作詞：[KAZUYO](https://zh.wikipedia.org/wiki/KAZUYO "wikilink")　作曲：[長部正和](https://zh.wikipedia.org/wiki/長部正和 "wikilink")　編曲：[HIRO](https://zh.wikipedia.org/wiki/HIRO "wikilink")　歌：[SPY](https://zh.wikipedia.org/wiki/SPY "wikilink")
+    作詞：[KAZUYO](https://zh.wikipedia.org/wiki/KAZUYO "wikilink")　作曲：[長部正和](https://zh.wikipedia.org/wiki/長部正和 "wikilink")　編曲：[HIRO](https://zh.wikipedia.org/wiki/HIRO "wikilink")　歌：[SPY](../Page/SPY.md "wikilink")
   - 片尾曲「Yell」（新潟放送・キッズステーション・ビデオ・DVD）
     作詞：[六ッ見純代](https://zh.wikipedia.org/wiki/六ッ見純代 "wikilink")　作曲：[前田克樹](https://zh.wikipedia.org/wiki/前田克樹 "wikilink")　編曲：[坂本昌之](https://zh.wikipedia.org/wiki/坂本昌之 "wikilink")　歌：神岸明（[川澄綾子](../Page/川澄綾子.md "wikilink")）
 

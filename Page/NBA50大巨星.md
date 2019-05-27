@@ -263,7 +263,7 @@
 <tr class="odd">
 <td><p>*</p></td>
 <td><p><a href="../Page/密尔沃基雄鹿.md" title="wikilink">密尔沃基雄鹿</a><small>（–）</small><br />
-<a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><small>（–）</small></p></td>
+<a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><small>（–）</small></p></td>
 <td><p>C</p></td>
 <td><p>38,387</p></td>
 <td><p>17,440</p></td>
@@ -339,7 +339,7 @@
 </tr>
 <tr class="even">
 <td><p>*</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">明尼阿波利斯/洛杉矶湖人</a><small>（–）</small></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">明尼阿波利斯/洛杉矶湖人</a><small>（–）</small></p></td>
 <td><p>F</p></td>
 <td><p>23,149</p></td>
 <td><p>11,463</p></td>
@@ -385,7 +385,7 @@
 <td><p>*</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">费城/旧金山勇士</a><small>（–）</small><br />
 <a href="../Page/费城76人.md" title="wikilink">费城76人</a><small>（–）</small><br />
-<a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><small>（–）</small></p></td>
+<a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><small>（–）</small></p></td>
 <td><p>C</p></td>
 <td><p>31,419</p></td>
 <td><p>23,924</p></td>
@@ -576,7 +576,7 @@
 </tr>
 <tr class="even">
 <td><p>*</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><small>（–、）</small></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><small>（–、）</small></p></td>
 <td><p>G/F</p></td>
 <td><p>17,707</p></td>
 <td><p>6,559</p></td>
@@ -636,7 +636,7 @@
 <tr class="even">
 <td><p><strong></strong>*</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/犹他爵士" title="wikilink">犹他爵士</a><small>（–）</small><br />
-<a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><small>（）</small></p></td>
+<a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><small>（）</small></p></td>
 <td><p>F</p></td>
 <td><p>36,928</p></td>
 <td><p>14,968</p></td>
@@ -700,7 +700,7 @@
 </tr>
 <tr class="even">
 <td><p>*</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">明尼阿波利斯湖人</a><small>（–）</p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">明尼阿波利斯湖人</a><small>（–）</p></td>
 <td><p>C</p></td>
 <td><p>10,156</p></td>
 <td><p>4,167</p></td>
@@ -745,7 +745,7 @@
 <tr class="odd">
 <td><p><strong></strong>*</p></td>
 <td><p><a href="../Page/奥兰多魔术.md" title="wikilink">奥兰多魔术</a><small>（–）</small><br />
-<a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><small>（–）</small><br />
+<a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><small>（–）</small><br />
 <a href="../Page/迈阿密热火.md" title="wikilink">迈阿密热火</a><small>（–）</small><br />
 <a href="../Page/菲尼克斯太阳.md" title="wikilink">菲尼克斯太阳</a><small>（–）</small><br />
 <a href="../Page/克里夫兰骑士.md" title="wikilink">克里夫兰骑士</a><small>（）</small><br />
@@ -970,7 +970,7 @@
 </tr>
 <tr class="even">
 <td><p>*</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><small>（–）</small></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><small>（–）</small></p></td>
 <td><p>G/F</p></td>
 <td><p>25,192</p></td>
 <td><p>5,366</p></td>
@@ -1001,7 +1001,7 @@
 </tr>
 <tr class="even">
 <td><p>*</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><small>（–）</small></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><small>（–）</small></p></td>
 <td><p>F</p></td>
 <td><p>16,320</p></td>
 <td><p>4,708</p></td>
@@ -1088,7 +1088,7 @@
 <tr class="odd">
 <td><p>*</p></td>
 <td><p><a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a><small>（–）</small><br />
-<a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><small>（–、–）</small></p></td>
+<a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><small>（–、–）</small></p></td>
 <td><p>414–160（.721）<br />
 <em>1155–485（.704）</em></p></td>
 <td><p>11<small>（、、、、、、、、、、）</small></p></td>
@@ -1098,7 +1098,7 @@
 </tr>
 <tr class="even">
 <td><p>*</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">明尼阿波利斯湖人</a><small>（<a href="https://zh.wikipedia.org/wiki/1948-49_BAA赛季" title="wikilink">1948</a>–）</small></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">明尼阿波利斯湖人</a><small>（<a href="https://zh.wikipedia.org/wiki/1948-49_BAA赛季" title="wikilink">1948</a>–）</small></p></td>
 <td><p>423–302（.583）</p></td>
 <td><p>5<small>（、、、、）</small></p></td>
 <td><p>无</p></td>
@@ -1132,7 +1132,7 @@
 </tr>
 <tr class="odd">
 <td><p>*</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><small>（–）</small><br />
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><small>（–）</small><br />
 <a href="https://zh.wikipedia.org/wiki/纽约尼克斯" title="wikilink">纽约尼克斯</a><small>（–）</small><br />
 <a href="../Page/迈阿密热火.md" title="wikilink">迈阿密热火</a><small>（–、–）</small></p></td>
 <td><p>798–339（.702）<br />
@@ -1164,7 +1164,7 @@
 
 同样包括在NBA50周年庆典中的还有NBA历史十大球队名单。这一名单由时常报导NBA的纸面和广播媒体不排名，从所有单支单赛季球队中选出。每支球队都获得了[NBA总冠军](https://zh.wikipedia.org/wiki/NBA总冠军 "wikilink")，并且平均赛季胜场达到66场。1995-96赛季的芝加哥公牛队保持着NBA历史上单赛季72胜的记录。但於2015-2016賽季被金州勇士隊的73勝打破紀錄。
 
-三十支NBA球队中有六支球队上榜（在名单公布时）；[波士顿凯尔特人](../Page/波士顿凯尔特人.md "wikilink")、[芝加哥公牛](../Page/芝加哥公牛.md "wikilink")、[洛杉矶湖人和](https://zh.wikipedia.org/wiki/洛杉矶湖人 "wikilink")[费城76人各有两支球队上榜](../Page/费城76人.md "wikilink")。
+三十支NBA球队中有六支球队上榜（在名单公布时）；[波士顿凯尔特人](../Page/波士顿凯尔特人.md "wikilink")、[芝加哥公牛](../Page/芝加哥公牛.md "wikilink")、[洛杉矶湖人和](../Page/洛杉矶湖人.md "wikilink")[费城76人各有两支球队上榜](../Page/费城76人.md "wikilink")。
 
 有六名球员同时登上两支球队的名单——[威尔特·张伯伦](../Page/威尔特·张伯伦.md "wikilink")，1966-67赛季76人和1971-72赛季湖人；[詹姆斯·爱德华兹](../Page/詹姆斯·爱德华兹.md "wikilink")、[丹尼斯·罗德曼和](https://zh.wikipedia.org/wiki/丹尼斯·罗德曼 "wikilink")[约翰·萨利](../Page/约翰·萨利.md "wikilink")，1988-89赛季活塞和1995-96赛季公牛；[迈克尔·乔丹和](../Page/迈克尔·乔丹.md "wikilink")[斯科蒂·皮蓬](../Page/斯科蒂·皮蓬.md "wikilink")，1991-92赛季和1995-96赛季的公牛。还有三人曾经效力和执教过球队，并且都是为同一支球队达成此成就的——[K·C·琼斯在](https://zh.wikipedia.org/wiki/K·C·琼斯 "wikilink")1964-65赛季为凯尔特人球员，1985-86赛季执教；[比利·坎宁安在](../Page/比利·坎宁安.md "wikilink")1966-67赛季为76人球员，1982-83赛季执教；[帕特·莱利在](https://zh.wikipedia.org/wiki/帕特·莱利 "wikilink")1971-72赛季为湖人球员，1986-87赛季执教。[菲尔·杰克逊在](https://zh.wikipedia.org/wiki/菲尔·杰克逊 "wikilink")1989年至1998年为公牛教练，他是唯一一位执教了榜上两支球队的。同时，杰克逊在1969-70赛季为尼克斯球员，但他由于脊柱融合手术缺席了整个赛季\[68\]。
 
@@ -1190,7 +1190,7 @@
 <td><p><a href="../Page/波士顿凯尔特人.md" title="wikilink">波士顿凯尔特人</a></p></td>
 <td><p>62–18（.775）</p></td>
 <td><p>赢得<a href="https://zh.wikipedia.org/wiki/1965年NBA总决赛" title="wikilink">1965年总决赛</a><br />
-<small>vs. <a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></small></p></td>
+<small>vs. <a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></small></p></td>
 <td><p><a href="../Page/罗恩·伯纳姆.md" title="wikilink">罗恩·伯纳姆</a>、<a href="https://zh.wikipedia.org/wiki/迈尔·康特斯" title="wikilink">迈尔·康特斯</a>、<a href="../Page/约翰·哈夫利切克.md" title="wikilink">约翰·哈夫利切克</a>、<a href="https://zh.wikipedia.org/wiki/汤姆·海因索恩" title="wikilink">汤姆·海因索恩</a>、<a href="https://zh.wikipedia.org/wiki/K·C·琼斯" title="wikilink">K·C·琼斯</a>、<a href="../Page/萨姆·琼斯_(篮球运动员).md" title="wikilink">萨姆·琼斯</a>、威利·诺尔斯、贝沃·诺德曼、<a href="../Page/比尔·拉塞尔.md" title="wikilink">比尔·拉塞尔</a>、<a href="../Page/萨奇·桑德斯.md" title="wikilink">汤姆·桑德斯</a>、拉里·西福里德、约翰·汤普森、杰里·沃德；主教练：<a href="https://zh.wikipedia.org/wiki/阿诺·奥尔巴赫" title="wikilink">里德·奥尔巴赫</a></p></td>
 <td><p>5（K·琼斯、S·琼斯、海因索恩、拉塞尔、哈夫利切克）</p></td>
 <td><p>3（S·琼斯、拉塞尔、哈夫利切克）</p></td>
@@ -1212,7 +1212,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/纽约尼克斯" title="wikilink">纽约尼克斯</a></p></td>
 <td><p>60–22（.732）</p></td>
 <td><p>赢得<a href="https://zh.wikipedia.org/wiki/1970年NBA总决赛" title="wikilink">1970年总决赛</a><br />
-<small>vs. <a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></small></p></td>
+<small>vs. <a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/迪克·巴奈特" title="wikilink">迪克·巴奈特</a>、<a href="../Page/内特·鲍曼.md" title="wikilink">内特·鲍曼</a>、<a href="../Page/比尔·布拉德利.md" title="wikilink">比尔·布拉德利</a>、<a href="../Page/戴夫·德布斯切尔.md" title="wikilink">戴夫·德布斯切尔</a>、<a href="../Page/沃尔特·弗雷泽.md" title="wikilink">沃尔特·弗雷泽</a>、比尔·霍斯克特、<a href="https://zh.wikipedia.org/wiki/唐纳德·梅" title="wikilink">唐纳德·梅</a>、<a href="../Page/威利斯·里德.md" title="wikilink">威利斯·里德</a>、麦克·里奥丹、卡奇·拉塞尔、戴夫、斯塔沃斯、约翰·沃伦；主教练：<a href="../Page/里德·霍尔兹曼.md" title="wikilink">里德·霍尔兹曼</a></p></td>
 <td><p>4（弗雷泽、布拉德利、德布斯切尔、里德）</p></td>
 <td><p>3（弗雷泽、德布斯切尔、里德）</p></td>
@@ -1220,7 +1220,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1971–72洛杉矶湖人赛季" title="wikilink">1971–72</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>69–13（.841）</p></td>
 <td><p>赢得<a href="https://zh.wikipedia.org/wiki/1972年NBA总决赛" title="wikilink">1972年总决赛</a><br />
 <small>vs. <a href="https://zh.wikipedia.org/wiki/纽约尼克斯" title="wikilink">纽约尼克斯</a></small></p></td>
@@ -1234,7 +1234,7 @@
 <td><p><a href="../Page/费城76人.md" title="wikilink">费城76人</a></p></td>
 <td><p>65–17（.793）</p></td>
 <td><p>赢得<a href="https://zh.wikipedia.org/wiki/1983年NBA总决赛" title="wikilink">1983年总决赛</a><br />
-<small>vs. <a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></small></p></td>
+<small>vs. <a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></small></p></td>
 <td><p>J·J·安德森、<a href="https://zh.wikipedia.org/wiki/莫里斯·奇克斯" title="wikilink">莫里斯·奇克斯</a>、<a href="https://zh.wikipedia.org/wiki/厄尔·克雷顿" title="wikilink">厄尔·克雷顿</a>、<a href="../Page/富兰克林·爱德华兹.md" title="wikilink">富兰克林·爱德华兹</a>、<a href="../Page/朱利叶斯·欧文.md" title="wikilink">朱利叶斯·欧文</a>、<a href="../Page/马克·雅法罗尼.md" title="wikilink">马克·雅法罗尼</a>、<a href="https://zh.wikipedia.org/wiki/科勒姆恩·约翰逊" title="wikilink">科勒姆恩·约翰逊</a>、<a href="https://zh.wikipedia.org/wiki/雷杰·约翰逊" title="wikilink">雷杰·约翰逊</a>、博比·琼斯、<a href="https://zh.wikipedia.org/wiki/摩西·马龙" title="wikilink">摩西·马龙</a>、<a href="../Page/马克·麦克纳马拉.md" title="wikilink">马克·麦克纳马拉</a>、克林特·理查德森、拉斯·舍内、安德鲁·托尼；主教练：<a href="../Page/比利·坎宁安.md" title="wikilink">比利·坎宁安</a></p></td>
 <td><p>2（欧文、<em>马龙</em>）</p></td>
 <td><p>2 （欧文、马龙）</p></td>
@@ -1253,7 +1253,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/1986–87洛杉矶湖人赛季" title="wikilink">1986–87</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>65–17（.793）</p></td>
 <td><p>赢得<a href="https://zh.wikipedia.org/wiki/1987年NBA总决赛" title="wikilink">1987年总决赛</a><br />
 <small>vs. <a href="../Page/波士顿凯尔特人.md" title="wikilink">波士顿凯尔特人</a></small></p></td>
@@ -1267,7 +1267,7 @@
 <td><p><a href="../Page/底特律活塞.md" title="wikilink">底特律活塞</a></p></td>
 <td><p>63–19（.768）</p></td>
 <td><p>赢得<a href="https://zh.wikipedia.org/wiki/1989年NBA总决赛" title="wikilink">1989年总决赛</a><br />
-<small>vs. <a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></small></p></td>
+<small>vs. <a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></small></p></td>
 <td><p><a href="../Page/马克·阿吉雷.md" title="wikilink">马克·阿吉雷</a>、<a href="../Page/阿德里安·丹特利.md" title="wikilink">阿德里安·丹特利</a>、<a href="../Page/达里尔·道金斯.md" title="wikilink">达里尔·道金斯</a>、<a href="https://zh.wikipedia.org/wiki/菲尼斯·登博" title="wikilink">菲尼斯·登博</a>、<a href="https://zh.wikipedia.org/wiki/乔·杜马斯" title="wikilink">乔·杜马斯</a>、<a href="../Page/詹姆斯·爱德华兹.md" title="wikilink">詹姆斯·爱德华兹</a>、<a href="../Page/史蒂夫·哈里斯.md" title="wikilink">史蒂夫·哈里斯</a>、<a href="https://zh.wikipedia.org/wiki/维尼尔·约翰逊" title="wikilink">维尼尔·约翰逊</a>、<a href="../Page/比尔·兰比尔.md" title="wikilink">比尔·兰比尔</a>、<a href="../Page/约翰·朗.md" title="wikilink">约翰·朗</a>、里克·马洪、佩斯·曼尼恩、<a href="https://zh.wikipedia.org/wiki/丹尼斯·罗德曼" title="wikilink">丹尼斯·罗德曼</a>、吉姆·罗温斯基、<a href="../Page/约翰·萨利.md" title="wikilink">约翰·萨利</a>、<a href="https://zh.wikipedia.org/wiki/伊塞亚·托马斯" title="wikilink">伊塞亚·托马斯</a>、米歇尔·威廉姆斯；主教练：<a href="https://zh.wikipedia.org/wiki/查克·戴利" title="wikilink">查克·戴利</a></p></td>
 <td><p>4（<em>托马斯</em>、<em>杜马斯</em>、<em>丹特利</em>、<em>罗德曼</em>）</p></td>
 <td><p>1（托马斯）</p></td>

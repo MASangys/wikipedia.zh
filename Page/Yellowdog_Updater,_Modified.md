@@ -22,6 +22,6 @@ Yum的图形化前端主要有Yumex和kyum（KDE）。它们并不是独立于Yu
   - [Fedora](../Page/Fedora.md "wikilink")
   - [RPM](../Page/RPM套件管理員.md "wikilink")
   - [APT](https://zh.wikipedia.org/wiki/高級包裝工具 "wikilink")
-  - [DNF](https://zh.wikipedia.org/wiki/DNF_\(软件\) "wikilink")
+  - [DNF](../Page/DNF_\(软件\).md "wikilink")
 
 [Category:系統軟件](https://zh.wikipedia.org/wiki/Category:系統軟件 "wikilink")

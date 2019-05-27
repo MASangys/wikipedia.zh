@@ -44,7 +44,7 @@ programming）的支持能力，是一个非常大的进步。
 
 <!-- end list -->
 
-  - 数据库[事务的一般化抽象层](https://zh.wikipedia.org/wiki/事务处理 "wikilink")，允许声明式（Declarative）事务管理器，简化事务的划分使之与底层无关。
+  - 数据库[事务的一般化抽象层](../Page/事务处理.md "wikilink")，允许声明式（Declarative）事务管理器，简化事务的划分使之与底层无关。
 
 <!-- end list -->
 
@@ -58,8 +58,8 @@ programming）的支持能力，是一个非常大的进步。
 
   - JDBC 抽象层提供了有针对性的异常等级（不再从 SQL 异常中提取原始代码），简化了错误处理，大大减少了程序员的编码量。再次利用
     JDBC 时，你无需再写出另一个'终止'（finally）模块。并且面向 JDBC 的异常与 Spring
-    通用[数据访问对象](https://zh.wikipedia.org/wiki/数据访问对象 "wikilink")（Data
-    Access Object）异常等级相一致。
+    通用[数据访问对象](../Page/数据访问对象.md "wikilink")（Data Access
+    Object）异常等级相一致。
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@ programming）的支持能力，是一个非常大的进步。
   - 灵活的基于核心 Spring 功能的
     [MVC](https://zh.wikipedia.org/wiki/模型-视图-程序控制 "wikilink")
     [网页应用程序框架](https://zh.wikipedia.org/wiki/网页应用程序 "wikilink")。开发者通过策略接口将拥有对该框架的高度控制，因而该框架将适应于多种呈现（View）技术，例如
-    [JSP](../Page/JSP.md "wikilink")、[FreeMarker](https://zh.wikipedia.org/wiki/FreeMarker "wikilink")、[Velocity](../Page/Apache_Velocity.md "wikilink")、[Thymeleaf](https://zh.wikipedia.org/wiki/Thymeleaf "wikilink")
+    [JSP](../Page/JSP.md "wikilink")、[FreeMarker](../Page/FreeMarker.md "wikilink")、[Velocity](../Page/Apache_Velocity.md "wikilink")、[Thymeleaf](../Page/Thymeleaf.md "wikilink")
     等。值得注意的是，Spring 中间层可以轻易地结合于任何基于 MVC 框架的网页层，例如
     [Struts](../Page/Struts.md "wikilink")、[WebWork](https://zh.wikipedia.org/wiki/WebWork "wikilink")
     或
@@ -100,11 +100,11 @@ programming）的支持能力，是一个非常大的进步。
 
 
 
-### [处理访问](https://zh.wikipedia.org/wiki/数据访问对象 "wikilink")（DAO层支持）
+### [处理访问](../Page/数据访问对象.md "wikilink")（DAO层支持）
 
 
 
-### [事务管理](https://zh.wikipedia.org/wiki/事务处理 "wikilink")
+### [事务管理](../Page/事务处理.md "wikilink")
 
 
 

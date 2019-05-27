@@ -31,7 +31,7 @@ XL。它每面有8个小时的录制时长。飞利浦另外创造了一种可�
 ## VCC影带的构造
 
 尽管名叫Video Compact
-Cassette，它或多或少地比VHS大。尺寸上比VHS窄5公厘，但高出一毫米且深6公厘。\[1\]\[2\]这种影带有2卷半英寸（12.5公厘）宽的[二氧化铬](https://zh.wikipedia.org/wiki/二氧化铬 "wikilink")[磁带](../Page/磁带.md "wikilink")。这种格式每*单面*只使用四分之一英寸（6.25公厘），所以它有时也被称为四分之一英寸磁带，尽管它实际宽度是二分之一英寸。
+Cassette，它或多或少地比VHS大。尺寸上比VHS窄5公厘，但高出一毫米且深6公厘。\[1\]\[2\]这种影带有2卷半英寸（12.5公厘）宽的[二氧化铬](../Page/二氧化铬.md "wikilink")[磁带](../Page/磁带.md "wikilink")。这种格式每*单面*只使用四分之一英寸（6.25公厘），所以它有时也被称为四分之一英寸磁带，尽管它实际宽度是二分之一英寸。
 
 VHS与Betamax影带上有一个扳片。用户可以扳断它以防止已录好的节目被洗掉或覆盖。若扳片已被扳断，在下一次使用该录像带录影前必须填满或覆盖该处空隙。VCC的设计则较有弹性，它有一个开关可以指示一次录影需保留的长度。这项技术在后来的[Video8](https://zh.wikipedia.org/wiki/Video8 "wikilink")、[MiniDV以及](https://zh.wikipedia.org/wiki/MiniDV "wikilink")[MicroMV录像带上亦被应用](https://zh.wikipedia.org/wiki/MicroMV "wikilink")。
 

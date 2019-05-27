@@ -1,6 +1,6 @@
 **X
 JAPAN**是20世紀末在[日本組建的五人男子](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")／[重金屬樂團](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")\[1\]\[2\]，音樂作品銷量超過三千萬張，音樂風格主要是擁有[重交響樂元素的](../Page/交響金屬.md "wikilink")[力量](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")／[速度金屬](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")，隨著時間推移，他們發展成具備[前衛搖滾元素的樂團](../Page/前衛搖滾.md "wikilink")，擅長詮釋。樂團在1988年實現了[獨立音樂界的巨大成功後](../Page/獨立音樂.md "wikilink")，才決定與主流唱片公司簽約正式出道\[3\]。他們被視為是日本特有[視覺系文化的開山始祖](../Page/視覺系.md "wikilink")，也是日本最有劃時代的意義的傳奇樂團，對後來的音樂世代具有相當的影響力\[4\]。2007年，《[滾石雜誌](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")》將他們的出道專輯《[BLUE
-BLOOD](https://zh.wikipedia.org/wiki/BLUE_BLOOD "wikilink")》列為日本史上百大搖滾專輯第15名\[5\]。
+BLOOD](../Page/BLUE_BLOOD.md "wikilink")》列為日本史上百大搖滾專輯第15名\[5\]。
 
 1982年創始於[日本](../Page/日本.md "wikilink")[千葉縣](../Page/千葉縣.md "wikilink")[館山市](../Page/館山市.md "wikilink")，原名「X」\[6\]；1992年改名為「X
 JAPAN」，主要成員為鼓手[YOSHIKI](../Page/Yoshiki.md "wikilink")、主唱[TOSHI](../Page/Toshi.md "wikilink")、吉他手[HIDE](https://zh.wikipedia.org/wiki/hide "wikilink")、吉他手[PATA](../Page/Pata_\(吉他手\).md "wikilink")、貝斯手[TAIJI](https://zh.wikipedia.org/wiki/Taiji "wikilink")、貝斯手[HEATH](../Page/Heath.md "wikilink")、吉他手[SUGIZO](https://zh.wikipedia.org/wiki/Sugizo "wikilink")\[7\]。樂迷通常以「X」稱呼他們，並以「WE
@@ -63,12 +63,12 @@ VISION》等出道後再發售是可行的，但是YOSHIKI判斷出：「我們�
 ### 正式出道與征服東京巨蛋（1989 - 1992年）
 
 1989年3月16日，在[澀谷公會堂舉行出道前的最後一場](../Page/澀谷公會堂.md "wikilink")'地下演唱會'「藍血巡迴演唱會」\[64\]。4月21日，由CBS/SONY發售的專輯《[BLUE
-BLOOD](https://zh.wikipedia.org/wiki/BLUE_BLOOD "wikilink")》成為X主流出道的標誌\[65\]。日本最大的音樂排行榜[公信榜統計初登場獲得第四位](../Page/Oricon公信榜.md "wikilink")、在1989年底前售出了六十萬張的記錄\[66\]。在當時音樂業界以萬計為單位、歌謠曲風與偶像歌手盛行，特別是主流廠牌的搖滾樂團最多只賣出十萬張的年代，X的銷量記錄是絕對驚人的\[67\]\[68\]\[69\]。這張專輯的文宣底稿寫著「X改變了主流音樂」，是成員自己想的句子\[70\]。X積極出演包括[朝日電視台招牌音樂電視節目](../Page/朝日電視台.md "wikilink")《[MUSIC
+BLOOD](../Page/BLUE_BLOOD.md "wikilink")》成為X主流出道的標誌\[65\]。日本最大的音樂排行榜[公信榜統計初登場獲得第四位](../Page/Oricon公信榜.md "wikilink")、在1989年底前售出了六十萬張的記錄\[66\]。在當時音樂業界以萬計為單位、歌謠曲風與偶像歌手盛行，特別是主流廠牌的搖滾樂團最多只賣出十萬張的年代，X的銷量記錄是絕對驚人的\[67\]\[68\]\[69\]。這張專輯的文宣底稿寫著「X改變了主流音樂」，是成員自己想的句子\[70\]。X積極出演包括[朝日電視台招牌音樂電視節目](../Page/朝日電視台.md "wikilink")《[MUSIC
 STATION](../Page/MUSIC_STATION.md "wikilink")》在內等各種音樂節目，給很少見識華麗搖滾樂團演出的觀眾強烈的刺激，同時其良好的音樂功底也開始被世人注目，這個時期對於X在媒體上的曝光，音樂業界有著截然相反的兩種評價\[71\]。
 
 然而YOSHIKI因過度打鼓引發了身體上疾病的事故，包括胸、肩、手腕的肌肉炎症以及哮喘全面發作。同年11月23日，在[澀谷公會堂的演出中](../Page/澀谷公會堂.md "wikilink")，身體極端惡劣的YOSHIKI倒下，醫生診斷YOSHIKI患了「過勞性神經循環無力症及頸椎支障症候群」\[72\]\[73\]，之後的演出全部延期。從這個時候開始，YOSHIKI的手腕以及[頸椎的舊疾逐漸成為了樂團事業的不定時炸彈](https://zh.wikipedia.org/wiki/頸椎 "wikilink")。12月，在YOSHIKI沒有出席的情況下，X獲得了[大阪電視台第](../Page/大阪電視台.md "wikilink")22屆[日本有線大獎](../Page/日本有線大獎.md "wikilink")「最佳新人獎」\[74\]、第4回[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")「年度最佳新人大獎」和公信榜「年度單曲銷售新人第一名」等多個大獎。
 
-1990年2月，樂團首次登上[日本武道館演出](../Page/日本武道館.md "wikilink")，同時也代表YOSHIKI復出、去年中斷的「玫瑰與血巡迴演唱會」再次展開。巡演終場是5月7日和9日在日本武道館、[大阪城音樂廳的演出](https://zh.wikipedia.org/wiki/大阪城音樂廳 "wikilink")。會後在後台召開了緊急記者會，向媒體表示：「沒有做出幾首滿意的曲子，我們是不會回日本的」\[75\]。X為錄製新專輯，6月開始便停止所有活動遠渡美國[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")\[76\]，從舞台上暫時消失。但是在本人不在的情況下，成功舉行了一系列前所未聞的影像音樂會，此時X已經成為了一種社會現象，更大規模的在日本全國傳播。在美國長期錄音下、X最高速度曲〈STAB
+1990年2月，樂團首次登上[日本武道館演出](../Page/日本武道館.md "wikilink")，同時也代表YOSHIKI復出、去年中斷的「玫瑰與血巡迴演唱會」再次展開。巡演終場是5月7日和9日在日本武道館、[大阪城音樂廳的演出](../Page/大阪城音樂廳.md "wikilink")。會後在後台召開了緊急記者會，向媒體表示：「沒有做出幾首滿意的曲子，我們是不會回日本的」\[75\]。X為錄製新專輯，6月開始便停止所有活動遠渡美國[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")\[76\]，從舞台上暫時消失。但是在本人不在的情況下，成功舉行了一系列前所未聞的影像音樂會，此時X已經成為了一種社會現象，更大規模的在日本全國傳播。在美國長期錄音下、X最高速度曲〈STAB
 ME IN THE
 BACK〉的錄製後YOSHIKI頸椎異常，因[椎間盤突出症病倒](https://zh.wikipedia.org/wiki/椎間盤 "wikilink")\[77\]。YOSHIKI連續三天只能病臥，使得之後的錄音計劃大幅延期。本來預定在1991年7月一起發售的《ART
 OF LIFE》也因錄製問題無法收進專輯。
@@ -177,7 +177,7 @@ JAPAN會在今年復活，正積極醞釀復出。7月28日，YOSHIKI在雜誌�
 JAPAN畫上美麗的休止符。
 
 10月18日，X JAPAN官網公布緊急通知，正式發表樂團活動再開的消息\[142\]。消息中說明X
-JAPAN將公開拍攝新曲〈[I.V.](../Page/I.V..md "wikilink")〉的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")，地點為[東京都](../Page/東京都.md "wikilink")[港區](https://zh.wikipedia.org/wiki/港區 "wikilink")[台場的](https://zh.wikipedia.org/wiki/台場 "wikilink")[水之城購物中心屋頂](https://zh.wikipedia.org/wiki/AQUA_CiTY台場 "wikilink")，並且〈I.V.〉已經決定作為[好萊塢電影](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")《[奪魂鋸4](https://zh.wikipedia.org/wiki/奪魂鋸4 "wikilink")》的主題曲\[143\]，這首歌表明了X
+JAPAN將公開拍攝新曲〈[I.V.](../Page/I.V..md "wikilink")〉的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")，地點為[東京都](../Page/東京都.md "wikilink")[港區](https://zh.wikipedia.org/wiki/港區 "wikilink")[台場的](https://zh.wikipedia.org/wiki/台場 "wikilink")[水之城購物中心屋頂](../Page/AQUA_CiTY台場.md "wikilink")，並且〈I.V.〉已經決定作為[好萊塢電影](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")《[奪魂鋸4](https://zh.wikipedia.org/wiki/奪魂鋸4 "wikilink")》的主題曲\[143\]，這首歌表明了X
 JAPAN在世界範圍內出道的期望和決心。以hide生前錄下的吉他音源經過再加工後，作為X
 JAPAN五人的新曲製作完成\[144\]。由於這是進軍世界的重要作品，在錄製時YOSHIKI也對TOSHI英語發音做了特別指導。
 
@@ -227,7 +227,7 @@ JAPAN在[赤坂BLITZ舉辦了](../Page/赤坂BLITZ.md "wikilink")「」\[157\]�
 [Xjapan_hongkong2.jpg](https://zh.wikipedia.org/wiki/File:Xjapan_hongkong2.jpg "fig:Xjapan_hongkong2.jpg")
 在跨年演出結束後，世界巡迴在2009年正式開始。X
 JAPAN預計1月17日在[香港](../Page/香港.md "wikilink")[亞洲國際博覽館進行首次的海外演出](../Page/亞洲國際博覽館.md "wikilink")\[158\]，命名為「[X
-JAPAN世界巡迴香港公演](../Page/X_JAPAN_WORLD_TOUR_LIVE_IN_HONG_KONG.md "wikilink")」。17日的香港公演名為「破壊之夜香港站」，但12月18日門票發售後，當天就全部售完，根據這個巨大的反應，緊急決定在16日加開「破壊之夜追加公演」，演唱會還招待兩百名孤兒免費入場\[159\]\[160\]。香港公演結束後，發生了和HEATH有關的經紀契約糾紛，使得原本預定在2至3月舉行的台灣和[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾公演延期](https://zh.wikipedia.org/wiki/首爾 "wikilink")，X
+JAPAN世界巡迴香港公演](../Page/X_JAPAN_WORLD_TOUR_LIVE_IN_HONG_KONG.md "wikilink")」。17日的香港公演名為「破壊之夜香港站」，但12月18日門票發售後，當天就全部售完，根據這個巨大的反應，緊急決定在16日加開「破壊之夜追加公演」，演唱會還招待兩百名孤兒免費入場\[159\]\[160\]。香港公演結束後，發生了和HEATH有關的經紀契約糾紛，使得原本預定在2至3月舉行的台灣和[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾公演延期](../Page/首爾.md "wikilink")，X
 JAPAN面臨貝斯手可能退團的危機。就在這次糾紛漩渦中，成員尚未明朗的情況下發售了5月2、3日東京巨蛋演唱會，名為「[X
 JAPAN世界巡迴東京公演
 ～攻擊續行中～](../Page/X_JAPAN_WORLD_TOUR_Live_in_TOKYO_～攻擊續行中～.md "wikilink")」的門票，YOSHIKI發表“強行突破宣言”\[161\]。
@@ -240,8 +240,7 @@ JAPAN世界巡迴台灣公演
 ～勢在必行之夜～](../Page/X_JAPAN_WORLD_TOUR_Live_in_TAIPEI.md "wikilink")」\[165\]，吸引兩萬名觀眾\[166\]。6月13和14日，YOSHIKI在[北京和](https://zh.wikipedia.org/wiki/北京 "wikilink")[上海舉辦樂迷見面會](https://zh.wikipedia.org/wiki/上海 "wikilink")，他表示當初X復活的時候並沒有想太多，只是想單純的開三場演唱會，但是樂迷太熱情了，所以就這樣一直走到了今天，如果樂迷以後仍一直如此的支持X
 JAPAN，那麼他們會繼續走下去\[167\]。7月27日，YOSHIKI因左手麻痺喪失知覺，在美國[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[比佛利山](../Page/比佛利山_\(加利福尼亞州\).md "wikilink")進行頸椎椎間孔擴大手術治療\[168\]。10月30日，TOSHI因嚴重肋間神經痛甚至無法發聲，宣布暫別歌壇調養\[169\]。
 
-2010年1月17日，TOSHI發表聲明，對妻子[守谷香提出離婚調解](https://zh.wikipedia.org/wiki/守谷香 "wikilink")，控訴HOME
-OF
+2010年1月17日，TOSHI發表聲明，對妻子[守谷香提出離婚調解](../Page/守谷香.md "wikilink")，控訴HOME OF
 HEART集團斂財惡行，並脫離該集團製作人\[170\]。2月1日，YOSHIKI受邀出席第52屆[葛萊美獎](../Page/葛萊美獎.md "wikilink")，並擔任評審\[171\]。8月14、15日，於日本[橫濱](https://zh.wikipedia.org/wiki/橫濱 "wikilink")[日產體育場舉行](https://zh.wikipedia.org/wiki/日產體育場 "wikilink")「[X
 JAPAN世界巡迴橫濱公演 超強行突破 七轉八起
 ～迎向世界～](../Page/X_JAPAN_WORLD_TOUR_Live_in_YOKOHAMA_超強行突破_七轉八起_～迎向世界～.md "wikilink")」巡迴演唱會首站，分別為「再會之夜」、「真夏之夜」。睽違18年半後，前任貝斯手TAIJI首次登場與X
@@ -267,7 +266,7 @@ JAPAN時隔二十年才發行的新錄音室專輯\[188\]\[189\]。2015年12月1
 ### 新專輯、紀錄片和日本巡演（2015年 - 至今）
 
 2016年1月23日，X JAPAN首支[紀錄片](../Page/紀錄片.md "wikilink")《[WE ARE X：X
-JAPAN重生之路](https://zh.wikipedia.org/wiki/WE_ARE_X：X_JAPAN重生之路 "wikilink")》首映\[190\]，以挖掘X
+JAPAN重生之路](../Page/WE_ARE_X：X_JAPAN重生之路.md "wikilink")》首映\[190\]，以挖掘X
 JAPAN靈魂人物、團長YOSHIKI的內心為切入點，敘述樂團的傳奇故事\[191\]。2月3日，樂團宣布短期暫停活動，樂團事務所表示PATA因大腸憩室症及血栓症而入院，目前仍需接受點滴補充營養，不過現在已逐步康復。原定於今年3月12日在英國[倫敦舉行的公演](https://zh.wikipedia.org/wiki/倫敦 "wikilink")「X
 DAY」將會延期至2017年3月4日舉行，同樣原定於2016年3月發售的新專輯亦告延期推出，暫定明年初發行。
 
@@ -286,7 +285,7 @@ JAPAN首次全程不插電的演出），定名為「X JAPAN WORLD TOUR 2017 WE 
 Miracle〜奇跡の夜〜 6
 Nights」，YOSHIKI會彈奏鋼琴、不會打鼓，以減低對其頸椎造成的影響。而新專輯方面，YOSHIKI表示錄音工作已完成，在手術後兩天已回到錄音室進行編輯工作，但未交代實際發行日期\[201\]。7月11至12日，「X
 JAPAN WORLD TOUR 2017 WE ARE X Acoustic Special Miracle〜奇跡の夜〜 6
-Nights」在[大阪城音樂廳演出](https://zh.wikipedia.org/wiki/大阪城音樂廳 "wikilink")；14至17日，在[橫濱體育館演出](../Page/橫濱體育館.md "wikilink")\[202\]。12月31日，樂團參加[第68回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第68回NHK紅白歌合戰 "wikilink")，YOSHIKI重執鼓棍，表演〈紅〉\[203\]。
+Nights」在[大阪城音樂廳演出](../Page/大阪城音樂廳.md "wikilink")；14至17日，在[橫濱體育館演出](../Page/橫濱體育館.md "wikilink")\[202\]。12月31日，樂團參加[第68回NHK紅白歌合戰](../Page/第68回NHK紅白歌合戰.md "wikilink")，YOSHIKI重執鼓棍，表演〈紅〉\[203\]。
 
 2018年4月10日至11日，X JAPAN復活10周年紀念「X JAPAN LIVE 2018 アメリカフェス出演直前 PREMIUM
 GIGS ～YOSHIKI復活の夜～」在東京Zepp
@@ -356,8 +355,7 @@ JAPAN的新專輯，但仍然要和經理人及管理團隊商討推出日期。
 
 X
 JAPAN的音樂植根於英美的[重金屬音樂](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")、[華麗金屬](../Page/華麗金屬.md "wikilink")、[鞭擊金屬與](https://zh.wikipedia.org/wiki/鞭擊金屬 "wikilink")[龐克搖滾](../Page/朋克搖滾.md "wikilink")，他們受到[接吻樂團](https://zh.wikipedia.org/wiki/接吻樂團 "wikilink")、[深紫](../Page/深紫.md "wikilink")、[齊柏林飛船](../Page/齐柏林飞船_\(乐团\).md "wikilink")、[猶太祭司](../Page/猶太祭司.md "wikilink")、[鐵娘子](../Page/鐵娘子樂團.md "wikilink")、[摩托頭](https://zh.wikipedia.org/wiki/摩托頭 "wikilink")、、[皇后樂團](https://zh.wikipedia.org/wiki/皇后樂團 "wikilink")、[披頭四樂團以及](https://zh.wikipedia.org/wiki/披頭四樂團 "wikilink")的影響\[210\]\[211\]。樂團的音樂特色是[速度金屬](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")、[力量金屬和](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")[交響金屬](../Page/交響金屬.md "wikilink")（如〈紅〉、〈SILENT
-JEALOUSY〉），以及[抒情搖滾](https://zh.wikipedia.org/wiki/軟式搖滾 "wikilink")（如〈ENDLESS
-RAIN〉、〈FOREVER
+JEALOUSY〉），以及[抒情搖滾](../Page/軟式搖滾.md "wikilink")（如〈ENDLESS RAIN〉、〈FOREVER
 LOVE〉）\[212\]\[213\]\[214\]。樂團的許多歌曲都運用到[管弦樂團](../Page/管弦樂團.md "wikilink")，尤其是在時間較長的歌曲，如十分鐘的〈TEARS〉、〈CRUCIFY
 MY LOVE〉，以及二十九分鐘的〈ART OF
 LIFE〉。大多數歌曲以樂團的母語（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")）填詞，但許多情況下顯示，有些歌曲是參雜著日語和[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，如〈RUSTY
@@ -405,7 +403,7 @@ en
 grey則說](../Page/Dir_en_grey.md "wikilink")：「YOSHIKI讓我們這些下一代敢於夢想，如果說有一座我們都渴望能翻越的高山，X
 JAPAN就是那座山」\[251\]\[252\]\[253\]。
 
-同樣，Galneryus和的吉他手[Leda也說](https://zh.wikipedia.org/wiki/Leda "wikilink")：「以前原本對音樂沒有特別興趣，直到有個朋友給我聽了X
+同樣，Galneryus和的吉他手[Leda也說](../Page/Leda.md "wikilink")：「以前原本對音樂沒有特別興趣，直到有個朋友給我聽了X
 JAPAN和月之海。現在，X
 JAPAN的專輯已經是我的《[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")》了」\[254\]。美國金屬音樂人、前[麥加帝斯吉他手](https://zh.wikipedia.org/wiki/麥加帝斯 "wikilink")[馬蒂·弗里德曼稱X](../Page/马蒂·弗里德曼_\(音乐家\).md "wikilink")
 JAPAN是日本最偉大的視覺系樂團和「史上最多才多藝的音樂性」，並指出樂團是使他逐漸親近[日本搖滾樂的原因](https://zh.wikipedia.org/wiki/日本搖滾樂 "wikilink")：「他們是日本最快最重的音樂，還有一絲抒情民謠搖滾的成分。他們的做法是對的，這讓我驚訝於『他們是怎麼辦到的』」\[255\]。
@@ -419,7 +417,7 @@ JAPAN之後，成為死忠樂迷，不僅穿得像他們一樣，還把樂團視
 
 X
 JAPAN是日本第一支打進美國市場的搖滾樂團\[264\]。截至2016年，樂團共發行五張錄音室專輯，其中連續三張在[公信榜奪下第一名](../Page/Oricon公信榜.md "wikilink")。2007年，《[滾石雜誌](../Page/滾石_\(雜誌\).md "wikilink")》將他們的出道專輯《[BLUE
-BLOOD](https://zh.wikipedia.org/wiki/BLUE_BLOOD "wikilink")》列為日本史上百大搖滾專輯第15名\[265\]。據該雜誌報導，樂團已售出超過三千萬張唱片\[266\]\[267\]。此外，他們只憑在[東京巨蛋賣出的門票](../Page/東京巨蛋.md "wikilink")，就累積了一百萬張\[268\]。
+BLOOD](../Page/BLUE_BLOOD.md "wikilink")》列為日本史上百大搖滾專輯第15名\[265\]。據該雜誌報導，樂團已售出超過三千萬張唱片\[266\]\[267\]。此外，他們只憑在[東京巨蛋賣出的門票](../Page/東京巨蛋.md "wikilink")，就累積了一百萬張\[268\]。
 
 X
 JAPAN也是日本第一個在[獨立音樂](../Page/獨立音樂.md "wikilink")（[地下音樂](https://zh.wikipedia.org/wiki/地下音樂 "wikilink")）圈內取得主流唱片市場商業成功的樂團\[269\]\[270\]。1990年，他們獲得第四屆[日本金唱片大獎的](../Page/日本金唱片大獎.md "wikilink")「年度最佳新人大獎」\[271\]。2003年，連鎖唱片行[HMV將他們列為該年度的百大流行歌曲第](../Page/HMV.md "wikilink")40名。2010年，在日本公信榜的投票中，他們是「最喜愛的日本樂團」第3名\[272\]\[273\]\[274\]。2010年，美國雜誌《[Consequence
@@ -716,7 +714,7 @@ Mobile」，同時載有YOSHIKI的各方面消息也佔了主體。
 </tr>
 <tr class="odd">
 <td><p>2011年10月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td><p><a href="../Page/奧林匹克公園_(首爾).md" title="wikilink">奧林匹克體操競技場</a></p></td>
 </tr>
 <tr class="even">
@@ -797,7 +795,7 @@ Mobile」，同時載有YOSHIKI的各方面消息也佔了主體。
 <tr class="odd">
 <td><p>2015年12月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大阪" title="wikilink">大阪</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大阪城音樂廳" title="wikilink">大阪城音樂廳</a></p></td>
+<td><p><a href="../Page/大阪城音樂廳.md" title="wikilink">大阪城音樂廳</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年12月9日</p></td>
@@ -964,14 +962,14 @@ Mobile」，同時載有YOSHIKI的各方面消息也佔了主體。
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p>2016年（平成28年）／<a href="https://zh.wikipedia.org/wiki/第67回NHK紅白歌合戰" title="wikilink">第67回</a></p></td>
+<td><p>2016年（平成28年）／<a href="../Page/第67回NHK紅白歌合戰.md" title="wikilink">第67回</a></p></td>
 <td><p>紅</p></td>
 <td><p>20／23</p></td>
 <td><p><a href="../Page/松田聖子.md" title="wikilink">松田聖子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p>2017年（平成29年）／<a href="https://zh.wikipedia.org/wiki/第68回NHK紅白歌合戰" title="wikilink">第68回</a></p></td>
+<td><p>2017年（平成29年）／<a href="../Page/第68回NHK紅白歌合戰.md" title="wikilink">第68回</a></p></td>
 <td><p>ENDLESS RAIN 2017 紅白特別組曲 (ENDLESS RAIN／紅)</p></td>
 <td><p>17／22</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
@@ -985,8 +983,7 @@ Mobile」，同時載有YOSHIKI的各方面消息也佔了主體。
 
   - （1988年4月14日）
 
-  - [BLUE
-    BLOOD](https://zh.wikipedia.org/wiki/BLUE_BLOOD "wikilink")（1989年4月21日）
+  - [BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")（1989年4月21日）
 
   - （1991年7月1日）
 
@@ -1111,8 +1108,7 @@ Mobile」，同時載有YOSHIKI的各方面消息也佔了主體。
 
 ### 紀錄片
 
-  - [WE ARE X：X
-    JAPAN重生之路](https://zh.wikipedia.org/wiki/WE_ARE_X：X_JAPAN重生之路 "wikilink")
+  - [WE ARE X：X JAPAN重生之路](../Page/WE_ARE_X：X_JAPAN重生之路.md "wikilink")
     （2016年1月23日）
 
 ## 歷年成員變化

@@ -141,7 +141,7 @@ BETA 版）開始至今。
 
 #### 冒險景點
 
-[昇仙峽](https://zh.wikipedia.org/wiki/昇仙峽 "wikilink")（甲斐）、[地獄谷](https://zh.wikipedia.org/wiki/大涌谷 "wikilink")（相模）、[佐渡金山](https://zh.wikipedia.org/wiki/佐渡金山 "wikilink")（越後）、[富士地下洞穴](../Page/富士山.md "wikilink")（駿河）、[東尋坊洞穴](../Page/東尋坊.md "wikilink")（越前）、忍者砦（伊賀）、[比叡山](https://zh.wikipedia.org/wiki/比叡山 "wikilink")（近江）、比叡山叢雲堂（比叡山內部，NPC彪大師）、千引石洞穴（紀伊）、祕界（攝津和泉，堺港，NPC桑喬）、[濱名湖底洞穴](../Page/濱名湖.md "wikilink")（遠江）、蜃氣樓之塔（越中）、[三輪山](../Page/三輪山.md "wikilink")（大和）
+[昇仙峽](https://zh.wikipedia.org/wiki/昇仙峽 "wikilink")（甲斐）、[地獄谷](https://zh.wikipedia.org/wiki/大涌谷 "wikilink")（相模）、[佐渡金山](../Page/佐渡金山.md "wikilink")（越後）、[富士地下洞穴](../Page/富士山.md "wikilink")（駿河）、[東尋坊洞穴](../Page/東尋坊.md "wikilink")（越前）、忍者砦（伊賀）、[比叡山](https://zh.wikipedia.org/wiki/比叡山 "wikilink")（近江）、比叡山叢雲堂（比叡山內部，NPC彪大師）、千引石洞穴（紀伊）、祕界（攝津和泉，堺港，NPC桑喬）、[濱名湖底洞穴](../Page/濱名湖.md "wikilink")（遠江）、蜃氣樓之塔（越中）、[三輪山](../Page/三輪山.md "wikilink")（大和）
 
 #### 高級冒險區
 

@@ -18,8 +18,7 @@ N.V.**（[荷文](https://zh.wikipedia.org/wiki/荷文 "wikilink")：Van
   - 1993年，United
     Bus倒閉，DAF巴士部門被荷蘭[VDL集團收購](https://zh.wikipedia.org/wiki/VDL集團 "wikilink")。同時，DAF面臨破產，後來成立了一間新公司DAF
     Trucks N.V.。
-  - 1996年11月，DAF
-    Trucks被美國[帕卡集團](https://zh.wikipedia.org/wiki/帕卡 "wikilink")（Paccar）收購。
+  - 1996年11月，DAF Trucks被美國[帕卡集團](../Page/帕卡.md "wikilink")（Paccar）收購。
 
 ## 海外布局
 

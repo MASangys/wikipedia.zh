@@ -74,7 +74,7 @@
 
   - 2012年：3月31日，[清算海外公司](../Page/清盤.md "wikilink")「GDH (M)
     SDN.BHD.」；7月9日，將Future Vision
-    Music賣給[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")。
+    Music賣給[創通](../Page/創通.md "wikilink")。
 
 <!-- end list -->
 
@@ -322,7 +322,7 @@
 
 <!-- end list -->
 
-  - [蒼之彼方的四重奏](https://zh.wikipedia.org/wiki/蒼之彼方的四重奏 "wikilink")（）
+  - [蒼之彼方的四重奏](../Page/蒼之彼方的四重奏.md "wikilink")（）
 
 <!-- end list -->
 
@@ -331,8 +331,8 @@
 <!-- end list -->
 
   - [秋葉原之旅 -THE
-    ANIMATION-](https://zh.wikipedia.org/wiki/秋葉原之旅_-THE_ANIMATION- "wikilink")（）
-  - [18if](https://zh.wikipedia.org/wiki/18if "wikilink")（）
+    ANIMATION-](../Page/秋葉原之旅_-THE_ANIMATION-.md "wikilink")（）
+  - [18if](../Page/18if.md "wikilink")（）
   - [Robomasters：The Animated
     Series](https://zh.wikipedia.org/wiki/Robomasters：The_Animated_Series "wikilink")（與DandeLion
     Animation Studio共同製作）
@@ -358,7 +358,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/妖怪旅館營業中" title="wikilink">妖怪旅館營業中</a></p></td>
+<td><p><a href="../Page/妖怪旅館營業中.md" title="wikilink">妖怪旅館營業中</a></p></td>
 <td></td>
 <td><p>4月2日－9月24日</p></td>
 <td><p>奧田佳子</p></td>
@@ -366,10 +366,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/宇宙戰艦提拉米斯" title="wikilink">宇宙戰艦提拉米斯</a></p></td>
+<td><p><a href="../Page/宇宙戰艦提拉米斯.md" title="wikilink">宇宙戰艦提拉米斯</a></p></td>
 <td></td>
 <td><p>4月3日－6月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/池畠博史" title="wikilink">池畠博史</a></p></td>
+<td><p><a href="../Page/池畠博史.md" title="wikilink">池畠博史</a></p></td>
 <td><p>漫畫</p></td>
 <td><p>第1期</p></td>
 </tr>
@@ -382,7 +382,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/火之丸相撲" title="wikilink">火之丸相撲</a></p></td>
+<td><p><a href="../Page/火之丸相撲.md" title="wikilink">火之丸相撲</a></p></td>
 <td></td>
 <td><p>10月5日－<strong>播放中</strong></p></td>
 <td><p><a href="../Page/山本靖貴.md" title="wikilink">山本靖貴</a></p></td>
@@ -390,7 +390,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/CONCEPTION_產子救世錄" title="wikilink">產子救世錄</a></p></td>
+<td><p><a href="../Page/CONCEPTION_產子救世錄.md" title="wikilink">產子救世錄</a></p></td>
 <td></td>
 <td><p>10月9日－12月25日</p></td>
 <td><p><a href="../Page/元永慶太郎.md" title="wikilink">元永慶太郎</a></p></td>

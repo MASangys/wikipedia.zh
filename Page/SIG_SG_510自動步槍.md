@@ -3,7 +3,7 @@
 Arms](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")）制造的[自動步槍](https://zh.wikipedia.org/wiki/自動步槍 "wikilink")，採用與[HK
 G3及](../Page/HK_G3自動步槍.md "wikilink")[CETME相同的](https://zh.wikipedia.org/wiki/CETME "wikilink")[滾輪延遲反沖式系統](https://zh.wikipedia.org/wiki/反沖作用_\(槍械\)#滾輪延遲反沖 "wikilink")。SIG
 SG
-510能發射[22毫米](https://zh.wikipedia.org/wiki/22毫米槍榴彈 "wikilink")[槍榴彈](../Page/步槍用榴彈.md "wikilink")，而且準確度高，在惡劣環境下仍可運作良好。
+510能發射[22毫米](../Page/22毫米槍榴彈.md "wikilink")[槍榴彈](../Page/步槍用榴彈.md "wikilink")，而且準確度高，在惡劣環境下仍可運作良好。
 
 SIG SG 510曾是瑞士軍隊制式裝備，名為**F ass
 57**（[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")：Fusil d
@@ -57,19 +57,18 @@ Target）。
     57的混合槍，命名為「SG510」，為資料片「犯罪活動」新增的資料片獨有武器，歸類為[戰鬥步槍](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")，24+1發彈匣，被警方執行者（Enforcer）所使用（罪犯解鎖條件為：以任何陣營進行遊戲使用該槍擊殺1250名敵人後購買武器執照），價格為$78,600。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro
     T1、SRS 02、[Comp
     M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍）
-    、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、延長彈匣、[穿甲](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")[曳光彈](../Page/曳光彈.md "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
+    、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、延長彈匣、[穿甲](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")[曳光彈](../Page/曳光彈.md "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
 
 ### [輕小說](../Page/輕小說.md "wikilink")
 
   - 2014年—《[刀劍神域外傳Gun Gale
-    Online](https://zh.wikipedia.org/wiki/刀劍神域外傳Gun_Gale_Online "wikilink")》：於SJ2期間由一名GGO玩家所持有，並短暫被“不可次郎”繳獲以充當[鈍器使用](https://zh.wikipedia.org/wiki/鈍器 "wikilink")。
+    Online](../Page/刀劍神域外傳Gun_Gale_Online.md "wikilink")》：於SJ2期間由一名GGO玩家所持有，並短暫被“不可次郎”繳獲以充當[鈍器使用](https://zh.wikipedia.org/wiki/鈍器 "wikilink")。
 
 ## 參考
 
   - [SIG SG 550](../Page/SIG_SG_550突擊步槍.md "wikilink")
   - [SIG SG 552](../Page/SIG_SG_552卡賓槍.md "wikilink")
-  - [SIG MG
-    710](https://zh.wikipedia.org/wiki/SIG_MG_710-3通用機槍 "wikilink")（MG55）
+  - [SIG MG 710](../Page/SIG_MG_710-3通用機槍.md "wikilink")（MG55）
   - [SIG SG 540](../Page/SIG_SG_540突擊步槍.md "wikilink")
 
 ## 外部連結

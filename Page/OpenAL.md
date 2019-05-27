@@ -26,7 +26,7 @@ API，ALC用於管理表現內容、資源使用情況，並將跨平台風格�
     PC](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
   - [PlayStation 2](../Page/PlayStation_2.md "wikilink")
   - [PlayStation 3](../Page/PlayStation_3.md "wikilink")
-  - [Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")
+  - [Xbox](../Page/Xbox.md "wikilink")
   - [Xbox 360](../Page/Xbox_360.md "wikilink")
   - [Nintendo
     GameCube](https://zh.wikipedia.org/wiki/Nintendo_GameCube "wikilink")

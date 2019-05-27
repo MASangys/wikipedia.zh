@@ -195,7 +195,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/3/3</p></td>
 <td><p>5</p></td>
 <td><p>ロボット大空中戦</p></td>
-<td><p>バッファロー怪人（声：<a href="https://zh.wikipedia.org/wiki/渡部猛" title="wikilink">渡部猛</a>）</p></td>
+<td><p>バッファロー怪人（声：<a href="../Page/渡部猛.md" title="wikilink">渡部猛</a>）</p></td>
 <td><p>バッファローロボット</p></td>
 <td><p>高久進</p></td>
 <td><p>竹本弘一</p></td>

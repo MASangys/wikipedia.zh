@@ -12,8 +12,8 @@ Comptiq](https://zh.wikipedia.org/wiki/月刊Comic_Comptiq "wikilink")》，因�
   - [Keroro軍曹](../Page/Keroro軍曹.md "wikilink")（[吉崎觀音](../Page/吉崎觀音.md "wikilink")）
   - [成惠的世界](../Page/成惠的世界.md "wikilink")（[丸川友廣](https://zh.wikipedia.org/wiki/丸川友廣 "wikilink")）
   - [強殖裝甲GUYVER](../Page/強殖裝甲.md "wikilink")（[高屋良樹](https://zh.wikipedia.org/wiki/高屋良樹 "wikilink")）
-  - [新世紀福音戰士：碇真嗣育成計畫](https://zh.wikipedia.org/wiki/新世紀福音戰士：碇真嗣育成計畫_\(漫畫\) "wikilink")（[高橋脩](https://zh.wikipedia.org/wiki/高橋脩 "wikilink")、[Khara](https://zh.wikipedia.org/wiki/Khara工作室 "wikilink")・[GAINAX](../Page/GAINAX.md "wikilink")（原作））
-  - [涼宮春日的憂鬱](../Page/涼宮春日系列.md "wikilink")（[ツガノガク](https://zh.wikipedia.org/wiki/都賀野岳 "wikilink")、[谷川流](../Page/谷川流.md "wikilink")（原作）、[伊東雜音](../Page/伊東雜音_\(1999年出道\).md "wikilink")（角色原案））
+  - [新世紀福音戰士：碇真嗣育成計畫](https://zh.wikipedia.org/wiki/新世紀福音戰士：碇真嗣育成計畫_\(漫畫\) "wikilink")（[高橋脩](../Page/高橋脩.md "wikilink")、[Khara](https://zh.wikipedia.org/wiki/Khara工作室 "wikilink")・[GAINAX](../Page/GAINAX.md "wikilink")（原作））
+  - [涼宮春日的憂鬱](../Page/涼宮春日系列.md "wikilink")（[ツガノガク](../Page/都賀野岳.md "wikilink")、[谷川流](../Page/谷川流.md "wikilink")（原作）、[伊東雜音](../Page/伊東雜音_\(1999年出道\).md "wikilink")（角色原案））
   - [Fate/stay
     night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")（[西脇だっと](https://zh.wikipedia.org/wiki/西脇だっと "wikilink")、[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")（原作））
   - [天降之物](../Page/天降之物.md "wikilink")（[水無月嵩](../Page/水無月嵩.md "wikilink")）
@@ -115,7 +115,7 @@ Comptiq](https://zh.wikipedia.org/wiki/月刊Comic_Comptiq "wikilink")》，因�
 
   - [超・超・大魔法峠](../Page/大魔法峠.md "wikilink")（[大和田秀樹](../Page/大和田秀樹.md "wikilink")）
 
-  - [BLOOD+](https://zh.wikipedia.org/wiki/BLOOD+ "wikilink")（[桂明日香](https://zh.wikipedia.org/wiki/桂明日香 "wikilink")、[Production
+  - [BLOOD+](https://zh.wikipedia.org/wiki/BLOOD+ "wikilink")（[桂明日香](../Page/桂明日香.md "wikilink")、[Production
     I.G](../Page/Production_I.G.md "wikilink")、[Aniplex](../Page/Aniplex.md "wikilink")）
 
   - （天津冴）

@@ -194,7 +194,7 @@ Association）頒發，獲選者為[英格蘭足球代表隊的最佳球員](htt
     (N'Golo Kanté)，([-{zh-hans:切尔西;
     zh-hk:車路士;}-](https://zh.wikipedia.org/wiki/切尔西足球俱乐部 "wikilink"))
   - 2018年 -
-    **[-{zh-hans:萨拉赫;zh-hk:沙拿;}-](https://zh.wikipedia.org/wiki/穆罕默德·沙拿 "wikilink")**
+    **[-{zh-hans:萨拉赫;zh-hk:沙拿;}-](../Page/穆罕默德·沙拿.md "wikilink")**
     (Mohamed Salah)，([利物浦](../Page/利物浦.md "wikilink"))
   - 2019年 -  **[范迪克](../Page/维吉尔·范迪克.md "wikilink")** (Virgil van
     Dijk)，([利物浦](../Page/利物浦.md "wikilink"))

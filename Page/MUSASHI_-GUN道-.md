@@ -136,7 +136,7 @@ Punch花了十二年的時間所構成的成品](https://zh.wikipedia.org/wiki/M
 <!-- end list -->
 
   - [真田幸村](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")（さなだ
-    ゆきむら）：[木下紗華](https://zh.wikipedia.org/wiki/木下紗華 "wikilink")
+    ゆきむら）：[木下紗華](../Page/木下紗華.md "wikilink")
 
 <!-- end list -->
 
@@ -207,7 +207,7 @@ Punch花了十二年的時間所構成的成品](https://zh.wikipedia.org/wiki/M
   - 原作 - [Monkey
     Punch](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")
   - 監督 - [木下勇喜](https://zh.wikipedia.org/wiki/木下勇喜 "wikilink")
-  - 人物設計 - [須田正巳](https://zh.wikipedia.org/wiki/須田正己 "wikilink")
+  - 人物設計 - [須田正巳](../Page/須田正己.md "wikilink")
   - 主要腳本統籌 - [酒井直行](https://zh.wikipedia.org/wiki/酒井直行 "wikilink")
   - 美術監督 - 中原英統
   - 音響監督 - [高桑一](https://zh.wikipedia.org/wiki/高桑一 "wikilink")

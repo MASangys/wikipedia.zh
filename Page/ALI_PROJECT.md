@@ -380,7 +380,7 @@ PRO（）。
   -
     c/w　魂ノ代
     2015年10月21日／[FlyingDog](https://zh.wikipedia.org/wiki/FlyingDog "wikilink")
-    動畫《[落第騎士英雄譚](https://zh.wikipedia.org/wiki/落第騎士英雄譚 "wikilink")》片尾曲
+    動畫《[落第騎士英雄譚](../Page/落第騎士英雄譚.md "wikilink")》片尾曲
 
 <!-- end list -->
 
@@ -907,8 +907,7 @@ PRO（）。
 9.  この國の向こうに
 10. discipline
 
-\*; [La Vita
-Romantica](https://zh.wikipedia.org/wiki/La_Vita_Romantica "wikilink")
+\*; [La Vita Romantica](../Page/La_Vita_Romantica.md "wikilink")
 
   -
     2010年1月13日／Mellow Head
@@ -978,7 +977,7 @@ Romantica](https://zh.wikipedia.org/wiki/La_Vita_Romantica "wikilink")
 2.  （初回限定盤）絶國TEMPEST（Music Video）
 3.  （初回限定盤）愛と誠（Music Video）
 
-\*; [QUEENDOM](https://zh.wikipedia.org/wiki/QUEENDOM "wikilink")
+\*; [QUEENDOM](../Page/QUEENDOM.md "wikilink")
 
   -
     2011年5月25日／MellowHead

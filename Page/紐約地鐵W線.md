@@ -1,8 +1,8 @@
 **W線百老匯慢車**（），又稱**紐約地鐵W線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵系統](../Page/地鐵.md "wikilink")。由於該線在[曼哈頓使用](../Page/曼哈頓.md "wikilink")[BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")，因此其路線徽號為黃色\[1\]。
 
-W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](https://zh.wikipedia.org/wiki/阿斯托里亞_\(皇后區\) "wikilink")[阿斯托利亞-迪特馬斯林蔭路與](https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_\(BMT阿斯托利亞線\) "wikilink")[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[白廳街-南碼頭](https://zh.wikipedia.org/wiki/白廳街-南碼頭車站_\(BMT百老匯線\) "wikilink")，停靠全線所有車站，繁忙時段有限度服務以的[86街](https://zh.wikipedia.org/wiki/86街車站_\(BMT海灘線\) "wikilink")，在布魯克林停靠所有車站\[2\]\[3\]\[4\]\[5\]。
+W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](../Page/阿斯托里亞_\(皇后區\).md "wikilink")[阿斯托利亞-迪特馬斯林蔭路與](https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_\(BMT阿斯托利亞線\) "wikilink")[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[白廳街-南碼頭](https://zh.wikipedia.org/wiki/白廳街-南碼頭車站_\(BMT百老匯線\) "wikilink")，停靠全線所有車站，繁忙時段有限度服務以的[86街](https://zh.wikipedia.org/wiki/86街車站_\(BMT海灘線\) "wikilink")，在布魯克林停靠所有車站\[2\]\[3\]\[4\]\[5\]。
 
-2001年7月22日加入，W線任何時候都營運，在布魯克林的[BMT西城線和](https://zh.wikipedia.org/wiki/BMT西城線 "wikilink")[BMT第四大道線前往](https://zh.wikipedia.org/wiki/BMT第四大道線 "wikilink")[康尼島-斯提威爾大道](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站 "wikilink")。此線在2004年截成現時的營運模式，直至2010年6月25日直至[大都會運輸署財政危機而取消](../Page/大都會運輸署.md "wikilink")。2016年5月23日，MTA宣佈在2016年11月7日恢復此線，使用原初的標誌和走線，以彌補[第二大道線通車後的營運模式](../Page/第二大道線.md "wikilink")\[6\]<ref name=":2">
+2001年7月22日加入，W線任何時候都營運，在布魯克林的[BMT西城線和](../Page/BMT西城線.md "wikilink")[BMT第四大道線前往](https://zh.wikipedia.org/wiki/BMT第四大道線 "wikilink")[康尼島-斯提威爾大道](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站 "wikilink")。此線在2004年截成現時的營運模式，直至2010年6月25日直至[大都會運輸署財政危機而取消](../Page/大都會運輸署.md "wikilink")。2016年5月23日，MTA宣佈在2016年11月7日恢復此線，使用原初的標誌和走線，以彌補[第二大道線通車後的營運模式](../Page/第二大道線.md "wikilink")\[6\]<ref name=":2">
 
   -
 </ref>\[7\]\[8\]\[9\]。
@@ -146,7 +146,7 @@ W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](https:/
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿斯托利亞林蔭路車站_(BMT阿斯托利亞線)" title="wikilink">阿斯托利亞林蔭路</a></p></td>
+<td><p><a href="../Page/阿斯托利亞林蔭路車站_(BMT阿斯托利亞線).md" title="wikilink">阿斯托利亞林蔭路</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -154,7 +154,7 @@ W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](https:/
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/30大道車站_(BMT阿斯托利亞線)" title="wikilink">30大道</a></p></td>
+<td><p><a href="../Page/30大道車站_(BMT阿斯托利亞線).md" title="wikilink">30大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -170,7 +170,7 @@ W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](https:/
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/36大道車站_(BMT阿斯托利亞線)" title="wikilink">36大道</a></p></td>
+<td><p><a href="../Page/36大道車站_(BMT阿斯托利亞線).md" title="wikilink">36大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -178,7 +178,7 @@ W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](https:/
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/39大道車站_(BMT阿斯托利亞線)" title="wikilink">39大道</a></p></td>
+<td><p><a href="../Page/39大道車站_(BMT阿斯托利亞線).md" title="wikilink">39大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -190,7 +190,7 @@ W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](https:/
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）</p></td>
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -216,7 +216,7 @@ W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](https:/
 <td></td>
 <td><p><br />
 （<a href="../Page/IRT萊辛頓大道線.md" title="wikilink">IRT萊辛頓大道線</a>）<br />
-出站轉乘：（<a href="https://zh.wikipedia.org/wiki/63街線" title="wikilink">63街線</a>，<a href="https://zh.wikipedia.org/wiki/萊辛頓大道-63街車站" title="wikilink">萊辛頓大道-63街</a>）</p></td>
+出站轉乘：（<a href="../Page/63街線.md" title="wikilink">63街線</a>，<a href="https://zh.wikipedia.org/wiki/萊辛頓大道-63街車站" title="wikilink">萊辛頓大道-63街</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/羅斯福島纜車" title="wikilink">羅斯福島纜車</a></p></td>
 </tr>
 <tr class="odd">
@@ -250,7 +250,7 @@ W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](https:/
 <td></td>
 <td><p><br />
 （<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>）<br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）<br />
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）<br />
 （<a href="../Page/42街接駁線.md" title="wikilink">42街接駁線</a>）<br />
 （<a href="https://zh.wikipedia.org/wiki/IND第八大道線" title="wikilink">IND第八大道線</a>，<a href="https://zh.wikipedia.org/wiki/42街-航港局客運總站車站_(IND第八大道線)" title="wikilink">42街-航港局客運總站</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐新航港局客運總站" title="wikilink">紐新航港局客運總站</a></p></td>
@@ -498,7 +498,7 @@ W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](https:/
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/漢密爾頓堡公園道車站_(BMT海灘線)" title="wikilink">漢密爾頓堡公園道</a></p></td>
+<td><p><a href="../Page/漢密爾頓堡公園道車站_(BMT海灘線).md" title="wikilink">漢密爾頓堡公園道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -510,12 +510,12 @@ W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](https:/
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/BMT西城線" title="wikilink">BMT西城線</a>，<a href="https://zh.wikipedia.org/wiki/62街車站_(BMT西城線)" title="wikilink">62街</a>）</p></td>
+（<a href="../Page/BMT西城線.md" title="wikilink">BMT西城線</a>，<a href="https://zh.wikipedia.org/wiki/62街車站_(BMT西城線)" title="wikilink">62街</a>）</p></td>
 <td><p>海灣公園道方向列車因翻新不停靠此站直至2018年秋天。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/18大道車站_(BMT海灘線)" title="wikilink">18大道</a></p></td>
+<td><p><a href="../Page/18大道車站_(BMT海灘線).md" title="wikilink">18大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -523,7 +523,7 @@ W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](https:/
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/20大道車站_(BMT海灘線)" title="wikilink">20大道</a></p></td>
+<td><p><a href="../Page/20大道車站_(BMT海灘線).md" title="wikilink">20大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -531,7 +531,7 @@ W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](https:/
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/海灣公園道車站_(BMT海灘線)" title="wikilink">海灣公園道</a></p></td>
+<td><p><a href="../Page/海灣公園道車站_(BMT海灘線).md" title="wikilink">海灣公園道</a></p></td>
 <td></td>
 <td></td>
 <td></td>

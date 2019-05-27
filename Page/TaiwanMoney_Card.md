@@ -258,7 +258,7 @@ TM卡發行初期常被詬病其感應時間較[悠遊卡長](../Page/悠遊卡.
 
   - [一卡通](https://zh.wikipedia.org/wiki/一卡通_\(台灣\) "wikilink")
   - [悠遊卡](../Page/悠遊卡.md "wikilink")
-  - [高雄捷運](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")
+  - [高雄捷運](../Page/高雄捷運.md "wikilink")
   - [高雄市公車](../Page/高雄市公車.md "wikilink")
   - [高雄市輪船股份有限公司](https://zh.wikipedia.org/wiki/高雄市輪船股份有限公司 "wikilink")
   - [高雄市](../Page/高雄市.md "wikilink")

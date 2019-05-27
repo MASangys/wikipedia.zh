@@ -108,7 +108,7 @@ Pure》的系列动画，共6集。动画采取从一贵圣诞节时和伊织约
 <!-- end list -->
 
   - 男主角・瀬戸一貴／[岡山天音](https://zh.wikipedia.org/wiki/岡山天音 "wikilink")
-  - 女主角・葦月伊織／[白石聖](https://zh.wikipedia.org/wiki/白石聖 "wikilink")
+  - 女主角・葦月伊織／[白石聖](../Page/白石聖.md "wikilink")
   - 秋葉季子／[柴田杏花](../Page/柴田杏花.md "wikilink")
   - 磯崎泉／[萩原農](../Page/萩原農.md "wikilink")
   - 麻生藍子／[加藤小夏](https://zh.wikipedia.org/wiki/加藤小夏 "wikilink")

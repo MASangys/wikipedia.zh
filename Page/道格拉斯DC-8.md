@@ -348,32 +348,32 @@ DC-8-40之縮短版，由四具普惠JT3D渦輪噴射引擎推動，而一部分
 
 截至2011年5月，道格拉斯DC-8發生140件事故\[3\]，包括83次全毁事故\[4\]，造成2,256人死亡\[5\]。DC-8發生46次劫機事件，造成2人死亡\[6\]。
 
-  - 1960年12月16日，由[芝加哥飛往](../Page/芝加哥.md "wikilink")[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")[聯合航空](../Page/聯合航空.md "wikilink")826號班機（DC-8-11，註冊編號N8013U）在紐約[史泰登岛上空與](../Page/史泰登岛.md "wikilink")[環球航空](../Page/環球航空.md "wikilink")266號班機（洛克希德L-1049，註冊編號N6907C）[相撞](https://zh.wikipedia.org/wiki/1960年紐約撞機事件 "wikilink")，造成兩機合共128人全部遇難。
+  - 1960年12月16日，由[芝加哥飛往](../Page/芝加哥.md "wikilink")[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")[聯合航空](../Page/聯合航空.md "wikilink")826號班機（DC-8-11，註冊編號N8013U）在紐約[史泰登岛上空與](../Page/史泰登岛.md "wikilink")[環球航空](../Page/環球航空.md "wikilink")266號班機（洛克希德L-1049，註冊編號N6907C）[相撞](../Page/1960年紐約撞機事件.md "wikilink")，造成兩機合共128人全部遇難。
   - 1961年4月24日晚，[日本航空811號班機](https://zh.wikipedia.org/wiki/日本航空811號班機空難 "wikilink")\[7\]為一架編號為JA8003的DC-8-32，在從[舊金山經](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[檀香山飛抵](../Page/檀香山.md "wikilink")[東京時](https://zh.wikipedia.org/wiki/東京 "wikilink")，在[東京國際機場滑出跑道](../Page/東京國際機場.md "wikilink")，機頭折斷。該機後來被運往道格拉斯工廠修復，1963年2月重新投入運營，編號改為JA8008。
   - 1962年7月7日，[意大利航空771號班機](https://zh.wikipedia.org/wiki/意大利航空771號班機空難 "wikilink")（DC-8-43，註冊編號I-DIWD）在[孟買東北](https://zh.wikipedia.org/wiki/孟買 "wikilink")84公里處撞山墜毀，造成機上94人全部遇難。
   - 1963年11月29日，[環加拿大航空831號班機](../Page/环加拿大航空831号班机空难.md "wikilink")（DC-8-54CF，註冊編號CF-TJN）在[魁北克省發生故障墜毀](../Page/魁北克省.md "wikilink")，機上118人全部遇難。
-  - 1966年3月4日，[加拿大太平洋航空402號班機](https://zh.wikipedia.org/wiki/加拿大太平洋航空402號班機空難 "wikilink")（DC-8-43，註冊編號CF-CPK）由香港飛往溫哥華，在降落東京國際機場時墜毀，僅8名乘客生還，其餘64人全部死亡。
+  - 1966年3月4日，[加拿大太平洋航空402號班機](../Page/加拿大太平洋航空402號班機空難.md "wikilink")（DC-8-43，註冊編號CF-CPK）由香港飛往溫哥華，在降落東京國際機場時墜毀，僅8名乘客生還，其餘64人全部死亡。
   - 1968年11月22日，[日本航空2號班機](https://zh.wikipedia.org/wiki/日本航空2號班機事故 "wikilink")（DC-8-62，註冊編號JA8032）在由東京飛往舊金山時因機長操作失誤而在[舊金山灣迫降](../Page/舊金山灣.md "wikilink")，機上107人無一死亡。飛機於事發55小時後被拖回地面，次年3月31日重新投入運營。
-  - 1969年1月13日，[北歐航空933號班機](https://zh.wikipedia.org/wiki/北歐航空933號班機空難 "wikilink")（DC-8-62，註冊編號LN-MOO）在[洛杉磯國際機場降落時因機組人員急於排查起落架燈泡故障而墜海](../Page/洛杉磯國際機場.md "wikilink")，造成15人死亡。
-  - 1970年7月5日，[加拿大航空621號班機](https://zh.wikipedia.org/wiki/加拿大航空621號班機空難 "wikilink")（DC-8-63，註冊編號CF-TIW）因擾流板過早打開而在加拿大[布蘭普頓墜毀](https://zh.wikipedia.org/wiki/布蘭普頓 "wikilink")，導致機上109人全部遇難。
-  - 1970年9月6日，[瑞士航空100號班機](https://zh.wikipedia.org/wiki/瑞士航空100號班機空難 "wikilink")（DC-8-53，註冊編號HB-IDD）被[解放巴勒斯坦人民陣線](https://zh.wikipedia.org/wiki/解放巴勒斯坦人民陣線 "wikilink")[劫持至道森機場](https://zh.wikipedia.org/wiki/道森機場劫機事件 "wikilink")，其後被炸毀，機上152人被釋放。
+  - 1969年1月13日，[北歐航空933號班機](../Page/北歐航空933號班機空難.md "wikilink")（DC-8-62，註冊編號LN-MOO）在[洛杉磯國際機場降落時因機組人員急於排查起落架燈泡故障而墜海](../Page/洛杉磯國際機場.md "wikilink")，造成15人死亡。
+  - 1970年7月5日，[加拿大航空621號班機](../Page/加拿大航空621號班機空難.md "wikilink")（DC-8-63，註冊編號CF-TIW）因擾流板過早打開而在加拿大[布蘭普頓墜毀](https://zh.wikipedia.org/wiki/布蘭普頓 "wikilink")，導致機上109人全部遇難。
+  - 1970年9月6日，[瑞士航空100號班機](https://zh.wikipedia.org/wiki/瑞士航空100號班機空難 "wikilink")（DC-8-53，註冊編號HB-IDD）被[解放巴勒斯坦人民陣線](https://zh.wikipedia.org/wiki/解放巴勒斯坦人民陣線 "wikilink")[劫持至道森機場](../Page/道森機場劫機事件.md "wikilink")，其後被炸毀，機上152人被釋放。
   - 1972年5月5日，[意大利航空112號班機](https://zh.wikipedia.org/wiki/意大利航空112號班機空難 "wikilink")（DC-8-43，註冊編號I-DIWB）在巴勒莫撞山墜毀，機上115人全部遇難。
-  - 1972年6月14日，[日本航空471號班機](https://zh.wikipedia.org/wiki/日本航空471號班機空難 "wikilink")（DC-8-53，註冊編號JA8012）在[德里因機組人員未能正確執行降落程序墜毀](../Page/德里.md "wikilink")，導致機上82人遇難，5人受傷，地面亦有3人死亡。
+  - 1972年6月14日，[日本航空471號班機](../Page/日本航空471號班機空難.md "wikilink")（DC-8-53，註冊編號JA8012）在[德里因機組人員未能正確執行降落程序墜毀](../Page/德里.md "wikilink")，導致機上82人遇難，5人受傷，地面亦有3人死亡。
   - 1972年9月24日，[日本航空472號班機](https://zh.wikipedia.org/wiki/日本航空472號班機_\(1972年\) "wikilink")（DC-8-53，註冊編號JA8013）在[孟買機場衝出跑道](https://zh.wikipedia.org/wiki/孟買 "wikilink")，但無人死亡。
   - 1972年11月28日，[日本航空446號班機](../Page/日本航空446號班機空難.md "wikilink")（DC-8-62，註冊編號JA8040）在[莫斯科](../Page/莫斯科.md "wikilink")[谢列梅捷沃国际机场起飛時因擾流板突然打開而墜毀](../Page/谢列梅捷沃国际机场.md "wikilink")，導致62人死亡，14人受傷。
-  - 1974年12月4日，[馬丁航空138號班機](https://zh.wikipedia.org/wiki/馬丁航空138號班機空難 "wikilink")（DC-8-55F，註冊編號PH-MBH）為代[加魯達印尼航空營運的朝覲包機](https://zh.wikipedia.org/wiki/加魯達印尼航空 "wikilink")，在斯里蘭卡[馬斯凱利耶墜毀](https://zh.wikipedia.org/wiki/馬斯凱利耶 "wikilink")，機上191人全部遇難。
+  - 1974年12月4日，[馬丁航空138號班機](../Page/馬丁航空138號班機空難.md "wikilink")（DC-8-55F，註冊編號PH-MBH）為代[加魯達印尼航空營運的朝覲包機](https://zh.wikipedia.org/wiki/加魯達印尼航空 "wikilink")，在斯里蘭卡[馬斯凱利耶墜毀](https://zh.wikipedia.org/wiki/馬斯凱利耶 "wikilink")，機上191人全部遇難。
   - 1976年10月6日，[古巴航空455號班機](https://zh.wikipedia.org/wiki/古巴航空455號班機空難 "wikilink")（DC-8-43，註冊編號CU-T1201）在[巴巴多斯上空發生炸彈爆炸](../Page/巴巴多斯.md "wikilink")，機上78人全部死亡。
   - 1977年1月13日，[日本航空1054號班機](https://zh.wikipedia.org/wiki/日本航空1054號班機空難 "wikilink")（DC-8-62AF，註冊編號JA8054）在[泰德·史蒂文斯安克雷奇國際機場起飛時墜毀](../Page/泰德·史蒂文斯安克雷奇國際機場.md "wikilink")，導致機上5人全部遇難，後經調查，機長醉酒駕機引發了這次事故。
   - 1977年4月18日，[菲律賓航空421號班機](https://zh.wikipedia.org/wiki/菲律賓航空421號班機事故 "wikilink")（DC-8-53，註冊編號RP-C803）在東京國際機場起飛時因升降舵故障墜毀，無人死亡。
-  - 1977年9月27日，[日本航空715號班機](https://zh.wikipedia.org/wiki/日本航空715號班機空難 "wikilink")（DC-8-62，註冊編號JA8051）在[吉隆坡墜毀](../Page/吉隆坡.md "wikilink")，導致34人遇難。
+  - 1977年9月27日，[日本航空715號班機](../Page/日本航空715號班機空難.md "wikilink")（DC-8-62，註冊編號JA8051）在[吉隆坡墜毀](../Page/吉隆坡.md "wikilink")，導致34人遇難。
   - 1977年9月28日，[日本航空472號班機](../Page/日本航空472號班機_\(1977年\).md "wikilink")（DC-8-62，註冊編號JA8033）由巴黎飛往東京，途中被[日本赤軍的](../Page/日本赤軍.md "wikilink")5名成員劫持至[達卡](https://zh.wikipedia.org/wiki/達卡 "wikilink")，其後先後飛往[科威特城](../Page/科威特城.md "wikilink")、[大馬士革及](https://zh.wikipedia.org/wiki/大馬士革 "wikilink")[阿爾及爾](../Page/阿爾及爾.md "wikilink")，機上人員先後獲釋。
-  - 1978年11月15日，[冰島航空001號班機](https://zh.wikipedia.org/wiki/冰島航空001號班機空難 "wikilink")（DC-8-63CF，註冊編號TF-FLA）在斯里蘭卡墜毀，導致機上183人死亡，32人受傷。
+  - 1978年11月15日，[冰島航空001號班機](../Page/冰島航空001號班機空難.md "wikilink")（DC-8-63CF，註冊編號TF-FLA）在斯里蘭卡墜毀，導致機上183人死亡，32人受傷。
   - 1978年12月28日，[聯合航空173號班機](https://zh.wikipedia.org/wiki/聯合航空173號班機事故 "wikilink")（DC-8-61，註冊編號N8082U）在[波特兰国际机场附近因燃料耗盡墜毀](../Page/波特兰国际机场.md "wikilink")，導致10人死亡，24人受傷。
   - 1979年10月8日，[瑞士航空316號班機](https://zh.wikipedia.org/wiki/瑞士航空316號班機空難 "wikilink")（DC-8-62，註冊編號HB-IDE）在雅典墜毀，導致14人死亡，10人受傷，而其中一名乘客行李中的[钚給搜救者造成了潛在的核洩漏恐慌](../Page/钚.md "wikilink")。
   - 1982年2月9日，[日本航空350號班機](../Page/日本航空350號班機空難.md "wikilink")（DC-8-61，註冊編號JA8061）因機長蓄意打開推力反向器而墜毀於[東京灣](../Page/東京灣.md "wikilink")，導致24人死亡。
   - 1982年9月17日，[日本航空792號班機](../Page/日本航空792號班機事故.md "wikilink")（DC-8-61，註冊編號JA8048）在[上海虹橋國際機場起飛時發生液壓系統故障](https://zh.wikipedia.org/wiki/上海虹橋國際機場 "wikilink")，返航時衝出跑道，導致27人受傷，涉事客機後來在上海被用作科普宣傳展品。
   - 1985年12月12日，[飛箭航空1285號班機](../Page/飛箭航空1285號班機空難.md "wikilink")（DC-8-63CF，註冊編號N950JW）在[紐芬蘭墜毀](https://zh.wikipedia.org/wiki/紐芬蘭 "wikilink")，機上256人全部遇難。
-  - 1989年6月7日，[蘇里南航空764號班機](https://zh.wikipedia.org/wiki/蘇里南航空764號班機空難 "wikilink")（DC-8-62，註冊編號N1809E）在[帕拉馬里博墜毀](https://zh.wikipedia.org/wiki/帕拉馬里博 "wikilink")，導致176人（包括18名蘇里南籍足球運動員）遇難，11人受傷。
+  - 1989年6月7日，[蘇里南航空764號班機](../Page/蘇里南航空764號班機空難.md "wikilink")（DC-8-62，註冊編號N1809E）在[帕拉馬里博墜毀](https://zh.wikipedia.org/wiki/帕拉馬里博 "wikilink")，導致176人（包括18名蘇里南籍足球運動員）遇難，11人受傷。
   - 1991年7月11日，[尼日利亞航空2120號班機](../Page/尼日利亞航空2120號班機空難.md "wikilink")（DC-8-61，註冊編號C-GMXQ）在[吉達墜毀](https://zh.wikipedia.org/wiki/吉達 "wikilink")，機上261人全部遇難。
 
 ## 關聯項目

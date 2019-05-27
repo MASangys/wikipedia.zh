@@ -110,7 +110,7 @@ Dance》作為該品牌的廣告形象曲\[100\]，這也代表YOSHIKI正式復�
 
 2001年，這一年的製作案包括了為製作《》、為BEAST製作《VISION》、為Revenus製作《[Flower](https://zh.wikipedia.org/wiki/Flower "wikilink")》\[104\]。
 
-2002年，與[比爾·蓋茲一起參加](https://zh.wikipedia.org/wiki/比爾·蓋茲 "wikilink")[Xbox在日本的發售會](https://zh.wikipedia.org/wiki/Xbox "wikilink")。\[105\]。在[澀谷](../Page/澀谷.md "wikilink")[TSUTAYA
+2002年，與[比爾·蓋茲一起參加](https://zh.wikipedia.org/wiki/比爾·蓋茲 "wikilink")[Xbox在日本的發售會](../Page/Xbox.md "wikilink")。\[105\]。在[澀谷](../Page/澀谷.md "wikilink")[TSUTAYA
 O-EAST和](../Page/TSUTAYA_O-EAST.md "wikilink")[惠比壽舉行握手會](https://zh.wikipedia.org/wiki/惠比壽 "wikilink")，共5000人左右。9月宣佈加入[globe樂團](https://zh.wikipedia.org/wiki/globe "wikilink")\[106\]。10月與[哥倫比亞唱片簽約](https://zh.wikipedia.org/wiki/哥倫比亞唱片 "wikilink")\[107\]。12月在[東京國際論壇大樓與](../Page/東京國際論壇.md "wikilink")合作，舉辦兩天10000人參加的古典演奏會「」，他親自指揮83人的交響樂團\[108\]。
 
 2003年，以採訪形式的《YOSHIKI
@@ -191,8 +191,8 @@ TOUR」古典演奏會，巡演地點包含美國、[墨西哥](../Page/墨西�
 聖域傳說](../Page/聖鬥士星矢_LEGEND_of_SANCTUARY.md "wikilink")》，全球主題曲《Hero（Yoshiki
 Classical
 Version）》由YOSHIKI負責創作\[152\]。在美國[奧斯丁的](https://zh.wikipedia.org/wiki/奧斯丁 "wikilink")[SXSW大型藝術節上](../Page/西南偏南.md "wikilink")，受邀彈奏了8首曲子，並和自己的3D全息影像共演\[153\]\[154\]。7月，受邀出席法國[巴黎的第](../Page/巴黎.md "wikilink")15屆[日本博覽會](../Page/日本博覽會.md "wikilink")\[155\]。10月，受[三麗鷗Hello](../Page/三麗鷗.md "wikilink")
-Kitty設計師[山口裕子委託製作](https://zh.wikipedia.org/wiki/山口裕子 "wikilink")，在洛杉磯「Hello
-Kitty Con 2014」開幕式中，演奏了自己親手所寫的Hello Kitty官方主題曲「HELLO HELLO」（暫稱）\[156\]。
+Kitty設計師[山口裕子委託製作](../Page/山口裕子.md "wikilink")，在洛杉磯「Hello Kitty Con
+2014」開幕式中，演奏了自己親手所寫的Hello Kitty官方主題曲「HELLO HELLO」（暫稱）\[156\]。
 
 2015年，證實自己的右手肌腱半斷，需要動手術，然而他已決定為免影響X
 JAPAN世巡計劃而寧願暫時不動手術，先忍痛完成世巡\[157\]。他還舉辦晚餐秀「EVENING
@@ -207,7 +207,7 @@ Orchestra」時，左手已完全失去知覺\[164\]。3月4日，在英國倫�
 JAPAN的演唱會後，身體情況進一步惡化，不過他仍持續製作延宕已久的X JAPAN新專輯\[165\]。
 
 隨著紀錄片《[WE ARE X：X
-JAPAN重生之路](https://zh.wikipedia.org/wiki/WE_ARE_X：X_JAPAN重生之路 "wikilink")》上映以來的宣傳活動、在日本及海外的演出等，都對他的身體造成極大負荷。他在美國及日本接受徹底的檢查後，再度確診頸椎椎間盤（第五及第六節頸椎）狹窄、左手臂神經根病變，必須在5月進行緊急頸椎人工椎間盤置換手術。5月10日，他在社交平台上貼文表示：「大家好，我將於下週接受頸部手術。這次醫生會從我的正面剖開我的頸部，並在頸椎之間放入椎間盤。我有點害怕，但我會撐過去的。而目前為止，接下來X
+JAPAN重生之路](../Page/WE_ARE_X：X_JAPAN重生之路.md "wikilink")》上映以來的宣傳活動、在日本及海外的演出等，都對他的身體造成極大負荷。他在美國及日本接受徹底的檢查後，再度確診頸椎椎間盤（第五及第六節頸椎）狹窄、左手臂神經根病變，必須在5月進行緊急頸椎人工椎間盤置換手術。5月10日，他在社交平台上貼文表示：「大家好，我將於下週接受頸部手術。這次醫生會從我的正面剖開我的頸部，並在頸椎之間放入椎間盤。我有點害怕，但我會撐過去的。而目前為止，接下來X
 JAPAN的公演我仍打算演出」\[166\]。5月16日，手術成功，醫生表示傷口癒合約需六週，六個月後應可復原九成。YOSHIKI於全身麻醉醒來後，堅持要為手術前一晚創作的歌曲錄音，與醫生討論後便出院到錄音室，工作約半小時返回寓所休息\[167\]。
 
 ## 個人生活

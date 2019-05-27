@@ -89,7 +89,7 @@ Update除了出現在控制台(Control Panel)，另外也出現在Windows新推�
 
 [10-windows-update.png](https://zh.wikipedia.org/wiki/File:10-windows-update.png "fig:10-windows-update.png")
 在[Windows
-10中](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，改成只出現在\[設定\](Settings)的\[更新與安全性\](Update
+10中](../Page/Windows_10.md "wikilink")，改成只出現在\[設定\](Settings)的\[更新與安全性\](Update
 and
 Security)下，更新設定不再讓使用者選擇(家用版完全無法延後更新)，改成在使用者使用電腦或行動裝置時背景自動下載與安裝，並要求使用者重新啟動裝置。
 

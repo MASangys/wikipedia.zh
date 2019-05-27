@@ -6,10 +6,10 @@
 
   - [北野武](../Page/北野武.md "wikilink")
   - [京野琴美](https://zh.wikipedia.org/wiki/京野琴美 "wikilink")
-  - [大杉漣](https://zh.wikipedia.org/wiki/大杉漣 "wikilink")
+  - [大杉漣](../Page/大杉漣.md "wikilink")
   - [寺島進](https://zh.wikipedia.org/wiki/寺島進 "wikilink")
   - [岸本加世子](https://zh.wikipedia.org/wiki/岸本加世子 "wikilink")
-  - [美輪明宏](https://zh.wikipedia.org/wiki/美輪明宏 "wikilink")
+  - [美輪明宏](../Page/美輪明宏.md "wikilink")
   - [松村邦洋](https://zh.wikipedia.org/wiki/松村邦洋 "wikilink")
 
 ## 外部链接

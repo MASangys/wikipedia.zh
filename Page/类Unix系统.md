@@ -66,7 +66,7 @@ UNIX的商標權由[國際開放標準組織所擁有](https://zh.wikipedia.org/
   - [Apple](https://zh.wikipedia.org/wiki/Apple "wikilink")
     [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") - 建基於[Apple
     Darwin](https://zh.wikipedia.org/wiki/Apple_Darwin "wikilink")
-  - [LynxOS RTOS](https://zh.wikipedia.org/wiki/LynxOS "wikilink")
+  - [LynxOS RTOS](../Page/LynxOS.md "wikilink")
   - [QNX](../Page/QNX.md "wikilink") - 全部重写，没有UNIX相关的代码
   - [SkyOS](../Page/SkyOS.md "wikilink") -
     大致[POSIX依從](https://zh.wikipedia.org/wiki/POSIX "wikilink")

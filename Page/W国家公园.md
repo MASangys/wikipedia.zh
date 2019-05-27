@@ -36,7 +36,7 @@ sp.*）在公园各处都能找到。[猛禽中的](../Page/猛禽.md "wikilink"
 vocifer*）、[猛鵰](https://zh.wikipedia.org/wiki/猛鵰 "wikilink")（*Polemaetus
 bellicosus*）、[红脸歌鹰](https://zh.wikipedia.org/wiki/红脸歌鹰 "wikilink")（*Melierax
 gabar*）也是常见的。[水禽常见的有](https://zh.wikipedia.org/wiki/水禽 "wikilink")[鸭科](../Page/鸭科.md "wikilink")、[涉禽类](../Page/涉禽.md "wikilink")、[鹮科](https://zh.wikipedia.org/wiki/鹮科 "wikilink")、[鹳科](https://zh.wikipedia.org/wiki/鹳科 "wikilink")、[鹭科](../Page/鹭科.md "wikilink")。陆生爬行动物类包括[苏卡达象龟](../Page/苏卡达象龟.md "wikilink")（*Geochelone
-sulcata*）、[尼罗河巨蜥](https://zh.wikipedia.org/wiki/尼罗河巨蜥 "wikilink")（*Varanus
+sulcata*）、[尼罗河巨蜥](../Page/尼罗河巨蜥.md "wikilink")（*Varanus
 niloticus*）、[非洲蟒](https://zh.wikipedia.org/wiki/非洲蟒 "wikilink")（*Python
 sebae*）、[球蟒](../Page/球蟒.md "wikilink")（*Python
 regius*）。水中的爬行动物包括[尼罗鳄](https://zh.wikipedia.org/wiki/尼罗鳄 "wikilink")（*Crocodylus

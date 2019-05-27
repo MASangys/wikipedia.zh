@@ -17,8 +17,8 @@ ACIS和PHIGS。同时在很多不同的3D建模和动画软件中也能找到NUR
 1946年，数学家开始研究样条形状，该形状通过分段的多项式公式推导出来，因为其和机械生产中的样条相类似，将其命名为样条曲线或样条函数。\[1\]
 NURBS的发展始于1950年代，它是由需要像在车体和船壳中使用的[自由曲面的数学上的精确表示的工程师们所发现的](https://zh.wikipedia.org/wiki/自由曲面 "wikilink")，它可以在任何技术上需要的时候精确的复制出来。以前这类曲面的表示只存在于[设计者创建的](https://zh.wikipedia.org/wiki/设计者 "wikilink")[实体模型](https://zh.wikipedia.org/wiki/实体模型 "wikilink")。
 
-该发展的先驱包括：[皮埃尔·贝塞尔](https://zh.wikipedia.org/wiki/皮埃尔·贝塞尔 "wikilink")（Pierre
-Bézier）和[Paul de
+该发展的先驱包括：[皮埃尔·贝塞尔](../Page/皮埃尔·贝塞尔.md "wikilink")（Pierre Bézier）和[Paul
+de
 Casteljau两个](https://zh.wikipedia.org/wiki/Paul_de_Casteljau "wikilink")[法国人](https://zh.wikipedia.org/wiki/法国 "wikilink")，
 前者曾是[雷诺的工程师](../Page/雷诺.md "wikilink")，后者在[标致工作](https://zh.wikipedia.org/wiki/标致 "wikilink")。贝塞尔基本是和de
 Casteljau独立发展的，两人互相不知道对方的工作。但是因为贝塞尔发表了他的工作的结果，今天的一般的[计算机图形学用户认为](../Page/计算机图形学.md "wikilink")[样条](https://zh.wikipedia.org/wiki/样条 "wikilink")
@@ -35,7 +35,7 @@ Berlin（一个和[柏林工大合作的小创业公司](https://zh.wikipedia.or
 ## 使用
 
 NURBS对于[计算机辅助设计](../Page/计算机辅助设计.md "wikilink")（CAD）、[制造](../Page/计算机辅助制造.md "wikilink")（CAM）和[工程](https://zh.wikipedia.org/wiki/计算机辅助工程 "wikilink")（CAE）是几乎无法回避的，并且是很多业界广泛采用的标准的一部分，例如[IGES](https://zh.wikipedia.org/wiki/IGES "wikilink")，
-[STEP](https://zh.wikipedia.org/wiki/STEP "wikilink")，和[PHIGS](https://zh.wikipedia.org/wiki/PHIGS "wikilink")。
+[STEP](../Page/STEP.md "wikilink")，和[PHIGS](https://zh.wikipedia.org/wiki/PHIGS "wikilink")。
 
 但还是有很多它们在交互式建模中的优点和有用性的错误观念，主要是由于关于单一软件包及其用户界面的易用性而得出的猜测。
 通常，据说编辑NURBS曲线和曲面是高度直观和可预测的。控制点总是直接连接到曲线或曲面上或象是通过一根橡皮筋连接。根据用户界面的类型，编辑可以通过它们各自的控制点实现，这对于[贝塞尔曲线是最显然和最一般的](https://zh.wikipedia.org/wiki/贝塞尔曲线 "wikilink")，或者也可以通过高层的工具，例如样条建模或者层次结构的编辑。高层工具可以设计得很强大，并得益于NURBS创建和建立不同层次的连续性的能力：

@@ -35,7 +35,7 @@ ATK）生產。2012年8月美國海軍簽訂第一批全速生產訂單，將於
 2013年9月已累計交付到第100枚給美國海軍，預計2014年9月能夠達到完全作戰能力。\[2\]
 
 整合 AARGM
-系統的機種包括：[F/A-18C/D](https://zh.wikipedia.org/wiki/F/A-18黃蜂式戰鬥攻擊機 "wikilink")、[F/A-18E/F](https://zh.wikipedia.org/wiki/F/A-18E/F超級大黃蜂式打擊戰鬥機 "wikilink")、[EA-18G](https://zh.wikipedia.org/wiki/EA-18G咆哮者電子作戰機 "wikilink")、[龍捲風
+系統的機種包括：[F/A-18C/D](https://zh.wikipedia.org/wiki/F/A-18黃蜂式戰鬥攻擊機 "wikilink")、[F/A-18E/F](https://zh.wikipedia.org/wiki/F/A-18E/F超級大黃蜂式打擊戰鬥機 "wikilink")、[EA-18G](../Page/EA-18G咆哮者電子作戰機.md "wikilink")、[龍捲風
 ECR和](../Page/龍捲風戰鬥轟炸機.md "wikilink")[F-35](../Page/F-35閃電II戰鬥機.md "wikilink")\[3\]。
 
   - \*AGM-88F HCSM

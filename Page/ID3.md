@@ -125,7 +125,7 @@ tag）。
 | 60  | Top 40            | [Top 40](https://zh.wikipedia.org/wiki/Top_40 "wikilink")                       |          |
 | 61  | Christian Rap     | [Christian Rap](https://zh.wikipedia.org/wiki/Christian_Rap "wikilink")         |          |
 | 62  | Pop/Funk          | [流行 (音樂類型)](../Page/流行_\(音樂類型\).md "wikilink")/[放克](../Page/放克.md "wikilink")   |          |
-| 63  | Jungle            | [早期叢林舞曲](https://zh.wikipedia.org/wiki/早期叢林舞曲 "wikilink")                       |          |
+| 63  | Jungle            | [早期叢林舞曲](../Page/早期叢林舞曲.md "wikilink")                                          |          |
 | 64  | Native American   | [Native American](https://zh.wikipedia.org/wiki/Native_American "wikilink")     |          |
 | 65  | Cabaret           | [卡巴萊](../Page/卡巴萊.md "wikilink")                                                |          |
 | 66  | New Wave          | [新浪潮](../Page/新浪潮.md "wikilink")                                                |          |
@@ -217,7 +217,7 @@ JIS，所以也無法在日本以外的地區使用；甚至連日本境內也�
     沒有任何版本的[Windows檔案總管和](https://zh.wikipedia.org/wiki/Windows檔案總管 "wikilink")[Windows
     Media
     Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")──甚至是最新的[Windows
-    10和](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
+    10和](../Page/Windows_10.md "wikilink")
     12──都無法正確的解讀ID3v2.4標籤，不過依然能解讀v2.3或是更早的版本\[15\]\[16\]。
 
 ### 評分標籤的爭議

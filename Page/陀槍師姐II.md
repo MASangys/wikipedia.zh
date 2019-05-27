@@ -541,7 +541,7 @@ Uncle Roy的契女</p></td>
 <td><p>看更（第5，18集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李啓傑" title="wikilink">李啓傑</a></p></td>
+<td><p><a href="../Page/李啓傑.md" title="wikilink">李啓傑</a></p></td>
 <td><p>-</p></td>
 <td><p>「都市追擊」主持（第6，10集）</p></td>
 </tr>
@@ -789,7 +789,7 @@ Uncle Roy的契女</p></td>
 <td><p>製片（第19集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
+<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
 <td><p>阿　秋</p></td>
 <td><p>陳建安的同事（第21集）</p></td>
 </tr>
@@ -985,7 +985,7 @@ Uncle Roy的契女</p></td>
 於第1集被叶长胜所杀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
 <td><p>何志剛</p></td>
 <td><p><strong>細 Dee</strong><br />
 神風手下</p></td>
@@ -996,7 +996,7 @@ Uncle Roy的契女</p></td>
 <td><p>何志剛的爺爺</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李啓傑" title="wikilink">李啓傑</a></p></td>
+<td><p><a href="../Page/李啓傑.md" title="wikilink">李啓傑</a></p></td>
 <td><p>发　仔</p></td>
 <td><p>神風手下</p></td>
 </tr>
@@ -1331,7 +1331,7 @@ Uncle Roy的契女</p></td>
 于第32集被逮捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/麥子雲" title="wikilink">麥子雲</a></p></td>
+<td><p><a href="../Page/麥子雲.md" title="wikilink">麥子雲</a></p></td>
 <td><p>紅　番</p></td>
 <td></td>
 </tr>

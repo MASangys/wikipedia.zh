@@ -12,8 +12,7 @@ Glass 效果而改用[Metro
 UI设计](https://zh.wikipedia.org/wiki/Metro_UI "wikilink")\[2\]，但部分Aero設計，如Aero
 Snap和透明工作列仍然保留，不過可以用第三方程式來修改。
 
-Windows
-10恢復部分类似于Aero的效果，微软称之为“[流畅设计体系](https://zh.wikipedia.org/wiki/流畅设计体系 "wikilink")”
+Windows 10恢復部分类似于Aero的效果，微软称之为“[流畅设计体系](../Page/流畅设计体系.md "wikilink")”
 
 ## 概觀
 

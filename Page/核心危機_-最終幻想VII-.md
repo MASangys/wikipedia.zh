@@ -67,7 +67,7 @@ Festa '06上展示了一个可玩演示](../Page/Jump_Festa.md "wikilink")\[56\]
 2007年9月13日，史克威尔艾尼克斯发行了特别同捆版的《核心危机》；其中含有特别银色[PlayStation Portable Slim &
 Lite](../Page/PlayStation_Portable_Slim_&_Lite.md "wikilink")，其背面和一侧印有《最终幻想VII》十周年纪念标志。如同史克威尔的许多限量版《最终幻想VII》，同捆版限量77,777套\[60\]。
 
-2007年12月17日，官方宣布称《核心危机》将于2008年3月25日在北美发行。若从[GameStop等指定零售商处预定](https://zh.wikipedia.org/wiki/GameStop "wikilink")，购买者依据供应商供应时间，可能获得一个神罗UMD盒；如果从[百思买预定](../Page/百思买.md "wikilink")，则或可获得金属箔包装的《核心危机》。欧洲有普通版和限量版两个版本发行，后者只可在线购买，之后又只可预订。限量版含有特别书套包装，以及题为《核心危机
+2007年12月17日，官方宣布称《核心危机》将于2008年3月25日在北美发行。若从[GameStop等指定零售商处预定](../Page/GameStop.md "wikilink")，购买者依据供应商供应时间，可能获得一个神罗UMD盒；如果从[百思买预定](../Page/百思买.md "wikilink")，则或可获得金属箔包装的《核心危机》。欧洲有普通版和限量版两个版本发行，后者只可在线购买，之后又只可预订。限量版含有特别书套包装，以及题为《核心危机
 -最终幻想VII- 画集》的促销CG插图书\[61\]。在澳大利亚和欧洲，游戏和印有《核心危机》的限量版PlayStation
 Portable的同捆版于6月20日发行\[62\]\[63\]。如同公司其他一些游戏，史克威尔艾尼克斯2007年10月18日在日本发行了[Ultimania攻略本](../Page/Ultimania.md "wikilink")\[64\]。
 
@@ -81,10 +81,10 @@ Portable游戏，并成为全平台第6畅销游戏\[69\]。史克威尔艾尼�
 
 《核心危机》普遍获得积极评价。游戏在[GameRankings的评论综合得分为](https://zh.wikipedia.org/wiki/GameRankings "wikilink")82%\[74\]，而在[Metacritic的得分为](../Page/Metacritic.md "wikilink")83\[75\]。日本游戏杂志《[Fami通](../Page/Fami通.md "wikilink")》上的游戏总分为35/40，四个独立评分为9/9/8/9\[76\]。[GameSpot授予游戏](../Page/GameSpot.md "wikilink")“编辑推荐”称号，称赞其故事、战斗系统及其呈现，并称“《核心危机》是一次激动且令人沉痛的旅行，所有角色扮演游戏爱好者都应该展开这旅程”\[77\]。[IGN的莱安](../Page/IGN.md "wikilink")·克莱门茨因游戏聚焦于扎克斯的成长及他同战士们的友情，而称赞游戏有别于其他角色扮演游戏。他称“《核心危机》是一款很棒的游戏，除了各处的一些小问题，它不会令人失望”。游戏还进入PlayStation
 Portable平台推荐游戏的“编辑精选”栏\[78\]。[GameSpy也给游戏好评](../Page/GameSpy.md "wikilink")，称其“胜任致敬部分，并将传统设计的精华和全新的技术独到结合，协调汇集了将一些旧物和一些新品”。GameSpy也称一些玩家可能不喜欢扎克斯，“你将对角色不跟着你的冒险成长而相当厌倦”\[79\]。
-[VideoGamer.com给了游戏](https://zh.wikipedia.org/wiki/VideoGamer.com "wikilink")9分的总评，认为其战斗系统“使人上瘾”，并提出CGI场景动画和《最终幻想VII
+[VideoGamer.com给了游戏](../Page/VideoGamer.com.md "wikilink")9分的总评，认为其战斗系统“使人上瘾”，并提出CGI场景动画和《最终幻想VII
 -降临之子-》的质量相似\[80\]。《[GamePro](https://zh.wikipedia.org/wiki/GamePro "wikilink")》也给游戏相似的积极评价，称其为“视效最好的PSP作品”，并称赞其同补完计划的元素结成一体，并同时创造了新方面\[81\]。[GamesRadar的AJ](https://zh.wikipedia.org/wiki/GamesRadar "wikilink")·格拉瑟称有了DMW系统，游戏将会简单，让“半熟玩家”也尝试以困难模式玩游戏。格拉瑟还认为游戏足够讨人喜爱，甚至让不喜欢最终幻想VII系列的玩家也开始喜欢它\[82\]。《[Play](https://zh.wikipedia.org/wiki/Play_\(英国杂志\) "wikilink")》的塞缪尔·罗伯茨称游戏为2008年最佳游戏\[83\]。
 
-许多评论还提到了游戏和《最终幻想VII》的关系。[1UP.com称其为史上最佳前传之一](../Page/1UP.com.md "wikilink")，提出游戏“更好的将玩家放入《FFVII》的世界，甚至超越了原作所为”\[84\]。而[GameTrailers称](../Page/GameTrailers.md "wikilink")《核心危机》“并非省事与复制资源”，他们认为游戏和《地狱犬的挽歌》不同，更能吸引玩家\[85\]。《[电脑与电子游戏](https://zh.wikipedia.org/wiki/电脑与电子游戏 "wikilink")》称虽然游戏主线情节只有12小时，但支线任务帮游戏加长了时间。他们还称赞战斗系统“永不无聊”，同时《最终幻想VII》漫长游荡和过长中心的缺点在本作不是问题\[86\]。
+许多评论还提到了游戏和《最终幻想VII》的关系。[1UP.com称其为史上最佳前传之一](../Page/1UP.com.md "wikilink")，提出游戏“更好的将玩家放入《FFVII》的世界，甚至超越了原作所为”\[84\]。而[GameTrailers称](../Page/GameTrailers.md "wikilink")《核心危机》“并非省事与复制资源”，他们认为游戏和《地狱犬的挽歌》不同，更能吸引玩家\[85\]。《[电脑与电子游戏](../Page/电脑与电子游戏.md "wikilink")》称虽然游戏主线情节只有12小时，但支线任务帮游戏加长了时间。他们还称赞战斗系统“永不无聊”，同时《最终幻想VII》漫长游荡和过长中心的缺点在本作不是问题\[86\]。
 
 然而游戏获得一些负面评价。虽然[Eurogamer称其为最佳](../Page/Eurogamer.md "wikilink")《最终幻想VII》衍生作品，但也批评称“对于其针对的26、28、30岁者，游戏除了完美的伤感外，鲜有演出其它内容”\[87\]。虽然[PALGN将DWM系统称为](https://zh.wikipedia.org/wiki/PALGN "wikilink")“简便的工具”，但同时认为这是游戏的最大弱点\[88\]。[X-Play给游戏打出](https://zh.wikipedia.org/wiki/X-Play "wikilink")2/5，对无法跳过的过场、欠佳的对话、反复的游戏性以及薄弱的剧情表示不满\[89\]。在[愚人节他们对其原始评论的回应称](../Page/愚人节.md "wikilink")，他们“决定再看一遍游戏，并重新为其评论，这次给予游戏完全公正的观点”，他们讽刺的给原版配音并打出了不可能高的6/5\[90\]。
 

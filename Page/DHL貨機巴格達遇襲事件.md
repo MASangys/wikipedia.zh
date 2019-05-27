@@ -1,4 +1,4 @@
-**DHL貨機巴格達遇襲事件**是一起發生於2003年11月22日的空中意外事件，一架剛自[巴格達國際機場起飛](../Page/巴格達國際機場.md "wikilink")、機身編號OO-DLL的[DHL](../Page/DHL.md "wikilink")[空中巴士A300B4-203F型貨機](https://zh.wikipedia.org/wiki/空中巴士A300 "wikilink")，遭到地面上的[伊拉克](../Page/伊拉克.md "wikilink")[民兵以肩射式的俄製](../Page/民兵.md "wikilink")[SA-14](https://zh.wikipedia.org/wiki/9K34便攜式防空飛彈 "wikilink")[地對空飛彈襲擊](https://zh.wikipedia.org/wiki/地對空飛彈 "wikilink")。左翼中彈後的DHL貨機在不久之後完全失去[液壓而無法有效控制飛機上的各種飛行介面](https://zh.wikipedia.org/wiki/液壓 "wikilink")，三名機組人員只得靠著調整兩具[引擎的推力勉強維持機身穩定並安全降落在巴格達國際機場](https://zh.wikipedia.org/wiki/引擎 "wikilink")。這架DHL貨機是有史以來第一架完全失去液壓控制卻還能安然降落的大型民航機，除了三名機組人員都獲得航空界相關單位的高度表揚外，也連帶地促使各國政府與航空產業開始研究在[民航機上裝置反飛彈設備的可行性](https://zh.wikipedia.org/wiki/民航機 "wikilink")，以及研發可以完全不靠液壓系統就能安全將飛機降落的新技術。
+**DHL貨機巴格達遇襲事件**是一起發生於2003年11月22日的空中意外事件，一架剛自[巴格達國際機場起飛](../Page/巴格達國際機場.md "wikilink")、機身編號OO-DLL的[DHL](../Page/DHL.md "wikilink")[空中巴士A300B4-203F型貨機](https://zh.wikipedia.org/wiki/空中巴士A300 "wikilink")，遭到地面上的[伊拉克](../Page/伊拉克.md "wikilink")[民兵以肩射式的俄製](../Page/民兵.md "wikilink")[SA-14](../Page/9K34便攜式防空飛彈.md "wikilink")[地對空飛彈襲擊](https://zh.wikipedia.org/wiki/地對空飛彈 "wikilink")。左翼中彈後的DHL貨機在不久之後完全失去[液壓而無法有效控制飛機上的各種飛行介面](https://zh.wikipedia.org/wiki/液壓 "wikilink")，三名機組人員只得靠著調整兩具[引擎的推力勉強維持機身穩定並安全降落在巴格達國際機場](https://zh.wikipedia.org/wiki/引擎 "wikilink")。這架DHL貨機是有史以來第一架完全失去液壓控制卻還能安然降落的大型民航機，除了三名機組人員都獲得航空界相關單位的高度表揚外，也連帶地促使各國政府與航空產業開始研究在[民航機上裝置反飛彈設備的可行性](https://zh.wikipedia.org/wiki/民航機 "wikilink")，以及研發可以完全不靠液壓系統就能安全將飛機降落的新技術。
 
 ## 事件經過
 
@@ -45,7 +45,7 @@ Aircraft，PCA）之開發研究也再度受到重視，配備有這種技術的
 ### 遭飛彈攻擊的事故
 
   - [冷战期间苏联攻击民用机事件列表](../Page/冷战期间苏联攻击民用机事件列表.md "wikilink")
-  - [西伯利亞航空1812號班機空難](https://zh.wikipedia.org/wiki/西伯利亞航空1812號班機空難 "wikilink")
+  - [西伯利亞航空1812號班機空難](../Page/西伯利亞航空1812號班機空難.md "wikilink")
   - [伊朗航空655號班機空難](../Page/伊朗航空655號班機空難.md "wikilink")
   - [马来西亚航空17号班机空难](https://zh.wikipedia.org/wiki/马来西亚航空17号班机空难 "wikilink")
 

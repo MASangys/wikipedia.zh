@@ -31,7 +31,7 @@ Q線任何時候都營運，來往曼哈頓[上東城的](https://zh.wikipedia.o
 | --------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -- | --------------- |
 | 任何時段（深夜除外）                                                      | 深夜                                                                          |                                                                                 |    |                 |
 | [IND第二大道線](https://zh.wikipedia.org/wiki/IND第二大道線 "wikilink")   | [96街](https://zh.wikipedia.org/wiki/96街車站_\(第二大道線\) "wikilink")             | [72街](https://zh.wikipedia.org/wiki/72街車站_\(第二大道線\) "wikilink")                 | 全部 |                 |
-| [BMT 63街線](https://zh.wikipedia.org/wiki/63街線 "wikilink")（全線）   | [萊辛頓大道-63街](https://zh.wikipedia.org/wiki/萊辛頓大道-63街車站_\(63街線\) "wikilink")  | 全部                                                                              |    |                 |
+| [BMT 63街線](../Page/63街線.md "wikilink")（全線）                      | [萊辛頓大道-63街](https://zh.wikipedia.org/wiki/萊辛頓大道-63街車站_\(63街線\) "wikilink")  | 全部                                                                              |    |                 |
 | [BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")     | [57街-第七大道](https://zh.wikipedia.org/wiki/57街-第七大道車站_\(BMT百老匯線\) "wikilink") | [堅尼街](https://zh.wikipedia.org/wiki/堅尼街車站_\(BMT曼哈頓橋線\) "wikilink")              | 快車 |                 |
 | 慢車                                                              |                                                                             |                                                                                 |    |                 |
 | [曼哈頓大橋](../Page/曼哈頓大橋.md "wikilink")                            | 南                                                                           |                                                                                 |    |                 |
@@ -176,7 +176,7 @@ Q線任何時候都營運，來往曼哈頓[上東城的](https://zh.wikipedia.o
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/63街線" title="wikilink">63街線</a></strong></p></td>
+<td><p><strong><a href="../Page/63街線.md" title="wikilink">63街線</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -225,7 +225,7 @@ Q線任何時候都營運，來往曼哈頓[上東城的](https://zh.wikipedia.o
 <td></td>
 <td><p><br />
 （<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>）<br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）<br />
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）<br />
 （<a href="https://zh.wikipedia.org/wiki/IND第八大道線" title="wikilink">IND第八大道線</a>，<a href="https://zh.wikipedia.org/wiki/42街-航港局客運總站車站_(IND第八大道線)" title="wikilink">42街-航港局客運總站</a>）<br />
 （<a href="../Page/42街接駁線.md" title="wikilink">42街接駁線</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐新航港局客運總站" title="wikilink">紐新航港局客運總站</a></p></td>
@@ -348,7 +348,7 @@ Q線任何時候都營運，來往曼哈頓[上東城的](https://zh.wikipedia.o
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/BMT富蘭克林大道線" title="wikilink">BMT富蘭克林大道線</a>）</p></td>
+（<a href="../Page/BMT富蘭克林大道線.md" title="wikilink">BMT富蘭克林大道線</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -476,7 +476,7 @@ Q線任何時候都營運，來往曼哈頓[上東城的](https://zh.wikipedia.o
 <td><p><a href="https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_(BMT布萊頓線)" title="wikilink">康尼島-斯提威爾大道</a></p></td>
 <td></td>
 <td></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/BMT西城線" title="wikilink">BMT西城線</a>）<br />
+<td><p>（<a href="../Page/BMT西城線.md" title="wikilink">BMT西城線</a>）<br />
 （<a href="https://zh.wikipedia.org/wiki/IND卡爾弗線" title="wikilink">IND卡爾弗線</a>）<br />
 （<a href="https://zh.wikipedia.org/wiki/BMT海灘線" title="wikilink">BMT海灘線</a>）</p></td>
 <td></td>

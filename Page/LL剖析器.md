@@ -2,7 +2,7 @@
 derivation，相对于[LR分析器](https://zh.wikipedia.org/wiki/LR分析器 "wikilink")）。能以此方法分析的文法称为**LL
 文法**。
 
-本文中将讨论表格驱动的分析器，而非通常由手工打造（非绝对，参看如[ANTLR等的](https://zh.wikipedia.org/wiki/ANTLR "wikilink")
+本文中将讨论表格驱动的分析器，而非通常由手工打造（非绝对，参看如[ANTLR等的](../Page/ANTLR.md "wikilink")
 LL(\*)
 递归下降分析器生成器）的[递归下降分析器](https://zh.wikipedia.org/wiki/递归下降分析器 "wikilink")。
 

@@ -141,7 +141,7 @@ Standard</p></th>
 <th><p>Voltage</p></th>
 <th><p><a href="../Page/DIMM.md" title="wikilink">DIMM</a><br />
 pins</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/SO-DIMM" title="wikilink">SO-DIMM</a><br />
+<th><p><a href="../Page/SO-DIMM.md" title="wikilink">SO-DIMM</a><br />
 pins</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/MicroDIMM" title="wikilink">MicroDIMM</a><br />
 pins</p></th>

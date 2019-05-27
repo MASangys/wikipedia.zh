@@ -190,7 +190,7 @@ print C.np_mat()
 ## 相關條目
 
   - [OpenCL](../Page/OpenCL.md "wikilink")
-  - [Vulkan](https://zh.wikipedia.org/wiki/Vulkan_\(API\) "wikilink")
+  - [Vulkan](../Page/Vulkan_\(API\).md "wikilink")
 
 ## 参考文献
 

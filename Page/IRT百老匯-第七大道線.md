@@ -146,7 +146,7 @@
 <tr class="even">
 <td><p><a href="../Page/英伍德.md" title="wikilink">英伍德</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/221街車站_(IRT百老匯-第七大道線)" title="wikilink">221街</a></p></td>
+<td><p><a href="../Page/221街車站_(IRT百老匯-第七大道線).md" title="wikilink">221街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -440,7 +440,7 @@
 <td><p>全部</p></td>
 <td></td>
 <td><p>1917年6月3日[29]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>（）<br />
+<td><p><a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>（）<br />
 <a href="https://zh.wikipedia.org/wiki/IND第八大道線" title="wikilink">IND第八大道線</a>（），<a href="https://zh.wikipedia.org/wiki/42街-航港局客運總站車站_(IND第八大道線)" title="wikilink">42街-航港局客運總站</a><br />
 <a href="https://zh.wikipedia.org/wiki/BMT百老匯線" title="wikilink">BMT百老匯線</a>（）<br />
 <a href="https://zh.wikipedia.org/wiki/紐約地鐵42街接駁線" title="wikilink">紐約地鐵42街接駁線</a>（）<br />

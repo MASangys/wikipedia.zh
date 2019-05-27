@@ -33,7 +33,7 @@ Disc為](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")「AVXD」開頭�
   - [上木彩矢](../Page/上木彩矢.md "wikilink")（[GIZA
     studio移籍至此](../Page/GIZA_studio.md "wikilink")）
 
-  - [氣志團](https://zh.wikipedia.org/wiki/氣志團 "wikilink")（[日本EMI音樂移籍至此](https://zh.wikipedia.org/wiki/日本EMI音樂 "wikilink")）
+  - [氣志團](../Page/氣志團.md "wikilink")（[日本EMI音樂移籍至此](https://zh.wikipedia.org/wiki/日本EMI音樂 "wikilink")）
 
   - [北乃紀伊](https://zh.wikipedia.org/wiki/北乃紀伊 "wikilink")
 
@@ -71,7 +71,7 @@ Disc為](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")「AVXD」開頭�
   -
   - [所喬治](https://zh.wikipedia.org/wiki/所喬治 "wikilink")（佳音唱片（現：[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")）→Epic
     Records（現：[Epic Records Japan
-    Inc.](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")）→[VAPより移籍](https://zh.wikipedia.org/wiki/VAP "wikilink")）
+    Inc.](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")）→[VAPより移籍](../Page/VAP.md "wikilink")）
 
   - [初音](../Page/奥村初音.md "wikilink")（奥村初音）
 
@@ -115,7 +115,7 @@ Disc為](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")「AVXD」開頭�
   - ROOT FIVE(即√5，譯:根號五)
   - [SKE48](../Page/SKE48.md "wikilink")（[日本クラウン移籍至此](https://zh.wikipedia.org/wiki/日本クラウン "wikilink")）
   - [SHINee](../Page/SHINee.md "wikilink")\[4\]
-  - [SHU-I](https://zh.wikipedia.org/wiki/SHU-I "wikilink")
+  - [SHU-I](../Page/SHU-I.md "wikilink")
   - [SOULHEAD](https://zh.wikipedia.org/wiki/SOULHEAD "wikilink")
   - [Super Junior](../Page/Super_Junior.md "wikilink")\[5\]
   - [the pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")

@@ -256,7 +256,7 @@
 
   - 原作 - 川村美香
   - 監督 - [櫻井弘明](../Page/櫻井弘明.md "wikilink")
-  - 系列構成 - [金春智子](https://zh.wikipedia.org/wiki/金春智子 "wikilink")
+  - 系列構成 - [金春智子](../Page/金春智子.md "wikilink")
   - 人物設定 - 音地正行
   - 美術監督 - 小林七郎
   - 攝影 - 黑澤豐
@@ -296,7 +296,7 @@
 | 諸星輝         | [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")                  | [雷霆](../Page/雷霆.md "wikilink")                                                           | [于正昇](../Page/于正昇.md "wikilink")                    |
 | 多利安         | [望月久代](../Page/望月久代.md "wikilink")                    | [梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")                                      | [楊凱凱](../Page/楊凱凱.md "wikilink")                    |
 | 琦偉          | [尤加奈](../Page/尤加奈.md "wikilink")                      | [鄭麗麗](../Page/鄭麗麗.md "wikilink")                                                         | [林美秀](../Page/林美秀_\(配音員\).md "wikilink")            |
-| 嘉雯          | [長澤美樹](https://zh.wikipedia.org/wiki/長澤美樹 "wikilink") | [黃鳳英](../Page/黃鳳英.md "wikilink")                                                         | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
+| 嘉雯          | [長澤美樹](../Page/長澤美樹.md "wikilink")                    | [黃鳳英](../Page/黃鳳英.md "wikilink")                                                         | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
 | 鹿田          | [安井邦彥](../Page/安井邦彥.md "wikilink")                    | [盧國權](../Page/盧國權.md "wikilink")                                                         | [于正昇](../Page/于正昇.md "wikilink")                    |
 | 校長          | [坂東尚樹](https://zh.wikipedia.org/wiki/坂東尚樹 "wikilink") | [林保全](../Page/林保全.md "wikilink")／[盧素娟](../Page/盧素娟.md "wikilink")（幼年）                    | [孫中台](../Page/孫中台.md "wikilink")                    |
 

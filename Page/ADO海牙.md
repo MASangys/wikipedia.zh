@@ -6,7 +6,7 @@ Den Haag Stadion），擁有15,000個座位。主場球衣的顏色為黃色和�
 球會先前稱為FC海牙（FC Den
 Haag），而ADO則表示球會業餘隊的分支。雖然海牙市是荷蘭傳統三大城市之一，但ADO海牙的成就卻無法和[阿積士和](https://zh.wikipedia.org/wiki/阿積士 "wikilink")[飛燕諾在荷蘭的成就相比](../Page/飛燕諾.md "wikilink")。而和這兩間球會的競爭，經常引起雙方的球迷衝突。但是，由於和阿積士間的衝突比和飛燕諾的多，所以當阿積士和飛燕諾的球迷發生衝突時，ADO的球迷通常會比較傾向飛燕諾的一邊。
 
-ADO海牙在1942年和1943年贏得[荷蘭甲組足球聯賽冠軍](https://zh.wikipedia.org/wiki/荷蘭甲組足球聯賽 "wikilink")，和在1968年與1975年贏得[荷蘭盃的冠軍](../Page/荷蘭盃.md "wikilink")（都是以FC海牙之名取得）。而ADO在歐洲賽最好的成績，就在1976年，球會打入[歐洲杯賽冠軍杯的準決賽](https://zh.wikipedia.org/wiki/1975–76年歐洲盃賽冠軍盃 "wikilink")，對手是[韋斯咸](https://zh.wikipedia.org/wiki/韋斯咸 "wikilink")。他們主場贏4-2，而作客輸1-3，標誌球會被淘汰。其後經過一段長時間在乙組的角逐，現在則重回甲組。
+ADO海牙在1942年和1943年贏得[荷蘭甲組足球聯賽冠軍](https://zh.wikipedia.org/wiki/荷蘭甲組足球聯賽 "wikilink")，和在1968年與1975年贏得[荷蘭盃的冠軍](../Page/荷蘭盃.md "wikilink")（都是以FC海牙之名取得）。而ADO在歐洲賽最好的成績，就在1976年，球會打入[歐洲杯賽冠軍杯的準決賽](../Page/1975–76年歐洲盃賽冠軍盃.md "wikilink")，對手是[韋斯咸](https://zh.wikipedia.org/wiki/韋斯咸 "wikilink")。他們主場贏4-2，而作客輸1-3，標誌球會被淘汰。其後經過一段長時間在乙組的角逐，現在則重回甲組。
 
 ## 榮譽
 

@@ -51,7 +51,7 @@ Q亦成功说服制作人员将戏服中用时尚的仿真皮草取代真的皮�
 ### 私人生活
 
 Maggie Q
-曾與[日本足球运动員](../Page/日本.md "wikilink")[中田英壽](../Page/中田英壽.md "wikilink")、香港演員[吳彥祖](../Page/吳彥祖.md "wikilink")、與[美籍韩裔演員](../Page/韓裔美國人.md "wikilink")[丹尼爾·海尼交往](../Page/丹尼爾·海尼.md "wikilink")，2000年與[陳冠希拍攝電影](../Page/陳冠希.md "wikilink")《特警新人類2機動任務》時又曾與陳冠希傳出緋聞，2014年與[迪倫·麥狄蒙因出演美劇](../Page/迪倫·麥狄蒙.md "wikilink")[跟蹤者認識](https://zh.wikipedia.org/wiki/跟蹤者 "wikilink")，最後交往3個月後訂婚。
+曾與[日本足球运动員](../Page/日本.md "wikilink")[中田英壽](../Page/中田英壽.md "wikilink")、香港演員[吳彥祖](../Page/吳彥祖.md "wikilink")、與[美籍韩裔演員](../Page/韓裔美國人.md "wikilink")[丹尼爾·海尼交往](../Page/丹尼爾·海尼.md "wikilink")，2000年與[陳冠希拍攝電影](../Page/陳冠希.md "wikilink")《特警新人類2機動任務》時又曾與陳冠希傳出緋聞，2014年與[迪倫·麥狄蒙因出演美劇](../Page/迪倫·麥狄蒙.md "wikilink")[跟蹤者認識](../Page/跟蹤者.md "wikilink")，最後交往3個月後訂婚。
 
 ## 作品
 
@@ -80,7 +80,7 @@ Maggie Q
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2015年電影" title="wikilink">2015年</a></p></td>
 <td></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/分歧者2：叛亂者" title="wikilink">分歧者2：叛亂者</a>》</p></td>
+<td><p>《<a href="../Page/分歧者2：叛亂者.md" title="wikilink">分歧者2：叛亂者</a>》</p></td>
 <td><p><em></em></p></td>
 <td><p><em>Tori Wu</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/雪琳·伍德莉" title="wikilink">雪琳·伍德莉</a><strong>飾<em>翠絲</em><br />
@@ -112,8 +112,8 @@ Maggie Q
 <td><p>《格鬥天王》</p></td>
 <td><p><em></em></p></td>
 <td><p><em>不知火舞</em></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/西恩·法瑞斯" title="wikilink">肖恩·法瑞斯</a></strong>飾 <em>草薙京</em><br />
-<strong><a href="https://zh.wikipedia.org/wiki/李威尹" title="wikilink">威尔·尹·李</a></strong>飾 <em>八神庵</em></p></td>
+<td><p><strong><a href="../Page/西恩·法瑞斯.md" title="wikilink">肖恩·法瑞斯</a></strong>飾 <em>草薙京</em><br />
+<strong><a href="../Page/李威尹.md" title="wikilink">威尔·尹·李</a></strong>飾 <em>八神庵</em></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2009年電影" title="wikilink">2009年</a></p></td>
@@ -157,7 +157,7 @@ Maggie Q
 <td><p>《<a href="https://zh.wikipedia.org/wiki/乒乓特派員" title="wikilink">-{zh-hans:愤怒乒乓球; zh-hant:乒乓特派員;}-</a>》</p></td>
 <td><p><em></em></p></td>
 <td><p><em>Maggie Wong</em></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/丹·富勒" title="wikilink">Dan Fogler</a></strong>飾 <em>Randy Daytona</em><br />
+<td><p><strong><a href="../Page/丹·富勒.md" title="wikilink">Dan Fogler</a></strong>飾 <em>Randy Daytona</em><br />
 <strong><a href="../Page/吳漢章.md" title="wikilink">吳漢章</a></strong>飾 <em>Master Wong</em></p></td>
 </tr>
 <tr class="odd">
@@ -316,9 +316,9 @@ Maggie Q
 | 2002年      | 雄心密令                                                                 | Mission In Trouble   | 楊蘭                                                    | [ATV](https://zh.wikipedia.org/wiki/ATV "wikilink")（[亞洲電視](../Page/亞洲電視.md "wikilink")）\[7\] |
 | 2005年      | 融之堂                                                                  | House of Harmony     | Harmony                                               | [电视电影](https://zh.wikipedia.org/wiki/电视电影 "wikilink")\[8\]                                   |
 | 2010–2013年 | [尼基塔女郎](https://zh.wikipedia.org/wiki/尼基塔女郎_\(2010年電視劇\) "wikilink") | Nikita               | 尼基塔                                                   | 获得提名 – [青少年选择奖 - 电视选择奖：动作/冒险类女演员](../Page/青少年选择奖.md "wikilink")\[9\]                         |
-| 2012       | [少年正義聯盟](https://zh.wikipedia.org/wiki/少年正義聯盟_\(動畫\) "wikilink")     | |Young Justice       | [神奇女侠](https://zh.wikipedia.org/wiki/神奇女侠 "wikilink") | 动画配音                                                                                         |
+| 2012       | [少年正義聯盟](../Page/少年正義聯盟_\(動畫\).md "wikilink")                        | |Young Justice       | [神奇女侠](https://zh.wikipedia.org/wiki/神奇女侠 "wikilink") | 动画配音                                                                                         |
 | 2014       | [跟踪者](https://zh.wikipedia.org/wiki/跟踪者 "wikilink")                  | |Stalker             | 贝丝·戴维斯                                                |                                                                                              |
-| 2016       | [指定倖存者](https://zh.wikipedia.org/wiki/指定倖存者_\(電視劇\) "wikilink")      | |Designated survivor | Hannas Wells                                          |                                                                                              |
+| 2016       | [指定倖存者](../Page/指定倖存者_\(電視劇\).md "wikilink")                         | |Designated survivor | Hannas Wells                                          |                                                                                              |
 
 Television
 

@@ -122,7 +122,7 @@ Labat也將繼續在品牌留任。
         (品牌)](https://zh.wikipedia.org/wiki/克里斯汀·迪奥_\(品牌\) "wikilink")（Christian
         Dior）：成立於1947年，主營高級訂製服、成衣、鞋履、皮革製品及飾品。
       - [羅威](https://zh.wikipedia.org/wiki/羅威 "wikilink")（LOEWE）：成立於1846年，主營皮革製品、成衣、絲绸飾品及香水。
-      - [思琳](https://zh.wikipedia.org/wiki/思琳 "wikilink")（Céline）：成立於1945年，主營成衣、皮革製品、鞋履、飾品及香水。
+      - [思琳](../Page/思琳.md "wikilink")（Céline）：成立於1945年，主營成衣、皮革製品、鞋履、飾品及香水。
       - [貝魯堤](https://zh.wikipedia.org/wiki/貝魯堤 "wikilink")（Berluti）：成立於1895年，主營鞋履。
       - [高田賢三](https://zh.wikipedia.org/wiki/高田賢三 "wikilink")（Kenzo）：成立於1970年，主營成衣、皮革製品、鞋履及飾品。
       - [紀梵希](../Page/紀梵希.md "wikilink")（Givenchy）：成立於1952年，主營高級訂製服、成衣、鞋履、皮革製品及飾品。

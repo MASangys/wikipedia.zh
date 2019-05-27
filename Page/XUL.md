@@ -40,7 +40,7 @@ XUL定義了一套豐富的元素。它們大致上可分為以下幾種：
   - 基層元素:
     例如[視窗](../Page/視窗.md "wikilink")、page、[對話框](https://zh.wikipedia.org/wiki/對話框 "wikilink")、[精靈](https://zh.wikipedia.org/wiki/精靈_\(軟件\) "wikilink")
     Widget:
-    例如標籤、[按鈕](https://zh.wikipedia.org/wiki/按钮_\(计算机\) "wikilink")、[文字方塊](https://zh.wikipedia.org/wiki/文本框 "wikilink")、條列式選單、[下拉式方塊](https://zh.wikipedia.org/wiki/组合框 "wikilink")、[選擇鈕](https://zh.wikipedia.org/wiki/選擇鈕 "wikilink")、[核取方塊](https://zh.wikipedia.org/wiki/核取方塊 "wikilink")、[樹](https://zh.wikipedia.org/wiki/樹狀檢視 "wikilink")、[選單](https://zh.wikipedia.org/wiki/选单 "wikilink")、[工具列](../Page/工具栏.md "wikilink")、分组框、[标签页](https://zh.wikipedia.org/wiki/分頁瀏覽器 "wikilink")、色彩選擇器、spacer、splitter
+    例如標籤、[按鈕](https://zh.wikipedia.org/wiki/按钮_\(计算机\) "wikilink")、[文字方塊](https://zh.wikipedia.org/wiki/文本框 "wikilink")、條列式選單、[下拉式方塊](../Page/组合框.md "wikilink")、[選擇鈕](https://zh.wikipedia.org/wiki/選擇鈕 "wikilink")、[核取方塊](https://zh.wikipedia.org/wiki/核取方塊 "wikilink")、[樹](https://zh.wikipedia.org/wiki/樹狀檢視 "wikilink")、[選單](https://zh.wikipedia.org/wiki/选单 "wikilink")、[工具列](../Page/工具栏.md "wikilink")、分组框、[标签页](https://zh.wikipedia.org/wiki/分頁瀏覽器 "wikilink")、色彩選擇器、spacer、splitter
     排版: 例如方框、網格、堆疊、疊
     事件和腳本:
     例如[腳本](../Page/脚本语言.md "wikilink")、[命令](https://zh.wikipedia.org/wiki/命令 "wikilink")、key、broadcaster、observer
@@ -54,7 +54,7 @@ XUL定義了一套豐富的元素。它們大致上可分為以下幾種：
 
 ## XUL應用
 
-雖然XUL的設計原意是為了創作Mozilla程式及其擴充套件，但事實上人們也能利用它來編寫基於[HTTP的](https://zh.wikipedia.org/wiki/HTTP "wikilink")[網絡應用程式](https://zh.wikipedia.org/wiki/網絡應用程式 "wikilink")。基本[安全性的原則](https://zh.wikipedia.org/wiki/安全性 "wikilink")，很多需要特權的[XPCOM物件在無特權的XUL文件上都不能使用](https://zh.wikipedia.org/wiki/XPCOM "wikilink")。唯有使用[數碼簽署的腳本才享有此種特權](https://zh.wikipedia.org/wiki/数字签名 "wikilink")。就算如此，這些文件亦受[網頁瀏覽器的限制](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，例如不能載入遠端的XUL、DTD和RDF文件。
+雖然XUL的設計原意是為了創作Mozilla程式及其擴充套件，但事實上人們也能利用它來編寫基於[HTTP的](https://zh.wikipedia.org/wiki/HTTP "wikilink")[網絡應用程式](https://zh.wikipedia.org/wiki/網絡應用程式 "wikilink")。基本[安全性的原則](https://zh.wikipedia.org/wiki/安全性 "wikilink")，很多需要特權的[XPCOM物件在無特權的XUL文件上都不能使用](../Page/XPCOM.md "wikilink")。唯有使用[數碼簽署的腳本才享有此種特權](https://zh.wikipedia.org/wiki/数字签名 "wikilink")。就算如此，這些文件亦受[網頁瀏覽器的限制](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，例如不能載入遠端的XUL、DTD和RDF文件。
 
 ## 電影致敬
 
@@ -68,14 +68,14 @@ XUL」作為標語。而「Keymaster」和「Gatekeeper」都是來自該個情�
 
   - [可扩展用户界面协议](https://zh.wikipedia.org/wiki/可扩展用户界面协议 "wikilink")（XUP）
 
-  - [用户界面标记语言](https://zh.wikipedia.org/wiki/用户界面标记语言 "wikilink")
+  - [用户界面标记语言](../Page/用户界面标记语言.md "wikilink")
 
   -
-  - [Mozilla应用程序框架](https://zh.wikipedia.org/wiki/Mozilla应用程序框架 "wikilink")
+  - [Mozilla应用程序框架](../Page/Mozilla应用程序框架.md "wikilink")
 
   - [XBL](../Page/XBL.md "wikilink")
 
-  - [XULRunner](https://zh.wikipedia.org/wiki/XULRunner "wikilink")
+  - [XULRunner](../Page/XULRunner.md "wikilink")
 
   - [ZK](../Page/ZK.md "wikilink")
 

@@ -684,7 +684,7 @@ Teddy<br />
 後被林永泰槍殺</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飆</a></p></td>
+<td><p><a href="../Page/游飈.md" title="wikilink">游　飆</a></p></td>
 <td><p>小　黃</p></td>
 <td><p>旗兵，小路表弟<br />
 被<a href="../Page/特別任務連.md" title="wikilink">特別任務連射殺</a><br />

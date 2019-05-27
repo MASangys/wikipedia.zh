@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - **奈比利爾（Neviril／ネヴィリル）**（配音員：[高橋理惠子](https://zh.wikipedia.org/wiki/高橋理惠子 "wikilink")）
+  - **奈比利爾（Neviril／ネヴィリル）**（配音員：[高橋理惠子](../Page/高橋理惠子.md "wikilink")）
 
 <!-- end list -->
 

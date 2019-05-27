@@ -1,5 +1,5 @@
 **安全增強式Linux**（SELinux，Security-Enhanced
-Linux）是一个[Linux内核的](../Page/Linux内核.md "wikilink")[安全模组](https://zh.wikipedia.org/wiki/Linux安全模组 "wikilink")，其提供了访问控制安全策略机制，包括了[美国国防部风格的](../Page/美国国防部.md "wikilink")[强制访问控制](https://zh.wikipedia.org/wiki/强制访问控制 "wikilink")（Mandatory
+Linux）是一个[Linux内核的](../Page/Linux内核.md "wikilink")[安全模组](https://zh.wikipedia.org/wiki/Linux安全模组 "wikilink")，其提供了访问控制安全策略机制，包括了[美国国防部风格的](../Page/美国国防部.md "wikilink")[强制访问控制](../Page/强制访问控制.md "wikilink")（Mandatory
 Access Control，MAC）。
 
 SELinux是一系列添加到多个[Linux发行版的内核修改与用户空间工具](../Page/Linux发行版.md "wikilink")。其[软件架构力图从安全策略中分离出执行安全决策并优化涉及执行安全策略的软件](../Page/软件架构.md "wikilink")。\[1\]\[2\]奠基SELinux的核心概念可以追溯回[美国国家安全局](../Page/美国国家安全局.md "wikilink")（NSA）的一些早期项目。
@@ -80,7 +80,7 @@ Core
 Heron）中加入。\[7\]截止[SUSE版本](../Page/SUSE.md "wikilink")11.1中，它包含了SELinux的“基础实现”。\[8\]
  11将SELinux作为“技术预览”。\[9\]
 
-SELinux在基于的系统中流向,比如[CoreOS和rkt](https://zh.wikipedia.org/wiki/CoreOS "wikilink")。\[10\]其作为额外的安全控制来帮助隔离容器和它们的主机十分有用。
+SELinux在基于的系统中流向,比如[CoreOS和rkt](../Page/CoreOS.md "wikilink")。\[10\]其作为额外的安全控制来帮助隔离容器和它们的主机十分有用。
 
 ## 使用情形
 
@@ -108,7 +108,7 @@ and `selinux-policy-upgrade`\[26\]
 
 ## 与AppArmor的对比
 
-SELinux代表了多个可能解决限制安装软件活动的方法之一。另外一个受欢迎的替代品被称为[AppArmor](https://zh.wikipedia.org/wiki/AppArmor "wikilink")，它在（SLES）、[OpenSUSE和](../Page/OpenSUSE.md "wikilink")[其他Linux平台中可用](../Page/Linux发行版列表.md "wikilink")。AppArmor原初是作为现不存在的平台组件之一开发的。由于AppArmor和SELinux大相径庭，它们产生了两种完全不同的软件访问限制软件。虽然SELinux重新提出了特定的概念以提供更丰富的策略选择表达集，但AppArmor通过扩展用于自主访问控制级的特定相同[自主访问控制管理语言设计来简化其使用](../Page/自主访问控制.md "wikilink")。
+SELinux代表了多个可能解决限制安装软件活动的方法之一。另外一个受欢迎的替代品被称为[AppArmor](../Page/AppArmor.md "wikilink")，它在（SLES）、[OpenSUSE和](../Page/OpenSUSE.md "wikilink")[其他Linux平台中可用](../Page/Linux发行版列表.md "wikilink")。AppArmor原初是作为现不存在的平台组件之一开发的。由于AppArmor和SELinux大相径庭，它们产生了两种完全不同的软件访问限制软件。虽然SELinux重新提出了特定的概念以提供更丰富的策略选择表达集，但AppArmor通过扩展用于自主访问控制级的特定相同[自主访问控制管理语言设计来简化其使用](../Page/自主访问控制.md "wikilink")。
 
 它们之间存在几个显著的不同：
 
@@ -133,7 +133,7 @@ SELinux代表了多个可能解决限制安装软件活动的方法之一。另�
   -
 ## 相似系统
 
-孤立进程也可以通过类似[作業系統層虛擬化的机制实现](https://zh.wikipedia.org/wiki/作業系統層虛擬化 "wikilink")；比如在[OLPC项目的首次实现中](../Page/OLPC.md "wikilink")\[29\]它使用了[沙盒技术在轻量的](../Page/沙盒_\(電腦安全\).md "wikilink")环境中隔离独立的应用程序。同样[美国国家安全局也在安全增强型](../Page/美国国家安全局.md "wikilink")[Android中采用了一些SELinux概念](../Page/Android.md "wikilink")。\[30\]
+孤立进程也可以通过类似[作業系統層虛擬化的机制实现](../Page/作業系統層虛擬化.md "wikilink")；比如在[OLPC项目的首次实现中](../Page/OLPC.md "wikilink")\[29\]它使用了[沙盒技术在轻量的](../Page/沙盒_\(電腦安全\).md "wikilink")环境中隔离独立的应用程序。同样[美国国家安全局也在安全增强型](../Page/美国国家安全局.md "wikilink")[Android中采用了一些SELinux概念](../Page/Android.md "wikilink")。\[30\]
 
 ## 参见
 

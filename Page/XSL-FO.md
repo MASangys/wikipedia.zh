@@ -64,7 +64,7 @@ XSL-FO列表本质上就是两列并排排列的数据块。每个条目都由�
 
 ### 分页控制
 
-用户可以指定[Widow和](https://zh.wikipedia.org/wiki/Widow "wikilink")[Orphan的处理方式](https://zh.wikipedia.org/wiki/寡行和孤行 "wikilink")\[1\]。另外，用户可以指定一个文本块不被分割。例如，一个图片和图片的说明应在一起显示。FO处理器会尽力保证这些命令的实现。
+用户可以指定[Widow和](https://zh.wikipedia.org/wiki/Widow "wikilink")[Orphan的处理方式](../Page/寡行和孤行.md "wikilink")\[1\]。另外，用户可以指定一个文本块不被分割。例如，一个图片和图片的说明应在一起显示。FO处理器会尽力保证这些命令的实现。
 
 <references />
 

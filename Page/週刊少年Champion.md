@@ -18,8 +18,8 @@
   - [浦安鉄筋家族](https://zh.wikipedia.org/wiki/浦安鉄筋家族 "wikilink")——[浜岡賢次](https://zh.wikipedia.org/wiki/浜岡賢次 "wikilink")
   - [元祖！浦安鉄筋家族](../Page/元祖！抓狂一族.md "wikilink")——[浜岡賢次](https://zh.wikipedia.org/wiki/浜岡賢次 "wikilink")
   - [ORANGE](https://zh.wikipedia.org/wiki/ORANGE "wikilink")——[能田達規](https://zh.wikipedia.org/wiki/能田達規 "wikilink")
-  - [日本沉沒](../Page/日本沉沒.md "wikilink")——[小松左京](../Page/小松左京.md "wikilink")・[齊藤隆夫](https://zh.wikipedia.org/wiki/齊藤隆夫 "wikilink")
-  - [刃牙](https://zh.wikipedia.org/wiki/刃牙 "wikilink")（Baki）——[板垣惠介](https://zh.wikipedia.org/wiki/板垣惠介 "wikilink")
+  - [日本沉沒](../Page/日本沉沒.md "wikilink")——[小松左京](../Page/小松左京.md "wikilink")・[齊藤隆夫](../Page/齊藤隆夫.md "wikilink")
+  - [刃牙](../Page/刃牙.md "wikilink")（Baki）——[板垣惠介](https://zh.wikipedia.org/wiki/板垣惠介 "wikilink")
   - [七小花](../Page/七小花.md "wikilink")——[今川泰宏](../Page/今川泰宏.md "wikilink")
   - [聖鬥士星矢 NEXT DIMENSION
     冥王神話](../Page/聖鬥士星矢_NEXT_DIMENSION_冥王神話.md "wikilink")——[車田正美](https://zh.wikipedia.org/wiki/車田正美 "wikilink")（連載中）

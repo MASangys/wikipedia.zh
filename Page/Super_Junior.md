@@ -1,7 +1,7 @@
 **Super Junior**（），簡稱為*'SJ
 **或**SuJu*'（），是韓國[SM娱樂於](https://zh.wikipedia.org/wiki/SM娱樂 "wikilink")2005年推出的[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")\[1\]，出道初期由12名成員組成，成員包括：[利特](../Page/利特.md "wikilink")、[希澈](../Page/希澈.md "wikilink")、[韓庚](../Page/韓庚.md "wikilink")、[藝聲](../Page/藝聲.md "wikilink")、[強仁](../Page/強仁.md "wikilink")、[神童](../Page/神童_\(藝人\).md "wikilink")、[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[厲旭及](../Page/厲旭.md "wikilink")[起範](../Page/起範.md "wikilink")。2006年起，[圭賢加入Super](../Page/圭賢.md "wikilink")
 Junior成為第13位成員\[2\]。2015年11月6日，在Super Junior出道十周年之際，宣布設立獨立工作室廠牌《[Label
-SJ](https://zh.wikipedia.org/wiki/Label_SJ "wikilink")》，專屬負責其專輯製作、經紀管理等方面的事業\[3\]。
+SJ](../Page/Label_SJ.md "wikilink")》，專屬負責其專輯製作、經紀管理等方面的事業\[3\]。
 
 2009年至2012年，Super Junior連續四年獲得韓國唱片銷量總冠軍\[4\]。另外，Super
 Junior獲得韓國[金唱片獎三屆唱片大賞](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")、五屆唱片本賞、七次人氣獎\[5\]\[6\]\[7\]，成為在韓國金唱片頒獎典禮中取得最多獎項的歌手以及第一個蟬聯金唱片大賞的團體\[8\]。2011年，Super
@@ -43,7 +43,7 @@ Friends（永遠的朋友），由隊長[利特親自命名](../Page/利特.md "
 2006年6月17日，Super
 Junior發行單曲《[U](../Page/U_\(Super_Junior單曲\).md "wikilink")》\[20\]。6月25日，《[U](../Page/U_\(Super_Junior單曲\).md "wikilink")》首獲[SBS](../Page/SBS_\(韓國\).md "wikilink")[人氣歌謠第一位](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")\[21\]。
 
-2006年8月10日，成員[希澈從](../Page/希澈.md "wikilink")[木浦參加成員](https://zh.wikipedia.org/wiki/木浦 "wikilink")[東海父親的葬禮後](../Page/東海_\(藝人\).md "wikilink")，趕回[首爾途中](https://zh.wikipedia.org/wiki/首爾 "wikilink")，在[忠清道發生嚴重車禍](https://zh.wikipedia.org/wiki/忠清道 "wikilink")。由於這起交通事故，他全身12處負傷、大腿骨骨折、腳裸骨折、盆骨骨折、膝蓋和股骨之間的胯骨嚴重受傷，爲保持清醒，咬住自己的舌頭，致使舌神經撕裂。手術過程在他的股骨和膝蓋之間插入十幾厘米鋼釘，醫生建議希澈三個月內停止一切活動，期間如果進行劇烈運動仍會有骨折危險，而應該住院八周以上的希澈，只住院35天就出院了，其後腿內的鋼釘後來也因過度練舞而彎曲，需再度住院。\[22\]
+2006年8月10日，成員[希澈從](../Page/希澈.md "wikilink")[木浦參加成員](https://zh.wikipedia.org/wiki/木浦 "wikilink")[東海父親的葬禮後](../Page/東海_\(藝人\).md "wikilink")，趕回[首爾途中](../Page/首爾.md "wikilink")，在[忠清道發生嚴重車禍](https://zh.wikipedia.org/wiki/忠清道 "wikilink")。由於這起交通事故，他全身12處負傷、大腿骨骨折、腳裸骨折、盆骨骨折、膝蓋和股骨之間的胯骨嚴重受傷，爲保持清醒，咬住自己的舌頭，致使舌神經撕裂。手術過程在他的股骨和膝蓋之間插入十幾厘米鋼釘，醫生建議希澈三個月內停止一切活動，期間如果進行劇烈運動仍會有骨折危險，而應該住院八周以上的希澈，只住院35天就出院了，其後腿內的鋼釘後來也因過度練舞而彎曲，需再度住院。\[22\]
 
 2006年8月21日，Super Junior專屬[KBS電台節目](../Page/韓國放送公社.md "wikilink")《Super
 Junior Kiss The
@@ -79,7 +79,7 @@ Junior於[MKMF音樂頒獎禮上獲得了Best](../Page/Mnet亞洲音樂大獎.md
 Red Carpet的獎項，也在"M.net 20's Choice賞"獲得原創熱新人的獎項。
 
 2008年2月22日，Super
-Junior於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾開始舉行首次亞洲巡迴演唱會](https://zh.wikipedia.org/wiki/首爾 "wikilink")《[Super
+Junior於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾開始舉行首次亞洲巡迴演唱會](../Page/首爾.md "wikilink")《[Super
 Show](../Page/Super_Show.md "wikilink")》\[33\]；此後，Super Show也成為了Super
 Junior的巡迴演唱會獨有品牌。
 
@@ -181,21 +181,21 @@ Show
 Junior為名副其實的「全球韓流帝王」的地位\[66\]。
 
 時隔2年，[SM娛樂宣布Super](../Page/SM娛樂.md "wikilink")
-Junior將帶著韓語第七張正規專輯《[Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink")》回歸，已完成服役的成員[利特和](../Page/利特.md "wikilink")[希澈將透過該專輯投入組合活動](../Page/希澈.md "wikilink")\[67\]。2014年8月29日，正式發行第七張正規專輯《[Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink")》的音源。是次專輯發佈後隨即登上了[iTunes亞洲](https://zh.wikipedia.org/wiki/iTunes "wikilink")4個地區的專輯排行榜的榜首，躋身歐洲、南美等世界各國專輯排行榜的前列，成功橫掃了YouTube官方K-POP頻道及中國愛奇藝、音悅台V榜等各種MV排行榜的冠軍，全球韓流帝王Super
+Junior將帶著韓語第七張正規專輯《[Mamacita](../Page/Mamacita.md "wikilink")》回歸，已完成服役的成員[利特和](../Page/利特.md "wikilink")[希澈將透過該專輯投入組合活動](../Page/希澈.md "wikilink")\[67\]。2014年8月29日，正式發行第七張正規專輯《[Mamacita](../Page/Mamacita.md "wikilink")》的音源。是次專輯發佈後隨即登上了[iTunes亞洲](https://zh.wikipedia.org/wiki/iTunes "wikilink")4個地區的專輯排行榜的榜首，躋身歐洲、南美等世界各國專輯排行榜的前列，成功橫掃了YouTube官方K-POP頻道及中國愛奇藝、音悅台V榜等各種MV排行榜的冠軍，全球韓流帝王Super
 Junior的地位再次獲得證明\[68\]。9月13日，美國[billboard（公告牌）發佈的](../Page/告示牌_\(雜誌\).md "wikilink")「World
 Albums（世界專輯排行榜）」中，Super
-Junior憑著《[Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink")》獲得第一\[69\]。第七張正規專輯《[Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink")》的唱片在9月1日公開發售後，連續2週登上[Gaon
+Junior憑著《[Mamacita](../Page/Mamacita.md "wikilink")》獲得第一\[69\]。第七張正規專輯《[Mamacita](../Page/Mamacita.md "wikilink")》的唱片在9月1日公開發售後，連續2週登上[Gaon
 Chart週榜冠軍](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")\[70\]。10月27日，發行再版專輯《[This
 Is
-Love](https://zh.wikipedia.org/wiki/Mamacita "wikilink")》。12月13日，成員[晟敏與藝人](../Page/晟敏.md "wikilink")[金思垠舉辦不公開婚禮](https://zh.wikipedia.org/wiki/金思垠 "wikilink")，成為組合內第一位結婚的成員。12月17日，Super
-Junior第六張日語單曲專輯《[Mamacita](https://zh.wikipedia.org/wiki/Mamacita_\(單曲\) "wikilink")》發行。
+Love](../Page/Mamacita.md "wikilink")》。12月13日，成員[晟敏與藝人](../Page/晟敏.md "wikilink")[金思垠舉辦不公開婚禮](../Page/金思垠.md "wikilink")，成為組合內第一位結婚的成員。12月17日，Super
+Junior第六張日語單曲專輯《[Mamacita](../Page/Mamacita_\(單曲\).md "wikilink")》發行。
 
 2014年度韓國音樂頒獎典禮上，Super
-Junior憑藉第七張正規專輯《[Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink")》，於韓國[金唱片獎及](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")[首爾歌謠大賞上均獲得唱片部門本賞](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")；於[Gaon
+Junior憑藉第七張正規專輯《[Mamacita](../Page/Mamacita.md "wikilink")》，於韓國[金唱片獎及](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")[首爾歌謠大賞上均獲得唱片部門本賞](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")；於[Gaon
 Chart
-K-POP大獎以正規七輯](../Page/Gaon_Chart_K-POP大獎.md "wikilink")《[Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink")》及其後續專輯《[This
+K-POP大獎以正規七輯](../Page/Gaon_Chart_K-POP大獎.md "wikilink")《[Mamacita](../Page/Mamacita.md "wikilink")》及其後續專輯《[This
 Is
-Love](https://zh.wikipedia.org/wiki/Mamacita "wikilink")》獲得2014年第三季度專輯獎及第四季度專輯獎，此外也獲得了微博K-POP
+Love](../Page/Mamacita.md "wikilink")》獲得2014年第三季度專輯獎及第四季度專輯獎，此外也獲得了微博K-POP
 Star獎。
 
 2015年3月24日，成員[神童以現役兵身份入伍服役](../Page/神童_\(藝人\).md "wikilink")，成員[晟敏也於同月](../Page/晟敏.md "wikilink")31日以現役兵身分入伍服役。5月4日，成員[藝聲退伍完成兵役歸隊](../Page/藝聲.md "wikilink")。
@@ -209,12 +209,12 @@ Junior發行出道10週年特別紀念專輯第二部分《[Magic](../Page/Devil
 Got It〉、〈Dorothy〉和〈Sarang♥〉4首歌曲，共14首，該專輯獲得韓國[Gaon
 Chart](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")9月份專輯銷量第一名\[75\]\[76\]。9月19日，Super
 Junior舉辦10周年紀念特別活動"[Super
-Camp](https://zh.wikipedia.org/wiki/Super_Camp "wikilink")"，以迷你演唱會的形式展開公演和談話等活動\[77\]。11月1日,
+Camp](../Page/Super_Camp.md "wikilink")"，以迷你演唱會的形式展開公演和談話等活動\[77\]。11月1日,
 《[Mr.
 Simple](../Page/Mr._Simple.md "wikilink")》MV在YouTube點擊率突破一億，成為SM娛樂旗下男團中MV點擊首度破億的組合
 \[78\]。11月6日，韓國[SM娛樂在Super](../Page/SM娛樂.md "wikilink")
 Junior出道十周年之際，為組合設立獨立工作室廠牌《[Label
-SJ](https://zh.wikipedia.org/wiki/Label_SJ "wikilink")》，全面經營Super
+SJ](../Page/Label_SJ.md "wikilink")》，全面經營Super
 Junior的個人、小組、團隊活動，專屬負責其專輯製作、經紀管理等方面的事業，開創韓國業界的先例\[79\]。
 
 2015年8月18日，[起範與](../Page/起範.md "wikilink")[SM娛樂演員合約期滿](../Page/SM娛樂.md "wikilink")，離開公司並同時退出Super
@@ -232,10 +232,10 @@ Magic](https://zh.wikipedia.org/wiki/Devil_/_Magic "wikilink")》正式發行。
 ### 2017–2018年：Play、世界巡演Super Show 7、首登美國告示牌拉丁榜韓國歌手
 
 2017年5月25日，成員[圭賢以公益兵身份入伍服役](../Page/圭賢.md "wikilink")23個月，為組合內最後一位入伍服役的成員。7月12日，成員[銀赫退伍歸隊](../Page/銀赫.md "wikilink")，同月14日[東海也完成兵役退伍歸隊](../Page/東海_\(藝人\).md "wikilink")。8月18日，成員[始源退伍完成兵役歸隊](https://zh.wikipedia.org/wiki/始源 "wikilink")。10月9日，推出回歸真人秀節目《[SJ
-Returns](https://zh.wikipedia.org/wiki/SJ_returns "wikilink")》，記錄SJ回歸前的準備過程，共播出6週\[80\]。
+Returns](../Page/SJ_returns.md "wikilink")》，記錄SJ回歸前的準備過程，共播出6週\[80\]。
 
 2017年11月6日，Super
-Junior於出道12週年紀念日回歸歌壇並推出第八張正規專輯《[Play](https://zh.wikipedia.org/wiki/Play_\(Super_Junior專輯\) "wikilink")》\[81\]，定＜Black
+Junior於出道12週年紀念日回歸歌壇並推出第八張正規專輯《[Play](../Page/Play_\(Super_Junior專輯\).md "wikilink")》\[81\]，定＜Black
 Suit＞為專輯主打歌\[82\]，以七人陣容參與專輯錄製，是[神童](../Page/神童_\(藝人\).md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[東海退伍復出後的首張作品](../Page/東海_\(藝人\).md "wikilink")，但[始源在](https://zh.wikipedia.org/wiki/始源 "wikilink")10月因捲入寵物狗咬人風波，只參與專輯錄製不參與宣傳活動，而[厲旭與](../Page/厲旭.md "wikilink")[圭賢因入伍服役](../Page/圭賢.md "wikilink")、[強仁因酒後駕駛自省](../Page/強仁.md "wikilink")、[晟敏因與粉絲溝通不良](../Page/晟敏.md "wikilink")，均不參與該專輯的錄音與回歸宣傳活動\[83\]\[84\]。11月20日，Super
 Junior為了兌現專輯銷售突破20萬的公約，於CJ電視購物頻道播出電視購物節目《Super
 Market》挑戰現場銷售黑色羽絨衣，成為韓國第一組登上購物台的偶像團體\[85\]。11月28日，發行專輯《Play》的Pause版本，收錄[Super
@@ -243,18 +243,18 @@ Junior-K.R.Y.演唱的抒情曲](../Page/Super_Junior-K.R.Y..md "wikilink")《Sh
 Junior第八張日語單曲《[On and
 On](https://zh.wikipedia.org/wiki/On_and_On_\(Super_Junior單曲\) "wikilink")》正式發行。12月15至17日，Super
 Junior在首爾蠶室室內體育館舉行巡迴演唱會《[Super Show
-7](https://zh.wikipedia.org/wiki/Super_Show_7 "wikilink")》，[始源也回歸參與該演唱會](https://zh.wikipedia.org/wiki/始源 "wikilink")\[87\]。
+7](../Page/Super_Show_7.md "wikilink")》，[始源也回歸參與該演唱會](https://zh.wikipedia.org/wiki/始源 "wikilink")\[87\]。
 
 2017年度韓國音樂頒獎典禮上，Super
-Junior憑藉第八張正規專輯《[Play](https://zh.wikipedia.org/wiki/Play_\(Super_Junior專輯\) "wikilink")》於韓國[金唱片獎及](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")[首爾歌謠大賞均獲得唱片部門本賞獎項](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")。
+Junior憑藉第八張正規專輯《[Play](../Page/Play_\(Super_Junior專輯\).md "wikilink")》於韓國[金唱片獎及](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")[首爾歌謠大賞均獲得唱片部門本賞獎項](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")。
 
 2018年1月26日，Super Junior綜藝秀《[SUPER
-TV](https://zh.wikipedia.org/wiki/SUPER_TV "wikilink")》於韓國XtvN頻道正式播出\[88\]。
+TV](../Page/SUPER_TV.md "wikilink")》於韓國XtvN頻道正式播出\[88\]。
 
-2018年4月12日，發行正規八輯後續專輯《[Replay](https://zh.wikipedia.org/wiki/Play_\(Super_Junior專輯\) "wikilink")》\[89\]，八輯後續主打曲為＜Lo
+2018年4月12日，發行正規八輯後續專輯《[Replay](../Page/Play_\(Super_Junior專輯\).md "wikilink")》\[89\]，八輯後續主打曲為＜Lo
 Siento＞，出道以來首次挑戰拉丁曲風，並於發行兩星期內，以《Lo Siento》登上Billboard latin chart
 的第13名，成為第一組登上美國告示牌拉丁榜的韓國歌手\[90\]。6月7日，Super Junior綜藝秀《[SUPER
-TV](https://zh.wikipedia.org/wiki/SUPER_TV "wikilink")》第二季正式播出，成員[始源加入參與錄製](https://zh.wikipedia.org/wiki/始源 "wikilink")。6月27日，Super
+TV](../Page/SUPER_TV.md "wikilink")》第二季正式播出，成員[始源加入參與錄製](https://zh.wikipedia.org/wiki/始源 "wikilink")。6月27日，Super
 Junior於2010年發行的《[Bonamana](https://zh.wikipedia.org/wiki/Bonamana "wikilink")》MV在Youtube點閱率突破一億觀看次數，為Super
 Junior第二支破億MV\[91\]。
 
@@ -268,33 +268,33 @@ Favorita)，成為該頒獎典禮首組入圍及獲獎的韓國歌手\[92\]。8�
 Junior粉絲團ELF最終以224萬票獲得冠軍\[93\]\[94\]。9月2日，Super
 Junior代表[韓國出席](https://zh.wikipedia.org/wiki/韓國 "wikilink")[2018年印尼雅加達巨港亞運閉幕典禮的演唱會](https://zh.wikipedia.org/wiki/2018年亞洲運動會 "wikilink")「世界的活力」\[95\]，並於同月10日於韓國會見[印尼總統](https://zh.wikipedia.org/wiki/印尼 "wikilink")[佐科威](https://zh.wikipedia.org/wiki/佐科威 "wikilink")\[96\]。
 
-9月17日，[Label
-SJ確定Super](https://zh.wikipedia.org/wiki/Label_SJ "wikilink")
-Junior於10月8日發行首張特別迷你專輯回歸歌壇，並延續上張專輯《[Replay](https://zh.wikipedia.org/wiki/Play_\(Super_Junior專輯\) "wikilink")》歌曲＜Lo
+9月17日，[Label SJ確定Super](../Page/Label_SJ.md "wikilink")
+Junior於10月8日發行首張特別迷你專輯回歸歌壇，並延續上張專輯《[Replay](../Page/Play_\(Super_Junior專輯\).md "wikilink")》歌曲＜Lo
 Siento\>的拉丁流行音樂曲風\[97\]。9月27日，公布特別迷你專輯《[One More
-Time](https://zh.wikipedia.org/wiki/One_More_Time_\(Super_Junior迷你專輯\) "wikilink")》先行曲《Animals》的音源\[98\]，並於10月1日公開＜Animals＞的動畫版影片。
+Time](../Page/One_More_Time_\(Super_Junior迷你專輯\).md "wikilink")》先行曲《Animals》的音源\[98\]，並於10月1日公開＜Animals＞的動畫版影片。
 
 10月8日，發行特別迷你專輯《[One More
-Time](https://zh.wikipedia.org/wiki/One_More_Time_\(Super_Junior迷你專輯\) "wikilink")》，公開專輯完整音源及同名主打歌MV，並於MV拍攝地[澳門](../Page/澳門.md "wikilink")[美獅美高梅酒店舉行回歸Showcase](https://zh.wikipedia.org/wiki/美獅美高梅 "wikilink")，該張專輯共收錄五首歌曲，同名主打歌是與[南美洲著名的拉丁樂團Reik合作的拉丁歌曲](../Page/南美洲.md "wikilink")。該專輯為[厲旭退伍復出後的首張作品](../Page/厲旭.md "wikilink")，[希澈因腳傷問題只參與MV及專輯概念照拍攝](../Page/希澈.md "wikilink")，不參與專輯錄製及宣傳活動，則[圭賢因入伍服役](../Page/圭賢.md "wikilink")、[強仁因酒駕自省中](../Page/強仁.md "wikilink")、[晟敏因與粉絲溝通不良](../Page/晟敏.md "wikilink")，均不參與該專輯的活動。11月5日，Super
+Time](../Page/One_More_Time_\(Super_Junior迷你專輯\).md "wikilink")》，公開專輯完整音源及同名主打歌MV，並於MV拍攝地[澳門](../Page/澳門.md "wikilink")[美獅美高梅酒店舉行回歸Showcase](../Page/美獅美高梅.md "wikilink")，該張專輯共收錄五首歌曲，同名主打歌是與[南美洲著名的拉丁樂團Reik合作的拉丁歌曲](../Page/南美洲.md "wikilink")。該專輯為[厲旭退伍復出後的首張作品](../Page/厲旭.md "wikilink")，[希澈因腳傷問題只參與MV及專輯概念照拍攝](../Page/希澈.md "wikilink")，不參與專輯錄製及宣傳活動，則[圭賢因入伍服役](../Page/圭賢.md "wikilink")、[強仁因酒駕自省中](../Page/強仁.md "wikilink")、[晟敏因與粉絲溝通不良](../Page/晟敏.md "wikilink")，均不參與該專輯的活動。11月5日，Super
 Junior真人秀節目《[SJ Returns
 2](https://zh.wikipedia.org/wiki/SJ_Returns_\(第二季\) "wikilink")》正式播出\[99\]。11月6日，Super
 Junior紀念出道十三週年，發布紀念影片以及公布官方應援手燈名稱。11月7日，Super Junior於墨西哥出席《Telehit
 Awards》頒獎禮，成為首個獲邀出席的韓國歌手。11月11日，《[Super Show
-7](https://zh.wikipedia.org/wiki/Super_Show_7 "wikilink")》安可場首站於[曼谷舉行](../Page/曼谷.md "wikilink")，為發行《[One
+7](../Page/Super_Show_7.md "wikilink")》安可場首站於[曼谷舉行](../Page/曼谷.md "wikilink")，為發行《[One
 More
-Time](https://zh.wikipedia.org/wiki/One_More_Time_\(Super_Junior迷你專輯\) "wikilink")》後，SJ重啟世界巡演的第一站。11月28日，發行第九張日語單曲《[One
+Time](../Page/One_More_Time_\(Super_Junior迷你專輯\).md "wikilink")》後，SJ重啟世界巡演的第一站。11月28日，發行第九張日語單曲《[One
 More
-Time](https://zh.wikipedia.org/wiki/One_More_Time_\(Super_Junior日文單曲\) "wikilink")》。11月30日至12月1日，Super
+Time](../Page/One_More_Time_\(Super_Junior日文單曲\).md "wikilink")》。11月30日至12月1日，Super
 Junior在[東京巨蛋舉行](../Page/東京巨蛋.md "wikilink")《[Super Show
-7](https://zh.wikipedia.org/wiki/Super_Show_7 "wikilink")》動員十萬人次參與，讓「Super
-Show」演唱會觀看人次突破200萬人\[100\]。12月24日，Super Junior在2009年發行的代表招牌曲《[Sorry,
+7](../Page/Super_Show_7.md "wikilink")》動員十萬人次參與，讓「Super
+Show」演唱會觀看人次突破200萬人\[100\]。12月24日，Super
+Junior在2009年發行的代表招牌曲《[Sorry,
 Sorry](../Page/Sorry,_Sorry.md "wikilink")》MV在Youtube突破1億觀看次數，成為Super
 Junior的第三支觀看次數破億的MV。
 
 2019年1月26日，Super
 Junior受邀前往[台北參加](https://zh.wikipedia.org/wiki/台北 "wikilink")[第14屆KKBOX風雲榜](../Page/KKBOX風雲榜.md "wikilink")，成為首位非華語歌手獲獎年度風雲歌手\[101\]。3月2日，Super
 Junior於首爾展開世界巡演安可場《[Super Show
-7S](https://zh.wikipedia.org/wiki/Super_Show_7 "wikilink")》，意為[SS7的特別版演唱會](https://zh.wikipedia.org/wiki/Super_Show_7 "wikilink")。
+7S](../Page/Super_Show_7.md "wikilink")》，意為[SS7的特別版演唱會](../Page/Super_Show_7.md "wikilink")。
 
 ## 組合特色
 
@@ -311,7 +311,7 @@ Junior中，[利特](../Page/利特.md "wikilink")、[希澈](../Page/希澈.md 
 Super
 Junior善用團員人數眾多這一特點，強調整體的隊形複雜的舞蹈編排。[韓庚](../Page/韓庚.md "wikilink")、[神童](../Page/神童_\(藝人\).md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[東海為公認的四大領舞](../Page/東海_\(藝人\).md "wikilink")，在[韓庚離隊退出後](../Page/韓庚.md "wikilink")，[利特](../Page/利特.md "wikilink")、[晟敏](../Page/晟敏.md "wikilink")、[圭賢在四輯之後亦成為副領舞](../Page/圭賢.md "wikilink")。特別是[銀赫作為第一領舞者](../Page/銀赫.md "wikilink")，有獨舞的橋段，於[SM娛樂公司七大男團主舞之一](../Page/SM娛樂.md "wikilink")，是公認的韓國最佳舞蹈藝人之一，舞蹈實力在韓國藝人圈名列前茅，有「舞王」、「跳舞機器」等封號。Super
 Junior也強調舞蹈整齊這點，亦稱為「刀群舞」，成員[銀赫也在團綜](../Page/銀赫.md "wikilink")《[SJ
-Returns](https://zh.wikipedia.org/wiki/SJ_returns "wikilink")》表示SJ也是刀群舞始祖之一，其代表作品為《Black
+Returns](../Page/SJ_returns.md "wikilink")》表示SJ也是刀群舞始祖之一，其代表作品為《Black
 Suit》、《Lo Siento》等作品。舞蹈動作常著重於手部的變化，例如《Sorry,
 Sorry》的搓手舞、《Bonamana》的揮臂舞、《Mr.
 Simple》的甩手舞、《Sexy, Free & Single》的拍手舞及《MAMACITA》的頭痛舞。
@@ -322,7 +322,7 @@ Super
 Junior初期開始頻繁出現在綜藝中，有著綜藝豆、瘋愛豆之稱，成員都活躍於綜藝節目中，甚至為主持人。[利特](../Page/利特.md "wikilink")、[希澈](../Page/希澈.md "wikilink")、[強仁](../Page/強仁.md "wikilink")、[神童](../Page/神童_\(藝人\).md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[厲旭](../Page/厲旭.md "wikilink")、[圭賢都曾擔任多個綜藝節目的主持人](../Page/圭賢.md "wikilink")。
 但也有不擅長做綜藝節目的成員，如[藝聲和](../Page/藝聲.md "wikilink")[東海](../Page/東海_\(藝人\).md "wikilink")。Super
 Junior亦擁有多個專屬綜藝節目，包括《SBS人體探險隊》和《[Super
-TV](https://zh.wikipedia.org/wiki/SUPER_TV "wikilink")》。
+TV](../Page/SUPER_TV.md "wikilink")》。
 
 ## 分隊
 
@@ -506,10 +506,9 @@ LineData =
   - 2011：[Mr. Simple / A-CHA](../Page/Mr._Simple.md "wikilink")
   - 2012：[Sexy, Free & Single /
     SPY](../Page/Sexy,_Free_&_Single.md "wikilink")
-  - 2014：[Mamacita / This Is
-    Love](https://zh.wikipedia.org/wiki/Mamacita "wikilink")
+  - 2014：[Mamacita / This Is Love](../Page/Mamacita.md "wikilink")
   - 2017 / 2018：[Play /
-    Replay](https://zh.wikipedia.org/wiki/Play_\(Super_Junior專輯\) "wikilink")
+    Replay](../Page/Play_\(Super_Junior專輯\).md "wikilink")
 
 <!-- end list -->
 
@@ -526,7 +525,7 @@ LineData =
 <!-- end list -->
 
   - 2018：[One More
-    Time](https://zh.wikipedia.org/wiki/One_More_Time_\(Super_Junior迷你專輯\) "wikilink")
+    Time](../Page/One_More_Time_\(Super_Junior迷你專輯\).md "wikilink")
 
 <!-- end list -->
 
@@ -557,13 +556,13 @@ LineData =
   - 2012：[Sexy, Free &
     Single](../Page/Sexy,_Free_&_Single_\(單曲\).md "wikilink")
   - 2013：[Blue World](../Page/Blue_World.md "wikilink")
-  - 2014：[Mamacita](https://zh.wikipedia.org/wiki/Mamacita_\(單曲\) "wikilink")
+  - 2014：[Mamacita](../Page/Mamacita_\(單曲\).md "wikilink")
   - 2016：[Devil /
     Magic](https://zh.wikipedia.org/wiki/Devil_/_Magic "wikilink")
   - 2017：[On and
     On](https://zh.wikipedia.org/wiki/On_and_On_\(Super_Junior單曲\) "wikilink")
   - 2018：[One More
-    Time](https://zh.wikipedia.org/wiki/One_More_Time_\(Super_Junior日文單曲\) "wikilink")
+    Time](../Page/One_More_Time_\(Super_Junior日文單曲\).md "wikilink")
 
 <!-- end list -->
 
@@ -597,11 +596,10 @@ LineData =
   - 2015：LINE TV《SurpLINES Super Junior篇》
   - 2015：K-Star《The Friends in Switzerland》
   - 2017：NAVER TV、V LIVE、JTBC《[SJ
-    returns](https://zh.wikipedia.org/wiki/SJ_returns "wikilink")》
-  - 2018：XtvN《[Super
-    TV](https://zh.wikipedia.org/wiki/SUPER_TV "wikilink")》
+    returns](../Page/SJ_returns.md "wikilink")》
+  - 2018：XtvN《[Super TV](../Page/SUPER_TV.md "wikilink")》
   - 2018：NAVER TV、V LIVE《[SJ Returns
-    2：E.L.F.的飯桌](https://zh.wikipedia.org/wiki/SJ_Returns_2：E.L.F.的飯桌 "wikilink")》
+    2：E.L.F.的飯桌](../Page/SJ_Returns_2：E.L.F.的飯桌.md "wikilink")》
 
 <!-- end list -->
 
@@ -615,8 +613,7 @@ LineData =
   - 2012：[SMTown Live in Tokyo Special Edition
     3D電影](../Page/2010_SMTOWN_Live世界巡迴演唱會.md "wikilink")
   - 2013：[Super Show 4 3D電影](../Page/Super_Show_4.md "wikilink")
-  - 2015：[SMTown The
-    Stage](https://zh.wikipedia.org/wiki/SMTOWN_Live第四次世界巡迴演唱會 "wikilink")
+  - 2015：[SMTown The Stage](../Page/SMTOWN_Live第四次世界巡迴演唱會.md "wikilink")
 
 ## 書籍作品
 
@@ -708,7 +705,7 @@ LineData =
   - 2014﹣2015：Super Junior 世界巡迴演唱會《[Super Show
     6](../Page/Super_Show_6.md "wikilink")》
   - 2017﹣2018：Super Junior 世界巡迴演唱會《[Super Show
-    7](https://zh.wikipedia.org/wiki/Super_Show_7 "wikilink")》
+    7](../Page/Super_Show_7.md "wikilink")》
 
 <!-- end list -->
 
@@ -717,7 +714,7 @@ LineData =
 <!-- end list -->
 
   - 2015﹣2016：Super Junior 10周年紀念特別活動《[Super
-    Camp](https://zh.wikipedia.org/wiki/Super_Camp "wikilink")》
+    Camp](../Page/Super_Camp.md "wikilink")》
 
 <!-- end list -->
 
@@ -759,12 +756,11 @@ LineData =
   - 2013：[SMTOWN Week 'Super Junior - Treasure
     Island'](../Page/SMTOWN_WEEK.md "wikilink")
   - 2014﹣2015：[SMTOWN
-    Live第四次世界巡迴演唱會](https://zh.wikipedia.org/wiki/SMTOWN_Live第四次世界巡迴演唱會 "wikilink")
+    Live第四次世界巡迴演唱會](../Page/SMTOWN_Live第四次世界巡迴演唱會.md "wikilink")
   - 2016：SMTOWN Live World Tour V
   - 2017-2018：[SMTOWN Live World Tour
-    VI](https://zh.wikipedia.org/wiki/SMTOWN_Live_World_Tour_VI "wikilink")
-  - 2018：[SMTOWN Live
-    2018](https://zh.wikipedia.org/wiki/SMTOWN_Live_2018 "wikilink")
+    VI](../Page/SMTOWN_Live_World_Tour_VI.md "wikilink")
+  - 2018：[SMTOWN Live 2018](../Page/SMTOWN_Live_2018.md "wikilink")
 
 <!-- end list -->
 

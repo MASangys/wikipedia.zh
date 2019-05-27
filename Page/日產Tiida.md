@@ -146,7 +146,7 @@ HR16DE型引擎，最大馬力109hp / 6,000rpm、扭力峰值107lb-ft /
 4,400rpm，變速系統則為五速手排（S規）或Xtronic
 CVT（SV規、SL規）。前輪為[獨立麥花臣支柱式懸吊系統附防傾桿](https://zh.wikipedia.org/wiki/麥弗遜懸吊 "wikilink")，後輪為扭力樑式懸吊系統附防傾桿，標準配備包括前座雙[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、氣簾式安全氣囊、[VDC車輛動態控制系統](../Page/电子稳定程序.md "wikilink")（Vehicle
 Dynamic Control）附TCS循跡控制系統（TCS, Traction Control
-System）、[胎壓偵測系統等](https://zh.wikipedia.org/wiki/胎壓偵測系統 "wikilink")。
+System）、[胎壓偵測系統等](../Page/胎壓偵測系統.md "wikilink")。
 
 #### 安全性召回
 

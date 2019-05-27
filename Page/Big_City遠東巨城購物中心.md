@@ -31,7 +31,7 @@ City遠東巨城購物中心」的面貌重新開幕，因管線配置延至2012
 #### 遠東巨城購物中心
 
 Big
-City可分為兩大部份，一邊為[遠東巨城購物中心](https://zh.wikipedia.org/wiki/遠東巨城購物中心 "wikilink")，另一邊為[遠東SOGO百貨](../Page/太平洋崇光百貨.md "wikilink")。在巨城Mall方面，地下1樓為較大型的店，例如[city'super](https://zh.wikipedia.org/wiki/c!ty'super "wikilink")、[UNIQLO](https://zh.wikipedia.org/wiki/UNIQLO "wikilink")、[GU](https://zh.wikipedia.org/wiki/GU "wikilink")、、[無印良品](../Page/無印良品.md "wikilink")、[大創百貨](../Page/大創百貨.md "wikilink")、[宜得利家居](https://zh.wikipedia.org/wiki/宜得利 "wikilink")、[MINISO名創優品](../Page/名創優品.md "wikilink")、藍色尾巴寵物用品店、Tomod's、[LOG-ON](https://zh.wikipedia.org/wiki/c!ty'super "wikilink")、早點名露營用品店、[Family
+City可分為兩大部份，一邊為[遠東巨城購物中心](https://zh.wikipedia.org/wiki/遠東巨城購物中心 "wikilink")，另一邊為[遠東SOGO百貨](../Page/太平洋崇光百貨.md "wikilink")。在巨城Mall方面，地下1樓為較大型的店，例如[city'super](https://zh.wikipedia.org/wiki/c!ty'super "wikilink")、[UNIQLO](https://zh.wikipedia.org/wiki/UNIQLO "wikilink")、[GU](../Page/GU.md "wikilink")、、[無印良品](../Page/無印良品.md "wikilink")、[大創百貨](../Page/大創百貨.md "wikilink")、[宜得利家居](../Page/宜得利.md "wikilink")、[MINISO名創優品](../Page/名創優品.md "wikilink")、藍色尾巴寵物用品店、Tomod's、[LOG-ON](https://zh.wikipedia.org/wiki/c!ty'super "wikilink")、早點名露營用品店、[Family
 Mart全家便利商店等店](../Page/全家便利商店.md "wikilink")。3C區則在1樓及地下1樓，地下一樓有除了知名3C品牌[OPPO](../Page/OPPO.md "wikilink")、[SONY
 Smartphone](../Page/Xperia.md "wikilink")、[華為](https://zh.wikipedia.org/wiki/華為 "wikilink")、集雅社、[遠傳等](https://zh.wikipedia.org/wiki/遠傳 "wikilink")，一樓則有[德誼Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、[BOSE](../Page/博士音響.md "wikilink")、[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")。地下3樓為[愛買量販店](../Page/愛買.md "wikilink")。
 
@@ -127,8 +127,8 @@ Lum Bus），都以一比一的比例來呈現，打造出濃厚的美西舊金�
 <!-- end list -->
 
   - [新竹之心](https://zh.wikipedia.org/wiki/新竹之心 "wikilink")
-  - [黑蝙蝠中隊文物陳列館](https://zh.wikipedia.org/wiki/黑蝙蝠中隊文物陳列館 "wikilink")
-  - [新竹市眷村博物館](https://zh.wikipedia.org/wiki/新竹市眷村博物館 "wikilink")
+  - [黑蝙蝠中隊文物陳列館](../Page/黑蝙蝠中隊文物陳列館.md "wikilink")
+  - [新竹市眷村博物館](../Page/新竹市眷村博物館.md "wikilink")
   - [新竹市政府](../Page/新竹市政府.md "wikilink")
   - [新光三越新竹店](https://zh.wikipedia.org/wiki/新光三越 "wikilink")
   - [芙洛麗大飯店](https://zh.wikipedia.org/wiki/芙洛麗大飯店 "wikilink")
@@ -137,7 +137,7 @@ Lum Bus），都以一比一的比例來呈現，打造出濃厚的美西舊金�
 
   - [國賓大飯店新竹店](../Page/國賓大飯店.md "wikilink")
   - [太平洋SOGO新竹店站前館](https://zh.wikipedia.org/wiki/太平洋SOGO "wikilink")
-  - [晶品城購物廣場](https://zh.wikipedia.org/wiki/晶品城購物廣場 "wikilink")
+  - [晶品城購物廣場](../Page/晶品城購物廣場.md "wikilink")
   - [大遠百新竹店](https://zh.wikipedia.org/wiki/大遠百 "wikilink")
   - [新竹女中](https://zh.wikipedia.org/wiki/新竹女中 "wikilink")
   - [曙光女中](https://zh.wikipedia.org/wiki/曙光女中 "wikilink")
@@ -250,7 +250,7 @@ Lum Bus），都以一比一的比例來呈現，打造出濃厚的美西舊金�
 <tbody>
 <tr class="odd">
 <td><p>8F</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大魯閣" title="wikilink">大魯閣</a></p></td>
+<td><p><a href="../Page/大魯閣.md" title="wikilink">大魯閣</a></p></td>
 <td><p>週日～週四 11：00～21：30<br />
 週五～週六 11：00～22：00</p></td>
 </tr>

@@ -68,7 +68,7 @@ IDE 都能使用類別物件的資訊來組織程式碼編輯的情況下，多�
 (Application
 Architecture)，而非用大雜燴的方式開發應用程式，對於應用程式的生命週期以及後續的可擴充與可維護性而言有相當正面的幫助。另外，MVC
 職責分離也帶來了一個現代軟體工程要求的重要特性：可測試性 (Testability)，MVC-based
-的應用程式在良好的職責分離的設計下，各個部份可獨立行使[單元測試](https://zh.wikipedia.org/wiki/單元測試 "wikilink")，有利於與企業內的自動化測試、[持續整合](https://zh.wikipedia.org/wiki/持續整合 "wikilink")
+的應用程式在良好的職責分離的設計下，各個部份可獨立行使[單元測試](https://zh.wikipedia.org/wiki/單元測試 "wikilink")，有利於與企業內的自動化測試、[持續整合](../Page/持續整合.md "wikilink")
 (Continuous Integration)
 與[持續發行](https://zh.wikipedia.org/wiki/持續發行 "wikilink")
 (Continuous Delivery) 流程整合，減少應用程式改版部署所需的時間。

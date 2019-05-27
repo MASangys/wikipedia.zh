@@ -43,8 +43,8 @@ Dmitriev、Eugene Belyaev及Valentin Kipiatkov。
 
 <!-- end list -->
 
-  - [PyCharm](https://zh.wikipedia.org/wiki/PyCharm "wikilink") -
-    一款結合了Django框架的Python IDE開發工具。
+  - [PyCharm](../Page/PyCharm.md "wikilink") - 一款結合了Django框架的Python
+    IDE開發工具。
 
 <!-- end list -->
 

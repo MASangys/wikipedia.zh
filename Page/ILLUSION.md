@@ -41,8 +41,7 @@
   - 2000年11月2日 - INTERACT PLAY★(电车之狼,旗下子公司Dreams制作）
   - 2001年1月12日 - [〜リバーシブルフェイス〜 尾行2](../Page/尾行2.md "wikilink")★
   - 2001年3月9日 - ですぶら運動会 〜イシスの逆襲〜★（欲望少女运动会）
-  - 2001年6月29日 - [レクイエムハーツ
-    〜監禁〜](https://zh.wikipedia.org/wiki/监禁_\(游戏\) "wikilink")★
+  - 2001年6月29日 - [レクイエムハーツ 〜監禁〜](../Page/监禁_\(游戏\).md "wikilink")★
   - 2001年8月21日 - INTERACT PLAY VR★(电车之狼VR,旗下子公司Dreams制作）
   - 2002年4月19日 - [欲望格鬥](https://zh.wikipedia.org/wiki/欲望格鬥 "wikilink")
   - 2002年9月13日 - DES BLOOD4 〜LOST
@@ -117,7 +116,7 @@
     プレミアムリゾート](https://zh.wikipedia.org/wiki/Sexyビーチ "wikilink")★
   - 2016年4月28日 - セクロスフィア★
   - 2016年9月9日 - ハニーセレクト★
-  - 2017年2月28日 - [VR女友](https://zh.wikipedia.org/wiki/VR女友 "wikilink")★
+  - 2017年2月28日 - [VR女友](../Page/VR女友.md "wikilink")★
   - 2017年4月28日 - ハニーセレクト ～パーティー～★
   - 2017年10月13日 - プレイホーム★
   - 2018年4月27日 - [戀活！](https://zh.wikipedia.org/wiki/戀活！ "wikilink")★

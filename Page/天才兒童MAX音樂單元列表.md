@@ -472,7 +472,7 @@ CHU-CHU-くらぶ**（クリスウィズチューチューくらぶ）是1995年
 #### 曲目
 
   - 僕であるために（作詞：[浜崎貴司](https://zh.wikipedia.org/wiki/浜崎貴司 "wikilink")・作曲：[FLYING
-    KIDS](https://zh.wikipedia.org/wiki/FLYING_KIDS "wikilink")／2002年4月22日播出）
+    KIDS](../Page/FLYING_KIDS.md "wikilink")／2002年4月22日播出）
       - 原曲：僕であるために／FLYING KIDS
 
 ### T for TWO
@@ -1134,7 +1134,7 @@ Treasures進行現場演奏與歌唱](https://zh.wikipedia.org/wiki/#Our_Treasur
     Boys](https://zh.wikipedia.org/wiki/#Boys_Be_Boys "wikilink")（[山元竜一](https://zh.wikipedia.org/wiki/山元竜一 "wikilink")、[熊木翔](https://zh.wikipedia.org/wiki/熊木翔 "wikilink")、[松井蘭丸](https://zh.wikipedia.org/wiki/松井蘭丸 "wikilink")）
       - 作詞：浜崎貴司、作曲：FLYING KIDS、編曲：武川行秀與That's on Noise、演奏：That's on
         Noise、原曲：僕であるために／[FLYING
-        KIDS](https://zh.wikipedia.org/wiki/FLYING_KIDS "wikilink")
+        KIDS](../Page/FLYING_KIDS.md "wikilink")
   - クエスチョン／[ローブリィ翔](https://zh.wikipedia.org/wiki/ローブリィ翔 "wikilink")
       - 合唱：村上東奈／井出卓也 、作詞：今泉泰幸 、作曲：遠藤肇
         、編曲：スキップカウズ、演奏：スキップカウズ／武藤星兒、演出者：スキップカウズ／村上東奈／井出卓也

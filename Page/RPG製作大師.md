@@ -81,7 +81,7 @@ Dante98為基礎移植到[SFC的版本](https://zh.wikipedia.org/wiki/SFC "wikil
 
 #### RPG Maker 3
 
-1997年11月系列作初次在[PlayStation上發行的版本](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，1998年11月發行加強版「RPG
+1997年11月系列作初次在[PlayStation上發行的版本](../Page/PlayStation.md "wikilink")，1998年11月發行加強版「RPG
 Maker 3 PlayStation the
 Best」，使用CD-ROM為載體。圖像、音樂品質上升，可以使用同捆發行的軟體「アニメティカ」製作角色行走圖加入遊戲中。
 
@@ -89,7 +89,7 @@ Best」，使用CD-ROM為載體。圖像、音樂品質上升，可以使用同�
 
 #### RPG Maker 4
 
-1999年12月在[PlayStation上發行的版本](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。加入「職業」系統。可以使用同捆發行的軟體「キャラクターツクール」製作角色行走圖加入遊戲中。
+1999年12月在[PlayStation上發行的版本](../Page/PlayStation.md "wikilink")。加入「職業」系統。可以使用同捆發行的軟體「キャラクターツクール」製作角色行走圖加入遊戲中。
 
 #### RPG Maker 5
 

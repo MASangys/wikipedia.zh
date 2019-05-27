@@ -32,7 +32,7 @@ EPII發行時，[Namco公司另有發行限量版的特典](https://zh.wikipedia
 
 ## 联动
 
-在《[异度神剑2](https://zh.wikipedia.org/wiki/异度神剑2 "wikilink")》中，KOS-MOS可作为稀有异刃被召唤。她也是《[异度神剑2](https://zh.wikipedia.org/wiki/异度神剑2 "wikilink")》官方日文推特在游戏发行前公布的最后一个异刃。\[2\]
+在《[异度神剑2](../Page/异度神剑2.md "wikilink")》中，KOS-MOS可作为稀有异刃被召唤。她也是《[异度神剑2](../Page/异度神剑2.md "wikilink")》官方日文推特在游戏发行前公布的最后一个异刃。\[2\]
 
 ## 參見
 

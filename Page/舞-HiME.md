@@ -118,7 +118,7 @@ STEELE](https://zh.wikipedia.org/wiki/JIM_STEELE "wikilink")／作曲、編曲�
 <td><p>それは☆乙女の一大事</p></td>
 <td><p>那是少女的一件大事</p></td>
 <td><p><a href="../Page/吉野弘幸.md" title="wikilink">吉野弘幸</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小原正和" title="wikilink">小原正和</a></p></td>
+<td><p><a href="../Page/小原正和.md" title="wikilink">小原正和</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/西村大樹" title="wikilink">西村大樹</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/久行宏和" title="wikilink">久行宏和</a><br />
 重田智（機械）<br />
@@ -187,7 +187,7 @@ STEELE](https://zh.wikipedia.org/wiki/JIM_STEELE "wikilink")／作曲、編曲�
 <td><p>たいせつなもの。</p></td>
 <td><p>重要的東西</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/増井壮一" title="wikilink">水草一馬</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/福本潔" title="wikilink">福本潔</a></p></td>
+<td><p><a href="../Page/福本潔.md" title="wikilink">福本潔</a></p></td>
 <td><p>竹内浩志（角色）<br />
 市川敬三（機械）</p></td>
 <td></td>
@@ -264,7 +264,7 @@ STEELE](https://zh.wikipedia.org/wiki/JIM_STEELE "wikilink")／作曲、編曲�
 <td><p>16</p></td>
 <td><p>Parade♪</p></td>
 <td><p>遊行（Parade）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/木村暢" title="wikilink">木村暢</a></p></td>
+<td><p><a href="../Page/木村暢.md" title="wikilink">木村暢</a></p></td>
 <td><p>須永司</p></td>
 <td><p>福本潔</p></td>
 <td><p>田中将賀</p></td>
@@ -564,7 +564,7 @@ DVD各卷3話（1卷只有2話）收錄的畫像戲劇，全26話。
 
 ### 「舞-HiME」
 
-秋田書店的漫畫雜誌「[週刊少年Champion](../Page/週刊少年Champion.md "wikilink")」連載，原作為[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、背景設定（[木村暢](https://zh.wikipedia.org/wiki/木村暢 "wikilink")）、作畫[佐藤健悅](https://zh.wikipedia.org/wiki/佐藤健悅 "wikilink")、
+秋田書店的漫畫雜誌「[週刊少年Champion](../Page/週刊少年Champion.md "wikilink")」連載，原作為[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、背景設定（[木村暢](../Page/木村暢.md "wikilink")）、作畫[佐藤健悅](https://zh.wikipedia.org/wiki/佐藤健悅 "wikilink")、
 監修由[谷口悟朗負責](../Page/谷口悟朗.md "wikilink")，構成協作吉野弘幸。台灣漫畫譯名為「舞-HiME」，由[長鴻出版社代理](../Page/長鴻出版社.md "wikilink")，共五冊。
 
 ### 「舞-HiME戰（EXA）」

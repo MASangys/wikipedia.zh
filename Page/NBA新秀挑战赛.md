@@ -146,7 +146,7 @@ Challenge）是[NBA全明星周末的其中一場重要表演賽](../Page/NBA全
 </tr>
 <tr class="even">
 <td><p>G</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/麥爾坎·波格登" title="wikilink">麥爾坎·波格登</a></p></td>
+<td><p><a href="../Page/麥爾坎·波格登.md" title="wikilink">麥爾坎·波格登</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/密爾瓦基公鹿" title="wikilink">密爾瓦基公鹿</a></p></td>
 <td><p>二年級</p></td>
 </tr>
@@ -158,7 +158,7 @@ Challenge）是[NBA全明星周末的其中一場重要表演賽](../Page/NBA全
 </tr>
 <tr class="even">
 <td><p>F</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/傑森·塔圖姆" title="wikilink">傑森·塔圖姆</a></p></td>
+<td><p><a href="../Page/傑森·塔圖姆.md" title="wikilink">傑森·塔圖姆</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波士頓塞爾提克" title="wikilink">波士頓塞爾提克</a></p></td>
 <td><p>新秀</p></td>
 </tr>
@@ -201,20 +201,20 @@ Challenge）是[NBA全明星周末的其中一場重要表演賽](../Page/NBA全
 
 #### 阵容
 
-| 位置                                                                                                                           | 球员                                                              | 球队                                                      | 球龄 |
-| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------- | -- |
-| SG/PG                                                                                                                        | [乔丹·克拉克森](https://zh.wikipedia.org/wiki/乔丹·克拉克森 "wikilink")     | [洛杉矶湖人](https://zh.wikipedia.org/wiki/洛杉矶湖人 "wikilink") | 2  |
-| SF/SG                                                                                                                        | [罗德尼·胡德](https://zh.wikipedia.org/wiki/罗德尼·胡德 "wikilink")       | [犹他爵士](https://zh.wikipedia.org/wiki/犹他爵士 "wikilink")   | 2  |
-| SG/PG                                                                                                                        | [扎克·拉文](https://zh.wikipedia.org/wiki/扎克·拉文 "wikilink")         | [明尼苏达森林狼](../Page/明尼苏达森林狼.md "wikilink")                | 2  |
-| PF/C                                                                                                                         | [诺伦斯·诺尔](https://zh.wikipedia.org/wiki/诺伦斯·诺尔 "wikilink")       | [费城76人](../Page/费城76人.md "wikilink")                    | 2  |
-| C                                                                                                                            | [贾希尔·奥卡福](https://zh.wikipedia.org/wiki/贾希尔·奥卡福 "wikilink")     | [费城76人](../Page/费城76人.md "wikilink")                    | 1  |
-| SF/PF                                                                                                                        | [贾巴里·帕克](https://zh.wikipedia.org/wiki/贾巴里·帕克 "wikilink")       | [密尔沃基雄鹿](../Page/密尔沃基雄鹿.md "wikilink")                  | 2  |
-| PG                                                                                                                           | [埃尔弗里德·佩顿](https://zh.wikipedia.org/wiki/埃尔弗里德·佩顿 "wikilink")   | [奥兰多魔术](../Page/奥兰多魔术.md "wikilink")                    | 2  |
-| PG/SG                                                                                                                        | [德安杰洛·拉塞尔](../Page/德安杰洛·拉塞尔.md "wikilink")                      | [洛杉矶湖人](https://zh.wikipedia.org/wiki/洛杉矶湖人 "wikilink") | 1  |
-| PG/SG                                                                                                                        | [马库斯·斯马特](https://zh.wikipedia.org/wiki/马库斯·斯马特 "wikilink")     | [波士顿凯尔特人](../Page/波士顿凯尔特人.md "wikilink")                | 2  |
-| C/PF                                                                                                                         | [卡尔-安东尼·唐斯](https://zh.wikipedia.org/wiki/卡尔-安东尼·唐斯 "wikilink") | [明尼苏达森林狼](../Page/明尼苏达森林狼.md "wikilink")                | 1  |
-| SG                                                                                                                           | [德文·布克](https://zh.wikipedia.org/wiki/德文·布克 "wikilink")         | [菲尼克斯太阳](../Page/菲尼克斯太阳.md "wikilink")                  | 1  |
-| **主教练**: [拉里·德鲁](https://zh.wikipedia.org/wiki/拉里·德鲁 "wikilink") （[克利夫兰骑士](https://zh.wikipedia.org/wiki/克利夫兰骑士 "wikilink")） |                                                                 |                                                         |    |
+| 位置                                                                                                                           | 球员                                                              | 球队                                                    | 球龄 |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------- | -- |
+| SG/PG                                                                                                                        | [乔丹·克拉克森](https://zh.wikipedia.org/wiki/乔丹·克拉克森 "wikilink")     | [洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")                  | 2  |
+| SF/SG                                                                                                                        | [罗德尼·胡德](https://zh.wikipedia.org/wiki/罗德尼·胡德 "wikilink")       | [犹他爵士](https://zh.wikipedia.org/wiki/犹他爵士 "wikilink") | 2  |
+| SG/PG                                                                                                                        | [扎克·拉文](../Page/扎克·拉文.md "wikilink")                            | [明尼苏达森林狼](../Page/明尼苏达森林狼.md "wikilink")              | 2  |
+| PF/C                                                                                                                         | [诺伦斯·诺尔](https://zh.wikipedia.org/wiki/诺伦斯·诺尔 "wikilink")       | [费城76人](../Page/费城76人.md "wikilink")                  | 2  |
+| C                                                                                                                            | [贾希尔·奥卡福](https://zh.wikipedia.org/wiki/贾希尔·奥卡福 "wikilink")     | [费城76人](../Page/费城76人.md "wikilink")                  | 1  |
+| SF/PF                                                                                                                        | [贾巴里·帕克](https://zh.wikipedia.org/wiki/贾巴里·帕克 "wikilink")       | [密尔沃基雄鹿](../Page/密尔沃基雄鹿.md "wikilink")                | 2  |
+| PG                                                                                                                           | [埃尔弗里德·佩顿](https://zh.wikipedia.org/wiki/埃尔弗里德·佩顿 "wikilink")   | [奥兰多魔术](../Page/奥兰多魔术.md "wikilink")                  | 2  |
+| PG/SG                                                                                                                        | [德安杰洛·拉塞尔](../Page/德安杰洛·拉塞尔.md "wikilink")                      | [洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")                  | 1  |
+| PG/SG                                                                                                                        | [马库斯·斯马特](https://zh.wikipedia.org/wiki/马库斯·斯马特 "wikilink")     | [波士顿凯尔特人](../Page/波士顿凯尔特人.md "wikilink")              | 2  |
+| C/PF                                                                                                                         | [卡尔-安东尼·唐斯](https://zh.wikipedia.org/wiki/卡尔-安东尼·唐斯 "wikilink") | [明尼苏达森林狼](../Page/明尼苏达森林狼.md "wikilink")              | 1  |
+| SG                                                                                                                           | [德文·布克](../Page/德文·布克.md "wikilink")                            | [菲尼克斯太阳](../Page/菲尼克斯太阳.md "wikilink")                | 1  |
+| **主教练**: [拉里·德鲁](https://zh.wikipedia.org/wiki/拉里·德鲁 "wikilink") （[克利夫兰骑士](https://zh.wikipedia.org/wiki/克利夫兰骑士 "wikilink")） |                                                                 |                                                       |    |
 
 **美国队**\[1\]
 
@@ -262,7 +262,7 @@ Challenge）是[NBA全明星周末的其中一場重要表演賽](../Page/NBA全
 <tr class="even">
 <td><p>PG</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/伊曼纽尔·穆迪埃" title="wikilink">伊曼纽尔·穆迪埃</a></p></td>
+<td><p><a href="../Page/伊曼纽尔·穆迪埃.md" title="wikilink">伊曼纽尔·穆迪埃</a></p></td>
 <td><p><a href="../Page/丹佛掘金.md" title="wikilink">丹佛掘金</a></p></td>
 </tr>
 <tr class="odd">
@@ -280,7 +280,7 @@ Challenge）是[NBA全明星周末的其中一場重要表演賽](../Page/NBA全
 <tr class="odd">
 <td><p>F/C</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德怀特·鲍威尔" title="wikilink">德怀特·鲍威尔</a></p></td>
+<td><p><a href="../Page/德怀特·鲍威尔.md" title="wikilink">德怀特·鲍威尔</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/达拉斯小牛" title="wikilink">达拉斯小牛</a></p></td>
 </tr>
 <tr class="even">
@@ -321,10 +321,10 @@ Challenge）是[NBA全明星周末的其中一場重要表演賽](../Page/NBA全
 | G/F | [克雷·汤普森](https://zh.wikipedia.org/wiki/克雷·汤普森 "wikilink")           | [金州勇士](../Page/金州勇士.md "wikilink")                        |
 | F   | [哈里森·巴恩斯](https://zh.wikipedia.org/wiki/哈里森·巴恩斯 "wikilink")         | [金州勇士](../Page/金州勇士.md "wikilink")                        |
 | F   | [錢德勒·帕森斯](https://zh.wikipedia.org/wiki/錢德勒·帕森斯 "wikilink")         | [休士頓火箭](https://zh.wikipedia.org/wiki/休士頓火箭 "wikilink")   |
-| G   | [迪昂·维特斯](https://zh.wikipedia.org/wiki/迪昂·维特斯 "wikilink")           | [克里夫蘭騎士](https://zh.wikipedia.org/wiki/克里夫蘭騎士 "wikilink") |
+| G   | [迪昂·维特斯](../Page/迪昂·维特斯.md "wikilink")                              | [克里夫蘭騎士](https://zh.wikipedia.org/wiki/克里夫蘭騎士 "wikilink") |
 | G   | [迈克尔·基德-克里斯特](https://zh.wikipedia.org/wiki/迈克尔·基德-克里斯特 "wikilink") | [夏洛特山貓](https://zh.wikipedia.org/wiki/夏洛特山貓 "wikilink")   |
 | F   | [泰勒·泽勒](https://zh.wikipedia.org/wiki/泰勒·泽勒 "wikilink")             | [克里夫蘭騎士](https://zh.wikipedia.org/wiki/克里夫蘭騎士 "wikilink") |
-| G   | [肯巴·沃克](https://zh.wikipedia.org/wiki/肯巴·沃克 "wikilink")             | [夏洛特山貓](https://zh.wikipedia.org/wiki/夏洛特山貓 "wikilink")   |
+| G   | [肯巴·沃克](../Page/肯巴·沃克.md "wikilink")                                | [夏洛特山貓](https://zh.wikipedia.org/wiki/夏洛特山貓 "wikilink")   |
 | F   | [安德鲁·尼克尔森](https://zh.wikipedia.org/wiki/安德鲁·尼克尔森 "wikilink")       | [奧蘭多魔術](https://zh.wikipedia.org/wiki/奧蘭多魔術 "wikilink")   |
 
 **[歐尼爾隊](../Page/沙奎尔·奥尼尔.md "wikilink")**
@@ -338,7 +338,7 @@ Challenge）是[NBA全明星周末的其中一場重要表演賽](../Page/NBA全
 | G   | [歷奇·盧比奧](https://zh.wikipedia.org/wiki/歷奇·盧比奧 "wikilink")             | [明尼蘇達灰狼](https://zh.wikipedia.org/wiki/明尼蘇達灰狼 "wikilink")   |
 | F/C | [特里斯坦·汤普森](../Page/特里斯坦·汤普森.md "wikilink")                            | [克里夫蘭騎士](https://zh.wikipedia.org/wiki/克里夫蘭騎士 "wikilink")   |
 | C   | [尼古拉·武切维奇](../Page/尼古拉·武切维奇.md "wikilink")                            | [奧蘭多魔術](https://zh.wikipedia.org/wiki/奧蘭多魔術 "wikilink")     |
-| G   | [以赛亚·托马斯](https://zh.wikipedia.org/wiki/以赛亚·托马斯 "wikilink")           | [沙加緬度國王](../Page/沙加緬度國王.md "wikilink")                      |
+| G   | [以赛亚·托马斯](../Page/以赛亚·托马斯.md "wikilink")                              | [沙加緬度國王](../Page/沙加緬度國王.md "wikilink")                      |
 | G   | [布兰登·奈特](../Page/布兰登·奈特.md "wikilink")                                | [底特律活塞](../Page/底特律活塞.md "wikilink")                        |
 | F   | [阿莱克斯·舍维德](https://zh.wikipedia.org/wiki/阿莱克斯·舍维德 "wikilink")         | [明尼蘇達灰狼](https://zh.wikipedia.org/wiki/明尼蘇達灰狼 "wikilink")   |
 
@@ -353,7 +353,7 @@ Challenge）是[NBA全明星周末的其中一場重要表演賽](../Page/NBA全
 | G   | [歷奇·盧比奧](https://zh.wikipedia.org/wiki/歷奇·盧比奧 "wikilink")   | [明尼蘇達灰狼](https://zh.wikipedia.org/wiki/明尼蘇達灰狼 "wikilink") |
 | F/C | [格雷格·门罗](../Page/格雷格·门罗.md "wikilink")                      | [底特律活塞](../Page/底特律活塞.md "wikilink")                      |
 | F   | [馬基夫·莫里斯](https://zh.wikipedia.org/wiki/馬基夫·莫里斯 "wikilink") | [鳳凰城太陽](https://zh.wikipedia.org/wiki/鳳凰城太陽 "wikilink")   |
-| G   | [肯巴·沃克](https://zh.wikipedia.org/wiki/肯巴·沃克 "wikilink")     | [夏洛特山貓](https://zh.wikipedia.org/wiki/夏洛特山貓 "wikilink")   |
+| G   | [肯巴·沃克](../Page/肯巴·沃克.md "wikilink")                        | [夏洛特山貓](https://zh.wikipedia.org/wiki/夏洛特山貓 "wikilink")   |
 | G   | [蘭德里·費斯](https://zh.wikipedia.org/wiki/蘭德里·費斯 "wikilink")   | [紐約尼克](https://zh.wikipedia.org/wiki/紐約尼克 "wikilink")     |
 | G   | [諾里斯·科爾](https://zh.wikipedia.org/wiki/諾里斯·科爾 "wikilink")   | [邁阿密熱火](https://zh.wikipedia.org/wiki/邁阿密熱火 "wikilink")   |
 | G   | [布兰登·奈特](../Page/布兰登·奈特.md "wikilink")                      | [底特律活塞](../Page/底特律活塞.md "wikilink")                      |
@@ -370,10 +370,10 @@ Challenge）是[NBA全明星周末的其中一場重要表演賽](../Page/NBA全
 | F   | [德里克·威廉姆斯](../Page/德里克·威廉姆斯.md "wikilink")                    | [明尼蘇達灰狼](https://zh.wikipedia.org/wiki/明尼蘇達灰狼 "wikilink")   |
 | G/F | [马尚·布鲁克斯](../Page/马尚·布鲁克斯.md "wikilink")                      | [布鲁克林篮网](../Page/布鲁克林篮网.md "wikilink")                      |
 | G   | [約翰·沃爾](https://zh.wikipedia.org/wiki/約翰·沃爾 "wikilink")       | [華盛頓巫師](https://zh.wikipedia.org/wiki/華盛頓巫師 "wikilink")     |
-| F   | [戈登·海沃德](https://zh.wikipedia.org/wiki/戈登·海沃德 "wikilink")     | [猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink")       |
+| F   | [戈登·海沃德](../Page/戈登·海沃德.md "wikilink")                        | [猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink")       |
 | F/C | [蒂亚戈·斯普利特](../Page/蒂亚戈·斯普利特.md "wikilink")                    | [聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink") |
 | F   | [科懷·倫納德](https://zh.wikipedia.org/wiki/科懷·倫納德 "wikilink")     | [聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink") |
-| G/F | [埃文·特纳](https://zh.wikipedia.org/wiki/埃文·特纳 "wikilink")       | [費城76人](https://zh.wikipedia.org/wiki/費城76人 "wikilink")     |
+| G/F | [埃文·特纳](../Page/埃文·特纳.md "wikilink")                          | [費城76人](https://zh.wikipedia.org/wiki/費城76人 "wikilink")     |
 | F   | [德里克·费佛斯](https://zh.wikipedia.org/wiki/德里克·费佛斯 "wikilink")   | [猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink")       |
 
 **[巴克利隊](../Page/查尔斯·巴克利.md "wikilink")**
@@ -386,7 +386,7 @@ Challenge）是[NBA全明星周末的其中一場重要表演賽](../Page/NBA全
 | 2019 | 美國隊  | 世界隊  | 161 – 144   | [凱爾·庫茲馬](https://zh.wikipedia.org/wiki/凱爾·庫茲馬 "wikilink")                         |
 | 2018 | 世界隊  | 美國隊  | 155 – 124   | [波格丹·博格達諾維奇](https://zh.wikipedia.org/wiki/波格丹·博格達諾維奇 "wikilink")                 |
 | 2017 | 世界隊  | 美國隊  | 150 – 141   | [賈邁爾·穆雷](https://zh.wikipedia.org/wiki/賈邁爾·穆雷 "wikilink")                         |
-| 2016 | 美國隊  | 世界隊  | 157 – 154   | [扎克·拉文](https://zh.wikipedia.org/wiki/扎克·拉文 "wikilink")                           |
+| 2016 | 美國隊  | 世界隊  | 157 – 154   | [扎克·拉文](../Page/扎克·拉文.md "wikilink")                                              |
 | 2015 | 世界隊  | 美國隊  | 121 – 112   | [安德魯·威金斯](https://zh.wikipedia.org/wiki/安德魯·威金斯 "wikilink")                       |
 | 2014 | 希爾隊  | 韋伯隊  | 142 - 136   | [安德烈·德拉蒙德](https://zh.wikipedia.org/wiki/安德烈·德拉蒙德 "wikilink")                     |
 | 2013 | 巴克利隊 | 奧尼爾隊 | 163 - 135   | [肯尼斯·法里德](../Page/肯尼斯·法里德.md "wikilink")                                          |

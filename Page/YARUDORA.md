@@ -13,7 +13,7 @@ END](https://zh.wikipedia.org/wiki/BAD_END "wikilink")。
 
 ## 系列
 
-### [PlayStation上發售](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
+### [PlayStation上發售](../Page/PlayStation.md "wikilink")
 
 初期的4部作品同一設定為，獨自住在公寓的大學生主角與喪失記憶的女主角相遇，分別對應四個不同的季節。這是因為當初本來是預定以「Four
 Season's memory」為1款軟體開發的緣故，内容量增加過多所以分割成4款。

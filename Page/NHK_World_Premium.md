@@ -2,7 +2,7 @@
 World-Japan有别](../Page/NHK_World-Japan_\(頻道\).md "wikilink")\[1\]\]\]
 
 **NHK World
-Premium**（）是[日本廣播協會](../Page/日本廣播協會.md "wikilink")（NHK）使用[日语进行](../Page/日语.md "wikilink")[国际广播的](../Page/国际广播.md "wikilink")[收费电视](https://zh.wikipedia.org/wiki/收费电视 "wikilink")[綜合頻道](https://zh.wikipedia.org/wiki/綜合頻道 "wikilink")。
+Premium**（）是[日本廣播協會](../Page/日本廣播協會.md "wikilink")（NHK）使用[日语进行](../Page/日语.md "wikilink")[国际广播的](../Page/国际广播.md "wikilink")[收费电视](https://zh.wikipedia.org/wiki/收费电视 "wikilink")[綜合頻道](../Page/綜合頻道.md "wikilink")。
 
 ## 概要
 
@@ -69,5 +69,5 @@ Premium**（）是[日本廣播協會](../Page/日本廣播協會.md "wikilink")
     International」，向亞洲發送訊號未見於NHK官方記載。另見[討論](https://zh.wikipedia.org/wiki/Talk:NHK_World_Premium#NHK亞洲台 "wikilink")。
 6.  [频道专区 -
     频道介绍：NHK世界收费电视频道](http://www.stvp.com.cn/content/details21_455.html)
-    .[中视卫星电视节目有限责任公司](https://zh.wikipedia.org/wiki/中视卫星电视节目有限责任公司 "wikilink").
+    .[中视卫星电视节目有限责任公司](../Page/中视卫星电视节目有限责任公司.md "wikilink").
     \[2016-09-19\] .

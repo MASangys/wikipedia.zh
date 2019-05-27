@@ -55,7 +55,7 @@ Gecko主要用於[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器
 6和](../Page/Netscape_6.md "wikilink")[Mozilla
 Suite](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")（後來改名為[SeaMonkey](../Page/SeaMonkey.md "wikilink")）。Mozilla還在其它瀏覽器衍生產品使用它，如[Firefox和](../Page/Firefox.md "wikilink")[Firefox行動版](../Page/Firefox_for_Android.md "wikilink")。Mozilla也在其[Thunderbird電子郵件客戶端使用](https://zh.wikipedia.org/wiki/Thunderbird "wikilink")。
 
-使用Gecko的其他網頁瀏覽器包括Airfox、[Waterfox](https://zh.wikipedia.org/wiki/Waterfox "wikilink")、[K-Meleon](../Page/K-Meleon.md "wikilink")、[Lunascape](../Page/Lunascape.md "wikilink")、[Pale
+使用Gecko的其他網頁瀏覽器包括Airfox、[Waterfox](../Page/Waterfox.md "wikilink")、[K-Meleon](../Page/K-Meleon.md "wikilink")、[Lunascape](../Page/Lunascape.md "wikilink")、[Pale
 Moon](https://zh.wikipedia.org/wiki/蒼月瀏覽器 "wikilink")、[Firefox
 Portable](../Page/Firefox_Portable.md "wikilink")、、、 、HP Secure Web
 Browser，Oxygen和Sylera（用於行動裝置）。

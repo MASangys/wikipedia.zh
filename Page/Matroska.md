@@ -1,4 +1,4 @@
-**Matroska**（）是一種[多媒體封裝格式](https://zh.wikipedia.org/wiki/多媒體封裝格式 "wikilink")，這個封裝格式可把多種不同[編碼的](https://zh.wikipedia.org/wiki/編碼 "wikilink")[影像及](https://zh.wikipedia.org/wiki/影像 "wikilink")16條或以上不同格式的[音頻和](https://zh.wikipedia.org/wiki/音頻 "wikilink")[語言不同的](https://zh.wikipedia.org/wiki/語言 "wikilink")[字幕封裝到一個Matroska](../Page/字幕.md "wikilink")
+**Matroska**（）是一種[多媒體封裝格式](https://zh.wikipedia.org/wiki/多媒體封裝格式 "wikilink")，這個封裝格式可把多種不同[編碼的](https://zh.wikipedia.org/wiki/編碼 "wikilink")[影像及](https://zh.wikipedia.org/wiki/影像 "wikilink")16條或以上不同格式的[音頻和](https://zh.wikipedia.org/wiki/音頻 "wikilink")[語言不同的](../Page/語言.md "wikilink")[字幕封裝到一個Matroska](../Page/字幕.md "wikilink")
 Media檔內。它也是其中一種[開放原始碼的多媒體封裝格式](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。很多人把Matroska當作為mkv，其實mkv只是Matroska媒體系列的其中一種檔案格式。
 
 俄文是（[俄羅斯套娃](../Page/俄罗斯套娃.md "wikilink")）的誤讀，因為Matroska的工作原理就跟層層套疊的俄羅斯娃娃一樣，是「愈包愈緊」的，故得名。
@@ -27,8 +27,7 @@ Matroska媒體定義了三種類型的檔：
 [Vorbis](https://zh.wikipedia.org/wiki/Vorbis "wikilink") 音频的预设。\[3\]
 
 2014年10月31日，[微软公司确认](https://zh.wikipedia.org/wiki/微软公司 "wikilink")
-[Windows 10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
-将「开箱即用」地支持
+[Windows 10](../Page/Windows_10.md "wikilink") 将「开箱即用」地支持
 [HEVC](https://zh.wikipedia.org/wiki/High_Efficiency_Video_Coding "wikilink")
 和 Matroska。\[4\]\[5\]
 
@@ -90,7 +89,7 @@ Filters）*，「直接地」把[視訊流及](https://zh.wikipedia.org/wiki/視
 
   - [媒體播放器列表](https://zh.wikipedia.org/wiki/媒體播放器列表 "wikilink")
   - [媒體播放器比較](https://zh.wikipedia.org/wiki/媒體播放器比較 "wikilink")
-  - [MKVToolNix](https://zh.wikipedia.org/wiki/MKVToolNix "wikilink")
+  - [MKVToolNix](../Page/MKVToolNix.md "wikilink")
 
 ## 参考资料
 

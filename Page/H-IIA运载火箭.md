@@ -149,7 +149,7 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 12:54:00</p></td>
 <td><p>F15</p></td>
 <td><p>H-IIA202</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/溫室氣體觀測衛星" title="wikilink">GOSAT</a> (Ibuki)<br />
+<td><p><a href="../Page/溫室氣體觀測衛星.md" title="wikilink">GOSAT</a> (Ibuki)<br />
  <a href="https://zh.wikipedia.org/wiki/閃光號" title="wikilink">SDS-1</a><br />
  <a href="https://zh.wikipedia.org/wiki/空海號" title="wikilink">STARS</a> (Kūkai)<br />
  KKS-1 (Kiseki)<br />
@@ -256,7 +256,7 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 05:16:00</p></td>
 <td><p>F25</p></td>
 <td><p>H2A202</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/向日葵8號" title="wikilink">Himawari-8</a> (向日葵8號)</p></td>
+<td><p><a href="../Page/向日葵8號.md" title="wikilink">Himawari-8</a> (向日葵8號)</p></td>
 <td></td>
 </tr>
 <tr class="even">

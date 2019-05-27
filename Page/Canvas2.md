@@ -176,7 +176,7 @@ FC01發售PlayStation 2版的逆移植版本，並改名為《Canvas2 DVD EDITIO
   - 制作製作人： 橋本和典
   - 監督： [川崎逸朗](../Page/川崎逸朗.md "wikilink")
   - 系列構成：[吉田玲子](../Page/吉田玲子.md "wikilink")
-  - 劇本：吉田玲子、[岡田麿里](../Page/岡田麿里.md "wikilink")、平見瞠、[山田由香](https://zh.wikipedia.org/wiki/山田由香 "wikilink")
+  - 劇本：吉田玲子、[岡田麿里](../Page/岡田麿里.md "wikilink")、平見瞠、[山田由香](../Page/山田由香.md "wikilink")
   - 人物設定：[新田靖成](../Page/新田靖成.md "wikilink")
   - 美術監督：近藤あゆみ
   - 攝影監督：近藤靖尚
@@ -564,7 +564,7 @@ KIM SOON YEON、宮田奈保美</p></td>
 
   - [Canvas ～茶色的主題～](../Page/Canvas_～茶色的主題～.md "wikilink")
   - [Canvas3](../Page/Canvas3.md "wikilink")
-  - [Canvas4](https://zh.wikipedia.org/wiki/Canvas4 "wikilink")
+  - [Canvas4](../Page/Canvas4.md "wikilink")
 
 ## 參考資料
 

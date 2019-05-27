@@ -12,7 +12,7 @@ CRH5型[电力动车组采用](https://zh.wikipedia.org/wiki/电力动车组 "wi
 这批高速列车随后正式定型为**CRH5A**。动车组采用动力分散式，每列8节編組，共5節動車和3節拖車（5M3T），设计营运速度为250
 km/h。列车可透过两组联挂方式增至16节。列车设有一等座车（ZY）、二等座车（ZE）、一等包座/二等座车（ZYE）和带酒吧的二等座车／餐车（ZEC）。其中一等座采用2+2方式布置，二等座为2+3布置。有23列CRH5A（編號为CRH5A-5001～CRH5A-5012、CRH5A-5043～CRH5A-5053）的一等、二等座椅不可回转。
 
-首组CRH5A（CRH<sub>5</sub>—001A）列车于2006年12月11日从意大利Savigliano登船运往中国，至2007年1月28日抵达[大连港口](https://zh.wikipedia.org/wiki/大连市 "wikilink")。第一组由中国生产的CRH5A（CRH<sub>5</sub>—010A）已于2007年4月出厂。[1](http://www.china.com.cn/news/txt/2007-04/06/content_8076434.htm)。随着[中国铁路第六次大提速的实施](https://zh.wikipedia.org/wiki/中国铁路大提速#中国铁路第六次大提速 "wikilink")，CRH5A动车组于2007年4月18日起，正式运行于[京哈线上](../Page/京哈铁路.md "wikilink")。由於CRH5型動車組下線時間較晚（2007年3月），整體試運行時間不足，導致一些潛在問題沒有能夠在試驗中解決，而且CRH5是CRH动车组系列中唯一一款对原型车的进行了大幅度的改动，调试的难度较高，所以CRH5A型動車組在2007年4月起正式運營初期的故障率相對比[CRH1及](../Page/和谐号CRH1型电力动车组.md "wikilink")[CRH2較高](../Page/和谐号CRH2型电力动车组.md "wikilink")，例如制動系統、空調系統以及列車自動門的故障，甚至因此出现了[中国铁路25G型客车代班](../Page/中国铁路25G型客车.md "wikilink")[D28次列车的现象](https://zh.wikipedia.org/wiki/京哈动车组列车 "wikilink")。而在耐寒性方面，CRH5则比[CRH1及](../Page/和谐号CRH1型电力动车组.md "wikilink")[CRH2优胜](../Page/和谐号CRH2型电力动车组.md "wikilink")，其承受温度范围可达±40[℃](../Page/摄氏温标.md "wikilink")，因此大多数被安排於中国东北地区运用。
+首组CRH5A（CRH<sub>5</sub>—001A）列车于2006年12月11日从意大利Savigliano登船运往中国，至2007年1月28日抵达[大连港口](https://zh.wikipedia.org/wiki/大连市 "wikilink")。第一组由中国生产的CRH5A（CRH<sub>5</sub>—010A）已于2007年4月出厂。[1](http://www.china.com.cn/news/txt/2007-04/06/content_8076434.htm)。随着[中国铁路第六次大提速的实施](https://zh.wikipedia.org/wiki/中国铁路大提速#中国铁路第六次大提速 "wikilink")，CRH5A动车组于2007年4月18日起，正式运行于[京哈线上](../Page/京哈铁路.md "wikilink")。由於CRH5型動車組下線時間較晚（2007年3月），整體試運行時間不足，導致一些潛在問題沒有能夠在試驗中解決，而且CRH5是CRH动车组系列中唯一一款对原型车的进行了大幅度的改动，调试的难度较高，所以CRH5A型動車組在2007年4月起正式運營初期的故障率相對比[CRH1及](../Page/和谐号CRH1型电力动车组.md "wikilink")[CRH2較高](../Page/和谐号CRH2型电力动车组.md "wikilink")，例如制動系統、空調系統以及列車自動門的故障，甚至因此出现了[中国铁路25G型客车代班](../Page/中国铁路25G型客车.md "wikilink")[D28次列车的现象](../Page/京哈动车组列车.md "wikilink")。而在耐寒性方面，CRH5则比[CRH1及](../Page/和谐号CRH1型电力动车组.md "wikilink")[CRH2优胜](../Page/和谐号CRH2型电力动车组.md "wikilink")，其承受温度范围可达±40[℃](../Page/摄氏温标.md "wikilink")，因此大多数被安排於中国东北地区运用。
 
 2007年4月2日，[中國鐵道科學研究院与长春轨道客车签订了以CRH](https://zh.wikipedia.org/wiki/中國鐵道科學研究院 "wikilink")5型为基础的高速综合检测列车研制合同，开始高速综合检测列车的研制生产。2008年6月6日，第一列基于CRH5型的檢測車出厂，名为「0号高速综合检测列车」，编号CIT001，車身為黃色，與新幹線使用的「Doctor
 Yellow」类似，造价为3亿元[人民币](../Page/人民币.md "wikilink")。同年7月1日开始在[京津城际铁路试运行](../Page/京津城际铁路.md "wikilink")。\[1\]「0号高速综合检测列车」的检测范围包括了轨道、轮轨力、接触网、通信和信号系统等。
@@ -446,9 +446,9 @@ CRH5型动车组均为8辆编组（而CRH5E则为16辆编组），在重连运�
 
   - [Pendolino](https://zh.wikipedia.org/wiki/Pendolino "wikilink")
   - [和谐号CJ1型电力动车组](../Page/和谐号CJ1型电力动车组.md "wikilink")
-  - [和谐号CJ2型电力动车组](https://zh.wikipedia.org/wiki/和谐号CJ2型电力动车组 "wikilink")
-  - [复兴号CR200J型电力动车组](https://zh.wikipedia.org/wiki/复兴号CR200J型电力动车组 "wikilink")
-  - [复兴号CR300BF型电力动车组](https://zh.wikipedia.org/wiki/复兴号CR300BF型电力动车组 "wikilink")
+  - [和谐号CJ2型电力动车组](../Page/和谐号CJ2型电力动车组.md "wikilink")
+  - [复兴号CR200J型电力动车组](../Page/复兴号CR200J型电力动车组.md "wikilink")
+  - [复兴号CR300BF型电力动车组](../Page/复兴号CR300BF型电力动车组.md "wikilink")
 
 ## 外部連結
 

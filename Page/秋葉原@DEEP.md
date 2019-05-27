@@ -73,16 +73,16 @@
 
   - 原作 - [石田衣良](../Page/石田衣良.md "wikilink")
   - 劇本 - [河原雅彦](https://zh.wikipedia.org/wiki/河原雅彦 "wikilink")、川邊優子
-  - 導演 - [大根仁](https://zh.wikipedia.org/wiki/大根仁 "wikilink")
+  - 導演 - [大根仁](../Page/大根仁.md "wikilink")
   - 製作 -
-    [Geneon](https://zh.wikipedia.org/wiki/Geneon "wikilink")、[讀賣廣告社](https://zh.wikipedia.org/wiki/讀賣廣告社 "wikilink")
+    [Geneon](https://zh.wikipedia.org/wiki/Geneon "wikilink")、[讀賣廣告社](../Page/讀賣廣告社.md "wikilink")
   - 企劃協力 - 文藝春秋
 
 ### 演員
 
   - 阿頁 - [風間俊介](../Page/風間俊介.md "wikilink")
   - 阿欄 - [生田斗真](../Page/生田斗真.md "wikilink")
-  - 太鼓 - [星野源](https://zh.wikipedia.org/wiki/星野源 "wikilink")
+  - 太鼓 - [星野源](../Page/星野源.md "wikilink")
   - 小光 - [小阪由佳](https://zh.wikipedia.org/wiki/小阪由佳 "wikilink")
   - 泉虫 - [松嶋初音](https://zh.wikipedia.org/wiki/松嶋初音 "wikilink")
   - 達磨 - [日村勇紀](https://zh.wikipedia.org/wiki/日村勇紀 "wikilink")
@@ -91,7 +91,7 @@
 
 ## 電影
 
-2006年9月2日由[東映公司在日本發行上映](../Page/東映.md "wikilink")。導演為[源孝志](https://zh.wikipedia.org/wiki/源孝志 "wikilink")。演員包括[成宮寬貴](../Page/成宮寬貴.md "wikilink")、[山田優](../Page/山田優.md "wikilink")、[忍成修吾](../Page/忍成修吾.md "wikilink")、[荒川良良](https://zh.wikipedia.org/wiki/荒川良良 "wikilink")、[三浦春馬](../Page/三浦春馬.md "wikilink")、[佐佐木藏之介](../Page/佐佐木藏之介.md "wikilink")、[萩原聖人等](../Page/萩原聖人.md "wikilink")。
+2006年9月2日由[東映公司在日本發行上映](../Page/東映.md "wikilink")。導演為[源孝志](https://zh.wikipedia.org/wiki/源孝志 "wikilink")。演員包括[成宮寬貴](../Page/成宮寬貴.md "wikilink")、[山田優](../Page/山田優.md "wikilink")、[忍成修吾](../Page/忍成修吾.md "wikilink")、[荒川良良](../Page/荒川良良.md "wikilink")、[三浦春馬](../Page/三浦春馬.md "wikilink")、[佐佐木藏之介](../Page/佐佐木藏之介.md "wikilink")、[萩原聖人等](../Page/萩原聖人.md "wikilink")。
 
 ## 外部連結
 

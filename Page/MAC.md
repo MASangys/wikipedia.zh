@@ -36,8 +36,8 @@
 
   - （Maximum Allowable Concentration）：在環境或產品中，特定化學物質的最大容許量。
 
-  - [補體系統膜攻擊複合物](https://zh.wikipedia.org/wiki/補體系統膜攻擊複合物 "wikilink")(membrane
-    attack complex)的英文縮寫。
+  - [補體系統膜攻擊複合物](../Page/補體系統膜攻擊複合物.md "wikilink")(membrane attack
+    complex)的英文縮寫。
 
 <!-- end list -->
 

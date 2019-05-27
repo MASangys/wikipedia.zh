@@ -48,7 +48,7 @@ Pro，光碟驅動器只能是PowerBook G4的一半速度，不能燒錄雙層DV
     MB的[GDDR3](https://zh.wikipedia.org/wiki/GDDR3 "wikilink")
     SDRAM与双链节的[DVI](../Page/DVI.md "wikilink")，[ExpressCard/34插槽](https://zh.wikipedia.org/wiki/PC_Card#ExpressCard "wikilink")。
   - **视讯**：内建[iSight](https://zh.wikipedia.org/wiki/iSight "wikilink")，DVI的外接[VGA支援](https://zh.wikipedia.org/wiki/VGA "wikilink")。
-  - **音讯**：结合[TOSLINK的音源输入](https://zh.wikipedia.org/wiki/TOSLINK "wikilink")、耳机输出、立体声喇叭，与麦克风。
+  - **音讯**：结合[TOSLINK的音源输入](../Page/TOSLINK.md "wikilink")、耳机输出、立体声喇叭，与麦克风。
   - **[硬盘](../Page/硬盘.md "wikilink")**：120GB或160GB的[SATA](../Page/SATA.md "wikilink")／100硬盘；转速5400[rpm](https://zh.wikipedia.org/wiki/rpm "wikilink")。
   - **光碟**：[SuperDrive](https://zh.wikipedia.org/wiki/SuperDrive "wikilink")（DVD±RW/CD-RW）
   - **網路**：内建[10](https://zh.wikipedia.org/wiki/10BASE-T "wikilink")／[100](https://zh.wikipedia.org/wiki/100BASE-T "wikilink")／[1000BASE-T](https://zh.wikipedia.org/wiki/1000BASE-T "wikilink")（1Gbps）的连线。
@@ -213,7 +213,7 @@ Pro获得了[能源之星认证和](https://zh.wikipedia.org/wiki/能源之星 "
     MB的[GDDR3](https://zh.wikipedia.org/wiki/GDDR3 "wikilink") SDRAM。
   - **视讯**：内建[iSight](https://zh.wikipedia.org/wiki/iSight "wikilink")，Mini
     DisplayPort端口支持DVI、VGA、及Dual-Link DVI（要求使用转换器，需单独购买）。
-  - **音讯**：结合[TOSLINK的音源输入](https://zh.wikipedia.org/wiki/TOSLINK "wikilink")、耳机输出、立体声喇叭，与麦克风。
+  - **音讯**：结合[TOSLINK的音源输入](../Page/TOSLINK.md "wikilink")、耳机输出、立体声喇叭，与麦克风。
   - **[硬盘](../Page/硬盘.md "wikilink")**: 250 GB或320
     GB的[SATA](../Page/SATA.md "wikilink")／100硬盘；转速5400[rpm](https://zh.wikipedia.org/wiki/rpm "wikilink")。
   - **光盘**:

@@ -114,8 +114,7 @@ Definition）content時；或許那時這種設計亦會被束之高閣了。
     Versatile Disc）
   - [FVD](https://zh.wikipedia.org/wiki/FVD "wikilink")（Forward
     Versatile Disc）
-  - [VMD](https://zh.wikipedia.org/wiki/VMD "wikilink")（Versatile
-    Multilayer Disc）
+  - [VMD](../Page/VMD.md "wikilink")（Versatile Multilayer Disc）
   - [FMD](https://zh.wikipedia.org/wiki/FMD "wikilink")（Fluorescent
     Multilayer Disc）
   - [DMD](https://zh.wikipedia.org/wiki/DMD "wikilink")（Digital

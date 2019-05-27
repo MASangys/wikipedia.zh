@@ -90,7 +90,7 @@
 [现象与](https://zh.wikipedia.org/wiki/现象 "wikilink")[本质](https://zh.wikipedia.org/wiki/本质 "wikilink")
 
 :::\*B025.2
-[形式与](https://zh.wikipedia.org/wiki/形式_\(哲學\) "wikilink")[内容](https://zh.wikipedia.org/wiki/内容 "wikilink")
+[形式与](../Page/形式_\(哲學\).md "wikilink")[内容](https://zh.wikipedia.org/wiki/内容 "wikilink")
 
 :::\*B025.3
 [全局与](https://zh.wikipedia.org/wiki/全局 "wikilink")[局部](https://zh.wikipedia.org/wiki/局部 "wikilink")
@@ -153,7 +153,7 @@
 [唯意志论](https://zh.wikipedia.org/wiki/唯意志论 "wikilink")、[生命哲学](https://zh.wikipedia.org/wiki/生命哲学 "wikilink")
 
 ::\*B084
-[新康德主义](https://zh.wikipedia.org/wiki/新康德主义 "wikilink")、[新黑格尔主义](https://zh.wikipedia.org/wiki/新黑格尔主义 "wikilink")
+[新康德主义](../Page/新康德主义.md "wikilink")、[新黑格尔主义](https://zh.wikipedia.org/wiki/新黑格尔主义 "wikilink")
 
 ::\*B085
 [新实在论](https://zh.wikipedia.org/wiki/新实在论 "wikilink")、[逻辑实证论](https://zh.wikipedia.org/wiki/逻辑实证论 "wikilink")（[新实证论](https://zh.wikipedia.org/wiki/新实证论 "wikilink")、[逻辑经验论](https://zh.wikipedia.org/wiki/逻辑经验论 "wikilink")）
@@ -1498,7 +1498,7 @@ Mettrie,J.O.de1709－1751年）
 ::\*B928 世界各国宗教概况
 
 ::\*B929
-[宗教史](https://zh.wikipedia.org/wiki/宗教史 "wikilink")、[宗教地理](https://zh.wikipedia.org/wiki/宗教地理 "wikilink")
+[宗教史](../Page/宗教史.md "wikilink")、[宗教地理](https://zh.wikipedia.org/wiki/宗教地理 "wikilink")
 
 ::\*B929.9 [宗教家传记](https://zh.wikipedia.org/wiki/宗教家 "wikilink")
 
@@ -1558,7 +1558,7 @@ Mettrie,J.O.de1709－1751年）
 [天台宗](../Page/天台宗.md "wikilink")（[日莲宗](https://zh.wikipedia.org/wiki/日莲宗 "wikilink")、[法华宗](https://zh.wikipedia.org/wiki/法华宗 "wikilink")）
 
 :::\*B946.2
-[三论宗](../Page/三论宗.md "wikilink")（[法性宗](https://zh.wikipedia.org/wiki/法性宗 "wikilink")）
+[三论宗](../Page/三论宗.md "wikilink")（[法性宗](../Page/法性宗.md "wikilink")）
 
 :::\*B946.3
 [法相宗](../Page/法相宗.md "wikilink")（[唯识宗](https://zh.wikipedia.org/wiki/唯识宗 "wikilink")、[慈恩宗](https://zh.wikipedia.org/wiki/慈恩宗 "wikilink")）
@@ -1588,7 +1588,7 @@ Mettrie,J.O.de1709－1751年）
 
 ::\*B949.9 传记
 
-:\*B95 [道教](https://zh.wikipedia.org/wiki/道教 "wikilink")
+:\*B95 [道教](../Page/道教.md "wikilink")
 
 ::\*B951 [道藏](../Page/道藏.md "wikilink")
 

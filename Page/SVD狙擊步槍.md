@@ -1,13 +1,13 @@
 **德拉古諾夫狙击步枪**（，Snayperskaya Vintovka
 Dragunova，缩写SVD），是由[苏联的](../Page/苏联.md "wikilink")[叶夫根尼·费奥多罗维奇·德拉贡诺夫在](../Page/叶夫根尼·费奥多罗维奇·德拉贡诺夫.md "wikilink")1958年至1963年间设计的一种半自动[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")，德拉古諾夫／SVD狙击步枪也是现代第一支为支援[班](https://zh.wikipedia.org/wiki/班 "wikilink")[排級狙擊與長距離火力支援用途而专门制造的狙擊步槍](https://zh.wikipedia.org/wiki/排 "wikilink")。
 
-但因為SVD是五十年代的[二戰和](https://zh.wikipedia.org/wiki/二戰 "wikilink")[韓戰時經驗開發](https://zh.wikipedia.org/wiki/韓戰 "wikilink")，要求狙擊步槍可以平衡於精度、射速、重量、可靠、低價的各個方面，而且當時還未有一些最新制槍技術。以当代標準[反恐作戰需求來說已開始過時了](https://zh.wikipedia.org/wiki/反恐 "wikilink")，常被認為只是[精確射手步槍](https://zh.wikipedia.org/wiki/精確射手步槍 "wikilink")（Designated
+但因為SVD是五十年代的[二戰和](https://zh.wikipedia.org/wiki/二戰 "wikilink")[韓戰時經驗開發](https://zh.wikipedia.org/wiki/韓戰 "wikilink")，要求狙擊步槍可以平衡於精度、射速、重量、可靠、低價的各個方面，而且當時還未有一些最新制槍技術。以当代標準[反恐作戰需求來說已開始過時了](https://zh.wikipedia.org/wiki/反恐 "wikilink")，常被認為只是[精確射手步槍](../Page/精確射手步槍.md "wikilink")（Designated
 marksman rifle；DMR）。
 
 為了應付不同的任務需要，現時俄羅斯開始以各種不同的新型狙擊步槍，代替單一的SVD來完成，如使用同彈種但更高精度的手動[SV-98狙擊步槍](../Page/SV-98狙擊步槍.md "wikilink")，遠距離狙擊或對裝甲目標可用[OSV-96狙擊步槍](../Page/OSV-96狙擊步槍.md "wikilink")，近距離有[SV-99狙擊步槍](../Page/SV-99狙擊步槍.md "wikilink")，還在有必要隱藏射手時可使用[VSS
 Vintorez狙擊步槍取代SVD擔當](../Page/VSS_Vintorez狙擊步槍.md "wikilink")。
 
-最近俄羅斯開發裝備了[SVDK輕型反器材兼用重型狙擊步槍](https://zh.wikipedia.org/wiki/SVDK狙擊步槍 "wikilink")，發射改良德式民用的[9.3×64mm
+最近俄羅斯開發裝備了[SVDK輕型反器材兼用重型狙擊步槍](../Page/SVDK狙擊步槍.md "wikilink")，發射改良德式民用的[9.3×64mm
 Brenneke子彈](https://zh.wikipedia.org/wiki/9.3×64mm_Brenneke "wikilink")，以彌補SVD/SV98和OSV-96間的火力空白。
 
 但如果以[遊擊戰和戰場前線的任務需要下](https://zh.wikipedia.org/wiki/遊擊戰 "wikilink")，考慮目標可能隨機出現和移動並隱藏的狙擊需要，因為SVD作為[半自動步槍先天射速較高](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，但又有近似[手動步槍的可靠性的特長](https://zh.wikipedia.org/wiki/手動步槍 "wikilink")，SVD仍然是評價極高的槍型。
@@ -88,7 +88,7 @@ PSO-1還有一個以微型電池供電的光源以及一個被動式紅外線偵
 
 蘇聯在冬季戰爭中付出最慘痛的代價就是動員百萬人卻無法令一個面積只有1/50（蘇聯面積17,075,200km²，芬蘭只有338,145km²）的小國屈服，陣亡中大部份官兵是被[輕兵器所擊斃的](https://zh.wikipedia.org/wiki/輕兵器 "wikilink")。蘇聯在吸取此教訓之後，以及隨後在[史達林格勒戰役中體認到](https://zh.wikipedia.org/wiki/史達林格勒戰役 "wikilink")「狙擊手」的戰術價值以及戰略潛力，因此開始「量產」狙擊手，並且將狙擊手列入班排級中的支援兵種。
 
-隨著[莫辛-納甘步槍的退役](../Page/莫辛-納甘步槍.md "wikilink")，SVD成為蘇聯軍方的主要精確射擊裝備。然而儘管SVD被認定是擔任狙擊任務的武器，但是以編制上以及設計上來說，SVD只能算是「[精確射手步槍](https://zh.wikipedia.org/wiki/精確射手步槍 "wikilink")」（Designated
+隨著[莫辛-納甘步槍的退役](../Page/莫辛-納甘步槍.md "wikilink")，SVD成為蘇聯軍方的主要精確射擊裝備。然而儘管SVD被認定是擔任狙擊任務的武器，但是以編制上以及設計上來說，SVD只能算是「[精確射手步槍](../Page/精確射手步槍.md "wikilink")」（Designated
 marksman
 rifle；DMR）。原因在於蘇聯部隊的狙擊手隨同部隊進行對任務的支援，而非以小組進行滲透、偵查、狙擊，以及反器材/物資作戰。配备SVD的兵士必須接受针对SVD的专门训练；蘇聯部隊的班排單位的有效射程也因此提升至800m。若无SVD，以AK-47的精準度來說，部隊的火力控制距離就無法超越400m。
 
@@ -133,7 +133,7 @@ SVD的早期版本使用镂空的木质[槍托](../Page/槍托.md "wikilink")、
   - <span id="Tigr">**Dragunov
     Tigr**（俄文：，；德拉古諾夫虎式獵槍）：1970年代初經由德拉古諾夫重新進行修改，並且進行個別製造；一直到1992年才進入量產外銷。虎式獵槍具有多種口径形式，提供狩獵與運動使用，其中包括可以使用[.308
     Winchester子彈](../Page/.308_Winchester.md "wikilink")。
-  - [SVDK狙擊步槍](https://zh.wikipedia.org/wiki/SVDK狙擊步槍 "wikilink")
+  - [SVDK狙擊步槍](../Page/SVDK狙擊步槍.md "wikilink")
 
 <!-- end list -->
 
@@ -325,12 +325,12 @@ SVD的早期版本使用镂空的木质[槍托](../Page/槍托.md "wikilink")、
   - 2014年—《[美國狙擊手](https://zh.wikipedia.org/wiki/美國狙擊手 "wikilink")》：被[叛軍狙擊手](https://zh.wikipedia.org/wiki/叛軍 "wikilink")，穆斯塔法（山米·席克飾演）所使用。奇怪地有時會變成[PSL狙擊步槍](../Page/PSL狙擊步槍.md "wikilink")。
   - 2016年—《[湄公河行動](https://zh.wikipedia.org/wiki/湄公河行動 "wikilink")》：被毒販打手所使用。
   - 2017年—《[-{zh-hans:极寒之城; zh-hk:原子殺姬;
-    zh-tw:極凍之城;}-](https://zh.wikipedia.org/wiki/極凍之城 "wikilink")》：型號為SVD，被[蘇聯國家安全委員會特工所使用](https://zh.wikipedia.org/wiki/蘇聯國家安全委員會 "wikilink")。
+    zh-tw:極凍之城;}-](../Page/極凍之城.md "wikilink")》：型號為SVD，被[蘇聯國家安全委員會特工所使用](https://zh.wikipedia.org/wiki/蘇聯國家安全委員會 "wikilink")。
 
 ### 電視劇
 
   - 2011年—《[-{zh-hans:反击; zh-hk:絕地反擊;
-    zh-tw:勇者逆襲;}-第一季](https://zh.wikipedia.org/wiki/勇者逆襲_\(第一季\) "wikilink")》（Strike
+    zh-tw:勇者逆襲;}-第一季](../Page/勇者逆襲_\(第一季\).md "wikilink")》（Strike
     Back: Project
     Dawn）：型號為**SVD**及**SVD-M**，被邁克爾.斯通布里奇中士（[菲利普·溫切斯特飾演](../Page/菲利普·溫切斯特.md "wikilink")）及[科索沃的恐怖份子所使用](../Page/科索沃.md "wikilink")。
   - 《》（Shooter）：其中一枝出現在包伯·李·史瓦格的武器庫當中，另外亦於第二季被[車臣武裝份子狙擊手索洛托夫](https://zh.wikipedia.org/wiki/車臣 "wikilink")（[喬許·史都華飾演](../Page/喬許·史都華.md "wikilink")）所使用。
@@ -369,7 +369,7 @@ SVD的早期版本使用镂空的木质[槍托](../Page/槍托.md "wikilink")、
   - 2010年—《[榮譽勳章](../Page/榮譽勳章_\(2010年遊戲\).md "wikilink")》：型號為SVD和北方工業NDM-86，前者於單機模式被[塔利班和車臣志願軍所使用](../Page/塔利班.md "wikilink")，後者於聯機模式被[塔利班狙擊手所使用](../Page/塔利班.md "wikilink")。
   - 2011年—《[-{zh-hans:战地3;
     zh-hant:戰地風雲3;}-](https://zh.wikipedia.org/wiki/战地3 "wikilink")》：型號為北方工業NDM-86，命名為「SVD」，聯機模式之中為俄軍偵察兵基本武器。
-  - 2012年—《[战争前线](https://zh.wikipedia.org/wiki/战争前线 "wikilink")》：木质枪托及护木，命名为“Dragunov
+  - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》：木质枪托及护木，命名为“Dragunov
     SR”，使用10发弹匣，并以加装导轨镜桥而非直接使用[PSO-1光學瞄準鏡](../Page/PSO-1光學瞄準鏡.md "wikilink")。作为狙击手初始武器，同时亦在PVE模式中被黑木帝国狙击手所使用。中国大陆服务器只可改装可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、狙击枪消音器）；欧美与俄罗斯服务器可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")）、战术导轨配件（[狙击枪双脚架](https://zh.wikipedia.org/wiki/两脚架 "wikilink")）以及瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜）。拥有丛林迷彩改装版本以及眩光迷彩改装版本，增加威力及载弹，均可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、狙击枪消音器、[狙击枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")）、战术导轨配件（[狙击枪双脚架](https://zh.wikipedia.org/wiki/两脚架 "wikilink")、特殊狙击枪双脚架）以及瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜、[狙击枪4x短程瞄准镜](https://zh.wikipedia.org/wiki/Trijicon_TR20瞄准镜 "wikilink")、狙击槍5x快速瞄准镜）。
       - 丛林迷彩版本可以通过K点或者活动获得，眩光迷彩版本为活动武器
   - 2012年—《[-{zh-hans:使命召唤：黑色行动; zh-hk:使命召喚：黑色行動;
@@ -393,10 +393,10 @@ SVD的早期版本使用镂空的木质[槍托](../Page/槍托.md "wikilink")、
     Cry
     5）：為DLC追加武器，型號為SVD，命名為“SVD”。武器模組採用鏡像佈局（拉機柄、拋殼口及保險裝置都在左邊），奇怪的没有空倉掛機。
   - 2019年—《[-{zh-hans:孤岛惊魂：新曙光; zh-hant:極地戰嚎：破曉;
-    zh-tw:極地戰嚎：破曉;}-](https://zh.wikipedia.org/wiki/孤岛惊魂：新曙光 "wikilink")》（Far
+    zh-tw:極地戰嚎：破曉;}-](../Page/孤岛惊魂：新曙光.md "wikilink")》（Far
     Cry New
     Dawn）：型號為SVD，改用高倍率瞄準鏡，普遍的被友方和敵方狙擊手所使用。武器模組採用鏡像佈局（拉機柄、拋殼口及保險裝置都在左邊），奇怪的没有空倉掛機。
-  - 2019年—《[湯姆克蘭西：全境封鎖2](https://zh.wikipedia.org/wiki/湯姆克蘭西：全境封鎖2 "wikilink")》
+  - 2019年—《[湯姆克蘭西：全境封鎖2](../Page/湯姆克蘭西：全境封鎖2.md "wikilink")》
 
 ### 動畫
 
@@ -410,7 +410,7 @@ SVD的早期版本使用镂空的木质[槍托](../Page/槍托.md "wikilink")、
 
   - 2008年—《[-{zh-hans:绯弹的亚里亚;zh-hant:緋彈的亞莉亞;}-](../Page/緋彈的亞莉亞.md "wikilink")》：被巴斯克維爾（小隊）隊員蕾姬（レキ，[聲優](../Page/聲優.md "wikilink")：[石原夏織](../Page/石原夏織.md "wikilink")）所使用，瞄準鏡內藏有設置為在狙擊瞬間把看到的情景記錄下來的照相機（輕小說第六卷及第十二卷的封面即是蕾姬拿SVD的的全身像。）
   - 2014年—《[刀劍神域外傳Gun Gale
-    Online](https://zh.wikipedia.org/wiki/刀劍神域外傳Gun_Gale_Online "wikilink")》：型號為SVD，被“SHINC”小隊的“杜馬”和“安娜”所使用。
+    Online](../Page/刀劍神域外傳Gun_Gale_Online.md "wikilink")》：型號為SVD，被“SHINC”小隊的“杜馬”和“安娜”所使用。
 
 ## 參考文獻
 

@@ -15,7 +15,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2019</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/傑森·塔圖姆" title="wikilink">傑森·塔圖姆</a></p></td>
+<td><p><a href="../Page/傑森·塔圖姆.md" title="wikilink">傑森·塔圖姆</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波士頓塞爾提克" title="wikilink">波士頓塞爾提克</a></p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/夏洛特_(北卡羅來納州).md" title="wikilink">夏洛特</a></p></td>

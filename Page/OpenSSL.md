@@ -136,7 +136,7 @@ OpenSSL管理委員會目前由7人組成\[1\]
 <li>用於設置TLS支持的簽名算法和曲線的API</li>
 <li>SSL_CONF配置API</li>
 <li>支持TLS </li>
-<li>支持<a href="https://zh.wikipedia.org/wiki/应用层协议协商" title="wikilink">应用层协议协商</a></li>
+<li>支持<a href="../Page/应用层协议协商.md" title="wikilink">应用层协议协商</a></li>
 <li>CMS支持、、<a href="https://zh.wikipedia.org/wiki/ECDH" title="wikilink">ECDH及X</a>9.42 DH</li>
 </ul></td>
 <td><p>1.0.2q（）</p></td>
@@ -148,9 +148,9 @@ OpenSSL管理委員會目前由7人組成\[1\]
 <li>取代1.0.2h</li>
 <li>預計維護到2019年9月[9]</li>
 <li>支持<a href="https://zh.wikipedia.org/wiki/BLAKE#BLAKE2" title="wikilink">BLAKE</a> (RFC 7693)</li>
-<li>支持<a href="https://zh.wikipedia.org/wiki/ChaCha20" title="wikilink">ChaCha20</a>-<a href="https://zh.wikipedia.org/wiki/Poly1305" title="wikilink">Poly1305</a>（RFC 7539）</li>
+<li>支持<a href="https://zh.wikipedia.org/wiki/ChaCha20" title="wikilink">ChaCha20</a>-<a href="../Page/Poly1305.md" title="wikilink">Poly1305</a>（RFC 7539）</li>
 <li>支持<a href="https://zh.wikipedia.org/wiki/X25519" title="wikilink">X25519</a>（RFC 7748）</li>
-<li>支持和<a href="https://zh.wikipedia.org/wiki/证书透明度" title="wikilink">证书透明度</a></li>
+<li>支持和<a href="../Page/证书透明度.md" title="wikilink">证书透明度</a></li>
 <li>支持扩密碼套件</li>
 <li>支持扩展主密钥</li>
 <li>移除SSLv2</li>
@@ -192,11 +192,11 @@ OpenSSL管理委員會目前由7人組成\[1\]
 OpenSSL支持许多不同的加密算法：
 
   - [加密](https://zh.wikipedia.org/wiki/加密 "wikilink"):
-    [AES](../Page/高级加密标准.md "wikilink")、[Blowfish](https://zh.wikipedia.org/wiki/Blowfish_\(密码学\) "wikilink")、[Camellia](../Page/Camellia.md "wikilink")、[Chacha20](https://zh.wikipedia.org/wiki/Salsa20#ChaCha20 "wikilink")、[Poly1305](https://zh.wikipedia.org/wiki/Poly1305 "wikilink")、、、[DES](../Page/資料加密標準.md "wikilink")、[IDEA](https://zh.wikipedia.org/wiki/國際資料加密演算法 "wikilink")、、[RC4](../Page/RC4.md "wikilink")、[RC5](https://zh.wikipedia.org/wiki/RC5 "wikilink")、[TDES](https://zh.wikipedia.org/wiki/三重資料加密演算法 "wikilink")、\[14\]、[SM4](../Page/SM4.md "wikilink")
+    [AES](../Page/高级加密标准.md "wikilink")、[Blowfish](https://zh.wikipedia.org/wiki/Blowfish_\(密码学\) "wikilink")、[Camellia](../Page/Camellia.md "wikilink")、[Chacha20](https://zh.wikipedia.org/wiki/Salsa20#ChaCha20 "wikilink")、[Poly1305](../Page/Poly1305.md "wikilink")、、、[DES](../Page/資料加密標準.md "wikilink")、[IDEA](../Page/國際資料加密演算法.md "wikilink")、、[RC4](../Page/RC4.md "wikilink")、[RC5](../Page/RC5.md "wikilink")、[TDES](https://zh.wikipedia.org/wiki/三重資料加密演算法 "wikilink")、\[14\]、[SM4](../Page/SM4.md "wikilink")
   - [密碼雜湊函數](https://zh.wikipedia.org/wiki/密碼雜湊函數 "wikilink"):
     [MD5](../Page/MD5.md "wikilink")、[MD4](https://zh.wikipedia.org/wiki/MD4 "wikilink")、、[SHA-1](../Page/SHA-1.md "wikilink")、[SHA-2](../Page/SHA-2.md "wikilink")、[SHA-3](../Page/SHA-3.md "wikilink")、[RIPEMD-160](https://zh.wikipedia.org/wiki/RIPEMD-160 "wikilink")、、\[15\]、[BLAKE2](https://zh.wikipedia.org/wiki/BLAKE#BLAKE2 "wikilink")、\[16\]、[SM3](../Page/SM3.md "wikilink")
   - [公开密钥加密](../Page/公开密钥加密.md "wikilink"):
-    [RSA](../Page/RSA加密演算法.md "wikilink")、、[迪菲-赫爾曼密鑰交換](../Page/迪菲-赫爾曼密鑰交換.md "wikilink")、[椭圆曲线](../Page/椭圆曲线密码学.md "wikilink")、[X25519](https://zh.wikipedia.org/wiki/Curve25519 "wikilink")、、、、[GOST
+    [RSA](../Page/RSA加密演算法.md "wikilink")、、[迪菲-赫爾曼密鑰交換](../Page/迪菲-赫爾曼密鑰交換.md "wikilink")、[椭圆曲线](../Page/椭圆曲线密码学.md "wikilink")、[X25519](../Page/Curve25519.md "wikilink")、、、、[GOST
     R
     34.10-2001](https://zh.wikipedia.org/wiki/GOST_R_34.10-2001 "wikilink")\[17\]、[SM2](../Page/SM2.md "wikilink")
 

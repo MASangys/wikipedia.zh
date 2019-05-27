@@ -370,7 +370,7 @@
 <tr class="header">
 <th><p>晶片組</p></th>
 <th><p>型號</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/ATA" title="wikilink">ATA支援</a></p></th>
+<th><p><a href="../Page/ATA.md" title="wikilink">ATA支援</a></p></th>
 <th><p><a href="../Page/USB.md" title="wikilink">USB支援</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/CMOS" title="wikilink">CMOS</a>/時鐘</p></th>
 <th><p>ISA支援</p></th>
@@ -1294,7 +1294,7 @@
 <tr class="header">
 <th><p>晶片組</p></th>
 <th><p>型號</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/ATA" title="wikilink">ATA</a></p></th>
+<th><p><a href="../Page/ATA.md" title="wikilink">ATA</a></p></th>
 <th><p><a href="../Page/SATA.md" title="wikilink">SATA</a></p></th>
 <th><p><a href="../Page/RAID.md" title="wikilink">RAID等級</a></p></th>
 <th><p><a href="../Page/USB.md" title="wikilink">USB</a></p></th>
@@ -2386,7 +2386,7 @@ DDR2 667/800[19]</p></td>
 <tr class="header">
 <th><p>晶片組</p></th>
 <th><p>型號</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/ATA" title="wikilink">ATA</a></p></th>
+<th><p><a href="../Page/ATA.md" title="wikilink">ATA</a></p></th>
 <th><p><a href="../Page/SATA.md" title="wikilink">SATA</a></p></th>
 <th><p><a href="../Page/RAID.md" title="wikilink">RAID等級</a></p></th>
 <th><p><a href="../Page/USB.md" title="wikilink">USB</a></p></th>

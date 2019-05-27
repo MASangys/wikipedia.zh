@@ -100,18 +100,18 @@ Cover Girl 選舉」。
 
 成名藝人：
 
-  - 2000（第二屆）：[陳文靜](https://zh.wikipedia.org/wiki/陳文靜 "wikilink")（冠軍）、[陳素瑩](https://zh.wikipedia.org/wiki/陳素瑩 "wikilink")（最上鏡小姐）、[潘冠霖](https://zh.wikipedia.org/wiki/潘冠霖 "wikilink")、[鍾子敏](https://zh.wikipedia.org/wiki/鍾子敏 "wikilink")、
+  - 2000（第二屆）：[陳文靜](https://zh.wikipedia.org/wiki/陳文靜 "wikilink")（冠軍）、[陳素瑩](https://zh.wikipedia.org/wiki/陳素瑩 "wikilink")（最上鏡小姐）、[潘冠霖](../Page/潘冠霖.md "wikilink")、[鍾子敏](https://zh.wikipedia.org/wiki/鍾子敏 "wikilink")、
   - 2001（第三屆）：[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")（冠軍）
   - 2003（第四屆）：[沈卓盈](../Page/沈卓盈.md "wikilink")（冠軍）、[王從希](https://zh.wikipedia.org/wiki/王從希 "wikilink")\[3\]
   - 2004（第五屆）：[梁寶賢](https://zh.wikipedia.org/wiki/梁寶賢 "wikilink")（冠軍）、[梁麗瑩](../Page/梁麗瑩.md "wikilink")（季軍）\[4\]
   - 2009 ctf2 真我演繹 Cover Girl 選舉：\[5\]
   - 2011
-    TVB周刊CoverGirl選舉：[陳婉婷](../Page/陳婉婷_\(演員\).md "wikilink")、[周嘉莉](../Page/周嘉莉.md "wikilink")、[羅伊婷](https://zh.wikipedia.org/wiki/羅伊婷 "wikilink")
+    TVB周刊CoverGirl選舉：[陳婉婷](../Page/陳婉婷_\(演員\).md "wikilink")、[周嘉莉](../Page/周嘉莉.md "wikilink")、[羅伊婷](../Page/羅伊婷.md "wikilink")
     \[6\]
 
 現為無綫電視藝員名單：
 
-  - [潘冠霖](https://zh.wikipedia.org/wiki/潘冠霖 "wikilink")、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[陳婉婷](../Page/陳婉婷_\(演員\).md "wikilink")
+  - [潘冠霖](../Page/潘冠霖.md "wikilink")、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[陳婉婷](../Page/陳婉婷_\(演員\).md "wikilink")
 
 ## 网上版内容
 

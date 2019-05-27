@@ -1,12 +1,12 @@
 [T-moenycard.jpg](https://zh.wikipedia.org/wiki/File:T-moenycard.jpg "fig:T-moenycard.jpg")
 
-**T-money**是一種在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾及鄰近城市使用的公共交通](https://zh.wikipedia.org/wiki/首爾 "wikilink")[智能卡系統](https://zh.wikipedia.org/wiki/智能卡 "wikilink")。使用非接觸式智能卡設計，基本卡售價為3,000[韓圆](https://zh.wikipedia.org/wiki/韓圆 "wikilink")，需另外增值；在首爾市內的[便利店](https://zh.wikipedia.org/wiki/便利店 "wikilink")、[7-11](https://zh.wikipedia.org/wiki/7-11 "wikilink")、[首爾地鐵各車站票務處等地發售及增值](https://zh.wikipedia.org/wiki/首爾地鐵 "wikilink")。
+**T-money**是一種在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾及鄰近城市使用的公共交通](../Page/首爾.md "wikilink")[智能卡系統](https://zh.wikipedia.org/wiki/智能卡 "wikilink")。使用非接觸式智能卡設計，基本卡售價為3,000[韓圆](https://zh.wikipedia.org/wiki/韓圆 "wikilink")，需另外增值；在首爾市內的[便利店](https://zh.wikipedia.org/wiki/便利店 "wikilink")、[7-11](https://zh.wikipedia.org/wiki/7-11 "wikilink")、[首爾地鐵各車站票務處等地發售及增值](https://zh.wikipedia.org/wiki/首爾地鐵 "wikilink")。
 本智慧卡系統由韓國智慧卡公司負責營運與發行，該公司由[首爾市政府](https://zh.wikipedia.org/wiki/首爾市政府 "wikilink")34.4%控股、LG
 CNS 31.85%控股以及信用卡聯盟15.71%控股。
 
 ## 使用範圍
 
-  - 所有[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")，[京畿道](../Page/京畿道.md "wikilink")，[仁川](https://zh.wikipedia.org/wiki/仁川 "wikilink")，
+  - 所有[首爾](../Page/首爾.md "wikilink")，[京畿道](../Page/京畿道.md "wikilink")，[仁川](https://zh.wikipedia.org/wiki/仁川 "wikilink")，
     [釜山](https://zh.wikipedia.org/wiki/釜山市 "wikilink"),[大邱](https://zh.wikipedia.org/wiki/大邱 "wikilink"),
     [大田和](../Page/大田广域市.md "wikilink")[光州巴士](../Page/光州.md "wikilink")
   - [首爾](https://zh.wikipedia.org/wiki/首爾地鐵 "wikilink")，[仁川](https://zh.wikipedia.org/wiki/仁川地鐵 "wikilink")，[釜山](../Page/釜山都市鐵道.md "wikilink")，[大邱](https://zh.wikipedia.org/wiki/大邱地鐵 "wikilink")，[大田以及](../Page/大田都市鐵道.md "wikilink")[光州都市鐵道網絡](../Page/光州都市鐵道.md "wikilink")
@@ -47,9 +47,9 @@ can be emailed to customer service along with supporting documentation.
 ### 相關卡
 
   - 定期票
-    (정기권)：為[首爾和](https://zh.wikipedia.org/wiki/首爾 "wikilink")[仁川](../Page/仁川廣域市.md "wikilink")[地鐵的月票](../Page/地鐵.md "wikilink")。
+    (정기권)：為[首爾和](../Page/首爾.md "wikilink")[仁川](../Page/仁川廣域市.md "wikilink")[地鐵的月票](../Page/地鐵.md "wikilink")。
   - T-money
-    Mpass：與[首爾市](https://zh.wikipedia.org/wiki/首爾 "wikilink")[公車合作](https://zh.wikipedia.org/wiki/公車 "wikilink")，單日最多可搭乘大眾交通工具二十次。
+    Mpass：與[首爾市](../Page/首爾.md "wikilink")[公車合作](https://zh.wikipedia.org/wiki/公車 "wikilink")，單日最多可搭乘大眾交通工具二十次。
   - Seoul Citypass Plus：同為T-money卡，於觀光景點有額外優惠。
   - Mobile T-money： is a
     RF-/[NFC](https://zh.wikipedia.org/wiki/Near_field_communication "wikilink")-[Subscriber

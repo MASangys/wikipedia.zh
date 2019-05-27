@@ -20,7 +20,7 @@ Works](../Page/ASCII_Media_Works.md "wikilink")（前[MediaWorks](../Page/MediaW
 
   - [女神天國](https://zh.wikipedia.org/wiki/女神天國 "wikilink")（畫：[好實昭博](https://zh.wikipedia.org/wiki/好實昭博 "wikilink")・[宮須彌](https://zh.wikipedia.org/wiki/宮須彌 "wikilink")、文：きくたけ（菊池たけし）、1993年2月號～1996年6月號）遊戲・OVA
       - 1999年9月號續編「聖女神天國」の予告が掲載されたが、連載に至らず2000年1月号にお詫びが掲載された。
-  - [ヴァルツァーの紋章](https://zh.wikipedia.org/wiki/ヴァルツァーの紋章 "wikilink")（原案：安藤真、文：[新木伸](https://zh.wikipedia.org/wiki/新木伸 "wikilink")、畫：[小林瑞代](https://zh.wikipedia.org/wiki/小林瑞代 "wikilink")・[佐島真実](https://zh.wikipedia.org/wiki/佐島真実 "wikilink")、1993年2月號～1995年1月號）小說
+  - [ヴァルツァーの紋章](https://zh.wikipedia.org/wiki/ヴァルツァーの紋章 "wikilink")（原案：安藤真、文：[新木伸](../Page/新木伸.md "wikilink")、畫：[小林瑞代](https://zh.wikipedia.org/wiki/小林瑞代 "wikilink")・[佐島真実](https://zh.wikipedia.org/wiki/佐島真実 "wikilink")、1993年2月號～1995年1月號）小說
   - ハイパーウォーズ（原作：阿須貞明、畫：長谷川努、1993年12月號～1994年10月號）遊戲
   - ルートランサー（原案：林田ゆり、画：十羽織羽磨、1994年1月号～11月号）
   - [六翼天使之聲](https://zh.wikipedia.org/wiki/六翼天使之聲 "wikilink")（畫：[七瀬葵](https://zh.wikipedia.org/wiki/七瀬葵 "wikilink")、1996年4月號～1998年8月號）TV動畫
@@ -32,7 +32,7 @@ Works](../Page/ASCII_Media_Works.md "wikilink")（前[MediaWorks](../Page/MediaW
 
 <!-- end list -->
 
-  - [お嬢様特急（エクスプレス）](https://zh.wikipedia.org/wiki/お嬢様特急 "wikilink")（企画：[赤堀悟](https://zh.wikipedia.org/wiki/赤堀悟 "wikilink")・画：[柳沢まさひで](https://zh.wikipedia.org/wiki/柳沢まさひで "wikilink")、1998年5月號～11月號）遊戲
+  - [お嬢様特急（エクスプレス）](https://zh.wikipedia.org/wiki/お嬢様特急 "wikilink")（企画：[赤堀悟](../Page/赤堀悟.md "wikilink")・画：[柳沢まさひで](https://zh.wikipedia.org/wiki/柳沢まさひで "wikilink")、1998年5月號～11月號）遊戲
   - [妹妹公主](../Page/妹妹公主.md "wikilink")（画：[天廣直人](https://zh.wikipedia.org/wiki/天廣直人 "wikilink")、文：[公野櫻子](https://zh.wikipedia.org/wiki/公野櫻子 "wikilink")、1999年3月號～2003年9月號）遊戲・TV動畫・等多種模式的作品
 
 <!-- end list -->

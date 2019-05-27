@@ -18,7 +18,7 @@ EVOLVE系列之後第二部完全以](../Page/GUNDAM_EVOLVE.md "wikilink")3D電�
   - 總監督：[今西隆志](https://zh.wikipedia.org/wiki/今西隆志 "wikilink")
   - 腳本：大熊朝秀，大野木 宽
   - 音樂：大橋　惠
-  - 總合設定：[出渕裕](https://zh.wikipedia.org/wiki/出渕裕 "wikilink")、[カトキハジメ](../Page/角木肇.md "wikilink")、[荒牧伸志](https://zh.wikipedia.org/wiki/荒牧伸志 "wikilink")、[山根公利](https://zh.wikipedia.org/wiki/山根公利 "wikilink")、[藤岡建機](../Page/藤岡建機.md "wikilink")
+  - 總合設定：[出渕裕](https://zh.wikipedia.org/wiki/出渕裕 "wikilink")、[カトキハジメ](../Page/角木肇.md "wikilink")、[荒牧伸志](../Page/荒牧伸志.md "wikilink")、[山根公利](https://zh.wikipedia.org/wiki/山根公利 "wikilink")、[藤岡建機](../Page/藤岡建機.md "wikilink")
   - 設定考證：永瀬唯
   - CG監督：小畑正好
   - 製作：[Sunrise](https://zh.wikipedia.org/wiki/Sunrise "wikilink")
@@ -94,8 +94,8 @@ EVOLVE系列之後第二部完全以](../Page/GUNDAM_EVOLVE.md "wikilink")3D電�
 
 ## 漫畫
 
-由[MEIMU作畫](https://zh.wikipedia.org/wiki/MEIMU "wikilink"),"1年戰爭祕錄"的漫畫版:《机动战士高达
-MS IGLOO 603》於[GUNDAM
+由[MEIMU作畫](../Page/MEIMU.md "wikilink"),"1年戰爭祕錄"的漫畫版:《机动战士高达 MS IGLOO
+603》於[GUNDAM
 ACE上連載](../Page/GUNDAM_ACE.md "wikilink").漫畫中追加了动画版所沒有的一些兵器的故事(但是OVA第二話則沒有在漫畫中出現).第二期的OVA發售同時，漫畫也重開連載，名字與OVA版一樣為《機動戰士鋼彈
 MS IGLOO 默示錄0079》。第二部的漫画版名称与OVA版一样为《机动战士高达 MS IGLOO 2 重力战线》。
 

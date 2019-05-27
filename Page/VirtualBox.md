@@ -25,7 +25,7 @@ VirtualBox最初是以[專有軟體協議的方式提供](https://zh.wikipedia.o
     [AMD-V硬體虛擬化技術](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")。
   - 硬碟被模擬在一個稱為虛擬磁碟映像檔（Virtual Disk
     Images）的特殊容器，目前此格式不相容於其它虛擬機平臺運行，通常作為一個系統檔存放在主機端作業系統（副檔名.vdi\[4\])。VirtualBox能夠連結iSCSI，且能在虛擬硬碟上運作，此外VirtualBox可以讀寫VMware
-    [VMDK檔與VirtualPC](https://zh.wikipedia.org/wiki/VMDK "wikilink")
+    [VMDK檔與VirtualPC](../Page/VMDK.md "wikilink")
     [VHD檔](https://zh.wikipedia.org/wiki/VHD "wikilink")。
   - ISO映像檔可以被掛載成CD/DVD裝置，例如下載的Linux發行版DVD映像檔可以直接使用在VirtualBox，而不需燒錄在光碟片上，亦可直接在虛擬機上掛載實體光碟機。
   - 預設上VirtualBox提供了一個支援[VESA相容的虛擬顯示卡](../Page/VESA匯流排.md "wikilink")，與一個供Windows、Linux、Solaris、OS/2客戶端系統額外的驅動程式（guest

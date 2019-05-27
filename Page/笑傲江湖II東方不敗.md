@@ -1,4 +1,4 @@
-是1992年根据[金庸小说](../Page/金庸.md "wikilink")《[笑傲江湖](../Page/笑傲江湖.md "wikilink")》改编的一部电影，由[李连杰和](../Page/李连杰.md "wikilink")[林青霞分别扮演](../Page/林青霞.md "wikilink")[令狐冲与](https://zh.wikipedia.org/wiki/令狐冲 "wikilink")[東方不敗](https://zh.wikipedia.org/wiki/東方不敗 "wikilink")，其他演员还有[關之琳](../Page/關之琳.md "wikilink")、[李嘉欣等](../Page/李嘉欣.md "wikilink")。
+是1992年根据[金庸小说](../Page/金庸.md "wikilink")《[笑傲江湖](../Page/笑傲江湖.md "wikilink")》改编的一部电影，由[李连杰和](../Page/李连杰.md "wikilink")[林青霞分别扮演](../Page/林青霞.md "wikilink")[令狐冲与](../Page/令狐冲.md "wikilink")[東方不敗](https://zh.wikipedia.org/wiki/東方不敗 "wikilink")，其他演员还有[關之琳](../Page/關之琳.md "wikilink")、[李嘉欣等](../Page/李嘉欣.md "wikilink")。
 
 ## 劇情
 

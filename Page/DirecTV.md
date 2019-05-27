@@ -42,7 +42,7 @@ networks（位在澳洲）共同構成一個全球性的衛星電視公司。
   - 1998年，DirecTV以13億美元收併其商業合作夥伴[美國衛星廣播](https://zh.wikipedia.org/wiki/美國衛星廣播 "wikilink")（United
     States Satellite
     Broadcasting，簡稱USSB）。1999年，DirecTV以18.3億美元收併PrimeStar。2003年，DirecTV與[EchoStar合併](https://zh.wikipedia.org/wiki/EchoStar "wikilink")，EchoStar的原擁有者[Dish
-    Network同意將EchoStar釋出](https://zh.wikipedia.org/wiki/Dish_Network "wikilink")。
+    Network同意將EchoStar釋出](../Page/Dish_Network.md "wikilink")。
 
 <!-- end list -->
 

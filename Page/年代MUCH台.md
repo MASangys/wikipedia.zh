@@ -18,7 +18,7 @@
       - [錢定遠](../Page/錢定遠.md "wikilink")
       - [鄧國雄](https://zh.wikipedia.org/wiki/鄧國雄 "wikilink")（現[FOX體育台主播](../Page/FOX體育台.md "wikilink")）
       - \-{[蔡明里](../Page/蔡明里.md "wikilink")}-（現[緯來體育臺主播](../Page/緯來體育台.md "wikilink")）
-      - [張致平](https://zh.wikipedia.org/wiki/張致平 "wikilink")（現[FOX體育台副總經理](../Page/FOX體育台.md "wikilink")）
+      - [張致平](../Page/張致平.md "wikilink")（現[FOX體育台副總經理](../Page/FOX體育台.md "wikilink")）
       - [徐展元](../Page/徐展元.md "wikilink")（現[博斯無限台台長](https://zh.wikipedia.org/wiki/博斯無限台 "wikilink")）
       - [林煒珽](https://zh.wikipedia.org/wiki/林煒珽 "wikilink")（現[FOX體育台主播](../Page/FOX體育台.md "wikilink")）
       - [林志隆](https://zh.wikipedia.org/wiki/林志隆 "wikilink")（現[愛爾達體育台球評及udn](https://zh.wikipedia.org/wiki/愛爾達體育台 "wikilink")
@@ -75,9 +75,9 @@
 <tbody>
 <tr class="odd">
 <td><center>
-<p>《<a href="https://zh.wikipedia.org/wiki/健康好生活" title="wikilink">健康好生活</a>》</p></td>
+<p>《<a href="../Page/健康好生活.md" title="wikilink">健康好生活</a>》</p></td>
 <td><p>週一至週五 18:00 ~ 19:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳凝觀" title="wikilink">陳凝觀</a></p></td>
+<td><p><a href="../Page/陳凝觀.md" title="wikilink">陳凝觀</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -93,7 +93,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p>《<a href="https://zh.wikipedia.org/wiki/MUCH金點秀" title="wikilink">MUCH金點秀</a>》</p></td>
+<p>《<a href="../Page/MUCH金點秀.md" title="wikilink">MUCH金點秀</a>》</p></td>
 <td><p>週一至週五 21:00 ~ 22:00</p></td>
 <td><p><a href="../Page/張秀卿.md" title="wikilink">張秀卿</a>、<a href="https://zh.wikipedia.org/wiki/邵大倫" title="wikilink">邵大倫</a></p></td>
 </tr>

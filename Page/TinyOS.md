@@ -4,7 +4,7 @@ network）开发。TinyOS使用[nesC语言编写](https://zh.wikipedia.org/wiki/
 
 ## 内容
 
-**TinyOS**中的程序使用[nesC编写](https://zh.wikipedia.org/wiki/nesC "wikilink")，这种语言是[C语言的一个分支](https://zh.wikipedia.org/wiki/C语言 "wikilink")，针对无线传感器网络的内存限制进行过特别的优化。相关的辅助工具则主要是由[Java和](../Page/Java.md "wikilink")[Shell脚本编写的前端](https://zh.wikipedia.org/wiki/Shell脚本 "wikilink")。其他相关的库和工具，例如NesC编译器和[Atmel
+**TinyOS**中的程序使用[nesC编写](https://zh.wikipedia.org/wiki/nesC "wikilink")，这种语言是[C语言的一个分支](https://zh.wikipedia.org/wiki/C语言 "wikilink")，针对无线传感器网络的内存限制进行过特别的优化。相关的辅助工具则主要是由[Java和](../Page/Java.md "wikilink")[Shell脚本编写的前端](../Page/Shell脚本.md "wikilink")。其他相关的库和工具，例如NesC编译器和[Atmel
 AVR二进制工具链则大部分用C编写](../Page/Atmel_AVR.md "wikilink")。
 
 TinyOS程序由基于[组件的](https://zh.wikipedia.org/wiki/组件 "wikilink")[软件工程建构](../Page/软件工程.md "wikilink")，它们中一些表现了硬件的抽象概念，

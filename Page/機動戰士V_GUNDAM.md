@@ -129,7 +129,7 @@ Gundam》，第一話[分鏡中的標題亦有沿用](../Page/分鏡.md "wikilin
   - キャラデザイン：[逢坂浩司](../Page/逢坂浩司.md "wikilink")
   - メカデザイン：[大河原邦男](../Page/大河原邦男.md "wikilink")、[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")、[石垣純哉](https://zh.wikipedia.org/wiki/石垣純哉 "wikilink")
   - 脚本：[桶谷顕](https://zh.wikipedia.org/wiki/桶谷顕 "wikilink")、[富田祐弘](https://zh.wikipedia.org/wiki/富田祐弘 "wikilink")、[園田英樹](https://zh.wikipedia.org/wiki/園田英樹 "wikilink")、[神戸一彦](https://zh.wikipedia.org/wiki/神戸一彦 "wikilink")
-  - 美術監督：[池田繁美](https://zh.wikipedia.org/wiki/池田繁美 "wikilink")
+  - 美術監督：[池田繁美](../Page/池田繁美.md "wikilink")
   - 色彩設計：小松佳江、中山昇
   - 撮影監督：奥井敦、大神洋一
   - 音響監督：浦上靖夫

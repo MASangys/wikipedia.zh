@@ -45,4 +45,4 @@
 
   - [巴基斯坦人民党](../Page/巴基斯坦人民党.md "wikilink")（；，缩写为PPP）
   - [人民進步黨](https://zh.wikipedia.org/wiki/人民進步黨 "wikilink")（），马来西亚的一个政党。
-  - [公共政策民調基金會](https://zh.wikipedia.org/wiki/公共政策民調基金會 "wikilink")（），一間美國的民意調查公司。
+  - [公共政策民調基金會](../Page/公共政策民調基金會.md "wikilink")（），一間美國的民意調查公司。

@@ -321,7 +321,7 @@ script存取主機存取清單](https://zh.wikipedia.org/wiki/Shell_script "wiki
         函式之前，就執行另一個新執行緒）。
     2.  當伺服器傳送的事件[不同步時](https://zh.wikipedia.org/wiki/不同步 "wikilink")，Xlib
         會把客戶端接收到的事件存放在[佇列裡](../Page/队列.md "wikilink")，客戶端程式只能以明確呼叫 X11
-        程式庫函式的方式來存取。換句話說，如果在等待事件時，會讓客戶端強制阻斷或[忙碌等待](https://zh.wikipedia.org/wiki/忙碌等待 "wikilink")。
+        程式庫函式的方式來存取。換句話說，如果在等待事件時，會讓客戶端強制阻斷或[忙碌等待](../Page/忙碌等待.md "wikilink")。
 2.  Xlib 不會立即傳送請求給伺服器，而是先存放在佇列中，這部分稱為**輸出緩衝**；輸出緩衝裡的請求會在以下情況真正傳送出去：
     1.  程式以程式庫所提供的函式，如 `XFlush`，明確要求。
     2.  程式所呼叫的函式，涉及伺服器的回應，如 `XGetWindowAttributes`。

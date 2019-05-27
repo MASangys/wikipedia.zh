@@ -14,7 +14,7 @@ over）函数的变量，和来自它们的粘合子（binder）；二阶lambda�
 
 在[Curry-Howard同构下](https://zh.wikipedia.org/wiki/Curry-Howard同构 "wikilink")，系统F对应于[二阶逻辑](https://zh.wikipedia.org/wiki/二阶逻辑 "wikilink")。
 
-系统F，和甚至更加有表达力的lambda演算一起，可被看作[Lambda立方体的一部分](https://zh.wikipedia.org/wiki/Lambda立方体 "wikilink")。
+系统F，和甚至更加有表达力的lambda演算一起，可被看作[Lambda立方体的一部分](../Page/Lambda立方体.md "wikilink")。
 
 ## 逻辑和谓词
 

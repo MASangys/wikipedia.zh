@@ -7,7 +7,7 @@ Carlsson等）到台灣表演車技的場地。
 
 ## 另見
 
-  - [大鵬灣國際賽車場](https://zh.wikipedia.org/wiki/大鵬灣國際賽車場 "wikilink")
+  - [大鵬灣國際賽車場](../Page/大鵬灣國際賽車場.md "wikilink")
 
 ## 參考資料
 

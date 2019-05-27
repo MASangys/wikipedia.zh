@@ -111,8 +111,7 @@ VMware 或 Xen
 ## 参见
 
   -
-  - [FreeBSD
-    jail](https://zh.wikipedia.org/wiki/FreeBSD_jail "wikilink")
+  - [FreeBSD jail](../Page/FreeBSD_jail.md "wikilink")
 
   - [Solaris
     Containers](https://zh.wikipedia.org/wiki/Solaris_Containers "wikilink")

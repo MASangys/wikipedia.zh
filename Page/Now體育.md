@@ -41,10 +41,8 @@ TV](https://zh.wikipedia.org/wiki/now_TV "wikilink")。
   - 第651頻道：**now 651**（預留頻道，為按賽事付費頻道）
   - 第668頻道：**[now668](https://zh.wikipedia.org/wiki/now668 "wikilink")**
   - 第670頻道：**[FOX SPORTS](../Page/FOX體育台.md "wikilink")**
-  - 第671頻道：**[FOX SPORTS
-    2](https://zh.wikipedia.org/wiki/FOX體育二台 "wikilink")**
-  - 第672頻道：**[FOX SPORTS
-    3](https://zh.wikipedia.org/wiki/FOX體育三台 "wikilink")**
+  - 第671頻道：**[FOX SPORTS 2](../Page/FOX體育二台.md "wikilink")**
+  - 第672頻道：**[FOX SPORTS 3](../Page/FOX體育三台.md "wikilink")**
   - 第674頻道：**STAR Cricket**
   - 第675頻道：**STAR Cricket+**（分流現場直播賽事）
   - 第679頻道：**Setanta Sports Channel**
@@ -83,7 +81,7 @@ now 英超 1台於賽季期間24小時播放，全程直播英超賽事，其餘
 
 now 英超 2-6台為後備頻道，分流現場直播英超賽事。
 
-（部分時段與[ViuTV](../Page/ViuTV.md "wikilink")、[ViuTVsix同步播出](https://zh.wikipedia.org/wiki/ViuTVsix "wikilink")）
+（部分時段與[ViuTV](../Page/ViuTV.md "wikilink")、[ViuTVsix同步播出](../Page/ViuTVsix.md "wikilink")）
 
 ### 頻道歷史
 
@@ -138,7 +136,7 @@ TV同步直播英超賽事及其相關節目。樂視體育香港於2018年5月�
 ### beIN - Now Sports 2
 
 高清及標清頻道**beIN - Now Sports 2**，並由Now TV和beIN
-SPORTS合作的全新頻道，主力播放足球賽事，包括[西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")、[西班牙國王盃](../Page/西班牙國王盃.md "wikilink")。（部分時段與[ViuTV](../Page/ViuTV.md "wikilink")、[ViuTVsix同步播出](https://zh.wikipedia.org/wiki/ViuTVsix "wikilink")）
+SPORTS合作的全新頻道，主力播放足球賽事，包括[西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")、[西班牙國王盃](../Page/西班牙國王盃.md "wikilink")。（部分時段與[ViuTV](../Page/ViuTV.md "wikilink")、[ViuTVsix同步播出](../Page/ViuTVsix.md "wikilink")）
 
 #### 直播高清賽事
 
@@ -398,7 +396,7 @@ Pacific](https://zh.wikipedia.org/wiki/歐洲體育頻道#Eurosport "wikilink")�
   - [陳智才](../Page/陳智才.md "wikilink")（羽毛球）
   - [吳錦池](https://zh.wikipedia.org/wiki/吳錦池 "wikilink")（排球）
   - [蕭希露](https://zh.wikipedia.org/wiki/蕭希露 "wikilink")（體操）
-  - [劉掌珠](https://zh.wikipedia.org/wiki/劉掌珠 "wikilink")（保齡球）
+  - [劉掌珠](../Page/劉掌珠.md "wikilink")（保齡球）
 
 ### 高爾夫球頻道
 

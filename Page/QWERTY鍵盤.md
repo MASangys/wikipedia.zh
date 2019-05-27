@@ -21,7 +21,7 @@ QWERTY鍵盤安排次序的原則，是减少打字機在打字時連動杆之�
 
 [Nokia_E55_01.jpg](https://zh.wikipedia.org/wiki/File:Nokia_E55_01.jpg "fig:Nokia_E55_01.jpg")
 E55上的HQ鍵盤\]\]
-HQ键盘是**H**alf-**Q**WERTY的缩写，是介于“[T9键盘](https://zh.wikipedia.org/wiki/T9键盘 "wikilink")”与“QWERTY键盘”之间，兼有数字键盘的简便且有QWERTY的快速输入功能的键盘。它的出现代表[互联网时代](https://zh.wikipedia.org/wiki/互联网时代 "wikilink")[手机的特色](https://zh.wikipedia.org/wiki/手机 "wikilink")。
+HQ键盘是**H**alf-**Q**WERTY的缩写，是介于“[T9键盘](https://zh.wikipedia.org/wiki/T9键盘 "wikilink")”与“QWERTY键盘”之间，兼有数字键盘的简便且有QWERTY的快速输入功能的键盘。它的出现代表[互联网时代](../Page/互联网时代.md "wikilink")[手机的特色](https://zh.wikipedia.org/wiki/手机 "wikilink")。
 
 ## 參考資料
 

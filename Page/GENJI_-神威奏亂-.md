@@ -19,7 +19,7 @@ GENJI的3年後，[源義經擊敗了平氏一族的平清盛](../Page/源義經
     [大塚明夫](../Page/大塚明夫.md "wikilink")　
   - [静御前](https://zh.wikipedia.org/wiki/静御前 "wikilink") -
     [戶田惠梨香](https://zh.wikipedia.org/wiki/戶田惠梨香 "wikilink")
-  - 九妖 - [長澤美樹](https://zh.wikipedia.org/wiki/長澤美樹 "wikilink")
+  - 九妖 - [長澤美樹](../Page/長澤美樹.md "wikilink")
   - 武尊 - [諏訪部順一](../Page/諏訪部順一.md "wikilink")
   - [源頼朝](https://zh.wikipedia.org/wiki/源頼朝 "wikilink")
   - [平敦盛](../Page/平敦盛.md "wikilink")

@@ -50,7 +50,7 @@
 
 ## 游戏
 
-  - **pm**：2012年底KONAMI公司发布的游戏——[流行音乐](https://zh.wikipedia.org/wiki/流行音乐_\(游戏\) "wikilink")（Pop'N
+  - **pm**：2012年底KONAMI公司发布的游戏——[流行音乐](../Page/流行音乐_\(游戏\).md "wikilink")（Pop'N
     Music）的另一称呼。
   - **pac-man**:1980由南夢宮公司的岩谷徹設計,遊戲於1980年10月由Midway
     Games公司在美國發行,缺了一角的薄餅是岩谷徹創作此遊戲的靈感來源。

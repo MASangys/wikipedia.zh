@@ -38,7 +38,7 @@ C2008）在国外都是以兩節或三節短編組运行，所以中国國內[�
 
 新型CRH1A动车组列车配备了613个座椅，比原CRH1A型车减少32个；其中，一等座只分布于1号车厢，共48个座位，原CRH1A型8号车的一等座改为二等座，取消了原有的一等座包座。跟最早版本CRH1A二等座座位不可转动相比，CRH1A-A型车二等座座椅可通过扶手内侧功能按钮来调节椅背。另外，跟原CRH1A只在一等座车厢配备充电插头相比，新1A在每排座位下面都设置了充电插座。在车厢设计上CRH1A-A取消了原两舱式设计，通体皆为大舱；每节车厢由原先的2个车门改为4个，并在车厢连接处设置了大件行李存放处。
 
-2015年8月11日，首列CRH1A-A列车CRH1A-1169[沪昆高铁](https://zh.wikipedia.org/wiki/沪昆高铁 "wikilink")[广铁管内](https://zh.wikipedia.org/wiki/广铁 "wikilink")[长沙南](../Page/长沙南站.md "wikilink")-[怀化南区间开始进行](https://zh.wikipedia.org/wiki/怀化南站 "wikilink")30万公里运用考核。\[7\]
+2015年8月11日，首列CRH1A-A列车CRH1A-1169[沪昆高铁](https://zh.wikipedia.org/wiki/沪昆高铁 "wikilink")[广铁管内](https://zh.wikipedia.org/wiki/广铁 "wikilink")[长沙南](../Page/长沙南站.md "wikilink")-[怀化南区间开始进行](../Page/怀化南站.md "wikilink")30万公里运用考核。\[7\]
 
 2016年3月，CRH1A-A型动车从广州直抵[粤海铁路有限责任公司三亚动车所](https://zh.wikipedia.org/wiki/粤海铁路有限责任公司 "wikilink")，开始在环岛高铁试运行。\[8\]2016年10月24日，CRH1A-A型动车正式配属，CRH1A-A-1171\~1178配属[广州铁路集团](https://zh.wikipedia.org/wiki/广州铁路集团 "wikilink")（现广州局集团）三亚动车所。
 
@@ -1035,7 +1035,7 @@ ZE 1xxx00</p></td>
 
   - 座位无法旋转：最早出厂的21组CRH1A（编号1001～1021）列車，一等座及二等座（定员101人）均沒有迴轉座椅設備，導致座椅方向不能調校，所以整列列車大約有一半乘客会坐反向座位（倒後位），容易引致乘客不適。而其后的19组的CRH1A（編號1022～1040）及CRH1E作出了改进，通过减少定员（定员92人），使大部分座椅（二等座車／餐車除外）可以迴轉，但是迴轉座椅設備的可靠性比[CRH2](https://zh.wikipedia.org/wiki/和諧號CRH2型電力動車組 "wikilink")、[CRH3和](https://zh.wikipedia.org/wiki/和諧號CRH3型電力動車組 "wikilink")[CRH5等动车组差](https://zh.wikipedia.org/wiki/和諧號CRH5型電力動車組 "wikilink")，而且部分座椅仍不能調校。
   - 座椅角度：大部分CRH1的二等車廂的座椅均不能調校角度，而所有CRH2、CRH3和部分CRH5的二等車廂的座椅均能調校角度。后期生产的CRH1E-250、CRH1A-250型列车解决了这个问题。
-  - 車廂振動：根据不完全的测试结果，由於CRH1型电力动车组採用[不鏽鋼車身](../Page/不鏽鋼.md "wikilink")，時速達130km/h左右时，会和部分较旧[鐵軌产生](https://zh.wikipedia.org/wiki/鐵軌 "wikilink")[共振](../Page/共振.md "wikilink")（目前已知[广深铁路](https://zh.wikipedia.org/wiki/广深铁路 "wikilink")、[遂成铁路和](https://zh.wikipedia.org/wiki/遂成铁路 "wikilink")[沪昆铁路存在此现象](https://zh.wikipedia.org/wiki/沪昆铁路 "wikilink")），車身會振動，這種情況是其他CRH系列所沒有的。
+  - 車廂振動：根据不完全的测试结果，由於CRH1型电力动车组採用[不鏽鋼車身](../Page/不鏽鋼.md "wikilink")，時速達130km/h左右时，会和部分较旧[鐵軌产生](https://zh.wikipedia.org/wiki/鐵軌 "wikilink")[共振](../Page/共振.md "wikilink")（目前已知[广深铁路](https://zh.wikipedia.org/wiki/广深铁路 "wikilink")、[遂成铁路和](../Page/遂成铁路.md "wikilink")[沪昆铁路存在此现象](https://zh.wikipedia.org/wiki/沪昆铁路 "wikilink")），車身會振動，這種情況是其他CRH系列所沒有的。
   - 乘客上下速度慢：在大客流多停站的线路（如[达成铁路](../Page/达成铁路.md "wikilink")），每节车厢单侧单车门设计的CRH1上下乘客的速度很慢，在高峰期经常造成列车晚点。
   - 过隧道时的耳鸣感：在隧道较长且较为密集的线路（如[甬台温铁路](../Page/甬台温铁路.md "wikilink")、[温福铁路和](../Page/温福铁路.md "wikilink")[遂渝铁路](../Page/遂渝铁路.md "wikilink")），由于车体气密性的原因，在列车高速运行中进出隧道，会使大部分乘客产生强烈的耳鸣感，有小部分人甚至难以忍受；
     而这种情况在CRH2上几乎不存在，绝大部分乘客不会有耳鸣的感觉。
@@ -1052,16 +1052,16 @@ ZE 1xxx00</p></td>
   - [和谐号CRH5型电力动车组](../Page/和谐号CRH5型电力动车组.md "wikilink")
   - [和谐号CRH6型电力动车组](../Page/和谐号CRH6型电力动车组.md "wikilink")
   - [和谐号CJ1型电力动车组](../Page/和谐号CJ1型电力动车组.md "wikilink")
-  - [和谐号CJ2型电力动车组](https://zh.wikipedia.org/wiki/和谐号CJ2型电力动车组 "wikilink")
+  - [和谐号CJ2型电力动车组](../Page/和谐号CJ2型电力动车组.md "wikilink")
   - [和谐号CRH380A型电力动车组](https://zh.wikipedia.org/wiki/和谐号CRH380A型电力动车组 "wikilink")
   - [和谐号CRH380B型电力动车组](../Page/和谐号CRH380B型电力动车组.md "wikilink")
   - [和谐号CRH380C型电力动车组](../Page/和谐号CRH380C型电力动车组.md "wikilink")
   - [和谐号CRH380D型电力动车组](../Page/和谐号CRH380D型电力动车组.md "wikilink")
-  - [复兴号CR200J型电力动车组](https://zh.wikipedia.org/wiki/复兴号CR200J型电力动车组 "wikilink")
-  - [复兴号CR300AF型电力动车组](https://zh.wikipedia.org/wiki/复兴号CR300AF型电力动车组 "wikilink")
-  - [复兴号CR300BF型电力动车组](https://zh.wikipedia.org/wiki/复兴号CR300BF型电力动车组 "wikilink")
-  - [复兴号CR400AF型电力动车组](https://zh.wikipedia.org/wiki/复兴号CR400AF型电力动车组 "wikilink")
-  - [复兴号CR400BF型电力动车组](https://zh.wikipedia.org/wiki/复兴号CR400BF型电力动车组 "wikilink")
+  - [复兴号CR200J型电力动车组](../Page/复兴号CR200J型电力动车组.md "wikilink")
+  - [复兴号CR300AF型电力动车组](../Page/复兴号CR300AF型电力动车组.md "wikilink")
+  - [复兴号CR300BF型电力动车组](../Page/复兴号CR300BF型电力动车组.md "wikilink")
+  - [复兴号CR400AF型电力动车组](../Page/复兴号CR400AF型电力动车组.md "wikilink")
+  - [复兴号CR400BF型电力动车组](../Page/复兴号CR400BF型电力动车组.md "wikilink")
 
 ## 參考資料及注釋
 

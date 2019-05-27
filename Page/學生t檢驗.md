@@ -123,7 +123,7 @@ SE_{\\widehat\\beta} = \\frac{\\sqrt{\\frac{1}{n - 2}\\sum_{i=1}^n
 
 大多數的[試算表軟體及統計軟體](https://zh.wikipedia.org/wiki/試算表 "wikilink")，諸如[QtiPlot](../Page/QtiPlot.md "wikilink")、[OpenOffice.org
 Calc](../Page/OpenOffice.org_Calc.md "wikilink")、[LibreOffice
-Calc](https://zh.wikipedia.org/wiki/LibreOffice_Calc "wikilink")、[Microsoft
+Calc](../Page/LibreOffice_Calc.md "wikilink")、[Microsoft
 Excel](../Page/Microsoft_Excel.md "wikilink")、[SAS](https://zh.wikipedia.org/wiki/统计分析系统 "wikilink")、[SPSS](../Page/SPSS.md "wikilink")、[Stata](https://zh.wikipedia.org/wiki/Stata "wikilink")、[DAP](https://zh.wikipedia.org/wiki/DAP_\(software\) "wikilink")、[gretl](https://zh.wikipedia.org/wiki/gretl "wikilink")、[R](../Page/R语言.md "wikilink")、[Python](../Page/Python.md "wikilink")
 ([1](http://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html))、[PSPP](https://zh.wikipedia.org/wiki/PSPP "wikilink")、[Minitab等](../Page/Minitab.md "wikilink")，都可以進行*t*檢驗之運算。
 

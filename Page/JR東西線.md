@@ -9,7 +9,7 @@ JR東西線雖然是由JR西日本負責經營，但實際上軌道等硬體設�
 
 JR東西線的正式名稱中包括「JR」兩字\[1\]\[2\]。雖然在此之前[JR集團之下的各公司就已有在路線名稱前面加上](https://zh.wikipedia.org/wiki/JR集團 "wikilink")「JR」兩字的前例，如[JR京都線](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")、[JR神戶線等](../Page/JR神戶線.md "wikilink")，但後二者實際上是在[東海道本線](../Page/東海道本線.md "wikilink")、[山陽本線等正式路線上劃定部分路段區間進行營運時](../Page/山陽本線.md "wikilink")，所賦予的別名。因此，在正式路線名稱中包含「JR」兩字，JR東西線是第一條、也是迄今（2016年）為止唯一的一條案例。
 
-JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](https://zh.wikipedia.org/wiki/大都市近郊區間_\(JR\) "wikilink")「大阪近郊區間」。另外，本路線也屬於JR的，如果旅程的起訖點都屬於此區間範圍內的車站時，即視為是通勤旅次，旅客只需負擔較標準車資更為折扣的費用。在車資收取的方式上，JR東西線全線所有車站都適用近畿地區通用的[IC](https://zh.wikipedia.org/wiki/IC卡 "wikilink")[儲值車票](https://zh.wikipedia.org/wiki/儲值車票 "wikilink")——[ICOCA](../Page/ICOCA.md "wikilink")。
+JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page/大都市近郊區間_\(JR\).md "wikilink")「大阪近郊區間」。另外，本路線也屬於JR的，如果旅程的起訖點都屬於此區間範圍內的車站時，即視為是通勤旅次，旅客只需負擔較標準車資更為折扣的費用。在車資收取的方式上，JR東西線全線所有車站都適用近畿地區通用的[IC](https://zh.wikipedia.org/wiki/IC卡 "wikilink")[儲值車票](https://zh.wikipedia.org/wiki/儲值車票 "wikilink")——[ICOCA](../Page/ICOCA.md "wikilink")。
 
 ### 路線資料
 
@@ -144,7 +144,7 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](https:/
 <td></td>
 <td><p>1.3</p></td>
 <td><p>2.2</p></td>
-<td><p>大阪市高速電氣軌道：<a href="https://zh.wikipedia.org/wiki/File:2T-2.png" title="fig:2T-2.png">2T-2.png</a> <a href="../Page/谷町線_(大阪市高速電氣軌道).md" title="wikilink">谷町線</a>、<a href="https://zh.wikipedia.org/wiki/File:6K.png" title="fig:6K.png">6K.png</a> <a href="../Page/堺筋線.md" title="wikilink">堺筋線</a> …<a href="https://zh.wikipedia.org/wiki/南森町站" title="wikilink">南森町</a></p></td>
+<td><p>大阪市高速電氣軌道：<a href="https://zh.wikipedia.org/wiki/File:2T-2.png" title="fig:2T-2.png">2T-2.png</a> <a href="../Page/谷町線_(大阪市高速電氣軌道).md" title="wikilink">谷町線</a>、<a href="https://zh.wikipedia.org/wiki/File:6K.png" title="fig:6K.png">6K.png</a> <a href="../Page/堺筋線.md" title="wikilink">堺筋線</a> …<a href="../Page/南森町站.md" title="wikilink">南森町</a></p></td>
 <td><p><a href="../Page/梅.md" title="wikilink">梅</a></p></td>
 <td><p><a href="../Page/北區_(大阪市).md" title="wikilink">北區</a></p></td>
 </tr>
@@ -156,7 +156,7 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](https:/
 <td><p>1.4</p></td>
 <td><p>3.6</p></td>
 <td><p>西日本旅客鐵道：<a href="../Page/東海道本線.md" title="wikilink">東海道本線</a>（ <a href="https://zh.wikipedia.org/wiki/JR京都線" title="wikilink">JR京都線</a>、 <a href="../Page/JR神戶線.md" title="wikilink">JR神戶線</a>、 <a href="../Page/福知山線.md" title="wikilink">JR寶塚線</a>）、 大阪環狀線 …<a href="https://zh.wikipedia.org/wiki/大阪站" title="wikilink">大阪</a>[14]<br />
-大阪市高速電氣軌道：<a href="https://zh.wikipedia.org/wiki/File:1M.png" title="fig:1M.png">1M.png</a> <a href="../Page/御堂筋線.md" title="wikilink">御堂筋線</a> …<a href="https://zh.wikipedia.org/wiki/梅田站_(大阪市高速電氣軌道)" title="wikilink">梅田</a>、<a href="https://zh.wikipedia.org/wiki/File:2T-2.png" title="fig:2T-2.png">2T-2.png</a> 谷町線 …<a href="https://zh.wikipedia.org/wiki/東梅田站" title="wikilink">東梅田</a>、<a href="https://zh.wikipedia.org/wiki/File:3Y-2.png" title="fig:3Y-2.png">3Y-2.png</a> <a href="../Page/四橋線.md" title="wikilink">四橋線</a> …<a href="../Page/西梅田站.md" title="wikilink">西梅田</a><br />
+大阪市高速電氣軌道：<a href="https://zh.wikipedia.org/wiki/File:1M.png" title="fig:1M.png">1M.png</a> <a href="../Page/御堂筋線.md" title="wikilink">御堂筋線</a> …<a href="https://zh.wikipedia.org/wiki/梅田站_(大阪市高速電氣軌道)" title="wikilink">梅田</a>、<a href="https://zh.wikipedia.org/wiki/File:2T-2.png" title="fig:2T-2.png">2T-2.png</a> 谷町線 …<a href="../Page/東梅田站.md" title="wikilink">東梅田</a>、<a href="https://zh.wikipedia.org/wiki/File:3Y-2.png" title="fig:3Y-2.png">3Y-2.png</a> <a href="../Page/四橋線.md" title="wikilink">四橋線</a> …<a href="../Page/西梅田站.md" title="wikilink">西梅田</a><br />
 <a href="../Page/阪神電氣鐵道.md" title="wikilink">阪神電氣鐵道</a>：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hanshin_Railway.png" title="fig:Number_prefix_Hanshin_Railway.png">Number_prefix_Hanshin_Railway.png</a> <a href="../Page/阪神本線.md" title="wikilink">本線</a> …<a href="https://zh.wikipedia.org/wiki/梅田站_(阪神)" title="wikilink">梅田</a><br />
 <a href="../Page/阪急電鐵.md" title="wikilink">阪急電鐵</a>：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kobe_line.png" title="fig:Number_prefix_Hankyu_Kobe_line.png">Number_prefix_Hankyu_Kobe_line.png</a> <a href="../Page/神戶本線.md" title="wikilink">神戶本線</a>、<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hankyū_Takarazuka_line.png" title="fig:Number_prefix_Hankyū_Takarazuka_line.png">Number_prefix_Hankyū_Takarazuka_line.png</a> <a href="../Page/寶塚本線.md" title="wikilink">寶塚本線</a>、<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kyoto_line.png" title="fig:Number_prefix_Hankyu_Kyoto_line.png">Number_prefix_Hankyu_Kyoto_line.png</a> <a href="../Page/京都本線.md" title="wikilink">京都本線</a>[15] …<a href="https://zh.wikipedia.org/wiki/梅田站_(阪急)" title="wikilink">梅田</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/稻穗" title="wikilink">稻穗</a></p></td>
@@ -182,7 +182,7 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](https:/
 <td><p>1.2</p></td>
 <td><p>6.0</p></td>
 <td><p>阪神電氣鐵道：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hanshin_Railway.png" title="fig:Number_prefix_Hanshin_Railway.png">Number_prefix_Hanshin_Railway.png</a> 本線 …<br />
-大阪市高速電氣軌道：<a href="https://zh.wikipedia.org/wiki/File:5S.png" title="fig:5S.png">5S.png</a> <a href="../Page/千日前線.md" title="wikilink">千日前線</a> …<a href="https://zh.wikipedia.org/wiki/野田阪神站" title="wikilink">野田阪神</a></p></td>
+大阪市高速電氣軌道：<a href="https://zh.wikipedia.org/wiki/File:5S.png" title="fig:5S.png">5S.png</a> <a href="../Page/千日前線.md" title="wikilink">千日前線</a> …<a href="../Page/野田阪神站.md" title="wikilink">野田阪神</a></p></td>
 <td><p><a href="../Page/多花紫藤.md" title="wikilink">野田藤</a></p></td>
 <td></td>
 </tr>
@@ -199,7 +199,7 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](https:/
 </tr>
 <tr class="even">
 <td><p>JR-H48</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:JR_area_HAN.png" title="fig:JR_area_HAN.png">JR_area_HAN.png</a>] <a href="https://zh.wikipedia.org/wiki/加島站" title="wikilink">加島</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:JR_area_HAN.png" title="fig:JR_area_HAN.png">JR_area_HAN.png</a>] <a href="../Page/加島站.md" title="wikilink">加島</a></p></td>
 <td></td>
 <td></td>
 <td><p>1.7</p></td>

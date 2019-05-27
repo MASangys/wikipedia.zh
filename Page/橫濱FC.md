@@ -260,7 +260,7 @@ Club）。然後他們仿效[巴塞羅拿採用的社會學模式](https://zh.wi
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年日本職業足球聯賽" title="wikilink">2014年</a></p></td>
+<td><p><a href="../Page/2014年日本職業足球聯賽.md" title="wikilink">2014年</a></p></td>
 <td><p>42</p></td>
 <td><p>55</p></td>
 <td><p>14</p></td>
@@ -274,7 +274,7 @@ Club）。然後他們仿效[巴塞羅拿採用的社會學模式](https://zh.wi
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2015年日本職業足球聯賽" title="wikilink">2015年</a></p></td>
+<td><p><a href="../Page/2015年日本職業足球聯賽.md" title="wikilink">2015年</a></p></td>
 <td><p>1</p></td>
 <td><p>3</p></td>
 <td><p>1</p></td>

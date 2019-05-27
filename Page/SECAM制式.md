@@ -3,7 +3,7 @@
 
 在[信号传输过程中](https://zh.wikipedia.org/wiki/信号 "wikilink")，[亮度信号每行传送](https://zh.wikipedia.org/wiki/亮度 "wikilink")，而两个[色差信号则逐行依次传送](../Page/色差.md "wikilink")，即用行错开传输时间的办法来避免同时传输时所产生的串色以及由其造成的彩色失真。
 
-SECAM制式特点是不怕[干扰](https://zh.wikipedia.org/wiki/干扰 "wikilink")，彩色效果好，但[兼容性差](https://zh.wikipedia.org/wiki/兼容性 "wikilink")。
+SECAM制式特点是不怕[干扰](https://zh.wikipedia.org/wiki/干扰 "wikilink")，彩色效果好，但[兼容性差](../Page/兼容性.md "wikilink")。
 
 [帧频为每秒](https://zh.wikipedia.org/wiki/帧频 "wikilink")25帧，扫描线625行，[隔行扫描](../Page/隔行扫描.md "wikilink")，画面比例4:3，[分辨率](../Page/分辨率.md "wikilink")720×576。
 

@@ -12,7 +12,7 @@ PCSX2就像它的前身[PCSX一樣](https://zh.wikipedia.org/wiki/PCSX "wikilink
 1394](../Page/IEEE_1394.md "wikilink")（i.Link）埠。不同的外掛程式，在[相容性和功能上可能會產生出不同的效果](https://zh.wikipedia.org/wiki/相容性 "wikilink")。
 
 此外，由於其相關的[版權考量和](https://zh.wikipedia.org/wiki/版權 "wikilink")[法律問題](../Page/法律.md "wikilink")，PCSX2需要自行提供PS2
-[BIOS文件](../Page/BIOS.md "wikilink")（从PS2主机提取），開發團隊不提供下載。2016年9月起，PCSX2能够通过PSX模式兼容部分[PlayStation的遊戲](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。\[6\]
+[BIOS文件](../Page/BIOS.md "wikilink")（从PS2主机提取），開發團隊不提供下載。2016年9月起，PCSX2能够通过PSX模式兼容部分[PlayStation的遊戲](../Page/PlayStation.md "wikilink")。\[6\]
 
 ### 64位元延伸
 
@@ -25,7 +25,7 @@ PCSX2就像它的前身[PCSX一樣](https://zh.wikipedia.org/wiki/PCSX "wikilink
 ## 特性
 
   - 支持即时存档
-  - 使用[动态重编译](https://zh.wikipedia.org/wiki/动态重编译 "wikilink")（JIT）
+  - 使用[动态重编译](../Page/动态重编译.md "wikilink")（JIT）
   - 支持跳过BIOS初始化屏幕，直接载入游戏
   - 使用[插件系统进行功能扩展](../Page/插件.md "wikilink")
 
@@ -73,7 +73,7 @@ Duo](https://zh.wikipedia.org/wiki/Core_2_Duo "wikilink")）並配合性能不�
 R520系列或是](https://zh.wikipedia.org/wiki/Radeon_R520 "wikilink")[GeForce
 7系列](https://zh.wikipedia.org/wiki/GeForce_7 "wikilink")）的電腦，已經能夠執行熱門的3D遊戲，像是《[最終幻想X](https://zh.wikipedia.org/wiki/最終幻想X "wikilink")》、[《戰神》系列等](https://zh.wikipedia.org/wiki/戰神_\(動作遊戲\) "wikilink")；且開發群與試用版使用者皆表示，這些遊戲已能夠完整模擬無誤。而現在PCSX2的團隊仍然還在開發著更有效率的模擬器版本。
 
-PCSX2引入了[动态重编译](https://zh.wikipedia.org/wiki/动态重编译 "wikilink")（[JIT](../Page/即時編譯.md "wikilink")），与[解释器相比](../Page/直譯器.md "wikilink")，执行效率大幅度提升。\[14\]
+PCSX2引入了[动态重编译](../Page/动态重编译.md "wikilink")（[JIT](../Page/即時編譯.md "wikilink")），与[解释器相比](../Page/直譯器.md "wikilink")，执行效率大幅度提升。\[14\]
 
 ## 硬件需求
 
@@ -90,15 +90,15 @@ Synthesizer圖形處理器。雖然PS2上的每一顆CPU都可以在多核心处
 ## 评价
 
 PCSX2一直深受欢迎。的Matthew Humphries称其为“了不起的作品”。\[17\]尽管[PC
-World的Alex](https://zh.wikipedia.org/wiki/PC_World "wikilink")
-Garrett和的David Hayward批评了模拟器设置较为复杂，但仍称之为杰作。\[18\]\[19\]的Brandon
+World的Alex](../Page/PC_World.md "wikilink") Garrett和的David
+Hayward批评了模拟器设置较为复杂，但仍称之为杰作。\[18\]\[19\]的Brandon
 Widder将PCSX2列入他的“最佳模拟器”文章中。\[20\]
 
 ## 另见
 
   - [游戏机模拟器列表](https://zh.wikipedia.org/wiki/游戏机模拟器列表 "wikilink")
   - [Dolphin](../Page/Dolphin_\(模擬器\).md "wikilink")，同世代[GameCube模拟器](https://zh.wikipedia.org/wiki/GameCube "wikilink")
-  - [RPCS3](https://zh.wikipedia.org/wiki/RPCS3 "wikilink")，[PlayStation
+  - [RPCS3](../Page/RPCS3.md "wikilink")，[PlayStation
     3模拟器](../Page/PlayStation_3.md "wikilink")
 
 ## 參考資料

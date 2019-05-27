@@ -50,7 +50,7 @@ ThreeSixty Supermarket TheLandmark.jpg|結業前的置地廣塲分店
 <!-- end list -->
 
   - [ION
-    Orchard](https://zh.wikipedia.org/wiki/ION_Orchard "wikilink")4樓（2009年開業，2012年10月結業）
+    Orchard](../Page/ION_Orchard.md "wikilink")4樓（2009年開業，2012年10月結業）
 
 ## 參考資料
 

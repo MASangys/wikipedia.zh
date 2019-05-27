@@ -16,7 +16,7 @@
 
 ## 角色
 
-  - <small>請參照**「[野球長打王登場人物](https://zh.wikipedia.org/wiki/野球長打王登場人物 "wikilink")」**</small>
+  - <small>請參照**「[野球長打王登場人物](../Page/野球長打王登場人物.md "wikilink")」**</small>
 
 ## 備註
 

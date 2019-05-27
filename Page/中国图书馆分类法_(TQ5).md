@@ -135,7 +135,7 @@
 ::::\*TQ529.2 间接液化
 
 ::\*TQ53
-[煤化学及](https://zh.wikipedia.org/wiki/煤化学 "wikilink")[煤的加工利用](../Page/煤.md "wikilink")
+[煤化学及](../Page/煤化学.md "wikilink")[煤的加工利用](../Page/煤.md "wikilink")
 
 :::\*TQ530 煤化学基础理论
 

@@ -25,7 +25,7 @@
 | [元華](../Page/元華.md "wikilink")                           | 豹強      | 猜霸手下    |
 | [曾江](../Page/曾江.md "wikilink")                           | 猜霸      | 販毒集團首腦  |
 | [顧美華](../Page/顧美華.md "wikilink")                         | 程穎思     | 猜霸之妻    |
-| [王霄](https://zh.wikipedia.org/wiki/王霄_\(演員\) "wikilink") | Pierre  | 猜霸手下    |
+| [王霄](../Page/王霄_\(演員\).md "wikilink")                    | Pierre  | 猜霸手下    |
 | [盧惠光](../Page/盧惠光.md "wikilink")                         |         | 猜霸手下    |
 | [薛春煒](https://zh.wikipedia.org/wiki/薛春煒 "wikilink")      |         | 猜霸手下    |
 | [羅烈](../Page/羅烈.md "wikilink")                           | 將軍      | 毒品供應商   |

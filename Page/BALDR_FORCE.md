@@ -894,7 +894,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 <!-- end list -->
 
   - 計劃二
-    研究以腦內晶片提高[腦部思考能力](https://zh.wikipedia.org/wiki/腦部 "wikilink")、唯一一個有兩位（一男一女）實驗體的計劃。男性實驗體方面是強化[右腦以提高](https://zh.wikipedia.org/wiki/右腦 "wikilink")[直覺](https://zh.wikipedia.org/wiki/直覺 "wikilink")、感官、運動神經。女性實驗體方面是強化[左腦以提高](https://zh.wikipedia.org/wiki/左腦 "wikilink")[智商](../Page/智商.md "wikilink")、記憶力、思考力。
+    研究以腦內晶片提高[腦部思考能力](https://zh.wikipedia.org/wiki/腦部 "wikilink")、唯一一個有兩位（一男一女）實驗體的計劃。男性實驗體方面是強化[右腦以提高](../Page/右腦.md "wikilink")[直覺](https://zh.wikipedia.org/wiki/直覺 "wikilink")、感官、運動神經。女性實驗體方面是強化[左腦以提高](https://zh.wikipedia.org/wiki/左腦 "wikilink")[智商](../Page/智商.md "wikilink")、記憶力、思考力。
     男性方面以元霸為實驗體。實驗大致上成功，但副作用是過度強化後，他的本能衝動會比一般人強很多，導致他易怒、情緒不穩，且對性、暴力等行為異常熱衷而無法自控。雖然在施展惡行時了解這是不對的而有內疚的情緒，但無法停止。在憐路線的十一章「彼方」中，與透在山中小屋對決前，希望透能戰勝自己而得到解脫，在戰敗後對透表示謝意，並希望透能讓憐也解脫。\[25\]。
     女性方面以巴傑拉為實驗體。實驗也是大致上成功，副作用**聲稱**是情緒不穩，但看不出是，而且匡認為她副作用十分輕。實際上的副作用應是身體停止生長。因為身體停留在小女孩的狀態，巴傑拉對於胸部的大小似乎非常在意。
 

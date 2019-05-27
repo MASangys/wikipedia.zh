@@ -661,7 +661,7 @@ GUNDAM中繼承洗牌同盟的成員分別來自新日本、新中國、新美�
 遊戲
 
   - ([超級任天堂](../Page/超級任天堂.md "wikilink"))機動武鬥傳G高達
-  - ([PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink"))機動武鬥傳G高達
+  - ([PlayStation](../Page/PlayStation.md "wikilink"))機動武鬥傳G高達
 
 關連遊戲
 
@@ -674,7 +674,7 @@ GUNDAM中繼承洗牌同盟的成員分別來自新日本、新中國、新美�
   - ([PlayStation
     3](../Page/PlayStation_3.md "wikilink")/[XBOX360](https://zh.wikipedia.org/wiki/XBOX360 "wikilink"))[鋼彈無雙3](https://zh.wikipedia.org/wiki/鋼彈無雙3 "wikilink")
   - ([PlayStation 4](../Page/PlayStation_4.md "wikilink")/[Nintendo
-    Switch](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink"))[超級機器人大戰T](https://zh.wikipedia.org/wiki/超級機器人大戰T "wikilink")
+    Switch](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink"))[超級機器人大戰T](../Page/超級機器人大戰T.md "wikilink")
 
 設定集
 

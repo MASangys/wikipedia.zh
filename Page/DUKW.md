@@ -11,8 +11,8 @@ Speir（麻省理工學院中尉）設計，[美國國防部科研委員會及](
 
 *DUKW*的名字其實是軍隊中的[雙關語](https://zh.wikipedia.org/wiki/雙關語 "wikilink")，亦是[二戰時](https://zh.wikipedia.org/wiki/二戰 "wikilink")[美軍軍用車輛術語](https://zh.wikipedia.org/wiki/美軍 "wikilink")，其中**D**是設計年份“designed”（1942年），**U**解作“utility”（兩棲／多用途車輛），**K**解作[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，**W**解為兩條驅動後軸\[1\]。初期量產試驗的DUKW為六輪軍其於[GMC
 ACKWX](https://zh.wikipedia.org/wiki/GMC_ACKWX "wikilink")（[GMC
-CCKW的COE版本](https://zh.wikipedia.org/wiki/GMC_CCKW "wikilink")）[平頭車](https://zh.wikipedia.org/wiki/平頭車 "wikilink")（cab-over-engine）而設計，裝有防水車殼及螺旋槳，最終定型的量產版本改為基於[GMC
-CCKW原版](https://zh.wikipedia.org/wiki/GMC_CCKW "wikilink")，DUKW裝有4.416公升[GMC直-6引擎](https://zh.wikipedia.org/wiki/GMC直-6引擎 "wikilink")，總重7.5噸，水上時速為10公里，陸上為80公里，長9.3米，寬2.4米，高2.6米（連帆布頂篷），戰時制造了超過21000架。由於要減低在水上航行時的重量及提高穩定性，車身只裝有1/8及1/16寸的鋼鐵薄板，所以DUKW並非裝甲車輛，但配備高力量船底水泵以防薄車殼在水中穿孔時沉沒。
+CCKW的COE版本](../Page/GMC_CCKW.md "wikilink")）[平頭車](https://zh.wikipedia.org/wiki/平頭車 "wikilink")（cab-over-engine）而設計，裝有防水車殼及螺旋槳，最終定型的量產版本改為基於[GMC
+CCKW原版](../Page/GMC_CCKW.md "wikilink")，DUKW裝有4.416公升[GMC直-6引擎](https://zh.wikipedia.org/wiki/GMC直-6引擎 "wikilink")，總重7.5噸，水上時速為10公里，陸上為80公里，長9.3米，寬2.4米，高2.6米（連帆布頂篷），戰時制造了超過21000架。由於要減低在水上航行時的重量及提高穩定性，車身只裝有1/8及1/16寸的鋼鐵薄板，所以DUKW並非裝甲車輛，但配備高力量船底水泵以防薄車殼在水中穿孔時沉沒。
 
 DUKW是第一種可在駕駛室內改變輪胎氣壓的車輛，輪胎可完全充氣以應付硬地路面，亦可降低輪胎氣壓以應付如沙灘的軟陸，其後大量軍用車輛亦裝備此功能。
 

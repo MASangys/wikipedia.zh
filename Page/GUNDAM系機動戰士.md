@@ -115,7 +115,7 @@ C.E.世界觀裡的鋼彈系MS的定義主要在於OS的全名首字母縮寫為
 
 GUNDAM在故事開始以前就持有「傳說中的救世主」的稱號。故事中菲力特以亞斯諾家代代相傳的記憶組件「AGE裝置」裡留下的資料為基礎，開發了名為GUNDAM的機動戰士。而它的胸部中央有個「A」字，是「AGE」的意思。啟動GUNDAM時需要將AGE裝置放在指定位置。
 
-### RC世纪（Regild Century(R.C.)《[GUNDAM_G之复国运动](https://zh.wikipedia.org/wiki/GUNDAM_G之复国运动 "wikilink")》）
+### RC世纪（Regild Century(R.C.)《[GUNDAM_G之复国运动](../Page/GUNDAM_G之复国运动.md "wikilink")》）
 
 宇宙世纪终结后的世纪。
 

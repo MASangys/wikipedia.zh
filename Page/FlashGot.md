@@ -40,8 +40,7 @@ Plus](https://zh.wikipedia.org/wiki/Download_Accelerator_Plus "wikilink")
 [DownloadStudio](https://zh.wikipedia.org/wiki/DownloadStudio "wikilink")
 / [FlashGet](https://zh.wikipedia.org/wiki/FlashGet "wikilink")
 （[快车](../Page/快车.md "wikilink")） / [Free Download
-Manager](https://zh.wikipedia.org/wiki/Free_Download_Manager "wikilink")
-/ [Fresh
+Manager](../Page/Free_Download_Manager.md "wikilink") / [Fresh
 Download](https://zh.wikipedia.org/wiki/Fresh_Download "wikilink") /
 [GetRight](https://zh.wikipedia.org/wiki/GetRight "wikilink") /
 [GigaGet](https://zh.wikipedia.org/wiki/GigaGet "wikilink")（[迅雷的英文版](../Page/迅雷.md "wikilink")）

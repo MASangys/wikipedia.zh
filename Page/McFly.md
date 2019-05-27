@@ -41,8 +41,7 @@ Hour）。
 而McFLY主唱[湯姆·弗萊屈是樂隊歌曲創作的靈魂人物](../Page/湯姆·弗萊屈.md "wikilink")，作為一個專業的作詞人和作曲人，在他十二年的創作生涯，他更是最年輕的歌手於英國單曲榜10次奪冠和寫出了21首十大單曲，打破[羅比·威廉斯的紀錄](https://zh.wikipedia.org/wiki/羅比·威廉斯 "wikilink")。（指參與創作，包括McFLY的7首冠軍單曲及為[霸子所寫的](https://zh.wikipedia.org/wiki/霸子 "wikilink")「Thunderbirds
 Are Go」，「Who's David」及 「Crashed The
 Wedding」）他其後更為其他年輕樂隊寫歌，包括[一世代](https://zh.wikipedia.org/wiki/一世代 "wikilink")（One
-Direction）和[到暑五秒](https://zh.wikipedia.org/wiki/到暑五秒 "wikilink")（5
-Seconds of Summer）。
+Direction）和[到暑五秒](../Page/到暑五秒.md "wikilink")（5 Seconds of Summer）。
 
 [湯姆·弗萊屈與隊友](../Page/湯姆·弗萊屈.md "wikilink")[道基·波伊特合作在](../Page/道基·波伊特.md "wikilink")2012年發行了第一本兒童小說《*The
 Dinosaur that Pooped Christmas*》，銷售超過72000本。

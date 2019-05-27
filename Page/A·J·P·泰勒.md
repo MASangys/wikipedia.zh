@@ -112,10 +112,10 @@ L. Rowse）等等。此外，亦有不少史家撰寫有關第二次世界大戰
 
 一如英國，當《第二次世界大戰的起源》於1962年1月在[美國發行的時候](https://zh.wikipedia.org/wiki/美國 "wikilink")，也遭到了輿論一致憤怒的抨擊。幾乎每一位美國史家都對該書留下了負面的書評。相反新納粹主義組織卻宣稱泰勒的《第二次世界大戰的起源》已「宣判」希特勒無罪，不須負上戰責，而且更稱譽於泰勒。泰勒對此備受困擾，除了多次強調自己與新納粹主義份子沒有絲毫關係外，又高調表明自己對新納粹主義感到極度反感。
 
-泰勒對[意大利的評價也成為學界的批評要項](../Page/意大利.md "wikilink")。泰勒形容[墨索里尼是一個愛出風頭的人](https://zh.wikipedia.org/wiki/墨索里尼 "wikilink")，但背後卻是一個無能笨拙，沒有任何信仰的領導人。他又點出墨索里尼最初幫助英國和法國組成[斯特雷薩陣線](https://zh.wikipedia.org/wiki/斯特雷薩陣線 "wikilink")，以抗衡德國，只是因為意大利後來因入侵[阿比西尼亞而被](https://zh.wikipedia.org/wiki/阿比西尼亞 "wikilink")[國際聯盟](https://zh.wikipedia.org/wiki/國際聯盟 "wikilink")[制裁一事](https://zh.wikipedia.org/wiki/制裁 "wikilink")，才使墨索里尼轉投納粹德國。近年來，不少[意大利歷史學家對此作出挑戰](https://zh.wikipedia.org/wiki/意大利歷史 "wikilink")，他們認為墨索里尼信奉以「生存空間」為外交方針，並視[地中海](../Page/地中海.md "wikilink")、[巴爾幹半島](https://zh.wikipedia.org/wiki/巴爾幹半島 "wikilink")、[中東和](https://zh.wikipedia.org/wiki/中東 "wikilink")[非洲之角之土地為他們所應得的](../Page/非洲之角.md "wikilink")。只不過是因為英、法兩國盤踞地中海才使意大利之國力不能伸張。
+泰勒對[意大利的評價也成為學界的批評要項](../Page/意大利.md "wikilink")。泰勒形容[墨索里尼是一個愛出風頭的人](https://zh.wikipedia.org/wiki/墨索里尼 "wikilink")，但背後卻是一個無能笨拙，沒有任何信仰的領導人。他又點出墨索里尼最初幫助英國和法國組成[斯特雷薩陣線](https://zh.wikipedia.org/wiki/斯特雷薩陣線 "wikilink")，以抗衡德國，只是因為意大利後來因入侵[阿比西尼亞而被](https://zh.wikipedia.org/wiki/阿比西尼亞 "wikilink")[國際聯盟](../Page/國際聯盟.md "wikilink")[制裁一事](https://zh.wikipedia.org/wiki/制裁 "wikilink")，才使墨索里尼轉投納粹德國。近年來，不少[意大利歷史學家對此作出挑戰](https://zh.wikipedia.org/wiki/意大利歷史 "wikilink")，他們認為墨索里尼信奉以「生存空間」為外交方針，並視[地中海](../Page/地中海.md "wikilink")、[巴爾幹半島](https://zh.wikipedia.org/wiki/巴爾幹半島 "wikilink")、[中東和](https://zh.wikipedia.org/wiki/中東 "wikilink")[非洲之角之土地為他們所應得的](../Page/非洲之角.md "wikilink")。只不過是因為英、法兩國盤踞地中海才使意大利之國力不能伸張。
 
 最後，泰勒亦因為以「腐化墮落」（La
-décadence）形容[第三共和而備受批評](https://zh.wikipedia.org/wiki/第三共和 "wikilink")。泰勒認為，法國第三共和是一個衰落的政權，政治不穩、黨派分裂、政壇頻頻更迭、貪污嚴重，加上種種失業、罷工、暴動和民眾失望的情緒，使第三共和瀕臨於左翼和右翼間的內戰。在第三共和的眾多總理中，只有對[人民陣線政府的](https://zh.wikipedia.org/wiki/人民陣線 "wikilink")[萊昂·布魯姆較有好感](https://zh.wikipedia.org/wiki/萊昂·布魯姆 "wikilink")，認為他在任內有切實推行社會改革。不少[法國的史學都認同泰勒的觀點](../Page/法國歷史.md "wikilink")，但他們多不認同他以過份諷刺的手法來描寫法國政治。
+décadence）形容[第三共和而備受批評](https://zh.wikipedia.org/wiki/第三共和 "wikilink")。泰勒認為，法國第三共和是一個衰落的政權，政治不穩、黨派分裂、政壇頻頻更迭、貪污嚴重，加上種種失業、罷工、暴動和民眾失望的情緒，使第三共和瀕臨於左翼和右翼間的內戰。在第三共和的眾多總理中，只有對[人民陣線政府的](../Page/人民陣線.md "wikilink")[萊昂·布魯姆較有好感](https://zh.wikipedia.org/wiki/萊昂·布魯姆 "wikilink")，認為他在任內有切實推行社會改革。不少[法國的史學都認同泰勒的觀點](../Page/法國歷史.md "wikilink")，但他們多不認同他以過份諷刺的手法來描寫法國政治。
 
 雖然泰勒因為此書而備受非議，但《第二次世界大戰的起源》一書仍然在[史學史的範疇內](https://zh.wikipedia.org/wiki/史學史 "wikilink")，被視為研究第二次世界大戰起源的分水嶺。以下列出一些史家對此書的一些褒獎梗要：
 

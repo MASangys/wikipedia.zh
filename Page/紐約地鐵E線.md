@@ -164,7 +164,7 @@ E線在任何時候都營運，來往的[牙買加中心-帕森斯/射手和](ht
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/射手大道線" title="wikilink">射手大道支線</a></strong></p></td>
+<td><p><strong><a href="../Page/射手大道線.md" title="wikilink">射手大道支線</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -307,7 +307,7 @@ E線在任何時候都營運，來往的[牙買加中心-帕森斯/射手和](ht
 <td><p><a href="https://zh.wikipedia.org/wiki/傑克遜高地-羅斯福大道車站_(IND皇后林蔭路線)" title="wikilink">傑克遜高地-羅斯福大道</a></p></td>
 <td></td>
 <td></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）<br />
+<td><p>（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）<br />
 </p></td>
 <td><p>線巴士往<a href="https://zh.wikipedia.org/wiki/拉瓜迪亞機場" title="wikilink">拉瓜迪亞機場</a><br />
 <br />
@@ -374,8 +374,8 @@ E線在任何時候都營運，來往的[牙買加中心-帕森斯/射手和](ht
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Aiga_elevator.svg" title="fig:Aiga_elevator.svg">Aiga_elevator.svg</a></p></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IND跨城線" title="wikilink">IND跨城線</a>）<br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）</p></td>
+（<a href="../Page/IND跨城線.md" title="wikilink">IND跨城線</a>）<br />
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -441,7 +441,7 @@ E線在任何時候都營運，來往的[牙買加中心-帕森斯/射手和](ht
 <td></td>
 <td><p><br />
 （<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>）<br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）<br />
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）<br />
 （<a href="https://zh.wikipedia.org/wiki/BMT百老匯線" title="wikilink">BMT百老匯線</a>）<br />
 （<a href="../Page/42街接駁線.md" title="wikilink">42街接駁線</a>）<br />
 ，<a href="https://zh.wikipedia.org/wiki/時報廣場-42街車站" title="wikilink">時報廣場-42街</a></p></td>

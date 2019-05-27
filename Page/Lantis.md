@@ -1,5 +1,5 @@
 **Lantis股份有限公司**（Lantis，一部分的CD上記載為Lantis Records
-Co.,Ltd.）原是與[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[聲優相關的](../Page/聲優.md "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")，為[萬代影視的](../Page/萬代.md "wikilink")[子公司](../Page/子公司.md "wikilink")，實際上擔任[萬代南夢宮集團的音樂軟體事業](https://zh.wikipedia.org/wiki/萬代南夢宮控股 "wikilink")。現已與[萬代影視一起被](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")[萬代南夢宮控股重組為新的子公司](https://zh.wikipedia.org/wiki/萬代南夢宮控股 "wikilink")。
+Co.,Ltd.）原是與[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[聲優相關的](../Page/聲優.md "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")，為[萬代影視的](../Page/萬代.md "wikilink")[子公司](../Page/子公司.md "wikilink")，實際上擔任[萬代南夢宮集團的音樂軟體事業](https://zh.wikipedia.org/wiki/萬代南夢宮控股 "wikilink")。現已與[萬代影視一起被](../Page/萬代影視.md "wikilink")[萬代南夢宮控股重組為新的子公司](https://zh.wikipedia.org/wiki/萬代南夢宮控股 "wikilink")。
 
 公司名稱為《[魔法陣都市](../Page/魔法陣都市.md "wikilink")》原作者[麻宮騎亞所命名](../Page/麻宮騎亞.md "wikilink")\[1\]。取自傳說大陸[亞特蘭提斯](https://zh.wikipedia.org/wiki/亞特蘭提斯 "wikilink")（Atlantis），寄予公司繁榮的期望\[2\]。
 
@@ -19,7 +19,7 @@ The
 Run**（『MellowHead』廠牌），（在2006年8月31日被母公司的Lantis吸收合併。『MellowHead』成為該公司旗下廠牌之一）。
 
 2014年9月，與 [Amuse](../Page/Amuse.md "wikilink") 和 [BANDAI NAMCO Live
-Creative](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")
+Creative](../Page/萬代影視.md "wikilink")
 兩家公司就**動畫相關內容的海外發展**發表締結業務合作聲明\[3\]。海外拓展的內容包含：
 
   -
@@ -27,15 +27,15 @@ Creative](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")
     Lantis、BANDAI NAMCO Live Creative 所有版權的**動漫歌曲**（於
     [ASMART](https://www.asmart.jp/) 上架）、
     動漫相關活動（如 **[Lantis
-    Festival](https://zh.wikipedia.org/wiki/Lantis_Festival "wikilink")**
-    和 [**Anisong World
+    Festival](../Page/Lantis_Festival.md "wikilink")** 和 [**Anisong
+    World
     Matsuri**](http://www.anime-expo.org/anisong-world-matsuri-2017/)）。
 
 為拓展至[歐洲市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，於2016年1月再與 Amuse
 合資設立 [AmuseLantis Europe
 S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]，並於同年4月正式啟用\[5\]。
 
-2018年4月1日，與[萬代影視一起被](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")[萬代吸收合併](../Page/萬代.md "wikilink")，改名為新成立的，Lantis公司從此正式走入歷史\[6\]。而「Lantis」這個商標名稱由經過組織調整後的音樂部門繼承\[7\]。
+2018年4月1日，與[萬代影視一起被](../Page/萬代影視.md "wikilink")[萬代吸收合併](../Page/萬代.md "wikilink")，改名為新成立的，Lantis公司從此正式走入歷史\[6\]。而「Lantis」這個商標名稱由經過組織調整後的音樂部門繼承\[7\]。
 
 ## Lantis關係的藝人
 
@@ -486,8 +486,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [黑子的籃球](../Page/黑子的籃球.md "wikilink")
   - [激戰！彈珠人](../Page/激戰！彈珠人.md "wikilink")
   - [戀愛與選舉與巧克力](../Page/戀愛與選舉與巧克力.md "wikilink")
-  - [CØDE:BREAKER
-    法外制裁者](https://zh.wikipedia.org/wiki/CØDE:BREAKER_法外制裁者 "wikilink")
+  - [CØDE:BREAKER 法外制裁者](../Page/CØDE:BREAKER_法外制裁者.md "wikilink")
   - 極樂院女子高寮物語
   - [其中1個是妹妹！](../Page/其中1個是妹妹！.md "wikilink")
   - [咲-Saki- 阿知賀編](../Page/咲-Saki-.md "wikilink")
@@ -545,7 +544,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [魔女的使命](../Page/魔女的使命.md "wikilink")
   - [最近，妹妹的樣子有點怪？](../Page/最近，妹妹的樣子有點怪？.md "wikilink")
   - [BUDDY COMPLEX](../Page/BUDDY_COMPLEX.md "wikilink")
-  - [我們大家的河合莊](https://zh.wikipedia.org/wiki/我們大家的河合莊 "wikilink")
+  - [我們大家的河合莊](../Page/我們大家的河合莊.md "wikilink")
   - [愚者信長](../Page/愚者信長.md "wikilink")
   - [Free\!](../Page/Free!.md "wikilink")
   - [LoveLive
@@ -558,20 +557,20 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [GLASSLIP](../Page/GLASSLIP.md "wikilink")
   - [LOVE STAGE\!\!](../Page/LOVE_STAGE!!.md "wikilink")
   - [東京ESP](../Page/東京ESP.md "wikilink")
-  - [眷戀你的溫柔](https://zh.wikipedia.org/wiki/眷戀你的溫柔 "wikilink")
+  - [眷戀你的溫柔](../Page/眷戀你的溫柔.md "wikilink")
 
 **2015年**
 
-  - [夜晚的小雙俠](https://zh.wikipedia.org/wiki/夜晚的小雙俠 "wikilink")
+  - [夜晚的小雙俠](../Page/夜晚的小雙俠.md "wikilink")
   - [境界的彼方](../Page/境界的彼方.md "wikilink")
-  - [吹響吧！上低音號](https://zh.wikipedia.org/wiki/吹響吧！上低音號 "wikilink")
+  - [吹響吧！上低音號](../Page/吹響吧！上低音號.md "wikilink")
   - [惡魔高校D×D](https://zh.wikipedia.org/wiki/惡魔高校D×D "wikilink")
-  - [小長門有希的消失](https://zh.wikipedia.org/wiki/小長門有希的消失 "wikilink")
+  - [小長門有希的消失](../Page/小長門有希的消失.md "wikilink")
   - [電波教師](../Page/電波教師.md "wikilink")
   - [純情羅曼史](../Page/純情羅曼史.md "wikilink")
   - [Fate/kaleid liner
     魔法少女☆伊莉雅](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
-  - [櫻子小姐的腳下埋著屍體](https://zh.wikipedia.org/wiki/櫻子小姐的腳下埋著屍體 "wikilink")
+  - [櫻子小姐的腳下埋著屍體](../Page/櫻子小姐的腳下埋著屍體.md "wikilink")
   - [牙狼〈GARO〉](../Page/牙狼〈GARO〉.md "wikilink")
   - [見習神仙 秘密的心靈](https://zh.wikipedia.org/wiki/見習神仙_秘密的心靈 "wikilink")
 
@@ -585,8 +584,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [她與她的貓](../Page/她與她的貓.md "wikilink")
   - [爆音少女！！](../Page/爆音少女！！.md "wikilink")
   - [至高指令](../Page/至高指令.md "wikilink")
-  - [文豪Stray
-    Dogs](https://zh.wikipedia.org/wiki/文豪Stray_Dogs "wikilink")
+  - [文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink")
   - [Battle Spirits Double
     Drive](../Page/Battle_Spirits_Double_Drive.md "wikilink")
   - [偶像學園STARS！](https://zh.wikipedia.org/wiki/偶像學園STARS！ "wikilink")
@@ -594,9 +592,9 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [食戟之靈](https://zh.wikipedia.org/wiki/食戟之靈 "wikilink")
   - [元氣囝仔](../Page/元氣囝仔.md "wikilink")
   - [雷加利亞三聖星](https://zh.wikipedia.org/wiki/雷加利亞三聖星 "wikilink")
-  - [吹響吧！上低音號](https://zh.wikipedia.org/wiki/吹響吧！上低音號 "wikilink")
+  - [吹響吧！上低音號](../Page/吹響吧！上低音號.md "wikilink")
   - [競女\!\!\!\!\!\!\!\!](../Page/競女!!!!!!!!.md "wikilink")
-  - [輕拍翻轉小魔女](https://zh.wikipedia.org/wiki/輕拍翻轉小魔女 "wikilink")
+  - [輕拍翻轉小魔女](../Page/輕拍翻轉小魔女.md "wikilink")
   - [LoveLive\!
     Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")
   - [百無禁忌！女高中生私房話](../Page/百無禁忌！女高中生私房話.md "wikilink")
@@ -606,15 +604,14 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [長騎美眉](https://zh.wikipedia.org/wiki/長騎美眉 "wikilink")
   - [政宗君的復仇](../Page/政宗君的復仇.md "wikilink")
   - [從零開始的魔法書](../Page/從零開始的魔法書.md "wikilink")
-  - [歡迎來到實力至上主義的教室](https://zh.wikipedia.org/wiki/歡迎來到實力至上主義的教室 "wikilink")
+  - [歡迎來到實力至上主義的教室](../Page/歡迎來到實力至上主義的教室.md "wikilink")
   - [梵諦岡奇蹟調查官](https://zh.wikipedia.org/wiki/梵諦岡奇蹟調查官 "wikilink")
   - [咕嚕咕嚕魔法陣](../Page/咕嚕咕嚕魔法陣.md "wikilink")
-  - [Code:Realize
-    ～創世的公主～](https://zh.wikipedia.org/wiki/Code:Realize_～創世的公主～ "wikilink")
+  - [Code:Realize ～創世的公主～](../Page/Code:Realize_～創世的公主～.md "wikilink")
   - [小林家的女僕龍](https://zh.wikipedia.org/wiki/小林家的女僕龍 "wikilink")
-  - [末日時在做什麼？有沒有空？可以來拯救嗎？](https://zh.wikipedia.org/wiki/末日時在做什麼？有沒有空？可以來拯救嗎？ "wikilink")
-  - [時間支配者](https://zh.wikipedia.org/wiki/時間支配者 "wikilink")
-  - [天使的3P！](https://zh.wikipedia.org/wiki/天使的3P！ "wikilink")
+  - [末日時在做什麼？有沒有空？可以來拯救嗎？](../Page/末日時在做什麼？有沒有空？可以來拯救嗎？.md "wikilink")
+  - [時間支配者](../Page/時間支配者.md "wikilink")
+  - [天使的3P！](../Page/天使的3P！.md "wikilink")
   - [劇場版 Fate/kaleid liner 魔法少女☆伊莉雅
     雪下的誓言](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
   - [如果有妹妹就好了。](../Page/如果有妹妹就好了。.md "wikilink")

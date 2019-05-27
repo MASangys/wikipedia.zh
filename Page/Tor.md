@@ -1,6 +1,6 @@
 **Tor**是实现[匿名通信的](../Page/匿名.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")。其名源於「The
 Onion
-Router」（洋蔥路由器）的英語縮寫\[1\]\[2\]。用戶可透過Tor接達由全球志願者免費提供，包含7000+個中繼的[覆盖网络](https://zh.wikipedia.org/wiki/覆盖网络 "wikilink")\[3\]，從而達至隱藏用戶真實地址、避免網絡監控及流量分析的目的。Tor用戶的互聯網活動（包括瀏覽在線網站、帖子以及即時消息等通訊形式）相對較難追踪\[4\]。Tor的設計原意在於保障用戶的個人私隱，以及不受監控地進行秘密通信的自由和能力。
+Router」（洋蔥路由器）的英語縮寫\[1\]\[2\]。用戶可透過Tor接達由全球志願者免費提供，包含7000+個中繼的[覆盖网络](../Page/覆盖网络.md "wikilink")\[3\]，從而達至隱藏用戶真實地址、避免網絡監控及流量分析的目的。Tor用戶的互聯網活動（包括瀏覽在線網站、帖子以及即時消息等通訊形式）相對較難追踪\[4\]。Tor的設計原意在於保障用戶的個人私隱，以及不受監控地進行秘密通信的自由和能力。
 
 Tor不會阻止在線網站判斷用戶是否通過Tor訪問該網站。儘管它保護用戶的私隱，但卻不會掩飾用戶正在使用Tor這一事實。有些網站會對使用Tor的用戶進行限制。[MediaWiki的擴充功能Torblock便是其中一個例子](../Page/MediaWiki.md "wikilink")，其能自動地限制透過Tor進行的編輯。而使用了Torblock的[維基百科則容許用戶在某些情況下透過Tor编辑其內容](https://zh.wikipedia.org/wiki/維基百科 "wikilink")\[5\]。
 
@@ -46,8 +46,8 @@ Tor不能夠使網絡活動完全匿名。其設計目的並不是使網絡跟�
 Tor也被用於進行非法活動，例子包括存取在當地受到[審查的資訊](../Page/审查制度.md "wikilink")、組織政治運動\[51\]
 、規避禁止人們發表批評國家首腦的言論的法律。
 
-《[经济学人](../Page/经济学人.md "wikilink")》的一篇報導稱Tor跟[比特幣和](https://zh.wikipedia.org/wiki/比特幣 "wikilink")[絲路有關](../Page/絲路_\(購物網站\).md "wikilink")，並指Tor為「網絡上的阴暗角落」\[52\]。儘管[美国国家安全局及英國](../Page/美国国家安全局.md "wikilink")[政府通信总部已把Tor視為破解目標](https://zh.wikipedia.org/wiki/政府通信总部 "wikilink")，但只取得少許成功\[53\]。的「确认行動」（Operation
-Notarise）為最為成功破解Tor的行動\[54\]。同時，英國政府通信总部利用了一款名為「Shadowcat」的工具來「透過Tor網絡，並使用[安全外殼協定存取受到端對端加密的](../Page/Secure_Shell.md "wikilink")[虚拟专用服务器](https://zh.wikipedia.org/wiki/虚拟专用服务器 "wikilink")」\[55\]\[56\]。它也可應用於匿名誹謗、洩露政府敏感資訊、上下载[侵權作品](https://zh.wikipedia.org/wiki/侵權 "wikilink")、分發非法色情內容\[57\]\[58\]\[59\]、販賣[受管制药物](https://zh.wikipedia.org/wiki/管制药物 "wikilink")\[60\]、武器及被盜的信用卡號碼\[61\]、[洗錢](../Page/洗錢.md "wikilink")\[62\]、银行诈骗\[63\]、、[身份诈骗](https://zh.wikipedia.org/wiki/身份盗窃 "wikilink")、[假幣兑换](../Page/假幣.md "wikilink")\[64\]；以Tor為基礎架構的黑市網站有相當一部分會以比特幣作交易媒介\[65\]。最後它還可用於攻擊[物聯網設備](https://zh.wikipedia.org/wiki/物聯網 "wikilink")\[66\]。
+《[经济学人](../Page/经济学人.md "wikilink")》的一篇報導稱Tor跟[比特幣和](https://zh.wikipedia.org/wiki/比特幣 "wikilink")[絲路有關](../Page/絲路_\(購物網站\).md "wikilink")，並指Tor為「網絡上的阴暗角落」\[52\]。儘管[美国国家安全局及英國](../Page/美国国家安全局.md "wikilink")[政府通信总部已把Tor視為破解目標](../Page/政府通信总部.md "wikilink")，但只取得少許成功\[53\]。的「确认行動」（Operation
+Notarise）為最為成功破解Tor的行動\[54\]。同時，英國政府通信总部利用了一款名為「Shadowcat」的工具來「透過Tor網絡，並使用[安全外殼協定存取受到端對端加密的](../Page/Secure_Shell.md "wikilink")[虚拟专用服务器](https://zh.wikipedia.org/wiki/虚拟专用服务器 "wikilink")」\[55\]\[56\]。它也可應用於匿名誹謗、洩露政府敏感資訊、上下载[侵權作品](https://zh.wikipedia.org/wiki/侵權 "wikilink")、分發非法色情內容\[57\]\[58\]\[59\]、販賣[受管制药物](../Page/管制药物.md "wikilink")\[60\]、武器及被盜的信用卡號碼\[61\]、[洗錢](../Page/洗錢.md "wikilink")\[62\]、银行诈骗\[63\]、、[身份诈骗](https://zh.wikipedia.org/wiki/身份盗窃 "wikilink")、[假幣兑换](../Page/假幣.md "wikilink")\[64\]；以Tor為基礎架構的黑市網站有相當一部分會以比特幣作交易媒介\[65\]。最後它還可用於攻擊[物聯網設備](https://zh.wikipedia.org/wiki/物聯網 "wikilink")\[66\]。
 
 美国[联邦调查局在逮捕絲路的創辦人](../Page/联邦调查局.md "wikilink")的過程中，承認Tor「存有合法用途」\[67\]\[68\]。[CNET的報導指](../Page/CNET.md "wikilink")，Tor的匿名功能「受到像[电子前哨基金会般的民權組織的贊同](../Page/电子前哨基金会.md "wikilink")，因為它能為[告密者和人權工作者提供一個渠道](https://zh.wikipedia.org/wiki/告密者 "wikilink")，以跟記者溝通」\[69\]。电子前哨基金会的監控自衛指南包含了如何使用Tor的描述，並指它符合保障私穩及匿名性的大原則\[70\]。
 
@@ -81,7 +81,7 @@ Tor的獨特運作方式使得其跟其他匿名網絡得以區分開來：它�
 
 ### 洋葱服務
 
-Tor也可以為網站及伺服器提供匿名性。只接受透過Tor從外部連接的伺服器一般統稱為**洋葱服務**（另有**隱藏服務**這個較正式的稱呼）\[82\]。該些洋葱服務一般能在配合Tor瀏覽器的情況下，經[洋葱地址來存取](https://zh.wikipedia.org/wiki/.onion "wikilink")，而不像瀏覽一般網站般先找出伺服器的IP位址後再存取。Tor網絡以找出相應的[公鑰和](https://zh.wikipedia.org/wiki/公開金鑰 "wikilink")[分散式雜湊表](../Page/分散式雜湊表.md "wikilink")（DHT）中的介绍结点（introduction
+Tor也可以為網站及伺服器提供匿名性。只接受透過Tor從外部連接的伺服器一般統稱為**洋葱服務**（另有**隱藏服務**這個較正式的稱呼）\[82\]。該些洋葱服務一般能在配合Tor瀏覽器的情況下，經[洋葱地址來存取](../Page/.onion.md "wikilink")，而不像瀏覽一般網站般先找出伺服器的IP位址後再存取。Tor網絡以找出相應的[公鑰和](https://zh.wikipedia.org/wiki/公開金鑰 "wikilink")[分散式雜湊表](../Page/分散式雜湊表.md "wikilink")（DHT）中的介绍结点（introduction
 points）的方式來得知其位址。它可以路由傳入洋葱服務或從洋葱服務傳出的數據，這同樣適用於在[网络地址转换](../Page/网络地址转换.md "wikilink")（NAT）或[防火墙背後的主机](../Page/防火墙.md "wikilink")，並能保障雙方的匿名性。對於存取該些洋葱服務而言，Tor是必要的\[83\]。
 
 洋葱服務在2003年首次提出\[84\]，並自次年起在Tor網絡上配置\[85\]。除了存儲洋蔥服務的描述符所需的數據庫之外\[86\]，Tor在設計上是去中心化的；不存在一個列出所有洋葱服務的可供閲讀列表，儘管一些洋蔥服務目錄會把知名的洋葱地址列出。
@@ -89,17 +89,17 @@ points）的方式來得知其位址。它可以路由傳入洋葱服務或從�
 由於洋蔥服務會把它們的所有流量皆經由Tor網絡路由，所以它們的連接為端到端加密的，且不能夠成為竊聽的目標。但Tor的洋蔥服務仍有安全問題。例如所有能透過Tor洋葱服務和公共互联网存取的服务皆易受相关攻击（correlation
 attacks）的影響，由此可見它的匿名性並不是完美的。其他隱患包括服務設定错误（例如Web伺服器的默認錯誤頁面可能會包含識別信息）、運行和停機時間統計、交集攻击（intersection
 attacks）以及用戶錯誤\[87\]\[88\]
-。獨立安全研究者開發了一個名為「OnionScan」的[开源软件](../Page/开源软件.md "wikilink")，用於全面檢測洋葱服務上的漏洞\[89\]（劉易斯還是研究透過洋蔥路由來進行[遠程性愛的先驅](https://zh.wikipedia.org/wiki/遠程性愛 "wikilink")，因為她認為性玩具不應透過互聯網不安全地連接\[90\]。）
+。獨立安全研究者開發了一個名為「OnionScan」的[开源软件](../Page/开源软件.md "wikilink")，用於全面檢測洋葱服務上的漏洞\[89\]（劉易斯還是研究透過洋蔥路由來進行[遠程性愛的先驅](../Page/遠程性愛.md "wikilink")，因為她認為性玩具不應透過互聯網不安全地連接\[90\]。）
 
 洋蔥服務也可在[客戶端沒有連接Tor網絡的情況下透過標準瀏覽器存取](https://zh.wikipedia.org/wiki/客戶端 "wikilink")，比如使用像般的服務即可存取之\[91\]
 。人們常在
-、[Twitter](../Page/Twitter.md "wikilink")、[Reddit及其他](../Page/Reddit.md "wikilink")[網絡論壇分享以](https://zh.wikipedia.org/wiki/網絡論壇 "wikilink")[.onion為頂級域的](https://zh.wikipedia.org/wiki/.onion "wikilink")[暗网鏈接](https://zh.wikipedia.org/wiki/暗网 "wikilink")\[92\]。
+、[Twitter](../Page/Twitter.md "wikilink")、[Reddit及其他](../Page/Reddit.md "wikilink")[網絡論壇分享以](https://zh.wikipedia.org/wiki/網絡論壇 "wikilink")[.onion為頂級域的](../Page/.onion.md "wikilink")[暗网鏈接](../Page/暗网.md "wikilink")\[92\]。
 
 ### Nyx狀態监视器
 
 Nyx是一款以[Python來編寫的Tor](../Page/Python.md "wikilink")[命令行界面狀態监视器](../Page/命令行界面.md "wikilink")\[93\]\[94\]。其能使人實時监视其所運行的Tor節點的狀態，它的监视範圍包括：
 
-  - 目前正在使用的資源（[带宽](https://zh.wikipedia.org/wiki/带宽_\(计算机\) "wikilink")、CPU和記憶體的使用情況）
+  - 目前正在使用的資源（[带宽](../Page/带宽_\(计算机\).md "wikilink")、CPU和記憶體的使用情況）
   - 中繼的一般資訊（暱稱、指紋、旗標或/dir/controlports）
   - 擁有[正則表達式過濾和重复数据删除功能的事件記錄表](https://zh.wikipedia.org/wiki/正則表達式 "wikilink")
   - 與Tor數據一致相關的連接（IP地址、連接類型、詳細中繼資訊等等）
@@ -111,11 +111,11 @@ Nyx的大多數屬性都可以通過armrc設定档進行設定。它能在任何
 
 ## 弱點
 
-Tor就像其他[低延迟](https://zh.wikipedia.org/wiki/延迟_\(工程学\) "wikilink")[匿名網絡般](../Page/代理服务器.md "wikilink")，不能夠也沒有嘗試阻止他人監聽Tor網絡流量的边界（亦即流量進出網絡時的情形）。儘管Tor能保護人們免於受到，但它仍不能夠防止流量確認（traffic
+Tor就像其他[低延迟](../Page/延迟_\(工程学\).md "wikilink")[匿名網絡般](../Page/代理服务器.md "wikilink")，不能夠也沒有嘗試阻止他人監聽Tor網絡流量的边界（亦即流量進出網絡時的情形）。儘管Tor能保護人們免於受到，但它仍不能夠防止流量確認（traffic
 confirmation，亦即端對端確認）的發生\[97\]\[98\]。
 
 一項發表於2009年的研究指出，Tor及另外一套匿名網絡系統[Java Anon
-Proxy比其他](../Page/Java_Anon_Proxy.md "wikilink")[隧道协议更對](../Page/隧道协议.md "wikilink")[網站指紋技術有适应力](https://zh.wikipedia.org/wiki/裝置指紋 "wikilink")。
+Proxy比其他](../Page/Java_Anon_Proxy.md "wikilink")[隧道协议更對](../Page/隧道协议.md "wikilink")[網站指紋技術有适应力](../Page/裝置指紋.md "wikilink")。
 
 其原因在於單一節點的[VPN協定的封包重新建构次數一般不比使用了多重節點的Tor及Java](https://zh.wikipedia.org/wiki/VPN "wikilink")
 Anon
@@ -203,7 +203,7 @@ Bundle**（TBB）\[131\]，是Tor项目的旗舰产品\[132\]。由[Mozilla
 Firefox
 ESR浏览器修改而成](https://zh.wikipedia.org/wiki/Mozilla_Firefox_ESR "wikilink")，並由Tor
 Project開發人員做了許多安全性和隱私保護的調校，預載TorButton、TorLauncher、[NoScript和](../Page/NoScript.md "wikilink")[HTTPS
-Everywhere等擴充套件與Tor](https://zh.wikipedia.org/wiki/HTTPS_Everywhere "wikilink")[代理](https://zh.wikipedia.org/wiki/proxy "wikilink")\[133\]\[134\]。其为[開源軟體](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")、[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")、[绿色软件](https://zh.wikipedia.org/wiki/绿色软件 "wikilink")，可在多種[作業系統上運行](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，包括[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac
+Everywhere等擴充套件與Tor](../Page/HTTPS_Everywhere.md "wikilink")[代理](https://zh.wikipedia.org/wiki/proxy "wikilink")\[133\]\[134\]。其为[開源軟體](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")、[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")、[绿色软件](https://zh.wikipedia.org/wiki/绿色软件 "wikilink")，可在多種[作業系統上運行](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，包括[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac
 OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Android](../Page/Android.md "wikilink")\[135\]；Android版的Tor瀏覽器正處於公開測試階段\[136\]。
 
@@ -239,7 +239,7 @@ Tor Messenger於2018年4月因數據必然洩露至社交網站、人手不足�
 
 [BitTorrent客戶端](../Page/BitTorrent_\(协议\).md "wikilink")[Vuze](../Page/Vuze.md "wikilink")\[160\]、匿名訊息系統[比特信](../Page/比特信.md "wikilink")\[161\]及即時通訊軟件\[162\]皆支持Tor。
 
-[保衛者計劃是一項為了提高智能手機的通訊安全性](https://zh.wikipedia.org/wiki/保衛者計畫_\(軟體\) "wikilink")，而開發相關韌體和應用的活動\[163\]。由這個計劃開發的Tor相關產品包括Tor實施工具[Orbot](../Page/Orbot.md "wikilink")\[164\]、私隱增強型移動瀏覽器Orweb（官方不再提供下載）\[165\]、Orfox（Tor瀏覽器的移動版本）\[166\]、Firefox附加元件ProxyMob
+[保衛者計劃是一項為了提高智能手機的通訊安全性](../Page/保衛者計畫_\(軟體\).md "wikilink")，而開發相關韌體和應用的活動\[163\]。由這個計劃開發的Tor相關產品包括Tor實施工具[Orbot](../Page/Orbot.md "wikilink")\[164\]、私隱增強型移動瀏覽器Orweb（官方不再提供下載）\[165\]、Orfox（Tor瀏覽器的移動版本）\[166\]、Firefox附加元件ProxyMob
 （官方不再提供下載）\[167\]。
 
 ### 側重安全的作業系統
@@ -290,7 +290,7 @@ Tor在[中国被许多人用于突破](https://zh.wikipedia.org/wiki/中国 "wik
   - [I2P](../Page/I2P.md "wikilink")：I2P网络是由I2P路由器以[大蒜路由方式组成的表层网络](https://zh.wikipedia.org/wiki/大蒜路由 "wikilink")，建立于其上的应用程序可以安全匿名的相互通信。
   - [JAP](../Page/Java_Anon_Proxy.md "wikilink")——一个Java写的匿名[代理服务器](../Page/代理服务器.md "wikilink")
   - [Softether](https://zh.wikipedia.org/wiki/Softether "wikilink")－日本程式設計師[登大遊就讀](../Page/登大遊.md "wikilink")[筑波大學時写的虚拟](https://zh.wikipedia.org/wiki/筑波大學 "wikilink")[以太网软件](../Page/以太网.md "wikilink")，於2003年公開1.0版，因免费简洁而在Internet上曾广泛传播。
-  - [Shadowsocks](https://zh.wikipedia.org/wiki/Shadowsocks "wikilink")——一个安全的socks5代理
+  - [Shadowsocks](../Page/Shadowsocks.md "wikilink")——一个安全的socks5代理
   - [VNN](https://zh.wikipedia.org/wiki/VNN "wikilink")
   - [VPN-X](https://zh.wikipedia.org/wiki/VPN-X "wikilink")——由BirdsSoft开发的一套Java
     P2P VPN解决方案，利用了[TUN与TAP技术](../Page/TUN与TAP.md "wikilink")
@@ -299,7 +299,7 @@ Tor在[中国被许多人用于突破](https://zh.wikipedia.org/wiki/中国 "wik
   - [突破網路審查](https://zh.wikipedia.org/wiki/突破網路審查 "wikilink")
   - [中國網絡審查](https://zh.wikipedia.org/wiki/中華人民共和國網絡審查 "wikilink")
   - [网络安全](../Page/网络安全.md "wikilink")
-  - [名偵探柯南：零的執行人](https://zh.wikipedia.org/wiki/名偵探柯南：零的執行人 "wikilink")——劇情將Tor改編為Nor，嫌犯用來IOT恐怖攻擊。
+  - [名偵探柯南：零的執行人](../Page/名偵探柯南：零的執行人.md "wikilink")——劇情將Tor改編為Nor，嫌犯用來IOT恐怖攻擊。
 
 ## 注释
 

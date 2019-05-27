@@ -28,7 +28,7 @@ Chinese，只要旅居國外(美加地區)三個月以上，都可以被叫做AB
 
 ## 化學
 
-  - [磷酸二氫銨](https://zh.wikipedia.org/wiki/磷酸二氫銨 "wikilink")，又名「ABC化學劑」，因為此種化學劑常放在A類，B類及C類[滅火器裏](https://zh.wikipedia.org/wiki/滅火器 "wikilink")。
+  - [磷酸二氫銨](https://zh.wikipedia.org/wiki/磷酸二氫銨 "wikilink")，又名「ABC化學劑」，因為此種化學劑常放在A類，B類及C類[滅火器裏](../Page/滅火器.md "wikilink")。
 
 ## 軍事
 

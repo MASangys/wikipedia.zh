@@ -118,7 +118,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/踴子號" title="wikilink">踴子</a><br />
+<td><p><a href="../Page/踴子號.md" title="wikilink">踴子</a><br />
 （）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東京站" title="wikilink">東京站</a> - <a href="https://zh.wikipedia.org/wiki/伊豆急下田站" title="wikilink">伊豆急下田站</a>、<a href="https://zh.wikipedia.org/wiki/修善寺站" title="wikilink">修善寺站</a></p></td>
 <td><p><a href="../Page/伊東線.md" title="wikilink">伊東線</a></p></td>
@@ -164,7 +164,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 </tr>
 <tr class="odd">
 <td><p>JR東海</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/信濃號列車" title="wikilink">信濃</a><br />
+<td><p><a href="../Page/信濃號列車.md" title="wikilink">信濃</a><br />
 （）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/名古屋站" title="wikilink">名古屋站</a> - <a href="https://zh.wikipedia.org/wiki/長野站" title="wikilink">長野站</a></p></td>
 <td><p><a href="../Page/中央本線.md" title="wikilink">中央本線</a></p></td>
@@ -366,7 +366,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/霧島號列車" title="wikilink">霧島</a><br />
+<td><p><a href="../Page/霧島號列車.md" title="wikilink">霧島</a><br />
 （）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宮崎站" title="wikilink">宮崎站</a> - <a href="https://zh.wikipedia.org/wiki/鹿兒島中央站" title="wikilink">鹿兒島中央站</a></p></td>
 <td><p>1995年4月20日</p></td>
@@ -763,7 +763,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <td><p><a href="https://zh.wikipedia.org/wiki/溪蓀號列車" title="wikilink">溪蓀</a><br />
 （）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東京站" title="wikilink">東京站</a> - <a href="https://zh.wikipedia.org/wiki/鹿島神宮站" title="wikilink">鹿島神宮站</a></p></td>
-<td><p><a href="../Page/成田線.md" title="wikilink">成田線</a>、<a href="https://zh.wikipedia.org/wiki/鹿島線" title="wikilink">鹿島線</a></p></td>
+<td><p><a href="../Page/成田線.md" title="wikilink">成田線</a>、<a href="../Page/鹿島線.md" title="wikilink">鹿島線</a></p></td>
 <td><p>1975年3月10日</p></td>
 <td><p>新設時指定</p></td>
 <td><p>1994年12月3日（指定解除）<br />

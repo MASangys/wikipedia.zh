@@ -1,4 +1,4 @@
-****是历史上第三十四次航天飞机任务，也是[亚特兰蒂斯号航天飞机的第六次太空飞行](https://zh.wikipedia.org/wiki/亞特蘭提斯號太空梭 "wikilink")。任务内容为[美国国防部机密](../Page/美国国防部.md "wikilink")，据信发射载荷为[迷雾卫星](https://zh.wikipedia.org/wiki/迷雾卫星 "wikilink")。
+****是历史上第三十四次航天飞机任务，也是[亚特兰蒂斯号航天飞机的第六次太空飞行](https://zh.wikipedia.org/wiki/亞特蘭提斯號太空梭 "wikilink")。任务内容为[美国国防部机密](../Page/美国国防部.md "wikilink")，据信发射载荷为[迷雾卫星](../Page/迷雾卫星.md "wikilink")。
 
 ## 任务成员
 

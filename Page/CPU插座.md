@@ -676,7 +676,7 @@ Intel <a href="https://zh.wikipedia.org/wiki/Broadwell" title="wikilink">Broadwe
 <td><p>与 <a href="../Page/LGA_2011.md" title="wikilink">LGA 2011-0</a> 不兼容</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Socket_AM1" title="wikilink">Socket AM1</a></p></td>
+<td><p><a href="../Page/Socket_AM1.md" title="wikilink">Socket AM1</a></p></td>
 <td><p>2014</p></td>
 <td><p>?</p></td>
 <td><p>AMD<a href="https://zh.wikipedia.org/wiki/AMD加速處理器列表#Kabini" title="wikilink">Jagaur Processors</a></p></td>
@@ -712,10 +712,10 @@ Intel <a href="https://zh.wikipedia.org/wiki/Broadwell" title="wikilink">Broadwe
 <td><p>替代 LGA 2011-3</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Socket_AM4" title="wikilink">Socket AM4</a></p></td>
+<td><p><a href="../Page/Socket_AM4.md" title="wikilink">Socket AM4</a></p></td>
 <td><p>2017</p></td>
 <td><p>?</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AMD_Ryzen" title="wikilink">AMD Ryzen</a><br />
+<td><p><a href="../Page/AMD_Ryzen.md" title="wikilink">AMD Ryzen</a><br />
 以及 <a href="../Page/AMD_Athlon.md" title="wikilink">Athlon</a></p></td>
 <td><p>Desktop</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/µOPGA" title="wikilink">µOPGA</a></p></td>
@@ -738,10 +738,10 @@ Intel <a href="https://zh.wikipedia.org/wiki/Broadwell" title="wikilink">Broadwe
 <td><p>替代 LGA 2011</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Socket_TR4" title="wikilink">Socket TR4</a></p></td>
+<td><p><a href="../Page/Socket_TR4.md" title="wikilink">Socket TR4</a></p></td>
 <td><p>2017</p></td>
 <td><p>?</p></td>
-<td><p>AMD <a href="https://zh.wikipedia.org/wiki/AMD_Ryzen" title="wikilink">Ryzen Threadripper</a></p></td>
+<td><p>AMD <a href="../Page/AMD_Ryzen.md" title="wikilink">Ryzen Threadripper</a></p></td>
 <td><p>Desktop</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/LGA" title="wikilink">LGA</a></p></td>
 <td><p>4094</p></td>

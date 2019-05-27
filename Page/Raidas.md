@@ -39,7 +39,7 @@
 
 Raidas的兩位成員，[黄耀光負責作曲和編曲](https://zh.wikipedia.org/wiki/黄耀光 "wikilink")，[陳德彰則負責主唱](https://zh.wikipedia.org/wiki/陳德彰 "wikilink")。而自《吸煙的女人》開始，他們的歌詞大多數都由同時出道的填詞人[林夕所包辦](../Page/林夕.md "wikilink")，不少人都視他為組合的第三位成員。現時無線電視藝員[蔣志光當時是Raidas的隱形成員](https://zh.wikipedia.org/wiki/蔣志光_\(藝員\) "wikilink")，當年[黃耀光參加創作比賽](https://zh.wikipedia.org/wiki/黃耀光 "wikilink")，原先打算找蔣志光作伙伴，但[蔣志光跟](../Page/蔣志光.md "wikilink")[寶麗金唱片公司簽了約](../Page/寶麗金.md "wikilink")，黃耀光才找陳德彰搭檔，Raidas推出的唱片中，蔣志光全部有參與製作，但沒有出名（僅以筆名小光的名義）。
 
-Raidas的作品，深受80年代英倫[電子音樂的影响](../Page/電子音樂.md "wikilink")，著重旋律的節奏感。當中較流行的有《[傳說](https://zh.wikipedia.org/wiki/傳說_\(Raidas專輯\) "wikilink")》、《[傾心](https://zh.wikipedia.org/wiki/傳說_\(Raidas專輯\) "wikilink")》、《[別人的歌](https://zh.wikipedia.org/wiki/傳說_\(Raidas專輯\) "wikilink")》、《[某月某日](https://zh.wikipedia.org/wiki/傳說_\(Raidas專輯\) "wikilink")》、《危險遊戲》和《沒有路人的都市》等多首。
+Raidas的作品，深受80年代英倫[電子音樂的影响](../Page/電子音樂.md "wikilink")，著重旋律的節奏感。當中較流行的有《[傳說](../Page/傳說_\(Raidas專輯\).md "wikilink")》、《[傾心](../Page/傳說_\(Raidas專輯\).md "wikilink")》、《[別人的歌](../Page/傳說_\(Raidas專輯\).md "wikilink")》、《[某月某日](../Page/傳說_\(Raidas專輯\).md "wikilink")》、《危險遊戲》和《沒有路人的都市》等多首。
 
 《傾心》入選[第十屆十大中文金曲](../Page/第十屆十大中文金曲得獎名單.md "wikilink")（1987年度）的「十大中文金曲」之一。\[2\]
 
@@ -50,7 +50,7 @@ Raidas出版了一張[EP和兩張大碟後](https://zh.wikipedia.org/wiki/EP "wi
 | 專輯 \# | 專輯名稱                                                                        | 發行日期       |
 | :---- | :-------------------------------------------------------------------------- | :--------- |
 | 1st   | [吸煙的女人](https://zh.wikipedia.org/wiki/吸煙的女人 "wikilink")                     | 1986年6月    |
-| 2nd   | [傳說](https://zh.wikipedia.org/wiki/傳說_\(Raidas專輯\) "wikilink")              | 1987年3月16日 |
+| 2nd   | [傳說](../Page/傳說_\(Raidas專輯\).md "wikilink")                                 | 1987年3月16日 |
 | 3rd   | [Raidas 87](https://zh.wikipedia.org/wiki/Raidas_87 "wikilink")             | 1987年12月   |
 | 4th   | [陳德彰．Raidas新曲+精選](https://zh.wikipedia.org/wiki/陳德彰．Raidas新曲+精選 "wikilink") | 1989年9月    |
 | 5th   | 傳說（HQCD）                                                                    | 2010年      |

@@ -51,7 +51,7 @@ FX架構優化的指令代碼。
 
 在2003年3月，NVIDIA還發佈了代號NV31的FX 5600 Ultra與FX 5600，代號NV34的FX 5200 Ultra與FX
 5200四款顯示卡\[2\]，定位於中階與主流市場，對手是ATi的Radeon 9600與Radeon
-9200，其中NV31與NV30的基本特性完全相同，同為CineFX引擎，支援Intellisample技術，但其採用了128位元的DDR顯示記憶體，顯核及[記憶體頻率均有所降低](https://zh.wikipedia.org/wiki/内存带宽 "wikilink")，擁有四條像素管線。稍後NVIDIA又針對[OEM市場發佈FX](https://zh.wikipedia.org/wiki/OEM "wikilink")
+9200，其中NV31與NV30的基本特性完全相同，同為CineFX引擎，支援Intellisample技術，但其採用了128位元的DDR顯示記憶體，顯核及[記憶體頻率均有所降低](../Page/内存带宽.md "wikilink")，擁有四條像素管線。稍後NVIDIA又針對[OEM市場發佈FX](https://zh.wikipedia.org/wiki/OEM "wikilink")
 5600簡化版，其PCB用料簡化，頻率降低（不同國家地區有不同的三種名稱：FX 5600 SE/XT/LE）。FX 5600
 Ultra的效能不足以撼動Radeon 9600 Pro，所以在5月份NVIDIA推出了新版FX
 5600系列，核心採用[覆晶技術](../Page/覆晶技術.md "wikilink")，提升了50MHz的頻率達到400MHz，顯示記憶體亦提升到800MHz，與此同時之前的FX

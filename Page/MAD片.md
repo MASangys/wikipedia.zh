@@ -32,7 +32,7 @@ Fantasy系列的電腦動畫極之精美](https://zh.wikipedia.org/wiki/Final_Fa
 基於MAD片的發展其實是奠基於電腦技術的發展，故此MAD片早期作品和近後期的作品在風格上和製作上都有相當大的差異，常見的MAD片有以下數個種類：
 
   - 靜止畫MAD，由多張靜態的[CG移動配以樂曲做成的MAD片](https://zh.wikipedia.org/wiki/CG "wikilink")
-  - 音MAD，利用混音軟體將某聲音與音樂搭配融合所形成的混音樂曲，詳見條目[音MAD](https://zh.wikipedia.org/wiki/音MAD "wikilink")
+  - 音MAD，利用混音軟體將某聲音與音樂搭配融合所形成的混音樂曲，詳見條目[音MAD](../Page/音MAD.md "wikilink")
   - 動畫MAD，由電腦動畫配以樂曲做成的MAD片，早年多為2D動畫，及後3D動畫技術日趨成熟使MAD片作品亦較多3D
     動畫作品，但一般而言仍2D較多
   - 混合系MAD，由動畫，靜態[CG等素材配以樂曲做成的MAD](https://zh.wikipedia.org/wiki/CG "wikilink")。綜合了上述兩種類型的特點。

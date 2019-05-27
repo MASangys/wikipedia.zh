@@ -2,7 +2,7 @@
 
 C線列車除深夜外任何時候都營運，來往[華盛頓高地的](https://zh.wikipedia.org/wiki/華盛頓高地_\(曼哈頓\) "wikilink")[168街與](https://zh.wikipedia.org/wiki/168街車站_\(IND第八大道線\) "wikilink")的[尤克利德大道](https://zh.wikipedia.org/wiki/尤克利德大道車站_\(IND福爾頓街線\) "wikilink")，停靠沿線全部車站。在深夜時段，日間時以快車營運的[A線列車以慢車營運整條C線](../Page/紐約地鐵A線.md "wikilink")，停靠所有車站。
 
-C線繁忙時段列車過去以慢車營運[IND匯集線往](https://zh.wikipedia.org/wiki/IND匯集線 "wikilink")[布朗克斯的](../Page/布朗克斯.md "wikilink")[貝德福德公園林蔭路與皇后區](https://zh.wikipedia.org/wiki/貝德福德公園林蔭路車站_\(IND匯集線\) "wikilink")[洛克威公園-海灘116街](https://zh.wikipedia.org/wiki/洛克威公園-海灘116街車站_\(IND洛克威線\) "wikilink")。
+C線繁忙時段列車過去以慢車營運[IND匯集線往](../Page/IND匯集線.md "wikilink")[布朗克斯的](../Page/布朗克斯.md "wikilink")[貝德福德公園林蔭路與皇后區](https://zh.wikipedia.org/wiki/貝德福德公園林蔭路車站_\(IND匯集線\) "wikilink")[洛克威公園-海灘116街](https://zh.wikipedia.org/wiki/洛克威公園-海灘116街車站_\(IND洛克威線\) "wikilink")。
 
 <div class="thumb tright" style="width:auto;">
 
@@ -42,7 +42,7 @@ C線繁忙時段列車過去以慢車營運[IND匯集線往](https://zh.wikipedi
 
 </div>
 
-C線與CC線列車自1933年7月1日開始營運於新的[IND匯集線](https://zh.wikipedia.org/wiki/IND匯集線 "wikilink")。
+C線與CC線列車自1933年7月1日開始營運於新的[IND匯集線](../Page/IND匯集線.md "wikilink")。
 
 1976年8月27日，C線行駛慢車取代[E線](../Page/紐約地鐵E線.md "wikilink")，自福爾頓街駛至洛克威公園，成為當時唯一橫跨四區的地鐵路線。
 
@@ -139,7 +139,7 @@ C線與CC線列車自1933年7月1日開始營運於新的[IND匯集線](https://
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IND匯集線" title="wikilink">IND匯集線</a>）</p></td>
+（<a href="../Page/IND匯集線.md" title="wikilink">IND匯集線</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -238,7 +238,7 @@ C線與CC線列車自1933年7月1日開始營運於新的[IND匯集線](https://
 <td></td>
 <td><p>nowrap | <br />
 （<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>）<br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）<br />
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）<br />
 （<a href="https://zh.wikipedia.org/wiki/BMT百老匯線" title="wikilink">BMT百老匯線</a>）<br />
 （<a href="../Page/42街接駁線.md" title="wikilink">42街接駁線</a>）<br />
 ，<a href="https://zh.wikipedia.org/wiki/時報廣場-42街車站" title="wikilink">時報廣場-42街</a></p></td>
@@ -357,7 +357,7 @@ C線與CC線列車自1933年7月1日開始營運於新的[IND匯集線](https://
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IND跨城線" title="wikilink">IND跨城線</a>）</p></td>
+（<a href="../Page/IND跨城線.md" title="wikilink">IND跨城線</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -381,7 +381,7 @@ C線與CC線列車自1933年7月1日開始營運於新的[IND匯集線](https://
 <td><p><a href="https://zh.wikipedia.org/wiki/富蘭克林大道車站_(IND福爾頓街線)" title="wikilink">富蘭克林大道</a></p></td>
 <td></td>
 <td></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/BMT富蘭克林大道線" title="wikilink">BMT富蘭克林大道線</a>）</p></td>
+<td><p>（<a href="../Page/BMT富蘭克林大道線.md" title="wikilink">BMT富蘭克林大道線</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">

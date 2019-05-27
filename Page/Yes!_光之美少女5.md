@@ -476,7 +476,7 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
     於第二劇場版中一度為穆舒凡效力，搶走了夢原希的生日蛋糕，并負責把光之美少女一行人騙入由穆舒凡在甜點王國里設下的陷阱當中。事成之後他因為對穆舒凡給予自己的報酬感到強烈不滿而最終離開了穆舒凡身邊。
 
     於《[HUG\!
-    光之美少女](https://zh.wikipedia.org/wiki/HUG!_光之美少女 "wikilink")》的第36話中得知他又曾經一度加入過黑暗明日社但後來逃出，而他又進一步透露自己還在黑暗明日社的時候被分配到特勞姆博士身邊并受其委託製造一件能夠將時間停止的可怕武器。
+    光之美少女](../Page/HUG!_光之美少女.md "wikilink")》的第36話中得知他又曾經一度加入過黑暗明日社但後來逃出，而他又進一步透露自己還在黑暗明日社的時候被分配到特勞姆博士身邊并受其委託製造一件能夠將時間停止的可怕武器。
 
     名稱源自於英文「黃蜂」。
 
@@ -2338,7 +2338,7 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
     作詞：青木久美子、作曲：小杉保夫、編曲：籠島裕昌、歌：キュア・カルテット
 
   - 台灣片尾曲**『ガンバランスdeダンス〜-{希望}-のリレー〜』**（第11話～第48話）
-    作曲：小杉保夫、編曲：籠島裕昌、歌：[草莓姐姐](https://zh.wikipedia.org/wiki/草莓姐姐 "wikilink")、[彩虹姐姐](https://zh.wikipedia.org/wiki/彩虹姐姐 "wikilink")、[蝴蝶姐姐](https://zh.wikipedia.org/wiki/蝴蝶姐姐 "wikilink")
+    作曲：小杉保夫、編曲：籠島裕昌、歌：[草莓姐姐](../Page/草莓姐姐.md "wikilink")、[彩虹姐姐](https://zh.wikipedia.org/wiki/彩虹姐姐 "wikilink")、[蝴蝶姐姐](https://zh.wikipedia.org/wiki/蝴蝶姐姐 "wikilink")
 
   - 香港片頭曲**『Go Go\! 美少女\!』（第3話～第12話）**
     作詞：鄭櫻綸、作曲：間瀬公司、編曲：？、歌：[陳慧敏](https://zh.wikipedia.org/wiki/陳慧敏 "wikilink")
@@ -2514,11 +2514,11 @@ Kingdom)的「巧克娜」公主，並且奪走望的生日蛋糕逃走。巧克
     [光之美少女 All Stars New Stage3
     永遠的朋友](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")
     [光之美少女 All Stars
-    春之嘉年華♪](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_春之嘉年華♪ "wikilink")
+    春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
     [光之美少女 All Stars
     大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
     [HUG！光之美少女♡光之美少女 All Stars
-    Memories](https://zh.wikipedia.org/wiki/HUG！光之美少女♡光之美少女_All_Stars_Memories "wikilink")
+    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
 
 ## 獎項
 

@@ -2,7 +2,7 @@
 
 B線只在平日日間營運，來往[曼哈頓](../Page/曼哈頓.md "wikilink")[哈萊姆區](https://zh.wikipedia.org/wiki/哈萊姆區 "wikilink")[145街與](https://zh.wikipedia.org/wiki/145街車站_\(IND第八大道線\) "wikilink")[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[布萊頓海灘](https://zh.wikipedia.org/wiki/布萊頓海灘車站_\(BMT布萊頓線\) "wikilink")，在曼哈頓以快車營運（[34街及](https://zh.wikipedia.org/wiki/34街-先驅廣場車站_\(IND第六大道線\) "wikilink")[西四街](https://zh.wikipedia.org/wiki/西四街車站_\(IND第六大道線\) "wikilink")），在布魯克林和曼哈頓[145街與](https://zh.wikipedia.org/wiki/145街車站_\(IND第八大道線\) "wikilink")[59街以慢車營運](https://zh.wikipedia.org/wiki/59街-哥倫布圓環車站_\(IND第八大道線\) "wikilink")。繁忙時段，列車延長至超過145街，以[布朗克斯](../Page/布朗克斯.md "wikilink")[貝德福德公園林蔭路](https://zh.wikipedia.org/wiki/貝德福德公園林蔭路車站_\(IND匯集線\) "wikilink")，在布朗克斯以慢車營運。
 
-B線以前幾乎完全在曼哈頓內營運，來往[華盛頓高地的](https://zh.wikipedia.org/wiki/華盛頓高地_\(曼哈頓\) "wikilink")[168街至](https://zh.wikipedia.org/wiki/168街車站_\(IND第八大道線\) "wikilink")[曼哈頓中城的](../Page/曼哈頓中城.md "wikilink")[34街-先驅廣場](https://zh.wikipedia.org/wiki/34街-先驅廣場車站_\(IND第六大道線\) "wikilink")。1967年，通車後，B線開始在布魯克林沿[BMT西城線](https://zh.wikipedia.org/wiki/BMT西城線 "wikilink")（慢車）及[BMT第四大道線](https://zh.wikipedia.org/wiki/BMT第四大道線 "wikilink")（快車）營運。1986年至1988年間受[曼哈頓大橋影響開行了黃色B線列車](../Page/曼哈頓大橋.md "wikilink")，在曼哈頓沿[BMT百老匯線營運](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")，在布魯克林沿BMT西城線營運；而原本的橙色B線列車則在168街和34街之間沿1967年以前的路線行走。1989年後，B線平日在[47-50街-洛克斐勒中心以北使用](https://zh.wikipedia.org/wiki/47-50街-洛克斐勒中心車站_\(IND第六大道線\) "wikilink")[IND第八大道線前往](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")168街，晚上和周末則行走[IND
+B線以前幾乎完全在曼哈頓內營運，來往[華盛頓高地的](https://zh.wikipedia.org/wiki/華盛頓高地_\(曼哈頓\) "wikilink")[168街至](https://zh.wikipedia.org/wiki/168街車站_\(IND第八大道線\) "wikilink")[曼哈頓中城的](../Page/曼哈頓中城.md "wikilink")[34街-先驅廣場](https://zh.wikipedia.org/wiki/34街-先驅廣場車站_\(IND第六大道線\) "wikilink")。1967年，通車後，B線開始在布魯克林沿[BMT西城線](../Page/BMT西城線.md "wikilink")（慢車）及[BMT第四大道線](https://zh.wikipedia.org/wiki/BMT第四大道線 "wikilink")（快車）營運。1986年至1988年間受[曼哈頓大橋影響開行了黃色B線列車](../Page/曼哈頓大橋.md "wikilink")，在曼哈頓沿[BMT百老匯線營運](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")，在布魯克林沿BMT西城線營運；而原本的橙色B線列車則在168街和34街之間沿1967年以前的路線行走。1989年後，B線平日在[47-50街-洛克斐勒中心以北使用](https://zh.wikipedia.org/wiki/47-50街-洛克斐勒中心車站_\(IND第六大道線\) "wikilink")[IND第八大道線前往](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")168街，晚上和周末則行走[IND
 63街線](https://zh.wikipedia.org/wiki/IND_63街線 "wikilink")。深夜列車在西城線以接駁線形式營運。平日列車在1998年改道到匯集線，途經63街的非繁忙時段列車在2000年中止。B線自2004年起使用布萊頓線。
 
 <div class="thumb tright" style="width:auto;">
@@ -53,7 +53,7 @@ B線列車最早規劃為[曼哈頓](../Page/曼哈頓.md "wikilink")[華盛頓�
 
 1995年4月30日，曼哈頓橋北邊軌道關閉直到11月才再度開放，關閉期間內B線只行駛於太平洋街車站行駛至斯堤威爾車站，於BMT西側線行慢車、BMT第四大道現行快車。
 
-1998年3月1日，B線與[C線北訖站對調](../Page/紐約地鐵C線.md "wikilink")，B線尖峰列車改走[IND匯集線](https://zh.wikipedia.org/wiki/IND匯集線 "wikilink")。
+1998年3月1日，B線與[C線北訖站對調](../Page/紐約地鐵C線.md "wikilink")，B線尖峰列車改走[IND匯集線](../Page/IND匯集線.md "wikilink")。
 
 2000年起[IND63街線軌道與號誌維修](https://zh.wikipedia.org/wiki/IND63街線 "wikilink")，B線於非深夜時段改走中央公園西路至145街車站（尖峰至貝德福公園大道）。
 
@@ -86,7 +86,7 @@ B線列車最早規劃為[曼哈頓](../Page/曼哈頓.md "wikilink")[華盛頓�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/IND匯集線" title="wikilink">IND匯集線</a></p></td>
+<td><p><a href="../Page/IND匯集線.md" title="wikilink">IND匯集線</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/貝德福德公園林蔭路車站_(IND匯集線)" title="wikilink">貝德福德公園林蔭路</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/155街車站_(IND匯集線)" title="wikilink">155街</a></p></td>
 <td><p>慢車</p></td>
@@ -170,7 +170,7 @@ B線列車最早規劃為[曼哈頓](../Page/曼哈頓.md "wikilink")[華盛頓�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/IND匯集線" title="wikilink">匯集線</a></strong></p></td>
+<td><p><strong><a href="../Page/IND匯集線.md" title="wikilink">匯集線</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -247,7 +247,7 @@ B線列車最早規劃為[曼哈頓](../Page/曼哈頓.md "wikilink")[華盛頓�
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IRT傑羅姆大道線" title="wikilink">IRT傑羅姆大道線</a>）</p></td>
+（<a href="../Page/IRT傑羅姆大道線.md" title="wikilink">IRT傑羅姆大道線</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -395,7 +395,7 @@ B線列車最早規劃為[曼哈頓](../Page/曼哈頓.md "wikilink")[華盛頓�
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Aiga_elevator.svg" title="fig:Aiga_elevator.svg">Aiga_elevator.svg</a></p></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>，<a href="https://zh.wikipedia.org/wiki/第五大道車站_(IRT法拉盛線)" title="wikilink">第五大道</a>）</p></td>
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>，<a href="https://zh.wikipedia.org/wiki/第五大道車站_(IRT法拉盛線)" title="wikilink">第五大道</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -490,7 +490,7 @@ B線列車最早規劃為[曼哈頓](../Page/曼哈頓.md "wikilink")[華盛頓�
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/BMT富蘭克林大道線" title="wikilink">BMT富蘭克林大道線</a>）</p></td>
+（<a href="../Page/BMT富蘭克林大道線.md" title="wikilink">BMT富蘭克林大道線</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">

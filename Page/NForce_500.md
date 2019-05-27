@@ -38,7 +38,7 @@ AM2處理器同日推出。
     5x連接，頻寬高達8 GB/s。整套芯片组一共提供48条[PCI
     Express管线](../Page/PCI_Express.md "wikilink")。
   - 南桥支援兩個千兆以太网络接口。
-  - 提供6个[SATA-2接口](https://zh.wikipedia.org/wiki/SATA-2 "wikilink")，1个[ATA接口](https://zh.wikipedia.org/wiki/ATA "wikilink")。
+  - 提供6个[SATA-2接口](https://zh.wikipedia.org/wiki/SATA-2 "wikilink")，1个[ATA接口](../Page/ATA.md "wikilink")。
 
 #### nForce 570 SLI
 

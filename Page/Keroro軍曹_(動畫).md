@@ -40,7 +40,7 @@ eleven惡搞了](https://zh.wikipedia.org/wiki/Keroro_eleven "wikilink")[少林�
   - 在台灣，動畫自2005年3月12日開始在[Cartoon
     Network播放](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")；後來[華視也開始播放第一至三輯](../Page/中華電視公司.md "wikilink")，時間為星期六逢下午6時。
   - 在[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")，動畫於2005年9月12日在Tooniverse頻道首次播放。當中，大部分角色的名字都有轉變，以貼近當地文化。
-  - 在[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")，動畫自2007年6月4日於[ABS-CBN播放](https://zh.wikipedia.org/wiki/ABS-CBN "wikilink")。
+  - 在[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")，動畫自2007年6月4日於[ABS-CBN播放](../Page/ABS-CBN.md "wikilink")。
   - 在[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，動畫
     自2007年4月27日於[ntv7播放](https://zh.wikipedia.org/wiki/ntv7 "wikilink")。
   - 在[香港](../Page/香港.md "wikilink")，動畫自2005年4月開始在[有線電視播放](../Page/香港有線電視.md "wikilink")\[1\]，並由[朱茵主唱有線版主題曲](../Page/朱茵.md "wikilink")。[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台則自](../Page/翡翠台.md "wikilink")2006年7月3日開始於兒童節目《[放學ICU](../Page/放學ICU.md "wikilink")》中播放，其後於11月3日開始逢星期四及五下午5時15分播放第二輯，及在2007年8月2日開始逢星期四及五下午5時15分播放第三輯。至於[無綫收費電視](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")[無綫兒童台](https://zh.wikipedia.org/wiki/無綫兒童台 "wikilink")，就是由2007年7月3日開始播放。
@@ -130,7 +130,7 @@ eleven惡搞了](https://zh.wikipedia.org/wiki/Keroro_eleven "wikilink")[少林�
 
   - 「」（Giroro最長之日；從略）
       -
-        演唱：[中田讓治](../Page/中田讓治.md "wikilink")、[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")（Giroro、夏美），作詞：[池田真美子](https://zh.wikipedia.org/wiki/池田真美子 "wikilink")，作曲、編曲：澤田完
+        演唱：[中田讓治](../Page/中田讓治.md "wikilink")、[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")（Giroro、夏美），作詞：[池田真美子](../Page/池田真美子.md "wikilink")，作曲、編曲：澤田完
   - 「」（戀愛的Shooting Star；12集、19集、27集、78集、117集）
       -
         演唱：井端珠里（Sumomo），作詞、作曲、編曲：鈴木子、[掛川陽介](https://zh.wikipedia.org/wiki/掛川陽介 "wikilink")、[本澤尚之](https://zh.wikipedia.org/wiki/本澤尚之 "wikilink")

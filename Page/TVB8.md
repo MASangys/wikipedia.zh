@@ -194,7 +194,7 @@ Sawasdee Station</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/为她而战" title="wikilink">為她而戰</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/为她而战.md" title="wikilink">為她而戰</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -202,7 +202,7 @@ Sawasdee Station</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/不得不爱" title="wikilink">不得不愛</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/不得不爱.md" title="wikilink">不得不愛</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -235,7 +235,7 @@ Sawasdee Station</p></td>
 亞太標清版除了在[香港透過](../Page/香港.md "wikilink")[無綫網絡電視](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")、[now寬頻電視收看之外](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，同時在[澳洲透過](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[翡翠互動電視](https://zh.wikipedia.org/wiki/翡翠互動電視 "wikilink")、[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[新加坡透過](../Page/新加坡.md "wikilink")[星和視界](https://zh.wikipedia.org/wiki/新加坡電視頻道列表 "wikilink")、[馬來西亞透過](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[UniFi](https://zh.wikipedia.org/wiki/w:en:UniFi "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[越南和](https://zh.wikipedia.org/wiki/越南 "wikilink")[澳門透過](../Page/澳門.md "wikilink")[澳門有線電視收看](../Page/澳門有線電視.md "wikilink")，該版本從啟播至2010年6月30日在[馬來西亞可透過](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro使用第](https://zh.wikipedia.org/wiki/Astro "wikilink")313頻道（啟播初期曾使用第33頻道更改）收看，後可[馬來西亞透過](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[UniFi](https://zh.wikipedia.org/wiki/w:en:UniFi "wikilink")
 IPTV在第154頻道(後為208和234頻道頻道)
 收看，[台灣天外天有線電視曾在](https://zh.wikipedia.org/wiki/台灣 "wikilink")2001年上架亞太標清版\[3\]；亞太高清版目前只在亞太六號衛星上作試播，尚無任何地區落地；美國版從啟播至2012年11月18日在[美國曾透過](https://zh.wikipedia.org/wiki/美國 "wikilink")[DIRECTV使用第](../Page/DirecTV.md "wikilink")2058頻道收看，同日在[美國透過](https://zh.wikipedia.org/wiki/美國 "wikilink")[Dish
-Network使用第](https://zh.wikipedia.org/wiki/Dish_Network "wikilink")9938頻道收看\[4\]。台灣版從啟播之日起透過[中華電信MOD使用第](../Page/中華電信MOD.md "wikilink")40頻道收看。
+Network使用第](../Page/Dish_Network.md "wikilink")9938頻道收看\[4\]。台灣版從啟播之日起透過[中華電信MOD使用第](../Page/中華電信MOD.md "wikilink")40頻道收看。
 
 亞太標清版的節目編排時間以[香港時間為準](../Page/香港時間.md "wikilink")，播放地區亦同時在[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[越南和](https://zh.wikipedia.org/wiki/越南 "wikilink")[澳洲收看](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，該版本與美國版本所播放的節目內容不同，亞太版本除了部分時間播放自製節目之外，其餘時間播放[香港無綫電視所製播的旅遊](https://zh.wikipedia.org/wiki/香港無綫電視 "wikilink")、飲食、生活消閒、紀實和資訊節目及[處境劇集](https://zh.wikipedia.org/wiki/處境劇集 "wikilink")，以及外購[劇集及綜藝娛樂](https://zh.wikipedia.org/wiki/劇集 "wikilink")、旅遊、飲食、音樂、生活消閒、時尚、紀實和資訊節目。
 
@@ -244,7 +244,7 @@ Network使用第](https://zh.wikipedia.org/wiki/Dish_Network "wikilink")9938頻�
 美國版的節目編排時間以[西岸為準](../Page/美國西岸.md "wikilink")，播放地區亦同時僅在美國收看。與亞太版本所播放的節目內容不同，美國版本除了部分時間播放自製節目之外，其餘時間播放[香港無綫電視所製播的](https://zh.wikipedia.org/wiki/香港無綫電視 "wikilink")[劇集及旅遊](https://zh.wikipedia.org/wiki/劇集 "wikilink")、飲食、生活消閒、紀實和資訊節目、以《明珠新聞》作為節目名稱而播放的[明珠台節目](../Page/明珠台.md "wikilink")《[七點半新聞報道](../Page/七點半新聞報道.md "wikilink")》(本節目僅以英語原音廣播並提供英文字幕)、由[myTV
 SUPER製作而以國語廣播播放的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")《[娛樂新聞報道](../Page/TVB娛樂新聞報道.md "wikilink")》以及由[神州新聞台所提供的中國大陸各地電視台新聞](../Page/神州新聞台.md "wikilink")（以《神州新聞》作為節目名稱）和節目《[文化中國](../Page/文化中國.md "wikilink")》，還有在美國當地製作而播放的《美國新聞》和《財經新聞》。
 
-台灣版由[TVBS營運](https://zh.wikipedia.org/wiki/TVBS "wikilink")，屬於联意制作股份有限公司（[TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink")）的家族頻道之一，亦是TVBS的第一个高清綜合頻道。原定2013年6月17日開播，後延到2013年7月8日中午12點在[中華電信MOD第](../Page/中華電信MOD.md "wikilink")40頻道開播。該版本以播放TVBS自制的綜藝節目與[香港無綫電視的港劇為主](https://zh.wikipedia.org/wiki/香港無綫電視 "wikilink")，亦會少量播放來自香港TVB8的自制節目以及來自香港TVB的非劇集類節目。台灣版於2017年8月3日停播，並變更為[TVBS精采台](https://zh.wikipedia.org/wiki/TVBS精采台 "wikilink")。
+台灣版由[TVBS營運](https://zh.wikipedia.org/wiki/TVBS "wikilink")，屬於联意制作股份有限公司（[TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink")）的家族頻道之一，亦是TVBS的第一个高清綜合頻道。原定2013年6月17日開播，後延到2013年7月8日中午12點在[中華電信MOD第](../Page/中華電信MOD.md "wikilink")40頻道開播。該版本以播放TVBS自制的綜藝節目與[香港無綫電視的港劇為主](https://zh.wikipedia.org/wiki/香港無綫電視 "wikilink")，亦會少量播放來自香港TVB8的自制節目以及來自香港TVB的非劇集類節目。台灣版於2017年8月3日停播，並變更為[TVBS精采台](../Page/TVBS精采台.md "wikilink")。
 
 ## 參考資料
 
@@ -253,7 +253,7 @@ SUPER製作而以國語廣播播放的](https://zh.wikipedia.org/wiki/myTV_SUPER
 ## 參見
 
   - [TVB8 (台灣版)](../Page/TVB8_\(台灣版\).md "wikilink")
-  - [普通話翡翠台](https://zh.wikipedia.org/wiki/普通话翡翠台 "wikilink")
+  - [普通話翡翠台](../Page/普通话翡翠台.md "wikilink")
   - [TVB星河頻道](../Page/TVB星河頻道.md "wikilink")
 
 ## 外部連結

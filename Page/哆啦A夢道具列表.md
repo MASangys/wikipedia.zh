@@ -1,4 +1,4 @@
-**哆啦A夢的道具列表**是[藤子·F·不二雄原作](../Page/藤子·F·不二雄.md "wikilink")[漫畫以及衍生](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫系列](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》角色「[哆啦A夢](../Page/哆啦A夢_\(角色\).md "wikilink")」其腹部的「四次元百寶袋」所拿出的[法寶](https://zh.wikipedia.org/wiki/法寶_\(多啦A夢\) "wikilink")（秘密道-{}-具）的一覽表。**截止目前為止哆啦A夢共有約2616個道具。**\[1\]
+**哆啦A夢的道具列表**是[藤子·F·不二雄原作](../Page/藤子·F·不二雄.md "wikilink")[漫畫以及衍生](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫系列](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》角色「[哆啦A夢](../Page/哆啦A夢_\(角色\).md "wikilink")」其腹部的「四次元百寶袋」所拿出的[法寶](../Page/法寶_\(多啦A夢\).md "wikilink")（秘密道-{}-具）的一覽表。**截止目前為止哆啦A夢共有約2616個道具。**\[1\]
 
 ## 原作與動畫的差異
 
@@ -168,7 +168,7 @@
 <tr class="odd">
 <td><p>冒險茶</p></td>
 <td></td>
-<td><p>一種極好喝的<a href="https://zh.wikipedia.org/wiki/飲料" title="wikilink">飲料</a>，但飲用者在飲用後將被迫進行保證安全而刺激的<a href="https://zh.wikipedia.org/wiki/冒險" title="wikilink">冒險</a>。</p></td>
+<td><p>一種極好喝的<a href="https://zh.wikipedia.org/wiki/飲料" title="wikilink">飲料</a>，但飲用者在飲用後將被迫進行保證安全而刺激的<a href="../Page/冒險.md" title="wikilink">冒險</a>。</p></td>
 </tr>
 </tbody>
 </table>
@@ -6065,7 +6065,7 @@
 <tr class="odd">
 <td><p><a href="../Page/竹蜻蜓_(哆啦A夢).md" title="wikilink">竹蜻蜓</a></p></td>
 <td></td>
-<td><p>早期有另一名稱 - <strong>直升蜻蜓</strong>，兩名稱一直並用至1979年製作電視動畫才統一稱為<strong>竹蜻蜓</strong>。內部裝有一個超小的<a href="https://zh.wikipedia.org/wiki/電池" title="wikilink">電池</a>。能夠以<a href="https://zh.wikipedia.org/wiki/時速" title="wikilink">時速</a>80<a href="../Page/公里.md" title="wikilink">公里連續在空中</a><a href="https://zh.wikipedia.org/wiki/飛行" title="wikilink">飛行</a>8<a href="https://zh.wikipedia.org/wiki/小時" title="wikilink">小時</a>（某些情況是4小時）。此外，據說如果是飛一會兒休息一會兒的話，電池就能夠維持更長的時間，飛行距離也更遠。可以在<a href="../Page/天空.md" title="wikilink">天上或</a><a href="https://zh.wikipedia.org/wiki/海" title="wikilink">海裡使用</a>。但是在某些片段時，沒電時，休息20個小時還可以繼續使用。</p></td>
+<td><p>早期有另一名稱 - <strong>直升蜻蜓</strong>，兩名稱一直並用至1979年製作電視動畫才統一稱為<strong>竹蜻蜓</strong>。內部裝有一個超小的<a href="https://zh.wikipedia.org/wiki/電池" title="wikilink">電池</a>。能夠以<a href="https://zh.wikipedia.org/wiki/時速" title="wikilink">時速</a>80<a href="../Page/公里.md" title="wikilink">公里連續在空中</a><a href="https://zh.wikipedia.org/wiki/飛行" title="wikilink">飛行</a>8<a href="https://zh.wikipedia.org/wiki/小時" title="wikilink">小時</a>（某些情況是4小時）。此外，據說如果是飛一會兒休息一會兒的話，電池就能夠維持更長的時間，飛行距離也更遠。可以在<a href="../Page/天空.md" title="wikilink">天上或</a><a href="../Page/海.md" title="wikilink">海裡使用</a>。但是在某些片段時，沒電時，休息20個小時還可以繼續使用。</p></td>
 </tr>
 <tr class="even">
 <td><p>竹筍蜻蜓<br />

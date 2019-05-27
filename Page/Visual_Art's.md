@@ -1,5 +1,5 @@
 **Visual
-Art's**（ビジュアルアーツ）是一家[日本](../Page/日本.md "wikilink")[遊戲公司](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，[總部位於](https://zh.wikipedia.org/wiki/總部 "wikilink")[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")，在1991年3月26日成立。\[1\]擁有[Key及ZERO等遊戲品牌](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")。旗下各品牌之中，有的專注於發行[男性向](https://zh.wikipedia.org/wiki/男性向 "wikilink")，有的則專注製作[女性向戀愛冒險遊戲](https://zh.wikipedia.org/wiki/女性向 "wikilink")。
+Art's**（ビジュアルアーツ）是一家[日本](../Page/日本.md "wikilink")[遊戲公司](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，[總部位於](https://zh.wikipedia.org/wiki/總部 "wikilink")[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")，在1991年3月26日成立。\[1\]擁有[Key及ZERO等遊戲品牌](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")。旗下各品牌之中，有的專注於發行[男性向](../Page/男性向.md "wikilink")，有的則專注製作[女性向戀愛冒險遊戲](../Page/女性向.md "wikilink")。
 
 目前該公司主要以發行利用自主開發的遊戲引擎（AVG32、RealLive、SiglusEngine）所製作的遊戲為主要業務，除此之外，也販售自遊戲所衍生的周邊商品及音樂CD。
 
@@ -43,7 +43,7 @@ Art's**（ビジュアルアーツ）是一家[日本](../Page/日本.md "wikili
 <li><a href="../Page/SAGA_PLANETS.md" title="wikilink">SAGA PLANETS</a></li>
 <li></li>
 <li><a href="https://zh.wikipedia.org/wiki/Spray" title="wikilink">Spray</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/Studio_Mebius" title="wikilink">Studio Mebius</a>（Studio Ring）</li>
+<li><a href="../Page/Studio_Mebius.md" title="wikilink">Studio Mebius</a>（Studio Ring）</li>
 <li>tone work's</li>
 <li>ZION</li>
 <li><a href="https://zh.wikipedia.org/wiki/イージーオー" title="wikilink">イージーオー</a>（E.G.O.）</li>

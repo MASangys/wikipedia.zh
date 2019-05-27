@@ -1,6 +1,6 @@
 《**Macross
 Plus**》是[超時空要塞系列於](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")1990年代中期發行的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，由[TRIANGLE
-STAFF製作](https://zh.wikipedia.org/wiki/TRIANGLE_STAFF "wikilink")。描述初代超時空要塞故事後30年，統合軍於外星殖民地開發新式[可變型戰鬥機的始末](../Page/可變型戰鬥機.md "wikilink")。本片共分四集，並於1995年公開由四集OVA剪輯而成的電影版。
+STAFF製作](../Page/TRIANGLE_STAFF.md "wikilink")。描述初代超時空要塞故事後30年，統合軍於外星殖民地開發新式[可變型戰鬥機的始末](../Page/可變型戰鬥機.md "wikilink")。本片共分四集，並於1995年公開由四集OVA剪輯而成的電影版。
 
 ## 概要
 
@@ -90,8 +90,7 @@ X-9](https://zh.wikipedia.org/wiki/GHOST_X-9 "wikilink")，並將於第一次宇
 
 <!-- end list -->
 
-  - 动画制作 - [TRIANGLE
-    STAFF](https://zh.wikipedia.org/wiki/TRIANGLE_STAFF "wikilink")
+  - 动画制作 - [TRIANGLE STAFF](../Page/TRIANGLE_STAFF.md "wikilink")
   - 音楽 - [菅野洋子](../Page/菅野洋子.md "wikilink")（劇中曲「Information
     High」のみ[CMJK](https://zh.wikipedia.org/wiki/CMJK "wikilink")）
 

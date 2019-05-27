@@ -209,12 +209,12 @@ Station為平台冒險遊戲，詳情請見\[1\]
 ###### 佛教畫師香山家
 
   - 香山史（林水的妻子）：（19歳：西川綾乃）
-  - 香山麻里莫（林水的女兒漫畫家）：[原田夏希](https://zh.wikipedia.org/wiki/原田夏希 "wikilink")
+  - 香山麻里莫（林水的女兒漫畫家）：[原田夏希](../Page/原田夏希.md "wikilink")
   - 香山林水（現當家）：（22歳：）
   - 香山多可志（林水的兒子，麻里莫的哥哥）：
   - 吉村益男（管理人） ：（17歳：依田哲哉）
   - 香山綾緒（多可志的妻子）：
-  - 香山祐介（多可志的兒子）：[高橋來](https://zh.wikipedia.org/wiki/高橋來 "wikilink")
+  - 香山祐介（多可志的兒子）：[高橋來](../Page/高橋來.md "wikilink")
   - 香山風采（前當家）：牛尾元昭
 
 ##### 第5話－第6話
@@ -245,7 +245,7 @@ Station為平台冒險遊戲，詳情請見\[1\]
 
   - 筒見紀世都（藝術家）：
   - 筒見明日香（紀世都的妹妹，角色扮演玩家）：
-  - 武蔵川純（地球防衛軍）：[加藤諒](https://zh.wikipedia.org/wiki/加藤諒 "wikilink")
+  - 武蔵川純（地球防衛軍）：[加藤諒](../Page/加藤諒.md "wikilink")
   - 儀同世津子（飛特族）：
   - 大御防安朋（萌繪的堂哥，戀愛小説家）：
 
@@ -443,7 +443,7 @@ INSIDER**》，於2015年10月在[noitaminA時段播放](https://zh.wikipedia.or
   - 犀川創平：[加瀨康之](../Page/加瀨康之.md "wikilink")
   - 西之園萌繪：[種崎敦美](../Page/種崎敦美.md "wikilink")
   - 真賀田四季：[木戶衣吹](../Page/木戶衣吹.md "wikilink")
-  - 新藤清二：[咲野俊介](https://zh.wikipedia.org/wiki/咲野俊介 "wikilink")
+  - 新藤清二：[咲野俊介](../Page/咲野俊介.md "wikilink")
   - 新藤裕見子：
   - 山根幸宏：[鈴木達央](../Page/鈴木達央.md "wikilink")
   - 弓永富彥：
@@ -455,8 +455,8 @@ INSIDER**》，於2015年10月在[noitaminA時段播放](https://zh.wikipedia.or
   - 國枝桃子：[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")
   - 濱中深志：[村田太志](../Page/村田太志.md "wikilink")
   - 儀同世津子：[堀江由衣](../Page/堀江由衣.md "wikilink")
-  - 諏訪野：[長克巳](https://zh.wikipedia.org/wiki/長克巳 "wikilink")
-  - 真賀田左千朗：[山路和弘](https://zh.wikipedia.org/wiki/山路和弘 "wikilink")
+  - 諏訪野：[長克巳](../Page/長克巳.md "wikilink")
+  - 真賀田左千朗：[山路和弘](../Page/山路和弘.md "wikilink")
   - 真賀田美千代：[園崎未惠](../Page/園崎未惠.md "wikilink")
 
 ### 主題曲
@@ -488,7 +488,7 @@ INSIDER**》，於2015年10月在[noitaminA時段播放](https://zh.wikipedia.or
 <td><p>第一章</p></td>
 <td></td>
 <td><p>白色面會</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大野敏哉" title="wikilink">大野敏哉</a></p></td>
+<td><p><a href="../Page/大野敏哉.md" title="wikilink">大野敏哉</a></p></td>
 <td><p><a href="../Page/神戶守.md" title="wikilink">神戶守</a></p></td>
 <td><p>黑木美幸</p></td>
 <td><p>近藤圭一、栗原優</p></td>
@@ -554,7 +554,7 @@ INSIDER**》，於2015年10月在[noitaminA時段播放](https://zh.wikipedia.or
 <td><p>紫色的黎明</p></td>
 <td><p>雨宮真美</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/石踊宏" title="wikilink">石踊宏</a></p></td>
+<td><p><a href="../Page/石踊宏.md" title="wikilink">石踊宏</a></p></td>
 <td><p>澀谷一彦</p></td>
 </tr>
 <tr class="odd">

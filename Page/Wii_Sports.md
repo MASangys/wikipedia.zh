@@ -1,6 +1,6 @@
 是一款適用於[Wii](../Page/Wii.md "wikilink")[遊樂器的](../Page/電子遊戲機.md "wikilink")[電子遊戲](../Page/电子游戏.md "wikilink")，由[日本](../Page/日本.md "wikilink")[任天堂公司製作](../Page/任天堂.md "wikilink")，\[1\]在欧美地区属於[Wii系列和](https://zh.wikipedia.org/wiki/Wii系列 "wikilink")[Touch\!
-Generations系列中的一作](https://zh.wikipedia.org/wiki/Touch!_Generations "wikilink")。游戏於2006年11月19日在[北美地区随Wii游戏机先行发售](https://zh.wikipedia.org/wiki/北美 "wikilink")，并在随後一个月内於日本、澳大利亚和欧洲发行。2008年，游戏先後在南韩和台湾发行，也成为Wii上为数不多的中文游戏之一。\[2\]除日本和韩国外，所有的Wii游戏机均同捆本作销售，\[3\]使得本作成为自1995年[Virtual
-Boy平台的](../Page/Virtual_Boy.md "wikilink")《[马里奥网球](https://zh.wikipedia.org/wiki/马里奥网球 "wikilink")》以来，再度綑綁任天堂游戏机販售的首发游戏。
+Generations系列中的一作](../Page/Touch!_Generations.md "wikilink")。游戏於2006年11月19日在[北美地区随Wii游戏机先行发售](https://zh.wikipedia.org/wiki/北美 "wikilink")，并在随後一个月内於日本、澳大利亚和欧洲发行。2008年，游戏先後在南韩和台湾发行，也成为Wii上为数不多的中文游戏之一。\[2\]除日本和韩国外，所有的Wii游戏机均同捆本作销售，\[3\]使得本作成为自1995年[Virtual
+Boy平台的](../Page/Virtual_Boy.md "wikilink")《[马里奥网球](../Page/马里奥网球.md "wikilink")》以来，再度綑綁任天堂游戏机販售的首发游戏。
 
 游戏包含了五種[運動模擬遊戲](https://zh.wikipedia.org/wiki/體育類遊戲 "wikilink")，主要是為了向新玩家展示Wii遊樂器的動作感應功能，運動項目包含網球、棒球、保齡球、高爾夫球和拳擊。玩家能使用[Wii手柄做出與真實生活中的運動類似之動作](https://zh.wikipedia.org/wiki/Wii_Remote "wikilink")，例如揮動網球拍、丟擲保齡球等。\[4\]每種運動遊戲的規則都經過簡化，讓剛接觸的玩者容易上手。\[5\]游戏还拥有练习模式和监测玩家运动进展的体力测定模式。\[6\]
 
@@ -65,7 +65,7 @@ Sports》中最佳的锻炼方式，但也批评游戏中出拳的时机太难�
 《Wii
 Sports》在2006年E3展的首次亮相就载誉而归，在游戏展上拿下游戏评论奖的“最佳体育游戏”。\[83\][1UP.com在其](../Page/1UP.com.md "wikilink")“2006年E3最佳”专题中将其列为“最佳Wii游戏”和“最创新游戏”。\[84\]随着游戏的发行，《Wii
 Sports》更从各组织、网站和杂志斩获众多奖项。IGN授予其“2006年最佳体育游戏”，\[85\][《时代》周刊将其列为](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")“2006年十大电子游戏”之榜首。\[86\]《Wii
-Sports》还赢得了《[Fami通](../Page/Fami通.md "wikilink")》2006年的“革新大赏”，\[87\]《[电子游戏月刊](https://zh.wikipedia.org/wiki/电子游戏月刊 "wikilink")》亦在其2006年“1Up
+Sports》还赢得了《[Fami通](../Page/Fami通.md "wikilink")》2006年的“革新大赏”，\[87\]《[电子游戏月刊](../Page/电子游戏月刊.md "wikilink")》亦在其2006年“1Up
 网络奖”中授予其“最佳多人游戏奖”。\[88\]在2007年[互动成就奖中](https://zh.wikipedia.org/wiki/互动成就奖 "wikilink")，《Wii
 Sports》摘得“游戏技术杰出成就奖”、“游戏设计杰出成就奖”和“游戏杰出创新奖”三项大奖。\[89\]2007年，游戏在游戏开发者优选奖（Interactive
 Achievement
@@ -78,7 +78,7 @@ Sports》一举囊括13项大奖中的6项：休闲游戏、游戏操作、策�
 
 作为Wii在全球大获成功的一个主因，《Wii
 Sports》是任天堂在欧美“[Wii系列](https://zh.wikipedia.org/wiki/Wii系列 "wikilink")”游戏中的第一作。\[94\]该系列还包括《[第一次的Wii](../Page/第一次的Wii.md "wikilink")》、《[Wii
-Fit](https://zh.wikipedia.org/wiki/Wii_Fit "wikilink")》、《[Wii国际象棋](https://zh.wikipedia.org/wiki/Wii国际象棋 "wikilink")》（Wii
+Fit](../Page/Wii_Fit.md "wikilink")》、《[Wii国际象棋](../Page/Wii国际象棋.md "wikilink")》（Wii
 Chess）和《[Wii
 Music](../Page/Wii_Music.md "wikilink")》。\[95\]其续作《[Wii运动胜地](https://zh.wikipedia.org/wiki/Wii運動：度假勝地 "wikilink")》也於2009年内发售。\[96\]一般认为，游戏像《Wii
 Fit》一样吸引了更多的休闲、女性和老人玩家，\[97\]更成为拉近家庭成员之间关系的纽带，经常使用还可作为健身和减肥的手段。\[98\]\[99\]利物浦约翰摩尔斯大学曾做过一项针对13-15岁青少年的研究，结果表明，玩家使用Wii时要比玩其他游戏机多消耗2%的能量。研究指出，该游戏并不能替代实际运动，但可能有助於控制体重。\[100\]《Wii
@@ -101,7 +101,7 @@ O'Brien*）的某集中，主持人柯南·奥布赖恩和嘉宾网球明星[小
 Sports》网球。\[120\]而在加拿大的《Rick Mercer
 Report》节目裡，前加拿大[总理](../Page/总理.md "wikilink")[让·克雷蒂安在](../Page/让·克雷蒂安.md "wikilink")《Wii
 Sports》拳击中击败了主持人Rick
-Mercer。\[121\]拳击游戏同样出现在了《科尔伯特报告》中，在其节目片段裡，主持人史蒂芬·科尔伯特和[美国众议院议长](../Page/美國眾議院議長.md "wikilink")[南希·佩洛西的Mii版造型在拳击场上一决雌雄](https://zh.wikipedia.org/wiki/蘭希·佩洛西 "wikilink")。\[122\]在[第80屆奧斯卡金像獎颁奖典礼上](https://zh.wikipedia.org/wiki/第80屆奧斯卡金像獎 "wikilink")，主持人[乔恩·斯图尔特和](../Page/喬恩·史都華.md "wikilink")《[八月迷情](https://zh.wikipedia.org/wiki/八月迷情 "wikilink")》（*August
+Mercer。\[121\]拳击游戏同样出现在了《科尔伯特报告》中，在其节目片段裡，主持人史蒂芬·科尔伯特和[美国众议院议长](../Page/美國眾議院議長.md "wikilink")[南希·佩洛西的Mii版造型在拳击场上一决雌雄](https://zh.wikipedia.org/wiki/蘭希·佩洛西 "wikilink")。\[122\]在[第80屆奧斯卡金像獎颁奖典礼上](https://zh.wikipedia.org/wiki/第80屆奧斯卡金像獎 "wikilink")，主持人[乔恩·斯图尔特和](../Page/喬恩·史都華.md "wikilink")《[八月迷情](../Page/八月迷情.md "wikilink")》（*August
 Rush*）中的童星[嘉米娅·西蒙娜·纳什](https://zh.wikipedia.org/wiki/嘉米娅·西蒙娜·纳什 "wikilink")（Jamia
 Simone Nash）更是在广告休息之後用舞台大屏幕大玩《Wii Sports》网球，利用这一笑点把观众拉回到颁奖现场。\[123\]
 

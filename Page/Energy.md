@@ -183,8 +183,7 @@
   - 《[世間情](../Page/世間情.md "wikilink")》（2013）：阿弟 飾演 葉俊英
   - 《[威廉王子](https://zh.wikipedia.org/wiki/威廉王子 "wikilink")》（2014.04）：坤達
     飾演 易威廉 / 劉文彬
-  - 《[幸福兌換券](https://zh.wikipedia.org/wiki/幸福兌換券 "wikilink")》（2014.09）：坤達
-    飾演 史博海
+  - 《[幸福兌換券](../Page/幸福兌換券.md "wikilink")》（2014.09）：坤達 飾演 史博海
   - 《[舞吧舞吧在一起](../Page/舞吧舞吧在一起.md "wikilink")》（2015）：小剛 飾演 李修齊（Mike）
   - 《[甘味人生](../Page/甘味人生.md "wikilink")》（2015）：阿弟 飾演 戴勤生
 
@@ -192,7 +191,7 @@
 
   - 《[巧克力重擊](https://zh.wikipedia.org/wiki/巧克力重擊 "wikilink") [Chocolate
     Rap](https://zh.wikipedia.org/wiki/Chocolate_Rap "wikilink")》（2006）：小剛
-  - 《[當我們同在一起](https://zh.wikipedia.org/wiki/當我們同在一起 "wikilink") [GO GO
+  - 《[當我們同在一起](../Page/當我們同在一起.md "wikilink") [GO GO
     G-BOYS](https://zh.wikipedia.org/wiki/GO_GO_G-BOYS "wikilink")》（2006）：小剛
   - 《[一席之地](../Page/一席之地.md "wikilink") [A Place of One’s
     Own](https://zh.wikipedia.org/wiki/A_Place_of_One’s_Own "wikilink")》（2009）：小剛

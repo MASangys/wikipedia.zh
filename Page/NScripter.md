@@ -52,7 +52,7 @@ Alicesoft
 
 ## 参见
 
-  - [视觉小说引擎列表](https://zh.wikipedia.org/wiki/视觉小说引擎列表 "wikilink")
+  - [视觉小说引擎列表](../Page/视觉小说引擎列表.md "wikilink")
 
 ## 外部链接
 

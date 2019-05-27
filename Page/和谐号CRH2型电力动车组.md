@@ -1,4 +1,4 @@
-**和谐号CRH2型电力动车组**，是原中华人民共和国铁道部（现在[中国铁路总公司](../Page/中国铁路总公司.md "wikilink")）为进行[中国铁路第六次大提速及营运新建的](https://zh.wikipedia.org/wiki/中国铁路大提速#中国铁路第六次大提速 "wikilink")[高速城际铁路及客运专线](https://zh.wikipedia.org/wiki/中國高速鐵路 "wikilink")，而向[日本](../Page/日本.md "wikilink")[川崎重工及](../Page/川崎重工業.md "wikilink")[中国中车](https://zh.wikipedia.org/wiki/中国中车 "wikilink")[中車青島四方機車車輛股份有限公司订购的](https://zh.wikipedia.org/wiki/中車青島四方機車車輛股份有限公司 "wikilink")[CRH系列高速](../Page/中国铁路高速列车.md "wikilink")[动车组车款之一](https://zh.wikipedia.org/wiki/动车组 "wikilink")。中国铁路总公司所有引进国外技术、联合设计生产的中国铁路高速列车（CRH）均命名为「**[和谐号](../Page/和谐号电力动车组.md "wikilink")**」。
+**和谐号CRH2型电力动车组**，是原中华人民共和国铁道部（现在[中国铁路总公司](../Page/中国铁路总公司.md "wikilink")）为进行[中国铁路第六次大提速及营运新建的](https://zh.wikipedia.org/wiki/中国铁路大提速#中国铁路第六次大提速 "wikilink")[高速城际铁路及客运专线](https://zh.wikipedia.org/wiki/中國高速鐵路 "wikilink")，而向[日本](../Page/日本.md "wikilink")[川崎重工及](../Page/川崎重工業.md "wikilink")[中国中车](../Page/中国中车.md "wikilink")[中車青島四方機車車輛股份有限公司订购的](https://zh.wikipedia.org/wiki/中車青島四方機車車輛股份有限公司 "wikilink")[CRH系列高速](../Page/中国铁路高速列车.md "wikilink")[动车组车款之一](https://zh.wikipedia.org/wiki/动车组 "wikilink")。中国铁路总公司所有引进国外技术、联合设计生产的中国铁路高速列车（CRH）均命名为「**[和谐号](../Page/和谐号电力动车组.md "wikilink")**」。
 
 ## 概要
 
@@ -482,14 +482,14 @@ ZE 2xxx00</p></td>
 <td><p>54</p></td>
 <td><p>2238、2240～2245、2262、2263、2269、2270、2276、2281、2286、2287、2296、2297、2303、2312～2315、2327、2328、2346～2348、2351、2370、2371、2375、2377、2378、2383、2386、2387、2393、2394、2398、2399、2401、2404、2407、2443～2445、2450、4018、4027、4031、4032、4069、4114、4115</p></td>
 <td><p>南宁</p></td>
-<td><p><a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="https://zh.wikipedia.org/wiki/南钦铁路" title="wikilink">南钦铁路</a>、<a href="https://zh.wikipedia.org/wiki/钦防铁路" title="wikilink">钦防铁路</a>、<a href="../Page/钦北铁路.md" title="wikilink">钦北铁路</a>、<a href="https://zh.wikipedia.org/wiki/柳南客运专线" title="wikilink">柳南客运专线</a>、<a href="../Page/南广铁路.md" title="wikilink">南广铁路</a>、<a href="../Page/贵广客运专线.md" title="wikilink">贵广客运专线</a>、<a href="https://zh.wikipedia.org/wiki/渝貴铁路" title="wikilink">渝貴铁路</a>、<a href="https://zh.wikipedia.org/wiki/蘭渝铁路" title="wikilink">蘭渝铁路</a>、<a href="https://zh.wikipedia.org/wiki/西成高速鐵路" title="wikilink">西成高速鐵路</a></p></td>
+<td><p><a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="https://zh.wikipedia.org/wiki/南钦铁路" title="wikilink">南钦铁路</a>、<a href="../Page/钦防铁路.md" title="wikilink">钦防铁路</a>、<a href="../Page/钦北铁路.md" title="wikilink">钦北铁路</a>、<a href="https://zh.wikipedia.org/wiki/柳南客运专线" title="wikilink">柳南客运专线</a>、<a href="../Page/南广铁路.md" title="wikilink">南广铁路</a>、<a href="../Page/贵广客运专线.md" title="wikilink">贵广客运专线</a>、<a href="https://zh.wikipedia.org/wiki/渝貴铁路" title="wikilink">渝貴铁路</a>、<a href="https://zh.wikipedia.org/wiki/蘭渝铁路" title="wikilink">蘭渝铁路</a>、<a href="https://zh.wikipedia.org/wiki/西成高速鐵路" title="wikilink">西成高速鐵路</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>40</p></td>
 <td><p>2239、2266、2277～2280、2288、2289、2300、2301、2306、2307、2366～2369、2376、2384、2400、2402、2412、2413、2431～2433、2439、4033、4034、4041、4043、4044、4068、4070、4071、4116～4121</p></td>
 <td><p>桂林北</p></td>
-<td><p><a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="https://zh.wikipedia.org/wiki/南钦铁路" title="wikilink">南钦铁路</a>、<a href="https://zh.wikipedia.org/wiki/钦防铁路" title="wikilink">钦防铁路</a>、<a href="../Page/钦北铁路.md" title="wikilink">钦北铁路</a>、<a href="https://zh.wikipedia.org/wiki/柳南客运专线" title="wikilink">柳南客运专线</a>、<a href="../Page/南广铁路.md" title="wikilink">南广铁路</a>、<a href="../Page/贵广客运专线.md" title="wikilink">贵广客运专线</a></p></td>
+<td><p><a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="https://zh.wikipedia.org/wiki/南钦铁路" title="wikilink">南钦铁路</a>、<a href="../Page/钦防铁路.md" title="wikilink">钦防铁路</a>、<a href="../Page/钦北铁路.md" title="wikilink">钦北铁路</a>、<a href="https://zh.wikipedia.org/wiki/柳南客运专线" title="wikilink">柳南客运专线</a>、<a href="../Page/南广铁路.md" title="wikilink">南广铁路</a>、<a href="../Page/贵广客运专线.md" title="wikilink">贵广客运专线</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -506,7 +506,7 @@ ZE 2xxx00</p></td>
 <td><p>14</p></td>
 <td><p>2330、2380、2416、2473～2475、2487、2497、4001、4003、4004、4055、4063、4066</p></td>
 <td><p>广州南</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/遂成铁路" title="wikilink">遂成铁路</a>、<a href="../Page/遂渝铁路.md" title="wikilink">遂渝铁路</a>、<a href="https://zh.wikipedia.org/wiki/渝貴铁路" title="wikilink">渝貴铁路</a>、<a href="https://zh.wikipedia.org/wiki/貴廣高速铁路" title="wikilink">貴廣高速铁路</a>、<a href="../Page/南广铁路.md" title="wikilink">南广铁路</a>、<a href="https://zh.wikipedia.org/wiki/柳南客运专线" title="wikilink">柳南客运专线</a>、<a href="https://zh.wikipedia.org/wiki/南钦铁路" title="wikilink">南钦铁路</a>、<a href="../Page/钦北铁路.md" title="wikilink">钦北铁路</a>、<a href="../Page/南昆客运专线.md" title="wikilink">南昆客运专线</a></p></td>
+<td><p><a href="../Page/遂成铁路.md" title="wikilink">遂成铁路</a>、<a href="../Page/遂渝铁路.md" title="wikilink">遂渝铁路</a>、<a href="https://zh.wikipedia.org/wiki/渝貴铁路" title="wikilink">渝貴铁路</a>、<a href="https://zh.wikipedia.org/wiki/貴廣高速铁路" title="wikilink">貴廣高速铁路</a>、<a href="../Page/南广铁路.md" title="wikilink">南广铁路</a>、<a href="https://zh.wikipedia.org/wiki/柳南客运专线" title="wikilink">柳南客运专线</a>、<a href="https://zh.wikipedia.org/wiki/南钦铁路" title="wikilink">南钦铁路</a>、<a href="../Page/钦北铁路.md" title="wikilink">钦北铁路</a>、<a href="../Page/南昆客运专线.md" title="wikilink">南昆客运专线</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -546,7 +546,7 @@ ZE 2xxx00</p></td>
 <td><p>30</p></td>
 <td><p>2229、2232、2264、2265、2273、2322、2460、2489、2499、4021、4026、4053、4054、4057～4059、4082～4095</p></td>
 <td><p>昆明南</p></td>
-<td><p><a href="../Page/南昆客运专线.md" title="wikilink">南昆客运专线</a>、<a href="https://zh.wikipedia.org/wiki/昆玉河铁路" title="wikilink">昆玉河铁路</a></p></td>
+<td><p><a href="../Page/南昆客运专线.md" title="wikilink">南昆客运专线</a>、<a href="../Page/昆玉河铁路.md" title="wikilink">昆玉河铁路</a></p></td>
 <td><p>CRH2A-2460为新头型试验车。<br />
 部分列車即將轉配<a href="https://zh.wikipedia.org/wiki/南昌局集團" title="wikilink">南昌局集團</a>。</p></td>
 </tr>
@@ -1445,7 +1445,7 @@ ZE 2xxx00</p></td>
 ### CRH2G
 
 [CRH2G-4072@CDD_(20180217085701).jpg](https://zh.wikipedia.org/wiki/File:CRH2G-4072@CDD_\(20180217085701\).jpg "fig:CRH2G-4072@CDD_(20180217085701).jpg")\]\]
-CRH2G型高寒抗风沙动车组是由[中国中车](https://zh.wikipedia.org/wiki/中国中车 "wikilink")[青岛四方机车车辆股份有限公司历经](../Page/中车青岛四方机车车辆.md "wikilink")3年的调研、试验和线路考核自主研制的，期间进行了大量试验研究，全面验证了动车组技术性能。其中，耐低温试验67项，抗风沙试验16项，高海拔试验6项，并先后在[哈大高铁和](https://zh.wikipedia.org/wiki/哈大高铁 "wikilink")[兰新铁路第二双线通过了线路考核](../Page/兰新铁路第二双线.md "wikilink")\[59\]。CRH2G是CRH2系列的高寒抗风沙型号，2015年11月10日获得国家铁路局颁发的型号合格证和制造许可证，同年12月开始配属[兰州铁路局和](https://zh.wikipedia.org/wiki/兰州铁路局 "wikilink")[乌鲁木齐铁路局](https://zh.wikipedia.org/wiki/乌鲁木齐铁路局 "wikilink")，用于[兰新铁路第二双线上的列车](../Page/兰新铁路第二双线.md "wikilink")。\[60\]2015年，[中车南京浦镇车辆获四方厂技术平移](../Page/中车南京浦镇车辆.md "wikilink")，开始试制CRH2G\[61\]，首列已于2017年9月下线并运抵[铁科院东郊分院调试](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")。
+CRH2G型高寒抗风沙动车组是由[中国中车](../Page/中国中车.md "wikilink")[青岛四方机车车辆股份有限公司历经](../Page/中车青岛四方机车车辆.md "wikilink")3年的调研、试验和线路考核自主研制的，期间进行了大量试验研究，全面验证了动车组技术性能。其中，耐低温试验67项，抗风沙试验16项，高海拔试验6项，并先后在[哈大高铁和](https://zh.wikipedia.org/wiki/哈大高铁 "wikilink")[兰新铁路第二双线通过了线路考核](../Page/兰新铁路第二双线.md "wikilink")\[59\]。CRH2G是CRH2系列的高寒抗风沙型号，2015年11月10日获得国家铁路局颁发的型号合格证和制造许可证，同年12月开始配属[兰州铁路局和](https://zh.wikipedia.org/wiki/兰州铁路局 "wikilink")[乌鲁木齐铁路局](https://zh.wikipedia.org/wiki/乌鲁木齐铁路局 "wikilink")，用于[兰新铁路第二双线上的列车](../Page/兰新铁路第二双线.md "wikilink")。\[60\]2015年，[中车南京浦镇车辆获四方厂技术平移](../Page/中车南京浦镇车辆.md "wikilink")，开始试制CRH2G\[61\]，首列已于2017年9月下线并运抵[铁科院东郊分院调试](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")。
 
 作为中国高铁的全新车型，跟普通CRH2系列相比，CRH2G型动车组具有耐高寒、抗风沙、耐高温、适应高海拔、防紫外线等特点，还能经受±40℃的高寒高温、在11级大风下安全运行\[62\]，适合[兰新铁路第二双线的气候条件](../Page/兰新铁路第二双线.md "wikilink")。\[63\]
 
@@ -1911,7 +1911,7 @@ YJ-92A型交流电动机（<a href="https://zh.wikipedia.org/wiki/日立" title=
   - [新幹線E2系電力動車組](../Page/新幹線E2系電力動車組.md "wikilink")
   - [和谐号CRH6型电力动车组](../Page/和谐号CRH6型电力动车组.md "wikilink")
   - [和谐号CRH380A型电力动车组](https://zh.wikipedia.org/wiki/和谐号CRH380A型电力动车组 "wikilink")
-  - [复兴号CR400AF型电力动车组](https://zh.wikipedia.org/wiki/复兴号CR400AF型电力动车组 "wikilink")
+  - [复兴号CR400AF型电力动车组](../Page/复兴号CR400AF型电力动车组.md "wikilink")
 
 ## 外部链接
 

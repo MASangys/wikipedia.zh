@@ -24,7 +24,7 @@
 美國國內長途電話於1915已敷設至[三藩市](https://zh.wikipedia.org/wiki/三藩市 "wikilink")，從1927年起，使用雙向無線電提供跨大西洋服務，直至1956年全球第一條橫渡大西洋的同軸電纜投入使用為止。
 [Att_new_logo.png](https://zh.wikipedia.org/wiki/File:Att_new_logo.png "fig:Att_new_logo.png")
 1984年，[美國司法部依據](https://zh.wikipedia.org/wiki/美國司法部 "wikilink")《[反托拉斯法](https://zh.wikipedia.org/wiki/反托拉斯法 "wikilink")》拆分AT\&T，分拆出一個繼承了母公司名稱的新AT\&T公司（專營長途電話業務）和七個本地電話公司（即“貝爾七兄弟”），美國電信業從此進入了競爭時代。
-1995年，又從公司中分離出了從事設備開發製造的[朗訊科技和](https://zh.wikipedia.org/wiki/朗訊科技 "wikilink")[NCR公司](https://zh.wikipedia.org/wiki/NCR公司 "wikilink")，只保留了通信服務業務。
+1995年，又從公司中分離出了從事設備開發製造的[朗訊科技和](https://zh.wikipedia.org/wiki/朗訊科技 "wikilink")[NCR公司](../Page/NCR公司.md "wikilink")，只保留了通信服務業務。
 2000年後，AT\&T又先後出售了[無線通信](https://zh.wikipedia.org/wiki/無線通信 "wikilink")，[有線電視和](https://zh.wikipedia.org/wiki/有線電視 "wikilink")[寬帶通信部門](https://zh.wikipedia.org/wiki/寬帶通信 "wikilink")。
 2005年，原“小貝爾”之一的[西南貝爾](https://zh.wikipedia.org/wiki/西南貝爾 "wikilink")（SBC）對AT\&T兼併，合併後的企業繼承了AT\&T的名稱。
 2007年，AT\&T開始在其提供固網電話的地區拓展[光纖電視服務](https://zh.wikipedia.org/wiki/光纖電視 "wikilink")，與[衛星電視和近年進入](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[寬帶電話市場的有線電視公司競爭](https://zh.wikipedia.org/wiki/寬帶電話 "wikilink")。

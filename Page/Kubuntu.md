@@ -45,7 +45,7 @@ CDs](https://zh.wikipedia.org/wiki/File:Kubuntu_7.04_CDs.jpg "fig:Kubuntu 7.04 C
   - [KDE](../Page/KDE.md "wikilink")
   - [Xubuntu](../Page/Xubuntu.md "wikilink")
   - [Lubuntu](../Page/Lubuntu.md "wikilink")
-  - [Ubuntu MATE](https://zh.wikipedia.org/wiki/Ubuntu_MATE "wikilink")
+  - [Ubuntu MATE](../Page/Ubuntu_MATE.md "wikilink")
   - [Ubuntu GNOME](../Page/Ubuntu_GNOME.md "wikilink")
 
 ## 參考資料

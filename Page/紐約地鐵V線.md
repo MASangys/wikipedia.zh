@@ -110,7 +110,7 @@ V線在2010年6月25日取消以節省金錢。此線完全以[M線取代](../Pa
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>），<a href="https://zh.wikipedia.org/wiki/羅斯福大道／74街車站" title="wikilink">74街-百老匯</a></p></td>
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>），<a href="https://zh.wikipedia.org/wiki/羅斯福大道／74街車站" title="wikilink">74街-百老匯</a></p></td>
 <td><p>線巴士往<a href="https://zh.wikipedia.org/wiki/拉瓜迪亞機場" title="wikilink">拉瓜迪亞機場</a><br />
 巴士往拉瓜迪亞機場</p></td>
 </tr>
@@ -168,8 +168,8 @@ V線在2010年6月25日取消以節省金錢。此線完全以[M線取代](../Pa
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IND跨城線" title="wikilink">IND跨城線</a>，<a href="https://zh.wikipedia.org/wiki/法庭廣場車站" title="wikilink">長島市-法庭廣場</a>）<br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>，<a href="https://zh.wikipedia.org/wiki/法庭廣場車站" title="wikilink">45路-法庭廣場</a>，只可使用轉乘）</p></td>
+（<a href="../Page/IND跨城線.md" title="wikilink">IND跨城線</a>，<a href="https://zh.wikipedia.org/wiki/法庭廣場車站" title="wikilink">長島市-法庭廣場</a>）<br />
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>，<a href="https://zh.wikipedia.org/wiki/法庭廣場車站" title="wikilink">45路-法庭廣場</a>，只可使用轉乘）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -211,7 +211,7 @@ V線在2010年6月25日取消以節省金錢。此線完全以[M線取代](../Pa
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>，<a href="https://zh.wikipedia.org/wiki/42街-布萊恩特公園／第五大道車站" title="wikilink">第五大道</a>）</p></td>
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>，<a href="https://zh.wikipedia.org/wiki/42街-布萊恩特公園／第五大道車站" title="wikilink">第五大道</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">

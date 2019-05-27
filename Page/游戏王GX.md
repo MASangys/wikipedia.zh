@@ -21,7 +21,7 @@ Duel）”，讓學生戴著“Dis-belt”進行決鬥，然而眾人漸漸發�
   - 原作：[高橋和希](../Page/高橋和希.md "wikilink")
   - 監督：辻初樹
   - 系列構成：武上純希→[吉田伸](../Page/吉田伸.md "wikilink")（第157－話 ）
-  - 腳本：武上純希、前川淳、、[吉田伸](../Page/吉田伸.md "wikilink")、面出明美、[高橋奈津子](../Page/高橋奈津子.md "wikilink")、[江夏由結](../Page/江夏由結.md "wikilink")、馬場繪麻、[加藤陽一](https://zh.wikipedia.org/wiki/加藤陽一 "wikilink")、彥久保雅博、植田浩二、坂本豐和
+  - 腳本：武上純希、前川淳、、[吉田伸](../Page/吉田伸.md "wikilink")、面出明美、[高橋奈津子](../Page/高橋奈津子.md "wikilink")、[江夏由結](../Page/江夏由結.md "wikilink")、馬場繪麻、[加藤陽一](../Page/加藤陽一.md "wikilink")、彥久保雅博、植田浩二、坂本豐和
   - 總演出：鶴田寬
   - 決鬥顧問：彦久保雅博
   - 人物／主要怪獸設計：[原憲一](../Page/原憲一.md "wikilink")
@@ -30,8 +30,8 @@ Duel）”，讓學生戴著“Dis-belt”進行決鬥，然而眾人漸漸發�
   - 攝影監督→攝影兼修：枝光弘明→星知良
   - 音樂：蓑部雄崇
   - 音樂製作人：淺田裕之
-  - 錄音監督：[三矢雄二](https://zh.wikipedia.org/wiki/三矢雄二 "wikilink") （第1－151話）
-    →平光琢也 （第152－156話） →不在 （第157－話）
+  - 錄音監督：[三矢雄二](../Page/三矢雄二.md "wikilink") （第1－151話） →平光琢也 （第152－156話）
+    →不在 （第157－話）
   - 音響監督：平光琢也
   - 製作人：山川典夫（[東京電視台](../Page/東京電視台.md "wikilink")）、笹田直樹→實松照晃（[NAS](../Page/日本AD_SYSTEMS.md "wikilink")）
   - 動畫製作人：長谷川徹→田中日出男（GALLOP）
@@ -40,7 +40,7 @@ Duel）”，讓學生戴著“Dis-belt”進行決鬥，然而眾人漸漸發�
   - 動畫原創卡作畫：小川純平、加藤園、
   - 卡片特效：橫井正人
   - 編集：揖野允史
-  - 動畫製作：[GALLOP](https://zh.wikipedia.org/wiki/GALLOP_\(動畫工作室\) "wikilink")
+  - 動畫製作：[GALLOP](../Page/GALLOP_\(動畫工作室\).md "wikilink")
   - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[NAS](../Page/日本AD_SYSTEMS.md "wikilink")
 
 ## 各話列表

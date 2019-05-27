@@ -1,9 +1,9 @@
 **Acid2**，是針對[網頁瀏覽器及設計軟件](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，就支援[HTML](../Page/HTML.md "wikilink")、[CSS
-2.0及](https://zh.wikipedia.org/wiki/CSS "wikilink")[PNG圖像標準的綜合測試](../Page/PNG.md "wikilink")，由[網頁標準計劃設計](https://zh.wikipedia.org/wiki/網頁標準計劃 "wikilink")，在1997年推出首個版本，名為"[Acid](../Page/Acid1.md "wikilink")"。
+2.0及](https://zh.wikipedia.org/wiki/CSS "wikilink")[PNG圖像標準的綜合測試](../Page/PNG.md "wikilink")，由[網頁標準計劃設計](../Page/網頁標準計劃.md "wikilink")，在1997年推出首個版本，名為"[Acid](../Page/Acid1.md "wikilink")"。
 
 ## 歷史
 
-Acid2最初由[Opera軟體公司首席技術長](https://zh.wikipedia.org/wiki/Opera軟體公司 "wikilink")[哈肯·維姆·萊提出](https://zh.wikipedia.org/wiki/哈肯·維姆·萊 "wikilink")，他是廣為使用的[CSS網頁標準的創建者](https://zh.wikipedia.org/wiki/CSS "wikilink")\[1\]。萊和一位同事[伊恩·希克森於](https://zh.wikipedia.org/wiki/伊恩·希克森 "wikilink")2005年2月創建了第一個測試版草案\[2\]。伊恩·希克森與[網頁標準計劃以及廣大的網路社群合作編寫了最終版測試](https://zh.wikipedia.org/wiki/網頁標準計劃 "wikilink")\[3\]\[4\]\[5\]\[6\]。2005年4月13日正式發布\[7\]，在測試剛推出時，沒有一個瀏覽器可排出要求的圖像\[8\]。
+Acid2最初由[Opera軟體公司首席技術長](https://zh.wikipedia.org/wiki/Opera軟體公司 "wikilink")[哈肯·維姆·萊提出](https://zh.wikipedia.org/wiki/哈肯·維姆·萊 "wikilink")，他是廣為使用的[CSS網頁標準的創建者](https://zh.wikipedia.org/wiki/CSS "wikilink")\[1\]。萊和一位同事[伊恩·希克森於](../Page/伊恩·希克森.md "wikilink")2005年2月創建了第一個測試版草案\[2\]。伊恩·希克森與[網頁標準計劃以及廣大的網路社群合作編寫了最終版測試](../Page/網頁標準計劃.md "wikilink")\[3\]\[4\]\[5\]\[6\]。2005年4月13日正式發布\[7\]，在測試剛推出時，沒有一個瀏覽器可排出要求的圖像\[8\]。
 
 ## 符合規範的應用程式
 
@@ -12,8 +12,7 @@ World\!](../Page/Hello_World.md "wikilink")"字樣，當滑鼠指向笑臉鼻子
 [Safariacid2.png](https://zh.wikipedia.org/wiki/File:Safariacid2.png "fig:Safariacid2.png")
 [Usage_share_of_web_browsers_that_pass_Acid2.png](https://zh.wikipedia.org/wiki/File:Usage_share_of_web_browsers_that_pass_Acid2.png "fig:Usage_share_of_web_browsers_that_pass_Acid2.png")
 
-  - [Microsoft
-    Edge](https://zh.wikipedia.org/wiki/Microsoft_Edge "wikilink")
+  - [Microsoft Edge](../Page/Microsoft_Edge.md "wikilink")
   - [Internet Explorer](../Page/Internet_Explorer.md "wikilink")
   - [Gecko為基礎的瀏覽器](../Page/Gecko.md "wikilink")
       - [Mozilla

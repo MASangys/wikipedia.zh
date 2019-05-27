@@ -274,7 +274,7 @@
 <td><p>BBN</p></td>
 <td><p>WBGZ</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/砂拉越" title="wikilink">砂拉越</a><a href="https://zh.wikipedia.org/wiki/巴里奧" title="wikilink">巴里奧</a></p></td>
+<td><p><a href="../Page/砂拉越.md" title="wikilink">砂拉越</a><a href="https://zh.wikipedia.org/wiki/巴里奧" title="wikilink">巴里奧</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1702,7 +1702,7 @@
 <td><p>BJJ</p></td>
 <td><p>KBJJ</p></td>
 <td></td>
-<td><p><a href="../Page/俄亥俄州.md" title="wikilink">俄亥俄州</a>" <a href="https://zh.wikipedia.org/wiki/伍斯特_(俄亥俄州)" title="wikilink">伍斯特</a>"</p></td>
+<td><p><a href="../Page/俄亥俄州.md" title="wikilink">俄亥俄州</a>" <a href="../Page/伍斯特_(俄亥俄州).md" title="wikilink">伍斯特</a>"</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1905,7 +1905,7 @@
 <td><p>BKM</p></td>
 <td><p>WBGQ</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/砂拉越" title="wikilink">砂拉越</a> </p></td>
+<td><p><a href="../Page/砂拉越.md" title="wikilink">砂拉越</a> </p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2045,7 +2045,7 @@
 <td><p>BLG</p></td>
 <td><p>WBGC</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/砂拉越" title="wikilink">砂拉越</a>" <a href="https://zh.wikipedia.org/wiki/巫拉甲县" title="wikilink">巫拉甲</a>"</p></td>
+<td><p><a href="../Page/砂拉越.md" title="wikilink">砂拉越</a>" <a href="https://zh.wikipedia.org/wiki/巫拉甲县" title="wikilink">巫拉甲</a>"</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2611,7 +2611,7 @@
 <tr class="even">
 <td><p>BOJ</p></td>
 <td><p>LBBJ</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/布爾加斯機場" title="wikilink">布爾加斯機場</a></p></td>
+<td><p><a href="../Page/布爾加斯機場.md" title="wikilink">布爾加斯機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/布爾加斯州" title="wikilink">布爾加斯州</a><a href="../Page/布爾加斯.md" title="wikilink">布爾加斯</a></p></td>
 <td></td>
 </tr>
@@ -2933,7 +2933,7 @@
 <tr class="even">
 <td><p>BQS</p></td>
 <td><p>UHBB</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/伊格納耶沃機場" title="wikilink">伊格納耶沃機場</a></p></td>
+<td><p><a href="../Page/伊格納耶沃機場.md" title="wikilink">伊格納耶沃機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿穆爾州" title="wikilink">阿穆爾州</a><a href="https://zh.wikipedia.org/wiki/海蘭泡" title="wikilink">海蘭泡</a></p></td>
 <td></td>
 </tr>
@@ -3172,7 +3172,7 @@
 <td><p>BSE</p></td>
 <td><p>WBGN</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/砂拉越" title="wikilink">砂拉越</a> <a href="https://zh.wikipedia.org/wiki/士馬丹" title="wikilink">士馬丹</a></p></td>
+<td><p><a href="../Page/砂拉越.md" title="wikilink">砂拉越</a> <a href="https://zh.wikipedia.org/wiki/士馬丹" title="wikilink">士馬丹</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3227,7 +3227,7 @@
 <tr class="even">
 <td><p>BSO</p></td>
 <td><p>RPUO</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴士古機場" title="wikilink">巴士古機場</a></p></td>
+<td><p><a href="../Page/巴士古機場.md" title="wikilink">巴士古機場</a></p></td>
 <td><p><a href="../Page/卡加延河谷.md" title="wikilink">卡加延河谷</a><a href="../Page/巴士古.md" title="wikilink">巴士古</a></p></td>
 <td></td>
 </tr>
@@ -3451,8 +3451,8 @@
 <tr class="even">
 <td><p>BTU</p></td>
 <td><p>WBGB</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/民都魯機場" title="wikilink">民都魯機場</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/砂拉越" title="wikilink">砂拉越</a><a href="https://zh.wikipedia.org/wiki/民都魯" title="wikilink">民都魯</a></p></td>
+<td><p><a href="../Page/民都魯機場.md" title="wikilink">民都魯機場</a></p></td>
+<td><p><a href="../Page/砂拉越.md" title="wikilink">砂拉越</a><a href="https://zh.wikipedia.org/wiki/民都魯" title="wikilink">民都魯</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3851,7 +3851,7 @@
 <td><p>BWF</p></td>
 <td><p>EGNL</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/英格蘭" title="wikilink">英格蘭</a><a href="https://zh.wikipedia.org/wiki/巴羅因弗內斯" title="wikilink">巴羅因弗內斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/英格蘭" title="wikilink">英格蘭</a><a href="../Page/巴羅因弗內斯.md" title="wikilink">巴羅因弗內斯</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3955,7 +3955,7 @@
 <tr class="even">
 <td><p>BWX</p></td>
 <td><p>WARB</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/布林宾萨里机场" title="wikilink">布林宾萨里机场</a></p></td>
+<td><p><a href="../Page/布林宾萨里机场.md" title="wikilink">布林宾萨里机场</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東爪哇省" title="wikilink">東爪哇省</a><a href="https://zh.wikipedia.org/wiki/外南夢" title="wikilink">外南夢</a></p></td>
 <td></td>
 </tr>
@@ -3976,7 +3976,7 @@
 <tr class="odd">
 <td><p>BXB</p></td>
 <td><p>WASO</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴博机场" title="wikilink">巴博机场</a></p></td>
+<td><p><a href="../Page/巴博机场.md" title="wikilink">巴博机场</a></p></td>
 <td><p><a href="../Page/西巴布亞省.md" title="wikilink">西巴布亞省</a> Babo</p></td>
 <td></td>
 </tr>
@@ -4438,7 +4438,7 @@
 <tr class="odd">
 <td><p>BZZ</p></td>
 <td><p>EGVN</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/布萊茲諾頓皇家空軍基地" title="wikilink">布萊茲諾頓皇家空軍基地</a></p></td>
+<td><p><a href="../Page/布萊茲諾頓皇家空軍基地.md" title="wikilink">布萊茲諾頓皇家空軍基地</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/英格蘭" title="wikilink">英格蘭</a><a href="../Page/牛津郡.md" title="wikilink">牛津郡</a></p></td>
 <td></td>
 </tr>

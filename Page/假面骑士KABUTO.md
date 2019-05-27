@@ -1049,9 +1049,9 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 
   - 原作　　：[石之森章太郎](../Page/石之森章太郎.md "wikilink")
   - 監製　　：小野寺章（石森プロ）
-  - 發行人　：[梶淳](https://zh.wikipedia.org/wiki/梶淳 "wikilink")（朝日電視台）/ 、（東映）
+  - 發行人　：[梶淳](../Page/梶淳.md "wikilink")（朝日電視台）/ 、（東映）
   - 監督　　：、田村直己、、、
-  - 編劇　　：[米村正二](https://zh.wikipedia.org/wiki/米村正二 "wikilink")、[井上敏樹](https://zh.wikipedia.org/wiki/井上敏樹 "wikilink")
+  - 編劇　　：[米村正二](https://zh.wikipedia.org/wiki/米村正二 "wikilink")、[井上敏樹](../Page/井上敏樹.md "wikilink")
   - 音樂　　：
   - 動作監督：（[JAE](https://zh.wikipedia.org/wiki/JAE "wikilink")）
   - 特撮監督：

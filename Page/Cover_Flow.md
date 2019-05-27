@@ -15,7 +15,7 @@ Remote的支援](https://zh.wikipedia.org/wiki/Apple_Remote "wikilink")，一個
 [iPhone將結合Cover](https://zh.wikipedia.org/wiki/iPhone "wikilink")
 Flow技術。Cover Flow在2012年11月30日推出的iTunes 11中被移除掉。
 
-[macOS Mojave](https://zh.wikipedia.org/wiki/MacOS_Mojave "wikilink")
+[macOS Mojave](../Page/MacOS_Mojave.md "wikilink")
 [Finder](../Page/Finder.md "wikilink") 中的 Cover Flow檢視已被圖庫檢視取代。
 
 ## 外部連結

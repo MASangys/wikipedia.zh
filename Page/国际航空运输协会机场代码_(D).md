@@ -267,7 +267,7 @@
 <td><p>DBU</p></td>
 <td></td>
 <td><p>Dambulu Oya Tank水上飛機基地</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/丹布勒" title="wikilink">丹布勒</a>，<a href="../Page/中央省_(斯里蘭卡).md" title="wikilink">中央省</a></p></td>
+<td><p><a href="../Page/丹布勒.md" title="wikilink">丹布勒</a>，<a href="../Page/中央省_(斯里蘭卡).md" title="wikilink">中央省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -456,7 +456,7 @@
 <td><p>DEH</p></td>
 <td><p>KDEH</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/迪科拉" title="wikilink">迪科拉</a>，<a href="https://zh.wikipedia.org/wiki/艾奧瓦州" title="wikilink">艾奧瓦州</a></p></td>
+<td><p><a href="../Page/迪科拉.md" title="wikilink">迪科拉</a>，<a href="https://zh.wikipedia.org/wiki/艾奧瓦州" title="wikilink">艾奧瓦州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -540,7 +540,7 @@
 <td><p>DFI</p></td>
 <td><p>KDFI</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/迪法恩斯_(俄亥俄州)" title="wikilink">迪法恩斯</a>，<a href="../Page/俄亥俄州.md" title="wikilink">俄亥俄州</a></p></td>
+<td><p><a href="../Page/迪法恩斯_(俄亥俄州).md" title="wikilink">迪法恩斯</a>，<a href="../Page/俄亥俄州.md" title="wikilink">俄亥俄州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1310,7 +1310,7 @@
 <td><p>DNS</p></td>
 <td><p>KDNS</p></td>
 <td><p>丹尼森市立機場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/丹尼森_(艾奥瓦州)" title="wikilink">丹尼森</a>，<a href="https://zh.wikipedia.org/wiki/艾奧瓦州" title="wikilink">艾奧瓦州</a></p></td>
+<td><p><a href="../Page/丹尼森_(艾奥瓦州).md" title="wikilink">丹尼森</a>，<a href="https://zh.wikipedia.org/wiki/艾奧瓦州" title="wikilink">艾奧瓦州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1541,7 +1541,7 @@
 <td><p>DPT</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/傑普塔茨基" title="wikilink">傑普塔茨基</a>，<a href="https://zh.wikipedia.org/wiki/薩哈共和國" title="wikilink">薩哈共和國</a></p></td>
+<td><p><a href="../Page/傑普塔茨基.md" title="wikilink">傑普塔茨基</a>，<a href="https://zh.wikipedia.org/wiki/薩哈共和國" title="wikilink">薩哈共和國</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2184,7 +2184,7 @@
 <tr class="odd">
 <td><p>DYR</p></td>
 <td><p>UHMA</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/烏戈爾尼機場" title="wikilink">烏戈爾尼機場</a></p></td>
+<td><p><a href="../Page/烏戈爾尼機場.md" title="wikilink">烏戈爾尼機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿納德爾" title="wikilink">阿納德爾</a>，<a href="https://zh.wikipedia.org/wiki/楚科奇自治區" title="wikilink">楚科奇自治區</a></p></td>
 <td></td>
 </tr>

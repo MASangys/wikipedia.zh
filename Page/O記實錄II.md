@@ -410,7 +410,7 @@ Michelle之夫<br />
 影射1996年<a href="https://zh.wikipedia.org/wiki/東星號大劫案" title="wikilink">東星號大劫案主謀胡樹祥</a>。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/麥子雲" title="wikilink">麥子雲</a></p></td>
+<td><p><a href="../Page/麥子雲.md" title="wikilink">麥子雲</a></p></td>
 <td><p>梁榮照</p></td>
 <td><p>梁炳<br />
 古惑仔，中山人<br />
@@ -865,7 +865,7 @@ Thomas助手<br />
   - [陳金培](https://zh.wikipedia.org/wiki/陳金培 "wikilink")　飾　殺手
   - [黃煒林](https://zh.wikipedia.org/wiki/黃煒林 "wikilink")　飾　山
   - [陳勉良](../Page/陳勉良.md "wikilink")　飾　仁
-  - [游　飆](https://zh.wikipedia.org/wiki/游飈 "wikilink")　飾　虎
+  - [游　飆](../Page/游飈.md "wikilink")　飾　虎
   - [何璧堅](../Page/何璧堅.md "wikilink")　飾　溫伯
   - [區　嶽](https://zh.wikipedia.org/wiki/區嶽 "wikilink")　飾　棠叔
   - [凌　漢](../Page/凌漢_\(演員\).md "wikilink")　飾　三叔
@@ -893,7 +893,7 @@ Thomas助手<br />
   - [李思蓓](../Page/李思蓓.md "wikilink")　飾　汶汶（）
   - [梁詠琳](../Page/梁詠琳.md "wikilink")　飾　 被海強姦，並拍下裸照勒索
   - [黎秀英](https://zh.wikipedia.org/wiki/黎秀英 "wikilink")　飾　楊太（受害人母親）
-  - [許思敏](https://zh.wikipedia.org/wiki/許思敏 "wikilink")　飾　受傷途人
+  - [許思敏](../Page/許思敏.md "wikilink")　飾　受傷途人
   - [劉倩怡](../Page/劉倩怡.md "wikilink")　飾　張惠玲（醫生）吳國兆心理醫生，後被吳國兆分屍
   - [羅貫峰](../Page/羅貫峰.md "wikilink")　飾　海關
   - [鄧汝超](https://zh.wikipedia.org/wiki/鄧汝超 "wikilink")　飾　醫生

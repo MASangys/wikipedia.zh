@@ -452,7 +452,7 @@ theFA.com選出及由[英格蘭職業足球運動員協會評選](../Page/英格
 <tr class="odd">
 <td><p>2017-18年</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/穆罕默德·沙拿" title="wikilink">穆罕默德·沙拿</a></strong> (Mohamed Salah)</p></td>
+<td><p><strong><a href="../Page/穆罕默德·沙拿.md" title="wikilink">穆罕默德·沙拿</a></strong> (Mohamed Salah)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/利物浦足球俱樂部" title="wikilink">利物浦</a></p></td>
 </tr>
 <tr class="even">

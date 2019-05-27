@@ -95,7 +95,7 @@
 辛家寶之養父</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/冼迪琦" title="wikilink">冼迪琦</a></p></td>
+<td><p><a href="../Page/冼迪琦.md" title="wikilink">冼迪琦</a></p></td>
 <td><p>辛家寶</p></td>
 <td><p>蘇敏兒之女<br />
 辛萬軍之養女</p></td>
@@ -250,7 +250,7 @@ Zenbi之徒弟</p></td>
 辛萬軍之好友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳堃" title="wikilink">陳　堃</a></p></td>
+<td><p><a href="../Page/陳堃.md" title="wikilink">陳　堃</a></p></td>
 <td><p>戴健威</p></td>
 <td><p>辛萬軍之好友<br />
 月之男友</p></td>
@@ -271,7 +271,7 @@ Zenbi之徒弟</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
 <td><p>熟　客</p></td>
 <td></td>
 </tr>
@@ -363,7 +363,7 @@ Elsa<br />
 <td><p>第7集</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/潘冠霖" title="wikilink">潘冠霖</a></p></td>
+<td><p><a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a></p></td>
 <td><p>Mary</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/啤酒妹" title="wikilink">啤酒妹</a></p></td>
 </tr>

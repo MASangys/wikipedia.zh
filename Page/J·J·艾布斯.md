@@ -3,7 +3,7 @@ zh-hk:謝菲·雅各·艾布斯}-**（，），常稱**J·J·艾布拉姆斯**�
 Reeves）合作創造華納的《[大学生费莉希蒂](../Page/大学生费莉希蒂.md "wikilink")》（*Felicity*）。額外一提的是台灣譯名
 J. J. 亞伯拉罕其實是誤譯，Abrams 並非 Abraham ，發音上不存在「罕」的近似音，依照往例應譯作艾布蘭才是正確的。
 
-亞伯拉罕出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市並在](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[洛杉磯長大](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。他在紐約[布隆克維](https://zh.wikipedia.org/wiki/布隆克維 "wikilink")（Bronxville）就讀[莎拉勞倫斯學院](https://zh.wikipedia.org/wiki/莎拉勞倫斯學院 "wikilink")（Sarah
+亞伯拉罕出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市並在](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[洛杉磯長大](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。他在紐約[布隆克維](../Page/布隆克維.md "wikilink")（Bronxville）就讀[莎拉勞倫斯學院](https://zh.wikipedia.org/wiki/莎拉勞倫斯學院 "wikilink")（Sarah
 Lawrence College）。他的父親（Gerald W. Abrams）和母親（Carol Abrams）也是製作人。
 
 2006年7月14日，亞伯拉罕分別和[派拉蒙影業及](../Page/派拉蒙影業.md "wikilink")[華納兄弟各簽下五年和六年合約](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")，價值超過5,500萬[美元](../Page/美元.md "wikilink")（約-{zh-hans:人民币4.3亿元;zh-hk:港幣4.2億元;zh-tw:新台幣17.7億元;}-）\[1\]。2013年1月，跟[華特迪士尼影業簽約執導](https://zh.wikipedia.org/wiki/華特迪士尼影業 "wikilink")《[星際大戰：原力覺醒](https://zh.wikipedia.org/wiki/星際大戰七部曲：原力覺醒 "wikilink")》\[2\]。
@@ -258,7 +258,7 @@ Lawrence College）。他的父親（Gerald W. Abrams）和母親（Carol Abrams
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大災難家" title="wikilink">大災難家</a></p></td>
+<td><p><a href="../Page/大災難家.md" title="wikilink">大災難家</a></p></td>
 <td><p><em>The Disaster Artist</em></p></td>
 <td></td>
 <td></td>
@@ -278,7 +278,7 @@ Lawrence College）。他的父親（Gerald W. Abrams）和母親（Carol Abrams
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/科洛弗悖論" title="wikilink">科洛弗悖論</a></p></td>
+<td><p><a href="../Page/科洛弗悖論.md" title="wikilink">科洛弗悖論</a></p></td>
 <td><p><em>The Cloverfield Paradox</em></p></td>
 <td></td>
 <td></td>
@@ -287,7 +287,7 @@ Lawrence College）。他的父親（Gerald W. Abrams）和母親（Carol Abrams
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/不可能的任務：全面瓦解" title="wikilink">不可能的任務：全面瓦解</a></p></td>
+<td><p><a href="../Page/不可能的任務：全面瓦解.md" title="wikilink">不可能的任務：全面瓦解</a></p></td>
 <td><p><em>Mission: Impossible – Fallout</em></p></td>
 <td></td>
 <td></td>
@@ -297,7 +297,7 @@ Lawrence College）。他的父親（Gerald W. Abrams）和母親（Carol Abrams
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/大君主行動_(電影)" title="wikilink">大君主行動</a></p></td>
+<td><p><a href="../Page/大君主行動_(電影).md" title="wikilink">大君主行動</a></p></td>
 <td><p><em>Overlord</em></p></td>
 <td></td>
 <td></td>
@@ -308,7 +308,7 @@ Lawrence College）。他的父親（Gerald W. Abrams）和母親（Carol Abrams
 </tr>
 <tr class="odd">
 <td><p>2019</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/STAR_WARS：天行者的崛起" title="wikilink">STAR WARS：天行者的崛起</a></p></td>
+<td><p><a href="../Page/STAR_WARS：天行者的崛起.md" title="wikilink">STAR WARS：天行者的崛起</a></p></td>
 <td><p><em>Star Wars: The Rise of Skywalker</em></p></td>
 <td></td>
 <td></td>

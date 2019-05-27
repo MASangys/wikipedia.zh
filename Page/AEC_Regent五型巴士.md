@@ -7,7 +7,7 @@ Company](https://zh.wikipedia.org/wiki/Associated_Equipment_Company "wikilink")�
 Regent三型的後繼產品。
 
 Regent
-5型巴士擁有標準的AEC式水箱網設計及隱藏式散熱器，可選配[吉拿或AEC自家引擎](https://zh.wikipedia.org/wiki/吉拿 "wikilink")；波箱方面則可選擇AEC的同步嚙合、半自動或全自動波箱。
+5型巴士擁有標準的AEC式水箱網設計及隱藏式散熱器，可選配[吉拿或AEC自家引擎](../Page/吉拿.md "wikilink")；波箱方面則可選擇AEC的同步嚙合、半自動或全自動波箱。
 
 在英國本土，AEC Regent 5型巴士普遍受到倫敦以外的巴士公司歡迎（倫敦運輸局選擇購買[AEC
 Routemaster](../Page/AEC_Routemaster.md "wikilink")），而此型號底盤亦有出口至[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")、[葡萄牙](../Page/葡萄牙.md "wikilink")、一些[非洲國家](../Page/非洲.md "wikilink")、[亞拉伯國家及](https://zh.wikipedia.org/wiki/亞拉伯 "wikilink")[香港](../Page/香港.md "wikilink")。當中運至香港的底盤更是長度達34呎長的版本，比英國本土標準的30呎來得更巨型。
@@ -36,7 +36,7 @@ Sections的車身。兩者外觀分別不大，都是雙車門、尾置樓梯、
 
 「大水牛」在九巴年代先後經歷過「一人售票」及「一人控制」，之前的「大水牛」巴士除了司機，另有三位售票員服務。改為一人售票時，乘客需於前門上車，後門下車，而售票員由三人減至一人，並有了自己的座位，巴士車頭亦髹上「三劃黃」以資識別，為當時[九龍半島街道上的典型代表](https://zh.wikipedia.org/wiki/九龍半島 "wikilink")。到了由一人售票改至一人控制，九巴更需翻裝車身，例如把樓梯移前，後門移至車身中間，車箱近司機座席安裝錢箱，車頭及車尾貼上投幣標貼，乘客需於前門上車，並須自備輔幣，不設找贖。
 
-九巴在改裝這批巴士的同時，亦曾為多部「大水牛」更換上九巴慣常使用的[吉拿](https://zh.wikipedia.org/wiki/吉拿 "wikilink")(Gardner)6LX引擎，並連帶把車上的AEC半自動波箱也改為「利蘭」的GB350變速箱。
+九巴在改裝這批巴士的同時，亦曾為多部「大水牛」更換上九巴慣常使用的[吉拿](../Page/吉拿.md "wikilink")(Gardner)6LX引擎，並連帶把車上的AEC半自動波箱也改為「利蘭」的GB350變速箱。
 
 「大水牛」在投入服務之初，被九巴安排行走九龍半島上高客量的路線，如1、1A、6、6B、6C、6D、6F、9、11、13等。到了八十年代中，部分晚年翻裝車身的「大水牛」被調往新界區行走一些客量不高的路線，如荃灣區36A、39A，沙田區80K、86K（來往小瀝源及火炭，經[沙田站](../Page/沙田站.md "wikilink")）。等。它在服役期內從未行走[過海隧道線](../Page/海底隧道_\(香港\).md "wikilink")，以至新界郊區線（如元朗和上水）。
 

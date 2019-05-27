@@ -8,7 +8,7 @@ Impress](../Page/OpenOffice.org_Impress.md "wikilink")、[OpenOffice.org
 Math](https://zh.wikipedia.org/wiki/OpenOffice.org_Math "wikilink")、[OpenOffice.org
 Draw](../Page/OpenOffice.org_Draw.md "wikilink")、[OpenOffice.org
 Calc和](../Page/OpenOffice.org_Calc.md "wikilink")[OpenOffice.org
-Base免費下載](../Page/OpenOffice.org_Base.md "wikilink")。以上的軟件都有48種（尚有其他語言的版本在開發中）的不同[語言版本方便各國人士](https://zh.wikipedia.org/wiki/語言 "wikilink")。
+Base免費下載](../Page/OpenOffice.org_Base.md "wikilink")。以上的軟件都有48種（尚有其他語言的版本在開發中）的不同[語言版本方便各國人士](../Page/語言.md "wikilink")。
 
 ## 參見
 

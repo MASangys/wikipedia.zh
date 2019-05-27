@@ -90,7 +90,7 @@
 </tr>
 <tr class="odd">
 <td><p>透明压缩</p></td>
-<td><p>Per-volume, <a href="https://zh.wikipedia.org/wiki/Stac_Electronics" title="wikilink">Stacker</a>，<a href="https://zh.wikipedia.org/wiki/DoubleSpace" title="wikilink">DoubleSpace</a>，<a href="https://zh.wikipedia.org/wiki/DriveSpace" title="wikilink">DriveSpace</a></p></td>
+<td><p>Per-volume, <a href="https://zh.wikipedia.org/wiki/Stac_Electronics" title="wikilink">Stacker</a>，<a href="https://zh.wikipedia.org/wiki/DoubleSpace" title="wikilink">DoubleSpace</a>，<a href="../Page/DriveSpace.md" title="wikilink">DriveSpace</a></p></td>
 </tr>
 <tr class="even">
 <td><p>透明加密</p></td>
@@ -146,7 +146,7 @@ MS-DOS 3.0也开始支持高密度1.2MB
 3.2），*扩展分区*它实际上是另外称为*逻辑分区*的一个容器。最初它裡面只允许有一个逻辑分区、支持最大64MB的硬盘。在MS-DOS
 3.3（1987年8月）这个限制更改到24个分区；它可能来自于强制性的C:-Z：的磁盘命名规则。逻辑分区表使用盘上的数据结构来描述，可能是为了简化编码它与主引导记录非常相似，并且它们组织成类似于[俄罗斯套娃那样的结构](../Page/俄罗斯套娃.md "wikilink")。一顆硬碟中只能有一个扩展分区。
 
-在扩展分区觀念導入之前，一些硬盘控制器（當時採用獨立的硬碟控制卡，[IDE标准尚未出現](https://zh.wikipedia.org/wiki/ATA "wikilink")）能够将大硬盘显示为两个独立的硬盘。
+在扩展分区觀念導入之前，一些硬盘控制器（當時採用獨立的硬碟控制卡，[IDE标准尚未出現](../Page/ATA.md "wikilink")）能够将大硬盘显示为两个独立的硬盘。
 
 ### 最终的FAT16
 
@@ -165,7 +165,7 @@ NT通过将每个簇的扇区数当作无符号数将最大的簇大小增加到
 
 [Windows
 95设计人员的一个用户体验目标就是](../Page/Windows_95.md "wikilink")：除了传统的[8.3文件名以外](https://zh.wikipedia.org/wiki/8.3 "wikilink")，在新操作系统中使用长文件名（LFN）。长文件名通过在目录条目排列时，使用一个工作区来实现（参见下面）。按照Windows
-95[VxD设备驱动程序的命名规则](https://zh.wikipedia.org/wiki/VxD "wikilink")，这个新扩充的文件系统通常称为VFAT。
+95[VxD设备驱动程序的命名规则](../Page/VxD.md "wikilink")，这个新扩充的文件系统通常称为VFAT。
 
 有意思的是，VFAT驱动在早于Windows 95的[Windows for Groups
 3.11中就已经出现](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink")，但它仅仅用于实现[32位文件访问](https://zh.wikipedia.org/wiki/32位文件访问 "wikilink")，一个绕过DOS的视窗自带高性能[保护模式文件管理系统](https://zh.wikipedia.org/wiki/保护模式 "wikilink")，它能够直接使用[BIOS或者更好的](../Page/BIOS.md "wikilink")[32位磁盘访问](https://zh.wikipedia.org/wiki/32位磁盘访问 "wikilink")，如Windows自带的保护模式磁盘驱动程序。它是一个[后门](https://zh.wikipedia.org/wiki/后门 "wikilink")；微软为Windows
@@ -182,7 +182,7 @@ NT中](../Page/Windows_NT.md "wikilink")，FAT文件系统对于长文件名的�
 理论上，这将支持总数达268,435,438（\<2<sup>28</sup>）的簇，允许磁盘容量达到8TB。然而，由于微软公司[scandisk工具的限制](https://zh.wikipedia.org/wiki/scandisk "wikilink")，FAT32不能大于4,177,920（\<2<sup>22</sup>）个簇，这将卷的容量限制在了124.55[GB](https://zh.wikipedia.org/wiki/Gibibyte "wikilink")，除非不再使用“scandisk”。\[4\]
 
 FAT32随着[Windows 95](../Page/Windows_95.md "wikilink")
-OSR2发布，尽管需要重新格式化才能使用这种格式并且[DriveSpace](https://zh.wikipedia.org/wiki/DriveSpace "wikilink")
+OSR2发布，尽管需要重新格式化才能使用这种格式并且[DriveSpace](../Page/DriveSpace.md "wikilink")
 3（[Windows 95](../Page/Windows_95.md "wikilink") OSR2和[Windows
 98所带版本](../Page/Windows_98.md "wikilink") ）从来都不支援这种格式。[Windows
 98提供了一个工具用来在不丢失数据的情况下将现有的硬盘从FAT](../Page/Windows_98.md "wikilink")16转到FAT32格式。在NT产品线上对于它的支援从[Windows

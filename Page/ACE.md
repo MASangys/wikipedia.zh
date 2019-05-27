@@ -12,8 +12,7 @@
     (电子计算机)](../Page/ACE_\(电子计算机\).md "wikilink")**。
   - **[Pilot
     ACE](../Page/Pilot_ACE.md "wikilink")**，ACE的一个实现，[詹姆斯·哈迪·威尔金森负责制造](../Page/詹姆斯·哈迪·威尔金森.md "wikilink")。
-  - **[ACE
-    (文件格式)](https://zh.wikipedia.org/wiki/ACE_\(文件格式\) "wikilink")**
+  - **[ACE (文件格式)](../Page/ACE_\(文件格式\).md "wikilink")**
   - **[王牌飞行员](../Page/王牌飞行员.md "wikilink")**
   - **[王牌空戰](https://zh.wikipedia.org/wiki/王牌空戰 "wikilink")**（Ace
     Combat）遊戲廠商Namco發行及由Project Aces開發之街機空戰射擊電視遊戲系列。

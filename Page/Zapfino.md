@@ -6,7 +6,7 @@ X操作系统中收入了一个字重的Zapfino](https://zh.wikipedia.org/wiki/M
 
 1983年，Zapf、[高德纳和](../Page/高德纳.md "wikilink")[斯坦福大学的David](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")
 Siegel一同为[美国数学会完成了](https://zh.wikipedia.org/wiki/美国数学会 "wikilink")[AMS
-Euler字体](https://zh.wikipedia.org/wiki/AMS_Euler "wikilink")，包含了[德文尖角体和](https://zh.wikipedia.org/wiki/德文尖角体 "wikilink")[希腊字母](../Page/希腊字母.md "wikilink")，用于制作数学公式。彼时David
+Euler字体](../Page/AMS_Euler.md "wikilink")，包含了[德文尖角体和](https://zh.wikipedia.org/wiki/德文尖角体 "wikilink")[希腊字母](../Page/希腊字母.md "wikilink")，用于制作数学公式。彼时David
 Siegel刚刚完成在斯坦福的学业，希望能够进入[字体排印领域](https://zh.wikipedia.org/wiki/字体排印 "wikilink")。他向Zapf透露了自己制作一款包含大量字符变体的字体的想法，希望从Zapf在芝加哥字体艺术协会（the
 Society of Typographical Arts in Chicago）发表的手写体字样开始。
 

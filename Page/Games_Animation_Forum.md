@@ -1,4 +1,4 @@
-****，簡稱**GAF**，是一個主要由[香港人管理和使用的](../Page/香港.md "wikilink")[網絡論壇](https://zh.wikipedia.org/wiki/網絡論壇 "wikilink")。這個[網站的討論內容主要是](../Page/網站.md "wikilink")[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")、[日本漫畫和](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")[電子遊戲等](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。隨著開站的日子愈來愈長，該站加入了更多的討論主題例如清談、[學術](https://zh.wikipedia.org/wiki/學術 "wikilink")、[娛樂](https://zh.wikipedia.org/wiki/娛樂 "wikilink")、[體育和](https://zh.wikipedia.org/wiki/體育 "wikilink")[飲食等](https://zh.wikipedia.org/wiki/飲食 "wikilink")。
+****，簡稱**GAF**，是一個主要由[香港人管理和使用的](../Page/香港.md "wikilink")[網絡論壇](https://zh.wikipedia.org/wiki/網絡論壇 "wikilink")。這個[網站的討論內容主要是](../Page/網站.md "wikilink")[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")、[日本漫畫和](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")[電子遊戲等](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。隨著開站的日子愈來愈長，該站加入了更多的討論主題例如清談、[學術](https://zh.wikipedia.org/wiki/學術 "wikilink")、[娛樂](../Page/娛樂.md "wikilink")、[體育和](https://zh.wikipedia.org/wiki/體育 "wikilink")[飲食等](https://zh.wikipedia.org/wiki/飲食 "wikilink")。
 
 ## 特色
 
@@ -144,7 +144,7 @@ GAF成立不久，立即有大量會員加入。直到2005年，該論壇的人�
 
 ### 娛樂興趣區
 
-  - [娛樂資訊潮流頻道](https://zh.wikipedia.org/wiki/娛樂 "wikilink")：只包含以下4個子討論區。
+  - [娛樂資訊潮流頻道](../Page/娛樂.md "wikilink")：只包含以下4個子討論區。
       - ：主要是[電視劇集等主題](https://zh.wikipedia.org/wiki/電視 "wikilink")。
 
       - [電影版](https://zh.wikipedia.org/wiki/電影 "wikilink")：主要是電影等主題。

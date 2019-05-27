@@ -88,7 +88,7 @@ Newtype
 
   - [GUNDAM
     SEED中稱作調整者](https://zh.wikipedia.org/wiki/GUNDAM_SEED "wikilink")（コーディネーター
-    Coordinator）的[基因改造人](https://zh.wikipedia.org/wiki/基因改造 "wikilink")，一部分調整者常自稱新人類，但沒有像Newtype的能力，卻在平時生活的能力綜合優於普通人。故事中也有類似強化人的角色，見[宇宙纪元與](../Page/宇宙纪元.md "wikilink")[機動戰士鋼彈SEED系列世界觀與設定](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED系列世界觀與設定 "wikilink")。
+    Coordinator）的[基因改造人](https://zh.wikipedia.org/wiki/基因改造 "wikilink")，一部分調整者常自稱新人類，但沒有像Newtype的能力，卻在平時生活的能力綜合優於普通人。故事中也有類似強化人的角色，見[宇宙纪元與](../Page/宇宙纪元.md "wikilink")[機動戰士鋼彈SEED系列世界觀與設定](../Page/機動戰士鋼彈SEED系列世界觀與設定.md "wikilink")。
 
 <!-- end list -->
 

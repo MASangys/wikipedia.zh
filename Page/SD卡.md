@@ -78,7 +78,7 @@ Disk），这个由东芝开发的产品在[DVD格式之争中败北](https://zh
 
 ## 寫保護开关
 
-SD卡的右面通常有一个开关，即是[防写入保护开关](https://zh.wikipedia.org/wiki/防寫入保護 "wikilink")。當开关拨下（位于下方）时，SD卡便会受到覆寫保護，即SD卡内的文件只能读取，不能被覆盖，也不能向SD卡写入其他文件。當写入保护开关位于上方时，写入保护便会被解除。由於這保護开关是選擇性的，所以一部分SD卡并沒有这个开关。
+SD卡的右面通常有一个开关，即是[防写入保护开关](../Page/防寫入保護.md "wikilink")。當开关拨下（位于下方）时，SD卡便会受到覆寫保護，即SD卡内的文件只能读取，不能被覆盖，也不能向SD卡写入其他文件。當写入保护开关位于上方时，写入保护便会被解除。由於這保護开关是選擇性的，所以一部分SD卡并沒有这个开关。
 
 覆寫保護开关的原理與[卡式錄音帶](https://zh.wikipedia.org/wiki/卡式錄音帶 "wikilink")、[VHS](../Page/VHS.md "wikilink")[錄影帶](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")、[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[磁片上的](https://zh.wikipedia.org/wiki/軟盤 "wikilink")[覆寫保護類似](https://zh.wikipedia.org/wiki/覆寫保護 "wikilink")。關閉狀態表示可覆寫，而開啟狀態表示被保護。
 
@@ -103,16 +103,16 @@ SD卡的右面通常有一个开关，即是[防写入保护开关](https://zh.w
 
 效能標示制度是SD卡5.1標準後出現，用於日漸增多的用戶直接於記憶卡上執行APP應用程式的場景，例如[平板電腦和手機可以設定將APP存於記憶卡的功能](../Page/平板電腦.md "wikilink")。
 
-其使用隨機存取時的[IOPS效能標準](https://zh.wikipedia.org/wiki/IOPS "wikilink")，（Input/Output
-Operations Per Second 每秒輸出入作業次數）一比較範例是：
+其使用隨機存取時的[IOPS效能標準](../Page/IOPS.md "wikilink")，（Input/Output Operations
+Per Second 每秒輸出入作業次數）一比較範例是：
 
   - 一台7,200轉SATA機械硬碟機IOPS約是100
   - 英特爾Intel X25-M G2固態硬碟IOPS約是8400
 
-| APP軟體效能等級                                                                                                                                                               | 最低寫入速度    | 最低隨機讀取                                                     | 最低隨機寫入   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------- | -------- |
-| [Application_Performance_Class_1.png](https://zh.wikipedia.org/wiki/File:Application_Performance_Class_1.png "fig:Application_Performance_Class_1.png") Class 1 (A1) | 10 MB/s   | 1500 [IOPS](https://zh.wikipedia.org/wiki/IOPS "wikilink") | 500 IOPS |
-| [Application_Performance_Class_2.png](https://zh.wikipedia.org/wiki/File:Application_Performance_Class_2.png "fig:Application_Performance_Class_2.png") Class 2 (A2) | 4000 IOPS | 2000 IOPS                                                  |          |
+| APP軟體效能等級                                                                                                                                                               | 最低寫入速度    | 最低隨機讀取                                  | 最低隨機寫入   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------- | -------- |
+| [Application_Performance_Class_1.png](https://zh.wikipedia.org/wiki/File:Application_Performance_Class_1.png "fig:Application_Performance_Class_1.png") Class 1 (A1) | 10 MB/s   | 1500 [IOPS](../Page/IOPS.md "wikilink") | 500 IOPS |
+| [Application_Performance_Class_2.png](https://zh.wikipedia.org/wiki/File:Application_Performance_Class_2.png "fig:Application_Performance_Class_2.png") Class 2 (A2) | 4000 IOPS | 2000 IOPS                               |          |
 
 ### 速度標示制度
 

@@ -7,7 +7,7 @@ zh-tw:隱藏}-在Netscape和Mozilla中的引文卻寫得有[啟示文學的風�
 
 在官方的釋出軟件上，可以找到六節Mozilla之書。而在網際網路上，更可找到更多非官方的章節。六節Mozilla之書都看起来類似聖經中的章節，而下面聖經般的引用則事實上是指Netscape和Mozilla在開發上的重要日期。
 
-三節Mozilla之書都提及到一隻令人生畏的野獸。於Netscape開發的早年，曾用過一隻名為Mozilla的[吉祥物](https://zh.wikipedia.org/wiki/Mozilla_\(吉祥物\) "wikilink")（Mozilla亦是[Netscape
+三節Mozilla之書都提及到一隻令人生畏的野獸。於Netscape開發的早年，曾用過一隻名為Mozilla的[吉祥物](../Page/Mozilla_\(吉祥物\).md "wikilink")（Mozilla亦是[Netscape
 Navigator](../Page/网景导航者.md "wikilink")
 1.0的開發代號）。牠是一隻青色的、會噴火的龍。由此可以推測Mozilla之書所提到的野獸就是一種會噴火的龍，可以看作是Netscape的象徵或者化身。
 

@@ -879,7 +879,7 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 <td><p>金色的絲線把瞬間切開</p></td>
 <td><p>根元歲三</p></td>
 <td><p>三條なみみ</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/池畠博史" title="wikilink">池畠博史</a></p></td>
+<td><p><a href="../Page/池畠博史.md" title="wikilink">池畠博史</a></p></td>
 <td><p>猿渡聖加</p></td>
 <td><p>s I</p></td>
 </tr>
@@ -1037,7 +1037,7 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 <td></td>
 <td><p>那個箱子沉睡於螺旋迷宮之中</p></td>
 <td><p>那個箱子沉睡於螺旋迷宮</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/森邦宏" title="wikilink">森邦宏</a></p></td>
+<td><p><a href="../Page/森邦宏.md" title="wikilink">森邦宏</a></p></td>
 <td><p>末田宜史</p></td>
 <td><p>松田剛吏<br />
 齊藤英子</p></td>

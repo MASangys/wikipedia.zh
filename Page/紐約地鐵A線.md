@@ -60,7 +60,7 @@ A線列車是紐約地鐵內最長的運行列車，來往英伍德至遠洛克�
 
 1973年1月2日，A線與E線列車在福爾頓街線的服務型態對調，A線變成快車。
 
-1986年，使用雙字代表慢車的習慣取消，AA線改名為[K線](https://zh.wikipedia.org/wiki/紐約地鐵K線 "wikilink")，1988年又更名為C線。
+1986年，使用雙字代表慢車的習慣取消，AA線改名為[K線](../Page/紐約地鐵K線.md "wikilink")，1988年又更名為C線。
 
 1990年A線列車調整服務型態，凌晨列車行駛至遠洛克威，並開行尤克利德大道—勒佛茲大道的接駁列車。幾年後開行尖峰菱底A線列車，早上自洛克威公園至207街，晚上自59街-哥倫布圓環至洛克威公園。
 
@@ -235,7 +235,7 @@ A線列車是紐約地鐵內最長的運行列車，來往英伍德至遠洛克�
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IND匯集線" title="wikilink">IND匯集線</a>）</p></td>
+（<a href="../Page/IND匯集線.md" title="wikilink">IND匯集線</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -358,7 +358,7 @@ A線列車是紐約地鐵內最長的運行列車，來往英伍德至遠洛克�
 <td></td>
 <td><p><br />
 （<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>）<br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）<br />
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）<br />
 （<a href="https://zh.wikipedia.org/wiki/BMT百老匯線" title="wikilink">BMT百老匯線</a>）<br />
 （<a href="../Page/42街接駁線.md" title="wikilink">42街接駁線</a>）<br />
 ，<a href="https://zh.wikipedia.org/wiki/時報廣場-42街車站" title="wikilink">時報廣場-42街</a></p></td>
@@ -503,7 +503,7 @@ A線列車是紐約地鐵內最長的運行列車，來往英伍德至遠洛克�
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IND跨城線" title="wikilink">IND跨城線</a>）</p></td>
+（<a href="../Page/IND跨城線.md" title="wikilink">IND跨城線</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -533,7 +533,7 @@ A線列車是紐約地鐵內最長的運行列車，來往英伍德至遠洛克�
 <td><p><a href="https://zh.wikipedia.org/wiki/富蘭克林大道車站_(IND福爾頓街線)" title="wikilink">富蘭克林大道</a></p></td>
 <td></td>
 <td></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/BMT富蘭克林大道線" title="wikilink">BMT富蘭克林大道線</a>）</p></td>
+<td><p>（<a href="../Page/BMT富蘭克林大道線.md" title="wikilink">BMT富蘭克林大道線</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">

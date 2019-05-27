@@ -887,8 +887,7 @@ Qt Solutions提供Qt額外的組件和工具，使Qt的開發更有效率。在Q
   - [Mixxx](../Page/Mixxx.md "wikilink")：跨平台的開放源碼DJ混音軟體
   - [MuseScore](../Page/MuseScore.md "wikilink")，一個[WYSIWYG的樂譜編輯器](https://zh.wikipedia.org/wiki/WYSIWYG "wikilink")
   - [MythTV](../Page/MythTV.md "wikilink")：開源的數位視訊錄製軟體。
-  - [Nuke](https://zh.wikipedia.org/wiki/Nuke "wikilink"), a node-based
-    compositor
+  - [Nuke](../Page/Nuke.md "wikilink"), a node-based compositor
   - [PDFedit](../Page/PDFedit.md "wikilink")：自由的PDF編輯器
   - [PokerTH](../Page/PokerTH.md "wikilink"), an open source Texas hold
     'em simulator

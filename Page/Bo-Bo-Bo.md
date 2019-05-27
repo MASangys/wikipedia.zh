@@ -28,9 +28,9 @@
   - [EF70型](../Page/日本國鐵EF70型電力機車.md "wikilink")
   - [EF71型](../Page/日本國鐵EF71型電力機車.md "wikilink")
   - [EF81型](https://zh.wikipedia.org/wiki/日本國鐵EF81型電力機車 "wikilink")
-  - [EF200型](https://zh.wikipedia.org/wiki/JR貨物EF200型電力機車 "wikilink")
+  - [EF200型](../Page/JR貨物EF200型電力機車.md "wikilink")
   - [EF210型](../Page/JR貨物EF210型電力機車.md "wikilink")
-  - [EF500型](https://zh.wikipedia.org/wiki/JR貨物EF500型電力機車 "wikilink")
+  - [EF500型](../Page/JR貨物EF500型電力機車.md "wikilink")
   - [EF510型](../Page/JR貨物EF510型電力機車.md "wikilink")
 
 ### 法國 英國

@@ -97,9 +97,7 @@
     RFC 2795 — **[無限猴子協定組](../Page/無限猴子定理.md "wikilink") （IMPS）** S.
     Christey
   - 2001：
-    RFC 3091 —
-    **[圓周率數字產生協定](https://zh.wikipedia.org/wiki/圓周率 "wikilink")**.
-    H. Kennedy
+    RFC 3091 — **[圓周率數字產生協定](../Page/圓周率.md "wikilink")**. H. Kennedy
     RFC 3092 —
     **"Foo"的[字源學](https://zh.wikipedia.org/wiki/字源學 "wikilink")**
     D. Eastlake 3rd, C.

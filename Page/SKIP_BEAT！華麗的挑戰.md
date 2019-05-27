@@ -2617,7 +2617,7 @@ ACT.254　從天而降的打擊
 <!-- end list -->
 
   - 登場角色
-      - 最上恭子：[長澤美樹](https://zh.wikipedia.org/wiki/長澤美樹 "wikilink")
+      - 最上恭子：[長澤美樹](../Page/長澤美樹.md "wikilink")
       - 敦賀蓮：[成田劍](../Page/成田劍.md "wikilink")
       - 不破尚：[神奈延年](../Page/神奈延年.md "wikilink")
       - 羅利 寶田：[銀河萬丈](../Page/銀河萬丈.md "wikilink")
@@ -2651,7 +2651,7 @@ ACT.254　從天而降的打擊
 <!-- end list -->
 
   - 登場角色
-      - 最上恭子：[長澤美樹](https://zh.wikipedia.org/wiki/長澤美樹 "wikilink")
+      - 最上恭子：[長澤美樹](../Page/長澤美樹.md "wikilink")
       - 敦賀蓮：[成田劍](../Page/成田劍.md "wikilink")
 
 
@@ -2698,7 +2698,7 @@ ACT.254　從天而降的打擊
       - 社倖一：[川中子雅人](https://zh.wikipedia.org/wiki/川中子雅人 "wikilink")
       - 緒方啟文：[織田圭祐](../Page/織田圭祐.md "wikilink")
       - 百瀨逸美：[生天目仁美](../Page/生天目仁美.md "wikilink")
-      - 大原愛理：[吉田麻實](https://zh.wikipedia.org/wiki/吉田麻實 "wikilink")
+      - 大原愛理：[吉田麻實](../Page/吉田麻實.md "wikilink")
 
 ## 動畫
 
@@ -2799,7 +2799,7 @@ ACT.254　從天而降的打擊
 
   -
     歌：不破尚（[宮野真守](../Page/宮野真守.md "wikilink")）
-    作詞：[杉山昭彥](https://zh.wikipedia.org/wiki/杉山昭彥 "wikilink")／作曲、編曲：[多田彰文](https://zh.wikipedia.org/wiki/多田彰文 "wikilink")
+    作詞：[杉山昭彥](https://zh.wikipedia.org/wiki/杉山昭彥 "wikilink")／作曲、編曲：[多田彰文](../Page/多田彰文.md "wikilink")
 
 <!-- end list -->
 
@@ -2809,7 +2809,7 @@ ACT.254　從天而降的打擊
 
   -
     歌：不破尚（宮野真守）
-    作詞：[杉山昭彥](https://zh.wikipedia.org/wiki/杉山昭彥 "wikilink")／作曲、編曲：[多田彰文](https://zh.wikipedia.org/wiki/多田彰文 "wikilink")
+    作詞：[杉山昭彥](https://zh.wikipedia.org/wiki/杉山昭彥 "wikilink")／作曲、編曲：[多田彰文](../Page/多田彰文.md "wikilink")
 
 ### 各話標題
 

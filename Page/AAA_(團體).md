@@ -64,7 +64,7 @@ world）》，開始正式使用簡稱“AAA”名義活動\[19\]\[20\]。8月1�
 2005年8月8日，AAA召開出道發佈會暨愛貝克思娛樂签约儀式“IT'S SHOW TIME”（AAA debut entertainment
 convention - IT'S SHOW
 TIME-），以[音樂劇形式進行了歌曲表演](../Page/音樂劇.md "wikilink")\[22\]\[23\]。這一活動名稱後來成為2014年單曲《[SHOW
-TIME](https://zh.wikipedia.org/wiki/SHOW_TIME "wikilink")》的其中一句歌詞和企劃靈感。8月10日－11月13日，正式於澀谷、大阪、福岡、札幌等地展開[街頭藝人活動](https://zh.wikipedia.org/wiki/街頭藝人 "wikilink")\[24\]。8月27日，於[日產汽車展覽聽出演](../Page/日產汽車.md "wikilink")[日本電視台主辦的公益活動](../Page/日本電視台.md "wikilink")《[24小時電視
+TIME](../Page/SHOW_TIME.md "wikilink")》的其中一句歌詞和企劃靈感。8月10日－11月13日，正式於澀谷、大阪、福岡、札幌等地展開[街頭藝人活動](https://zh.wikipedia.org/wiki/街頭藝人 "wikilink")\[24\]。8月27日，於[日產汽車展覽聽出演](../Page/日產汽車.md "wikilink")[日本電視台主辦的公益活動](../Page/日本電視台.md "wikilink")《[24小時電視
 「愛心救地球」](../Page/24小時電視_「愛心救地球」.md "wikilink")》\[25\]。8月29日，出席於新宿召開的中國香港電影《[頭文字D](../Page/頭文字D.md "wikilink")》日本首映禮活動，表演了日本地區主題歌《[BLOOD
 on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")（热血沸腾）》\[26\]。
 
@@ -113,7 +113,7 @@ HITS歌謠祭金曲獎作品](https://zh.wikipedia.org/wiki/BEST_HITS歌謠祭 "
 SESSIONS　AAA TALKING
 ATTACK\!\!\!》播出最後一期，西島隆弘因拍攝電視劇而缺席，改用電話特別錄製了《Nissy傳說（『ニッシー伝説』）》
 。
-\[33\]這一年成員西島隆弘參與主演了電影《[愛的曝光](https://zh.wikipedia.org/wiki/愛的曝光 "wikilink")》，并在電影中反串演出，隔年他憑此角色獲得了2009年[體育日本電影格蘭披治最優秀新人獎](https://zh.wikipedia.org/wiki/體育日本 "wikilink")。
+\[33\]這一年成員西島隆弘參與主演了電影《[愛的曝光](../Page/愛的曝光.md "wikilink")》，并在電影中反串演出，隔年他憑此角色獲得了2009年[體育日本電影格蘭披治最優秀新人獎](https://zh.wikipedia.org/wiki/體育日本 "wikilink")。
 
 [2009年H1N1流感大流行期間](../Page/2009年H1N1流感大流行.md "wikilink")，AAA也受到該流感病毒影響，例如11月2日的第42回[城西大学高麗祭公演](https://zh.wikipedia.org/wiki/城西大学 "wikilink")，團長[浦田直也因病缺席](../Page/浦田直也.md "wikilink")。\[34\]11月6日的国連之友Music
 Earthist
@@ -124,7 +124,7 @@ Earthist
 ～夢醒之夢～](https://zh.wikipedia.org/wiki/想見你的理由_/_Dream_After_Dream_～夢醒之夢～ "wikilink")》，成為AAA第二張周榜冠軍單曲，其中「想見你的理由」在第52屆[日本唱片大獎獲得了](../Page/日本唱片大獎.md "wikilink")「優秀作品獎」，並在[第61回NHK紅白歌合戰演出](https://zh.wikipedia.org/wiki/第61回NHK紅白歌合戰 "wikilink")。
 
 同年6月25日的時候，AAA在Ameba
-Pigs舉辦了首次網絡實況演唱會，但女主唱伊藤千晃因同月22日在家裡不慎摔倒，必須在家靜養的關係而缺席。\[37\]10月20日，AAA出席了福岡的[仁愛女子短期大学學園祭演出](https://zh.wikipedia.org/wiki/仁愛女子短期大学 "wikilink")，伊藤千晃因[腹膜炎住院的原因而缺席](https://zh.wikipedia.org/wiki/腹膜炎 "wikilink")。\[38\]
+Pigs舉辦了首次網絡實況演唱會，但女主唱伊藤千晃因同月22日在家裡不慎摔倒，必須在家靜養的關係而缺席。\[37\]10月20日，AAA出席了福岡的[仁愛女子短期大学學園祭演出](https://zh.wikipedia.org/wiki/仁愛女子短期大学 "wikilink")，伊藤千晃因[腹膜炎住院的原因而缺席](../Page/腹膜炎.md "wikilink")。\[38\]
 
 2011年2月，AAA發行了第6張原創專輯《[Buzz
 Communication](../Page/Buzz_Communication.md "wikilink")》，該作取得專輯周榜亞軍，期間成員與真司郎因拍攝電視劇缺席了17日在神奈川縣lazona川崎Ruefer廣場的發售會，改用同等大小的展示板代替。\[39\]3月，AAA預訂出席[香港亞洲流行音樂節](../Page/香港亞洲流行音樂節.md "wikilink")，但因[2011年日本東北地方太平洋近海地震而取消演出](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")。下半年，AAA應日本・越南特別大使[杉良太郎之邀](https://zh.wikipedia.org/wiki/杉良太郎 "wikilink")，前往越南舉辦日越建交35周年「第二屆
@@ -196,11 +196,11 @@ song\!～](../Page/777_～We_can_sing_a_song!～.md "wikilink")」後，AAA以�
 
 ### 2014年：黃金樂章
 
-2014年，AAA將於2月19日發行第39張單曲「[Love](https://zh.wikipedia.org/wiki/Love_\(AAA單曲\) "wikilink")」，此曲為日本[紅十字會](https://zh.wikipedia.org/wiki/紅十字會 "wikilink")2014年捐血活動的宣傳歌曲。同年5月展開出道以來首次全國Arena巡迴演唱會「AAA
+2014年，AAA將於2月19日發行第39張單曲「[Love](../Page/Love_\(AAA單曲\).md "wikilink")」，此曲為日本[紅十字會](https://zh.wikipedia.org/wiki/紅十字會 "wikilink")2014年捐血活動的宣傳歌曲。同年5月展開出道以來首次全國Arena巡迴演唱會「AAA
 ARENA TOUR 2014 -GOLD SYMPHONY-」，一共25場公演。
 
 3月26日發行第40張單曲「[SHOW
-TIME](https://zh.wikipedia.org/wiki/SHOW_TIME "wikilink")」，有別於以往的單曲，此單曲是〈AAA
+TIME](../Page/SHOW_TIME.md "wikilink")」，有別於以往的單曲，此單曲是〈AAA
 Party〉限量盤，只發行於AAA的歌迷，並不作公開發行。
 
 2014年年初，AAA被[富士電視台委任其動畫](../Page/富士電視台.md "wikilink")「[ONE
@@ -208,11 +208,11 @@ PIECE](../Page/ONE_PIECE.md "wikilink")」15週年的PR大使，設立任期1年
 up\!](../Page/Wake_up!.md "wikilink")」。「[Wake
 up\!](../Page/Wake_up!.md "wikilink")」往後更成為AAA的第41張單曲，於7月2日發行。
 
-AAA将于9月17日发行第42張單曲《[說再見之前](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")》，作为第九张专辑《[GOLD
-SYMPHONY](https://zh.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")》的先行单曲
+AAA将于9月17日发行第42張單曲《[說再見之前](../Page/說再見之前.md "wikilink")》，作为第九张专辑《[GOLD
+SYMPHONY](../Page/GOLD_SYMPHONY.md "wikilink")》的先行单曲
 
 第九张原創專輯「[GOLD
-SYMPHONY](https://zh.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")」於10月1日發行，這張專輯成為他們第3張張獲得Oricon公信榜每周銷量排名第1的專輯，亦是繼「[Eighth
+SYMPHONY](../Page/GOLD_SYMPHONY.md "wikilink")」於10月1日發行，這張專輯成為他們第3張張獲得Oricon公信榜每周銷量排名第1的專輯，亦是繼「[Eighth
 Wonder](https://zh.wikipedia.org/wiki/Eighth_Wonder_\(AAA\) "wikilink")」後第二張第1位的原創專輯。
 
 10月18日，AAA於[北海道](../Page/北海道.md "wikilink")[札幌真駒內積水海姆冰場舉行](https://zh.wikipedia.org/wiki/札幌 "wikilink")「AAA
@@ -226,22 +226,22 @@ KOJI」的詳情，並落實於[新加坡](../Page/新加坡.md "wikilink")、[�
 
 繼「[想見你的理由](https://zh.wikipedia.org/wiki/想見你的理由_/_Dream_After_Dream_～夢醒之夢～ "wikilink")」、「[CALL](https://zh.wikipedia.org/wiki/CALL_/_I4U "wikilink")」、「[777
 ～We can sing a
-song\!～](../Page/777_～We_can_sing_a_song!～.md "wikilink")」、「[戀歌與雨天](../Page/戀歌與雨天.md "wikilink")」後，AAA以「[告別之前](https://zh.wikipedia.org/wiki/告別之前 "wikilink")」連續第五年在日本唱片大獎獲得「優秀作品獎」，並於12月31日在[第65回NHK紅白歌合戰演出](https://zh.wikipedia.org/wiki/第65回NHK紅白歌合戰 "wikilink")，連續第五年登上紅白歌合戰
+song\!～](../Page/777_～We_can_sing_a_song!～.md "wikilink")」、「[戀歌與雨天](../Page/戀歌與雨天.md "wikilink")」後，AAA以「[告別之前](https://zh.wikipedia.org/wiki/告別之前 "wikilink")」連續第五年在日本唱片大獎獲得「優秀作品獎」，並於12月31日在[第65回NHK紅白歌合戰演出](../Page/第65回NHK紅白歌合戰.md "wikilink")，連續第五年登上紅白歌合戰
 
 ### 2015年：出道十週年
 
 踏入2015年，AAA於元旦晚上舉行「AAA NEW YEAR PARTY 2015」。並宣佈出道十週年的計劃 -
 連續7個月單曲發行，第一作為《[I'll be
 there](https://zh.wikipedia.org/wiki/I'll_be_there "wikilink")》，於1月28日發行；第二作為《[Lil'
-Infinity](https://zh.wikipedia.org/wiki/Lil'_Infinity "wikilink")》，於2月25日發行。
+Infinity](../Page/Lil'_Infinity.md "wikilink")》，於2月25日發行。
 
 2015年4月展開亞洲巡迴演唱會「AAA ASIA TOUR 2015 -Attack All
 Around-」，及後於5月展開十週年紀念全國Arena巡迴演唱會「AAA
 ARENA TOUR 2015 10th Anniversary -Attack All Around-」。
 
 十週年
-連續7個月單曲發行中的第三作《[我的憂鬱與不開心的她](https://zh.wikipedia.org/wiki/我的憂鬱與不開心的她 "wikilink")》將於3月25日發行；第四作《[GAME
-OVER?](https://zh.wikipedia.org/wiki/GAME_OVER? "wikilink")》於4月29日發行。
+連續7個月單曲發行中的第三作《[我的憂鬱與不開心的她](../Page/我的憂鬱與不開心的她.md "wikilink")》將於3月25日發行；第四作《[GAME
+OVER?](../Page/GAME_OVER?.md "wikilink")》於4月29日發行。
 
 AAA為[朝日電視台動畫](../Page/朝日電視台.md "wikilink")『[境界觸發者](../Page/境界觸發者.md "wikilink")』（WORLD
 TRIGGER）演唱新主題曲「[明日之光](../Page/明日之光.md "wikilink")」。「明日之光」往後更成為AAA的第47張單曲（十週年
@@ -255,7 +255,7 @@ TRIGGER）演唱新主題曲「[明日之光](../Page/明日之光.md "wikilink"
 kiss](../Page/Flavor_of_kiss.md "wikilink")》於6月24日發行；第七作、第49張單曲《[LOVER](../Page/LOVER.md "wikilink")》於7月29日發行。
 
 十週年單曲連發計劃的那七張單曲（《[I'll be
-there](https://zh.wikipedia.org/wiki/I'll_be_there_\(AAA單曲\) "wikilink")》至《[LOVER](../Page/LOVER.md "wikilink")》），當中內藏一首未發行歌曲《STORY》，需要集齊七張單曲、並用特別的手機Apps「AAAR」，方可取得各成員演唱部份的音源。
+there](../Page/I'll_be_there_\(AAA單曲\).md "wikilink")》至《[LOVER](../Page/LOVER.md "wikilink")》），當中內藏一首未發行歌曲《STORY》，需要集齊七張單曲、並用特別的手機Apps「AAAR」，方可取得各成員演唱部份的音源。
 
 為紀念出道10周年，AAA將於9月16日發行第50張單曲《[深愛著，卻不能愛](../Page/深愛著，卻不能愛.md "wikilink")》和第四張精選專輯及第十張原創專輯合輯《[AAA
 10th ANNIVERSARY
@@ -284,19 +284,19 @@ AAA今年8月即將二度舉辦亞洲巡迴演唱會「AAA ASIA TOUR 2016」，�
 Special Live 2016 in Dome -FANTASTIC
 OVER-」，及後於7月24日宣佈在11月16日追加[東京巨蛋公演](../Page/東京巨蛋.md "wikilink")
 
-第52張單曲《[沒有眼淚的世界](https://zh.wikipedia.org/wiki/沒有眼淚的世界 "wikilink")》於10月5日發行。女子組成員宇野實彩子和伊藤千晃宣佈以『MisaChia』名義，在2017年3月舉行單獨巡迴演唱會「MisaChia
+第52張單曲《[沒有眼淚的世界](../Page/沒有眼淚的世界.md "wikilink")》於10月5日發行。女子組成員宇野實彩子和伊藤千晃宣佈以『MisaChia』名義，在2017年3月舉行單獨巡迴演唱會「MisaChia
 1st Tour ～Jewel In the Night～」
 
 11月16日（AAA Special Live 2016 in Dome -FANTASTIC OVER-
 最終場），宣佈第53張單曲於2017年2月8日發行；而第十一張原創專輯於兩週後（2月22日）發行。
 
-AAA憑「[沒有眼淚的世界](https://zh.wikipedia.org/wiki/沒有眼淚的世界 "wikilink")」連續第七年在日本唱片大獎獲得「優秀作品獎」；並連續第七年登上[紅白歌合戰](https://zh.wikipedia.org/wiki/第67回NHK紅白歌合戰 "wikilink")
+AAA憑「[沒有眼淚的世界](../Page/沒有眼淚的世界.md "wikilink")」連續第七年在日本唱片大獎獲得「優秀作品獎」；並連續第七年登上[紅白歌合戰](../Page/第67回NHK紅白歌合戰.md "wikilink")
 
 ### 2017年：WAY OF GLORY
 
 AAA於元旦晚上舉行「AAA NEW YEAR PARTY
-2017」。早前宣佈發行的第53張單曲為《[MAGIC](https://zh.wikipedia.org/wiki/MAGIC_\(AAA單曲\) "wikilink")》，是[朝日電視台電視劇](../Page/朝日電視台.md "wikilink")『奪い愛、冬』的主題曲；第十一張原創專輯亦定名為《[WAY
-OF GLORY](https://zh.wikipedia.org/wiki/WAY_OF_GLORY "wikilink")》
+2017」。早前宣佈發行的第53張單曲為《[MAGIC](../Page/MAGIC_\(AAA單曲\).md "wikilink")》，是[朝日電視台電視劇](../Page/朝日電視台.md "wikilink")『奪い愛、冬』的主題曲；第十一張原創專輯亦定名為《[WAY
+OF GLORY](../Page/WAY_OF_GLORY.md "wikilink")》
 
 1月12日，伊藤千晃宣佈與圈外男友結婚並懷孕3個月，經多番考慮，決定於3月末從AAA畢業。先前決定舉行的演唱會「MisaChia 1st
 Tour ～Jewel In the Night～」亦中止了。
@@ -306,9 +306,9 @@ Tour ～Jewel In the Night～」亦中止了。
 5月2日，末吉秀太宣佈以「shuta sueyoshi」名義展開個人活動，以配信形式發行個人單曲「Switch」。
 
 7月5日，發行的第54張單曲《[No Way
-Back](https://zh.wikipedia.org/wiki/No_Way_Back "wikilink")》，此單曲為6人體制後的第一張單曲。
+Back](../Page/No_Way_Back.md "wikilink")》，此單曲為6人體制後的第一張單曲。
 
-第55張單曲《[LIFE](https://zh.wikipedia.org/wiki/LIFE_\(AAA單曲\) "wikilink")》於10月18日發行，是[富士電視台月](../Page/富士電視台.md "wikilink")9電視劇『[民眾之敵～在這世上，不是很奇怪嗎！？～](https://zh.wikipedia.org/wiki/民眾之敵～在這世上，不是很奇怪嗎！？～ "wikilink")』的主題曲。AAA憑「LIFE」連續第八年在[日本唱片大獎獲得](../Page/日本唱片大獎.md "wikilink")「優秀作品獎」。
+第55張單曲《[LIFE](../Page/LIFE_\(AAA單曲\).md "wikilink")》於10月18日發行，是[富士電視台月](../Page/富士電視台.md "wikilink")9電視劇『[民眾之敵～在這世上，不是很奇怪嗎！？～](../Page/民眾之敵～在這世上，不是很奇怪嗎！？～.md "wikilink")』的主題曲。AAA憑「LIFE」連續第八年在[日本唱片大獎獲得](../Page/日本唱片大獎.md "wikilink")「優秀作品獎」。
 
 12月27日，宇野實彩子宣佈在2018年2月14日展開個人活動，並發行個人出道單曲「你為什麼這樣愛我」。
 
@@ -339,14 +339,14 @@ FAN MEETING ARENA TOUR 2018 ～FAN FUN FAN～》
 
 5月26日（AAA FAN MEETING ARENA TOUR 2018 ～FAN FUN FAN～
 初日），AAA宣布第十二張原創專輯於8月29日發行，定名為《[COLOR A
-LIFE](https://zh.wikipedia.org/wiki/COLOR_A_LIFE "wikilink")》。並在9月舉行巨蛋巡迴演唱會「AAA
-DOME TOUR 2018 -COLOR A LIFE-」
+LIFE](../Page/COLOR_A_LIFE.md "wikilink")》。並在9月舉行巨蛋巡迴演唱會「AAA DOME TOUR
+2018 -COLOR A LIFE-」
 
 11月7日，宣佈新曲《[笑臉無限](https://zh.wikipedia.org/wiki/笑臉無限 "wikilink")》為[NHK節目](https://zh.wikipedia.org/wiki/NHK "wikilink")「」2018年12月份至2019年1月份放送歌曲之一；此曲往後更成為AAA的第56張單曲，於2019年1月9日發行。
 
 12月21日，首次登上[朝日電視台年末特別音樂節目](../Page/朝日電視台.md "wikilink")「[MUSIC STATION
 SUPER
-LIVE](../Page/MUSIC_STATION_SUPER_LIVE.md "wikilink")」，並演唱《[DEJAVU](https://zh.wikipedia.org/wiki/COLOR_A_LIFE "wikilink")》。
+LIVE](../Page/MUSIC_STATION_SUPER_LIVE.md "wikilink")」，並演唱《[DEJAVU](../Page/COLOR_A_LIFE.md "wikilink")》。
 
 ## 團體及藝術性
 
@@ -375,7 +375,7 @@ Soul](../Page/Heart_and_Soul_\(AAA單曲\).md "wikilink")》說唱的日高，�
 heart
 -侍魂-](../Page/Black_&_White_\(AAA單曲\).md "wikilink")》合唱的與和末吉，7輯先行《[777
 ～We can sing a
-song\!～](../Page/777_～We_can_sing_a_song!～.md "wikilink")》領唱的伊藤。第1節主歌通常開始於西島，因而全曲通常亦都從西島開始，如4輯《[啟程之歌](../Page/啟程之歌_\(AAA單曲\).md "wikilink")》、8輯《[戀歌與雨天](../Page/戀歌與雨天.md "wikilink")》、9輯《[說再見之前](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")》、10輯《[深愛著，卻不能愛](../Page/深愛著，卻不能愛.md "wikilink")》等先行。宇野開場的曲目，通常還會獨唱全曲最高音，如6輯先行《[重要的事](../Page/重要的事.md "wikilink")》。
+song\!～](../Page/777_～We_can_sing_a_song!～.md "wikilink")》領唱的伊藤。第1節主歌通常開始於西島，因而全曲通常亦都從西島開始，如4輯《[啟程之歌](../Page/啟程之歌_\(AAA單曲\).md "wikilink")》、8輯《[戀歌與雨天](../Page/戀歌與雨天.md "wikilink")》、9輯《[說再見之前](../Page/說再見之前.md "wikilink")》、10輯《[深愛著，卻不能愛](../Page/深愛著，卻不能愛.md "wikilink")》等先行。宇野開場的曲目，通常還會獨唱全曲最高音，如6輯先行《[重要的事](../Page/重要的事.md "wikilink")》。
 
 出道開始[松浦勝人擔任最高製作人](https://zh.wikipedia.org/wiki/松浦勝人 "wikilink")，負責最終審批提案。實際全方位負責選曲、主唱分配等工作的則是[原田淳](https://zh.wikipedia.org/wiki/原田淳 "wikilink")，當時AAA自我主導的作品較少，直到13單《[Get
 啾\! /
@@ -402,28 +402,27 @@ You](../Page/Still_Love_You.md "wikilink")》開始，AAA回歸到早期時候�
 歌詞內容則開始以表現內心情感細節的愛情題材，特別是失戀題材為主，受眾更多地從青少年向成年人群體延伸。
 
 2013年發行了總結過往抒情作品的概念專輯《[抒情精選](../Page/Ballad_Collection.md "wikilink")》，AAA的音樂作品開始偏向中板及慢曲風格，如《[Miss
-you](https://zh.wikipedia.org/wiki/Miss_you_/_綻放笑容的場所 "wikilink")》、《[戀歌與雨天](../Page/戀歌與雨天.md "wikilink")》、《[Love](https://zh.wikipedia.org/wiki/Love_\(AAA單曲\) "wikilink")》、《[微風徐徐的夏日記憶](../Page/Wake_up!.md "wikilink")》、《[說再見之前](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")》、《[Lil'
-Infinity](https://zh.wikipedia.org/wiki/Lil'_Infinity "wikilink")》、《[深愛著，卻不能愛](../Page/深愛著，卻不能愛.md "wikilink")》。
+you](https://zh.wikipedia.org/wiki/Miss_you_/_綻放笑容的場所 "wikilink")》、《[戀歌與雨天](../Page/戀歌與雨天.md "wikilink")》、《[Love](../Page/Love_\(AAA單曲\).md "wikilink")》、《[微風徐徐的夏日記憶](../Page/Wake_up!.md "wikilink")》、《[說再見之前](../Page/說再見之前.md "wikilink")》、《[Lil'
+Infinity](../Page/Lil'_Infinity.md "wikilink")》、《[深愛著，卻不能愛](../Page/深愛著，卻不能愛.md "wikilink")》。
 
 #### 編曲
 
 AAA從第一首原創歌曲《[Friday
-Party](../Page/Friday_Party.md "wikilink")》開始，編曲基本使用前奏，第1節和第2節分別的主歌、前副歌、副歌，以及獨奏、間奏、第3節最後副歌、結尾伴奏的[日本流行音樂傳統](../Page/日本流行音樂.md "wikilink")[編曲形式進行](https://zh.wikipedia.org/wiki/編曲 "wikilink")，並會在主調（主音）之下配以副調（和音），如《[我的憂鬱與不開心的她](https://zh.wikipedia.org/wiki/我的憂鬱與不開心的她 "wikilink")》。
+Party](../Page/Friday_Party.md "wikilink")》開始，編曲基本使用前奏，第1節和第2節分別的主歌、前副歌、副歌，以及獨奏、間奏、第3節最後副歌、結尾伴奏的[日本流行音樂傳統](../Page/日本流行音樂.md "wikilink")[編曲形式進行](https://zh.wikipedia.org/wiki/編曲 "wikilink")，並會在主調（主音）之下配以副調（和音），如《[我的憂鬱與不開心的她](../Page/我的憂鬱與不開心的她.md "wikilink")》。
 
 通常前奏為純伴奏，間奏為說唱，如《[明日之光](../Page/明日之光.md "wikilink")》，或技巧音、特效音，如純清唱或半清唱的《[Lil'
-Infinity](https://zh.wikipedia.org/wiki/Lil'_Infinity "wikilink")》、哼唱的《[Flavor
-of
+Infinity](../Page/Lil'_Infinity.md "wikilink")》、哼唱的《[Flavor of
 kiss](../Page/Flavor_of_kiss.md "wikilink")》，或重複同一句歌詞的《[LOVER](../Page/LOVER.md "wikilink")》。前奏有時亦會配以說唱，如出道作品《[BLOOD
 on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")》，或原調、降調的副歌，如《[I'll be
-there](https://zh.wikipedia.org/wiki/I'll_be_there_\(AAA單曲\) "wikilink")》。
+there](../Page/I'll_be_there_\(AAA單曲\).md "wikilink")》。
 
 主歌部分曾在早期的《[美麗的天空](../Page/美麗的天空.md "wikilink")》嘗試全說唱的方式進行，而後直接進入副歌的高音部分。高潮通常會出現在副歌，特別是第3節的最後副歌當中，或用獨唱、說唱配以與主調形成反差的副調獨奏來單獨表現，如《[深愛著，卻不能愛](../Page/深愛著，卻不能愛.md "wikilink")》、《[GAME
-OVER?](https://zh.wikipedia.org/wiki/GAME_OVER? "wikilink")》。
+OVER?](../Page/GAME_OVER?.md "wikilink")》。
 
 出道早期以中國[銅鑼開場的作品](https://zh.wikipedia.org/wiki/銅鑼 "wikilink")《[DRAGON
 FIRE](../Page/DRAGON_FIRE.md "wikilink")》開始，偶爾亦會融入古典器樂或民族元素的和絃，如日本風的《[Samurai
 heart
--侍魂-](../Page/Black_&_White_\(AAA單曲\).md "wikilink")》、阿拉伯風的《[MIRAGE](../Page/MIRAGE_\(AAA單曲\).md "wikilink")》、中國風的《[戀歌與雨天](../Page/戀歌與雨天.md "wikilink")》以及西洋交響樂的《[微風徐徐的夏日記憶](../Page/Wake_up!.md "wikilink")》、《[說再見之前](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")》。
+-侍魂-](../Page/Black_&_White_\(AAA單曲\).md "wikilink")》、阿拉伯風的《[MIRAGE](../Page/MIRAGE_\(AAA單曲\).md "wikilink")》、中國風的《[戀歌與雨天](../Page/戀歌與雨天.md "wikilink")》以及西洋交響樂的《[微風徐徐的夏日記憶](../Page/Wake_up!.md "wikilink")》、《[說再見之前](../Page/說再見之前.md "wikilink")》。
 
 ### 表演風格
 
@@ -455,7 +454,7 @@ performance
 Unit／スーパーパフォーマンスグループ）。\[55\]\[56\]愛貝克思台灣在2015年亞洲巡回期間的介紹是「**日本最強男女組合**」。\[57\]AAA自2005年開始，每年固定參加[a-nation](https://zh.wikipedia.org/wiki/a-nation "wikilink")。2010年開始連續獲得[日本唱片大賞的優秀作品賞](https://zh.wikipedia.org/wiki/日本唱片大賞 "wikilink")，並登上NHK的[紅白歌合戰](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")，期間基本是以佔成員多數的男歌手，也就是白組名義。2013年時，NHK總導演表示想借用女成員來阻止紅組的收視率劣勢，於是這年是以女歌手名義出場。
 
 2006年，AAA在首張專輯《ATTACK》推出了[西島隆弘和](../Page/西島隆弘.md "wikilink")[宇野實彩子配對主唱](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")、[末吉秀太合唱的](../Page/末吉秀太.md "wikilink")《[邂逅的力量](https://zh.wikipedia.org/wiki/ATTACK_\(AAA專輯\)#邂逅的力量 "wikilink")》，並推出了後續的[II](../Page/AROUND_\(AAA專輯\).md "wikilink")、[Ⅲ](https://zh.wikipedia.org/wiki/depArture "wikilink")，成為一個相識、相戀、相離主題的系列組曲。2010年秋，[Uta-Net為紀念網站成立](https://zh.wikipedia.org/wiki/Uta-Net "wikilink")10週年，以「**有助戀愛的歌曲**」為題徵集線上投票，最後該曲作為12首之一收錄於2011年發行的合集《全輯為戀而歌～歌詞傳說～》，留言的情侶們透露，他和她是在[卡啦OK對唱](https://zh.wikipedia.org/wiki/卡啦OK "wikilink")「此時此刻，倘若一言不語，就此分別。或許，你我再難相遇…」這句歌詞時「從朋友走到戀人」的傳說故事。\[58\]
-2012年，該作又在推出約7年之後當選日本各大唱片公司聯合直營手機下載網站[RecoChoku的](../Page/RecoChoku.md "wikilink")「**聽在戀愛之初的樂曲**」第3位。\[59\]2014年播出的綜藝節目《[AKB大調查](https://zh.wikipedia.org/wiki/AKB大調查 "wikilink")》，AAA被日本歷史單曲銷量最高女歌手[AKB48相关的](../Page/AKB48.md "wikilink")240名成员評選為「到現場观看时，感觉演唱實力最佳的歌手」的第8名，成員[村山彩希評價到](../Page/村山彩希.md "wikilink")：「西島先生和宇野女士這兩個人，不管是合唱，還是獨唱，都很專業」。\[60\]
+2012年，該作又在推出約7年之後當選日本各大唱片公司聯合直營手機下載網站[RecoChoku的](../Page/RecoChoku.md "wikilink")「**聽在戀愛之初的樂曲**」第3位。\[59\]2014年播出的綜藝節目《[AKB大調查](../Page/AKB大調查.md "wikilink")》，AAA被日本歷史單曲銷量最高女歌手[AKB48相关的](../Page/AKB48.md "wikilink")240名成员評選為「到現場观看时，感觉演唱實力最佳的歌手」的第8名，成員[村山彩希評價到](../Page/村山彩希.md "wikilink")：「西島先生和宇野女士這兩個人，不管是合唱，還是獨唱，都很專業」。\[60\]
 
 2011年，為紀念AAA出道6週年和第二張精選集《[\#AAABEST](https://zh.wikipedia.org/wiki/#AAABEST "wikilink")》發行，[RecoChoku進行了一次為期一週的](../Page/RecoChoku.md "wikilink")「**AAA名曲榜**」的付費投票活動，最後選出的前五位曲目是《MUSIC\!\!\!》《[不屈的心](../Page/不屈的心.md "wikilink")》《Get
 チュー\!》《想見你的理由》《Believe own way》，其中前三位曲目的評論指出：
@@ -668,7 +667,7 @@ Unit／スーパーパフォーマンスグループ）。\[55\]\[56\]愛貝克�
 #### 藝人關係
 
   - AAA在2007年召開了男成員單獨的演唱會，當時募集了5名和成員相似的兒童演員作為嘉賓出演，分別是雨宮翔（）、穴戶多聞（）、安藝雄太朗（）、森田真弥（）和戶石悠太（），並參加了AAA在2008年的巡迴演唱會。2009年3月5日的2009年巡迴演唱會東京站，又加入兩名女成員久保玲奈和傳彩夏，分別扮演宇野實彩子和伊藤千晃。
-  - 2012年，搞笑藝人組合[X-GUN](https://zh.wikipedia.org/wiki/X-GUN "wikilink")、男子團體[Da-iCE](../Page/Da-iCE.md "wikilink")、男女團體[Dream5的高野洸和模特](https://zh.wikipedia.org/wiki/Dream5 "wikilink")[西田有沙也陸續參與了AAA的巡回演唱會](https://zh.wikipedia.org/wiki/西田有沙 "wikilink")。其中[X-GUN的西尾季隆在此後又連續作為巡演期間的綜藝節目記者](https://zh.wikipedia.org/wiki/X-GUN "wikilink")，與愛好者和成員互動，他也曾在2008年電視劇《新世紀莎士比亞》的DVD與AAA有過合作。
+  - 2012年，搞笑藝人組合[X-GUN](https://zh.wikipedia.org/wiki/X-GUN "wikilink")、男子團體[Da-iCE](../Page/Da-iCE.md "wikilink")、男女團體[Dream5的高野洸和模特](../Page/Dream5.md "wikilink")[西田有沙也陸續參與了AAA的巡回演唱會](https://zh.wikipedia.org/wiki/西田有沙 "wikilink")。其中[X-GUN的西尾季隆在此後又連續作為巡演期間的綜藝節目記者](https://zh.wikipedia.org/wiki/X-GUN "wikilink")，與愛好者和成員互動，他也曾在2008年電視劇《新世紀莎士比亞》的DVD與AAA有過合作。
 
 ### 公共交流
 
@@ -701,7 +700,7 @@ AAA成員自2008年12月開始，亦陸續在各類公共平台開設單獨的�
             BLOG**」，2008年轉為當日更新文章可自由瀏覽的半會員制。2012年轉為只限會員瀏覽，當日更新文章只顯示標題和開頭部分。
           - mu-mo的AAA購物首頁會發行一些會員專屬的作品或周邊，例如將2014年新年演唱會「AAA NEW YEAR
             PARTY 2014」公演和主持環節作為花絮收錄的第40張單曲《[SHOW
-            TIME](https://zh.wikipedia.org/wiki/SHOW_TIME "wikilink")》。
+            TIME](../Page/SHOW_TIME.md "wikilink")》。
       - 2015年4月1日，全球性的後援會「」建站，並接受海外會員申請，紀念同年4月4日開始的首次亞洲巡回演唱會。
       - 根據2015年8月統計，包括停止續費的會員在內，註冊的實名會員約10萬人左右。
   - 「**A熊猫**」（）
@@ -780,7 +779,7 @@ AAA的男女成員在台前和幕後的一些親密互動，在愛好者羣體�
 2007年8月6日，巴爾的摩當地的日本人來到案發現場進行調查，顯示公園內並無販賣噴塗用具，且發現了其他署名AAA的「日本 AAA
 2007.7.22」和「とりぷるえー」兩份塗鴉，使用塗料一致。對於疑問，愛貝克思表示「已經向公園管理方道歉」且「修補事項也在商討」，但拒絕對其他的話題表態。\[108\]
 
-事件過後，启用AAA作為廣告代言人的[好侍食品也陸續收到顧客對於選人不滿和安慰公司選錯人的反饋信](https://zh.wikipedia.org/wiki/好侍食品 "wikilink")。同一時期，[朝日放送報道了一起三名年輕人因塗鴉而被判刑的新聞也牽連到AAA](../Page/朝日放送.md "wikilink")，援引安永健次法官的批評，網民表示「也請對AAA進行裁決」「也請這名法官對AAA進行教育」。
+事件過後，启用AAA作為廣告代言人的[好侍食品也陸續收到顧客對於選人不滿和安慰公司選錯人的反饋信](../Page/好侍食品.md "wikilink")。同一時期，[朝日放送報道了一起三名年輕人因塗鴉而被判刑的新聞也牽連到AAA](../Page/朝日放送.md "wikilink")，援引安永健次法官的批評，網民表示「也請對AAA進行裁決」「也請這名法官對AAA進行教育」。
 \[109\]
 
 2007年8月13日，AAA以「AAA（伊藤千晃）」名義登上了偵探FILE抽取調查的「令人無奈」的藝人第二位，評論認為AAA令人無奈的原因是此前一直沒有什麼名聲，卻因為缺乏常識的圖畫而一下子成為全國焦點。\[110\]
@@ -1704,7 +1703,7 @@ naoya LIVE TOUR-unbreakable-10th Anniversary Special Final）\[138\]。
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Love_(AAA單曲)" title="wikilink">Love</a></p></td>
+<td><p><a href="../Page/Love_(AAA單曲).md" title="wikilink">Love</a></p></td>
 <td><p>日本紅十字會2014年捐血活動《二十歲的捐血》宣傳歌曲</p></td>
 </tr>
 <tr class="odd">
@@ -1713,7 +1712,7 @@ naoya LIVE TOUR-unbreakable-10th Anniversary Special Final）\[138\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/GOLD_SYMPHONY" title="wikilink">HANDs</a></p></td>
+<td><p><a href="../Page/GOLD_SYMPHONY.md" title="wikilink">HANDs</a></p></td>
 <td><p>讀賣電視電視劇「特防部 警察廳特殊防犯課」主題曲</p></td>
 <td></td>
 </tr>
@@ -1724,29 +1723,29 @@ naoya LIVE TOUR-unbreakable-10th Anniversary Special Final）\[138\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/說再見之前" title="wikilink">Next Stage</a></p></td>
+<td><p><a href="../Page/說再見之前.md" title="wikilink">Next Stage</a></p></td>
 <td><p>富士電視台動畫「ONE PIECE "3D2Y" 跨越艾斯之死！路飛與夥伴的誓言」主題曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/GOLD_SYMPHONY" title="wikilink">SHOUT &amp; SHAKE</a></p></td>
+<td><p><a href="../Page/GOLD_SYMPHONY.md" title="wikilink">SHOUT &amp; SHAKE</a></p></td>
 <td><p>ALPEN「衝撃スノーボードバーゲン」電視廣告歌曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/說再見之前" title="wikilink">說再見之前</a></p></td>
+<td><p><a href="../Page/說再見之前.md" title="wikilink">說再見之前</a></p></td>
 <td><p>伊藤洋華堂「Warm Style」電視廣告歌曲<br />
 伊藤洋華堂「Kent『Touch Tradition』」電視廣告歌曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/GOLD_SYMPHONY" title="wikilink">V.O.L</a></p></td>
+<td><p><a href="../Page/GOLD_SYMPHONY.md" title="wikilink">V.O.L</a></p></td>
 <td><p>VIP「Geo World VIP」電視廣告歌曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Lil&#39;_Infinity" title="wikilink">Lil' Infinity</a></p></td>
+<td><p><a href="../Page/Lil&#39;_Infinity.md" title="wikilink">Lil' Infinity</a></p></td>
 <td><p>電影『<a href="../Page/生命中的美好缺憾_(電影).md" title="wikilink">生命中的美好缺憾</a>』主題曲</p></td>
 </tr>
 <tr class="odd">
@@ -1755,7 +1754,7 @@ naoya LIVE TOUR-unbreakable-10th Anniversary Special Final）\[138\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/GAME_OVER?" title="wikilink">GAME OVER?</a></p></td>
+<td><p><a href="../Page/GAME_OVER?.md" title="wikilink">GAME OVER?</a></p></td>
 <td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台節目</a>「ドラマ！7人のアイドルゴーゴー！」主題曲<br />
 手機遊戲《<a href="../Page/魔法氣泡系列.md" title="wikilink">魔法氣泡</a>》電視廣告歌曲</p></td>
 <td></td>
@@ -1801,7 +1800,7 @@ VIP「Geo World VIP」電視廣告歌曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/沒有眼淚的世界" title="wikilink">Yell</a></p></td>
+<td><p><a href="../Page/沒有眼淚的世界.md" title="wikilink">Yell</a></p></td>
 <td><p>全日本空手道連盟公認應援歌曲</p></td>
 <td></td>
 </tr>
@@ -1811,70 +1810,70 @@ VIP「Geo World VIP」電視廣告歌曲</p></td>
 <td><p>飲品品牌<a href="../Page/雪碧.md" title="wikilink">雪碧</a>「NEW すっきり爽快篇」電視廣告歌曲</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/沒有眼淚的世界" title="wikilink">Yell</a></p></td>
+<td><p><a href="../Page/沒有眼淚的世界.md" title="wikilink">Yell</a></p></td>
 <td><p>進研ゼミプラス「勝ちにいく夏篇」電視廣告歌曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/沒有眼淚的世界" title="wikilink">沒有眼淚的世界</a></p></td>
+<td><p><a href="../Page/沒有眼淚的世界.md" title="wikilink">沒有眼淚的世界</a></p></td>
 <td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台節目</a>「スッキリ！！」10月的主題曲<br />
 <a href="../Page/豪斯登堡.md" title="wikilink">豪斯登堡</a>「光之王國」電視廣告歌曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/沒有眼淚的世界" title="wikilink">Jewel</a></p></td>
+<td><p><a href="../Page/沒有眼淚的世界.md" title="wikilink">Jewel</a></p></td>
 <td><p>手機遊戲《<a href="../Page/魔法氣泡系列.md" title="wikilink">魔法氣泡</a>》電視廣告歌曲<br />
 VIP「Geo World VIP」電視廣告歌曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MAGIC_(AAA單曲)" title="wikilink">MAGIC</a></p></td>
+<td><p><a href="../Page/MAGIC_(AAA單曲).md" title="wikilink">MAGIC</a></p></td>
 <td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台電視劇</a>『奪い愛、冬』主題曲</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/WAY_OF_GLORY" title="wikilink">S.O.L</a></p></td>
+<td><p><a href="../Page/WAY_OF_GLORY.md" title="wikilink">S.O.L</a></p></td>
 <td><p>時尚雜誌《<a href="../Page/CanCam.md" title="wikilink">CanCam</a>》2017年4月號電視廣告歌曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/No_Way_Back" title="wikilink">No Way Back</a></p></td>
+<td><p><a href="../Page/No_Way_Back.md" title="wikilink">No Way Back</a></p></td>
 <td><p>飲品品牌冰結（R）「氷結(R)×AAA Original WEB」的電視廣告歌曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/No_Way_Back" title="wikilink">Beat Together</a></p></td>
+<td><p><a href="../Page/No_Way_Back.md" title="wikilink">Beat Together</a></p></td>
 <td><p>LAGUNA TEN BOSCH的夏季活動推廣歌曲<br />
 時尚雜誌《<a href="../Page/CanCam.md" title="wikilink">CanCam</a>》2017年10月號電視廣告歌曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/LIFE_(AAA單曲)" title="wikilink">LIFE</a></p></td>
+<td><p><a href="../Page/LIFE_(AAA單曲).md" title="wikilink">LIFE</a></p></td>
 <td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台電視劇</a>『民衆の敵 〜世の中、おかしくないですか!?〜』主題曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Eighth_Wonder" title="wikilink">drama</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV電視劇</a>『真冬のオオカミくんには騙されない』片尾曲</p></td>
+<td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV電視劇</a>『真冬のオオカミくんには騙されない』片尾曲</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/COLOR_A_LIFE" title="wikilink">Tomorrow</a></p></td>
+<td><p><a href="../Page/COLOR_A_LIFE.md" title="wikilink">Tomorrow</a></p></td>
 <td><p><a href="../Page/富士電視台週二晚間九點連續劇.md" title="wikilink">富士電視台火9電視劇</a>《<a href="https://zh.wikipedia.org/wiki/健康而有文化的最低限度生活" title="wikilink">健康而有文化的最低限度生活</a>》主題曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/COLOR_A_LIFE" title="wikilink">Kiss the Sky</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV和</a><a href="../Page/名古屋電視台.md" title="wikilink">名古屋電視台合拍劇</a>《<a href="https://zh.wikipedia.org/wiki/星塵復仇者們" title="wikilink">星塵復仇者們</a>》主題曲</p></td>
+<td><p><a href="../Page/COLOR_A_LIFE.md" title="wikilink">Kiss the Sky</a></p></td>
+<td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV和</a><a href="../Page/名古屋電視台.md" title="wikilink">名古屋電視台合拍劇</a>《<a href="https://zh.wikipedia.org/wiki/星塵復仇者們" title="wikilink">星塵復仇者們</a>》主題曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/COLOR_A_LIFE" title="wikilink">DEJAVU</a></p></td>
+<td><p><a href="../Page/COLOR_A_LIFE.md" title="wikilink">DEJAVU</a></p></td>
 <td><p>d Music powered by Recochoku電視廣告歌曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/COLOR_A_LIFE" title="wikilink">C.O.L</a></p></td>
+<td><p><a href="../Page/COLOR_A_LIFE.md" title="wikilink">C.O.L</a></p></td>
 <td><p>時尚雜誌《<a href="../Page/CanCam.md" title="wikilink">CanCam</a>》2018年10月號電視廣告歌曲</p></td>
 <td></td>
 </tr>
@@ -2103,14 +2102,14 @@ VIP「Geo World VIP」電視廣告歌曲</p></td>
 <tr class="odd">
 <td><p>WARM STYLE</p></td>
 <td><p>西島、宇野、與、伊藤</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/說再見之前" title="wikilink">說再見之前</a></p></td>
+<td><p><a href="../Page/說再見之前.md" title="wikilink">說再見之前</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Kent</p></td>
 <td><p>西島</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/說再見之前" title="wikilink">說再見之前</a></p></td>
+<td><p><a href="../Page/說再見之前.md" title="wikilink">說再見之前</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2118,7 +2117,7 @@ VIP「Geo World VIP」電視廣告歌曲</p></td>
 <td><p>kent</p></td>
 <td><p>2015年</p></td>
 <td><p>西島</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我的憂鬱與不開心的她" title="wikilink">我的憂鬱與不開心的她</a></p></td>
+<td><p><a href="../Page/我的憂鬱與不開心的她.md" title="wikilink">我的憂鬱與不開心的她</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2246,7 +2245,7 @@ VIP「Geo World VIP」電視廣告歌曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/說再見之前" title="wikilink">說再見之前</a></p></td>
+<td><p><a href="../Page/說再見之前.md" title="wikilink">說再見之前</a></p></td>
 <td><p>第56回<a href="../Page/日本唱片大獎.md" title="wikilink">日本唱片大獎優秀作品獎</a></p></td>
 </tr>
 <tr class="odd">
@@ -2262,7 +2261,7 @@ VIP「Geo World VIP」電視廣告歌曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/沒有眼淚的世界" title="wikilink">沒有眼淚的世界</a></p></td>
+<td><p><a href="../Page/沒有眼淚的世界.md" title="wikilink">沒有眼淚的世界</a></p></td>
 <td><p>第58回<a href="../Page/日本唱片大獎.md" title="wikilink">日本唱片大獎優秀作品獎</a></p></td>
 </tr>
 <tr class="odd">
@@ -2270,7 +2269,7 @@ VIP「Geo World VIP」電視廣告歌曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/LIFE_(AAA單曲)" title="wikilink">LIFE</a></p></td>
+<td><p><a href="../Page/LIFE_(AAA單曲).md" title="wikilink">LIFE</a></p></td>
 <td><p>第59回<a href="../Page/日本唱片大獎.md" title="wikilink">日本唱片大獎優秀作品獎</a></p></td>
 </tr>
 <tr class="odd">
@@ -2303,7 +2302,7 @@ VIP「Geo World VIP」電視廣告歌曲</p></td>
 <td><p>2011年9月，金唱片 [146]</p></td>
 </tr>
 <tr class="even">
-<td><p>大碟《<a href="https://zh.wikipedia.org/wiki/GOLD_SYMPHONY" title="wikilink">GOLD SYMPHONY</a>》</p></td>
+<td><p>大碟《<a href="../Page/GOLD_SYMPHONY.md" title="wikilink">GOLD SYMPHONY</a>》</p></td>
 <td><p>2014年11月，金唱片[147]</p></td>
 </tr>
 <tr class="odd">
@@ -2311,7 +2310,7 @@ VIP「Geo World VIP」電視廣告歌曲</p></td>
 <td><p>2015年9月，金唱片</p></td>
 </tr>
 <tr class="even">
-<td><p>大碟《<a href="https://zh.wikipedia.org/wiki/WAY_OF_GLORY" title="wikilink">WAY OF GLORY</a>》</p></td>
+<td><p>大碟《<a href="../Page/WAY_OF_GLORY.md" title="wikilink">WAY OF GLORY</a>》</p></td>
 <td><p>2017年2月，金唱片</p></td>
 </tr>
 <tr class="odd">
@@ -2342,7 +2341,7 @@ VIP「Geo World VIP」電視廣告歌曲</p></td>
 <td><p>2014年7月，金單曲[154]</p></td>
 </tr>
 <tr class="odd">
-<td><p>全曲《<a href="https://zh.wikipedia.org/wiki/說再見之前" title="wikilink">說再見之前</a>》</p></td>
+<td><p>全曲《<a href="../Page/說再見之前.md" title="wikilink">說再見之前</a>》</p></td>
 <td><p>2014年12月，金單曲 [155] 2016年2月，白金單曲</p></td>
 </tr>
 <tr class="even">
@@ -2366,7 +2365,7 @@ VIP「Geo World VIP」電視廣告歌曲</p></td>
 <td><p>2016年9月，金單曲</p></td>
 </tr>
 <tr class="odd">
-<td><p>全曲《<a href="https://zh.wikipedia.org/wiki/Lil&#39;_Infinity" title="wikilink">Lil' Infinity</a>》</p></td>
+<td><p>全曲《<a href="../Page/Lil&#39;_Infinity.md" title="wikilink">Lil' Infinity</a>》</p></td>
 <td><p>2017年2月，金單曲</p></td>
 </tr>
 <tr class="even">

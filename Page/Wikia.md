@@ -31,7 +31,7 @@ Venus 版面被終止開發及移除，Oasis 版面則保留下來。
 
 2018年5月25日， Monobook 版面被完全從 Wikia 中刪除，所有使用 Monobook 版面的 Wiki 和用戶都被迫切換到
 Wikia 默認的 Oasis 版面，引起社區中許多用戶的反感。
-該公司列舉了保持兩個皮膚符合[歐盟](https://zh.wikipedia.org/wiki/歐盟 "wikilink")[一般資料保護規範的技術問題](https://zh.wikipedia.org/wiki/歐盟一般資料保護規範 "wikilink")。\[7\]
+該公司列舉了保持兩個皮膚符合[歐盟](https://zh.wikipedia.org/wiki/歐盟 "wikilink")[一般資料保護規範的技術問題](../Page/歐盟一般資料保護規範.md "wikilink")。\[7\]
 
 ## Wikia知名站台
 

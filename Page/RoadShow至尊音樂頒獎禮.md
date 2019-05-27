@@ -66,7 +66,7 @@ MV直選](https://zh.wikipedia.org/wiki/RoadShow_MV直選 "wikilink")。
 </tr>
 <tr class="even">
 <td><p>RoadShow至尊舞臺演繹</p></td>
-<td><p>《電光火石》 ──<a href="https://zh.wikipedia.org/wiki/彭懷安" title="wikilink">彭懷安</a>、<a href="../Page/鄧穎芝.md" title="wikilink">鄧穎芝</a><br />
+<td><p>《電光火石》 ──<a href="../Page/彭懷安.md" title="wikilink">彭懷安</a>、<a href="../Page/鄧穎芝.md" title="wikilink">鄧穎芝</a><br />
 《趁墟》 ──<a href="../Page/胡琳.md" title="wikilink">胡琳</a><br />
 《步步進逼》 ──<a href="https://zh.wikipedia.org/wiki/Sun_Boy&#39;z" title="wikilink">Sun Boy'z</a></p></td>
 </tr>

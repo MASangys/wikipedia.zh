@@ -195,7 +195,7 @@ MAG](../Page/FN_MAG通用機槍.md "wikilink")（[M240](../Page/M240通用機槍
     zh-tw:超狂亨利;}-](https://zh.wikipedia.org/wiki/硬核大戰 "wikilink")》（Hardcore
     Henry）：型號為PKM，出現在吉米的武器庫當中，雖有被回收但沒有在電影中使用。
   - 2018年—《[-{zh-cn:12勇士; zh-tw:12猛漢;
-    zh-hk:12壯士}-](https://zh.wikipedia.org/wiki/12猛漢 "wikilink")》（12
+    zh-hk:12壯士}-](../Page/12猛漢.md "wikilink")》（12
     Strong）：型號為PKM，被[北方聯盟和](https://zh.wikipedia.org/wiki/北方聯盟 "wikilink")[塔利班戰士所使用](../Page/塔利班.md "wikilink")。
 
 ### 電視劇
@@ -255,7 +255,7 @@ MAG](../Page/FN_MAG通用機槍.md "wikilink")（[M240](../Page/M240通用機槍
 ### 小說
 
   - 2014年—《[刀劍神域外傳Gun Gale
-    Online](https://zh.wikipedia.org/wiki/刀劍神域外傳Gun_Gale_Online "wikilink")》：型號為PKM，被“SHINC”小隊的“羅莎”和“蘇菲”所使用。
+    Online](../Page/刀劍神域外傳Gun_Gale_Online.md "wikilink")》：型號為PKM，被“SHINC”小隊的“羅莎”和“蘇菲”所使用。
 
 ## 参考文献
 

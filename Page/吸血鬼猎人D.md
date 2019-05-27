@@ -64,7 +64,7 @@ SONY發行的OVA版，但無法呈現原畫的細緻，並沒有達到作者[菊
   - 音響監督：松浦典良
   - 音樂：小室哲哉（TM NETWORK）
   - 音樂製作人：小阪洋二、山口三平
-  - 原画：松下浩美、近永健一、[只野和子](../Page/只野和子.md "wikilink")、小林早苗、[神志那弘志](../Page/神志那弘志.md "wikilink")、山内則康、宮嶋堅、松村靖之、吉松孝博、藤沢俊幸、海老沢幸男、[渡邊浩](https://zh.wikipedia.org/wiki/渡邊浩 "wikilink")、[西島克彥](https://zh.wikipedia.org/wiki/西島克彥 "wikilink")、靄山修、坂元恵美、金沢勝眞、古瀬泰英、半田由利
+  - 原画：松下浩美、近永健一、[只野和子](../Page/只野和子.md "wikilink")、小林早苗、[神志那弘志](../Page/神志那弘志.md "wikilink")、山内則康、宮嶋堅、松村靖之、吉松孝博、藤沢俊幸、海老沢幸男、[渡邊浩](../Page/渡邊浩.md "wikilink")、[西島克彥](../Page/西島克彥.md "wikilink")、靄山修、坂元恵美、金沢勝眞、古瀬泰英、半田由利
   - 製片：肥田光久、加藤博、長崎行男
   - 監製：梅原勝
   - 協力：、、A・I・C、亜細亜堂、九魔、手塚、竜子研究所、、、、社、、
@@ -87,17 +87,17 @@ SONY發行的OVA版，但無法呈現原畫的細緻，並沒有達到作者[菊
   - 朵莉絲：[富澤美智惠](../Page/富澤美智惠.md "wikilink")
   - 丹：[戶田惠子](../Page/戶田惠子.md "wikilink")
   - 李伯爵：[加藤精三](https://zh.wikipedia.org/wiki/加藤精三 "wikilink")
-  - 拉米卡：[木藤聰子](https://zh.wikipedia.org/wiki/木藤聰子 "wikilink")
+  - 拉米卡：[木藤聰子](../Page/木藤聰子.md "wikilink")
   - 麗銀星：[曾我部和恭](../Page/曾我部和恭.md "wikilink")
   - D的左手／旁白：[永井一郎](../Page/永井一郎.md "wikilink")
   - 葛烈克：[屋良有作](../Page/屋良有作.md "wikilink")
   - 費林戈：[清川元夢](../Page/清川元夢.md "wikilink")
-  - 蛇女（姊）：[彌永和子](https://zh.wikipedia.org/wiki/彌永和子 "wikilink")
+  - 蛇女（姊）：[彌永和子](../Page/彌永和子.md "wikilink")
   - 蛇女（妹）：[榊原良子](../Page/榊原良子.md "wikilink")
   - 羅曼：[村松康雄](../Page/村松康雄.md "wikilink")
   - 丹頓：[德丸完](https://zh.wikipedia.org/wiki/德丸完 "wikilink")
   - 歐雷利：[田中和實](https://zh.wikipedia.org/wiki/田中和實 "wikilink")
-  - 基姆雷特：[小瀧進](https://zh.wikipedia.org/wiki/大瀧進矢 "wikilink")
+  - 基姆雷特：[小瀧進](../Page/大瀧進矢.md "wikilink")
 
 ## 劇場版
 

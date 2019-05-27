@@ -101,7 +101,7 @@ Fami通因對當今電子遊戲非常嚴格的評分而全球知名\[9\]\[10\]�
     4](../Page/PlayStation_4.md "wikilink")、[Xbox
     One](../Page/Xbox_One.md "wikilink")）
 24. [塞尔达传说 旷野之息](../Page/塞尔达传说_旷野之息.md "wikilink") （2017，任天堂，[Wii
-    U](../Page/Wii_U.md "wikilink")、[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")）
+    U](../Page/Wii_U.md "wikilink")、[任天堂Switch](../Page/任天堂Switch.md "wikilink")）
 25. [勇者鬥惡龍XI
     追尋逝去的時光](https://zh.wikipedia.org/wiki/勇者鬥惡龍XI_追尋逝去的時光 "wikilink")
     （2017，史克威尔艾尼克斯，[PlayStation
@@ -162,7 +162,7 @@ Fami通因對當今電子遊戲非常嚴格的評分而全球知名\[9\]\[10\]�
     / PlayStation 3)
 22. [魔物獵人攜帶版3rd](../Page/魔物獵人攜帶版3rd.md "wikilink")（2010，[卡普空](../Page/卡普空.md "wikilink")，[PlayStation
     Portable](../Page/PlayStation_Portable.md "wikilink")）
-23. [決勝時刻：黑色行动](https://zh.wikipedia.org/wiki/決勝時刻：黑色行动 "wikilink")（2010，[Treyarch](https://zh.wikipedia.org/wiki/Treyarch "wikilink")，[Xbox
+23. [決勝時刻：黑色行动](https://zh.wikipedia.org/wiki/決勝時刻：黑色行动 "wikilink")（2010，[Treyarch](../Page/Treyarch.md "wikilink")，[Xbox
     360](../Page/Xbox_360.md "wikilink")／[PlayStation
     3](../Page/PlayStation_3.md "wikilink")）
 24. [決勝時刻：現代戰爭3](../Page/決勝時刻：現代戰爭3.md "wikilink")（2011，[Infinity
@@ -207,10 +207,10 @@ Fami通因對當今電子遊戲非常嚴格的評分而全球知名\[9\]\[10\]�
     / PlayStation 3）
 36. [火影忍者：究极忍者风暴3](https://zh.wikipedia.org/wiki/火影忍者：究极忍者风暴3 "wikilink")（2013，[南梦宫万代](https://zh.wikipedia.org/wiki/南梦宫万代游戏 "wikilink")，Xbox360
     / PlayStation 3）
-37. [神奇101](https://zh.wikipedia.org/wiki/神奇101 "wikilink")
+37. [神奇101](../Page/神奇101.md "wikilink")
     （2013，[任天堂](../Page/任天堂.md "wikilink")，[Wii
     U](../Page/Wii_U.md "wikilink")）
-38. [最终幻想XIV：重生之境](https://zh.wikipedia.org/wiki/最终幻想XIV：重生之境 "wikilink")（2013，[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")，[PlayStation
+38. [最终幻想XIV：重生之境](../Page/最终幻想XIV：重生之境.md "wikilink")（2013，[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")，[PlayStation
     3](../Page/PlayStation_3.md "wikilink")）
 39. [精灵宝可梦 X·Y](../Page/精灵宝可梦_X·Y.md "wikilink")
     （2013，[精灵宝可梦公司](https://zh.wikipedia.org/wiki/精灵宝可梦公司 "wikilink")，[Nintendo
@@ -242,8 +242,7 @@ Fami通因對當今電子遊戲非常嚴格的評分而全球知名\[9\]\[10\]�
     4](../Page/PlayStation_4.md "wikilink") / [Xbox
     One](../Page/Xbox_One.md "wikilink") /
     [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink"))
-48. [碧血狂殺2](https://zh.wikipedia.org/wiki/碧血狂殺2 "wikilink")
-    (2018，[Rockstar
+48. [碧血狂殺2](../Page/碧血狂殺2.md "wikilink") (2018，[Rockstar
     Games](../Page/Rockstar_Games.md "wikilink")，[PlayStation
     4](../Page/PlayStation_4.md "wikilink") / [Xbox
     One](../Page/Xbox_One.md "wikilink"))

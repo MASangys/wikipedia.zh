@@ -16,7 +16,7 @@ Republic中並將其重命名為Guerrilla Games。
 Games與索尼電腦娛樂簽訂一個獨佔協議，在這個協議下Guerrilla將會專為[索尼的遊戲平台](../Page/索尼.md "wikilink")[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")、[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")、[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[PSP與](https://zh.wikipedia.org/wiki/PSP "wikilink")[PSVita等開發獨佔遊戲](https://zh.wikipedia.org/wiki/PSVita "wikilink")。
 
 2005年12月索尼宣佈收購Guerrilla Games，Guerrilla
-Games將繼續開發[PlayStation遊戲機的獨佔遊戲](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。本次收購背後的財務細節並未提供。
+Games將繼續開發[PlayStation遊戲機的獨佔遊戲](../Page/PlayStation.md "wikilink")。本次收購背後的財務細節並未提供。
 \[1\]
 
 除了自身开发电子游戏软件以外，Guerrilla
@@ -57,7 +57,7 @@ Games还有为索尼的其他工作室和游戏作品提供协助，例如[小�
 <td><p><br />
 Shellshock: Nam '67</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第三人称射击游戏" title="wikilink">第三人称射击</a></p></td>
-<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a>、<a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a>、<a href="https://zh.wikipedia.org/wiki/Windows" title="wikilink">Windows</a></p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a>、<a href="../Page/Xbox.md" title="wikilink">Xbox</a>、<a href="https://zh.wikipedia.org/wiki/Windows" title="wikilink">Windows</a></p></td>
 <td><p><a href="../Page/Eidos.md" title="wikilink">Eidos</a></p></td>
 <td></td>
 </tr>
@@ -117,7 +117,7 @@ Killzone Shadow Fall</p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/地平線_黎明時分" title="wikilink">地平线：零之曙光</a><br />
+<td><p><a href="../Page/地平線_黎明時分.md" title="wikilink">地平线：零之曙光</a><br />
 Horizon Zero Dawn</p></td>
 <td><p><a href="../Page/動作角色扮演遊戲.md" title="wikilink">動作角色扮演</a></p></td>
 <td><p>PlayStation 4</p></td>
@@ -137,8 +137,7 @@ Guerrilla Games董事Hermen Hulst在PlayStation Experience
 
 ## 参见
 
-  - [Decima
-    (游戏引擎)](https://zh.wikipedia.org/wiki/Decima_\(游戏引擎\) "wikilink")
+  - [Decima (游戏引擎)](../Page/Decima_\(游戏引擎\).md "wikilink")
 
   - ，原为**Millennium Interactive Ltd.**，后改建为**SCEE
     Cambridge**，2012年成为Guerrilla Games分部门。

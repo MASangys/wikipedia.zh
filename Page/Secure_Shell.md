@@ -24,7 +24,7 @@ SSH也支持基于密码的身份验证，此时密钥是自动生成的。若�
 
 ## 使用
 
-SSH的经典用途是登录到远程电脑中执行命令。除此之外，SSH也支持[隧道协议](../Page/隧道协议.md "wikilink")、[端口映射和](https://zh.wikipedia.org/wiki/端口映射 "wikilink")[X11连接](../Page/X_Window系統.md "wikilink")。借助[SFTP或](../Page/SSH文件传输协议.md "wikilink")[SCP协议还可以传输文件](https://zh.wikipedia.org/wiki/安全复制 "wikilink")\[11\]。
+SSH的经典用途是登录到远程电脑中执行命令。除此之外，SSH也支持[隧道协议](../Page/隧道协议.md "wikilink")、[端口映射和](https://zh.wikipedia.org/wiki/端口映射 "wikilink")[X11连接](../Page/X_Window系統.md "wikilink")。借助[SFTP或](../Page/SSH文件传输协议.md "wikilink")[SCP协议还可以传输文件](../Page/安全复制.md "wikilink")\[11\]。
 
 SSH使用[客户端-服务器模型](../Page/主從式架構.md "wikilink")。服务器端需要开启SSH[守护进程以便接受远端的连接](../Page/守护进程.md "wikilink")，而用户需要使用SSH客户端与其建立连接。标准端口中的22端口分配给了SSH服务\[12\]。
 
@@ -36,7 +36,7 @@ SSH使用[客户端-服务器模型](../Page/主從式架構.md "wikilink")。�
 
 ### 1.x版本
 
-芬兰[赫尔辛基理工大学的](../Page/赫尔辛基理工大学.md "wikilink")[塔图·于勒宁发现自己学校存在嗅探密码的网络攻击](https://zh.wikipedia.org/wiki/塔图·于勒宁 "wikilink")，便于1995年编写了一套保护信息传输的程序，并称其为“secure
+芬兰[赫尔辛基理工大学的](../Page/赫尔辛基理工大学.md "wikilink")[塔图·于勒宁发现自己学校存在嗅探密码的网络攻击](../Page/塔图·于勒宁.md "wikilink")，便于1995年编写了一套保护信息传输的程序，并称其为“secure
 shell”，简称SSH\[14\]，设计目标是取代先前的、[Telnet](../Page/Telnet.md "wikilink")、[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")\[15\]和[rsh等安全性不足的协议](../Page/远程外壳.md "wikilink")。1995年7月，于勒宁以[免費軟體的形式将其发布](../Page/免費軟體.md "wikilink")。程序很快流行起来，截至1995年底，SSH的用户数已经达到两万，遍布五十个国家。
 
 1995年12月，于勒宁创立了SSH通信安全公司来继续开发和销售SSH。SSH的早期版本用到了很多[自由软件](../Page/自由软件.md "wikilink")，例如[GNU
@@ -54,7 +54,7 @@ Grönvall基于这个版本开发了OSSH。不久之后，[OpenBSD的开发者�
 
 ### 2.x版本
 
-2006年，SSH-2协议成为了新的标准。与SSH-1相比，SSH-2进行了一系列功能改进并增强了安全性，例如基于[迪菲-赫爾曼密鑰交換的加密和基于](../Page/迪菲-赫爾曼密鑰交換.md "wikilink")[訊息鑑別碼的完整性检查](https://zh.wikipedia.org/wiki/訊息鑑別碼 "wikilink")。SSH-2还支持通过单个SSH连接任意数量的shell会话。SSH-2协议与SSH-1不兼容，由于更加流行，一些实现（例如[lsh和](https://zh.wikipedia.org/wiki/lsh "wikilink")[Dropbear](https://zh.wikipedia.org/wiki/Dropbear "wikilink")）只支持SSH-2协议。
+2006年，SSH-2协议成为了新的标准。与SSH-1相比，SSH-2进行了一系列功能改进并增强了安全性，例如基于[迪菲-赫爾曼密鑰交換的加密和基于](../Page/迪菲-赫爾曼密鑰交換.md "wikilink")[訊息鑑別碼的完整性检查](https://zh.wikipedia.org/wiki/訊息鑑別碼 "wikilink")。SSH-2还支持通过单个SSH连接任意数量的shell会话。SSH-2协议与SSH-1不兼容，由于更加流行，一些实现（例如[lsh和](https://zh.wikipedia.org/wiki/lsh "wikilink")[Dropbear](../Page/Dropbear.md "wikilink")）只支持SSH-2协议。
 
 ### 1.99版
 

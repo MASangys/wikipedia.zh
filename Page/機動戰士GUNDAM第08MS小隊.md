@@ -172,7 +172,7 @@ CV：[藤本譲](https://zh.wikipedia.org/wiki/:藤本讓 "wikilink")
   - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
   - 角色設定：[川元利浩](../Page/川元利浩.md "wikilink")
   - 機械設定：[大河原邦男](../Page/大河原邦男.md "wikilink")、[カトキハジメ](../Page/角木肇.md "wikilink")、[山根公利](https://zh.wikipedia.org/wiki/山根公利 "wikilink")
-  - 監督：[神田武幸](https://zh.wikipedia.org/wiki/神田武幸 "wikilink")、[飯田馬之介](https://zh.wikipedia.org/wiki/飯田馬之介 "wikilink")、[加瀨充子](https://zh.wikipedia.org/wiki/加瀨充子 "wikilink")
+  - 監督：[神田武幸](../Page/神田武幸.md "wikilink")、[飯田馬之介](https://zh.wikipedia.org/wiki/飯田馬之介 "wikilink")、[加瀨充子](../Page/加瀨充子.md "wikilink")
   - 製作：[Sunrise](https://zh.wikipedia.org/wiki/Sunrise "wikilink")
 
 ## 音樂

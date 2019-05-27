@@ -52,7 +52,7 @@ Of God, [WOG](https://zh.wikipedia.org/wiki/WOG "wikilink")）。
 
 <!-- end list -->
 
-  - **地牢**：也叫**地下城**，和他的名字一样，他是黑暗和腐朽生物的联合，各种[真菌总是装饰着这个阴暗的城镇](https://zh.wikipedia.org/wiki/真菌 "wikilink")，弥漫着恐怖的气息。生物包括[穴居人](https://zh.wikipedia.org/wiki/穴居人 "wikilink")，[鹰身女妖](https://zh.wikipedia.org/wiki/鹰身女妖 "wikilink")，[邪眼](https://zh.wikipedia.org/wiki/邪眼 "wikilink")，[美杜莎](../Page/美杜莎.md "wikilink")，[牛头人](https://zh.wikipedia.org/wiki/牛头怪 "wikilink")，[蝎狮](https://zh.wikipedia.org/wiki/蝎狮 "wikilink")，[龙](../Page/龙.md "wikilink")。它的龙是[红色和](../Page/红色.md "wikilink")[黑色的](../Page/黑色.md "wikilink")。英雄包括[领主和](https://zh.wikipedia.org/wiki/领主 "wikilink")[魔法师](https://zh.wikipedia.org/wiki/魔法师 "wikilink")。
+  - **地牢**：也叫**地下城**，和他的名字一样，他是黑暗和腐朽生物的联合，各种[真菌总是装饰着这个阴暗的城镇](../Page/真菌.md "wikilink")，弥漫着恐怖的气息。生物包括[穴居人](https://zh.wikipedia.org/wiki/穴居人 "wikilink")，[鹰身女妖](https://zh.wikipedia.org/wiki/鹰身女妖 "wikilink")，[邪眼](https://zh.wikipedia.org/wiki/邪眼 "wikilink")，[美杜莎](../Page/美杜莎.md "wikilink")，[牛头人](https://zh.wikipedia.org/wiki/牛头怪 "wikilink")，[蝎狮](https://zh.wikipedia.org/wiki/蝎狮 "wikilink")，[龙](../Page/龙.md "wikilink")。它的龙是[红色和](../Page/红色.md "wikilink")[黑色的](../Page/黑色.md "wikilink")。英雄包括[领主和](https://zh.wikipedia.org/wiki/领主 "wikilink")[魔法师](https://zh.wikipedia.org/wiki/魔法师 "wikilink")。
 
 <!-- end list -->
 
@@ -60,7 +60,7 @@ Of God, [WOG](https://zh.wikipedia.org/wiki/WOG "wikilink")）。
 
 <!-- end list -->
 
-  - **要塞**：这是一个建筑在[沼泽上的城镇](../Page/沼泽.md "wikilink")，他的生物都是[湿地上的](../Page/湿地.md "wikilink")，而且与其说像人不如说更像[蜥蜴](../Page/蜥蜴.md "wikilink")。生物包括[狼头怪](https://zh.wikipedia.org/wiki/狼头怪 "wikilink")，[蜥蜴人](../Page/蜥蜴人.md "wikilink")，[龙蝇](https://zh.wikipedia.org/wiki/龙蝇 "wikilink")，[石化蜥蜴](https://zh.wikipedia.org/wiki/石化蜥蜴 "wikilink")，[蛇皮兽](https://zh.wikipedia.org/wiki/蛇皮兽 "wikilink")，[双足飞龙](https://zh.wikipedia.org/wiki/双足飞龙 "wikilink")，[九头蛇](../Page/九头蛇.md "wikilink")。英雄包括[驯兽师和](https://zh.wikipedia.org/wiki/驯兽师 "wikilink")[女巫](https://zh.wikipedia.org/wiki/女巫 "wikilink")。
+  - **要塞**：这是一个建筑在[沼泽上的城镇](../Page/沼泽.md "wikilink")，他的生物都是[湿地上的](../Page/湿地.md "wikilink")，而且与其说像人不如说更像[蜥蜴](../Page/蜥蜴.md "wikilink")。生物包括[狼头怪](https://zh.wikipedia.org/wiki/狼头怪 "wikilink")，[蜥蜴人](../Page/蜥蜴人.md "wikilink")，[龙蝇](https://zh.wikipedia.org/wiki/龙蝇 "wikilink")，[石化蜥蜴](https://zh.wikipedia.org/wiki/石化蜥蜴 "wikilink")，[蛇皮兽](https://zh.wikipedia.org/wiki/蛇皮兽 "wikilink")，[双足飞龙](https://zh.wikipedia.org/wiki/双足飞龙 "wikilink")，[九头蛇](../Page/九头蛇.md "wikilink")。英雄包括[驯兽师和](https://zh.wikipedia.org/wiki/驯兽师 "wikilink")[女巫](../Page/女巫.md "wikilink")。
 
 <!-- end list -->
 

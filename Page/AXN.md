@@ -56,9 +56,9 @@ Networks, Asia (SPENA) 轄下，該公司同時運作GEM、Animax、Sony Channel
   - [星際獵殺](https://zh.wikipedia.org/wiki/太空獵手掃興者 "wikilink")
 
   -
-  - [馬蓋先](https://zh.wikipedia.org/wiki/馬蓋先_\(2016年電視劇\) "wikilink")
+  - [馬蓋先](../Page/馬蓋先_\(2016年電視劇\).md "wikilink")
 
-  - [國務卿女士](https://zh.wikipedia.org/wiki/國務卿女士 "wikilink")
+  - [國務卿女士](../Page/國務卿女士.md "wikilink")
 
   - [下一站，天后](https://zh.wikipedia.org/wiki/音樂之鄉 "wikilink")
 
@@ -86,7 +86,7 @@ Networks, Asia (SPENA) 轄下，該公司同時運作GEM、Animax、Sony Channel
 
   - [掃興者](https://zh.wikipedia.org/wiki/太空獵手掃興者 "wikilink")
 
-  - [玉面飛龍](https://zh.wikipedia.org/wiki/馬蓋先_\(2016年電視劇\) "wikilink")
+  - [玉面飛龍](../Page/馬蓋先_\(2016年電視劇\).md "wikilink")
 
   - [海狼特警：洛杉磯篇](https://zh.wikipedia.org/wiki/海軍罪案調查處：洛杉磯 "wikilink")
 
@@ -102,7 +102,7 @@ Networks, Asia (SPENA) 轄下，該公司同時運作GEM、Animax、Sony Channel
 #### 播過動畫
 
   - 《[JoJo的奇妙冒險](../Page/JoJo的奇妙冒險_\(電視動畫\).md "wikilink")》
-  - 《**[工作細胞](https://zh.wikipedia.org/wiki/工作細胞 "wikilink")**》
+  - 《**[工作細胞](../Page/工作細胞.md "wikilink")**》
   - 《[七大罪](https://zh.wikipedia.org/wiki/七大罪 "wikilink")》
   - 《[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教室 "wikilink") 》
   - 《[頭文字D](../Page/頭文字D.md "wikilink") 》
@@ -152,21 +152,21 @@ Networks, Asia (SPENA) 轄下，該公司同時運作GEM、Animax、Sony Channel
   - [腦殘政客](../Page/吃腦外星人.md "wikilink")
 
   -
-  - [芝加哥律政](https://zh.wikipedia.org/wiki/芝加哥正義 "wikilink")
+  - [芝加哥律政](../Page/芝加哥正義.md "wikilink")
 
   - [宅男特務](../Page/超市特工.md "wikilink")
 
   -
   - [妙探雙雄](https://zh.wikipedia.org/wiki/共同法則 "wikilink")
 
-  - [跨國大追緝](https://zh.wikipedia.org/wiki/跨國大追緝 "wikilink")
+  - [跨國大追緝](../Page/跨國大追緝.md "wikilink")
 
   -
   - [犯罪心理：疑犯動機](https://zh.wikipedia.org/wiki/犯罪心理：嫌犯動機 "wikilink")
 
   - [CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")
 
-  - [CSI：網路犯罪／CSI犯罪現場：網路犯罪](https://zh.wikipedia.org/wiki/CSI犯罪現場：網路犯罪 "wikilink")
+  - [CSI：網路犯罪／CSI犯罪現場：網路犯罪](../Page/CSI犯罪現場：網路犯罪.md "wikilink")
 
   - [CSI犯罪現場：邁阿密](../Page/CSI犯罪現場：邁阿密.md "wikilink")
 
@@ -215,7 +215,7 @@ Networks, Asia (SPENA) 轄下，該公司同時運作GEM、Animax、Sony Channel
   -
   - [雙生情謎](https://zh.wikipedia.org/wiki/替身姐妹 "wikilink")
 
-  - [性福沒滿](https://zh.wikipedia.org/wiki/性滿意足 "wikilink")
+  - [性福沒滿](../Page/性滿意足.md "wikilink")
 
   - [國務風雲](https://zh.wikipedia.org/wiki/國務危情 "wikilink")
 
@@ -242,7 +242,7 @@ Networks, Asia (SPENA) 轄下，該公司同時運作GEM、Animax、Sony Channel
 
   - [CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")
 
-  - [CSI犯罪現場：罪案網戰](https://zh.wikipedia.org/wiki/CSI犯罪現場：網路犯罪 "wikilink")
+  - [CSI犯罪現場：罪案網戰](../Page/CSI犯罪現場：網路犯罪.md "wikilink")
 
   - [CSI犯罪現場：邁阿密](../Page/CSI犯罪現場：邁阿密.md "wikilink")
 

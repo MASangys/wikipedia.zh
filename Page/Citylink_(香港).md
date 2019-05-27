@@ -27,7 +27,7 @@
 
 2015年8月3日，[DSC德爾斯結業後](../Page/DSC德爾斯.md "wikilink")，港鐵剛推出市場放盤，面積約24,169平方呎，每月租金120萬元。\[1\]
 
-2016年，9樓改為[港鐵學院訓練中心](https://zh.wikipedia.org/wiki/港鐵學院 "wikilink")。
+2016年，9樓改為[港鐵學院訓練中心](../Page/港鐵學院.md "wikilink")。
 
 <File:HK> Citylink Plaza Access 201009.jpg|翻新前商場通道 <File:Citylink> Plaza
 Void 201009.jpg|翻新前商場中庭 <File:Shatin> Citylink View 201202.jpg|翻新後商場通道

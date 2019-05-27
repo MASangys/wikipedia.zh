@@ -1,4 +1,4 @@
-在[物理学和](../Page/物理学.md "wikilink")[化学中](https://zh.wikipedia.org/wiki/化学 "wikilink")，**朗德\(g\)因子**是[阿尔佛雷德·朗德试图解释反常](https://zh.wikipedia.org/wiki/阿尔佛雷德·朗德 "wikilink")[塞曼效应时](../Page/塞曼效应.md "wikilink")，于1921年提出的一个[无量纲物理量](https://zh.wikipedia.org/wiki/无量纲 "wikilink")\[1\]\[2\]\[3\]\[4\]，反映了塞曼效应中[磁矩与](../Page/磁矩.md "wikilink")[角动量之间的联系](../Page/角动量.md "wikilink")。其定义后来被推广到其它领域，在[粒子物理学中常常被简称为](https://zh.wikipedia.org/wiki/粒子物理学 "wikilink")\(g\)因子。
+在[物理学和](../Page/物理学.md "wikilink")[化学中](https://zh.wikipedia.org/wiki/化学 "wikilink")，**朗德\(g\)因子**是[阿尔佛雷德·朗德试图解释反常](../Page/阿尔佛雷德·朗德.md "wikilink")[塞曼效应时](../Page/塞曼效应.md "wikilink")，于1921年提出的一个[无量纲物理量](https://zh.wikipedia.org/wiki/无量纲 "wikilink")\[1\]\[2\]\[3\]\[4\]，反映了塞曼效应中[磁矩与](../Page/磁矩.md "wikilink")[角动量之间的联系](../Page/角动量.md "wikilink")。其定义后来被推广到其它领域，在[粒子物理学中常常被简称为](https://zh.wikipedia.org/wiki/粒子物理学 "wikilink")\(g\)因子。
 
 ## 塞曼效应
 
@@ -10,7 +10,7 @@
 
 ### 导引
 
-朗德假定\[6\]，当两个角动量\(\mathbf{L}\hbar\)与\(\mathbf{S}\hbar\)[耦合时](https://zh.wikipedia.org/wiki/角动量耦合 "wikilink")，它们的相互作用能由下式给出：
+朗德假定\[6\]，当两个角动量\(\mathbf{L}\hbar\)与\(\mathbf{S}\hbar\)[耦合时](../Page/角动量耦合.md "wikilink")，它们的相互作用能由下式给出：
 
 \[E_{\text{interaction}}=\Gamma(\mathbf{L}\cdot\mathbf{S}),\quad \Gamma\,\text{ constant}\]
 

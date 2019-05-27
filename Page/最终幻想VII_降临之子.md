@@ -190,7 +190,7 @@ ENIX聯繫洽談版權事宜](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilin
 ### DVD普通版
 
 特別收錄《Final Fantasy VII》
-[PlayStation版遊戲的精華片段及Compilation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
+[PlayStation版遊戲的精華片段及Compilation](../Page/PlayStation.md "wikilink")
 of -{Final Fantasy}- VII Trailer。
 
 ### DVD初回限定版

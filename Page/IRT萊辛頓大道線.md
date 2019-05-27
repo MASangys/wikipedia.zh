@@ -68,7 +68,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/IRT傑羅姆大道線" title="wikilink">IRT傑羅姆大道線</a>（）及<a href="https://zh.wikipedia.org/wiki/IRT佩勒姆線" title="wikilink">IRT佩勒姆線</a>（）匯合，軌道開始</p></td>
+<td><p><a href="../Page/IRT傑羅姆大道線.md" title="wikilink">IRT傑羅姆大道線</a>（）及<a href="../Page/IRT佩勒姆線.md" title="wikilink">IRT佩勒姆線</a>（）匯合，軌道開始</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -178,7 +178,7 @@
 <td><p>1918年7月17日[17]<br />
 (1962, express)</p></td>
 <td><p>（<a href="https://zh.wikipedia.org/wiki/BMT百老匯線" title="wikilink">BMT百老匯線</a>，<a href="https://zh.wikipedia.org/wiki/萊辛頓大道／59街車站_(BMT百老匯線)" title="wikilink">萊辛頓大道／59街</a>）<br />
-使用出站轉乘：（<a href="https://zh.wikipedia.org/wiki/63街線" title="wikilink">63街線</a>，<a href="https://zh.wikipedia.org/wiki/萊辛頓大道-63街車站" title="wikilink">萊辛頓大道-63街</a>）<br />
+使用出站轉乘：（<a href="../Page/63街線.md" title="wikilink">63街線</a>，<a href="https://zh.wikipedia.org/wiki/萊辛頓大道-63街車站" title="wikilink">萊辛頓大道-63街</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/羅斯福島纜車" title="wikilink">羅斯福島纜車</a><br />
 此站起初為慢車站。供快車使用的下層月台在1962年啟用。</p></td>
 </tr>
@@ -200,7 +200,7 @@
 <td><p>全部</p></td>
 <td></td>
 <td><p>1918年7月17日[20]</p></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）<br />
+<td><p>（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）<br />
 （<a href="../Page/42街接駁線.md" title="wikilink">42街接駁線</a>）<br />
 可連接<a href="../Page/大都會北方鐵路.md" title="wikilink">大都會北方鐵路</a>，<a href="../Page/大中央總站.md" title="wikilink">大中央總站</a></p></td>
 <td></td>

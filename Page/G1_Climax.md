@@ -166,7 +166,7 @@ Climax優勝的也只有[武藤敬司與](../Page/武藤敬司.md "wikilink")[�
 <tr class="odd">
 <td><p>第19屆</p></td>
 <td><p>真壁刀義</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中邑真輔" title="wikilink">中邑真輔</a></p></td>
+<td><p><a href="../Page/中邑真輔.md" title="wikilink">中邑真輔</a></p></td>
 <td><p>2009年8月7-16日</p></td>
 <td><p>單循環賽（2組各7人）</p></td>
 <td><p>每組各取前兩名進入交叉準決賽，優勝者進入決賽</p></td>

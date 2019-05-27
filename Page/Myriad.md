@@ -16,7 +16,7 @@ Myriad拥有一个多控制界面可以与一个智能[软件](../Page/软件.md
 Garamond（[Garamond的一种变体](../Page/Garamond.md "wikilink")）成为[苹果电脑公司新的企业指定字体](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")。此后，其所有的市场宣传和产品都是使用Myriad字体。从[iPod
 photo开始](https://zh.wikipedia.org/wiki/iPod_photo "wikilink")，其界面字体Podium
 Sans，与Myriad有极大相似性。不过，自2016年9月起，[苹果公司用自己设计的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[San
-Francisco替代了Myriad](https://zh.wikipedia.org/wiki/San_Francisco_\(2014年的字体\) "wikilink")，作为产品和宣传的新字体。
+Francisco替代了Myriad](../Page/San_Francisco_\(2014年的字体\).md "wikilink")，作为产品和宣传的新字体。
 
 用户可以通过[Adobe Acrobat](../Page/Adobe_Acrobat.md "wikilink") Standard
 7.0光碟中的data1.cab提出这个字体。

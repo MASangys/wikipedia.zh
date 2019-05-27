@@ -216,8 +216,8 @@ Ball）若命中則為兩分，所以總分為30分。从[2014年NBA全明星赛
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2017-18_NBA賽季" title="wikilink">2018</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德文·布克" title="wikilink">德文·布克</a>^</p></td>
+<td><p><a href="../Page/2017-18_NBA賽季.md" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/德文·布克.md" title="wikilink">德文·布克</a>^</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鳳凰城太陽" title="wikilink">鳳凰城太陽</a></p></td>
 <td></td>
 </tr>
@@ -248,7 +248,7 @@ Ball）若命中則為兩分，所以總分為30分。从[2014年NBA全明星赛
 
 2015年開始三分球大賽由舊制的30分滿分調整為34分滿分，其中由選手自選一個點的5顆球都改為花球(花球若投進均可得兩分)，[斯蒂芬·库里](https://zh.wikipedia.org/wiki/斯蒂芬·库里 "wikilink")2015年&[克雷·湯普森](../Page/克雷·湯普森.md "wikilink")2016年所創下的27分紀錄若用舊制計算則為23分。
 
-[2018年](https://zh.wikipedia.org/wiki/2018年NBA全明星賽 "wikilink")[德文·布克以](https://zh.wikipedia.org/wiki/德文·布克 "wikilink")34分總分內奪得28分締造历史最佳成绩(PS:若以舊制來看，分數為25分)，而舊制的最佳成績則由[傑森·卡波諾於](https://zh.wikipedia.org/wiki/傑森·卡波諾 "wikilink")2008年的比賽中，以30分總分內得25分奪得，他當年同時蟬聯了這項比賽的冠軍。
+[2018年](../Page/2018年NBA全明星賽.md "wikilink")[德文·布克以](../Page/德文·布克.md "wikilink")34分總分內奪得28分締造历史最佳成绩(PS:若以舊制來看，分數為25分)，而舊制的最佳成績則由[傑森·卡波諾於](https://zh.wikipedia.org/wiki/傑森·卡波諾 "wikilink")2008年的比賽中，以30分總分內得25分奪得，他當年同時蟬聯了這項比賽的冠軍。
 
 [迈克尔·乔丹曾经尝试挑战](../Page/迈克尔·乔丹.md "wikilink")1990年的三分球大赛，第一轮只得5分，不但被刷掉，同時创下历史最低。
 

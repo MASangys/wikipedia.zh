@@ -51,8 +51,7 @@ die》及《瓜分[林瑞麟三十萬薪金](../Page/林瑞麟.md "wikilink")》
 
 <!-- end list -->
 
-  - 2004年：《**In the name of
-    [AMK](https://zh.wikipedia.org/wiki/AMK "wikilink")**》
+  - 2004年：《**In the name of [AMK](../Page/AMK.md "wikilink")**》
       - 山頂．公仔．波板糖
 
 <!-- end list -->
@@ -109,7 +108,7 @@ die》及《瓜分[林瑞麟三十萬薪金](../Page/林瑞麟.md "wikilink")》
   - 2007年10月1日：《**[我們在炎熱與抑鬱的夏天，無法停止抽煙](https://zh.wikipedia.org/wiki/我們在炎熱與抑鬱的夏天，無法停止抽煙 "wikilink")**》
   - 2009年11月20日：《**[介乎法國與旺角的詩意](../Page/介乎法國與旺角的詩意.md "wikilink")**》\[18\]
   - 2011年8月26日：《**[香港是個大商場](https://zh.wikipedia.org/wiki/香港是個大商場 "wikilink")**》
-  - 2012年10月20日：《**[寂寞的星期五](https://zh.wikipedia.org/wiki/寂寞的星期五 "wikilink")**》
+  - 2012年10月20日：《**[寂寞的星期五](../Page/寂寞的星期五.md "wikilink")**》
   - 2014年10月1日：《**[適婚的年齡](https://zh.wikipedia.org/wiki/適婚的年齡 "wikilink")**》
   - 2016年9月15日：《**[火炭麗琪](https://zh.wikipedia.org/wiki/火炭麗琪 "wikilink")**》\[19\]
   - 2018年9月30日：《**[你說之後會找我](https://zh.wikipedia.org/wiki/你說之後會找我 "wikilink")**》

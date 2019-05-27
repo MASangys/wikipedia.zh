@@ -29,7 +29,7 @@ Scilab協會於2005年啟動了基於Java的Scilab
 
 Scilab協會在2008年加入Digiteo基金會，自此Scilab協會開始在Digiteo基金會的引領下對Scilab進行開發，這種情況一直持續到2012年6月。另外也是在2008年，Scilab開始基於許可協議發行，CeCILL是一個與[GPL兼容的開源許可協議](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
-為了保證Scilab的長遠發展，在INRIA的支持下，Scilab事業公司於2010年6月成立。自2012年7月開始，Scilab事業公司將完全負責對Scilab後續版本的開發與發布，此外公司也提供關於Scilab的專業服務與支持。2017年，Scilab事業公司被[ESI集團併購](https://zh.wikipedia.org/wiki/ESI集團 "wikilink")。
+為了保證Scilab的長遠發展，在INRIA的支持下，Scilab事業公司於2010年6月成立。自2012年7月開始，Scilab事業公司將完全負責對Scilab後續版本的開發與發布，此外公司也提供關於Scilab的專業服務與支持。2017年，Scilab事業公司被[ESI集團併購](../Page/ESI集團.md "wikilink")。
 
 ## 主要特點
 

@@ -5,7 +5,7 @@ Magazine**》（ヤングマガジン，簡稱“Yanmaga”）是[日本](../Pag
 
   - 《[頭文字D](../Page/頭文字D.md "wikilink")》（[重野秀一](../Page/重野秀一.md "wikilink")）
   - 《[Kiss×sis](../Page/Kiss×sis.md "wikilink")》（[Ditama某](../Page/Ditama某.md "wikilink")）
-  - 《[亞基拉](https://zh.wikipedia.org/wiki/亚基拉 "wikilink")》（[大友克洋](../Page/大友克洋.md "wikilink")）
+  - 《[亞基拉](../Page/亚基拉.md "wikilink")》（[大友克洋](../Page/大友克洋.md "wikilink")）
   - 《[去吧！稻中兵團](https://zh.wikipedia.org/wiki/去吧！稻中乒团 "wikilink")》（[古谷實](../Page/古谷實.md "wikilink")）
   - 《[17歲青春遁走](../Page/17岁青春遁走.md "wikilink")》（[古谷實](../Page/古谷實.md "wikilink")）
   - 《[攻殼機動隊](../Page/攻殼機動隊.md "wikilink")》（[士郎正宗](../Page/士郎正宗.md "wikilink")）
@@ -15,9 +15,9 @@ Magazine**》（ヤングマガジン，簡稱“Yanmaga”）是[日本](../Pag
   - 《[×××HOLiC](../Page/×××HOLiC.md "wikilink")》（[CLAMP](../Page/CLAMP.md "wikilink")）
   - 《[戰國天正記](../Page/戰國天正記.md "wikilink")》（[宮下英樹](https://zh.wikipedia.org/wiki/宮下英樹 "wikilink")）
   - 《[MF
-    GHOST](https://zh.wikipedia.org/wiki/MF_GHOST "wikilink")》（[重野秀一](../Page/重野秀一.md "wikilink")）
+    GHOST](../Page/MF_GHOST.md "wikilink")》（[重野秀一](../Page/重野秀一.md "wikilink")）
   - 《[賭博默示錄](https://zh.wikipedia.org/wiki/賭博默示錄 "wikilink")》（[福本伸行](../Page/福本伸行.md "wikilink")）
-  - 《[少女不十分](https://zh.wikipedia.org/wiki/少女不十分 "wikilink")》（[西尾维新](https://zh.wikipedia.org/wiki/西尾维新 "wikilink")）
+  - 《[少女不十分](../Page/少女不十分.md "wikilink")》（[西尾维新](https://zh.wikipedia.org/wiki/西尾维新 "wikilink")）
 
 ## 參考資料
 

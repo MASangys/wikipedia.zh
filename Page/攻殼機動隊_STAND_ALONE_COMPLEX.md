@@ -109,12 +109,12 @@ GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C_2nd_GIG "wikilink")》�
   - 音樂 - [菅野洋子](../Page/菅野洋子.md "wikilink")
   - 音樂製作人 - 太田敏明
   - 音樂監督 - 石川吉元
-  - 音樂製作 - [勝利娛樂](https://zh.wikipedia.org/wiki/勝利娛樂 "wikilink")
+  - 音樂製作 - [勝利娛樂](../Page/勝利娛樂.md "wikilink")
   - 製作人 - 松家雄一郎、杉田敦
   - 動畫製作 - [Production I.G](../Page/Production_I.G.md "wikilink")
   - 製作 -
     攻殻機動隊[製作委員會](https://zh.wikipedia.org/wiki/製作委員會 "wikilink")（Production
-    I.G、[萬代影視](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")、萬代娛樂、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[日本電視台](../Page/日本電視台.md "wikilink")、[德間書店](../Page/德間書店.md "wikilink")、勝利娛樂、MANGA娛樂）
+    I.G、[萬代影視](../Page/萬代影視.md "wikilink")、萬代娛樂、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[日本電視台](../Page/日本電視台.md "wikilink")、[德間書店](../Page/德間書店.md "wikilink")、勝利娛樂、MANGA娛樂）
 
 ## 配音員
 
@@ -122,7 +122,7 @@ GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C_2nd_GIG "wikilink")》�
   - **荒卷大輔**：[阪修](https://zh.wikipedia.org/wiki/阪修 "wikilink")
   - **巴特**：[大塚明夫](../Page/大塚明夫.md "wikilink")
   - **德古沙**：[山寺宏一](../Page/山寺宏一.md "wikilink")
-  - **石川**：[仲野裕](https://zh.wikipedia.org/wiki/仲野裕 "wikilink")
+  - **石川**：[仲野裕](../Page/仲野裕.md "wikilink")
   - **齋藤**：[大川透](../Page/大川透.md "wikilink")
   - **帕茲**：[小野塚貴志](https://zh.wikipedia.org/wiki/小野塚貴志 "wikilink")
   - **波瑪**：[山口太郎](https://zh.wikipedia.org/wiki/山口太郎 "wikilink")
@@ -216,7 +216,7 @@ GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C_2nd_GIG "wikilink")》�
 <td><p><strong> <em>DECOY</em></strong>（誘餌鳥在歌唱）<br />
 <span style="font-size:95%"><em>C: The Inviting Bird will Chant – DECOY</em></span></p></td>
 <td><p>藤咲淳一</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中村隆太郎" title="wikilink">中村隆太郎</a></p></td>
+<td><p><a href="../Page/中村隆太郎.md" title="wikilink">中村隆太郎</a></p></td>
 <td><p>須賀重行<br />
 川原智弘(機械)</p></td>
 <td></td>
@@ -225,7 +225,7 @@ GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C_2nd_GIG "wikilink")》�
 <td><p>6</p></td>
 <td><p><strong> <em>MEME</em></strong>（模仿者在跳舞）<br />
 <span style="font-size:95%"><em>C: The Copycat will Dance – MEME</em></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/橘正紀" title="wikilink">橘正紀</a></p></td>
+<td><p><a href="../Page/橘正紀.md" title="wikilink">橘正紀</a></p></td>
 <td><p>後藤隆幸</p></td>
 <td></td>
 <td></td>
@@ -234,7 +234,7 @@ GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C_2nd_GIG "wikilink")》�
 <td><p>7</p></td>
 <td><p><strong> <em>IDOLATER</em></strong>（偶像崇拜）<br />
 <span style="font-size:95%"><em>SA: Idolatry – IDOLATOR</em></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/若林厚史" title="wikilink">若林厚史</a></p></td>
+<td><p><a href="../Page/若林厚史.md" title="wikilink">若林厚史</a></p></td>
 <td><p>佐藤雅弘</p></td>
 <td></td>
 <td></td>

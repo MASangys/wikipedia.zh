@@ -54,7 +54,7 @@ FIFA 07一共有27個聯賽。一個“其他地方球會”（Rest of world）�
   - [荷蘭足球甲級聯賽](https://zh.wikipedia.org/wiki/荷蘭足球甲級聯賽 "wikilink")
   - [意大利足球甲級聯賽](https://zh.wikipedia.org/wiki/意大利足球甲級聯賽 "wikilink")
   - [意大利足球乙級聯賽](https://zh.wikipedia.org/wiki/意大利足球乙級聯賽 "wikilink")<sup>1,3</sup>
-  - [韓國足球K聯賽](https://zh.wikipedia.org/wiki/K聯賽 "wikilink")
+  - [韓國足球K聯賽](../Page/K聯賽.md "wikilink")
   - [美國職業足球大聯盟](https://zh.wikipedia.org/wiki/美國職業足球大聯盟 "wikilink")
   - [墨西哥足球甲級聯賽](../Page/墨西哥足球甲級聯賽.md "wikilink")<sup>5</sup>
   - [挪威足球超級聯賽](https://zh.wikipedia.org/wiki/挪威足球超級聯賽 "wikilink")

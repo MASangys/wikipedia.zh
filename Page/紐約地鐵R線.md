@@ -268,7 +268,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/63街線" title="wikilink">63街線</a></strong>（繁忙時段只有一班列車）[8]</p></td>
+<td><p><strong><a href="../Page/63街線.md" title="wikilink">63街線</a></strong>（繁忙時段只有一班列車）[8]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -375,7 +375,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）</p></td>
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）</p></td>
 <td><p>線巴士往<a href="https://zh.wikipedia.org/wiki/拉瓜迪亞機場" title="wikilink">拉瓜迪亞機場</a>（只限）<br />
 <br />
 往<a href="https://zh.wikipedia.org/wiki/拉瓜迪亞機場" title="wikilink">拉瓜迪亞機場</a></p></td>
@@ -461,7 +461,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <td></td>
 <td><p><br />
 （<a href="../Page/IRT萊辛頓大道線.md" title="wikilink">IRT萊辛頓大道線</a>）<br />
-出站轉乘：（<a href="https://zh.wikipedia.org/wiki/63街線" title="wikilink">63街線</a>，<a href="https://zh.wikipedia.org/wiki/萊辛頓大道-63街車站" title="wikilink">萊辛頓大道-63街</a>）</p></td>
+出站轉乘：（<a href="../Page/63街線.md" title="wikilink">63街線</a>，<a href="https://zh.wikipedia.org/wiki/萊辛頓大道-63街車站" title="wikilink">萊辛頓大道-63街</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/羅斯福島纜車" title="wikilink">羅斯福島纜車</a></p></td>
 </tr>
 <tr class="odd">
@@ -517,7 +517,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <td></td>
 <td><p><br />
 （<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>）<br />
-（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）<br />
+（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）<br />
 （<a href="https://zh.wikipedia.org/wiki/IND第八大道線" title="wikilink">IND第八大道線</a>，<a href="https://zh.wikipedia.org/wiki/42街-航港局客運總站車站_(IND第八大道線)" title="wikilink">42街-航港局客運總站</a>）<br />
 （<a href="../Page/42街接駁線.md" title="wikilink">42街接駁線</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐新航港局客運總站" title="wikilink">紐新航港局客運總站</a></p></td>

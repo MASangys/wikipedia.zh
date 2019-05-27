@@ -102,7 +102,7 @@ DAT-TUN5：<a href="https://zh.wikipedia.org/wiki/所喬治" title="wikilink">�
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>5月16日</p></td>
-<td><p>100Q：日本電視台・ベレーザ（<a href="https://zh.wikipedia.org/wiki/澤穂稀" title="wikilink">澤穂稀</a>、<a href="https://zh.wikipedia.org/wiki/荒川恵理子" title="wikilink">荒川恵理子</a>、<a href="https://zh.wikipedia.org/wiki/岩清水梓" title="wikilink">岩清水梓</a>）<br />
+<td><p>100Q：日本電視台・ベレーザ（<a href="https://zh.wikipedia.org/wiki/澤穂稀" title="wikilink">澤穂稀</a>、<a href="https://zh.wikipedia.org/wiki/荒川恵理子" title="wikilink">荒川恵理子</a>、<a href="../Page/岩清水梓.md" title="wikilink">岩清水梓</a>）<br />
 DAT-TUN5：<a href="https://zh.wikipedia.org/wiki/所喬治" title="wikilink">所喬治</a> 敗</p></td>
 <td></td>
 <td><p>4.0%</p></td>
@@ -271,7 +271,7 @@ DAT-TUN：<a href="https://zh.wikipedia.org/wiki/片岡安祐美" title="wikilin
 <tr class="odd">
 <td><p>27</p></td>
 <td><p>10月3日</p></td>
-<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/古田新太" title="wikilink">古田新太</a>（各種各樣Half&amp;Half）<br />
+<td><p>100Q：<a href="../Page/古田新太.md" title="wikilink">古田新太</a>（各種各樣Half&amp;Half）<br />
 ♥disc：<a href="https://zh.wikipedia.org/wiki/徳永英明" title="wikilink">徳永英明</a></p></td>
 <td></td>
 <td><p>4.2%</p></td>
@@ -471,7 +471,7 @@ Cartoon town club：<a href="https://zh.wikipedia.org/wiki/Crystal_Kay" title="w
 <tr class="odd">
 <td><p>48</p></td>
 <td><p>3月5日</p></td>
-<td><p>100Q：<a href="../Page/熊田曜子.md" title="wikilink">熊田曜子</a>、<a href="https://zh.wikipedia.org/wiki/夏川純" title="wikilink">夏川純</a>、<a href="../Page/安田美沙子.md" title="wikilink">安田美沙子</a></p></td>
+<td><p>100Q：<a href="../Page/熊田曜子.md" title="wikilink">熊田曜子</a>、<a href="../Page/夏川純.md" title="wikilink">夏川純</a>、<a href="../Page/安田美沙子.md" title="wikilink">安田美沙子</a></p></td>
 <td></td>
 <td><p>5.6%</p></td>
 <td></td>
@@ -804,7 +804,7 @@ Cartoon town club：<a href="https://zh.wikipedia.org/wiki/Crystal_Kay" title="w
 <tr class="odd">
 <td><p>87</p></td>
 <td><p>12月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/坂井真紀" title="wikilink">坂井真紀</a></p></td>
+<td><p><a href="../Page/坂井真紀.md" title="wikilink">坂井真紀</a></p></td>
 <td><p>Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</a></p></td>
 <td><p>3.8%</p></td>
 </tr>

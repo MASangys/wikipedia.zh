@@ -128,7 +128,7 @@ SEED的正式外傳作品](../Page/機動戰士GUNDAM_SEED.md "wikilink")。「A
 
 <!-- end list -->
 
-  - 李德·威勒（CV：[宇垣秀成](https://zh.wikipedia.org/wiki/宇垣秀成 "wikilink")）
+  - 李德·威勒（CV：[宇垣秀成](../Page/宇垣秀成.md "wikilink")）
 
 <!-- end list -->
 

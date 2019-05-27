@@ -7,11 +7,11 @@ TT手槍在設計時明顯是深受[約翰·白朗寧的](https://zh.wikipedia.o
 此槍採用[7.62×25毫米口徑手槍子彈](../Page/7.62×25mm托卡列夫手槍彈.md "wikilink")，在外觀及機械結構方面均與[FN
 M1903相似](../Page/FN_M1903手槍.md "wikilink")，但發射時的槍機後座距離較短。
 
-TT-30在開始投產後簡化了一些設計，如槍管、[套筒釋放鈕](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、扳機及[底把等](https://zh.wikipedia.org/wiki/机匣 "wikilink")，以便更易於生產。\[1\]
+TT-30在開始投產後簡化了一些設計，如槍管、[套筒釋放鈕](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、扳機及[底把等](../Page/机匣.md "wikilink")，以便更易於生產。\[1\]
 
 這種改進型名為TT-33。為了降低生產成本，蘇聯在1946年再度簡化了TT-33的設計。
 
-和同期一般自動手槍不同，TT手槍明顯是沒有額外保險裝置，也沒有手動擊錘保險，但仍然可以透把擊錘拉開一半後固定，此時仍然不能開槍但可以盡快縮短完全打開的時間，以實現[半待擊狀態](https://zh.wikipedia.org/wiki/半待擊狀態 "wikilink")，做到事實仍然安全狀態的另類保險方式。作為軍用手槍來說安全性是合格的，但並不適合用作警用手槍，因為除了安全問題以外，7.62毫米托卡列夫手槍彈的貫穿力被認為是過強。
+和同期一般自動手槍不同，TT手槍明顯是沒有額外保險裝置，也沒有手動擊錘保險，但仍然可以透把擊錘拉開一半後固定，此時仍然不能開槍但可以盡快縮短完全打開的時間，以實現[半待擊狀態](../Page/半待擊狀態.md "wikilink")，做到事實仍然安全狀態的另類保險方式。作為軍用手槍來說安全性是合格的，但並不適合用作警用手槍，因為除了安全問題以外，7.62毫米托卡列夫手槍彈的貫穿力被認為是過強。
 
 ## 历史
 
@@ -174,21 +174,18 @@ TT-33成為了[二戰中廣為蘇軍使用的手槍](https://zh.wikipedia.org/wi
     Circle）：為[上一部電影的](../Page/皇家特工：間諜密令.md "wikilink")「金士曼手槍」（Kingsman
     Pistol），被蓋瑞·「伊格西」·安文（[泰隆·艾格頓飾演](https://zh.wikipedia.org/wiki/泰隆·艾格頓 "wikilink")）和哈利·哈特（[柯林·佛斯飾演](https://zh.wikipedia.org/wiki/柯林·佛斯 "wikilink")）所使用。
   - 2017年ㄧ《[-{zh-hans:极寒之城; zh-hk:原子殺姬;
-    zh-tw:極凍之城;}-](https://zh.wikipedia.org/wiki/極凍之城 "wikilink")》：型號為TT-33，被[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[秘密情報局特工蘿琳](../Page/秘密情報局.md "wikilink")·布勞頓（[莎莉·賽隆飾演](https://zh.wikipedia.org/wiki/莎莉·賽隆 "wikilink")）與部分[蘇聯國家安全委員會特工所使用](https://zh.wikipedia.org/wiki/蘇聯國家安全委員會 "wikilink")。
+    zh-tw:極凍之城;}-](../Page/極凍之城.md "wikilink")》：型號為TT-33，被[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[秘密情報局特工蘿琳](../Page/秘密情報局.md "wikilink")·布勞頓（[莎莉·賽隆飾演](https://zh.wikipedia.org/wiki/莎莉·賽隆 "wikilink")）與部分[蘇聯國家安全委員會特工所使用](https://zh.wikipedia.org/wiki/蘇聯國家安全委員會 "wikilink")。
 
 ### [電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")
 
   - 廣泛地出現在俄羅斯的電視劇
   - 《[-{zh-hans:反击; zh-hk:絕地反擊;
-    zh-tw:勇者逆襲;}-](https://zh.wikipedia.org/wiki/勇者逆襲 "wikilink")》系列
-      - [第一季](https://zh.wikipedia.org/wiki/勇者逆襲_\(第一季\) "wikilink")（Strike
-        Back: Project
+    zh-tw:勇者逆襲;}-](../Page/勇者逆襲.md "wikilink")》系列
+      - [第一季](../Page/勇者逆襲_\(第一季\).md "wikilink")（Strike Back: Project
         Dawn）：型號為TT-33，裝上[消聲器](../Page/抑制器.md "wikilink")，在第7集被[科索沃](../Page/科索沃.md "wikilink")[恐怖份子綁架歐盟代表團時所使用](https://zh.wikipedia.org/wiki/恐怖份子 "wikilink")。
-      - [第二季](https://zh.wikipedia.org/wiki/勇者逆襲_\(第二季\) "wikilink")（Strike
-        Back: Shadow
+      - [第二季](../Page/勇者逆襲_\(第二季\).md "wikilink")（Strike Back: Shadow
         Warfare）：型號為TT-33，被[俄羅斯黑手黨首領阿爾卡季](../Page/俄羅斯黑手黨.md "wikilink")·烏里揚諾夫利及亞姆·巴克斯特中士的綁架者所使用。
-      - [第四季](https://zh.wikipedia.org/wiki/勇者逆襲_\(第四季\) "wikilink")（Strike
-        Back:
+      - [第四季](../Page/勇者逆襲_\(第四季\).md "wikilink")（Strike Back:
         Legacy）：型號為TT-33，被[朝鮮人民軍士兵](https://zh.wikipedia.org/wiki/朝鮮人民軍 "wikilink")、[朝鮮勞動黨黨員](https://zh.wikipedia.org/wiki/朝鮮勞動黨 "wikilink")、麗娜和俄羅斯黑手黨成員所使用，亦曾被達米思·斯科特中士（[蘇利文·斯坦布萊頓飾演](../Page/蘇利文·斯坦布萊頓.md "wikilink")）和[聯邦安全局特工納迪亞](../Page/聯邦安全局.md "wikilink")·丹斯基所繳獲。
 
 ### 電子遊戲
@@ -218,8 +215,8 @@ TT-33成為了[二戰中廣為蘇軍使用的手槍](https://zh.wikipedia.org/wi
     Bad Company 2）：只於越戰資料片中登場，命名為“TT-33”。
   - 2014年—《合同戰爭》（Contract Wars）
   - 2016年—《[英雄與將軍](../Page/英雄與將軍.md "wikilink")》（Heroes and Generals）
-  - 2016年—《[女神異聞錄5](https://zh.wikipedia.org/wiki/女神異聞錄5 "wikilink")》(Persona
-    5) ：主人公Joker在異世界中默認的遠程武器就是TT手槍（托卡列夫）。
+  - 2016年—《[女神異聞錄5](../Page/女神異聞錄5.md "wikilink")》(Persona 5)
+    ：主人公Joker在異世界中默認的遠程武器就是TT手槍（托卡列夫）。
   - 2016年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》（Girls'
     Frontline）：以托卡列夫的名稱登場。
   - 2017年—《Rising Storm 2: Vietnam》：為越共陣營使用的手槍。

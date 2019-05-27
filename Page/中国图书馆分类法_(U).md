@@ -73,7 +73,7 @@
 
 :\*U65 [港口工程](https://zh.wikipedia.org/wiki/港口工程 "wikilink")
 
-:\*U66 [船舶工程](https://zh.wikipedia.org/wiki/船舶工程 "wikilink")
+:\*U66 [船舶工程](../Page/船舶工程.md "wikilink")
 
 ::\*U674 各种[船舶](https://zh.wikipedia.org/wiki/船舶 "wikilink")
 

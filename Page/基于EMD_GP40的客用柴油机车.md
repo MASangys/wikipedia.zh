@@ -60,12 +60,12 @@ Industries)进行重整以改成转辙式机车。大都会北方铁路也开始
 
 ## GP40WH-2
 
-在1990年代早期，摩里逊·洛特臣与[馬里蘭區域通勤鐵路签约](https://zh.wikipedia.org/wiki/馬里蘭區域通勤鐵路 "wikilink")，用在GP40FH-2订单中剩下的GP40部件来制造一批新的GP40。这些机车被称为GP40WH-2。其具有一个类似于早期[美国铁路公司机车的红色鼻端](https://zh.wikipedia.org/wiki/美国铁路公司 "wikilink")。这些机车装配了Trans-Lite公司的[回旋警告灯](https://zh.wikipedia.org/wiki/回旋警告灯 "wikilink")(Gyralites)，型号为\#
-20585。由于這些具有回旋警告灯的機車是在强制使用沟型灯之前就已经下了订单，[联邦铁路管理局](https://zh.wikipedia.org/wiki/联邦铁路管理局 "wikilink")（FRA）豁免了這些車輛一定要使用三角形灯的规定。這批機車在1994年投入服務，編號為51至69號。在新型的[MP36型機車投入後](https://zh.wikipedia.org/wiki/MPI_MPXpress_柴電機車 "wikilink")，逐漸退役。有幾部本型車由MPI公司租賃給[马萨诸塞湾交通局](https://zh.wikipedia.org/wiki/马萨诸塞湾交通局 "wikilink")。
+在1990年代早期，摩里逊·洛特臣与[馬里蘭區域通勤鐵路签约](../Page/馬里蘭區域通勤鐵路.md "wikilink")，用在GP40FH-2订单中剩下的GP40部件来制造一批新的GP40。这些机车被称为GP40WH-2。其具有一个类似于早期[美国铁路公司机车的红色鼻端](https://zh.wikipedia.org/wiki/美国铁路公司 "wikilink")。这些机车装配了Trans-Lite公司的[回旋警告灯](https://zh.wikipedia.org/wiki/回旋警告灯 "wikilink")(Gyralites)，型号为\#
+20585。由于這些具有回旋警告灯的機車是在强制使用沟型灯之前就已经下了订单，[联邦铁路管理局](https://zh.wikipedia.org/wiki/联邦铁路管理局 "wikilink")（FRA）豁免了這些車輛一定要使用三角形灯的规定。這批機車在1994年投入服務，編號為51至69號。在新型的[MP36型機車投入後](../Page/MPI_MPXpress_柴電機車.md "wikilink")，逐漸退役。有幾部本型車由MPI公司租賃給[马萨诸塞湾交通局](https://zh.wikipedia.org/wiki/马萨诸塞湾交通局 "wikilink")。
 
 ## GP39H-2
 
-在1980年代晚期，摩里逊·洛特臣为[馬里蘭區域通勤鐵路改造了六台GP](https://zh.wikipedia.org/wiki/馬里蘭區域通勤鐵路 "wikilink")40，編號為70至75號。更換為12汽缸引擎後，它们的功率从3000马力降级到了2300马力，并装备了[康明斯的集中供電發電機](../Page/康明斯.md "wikilink")（HEP）以供應客車電力。其中，在1996年2月16日，由第73号机车作為尾端推動機車的馬里蘭區域通勤鐵路P286班車，與[美国铁路公司的](https://zh.wikipedia.org/wiki/美国铁路公司 "wikilink")[首都特快發生了有人傷亡的車禍](https://zh.wikipedia.org/wiki/首都特快 "wikilink")。之後第73号机车被修復，并继续在[馬里蘭區域通勤鐵路服务](https://zh.wikipedia.org/wiki/馬里蘭區域通勤鐵路 "wikilink")。大约在1996年，该机车在其防攀金属网上装备了沟型灯。在90年代末期，它又在侧墙和防攀金属网周围装备了反光带。車重為
+在1980年代晚期，摩里逊·洛特臣为[馬里蘭區域通勤鐵路改造了六台GP](../Page/馬里蘭區域通勤鐵路.md "wikilink")40，編號為70至75號。更換為12汽缸引擎後，它们的功率从3000马力降级到了2300马力，并装备了[康明斯的集中供電發電機](../Page/康明斯.md "wikilink")（HEP）以供應客車電力。其中，在1996年2月16日，由第73号机车作為尾端推動機車的馬里蘭區域通勤鐵路P286班車，與[美国铁路公司的](https://zh.wikipedia.org/wiki/美国铁路公司 "wikilink")[首都特快發生了有人傷亡的車禍](../Page/首都特快.md "wikilink")。之後第73号机车被修復，并继续在[馬里蘭區域通勤鐵路服务](../Page/馬里蘭區域通勤鐵路.md "wikilink")。大约在1996年，该机车在其防攀金属网上装备了沟型灯。在90年代末期，它又在侧墙和防攀金属网周围装备了反光带。車重為
 268,000磅的 GP39H-2 機車，最多可牽引或推動四節車廂達90 英里／小時（145公里／小時）。
 
 ## GP40MC
@@ -74,7 +74,7 @@ Industries)进行重整以改成转辙式机车。大都会北方铁路也开始
 
 ## 圖輯
 
-image:MARC52.jpg|[馬里蘭區域通勤鐵路GP](https://zh.wikipedia.org/wiki/馬里蘭區域通勤鐵路 "wikilink")40WH-2第52号停在[马里兰州](../Page/马里兰州.md "wikilink")[巴尔的摩市的坎登车站](https://zh.wikipedia.org/wiki/巴尔的摩市 "wikilink")
+image:MARC52.jpg|[馬里蘭區域通勤鐵路GP](../Page/馬里蘭區域通勤鐵路.md "wikilink")40WH-2第52号停在[马里兰州](../Page/马里兰州.md "wikilink")[巴尔的摩市的坎登车站](https://zh.wikipedia.org/wiki/巴尔的摩市 "wikilink")
 image:MNCR4184b.jpg|[大都会北方铁路GP](https://zh.wikipedia.org/wiki/大都会北方铁路 "wikilink")40FH-2第4184号停在[新泽西州的](../Page/新泽西州.md "wikilink")[丹佛市](https://zh.wikipedia.org/wiki/丹佛市 "wikilink")。
 image:MNCR4188.JPG|大都会北方铁路GP40FH-2第4188号停在[新泽西州的](../Page/新泽西州.md "wikilink")[多佛市](https://zh.wikipedia.org/wiki/多佛市 "wikilink")。
 image:NJT4109.jpg|[新州捷运铁路的GP](https://zh.wikipedia.org/wiki/新州捷运铁路 "wikilink")40PH-2第4109:2号停在[新泽西州的](../Page/新泽西州.md "wikilink")[多佛市](https://zh.wikipedia.org/wiki/多佛市 "wikilink")

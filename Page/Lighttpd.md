@@ -8,7 +8,7 @@ Windows上](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。\[5\]
 
 ## 应用程序支持
 
-lighttpd支持向外部程序开放[FastCGI](../Page/FastCGI.md "wikilink")、[SCGI及](https://zh.wikipedia.org/wiki/简单通用网关接口 "wikilink")[CGI](../Page/通用网关接口.md "wikilink")，允许以任意编程语言编写的程序与服务器通信。
+lighttpd支持向外部程序开放[FastCGI](../Page/FastCGI.md "wikilink")、[SCGI及](../Page/简单通用网关接口.md "wikilink")[CGI](../Page/通用网关接口.md "wikilink")，允许以任意编程语言编写的程序与服务器通信。
 [PHP作为一门特别流行的语言](../Page/PHP.md "wikilink")，其性能受到了广泛关注。lighttpd的FastCGI可配置为使用[操作码缓存的方式来有效支持PHP](../Page/PHP加速軟件.md "wikilink")（如[Alternative
 PHP
 Cache](https://zh.wikipedia.org/wiki/PHP加速軟件#Alternative_PHP_Cache "wikilink")）除此之外，lighttpd还获得了[Python](../Page/Python.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Ruby和](../Page/Ruby.md "wikilink")[Lua社区的关注](../Page/Lua.md "wikilink")。lighttpd还支持和弹性[内存数据库系统](https://zh.wikipedia.org/wiki/内存数据库 "wikilink")。此软件是一款流行的、支持[Catalyst和](../Page/Catalyst.md "wikilink")[Ruby
@@ -24,9 +24,9 @@ Rails网页框架的网页服务器](../Page/Ruby_on_Rails.md "wikilink")，但�
   - 支持[URL条件重写](../Page/URL重寫.md "wikilink")（mod_rewrite）
   - 通过[OpenSSL可提供支持](../Page/OpenSSL.md "wikilink")[SNI的](../Page/服务器名称指示.md "wikilink")[TLS/SSL](../Page/傳輸層安全性協定.md "wikilink")
   - 透過[LDAP服务器認證](../Page/轻型目录访问协议.md "wikilink")
-  - [RRDtool狀態輸出](https://zh.wikipedia.org/wiki/RRDtool "wikilink")
+  - [RRDtool狀態輸出](../Page/RRDtool.md "wikilink")
   - 基于规则的下载
-  - [服务器端内嵌支持](https://zh.wikipedia.org/wiki/服务器端内嵌 "wikilink")（不包括服务侧CGI）\[7\]
+  - [服务器端内嵌支持](../Page/服务器端内嵌.md "wikilink")（不包括服务侧CGI）\[7\]
   - 灵活的[虚拟主机](../Page/虚拟主机.md "wikilink")
   - 模块支持
   - 缓存元语言（现已被mod_magnet替代）\[8\] using the [Lua programming

@@ -23,7 +23,7 @@ Cocoa这个名词曾经被用来称呼一款帮助儿童创建多媒体工程的
 ## 内存管理
 
 Cocoa环境的一个特点是它可以管理动态分配的内存。Cocoa中绝大部分类的基类都是NSObject，它实现了[引用计数的内存管理模型](../Page/引用计数.md "wikilink")。从NSObject继承的类可以响应`retain`和`release`消息，以增减其引用计数；也可以通过发送`retainCount`消息来获取其引用计数。一个以`alloc`，`copy`或[Objective-C
-2.0中增加的](https://zh.wikipedia.org/wiki/Objective-C_2.0 "wikilink")`new`所创建的对象的引用计数为1；向对象发送`retain`消息会将计数加1，而发送`release`消息则会将计数减1。若对象的引用计数减少到了0，则它会被销毁。`dealloc`消息类似于[C++中的](../Page/C++.md "wikilink")[析构函数](https://zh.wikipedia.org/wiki/析构函数 "wikilink")，在对象被销毁之前可能会被调用，但系统不保证会发送该消息。这种引用计数的模型与[微软的](../Page/微软.md "wikilink")[COM中的](../Page/组件对象模型.md "wikilink")[IUnknown接口特性十分相似](https://zh.wikipedia.org/wiki/IUnknown "wikilink")，它提供了`AddRef`和`Release`接口，与`retain`和`release`对应。
+2.0中增加的](https://zh.wikipedia.org/wiki/Objective-C_2.0 "wikilink")`new`所创建的对象的引用计数为1；向对象发送`retain`消息会将计数加1，而发送`release`消息则会将计数减1。若对象的引用计数减少到了0，则它会被销毁。`dealloc`消息类似于[C++中的](../Page/C++.md "wikilink")[析构函数](https://zh.wikipedia.org/wiki/析构函数 "wikilink")，在对象被销毁之前可能会被调用，但系统不保证会发送该消息。这种引用计数的模型与[微软的](../Page/微软.md "wikilink")[COM中的](../Page/组件对象模型.md "wikilink")[IUnknown接口特性十分相似](../Page/IUnknown.md "wikilink")，它提供了`AddRef`和`Release`接口，与`retain`和`release`对应。
 
 从[Objective-C
 2.0开始](https://zh.wikipedia.org/wiki/Objective-C_2.0 "wikilink")，Objective-C运行时实现了可选的[垃圾收集器](https://zh.wikipedia.org/wiki/Objective-C#垃圾收集 "wikilink")。若垃圾收集的特性被激活，则运行时会将引用计数相关的操作，例如“retain”和“release”，变为[无操作](../Page/NOP.md "wikilink")。[iOS上的Objective](https://zh.wikipedia.org/wiki/iOS "wikilink")-C

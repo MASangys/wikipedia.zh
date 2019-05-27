@@ -129,7 +129,7 @@ FM**（**劲曲调频**）”的频道名称正式推出。改版后以多语种
 
 ### 卫星广播
 
-  - [亚太6号](https://zh.wikipedia.org/wiki/亚太6号通信卫星 "wikilink")（134E，Ku波段）
+  - [亚太6号](../Page/亚太6号通信卫星.md "wikilink")（134E，Ku波段）
   - [中星6B](../Page/中星6B.md "wikilink")（C波段）
 
 ## 外部链接

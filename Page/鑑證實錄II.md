@@ -950,7 +950,7 @@ Susanna之好友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
 <td><p>檢察官</p></td>
 <td></td>
 <td></td>
@@ -1211,7 +1211,7 @@ Susanna之客人<br />
 <td><p><strong>培少</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
 <td><p>區展龍</p></td>
 <td><p>區瑞慶、余彩娟之子<br />
 與夏永全合謀自編自導綁架<br />
@@ -1334,7 +1334,7 @@ Susanna之客人<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/馬清儀" title="wikilink">馬清儀</a></p></td>
+<td><p><a href="../Page/馬清儀.md" title="wikilink">馬清儀</a></p></td>
 <td></td>
 <td><p>田世東之前妻<br />
 田守信之母</p></td>
@@ -1400,7 +1400,7 @@ Susanna之客人<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
+<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
 <td><p>亞　天</p></td>
 <td><p>「甜の味」甜品店員工</p></td>
 <td></td>

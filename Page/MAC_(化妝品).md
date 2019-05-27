@@ -37,7 +37,7 @@ Lauder擁有](../Page/雅诗兰黛公司.md "wikilink")，總部位於[美國](h
   - Catherine Deneuve
   - Eve
   - [Dita von Teese](../Page/蒂塔·万提斯.md "wikilink")
-  - [黛比·哈利](https://zh.wikipedia.org/wiki/黛比·哈利 "wikilink")
+  - [黛比·哈利](../Page/黛比·哈利.md "wikilink")
   - Lisa Marie Presley
   - Lady Gaga
   - [張藝興](../Page/張藝興.md "wikilink")

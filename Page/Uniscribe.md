@@ -5,7 +5,7 @@ Explorer](../Page/Internet_Explorer.md "wikilink")
 CE從](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")5.0開始亦支援Uniscribe。
 
 其實從[Windows
-7開始](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，Uniscribe已經隨着功能更多的[DirectWrite的引入而被取代](https://zh.wikipedia.org/wiki/DirectWrite "wikilink")，但這組件依然仍有繼續開發及維護。
+7開始](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，Uniscribe已經隨着功能更多的[DirectWrite的引入而被取代](../Page/DirectWrite.md "wikilink")，但這組件依然仍有繼續開發及維護。
 
 ## USP10.dll
 

@@ -40,7 +40,7 @@ PLANET小組花了連續兩星期，去深入觀測OGLE-2005-BLG-390L恆星的�
 
   - [重力透鏡](https://zh.wikipedia.org/wiki/引力透镜效应 "wikilink")
   - [OGLE小組](../Page/光學重力透鏡實驗.md "wikilink")
-  - [OGLE-2007-BLG-349(AB)b](https://zh.wikipedia.org/wiki/OGLE-2007-BLG-349\(AB\)b "wikilink")
+  - [OGLE-2007-BLG-349(AB)b](../Page/OGLE-2007-BLG-349\(AB\)b.md "wikilink")
 
 ## 參考資料
 

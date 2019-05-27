@@ -3,7 +3,7 @@ Studio**是[微軟針對開發者與設計師開發的](https://zh.wikipedia.org
 
 ## 概要
 
-微軟於2005年9月16日[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[專業開發人員大會上展示Expression及於](https://zh.wikipedia.org/wiki/专业开发者大会 "wikilink")2007年[傳播媒體展上展示Expression](https://zh.wikipedia.org/wiki/全美廣播事業者聯盟 "wikilink")
+微軟於2005年9月16日[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[專業開發人員大會上展示Expression及於](../Page/专业开发者大会.md "wikilink")2007年[傳播媒體展上展示Expression](https://zh.wikipedia.org/wiki/全美廣播事業者聯盟 "wikilink")
 Encoder。在該些產品中Expression Blend、Expression Design與Expression
 Encoder均使用[Windows Presentation
 Foundation編寫](../Page/Windows_Presentation_Foundation.md "wikilink")。Expression

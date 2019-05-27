@@ -9,7 +9,7 @@
 
   - 1999年－加入社團[夜貓館咖啡屋](../Page/夜貓館咖啡屋.md "wikilink")，開始參與同人活動。\[12\]
   - 2000年－擔任大宇資訊於9月發售之電腦遊戲《[新天使帝國](https://zh.wikipedia.org/wiki/新天使帝國 "wikilink")》人物造型設計。\[13\]
-  - 2002年－6月，開始《[開拓動漫畫情報誌](https://zh.wikipedia.org/wiki/開拓動漫畫情報誌 "wikilink")》專欄{{〈}}Oh！My
+  - 2002年－6月，開始《[開拓動漫畫情報誌](../Page/開拓動漫畫情報誌.md "wikilink")》專欄{{〈}}Oh！My
     Cosplay{{〉}}插畫連載。\[14\]
   - 2004年－2月，開始《[電玩通](https://zh.wikipedia.org/wiki/電玩通 "wikilink")》封面連載\[15\]。7月，在《[挑戰者月刊](../Page/挑戰者月刊.md "wikilink")》開始《[Colorful
     Dreams](https://zh.wikipedia.org/wiki/Colorful_Dreams "wikilink")》連載。\[16\]
@@ -44,7 +44,7 @@ Illustory）」。
 ### 插畫·扉頁·封面
 
   - Oh！My
-    Cosplay／隔月插畫連載（2002年，[開拓動漫畫情報誌](https://zh.wikipedia.org/wiki/開拓動漫畫情報誌 "wikilink")2002年6月號－2003年12月號，[杜葳廣告](https://zh.wikipedia.org/wiki/杜葳廣告 "wikilink")）
+    Cosplay／隔月插畫連載（2002年，[開拓動漫畫情報誌](../Page/開拓動漫畫情報誌.md "wikilink")2002年6月號－2003年12月號，[杜葳廣告](https://zh.wikipedia.org/wiki/杜葳廣告 "wikilink")）
   - 開拓動漫畫情報誌／封面（2003年，開拓動漫畫情報誌2003年6月號）
   - [電玩通週刊](https://zh.wikipedia.org/wiki/電玩通 "wikilink")／隔週封面連載（2004年，電玩通2004年2月27日號～2014年1月23日，[青文出版社](../Page/青文出版社.md "wikilink")）
   - 開拓動漫畫情報誌／封面（2004年，開拓動漫畫情報誌2004年4月號）

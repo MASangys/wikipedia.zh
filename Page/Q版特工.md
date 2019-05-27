@@ -579,7 +579,7 @@
   - Q8
     [徐志摩](../Page/徐志摩.md "wikilink")/[胡燕青](../Page/胡燕青.md "wikilink")/[徐訏](../Page/徐訏.md "wikilink")/[鍾曉陽](../Page/鍾曉陽.md "wikilink")
   - Q9
-    [鄭愁予](https://zh.wikipedia.org/wiki/鄭愁予 "wikilink")/[鄭敏](../Page/鄭敏.md "wikilink")/[溫乃堅](https://zh.wikipedia.org/wiki/溫乃堅 "wikilink")
+    [鄭愁予](../Page/鄭愁予.md "wikilink")/[鄭敏](../Page/鄭敏.md "wikilink")/[溫乃堅](https://zh.wikipedia.org/wiki/溫乃堅 "wikilink")
   - Q10
     [夏斐](https://zh.wikipedia.org/wiki/夏斐 "wikilink")/[王良和](../Page/王良和.md "wikilink")
   - Q11 [馬俐](https://zh.wikipedia.org/wiki/馬俐 "wikilink")
@@ -596,7 +596,7 @@
   - Q20 [林浩光](https://zh.wikipedia.org/wiki/林浩光 "wikilink")
   - Q23
     [潘國靈](https://zh.wikipedia.org/wiki/潘國靈 "wikilink")/[黃燕萍](https://zh.wikipedia.org/wiki/黃燕萍 "wikilink")
-  - Q24 [鄭愁予](https://zh.wikipedia.org/wiki/鄭愁予 "wikilink")
+  - Q24 [鄭愁予](../Page/鄭愁予.md "wikilink")
   - Q26 [陳昌敏](https://zh.wikipedia.org/wiki/陳昌敏 "wikilink")
   - Q27
     [洛楓](https://zh.wikipedia.org/wiki/洛楓 "wikilink")/[卞之琳](../Page/卞之琳.md "wikilink")/[鍾偉民](../Page/鍾偉民.md "wikilink")

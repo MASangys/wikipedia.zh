@@ -1,4 +1,4 @@
-**CD8受體**（）是[细胞毒性T细胞的](https://zh.wikipedia.org/wiki/细胞毒性T细胞 "wikilink")[膜上標記](https://zh.wikipedia.org/wiki/膜上標記 "wikilink")（surface
+**CD8受體**（）是[细胞毒性T细胞的](../Page/细胞毒性T细胞.md "wikilink")[膜上標記](https://zh.wikipedia.org/wiki/膜上標記 "wikilink")（surface
 marker）之一。當病菌入侵人體，有一部分必定會被廣佈的抗原呈現細胞（此時主要指非B細胞的[巨噬細胞及](https://zh.wikipedia.org/wiki/巨噬細胞 "wikilink")[棘狀細胞](https://zh.wikipedia.org/wiki/棘狀細胞 "wikilink")）給吞噬，其餘病菌則順利潛入正常的體細胞中。病菌無論是進入正常體細胞或抗原呈現細胞，其構成[抗原的部分必會與細胞內的](../Page/抗原.md "wikilink")[MHC
 complex結合而表現在細胞外](../Page/主要组织相容性复合体.md "wikilink")。
 

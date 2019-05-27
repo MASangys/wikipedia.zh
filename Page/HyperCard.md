@@ -40,7 +40,7 @@ Winkler開始寫HyperTalk，同時由於商標註冊的衝突，產品的名字�
 
 HyperCard推出後被用來進行各種超文本開發或藝術創作。在[PowerPoint出現之前](https://zh.wikipedia.org/wiki/PowerPoint "wikilink")，HyperCard經常被用來做講演時的視覺輔助材料。人們用HyperCard開發過簡單的數據庫，冒險類遊戲，以及教學輔助工具。它也被用來設計軟件原型，有時甚至一個軟件的1.0版本都是用它做的。在蘋果公司內部，QuickTime團隊是HyperCard的最主要用戶之一。
 
-不少商業軟件都是用HyperCard寫成，最有名的或許是互動遊戲[迷霧之島的第一個版本](https://zh.wikipedia.org/wiki/迷霧之島 "wikilink")\[10\]，Voyager
+不少商業軟件都是用HyperCard寫成，最有名的或許是互動遊戲[迷霧之島的第一個版本](../Page/迷霧之島.md "wikilink")\[10\]，Voyager
 Company的多媒體電子書，以及貝多芬《第九交響樂》、披頭四《[A Hard Day's
 Night](https://zh.wikipedia.org/wiki/A_Hard_Day's_Night "wikilink")》的多媒體CD-ROM。
 

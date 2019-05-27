@@ -90,7 +90,7 @@ Kulmbach公司推出了Mkb](https://zh.wikipedia.org/wiki/HZA_Kulmbach公司 "wi
     ;}-](https://zh.wikipedia.org/wiki/帝國毀滅 "wikilink")》（Der Untergang）：
     被[德意志國防軍士兵所使用](../Page/德意志國防軍.md "wikilink")。
   - 2014年—《[-{zh-cn:狂怒; zh-hk:戰逆豪情;
-    zh-tw:怒火特攻隊;}-](https://zh.wikipedia.org/wiki/怒火特攻隊 "wikilink")》（Fury）：
+    zh-tw:怒火特攻隊;}-](../Page/怒火特攻隊.md "wikilink")》（Fury）：
     被唐恩·「戰爸」·柯利爾上士（[布萊德·彼特飾演](https://zh.wikipedia.org/wiki/布萊德·彼特 "wikilink")）和[德意志國防軍士兵所使用](../Page/德意志國防軍.md "wikilink")。
 
 ### [電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")
@@ -159,7 +159,7 @@ Kulmbach公司推出了Mkb](https://zh.wikipedia.org/wiki/HZA_Kulmbach公司 "wi
   - 2012年—《[-{zh-hans:使命召唤：黑色行动II;
     zh-hant:決勝時刻：黑色行動II;}-](../Page/決勝時刻：黑色行動II.md "wikilink")》（Call
     of Duty: Black Ops II）：只於殭屍模式中登場。
-  - 2012年—《[战争前线](https://zh.wikipedia.org/wiki/战争前线 "wikilink")》（Warface）：命名为“StG44”，为步枪手专用武器，在二战纪念活动期间限时可购买时限版本。30发弹匣，可以改装前期生产型号光学瞄准镜，除此外无任何可改装部件。
+  - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：命名为“StG44”，为步枪手专用武器，在二战纪念活动期间限时可购买时限版本。30发弹匣，可以改装前期生产型号光学瞄准镜，除此外无任何可改装部件。
   - 2014年—《[-{zh-cn:使命召唤：高级战争;
     zh-tw:決勝時刻：先進戰爭;}-](../Page/使命召唤：高级战争.md "wikilink")》（Call
     of Duty: Advanced Warfare）：於2015年8月的一次更新中添加到遊戲內，命名為“STG44”。

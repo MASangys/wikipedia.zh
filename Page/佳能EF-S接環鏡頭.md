@@ -8,8 +8,8 @@
   - [Canon EOS 7D
     MarkII](https://zh.wikipedia.org/wiki/佳能_EOS_7D_MarkII "wikilink")
   - [Canon EOS 7D](../Page/佳能_EOS_7D.md "wikilink")
-  - [Canon EOS 80D](https://zh.wikipedia.org/wiki/佳能_EOS_80D "wikilink")
-  - [Canon EOS 77D](https://zh.wikipedia.org/wiki/佳能_EOS_77D "wikilink")
+  - [Canon EOS 80D](../Page/佳能_EOS_80D.md "wikilink")
+  - [Canon EOS 77D](../Page/佳能_EOS_77D.md "wikilink")
   - [Canon EOS 70D](../Page/佳能_EOS_70D.md "wikilink")
   - [Canon EOS 60D](../Page/佳能_EOS_60D.md "wikilink")
   - [Canon EOS
@@ -18,8 +18,7 @@
   - [Canon EOS 40D](../Page/佳能_EOS_40D.md "wikilink")
   - [Canon EOS 30D](../Page/佳能_EOS_30D.md "wikilink")
   - [Canon EOS 20D](../Page/佳能_EOS_20D.md "wikilink")
-  - [Canon EOS
-    20Da](https://zh.wikipedia.org/wiki/佳能_EOS_20Da "wikilink")
+  - [Canon EOS 20Da](../Page/佳能_EOS_20Da.md "wikilink")
   - [Canon EOS 700D](../Page/佳能_EOS_700D.md "wikilink")
   - [Canon EOS 650D](../Page/佳能_EOS_650D.md "wikilink")
   - [Canon EOS 600D](../Page/佳能_EOS_600D.md "wikilink")

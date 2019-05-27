@@ -160,8 +160,8 @@ Expandable to four graphics cards</p></td>
 <td><p><a href="../Page/Mac_OS_X_Lion.md" title="wikilink">OS X 10.7</a> "Lion"<br />
 <span style="color:#969696"><em>(Unofficially, can run <a href="../Page/OS_X_Mountain_Lion.md" title="wikilink">OS X 10.8</a> "Mountain Lion" and <a href="../Page/OS_X_Mavericks.md" title="wikilink">10.9</a> "Mavericks" with an upgrade to a supported graphics card and EFI64 emulation)[7][8]</em></span></p></td>
 <td><p><a href="../Page/OS_X_El_Capitan.md" title="wikilink">OS X 10.11</a> "El Capitan"</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MacOS_Mojave" title="wikilink">macOS 10.14</a> "Mojave" for models that supports Metal API<br />
-<a href="https://zh.wikipedia.org/wiki/MacOS_High_Sierra" title="wikilink">macOS 10.13</a> "High Sierra" for devices without Metal API support</p></td>
+<td><p><a href="../Page/MacOS_Mojave.md" title="wikilink">macOS 10.14</a> "Mojave" for models that supports Metal API<br />
+<a href="../Page/MacOS_High_Sierra.md" title="wikilink">macOS 10.13</a> "High Sierra" for devices without Metal API support</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -240,7 +240,7 @@ Expandable to four graphics cards</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>最高支援作業系統</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MacOS_Mojave" title="wikilink">macOS 10.14</a> "Mojave"</p></td>
+<td><p><a href="../Page/MacOS_Mojave.md" title="wikilink">macOS 10.14</a> "Mojave"</p></td>
 </tr>
 </tbody>
 </table>

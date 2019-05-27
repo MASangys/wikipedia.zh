@@ -33,7 +33,7 @@ Group，PC Engines (WRAP) 和 Soekris所製造。
 ### Geode GXm
 
 Cyrix
-[MediaGXm的複製品](../Page/MediaGX.md "wikilink")。[CPUID顯示為](https://zh.wikipedia.org/wiki/CPUID "wikilink")"CyrixInstead"。
+[MediaGXm的複製品](../Page/MediaGX.md "wikilink")。[CPUID顯示為](../Page/CPUID.md "wikilink")"CyrixInstead"。
 
   - 由MediaGX衍生的核心
   - [0.35 µm](https://zh.wikipedia.org/wiki/0.35微米製程 "wikilink")
@@ -160,7 +160,7 @@ Collins科羅拉多州的新發展設施。 由於關閉的Geode設計中心，�
 
   - 處理器頻率達600 MHz (LX900), 500 MHz (LX800) 及 433 MHz (LX700).
   - 電源管理：符合ACPI
-    ，功耗低，[SMI](https://zh.wikipedia.org/wiki/SMI "wikilink")／[INTR喚醒](https://zh.wikipedia.org/wiki/INTR "wikilink")。
+    ，功耗低，[SMI](../Page/SMI.md "wikilink")／[INTR喚醒](https://zh.wikipedia.org/wiki/INTR "wikilink")。
   - 64K指令／64K數據L1快取記憶體 和128K L2快取記憶體
   - Split Instruction/Data
     cache/[TLB](https://zh.wikipedia.org/wiki/Translation_Lookaside_Buffer "wikilink")。

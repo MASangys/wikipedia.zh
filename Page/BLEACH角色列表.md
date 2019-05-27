@@ -15,12 +15,12 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 <!-- end list -->
 
   -
-    聲優：[松岡由貴](../Page/松岡由貴.md "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")、[楊凱凱](../Page/楊凱凱.md "wikilink")<small>【劇場版4】</small>／[陶敏嫻](../Page/陶敏嫻.md "wikilink")\[4\]（台灣）；[劉姵穎](https://zh.wikipedia.org/wiki/劉姵穎 "wikilink")→[陳琴雲](../Page/陳琴雲.md "wikilink")／[王慧珠](../Page/王慧珠.md "wikilink")（香港）
+    聲優：[松岡由貴](../Page/松岡由貴.md "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")、[楊凱凱](../Page/楊凱凱.md "wikilink")<small>【劇場版4】</small>／[陶敏嫻](../Page/陶敏嫻.md "wikilink")\[4\]（台灣）；[劉姵穎](https://zh.wikipedia.org/wiki/劉姵穎 "wikilink")→[陳琴雲](../Page/陳琴雲.md "wikilink")／[王慧珠](../Page/王慧珠.md "wikilink")（香港）
 
 <!-- end list -->
 
   -
-    聲優：[杉山紀彰](../Page/杉山紀彰.md "wikilink")、[本田貴子](../Page/本田貴子.md "wikilink")<small>【童年】</small>（日本）；[吳文民](../Page/吳文民.md "wikilink")、[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")<small>【童年】</small>／胡鎮璽\[5\]（台灣）；[蔡忠衛](https://zh.wikipedia.org/wiki/蔡忠衛 "wikilink")／[陳旭明](https://zh.wikipedia.org/wiki/陳旭明 "wikilink")／[陳振聲](../Page/陳振聲_\(配音員\).md "wikilink")（香港）
+    聲優：[杉山紀彰](../Page/杉山紀彰.md "wikilink")、[本田貴子](../Page/本田貴子.md "wikilink")<small>【童年】</small>（日本）；[吳文民](../Page/吳文民.md "wikilink")、[馮嘉德](../Page/馮嘉德.md "wikilink")<small>【童年】</small>／胡鎮璽\[5\]（台灣）；[蔡忠衛](../Page/蔡忠衛.md "wikilink")／[陳旭明](https://zh.wikipedia.org/wiki/陳旭明 "wikilink")／[陳振聲](../Page/陳振聲_\(配音員\).md "wikilink")（香港）
 
 <!-- end list -->
 
@@ -30,7 +30,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 <!-- end list -->
 
   -
-    聲優：[伊藤健太郎](https://zh.wikipedia.org/wiki/伊藤健太郎 "wikilink")、[木內玲子](https://zh.wikipedia.org/wiki/木內玲子 "wikilink")<small>【童年】</small>（日本）；[林谷珍](../Page/林谷珍.md "wikilink")、[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")<small>【童年】</small>／[蔣鐵城](../Page/蔣鐵城.md "wikilink")\[7\]（台灣）；[陳建豪](https://zh.wikipedia.org/wiki/陳建豪 "wikilink")／[陳志強](https://zh.wikipedia.org/wiki/陳志強 "wikilink")（香港）
+    聲優：[伊藤健太郎](https://zh.wikipedia.org/wiki/伊藤健太郎 "wikilink")、[木內玲子](https://zh.wikipedia.org/wiki/木內玲子 "wikilink")<small>【童年】</small>（日本）；[林谷珍](../Page/林谷珍.md "wikilink")、[馮嘉德](../Page/馮嘉德.md "wikilink")<small>【童年】</small>／[蔣鐵城](../Page/蔣鐵城.md "wikilink")\[7\]（台灣）；[陳建豪](https://zh.wikipedia.org/wiki/陳建豪 "wikilink")／[陳志強](https://zh.wikipedia.org/wiki/陳志強 "wikilink")（香港）
 
 ## 現世
 
@@ -43,7 +43,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 黑崎一護的家庭，在空座町經營著黑崎醫院。是目前劇中少數已知死神和滅卻師通婚的家庭。是目前於流魂街的志波家族在現世的分支，然而一護尚未與家族中人相認。千年血戰篇落幕十年後，一護和織姬結婚並育有一子，黑崎家的成員隨之增加。
 
   -
-    聲優：[大原沙耶香](../Page/大原沙耶香.md "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：[大原沙耶香](../Page/大原沙耶香.md "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
 
 <!-- end list -->
 
@@ -89,7 +89,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 <!-- end list -->
 
   -
-    聲優：[釘宮理惠](../Page/釘宮理惠.md "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")、[楊凱凱](../Page/楊凱凱.md "wikilink")〔劇場版4〕（台灣）；[劉姵穎](https://zh.wikipedia.org/wiki/劉姵穎 "wikilink")（香港）
+    聲優：[釘宮理惠](../Page/釘宮理惠.md "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")、[楊凱凱](../Page/楊凱凱.md "wikilink")〔劇場版4〕（台灣）；[劉姵穎](https://zh.wikipedia.org/wiki/劉姵穎 "wikilink")（香港）
 
 <!-- end list -->
 
@@ -193,18 +193,18 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 [TessaiUruruJinta.jpg](https://zh.wikipedia.org/wiki/File:TessaiUruruJinta.jpg "fig:TessaiUruruJinta.jpg")
 
   -
-    聲優：[三木真一郎](../Page/三木真一郎.md "wikilink")（日本）；[李香生](../Page/李香生.md "wikilink")→[曹冀魯](../Page/曹冀魯.md "wikilink")（台灣）；[陳冠宏](https://zh.wikipedia.org/wiki/陳冠宏 "wikilink")（香港）
+    聲優：[三木真一郎](../Page/三木真一郎.md "wikilink")（日本）；[李香生](../Page/李香生.md "wikilink")→[曹冀魯](../Page/曹冀魯.md "wikilink")（台灣）；[陳冠宏](../Page/陳冠宏.md "wikilink")（香港）
 
 <!-- end list -->
 
   -
-    聲優：【人ver.】[雪野五月](../Page/雪野五月.md "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")、[楊凱凱](../Page/楊凱凱.md "wikilink")〔劇場版3〕（台灣）；[陳安瑩](../Page/陳安瑩.md "wikilink")（香港）
+    聲優：【人ver.】[雪野五月](../Page/雪野五月.md "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")、[楊凱凱](../Page/楊凱凱.md "wikilink")〔劇場版3〕（台灣）；[陳安瑩](../Page/陳安瑩.md "wikilink")（香港）
     聲優：【貓ver.】[齋藤志郎](https://zh.wikipedia.org/wiki/齋藤志郎 "wikilink")（日本）；[林谷珍](../Page/林谷珍.md "wikilink")（台灣）；[葉偉麟](../Page/葉偉麟.md "wikilink")（香港）
 
 <!-- end list -->
 
   -
-    聲優：[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")（日本）；[林谷珍](../Page/林谷珍.md "wikilink")（台灣）；[陳旭明](https://zh.wikipedia.org/wiki/陳旭明 "wikilink")（香港）
+    聲優：[梁田清之](../Page/梁田清之.md "wikilink")（日本）；[林谷珍](../Page/林谷珍.md "wikilink")（台灣）；[陳旭明](https://zh.wikipedia.org/wiki/陳旭明 "wikilink")（香港）
 
 <!-- end list -->
 
@@ -226,7 +226,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 終曲「卍禁太封」*' || 鐵齋最強的招式，有卍字的巨大的碑石從天而降，將對手壓毀。 |- |} {{-}}
 
   -
-    聲優：[下屋則子](../Page/下屋則子.md "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")、[楊凱凱](../Page/楊凱凱.md "wikilink")〔劇場版3〕（台灣）
+    聲優：[下屋則子](../Page/下屋則子.md "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")、[楊凱凱](../Page/楊凱凱.md "wikilink")〔劇場版3〕（台灣）
 
   -
     浦原商店店员，綁著兩束短辮的害羞少女，比甚太還要大三歲<small>\[32\]</small>，週遭人皆以「小雨」來稱呼她。其垂至面前的分岔瀏海，使得她經常成為甚太開玩笑的對象（但是在代理死神消失篇，雨還曾經用自己的頭髮，對甚太的腳底搔癢）。擁有與虚战斗的能力。常用的武器是一具用绷带包住的机关枪，擅長猜拳。
@@ -293,7 +293,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 
   -
     聲優：[福山潤](../Page/福山潤.md "wikilink")（日本）；
-    [馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")、[楊凱凱](../Page/楊凱凱.md "wikilink")〔劇場版4〕（台灣）；[蔡忠衛](https://zh.wikipedia.org/wiki/蔡忠衛 "wikilink")
+    [馮嘉德](../Page/馮嘉德.md "wikilink")、[楊凱凱](../Page/楊凱凱.md "wikilink")〔劇場版4〕（台灣）；[蔡忠衛](../Page/蔡忠衛.md "wikilink")
     （香港）
 
 <!-- end list -->
@@ -320,7 +320,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 <!-- end list -->
 
   -
-    聲優：[真田麻美](../Page/真田麻美.md "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：[真田麻美](../Page/真田麻美.md "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
     3月3日出生。暱稱小滿，留著側分短髮，感覺溫柔類型的女孩，性格老實，對一護感到有些害怕。是手工藝部的社員，曾委託石田雨龍幫她修補玩偶。空座町大戰中，由於死神將空座町傳送至屍魂界，與其他空座町居民陷入沉眠狀態。被龍貴背負到學校裡。
 
 <!-- end list -->
@@ -332,7 +332,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 <!-- end list -->
 
   -
-    聲優：[納見佳容](https://zh.wikipedia.org/wiki/納見佳容 "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：[納見佳容](https://zh.wikipedia.org/wiki/納見佳容 "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
     8月7日出生。留著波浪短髮的粗眉女孩，曾經和美知留試圖詢問[朽木露琪亞是否喜歡一護](../Page/朽木露琪亞.md "wikilink")，被露琪亞以「只是好友」簡單帶過。
 
 <!-- end list -->
@@ -346,7 +346,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 <!-- end list -->
 
   -
-    聲優：[生天目仁美](../Page/生天目仁美.md "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：[生天目仁美](../Page/生天目仁美.md "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
     9月13日出生。一護的班主任。
     留著黑色長髮並配戴眼鏡，是位很受學生歡迎的老師，為人很開明，但對於一護屢次缺曠課的行為感到頗有微詞。在學校裡負責指導現代國文，後於破面篇開始改蓄短髮<small>\[52\]</small>。
 
@@ -375,7 +375,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 <!-- end list -->
 
   -
-    聲優：[水原薰](../Page/水原薰.md "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：[水原薰](../Page/水原薰.md "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
     育美的兒子，留著及頸短髮的男孩，對於母親有著強烈的獨佔欲。平時容易親近他人，唯獨在面對一護的時候，會對後者表現出相當冷淡的態度。
     當一護因為雨龍和織姬接連遭月島襲擊一事感到迷惘、並抵達鰻魚屋向育美求助時，躲在房間門後偷聽一護和育美的對話。
 
@@ -408,7 +408,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 <!-- end list -->
 
   -
-    聲優：[斧篤](https://zh.wikipedia.org/wiki/斧篤志 "wikilink")（日本）；[曹冀魯](../Page/曹冀魯.md "wikilink")（台灣）
+    聲優：[斧篤](../Page/斧篤志.md "wikilink")（日本）；[曹冀魯](../Page/曹冀魯.md "wikilink")（台灣）
     右眼佩戴黑色眼罩，蓄著鬍子，身著侍者衣裝，攜帶一支鞭子的中年男子。
     平時言談舉止都相當有禮貌，喜歡喝酒<small>\[56\]</small>，但提到關於力量的話題時，態度就會變得相當貪婪與狂妄（但在動畫版沓澤曾親自開導厭惡自身能力的賈姬）。經常在XCUTION本營的吧檯服務，為客人與組織成員準備茶點。因為有求於銀城而決定追隨他，被莉露卡吐槽一番。曾在銀城對一護展現完現術時，要銀城賠償被其雙手劍損毀的地板。
     年輕時於父親因病早逝後，繼承了沓澤家歷代傳下來的「幸運懷錶」，每當沓澤對懷錶許願的時候，願望很快就會實現。多年後因為很久沒有使用懷錶的力量，決定將他的妻子當做實驗對象，嘗試性許下殺害的願望，結果他的妻子受到其能力影響逐漸衰弱致死；在妻子死亡的瞬間，沓澤動了「不想殺人」的念頭而失去右眼，從此開始配戴眼罩遮蔽失明的右眼。後來接受銀城的邀請，成為XCUTION的成員。
@@ -428,7 +428,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 |- |}
 
   -
-    聲優：[湯屋敦子](../Page/湯屋敦子.md "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：[湯屋敦子](../Page/湯屋敦子.md "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
     身著黑色長袖上衣與白色長褲，褐色肌膚，厚嘴唇的短髮女性，是少數擁有西式姓名的組織成員。
     個性沉穩，有著敏銳的觀察力，主要以徒手肉搏（踢擊）的方式進行戰鬥，認為抱持「對女性出手的男性是人渣」想法的人反而不單純。起先擔心一護不會答應與組織合作，因此在前者同意協助他們後感到高興不已。此外，她還經常在莉露卡發脾氣的時候負責苦勸她，並且對莉露卡裝作不在意但實際上擔心一護的舉動感到費解。
     出生於貧困家庭，年少時期就為了維持家庭生計開始外出工作，某日發現她的父親偷來一雙全新的黑色皮靴之後，欣喜之餘將這雙靴子視若珍寶，甚至會仔細保養該雙靴子不讓它沾到半點塵土。但因父親從事[黑市交易的緣故](../Page/黑市.md "wikilink")，導致她的家人全數受到牽連而遭到殺害，其中她的弟弟的血液沾到她珍愛的靴子，因而啟發了賈姬的完現術，然而已經無法守護家人又找不出自己能力的價值。後來接受銀城的邀請，成為XCUTION的成員，但仍對自己的能力感到相當反感。
@@ -450,7 +450,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 |- |}
 
   -
-    聲優：[市來光弘](../Page/市來光弘.md "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：[市來光弘](../Page/市來光弘.md "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
     配戴黑色鴨舌帽與白色手套，身著黑色風衣與長褲，繫著領巾，金髮碧眼的少年。組織成員編號005。AB血型\[58\]。
     家境非常富有，XCUTION的基地，正是由他負責出錢裝潢。平時沉默寡言，喜歡玩[電玩](https://zh.wikipedia.org/wiki/電玩 "wikilink")（特別是PSP），發言偶爾也會引用電玩用語。雖然個性相當聰明伶俐，遇上突發狀況也能冷靜應對，自尊心卻強到連組織成員的失敗都無法容忍，甚至在對手沒有殺害組織成員的狀況下，也會動手將戰敗的成員與對手一併殲滅<small>\[59\]</small>。被莉露卡形容「是個整天只知玩遊戲的螻蟻」。和莉露卡相當不合，經常吐嘈她的舉動，為此經常讓莉露卡當場惱羞成怒，有時候銀城也會對他的發言感到頭疼。就連賈姬也無法完全理解雪緒的作為。唯一會稱呼銀城「空吾」的人。
     幼年時期因為經過很久的時間都沒有開口說話，被雙親認定不符合他們的期望，將他獨自關在房間裡；他也因為時常躲在房間裡，利用完現術製造雙親影像並與其對話的舉動被雙親誤解。在認定雙親不符合他的理想，又被雙親拋棄的情況下，雪緒的內心與力量使用方面開始變得扭曲不堪，為了報復雙親而暗地學會入侵電腦系統的技術，將父親的財產分批轉到自己名下，毀了父親經營的公司，還導致雙親為此被逼上絕路<small>\[60\]</small>。後來接受銀城的邀請，成為XCUTION的成員。
@@ -548,7 +548,7 @@ DIE」。千年血戰篇雪緒利用此能力和結合莉露卡的能力，製�
 <!-- end list -->
 
   - 整靈小女孩（おさげ幽霊）
-    聲優：半場友惠（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：半場友惠（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
     本名不詳，僅在漫畫與動畫第1話短暫登場，因故身亡而徘徊在某處電線杆的小女孩，一護經常將裝著花朵的水瓶，置於電線桿旁供奉她。後來一群少年在附近嬉鬧的時候，不慎打翻用來供奉她的花與水瓶，進而導致一護為了替小女孩出氣，動手教訓那群少年使其落荒而逃。
 
 <!-- end list -->
@@ -621,7 +621,7 @@ DIE」。千年血戰篇雪緒利用此能力和結合莉露卡的能力，製�
 #### 四大瀞靈門門衛
 
   -
-    聲優：[長嶝高士](https://zh.wikipedia.org/wiki/長嶝高士 "wikilink")（日本）；[李香生](../Page/李香生.md "wikilink")（台灣）
+    聲優：[長嶝高士](../Page/長嶝高士.md "wikilink")（日本）；[李香生](../Page/李香生.md "wikilink")（台灣）
     身高988cm　體重999kg　1月10日出生
     西·白道門門衛，身材魁武，長髮蓄到腰間，頭上戴著紅色的帽子，並在左臂裝著銀色盔甲的男性死神。斬魄刀不明，取而代之的是兩把呈現7字形狀的巨大斧頭，斧頭上方有著「兕」的紅色字樣。認為戰鬥是要一個一個來，也就是說他喜歡一對一的決鬥。
     流魂街出身，為屍魂界所選出來的豪傑之一，負責擊退想要進入[瀞靈廷的旅禍或是靈魂](../Page/瀞靈廷.md "wikilink")。在他擔任守衛白道門的300年間，從沒有讓任何人闖進去過。他的聽力相當敏銳，能夠聽到茶渡以及織姬的悄悄話，而且還具備超強的怪力，能夠輕易的用斧頭擊碎地面。他曾說過在一護等人來之前，已經有好幾十年沒有人接得下他的斧頭了，在第一次就能夠接下他的斧頭攻擊的人，加上一護只有3個而已；但能夠接下他第二次斧頭攻擊的人，除了一護沒有別人了。為護廷十三隊七番隊第四席
@@ -1755,7 +1755,7 @@ Pattern）」將對方的靈壓漏洞的靈子溢出而癱瘓。曾中了此能�
 ### 改造魂魄篇
 
   -
-    聲優：[嘉数由美](https://zh.wikipedia.org/wiki/嘉数由美 "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：[嘉数由美](https://zh.wikipedia.org/wiki/嘉数由美 "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
     動畫「改造魂魄篇」原創角色。
     浦原用來偵測魂狩的改造魂魄。三人之中的領導人，義骸型態為水藍色雙眼，留著齊瀏海的黃色短髮，穿黑灰斗篷與粉色裙裝，任性的小女孩，後來被[黑崎一護放到小鳥型的娃娃中](../Page/黑崎一護.md "wikilink")，似乎特別關心一護。具有施展幻覺的特殊能力。
     破面篇與之芭和藏人躲在附近的樹叢裡，偷看[黑崎一心迎戰Grand](../Page/黑崎一心.md "wikilink")
@@ -1803,7 +1803,7 @@ Pattern）」將對方的靈壓漏洞的靈子溢出而癱瘓。曾中了此能�
 |- |}
 
   -
-    聲優：[勝生真沙子](../Page/勝生真沙子.md "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（灣台）；[林芷筠](../Page/林芷筠.md "wikilink")（香港）
+    聲優：[勝生真沙子](../Page/勝生真沙子.md "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")（灣台）；[林芷筠](../Page/林芷筠.md "wikilink")（香港）
     留著褐色長髮的女性，魂狩中唯一有母性特徵的人，因而被利用犧牲，創造出了特殊的人偶「彼特」，用於收集活人靈魂。相馬芳野與狩矢曾經有一段戀情，並有一段美好的生活（目前和狩矢處敵對狀態）。
     於魂狩篇初登場時原本想利用歌聲來吸食人類的魂魄，但被突然出現的[四楓院夜一和](../Page/四楓院夜一.md "wikilink")[碎蜂阻止](https://zh.wikipedia.org/wiki/護廷十三隊#二番隊 "wikilink")，其後和[黑崎一護產生短暫衝突](../Page/黑崎一護.md "wikilink")，被宇田川稜押走並囚禁。在稜和一護等人對戰時救出[石田雨龍](../Page/石田雨龍.md "wikilink")。
     最後死於狩矢。
@@ -1814,7 +1814,7 @@ Pattern）」將對方的靈壓漏洞的靈子溢出而癱瘓。曾中了此能�
 |- |}
 
   -
-    聲優：[咲野俊介](https://zh.wikipedia.org/wiki/咲野俊介 "wikilink")（日本）；[李香生](../Page/李香生.md "wikilink")（台灣）
+    聲優：[咲野俊介](../Page/咲野俊介.md "wikilink")（日本）；[李香生](../Page/李香生.md "wikilink")（台灣）
     穿著西裝，褐色中分短髮，留有鬍子，銅色雙眼，一直跟在狩矢的魂狩。表面上忠心，但其野心是代替狩矢成為魂狩首領。
     於魂狩篇剛吸食完人類的魂魄後遇見[井上織姬和](../Page/井上織姬.md "wikilink")[茶渡泰虎](../Page/茶渡泰虎.md "wikilink")，抱著「吃飽」的心態放過對方，後來正打算再吸食魂魄時被[黑崎一護等人展開交手](../Page/黑崎一護.md "wikilink")。
     最後被一之瀨所殺。
@@ -1825,7 +1825,7 @@ Pattern）」將對方的靈壓漏洞的靈子溢出而癱瘓。曾中了此能�
 |- |}
 
   -
-    聲優：[阪口大助](../Page/阪口大助.md "wikilink")〔鵬&磐〕（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")〔鵬〕&[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")〔磐〕（台灣）
+    聲優：[阪口大助](../Page/阪口大助.md "wikilink")〔鵬&磐〕（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")〔鵬〕&[馮嘉德](../Page/馮嘉德.md "wikilink")〔磐〕（台灣）
     狩矢的手下，為兩名魂狩少年。
     被岩鷲用「志波煙火」炸死。
     {| class=wikitable style="text-align:left; font-size:80%"
@@ -1863,7 +1863,7 @@ Pattern）」將對方的靈壓漏洞的靈子溢出而癱瘓。曾中了此能�
 |- |}
 
   -
-    聲優：[澤海陽子](../Page/澤海陽子.md "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：[澤海陽子](../Page/澤海陽子.md "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
     身穿桃色道服，綠色長髮的女魂狩，個性高傲。於魂狩篇被狩矢召集於宅邸內旁聽狩矢的計畫，隨後以壓倒性力量使[朽木露琪亞](../Page/朽木露琪亞.md "wikilink")、[井上織姬和](../Page/井上織姬.md "wikilink")[藏人陷入苦戰](https://zh.wikipedia.org/wiki/BLEACH角色列表#浦原商店 "wikilink")。
     最後被[石田雨龍以一記近距離射擊所殺](../Page/石田雨龍.md "wikilink")。
     {| class=wikitable style="text-align:left; font-size:80%"
@@ -1877,7 +1877,7 @@ Pattern）」將對方的靈壓漏洞的靈子溢出而癱瘓。曾中了此能�
 |- |}
 
   -
-    聲優：[鈴木勝美](https://zh.wikipedia.org/wiki/鈴木勝美 "wikilink")（日本）；[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")（台灣）
+    聲優：[鈴木勝美](../Page/鈴木勝美.md "wikilink")（日本）；[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")（台灣）
     穿著白襯衫和領帶，戴著圓眼鏡，整齊的短髮的男子，曾和狩矢一同研究完美人偶。於魂狩篇被狩矢召集於宅邸內旁聽狩矢的計畫。
     被[阿散井戀次以卍解](../Page/阿散井戀次.md "wikilink")「狒牙絕咬」攻擊人偶後失控，被自己的人偶所殺。
     {| class=wikitable style="text-align:left; font-size:80%"
@@ -1940,7 +1940,7 @@ width=200| 斬魄刀 \! width=200| 招式 |- |rowspan=3|**斬魄刀「虹霞」�
 |- |}
 
   -
-    聲優：[勝生真沙子](../Page/勝生真沙子.md "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：[勝生真沙子](../Page/勝生真沙子.md "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
     動畫「魂狩篇」原創人物。 ｢魂狩｣的｢創造者｣，是魂狩事件的關鍵人物。
     其複製魂魄用在慘遭狩矢神殺害的相馬芳野身上，故當出現介入狩矢與一護、白哉的對戰當中時，使一護、莉玲及後來趕至的雨龍吃了不小的驚。於第一次魂狩進攻淨靈庭事件事件之後，被封印其大部分的靈壓和所有的能力，最後是勉強恢復其部分的靈壓來幫助一護他們。背部有封印之烙痕。
 
@@ -2055,7 +2055,7 @@ Ryūga: Homura）** || 天貝最強的招式，卍解下技能，從「雷火豪
 <!-- end list -->
 
   -
-    聲優：[永野善一](https://zh.wikipedia.org/wiki/永野善一 "wikilink")（日本）；[李香生](../Page/李香生.md "wikilink")（台灣）
+    聲優：[永野善一](../Page/永野善一.md "wikilink")（日本）；[李香生](../Page/李香生.md "wikilink")（台灣）
     於動畫原創「新隊長天貝繡助篇」登場。雲井堯覺旗下的暗殺部隊隊長，貘爻刀擁有者之一。特徵是淺紫色短髮，額頭有道傷疤，嘴巴矇住，左肩配戴護甲的男子，後期會穿著附披風的裝甲。和手下一起襲擊一護等人，最後在和一護的對決中以「碎我」能力使對方陷入苦戰，但最後被自己的貘爻刀反噬而自爆身亡。
 
 <!-- end list -->
@@ -2154,14 +2154,14 @@ Ryūga: Homura）** || 天貝最強的招式，卍解下技能，從「雷火豪
 <!-- end list -->
 
   -
-    聲優：[園崎未惠](../Page/園崎未惠.md "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：[園崎未惠](../Page/園崎未惠.md "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
     穿著白色和服，肌膚白皙，蓄著白色長髮，淡藍色雙眼，左邊髮際別著一枚五角形髮飾的女子（形象看似[雪女](../Page/雪女.md "wikilink")），武器是始解的袖白雪。
     與朽木露琪亞戰鬥，在受到露琪亞感化並猶豫不決的時候再次被村正洗腦。後來與被千本櫻的唆使下的朽木白哉戰鬥並被破壞。及後織姬和露琪亞險遭降臨現世的基力安攻擊之際，現身替兩人解圍，說明涅繭利解除斬魂刀洗腦的經過，協助一行人作戰。最終協助討伐巨型刀獸以後恢復原樣。
 
 <!-- end list -->
 
   -
-    聲優：[齋賀光希](../Page/齋賀光希.md "wikilink")〔猿女〕＆[真田麻美](../Page/真田麻美.md "wikilink")〔蛇男〕（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")〔猿女〕＆[錢欣郁](../Page/錢欣郁.md "wikilink")〔蛇男〕（台灣）
+    聲優：[齋賀光希](../Page/齋賀光希.md "wikilink")〔猿女〕＆[真田麻美](../Page/真田麻美.md "wikilink")〔蛇男〕（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")〔猿女〕＆[錢欣郁](../Page/錢欣郁.md "wikilink")〔蛇男〕（台灣）
     猿是身上纏著鏈子，身上披著淺綠色毛皮，左胸有顆痣的巨乳紅髮女子，蛇是頸部被拴鐵鏈，有蛇尾的桃紅短髮小男孩。猿經常打蛇的腦袋，蛇用“大屁股女”反擊猿。武器是始解的蛇尾丸。戰鬥方式是一人甩鏈子，攻擊對手的，多為蛇男。卍解時由蛇化身為狒狒王蛇尾丸，猿負責操縱。
     二人被阿散井戀次用**狒牙絕咬**攻擊後復原。最初是各自有著獨立人格的蛇尾狒狒身的怪物。再次實體化後和戀次趕到現世協助作戰。最終協助討伐巨型刀獸以後恢復原樣。於動畫263集「升級」為千本櫻的「保姆」
 
@@ -2175,7 +2175,7 @@ Ryūga: Homura）** || 天貝最強的招式，卍解下技能，從「雷火豪
 <!-- end list -->
 
   -
-    聲優：[辻步美](../Page/辻步美.md "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：[辻步美](../Page/辻步美.md "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
     妖精大小的女子，身著黑黃條紋衣服，綁著深紅色雙馬尾，右手是始解時的雀蜂形狀的武器。
     在碎蜂與嚴靈丸和天譴戰鬥時攻擊碎蜂。兩人易地再戰時纍計擊中碎蜂身上4處，最後被碎蜂收回，十分討厭四楓院夜一。後來再次實體化，與碎蜂趕到現世協助作戰。最終協助討伐巨型刀獸以後恢復原樣。
 
@@ -2195,7 +2195,7 @@ Ryūga: Homura）** || 天貝最強的招式，卍解下技能，從「雷火豪
 <!-- end list -->
 
   -
-    聲優：[藤村步](../Page/藤村步.md "wikilink")〔太刀〕＆[嶋村侑](../Page/嶋村侑.md "wikilink")〔脇差〕（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")〔太刀〕＆[錢欣郁](../Page/錢欣郁.md "wikilink")〔脇差〕（台灣）
+    聲優：[藤村步](../Page/藤村步.md "wikilink")〔太刀〕＆[嶋村侑](../Page/嶋村侑.md "wikilink")〔脇差〕（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")〔太刀〕＆[錢欣郁](../Page/錢欣郁.md "wikilink")〔脇差〕（台灣）
     兩個頭戴骷髏狀飾物的女子。其中一人為右眼被眼罩遮住，[花魁打扮](../Page/花魁.md "wikilink")，猶如巨乳女海賊的成熟女子（太刀化身），使用脇差花天狂骨，偏好華麗繽紛的遊戲，另一人（脇差化身）為左眼被瀏海擋住，刺客打扮，沉默寡言的少女，手持太刀花天狂骨，偏好看似單純實則殘酷的兒童遊戲。
     二人在村正的據點負責牽制京樂春水，之後被村正破壞。
     後來在刀獸篇兩人再次實體化，回到京樂身邊，協助京樂與七緒作戰。最終恢復原樣。
@@ -2218,7 +2218,7 @@ Ryūga: Homura）** || 天貝最強的招式，卍解下技能，從「雷火豪
 <!-- end list -->
 
   -
-    聲優：[嶋村侑](../Page/嶋村侑.md "wikilink")（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")＆[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：[嶋村侑](../Page/嶋村侑.md "wikilink")（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")＆[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
     雙魚理是兩個穿著藍色神道服，銀髮碧眼的雙胞胎，帽子邊緣綴有魚鰭形的紅色飾物，性格活潑調皮，並且以書卷召喚兩支扇子作為攻擊方式。
     二人和花天狂骨一起被村正破壞。後來在刀獸篇兩人再次實體化，並回到浮竹十四郎身邊。最終恢復原樣。
 
@@ -2267,7 +2267,7 @@ Ryūga: Homura）** || 天貝最強的招式，卍解下技能，從「雷火豪
 <!-- end list -->
 
   -
-    聲優：[武虎](https://zh.wikipedia.org/wiki/武虎 "wikilink")（日本）；[吳文民](../Page/吳文民.md "wikilink")（台灣）
+    聲優：[武虎](../Page/武虎.md "wikilink")（日本）；[吳文民](../Page/吳文民.md "wikilink")（台灣）
     一個橘色長髮大鬍子壯漢，與斑目一角一樣會跳足尖舞和喜歡戰鬥。武器是始解的鬼燈丸。
     對陣一角時因被二番隊包圍而撤退。在六番隊隊舍與一角再次對戰被擊敗。解除洗腦後和一角趕到現世協助作戰。最終協助討伐巨型刀獸以後恢復原樣。
 
@@ -2360,7 +2360,7 @@ Ryūga: Homura）** || 天貝最強的招式，卍解下技能，從「雷火豪
 <!-- end list -->
 
   - 豊川翔太（兄）＆豊川唯（妹）
-    聲優：[高木禮子](../Page/高木禮子.md "wikilink")＆[長谷優里奈](../Page/長谷優里奈.md "wikilink")（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")＆[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：[高木禮子](../Page/高木禮子.md "wikilink")＆[長谷優里奈](../Page/長谷優里奈.md "wikilink")（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")＆[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
     於動畫原創「日番谷先遣隊奮鬥篇」短暫登場的整靈。
     兄妹倆死後遭遇虛的襲擊，以至於來不及逃脫的唯被虛吞噬，僥倖逃過一劫的翔太為了拯救妹妹，向偶遇的日番谷冬獅郎與松本亂菊請求協助。最後由於冬獅郎擊敗了虛的緣故，使得原本被吞進虛的體內的唯順利解脫，而亂菊則順勢為兄妹倆舉行魂葬，幫助兩人渡化到屍魂界。
 
@@ -2425,7 +2425,7 @@ Ryūga: Homura）** || 天貝最強的招式，卍解下技能，從「雷火豪
 <!-- end list -->
 
   -
-    聲優：[庄子裕衣](../Page/庄子裕衣.md "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：[庄子裕衣](../Page/庄子裕衣.md "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
     僅於動畫第316話登場。
     生性靦腆的整靈男孩，生前於陪同家人前往滑雪的途中因遭逢意外事故逝世，雙親身故後皆獲得死神的協助引渡至屍魂界，唯獨陽介仍念念不忘想看見雪的心願，故於死後化為整靈留在現世，於失去家人的春婆婆的住處附近徘徊，經過春婆婆的引薦認識冬獅郎和夏梨並成為朋友。
     為了抑制陽介的虛化，春婆婆長期運用自己的靈力減緩陽介的異變，卻因此導致自身的體力逐趨衰弱，陽介也因為春婆婆忽然昏厥而失去控制，化成虛襲擊冬獅郎、夏梨、春婆婆。危急之際，春婆婆再度運用靈力抑制化成虛的陽介，令冬獅郎得以趁機將斬魄刀斬向陽介，完成淨化的步驟。最後，恢復成整靈的陽介躺臥在地面上，仰望天空飄落的細雪，完成生前未了的心願，便在冬獅郎、夏梨、春婆婆的目送下渡化至屍魂界。
@@ -2442,7 +2442,7 @@ Ryūga: Homura）** || 天貝最強的招式，卍解下技能，從「雷火豪
 ### 第一部「無人的記憶」
 
   -
-    聲優：[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")（日本）；[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（台灣）
+    聲優：[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")（日本）；[馮嘉德](../Page/馮嘉德.md "wikilink")（台灣）
     於劇場版「無人的記憶」登場。
     綁著紫色馬尾，橘色雙眼，活潑外向，心地善良的死神少女。初登場時完全說不清楚有關自己的事，而她也不太懂。巧遇一護和露琪亞並且與他們展開冒險。其真實身分，是由落入斷界的魂魄「欠魂」記憶所組成的「思念珠」。
     但也因為她的存在，有心人士準備捉住她以破壞兩界的平衡。最後茜雫為了拯救世界而犧牲自己，當一護將她背回現世時，她的身體已經消失殆盡。

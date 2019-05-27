@@ -1,4 +1,4 @@
-[TLR3_structure.png](https://zh.wikipedia.org/wiki/File:TLR3_structure.png "fig:TLR3_structure.png")的弧形[富亮氨酸重复区域](https://zh.wikipedia.org/wiki/富亮氨酸重复 "wikilink")\]\]
+[TLR3_structure.png](https://zh.wikipedia.org/wiki/File:TLR3_structure.png "fig:TLR3_structure.png")的弧形[富亮氨酸重复区域](../Page/富亮氨酸重复.md "wikilink")\]\]
 **類鐸受体**（，缩写**TLR**，或译为**-{zh-tw:Toll样受体;zh-hans:類鐸受體}-**）是[I型跨膜蛋白质](https://zh.wikipedia.org/wiki/I型跨膜蛋白质 "wikilink")，识别侵入体内的[微生物进而激活免疫细胞的应答](../Page/微生物.md "wikilink")。被认为在[先天性免疫系统中起关键作用](https://zh.wikipedia.org/wiki/先天性免疫系统 "wikilink")。類Toll受体是[模式识别受体](../Page/模式识别受体.md "wikilink")（pattern
 recognition
 receptors，PRR）的一类，识别与宿主不同的[病原体分子](../Page/病原体.md "wikilink")。这些分子被统称为[病原相关分子模式](https://zh.wikipedia.org/wiki/病原相关分子模式 "wikilink")（pathogen-associated

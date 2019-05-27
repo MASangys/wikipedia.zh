@@ -6,7 +6,7 @@ zh-hant:公尺;}-，是世界第十一高峰。“加舒尔布鲁木”在当地
 加舒尔布鲁木I峰最初被西方探险队称作K5，是由于1856年[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[蒙哥马利少尉](../Page/蒙哥马利.md "wikilink")（T.
 G.
 Montgomerie）首次考察[喀喇昆仑山脉时](../Page/喀喇昆仑山脉.md "wikilink")，用“K”开头标出了此山脉自西向东的5座主要山峰。1892年探险家因该峰渺远难寻，又称其为“隐峰（Hidden
-Peak）”。1958年，一支由[由克·林奇带领的八人](https://zh.wikipedia.org/wiki/由克·林奇 "wikilink")[美国登山队首次登上加舒尔布鲁木I峰](../Page/美国.md "wikilink")，登顶者为和[安迪·考夫曼](https://zh.wikipedia.org/wiki/安迪·考夫曼 "wikilink")。
+Peak）”。1958年，一支由[由克·林奇带领的八人](https://zh.wikipedia.org/wiki/由克·林奇 "wikilink")[美国登山队首次登上加舒尔布鲁木I峰](../Page/美国.md "wikilink")，登顶者为和[安迪·考夫曼](../Page/安迪·考夫曼.md "wikilink")。
 
 ## 参见
 

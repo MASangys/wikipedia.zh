@@ -65,7 +65,7 @@ Moon需要安裝MHT文件讀寫的擴展](https://zh.wikipedia.org/wiki/Pale_Moo
 
 ### Vivaldi
 
-[Vivaldi可以通過](https://zh.wikipedia.org/wiki/Vivaldi_\(瀏覽器\) "wikilink")啟用實驗性的選項。
+[Vivaldi可以通過](../Page/Vivaldi_\(瀏覽器\).md "wikilink")啟用實驗性的選項。
 
 ### MHT阅读器
 

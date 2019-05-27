@@ -8,7 +8,7 @@
   - **[萨莉·莱德](../Page/萨莉·莱德.md "wikilink")**（，曾执行以及任务），任务专家
   - **[大卫·里茨马](https://zh.wikipedia.org/wiki/大卫·里茨马 "wikilink")**（，曾执行、以及任务），任务专家
   - **[马克·加诺](https://zh.wikipedia.org/wiki/马克·加诺 "wikilink")**（，[加拿大宇航员](../Page/加拿大.md "wikilink")，曾执行、以及任务），有效载荷专家
-  - **[保罗·斯库里·巴瓦](https://zh.wikipedia.org/wiki/保罗·斯库里·巴瓦 "wikilink")**（，曾执行任务），有效载荷专家
+  - **[保罗·斯库里·巴瓦](../Page/保罗·斯库里·巴瓦.md "wikilink")**（，曾执行任务），有效载荷专家
 
 ## 替补有效载荷专家
 

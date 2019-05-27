@@ -2,7 +2,7 @@
 **D**evelop」的縮寫，乃是[日本](../Page/日本.md "wikilink")[CyberFront公司經營的](https://zh.wikipedia.org/wiki/CyberFront "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[品牌](../Page/品牌.md "wikilink")。此品牌由同名之**KID**公司於1988年創立，並經營至2006年11月底止，該公司已在同年12月1日向[東京地方法院申請自行](https://zh.wikipedia.org/wiki/東京地方法院 "wikilink")[破產](../Page/破產.md "wikilink")\[1\]。[CyberFront公司則是在](https://zh.wikipedia.org/wiki/CyberFront "wikilink")2007年2月透過破產管理[律師接手該公司所有遊戲軟體的一切](../Page/律師.md "wikilink")[權利及業務](https://zh.wikipedia.org/wiki/權利 "wikilink")\[2\]，而開發遊戲的主要工作人員大部份轉到[5pb.工作](../Page/5pb..md "wikilink")。
 
 KID公司經營初期曾代工一些[射擊遊戲和](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，1996年起開始制作[戀愛題材的](https://zh.wikipedia.org/wiki/戀愛 "wikilink")[冒險遊戲和](../Page/戀愛冒險遊戲.md "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")。主要作品包括《[秋之回憶](https://zh.wikipedia.org/wiki/秋之回憶系列 "wikilink")》（Memories
-Off）系列、《[无限轮回](../Page/无限轮回.md "wikilink")》（Infinity）系列等。部份作品已經正式翻譯成[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[英文等](https://zh.wikipedia.org/wiki/英文 "wikilink")[語言](https://zh.wikipedia.org/wiki/語言 "wikilink")。
+Off）系列、《[无限轮回](../Page/无限轮回.md "wikilink")》（Infinity）系列等。部份作品已經正式翻譯成[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[英文等](https://zh.wikipedia.org/wiki/英文 "wikilink")[語言](../Page/語言.md "wikilink")。
 
 ## 主要作品
 
@@ -122,7 +122,7 @@ Off）系列、《[无限轮回](../Page/无限轮回.md "wikilink")》（Infini
   - 「[My Merry May with
     be](https://zh.wikipedia.org/wiki/My_Merry_May_with_be "wikilink")」
   - 「[White Princess the
-    second](https://zh.wikipedia.org/wiki/White_Princess "wikilink")」**（[feng](https://zh.wikipedia.org/wiki/feng "wikilink")「」）**
+    second](../Page/White_Princess.md "wikilink")」**（[feng](https://zh.wikipedia.org/wiki/feng "wikilink")「」）**
   - 「」**（etude「」）**
   - 「[水之旋律](../Page/水之旋律.md "wikilink")」
   - 「[秋之回憶5：中斷的影片](../Page/秋之回憶5：中斷的影片.md "wikilink")」
@@ -138,7 +138,7 @@ Off）系列、《[无限轮回](../Page/无限轮回.md "wikilink")》（Infini
   - 「[水之旋律2 ～緋之記憶～](../Page/水之旋律.md "wikilink")」
   - 「FESTA\!\! -HYPER GIRLS PARTY-」**（Lass「[FESTA\!\! -HYPER GIRLS
     POP-](https://zh.wikipedia.org/wiki/FESTA!!_-HYPER_GIRLS_POP- "wikilink")」）**
-  - 「[We Are\*](https://zh.wikipedia.org/wiki/We_Are* "wikilink")」
+  - 「[We Are\*](../Page/We_Are*.md "wikilink")」
   - 「[龍刻 RYU-KOKU](../Page/龍刻_RYU-KOKU.md "wikilink")」
   - 「」**（[F\&C FC02](../Page/F&C.md "wikilink")「」）**
 

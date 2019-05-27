@@ -4,7 +4,7 @@
 
 在本篇播出後5年，[富士電視台於](../Page/富士電視台.md "wikilink")2006年7月3日推出了長達138分鐘的HERO特別篇（僅有一集），除了原班人馬，亦加入[綾瀨遙](../Page/綾瀨遙.md "wikilink")、[堤真一等名演員](../Page/堤真一.md "wikilink")，有30.9%收視。劇集的成功也催生[電影版](../Page/HERO_\(2007年電影\).md "wikilink")，電影緊接特別篇於2007年9月8日在日本上映，並拿下年度票房第3。
 
-2014年4月28日[富士電視台宣布開拍續集](../Page/富士電視台.md "wikilink")，為該年度夏季檔，HERO睽違13年再次復活，這也是[木村拓哉第](../Page/木村拓哉.md "wikilink")10次主演月九劇，於2014年7月14日至2014年9月22日在[富士電視台的](../Page/富士電視台.md "wikilink")「[月九](https://zh.wikipedia.org/wiki/月九 "wikilink")」時段播出，共有11集。續集角色陣容有不少變動，如久利生公平的劇中搭檔從[松隆子改為](../Page/松隆子.md "wikilink")[北川景子](../Page/北川景子.md "wikilink")，由北川景子飾演事務官麻木千佳，新加入的共演者還有杉本哲太、[濱田岳](../Page/濱田岳.md "wikilink")、[吉田羊](../Page/吉田羊.md "wikilink")、[勝矢](https://zh.wikipedia.org/wiki/勝矢 "wikilink")、[松重豐等人](https://zh.wikipedia.org/wiki/松重豐 "wikilink")，正名僕藏、田中要次、八嶋智人、[小日向文世和角野卓造也再度回歸出演要角](../Page/小日向文世.md "wikilink")。
+2014年4月28日[富士電視台宣布開拍續集](../Page/富士電視台.md "wikilink")，為該年度夏季檔，HERO睽違13年再次復活，這也是[木村拓哉第](../Page/木村拓哉.md "wikilink")10次主演月九劇，於2014年7月14日至2014年9月22日在[富士電視台的](../Page/富士電視台.md "wikilink")「[月九](https://zh.wikipedia.org/wiki/月九 "wikilink")」時段播出，共有11集。續集角色陣容有不少變動，如久利生公平的劇中搭檔從[松隆子改為](../Page/松隆子.md "wikilink")[北川景子](../Page/北川景子.md "wikilink")，由北川景子飾演事務官麻木千佳，新加入的共演者還有杉本哲太、[濱田岳](../Page/濱田岳.md "wikilink")、[吉田羊](../Page/吉田羊.md "wikilink")、[勝矢](https://zh.wikipedia.org/wiki/勝矢 "wikilink")、[松重豐等人](../Page/松重豐.md "wikilink")，正名僕藏、田中要次、八嶋智人、[小日向文世和角野卓造也再度回歸出演要角](../Page/小日向文世.md "wikilink")。
 
 2015年7月18日[第二部電影版在日本上映](../Page/HERO_\(2015年電影\).md "wikilink")，松隆子以大阪地方檢查廳難波支部的雨宮舞子檢察官身分與久利生公平、麻木千佳共同調查一個涉及[治外法權的棘手案件](../Page/外交豁免權.md "wikilink")。主要角色陣容除松隆子和[佐藤浩市](../Page/佐藤浩市.md "wikilink")（飾演外務省歐洲局局長松葉圭介）外，與第二季相同。
 
@@ -103,7 +103,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/勝村政信" title="wikilink">勝村政信</a></p></td>
+<p><a href="../Page/勝村政信.md" title="wikilink">勝村政信</a></p></td>
 <td><center>
 <p>江上達夫</p></td>
 <td><p>檢察官。常在訊問到一半時和自己的事務官鬥嘴。</p></td>
@@ -490,7 +490,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/小原雅人" title="wikilink">小原雅人</a></p></td>
+<p><a href="../Page/小原雅人.md" title="wikilink">小原雅人</a></p></td>
 <td><center>
 <p>矢口徹</p></td>
 <td></td>
@@ -637,7 +637,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/石丸謙二郎" title="wikilink">石丸謙二郎</a></p></td>
+<p><a href="../Page/石丸謙二郎.md" title="wikilink">石丸謙二郎</a></p></td>
 <td><center>
 <p>神林琢磨</p></td>
 <td><p>幫助常務董事的律師</p></td>
@@ -1236,7 +1236,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/勝村政信" title="wikilink">勝村政信</a></p></td>
+<p><a href="../Page/勝村政信.md" title="wikilink">勝村政信</a></p></td>
 <td><center>
 <p>江上達夫</p></td>
 <td></td>
@@ -1351,7 +1351,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/杉本哲太" title="wikilink">杉本哲太</a></p></td>
+<p><a href="../Page/杉本哲太.md" title="wikilink">杉本哲太</a></p></td>
 <td><center>
 <p>田村雅史</p></td>
 <td><p>檢察官，五年前任職於東京地檢特搜部，之後調職到城西支部。最喜歡炫耀過去的事蹟，也期待有一天能重返特搜部。和牛丸的女兒結婚，討好奉承自然不可少。</p></td>
@@ -1405,7 +1405,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/松重豐" title="wikilink">松重豐</a></p></td>
+<p><a href="../Page/松重豐.md" title="wikilink">松重豐</a></p></td>
 <td><center>
 <p>川尻健三郎</p></td>
 <td><p>城西支部長</p></td>
@@ -1559,7 +1559,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/勝村政信" title="wikilink">勝村政信</a>（第9－10集）</p></td>
+<p><a href="../Page/勝村政信.md" title="wikilink">勝村政信</a>（第9－10集）</p></td>
 <td><center>
 <p>江上達夫</p></td>
 <td><p>東京地方檢察廳特別捜査部檢察官</p></td>
@@ -1861,7 +1861,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/丸高愛實" title="wikilink">丸高愛實</a></p></td>
+<p><a href="../Page/丸高愛實.md" title="wikilink">丸高愛實</a></p></td>
 <td><center>
 <p>佳那子</p></td>
 <td><p>俱樂部女公關，過去與飛田同為不良集團成員</p></td>
@@ -1902,7 +1902,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/森田順平" title="wikilink">森田順平</a></p></td>
+<p><a href="../Page/森田順平.md" title="wikilink">森田順平</a></p></td>
 <td><center>
 <p>今村</p></td>
 <td><p>N&amp;I法律事務所律師。曾擔任檢察官，與川尻健三郎是同期</p></td>
@@ -2061,7 +2061,7 @@
 <td><p>到兼營酒吧的餐廳「MAHI MAHI」參加聯誼的女子</p></td>
 <td></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黃瑩瑩" title="wikilink">黃瑩瑩</a></p></td>
+<p><a href="../Page/黃瑩瑩.md" title="wikilink">黃瑩瑩</a></p></td>
 </tr>
 <tr class="odd">
 <td><center></td>
@@ -2292,7 +2292,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/白洲迅" title="wikilink">白洲迅</a></p></td>
+<p><a href="../Page/白洲迅.md" title="wikilink">白洲迅</a></p></td>
 <td><center>
 <p>阿部勝士</p></td>
 <td><p>應德大學經濟系2年級生</p></td>
@@ -2462,7 +2462,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/小市慢太郎" title="wikilink">小市慢太郎</a></p></td>
+<p><a href="../Page/小市慢太郎.md" title="wikilink">小市慢太郎</a></p></td>
 <td><center>
 <p>八木</p></td>
 <td><p>新聞記者</p></td>
@@ -2559,7 +2559,7 @@
 <td><p>於情報節目報導此刑事案件的新聞主播</p></td>
 <td></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/鄧志堅" title="wikilink">鄧志堅</a></p></td>
+<p><a href="../Page/鄧志堅.md" title="wikilink">鄧志堅</a></p></td>
 </tr>
 <tr class="even">
 <td><center></td>
@@ -2582,7 +2582,7 @@
       - 最佳作品
       - 最佳男主角（[木村拓哉](../Page/木村拓哉.md "wikilink")）
       - 最佳主題曲（[宇多田光](../Page/宇多田光.md "wikilink")「[Can You Keep A
-        Secret?](https://zh.wikipedia.org/wiki/Can_You_Keep_A_Secret? "wikilink")」）
+        Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")」）
       - 最佳服裝造型（木村拓哉）
       - 最佳導演
       - 最佳配樂

@@ -1,4 +1,4 @@
-《**Happiness\!**》（）是[Windmill公司發售的第](https://zh.wikipedia.org/wiki/Windmill "wikilink")6款[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，以及以此發展出來的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。遊戲中的配角渡良瀨準是[偽娘的代表之一](../Page/偽娘.md "wikilink")，因為外型可愛，曾有人誤認其為女主角。
+《**Happiness\!**》（）是[Windmill公司發售的第](../Page/Windmill.md "wikilink")6款[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，以及以此發展出來的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。遊戲中的配角渡良瀨準是[偽娘的代表之一](../Page/偽娘.md "wikilink")，因為外型可愛，曾有人誤認其為女主角。
 
 ## 作品歷史
 

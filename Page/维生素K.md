@@ -68,7 +68,7 @@ Seegers 等在 University of Iowa病理系醫生報導第一個成功以維生�
 
 ## Gla-蛋白質
 
-現在，人類的Gla蛋白質特性被了解已有一定程度：[凝血因子](https://zh.wikipedia.org/wiki/凝血因子 "wikilink")Ⅱ（凝血酶原）、Ⅶ、Ⅸ和Ⅹ，C和S-[抗凝血蛋白質和以](https://zh.wikipedia.org/wiki/抗凝血蛋白質 "wikilink")[凝血酶為標的Z](../Page/凝血酶.md "wikilink")-蛋白質、[骨钙蛋白](https://zh.wikipedia.org/wiki/骨钙蛋白 "wikilink")（骨Gla蛋白質）、鈣化抑制基質Gla蛋白質（matrix
+現在，人類的Gla蛋白質特性被了解已有一定程度：[凝血因子](https://zh.wikipedia.org/wiki/凝血因子 "wikilink")Ⅱ（凝血酶原）、Ⅶ、Ⅸ和Ⅹ，C和S-[抗凝血蛋白質和以](https://zh.wikipedia.org/wiki/抗凝血蛋白質 "wikilink")[凝血酶為標的Z](../Page/凝血酶.md "wikilink")-蛋白質、[骨钙蛋白](../Page/骨钙蛋白.md "wikilink")（骨Gla蛋白質）、鈣化抑制基質Gla蛋白質（matrix
 gla protein，MGP），細胞生長調控的特殊抑長基因6 蛋白質（Gas6）和當前功能仍未知的穿膜Gla蛋白質。Gas6可能透過活化Axl
 接受器酪氨酸激酶和刺激細胞增生或防止細胞凋亡。在以上為人所知的例子中，Gla殘基的是功能必需的。
 

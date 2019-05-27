@@ -714,4 +714,4 @@ CLUB所繪製的漫畫](https://zh.wikipedia.org/wiki/SD_CLUB "wikilink")，內�
 [Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink")
 [Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
 
-1.  譯者：[周金燕](https://zh.wikipedia.org/wiki/周金燕 "wikilink")、配音：[老李工作室](https://zh.wikipedia.org/wiki/老李工作室 "wikilink")（節錄自《[神奇地帶](https://zh.wikipedia.org/wiki/神奇地帶 "wikilink")》第13期71頁【TV動畫看板】之記載）
+1.  譯者：[周金燕](https://zh.wikipedia.org/wiki/周金燕 "wikilink")、配音：[老李工作室](https://zh.wikipedia.org/wiki/老李工作室 "wikilink")（節錄自《[神奇地帶](../Page/神奇地帶.md "wikilink")》第13期71頁【TV動畫看板】之記載）

@@ -40,14 +40,14 @@
 <td style="text-align: center;"><p><a href="../Page/小虎隊_(香港).md" title="wikilink">孫明光</a></p></td>
 <td style="text-align: center;"><p>鄧志玉</p></td>
 <td style="text-align: center;"><p>-</p></td>
-<td style="text-align: center;"><p><a href="../Page/陳啟泰.md" title="wikilink">陳啟泰</a>、張麗瑾、<a href="https://zh.wikipedia.org/wiki/李麗霞" title="wikilink">李麗霞</a>(黑妹)</p></td>
+<td style="text-align: center;"><p><a href="../Page/陳啟泰.md" title="wikilink">陳啟泰</a>、張麗瑾、<a href="../Page/李麗霞.md" title="wikilink">李麗霞</a>(黑妹)</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>1984年<br />
 （第3屆）</p></td>
 <td style="text-align: center;"><p><a href="../Page/張衛健.md" title="wikilink">張衛健</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/戴蘊慧" title="wikilink">戴蘊慧</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/戴蘊慧.md" title="wikilink">戴蘊慧</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/歐陽德勛.md" title="wikilink">歐陽德勛</a></p></td>
 <td style="text-align: center;"><p>最突出台風創新獎：張衛健</p></td>
 <td style="text-align: center;"><p><a href="../Page/江華_(演員).md" title="wikilink">江華</a>、<a href="../Page/羅嘉良.md" title="wikilink">羅嘉良</a>、區耀國、<a href="../Page/陳加玲.md" title="wikilink">陳加玲</a>、<a href="../Page/阮兆祥.md" title="wikilink">阮兆祥</a>、<a href="../Page/Raidas.md" title="wikilink">陳德彰</a>、曹潔敏</p></td>
@@ -60,7 +60,7 @@
 <td style="text-align: center;"><p><a href="../Page/蘇永康.md" title="wikilink">蘇永康</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/林楚麒.md" title="wikilink">林楚麒</a></p></td>
 <td style="text-align: center;"><p>最突出台風創新獎：<a href="../Page/莫鎮賢.md" title="wikilink">莫鎮賢</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/周慧敏.md" title="wikilink">周慧敏</a>、<a href="../Page/李克勤.md" title="wikilink">李克勤</a>、<a href="https://zh.wikipedia.org/wiki/江欣燕" title="wikilink">江欣燕</a>、<a href="../Page/吳國敬.md" title="wikilink">吳國敬</a>、<a href="../Page/陳雅倫.md" title="wikilink">陳雅倫</a>、<a href="../Page/草蜢_(組合).md" title="wikilink">草蜢</a>、<a href="../Page/郭政鴻.md" title="wikilink">郭政鴻</a>、<a href="https://zh.wikipedia.org/wiki/黃寶欣" title="wikilink">黃寶欣</a>、<a href="https://zh.wikipedia.org/wiki/蔡富華" title="wikilink">蔡富華</a>、<a href="https://zh.wikipedia.org/wiki/陳珮珊" title="wikilink">陳珮珊</a>、李明珠</p></td>
+<td style="text-align: center;"><p><a href="../Page/周慧敏.md" title="wikilink">周慧敏</a>、<a href="../Page/李克勤.md" title="wikilink">李克勤</a>、<a href="https://zh.wikipedia.org/wiki/江欣燕" title="wikilink">江欣燕</a>、<a href="../Page/吳國敬.md" title="wikilink">吳國敬</a>、<a href="../Page/陳雅倫.md" title="wikilink">陳雅倫</a>、<a href="../Page/草蜢_(組合).md" title="wikilink">草蜢</a>、<a href="../Page/郭政鴻.md" title="wikilink">郭政鴻</a>、<a href="https://zh.wikipedia.org/wiki/黃寶欣" title="wikilink">黃寶欣</a>、<a href="https://zh.wikipedia.org/wiki/蔡富華" title="wikilink">蔡富華</a>、<a href="../Page/陳珮珊.md" title="wikilink">陳珮珊</a>、李明珠</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -77,7 +77,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>1987年<br />
 （第6屆）</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/方曉虹" title="wikilink">方曉虹</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/方曉虹.md" title="wikilink">方曉虹</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/劉錫明.md" title="wikilink">劉錫明</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/董嵐" title="wikilink">董嵐</a></p></td>
 <td style="text-align: center;"><p>最突出台風創新獎：方曉虹<br />
@@ -110,7 +110,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>1990年<br />
 （第9屆）</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/徐鎮東" title="wikilink">徐鎮東</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/徐鎮東.md" title="wikilink">徐鎮東</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/陸家俊_(歌手).md" title="wikilink">陸家俊</a></p></td>
 <td style="text-align: center;"><p>連俊雄</p></td>
 <td style="text-align: center;"><p>梅艷芳歌星特選獎：陸家俊<br />
@@ -122,7 +122,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>1991年<br />
 （第10屆）</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李家強" title="wikilink">李家強</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李家強.md" title="wikilink">李家強</a></p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
@@ -632,7 +632,7 @@
 </tr>
 <tr class="even">
 <td><p>18号</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姚兵" title="wikilink">姚兵</a></p></td>
+<td><p><a href="../Page/姚兵.md" title="wikilink">姚兵</a></p></td>
 <td><p>男</p></td>
 <td><p>中国<a href="https://zh.wikipedia.org/wiki/浙江" title="wikilink">浙江</a></p></td>
 <td><p>第十二名</p></td>
@@ -1054,7 +1054,7 @@
 <td style="text-align: center;"><p><small>香港區選拔賽</small><br />
 </p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/骆振伟" title="wikilink">骆振伟</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鍾浩賢" title="wikilink">鍾浩賢</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/鍾浩賢.md" title="wikilink">鍾浩賢</a></p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td style="text-align: center;"><p>觀眾海選票王：陳聞平</p></td>
 <td style="text-align: center;"></td>
@@ -1244,7 +1244,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p><small>香港區選拔賽</small><br />
 [17]</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳康健" title="wikilink">陳康健</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/陳康健.md" title="wikilink">陳康健</a></p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
@@ -1296,7 +1296,7 @@
 <td><p>01号</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陈慧莹" title="wikilink">陈慧莹</a></p></td>
 <td><p>女</p></td>
-<td><p><a href="../Page/马来西亚.md" title="wikilink">马来西亚</a><a href="https://zh.wikipedia.org/wiki/峇株巴辖" title="wikilink">峇株巴辖</a></p></td>
+<td><p><a href="../Page/马来西亚.md" title="wikilink">马来西亚</a><a href="../Page/峇株巴辖.md" title="wikilink">峇株巴辖</a></p></td>
 <td><p>季军</p></td>
 <td><p>2010馬來西亞Astro新秀大賽季军</p></td>
 </tr>
@@ -1800,7 +1800,7 @@
 </tr>
 <tr class="even">
 <td><p>14号</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朱慧雯" title="wikilink">朱慧雯</a></p></td>
+<td><p><a href="../Page/朱慧雯.md" title="wikilink">朱慧雯</a></p></td>
 <td><p>女</p></td>
 <td><p><a href="../Page/新西兰.md" title="wikilink">新西兰</a><a href="../Page/奧克蘭_(紐西蘭).md" title="wikilink">奥克兰</a></p></td>
 <td></td>
@@ -1992,7 +1992,7 @@
 <td><p><a href="../Page/马来西亚.md" title="wikilink">马来西亚</a><a href="../Page/吉隆坡.md" title="wikilink">吉隆坡</a></p></td>
 <td><p>第五名</p></td>
 <td><p>2013年马来西亚<a href="../Page/Astro新秀大赛.md" title="wikilink">Astro新秀大赛殿军</a><br />
-2014年参加<a href="https://zh.wikipedia.org/wiki/中国梦之声_(第二季)" title="wikilink">中国梦之声 (第二季)</a></p></td>
+2014年参加<a href="../Page/中国梦之声_(第二季).md" title="wikilink">中国梦之声 (第二季)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>05号</p></td>
@@ -2065,7 +2065,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中国</a><a href="https://zh.wikipedia.org/wiki/四川" title="wikilink">四川</a></p></td>
 <td><p>冠军</p></td>
 <td><p>2011年<a href="../Page/2011快乐女声.md" title="wikilink">快乐女声成都</a>30强<br />
-2014年参加<a href="https://zh.wikipedia.org/wiki/中国梦之声_(第二季)" title="wikilink">中国梦之声 (第二季)全国总冠军</a></p></td>
+2014年参加<a href="../Page/中国梦之声_(第二季).md" title="wikilink">中国梦之声 (第二季)全国总冠军</a></p></td>
 </tr>
 <tr class="even">
 <td><p>14号</p></td>
@@ -2212,7 +2212,7 @@
 （第34屆）</p></td>
 <td style="text-align: center;"><p>黃裔媁<br />
 （檳城）</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/周冠楠" title="wikilink">周冠楠</a><br />
+<td style="text-align: center;"><p><a href="../Page/周冠楠.md" title="wikilink">周冠楠</a><br />
 （悉尼）</p></td>
 <td style="text-align: center;"><p>鄺峻瑤／鄺恩瑤<br />
 （墨爾本）</p></td>
@@ -2263,7 +2263,7 @@
 </tr>
 <tr class="odd">
 <td><p>05号</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/周冠楠" title="wikilink">周冠楠</a></p></td>
+<td><p><a href="../Page/周冠楠.md" title="wikilink">周冠楠</a></p></td>
 <td><p>男</p></td>
 <td><p><a href="../Page/澳大利亚.md" title="wikilink">澳大利亚</a><a href="../Page/悉尼.md" title="wikilink">悉尼</a></p></td>
 <td><p>亞軍</p></td>
@@ -2335,7 +2335,7 @@
 （檳城）</p></td>
 <td style="text-align: center;"><p>施勤<br />
 （新加坡）</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/伍富橋" title="wikilink">伍富橋</a><br />
+<td style="text-align: center;"><p><a href="../Page/伍富橋.md" title="wikilink">伍富橋</a><br />
 （香港）</p></td>
 <td style="text-align: center;"><p>第四名： 彭雅纯（纽约）</p></td>
 <td style="text-align: center;"><table>
@@ -2474,7 +2474,7 @@
 | 1988年                                                                                | [第七屆新秀歌唱大賽](https://programme.mytvsuper.com/tc/118965/第七屆新秀歌唱大賽)                                                                                                      | 鄭丹瑞、[周慧敏](../Page/周慧敏.md "wikilink")、[江欣燕](https://zh.wikipedia.org/wiki/江欣燕 "wikilink")                                          |
 | 1989年                                                                                | [第八屆新秀歌唱大賽](https://programme.mytvsuper.com/tc/118964/第八屆新秀歌唱大賽)                                                                                                      | [鍾保羅](../Page/鍾保羅.md "wikilink")                                                                                                  |
 | 1990年                                                                                | [第九屆新秀歌唱大賽](https://programme.mytvsuper.com/tc/118963/第九屆新秀歌唱大賽)                                                                                                      | [李美鳳](../Page/李美鳳.md "wikilink")、[許志安](../Page/許志安.md "wikilink")、[雷宇揚](../Page/雷宇揚.md "wikilink")                                |
-| 1991年                                                                                | [第十屆新秀歌唱大賽](https://programme.mytvsuper.com/tc/118962/第十屆新秀歌唱大賽)                                                                                                      | [何婉盈](https://zh.wikipedia.org/wiki/何婉盈 "wikilink")、[倪震](../Page/倪震.md "wikilink")、[鄭秀文](../Page/鄭秀文.md "wikilink")               |
+| 1991年                                                                                | [第十屆新秀歌唱大賽](https://programme.mytvsuper.com/tc/118962/第十屆新秀歌唱大賽)                                                                                                      | [何婉盈](../Page/何婉盈.md "wikilink")、[倪震](../Page/倪震.md "wikilink")、[鄭秀文](../Page/鄭秀文.md "wikilink")                                  |
 | 1992年                                                                                | [第十一屆新秀歌唱大賽](https://programme.mytvsuper.com/tc/118961/第十一屆新秀歌唱大賽)                                                                                                    | [張衛健](../Page/張衛健.md "wikilink")、周慧敏                                                                                              |
 | 1993年                                                                                | [第十二屆新秀歌唱大賽](https://programme.mytvsuper.com/tc/118960/第十二屆新秀歌唱大賽-決賽)                                                                                                 | 鄭丹瑞                                                                                                                               |
 | 1994年                                                                                | [第十三屆新秀歌唱大賽](https://programme.mytvsuper.com/tc/118959/第十三屆新秀歌唱大賽)                                                                                                    | 鄭丹瑞、[譚小環](../Page/譚小環.md "wikilink")                                                                                              |

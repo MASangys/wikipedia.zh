@@ -49,7 +49,7 @@ ZTZ-99是中国新一代主战坦克，车体相对其原型[ZTZ-98式主力戰�
 ### 火力
 
 [缩略图](https://zh.wikipedia.org/wiki/File:Type_99_MBT_front_right.jpg "fig:缩略图")型125mm滑膛炮。\]\]
-在火力上，99式主战坦克采用了研仿自俄制2A46型滑膛炮的[ZPT-98型](../Page/ZPT-98坦克炮.md "wikilink")125mm滑膛炮，可发射[尾翼稳定脱壳穿甲弹](https://zh.wikipedia.org/wiki/尾翼稳定脱壳穿甲弹 "wikilink")、[破甲弹和](https://zh.wikipedia.org/wiki/破甲弹 "wikilink")[榴弹等弹药](https://zh.wikipedia.org/wiki/榴弹 "wikilink")，列装了激光制导[炮射导弹系统](https://zh.wikipedia.org/wiki/9M119反坦克導彈 "wikilink")。根据对二期尾翼稳定脱壳穿甲弹的照片估计，该弹的穿甲体长度在540mm左右，因此乐观估计2km垂直穿深在540-780mm左右。同时采用了[自动装弹机](https://zh.wikipedia.org/wiki/自动装弹机 "wikilink")，使乘员减少到3名。99的火控系统由激光压制器/测距仪、弹道[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")、炮手稳定式瞄准镜、车长瞄准镜以及控制仪表和各种传感器组成。装备了第二代凝视扫描热像仪。\[3\]2017年底[北京衛視專題節目請來的軍方專家首次透漏](https://zh.wikipedia.org/wiki/北京衛視 "wikilink")99系列坦克的主炮細節技術指標：\[4\]
+在火力上，99式主战坦克采用了研仿自俄制2A46型滑膛炮的[ZPT-98型](../Page/ZPT-98坦克炮.md "wikilink")125mm滑膛炮，可发射[尾翼稳定脱壳穿甲弹](https://zh.wikipedia.org/wiki/尾翼稳定脱壳穿甲弹 "wikilink")、[破甲弹和](https://zh.wikipedia.org/wiki/破甲弹 "wikilink")[榴弹等弹药](https://zh.wikipedia.org/wiki/榴弹 "wikilink")，列装了激光制导[炮射导弹系统](../Page/9M119反坦克導彈.md "wikilink")。根据对二期尾翼稳定脱壳穿甲弹的照片估计，该弹的穿甲体长度在540mm左右，因此乐观估计2km垂直穿深在540-780mm左右。同时采用了[自动装弹机](https://zh.wikipedia.org/wiki/自动装弹机 "wikilink")，使乘员减少到3名。99的火控系统由激光压制器/测距仪、弹道[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")、炮手稳定式瞄准镜、车长瞄准镜以及控制仪表和各种传感器组成。装备了第二代凝视扫描热像仪。\[3\]2017年底[北京衛視專題節目請來的軍方專家首次透漏](https://zh.wikipedia.org/wiki/北京衛視 "wikilink")99系列坦克的主炮細節技術指標：\[4\]
 
 1.  所有北約鍛造120mm炮的技術皆全部應用，包含电渣重熔、全膛鍍鉻、液壓自緊，但口徑擴大為125mm
 2.  用生產線膛炮的鋼材生產滑膛炮，通常線膛炮的膛壓更高出許多
@@ -100,9 +100,9 @@ ZTZ-99是中国新一代主战坦克，车体相对其原型[ZTZ-98式主力戰�
   - 最大越野時速達45-56公里／小時
   - 基本作戰行程為450公里，加上[額外燃料可至](../Page/燃料.md "wikilink")600公里
   - 1門48倍口径[ZPT-98](../Page/ZPT-98坦克炮.md "wikilink")
-    125毫米[滑膛炮](../Page/滑膛槍炮.md "wikilink")，由[自動裝彈機裝填](../Page/自動裝彈機.md "wikilink")，備彈數41發，具备发射[炮射导弹能力](https://zh.wikipedia.org/wiki/9M119反坦克導彈 "wikilink")
+    125毫米[滑膛炮](../Page/滑膛槍炮.md "wikilink")，由[自動裝彈機裝填](../Page/自動裝彈機.md "wikilink")，備彈數41發，具备发射[炮射导弹能力](../Page/9M119反坦克導彈.md "wikilink")
   - 多功能爆破榴彈
-  - 1挺[QJC-88式12.7毫米指揮官機槍](https://zh.wikipedia.org/wiki/88式车载高射机枪 "wikilink")（300發）
+  - 1挺[QJC-88式12.7毫米指揮官機槍](../Page/88式车载高射机枪.md "wikilink")（300發）
   - 1挺[86式](../Page/80式通用機槍.md "wikilink")7.62毫米[同軸機槍](../Page/同軸武器.md "wikilink")（2,000發）
   - 坦克炮塔正面楔形复合主裝甲，侧面为附加装甲
   - 正面防护力相当于900毫米均质装甲

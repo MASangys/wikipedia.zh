@@ -135,7 +135,7 @@ Cube改裝成雙處理器的系統。其餘也有人進行[機殼改裝](../Page
 
   - 儲存
       - [硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")：20GB或30GB或60GB
-      - 硬碟介面：[UltraATA/66](https://zh.wikipedia.org/wiki/ATA "wikilink")
+      - 硬碟介面：[UltraATA/66](../Page/ATA.md "wikilink")
       - [光碟](../Page/光碟.md "wikilink")：[DVD-ROM或](https://zh.wikipedia.org/wiki/DVD "wikilink")[CD-RW](https://zh.wikipedia.org/wiki/CD-RW "wikilink")
 
 <!-- end list -->

@@ -66,7 +66,7 @@ LOVE YOU 『再一次‧愛你』，藉由所有通信線路的傳播，終於�
 
 ## 黑歷史
 
-[萬代影視在](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")2014年特設Blu-ray
+[萬代影視在](../Page/萬代影視.md "wikilink")2014年特設Blu-ray
 Box官網上，說明本作被[愛好者列為](https://zh.wikipedia.org/wiki/愛好者 "wikilink")「黑歷史」的主要原因：
 
 1.  設定80年後遙遠未來，不如《[Macross
@@ -103,7 +103,7 @@ History」已將《超時空要塞II》相關歷史整合納入。
 2.
 
 3.  目前主要有2090年（Macross
-    Ace、[萬代影視](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")）、2091年（30週年Macross超時空展覽會）、2092年（原聲帶vol.2小冊子）三種說法。
+    Ace、[萬代影視](../Page/萬代影視.md "wikilink")）、2091年（30週年Macross超時空展覽會）、2092年（原聲帶vol.2小冊子）三種說法。
 
 4.  富田祐弘『超時空要塞マクロスII』Vo.1 22頁
 

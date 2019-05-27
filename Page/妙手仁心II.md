@@ -593,7 +593,7 @@ Johnson之女友</p></td>
 <td><p>張阿妹之女</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/許思敏" title="wikilink">許思敏</a></p></td>
+<td><p><a href="../Page/許思敏.md" title="wikilink">許思敏</a></p></td>
 <td></td>
 <td><p>病人家屬</p></td>
 </tr>
@@ -697,7 +697,7 @@ Johnson之女友</p></td>
 <td><p>許珮英以前教過的學生</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
 <td><p>Joe</p></td>
 <td></td>
 </tr>

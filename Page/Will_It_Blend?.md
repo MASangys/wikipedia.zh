@@ -1,6 +1,6 @@
 [Tomdickson.jpg](https://zh.wikipedia.org/wiki/File:Tomdickson.jpg "fig:Tomdickson.jpg")
 ***Will It
-Blend?***是一系列30至60秒展示[Blendtec產品線攪拌機能力的](https://zh.wikipedia.org/wiki/Blendtec "wikilink")[資訊型廣告](../Page/資訊型廣告.md "wikilink")，目標為使用Blendtec攪拌機攪碎不同物件。該節目由Blendtec的創辦人、行政總裁兼總工程師湯姆·狄克生（Tom
+Blend?***是一系列30至60秒展示[Blendtec產品線攪拌機能力的](../Page/Blendtec.md "wikilink")[資訊型廣告](../Page/資訊型廣告.md "wikilink")，目標為使用Blendtec攪拌機攪碎不同物件。該節目由Blendtec的創辦人、行政總裁兼總工程師湯姆·狄克生（Tom
 Dickson）主持\[1\]。由於正常家庭都不會拿示範中的東西來攪碎（如玩具、掌上電腦等），在展示攪拌機性能的一方更多程度上是以被攪碎物的荒唐性吸引大眾的注意，因此*Will
 It
 Blend?*被視為[病毒式行銷的一種](../Page/病毒营销.md "wikilink")。儘管許多人並不贊同Blendtec這種形式的廣告，可是自該系列廣告推出後，公司的產品銷量便激增500%。\[2\]

@@ -1,6 +1,6 @@
 **Xbox游戏工作室**（），原名**微軟工作室**（Microsoft Studios）、**微軟遊戲工作室**（Microsoft
 Game Studios）和**微軟遊戲**（Microsoft
-Games），是[微軟的全資子公司](https://zh.wikipedia.org/wiki/微軟 "wikilink")，负责[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[Xbox
+Games），是[微軟的全資子公司](https://zh.wikipedia.org/wiki/微軟 "wikilink")，负责[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[Xbox
 360](../Page/Xbox_360.md "wikilink")、[Xbox
 One多个平台遊戲的](../Page/Xbox_One.md "wikilink")[開發與](https://zh.wikipedia.org/wiki/開發 "wikilink")[發行](https://zh.wikipedia.org/wiki/發行 "wikilink")。Xbox游戏工作室為數個微軟所有的第一方開發商發行遊戲，包括了[Lionhead
 Studios與](../Page/Lionhead_Studios.md "wikilink")[Rare](../Page/Rare.md "wikilink")，亦有發行由如[Bioware與](https://zh.wikipedia.org/wiki/Bioware "wikilink")[Bizarre
@@ -17,8 +17,8 @@ Studios](../Page/Lionhead_Studios.md "wikilink")，他們希望以此加強[Xbox
 微軟工作室在2014年9月15日宣布以25億美元收購當前十分有名的[Minecraft的製作團隊](https://zh.wikipedia.org/wiki/Minecraft "wikilink")[Mojang](../Page/Mojang.md "wikilink")。
 
 在2018年[E3发布会上](https://zh.wikipedia.org/wiki/E3 "wikilink")，微软宣布已收购了四家游戏工作室：（Undead
-Labs）、[游乐场游戏工作室](https://zh.wikipedia.org/wiki/游乐场游戏工作室 "wikilink")
-(Playground Games)、[忍者理论](https://zh.wikipedia.org/wiki/忍者理论 "wikilink")
+Labs）、[游乐场游戏工作室](../Page/游乐场游戏工作室.md "wikilink") (Playground
+Games)、[忍者理论](https://zh.wikipedia.org/wiki/忍者理论 "wikilink")
 (Ninja Theory) 和，\[1\]并成立由前任[晶体动力总监Darrell](../Page/晶体动力.md "wikilink")
 Gallagher领导的新工作室[The
 Initiative](https://zh.wikipedia.org/wiki/The_Initiative "wikilink")。\[2\]
@@ -30,7 +30,7 @@ Initiative](https://zh.wikipedia.org/wiki/The_Initiative "wikilink")。\[2\]
   - **[Rare](../Page/Rare.md "wikilink")** -
     [黄金眼007](../Page/黄金眼007.md "wikilink")、[殺手本能系列](https://zh.wikipedia.org/wiki/殺手本能 "wikilink")，微軟於2002年从[任天堂收购而來](../Page/任天堂.md "wikilink")。
   - **[Turn 10](https://zh.wikipedia.org/wiki/Turn_10 "wikilink")** -
-    [極限競速系列](../Page/極限競速系列.md "wikilink")，微軟於2004年建立的工作室，目的是為[Xbox家族打造出色的競速遊戲](https://zh.wikipedia.org/wiki/Xbox "wikilink")。
+    [極限競速系列](../Page/極限競速系列.md "wikilink")，微軟於2004年建立的工作室，目的是為[Xbox家族打造出色的競速遊戲](../Page/Xbox.md "wikilink")。
   - **[343 Industries](../Page/343_Industries.md "wikilink")** -
     自Bungie獨立之後，設立以開發未來的[最後一戰系列作品的遊戲工作室](../Page/最後一戰系列.md "wikilink")，成立于2007年。
   - **[Launchworks](../Page/Launchworks.md "wikilink")** - 2008年成立。
@@ -38,11 +38,10 @@ Initiative](https://zh.wikipedia.org/wiki/The_Initiative "wikilink")。\[2\]
     接手[战争机器系列](../Page/戰爭機器4.md "wikilink")，微软于2011年收购，当时更名为“微软游戏工作室温哥华”，后在2014年更为现公司名。
   - **[Mojang](../Page/Mojang.md "wikilink")** -
     [我的世界](../Page/我的世界.md "wikilink")，微软于2014年收购。
-  - **[游乐场游戏工作室](https://zh.wikipedia.org/wiki/游乐场游戏工作室 "wikilink")** -
-    [极限竞速
-    地平线系列](https://zh.wikipedia.org/wiki/极限竞速_地平线 "wikilink")，微软于2018年收购。
+  - **[游乐场游戏工作室](../Page/游乐场游戏工作室.md "wikilink")** - [极限竞速
+    地平线系列](../Page/极限竞速_地平线.md "wikilink")，微软于2018年收购。
   - **[忍者理論](../Page/忍者理論.md "wikilink")** -
-    [地狱之刃](https://zh.wikipedia.org/wiki/地狱之刃：塞娜的献祭 "wikilink")、[DmC：惡魔獵人](../Page/DmC：惡魔獵人.md "wikilink")，微软于2018年收购。
+    [地狱之刃](../Page/地狱之刃：塞娜的献祭.md "wikilink")、[DmC：惡魔獵人](../Page/DmC：惡魔獵人.md "wikilink")，微软于2018年收购。
   - **** - 系列，微软于2018年收购。
   - **** - ，微软于2018年收购。
   - **[The
@@ -418,23 +417,19 @@ Initiative](https://zh.wikipedia.org/wiki/The_Initiative "wikilink")。\[2\]
     (1997年) - [Namco](https://zh.wikipedia.org/wiki/Namco "wikilink")
 
   - [王國的興起](https://zh.wikipedia.org/wiki/王國的興起 "wikilink") (2003年) -
-    [Big Huge
-    Games](https://zh.wikipedia.org/wiki/Big_Huge_Games "wikilink")
+    [Big Huge Games](../Page/Big_Huge_Games.md "wikilink")
 
   - [王國的興起：政權保衛戰](https://zh.wikipedia.org/wiki/王國的興起：政權保衛戰 "wikilink")
-    (2004年) - [Big Huge
-    Games](https://zh.wikipedia.org/wiki/Big_Huge_Games "wikilink")
+    (2004年) - [Big Huge Games](../Page/Big_Huge_Games.md "wikilink")
 
   - [王國的興起：傳說再現](../Page/王國的興起：傳說再現.md "wikilink") (2006年) - [Big Huge
-    Games](https://zh.wikipedia.org/wiki/Big_Huge_Games "wikilink")
+    Games](../Page/Big_Huge_Games.md "wikilink")
 
   - [SkiFree](../Page/SkiFree.md "wikilink") (1991年12月31日)
 
   - (2007年) - FASA Studio
 
-  - [Urban
-    Assault](https://zh.wikipedia.org/wiki/Urban_Assault "wikilink")
-    (1998年7月31日) -
+  - [Urban Assault](../Page/Urban_Assault.md "wikilink") (1998年7月31日) -
 
   - [動物園大亨](https://zh.wikipedia.org/wiki/動物園大亨 "wikilink") (2001年) -
     [Blue Fang

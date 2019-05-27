@@ -5,7 +5,7 @@
 
 《最终幻想XII》的PS2版本全球累計銷量為606萬套\[1\]\[2\]。后传《[最终幻想XII
 归来之翼](../Page/最终幻想XII_归来之翼.md "wikilink")》于2007年在[任天堂DS平台推出](../Page/任天堂DS.md "wikilink")。而本作的高清复刻版《最终幻想XII：黄道年代》于2017年7月在PlayStation
-4平台发售，并有支持繁体和简体的中文版\[3\]\[4\]\[5\]；又于2018年2月2日通过[Steam发售了Windows版本](../Page/Steam.md "wikilink")；其后于2019年4月在[任天堂Switch和](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")[Xbox
+4平台发售，并有支持繁体和简体的中文版\[3\]\[4\]\[5\]；又于2018年2月2日通过[Steam发售了Windows版本](../Page/Steam.md "wikilink")；其后于2019年4月在[任天堂Switch和](../Page/任天堂Switch.md "wikilink")[Xbox
 One平台发售](../Page/Xbox_One.md "wikilink")。
 
 ## 玩法
@@ -66,7 +66,7 @@ One平台发售](../Page/Xbox_One.md "wikilink")。
 [Akitoshi_Kawazu_and_Hiroshi_Minagawa.jpg](https://zh.wikipedia.org/wiki/File:Akitoshi_Kawazu_and_Hiroshi_Minagawa.jpg "fig:Akitoshi_Kawazu_and_Hiroshi_Minagawa.jpg")（左）和[皆川裕史](../Page/皆川裕史.md "wikilink")（右），摄于2007年《最终幻想XII》伦敦HMV开幕会\]\]
 [E3_FFXII.jpg](https://zh.wikipedia.org/wiki/File:E3_FFXII.jpg "fig:E3_FFXII.jpg")的宣传\]\]
 
-《最终幻想XII》从2000年12月开始开发，当时由《[最终幻想战略版](../Page/最终幻想战略版.md "wikilink")》总监[松野泰己和](../Page/松野泰己.md "wikilink")《[最终幻想IX](../Page/最终幻想IX.md "wikilink")》总监[伊藤裕之领衔开发](https://zh.wikipedia.org/wiki/伊藤裕之 "wikilink")\[69\]\[70\]\[71\]。松野起先创作原始概念和情节，但开发中途因健康原因辞职\[72\]。开发团队随之调整：伊藤和[皆川裕史二人共同担当新总监](../Page/皆川裕史.md "wikilink")，而[沙加系列制作人](../Page/沙加系列.md "wikilink")[河津秋敏担任执行制作人](../Page/河津秋敏.md "wikilink")\[73\]\[74\]。系列生父[坂口博信对松野的离去表示失望](../Page/坂口博信.md "wikilink")，并称拒玩游戏序章之外的部分\[75\]。
+《最终幻想XII》从2000年12月开始开发，当时由《[最终幻想战略版](../Page/最终幻想战略版.md "wikilink")》总监[松野泰己和](../Page/松野泰己.md "wikilink")《[最终幻想IX](../Page/最终幻想IX.md "wikilink")》总监[伊藤裕之领衔开发](../Page/伊藤裕之.md "wikilink")\[69\]\[70\]\[71\]。松野起先创作原始概念和情节，但开发中途因健康原因辞职\[72\]。开发团队随之调整：伊藤和[皆川裕史二人共同担当新总监](../Page/皆川裕史.md "wikilink")，而[沙加系列制作人](../Page/沙加系列.md "wikilink")[河津秋敏担任执行制作人](../Page/河津秋敏.md "wikilink")\[73\]\[74\]。系列生父[坂口博信对松野的离去表示失望](../Page/坂口博信.md "wikilink")，并称拒玩游戏序章之外的部分\[75\]。
 
 游戏开发伊始就提出了放弃[随机遇敌的想法](https://zh.wikipedia.org/wiki/随机遇敌 "wikilink")\[76\]。这一想法刺激了即时多维战斗系统的开发，即玩家可在战斗和探索场景无缝切换。为推动该变革，策略系统亦在很快诞生\[77\]。战斗系统设计时友松宽称，其逐渐从复杂严格的公式，改向最终版游戏弹性化\[78\]。伊藤策略系统的灵感源自[美式足球的进攻赛](../Page/美式足球.md "wikilink")——各队员根据形势和期望结果，执行特定的工作。
 
@@ -74,7 +74,7 @@ One平台发售](../Page/Xbox_One.md "wikilink")。
 
 游戏设计灵感源自中世纪[地中海国家的不同](../Page/地中海.md "wikilink")，并通过伊瓦莉斯建筑风格和多样的种族来体现\[81\]。艺术团队参观土耳其学习地中海设定风格\[82\]；此外团队还从[印度和](../Page/印度.md "wikilink")[纽约等地借鉴风格和装饰艺术](../Page/纽约.md "wikilink")\[83\]\[84\]。空中都市布耶尔巴会使用[梵文词语](https://zh.wikipedia.org/wiki/梵文 "wikilink")，比如“svagatam”（欢迎）和“parijanah”（导游）就是直接借用梵文。共同艺术总监皆叶英夫与共同艺术总监[上国料勇称团队试图将](../Page/上国料勇.md "wikilink")[阿拉伯文化融入游戏设计](https://zh.wikipedia.org/wiki/阿拉伯文化 "wikilink")\[85\]。游戏的突出主题是战争，开发者确认战斗过场动画借鉴了[古罗马](../Page/古罗马.md "wikilink")\[86\]。对于游戏受到《[星球大战](https://zh.wikipedia.org/wiki/星球大战 "wikilink")》影响的爱好者观点，皆叶回应称，虽然自己也爱好该作品，但游戏设计不见得受之影响\[87\]。
 
-开发初期设定的故事主角是巴修，但在梵和潘妮罗创建后，主角最终转移到他们身上\[88\]。开发团队称，这是因为之前《[放浪冒险谭](../Page/放浪冒险谭.md "wikilink")》“正当年的健壮男”主角并不成功也不叫好；在考虑目标对象后，他们决定将主角从“强大、坚韧”型改成年轻型。电视剧演员[武田航平担任梵配音演员和动作演员](https://zh.wikipedia.org/wiki/武田航平 "wikilink")，使之不显女人味，同时更“活泼、乐观、积极”\[89\]\[90\]。有声音认为，本作角色与背景设计总监[吉田明彦和公司另一角色设计师](https://zh.wikipedia.org/wiki/吉田明彦 "wikilink")[野村哲野有相似之处](https://zh.wikipedia.org/wiki/野村哲野 "wikilink")。吉田认为交集源自二人在角色和环境用色风格上的一致性\[91\]。设计师称，受开发人员对历史之兴趣的影响，非人类角色与种族在游戏中扮演重要地位\[92\]。
+开发初期设定的故事主角是巴修，但在梵和潘妮罗创建后，主角最终转移到他们身上\[88\]。开发团队称，这是因为之前《[放浪冒险谭](../Page/放浪冒险谭.md "wikilink")》“正当年的健壮男”主角并不成功也不叫好；在考虑目标对象后，他们决定将主角从“强大、坚韧”型改成年轻型。电视剧演员[武田航平担任梵配音演员和动作演员](https://zh.wikipedia.org/wiki/武田航平 "wikilink")，使之不显女人味，同时更“活泼、乐观、积极”\[89\]\[90\]。有声音认为，本作角色与背景设计总监[吉田明彦和公司另一角色设计师](../Page/吉田明彦.md "wikilink")[野村哲野有相似之处](https://zh.wikipedia.org/wiki/野村哲野 "wikilink")。吉田认为交集源自二人在角色和环境用色风格上的一致性\[91\]。设计师称，受开发人员对历史之兴趣的影响，非人类角色与种族在游戏中扮演重要地位\[92\]。
 
 生田美和依加入团队时已确定的过场和设定来编写故事。剧本作者[渡边大佑又在生田之上充实脚本](https://zh.wikipedia.org/wiki/渡边大佑 "wikilink")\[93\]。曾参与《放浪冒险谭》和《[最终幻想X](../Page/最终幻想X.md "wikilink")》的[亚历山大·O·史密斯在英文本地化中担任制作人和翻译](https://zh.wikipedia.org/wiki/亚历山大·O·史密斯 "wikilink")\[94\]。他在保持日语脚本背后含义的基础上，采用不同英语方言代替日版发音的区域差异\[95\]\[96\]。他请有剧院工作经验的配音员，力避其他游戏作品的“平读”问题\[97\]。游戏英文化团队新增了16:9[宽屏幕分辨率](https://zh.wikipedia.org/wiki/宽屏幕 "wikilink")，同时恢复因政治因素和[CERO](https://zh.wikipedia.org/wiki/CERO "wikilink")“全年龄”分级而在日版删除的场景\[98\]\[99\]。
 
@@ -89,7 +89,7 @@ One平台发售](../Page/Xbox_One.md "wikilink")。
 
 ### 音乐
 
-游戏配乐多由[崎元仁谱写](../Page/崎元仁.md "wikilink")，[岩田匡治和](https://zh.wikipedia.org/wiki/岩田匡治 "wikilink")[松尾早人各谱写两曲与七曲](https://zh.wikipedia.org/wiki/松尾早人 "wikilink")。2004年从史克威尔艾尼克斯辞职的系列作曲人[植松伸夫仅创作片尾曲](../Page/植松伸夫.md "wikilink")《[Kiss
+游戏配乐多由[崎元仁谱写](../Page/崎元仁.md "wikilink")，[岩田匡治和](../Page/岩田匡治.md "wikilink")[松尾早人各谱写两曲与七曲](https://zh.wikipedia.org/wiki/松尾早人 "wikilink")。2004年从史克威尔艾尼克斯辞职的系列作曲人[植松伸夫仅创作片尾曲](../Page/植松伸夫.md "wikilink")《[Kiss
 Me
 Good-bye](https://zh.wikipedia.org/wiki/Kiss_Me_Good-bye "wikilink")》\[112\]。经验丰富的崎元仁不愿模仿植松的风格，而是自行创作不同的原声\[113\]\[114\]。《Kiss
 Me
@@ -117,7 +117,7 @@ Matsuyama——《最终幻想VII Ultimania
 Ω攻略本》中小说《巡游星海的少女》的作者——的中篇小说\[134\]。《最终幻想XII
 国际版黄道十二宫职业系统》也有专门的《Ultimania》，于2007年9月6日推出\[135\]。2012年12月18日在日本推出的《最终幻想25周年纪念豪华包》收录了本作\[136\]。
 
-[GameStop和](https://zh.wikipedia.org/wiki/GameStop "wikilink")[EB游戏在北美市场销售](https://zh.wikipedia.org/wiki/EB游戏 "wikilink")“收藏者版”\[137\]。该版本除了金属壳包装的游戏外，还赠送一张碟片，内含游戏开发者访谈、插画集、日本和美国的预告片，以及简述既往与预定发行最终幻想游戏的短故事片“最终幻想的历史”\[138\]。史克威尔艾尼克斯制作博客在2007年1月26日，展示了伽布拉斯、艾雪、巴尔弗雷亚和梵的全彩[人偶](https://zh.wikipedia.org/wiki/动态人偶 "wikilink")\[139\]。
+[GameStop和](../Page/GameStop.md "wikilink")[EB游戏在北美市场销售](https://zh.wikipedia.org/wiki/EB游戏 "wikilink")“收藏者版”\[137\]。该版本除了金属壳包装的游戏外，还赠送一张碟片，内含游戏开发者访谈、插画集、日本和美国的预告片，以及简述既往与预定发行最终幻想游戏的短故事片“最终幻想的历史”\[138\]。史克威尔艾尼克斯制作博客在2007年1月26日，展示了伽布拉斯、艾雪、巴尔弗雷亚和梵的全彩[人偶](https://zh.wikipedia.org/wiki/动态人偶 "wikilink")\[139\]。
 
 ## 评价
 
@@ -135,7 +135,7 @@ GameSpot虽然称赞策略和执照系统是新颖而深入的角色控制方式
 执行制作人[河津秋敏对](../Page/河津秋敏.md "wikilink")《Fami通》的评分表示高兴，但他承认游戏并非完美；他认为故事未不满足部分爱好者的期望\[154\]。河津还称[PlayOnline和](../Page/PlayOnline.md "wikilink")《最终幻想战略版》团队成员间有创造性分歧，这是他对故事的无奈与遗憾\[155\]。
 
 GameSpot、GameSpy、IGN等多家媒体将《最终幻想XII》称作2006年度的最佳PlayStation
-2游戏与最佳角色扮演游戏\[156\]\[157\]\[158\]\[159\]。《Edge》和《Fami通》授予《最终幻想XII》2006年年度游戏奖\[160\]\[161\]。本作在2006年度[日本游戏大奖摘得](https://zh.wikipedia.org/wiki/日本游戏大奖 "wikilink")“大奖”和“优秀奖”，以及该年度PlayStation奖的“双白金奖”\[162\]\[163\]\[164\]。游戏因作为“日本原产产品与服务的杰出象征”，入选“新100日本样式”榜单\[165\]\[166\]。《最终幻想XII》还获得不同机构的各类提名。机构如[互动艺术与科学协会](https://zh.wikipedia.org/wiki/互动艺术与科学协会 "wikilink")、[游戏开发者推荐奖](https://zh.wikipedia.org/wiki/游戏开发者推荐奖 "wikilink")、[英国电影和电视艺术学院](../Page/英国电影和电视艺术学院.md "wikilink")、[英国学院电子游戏奖](https://zh.wikipedia.org/wiki/英国学院电子游戏奖 "wikilink")、[Spike电子游戏大奖和](https://zh.wikipedia.org/wiki/Spike电子游戏大奖 "wikilink")[卫星奖](../Page/卫星奖.md "wikilink")，提名项目则涵盖最佳角色扮演游戏、最佳故事、最佳艺术指导、最佳配乐等\[167\]\[168\]\[169\]\[170\]\[171\]。
+2游戏与最佳角色扮演游戏\[156\]\[157\]\[158\]\[159\]。《Edge》和《Fami通》授予《最终幻想XII》2006年年度游戏奖\[160\]\[161\]。本作在2006年度[日本游戏大奖摘得](../Page/日本游戏大奖.md "wikilink")“大奖”和“优秀奖”，以及该年度PlayStation奖的“双白金奖”\[162\]\[163\]\[164\]。游戏因作为“日本原产产品与服务的杰出象征”，入选“新100日本样式”榜单\[165\]\[166\]。《最终幻想XII》还获得不同机构的各类提名。机构如[互动艺术与科学协会](https://zh.wikipedia.org/wiki/互动艺术与科学协会 "wikilink")、[游戏开发者推荐奖](https://zh.wikipedia.org/wiki/游戏开发者推荐奖 "wikilink")、[英国电影和电视艺术学院](../Page/英国电影和电视艺术学院.md "wikilink")、[英国学院电子游戏奖](https://zh.wikipedia.org/wiki/英国学院电子游戏奖 "wikilink")、[Spike电子游戏大奖和](https://zh.wikipedia.org/wiki/Spike电子游戏大奖 "wikilink")[卫星奖](../Page/卫星奖.md "wikilink")，提名项目则涵盖最佳角色扮演游戏、最佳故事、最佳艺术指导、最佳配乐等\[167\]\[168\]\[169\]\[170\]\[171\]。
 
 ### 影响
 

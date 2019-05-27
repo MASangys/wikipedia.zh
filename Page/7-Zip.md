@@ -30,8 +30,7 @@ LGPL下發佈](https://zh.wikipedia.org/wiki/LGPL "wikilink")；加密部份，�
       - WinRAR和基于**7-Zip** LZMA
         SDK的[HaoZip都提供向导式自解压前端](https://zh.wikipedia.org/wiki/HaoZip "wikilink")，而7-zip不支持。
   - 7-Zip有能力解壓縮錯誤檔名的壓縮檔，必要時，可以重新命名檔案
-  - 7-Zip支持
-    [Descript.ion风格的文件注释](https://zh.wikipedia.org/wiki/Descript.ion "wikilink")
+  - 7-Zip支持 [Descript.ion风格的文件注释](../Page/Descript.ion.md "wikilink")
   - 注意：设置所有用户的文件类型关联时，需要管理员权限（右键管理员权限打开）。
 
 ## 版本號的變化

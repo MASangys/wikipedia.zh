@@ -1,4 +1,4 @@
-**G線跨城線慢車**（），又稱**紐約地鐵G線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵系統](../Page/地鐵.md "wikilink")，全長11.4英哩\[1\]。由於該線使用[IND跨城線](https://zh.wikipedia.org/wiki/IND跨城線 "wikilink")，因此其路線徽號為淺綠色\[2\]。
+**G線跨城線慢車**（），又稱**紐約地鐵G線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵系統](../Page/地鐵.md "wikilink")，全長11.4英哩\[1\]。由於該線使用[IND跨城線](../Page/IND跨城線.md "wikilink")，因此其路線徽號為淺綠色\[2\]。
 
 G線任何時候都營運，來往[長島市的](../Page/長島市.md "wikilink")[法庭廣場與](https://zh.wikipedia.org/wiki/法庭廣場車站_\(IND跨城線\) "wikilink")的[教堂大道](https://zh.wikipedia.org/wiki/教堂大道車站_\(IND卡爾弗線\) "wikilink")，停靠全線所有車站。G線是唯一不停靠[曼哈頓的非接駁路線](../Page/曼哈頓.md "wikilink")。此線經常受到服務干擾、班次較疏、甚少免費轉乘其他路線、載客量低，引致途經的鄰里的居民和政客經常批抨此線。自2000年代起，G線也進行了一定改善工程，包括延長至[布魯克林和全線沿途聽證會以解決G線列車的問題](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")。
 
@@ -62,7 +62,7 @@ G線列車在任何時候都在同一條路線上使用相同的服務形式。\
 
 | 路線                                                          | 起點                                                                  | 終點                                                                  | 軌道 |
 | ----------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | -- |
-| [IND跨城線](https://zh.wikipedia.org/wiki/IND跨城線 "wikilink")   | [法庭廣場](https://zh.wikipedia.org/wiki/法庭廣場車站_\(IND跨城線\) "wikilink")  | [霍伊特-歇爾美角街](https://zh.wikipedia.org/wiki/霍伊特-歇爾美角街車站 "wikilink")   | 全部 |
+| [IND跨城線](../Page/IND跨城線.md "wikilink")                      | [法庭廣場](https://zh.wikipedia.org/wiki/法庭廣場車站_\(IND跨城線\) "wikilink")  | [霍伊特-歇爾美角街](https://zh.wikipedia.org/wiki/霍伊特-歇爾美角街車站 "wikilink")   | 全部 |
 | [IND卡爾弗線](https://zh.wikipedia.org/wiki/IND卡爾弗線 "wikilink") | [卑爾根街](https://zh.wikipedia.org/wiki/卑爾根街車站_\(IND卡爾弗線\) "wikilink") | [教堂大道](https://zh.wikipedia.org/wiki/教堂大道車站_\(IND卡爾弗線\) "wikilink") | 慢車 |
 
 ### 車站
@@ -90,7 +90,7 @@ G線列車在任何時候都在同一條路線上使用相同的服務形式。\
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/IND跨城線" title="wikilink">跨城線</a></strong></p></td>
+<td><p><strong><a href="../Page/IND跨城線.md" title="wikilink">跨城線</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -102,7 +102,7 @@ G線列車在任何時候都在同一條路線上使用相同的服務形式。\
 <td><p><a href="https://zh.wikipedia.org/wiki/法庭廣場車站_(IND跨城線)" title="wikilink">法庭廣場</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Aiga_elevator.svg" title="fig:Aiga_elevator.svg">Aiga_elevator.svg</a></p></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>），<a href="https://zh.wikipedia.org/wiki/法庭廣場車站_(IRT法拉盛線)" title="wikilink">法庭廣場</a><br />
+<td><p>（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>），<a href="https://zh.wikipedia.org/wiki/法庭廣場車站_(IRT法拉盛線)" title="wikilink">法庭廣場</a><br />
 （<a href="../Page/IND皇后林蔭路線.md" title="wikilink">IND皇后林蔭路線</a>，<a href="https://zh.wikipedia.org/wiki/法庭廣場-23街車站_(IND皇后林蔭路線)" title="wikilink">法庭廣場-23街</a>）</p></td>
 <td></td>
 </tr>
@@ -228,7 +228,7 @@ G線列車在任何時候都在同一條路線上使用相同的服務形式。\
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡爾洛街車站_(IND卡爾弗線)" title="wikilink">卡爾洛街</a></p></td>
+<td><p><a href="../Page/卡爾洛街車站_(IND卡爾弗線).md" title="wikilink">卡爾洛街</a></p></td>
 <td></td>
 <td></td>
 <td></td>

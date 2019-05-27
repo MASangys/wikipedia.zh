@@ -39,7 +39,7 @@ BeeTV播放內容主要為電視[商業廣告](https://zh.wikipedia.org/wiki/商
 
 但由於台灣摩菲爾國際的壓迫、以及政府官員對於BeeTV的認知與實際公車乘客的認知有所落差，「公車輓歌」系列活動無疾而終。2005年12月19日，[台北市政府交通局以](https://zh.wikipedia.org/wiki/台北市政府交通局 "wikilink")「北市交二字第09435798200號函」回應「公車輓歌」系列活動。
 
-2006年4月29日，公車輓歌的報台、部落格皆關閉。2007年10月18日，[民主進步黨兩位](../Page/民主進步黨.md "wikilink")[台北市議員](https://zh.wikipedia.org/wiki/台北市議員 "wikilink")[李建昌](../Page/李建昌.md "wikilink")、[徐佳青召開記者會](https://zh.wikipedia.org/wiki/徐佳青 "wikilink")，指控台北市政府圖利台灣摩菲爾國際。
+2006年4月29日，公車輓歌的報台、部落格皆關閉。2007年10月18日，[民主進步黨兩位](../Page/民主進步黨.md "wikilink")[台北市議員](https://zh.wikipedia.org/wiki/台北市議員 "wikilink")[李建昌](../Page/李建昌.md "wikilink")、[徐佳青召開記者會](../Page/徐佳青.md "wikilink")，指控台北市政府圖利台灣摩菲爾國際。
 
 ## 參見
 

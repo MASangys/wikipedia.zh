@@ -100,7 +100,7 @@ BY ME 哆啦A夢》，也經典重製此章節。
 ## 參見
 
   - [都市傳奇](https://zh.wikipedia.org/wiki/都市傳奇 "wikilink")
-  - [多啦A夢最終話同人誌問題](https://zh.wikipedia.org/wiki/多啦A夢最終話同人誌問題 "wikilink")
+  - [多啦A夢最終話同人誌問題](../Page/多啦A夢最終話同人誌問題.md "wikilink")
 
 ## 參考文獻
 

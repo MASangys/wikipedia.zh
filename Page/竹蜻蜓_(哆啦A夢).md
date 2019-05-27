@@ -7,7 +7,7 @@
 
 竹蜻蜓是一個橘黃色、外型類似童玩[竹蜻蜓](https://zh.wikipedia.org/wiki/竹蜻蜓 "wikilink")，但底下有圓形底座的物體（前期動畫與電影版戴上後要按按鈕，後期戴上即可立刻使用），內部裝有一個超小[電池](https://zh.wikipedia.org/wiki/電池 "wikilink")。當放置在人體上能夠使之以[時速](https://zh.wikipedia.org/wiki/時速 "wikilink")80[公里連續在空中](../Page/公里.md "wikilink")[飛行](https://zh.wikipedia.org/wiki/飛行 "wikilink")8[小時](https://zh.wikipedia.org/wiki/小時 "wikilink")\[2\]（某些情況是4小時）。如果是飛一會兒休息一會兒的話，電池就能夠維持更長的時間，飛行距離也更遠。
 
-使用時可隨使用者想法以任何方向與動作任意飛行，也可在[天上或](../Page/天空.md "wikilink")[海裡使用](https://zh.wikipedia.org/wiki/海 "wikilink")。但是在某些片段，沒電時休息20個小時還可繼續使用。
+使用時可隨使用者想法以任何方向與動作任意飛行，也可在[天上或](../Page/天空.md "wikilink")[海裡使用](../Page/海.md "wikilink")。但是在某些片段，沒電時休息20個小時還可繼續使用。
 
 使用竹蜻蜓需要經過一定的練習，此外、即使不是安裝在頭頂上也能使用。
 

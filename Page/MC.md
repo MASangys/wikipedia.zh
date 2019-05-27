@@ -10,8 +10,7 @@
 
   - [萬事達卡](https://zh.wikipedia.org/wiki/萬事達卡 "wikilink")（MasterCard），一个美国纽约证券交易所上市的有限公司及其发行的万事达信用卡、借记卡
 
-  - [瑪麗亞·凱莉](https://zh.wikipedia.org/wiki/瑪麗亞·凱莉 "wikilink")（Mariah
-    Carey），美國女歌手
+  - [瑪麗亞·凱莉](../Page/瑪麗亞·凱莉.md "wikilink")（Mariah Carey），美國女歌手
 
   - ，美国女歌手
 
@@ -40,8 +39,7 @@
 
   - 《[我的世界](../Page/我的世界.md "wikilink")》（minecraft）的英語縮寫，一款沙盒建造类独立游戏。
 
-  - [Media
-    Create](https://zh.wikipedia.org/wiki/Media_Create "wikilink")，日本市场调查与数据分析公司。
+  - [Media Create](../Page/Media_Create.md "wikilink")，日本市场调查与数据分析公司。
 
   - [多人战役](https://zh.wikipedia.org/wiki/多人战役 "wikilink")（Multiplayer
     Campaign）

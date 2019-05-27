@@ -280,7 +280,7 @@
 #### 電車GO\!EX
 
   -
-    此作是[TAKARA在](https://zh.wikipedia.org/wiki/TAKARA "wikilink")1998年10月1日於[世嘉土星上發售的](../Page/世嘉土星.md "wikilink")[PlayStation移植版本](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。內容基本上與Play
+    此作是[TAKARA在](https://zh.wikipedia.org/wiki/TAKARA "wikilink")1998年10月1日於[世嘉土星上發售的](../Page/世嘉土星.md "wikilink")[PlayStation移植版本](../Page/PlayStation.md "wikilink")。內容基本上與Play
     Station版本一樣。而此版本增加了於下雪運行的「Snow模式」，於此模式下駕駛的列車的制動性能會大幅度降低；以及各路線的「EX模式」。
     此外此版本下之[山陰本線增加了Play](../Page/山陰本線.md "wikilink")
     Station版本沒有的[嵯峨嵐山](https://zh.wikipedia.org/wiki/嵯峨嵐山站 "wikilink")～[丹波口的路段](../Page/丹波口站.md "wikilink")。但是此作由於把多邊形處理度大幅度降低，以及有貼圖錯誤等等問題（例如車頭貼圖會反轉等），故此作普遍評價並不高。
@@ -364,7 +364,7 @@
   -
 
       -
-        **[篠栗線](https://zh.wikipedia.org/wiki/篠栗線 "wikilink")**——[篠栗](https://zh.wikipedia.org/wiki/篠栗站 "wikilink")—[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink")
+        **[篠栗線](../Page/篠栗線.md "wikilink")**——[篠栗](https://zh.wikipedia.org/wiki/篠栗站 "wikilink")—[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink")
           -
             使用車輛：[Kiha66系](https://zh.wikipedia.org/wiki/日本國鐵Kiha66系柴油動車組 "wikilink")（キハ66系）、[Kiha58系](https://zh.wikipedia.org/wiki/日本國鐵Kiha58系柴油動車組 "wikilink")（キハ58系）、[Kiha200系](https://zh.wikipedia.org/wiki/JR九州Kiha200系柴油動車組 "wikilink")（キハ200系）
         **[鹿兒島本線](../Page/鹿兒島本線.md "wikilink")**
@@ -458,7 +458,7 @@
             [200系](../Page/新幹線200系電聯車.md "wikilink")、[E1系](https://zh.wikipedia.org/wiki/新幹線E1系電車 "wikilink")、[E2系](https://zh.wikipedia.org/wiki/新幹線E2系電車 "wikilink")、[E3系](https://zh.wikipedia.org/wiki/新幹線E3系電車 "wikilink")、[E4系](https://zh.wikipedia.org/wiki/新幹線E4系電車 "wikilink")（[盛岡](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")—[新花-{卷}-部分](https://zh.wikipedia.org/wiki/新花卷站 "wikilink")）
         **[北越急行](../Page/北越急行.md "wikilink")[北北線](../Page/北北線.md "wikilink")**——[直江津](../Page/直江津站.md "wikilink")—[十日町](../Page/十日町站.md "wikilink")—[六日町](../Page/六日町站.md "wikilink")—[越後湯澤](https://zh.wikipedia.org/wiki/越後湯澤站 "wikilink")
           -
-            使用車輛：[HK100](../Page/北越急行HK100型電力動車組.md "wikilink")、[115系](https://zh.wikipedia.org/wiki/日本國鐵115系電力動車組 "wikilink")、[181系](../Page/日本國鐵181系電力動車組.md "wikilink")「朱鹮12號」、[485系](../Page/日本國鐵485系電力動車組.md "wikilink")「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")（はくたか）」、[485系3000番台](../Page/日本國鐵485系電力動車組.md "wikilink")「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")」、[583系](https://zh.wikipedia.org/wiki/日本國鐵583系電力動車組 "wikilink")、[681系](https://zh.wikipedia.org/wiki/JR西日本681系電力動車組 "wikilink")「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")」、[681系2000番台](https://zh.wikipedia.org/wiki/JR西日本681系電力動車組 "wikilink")「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")」
+            使用車輛：[HK100](../Page/北越急行HK100型電力動車組.md "wikilink")、[115系](../Page/日本國鐵115系電力動車組.md "wikilink")、[181系](../Page/日本國鐵181系電力動車組.md "wikilink")「朱鹮12號」、[485系](../Page/日本國鐵485系電力動車組.md "wikilink")「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")（はくたか）」、[485系3000番台](../Page/日本國鐵485系電力動車組.md "wikilink")「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")」、[583系](https://zh.wikipedia.org/wiki/日本國鐵583系電力動車組 "wikilink")、[681系](https://zh.wikipedia.org/wiki/JR西日本681系電力動車組 "wikilink")「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")」、[681系2000番台](https://zh.wikipedia.org/wiki/JR西日本681系電力動車組 "wikilink")「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")」
         **[山手線](../Page/山手線.md "wikilink")**——[澀谷](https://zh.wikipedia.org/wiki/澀谷站 "wikilink")—[東京](https://zh.wikipedia.org/wiki/東京站 "wikilink")—[上野](https://zh.wikipedia.org/wiki/上野站 "wikilink")（[東京](https://zh.wikipedia.org/wiki/東京站 "wikilink")—[上野部分使用](https://zh.wikipedia.org/wiki/上野站 "wikilink")[京濱東北線路軌](../Page/京濱東北線.md "wikilink")）
           -
             使用車輛：[103系](../Page/日本國鐵103系電力動車組.md "wikilink")、[205系](../Page/日本國鐵205系電力動車組.md "wikilink")
@@ -564,13 +564,13 @@
         <small>註：於收錄當時（2002年）**[東京臨海高速鐵道臨海線](../Page/臨海線_\(東京臨海高速鐵道\).md "wikilink")**並未伸延至[大崎](../Page/大崎站.md "wikilink")、全列車於此站通過</small>
           -
             使用車輛：
-            [211系](../Page/日本國鐵211系電力動車組.md "wikilink")、[215系](../Page/JR東日本215系電力動車組.md "wikilink")、[251系](https://zh.wikipedia.org/wiki/JR東日本251系電力動車組 "wikilink")、[E217系](../Page/JR東日本E217系電力動車組.md "wikilink")、[E231系列車](../Page/JR東日本E231系電力動車組.md "wikilink")
+            [211系](../Page/日本國鐵211系電力動車組.md "wikilink")、[215系](../Page/JR東日本215系電力動車組.md "wikilink")、[251系](../Page/JR東日本251系電力動車組.md "wikilink")、[E217系](../Page/JR東日本E217系電力動車組.md "wikilink")、[E231系列車](../Page/JR東日本E231系電力動車組.md "wikilink")
         **[鶴見線](../Page/鶴見線.md "wikilink")**——
         [鶴見](../Page/鶴見站.md "wikilink")—[扇町](https://zh.wikipedia.org/wiki/扇町站 "wikilink")（本線）、[鶴見](../Page/鶴見站.md "wikilink")—[大川](https://zh.wikipedia.org/wiki/大川站 "wikilink")（大川支線）、[鶴見](../Page/鶴見站.md "wikilink")—[海芝浦](../Page/海芝浦站.md "wikilink")（海芝浦支線）
           -
             使用車輛：
             103系／kumoha12形（クモハ12形）
-        **[湖西線](../Page/湖西線.md "wikilink")**（[北陸本線](../Page/北陸本線.md "wikilink")／[湖西線](../Page/湖西線.md "wikilink")／[東海道本線](../Page/東海道本線.md "wikilink")）——[敦賀](https://zh.wikipedia.org/wiki/敦賀站 "wikilink")—[近江鹽津](https://zh.wikipedia.org/wiki/近江鹽津站 "wikilink")—[山科](https://zh.wikipedia.org/wiki/山科站 "wikilink")—[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")
+        **[湖西線](../Page/湖西線.md "wikilink")**（[北陸本線](../Page/北陸本線.md "wikilink")／[湖西線](../Page/湖西線.md "wikilink")／[東海道本線](../Page/東海道本線.md "wikilink")）——[敦賀](../Page/敦賀站.md "wikilink")—[近江鹽津](https://zh.wikipedia.org/wiki/近江鹽津站 "wikilink")—[山科](https://zh.wikipedia.org/wiki/山科站 "wikilink")—[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")
           -
             使用車輛：
             [113系](../Page/日本國鐵113系電力動車組.md "wikilink")（L編成）、117系、201系、207系、221系（A編成）、
@@ -605,11 +605,11 @@
         **[中央線](https://zh.wikipedia.org/wiki/中央線 "wikilink")**（中央快速線）——
         [東京](https://zh.wikipedia.org/wiki/東京站 "wikilink")—[三鷹](../Page/三鷹站.md "wikilink")—[八王子](../Page/八王子站.md "wikilink")—[高尾上下行](https://zh.wikipedia.org/wiki/高尾站_\(東京都\) "wikilink")
           -
-            使用車輛：[115系](https://zh.wikipedia.org/wiki/日本國鐵115系電力動車組 "wikilink")、[183系](https://zh.wikipedia.org/wiki/日本國鐵183系電力動車組 "wikilink")、[201系](../Page/日本國鐵201系電力動車組.md "wikilink")、[253系](../Page/JR東日本253系電力動車組.md "wikilink")、[E257系](https://zh.wikipedia.org/wiki/JR東日本E257系電力動車組 "wikilink")、[E351系](../Page/JR東日本E351系電力動車組.md "wikilink")
+            使用車輛：[115系](../Page/日本國鐵115系電力動車組.md "wikilink")、[183系](https://zh.wikipedia.org/wiki/日本國鐵183系電力動車組 "wikilink")、[201系](../Page/日本國鐵201系電力動車組.md "wikilink")、[253系](../Page/JR東日本253系電力動車組.md "wikilink")、[E257系](https://zh.wikipedia.org/wiki/JR東日本E257系電力動車組 "wikilink")、[E351系](../Page/JR東日本E351系電力動車組.md "wikilink")
         **[大阪環狀線](../Page/大阪環狀線.md "wikilink")**——內／外圈全線（[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")—[天王寺](../Page/天王寺站.md "wikilink")—[京橋](https://zh.wikipedia.org/wiki/京橋站_\(大阪府\) "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")）
           -
             使用車輛：[103系](../Page/日本國鐵103系電力動車組.md "wikilink")、[221系](https://zh.wikipedia.org/wiki/JR西日本221系電力動車組 "wikilink")、[223系0番台](../Page/JR西日本223系電力動車組.md "wikilink")
-        **[東海道本線](../Page/東海道本線.md "wikilink")**——[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")—[高槻](https://zh.wikipedia.org/wiki/高槻站 "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")—[神戶上下行](../Page/神戶站_\(兵庫縣\).md "wikilink")
+        **[東海道本線](../Page/東海道本線.md "wikilink")**——[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")—[高槻](../Page/高槻站.md "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")—[神戶上下行](../Page/神戶站_\(兵庫縣\).md "wikilink")
           -
             使用車輛：
             [201系](../Page/日本國鐵201系電力動車組.md "wikilink")、[205系](../Page/日本國鐵205系電力動車組.md "wikilink")、[207系](../Page/日本國鐵207系電力動車組.md "wikilink")、[221系](https://zh.wikipedia.org/wiki/JR西日本221系電力動車組 "wikilink")、[223系](../Page/JR西日本223系電力動車組.md "wikilink")、

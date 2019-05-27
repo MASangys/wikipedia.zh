@@ -27,7 +27,7 @@ SK-II本是蜜絲佛陀的子公司，其後蜜絲佛陀市佔率萎縮，賣了
   - [李沇熹](https://zh.wikipedia.org/wiki/李沇熹 "wikilink")
   - [劉智泰](../Page/劉智泰.md "wikilink")
   - [有村架純](../Page/有村架純.md "wikilink")
-  - [桃井薰](https://zh.wikipedia.org/wiki/桃井薰 "wikilink")
+  - [桃井薰](../Page/桃井薰.md "wikilink")
 
 ## 爭議
 

@@ -698,7 +698,7 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
     [保志總一朗](../Page/保志總一朗.md "wikilink")
       - 1年1組，隸屬足球部。
   - [德川家康](../Page/德川家康.md "wikilink") -
-    [增田俊樹](https://zh.wikipedia.org/wiki/增田俊樹 "wikilink")
+    [增田俊樹](../Page/增田俊樹.md "wikilink")
       - 1年2組。現在，由於前學生会長（秀吉）被解職，目前正在競選新会長。
   - [石田三成](../Page/石田三成.md "wikilink") -
     [關智一](../Page/關智一.md "wikilink")
@@ -805,7 +805,7 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
     作詞：君島零，作曲：遠藤和斗、深澤祐貴，編曲：遠藤和斗、久下真音，主唱：EIGHT OF TRIANGLE
   - 片尾曲『Be Affected』\[4\]
     作詞、作曲、編曲：[Fear, and Loathing in Las
-    Vegas](https://zh.wikipedia.org/wiki/Fear,_and_Loathing_in_Las_Vegas "wikilink")，主唱：[西川貴教與Fear](https://zh.wikipedia.org/wiki/西川貴教 "wikilink"),
+    Vegas](../Page/Fear,_and_Loathing_in_Las_Vegas.md "wikilink")，主唱：[西川貴教與Fear](https://zh.wikipedia.org/wiki/西川貴教 "wikilink"),
     and Loathing in Las Vegas
 
 ##### 各話列表（學園）
@@ -850,7 +850,7 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
 <hr />
 <p>惡之花道</p></td>
 <td><p>福嶋幸典</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/真野玲" title="wikilink">真野玲</a></p></td>
+<td><p><a href="../Page/真野玲.md" title="wikilink">真野玲</a></p></td>
 <td><p>新保卓郎</p></td>
 <td></td>
 </tr>

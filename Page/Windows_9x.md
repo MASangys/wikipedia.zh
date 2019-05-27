@@ -275,7 +275,7 @@ Windows
 95中有两个角色：一，为引导加载器；二，为16位旧式设备驱动层。
 
 当Windows
-95启动时，MS-DOS加载、处理CONFIG.SYS、启动COMMAND.COM、执行AUTOEXEC.BAT，最后执行WIN.COM。WIN.COM程序利用MS-DOS来加载虚拟机管理器、读取SYSTEM.INI、加载虚拟设备驱动程序、关闭任何运行的EMM386副本并切换到保护模式。一旦在保护模式下，虚拟设备驱动程序（[VxD](https://zh.wikipedia.org/wiki/VxD "wikilink")）将传送所有MS-DOS的状态信息到32位文件系统管理器，并关闭MS-DOS。这些VxD允许Windows
+95启动时，MS-DOS加载、处理CONFIG.SYS、启动COMMAND.COM、执行AUTOEXEC.BAT，最后执行WIN.COM。WIN.COM程序利用MS-DOS来加载虚拟机管理器、读取SYSTEM.INI、加载虚拟设备驱动程序、关闭任何运行的EMM386副本并切换到保护模式。一旦在保护模式下，虚拟设备驱动程序（[VxD](../Page/VxD.md "wikilink")）将传送所有MS-DOS的状态信息到32位文件系统管理器，并关闭MS-DOS。这些VxD允许Windows
 9x直接与硬件资源交互，就像提供了底层功能，譬如32位硬盘访问及内存管理。接下来的文件系统操作将会转送到32位文件系统管理器。
 
 在[Windows

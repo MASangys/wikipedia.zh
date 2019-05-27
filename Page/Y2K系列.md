@@ -161,7 +161,7 @@ Y2K**），講述幾名從事設計事業的年輕人，為了尋找創作空間
 
   - [談善言](../Page/談善言.md "wikilink") 飾 談善言（車神）
 
-  - [李任燊](https://zh.wikipedia.org/wiki/李任燊 "wikilink") 飾 Kyle（任總）
+  - [李任燊](../Page/李任燊.md "wikilink") 飾 Kyle（任總）
 
   - [麥芷誼](../Page/麥芷誼.md "wikilink") 飾 Koyi（爆樽）
 

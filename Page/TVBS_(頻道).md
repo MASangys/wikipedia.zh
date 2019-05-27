@@ -39,7 +39,7 @@
 | 節目名稱                                                                | 主持人                                                                                     | 備註                                           |
 | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------- |
 | [Today正經話](https://zh.wikipedia.org/wiki/Today正經話 "wikilink")       | [夏嘉璐](../Page/夏嘉璐.md "wikilink")                                                        | 已停播                                          |
-| [少康戰情室](https://zh.wikipedia.org/wiki/少康戰情室 "wikilink")             | [趙少康](../Page/趙少康.md "wikilink")                                                        |                                              |
+| [少康戰情室](../Page/少康戰情室.md "wikilink")                                | [趙少康](../Page/趙少康.md "wikilink")                                                        |                                              |
 | [少康會客室](../Page/少康會客室.md "wikilink")                                | 已停播                                                                                     |                                              |
 | [TVBS看板人物](https://zh.wikipedia.org/wiki/TVBS看板人物 "wikilink")       | [方念華](../Page/方念華.md "wikilink")                                                        |                                              |
 | [全球進行式](https://zh.wikipedia.org/wiki/全球進行式 "wikilink")             | [廖芳潔](https://zh.wikipedia.org/wiki/廖芳潔 "wikilink")                                     |                                              |
@@ -52,7 +52,7 @@
 | [讚聲大國民](../Page/讚聲大國民.md "wikilink")                                | [蘇宗怡](https://zh.wikipedia.org/wiki/蘇宗怡 "wikilink")                                     |                                              |
 | [地球黃金線](../Page/地球黃金線.md "wikilink")                                | 前主持[廖盈婷與](../Page/廖盈婷.md "wikilink")[劉姿霖](https://zh.wikipedia.org/wiki/劉姿霖 "wikilink") |                                              |
 | [宅男的世界](https://zh.wikipedia.org/wiki/宅男的世界 "wikilink")             | [蔡宜靜](https://zh.wikipedia.org/wiki/蔡宜靜 "wikilink")、[凱開](../Page/賴世凱.md "wikilink")     | 已停播                                          |
-| [背包客來寮](https://zh.wikipedia.org/wiki/背包客來寮 "wikilink")             | [劉道玄](https://zh.wikipedia.org/wiki/劉道玄 "wikilink")                                     |                                              |
+| [背包客來寮](https://zh.wikipedia.org/wiki/背包客來寮 "wikilink")             | [劉道玄](../Page/劉道玄.md "wikilink")                                                        |                                              |
 | [TVBS國民大會](https://zh.wikipedia.org/wiki/TVBS國民大會 "wikilink")       | [于美人](../Page/于美人.md "wikilink")                                                        |                                              |
 | [星鮮話](https://zh.wikipedia.org/wiki/星鮮話 "wikilink")                 | [郭靜](../Page/郭靜.md "wikilink")                                                          | 改由[TVBS歡樂台播出](../Page/TVBS歡樂台.md "wikilink") |
 |                                                                     |                                                                                         |                                              |
@@ -63,7 +63,7 @@
 
   - 《[錢線新聞](https://zh.wikipedia.org/wiki/錢線新聞 "wikilink")》：[秦綾謙播報](../Page/秦綾謙.md "wikilink")。
   - 《[善耕台灣](https://zh.wikipedia.org/wiki/善耕台灣 "wikilink")》：[李濤主持](../Page/李濤_\(臺灣\).md "wikilink")。
-  - 《[TVBS晚間新聞](https://zh.wikipedia.org/wiki/TVBS晚間新聞 "wikilink")》：[張雅琴](../Page/張雅琴.md "wikilink")、[詹怡宜](../Page/詹怡宜.md "wikilink")、[蘇逸洪](../Page/蘇逸洪.md "wikilink")、[詹慶齡](../Page/詹慶齡.md "wikilink")、[李四端](../Page/李四端.md "wikilink")、[岑永康](../Page/岑永康.md "wikilink")、[謝向榮](../Page/謝向榮.md "wikilink")、[蕭子新](https://zh.wikipedia.org/wiki/蕭子新 "wikilink")、[莊開文播報](../Page/莊開文.md "wikilink")。
+  - 《[TVBS晚間新聞](https://zh.wikipedia.org/wiki/TVBS晚間新聞 "wikilink")》：[張雅琴](../Page/張雅琴.md "wikilink")、[詹怡宜](../Page/詹怡宜.md "wikilink")、[蘇逸洪](../Page/蘇逸洪.md "wikilink")、[詹慶齡](../Page/詹慶齡.md "wikilink")、[李四端](../Page/李四端.md "wikilink")、[岑永康](../Page/岑永康.md "wikilink")、[謝向榮](../Page/謝向榮.md "wikilink")、[蕭子新](../Page/蕭子新.md "wikilink")、[莊開文播報](../Page/莊開文.md "wikilink")。
   - 《[TVBS哈新聞](../Page/TVBS哈新聞.md "wikilink")》：[翁滋蔓](../Page/翁滋蔓.md "wikilink")、[張嘉雲主持](../Page/張嘉雲.md "wikilink")。
   - 《[TVBS創富報導](https://zh.wikipedia.org/wiki/TVBS創富報導 "wikilink")》：[黃斐瑜](../Page/黃斐瑜.md "wikilink")、[黃洛婷](https://zh.wikipedia.org/wiki/黃洛婷 "wikilink")、[李岱娟](https://zh.wikipedia.org/wiki/李岱娟 "wikilink")、[王慧文](https://zh.wikipedia.org/wiki/王慧文 "wikilink")、[林婉婷播報](https://zh.wikipedia.org/wiki/林婉婷 "wikilink")。（轉型為創富新聞）
   - 《TVBS錢線新聞》
@@ -73,7 +73,7 @@
   - 《[午間台語新聞](https://zh.wikipedia.org/wiki/午間台語新聞 "wikilink")》：[蘇逸洪](../Page/蘇逸洪.md "wikilink")、[詹慶齡](../Page/詹慶齡.md "wikilink")、[蘇宗怡](https://zh.wikipedia.org/wiki/蘇宗怡 "wikilink")、[張婯嬅](../Page/張婯嬅.md "wikilink")、[陳雅琳播報](../Page/陳雅琳.md "wikilink")。
   - 《[TVBS創富新聞](https://zh.wikipedia.org/wiki/TVBS創富新聞 "wikilink")》：[黃斐瑜](../Page/黃斐瑜.md "wikilink")、[蔡宜靜播報](https://zh.wikipedia.org/wiki/蔡宜靜 "wikilink")。
   - 《[台灣是我家](../Page/台灣是我家.md "wikilink")》：2014年4月5日開播，由[吳安琪](../Page/吳安琪.md "wikilink")、[李文儀主持](../Page/李文儀.md "wikilink")。
-  - 《[背包客來尞](https://zh.wikipedia.org/wiki/背包客來尞 "wikilink")》：2015年10月24日開播，由[劉道玄主持](https://zh.wikipedia.org/wiki/劉道玄 "wikilink")。
+  - 《[背包客來尞](https://zh.wikipedia.org/wiki/背包客來尞 "wikilink")》：2015年10月24日開播，由[劉道玄主持](../Page/劉道玄.md "wikilink")。
   - 《[宅男的世界](https://zh.wikipedia.org/wiki/宅男的世界 "wikilink")》：2016年3月14日開播，由[蘇宗怡主持](https://zh.wikipedia.org/wiki/蘇宗怡 "wikilink")。
 
 ### 談話節目
@@ -81,7 +81,7 @@
   - 《[真情指數](https://zh.wikipedia.org/wiki/真情指數 "wikilink")》：[蔡康永主持](../Page/蔡康永.md "wikilink")。
   - 《[新聞夜總會](../Page/新聞夜總會.md "wikilink")》：[李艷秋主持](https://zh.wikipedia.org/wiki/李艷秋 "wikilink")。
   - 《[2100全民開講](../Page/2100全民開講.md "wikilink")》：[李濤主持](https://zh.wikipedia.org/wiki/李濤 "wikilink")。
-  - 《[2100黑白相對論](https://zh.wikipedia.org/wiki/2100黑白相對論 "wikilink")》
+  - 《[2100黑白相對論](../Page/2100黑白相對論.md "wikilink")》
   - 《[TVBS創富人生](https://zh.wikipedia.org/wiki/TVBS創富人生 "wikilink")》：[林婉婷](https://zh.wikipedia.org/wiki/林婉婷 "wikilink")、[王慧文主持](https://zh.wikipedia.org/wiki/王慧文 "wikilink")。（轉型為創富新聞）
   - 《[麗文正經話](../Page/麗文正經話.md "wikilink")》：2014年3月17日開播（前身為《Today正經話》），由[鄭麗文固定主持](../Page/鄭麗文.md "wikilink")。
   - 《[少康會客室](../Page/少康會客室.md "wikilink")》：2015年9月28日開播，由[趙少康主持](../Page/趙少康.md "wikilink")。

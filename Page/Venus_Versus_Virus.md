@@ -180,7 +180,7 @@ Vangand」的傳單。
 <td><p>3</p></td>
 <td></td>
 <td><p>委託的情形</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鴻野貴光" title="wikilink">鴻野貴光</a></p></td>
+<td><p><a href="../Page/鴻野貴光.md" title="wikilink">鴻野貴光</a></p></td>
 <td><p>木村真一郎</p></td>
 <td><p>左藤洋二</p></td>
 <td><p>山田勝、山門郁夫</p></td>
@@ -254,7 +254,7 @@ Vangand」的傳單。
 <td><p>10</p></td>
 <td></td>
 <td><p>誤會的目標</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岡本英樹" title="wikilink">岡本英樹</a></p></td>
+<td><p><a href="../Page/岡本英樹.md" title="wikilink">岡本英樹</a></p></td>
 <td><p>中村圭三</p></td>
 <td><p>宇都木勇、梶浦紳一郎</p></td>
 <td><p>岩佐とも子</p></td>
@@ -347,7 +347,7 @@ Works發售](../Page/Frontier_Works.md "wikilink")。\[4\]
 
   - 名橋露琪亞：[生天目仁美](../Page/生天目仁美.md "wikilink")
   - 鷹花堇：[佐藤利奈](../Page/佐藤利奈.md "wikilink")
-  - 名橋總一郎：[大木民夫](https://zh.wikipedia.org/wiki/大木民夫 "wikilink")
+  - 名橋總一郎：[大木民夫](../Page/大木民夫.md "wikilink")
   - 美佳：[野中藍](../Page/野中藍.md "wikilink")
   - 京子：[加藤英美里](../Page/加藤英美里.md "wikilink")
   - 靜：[阪田佳代](../Page/阪田佳代.md "wikilink")

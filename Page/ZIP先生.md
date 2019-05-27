@@ -1,5 +1,5 @@
 [UseZipCode.JPG](https://zh.wikipedia.org/wiki/File:UseZipCode.JPG "fig:UseZipCode.JPG")
-**ZIP先生**（），或暱稱「」，是[美國郵政部在](https://zh.wikipedia.org/wiki/美國郵政部 "wikilink")1960年代用作向公眾推廣使用[ZIP編號的一個](../Page/美國郵區編號.md "wikilink")[卡通人物](https://zh.wikipedia.org/wiki/卡通人物 "wikilink")。到1970年代，美國郵政部的後繼者[美國郵政服務亦繼續使用ZIP先生來推廣ZIP編號](https://zh.wikipedia.org/wiki/美國郵政服務 "wikilink")。
+**ZIP先生**（），或暱稱「」，是[美國郵政部在](../Page/美國郵政部.md "wikilink")1960年代用作向公眾推廣使用[ZIP編號的一個](../Page/美國郵區編號.md "wikilink")[卡通人物](https://zh.wikipedia.org/wiki/卡通人物 "wikilink")。到1970年代，美國郵政部的後繼者[美國郵政服務亦繼續使用ZIP先生來推廣ZIP編號](https://zh.wikipedia.org/wiki/美國郵政服務 "wikilink")。
 
 ## 歷史
 

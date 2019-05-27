@@ -59,8 +59,7 @@ Garden的](../Page/Elements_Garden.md "wikilink")[上松範康](../Page/上松�
 
 <!-- end list -->
 
-  - **查克・普雷斯頓** (Chuck
-    Preston)　配音員：[花輪英司](https://zh.wikipedia.org/wiki/花輪英司 "wikilink")
+  - **查克・普雷斯頓** (Chuck Preston)　配音員：[花輪英司](../Page/花輪英司.md "wikilink")
 
 <!-- end list -->
 

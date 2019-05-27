@@ -57,7 +57,7 @@ Syst**em**）。2007年11月，Rotem更名為現代Rotem。2013年10月30日，�
   - [台鐵EMU600型電聯車](../Page/台鐵EMU600型電聯車.md "wikilink")
   - [台鐵推拉式自強號車廂](https://zh.wikipedia.org/wiki/台鐵推拉式自強號 "wikilink")
   - [KTX-II](https://zh.wikipedia.org/wiki/KTX-II "wikilink")
-  - [台鐵EMU900型電聯車](https://zh.wikipedia.org/wiki/台鐵EMU900型電聯車 "wikilink")
+  - [台鐵EMU900型電聯車](../Page/台鐵EMU900型電聯車.md "wikilink")
 
 ## 外部連結
 

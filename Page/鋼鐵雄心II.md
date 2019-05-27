@@ -33,7 +33,7 @@ Doomsday)，加入了[第三次世界大战剧情及编辑器](https://zh.wikipe
 
 玩家作为国家的元首，可以自由更换部长。部长一般都有某项加成，这需要玩家自己掌握。有内阁成员国家元首、政府首脑、外交部长、军械部长、安全部长、情报部长、参谋总长、陆军司令、海军司令和空军司令等。
 
-国家意识形态有[国家社会主义](../Page/国家社会主义.md "wikilink")、[法西斯主义](../Page/法西斯主义.md "wikilink")、[独裁主义](https://zh.wikipedia.org/wiki/独裁主义 "wikilink")、[左翼激进主义](https://zh.wikipedia.org/wiki/左翼激进主义 "wikilink")、[列宁主义](../Page/列宁主义.md "wikilink")、[斯大林主义](../Page/斯大林主义.md "wikilink")、[社会保守主义](https://zh.wikipedia.org/wiki/社会保守主义 "wikilink")、[贸易自由主义](https://zh.wikipedia.org/wiki/贸易自由主义 "wikilink")、[社会自由主义和](../Page/社会自由主义.md "wikilink")[社会民主主义](https://zh.wikipedia.org/wiki/社会民主主义 "wikilink")。某些过于民主的主义不能够加入任何一军事联盟，除非有足够高的战争倾向，例如芬兰等。
+国家意识形态有[国家社会主义](../Page/国家社会主义.md "wikilink")、[法西斯主义](../Page/法西斯主义.md "wikilink")、[独裁主义](https://zh.wikipedia.org/wiki/独裁主义 "wikilink")、[左翼激进主义](https://zh.wikipedia.org/wiki/左翼激进主义 "wikilink")、[列宁主义](../Page/列宁主义.md "wikilink")、[斯大林主义](../Page/斯大林主义.md "wikilink")、[社会保守主义](../Page/社会保守主义.md "wikilink")、[贸易自由主义](https://zh.wikipedia.org/wiki/贸易自由主义 "wikilink")、[社会自由主义和](../Page/社会自由主义.md "wikilink")[社会民主主义](https://zh.wikipedia.org/wiki/社会民主主义 "wikilink")。某些过于民主的主义不能够加入任何一军事联盟，除非有足够高的战争倾向，例如芬兰等。
 
 [minofROC.png](https://zh.wikipedia.org/wiki/File:minofROC.png "fig:minofROC.png")
 

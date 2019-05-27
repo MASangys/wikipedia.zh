@@ -3,7 +3,7 @@ Stadium」（）經營，座席數2092席的[劇場](https://zh.wikipedia.org/wi
 
 此劇場有『演歌的殿堂』之稱，表演項目有[北島三郎](https://zh.wikipedia.org/wiki/北島三郎 "wikilink")、[小林幸子](../Page/小林幸子.md "wikilink")、[冰川清志等](../Page/冰川清志.md "wikilink")[演歌歌手的特別公演](../Page/演歌.md "wikilink")，[松平健特別公演](../Page/松平健.md "wikilink")，各種[歌劇公演](https://zh.wikipedia.org/wiki/歌劇 "wikilink")，毎年大晦日有[東京電視台的](../Page/東京電視台.md "wikilink")。外國音樂劇如『[How
 to Succeed in Business Without Really
-Trying](https://zh.wikipedia.org/wiki/:en:How_to_Succeed_in_Business_Without_Really_Trying "wikilink")』『[南太平洋](https://zh.wikipedia.org/wiki/:en:South_Pacific_\(musical\) "wikilink")』『[彼得潘](https://zh.wikipedia.org/wiki/彼得潘 "wikilink")』等作品亦是在新宿KOMA劇場作日本初演。
+Trying](https://zh.wikipedia.org/wiki/:en:How_to_Succeed_in_Business_Without_Really_Trying "wikilink")』『[南太平洋](https://zh.wikipedia.org/wiki/:en:South_Pacific_\(musical\) "wikilink")』『[彼得潘](../Page/彼得潘.md "wikilink")』等作品亦是在新宿KOMA劇場作日本初演。
 
 近年由於來客數減少，於2008年5月決定閉館，同年12月31日舉辦第41屆「」節目後正式走入歷史，劇場建物被拆除，與周邊土地一同進行再開發\[1\]，改建為「」，於2015年4月17日完工啟用。
 

@@ -100,7 +100,7 @@
 <tr class="even">
 <td><p>第20回</p></td>
 <td><p>1999年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新井素子" title="wikilink">新井素子</a> 『チグリスとユーフラテス』</p></td>
+<td><p><a href="../Page/新井素子.md" title="wikilink">新井素子</a> 『チグリスとユーフラテス』</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/光瀬龍" title="wikilink">光瀬龍</a></p></td>
 </tr>
 <tr class="odd">
@@ -204,8 +204,7 @@
     [上田早夕里](https://zh.wikipedia.org/wiki/上田早夕里 "wikilink")『華竜の宮』、特別賞
     [横田順彌](https://zh.wikipedia.org/wiki/横田順彌 "wikilink")『近代日本奇想小説史
     明治篇』、 特別功劳賞 [小松左京](../Page/小松左京.md "wikilink")
-  - 第33回(2012年) -
-    [月村了衛](https://zh.wikipedia.org/wiki/月村了衛 "wikilink")『機龍警察
+  - 第33回(2012年) - [月村了衛](../Page/月村了衛.md "wikilink")『機龍警察
     自爆条項』、[宮内悠介](https://zh.wikipedia.org/wiki/宮内悠介 "wikilink")『盤上の夜』、特別賞
     [伊藤計劃](../Page/伊藤計劃.md "wikilink")・[円城塔](https://zh.wikipedia.org/wiki/円城塔 "wikilink")『屍者の帝国』
   - 第34回（2013年） -

@@ -407,7 +407,7 @@
 <td><p>雄記車房員工</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
 <td><p>宋子傑</p></td>
 <td><p><strong>師傅仔</strong><br />
 雄記車房員工<br />
@@ -828,7 +828,7 @@
 <td><p><strong>關係/暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
+<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
 <td><p>阿　炳</p></td>
 <td><p>偷運非法入境者來港賣淫（第1集）</p></td>
 </tr>
@@ -883,7 +883,7 @@
 <td><p>（第5集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
 <td><p>阿　棠</p></td>
 <td><p>（第5集）</p></td>
 </tr>
@@ -953,7 +953,7 @@
 <td><p>售貨員（第8集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/潘冠霖" title="wikilink">潘冠霖</a></p></td>
+<td><p><a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a></p></td>
 <td><p>-</p></td>
 <td><p>女秘書（第8集）</p></td>
 </tr>
@@ -1150,7 +1150,7 @@
 <td><p>喜豐年蛇宴女歌手（第23集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳少邦" title="wikilink">陳少邦</a></p></td>
+<td><p><a href="../Page/陳少邦.md" title="wikilink">陳少邦</a></p></td>
 <td><p>-</p></td>
 <td><p>警察（第23，27集）</p></td>
 </tr>
@@ -1224,7 +1224,7 @@
 <td><p>油站職員（第28集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳堃" title="wikilink">陳　堃</a></p></td>
+<td><p><a href="../Page/陳堃.md" title="wikilink">陳　堃</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>

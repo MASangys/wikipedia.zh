@@ -481,7 +481,7 @@ Newtype〈PLATINUM〉」 附贈的「18.5卷」，漫畫未收錄篇章刊載於
 <td><p>背叛- BETRAYAL</p></td>
 <td><p>背信 - BETRAYAL</p></td>
 <td><p>筆安一幸</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山本沙代" title="wikilink">山本沙代</a></p></td>
+<td><p><a href="../Page/山本沙代.md" title="wikilink">山本沙代</a></p></td>
 <td><p>渡辺正彦</p></td>
 <td><p>井上みゆき</p></td>
 </tr>

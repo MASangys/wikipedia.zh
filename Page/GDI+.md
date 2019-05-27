@@ -1,5 +1,5 @@
 **图形设备接口**（\[1\]，縮寫
-GDI）是[微软视窗系统提供的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")，也是其用来表徵图形对象、将图形对象传送给诸如[显示器](../Page/显示器.md "wikilink")、[打印机之类](../Page/打印机.md "wikilink")[输出设备的核心组件](https://zh.wikipedia.org/wiki/输出设备 "wikilink")。GDI
+GDI）是[微软视窗系统提供的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")，也是其用来表徵图形对象、将图形对象传送给诸如[显示器](../Page/显示器.md "wikilink")、[打印机之类](../Page/打印机.md "wikilink")[输出设备的核心组件](../Page/输出设备.md "wikilink")。GDI
 是视窗操作系统（[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")）的三大核心部件（也称“子系统”）之一。**GDI+**
 在 GDI

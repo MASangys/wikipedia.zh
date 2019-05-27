@@ -357,7 +357,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/俄亥俄中部影评人协会" title="wikilink">俄亥俄中部影评人协会</a></p></td>
+<td><p><a href="../Page/俄亥俄中部影评人协会.md" title="wikilink">俄亥俄中部影评人协会</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第5届俄亥俄中部影评人协会奖" title="wikilink">2007年1月11日</a></p></td>
 <td><p><a href="../Page/俄亥俄中部影评人协会奖最佳女主角.md" title="wikilink">最佳女主角</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
@@ -392,7 +392,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/达拉斯—沃斯堡影评人协会" title="wikilink">达拉斯—沃斯堡影评人协会奖励</a></p></td>
+<td><p><a href="../Page/达拉斯—沃斯堡影评人协会.md" title="wikilink">达拉斯—沃斯堡影评人协会奖励</a></p></td>
 <td><p>2006年12月19日</p></td>
 <td><p><a href="../Page/达拉斯—沃斯堡影评人协会奖最佳女主角.md" title="wikilink">最佳女主角</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
@@ -532,7 +532,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/北德克萨斯影评人协会" title="wikilink">北德克萨斯影评人协会奖</a></p></td>
+<td><p><a href="../Page/北德克萨斯影评人协会.md" title="wikilink">北德克萨斯影评人协会奖</a></p></td>
 <td><p>2007年1月21日</p></td>
 <td><p>最佳女主角</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
@@ -602,7 +602,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/圣路易斯影评人协会" title="wikilink">圣路易斯影评人协会奖</a></p></td>
+<td><p><a href="../Page/圣路易斯影评人协会.md" title="wikilink">圣路易斯影评人协会奖</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第3届圣路易斯影评人协会奖" title="wikilink">2007年1月7日</a></p></td>
 <td><p><a href="../Page/圣路易斯影评人协会奖最佳女配角.md" title="wikilink">最佳女配角</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>

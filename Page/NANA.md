@@ -18,7 +18,7 @@
 
   - 原作：[矢澤愛](../Page/矢澤愛.md "wikilink")
   - 監督：[浅香守生](https://zh.wikipedia.org/wiki/浅香守生 "wikilink")
-  - 系列構成：[金春智子](https://zh.wikipedia.org/wiki/金春智子 "wikilink")
+  - 系列構成：[金春智子](../Page/金春智子.md "wikilink")
   - 角色設計：[濱田邦彥](../Page/濱田邦彥.md "wikilink")
   - 美術監督：清水友幸
   - 色彩設計：角本百合子
@@ -26,7 +26,7 @@
   - 攝影監督：增元由紀大
   - 音樂：[長谷川智樹](https://zh.wikipedia.org/wiki/長谷川智樹 "wikilink")
   - 動畫製作：[MADHOUSE](../Page/MADHOUSE.md "wikilink")
-  - 製作著作：[日本電視台](../Page/日本電視台.md "wikilink")、[VAP](https://zh.wikipedia.org/wiki/VAP "wikilink")、[集英社](../Page/集英社.md "wikilink")、MADHOUSE
+  - 製作著作：[日本電視台](../Page/日本電視台.md "wikilink")、[VAP](../Page/VAP.md "wikilink")、[集英社](../Page/集英社.md "wikilink")、MADHOUSE
 
 ### 動畫集數列表
 

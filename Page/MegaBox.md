@@ -142,7 +142,7 @@ Concept、Extravaganza、PlayStation等；而新加盟的租戶則有IKEA、實�
   - 澳洲[百寶商](https://zh.wikipedia.org/wiki/百寶商 "wikilink")（Spotlight）主要售賣手工藝品、窗戶陳設、家居織物、居家裝飾用品、時款縫紉布料及派對用品。（2009年11月，Spotlight向會員發出電郵，由於租約期滿，宣布於同年12月31日下午5時結業。
   - [NOVO
     Concept](https://zh.wikipedia.org/wiki/NOVO_Concept "wikilink")（2010年1月結業）
-  - [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
+  - [PlayStation](../Page/PlayStation.md "wikilink")
     PlayGround（2010年1月28日結業）
   - [香港最好電器](https://zh.wikipedia.org/wiki/香港最好電器 "wikilink")（2011年6月由蘇寧鐳射收購繼續營業）
   - 2011年10月，[扒王之王租約期滿](../Page/扒王之王.md "wikilink")。

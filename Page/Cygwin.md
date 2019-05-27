@@ -30,7 +30,7 @@ NT和Windows
 95将[COFF作为](https://zh.wikipedia.org/wiki/COFF "wikilink")[目标代码](../Page/目标代码.md "wikilink")，而GNU已经支持[x86和COFF](https://zh.wikipedia.org/wiki/x86 "wikilink")，以及C语言库[newlib](https://zh.wikipedia.org/wiki/newlib "wikilink")。这样至少在理论上，可以将GCC重定向，作为[交叉編譯器](../Page/交叉編譯器.md "wikilink")，从而产生能在Windows上运行的可执行程序。在后来的实践中，这很快实现了。
 
 接下来的问题是如何在Windows系统中引导编译器，这需要对Unix的足够模拟，以使[Autoconf的](../Page/Autoconf.md "wikilink")[shell
-script可以运行](https://zh.wikipedia.org/wiki/shell_script "wikilink")，这样就用到像[bash这样的shell](https://zh.wikipedia.org/wiki/bash "wikilink")，进而需要[Fork和](https://zh.wikipedia.org/wiki/Fork_\(系统调用\) "wikilink")[standard
+script可以运行](https://zh.wikipedia.org/wiki/shell_script "wikilink")，这样就用到像[bash这样的shell](https://zh.wikipedia.org/wiki/bash "wikilink")，进而需要[Fork和](../Page/Fork_\(系统调用\).md "wikilink")[standard
 I/O](https://zh.wikipedia.org/wiki/Standard_streams "wikilink")。Windows含有类似的功能，所以Cygwin库只需要进行翻译调用、管理私有数据，比如[文件描述符](../Page/文件描述符.md "wikilink")。
 
 1996年后，由于看到cygwin可以提供Windows系统上的Cygnus嵌入式工具（以往的方案是使用[DJGPP](https://zh.wikipedia.org/wiki/DJGPP "wikilink")），其他工程师也加入了进来。特别吸引人的是，Cygwin可以实现三路[交叉编译](https://zh.wikipedia.org/wiki/交叉编译 "wikilink")（three-way

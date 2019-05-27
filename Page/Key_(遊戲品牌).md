@@ -4,7 +4,7 @@ disc內容](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《[Rewrite
 Harvest
 festa\!](../Page/Rewrite_Harvest_festa!.md "wikilink")》。之後Key於2015年6月推出視覺小說作品《[Angel
 Beats\!](../Page/Angel_Beats!.md "wikilink")》。Key於2016年9月推出《[Harmonia](../Page/Harmonia_\(游戏\).md "wikilink")》。Key又於2018年6月推出《[Summer
-Pockets](https://zh.wikipedia.org/wiki/Summer_Pockets "wikilink")》。
+Pockets](../Page/Summer_Pockets.md "wikilink")》。
 
 Key是由五位[共同創辦人成立](https://zh.wikipedia.org/wiki/企業家 "wikilink")，其中[麻枝准在Key公司中扮演著極為重要的角色](../Page/麻枝准.md "wikilink")，並且負責絕大多數Key推出的視覺小說企劃、[編劇和音樂製作人等角色](../Page/編劇.md "wikilink")。而同樣為共同創辦人的[樋上至則是擔任Key所屬的](../Page/樋上至.md "wikilink")[藝術家](https://zh.wikipedia.org/wiki/藝術家 "wikilink")，並且在一開始推出的3部作品中擔任原畫家；而同樣在Key公司擔任重要藝術創作角色的[Na-Ga在初期主要負責遊戲背景的繪製工作](../Page/Na-Ga.md "wikilink")，但是到了Key準備開發《[Little
 Busters\!](../Page/Little_Busters!.md "wikilink")》時則改與樋上至共同負責人物設計等創作工作。另外一名共同創辦人[折戶伸治則擔任了Key公司的](../Page/折戶伸治.md "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")，並且為Key創作許多音樂作品而成功打響知名度。而另一名同樣受到關注的劇本作家[都乃河勇人則是在](../Page/都乃河勇人.md "wikilink")《Little
@@ -62,7 +62,7 @@ disc版本](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《[Rewrite
 Harvest
 festa\!](../Page/Rewrite_Harvest_festa!.md "wikilink")》\[26\]\[27\]。Key於2015年6月26日推出視覺小說作品《[Angel
 Beats\!](../Page/Angel_Beats!.md "wikilink")》\[28\]\[29\]。Key於2016年9月23日推出15周年紀念作品《[Harmonia](../Page/Harmonia_\(游戏\).md "wikilink")》英文版。\[30\]Key於2016年12月宣布將推出《[Summer
-Pockets](https://zh.wikipedia.org/wiki/Summer_Pockets "wikilink")》。\[31\]
+Pockets](../Page/Summer_Pockets.md "wikilink")》。\[31\]
 
 ### 跨媒體作品
 
@@ -191,8 +191,8 @@ Heart](../Page/To_Heart.md "wikilink")》影響，使得作品中陸續出現先
 
 在《ONE～光輝的季節～》發售後由於主要製作成員對於公司政策的不滿而另外創辦了Key，而其第一個製作的遊戲作品《[Kanon](../Page/Kanon.md "wikilink")》也是依照這一公式製作\[126\]。不過在開發過程中Key極力地為遊戲進行宣傳，這使得許多玩家在遊戲尚未正式發售前便對其有很高的期待感；隨後在遊戲正式推出後不久隨即在日本個人電腦以及其他平台市場上成為最為暢銷的遊戲作品，同時才製作第一款遊戲的Key也很快在產業界引起廣泛地衝擊\[127\]\[128\]\[129\]。兩年之後Key新推出的遊戲《[AIR](../Page/AIR_\(遊戲\).md "wikilink")》同樣再度對產業界帶來衝擊\[130\]，並且使得該遊戲成為當年度日本最為成功的電腦遊戲作品\[131\]\[132\]；其中Key同樣在《AIR》推出時藉由宣傳的手法成功吸引大量消費者購買，之後透過感人的故事內容使得玩家給予遊戲許多正面評價\[133\]\[134\]\[135\]\[136\]\[137\]。Key推出的《Kanon》成功在[戀愛遊戲中融合](../Page/戀愛遊戲.md "wikilink")「哭泣」、「感動」與「歡笑」的模式而成為往後美少女遊戲發展上的轉捩點，相對於過去許多視覺小說製作公司所推出的遊戲始終較為關注性愛場景部分，《Kanon》則證明泣系遊戲透過精采的故事情節除了更能吸引消費者購買外，同時也使得玩家更能專注享受音樂與故事並且產生「純粹的嶄新體驗以及令人窒息的痛苦情感」\[138\]\[139\]。也因此許多遊戲公司也陸陸續續跟進開發同類型的遊戲作品，這包括有的《》、[KID的](../Page/KID.md "wikilink")《[秋之回憶系列](https://zh.wikipedia.org/wiki/秋之回憶系列 "wikilink")》、[CIRCUS的](https://zh.wikipedia.org/wiki/CIRCUS_\(公司\) "wikilink")《[初音島](../Page/初音島.md "wikilink")》、[minori的](https://zh.wikipedia.org/wiki/minori "wikilink")《[Wind:
 A Breath of
-Heart](https://zh.wikipedia.org/wiki/Wind:_A_Breath_of_Heart "wikilink")》和[Studio
-Mebius的](https://zh.wikipedia.org/wiki/Studio_Mebius "wikilink")《[SNOW](../Page/SNOW.md "wikilink")》等\[140\]。而在Key推出同樣被列為泣系遊戲的《CLANNAD》後，一些愛好者便基於性質上的相似性而將這3部作品命名為「Key三部作」。藉由類似模式使得Key所推出的《Kanon》、《AIR》、《CLANNAD》、《Little
+Heart](../Page/Wind:_A_Breath_of_Heart.md "wikilink")》和[Studio
+Mebius的](../Page/Studio_Mebius.md "wikilink")《[SNOW](../Page/SNOW.md "wikilink")》等\[140\]。而在Key推出同樣被列為泣系遊戲的《CLANNAD》後，一些愛好者便基於性質上的相似性而將這3部作品命名為「Key三部作」。藉由類似模式使得Key所推出的《Kanon》、《AIR》、《CLANNAD》、《Little
 Busters\!》與《Little Busters\!
 Ecstacy》等作品皆創下初版時便準備10萬張遊戲的銷售紀錄，並且在Key創立10年間成功打下品牌知名度同時也能夠繼續維持之。另外Key也為了能夠增強泣系遊戲的娛樂性質，在後來的作品之中便多次嘗試添加如簡單的[角色扮演遊戲或者是棒球小遊戲等](../Page/電子角色扮演遊戲.md "wikilink")\[141\]。
 

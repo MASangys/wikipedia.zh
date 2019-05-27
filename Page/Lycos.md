@@ -1,4 +1,4 @@
-**Lycos**是一家[互联网](../Page/互联网.md "wikilink")[搜索引擎](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")[公司和](../Page/公司.md "wikilink")[门户网站](../Page/门户网站.md "wikilink")。最早诞生于1994年麦克·马丁博士（Dr.[Michael
+**Lycos**是一家[互联网](../Page/互联网.md "wikilink")[搜索引擎](../Page/搜索引擎.md "wikilink")[公司和](../Page/公司.md "wikilink")[门户网站](../Page/门户网站.md "wikilink")。最早诞生于1994年麦克·马丁博士（Dr.[Michael
 Mauldin](https://zh.wikipedia.org/wiki/Michael_Mauldin "wikilink")）在Carnegie
 Mellon大学的一个搜索项目，当时的Lycos搜索引擎被用于该校的数字图书馆工程。“Lycos”是[Lycosidae](https://zh.wikipedia.org/wiki/Lycosidae "wikilink")（一种很善于捕捉猎物的[狼蛛](https://zh.wikipedia.org/wiki/狼蛛 "wikilink")）的缩写。
 
@@ -11,7 +11,7 @@ Lycos在2000年10月以125亿美圆的价格被泰若网络（[Terra](https://zh
 Networks）并购。泰若网络是[西班牙电信公司](../Page/西班牙.md "wikilink")[Telefónica的子公司](https://zh.wikipedia.org/wiki/Telefónica "wikilink")。合并后的公司更名为泰若-Lycos（Terra
 Lycos）。
 
-Lycos在2002年逐渐衰落，它在[搜索引擎市场和](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")[门户网站上的优势地位分别被](../Page/门户网站.md "wikilink")[Google和](../Page/Google.md "wikilink")[Yahoo取代](https://zh.wikipedia.org/wiki/Yahoo "wikilink")。
+Lycos在2002年逐渐衰落，它在[搜索引擎市场和](../Page/搜索引擎.md "wikilink")[门户网站上的优势地位分别被](../Page/门户网站.md "wikilink")[Google和](../Page/Google.md "wikilink")[Yahoo取代](https://zh.wikipedia.org/wiki/Yahoo "wikilink")。
 
 2004年8月2日，泰若网络宣布以9540万美圆价格出售Lycos给韩国的[Daum信息技术公司](https://zh.wikipedia.org/wiki/Daum "wikilink")，尚不及当初买下时价格的1%。2004年10月交易完成，公司名称被重新改回Lycos，泰若网络余下的业务半数被[Telefónica接管](https://zh.wikipedia.org/wiki/Telefónica "wikilink")。
 

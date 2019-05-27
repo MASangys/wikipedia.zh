@@ -49,7 +49,7 @@ Dragon）是超級种马的改進版，作為美國海軍的長程[水雷掃蕩�
   - [直-8](../Page/直-8.md "wikilink")
   - [直-9](../Page/直-9.md "wikilink")
   - [Mi-24](https://zh.wikipedia.org/wiki/Mi-24 "wikilink")
-  - [CH-53直升機](https://zh.wikipedia.org/wiki/CH-53直升機 "wikilink")
+  - [CH-53直升機](../Page/CH-53直升機.md "wikilink")
 
 [Category:美國軍用直升機](https://zh.wikipedia.org/wiki/Category:美國軍用直升機 "wikilink")
 [Category:重型直升機](https://zh.wikipedia.org/wiki/Category:重型直升機 "wikilink")

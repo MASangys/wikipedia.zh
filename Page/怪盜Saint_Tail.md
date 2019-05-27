@@ -67,7 +67,7 @@ Tail**》（****），是[日本漫畫家](https://zh.wikipedia.org/wiki/日本�
     [幸田直子](https://zh.wikipedia.org/wiki/幸田直子 "wikilink")（日）、[朱憶華](../Page/朱憶華.md "wikilink")（台）、[譚淑英](../Page/譚淑英.md "wikilink")（香港）
     「潘朵拉」占卜館館主，以前本是偷竊珠寶的怪盜，因芽美母親的原因而被公開其真名。因此想向芽美母女報復。
   -
-    聲 - [中村秀利](https://zh.wikipedia.org/wiki/中村秀利 "wikilink")（日）
+    聲 - [中村秀利](../Page/中村秀利.md "wikilink")（日）
     聖華市的市長，高宮莉娜的伯父，给飛鳥Jr.追捕聖少女的權力。
   -
     聲 - [荒木香惠](https://zh.wikipedia.org/wiki/荒木香惠 "wikilink")（日）
@@ -370,7 +370,7 @@ Tail**》（****），是[日本漫畫家](https://zh.wikipedia.org/wiki/日本�
 ### 製作團隊
 
   - 原作 - [立川惠](../Page/立川惠.md "wikilink")
-  - 主要監督 - [鍋島修](https://zh.wikipedia.org/wiki/鍋島修 "wikilink")
+  - 主要監督 - [鍋島修](../Page/鍋島修.md "wikilink")
   - 人物設計、作畫監督 - 阿部純子
   - 美術監督 - [小林七郎](https://zh.wikipedia.org/wiki/小林七郎 "wikilink")
   - 背景 -
@@ -379,7 +379,7 @@ Tail**》（****），是[日本漫畫家](https://zh.wikipedia.org/wiki/日本�
     手嶋明美（[エムアイ](https://zh.wikipedia.org/wiki/Wish_\(動畫製作公司\) "wikilink")）
   - 攝影監督 - 白尾仁志
   - 攝影 - [TMS
-    Photo](https://zh.wikipedia.org/wiki/TMS_Photo "wikilink")、[旭Production](https://zh.wikipedia.org/wiki/旭Production "wikilink")、[Trans
+    Photo](https://zh.wikipedia.org/wiki/TMS_Photo "wikilink")、[旭Production](../Page/旭Production.md "wikilink")、[Trans
     Arts](https://zh.wikipedia.org/wiki/Trans_Arts "wikilink")
   - 編輯 - 鶴渕允寿
   - 音樂監修 - [椙山浩一](../Page/椙山浩一.md "wikilink") ※不創作
@@ -428,7 +428,7 @@ Tail**》（****），是[日本漫畫家](https://zh.wikipedia.org/wiki/日本�
     / 編曲 - [鳥山雄司](https://zh.wikipedia.org/wiki/鳥山雄司 "wikilink")
     **收錄**
     CDS『[想見你〜Missing
-    You〜](https://zh.wikipedia.org/wiki/想見你～Missing_You～/奔向明天 "wikilink")』PHDL-1061（[水星音樂娛樂](https://zh.wikipedia.org/wiki/水星唱片 "wikilink")）
+    You〜](https://zh.wikipedia.org/wiki/想見你～Missing_You～/奔向明天 "wikilink")』PHDL-1061（[水星音樂娛樂](../Page/水星唱片.md "wikilink")）
     曲目『Vanity Fair』PHCL-5028（水星音樂娛樂）
     曲目『SEIKO '96〜'98』PHCL-5112（水星音樂娛樂）
     曲目『卒業物語』UMCK-1090（Zone MME）
@@ -494,8 +494,8 @@ Tail**》（****），是[日本漫畫家](https://zh.wikipedia.org/wiki/日本�
 <td></td>
 <td><p>可愛的大怪盜登場！？將偷走你的心。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/柏原寛司" title="wikilink">柏原寛司</a><br />
-<a href="https://zh.wikipedia.org/wiki/藤田伸三" title="wikilink">藤田伸三</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鍋島修" title="wikilink">鍋島修</a></p></td>
+<a href="../Page/藤田伸三.md" title="wikilink">藤田伸三</a></p></td>
+<td><p><a href="../Page/鍋島修.md" title="wikilink">鍋島修</a></p></td>
 <td><p><a href="../Page/山本泰一郎.md" title="wikilink">山本泰一郎</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/佐佐木惠子" title="wikilink">佐佐木惠子</a></p></td>
 <td><p><strong>1995年</strong><br />
@@ -509,7 +509,7 @@ Tail**》（****），是[日本漫畫家](https://zh.wikipedia.org/wiki/日本�
 藤田伸三</p></td>
 <td><p><a href="../Page/佐藤真人.md" title="wikilink">佐藤真人</a></p></td>
 <td><p>浜田勝<br />
-<a href="https://zh.wikipedia.org/wiki/山本天志" title="wikilink">山本天志</a></p></td>
+<a href="../Page/山本天志.md" title="wikilink">山本天志</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -629,7 +629,7 @@ Tail**》（****），是[日本漫畫家](https://zh.wikipedia.org/wiki/日本�
 <td><p>13</p></td>
 <td></td>
 <td><p>神秘！羅薩公主的鏡子。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/橋本裕志" title="wikilink">橋本裕志</a></p></td>
+<td><p><a href="../Page/橋本裕志.md" title="wikilink">橋本裕志</a></p></td>
 <td><p>松井仁之</p></td>
 <td><p>山本天志</p></td>
 <td><p><strong>1996年</strong><br />

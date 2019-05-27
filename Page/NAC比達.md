@@ -19,7 +19,7 @@ Verlegh Stadion），可容納19,000人。
 
 2004年，球會在[荷蘭盃作客分別擊敗](../Page/荷蘭盃.md "wikilink")[燕豪芬和](https://zh.wikipedia.org/wiki/燕豪芬 "wikilink")[阿積士](https://zh.wikipedia.org/wiki/阿積士 "wikilink")，但在準決賽作客輸給[川迪](https://zh.wikipedia.org/wiki/川迪 "wikilink")。不過有這樣的成績，對球會來說已經是相當不錯了。
 
-[2014/15球季](https://zh.wikipedia.org/wiki/2014年至2015年荷蘭足球甲級聯賽 "wikilink")，球會護級失敗，降落乙組。
+[2014/15球季](../Page/2014年至2015年荷蘭足球甲級聯賽.md "wikilink")，球會護級失敗，降落乙組。
 
 2016/17球季，球會附加賽第3圈擊敗[NEC奈梅亨](../Page/NEC奈梅亨.md "wikilink")，獲得升上荷甲資格。
 

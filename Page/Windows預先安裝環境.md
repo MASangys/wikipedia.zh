@@ -21,7 +21,7 @@ XP以及之後的Windows公開版本都有支援](../Page/Windows_XP.md "wikilin
   - [Windows Vista](../Page/Windows_Vista.md "wikilink"),[Windows
     7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink"),[Windows
     8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink"),[Windows
-    10的安裝程式](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，亦是基於WinPE。在「Windows
+    10的安裝程式](../Page/Windows_10.md "wikilink")，亦是基於WinPE。在「Windows
     安裝」界面上按下Shift+F10，可開啟「命令提示字元」。
   - WinPE
     大多被[OEM廠商所使用](https://zh.wikipedia.org/wiki/OEM "wikilink")，舉例來說就像剛買回來的品牌套裝電腦，不需要完全從頭安裝作業系統，而是從完成安裝開始。[OEM廠商可以自定系統安裝完成後](https://zh.wikipedia.org/wiki/OEM "wikilink")，執行安裝驅動程式的動作、修改『的電腦』中的[OEM商標](https://zh.wikipedia.org/wiki/OEM "wikilink")、安裝輔助程式…。簡單來說WinPE的作用是使用在大量的電腦安裝（同規格之電腦），以達到快速且一致性的安裝。

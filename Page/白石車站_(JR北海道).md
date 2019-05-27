@@ -31,7 +31,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>上行</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/千歲站_(北海道)" title="wikilink">千歲</a>、<a href="../Page/新千歲機場站.md" title="wikilink">新千歲機場</a>、<a href="https://zh.wikipedia.org/wiki/苫小牧站" title="wikilink">苫小牧方向</a></p></td>
+<td><p><a href="../Page/千歲站_(北海道).md" title="wikilink">千歲</a>、<a href="../Page/新千歲機場站.md" title="wikilink">新千歲機場</a>、<a href="https://zh.wikipedia.org/wiki/苫小牧站" title="wikilink">苫小牧方向</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -121,14 +121,14 @@ Train）的終點站，但因為目前位於[東京](https://zh.wikipedia.org/wi
         普通
 
           -
-            [平和](https://zh.wikipedia.org/wiki/平和站_\(日本\) "wikilink")（H04）－**白石（H03）**－苗穗（H02）
+            [平和](../Page/平和站_\(日本\).md "wikilink")（H04）－**白石（H03）**－苗穗（H02）
 
 ## 參考資料與註釋
 
   - 本久公洋，《》，北海道新聞社 出版（2008年），ISBN 978-4-89453-464-3
   - 《》，學習研究社 出版（2003年2月），ISBN 978-4054018167
   - 《道內時刻表》，交通新聞社（日本札幌）出版
-  - 《》，[JTB](https://zh.wikipedia.org/wiki/JTB "wikilink") 出版（1998年）
+  - 《》，[JTB](../Page/JTB.md "wikilink") 出版（1998年）
 
 ## 相關條目
 

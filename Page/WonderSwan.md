@@ -12,7 +12,7 @@ Advance边缘化前](../Page/Game_Boy_Advance.md "wikilink")，一度占据日�
 
 ## 历史
 
-[万代是山科直治在](https://zh.wikipedia.org/wiki/万代 "wikilink")1950年创立的公司，以玩具车与可塑模型生产起家。公司从1963年掌握《[铁臂阿童木](../Page/铁臂阿童木.md "wikilink")》角色版权起，以热门动画角色授权经营，成为玩具业巨头。万代在1970年代中，生产了电视节目和专用游戏机改编的[LCD游戏](https://zh.wikipedia.org/wiki/LCD "wikilink")。公司于1982年在日本发行[Intellivision](https://zh.wikipedia.org/wiki/Intellivision "wikilink")，于1985年成为首批第三方[红白机厂商之一](../Page/红白机.md "wikilink")。但公司在电子游戏界的最大成功，是1996年首发的电子宠物[他媽哥池](../Page/他媽哥池.md "wikilink")\[1\]。然而万代在产品成功后，突然取消了1997年和[世嘉合并的计划](../Page/世嘉.md "wikilink")。万代董事会不到一周就通过反对合并决议，世嘉在决议当晚的紧急董事会见中，也接受了万代的行动。对未获合并支持一事，万代总裁山科诚表示负责\[2\]。于是在万代没有外部支持的情况下，进入电子游戏市场\[3\]。
+[万代是山科直治在](https://zh.wikipedia.org/wiki/万代 "wikilink")1950年创立的公司，以玩具车与可塑模型生产起家。公司从1963年掌握《[铁臂阿童木](../Page/铁臂阿童木.md "wikilink")》角色版权起，以热门动画角色授权经营，成为玩具业巨头。万代在1970年代中，生产了电视节目和专用游戏机改编的[LCD游戏](https://zh.wikipedia.org/wiki/LCD "wikilink")。公司于1982年在日本发行[Intellivision](../Page/Intellivision.md "wikilink")，于1985年成为首批第三方[红白机厂商之一](../Page/红白机.md "wikilink")。但公司在电子游戏界的最大成功，是1996年首发的电子宠物[他媽哥池](../Page/他媽哥池.md "wikilink")\[1\]。然而万代在产品成功后，突然取消了1997年和[世嘉合并的计划](../Page/世嘉.md "wikilink")。万代董事会不到一周就通过反对合并决议，世嘉在决议当晚的紧急董事会见中，也接受了万代的行动。对未获合并支持一事，万代总裁山科诚表示负责\[2\]。于是在万代没有外部支持的情况下，进入电子游戏市场\[3\]。
 
 工程设计师[横井军平在](https://zh.wikipedia.org/wiki/横井军平 "wikilink")[任天堂时](../Page/任天堂.md "wikilink")，设计了著名的掌上游戏机[Game
 Boy](../Page/Game_Boy.md "wikilink")。他在[Virtual

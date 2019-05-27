@@ -214,7 +214,7 @@ Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wiki
 <td><p>心跳的相遇<br />
 （）</p></td>
 <td><p>渡邊陽</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高本宣弘" title="wikilink">高本宣弘</a></p></td>
+<td><p><a href="../Page/高本宣弘.md" title="wikilink">高本宣弘</a></p></td>
 <td><p>永田正美</p></td>
 <td><p>中原清隆</p></td>
 <td></td>

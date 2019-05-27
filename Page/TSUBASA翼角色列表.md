@@ -234,7 +234,7 @@ Castle）。該城的公主為知世。國王「天照」是知世的姊姊，�
   -
 
   -
-    角色Crossover：『[庫洛魔法使](https://zh.wikipedia.org/wiki/庫洛魔法使 "wikilink")』**[大道寺知世](https://zh.wikipedia.org/wiki/大道寺知世 "wikilink")**
+    角色Crossover：『[庫洛魔法使](https://zh.wikipedia.org/wiki/庫洛魔法使 "wikilink")』**[大道寺知世](../Page/大道寺知世.md "wikilink")**
 
     白鷺城的公主，也是日本國的公主。不喜歡無謂的殺生，為了讓只知道以殺人來作為證明自己很強的黑鋼學習什麼叫做真正的「強者」，強制的把他送到異世界作「校外教學」，亦防止黑鋼的濫殺而對黑鋼施了【咒】（當黑剛多殺一個人就減一分強力的咒）。不過個性似乎有點古怪，在黑鋼臨走前曾笑著對黑鋼說：「俗話說要讓壞孩子去旅行」，而她的魔力也很強大，似乎和侑子認識了很久。她相信黑鋼是自願侍奉自己，所以明知飛王的想法也送黑鋼到異世界。
 
@@ -448,7 +448,7 @@ Princess」公司的掌控之下。科技相當發達，已超越現實世界的
 Princess」常常出現在CLAMP其他漫畫中的小店或是品牌名稱。
 
   -
-    角色Crossover：『[庫洛魔法使](https://zh.wikipedia.org/wiki/庫洛魔法使 "wikilink")』**[大道寺知世](https://zh.wikipedia.org/wiki/大道寺知世 "wikilink")**
+    角色Crossover：『[庫洛魔法使](https://zh.wikipedia.org/wiki/庫洛魔法使 "wikilink")』**[大道寺知世](../Page/大道寺知世.md "wikilink")**
   -
     角色Crossover：『[X](../Page/X_\(漫畫\).md "wikilink")』**淺黃笙悟**
   -

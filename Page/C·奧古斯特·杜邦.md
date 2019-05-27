@@ -50,7 +50,7 @@ Hyde](../Page/化身博士.md "wikilink")》，是一位詐死並隱居在巴黎
 
 ## 其他媒體
 
-  - 在系列小說《[-{zh-hans:雷蒙·斯尼奇的不幸历险;zh-hant:波特萊爾大遇險}-](../Page/波特萊爾大遇險.md "wikilink")》的第七集《[邪惡的村子](https://zh.wikipedia.org/wiki/邪惡的村子 "wikilink")》中，[反派](https://zh.wikipedia.org/wiki/反派角色 "wikilink")[-{zh-hans:奥拉夫伯爵;zh-hant:歐拉夫伯爵}-偽裝成](https://zh.wikipedia.org/wiki/歐拉夫伯爵 "wikilink")「探長杜邦」。
+  - 在系列小說《[-{zh-hans:雷蒙·斯尼奇的不幸历险;zh-hant:波特萊爾大遇險}-](../Page/波特萊爾大遇險.md "wikilink")》的第七集《[邪惡的村子](../Page/邪惡的村子.md "wikilink")》中，[反派](../Page/反派角色.md "wikilink")[-{zh-hans:奥拉夫伯爵;zh-hant:歐拉夫伯爵}-偽裝成](../Page/歐拉夫伯爵.md "wikilink")「探長杜邦」。
 
 ## 參見
 

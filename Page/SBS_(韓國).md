@@ -6,13 +6,13 @@ make Delight），這個口號從2015年起使用到現在。
   - 1990年11月14日：泰榮地產建築公司和31家公司共同成立「株式會社漢城放送」，[尹世荣代表理事](https://zh.wikipedia.org/wiki/尹世荣 "wikilink")。
   - 1991年3月20日：SBS廣播電台開播，頻率為792 kHz（呼號：HLSQ，後改為「SBS Love FM」）。
   - 1991年12月9日：無線電視（[SBS
-    TV](https://zh.wikipedia.org/wiki/SBS_TV "wikilink")）於上午10:00开播，在[首尔及其周边地区播出](https://zh.wikipedia.org/wiki/首尔 "wikilink")。
+    TV](../Page/SBS_TV.md "wikilink")）於上午10:00开播，在[首尔及其周边地区播出](https://zh.wikipedia.org/wiki/首尔 "wikilink")。
   - 1992年5月：SBS制作公司得以成立。
   - 1992年12月：SBS一山演播室竣工。
   - 1994年3月：[尹世荣会长](https://zh.wikipedia.org/wiki/尹世荣 "wikilink")、[尹赫基社长得以就任](https://zh.wikipedia.org/wiki/尹赫基 "wikilink")
   - 1994年8月8日：台徽变更为第二代台标（全大写SBS）。
   - 1994年10月24日，星期六、星期日的《[SBS
-    8点新闻](https://zh.wikipedia.org/wiki/SBS_8点新闻 "wikilink")》更名為《SBS
+    8点新闻](../Page/SBS_8点新闻.md "wikilink")》更名為《SBS
     新聞 2000》（SBS 뉴스 2000）。
   - 1995年5月14日，SBS結合其它地方電視台，成立電視聯播網（播放範圍不含[江原道](https://zh.wikipedia.org/wiki/江原道_\(韓國\) "wikilink")、[忠清北道](../Page/忠清北道.md "wikilink")、[濟州](../Page/濟州特別自治道.md "wikilink")）。
   - 1996年10月26日，《SBS 新聞 2000》更名為《News Q》。
@@ -63,7 +63,7 @@ make Delight），這個口號從2015年起使用到現在。
     ATSC3.0播送系统试验
   - 2016年3月：[尹世荣会长](https://zh.wikipedia.org/wiki/尹世荣 "wikilink")（SBS媒体控股理事会会长）和[尹硕敏副会长](https://zh.wikipedia.org/wiki/尹硕敏 "wikilink")（SBS理事会会长）就任
   - 2016年10月10日：因[SBS
-    TV直播](https://zh.wikipedia.org/wiki/SBS_TV "wikilink")《2016年[韓國職棒聯賽季後賽](../Page/韓國職棒聯賽.md "wikilink")》決賽，《SBS
+    TV直播](../Page/SBS_TV.md "wikilink")《2016年[韓國職棒聯賽季後賽](../Page/韓國職棒聯賽.md "wikilink")》決賽，《SBS
     8點新聞》順延至22:00播出。
   - 2016年12月9日：因[韓国總統](../Page/大韩民国总统.md "wikilink")[朴槿惠遭](../Page/朴槿惠.md "wikilink")[彈劾停職](https://zh.wikipedia.org/wiki/彈劾 "wikilink")，《SBS
     8點新聞》提前至19:28播出，並延長播出2個半小時。
@@ -74,8 +74,7 @@ make Delight），這個口號從2015年起使用到現在。
 ## 頻道
 
   - 無線電視
-      - [SBS
-        TV](https://zh.wikipedia.org/wiki/SBS_TV "wikilink")（6頻道，高清频道，識別訊號：HLSQ-DTV）
+      - [SBS TV](../Page/SBS_TV.md "wikilink")（6頻道，高清频道，識別訊號：HLSQ-DTV）
 
 <!-- end list -->
 
@@ -98,7 +97,7 @@ make Delight），這個口號從2015年起使用到現在。
 
       - SBS FOX Sports (2014年1月1日前稱**SBS ESPN**)
 
-      - [SBS GOLF](https://zh.wikipedia.org/wiki/SBS_GOLF "wikilink")
+      - [SBS GOLF](../Page/SBS_GOLF.md "wikilink")
 
       - [SBS-CNBC](../Page/SBS-CNBC.md "wikilink")
 
@@ -138,14 +137,12 @@ make Delight），這個口號從2015年起使用到現在。
 
 #### 播出中
 
-  - [同床异梦2 -
-    你是我的命运](https://zh.wikipedia.org/wiki/同床异梦2_-_你是我的命运 "wikilink")
+  - [同床异梦2 - 你是我的命运](../Page/同床异梦2_-_你是我的命运.md "wikilink")
 
   - [深夜正式演艺](https://zh.wikipedia.org/wiki/深夜TV演藝 "wikilink")
 
   -
-  - [Style
-    Follow](https://zh.wikipedia.org/wiki/Style_Follow "wikilink")
+  - [Style Follow](../Page/Style_Follow.md "wikilink")
 
   - [亲爱的百年客人](https://zh.wikipedia.org/wiki/亲爱的百年客人 "wikilink")
 
@@ -153,27 +150,24 @@ make Delight），這個口號從2015年起使用到現在。
 
   - [白种元的胡同餐馆](https://zh.wikipedia.org/wiki/白种元的胡同餐馆 "wikilink")
 
-  - [Game
-    show遊戲樂樂](https://zh.wikipedia.org/wiki/Game_show遊戲樂樂 "wikilink")
+  - [Game show遊戲樂樂](../Page/Game_show遊戲樂樂.md "wikilink")
 
-  - [Master Key](https://zh.wikipedia.org/wiki/Master_Key "wikilink")
+  - [Master Key](../Page/Master_Key.md "wikilink")
 
   - [Running Man](../Page/Running_Man.md "wikilink")
 
-  - [家師父一體](https://zh.wikipedia.org/wiki/家師父一體 "wikilink")
+  - [家師父一體](../Page/家師父一體.md "wikilink")
 
-  - [我家的熊孩子](https://zh.wikipedia.org/wiki/我家的熊孩子 "wikilink")
+  - [我家的熊孩子](../Page/我家的熊孩子.md "wikilink")
 
 #### 已結束
 
-  - [Fantastic Duo
-    2](https://zh.wikipedia.org/wiki/Fantastic_Duo_2 "wikilink")
+  - [Fantastic Duo 2](../Page/Fantastic_Duo_2.md "wikilink")
 
 ### 音樂節目
 
   - [人气歌谣](../Page/人气歌谣.md "wikilink")
-  - [THE
-    SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink")（）
+  - [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")（）
 
 ### 電視劇
 
@@ -193,12 +187,11 @@ make Delight），這個口號從2015年起使用到現在。
 
 #### 不特定時段
 
-  - [SBS特輯電視劇](https://zh.wikipedia.org/wiki/SBS特輯電視劇 "wikilink")
+  - [SBS特輯電視劇](../Page/SBS特輯電視劇.md "wikilink")
 
 ## 收播時間
 
-現僅[SBS
-TV](https://zh.wikipedia.org/wiki/SBS_TV "wikilink")（無線電視頻道）有收播時段，若當日直播運動賽事則不收播
+現僅[SBS TV](../Page/SBS_TV.md "wikilink")（無線電視頻道）有收播時段，若當日直播運動賽事則不收播
 
   - 週一：02:16\~04:56
   - 週二至週五：03:00\~05:00

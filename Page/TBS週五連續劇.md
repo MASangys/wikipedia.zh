@@ -31,7 +31,7 @@
 
   - 1月-3月：「[長不齊的蘋果們
     III](https://zh.wikipedia.org/wiki/長不齊的蘋果們_III "wikilink")」　主演：[中井貴一](../Page/中井貴一.md "wikilink")
-  - 4月-6月：「」　主演：[三上博史](https://zh.wikipedia.org/wiki/三上博史 "wikilink")
+  - 4月-6月：「」　主演：[三上博史](../Page/三上博史.md "wikilink")
   - 7月-9月：「[男大不中留](https://zh.wikipedia.org/wiki/男大不中留 "wikilink")」　主演：
   - 10月-12月：「[愛有明天](https://zh.wikipedia.org/wiki/愛有明天 "wikilink")」　主演：[今井美樹](../Page/今井美樹.md "wikilink")
 
@@ -52,7 +52,7 @@
 #### 1994年
 
   - 1月-3月：「[心中有陽光](https://zh.wikipedia.org/wiki/心中有陽光 "wikilink")」　主演：[西田敏行](../Page/西田敏行.md "wikilink")
-  - 4月-6月：「[適齢期](https://zh.wikipedia.org/wiki/適齢期 "wikilink")」　主演：[三上博史](https://zh.wikipedia.org/wiki/三上博史 "wikilink")
+  - 4月-6月：「[適齢期](https://zh.wikipedia.org/wiki/適齢期 "wikilink")」　主演：[三上博史](../Page/三上博史.md "wikilink")
   - 7月-9月：「[人間失格](../Page/人間失格.md "wikilink")」　主演：
   - 10月-12月：「[援助愛情](https://zh.wikipedia.org/wiki/援助愛情 "wikilink")」　主演：[真田廣之](../Page/真田廣之.md "wikilink")、[小泉今日子](../Page/小泉今日子.md "wikilink")
 
@@ -60,7 +60,7 @@
 
   - 1月-3月：「[揺れる想い](../Page/搖擺的想念.md "wikilink")」　主演：
   - 4月-6月：「[六月新娘](../Page/六月新娘.md "wikilink")」　主演：[財前直見](../Page/財前直見.md "wikilink")
-  - 7月-9月：「[跟我說愛我](https://zh.wikipedia.org/wiki/跟我說愛我 "wikilink")」　主演：[豊川悦司](../Page/豐川悅司.md "wikilink")、[常盤貴子](../Page/常盤貴子.md "wikilink")
+  - 7月-9月：「[跟我說愛我](../Page/跟我說愛我.md "wikilink")」　主演：[豊川悦司](../Page/豐川悅司.md "wikilink")、[常盤貴子](../Page/常盤貴子.md "wikilink")
   - 10月-12月：「[未成年](https://zh.wikipedia.org/wiki/未成年 "wikilink")」　主演：
 
 #### 1996年
@@ -82,7 +82,7 @@
 
   - 1月-3月：「[聖者行進](https://zh.wikipedia.org/wiki/聖者行進 "wikilink")」　主演：
   - 4月-6月：「[邂逅](https://zh.wikipedia.org/wiki/邂逅 "wikilink")」　主演：[常盤貴子](../Page/常盤貴子.md "wikilink")、[福山雅治](../Page/福山雅治.md "wikilink")
-  - 7月-9月：「[夏日幽會](https://zh.wikipedia.org/wiki/夏日幽會 "wikilink")」　主演：[田中美佐子](../Page/田中美佐子.md "wikilink")、[桃井薰](https://zh.wikipedia.org/wiki/桃井薰 "wikilink")
+  - 7月-9月：「[夏日幽會](https://zh.wikipedia.org/wiki/夏日幽會 "wikilink")」　主演：[田中美佐子](../Page/田中美佐子.md "wikilink")、[桃井薰](../Page/桃井薰.md "wikilink")
   - 10月-12月：「[繼母庸人妙管家](https://zh.wikipedia.org/wiki/繼母庸人妙管家 "wikilink")」　主演：
 
 #### 1999年
@@ -140,7 +140,7 @@
 
 #### 2006年
 
-  - 01月13日-03月24日：「[夜王](https://zh.wikipedia.org/wiki/夜王 "wikilink")」　主演：[松岡昌宏](../Page/松岡昌宏.md "wikilink")
+  - 01月13日-03月24日：「[夜王](../Page/夜王.md "wikilink")」　主演：[松岡昌宏](../Page/松岡昌宏.md "wikilink")
   - 04月14日-06月23日：「[詐欺獵人](https://zh.wikipedia.org/wiki/詐欺獵人 "wikilink")」　主演：[山下智久](../Page/山下智久.md "wikilink")
   - 07月14日-09月15日：「[太陽之歌](../Page/太陽之歌.md "wikilink")」　主演：[山田孝之](../Page/山田孝之.md "wikilink")、[澤尻英龍華](../Page/澤尻英龍華.md "wikilink")
   - 10月13日-11月24日：「[水手服與機關槍](../Page/水手服與機關槍.md "wikilink")」　主演：[長澤雅美](https://zh.wikipedia.org/wiki/長澤雅美 "wikilink")
@@ -173,7 +173,7 @@
 
   -
     主演：[天海祐希](https://zh.wikipedia.org/wiki/天海祐希 "wikilink")
-    劇本：[橋部敦子](https://zh.wikipedia.org/wiki/橋部敦子 "wikilink")
+    劇本：[橋部敦子](../Page/橋部敦子.md "wikilink")
 
 <!-- end list -->
 
@@ -215,7 +215,7 @@
 
   -
     主演：[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")
-    劇本：、[篠崎繪里子](https://zh.wikipedia.org/wiki/篠崎繪里子 "wikilink")
+    劇本：、[篠崎繪里子](../Page/篠崎繪里子.md "wikilink")
 
 <!-- end list -->
 
@@ -248,7 +248,7 @@
   -
     主演：[龜梨和也](../Page/龜梨和也.md "wikilink")
     原作：[早川智子](https://zh.wikipedia.org/wiki/早川智子 "wikilink")《完美小姐進化論》
-    劇本：[篠崎繪里子](https://zh.wikipedia.org/wiki/篠崎繪里子 "wikilink")
+    劇本：[篠崎繪里子](../Page/篠崎繪里子.md "wikilink")
 
 <!-- end list -->
 
@@ -323,7 +323,7 @@
   -
     主演：[深田恭子](../Page/深田恭子.md "wikilink")
     原作：粕谷紀子《[我是影子](../Page/我是影子.md "wikilink")》
-    劇本：[中園美保](https://zh.wikipedia.org/wiki/中園美保 "wikilink")、[山岡真介](https://zh.wikipedia.org/wiki/山岡真介 "wikilink")
+    劇本：[中園美保](../Page/中園美保.md "wikilink")、[山岡真介](https://zh.wikipedia.org/wiki/山岡真介 "wikilink")
 
 #### 2012年
 
@@ -376,7 +376,7 @@
   -
     主演：[鈴木京香](../Page/鈴木京香.md "wikilink")
     原作：[湊佳苗](../Page/湊佳苗.md "wikilink")《[夜行觀覽車](../Page/夜行觀覽車.md "wikilink")》
-    劇本：[奥寺佐渡子](https://zh.wikipedia.org/wiki/奥寺佐渡子 "wikilink")、[清水友佳子](https://zh.wikipedia.org/wiki/清水友佳子 "wikilink")
+    劇本：[奥寺佐渡子](../Page/奥寺佐渡子.md "wikilink")、[清水友佳子](https://zh.wikipedia.org/wiki/清水友佳子 "wikilink")
 
 <!-- end list -->
 
@@ -449,18 +449,18 @@
 <!-- end list -->
 
   -
-    原作：[湊佳苗](../Page/湊佳苗.md "wikilink")《[為了N](https://zh.wikipedia.org/wiki/為了N "wikilink")》
+    原作：[湊佳苗](../Page/湊佳苗.md "wikilink")《[為了N](../Page/為了N.md "wikilink")》
     主演：[榮倉奈奈](../Page/榮倉奈奈.md "wikilink")
-    劇本：[奥寺佐渡子](https://zh.wikipedia.org/wiki/奥寺佐渡子 "wikilink")
+    劇本：[奥寺佐渡子](../Page/奥寺佐渡子.md "wikilink")
 
 #### 2015年
 
-  - 1月－3月：**[無間雙龍](https://zh.wikipedia.org/wiki/無間雙龍 "wikilink")**（）
+  - 1月－3月：**[無間雙龍](../Page/無間雙龍.md "wikilink")**（）
 
 <!-- end list -->
 
   -
-    原作：《[無間雙龍](https://zh.wikipedia.org/wiki/無間雙龍 "wikilink")》
+    原作：《[無間雙龍](../Page/無間雙龍.md "wikilink")》
     主演：[生田斗真](../Page/生田斗真.md "wikilink")
     劇本：
 
@@ -506,7 +506,7 @@
   -
     原作：[石黑一雄](../Page/石黑一雄.md "wikilink")《[別讓我走](../Page/別讓我走.md "wikilink")》
     主演：[綾瀨遙](../Page/綾瀨遙.md "wikilink")
-    劇本：[森下佳子](https://zh.wikipedia.org/wiki/森下佳子 "wikilink")
+    劇本：[森下佳子](../Page/森下佳子.md "wikilink")
 
 <!-- end list -->
 
@@ -531,7 +531,7 @@
 
 <!-- end list -->
 
-  - 10月－12月：**[砂之塔〜知道太多事情的鄰居](https://zh.wikipedia.org/wiki/砂之塔〜知道太多事情的鄰居 "wikilink")**（）
+  - 10月－12月：**[砂之塔〜知道太多事情的鄰居](../Page/砂之塔〜知道太多事情的鄰居.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -552,7 +552,7 @@
 
 <!-- end list -->
 
-  - 4月－6月：**[反轉](https://zh.wikipedia.org/wiki/反轉 "wikilink")**（）
+  - 4月－6月：**[反轉](../Page/反轉.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -563,14 +563,14 @@
 
 <!-- end list -->
 
-  - 7月－9月：**[偵探物語](https://zh.wikipedia.org/wiki/偵探物語 "wikilink")**（）
+  - 7月－9月：**[偵探物語](../Page/偵探物語.md "wikilink")**（）
 
 <!-- end list -->
 
   -
     原作：[弘兼憲史](../Page/弘兼憲史.md "wikilink")《偵探物語》
     主演：[瑛太](../Page/瑛太.md "wikilink")
-    劇本：[大根仁](https://zh.wikipedia.org/wiki/大根仁 "wikilink")
+    劇本：[大根仁](../Page/大根仁.md "wikilink")
 
 <!-- end list -->
 
@@ -585,17 +585,17 @@
 
 #### 2018年
 
-  - 1月－3月：**[UNNATURAL](https://zh.wikipedia.org/wiki/UNNATURAL "wikilink")**（）
+  - 1月－3月：**[UNNATURAL](../Page/UNNATURAL.md "wikilink")**（）
 
 <!-- end list -->
 
   -
     主演：[石原聰美](../Page/石原聰美.md "wikilink")
-    劇本：[野木亞紀子](https://zh.wikipedia.org/wiki/野木亞紀子 "wikilink")
+    劇本：[野木亞紀子](../Page/野木亞紀子.md "wikilink")
 
 <!-- end list -->
 
-  - 4月－6月：**[有家可歸的戀人們](https://zh.wikipedia.org/wiki/有家可歸的戀人們 "wikilink")**（）
+  - 4月－6月：**[有家可歸的戀人們](../Page/有家可歸的戀人們.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -606,18 +606,18 @@
 
 <!-- end list -->
 
-  - 7月－9月：**[啦啦隊之舞](https://zh.wikipedia.org/wiki/啦啦隊之舞 "wikilink")**（）
+  - 7月－9月：**[啦啦隊之舞](../Page/啦啦隊之舞.md "wikilink")**（）
 
 <!-- end list -->
 
   -
-    原作：電影《[青春後空翻](https://zh.wikipedia.org/wiki/青春後空翻 "wikilink")》
+    原作：電影《[青春後空翻](../Page/青春後空翻.md "wikilink")》
     主演：[土屋太鳳](../Page/土屋太鳳.md "wikilink")
     劇本：[後藤法子](https://zh.wikipedia.org/wiki/後藤法子 "wikilink")、[德尾浩司](https://zh.wikipedia.org/wiki/德尾浩司 "wikilink")
 
 <!-- end list -->
 
-  - 10月－12月：**[大戀愛～和忘記我的你](https://zh.wikipedia.org/wiki/大戀愛～和忘記我的你 "wikilink")**（）
+  - 10月－12月：**[大戀愛～和忘記我的你](../Page/大戀愛～和忘記我的你.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -755,7 +755,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CBC电视台_(日本)" title="wikilink">中部日本放送</a></p></td>
+<td><p><a href="../Page/CBC电视台_(日本).md" title="wikilink">中部日本放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>

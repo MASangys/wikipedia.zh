@@ -267,7 +267,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 <li>第1屆
 <ul>
 <li>主持－<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">天頤</a>#、<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#、<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>#、<a href="https://zh.wikipedia.org/wiki/Zimon_Chow" title="wikilink">Zimon Chow</a>#、<a href="https://zh.wikipedia.org/wiki/何恩欣" title="wikilink">Yannes</a>#</li>
-<li>Web J生還者－<a href="https://zh.wikipedia.org/wiki/趙慧珊" title="wikilink">Amy</a>（個人及組合勝出）、Mathew（組合勝出）、Babie、老闆、Ruby、Ben</li>
+<li>Web J生還者－<a href="../Page/趙慧珊.md" title="wikilink">Amy</a>（個人及組合勝出）、Mathew（組合勝出）、Babie、老闆、Ruby、Ben</li>
 </ul></li>
 <li>第2屆
 <ul>
@@ -276,7 +276,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </ul></li>
 <li>第3屆
 <ul>
-<li>主持－<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">天頤</a>#、<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#、<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>#、<a href="https://zh.wikipedia.org/wiki/趙慧珊" title="wikilink">Amy</a>#、Mathew#</li>
+<li>主持－<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">天頤</a>#、<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#、<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>#、<a href="../Page/趙慧珊.md" title="wikilink">Amy</a>#、Mathew#</li>
 <li>Web J生還者－柏（個人勝出）、Elyze、Anson、Oscar、奇霙（組合勝出）、彤彤（個人及組合勝出）</li>
 </ul></li>
 <li>第4屆
@@ -316,7 +316,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 <li>Live 洛架－David#、<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#、Leo#、<a href="https://zh.wikipedia.org/wiki/鍾健威" title="wikilink">鍾健威</a>#、Sara#</li>
 <li>十月敗家哎呀呀－<a href="../Page/洪崎峻.md" title="wikilink">黑超B</a>、Annie#</li>
 <li>崎峻 露比 奇脆無比－<a href="../Page/洪崎峻.md" title="wikilink">洪崎峻</a>、Ruby#、Anson#</li>
-<li>MAMY話－Mathew#、<a href="https://zh.wikipedia.org/wiki/趙慧珊" title="wikilink">Amy</a>#、柏</li>
+<li>MAMY話－Mathew#、<a href="../Page/趙慧珊.md" title="wikilink">Amy</a>#、柏</li>
 </ul></td>
 <td><p>2005-04-04</p></td>
 <td><p>2009-01-22</p></td>
@@ -403,7 +403,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 <td><p>Music All Nite</p></td>
 <td><ul>
 <li>Key's Music Blog－Key#</li>
-<li>Amy's Music Box－<a href="https://zh.wikipedia.org/wiki/趙慧珊" title="wikilink">Amy</a>#</li>
+<li>Amy's Music Box－<a href="../Page/趙慧珊.md" title="wikilink">Amy</a>#</li>
 <li>的神點唱機－<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>#</li>
 <li>小LuLu歌舞廳－<a href="../Page/何嘉露.md" title="wikilink">Lu</a></li>
 <li>彤彤音樂日記－彤彤#</li>
@@ -472,7 +472,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="odd">
 <td><p>Yo! Milki</p></td>
-<td><p>Genki#、<a href="https://zh.wikipedia.org/wiki/方紹聰" title="wikilink">Milkson</a>#、Alvin#</p></td>
+<td><p>Genki#、<a href="../Page/方紹聰.md" title="wikilink">Milkson</a>#、Alvin#</p></td>
 <td><p>2009-04-03</p></td>
 <td><p>2010-02-12</p></td>
 <td><p><a href="https://web.archive.org/web/20090412022926/http://teenpower.rthk.org.hk/program/milki/index_new.htm">節目網頁</a></p></td>
@@ -537,7 +537,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="odd">
 <td><p>潮聖</p></td>
-<td><p>現場－Annie#、<a href="../Page/洪崎峻.md" title="wikilink">洪崎峻</a>、<a href="https://zh.wikipedia.org/wiki/趙慧珊" title="wikilink">Amy</a>#、<a href="https://zh.wikipedia.org/wiki/楊芷瑩" title="wikilink">Gabby</a>#、<a href="../Page/駱振偉.md" title="wikilink">Karson</a>#、Ruby#、<a href="https://zh.wikipedia.org/wiki/簡采恩" title="wikilink">Joy</a>#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、Vicky 錄音專題－</p>
+<td><p>現場－Annie#、<a href="../Page/洪崎峻.md" title="wikilink">洪崎峻</a>、<a href="../Page/趙慧珊.md" title="wikilink">Amy</a>#、<a href="https://zh.wikipedia.org/wiki/楊芷瑩" title="wikilink">Gabby</a>#、<a href="../Page/駱振偉.md" title="wikilink">Karson</a>#、Ruby#、<a href="https://zh.wikipedia.org/wiki/簡采恩" title="wikilink">Joy</a>#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、Vicky 錄音專題－</p>
 <ul>
 <li>台灣一潮堂－<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#</li>
 <li>娛樂八卦妹－<a href="https://zh.wikipedia.org/wiki/鄺芷珊" title="wikilink">Sandy</a>#</li>

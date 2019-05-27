@@ -32,7 +32,7 @@ Card及演唱會，被傳媒視為不計前嫌的大方之舉，贏得一時佳�
 
 ## 社會影響
 
-《Yes\!》雜誌透過分擔戀愛的煩惱，初推出時深受青少年、中學生歡迎，更破天荒地設立讓學生讀者來信抨擊學校、老師的專欄，在當時老師權威龐大的[香港社會](../Page/香港社會.md "wikilink")，造成甚多的爭議和哄動，此外，雜誌內有不少鼓勵中學生談戀愛的內容，時尚潮流情報亦經常介紹名牌服飾。因而令不少家長、教育界人士不滿，批評此雜誌煽動青少年、中學生作出挑戰師權、求學時期談戀愛、崇尚名牌等「反叛」行為，視之為洪水猛獸。同時，亦有不少人跟風推出類似雜誌，令市面出現大量以英文單字為名的年青人雜誌，但都只是曇花一現，當中以[黃一山出資的](../Page/黃一山.md "wikilink")《夠Pop》支持得最長久，但也難逃在數個月內倒閉的命運。[1991年](https://zh.wikipedia.org/wiki/香港1991年 "wikilink")[暑假](../Page/暑假.md "wikilink")，更有一部名為《[Yes一族](https://zh.wikipedia.org/wiki/Yes一族 "wikilink")》的[港產片上映](https://zh.wikipedia.org/wiki/香港電影 "wikilink")。而既有市場的佔有者，如以女性讀者為主的《姊妹》以及長期以來以中學生為對象的《[突破少年](https://zh.wikipedia.org/wiki/突破機構#歷史 "wikilink")》，都因着這股衝擊而改版應付。《突破少年》及至2000年代亦停刊改為網上出版[1](https://web.archive.org/web/20061205015914/http://uzone.com.hk/)，實體版雜誌亦兩度易名為《U+》(2001年)及《突破書誌
+《Yes\!》雜誌透過分擔戀愛的煩惱，初推出時深受青少年、中學生歡迎，更破天荒地設立讓學生讀者來信抨擊學校、老師的專欄，在當時老師權威龐大的[香港社會](../Page/香港社會.md "wikilink")，造成甚多的爭議和哄動，此外，雜誌內有不少鼓勵中學生談戀愛的內容，時尚潮流情報亦經常介紹名牌服飾。因而令不少家長、教育界人士不滿，批評此雜誌煽動青少年、中學生作出挑戰師權、求學時期談戀愛、崇尚名牌等「反叛」行為，視之為洪水猛獸。同時，亦有不少人跟風推出類似雜誌，令市面出現大量以英文單字為名的年青人雜誌，但都只是曇花一現，當中以[黃一山出資的](../Page/黃一山.md "wikilink")《夠Pop》支持得最長久，但也難逃在數個月內倒閉的命運。[1991年](https://zh.wikipedia.org/wiki/香港1991年 "wikilink")[暑假](../Page/暑假.md "wikilink")，更有一部名為《[Yes一族](../Page/Yes一族.md "wikilink")》的[港產片上映](https://zh.wikipedia.org/wiki/香港電影 "wikilink")。而既有市場的佔有者，如以女性讀者為主的《姊妹》以及長期以來以中學生為對象的《[突破少年](https://zh.wikipedia.org/wiki/突破機構#歷史 "wikilink")》，都因着這股衝擊而改版應付。《突破少年》及至2000年代亦停刊改為網上出版[1](https://web.archive.org/web/20061205015914/http://uzone.com.hk/)，實體版雜誌亦兩度易名為《U+》(2001年)及《突破書誌
 Breakazine！》(2009年)。
 
 到了約[1990年代後期](https://zh.wikipedia.org/wiki/香港1990年代 "wikilink")，早期看《Yes\!》成長的中學生已進入[專上院校或投身社會工作](https://zh.wikipedia.org/wiki/香港專上教育 "wikilink")，以中學生為主要對象的青少年消閒雜誌已不適合他們。相反，他們多數改看[壹傳媒所出版的](../Page/壹傳媒.md "wikilink")《[壹本便利](../Page/壹本便利.md "wikilink")》，使這類雜誌的需求與日俱增，其他同類型的雜誌也相繼推出，各自有自己的特色。到了[2000年代](https://zh.wikipedia.org/wiki/香港2000年代 "wikilink")，亦曾出版過一本名為《Teens\!Weekly》的雜誌作為抗衡。《新假期》、《新Monday》、《Milk》、《Cream》、《COOL@Link》這類雜誌就或多或少亦能表現出年青人希望緊貼潮流脈搏的同時，亦希望自己會有獨特空間，與群眾分別出來。
@@ -2868,7 +2868,7 @@ MBLAQ、FTIsland<br />
 <tr class="even">
 <td><p>1205</p></td>
 <td><p><a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Toheart" title="wikilink">Toheart</a></p></td>
+<td><p><a href="../Page/Toheart.md" title="wikilink">Toheart</a></p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -3073,7 +3073,7 @@ MBLAQ、FTIsland<br />
 
   - 《一夜再成名》
   - 《潛龍追擊》
-  - 《[辣警霸王花](https://zh.wikipedia.org/wiki/辣警霸王花 "wikilink")》
+  - 《[辣警霸王花](../Page/辣警霸王花.md "wikilink")》
   - 《[不義之戰](https://zh.wikipedia.org/wiki/不義之戰 "wikilink")》
 
 ## 演唱會

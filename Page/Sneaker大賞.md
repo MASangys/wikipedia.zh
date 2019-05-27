@@ -7,7 +7,7 @@
 <!-- end list -->
 
   -
-    [藤本ひとみ](https://zh.wikipedia.org/wiki/藤本ひとみ "wikilink")、[水野良](https://zh.wikipedia.org/wiki/水野良 "wikilink")、[飯田譲治](https://zh.wikipedia.org/wiki/飯田譲治 "wikilink")、[赤堀悟](https://zh.wikipedia.org/wiki/赤堀悟 "wikilink")
+    [藤本ひとみ](https://zh.wikipedia.org/wiki/藤本ひとみ "wikilink")、[水野良](../Page/水野良.md "wikilink")、[飯田譲治](https://zh.wikipedia.org/wiki/飯田譲治 "wikilink")、[赤堀悟](../Page/赤堀悟.md "wikilink")
 
 <!-- end list -->
 

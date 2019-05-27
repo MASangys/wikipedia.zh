@@ -53,7 +53,7 @@ Heart](https://zh.wikipedia.org/wiki/雨之Melody/to_Heart "wikilink")」以來�
 2.  **Anniversary -20th. memorial version-**
       - 作曲：織田哲郎
       - 作詞：Satomi
-      - 編曲：[安部潤](https://zh.wikipedia.org/wiki/安部潤 "wikilink")
+      - 編曲：[安部潤](../Page/安部潤.md "wikilink")
 
 [Category:近畿小子歌曲](https://zh.wikipedia.org/wiki/Category:近畿小子歌曲 "wikilink")
 [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")

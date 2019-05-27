@@ -42,7 +42,7 @@ Microsoft Publisher的版本包括：
   - 2015年Microsoft Office Publisher 2016（[Windows
     7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink") SP1或更高）
   - 2018年Microsoft Office Publisher 2019（[Windows
-    10或更高](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")）
+    10或更高](../Page/Windows_10.md "wikilink")）
 
 [Category:Microsoft_Office](https://zh.wikipedia.org/wiki/Category:Microsoft_Office "wikilink")
 [Category:數碼字體排印](https://zh.wikipedia.org/wiki/Category:數碼字體排印 "wikilink")

@@ -99,7 +99,7 @@ ESCP等。
 
 ## 著名校友
 
-ESCP著名[校友主要分布在政界和商界](../Page/校友.md "wikilink")，如[法国前总理](../Page/法国总理.md "wikilink")[让-皮埃尔·拉法兰](../Page/让-皮埃尔·拉法兰.md "wikilink")，[欧盟首席](../Page/欧洲联盟.md "wikilink")“[脱欧](../Page/英國脫離歐盟.md "wikilink")”谈判代表，[国际货币基金组织前首席经济学家](../Page/國際貨幣基金組織.md "wikilink")，[道达尔前](../Page/道达尔.md "wikilink")[总裁](../Page/总裁.md "wikilink")[克里斯多福·德·马热里](https://zh.wikipedia.org/wiki/克里斯多福·德·馬熱里 "wikilink")，[爱马仕前](https://zh.wikipedia.org/wiki/爱马仕 "wikilink")[首席执行官帕特里克](../Page/首席执行官.md "wikilink")·托马（）等。\[27\]
+ESCP著名[校友主要分布在政界和商界](../Page/校友.md "wikilink")，如[法国前总理](../Page/法国总理.md "wikilink")[让-皮埃尔·拉法兰](../Page/让-皮埃尔·拉法兰.md "wikilink")，[欧盟首席](../Page/欧洲联盟.md "wikilink")“[脱欧](../Page/英國脫離歐盟.md "wikilink")”谈判代表，[国际货币基金组织前首席经济学家](../Page/國際貨幣基金組織.md "wikilink")，[道达尔前](../Page/道达尔.md "wikilink")[总裁](../Page/总裁.md "wikilink")[克里斯多福·德·马热里](../Page/克里斯多福·德·馬熱里.md "wikilink")，[爱马仕前](https://zh.wikipedia.org/wiki/爱马仕 "wikilink")[首席执行官帕特里克](../Page/首席执行官.md "wikilink")·托马（）等。\[27\]
 
 ## 參考資料
 

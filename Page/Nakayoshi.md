@@ -17,7 +17,7 @@
   - 《[藍寶石王子](https://zh.wikipedia.org/wiki/藍寶石王子 "wikilink")》（[手塚治虫](../Page/手塚治虫.md "wikilink")，本作被認為是史上首次採用模式的少女向漫畫作品）
   - 《[甜甜小公主](../Page/甜甜小公主.md "wikilink")》 (倉金章介)
   - 《[天使之丘](https://zh.wikipedia.org/wiki/天使之丘 "wikilink")》（[手塚治虫](../Page/手塚治虫.md "wikilink")）
-  - 《[小甜甜](../Page/小甜甜.md "wikilink")》(五十嵐優美子、[水木杏子](https://zh.wikipedia.org/wiki/名木田惠子 "wikilink"))
+  - 《[小甜甜](../Page/小甜甜.md "wikilink")》(五十嵐優美子、[水木杏子](../Page/名木田惠子.md "wikilink"))
   - 《[TAMA-TAN](https://zh.wikipedia.org/wiki/TAMA-TAN "wikilink")》（[小夏鈍帆](../Page/小夏鈍帆.md "wikilink")）
   - 《[秋葉原電腦組](../Page/秋葉原電腦組.md "wikilink")》（）
   - 《[同班同學](https://zh.wikipedia.org/wiki/小紅豆 "wikilink")》（[木村千歌](https://zh.wikipedia.org/wiki/木村千歌 "wikilink")）

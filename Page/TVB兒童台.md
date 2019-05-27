@@ -117,7 +117,7 @@
 
   - [唐詩家族](https://zh.wikipedia.org/wiki/唐詩家族 "wikilink")
 
-  - [冒險遊記](https://zh.wikipedia.org/wiki/冒險遊記Pluster_World "wikilink")
+  - [冒險遊記](../Page/冒險遊記Pluster_World.md "wikilink")
 
   - [決鬥大師](../Page/決鬥大師.md "wikilink")
 
@@ -135,7 +135,7 @@
 
   - [爆旋陀螺II](https://zh.wikipedia.org/wiki/爆旋陀螺 "wikilink")
 
-  - [愛探險的Dora](https://zh.wikipedia.org/wiki/愛探險的朵拉 "wikilink")
+  - [愛探險的Dora](../Page/愛探險的朵拉.md "wikilink")
 
   - [花漾明星系列](https://zh.wikipedia.org/wiki/花漾明星 "wikilink")
 

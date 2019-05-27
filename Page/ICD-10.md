@@ -21,8 +21,8 @@ ICD-10的研究起始于1983年，并于1992年完成。\[2\]
 | X     | [J00-J99](../Page/ICD-10_第十章：呼吸系统疾病.md "wikilink")                         | [呼吸系统疾病](https://zh.wikipedia.org/wiki/呼吸系统 "wikilink")                                                                                             |
 | XI    | [K00-K93](../Page/ICD-10_第十一章：消化系统疾病.md "wikilink")                        | [消化系统疾病](../Page/消化系统.md "wikilink")                                                                                                                |
 | XII   | [L00-L99](../Page/ICD-10_第十二章：皮肤和皮下组织疾病.md "wikilink")                     | [皮肤和](https://zh.wikipedia.org/wiki/皮肤 "wikilink")[皮下组织疾病](https://zh.wikipedia.org/wiki/皮下组织 "wikilink")                                           |
-| XIII  | [M00-M99](../Page/ICD-10_第十三章：肌肉骨骼系统和结缔组织疾病.md "wikilink")                 | [肌肉骨骼系统和](https://zh.wikipedia.org/wiki/肌肉骨骼系统 "wikilink")[结缔组织疾病](../Page/结缔组织.md "wikilink")                                                      |
-| XIV   | [N00-N99](../Page/ICD-10_第十四章：泌尿生殖系统疾病.md "wikilink")                      | [泌尿生殖系统疾病](https://zh.wikipedia.org/wiki/泌尿生殖系统 "wikilink")                                                                                         |
+| XIII  | [M00-M99](../Page/ICD-10_第十三章：肌肉骨骼系统和结缔组织疾病.md "wikilink")                 | [肌肉骨骼系统和](../Page/肌肉骨骼系统.md "wikilink")[结缔组织疾病](../Page/结缔组织.md "wikilink")                                                                         |
+| XIV   | [N00-N99](../Page/ICD-10_第十四章：泌尿生殖系统疾病.md "wikilink")                      | [泌尿生殖系统疾病](../Page/泌尿生殖系统.md "wikilink")                                                                                                            |
 | XV    | [O00-O99](../Page/ICD-10_第十五章：妊娠、分娩和产褥期.md "wikilink")                     | [妊娠](../Page/妊娠.md "wikilink")、[分娩和](../Page/分娩.md "wikilink")[产褥期](https://zh.wikipedia.org/wiki/产褥期 "wikilink")                                   |
 | XVI   | [P00-P96](../Page/ICD-10_第十六章：起源于围产期的某些情况.md "wikilink")                   | 起源于[围产期的某些情况](https://zh.wikipedia.org/wiki/围产期 "wikilink")                                                                                         |
 | XVII  | [Q00-Q99](../Page/ICD-10_第十七章：先天畸形、变形和染色体异常.md "wikilink")                 | [先天畸形](https://zh.wikipedia.org/wiki/先天畸形 "wikilink")、变形和[染色体异常](https://zh.wikipedia.org/wiki/染色体异常 "wikilink")                                    |
@@ -62,7 +62,7 @@ Modification)。
 
   - [ICD](../Page/國際疾病與相關健康問題統計分類.md "wikilink")
   - [ICD-9](https://zh.wikipedia.org/wiki/ICD-9编码列表 "wikilink")
-  - [ICD-11](https://zh.wikipedia.org/wiki/ICD-11 "wikilink")
+  - [ICD-11](../Page/ICD-11.md "wikilink")
 
 ## 外部链接
 

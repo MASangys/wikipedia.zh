@@ -519,8 +519,7 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
   - Captain Commando 配音員：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
   - 翔（Ginzu the Ninja） 配音員：[堀秀行](../Page/堀秀行.md "wikilink")
-  - Hoover（Baby Head）
-    配音員：[笹本優子](https://zh.wikipedia.org/wiki/笹本優子 "wikilink")
+  - Hoover（Baby Head） 配音員：[笹本優子](../Page/笹本優子.md "wikilink")
   - Jennety（Mack the Knife）
   - Shtrom（Shturm）
     配音員：[吉野貴宏](https://zh.wikipedia.org/wiki/吉野貴宏 "wikilink")
@@ -562,14 +561,14 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
   - [嘉米](https://zh.wikipedia.org/wiki/嘉米 "wikilink")
     配音員：[河本明子](../Page/河本明子.md "wikilink")
   - [春日野櫻](../Page/春日野櫻.md "wikilink")
-    配音員：[笹本優子](https://zh.wikipedia.org/wiki/笹本優子 "wikilink")
+    配音員：[笹本優子](../Page/笹本優子.md "wikilink")
   - [神月花梨](https://zh.wikipedia.org/wiki/神月花梨 "wikilink")
     配音員：[山田美穗](../Page/山田美穗.md "wikilink")
   - [Rose](https://zh.wikipedia.org/wiki/Rose_\(ストリートファイター\) "wikilink")
     配音員：根谷美智子
   - [殺意之波動覺醒的隆](https://zh.wikipedia.org/wiki/殺意之波動覺醒的隆 "wikilink")
     配音員：森川智之
-  - [豪鬼](https://zh.wikipedia.org/wiki/豪鬼 "wikilink")
+  - [豪鬼](../Page/豪鬼.md "wikilink")
     配音員：[西村知道](../Page/西村知道.md "wikilink")
   - [Vega](https://zh.wikipedia.org/wiki/Vega "wikilink") 配音員：西村知道
   - [Juni](https://zh.wikipedia.org/wiki/Juni "wikilink") 配音員：河本明子

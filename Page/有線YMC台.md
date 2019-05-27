@@ -168,8 +168,7 @@ Jockey)。雖然節目開始前，字幕會顯示VJ的英文名及中文全名�
 
   - [林曉峰](../Page/林曉峰.md "wikilink")
   - [黃志淙](https://zh.wikipedia.org/wiki/黃志淙 "wikilink")(Chi Chung)
-  - [陳皓雲](https://zh.wikipedia.org/wiki/陳皓雲 "wikilink")(Howard Chan) -
-    2001年VJ大賽:季軍
+  - [陳皓雲](../Page/陳皓雲.md "wikilink")(Howard Chan) - 2001年VJ大賽:季軍
   - [蔡康年](../Page/蔡康年.md "wikilink")(Miguel)
   - [王志海](https://zh.wikipedia.org/wiki/王志海 "wikilink")(Brian) -
     全能VJ大賽95: 全能VJ大獎及觀眾自選VJ獎
@@ -179,7 +178,7 @@ Jockey)。雖然節目開始前，字幕會顯示VJ的英文名及中文全名�
   - [彭晴](../Page/彭晴.md "wikilink")
   - [黃啟聰](https://zh.wikipedia.org/wiki/黃啟聰 "wikilink")(Manfred)
   - [潘納](https://zh.wikipedia.org/wiki/潘納 "wikilink")
-  - [Ruth](https://zh.wikipedia.org/wiki/路芙 "wikilink")
+  - [Ruth](../Page/路芙.md "wikilink")
   - [張丹蕾](https://zh.wikipedia.org/wiki/張丹蕾 "wikilink") - 全能VJ大賽96:
     全能VJ大獎
   - [許智豪](https://zh.wikipedia.org/wiki/許智豪 "wikilink")(Jonathan) -

@@ -2,7 +2,7 @@
 
 **天琴座RR型變星**是週期[變星](../Page/變星.md "wikilink")，通常在[球狀星團中發現](../Page/球狀星團.md "wikilink")，因此也稱為星團變星。它被用做測量[星系距離的](../Page/星系.md "wikilink")[標準燭光](../Page/標準燭光.md "wikilink")，是[宇宙距離階梯的一部分](../Page/標準燭光.md "wikilink")。這類變星以原型，也是最亮的[天琴座RR命名](../Page/天琴座RR.md "wikilink")。
 
-天琴座RR型變星是脈動的[水平分支老化恆星](../Page/水平分支.md "wikilink")，[光譜類型為A或F](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")，質量約為[太陽的一半](https://zh.wikipedia.org/wiki/太陽 "wikilink")。它們被認為曾經質量與太陽相似或稍低，約0.8太陽質量的恆星，但是在[紅巨星分支階段甩掉了部分質量](https://zh.wikipedia.org/wiki/紅巨星分支 "wikilink")。
+天琴座RR型變星是脈動的[水平分支老化恆星](../Page/水平分支.md "wikilink")，[光譜類型為A或F](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")，質量約為[太陽的一半](https://zh.wikipedia.org/wiki/太陽 "wikilink")。它們被認為曾經質量與太陽相似或稍低，約0.8太陽質量的恆星，但是在[紅巨星分支階段甩掉了部分質量](../Page/紅巨星分支.md "wikilink")。
 
 天琴座RR型變星的脈動週期和絕對星等的關係，使它們成為相對鄰近，特別是在銀河系內和[本星系群的良好](../Page/本星系群.md "wikilink")[標準燭光](../Page/標準燭光.md "wikilink")。由於其亮度較低，在銀河系之外很難被偵測到。它們被廣泛地用在對[球狀星團的研究](../Page/球狀星團.md "wikilink")，也被用在老化恆星化學性質的研究。
 
@@ -14,7 +14,7 @@
 
 第一顆在星團外確認的天琴座RR型變星可能是[天兔座U](https://zh.wikipedia.org/wiki/天兔座U "wikilink")，它是在1890年由[雅各布斯·卡普坦發現的](../Page/雅各布斯·卡普坦.md "wikilink")。
 
-原型的[天琴座RR是在](../Page/天琴座RR.md "wikilink")1899年之前由[威廉敏娜·弗萊明發現的](https://zh.wikipedia.org/wiki/威廉敏娜·弗萊明 "wikilink")，皮克林在1900年的報告中說"無法與星團型變星區分開來"。
+原型的[天琴座RR是在](../Page/天琴座RR.md "wikilink")1899年之前由[威廉敏娜·弗萊明發現的](../Page/威廉敏娜·弗萊明.md "wikilink")，皮克林在1900年的報告中說"無法與星團型變星區分開來"。
 
 從1915年至1930年，由於期較短的週期、星系內不同的位置以及化學上的差異，這一類型的變星越來越被接受為不同於[經典造父變星的一類恆星](../Page/經典造父變星.md "wikilink")。天琴座RR型變星是[貧金屬的](../Page/金屬量.md "wikilink")[第二星族星](../Page/金屬量.md "wikilink")
 \[1\]。

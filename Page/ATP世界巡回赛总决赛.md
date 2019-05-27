@@ -122,11 +122,11 @@ Cup），参赛选手为当年大满贯回赛中纪录最好的16位选手。199
 | [2011年](https://zh.wikipedia.org/wiki/2011年ATP世界巡迴賽總決賽 "wikilink") |
 | [2012年](https://zh.wikipedia.org/wiki/2012年ATP世界巡迴賽總決賽 "wikilink") |
 | [2013年](https://zh.wikipedia.org/wiki/2013年ATP世界巡迴賽總決賽 "wikilink") |
-| [2014年](https://zh.wikipedia.org/wiki/2014年ATP世界巡迴賽總決賽 "wikilink") |
+| [2014年](../Page/2014年ATP世界巡迴賽總決賽.md "wikilink")                    |
 | [2015年](https://zh.wikipedia.org/wiki/2015年ATP世界巡迴賽總決賽 "wikilink") |
 | [2016年](https://zh.wikipedia.org/wiki/2016年ATP世界巡迴賽總決賽 "wikilink") |
 | [2017年](https://zh.wikipedia.org/wiki/2017年ATP世界巡迴賽總決賽 "wikilink") |
-| [2018年](https://zh.wikipedia.org/wiki/2018年ATP世界巡迴賽總決賽 "wikilink") |
+| [2018年](../Page/2018年ATP世界巡迴賽總決賽.md "wikilink")                    |
 |                                                                    |
 
 ### 参赛选手（2000年後）

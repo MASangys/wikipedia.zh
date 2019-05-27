@@ -67,7 +67,7 @@ Helmand province, Afghanistan, April 9, 2013
   - 2012年—《[-{zh-hans:勇者行动; zh-hk:海豹突擊隊;
     zh-tw:海豹神兵：英勇行動;}-](https://zh.wikipedia.org/wiki/勇者行動 "wikilink")》：被數名[海豹部隊隊員所使用](../Page/海豹部隊.md "wikilink")。
   - 2014年—《[美國狙擊手](https://zh.wikipedia.org/wiki/美國狙擊手 "wikilink")》：被[克里斯·凱爾](../Page/克里斯·凱爾.md "wikilink")（[布萊德利·庫柏飾演](../Page/布萊德利·庫柏.md "wikilink")）在內的多名[海豹部隊隊員所使用](../Page/海豹部隊.md "wikilink")，沙色塗裝並裝上各種戰術配件。
-  - 2015年—《[战狼](https://zh.wikipedia.org/wiki/战狼 "wikilink")》：被雇佣兵组织成员「司机」（[索纳·伊姆贝饰](https://zh.wikipedia.org/wiki/索纳·伊姆贝 "wikilink")）和「猴子」（[凯尔·夏皮罗饰](https://zh.wikipedia.org/wiki/凯尔·夏皮罗 "wikilink")）所使用，「司机」版本加装[ACOG瞄准镜和](https://zh.wikipedia.org/wiki/ACOG瞄准镜 "wikilink")[M203榴弹发射器](https://zh.wikipedia.org/wiki/M203榴弹发射器 "wikilink")，「猴子」版本加装[前握把和](../Page/輔助握把.md "wikilink")[ACOG瞄准镜](https://zh.wikipedia.org/wiki/ACOG瞄准镜 "wikilink")。
+  - 2015年—《[战狼](../Page/战狼.md "wikilink")》：被雇佣兵组织成员「司机」（[索纳·伊姆贝饰](https://zh.wikipedia.org/wiki/索纳·伊姆贝 "wikilink")）和「猴子」（[凯尔·夏皮罗饰](https://zh.wikipedia.org/wiki/凯尔·夏皮罗 "wikilink")）所使用，「司机」版本加装[ACOG瞄准镜和](https://zh.wikipedia.org/wiki/ACOG瞄准镜 "wikilink")[M203榴弹发射器](https://zh.wikipedia.org/wiki/M203榴弹发射器 "wikilink")，「猴子」版本加装[前握把和](../Page/輔助握把.md "wikilink")[ACOG瞄准镜](https://zh.wikipedia.org/wiki/ACOG瞄准镜 "wikilink")。
   - 2016年—《[-{zh-hk:13小時：班加西無名英雄;zh-tw:13小時：班加西的秘密士兵;zh-cn:危机13小时;}-](../Page/13小時：班加西的秘密士兵.md "wikilink")》：被全球應對人員葛蘭·「布伯」·杜赫提（[托比·史蒂芬飾演](https://zh.wikipedia.org/wiki/托比·史蒂芬 "wikilink")）和[美國國務院](https://zh.wikipedia.org/wiki/美國國務院 "wikilink")探員戴夫·「布恩」·班頓（[大衛·丹曼飾演](../Page/大衛·丹曼.md "wikilink")）所使用，裝上[全息瞄準鏡和](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")[前握把](../Page/輔助握把.md "wikilink")。
 
 ### 电子游戏
@@ -83,7 +83,7 @@ Helmand province, Afghanistan, April 9, 2013
   - 2012年—《[-{zh-hans:反恐精英：全球攻势;
     zh-hant:絕對武力：全球攻勢;}-](https://zh.wikipedia.org/wiki/絕對武力：全球攻勢 "wikilink")》（Counter-Strike:
     Global Offensive）：命名為「M4A4」，為反恐小組的可用武器。
-  - 2012年—《[战争前线](https://zh.wikipedia.org/wiki/战争前线 "wikilink")》（Warface）：命名为“M4
+  - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：命名为“M4
     CQB”，取消了前照准器与提把而改为导轨安装的售后市场机械瞄具。使用30发[STANAG弹匣装弹](https://zh.wikipedia.org/wiki/STANAG弹匣 "wikilink")。為工程兵武器，无需解锁即可购买，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、冲锋枪消音器、[冲锋枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")）、战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")、[冲锋枪握把](https://zh.wikipedia.org/wiki/宽型前握把 "wikilink")）以及瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、冲锋枪普通瞄准镜、冲锋枪高级瞄准镜）。擁有林地迷彩和白金版兩種改裝版本，提高威力，載彈以及精准度，均可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、冲锋枪消音器、[冲锋枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[冲锋枪刺刀](../Page/刺刀.md "wikilink")）、战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")、[冲锋枪握把](https://zh.wikipedia.org/wiki/宽型前握把 "wikilink")、冲锋枪握把架）以及瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、冲锋枪普通瞄准镜、冲锋枪高级瞄准镜、[冲锋枪专家瞄准镜](https://zh.wikipedia.org/wiki/Leupold_Mark_4_CQ/T光学瞄准镜 "wikilink")）。

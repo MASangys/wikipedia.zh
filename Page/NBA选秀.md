@@ -45,7 +45,7 @@ NBA规定了两个选秀资格声明日期。所有希望参与选秀但是没�
   - [NBA全明星新秀赛](https://zh.wikipedia.org/wiki/NBA全明星新秀赛 "wikilink")
   - [选秀](../Page/选秀.md "wikilink")
   - [扩张选秀](../Page/扩张选秀.md "wikilink")
-  - [NBA樂透抽籤](https://zh.wikipedia.org/wiki/NBA樂透抽籤 "wikilink")
+  - [NBA樂透抽籤](../Page/NBA樂透抽籤.md "wikilink")
   - [地緣選秀](../Page/地緣選秀.md "wikilink")
 
 ## 參考資料

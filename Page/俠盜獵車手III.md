@@ -2,7 +2,7 @@
 North的前身）制作的[電視與電腦](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，由[Rockstar
 Games於](../Page/Rockstar_Games.md "wikilink")2001年10月在[遊戲機](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")[PlayStation
 2上發行](../Page/PlayStation_2.md "wikilink")，2002年5月發售基於[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[電腦的版本](https://zh.wikipedia.org/wiki/電腦 "wikilink")，2012年发售支持[IOS及](../Page/IOS.md "wikilink")[Android操作系统的移动平台版](../Page/Android.md "wikilink")。2003年11月發售[Xbox版](https://zh.wikipedia.org/wiki/Xbox "wikilink")。該作是[俠盜獵車手系列的一部分](../Page/俠盜獵車手系列.md "wikilink")，前作為《[俠盜獵車手II](https://zh.wikipedia.org/wiki/俠盜獵車手II "wikilink")》（）。《俠盜獵車手III》亦是該系列第一次在PlayStation
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[電腦的版本](https://zh.wikipedia.org/wiki/電腦 "wikilink")，2012年发售支持[IOS及](../Page/IOS.md "wikilink")[Android操作系统的移动平台版](../Page/Android.md "wikilink")。2003年11月發售[Xbox版](../Page/Xbox.md "wikilink")。該作是[俠盜獵車手系列的一部分](../Page/俠盜獵車手系列.md "wikilink")，前作為《[俠盜獵車手II](https://zh.wikipedia.org/wiki/俠盜獵車手II "wikilink")》（）。《俠盜獵車手III》亦是該系列第一次在PlayStation
 2上發行。
 
 該遊戲圍繞一個在一次銀行搶劫中被自己女友背叛的無名罪犯，在主角對抗她並獲得最終復仇機會之前，他需要靠自己以及其他黑幫中人提供的任務和工作來逐步晉身為城市中的犯罪頭子。像前作一樣，《俠盜獵車手III》實現了像[沙盒的](https://zh.wikipedia.org/wiki/沙盒 "wikilink")[遊戲性](https://zh.wikipedia.org/wiki/遊戲性 "wikilink")，玩家可在一個大城市中自由地實行各種活動，例如完成任務、探索城市、犯罪或完成次要任務。
@@ -146,7 +146,7 @@ Burro給予](https://zh.wikipedia.org/wiki/El_Burro "wikilink")，在最終版�
 [Gta3pc.jpg](https://zh.wikipedia.org/wiki/File:Gta3pc.jpg "fig:Gta3pc.jpg")與愛爾蘭發行（在此為Windows版）的封面設計，突然改為一個意味深長的不同封面設計。\]\]
 
 在最初[PlayStation
-2上](../Page/PlayStation_2.md "wikilink")《俠盜獵車手III》發行之後，[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")（PC）與[Xbox版跟隨著發行](https://zh.wikipedia.org/wiki/Xbox "wikilink")。《俠盜獵車手III》特別值得注意因為是該系列首次在家用機上原創的作品；以往的《俠盜獵車手》在移植到家用機與手持裝置前會先推出Windows版本。根據《俠盜獵車手III》，PlayStation
+2上](../Page/PlayStation_2.md "wikilink")《俠盜獵車手III》發行之後，[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")（PC）與[Xbox版跟隨著發行](../Page/Xbox.md "wikilink")。《俠盜獵車手III》特別值得注意因為是該系列首次在家用機上原創的作品；以往的《俠盜獵車手》在移植到家用機與手持裝置前會先推出Windows版本。根據《俠盜獵車手III》，PlayStation
 2的俠盜獵車手遊戲一般沿着《俠盜獵車手III》的發行形式，在PlayStation
 2發行七到八個月後移植Windows發行。\[11\]\[12\]\[13\]
 

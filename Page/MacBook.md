@@ -21,7 +21,7 @@ Air](../Page/MacBook_Air.md "wikilink")，MacBook產品系列于2011年7月20日
 US$899 的价格出售 MacBook
 直到2012年2月。\[2\]。在2015年4月10日，蘋果發表年度新產品，重新導入MacBook系列。对于新款的
 MacBook 系列，请参见[MacBook
-(Retina显示屏)](https://zh.wikipedia.org/wiki/MacBook_\(Retina显示屏\) "wikilink")。
+(Retina显示屏)](../Page/MacBook_\(Retina显示屏\).md "wikilink")。
 
 ## 第一代
 

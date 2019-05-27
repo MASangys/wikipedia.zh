@@ -39,13 +39,13 @@
 <tr class="odd">
 <td><p><a href="../Page/南瓜剪刀.md" title="wikilink">南瓜剪刀</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岩永亮太郎" title="wikilink">岩永亮太郎</a></p></td>
+<td><p><a href="../Page/岩永亮太郎.md" title="wikilink">岩永亮太郎</a></p></td>
 <td></td>
 <td><p>2006年11月號</p></td>
 <td><p>從《<a href="https://zh.wikipedia.org/wiki/Magazine_+" title="wikilink">GREAT</a>》移籍</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/假面骑士SPIRITS" title="wikilink">新假面騎士SPIRITS</a></p></td>
+<td><p><a href="../Page/假面骑士SPIRITS.md" title="wikilink">新假面騎士SPIRITS</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/石之森章太郎.md" title="wikilink">石之森章太郎</a></p></td>
@@ -111,7 +111,7 @@
 <tr class="even">
 <td><p>再見了我的克拉默</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新川直司" title="wikilink">新川直司</a></p></td>
+<td><p><a href="../Page/新川直司.md" title="wikilink">新川直司</a></p></td>
 <td></td>
 <td><p>2016年6月號</p></td>
 <td></td>
@@ -141,7 +141,7 @@
 <td><p>從《》移籍</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/終結的熾天使" title="wikilink">終結的熾天使：一瀨紅蓮，破滅的16歲</a></p></td>
+<td><p><a href="../Page/終結的熾天使.md" title="wikilink">終結的熾天使：一瀨紅蓮，破滅的16歲</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鏡貴也" title="wikilink">鏡貴也</a></p></td>
@@ -159,7 +159,7 @@
 <tr class="even">
 <td><p>廢柴女友愛撒驕</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吉田渚經" title="wikilink">吉田渚經</a></p></td>
+<td><p><a href="../Page/吉田渚經.md" title="wikilink">吉田渚經</a></p></td>
 <td></td>
 <td><p>2018年2月號</p></td>
 <td></td>
@@ -230,7 +230,7 @@
   - [ソップ型](https://zh.wikipedia.org/wiki/ソップ型 "wikilink")（[西本英雄](https://zh.wikipedia.org/wiki/西本英雄 "wikilink")）
   - [大暴走](https://zh.wikipedia.org/wiki/大暴走 "wikilink")（[手塚治虫](../Page/手塚治虫.md "wikilink")）
   - [鐵拳小子](https://zh.wikipedia.org/wiki/鐵拳小子 "wikilink")（日：）（[前川剛](../Page/前川剛.md "wikilink")）
-  - [四月是你的謊言](https://zh.wikipedia.org/wiki/四月是你的謊言 "wikilink")（[新川直司](https://zh.wikipedia.org/wiki/新川直司 "wikilink")）2011年5月号
+  - [四月是你的謊言](../Page/四月是你的謊言.md "wikilink")（[新川直司](../Page/新川直司.md "wikilink")）2011年5月号
     -
   - [天才笨蛋阿松](https://zh.wikipedia.org/wiki/天才笨蛋阿松 "wikilink")（日：）（[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")）
   - [どっきんロリポップ](https://zh.wikipedia.org/wiki/どっきんロリポップ "wikilink")（[井澤まさみ](https://zh.wikipedia.org/wiki/井澤まさみ "wikilink")）

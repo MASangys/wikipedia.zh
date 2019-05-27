@@ -73,12 +73,12 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
 <!-- end list -->
 
   - 5月8日，韩国SM娱乐有限公司正式宣布与[百度达成战略合作关系](../Page/百度.md "wikilink")。通过此次战略合作，百度音乐、爱奇艺将获得SM旗下艺人正版数位音乐、MV、演出视频等在中国大陆地区的全面授权，同时将共同深度运营SM旗下艺人的官方贴吧。5月15日，[EXO-M隊長](../Page/EXO-M.md "wikilink")[Kris於首爾中央法院對公司提出](../Page/吳亦凡.md "wikilink")「合約再確認」的訴訟，並於2016年7月20日正式和解。8月1日，公司旗下新女子組合[Red
-    Velvet出道](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。
+    Velvet出道](../Page/Red_Velvet.md "wikilink")。
 
 <!-- end list -->
 
   - 9月30日，旗下王牌女子团体[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[鄭秀妍表示被公司告知退出少女時代](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")。當日下午公司發表聲明，指出鄭秀妍因個人事業與團體活動的矛盾無法妥善處理，因此讓鄭秀妍離開少女時代，以個人身分進行演藝活動，而少女時代也將以八人之姿繼續活動\[11\]\[12\]。9月，推出項目‘BeatBurger
-    Project’，意在聚集具有創造力的人才，共同創出屬於SM自己的舞蹈\[13\]。10月10日，[EXO-M成员](../Page/EXO-M.md "wikilink")[Luhan因自称身體亮起紅燈等原因](https://zh.wikipedia.org/wiki/鹿晗 "wikilink")，向韓國SM娛樂有限公司提出合約無效。
+    Project’，意在聚集具有創造力的人才，共同創出屬於SM自己的舞蹈\[13\]。10月10日，[EXO-M成员](../Page/EXO-M.md "wikilink")[Luhan因自称身體亮起紅燈等原因](../Page/鹿晗.md "wikilink")，向韓國SM娛樂有限公司提出合約無效。
 
 <!-- end list -->
 
@@ -88,7 +88,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
 <!-- end list -->
 
   - 8月25日，SM娛樂推出新的演唱會系列品牌[THE
-    AGIT](https://zh.wikipedia.org/wiki/THE_AGIT "wikilink")，命名取自於「為SM的藝人們專門準備的用來招待歌迷的秘密活動指揮部（Agitpunkt的縮略）」。演唱會主要在韓國國內首度打造的輕量型公演場舉行，該公演場位於首爾三成洞SMTOWN
+    AGIT](../Page/THE_AGIT.md "wikilink")，命名取自於「為SM的藝人們專門準備的用來招待歌迷的秘密活動指揮部（Agitpunkt的縮略）」。演唱會主要在韓國國內首度打造的輕量型公演場舉行，該公演場位於首爾三成洞SMTOWN
     THEATRE舉行，SM旗下的藝術家們以特別的概念展開接力演出。第一個帶來演出的是SHINee成員[鐘鉉](../Page/鐘鉉.md "wikilink")\[17\]。同日，SM娛樂宣布與體育運動行銷公司IB
     WORLDWIDE通過相互投資簽署了戰略聯盟，在娛樂和運動方面展開合作，並將商號改為「GALAXIA SM」。\[18\]。
 
@@ -96,8 +96,8 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
 
   - 11月6日，男子團體[Super
     Junior出道](../Page/Super_Junior.md "wikilink")10周年，同時所屬經紀公司SM娛樂宣布創立專屬廠牌[Label
-    SJ](https://zh.wikipedia.org/wiki/Label_SJ "wikilink")，此後將全面負責團體與成員個人之活動、專輯製作，公司方面將給予製作費及行銷上的支持。\[19\]。而[Label
-    SJ的成立為](https://zh.wikipedia.org/wiki/Label_SJ "wikilink")[Super
+    SJ](../Page/Label_SJ.md "wikilink")，此後將全面負責團體與成員個人之活動、專輯製作，公司方面將給予製作費及行銷上的支持。\[19\]。而[Label
+    SJ的成立為](../Page/Label_SJ.md "wikilink")[Super
     Junior成員們與經紀公司商討兩年之結果](../Page/Super_Junior.md "wikilink")；營運方向由成員們及經紀人共同決策。\[20\]。
 
 <!-- end list -->
@@ -132,7 +132,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
     「K-POP國際學校」，致力於培養世界性大眾藝術人才\[28\]。
   - 2016年7月7日，公司旗下跨國籍男子組合NCT第二分隊NCT 127 在韓國正式出道。\[29\]2016年7月21日，與
     [EXO](../Page/EXO.md "wikilink") 離團成員
-    [Kris](../Page/吳亦凡.md "wikilink")、[Luhan間的訴訟](https://zh.wikipedia.org/wiki/鹿晗 "wikilink")，
+    [Kris](../Page/吳亦凡.md "wikilink")、[Luhan間的訴訟](../Page/鹿晗.md "wikilink")，
     長達約兩年的合約糾紛正式結束，三方當事人協議，合約將有效維持至2022年，但兩人不會作為EXO一員活動。且在韓國與日本的活动均需交由SM娛樂負責，而除此之外地區的活動則須向公司缴纳一定比例的收入，並正式退出組合\[30\]。
 
 <!-- end list -->
@@ -151,10 +151,10 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
 
 <!-- end list -->
 
-  - 2017年3月30日，公告投資[Mystic娛樂](https://zh.wikipedia.org/wiki/Mystic娛樂 "wikilink")，以28%股份成為最大投資者。\[32\]
+  - 2017年3月30日，公告投資[Mystic娛樂](../Page/Mystic娛樂.md "wikilink")，以28%股份成為最大投資者。\[32\]
   - 2017年11月1日，宣布更換舊有企業標識，代表色為粉、白、藍、灰，分別表示俐落、現代感性、革新、中性、知性。
   - 2017年12月18日，其旗下男團SHINee的27歲主音鐘鉉於韓國時間傍晚6點半於首爾清潭洞一間服務式住宅內被發現燒炭自殺身亡，初時情況危殆，心跳停止，被送往建大醫院，送院後證實不治。
-  - 2018年3月14日，購買演員經紀公司[Keyeast部分股份](../Page/Keyeast.md "wikilink")\[33\]。並購買[FNC旗下FNC](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")
+  - 2018年3月14日，購買演員經紀公司[Keyeast部分股份](../Page/Keyeast.md "wikilink")\[33\]。並購買[FNC旗下FNC](../Page/FNC娛樂.md "wikilink")
     Add Culture部分股份，成為最大股東，與FNC達成戰略結盟。\[34\]
   - 2018年5月10日，宣布与越南最大型零售 &
     生活方式(lifestyle)企业联手战略合作，并签订MOU协议以推进共同事业。\[35\]
@@ -204,7 +204,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
 
   - [BoA](../Page/寶兒.md "wikilink")
   - [J-Min](../Page/J-Min.md "wikilink")
-  - *[喜悅Dana](https://zh.wikipedia.org/wiki/喜悅Dana "wikilink")*
+  - *[喜悅Dana](../Page/喜悅Dana.md "wikilink")*
   - *智聲Sunday*
   - [Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")
   - [太妍](../Page/太妍.md "wikilink")
@@ -234,7 +234,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
   - *[天上智喜](../Page/天上智喜.md "wikilink")*
   - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
   - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
-  - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")
+  - [Red Velvet](../Page/Red_Velvet.md "wikilink")
 
 ### 子團組合
 
@@ -250,15 +250,14 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
         Eunhyuk](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")
   - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
       - *[少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")*
-      - [少女時代-Oh\!
-        GG](https://zh.wikipedia.org/wiki/少女時代-Oh!_GG "wikilink")
+      - [少女時代-Oh\! GG](../Page/少女時代-Oh!_GG.md "wikilink")
 
 <!-- end list -->
 
   - [EXO](../Page/EXO.md "wikilink")
       - *[EXO-K](../Page/EXO-K.md "wikilink")*
       - *[EXO-M](../Page/EXO-M.md "wikilink")*
-      - [EXO-CBX](https://zh.wikipedia.org/wiki/EXO-CBX "wikilink")
+      - [EXO-CBX](../Page/EXO-CBX.md "wikilink")
   - [NCT](../Page/NCT.md "wikilink")
       - [NCT U](../Page/NCT.md "wikilink")
       - [NCT 127](../Page/NCT.md "wikilink")
@@ -279,7 +278,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
 
   - [S.M. The Performance](../Page/S.M._The_Performance.md "wikilink")
 
-  - [Toheart](https://zh.wikipedia.org/wiki/Toheart "wikilink")
+  - [Toheart](../Page/Toheart.md "wikilink")
 
 <!-- end list -->
 
@@ -304,7 +303,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
   - 崔钟允
   - 金京植
   - 金伊安
-  - [李哲宇](https://zh.wikipedia.org/wiki/李哲宇 "wikilink")
+  - [李哲宇](../Page/李哲宇.md "wikilink")
   - 奇道勳
 
 <!-- end list -->
@@ -326,7 +325,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
   - [李秀滿](https://zh.wikipedia.org/wiki/李秀滿 "wikilink")（執行製作人）
   - Hitchhiker
   - Evans
-  - [Kenzie](https://zh.wikipedia.org/wiki/Kenzie "wikilink")
+  - [Kenzie](../Page/Kenzie.md "wikilink")
   - [俞永鎮](https://zh.wikipedia.org/wiki/俞永鎮 "wikilink")
   - 宋光植
   - [安七炫](../Page/安七炫.md "wikilink")
@@ -338,7 +337,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
 
 <!-- end list -->
 
-  - [Kenzie](https://zh.wikipedia.org/wiki/Kenzie "wikilink")
+  - [Kenzie](../Page/Kenzie.md "wikilink")
   - [俞永鎮](https://zh.wikipedia.org/wiki/俞永鎮 "wikilink")
   - Misfit
   - Seo Ji-eum
@@ -396,7 +395,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
 ### 其他艺人
 
   - 与SM公司的合约经调解继续生效，并由公司负责其在韩国和日本的活动。
-      - [Luhan](https://zh.wikipedia.org/wiki/鹿晗 "wikilink")
+      - [Luhan](../Page/鹿晗.md "wikilink")
       - [Kris](../Page/吳亦凡.md "wikilink")
   - 艺人的合约无效诉讼经判决败诉，公司方面胜诉。
       - [TAO](../Page/黃子韜.md "wikilink")
@@ -498,9 +497,9 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
 <!-- end list -->
 
   - 2014年
-      - [MiMi](https://zh.wikipedia.org/wiki/MiMi "wikilink")
+      - [MiMi](../Page/MiMi.md "wikilink")
   - 2015年
-      - [我的鄰居是EXO](https://zh.wikipedia.org/wiki/我的鄰居是EXO "wikilink")
+      - [我的鄰居是EXO](../Page/我的鄰居是EXO.md "wikilink")
       - [D-Day](../Page/D-Day_\(電視劇\).md "wikilink")
       - [生意之神－客主2015](../Page/生意之神－客主2015.md "wikilink")
   - 2016年
@@ -514,8 +513,8 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
       - [Missing9](../Page/Missing9.md "wikilink")
   - 2018年
       - [能先接吻嗎](https://zh.wikipedia.org/wiki/能先接吻嗎 "wikilink")
-      - [油膩的Melo](https://zh.wikipedia.org/wiki/油膩的Melo "wikilink")
-      - [皇后的品格](https://zh.wikipedia.org/wiki/皇后的品格 "wikilink")
+      - [油膩的Melo](../Page/油膩的Melo.md "wikilink")
+      - [皇后的品格](../Page/皇后的品格.md "wikilink")
 
 ### 綜藝節目
 
@@ -546,21 +545,20 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
 
   - 2016年
       - [孝淵的千萬LIKE](https://zh.wikipedia.org/wiki/孝淵的千萬LIKE "wikilink")
-      - [My SMT](https://zh.wikipedia.org/wiki/My_SMT "wikilink")
-      - [NCT LIFE](https://zh.wikipedia.org/wiki/NCT_LIFE "wikilink")
+      - [My SMT](../Page/My_SMT.md "wikilink")
+      - [NCT LIFE](../Page/NCT_LIFE.md "wikilink")
       - [人生酒館](https://zh.wikipedia.org/wiki/人生酒館 "wikilink")
   - 2017年
-      - [孝利家民宿](https://zh.wikipedia.org/wiki/孝利家民宿 "wikilink")
+      - [孝利家民宿](../Page/孝利家民宿.md "wikilink")
       - [认识的哥哥](https://zh.wikipedia.org/wiki/认识的哥哥 "wikilink")
-      - [LEVEL UP
-        PROJECT\!](https://zh.wikipedia.org/wiki/LEVEL_UP_PROJECT! "wikilink")
-      - [雪球項目](https://zh.wikipedia.org/wiki/雪球項目 "wikilink")
+      - [LEVEL UP PROJECT\!](../Page/LEVEL_UP_PROJECT!.md "wikilink")
+      - [雪球項目](../Page/雪球項目.md "wikilink")
   - 2018年
-      - [孝利家民宿](https://zh.wikipedia.org/wiki/孝利家民宿 "wikilink") S2
+      - [孝利家民宿](../Page/孝利家民宿.md "wikilink") S2
       - [LEVEL UP PROJECT\!
-        S2](https://zh.wikipedia.org/wiki/LEVEL_UP_PROJECT!_S2 "wikilink")
-      - [Keyword＃BoA](https://zh.wikipedia.org/wiki/Keyword＃BoA "wikilink")
-      - [秘密姐姐](https://zh.wikipedia.org/wiki/秘密姐姐 "wikilink")
+        S2](../Page/LEVEL_UP_PROJECT!_S2.md "wikilink")
+      - [Keyword＃BoA](../Page/Keyword＃BoA.md "wikilink")
+      - [秘密姐姐](../Page/秘密姐姐.md "wikilink")
       - [糧食日記](https://zh.wikipedia.org/wiki/糧食日記 "wikilink")
 
 ### 音樂劇
@@ -679,13 +677,13 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
   - 韓沐伯（Awaken-F）
   - [許永生](../Page/許永生.md "wikilink")（[SS501](../Page/SS501.md "wikilink")、[SS301](https://zh.wikipedia.org/wiki/SS301 "wikilink")）
   - [侯明昊](https://zh.wikipedia.org/wiki/侯明昊 "wikilink")
-  - [黃仁虎](https://zh.wikipedia.org/wiki/黃仁虎 "wikilink")（[IN2IT](https://zh.wikipedia.org/wiki/IN2IT "wikilink")）
+  - [黃仁虎](https://zh.wikipedia.org/wiki/黃仁虎 "wikilink")（[IN2IT](../Page/IN2IT.md "wikilink")）
   - 池韓率（NewKidd）
-  - [趙珍虎](https://zh.wikipedia.org/wiki/趙珍虎 "wikilink")（[PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")）
+  - [趙珍虎](../Page/趙珍虎.md "wikilink")（[PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")）
   - [鄭丙熙](../Page/G.O.md "wikilink")（[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")，藝名為**G.O**）
   - [金力燦](https://zh.wikipedia.org/wiki/金力燦 "wikilink")
   - [金仁性](https://zh.wikipedia.org/wiki/仁誠 "wikilink")（[SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")）
-  - [金振煥](https://zh.wikipedia.org/wiki/金振煥 "wikilink")（[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")，藝名為**Jay**）
+  - [金振煥](../Page/金振煥.md "wikilink")（[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")，藝名為**Jay**）
   - [金鍾旼](../Page/金鍾旼.md "wikilink")（[高耀太](../Page/高耀太.md "wikilink")）
   - 金文奎（[HOTSHOT](../Page/HOTSHOT.md "wikilink")，藝名為**Timoteo**）
   - 金湘訓（藝名為**C:ODE**）
@@ -693,10 +691,9 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
     Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")）
   - 權宰煥（[N-SONIC](../Page/N-SONIC.md "wikilink")，藝名為**J-Heart**）
   - [权志龙](https://zh.wikipedia.org/wiki/权志龙 "wikilink")（[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，藝名為**G-Dragon**）
-  - 权顺日（[城市札卡巴](https://zh.wikipedia.org/wiki/城市札卡巴 "wikilink")）
-  - [李東憲](https://zh.wikipedia.org/wiki/李東憲 "wikilink")（[VERIVERY](https://zh.wikipedia.org/wiki/VERIVERY "wikilink")）
-  - 李長埈（[Golden
-    Child](https://zh.wikipedia.org/wiki/Golden_Child "wikilink")）
+  - 权顺日（[城市札卡巴](../Page/城市札卡巴.md "wikilink")）
+  - [李東憲](https://zh.wikipedia.org/wiki/李東憲 "wikilink")（[VERIVERY](../Page/VERIVERY.md "wikilink")）
+  - 李長埈（[Golden Child](../Page/Golden_Child.md "wikilink")）
   - [李成烈](https://zh.wikipedia.org/wiki/李成烈 "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")）
   - [朴志訓](https://zh.wikipedia.org/wiki/朴志訓 "wikilink")
   - [禹智皓](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")（藝名為**Zico**）
@@ -706,8 +703,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
   - 李和英（《[少年24](../Page/少年24.md "wikilink")》）
   - 朴塗荷（《[少年24](../Page/少年24.md "wikilink")》、《[MIX
     NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")》）
-  - [朴容主](https://zh.wikipedia.org/wiki/朴容主 "wikilink")（《星動亞洲》 S1 &
-    S2、《[The
+  - [朴容主](../Page/朴容主.md "wikilink")（《星動亞洲》 S1 & S2、《[The
     Fan](https://zh.wikipedia.org/wiki/The_Fan "wikilink")》）
   - 周彥辰（《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）
 
@@ -732,11 +728,11 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
 <small>**歌手**</small>
 
   - [程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")）
-  - [崔智秀](https://zh.wikipedia.org/wiki/崔智秀 "wikilink")（[ITZY](https://zh.wikipedia.org/wiki/ITZY "wikilink")，藝名為**Lia**）
+  - [崔智秀](../Page/崔智秀.md "wikilink")（[ITZY](../Page/ITZY.md "wikilink")，藝名為**Lia**）
   - [咸𤨒晶](../Page/咸𤨒晶.md "wikilink")（[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")，除本名另有藝名**Elsie**）
   - 張知秀（[七學年一班](../Page/七學年一班.md "wikilink")，藝名為**白世熙**）
   - 趙河朗（藝名為**趙敏雅**）
-  - [金知妍](https://zh.wikipedia.org/wiki/苞娜 "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，藝名為**苞娜**）
+  - [金知妍](../Page/苞娜.md "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，藝名為**苞娜**）
   - 金容媛（[C-REAL](../Page/C-REAL.md "wikilink")，藝名為**Chemi**）
   - [李孝利](../Page/李孝利.md "wikilink")
   - 李欢熙
@@ -757,7 +753,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
   - 許讚美（《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》、《[MIX
     NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")》）
   - 徐慧仁（《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》）
-  - [徐藝洋](https://zh.wikipedia.org/wiki/徐藝洋 "wikilink")（《[中国梦之声·下一站传奇](https://zh.wikipedia.org/wiki/中国梦之声·下一站传奇 "wikilink")》）
+  - [徐藝洋](https://zh.wikipedia.org/wiki/徐藝洋 "wikilink")（《[中国梦之声·下一站传奇](../Page/中国梦之声·下一站传奇.md "wikilink")》）
 
 ## 參考資料
 

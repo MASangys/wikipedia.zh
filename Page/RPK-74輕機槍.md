@@ -19,9 +19,9 @@ RPK-74是與AK-74一起研發並同時服役的，研製目的是為了滿足蘇
   - **RPK-74N**—装有NSPU夜视瞄准镜
   - **RPK-74N2**—RPK-74N的塑料护木及枪托版本
   - **RPK-74M**—装有塑料护木及塑料折叠枪托的現代化版本
-  - **[RPK-201](https://zh.wikipedia.org/wiki/RPK-201輕機槍 "wikilink")**—發射[5.56×45毫米北約子彈的出口版本](../Page/5.56×45mm_NATO.md "wikilink")
-  - **[RPK-203](https://zh.wikipedia.org/wiki/RPK-203輕機槍 "wikilink")**—發射[7.62×39毫米中間型威力槍彈的出口版本](../Page/7.62×39mm.md "wikilink")
-  - **[RPK-16](https://zh.wikipedia.org/wiki/RPK-16輕機槍 "wikilink")**—現代化改進型。
+  - **[RPK-201](../Page/RPK-201輕機槍.md "wikilink")**—發射[5.56×45毫米北約子彈的出口版本](../Page/5.56×45mm_NATO.md "wikilink")
+  - **[RPK-203](../Page/RPK-203輕機槍.md "wikilink")**—發射[7.62×39毫米中間型威力槍彈的出口版本](../Page/7.62×39mm.md "wikilink")
+  - **[RPK-16](../Page/RPK-16輕機槍.md "wikilink")**—現代化改進型。
 
 ## 使用國
 

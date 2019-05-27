@@ -71,7 +71,7 @@ Scotland）的會員投票選出上年度的最佳年青球員。提名名單於
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1988–89_in_Scottish_football" title="wikilink">1988–89年</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/比利·麥堅尼" title="wikilink">比利·麥堅尼</a>（Billy McKinlay）</p></td>
+<td><p><a href="../Page/比利·麥堅尼.md" title="wikilink">比利·麥堅尼</a>（Billy McKinlay）</p></td>
 <td><p><a href="../Page/邓迪联足球俱乐部.md" title="wikilink">-{zh-hans:邓迪联; zh-hant:登地聯;}-</a></p></td>
 </tr>
 <tr class="odd">
@@ -196,7 +196,7 @@ Scotland）的會員投票選出上年度的最佳年青球員。提名名單於
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2013–14_in_Scottish_football" title="wikilink">2013–14年</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安祖·羅拔臣" title="wikilink">-{zh-hans:安德鲁·罗伯逊;zh-hk:安祖·羅拔臣;}-</a>[7]</p></td>
+<td><p><a href="../Page/安祖·羅拔臣.md" title="wikilink">-{zh-hans:安德鲁·罗伯逊;zh-hk:安祖·羅拔臣;}-</a>[7]</p></td>
 <td><p><a href="../Page/邓迪联足球俱乐部.md" title="wikilink">-{zh-hans:邓迪联; zh-hk:登地聯;}-</a></p></td>
 </tr>
 <tr class="even">

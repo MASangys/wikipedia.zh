@@ -39,7 +39,7 @@ Map的主音](https://zh.wikipedia.org/wiki/System_Map "wikilink")。現為香�
   - 《[六樓后座2家屬謝禮](../Page/六樓后座2家屬謝禮.md "wikilink")》飾 C君(2008年4月24日上映)
   - 《[內衣少女](../Page/內衣少女.md "wikilink")》 (2008) 飾 CY
   - 《[死神傻了](../Page/死神傻了.md "wikilink")》 (2009)
-  - 《[跳出去](https://zh.wikipedia.org/wiki/跳出去 "wikilink")》(客串) (2009)
+  - 《[跳出去](../Page/跳出去.md "wikilink")》(客串) (2009)
   - 《[七十二家租客](https://zh.wikipedia.org/wiki/七十二家租客 "wikilink")》 (2010) 饰
     旺角攒机王 with 陆永权
   - 《[飛砂風中轉](../Page/飛砂風中轉.md "wikilink")》(2010)
@@ -49,18 +49,18 @@ Map的主音](https://zh.wikipedia.org/wiki/System_Map "wikilink")。現為香�
   - 《[八星抱喜](../Page/八星抱喜.md "wikilink")》 (2012)
   - 《[在一起](https://zh.wikipedia.org/wiki/在一起 "wikilink")》（2013）
   - 《[重口味](https://zh.wikipedia.org/wiki/重口味 "wikilink")》 (2013)
-  - 《[男人唔可以窮](https://zh.wikipedia.org/wiki/男人唔可以窮 "wikilink")》 (2014)
+  - 《[男人唔可以窮](../Page/男人唔可以窮.md "wikilink")》 (2014)
   - 《[ATM提款機](https://zh.wikipedia.org/wiki/ATM提款機 "wikilink")》 (2015)
   - 《[開飯啦！](../Page/開飯啦！.md "wikilink")》 (2016)
   - 《[PG戀愛指引](https://zh.wikipedia.org/wiki/PG戀愛指引 "wikilink")》 (2016)
-  - 《[江湖悲劇](https://zh.wikipedia.org/wiki/江湖悲劇 "wikilink")》 (2016)
+  - 《[江湖悲劇](../Page/江湖悲劇.md "wikilink")》 (2016)
   - 《[原諒他77次](https://zh.wikipedia.org/wiki/原諒他77次 "wikilink")》 (2017)
   - 《[棟篤特工](https://zh.wikipedia.org/wiki/棟篤特工 "wikilink")》 (2018)
   - 《[感動她77次](https://zh.wikipedia.org/wiki/感動她77次 "wikilink")》 (2019)
 
 ## 配音
 
-  - 《[新喜劇之王](https://zh.wikipedia.org/wiki/新喜劇之王 "wikilink")》
+  - 《[新喜劇之王](../Page/新喜劇之王.md "wikilink")》
   - 《[妖鈴鈴](https://zh.wikipedia.org/wiki/妖鈴鈴 "wikilink")》
   - 《[貓狗鬥多番](https://zh.wikipedia.org/wiki/貓狗鬥多番 "wikilink")》
   - 《[奇鸚嘉年華](https://zh.wikipedia.org/wiki/奇鸚嘉年華 "wikilink")》
@@ -70,23 +70,23 @@ Map的主音](https://zh.wikipedia.org/wiki/System_Map "wikilink")。現為香�
 
 ## 電視劇（[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")）
 
-|                                                                    |                                                               |           |           |
-| ------------------------------------------------------------------ | ------------------------------------------------------------- | --------- | --------- |
-| **首播**                                                             | **劇名**                                                        | **角色**    | **性質**    |
-| 2009年                                                              | [老婆大人II](../Page/老婆大人II.md "wikilink")                        | B君        | 客串        |
-| 2015年                                                              | **[鬼同你OT](https://zh.wikipedia.org/wiki/鬼同你OT "wikilink")**   | **賴亞武**   | **男配角**   |
-| [樓奴](https://zh.wikipedia.org/wiki/樓奴_\(電視劇\) "wikilink")          | 區美男                                                           | 男配角       |           |
-| 2016年                                                              | [愛情食物鏈](../Page/愛情食物鏈.md "wikilink")                          | 邢燁源       |           |
-| [潮流教主](https://zh.wikipedia.org/wiki/潮流教主 "wikilink")              | 黎志全                                                           |           |           |
-| [殭](https://zh.wikipedia.org/wiki/殭 "wikilink")                    | 餐廳情侶                                                          | 特別客串      |           |
-| **[來自喵喵星的妳](../Page/來自喵喵星的妳.md "wikilink")**                       | **魏帆**                                                        | **男配角**   |           |
-| [幕後玩家](https://zh.wikipedia.org/wiki/幕後玩家 "wikilink")              | 施醫生                                                           | 客串大結局     |           |
-| [流氓皇帝](https://zh.wikipedia.org/wiki/流氓皇帝_\(2016年電視劇\) "wikilink") | 學生領袖                                                          | 客串        |           |
-| 2017年                                                              | **[我瞞結婚了](https://zh.wikipedia.org/wiki/我瞞結婚了 "wikilink")**   | **戴堅庭**   | **第四男主角** |
-| **[雜警奇兵](https://zh.wikipedia.org/wiki/雜警奇兵 "wikilink")**          | **車奕晨**                                                       | **第二男主角** |           |
-| [誇世代](https://zh.wikipedia.org/wiki/誇世代 "wikilink")                | 林尚明（Clever）                                                   | 特別演出      |           |
-| 2019年                                                              | [廉政行動2019](https://zh.wikipedia.org/wiki/廉政行動2019 "wikilink") | 權哥        | 客串        |
-| 拍攝中                                                                | [降魔的2.0](https://zh.wikipedia.org/wiki/降魔的2.0 "wikilink")     |           |           |
+|                                                                    |                                                             |           |           |
+| ------------------------------------------------------------------ | ----------------------------------------------------------- | --------- | --------- |
+| **首播**                                                             | **劇名**                                                      | **角色**    | **性質**    |
+| 2009年                                                              | [老婆大人II](../Page/老婆大人II.md "wikilink")                      | B君        | 客串        |
+| 2015年                                                              | **[鬼同你OT](../Page/鬼同你OT.md "wikilink")**                    | **賴亞武**   | **男配角**   |
+| [樓奴](https://zh.wikipedia.org/wiki/樓奴_\(電視劇\) "wikilink")          | 區美男                                                         | 男配角       |           |
+| 2016年                                                              | [愛情食物鏈](../Page/愛情食物鏈.md "wikilink")                        | 邢燁源       |           |
+| [潮流教主](https://zh.wikipedia.org/wiki/潮流教主 "wikilink")              | 黎志全                                                         |           |           |
+| [殭](https://zh.wikipedia.org/wiki/殭 "wikilink")                    | 餐廳情侶                                                        | 特別客串      |           |
+| **[來自喵喵星的妳](../Page/來自喵喵星的妳.md "wikilink")**                       | **魏帆**                                                      | **男配角**   |           |
+| [幕後玩家](https://zh.wikipedia.org/wiki/幕後玩家 "wikilink")              | 施醫生                                                         | 客串大結局     |           |
+| [流氓皇帝](https://zh.wikipedia.org/wiki/流氓皇帝_\(2016年電視劇\) "wikilink") | 學生領袖                                                        | 客串        |           |
+| 2017年                                                              | **[我瞞結婚了](https://zh.wikipedia.org/wiki/我瞞結婚了 "wikilink")** | **戴堅庭**   | **第四男主角** |
+| **[雜警奇兵](https://zh.wikipedia.org/wiki/雜警奇兵 "wikilink")**          | **車奕晨**                                                     | **第二男主角** |           |
+| [誇世代](https://zh.wikipedia.org/wiki/誇世代 "wikilink")                | 林尚明（Clever）                                                 | 特別演出      |           |
+| 2019年                                                              | [廉政行動2019](../Page/廉政行動2019.md "wikilink")                  | 權哥        | 客串        |
+| 拍攝中                                                                | [降魔的2.0](../Page/降魔的2.0.md "wikilink")                      |           |           |
 
 ## 網絡劇（[big big channel](https://zh.wikipedia.org/wiki/big_big_channel "wikilink")）
 
@@ -147,23 +147,23 @@ Map的主音](https://zh.wikipedia.org/wiki/System_Map "wikilink")。現為香�
 
   - [2016香港小姐選舉](https://zh.wikipedia.org/wiki/香港小姐選舉 "wikilink")
 
-  - [嘩鬼上學去之農夫篇](https://zh.wikipedia.org/wiki/嘩鬼上學去之農夫篇 "wikilink")
+  - [嘩鬼上學去之農夫篇](../Page/嘩鬼上學去之農夫篇.md "wikilink")
 
-  - [星和無線電視大獎2016](https://zh.wikipedia.org/wiki/星和無綫電視大獎2016 "wikilink")
+  - [星和無線電視大獎2016](../Page/星和無綫電視大獎2016.md "wikilink")
 
-  - [TVB馬來西亞星光薈萃頒獎典禮2016](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2016 "wikilink")
+  - [TVB馬來西亞星光薈萃頒獎典禮2016](../Page/TVB_馬來西亞星光薈萃頒獎典禮2016.md "wikilink")
 
-  - [嘩鬼上學去之農夫篇](https://zh.wikipedia.org/wiki/嘩鬼上學去之農夫篇 "wikilink")
+  - [嘩鬼上學去之農夫篇](../Page/嘩鬼上學去之農夫篇.md "wikilink")
 
   -
-  - [萬千星輝頒獎典禮2016](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2016 "wikilink")
+  - [萬千星輝頒獎典禮2016](../Page/萬千星輝頒獎典禮2016.md "wikilink")
 
   - [群星拱照big big
     channel](https://zh.wikipedia.org/wiki/群星拱照big_big_channel "wikilink")
 
-  - [Do姐再Shopping](https://zh.wikipedia.org/wiki/Do姐再Shopping "wikilink")
+  - [Do姐再Shopping](../Page/Do姐再Shopping.md "wikilink")
 
-  - [萬千星輝頒獎典禮2017](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2017 "wikilink")
+  - [萬千星輝頒獎典禮2017](../Page/萬千星輝頒獎典禮2017.md "wikilink")
 
   - [晚間看地球](https://zh.wikipedia.org/wiki/晚間看地球 "wikilink")
 
@@ -263,7 +263,7 @@ Map的主音](https://zh.wikipedia.org/wiki/System_Map "wikilink")。現為香�
   - [A2A](../Page/A2A.md "wikilink") - You Ain't Comin' Back（詞）
   - [Bingo](https://zh.wikipedia.org/wiki/Bingo_\(組合\) "wikilink") -
     好好愛（詞）
-  - [ReVe](https://zh.wikipedia.org/wiki/ReVe "wikilink") - What?（詞）
+  - [ReVe](../Page/ReVe.md "wikilink") - What?（詞）
   - [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink") - 黑夜（詞）
   - 方大同 - 很不低調（詞）
   - 方大同 - 放不過自己（詞）
@@ -281,27 +281,27 @@ Map的主音](https://zh.wikipedia.org/wiki/System_Map "wikilink")。現為香�
 
 ### 2018年
 
-  - [張可盈](https://zh.wikipedia.org/wiki/張可盈 "wikilink") - 記得你的名字（詞）
+  - [張可盈](../Page/張可盈.md "wikilink") - 記得你的名字（詞）
   - [薛家燕](../Page/薛家燕.md "wikilink") - Captain Nancy（詞）
 
 ## 音樂錄像
 
-  - 2016年：[SIS樂印姊妹](https://zh.wikipedia.org/wiki/SIS樂印姊妹 "wikilink")〈新世界〉男主角
+  - 2016年：[SIS樂印姊妹](../Page/SIS樂印姊妹.md "wikilink")〈新世界〉男主角
 
 ## 獎項
 
 ### 電視獎項
 
-  - 第1屆[香港電視大獎](https://zh.wikipedia.org/wiki/香港電視大獎 "wikilink") ─
-    最佳節目主持《[Do姐再Shopping](https://zh.wikipedia.org/wiki/Do姐再Shopping "wikilink")》
+  - 第1屆[香港電視大獎](../Page/香港電視大獎.md "wikilink") ─
+    最佳節目主持《[Do姐再Shopping](../Page/Do姐再Shopping.md "wikilink")》
   - 第2屆[观眾在民間電視大奬](https://zh.wikipedia.org/wiki/观眾在民間電視大奬 "wikilink") ─
     最佳節目主持《Do姐再Shopping》
-  - [萬千星輝頒獎典禮2017](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2017 "wikilink")
-    ─ 最佳節目主持《Do姐再Shopping》
-  - [萬千星輝頒獎典禮2016](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2016 "wikilink")
-    ─ 最佳節目主持《[Do姐有問題](../Page/Do姐有問題.md "wikilink")》
-  - [星和無綫電視大獎2016](https://zh.wikipedia.org/wiki/星和無綫電視大獎2016 "wikilink")
-    ─ 我最愛TVB綜藝節目主持人《Do姐有問題》
+  - [萬千星輝頒獎典禮2017](../Page/萬千星輝頒獎典禮2017.md "wikilink") ─
+    最佳節目主持《Do姐再Shopping》
+  - [萬千星輝頒獎典禮2016](../Page/萬千星輝頒獎典禮2016.md "wikilink") ─
+    最佳節目主持《[Do姐有問題](../Page/Do姐有問題.md "wikilink")》
+  - [星和無綫電視大獎2016](../Page/星和無綫電視大獎2016.md "wikilink") ─
+    我最愛TVB綜藝節目主持人《Do姐有問題》
   - [SINA 頒獎禮-
     微博之星](https://zh.wikipedia.org/wiki/SINA_頒獎禮-_微博之星 "wikilink")2015
     ─ 微博給力綜藝節目《Do姐去Shopping》

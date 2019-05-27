@@ -1,6 +1,6 @@
 **Microsoft Account**（前稱為**Windows Live ID**、**Microsoft Passport
 Network**與**.NET
-Passport**）是一個由[微軟開發與提供的](https://zh.wikipedia.org/wiki/微軟 "wikilink")“統一登入”服務，允許使用者使用一個帳號登入許多網站。原來的定位為所有網絡商貿的[單一登入服務](https://zh.wikipedia.org/wiki/單一登入 "wikilink")。
+Passport**）是一個由[微軟開發與提供的](https://zh.wikipedia.org/wiki/微軟 "wikilink")“統一登入”服務，允許使用者使用一個帳號登入許多網站。原來的定位為所有網絡商貿的[單一登入服務](../Page/單一登入.md "wikilink")。
 
 ## 產品概要
 
@@ -9,12 +9,11 @@ Passport**）是一個由[微軟開發與提供的](https://zh.wikipedia.org/wik
 360的[Xbox
 Live](../Page/Xbox_Live.md "wikilink")、[Skype](../Page/Skype.md "wikilink")、[.NET
 Messenger
-Service或](https://zh.wikipedia.org/wiki/.NET_Messenger_Service "wikilink")[MSDN訂閱以及數家其他與微軟關係密切的公司如](https://zh.wikipedia.org/wiki/MSDN "wikilink")[Expedia與](https://zh.wikipedia.org/wiki/Expedia "wikilink")[Hoyts使用這個服務](https://zh.wikipedia.org/wiki/Hoyts "wikilink")。[MSN的用戶會自動擁有一個他們帳戶的Live](../Page/MSN.md "wikilink")
+Service或](https://zh.wikipedia.org/wiki/.NET_Messenger_Service "wikilink")[MSDN訂閱以及數家其他與微軟關係密切的公司如](https://zh.wikipedia.org/wiki/MSDN "wikilink")[Expedia與](https://zh.wikipedia.org/wiki/Expedia "wikilink")[Hoyts使用這個服務](../Page/Hoyts.md "wikilink")。[MSN的用戶會自動擁有一個他們帳戶的Live](../Page/MSN.md "wikilink")
 ID。最近的用戶登入數據開始允許廣告客戶使用[Microsoft
 adCenter來用作人口統計的目標](https://zh.wikipedia.org/wiki/Microsoft_adCenter "wikilink")。
 
-在微軟全新的作業系統[Windows
-10中](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，加入了使用Microsoft
+在微軟全新的作業系統[Windows 10中](../Page/Windows_10.md "wikilink")，加入了使用Microsoft
 Account登入的功能。
 
 ## 技術概要
@@ -39,7 +38,7 @@ Hotmail\[MSN Hotmail）。
 
   - [Liberty
     Alliance](https://zh.wikipedia.org/wiki/Liberty_Alliance "wikilink")
-  - [OASIS](https://zh.wikipedia.org/wiki/結構化資訊標準促進組織 "wikilink")
+  - [OASIS](../Page/結構化資訊標準促進組織.md "wikilink")
   - [Xbox Live](../Page/Xbox_Live.md "wikilink")
   - [OpenID](../Page/OpenID.md "wikilink")，[Yadis](https://zh.wikipedia.org/wiki/Yadis "wikilink")，[Light-Weight
     Identity](https://zh.wikipedia.org/wiki/Light-Weight_Identity "wikilink")

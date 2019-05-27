@@ -242,7 +242,7 @@ FM1](https://zh.wikipedia.org/wiki/Socket_FM1 "wikilink")，包括A4、A6和A8�
 FM2](../Page/Socket_FM2.md "wikilink")，包括E1、E2、A4、A6、A8和A10，晶片組為A55/A75/A85X。
 
 第三代AMD APU於2013年5月推出，核心代號Kabini，採用[Socket
-AM1以及](https://zh.wikipedia.org/wiki/Socket_AM1 "wikilink")[Socket
+AM1以及](../Page/Socket_AM1.md "wikilink")[Socket
 FT3](https://zh.wikipedia.org/wiki/Socket_FT3 "wikilink")，前者包括Athlon和Sempron後者包括E1、E2、A4、A6，為Soc設計。
 
 AMD APU於2013年6月推出第二代APU Refresh版，核心代號Richland，採用[Socket
@@ -278,14 +278,14 @@ FM2+](../Page/Socket_FM2+.md "wikilink")，包括A4到A10，晶片組為A58/A78/
     (*[Piledriver](https://zh.wikipedia.org/wiki/Piledriver_\(processor\) "wikilink")*
     core) (launch Q4 2012)
 
-### [AMD Ryzen](https://zh.wikipedia.org/wiki/AMD_Ryzen "wikilink") 系列
+### [AMD Ryzen](../Page/AMD_Ryzen.md "wikilink") 系列
 
-  - [Ryzen 7](https://zh.wikipedia.org/wiki/AMD_Ryzen "wikilink") (
-    Summit Ridge ) (Feb,2017)
-  - [Ryzen 5](https://zh.wikipedia.org/wiki/AMD_Ryzen "wikilink") (
-    Summit Ridge ) (Api,2017)
-  - [Ryzen 3](https://zh.wikipedia.org/wiki/AMD_Ryzen "wikilink") (
-    Summit Ridge ) (Jul,2017)
+  - [Ryzen 7](../Page/AMD_Ryzen.md "wikilink") ( Summit Ridge )
+    (Feb,2017)
+  - [Ryzen 5](../Page/AMD_Ryzen.md "wikilink") ( Summit Ridge )
+    (Api,2017)
+  - [Ryzen 3](../Page/AMD_Ryzen.md "wikilink") ( Summit Ridge )
+    (Jul,2017)
 
 ### 未来产品
 

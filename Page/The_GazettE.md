@@ -143,7 +143,7 @@ GazettE』。CD製作時會開選曲會、團員各自帶著所寫的原曲來�
   - 之後與同校的麗組成樂團，開始Copy [LUNA
     SEA的曲子](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")。
   - 以布條遮住鼻子是他的註冊商標。他在高中文化祭時便有了這樣的念頭，想了很多地方，最後決定遮住的身體部位就是鼻子。
-  - 在Live中給人強烈的印象是情緒高昂的搖滾人，但其實自己說過很不擅長和對初次見面的人輕鬆相處。有被[J跟](../Page/J.md "wikilink")[INORAN邀請到自己的電台節目當客人](https://zh.wikipedia.org/wiki/INORAN "wikilink")，也有在[清春的部洛格和RUKI一起登場過](https://zh.wikipedia.org/wiki/清春 "wikilink")。
+  - 在Live中給人強烈的印象是情緒高昂的搖滾人，但其實自己說過很不擅長和對初次見面的人輕鬆相處。有被[J跟](../Page/J.md "wikilink")[INORAN邀請到自己的電台節目當客人](../Page/INORAN.md "wikilink")，也有在[清春的部洛格和RUKI一起登場過](https://zh.wikipedia.org/wiki/清春 "wikilink")。
   - 具有強烈的正義感，曾經表示希望在LIVE時，歌迷之間不要有沒禮貌甚至是暴力的行為（「一切なくしていきたい」）。
   - 現在的愛車是[福特野馬](../Page/福特野馬.md "wikilink")。
   - 喜歡的食物是[奇巧巧克力](../Page/奇巧巧克力.md "wikilink")、布丁、明太子義大利麵。反之對於蔬菜或是海鮮就不太吃，只吃鮪魚。

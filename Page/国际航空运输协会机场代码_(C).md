@@ -106,7 +106,7 @@
 <td><p>CAL</p></td>
 <td><p>EGEC</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/坎貝爾城" title="wikilink">坎貝爾城</a>，<a href="../Page/蘇格蘭.md" title="wikilink">蘇格蘭</a></p></td>
+<td><p><a href="../Page/坎貝爾城.md" title="wikilink">坎貝爾城</a>，<a href="../Page/蘇格蘭.md" title="wikilink">蘇格蘭</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -526,7 +526,7 @@
 <td><p>CCY</p></td>
 <td><p>KCCY</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/查尔斯城_(艾奥瓦州)" title="wikilink">查爾斯城</a>，<a href="https://zh.wikipedia.org/wiki/艾奧瓦州" title="wikilink">艾奧瓦州</a></p></td>
+<td><p><a href="../Page/查尔斯城_(艾奥瓦州).md" title="wikilink">查爾斯城</a>，<a href="https://zh.wikipedia.org/wiki/艾奧瓦州" title="wikilink">艾奧瓦州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1730,7 +1730,7 @@
 <td><p>CKX</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奇金_(阿拉斯加州)" title="wikilink">奇金</a>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
+<td><p><a href="../Page/奇金_(阿拉斯加州).md" title="wikilink">奇金</a>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1799,7 +1799,7 @@
 <tr class="even">
 <td><p>CLJ</p></td>
 <td><p>LRCL</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/克盧日國際機場" title="wikilink">克盧日國際機場</a></p></td>
+<td><p><a href="../Page/克盧日國際機場.md" title="wikilink">克盧日國際機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/克盧日-納波卡" title="wikilink">克盧日-納波卡</a>，<a href="https://zh.wikipedia.org/wiki/克魯日縣" title="wikilink">克魯日縣</a></p></td>
 <td></td>
 </tr>
@@ -2325,7 +2325,7 @@
 <td><p>COE</p></td>
 <td><p>KCOE</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/科達倫_(愛達荷州)" title="wikilink">科達倫</a>，<a href="https://zh.wikipedia.org/wiki/愛達荷州" title="wikilink">愛達荷州</a></p></td>
+<td><p><a href="../Page/科達倫_(愛達荷州).md" title="wikilink">科達倫</a>，<a href="https://zh.wikipedia.org/wiki/愛達荷州" title="wikilink">愛達荷州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2402,7 +2402,7 @@
 <td><p>COP</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/库珀斯敦_(纽约州)" title="wikilink">庫珀斯敦</a>，<a href="https://zh.wikipedia.org/wiki/紐約州" title="wikilink">紐約州</a></p></td>
+<td><p><a href="../Page/库珀斯敦_(纽约州).md" title="wikilink">庫珀斯敦</a>，<a href="https://zh.wikipedia.org/wiki/紐約州" title="wikilink">紐約州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

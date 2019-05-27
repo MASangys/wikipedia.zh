@@ -88,7 +88,7 @@ Peopl」欄位中看見其他的英國使用者，此外還有適合英國當地
 絕大多數的Myspace頁面是由不甚熟悉[HTML的使用者自行設計](../Page/HTML.md "wikilink")，僅有少數頁面符合[W3C](https://zh.wikipedia.org/wiki/W3C "wikilink")<sup>[2](http://validator.w3.org)</sup>制定的
 HTML
 標準，這將可能造成訪問這些頁面時發生相容性問題。此外，Myspace的設計能讓任何使用者自行設定個人頁面的版面和配色，而完全沒有任何限制或規範，還提供了並非由[CSS或其他方式包裹的網路廣告](https://zh.wikipedia.org/wiki/CSS "wikilink")。由於Myspace的使用者不一定具備[網路應用程式開發技能](https://zh.wikipedia.org/wiki/網路應用程式開發 "wikilink")，這樣的設計可能會引發更多的問題。建構上有瑕疵的Myspace個人檔案頁面可能會讓[網路瀏覽器當機](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")。，這是由於不正確的CSS編碼、或是使用者放置過多[高頻寬的物件](https://zh.wikipedia.org/wiki/頻寬 "wikilink")，包含影片、圖片、Flash動畫等（有時候多媒體影片和聲音檔案會在個人頁面載入時全部一起自動播放）。《[PC
-World](https://zh.wikipedia.org/wiki/PC_World "wikilink")》雜誌基於上述理由，將Myspace列為有史以來25個最糟網站的第一名。\[15\]
+World](../Page/PC_World.md "wikilink")》雜誌基於上述理由，將Myspace列為有史以來25個最糟網站的第一名。\[15\]
 
 此外，各種新功能漸漸推出，加上不斷增加的Myspace會員數量，造成網站的頻寬用量上升。有時會讓[伺服器因此變得緩慢](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，在[尖峰時間的使用者可能會看到](https://zh.wikipedia.org/wiki/尖峰時間 "wikilink")「伺服器過度忙碌」（Server
 Too

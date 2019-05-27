@@ -127,7 +127,7 @@ SE**（Societas Europaea）。
       - [丹东](https://zh.wikipedia.org/wiki/丹东 "wikilink")[黄海客车](../Page/黄海客车.md "wikilink")
       - [郑州](https://zh.wikipedia.org/wiki/郑州 "wikilink")[宇通客车](https://zh.wikipedia.org/wiki/宇通客车 "wikilink")
       - [厦门](https://zh.wikipedia.org/wiki/厦门 "wikilink")[金龙客车](../Page/金龙联合汽车.md "wikilink")（[大金龙](https://zh.wikipedia.org/wiki/大金龙 "wikilink")）
-      - [金華](https://zh.wikipedia.org/wiki/金華 "wikilink")[青年汽車](https://zh.wikipedia.org/wiki/青年汽車 "wikilink")
+      - [金華](https://zh.wikipedia.org/wiki/金華 "wikilink")[青年汽車](../Page/青年汽車.md "wikilink")
       - [陕汽集团](https://zh.wikipedia.org/wiki/陕汽集团 "wikilink")
       - [重庆红岩](https://zh.wikipedia.org/wiki/重庆 "wikilink")
       - [上汽集团](../Page/上汽集团.md "wikilink")
@@ -153,7 +153,7 @@ SE**（Societas Europaea）。
 ### 香港
 
 1987年[大昌行集團](../Page/大昌行集團.md "wikilink")[合德汽車成為MAN全線商用車系](https://zh.wikipedia.org/wiki/合德汽車 "wikilink")[香港及](../Page/香港.md "wikilink")[澳門的總代理](../Page/澳門.md "wikilink")，為配合業務發展，更代理[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[Neoplan](https://zh.wikipedia.org/wiki/Neoplan "wikilink")、[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[Berkhof](https://zh.wikipedia.org/wiki/Berkhof "wikilink")、[葡萄牙Alfredo](../Page/葡萄牙.md "wikilink")
-Caetano、[馬來西亞MTrans及Gemilang](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、中國-{YOUNGMAN}-（[青年汽車](https://zh.wikipedia.org/wiki/青年汽車 "wikilink")）。
+Caetano、[馬來西亞MTrans及Gemilang](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、中國-{YOUNGMAN}-（[青年汽車](../Page/青年汽車.md "wikilink")）。
 
 MAN在香港的譯名為「德國猛-{}-獅」。
 

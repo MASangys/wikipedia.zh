@@ -460,7 +460,7 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
     the color」试听。
   - 11月18日 個人第11張單曲『Don't look at the color』正式發行，除收錄之前公開的「Not Afraid」 &
     「Don't look at the color」外，還收錄一首歌曲「Little in my
-    Little」，此歌曲也是遊戲『[蘇菲的鍊金工房～不可思議書的鍊金術士～](https://zh.wikipedia.org/wiki/蘇菲的鍊金工房～不可思議書的鍊金術士～ "wikilink")』的結尾曲。
+    Little」，此歌曲也是遊戲『[蘇菲的鍊金工房～不可思議書的鍊金術士～](../Page/蘇菲的鍊金工房～不可思議書的鍊金術士～.md "wikilink")』的結尾曲。
 
 ### 电影
 

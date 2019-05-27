@@ -33,7 +33,7 @@ OPEN小將的首次公開，是在2005年7月1日統一超商召開的OPEN小將
   - 2006年9月，統一超商推出OPEN小將造型宣傳車，作為新開幕門市宣傳使用。
   - 2008年，台灣7-ELEVEN的店口海報改為「Always OPEN！」。
   - 2008年2月，[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[統一獅隊更名為](../Page/統一獅.md "wikilink")[統一7-ELEVEN獅隊](https://zh.wikipedia.org/wiki/統一7-ELEVEN獅 "wikilink")，因此OPEN小將家族（Open小將、小桃、小竹輪、條碼貓）與既有的[萊恩一起成為該隊的](https://zh.wikipedia.org/wiki/萊恩 "wikilink")[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")。\[3\]
-  - 2008年5月28日與[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")[統一夢時代購物中心合作](../Page/統一夢時代購物中心.md "wikilink")，推出OPEN小將[高雄捷運接駁車](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")。
+  - 2008年5月28日與[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")[統一夢時代購物中心合作](../Page/統一夢時代購物中心.md "wikilink")，推出OPEN小將[高雄捷運接駁車](../Page/高雄捷運.md "wikilink")。
   - 2008年7月2日，OPEN
     PLAZA門市在全國192家7-ELEVEN開張。以OPEN小將新畫風—粉彩療癒系的風格登場的設計，當中OPEN小將徜徉在藍天白雲草地間；商品種類有文具、用品、衣服等70多項OPEN小將專屬商品，每隔2-3個月還會推出新品。\[4\]
   - 2008年7月29日，OPEN小將第一張音樂專輯「Always OPEN Your
@@ -107,7 +107,7 @@ OPEN\! COMIC 此為LOCK與OPEN的打情罵俏，非常可愛。
 
   - [統一超商](../Page/統一超商.md "wikilink")
   - [一卡通 (高雄捷運)](https://zh.wikipedia.org/wiki/一卡通_\(高雄捷運\) "wikilink")
-  - [Please\&Secret](https://zh.wikipedia.org/wiki/Please&Secret "wikilink")
+  - [Please\&Secret](../Page/Please&Secret.md "wikilink")
   - [OPEN！ OPEN！](../Page/OPEN！_OPEN！.md "wikilink")
 
 ## 參考與來源

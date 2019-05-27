@@ -83,7 +83,7 @@ PowerPC版本，因而使效能獲得大幅改善；但過於繁雜龐大的產�
 Mac（Macintosh LC 630 DOS Compatible）也在1996年4月13日正式停產。
 
 1997年推出米白色 G3 系列，其中也包括Power
-Macintosh系列最後的平台式和一體成型式的二種機型；在主機板上增加了多數PC廣為使用的[ATA](https://zh.wikipedia.org/wiki/ATA "wikilink")
+Macintosh系列最後的平台式和一體成型式的二種機型；在主機板上增加了多數PC廣為使用的[ATA](../Page/ATA.md "wikilink")
 (IDE) 介面，放棄[EDO
 RAM而改為採用](https://zh.wikipedia.org/wiki/EDO_RAM "wikilink")[SDRAM](../Page/SDRAM.md "wikilink")，並且配置新型大容量儲存裝置[zip
 Drive](https://zh.wikipedia.org/wiki/zip_Drive "wikilink")（相對僅有1.44

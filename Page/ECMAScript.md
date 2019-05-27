@@ -32,7 +32,7 @@ for XML）。
 | 腳本引擎                                                                             | 參考應用程式                                                                                                                  | 相容性\[11\] |
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------- |
 | ES5\[12\]                                                                        | ES6\[13\]                                                                                                               | ES7\[14\] |
-| [Chakra](https://zh.wikipedia.org/wiki/Chakra_\(JavaScript引擎\) "wikilink")       | [Microsoft Edge](https://zh.wikipedia.org/wiki/Microsoft_Edge "wikilink") 18                                            | 100%      |
+| [Chakra](../Page/Chakra_\(JavaScript引擎\).md "wikilink")                          | [Microsoft Edge](../Page/Microsoft_Edge.md "wikilink") 18                                                               | 100%      |
 | [SpiderMonkey](../Page/SpiderMonkey.md "wikilink")                               | [Firefox](../Page/Firefox.md "wikilink") 63                                                                             | 100%      |
 | [Chrome V8](../Page/V8_\(JavaScript引擎\).md "wikilink")                           | [Google Chrome](../Page/Google_Chrome.md "wikilink") 70、[Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink") 57 | 100%      |
 | [JavaScriptCore](https://zh.wikipedia.org/wiki/JavaScriptCore "wikilink")（Nitro） | [Safari](../Page/Safari.md "wikilink") 12                                                                               | 99%       |

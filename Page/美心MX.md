@@ -28,7 +28,7 @@ Express」。
 2004年，美心請來[李永銓將](https://zh.wikipedia.org/wiki/李永銓 "wikilink")「美心快餐」改變形象，商標以「加多一點點」為題，用簡單心型線條及一點為標誌，主調為綠色。同年，推出即食微波爐飯盒及小菜，分別於[7-11便利店及](https://zh.wikipedia.org/wiki/7-11便利店 "wikilink")[惠康超級市場發售](https://zh.wikipedia.org/wiki/惠康超級市場 "wikilink")。
 
 2005年起，「美心快餐」、「Cafe
-Express」及「美心美食」開始陸續全部革新為「**美心MX**」，由[陳幼堅設計新標誌及](../Page/陳幼堅.md "wikilink")[梁志天執手室內設計](https://zh.wikipedia.org/wiki/梁志天 "wikilink")，請來多位名家為店內添上畫像，並獲多個室內設計雜誌社及組織多個獎項，包括：美國紐約室內設計雜誌《Hospitality
+Express」及「美心美食」開始陸續全部革新為「**美心MX**」，由[陳幼堅設計新標誌及](../Page/陳幼堅.md "wikilink")[梁志天執手室內設計](../Page/梁志天.md "wikilink")，請來多位名家為店內添上畫像，並獲多個室內設計雜誌社及組織多個獎項，包括：美國紐約室內設計雜誌《Hospitality
 Design》快餐組金獎。首間位於[鰂魚涌的分店試行設有](../Page/鰂魚涌.md "wikilink")「Grab n
 Go」攤位，提供三文治、焗飯、薄餅、小食等，及設「**千燒百味**」攤位，於2007年結束。但微波爐即食食品則繼續沿用「美心快餐」品牌。
 

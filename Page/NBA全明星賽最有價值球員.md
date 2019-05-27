@@ -487,7 +487,7 @@ MVP**」，是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[國�
 <td><p><a href="../Page/科比·布莱恩特.md" title="wikilink">科比·布莱恩特</a>(3)</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -554,7 +554,7 @@ MVP**」，是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[國�
 <td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2019年NBA全明星赛" title="wikilink">2019</a></p></td>
+<td><p><a href="../Page/2019年NBA全明星赛.md" title="wikilink">2019</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/凱文·杜蘭特" title="wikilink">凱文·杜蘭特</a>(2)</p></td>
 <td></td>
 <td></td>

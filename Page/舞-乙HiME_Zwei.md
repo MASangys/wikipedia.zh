@@ -9,7 +9,7 @@ Zwei》，於2006年10月在日本[秋田書店的雜誌](../Page/秋田書店.m
 RED》上開始連載。該漫畫原著是[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")，而畫者則由阿倍野茶子擔任。
 
 [舞-HiME
-Project的監督](https://zh.wikipedia.org/wiki/舞-HiME_Project "wikilink")[小原正和表示](https://zh.wikipedia.org/wiki/小原正和 "wikilink")，《舞-乙HiME
+Project的監督](https://zh.wikipedia.org/wiki/舞-HiME_Project "wikilink")[小原正和表示](../Page/小原正和.md "wikilink")，《舞-乙HiME
 Zwei》的4話OVA實際上是電視播放的動畫的真正結局，劇情進行中會解釋清楚之前在《[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")》埋下的伏筆。
 
 ## 作品介紹

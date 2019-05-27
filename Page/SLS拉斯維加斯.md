@@ -1,8 +1,8 @@
 **SLS拉斯維加斯賭場酒店**（**SLS Las Vegas Hotel &
-Casino**）是一個位於美國內華達州拉斯維加斯[賭城大道上的高級](https://zh.wikipedia.org/wiki/賭城大道 "wikilink")[酒店和](../Page/酒店.md "wikilink")[賭場](../Page/賭場.md "wikilink")。由和Stockbridge地產公司持有，目前正在施工改裝中，耗資4.15億美元，預計在2014年秋季開幕後加入SBE集團旗下的SLS酒店連鎖\[1\]。
+Casino**）是一個位於美國內華達州拉斯維加斯[賭城大道上的高級](../Page/賭城大道.md "wikilink")[酒店和](../Page/酒店.md "wikilink")[賭場](../Page/賭場.md "wikilink")。由和Stockbridge地產公司持有，目前正在施工改裝中，耗資4.15億美元，預計在2014年秋季開幕後加入SBE集團旗下的SLS酒店連鎖\[1\]。
 
 酒店的前身為**撒哈拉賭場酒店**（**Sahara Hotel and
-Casino**），自1952年開業至2011年結業間共營運了59年。酒店以北非[摩洛哥為主題](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")，曾擁有1,720間酒店客房以及85,000平方公尺的賭場。酒店是[拉斯維加斯單軌鐵路最北的站點](https://zh.wikipedia.org/wiki/拉斯維加斯單軌鐵路 "wikilink")，也是[拉斯維加斯大道東端最北的酒店](https://zh.wikipedia.org/wiki/拉斯維加斯大道 "wikilink")。1950年代著名五人組合「[鼠幫](https://zh.wikipedia.org/wiki/鼠幫 "wikilink")」（Rat
+Casino**），自1952年開業至2011年結業間共營運了59年。酒店以北非[摩洛哥為主題](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")，曾擁有1,720間酒店客房以及85,000平方公尺的賭場。酒店是[拉斯維加斯單軌鐵路最北的站點](https://zh.wikipedia.org/wiki/拉斯維加斯單軌鐵路 "wikilink")，也是[拉斯維加斯大道東端最北的酒店](../Page/拉斯維加斯大道.md "wikilink")。1950年代著名五人組合「[鼠幫](https://zh.wikipedia.org/wiki/鼠幫 "wikilink")」（Rat
 Pack）曾在拉斯維加斯多間賭場酒店長期巡迴演出，而撒哈拉酒店也是唯一現存他們曾表演過的酒店。為了確保主題統一，連酒店大門外上下車的地方也被設計成摩洛哥風格的建築。
 
 ## 歷史

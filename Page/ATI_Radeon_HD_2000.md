@@ -269,7 +269,7 @@ Radeon HD 2000 系列顯示卡上無論是單卡或是CrossFire都有一系列�
 <th><p>顯示記憶體容量 (<a href="https://zh.wikipedia.org/wiki/MiB" title="wikilink">MiB</a>)</p></th>
 <th><p>時鐘頻率</p></th>
 <th><p>核心佈置</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>顯示記憶體類型</p></th>
 <th><p>運算效能<br />
 GFLOPS</p></th>
@@ -498,10 +498,10 @@ GDDR4</p></td>
     9.0b以及[OpenGL](../Page/OpenGL.md "wikilink") 2.0
   - 基於Radeon X700的核心改建
 
-| Model              | 發布日期      | 開發[代號](https://zh.wikipedia.org/wiki/代號 "wikilink") | 製程 ([nm](https://zh.wikipedia.org/wiki/奈米 "wikilink")) | [匯流排介面](https://zh.wikipedia.org/wiki/匯流排 "wikilink")       | 記憶體容量<sup>3</sup> ([MiB](https://zh.wikipedia.org/wiki/MiB "wikilink")) | 核心時脈<sup>2</sup> ([MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")) | Memory clock ([MHz](https://zh.wikipedia.org/wiki/Hertz "wikilink")) | 核心佈置<sup>1</sup> | [填充率](https://zh.wikipedia.org/wiki/填充率 "wikilink") | 顯示記憶體類型 |
-| ------------------ | --------- | --------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------- | --------------------------------------------------- | ------- |
-| 百萬次運算每秒            | 百萬個像素每秒   | 百萬個紋理每秒                                             | 百萬個頂點每秒                                                | 記憶體頻寬 ([GB](https://zh.wikipedia.org/wiki/GB "wikilink")/s) | 匯流排類型                                                                   | 記憶體位寬 ([位元](../Page/位元.md "wikilink"))                                 |                                                                      |                  |                                                     |         |
-| Radeon Xpress 2100 | 2008年3月4日 | RS740 (titan)                                       | 55                                                     | HT 2.0                                                      | 256 - 512                                                               | 500                                                                    | 400 - 800                                                            | 4:2:4:4          | 2000                                                | 2000    |
+| Model              | 發布日期      | 開發[代號](https://zh.wikipedia.org/wiki/代號 "wikilink") | 製程 ([nm](https://zh.wikipedia.org/wiki/奈米 "wikilink")) | [匯流排介面](https://zh.wikipedia.org/wiki/匯流排 "wikilink")       | 記憶體容量<sup>3</sup> ([MiB](https://zh.wikipedia.org/wiki/MiB "wikilink")) | 核心時脈<sup>2</sup> ([MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")) | Memory clock ([MHz](https://zh.wikipedia.org/wiki/Hertz "wikilink")) | 核心佈置<sup>1</sup> | [填充率](../Page/填充率.md "wikilink") | 顯示記憶體類型 |
+| ------------------ | --------- | --------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------- | -------------------------------- | ------- |
+| 百萬次運算每秒            | 百萬個像素每秒   | 百萬個紋理每秒                                             | 百萬個頂點每秒                                                | 記憶體頻寬 ([GB](https://zh.wikipedia.org/wiki/GB "wikilink")/s) | 匯流排類型                                                                   | 記憶體位寬 ([位元](../Page/位元.md "wikilink"))                                 |                                                                      |                  |                                  |         |
+| Radeon Xpress 2100 | 2008年3月4日 | RS740 (titan)                                       | 55                                                     | HT 2.0                                                      | 256 - 512                                                               | 500                                                                    | 400 - 800                                                            | 4:2:4:4          | 2000                             | 2000    |
 
 ### 移動型顯示核心
 
@@ -518,7 +518,7 @@ GDDR4</p></td>
 <th><p>時鐘頻率 (<a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>)</p></th>
 <th><p>記憶體時脈 (<a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>)</p></th>
 <th><p>核心佈置<sup>1</sup></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/應用程式介面" title="wikilink">API相容性</a> (版本)</p></th>
 <th><p>運算能力<br />

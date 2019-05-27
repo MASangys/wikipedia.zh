@@ -688,7 +688,7 @@
 馬玉貞之兄</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳寶儀" title="wikilink">陳寶儀</a></p></td>
+<td><p><a href="../Page/陳寶儀.md" title="wikilink">陳寶儀</a></p></td>
 <td><p>馬玉貞</p></td>
 <td><p>修女<br />
 馬禮信之妹</p></td>
@@ -799,7 +799,7 @@
 <td><p>被告</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/林映輝" title="wikilink">林映輝</a></p></td>
+<td><p><a href="../Page/林映輝.md" title="wikilink">林映輝</a></p></td>
 <td><p>周小南</p></td>
 <td><p>方曦彤同學<br />
 趙雪蓮女兒</p></td>

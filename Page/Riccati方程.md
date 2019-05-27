@@ -54,7 +54,7 @@
 
 ## 参见
 
-  - [LQR控制器](https://zh.wikipedia.org/wiki/LQR控制器 "wikilink")
+  - [LQR控制器](../Page/LQR控制器.md "wikilink")
   - [伯努利微分方程](../Page/伯努利微分方程.md "wikilink")
   - [柯西-欧拉方程](https://zh.wikipedia.org/wiki/柯西-欧拉方程 "wikilink")
   - [克莱罗方程](https://zh.wikipedia.org/wiki/克莱罗方程 "wikilink")

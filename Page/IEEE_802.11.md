@@ -125,8 +125,7 @@ ISM频段上的数据传输速率可达54Mbit/s的物理层，802.11b定义了�
   - [IEEE
     802.11aq](https://zh.wikipedia.org/wiki/IEEE_802.11aq "wikilink")：為IEEE
     802.11的修正案，增加網路探索的效率，以加快網路傳輸速度。
-  - [IEEE
-    802.11ax](https://zh.wikipedia.org/wiki/IEEE_802.11ax "wikilink")：以現行的[IEEE
+  - [IEEE 802.11ax](../Page/IEEE_802.11ax.md "wikilink")：以現行的[IEEE
     802.11ac做為基底的草案](../Page/IEEE_802.11ac.md "wikilink")，以提供比現行的傳輸速率加快4倍為目標。
 
 除了上面的IEEE标准，另外有一个被称为IEEE 802.11b+的技术，通过PBCC技术（Packet Binary

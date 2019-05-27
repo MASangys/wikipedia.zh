@@ -325,7 +325,7 @@ N-51</p></td>
 
   - [瑪利歐·哈斯](../Page/瑪利歐·哈斯.md "wikilink")
 
-  - [靴高域](https://zh.wikipedia.org/wiki/靴高域 "wikilink")
+  - [靴高域](../Page/靴高域.md "wikilink")
 
   -
   - [艾利恩·史杜恩洛夫](../Page/艾利恩·史杜恩洛夫.md "wikilink")
@@ -342,7 +342,7 @@ N-51</p></td>
 
   - [温顿·鲁费尔](../Page/温顿·鲁费尔.md "wikilink")
 
-  - [爱德华多·阿兰达](https://zh.wikipedia.org/wiki/爱德华多·阿兰达 "wikilink")
+  - [爱德华多·阿兰达](../Page/爱德华多·阿兰达.md "wikilink")
 
   - [盖布瑞·波佩斯库](../Page/盖布瑞·波佩斯库.md "wikilink")
 

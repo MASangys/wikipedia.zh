@@ -12,7 +12,7 @@ Bash是一个命令处理器，通常运行于文本窗口中，并能执行用�
 shell
 一样，它支持文件名替换（通配符匹配）、[管道](../Page/管道_\(Unix\).md "wikilink")、[here文档](https://zh.wikipedia.org/wiki/here文档 "wikilink")、命令替换、变量，以及条件判断和循环遍历的结构控制语句。包括关键字、语法在内的基本特性全部是从[sh借鉴过来的](https://zh.wikipedia.org/wiki/sh "wikilink")。其他特性，例如历史命令，是从[csh和](../Page/C_Shell.md "wikilink")[ksh借鉴而来](https://zh.wikipedia.org/wiki/Korn_shell "wikilink")。总的来说，Bash虽然是一个满足[POSIX规范的shell](https://zh.wikipedia.org/wiki/POSIX "wikilink")，但有很多扩展。
 
-一个名为[Shellshock的安全漏洞在](https://zh.wikipedia.org/wiki/Shellshock "wikilink")2014年9月初被发现，并迅速导致互联网上的一系列攻击。这个漏洞可追溯到1989年发布的1.03版本。
+一个名为[Shellshock的安全漏洞在](../Page/Shellshock.md "wikilink")2014年9月初被发现，并迅速导致互联网上的一系列攻击。这个漏洞可追溯到1989年发布的1.03版本。
 
 ## 历史
 

@@ -6,7 +6,7 @@ PSX有容量为160GB和250GB[硬盘的两个版本](../Page/硬盘.md "wikilink"
 PSX还以索尼独创的“十字媒体键”（[Cross Media
 Bar](https://zh.wikipedia.org/wiki/Cross_Media_Bar "wikilink")，[XMB](../Page/XMB.md "wikilink")）著称。
 
-**PSX**同时也是最早[PlayStation游戏机的一个别称](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。字母“X”代表索尼最早是想把PlayStation设计成为一台[CD-ROM和任天堂超级游戏机](../Page/CD-ROM.md "wikilink")（[Super
+**PSX**同时也是最早[PlayStation游戏机的一个别称](../Page/PlayStation.md "wikilink")。字母“X”代表索尼最早是想把PlayStation设计成为一台[CD-ROM和任天堂超级游戏机](../Page/CD-ROM.md "wikilink")（[Super
 Nintendo Entertainment
 System](https://zh.wikipedia.org/wiki/Super_Nintendo_Entertainment_System "wikilink")，[SNES](https://zh.wikipedia.org/wiki/SNES "wikilink")）的混合体，然而[任天堂单方停止了该项计划](../Page/任天堂.md "wikilink")，于是索尼开始独立开发自己的游戏设备，被称为“**PlayStation计划**”（**the
 PlayStation Experimental**）。
@@ -23,7 +23,7 @@ PSX可以对用户录制的电视节目或导入的家庭录象进行一些基�
 
 ### 游戏
 
-与[PS2一样](https://zh.wikipedia.org/wiki/PS2 "wikilink")，PSX完全向后支持所有[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")（PSone）游戏，它同时也支持所有日文PS2在线游戏。同时PSX巨大的硬盘使得用户可以方便的保存游戏数据以作备份。
+与[PS2一样](https://zh.wikipedia.org/wiki/PS2 "wikilink")，PSX完全向后支持所有[PlayStation](../Page/PlayStation.md "wikilink")（PSone）游戏，它同时也支持所有日文PS2在线游戏。同时PSX巨大的硬盘使得用户可以方便的保存游戏数据以作备份。
 
 ### PSP
 

@@ -56,7 +56,7 @@
 </tr>
 <tr class="even">
 <td><p>2007年7月－09月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/物怪" title="wikilink">物怪</a></p></td>
+<td><p><a href="../Page/物怪.md" title="wikilink">物怪</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -198,7 +198,7 @@
 <tr class="even">
 <td><p>2014年10月－12月</p></td>
 <td><p><a href="../Page/PSYCHO-PASS.md" title="wikilink">PSYCHO-PASS 2</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/四月是你的謊言" title="wikilink">四月是你的謊言</a></p></td>
+<td><p><a href="../Page/四月是你的謊言.md" title="wikilink">四月是你的謊言</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年1月－03月</p></td>
@@ -207,7 +207,7 @@
 </tr>
 <tr class="even">
 <td><p>2015年4月－06月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Punch_Line" title="wikilink">Punch Line</a></p></td>
+<td><p><a href="../Page/Punch_Line.md" title="wikilink">Punch Line</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -227,7 +227,7 @@
 </tr>
 <tr class="even">
 <td><p>2016年4月－06月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/甲鐵城的卡巴內里" title="wikilink">甲鐵城的卡巴內里</a></p></td>
+<td><p><a href="../Page/甲鐵城的卡巴內里.md" title="wikilink">甲鐵城的卡巴內里</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018年1月－03月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛在雨過天晴時" title="wikilink">愛在雨過天晴時</a></p></td>
+<td><p><a href="../Page/愛在雨過天晴時.md" title="wikilink">愛在雨過天晴時</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -277,12 +277,12 @@
 </tr>
 <tr class="even">
 <td><p>2019年1月 - 03月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/約定的夢幻島" title="wikilink">約定的夢幻島</a></p></td>
+<td><p><a href="../Page/約定的夢幻島.md" title="wikilink">約定的夢幻島</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年4月 - 06月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/皿三昧" title="wikilink">皿三昧</a></p></td>
+<td><p><a href="../Page/皿三昧.md" title="wikilink">皿三昧</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -308,7 +308,7 @@
 <td><p>2019年7月－</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Given" title="wikilink">Given</a><br />
 （）</p></td>
-<td><p>製作：<a href="https://zh.wikipedia.org/wiki/Lerche" title="wikilink">Lerche</a></p></td>
+<td><p>製作：<a href="../Page/Lerche.md" title="wikilink">Lerche</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2019年10月－</p></td>
@@ -354,11 +354,11 @@
 </tr>
 <tr class="even">
 <td><p>2015年10月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/屍者的帝國" title="wikilink">屍者的帝國</a><br />
+<td><p><a href="../Page/屍者的帝國.md" title="wikilink">屍者的帝國</a><br />
 （）</p></td>
 <td><p>原作：<a href="../Page/伊藤計劃.md" title="wikilink">伊藤計劃</a>、<a href="../Page/圓城塔.md" title="wikilink">圓城塔</a><br />
-監督：<a href="https://zh.wikipedia.org/wiki/牧原亮太郎" title="wikilink">牧原亮太郎</a><br />
-製作：<a href="https://zh.wikipedia.org/wiki/WIT_STUDIO" title="wikilink">WIT STUDIO</a></p></td>
+監督：<a href="../Page/牧原亮太郎.md" title="wikilink">牧原亮太郎</a><br />
+製作：<a href="../Page/WIT_STUDIO.md" title="wikilink">WIT STUDIO</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年11月13日</p></td>
@@ -370,7 +370,7 @@
 </tr>
 <tr class="even">
 <td><p>2017年2月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/虐殺器官" title="wikilink">虐殺器官</a><br />
+<td><p><a href="../Page/虐殺器官.md" title="wikilink">虐殺器官</a><br />
 （）</p></td>
 <td><p>原作：<a href="../Page/伊藤計劃.md" title="wikilink">伊藤計劃</a><br />
 監督：<a href="https://zh.wikipedia.org/wiki/村瀨修功" title="wikilink">村瀨修功</a><br />
@@ -386,7 +386,7 @@
 </tr>
 <tr class="even">
 <td><p>2017年5月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宣告黎明的露之歌" title="wikilink">宣告黎明的露之歌</a><br />
+<td><p><a href="../Page/宣告黎明的露之歌.md" title="wikilink">宣告黎明的露之歌</a><br />
 （）</p></td>
 <td><p>監督：<a href="https://zh.wikipedia.org/wiki/汤浅政明" title="wikilink">汤浅政明</a><br />
 製作：<a href="https://zh.wikipedia.org/wiki/サイエンスSARU" title="wikilink">サイエンスSARU</a></p></td>

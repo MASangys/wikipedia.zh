@@ -485,7 +485,7 @@ Music三个月的免费试用\[98\]，支援AAC、MP3、AAX、WAV等格式的音
 Store購買和下載正版音樂到他們的iPhone](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")，或付费订阅Apple
 Music。
 
-苹果截止到2018年7月，有两款官方耳机产品，一款是有线耳机[Earpods](https://zh.wikipedia.org/wiki/Earpods "wikilink")，一款是无线耳机[Airpods](https://zh.wikipedia.org/wiki/AirPods "wikilink")，还有一款是针对没有耳机孔的iPhone机型推出的lightning接口的Earpods。
+苹果截止到2018年7月，有两款官方耳机产品，一款是有线耳机[Earpods](https://zh.wikipedia.org/wiki/Earpods "wikilink")，一款是无线耳机[Airpods](../Page/AirPods.md "wikilink")，还有一款是针对没有耳机孔的iPhone机型推出的lightning接口的Earpods。
 
 iPhone 5s及后续机型且运行至少iOS11.4系统的手机可以将Apple
 Music上的音乐放到HomePod上收听（中国大陆版HomePod需要至少IOS12系统的手机）。
@@ -628,7 +628,7 @@ iPhone為不同人士提供一個[無障礙環境](../Page/無障礙環境.md "w
 <th><p><a href="https://zh.wikipedia.org/wiki/iPhone_8" title="wikilink">iPhone 8</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPhone_8_Plus" title="wikilink">iPhone 8 Plus</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPhone_X" title="wikilink">iPhone X</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/IPhone_XS" title="wikilink">iPhone XS/Max</a></p></th>
+<th><p><a href="../Page/IPhone_XS.md" title="wikilink">iPhone XS/Max</a></p></th>
 <th><p><strong>iPhone XR</strong></p></th>
 </tr>
 </thead>
@@ -769,7 +769,7 @@ Samsung S5PC100[159]<br />
 <a href="../Page/Apple_A7.md" title="wikilink">Apple A7處理器</a><br />
 （搭配M7協處理器）<br />
 64位元手機</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A8" title="wikilink">Apple A8處理器</a><br />
+<td><p><a href="../Page/Apple_A8.md" title="wikilink">Apple A8處理器</a><br />
 （搭配M8協處理器）<br />
 64位元手機</p></td>
 <td><p><a href="../Page/Apple_A9.md" title="wikilink">Apple A9處理器</a><br />
@@ -779,7 +779,7 @@ Samsung S5PC100[159]<br />
 <p>64 位元手機</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Apple_A11" title="wikilink">Apple A11</a> Bionic處理器 (搭配嵌入式 M11 動作感應協同處理器)</p>
 <p>64 位元手機</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A12_Bionic" title="wikilink">Apple A12</a> Bionic處理器(搭配嵌入式 M12 動作感應協同處理器 64為</p></td>
+<td><p><a href="../Page/Apple_A12_Bionic.md" title="wikilink">Apple A12</a> Bionic處理器(搭配嵌入式 M12 動作感應協同處理器 64為</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1984,7 +1984,7 @@ iPhone的研發同時也激發一些領先高科技仿製電腦\[228\]品牌，�
 
 ### 情報存取
 
-在2013年期間，據報大量監控披露英國及美國的情報機關，分別包括[美國國家安全局（NSA）](https://zh.wikipedia.org/wiki/美國國家安全局 "wikilink")、[政府通訊總局（GCHQ）曾進入iPhone](https://zh.wikipedia.org/wiki/政府通信总部 "wikilink")、[BlackBerry和](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")[Android手機](../Page/Android.md "wikilink")。當局幾乎能夠讀取所有智能電話的資訊，包括短訊、位置、電郵和筆記\[247\]。
+在2013年期間，據報大量監控披露英國及美國的情報機關，分別包括[美國國家安全局（NSA）](https://zh.wikipedia.org/wiki/美國國家安全局 "wikilink")、[政府通訊總局（GCHQ）曾進入iPhone](../Page/政府通信总部.md "wikilink")、[BlackBerry和](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")[Android手機](../Page/Android.md "wikilink")。當局幾乎能夠讀取所有智能電話的資訊，包括短訊、位置、電郵和筆記\[247\]。
 
 ## 限制
 

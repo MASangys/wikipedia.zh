@@ -33,10 +33,10 @@ Pan-Pan, Pan-Pan）。有些時候搜救機構亦會以Pan-Pan代表發報緊急
 
 法語發音\[si'lɑ̃s\]；英文寫成Seelonce，發音\[si:'lɔns\]。發出求救或作出回應的救援機構可能使用以下訊號：**Seelonce
 Mayday**（**Silence, M'aider**）或**Seelonce Distress**（**Silence
-Détresse**）：（法文：靜默－求救）宣佈該頻只供求救的船隻，對答的救援機構或协助救援的船隻使用，其他一般通訊暫停使用（[無線電靜默](https://zh.wikipedia.org/wiki/無線電靜默 "wikilink")），直至宣佈**Seelonce
+Détresse**）：（法文：靜默－求救）宣佈該頻只供求救的船隻，對答的救援機構或协助救援的船隻使用，其他一般通訊暫停使用（[無線電靜默](../Page/無線電靜默.md "wikilink")），直至宣佈**Seelonce
 feenee**（**Silence fini**，法文：靜默－完結）。
 
-而航空管制中另有宣佈[無線電靜默以及解除靜默狀態的信號](https://zh.wikipedia.org/wiki/無線電靜默 "wikilink")。**Stop
+而航空管制中另有宣佈[無線電靜默以及解除靜默狀態的信號](../Page/無線電靜默.md "wikilink")。**Stop
 Transmitting—Mayday**或**Stop
 Transmitting—Distress**（意為“停止發話，有遇險活動”）用於通知所轄其他航空器停止通話，以保證只有遇險航空器和搜救機構使用該頻率。**Distress
 Traffic Ended**則等效于“Silence fini”，意為“遇險狀態結束”。

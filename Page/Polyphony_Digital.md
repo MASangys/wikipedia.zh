@@ -3,7 +3,7 @@ Digital**是[索尼互動娛樂內部的](../Page/索尼互動娛樂.md "wikilin
 Entertainment**，在[跑車浪漫旅的成功獲得更多自主權後便更名為Polyphony](https://zh.wikipedia.org/wiki/跑車浪漫旅 "wikilink")
 Digital。
 
-該工作室最著名的是由[山內一典領導的賽車遊戲](https://zh.wikipedia.org/wiki/山內一典 "wikilink")[跑車浪漫旅系列](https://zh.wikipedia.org/wiki/跑車浪漫旅 "wikilink")，该系列已成為[PlayStation與](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[PlayStation
+該工作室最著名的是由[山內一典領導的賽車遊戲](https://zh.wikipedia.org/wiki/山內一典 "wikilink")[跑車浪漫旅系列](https://zh.wikipedia.org/wiki/跑車浪漫旅 "wikilink")，该系列已成為[PlayStation與](../Page/PlayStation.md "wikilink")[PlayStation
 2上最成功的賽車遊戲系列之一](../Page/PlayStation_2.md "wikilink")，也是SCE第一方拥有的重要品牌。跑車浪漫旅系列是針對提供「[擬真](https://zh.wikipedia.org/wiki/擬真 "wikilink")」感覺的電子賽車遊戲，讓一般人可以體驗操縱及使用不能在現實中駕駛或購買的汽車來競賽。
 
 2006年Polyphony
@@ -16,7 +16,7 @@ Digital還參與過實車開發工作，[日產GT-R的行車數據電子顯示�
 
 ## 遊戲開發
 
-  - [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
+  - [PlayStation](../Page/PlayStation.md "wikilink")
 
 <!-- end list -->
 

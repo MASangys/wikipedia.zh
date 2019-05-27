@@ -257,7 +257,7 @@ AT\&T公司作為控股公司，經多年收購導致下面的公司架構：
 
   - —喬治亞州亞特蘭大（原南方貝全國錦標賽）
 
-  - [AT\&T棉花碗錦標賽](https://zh.wikipedia.org/wiki/棉花碗 "wikilink")（原美孚棉花碗錦標賽，西南貝爾棉花碗錦標賽，SBC棉花碗錦標賽）—在德克薩斯州[阿靈頓的](https://zh.wikipedia.org/wiki/阿靈頓_\(德克薩斯州\) "wikilink")[牛仔球場舉行](../Page/AT&T體育場.md "wikilink")
+  - [AT\&T棉花碗錦標賽](../Page/棉花碗.md "wikilink")（原美孚棉花碗錦標賽，西南貝爾棉花碗錦標賽，SBC棉花碗錦標賽）—在德克薩斯州[阿靈頓的](https://zh.wikipedia.org/wiki/阿靈頓_\(德克薩斯州\) "wikilink")[牛仔球場舉行](../Page/AT&T體育場.md "wikilink")
 
   - [AT\&T國際高球賽](../Page/奎肯信貸全國賽.md "wikilink")—
     [華盛頓](https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區 "wikilink")

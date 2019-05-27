@@ -101,7 +101,7 @@ FORCE](../Page/BALDR_FORCE.md "wikilink")》改編的[OVA作品](https://zh.wiki
 松田清</p></td>
 <td><p>山崎ヒデキ<br />
 関口雅浩<br />
-<a href="https://zh.wikipedia.org/wiki/神戶洋行" title="wikilink">神戶洋行</a></p></td>
+<a href="../Page/神戶洋行.md" title="wikilink">神戶洋行</a></p></td>
 <td><p>2006年11月10日</p></td>
 </tr>
 <tr class="even">
@@ -109,7 +109,7 @@ FORCE](../Page/BALDR_FORCE.md "wikilink")》改編的[OVA作品](https://zh.wiki
 <td></td>
 <td><p>田中タカユキ<br />
 福岡康孝</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小寺勝之" title="wikilink">こでらかつゆき</a><br />
+<td><p><a href="../Page/小寺勝之.md" title="wikilink">こでらかつゆき</a><br />
 田中タカユキ<br />
 赤根和樹</p></td>
 <td><p>三浦和也</p></td>
