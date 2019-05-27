@@ -4,8 +4,7 @@ Makhlouf 和Alex Makhlouf 兄弟以及Samuel Frisch
 。他们的音乐均由他们的三人组合制作、录制、混录并所有。\[1\]目前，他们与全球[华纳音乐集团的子公司Big](../Page/華納音樂集團.md "wikilink")
 Beat唱片和[大西洋唱片签约](../Page/大西洋唱片.md "wikilink")。\[2\]
 \[3\]迄今为止，该组合最高排名的歌曲是由[Bebe
-Rexha演唱的](https://zh.wikipedia.org/wiki/碧碧·瑞茲莎 "wikilink")《Take Me
-Home》
+Rexha演唱的](../Page/碧碧·瑞茲莎.md "wikilink")《Take Me Home》
 。截至2016年，该乐队已发行了四张正式专辑、一系列迷你专辑和单曲，为[Krewella](../Page/克魯威拉樂團.md "wikilink")、[Capital
 Cities](../Page/首都城市群.md "wikilink")、[Kelly
 Clarkson](../Page/凱莉·克萊森.md "wikilink")、[Katy
@@ -35,7 +34,7 @@ Consequence”注册商标而产生了法律问题。在一次采访中，让－
 Cash”，因为每个人都在追求金钱，而我们尚未拥有。”\[18\] \[19\]
 
 他们与[环球唱片公司签约](https://zh.wikipedia.org/wiki/Republic_Records "wikilink")，不久后发布了一张迷你专辑，\[20\]该专辑在[Billboard](https://zh.wikipedia.org/wiki/Billboard_charts "wikilink")
-Heatseekers排行榜上排名第24位。\[21\]2008年，乐队与[Tyga](https://zh.wikipedia.org/wiki/泰加_\(歌手\) "wikilink")、[Metro
+Heatseekers排行榜上排名第24位。\[21\]2008年，乐队与[Tyga](../Page/泰加_\(歌手\).md "wikilink")、[Metro
 Station](../Page/地鐵站樂團.md "wikilink")、[Boys Like
 Girls](../Page/男生愛女生.md "wikilink")、The White Tie
 Affair和Forever The Sickest Kids等乐队一起巡回演出。\[22\]
@@ -57,7 +56,7 @@ Cash发行了[Alphaville的歌曲](../Page/阿爾伐城_\(樂團\).md "wikilink"
 Young](../Page/Forever_young.md "wikilink")》的翻唱。乐队于2010年11月中旬通过环球唱片公司发行了一张名为《Red
 Cup (I Fly Solo)》新单曲，由Lacey Schwimmer和Spose演唱 。Jean-Paul Makhlouf
 与乐队成员Alex Makhlouf 合作表演了《[索尼克
-缤纷世界](https://zh.wikipedia.org/wiki/刺猬索尼克_缤纷色彩 "wikilink")》的开场主题曲《Reach
+缤纷世界](../Page/刺猬索尼克_缤纷色彩.md "wikilink")》的开场主题曲《Reach
 for the Stars》以及片尾主题曲《Speak with your Heart》。
 
 ### 2011－2012年：《Love or Lust》与《The Beat Goes On》
@@ -91,15 +90,15 @@ Romero的《Symphonica》混音。 \[36\]Romero还邀请Cash
 Cash于2013年10月16日在阿姆斯特丹Melkweg举行的ADE音乐节期间与[Martin
 Garrix](../Page/馬汀·蓋瑞克斯.md "wikilink")、Vicetone、Dimitri Vegas & Mike
 Mike以及JohnDahlbäck一同参加Protocol Recordings展示。Hardwell在由[Revealed
-Recordings于](https://zh.wikipedia.org/wiki/映现唱片 "wikilink")2014年2月发行的《Dare
-You - The Remixes Part 1 》中收录了Cash Cash的混音版本。 \[37\]
+Recordings于](../Page/映现唱片.md "wikilink")2014年2月发行的《Dare You - The
+Remixes Part 1 》中收录了Cash Cash的混音版本。 \[37\]
 
 2013年4月16日，乐队在[Twitter上宣布已与Big](../Page/Twitter.md "wikilink")
 Beat唱片和[大西洋唱片签约](../Page/大西洋唱片.md "wikilink")，并已开始为即将发布的专辑录制新材料。同一天，乐队为[Capital
 Cities的](../Page/首都城市群.md "wikilink")《Safe and Sound》制作的混音收录于由Lazy
 Hooks和Capitol唱片发行的《Safe and Sound Remix EP》 。 \[38\]
 \[39\]2013年7月15日，该乐队发行了《Take Me Home》（由[Bebe
-Rexha演唱](https://zh.wikipedia.org/wiki/碧碧·瑞茲莎 "wikilink")
+Rexha演唱](../Page/碧碧·瑞茲莎.md "wikilink")
 ），该曲成为他们在美国和英国排名的最高单曲。它在美国[流行歌曲排行榜上排名第](https://zh.wikipedia.org/wiki/主流四十強單曲榜 "wikilink")14
 ，在美国[Billboard百强单曲榜上排名第](../Page/告示牌百强单曲榜.md "wikilink")57
 \[40\]，在2014年英国舞曲排行榜上首登第4，在[英国单曲榜上排名第](../Page/英國單曲排行榜.md "wikilink")5。该曲的不插电版本以及录制过程纪录片于2013年11月发行。
@@ -160,11 +159,10 @@ Dicky、\[69\] Rae Sremmurd、\[70\] French Montana、\[71\]A$AP Ferg等艺术�
 2016年4月29日，[Billboard正式宣布乐队的第四张正式专辑](../Page/告示牌_\(雜誌\).md "wikilink")《Blood，Sweat＆3
 Years》。伴随由Sofia Reyes演唱的单曲〈How To
 Love〉面世，以及一些先前发布的歌曲可立即下载，专辑预购开始。这张专辑包含与歌手[Bebe
-Rexha](https://zh.wikipedia.org/wiki/碧碧·瑞茲莎 "wikilink")、[Christina
+Rexha](../Page/碧碧·瑞茲莎.md "wikilink")、[Christina
 Perri](../Page/克瑞斯蒂娜·佩瑞.md "wikilink")、[Dev](../Page/Dev.md "wikilink")、John
-Rzeznik、[Julia
-Michaels](https://zh.wikipedia.org/wiki/茱莉亞·麥可斯 "wikilink")
-、来自Fitz and The Tantrums的Michael“Fitz”Fitpatrick、Neon
+Rzeznik、[Julia Michaels](../Page/茱莉亞·麥可斯.md "wikilink") 、来自Fitz and The
+Tantrums的Michael“Fitz”Fitpatrick、Neon
 Hitch，说唱歌手[B.o.B](../Page/巴比瑞.md "wikilink")、[Busta
 Rhymes](../Page/巴斯达韵.md "wikilink")、[Nelly](../Page/耐利.md "wikilink")、Trinidad
 James，乐队Little Daylight、Night Terrors of 1927合作的歌曲 。
@@ -181,7 +179,7 @@ Me...](https://zh.wikipedia.org/wiki/讓我... "wikilink")》混音，该混音�
 Cash与Hakkasan集团签下了拉斯维加斯独家驻唱合同，在旗下夜总会表演，包括Hakkasan
 ，Omnia、Wet Republic和Jewel。 \[81\]作为对2017年10月1日拉斯维加斯大规模射击的回应，Cash
 Cash与[Tiesto](../Page/提雅斯多.md "wikilink")、[Steve
-Aoki](https://zh.wikipedia.org/wiki/史蒂夫·青木 "wikilink")、Kaskade、[Zedd](https://zh.wikipedia.org/wiki/捷德 "wikilink")、[Celine
+Aoki](../Page/史蒂夫·青木.md "wikilink")、Kaskade、[Zedd](https://zh.wikipedia.org/wiki/捷德 "wikilink")、[Celine
 Dion于](../Page/席琳·狄翁.md "wikilink")2017年11月7日在Omnia夜总会举办了慈善晚会，为拉斯维加斯受害者基金筹募了100万美元。\[82\]
 \[83\] \[84\]
 
@@ -203,7 +201,7 @@ pop。 <ref name="amgreview">
 
 </div>
 
-</ref>AllMusic还将这张专辑描述为“（富含）特色的（处理过的）人声、老式合成器、具有感染力的合唱，（和）柔滑的声乐和声。”\[87\]《[PopMatters](https://zh.wikipedia.org/wiki/PopMatters "wikilink")》注意到这张专辑的“标准情绪流行元素”，并认为该乐队的风格“暗示着男孩用一些合成窗口装扮。”
+</ref>AllMusic还将这张专辑描述为“（富含）特色的（处理过的）人声、老式合成器、具有感染力的合唱，（和）柔滑的声乐和声。”\[87\]《[PopMatters](../Page/PopMatters.md "wikilink")》注意到这张专辑的“标准情绪流行元素”，并认为该乐队的风格“暗示着男孩用一些合成窗口装扮。”
 <ref name="popmatters">
 
 <div>
@@ -233,7 +231,7 @@ Review描述为“舞蹈/力量流行音乐……充满贝斯节奏、合成器�
 
 </div>
 
-</ref>以下版本和混音也可认为是[electronica和](../Page/电子乐.md "wikilink")[electropop](https://zh.wikipedia.org/wiki/電子流行 "wikilink")。
+</ref>以下版本和混音也可认为是[electronica和](../Page/电子乐.md "wikilink")[electropop](../Page/電子流行.md "wikilink")。
 \[92\] \[93\] \[94\] \[95\] \[96\]
 
 Cash Cash的第一首RIAA认证歌曲《Take Me
@@ -493,7 +491,7 @@ Cash Cash发行了四张[录音室专辑](../Page/音樂專輯.md "wikilink")
 </tr>
 <tr class="even">
 <td><p>《Take Me Home》<br />
-<span style="font-size:85%;">(featuring <a href="https://zh.wikipedia.org/wiki/碧碧·瑞茲莎" title="wikilink">Bebe Rexha</a>)</span></p></td>
+<span style="font-size:85%;">(featuring <a href="../Page/碧碧·瑞茲莎.md" title="wikilink">Bebe Rexha</a>)</span></p></td>
 <td><p>2013</p></td>
 <td><p>57</p></td>
 <td><p>6</p></td>
@@ -639,10 +637,10 @@ Cash Cash发行了四张[录音室专辑](../Page/音樂專輯.md "wikilink")
 <tbody>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p>featuring <a href="https://zh.wikipedia.org/wiki/泰加_(歌手)" title="wikilink">Tyga</a> – City Is at War (Remix)[137]</p></td>
+<td><p>featuring <a href="../Page/泰加_(歌手).md" title="wikilink">Tyga</a> – City Is at War (Remix)[137]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/泰加_(歌手)" title="wikilink">Tyga</a> – No Introduction (Additional programming)[138]</p></td>
+<td><p><a href="../Page/泰加_(歌手).md" title="wikilink">Tyga</a> – No Introduction (Additional programming)[138]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -766,7 +764,7 @@ Cash Cash发行了四张[录音室专辑](../Page/音樂專輯.md "wikilink")
 <td><p><a href="../Page/這些年樂團.md" title="wikilink">Years &amp; Years</a> – King (Cash Cash Remix)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/布蘭妮·斯皮爾斯.md" title="wikilink">Britney Spears</a> featuring <a href="https://zh.wikipedia.org/wiki/G-Eazy" title="wikilink">G-Eazy</a> – Make Me (Cash Cash Remix)[164]</p></td>
+<td><p><a href="../Page/布蘭妮·斯皮爾斯.md" title="wikilink">Britney Spears</a> featuring <a href="../Page/G-Eazy.md" title="wikilink">G-Eazy</a> – Make Me (Cash Cash Remix)[164]</p></td>
 <td></td>
 </tr>
 <tr class="even">

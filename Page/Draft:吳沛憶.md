@@ -31,7 +31,7 @@
 
 ## 政治經歷
 
-  - [2018年台北市議員選舉獲](https://zh.wikipedia.org/wiki/2018年中華民國直轄市議員及縣市議員選舉選舉區投票結果列表 "wikilink")
+  - [2018年台北市議員選舉獲](../Page/2018年中華民國直轄市議員及縣市議員選舉選舉區投票結果列表.md "wikilink")
     2萬2281票當選議員
 
 ### [2018年臺北市市議員選舉第五選舉區（中正區、萬華區）](https://zh.wikipedia.org/wiki/2018年中華民國直轄市議員及縣市議員選舉選舉區投票結果列表#臺北市第五選舉區（中正區、萬華區） "wikilink")
@@ -94,7 +94,7 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳沛憶" title="wikilink">吳沛憶</a></p></td>
+<td><p><a href="../Page/吳沛憶.md" title="wikilink">吳沛憶</a></p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p>22,281</p></td>
@@ -112,7 +112,7 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/楊時睿" title="wikilink">楊時睿</a></p></td>
+<td><p><a href="../Page/楊時睿.md" title="wikilink">楊時睿</a></p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p>1,030</p></td>
@@ -202,7 +202,7 @@
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/周威佑" title="wikilink">周威佑</a></strong></p></td>
+<td><p><strong><a href="../Page/周威佑.md" title="wikilink">周威佑</a></strong></p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p>13,268</p></td>

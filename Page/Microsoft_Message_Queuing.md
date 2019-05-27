@@ -3,7 +3,7 @@ Queuing**或**MSMQ**[微软公司实现的一种](https://zh.wikipedia.org/wiki/
 NT 4与](https://zh.wikipedia.org/wiki/Windows_NT_4 "wikilink")[Windows
 95](../Page/Windows_95.md "wikilink")。[Windows Server
 2016与](../Page/Windows_Server_2016.md "wikilink")[Windows
-10仍然包含这种组件](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")。1999年起，[Microsoft
+10仍然包含这种组件](../Page/Windows_10.md "wikilink")。1999年起，[Microsoft
 Embedded平台以及](../Page/Windows_IoT.md "wikilink")[Windows
 CE](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")
 3.0也开始支持这一组件。\[1\]
@@ -18,7 +18,7 @@ MSMQ是可靠分发消息。分发失败的消息保存在队列中直到目标�
 
 MSMQ支持可持续性与不可持续性消息，使得性能与消息是否写到磁盘的一致性上可以权衡。不可持续性消息只能用于向非事务性队列发送快速消息。
 
-MSMQ支持事务处理。允许多个动作发给多个队列中包装为单个事务。微软[分布式事务协调器](https://zh.wikipedia.org/wiki/分布式事务协调器 "wikilink")
+MSMQ支持事务处理。允许多个动作发给多个队列中包装为单个事务。微软[分布式事务协调器](../Page/分布式事务协调器.md "wikilink")
 (MSDTC) 支持对MSMQ或其他资源的事务访问。
 
 MSMQ使用下述端口:

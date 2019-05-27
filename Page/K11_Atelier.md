@@ -2,7 +2,7 @@
 [K11_ATELIER_21F_Victoria_Dockside_exhibition.jpg](https://zh.wikipedia.org/wiki/File:K11_ATELIER_21F_Victoria_Dockside_exhibition.jpg "fig:K11_ATELIER_21F_Victoria_Dockside_exhibition.jpg")
 **K11
 Atelier**座落於[尖沙咀](../Page/尖沙咀.md "wikilink")[維港海旁](https://zh.wikipedia.org/wiki/維港 "wikilink")，是綜合發展項目[Victoria
-Dockside第一期落成的甲級寫字樓](https://zh.wikipedia.org/wiki/Victoria_Dockside "wikilink")\[1\]，可供租用的寫字樓總面積為435,156平方呎。\[2\]
+Dockside第一期落成的甲級寫字樓](../Page/Victoria_Dockside.md "wikilink")\[1\]，可供租用的寫字樓總面積為435,156平方呎。\[2\]
 
 ## 概覽
 

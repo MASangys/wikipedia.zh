@@ -6,8 +6,7 @@ Transit），是[庞巴迪生产的一种地铁列车](https://zh.wikipedia.org/
   - [北京地铁机场线](../Page/北京地铁机场线.md "wikilink")：40节INNOVIA ART 200
   - [肯尼迪国际机场快线](https://zh.wikipedia.org/wiki/肯尼迪国际机场快线 "wikilink")：32节INNOVIA
     ART 200
-  - [㡳特律旅客捷运系统](https://zh.wikipedia.org/wiki/㡳特律旅客捷运系统 "wikilink")：12节INNOVIA
-    ART 100
+  - [㡳特律旅客捷运系统](../Page/㡳特律旅客捷运系统.md "wikilink")：12节INNOVIA ART 100
   - [龙仁轻电铁](https://zh.wikipedia.org/wiki/龙仁轻电铁 "wikilink")：32节INNOVIA
     ART 200
   - [格拉那再也线](https://zh.wikipedia.org/wiki/格拉那再也线 "wikilink")：210节INNOVIA

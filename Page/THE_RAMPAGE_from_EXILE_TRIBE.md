@@ -169,7 +169,7 @@ THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"\[8\]
 
   - 2月6日、2月7日：静岡・[静岡エコパアリーナ](https://zh.wikipedia.org/wiki/静岡エコパアリーナ "wikilink")
   - 2月10日、2月11日：新潟・[朱鷺展覽館](../Page/朱鷺展覽館.md "wikilink")
-  - 2月19日、2月20日：大阪・[大阪城音樂廳](https://zh.wikipedia.org/wiki/大阪城音樂廳 "wikilink")
+  - 2月19日、2月20日：大阪・[大阪城音樂廳](../Page/大阪城音樂廳.md "wikilink")
   - 2月23日、2月24日：熊本・[グランメッセ熊本](https://zh.wikipedia.org/wiki/グランメッセ熊本 "wikilink")
   - 3月9日、3月10日：宮城・[セキスイハイムスーパーアリーナ](https://zh.wikipedia.org/wiki/セキスイハイムスーパーアリーナ "wikilink")
   - 3月16日、3月17日：福井・[サンドーム福井](https://zh.wikipedia.org/wiki/サンドーム福井 "wikilink")
@@ -179,7 +179,7 @@ THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"\[8\]
   - 4月20日、4月21日、4月23日、4月24日：埼玉・[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")
   - 4月28日、4月29日：福岡・[マリンメッセ福岡](https://zh.wikipedia.org/wiki/マリンメッセ福岡 "wikilink")
   - 5月18日、5月19日：三重・[三重県営サンアリーナ](https://zh.wikipedia.org/wiki/三重県営サンアリーナ "wikilink")
-  - 5月25日、5月26日：北海道・[真駒內屋內競技場](https://zh.wikipedia.org/wiki/真駒內屋內競技場 "wikilink")
+  - 5月25日、5月26日：北海道・[真駒內屋內競技場](../Page/真駒內屋內競技場.md "wikilink")
 
 </div>
 
@@ -226,19 +226,18 @@ THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"\[8\]
   - [EXILE THE SECOND](../Page/EXILE_THE_SECOND.md "wikilink")
       - 「One Time One Life」（2016年6月）
       - 「[YEAH\!\! YEAH\!\!
-        YEAH\!\!](https://zh.wikipedia.org/wiki/YEAH!!_YEAH!!_YEAH!! "wikilink")」（2016年7月）
+        YEAH\!\!](../Page/YEAH!!_YEAH!!_YEAH!!.md "wikilink")」（2016年7月）
       - 「[Shut up\!\! Shut up\!\! Shut
-        up\!\!](https://zh.wikipedia.org/wiki/Shut_up!!_Shut_up!!_Shut_up!! "wikilink")」（2016年8月）
+        up\!\!](../Page/Shut_up!!_Shut_up!!_Shut_up!!.md "wikilink")」（2016年8月）
       - 「[WILD WILD
-        WILD](https://zh.wikipedia.org/wiki/WILD_WILD_WILD "wikilink")」（2016年9月）
+        WILD](../Page/WILD_WILD_WILD.md "wikilink")」（2016年9月）
 
 ## 獎項
 
   - [MTV日本音樂錄影帶大獎2017](../Page/MTV日本音樂錄影帶大獎.md "wikilink")
     最佳新人音樂錄影帶獎"Lightning"
-  - [亞洲明星盛典(Asia Artist
-    Award)2017年](https://zh.wikipedia.org/wiki/亞洲明星盛典 "wikilink")
-    New Wave獎
+  - [亞洲明星盛典(Asia Artist Award)2017年](../Page/亞洲明星盛典.md "wikilink") New
+    Wave獎
   - 第32年度 [日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink") 最佳5位新人獎(音樂類) \[9\]
 
 ## 腳註

@@ -18,7 +18,7 @@
 </tr>
 <tr class="even">
 <td><p>飞行工程师1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/谢尔盖·列温" title="wikilink">谢尔盖·列温</a></p></td>
+<td><p><a href="../Page/谢尔盖·列温.md" title="wikilink">谢尔盖·列温</a></p></td>
 <td><p>第1次</p></td>
 </tr>
 <tr class="odd">

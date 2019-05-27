@@ -1,4 +1,4 @@
-**韋恩·G·哈蒙德**（，）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、學者、[圖書館員](../Page/圖書館員.md "wikilink")，[托爾金研究專家](https://zh.wikipedia.org/wiki/托爾金 "wikilink")\[1\]。與妻子撰有《[J·R·R·托爾金：藝術家與插畫家](https://zh.wikipedia.org/wiki/J·R·R·托爾金：藝術家與插畫家 "wikilink")》、《魔戒阅读指南》、《托尔金作品导读与指南》、《[哈比人的藝術](../Page/哈比人.md "wikilink")》等多本托爾金研究書籍\[2\]\[3\]。
+**韋恩·G·哈蒙德**（，）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、學者、[圖書館員](../Page/圖書館員.md "wikilink")，[托爾金研究專家](https://zh.wikipedia.org/wiki/托爾金 "wikilink")\[1\]。與妻子撰有《[J·R·R·托爾金：藝術家與插畫家](../Page/J·R·R·托爾金：藝術家與插畫家.md "wikilink")》、《魔戒阅读指南》、《托尔金作品导读与指南》、《[哈比人的藝術](../Page/哈比人.md "wikilink")》等多本托爾金研究書籍\[2\]\[3\]。
 
 ## 生平
 
@@ -8,7 +8,7 @@
 
 在1976年至2015年期間，他在[馬薩諸塞州](https://zh.wikipedia.org/wiki/馬薩諸塞州 "wikilink")[威廉姆斯學院的查賓图书馆擔任助理圖書館管理員](https://zh.wikipedia.org/wiki/威廉姆斯學院 "wikilink")。
 
-1993年，哈蒙德出版了《J·R·R·托爾金：描寫性傳記》。1994年他與克里斯蒂娜·斯卡爾[結婚](https://zh.wikipedia.org/wiki/結婚 "wikilink")。而後夫妻兩人應[克里斯多夫·托爾金之邀](https://zh.wikipedia.org/wiki/克里斯多夫·托爾金 "wikilink")，共同合著《[J·R·R·托爾金：藝術家與插畫家](https://zh.wikipedia.org/wiki/J·R·R·托爾金：藝術家與插畫家 "wikilink")》\[5\]。
+1993年，哈蒙德出版了《J·R·R·托爾金：描寫性傳記》。1994年他與克里斯蒂娜·斯卡爾[結婚](https://zh.wikipedia.org/wiki/結婚 "wikilink")。而後夫妻兩人應[克里斯多夫·托爾金之邀](https://zh.wikipedia.org/wiki/克里斯多夫·托爾金 "wikilink")，共同合著《[J·R·R·托爾金：藝術家與插畫家](../Page/J·R·R·托爾金：藝術家與插畫家.md "wikilink")》\[5\]。
 
 ## 參考資料
 

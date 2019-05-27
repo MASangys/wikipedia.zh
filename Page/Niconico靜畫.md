@@ -20,7 +20,7 @@
 
 ## Niconico漫畫
 
-**Niconico漫畫**（）是由Trista營運的[網絡漫畫服務](https://zh.wikipedia.org/wiki/網絡漫畫 "wikilink")。本服務不僅可以閱讀漫畫，還可以瀏覽漫畫的[留言板](https://zh.wikipedia.org/wiki/留言板 "wikilink")，並與其他用戶分享評論。
+**Niconico漫畫**（）是由Trista營運的[網絡漫畫服務](../Page/網絡漫畫.md "wikilink")。本服務不僅可以閱讀漫畫，還可以瀏覽漫畫的[留言板](https://zh.wikipedia.org/wiki/留言板 "wikilink")，並與其他用戶分享評論。
 
 Niconico漫畫有兩種瀏覽模式，一個是可以在縱向滑動的漫畫中滑動評論的「滑動模式」（），另一個是評論和聲音可以在畫面上自動播放的「Niconico漫畫模式」（）\[3\]。
 
@@ -45,10 +45,10 @@ WALKER的旗下完全子公司](https://zh.wikipedia.org/wiki/BOOK_WALKER "wikil
 
   - [Niconico動畫](../Page/Niconico動畫.md "wikilink")
   - [Niconico動漫](https://zh.wikipedia.org/wiki/Niconico動漫 "wikilink")
-  - [Niconico直播](https://zh.wikipedia.org/wiki/Niconico直播 "wikilink")
+  - [Niconico直播](../Page/Niconico直播.md "wikilink")
   - [Niconico頻道](https://zh.wikipedia.org/wiki/Niconico頻道 "wikilink")
-  - [Niconico大百科](https://zh.wikipedia.org/wiki/Niconico大百科 "wikilink")
-  - [BOOK☆WALKER](https://zh.wikipedia.org/wiki/BOOK☆WALKER "wikilink")
+  - [Niconico大百科](../Page/Niconico大百科.md "wikilink")
+  - [BOOK☆WALKER](../Page/BOOK☆WALKER.md "wikilink")
 
 ## 註解
 

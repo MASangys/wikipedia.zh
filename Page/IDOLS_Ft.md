@@ -25,7 +25,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 
 ## 成员
 
-该团现时有84名成员\[4\]，其中9人原属[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，14人原属[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")，9人原属[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，而原属[SHY48及](../Page/SHY48.md "wikilink")[CKG48的成员均为](https://zh.wikipedia.org/wiki/CKG48 "wikilink")26人。
+该团现时有84名成员\[4\]，其中9人原属[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，14人原属[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")，9人原属[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，而原属[SHY48及](../Page/SHY48.md "wikilink")[CKG48的成员均为](../Page/CKG48.md "wikilink")26人。
 
 | SNH48 | BEJ48    | GNZ48 | SHY48    | CKG48 |
 | ----- | -------- | ----- | -------- | ----- |

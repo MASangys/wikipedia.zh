@@ -50,7 +50,7 @@
 
 ## 爭議事件
 
-2019年3月29日，成員在[音樂銀行頒發一位給](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")[Mamamoo時想方設法搶鏡](../Page/Mamamoo.md "wikilink")，無視周遭人異樣眼神站到前輩後面，並且踢到了[Mamamoo先前腳上猶有舊傷的成員](../Page/Mamamoo.md "wikilink")[輝人而引發熱議](https://zh.wikipedia.org/wiki/輝人 "wikilink")，當時團員臉上並無一絲悔意，也未立即向[Mamamoo道歉](../Page/Mamamoo.md "wikilink")，仍舊嘻皮笑臉的大呼小叫，最後退至後方。公司晚間就此事發出相關道歉聲明，唯道歉聲明被批欠誠意，並且未就其莽撞無禮的舉動說明原因\[2\]\[3\]\[4\]。
+2019年3月29日，成員在[音樂銀行頒發一位給](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")[Mamamoo時想方設法搶鏡](../Page/Mamamoo.md "wikilink")，無視周遭人異樣眼神站到前輩後面，並且踢到了[Mamamoo先前腳上猶有舊傷的成員](../Page/Mamamoo.md "wikilink")[輝人而引發熱議](../Page/輝人.md "wikilink")，當時團員臉上並無一絲悔意，也未立即向[Mamamoo道歉](../Page/Mamamoo.md "wikilink")，仍舊嘻皮笑臉的大呼小叫，最後退至後方。公司晚間就此事發出相關道歉聲明，唯道歉聲明被批欠誠意，並且未就其莽撞無禮的舉動說明原因\[2\]\[3\]\[4\]。
 
 ## 參考資料
 

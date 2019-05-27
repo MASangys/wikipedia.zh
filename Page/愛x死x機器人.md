@@ -328,7 +328,7 @@ Rémi Kozyra, Maxime Luère</p></td>
 <td><p><a href="../Page/提姆·米勒.md" title="wikilink">提姆·米勒</a></p></td>
 <td><p>Philip Gelatt</p></td>
 <td><p>Michael Swanwick</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Digic_Pictures" title="wikilink">Digic Pictures</a> / Blur Studio / Atomic Fiction</p></td>
+<td><p><a href="../Page/Digic_Pictures.md" title="wikilink">Digic Pictures</a> / Blur Studio / Atomic Fiction</p></td>
 <td><p>10分</p></td>
 </tr>
 <tr class="odd">

@@ -1,10 +1,10 @@
-**冏星人**（1986年8月28日－）本名余其柔，後改名為余玥，臺北市出生，台灣知名[YouTuber](https://zh.wikipedia.org/wiki/YouTuber "wikilink")，頻道以[影評](https://zh.wikipedia.org/wiki/影評 "wikilink")、[書評為主](../Page/書評.md "wikilink")。她在以冏星人身分露臉時會戴假鬍子。
+**冏星人**（1986年8月28日－）本名余其柔，後改名為余玥，臺北市出生，台灣知名[YouTuber](../Page/YouTuber.md "wikilink")，頻道以[影評](https://zh.wikipedia.org/wiki/影評 "wikilink")、[書評為主](../Page/書評.md "wikilink")。她在以冏星人身分露臉時會戴假鬍子。
 
 ## 經歷
 
 在經營Youtube頻道前，曾擔任[遊戲基地Gamebase採訪編輯](../Page/遊戲基地.md "wikilink")、[尖端出版集團產品營運主任](../Page/尖端出版.md "wikilink")、茂為數位科技前端工程師。因為喜歡分享，冏星人自2005年開始經營部落格，分享她每天看到的新奇內容，後來陸續也開始發表了影評等等。
 
-2013年冏星人決定用影音分享她的評論，也才開始經營了Youtube頻道，直到2016年，冏星人才真正把工作辭掉，成為了全職的[YouTuber](https://zh.wikipedia.org/wiki/YouTuber "wikilink")。
+2013年冏星人決定用影音分享她的評論，也才開始經營了Youtube頻道，直到2016年，冏星人才真正把工作辭掉，成為了全職的[YouTuber](../Page/YouTuber.md "wikilink")。
 
 ## 頻道名稱
 

@@ -1,5 +1,5 @@
 《**少女＊領域
-RADIO＊MAIDEN**》（）是為宣傳遊戲《[少女＊領域](https://zh.wikipedia.org/wiki/少女＊領域 "wikilink")》而開設的一個[網路廣播節目](https://zh.wikipedia.org/wiki/網路電台 "wikilink")，自2015年12月24日開始在[音泉廣播](../Page/音泉.md "wikilink")。節目由聲演遊戲角色飛鳥湊的和西園寺風莉的聲優主持。
+RADIO＊MAIDEN**》（）是為宣傳遊戲《[少女＊領域](../Page/少女＊領域.md "wikilink")》而開設的一個[網路廣播節目](https://zh.wikipedia.org/wiki/網路電台 "wikilink")，自2015年12月24日開始在[音泉廣播](../Page/音泉.md "wikilink")。節目由聲演遊戲角色飛鳥湊的和西園寺風莉的聲優主持。
 
 節目除了介紹和宣傳由[PALETTE
 QUALIA在](../Page/PALETTE.md "wikilink")2016年6月推出的[成人](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")《少女＊領域》外，也設有數個環節從聽眾招募來信並圍繞信件內容展開討論和閒談。

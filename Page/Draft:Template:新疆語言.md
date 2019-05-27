@@ -22,7 +22,7 @@
 }}
 
 |group8 = [混合語言](../Page/混合语.md "wikilink") |list8 =
-[誒話](https://zh.wikipedia.org/wiki/誒話 "wikilink"){{\`}}[五屯话](https://zh.wikipedia.org/wiki/五屯话 "wikilink"){{\`}}{{\`}}{{\`}}{{\`}}[貓家話](https://zh.wikipedia.org/wiki/貓家話 "wikilink"){{\`}}[富馬話](../Page/富馬話.md "wikilink"){{\`}}[托茂語](https://zh.wikipedia.org/wiki/托茂語 "wikilink"){{\`}}[伶話](https://zh.wikipedia.org/wiki/伶話 "wikilink"){{\`}}[酉水话](https://zh.wikipedia.org/wiki/酉水话 "wikilink"){{\`}}{{\`}}
+[誒話](https://zh.wikipedia.org/wiki/誒話 "wikilink"){{\`}}[五屯话](https://zh.wikipedia.org/wiki/五屯话 "wikilink"){{\`}}{{\`}}{{\`}}{{\`}}[貓家話](https://zh.wikipedia.org/wiki/貓家話 "wikilink"){{\`}}[富馬話](../Page/富馬話.md "wikilink"){{\`}}[托茂語](https://zh.wikipedia.org/wiki/托茂語 "wikilink"){{\`}}[伶話](https://zh.wikipedia.org/wiki/伶話 "wikilink"){{\`}}[酉水话](../Page/酉水话.md "wikilink"){{\`}}{{\`}}
 
 |group9 = 語系不明 |list9 = {{\`}}{{\`}}
 

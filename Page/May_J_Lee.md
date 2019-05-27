@@ -1,8 +1,8 @@
 **May J
 Lee**（，），本名**李知玹**\[1\]（），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")，為韓國知名舞蹈工作室[1MILLION
 DANCE
-STUDIO的舞蹈老師](https://zh.wikipedia.org/wiki/1MILLION_DANCE_STUDIO "wikilink")。\[2\]\[3\]2018年参与選秀節目[PRODUCE
-48担任舞蹈導師](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")。\[4\]
+STUDIO的舞蹈老師](../Page/1MILLION_DANCE_STUDIO.md "wikilink")。\[2\]\[3\]2018年参与選秀節目[PRODUCE
+48担任舞蹈導師](../Page/PRODUCE_48.md "wikilink")。\[4\]
 
 ## 編舞經歷
 
@@ -22,12 +22,11 @@ STUDIO的舞蹈老師](https://zh.wikipedia.org/wiki/1MILLION_DANCE_STUDIO "wiki
 
 <!-- end list -->
 
-  - [PLAYBACK](https://zh.wikipedia.org/wiki/PLAYBACK "wikilink")：PLACKBACK
+  - [PLAYBACK](../Page/PLAYBACK.md "wikilink")：PLACKBACK
 
 <!-- end list -->
 
-  - [PRODUCE 48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink") :
-    I AM (概念評價曲)
+  - [PRODUCE 48](../Page/PRODUCE_48.md "wikilink") : I AM (概念評價曲)
 
 ### 改編
 

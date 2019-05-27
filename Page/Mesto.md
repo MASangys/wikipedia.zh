@@ -21,12 +21,12 @@ Ranzino發行他的第一首歌曲“GO“，而且此首歌為免費下載。\[
 然后，他與 發行對的單曲Raise Your Hands的重混版本。2015年他發行新歌“New
 York“這是接續他第三個單曲”Tokyo"。他在同年4月發行他對[Major
 Lazar和](https://zh.wikipedia.org/wiki/Major_Lazar "wikilink")[DJ
-Snake以及](https://zh.wikipedia.org/wiki/DJ蛇王 "wikilink")[MØ所發行的單曲Lean](../Page/MØ.md "wikilink")
+Snake以及](../Page/DJ蛇王.md "wikilink")[MØ所發行的單曲Lean](../Page/MØ.md "wikilink")
 On做的重混版。5月他發行單曲“Rio“。9月他發行他對[Showtek](../Page/Showtek.md "wikilink")
 和合作的“Satisfied”的混音版 。然後再9月他發行了“Tetris (Truffle Butter
 Mashup)”並開放免費下載。同年12月發布和[馬汀·蓋瑞克斯與](../Page/馬汀·蓋瑞克斯.md "wikilink")合作的單曲"Bouncybob"。
 
-2016年6月與和[馬汀·蓋瑞克斯與](../Page/馬汀·蓋瑞克斯.md "wikilink")在上表演，同年4月他發行他對[G-Eazy和](https://zh.wikipedia.org/wiki/G-Eazy "wikilink")[碧碧·瑞茲莎的單曲](https://zh.wikipedia.org/wiki/碧碧·瑞茲莎 "wikilink")
+2016年6月與和[馬汀·蓋瑞克斯與](../Page/馬汀·蓋瑞克斯.md "wikilink")在上表演，同年4月他發行他對[G-Eazy和](../Page/G-Eazy.md "wikilink")[碧碧·瑞茲莎的單曲](../Page/碧碧·瑞茲莎.md "wikilink")
 [Me, Myself, and
 I的正式混音版](https://zh.wikipedia.org/wiki/Me,_Myself,_and_I "wikilink")，同個月他也是出他對[Armin
 van Buuren與](../Page/阿明·范·比伦.md "wikilink")的歌曲Another You的混合版。

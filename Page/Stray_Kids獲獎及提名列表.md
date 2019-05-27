@@ -21,7 +21,7 @@ Kids由](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2018年出道至今
 <td><p>第33屆</p></td>
 <td><p>2018年</p></td>
 <td><p>唱片部門－本賞</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/I_am_WHO_(Stray_Kids迷你專輯)" title="wikilink">I am WHO</a>》</p></td>
+<td><p>《<a href="../Page/I_am_WHO_(Stray_Kids迷你專輯).md" title="wikilink">I am WHO</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -93,7 +93,7 @@ Kids由](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2018年出道至今
 </tr>
 <tr class="odd">
 <td><p>Mwave Global Fans' Choice</p></td>
-<td><p>〈<a href="https://zh.wikipedia.org/wiki/I_am_WHO_(Stray_Kids迷你專輯)" title="wikilink">My Pace</a>〉</p></td>
+<td><p>〈<a href="../Page/I_am_WHO_(Stray_Kids迷你專輯).md" title="wikilink">My Pace</a>〉</p></td>
 <td><p>[2]</p></td>
 <td></td>
 <td></td>
@@ -161,7 +161,7 @@ Kids由](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2018年出道至今
 </tbody>
 </table>
 
-### [Soribada最佳音樂大獎（Soribada Best K-Music Awards）](https://zh.wikipedia.org/wiki/Soribada最佳音樂大獎 "wikilink")
+### [Soribada最佳音樂大獎（Soribada Best K-Music Awards）](../Page/Soribada最佳音樂大獎.md "wikilink")
 
 <table>
 <thead>

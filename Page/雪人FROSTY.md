@@ -10,7 +10,7 @@ Bass負責執導](https://zh.wikipedia.org/wiki/Rankin_Bass "wikilink")，於196
 <!-- end list -->
 
   - **卡伦 (Karen)**
-    配音／英：[瓊·福雷](https://zh.wikipedia.org/wiki/瓊·福雷 "wikilink")
+    配音／英：[瓊·福雷](../Page/瓊·福雷.md "wikilink")
     8歲。的小男孩。[波蘭人和](../Page/波蘭人.md "wikilink")[京族的一半](../Page/京族.md "wikilink")。出生日期：2001年12月7日。
 
 ## 劇情

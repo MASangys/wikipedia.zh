@@ -12,7 +12,7 @@ S在2012年1月的CES上公开展示，并于2012年4月发行。
 
 ## 特色
 
-华为P系列，与[Mate系列和](https://zh.wikipedia.org/wiki/华为Mate系列 "wikilink")[荣耀旗舰系列共同作为华为的旗舰智能手机系列](https://zh.wikipedia.org/wiki/荣耀 "wikilink")，发行时即搭载有较高端的配置，如最新的华为[海思麒麟系列SoC以及基于最新版本](../Page/海思半導體.md "wikilink")[Android的华为](../Page/Android.md "wikilink")[EMUI用户界面](../Page/EMUI.md "wikilink")，并配备有后置多摄像头、[近场支付](../Page/近場通訊.md "wikilink")、[人工智能等功能](../Page/人工智能.md "wikilink")，以直接对标[苹果](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")、[谷歌](https://zh.wikipedia.org/wiki/谷歌 "wikilink")、[三星](../Page/三星電子.md "wikilink")、[小米](../Page/小米集團.md "wikilink")、[欧珀等企业的旗舰级机型](https://zh.wikipedia.org/wiki/欧珀 "wikilink")。
+华为P系列，与[Mate系列和](../Page/华为Mate系列.md "wikilink")[荣耀旗舰系列共同作为华为的旗舰智能手机系列](../Page/荣耀.md "wikilink")，发行时即搭载有较高端的配置，如最新的华为[海思麒麟系列SoC以及基于最新版本](../Page/海思半導體.md "wikilink")[Android的华为](../Page/Android.md "wikilink")[EMUI用户界面](../Page/EMUI.md "wikilink")，并配备有后置多摄像头、[近场支付](../Page/近場通訊.md "wikilink")、[人工智能等功能](../Page/人工智能.md "wikilink")，以直接对标[苹果](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")、[谷歌](https://zh.wikipedia.org/wiki/谷歌 "wikilink")、[三星](../Page/三星電子.md "wikilink")、[小米](../Page/小米集團.md "wikilink")、[欧珀等企业的旗舰级机型](https://zh.wikipedia.org/wiki/欧珀 "wikilink")。
 
 华为P系列搭载有最新的成像技术。华为P9是全球首款搭载有后置[徕卡双摄的智能手机](../Page/徕卡相机.md "wikilink")；华为P20
 Pro则是全球首款后置三摄像头手机，同时也是2010年以来全球首款搭载有1/1.7英寸图像传感器的智能手机。
@@ -31,10 +31,10 @@ Pro则是全球首款后置三摄像头手机，同时也是2010年以来全球�
   - [华为P8](../Page/华为P8.md "wikilink")、华为P8 Max、华为P8
     Lite（中国称P8青春版）（2015年）
   - [华为P9](../Page/华为P9.md "wikilink")、华为P9 Plus、华为P9 Lite（中国称G9）（2016年）
-  - [华为P10](https://zh.wikipedia.org/wiki/华为P10 "wikilink")、华为P10
-    Plus、华为P10 Lite（中国称Nova Lite）（2017年）
-  - [华为P20](https://zh.wikipedia.org/wiki/华为P20系列 "wikilink")、华为P20
-    Pro、华为P20 Lite（中国称Nova 3e）（2018年）
+  - [华为P10](../Page/华为P10.md "wikilink")、华为P10 Plus、华为P10 Lite（中国称Nova
+    Lite）（2017年）
+  - [华为P20](../Page/华为P20系列.md "wikilink")、华为P20 Pro、华为P20 Lite（中国称Nova
+    3e）（2018年）
 
 ## 配置简表
 
@@ -63,7 +63,7 @@ Pro则是全球首款后置三摄像头手机，同时也是2010年以来全球�
 <td><p>2012-01 2012-05</p></td>
 <td><p>OMAP4460</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Android_Ice_Cream_Sandwich" title="wikilink">Android 4.0 "ICS"</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Jelly_Bean" title="wikilink">Android 4.1 "Jelly Bean"</a> <a href="../Page/EMUI.md" title="wikilink">EMUI</a> 1.x</p></td>
+<td><p><a href="../Page/Android_Jelly_Bean.md" title="wikilink">Android 4.1 "Jelly Bean"</a> <a href="../Page/EMUI.md" title="wikilink">EMUI</a> 1.x</p></td>
 <td><p>1GB</p></td>
 <td><p>4GB 支持<a href="https://zh.wikipedia.org/wiki/microSD" title="wikilink">microSD</a></p></td>
 <td><p>8MP彩色</p></td>
@@ -114,7 +114,7 @@ Pro则是全球首款后置三摄像头手机，同时也是2010年以来全球�
 <td></td>
 <td><p>2013-06-18</p></td>
 <td><p>Android 4.2.2 "Jelly Bean" EMUI 1.6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_KitKat" title="wikilink">Android 4.4.2 "KitKat"</a> EMUI 3.0</p></td>
+<td><p><a href="../Page/Android_KitKat.md" title="wikilink">Android 4.4.2 "KitKat"</a> EMUI 3.0</p></td>
 <td><p>2GB</p></td>
 <td><p>8/16GB 支持microSD</p></td>
 <td><p>8MP彩色</p></td>
@@ -141,7 +141,7 @@ Pro则是全球首款后置三摄像头手机，同时也是2010年以来全球�
 <td><p>2014-06-12</p></td>
 <td><p>麒麟910T</p></td>
 <td><p>Android 4.4.2 "KitKat" EMUI 2.3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Lollipop" title="wikilink">Android 5.1.1 "Lollipop"</a> EMUI 3.1</p></td>
+<td><p><a href="../Page/Android_Lollipop.md" title="wikilink">Android 5.1.1 "Lollipop"</a> EMUI 3.1</p></td>
 <td><p>2GB</p></td>
 <td><p>16GB 支持microSD</p></td>
 <td><p>13MP彩色</p></td>
@@ -180,7 +180,7 @@ Pro则是全球首款后置三摄像头手机，同时也是2010年以来全球�
 <td><p>2016-04-06 2016-04-15</p></td>
 <td><p>麒麟955</p></td>
 <td><p>Android 6.0 "Marshmallow" EMUI 4.1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Oreo" title="wikilink">Android 8.0 "Oreo"</a> EMUI 8.0</p></td>
+<td><p><a href="../Page/Android_Oreo.md" title="wikilink">Android 8.0 "Oreo"</a> EMUI 8.0</p></td>
 <td><p>3/4GB</p></td>
 <td><p>32/64GB 支持microSD</p></td>
 <td><p>LEICA SUMMARIT-H 1:2.2/27 ASPH. 12MP黑白+12MP彩色</p></td>
@@ -206,7 +206,7 @@ Pro则是全球首款后置三摄像头手机，同时也是2010年以来全球�
 <td><p>2017-02-26 2017-03-24</p></td>
 <td><p>麒麟960</p></td>
 <td><p><a href="../Page/Android_Nougat.md" title="wikilink">Android 7.0 "Nougat"</a> EMUI 5.1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Pie" title="wikilink">Android 9.0 "Pie"</a> EMUI 9.0</p>
+<td><p><a href="../Page/Android_Pie.md" title="wikilink">Android 9.0 "Pie"</a> EMUI 9.0</p>
 <p>（内测）</p></td>
 <td><p>4GB LPDDR4</p></td>
 <td><p>64/128GB <a href="https://zh.wikipedia.org/wiki/eMMC" title="wikilink">eMMC</a> 5.1/<a href="../Page/通用闪存存储.md" title="wikilink">UFS</a> 2.1</p>

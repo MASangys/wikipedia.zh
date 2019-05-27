@@ -29,24 +29,24 @@ Development Studio则成为专注于大战略游戏的开发工作室。
 
 ### 十字军之王
 
-|                        |                                                         |            |                    |       |           |
-| ---------------------- | ------------------------------------------------------- | ---------- | ------------------ | ----- | --------- |
-| Crusader Kings         | [十字军之王](https://zh.wikipedia.org/wiki/十字军之王 "wikilink") | 2004       | Deus Vult          | 神的旨意  | 2007      |
-| Crusader Kings II\[4\] | [十字军之王II](../Page/十字军之王II.md "wikilink")                | 2012       | The Sword of Islam | 伊斯兰之剑 | 2012·6·26 |
-| Legacy of Rome         | 罗马的遗产                                                   | 2012·10·6  |                    |       |           |
-| Sunset Invasion        | 日落入侵                                                    | 2012·11·15 |                    |       |           |
-| Res Publica            | 共和国                                                     | 2013·1·12  |                    |       |           |
-| The Old Gods           | 上古诸神                                                    | 2013·5·8   |                    |       |           |
-| Sons of Abraham        | 亚伯拉罕之裔                                                  | 2013·11·18 |                    |       |           |
-| Rajas of India         | 印度罗闍                                                    | 2014·3·25  |                    |       |           |
-| Charlemagne            | 查理曼                                                     | 2014·10·14 |                    |       |           |
-| Way of Life            | 生活之路                                                    | 2014·11·16 |                    |       |           |
-| Horse Lords            | 马上诸侯                                                    | 2015·7·14  |                    |       |           |
-| Conclave               | 御前会议                                                    | 2016·2·2   |                    |       |           |
-| The Reaper's Due       | 死神索命                                                    | 2016·7·25  |                    |       |           |
-| Monks and Mystics      | 僧侶與密教徒                                                  | 2017       |                    |       |           |
-| Jade Dragon            | 玉龍                                                      | 2017       |                    |       |           |
-| Holy Fury              | 聖怒                                                      | 2018       |                    |       |           |
+|                        |                                          |            |                    |       |           |
+| ---------------------- | ---------------------------------------- | ---------- | ------------------ | ----- | --------- |
+| Crusader Kings         | [十字军之王](../Page/十字军之王.md "wikilink")     | 2004       | Deus Vult          | 神的旨意  | 2007      |
+| Crusader Kings II\[4\] | [十字军之王II](../Page/十字军之王II.md "wikilink") | 2012       | The Sword of Islam | 伊斯兰之剑 | 2012·6·26 |
+| Legacy of Rome         | 罗马的遗产                                    | 2012·10·6  |                    |       |           |
+| Sunset Invasion        | 日落入侵                                     | 2012·11·15 |                    |       |           |
+| Res Publica            | 共和国                                      | 2013·1·12  |                    |       |           |
+| The Old Gods           | 上古诸神                                     | 2013·5·8   |                    |       |           |
+| Sons of Abraham        | 亚伯拉罕之裔                                   | 2013·11·18 |                    |       |           |
+| Rajas of India         | 印度罗闍                                     | 2014·3·25  |                    |       |           |
+| Charlemagne            | 查理曼                                      | 2014·10·14 |                    |       |           |
+| Way of Life            | 生活之路                                     | 2014·11·16 |                    |       |           |
+| Horse Lords            | 马上诸侯                                     | 2015·7·14  |                    |       |           |
+| Conclave               | 御前会议                                     | 2016·2·2   |                    |       |           |
+| The Reaper's Due       | 死神索命                                     | 2016·7·25  |                    |       |           |
+| Monks and Mystics      | 僧侶與密教徒                                   | 2017       |                    |       |           |
+| Jade Dragon            | 玉龍                                       | 2017       |                    |       |           |
+| Holy Fury              | 聖怒                                       | 2018       |                    |       |           |
 
 ### 欧陆风云
 

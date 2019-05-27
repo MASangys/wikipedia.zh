@@ -12,7 +12,7 @@ Ma發揮其敏銳的推理能力揭開真相的故事。\[1\]
 | **演員**                                              | **角色**                                            | **介紹**                                                                                                          |
 | [金侖珍](../Page/金侖珍.md "wikilink")                    | Ms. Ma                                            | 九年前背負著殺害女兒的冤名被判終身監禁，為了找出事情真相而逃獄。偽裝成小說家馬智媛，來到彩虹村生活，目的是為了調查女兒被殺害的真相                                               |
 | 馬智媛                                                 | 小說作家，繼第一部作品成功後，第二部作品面臨失敗，過著潦倒生活，與Ms. Ma見面後，行蹤下落不明 |                                                                                                                 |
-| [高聖熙](https://zh.wikipedia.org/wiki/高聖熙 "wikilink") | 徐恩智                                               | 於Ms. Ma被刑警追捕時拯救了她，並謊稱是其侄女。原與外婆及妹妹同住，妹妹於九年前失蹤，下落不明。為了尋找妹妹的下落，而與其一起生活的神秘女子，對Ms. Ma的事情瞭如指掌。身上戴有與Ms. Ma女兒瑞敏款式一樣的髮夾。 |
+| [高聖熙](../Page/高聖熙.md "wikilink")                    | 徐恩智                                               | 於Ms. Ma被刑警追捕時拯救了她，並謊稱是其侄女。原與外婆及妹妹同住，妹妹於九年前失蹤，下落不明。為了尋找妹妹的下落，而與其一起生活的神秘女子，對Ms. Ma的事情瞭如指掌。身上戴有與Ms. Ma女兒瑞敏款式一樣的髮夾。 |
 | [鄭雄仁](../Page/鄭雄仁.md "wikilink")                    | 韓泰圭                                               | 新人時期曾負責 Ms. Ma 案件的刑警，於Ms. Ma逃獄後被停職，並不斷追捕她                                                                       |
 | [崔光濟](https://zh.wikipedia.org/wiki/崔光濟 "wikilink") | 高末九                                               | 退休的黑社會，生活於彩虹村，照顧黑幫頭目張一九                                                                                         |
 
@@ -39,7 +39,7 @@ Ma發揮其敏銳的推理能力揭開真相的故事。\[1\]
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃石正" title="wikilink">黃石正</a></p></td>
+<td><p><a href="../Page/黃石正.md" title="wikilink">黃石正</a></p></td>
 <td><p>吳會長</p></td>
 <td><p>建立彩虹村圖書館的人</p></td>
 </tr>
@@ -106,7 +106,7 @@ Ma發揮其敏銳的推理能力揭開真相的故事。\[1\]
 |                                                     |         |                            |
 | --------------------------------------------------- | ------- | -------------------------- |
 | **演員**                                              | **角色**  | **介紹**                     |
-| [李河汩](https://zh.wikipedia.org/wiki/李河汩 "wikilink") | 千都秀     | 大田東部警察局重案組刑警，協助韓泰圭追捕Ms. Ma |
+| [李河汩](../Page/李河汩.md "wikilink")                    | 千都秀     | 大田東部警察局重案組刑警，協助韓泰圭追捕Ms. Ma |
 | [金英雅](https://zh.wikipedia.org/wiki/金英雅 "wikilink") | 楊幕熙     | 大田檢察官部長，九年前負責Ms. Ma的案件     |
 | [宋英奎](../Page/宋英奎.md "wikilink")                    | 張哲民     | Ms. Ma的丈夫                  |
 | [李藝媛](https://zh.wikipedia.org/wiki/李藝媛 "wikilink") | 張敏瑞     | Ms. Ma的女兒，於九年前被殺害          |
@@ -356,17 +356,17 @@ Ma發揮其敏銳的推理能力揭開真相的故事。\[1\]
 **週六時段劇集**
 
   - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[捉迷藏](https://zh.wikipedia.org/wiki/捉迷藏_\(韓國電視劇\) "wikilink")》、《[與神的約定](https://zh.wikipedia.org/wiki/與神的約定 "wikilink")》
+    [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[捉迷藏](https://zh.wikipedia.org/wiki/捉迷藏_\(韓國電視劇\) "wikilink")》、《[與神的約定](../Page/與神的約定.md "wikilink")》
 
 **週末時段劇集**
 
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [週末連續劇](../Page/KBS週末連續劇.md "wikilink")：《[我唯一的守護者](https://zh.wikipedia.org/wiki/我唯一的守護者 "wikilink")》
+    [週末連續劇](../Page/KBS週末連續劇.md "wikilink")：《[我唯一的守護者](../Page/我唯一的守護者.md "wikilink")》
   - [tvN](../Page/TVN.md "wikilink")
-    [週末連續劇](https://zh.wikipedia.org/wiki/TvN週末連續劇 "wikilink")：《[Nine
-    Room](https://zh.wikipedia.org/wiki/Nine_Room "wikilink")》
+    [週末連續劇](../Page/TvN週末連續劇.md "wikilink")：《[Nine
+    Room](../Page/Nine_Room.md "wikilink")》
   - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") [Original
-    Series](https://zh.wikipedia.org/wiki/OCN_Original_Series "wikilink")：《[Player](../Page/Player_\(韓國電視劇\).md "wikilink")》、《[Priest](https://zh.wikipedia.org/wiki/Priest "wikilink")》
+    Series](../Page/OCN_Original_Series.md "wikilink")：《[Player](../Page/Player_\(韓國電視劇\).md "wikilink")》、《[Priest](../Page/Priest.md "wikilink")》
 
 ## 參考資料
 

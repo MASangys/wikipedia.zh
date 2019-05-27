@@ -90,7 +90,7 @@ Nutt完成的，并由他专门维护。所有的社区贡献都必须经过他�
   - Renesas/Hitachi
       - Renesas/Hitachi [SuperH](../Page/SuperH.md "wikilink")
       - Renesas M16C/26
-  - [RISC-V](https://zh.wikipedia.org/wiki/RISC-V "wikilink")
+  - [RISC-V](../Page/RISC-V.md "wikilink")
   - Xtensa LX6
       - Expressif ESP32
   - [Zilog](https://zh.wikipedia.org/wiki/Zilog "wikilink")

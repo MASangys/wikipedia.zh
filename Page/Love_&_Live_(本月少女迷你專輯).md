@@ -1,7 +1,7 @@
 《**Love ＆
-Live**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[本月少女](https://zh.wikipedia.org/wiki/本月少女 "wikilink")（）在正式出道前首個小分隊本月少女
+Live**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[本月少女](../Page/本月少女.md "wikilink")（）在正式出道前首個小分隊本月少女
 1/3（）推出的首張迷你專輯，由ViVi、夏瑟、姬振、賢眞組成。由Blockberry Creative製作，[CJ
-E＆M發行](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink")，於2017年3月13日推出\[1\]。此張專輯包括同名的主打歌曲《現在，喜歡
+E＆M發行](../Page/CJ_E&M.md "wikilink")，於2017年3月13日推出\[1\]。此張專輯包括同名的主打歌曲《現在，喜歡
 (Love & Live)》，共收錄五首歌\[2\]。 4月27日，推出首張迷你專輯改版《Love ＆ Evil》，包含主打曲《未知的秘密
 (Sonatine)》共七首歌曲，並根據不同版本，特別收錄《Love ＆ Live》或《You and Me
 Together》的Remix版本\[3\]。
@@ -171,7 +171,7 @@ db)》的MV\[11\]。
 <td><p>2017年3月13日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></p></td>
 <td><p>Blockberry Creative</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E＆M</a></p></td>
+<td><p><a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E＆M</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Love &amp; Evil</p></td>
@@ -179,7 +179,7 @@ db)》的MV\[11\]。
 <td><p>2017年4月27日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></p></td>
 <td><p>Blockberry Creative</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E＆M</a></p></td>
+<td><p><a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E＆M</a></p></td>
 </tr>
 </tbody>
 </table>

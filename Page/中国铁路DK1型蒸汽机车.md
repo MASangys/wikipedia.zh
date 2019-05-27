@@ -11,9 +11,9 @@
   - [南满洲铁道](../Page/南滿洲鐵道.md "wikilink")
 
   -
-  - [解放1型蒸汽机车](https://zh.wikipedia.org/wiki/中国铁路解放1型蒸汽机车 "wikilink")
+  - [解放1型蒸汽机车](../Page/中国铁路解放1型蒸汽机车.md "wikilink")
 
-  - [解放2型蒸汽机车](https://zh.wikipedia.org/wiki/中国铁路解放2型蒸汽机车 "wikilink")
+  - [解放2型蒸汽机车](../Page/中国铁路解放2型蒸汽机车.md "wikilink")
 
   - [DK2型蒸汽机车](https://zh.wikipedia.org/wiki/Ye型蒸汽机车#中国铁路DK2型 "wikilink")
 

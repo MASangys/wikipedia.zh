@@ -1,4 +1,4 @@
-**QGhappy**是[QG电子竞技俱乐部其下的](https://zh.wikipedia.org/wiki/QG电子竞技俱乐部 "wikilink")[王者荣耀分部](https://zh.wikipedia.org/wiki/王者荣耀 "wikilink")。在2017年2月收购原Hero战队，更名为QGhappy。目前参加[王者荣耀职业联赛](https://zh.wikipedia.org/wiki/王者荣耀职业联赛 "wikilink")(KPL)。
+**QGhappy**是[QG电子竞技俱乐部其下的](https://zh.wikipedia.org/wiki/QG电子竞技俱乐部 "wikilink")[王者荣耀分部](../Page/王者荣耀.md "wikilink")。在2017年2月收购原Hero战队，更名为QGhappy。目前参加[王者荣耀职业联赛](https://zh.wikipedia.org/wiki/王者荣耀职业联赛 "wikilink")(KPL)。
 
 在2017年[王者荣耀职业联赛春季赛打破](https://zh.wikipedia.org/wiki/王者荣耀职业联赛 "wikilink")2016年王者荣耀职业联赛秋季赛由[AG超玩会创下的](https://zh.wikipedia.org/wiki/AG超玩会 "wikilink")12连胜记录，并获得15连胜。直到2018年王者荣耀秋季赛被[BA黑凤梨以](https://zh.wikipedia.org/wiki/BA黑凤梨 "wikilink")16连胜打破了长达541天的联赛记录。而QGhappy在2017升级后除打破联赛连胜记录之外还最终打进总决赛，以4比0的姿态拿下首个联赛冠军。一个月后QGhappy在[王者冠军杯总决赛打败estar获得冠军完成首个连冠](https://zh.wikipedia.org/wiki/王者冠军杯 "wikilink")+双冠记录。2017年秋季赛QGhappy在总决赛战胜[XQ成功卫冕](https://zh.wikipedia.org/wiki/X-Quest "wikilink")，完成霸业。
 
@@ -245,7 +245,7 @@ QGhappy在KPL虽然是最成功的队伍之一但是争议却不休。在2018年
 
 [王者冠军杯](https://zh.wikipedia.org/wiki/王者冠军杯 "wikilink")
 
-[王者荣耀](https://zh.wikipedia.org/wiki/王者荣耀 "wikilink")
+[王者荣耀](../Page/王者荣耀.md "wikilink")
 
 ## 外部链接
 

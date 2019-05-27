@@ -1,9 +1,9 @@
 《**NBA2K Online
 2**》是一款[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")[線上遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")，也是《[NBA
 2K](https://zh.wikipedia.org/wiki/NBA_2K "wikilink")》系列第二款線上遊戲，也是《[NBA2K
-Online](https://zh.wikipedia.org/wiki/NBA2K_Online "wikilink")》的續作。開發代號為「NBA2KOL-X」。\[1\]
+Online](../Page/NBA2K_Online.md "wikilink")》的續作。開發代號為「NBA2KOL-X」。\[1\]
 由[2K Sports](../Page/2K_Sports.md "wikilink")、[Visual
-Concepts和](../Page/Visual_Concepts.md "wikilink")[騰訊遊戲聯合開發代理](https://zh.wikipedia.org/wiki/騰訊遊戲 "wikilink")。中國地區已於2018年8月2日開啟不限號測試。\[2\]\[3\]
+Concepts和](../Page/Visual_Concepts.md "wikilink")[騰訊遊戲聯合開發代理](../Page/騰訊遊戲.md "wikilink")。中國地區已於2018年8月2日開啟不限號測試。\[2\]\[3\]
 
 ## 参考文献
 

@@ -1,5 +1,5 @@
 [TWHW5.svg](https://zh.wikipedia.org/wiki/File:TWHW5.svg "fig:TWHW5.svg")
-[蔣渭水高速公路為聯絡](https://zh.wikipedia.org/wiki/蔣渭水高速公路 "wikilink")[臺北都會區與](../Page/臺北都會區.md "wikilink")[宜蘭平原的一條](../Page/宜蘭平原.md "wikilink")[中華民國](../Page/中華民國.md "wikilink")（[臺灣](../Page/臺灣.md "wikilink")）[國道](../Page/中華民國國道.md "wikilink")，於1991年動工、2006年通車，全長54.3[公里](../Page/公里.md "wikilink")。共計有6座一般性[交流道與](../Page/交流道.md "wikilink")1座[系統交流道](https://zh.wikipedia.org/wiki/系統交流道 "wikilink")。
+[蔣渭水高速公路為聯絡](../Page/蔣渭水高速公路.md "wikilink")[臺北都會區與](../Page/臺北都會區.md "wikilink")[宜蘭平原的一條](../Page/宜蘭平原.md "wikilink")[中華民國](../Page/中華民國.md "wikilink")（[臺灣](../Page/臺灣.md "wikilink")）[國道](../Page/中華民國國道.md "wikilink")，於1991年動工、2006年通車，全長54.3[公里](../Page/公里.md "wikilink")。共計有6座一般性[交流道與](../Page/交流道.md "wikilink")1座[系統交流道](https://zh.wikipedia.org/wiki/系統交流道 "wikilink")。
 
 本表共分為交流道距離（里程）、交流道名稱、交流道形式、通車日、出口道路（包含聯絡地區）。[交流道形式分為直接式](../Page/交流道.md "wikilink")、上下匝道、Y型、單葉型、多葉型、四葉型、鑽石型、喇叭型及複合型等。
 

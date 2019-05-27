@@ -1,6 +1,6 @@
 **Gumpy** 是一个开源[Python
 3](https://zh.wikipedia.org/wiki/Python_\(编程语言\) "wikilink")[库](../Page/函式庫.md "wikilink")，可用于[脑机接口](../Page/脑机接口.md "wikilink")（BCI）的研究或应用的搭建。
-这个脑机接口的库可用于[脑电图和肌电图分析](../Page/腦電圖.md "wikilink")、[可视化和波形解码](https://zh.wikipedia.org/wiki/可视化 "wikilink")，适用于在线混合脑机接口研究及实验。除此之外，Gumpy还应用了[深度学习技术](https://zh.wikipedia.org/wiki/深度学习 "wikilink")，例如[卷积神经网络来增强](../Page/卷积神经网络.md "wikilink")[脑电图或肌电图的](../Page/腦電圖.md "wikilink")[解码](https://zh.wikipedia.org/wiki/解码器 "wikilink")。<ref>
+这个脑机接口的库可用于[脑电图和肌电图分析](../Page/腦電圖.md "wikilink")、[可视化和波形解码](https://zh.wikipedia.org/wiki/可视化 "wikilink")，适用于在线混合脑机接口研究及实验。除此之外，Gumpy还应用了[深度学习技术](../Page/深度学习.md "wikilink")，例如[卷积神经网络来增强](../Page/卷积神经网络.md "wikilink")[脑电图或肌电图的](../Page/腦電圖.md "wikilink")[解码](https://zh.wikipedia.org/wiki/解码器 "wikilink")。<ref>
 
 <div>
 

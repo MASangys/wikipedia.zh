@@ -10,8 +10,7 @@ IDE 适配器）。这就消除了对硬盘驱动器的需求，从而降低了�
 
 2015 年 2 月 15 日，Manuel Kasper 宣布“m0n0wall
 项目正式结束”。不会再做任何开发，也不会有更新的版本，“鼓励”所有当前的
-m0n0wall 用户切换到
-[OPNsense](https://zh.wikipedia.org/wiki/OPNsense "wikilink")
+m0n0wall 用户切换到 [OPNsense](../Page/OPNsense.md "wikilink")
 并尽其所能做出贡献。\[1\]\[2\][PfSense](../Page/PfSense.md "wikilink")
 于 2004 年从 m0n0wall 项目中分叉出来，而OPNsense 于2015 年从 PfSense 分叉出来。
 
@@ -60,8 +59,8 @@ m0n0wall 安装在一些公司设计制造的嵌入式硬件上。
 
 <!-- end list -->
 
-  - [OPNsense](https://zh.wikipedia.org/wiki/OPNsense "wikilink")：m0n0wall
-    的继承者，于 2015 年从 pfSense 分出来。\[3\]\[4\]
+  - [OPNsense](../Page/OPNsense.md "wikilink")：m0n0wall 的继承者，于 2015 年从
+    pfSense 分出来。\[3\]\[4\]
   - [pfSense](https://zh.wikipedia.org/wiki/pfSense "wikilink")：2004 年从
     m0n0wall 项目中分离出来，2006 年首次发布。\[5\]
 

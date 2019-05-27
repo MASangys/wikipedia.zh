@@ -73,7 +73,7 @@ PUNK'D\[19\]。
 2016年6月2日，在涉谷QUATTRO舉行10週年記念公演。(來賓：[FLOW](https://zh.wikipedia.org/wiki/FLOW "wikilink"))
 
 2016年6月29日，由BUMP ON da STYLE RECORDS發行數位單曲「Fight against
-yourself」，為[中日龍棒球隊](../Page/中日龍.md "wikilink")[平田良介選手](https://zh.wikipedia.org/wiki/平田良介 "wikilink")2016年的登場曲。
+yourself」，為[中日龍棒球隊](../Page/中日龍.md "wikilink")[平田良介選手](../Page/平田良介.md "wikilink")2016年的登場曲。
 
 2016年8月25日，在惠比壽LIQUID
 ROOM舉行10週年記念追加公演。(來賓：[SPYAIR](../Page/SPYAIR.md "wikilink"))

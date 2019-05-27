@@ -24,7 +24,7 @@ Kiss》演唱會，因為企劃公司方面的原因，將暫時延期。」並�
 <tbody>
 <tr class="odd">
 <td><p>2016年7月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p>首爾奧林匹克公園 ─ 奧林匹克廳</p></td>
 <td><p>嘉賓：<a href="https://zh.wikipedia.org/wiki/Dean" title="wikilink">Dean</a></p></td>

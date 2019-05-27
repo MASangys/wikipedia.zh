@@ -55,7 +55,7 @@ Club」，佔地3.8萬方呎，設施包括40米恒溫泳池、25米恆溫泳池
   - [日出康城](../Page/日出康城.md "wikilink")
   - [首都](../Page/首都_\(香港\).md "wikilink")
   - [領都、領峯及領凱](../Page/領都、領峯及領凱.md "wikilink")
-  - [晉海](https://zh.wikipedia.org/wiki/晉海 "wikilink")
+  - [晉海](../Page/晉海.md "wikilink")
 
 ## 參考
 

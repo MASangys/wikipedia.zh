@@ -14,8 +14,8 @@ Live」都是自出道單曲開始順序地演唱下去，但是公演的第一�
 其中，「完全生產限定盤」收錄了連續三日的公演外，也收錄了排練至舉行當天的後台紀錄影片「Behind the Stage of 5th YEAR
 BIRTHDAY LIVE」\[5\]\[6\]。另外，亦附贈了印有公演照片的Photo Book和交易卡\[7\]。
 
-2018年3月1日，在《》中，以組合內各軍團的冠名節目的形式，分別在[AbemaTV](https://zh.wikipedia.org/wiki/AbemaTV "wikilink")、
-[SHOWROOM](https://zh.wikipedia.org/wiki/SHOWROOM "wikilink")、[Niconico直播](https://zh.wikipedia.org/wiki/Niconico直播 "wikilink")、[YouTube](../Page/YouTube.md "wikilink")、和宣佈推出公演影片\[8\]。
+2018年3月1日，在《》中，以組合內各軍團的冠名節目的形式，分別在[AbemaTV](../Page/AbemaTV.md "wikilink")、
+[SHOWROOM](../Page/SHOWROOM.md "wikilink")、[Niconico直播](../Page/Niconico直播.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink")、和宣佈推出公演影片\[8\]。
 
 ## 榜單成績
 

@@ -16,12 +16,12 @@ Night Show
 <td><p><strong>播映日期</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Good_Night_Show_全民星戰" title="wikilink">Good Night Show 全民星戰</a></p></td>
+<td><p><a href="../Page/Good_Night_Show_全民星戰.md" title="wikilink">Good Night Show 全民星戰</a></p></td>
 <td><p>第一季：2018年4月30日至6月13日<br />
 第二季：2018年6月18日至7月13日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Good_Night_Show_全民星戰" title="wikilink">Good Night Show 全民睇波派對</a></p></td>
+<td><p><a href="../Page/Good_Night_Show_全民星戰.md" title="wikilink">Good Night Show 全民睇波派對</a></p></td>
 <td><p>2018年6月14日至7月15日（世界盃賽事直播之前播映）</p></td>
 </tr>
 <tr class="even">

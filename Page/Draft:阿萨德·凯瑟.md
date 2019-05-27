@@ -21,7 +21,7 @@ Express
 Tribune|url=[https://tribune.com.pk/story/1779983/1-asad-qaiser-political-journey-20th-na-speaker/|accessdate=2018-08-15|work=The](https://tribune.com.pk/story/1779983/1-asad-qaiser-political-journey-20th-na-speaker/%7Caccessdate=2018-08-15%7Cwork=The)
 Express Tribune|date=2018-08-15}}</ref>
 
-他于1996年成立后加入[巴基斯坦正義運動党](https://zh.wikipedia.org/wiki/巴基斯坦正義運動 "wikilink")\[9\]</ref>。同年，他被提名为PTI区总裁。
+他于1996年成立后加入[巴基斯坦正義運動党](../Page/巴基斯坦正義運動.md "wikilink")\[9\]</ref>。同年，他被提名为PTI区总裁。
 \[10\]</ref> 他于2008年成为PTI Khyber Pakhtunkhwa的总裁\[11\] \[12\]
 ，直到2013年\[13\] The Express
 Tribune|url=[https://tribune.com.pk/story/1777680/1-asad-qaisar-pti-nominee-national-assembly-speaker/|accessdate=2018-08-10|work=The](https://tribune.com.pk/story/1777680/1-asad-qaisar-pti-nominee-national-assembly-speaker/%7Caccessdate=2018-08-10%7Cwork=The)
@@ -35,9 +35,8 @@ Ulema-e Islam（F）（JUI-F）候选人Attaul Haq。在同一次选举中，他
 Tribune|url=[https://tribune.com.pk/story/1777680/1-asad-qaisar-pti-nominee-national-assembly-speaker/|accessdate=2018-08-10|work=The](https://tribune.com.pk/story/1777680/1-asad-qaisar-pti-nominee-national-assembly-speaker/%7Caccessdate=2018-08-10%7Cwork=The)
 Express Tribune|date=2018-08-10}}</ref> \[17\]
 
-在[2018年巴基斯坦大選中他再次入选开伯尔](https://zh.wikipedia.org/wiki/2018年巴基斯坦大選 "wikilink")
--
-普赫图赫瓦省议会，成为PTI候选人PK-44（斯瓦比二世）的[候选人](https://zh.wikipedia.org/wiki/2018年巴基斯坦大選 "wikilink")
+在[2018年巴基斯坦大選中他再次入选开伯尔](../Page/2018年巴基斯坦大選.md "wikilink") -
+普赫图赫瓦省议会，成为PTI候选人PK-44（斯瓦比二世）的[候选人](../Page/2018年巴基斯坦大選.md "wikilink")
 。 \[18\] 他获得了31,658票，并击败了人民民族党 （ANP）的候选人Gul Zamin Shah。 \[19\]
 在同一次选举中，他再次当选为国民议会议员，作为选区NA-18（斯瓦比一世）的候选人。 \[20\]
 他获得78,970票并击败了Maulana Fazal Ali

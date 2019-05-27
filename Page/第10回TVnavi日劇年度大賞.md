@@ -1,6 +1,5 @@
-[第9回](https://zh.wikipedia.org/wiki/第9回TVnavi日劇年度大賞 "wikilink") ←
-**第10回** →
-[第11回](https://zh.wikipedia.org/wiki/第11回TVnavi日劇年度大賞 "wikilink")
+[第9回](../Page/第9回TVnavi日劇年度大賞.md "wikilink") ← **第10回** →
+[第11回](../Page/第11回TVnavi日劇年度大賞.md "wikilink")
 
 **第10回[TVnavi日劇年度大賞](../Page/TVnavi日劇年度大賞.md "wikilink")**是針對2013年春季至2014年冬季播出的連續劇做出的觀眾投票，以下為入圍及得獎名單。
 
@@ -116,9 +115,9 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/藤井流星" title="wikilink">藤井流星</a><br />
+<td><p>'''<a href="../Page/藤井流星.md" title="wikilink">藤井流星</a><br />
 《<a href="../Page/Miss_PILOT.md" title="wikilink">Miss PILOT</a>》</p></td>
-<td><p>第一位：<a href="https://zh.wikipedia.org/wiki/藤井流星" title="wikilink">藤井流星</a>《<a href="../Page/Miss_PILOT.md" title="wikilink">Miss PILOT</a>》[3]<br />
+<td><p>第一位：<a href="../Page/藤井流星.md" title="wikilink">藤井流星</a>《<a href="../Page/Miss_PILOT.md" title="wikilink">Miss PILOT</a>》[3]<br />
 第二位：<a href="../Page/北山宏光.md" title="wikilink">北山宏光</a>《<a href="../Page/幽靈女友.md" title="wikilink">幽靈女友</a>》<br />
 第三位：<a href="../Page/降谷建志.md" title="wikilink">降谷建志</a>《<a href="../Page/八重之櫻.md" title="wikilink">八重之櫻</a>》</p></td>
 </tr>
@@ -136,9 +135,9 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/黑木華" title="wikilink">黑木華</a><br />
+<td><p>'''<a href="../Page/黑木華.md" title="wikilink">黑木華</a><br />
 《<a href="../Page/Legal_High.md" title="wikilink">Legal High2</a>》</p></td>
-<td><p>第一位：<a href="https://zh.wikipedia.org/wiki/黑木華" title="wikilink">黑木華</a>《<a href="../Page/Legal_High.md" title="wikilink">Legal High2</a>》</p></td>
+<td><p>第一位：<a href="../Page/黑木華.md" title="wikilink">黑木華</a>《<a href="../Page/Legal_High.md" title="wikilink">Legal High2</a>》</p></td>
 </tr>
 </tbody>
 </table>

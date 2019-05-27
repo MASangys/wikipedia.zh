@@ -5,7 +5,7 @@ Storm](../Page/J_Storm.md "wikilink")。
 ## 概要
 
   - 此單曲和前作「[Power of the
-    Paradise](https://zh.wikipedia.org/wiki/Power_of_the_Paradise "wikilink")」發行約相隔7個月，為2017年的第1張單曲。
+    Paradise](../Page/Power_of_the_Paradise.md "wikilink")」發行約相隔7個月，為2017年的第1張單曲。
   - 本作發行了初回限定盤和通常盤2種盤面，初回限定盤裡附有收錄了「I'll be there」的MV和幕後花絮的DVD和CW曲「Round
     and Round」，通常盤裡收錄了CW曲「unknown」「Treasure of life」。
   - 另外，初回限定盤和通常盤的CD封面有所不同。

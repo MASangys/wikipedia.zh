@@ -1,5 +1,5 @@
 ***Fungal
-Biology***是一個[同行評審的](../Page/同行評審.md "wikilink")[科學期刊](https://zh.wikipedia.org/wiki/科學期刊 "wikilink")，由[Elsevier出版](../Page/愛思唯爾.md "wikilink")，發表[真菌學各方面的研究論文](../Page/真菌學.md "wikilink")，也包括[卵菌](https://zh.wikipedia.org/wiki/卵菌 "wikilink")、[黏菌等歷史上曾經屬於](../Page/黏菌.md "wikilink")[真菌之類群的相關研究](https://zh.wikipedia.org/wiki/真菌 "wikilink")\[1\]。
+Biology***是一個[同行評審的](../Page/同行評審.md "wikilink")[科學期刊](https://zh.wikipedia.org/wiki/科學期刊 "wikilink")，由[Elsevier出版](../Page/愛思唯爾.md "wikilink")，發表[真菌學各方面的研究論文](../Page/真菌學.md "wikilink")，也包括[卵菌](https://zh.wikipedia.org/wiki/卵菌 "wikilink")、[黏菌等歷史上曾經屬於](../Page/黏菌.md "wikilink")[真菌之類群的相關研究](../Page/真菌.md "wikilink")\[1\]。
 
 ## 歷史
 

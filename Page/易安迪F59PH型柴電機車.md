@@ -105,7 +105,7 @@ MP54AC柴電機車取代](https://zh.wikipedia.org/wiki/MPI_MPXpress_柴電機�
 **易安迪F59PHI型柴電機車**是活躍在[北美洲鐵路幹線的旅客列車用](../Page/北美洲.md "wikilink")[柴電機車](https://zh.wikipedia.org/wiki/柴油機車#電力傳動 "wikilink")\[4\]。本型機車自1994年起生產，採用有[渦輸增壓的](../Page/渦輪增壓器.md "wikilink")[二行程](https://zh.wikipedia.org/wiki/二行程循環 "wikilink")[12汽缸](https://zh.wikipedia.org/wiki/V12引擎 "wikilink")[EMD
 12-710G3C-EC引擎](https://zh.wikipedia.org/wiki/易安迪710系列柴油機 "wikilink")，引擎功率。傳動系統採用交－直流電傳動，柴油引擎輸出軸通過聯軸器驅動[交流發電機](../Page/交流發電機.md "wikilink")，發出的交流電通過大功率矽整流裝置轉換為直流電，然後供給四台D87BTR型直流牽引馬達。馬達採用[軸懸式驅動方式](https://zh.wikipedia.org/wiki/軸懸式驅動方式 "wikilink")，牽引齒輪傳動比為56:21，最高車速可達。本型機車採用箱形車體，車體內設有通往引擎室與車尾的走道，使機車能在使用時進行維護保養。外觀最顯眼的是使用複合材料做成的流線形鼻端\[5\]。
 
-本型機車另有發電機以提供客車照明、[電熱](https://zh.wikipedia.org/wiki/電熱 "wikilink")，與[空調用電](../Page/空氣調節.md "wikilink")。此發電機可產生480[伏特頻率](../Page/伏特.md "wikilink")60赫茲的[交流電](../Page/交流電.md "wikilink")，功率。此發電機由副引擎驅動，故主引擎只需產生牽引用動力，不因[列車供電影響輸出功率](https://zh.wikipedia.org/wiki/列車供電 "wikilink")。
+本型機車另有發電機以提供客車照明、[電熱](../Page/電熱.md "wikilink")，與[空調用電](../Page/空氣調節.md "wikilink")。此發電機可產生480[伏特頻率](../Page/伏特.md "wikilink")60赫茲的[交流電](../Page/交流電.md "wikilink")，功率。此發電機由副引擎驅動，故主引擎只需產生牽引用動力，不因[列車供電影響輸出功率](https://zh.wikipedia.org/wiki/列車供電 "wikilink")。
 
 本型機車於1994年後期在[加利福尼亞州運輸部初登場時](https://zh.wikipedia.org/wiki/加利福尼亞州運輸部 "wikilink")，是美國唯一一款符合加州嚴格廢氣排放標準的鐵路機車\[6\]。
 
@@ -140,7 +140,7 @@ MP54AC柴電機車取代](https://zh.wikipedia.org/wiki/MPI_MPXpress_柴電機�
 <td><p>15</p></td>
 <td><p>1994</p></td>
 <td><p>2001－2009</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/加利福尼亞州運輸部" title="wikilink">加利福尼亞州運輸部所有</a>，用來牽引與<a href="https://zh.wikipedia.org/wiki/首府走廊號列車" title="wikilink">首府走廊號列車</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加利福尼亞州運輸部" title="wikilink">加利福尼亞州運輸部所有</a>，用來牽引與<a href="../Page/首府走廊號列車.md" title="wikilink">首府走廊號列車</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

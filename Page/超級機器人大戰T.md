@@ -1,5 +1,5 @@
 為[南夢宮萬代遊戲以](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[萬普名義發售的](../Page/萬普.md "wikilink")[超級機器人大戰系列遊戲](../Page/超級機器人大戰系列.md "wikilink")。簡稱「機戰T」或是「SRWT」。本作預計於2019年3月20日在[PlayStation
-4和](../Page/PlayStation_4.md "wikilink")[任天堂Switch平台上發售](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")，系列作中首款同時出現在任天堂攜帶機和PlayStation家用主機的作品，遊戲將推出中文版\[1\]。
+4和](../Page/PlayStation_4.md "wikilink")[任天堂Switch平台上發售](../Page/任天堂Switch.md "wikilink")，系列作中首款同時出現在任天堂攜帶機和PlayStation家用主機的作品，遊戲將推出中文版\[1\]。
 
 本作宣傳詞為「賭上生命也要守護的故鄉——是地球（TERRA）。」
 
@@ -7,7 +7,7 @@
 
 以[SD比例表現的機器人](https://zh.wikipedia.org/wiki/二頭身 "wikilink")[跨界作品](../Page/跨界作品.md "wikilink")「[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")」作品之一。機器人會以SD比例表現，但cut-in畫面則會變回原著的比例。
 
-與《[超級機器人大戰V](../Page/超級機器人大戰V.md "wikilink")》（下稱《V》）及《[超級機器人大戰X](https://zh.wikipedia.org/wiki/超級機器人大戰X "wikilink")》（下稱《X》）一樣，已明言不會發佈續作，為一作完的故事\[2\]。但前兩作原創人物及機体以客串形式登場。
+與《[超級機器人大戰V](../Page/超級機器人大戰V.md "wikilink")》（下稱《V》）及《[超級機器人大戰X](../Page/超級機器人大戰X.md "wikilink")》（下稱《X》）一樣，已明言不會發佈續作，為一作完的故事\[2\]。但前兩作原創人物及機体以客串形式登場。
 
 ## 參戰作品
 
@@ -245,8 +245,7 @@ FHANTASM》的維爾賓（、Bellvine），魔法騎士遊戲版的魔神蘭迪�
     水木一郎、[音羽搖籠會](https://zh.wikipedia.org/wiki/音羽搖籠會 "wikilink")(舊名：哥倫比亞搖籠會)（《大魔神》OP）
     27  - 水木一郎、こおろぎ'73（《我們的青春的阿爾卡迪亞 無限軌道SSX》OP）
     28  - 水木一郎（《我們的青春的阿爾卡迪亞 無限軌道SSX》ED）
-    29  -
-    [田村直美](https://zh.wikipedia.org/wiki/田村直美 "wikilink")（《魔法騎士雷阿斯》OP）
+    29  - [田村直美](../Page/田村直美.md "wikilink")（《魔法騎士雷阿斯》OP）
     30  - 田村直美（《魔法騎士雷阿斯》第二部OP2）
     31  - 中川幸太郎
     feat.[鬼太鼓座](https://zh.wikipedia.org/wiki/鬼太鼓座 "wikilink")（《槍與劍》OP）

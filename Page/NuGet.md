@@ -5,7 +5,7 @@
 NuGet作为[Visual
 Studio扩展](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")，能够简化在Visual
 Studio项目中添加、更新和删除库（部署为程序包）的操作。NuGet包是打包成单个ZIP
-文件，文件扩展名是.nupkg，使用[开放打包约定](https://zh.wikipedia.org/wiki/开放打包约定 "wikilink")
+文件，文件扩展名是.nupkg，使用[开放打包约定](../Page/开放打包约定.md "wikilink")
 (OPC) 格式，包含编译代码 (Dll)、与该代码相关的其他文件以及描述性清单（包含包版本号等信息）。从Visual Studio
 2012开始，缺省预安装了NuGet。NuGet也集成入了[SharpDevelop](../Page/SharpDevelop.md "wikilink")。NuGet也可以用于命令行或者脚本自动化。
 

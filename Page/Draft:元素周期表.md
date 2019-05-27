@@ -146,7 +146,7 @@ to have a p electron.\[66\]|group=n}}
 ### 元素系统化的早期尝试
 
 [upright=2.27列出了每个元素在周期表哪个重大发展时期](https://zh.wikipedia.org/wiki/File:Discovery_of_chemical_elements.svg "wikilink")（之前，之中或之后）被发现\]\]
-1789年，[安托万-洛朗·德·拉瓦锡发表了一个含](../Page/安托万-洛朗·德·拉瓦锡.md "wikilink")33个[化学元素的元素列表](https://zh.wikipedia.org/wiki/化学元素 "wikilink")，并将它们分为[气体元素](../Page/气体.md "wikilink")、[金属元素](https://zh.wikipedia.org/wiki/金属元素 "wikilink")、[非金属元素和土元素](../Page/非金属元素.md "wikilink")（）。\[71\]在接下来的一个世纪，化学家们一直在寻找一个更准确的分类体系。1829年，[約翰·沃爾夫岡·德貝萊納发现很多元素都可以根据他们的化学性质每三个分成一组](../Page/約翰·沃爾夫岡·德貝萊納.md "wikilink")。比如[锂](../Page/锂.md "wikilink")、[钠](../Page/钠.md "wikilink")、[钾三种元素就可以同时作为软金属和活泼金属被分为一组](../Page/钾.md "wikilink")。他还发现，若每组按原子量排序，第二个元素的原子量约等于第一个和第三个元素原子量之和的一半，这也被称为。\[72\]德国化学家[利奥波德·格梅林对这个理论进行了研究](https://zh.wikipedia.org/wiki/利奥波德·格梅林 "wikilink")，并在1843年证实了10个三元素组、3个四元素组和1个五元素组的存在。[讓-巴蒂斯特·杜馬在](../Page/讓-巴蒂斯特·杜馬.md "wikilink")1857年发表文章，描述了不同族金属之间的关系。尽管很多化学家都发现了元素组与组之间的关系，但他们都还没有建立一个能涵盖所有元素的完整体系。
+1789年，[安托万-洛朗·德·拉瓦锡发表了一个含](../Page/安托万-洛朗·德·拉瓦锡.md "wikilink")33个[化学元素的元素列表](https://zh.wikipedia.org/wiki/化学元素 "wikilink")，并将它们分为[气体元素](../Page/气体.md "wikilink")、[金属元素](https://zh.wikipedia.org/wiki/金属元素 "wikilink")、[非金属元素和土元素](../Page/非金属元素.md "wikilink")（）。\[71\]在接下来的一个世纪，化学家们一直在寻找一个更准确的分类体系。1829年，[約翰·沃爾夫岡·德貝萊納发现很多元素都可以根据他们的化学性质每三个分成一组](../Page/約翰·沃爾夫岡·德貝萊納.md "wikilink")。比如[锂](../Page/锂.md "wikilink")、[钠](../Page/钠.md "wikilink")、[钾三种元素就可以同时作为软金属和活泼金属被分为一组](../Page/钾.md "wikilink")。他还发现，若每组按原子量排序，第二个元素的原子量约等于第一个和第三个元素原子量之和的一半，这也被称为。\[72\]德国化学家[利奥波德·格梅林对这个理论进行了研究](../Page/利奥波德·格梅林.md "wikilink")，并在1843年证实了10个三元素组、3个四元素组和1个五元素组的存在。[讓-巴蒂斯特·杜馬在](../Page/讓-巴蒂斯特·杜馬.md "wikilink")1857年发表文章，描述了不同族金属之间的关系。尽管很多化学家都发现了元素组与组之间的关系，但他们都还没有建立一个能涵盖所有元素的完整体系。
 
 1857年，德国化学家[弗里德里希·奥古斯特·凯库勒·冯·斯特拉多尼茨发现每个](../Page/弗里德里希·奥古斯特·凯库勒·冯·斯特拉多尼茨.md "wikilink")[碳原子通常连接四个原子](https://zh.wikipedia.org/wiki/碳原子 "wikilink")，比如[甲烷的结构为一个碳原子连着周围的四个氢原子](../Page/甲烷.md "wikilink")。\[73\]这个概念即是现在所称的[化合价](../Page/化合价.md "wikilink")：每个原子都与特定数目的原子相连。\[74\]
 
@@ -179,7 +179,7 @@ to have a p electron.\[66\]|group=n}}
 
 [Periodic_table_by_Mendeleev,_1871.svg](https://zh.wikipedia.org/wiki/File:Periodic_table_by_Mendeleev,_1871.svg "fig:Periodic_table_by_Mendeleev,_1871.svg")
 [ShortPT20b.png](https://zh.wikipedia.org/wiki/File:ShortPT20b.png "fig:ShortPT20b.png")
-1871年，门捷列夫出版了新格式的元素周期表。新格式的周期表把性质相似的元素排在同一纵列当中，以此取代了此前按行排列的方式，并且按照常见氧化态将几组元素纵列标记了I到VIII的编号。对于几种他此前认为理应存在但尚未发现的元素，门捷列夫也详细地给出了他预测的元素性质。\[94\]随着科学家发现了更多自然存在的元素，周期表中的空白也逐渐被填补。\[95\]例如元素[钫](../Page/钫.md "wikilink")（之前被[门捷列夫称为銫下元素](https://zh.wikipedia.org/wiki/门捷列夫 "wikilink")，eka-caesium）于1939年被法国科学家[玛格丽特·佩里发现](https://zh.wikipedia.org/wiki/玛格丽特·佩里 "wikilink")，也是最后一个在自然界中发现的元素；\[96\]元素[钚于](../Page/钚.md "wikilink")1940年合成生产，于1971年被证实微量存在于自然环境中。\[97\]
+1871年，门捷列夫出版了新格式的元素周期表。新格式的周期表把性质相似的元素排在同一纵列当中，以此取代了此前按行排列的方式，并且按照常见氧化态将几组元素纵列标记了I到VIII的编号。对于几种他此前认为理应存在但尚未发现的元素，门捷列夫也详细地给出了他预测的元素性质。\[94\]随着科学家发现了更多自然存在的元素，周期表中的空白也逐渐被填补。\[95\]例如元素[钫](../Page/钫.md "wikilink")（之前被[门捷列夫称为銫下元素](https://zh.wikipedia.org/wiki/门捷列夫 "wikilink")，eka-caesium）于1939年被法国科学家[玛格丽特·佩里发现](../Page/玛格丽特·佩里.md "wikilink")，也是最后一个在自然界中发现的元素；\[96\]元素[钚于](../Page/钚.md "wikilink")1940年合成生产，于1971年被证实微量存在于自然环境中。\[97\]
 
 現時流行的\[98\]週期表佈局，也稱為通用或標準形式（as shown at various other points in this
 article），is attributable to Horace Groves
@@ -244,7 +244,7 @@ Seaborg).\[114\]
 [*The Internet database of periodic
 tables*](http://www.meta-synthesis.com/webbook//35_pt/pt_database.php)
 for depictions of these kinds of
-variants.|group=n}}如圓形、立方體、圓柱、建築物、螺旋形、[双扭线](https://zh.wikipedia.org/wiki/双扭线 "wikilink")\[116\]、八角柱、金字塔錐形、球形、或三角形。這些替代版本的週期表常是為了彰顯或強調各種元素在傳統的元素週期表中不明顯的化學或物理性質而打造的。\[117\]
+variants.|group=n}}如圓形、立方體、圓柱、建築物、螺旋形、[双扭线](../Page/双扭线.md "wikilink")\[116\]、八角柱、金字塔錐形、球形、或三角形。這些替代版本的週期表常是為了彰顯或強調各種元素在傳統的元素週期表中不明顯的化學或物理性質而打造的。\[117\]
 
 [Elementspiral_(polyatomic).svg](https://zh.wikipedia.org/wiki/File:Elementspiral_\(polyatomic\).svg "fig:Elementspiral_(polyatomic).svg")
 在1960年製作的元素週期表是一個受歡迎的替代版本。\[118\]表中的元素被安排成連續的螺旋狀，氫元素位於中央，而過渡元素、鑭系及錒系元素則位於圖中突出的「半島」部分。\[119\]

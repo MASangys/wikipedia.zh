@@ -5,7 +5,7 @@
 Brazzers於2005年由一群[蒙特婁投資者創立](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")，成為一系列名為Mansef的色情網站之一。2010年，Mansef被賣給了並更名為Manwin
 Inc.\[3\]\[4\]。2012年12月，泰曼因涉嫌逃稅而被從[比利時引渡回](https://zh.wikipedia.org/wiki/比利時 "wikilink")[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")\[5\]。
 
-2013年10月，泰曼將Manwin的資產（包括Brazzers）出售給內部管理集團[MindGeek](https://zh.wikipedia.org/wiki/MindGeek "wikilink")\[6\]。
+2013年10月，泰曼將Manwin的資產（包括Brazzers）出售給內部管理集團[MindGeek](../Page/MindGeek.md "wikilink")\[6\]。
 Brazzers於2014年在[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")[時報廣場刊出了一個慶祝成立](../Page/時報廣場.md "wikilink")10週年的廣告牌\[7\]，同時宣導著[安全性行為](../Page/安全性行為.md "wikilink")\[8\]。
 
 2016年9月，Brazzers數據庫遭受洩露的消息外流，該網站於2013年4月曾遭駭客攻擊而使近100萬名用戶的個資外洩\[9\]。

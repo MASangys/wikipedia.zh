@@ -88,7 +88,7 @@ Today以及S](https://zh.wikipedia.org/wiki/LINE_Today "wikilink").H.E
 ## 其他作品
 
 |width=40% align=center|**上一張單曲：**
-*[你曾是少年](https://zh.wikipedia.org/wiki/你曾是少年 "wikilink")*
+*[你曾是少年](../Page/你曾是少年.md "wikilink")*
 2015年5月25日 |width=20% align=center colspan="2"|**十七
 2018年8月30日** |width=40% align=center|**下一張單曲：**
 

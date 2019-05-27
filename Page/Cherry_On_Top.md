@@ -73,7 +73,7 @@ Creative於2018年推出的四人[女子音樂組合](https://zh.wikipedia.org/w
   -
   -
   - [CHERRY ON TOP](https://story.kakao.com/_aWaM68)的[KAKAO
-    STORY](https://zh.wikipedia.org/wiki/Kakao "wikilink")
+    STORY](../Page/Kakao.md "wikilink")
 
 ## 參考文章
 

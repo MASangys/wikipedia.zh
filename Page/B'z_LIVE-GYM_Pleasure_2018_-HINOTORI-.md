@@ -1,5 +1,5 @@
 《**B'z LIVE-GYM Pleasure 2018
--HINOTORI-**》是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z的影像作品](../Page/B'z.md "wikilink")。以[DVD與](https://zh.wikipedia.org/wiki/DVD "wikilink")[Blu-ray
+-HINOTORI-**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z的影像作品](../Page/B'z.md "wikilink")。以[DVD與](https://zh.wikipedia.org/wiki/DVD "wikilink")[Blu-ray
 Disc形式發售](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")\[1\]\[2\]。
 
 關於樂曲「**[HINOTORI](https://zh.wikipedia.org/wiki/#HINOTORI "wikilink")**」亦會在本頁中說明。
@@ -18,13 +18,13 @@ The Final Pleasure "IT'S
 SHOWTIME\!\!"』上登場過的「FIREBIRD」\[4\]。此外，演唱會演出亦與2003年同樣，採用了再現許多過往的演出及影像。
 
 巡演前在B'z粉絲俱樂部・[B'z
-Party的官方網站上實施了名為](https://zh.wikipedia.org/wiki/B'z_Party "wikilink")「Pleasure不可或缺的B'z歌曲{{\#tag:ref||group="原文"}}」問卷調查，在曲目表中大為反響了其問卷調查結果，並陳述到「除了參考點播要求來訂製曲目表以外，亦有類似於『粉絲感謝祭』的成份在。{{\#tag:ref||group="原文"}}」（松本談）、「內容算是將30年的總歸納選曲以進化後的形式呈現。{{\#tag:ref||group="原文"}}」（稻葉談）\[5\]。
+Party的官方網站上實施了名為](../Page/B'z_Party.md "wikilink")「Pleasure不可或缺的B'z歌曲{{\#tag:ref||group="原文"}}」問卷調查，在曲目表中大為反響了其問卷調查結果，並陳述到「除了參考點播要求來訂製曲目表以外，亦有類似於『粉絲感謝祭』的成份在。{{\#tag:ref||group="原文"}}」（松本談）、「內容算是將30年的總歸納選曲以進化後的形式呈現。{{\#tag:ref||group="原文"}}」（稻葉談）\[5\]。
 
 被每日替換演奏的「[ZERO](../Page/ZERO_\(B'z單曲\).md "wikilink")」\[6\]，未收錄於本作中\[7\]。
 
 在Oricon影像榜(綜合・2019年3月25日)上，以[初動銷量紀錄](https://zh.wikipedia.org/wiki/Oricon公信榜#初動 "wikilink")44,613張DVD、70,725張Blu-ray，超越了前作『[B'z
 LIVE-GYM 2017-2018 "LIVE
-DINOSAUR"](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR" "wikilink")』的銷量紀錄，並達成雙項冠軍。
+DINOSAUR"](../Page/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR".md "wikilink")』的銷量紀錄，並達成雙項冠軍。
 
 ## 演奏
 
@@ -35,7 +35,7 @@ DINOSAUR"](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR" 
 
 ### 支援樂手
 
-  - [增田隆宣](https://zh.wikipedia.org/wiki/增田隆宣 "wikilink")：[電子琴](../Page/電子琴.md "wikilink")
+  - [增田隆宣](../Page/增田隆宣.md "wikilink")：[電子琴](../Page/電子琴.md "wikilink")
 
   - ：[爵士鼓](../Page/爵士鼓.md "wikilink")
 
@@ -67,8 +67,7 @@ DINOSAUR"](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR" 
 14. **HINOTORI**
 15. **[Real Thing Shakes](../Page/Real_Thing_Shakes.md "wikilink")**
 16. **[juice](https://zh.wikipedia.org/wiki/juice "wikilink")**
-17. **[BAD
-    COMMUNICATION](https://zh.wikipedia.org/wiki/BAD_COMMUNICATION "wikilink")**
+17. **[BAD COMMUNICATION](../Page/BAD_COMMUNICATION.md "wikilink")**
 18. **[Pleasure 2018 ～人生の快楽～](../Page/LADY_NAVIGATION.md "wikilink")**
 19. **[Brotherhood](https://zh.wikipedia.org/wiki/Brotherhood_\(B'z專輯\) "wikilink")**
 20. **[ギリギリchop](https://zh.wikipedia.org/wiki/ギリギリchop "wikilink")**
@@ -129,7 +128,7 @@ DINOSAUR"](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR" 
 ## 投票點播結果
 
 如上所述，於巡演舉行前的2018年4月，在粉絲俱樂部・[B'z
-Party的官方網站上實施了名為](https://zh.wikipedia.org/wiki/B'z_Party "wikilink")「Pleasure不可或缺的B'z歌曲{{\#tag:ref||group="原文"}}」（1人最多可投3首）這樣主題的問卷調查，在本巡演的曲目表中大為反響了其問卷調查結果。此外，一部分排名較高的樂曲，亦存在僅於巡演結束後所舉辦的粉絲俱樂部限定演唱會「B'z
+Party的官方網站上實施了名為](../Page/B'z_Party.md "wikilink")「Pleasure不可或缺的B'z歌曲{{\#tag:ref||group="原文"}}」（1人最多可投3首）這樣主題的問卷調查，在本巡演的曲目表中大為反響了其問卷調查結果。此外，一部分排名較高的樂曲，亦存在僅於巡演結束後所舉辦的粉絲俱樂部限定演唱會「B'z
 PARTY Presents Pleasure in Hawaii」上被演奏的曲目。(有被實際演奏的曲目標示為**粗體**)
 
   - 第1位：

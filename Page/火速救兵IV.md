@@ -81,7 +81,7 @@
 <td><p>05</p></td>
 <td><p>2018年11月10日</p></td>
 <td><p>rowspan ="3"| 《守破離》</p></td>
-<td><p>rowspan ="3"|<a href="https://zh.wikipedia.org/wiki/2017年港鐵縱火案" title="wikilink">尖沙咀港鐵站發生縱火事件</a><br />
+<td><p>rowspan ="3"|<a href="../Page/2017年港鐵縱火案.md" title="wikilink">尖沙咀港鐵站發生縱火事件</a><br />
 <a href="https://zh.wikipedia.org/wiki/2017年長沙灣道城巴失控衝上人行道意外" title="wikilink">巴士失控衝上人行道意外</a></p></td>
 <td><p>rowspan ="9"| <a href="https://zh.wikipedia.org/wiki/張飛帆" title="wikilink">張飛帆</a></p></td>
 <td><p>rowspan ="3"| <a href="https://zh.wikipedia.org/wiki/魏嘉珩" title="wikilink">魏嘉珩</a><br />
@@ -226,7 +226,7 @@
 <td><p>鄭Sir</p></td>
 </tr>
 <tr class="odd">
-<td><p>-{<a href="https://zh.wikipedia.org/wiki/胡子彤" title="wikilink">胡子彤</a>}-</p></td>
+<td><p>-{<a href="../Page/胡子彤.md" title="wikilink">胡子彤</a>}-</p></td>
 <td><p>戴俊豪</p></td>
 <td><p>消防及救護學院消防學官<br />
 曾經因為不堪王智軍的訓練手法而退學，最終因霍嘉珩的鼓勵下放棄退學念頭<br />
@@ -234,7 +234,7 @@
 <td><p>Mark</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃定謙" title="wikilink">黃定謙</a></p></td>
+<td><p><a href="../Page/黃定謙.md" title="wikilink">黃定謙</a></p></td>
 <td><p>鍾志良</p></td>
 <td><p>消防及救護學院消防學官<br />
 於<strong>單元四：《兄弟》</strong>過場客串演出，為荔景消防局見習消防隊長兼細搶救車主管</p></td>
@@ -247,7 +247,7 @@
 <td><p>田七</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/洪助昇" title="wikilink">洪助昇</a></p></td>
+<td><p><a href="../Page/洪助昇.md" title="wikilink">洪助昇</a></p></td>
 <td><p>劉育強</p></td>
 <td><p>細強</p></td>
 <td></td>
@@ -331,7 +331,7 @@
 <td><p>馬Sir</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/袁富華" title="wikilink">袁富華</a></p></td>
+<td><p><a href="../Page/袁富華.md" title="wikilink">袁富華</a></p></td>
 <td><p>尹承峰</p></td>
 <td><p>梨木樹消防局消防總隊目<br />
 <a href="https://zh.wikipedia.org/wiki/攀山拯救專隊" title="wikilink">攀山拯救專隊MSRT副隊長</a><br />
@@ -340,7 +340,7 @@
 <td><p>尹Sir</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/劉俊謙_(香港)" title="wikilink">劉俊謙</a></p></td>
+<td><p><a href="../Page/劉俊謙_(香港).md" title="wikilink">劉俊謙</a></p></td>
 <td><p>韓俊傑</p></td>
 <td><p>黃大仙消防局消防隊目</p></td>
 <td><p>Patrick</p></td>
@@ -391,7 +391,7 @@ Michelle之好友</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/彭懷安" title="wikilink">彭懷安</a></p></td>
+<td><p><a href="../Page/彭懷安.md" title="wikilink">彭懷安</a></p></td>
 <td><p>吳振東</p></td>
 <td><p>花滿田村小學綁架命案疑犯<br />
 在行車中不斷致電其妻岳文鳳期間，一不留神與大型貨車迎頭相撞；身體被壓在中間而身受重傷，最終傷重不治</p></td>
@@ -426,7 +426,7 @@ Michelle之好友</p></td>
 <td><p>花Sir、潮老總</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/梁雍婷" title="wikilink">梁雍婷</a><br />
+<td><p><a href="../Page/梁雍婷.md" title="wikilink">梁雍婷</a><br />
 <small>（童年：<a href="https://zh.wikipedia.org/wiki/李凱晴" title="wikilink">李凱晴</a>）</small></p></td>
 <td><p>陸紫琪</p></td>
 <td><p>寶林救護站救護員<br />
@@ -637,9 +637,9 @@ Michelle之好友</p></td>
   - 此劇是[歐錦棠](../Page/歐錦棠.md "wikilink")、[蔣祖曼](../Page/蔣祖曼.md "wikilink")、[岑珈其和](../Page/岑珈其.md "wikilink")繼電影《[非同凡響](https://zh.wikipedia.org/wiki/非同凡響 "wikilink")》後再次同劇演出，但安排於不同單元故事中演出。
   - 此劇是[蔣祖曼第二度參與演出](../Page/蔣祖曼.md "wikilink")，並首次飾演消防隊長角色。
   - 此劇是[陳鍵鋒和](https://zh.wikipedia.org/wiki/陳鍵鋒 "wikilink")[楊思琦繼](../Page/楊思琦.md "wikilink")[TVB劇集](../Page/電視廣播有限公司.md "wikilink")《[翻叮一族](../Page/翻叮一族.md "wikilink")》後再次同劇合作演出。
-  - 此劇是[劉俊謙和](https://zh.wikipedia.org/wiki/劉俊謙_\(香港\) "wikilink")[袁富華繼](https://zh.wikipedia.org/wiki/袁富華 "wikilink")[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV劇集](../Page/ViuTV.md "wikilink")《[未來還未來](https://zh.wikipedia.org/wiki/未來還未來 "wikilink")》後再次同劇合作演出。
-  - 此劇是[梁雍婷](https://zh.wikipedia.org/wiki/梁雍婷 "wikilink")、[寶珮如和](../Page/寶珮如.md "wikilink")[顧定軒繼電影](../Page/顧定軒.md "wikilink")《[藍天白雲](https://zh.wikipedia.org/wiki/藍天白雲 "wikilink")》後再次同劇合作演出，其中前兩者再次合演母女。
-  - 此劇是[王宗堯和](../Page/王宗堯.md "wikilink")[吳海昕繼](../Page/吳海昕.md "wikilink")[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV劇集](../Page/ViuTV.md "wikilink")《[賤民20](https://zh.wikipedia.org/wiki/賤民20 "wikilink")》後再次同劇合作演出。
+  - 此劇是[劉俊謙和](../Page/劉俊謙_\(香港\).md "wikilink")[袁富華繼](../Page/袁富華.md "wikilink")[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV劇集](../Page/ViuTV.md "wikilink")《[未來還未來](https://zh.wikipedia.org/wiki/未來還未來 "wikilink")》後再次同劇合作演出。
+  - 此劇是[梁雍婷](../Page/梁雍婷.md "wikilink")、[寶珮如和](../Page/寶珮如.md "wikilink")[顧定軒繼電影](../Page/顧定軒.md "wikilink")《[藍天白雲](https://zh.wikipedia.org/wiki/藍天白雲 "wikilink")》後再次同劇合作演出，其中前兩者再次合演母女。
+  - 此劇是[王宗堯和](../Page/王宗堯.md "wikilink")[吳海昕繼](../Page/吳海昕.md "wikilink")[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV劇集](../Page/ViuTV.md "wikilink")《[賤民20](../Page/賤民20.md "wikilink")》後再次同劇合作演出。
   - [吳海昕於第一天加入劇組參與拍攝當天同時為其生日](../Page/吳海昕.md "wikilink")，故此獲劇組贈送生日蛋糕作為生日禮物。\[16\]
   - 此劇是[王宗堯和](../Page/王宗堯.md "wikilink")[陸駿光繼](../Page/陸駿光.md "wikilink")[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV劇集](../Page/ViuTV.md "wikilink")《[Plan
     B](https://zh.wikipedia.org/wiki/Plan_B "wikilink")》後再次同劇合作演出。
@@ -650,7 +650,7 @@ Michelle之好友</p></td>
 ## 記事
 
   - 2018年10月6日：本劇於15:00在將軍澳百勝角[消防及救護學院舉行劇集啟播禮](../Page/消防及救護學院.md "wikilink")\[18\]。
-  - 2018年10月9日、2019年1月2及3日：本劇於15:30在九龍灣展貿徑1號[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")[EMax地下](../Page/EMax.md "wikilink")[星影匯舉行三場](https://zh.wikipedia.org/wiki/星影匯 "wikilink")[劇場版放映會](https://zh.wikipedia.org/wiki/電影版 "wikilink")。
+  - 2018年10月9日、2019年1月2及3日：本劇於15:30在九龍灣展貿徑1號[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")[EMax地下](../Page/EMax.md "wikilink")[星影匯舉行三場](../Page/星影匯.md "wikilink")[劇場版放映會](https://zh.wikipedia.org/wiki/電影版 "wikilink")。
 
 ## 參見
 

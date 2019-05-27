@@ -2,7 +2,7 @@
 
 ## 簡介
 
-此時段前身為[SBS週末特別計劃劇時段](../Page/SBS週末特別計劃劇.md "wikilink")（於每周六8時50分至11時10分播映）。該時段曾於2016年10月因收視率低迷而廢除，後於2018年3月恢復。然則，由於在恢復後的收視率依然不理想，遠低於同時段競爭的[MBC週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")。因此，SBS於2019年2月再度廢除週末特別計劃劇時段於週六連播四集的安排，改為金土連續劇時段於星期五、六晚上10時至11時各播放兩集。SBS金土連續劇時段首部電視劇為《[熱血祭司](https://zh.wikipedia.org/wiki/熱血祭司 "wikilink")》\[1\]。
+此時段前身為[SBS週末特別計劃劇時段](../Page/SBS週末特別計劃劇.md "wikilink")（於每周六8時50分至11時10分播映）。該時段曾於2016年10月因收視率低迷而廢除，後於2018年3月恢復。然則，由於在恢復後的收視率依然不理想，遠低於同時段競爭的[MBC週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")。因此，SBS於2019年2月再度廢除週末特別計劃劇時段於週六連播四集的安排，改為金土連續劇時段於星期五、六晚上10時至11時各播放兩集。SBS金土連續劇時段首部電視劇為《[熱血祭司](../Page/熱血祭司.md "wikilink")》\[1\]。
 
 ## 電視劇列表
 
@@ -34,7 +34,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年2月15日－<br />
 2019年4月20日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/熱血祭司" title="wikilink">熱血祭司</a><br />
+<td style="text-align: center;"><p><a href="../Page/熱血祭司.md" title="wikilink">熱血祭司</a><br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
 <td style="text-align: center;"><p><a href="../Page/金南佶.md" title="wikilink">金南佶</a>、<a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a>、<a href="../Page/金成均.md" title="wikilink">金成均</a></p></td>
@@ -56,10 +56,10 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年7月19日－<br />
 2019年9月</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Doctor_Room" title="wikilink">Doctor Room</a><br />
+<td style="text-align: center;"><p><a href="../Page/Doctor_Room.md" title="wikilink">Doctor Room</a><br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
-<td style="text-align: center;"><p><a href="../Page/池晟.md" title="wikilink">池晟</a>、<a href="../Page/李世榮_(韓國).md" title="wikilink">李世榮</a>、<a href="https://zh.wikipedia.org/wiki/李奎炯" title="wikilink">李奎炯</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/池晟.md" title="wikilink">池晟</a>、<a href="../Page/李世榮_(韓國).md" title="wikilink">李世榮</a>、<a href="../Page/李奎炯.md" title="wikilink">李奎炯</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/趙秀沅.md" title="wikilink">趙秀沅</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金智允" title="wikilink">金智允</a></p></td>
 <td style="text-align: center;"></td>
@@ -67,7 +67,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2019年9月－<br />
 2019年月</p></td>
-<td style="text-align: center;"><p>-{<a href="https://zh.wikipedia.org/wiki/VAGABOND_(電視劇)" title="wikilink">VAGABOND</a>}-<br />
+<td style="text-align: center;"><p>-{<a href="../Page/VAGABOND_(電視劇).md" title="wikilink">VAGABOND</a>}-<br />
 </p></td>
 <td style="text-align: center;"><p>48</p></td>
 <td style="text-align: center;"><p><a href="../Page/李昇基.md" title="wikilink">李昇基</a>、<a href="https://zh.wikipedia.org/wiki/裴秀智" title="wikilink">裴秀智</a></p></td>

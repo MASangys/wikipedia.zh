@@ -8,10 +8,10 @@ Ninja的青年生活在[芝加哥郊区包括](../Page/芝加哥.md "wikilink")[
 
 Ninja于2009年开始職業性地玩《[光晕3](https://zh.wikipedia.org/wiki/光晕3 "wikilink")》\[5\] 他效力於各種團隊，包括： [Cloud9](https://zh.wikipedia.org/wiki/Cloud9 "wikilink")、[Renegades和](https://zh.wikipedia.org/wiki/Renegades_\(eSports\) "wikilink")[Team
 Liquid](https://zh.wikipedia.org/wiki/Team_Liquid "wikilink")，現為 [Luminosity
-Gaming](https://zh.wikipedia.org/wiki/Luminosity_Gaming "wikilink")。\[6\]Ninja在2011年次在[Justin.tv首次成為主播](../Page/Justin.tv.md "wikilink")，之後改到 [Twitch.tv直播](https://zh.wikipedia.org/wiki/Twitch_\(網站\) "wikilink")。  他在[Steam的早期試玩计划开始时开始玩](../Page/Steam.md "wikilink")[H1Z1](https://zh.wikipedia.org/wiki/H1Z1 "wikilink")，後來改成[Steam早期試玩计划的PUBG](../Page/Steam.md "wikilink")。他在2017年首次作为[光晕玩家加入](https://zh.wikipedia.org/wiki/光晕 "wikilink")[Luminosity
-Gaming](https://zh.wikipedia.org/wiki/Luminosity_Gaming "wikilink")，然后加入[H1Z1](https://zh.wikipedia.org/wiki/H1Z1 "wikilink")，后来转移到[PUBG](https://zh.wikipedia.org/wiki/PUBG "wikilink")，在那里他赢得了PUBG
+Gaming](https://zh.wikipedia.org/wiki/Luminosity_Gaming "wikilink")。\[6\]Ninja在2011年次在[Justin.tv首次成為主播](../Page/Justin.tv.md "wikilink")，之後改到 [Twitch.tv直播](https://zh.wikipedia.org/wiki/Twitch_\(網站\) "wikilink")。  他在[Steam的早期試玩计划开始时开始玩](../Page/Steam.md "wikilink")[H1Z1](../Page/H1Z1.md "wikilink")，後來改成[Steam早期試玩计划的PUBG](../Page/Steam.md "wikilink")。他在2017年首次作为[光晕玩家加入](https://zh.wikipedia.org/wiki/光晕 "wikilink")[Luminosity
+Gaming](https://zh.wikipedia.org/wiki/Luminosity_Gaming "wikilink")，然后加入[H1Z1](../Page/H1Z1.md "wikilink")，后来转移到[PUBG](https://zh.wikipedia.org/wiki/PUBG "wikilink")，在那里他赢得了PUBG
 Gamescom Invitational in the 3rd Person
-Squads分类。他开始定期直播[堡垒之夜系列](https://zh.wikipedia.org/wiki/堡垒之夜系列 "wikilink")，他的收视率开始增长，这与游戏的受欢迎程度增长相吻合。
+Squads分类。他开始定期直播[堡垒之夜系列](../Page/堡垒之夜系列.md "wikilink")，他的收视率开始增长，这与游戏的受欢迎程度增长相吻合。
  \[7\]2017年9月，他有500,000名粉丝;在六个月内，这一数字增长了250％在2018年3月，Ninja在与[德雷克](../Page/德雷克_\(歌手\).md "wikilink")，
 和主持一场比赛之后，在玩 [堡垒之夜系列](https://zh.wikipedia.org/wiki/fortnite "wikilink")
 的同时创下了Twitch单人直播的记录。
@@ -40,7 +40,7 @@ Pro-Am活動，並向他們選擇的慈善機構捐贈了100萬美元。\[18\]
 
 ## 个人生活
 
-他的家人在2015年出现在电视游戏节目《[家庭問答](https://zh.wikipedia.org/wiki/家庭問答 "wikilink")》的几个剧集中。
+他的家人在2015年出现在电视游戏节目《[家庭問答](../Page/家庭問答.md "wikilink")》的几个剧集中。
 
 在2017年8月，Ninja娶了Twitch實況主潔西卡·「JGhosty」·戈赫（Jessica "JGhosty" Goch）。\[19\]
 

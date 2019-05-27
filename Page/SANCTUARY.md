@@ -16,7 +16,7 @@ N Found〉。
 11月18日，释出[Baby
 Soul和](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")[叡仁的第一波個人概念照](../Page/鄭叡仁.md "wikilink")。
 
-11月19日，释出[Kei和](https://zh.wikipedia.org/wiki/Kei "wikilink")[智爱的第一波個人概念照](../Page/劉智愛.md "wikilink")。
+11月19日，释出[Kei和](../Page/Kei.md "wikilink")[智爱的第一波個人概念照](../Page/劉智愛.md "wikilink")。
 
 11月20日，释出八位成员的独家概念照，宣布回归Showcase事项，釋出第一波M/V預告（短版本），释出专辑预览图及开放预购。
 

@@ -1,6 +1,6 @@
 《**女兵日記**》（），2018年[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")。由《[新兵日記](https://zh.wikipedia.org/wiki/新兵日記 "wikilink")》製作團隊原班人馬製作，[劉香慈](../Page/劉香慈.md "wikilink")‬、‬[陳謙文](../Page/陳謙文.md "wikilink")‬、[羅平](../Page/羅平_\(模特兒\).md "wikilink")、[楊晴](../Page/楊晴.md "wikilink")、‬[小嫻](../Page/小嫻.md "wikilink")‬領銜主演\[1\]\[2\]。以[海軍陸戰隊新兵入伍訓作為主題](../Page/中華民國海軍陸戰隊.md "wikilink")，於2018年4月開拍，7月10日起於[TVBS歡樂台首播](../Page/TVBS歡樂台.md "wikilink")，[台視主頻則於](../Page/臺灣電視台.md "wikilink")7月12日播出。網路平台由[LiTV
-線上影視於](https://zh.wikipedia.org/wiki/LiTV_線上影視 "wikilink")7月12日起晚間十點上架，[LINE
-TV於](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")7月13日起中午12:00上架。
+線上影視於](../Page/LiTV_線上影視.md "wikilink")7月12日起晚間十點上架，[LINE
+TV於](../Page/LINE_TV.md "wikilink")7月13日起中午12:00上架。
 
 ## 播出時間
 
@@ -29,13 +29,13 @@ TV於](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")7月13日起中午12:00�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/LiTV_線上影視" title="wikilink">LiTV 線上影視</a></p></td>
+<td><p><a href="../Page/LiTV_線上影視.md" title="wikilink">LiTV 線上影視</a></p></td>
 <td><p>週一至週五22:00 上架</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/LINE_TV" title="wikilink">LINE TV</a></p></td>
+<td><p><a href="../Page/LINE_TV.md" title="wikilink">LINE TV</a></p></td>
 <td><p>2018年7月13日</p></td>
 <td><p>週一至週五12:00 上架</p></td>
 <td></td>
@@ -104,7 +104,7 @@ TV於](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")7月13日起中午12:00�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/TVBS精采台" title="wikilink">TVBS精采台</a></p></td>
+<td><p><a href="../Page/TVBS精采台.md" title="wikilink">TVBS精采台</a></p></td>
 <td><p>週一至週五20:00 - 21:00</p></td>
 <td></td>
 <td></td>
@@ -222,7 +222,7 @@ TV於](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")7月13日起中午12:00�
 <td><p>1-9</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/王為_(演員)" title="wikilink">王為</a></p></td>
+<td><p><a href="../Page/王為_(演員).md" title="wikilink">王為</a></p></td>
 <td><p>朱玉輝</p></td>
 <td><p>男，海軍陸戰隊第四營第十八連<a href="../Page/中尉.md" title="wikilink">中尉</a><a href="https://zh.wikipedia.org/wiki/輔導長" title="wikilink">輔導長</a>。<br />
 龍泉營區四大才子之一，情史豐富，想要追楊晴，而去問宋排長關於楊晴的事，讓宋排長內心確定對楊晴的感情。</p></td>
@@ -321,7 +321,7 @@ TV於](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")7月13日起中午12:00�
 <td><p>1-12</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/梁舒涵" title="wikilink">梁舒涵</a></p></td>
+<td><p><a href="../Page/梁舒涵.md" title="wikilink">梁舒涵</a></p></td>
 <td><p>葉素娥</p></td>
 <td><p>女，21歲，海軍陸戰隊第四營第十七連入伍生。<br />
 李淑靜的好友，綽號仙姑，出身宮廟，是中華民國合格道士，因為爸爸說媽祖指示來當兵，可幫爸爸消災，而被爸爸逼迫來當兵，一來報到就想逃跑，但註定逃不過當兵。暗暗喜歡國樑，也因為他而決定不退訓，卻不知道好友李淑靜跟國樑兩人互相喜歡。</p></td>
@@ -335,14 +335,14 @@ TV於](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")7月13日起中午12:00�
 <td><p>1-12</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/方語昕" title="wikilink">方語昕</a></p></td>
+<td><p><a href="../Page/方語昕.md" title="wikilink">方語昕</a></p></td>
 <td><p>黃嫚莉</p></td>
 <td><p>女，21歲，海軍陸戰隊第四營第十七連入伍生。<br />
 視力2.0但左右不分，因為其他三個候選人受傷、吵架，而成為授槍代表。夢想是能跟爺爺、大伯一樣成為將軍，不想利用舅舅是副指揮官趙建國的關係，但是為了讓曉嫻出營區找走失的女兒，讓自己與副指揮官的關係曝光。在開訓典禮表現不錯而被朵拉班長欽點當寢室長。男友是在南營當兵的蘇誼濱，一直以來鼓勵她來當兵，不過在入伍後，卻發生兵變，劈腿的對象是十六連的馬韻如，而鬧出懷孕風波。</p></td>
 <td><p>1-12</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林宜禾" title="wikilink">林宜禾</a></p></td>
+<td><p><a href="../Page/林宜禾.md" title="wikilink">林宜禾</a></p></td>
 <td><p>溫馨</p></td>
 <td><p>女，22歲，海軍陸戰隊第四營第十七連入伍生。<br />
 因為從小在人群中講話就特別小聲，而引起班長注意，在比賽軍歌前特別加強練習，才能唱的更大聲，突破自己的畏懼。</p></td>
@@ -356,13 +356,13 @@ TV於](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")7月13日起中午12:00�
 <td><p>1-12</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/王上菲" title="wikilink">王上菲</a></p></td>
+<td><p><a href="../Page/王上菲.md" title="wikilink">王上菲</a></p></td>
 <td><p>王尚菲</p></td>
 <td><p>女，海軍陸戰隊第四營第十七連入伍生。</p></td>
 <td><p>1-12</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/梁瀚名" title="wikilink">梁瀚名</a></p></td>
+<td><p><a href="../Page/梁瀚名.md" title="wikilink">梁瀚名</a></p></td>
 <td><p>林國樑</p></td>
 <td><p>男，23歲，海軍陸戰隊第四營第十七連入伍生，喜歡李淑靜。</p></td>
 <td><p>1-12</p></td>
@@ -427,26 +427,26 @@ TV於](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")7月13日起中午12:00�
 
 ## 電視劇歌曲
 
-|              |                                                          |                                  |          |                                          |          |
-| ------------ | -------------------------------------------------------- | -------------------------------- | -------- | ---------------------------------------- | -------- |
-| **曲別**       | **歌名**                                                   | **演唱者**                          | **作詞**   | **作曲**                                   | **出現集數** |
-| 片頭曲          | 夢想從心開始                                                   | [楊培安](../Page/楊培安.md "wikilink") | 劉虞瑞      | [陳國華](../Page/陳國華_\(音樂人\).md "wikilink") | 全劇       |
-| 片尾曲          | 大太陽                                                      | [卓義峯](../Page/卓義峯.md "wikilink") | 葛大為      | Keith Stuart                             |          |
-| 插曲           | 我的驕傲                                                     | 楊培安                              | 劉虞瑞      | 陳國華                                      | 1,8      |
-| 再見煙火         | 卓義峯                                                      | 淺紫@眾匠音樂                          | 都智文@眾匠音樂 | 2,3                                      |          |
-| 你會是冠軍        | 化學猴子樂團                                                   | 任中強                              |          |                                          |          |
-| 莫忘初心         |                                                          |                                  |          |                                          |          |
-| 好想好想你        | [九九](https://zh.wikipedia.org/wiki/九九_\(歌手\) "wikilink") | 陳國華                              |          |                                          |          |
-| 關於寂寞         | [陳謙文](../Page/陳謙文.md "wikilink")                         |                                  |          | 6,10                                     |          |
-| 微笑的力量        |                                                          |                                  | 8,10     |                                          |          |
-| 龍泉情歌（永遠的陸戰隊） |                                                          |                                  | 5        |                                          |          |
-| 軍歌           | 向前衝                                                      | 軍人                               | 林君長      | 汪石泉                                      | 1,6      |
-| 飛揚           |                                                          |                                  | 1,4,6    |                                          |          |
-| 出操歌          | 李文堂                                                      | 2,6                              |          |                                          |          |
-| 戰鬥的陸戰隊       |                                                          |                                  | 2,5,9    |                                          |          |
-| 軍紀歌          |                                                          |                                  | 3        |                                          |          |
-| 繼往開來         | 鍾昀廷                                                      | 李進賢                              | 7        |                                          |          |
-|              |                                                          |                                  |          |                                          |          |
+|              |                                       |                                  |          |                                          |          |
+| ------------ | ------------------------------------- | -------------------------------- | -------- | ---------------------------------------- | -------- |
+| **曲別**       | **歌名**                                | **演唱者**                          | **作詞**   | **作曲**                                   | **出現集數** |
+| 片頭曲          | 夢想從心開始                                | [楊培安](../Page/楊培安.md "wikilink") | 劉虞瑞      | [陳國華](../Page/陳國華_\(音樂人\).md "wikilink") | 全劇       |
+| 片尾曲          | 大太陽                                   | [卓義峯](../Page/卓義峯.md "wikilink") | 葛大為      | Keith Stuart                             |          |
+| 插曲           | 我的驕傲                                  | 楊培安                              | 劉虞瑞      | 陳國華                                      | 1,8      |
+| 再見煙火         | 卓義峯                                   | 淺紫@眾匠音樂                          | 都智文@眾匠音樂 | 2,3                                      |          |
+| 你會是冠軍        | 化學猴子樂團                                | 任中強                              |          |                                          |          |
+| 莫忘初心         |                                       |                                  |          |                                          |          |
+| 好想好想你        | [九九](../Page/九九_\(歌手\).md "wikilink") | 陳國華                              |          |                                          |          |
+| 關於寂寞         | [陳謙文](../Page/陳謙文.md "wikilink")      |                                  |          | 6,10                                     |          |
+| 微笑的力量        |                                       |                                  | 8,10     |                                          |          |
+| 龍泉情歌（永遠的陸戰隊） |                                       |                                  | 5        |                                          |          |
+| 軍歌           | 向前衝                                   | 軍人                               | 林君長      | 汪石泉                                      | 1,6      |
+| 飛揚           |                                       |                                  | 1,4,6    |                                          |          |
+| 出操歌          | 李文堂                                   | 2,6                              |          |                                          |          |
+| 戰鬥的陸戰隊       |                                       |                                  | 2,5,9    |                                          |          |
+| 軍紀歌          |                                       |                                  | 3        |                                          |          |
+| 繼往開來         | 鍾昀廷                                   | 李進賢                              | 7        |                                          |          |
+|              |                                       |                                  |          |                                          |          |
 
 ## 收視率
 

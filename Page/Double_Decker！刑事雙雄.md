@@ -76,7 +76,7 @@ Decker！刑事雙雄**》是[日昇動畫推出的原創](../Page/日昇動畫.
   - 設計：小曾根正美
   - 概念設計：兒玉陽平、安藤賢司
   - 裝置设计：宮本崇
-  - 系列導演：[安藤良](https://zh.wikipedia.org/wiki/安藤良 "wikilink")
+  - 系列導演：[安藤良](../Page/安藤良.md "wikilink")
   - 色彩設計：永井留美子
   - 美術監督：水野雄介
   - 美術監修：東潤一
@@ -128,7 +128,7 @@ Decker！刑事雙雄**》是[日昇動畫推出的原創](../Page/日昇動畫.
 <td><p>向兩個太陽咆哮</p></td>
 <td><p>鈴木智尋</p></td>
 <td><p>古田丈司</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安藤良" title="wikilink">安藤良</a></p></td>
+<td><p><a href="../Page/安藤良.md" title="wikilink">安藤良</a></p></td>
 <td><p>富澤佳也乃、小林理</p></td>
 </tr>
 <tr class="even">

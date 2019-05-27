@@ -1,5 +1,5 @@
 《**Fairy
-gone**》是[P.A.Works推出的原創電視動畫](../Page/P.A.Works.md "wikilink")，由[鈴木健一監督](https://zh.wikipedia.org/wiki/鈴木健一 "wikilink")，中田春彌負責角色和妖精原案，清水貴子進行角色設計，[(K)NoW_NAME擔任音樂製作](https://zh.wikipedia.org/wiki/\(K\)NoW_NAME "wikilink")，電視動畫於2019年4月7日播出\[1\]。
+gone**》是[P.A.Works推出的原創電視動畫](../Page/P.A.Works.md "wikilink")，由[鈴木健一監督](https://zh.wikipedia.org/wiki/鈴木健一 "wikilink")，中田春彌負責角色和妖精原案，清水貴子進行角色設計，[(K)NoW_NAME擔任音樂製作](../Page/\(K\)NoW_NAME.md "wikilink")，電視動畫於2019年4月7日播出\[1\]。
 
 ## 故事大綱
 
@@ -34,7 +34,7 @@ gone**》是[P.A.Works推出的原創電視動畫](../Page/P.A.Works.md "wikilin
 ### 主题曲
 
   - 片頭曲「KNOCK on the CORE」
-    填詞：[(K)NoW_NAME](https://zh.wikipedia.org/wiki/\(K\)NoW_NAME "wikilink")：AIJ，作曲、編曲：(K)NoW_NAME：[Makoto
+    填詞：[(K)NoW_NAME](../Page/\(K\)NoW_NAME.md "wikilink")：AIJ，作曲、編曲：(K)NoW_NAME：[Makoto
     Miyazaki](https://zh.wikipedia.org/wiki/宮崎誠 "wikilink")，主唱：(K)NoW_NAME：Ayaka
     Tachibana\&AIJ
 
@@ -47,7 +47,7 @@ gone**》是[P.A.Works推出的原創電視動畫](../Page/P.A.Works.md "wikilin
 :;「Rodeo」（第1話）
 
 :: 填詞、主唱：(K)NoW_NAME:AIJ，作曲、編曲：(K)NoW_NAME：[Shuhei
-Mutsuki](https://zh.wikipedia.org/wiki/睦月周平 "wikilink")
+Mutsuki](../Page/睦月周平.md "wikilink")
 
 :; 「Backtrack」（第2話）
 
@@ -79,10 +79,10 @@ Mutsuki](https://zh.wikipedia.org/wiki/睦月周平 "wikilink")
 <td><p>第1話</p></td>
 <td></td>
 <td><p>沾染灰塵的少女</p></td>
-<td><p>rowspan = "2"|<a href="https://zh.wikipedia.org/wiki/十文字青" title="wikilink">十文字青</a><br />
+<td><p>rowspan = "2"|<a href="../Page/十文字青.md" title="wikilink">十文字青</a><br />
 鈴木健一</p></td>
 <td><p>鈴木健一<br />
-<a href="https://zh.wikipedia.org/wiki/西田正義" title="wikilink">西田正義</a></p></td>
+<a href="../Page/西田正義.md" title="wikilink">西田正義</a></p></td>
 <td><p>上野壯大<br />
 阿部百合子</p></td>
 <td><p>川面恒介、小島明日香<br />
@@ -139,7 +139,7 @@ Mutsuki](https://zh.wikipedia.org/wiki/睦月周平 "wikilink")
 
   - 原作：Five fairy scholars\[2\]
   - 導演：鈴木健一
-  - 系列構成・脚本：[十文字青](https://zh.wikipedia.org/wiki/十文字青 "wikilink")
+  - 系列構成・脚本：[十文字青](../Page/十文字青.md "wikilink")
   - 角色原案・妖精原案：
   - 角色設定：清水貴子
   - 道具設定：宮岡真弓、村松尚雄
@@ -151,9 +151,9 @@ Mutsuki](https://zh.wikipedia.org/wiki/睦月周平 "wikilink")
   - 編集：廣瀬清志
   - 音響導演：[明田川仁](../Page/明田川仁.md "wikilink")
   - 音響効果：
-  - 音樂製作：[(K)NoW_NAME](https://zh.wikipedia.org/wiki/\(K\)NoW_NAME "wikilink")
+  - 音樂製作：[(K)NoW_NAME](../Page/\(K\)NoW_NAME.md "wikilink")
   - 音樂：(K)NoW_NAME:[Shuhei
-    Mutsuki](https://zh.wikipedia.org/wiki/睦月周平 "wikilink")、(K)NoW_NAME:
+    Mutsuki](../Page/睦月周平.md "wikilink")、(K)NoW_NAME:
   - 音樂製作人：礒部慧利
   - 製作人：黒木健、、、渡瀬昌太、長谷川嘉範、林俊安
   - 執行製作：山本輝

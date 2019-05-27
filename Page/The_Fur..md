@@ -5,7 +5,7 @@ pop[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，使用[英語創�
 ## 經歷
 
   - 2016年8月，前期由柚子、中凌、唯任三人成團。
-  - 2016年9月，入選[搖滾台中](https://zh.wikipedia.org/wiki/搖滾臺中 "wikilink")《出發\[2\]》合輯，收錄單曲〈Final
+  - 2016年9月，入選[搖滾台中](../Page/搖滾臺中.md "wikilink")《出發\[2\]》合輯，收錄單曲〈Final
     Defense〉。
   - 2018年5月，發表歐洲巡迴限量實體EP 《On the Wave》。
   - 2018年9月，發行首張專輯《Town》。

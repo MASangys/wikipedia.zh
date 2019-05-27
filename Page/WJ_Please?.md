@@ -17,7 +17,7 @@ Please?》\[2\]。官方表示這次專輯活動將以10人體回歸，因中國
 9月4日，在官方 Facebook 公開回歸行程表\[6\]。雖然宣儀、美岐與程瀟因為行程問題而不能參加《WJ
 Please?》的回歸活動，但仍在預告影片中出現\[7\]。
 
-[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")17日接受媒體採訪，成員皆對這次中國成員不能參與專輯表示遺憾，[苞娜表示](https://zh.wikipedia.org/wiki/苞娜 "wikilink")：「為彌補粉絲的遺憾，這次專輯將有兩首歌收錄了全部成員的聲音。」\[8\]。而news1中採訪提到本次專輯的收錄曲《Hurry
+[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")17日接受媒體採訪，成員皆對這次中國成員不能參與專輯表示遺憾，[苞娜表示](../Page/苞娜.md "wikilink")：「為彌補粉絲的遺憾，這次專輯將有兩首歌收錄了全部成員的聲音。」\[8\]。而news1中採訪提到本次專輯的收錄曲《Hurry
 Up》與《2月的春（）》包含了13名成員的聲音\[9\]。18日，官方釋出了本次迷你專輯的試聽影片\[10\]。
 
 在專輯回歸活動期間，在準備從[仁川國際機場前往](../Page/仁川國際機場.md "wikilink")[中國的宣儀與程瀟](../Page/中國.md "wikilink")，被粉絲拍到兩人透過電視觀看成員們在[Music
@@ -120,7 +120,7 @@ Please?》實體專輯依據魔法學院分隊編組分為「φορευς」、�
 <td><p>專輯</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/WJ_Please?" title="wikilink">WJ Please?</a></p></td>
+<td><p><a href="../Page/WJ_Please?.md" title="wikilink">WJ Please?</a></p></td>
 </tr>
 <tr class="odd">
 <td><ul>

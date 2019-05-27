@@ -1,4 +1,4 @@
-**蕭玉燦**（），[印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")[華裔政治人物](../Page/印度尼西亞華人.md "wikilink")，1945年[印尼獨立後](https://zh.wikipedia.org/wiki/印度尼西亞獨立宣言 "wikilink")，曾創立[印度尼西亞國民協商會](https://zh.wikipedia.org/wiki/印度尼西亞國民協商會 "wikilink")，鼓勵當地華人融入印尼的主流社會，並出任少數民族事務國務部長、[人民代表會議](https://zh.wikipedia.org/wiki/人民代表會議 "wikilink")（國會）議員等公職。由於蕭玉燦是[馬克思主義者](https://zh.wikipedia.org/wiki/馬克思主義者 "wikilink")，所以1965年[蘇哈托掌權後](../Page/蘇哈托.md "wikilink")，當局未經審訊，就把他囚禁了12年，直至1978年才獲准出獄。之後他前往荷蘭接受治療，至1981年因病逝世。
+**蕭玉燦**（），[印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")[華裔政治人物](../Page/印度尼西亞華人.md "wikilink")，1945年[印尼獨立後](../Page/印度尼西亞獨立宣言.md "wikilink")，曾創立[印度尼西亞國民協商會](https://zh.wikipedia.org/wiki/印度尼西亞國民協商會 "wikilink")，鼓勵當地華人融入印尼的主流社會，並出任少數民族事務國務部長、[人民代表會議](https://zh.wikipedia.org/wiki/人民代表會議 "wikilink")（國會）議員等公職。由於蕭玉燦是[馬克思主義者](https://zh.wikipedia.org/wiki/馬克思主義者 "wikilink")，所以1965年[蘇哈托掌權後](../Page/蘇哈托.md "wikilink")，當局未經審訊，就把他囚禁了12年，直至1978年才獲准出獄。之後他前往荷蘭接受治療，至1981年因病逝世。
 
 （他的政治理念）
 
@@ -23,7 +23,7 @@ Hari*）。
 
 ### 國會生涯
 
-1945年8月[印尼宣布獨立後](https://zh.wikipedia.org/wiki/印度尼西亞獨立宣言 "wikilink")，蕭玉燦在同年12月成為社會黨的創黨黨員，並於1946年4月接受[蘇卡諾總統的委任](../Page/蘇卡諾.md "wikilink")，參加[印度尼西亞中央國民委員會](https://zh.wikipedia.org/wiki/印度尼西亞中央國民委員會 "wikilink")（相當於後來的[人民代表會議](https://zh.wikipedia.org/wiki/人民代表會議 "wikilink")，即國會）。他在1947年先後加入中央國民委員會的工作委員會（即國會常務委員會）和[第二屆阿米爾·謝里夫丁內閣](https://zh.wikipedia.org/wiki/第二屆阿米爾·謝里夫丁內閣 "wikilink")，擔任少數民族事務國務部長，部長任期直至1948年1月內閣倒台為止。前[總理](https://zh.wikipedia.org/wiki/印度尼西亞總理列表 "wikilink")[阿米爾·謝里夫丁下野後聯合左派組織](https://zh.wikipedia.org/wiki/阿米爾·謝里夫丁 "wikilink")，成立人民民主陣線之後，蕭玉燦成為其中的一份子，不過1948年8月[慕梭返回印尼](https://zh.wikipedia.org/wiki/慕梭 "wikilink")，左派政黨相繼和印共合併之後，他沒有成為印共的黨員。9月[茉莉芬事件爆發後](../Page/茉莉芬事件.md "wikilink")，以[穆罕默德·哈達為首的新政府大舉搜捕左派份子](https://zh.wikipedia.org/wiki/穆罕默德·哈達 "wikilink")，還把蕭玉燦關進牢房。
+1945年8月[印尼宣布獨立後](../Page/印度尼西亞獨立宣言.md "wikilink")，蕭玉燦在同年12月成為社會黨的創黨黨員，並於1946年4月接受[蘇卡諾總統的委任](../Page/蘇卡諾.md "wikilink")，參加[印度尼西亞中央國民委員會](https://zh.wikipedia.org/wiki/印度尼西亞中央國民委員會 "wikilink")（相當於後來的[人民代表會議](https://zh.wikipedia.org/wiki/人民代表會議 "wikilink")，即國會）。他在1947年先後加入中央國民委員會的工作委員會（即國會常務委員會）和[第二屆阿米爾·謝里夫丁內閣](https://zh.wikipedia.org/wiki/第二屆阿米爾·謝里夫丁內閣 "wikilink")，擔任少數民族事務國務部長，部長任期直至1948年1月內閣倒台為止。前[總理](https://zh.wikipedia.org/wiki/印度尼西亞總理列表 "wikilink")[阿米爾·謝里夫丁下野後聯合左派組織](https://zh.wikipedia.org/wiki/阿米爾·謝里夫丁 "wikilink")，成立人民民主陣線之後，蕭玉燦成為其中的一份子，不過1948年8月[慕梭返回印尼](https://zh.wikipedia.org/wiki/慕梭 "wikilink")，左派政黨相繼和印共合併之後，他沒有成為印共的黨員。9月[茉莉芬事件爆發後](../Page/茉莉芬事件.md "wikilink")，以[穆罕默德·哈達為首的新政府大舉搜捕左派份子](https://zh.wikipedia.org/wiki/穆罕默德·哈達 "wikilink")，還把蕭玉燦關進牢房。
 
 雖然國協的會員成分很廣泛，不過在蘇卡諾總統推行指導式民主之後，政治形勢漸趨兩極分化，這時候蕭玉燦選擇跟蘇卡諾、印共和其他進步革命勢力靠攏。這時候，由反共華人組織，主張華人應該改名換姓，融入土著社會的民族統一機構批評國協准許華人保留原有姓名和文化的主張是排斥土著社會的表現。
 

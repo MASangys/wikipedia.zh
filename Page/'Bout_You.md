@@ -4,7 +4,7 @@ Eunhyuk的第二張韓語迷你專輯](../Page/Super_Junior_Donghae_&_Eunhyuk.md
 ## 概要
 
 2018年8月1日，[Label
-SJ方面表示](https://zh.wikipedia.org/wiki/Label_SJ "wikilink")，由[東海](../Page/東海_\(藝人\).md "wikilink")、[銀赫組成的小分隊Super](../Page/銀赫.md "wikilink")
+SJ方面表示](../Page/Label_SJ.md "wikilink")，由[東海](../Page/東海_\(藝人\).md "wikilink")、[銀赫組成的小分隊Super](../Page/銀赫.md "wikilink")
 Junior-D\&E於8月16日發表韓語迷你二輯《'Bout
 You》，該專輯收錄了包括東海solo曲《Lost》、銀赫solo曲《Illusion
 (Obsessed)》等8首歌曲。\[2\]

@@ -1,4 +1,4 @@
-**組合用半符號**是一個[Unicode區段](https://zh.wikipedia.org/wiki/Unicode區段 "wikilink")，其中收錄了可用於多種[書寫系統的](https://zh.wikipedia.org/wiki/書寫系統 "wikilink")[變音符號](https://zh.wikipedia.org/wiki/附加符號 "wikilink")。
+**組合用半符號**是一個[Unicode區段](../Page/Unicode區段.md "wikilink")，其中收錄了可用於多種[書寫系統的](https://zh.wikipedia.org/wiki/書寫系統 "wikilink")[變音符號](https://zh.wikipedia.org/wiki/附加符號 "wikilink")。
 
 ## 區段
 
@@ -148,6 +148,6 @@
   - [結合附加符號
     (Unicode區段)](https://zh.wikipedia.org/wiki/結合附加符號 "wikilink")
   - [組合字符](../Page/組合字符.md "wikilink")
-  - [Unicode中的西里爾字母](https://zh.wikipedia.org/wiki/Unicode中的西里爾字母 "wikilink")
+  - [Unicode中的西里爾字母](../Page/Unicode中的西里爾字母.md "wikilink")
 
 [Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")

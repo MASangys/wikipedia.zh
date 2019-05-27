@@ -1,10 +1,10 @@
 《**Gotta
-Go(已經12點)**》（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：）是韓國歌手[請夏的第二張單曲](https://zh.wikipedia.org/wiki/請夏 "wikilink")，詞曲皆由[黑眼必勝與Jeon](https://zh.wikipedia.org/wiki/黑眼必勝 "wikilink")
+Go(已經12點)**》（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：）是韓國歌手[請夏的第二張單曲](https://zh.wikipedia.org/wiki/請夏 "wikilink")，詞曲皆由[黑眼必勝與Jeon](../Page/黑眼必勝.md "wikilink")
 Goon共同製作，單曲於2019年1月2日發佈在各大數位音樂網站公開線上音源。
 
 ## 背景
 
-2018年12月，[請夏所屬的經紀公司](https://zh.wikipedia.org/wiki/請夏 "wikilink")[M\&H娛樂宣布請夏將於明年](https://zh.wikipedia.org/wiki/M&H娛樂 "wikilink")1月回歸\[1\]。
+2018年12月，[請夏所屬的經紀公司](https://zh.wikipedia.org/wiki/請夏 "wikilink")[M\&H娛樂宣布請夏將於明年](../Page/M&H娛樂.md "wikilink")1月回歸\[1\]。
 
 ## 評價
 

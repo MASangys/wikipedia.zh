@@ -26,8 +26,7 @@ Incident）的冲突随着[新吉恩残余团体](https://zh.wikipedia.org/wiki/
 
 预售票是在制作发表后不久就推出的，第一款是使用Key Visual的clear
 file\[8\]，第二款则是设定由剧中的匿名人士所整理的数量限定特制小册子《报告书-U.C.0097-》\[9\]。另外，将于2018年10月19日推出与同一时期剧场上映的《[哥斯拉
-噬星者](https://zh.wikipedia.org/wiki/哥斯拉_\(動畫電影\) "wikilink")》合作的插图（带有clear
-file的预售票）\[10\]。
+噬星者](../Page/哥斯拉_\(動畫電影\).md "wikilink")》合作的插图（带有clear file的预售票）\[10\]。
 
 ## 登场人物
 

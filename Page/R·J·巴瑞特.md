@@ -10,7 +10,7 @@ R·J·巴瑞特為的成員，曾隨隊獲得金牌，自身亦榮獲[U19世界�
 
 ## 大學時期
 
-巴瑞特將目標縮小至五所學校：[杜克大學](https://zh.wikipedia.org/wiki/杜克大學 "wikilink")、[亞利桑那大學](https://zh.wikipedia.org/wiki/亞利桑那大學 "wikilink")、[奧勒岡大學](https://zh.wikipedia.org/wiki/奧勒岡大學 "wikilink")、[肯塔基大學以及](https://zh.wikipedia.org/wiki/肯塔基大學 "wikilink")[密西根大學](https://zh.wikipedia.org/wiki/密西根大學 "wikilink")。\[5\]2017年11月10日，巴瑞特宣布將加盟杜克大學，他在受訪時表示「**K教練**」[迈克·沙舍夫斯基是讓他決定加盟杜克大學的最大因素](../Page/迈克·沙舍夫斯基.md "wikilink")。\[6\]而巴瑞特的加盟使得一次擁有全美排名前三的高中生（另外兩位分別是[錫安·威廉森與](../Page/錫安·威廉森.md "wikilink")[卡麥隆·瑞迪許](https://zh.wikipedia.org/wiki/卡麥隆·瑞迪許 "wikilink")）。
+巴瑞特將目標縮小至五所學校：[杜克大學](https://zh.wikipedia.org/wiki/杜克大學 "wikilink")、[亞利桑那大學](https://zh.wikipedia.org/wiki/亞利桑那大學 "wikilink")、[奧勒岡大學](https://zh.wikipedia.org/wiki/奧勒岡大學 "wikilink")、[肯塔基大學以及](https://zh.wikipedia.org/wiki/肯塔基大學 "wikilink")[密西根大學](https://zh.wikipedia.org/wiki/密西根大學 "wikilink")。\[5\]2017年11月10日，巴瑞特宣布將加盟杜克大學，他在受訪時表示「**K教練**」[迈克·沙舍夫斯基是讓他決定加盟杜克大學的最大因素](../Page/迈克·沙舍夫斯基.md "wikilink")。\[6\]而巴瑞特的加盟使得一次擁有全美排名前三的高中生（另外兩位分別是[錫安·威廉森與](../Page/錫安·威廉森.md "wikilink")[卡麥隆·瑞迪許](../Page/卡麥隆·瑞迪許.md "wikilink")）。
 
 2018年11月7日，藍魔鬼隊在以118−84大勝[肯塔基大學](https://zh.wikipedia.org/wiki/肯塔基大學 "wikilink")，本場比賽巴瑞特攻下33分，隊友威廉森也高效率的取得28分並抓下了7個籃板，兩人均打破了此前由[馬文·貝格利三世創下的](https://zh.wikipedia.org/wiki/馬文·貝格利三世 "wikilink")25分杜克大一新生首秀得分紀錄，33分也只比杜克大一新生的得分紀錄少1分，此前貝格利三世大一賽季期間曾單場攻下34分。2018年11月12日，藍魔鬼隊以94−72戰勝了[西點軍校](https://zh.wikipedia.org/wiki/西點軍校 "wikilink")，全場比賽巴瑞特出場33分鐘，19投9中，三分球9投3中，一共斬獲23分、6個籃板、2次助攻以及1次抄截。
 

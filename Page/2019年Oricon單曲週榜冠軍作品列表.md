@@ -66,7 +66,7 @@
 <tr class="even">
 <td><p>2月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/等待著風" title="wikilink">等待著風</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/STU48" title="wikilink">STU48</a></p></td>
+<td><p><a href="../Page/STU48.md" title="wikilink">STU48</a></p></td>
 <td><p>27.6</p></td>
 <td><p>1</p></td>
 </tr>
@@ -79,7 +79,7 @@
 </tr>
 <tr class="even">
 <td><p>3月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黑羊" title="wikilink">黑羊</a></p></td>
+<td><p><a href="../Page/黑羊.md" title="wikilink">黑羊</a></p></td>
 <td><p><a href="../Page/櫸坂46.md" title="wikilink">櫸坂46</a></p></td>
 <td><p>75.0</p></td>
 <td><p>1</p></td>
@@ -93,7 +93,7 @@
 </tr>
 <tr class="even">
 <td><p>3月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/回憶上心頭DAYS" title="wikilink">回憶上心頭DAYS</a></p></td>
+<td><p><a href="../Page/回憶上心頭DAYS.md" title="wikilink">回憶上心頭DAYS</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>126.2</p></td>
 <td><p>1</p></td>
@@ -107,21 +107,21 @@
 </tr>
 <tr class="even">
 <td><p>4月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/心動了_(日向坂46單曲)" title="wikilink">心動了</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/日向坂46" title="wikilink">日向坂46</a></p></td>
+<td><p><a href="../Page/心動了_(日向坂46單曲).md" title="wikilink">心動了</a></p></td>
+<td><p><a href="../Page/日向坂46.md" title="wikilink">日向坂46</a></p></td>
 <td><p>47.6</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月15日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/King_&amp;_Prince" title="wikilink">King &amp; Prince</a></p></td>
+<td><p><a href="../Page/King_&amp;_Prince.md" title="wikilink">King &amp; Prince</a></p></td>
 <td><p>39.1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>4月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/意志_(單曲)" title="wikilink">意志</a></p></td>
+<td><p><a href="../Page/意志_(單曲).md" title="wikilink">意志</a></p></td>
 <td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a></p></td>
 <td><p>19.7</p></td>
 <td><p>1</p></td>
@@ -129,7 +129,7 @@
 <tr class="odd">
 <td><p>4月29日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/最後的偶像" title="wikilink">最後的偶像</a></p></td>
+<td><p><a href="../Page/最後的偶像.md" title="wikilink">最後的偶像</a></p></td>
 <td><p>7.3</p></td>
 <td><p>1</p></td>
 </tr>
@@ -138,7 +138,7 @@
 
 ## 參見
 
-  - [2019年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2019年Oricon專輯週榜冠軍作品列表 "wikilink")
+  - [2019年Oricon專輯週榜冠軍作品列表](../Page/2019年Oricon專輯週榜冠軍作品列表.md "wikilink")
 
 ## 參考資料
 

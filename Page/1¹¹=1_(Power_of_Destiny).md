@@ -18,7 +18,7 @@ One的新專輯已確定在11月中旬發售，這張專輯將成為Wanna One解
 ### 正式發行
 
 11月19日，韓國時間下午6點，公開首張正规專輯《[1¹¹=1 (Power of
-Destiny)](https://zh.wikipedia.org/wiki/1¹¹=1_\(Power_of_Destiny\) "wikilink")》全輯音源及主打歌〈Spring
+Destiny)](../Page/1¹¹=1_\(Power_of_Destiny\).md "wikilink")》全輯音源及主打歌〈Spring
 Breeze〉，並於同日舉行專輯發售記者會。\[4\]
 
 ### 商業成績

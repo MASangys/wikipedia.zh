@@ -3,7 +3,7 @@
 ## MC與評論員
 
   - 主要MC：[安勝浩](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")
-  - 助理MC：이동진、김의중、[Luda](https://zh.wikipedia.org/wiki/Luda "wikilink")（宇宙少女）
+  - 助理MC：이동진、김의중、[Luda](../Page/Luda.md "wikilink")（宇宙少女）
   - 評論員：金正珉、하광석、고수진、정준、裵宰民
 
 ## 電競遊戲項目
@@ -21,24 +21,24 @@
 
   - [FTIsland](../Page/FTIsland.md "wikilink")
 
-  - [IN2IT](https://zh.wikipedia.org/wiki/IN2IT "wikilink")
+  - [IN2IT](../Page/IN2IT.md "wikilink")
 
-  - [L.A.U](https://zh.wikipedia.org/wiki/L.A.U "wikilink")
+  - [L.A.U](../Page/L.A.U.md "wikilink")
 
   - [MXM](https://zh.wikipedia.org/wiki/MXM "wikilink")
 
   - [NCT](../Page/NCT.md "wikilink")
 
   -
-  - [RAINZ](https://zh.wikipedia.org/wiki/RAINZ "wikilink")
+  - [RAINZ](../Page/RAINZ.md "wikilink")
 
   - [SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")
 
-  - [TRCNG](https://zh.wikipedia.org/wiki/TRCNG "wikilink")
+  - [TRCNG](../Page/TRCNG.md "wikilink")
 
   - [THE BOYZ](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")
 
-  - [MYTEEN](https://zh.wikipedia.org/wiki/MYTEEN "wikilink")
+  - [MYTEEN](../Page/MYTEEN.md "wikilink")
 
   - [Block B](../Page/Block_B.md "wikilink")
 
@@ -70,8 +70,8 @@
 ### 個人參賽
 
   - [NC.A](../Page/NC.A.md "wikilink")
-  - [Kisum](https://zh.wikipedia.org/wiki/Kisum "wikilink")
-  - [權玄彬](https://zh.wikipedia.org/wiki/權玄彬 "wikilink")
+  - [Kisum](../Page/Kisum.md "wikilink")
+  - [權玄彬](../Page/權玄彬.md "wikilink")
   - [金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink")
 
 ### 其他參賽隊伍

@@ -351,7 +351,7 @@ liner
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 音響製作：
   - 音樂：[梶浦由記](../Page/梶浦由記.md "wikilink")
-  - 製作：[TROYCA](https://zh.wikipedia.org/wiki/TROYCA "wikilink")
+  - 製作：[TROYCA](../Page/TROYCA.md "wikilink")
 
 ### 各話列表
 

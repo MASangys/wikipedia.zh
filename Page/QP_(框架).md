@@ -8,7 +8,7 @@ QP编程框架家族包括了QP/C，QP/C++，和QP-nano。它们都经由良好�
 QP/C++也能和一个传统的OS或RTOS一起使用，比如[POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink")
 ([Linux](../Page/Linux.md "wikilink"),
 [QNX](../Page/QNX.md "wikilink"))，[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，
-[VxWorks](../Page/VxWorks.md "wikilink")，[ThreadX](https://zh.wikipedia.org/wiki/ThreadX "wikilink")，[uC/OS](https://zh.wikipedia.org/wiki/MicroC/OS-II "wikilink")，[FreeRTOS等等](../Page/FreeRTOS.md "wikilink")。
+[VxWorks](../Page/VxWorks.md "wikilink")，[ThreadX](../Page/ThreadX.md "wikilink")，[uC/OS](https://zh.wikipedia.org/wiki/MicroC/OS-II "wikilink")，[FreeRTOS等等](../Page/FreeRTOS.md "wikilink")。
 
 QP中各个[活动对象](https://zh.wikipedia.org/wiki/活动对象 "wikilink")（actors）是由层次化状态机（[UML状态图](https://zh.wikipedia.org/wiki/UML状态图 "wikilink")）来表征的。QP框架支持由C或者C++编写的[UML状态机](https://zh.wikipedia.org/wiki/UML状态机 "wikilink")，也支持由免费的QM建模工具直接进行自动代码生成。\[2\]
 
@@ -82,7 +82,7 @@ Spy）是一个软件跟踪系统，它能在只占用极少系统资源的前�
     Coldfire](https://zh.wikipedia.org/wiki/Freescale_Coldfire "wikilink")
   - [Freescale
     68HC08](https://zh.wikipedia.org/wiki/Freescale_68HC08 "wikilink")
-  - [Altera Nios II](https://zh.wikipedia.org/wiki/Nios_II "wikilink")
+  - [Altera Nios II](../Page/Nios_II.md "wikilink")
   - [8051](https://zh.wikipedia.org/wiki/Intel_MCS-51 "wikilink")
     (Silicon Labs)
   - [80251](https://zh.wikipedia.org/wiki/Intel_MCS-51 "wikilink")
@@ -100,11 +100,11 @@ QP/C和QP/C++框架可以和下列的传统操作系统和[实时操作系统一
   - [Win32](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")（所有的桌面版Windows和Windows
     CE）
   - [VxWorks](../Page/VxWorks.md "wikilink")
-  - [ThreadX](https://zh.wikipedia.org/wiki/ThreadX "wikilink")
+  - [ThreadX](../Page/ThreadX.md "wikilink")
   - [FreeRTOS](../Page/FreeRTOS.md "wikilink")
   - [MicroC/OS-II](https://zh.wikipedia.org/wiki/MicroC/OS-II "wikilink")
   - [QNX](../Page/QNX.md "wikilink")（POSIX）
-  - [INTEGRITY](https://zh.wikipedia.org/wiki/INTEGRITY_\(操作系统\) "wikilink")（POSIX）
+  - [INTEGRITY](../Page/INTEGRITY_\(操作系统\).md "wikilink")（POSIX）
 
 ## 授权协议
 

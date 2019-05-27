@@ -15,7 +15,7 @@ Bitfinex於2012年12月成立，透過點對點融資市場，Bitfinex提供槓�
 \[9\]接著，比特幣的交易價格暴跌百分之20。\[10\]在得知事件后，Bitfinex 停止所有比特币提款和交易。\[11\]
 
 2017年4月，Bitfinex宣布在[Wells
-Fargo切斷其電匯服務后](https://zh.wikipedia.org/wiki/Wells_Fargo "wikilink")，美元提款服務被拖延处理。同年6月25日，Bitfinex宣布將於同年7月1日起支持[EOS以USD](https://zh.wikipedia.org/wiki/EOS.IO "wikilink")，BTC和ETH作配對的交易。\[12\]
+Fargo切斷其電匯服務后](https://zh.wikipedia.org/wiki/Wells_Fargo "wikilink")，美元提款服務被拖延处理。同年6月25日，Bitfinex宣布將於同年7月1日起支持[EOS以USD](../Page/EOS.IO.md "wikilink")，BTC和ETH作配對的交易。\[12\]
 
 2018年2月13日，Bitfinex發佈EOSfinex-建立在[EOS.IO](https://eos.io/)平臺上的交易所。\[13\]
 3月，Bitfinex确認將其業務搬遷至瑞士。5月，Bitfinex通过电子邮件詢問其用户有關[税收的详细信息以便在適當時候遞交給政府部門](../Page/稅.md "wikilink")。\[14\]

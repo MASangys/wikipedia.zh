@@ -1,4 +1,4 @@
-《dele(ディーリー)》[朝日電視台週五晚間連續劇](../Page/朝日電視台.md "wikilink")，台灣譯爲《刪除人生》，編劇為[本多孝好及](../Page/本多孝好.md "wikilink")[金城一紀](https://zh.wikipedia.org/wiki/金城一紀 "wikilink")，由[山田孝之](../Page/山田孝之.md "wikilink")、[菅田將暉主演](../Page/菅田將暉.md "wikilink")，台灣[KKTV同步跟播](https://zh.wikipedia.org/wiki/KKTV "wikilink")。
+《dele(ディーリー)》[朝日電視台週五晚間連續劇](../Page/朝日電視台.md "wikilink")，台灣譯爲《刪除人生》，編劇為[本多孝好及](../Page/本多孝好.md "wikilink")[金城一紀](https://zh.wikipedia.org/wiki/金城一紀 "wikilink")，由[山田孝之](../Page/山田孝之.md "wikilink")、[菅田將暉主演](../Page/菅田將暉.md "wikilink")，台灣[KKTV同步跟播](../Page/KKTV.md "wikilink")。
 
 ## 劇情大綱
 

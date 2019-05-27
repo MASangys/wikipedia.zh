@@ -35,7 +35,7 @@ Favorite》正式出道。\[1\]\[2\]<font color="#0645ad"></font>
 <td><p><em>My Favorite</em></p></td>
 <td><ul>
 <li>发行日期：2017年7月5日</li>
-<li>唱片公司：AStory娱乐, <a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie Music</a></li>
+<li>唱片公司：AStory娱乐, <a href="../Page/Genie音樂.md" title="wikilink">Genie Music</a></li>
 <li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/數位下載" title="wikilink">數位下載</a></li>
 </ul></td>
 <td></td>
@@ -45,7 +45,7 @@ Favorite》正式出道。\[1\]\[2\]<font color="#0645ad"></font>
 <td><p>style="" |</p>
 <ul>
 <li>发行日期：2018年5月10日</li>
-<li>唱片公司：AStory娱乐, <a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie Music</a></li>
+<li>唱片公司：AStory娱乐, <a href="../Page/Genie音樂.md" title="wikilink">Genie Music</a></li>
 <li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></li>
 </ul></td>
 <td></td>

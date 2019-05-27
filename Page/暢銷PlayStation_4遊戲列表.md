@@ -14,11 +14,11 @@
 
 <!-- end list -->
 
-  - [FIFA 18](https://zh.wikipedia.org/wiki/FIFA_18 "wikilink")（1200万）
+  - [FIFA 18](../Page/FIFA_18.md "wikilink")（1200万）
 
 <!-- end list -->
 
-  - [FIFA 17](https://zh.wikipedia.org/wiki/FIFA_17 "wikilink")（1115万）
+  - [FIFA 17](../Page/FIFA_17.md "wikilink")（1115万）
 
 <!-- end list -->
 
@@ -51,15 +51,15 @@
 
 <!-- end list -->
 
-  - [最後生還者](https://zh.wikipedia.org/wiki/最後生還者 "wikilink")（660万）
+  - [最後生還者](../Page/最後生還者.md "wikilink")（660万）
 
 <!-- end list -->
 
-  - [FIFA 15](https://zh.wikipedia.org/wiki/FIFA_15 "wikilink")（640万）
+  - [FIFA 15](../Page/FIFA_15.md "wikilink")（640万）
 
 <!-- end list -->
 
-  - [碧血狂殺2](https://zh.wikipedia.org/wiki/碧血狂殺2 "wikilink")（620万）
+  - [碧血狂殺2](../Page/碧血狂殺2.md "wikilink")（620万）
 
 <!-- end list -->
 
@@ -67,8 +67,7 @@
 
 <!-- end list -->
 
-  - [戰神
-    (2018年遊戲)](https://zh.wikipedia.org/wiki/戰神_\(2018年遊戲\) "wikilink")（600万）
+  - [戰神 (2018年遊戲)](../Page/戰神_\(2018年遊戲\).md "wikilink")（600万）
 
 <!-- end list -->
 
@@ -76,8 +75,7 @@
 
 <!-- end list -->
 
-  - [蜘蛛俠
-    (2018年遊戲)](https://zh.wikipedia.org/wiki/蜘蛛俠_\(2018年遊戲\) "wikilink")（900万）
+  - [蜘蛛俠 (2018年遊戲)](../Page/蜘蛛俠_\(2018年遊戲\).md "wikilink")（900万）
 
 <!-- end list -->
 
@@ -85,7 +83,7 @@
 
 <!-- end list -->
 
-  - [地平線 黎明時分](https://zh.wikipedia.org/wiki/地平線_黎明時分 "wikilink")（1000万）
+  - [地平線 黎明時分](../Page/地平線_黎明時分.md "wikilink")（1000万）
 
 <!-- end list -->
 
@@ -118,7 +116,7 @@
 
 <!-- end list -->
 
-  - [星際大戰：戰場前線II](https://zh.wikipedia.org/wiki/星際大戰：戰場前線II "wikilink")（449万）
+  - [星際大戰：戰場前線II](../Page/星際大戰：戰場前線II.md "wikilink")（449万）
 
 <!-- end list -->
 
@@ -130,7 +128,7 @@
 
 <!-- end list -->
 
-  - [刺客教條：大革命](https://zh.wikipedia.org/wiki/刺客教條：大革命 "wikilink")（440万）
+  - [刺客教條：大革命](../Page/刺客教條：大革命.md "wikilink")（440万）
 
 <!-- end list -->
 
@@ -190,7 +188,7 @@
 
 <!-- end list -->
 
-  - [NBA 2K18](https://zh.wikipedia.org/wiki/NBA_2K18 "wikilink")（350万）
+  - [NBA 2K18](../Page/NBA_2K18.md "wikilink")（350万）
 
 <!-- end list -->
 

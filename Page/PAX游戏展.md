@@ -19,7 +19,7 @@ Prime。当年的PAX Prime有超过67600人参加，并第一次举办了会场�
 
 超过7万名游客参加了PAX Prime 2011，开展前两天举办了一个仅面向游戏开发社群的活动，取名为PAX
 Dev。超过750名游戏从业人员参加了座谈会，为开发者提供了一个“可以自由表达和专注于事业”的平台。\[4\]同年的3月，PAX
-East将游戏展举办地迁至[波士顿会展中心](https://zh.wikipedia.org/wiki/波士顿会展中心 "wikilink")。
+East将游戏展举办地迁至[波士顿会展中心](../Page/波士顿会展中心.md "wikilink")。
 
 2013年，PAX第一次在美国本土外开设分展，PAX Australia 2013在举办。PAX Prime
 2013第一次将展会延长至4天，通行证六个小时就售罄。
@@ -115,7 +115,7 @@ PAX East 2018于4月5日至8日举办，第一次将展会延长至4天。 {{-}}
 <td><p>2011</p></td>
 <td><p>Pax East</p></td>
 <td><p>3月11日-3月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/波士顿会展中心" title="wikilink">波士顿会展中心</a></p></td>
+<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
 <td><p>52290</p></td>
 </tr>
 <tr class="even">
@@ -136,7 +136,7 @@ PAX East 2018于4月5日至8日举办，第一次将展会延长至4天。 {{-}}
 <td><p>2012</p></td>
 <td><p>Pax East</p></td>
 <td><p>4月6日-4月8日[20]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/波士顿会展中心" title="wikilink">波士顿会展中心</a></p></td>
+<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -150,7 +150,7 @@ PAX East 2018于4月5日至8日举办，第一次将展会延长至4天。 {{-}}
 <td><p>2013</p></td>
 <td><p>Pax East</p></td>
 <td><p>3月22日-3月24日[22]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/波士顿会展中心" title="wikilink">波士顿会展中心</a></p></td>
+<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -171,7 +171,7 @@ PAX East 2018于4月5日至8日举办，第一次将展会延长至4天。 {{-}}
 <td><p>2014</p></td>
 <td><p>Pax East</p></td>
 <td><p>4月11日-4月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/波士顿会展中心" title="wikilink">波士顿会展中心</a></p></td>
+<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -198,7 +198,7 @@ PAX East 2018于4月5日至8日举办，第一次将展会延长至4天。 {{-}}
 <tr class="odd">
 <td><p>Pax East</p></td>
 <td><p>3月6日-3月8日[27]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/波士顿会展中心" title="wikilink">波士顿会展中心</a></p></td>
+<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -226,7 +226,7 @@ PAX East 2018于4月5日至8日举办，第一次将展会延长至4天。 {{-}}
 <tr class="odd">
 <td><p>Pax East</p></td>
 <td><p>4月22日-4月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/波士顿会展中心" title="wikilink">波士顿会展中心</a></p></td>
+<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -254,7 +254,7 @@ PAX East 2018于4月5日至8日举办，第一次将展会延长至4天。 {{-}}
 <tr class="odd">
 <td><p>Pax East</p></td>
 <td><p>3月10日-3月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/波士顿会展中心" title="wikilink">波士顿会展中心</a></p></td>
+<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -289,7 +289,7 @@ PAX East 2018于4月5日至8日举办，第一次将展会延长至4天。 {{-}}
 <tr class="even">
 <td><p>Pax East</p></td>
 <td><p>4月5日-4月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/波士顿会展中心" title="wikilink">波士顿会展中心</a></p></td>
+<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -331,7 +331,7 @@ PAX East 2018于4月5日至8日举办，第一次将展会延长至4天。 {{-}}
 <tr class="even">
 <td><p>Pax East</p></td>
 <td><p>3月28日-3月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/波士顿会展中心" title="wikilink">波士顿会展中心</a></p></td>
+<td><p><a href="../Page/波士顿会展中心.md" title="wikilink">波士顿会展中心</a></p></td>
 <td></td>
 <td></td>
 </tr>

@@ -13,7 +13,7 @@
 
   -
     本作的主角。以成為演員為志向的女高中生，16歲，生日5月15日，血型A型，身高168cm。\[3\]
-      - 喜歡的東西：只有自己吃的話是魚、納豆，雖然也喜歡[羊栖菜之類的和食](https://zh.wikipedia.org/wiki/羊栖菜 "wikilink")，為應對弟妹喜好反而是漢堡排和咖哩之類的洋食做的比較多。
+      - 喜歡的東西：只有自己吃的話是魚、納豆，雖然也喜歡[羊栖菜之類的和食](../Page/羊栖菜.md "wikilink")，為應對弟妹喜好反而是漢堡排和咖哩之類的洋食做的比較多。
       - 特技：短跑、跳遠等所有個人運動項目，但是不擅長球類運動。
       - 喜歡的電影：《[羅馬假期](../Page/羅馬假期.md "wikilink")》、《[北非諜影](https://zh.wikipedia.org/wiki/北非諜影 "wikilink")》、《[亂世佳人](https://zh.wikipedia.org/wiki/亂世佳人 "wikilink")》
         (意外地很喜歡愛情浪漫電影)
@@ -111,7 +111,7 @@
   -
     藝能事務所「STARS」所屬的男性演員。19 歲，生日 9 月 19 日，血型 O 型，身高 177 cm。\[9\]
       - 興趣：吉他、拍照、繪畫、雖然想試試逛美術館，但一個禮拜就膩了。
-      - 喜歡的電影：《[E.T.](../Page/E.T.外星人.md "wikilink")》、《[七寶奇謀](https://zh.wikipedia.org/wiki/七宝奇谋 "wikilink")》、《[小鬼當家](../Page/小鬼當家.md "wikilink")》系列、《[打機王](https://zh.wikipedia.org/wiki/打機王 "wikilink")》
+      - 喜歡的電影：《[E.T.](../Page/E.T.外星人.md "wikilink")》、《[七寶奇謀](../Page/七宝奇谋.md "wikilink")》、《[小鬼當家](../Page/小鬼當家.md "wikilink")》系列、《[打機王](https://zh.wikipedia.org/wiki/打機王 "wikilink")》
         (似乎還童心未泯)
     由於夜凪在拍攝中嘔吐而給她取了「嘔吐女」的綽號。給人印象輕浮卻也很現實，認為專業的演員不應為了演技而影響拍攝工作。
     和同一間事務所的和歌月關係很好。
@@ -205,7 +205,7 @@
       - 喜歡的東西：眼鏡、若隱若現且引人情慾的畫面。
       - 討厭的東西：隱形眼鏡。
       - 興趣：漫畫。
-      - 喜歡的電影：《[萬花嬉春](../Page/萬花嬉春.md "wikilink")》、《[摩登大聖](https://zh.wikipedia.org/wiki/摩登大聖 "wikilink")》、《[鬼靈精](https://zh.wikipedia.org/wiki/鬼靈精 "wikilink")》
+      - 喜歡的電影：《[萬花嬉春](../Page/萬花嬉春.md "wikilink")》、《[摩登大聖](https://zh.wikipedia.org/wiki/摩登大聖 "wikilink")》、《[鬼靈精](../Page/鬼靈精.md "wikilink")》
     暱稱是「龜」。在舞台劇「銀河鐵道之夜」飾演札內利。
     個性輕浮，擅長浮誇或是俗氣的演技，是支撐劇團的幹部級人物。
 

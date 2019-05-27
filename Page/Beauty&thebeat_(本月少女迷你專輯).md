@@ -1,4 +1,4 @@
-《**beauty\&thebeat**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[本月少女](https://zh.wikipedia.org/wiki/本月少女 "wikilink")（）在正式出道前第三個小分隊本月少女
+《**beauty\&thebeat**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[本月少女](../Page/本月少女.md "wikilink")（）在正式出道前第三個小分隊本月少女
 yyxy（）推出的首張迷你專輯，由Yves、Chuu、Go Won、Olivia Hye組成。由Blockberry
 Creative製作，VLENDING及WINDMILL
 ENT發行，於2018年5月30日推出。此張專輯包括與[加拿大音樂製作人](../Page/加拿大.md "wikilink")[Grimes合作的主打曲](https://zh.wikipedia.org/wiki/Grimes "wikilink")《love4eva》<span data-segmentid="61" class="cx-segment">\[1\]</span>，共收錄五首歌。

@@ -4,7 +4,7 @@ DOME**》（）是日本女子[偶像組合](https://zh.wikipedia.org/wiki/日�
 
 ## 概要
 
-2017年7月2日，乃木坂46在[明治神宮棒球場舉行的演唱會中宣佈於東京巨蛋舉行為期兩日的演唱會](../Page/明治神宮棒球場.md "wikilink")，這是乃木坂46首次在東京巨蛋舉行演唱會，與「官方對手」[AKB48出道第](../Page/AKB48.md "wikilink")7年登上東京巨蛋相比要再早一年，而在這之前的三年內，日本的女藝人中只有AKB48、[μ’s](https://zh.wikipedia.org/wiki/μ’s "wikilink")、[BABYMETAL](../Page/BABYMETAL.md "wikilink")、[水樹奈奈和](../Page/水樹奈奈.md "wikilink")[西野加奈曾經在東京巨蛋舉行演唱會](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")\[1\]。11月7日，演唱會舉行期間發生了意外，有攝影器材從高處墮下，導致有觀眾受傷，營運對此向公眾謝罪，並且在翌日的公演中棄用該攝影器材\[2\]。兩日的演唱會的門票均即日完售，分別動員了5萬人，共10萬人參與。這場演唱會也是年內[畢業的](../Page/畢業_\(演藝界\).md "wikilink")1期生成員[中元日芽香和](../Page/中元日芽香.md "wikilink")[伊藤萬理華的最後一場演唱會](../Page/伊藤萬理華.md "wikilink")\[3\]。此外，搞笑藝人組合[東方收音機和女演員](../Page/東方收音機.md "wikilink")[足立梨花也有到場觀賞演唱會](https://zh.wikipedia.org/wiki/足立梨花 "wikilink")\[4\]。
+2017年7月2日，乃木坂46在[明治神宮棒球場舉行的演唱會中宣佈於東京巨蛋舉行為期兩日的演唱會](../Page/明治神宮棒球場.md "wikilink")，這是乃木坂46首次在東京巨蛋舉行演唱會，與「官方對手」[AKB48出道第](../Page/AKB48.md "wikilink")7年登上東京巨蛋相比要再早一年，而在這之前的三年內，日本的女藝人中只有AKB48、[μ’s](https://zh.wikipedia.org/wiki/μ’s "wikilink")、[BABYMETAL](../Page/BABYMETAL.md "wikilink")、[水樹奈奈和](../Page/水樹奈奈.md "wikilink")[西野加奈曾經在東京巨蛋舉行演唱會](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")\[1\]。11月7日，演唱會舉行期間發生了意外，有攝影器材從高處墮下，導致有觀眾受傷，營運對此向公眾謝罪，並且在翌日的公演中棄用該攝影器材\[2\]。兩日的演唱會的門票均即日完售，分別動員了5萬人，共10萬人參與。這場演唱會也是年內[畢業的](../Page/畢業_\(演藝界\).md "wikilink")1期生成員[中元日芽香和](../Page/中元日芽香.md "wikilink")[伊藤萬理華的最後一場演唱會](../Page/伊藤萬理華.md "wikilink")\[3\]。此外，搞笑藝人組合[東方收音機和女演員](../Page/東方收音機.md "wikilink")[足立梨花也有到場觀賞演唱會](../Page/足立梨花.md "wikilink")\[4\]。
 
 2018年6月5日，乃木坂46宣佈替演唱會推出Blu-ray和DVD，其中「完全生產限定盤」中收錄了影片「Making of Live in
 東京巨蛋」和「DAY2

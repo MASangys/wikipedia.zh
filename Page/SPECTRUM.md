@@ -21,7 +21,7 @@
 Dongkyu及Hwarang已完成兵役。
 
 2017年10月，Jaehan以MMO娛樂練習生身份參與《[PRODUCE 101
-第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")》，最終排名第81名，未能透過節目出道。
+第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，最終排名第81名，未能透過節目出道。
 
 2017年10月，Dongyoon以WYNN練習生身份參與《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，最終排名第21名，未能透過節目出道。
 

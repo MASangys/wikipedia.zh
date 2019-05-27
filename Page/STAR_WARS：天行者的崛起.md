@@ -1,6 +1,6 @@
 《**STAR
 WARS：天行者的崛起**》（），也通稱作《**星際大戰九部曲：天行者的崛起**》（）是一部預定於2019年上映的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[史詩](https://zh.wikipedia.org/wiki/史詩片 "wikilink")[太空歌劇](../Page/太空歌劇.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，由[J·J·亞柏拉罕執導](https://zh.wikipedia.org/wiki/J·J·亞柏拉罕 "wikilink")，劇本由亞柏拉罕與[克里斯·泰瑞歐共同編寫](https://zh.wikipedia.org/wiki/克里斯·泰瑞歐 "wikilink")。本片是「」的第三和最後一部作品，同時是《星際大戰》系列電影的第九部作品和2017年電影《[STAR
-WARS：最後的絕地武士](../Page/STAR_WARS：最後的絕地武士.md "wikilink")》的續集。電影由[盧卡斯影業和](https://zh.wikipedia.org/wiki/盧卡斯影業 "wikilink")[壞機器人製片公司製作](https://zh.wikipedia.org/wiki/壞機器人製片公司 "wikilink")，[華特迪士尼工作室電影負責發行](https://zh.wikipedia.org/wiki/華特迪士尼工作室電影 "wikilink")。主演包括[黛西·蕾德莉](../Page/黛西·蕾德莉.md "wikilink")、[亞當·崔佛](https://zh.wikipedia.org/wiki/亞當·崔佛 "wikilink")、[約翰·波耶加](../Page/約翰·波耶加.md "wikilink")、[奧斯卡·伊薩克](https://zh.wikipedia.org/wiki/奧斯卡·伊薩克 "wikilink")、[露琵塔·尼詠歐](https://zh.wikipedia.org/wiki/露琵塔·尼詠歐 "wikilink")、[多姆納爾·格里森](../Page/多姆納爾·格里森.md "wikilink")、、、[比莉·盧德](https://zh.wikipedia.org/wiki/比莉·盧德 "wikilink")、、[理查·E·格蘭特](../Page/理查·E·格蘭特.md "wikilink")、[凱莉·羅素](../Page/凱莉·羅素.md "wikilink")、[馬克·漢米爾](../Page/馬克·漢米爾.md "wikilink")、、、[嘉莉·費雪和](../Page/嘉莉·費雪.md "wikilink")。
+WARS：最後的絕地武士](../Page/STAR_WARS：最後的絕地武士.md "wikilink")》的續集。電影由[盧卡斯影業和](https://zh.wikipedia.org/wiki/盧卡斯影業 "wikilink")[壞機器人製片公司製作](https://zh.wikipedia.org/wiki/壞機器人製片公司 "wikilink")，[華特迪士尼工作室電影負責發行](../Page/華特迪士尼工作室電影.md "wikilink")。主演包括[黛西·蕾德莉](../Page/黛西·蕾德莉.md "wikilink")、[亞當·崔佛](../Page/亞當·崔佛.md "wikilink")、[約翰·波耶加](../Page/約翰·波耶加.md "wikilink")、[奧斯卡·伊薩克](https://zh.wikipedia.org/wiki/奧斯卡·伊薩克 "wikilink")、[露琵塔·尼詠歐](https://zh.wikipedia.org/wiki/露琵塔·尼詠歐 "wikilink")、[多姆納爾·格里森](../Page/多姆納爾·格里森.md "wikilink")、、、[比莉·盧德](https://zh.wikipedia.org/wiki/比莉·盧德 "wikilink")、、[理查·E·格蘭特](../Page/理查·E·格蘭特.md "wikilink")、[凱莉·羅素](../Page/凱莉·羅素.md "wikilink")、[馬克·漢米爾](../Page/馬克·漢米爾.md "wikilink")、、、[嘉莉·費雪和](../Page/嘉莉·費雪.md "wikilink")。
 
 [華特迪士尼公司於](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")2012年收購盧卡斯影業後，同時宣佈了《星際大戰》後傳三部曲電影的計劃。2015年8月，宣佈[柯林·崔佛洛擔任電影導演](https://zh.wikipedia.org/wiki/柯林·崔佛洛 "wikilink")。2017年9月，崔佛洛宣佈退出製作，稍後宣佈亞柏拉罕執導電影。[主體拍攝於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2018年8月初在[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")進行。電影定於2019年12月20日在美國上映。
 
@@ -13,7 +13,7 @@ WARS：最後的絕地武士](../Page/STAR_WARS：最後的絕地武士.md "wiki
   - [黛西·蕾德莉](../Page/黛西·蕾德莉.md "wikilink") 飾
     [芮](https://zh.wikipedia.org/wiki/芮_\(星際大戰\) "wikilink")（Rey）\[1\]
 
-  - [亞當·崔佛](https://zh.wikipedia.org/wiki/亞當·崔佛 "wikilink") 飾
+  - [亞當·崔佛](../Page/亞當·崔佛.md "wikilink") 飾
     [凱羅·忍](../Page/凱羅·忍.md "wikilink")（Kylo Ren）\[2\]
 
   - [約翰·波耶加](../Page/約翰·波耶加.md "wikilink") 飾

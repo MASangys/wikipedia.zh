@@ -1,6 +1,6 @@
-**阿波羅**（）是一名旗下的虛構[超級英雄](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，後來納入[DC漫畫旗下](../Page/DC漫畫.md "wikilink")。該角最初登場於《》第二卷\#4（1998年2月），由[華倫·艾利斯和](https://zh.wikipedia.org/wiki/華倫·艾利斯 "wikilink")創作。除了漫畫《風暴守衛》外，阿波羅較著名的是《》中的主要角色之一，角色原型取自DC的[超人](../Page/超人.md "wikilink")。
+**阿波羅**（）是一名旗下的虛構[超級英雄](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，後來納入[DC漫畫旗下](../Page/DC漫畫.md "wikilink")。該角最初登場於《》第二卷\#4（1998年2月），由[華倫·艾利斯和](../Page/華倫·艾利斯.md "wikilink")創作。除了漫畫《風暴守衛》外，阿波羅較著名的是《》中的主要角色之一，角色原型取自DC的[超人](../Page/超人.md "wikilink")。
 
-雖然比[漫威漫畫的](../Page/漫威漫畫.md "wikilink")晚了數年，但阿波羅仍被認為是印刷品中最早[出櫃的](../Page/出櫃.md "wikilink")[同性戀超級英雄之一](../Page/同性戀.md "wikilink")\[1\]。在故事中，他與同為權力戰隊的伴侶[午夜戰士結婚並領養了](../Page/午夜戰士.md "wikilink")。阿波羅與午夜戰士也一同登場於由六期話數所組成的[DC宇宙：重生迷你系列](https://zh.wikipedia.org/wiki/DC宇宙：重生 "wikilink")《》中\[2\]\[3\]。
+雖然比[漫威漫畫的](../Page/漫威漫畫.md "wikilink")晚了數年，但阿波羅仍被認為是印刷品中最早[出櫃的](../Page/出櫃.md "wikilink")[同性戀超級英雄之一](../Page/同性戀.md "wikilink")\[1\]。在故事中，他與同為權力戰隊的伴侶[午夜戰士結婚並領養了](../Page/午夜戰士.md "wikilink")。阿波羅與午夜戰士也一同登場於由六期話數所組成的[DC宇宙：重生迷你系列](../Page/DC宇宙：重生.md "wikilink")《》中\[2\]\[3\]。
 
 ## 參考文獻
 

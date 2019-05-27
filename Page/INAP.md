@@ -14,7 +14,7 @@ Set 1，简称CS-1）开始\[2\]。智能网的一个典型应用就是号码翻
 Capabilities Application
 Part，简称TCAP）、[信令连接和控制部分](https://zh.wikipedia.org/wiki/信令连接和控制部分 "wikilink")（Signaling
 Connection and Control
-Part，简称SCCP）以及INAP。在IN术语中，这样的交换机被称为“[业务交换点](https://zh.wikipedia.org/wiki/业务交换点 "wikilink")”（Service
+Part，简称SCCP）以及INAP。在IN术语中，这样的交换机被称为“[业务交换点](../Page/业务交换点.md "wikilink")”（Service
 Switching
 Point，简称SSP）。SSP会向[SCP发送一个INAP中的](https://zh.wikipedia.org/wiki/业务控制点 "wikilink")“[初始检测点](https://zh.wikipedia.org/wiki/初始检测点 "wikilink")”（Initial
 Detection Point，简称IDP）消息。SCP返回一个INAP连接消息，这个消息中包含了需要将该呼叫前传到的地理区域号码。

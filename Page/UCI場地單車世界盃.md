@@ -224,7 +224,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年至2019年UCI場地單車世界盃" title="wikilink">2018–19</a></p></td>
+<td><p><a href="../Page/2018年至2019年UCI場地單車世界盃.md" title="wikilink">2018–19</a></p></td>
 <td><p>6</p></td>
 <td></td>
 </tr>

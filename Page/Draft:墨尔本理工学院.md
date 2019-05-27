@@ -505,16 +505,16 @@ Epping校园是家庭获奖的课程在牛、山羊、绵羊和粮食生产。
 该建筑建于2010年十一月和功能 [的绿色建筑](../Page/綠色建築.md "wikilink") 设计；可再生能源来源，包括
 [地热泵](../Page/地源熱泵系統.md "wikilink") 供暖和冷却和
 [太阳能电池板](../Page/光伏模組.md "wikilink") (25 千瓦)；以
-[雨水收集](https://zh.wikipedia.org/wiki/雨水撲滿 "wikilink") 和回收利用；
-青混凝土 低水泥的内容；以及 [森林管理理事会](../Page/森林管理委员会.md "wikilink")
-(林管会)的木材。 第八十%的建筑废料被再循环。\[76\] 该建筑有一个 绿色建筑理事会澳大利亚 *绿星*
+[雨水收集](../Page/雨水撲滿.md "wikilink") 和回收利用； 青混凝土 低水泥的内容；以及
+[森林管理理事会](../Page/森林管理委员会.md "wikilink") (林管会)的木材。
+第八十%的建筑废料被再循环。\[76\] 该建筑有一个 绿色建筑理事会澳大利亚 *绿星*
 评级5，标志着'澳大利亚的卓越的'可持续建筑设计。
 该建筑是用于一系列的课程教学的可持续做法和技术，包括在"[碳交易中](../Page/碳交易.md "wikilink")，
 [太阳能发电](https://zh.wikipedia.org/wiki/太陽能發電 "wikilink") 和
 [太阳能热水中](https://zh.wikipedia.org/wiki/太陽能熱水器 "wikilink")，
 [风力发电](https://zh.wikipedia.org/wiki/風能 "wikilink") 产生，
 [地热交换冷暖](../Page/地源熱泵系統.md "wikilink"), blackwater 和 灰水 处理、
-[雨水收集的](https://zh.wikipedia.org/wiki/雨水撲滿 "wikilink")，
+[雨水收集的](../Page/雨水撲滿.md "wikilink")，
 [废物管理](https://zh.wikipedia.org/wiki/污染物排放控制技术 "wikilink") 和
 [废物回收利用](../Page/資源回收.md "wikilink")，以
 [水资源](../Page/水资源.md "wikilink") 管理的为园艺业、农业和园艺土地养护。"\[77\]

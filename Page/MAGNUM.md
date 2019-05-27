@@ -1,6 +1,5 @@
 **MAGNUM**\[1\]（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂透過出道生存節目](../Page/YG娛樂.md "wikilink")《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》組成新男團[TREASURE後](../Page/Treasure_\(組合\).md "wikilink")，再次推出的第二組[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，最終成員是朴志焄、Yoshinori、河潤彬、Mashiho、Asahi、金道榮。\[2\]與[TREASURE合體活動時稱為](../Page/Treasure_\(組合\).md "wikilink")[TREASURE
-13](https://zh.wikipedia.org/wiki/TREASURE_13 "wikilink")，三隊共用的官方粉絲名為TREASURE
-MAKER。\[3\]
+13](../Page/TREASURE_13.md "wikilink")，三隊共用的官方粉絲名為TREASURE MAKER。\[3\]
 
 ## 團名由來
 

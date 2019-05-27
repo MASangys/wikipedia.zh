@@ -1,6 +1,6 @@
 [Arctur-1_HPC.JPG](https://zh.wikipedia.org/wiki/File:Arctur-1_HPC.JPG "fig:Arctur-1_HPC.JPG")
 
-**Arctur-1**是位於[斯洛維尼亞](https://zh.wikipedia.org/wiki/斯洛維尼亞 "wikilink")的[超級電腦](https://zh.wikipedia.org/wiki/超級電腦 "wikilink")，用於技術密集產業與研究中，於2010年10月投入運營。於2017年被[Arctur-2所取代](https://zh.wikipedia.org/wiki/Arctur-2 "wikilink")。
+**Arctur-1**是位於[斯洛維尼亞](https://zh.wikipedia.org/wiki/斯洛維尼亞 "wikilink")的[超級電腦](https://zh.wikipedia.org/wiki/超級電腦 "wikilink")，用於技術密集產業與研究中，於2010年10月投入運營。於2017年被[Arctur-2所取代](../Page/Arctur-2.md "wikilink")。
 
 Arctur-1由84個[IBM iDataPlex dx360
 M3節點構建](../Page/IBM_X系列伺服器.md "wikilink")，每個節點具有兩個[Intel

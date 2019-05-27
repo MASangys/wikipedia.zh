@@ -9,7 +9,7 @@
 在舞台表演的时候多采用[乐队形式](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")，这在其他小杰尼斯组合里很少见到。对此，萩谷慧悟表示“这不是一支乐队组合，而是一种武器”。\[6\]\[7\]
 此外，森田美勇人的舞蹈、真田佑马的舞台剧、萩谷慧悟的乐器、安井谦太郎的主持都在各自领域内表现优秀，他们都有着各自的坚持。\[8\]
 
-於2018年11月30日，收費網站「傑尼斯Jr.情報局」公報[真田佑馬](https://zh.wikipedia.org/wiki/真田佑馬 "wikilink")、[諸星翔希](https://zh.wikipedia.org/wiki/諸星翔希 "wikilink")、[萩谷慧悟](../Page/萩谷慧悟.md "wikilink")、[阿部顯嵐及](https://zh.wikipedia.org/wiki/阿部顯嵐 "wikilink")[長妻怜央即日退社](https://zh.wikipedia.org/wiki/長妻怜央 "wikilink")、[森田美勇人於同年](https://zh.wikipedia.org/wiki/森田美勇人 "wikilink")12月31日亦會離開、而[安井谦太郎將於](https://zh.wikipedia.org/wiki/安井谦太郎 "wikilink")2019年3月31日退出。
+於2018年11月30日，收費網站「傑尼斯Jr.情報局」公報[真田佑馬](https://zh.wikipedia.org/wiki/真田佑馬 "wikilink")、[諸星翔希](https://zh.wikipedia.org/wiki/諸星翔希 "wikilink")、[萩谷慧悟](../Page/萩谷慧悟.md "wikilink")、[阿部顯嵐及](../Page/阿部顯嵐.md "wikilink")[長妻怜央即日退社](https://zh.wikipedia.org/wiki/長妻怜央 "wikilink")、[森田美勇人於同年](https://zh.wikipedia.org/wiki/森田美勇人 "wikilink")12月31日亦會離開、而[安井谦太郎將於](https://zh.wikipedia.org/wiki/安井谦太郎 "wikilink")2019年3月31日退出。
 除了[安井谦太郎將於今年](https://zh.wikipedia.org/wiki/安井谦太郎 "wikilink")3月31日退社，其他人現時已離開傑尼斯事務所。
 
 ## 组合成员

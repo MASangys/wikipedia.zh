@@ -14,7 +14,7 @@ Quick-Serve,
 
 ## 内容
 
-不同于主打罐头食品的[MCI口粮](../Page/MCI口粮.md "wikilink")，LRP口粮的主体是[真空包裝的](https://zh.wikipedia.org/wiki/真空包裝 "wikilink")[冻干脱水食品](../Page/冷凍乾燥.md "wikilink")。即先将菜品低温速冻，直至其中的水分凝结成冰粒，再将其置于真空器中，使冰粒[升华为水蒸气](../Page/升华.md "wikilink")，最后加压压缩。这样可以只去除食物中的水分，减少50%至80%的重量，同时保留原有的形状和风味\[9\]。LRP口粮是美国陆军第一种全面采用软包装的\[10\]：[主菜统一装在一个透明](https://zh.wikipedia.org/wiki/主菜 "wikilink")[聚乙烯胶袋内](../Page/聚乙烯.md "wikilink")，兼作加水复原用。胶袋外侧是一层[聚酯材质的防水包](../Page/聚酯.md "wikilink")，包裹内侧衬有[聚烯烃](https://zh.wikipedia.org/wiki/聚烯烃 "wikilink")-[铝箔涂层](https://zh.wikipedia.org/wiki/铝箔纸 "wikilink")。所有单元装于涂有伪装色的塑胶外包装中。LRP的耐储性优于当时其他包装口粮。即使在摄氏38度高温下存放三年，品质损耗也微乎其微。\[11\]
+不同于主打罐头食品的[MCI口粮](../Page/MCI口粮.md "wikilink")，LRP口粮的主体是[真空包裝的](../Page/真空包裝.md "wikilink")[冻干脱水食品](../Page/冷凍乾燥.md "wikilink")。即先将菜品低温速冻，直至其中的水分凝结成冰粒，再将其置于真空器中，使冰粒[升华为水蒸气](../Page/升华.md "wikilink")，最后加压压缩。这样可以只去除食物中的水分，减少50%至80%的重量，同时保留原有的形状和风味\[9\]。LRP口粮是美国陆军第一种全面采用软包装的\[10\]：[主菜统一装在一个透明](../Page/主菜.md "wikilink")[聚乙烯胶袋内](../Page/聚乙烯.md "wikilink")，兼作加水复原用。胶袋外侧是一层[聚酯材质的防水包](../Page/聚酯.md "wikilink")，包裹内侧衬有[聚烯烃](https://zh.wikipedia.org/wiki/聚烯烃 "wikilink")-[铝箔涂层](https://zh.wikipedia.org/wiki/铝箔纸 "wikilink")。所有单元装于涂有伪装色的塑胶外包装中。LRP的耐储性优于当时其他包装口粮。即使在摄氏38度高温下存放三年，品质损耗也微乎其微。\[11\]
 
 延续从C口粮到MCI传承下来的惯例，LRP口粮内也附有一个附件包，内含[砂糖](https://zh.wikipedia.org/wiki/砂糖 "wikilink")、[奶精](https://zh.wikipedia.org/wiki/奶精 "wikilink")、两份[速溶咖啡](https://zh.wikipedia.org/wiki/速溶咖啡 "wikilink")，以及[防水火柴](../Page/火柴.md "wikilink")、[衛生紙和一支塑料](../Page/衛生紙.md "wikilink")[勺子](https://zh.wikipedia.org/wiki/勺子 "wikilink")，所占空间很小。菜单也相对简单，每份口粮仅包含一道主菜、一份糕点或谷物棒，满足士兵一餐的营养需要。LRP的主菜共有8种菜色可选，依次为：\[12\]
 

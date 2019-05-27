@@ -21,7 +21,7 @@
 
   - **需要提升至典範條目的水準：**
   - **需要協作：**
-  - **需要擴充：**[愛荷華州](https://zh.wikipedia.org/wiki/愛荷華州 "wikilink")，[德梅因](../Page/德梅因.md "wikilink")，[安克尼](https://zh.wikipedia.org/wiki/安克尼_\(愛荷華州\) "wikilink")
+  - **需要擴充：**[愛荷華州](https://zh.wikipedia.org/wiki/愛荷華州 "wikilink")，[德梅因](../Page/德梅因.md "wikilink")，[安克尼](../Page/安克尼_\(愛荷華州\).md "wikilink")
 
 <!-- end list -->
 

@@ -26,11 +26,9 @@ RGA-86預定被警察、警備的單位和分隊使用。
 
 ## 參見
 
-  - [Kbkg wz.
-    1960槍榴彈發射步槍](https://zh.wikipedia.org/wiki/Kbkg_wz._1960槍榴彈發射步槍 "wikilink")
+  - [Kbkg wz. 1960槍榴彈發射步槍](../Page/Kbkg_wz._1960槍榴彈發射步槍.md "wikilink")
 
-  - [Wz.
-    1974鈀式附加型榴彈發射器](https://zh.wikipedia.org/wiki/Wz._1974鈀式附加型榴彈發射器 "wikilink")
+  - [Wz. 1974鈀式附加型榴彈發射器](../Page/Wz._1974鈀式附加型榴彈發射器.md "wikilink")
 
   - [RGP-40轉輪式榴彈發射器](../Page/RGP-40轉輪式榴彈發射器.md "wikilink")
 
@@ -64,7 +62,7 @@ RGA-86預定被警察、警備的單位和分隊使用。
   - [CZW
     RAG-30自動榴彈發射器](https://zh.wikipedia.org/wiki/CZW_RAG-30自動榴彈發射器 "wikilink")
 
-  - [丹尼爾PAW-20半自動榴彈發射器](https://zh.wikipedia.org/wiki/丹尼爾PAW-20半自動榴彈發射器 "wikilink")
+  - [丹尼爾PAW-20半自動榴彈發射器](../Page/丹尼爾PAW-20半自動榴彈發射器.md "wikilink")
 
   - [XM25反防禦目標應對系統](../Page/XM25反防禦目標應對系統.md "wikilink")
 

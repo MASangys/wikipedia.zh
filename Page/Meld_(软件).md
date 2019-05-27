@@ -18,7 +18,7 @@ Meld 3.18.0的要求如下:
 ## 另请参阅
 
   - 文件比较工具的比较
-  - [Kompare](https://zh.wikipedia.org/wiki/Kompare "wikilink")
+  - [Kompare](../Page/Kompare.md "wikilink")
 
 ## 参考文献
 

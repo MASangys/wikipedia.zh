@@ -5,7 +5,7 @@
 Behance的会员可以关注他人的个人档案。关注后，被关注者的状态更新（如上传作品、欣赏作品及添加到收藏）将会显示在为您展示（For
 You）页面。
 
-诸如[領英](../Page/領英.md "wikilink")、[AIGA](../Page/美國平面設計協會.md "wikilink")、及的企业和类似[藝術中心設計學院](https://zh.wikipedia.org/wiki/藝術中心設計學院 "wikilink")、[羅德島設計學院](../Page/羅德島設計學院.md "wikilink")（RISD）、[视觉艺术学院](../Page/視覺藝術學院_\(紐約\).md "wikilink")（SVA）、[萨凡纳艺术设计学院](../Page/薩凡納藝術設計學院.md "wikilink")（SCAD）和[馬里蘭藝術學院](../Page/馬里蘭藝術學院.md "wikilink")（MICA）均使用此服务。\[3\]
+诸如[領英](../Page/領英.md "wikilink")、[AIGA](../Page/美國平面設計協會.md "wikilink")、及的企业和类似[藝術中心設計學院](../Page/藝術中心設計學院.md "wikilink")、[羅德島設計學院](../Page/羅德島設計學院.md "wikilink")（RISD）、[视觉艺术学院](../Page/視覺藝術學院_\(紐約\).md "wikilink")（SVA）、[萨凡纳艺术设计学院](../Page/薩凡納藝術設計學院.md "wikilink")（SCAD）和[馬里蘭藝術學院](../Page/馬里蘭藝術學院.md "wikilink")（MICA）均使用此服务。\[3\]
 
 ## ProSite
 

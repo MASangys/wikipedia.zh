@@ -35,7 +35,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">續18年</a><br />
 27/12-<br />
 17/01</p></td>
 <td style="text-align: center;"><p><a href="../Page/獨酒男女.md" title="wikilink">獨酒男女</a><br />
@@ -66,11 +66,11 @@ On the Way to the Airport</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>12/02-<br />
 07/03</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/內向的老闆" title="wikilink">內向的老闆</a><br />
+<td style="text-align: center;"><p><a href="../Page/內向的老闆.md" title="wikilink">內向的老闆</a><br />
 My Shy Boss</p></td>
 <td style="text-align: center;"><p>18</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2017年)" title="wikilink">2017年now觀星台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2017年).md" title="wikilink">2017年now觀星台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>），於<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台首播時不設粵語配音</a></p></td>
 <td style="text-align: center;"></td>
@@ -80,11 +80,11 @@ My Shy Boss</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>08/03-<br />
 01/04</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/河伯的新娘_2017" title="wikilink">河伯的新娘 2017</a><br />
+<td style="text-align: center;"><p><a href="../Page/河伯的新娘_2017.md" title="wikilink">河伯的新娘 2017</a><br />
 The Bride of Habaek</p></td>
 <td style="text-align: center;"><p>17</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2017年)" title="wikilink">2017年now劇集台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2017年).md" title="wikilink">2017年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>）</p></td>
 <td style="text-align: center;"></td>
@@ -94,11 +94,11 @@ The Bride of Habaek</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>02/04-<br />
 03/05</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/七日的王妃" title="wikilink">七日的王妃</a><br />
+<td style="text-align: center;"><p><a href="../Page/七日的王妃.md" title="wikilink">七日的王妃</a><br />
 Queen for Seven Days</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2017年)" title="wikilink">2017年now劇集台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2017年).md" title="wikilink">2017年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a>），4月5日、19日、22日及5月1日暫停播映</p></td>
 <td style="text-align: center;"></td>
@@ -112,7 +112,7 @@ Queen for Seven Days</p></td>
 Innocent Defendant</p></td>
 <td style="text-align: center;"><p>17</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2017年)" title="wikilink">2017年now觀星台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2017年).md" title="wikilink">2017年now觀星台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a>），於<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台首播時不設粵語配音</a>，5月13日暫停播映</p></td>
 <td style="text-align: center;"></td>
@@ -126,7 +126,7 @@ Innocent Defendant</p></td>
 Whisper</p></td>
 <td style="text-align: center;"><p>18</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2018年)" title="wikilink">2018年now劇集台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a>）</p></td>
 <td style="text-align: center;"></td>
@@ -169,10 +169,10 @@ Whisper</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">續18年</a><br />
 05/12-<br />
 14/06</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/扶摇" title="wikilink">扶摇</a><br />
+<td style="text-align: center;"><p><a href="../Page/扶摇.md" title="wikilink">扶摇</a><br />
 Legend of Fu Yao</p></td>
 <td style="text-align: center;"><p>132</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/楊冪" title="wikilink">楊　冪</a>、<a href="../Page/阮經天.md" title="wikilink">阮經天</a>、<a href="../Page/劉奕君.md" title="wikilink">劉奕君</a>、<a href="https://zh.wikipedia.org/wiki/高偉光" title="wikilink">高偉光</a></p></td>
@@ -182,8 +182,8 @@ Legend of Fu Yao</p></td>
 尾：一爱难求（<a href="../Page/徐佳瑩.md" title="wikilink">徐佳瑩</a>）<br />
 插：繁华梦（<a href="../Page/黄龄.md" title="wikilink">黄龄</a>）<br />
 插：窗（<a href="https://zh.wikipedia.org/wiki/吳青峰" title="wikilink">吳青峰</a>）<br />
-插：血如墨（<a href="https://zh.wikipedia.org/wiki/张碧晨" title="wikilink">张碧晨</a>）<br />
-插：傲红尘（<a href="https://zh.wikipedia.org/wiki/尤长靖" title="wikilink">尤长靖</a>）<br />
+插：血如墨（<a href="../Page/张碧晨.md" title="wikilink">张碧晨</a>）<br />
+插：傲红尘（<a href="../Page/尤长靖.md" title="wikilink">尤长靖</a>）<br />
 插：少年（<a href="https://zh.wikipedia.org/wiki/孙郡" title="wikilink">孙郡</a>）</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/中國.md" title="wikilink">中國上海檸萌影視傳媒有限公司</a>），1月10日早上重播時段改為10:00-10:30，1月25日、2月6日、27日及4月12日暫停播映，2月5日、6日及5月13日早上重播時段改為09:30-10:00，3月5日、4月5日、19日、22日、5月1日及9日暫停早上重播時段</p></td>
 </tr>
@@ -221,14 +221,14 @@ Legend of Fu Yao</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">續18年</a><br />
 13/12-<br />
 11/01</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Misty" title="wikilink">謎霧殺機</a><br />
+<td style="text-align: center;"><p><a href="../Page/Misty.md" title="wikilink">謎霧殺機</a><br />
 Misty</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2018年)" title="wikilink">2018年now劇集台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/now劇集台" title="wikilink">now劇集台播出時名為</a>《Misty》<br />
 外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>），1月1日暫停播映</p></td>
@@ -239,11 +239,11 @@ Misty</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>14/01-<br />
 11/02</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/推理的女王2" title="wikilink">推理的女王2</a><br />
+<td style="text-align: center;"><p><a href="../Page/推理的女王2.md" title="wikilink">推理的女王2</a><br />
 Queen Of Mystery 2</p></td>
 <td style="text-align: center;"><p>18</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2018年)" title="wikilink">2018年now劇集台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a>），2月5日至7日暫停播映</p></td>
 <td style="text-align: center;"></td>
@@ -253,7 +253,7 @@ Queen Of Mystery 2</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>12/02-<br />
 07/03</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/不是機器人啊" title="wikilink">我不是機械人</a><br />
+<td style="text-align: center;"><p><a href="../Page/不是機器人啊.md" title="wikilink">我不是機械人</a><br />
 I'm Not a Robot</p></td>
 <td style="text-align: center;"><p>18</p></td>
 <td style="text-align: center;"><p><a href="../Page/俞承豪.md" title="wikilink">俞承豪</a>、<a href="../Page/蔡秀彬.md" title="wikilink">蔡秀彬</a>、<a href="../Page/嚴基俊.md" title="wikilink">嚴基俊</a></p></td>
@@ -265,7 +265,7 @@ I'm Not a Robot</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>08/03-<br />
 01/04</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/檢法男女" title="wikilink">檢法男女</a><br />
+<td style="text-align: center;"><p><a href="../Page/檢法男女.md" title="wikilink">檢法男女</a><br />
 Partners for Justice</p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/鄭在詠.md" title="wikilink">鄭在詠</a>、<a href="../Page/鄭柔美.md" title="wikilink">鄭柔美</a>、<a href="../Page/李伊庚.md" title="wikilink">李伊庚</a>、、<a href="https://zh.wikipedia.org/wiki/史蒂芬妮·李" title="wikilink">史蒂芬妮·李</a></p></td>
@@ -277,11 +277,11 @@ Partners for Justice</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>02/04-<br />
 26/04</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Sketch_(韓國電視劇)" title="wikilink">72小時素描追兇</a><br />
+<td style="text-align: center;"><p><a href="../Page/Sketch_(韓國電視劇).md" title="wikilink">72小時素描追兇</a><br />
 Sketch</p></td>
 <td style="text-align: center;"><p>19</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2018年)" title="wikilink">2018年now劇集台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/now劇集台" title="wikilink">now劇集台播出時名為</a>《Sketch》<br />
 外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>）</p></td>
@@ -292,11 +292,11 @@ Sketch</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>29/04-<br />
 27/05</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Suits_(韓國電視劇)" title="wikilink">金裝律師</a><br />
+<td style="text-align: center;"><p><a href="../Page/Suits_(韓國電視劇).md" title="wikilink">金裝律師</a><br />
 Suits</p></td>
 <td style="text-align: center;"><p>21</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2018年)" title="wikilink">2018年now劇集台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a>）</p></td>
 <td style="text-align: center;"></td>
@@ -306,10 +306,10 @@ Suits</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>28/05-<br />
 25/06</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/我身後的陶斯" title="wikilink">我身後的陶斯</a><br />
+<td style="text-align: center;"><p><a href="../Page/我身後的陶斯.md" title="wikilink">我身後的陶斯</a><br />
 My Secret, Terrius</p></td>
 <td style="text-align: center;"><p>21</p></td>
-<td style="text-align: center;"><p><a href="../Page/蘇志燮.md" title="wikilink">蘇志燮</a>、<a href="https://zh.wikipedia.org/wiki/鄭仁仙" title="wikilink">鄭仁仙</a>、<a href="https://zh.wikipedia.org/wiki/孫浩俊" title="wikilink">孫浩俊</a>、<a href="../Page/林世美.md" title="wikilink">林世美</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/蘇志燮.md" title="wikilink">蘇志燮</a>、<a href="../Page/鄭仁仙.md" title="wikilink">鄭仁仙</a>、<a href="https://zh.wikipedia.org/wiki/孫浩俊" title="wikilink">孫浩俊</a>、<a href="../Page/林世美.md" title="wikilink">林世美</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -349,7 +349,7 @@ My Secret, Terrius</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">續18年</a><br />
 24/12-<br />
 05/01</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/做演藝嘅" title="wikilink">做演藝嘅</a><br />
@@ -383,7 +383,7 @@ Till Death Do Us Part</p></td>
 <td style="text-align: center;"><p><br />
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p><a href="../Page/周國賢.md" title="wikilink">周國賢</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、、<a href="../Page/吳浩康.md" title="wikilink">吳浩康</a>、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/周國賢.md" title="wikilink">周國賢</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、、<a href="../Page/吳浩康.md" title="wikilink">吳浩康</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
 <td style="text-align: center;"><p>周國賢</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -476,11 +476,11 @@ Psycho Detective 2</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>02/04-<br />
 25/04</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/詭探" title="wikilink">詭探</a><br />
+<td style="text-align: center;"><p><a href="../Page/詭探.md" title="wikilink">詭探</a><br />
 Psycho Detective</p></td>
 <td style="text-align: center;"><p>30</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2017年)" title="wikilink">2017年ViuTV劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">2017年ViuTV劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>每次播映兩集</strong></p></td>
 <td style="text-align: center;"></td>
@@ -521,7 +521,7 @@ Psycho Detective</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">續18年</a><br />
 21/12-<br />
 19/02</p></td>
 <td style="text-align: center;"><p><a href="../Page/請回答1988.md" title="wikilink">回答吧！1988</a><br />
@@ -584,7 +584,7 @@ Bring it on, Ghost</p></td>
 W–Two Worlds</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2017年)" title="wikilink">2017年ViuTV劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">2017年ViuTV劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>）</p></td>
 <td style="text-align: center;"></td>
@@ -625,7 +625,7 @@ W–Two Worlds</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">續18年</a><br />
 20/10-<br />
 26/01</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/滾石愛情故事" title="wikilink">滾石愛情故事</a><br />
@@ -676,7 +676,7 @@ Rock Love Story</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">續18年</a><br />
 04/08-<br />
 09/02</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/九家之書" title="wikilink">九家之書</a><br />
@@ -693,11 +693,11 @@ Gu Family</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>25/05-<br />
 10/08</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Single_Wife" title="wikilink">單親妻</a><br />
+<td style="text-align: center;"><p><a href="../Page/Single_Wife.md" title="wikilink">單親妻</a><br />
 Single Wife</p></td>
 <td style="text-align: center;"><p>12</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">2018年ViuTV劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a>）</p></td>
 <td style="text-align: center;"></td>
@@ -740,14 +740,14 @@ Single Wife</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">續18年</a><br />
 16/12-<br />
 17/02</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/CRISIS_公安機動搜查隊特搜班" title="wikilink">CRISIS</a><br />
 CRISIS</p></td>
 <td style="text-align: center;"><p>10</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2017年)" title="wikilink">2017年ViuTV劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">2017年ViuTV劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/關西電視台.md" title="wikilink">關西電視台</a>），1月20日至2月10日改為13:00-14:00播出，2月17日改為12:30-13:45播出</p></td>
 <td style="text-align: center;"></td>
@@ -775,7 +775,7 @@ Wise and Foolish</p></td>
 Kimi wa Pet</p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2017年)" title="wikilink">2017年ViuTV劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">2017年ViuTV劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>）</p></td>
 <td style="text-align: center;"></td>
@@ -818,10 +818,10 @@ Kimi wa Pet</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">續18年</a><br />
 09/12-<br />
 06/01</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/東方華爾街_(電視劇)" title="wikilink">東方華爾街</a><br />
+<td style="text-align: center;"><p><a href="../Page/東方華爾街_(電視劇).md" title="wikilink">東方華爾街</a><br />
 The Trading Floor</p></td>
 <td style="text-align: center;"><p>5</p></td>
 <td style="text-align: center;"><p><a href="../Page/吳鎮宇.md" title="wikilink">吳鎮宇</a>、<a href="../Page/張孝全.md" title="wikilink">張孝全</a>、<a href="../Page/余男.md" title="wikilink">余　男</a>、<br />
@@ -829,7 +829,7 @@ The Trading Floor</p></td>
 <a href="../Page/潘燦良.md" title="wikilink">潘燦良</a>、<a href="../Page/譚耀文.md" title="wikilink">譚耀文</a>、<a href="https://zh.wikipedia.org/wiki/張可頤" title="wikilink">張可頤</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/劉德華.md" title="wikilink">劉德華</a></p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主：東方華爾街主題音樂（<a href="https://zh.wikipedia.org/wiki/韋啟良" title="wikilink">韋啟良作曲</a>）<br />
+<td style="text-align: center;"><p>主：東方華爾街主題音樂（<a href="../Page/韋啟良.md" title="wikilink">韋啟良作曲</a>）<br />
 插：暗湧（<a href="../Page/王菲.md" title="wikilink">王　菲</a>）</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/福斯傳媒集團.md" title="wikilink">福斯傳媒集團</a>），1月6日改為21:30-22:45播出</p></td>
 </tr>
@@ -869,7 +869,7 @@ The Trading Floor</p></td>
 Tokyo Sentimental SP</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2017年)" title="wikilink">2017年ViuTV劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">2017年ViuTV劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>），播映時間為10:30-12:00（1月2日04:30-06:00重播）</p></td>
 <td style="text-align: center;"></td>
@@ -882,7 +882,7 @@ Tokyo Sentimental SP</p></td>
 Neko Samurai: Tamanojo Goes To Edo</p></td>
 <td style="text-align: center;"><p>4</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2017年)" title="wikilink">2017年ViuTV劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">2017年ViuTV劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/神奈川電視台.md" title="wikilink">神奈川電視台</a>），播映時間為13:30-15:30（連續播映四集）</p></td>
 <td style="text-align: center;"></td>
@@ -921,7 +921,7 @@ Wise and Foolish Special</p></td>
 Girl Detective Alisa's Case File</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2017年)" title="wikilink">2017年ViuTV劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">2017年ViuTV劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>），播映時間為02:00-04:15</p></td>
 <td style="text-align: center;"></td>
@@ -934,7 +934,7 @@ Girl Detective Alisa's Case File</p></td>
 The Crow In Broad Daylight</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">2018年ViuTV劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>），播映時間為10:00-12:00</p></td>
 <td style="text-align: center;"></td>
@@ -958,7 +958,7 @@ Detective Story</p></td>
 Heyacho</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">2018年ViuTV劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>），播映時間為10:00-12:00</p></td>
 <td style="text-align: center;"></td>
@@ -982,7 +982,7 @@ Heyacho</p></td>
 Desperate for Love</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">2018年ViuTV劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/讀賣電視台.md" title="wikilink">讀賣電視台</a>），播映時間為04:00-06:00</p></td>
 <td style="text-align: center;"></td>

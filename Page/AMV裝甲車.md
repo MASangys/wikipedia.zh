@@ -37,7 +37,7 @@ Vehicle，AMV），意為模組化裝甲車，為芬蘭研製的多用途輪型�
 
   - ：
 
-      - [波蘭陸軍](https://zh.wikipedia.org/wiki/波蘭陸軍 "wikilink")：波蘭衍生型為**（）
+      - [波蘭陸軍](../Page/波蘭陸軍.md "wikilink")：波蘭衍生型為**（）
         /transl，輪式裝甲運兵車"Wolverine"/或XC-360P，將於2019年交付完成，2013年除了原本訂購359輛步兵戰車型（IFV）和331輛基本型外另外訂購307輛（包含122輛IFV型）\[2\]2013年共有570輛服役\[3\]，2015年1月追加訂購200輛\[4\]。
 
 <!-- end list -->
@@ -110,10 +110,10 @@ Vehicle，AMV），意為模組化裝甲車，為芬蘭研製的多用途輪型�
         (for the [VBCI裝步戰車](../Page/VBCI裝步戰車.md "wikilink")), Patria Oy
         (for the Patria AMV and Patria AMV<sup>XP</sup>, both have been
         demonstrated in the country\[19\]), Rheinmetall Defence AG (for
-        the [拳獅裝甲車](https://zh.wikipedia.org/wiki/拳獅裝甲車 "wikilink")),
-        Textron (a joint offer together with Rheinmetall Defence AG for
-        the [拳獅裝甲車](https://zh.wikipedia.org/wiki/拳獅裝甲車 "wikilink") in
-        the combat role and [Commando
+        the [拳獅裝甲車](../Page/拳獅裝甲車.md "wikilink")), Textron (a joint
+        offer together with Rheinmetall Defence AG for the
+        [拳獅裝甲車](../Page/拳獅裝甲車.md "wikilink") in the combat
+        role and [Commando
         Select](https://zh.wikipedia.org/wiki/Textron_Tactical_Armoured_Patrol_Vehicle "wikilink")
         assembled in Bulgaria in the combat support and combat service
         support roles. Textron also offered its own 6x6 prototype in the
@@ -122,9 +122,8 @@ Vehicle，AMV），意為模組化裝甲車，為芬蘭研製的多用途輪型�
         System (for the [B1
         Centauro](https://zh.wikipedia.org/wiki/B1_Centauro "wikilink")
         in the updated 120mm B2 version) and Krauss-Maffei Wegman GmbH
-        (also for the
-        [拳獅裝甲車](https://zh.wikipedia.org/wiki/拳獅裝甲車 "wikilink")).
-        In the beginning of 2017 the [defence minister in the Gerdzhikov
+        (also for the [拳獅裝甲車](../Page/拳獅裝甲車.md "wikilink")). In the
+        beginning of 2017 the [defence minister in the Gerdzhikov
         caretaker
         government](https://zh.wikipedia.org/wiki/Gerdzhikov_Government "wikilink")
         has decided, that RfI-letters should be sent to 7 additional
@@ -145,10 +144,8 @@ Vehicle，AMV），意為模組化裝甲車，為芬蘭研製的多用途輪型�
 
   -   - [澳大利亞陸軍](../Page/澳大利亞陸軍.md "wikilink")：和“BAE Systems” 參與“Land
         400”為期12個月的Phase
-        2標案並和[拳獅裝甲車競爭](https://zh.wikipedia.org/wiki/拳獅裝甲車 "wikilink")，2018年3月13日宣布Land
-        400 Phase
-        2由[拳獅裝甲車得標](https://zh.wikipedia.org/wiki/拳獅裝甲車 "wikilink")
-        \[22\] \[23\]
+        2標案並和[拳獅裝甲車競爭](../Page/拳獅裝甲車.md "wikilink")，2018年3月13日宣布Land
+        400 Phase 2由[拳獅裝甲車得標](../Page/拳獅裝甲車.md "wikilink") \[22\] \[23\]
 
 ### 評估
 
@@ -169,7 +166,7 @@ Vehicle，AMV），意為模組化裝甲車，為芬蘭研製的多用途輪型�
 <th><p><a href="../Page/BTR-80.md" title="wikilink">BTR-80</a> </p></th>
 <th><p><a href="../Page/VBCI裝步戰車.md" title="wikilink">VBCI裝步戰車</a> </p></th>
 <th><p><a href="../Page/史崔克裝甲車.md" title="wikilink">史崔克裝甲車</a> </p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/AMV裝甲車" title="wikilink">AMV裝甲車</a> </p></th>
+<th><p><a href="../Page/AMV裝甲車.md" title="wikilink">AMV裝甲車</a> </p></th>
 <th><p><a href="../Page/潘德2型裝甲車.md" title="wikilink">潘德2型裝甲車</a> </p></th>
 <th><p><a href="../Page/96式裝甲運兵車.md" title="wikilink">96式裝甲運兵車</a> </p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/AV-81裝甲車" title="wikilink">AV-81裝甲車</a> </p></th>
@@ -265,7 +262,7 @@ Vehicle，AMV），意為模組化裝甲車，為芬蘭研製的多用途輪型�
 <td><p>武装</p></td>
 <td><p><small><a href="../Page/M242巨蝮式鏈炮.md" title="wikilink">M242鏈炮</a><br />
 <a href="https://zh.wikipedia.org/wiki/T-74排用機槍" title="wikilink">T-74排用機槍</a>×2</small>T90重機槍</small></p></td>
-<td><p><small><a href="https://zh.wikipedia.org/wiki/希普諾夫2A72機炮" title="wikilink">30mm 2A72機炮</a><br />
+<td><p><small><a href="../Page/希普諾夫2A72機炮.md" title="wikilink">30mm 2A72機炮</a><br />
 或<a href="../Page/KPV重機槍.md" title="wikilink">14.5 mm KPVT重機槍</a><br />
 <a href="../Page/PK通用機槍.md" title="wikilink">7.62 mm PKT機槍</a></small></p></td>
 <td><p><small><a href="../Page/GIAT_M811機炮.md" title="wikilink">25 mm M811機炮</a><br />

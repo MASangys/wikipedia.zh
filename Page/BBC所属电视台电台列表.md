@@ -166,7 +166,7 @@
 
 <!-- end list -->
 
-  - [BBC阿拉伯语频道](https://zh.wikipedia.org/wiki/英國廣播公司阿拉伯語頻道 "wikilink")——BBC旗下面向[阿拉伯世界播出的](https://zh.wikipedia.org/wiki/阿拉伯世界 "wikilink")[阿拉伯语新闻频道](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")。
+  - [BBC阿拉伯语频道](../Page/英國廣播公司阿拉伯語頻道.md "wikilink")——BBC旗下面向[阿拉伯世界播出的](https://zh.wikipedia.org/wiki/阿拉伯世界 "wikilink")[阿拉伯语新闻频道](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")。
 
 <!-- end list -->
 
@@ -236,7 +236,7 @@
 
 ### 调幅广播、数字广播与网络广播
 
-  - ——主要播出、[嘻哈音乐](../Page/嘻哈.md "wikilink")、[英伦地下乐和](https://zh.wikipedia.org/wiki/Grime_\(音樂類型\) "wikilink")。
+  - ——主要播出、[嘻哈音乐](../Page/嘻哈.md "wikilink")、[英伦地下乐和](../Page/Grime_\(音樂類型\).md "wikilink")。
 
 <!-- end list -->
 

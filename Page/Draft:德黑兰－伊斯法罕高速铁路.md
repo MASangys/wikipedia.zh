@@ -111,7 +111,7 @@
 
 ## 车站
 
-  - [德黑兰站](https://zh.wikipedia.org/wiki/德黑蘭站 "wikilink")
+  - [德黑兰站](../Page/德黑蘭站.md "wikilink")
   - [伊玛目·霍梅尼国际机场2号和3号航站楼铁路站](https://zh.wikipedia.org/wiki/Imam_Khomeini_International_Airport_Terminal_2_and_3_Railway_Station "wikilink")
     (计划中)
   - [库姆站](../Page/库姆.md "wikilink") (计划中)

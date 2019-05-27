@@ -29,13 +29,13 @@ LOHAS商場可於5分鐘內直達港鐵康城站，迅速連接城內各處；�
 ### MONTARA
 
 第2座物業為MONTARA，屬日出康城第7A期，在2019年4月27日推售，以The Brilliance of Urban
-Nature為主題。項目分為A、B座，每層5-6伙，主打中型單位，面積由362方呎至816方呎的1至3房單位，兩房戶佔約六成，並提供平台及頂層特色戶，合共提供616伙。MONTARA由於享港鐵及商場上蓋地利，加上訂價較低，因此受到市場歡迎，於2019年5月3日已經收到1.8萬票，繼日出康城第4期[晉海之後](https://zh.wikipedia.org/wiki/晉海 "wikilink")，成為2019年香港新盤的“新票王”。
+Nature為主題。項目分為A、B座，每層5-6伙，主打中型單位，面積由362方呎至816方呎的1至3房單位，兩房戶佔約六成，並提供平台及頂層特色戶，合共提供616伙。MONTARA由於享港鐵及商場上蓋地利，加上訂價較低，因此受到市場歡迎，於2019年5月3日已經收到1.8萬票，繼日出康城第4期[晉海之後](../Page/晉海.md "wikilink")，成為2019年香港新盤的“新票王”。
 
 平台特色戶位於6樓，共有11伙，外望GARDEN
 MONTARA及[日出公園綠化景致](../Page/日出公園.md "wikilink")；頂層特色戶位於70樓，只有6伙，附設71樓空中平台，向西南可望將軍澳海灣及藍塘海峽海景，向東北可望清水灣山景及西貢海景。
 
 MONTARA較GRAND
-MONTARA近海，預計部分單位可享海景，項目鄰近[日出公園](../Page/日出公園.md "wikilink")，毗鄰第4期[晉海及第](https://zh.wikipedia.org/wiki/晉海 "wikilink")6期[LP6](../Page/LP6.md "wikilink")。
+MONTARA近海，預計部分單位可享海景，項目鄰近[日出公園](../Page/日出公園.md "wikilink")，毗鄰第4期[晉海及第](../Page/晉海.md "wikilink")6期[LP6](../Page/LP6.md "wikilink")。
 
 ### GRAND MONTARA
 
@@ -75,14 +75,14 @@ MONTARA毗鄰連接將軍澳隧道公路的環保大道，約8分鐘車程直達
 
 ### 公共交通
 
-MONTARA附近的日出康城5期[MALIBU基座設有永久的公共運輸交匯處](https://zh.wikipedia.org/wiki/MALIBU "wikilink")，作為日出康城的路面交通樞紐；現時日出康城亦有前往尖沙咀、九龍城、旺角、將軍澳等地的巴士及小巴。
+MONTARA附近的日出康城5期[MALIBU基座設有永久的公共運輸交匯處](../Page/MALIBU.md "wikilink")，作為日出康城的路面交通樞紐；現時日出康城亦有前往尖沙咀、九龍城、旺角、將軍澳等地的巴士及小巴。
 
 ## O' East系列
 
 O'East是會德豐地產在[日出康城的臨海豪華私人物業組合](../Page/日出康城.md "wikilink")，位於港鐵康城站及48萬平方呎的大型商場THE
 LOHAS上蓋，享有優越臨海地段，能飽覽臨海景致，區內的綠化休憩園地超過100萬呎。
 
-  - 日出康城V期：[MALIBU](https://zh.wikipedia.org/wiki/MALIBU "wikilink")
+  - 日出康城V期：[MALIBU](../Page/MALIBU.md "wikilink")
   - 日出康城VIIA期：MONTARA
   - 日出康城VIIB期：GRAND MONTARA
   - 日出康城IXA期：(未命名)
@@ -99,8 +99,8 @@ LOHAS上蓋，享有優越臨海地段，能飽覽臨海景致，區內的綠化
   - [首都](../Page/首都_\(香港\).md "wikilink")
   - [領都、領峯及領凱](../Page/領都、領峯及領凱.md "wikilink")
   - [緻藍天](../Page/緻藍天.md "wikilink")
-  - [晉海](https://zh.wikipedia.org/wiki/晉海 "wikilink")
-  - [MALIBU](https://zh.wikipedia.org/wiki/MALIBU "wikilink")
+  - [晉海](../Page/晉海.md "wikilink")
+  - [MALIBU](../Page/MALIBU.md "wikilink")
   - [LP6](../Page/LP6.md "wikilink")
 
 ## 參考

@@ -1,6 +1,6 @@
 **Android-x86**是基于[开源的谷歌](https://zh.wikipedia.org/wiki/开源 "wikilink")[Android移动操作系统开发的衍生版本](../Page/Android.md "wikilink")，目标硬件平台为[x86处理器](https://zh.wikipedia.org/wiki/x86 "wikilink")，而不是基于RISC的[ARM芯片](https://zh.wikipedia.org/wiki/ARM "wikilink")。该项目自2009年创立，至今已超过十年，并派生出更多版本，比如[Remix
-OS和](https://zh.wikipedia.org/wiki/Remix_OS "wikilink")[Phoenix
-OS](https://zh.wikipedia.org/wiki/Phoenix_OS "wikilink")。 官方网站：
+OS和](../Page/Remix_OS.md "wikilink")[Phoenix
+OS](../Page/Phoenix_OS.md "wikilink")。 官方网站：
 [Android-x86](http://www.android-x86.org/)。
 
 ## 历史
@@ -40,9 +40,8 @@ Android-x86目前从以下[文件系统中启动](../Page/文件系统.md "wikil
 
 ## 派生版本
 
-  - [Remix OS](https://zh.wikipedia.org/wiki/Remix_OS "wikilink")
-  - [Phoenix OS](https://zh.wikipedia.org/wiki/Phoenix_OS "wikilink")
-    （凤凰系统）
+  - [Remix OS](../Page/Remix_OS.md "wikilink")
+  - [Phoenix OS](../Page/Phoenix_OS.md "wikilink") （凤凰系统）
 
 <!-- end list -->
 

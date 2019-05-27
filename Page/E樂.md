@@ -20,7 +20,7 @@ TV擁有的](https://zh.wikipedia.org/wiki/新電信電視 "wikilink")[收費電
 <td><p>星期一至五</p></td>
 <td><p>20:00-21:00</p></td>
 <td><p>資訊節目</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金牌大健諜" title="wikilink">金牌大健諜</a></p></td>
+<td><p><a href="../Page/金牌大健諜.md" title="wikilink">金牌大健諜</a></p></td>
 <td><p>10月8日起，第31期起</p></td>
 </tr>
 <tr class="even">
@@ -48,7 +48,7 @@ TV擁有的](https://zh.wikipedia.org/wiki/新電信電視 "wikilink")[收費電
 <td><p>星期六</p></td>
 <td><p>20:00-22:00</p></td>
 <td><p>綜藝節目</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奔跑吧" title="wikilink">奔跑吧</a>2019</p></td>
+<td><p><a href="../Page/奔跑吧.md" title="wikilink">奔跑吧</a>2019</p></td>
 <td><p>4月27日起,與內地24小時內播放</p></td>
 </tr>
 <tr class="even">

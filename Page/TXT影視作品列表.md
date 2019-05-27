@@ -4,11 +4,11 @@ TOGETHER歷年參與之音樂錄影帶](../Page/TXT_\(組合\).md "wikilink")、
 
 ## 專屬節目
 
-|             |                |                                                                         |                                                                |    |                 |                  |
-| ----------- | -------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------- | -- | --------------- | ---------------- |
-| 年份          | 日期             | 頻道                                                                      | 節目名稱                                                           | 集數 | 拍攝地點            | 備註               |
-| 2019年       | 3月4日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                   | 《TOMORROW X TOGETHER Debut Celebration Show presented by Mnet》 | 1  | 韓國              | 慶祝出道節目\[1\]\[2\] |
-| 3月11日－3月12日 | YouTube、V LIVE | 《[TALK X TODAY](https://zh.wikipedia.org/wiki/TALK_X_TODAY "wikilink")》 | 6                                                              | 韓國 | 日常真人秀\[3\]\[4\] |                  |
+|             |                |                                                       |                                                                |    |                 |                  |
+| ----------- | -------------- | ----------------------------------------------------- | -------------------------------------------------------------- | -- | --------------- | ---------------- |
+| 年份          | 日期             | 頻道                                                    | 節目名稱                                                           | 集數 | 拍攝地點            | 備註               |
+| 2019年       | 3月4日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《TOMORROW X TOGETHER Debut Celebration Show presented by Mnet》 | 1  | 韓國              | 慶祝出道節目\[1\]\[2\] |
+| 3月11日－3月12日 | YouTube、V LIVE | 《[TALK X TODAY](../Page/TALK_X_TODAY.md "wikilink")》  | 6                                                              | 韓國 | 日常真人秀\[3\]\[4\] |                  |
 
 ## 官方頻道單元
 
@@ -108,7 +108,7 @@ TOGETHER歷年參與之音樂錄影帶](../Page/TXT_\(組合\).md "wikilink")、
 <tr class="odd">
 <td><p>3月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿里郎電視台" title="wikilink">阿里郎電視台</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/After_School_Club" title="wikilink">After School Club</a>》</p></td>
+<td><p>《<a href="../Page/After_School_Club.md" title="wikilink">After School Club</a>》</p></td>
 <td><p>[7]</p></td>
 <td></td>
 <td></td>
@@ -118,11 +118,11 @@ TOGETHER歷年參與之音樂錄影帶](../Page/TXT_\(組合\).md "wikilink")、
 
 ## 電台節目
 
-|       |                                                             |                                                                     |                    |      |              |
-| ----- | ----------------------------------------------------------- | ------------------------------------------------------------------- | ------------------ | ---- | ------------ |
-| 年份    | 播放日期                                                        | 電視台                                                                 | 節目名稱               | 參與成員 | 備註           |
-| 2019年 | 3月22日                                                       | KBS World Radio Arabic                                              | 《STAR Interview》   | 全員   | 3月15日錄製\[8\] |
-| 3月29日 | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink") | 《[IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink")》 | 3月26日錄製\[9\]\[10\] |      |              |
+|       |                                                             |                                                  |                    |      |              |
+| ----- | ----------------------------------------------------------- | ------------------------------------------------ | ------------------ | ---- | ------------ |
+| 年份    | 播放日期                                                        | 電視台                                              | 節目名稱               | 參與成員 | 備註           |
+| 2019年 | 3月22日                                                       | KBS World Radio Arabic                           | 《STAR Interview》   | 全員   | 3月15日錄製\[8\] |
+| 3月29日 | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink") | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")》 | 3月26日錄製\[9\]\[10\] |      |              |
 
 ## 音樂錄影帶
 

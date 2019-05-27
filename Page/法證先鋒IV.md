@@ -1,6 +1,6 @@
-《**法證先鋒IV**》（），是香港電視廣播有限公司拍攝製作的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，[法證先鋒系列第四部](../Page/法證先鋒系列.md "wikilink")，取用[阿萊](../Page/阿萊.md "wikilink")[艾麗莎](https://zh.wikipedia.org/wiki/艾麗莎 "wikilink")[攝影機拍攝](../Page/攝影機.md "wikilink")。該劇由[黃浩然](../Page/黃浩然.md "wikilink")、[李施嬅](../Page/李施嬅.md "wikilink")、[譚俊彥](../Page/譚俊彥.md "wikilink")、[陳煒領銜主演](../Page/陳煒.md "wikilink")，由[朱晨麗](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")、[鄭希怡](../Page/鄭希怡.md "wikilink")、[張曦雯](../Page/張曦雯.md "wikilink")、[陳敏之](../Page/陳敏之.md "wikilink")、[鄭俊弘](../Page/鄭俊弘.md "wikilink")、[張頴康](../Page/張頴康.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[海俊傑及](../Page/海俊傑.md "wikilink")[康華聯合主演](../Page/康華.md "wikilink")，並由[謝賢](../Page/謝賢.md "wikilink")、[米雪](../Page/米雪.md "wikilink")、[鮑起靜及](../Page/鮑起靜.md "wikilink")[麥玲玲特別演出](../Page/麥玲玲.md "wikilink")，編審[阮美鳳](https://zh.wikipedia.org/wiki/阮美鳳 "wikilink")、[冼翠貞](../Page/冼翠貞.md "wikilink")，監製[方俊華](https://zh.wikipedia.org/wiki/方俊華 "wikilink")，總監製[梅小青](../Page/梅小青.md "wikilink")，出品人為[杜之克](https://zh.wikipedia.org/wiki/杜之克 "wikilink")。\[1\]該輯的故事與前三輯無關。
+《**法證先鋒IV**》（），是香港電視廣播有限公司拍攝製作的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，[法證先鋒系列第四部](../Page/法證先鋒系列.md "wikilink")，取用[阿萊](../Page/阿萊.md "wikilink")[艾麗莎](https://zh.wikipedia.org/wiki/艾麗莎 "wikilink")[攝影機拍攝](../Page/攝影機.md "wikilink")。該劇由[黃浩然](../Page/黃浩然.md "wikilink")、[李施嬅](../Page/李施嬅.md "wikilink")、[譚俊彥](../Page/譚俊彥.md "wikilink")、[陳煒領銜主演](../Page/陳煒.md "wikilink")，由[朱晨麗](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")、[鄭希怡](../Page/鄭希怡.md "wikilink")、[張曦雯](../Page/張曦雯.md "wikilink")、[陳敏之](../Page/陳敏之.md "wikilink")、[鄭俊弘](../Page/鄭俊弘.md "wikilink")、[張頴康](../Page/張頴康.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[海俊傑及](../Page/海俊傑.md "wikilink")[康華聯合主演](../Page/康華.md "wikilink")，並由[謝賢](../Page/謝賢.md "wikilink")、[米雪](../Page/米雪.md "wikilink")、[鮑起靜及](../Page/鮑起靜.md "wikilink")[麥玲玲特別演出](../Page/麥玲玲.md "wikilink")，編審[阮美鳳](../Page/阮美鳳.md "wikilink")、[冼翠貞](../Page/冼翠貞.md "wikilink")，監製[方俊華](../Page/方俊華.md "wikilink")，總監製[梅小青](../Page/梅小青.md "wikilink")，出品人為[杜之克](../Page/杜之克.md "wikilink")。\[1\]該輯的故事與前三輯無關。
 
-此劇為[2019無綫節目巡禮](https://zh.wikipedia.org/wiki/2019無綫節目巡禮 "wikilink")19部劇集之一及2019年[香港國際影視展](https://zh.wikipedia.org/wiki/TVB影視展星勢 "wikilink")10部推介劇集之一。
+此劇為[2019無綫節目巡禮](../Page/2019無綫節目巡禮.md "wikilink")19部劇集之一及2019年[香港國際影視展](../Page/TVB影視展星勢.md "wikilink")10部推介劇集之一。
 
 此劇打算被安排為52週年台慶劇之一，惟有份演出的黃心穎發生[安心偷食事件](https://zh.wikipedia.org/wiki/2019年許志安與黃心穎出軌事件 "wikilink")，引致劇集要找人頂替和重拍\[2\]\[3\]，而[李施嬅已離巢TVB](../Page/李施嬅.md "wikilink")，惟她願意返回TVB為劇集重拍。
 
@@ -113,12 +113,12 @@
 <td><p>警員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/楊柳青_(藝人)" title="wikilink">楊柳青</a></p></td>
+<td><p><a href="../Page/楊柳青_(藝人).md" title="wikilink">楊柳青</a></p></td>
 <td><p>唐心悅</p></td>
 <td><p>警員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/胡㻗" title="wikilink">胡　㻗</a></p></td>
+<td><p><a href="../Page/胡㻗.md" title="wikilink">胡　㻗</a></p></td>
 <td><p>莫敬超</p></td>
 <td><p>警員</p></td>
 </tr>
@@ -160,7 +160,7 @@
 <td><p><strong>備注</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/陳曉華" title="wikilink">陳曉華</a></strong></p></td>
+<td><p><strong><a href="../Page/陳曉華.md" title="wikilink">陳曉華</a></strong></p></td>
 <td><p><strong>徐　意</strong></p></td>
 <td><p><strong>Chris</strong><br />
 記者<br />
@@ -288,12 +288,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳少邦" title="wikilink">陳少邦</a></p></td>
+<td><p><a href="../Page/陳少邦.md" title="wikilink">陳少邦</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林子超_(藝人)" title="wikilink">林子超</a></p></td>
+<td><p><a href="../Page/林子超_(藝人).md" title="wikilink">林子超</a></p></td>
 <td><p>黃誠康</p></td>
 <td></td>
 </tr>
@@ -441,11 +441,11 @@
 ## 軼事
 
   - 此劇是[刘家聪](https://zh.wikipedia.org/wiki/刘家聪 "wikilink")（時隔11年）、[海俊傑](../Page/海俊傑.md "wikilink")（時隔18年）再度回巢[無綫電視的首部電視劇](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")。
-  - 此劇是[陳煒](../Page/陳煒.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[康華](../Page/康華.md "wikilink")、[張文慈](../Page/張文慈.md "wikilink")、[陸詩韻](../Page/陸詩韻.md "wikilink")、[李美慧](../Page/李美慧.md "wikilink")、[謝芷倫](../Page/謝芷倫.md "wikilink")、[曾偉權](../Page/曾偉權.md "wikilink")、[呂珊](../Page/呂珊.md "wikilink")、[朱匯林和](https://zh.wikipedia.org/wiki/朱匯林 "wikilink")[林子超繼](https://zh.wikipedia.org/wiki/林子超_\(藝人\) "wikilink")《[宮心計2深宮計](https://zh.wikipedia.org/wiki/宮心計2深宮計 "wikilink")》後再度合作。
-  - 此劇是[黃浩然](../Page/黃浩然.md "wikilink")、[黎燕珊](../Page/黎燕珊.md "wikilink")、[陳煒和](../Page/陳煒.md "wikilink")[朱晨麗继](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")《[多功能老婆](https://zh.wikipedia.org/wiki/多功能老婆 "wikilink")》後再度合作。
+  - 此劇是[陳煒](../Page/陳煒.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[康華](../Page/康華.md "wikilink")、[張文慈](../Page/張文慈.md "wikilink")、[陸詩韻](../Page/陸詩韻.md "wikilink")、[李美慧](../Page/李美慧.md "wikilink")、[謝芷倫](../Page/謝芷倫.md "wikilink")、[曾偉權](../Page/曾偉權.md "wikilink")、[呂珊](../Page/呂珊.md "wikilink")、[朱匯林和](https://zh.wikipedia.org/wiki/朱匯林 "wikilink")[林子超繼](../Page/林子超_\(藝人\).md "wikilink")《[宮心計2深宮計](https://zh.wikipedia.org/wiki/宮心計2深宮計 "wikilink")》後再度合作。
+  - 此劇是[黃浩然](../Page/黃浩然.md "wikilink")、[黎燕珊](../Page/黎燕珊.md "wikilink")、[陳煒和](../Page/陳煒.md "wikilink")[朱晨麗继](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")《[多功能老婆](../Page/多功能老婆.md "wikilink")》後再度合作。
   - 此劇是[陳煒](../Page/陳煒.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[張文慈](../Page/張文慈.md "wikilink")、[黎燕珊](../Page/黎燕珊.md "wikilink")、[黃浩然](../Page/黃浩然.md "wikilink")、[鮑起靜](../Page/鮑起靜.md "wikilink")、[謝賢離開](../Page/謝賢.md "wikilink")[亞洲電視後再度合作](../Page/亞洲電視.md "wikilink")。
   - 此劇是[李施嬅在無綫電視的告別作](../Page/李施嬅.md "wikilink")。
-  - 此劇因[安心偷食事件受影響而被安排於](https://zh.wikipedia.org/wiki/安心偷食事件 "wikilink")2019年6月重拍[黃心穎所涉及的戲份](../Page/黃心穎.md "wikilink")。角色由[陳曉華替代演出](https://zh.wikipedia.org/wiki/陳曉華 "wikilink")。
+  - 此劇因[安心偷食事件受影響而被安排於](https://zh.wikipedia.org/wiki/安心偷食事件 "wikilink")2019年6月重拍[黃心穎所涉及的戲份](../Page/黃心穎.md "wikilink")。角色由[陳曉華替代演出](../Page/陳曉華.md "wikilink")。
 
 ## 參考資料
 

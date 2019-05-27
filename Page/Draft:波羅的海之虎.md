@@ -329,8 +329,8 @@
 
 波罗的海之虎的经济：
 
-  - [爱沙尼亚经济](https://zh.wikipedia.org/wiki/愛沙尼亞經濟 "wikilink")
-  - [拉脱维亚经济](https://zh.wikipedia.org/wiki/拉脫維亞經濟 "wikilink")
+  - [爱沙尼亚经济](../Page/愛沙尼亞經濟.md "wikilink")
+  - [拉脱维亚经济](../Page/拉脫維亞經濟.md "wikilink")
   - [立陶宛经济](https://zh.wikipedia.org/wiki/立陶宛經濟 "wikilink")
 
 其他'老虎'

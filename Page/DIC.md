@@ -2,7 +2,7 @@
 
 ## 科學
 
-  - [微分干涉相差显微镜](https://zh.wikipedia.org/wiki/微分干涉相差显微镜 "wikilink")（Differential
+  - [微分干涉相差显微镜](../Page/微分干涉相差显微镜.md "wikilink")（Differential
     interference contrast microscopy）：一種光學顯微鏡的照明技術。
 
   - （Diisopropylcarbodiimide）：一種有機化學中的試劑。
@@ -12,10 +12,10 @@
 
   - （Digital image correlation）：用於超精確測量數位影像的變形、位移和應變的光學技術
 
-  - [總無機碳](https://zh.wikipedia.org/wiki/總無機碳 "wikilink")( Dissolved
-    inorganic carbon )：溶液中無機碳種類的總和
+  - [總無機碳](../Page/總無機碳.md "wikilink")( Dissolved inorganic carbon
+    )：溶液中無機碳種類的總和
 
-  - [偏差信息量准则](https://zh.wikipedia.org/wiki/偏差信息量准则 "wikilink")：一種用於貝葉斯模型選擇的診斷統計方法
+  - [偏差信息量准则](../Page/偏差信息量准则.md "wikilink")：一種用於貝葉斯模型選擇的診斷統計方法
 
   - ：一種與[循環群相關的代數概念](../Page/循環群.md "wikilink")
 

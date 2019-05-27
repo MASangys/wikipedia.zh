@@ -13,7 +13,7 @@ Sodapoppin也有一個擁有超過九十萬訂閱人數的[YouTube頻道](../Pag
 Gaming的共同所有者。該組織後來由[俠客·歐尼爾](../Page/沙奎尔·奥尼尔.md "wikilink")、[艾力士·羅德里奎茲等人擁有的](../Page/艾力士·羅德里奎茲.md "wikilink")[NRG
 eSports買下](https://zh.wikipedia.org/wiki/NRG_eSports "wikilink")。莫里士隨後也加入該公司。\[5\]\[6\]
 
-莫里士在2017年10月的[H1Z1邀請賽的遊戲中](https://zh.wikipedia.org/wiki/H1Z1 "wikilink")，擊殺知名實況主[Dr.
+莫里士在2017年10月的[H1Z1邀請賽的遊戲中](../Page/H1Z1.md "wikilink")，擊殺知名實況主[Dr.
 Disrespect](https://zh.wikipedia.org/wiki/Dr._Disrespect "wikilink")。不過最後並未成功進入前十完賽。\[7\]
 
 根據Social

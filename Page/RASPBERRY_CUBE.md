@@ -1,4 +1,4 @@
-\[1\]是在2018年9月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[2\]，日文簡稱「」\[3\]。2019年8月29日由iMel發售[任天堂Switch與](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")[PlayStation
+\[1\]是在2018年9月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[2\]，日文簡稱「」\[3\]。2019年8月29日由iMel發售[任天堂Switch與](../Page/任天堂Switch.md "wikilink")[PlayStation
 4版本](../Page/PlayStation_4.md "wikilink")\[4\]。
 
 ## 故事簡介

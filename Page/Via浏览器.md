@@ -6,7 +6,7 @@ Chrome一样采用](../Page/Google_Chrome.md "wikilink")[WebKit作为](../Page/W
 ## 外部链接
 
   -
-  - [酷安上的](https://zh.wikipedia.org/wiki/酷安 "wikilink")[Via浏览器](https://www.coolapk.com/apk/mark.via)
+  - [酷安上的](../Page/酷安.md "wikilink")[Via浏览器](https://www.coolapk.com/apk/mark.via)
 
   -
 [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink")

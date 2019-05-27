@@ -17,9 +17,8 @@ GHz四核[SoC](https://zh.wikipedia.org/wiki/SoC "wikilink")(D2203、D2206和D22
 ## 软件
 
 Xperia E3运行[Android 4.4
-KitKat与来自索尼自行开发的](https://zh.wikipedia.org/wiki/Android_KitKat "wikilink")[Timescape](https://zh.wikipedia.org/wiki/Timescape "wikilink")[用户界面](../Page/用户界面.md "wikilink")。它可以以非官方的方式运行[Android
-5.1
-棒棒糖和](https://zh.wikipedia.org/wiki/Android_Jelly_Bean "wikilink")[Android
+KitKat与来自索尼自行开发的](../Page/Android_KitKat.md "wikilink")[Timescape](https://zh.wikipedia.org/wiki/Timescape "wikilink")[用户界面](../Page/用户界面.md "wikilink")。它可以以非官方的方式运行[Android
+5.1 棒棒糖和](../Page/Android_Jelly_Bean.md "wikilink")[Android
 6.0棉花糖](../Page/Android_Marshmallow.md "wikilink")。\[3\]
 
 ## 变体
@@ -79,7 +78,7 @@ IEEE
 
 索尼Xperia
 E3获得了"2015[网络点](https://zh.wikipedia.org/wiki/网络点 "wikilink")"奖，其中包括"最佳之最"奖，以及[Xperia
-Z3](https://zh.wikipedia.org/wiki/Sony_Xperia_Z3 "wikilink")、[Xperia Z3
+Z3](../Page/Sony_Xperia_Z3.md "wikilink")、[Xperia Z3
 Compact](https://zh.wikipedia.org/wiki/Xperia_Z3_Compact "wikilink")、[Xperia
 Z3
 Tablet和](https://zh.wikipedia.org/wiki/Xperia_Z3_Tablet "wikilink")[Xperia

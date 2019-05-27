@@ -1,4 +1,4 @@
-《**Iamus**》是Melomics技術製作的第一張專輯，也是第一張使用[Iamus創作的錄音室專輯](../Page/Iamus_\(電腦\).md "wikilink")，Iamus是由[馬拉加大學設計的一個](https://zh.wikipedia.org/wiki/馬拉加大學 "wikilink")[電腦叢集](https://zh.wikipedia.org/wiki/電腦叢集 "wikilink")，用於創造了[當代古典音樂](https://zh.wikipedia.org/wiki/當代古典音樂 "wikilink")。這些作品使用[Melomics計算系統組成](https://zh.wikipedia.org/wiki/Melomics "wikilink")，完全由電腦生成，沒有人為輸入。
+《**Iamus**》是Melomics技術製作的第一張專輯，也是第一張使用[Iamus創作的錄音室專輯](../Page/Iamus_\(電腦\).md "wikilink")，Iamus是由[馬拉加大學設計的一個](https://zh.wikipedia.org/wiki/馬拉加大學 "wikilink")[電腦叢集](https://zh.wikipedia.org/wiki/電腦叢集 "wikilink")，用於創造了[當代古典音樂](https://zh.wikipedia.org/wiki/當代古典音樂 "wikilink")。這些作品使用[Melomics計算系統組成](../Page/Melomics.md "wikilink")，完全由電腦生成，沒有人為輸入。
 
 ## 概觀
 

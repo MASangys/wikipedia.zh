@@ -18,7 +18,7 @@
 
 在
 2007年1月，冈萨雷斯开始试镜洛杉矶的《》节目\[16\]，但并未成功。于是他开始学习舞蹈课程，后于[達拉斯再度试镜](../Page/達拉斯.md "wikilink")\[17\]，被[波多黎各歌手](../Page/波多黎各.md "wikilink")[Luis
-Fonsi及无线电播音员](https://zh.wikipedia.org/wiki/路易斯·馮西 "wikilink")[Daniel
+Fonsi及无线电播音员](../Page/路易斯·馮西.md "wikilink")[Daniel
 Luna选为二十五名双语歌手之一](https://zh.wikipedia.org/wiki/Daniel_Luna "wikilink")，并来到[纽约参演](../Page/纽约.md "wikilink")《》系列\[18\]\[19\]。后来又从中选出15人继续出演《》，冈萨雷斯便是其中之一\[20\]。这15人一起在练习了四个月的歌舞\[21\]\[22\]。
 
 2009年，冈萨雷斯出演《[公园与游憩](../Page/公园与游憩.md "wikilink")：[姐妹城市](../Page/姐妹城市_\(公园与游憩\).md "wikilink")》一集的委内瑞拉实习生Jhonny\[23\]\[24\]。

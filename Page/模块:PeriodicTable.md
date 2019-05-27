@@ -1083,7 +1083,7 @@ function p.renderPeriodicTableGroupHeader(has_119, pmodel)
 `               group_text = string.upper(roman.getRomam(test_index) .. iterator.group_type) .. '`
 `' .. tostring(index)`
 `           else`
-`               group_text = error.error({[1]="羅馬數字模組錯誤：疑似有人誤刪`[`模块:Roman中的getRomam函數`](https://zh.wikipedia.org/wiki/模块:Roman "wikilink")`。"})`
+`               group_text = error.error({[1]="羅馬數字模組錯誤：疑似有人誤刪`[`模块:Roman中的getRomam函數`](../Page/模块:Roman.md "wikilink")`。"})`
 `           end`
 `           body = body .. ' `[`'``   ``..``   ``group_text``   ``..``
  ``'`](https://zh.wikipedia.org/wiki/'_.._iterator.page_.._' "wikilink")`' .. '\n'`

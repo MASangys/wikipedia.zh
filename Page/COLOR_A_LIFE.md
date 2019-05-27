@@ -4,26 +4,25 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
-  - 與上一張原創專輯「[WAY OF
-    GLORY](https://zh.wikipedia.org/wiki/WAY_OF_GLORY "wikilink")」相距約1年半。
+  - 與上一張原創專輯「[WAY OF GLORY](../Page/WAY_OF_GLORY.md "wikilink")」相距約1年半。
   - 此專輯成員[伊藤千晃畢業後](../Page/伊藤千晃.md "wikilink")，6人體制的第一張專輯。
   - 收錄了第54張單曲《[No Way
-    Back](https://zh.wikipedia.org/wiki/No_Way_Back "wikilink")》和第55張單曲《[LIFE](https://zh.wikipedia.org/wiki/LIFE_\(AAA單曲\) "wikilink")》2首A面曲，以及B面曲《[Beat
-    Together](https://zh.wikipedia.org/wiki/No_Way_Back "wikilink")》和新曲《Tomorrow》、《DEJAVU》等，共9首曲目。
+    Back](../Page/No_Way_Back.md "wikilink")》和第55張單曲《[LIFE](../Page/LIFE_\(AAA單曲\).md "wikilink")》2首A面曲，以及B面曲《[Beat
+    Together](../Page/No_Way_Back.md "wikilink")》和新曲《Tomorrow》、《DEJAVU》等，共9首曲目。
   - 新曲《DEJAVU》是d Music powered by Recochoku的電視廣告歌曲。
   - 新曲《C.O.L》是時尚雜誌《[CanCam](../Page/CanCam.md "wikilink")》2018年10月號電視廣告歌曲。
   - 新曲《Tomorrow》是[富士電視台火9電視劇](../Page/富士電視台週二晚間九點連續劇.md "wikilink")《[健康而有文化的最低限度生活](https://zh.wikipedia.org/wiki/健康而有文化的最低限度生活 "wikilink")》的主題曲。
   - 新曲《Kiss The
-    Sky》是[AbemaTV和](https://zh.wikipedia.org/wiki/AbemaTV "wikilink")[名古屋電視台合拍劇](../Page/名古屋電視台.md "wikilink")《[星塵復仇者們](https://zh.wikipedia.org/wiki/星塵復仇者們 "wikilink")》的主題曲。
+    Sky》是[AbemaTV和](../Page/AbemaTV.md "wikilink")[名古屋電視台合拍劇](../Page/名古屋電視台.md "wikilink")《[星塵復仇者們](https://zh.wikipedia.org/wiki/星塵復仇者們 "wikilink")》的主題曲。
   - 本作分「初回限定盤（Jacket A CD+DVD+Goods）」、「Jacket B CD+DVD」、「Jacket C
     CD盤」3種版本。
   - 「初回限定盤」收錄了《No Way Back》、《LIFE》、新曲《DEJAVU》3首歌曲的PV和製作花絮（Making）。
   - 在9月10日於公信榜專輯週排行榜取得第1位，繼《[＃AAABEST](../Page/＃AAABEST.md "wikilink")》、《[Eighth
     Wonder](../Page/Eighth_Wonder_\(AAA專輯\).md "wikilink")》、《[GOLD
-    SYMPHONY](https://zh.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")》、《[AAA
-    10th ANNIVERSARY
-    BEST](../Page/AAA_10th_ANNIVERSARY_BEST.md "wikilink")》和《[WAY OF
-    GLORY](https://zh.wikipedia.org/wiki/WAY_OF_GLORY "wikilink")》後第6張公信榜每周銷量排名第一的專輯。
+    SYMPHONY](../Page/GOLD_SYMPHONY.md "wikilink")》、《[AAA 10th
+    ANNIVERSARY
+    BEST](../Page/AAA_10th_ANNIVERSARY_BEST.md "wikilink")》和《[WAY
+    OF GLORY](../Page/WAY_OF_GLORY.md "wikilink")》後第6張公信榜每周銷量排名第一的專輯。
 
 ## 收錄内容
 
@@ -37,8 +36,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
     Harambasic、Justin Philip Stein / Rap lyrics：Mitsuhiro Hidaka）
       -
         d Music powered by Recochoku電視廣告歌曲
-3.  **[No Way
-    Back](https://zh.wikipedia.org/wiki/No_Way_Back "wikilink")**
+3.  **[No Way Back](../Page/No_Way_Back.md "wikilink")**
     （作詞：Mio Aoyama / Rap詞：Mitsuhiro Hidaka / 作曲・編曲：大西克巳）
       -
         54th單曲、飲品品牌冰結（R）「氷結(R)×AAA Original WEB」電視廣告歌曲
@@ -61,22 +59,21 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 8.  **Kiss The Sky**
     （作詞：森月キャス / 作曲・編曲：ats- / Rap lyrics：Mitsuhiro Hidaka）
       -
-        [AbemaTV和](https://zh.wikipedia.org/wiki/AbemaTV "wikilink")[名古屋電視台合拍劇](../Page/名古屋電視台.md "wikilink")《[星塵復仇者們](https://zh.wikipedia.org/wiki/星塵復仇者們 "wikilink")》主題曲
+        [AbemaTV和](../Page/AbemaTV.md "wikilink")[名古屋電視台合拍劇](../Page/名古屋電視台.md "wikilink")《[星塵復仇者們](https://zh.wikipedia.org/wiki/星塵復仇者們 "wikilink")》主題曲
 9.  **Gotta Love Me**
     （作詞：小松レナ / 作曲：日比野裕史 / 編曲：ats- / Rap lyrics：Mitsuhiro Hidaka）
       -
         [西島隆弘](../Page/西島隆弘.md "wikilink")、[宇野實彩子](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")、[浦田直也和](../Page/浦田直也.md "wikilink")[日高光啓主唱](https://zh.wikipedia.org/wiki/日高光啓 "wikilink")
-10. **[Beat
-    Together](https://zh.wikipedia.org/wiki/No_Way_Back "wikilink")**
+10. **[Beat Together](../Page/No_Way_Back.md "wikilink")**
     （作詞：溝口貴紀 / Rap詞：Mitsuhiro Hidaka / 作曲：五戸力 / 編曲：日比野裕史）
       -
         54th單曲、LAGUNA TEN
         BOSCH的夏季活動推廣歌曲、時尚雜誌《[CanCam](../Page/CanCam.md "wikilink")》2017年10月號電視廣告歌曲
         《No Way Back》的B面曲
-11. **[LIFE](https://zh.wikipedia.org/wiki/LIFE_\(AAA單曲\) "wikilink")**
+11. **[LIFE](../Page/LIFE_\(AAA單曲\).md "wikilink")**
     （作詞：小松レナ、森月キャス、leonn / 作曲：岩田秀聡、永野大輔 / 編曲：大西克巳、ats-）
       -
-        55th單曲、[富士電視台](../Page/富士電視台.md "wikilink")[月9電視劇](https://zh.wikipedia.org/wiki/月9 "wikilink")『[民眾之敵～在這世上，不是很奇怪嗎！？～](https://zh.wikipedia.org/wiki/民眾之敵～在這世上，不是很奇怪嗎！？～ "wikilink")』主題曲。
+        55th單曲、[富士電視台](../Page/富士電視台.md "wikilink")[月9電視劇](https://zh.wikipedia.org/wiki/月9 "wikilink")『[民眾之敵～在這世上，不是很奇怪嗎！？～](../Page/民眾之敵～在這世上，不是很奇怪嗎！？～.md "wikilink")』主題曲。
 12. **-epilogue-**
     （作曲・編曲：大西克巳）
 

@@ -50,7 +50,7 @@ Hur||35||[謝　賢](../Page/謝賢.md "wikilink")、[陳百祥](../Page/陳百�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/2018年Astro華麗台電視劇集列表" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/2018年Astro華麗台電視劇集列表.md" title="wikilink">續18年</a><br />
 19/12-<br />
 16/01</p></td>
 <td style="text-align: center;"><p><a href="../Page/施公奇案II.md" title="wikilink">施公奇案II</a><br />
@@ -131,11 +131,11 @@ Come With Me</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/2018年Astro華麗台電視劇集列表#8.00港劇時段" title="wikilink">續18年</a>20/02/17-<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/愛·回家之開心速遞" title="wikilink">愛·回家之開心速遞</a><br />
+<td style="text-align: center;"><p><a href="../Page/愛·回家之開心速遞.md" title="wikilink">愛·回家之開心速遞</a><br />
 Come Home Love：Lo And Behold</p></td>
 <td style="text-align: center;"><p>720（暫定）</p></td>
 <td style="text-align: center;"><p><a href="../Page/劉丹_(香港).md" title="wikilink">劉　丹</a>、<a href="../Page/單立文.md" title="wikilink">單立文</a>、<a href="../Page/湯盈盈.md" title="wikilink">湯盈盈</a>、<br />
-<a href="../Page/呂慧儀.md" title="wikilink">呂慧儀</a>、<a href="https://zh.wikipedia.org/wiki/陳浚霆" title="wikilink">陳浚霆</a>、<a href="https://zh.wikipedia.org/wiki/蘇韻姿" title="wikilink">蘇韻姿</a></p></td>
+<a href="../Page/呂慧儀.md" title="wikilink">呂慧儀</a>、<a href="../Page/陳浚霆.md" title="wikilink">陳浚霆</a>、<a href="../Page/蘇韻姿.md" title="wikilink">蘇韻姿</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/羅鎮岳.md" title="wikilink">羅鎮岳</a></p></td>
 <td style="text-align: center;"><p>主：<br />
 <strong>第1集-第224集:</strong><br />
@@ -166,9 +166,9 @@ Hunter](https://zh.wikipedia.org/wiki/心理追兇_Mind_Hunter "wikilink")
 My Dearly Sinful
 Mind||28||[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")、[蔡思貝](https://zh.wikipedia.org/wiki/蔡思貝 "wikilink")、[楊　明](../Page/楊明.md "wikilink")、
 [曹永廉](../Page/曹永廉.md "wikilink")、[王君馨](../Page/王君馨.md "wikilink")、[敖嘉年](../Page/敖嘉年.md "wikilink")
-||[王偉仁](https://zh.wikipedia.org/wiki/王偉仁 "wikilink")||主：籠牢（[許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")）
+||[王偉仁](../Page/王偉仁.md "wikilink")||主：籠牢（[許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")）
 尾：你走的那個晚上（[鄭俊弘](../Page/鄭俊弘.md "wikilink")）|| |- |04/01-
-21/02||[老表，畢業喇！](https://zh.wikipedia.org/wiki/老表，畢業喇！ "wikilink")
+21/02||[老表，畢業喇！](../Page/老表，畢業喇！.md "wikilink")
 Oh My
 Grad||30||[郭晉安](../Page/郭晉安.md "wikilink")、[蔡少芬](../Page/蔡少芬.md "wikilink")、[王祖藍](../Page/王祖藍.md "wikilink")、
 [蔡瀚億](../Page/蔡瀚億.md "wikilink")、[林盛斌](../Page/林盛斌.md "wikilink")、[呂慧儀](../Page/呂慧儀.md "wikilink")、
@@ -223,8 +223,7 @@ Prelude||30||[苗僑偉](https://zh.wikipedia.org/wiki/苗僑偉 "wikilink")、[
 [魏焌皓](../Page/魏焌皓.md "wikilink")、[張景淳](../Page/張景淳.md "wikilink")、[謝東閔](https://zh.wikipedia.org/wiki/謝東閔 "wikilink")、
 [許家傑](../Page/許家傑.md "wikilink")、[楊潮凱](../Page/楊潮凱.md "wikilink")||[蘇萬聰](../Page/蘇萬聰.md "wikilink")||主：天網（[周柏豪](../Page/周柏豪.md "wikilink")）、
 插：安守本份（[谷婭溦](../Page/谷婭溦.md "wikilink")）、
-尾：忘記我自己（[HANA](https://zh.wikipedia.org/wiki/菊梓喬 "wikilink")）|| |-
-|27/03-
+尾：忘記我自己（[HANA](../Page/菊梓喬.md "wikilink")）|| |- |27/03-
 21/05||[溏心風暴3](https://zh.wikipedia.org/wiki/溏心風暴3 "wikilink")
 Heart And
 Greed||40||[黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")、[王浩信](../Page/王浩信.md "wikilink")、[李司棋](../Page/李司棋.md "wikilink")、
@@ -232,7 +231,7 @@ Greed||40||[黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")、[�
 [岑麗香](https://zh.wikipedia.org/wiki/岑麗香 "wikilink")、[黃翠如](../Page/黃翠如.md "wikilink")、[阮兆祥](../Page/阮兆祥.md "wikilink")、
 [李國麟](https://zh.wikipedia.org/wiki/李國麟 "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")、[陳敏之](../Page/陳敏之.md "wikilink")||[劉家豪](../Page/劉家豪.md "wikilink")
 [徐遇安](../Page/徐遇安.md "wikilink")||主︰我本無罪（[關菊英](../Page/關菊英.md "wikilink")）
-尾：欲言又止（[王浩信](../Page/王浩信.md "wikilink")、[菊梓喬](https://zh.wikipedia.org/wiki/菊梓喬 "wikilink")）
+尾：欲言又止（[王浩信](../Page/王浩信.md "wikilink")、[菊梓喬](../Page/菊梓喬.md "wikilink")）
 插：I Promise（[鍾嘉欣](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")）|| |}
 
 ## 10.30港劇時段
@@ -250,7 +249,7 @@ bgcolor="silver"| 備-{注}- |- |21/01-
 01/02||[火速救兵IV](../Page/火速救兵IV.md "wikilink")
 Elite Brigade
 IV||10||[歐錦棠](../Page/歐錦棠.md "wikilink")、[蔣祖曼](../Page/蔣祖曼.md "wikilink")、[王　喜](https://zh.wikipedia.org/wiki/王喜 "wikilink")、
-[陳鍵鋒](https://zh.wikipedia.org/wiki/陳鍵鋒 "wikilink")、[林文龍](../Page/林文龍.md "wikilink")、[梁雍婷](https://zh.wikipedia.org/wiki/梁雍婷 "wikilink")、
+[陳鍵鋒](https://zh.wikipedia.org/wiki/陳鍵鋒 "wikilink")、[林文龍](../Page/林文龍.md "wikilink")、[梁雍婷](../Page/梁雍婷.md "wikilink")、
 [王宗堯](../Page/王宗堯.md "wikilink")、[陸駿光](../Page/陸駿光.md "wikilink")、[陳國邦](../Page/陳國邦.md "wikilink")、
 [黃秋生](../Page/黃秋生.md "wikilink")、[張松枝](../Page/張松枝.md "wikilink")||利子良||熱血英雄（[劉德華](../Page/劉德華.md "wikilink")）||
 |}

@@ -19,8 +19,7 @@ rigorously prove a range of [几何学](../Page/几何学.md "wikilink")
 [抛物线下面积](../Page/抛物线.md "wikilink")。\[5\]
 
 Other mathematical achievements include deriving an accurate
-approximation of 其他数学成就包括精确计算了
-[圓周率的近似值](https://zh.wikipedia.org/wiki/圓周率 "wikilink"),
+approximation of 其他数学成就包括精确计算了 [圓周率的近似值](../Page/圓周率.md "wikilink"),
 defining and investigating the定义和研究以其命名的
 [阿基米德螺线](https://zh.wikipedia.org/wiki/阿基米德螺线 "wikilink")
 bearing his name, a创造了nd creating a system using
@@ -88,7 +87,7 @@ mathematical results为进一步认识他的数学成果提供了帮助.\[7\]
 相传阿基米德的遗言是“别打扰我的圆圈”，指当时他被罗马士兵打扰时正在研究的数学画图法中的圆圈。在[拉丁语中常作](../Page/拉丁语.md "wikilink")“”，但没有确凿证据表明阿基米德确实说了这些话，这在普魯塔克的说法中也没有出现。公元1世纪，[瓦莱里乌斯·马克西姆斯在](https://zh.wikipedia.org/wiki/瓦莱里乌斯·马克西姆斯 "wikilink")《难忘的事迹名言》（英：*Memorable
 Doings and Sayings*）中记载为：“...sed protecto manibus puluere 'noli' inquit,
 'obsecro, istum
-disturbare'”（“……以双手保护着沙尘，说：‘求你了，别打扰它！’”）。这句话对应的[纯正希腊语版本是](https://zh.wikipedia.org/wiki/纯正希腊语 "wikilink")"μὴ
+disturbare'”（“……以双手保护着沙尘，说：‘求你了，别打扰它！’”）。这句话对应的[纯正希腊语版本是](../Page/纯正希腊语.md "wikilink")"μὴ
 μου τοὺς κύκλους τάραττε\!" （拉丁文转写：Mē mou tous kuklous taratte\!）。\[13\]
 
 [Cicero_Discovering_the_Tomb_of_Archimedes_by_Benjamin_West.jpeg](https://zh.wikipedia.org/wiki/File:Cicero_Discovering_the_Tomb_of_Archimedes_by_Benjamin_West.jpeg "fig:Cicero_Discovering_the_Tomb_of_Archimedes_by_Benjamin_West.jpeg")画于1805年）\]\]
@@ -233,9 +232,8 @@ The MIT group repeated the experiment for the television show
 *[流言終結者](../Page/流言終結者.md "wikilink")*, using a wooden fishing
 boat in [旧金山](../Page/旧金山.md "wikilink") as the target. Again some
 charring occurred, along with a small amount of flame. In order to catch
-fire, wood needs to reach its
-[自燃温度](https://zh.wikipedia.org/wiki/自燃温度 "wikilink"),
-which is around 300 °C (570 °F).\[38\]\[39\]
+fire, wood needs to reach its [自燃温度](../Page/自燃温度.md "wikilink"), which
+is around 300 °C (570 °F).\[38\]\[39\]
 
 When *MythBusters* broadcast the result of the San Francisco experiment
 in January 2006, the claim was placed in the category of "busted" (or
@@ -291,9 +289,8 @@ Cicero mentions similar mechanisms designed by
 dialogue says that Marcellus kept one of the devices as his only
 personal loot from Syracuse, and donated the other to the Temple of
 Virtue in Rome. Marcellus' mechanism was demonstrated, according to
-Cicero, by
-[盖厄斯·撒尔庇西斯·凯勒斯](https://zh.wikipedia.org/wiki/盖厄斯·撒尔庇西斯·凯勒斯 "wikilink")
-to , who described it thus:
+Cicero, by [盖厄斯·撒尔庇西斯·凯勒斯](../Page/盖厄斯·撒尔庇西斯·凯勒斯.md "wikilink") to , who
+described it thus:
 
 This is a description of a [天象儀](../Page/天象儀.md "wikilink") or
 [太阳系仪](../Page/太阳系仪.md "wikilink").
@@ -403,9 +400,9 @@ by other authors. [帕普斯](https://zh.wikipedia.org/wiki/帕普斯 "wikilink"
 mentions *[On
 Sphere-Making](https://zh.wikipedia.org/wiki/On_Sphere-Making "wikilink")*
 and another work on [多面体](../Page/多面体.md "wikilink"), while  quotes a
-remark about [折射](https://zh.wikipedia.org/wiki/折射 "wikilink") from the
-*Catoptrica*. During his lifetime, Archimedes made his work known
-through correspondence with the mathematicians in
+remark about [折射](../Page/折射.md "wikilink") from the  *Catoptrica*.
+During his lifetime, Archimedes made his work known through
+correspondence with the mathematicians in
 [亚历山大港](../Page/亚历山大港.md "wikilink"). The writings
 of Archimedes were first collected by the
 [拜占庭帝国](../Page/拜占庭帝国.md "wikilink") Greek architect

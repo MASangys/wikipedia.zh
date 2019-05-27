@@ -1,7 +1,6 @@
 《**White
 Wind**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO的第九張](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，此為「四季系列」企劃的最後一張專輯。由[Rainbow
-Bridge
-World企劃製作](https://zh.wikipedia.org/wiki/Rainbow_Bridge_World "wikilink")，透過[Kakao
+Bridge World企劃製作](../Page/Rainbow_Bridge_World.md "wikilink")，透過[Kakao
 M於](../Page/Kakao_M.md "wikilink")2019年3月14日發行，主打歌為《고고베베(gogobebe)》。
 
 ## 背景
@@ -168,7 +167,7 @@ bye》、柔和又甜蜜的告白歌曲《My Star》，以及最後一首為四�
 <p>全球</p></td>
 <td><p>2019年3月14日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rainbow_Bridge_World" title="wikilink">Rainbow Bridge World</a></p></td>
+<td><p><a href="../Page/Rainbow_Bridge_World.md" title="wikilink">Rainbow Bridge World</a></p></td>
 <td><p><a href="../Page/Kakao_M.md" title="wikilink">Kakao M</a></p></td>
 </tr>
 <tr class="even">

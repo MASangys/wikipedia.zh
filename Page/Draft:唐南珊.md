@@ -19,7 +19,7 @@ diagnostician）。不過她仍心在研究，並參與了Centocor所投入的�
 1986年，夫妻兩人搬到德克薩斯州的休士頓。休士頓的貝勒醫學院（Baylor College of
 Medicine）提供了教職給唐南珊和張子文。她在1986至1991年擔任貝勒醫學院病毒學副教授\[16\]。
 
-唐南珊和張子文兩人都深受過敏所苦。張子文想到用阻斷[IgE的方式來治療過敏](https://zh.wikipedia.org/wiki/IgE "wikilink")，夫妻兩人並創辦了生物技術公司[Tanox](https://zh.wikipedia.org/wiki/Tanox "wikilink")。張子文繼續他比較喜歡的教授工作，唐南珊則擔任這個新公司的董事長。1992年兩人離婚。張子文在1996年回到台灣任教，同時仍擔任Tanox的董事會成員，直到公司被[Genentech收購](../Page/基因泰克.md "wikilink")。唐南珊則繼續在Tanox的工作，身兼執行長與董事長\[17\]。
+唐南珊和張子文兩人都深受過敏所苦。張子文想到用阻斷[IgE的方式來治療過敏](../Page/IgE.md "wikilink")，夫妻兩人並創辦了生物技術公司[Tanox](https://zh.wikipedia.org/wiki/Tanox "wikilink")。張子文繼續他比較喜歡的教授工作，唐南珊則擔任這個新公司的董事長。1992年兩人離婚。張子文在1996年回到台灣任教，同時仍擔任Tanox的董事會成員，直到公司被[Genentech收購](../Page/基因泰克.md "wikilink")。唐南珊則繼續在Tanox的工作，身兼執行長與董事長\[17\]。
 
 Tanox專注於解決過敏、氣喘、發炎和影響人免疫系統的疾病等領域的醫療需求\[18\]，開發出針對過敏相關的氣喘藥物，\[19\]。Tanox的首次公開募股募集2.44億美元，是有史以來第二大生技公司IPO\[20\]。2003年6月，[美國食品藥物管理局](../Page/美国食品药品监督管理局.md "wikilink")(FDA)核准了Xolair，這是第一個用於治療過敏性氣喘的生物技術產品\[21\]\[22\]。2007年，Tanox以9.19億美元賣給了[Genentech](../Page/基因泰克.md "wikilink")\[23\]，唐南珊繼續以Tanox董事長身分參與其中\[24\]。
 
@@ -28,7 +28,7 @@ Tanox也積極開發TNX-355，一種治療HIV/愛滋病的抗體。唐南珊表�
 唐南珊發表的研究有超過35篇論文，主題包括[單株抗體和HIV](https://zh.wikipedia.org/wiki/單株抗體 "wikilink")。她已獲得七項專利\[26\]。
 
 她曾擔任休士頓聯邦儲備銀行、BioHouston、 世界健康基金會(Project
-HOPE)、[查爾斯河實驗室的董事](https://zh.wikipedia.org/wiki/查尔斯河实验室 "wikilink")、以及[德州大學安德森癌症中心](../Page/德州大學安德森癌症中心.md "wikilink")(The
+HOPE)、[查爾斯河實驗室的董事](../Page/查尔斯河实验室.md "wikilink")、以及[德州大學安德森癌症中心](../Page/德州大學安德森癌症中心.md "wikilink")(The
 University of Texas M. D. Anderson Cancer
 Center)的監事等職位\[27\]\[28\]。作為一家生醫企業的創辦人，唐南珊後來亦成為了一名專門於護理企業的[天使投资者](../Page/天使投资者.md "wikilink")，並且實施了多個對於社區衛生教育計劃的慈善工作\[29\]。As
 part of Project Hope's China programs, she has had the responsibility of

@@ -7,11 +7,11 @@ Yi，1999年1月27日－）現為[唐人影視旗下演員](https://zh.wikipedia
 
 他在念大學一年級時被經紀人發掘並簽約唐人影視，成為胡歌、古力娜扎的同門師弟並利用暑假的時間到國外接受了專業的舞蹈和表演培訓。
 
-2017年，參加青春校園網絡劇《[你好，舊時光](https://zh.wikipedia.org/wiki/你好，舊時光 "wikilink")》選角活動，與趙順然、[蔡徐坤一同試鏡男主角](https://zh.wikipedia.org/wiki/蔡徐坤 "wikilink")，但未能選上；同年，作為固定嘉賓參加由[優酷視頻製作的偶像養成類節目](https://zh.wikipedia.org/wiki/優酷視頻 "wikilink")《美少年學社》，從專業能力到藝人修養進行了全方位的訓練\[1\]。同年11月，參加\[\[優酷視頻\[\[時尚綜藝節目《瘋狂衣櫥》，以41票的成績獲得第6期冠軍\[2\]；12月，個人首部出演的電影作品《希望島》正式開拍，並正式以演員身份出道\[3\]。
+2017年，參加青春校園網絡劇《[你好，舊時光](https://zh.wikipedia.org/wiki/你好，舊時光 "wikilink")》選角活動，與趙順然、[蔡徐坤一同試鏡男主角](../Page/蔡徐坤.md "wikilink")，但未能選上；同年，作為固定嘉賓參加由[優酷視頻製作的偶像養成類節目](https://zh.wikipedia.org/wiki/優酷視頻 "wikilink")《美少年學社》，從專業能力到藝人修養進行了全方位的訓練\[1\]。同年11月，參加\[\[優酷視頻\[\[時尚綜藝節目《瘋狂衣櫥》，以41票的成績獲得第6期冠軍\[2\]；12月，個人首部出演的電影作品《希望島》正式開拍，並正式以演員身份出道\[3\]。
 
 ### 2018年至今:嶄露光芒
 
-2018年8月9日，與[邢菲](https://zh.wikipedia.org/wiki/邢菲 "wikilink")、[唐曉天](https://zh.wikipedia.org/wiki/唐曉天 "wikilink")、[鄭英辰合作主演改編自](https://zh.wikipedia.org/wiki/鄭英辰 "wikilink")[趙乾乾同名小說的青春愛情劇](https://zh.wikipedia.org/wiki/趙乾乾 "wikilink")《[致我們暖暖的小時光](https://zh.wikipedia.org/wiki/致我們暖暖的小時光 "wikilink")》在[浙江](https://zh.wikipedia.org/wiki/浙江 "wikilink")[寧波開機](https://zh.wikipedia.org/wiki/寧波 "wikilink")\[4\]，在劇中飾演顧未易\[5\]\[6\]，2019年4月2日正式開播\[7\]\[8\]。劇集播出後，其人氣急升，迅速走紅\[9\]。
+2018年8月9日，與[邢菲](../Page/邢菲.md "wikilink")、[唐曉天](https://zh.wikipedia.org/wiki/唐曉天 "wikilink")、[鄭英辰合作主演改編自](https://zh.wikipedia.org/wiki/鄭英辰 "wikilink")[趙乾乾同名小說的青春愛情劇](https://zh.wikipedia.org/wiki/趙乾乾 "wikilink")《[致我們暖暖的小時光](https://zh.wikipedia.org/wiki/致我們暖暖的小時光 "wikilink")》在[浙江](https://zh.wikipedia.org/wiki/浙江 "wikilink")[寧波開機](https://zh.wikipedia.org/wiki/寧波 "wikilink")\[4\]，在劇中飾演顧未易\[5\]\[6\]，2019年4月2日正式開播\[7\]\[8\]。劇集播出後，其人氣急升，迅速走紅\[9\]。
 
 ## 影視作品
 

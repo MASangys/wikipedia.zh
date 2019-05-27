@@ -1,4 +1,4 @@
-《**[HIStory系列](https://zh.wikipedia.org/wiki/HIStory_\(2017年電視劇\) "wikilink")**》，第三季分為二個單元《圈套》、《那一天》\[1\]於2018年第四季開拍，編劇一樣找來成功打造第一與第二季的的林珮瑜，李青蓉和蔡宓潔導演也將再次執導第三季。
+《**[HIStory系列](../Page/HIStory_\(2017年電視劇\).md "wikilink")**》，第三季分為二個單元《圈套》、《那一天》\[1\]於2018年第四季開拍，編劇一樣找來成功打造第一與第二季的的林珮瑜，李青蓉和蔡宓潔導演也將再次執導第三季。
 
 ## 播出時間
 
@@ -17,7 +17,7 @@
 <tbody>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/LINE_TV" title="wikilink">LINE TV</a></p></td>
+<p><a href="../Page/LINE_TV.md" title="wikilink">LINE TV</a></p></td>
 <td><center></td>
 <td><p>圈套</p></td>
 <td><center>
@@ -67,14 +67,14 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/徐鈞浩" title="wikilink">徐鈞浩</a></p></td>
+<p><a href="../Page/徐鈞浩.md" title="wikilink">徐鈞浩</a></p></td>
 <td><center>
 <p>孟少飛</p></td>
 <td><p>偵三隊刑警，有勇有謀，勇敢在前智謀在後，像火一樣的個性，知道往哪裡燒，雖然容易衝動，但衝動完是會思考的人。 從警大就一直照顧自己的前輩麗真姊就像母親一樣。所以當四年前的事件奪走麗真的生命，讓大家認為麗真和黑道行天盟掛鉤，而唯一的生還者唐毅居然說他毫不知情？為了洗刷麗真的清白，四年來少飛緊追著唐毅不放。 少飛是個愛恨分明，感情直接的人，所以當他漸漸了解自己對唐毅的心意時，毫不隱藏直接坦承，就像抓到目標咬到就不放口。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/吳承洋_(1989年)" title="wikilink">吳承洋</a></p></td>
+<p><a href="../Page/吳承洋_(1989年).md" title="wikilink">吳承洋</a></p></td>
 <td><center>
 <p>唐毅</p></td>
 <td><p>行天盟少主，防備心重，不輕信他人，對任何人事物沒有喜惡之分，淡如冰水毫不在乎的個性，唯獨只重視唐國棟，把唐國棟當成神一般看待，唐國棟的所行所為就像是教條，唐毅尊崇信仰著。 唐國棟是唐毅身處黑暗中的那曙陽光。四年前的事件，唐國棟死了，唐毅是唯一的生還者。為了親手手刃兇手，唐毅整整布局了四年，原以為能替唐國棟一報血海深仇，萬萬沒想到，少飛打亂唐毅的計畫……</p></td>
@@ -95,7 +95,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/林意箴" title="wikilink">林意箴</a></p></td>
+<p><a href="../Page/林意箴.md" title="wikilink">林意箴</a></p></td>
 <td><center>
 <p>左紅葉</p></td>
 <td><p>行天盟的大小姐，世海集團的總裁，在外人面前是果敢、有主見女性，只有在家人面前才會展現撒嬌任性一面。 唐國棟對紅葉視如己出，從小就被國棟栽培為知識分子，不參與黑幫打殺，是幫裡眾人捧在手心的小公主。國棟死掉後，休學回台協助唐毅一起完成國棟漂白心願。和唐毅一起長大，喜歡向唐毅撒嬌，故意逗弄少飛。</p></td>
@@ -137,7 +137,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/章廣辰" title="wikilink">章廣辰</a></p></td>
+<p><a href="../Page/章廣辰.md" title="wikilink">章廣辰</a></p></td>
 <td><center>
 <p>Andy</p></td>
 <td><p>夜店老闆兼牛郎，唐毅的朋友</p></td>
@@ -151,14 +151,14 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/蔡承邑" title="wikilink">蔡承邑</a></p></td>
+<p><a href="../Page/蔡承邑.md" title="wikilink">蔡承邑</a></p></td>
 <td><center>
 <p>阿志</p></td>
 <td><p>偵三隊隊員</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/劉宇昕" title="wikilink">劉宇昕</a></p></td>
+<p><a href="../Page/劉宇昕.md" title="wikilink">劉宇昕</a></p></td>
 <td><center>
 <p>俊偉</p></td>
 <td><p>偵三隊隊員</p></td>
@@ -333,7 +333,7 @@
 <tr class="even">
 <td><p>片頭曲</p></td>
 <td><p>我怎能留下你</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃奕儒" title="wikilink">黃奕儒</a></p></td>
+<td><p><a href="../Page/黃奕儒.md" title="wikilink">黃奕儒</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -341,8 +341,8 @@
 <tr class="odd">
 <td><p>片尾曲</p></td>
 <td><p>何妨</p></td>
-<td><p><a href="../Page/紀家盈.md" title="wikilink">家家Feat</a>.<a href="https://zh.wikipedia.org/wiki/茄子蛋" title="wikilink">茄子蛋</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/茄子蛋" title="wikilink">黃奇斌</a></p></td>
+<td><p><a href="../Page/紀家盈.md" title="wikilink">家家Feat</a>.<a href="../Page/茄子蛋.md" title="wikilink">茄子蛋</a></p></td>
+<td><p><a href="../Page/茄子蛋.md" title="wikilink">黃奇斌</a></p></td>
 <td></td>
 <td></td>
 </tr>

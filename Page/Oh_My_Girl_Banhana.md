@@ -11,9 +11,9 @@ Girl的小分隊](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")，成員�
 | --------------------------------------------------------- |
 | 藝名                                                        |
 | 漢字                                                        |
-| **[孝定](https://zh.wikipedia.org/wiki/孝定 "wikilink")**     |
+| **[孝定](../Page/孝定.md "wikilink")**                        |
 | [Binnie](https://zh.wikipedia.org/wiki/Binnie "wikilink") |
-| [Arin](https://zh.wikipedia.org/wiki/Arin "wikilink")     |
+| [Arin](../Page/Arin.md "wikilink")                        |
 |                                                           |
 
 ## 注釋

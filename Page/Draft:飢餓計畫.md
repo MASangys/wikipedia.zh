@@ -4,10 +4,10 @@ Backe-Plan）是納粹德國在二次世界大戰期間施行的一項計畫，�
 這是一場精心策畫的饑荒，以政治為出發點計畫並實施。該計劃是在德意志國防軍（德國武裝部隊）入侵行動的規劃階段制定的，旨在將烏克蘭食品從俄羅斯中部和北部轉移出去，並將其重新定向，以利於入侵的軍隊和德國人口。
 
 The plan resulted in the deaths of millions of people.\[1\] The plan as
-a means of [mass murder](https://zh.wikipedia.org/wiki/屠杀 "wikilink")
-was outlined in several documents, including one that became known as ,
-which quoted a number of "20 to 30 million" expected Russian deaths from
-"military actions and crises of food supply."
+a means of [mass murder](../Page/屠杀.md "wikilink") was outlined in
+several documents, including one that became known as , which quoted a
+number of "20 to 30 million" expected Russian deaths from "military
+actions and crises of food supply."
 
 ## 計畫綱要
 

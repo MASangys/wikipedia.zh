@@ -4,9 +4,9 @@ Code”（相较于[RC2和](https://zh.wikipedia.org/wiki/RC2 "wikilink")[RC4](.
 
 ## 简介
 
-和许多加密方法不同，RC5支持可变的[块大小](https://zh.wikipedia.org/wiki/块大小 "wikilink")(32、64或128[位元](../Page/位元.md "wikilink"))，[密钥长度](https://zh.wikipedia.org/wiki/密钥长度 "wikilink")（0至2040位）和加密轮数（0～255）。最初建议选择的参数是64位的块大小，128位的密钥和12轮加密。
+和许多加密方法不同，RC5支持可变的[块大小](../Page/块大小.md "wikilink")(32、64或128[位元](../Page/位元.md "wikilink"))，[密钥长度](https://zh.wikipedia.org/wiki/密钥长度 "wikilink")（0至2040位）和加密轮数（0～255）。最初建议选择的参数是64位的块大小，128位的密钥和12轮加密。
 
-RC5的一个关键特征是使用基于数据的置换。RC5的其中一个目标是促进对于这类作为[原始密码](https://zh.wikipedia.org/wiki/原始密码 "wikilink")的操作的研究和评估。RC5也包括一些的[取模加法和](https://zh.wikipedia.org/wiki/模算數 "wikilink")[逻辑异或(XOR)运算](../Page/逻辑异或.md "wikilink")。这个加密的一般结构是一种类[费斯妥网络](https://zh.wikipedia.org/wiki/费斯妥密码 "wikilink")。加密和解密程序可以用几行代码写完，但密钥的生成算法更复杂。密钥扩展使用了[e和](../Page/E_\(数学常数\).md "wikilink")[黄金比例代入一个](../Page/黄金分割率.md "wikilink")[单向函数](../Page/單向函數.md "wikilink")，将所得值作为“[袖子里是空的](https://zh.wikipedia.org/wiki/袖子里是空的数字 "wikilink")”数字（即无任何来源依据的魔法数字）。算法的诱人的简洁性和基于数据的置换的特性，让RC5吸引了众多密码研究人员将其作为研究对象。
+RC5的一个关键特征是使用基于数据的置换。RC5的其中一个目标是促进对于这类作为[原始密码](https://zh.wikipedia.org/wiki/原始密码 "wikilink")的操作的研究和评估。RC5也包括一些的[取模加法和](../Page/模算數.md "wikilink")[逻辑异或(XOR)运算](../Page/逻辑异或.md "wikilink")。这个加密的一般结构是一种类[费斯妥网络](../Page/费斯妥密码.md "wikilink")。加密和解密程序可以用几行代码写完，但密钥的生成算法更复杂。密钥扩展使用了[e和](../Page/E_\(数学常数\).md "wikilink")[黄金比例代入一个](../Page/黄金分割率.md "wikilink")[单向函数](../Page/單向函數.md "wikilink")，将所得值作为“[袖子里是空的](https://zh.wikipedia.org/wiki/袖子里是空的数字 "wikilink")”数字（即无任何来源依据的魔法数字）。算法的诱人的简洁性和基于数据的置换的特性，让RC5吸引了众多密码研究人员将其作为研究对象。
 RC5通常被记为RC5-w/r/b，w=字的大小（以bit为单位），r=加密轮数，b=密钥的字节数。
 
 ## 算法
@@ -163,7 +163,7 @@ void RC5_DECRYPT(WORD *ct, WORD *pt)
 
 ## 密码分析
 
-12轮RC5(64位块)容易受到使用了2<sup>44</sup>的选定的明文的[差分攻击](https://zh.wikipedia.org/wiki/差分密码分析 "wikilink")。\[3\]
+12轮RC5(64位块)容易受到使用了2<sup>44</sup>的选定的明文的[差分攻击](../Page/差分密码分析.md "wikilink")。\[3\]
 18–20轮加密则被认为可以提供足够的保护。
 
 拥有其算法专利的公司[RSA安全](https://zh.wikipedia.org/wiki/RSA_Security "wikilink")，\[4\]

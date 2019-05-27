@@ -1,5 +1,5 @@
 **Black
-ACE**（），是依據[优酷偶像男團競演養成類真人秀](../Page/优酷.md "wikilink")《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》的人氣前八名所組成的團體，於2019年成立，成員包括：[趙品霖](https://zh.wikipedia.org/wiki/趙品霖 "wikilink")、[楊桐](https://zh.wikipedia.org/wiki/楊桐 "wikilink")、[商振博](https://zh.wikipedia.org/wiki/商振博 "wikilink")、[賴煜哲](https://zh.wikipedia.org/wiki/賴煜哲 "wikilink")、[田書臣](https://zh.wikipedia.org/wiki/田書臣 "wikilink")、[王迪](../Page/王迪.md "wikilink")、[陳順](https://zh.wikipedia.org/wiki/陳順 "wikilink")、[龍泓昊](https://zh.wikipedia.org/wiki/龍泓昊 "wikilink")\[1\]。粉絲名為「
+ACE**（），是依據[优酷偶像男團競演養成類真人秀](../Page/优酷.md "wikilink")《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》的人氣前八名所組成的團體，於2019年成立，成員包括：[趙品霖](../Page/趙品霖.md "wikilink")、[楊桐](https://zh.wikipedia.org/wiki/楊桐 "wikilink")、[商振博](https://zh.wikipedia.org/wiki/商振博 "wikilink")、[賴煜哲](https://zh.wikipedia.org/wiki/賴煜哲 "wikilink")、[田書臣](https://zh.wikipedia.org/wiki/田書臣 "wikilink")、[王迪](../Page/王迪.md "wikilink")、[陳順](https://zh.wikipedia.org/wiki/陳順 "wikilink")、[龍泓昊](https://zh.wikipedia.org/wiki/龍泓昊 "wikilink")\[1\]。粉絲名為「
 桃心 」。
 
 ## 成員資料
@@ -22,7 +22,7 @@ ACE**（），是依據[优酷偶像男團競演養成類真人秀](../Page/优�
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p><big><strong><a href="https://zh.wikipedia.org/wiki/趙品霖" title="wikilink">趙品霖</a></strong></big><br />
+<td><p><big><strong><a href="../Page/趙品霖.md" title="wikilink">趙品霖</a></strong></big><br />
 Pearain</p></td>
 <td><p>Zhao Pinlin</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浙江" title="wikilink">浙江</a><a href="../Page/温州市.md" title="wikilink">溫州</a><br />

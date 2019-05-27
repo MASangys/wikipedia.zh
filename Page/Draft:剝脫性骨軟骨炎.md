@@ -28,7 +28,7 @@ spine）遭到外側面夾擊（impingement）\[18\]。
 
 ## 病因
 
-剝脫性骨軟骨關節炎的成因迄今未明，相關的假說包含[物理性因素](https://zh.wikipedia.org/wiki/創傷 "wikilink")、[基因遺傳](../Page/遺傳.md "wikilink")、[血液供應不足](https://zh.wikipedia.org/wiki/缺血 "wikilink")，以及股骨遠端骨骺板異常骨化等等\[19\]。雖然本疾病被稱為「骨軟骨關節炎」，但組織學上缺乏發炎細胞參與，屬於一種非發炎性疾病。目前認為骨關節反覆性的會導致硬骨的輕微磨損，進而影響軟骨下硬骨的血流供應，導致硬骨缺血或生長異常\[20\]。
+剝脫性骨軟骨關節炎的成因迄今未明，相關的假說包含[物理性因素](https://zh.wikipedia.org/wiki/創傷 "wikilink")、[基因遺傳](../Page/遺傳.md "wikilink")、[血液供應不足](../Page/缺血.md "wikilink")，以及股骨遠端骨骺板異常骨化等等\[19\]。雖然本疾病被稱為「骨軟骨關節炎」，但組織學上缺乏發炎細胞參與，屬於一種非發炎性疾病。目前認為骨關節反覆性的會導致硬骨的輕微磨損，進而影響軟骨下硬骨的血流供應，導致硬骨缺血或生長異常\[20\]。
 
 創傷比起缺血性骨壞死，更容易直接導致青少年罹患剝脫性骨軟骨炎\[21\]\[22\]。而在成人，[內源性或](https://zh.wikipedia.org/wiki/内源 "wikilink")的創傷亦常是造成剝脫性骨軟骨炎的主因，甚至創傷本身就可以單獨造成本疾病\[23\]。青少年運動員發生[重複使力傷害的發生率近年來逐年上升](https://zh.wikipedia.org/wiki/重複使力傷害 "wikilink")，這可能肇因於就醫頻率的增加\[24\]。這更佐證剝脫性骨軟骨炎
 
@@ -173,9 +173,8 @@ results.\[50\]
 
 [Computed
 tomography](https://zh.wikipedia.org/wiki/X射线计算机断层成像 "wikilink")
-(CT) scans and
-[Technetium-99m](https://zh.wikipedia.org/wiki/鎝-99m "wikilink") s are
-also sometimes used to monitor the progress of treatment. Unlike plain
+(CT) scans and [Technetium-99m](../Page/鎝-99m.md "wikilink") s are also
+sometimes used to monitor the progress of treatment. Unlike plain
 radiographs (X-rays), CT scans and MRI scans can show the exact location
 and extent of the lesion.\[51\] Technetium bone scans can detect
 regional blood flow and the amount of
@@ -188,10 +187,9 @@ annotated.jpg|[CT
 scan](https://zh.wikipedia.org/wiki/X射线计算机断层成像 "wikilink")
 and  of a case of osteochondritis dissecans of parts of the
 superio-medial [talus](../Page/距骨.md "wikilink"). <File:OCD> WalterReed
-MRI-Sagital-T1.jpeg|[Sagittal
-MRI](https://zh.wikipedia.org/wiki/矢状面 "wikilink"): Linear low
-[T1](https://zh.wikipedia.org/wiki/弛緩_\(核磁共振\) "wikilink") signal at the
-articular surfaces of the
+MRI-Sagital-T1.jpeg|[Sagittal MRI](../Page/矢状面.md "wikilink"): Linear
+low [T1](https://zh.wikipedia.org/wiki/弛緩_\(核磁共振\) "wikilink") signal at
+the articular surfaces of the
 [lateral](https://zh.wikipedia.org/wiki/人体解剖学方位 "wikilink")
 aspects of the  confirms the presence of OCD. <File:OCD> WalterReed
 MRI-Sagital-T2.jpeg|Sagittal MRI: High
@@ -411,14 +409,13 @@ surgery—50% of cases will heal.\[88\] Recovery in juveniles can be
 attributed to the bone's ability to repair damaged or dead bone tissue
 and cartilage in a process called bone remodeling. Open growth plates
 are characterized by increased numbers of undifferentiated chondrocytes
-([stem cells](https://zh.wikipedia.org/wiki/間充質幹細胞 "wikilink")) which
-are precursors to both bone and cartilaginous tissue. As a result, open
-growth plates allow for more of the stem cells necessary for repair in
-the affected joint.\[89\] Unstable, large, full-thickness lesions
-(stage III and IV) or lesions of any stage found in the skeletally
-mature are more likely to fail non-operative treatment. These lesions
-offer a worse prognosis and surgery is required in most
-cases.\[90\]\[91\]
+([stem cells](../Page/間充質幹細胞.md "wikilink")) which are precursors to
+both bone and cartilaginous tissue. As a result, open growth plates
+allow for more of the stem cells necessary for repair in the affected
+joint.\[89\] Unstable, large, full-thickness lesions (stage III and IV)
+or lesions of any stage found in the skeletally mature are more likely
+to fail non-operative treatment. These lesions offer a worse prognosis
+and surgery is required in most cases.\[90\]\[91\]
 
 ## Epidemiology
 

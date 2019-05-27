@@ -54,7 +54,7 @@
         普通
 
           -
-            [南吹田](https://zh.wikipedia.org/wiki/南吹田站 "wikilink")（JR-F03）－**JR淡路（JR-F04）**－[城北公园通](https://zh.wikipedia.org/wiki/城北公园通站 "wikilink")（JR-F05）
+            [南吹田](../Page/南吹田站.md "wikilink")（JR-F03）－**JR淡路（JR-F04）**－[城北公园通](https://zh.wikipedia.org/wiki/城北公园通站 "wikilink")（JR-F05）
 
 ## 参考資料
 

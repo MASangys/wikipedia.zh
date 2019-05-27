@@ -574,7 +574,7 @@ function p._simpleRealText(number, can_math, frame)
 `       body = body .. '*' .. tostring(number * number) .. '的`[`平方根`](../Page/平方根.md "wikilink")`。\n'`
 `   end`
 `   if math.abs(number - math.pi) <= 1e-15 then -- 要求超高精度`
-`       body = body .. '*`[`圓周率`](https://zh.wikipedia.org/wiki/圓周率 "wikilink")`。\n'`
+`       body = body .. '*`[`圓周率`](../Page/圓周率.md "wikilink")`。\n'`
 `   end`
 `   return body`
 

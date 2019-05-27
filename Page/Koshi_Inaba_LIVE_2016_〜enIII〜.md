@@ -1,5 +1,5 @@
 《**Koshi Inaba LIVE 2016
-〜enIII〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z主唱](../Page/B'z.md "wikilink")[稻葉浩志的第](../Page/稻葉浩志.md "wikilink")4張影像作品。[2016年](../Page/2016年.md "wikilink")[8月3日發售](../Page/8月3日.md "wikilink")。
+〜enIII〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z主唱](../Page/B'z.md "wikilink")[稻葉浩志的第](../Page/稻葉浩志.md "wikilink")4張影像作品。[2016年](../Page/2016年.md "wikilink")[8月3日發售](../Page/8月3日.md "wikilink")。
 
 ## 内容
 
@@ -41,8 +41,7 @@ Inaba LIVE 2016
 5.  **[くちびる](https://zh.wikipedia.org/wiki/マグマ "wikilink")**
 6.  **[GO](../Page/志庵.md "wikilink")**
 7.  **[水平線](../Page/Peace_Of_Mind.md "wikilink")**
-8.  **[I AM YOUR
-    BABY](https://zh.wikipedia.org/wiki/Wonderland "wikilink")**
+8.  **[I AM YOUR BABY](../Page/Wonderland.md "wikilink")**
 9.  **[念書](https://zh.wikipedia.org/wiki/念書 "wikilink")**
 10. **[今宵キミト](../Page/Hadou.md "wikilink")**
 11. **[ハズムセカイ](../Page/Peace_Of_Mind.md "wikilink")**

@@ -29,7 +29,7 @@
     為了避免成為魔王，而是成為「能夠實現人們的幸福、最高最善的王」，這樣的夢想而促使他決定成為假面騎士ZI-O戰鬥。
     將月讀和月津視為同伴，并為向他們表訴中心而說出「假如我真的成為魔王、無論什麼時候也可以來打倒我」的發言。
     本人有著天生的“脫離感”，即並不過度參與事件與人際交流，而是以近似旁觀者的態度觀察身邊人的個性和言行，并根據相關信息獨自一人制定計劃并實施\[10\]。
-    名字由來是作者[石之森章太郎老師以前住過的公寓](../Page/石之森章太郎.md "wikilink")[常盤莊](https://zh.wikipedia.org/wiki/常盤莊 "wikilink")
+    名字由來是作者[石之森章太郎老師以前住過的公寓](../Page/石之森章太郎.md "wikilink")[常盤莊](../Page/常盤莊.md "wikilink")
 
 ****（飾，大陆配音：[刘明月](https://zh.wikipedia.org/wiki/刘明月 "wikilink")）
 
@@ -51,7 +51,7 @@
     第28话与庄吾冰释前嫌后和月读两人搬回九时五时屋，但是对于黑沃兹也入住九时五时屋感到不满。
     第29話由月讀之口透露與黑沃茲關係不佳的原因，並在之後的30話互道心聲，同時也表示想要見證自己與莊吾能創造怎樣的未來。
 
-****（二飾，大陆配音：[皇贞季](https://zh.wikipedia.org/wiki/皇贞季 "wikilink")）
+****（二飾，大陆配音：[皇贞季](../Page/皇贞季.md "wikilink")）
 
   -
     **假面騎士Woz**的變身者。
@@ -64,7 +64,7 @@
     第30話被莊吾挑明“若要讓未來變成自己想要的樣子就應努力戰鬥并創造”后改變心意，將自身與ZI-OⅡ手錶、Geiz
     Revive手錶共鳴產生的Zi-O三重手錶託付給莊吾，在與黑沃茲交換關於新的逢魔之日的意見后表達了對莊吾作為黑沃茲夥伴與魔王的鐘意和羨慕，提醒黑沃茲當心斯瓦魯茲后消失。
 
-****（飾，大陆配音：[皇贞季](https://zh.wikipedia.org/wiki/皇贞季 "wikilink")）
+****（飾，大陆配音：[皇贞季](../Page/皇贞季.md "wikilink")）
 
   -
     **假面騎士Woz**\[15\]的變身者。
@@ -96,7 +96,7 @@
 
 ### 平成假面騎士
 
-****（[犬飼貴丈飾](https://zh.wikipedia.org/wiki/犬飼貴丈 "wikilink")，大陆配音：[郝祥海](https://zh.wikipedia.org/wiki/郝祥海 "wikilink")）
+****（[犬飼貴丈飾](../Page/犬飼貴丈.md "wikilink")，大陆配音：[郝祥海](https://zh.wikipedia.org/wiki/郝祥海 "wikilink")）
 
   -
     **假面騎士Build**的變身者。
@@ -123,7 +123,7 @@
     在另類EX-AID在2016年被假面騎士ZI-O
     EX-AID裝甲打倒后通過莊吾得知了飯田啟介的病情并安排其轉入聖都大學附屬病院接受治療，隨後被莊吾託付了空白手錶。
 
-****（[瀨戶利樹飾](https://zh.wikipedia.org/wiki/瀨戶利樹 "wikilink")，大陆配音：[郭盛](https://zh.wikipedia.org/wiki/郭盛 "wikilink")）
+****（[瀨戶利樹飾](../Page/瀨戶利樹.md "wikilink")，大陆配音：[郭盛](https://zh.wikipedia.org/wiki/郭盛 "wikilink")）
 
   -
     **假面騎士Brave**的變身者。
@@ -153,7 +153,7 @@
     於第7\[27\]-8話客串，受到另類Wizard的影響而失去身為假面騎士Beast的記憶、歷史和力量。
     在2018年時因為另類Wizard被暫時打敗而恢復記憶，並且擁有Wizard和Beast的騎士手錶\[28\]，但只把Wizard的騎士手錶交給月津使用。
 
-****（[渡部秀飾](../Page/渡部秀.md "wikilink")，大陆配音：[藤新](https://zh.wikipedia.org/wiki/藤新 "wikilink")）
+****（[渡部秀飾](../Page/渡部秀.md "wikilink")，大陆配音：[藤新](../Page/藤新.md "wikilink")）
 
   -
     **假面騎士OOO**的變身者。
@@ -163,7 +163,7 @@
     TaJaDol聯組的騎士手錶交給莊吾。
     當2010年的烏爾將另類OOO手錶交與檀黎斗時，正與貓Yummy激戰\[30\]，但受到另類OOO的影響而解除了變身（同時力量同源的敵人貓Yummy也一同消失）。
 
-**\[31\]**（[岩永徹也飾](https://zh.wikipedia.org/wiki/岩永徹也 "wikilink")，大陆配音：郝祥海）
+**\[31\]**（[岩永徹也飾](../Page/岩永徹也.md "wikilink")，大陆配音：郝祥海）
 
   -
     **假面騎士Genm**的變身者。
@@ -187,11 +187,11 @@
     在2018年時遇上同樣被阿修羅放逐至海爾冥界森林的月津，並得知他想改變命運的想法，其告訴月津並沒有感受到他有能改變命運的強大力量。
     在另類鎧武在2013年及2018年被兩名假面騎士ZI-O鎧武裝甲第二次打倒后和其他被放逐至海姆冥界森林的巴隆隊成員回到原來的世界。
 
-**\[33\]**（[西銘駿飾](../Page/西銘駿.md "wikilink")，大陆配音：[苏尚卿](https://zh.wikipedia.org/wiki/苏尚卿 "wikilink")）
+**\[33\]**（[西銘駿飾](../Page/西銘駿.md "wikilink")，大陆配音：[苏尚卿](../Page/苏尚卿.md "wikilink")）
 
   -
     **假面騎士Ghost**的變身者，亦於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》中以假面騎士Ghost姿態登場。
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》中以假面騎士Ghost姿態登場。
     於第12-14話客串。受到另類Ghost的影響而失去身為假面騎士Ghost的記憶、歴史和力量和避免他的死期，但依然在作為不可思議現象研究所的大天空寺工作。在莊吾靈魂出竅時唯一看到莊吾的人\[34\]。
     第一個與主角同時介入調查另類騎士事件的傳說騎士，為了解決另類Ghost而主動將Ghost騎士手錶交給莊吾。
     與莊吾共同駕駛時間魔神回到2015年時因另類Ghost尚未誕生而恢復記憶及變身能力、與當時的深海誠=假面騎士Specter短暫並肩作戰后即因另類Ghost誕生而解除變身。
@@ -203,11 +203,11 @@
     **假面騎士Specter**的變身者。
     於第14話客串。身在2015年時點，受到另類Ghost的影響而解除變身，對2018年的尊提及的「這邊的尊」\[36\]感到疑惑。
 
-**門矢士（）**（[井上正大飾](../Page/井上正大.md "wikilink")，大陆配音：[宝木中阳](https://zh.wikipedia.org/wiki/宝木中阳 "wikilink")、12话片尾预告为[薛成](https://zh.wikipedia.org/wiki/薛成 "wikilink"))
+**門矢士（）**（[井上正大飾](../Page/井上正大.md "wikilink")，大陆配音：[宝木中阳](../Page/宝木中阳.md "wikilink")、12话片尾预告为[薛成](https://zh.wikipedia.org/wiki/薛成 "wikilink"))
 
   -
     **假面騎士Decade**的變身者。於第13-16、27-28話客串，亦於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》中以假面騎士Decade姿態登場。世界的破壞者，因為沒有各世界的個體關係無法對其影響，沒有失去身為假面騎士Decade的記憶、歷史和力量，來到該世界時就擁有Decade手錶，透過沃茲的關係而成為時劫者的協助者\[37\]，以新入手的自W到Build的假面騎士的力量和Neo
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》中以假面騎士Decade姿態登場。世界的破壞者，因為沒有各世界的個體關係無法對其影響，沒有失去身為假面騎士Decade的記憶、歷史和力量，來到該世界時就擁有Decade手錶，透過沃茲的關係而成為時劫者的協助者\[37\]，以新入手的自W到Build的假面騎士的力量和Neo
     Decade驅動器與莊吾一行人衝突。
     第13話首次登場時與月津對戰而被月津誤會其為假面騎士Agito並以壓倒性的力量擊敗之，之後在衆人面前從假面騎士Agito變成假面騎士響鬼時亦以壓倒性的力量擊敗莊吾。
     第14話卻可自行穿越自2015年\[38\]並再以假面騎士Ghost的形態與月津的Ghost
@@ -223,56 +223,56 @@
     **假面騎士電王 Plat Form ＆ Liner
     Form**的變身者，因自身是特異點的關係沒有失去身為假面騎士電王的記憶、歷史和力量。
     於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》中以U良太郎形態登場。
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》中以U良太郎形態登場。
 
 **桃太洛斯（）**（[關俊彥聲演](../Page/關俊彥.md "wikilink")）
 
   -
     **假面騎士電王 Sword Form**的變身者。
     於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》中登場。
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》中登場。
 
 **浦太洛斯（）**（[遊佐浩二聲演](../Page/遊佐浩二.md "wikilink")）
 
   -
     **假面騎士電王 Rod Form**的變身者。
     於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》中登場。
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》中登場。
 
 **金太洛斯（）**（[寺杣昌紀聲演](../Page/寺杣昌紀.md "wikilink")）
 
   -
     **假面騎士電王 Axe Form**的變身者。
     於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》中登場
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》中登場
 
 **龍太洛斯（）**（[鈴村健一聲演](../Page/鈴村健一.md "wikilink")）
 
   -
     **假面騎士電王 Gun Form**的變身者。
     於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》中登場
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》中登場
 
 **猿渡一海（）**（飾）
 
   -
     **假面騎士Grease** 的變身者。
     於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》中登場。
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》中登場。
 
 **冰室幻德（）**（飾）
 
   -
     **假面騎士Rogue** 的變身者。
     於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》中登場。
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》中登場。
 
 **城戶真司（）**（[須賀貴匡飾](../Page/須賀貴匡.md "wikilink")）
 
   -
     **假面騎士龍騎**的變身者。
     於第21和22話客串，亦於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》中以假面騎士龍騎姿態和《[假面騎士ZI-O
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》中以假面騎士龍騎姿態和《[假面騎士ZI-O
     外傳 PART2『RIDER TIME
     假面騎士龍騎』](https://zh.wikipedia.org/wiki/假面騎士ZI-O_外傳_RIDER_TIME#RIDER_TIME_假面騎士龍騎 "wikilink")》登場。由於在原作結局中神崎士郎發動最後一次的時間降臨讓時間回到了騎士大戰未發生的時間點並不再發起騎士大戰，因此失去身為假面騎士龍騎的記憶、歷史和力量，是目前唯一一位非因另類騎士而是因為其歷史本身早就在故事結局中被抹消而失去力量的騎士。\[41\]
 
@@ -281,7 +281,7 @@
   -
     **假面騎士龍牙**的變身者。
 
-**秋山蓮（）**（[松田悟志飾](https://zh.wikipedia.org/wiki/松田悟志 "wikilink")）
+**秋山蓮（）**（[松田悟志飾](../Page/松田悟志.md "wikilink")）
 
   -
     **假面騎士Knight（夜騎）**的變身者。
@@ -387,7 +387,7 @@
     **假面騎士Agito**的變身者。
     於本篇第13話首次在月津的口中提及，第31-32話客串。因為另類Agito诞生在2019年無法對其影響，沒有失去身為假面騎士Agito的記憶、歷史和力量。
     於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》中以假面騎士Agito姿態登場。
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》中以假面騎士Agito姿態登場。
     第31話身在法國打工時因真魚的關於G3被襲擊事件簡訊而趕回日本。
     第32話與另類Agito戰鬥期間被時劫者利用另類Agito手錶奪走其身為假面騎士Agito的力量，但在莊吾的幫助下一度奪回並與莊吾等人聯手打敗另類Agito。最後將Agito騎士手錶交給了莊吾。
 
@@ -499,7 +499,7 @@
     在巴士车祸中被门矢士救下并见证了当时的一切事件后被门矢士送回2019年，阻止了庄吾与月津的争斗并与月津重新搬回九時五時屋。
     在第31話得知在被反抗組織收留前，並無過去的記憶，因此想不起來自己的真名，而「月讀」這個名字則是她在反抗軍時的代稱。
 
-****（[生瀨勝久](../Page/生瀨勝久.md "wikilink")\[65\]飾，大陆配音：[李璐](https://zh.wikipedia.org/wiki/李璐 "wikilink")）
+****（[生瀨勝久](../Page/生瀨勝久.md "wikilink")\[65\]飾，大陆配音：[李璐](../Page/李璐.md "wikilink")）
 
   -
     常磐莊吾的大叔父，也是時鐘店「」的店主。
@@ -551,20 +551,20 @@
 **石動美空（）**（飾）
 
   -
-    原作《[假面騎士Build](https://zh.wikipedia.org/wiki/假面騎士Build "wikilink")》新世界中擔任咖啡廳**nascita**服務員，於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》中登場。
+    原作《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》新世界中擔任咖啡廳**nascita**服務員，於《[假面騎士平成Generations
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》中登場。
 
-**車掌（）**（[石丸謙二郎飾](https://zh.wikipedia.org/wiki/石丸謙二郎 "wikilink")）
+**車掌（）**（[石丸謙二郎飾](../Page/石丸謙二郎.md "wikilink")）
 
   -
     原作《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》Den-Liner的車掌，於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》中登場。
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》中登場。
 
 **風麵老闆（）**（飾）
 
   -
     原作《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》拉麵攤**風麵**的老闆，於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》中登場。
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》中登場。
     在翔太郎離開時所託，把劇場版\[68\]中關鍵的W騎士手錶交給在危險時拯救自己的人。
 
 ****（[津田寬治飾](https://zh.wikipedia.org/wiki/津田寬治 "wikilink")）
@@ -633,7 +633,7 @@
     第28話因變身能力被奪之事而被白沃茲算帳。
     備註：其名字烏爾（Uhr）源自德文的時鐘。
 
-****（飾，大陆配音：[沈念如](https://zh.wikipedia.org/wiki/沈念如 "wikilink")）
+****（飾，大陆配音：[沈念如](../Page/沈念如.md "wikilink")）
 
   -
     時劫者的成員，也是目前唯一的女性成員。
@@ -648,7 +648,7 @@
   -
     **另類空我**和**另類究極空我**的變身者。
     於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》登場。
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》登場。
     有著「超級時劫者」的稱號謎之男子，目的是要將眾平成假面騎士完全抹去\[72\]。
 
 ## 另類騎士（Another Rider）
@@ -690,7 +690,7 @@
     X，讓其打給2012年的自己，並提醒過去的自己鼓起勇氣向香織表白。
     第25話時遭到襲擊，後在第26話時再次遭到襲擊而昏迷。
 
-*' *'（[岩永徹也飾](https://zh.wikipedia.org/wiki/岩永徹也 "wikilink")，大陆配音：郝祥海）
+*' *'（[岩永徹也飾](../Page/岩永徹也.md "wikilink")，大陆配音：郝祥海）
 
   -
     **另類OOO**的變身者，於第8-10話客串。
@@ -723,14 +723,14 @@
   -
     **另類電王**的變身者。
     信吾的弟弟，2000年1月29日生，18歲，掌握《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》故事的重要關鍵，喜歡假面騎士的少年。
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》故事的重要關鍵，喜歡假面騎士的少年。
 
 ****（[齋藤汰鷹飾](https://zh.wikipedia.org/wiki/齋藤汰鷹 "wikilink")）
 
   -
     **另類究極空我**的變身者。
     7歲少年，阿塔爾的哥哥，本身是名特異點，因此被泰德派遣另類騎士追擊，於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》登場。
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》登場。
 
 ****（[大東駿介飾](../Page/大東駿介.md "wikilink")）
 
@@ -738,7 +738,7 @@
 
   -
     於《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》登場。
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》登場。
 
 ****（[多和田任益飾](../Page/多和田任益.md "wikilink")，大陆配音：李轻扬）
 
@@ -806,7 +806,7 @@
 
 ## 逢魔ZI-O相關人物
 
-****（飾，[小山力也聲](../Page/小山力也.md "wikilink")，大陆配音：[图特哈蒙](https://zh.wikipedia.org/wiki/图特哈蒙 "wikilink")）
+****（飾，[小山力也聲](../Page/小山力也.md "wikilink")，大陆配音：[图特哈蒙](../Page/图特哈蒙.md "wikilink")）
 
   -
     以恐怖統治著2068年的未來、奪去人們的笑容和希望，最兇惡的魔王，真實身份為2068年的常磐莊吾。
@@ -861,7 +861,7 @@
     實際上是流星塾出身的孤兒，本早在2003年的時間點就因車禍意外而過世，其後卻因佐久間使用另類騎士的力量下得以存活十五年之久，但也因此不斷地轉學。
     最後在另類Faiz及另類Fourze都遭到擊敗後與佐久間告別下消散。
 
-****（[八代美奈畝](https://zh.wikipedia.org/wiki/八代美奈畝 "wikilink")\[81\]飾，大陆配音：[杨凝](https://zh.wikipedia.org/wiki/杨凝 "wikilink")）
+****（[八代美奈畝](../Page/八代美奈畝.md "wikilink")\[81\]飾，大陆配音：[杨凝](https://zh.wikipedia.org/wiki/杨凝 "wikilink")）
 
   -
     魔術屋「木之下」的負責人。
@@ -877,7 +877,7 @@
   -
     巴隆隊的隊員，被阿修羅放逐至海爾冥界森林。
 
-****（[尾碕真花飾](https://zh.wikipedia.org/wiki/尾碕真花 "wikilink")，大陆配音：[赵小双](https://zh.wikipedia.org/wiki/赵小双 "wikilink")）\[82\]
+****（[尾碕真花飾](../Page/尾碕真花.md "wikilink")，大陆配音：[赵小双](https://zh.wikipedia.org/wiki/赵小双 "wikilink")）\[82\]
 
   -
     牧村的妹妹。
@@ -906,8 +906,7 @@
 
 ## 其他演員
 
-  - 江戶的人們 -
-    高井純子、[高橋光](https://zh.wikipedia.org/wiki/高橋光 "wikilink")、伊藤俊、宮川康裕、、浦家賢士（第1話）
+  - 江戶的人們 - 高井純子、[高橋光](../Page/高橋光.md "wikilink")、伊藤俊、宮川康裕、、浦家賢士（第1話）
   - 反抗軍隊長 - （第1話）
   - 舞者 - 掛札拓郎、桝谷昂洸、伊東凛太郎、YUMA、嘉門亮（第11話）
 
@@ -987,7 +986,7 @@
 53. 本作僅第9話以背影以及第10話的照片及報紙出現
 54. 本作僅在風麵老闆口中提及因事而暫時離開風都
 55. 《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》
 56. 本作僅在第33話對話提及。
 57. 曾以前藝名「多和田秀彌」於2015年飾演《[手裏劍戰隊忍忍者](../Page/手裏劍戰隊忍忍者.md "wikilink")》的「金治・瀧川／星忍者」，巧合的是他所飾演的英雄角色皆為忍者。
 58. 曾於2012年飾演《[特命戰隊Go
@@ -997,7 +996,7 @@
 60. 但由於時間悖論的關係，不論發生何時他都會在2040年成為假面騎士Quiz
 61. 曾於2014年飾演《[電腦奇俠REBOOT](https://zh.wikipedia.org/wiki/電腦奇俠REBOOT "wikilink")》的「次郎
     /
-    電腦奇俠」及2018年飾演《[快盜戰隊魯邦連者VS警察戰隊巡邏連者](https://zh.wikipedia.org/wiki/快盜戰隊魯邦連者VS警察戰隊巡邏連者 "wikilink")》的「札米戈・迪魯瑪」；巧合的是與本作一樣，《[電腦奇俠REBOOT](https://zh.wikipedia.org/wiki/電腦奇俠REBOOT "wikilink")》中的「次郎
+    電腦奇俠」及2018年飾演《[快盜戰隊魯邦連者VS警察戰隊巡邏連者](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者.md "wikilink")》的「札米戈・迪魯瑪」；巧合的是與本作一樣，《[電腦奇俠REBOOT](https://zh.wikipedia.org/wiki/電腦奇俠REBOOT "wikilink")》中的「次郎
     / 電腦奇俠」同樣是一名機械人。
 62. 顏色為水藍色。
 63. 顏色為紅色。
@@ -1007,7 +1006,7 @@
 66. 但也因此常被顧客委託修理老舊機械。
 67. 第6話時因修理老舊收音機的關係就無意間道破關於山吹花梨的真相。
 68. 《[假面騎士平成Generations
-    Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever "wikilink")》
+    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》
 69. 即原作《[假面騎士555](../Page/假面騎士555.md "wikilink")》第2話的戰鬥情景。
 70. 根據woz述說，本身擁有賦予其他人控制時間的力量。
 71. 巧合的是，2014年的《[烈車戰隊特急者](../Page/烈車戰隊特急者.md "wikilink")》中的反派角色闍黑將軍（シュバルツ将軍）的發音相近。
@@ -1024,4 +1023,4 @@
 81. 八代美奈畝曾在《[假面騎士W Forever A至Z/命運的Gaia
     Memory](https://zh.wikipedia.org/wiki/假面騎士W_Forever_A至Z/命運的Gaia_Memory "wikilink")》內飾演羽原徠
     / 熱度摻雜體
-82. 尾碕真花後參演同期超級戰隊系列第43作《[騎士龍戰隊龍裝者](https://zh.wikipedia.org/wiki/騎士龍戰隊龍裝者 "wikilink")》飾演**亞斯娜/龍裝粉紅**。
+82. 尾碕真花後參演同期超級戰隊系列第43作《[騎士龍戰隊龍裝者](../Page/騎士龍戰隊龍裝者.md "wikilink")》飾演**亞斯娜/龍裝粉紅**。

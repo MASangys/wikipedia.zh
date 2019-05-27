@@ -1,5 +1,5 @@
 **TXT**（TOMORROW X TOGETHER，；）為韓國[Big
-Hit娛樂於](../Page/Big_Hit娛樂.md "wikilink")2019年推出的五人[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")，成員由[YEONJUN](https://zh.wikipedia.org/wiki/崔延俊 "wikilink")、[SOOBIN](https://zh.wikipedia.org/wiki/崔秀彬 "wikilink")、[BEOMGYU](https://zh.wikipedia.org/wiki/崔范奎 "wikilink")、[TAEHYUN](https://zh.wikipedia.org/wiki/姜泰賢 "wikilink")、[HUENINGKAI所組成](https://zh.wikipedia.org/wiki/休寧凱 "wikilink")。
+Hit娛樂於](../Page/Big_Hit娛樂.md "wikilink")2019年推出的五人[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")，成員由[YEONJUN](../Page/崔延俊.md "wikilink")、[SOOBIN](../Page/崔秀彬.md "wikilink")、[BEOMGYU](../Page/崔范奎.md "wikilink")、[TAEHYUN](../Page/姜泰賢.md "wikilink")、[HUENINGKAI所組成](../Page/休寧凱.md "wikilink")。
 
 ## 團體資料
 
@@ -17,16 +17,16 @@ X」來命名的，同時也負責品牌識別設計。\[2\]
 
   - 名字**粗體**為隊長
 
-| **成員列表**                                                        |
-| --------------------------------------------------------------- |
-| **藝名**                                                          |
-| **原文**                                                          |
-| [YEONJUN](https://zh.wikipedia.org/wiki/崔延俊 "wikilink")\[4\]    |
-| [**SOOBIN**](https://zh.wikipedia.org/wiki/崔秀彬 "wikilink")\[5\] |
-| [BEOMGYU](https://zh.wikipedia.org/wiki/崔范奎 "wikilink")\[6\]    |
-| [TAEHYUN](https://zh.wikipedia.org/wiki/姜泰賢 "wikilink")\[7\]    |
-| [HUENINGKAI](https://zh.wikipedia.org/wiki/休寧凱 "wikilink")\[8\] |
-|                                                                 |
+| **成員列表**                                     |
+| -------------------------------------------- |
+| **藝名**                                       |
+| **原文**                                       |
+| [YEONJUN](../Page/崔延俊.md "wikilink")\[4\]    |
+| [**SOOBIN**](../Page/崔秀彬.md "wikilink")\[5\] |
+| [BEOMGYU](../Page/崔范奎.md "wikilink")\[6\]    |
+| [TAEHYUN](../Page/姜泰賢.md "wikilink")\[7\]    |
+| [HUENINGKAI](../Page/休寧凱.md "wikilink")\[8\] |
+|                                              |
 
 ## 發展歷程
 
@@ -98,7 +98,7 @@ STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》
 TOGETHER官方粉絲社區公告TOMORROW X
 TOGETHER將於5月9日至24日在[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")、[芝加哥](../Page/芝加哥.md "wikilink")、[奧蘭多](https://zh.wikipedia.org/wiki/奧蘭多 "wikilink")、[亞特蘭大](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")、[達拉斯](../Page/達拉斯.md "wikilink")、[洛杉磯展開首次](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[美國巡迴Showcase](https://zh.wikipedia.org/wiki/美國 "wikilink")《[TOMORROW
 X TOGETHER SHOWCASE: STAR in
-US](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER_SHOWCASE:_STAR_in_US "wikilink")》。\[28\]
+US](../Page/TOMORROW_X_TOGETHER_SHOWCASE:_STAR_in_US.md "wikilink")》。\[28\]
 
 4月11日，根據韓國《[Gaon音樂榜](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")》發表的3月專輯排行榜資料，《[The
 Dream Chapter:
@@ -140,8 +140,7 @@ Countdown作为回归初舞台](https://zh.wikipedia.org/wiki/M!_Countdown "wiki
 ### 專屬節目
 
   - 2019年：《TOMORROW X TOGETHER Debut Celebration Show presented by Mnet》
-  - 2019年：《[TALK X
-    TODAY](https://zh.wikipedia.org/wiki/TALK_X_TODAY "wikilink")》
+  - 2019年：《[TALK X TODAY](../Page/TALK_X_TODAY.md "wikilink")》
 
 ## 廣告代言
 
@@ -172,7 +171,7 @@ Countdown作为回归初舞台](https://zh.wikipedia.org/wiki/M!_Countdown "wiki
 
   - 2019年：TOMORROW X TOGETHER首場美國巡迴Showcase《[TOMORROW X TOGETHER
     SHOWCASE: STAR in
-    US](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER_SHOWCASE:_STAR_in_US "wikilink")》
+    US](../Page/TOMORROW_X_TOGETHER_SHOWCASE:_STAR_in_US.md "wikilink")》
 
 ## 獎項
 

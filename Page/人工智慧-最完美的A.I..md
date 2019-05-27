@@ -1,4 +1,4 @@
-《**人類智能-最完美的A.I.**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC於](../Page/JTBC.md "wikilink")2018年推出的綜藝節目\[1\]\[2\]，由曾執導韓綜《[隱藏歌手](../Page/隱藏歌手.md "wikilink")》、《[我朋友的家在哪裏](https://zh.wikipedia.org/wiki/我朋友的家在哪裏 "wikilink")》、《幻影歌手》、《[孝利家民宿](https://zh.wikipedia.org/wiki/孝利家民宿 "wikilink")》等節目的金學民導演執導\[3\]，而由[閔庚勳](../Page/閔庚勳.md "wikilink")、[宋旻浩](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")、[IZ\*ONE等人](../Page/IZ*ONE.md "wikilink")\[4\]共同主持，節目主軸為以最接近人類的[人工智能](../Page/人工智能.md "wikilink")－「人類智能」的綜藝節目\[5\]。2018年11月18日晚上10點20分、23日晚上9點試播兩集。\[6\]
+《**人類智能-最完美的A.I.**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC於](../Page/JTBC.md "wikilink")2018年推出的綜藝節目\[1\]\[2\]，由曾執導韓綜《[隱藏歌手](../Page/隱藏歌手.md "wikilink")》、《[我朋友的家在哪裏](https://zh.wikipedia.org/wiki/我朋友的家在哪裏 "wikilink")》、《幻影歌手》、《[孝利家民宿](../Page/孝利家民宿.md "wikilink")》等節目的金學民導演執導\[3\]，而由[閔庚勳](../Page/閔庚勳.md "wikilink")、[宋旻浩](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")、[IZ\*ONE等人](../Page/IZ*ONE.md "wikilink")\[4\]共同主持，節目主軸為以最接近人類的[人工智能](../Page/人工智能.md "wikilink")－「人類智能」的綜藝節目\[5\]。2018年11月18日晚上10點20分、23日晚上9點試播兩集。\[6\]
 
 ## 使用者與人類智能配對
 

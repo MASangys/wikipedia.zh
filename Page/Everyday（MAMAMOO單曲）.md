@@ -22,7 +22,7 @@ Everyday*'（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女
 <p>全球</p></td>
 <td><p>2018年3月30日</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rainbow_Bridge_World" title="wikilink">Rainbow Bridge World</a></p></td>
+<td><p><a href="../Page/Rainbow_Bridge_World.md" title="wikilink">Rainbow Bridge World</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN娛樂</a></p></td>
 </tr>
 <tr class="even">

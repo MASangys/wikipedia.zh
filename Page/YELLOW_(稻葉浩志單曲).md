@@ -1,8 +1,8 @@
-「**YELLOW**」是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z的主唱](../Page/B'z.md "wikilink")[稻葉浩志在](../Page/稻葉浩志.md "wikilink")[2016年](../Page/2016年.md "wikilink")[8月24日由](../Page/8月24日.md "wikilink")[Being發行的](../Page/Being_\(公司\).md "wikilink")[數位下載單曲](../Page/數位音樂下載.md "wikilink")。
+「**YELLOW**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z的主唱](../Page/B'z.md "wikilink")[稻葉浩志在](../Page/稻葉浩志.md "wikilink")[2016年](../Page/2016年.md "wikilink")[8月24日由](../Page/8月24日.md "wikilink")[Being發行的](../Page/Being_\(公司\).md "wikilink")[數位下載單曲](../Page/數位音樂下載.md "wikilink")。
 
 ## 概要
 
-  - 與前作「[羽](../Page/羽_\(稻葉浩志單曲\).md "wikilink")」睽違約7個月的單曲。數位限定發行是自「[Saturday](https://zh.wikipedia.org/wiki/Saturday_\(稻葉浩志單曲\) "wikilink")」以來睽違約2年。
+  - 與前作「[羽](../Page/羽_\(稻葉浩志單曲\).md "wikilink")」睽違約7個月的單曲。數位限定發行是自「[Saturday](../Page/Saturday_\(稻葉浩志單曲\).md "wikilink")」以來睽違約2年。
 
 ## 收錄曲
 

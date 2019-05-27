@@ -1,4 +1,4 @@
-**(G)I-DLE音乐作品列表**主要记载韩国女子音乐组合[(G)I-DLE及成员个人发行的音乐作品](https://zh.wikipedia.org/wiki/\(G\)I-DLE "wikilink")。
+**(G)I-DLE音乐作品列表**主要记载韩国女子音乐组合[(G)I-DLE及成员个人发行的音乐作品](../Page/\(G\)I-DLE.md "wikilink")。
 
 ## 韩语作品
 
@@ -39,7 +39,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/I_am" title="wikilink">I am</a>》</strong>[2]</p>
+<td><p><strong>《<a href="../Page/I_am.md" title="wikilink">I am</a>》</strong>[2]</p>
 <ul>
 <li>发行日期：2018年5月2日</li>
 <li>语言：韩语</li>
@@ -60,7 +60,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/I_made" title="wikilink">I made</a>》</strong>[3]</p>
+<td><p><strong>《<a href="../Page/I_made.md" title="wikilink">I made</a>》</strong>[3]</p>
 <ul>
 <li>发行日期：2019年2月26日</li>
 <li>语言：韩语</li>
@@ -174,7 +174,7 @@
 | 发行日期        | 歌曲资料                                                                                   | 歌曲名称         | 歌手       | 参与成员 |
 | ----------- | -------------------------------------------------------------------------------------- | ------------ | -------- | ---- |
 | 2018年11月19日 | 动画电影《[Running Man 2](https://zh.wikipedia.org/wiki/Running_Man_\(动画版\) "wikilink")》片尾曲 | 奔跑！\[7\]     | (G)I-DLE | 全体   |
-| 2019年4月11日  | 韩剧《[她的私生活](https://zh.wikipedia.org/wiki/她的私生活 "wikilink")》OST                         | Help Me\[8\] |          |      |
+| 2019年4月11日  | 韩剧《[她的私生活](../Page/她的私生活.md "wikilink")》OST                                            | Help Me\[8\] |          |      |
 
 ### 其他歌曲
 
@@ -182,7 +182,7 @@
 | ----------- | ----------------------------------------------------------------------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | 2015年12月17日 | PRODUCE 101 - PICK ME                                                               | Pick Me\[9\]    | [PRODUCE 101](../Page/PRODUCE_101.md "wikilink")                                                                                                                                                                | 小娟   |
 | 2016年3月19日  | PRODUCE 101 - 35 Girls 5 Concepts\[10\]                                             | Don't Matter    | [华丽江山](https://zh.wikipedia.org/wiki/PRODUCE_101#第九集 "wikilink")                                                                                                                                                |      |
-| 2016年7月30日  | Unpretty Rapstar 3 Track 1\[11\]                                                    | She's Coming    | [Unpretty Rapstar 3](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_3 "wikilink")                                                                                                                               |      |
+| 2016年7月30日  | Unpretty Rapstar 3 Track 1\[11\]                                                    | She's Coming    | [Unpretty Rapstar 3](../Page/Unpretty_Rapstar_3.md "wikilink")                                                                                                                                                  |      |
 | 2016年8月20日  | Unpretty Rapstar 3 Track 3\[12\]                                                    | 可怕              | [NADA](https://zh.wikipedia.org/wiki/尹礼珍 "wikilink")、[田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink")                                                                                                        |      |
 | 2016年9月17日  | Unpretty Rapstar 3 第一场公演\[13\]                                                      | 小朋友的一天          | [田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink")(feat.Superbee)                                                                                                                                              |      |
 | 2016年9月24日  | Unpretty Rapstar 3 第一场公演 & 半决赛\[14\]                                                | 笑吧              | [田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink")(feat.DAVII)                                                                                                                                                 |      |
@@ -207,7 +207,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2019年4月22日</p></td>
-<td><p>综艺《<a href="https://zh.wikipedia.org/wiki/奔跑吧" title="wikilink">奔跑吧》主题曲</a></p></td>
+<td><p>综艺《<a href="../Page/奔跑吧.md" title="wikilink">奔跑吧》主题曲</a></p></td>
 <td><p>造亿万吨光芒[18]</p></td>
 <td></td>
 <td><p>雨琦</p></td>

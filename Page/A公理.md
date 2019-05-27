@@ -1,5 +1,5 @@
 在数学中，**斯梅尔A公理**（Smale's axiom
-A）确定了一类相对容易理解的[动力系统](../Page/动力系统.md "wikilink")。一个著名的例子是[斯梅尔马蹄铁映射](https://zh.wikipedia.org/wiki/马蹄映射 "wikilink")。术语“A公理”是[斯蒂芬·斯梅尔起的](../Page/斯蒂芬·斯梅爾.md "wikilink")。
+A）确定了一类相对容易理解的[动力系统](../Page/动力系统.md "wikilink")。一个著名的例子是[斯梅尔马蹄铁映射](../Page/马蹄映射.md "wikilink")。术语“A公理”是[斯蒂芬·斯梅尔起的](../Page/斯蒂芬·斯梅爾.md "wikilink")。
 
 ## 定义
 
@@ -10,11 +10,11 @@ A）确定了一类相对容易理解的[动力系统](../Page/动力系统.md "
 
 满足A公理的微分同胚称为**A公理微分同胚**。若M是二维曲面，则非游荡集的双曲性蕴含了周期点的稠密性，但对三维以上的流形则不成立。尽管如此，A公理微分同胚有时仍被称作**双曲微分同胚**，因为M上发生有趣的动力学的部分，即\(\Omega(f)\)，表现出双曲的行为。
 
-A公理微分同胚是[莫尔斯-斯梅尔系统的推广](https://zh.wikipedia.org/wiki/莫尔斯-斯梅尔系统 "wikilink")，后者有更多的限制（有限的周期点，稳定、不稳定子流形的横截性）。[斯梅尔马蹄铁映射是具有无限周期点和正的](https://zh.wikipedia.org/wiki/马蹄映射 "wikilink")[拓扑熵的A公理微分同胚](../Page/拓撲熵.md "wikilink")。
+A公理微分同胚是[莫尔斯-斯梅尔系统的推广](https://zh.wikipedia.org/wiki/莫尔斯-斯梅尔系统 "wikilink")，后者有更多的限制（有限的周期点，稳定、不稳定子流形的横截性）。[斯梅尔马蹄铁映射是具有无限周期点和正的](../Page/马蹄映射.md "wikilink")[拓扑熵的A公理微分同胚](../Page/拓撲熵.md "wikilink")。
 
 ## 性质
 
-所有[阿诺索夫微分同胚都满足A公理](https://zh.wikipedia.org/wiki/阿诺索夫微分同胚 "wikilink")。对于这种情况，整个流形M就是双曲的（尽管还不知道非游荡集\(\Omega(f)\)是否构成了整个M）。
+所有[阿诺索夫微分同胚都满足A公理](../Page/阿诺索夫微分同胚.md "wikilink")。对于这种情况，整个流形M就是双曲的（尽管还不知道非游荡集\(\Omega(f)\)是否构成了整个M）。
 
 Rufus
 Bowen证明了A公理微分同胚的非游荡集\(\Omega(f)\)都有[马尔可夫划分](https://zh.wikipedia.org/wiki/马尔可夫划分 "wikilink")。

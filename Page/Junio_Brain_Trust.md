@@ -47,12 +47,12 @@ Trast**”，合计改组为株式会社重新开始活动。此后从1979年左
 
 <div style="float: left; vertical-align: top; margin-right: 1em;">
 
-  - [佐藤正樹](https://zh.wikipedia.org/wiki/佐藤正樹 "wikilink")
+  - [佐藤正樹](../Page/佐藤正樹.md "wikilink")
   - 堀内修
   - 松田勝巳
   - 前田勝己
   - 熊谷哲矢
-  - [小島正幸](https://zh.wikipedia.org/wiki/小島正幸 "wikilink")
+  - [小島正幸](../Page/小島正幸.md "wikilink")
   - 古川政美
   - 関田修
   - [追崎史敏](../Page/追崎史敏.md "wikilink")
@@ -61,7 +61,7 @@ Trast**”，合计改组为株式会社重新开始活动。此后从1979年左
 
 <div style="float: left; vertical-align: top; margin-right: 1em;">
 
-  - [永丘昭典](https://zh.wikipedia.org/wiki/永丘昭典 "wikilink")
+  - [永丘昭典](../Page/永丘昭典.md "wikilink")
   - 江口壽志
   - 岩井優器
   - 渡辺武文
@@ -141,8 +141,7 @@ Trast**”，合计改组为株式会社重新开始活动。此后从1979年左
   - ミラクル少女リミットちゃん
   - 小仙女
   - 剣之介さま
-  - [音速小子CD](https://zh.wikipedia.org/wiki/音速小子CD "wikilink")
-    ※OP・ED動畫制作。
+  - [音速小子CD](../Page/音速小子CD.md "wikilink") ※OP・ED動畫制作。
 
 #### 東京電影
 

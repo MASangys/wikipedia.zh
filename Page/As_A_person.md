@@ -10,7 +10,7 @@ person**》為[日本女歌手](../Page/日本.md "wikilink")[華原朋美的第
 
 ## 收錄歌曲
 
-作詞：[華原朋美](../Page/華原朋美.md "wikilink")。作曲：[菊池一仁](../Page/菊池一仁.md "wikilink")。編曲：[明石昌夫](https://zh.wikipedia.org/wiki/明石昌夫 "wikilink")
+作詞：[華原朋美](../Page/華原朋美.md "wikilink")。作曲：[菊池一仁](../Page/菊池一仁.md "wikilink")。編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
 
 1.  as A person
 2.  as A person \[Version N\]

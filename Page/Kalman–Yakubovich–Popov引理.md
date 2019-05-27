@@ -1,7 +1,7 @@
 **Kalman–Yakubovich–Popov引理**（Kalman–Yakubovich–Popov
 lemma）是及[控制理论的結果](../Page/控制理论.md "wikilink")，其中提到：給定一數\(\gamma > 0\)，二個n維向量B,
-C，及n x n的[赫維茲穩定矩陣](https://zh.wikipedia.org/wiki/赫維茲矩陣 "wikilink")
-A（所有特徵值的實部都為負值），若\((A,B)\)具有完全[可控制性](https://zh.wikipedia.org/wiki/可控制性 "wikilink")，則滿足下式的對稱矩陣P和向量Q
+C，及n x n的[赫維茲穩定矩陣](../Page/赫維茲矩陣.md "wikilink")
+A（所有特徵值的實部都為負值），若\((A,B)\)具有完全[可控制性](../Page/可控制性.md "wikilink")，則滿足下式的對稱矩陣P和向量Q
 
 \[A^T P + P A = -Q Q^T\]
 
@@ -12,7 +12,7 @@ A（所有特徵值的實部都為負值），若\((A,B)\)具有完全[可控制
 \[\gamma+2 Re[C^T (j\omega I-A)^{-1}B]\ge 0\]
 而且，集合\(\{x: x^T P x = 0\}\)是\((C,A)\)的不可觀測子空間。
 
-此引理可以視為是穩定性理論[李亞普諾夫方程的推廣](https://zh.wikipedia.org/wiki/李亞普諾夫方程 "wikilink")。建構了由[狀態空間A](../Page/狀態空間_\(計算機科學\).md "wikilink"),
+此引理可以視為是穩定性理論[李亞普諾夫方程的推廣](../Page/李亞普諾夫方程.md "wikilink")。建構了由[狀態空間A](../Page/狀態空間_\(計算機科學\).md "wikilink"),
 B,
 C建構的[线性矩阵不等式以及其](../Page/线性矩阵不等式.md "wikilink")[頻域條件的關係](../Page/頻域.md "wikilink")。
 

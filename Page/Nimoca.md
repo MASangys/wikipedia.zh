@@ -109,7 +109,7 @@ U接受全國相互利用服務交通類IC卡](../Page/Wii_U.md "wikilink")（Pi
         -
         [福岡市交通局](https://zh.wikipedia.org/wiki/福岡市交通局 "wikilink")[市營地下鐵](https://zh.wikipedia.org/wiki/福岡市營地下鐵 "wikilink")、巴士等
       - [Suica](../Page/Suica.md "wikilink") -
-        [JR東日本](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")、[伊豆急行](https://zh.wikipedia.org/wiki/伊豆急行 "wikilink")、[東京單軌電車等](https://zh.wikipedia.org/wiki/東京單軌電車 "wikilink")
+        [JR東日本](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")、[伊豆急行](../Page/伊豆急行.md "wikilink")、[東京單軌電車等](https://zh.wikipedia.org/wiki/東京單軌電車 "wikilink")
       - [PASMO](../Page/PASMO.md "wikilink") - 首都圏私鐵及巴士業者
       - [TOICA](../Page/TOICA.md "wikilink") -
         [JR東海](https://zh.wikipedia.org/wiki/JR東海 "wikilink")

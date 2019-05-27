@@ -75,8 +75,8 @@ PD**）是[USB開發者論壇在](../Page/USB開發者論壇.md "wikilink")2012�
 ## 相關條目
 
   - [USB](../Page/USB.md "wikilink")
-  - [交流適配器](https://zh.wikipedia.org/wiki/交流適配器 "wikilink")
-  - [高通快充](https://zh.wikipedia.org/wiki/高通快充 "wikilink")
+  - [交流適配器](../Page/交流適配器.md "wikilink")
+  - [高通快充](../Page/高通快充.md "wikilink")
 
 ## 外部連結
 

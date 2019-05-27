@@ -59,8 +59,7 @@ Swartz](https://www.wired.com/images_blogs/threatlevel/2012/09/swartzsuperseding
 
 </div>
 
-</ref> 自2015年7月发布[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
+</ref> 自2015年7月发布[Windows 10](../Page/Windows_10.md "wikilink")
 \[2\]以来，Windows一直支持它。
 
 ## 争议
@@ -90,13 +89,13 @@ Swartz](https://www.wired.com/images_blogs/threatlevel/2012/09/swartzsuperseding
 ## 局限
 
 MAC地址欺骗技术的影响仅限于本地[广播域](https://zh.wikipedia.org/wiki/广播域 "wikilink") 。
-与[IP地址欺骗不同](https://zh.wikipedia.org/wiki/IP地址欺骗 "wikilink")，发送者假冒其IP地址，以使接收者将响应发送到其他地方，而在MAC地址欺骗中，如果未配置交换机以防止MAC欺骗，则通常由欺骗方接收响应。
+与[IP地址欺骗不同](../Page/IP地址欺骗.md "wikilink")，发送者假冒其IP地址，以使接收者将响应发送到其他地方，而在MAC地址欺骗中，如果未配置交换机以防止MAC欺骗，则通常由欺骗方接收响应。
 
 ## 补充
 
   - [MAC地址](../Page/MAC地址.md "wikilink")
   - [混杂模式](https://zh.wikipedia.org/wiki/混杂模式 "wikilink")
-  - [IP欺骗](https://zh.wikipedia.org/wiki/IP地址欺骗 "wikilink")
+  - [IP欺骗](../Page/IP地址欺骗.md "wikilink")
   - [ifconfig](https://zh.wikipedia.org/wiki/ifconfig "wikilink")
     ，可用于指定MAC地址的Linux程序。
 

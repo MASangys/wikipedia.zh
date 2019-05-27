@@ -4,7 +4,7 @@
 
 HalalChain于2017年11月21日在[阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")[迪拜航空自贸区](https://zh.wikipedia.org/wiki/迪拜 "wikilink")（Dubai
 Airport
-Freezone）开展了项目发布会\[2\]，12月20日完成了[首次代币发行](https://zh.wikipedia.org/wiki/首次代币发行 "wikilink")。12月28日登陆了数字货币交易所，首日交易额超过3亿元人民币。
+Freezone）开展了项目发布会\[2\]，12月20日完成了[首次代币发行](../Page/首次代币发行.md "wikilink")。12月28日登陆了数字货币交易所，首日交易额超过3亿元人民币。
 
 ## HLC代币
 

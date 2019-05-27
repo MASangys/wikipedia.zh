@@ -60,8 +60,7 @@ database（汉字异体字数据库，简称为ivd）定义的。要想在ivd中
 
 ### 字体创建工具
 
-  - [FontForge](https://zh.wikipedia.org/wiki/FontForge "wikilink") -
-    2007年10月2日之后\[16\]。
+  - [FontForge](../Page/FontForge.md "wikilink") - 2007年10月2日之后\[16\]。
   - Adobe Font Development Kit for OpenType (AFDKO) 2.1版之后\[17\]。
   - TTX/FontTools - GlyphWiki来生成IVS对应字体。\[18\]。
   - [TTEdit](https://zh.wikipedia.org/wiki/TTEdit "wikilink") - 对应生成IVS

@@ -34,17 +34,15 @@
   - *唐老鸭俱乐部*
   - *[魚樂圈](../Page/魚樂圈.md "wikilink")*
   - *[冒險王奇克](../Page/冒險王奇克.md "wikilink")*
-  - *[蜘蛛俠
-    (2017年電視劇)](https://zh.wikipedia.org/wiki/蜘蛛侠_\(2017年电视剧\) "wikilink")*
-  - *[米羅的莫非命運](https://zh.wikipedia.org/wiki/米羅的莫非命運 "wikilink")*
+  - *[蜘蛛俠 (2017年電視劇)](../Page/蜘蛛侠_\(2017年电视剧\).md "wikilink")*
+  - *[米羅的莫非命運](../Page/米羅的莫非命運.md "wikilink")*
   - *[飞哥与小佛](../Page/飛哥與小佛.md "wikilink")*
   - [替身計畫](../Page/替身計畫.md "wikilink")
   - *[公主闖天關](../Page/公主闖天關.md "wikilink")*
   - *[星際大戰：反抗軍起義](../Page/星際大戰：反抗軍起義.md "wikilink")*
   - *[星際寶貝：神奇大冒險](../Page/星際寶貝：神奇大冒險.md "wikilink")*
-  - *[魔髮奇緣
-    (電視影集)](https://zh.wikipedia.org/wiki/魔髮奇緣_\(電視影集\) "wikilink")*
-  - *[七寶 (動畫)](https://zh.wikipedia.org/wiki/七寶_\(動畫\) "wikilink")
+  - *[魔髮奇緣 (電視影集)](../Page/魔髮奇緣_\(電視影集\).md "wikilink")*
+  - *[七寶 (動畫)](../Page/七寶_\(動畫\).md "wikilink")
     *
 
 ### 本地節目
@@ -77,8 +75,7 @@
   - *芝麻街工作室*
   - *toney & Rocky*
   - uckers
-  - *[魔髮奇緣
-    (電視影集)](https://zh.wikipedia.org/wiki/魔髮奇緣_\(電視影集\) "wikilink")*
+  - *[魔髮奇緣 (電視影集)](../Page/魔髮奇緣_\(電視影集\).md "wikilink")*
   - *[Line：迪士尼Tsum Tsum](../Page/Line：迪士尼Tsum_Tsum.md "wikilink")*
   - *Zombiedumb*
 
@@ -86,9 +83,8 @@
 
 情景喜剧於周五到周日晚上播放給亞州所有的迪士尼频道給喜劇演員的逗噱搭檔，在新加坡則是工作日的下午。
 
-  - *[夏令營 (電視劇)](https://zh.wikipedia.org/wiki/夏令營_\(電視劇\) "wikilink")*
-  - *[魔女之家
-    (電視劇)](https://zh.wikipedia.org/wiki/魔女之家_\(電視劇\) "wikilink")*
+  - *[夏令營 (電視劇)](../Page/夏令營_\(電視劇\).md "wikilink")*
+  - *[魔女之家 (電視劇)](../Page/魔女之家_\(電視劇\).md "wikilink")*
   - *[左右為難](../Page/左右為難.md "wikilink")*
 
 ### 即将上映

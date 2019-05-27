@@ -31,15 +31,11 @@ Matter的隱藏寶藏，讓Don Armage成為他宇宙的統治者。
 
 ### 宇宙戰隊九連者演員
 
-  - Lucky / 獅子紅（聲） - [岐洲匠](https://zh.wikipedia.org/wiki/岐洲匠 "wikilink")
-  - Stinger / 天蠍橙（聲） -
-    [岸洋佑](https://zh.wikipedia.org/wiki/岸洋佑 "wikilink")
-  - Naga・Ray / 蛇夫銀（聲） -
-    [山崎大輝](https://zh.wikipedia.org/wiki/山崎大輝 "wikilink")
-  - Hammy / 蝘蜓綠（聲） -
-    [大久保櫻子](https://zh.wikipedia.org/wiki/大久保櫻子 "wikilink")
-  - Spada / 劍魚黃（聲） -
-    [榊原徹士](https://zh.wikipedia.org/wiki/榊原徹士 "wikilink")
+  - Lucky / 獅子紅（聲） - [岐洲匠](../Page/岐洲匠.md "wikilink")
+  - Stinger / 天蠍橙（聲） - [岸洋佑](../Page/岸洋佑.md "wikilink")
+  - Naga・Ray / 蛇夫銀（聲） - [山崎大輝](../Page/山崎大輝.md "wikilink")
+  - Hammy / 蝘蜓綠（聲） - [大久保櫻子](../Page/大久保櫻子.md "wikilink")
+  - Spada / 劍魚黃（聲） - [榊原徹士](../Page/榊原徹士.md "wikilink")
   - 佐久間小太郎 / 小熊天藍（聲） -
     [田口翔大](https://zh.wikipedia.org/wiki/田口翔大 "wikilink")
   - 鳳劍岳 / 鳳凰士兵（聲） - [南圭介](https://zh.wikipedia.org/wiki/南圭介 "wikilink")
@@ -52,7 +48,7 @@ Matter的隱藏寶藏，讓Don Armage成為他宇宙的統治者。
   - Champ / 金牛黑 - [大塚明夫](../Page/大塚明夫.md "wikilink")
   - Raptor 283 / 天鷹粉 - [M・A・O](../Page/市道真央.md "wikilink")
   - 蕭・龍波 / 天龍司令 - [神谷浩史](../Page/神谷浩史.md "wikilink")
-  - 最佳前鋒（Gooty） - [三矢雄二](https://zh.wikipedia.org/wiki/三矢雄二 "wikilink")
+  - 最佳前鋒（Gooty） - [三矢雄二](../Page/三矢雄二.md "wikilink")
   - Jim Carter - [釘宮理惠](../Page/釘宮理惠.md "wikilink")
   - Don・Armage - [谷昌樹](https://zh.wikipedia.org/wiki/谷昌樹 "wikilink")
 

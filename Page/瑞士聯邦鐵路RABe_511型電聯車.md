@@ -29,7 +29,7 @@
 <tr class="even">
 <td><p>2010</p></td>
 <td><p>2012</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BLS股份公司" title="wikilink">BLS股份公司</a></p></td>
+<td><p><a href="../Page/BLS股份公司.md" title="wikilink">BLS股份公司</a></p></td>
 <td></td>
 <td><p>28</p></td>
 <td><p>[3]</p></td>

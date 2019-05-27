@@ -16,8 +16,7 @@ Kids的官方推特公開了一首Track](https://zh.wikipedia.org/wiki/Stray_Kid
 Line〉來慶祝3RACHA一週年。3月25日，透過出道Showcase《Stray Kids UNVEIL \[Op. 01 : I am
 NOT\]》正式以[Stray
 Kids出道](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")。3月26日，發行了首張專輯《[I
-am
-NOT](https://zh.wikipedia.org/wiki/I_am_NOT_\(Stray_Kids迷你專輯\) "wikilink")》及主打歌〈District
+am NOT](../Page/I_am_NOT_\(Stray_Kids迷你專輯\).md "wikilink")》及主打歌〈District
 9〉，3RACHA的三名成員皆參與了專輯的詞曲創作。
 
 ## 成員資料
@@ -26,7 +25,7 @@ NOT](https://zh.wikipedia.org/wiki/I_am_NOT_\(Stray_Kids迷你專輯\) "wikilink
 <thead>
 <tr class="header">
 <th><p>colspan="9" width="90px" color:white; font-weight:bold" |成員資料[5] |- color:white; font-weight:bold" width="90px"</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/3RACHA" title="wikilink">3RACHA活動名</a></p></th>
+<th><p><a href="../Page/3RACHA.md" title="wikilink">3RACHA活動名</a></p></th>
 <th><p>藝名</p></th>
 <th><p>本名</p></th>
 <th><p>出生日期</p></th>
@@ -58,7 +57,7 @@ NOT](https://zh.wikipedia.org/wiki/I_am_NOT_\(Stray_Kids迷你專輯\) "wikilink
 </tr>
 <tr class="even">
 <td><p>SPEARB</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/彰彬" title="wikilink">彰彬</a></p></td>
+<td><p><a href="../Page/彰彬.md" title="wikilink">彰彬</a></p></td>
 <td><p>창빈</p></td>
 <td><p>徐彰彬</p></td>
 <td><p>Seo Chang-Bin</p></td>
@@ -73,7 +72,7 @@ NOT](https://zh.wikipedia.org/wiki/I_am_NOT_\(Stray_Kids迷你專輯\) "wikilink
 </tr>
 <tr class="odd">
 <td><p>J.ONE</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韓知城" title="wikilink">Han</a></p></td>
+<td><p><a href="../Page/韓知城.md" title="wikilink">Han</a></p></td>
 <td><p>한</p></td>
 <td><p>韓知城</p></td>
 <td><p>Han Ji-Sung</p></td>
@@ -158,10 +157,10 @@ NOT](https://zh.wikipedia.org/wiki/I_am_NOT_\(Stray_Kids迷你專輯\) "wikilink
 
 ### 其它作品
 
-| 發行日期       | 歌曲     | 專輯                                                            | 歌手                                                  | 參與成員                              | 創作部分  | 合作           |
-| ---------- | ------ | ------------------------------------------------------------- | --------------------------------------------------- | --------------------------------- | ----- | ------------ |
-| 2019年2月20日 | 바람 같은너 | 《Aside》                                                       | [尹智聖](https://zh.wikipedia.org/wiki/尹智聖 "wikilink") | 彰彬(3RACHA)                        | RAP填詞 | CODE 9、Kalix |
-| 2019年4月12日 | 我的世代   | 《[NO IDEA](https://zh.wikipedia.org/wiki/NO_IDEA "wikilink")》 | [羅志祥](../Page/羅志祥.md "wikilink")                    | 方燦(3RACHA)、彰彬(3RACHA)、Han(3RACHA) | 作曲    | This N That  |
+| 發行日期       | 歌曲     | 專輯                                                            | 歌手                               | 參與成員                              | 創作部分  | 合作           |
+| ---------- | ------ | ------------------------------------------------------------- | -------------------------------- | --------------------------------- | ----- | ------------ |
+| 2019年2月20日 | 바람 같은너 | 《Aside》                                                       | [尹智聖](../Page/尹智聖.md "wikilink") | 彰彬(3RACHA)                        | RAP填詞 | CODE 9、Kalix |
+| 2019年4月12日 | 我的世代   | 《[NO IDEA](https://zh.wikipedia.org/wiki/NO_IDEA "wikilink")》 | [羅志祥](../Page/羅志祥.md "wikilink") | 方燦(3RACHA)、彰彬(3RACHA)、Han(3RACHA) | 作曲    | This N That  |
 
 ## 影視作品
 

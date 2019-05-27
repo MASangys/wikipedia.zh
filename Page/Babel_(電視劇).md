@@ -57,12 +57,12 @@
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/宋元根" title="wikilink">宋元根</a></p></td>
+<td><p><a href="../Page/宋元根.md" title="wikilink">宋元根</a></p></td>
 <td><p>禹室長</p></td>
 <td><p>負責解決發生在巨山集團私生子敏浩身上所有骯髒事情的男子。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/河詩恩" title="wikilink">河詩恩</a></p></td>
+<td><p><a href="../Page/河詩恩.md" title="wikilink">河詩恩</a></p></td>
 <td><p>洪美善</p></td>
 <td><p>正元的摯友，西班牙料理專賣店「唐吉訶德」的社長。</p></td>
 </tr>
@@ -117,7 +117,7 @@
 <td><p>部長檢察官，車宇赫的上司。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡敏瑞" title="wikilink">蔡敏瑞</a></p></td>
+<td><p><a href="../Page/蔡敏瑞.md" title="wikilink">蔡敏瑞</a></p></td>
 <td><p>趙成熙</p></td>
 <td><p>太竝燦、太敏浩搭乘的失事直升機機長鄭仁峰的妻子。</p></td>
 </tr>

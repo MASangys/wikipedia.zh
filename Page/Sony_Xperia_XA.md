@@ -2,8 +2,7 @@
 XA**是一款由[索尼生产的](../Page/索尼移动通信.md "wikilink")[安卓](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智能手机](../Page/智能手机.md "wikilink")。
 作为[Xperia
 XA系列的一部分](https://zh.wikipedia.org/wiki/Xperia_XA系列 "wikilink")，与[索尼
-Xperia X和](https://zh.wikipedia.org/wiki/Sony_Xperia_X "wikilink")[索尼
-Xperia X
+Xperia X和](../Page/Sony_Xperia_X.md "wikilink")[索尼 Xperia X
 Performance一起于](../Page/Sony_Xperia_X_Performance.md "wikilink")2016年2月22日在[MWC](https://zh.wikipedia.org/wiki/MWC "wikilink")
 2016上发布。\[1\]
 
@@ -48,8 +47,7 @@ Nougat](https://zh.wikipedia.org/wiki/Android_7.0_Nougat "wikilink")。\[5\]
 
 ## 另见
 
-  - [索尼 Xperia
-    X](https://zh.wikipedia.org/wiki/Sony_Xperia_X "wikilink")
+  - [索尼 Xperia X](../Page/Sony_Xperia_X.md "wikilink")
   - [索尼 Xperia X
     Performance](../Page/Sony_Xperia_X_Performance.md "wikilink")
   - 索尼 Xperia M4 Aqua

@@ -8,7 +8,7 @@ MASSIVE能讓數千個由[動作捕捉技術製造出來的虛擬士兵在戰場
 
 MASSIVE歷經不斷改進逐漸成形\[9\]，《魔戒》電影裡[最後聯盟戰役](https://zh.wikipedia.org/wiki/最後聯盟戰役 "wikilink")、[聖盔谷之戰等大場面中出現的千軍萬馬都是由MASSIVE營造的](../Page/聖盔谷之戰.md "wikilink")，每個虛擬士兵的動作都栩栩如生\[10\]。
 
-在《魔戒》之後，其他一些特效公司買了MASSIVE的[版權](https://zh.wikipedia.org/wiki/版權 "wikilink")（史蒂芬曾表示一套MASSIVE的版權要18000美元），不少特效大片都曾運用過MASSIVE\[11\]。如電影《[納尼亞傳奇：獅子·女巫·魔衣櫥](../Page/納尼亞傳奇：獅子·女巫·魔衣櫥.md "wikilink")》的特效團隊就運用MASSIVE來創造片裡[貝路納之役背景的虛擬大軍](https://zh.wikipedia.org/wiki/第一次貝路納之役 "wikilink")\[12\]。
+在《魔戒》之後，其他一些特效公司買了MASSIVE的[版權](https://zh.wikipedia.org/wiki/版權 "wikilink")（史蒂芬曾表示一套MASSIVE的版權要18000美元），不少特效大片都曾運用過MASSIVE\[11\]。如電影《[納尼亞傳奇：獅子·女巫·魔衣櫥](../Page/納尼亞傳奇：獅子·女巫·魔衣櫥.md "wikilink")》的特效團隊就運用MASSIVE來創造片裡[貝路納之役背景的虛擬大軍](../Page/第一次貝路納之役.md "wikilink")\[12\]。
 
 ## 參見
 

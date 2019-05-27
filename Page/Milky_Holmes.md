@@ -1,5 +1,5 @@
 **Milky
-Holmes**（）是[日本的一个女性](../Page/日本.md "wikilink")[声优组合](https://zh.wikipedia.org/wiki/声优组合 "wikilink")，所属经纪公司为[响](https://zh.wikipedia.org/wiki/響_\(經紀公司\) "wikilink")，唱片公司为[武士道音乐](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink")。
+Holmes**（）是[日本的一个女性](../Page/日本.md "wikilink")[声优组合](https://zh.wikipedia.org/wiki/声优组合 "wikilink")，所属经纪公司为[响](../Page/響_\(經紀公司\).md "wikilink")，唱片公司为[武士道音乐](../Page/武士道_\(公司\).md "wikilink")。
 
 ## 历史
 

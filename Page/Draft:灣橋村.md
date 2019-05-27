@@ -1,6 +1,6 @@
 ## 導言
 
-<big>[灣橋村是中華民國臺灣嘉義縣竹崎鄉轄下的行政區](https://zh.wikipedia.org/wiki/灣橋村 "wikilink")。位於[嘉義縣東南方](../Page/嘉義縣.md "wikilink")，北鄰[竹崎鄉](https://zh.wikipedia.org/wiki/竹崎鄉 "wikilink")[鹿滿村](https://zh.wikipedia.org/wiki/鹿滿村 "wikilink")，西鄰[民雄鄉](https://zh.wikipedia.org/wiki/民雄鄉 "wikilink")[秀林村](https://zh.wikipedia.org/wiki/秀林村 "wikilink")，南鄰[嘉義市](../Page/嘉義市.md "wikilink")，東接[竹崎鄉](https://zh.wikipedia.org/wiki/竹崎鄉 "wikilink")[紫雲村](https://zh.wikipedia.org/wiki/紫雲村 "wikilink")。
+<big>[灣橋村是中華民國臺灣嘉義縣竹崎鄉轄下的行政區](https://zh.wikipedia.org/wiki/灣橋村 "wikilink")。位於[嘉義縣東南方](../Page/嘉義縣.md "wikilink")，北鄰[竹崎鄉](https://zh.wikipedia.org/wiki/竹崎鄉 "wikilink")[鹿滿村](../Page/鹿滿村.md "wikilink")，西鄰[民雄鄉](https://zh.wikipedia.org/wiki/民雄鄉 "wikilink")[秀林村](https://zh.wikipedia.org/wiki/秀林村 "wikilink")，南鄰[嘉義市](../Page/嘉義市.md "wikilink")，東接[竹崎鄉](https://zh.wikipedia.org/wiki/竹崎鄉 "wikilink")[紫雲村](../Page/紫雲村.md "wikilink")。
 面積約8平方公里，行政區包含29個鄰、人口數5932人。聚落東側是灣橋村的主要街區，灣橋鐵道公園和嘉義花田村為該村景點。</big>
 
 ## 地理

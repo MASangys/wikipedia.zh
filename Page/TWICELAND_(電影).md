@@ -3,7 +3,7 @@
 ## 劇情
 
 紀錄了TWICE的第二次世界巡迴演唱會《[TWICELAND ZONE 2 : Fantasy
-Park](https://zh.wikipedia.org/wiki/TWICELAND_ZONE_2_:_Fantasy_Park "wikilink")》公演實況，還有TWICE在海外巡演時拍下的幕後花絮。
+Park](../Page/TWICELAND_ZONE_2_:_Fantasy_Park.md "wikilink")》公演實況，還有TWICE在海外巡演時拍下的幕後花絮。
 
 ## 特色
 

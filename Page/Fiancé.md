@@ -1,4 +1,4 @@
-《**Fiancé**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER的成員](../Page/WINNER.md "wikilink")[宋旻浩錄製的歌曲](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")，作為收錄於他的首張韓語正規專輯《[XX](../Page/XX_\(專輯\).md "wikilink")》中，歌曲由[Genie音樂發行於](https://zh.wikipedia.org/wiki/Genie音樂 "wikilink")2018年11月26日\[1\]。宋旻浩是《Fiancé》的主要製作人，除了獨立填詞之外，他還與Future
+《**Fiancé**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER的成員](../Page/WINNER.md "wikilink")[宋旻浩錄製的歌曲](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")，作為收錄於他的首張韓語正規專輯《[XX](../Page/XX_\(專輯\).md "wikilink")》中，歌曲由[Genie音樂發行於](../Page/Genie音樂.md "wikilink")2018年11月26日\[1\]。宋旻浩是《Fiancé》的主要製作人，除了獨立填詞之外，他還與Future
 Bounce和Texu一同作曲，該歌曲亦採樣了韓國70年代的歌謠《》，在嘻哈風格的結構上，添加充滿韓國人的情感與東洋曲風的感覺。
 
 ## 背景及宣傳
@@ -30,7 +30,7 @@ ACADEMY）舉行專輯發表會時闡述了製作背景，他表示這次製作�
 Music、Mnet、Bugs
 Music音源排行榜冠軍\[20\]，而根據MelOn公開的收聽人數，這首歌曲的音源在釋出後首24小時收聽人數達到938,226人\[21\]。海外方面《Fiancé》共在11個國家與地區的iTunes歌曲榜拔得頭籌\[22\]，同時也取得該榜的全球單曲榜第38名的成績。\[23\]
 
-一星期後，綜合《Fiancé》發行首週在韓國的整體成績，以57,321,280指數，空降[Gaon單曲週榜冠軍](https://zh.wikipedia.org/wiki/2018年Gaon單曲冠軍作品列表 "wikilink")\[24\]，它也打入了於韓國開設的《告示牌》冠名音樂排行榜，登上了第2名的位置。\[25\]
+一星期後，綜合《Fiancé》發行首週在韓國的整體成績，以57,321,280指數，空降[Gaon單曲週榜冠軍](../Page/2018年Gaon單曲冠軍作品列表.md "wikilink")\[24\]，它也打入了於韓國開設的《告示牌》冠名音樂排行榜，登上了第2名的位置。\[25\]
 
 ## 排行榜
 
@@ -167,16 +167,16 @@ Music音源排行榜冠軍\[20\]，而根據MelOn公開的收聽人數，這首�
 
 ### 榜單表現
 
-| 榜單（2018年）                                                                          | 峰值 |
-| ---------------------------------------------------------------------------------- | -- |
-| 中國巔峰榜·熱歌（[QQ音樂](../Page/QQ音乐.md "wikilink")）\[26\]                                 | 76 |
-| 韓國（）\[27\]                                                                         | 1  |
-| 韓國（[Gaon單曲榜](https://zh.wikipedia.org/wiki/2018年Gaon單曲冠軍作品列表 "wikilink")）\[28\]    | 1  |
-| 韓國（[Gaon下載榜](https://zh.wikipedia.org/wiki/2018年Gaon數位下載冠軍作品列表 "wikilink")）\[29\]  | 1  |
-| 韓國（[Gaon串流媒體榜](https://zh.wikipedia.org/wiki/2018年Gaon流媒體冠軍作品列表 "wikilink")）\[30\] | 1  |
-| 韓國（Gaon背景音樂榜）\[31\]                                                                | 22 |
-| 韓國（Gaon手機鈴聲榜）\[32\]                                                                | 4  |
-| 美國（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》世界單曲銷售榜）\[33\]                         | 6  |
+| 榜單（2018年）                                                       | 峰值 |
+| --------------------------------------------------------------- | -- |
+| 中國巔峰榜·熱歌（[QQ音樂](../Page/QQ音乐.md "wikilink")）\[26\]              | 76 |
+| 韓國（）\[27\]                                                      | 1  |
+| 韓國（[Gaon單曲榜](../Page/2018年Gaon單曲冠軍作品列表.md "wikilink")）\[28\]    | 1  |
+| 韓國（[Gaon下載榜](../Page/2018年Gaon數位下載冠軍作品列表.md "wikilink")）\[29\]  | 1  |
+| 韓國（[Gaon串流媒體榜](../Page/2018年Gaon流媒體冠軍作品列表.md "wikilink")）\[30\] | 1  |
+| 韓國（Gaon背景音樂榜）\[31\]                                             | 22 |
+| 韓國（Gaon手機鈴聲榜）\[32\]                                             | 4  |
+| 美國（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》世界單曲銷售榜）\[33\]      | 6  |
 
 週榜單
 

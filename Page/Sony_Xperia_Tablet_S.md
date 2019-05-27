@@ -14,8 +14,7 @@ S平板电脑](../Page/Sony_Tablet_S.md "wikilink")，具有更薄更轻的外�
 
 Xperia Tablet S上安装了基于Android 4.0.3 Ice Cream
 Sandwich的定制版本。其中添加了一些改动，包括添加多个用户帐户和控制平板电脑的红外线发射器功能。后期支持升级到基于[Android
-4.1.1 Jelly
-Bean的软件版本上](https://zh.wikipedia.org/wiki/Android_Jelly_Bean "wikilink")。
+4.1.1 Jelly Bean的软件版本上](../Page/Android_Jelly_Bean.md "wikilink")。
 
 ## 变种
 

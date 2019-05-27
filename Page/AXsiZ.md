@@ -45,7 +45,7 @@ AXsiZ自成立以來，其公司總部地址當初與Studio五組同樣位於[�
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p>1月－3月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/清戀" title="wikilink">清戀</a>[5]</p></td>
+<td><p><a href="../Page/清戀.md" title="wikilink">清戀</a>[5]</p></td>
 <td></td>
 <td><p>原創</p></td>
 <td><p>Studio五組</p></td>
@@ -67,7 +67,7 @@ AXsiZ自成立以來，其公司總部地址當初與Studio五組同樣位於[�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/尤利西斯_貞德與鍊金騎士" title="wikilink">尤利西斯 貞德與鍊金騎士</a></p></td>
+<td><p><a href="../Page/尤利西斯_貞德與鍊金騎士.md" title="wikilink">尤利西斯 貞德與鍊金騎士</a></p></td>
 <td></td>
 <td><p>小說</p></td>
 <td><p>－</p></td>
@@ -185,7 +185,7 @@ AXsiZ自成立以來，其公司總部地址當初與Studio五組同樣位於[�
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/月色真美" title="wikilink">月色真美</a></p></td>
+<td><p><a href="../Page/月色真美.md" title="wikilink">月色真美</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/feel." title="wikilink">feel.</a></p></td>
 <td></td>
@@ -198,7 +198,7 @@ AXsiZ自成立以來，其公司總部地址當初與Studio五組同樣位於[�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/天使的3P！" title="wikilink">天使的3P！</a></p></td>
+<td><p><a href="../Page/天使的3P！.md" title="wikilink">天使的3P！</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/project_No.9" title="wikilink">project No.9</a></p></td>
 <td></td>
@@ -212,7 +212,7 @@ AXsiZ自成立以來，其公司總部地址當初與Studio五組同樣位於[�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/舞動青春_(漫畫)" title="wikilink">舞動青春</a></p></td>
+<td><p><a href="../Page/舞動青春_(漫畫).md" title="wikilink">舞動青春</a></p></td>
 <td></td>
 <td><p><a href="../Page/Production_I.G.md" title="wikilink">Production I.G</a></p></td>
 <td></td>

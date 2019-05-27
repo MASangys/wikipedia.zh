@@ -1,4 +1,4 @@
-**LSD**是由英國音樂家[迷走小子](https://zh.wikipedia.org/wiki/迷走小子 "wikilink")、澳洲歌手[希雅和美國製作人](https://zh.wikipedia.org/wiki/希雅 "wikilink")[迪波洛組成的](https://zh.wikipedia.org/wiki/迪波洛 "wikilink")[超級樂團](https://zh.wikipedia.org/wiki/超級樂團 "wikilink")。\[1\]
+**LSD**是由英國音樂家[迷走小子](https://zh.wikipedia.org/wiki/迷走小子 "wikilink")、澳洲歌手[希雅和美國製作人](https://zh.wikipedia.org/wiki/希雅 "wikilink")[迪波洛組成的](../Page/迪波洛.md "wikilink")[超級樂團](https://zh.wikipedia.org/wiki/超級樂團 "wikilink")。\[1\]
 樂團至今已經發行了5張
 (加上1張混音)單曲，並全部收錄於迷你專輯《不需要新朋友》（），於[Spotify上發行於](../Page/Spotify.md "wikilink")2019年3月12日。\[2\]
 他們於3月11日宣布他們的首張專輯將於4月12日發行。
@@ -79,10 +79,10 @@ LSD於11月1日發行單曲《Mountains》。\[10\]
 <td><p><a href="../Page/法國唱片出版業公會.md" title="wikilink">法國</a><br />
 <br />
 [17]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GfK娱乐榜单" title="wikilink">德國</a><br />
+<td><p><a href="../Page/GfK娱乐榜单.md" title="wikilink">德國</a><br />
 <br />
 [18]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/意大利音乐产业联盟" title="wikilink">義大利</a><br />
+<td><p><a href="../Page/意大利音乐产业联盟.md" title="wikilink">義大利</a><br />
 <br />
 [19]</p></td>
 </tr>
@@ -152,7 +152,7 @@ LSD於11月1日發行單曲《Mountains》。\[10\]
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/新西兰官方音乐榜" title="wikilink">紐西蘭Z</a><br />
+<td><p><a href="../Page/新西兰官方音乐榜.md" title="wikilink">紐西蘭Z</a><br />
 <br />
 [20]</p></td>
 <td></td>

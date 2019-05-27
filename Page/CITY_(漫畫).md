@@ -1,4 +1,4 @@
-是[新井圭一](https://zh.wikipedia.org/wiki/新井圭一 "wikilink")\[1\]所著的[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於《[Morning](../Page/Morning_\(漫畫雜誌\).md "wikilink")》（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）從2016年44號開始正在連載中。單行本目前已經出版6冊。
+是[新井圭一](../Page/新井圭一.md "wikilink")\[1\]所著的[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於《[Morning](../Page/Morning_\(漫畫雜誌\).md "wikilink")》（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）從2016年44號開始正在連載中。單行本目前已經出版6冊。
 
 作品描述圍繞著一名叫南雲美鳥的女大學生搬到一個叫「CITY」的城市定居下來之後，開始過著跟這裡的居民展開圍繞在她身上的笑中帶淚之搞笑漫畫作品。但是跟前作《[日常](../Page/日常.md "wikilink")》不一樣的是，此作可以看到類似[平行世界的描述](https://zh.wikipedia.org/wiki/平行宇宙 "wikilink")。
 

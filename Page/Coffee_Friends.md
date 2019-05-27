@@ -1,6 +1,6 @@
 《**Coffee
 Friends**》（，），為韓國[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")
-電視台於2019年1月4日推出的綜藝節目。由《[花樣爺爺](../Page/花樣爺爺.md "wikilink")》、《[一日三餐](../Page/一日三餐.md "wikilink")》、《[尹食堂](https://zh.wikipedia.org/wiki/尹食堂 "wikilink")》的[羅䁐錫PD擔任創意總監](../Page/羅䁐錫.md "wikilink")，而由《[家常飯白老師](https://zh.wikipedia.org/wiki/家常飯白老師 "wikilink")》、《[街頭美食鬥士](https://zh.wikipedia.org/wiki/街頭美食鬥士 "wikilink")》的朴熙妍PD擔任導演。節目源自[柳演錫和](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")[孫浩俊](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink")2018年一直在做的同名公益捐贈活動，他們親自駕駛咖啡車四處分享飲料，出價多少由購買者決定，所有營業收入用於公益捐款，讓各地民眾都能參與這個愛心捐款活動，也讓大家看到了捐贈其實是一件很簡單的事。朴熙妍PD表示：「看到[柳演錫和](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")[孫浩俊一年來進行的捐贈活動](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink")，對他們的初衷很有共鳴，於是決定拍成綜藝節目」。本節目延續這個富意義的捐贈活動，讓柳演錫和孫浩俊直接在濟州島經營咖啡廳，期間發生的大小事既有笑點也有讓人感動的地方\[1\]\[2\]\[3\]。
+電視台於2019年1月4日推出的綜藝節目。由《[花樣爺爺](../Page/花樣爺爺.md "wikilink")》、《[一日三餐](../Page/一日三餐.md "wikilink")》、《[尹食堂](../Page/尹食堂.md "wikilink")》的[羅䁐錫PD擔任創意總監](../Page/羅䁐錫.md "wikilink")，而由《[家常飯白老師](../Page/家常飯白老師.md "wikilink")》、《[街頭美食鬥士](../Page/街頭美食鬥士.md "wikilink")》的朴熙妍PD擔任導演。節目源自[柳演錫和](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")[孫浩俊](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink")2018年一直在做的同名公益捐贈活動，他們親自駕駛咖啡車四處分享飲料，出價多少由購買者決定，所有營業收入用於公益捐款，讓各地民眾都能參與這個愛心捐款活動，也讓大家看到了捐贈其實是一件很簡單的事。朴熙妍PD表示：「看到[柳演錫和](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")[孫浩俊一年來進行的捐贈活動](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink")，對他們的初衷很有共鳴，於是決定拍成綜藝節目」。本節目延續這個富意義的捐贈活動，讓柳演錫和孫浩俊直接在濟州島經營咖啡廳，期間發生的大小事既有笑點也有讓人感動的地方\[1\]\[2\]\[3\]。
 香港由[myTV
 SUPER點播](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")。台灣由[tvN
 Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、[愛奇藝跟播](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")。新加坡由[Viu跟播](../Page/Viu.md "wikilink")。
@@ -40,7 +40,7 @@ Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、[愛奇藝跟播](htt
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/梁世宗_(韓國)" title="wikilink">梁世宗</a></p></td>
+<td><p><a href="../Page/梁世宗_(韓國).md" title="wikilink">梁世宗</a></p></td>
 <td><p>全能助手</p></td>
 <td><center>
 <p>全集</p></td>
@@ -95,7 +95,7 @@ Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、[愛奇藝跟播](htt
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/白種元" title="wikilink">白種元</a></p></td>
+<td><p><a href="../Page/白種元.md" title="wikilink">白種元</a></p></td>
 <td><p>傳奇打工老師</p></td>
 <td><center>
 <p>第6~7集</p></td>
@@ -103,7 +103,7 @@ Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、[愛奇藝跟播](htt
 <p>[6]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Sehun" title="wikilink">世勳</a>（<a href="../Page/EXO.md" title="wikilink">EXO</a>）</p></td>
+<td><p><a href="../Page/Sehun.md" title="wikilink">世勳</a>（<a href="../Page/EXO.md" title="wikilink">EXO</a>）</p></td>
 <td><p>橘子銷售王</p></td>
 <td><center>
 <p>第7~8集</p></td>
@@ -119,7 +119,7 @@ Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、[愛奇藝跟播](htt
 <p>[8]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/姜丹尼爾" title="wikilink">姜丹尼爾</a></p></td>
+<td><p><a href="../Page/姜丹尼爾.md" title="wikilink">姜丹尼爾</a></p></td>
 <td><p>超短期打工生</p></td>
 <td><center>
 <p>第8集</p></td>
@@ -308,7 +308,7 @@ DIY現採橘子<br />
 
 ## 捐款的後續
 
-  - 節目共募得12,093,977韓元，[柳演錫](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")、[孫浩俊](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink")、[崔智友](https://zh.wikipedia.org/wiki/崔智友 "wikilink")、[趙在允](../Page/趙在允.md "wikilink")、[梁世宗一起將捐款轉交給兒童康復醫院](https://zh.wikipedia.org/wiki/梁世宗_\(韓國\) "wikilink")，全數用於殘疾兒童的後援基金\[12\]。
+  - 節目共募得12,093,977韓元，[柳演錫](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")、[孫浩俊](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink")、[崔智友](https://zh.wikipedia.org/wiki/崔智友 "wikilink")、[趙在允](../Page/趙在允.md "wikilink")、[梁世宗一起將捐款轉交給兒童康復醫院](../Page/梁世宗_\(韓國\).md "wikilink")，全數用於殘疾兒童的後援基金\[12\]。
 
 ## 參考資料
 

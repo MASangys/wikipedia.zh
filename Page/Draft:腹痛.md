@@ -1,7 +1,7 @@
 **腹痛**，又稱**肚子痛**是一系列以腹部疼痛為表徵的[徵候](../Page/症狀.md "wikilink")。
 
 常見的病因包含[腸胃炎](../Page/腸胃炎.md "wikilink")、[大腸激躁症](../Page/大腸激躁症.md "wikilink")\[1\]。約有10%
-的人可能是因更緊急的原因引起，例如[闌尾炎](../Page/闌尾炎.md "wikilink")、[腹主動脈瘤破裂](../Page/腹主動脈瘤.md "wikilink")、[憩室炎](https://zh.wikipedia.org/wiki/憩室炎 "wikilink")，或[異位妊娠](../Page/異位妊娠.md "wikilink")\[2\]。三分之一的病患原因則未明\[3\]。
+的人可能是因更緊急的原因引起，例如[闌尾炎](../Page/闌尾炎.md "wikilink")、[腹主動脈瘤破裂](../Page/腹主動脈瘤.md "wikilink")、[憩室炎](../Page/憩室炎.md "wikilink")，或[異位妊娠](../Page/異位妊娠.md "wikilink")\[2\]。三分之一的病患原因則未明\[3\]。
 
 以腹痛表現的疾病相當多，因此詳細的病史詢問、檢查，以及鑑別診斷相當重要。
 
@@ -46,12 +46,12 @@ one can perform a thorough history and physical examination.
 The process of gathering a history may include:\[14\]
 
   - Identifying more information about the [chief
-    complaint](https://zh.wikipedia.org/wiki/主訴 "wikilink") by eliciting
-    a ; i.e. a narrative of the current symptoms such as the onset,
-    location, duration, character, aggravating or relieving factors, and
-    temporal nature of the pain. Identifying other possible factors may
-    aid in the diagnosis of the underlying cause of abdominal pain, such
-    as recent travel, recent contact with other ill individuals, and for
+    complaint](../Page/主訴.md "wikilink") by eliciting a ; i.e. a
+    narrative of the current symptoms such as the onset, location,
+    duration, character, aggravating or relieving factors, and temporal
+    nature of the pain. Identifying other possible factors may aid in
+    the diagnosis of the underlying cause of abdominal pain, such as
+    recent travel, recent contact with other ill individuals, and for
     females, a thorough [gynecologic](../Page/婦科學.md "wikilink")
     history.
   - Learning about the patient's past medical history, focusing on any
@@ -76,8 +76,7 @@ exam](../Page/理學檢查.md "wikilink") in order to identify important
 physical signs that might clarify the diagnosis, including a
 [cardiovascular exam](https://zh.wikipedia.org/wiki/心血管檢查 "wikilink"),
 lung exam, thorough abdominal exam, and for females, a
-[genitourinary](https://zh.wikipedia.org/wiki/泌尿生殖系统 "wikilink")
-exam.\[15\]
+[genitourinary](../Page/泌尿生殖系统.md "wikilink") exam.\[15\]
 
 Additional investigations that can aid diagnosis include:\[16\]
 
@@ -113,11 +112,10 @@ syndrome](../Page/大腸激躁症.md "wikilink") (8%), urinary tract problems
 the cause is not determined. About 10% of cases have a more serious
 cause including gallbladder ([gallstones](../Page/膽石症.md "wikilink") or
 ) or [pancreas](../Page/胰脏.md "wikilink") problems (4%),
-[diverticulitis](https://zh.wikipedia.org/wiki/憩室炎 "wikilink") (3%),
+[diverticulitis](../Page/憩室炎.md "wikilink") (3%),
 [appendicitis](../Page/闌尾炎.md "wikilink") (2%) and
 [cancer](../Page/癌症.md "wikilink") (1%).\[18\] More common in those
-who are older, [mesenteric
-ischemia](https://zh.wikipedia.org/wiki/腸繫膜缺血 "wikilink") and
+who are older, [mesenteric ischemia](../Page/腸繫膜缺血.md "wikilink") and
 [abdominal aortic aneurysms](../Page/腹主動脈瘤.md "wikilink") are other
 serious causes.\[19\]
 
@@ -129,13 +127,12 @@ A more extensive list includes the following:
           - Inflammatory: [gastroenteritis](../Page/腸胃炎.md "wikilink"),
             [appendicitis](../Page/闌尾炎.md "wikilink"),
             [gastritis](../Page/胃炎.md "wikilink"), ,
-            [diverticulitis](https://zh.wikipedia.org/wiki/憩室炎 "wikilink"),
-            [Crohn's disease](../Page/克隆氏症.md "wikilink"), [ulcerative
+            [diverticulitis](../Page/憩室炎.md "wikilink"), [Crohn's
+            disease](../Page/克隆氏症.md "wikilink"), [ulcerative
             colitis](../Page/溃疡性结肠炎.md "wikilink"),
           - Obstruction: [hernia](../Page/疝.md "wikilink"),
             [intussusception](../Page/腸套疊.md "wikilink"),
-            [volvulus](https://zh.wikipedia.org/wiki/腸扭轉 "wikilink"),
-            post-surgical
+            [volvulus](../Page/腸扭轉.md "wikilink"), post-surgical
             [adhesions](https://zh.wikipedia.org/wiki/沾黏 "wikilink"),
             [tumors](../Page/贅生物.md "wikilink"), severe
             [constipation](../Page/便秘.md "wikilink"),
@@ -154,8 +151,7 @@ A more extensive list includes the following:
       - Glands
           - Bile system
               - Inflammatory:
-                [cholecystitis](https://zh.wikipedia.org/wiki/膽囊炎 "wikilink"),
-
+                [cholecystitis](../Page/膽囊炎.md "wikilink"),
               - Obstruction:
                 [cholelithiasis](../Page/膽石症.md "wikilink"),
                 [tumours](../Page/贅生物.md "wikilink")
@@ -212,7 +208,7 @@ A more extensive list includes the following:
         ketoacidosis](../Page/糖尿病酮症酸中毒.md "wikilink"),
         [porphyria](../Page/紫質症.md "wikilink"), , adrenal insufficiency,
         [lead poisoning](../Page/鉛中毒.md "wikilink"), [black widow
-        spider](https://zh.wikipedia.org/wiki/寇蛛属 "wikilink") bite,
+        spider](../Page/寇蛛属.md "wikilink") bite,
         [narcotic](https://zh.wikipedia.org/wiki/麻醉藥物 "wikilink")
         [withdrawal](https://zh.wikipedia.org/wiki/藥物戒斷 "wikilink")
 
@@ -256,15 +252,15 @@ associated with acute abdominal pain is acute appendicitis.
     [kidney](../Page/腎.md "wikilink")
   - Inflammatory:
       - Infections such as [appendicitis](../Page/闌尾炎.md "wikilink"),
-        [cholecystitis](https://zh.wikipedia.org/wiki/膽囊炎 "wikilink"),
+        [cholecystitis](../Page/膽囊炎.md "wikilink"),
         [pancreatitis](../Page/胰腺炎.md "wikilink"), , [pelvic
         inflammatory disease](../Page/骨盆腔發炎.md "wikilink"),
         [hepatitis](https://zh.wikipedia.org/wiki/肝炎 "wikilink"), , or a
         subdiaphragmatic [abscess](../Page/膿瘍.md "wikilink")
-      - [Perforation](https://zh.wikipedia.org/wiki/腸胃穿孔 "wikilink") of
-        a [peptic ulcer](../Page/胃及十二指肠潰瘍.md "wikilink"), a
-        [diverticulum](https://zh.wikipedia.org/wiki/憩室炎 "wikilink"), or
-        the [caecum](https://zh.wikipedia.org/wiki/盲肠 "wikilink")
+      - [Perforation](../Page/腸胃穿孔.md "wikilink") of a [peptic
+        ulcer](../Page/胃及十二指肠潰瘍.md "wikilink"), a
+        [diverticulum](../Page/憩室炎.md "wikilink"), or the
+        [caecum](https://zh.wikipedia.org/wiki/盲肠 "wikilink")
       - Complications of [inflammatory bowel
         disease](../Page/炎症性肠病.md "wikilink") such as [Crohn's
         disease](../Page/克隆氏症.md "wikilink") or [ulcerative
@@ -278,7 +274,7 @@ associated with acute abdominal pain is acute appendicitis.
       - [Large bowel](../Page/大肠.md "wikilink")  caused by [colorectal
         cancer](../Page/大腸癌.md "wikilink"), [inflammatory bowel
         disease](../Page/炎症性肠病.md "wikilink"),
-        [volvulus](https://zh.wikipedia.org/wiki/腸扭轉 "wikilink"),  or
+        [volvulus](../Page/腸扭轉.md "wikilink"),  or
         [hernia](../Page/疝.md "wikilink")
   - Vascular: occlusive , usually caused by  of the
 
@@ -289,13 +285,11 @@ causing the pain. The abdomen can be divided into four regions called
 quadrants. Locations and associated conditions include:\[20\]\[21\]
 
   - Diffuse
-      - [Peritonitis](https://zh.wikipedia.org/wiki/腹膜炎 "wikilink")
-      - Vascular: [mesenteric
-        ischemia](https://zh.wikipedia.org/wiki/腸繫膜缺血 "wikilink"),
-        i, [Henoch-Schonlein purpura](../Page/过敏性紫癜.md "wikilink"),
-        [sickle cell disease](../Page/鐮刀型紅血球疾病.md "wikilink"), [systemic
-        lupus erythematosus](../Page/全身性紅斑狼瘡.md "wikilink"),
-        [polyarteritis
+      - [Peritonitis](../Page/腹膜炎.md "wikilink")
+      - Vascular: [mesenteric ischemia](../Page/腸繫膜缺血.md "wikilink"), i,
+        [Henoch-Schonlein purpura](../Page/过敏性紫癜.md "wikilink"), [sickle
+        cell disease](../Page/鐮刀型紅血球疾病.md "wikilink"), [systemic lupus
+        erythematosus](../Page/全身性紅斑狼瘡.md "wikilink"), [polyarteritis
         nodosa](https://zh.wikipedia.org/wiki/結節性多動脈炎 "wikilink")
       - Small
       - [Irritable bowel syndrome](../Page/大腸激躁症.md "wikilink")
@@ -309,9 +303,9 @@ quadrants. Locations and associated conditions include:\[20\]\[21\]
         ulcer](../Page/胃及十二指肠潰瘍.md "wikilink"), [stomach
         cancer](../Page/胃癌.md "wikilink")
       - Pancreas: [pancreatitis](../Page/胰腺炎.md "wikilink"), [pancreatic
-        cancer](https://zh.wikipedia.org/wiki/胰腺癌 "wikilink")
+        cancer](../Page/胰腺癌.md "wikilink")
       - Intestinal: [duodenal ulcer](../Page/胃及十二指肠潰瘍.md "wikilink"),
-        [diverticulitis](https://zh.wikipedia.org/wiki/憩室炎 "wikilink"),
+        [diverticulitis](../Page/憩室炎.md "wikilink"),
         [appendicitis](../Page/闌尾炎.md "wikilink")
   - Right upper quadrant
       - Liver: , [fatty liver](../Page/脂肪肝.md "wikilink"),
@@ -319,7 +313,7 @@ quadrants. Locations and associated conditions include:\[20\]\[21\]
         cancer](../Page/肝癌.md "wikilink"),
         [abscess](../Page/膿瘍.md "wikilink")
       - Gallbladder and biliary tract:
-        [inflammation](https://zh.wikipedia.org/wiki/膽囊炎 "wikilink"),
+        [inflammation](../Page/膽囊炎.md "wikilink"),
         [gallstones](../Page/膽石症.md "wikilink"), ,
       - Colon: , functional disorders, gas accumulation, spasm,
         inflammation, [colon cancer](../Page/大腸癌.md "wikilink")
@@ -336,8 +330,7 @@ quadrants. Locations and associated conditions include:\[20\]\[21\]
       - [Diabetic ketoacidosis](../Page/糖尿病酮症酸中毒.md "wikilink")
       - Vascular: [aortic dissection](../Page/主动脉夹层.md "wikilink"),
         aortic rupture
-      - Bowel: [mesenteric
-        ischemia](https://zh.wikipedia.org/wiki/腸繫膜缺血 "wikilink"),
+      - Bowel: [mesenteric ischemia](../Page/腸繫膜缺血.md "wikilink"),
         [Celiac disease](../Page/乳糜泻.md "wikilink"), inflammation,
         intestinal spasm, functional disorders,
   - Lower abdominal pain
@@ -363,9 +356,8 @@ quadrants. Locations and associated conditions include:\[20\]\[21\]
         cancer](../Page/卵巢癌.md "wikilink"), [endometrial
         cancer](../Page/子宫内膜癌.md "wikilink")
   - Left lower quadrant
-      - Bowel:
-        [diverticulitis](https://zh.wikipedia.org/wiki/憩室炎 "wikilink"),
-        , , gas accumulation,
+      - Bowel: [diverticulitis](../Page/憩室炎.md "wikilink"), , , gas
+        accumulation,
   - Right [low back pain](../Page/下背痛.md "wikilink")
       - Liver:
       - Kidney: [kidney stone](../Page/腎結石.md "wikilink")
@@ -424,7 +416,7 @@ Below is a brief overview of abdominal pain emergencies.
 <p>Pain control</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/膽囊炎" title="wikilink">Acute Cholecystitis</a>[29]</p></td>
+<td><p><a href="../Page/膽囊炎.md" title="wikilink">Acute Cholecystitis</a>[29]</p></td>
 <td><p>Abdominal pain (RUQ, radiates epigastric), nausea, vomiting, fever, {{tsl|en|Murphy's sign</p></td>
 <td><p>Murphy's sign}}</p></td>
 <td><p>Clinical (history &amp; physical exam) Imaging (RUQ ultrasound)</p>
@@ -463,7 +455,7 @@ Below is a brief overview of abdominal pain emergencies.
 <p>Labs (<a href="../Page/全血细胞计数.md" title="wikilink">complete blood count</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/腸扭轉" title="wikilink">Volvulus</a>[35]</p></td>
+<td><p><a href="../Page/腸扭轉.md" title="wikilink">Volvulus</a>[35]</p></td>
 <td><p>{{tsl|en|Sigmoid colon volvulus</p></td>
 <td><p>Sigmoid colon volvulus}}: Abdominal pain (&gt;2 days, distention, constipation) Cecal volvulus: Abdominal pain (acute onset), nausea, vomiting</p></td>
 <td><p>Clinical (history &amp; physical exam) Imaging (abdominal X-ray or CT)</p></td>
@@ -478,13 +470,13 @@ Below is a brief overview of abdominal pain emergencies.
 <tr class="even">
 <td><p>Ruptured <a href="../Page/腹主動脈瘤.md" title="wikilink">Abdominal Aortic Aneurysm</a>[37]</p></td>
 <td><p>Abdominal pain, flank pain, back pain, hypotension, pulsatile abdominal mass</p></td>
-<td><p>Clinical (history &amp; physical exam) Imaging: Ultrasound, <a href="https://zh.wikipedia.org/wiki/電腦斷層血管攝影術" title="wikilink">CT angiography</a>, MRA/{{tsl|en|magnetic resonance angiography</p></td>
+<td><p>Clinical (history &amp; physical exam) Imaging: Ultrasound, <a href="../Page/電腦斷層血管攝影術.md" title="wikilink">CT angiography</a>, MRA/{{tsl|en|magnetic resonance angiography</p></td>
 <td><p>magnetic resonance angiography}}</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/主动脉夹层.md" title="wikilink">Aortic Dissection</a>[38]</p></td>
-<td><p>Abdominal pain (sudden onset of epigastric or back pain), hypertension, new aortic <a href="https://zh.wikipedia.org/wiki/心雜音" title="wikilink">murmur</a></p></td>
-<td><p>Clinical (history &amp; physical exam) Imaging: Chest X-Ray (showing widened <a href="https://zh.wikipedia.org/wiki/縱膈" title="wikilink">mediastinum</a>), <a href="https://zh.wikipedia.org/wiki/電腦斷層血管攝影術" title="wikilink">CT angiography</a>, {{tsl|en|Magnetic resonance angiography</p></td>
+<td><p>Abdominal pain (sudden onset of epigastric or back pain), hypertension, new aortic <a href="../Page/心雜音.md" title="wikilink">murmur</a></p></td>
+<td><p>Clinical (history &amp; physical exam) Imaging: Chest X-Ray (showing widened <a href="../Page/縱膈.md" title="wikilink">mediastinum</a>), <a href="../Page/電腦斷層血管攝影術.md" title="wikilink">CT angiography</a>, {{tsl|en|Magnetic resonance angiography</p></td>
 <td><p>MRA}}, {{tsl|en|transthoracic echocardiogram</p></td>
 </tr>
 <tr class="even">

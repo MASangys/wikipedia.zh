@@ -80,7 +80,7 @@ Thymeleaf是 [开源软件](../Page/开源软件.md "wikilink")、许可下
   - 模板引擎（网络）
   - [JavaServer Pages](../Page/JSP.md "wikilink")
   - [Spring框架](../Page/Spring_Framework.md "wikilink")
-  - [FreeMarker](https://zh.wikipedia.org/wiki/FreeMarker "wikilink")
+  - [FreeMarker](../Page/FreeMarker.md "wikilink")
   - [Apache Velocity](../Page/Apache_Velocity.md "wikilink")
   - 模板属性语言
 

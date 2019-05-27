@@ -1,26 +1,26 @@
-**TREASURE**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂透過出道生存節目](../Page/YG娛樂.md "wikilink")《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》所推出的男子音樂組合\[1\]，最終成員是[崔玹碩](https://zh.wikipedia.org/wiki/崔玹碩 "wikilink")、金俊奎、尹材赫、[方藝潭](../Page/方藝潭.md "wikilink")
+**TREASURE**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂透過出道生存節目](../Page/YG娛樂.md "wikilink")《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》所推出的男子音樂組合\[1\]，最終成員是[崔玹碩](../Page/崔玹碩.md "wikilink")、金俊奎、尹材赫、[方藝潭](../Page/方藝潭.md "wikilink")
 、Haruto、朴炡禹及蘇庭煥共七名\[2\]\[3\]\[4\]。
 
-與[MAGNUM合體活動時稱為](https://zh.wikipedia.org/wiki/MAGNUM "wikilink")[TREASURE
-13](https://zh.wikipedia.org/wiki/TREASURE_13 "wikilink")，三隊共用的官方粉絲名為[TREASURE
+與[MAGNUM合體活動時稱為](../Page/MAGNUM.md "wikilink")[TREASURE
+13](../Page/TREASURE_13.md "wikilink")，三隊共用的官方粉絲名為[TREASURE
 MAKER](https://zh.wikipedia.org/wiki/TREASURE_MAKER "wikilink")。\[5\]
 
 ## 成員列表
 
   - 全員皆已正名。
 
-| colspan="9" style= |成員列表                                  |
-| --------------------------------------------------------- |
-| 本名                                                        |
-| 漢字                                                        |
-| [崔玹碩](https://zh.wikipedia.org/wiki/崔玹碩 "wikilink") \[6\] |
-| 金俊奎                                                       |
-| 尹材赫                                                       |
-| [方藝潭](../Page/方藝潭.md "wikilink")                          |
-| 渡邊溫斗                                                      |
-| 朴炡禹                                                       |
-| 蘇庭煥                                                       |
-|                                                           |
+| colspan="9" style= |成員列表               |
+| -------------------------------------- |
+| 本名                                     |
+| 漢字                                     |
+| [崔玹碩](../Page/崔玹碩.md "wikilink") \[6\] |
+| 金俊奎                                    |
+| 尹材赫                                    |
+| [方藝潭](../Page/方藝潭.md "wikilink")       |
+| 渡邊溫斗                                   |
+| 朴炡禹                                    |
+| 蘇庭煥                                    |
+|                                        |
 
 ## 經歷
 
@@ -28,7 +28,7 @@ MAKER](https://zh.wikipedia.org/wiki/TREASURE_MAKER "wikilink")。\[5\]
 
 [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂於](../Page/YG娛樂.md "wikilink")2018年11月推出出道生存綜藝節目[YG寶石盒](../Page/YG寶石盒.md "wikilink")，2019年1月18日最後一集節目直播中公佈四名確定成員：HARUTO、[方藝潭](../Page/方藝潭.md "wikilink")、蘇庭煥分別佔據各position排行榜第一名，金俊奎除他們以外的練習生中獲得最高分數榮幸獲得出道機會\[7\]\[8\]。1月21日公布第五位出道成員
 :
-朴炡禹\[9\]；1月23日公布第六位出道成員：尹材赫\[10\]；1月25日公布最終出道成員：[崔玹碩](https://zh.wikipedia.org/wiki/崔玹碩 "wikilink")\[11\]。同月28日公佈組合名稱為「TREASURE」\[12\]。
+朴炡禹\[9\]；1月23日公布第六位出道成員：尹材赫\[10\]；1月25日公布最終出道成員：[崔玹碩](../Page/崔玹碩.md "wikilink")\[11\]。同月28日公佈組合名稱為「TREASURE」\[12\]。
 
 ## 參考資料
 

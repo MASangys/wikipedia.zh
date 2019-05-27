@@ -1,5 +1,5 @@
 「**K
-I**」是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z的主唱](../Page/B'z.md "wikilink")[稻葉浩志在](../Page/稻葉浩志.md "wikilink")[2003年](../Page/2003年.md "wikilink")[6月11日發行的第](../Page/6月11日.md "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+I**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z的主唱](../Page/B'z.md "wikilink")[稻葉浩志在](../Page/稻葉浩志.md "wikilink")[2003年](../Page/2003年.md "wikilink")[6月11日發行的第](../Page/6月11日.md "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 

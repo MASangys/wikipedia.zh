@@ -1,6 +1,6 @@
 **金玟周**（；） ，是韓國女歌手，所屬經紀公司為[Uban
 Works](https://zh.wikipedia.org/wiki/Uban_Works "wikilink")。2018年參加[Mnet選秀節目](../Page/Mnet媒體.md "wikilink")《[PRODUCE
-48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》並拿下第11名，得以成為女子團體[IZ\*ONE一員出道](../Page/IZ*ONE.md "wikilink")。
+48](../Page/PRODUCE_48.md "wikilink")》並拿下第11名，得以成為女子團體[IZ\*ONE一員出道](../Page/IZ*ONE.md "wikilink")。
 
 ## 外部链接
 

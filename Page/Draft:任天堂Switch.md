@@ -29,7 +29,7 @@ X1](https://zh.wikipedia.org/wiki/图睿#Tegra_X1系列 "wikilink")[系统芯片
       - 1月13日 -
         任天堂宣布任天堂Switch將會在2017年3月3日在[日本](../Page/日本.md "wikilink")、[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、[香港和](../Page/香港.md "wikilink")[歐洲部份国家發售](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，發售建議價格日本為29,980日圓（不含税）、北美299.99美元、香港2,340港元。
       - 2月1日 -
-        任天堂公布了为[第五十一届超级碗期间制作的任天堂Switch的广告](https://zh.wikipedia.org/wiki/第五十一届超级碗 "wikilink")，这是任天堂首次为家用主机制作超级杯广告
+        任天堂公布了为[第五十一届超级碗期间制作的任天堂Switch的广告](../Page/第五十一届超级碗.md "wikilink")，这是任天堂首次为家用主机制作超级杯广告
         。\[9\]并使用了同日发行的[謎幻樂團新单曲](../Page/謎幻樂團.md "wikilink")《》。
       - 2月8日 - 任天堂公布由日本演员[大泉洋主演的广告](../Page/大泉洋.md "wikilink")。\[10\]
       - 2月14日 -
@@ -95,7 +95,7 @@ Camera”的[红外线传感器](../Page/红外线.md "wikilink")。\[28\]\[29\]
 [缩略图](https://zh.wikipedia.org/wiki/File:Nintendo-Switch-Pro-Controller-FL.jpg "fig:缩略图")
 除主机附带的Joy-Con外，玩家还可另购任天堂Switch
 Pro手柄。Pro手柄还是继续使用传统的[十字键](https://zh.wikipedia.org/wiki/十字键 "wikilink")，不过相较于[Wii
-U的手柄](../Page/Wii_U.md "wikilink")，它在键位上也有一定变化，最明显的是右摇杆和ABXY按键位置对调，向[Xbox系列手柄的按键布局靠拢](https://zh.wikipedia.org/wiki/Xbox "wikilink")。\[31\]\[32\]该手柄为任天堂Switch专用，无法在其他任天堂家用游戏机上使用。此外，Pro手柄右摇杆的主板处还刻有隐藏的文字以感谢玩家。\[33\]
+U的手柄](../Page/Wii_U.md "wikilink")，它在键位上也有一定变化，最明显的是右摇杆和ABXY按键位置对调，向[Xbox系列手柄的按键布局靠拢](../Page/Xbox.md "wikilink")。\[31\]\[32\]该手柄为任天堂Switch专用，无法在其他任天堂家用游戏机上使用。此外，Pro手柄右摇杆的主板处还刻有隐藏的文字以感谢玩家。\[33\]
 
 ### 硬件規格
 
@@ -107,7 +107,7 @@ X1处理器为20[纳米制造工艺](../Page/纳米.md "wikilink")，有4核心�
 
 任天堂Switch主机的内置存储空间为32GB，可使用[microSD进行扩充](https://zh.wikipedia.org/wiki/microSD "wikilink")，最高支持microSDXC标准，最大支持2TB容量；\[39\]主机在初始系统1.0.0时只能支持到microSDHC标准，发售同日提供的系统2.0.0更新使其可支持microSDXC标准。\[40\]
 
-任天堂Switch的游戏载体采用了任天堂掌上游戏机系列上一直使用的[卡匣而非自](https://zh.wikipedia.org/wiki/ROM卡带 "wikilink")[任天堂GameCube以来家用主机沿用的](../Page/任天堂GameCube.md "wikilink")[光盘](../Page/任天堂光盘.md "wikilink")；值得一提的是，为了防止婴幼儿误吞卡带，任天堂在生产卡匣时加入了无毒的苦味剂[苯甲地那铵](../Page/苯甲地那铵.md "wikilink")。\[41\]任天堂Switch继续支持自家的有[近场通信的玩偶](https://zh.wikipedia.org/wiki/近场通信 "wikilink")[Amiibo](https://zh.wikipedia.org/wiki/Amiibo "wikilink")。\[42\]任天堂Switch主机本体内置了4310mAh的锂电池，但电池不可更换；而根据游戏的不同，主机续航时间从2.5小时至6小时不等，例如玩《[塞尔达传说
+任天堂Switch的游戏载体采用了任天堂掌上游戏机系列上一直使用的[卡匣而非自](../Page/ROM卡带.md "wikilink")[任天堂GameCube以来家用主机沿用的](../Page/任天堂GameCube.md "wikilink")[光盘](../Page/任天堂光盘.md "wikilink")；值得一提的是，为了防止婴幼儿误吞卡带，任天堂在生产卡匣时加入了无毒的苦味剂[苯甲地那铵](../Page/苯甲地那铵.md "wikilink")。\[41\]任天堂Switch继续支持自家的有[近场通信的玩偶](https://zh.wikipedia.org/wiki/近场通信 "wikilink")[Amiibo](https://zh.wikipedia.org/wiki/Amiibo "wikilink")。\[42\]任天堂Switch主机本体内置了4310mAh的锂电池，但电池不可更换；而根据游戏的不同，主机续航时间从2.5小时至6小时不等，例如玩《[塞尔达传说
 旷野之息](../Page/塞尔达传说_旷野之息.md "wikilink")》電量最多能持續3小時。\[43\]
 
 ## 软件
@@ -127,7 +127,7 @@ Plus](https://zh.wikipedia.org/wiki/PlayStation_Plus "wikilink")。\[55\]\[56\]
 
 #### 任天堂eShop
 
-在[任天堂eShop所下載的任天堂Switch遊戲將不會綁定主機](https://zh.wikipedia.org/wiki/任天堂eShop "wikilink")，而是綁定帳號，放棄了長久以來任天堂將遊戲綁定主機的政策。\[57\]玩家可任意修改自己的任天堂账号所在国家或于同一台主机上登陆多个不同国家的任天堂账号，来方便地购入只在其他国家发行的游戏，或是选择在价格最低廉的国家购入游戏。这一政策在方便玩家的同时，亦被认为会一定程度上影响当地发行商的利益。截至2017年10月，[南非与](https://zh.wikipedia.org/wiki/南非 "wikilink")[墨西哥等国eShop因有多个游戏价格较其他国家eShop低廉而受到玩家关注](../Page/墨西哥.md "wikilink")。
+在[任天堂eShop所下載的任天堂Switch遊戲將不會綁定主機](../Page/任天堂eShop.md "wikilink")，而是綁定帳號，放棄了長久以來任天堂將遊戲綁定主機的政策。\[57\]玩家可任意修改自己的任天堂账号所在国家或于同一台主机上登陆多个不同国家的任天堂账号，来方便地购入只在其他国家发行的游戏，或是选择在价格最低廉的国家购入游戏。这一政策在方便玩家的同时，亦被认为会一定程度上影响当地发行商的利益。截至2017年10月，[南非与](https://zh.wikipedia.org/wiki/南非 "wikilink")[墨西哥等国eShop因有多个游戏价格较其他国家eShop低廉而受到玩家关注](../Page/墨西哥.md "wikilink")。
 
 ### 游戏
 
@@ -138,7 +138,7 @@ U或](../Page/Wii_U.md "wikilink")[任天堂3DS上的游戏](../Page/任天堂3D
 第一款确认在制作的任天堂Switch游戏是[史克威尔艾尼克斯的](../Page/史克威尔艾尼克斯.md "wikilink")《[勇者鬥惡龍XI
 追尋逝去的時光](https://zh.wikipedia.org/wiki/勇者鬥惡龍XI_追尋逝去的時光 "wikilink")》，游戏在2015年7月28日正式公布，并称将计划登陆当时还被称作NX的任天堂Switch。\[60\]而任天堂本社第一款确认登陆新主机的游戏是《[塞尔达传说
 旷野之息](../Page/塞尔达传说_旷野之息.md "wikilink")》，游戏原先是[Wii
-U平台独占](../Page/Wii_U.md "wikilink")。\[61\]在任天堂Switch正式公布后，[育碧宣布旗下的](../Page/育碧.md "wikilink")《[舞力全开2017](https://zh.wikipedia.org/wiki/舞力全开2017 "wikilink")》将会登陆任天堂Switch。\[62\]任天堂Switch的首部宣传片中出现了《[上古卷轴V：天际](../Page/上古卷轴V：天际.md "wikilink")》的画面，[贝塞斯达表示很樂於與任天堂展開合作](../Page/贝塞斯达软件.md "wikilink")，但當時公司還没有確認哪款作品會登陸任天堂Switch，直到2017年1月13日的發表會才正式確認該遊戲會在2017年秋季發售，这也是贝塞斯达首次在任天堂硬件平台上制作游戏。\[63\]\[64\]而[世嘉也确定将在](../Page/世嘉.md "wikilink")2017年发售开发代号为“Project
+U平台独占](../Page/Wii_U.md "wikilink")。\[61\]在任天堂Switch正式公布后，[育碧宣布旗下的](../Page/育碧.md "wikilink")《[舞力全开2017](../Page/舞力全开2017.md "wikilink")》将会登陆任天堂Switch。\[62\]任天堂Switch的首部宣传片中出现了《[上古卷轴V：天际](../Page/上古卷轴V：天际.md "wikilink")》的画面，[贝塞斯达表示很樂於與任天堂展開合作](../Page/贝塞斯达软件.md "wikilink")，但當時公司還没有確認哪款作品會登陸任天堂Switch，直到2017年1月13日的發表會才正式確認該遊戲會在2017年秋季發售，这也是贝塞斯达首次在任天堂硬件平台上制作游戏。\[63\]\[64\]而[世嘉也确定将在](../Page/世嘉.md "wikilink")2017年发售开发代号为“Project
 Sonic
 2017”的《[刺猬索尼克](../Page/刺猬索尼克系列.md "wikilink")》系列新作也将会登陆任天堂Switch。\[65\]
 2017年5月，[卡普空宣布](../Page/卡普空.md "wikilink")《[魔物獵人XX](https://zh.wikipedia.org/wiki/魔物獵人XX "wikilink")》正式登陸任天堂Switch平台。该作可幾乎完整繼承3DS版的存檔。除了任天堂Switch版玩家可面連/網連之外，不同平台玩家也可以透過網連一同合作狩獵。\[66\]\[67\]
@@ -163,7 +163,7 @@ Gamespot指出「Switch將其所有的精力都投入到了它的掌機形態中
 Engadget對任天堂Switch的看法是「任天堂又一次成功的完成了自己的創新。它與其他主機的區別非常明顯，並且做了很多玩家們肯定會喜歡的設計。但是主機的電池續航，屏幕在室外的表現，以及現在還未知的網絡能力與服務讓我非常擔心。任天堂又一次驚艷了我們，但他們還需要很長一段路去證明Switch不會是下一台[Wii
 U](../Page/Wii_U.md "wikilink")。」
 
-2017年11月，《[時代雜誌](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")》將任天堂Switch列為2017年的25款「最佳發明」之一。\[71\]\[72\]
+2017年11月，《[時代雜誌](../Page/時代雜誌.md "wikilink")》將任天堂Switch列為2017年的25款「最佳發明」之一。\[71\]\[72\]
 
 ### 商業評論
 
@@ -245,7 +245,7 @@ Switch主機上市之後，陸續傳出玩家反應左手的Joy-Con控制器感�
 
 任天堂在6月22日公開致歉，並且表示現在每週都會持續生產出貨，盡可能提供主機給欲購買的玩家。包含將在7月、8月出貨的「Nintendo
 Switch [Splatoon
-2同捆組](https://zh.wikipedia.org/wiki/Splatoon_2 "wikilink")」在內，未來會增加出貨量。並預告在秋季之後將會進一步強化生產線。\[120\]
+2同捆組](../Page/Splatoon_2.md "wikilink")」在內，未來會增加出貨量。並預告在秋季之後將會進一步強化生產線。\[120\]
 
 ## 法律糾紛
 

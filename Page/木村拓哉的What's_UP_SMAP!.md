@@ -1,5 +1,5 @@
 **木村拓哉的What's UP
-SMAP\!**（）是[日本一檔由](../Page/日本.md "wikilink")[木村拓哉在](../Page/木村拓哉.md "wikilink")[FM東京冠名主持並在](../Page/FM東京.md "wikilink")[全國FM放送協議會聯播的廣播](https://zh.wikipedia.org/wiki/JFN "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。該節目于1995年1月開始播出，但在1999年3月曾短暫停播。隨後節目于1999年10月復播，并持續到2018年7月27日播出最後一期。在[SMAP于](../Page/SMAP.md "wikilink")2016年年底宣佈[解散后](https://zh.wikipedia.org/wiki/SMAP解散風波 "wikilink")，這是唯一一檔由該組合原成員主持并仍然保留“SMAP”字樣的節目。\[1\]
+SMAP\!**（）是[日本一檔由](../Page/日本.md "wikilink")[木村拓哉在](../Page/木村拓哉.md "wikilink")[FM東京冠名主持並在](../Page/FM東京.md "wikilink")[全國FM放送協議會聯播的廣播](https://zh.wikipedia.org/wiki/JFN "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。該節目于1995年1月開始播出，但在1999年3月曾短暫停播。隨後節目于1999年10月復播，并持續到2018年7月27日播出最後一期。在[SMAP于](../Page/SMAP.md "wikilink")2016年年底宣佈[解散后](../Page/SMAP解散風波.md "wikilink")，這是唯一一檔由該組合原成員主持并仍然保留“SMAP”字樣的節目。\[1\]
 
 ## 節目簡介
 

@@ -1,5 +1,5 @@
 **劉宇菁**，[臺灣](../Page/臺灣.md "wikilink")[女演員](https://zh.wikipedia.org/wiki/女演員 "wikilink")、[模特兒](../Page/模特兒.md "wikilink")。畢業於[實踐大學](../Page/實踐大學.md "wikilink")
-[應用外語系](../Page/應用外語系.md "wikilink")。一般大眾都是藉由廣告、MV、微電影與海量的平面形象作品來認識Juno，但其實她很早期就曾參與三立華劇《[媽咪的男朋友](../Page/媽咪的男朋友.md "wikilink")》等作品的演出，最近較受到注目是在《[1006的房客](https://zh.wikipedia.org/wiki/1006的房客 "wikilink")》中飾演的[謝欣穎閨蜜](../Page/謝欣穎.md "wikilink")「曼曼」\[1\]，因自然率真的演技而頗受好評；之後又在校園偶像劇《[高校英雄傳](../Page/高校英雄傳.md "wikilink")》詮釋起甜美又傻呆的女主角\[2\]
+[應用外語系](../Page/應用外語系.md "wikilink")。一般大眾都是藉由廣告、MV、微電影與海量的平面形象作品來認識Juno，但其實她很早期就曾參與三立華劇《[媽咪的男朋友](../Page/媽咪的男朋友.md "wikilink")》等作品的演出，最近較受到注目是在《[1006的房客](../Page/1006的房客.md "wikilink")》中飾演的[謝欣穎閨蜜](../Page/謝欣穎.md "wikilink")「曼曼」\[1\]，因自然率真的演技而頗受好評；之後又在校園偶像劇《[高校英雄傳](../Page/高校英雄傳.md "wikilink")》詮釋起甜美又傻呆的女主角\[2\]
 \[3\] ，不同於廣告平面作品充滿酷勁的形象，在戲劇表現上靈活多變，備受矚目。
 
 ## 影視作品
@@ -17,8 +17,8 @@
 | 2015年 |  [公視](https://zh.wikipedia.org/wiki/公視 "wikilink") 人生劇展   |                                                                                      《[双重約會](http://web.pts.org.tw/php/mealc/life/index.php?XPAGE=VIEW&XMAENO=2583)》                                                                                       |   溫 馨    |
 | 2015年 |     [三立](https://zh.wikipedia.org/wiki/三立 "wikilink")     |                                                                                                            《[愛上哥們](../Page/愛上哥們.md "wikilink")》                                                                                                            |   楊曉玫    |
 | 2017年 |  [公視](https://zh.wikipedia.org/wiki/公視 "wikilink") 學生劇展   |                                                                                         《[我媽的婚禮](https://www.facebook.com/mymomswedding/about/?ref=page_internal)》                                                                                         |    女兒    |
-| 2017年 |  [公視](https://zh.wikipedia.org/wiki/公視 "wikilink") 人生劇展   |                                                                                               《[銀河戰士特訓班](https://zh.wikipedia.org/wiki/銀河戰士特訓班 "wikilink")》                                                                                                |   江美英    |
-| 2018年 | [愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink") |                                                                                               《[1006的房客](https://zh.wikipedia.org/wiki/1006的房客 "wikilink")》                                                                                                |   蕭蔓蔓    |
+| 2017年 |  [公視](https://zh.wikipedia.org/wiki/公視 "wikilink") 人生劇展   |                                                                                                         《[銀河戰士特訓班](../Page/銀河戰士特訓班.md "wikilink")》                                                                                                         |   江美英    |
+| 2018年 | [愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink") |                                                                                                         《[1006的房客](../Page/1006的房客.md "wikilink")》                                                                                                         |   蕭蔓蔓    |
 | 2018年 |     [三立](https://zh.wikipedia.org/wiki/三立 "wikilink")     |                                                                                                           《[高校英雄傳](../Page/高校英雄傳.md "wikilink")》                                                                                                           |   唐可欣    |
 
 ### 電影
@@ -49,7 +49,7 @@
 | 2013年 | [Tizzy Bac](https://zh.wikipedia.org/wiki/Tizzy_Bac "wikilink") | [飯後甜心](https://www.youtube.com/watch?v=GmTI_9QoNto)  |
 | 2013年 |                 [光良](../Page/光良.md "wikilink")                  |  [讓你飛](https://www.youtube.com/watch?v=dDGHuVFa3Kk)  |
 | 2015年 |                 [萬芳](../Page/萬芳.md "wikilink")                  | [誰 Who](https://www.youtube.com/watch?v=TdLG4ocEMcw) |
-| 2016年 |       [邱鋒澤](https://zh.wikipedia.org/wiki/邱鋒澤 "wikilink")       | [還裝偉大](https://www.youtube.com/watch?v=Ppd_oHW2ly0)  |
+| 2016年 |                [邱鋒澤](../Page/邱鋒澤.md "wikilink")                 | [還裝偉大](https://www.youtube.com/watch?v=Ppd_oHW2ly0)  |
 | 2017年 |                [李榮浩](../Page/李榮浩.md "wikilink")                 |  [戒菸](https://www.youtube.com/watch?v=V7hJgBcRDwM)   |
 
 ### 廣告

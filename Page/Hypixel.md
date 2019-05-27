@@ -6,7 +6,7 @@ Touchette于2013年4月14日创建的《[我的世界](../Page/我的世界.md "
 2013年4月14日，Simon Collins-Laflamme和Philippe
 Touchette建立了Hypixel，后来Hypixel成为了广受欢迎的《[我的世界：Java版](../Page/我的世界.md "wikilink")》游戏服务器，每月玩家数达到约2万名。\[1\]\[2\]\[3\]这个服务器中包含了许多[小游戏](https://zh.wikipedia.org/wiki/小游戏 "wikilink")。\[4\]\[5\]它的所有者是Hypixel公司。\[6\]Simon和Philippe从此开始以创建《我的世界》自定义地图为生。
 
-Hypixel的[服务器经常遭到黑客的](../Page/服务器.md "wikilink")[DDoS攻击](../Page/阻斷服務攻擊.md "wikilink")。例如2016年9月，不具名人士用[Mirai](https://zh.wikipedia.org/wiki/Mirai_\(恶意软件\) "wikilink")（DDoS攻击的恶意软件）攻击了Hypixel，其主要目的是让Hypixel的玩家转向其他《我的世界》服务器。\[7\]2018年4月左右，Hypixel开始使用[Cloudflare](../Page/CloudFlare.md "wikilink")
+Hypixel的[服务器经常遭到黑客的](../Page/服务器.md "wikilink")[DDoS攻击](../Page/阻斷服務攻擊.md "wikilink")。例如2016年9月，不具名人士用[Mirai](../Page/Mirai_\(恶意软件\).md "wikilink")（DDoS攻击的恶意软件）攻击了Hypixel，其主要目的是让Hypixel的玩家转向其他《我的世界》服务器。\[7\]2018年4月左右，Hypixel开始使用[Cloudflare](../Page/CloudFlare.md "wikilink")
 Spectrum的DDoS保护。\[8\]
 
 截至2016年12月21日，Hypixel玩家总数已达到1000万，\[9\]截至2018年12月13日，Hypixel玩家总数已达到1400万。\[10\]
@@ -14,7 +14,7 @@ Spectrum的DDoS保护。\[8\]
 ### 《Hytale》
 
 2018年12月9日，由Hypixel工作室宣布即将发行独立游戏《Hytale》。Hypixel工作室是Hypixel的建立者创办的新公司\[11\]\[12\]\[13\]\[14\]。《Hytale》的开发还得到了[Riot
-Games和其他开发者的支持](https://zh.wikipedia.org/wiki/Riot_Games "wikilink")，如[Dennis
+Games和其他开发者的支持](../Page/Riot_Games.md "wikilink")，如[Dennis
 Fong](../Page/方镛钦.md "wikilink")、[Rob
 Pardo和Peter](../Page/罗布·帕尔多.md "wikilink")
 Levine。\[15\]《Hytale》的开发工作始于2015年。\[16\]2018年12月13日，《Hytale》预告片正式发布，一个月内浏览量就突破了3000万。\[17\]\[18\]

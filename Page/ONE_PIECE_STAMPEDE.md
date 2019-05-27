@@ -251,7 +251,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版系列的第](https://zh.wik
     超人系「**幻影果實**」能力者，能將碰到的東西以幻影的形式出現，即使只是照片也能將物品或人以幻影的形式出現。\[11\]\[12\]
     在真人舞台秀的故事中，安在島上開演唱會時遇見草帽一夥，她和他們成為朋友。後被巴其等人抓住，被迫創造幻影對付草帽一夥，但草帽一夥仍設法擊敗巴其並成功救出安。安為感謝他們，並向魯夫提出展示艾斯的幻影，但魯夫最後還是拒絕了。
     於東京鐵塔航海王主題樂園的真人舞台秀「[ONE PIECE LIVE ATTRACTION
-    3](https://zh.wikipedia.org/wiki/ONE_PIECE_LIVE_ATTRACTION "wikilink")」初次登場，為原作者尾田榮一郎設計的原創角色，\[13\]並由[早見沙織聲演](../Page/早見沙織.md "wikilink")。\[14\]設計是來自於日本樂團[GReeeeN](../Page/GReeeeN.md "wikilink")，和尾田是好友，為此在舞台秀寫了兩首安的專屬歌曲。
+    3](../Page/ONE_PIECE_LIVE_ATTRACTION.md "wikilink")」初次登場，為原作者尾田榮一郎設計的原創角色，\[13\]並由[早見沙織聲演](../Page/早見沙織.md "wikilink")。\[14\]設計是來自於日本樂團[GReeeeN](../Page/GReeeeN.md "wikilink")，和尾田是好友，為此在舞台秀寫了兩首安的專屬歌曲。
 
 <!-- end list -->
 
@@ -262,7 +262,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版系列的第](https://zh.wik
 ## 製作人員
 
   - 原作・監修：[尾田栄一郎](https://zh.wikipedia.org/wiki/尾田栄一郎 "wikilink")
-  - 監督：[大塚隆史](https://zh.wikipedia.org/wiki/大塚隆史 "wikilink")
+  - 監督：[大塚隆史](../Page/大塚隆史.md "wikilink")
   - 劇本：冨岡淳廣・大塚隆史
   - 人物設計・總作画監督：[佐藤雅將](../Page/佐藤雅將.md "wikilink")
   - 美術設定：須江信人

@@ -51,7 +51,7 @@
 <td><p>style="" |</p>
 <ul>
 <li>发行日期: 2018年6月27日</li>
-<li>唱片公司: A100娱乐., <a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie Music</a></li>
+<li>唱片公司: A100娱乐., <a href="../Page/Genie音樂.md" title="wikilink">Genie Music</a></li>
 <li>格式: <a href="../Page/CD.md" title="wikilink">CD</a>, <a href="../Page/數位音樂下載.md" title="wikilink">数位下载</a></li>
 </ul></td>
 <td></td>

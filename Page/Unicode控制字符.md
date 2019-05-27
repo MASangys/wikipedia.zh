@@ -18,7 +18,7 @@ U+0080–U+009F 。二者都定义在[ISO
   -
 ## 语言标记
 
-Unicode以前定义了，包含了128个字符表示语言标签，但现在已经过时了。这些字符实际上镜像了128个ASCII字符。用于表示随后的文本属于[IETF語言標籤](https://zh.wikipedia.org/wiki/IETF語言標籤 "wikilink")（BCP
+Unicode以前定义了，包含了128个字符表示语言标签，但现在已经过时了。这些字符实际上镜像了128个ASCII字符。用于表示随后的文本属于[IETF語言標籤](../Page/IETF語言標籤.md "wikilink")（BCP
 47）所指的特定语言。例如，表示随后文本使用“美国英语”en-us，用字符串开始为‘Language Tag character’
 (U+E0001)后跟序列：‘Tag Small Letter e’ (U+E0065), ‘Tag Small Letter n’
 (U+E006E), ‘Tag Hyphen-minus’ (U+E002D), ‘Tag Small Letter u’ (U+E0075),

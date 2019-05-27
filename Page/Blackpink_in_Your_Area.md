@@ -8,8 +8,7 @@ in Your
 Area》的告示，曲目包含日語版的《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》、《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》、《[Playing
 with
 Fire](https://zh.wikipedia.org/wiki/Playing_with_Fire_\(BLACKPINK歌曲\) "wikilink")》、《[As
-If It's Your
-Last](https://zh.wikipedia.org/wiki/As_If_It's_Your_Last "wikilink")》、《[Ddu-Du
+If It's Your Last](../Page/As_If_It's_Your_Last.md "wikilink")》、《[Ddu-Du
 Ddu-Du](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du "wikilink")》等歌曲，還有作為「」的《Forever
 Young》、《Really》以及《See U
 Later》三首同名日語再錄版歌曲也將首次收錄在BLACKPINK的日語專輯中，這也標誌著她們出道至今共發行的9首歌曲除了韓語外也全數重新錄製了日語版本\[1\]。
@@ -34,22 +33,22 @@ Arena Tour
 <!-- end list -->
 
   - CD+數位音源
-    [Jennie版](https://zh.wikipedia.org/wiki/Jennie_\(韓國歌手\) "wikilink")（編號：AVCY-58786）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
+    [Jennie版](../Page/Jennie_\(韓國歌手\).md "wikilink")（編號：AVCY-58786）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
 
 <!-- end list -->
 
   - CD+數位音源
-    [Lisa版](https://zh.wikipedia.org/wiki/Lisa_\(泰國歌手\) "wikilink")（編號：AVCY-58787）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
+    [Lisa版](../Page/Lisa_\(泰國歌手\).md "wikilink")（編號：AVCY-58787）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
 
 <!-- end list -->
 
   - CD+數位音源
-    [Jisoo版](https://zh.wikipedia.org/wiki/金智秀_\(歌手\) "wikilink")（編號：AVCY-58788）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
+    [Jisoo版](../Page/金智秀_\(歌手\).md "wikilink")（編號：AVCY-58788）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
 
 <!-- end list -->
 
   - CD+數位音源
-    [Rosé版](https://zh.wikipedia.org/wiki/Rosé_\(韓國歌手\) "wikilink")（編號：AVCY-58789）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
+    [Rosé版](../Page/Rosé_\(韓國歌手\).md "wikilink")（編號：AVCY-58789）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
 
 <!-- end list -->
 

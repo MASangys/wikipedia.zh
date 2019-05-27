@@ -25,7 +25,7 @@ J5一樣為三卡槽](../Page/三星Galaxy_J5.md "wikilink")。
 <tbody>
 <tr class="odd">
 <td><p>前任： <a href="../Page/三星Galaxy_J5.md" title="wikilink">三星Galaxy J5</a></p></td>
-<td><p>三星Galaxy J5 Prime <a href="https://zh.wikipedia.org/wiki/三星Galaxy_J5_(2016)" title="wikilink">三星Galaxy J5 (2016)</a></p></td>
+<td><p>三星Galaxy J5 Prime <a href="../Page/三星Galaxy_J5_(2016).md" title="wikilink">三星Galaxy J5 (2016)</a></p></td>
 <td><p>繼任： <a href="https://zh.wikipedia.org/wiki/三星Galaxy_J5_Pro" title="wikilink">三星Galaxy J5 Pro</a></p>
 <p><a href="https://zh.wikipedia.org/wiki/三星Galaxy_J5_(2017)" title="wikilink">三星Galaxy J5 (2017)</a></p>
 <p><a href="https://zh.wikipedia.org/wiki/三星Galaxy_J5+" title="wikilink"><s>三星Galaxy J5+</s></a></p></td>

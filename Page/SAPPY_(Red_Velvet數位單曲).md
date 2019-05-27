@@ -1,5 +1,5 @@
 《**SAPPY**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
-Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")[日本首張數位單曲](../Page/日本.md "wikilink")，由所屬經紀公司[SM娛樂與日本唱片公司AVEX](../Page/SM娛樂.md "wikilink")
+Velvet](../Page/Red_Velvet.md "wikilink")[日本首張數位單曲](../Page/日本.md "wikilink")，由所屬經紀公司[SM娛樂與日本唱片公司AVEX](../Page/SM娛樂.md "wikilink")
 TRAX共同製作並發行\[1\]，並於2019年1月6日發布。\[2\]\[3\]
 
 ## 背景

@@ -77,7 +77,7 @@ MIPS
 
 [NIOS](https://zh.wikipedia.org/wiki/Nios_\(processor\) "wikilink")
 
-  - [NIOS II](https://zh.wikipedia.org/wiki/Nios_II "wikilink")
+  - [NIOS II](../Page/Nios_II.md "wikilink")
 
 PPC
 

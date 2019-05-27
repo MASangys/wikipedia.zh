@@ -1,6 +1,6 @@
 《**Want you\! Want
-you\!**》是[日本女子偶像组合](../Page/日本.md "wikilink")[=LOVE的第](https://zh.wikipedia.org/wiki/=LOVE "wikilink")4张单曲，于2018年5月16日由[SACRA
-MUSIC发行](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。单曲中心成员是[高松瞳](https://zh.wikipedia.org/wiki/高松瞳 "wikilink")。\[1\]
+you\!**》是[日本女子偶像组合](../Page/日本.md "wikilink")[=LOVE的第](../Page/=LOVE.md "wikilink")4张单曲，于2018年5月16日由[SACRA
+MUSIC发行](../Page/SACRA_MUSIC.md "wikilink")。单曲中心成员是[高松瞳](https://zh.wikipedia.org/wiki/高松瞳 "wikilink")。\[1\]
 
 ## 概要
 

@@ -34,7 +34,7 @@ Ross–Fahroo擬譜法已實現在MATLAB的最佳控制求解器。
 
   - ，得名自迦太基女王[狄多](../Page/狄多.md "wikilink")（Dido）
 
-  - [羅斯π引理](https://zh.wikipedia.org/wiki/羅斯π引理 "wikilink")
+  - [羅斯π引理](../Page/羅斯π引理.md "wikilink")
 
   - [Ross–Fahroo引理](../Page/Ross–Fahroo引理.md "wikilink")
 

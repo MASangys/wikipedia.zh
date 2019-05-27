@@ -11,7 +11,7 @@ Deca
 Joins前身為FUBAR及灰矮星，2013年5月成立於[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[關渡半山腰](../Page/關渡.md "wikilink")，成員為[北藝大搖滾研究社社員](https://zh.wikipedia.org/wiki/北藝大 "wikilink")，當時團名FUBAR（Fucked
 Up Beyond All Repair），意即糟糕透頂。
 
-FUBAR於2014年初甫發行第一張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《盧強》，並在台灣巡迴演出。而在主唱鄭敬儒（Sam）入伍前，他們發布了新歌〈woodude〉，即與樂團淵源至深的[草東沒有派對主唱](https://zh.wikipedia.org/wiki/草東沒有派對 "wikilink")、亦為校友的巫堵之英文拼音，報導和訪問也多次指出即是寫給他的歌，但中英文與用字都沒有太大關係。\[1\]\[2\]
+FUBAR於2014年初甫發行第一張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《盧強》，並在台灣巡迴演出。而在主唱鄭敬儒（Sam）入伍前，他們發布了新歌〈woodude〉，即與樂團淵源至深的[草東沒有派對主唱](../Page/草東沒有派對.md "wikilink")、亦為校友的巫堵之英文拼音，報導和訪問也多次指出即是寫給他的歌，但中英文與用字都沒有太大關係。\[1\]\[2\]
 
 ### 灰矮星
 

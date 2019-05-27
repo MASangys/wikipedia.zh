@@ -30,7 +30,7 @@ JAPAN – LOVELYZ 2 OF WINTER WORLD》\[13\]。
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>2月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p>BLUE SQUARE三星卡厅</p></td>
 <td><p>6600</p></td>
@@ -271,7 +271,7 @@ JAPAN – LOVELYZ 2 OF WINTER WORLD》\[13\]。
 <!-- end list -->
 
   - [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")（[Baby
-    Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[智愛](../Page/劉智愛.md "wikilink")、[智秀](../Page/徐智秀.md "wikilink")、[美珠](../Page/李美珠.md "wikilink")、[Kei](https://zh.wikipedia.org/wiki/Kei "wikilink")、[JIN](../Page/Jin_\(Lovelyz\).md "wikilink")、[洙正](https://zh.wikipedia.org/wiki/洙正 "wikilink")、[叡仁](../Page/鄭叡仁.md "wikilink")）
+    Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[智愛](../Page/劉智愛.md "wikilink")、[智秀](../Page/徐智秀.md "wikilink")、[美珠](../Page/李美珠.md "wikilink")、[Kei](../Page/Kei.md "wikilink")、[JIN](../Page/Jin_\(Lovelyz\).md "wikilink")、[洙正](https://zh.wikipedia.org/wiki/洙正 "wikilink")、[叡仁](../Page/鄭叡仁.md "wikilink")）
 
 <!-- end list -->
 

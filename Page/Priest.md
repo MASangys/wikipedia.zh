@@ -1,9 +1,9 @@
 《**Priest**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") 於 2018 年 11 月 24
-日起播出的[經典系列週末電視劇](https://zh.wikipedia.org/wiki/OCN_Original_Series "wikilink")。由電影《[國家代表
-2](https://zh.wikipedia.org/wiki/國家代表2 "wikilink")》的金鍾鉉導演\[1\]與文萬世作家攜手合作打造的[醫療](https://zh.wikipedia.org/wiki/醫療 "wikilink")[驅魔劇](../Page/驅魔.md "wikilink")。本劇描寫
+日起播出的[經典系列週末電視劇](../Page/OCN_Original_Series.md "wikilink")。由電影《[國家代表
+2](../Page/國家代表2.md "wikilink")》的金鍾鉉導演\[1\]與文萬世作家攜手合作打造的[醫療](https://zh.wikipedia.org/wiki/醫療 "wikilink")[驅魔劇](../Page/驅魔.md "wikilink")。本劇描寫
 2018
-年發生在韓國南部[天主教](../Page/天主教.md "wikilink")[醫院的超現實現象](../Page/醫院.md "wikilink")\[2\]。台灣由[KKTV](https://zh.wikipedia.org/wiki/KKTV "wikilink")、[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")
+年發生在韓國南部[天主教](../Page/天主教.md "wikilink")[醫院的超現實現象](../Page/醫院.md "wikilink")\[2\]。台灣由[KKTV](../Page/KKTV.md "wikilink")、[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")
 自 11 月 25 日起，每週日、一播出。劇中修女驅魔時使用了一首拉丁文聖歌 (Victimae paschali laudes
 )及韓文聖歌(Christus Vincit, 그리스도 승리)。
 
@@ -58,7 +58,7 @@
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/張姬領" title="wikilink">張姬令</a></p></td>
+<td><p><a href="../Page/張姬領.md" title="wikilink">張姬令</a></p></td>
 <td><p>金宥利</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/急診醫學科" title="wikilink">急診醫學科第二年研究醫師</a>，出身<a href="https://zh.wikipedia.org/wiki/醫師" title="wikilink">醫師世家的她</a>，為了不辜負父母的期望，努力地成長為一名優秀的醫師，雖然具備在各方面都毫不遜色的條件，但在被稱為<a href="https://zh.wikipedia.org/wiki/急診醫學科" title="wikilink">急診醫學科王牌的恩皓面前仍感到自卑</a>。</p></td>
 </tr>

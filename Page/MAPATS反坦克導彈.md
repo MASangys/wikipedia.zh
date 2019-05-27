@@ -41,9 +41,9 @@ MAPATS有時會被暱稱為「Hurt」（）——在[亞拉姆語當中意為](.
   - [红箭-9反坦克导弹](../Page/红箭-9反坦克导弹.md "wikilink")
 
   -
-  - [9K116指節套環反坦克導彈](https://zh.wikipedia.org/wiki/9K116指節套環反坦克導彈 "wikilink")
+  - [9K116指節套環反坦克導彈](../Page/9K116指節套環反坦克導彈.md "wikilink")
 
-  - [9M119「斯維里」／9M119M「反射」反坦克導彈](https://zh.wikipedia.org/wiki/9M119反坦克導彈 "wikilink")
+  - [9M119「斯維里」／9M119M「反射」反坦克導彈](../Page/9M119反坦克導彈.md "wikilink")
 
 ### 其他
 

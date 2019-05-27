@@ -7,7 +7,7 @@ Runners**》是[虹咲学园校园偶像同好会的首张专辑](https://zh.wik
 ”企划首次以专辑形式发行全员新曲。同名主打歌《TOKIMEKI
 Runners》由虹咲学园校园偶像同好会全体成员演唱，为[手机游戏](../Page/手机游戏.md "wikilink")《[LoveLive\!
 学园偶像祭
-全明星](https://zh.wikipedia.org/wiki/LoveLive!_学园偶像祭 "wikilink")》的主题曲；其余9首为九名成员的个人曲，分别在[AbemaTV于](https://zh.wikipedia.org/wiki/AbemaTV "wikilink")2018年8月18日、9月1日和9月15日播出的《》节目中公开试听版。专辑中除收录10首歌曲外，还收录了《TOKIMEKI
+全明星](https://zh.wikipedia.org/wiki/LoveLive!_学园偶像祭 "wikilink")》的主题曲；其余9首为九名成员的个人曲，分别在[AbemaTV于](../Page/AbemaTV.md "wikilink")2018年8月18日、9月1日和9月15日播出的《》节目中公开试听版。专辑中除收录10首歌曲外，还收录了《TOKIMEKI
 Runners》的PV及《LoveLive\! 学园偶像祭 全明星》的开场动画。\[1\]
 
 另外，本专辑的个人曲的作词并未如往常“LoveLive\!
@@ -32,7 +32,7 @@ Runners》的PV及《LoveLive\! 学园偶像祭 全明星》的开场动画。\[
 
 <!-- end list -->
 
-  - 设计工作：[KLabGames](https://zh.wikipedia.org/wiki/KLab "wikilink")
+  - 设计工作：[KLabGames](../Page/KLab.md "wikilink")
   - 脚本：EDEN'S NOTES
   - 音响监督：长崎行男
   - 音乐制作人：大久保隆一、高桥亚弥

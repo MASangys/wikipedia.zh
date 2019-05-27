@@ -10,19 +10,19 @@
 | 2  | 2016年8月8日                                                    | 口哨（휘파람）                     | 辛希元\[3\]                                                                             | \[4\]    |        |
 | 3  | 2016年11月1日                                                   | Playing with Fire（불장난）      | 《[Square Two](https://zh.wikipedia.org/wiki/Square_Two_\(Black_Pink單曲\) "wikilink")》 | 徐賢勝      | \[5\]  |
 | 4  | 2016年11月1日                                                   | Stay                        | 韓司敏\[6\]                                                                             | \[7\]    |        |
-| 5  | 2017年6月22日                                                   | As If It's Your Last（마지막처럼） | 《[Blackpink](https://zh.wikipedia.org/wiki/Blackpink_\(迷你專輯\) "wikilink")》           | 徐賢勝      | \[8\]  |
+| 5  | 2017年6月22日                                                   | As If It's Your Last（마지막처럼） | 《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》                              | 徐賢勝      | \[8\]  |
 | 6  | 2018年6月15日                                                   | Ddu-Du Ddu-Du（뚜두뚜두）         | 《[Square Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》           | 徐賢勝\[9\] | \[10\] |
 
 ### 日語
 
-| 順序 | 發佈日期（[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")） | 歌曲名稱          | 收錄專輯                                                                       | 導演（音譯）    | 音樂影片   |
-| -- | ------------------------------------------------------------ | ------------- | -------------------------------------------------------------------------- | --------- | ------ |
-| 1  | 2017年7月13日                                                   | Boombayah     | 《[Blackpink](https://zh.wikipedia.org/wiki/Blackpink_\(迷你專輯\) "wikilink")》 | 徐賢勝\[11\] | \[12\] |
-| 2  | 2017年7月14日                                                   | 口笛            | 辛希元\[13\]                                                                  | \[14\]    |        |
-| 3  | 2017年7月15日                                                   | 火遊び           | 徐賢勝\[15\]                                                                  | \[16\]    |        |
-| 4  | 2017年7月16日                                                   | Stay          | 韓司敏\[17\]                                                                  | \[18\]    |        |
-| 5  | 2017年7月17日                                                   | 最後のように        | 徐賢勝\[19\]                                                                  | \[20\]    |        |
-| 6  | 2018年8月17日                                                   | Ddu-Du Ddu-Du | 《[Blackpink in Your Area](../Page/Blackpink_in_Your_Area.md "wikilink")》   | 徐賢勝\[21\] | \[22\] |
+| 順序 | 發佈日期（[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")） | 歌曲名稱          | 收錄專輯                                                                     | 導演（音譯）    | 音樂影片   |
+| -- | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------------------ | --------- | ------ |
+| 1  | 2017年7月13日                                                   | Boombayah     | 《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》                  | 徐賢勝\[11\] | \[12\] |
+| 2  | 2017年7月14日                                                   | 口笛            | 辛希元\[13\]                                                                | \[14\]    |        |
+| 3  | 2017年7月15日                                                   | 火遊び           | 徐賢勝\[15\]                                                                | \[16\]    |        |
+| 4  | 2017年7月16日                                                   | Stay          | 韓司敏\[17\]                                                                | \[18\]    |        |
+| 5  | 2017年7月17日                                                   | 最後のように        | 徐賢勝\[19\]                                                                | \[20\]    |        |
+| 6  | 2018年8月17日                                                   | Ddu-Du Ddu-Du | 《[Blackpink in Your Area](../Page/Blackpink_in_Your_Area.md "wikilink")》 | 徐賢勝\[21\] | \[22\] |
 
 ### 舞蹈影片
 
@@ -102,7 +102,7 @@ DVD</a></p></td>
 <li>格式：DVD、藍光</li>
 </ul></td>
 <td><ol>
-<li>BLACKPINK真人秀節目《<a href="https://zh.wikipedia.org/wiki/Blackpink_House" title="wikilink">Blackpink House</a>》1到12集</li>
+<li>BLACKPINK真人秀節目《<a href="../Page/Blackpink_House.md" title="wikilink">Blackpink House</a>》1到12集</li>
 </ol></td>
 </tr>
 <tr class="even">

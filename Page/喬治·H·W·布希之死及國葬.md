@@ -7,8 +7,8 @@
 {{\*}}
 {{\*}}联合太平洋铁道自动工厂
 {{\*}}[德克萨斯州农工大学](../Page/德克萨斯州农工大学.md "wikilink")
-{{\*}}[乔治·布什总统图书馆暨博物馆](https://zh.wikipedia.org/wiki/乔治·布什总统图书馆暨博物馆 "wikilink")\[3\]
-| location = **I**:
+{{\*}}[乔治·布什总统图书馆暨博物馆](../Page/乔治·布什总统图书馆暨博物馆.md "wikilink")\[3\] |
+location = **I**:
 [德克萨斯州](../Page/德克萨斯州.md "wikilink")[休斯敦](../Page/休斯敦.md "wikilink")\[4\]
 **II**:
 {{\*}}
@@ -33,10 +33,10 @@
 [安格拉·默克爾](../Page/安格拉·默克爾.md "wikilink")
 [蘇嘉全](../Page/蘇嘉全.md "wikilink")
 其他外国领导人
-[第115届美国国会成员](https://zh.wikipedia.org/wiki/第115届美国国会 "wikilink")
-[第116届美国国会胜选者](https://zh.wikipedia.org/wiki/第116届美国国会 "wikilink") |
-burial = | url = | blank_label = | blank1_label = | blank2_label = |
-website =  | notes = }}
+[第115届美国国会成员](../Page/第115届美国国会.md "wikilink")
+[第116届美国国会胜选者](../Page/第116届美国国会.md "wikilink") | burial = | url = |
+blank_label = | blank1_label = | blank2_label = | website =  | notes
+= }}
 
 2018年11月30日，前[美國眾議員](https://zh.wikipedia.org/wiki/美国众议院 "wikilink")、前[中央情報總監](../Page/中央情報總監.md "wikilink")、第43任[美國副總統](../Page/美国副总统.md "wikilink")、第41任[美國總統](../Page/美国总统.md "wikilink")[喬治·H·W·布希在其](https://zh.wikipedia.org/wiki/喬治·H·W·布希 "wikilink")[德州](../Page/德克萨斯州.md "wikilink")[休斯敦寓所](../Page/休斯敦.md "wikilink")**離世**，其妻、前第一夫人[芭芭拉·布什則在八個月前的](../Page/芭芭拉·布什.md "wikilink")4月17日離世\[7\]。
 
@@ -61,7 +61,7 @@ website =  | notes = }}
 
 多個外國元首也有出席，包括[英國](../Page/英國王室.md "wikilink")[查理斯王子](../Page/威爾斯親王查爾斯.md "wikilink")、前[英國首相](../Page/英国首相列表.md "wikilink")[馬卓安](../Page/约翰·梅杰.md "wikilink")、前[加拿大總理](../Page/加拿大总理列表.md "wikilink")[梅隆尼](../Page/马丁·布赖恩·马尔罗尼.md "wikilink")、[波蘭總統](../Page/波兰总统.md "wikilink")[杜达](../Page/安杰伊·杜达.md "wikilink")、前[波蘭總統](../Page/波兰总统列表.md "wikilink")[華里沙](../Page/莱赫·瓦文萨.md "wikilink")、[德國總理](../Page/德国总理.md "wikilink")[默克爾](../Page/安格拉·默克爾.md "wikilink")、前[墨西哥總統](../Page/墨西哥总统.md "wikilink")[卡路士·沙連拿斯](https://zh.wikipedia.org/wiki/卡路士·沙連拿斯 "wikilink")、[約旦國王](../Page/约旦君主列表.md "wikilink")[阿卜杜拉二世及其妻](../Page/阿卜杜拉二世.md "wikilink")[拉尼婭王后](../Page/拉尼婭王后_\(約旦\).md "wikilink")、[中華民國立法院](../Page/立法院.md "wikilink")[院長](../Page/立法院院長.md "wikilink")[蘇嘉全](../Page/蘇嘉全.md "wikilink")\[14\]\[15\]\[16\]\[17\]。
 
-華盛頓喪禮過後，老布殊的靈柩經鐵路送返休斯頓\[18\]。12月6日下葬，美國第41任總統將在[喬治·布殊總統圖書館暨博物館](https://zh.wikipedia.org/wiki/乔治·布什总统图书馆暨博物馆 "wikilink")，與其妻子和早年夭折的女兒長眠家鄉德州。
+華盛頓喪禮過後，老布殊的靈柩經鐵路送返休斯頓\[18\]。12月6日下葬，美國第41任總統將在[喬治·布殊總統圖書館暨博物館](../Page/乔治·布什总统图书馆暨博物馆.md "wikilink")，與其妻子和早年夭折的女兒長眠家鄉德州。
 
 ## 參見
 

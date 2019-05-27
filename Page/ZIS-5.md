@@ -13,7 +13,7 @@ Brandt Co.的帮助下莫斯科汽车制造厂实现了技术装备升级，1931
 
 [Zis_5.jpg](https://zh.wikipedia.org/wiki/File:Zis_5.jpg "fig:Zis_5.jpg")
 [ZIS-5_in_Technical_museum_Togliatti.JPG](https://zh.wikipedia.org/wiki/File:ZIS-5_in_Technical_museum_Togliatti.JPG "fig:ZIS-5_in_Technical_museum_Togliatti.JPG")工业博物馆\]\]
-1933年10月1日开始量产。与[陶里亚蒂](../Page/陶里亚蒂.md "wikilink")[GAZ-AA成为三](https://zh.wikipedia.org/wiki/GAZ-AA "wikilink")、四十年代苏联主力卡车型号。[伟大卫国战争爆发时](https://zh.wikipedia.org/wiki/伟大卫国战争 "wikilink")，苏联红军汽车装备数量为27.3万辆，其中仅吉斯5型就达10.04万辆，占36.7%，是绝对的主力车型。
+1933年10月1日开始量产。与[陶里亚蒂](../Page/陶里亚蒂.md "wikilink")[GAZ-AA成为三](../Page/GAZ-AA.md "wikilink")、四十年代苏联主力卡车型号。[伟大卫国战争爆发时](https://zh.wikipedia.org/wiki/伟大卫国战争 "wikilink")，苏联红军汽车装备数量为27.3万辆，其中仅吉斯5型就达10.04万辆，占36.7%，是绝对的主力车型。
 
 1941年秋，德军逼近莫斯科，[吉斯厂的生产线内迁到](https://zh.wikipedia.org/wiki/吉斯厂 "wikilink")[乌里扬诺夫斯克与](../Page/乌里扬诺夫斯克.md "wikilink")[车里雅宾斯克州](../Page/车里雅宾斯克州.md "wikilink")[米阿斯](https://zh.wikipedia.org/wiki/米阿斯 "wikilink")。乌里扬诺夫斯克的的[UASZIS](https://zh.wikipedia.org/wiki/UASZIS "wikilink")（瓦兹-吉斯）从1942年2月生产到1944年，米阿斯的从1942年4月开始生产发动机与变速箱。1944年6月8日，开始生产标志为UralZIS的ZIS-5V一直到1955年换代改产UralZIS-355。
 

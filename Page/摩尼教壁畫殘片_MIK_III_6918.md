@@ -6,7 +6,7 @@ width_metric = 168.5 | height_imperial = | width_imperial = | city =
 [柏林](../Page/柏林.md "wikilink") | museum =  }}
 
 **摩尼教壁畫殘片編號「
-6918」**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：）是一幅收藏於德國的[摩尼教壁畫殘片](../Page/摩尼教.md "wikilink")，繪製於公元10世紀左右，在20世紀初被[德國吐魯番考察隊發現於新疆](https://zh.wikipedia.org/wiki/德國吐魯番考察隊 "wikilink")[高昌故城](https://zh.wikipedia.org/wiki/高昌故城 "wikilink")遺址。殘片長88釐米、寬168.5釐米，描繪的是摩尼教教會裡的禮拜儀式場面。
+6918」**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：）是一幅收藏於德國的[摩尼教壁畫殘片](../Page/摩尼教.md "wikilink")，繪製於公元10世紀左右，在20世紀初被[德國吐魯番考察隊發現於新疆](../Page/德國吐魯番考察隊.md "wikilink")[高昌故城](https://zh.wikipedia.org/wiki/高昌故城 "wikilink")遺址。殘片長88釐米、寬168.5釐米，描繪的是摩尼教教會裡的禮拜儀式場面。
 
 ## 簡述
 

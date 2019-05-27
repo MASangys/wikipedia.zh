@@ -36,7 +36,7 @@ Group第五届总选举获得第](https://zh.wikipedia.org/wiki/SNH48_Group第�
 | 1           | 《[元气觉醒](https://zh.wikipedia.org/wiki/元气觉醒 "wikilink")》                 | 元气觉醒   | 选拔组                                                       | ★  |       |
 | 咪你天使        | Team E                                                                  |        |                                                           |    |       |
 | Hello！Mr.未来 | Team E                                                                  |        |                                                           |    |       |
-| 2           | 《[微笑的向日葵](https://zh.wikipedia.org/wiki/微笑的向日葵 "wikilink")》             | 微笑的向日葵 | 选拔组                                                       |    | 为中心成员 |
+| 2           | 《[微笑的向日葵](../Page/微笑的向日葵.md "wikilink")》                                | 微笑的向日葵 | 选拔组                                                       |    | 为中心成员 |
 | 银白色旋律       | Team E                                                                  |        | 为中心成员                                                     |    |       |
 | 星空下约定       | BEJ48 Top 7                                                             |        | 为中心成员                                                     |    |       |
 | 3           | 《[宣言](https://zh.wikipedia.org/wiki/BEJ48發行作品列表#宣言 "wikilink")》         | 宣言     | 选拔组                                                       | ★  | 为中心成员 |
@@ -108,15 +108,15 @@ Group第五届总选举获得第](https://zh.wikipedia.org/wiki/SNH48_Group第�
 
 ### 电视节目
 
-| 日期          | 节目名称                                                            | 播出平台                                                        | 备注 |
-| ----------- | --------------------------------------------------------------- | ----------------------------------------------------------- | -- |
-|             |                                                                 |                                                             |    |
-| 其它节目        |                                                                 |                                                             |    |
-| 2016年6月11日  | [全球中文音乐榜上榜](https://zh.wikipedia.org/wiki/全球中文音乐榜上榜 "wikilink") | [CCTV-15](https://zh.wikipedia.org/wiki/CCTV-15 "wikilink") |    |
-| 2016年11月20日 | [挑战不可能](https://zh.wikipedia.org/wiki/挑战不可能 "wikilink")         | [CCTV-1](https://zh.wikipedia.org/wiki/CCTV-1 "wikilink")   |    |
-| 2017年2月9日   | [回声嘹亮](https://zh.wikipedia.org/wiki/回声嘹亮 "wikilink")           | [CCTV-3](https://zh.wikipedia.org/wiki/CCTV-3 "wikilink")   |    |
-| 2017年4月8日   | [超级动漫秀](https://zh.wikipedia.org/wiki/超级动漫秀 "wikilink")         | [SiTV动漫秀场](https://zh.wikipedia.org/wiki/动漫秀场频道 "wikilink") |    |
-| 2017年5月1日   | [美丽俏佳人](https://zh.wikipedia.org/wiki/美丽俏佳人 "wikilink")         | [安徽卫视](../Page/安徽卫视.md "wikilink")                          |    |
+| 日期          | 节目名称                                                    | 播出平台                                                        | 备注 |
+| ----------- | ------------------------------------------------------- | ----------------------------------------------------------- | -- |
+|             |                                                         |                                                             |    |
+| 其它节目        |                                                         |                                                             |    |
+| 2016年6月11日  | [全球中文音乐榜上榜](../Page/全球中文音乐榜上榜.md "wikilink")            | [CCTV-15](https://zh.wikipedia.org/wiki/CCTV-15 "wikilink") |    |
+| 2016年11月20日 | [挑战不可能](https://zh.wikipedia.org/wiki/挑战不可能 "wikilink") | [CCTV-1](https://zh.wikipedia.org/wiki/CCTV-1 "wikilink")   |    |
+| 2017年2月9日   | [回声嘹亮](../Page/回声嘹亮.md "wikilink")                      | [CCTV-3](https://zh.wikipedia.org/wiki/CCTV-3 "wikilink")   |    |
+| 2017年4月8日   | [超级动漫秀](https://zh.wikipedia.org/wiki/超级动漫秀 "wikilink") | [SiTV动漫秀场](https://zh.wikipedia.org/wiki/动漫秀场频道 "wikilink") |    |
+| 2017年5月1日   | [美丽俏佳人](https://zh.wikipedia.org/wiki/美丽俏佳人 "wikilink") | [安徽卫视](../Page/安徽卫视.md "wikilink")                          |    |
 
 ### 网络节目
 
@@ -129,7 +129,7 @@ Group第五届总选举获得第](https://zh.wikipedia.org/wiki/SNH48_Group第�
 | GNZ48 专属综艺  |                                                         |                                                                               |    |
 | 2017年11月15日 | [〇蛋厨房](https://zh.wikipedia.org/wiki/〇蛋厨房 "wikilink")   | [Bilibili](../Page/Bilibili.md "wikilink")                                    |    |
 | 其他节目        |                                                         |                                                                               |    |
-| 2016年7月17日  | [香蕉打卡](https://zh.wikipedia.org/wiki/香蕉打卡 "wikilink")   | [芒果TV](https://zh.wikipedia.org/wiki/芒果TV "wikilink")                         |    |
+| 2016年7月17日  | [香蕉打卡](https://zh.wikipedia.org/wiki/香蕉打卡 "wikilink")   | [芒果TV](../Page/芒果TV.md "wikilink")                                            |    |
 | 2016年7月20日  | [贴吧演播室](https://zh.wikipedia.org/wiki/贴吧演播室 "wikilink") | [百度贴吧](../Page/百度贴吧.md "wikilink")                                            |    |
 | 2017年3月28日  | [乐人无数](https://zh.wikipedia.org/wiki/乐人无数 "wikilink")   | [PPTV](https://zh.wikipedia.org/wiki/PPTV "wikilink")                         |    |
 

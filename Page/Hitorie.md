@@ -3,7 +3,7 @@ Atelier于2011年冬成立，2012年Shinoda加入后改名为hitorie。
 
 ## 成员
 
-  - **[wowaka](https://zh.wikipedia.org/wiki/WOWAKA "wikilink")**：[主唱](../Page/歌手.md "wikilink")、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")
+  - **[wowaka](../Page/WOWAKA.md "wikilink")**：[主唱](../Page/歌手.md "wikilink")、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")
 
 <!-- end list -->
 
@@ -47,7 +47,7 @@ Atelier于2011年冬成立，2012年Shinoda加入后改名为hitorie。
 
 ## 相关项目
 
-  - [wowaka](https://zh.wikipedia.org/wiki/WOWAKA "wikilink")
+  - [wowaka](../Page/WOWAKA.md "wikilink")
 
 ## 外部链接
 

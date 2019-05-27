@@ -1,5 +1,5 @@
 《**Koshi Inaba LIVE 2014
-〜en-ball〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z主唱](../Page/B'z.md "wikilink")[稻葉浩志的第](../Page/稻葉浩志.md "wikilink")3張影像作品。[2015年](../Page/2015年.md "wikilink")[11月18日發售](../Page/11月18日.md "wikilink")。
+〜en-ball〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z主唱](../Page/B'z.md "wikilink")[稻葉浩志的第](../Page/稻葉浩志.md "wikilink")3張影像作品。[2015年](../Page/2015年.md "wikilink")[11月18日發售](../Page/11月18日.md "wikilink")。
 
 ## 内容
 
@@ -28,7 +28,7 @@ Live『Koshi Inaba LIVE 2014 〜en-ball〜』中的6月20日最終場模樣完�
         稻葉的[原聲吉他獨奏獨唱](../Page/原聲吉他.md "wikilink")。
 2.  **[THE RACE](../Page/Peace_Of_Mind.md "wikilink")**
 3.  **[CHAIN](https://zh.wikipedia.org/wiki/遠くまで "wikilink")**
-4.  **[Wonderland](https://zh.wikipedia.org/wiki/Wonderland "wikilink")**
+4.  **[Wonderland](../Page/Wonderland.md "wikilink")**
 5.  **[arizona](https://zh.wikipedia.org/wiki/マグマ "wikilink")**
 6.  **[Touch](../Page/志庵.md "wikilink")**
 7.  **[横恋慕](../Page/Peace_Of_Mind.md "wikilink")**

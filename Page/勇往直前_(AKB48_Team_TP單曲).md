@@ -7,7 +7,7 @@ TP的出道](../Page/AKB48_Team_TP.md "wikilink")[單曲](https://zh.wikipedia.o
 TP自前身「TPE48」在2012年開始有籌組計畫後，歷經六年籌備、徵選、改名、重整後終於發行的首张單曲\[2\]。
 
 为宣传单曲，选拔组成员参与了直播节目《安安大明星》<small>（2019年1月2日，[三立Vdol](https://zh.wikipedia.org/wiki/三立 "wikilink")
-TV）</small>以及《[綜藝大熱門](../Page/綜藝大熱門.md "wikilink")》<small>（2019年1月10日，三立、潘姿怡及曾詩羽缺席）</small>，此外，部分选拔组成员也参与了《你在大声什么啦》<small>（2018年12月26日，香蕉直击台）</small>、《晚八找乐子》<small>（2018年12月27日，[中天快点TV](https://zh.wikipedia.org/wiki/中天电视 "wikilink")）</small>、《燃燒吧\!大腦君》<small>（2019年1月6日、[中天電視台](https://zh.wikipedia.org/wiki/中天電視台 "wikilink")）</small>、《我愛偶像》<small>（2019年1月16日、2019年2月5日、[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink")）</small>、《[型男大主廚](../Page/型男大主廚.md "wikilink")》<small>（2019年1月22日、[三立都會台](../Page/三立都會台.md "wikilink")）</small>、《[國光幫幫忙](https://zh.wikipedia.org/wiki/國光幫幫忙 "wikilink")》<small>（2019年2月5日、[三立電視](../Page/三立電視.md "wikilink")）</small>、《[娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")》<small>（2019年2月13日、[八大電視](../Page/八大電視.md "wikilink")）</small>、《[超級同學會](https://zh.wikipedia.org/wiki/超級同學會 "wikilink")》<small>（2019年3月2日、[華視](../Page/中華電視公司.md "wikilink")）</small>等节目。除了电视节目之外，成员也在广播节目中参与宣传，如《天天樂陶陶》<small>（2018年12月27日、[警廣電台](https://zh.wikipedia.org/wiki/警察广播电台 "wikilink")）</small>、《耐玩DJ
+TV）</small>以及《[綜藝大熱門](../Page/綜藝大熱門.md "wikilink")》<small>（2019年1月10日，三立、潘姿怡及曾詩羽缺席）</small>，此外，部分选拔组成员也参与了《你在大声什么啦》<small>（2018年12月26日，香蕉直击台）</small>、《晚八找乐子》<small>（2018年12月27日，[中天快点TV](https://zh.wikipedia.org/wiki/中天电视 "wikilink")）</small>、《燃燒吧\!大腦君》<small>（2019年1月6日、[中天電視台](https://zh.wikipedia.org/wiki/中天電視台 "wikilink")）</small>、《我愛偶像》<small>（2019年1月16日、2019年2月5日、[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink")）</small>、《[型男大主廚](../Page/型男大主廚.md "wikilink")》<small>（2019年1月22日、[三立都會台](../Page/三立都會台.md "wikilink")）</small>、《[國光幫幫忙](https://zh.wikipedia.org/wiki/國光幫幫忙 "wikilink")》<small>（2019年2月5日、[三立電視](../Page/三立電視.md "wikilink")）</small>、《[娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")》<small>（2019年2月13日、[八大電視](../Page/八大電視.md "wikilink")）</small>、《[超級同學會](../Page/超級同學會.md "wikilink")》<small>（2019年3月2日、[華視](../Page/中華電視公司.md "wikilink")）</small>等节目。除了电视节目之外，成员也在广播节目中参与宣传，如《天天樂陶陶》<small>（2018年12月27日、[警廣電台](https://zh.wikipedia.org/wiki/警察广播电台 "wikilink")）</small>、《耐玩DJ
 -
 Bryan探班》<small>（2019年1月6日、[HitFM](https://zh.wikipedia.org/wiki/HitFM "wikilink")）</small>等。
 
@@ -50,7 +50,7 @@ Team TP首場全員握手會」握手券乙張。
 
 本次主打歌曲《勇往直前》翻唱自[AKB48第](../Page/AKB48.md "wikilink")35張單曲《[勇往直前](../Page/勇往直前_\(AKB48單曲\).md "wikilink")》（），是一首由天樂填寫中文詞、古城康行作曲、編曲，採[搖滾樂風的作品](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")。此曲的Center位置成員為劉語晴\[3\]。單曲選拔組的詳細名單如下：
 
-  - 正式成员：[冼迪琦](../Page/冼迪琦.md "wikilink")、[邱品涵](https://zh.wikipedia.org/wiki/邱品涵 "wikilink")、[阿部瑪利亞](https://zh.wikipedia.org/wiki/阿部瑪利亞 "wikilink")、張羽翎、陳詩雅、曾詩羽、劉語晴、劉潔明、潘姿怡
+  - 正式成员：[冼迪琦](../Page/冼迪琦.md "wikilink")、[邱品涵](../Page/邱品涵.md "wikilink")、[阿部瑪利亞](https://zh.wikipedia.org/wiki/阿部瑪利亞 "wikilink")、張羽翎、陳詩雅、曾詩羽、劉語晴、劉潔明、潘姿怡
   - 研究生：李孟純、林-{于}-馨、劉曉晴
 
 选拔成员冼迪琦因病未能参与MV拍摄\[4\]

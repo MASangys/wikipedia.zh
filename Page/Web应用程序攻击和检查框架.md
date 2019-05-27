@@ -15,8 +15,7 @@ Riancho于2007年3月创建，经过多年的社区开发。2010年7月，w3af�
 
   - [Metasploit](../Page/Metasploit.md "wikilink")
   - [低轨道离子炮](../Page/低轨道离子炮.md "wikilink")（LOIC）
-  - [OWASP](https://zh.wikipedia.org/wiki/OWASP "wikilink")
-    开放式Web应用程序安全项目
+  - [OWASP](../Page/OWASP.md "wikilink") 开放式Web应用程序安全项目
 
 ## 参考文献
 

@@ -3,7 +3,7 @@
 Project 的演出歷程記錄。
 
 有關本組合的最近期簡歷、成員簡介、音樂作品、及媒體報導/訪問內容，請參照**[Ariel
-Project](https://zh.wikipedia.org/wiki/Ariel_Project "wikilink")**。
+Project](../Page/Ariel_Project.md "wikilink")**。
 
 ## 演出簡歷
 
@@ -213,7 +213,7 @@ Project](https://zh.wikipedia.org/wiki/Ariel_Project "wikilink")**。
 <tr class="even">
 <td><p>23</p></td>
 <td><p>Hong Kong Idol Festival 2016 前夜祭[11]</p></td>
-<td><p>聯同日本的<a href="https://zh.wikipedia.org/wiki/滝口成美" title="wikilink">滝口成美</a>、＃ドルーチュ、黒崎れおん、広瀬ことみ、柳田久瑠実及Rizumu一起參演</p></td>
+<td><p>聯同日本的<a href="../Page/滝口成美.md" title="wikilink">滝口成美</a>、＃ドルーチュ、黒崎れおん、広瀬ことみ、柳田久瑠実及Rizumu一起參演</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -221,7 +221,7 @@ Project](https://zh.wikipedia.org/wiki/Ariel_Project "wikilink")**。
 <td><p>24</p></td>
 <td><p>青年廣場 - Y劇場 (香港)</p></td>
 <td><p>Hong Kong Idol Festival 2016[12]</p></td>
-<td><p>日本參演單位包括<a href="https://zh.wikipedia.org/wiki/滝口成美" title="wikilink">滝口成美</a>、＃ドルーチュ、黒崎れおん、広瀬ことみ、柳田久瑠実及Rizumu 香港舞團Happy Rotation、NO-C、JUMP in Max及V-Project亦獲邀參演</p></td>
+<td><p>日本參演單位包括<a href="../Page/滝口成美.md" title="wikilink">滝口成美</a>、＃ドルーチュ、黒崎れおん、広瀬ことみ、柳田久瑠実及Rizumu 香港舞團Happy Rotation、NO-C、JUMP in Max及V-Project亦獲邀參演</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -304,7 +304,7 @@ Project](https://zh.wikipedia.org/wiki/Ariel_Project "wikilink")**。
 </ul></td>
 <td><p><strong><em>首隊獲邀出演@JAM EXPO的香港Idol組合</em></strong> 參演組合多達175隊，包括<a href="../Page/櫸坂46.md" title="wikilink">欅坂46</a>、<a href="../Page/東京女子流.md" title="wikilink">東京女子流</a>、<a href="../Page/私立惠比壽中學.md" title="wikilink">私立惠比壽中學</a>、<a href="../Page/電波組.inc.md" title="wikilink">電波組.inc等</a></p>
 <p>首次穿上由Hinako設計的演出服</p>
-<p>Aoi成為首位能夠與<a href="../Page/櫸坂46.md" title="wikilink">欅坂46Center</a>—<a href="https://zh.wikipedia.org/wiki/平手友梨奈" title="wikilink">平手友梨奈合照的香港人</a><sup><a href="https://zh.wikipedia.org/wiki/Ariel_Project#cite_note-:3-21" title="wikilink">[21</a>]</sup></p>
+<p>Aoi成為首位能夠與<a href="../Page/櫸坂46.md" title="wikilink">欅坂46Center</a>—<a href="../Page/平手友梨奈.md" title="wikilink">平手友梨奈合照的香港人</a><sup><a href="https://zh.wikipedia.org/wiki/Ariel_Project#cite_note-:3-21" title="wikilink">[21</a>]</sup></p>
 <p>Seina及Nanami代表上台拍攝全場大合照</p>
 <p>Seina參與日本偶像專題雜誌《iSP》訪問及拍攝工作</p></td>
 <td></td>
@@ -574,7 +574,7 @@ Project](https://zh.wikipedia.org/wiki/Ariel_Project "wikilink")**。
 <td><p>20-21</p></td>
 <td><p>廣州太古倉 3號倉庫 (中國)</p></td>
 <td><p>Idol Fever Live Vol.3</p></td>
-<td><p><strong><em>首次全員遠征廣州</em></strong> 日本參演單位包括notall、<a href="https://zh.wikipedia.org/wiki/DREAMING_MONSTER" title="wikilink">Dreaming Monster及KNU</a></p>
+<td><p><strong><em>首次全員遠征廣州</em></strong> 日本參演單位包括notall、<a href="../Page/DREAMING_MONSTER.md" title="wikilink">Dreaming Monster及KNU</a></p>
 <p>中國參演單位是SING</p>
 <p>主辦單位—廣州馬達娛樂將5月21日的公演盛況全程進行網上直播</p>
 <p>除了公演結束後的OFF會，5月22日當天聯同日本偶像組合notall一起與Fans暢遊廣州</p></td>
@@ -1833,7 +1833,7 @@ Project](https://zh.wikipedia.org/wiki/Ariel_Project "wikilink")**。
 <tr class="odd">
 <td><p>廣州萬菱匯B1 超急番 (中國)</p></td>
 <td><p>Girls on Top 偶像企劃 NEW YEAR'S EVE Live[160]</p></td>
-<td><p>與同公司的姊妹組合ERЯOR一起參演 日本參演單位包括みのりほのか、愛夢GLTOKYO及<a href="https://zh.wikipedia.org/wiki/DREAMING_MONSTER" title="wikilink">Dreaming Monster</a></p>
+<td><p>與同公司的姊妹組合ERЯOR一起參演 日本參演單位包括みのりほのか、愛夢GLTOKYO及<a href="../Page/DREAMING_MONSTER.md" title="wikilink">Dreaming Monster</a></p>
 <p>廣州參演單位是ArgoAngels</p></td>
 <td></td>
 <td></td>

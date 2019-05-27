@@ -1,5 +1,5 @@
 《**假面騎士平成Generations
-Forever**》（'''），是日本特攝節目《[假面騎士Build](https://zh.wikipedia.org/wiki/假面騎士Build "wikilink")》和《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》聯動劇場版，日本於2018年12月22日上映，香港、马来西亚和新加坡等部分东南亚国家於2019年3月相繼上映，台灣因計畫更動，取消了原定上映的計劃，中國大陸由[騰訊視頻引進](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")，於2019年5月1日在杭州動漫節先舉行「應援」觀影，5月8日在騰訊視頻上架雙語版本。
+Forever**》（'''），是日本特攝節目《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》和《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》聯動劇場版，日本於2018年12月22日上映，香港、马来西亚和新加坡等部分东南亚国家於2019年3月相繼上映，台灣因計畫更動，取消了原定上映的計劃，中國大陸由[騰訊視頻引進](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")，於2019年5月1日在杭州動漫節先舉行「應援」觀影，5月8日在騰訊視頻上架雙語版本。
 
 ## 本作特色
 
@@ -44,7 +44,7 @@ Forever**》（'''），是日本特攝節目《[假面騎士Build](https://zh.w
   -
     **假面騎士ZI-O**的變身者。
 
-**桐生戰兔（）**（[犬飼貴丈飾](https://zh.wikipedia.org/wiki/犬飼貴丈 "wikilink")）
+**桐生戰兔（）**（[犬飼貴丈飾](../Page/犬飼貴丈.md "wikilink")）
 
   -
     **假面騎士Build**的變身者。
@@ -400,7 +400,7 @@ Forever**》（'''），是日本特攝節目《[假面騎士Build](https://zh.w
 ( 眼鏡蛇型、蜘蛛型、蝙蝠型 )</p></td>
 <td><p>Roidmude<br />
 ( Cobra Type, Spider Type, Bat Type )</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/假面騎士Drive" title="wikilink">假面騎士Drive</a><br />
+<td><p><a href="../Page/假面騎士Drive.md" title="wikilink">假面騎士Drive</a><br />
 （2014年）</p></td>
 <td></td>
 <td><p>cm</p></td>
@@ -436,7 +436,7 @@ Forever**》（'''），是日本特攝節目《[假面騎士Build](https://zh.w
 <td></td>
 <td><p>保衛者</p></td>
 <td><p>Guardian</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/假面騎士Build" title="wikilink">假面騎士Build</a><br />
+<td><p><a href="../Page/假面騎士Build.md" title="wikilink">假面騎士Build</a><br />
 （2017年）</p></td>
 <td></td>
 <td><p>cm</p></td>

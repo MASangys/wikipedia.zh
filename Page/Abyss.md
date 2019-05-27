@@ -170,9 +170,9 @@
 ## 同時段競爭作品
 
   - [KBS](../Page/韓國放送公社.md "wikilink")
-    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[各位國民](../Page/各位國民.md "wikilink")》、《[Perfume](https://zh.wikipedia.org/wiki/Perfume_\(電視劇\) "wikilink")》
+    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[各位國民](../Page/各位國民.md "wikilink")》、《[Perfume](../Page/Perfume_\(電視劇\).md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[特別勞動監督官趙掌風](https://zh.wikipedia.org/wiki/特別勞動監督官趙掌風 "wikilink")》
+    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[特別勞動監督官趙掌風](../Page/特別勞動監督官趙掌風.md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")
     [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[初次見面我愛你](../Page/初次見面我愛你_\(韓國電視劇\).md "wikilink")》
   - [JTBC](../Page/JTBC.md "wikilink")

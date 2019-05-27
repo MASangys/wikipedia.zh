@@ -1,7 +1,7 @@
 [Bat'leths.jpg](https://zh.wikipedia.org/wiki/File:Bat'leths.jpg "fig:Bat'leths.jpg")
 ****（[克林貢語](../Page/克林貢語.md "wikilink")：*betleH*，粗略發音：）是一種雙面兵器，刀刃呈弧形，其中一面有三個握把。這種兵器是《[星艦迷航記](../Page/星艦奇航記.md "wikilink")》系列中[克林貢人特有的](https://zh.wikipedia.org/wiki/克林貢人 "wikilink")，由電視劇《[銀河飛龍](../Page/銀河飛龍.md "wikilink")》的特效師設計，參考自中國的[偃月刀](https://zh.wikipedia.org/wiki/偃月刀 "wikilink")。**Mek'leth**（克林貢語稱作*meqleH*）是Bat'leth衍生出的一種較小的版本，以北部[藏族的馬刀為原型](../Page/藏族.md "wikilink")。
 
-在電視劇的某些集數中，Bat'leth扮演著重要的角色，而後還出現在電影版和改編遊戲中。Bat'leth是粉絲們心目中的《星艦迷航記》代表性物品之一，且多次出現在其他媒體中，如科幻電視劇《[星際奇兵：SG-1](../Page/星際之門：SG-1.md "wikilink")》（2002年）和電影《[一級玩家](https://zh.wikipedia.org/wiki/一級玩家_\(電影\) "wikilink")》（2018年）等。不過在英國和美國，曾有與Bat'leth相關的違法行為發生。
+在電視劇的某些集數中，Bat'leth扮演著重要的角色，而後還出現在電影版和改編遊戲中。Bat'leth是粉絲們心目中的《星艦迷航記》代表性物品之一，且多次出現在其他媒體中，如科幻電視劇《[星際奇兵：SG-1](../Page/星際之門：SG-1.md "wikilink")》（2002年）和電影《[一級玩家](../Page/一級玩家_\(電影\).md "wikilink")》（2018年）等。不過在英國和美國，曾有與Bat'leth相關的違法行為發生。
 
 ## 外觀與設計
 
@@ -29,7 +29,7 @@ Bat'leth的受歡迎程度讓許多武術團隊逐漸出現。這些團隊的目
 
 Bat'leth也出現在其他電視劇中，包含科幻電視劇《[星際奇兵：SG-1](../Page/星際之門：SG-1.md "wikilink")》的-{集}-數《多出的人》（，2002年）\[31\]、偵探電視劇《[神經妙探](https://zh.wikipedia.org/wiki/神經妙探 "wikilink")》的《蒙克大戰眼睛蛇》（，2005年）\[32\]、動作喜劇《[宅男特務](https://zh.wikipedia.org/wiki/宅男特務 "wikilink")》的《》（2010年）\[33\]和[情境喜劇](https://zh.wikipedia.org/wiki/情境喜劇 "wikilink")《[宅男行不行](https://zh.wikipedia.org/wiki/宅男行不行 "wikilink")》的《The
 Zarnecki
-Incursion》（2011年）\[34\]。在電影《[一級玩家](https://zh.wikipedia.org/wiki/一級玩家_\(電影\) "wikilink")》（2018年）中，Bat'leth也有以[彩蛋的方式出現](../Page/彩蛋_\(媒体\).md "wikilink")\[35\]\[36\]\[37\]。
+Incursion》（2011年）\[34\]。在電影《[一級玩家](../Page/一級玩家_\(電影\).md "wikilink")》（2018年）中，Bat'leth也有以[彩蛋的方式出現](../Page/彩蛋_\(媒体\).md "wikilink")\[35\]\[36\]\[37\]。
 
 ## 合法問題
 

@@ -1,5 +1,5 @@
 《**YG戰略資料室**》（；）為[韓國娛樂公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂製作的](../Page/YG娛樂.md "wikilink")[情境喜劇](https://zh.wikipedia.org/wiki/情境喜劇 "wikilink")，由《音樂之神》朴俊秀導演與《[SNL
-Korea](https://zh.wikipedia.org/wiki/SNL_Korea "wikilink")》金敏席作家合作拍攝，[YG娛樂旗下藝人](../Page/YG娛樂.md "wikilink")[勝利](../Page/勝利_\(歌手\).md "wikilink")（[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")）、[柳炳宰](https://zh.wikipedia.org/wiki/柳炳宰 "wikilink")、[李宰鎮](https://zh.wikipedia.org/wiki/李宰鎮 "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）等人主演，於2018年10月5日在[Netflix全球上線](../Page/Netflix.md "wikilink")。此劇講述一夜之間被降職到最冷門部門——YG戰略資料本部的[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[勝利](../Page/勝利_\(歌手\).md "wikilink")，為了挽救陷入危機的[YG娛樂](../Page/YG娛樂.md "wikilink")，重新回到會長懷抱而孤軍奮戰的故事\[1\]。
+Korea](../Page/SNL_Korea.md "wikilink")》金敏席作家合作拍攝，[YG娛樂旗下藝人](../Page/YG娛樂.md "wikilink")[勝利](../Page/勝利_\(歌手\).md "wikilink")（[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")）、[柳炳宰](../Page/柳炳宰.md "wikilink")、[李宰鎮](../Page/李宰鎮.md "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）等人主演，於2018年10月5日在[Netflix全球上線](../Page/Netflix.md "wikilink")。此劇講述一夜之間被降職到最冷門部門——YG戰略資料本部的[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[勝利](../Page/勝利_\(歌手\).md "wikilink")，為了挽救陷入危機的[YG娛樂](../Page/YG娛樂.md "wikilink")，重新回到會長懷抱而孤軍奮戰的故事\[1\]。
 
 ## 演員陣容
 
@@ -7,9 +7,9 @@ Korea](https://zh.wikipedia.org/wiki/SNL_Korea "wikilink")》金敏席作家合�
 
   - [勝利](../Page/勝利_\(歌手\).md "wikilink")（[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")）：YG戰略資料本部新任顧問，因兩個月前醉酒鬧事而被調任到YG戰略資料本部。
 
-  - [柳炳宰](https://zh.wikipedia.org/wiki/柳炳宰 "wikilink")：YG戰略資料本部員工，雖說是員工但更像是YG戰略資料本部的苦力。
+  - [柳炳宰](../Page/柳炳宰.md "wikilink")：YG戰略資料本部員工，雖說是員工但更像是YG戰略資料本部的苦力。
 
-  - [李宰鎮](https://zh.wikipedia.org/wiki/李宰鎮 "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）：YG戰略資料本部員工，但幾乎不上班，上班時總是給別人添麻煩。
+  - [李宰鎮](../Page/李宰鎮.md "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）：YG戰略資料本部員工，但幾乎不上班，上班時總是給別人添麻煩。
 
   - ：YG戰略資料本部科長，於第一集因[勝利推卸責任而被革職](../Page/勝利_\(歌手\).md "wikilink")，於第五集因YG戰略資料本部面臨財政困難而復職。
 
@@ -39,18 +39,18 @@ Korea](https://zh.wikipedia.org/wiki/SNL_Korea "wikilink")》金敏席作家合�
 <td><p>1</p></td>
 <td><p>2018年10月5日</p></td>
 <td><p>家族日</p></td>
-<td><p><a href="../Page/姜大聲.md" title="wikilink">大聲</a>（<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>）、<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>、、<a href="https://zh.wikipedia.org/wiki/南太鉉" title="wikilink">南太鉉</a>（<a href="https://zh.wikipedia.org/wiki/South_Club" title="wikilink">South Club</a>）</p></td>
+<td><p><a href="../Page/姜大聲.md" title="wikilink">大聲</a>（<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>）、<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>、、<a href="../Page/南太鉉.md" title="wikilink">南太鉉</a>（<a href="../Page/South_Club.md" title="wikilink">South Club</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>乾淨的YG</p></td>
-<td><p><a href="../Page/WINNER.md" title="wikilink">WINNER</a>、（<a href="../Page/Jinusean.md" title="wikilink">Jinusean</a>）、<a href="https://zh.wikipedia.org/wiki/吳尚津" title="wikilink">吳尚津</a></p></td>
+<td><p><a href="../Page/WINNER.md" title="wikilink">WINNER</a>、（<a href="../Page/Jinusean.md" title="wikilink">Jinusean</a>）、<a href="../Page/吳尚津.md" title="wikilink">吳尚津</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>音樂事業</p></td>
-<td><p><a href="../Page/朴春.md" title="wikilink">朴春</a>[2]、<a href="https://zh.wikipedia.org/wiki/鄭帝元" title="wikilink">ONE</a>、<a href="https://zh.wikipedia.org/wiki/孫世恩" title="wikilink">孫世恩</a>、<a href="../Page/方藝潭.md" title="wikilink">方藝潭</a>、<a href="https://zh.wikipedia.org/wiki/崔玹碩" title="wikilink">崔玹碩</a></p></td>
+<td><p><a href="../Page/朴春.md" title="wikilink">朴春</a>[2]、<a href="https://zh.wikipedia.org/wiki/鄭帝元" title="wikilink">ONE</a>、<a href="../Page/孫世恩.md" title="wikilink">孫世恩</a>、<a href="../Page/方藝潭.md" title="wikilink">方藝潭</a>、<a href="../Page/崔玹碩.md" title="wikilink">崔玹碩</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -68,7 +68,7 @@ Korea](https://zh.wikipedia.org/wiki/SNL_Korea "wikilink")》金敏席作家合�
 <tr class="even">
 <td><p>6</p></td>
 <td><p>大災難</p></td>
-<td><p>金有男、<a href="../Page/葛瀟轅.md" title="wikilink">葛瀟轅</a>、<a href="https://zh.wikipedia.org/wiki/張水院" title="wikilink">張水院</a>（<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>）</p></td>
+<td><p>金有男、<a href="../Page/葛瀟轅.md" title="wikilink">葛瀟轅</a>、<a href="../Page/張水院.md" title="wikilink">張水院</a>（<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -80,7 +80,7 @@ Korea](https://zh.wikipedia.org/wiki/SNL_Korea "wikilink")》金敏席作家合�
 <tr class="even">
 <td><p>8</p></td>
 <td><p>新面孔</p></td>
-<td><p><a href="../Page/劉寅娜.md" title="wikilink">劉寅娜</a>、Alex、<a href="../Page/玉智英.md" title="wikilink">玉高雲</a>、<a href="../Page/李遐怡.md" title="wikilink">李遐怡</a>、（<a href="https://zh.wikipedia.org/wiki/樂童音樂家" title="wikilink">樂童音樂家</a>）、、<a href="https://zh.wikipedia.org/wiki/張水院" title="wikilink">張水院</a>（<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>）</p></td>
+<td><p><a href="../Page/劉寅娜.md" title="wikilink">劉寅娜</a>、Alex、<a href="../Page/玉智英.md" title="wikilink">玉高雲</a>、<a href="../Page/李遐怡.md" title="wikilink">李遐怡</a>、（<a href="https://zh.wikipedia.org/wiki/樂童音樂家" title="wikilink">樂童音樂家</a>）、、<a href="../Page/張水院.md" title="wikilink">張水院</a>（<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>）</p></td>
 <td></td>
 </tr>
 </tbody>

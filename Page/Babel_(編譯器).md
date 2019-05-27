@@ -18,8 +18,7 @@ JSX 語法成 JavaScript，使用 Babel preset react。
   - [TypeScript](../Page/TypeScript.md "wikilink")
 
   -
-  - [Webpack](https://zh.wikipedia.org/wiki/Webpack "wikilink")
-    JavaScript bundler
+  - [Webpack](../Page/Webpack.md "wikilink") JavaScript bundler
 
 ## 参考资料
 

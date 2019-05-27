@@ -1,6 +1,6 @@
 **PNC金融服务集团公司**（，缩写为**PNC**）是总部位于[美国](../Page/美国.md "wikilink")[匹兹堡的一家](../Page/匹兹堡.md "wikilink")[银行控股和](../Page/銀行控股公司.md "wikilink")[金融服务集团](https://zh.wikipedia.org/wiki/金融服务 "wikilink")。PNC银行在全美19个州和[华盛顿哥伦比亚特区共拥有](../Page/华盛顿哥伦比亚特区.md "wikilink")2459个支行和9051台[自动提款机](https://zh.wikipedia.org/wiki/自动提款机 "wikilink")。PNC也提供[资产管理](../Page/资产管理.md "wikilink")、[财富管理](https://zh.wikipedia.org/wiki/财富管理 "wikilink")、[遗产规划和贷款等金融服务](https://zh.wikipedia.org/wiki/遗产规划 "wikilink")，以及信息处理服务。\[1\]
 
-按总资产计算，PNC位于[全美最大银行排名第](https://zh.wikipedia.org/wiki/美国银行业巨头列表 "wikilink")8位。它是美国网点数第5位、客户存款总额第6位、ATM数量第4位的银行。\[2\]
+按总资产计算，PNC位于[全美最大银行排名第](../Page/美国银行业巨头列表.md "wikilink")8位。它是美国网点数第5位、客户存款总额第6位、ATM数量第4位的银行。\[2\]
 
 银行名字中的“PNC”源于它前身两家公司Pittsburgh National Corporation和Provident National
 Corporation的缩写。两家公司于1983年合并。
@@ -21,7 +21,7 @@ PNC是为小型企业提供最多贷款的银行之一。\[4\]
 
 PNC拥有贝莱德22%的股份，按资产规模排名，贝莱德是全球最大的资产管理公司。PNC的股权在2017年12月31日市值高达179亿美元。\[6\]
 
-### [威富公司](https://zh.wikipedia.org/wiki/威富公司 "wikilink")(VF Corporation)
+### [威富公司](../Page/威富公司.md "wikilink")(VF Corporation)
 
 PNC拥有威富公司34.97%的股份
 

@@ -35,18 +35,18 @@ which the displaced Bedouins of the  tribe had negotiated with
 Palestinian landowners in the 1950s to use as pastures for their flocks
 and a settled base for their families. \[9\] In the winter of 1975, on
 the seventh night of [Hanukkah](../Page/光明节.md "wikilink"), a [Gush
-Emunim](https://zh.wikipedia.org/wiki/忠信社群 "wikilink") group of 23
-families and six singles erected a prefabricated concrete structure and
-two wooden huts at the site now known as "Founder's Circle" \[10\] The
-group was evicted several times. In 1977, after [Menachem
-Begin](../Page/梅纳赫姆·贝京.md "wikilink") took office, Ma'ale Adumim was
-granted official status as a permanent settlement,\[11\] In the late
-1990s, approximately 1,050 Palestinian Jahalin Bedouins were forced to
-move from land that now forms part of the settlement.\[12\] Court orders
-required compensation by the Israeli government and they received cash,
-electricity and water supplies.\[13\] According to the residents, they
-had to sell most of their livestock and their Bedouin way of life
-ended.\[14\]
+Emunim](../Page/忠信社群.md "wikilink") group of 23 families and six singles
+erected a prefabricated concrete structure and two wooden huts at the
+site now known as "Founder's Circle" \[10\] The group was evicted
+several times. In 1977, after [Menachem
+Begin](../Page/梅纳赫姆·贝京.md "wikilink") took office, Ma'ale
+Adumim was granted official status as a permanent settlement,\[11\] In
+the late 1990s, approximately 1,050 Palestinian Jahalin Bedouins were
+forced to move from land that now forms part of the settlement.\[12\]
+Court orders required compensation by the Israeli government and they
+received cash, electricity and water supplies.\[13\] According to the
+residents, they had to sell most of their livestock and their Bedouin
+way of life ended.\[14\]
 
 The chief urban planner was architect [Rachel
 Walden](https://zh.wikipedia.org/wiki/Rachel_Walden "wikilink"). In
@@ -63,23 +63,21 @@ was recently elected to a third term by a large majority.
 
 [Artificial_lake,_Ma'ale_Adumim.jpg](https://zh.wikipedia.org/wiki/File:Artificial_lake,_Ma'ale_Adumim.jpg "fig:Artificial_lake,_Ma'ale_Adumim.jpg")
 The city is surrounded on four sides by the [Judean
-Desert](https://zh.wikipedia.org/wiki/犹大旷野 "wikilink")\[17\] and is
-linked to Jerusalem and the [Tel Aviv Metropolitan
+Desert](../Page/犹大旷野.md "wikilink")\[17\] and is linked to
+Jerusalem and the [Tel Aviv Metropolitan
 Area](../Page/特拉維夫都會區.md "wikilink") via Highway 1. Due to
 its strategic location between the northern and southern parts of the
 West Bank, Palestinians see this as a threat to the territorial
-continuity of a future [Palestinian
-state](https://zh.wikipedia.org/wiki/巴勒斯坦 "wikilink"). This claim is
-disputed by mayor Benny Kashriel, who claims that continuity would be
-attained by circling Ma'ale Adumim to the east.\[18\] Israeli drivers
-use a [bypass road](https://zh.wikipedia.org/wiki/繞行道路 "wikilink") that
-exits the city to the west, entering Jerusalem through the  Junction or
-a tunnel that goes under [Mt. Scopus](../Page/斯科普斯山.md "wikilink").
-These routes were built in the wake of the
-[First](../Page/第一次巴勒斯坦大起義.md "wikilink") and
-[Second Intifadas](../Page/阿克萨群众起义.md "wikilink") when Palestinian
-militants shot at motorists and cars were stoned. The  passed through
-and .
+continuity of a future [Palestinian state](../Page/巴勒斯坦.md "wikilink").
+This claim is disputed by mayor Benny Kashriel, who claims that
+continuity would be attained by circling Ma'ale Adumim to the
+east.\[18\] Israeli drivers use a [bypass
+road](../Page/繞行道路.md "wikilink") that exits the city to the
+west, entering Jerusalem through the  Junction or a tunnel that goes
+under [Mt. Scopus](../Page/斯科普斯山.md "wikilink"). These routes were built
+in the wake of the [First](../Page/第一次巴勒斯坦大起義.md "wikilink") and [Second
+Intifadas](../Page/阿克萨群众起义.md "wikilink") when Palestinian militants
+shot at motorists and cars were stoned. The  passed through  and .
 
 ## Land ownership
 
@@ -271,8 +269,7 @@ Mizpe Edna is a lookout at the Shofar and Hallil junction.
 
 9.  ['Bedouins around Ma’ale
     Adumim,0](http://www.btselem.org/area_c/maale_adumim_bedouins)
-    [B'tselem](https://zh.wikipedia.org/wiki/卜采萊姆 "wikilink") 18 May
-    2014
+    [B'tselem](../Page/卜采萊姆.md "wikilink") 18 May 2014
 
 10. Dion Nissenbaum, [*A Street Divided: Stories From Jerusalem’s Alley
     of God,*](https://books.google.com/books?id=1_-5BwAAQBAJ&pg=PA121) ,

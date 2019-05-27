@@ -16,7 +16,7 @@ OTs-33具有雙動操作式機構，並且以外露式協助擊發。手槍套�
 
 可快速裝拆的折疊式[钢製](../Page/钢.md "wikilink")[槍托可以裝設於握柄底部的連接點以上](../Page/槍托.md "wikilink")，以減緩在全自動射擊模式以下開火時，武器瞄準目標的問題。可據說由於槍托過短，實際上並不方便。
 
-OTs-33採用了兩款可拆卸式雙排[彈匣所供彈](../Page/彈匣.md "wikilink")，容量分別是18發（標準）與27發（可選）。雙向按鈕式彈匣扣位於扳機護圈的根部以上。OTs-33在槍管以下的[底把設有一條整體式戰術附件導軌](https://zh.wikipedia.org/wiki/機匣 "wikilink")，用以裝上[戰術燈或](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")[雷射指示器](https://zh.wikipedia.org/wiki/雷射指示器 "wikilink")。該手槍亦可在槍口配備[消聲器](../Page/抑制器.md "wikilink")。OTs-33亦配有其[皮製](../Page/皮革.md "wikilink")，設有兩個獨立的彈匣袋和槍托保存索具。
+OTs-33採用了兩款可拆卸式雙排[彈匣所供彈](../Page/彈匣.md "wikilink")，容量分別是18發（標準）與27發（可選）。雙向按鈕式彈匣扣位於扳機護圈的根部以上。OTs-33在槍管以下的[底把設有一條整體式戰術附件導軌](https://zh.wikipedia.org/wiki/機匣 "wikilink")，用以裝上[戰術燈或](../Page/戰術燈.md "wikilink")[雷射指示器](https://zh.wikipedia.org/wiki/雷射指示器 "wikilink")。該手槍亦可在槍口配備[消聲器](../Page/抑制器.md "wikilink")。OTs-33亦配有其[皮製](../Page/皮革.md "wikilink")，設有兩個獨立的彈匣袋和槍托保存索具。
 
 ## 使用國
 

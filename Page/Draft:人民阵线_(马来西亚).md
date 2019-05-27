@@ -20,12 +20,10 @@
   - (Parti Solidariti Malaysia, MSP)
 
 Three others also members of the [Angkatan Perpaduan
-Ummah](https://zh.wikipedia.org/wiki/穆斯林团结阵线 "wikilink") at the same
-time.
+Ummah](../Page/穆斯林团结阵线.md "wikilink") at the same time.
 
-  - [Spirit of 46 Malay
-    Party](https://zh.wikipedia.org/wiki/四六精神党 "wikilink")
-    (Parti Melayu Semangat 46, S46)
+  - [Spirit of 46 Malay Party](../Page/四六精神党.md "wikilink") (Parti
+    Melayu Semangat 46, S46)
 
   - (Parti Hizbul Muslimin Malaysia, HAMIM)
 
@@ -34,7 +32,7 @@ time.
 ## Elected representatives
 
   - [Members of the Dewan Rakyat, 8th Malaysian
-    Parliament](https://zh.wikipedia.org/wiki/马来西亚第8届国会议员列表 "wikilink")
+    Parliament](../Page/马来西亚第8届国会议员列表.md "wikilink")
 
   -
   -
@@ -54,7 +52,7 @@ time.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/1990年马来西亚大选" title="wikilink">1990</a></p></td>
+<td><p><a href="../Page/1990年马来西亚大选.md" title="wikilink">1990</a></p></td>
 <td></td>
 <td><p>1,113,488</p></td>
 <td><p>19.4%</p></td>
@@ -63,7 +61,7 @@ time.
 <a href="../Page/百林吉丁岸.md" title="wikilink">Joseph Pairin Kitingan</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/1995年马来西亚大选" title="wikilink">1995</a></p></td>
+<td><p><a href="../Page/1995年马来西亚大选.md" title="wikilink">1995</a></p></td>
 <td></td>
 <td><p>910,769</p></td>
 <td><p>15.3%</p></td>

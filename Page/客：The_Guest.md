@@ -1,7 +1,7 @@
 《**客：The
 Guest**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")
 Original
-Series全新登場的[水木經典連續劇](https://zh.wikipedia.org/wiki/OCN_Original_Series "wikilink")\[1\]，由《[Black](https://zh.wikipedia.org/wiki/Black_\(韩国电视剧\) "wikilink")》、《[Voice](https://zh.wikipedia.org/wiki/Voice_\(韓國電視劇\) "wikilink")》的金弘善導演與《[Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")》的徐載元、權素拉編劇聯合打造，是一部真正以韓式驅魔和巫術為題材的作品，本劇講述靈媒、司祭和警察與無處不在利用靈異力量的犯罪團伙互相較量的故事\[2\]\[3\]。台灣由[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")，自9月13日起每週四五獨家播出。
+Series全新登場的[水木經典連續劇](../Page/OCN_Original_Series.md "wikilink")\[1\]，由《[Black](https://zh.wikipedia.org/wiki/Black_\(韩国电视剧\) "wikilink")》、《[Voice](../Page/Voice_\(韓國電視劇\).md "wikilink")》的金弘善導演與《[Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")》的徐載元、權素拉編劇聯合打造，是一部真正以韓式驅魔和巫術為題材的作品，本劇講述靈媒、司祭和警察與無處不在利用靈異力量的犯罪團伙互相較量的故事\[2\]\[3\]。台灣由[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")，自9月13日起每週四五獨家播出。
 
 ## 演員陣容
 
@@ -161,7 +161,7 @@ Series全新登場的[水木經典連續劇](https://zh.wikipedia.org/wiki/OCN_O
 <td><p>姜吉英的母親，刑警。被惡靈附身的崔尚賢殺死。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴浩山" title="wikilink">朴浩山</a>[11]</p></td>
+<td><p><a href="../Page/朴浩山.md" title="wikilink">朴浩山</a>[11]</p></td>
 <td><p>高尚裴</p></td>
 <td><p>吉英的警察搭檔，對吉英來說是叔叔一般存在的人物。</p></td>
 </tr>
@@ -375,7 +375,7 @@ Series全新登場的[水木經典連續劇](https://zh.wikipedia.org/wiki/OCN_O
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/廉惠蘭" title="wikilink">廉惠蘭</a></p></td>
+<td><p><a href="../Page/廉惠蘭.md" title="wikilink">廉惠蘭</a></p></td>
 <td></td>
 <td><p>在海邊散發生魚片傳單、被惡靈附身的女人</p></td>
 </tr>
@@ -385,7 +385,7 @@ Series全新登場的[水木經典連續劇](https://zh.wikipedia.org/wiki/OCN_O
 <td><p>背後有個光頭女鬼的老爺爺</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴勝泰" title="wikilink">朴勝泰</a></p></td>
+<td><p><a href="../Page/朴勝泰.md" title="wikilink">朴勝泰</a></p></td>
 <td></td>
 <td><p>20年前失蹤者宋賢珠（其遺骨被睦光發現）的奶奶。</p></td>
 </tr>

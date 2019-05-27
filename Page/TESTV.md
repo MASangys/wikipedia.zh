@@ -13,7 +13,7 @@ line智能笔。\[1\]至2018年底已播出近三百期。其节目强调“不�
 《BB
 Time》是TESTV的vlog类节目，于2016年4月13日首播。节目内容有出游、粉丝见面会、餐馆测评，也包括产品的开箱、体验与测试。例如，BB
 Time第145期节目测试了[Vivo
-NEX手机的鏡頭是否真的能够弹出五万次](https://zh.wikipedia.org/wiki/Vivo_NEX "wikilink")。\[3\]\[4\]\[5\]
+NEX手机的鏡頭是否真的能够弹出五万次](../Page/Vivo_NEX.md "wikilink")。\[3\]\[4\]\[5\]
 
 ### 值不值得吃
 

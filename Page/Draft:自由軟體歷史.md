@@ -2,7 +2,7 @@
 [debug](https://zh.wikipedia.org/wiki/debug "wikilink") 和给软件添加新功能。
 
 计算机最先在大学等机构内普及，而大学对软件进行的修改也会按照学术原则被公开地分享，此时，相关组织如雨后春笋般涌现。
-然而，当大规模的操作系统逐渐成熟时，允许修改操作系统的组织数目便开始减少了。然而，[实用程序和其他为操作系统添加功能的应用依旧被共享](https://zh.wikipedia.org/wiki/实用程序 "wikilink")，新的组织也开始形成以推广软件共享。
+然而，当大规模的操作系统逐渐成熟时，允许修改操作系统的组织数目便开始减少了。然而，[实用程序和其他为操作系统添加功能的应用依旧被共享](../Page/实用程序.md "wikilink")，新的组织也开始形成以推广软件共享。
 
 ## 1980年代前的自由软件
 
@@ -121,7 +121,7 @@ Software in the Public Interest。\[21\]
 Linux 当中的受著作权保护的成分，发布了[Linux-libre](../Page/Linux-libre.md "wikilink")。
 
 现在，许多商业机构提供个性化的基于 Linux
-的产品，并提供商业协助。1990和2000年代中，越来越多的政府机构和商业组织开始[采用](https://zh.wikipedia.org/wiki/Linux的採用 "wikilink")
+的产品，并提供商业协助。1990和2000年代中，越来越多的政府机构和商业组织开始[采用](../Page/Linux的採用.md "wikilink")
 Linux。在英语国家中，[Ubuntu](../Page/Ubuntu.md "wikilink")
 及其衍生版本成为了非常流行的[Linux发行版](../Page/Linux发行版.md "wikilink")。
 

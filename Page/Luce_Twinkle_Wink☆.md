@@ -92,7 +92,7 @@ GNCA-0535 (CD+DVD)</p></td>
 | **恋色♡思考回路**                 | [PlayStation Vita遊戲](../Page/PlayStation_Vita.md "wikilink")『[To LOVEる -とらぶる-ダークネス トゥループリンセス](../Page/出包王女.md "wikilink")』主題曲 | 2015年 |
 | **1st Love Story**          | [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[線上遊戲的老婆不可能是女生？](../Page/線上遊戲的老婆不可能是女生？.md "wikilink")』片頭曲              | 2016年 |
 | **go to Romance\>\>\>\>\>** | 電視動畫『[烏菈菈迷路帖](../Page/烏菈菈迷路帖.md "wikilink")』片尾曲                                                                               | 2017年 |
-| **Fight on！**               | 視動畫『[Gamers 電玩咖！](https://zh.wikipedia.org/wiki/Gamers_電玩咖！ "wikilink")』片尾曲                                                   |       |
+| **Fight on！**               | 視動畫『[Gamers 電玩咖！](../Page/Gamers_電玩咖！.md "wikilink")』片尾曲                                                                      |       |
 | **恋のprologue\***            |                                                                                                                               |       |
 | **Symphony**                | OVA『[Nekopara Extra ～小貓之日的約定～](../Page/貓娘樂園.md "wikilink")』主題曲                                                                | 2018年 |
 

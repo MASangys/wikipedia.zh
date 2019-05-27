@@ -1,4 +1,4 @@
-**六氰合铬(III)酸钾**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为K<sub>3</sub>\[Cr(CN)<sub>6</sub>\]，这种黄色晶体属[正交晶系](../Page/正交晶系.md "wikilink")，[空间群](../Page/空间群.md "wikilink")*Pcan*。\[1\]它通常利用[乙酸铬和](https://zh.wikipedia.org/wiki/乙酸铬 "wikilink")[氰化钾反应得到](../Page/氰化钾.md "wikilink")。\[2\]
+**六氰合铬(III)酸钾**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为K<sub>3</sub>\[Cr(CN)<sub>6</sub>\]，这种黄色晶体属[正交晶系](../Page/正交晶系.md "wikilink")，[空间群](../Page/空间群.md "wikilink")*Pcan*。\[1\]它通常利用[乙酸铬和](../Page/乙酸铬.md "wikilink")[氰化钾反应得到](../Page/氰化钾.md "wikilink")。\[2\]
 
   -
     Cr(CH<sub>3</sub>COO)<sub>3</sub> + 6 KCN →

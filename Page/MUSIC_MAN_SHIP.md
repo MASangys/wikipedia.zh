@@ -3,7 +3,7 @@ SHIP**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikiped
 
 ## 簡介
 
-前作《[STRAIGHT](https://zh.wikipedia.org/wiki/STRAIGHT_\(可苦可樂專輯\) "wikilink")》約1年之後發行。\[1\]
+前作《[STRAIGHT](../Page/STRAIGHT_\(可苦可樂專輯\).md "wikilink")》約1年之後發行。\[1\]
 
 收錄了《[永遠在一起](https://zh.wikipedia.org/wiki/永遠在一起/Million_Films "wikilink")》和《[Million
 Films](https://zh.wikipedia.org/wiki/永遠在一起/Million_Films "wikilink")》兩首[單曲和合作單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[每天早晨與我同在。](https://zh.wikipedia.org/wiki/每天早晨與我同在。 "wikilink")》重新錄製了可苦可樂版本。

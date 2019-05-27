@@ -1,7 +1,7 @@
 **Google
 Camera**，**Google相机**或称**谷歌相机**是[Google为](../Page/Google.md "wikilink")[Android开发的](../Page/Android.md "wikilink")[相机应用程序](https://zh.wikipedia.org/wiki/相机 "wikilink")。最初运行在[Android
 4.4](https://zh.wikipedia.org/wiki/Android_4.4 "wikilink")
-KitKat及更高版本的设备上运行，但目前只在Google自己的[Nexus与](../Page/Google_Nexus.md "wikilink")[Pixel设备上进行官方支持](https://zh.wikipedia.org/wiki/Google_Pixel "wikilink")。它于2014年4月16日于[Google
+KitKat及更高版本的设备上运行，但目前只在Google自己的[Nexus与](../Page/Google_Nexus.md "wikilink")[Pixel设备上进行官方支持](../Page/Google_Pixel.md "wikilink")。它于2014年4月16日于[Google
 Play Store发布](../Page/Google_Play.md "wikilink")，用于 [Android
 4.4或更高版本](https://zh.wikipedia.org/wiki/Android_4.4 "wikilink")\[1\]，在2016年2月17日取消公开化\[2\]。
 
@@ -58,8 +58,7 @@ Google相机支持扫描式拍摄合成[全景照片](https://zh.wikipedia.org/w
 模拟虚化功能最早在初代应用上，以 **Lens Blur**
 出现，使用者拍摄完成需要向上平移手机，应用采样场景数据进行深度图计算，合成渲染具有虚化的场景。
 
-在[Pixel 2世代](https://zh.wikipedia.org/wiki/Pixel_2 "wikilink")，提供肖像模式
-*Portrait Mode*
+在[Pixel 2世代](../Page/Pixel_2.md "wikilink")，提供肖像模式 *Portrait Mode*
 ，可以在单镜头机型上实现虚化模拟。该功能基于HDR+，以[机器学习来识别画面中的主体与背景](../Page/机器学习.md "wikilink")，并且针对背景进行虚化处理，缺点是无法对前景进行虚化\[13\]\[14\]。
 
 ### 超分辨率变焦 Super Res Zoom
@@ -85,15 +84,15 @@ AR Stickers是2017年底宣布的一項功能，支持Pixel
 
 Google相机应用程序最初为开放安卓生态使用，之后随Pixel系列诞生，且具体功能依赖相关处理硬件而有限定运行。
 
-| Google手机机型                                                                  | 推出时间    | 中央处理器          |
-| --------------------------------------------------------------------------- | ------- | -------------- |
-| [Nexus 5](../Page/Nexus_5.md "wikilink")                                    | 2013-10 | Snapdragon 800 |
-| [Nexus 6](../Page/Nexus_6.md "wikilink")                                    | 2014-10 | Snapdragon 805 |
-| [Nexus 5X](../Page/Nexus_5X.md "wikilink")                                  | 2015-09 | Snapdragon 808 |
-| [Nexus 6P](../Page/Nexus_6P.md "wikilink")                                  | 2015-09 | Snapdragon 810 |
-| [Pixel & Pixel XL](https://zh.wikipedia.org/wiki/Pixel_\(智能手机\) "wikilink") | 2016-10 | Snapdragon 821 |
-| [Pixel 2 & Pixel 2 XL](https://zh.wikipedia.org/wiki/Pixel_2 "wikilink")    | 2017-10 | Snapdragon 835 |
-| [Pixel 3 & Pixel 3 XL](../Page/Pixel_3.md "wikilink")                       | 2018-10 | Snapdragon 845 |
+| Google手机机型                                               | 推出时间    | 中央处理器          |
+| -------------------------------------------------------- | ------- | -------------- |
+| [Nexus 5](../Page/Nexus_5.md "wikilink")                 | 2013-10 | Snapdragon 800 |
+| [Nexus 6](../Page/Nexus_6.md "wikilink")                 | 2014-10 | Snapdragon 805 |
+| [Nexus 5X](../Page/Nexus_5X.md "wikilink")               | 2015-09 | Snapdragon 808 |
+| [Nexus 6P](../Page/Nexus_6P.md "wikilink")               | 2015-09 | Snapdragon 810 |
+| [Pixel & Pixel XL](../Page/Pixel_\(智能手机\).md "wikilink") | 2016-10 | Snapdragon 821 |
+| [Pixel 2 & Pixel 2 XL](../Page/Pixel_2.md "wikilink")    | 2017-10 | Snapdragon 835 |
+| [Pixel 3 & Pixel 3 XL](../Page/Pixel_3.md "wikilink")    | 2018-10 | Snapdragon 845 |
 
 Google Camera支持机型\[22\]
 

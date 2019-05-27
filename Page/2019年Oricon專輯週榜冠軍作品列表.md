@@ -20,7 +20,7 @@
 <tr class="odd">
 <td><p>1月7日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a></p></td>
+<td><p><a href="../Page/星野源.md" title="wikilink">星野源</a></p></td>
 <td><p>原創</p></td>
 <td><p>4.5</p></td>
 <td><p>2</p></td>
@@ -99,7 +99,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/＃TWICE2" title="wikilink">#TWICE2</a></p></td>
+<td><p><a href="../Page/＃TWICE2.md" title="wikilink">#TWICE2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td><p>精選</p></td>
 <td><p>20.0</p></td>
@@ -115,7 +115,7 @@
 </tr>
 <tr class="odd">
 <td><p>4月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Best!_早安少女組。20th_Anniversary" title="wikilink">Best! 早安少女組。20th Anniversary</a></p></td>
+<td><p><a href="../Page/Best!_早安少女組。20th_Anniversary.md" title="wikilink">Best! 早安少女組。20th Anniversary</a></p></td>
 <td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。'19</a></p></td>
 <td><p>精選</p></td>
 <td><p>3.4</p></td>
@@ -147,7 +147,7 @@
 </tr>
 <tr class="odd">
 <td><p>4月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/直到此刻化成回憶" title="wikilink">直到此刻化成回憶</a></p></td>
+<td><p><a href="../Page/直到此刻化成回憶.md" title="wikilink">直到此刻化成回憶</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></p></td>
 <td><p>原創</p></td>
 <td><p>44.6</p></td>

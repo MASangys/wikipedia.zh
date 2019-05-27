@@ -12,7 +12,7 @@ BS4K**是[日本廣播协会](https://zh.wikipedia.org/wiki/日本廣播协会 "
 
 ## 参见
 
-  - [NHK BS8K](https://zh.wikipedia.org/wiki/NHK_BS8K "wikilink")
+  - [NHK BS8K](../Page/NHK_BS8K.md "wikilink")
 
 ## 参考资料
 

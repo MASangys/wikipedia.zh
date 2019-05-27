@@ -8,8 +8,8 @@ us**》，是韓國女子演唱團體[GFRIEND于](../Page/GFRIEND.md "wikilink")
 Lee Won Jong 聯手打造，歌詞將喜歡的人比喻成還沒升起的太陽，描寫少女面對愛情心裡複雜的感情。\[1\]
 
 此外，《Sunrise》為延續迷你6輯主打曲《[Time For The Moon
-Night](https://zh.wikipedia.org/wiki/Time_For_The_Moon_Night "wikilink")》，與《[Sunny
-Summer](https://zh.wikipedia.org/wiki/Sunny_Summer "wikilink")》合稱**太陽月亮三部曲**。
+Night](../Page/Time_For_The_Moon_Night.md "wikilink")》，與《[Sunny
+Summer](../Page/Sunny_Summer.md "wikilink")》合稱**太陽月亮三部曲**。
 
 ## 事件
 

@@ -5,7 +5,7 @@
 在2013年11月，提议的[阿斯塔纳](https://zh.wikipedia.org/wiki/阿斯塔納 "wikilink") -
 [阿拉木图高铁线的建设由于高昂的费用和对修建好后所产生的经济效应产生质疑而被推迟](https://zh.wikipedia.org/wiki/阿拉木圖 "wikilink")。\[1\]
 
-先前在2013年3月，哈萨克斯坦国内铁路公司---[哈萨克斯坦国家铁路公司给予赛思达公司设计和建造从](https://zh.wikipedia.org/wiki/哈萨克斯坦国家铁路 "wikilink")[阿斯塔纳](https://zh.wikipedia.org/wiki/阿斯塔納 "wikilink")
+先前在2013年3月，哈萨克斯坦国内铁路公司---[哈萨克斯坦国家铁路公司给予赛思达公司设计和建造从](../Page/哈萨克斯坦国家铁路.md "wikilink")[阿斯塔纳](https://zh.wikipedia.org/wiki/阿斯塔納 "wikilink")
 (首都)到[阿拉木图](https://zh.wikipedia.org/wiki/阿拉木圖 "wikilink")
 (最大的城市)高速铁路的权利。\[2\]\[3\]
 线路预计长为，而且经过[卡拉干达和](https://zh.wikipedia.org/wiki/卡拉干達 "wikilink")[巴尔喀什两个大城市](https://zh.wikipedia.org/wiki/巴爾喀什 "wikilink")。\[4\]\[5\]

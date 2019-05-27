@@ -9,7 +9,7 @@ Nusinersen可以治療脊髓性肌肉萎縮症。給藥方式為[脊髓鞘內注
 
 ## 副作用與不良反應
 
-Nusinersen有引起不良反應的風險。最為常見的不良反應包括[上呼吸道感染](../Page/上呼吸道感染.md "wikilink")、[肺炎](../Page/肺炎.md "wikilink")、[支氣管炎](https://zh.wikipedia.org/wiki/支氣管炎 "wikilink")、[便秘等等](../Page/便秘.md "wikilink")\[16\]\[17\]。較嚴重的不良反應中發生率最高的是\[18\]。在年紀稍大的受試者中，常見的不良反應則與[腰椎穿刺](https://zh.wikipedia.org/wiki/腰椎穿刺 "wikilink")相似，包括[頭痛](../Page/頭痛.md "wikilink")、[背痛等](../Page/背痛.md "wikilink")\[19\]\[20\]。另外，用藥的病童的身高成長有可能會較正常兒童緩慢，目前的證據並不足以判斷停藥之後nusinersen造成的生長遲緩是否會復原\[21\]。
+Nusinersen有引起不良反應的風險。最為常見的不良反應包括[上呼吸道感染](../Page/上呼吸道感染.md "wikilink")、[肺炎](../Page/肺炎.md "wikilink")、[支氣管炎](https://zh.wikipedia.org/wiki/支氣管炎 "wikilink")、[便秘等等](../Page/便秘.md "wikilink")\[16\]\[17\]。較嚴重的不良反應中發生率最高的是\[18\]。在年紀稍大的受試者中，常見的不良反應則與[腰椎穿刺](../Page/腰椎穿刺.md "wikilink")相似，包括[頭痛](../Page/頭痛.md "wikilink")、[背痛等](../Page/背痛.md "wikilink")\[19\]\[20\]。另外，用藥的病童的身高成長有可能會較正常兒童緩慢，目前的證據並不足以判斷停藥之後nusinersen造成的生長遲緩是否會復原\[21\]。
 
 與其他的[反義寡核苷酸類藥物相似](https://zh.wikipedia.org/wiki/反義寡核苷酸 "wikilink")，nusinersen可能會影響[腎功能](../Page/腎功能.md "wikilink")，並可能會造成[凝血功能異常](../Page/凝血.md "wikilink")\[22\]。其他反義核苷酸類藥物的試驗中，受試者曾發生嚴重程度不一的腎功能異常，最嚴重的案例是可能致命的。臨床試驗中使用nusinersen的受試者有33
 %的尿蛋白異常上升\[23\]。針對年紀較大的晚發性患者的試驗中則有69

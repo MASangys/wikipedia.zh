@@ -1,8 +1,7 @@
 **Mrs. GREEN
 APPLE**是2013年結成的[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，2015年由[環球音樂旗下的EMI](../Page/環球音樂_\(日本\).md "wikilink")
 Records出道，所屬事務所為[Theatre
-Academy](https://zh.wikipedia.org/wiki/Theatre_Academy "wikilink")。官方FC為「Ringo
-Jam」。
+Academy](../Page/Theatre_Academy.md "wikilink")。官方FC為「Ringo Jam」。
 
 ## 成員
 

@@ -89,16 +89,16 @@
 <tr class="even">
 <td><p>35</p></td>
 <td><p>3月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/和泉素行" title="wikilink">和泉素行</a>、<a href="../Page/布偉傑.md" title="wikilink">布偉傑</a></p></td>
+<td><p><a href="../Page/和泉素行.md" title="wikilink">和泉素行</a>、<a href="../Page/布偉傑.md" title="wikilink">布偉傑</a></p></td>
 <td><p>外籍藝人易搵食？</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/和泉素行" title="wikilink">和泉素行</a></p></td>
+<td><p><a href="../Page/和泉素行.md" title="wikilink">和泉素行</a></p></td>
 <td><p>$41,691</p></td>
 </tr>
 <tr class="odd">
 <td><p>36</p></td>
 <td><p>3月20日</p></td>
 <td><p><a href="../Page/HotCha.md" title="wikilink">HotCha</a>（<a href="../Page/張紋嘉.md" title="wikilink">張紋嘉</a>、<a href="../Page/張惠雅.md" title="wikilink">張惠雅</a>）、<br />
-<a href="https://zh.wikipedia.org/wiki/BINGO_(組合)" title="wikilink">Bingo</a>（、、）</p></td>
+<a href="../Page/BINGO_(組合).md" title="wikilink">Bingo</a>（、、）</p></td>
 <td><p>香港做女子組合真係咁困難？</p></td>
 <td><p><a href="../Page/HotCha.md" title="wikilink">HotCha</a>（<a href="../Page/張紋嘉.md" title="wikilink">張紋嘉</a>、<a href="../Page/張惠雅.md" title="wikilink">張惠雅</a>）</p></td>
 <td><p>$24,400</p></td>
@@ -130,7 +130,7 @@
 <tr class="odd">
 <td><p>40</p></td>
 <td><p>4月3日</p></td>
-<td><p><a href="../Page/雷深如.md" title="wikilink">J.Arie雷深如</a>[15][16]、<a href="https://zh.wikipedia.org/wiki/徐加晴" title="wikilink">徐加晴</a></p></td>
+<td><p><a href="../Page/雷深如.md" title="wikilink">J.Arie雷深如</a>[15][16]、<a href="../Page/徐加晴.md" title="wikilink">徐加晴</a></p></td>
 <td><p>為咗做歌手可以去到幾盡？</p></td>
 <td><p><a href="../Page/雷深如.md" title="wikilink">J.Arie雷深如</a></p></td>
 <td><p>$34,000</p></td>
@@ -138,17 +138,17 @@
 <tr class="even">
 <td><p>41</p></td>
 <td><p>4月9日</p></td>
-<td><p><a href="../Page/陳逸寧.md" title="wikilink">陳逸寧</a>、<a href="https://zh.wikipedia.org/wiki/丁可欣" title="wikilink">丁可欣</a></p></td>
+<td><p><a href="../Page/陳逸寧.md" title="wikilink">陳逸寧</a>、<a href="../Page/丁可欣.md" title="wikilink">丁可欣</a></p></td>
 <td><p>我不是<a href="../Page/恭喜八婆.md" title="wikilink">八婆</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/丁可欣" title="wikilink">丁可欣</a></p></td>
+<td><p><a href="../Page/丁可欣.md" title="wikilink">丁可欣</a></p></td>
 <td><p>$22,000</p></td>
 </tr>
 <tr class="odd">
 <td><p>42</p></td>
 <td><p>4月10日</p></td>
-<td><p><a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>[17][18]、<a href="https://zh.wikipedia.org/wiki/莫竣名" title="wikilink">莫竣名</a></p></td>
+<td><p><a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>[17][18]、<a href="../Page/莫竣名.md" title="wikilink">莫竣名</a></p></td>
 <td><p>男神咁易做？</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/莫竣名" title="wikilink">莫竣名</a></p></td>
+<td><p><a href="../Page/莫竣名.md" title="wikilink">莫竣名</a></p></td>
 <td><p>$55,240</p></td>
 </tr>
 <tr class="even">

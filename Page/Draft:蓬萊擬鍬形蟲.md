@@ -1,9 +1,9 @@
 **蓬萊擬鍬形蟲**（*Trictenotoma
-formosana*）為[擬鍬形蟲科成員](https://zh.wikipedia.org/wiki/擬鍬形蟲科 "wikilink")，[台灣特有種](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
+formosana*）為[擬鍬形蟲科成員](../Page/擬鍬形蟲科.md "wikilink")，[台灣特有種](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 ## 分類學
 
-本種為隸屬[鞘翅目](../Page/鞘翅目.md "wikilink")[擬步總科](https://zh.wikipedia.org/wiki/擬步總科 "wikilink")[擬鍬形蟲科的成員](https://zh.wikipedia.org/wiki/擬鍬形蟲科 "wikilink")。
+本種為隸屬[鞘翅目](../Page/鞘翅目.md "wikilink")[擬步總科](../Page/擬步總科.md "wikilink")[擬鍬形蟲科的成員](../Page/擬鍬形蟲科.md "wikilink")。
 
 ## 物種描述
 

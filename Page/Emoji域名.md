@@ -19,7 +19,7 @@ smile（我们微笑着）。\[4\]
 
   - 支持注册emoji域名的[域名注册商是有限的](https://zh.wikipedia.org/wiki/域名注册商 "wikilink")，不少域名注册商并不支持注册emoji域名这类国际化域名。\[6\]
   - emoji在不同的设备、[操作系统和](../Page/操作系统.md "wikilink")[字体下显示并不一定相同](../Page/字体.md "wikilink")，这可能会在辨认上造成一定的困扰\[7\]。并不是所有的网页浏览器都以同样的方式来表示emoji域名，例如在[Google
-    Chrome和](../Page/Google_Chrome.md "wikilink")[火狐浏览器的](https://zh.wikipedia.org/wiki/火狐浏览器 "wikilink")[地址栏中](https://zh.wikipedia.org/wiki/地址栏 "wikilink")，emoji域名并没有像在[Safari浏览器中那样直接显示](../Page/Safari.md "wikilink")，而是显示为经过国际化域名编码所编码后的ASCII域名\[8\]。
+    Chrome和](../Page/Google_Chrome.md "wikilink")[火狐浏览器的](https://zh.wikipedia.org/wiki/火狐浏览器 "wikilink")[地址栏中](../Page/地址栏.md "wikilink")，emoji域名并没有像在[Safari浏览器中那样直接显示](../Page/Safari.md "wikilink")，而是显示为经过国际化域名编码所编码后的ASCII域名\[8\]。
   - emoji由于是图示的形式，故单纯看图示可能会造成一定的误解和歧义，有一些emoji不同的人会有不同的解读\[9\]。
   - 个别emoji由于存在难以辨认问题，故[互联网名称与数字地址分配机构](../Page/互联网名称与数字地址分配机构.md "wikilink")[安全与稳定咨询委员会建议禁止emoji域名的使用](https://zh.wikipedia.org/wiki/安全与稳定咨询委员会 "wikilink")，因为这会增加[网络钓鱼事件](https://zh.wikipedia.org/wiki/网络钓鱼 "wikilink")。\[10\]
   - emoji的输入需要用到[输入法](../Page/输入法.md "wikilink")，较为麻烦。

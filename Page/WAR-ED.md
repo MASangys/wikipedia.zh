@@ -26,7 +26,7 @@ WHEEL](https://zh.wikipedia.org/wiki/MINAMI_WHEEL "wikilink")
 2010音乐节\[3\]。
 
 2011年2月开始自身第一次巡回演唱会。6月在SAKAE SP-RING
-2011与[植田真梨惠等Being艺人共演](https://zh.wikipedia.org/wiki/植田真梨惠 "wikilink")\[4\]。
+2011与[植田真梨惠等Being艺人共演](../Page/植田真梨惠.md "wikilink")\[4\]。
 
 2011年7月发表首张唱片《CONSTRUCTION》，同时麻井和山口退出乐队，改为支援乐手身份，此时乐队为山下和鹤泽二人编成。
 

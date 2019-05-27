@@ -3,7 +3,7 @@
 Unpacked
 2019發佈的[Android系統高階旗艦](../Page/Android.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，\[1\]是[三星Galaxy
 S系列中的第十代](../Page/三星Galaxy_S系列.md "wikilink")，承繼[Galaxy
-S9](https://zh.wikipedia.org/wiki/三星Galaxy_S9 "wikilink")。所有Galaxy
+S9](../Page/三星Galaxy_S9.md "wikilink")。所有Galaxy
 S10機型的屏幕均升級為三星研發的下一代Dynamic
 [AMOLED](../Page/AMOLED.md "wikilink")，支持HDR10+。\[2\]其中S10及S10+均為雙曲面玻璃屏幕，S10e
 則是平面螢幕版本。\[3\]該系列智能手機會採用名為Infinity-O的設計，\[4\]S10及S10+更會配置[超聲波屏下](../Page/超聲波.md "wikilink")[指紋識別](https://zh.wikipedia.org/wiki/指紋識別 "wikilink")\[5\]。搭配光學變焦F1.5/F2.4雙光圈鏡頭，可拍攝12MP相片，支援HDR+影片拍攝及短片拍攝穩定功能。另外，裝載一顆1600萬像素f/2.2光圈的123度視角（泛焦鏡頭）的廣角鏡頭。S10系列支援有線

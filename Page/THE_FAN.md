@@ -1,6 +1,6 @@
 **《THE
 FAN》**（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS "wikilink")2018年11月24日推出，由藝人推薦有潛質的新秀給觀眾認識的選秀節目，通過多輪表演能吸引最多支持者的新秀最終獲勝。
-[BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")、[柳喜烈](https://zh.wikipedia.org/wiki/柳喜烈 "wikilink")、[李尚敏](https://zh.wikipedia.org/wiki/李尚敏 "wikilink")、[金伊娜以Fan](../Page/金伊娜.md "wikilink")
+[BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")、[柳喜烈](../Page/柳喜烈.md "wikilink")、[李尚敏](../Page/李尚敏.md "wikilink")、[金伊娜以Fan](../Page/金伊娜.md "wikilink")
 Master的身份出演。
 
 ## 節目形式
@@ -32,8 +32,8 @@ Master的身份出演。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴容主" title="wikilink">YONGZOO</a>（）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴容主" title="wikilink">朴容主</a>（）</p></td>
+<td><p><a href="../Page/朴容主.md" title="wikilink">YONGZOO</a>（）</p></td>
+<td><p><a href="../Page/朴容主.md" title="wikilink">朴容主</a>（）</p></td>
 <td><ul>
 <li>《星動亞洲 Super Idol》第一，第二季優勝者</li>
 <li>韓國MBC Music及中國安徽衛視合辦</li>
@@ -58,7 +58,7 @@ Master的身份出演。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林智民" title="wikilink">林智民</a> （）</p></td>
+<td><p><a href="../Page/林智民.md" title="wikilink">林智民</a> （）</p></td>
 <td></td>
 <td><ul>
 <li>2001年5月22日出生</li>
@@ -118,22 +118,22 @@ Master的身份出演。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃禮志" title="wikilink">黃禮志</a> （）</p></td>
+<td><p><a href="../Page/黃禮志.md" title="wikilink">黃禮志</a> （）</p></td>
 <td></td>
 <td><ul>
 <li><a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂旗下秘密武器練習生</a></li>
-<li>節目後<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂旗下女團</a><a href="https://zh.wikipedia.org/wiki/ITZY" title="wikilink">ITZY出道</a></li>
+<li>節目後<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂旗下女團</a><a href="../Page/ITZY.md" title="wikilink">ITZY出道</a></li>
 </ul></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Car,_the_garden" title="wikilink">Car, the garden</a> （）</p></td>
+<td><p><a href="../Page/Car,_the_garden.md" title="wikilink">Car, the garden</a> （）</p></td>
 <td><p>車正元（）</p></td>
 <td><ul>
-<li>《<a href="https://zh.wikipedia.org/wiki/柳喜烈的寫生簿" title="wikilink">柳喜烈的寫生簿</a>》 20140822、20170415、<br />
+<li>《<a href="../Page/柳喜烈的寫生簿.md" title="wikilink">柳喜烈的寫生簿</a>》 20140822、20170415、<br />
 170422、20170429</li>
-<li>《<a href="https://zh.wikipedia.org/wiki/給你宇宙" title="wikilink">給你宇宙</a>》、《Finding Heros: Geek Tour》</li>
+<li>《<a href="../Page/給你宇宙.md" title="wikilink">給你宇宙</a>》、《Finding Heros: Geek Tour》</li>
 <li>歌迷取名為「定員超過（정원초과）」[6]</li>
 </ul></td>
 <td><ul>
@@ -182,7 +182,7 @@ Master的身份出演。
 <td><p><a href="https://zh.wikipedia.org/wiki/趙淵浩" title="wikilink">趙淵浩</a> （）</p></td>
 <td></td>
 <td><ul>
-<li>《<a href="https://zh.wikipedia.org/wiki/Fantastic_Duo_2" title="wikilink">Fantastic Duo 2</a>》 金煙雨篇</li>
+<li>《<a href="../Page/Fantastic_Duo_2.md" title="wikilink">Fantastic Duo 2</a>》 金煙雨篇</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -216,7 +216,7 @@ Master的身份出演。
 <td></td>
 <td><ul>
 <li>DH PLAY Ent‏旗下歌手</li>
-<li>《<a href="https://zh.wikipedia.org/wiki/柳喜烈的寫生簿" title="wikilink">柳喜烈的寫生簿</a>》 20170304、20180113</li>
+<li>《<a href="../Page/柳喜烈的寫生簿.md" title="wikilink">柳喜烈的寫生簿</a>》 20170304、20180113</li>
 </ul></td>
 <td><ul>
 <li></li>
@@ -251,7 +251,7 @@ Master的身份出演。
 </tr>
 <tr class="even">
 <td><p><a href="../Page/韓彩英.md" title="wikilink">韓彩英</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴容主" title="wikilink">YONGZOO</a>]</p></td>
+<td><p><a href="../Page/朴容主.md" title="wikilink">YONGZOO</a>]</p></td>
 <td><p>《Try》</p></td>
 <td><p>晉級</p></td>
 <td></td>
@@ -265,7 +265,7 @@ Master的身份出演。
 </tr>
 <tr class="even">
 <td><p><a href="../Page/朴素賢.md" title="wikilink">朴素賢</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林智民" title="wikilink">林智民</a></p></td>
+<td><p><a href="../Page/林智民.md" title="wikilink">林智民</a></p></td>
 <td><p><a href="../Page/大衛·庫塔_(DJ).md" title="wikilink">David Guetta</a> ft <a href="https://zh.wikipedia.org/wiki/小賈斯汀" title="wikilink">小賈斯汀</a>《2U》</p></td>
 <td><p>晉級</p></td>
 <td></td>
@@ -300,15 +300,15 @@ Master的身份出演。
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李俊昊" title="wikilink">李俊昊</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃禮志" title="wikilink">黃禮志</a></p></td>
+<td><p><a href="../Page/黃禮志.md" title="wikilink">黃禮志</a></p></td>
 <td><p>Zara Larsson《Ain't My Fault》</p></td>
 <td><p>晉級</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>張慧珍</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Car,_the_garden" title="wikilink">Car, the garden</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Car,_the_garden" title="wikilink">Car, the garden</a>《Home Sweet Home》</p></td>
+<td><p><a href="../Page/Car,_the_garden.md" title="wikilink">Car, the garden</a></p></td>
+<td><p><a href="../Page/Car,_the_garden.md" title="wikilink">Car, the garden</a>《Home Sweet Home》</p></td>
 <td><p>晉級</p></td>
 <td></td>
 </tr>
@@ -377,7 +377,7 @@ Master的身份出演。
 ### 第二輪：三選一
 
 <table>
-<caption>Fan Master: <a href="https://zh.wikipedia.org/wiki/李相花" title="wikilink">李相花</a>、<a href="https://zh.wikipedia.org/wiki/鄭世雲" title="wikilink">郑世云</a></caption>
+<caption>Fan Master: <a href="../Page/李相花.md" title="wikilink">李相花</a>、<a href="https://zh.wikipedia.org/wiki/鄭世雲" title="wikilink">郑世云</a></caption>
 <thead>
 <tr class="header">
 <th><p>集數</p></th>
@@ -418,7 +418,7 @@ Master的身份出演。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Car,_the_garden" title="wikilink">Car, the garden</a></p></td>
+<td><p><a href="../Page/Car,_the_garden.md" title="wikilink">Car, the garden</a></p></td>
 <td><p>《Myeong-dong Calling》</p></td>
 <td><p>253票、小組第一晉級</p></td>
 <td></td>
@@ -426,7 +426,7 @@ Master的身份出演。
 </tr>
 <tr class="even">
 <td><p>BIBI</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>《Peek-A-Boo》</p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>《Peek-A-Boo》</p></td>
 <td><p>231票</p></td>
 <td></td>
 <td></td>
@@ -435,11 +435,11 @@ Master的身份出演。
 <td><p>EP05</p></td>
 <td><p>第三組 抒情歌手</p></td>
 <td><p>趙淵浩</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韓東根" title="wikilink">韓東根</a>《名為你的奢侈》</p></td>
+<td><p><a href="../Page/韓東根.md" title="wikilink">韓東根</a>《名為你的奢侈》</p></td>
 <td><p>198票</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴容主" title="wikilink">YONGZOO</a></p></td>
+<td><p><a href="../Page/朴容主.md" title="wikilink">YONGZOO</a></p></td>
 <td><p>《Only we know》（）</p></td>
 <td><p>264票、小組第一晉級</p></td>
 <td></td>
@@ -454,14 +454,14 @@ Master的身份出演。
 </tr>
 <tr class="even">
 <td><p>第四組 表演歌手</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃禮志" title="wikilink">黃禮志</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/杜娃·黎波" title="wikilink">杜娃·黎波</a>《New Rules》</p></td>
+<td><p><a href="../Page/黃禮志.md" title="wikilink">黃禮志</a></p></td>
+<td><p><a href="../Page/杜娃·黎波.md" title="wikilink">杜娃·黎波</a>《New Rules》</p></td>
 <td><p>224票</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/林智民" title="wikilink">林智民</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/捷德" title="wikilink">捷德</a>、<a href="https://zh.wikipedia.org/wiki/艾莉西亞·卡拉" title="wikilink">艾莉西亞·卡拉</a>《Stay》</p></td>
+<td><p><a href="../Page/林智民.md" title="wikilink">林智民</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/捷德" title="wikilink">捷德</a>、<a href="../Page/艾莉西亞·卡拉.md" title="wikilink">艾莉西亞·卡拉</a>《Stay》</p></td>
 <td><p>248票</p></td>
 <td></td>
 <td></td>
@@ -506,14 +506,14 @@ Master的身份出演。
 </tr>
 <tr class="odd">
 <td><p>第二組</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃禮志" title="wikilink">黃禮志</a></p></td>
+<td><p><a href="../Page/黃禮志.md" title="wikilink">黃禮志</a></p></td>
 <td><p>N'Sync 《POP》</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Car,_the_garden" title="wikilink">Car, the garden</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Car,_the_garden" title="wikilink">Car, the garden</a> 《如果扶起我》</p></td>
+<td><p><a href="../Page/Car,_the_garden.md" title="wikilink">Car, the garden</a></p></td>
+<td><p><a href="../Page/Car,_the_garden.md" title="wikilink">Car, the garden</a> 《如果扶起我》</p></td>
 <td><p>晉級</p></td>
 <td></td>
 <td></td>
@@ -521,7 +521,7 @@ Master的身份出演。
 <tr class="odd">
 <td><p>EP07</p></td>
 <td><p>第三組</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴容主" title="wikilink">YONGZOO</a></p></td>
+<td><p><a href="../Page/朴容主.md" title="wikilink">YONGZOO</a></p></td>
 <td><p>鮮于正雅《求愛》</p></td>
 <td><p>晉級</p></td>
 </tr>
@@ -548,7 +548,7 @@ Master的身份出演。
 </tr>
 <tr class="odd">
 <td><p>第五組</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林智民" title="wikilink">林智民</a></p></td>
+<td><p><a href="../Page/林智民.md" title="wikilink">林智民</a></p></td>
 <td><p><a href="../Page/泰民.md" title="wikilink">泰民</a> 《Goodbye》</p></td>
 <td></td>
 <td></td>
@@ -565,16 +565,16 @@ Master的身份出演。
 
 ### 第四轮：晋级Top5
 
-| 集数                                                                          | 出演者                                                                                        | 曲目                                     | 现场票数 |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------- | ---- |
-| EP08                                                                        | Youra                                                                                      | Youra 《You》                            | 237票 |
-| 宋旼宰、卢辉俊                                                                     | [BoA](../Page/寶兒.md "wikilink") 《No. 1》                                                    | 327票                                   |      |
-| TWLV                                                                        | VEN 《너의 몸에 벤 On Your Body》                                                                 | 441票                                   |      |
-| [Car, the Garden](https://zh.wikipedia.org/wiki/Car,_the_garden "wikilink") | Jannabi 《SHE》                                                                              | 378票                                   |      |
-| EP09                                                                        | CokeBath                                                                                   | [孝琳](../Page/孝琳.md "wikilink") 《Dally》 | 242票 |
-| [林智民](https://zh.wikipedia.org/wiki/林智民 "wikilink")                         | [賈斯汀·提姆布萊克](https://zh.wikipedia.org/wiki/賈斯汀·提姆布萊克 "wikilink") 《Can't Stop the Feeling\!》 | 435票                                   |      |
-| [YONGZOO](https://zh.wikipedia.org/wiki/YONGZOO "wikilink")                 | 015B 《暂时迷路》                                                                                | 480票                                   |      |
-| BIBI                                                                        | BIBI 《Fly with Me》                                                                         | 450票                                   |      |
+| 集数                                                          | 出演者                                                                                        | 曲目                                     | 现场票数 |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------- | ---- |
+| EP08                                                        | Youra                                                                                      | Youra 《You》                            | 237票 |
+| 宋旼宰、卢辉俊                                                     | [BoA](../Page/寶兒.md "wikilink") 《No. 1》                                                    | 327票                                   |      |
+| TWLV                                                        | VEN 《너의 몸에 벤 On Your Body》                                                                 | 441票                                   |      |
+| [Car, the Garden](../Page/Car,_the_garden.md "wikilink")    | Jannabi 《SHE》                                                                              | 378票                                   |      |
+| EP09                                                        | CokeBath                                                                                   | [孝琳](../Page/孝琳.md "wikilink") 《Dally》 | 242票 |
+| [林智民](../Page/林智民.md "wikilink")                            | [賈斯汀·提姆布萊克](https://zh.wikipedia.org/wiki/賈斯汀·提姆布萊克 "wikilink") 《Can't Stop the Feeling\!》 | 435票                                   |      |
+| [YONGZOO](https://zh.wikipedia.org/wiki/YONGZOO "wikilink") | 015B 《暂时迷路》                                                                                | 480票                                   |      |
+| BIBI                                                        | BIBI 《Fly with Me》                                                                         | 450票                                   |      |
 
 Fan Master:
 [张允柱](../Page/張允柱.md "wikilink")、[朴山多拉](https://zh.wikipedia.org/wiki/Dara "wikilink")、
@@ -583,25 +583,25 @@ Fan Master:
 
 ### 第五轮：晋级Top3
 
-| 集数                                                                          | 出演者                                                                                                                | 曲目                                                               | 備註 |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- | -- |
-| EP10                                                                        | [YONGZOO](https://zh.wikipedia.org/wiki/朴容主 "wikilink")                                                            | TOY Ft. [權珍雅](https://zh.wikipedia.org/wiki/權珍雅 "wikilink") 《她說》 |    |
-| [林智民](https://zh.wikipedia.org/wiki/林智民 "wikilink")                         | [Justin Bieber](https://zh.wikipedia.org/wiki/Justin_Bieber "wikilink") ft. Big Sean 《As Long As You Love Me 》     | 晉級                                                               |    |
-| [Car, the Garden](https://zh.wikipedia.org/wiki/Car,_the_garden "wikilink") | The Black Skirts 《Wait More》 [又，吳海英](../Page/又，吳海英.md "wikilink") OST                                              | 晉級                                                               |    |
-| BIBI                                                                        | Primary ft. [崔子](https://zh.wikipedia.org/wiki/崔子 "wikilink") [Zion.T](../Page/Zion.T.md "wikilink") 《See Through》 | 晉級                                                               |    |
-| TWLV                                                                        | [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink") 《Guilty》                                                          |                                                                  |    |
+| 集数                                                       | 出演者                                                                                                                | 曲目                                            | 備註 |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- | -- |
+| EP10                                                     | [YONGZOO](../Page/朴容主.md "wikilink")                                                                               | TOY Ft. [權珍雅](../Page/權珍雅.md "wikilink") 《她說》 |    |
+| [林智民](../Page/林智民.md "wikilink")                         | [Justin Bieber](https://zh.wikipedia.org/wiki/Justin_Bieber "wikilink") ft. Big Sean 《As Long As You Love Me 》     | 晉級                                            |    |
+| [Car, the Garden](../Page/Car,_the_garden.md "wikilink") | The Black Skirts 《Wait More》 [又，吳海英](../Page/又，吳海英.md "wikilink") OST                                              | 晉級                                            |    |
+| BIBI                                                     | Primary ft. [崔子](https://zh.wikipedia.org/wiki/崔子 "wikilink") [Zion.T](../Page/Zion.T.md "wikilink") 《See Through》 | 晉級                                            |    |
+| TWLV                                                     | [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink") 《Guilty》                                                          |                                               |    |
 
 ### 第六轮：準決賽
 
-| 集数                                                                                                                                                          | 出演者                                                                              | 曲目  | 備註 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --- | -- |
-| EP11                                                                                                                                                        |                                                                                  |     |    |
-| BIBI                                                                                                                                                        | [Block B](../Page/Block_B.md "wikilink")《何時何地做什麼怎麼辦》                             |     |    |
-| [Car, the Garden](https://zh.wikipedia.org/wiki/Car,_the_garden "wikilink")                                                                                 | [Car, the Garden](https://zh.wikipedia.org/wiki/Car,_the_garden "wikilink")《待機室》 |     |    |
-| [林智民](https://zh.wikipedia.org/wiki/林智民 "wikilink")                                                                                                         | [Bruno Mars](https://zh.wikipedia.org/wiki/Bruno_Mars "wikilink")《Uptown Funk》   | 第三名 |    |
-| BIBI、[尹未來](../Page/尹未來.md "wikilink")                                                                                                                       | BIBI《偷走你心的盜賊》                                                                    | 晉級  |    |
-| [Car, the Garden](https://zh.wikipedia.org/wiki/Car,_the_garden "wikilink")、                                                                                | [Hyukoh](../Page/Hyukoh.md "wikilink")《TOMBOY》                                   | 晉級  |    |
-| [林智民](https://zh.wikipedia.org/wiki/林智民 "wikilink")、[宋旼宰](https://zh.wikipedia.org/wiki/宋旼宰 "wikilink")、[盧輝俊](https://zh.wikipedia.org/wiki/盧輝俊 "wikilink") | [Ed Sheeran](https://zh.wikipedia.org/wiki/Ed_Sheeran "wikilink")《Shape of You》  |     |    |
+| 集数                                                                                                                                       | 出演者                                                                             | 曲目  | 備註 |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | --- | -- |
+| EP11                                                                                                                                     |                                                                                 |     |    |
+| BIBI                                                                                                                                     | [Block B](../Page/Block_B.md "wikilink")《何時何地做什麼怎麼辦》                            |     |    |
+| [Car, the Garden](../Page/Car,_the_garden.md "wikilink")                                                                                 | [Car, the Garden](../Page/Car,_the_garden.md "wikilink")《待機室》                   |     |    |
+| [林智民](../Page/林智民.md "wikilink")                                                                                                         | [Bruno Mars](https://zh.wikipedia.org/wiki/Bruno_Mars "wikilink")《Uptown Funk》  | 第三名 |    |
+| BIBI、[尹未來](../Page/尹未來.md "wikilink")                                                                                                    | BIBI《偷走你心的盜賊》                                                                   | 晉級  |    |
+| [Car, the Garden](../Page/Car,_the_garden.md "wikilink")、                                                                                | [Hyukoh](../Page/Hyukoh.md "wikilink")《TOMBOY》                                  | 晉級  |    |
+| [林智民](../Page/林智民.md "wikilink")、[宋旼宰](https://zh.wikipedia.org/wiki/宋旼宰 "wikilink")、[盧輝俊](https://zh.wikipedia.org/wiki/盧輝俊 "wikilink") | [Ed Sheeran](https://zh.wikipedia.org/wiki/Ed_Sheeran "wikilink")《Shape of You》 |     |    |
 
 ### 最終回：決賽
 
@@ -628,13 +628,13 @@ Fan Master:
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Car,_the_garden" title="wikilink">Car, the Garden</a></p></td>
+<td><p><a href="../Page/Car,_the_garden.md" title="wikilink">Car, the Garden</a></p></td>
 <td><p><a href="../Page/申海澈.md" title="wikilink">申海澈</a>《再見》</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林智民" title="wikilink">林智民</a>、<a href="https://zh.wikipedia.org/wiki/YONGZOO" title="wikilink">YONGZOO</a>、TWLV</p></td>
+<td><p><a href="../Page/林智民.md" title="wikilink">林智民</a>、<a href="https://zh.wikipedia.org/wiki/YONGZOO" title="wikilink">YONGZOO</a>、TWLV</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/朴宰範" title="wikilink">朴宰範</a> 《JOAH》</p></td>
 <td><p>Top 5表演舞台</p></td>
 <td></td>
@@ -646,14 +646,14 @@ Fan Master:
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Car,_the_garden" title="wikilink">Car, the Garden</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Car,_the_garden" title="wikilink">Car, the Garden</a>《Together》</p></td>
+<td><p><a href="../Page/Car,_the_garden.md" title="wikilink">Car, the Garden</a></p></td>
+<td><p><a href="../Page/Car,_the_garden.md" title="wikilink">Car, the Garden</a>《Together》</p></td>
 <td><p>第一名</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>、CokeBath、Youra、<a href="https://zh.wikipedia.org/wiki/YONGZOO" title="wikilink">YONGZOO</a>、<br />
-TWLV、<a href="https://zh.wikipedia.org/wiki/林智民" title="wikilink">林智民</a>、<a href="https://zh.wikipedia.org/wiki/宋旼宰" title="wikilink">宋旼宰</a>、<a href="https://zh.wikipedia.org/wiki/盧輝俊" title="wikilink">盧輝俊</a></p></td>
+TWLV、<a href="../Page/林智民.md" title="wikilink">林智民</a>、<a href="https://zh.wikipedia.org/wiki/宋旼宰" title="wikilink">宋旼宰</a>、<a href="https://zh.wikipedia.org/wiki/盧輝俊" title="wikilink">盧輝俊</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/狂戀樂團" title="wikilink">Loveholics</a>《Butterfly》</p></td>
 <td><p>The Fan特別舞台</p></td>
 <td></td>
@@ -672,11 +672,11 @@ TWLV、<a href="https://zh.wikipedia.org/wiki/林智民" title="wikilink">林智
   - [THE FAN
     TOP3是指](https://zh.wikipedia.org/wiki/THE_FAN_TOP3 "wikilink")[Car,
     the
-    garden](https://zh.wikipedia.org/wiki/Car,_the_garden "wikilink")、[BIBI](https://zh.wikipedia.org/wiki/BIBI "wikilink")、[林智民](https://zh.wikipedia.org/wiki/林智民 "wikilink")。
+    garden](../Page/Car,_the_garden.md "wikilink")、[BIBI](https://zh.wikipedia.org/wiki/BIBI "wikilink")、[林智民](../Page/林智民.md "wikilink")。
   - [THE FAN
     TOP5是指](https://zh.wikipedia.org/wiki/THE_FAN_TOP5 "wikilink")[Car,
     the
-    garden](https://zh.wikipedia.org/wiki/Car,_the_garden "wikilink")、[BIBI](https://zh.wikipedia.org/wiki/BIBI "wikilink")、[林智民](https://zh.wikipedia.org/wiki/林智民 "wikilink")、[YONGZOO](https://zh.wikipedia.org/wiki/YONGZOO "wikilink")、[TWLV](https://zh.wikipedia.org/wiki/TWLV "wikilink")。
+    garden](../Page/Car,_the_garden.md "wikilink")、[BIBI](https://zh.wikipedia.org/wiki/BIBI "wikilink")、[林智民](../Page/林智民.md "wikilink")、[YONGZOO](https://zh.wikipedia.org/wiki/YONGZOO "wikilink")、[TWLV](https://zh.wikipedia.org/wiki/TWLV "wikilink")。
   - TOP5從3月開始以《THE FAN》為媒介的一年限定活動。\[7\]
   - TOP5將參加3月2日舉辦的聯合演唱會“THE FAN LIVE ON-AIR”。
   - 之後每個藝人將分別推出2張個人專輯，並製作聯合專輯，活動持續約1年時間，直到2020年2月。

@@ -3,7 +3,7 @@
 
 ## 生平
 
-葛蘭茨出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")，畢業於[维吉尼亚军事学院](../Page/维吉尼亚军事学院.md "wikilink")、[北卡罗来纳大学教堂山分校](../Page/北卡罗来纳大学教堂山分校.md "wikilink")、[美國陸軍指揮參謀學院以及](https://zh.wikipedia.org/wiki/美國陸軍指揮參謀學院 "wikilink")[國防語言學院](../Page/美国国防语言学院.md "wikilink")，於1965年以少尉軍官身份進入美國陸軍野戰砲兵服役，並被佈署於[越南戰爭中越南](https://zh.wikipedia.org/wiki/越南戰爭 "wikilink")[平隆省](https://zh.wikipedia.org/wiki/平隆省 "wikilink")的「」。1969年，葛蘭茨返回美國，於陸軍指揮參謀學院教授戰爭史。1973年7月1日，美軍於[陸軍訓練與條令司令部下開設](https://zh.wikipedia.org/wiki/美國陸軍訓練與條令司令部 "wikilink")「戰鬥研究中心」（Combat
+葛蘭茨出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")，畢業於[维吉尼亚军事学院](../Page/维吉尼亚军事学院.md "wikilink")、[北卡罗来纳大学教堂山分校](../Page/北卡罗来纳大学教堂山分校.md "wikilink")、[美國陸軍指揮參謀學院以及](../Page/美國陸軍指揮參謀學院.md "wikilink")[國防語言學院](../Page/美国国防语言学院.md "wikilink")，於1965年以少尉軍官身份進入美國陸軍野戰砲兵服役，並被佈署於[越南戰爭中越南](https://zh.wikipedia.org/wiki/越南戰爭 "wikilink")[平隆省](https://zh.wikipedia.org/wiki/平隆省 "wikilink")的「」。1969年，葛蘭茨返回美國，於陸軍指揮參謀學院教授戰爭史。1973年7月1日，美軍於[陸軍訓練與條令司令部下開設](https://zh.wikipedia.org/wiki/美國陸軍訓練與條令司令部 "wikilink")「戰鬥研究中心」（Combat
 Studies
 Institute），葛蘭茨參與該中心的蘇軍研究項目。1977年至1979年，他再出任美國駐歐陸軍司令部情報參謀辦公室主任。1979年當上了陸軍戰鬥研究首席研究員，1983年又再擔任「陸戰中心蘇聯軍作戰研究處」（Office
 of Soviet Army Operations at the Center for Land

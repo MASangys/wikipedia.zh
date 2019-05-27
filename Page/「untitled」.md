@@ -4,7 +4,7 @@ Storm](../Page/J_Storm.md "wikilink")。
 ## 概要
 
   - 與上一張原創專輯《[Are You
-    Happy?](https://zh.wikipedia.org/wiki/Are_You_Happy? "wikilink")》相距約1年。
+    Happy?](../Page/Are_You_Happy?.md "wikilink")》相距約1年。
   - 收錄第50張單曲「Power of the Paradise」、第51張單曲「I'll be
     there」、第52張單曲「繫」，一共3首A面曲。
   - 新曲《「未完」》為此專輯主打曲目。

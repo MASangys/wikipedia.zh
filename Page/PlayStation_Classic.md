@@ -1,5 +1,5 @@
 **PlayStation
-Classic**是[索尼互动娱乐开发和发售的一款](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")[专用游戏机](https://zh.wikipedia.org/wiki/专用游戏机 "wikilink")，为1994年推出的[PlayStation之](../Page/PlayStation_\(遊戲機\).md "wikilink")[复刻版](https://zh.wikipedia.org/wiki/复刻版 "wikilink")，2018年9月在[东京电玩展上公布](../Page/东京电玩展.md "wikilink")，2018年12月3日（即PlayStation发行24周年纪念日）在全球限量发售。其主要竞争对手为[任天堂推出的](../Page/任天堂.md "wikilink")[迷你红白机和](../Page/迷你红白机.md "wikilink")[迷你超级任天堂](https://zh.wikipedia.org/wiki/迷你超级任天堂 "wikilink")。\[1\]
+Classic**是[索尼互动娱乐开发和发售的一款](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")[专用游戏机](https://zh.wikipedia.org/wiki/专用游戏机 "wikilink")，为1994年推出的[PlayStation之](../Page/PlayStation_\(遊戲機\).md "wikilink")[复刻版](https://zh.wikipedia.org/wiki/复刻版 "wikilink")，2018年9月在[东京电玩展上公布](../Page/东京电玩展.md "wikilink")，2018年12月3日（即PlayStation发行24周年纪念日）在全球限量发售。其主要竞争对手为[任天堂推出的](../Page/任天堂.md "wikilink")[迷你红白机和](../Page/迷你红白机.md "wikilink")[迷你超级任天堂](../Page/迷你超级任天堂.md "wikilink")。\[1\]
 
 ## 规格及功能
 
@@ -35,7 +35,7 @@ Classic内置了20款PlayStation游戏，其中包括《[生化危机](../Page/�
 <li><em></em></li>
 <li><em></em></li>
 <li><a href="../Page/生化危机_(1996年游戏).md" title="wikilink">生化危机：导演剪辑版</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/女神异闻录Persona" title="wikilink">女神异闻录Persona</a></li>
+<li><a href="../Page/女神异闻录Persona.md" title="wikilink">女神异闻录Persona</a></li>
 <li><em></em></li>
 <li><a href="https://zh.wikipedia.org/wiki/铁拳3" title="wikilink">铁拳3</a></li>
 <li><a href="../Page/狂野歷險_(遊戲).md" title="wikilink">狂野歷險</a></li>
@@ -51,7 +51,7 @@ Classic内置了20款PlayStation游戏，其中包括《[生化危机](../Page/�
 <li><em></em></li>
 </ul></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/亞克傳承_(遊戲)" title="wikilink">亞克傳承</a></li>
+<li><a href="../Page/亞克傳承_(遊戲).md" title="wikilink">亞克傳承</a></li>
 <li></li>
 <li><em></em></li>
 <li><em></em></li>

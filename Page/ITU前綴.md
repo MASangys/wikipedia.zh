@@ -80,7 +80,7 @@
 | EZ                  | [土库曼斯坦](../Page/土库曼斯坦.md "wikilink")                                                         |
 | E2                  | [泰国](../Page/泰国.md "wikilink")                                                               |
 | E3                  | [厄立特里亚](../Page/厄立特里亚.md "wikilink")                                                         |
-| E4                  | [巴勒斯坦](https://zh.wikipedia.org/wiki/巴勒斯坦 "wikilink")                                        |
+| E4                  | [巴勒斯坦](../Page/巴勒斯坦.md "wikilink")                                                           |
 | E5                  | [库克群岛](../Page/库克群岛.md "wikilink")                                                           |
 | E6                  | [纽埃](../Page/紐埃.md "wikilink")                                                               |
 | E7                  | [波斯尼亚和黑塞哥维那](../Page/波斯尼亚和黑塞哥维那.md "wikilink")                                               |

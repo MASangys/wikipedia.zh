@@ -1,5 +1,5 @@
 《**LIVE 2004
-〜en〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z主唱](../Page/B'z.md "wikilink")[稻葉浩志的影像作品](../Page/稻葉浩志.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月22日發售](../Page/12月22日.md "wikilink")。
+〜en〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z主唱](../Page/B'z.md "wikilink")[稻葉浩志的影像作品](../Page/稻葉浩志.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月22日發售](../Page/12月22日.md "wikilink")。
 
 ## 概要
 
@@ -23,7 +23,7 @@
 
   - [德永曉人](../Page/德永曉人.md "wikilink")：[和聲](../Page/和聲歌手.md "wikilink")
 
-  - [大田紳一郎](https://zh.wikipedia.org/wiki/大田紳一郎 "wikilink")：和聲
+  - [大田紳一郎](../Page/大田紳一郎.md "wikilink")：和聲
 
 ## 收錄影像曲
 
@@ -47,7 +47,7 @@
 12. **水平線**
       -
         稻葉再次僅主唱。
-13. **[Wonderland](https://zh.wikipedia.org/wiki/Wonderland "wikilink")**
+13. **[Wonderland](../Page/Wonderland.md "wikilink")**
 
 ### DISC2
 

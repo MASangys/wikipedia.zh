@@ -3,7 +3,7 @@ polycephalum)是一种生活在腐烂的树叶、木头等阴凉潮湿环境的[
 
 ## 特征
 
-多头绒泡菌可以用肉眼观察到，通常为黄色，以[真菌](https://zh.wikipedia.org/wiki/真菌 "wikilink")[孢子](../Page/孢子.md "wikilink")、[细菌等](../Page/细菌.md "wikilink")[微生物为食](../Page/微生物.md "wikilink")。它是一种最容易培养的真核微生物，在许多研究中用做[模式生物](../Page/模式生物.md "wikilink")，比如变形虫运动和[移動性
+多头绒泡菌可以用肉眼观察到，通常为黄色，以[真菌](../Page/真菌.md "wikilink")[孢子](../Page/孢子.md "wikilink")、[细菌等](../Page/细菌.md "wikilink")[微生物为食](../Page/微生物.md "wikilink")。它是一种最容易培养的真核微生物，在许多研究中用做[模式生物](../Page/模式生物.md "wikilink")，比如变形虫运动和[移動性
 (生物體)](https://zh.wikipedia.org/wiki/移動性_\(生物體\) "wikilink")。\[1\]
 
 ## 生命周期

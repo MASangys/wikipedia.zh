@@ -1,4 +1,4 @@
-***Agriopoma***是[帘蛤科的](../Page/帘蛤科.md "wikilink")[海洋](https://zh.wikipedia.org/wiki/海洋生物 "wikilink")[双壳纲](../Page/双壳纲.md "wikilink")[软体动物的一個](../Page/软体动物.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")。本屬原是[文蛤屬的亞屬](https://zh.wikipedia.org/wiki/文蛤屬 "wikilink")，今獨立出來。
+***Agriopoma***是[帘蛤科的](../Page/帘蛤科.md "wikilink")[海洋](https://zh.wikipedia.org/wiki/海洋生物 "wikilink")[双壳纲](../Page/双壳纲.md "wikilink")[软体动物的一個](../Page/软体动物.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")。本屬原是[文蛤屬的亞屬](../Page/文蛤屬.md "wikilink")，今獨立出來。
 
 ## 物種
 

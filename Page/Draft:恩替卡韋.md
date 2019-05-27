@@ -16,7 +16,7 @@
 
 恩替卡韋為藥片或藥水，以口服方式食用。\[3\]
 
-普遍的副作用包含頭痛，噁心，[高血糖和腎功能下降](https://zh.wikipedia.org/wiki/高血糖 "wikilink")。\[4\]如果停止藥物，嚴重的副作用包跨
+普遍的副作用包含頭痛，噁心，[高血糖和腎功能下降](../Page/高血糖.md "wikilink")。\[4\]如果停止藥物，嚴重的副作用包跨
 ，[酸性酸中毒](https://zh.wikipedia.org/wiki/乳酸性酸中毒 "wikilink")，和[肝炎](https://zh.wikipedia.org/wiki/肝炎 "wikilink")。\[5\]
 
 然而，在懷孕期間似無不會影響，但這種用途尚未得到很好的研究。\[6\]恩替卡韋是藥物核苷逆轉錄酶抑製劑[nucleoside reverse
@@ -106,7 +106,7 @@ replication](../Page/DNA复制.md "wikilink") and
 nucleoside and nucleotide analogues include
 [lamivudine](../Page/拉米夫定.md "wikilink"), , [adefovir
 dipivoxil](../Page/阿德福韦.md "wikilink"), and
-[tenofovir](https://zh.wikipedia.org/wiki/替诺福韦二吡呋酯 "wikilink").
+[tenofovir](../Page/替诺福韦二吡呋酯.md "wikilink").
 
 Entecavir reduces the amount of HBV in the blood by reducing its ability
 to multiply and infect new cells.\[32\]

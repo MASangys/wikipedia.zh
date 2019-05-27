@@ -1,4 +1,4 @@
-**狐蛤科**（學名：）是[双壳纲](../Page/双壳纲.md "wikilink")[软体动物的一個科](../Page/软体动物.md "wikilink")，舊屬簾蛤目，今屬。現時本科包括的物種約130個現生種，分屬於十個[属](https://zh.wikipedia.org/wiki/属 "wikilink")，廣泛分配於世界各地的深淺海洋裡。本科物種的特色是會在海床以其[足絲築巢居住](https://zh.wikipedia.org/wiki/足絲 "wikilink")。其長長的[外套膜可變成觸手](https://zh.wikipedia.org/wiki/外套膜 "wikilink")，以協助在海裡游泳。
+**狐蛤科**（學名：）是[双壳纲](../Page/双壳纲.md "wikilink")[软体动物的一個科](../Page/软体动物.md "wikilink")，舊屬簾蛤目，今屬。現時本科包括的物種約130個現生種，分屬於十個[属](https://zh.wikipedia.org/wiki/属 "wikilink")，廣泛分配於世界各地的深淺海洋裡。本科物種的特色是會在海床以其[足絲築巢居住](https://zh.wikipedia.org/wiki/足絲 "wikilink")。其長長的[外套膜可變成觸手](../Page/外套膜.md "wikilink")，以協助在海裡游泳。
 
 ## 分類
 

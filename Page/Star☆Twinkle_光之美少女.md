@@ -3,7 +3,7 @@
 ## 概要
 
 本作將是光之美少女系列第一個跨日本年號（[平成](../Page/平成.md "wikilink") －
-[令和](https://zh.wikipedia.org/wiki/令和 "wikilink")）播放的作品。
+[令和](../Page/令和.md "wikilink")）播放的作品。
 
 本作首次出現由外星人變身而成、由歌手配音、將故事搬出地球及首次有古銅色肌膚的光之美少女加入主角陣營。
 
@@ -55,8 +55,7 @@
 
     團體口號為「Star☆Twinkle 光之美少女」。
 
-    早在前作[HUG\!
-    光之美少女最終話當中先行登場](https://zh.wikipedia.org/wiki/HUG!_光之美少女 "wikilink")。
+    早在前作[HUG\! 光之美少女最終話當中先行登場](../Page/HUG!_光之美少女.md "wikilink")。
 
 <!-- end list -->
 
@@ -258,8 +257,7 @@
 
     外表軟綿綿的宇宙精靈，擁有能夠打開蟲洞進行瞬間移動的神秘力量，藉由公主星彩筆可變換成12種星座形態，為復活星之公主的關鍵，平常棲身於由小光保管的「**閃耀之書**」中，語尾習慣加上「～芙娃（）」。喜歡吃[甜甜圈](../Page/甜甜圈.md "wikilink")，同時致敬十年前作品[FRESH光之美少女\!](https://zh.wikipedia.org/wiki/FRESH光之美少女! "wikilink")。
 
-    早在前作[HUG\!
-    光之美少女最終話當中先行登場](https://zh.wikipedia.org/wiki/HUG!_光之美少女 "wikilink")。
+    早在前作[HUG\! 光之美少女最終話當中先行登場](../Page/HUG!_光之美少女.md "wikilink")。
 
     於第1話小光畫出她的形狀後就馬上從蟲洞跳到小光面前，還帶她去了一趟星空界。
 
@@ -687,7 +685,7 @@
 <tr class="odd">
 <td></td>
 <td><p>星空天使替喝彩天使和抱抱擋下兇猛終結怪的攻擊，解除變身後得到印上抱抱照片的特殊星彩筆</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/HUG!_光之美少女" title="wikilink">HUG!第</a>49話</p></td>
+<td><p><a href="../Page/HUG!_光之美少女.md" title="wikilink">HUG!第</a>49話</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1062,15 +1060,14 @@
 
 <!-- end list -->
 
-  - [Miracle
-    Universe](https://zh.wikipedia.org/wiki/光之美少女_Miracle_Universe "wikilink")
+  - [Miracle Universe](../Page/光之美少女_Miracle_Universe.md "wikilink")
     在本作播出初期上映，因此以本作故事初期設定為準。
 
 <!-- end list -->
 
   -
     [光之美少女 Miracle
-    Universe](https://zh.wikipedia.org/wiki/光之美少女_Miracle_Universe "wikilink")
+    Universe](../Page/光之美少女_Miracle_Universe.md "wikilink")
 
 ## 漫畫
 

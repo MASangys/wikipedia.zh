@@ -14,7 +14,7 @@ XA2家族之外，所有这些设备都有1080p的录像摄像头。
 
 初代XA系列手机配备MT6755 [Helio
 P10芯片组和](https://zh.wikipedia.org/wiki/Helio_P10 "wikilink")16[GB的内部存储空间](https://zh.wikipedia.org/wiki/GB "wikilink")，与[索尼Xperia
-X使用相同的设计语言](https://zh.wikipedia.org/wiki/Sony_Xperia_X "wikilink")，但是不带侧边指纹识别。出厂使用[Android
+X使用相同的设计语言](../Page/Sony_Xperia_X.md "wikilink")，但是不带侧边指纹识别。出厂使用[Android
 6.0
 Marshmallow发布](../Page/Android_Marshmallow.md "wikilink")，后期可以升级为[Android
 7.0
@@ -35,11 +35,11 @@ XA配备有一块5.0"[高清显示屏](https://zh.wikipedia.org/wiki/高清 "wik
 这一家族设备使用了新的设计语言 Loop Surface，并且升级了芯片组，即 MT6757 [Helio
 P20](https://zh.wikipedia.org/wiki/Helio_P20 "wikilink")，出厂搭载Android 7.0
 Nougat，后期更新到[Android 8.0
-Oreo](https://zh.wikipedia.org/wiki/Android_Oreo "wikilink")，并且是这一系列中第一批具有[USB-C接口的设备](https://zh.wikipedia.org/wiki/USB-C "wikilink")。[Xperia
-XA1和](https://zh.wikipedia.org/wiki/Sony_Xperia_XA1 "wikilink") [XA1
-Ultra于](https://zh.wikipedia.org/wiki/Sony_Xperia_XA1_Ultra "wikilink")2017年2月发布。
+Oreo](../Page/Android_Oreo.md "wikilink")，并且是这一系列中第一批具有[USB-C接口的设备](https://zh.wikipedia.org/wiki/USB-C "wikilink")。[Xperia
+XA1和](../Page/Sony_Xperia_XA1.md "wikilink") [XA1
+Ultra于](../Page/Sony_Xperia_XA1_Ultra.md "wikilink")2017年2月发布。
 
-### [Xperia XA1](https://zh.wikipedia.org/wiki/Sony_Xperia_XA1 "wikilink")
+### [Xperia XA1](../Page/Sony_Xperia_XA1.md "wikilink")
 
 与Xperia XA一样，Xperia XA1内置32 GB的存储空间，3 GB 内存和8 MP前置自拍照相机。\[5\]
 

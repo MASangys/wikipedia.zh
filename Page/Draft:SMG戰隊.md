@@ -1,6 +1,6 @@
 **SMG戰隊**（SMG Team）（英文全名：**Still Moving Under
 Gunfire**，**大意是指槍林彈雨中繼續前行，鼓勵人們在逆境中永不言敗**)
-是一支[台灣的職業](../Page/臺灣.md "wikilink")[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，是知名歌手[林俊傑成立的電競隊伍](../Page/林俊杰.md "wikilink")，目前專注於[GCS職業聯賽](https://zh.wikipedia.org/wiki/GCS職業聯賽 "wikilink")[傳說對決的賽事](https://zh.wikipedia.org/wiki/傳說對決 "wikilink")，在2017年傳說對決AIC亞洲盃國際錦標賽中奪得冠軍。
+是一支[台灣的職業](../Page/臺灣.md "wikilink")[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，是知名歌手[林俊傑成立的電競隊伍](../Page/林俊杰.md "wikilink")，目前專注於[GCS職業聯賽](https://zh.wikipedia.org/wiki/GCS職業聯賽 "wikilink")[傳說對決的賽事](../Page/傳說對決.md "wikilink")，在2017年傳說對決AIC亞洲盃國際錦標賽中奪得冠軍。
 
 ## 傳說對決(Arena of Valor)
 
@@ -34,7 +34,7 @@ Gunfire**，**大意是指槍林彈雨中繼續前行，鼓勵人們在逆境中
 
 #### 2017
 
-  - 07月30日：**SMG**戰隊正式成立及2017GCS夏季職業聯賽正式開打，執行長為[林苡宗](https://zh.wikipedia.org/wiki/林苡宗 "wikilink"),領隊**Abby**,分析師**PiPi**,創隊成員有隊長**Hanzo**成員**Liang**、
+  - 07月30日：**SMG**戰隊正式成立及2017GCS夏季職業聯賽正式開打，執行長為[林苡宗](../Page/林苡宗.md "wikilink"),領隊**Abby**,分析師**PiPi**,創隊成員有隊長**Hanzo**成員**Liang**、
     **Genji**、**Sirenia**、**Chichi**、**Lulala**，本賽季參賽隊伍計有**SMG**、**S.T**、**J
     T**、**HKA**、**AHQ.W**、**AHQ.R**、**MS**共7支戰隊。
   - 09月23日：例行賽結束，**SMG**與**S.T**戰績同為11勝1負，需加賽一場決定例行賽第一並直接取得冠軍賽門票。
@@ -53,7 +53,7 @@ Gunfire**，**大意是指槍林彈雨中繼續前行，鼓勵人們在逆境中
   - 05月6日：例行賽結束，**SMG**戰績為12勝6負，以例行賽第二名成績晉級季後賽。
   - 05月20日：在2018GCS春季職業聯賽季後賽第二輪中對決**MS**，**SMG**以3:1擊敗**MS**晉級下一輪並取得冠軍賽門票，冠軍賽對手為**JT**。
   - 05月26日：2018GCS春季職業聯賽總冠軍由**SMG**與**JT**共同爭奪，**JT**以4:1擊敗**SMG**，**JT**取得GCS春季職業聯賽總冠軍及AWC世界賽台港澳賽區資格，**SMG**戰隊為GCS春季職業聯賽亞軍。
-  - 05月29日：[傳說對決官方公布AWC外卡隊名單](https://zh.wikipedia.org/wiki/傳說對決 "wikilink")，經外卡隊教練**AA**挑選後，**SMG**成員**Hanzo**、**Genji**皆入選外卡隊名單，但隊伍成員以個人理由拒絕參與AWC世界盃以及印尼巨港亞運傳說對決項目\[5\]。
+  - 05月29日：[傳說對決官方公布AWC外卡隊名單](../Page/傳說對決.md "wikilink")，經外卡隊教練**AA**挑選後，**SMG**成員**Hanzo**、**Genji**皆入選外卡隊名單，但隊伍成員以個人理由拒絕參與AWC世界盃以及印尼巨港亞運傳說對決項目\[5\]。
   - 07月25日：戰隊成員**Wayn**退出SMG戰隊，轉隊至**FW[閃電狼](../Page/閃電狼.md "wikilink")**戰隊擔任打野。
   - 08月4日：2018GCS夏季賽選手名單，**SMG**登入替補選手**Ben**(原創隊成員**Lulala**)。
   - 08月18日：2018GCS夏季職業聯賽開打，本賽季參賽隊伍計有**SMG**、**ONE**(原上賽季**S.T**戰隊)、**J
@@ -64,7 +64,7 @@ Gunfire**，**大意是指槍林彈雨中繼續前行，鼓勵人們在逆境中
 
 #### 2019
 
-  - 1月7日：戰隊因負責人[林苡宗態度不佳裁退](https://zh.wikipedia.org/wiki/林苡宗 "wikilink")，導致戰隊成員因合約關係同時合約失效，
+  - 1月7日：戰隊因負責人[林苡宗態度不佳裁退](../Page/林苡宗.md "wikilink")，導致戰隊成員因合約關係同時合約失效，
     被迫離隊，原成員**Hanzo**、**Liang**、**Chichi**、**Sirenia**、**Genji**於1月11日轉隊至[TXO戰隊](https://zh.wikipedia.org/wiki/TXO戰隊 "wikilink")。
   - 1月：公佈新成員，凱撒路Joey(前[MAD](https://zh.wikipedia.org/wiki/MAD_Team "wikilink"))、打野Xiao(金門陽明)、中路Hong(阿鴻)、魔龍輸出DinDin(前[ONE邊線](../Page/One_Team.md "wikilink"))、輔助Mid(前[HKA](https://zh.wikipedia.org/wiki/香港態度 "wikilink")、[MS輔助](https://zh.wikipedia.org/wiki/MS怪獸 "wikilink"))。
   - 01月26日：2019 GCS春季職業聯賽開打，本賽季參賽隊伍計有**SMG**、**ONE**、**MAD**(為2018AIC

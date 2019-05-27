@@ -19,11 +19,11 @@ Face娛樂將於](../Page/Happy_Face娛樂.md "wikilink")2019年推出的五人�
 ### 出道前
 
 2016年6月18日，鄭游寯以個人練習生身份參與《[少年24](../Page/少年24.md "wikilink")》，成功晉身24強，之後進行為期約一年的劇場公演活動。2017年8月12日，節目舉行總決賽，可惜未能晉身出道組；之後進入[Happy
-Face娛樂當練習生](../Page/Happy_Face娛樂.md "wikilink")，曾與李詩恩（이시은）合作翻唱[Suran與](https://zh.wikipedia.org/wiki/Suran "wikilink")[Crush的](https://zh.wikipedia.org/wiki/Crush "wikilink")《Love
+Face娛樂當練習生](../Page/Happy_Face娛樂.md "wikilink")，曾與李詩恩（이시은）合作翻唱[Suran與](../Page/Suran.md "wikilink")[Crush的](https://zh.wikipedia.org/wiki/Crush "wikilink")《Love
 Story》\[2\]。
 
 2017年4月7日，朴優啿、禹眞榮、曺勇根參與《[PRODUCE 101
-第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")》，比賽進行約兩個多月，最終排名分別為第35名、第40名及第93名，未能透過節目出道。
+第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，比賽進行約兩個多月，最終排名分別為第35名、第40名及第93名，未能透過節目出道。
 
 2017年10月29日，曺勇根、金賢洙、禹眞榮參與由[YG娛樂投資的](../Page/YG娛樂.md "wikilink")《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，比賽進行約三個多月，金賢洙、曹勇根最終排名分別為晉身決賽席位及第25名，未能透過節目出道；禹真榮則為第1名，預計會透過節目出道，可惜[YG娛樂最終無法與其他經紀公司取得相同意見](../Page/YG娛樂.md "wikilink")，加上節目沒有比預期受到歡迎，於2018年5月3日宣布取消出道計劃\[3\]。
 
@@ -40,11 +40,11 @@ Money](../Page/Show_Me_The_Money.md "wikilink")》第八季\[8\]\[9\]。
 
 ### 綜藝節目
 
-| 日期                     | 频道   | 名稱                                                                          | 參與成員        | 備註 |
-| ---------------------- | ---- | --------------------------------------------------------------------------- | ----------- | -- |
-| 2016年6月18日－8月6日        | Mnet | [少年24](../Page/少年24.md "wikilink")                                          | 鄭游寯         |    |
-| 2017年4月7日－6月16日        | Mnet | [PRODUCE 101 第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink") | 曺勇根、朴優啿、禹眞榮 |    |
-| 2017年10月29日－2018年1月26日 | JTBC | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")                 | 曺勇根、金賢洙、禹眞榮 |    |
+| 日期                     | 频道   | 名稱                                                          | 參與成員        | 備註 |
+| ---------------------- | ---- | ----------------------------------------------------------- | ----------- | -- |
+| 2016年6月18日－8月6日        | Mnet | [少年24](../Page/少年24.md "wikilink")                          | 鄭游寯         |    |
+| 2017年4月7日－6月16日        | Mnet | [PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")    | 曺勇根、朴優啿、禹眞榮 |    |
+| 2017年10月29日－2018年1月26日 | JTBC | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink") | 曺勇根、金賢洙、禹眞榮 |    |
 
 ## 參考文章
 

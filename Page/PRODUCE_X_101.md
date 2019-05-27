@@ -10,7 +10,7 @@
   - 歌唱導師：[李碩薰](../Page/李碩薰.md "wikilink")([SG
     Wannabe](../Page/SG_Wannabe.md "wikilink"))、申尤美、韶宥
   - 舞蹈導師：、權宰勝(Jason Kwon)、[崔容俊](../Page/崔容俊.md "wikilink")
-  - Rap導師：[Cheetah](https://zh.wikipedia.org/wiki/Cheetah "wikilink")
+  - Rap導師：[Cheetah](../Page/Cheetah.md "wikilink")
 
 ## 節目概要
 
@@ -166,14 +166,14 @@
 | [樂華娛樂](https://zh.wikipedia.org/wiki/樂華娛樂 "wikilink")                           |
 | 曹承衍                                                                             |
 | 黃金率                                                                             |
-| [BRAND NEW MUSIC](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")     |
+| [BRAND NEW MUSIC](../Page/Brand_New_Music.md "wikilink")                        |
 | 尹正煥                                                                             |
 | 李垠尚                                                                             |
 | 洪誠俊                                                                             |
 | [MBK娛樂](../Page/MBK娛樂.md "wikilink")                                            |
 | 南道賢                                                                             |
 | 李翰潔                                                                             |
-| [Music Works](https://zh.wikipedia.org/wiki/The_Music_Works "wikilink")         |
+| [Music Works](../Page/The_Music_Works.md "wikilink")                            |
 | 宋有彬                                                                             |
 
 | 第一集排名 |

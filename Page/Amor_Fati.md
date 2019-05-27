@@ -1,5 +1,5 @@
 《**Amor
-Fati**》\[1\]（，，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2018年12月9日推出的綜藝節目。由[姜鎬童在演播室和嘉賓一起觀看視頻](../Page/姜鎬童.md "wikilink")，發現爸爸或媽媽新的一面，[朴芝潤和](https://zh.wikipedia.org/wiki/朴芝潤 "wikilink")[孫東雲則以領隊的身份帶著嘉賓的爸爸或媽媽去旅行](../Page/孫東雲.md "wikilink")，節目主軸為把青春歲月花在養育子女的單身爸爸或媽媽一起尋找青春的治愈旅行\[2\]\[3\]\[4\]。
+Fati**》\[1\]（，，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2018年12月9日推出的綜藝節目。由[姜鎬童在演播室和嘉賓一起觀看視頻](../Page/姜鎬童.md "wikilink")，發現爸爸或媽媽新的一面，[朴芝潤和](../Page/朴芝潤.md "wikilink")[孫東雲則以領隊的身份帶著嘉賓的爸爸或媽媽去旅行](../Page/孫東雲.md "wikilink")，節目主軸為把青春歲月花在養育子女的單身爸爸或媽媽一起尋找青春的治愈旅行\[2\]\[3\]\[4\]。
 
 ## 參與嘉賓
 
@@ -76,11 +76,11 @@ Fati**》\[1\]（，，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wiki
 <td><p>體育解說員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Cheetah" title="wikilink">Cheetah</a></p></td>
+<td><p><a href="../Page/Cheetah.md" title="wikilink">Cheetah</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/饒舌歌手" title="wikilink">饒舌歌手</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/俞世潤" title="wikilink">俞世潤</a></p></td>
+<td><p><a href="../Page/俞世潤.md" title="wikilink">俞世潤</a></p></td>
 <td><p>搞笑藝人</p></td>
 </tr>
 <tr class="odd">

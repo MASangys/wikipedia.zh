@@ -1,25 +1,24 @@
 '''Red Velvet Second Concert 「REDMARE」 '''是韓國女子組合[Red
-Velvet于](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")2018年舉辦的第二次單獨巡回演唱會。
+Velvet于](../Page/Red_Velvet.md "wikilink")2018年舉辦的第二次單獨巡回演唱會。
 
 ## 概述
 
 [SM娛樂在](../Page/SM娛樂.md "wikilink")2018年7月宣布舉辦這次演唱會。門票銷售從7月5日開始，由YES24網站負責票務。
 
 演唱會演出了[Red
-Velvet的出道單曲](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")《[행복(Happiness)](https://zh.wikipedia.org/wiki/Happiness_\(Red_Velvet單曲\) "wikilink")》、三張迷你專輯《[Ice
+Velvet的出道單曲](../Page/Red_Velvet.md "wikilink")《[행복(Happiness)](https://zh.wikipedia.org/wiki/Happiness_\(Red_Velvet單曲\) "wikilink")》、三張迷你專輯《[Ice
 Cream
 Cake](https://zh.wikipedia.org/wiki/Ice_Cream_Cake "wikilink")》、《[Russian
-Roulette](https://zh.wikipedia.org/wiki/Russian_Roulette_\(Red_Velvet_EP\) "wikilink")》、《[Rookie](https://zh.wikipedia.org/wiki/Rookie "wikilink")》、两張夏日特別專輯《[The
-Red
-Summer](https://zh.wikipedia.org/wiki/The_Red_Summer "wikilink")》、《[Summer
-Magic](https://zh.wikipedia.org/wiki/Summer_Magic "wikilink")》及两張正規專輯《[The
+Roulette](https://zh.wikipedia.org/wiki/Russian_Roulette_\(Red_Velvet_EP\) "wikilink")》、《[Rookie](../Page/Rookie.md "wikilink")》、两張夏日特別專輯《[The
+Red Summer](../Page/The_Red_Summer.md "wikilink")》、《[Summer
+Magic](../Page/Summer_Magic.md "wikilink")》及两張正規專輯《[The
 Red](../Page/The_Red.md "wikilink")》、《[Perfect
-Velvet](https://zh.wikipedia.org/wiki/Perfect_Velvet "wikilink")》的大部分曲目。以[首爾為首站拉開序幕](https://zh.wikipedia.org/wiki/首爾 "wikilink")。
+Velvet](../Page/Perfect_Velvet.md "wikilink")》的大部分曲目。以[首爾為首站拉開序幕](../Page/首爾.md "wikilink")。
 
 ## 巡演事件
 
   - 首爾場：定於8月4-5日於首尔SK奧林匹克手球競技場舉行《Red Velvet 2nd Concert:
-    Redmare》，預售於7月5日下午8點（韓國時間）進行。在8月5日，出演《[秘密姐姐](https://zh.wikipedia.org/wiki/秘密姐姐 "wikilink")》的[韓彩英和](../Page/韓彩英.md "wikilink")[善美與](https://zh.wikipedia.org/wiki/善美 "wikilink")[Yeri](../Page/Yeri.md "wikilink")、[瑟琪在後台重聚](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")。
+    Redmare》，預售於7月5日下午8點（韓國時間）進行。在8月5日，出演《[秘密姐姐](../Page/秘密姐姐.md "wikilink")》的[韓彩英和](../Page/韓彩英.md "wikilink")[善美與](https://zh.wikipedia.org/wiki/善美 "wikilink")[Yeri](../Page/Yeri.md "wikilink")、[瑟琪在後台重聚](../Page/瑟琪.md "wikilink")。
 
 <!-- end list -->
 
@@ -69,7 +68,7 @@ Velvet](https://zh.wikipedia.org/wiki/Perfect_Velvet "wikilink")》的大部分�
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>8月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="../Page/SK奧林匹克手球館.md" title="wikilink">SK奧林匹克手球競技場</a></p></td>
 <td><p>10,000</p></td>
@@ -238,7 +237,7 @@ Velvet](https://zh.wikipedia.org/wiki/Perfect_Velvet "wikilink")》的大部分�
 <!-- end list -->
 
   - [Red
-    Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")（[Irene](https://zh.wikipedia.org/wiki/Irene_\(Red_Velvet\) "wikilink")、[Seulgi](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")、[Yeri](../Page/Yeri.md "wikilink")）
+    Velvet](../Page/Red_Velvet.md "wikilink")（[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](../Page/瑟琪.md "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")、[Yeri](../Page/Yeri.md "wikilink")）
 
 <!-- end list -->
 

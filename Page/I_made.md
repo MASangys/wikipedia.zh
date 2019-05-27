@@ -1,5 +1,5 @@
 《**I
-made**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE第二張迷你專輯](https://zh.wikipedia.org/wiki/\(G\)I-DLE "wikilink")，於2019年2月26日推出，主打歌曲為〈Senorita〉。
+made**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE第二張迷你專輯](../Page/\(G\)I-DLE.md "wikilink")，於2019年2月26日推出，主打歌曲為〈Senorita〉。
 
 ## 簡介
 
@@ -16,7 +16,7 @@ made**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組�
 ### 正式發行
 
 2月26日，韓國時間下午6時，公開第二張迷你專輯《[I
-made](https://zh.wikipedia.org/wiki/I_made "wikilink")》全輯音源及主打《Senorita》，並於同日舉行回歸Showcase。\[8\]
+made](../Page/I_made.md "wikilink")》全輯音源及主打《Senorita》，並於同日舉行回歸Showcase。\[8\]
 
 ## 曲目
 

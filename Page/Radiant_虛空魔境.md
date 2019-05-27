@@ -191,7 +191,7 @@ Valente的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，2018
 <td><p>異端狩獵者的人們</p></td>
 <td><p>重信康</p></td>
 <td><p>濱崎徹</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小沼克介" title="wikilink">小沼克介</a>、川口弘明</p></td>
+<td><p><a href="../Page/小沼克介.md" title="wikilink">小沼克介</a>、川口弘明</p></td>
 <td></td>
 </tr>
 <tr class="even">

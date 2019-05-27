@@ -58,7 +58,7 @@ BET〉，先行曲則是成員旼炫個人單曲〈Universe〉。此次專輯的
 
 專輯名稱《Happily Ever After》包含「
 從此以後一直幸福快樂下去」的意義。專輯中每首歌曲都具有自己的故事，按照專輯順序聆聽亦能串連成一個完整的童話世界，希冀為每個人帶來幸福快樂的永恆[亞特蘭提斯](https://zh.wikipedia.org/wiki/亞特蘭提斯 "wikilink")。主打歌〈BET
-BET〉以[未來貝斯](https://zh.wikipedia.org/wiki/未来贝斯 "wikilink")（Future
+BET〉以[未來貝斯](../Page/未来贝斯.md "wikilink")（Future
 bass）與[節奏藍調](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")（R\&B）為基礎體裁，強烈旋律的多層次低音元素與慢節奏曲風，成功地以合成器創造夢幻迷醉的閃爍[琶音](https://zh.wikipedia.org/wiki/琶音 "wikilink")，融合成員們多彩魅惑的人聲，全曲呈現宏偉明亮的空間殘響感，打磨出專屬於NU'EST的音樂律動實境；在舞蹈方面，全曲每個節拍都有其相對應的舞蹈動作，跪地的膝蓋舞與指向心臟的手槍手勢是本次編舞的最大亮點，並以整齊有力的跳躍舞步令人印象深刻。
 
 

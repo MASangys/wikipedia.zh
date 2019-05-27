@@ -1,4 +1,4 @@
-《**我手中的侄子tv**》（，），為韓國[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年推出的綜藝節目\[1\]，由[徐章煇主持](https://zh.wikipedia.org/wiki/徐章煇 "wikilink")，[金緩宣](https://zh.wikipedia.org/wiki/金緩宣 "wikilink")、、[夏沇秀](../Page/夏沇秀.md "wikilink")、[净漢](https://zh.wikipedia.org/wiki/尹净漢 "wikilink")、[珉奎](https://zh.wikipedia.org/wiki/金珉奎 "wikilink")、[羅夏恩](https://zh.wikipedia.org/wiki/羅夏恩 "wikilink")、等人參與演出\[2\]，節目主軸為演藝界的叔叔阿姨和TOP級的兒童創作者一起合作創作火紅的內容\[3\]\[4\]。
+《**我手中的侄子tv**》（，），為韓國[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年推出的綜藝節目\[1\]，由[徐章煇主持](../Page/徐章煇.md "wikilink")，[金緩宣](https://zh.wikipedia.org/wiki/金緩宣 "wikilink")、、[夏沇秀](../Page/夏沇秀.md "wikilink")、[净漢](https://zh.wikipedia.org/wiki/尹净漢 "wikilink")、[珉奎](../Page/金珉奎.md "wikilink")、[羅夏恩](../Page/羅夏恩.md "wikilink")、等人參與演出\[2\]，節目主軸為演藝界的叔叔阿姨和TOP級的兒童創作者一起合作創作火紅的內容\[3\]\[4\]。
 
 ## 各集內容
 

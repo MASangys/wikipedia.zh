@@ -40,8 +40,7 @@ Max又增加了[威尔士Arriva巴士](https://zh.wikipedia.org/wiki/Arriva_Buse
     [达拉谟](../Page/達拉謨.md "wikilink")←→[斯坦霍普](https://zh.wikipedia.org/wiki/Stanhope,_County_Durham "wikilink")\[13\]
   - **X66/X67** - 达灵顿\~米德尔斯堡\[14\]
   - **X75/X76** - 达灵顿←→[巴纳德城堡](../Page/巴納德城堡.md "wikilink")\[15\]
-  - **X93** -
-    米德尔斯堡←→[斯卡布罗](https://zh.wikipedia.org/wiki/斯卡布羅 "wikilink")\[16\]
+  - **X93** - 米德尔斯堡←→[斯卡布罗](../Page/斯卡布羅.md "wikilink")\[16\]
   - **306** - 泰恩河畔纽卡斯尔←→[惠特利湾](../Page/惠特利灣.md "wikilink")
 
 ### 夏尔斯&埃塞克斯Arriva
@@ -62,9 +61,9 @@ Max又增加了[威尔士Arriva巴士](https://zh.wikipedia.org/wiki/Arriva_Buse
 ### 南部Arriva
 
   - **34** -
-    [吉尔福德](https://zh.wikipedia.org/wiki/Guildford_bus_station "wikilink")←→[坎伯利途经](https://zh.wikipedia.org/wiki/坎伯利 "wikilink")[韦斯特菲尔德和](https://zh.wikipedia.org/wiki/Westfield,_Woking,_Surrey "wikilink")[萨顿格林](https://zh.wikipedia.org/wiki/Sutton_Green,_Surrey "wikilink")
+    [吉尔福德](https://zh.wikipedia.org/wiki/Guildford_bus_station "wikilink")←→[坎伯利途经](../Page/坎伯利.md "wikilink")[韦斯特菲尔德和](https://zh.wikipedia.org/wiki/Westfield,_Woking,_Surrey "wikilink")[萨顿格林](https://zh.wikipedia.org/wiki/Sutton_Green,_Surrey "wikilink")
   - **35** -
-    [吉尔福德](https://zh.wikipedia.org/wiki/Guildford_bus_station "wikilink")←→[坎伯利途经](https://zh.wikipedia.org/wiki/坎伯利 "wikilink")[梅福德](https://zh.wikipedia.org/wiki/Mayford "wikilink")
+    [吉尔福德](https://zh.wikipedia.org/wiki/Guildford_bus_station "wikilink")←→[坎伯利途经](../Page/坎伯利.md "wikilink")[梅福德](https://zh.wikipedia.org/wiki/Mayford "wikilink")
 
 ### 约克郡Arriva
 
@@ -86,7 +85,7 @@ Max又增加了[威尔士Arriva巴士](https://zh.wikipedia.org/wiki/Arriva_Buse
 ### 南部Arriva
 
   - **5** -
-    [滨海绍森德](https://zh.wikipedia.org/wiki/濱海紹森德 "wikilink")←→[巴西尔登](../Page/巴西爾登.md "wikilink")，\[18\]由于这条线路所带来的经济效应微乎其微，所以这条线路于2016年9月被[埃塞克斯第一巴士公司运营的线路所代替](https://zh.wikipedia.org/wiki/First_Essex "wikilink")。\[19\]\[20\]
+    [滨海绍森德](../Page/濱海紹森德.md "wikilink")←→[巴西尔登](../Page/巴西爾登.md "wikilink")，\[18\]由于这条线路所带来的经济效应微乎其微，所以这条线路于2016年9月被[埃塞克斯第一巴士公司运营的线路所代替](https://zh.wikipedia.org/wiki/First_Essex "wikilink")。\[19\]\[20\]
 
 ### 东北Arriva
 

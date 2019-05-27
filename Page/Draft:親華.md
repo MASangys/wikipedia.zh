@@ -6,7 +6,7 @@
 
   - [中華朝貢體系](https://zh.wikipedia.org/wiki/中華朝貢體系 "wikilink")
   - [大化革新](https://zh.wikipedia.org/wiki/大化革新 "wikilink")
-  - [外王內帝](https://zh.wikipedia.org/wiki/外王內帝 "wikilink")
+  - [外王內帝](../Page/外王內帝.md "wikilink")
 
 ### 思想
 

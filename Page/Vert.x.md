@@ -65,7 +65,7 @@ neither?"](http://www.infoworld.com/d/open-source-software/who-controls-vertx-re
 
 </ref>获得Vert.x商标、域名、博客、GitHub帐户及Google Group的控制权。
 
-与其他各方讨论后，2013年1月，VMware同意将项目和相关IP转移到[Eclipse基金会这一中立的法律实体中](https://zh.wikipedia.org/wiki/Eclipse基金会 "wikilink")，以使Vert.x社区获得最大收益。
+与其他各方讨论后，2013年1月，VMware同意将项目和相关IP转移到[Eclipse基金会这一中立的法律实体中](../Page/Eclipse基金会.md "wikilink")，以使Vert.x社区获得最大收益。
 <ref>
 
 <div>

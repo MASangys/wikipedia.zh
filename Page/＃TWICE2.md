@@ -4,7 +4,7 @@
 
 2018年12月21日在音樂節目[MUSIC
 STATION初次表演](../Page/MUSIC_STATION.md "wikilink")《[What is
-Love?](https://zh.wikipedia.org/wiki/What_is_Love? "wikilink")》日文版。
+Love?](../Page/What_is_Love?.md "wikilink")》日文版。
 
 2019年1月11日解禁《LIKEY -Japanese Ver.-》MV。
 

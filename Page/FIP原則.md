@@ -7,7 +7,7 @@
   -
   - [信息安全](../Page/信息安全.md "wikilink")
 
-  - [数据保护指令](https://zh.wikipedia.org/wiki/数据保护指令 "wikilink")
+  - [数据保护指令](../Page/数据保护指令.md "wikilink")
 
 ## 參考資料
 

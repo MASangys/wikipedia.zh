@@ -1,12 +1,12 @@
 **《YOU MADE MY
-DAWN》**\[1\]是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[SEVENTEEN的第六張迷你專輯](../Page/Seventeen_\(組合\).md "wikilink")，由[WOOZI以及桂範洙](https://zh.wikipedia.org/wiki/李知勳_\(SEVENTEEN\) "wikilink")(BUMZU)擔任製作人，其他成員們共同參與作詞及編舞。由[Pledis娛樂企劃](../Page/Pledis娛樂.md "wikilink")，於2019年1月21日發行，主打曲為〈HOME〉。
+DAWN》**\[1\]是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[SEVENTEEN的第六張迷你專輯](../Page/Seventeen_\(組合\).md "wikilink")，由[WOOZI以及桂範洙](../Page/李知勳_\(SEVENTEEN\).md "wikilink")(BUMZU)擔任製作人，其他成員們共同參與作詞及編舞。由[Pledis娛樂企劃](../Page/Pledis娛樂.md "wikilink")，於2019年1月21日發行，主打曲為〈HOME〉。
 
 ## 概述
 
 **《YOU MADE MY DAWN》**相對於**《**YOU MAKE MY
 DAY**》**想表達的「你為我創造了美好的一天」，迷你六輯則是帶了「你為在黑暗中的我帶來了黎明」的意思在其中。\[2\]
 
-主打歌為〈Home〉，是一首以[現代節奏藍調及](https://zh.wikipedia.org/wiki/当代节奏布鲁斯 "wikilink")[未來貝斯](https://zh.wikipedia.org/wiki/未来贝斯 "wikilink")\[3\]\[4\]，歌詞以「想成為一個溫暖舒適的家，幫助他們渡過難關，把這首歌的意義與粉絲聯繫在一起。」作主題。\[5\]
+主打歌為〈Home〉，是一首以[現代節奏藍調及](../Page/当代节奏布鲁斯.md "wikilink")[未來貝斯](../Page/未来贝斯.md "wikilink")\[3\]\[4\]，歌詞以「想成為一個溫暖舒適的家，幫助他們渡過難關，把這首歌的意義與粉絲聯繫在一起。」作主題。\[5\]
 
 該專輯分為三版本發售，分別為BEFORE DAWN版、DAWN版以及ENTERNAL SUNSHINE版。
 

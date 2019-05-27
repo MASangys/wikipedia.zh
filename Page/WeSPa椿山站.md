@@ -6,7 +6,7 @@
     作为东日本旅客铁道车站投入运营\[2\]。仅有临时快速"[Resort白神](https://zh.wikipedia.org/wiki/Resort白神 "wikilink")"停车。
   - 2002年12月1日 - 普通列车开始停靠本站。
   - 2010年4月1日 -
-    管理站由[深浦站变为](https://zh.wikipedia.org/wiki/深浦站 "wikilink")[五所川原站](https://zh.wikipedia.org/wiki/五所川原站 "wikilink")。
+    管理站由[深浦站变为](../Page/深浦站.md "wikilink")[五所川原站](https://zh.wikipedia.org/wiki/五所川原站 "wikilink")。
 
 ## 车站结构
 
@@ -35,12 +35,12 @@ locomotive 78653 20080402.jpg|站前保存的78653号蒸汽机车
 
           -
             [十二湖](../Page/十二湖站.md "wikilink") ← **WeSPa椿山** ←
-            [深浦](https://zh.wikipedia.org/wiki/深浦站 "wikilink")
+            [深浦](../Page/深浦站.md "wikilink")
 
         普通
 
           -
-            [陆奥泽边](https://zh.wikipedia.org/wiki/陆奥泽边站 "wikilink")－**WeSPa椿山**－[舻作](https://zh.wikipedia.org/wiki/舻作站 "wikilink")
+            [陆奥泽边](https://zh.wikipedia.org/wiki/陆奥泽边站 "wikilink")－**WeSPa椿山**－[舻作](../Page/舻作站.md "wikilink")
 
 ## 參考文獻
 

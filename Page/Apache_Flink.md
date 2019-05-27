@@ -283,7 +283,7 @@ Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")、[ResearchGate](../Page/
   - [Apache软件基金会项目列表](https://zh.wikipedia.org/wiki/:en:List_of_Apache_Software_Foundation_projects "wikilink")
   - 其他类似的数据处理引擎，如Storm和Spark。\[37\]
   - [Apache
-    Beam](https://zh.wikipedia.org/wiki/Apache_Beam "wikilink")，一种共享编程模型，Flink是其创始后端。
+    Beam](../Page/Apache_Beam.md "wikilink")，一种共享编程模型，Flink是其创始后端。
 
 ## 参考文献
 

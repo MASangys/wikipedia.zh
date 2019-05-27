@@ -47,7 +47,7 @@ Notebook），从而允许使用多种语言进行编程。在2.3版本\[9\]\[10
 
 IPython在0.12版本（2011年12月）中添加了Notebook界面，2015年更名为Jupyter Notebook（IPython
 4.0 - Jupyter 1.0）。\[12\]Jupyter
-Notebook类似于[Maple](../Page/Maple.md "wikilink")、[Mathematica和](https://zh.wikipedia.org/wiki/Mathematica "wikilink")[SageMath等程序的笔记本界面](https://zh.wikipedia.org/wiki/SageMath "wikilink")，SageMath是一种计算界面风格，起源于Mathematica在20世纪80年代。\[13\]据《[大西洋](https://zh.wikipedia.org/wiki/大西洋_\(雜誌\) "wikilink")》杂志报道，在2018年初，用户对Jupyter的兴趣超过了Mathematica
+Notebook类似于[Maple](../Page/Maple.md "wikilink")、[Mathematica和](https://zh.wikipedia.org/wiki/Mathematica "wikilink")[SageMath等程序的笔记本界面](https://zh.wikipedia.org/wiki/SageMath "wikilink")，SageMath是一种计算界面风格，起源于Mathematica在20世纪80年代。\[13\]据《[大西洋](../Page/大西洋_\(雜誌\).md "wikilink")》杂志报道，在2018年初，用户对Jupyter的兴趣超过了Mathematica
 Notebook界面的流行程度。\[14\]
 
 ### Jupyter Kernels
@@ -85,7 +85,7 @@ Notebook环境，它在云中运行，并将笔记本存储在[Google云端硬�
 
   - 2016年2月11日，[LIGO宣布](https://zh.wikipedia.org/wiki/LIGO "wikilink")[首次观测引力波](../Page/GW150914.md "wikilink")。这次发布了原始的科学数据以及包含Python代码的Jupyter
     Notebook文件，用于处理数据并从发现论文中复制数据。\[21\]
-  - 2018年4月5日，[《大西洋》杂志发表了一篇名为](https://zh.wikipedia.org/wiki/大西洋_\(雜誌\) "wikilink")《科学论文过时了》的文章，讨论了Jupyter
+  - 2018年4月5日，[《大西洋》杂志发表了一篇名为](../Page/大西洋_\(雜誌\).md "wikilink")《科学论文过时了》的文章，讨论了Jupyter
     Notebook和[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")
     Notebook在未来科学出版中的作用。\[22\]这篇文章引起了包括经济学家[保罗·罗默在内的著名科学家和学者的回应](../Page/保罗·罗默.md "wikilink")。\[23\]
 

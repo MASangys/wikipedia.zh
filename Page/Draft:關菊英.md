@@ -5,7 +5,7 @@ Ying*'；），[香港歌手及演員](../Page/香港.md "wikilink")。
 
 ### 早年生活
 
-1958年5月3日，關菊英於香港出生，家中共有六兄弟姊妹，自己排行第四。父親經營出入口生意。關菊英自小喜歡[唱歌](https://zh.wikipedia.org/wiki/唱歌 "wikilink")，母親見她有天分便聘請老師教她唱歌技巧。[1972年](../Page/1972年.md "wikilink")，14歲的她獲老師介紹到中環的「金寶夜總會」唱歌。同年，在[市政局主辦的歌唱比賽中勇奪冠軍闖入樂壇](../Page/市政局_\(香港\).md "wikilink")。她曾就讀於[新法書院和崇文英文書院](../Page/新法書院.md "wikilink")。在踏入歌壇初期還有上學，但是後來愈來愈忙，就在中四時輟學。至[1973年](../Page/1973年.md "wikilink")，她加入[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")（TVB）當劇集《[民間傳奇](../Page/民間傳奇.md "wikilink")》的幕後代唱；最为人熟悉的是《巫山盟》插曲《田園春梦》（与[伍卫国合唱](https://zh.wikipedia.org/wiki/伍卫国 "wikilink")）。及後轉到幕前演出電視劇集，並開始主唱電視劇的主題曲和插曲，包括《[狂潮](../Page/狂潮.md "wikilink")》、《[過客](../Page/過客.md "wikilink")》、《[倆忘煙水裡](https://zh.wikipedia.org/wiki/倆忘煙水裡 "wikilink")》等，嶄露頭角
+1958年5月3日，關菊英於香港出生，家中共有六兄弟姊妹，自己排行第四。父親經營出入口生意。關菊英自小喜歡[唱歌](https://zh.wikipedia.org/wiki/唱歌 "wikilink")，母親見她有天分便聘請老師教她唱歌技巧。[1972年](../Page/1972年.md "wikilink")，14歲的她獲老師介紹到中環的「金寶夜總會」唱歌。同年，在[市政局主辦的歌唱比賽中勇奪冠軍闖入樂壇](../Page/市政局_\(香港\).md "wikilink")。她曾就讀於[新法書院和崇文英文書院](../Page/新法書院.md "wikilink")。在踏入歌壇初期還有上學，但是後來愈來愈忙，就在中四時輟學。至[1973年](../Page/1973年.md "wikilink")，她加入[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")（TVB）當劇集《[民間傳奇](../Page/民間傳奇.md "wikilink")》的幕後代唱；最为人熟悉的是《巫山盟》插曲《田園春梦》（与[伍卫国合唱](https://zh.wikipedia.org/wiki/伍卫国 "wikilink")）。及後轉到幕前演出電視劇集，並開始主唱電視劇的主題曲和插曲，包括《[狂潮](../Page/狂潮.md "wikilink")》、《[過客](../Page/過客.md "wikilink")》、《[倆忘煙水裡](../Page/倆忘煙水裡.md "wikilink")》等，嶄露頭角
 。[1986年](../Page/1986年.md "wikilink")，關菊英於[灣仔](../Page/灣仔.md "wikilink")[伊莉莎伯體育館舉辦首個個人演唱會](https://zh.wikipedia.org/wiki/伊利莎伯體育館 "wikilink")。
 
 ### 復出演藝界
@@ -46,7 +46,7 @@ Ying*'；），[香港歌手及演員](../Page/香港.md "wikilink")。
 | 2008年                                                     | **[溏心風暴之家好月圓](https://zh.wikipedia.org/wiki/溏心風暴之家好月圓 "wikilink")** | **鍾笑莎（Sa姨、攞婆、SaSa）**   |
 | 2009年                                                     | [宮心計](https://zh.wikipedia.org/wiki/宮心計 "wikilink")                 | 阮翠雲（阮司珍、阮司設）           |
 | 2010年                                                     | [公主嫁到](https://zh.wikipedia.org/wiki/公主嫁到 "wikilink")               | 丁來喜（二奶奶、二娘）            |
-| 2014年                                                     | [名門暗戰](https://zh.wikipedia.org/wiki/名門暗戰 "wikilink")               | 李秋萍（蔣太、萍姨）             |
+| 2014年                                                     | [名門暗戰](../Page/名門暗戰.md "wikilink")                                  | 李秋萍（蔣太、萍姨）             |
 | 2017-2018年                                                | **[溏心風暴3](https://zh.wikipedia.org/wiki/溏心風暴3 "wikilink")**         | **梁順華（找錢華、華姐）**        |
 |                                                           |                                                                     |                        |
 
@@ -140,7 +140,7 @@ Ying*'；），[香港歌手及演員](../Page/香港.md "wikilink")。
 | [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink") | 萬千寵愛                                                                 | [公主嫁到](https://zh.wikipedia.org/wiki/公主嫁到 "wikilink")                       | 主題曲                                                  |                                                             | 《[遺忘了以往](../Page/遺忘了以往.md "wikilink")》                                                                             |
 | [2011年](../Page/2011年.md "wikilink")                    | 浮雲                                                                   | [世界遺產名錄 天地之中](https://zh.wikipedia.org/wiki/世界遺產名錄_天地之中 "wikilink")         | 主題曲                                                  |                                                             | 《[遺忘了以往](../Page/遺忘了以往.md "wikilink")》                                                                             |
 | 各安天命                                                    | [萬凰之王](../Page/萬凰之王.md "wikilink")                                   | 主題曲                                                                         |                                                      | 《[遺忘了以往](../Page/遺忘了以往.md "wikilink")》                      |                                                                                                                    |
-| [2014年](../Page/2014年.md "wikilink")                    | 真實謊言                                                                 | [名門暗戰](https://zh.wikipedia.org/wiki/名門暗戰 "wikilink")                       | 主題曲                                                  |                                                             | 未收錄於專輯中                                                                                                            |
+| [2014年](../Page/2014年.md "wikilink")                    | 真實謊言                                                                 | [名門暗戰](../Page/名門暗戰.md "wikilink")                                          | 主題曲                                                  |                                                             | 未收錄於專輯中                                                                                                            |
 | [2017年](../Page/2017年.md "wikilink")                    | 我本無罪                                                                 | [溏心風暴3](https://zh.wikipedia.org/wiki/溏心風暴3 "wikilink")                     | 主題曲                                                  |                                                             | 未收錄於專輯中                                                                                                            |
 
 ## 派台歌曲成績
@@ -552,7 +552,7 @@ Ying*'；），[香港歌手及演員](../Page/香港.md "wikilink")。
 <li>你</li>
 <li>Goodbye My Love</li>
 <li>真愛</li>
-<li>痴心等待你 關菊英;<a href="https://zh.wikipedia.org/wiki/吳智強" title="wikilink">吳智強</a></li>
+<li>痴心等待你 關菊英;<a href="../Page/吳智強.md" title="wikilink">吳智強</a></li>
 <li>失落的愛</li>
 <li>愛情多奇妙</li>
 <li>等著你回來</li>
@@ -879,7 +879,7 @@ Ying*'；），[香港歌手及演員](../Page/香港.md "wikilink")。
 <td><p>2014</p></td>
 <td><p><a href="../Page/萬千星輝頒獎典禮2014.md" title="wikilink">萬千星輝頒獎典禮2014</a></p></td>
 <td><p>最佳女配角</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/名門暗戰" title="wikilink">名門暗戰</a>》</p></td>
+<td><p>《<a href="../Page/名門暗戰.md" title="wikilink">名門暗戰</a>》</p></td>
 <td><p>李秋萍<br />
 （蔣太、萍姨）</p></td>
 <td><p><br />
@@ -887,7 +887,7 @@ Ying*'；），[香港歌手及演員](../Page/香港.md "wikilink")。
 </tr>
 <tr class="even">
 <td><p>最受歡迎電視女角色</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/名門暗戰" title="wikilink">名門暗戰</a>》</p></td>
+<td><p>《<a href="../Page/名門暗戰.md" title="wikilink">名門暗戰</a>》</p></td>
 <td><p>李秋萍<br />
 （蔣太、萍姨）</p></td>
 <td></td>
@@ -896,7 +896,7 @@ Ying*'；），[香港歌手及演員](../Page/香港.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>最受歡迎劇集歌曲</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/名門暗戰" title="wikilink">名門暗戰</a>》</p></td>
+<td><p>《<a href="../Page/名門暗戰.md" title="wikilink">名門暗戰</a>》</p></td>
 <td><p>真實謊言</p></td>
 <td></td>
 <td></td>
@@ -906,7 +906,7 @@ Ying*'；），[香港歌手及演員](../Page/香港.md "wikilink")。
 <td><p>2015</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/星和無線電視大獎" title="wikilink">星和無線電視大獎2015</a></p></td>
 <td><p>我最愛TVB女配角</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/名門暗戰" title="wikilink">名門暗戰</a>》</p></td>
+<td><p>《<a href="../Page/名門暗戰.md" title="wikilink">名門暗戰</a>》</p></td>
 <td><p>李秋萍<br />
 （蔣太、萍姨）</p></td>
 <td><p><br />
@@ -914,7 +914,7 @@ Ying*'；），[香港歌手及演員](../Page/香港.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>我最愛TVB電視主題曲</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/名門暗戰" title="wikilink">名門暗戰</a>》</p></td>
+<td><p>《<a href="../Page/名門暗戰.md" title="wikilink">名門暗戰</a>》</p></td>
 <td><p>真實謊言</p></td>
 <td><p><br />
 （最後12強）</p></td>

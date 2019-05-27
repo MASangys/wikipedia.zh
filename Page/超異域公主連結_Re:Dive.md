@@ -5,7 +5,7 @@
 ## 簡介與特色
 
 主要特色為動畫方式表現的劇情，由[Wit
-Studio所製作](https://zh.wikipedia.org/wiki/WIT_STUDIO "wikilink")，並結合腳本家[日日日](../Page/日日日.md "wikilink")、作曲家[田中公平](../Page/田中公平.md "wikilink")\[3\]。玩家可將蒐集到的角色，組成五人編隊，依前鋒、中鋒、後衛三排與[NPC交戰](https://zh.wikipedia.org/wiki/NPC "wikilink")；而玩家也可組織[公會](https://zh.wikipedia.org/wiki/公會 "wikilink")，除了與NPC對戰外，也能與其他玩家進行對戰。
+Studio所製作](../Page/WIT_STUDIO.md "wikilink")，並結合腳本家[日日日](../Page/日日日.md "wikilink")、作曲家[田中公平](../Page/田中公平.md "wikilink")\[3\]。玩家可將蒐集到的角色，組成五人編隊，依前鋒、中鋒、後衛三排與[NPC交戰](https://zh.wikipedia.org/wiki/NPC "wikilink")；而玩家也可組織[公會](https://zh.wikipedia.org/wiki/公會 "wikilink")，除了與NPC對戰外，也能與其他玩家進行對戰。
 
 ### 主線任務與劇情
 

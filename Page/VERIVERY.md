@@ -64,7 +64,7 @@ VERIVERY於2019年3月26日透過V Live宣佈粉絲官方名稱為「**VERRER**�
 
 **岡旻**
 
-  - 2018年入學[翰林演藝藝術高等學校](https://zh.wikipedia.org/wiki/翰林演藝藝術高等學校 "wikilink")。
+  - 2018年入學[翰林演藝藝術高等學校](../Page/翰林演藝藝術高等學校.md "wikilink")。
 
 ### 出道前
 
@@ -73,7 +73,7 @@ VERIVERY於2019年3月26日透過V Live宣佈粉絲官方名稱為「**VERRER**�
 9日3日至12日，七位成員**愍撰**\[7\] 、**號英**\[8\] 、**啓賢**\[9\] 、**勇勝**\[10\]
 、**東憲**\[11\] 、**延浩**\[12\]和**岡旻**\[13\]
 的概念照依次公開。9月21日，團體出演的Mnet真人秀綜藝《[NOW
-VERIVERY](https://zh.wikipedia.org/wiki/NOW_VERIVERY "wikilink")》播出，是VERIVERY第一次也是出道前最後一次的旅行紀錄，展現了七位成員多樣化的面貌\[14\]。
+VERIVERY](../Page/NOW_VERIVERY.md "wikilink")》播出，是VERIVERY第一次也是出道前最後一次的旅行紀錄，展現了七位成員多樣化的面貌\[14\]。
 同日韓國下午6時，綜藝OST《Super Special》的音源和MV正式公開\[15\]。
 
 11月18日，於首爾COEX商場舉行第一次擊掌會，並表演出道單曲「Super Special」，後於23日公開。\[16\]。
@@ -257,7 +257,7 @@ Moments」\[18\]。 11月25日，於盆唐區AK Plaza舉行第二次擊掌會。
 <td><p>2018年</p></td>
 <td><p>9月21日～11月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/NOW_VERIVERY" title="wikilink">NOW VERIVERY</a>》</p></td>
+<td><p>《<a href="../Page/NOW_VERIVERY.md" title="wikilink">NOW VERIVERY</a>》</p></td>
 <td><p>8</p></td>
 <td></td>
 </tr>

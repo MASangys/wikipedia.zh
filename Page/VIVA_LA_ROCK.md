@@ -40,13 +40,13 @@ LA ROCK ZERO”先行活动，共8组艺人出演\[10\]。
 <tr class="odd">
 <td><p>10月17日</p></td>
 <td><center>
-<p>、<a href="https://zh.wikipedia.org/wiki/UNISON_SQUARE_GARDEN" title="wikilink">UNISON SQUARE GARDEN</a>、、</p>
+<p>、<a href="../Page/UNISON_SQUARE_GARDEN.md" title="wikilink">UNISON SQUARE GARDEN</a>、、</p>
 </center></td>
 </tr>
 <tr class="even">
 <td><p>10月18日</p></td>
 <td><center>
-<p>、<a href="../Page/BIGMAMA.md" title="wikilink">BIGMAMA</a>、、<a href="https://zh.wikipedia.org/wiki/SHISHAMO" title="wikilink">SHISHAMO</a></p>
+<p>、<a href="../Page/BIGMAMA.md" title="wikilink">BIGMAMA</a>、、<a href="../Page/SHISHAMO.md" title="wikilink">SHISHAMO</a></p>
 </center></td>
 </tr>
 </tbody>
@@ -100,7 +100,7 @@ ROCK音乐节开幕，共有63组艺人出演\[11\]。设置3个室内舞台，1
 （<a href="../Page/5月3日.md" title="wikilink">5月3日</a>）</p></td>
 <td><ul>
 <li><a href="../Page/BIGMAMA.md" title="wikilink">BIGMAMA</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/SiM" title="wikilink">SiM</a></li>
+<li><a href="../Page/SiM.md" title="wikilink">SiM</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/东京斯卡乐园管弦乐团" title="wikilink">东京斯卡乐园管弦乐团</a></li>
 <li><a href="../Page/團團轉樂團.md" title="wikilink">团团转乐团</a></li>
 <li><a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></li>
@@ -108,7 +108,7 @@ ROCK音乐节开幕，共有63组艺人出演\[11\]。设置3个室内舞台，1
 <li></li>
 </ul></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/KEYTALK" title="wikilink">KEYTALK</a></li>
+<li><a href="../Page/KEYTALK.md" title="wikilink">KEYTALK</a></li>
 <li></li>
 <li></li>
 <li></li>
@@ -144,7 +144,7 @@ ROCK音乐节开幕，共有63组艺人出演\[11\]。设置3个室内舞台，1
 <td><ul>
 <li></li>
 <li><a href="../Page/THE_BAWDIES.md" title="wikilink">THE BAWDIES</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/高桥优_(歌手)" title="wikilink">高桥优</a></li>
+<li><a href="../Page/高桥优_(歌手).md" title="wikilink">高桥优</a></li>
 <li></li>
 <li></li>
 <li><a href="../Page/ELEPHANT_KASHIMASHI.md" title="wikilink">ELEPHENT KASHIMASHI</a></li>
@@ -153,7 +153,7 @@ ROCK音乐节开幕，共有63组艺人出演\[11\]。设置3个室内舞台，1
 <td><ul>
 <li></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/神聖かまってちゃん" title="wikilink">神聖かまってちゃん</a></li>
+<li><a href="../Page/神聖かまってちゃん.md" title="wikilink">神聖かまってちゃん</a></li>
 <li></li>
 <li></li>
 <li><a href="https://zh.wikipedia.org/wiki/スガシカオ" title="wikilink">菅止戈男</a></li>
@@ -164,7 +164,7 @@ ROCK音乐节开幕，共有63组艺人出演\[11\]。设置3个室内舞台，1
 <li></li>
 <li></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/SHISHAMO" title="wikilink">SHISHAMO</a></li>
+<li><a href="../Page/SHISHAMO.md" title="wikilink">SHISHAMO</a></li>
 <li></li>
 <li></li>
 </ul></td>
@@ -188,10 +188,10 @@ ROCK音乐节开幕，共有63组艺人出演\[11\]。设置3个室内舞台，1
 <td><ul>
 <li></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/Sambomaster" title="wikilink">Sambomaster</a></li>
+<li><a href="../Page/Sambomaster.md" title="wikilink">Sambomaster</a></li>
 <li><a href="../Page/NICO_Touches_the_Walls.md" title="wikilink">NICO Touches the Walls</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/［Alexandros］" title="wikilink">［Alexandros］</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a></li>
+<li><a href="../Page/［Alexandros］.md" title="wikilink">［Alexandros］</a></li>
+<li><a href="../Page/星野源.md" title="wikilink">星野源</a></li>
 <li><a href="../Page/魚韻.md" title="wikilink">鱼韵</a></li>
 </ul></td>
 <td><ul>
@@ -242,7 +242,7 @@ OFF VIVA\!\!\!”先行活动\[15\]。共9组艺人出演。
 <tr class="odd">
 <td><p>1月12日</p></td>
 <td><ul>
-<li>LIVE：、、<a href="https://zh.wikipedia.org/wiki/SHISHAMO" title="wikilink">SHISHAMO</a>、<a href="https://zh.wikipedia.org/wiki/BLUE_ENCOUNT" title="wikilink">BLUE ENCOUNT</a>、</li>
+<li>LIVE：、、<a href="../Page/SHISHAMO.md" title="wikilink">SHISHAMO</a>、<a href="https://zh.wikipedia.org/wiki/BLUE_ENCOUNT" title="wikilink">BLUE ENCOUNT</a>、</li>
 <li>DJ：片平实、、、</li>
 </ul></td>
 <td></td>
@@ -275,24 +275,24 @@ STAGE的演出将通过[手机应用对外进行](https://zh.wikipedia.org/wiki/
 （5月3日）</p></td>
 <td><ul>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/高桥优_(歌手)" title="wikilink">高桥优</a></li>
+<li><a href="../Page/高桥优_(歌手).md" title="wikilink">高桥优</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/くるり" title="wikilink">团团转乐团</a></li>
 <li>VIVA LA J-ROCK ANTHEMS!</li>
 <li></li>
 <li><a href="../Page/SPITZ.md" title="wikilink">Spitz</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/［Alexandros］" title="wikilink">［Alexandros］</a></li>
+<li><a href="../Page/［Alexandros］.md" title="wikilink">［Alexandros］</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/SHISHAMO" title="wikilink">SHISHAMO</a></li>
+<li><a href="../Page/SHISHAMO.md" title="wikilink">SHISHAMO</a></li>
 <li></li>
 <li></li>
 <li></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/KEYTALK" title="wikilink">KEYTALK</a></li>
+<li><a href="../Page/KEYTALK.md" title="wikilink">KEYTALK</a></li>
 <li></li>
 </ul></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/Brian_the_Sun" title="wikilink">Brian the Sun</a></li>
+<li><a href="../Page/Brian_the_Sun.md" title="wikilink">Brian the Sun</a></li>
 <li></li>
 <li></li>
 <li></li>
@@ -328,9 +328,9 @@ STAGE的演出将通过[手机应用对外进行](https://zh.wikipedia.org/wiki/
 <td><p>第2天<br />
 （5月4日）</p></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/SiM" title="wikilink">SiM</a></li>
+<li><a href="../Page/SiM.md" title="wikilink">SiM</a></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/Sambomaster" title="wikilink">Sambomaster</a></li>
+<li><a href="../Page/Sambomaster.md" title="wikilink">Sambomaster</a></li>
 <li></li>
 <li></li>
 <li><a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></li>
@@ -345,7 +345,7 @@ STAGE的演出将通过[手机应用对外进行](https://zh.wikipedia.org/wiki/
 <li></li>
 </ul></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/WANIMA" title="wikilink">WANIMA</a></li>
+<li><a href="../Page/WANIMA.md" title="wikilink">WANIMA</a></li>
 <li></li>
 <li></li>
 <li></li>
@@ -385,7 +385,7 @@ STAGE的演出将通过[手机应用对外进行](https://zh.wikipedia.org/wiki/
 <td><ul>
 <li></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/UNISON_SQUARE_GARDEN" title="wikilink">UNISON SQUARE GARDEN</a></li>
+<li><a href="../Page/UNISON_SQUARE_GARDEN.md" title="wikilink">UNISON SQUARE GARDEN</a></li>
 <li></li>
 <li><a href="../Page/BIGMAMA.md" title="wikilink">BIGMAMA</a></li>
 <li></li>
@@ -513,18 +513,18 @@ STAGE的演出同样通过手机应用对外进行直播\[26\]。本届音乐节
 <li></li>
 <li><a href="https://zh.wikipedia.org/wiki/BLUE_ENCOUNT" title="wikilink">BLUE ENCOUNT</a></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/SHISHAMO" title="wikilink">SHISHAMO</a></li>
+<li><a href="../Page/SHISHAMO.md" title="wikilink">SHISHAMO</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/スガシカオ" title="wikilink">菅止戈男</a></li>
 <li></li>
 </ul></td>
 <td><ul>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/DAOKO" title="wikilink">DAOKO</a></li>
+<li><a href="../Page/DAOKO.md" title="wikilink">DAOKO</a></li>
 <li></li>
 <li></li>
 <li></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/我念歌詞呆呆的" title="wikilink">我念歌词呆呆的</a></li>
+<li><a href="../Page/我念歌詞呆呆的.md" title="wikilink">我念歌词呆呆的</a></li>
 <li><a href="../Page/星期三的康帕内拉.md" title="wikilink">星期三的康帕内拉</a></li>
 <li></li>
 </ul></td>
@@ -551,11 +551,11 @@ STAGE的演出同样通过手机应用对外进行直播\[26\]。本届音乐节
 <li></li>
 <li><a href="../Page/BIGMAMA.md" title="wikilink">BIGMAMA</a></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/SiM" title="wikilink">SiM</a></li>
+<li><a href="../Page/SiM.md" title="wikilink">SiM</a></li>
 <li><a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/UNISON_SQUARE_GARDEN" title="wikilink">UNISON SQUARE GARDEN</a></li>
+<li><a href="../Page/UNISON_SQUARE_GARDEN.md" title="wikilink">UNISON SQUARE GARDEN</a></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a></li>
+<li><a href="../Page/星野源.md" title="wikilink">星野源</a></li>
 </ul></td>
 <td><ul>
 <li></li>
@@ -575,7 +575,7 @@ STAGE的演出同样通过手机应用对外进行直播\[26\]。本届音乐节
 <li></li>
 <li></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/Mrs._GREEN_APPLE" title="wikilink">Mrs. GREEN APPLE</a></li>
+<li><a href="../Page/Mrs._GREEN_APPLE.md" title="wikilink">Mrs. GREEN APPLE</a></li>
 </ul></td>
 <td><ul>
 <li>ARUDEHITO<br />
@@ -618,11 +618,11 @@ Saitama音乐大赛\[33\]，获胜者可以登上VIVA LA ROCK的舞台演出。
 （5月3日）</p></td>
 <td><ul>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/SHISHAMO" title="wikilink">SHISHAMO</a></li>
+<li><a href="../Page/SHISHAMO.md" title="wikilink">SHISHAMO</a></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/KEYTALK" title="wikilink">KEYTALK</a></li>
+<li><a href="../Page/KEYTALK.md" title="wikilink">KEYTALK</a></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/SiM" title="wikilink">SiM</a></li>
+<li><a href="../Page/SiM.md" title="wikilink">SiM</a></li>
 <li></li>
 </ul></td>
 <td><ul>
@@ -646,7 +646,7 @@ Saitama音乐大赛\[33\]，获胜者可以登上VIVA LA ROCK的舞台演出。
 <li></li>
 </ul></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/冈崎体育" title="wikilink">冈崎体育</a></li>
+<li><a href="../Page/冈崎体育.md" title="wikilink">冈崎体育</a></li>
 <li></li>
 <li></li>
 <li>Getting Better（DJ:片平实、神启文、斎藤雄）</li>
@@ -676,7 +676,7 @@ Saitama音乐大赛\[33\]，获胜者可以登上VIVA LA ROCK的舞台演出。
 <li>VIVA LA J-ROCK ANTHEMS!</li>
 <li></li>
 <li><a href="../Page/魚韻.md" title="wikilink">鱼韵</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/UNISON_SQUARE_GARDEN" title="wikilink">UNISON SQUARE GARDEN</a></li>
+<li><a href="../Page/UNISON_SQUARE_GARDEN.md" title="wikilink">UNISON SQUARE GARDEN</a></li>
 </ul></td>
 <td><ul>
 <li></li>
@@ -694,7 +694,7 @@ Saitama音乐大赛\[33\]，获胜者可以登上VIVA LA ROCK的舞台演出。
 <li></li>
 <li></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/我念歌詞呆呆的" title="wikilink">我念歌词呆呆的</a></li>
+<li><a href="../Page/我念歌詞呆呆的.md" title="wikilink">我念歌词呆呆的</a></li>
 <li></li>
 </ul></td>
 <td><ul>
@@ -748,11 +748,11 @@ Saitama音乐大赛\[33\]，获胜者可以登上VIVA LA ROCK的舞台演出。
 <li></li>
 <li></li>
 <li>Ivy to Fraudulent Game</li>
-<li><a href="https://zh.wikipedia.org/wiki/打首狱门同好会" title="wikilink">打首狱门同好会</a></li>
+<li><a href="../Page/打首狱门同好会.md" title="wikilink">打首狱门同好会</a></li>
 </ul></td>
 <td><ul>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/尾崎裕哉" title="wikilink">尾崎裕哉</a></li>
+<li><a href="../Page/尾崎裕哉.md" title="wikilink">尾崎裕哉</a></li>
 <li></li>
 <li></li>
 </ul></td>
@@ -798,7 +798,7 @@ POP\!”特别活动\[37\]，共有17组艺人参加\[38\]。
 <li></li>
 <li><a href="https://zh.wikipedia.org/wiki/sumika" title="wikilink">sumika</a></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/SHISHAMO" title="wikilink">SHISHAMO</a></li>
+<li><a href="../Page/SHISHAMO.md" title="wikilink">SHISHAMO</a></li>
 <li></li>
 <li><a href="../Page/SPITZ.md" title="wikilink">SPITZ</a></li>
 <li><a href="../Page/魚韻.md" title="wikilink">鱼韵</a></li>
@@ -818,7 +818,7 @@ POP\!”特别活动\[37\]，共有17组艺人参加\[38\]。
 <li></li>
 <li><a href="../Page/DATS.md" title="wikilink">DATS</a></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/King_Gnu" title="wikilink">King Gnu</a></li>
+<li><a href="../Page/King_Gnu.md" title="wikilink">King Gnu</a></li>
 <li></li>
 <li></li>
 </ul></td>
@@ -844,7 +844,7 @@ POP\!”特别活动\[37\]，共有17组艺人参加\[38\]。
 （5月4日）</p></td>
 <td><ul>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/KEYTALK" title="wikilink">KEYTALK</a></li>
+<li><a href="../Page/KEYTALK.md" title="wikilink">KEYTALK</a></li>
 <li>VIVA LA J-ROCK ANTHEMS!</li>
 <li><a href="../Page/凜冽時雨.md" title="wikilink">凛冽时雨</a></li>
 <li><a href="../Page/UVERworld.md" title="wikilink">UVERworld</a></li>
@@ -892,7 +892,7 @@ POP\!”特别活动\[37\]，共有17组艺人参加\[38\]。
 <td><p>第3天<br />
 （5月5日）</p></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/SiM" title="wikilink">SiM</a></li>
+<li><a href="../Page/SiM.md" title="wikilink">SiM</a></li>
 <li></li>
 <li></li>
 <li><a href="https://zh.wikipedia.org/wiki/东京斯卡乐园管弦乐团" title="wikilink">东京斯卡乐园管弦乐团</a> feat.斋藤宏介/TAKUMA/TOSHI-LOW/细美武士/峰田和伸</li>
@@ -903,7 +903,7 @@ POP\!”特别活动\[37\]，共有17组艺人参加\[38\]。
 <td><ul>
 <li></li>
 <li><a href="https://zh.wikipedia.org/wiki/The_Back_Horn" title="wikilink">THE BACK HORN</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/打首狱门同好会" title="wikilink">打首狱门同好会</a></li>
+<li><a href="../Page/打首狱门同好会.md" title="wikilink">打首狱门同好会</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/coldrain" title="wikilink">coldrain</a></li>
 <li></li>
 <li></li>
@@ -939,13 +939,13 @@ POP\!”特别活动\[37\]，共有17组艺人参加\[38\]。
 <td><ul>
 <li><a href="../Page/Kobushi_Factory.md" title="wikilink">Kobushi Factory</a></li>
 <li>SHOWROOM选拔得奖者</li>
-<li><a href="https://zh.wikipedia.org/wiki/最後的偶像" title="wikilink">最后的偶像家族</a></li>
+<li><a href="../Page/最後的偶像.md" title="wikilink">最后的偶像家族</a></li>
 <li></li>
 <li></li>
 <li><a href="https://zh.wikipedia.org/wiki/铃木爱理" title="wikilink">铃木爱理</a></li>
 <li></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/BiSH" title="wikilink">BiSH</a></li>
+<li><a href="../Page/BiSH.md" title="wikilink">BiSH</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/欅坂46" title="wikilink">欅坂46</a></li>
 <li></li>
 <li><a href="../Page/道重沙由美.md" title="wikilink">道重沙由美</a></li>

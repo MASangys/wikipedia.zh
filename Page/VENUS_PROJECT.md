@@ -23,7 +23,7 @@ VENUS（フォーミュラ ヴィーナス）**」的“偶像×热血故事”�
   - 更級美月
     声 - [田邊留依](../Page/田邊留依.md "wikilink")
   - 香島夕
-    声 - [根本流風](https://zh.wikipedia.org/wiki/根本流風 "wikilink")
+    声 - [根本流風](../Page/根本流風.md "wikilink")
 
 #### 传奇角色
 
@@ -38,14 +38,14 @@ VENUS（フォーミュラ ヴィーナス）**」的“偶像×热血故事”�
 
 《**VENUS PROJECT DREAMBEAT**》（ヴィーナス
 プロジェクトドリームビート）是2015年7月30日（[iOS版](../Page/IOS.md "wikilink")）、同年8月10日（[安卓版](../Page/Android.md "wikilink")）发布的游戏应用。此外，安卓版最开始适配的机型很少，为[Xperia
-Z3](https://zh.wikipedia.org/wiki/Sony_Xperia_Z3 "wikilink")・[Z4](../Page/Sony_Xperia_Z3+.md "wikilink")、[Nexus
+Z3](../Page/Sony_Xperia_Z3.md "wikilink")・[Z4](../Page/Sony_Xperia_Z3+.md "wikilink")、[Nexus
 6](../Page/Nexus_6.md "wikilink")・[9](../Page/Nexus_9.md "wikilink")、[Sheild
 Tablet](../Page/Shield_Portable.md "wikilink")、[ZenFone
 2](../Page/華碩ZenFone_2.md "wikilink")，但版本更新后推荐的机种就增加了。
 
 ## 漫画
 
-在[網絡漫畫配信网站](https://zh.wikipedia.org/wiki/網絡漫畫 "wikilink")“”上，2015年4月21日起配信了全部5话。[長谷川光司作画](https://zh.wikipedia.org/wiki/長谷川光司 "wikilink")。6月16日截止前，在每月第1个、第3个礼拜二更新。单行本由[KADOKAWA](../Page/KADOKAWA.md "wikilink")
+在[網絡漫畫配信网站](../Page/網絡漫畫.md "wikilink")“”上，2015年4月21日起配信了全部5话。[長谷川光司作画](https://zh.wikipedia.org/wiki/長谷川光司 "wikilink")。6月16日截止前，在每月第1个、第3个礼拜二更新。单行本由[KADOKAWA](../Page/KADOKAWA.md "wikilink")
 [ASCII Media
 Works在](../Page/ASCII_Media_Works.md "wikilink")2015年6月26日发售。全1卷。
 
@@ -53,7 +53,7 @@ Works在](../Page/ASCII_Media_Works.md "wikilink")2015年6月26日发售。全1�
 
 《**广播剧 VENUS
 PROJECT**》在2015年4月2日到9月24日在每礼拜四23点30分到45分在[大阪放送播出](../Page/大阪放送.md "wikilink")。4月3日到9月25日，也进行了网络广播。出演的有
-[姫崎愛未](https://zh.wikipedia.org/wiki/姫崎愛未 "wikilink")（高野歌恋）、[田辺留依](../Page/田邊留依.md "wikilink")（更級美月）、[根本流風](https://zh.wikipedia.org/wiki/根本流風 "wikilink")（香島夕）3位。
+[姫崎愛未](https://zh.wikipedia.org/wiki/姫崎愛未 "wikilink")（高野歌恋）、[田辺留依](../Page/田邊留依.md "wikilink")（更級美月）、[根本流風](../Page/根本流風.md "wikilink")（香島夕）3位。
 
 《**女神ラジオ〜めがらじ**》则在2016年7月21日到10月27日在HiBiKi Radio
 Station播出\[3\]。每礼拜四更新。主持人是[秦佐和子](../Page/秦佐和子.md "wikilink")（原饰演エリコ）和
@@ -95,7 +95,7 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
 
 :\* [田辺留依](../Page/田邊留依.md "wikilink")
 
-:\* [根本流風](https://zh.wikipedia.org/wiki/根本流風 "wikilink")
+:\* [根本流風](../Page/根本流風.md "wikilink")
 
 #### 职员表
 
@@ -144,10 +144,10 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
     声 - [山岡ゆり](../Page/山岡百合.md "wikilink")
     新人王候选人之一。是啦啦队风格的。在第1回战斗第3回合时被鶴卷击败。
   - 鶴巻蓮（つるまき れん）
-    声 - [中恵光城](https://zh.wikipedia.org/wiki/中惠光城 "wikilink")
+    声 - [中恵光城](../Page/中惠光城.md "wikilink")
     新人王候选人之一。身着白大褂的理科系女子。在比试开始前投下原有的眼镜是惯例，在这之后会脱下白大褂而戴上新的眼镜，展现出兔女郎的姿态。在准决赛的第2回合被流华击败。被击败后，知道了流华所来自的马兹西斯坦的国家现状，参加了给当地送上千纸鹤的行动。
   - 小瀬路未（おぜ ろみ）
-    声 - [小野早稀](https://zh.wikipedia.org/wiki/小野早稀 "wikilink")
+    声 - [小野早稀](../Page/小野早稀.md "wikilink")
     新人王候选人之一。作为偶像组合Gothic13（ゴシック·サーティーン）的妹妹。受Gothic13的领导ー**下司麗**（姓是“しもつかさ”。声
     -
     [M・A・O](../Page/市道真央.md "wikilink")）虐待，左眼被刘海遮挡。被流华讨厌，所以在第1回战斗的第4回合因士气不足而被击败。
@@ -155,7 +155,7 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
     声 - [子安武人](../Page/子安武人.md "wikilink")
     惠理子和美乌的教练，还是土佐野晶社长的丈夫。入院中。是有“魔鬼的土佐野”称呼的有名教练。全名是“土佐 とおる”（名字表记不明）。
   - 土佐野晶
-    声 - [高橋理恵子](https://zh.wikipedia.org/wiki/高橋理惠子 "wikilink")
+    声 - [高橋理恵子](../Page/高橋理惠子.md "wikilink")
     惠理子和美乌所属事务所(株)TOSANO经纪公司的社长、教练的妻子。
   - 老师
     声 - [金月真美](../Page/金月真美.md "wikilink")
@@ -203,7 +203,7 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
     声 - [田辺留依](../Page/田邊留依.md "wikilink")
     游戏版偶像，在动画里也是现役偶像。性格很酷。也担当预告。擅长分析，在预告中一定要说出“那种意味深长的标题”。
   - 香島夕（かしま ゆう）
-    声 - [根本流風](https://zh.wikipedia.org/wiki/根本流風 "wikilink")
+    声 - [根本流風](../Page/根本流風.md "wikilink")
     游戏版偶像，在动画里也是现役偶像。性格很天然。也担当预告。喜欢吃咖喱和鳗鱼。
 
 #### 用语（动画）
@@ -224,7 +224,7 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
 
   - 原作 - GALAT
   - 監督 - 中山岳洋
-  - 系列构成、脚本 - [雑破業](https://zh.wikipedia.org/wiki/雜破業 "wikilink")
+  - 系列构成、脚本 - [雑破業](../Page/雜破業.md "wikilink")
   - 角色原画 -
   - 角色设定、总作画监督 -
   - 机械设定 -
@@ -234,13 +234,12 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
   - 編集 - 武宮むつみ
   - 音響監督 -
   - 音乐 - 、[松尾早人](https://zh.wikipedia.org/wiki/松尾早人 "wikilink")
-  - 音乐制作 - [IMAGINE](https://zh.wikipedia.org/wiki/IMAGINE "wikilink")
+  - 音乐制作 - [IMAGINE](../Page/IMAGINE.md "wikilink")
   - 製作統括 - 鳴澤猛司
   - 执行制作人 - 村山啓二郎
   - 制作人 - 佐藤友紀、角田博昭、伊勢雅徳、小俣明徳、重田正憲
   - 动画制作人 - 高江勇次
-  - 动画制作 -
-    [NOMAD](https://zh.wikipedia.org/wiki/Nomad_\(公司\) "wikilink")
+  - 动画制作 - [NOMAD](../Page/Nomad_\(公司\).md "wikilink")
   - 製作 - VENUS PROJECT执行委員会
 
 #### 主題歌
@@ -277,7 +276,7 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
   - 「天使の一撃 歌恋・夕 RookieBattle Version」（第1話）
     作詞 - 下北沢がさつ / 作曲 - 伊豆一彦 / 編曲 - 伊藤政行 / 歌 - 高野歌恋（
     [姫崎愛未](https://zh.wikipedia.org/wiki/姫崎愛未 "wikilink")） VS
-    香島夕（[根本流風](https://zh.wikipedia.org/wiki/根本流風 "wikilink")）
+    香島夕（[根本流風](../Page/根本流風.md "wikilink")）
   - 「天使の一撃」（第1、4話）
     作詞 - 下北沢がさつ / 作曲 - 伊豆一彦 / 編曲 - 伊藤政行 / 歌 - 高野歌恋（姫崎愛未）
   - 「青い風」（第2話）
@@ -308,14 +307,14 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
     濡羽美烏（早瀬莉花）
   - 「Girl 路未・流華 RookieBattle Version」（第3話）
     作詞 - 伊加ノブコ / 作曲 - 伊豆一彦 / 編曲 - タナカノブマサ / 歌 -
-    小瀬路未（[小野早稀](https://zh.wikipedia.org/wiki/小野早稀 "wikilink")）
+    小瀬路未（[小野早稀](../Page/小野早稀.md "wikilink")）
     VS 流華・索瓦加斯基（飯田里穂）
   - 「Mint Flavor 濡羽美烏（CV:早瀬莉花）Version」（第4話）
     作詞 - TOMO / 作曲・編曲 -  / 歌 - 濡羽美烏（早瀬莉花）
   - 「Boy\&Girl Friend 蓮・流華 RookieBattle Version」（第5話）
     作詞 - 森晴彦 / 作曲 - 奏多雅（Primo） / 編曲 -  from STRIKERS / 歌 -
-    鶴巻蓮（[中恵光城](https://zh.wikipedia.org/wiki/中惠光城 "wikilink")）
-    VS 流華・索瓦加斯基（飯田里穂）
+    鶴巻蓮（[中恵光城](../Page/中惠光城.md "wikilink")） VS
+    流華・索瓦加斯基（飯田里穂）
   - 「クロック・マドモアゼル」（第5話）
     作詞 - 森晴彦 / 作曲・編曲 -  / 歌 - 香島夕（根本流風）
   - 「恋路川 歌恋・エリコ Outside Ring Battle Version」（第5話）
@@ -357,7 +356,7 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
 <tr class="odd">
 <td><p>第三集</p></td>
 <td><p>那道光芒</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西田正義" title="wikilink">西田正義</a></p></td>
+<td><p><a href="../Page/西田正義.md" title="wikilink">西田正義</a></p></td>
 <td><p>安藤健</p></td>
 <td><p>飯飼一幸、岩岡優子<br />
 飯塚葉子</p></td>

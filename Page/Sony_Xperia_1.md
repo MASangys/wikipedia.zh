@@ -20,8 +20,7 @@ Pro功能，讓用家能輕易拍攝具有電影感的21.9畫面比例作品。
 
 ### 軟件
 
-Sony Xperia 1運行[Android 9
-Pie](https://zh.wikipedia.org/wiki/Android_Pie "wikilink")。
+Sony Xperia 1運行[Android 9 Pie](../Page/Android_Pie.md "wikilink")。
 
 ## 参考资料
 

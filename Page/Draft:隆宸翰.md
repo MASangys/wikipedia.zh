@@ -13,15 +13,15 @@
 
 ## 電視劇
 
-|                                                           |                                                           |                                                   |                                                   |
-| --------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
-| **年份**                                                    | **劇名**                                                    | **角色**                                            | **首播**                                            |
-| 2011年                                                     | 《[給愛麗絲的奇蹟](../Page/給愛麗絲的奇蹟.md "wikilink")》                | 李云                                                | [華視](https://zh.wikipedia.org/wiki/華視 "wikilink") |
-| 2012年                                                     | 《[結婚好嗎](https://zh.wikipedia.org/wiki/結婚好嗎 "wikilink")》   | 林正國                                               | [台視](https://zh.wikipedia.org/wiki/台視 "wikilink") |
-| 2013年                                                     | 《[廉政英雄](https://zh.wikipedia.org/wiki/廉政英雄 "wikilink")》   | 揚力學                                               | [民視](https://zh.wikipedia.org/wiki/民視 "wikilink") |
-| 2017年                                                     | 《[媽媽不見了](https://zh.wikipedia.org/wiki/媽媽不見了 "wikilink")》 | David                                             | [民視](https://zh.wikipedia.org/wiki/民視 "wikilink") |
-| 《[麻醉風暴2](https://zh.wikipedia.org/wiki/麻醉風暴2 "wikilink")》 | 彭伯恩                                                       | [公視](https://zh.wikipedia.org/wiki/公視 "wikilink") |                                                   |
-| 2019年                                                     | 《[噬罪者](../Page/噬罪者.md "wikilink")》                        | 宋克帆                                               | [公視](https://zh.wikipedia.org/wiki/公視 "wikilink") |
+|                                        |                                                         |                                                   |                                                   |
+| -------------------------------------- | ------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| **年份**                                 | **劇名**                                                  | **角色**                                            | **首播**                                            |
+| 2011年                                  | 《[給愛麗絲的奇蹟](../Page/給愛麗絲的奇蹟.md "wikilink")》              | 李云                                                | [華視](https://zh.wikipedia.org/wiki/華視 "wikilink") |
+| 2012年                                  | 《[結婚好嗎](https://zh.wikipedia.org/wiki/結婚好嗎 "wikilink")》 | 林正國                                               | [台視](https://zh.wikipedia.org/wiki/台視 "wikilink") |
+| 2013年                                  | 《[廉政英雄](https://zh.wikipedia.org/wiki/廉政英雄 "wikilink")》 | 揚力學                                               | [民視](https://zh.wikipedia.org/wiki/民視 "wikilink") |
+| 2017年                                  | 《[媽媽不見了](../Page/媽媽不見了.md "wikilink")》                  | David                                             | [民視](https://zh.wikipedia.org/wiki/民視 "wikilink") |
+| 《[麻醉風暴2](../Page/麻醉風暴2.md "wikilink")》 | 彭伯恩                                                     | [公視](https://zh.wikipedia.org/wiki/公視 "wikilink") |                                                   |
+| 2019年                                  | 《[噬罪者](../Page/噬罪者.md "wikilink")》                      | 宋克帆                                               | [公視](https://zh.wikipedia.org/wiki/公視 "wikilink") |
 
 ## 電視電影
 
@@ -42,14 +42,14 @@
 |                                                                   |                                                                         |                                                             |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------- |
 | **年份**                                                            | **劇團名**                                                                 | **劇名**                                                      |
-| 2011年                                                             | 《[台南人劇團](https://zh.wikipedia.org/wiki/台南人劇團 "wikilink")》               | [RE/TURN](https://zh.wikipedia.org/wiki/RE/TURN "wikilink") |
+| 2011年                                                             | 《[台南人劇團](../Page/台南人劇團.md "wikilink")》                                  | [RE/TURN](https://zh.wikipedia.org/wiki/RE/TURN "wikilink") |
 | 《[國家劇院實習劇場](https://zh.wikipedia.org/wiki/國家劇院實習劇場 "wikilink")》   | [據說有戰爭在遠方](https://zh.wikipedia.org/wiki/據說有戰爭在遠方 "wikilink")           |                                                             |
 | 2012年                                                             | 《[人力飛行劇團 幾米音樂劇](https://zh.wikipedia.org/wiki/人力飛行劇團_幾米音樂劇 "wikilink")》 | [地下鐵](https://zh.wikipedia.org/wiki/地下鐵 "wikilink")         |
 | 2013年                                                             | 《[國家劇院實習劇場](https://zh.wikipedia.org/wiki/國家劇院實習劇場 "wikilink")》         | [變奏巴哈](https://zh.wikipedia.org/wiki/變奏巴哈 "wikilink")       |
-| 2014年                                                             | 《[台南人劇團](https://zh.wikipedia.org/wiki/台南人劇團 "wikilink")》               | [RE/TURN](https://zh.wikipedia.org/wiki/RE/TURN "wikilink") |
+| 2014年                                                             | 《[台南人劇團](../Page/台南人劇團.md "wikilink")》                                  | [RE/TURN](https://zh.wikipedia.org/wiki/RE/TURN "wikilink") |
 | 2015年                                                             | 《[人力飛行劇團](https://zh.wikipedia.org/wiki/人力飛行劇團 "wikilink")》             | [星光劇院](https://zh.wikipedia.org/wiki/星光劇院 "wikilink")       |
 | 《[新舞臺藝術節](https://zh.wikipedia.org/wiki/新舞臺藝術節 "wikilink")》       | [明年或者明天見](https://zh.wikipedia.org/wiki/明年或者明天見 "wikilink")             |                                                             |
-| 2016年                                                             | 《[我城劇場](https://zh.wikipedia.org/wiki/我城劇場 "wikilink")》                 | [我記得](https://zh.wikipedia.org/wiki/我記得 "wikilink")         |
+| 2016年                                                             | 《[我城劇場](https://zh.wikipedia.org/wiki/我城劇場 "wikilink")》                 | [我記得](../Page/我記得.md "wikilink")                            |
 | 《[綠光劇團](../Page/綠光劇團.md "wikilink")》                              | [Closer 情迷](https://zh.wikipedia.org/wiki/Closer_情迷 "wikilink")         |                                                             |
 | 《[香港 進念二十面體](https://zh.wikipedia.org/wiki/香港_進念二十面體 "wikilink")》 | [我們的愛情喜劇是威士忌](https://zh.wikipedia.org/wiki/我們的愛情喜劇是威士忌 "wikilink")     |                                                             |
 | 2017年                                                             | 《[人力飛行劇團 幾米音樂劇](https://zh.wikipedia.org/wiki/人力飛行劇團_幾米音樂劇 "wikilink")》 | [地下鐵](https://zh.wikipedia.org/wiki/地下鐵 "wikilink")         |

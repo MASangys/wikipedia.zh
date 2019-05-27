@@ -21,13 +21,13 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>''' 《<a href="https://zh.wikipedia.org/wiki/模犯生" title="wikilink">模犯生</a>》</p></td>
+<td><p>''' 《<a href="../Page/模犯生.md" title="wikilink">模犯生</a>》</p></td>
 <td><ul>
-<li><p>《<a href="https://zh.wikipedia.org/wiki/模犯生" title="wikilink">模犯生</a>》</p></li>
+<li><p>《<a href="../Page/模犯生.md" title="wikilink">模犯生</a>》</p></li>
 <li><p>《我們的故事2》</p></li>
 <li><p>《女兒》</p></li>
 <li><p>《美麗的痛》</p></li>
-<li><p>《<a href="https://zh.wikipedia.org/wiki/海墘新路" title="wikilink">海墘新路</a>》</p></li>
+<li><p>《<a href="../Page/海墘新路.md" title="wikilink">海墘新路</a>》</p></li>
 </ul></td>
 <td><p>[3]</p></td>
 </tr>
@@ -57,7 +57,7 @@
 <li><p><a href="../Page/唐季禮.md" title="wikilink">唐季禮</a> 《<a href="https://zh.wikipedia.org/wiki/功夫瑜伽" title="wikilink">功夫瑜伽</a>》</p></li>
 <li><p><a href="../Page/梁智強.md" title="wikilink">梁智強</a> 《我們的故事2》</p></li>
 <li><p>Tunku Mona Riza 《美麗的痛》</p></li>
-<li><p>蘇倧興 《<a href="https://zh.wikipedia.org/wiki/海墘新路" title="wikilink">海墘新路</a>》</p></li>
+<li><p>蘇倧興 《<a href="../Page/海墘新路.md" title="wikilink">海墘新路</a>》</p></li>
 <li><p>金相滿 《上帝的男高音》</p></li>
 </ul></td>
 <td><p>[4]</p></td>
@@ -113,12 +113,12 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>''' <a href="https://zh.wikipedia.org/wiki/茱蒂蒙·瓊查容蘇因" title="wikilink">茱蒂蒙·瓊查容蘇因</a><br />
-《<a href="https://zh.wikipedia.org/wiki/模犯生" title="wikilink">模犯生</a>》</p></td>
+<td><p>''' <a href="../Page/茱蒂蒙·瓊查容蘇因.md" title="wikilink">茱蒂蒙·瓊查容蘇因</a><br />
+《<a href="../Page/模犯生.md" title="wikilink">模犯生</a>》</p></td>
 <td><ul>
-<li><p><a href="https://zh.wikipedia.org/wiki/茱蒂蒙·瓊查容蘇因" title="wikilink">茱蒂蒙·瓊查容蘇因</a> 《<a href="https://zh.wikipedia.org/wiki/模犯生" title="wikilink">模犯生</a>》</p></li>
+<li><p><a href="../Page/茱蒂蒙·瓊查容蘇因.md" title="wikilink">茱蒂蒙·瓊查容蘇因</a> 《<a href="../Page/模犯生.md" title="wikilink">模犯生</a>》</p></li>
 <li><p>陳麗貞 《我們的故事》</p></li>
-<li><p><a href="../Page/楊雁雁.md" title="wikilink">楊雁雁</a> 《<a href="https://zh.wikipedia.org/wiki/海墘新路" title="wikilink">海墘新路</a>》</p></li>
+<li><p><a href="../Page/楊雁雁.md" title="wikilink">楊雁雁</a> 《<a href="../Page/海墘新路.md" title="wikilink">海墘新路</a>》</p></li>
 <li><p>June Lojong 《美麗的痛》</p></li>
 <li><p>Adinia Wirasti 《挑剔11》</p></li>
 </ul></td>
@@ -175,13 +175,13 @@
 <tbody>
 <tr class="odd">
 <td><p>''' <a href="../Page/何超儀.md" title="wikilink">何超儀</a><br />
-《<a href="https://zh.wikipedia.org/wiki/無限春光27" title="wikilink">無限春光27</a>》</p></td>
+《<a href="../Page/無限春光27.md" title="wikilink">無限春光27</a>》</p></td>
 <td><ul>
 <li><p>Merila Zarei 《女兒》</p></li>
-<li><p><a href="../Page/何超儀.md" title="wikilink">何超儀</a> 《<a href="https://zh.wikipedia.org/wiki/無限春光27" title="wikilink">無限春光27</a>》</p></li>
+<li><p><a href="../Page/何超儀.md" title="wikilink">何超儀</a> 《<a href="../Page/無限春光27.md" title="wikilink">無限春光27</a>》</p></li>
 <li><p>Nadiya Nissa 《美麗的痛》</p></li>
-<li><p><a href="https://zh.wikipedia.org/wiki/黎明_(马来西亚艺人)" title="wikilink">黎明</a> 《浪子回家》</p></li>
-<li><p><a href="https://zh.wikipedia.org/wiki/法莉達·賈勒爾" title="wikilink">法莉達·賈勒爾</a> 《I'm not a Terrorist》</p></li>
+<li><p><a href="../Page/黎明_(马来西亚艺人).md" title="wikilink">黎明</a> 《浪子回家》</p></li>
+<li><p><a href="../Page/法莉達·賈勒爾.md" title="wikilink">法莉達·賈勒爾</a> 《I'm not a Terrorist》</p></li>
 </ul></td>
 <td><p>[8]</p></td>
 </tr>
@@ -211,7 +211,7 @@
 <li><p>Mehran Kashani 《女兒》</p></li>
 <li><p><a href="../Page/梁智強.md" title="wikilink">梁智強</a>、孫逸群、夏友慶 《我們的故事》</p></li>
 <li><p>張爵西 《<a href="../Page/我來自紐約.md" title="wikilink">我來自紐約</a>》</p></li>
-<li><p>蘇倧興 《<a href="https://zh.wikipedia.org/wiki/海墘新路" title="wikilink">海墘新路</a>》</p></li>
+<li><p>蘇倧興 《<a href="../Page/海墘新路.md" title="wikilink">海墘新路</a>》</p></li>
 <li><p>金相滿 《上帝的男高音》</p></li>
 </ul></td>
 <td><p>[9]</p></td>
@@ -300,7 +300,7 @@
 <td><ul>
 <li><p>Meysam Mouini 《女兒》</p></li>
 <li><p><a href="../Page/張嘉輝.md" title="wikilink">張嘉輝</a> 《<a href="https://zh.wikipedia.org/wiki/六弄咖啡館" title="wikilink">六弄咖啡館</a>》</p></li>
-<li><p>Chonlasit Upanikkit 《<a href="https://zh.wikipedia.org/wiki/模犯生" title="wikilink">模犯生</a>》</p></li>
+<li><p>Chonlasit Upanikkit 《<a href="../Page/模犯生.md" title="wikilink">模犯生</a>》</p></li>
 <li><p>申敏靜 《上帝的男高音》</p></li>
 <li><p>鍾煒釗 《<a href="https://zh.wikipedia.org/wiki/拆弹专家_(电影)" title="wikilink">拆弹专家</a>》</p></li>
 </ul></td>
@@ -360,9 +360,9 @@
 <td><p>''' 金俊盛<br />
 《上帝的男高音》</p></td>
 <td><ul>
-<li><p>莊慰義 《<a href="https://zh.wikipedia.org/wiki/海墘新路" title="wikilink">海墘新路</a>》</p></li>
+<li><p>莊慰義 《<a href="../Page/海墘新路.md" title="wikilink">海墘新路</a>》</p></li>
 <li><p>王宗賢 《<a href="https://zh.wikipedia.org/wiki/功夫瑜伽" title="wikilink">功夫瑜伽</a>》</p></li>
-<li><p>Vichaya Vatanasapt 《<a href="https://zh.wikipedia.org/wiki/模犯生" title="wikilink">模犯生</a>》</p></li>
+<li><p>Vichaya Vatanasapt 《<a href="../Page/模犯生.md" title="wikilink">模犯生</a>》</p></li>
 <li><p>金俊盛 《上帝的男高音》</p></li>
 <li><p>麥如麗 《我們的故事》</p></li>
 </ul></td>
@@ -417,9 +417,9 @@
 <tbody>
 <tr class="odd">
 <td><p>''' 陳浚<br />
-《<a href="https://zh.wikipedia.org/wiki/海墘新路" title="wikilink">海墘新路</a>》</p></td>
+《<a href="../Page/海墘新路.md" title="wikilink">海墘新路</a>》</p></td>
 <td><ul>
-<li><p>陳浚 《<a href="https://zh.wikipedia.org/wiki/海墘新路" title="wikilink">海墘新路</a>》</p></li>
+<li><p>陳浚 《<a href="../Page/海墘新路.md" title="wikilink">海墘新路</a>》</p></li>
 <li><p><a href="../Page/陈浩严.md" title="wikilink">陈浩严</a> 《浪子回家》</p></li>
 <li><p>Ashok Kumar 《Priyamudan Priya》</p></li>
 </ul></td>

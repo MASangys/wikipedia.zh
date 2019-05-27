@@ -1,19 +1,19 @@
-**C9BOYZ**，為韓國[C9娛樂將於](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")2019年推出的五人男子團體。成員包括[BX](https://zh.wikipedia.org/wiki/李炳坤 "wikilink")、[昇勳](https://zh.wikipedia.org/wiki/金昇勳 "wikilink")、龍熙、[珍映及炫晳](https://zh.wikipedia.org/wiki/裴珍映 "wikilink")，預計下半年正式出道。
+**C9BOYZ**，為韓國[C9娛樂將於](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")2019年推出的五人男子團體。成員包括[BX](../Page/李炳坤.md "wikilink")、[昇勳](../Page/金昇勳.md "wikilink")、龍熙、[珍映及炫晳](https://zh.wikipedia.org/wiki/裴珍映 "wikilink")，預計下半年正式出道。
 
 ## 成員資料
 
 ### 成員列表
 
-| 成員列表                                               |
-| -------------------------------------------------- |
-| 藝名                                                 |
-| 漢字                                                 |
-| [BX](https://zh.wikipedia.org/wiki/李炳坤 "wikilink") |
-| [昇勳](https://zh.wikipedia.org/wiki/金昇勳 "wikilink") |
-| 龍熙                                                 |
-| [珍映](https://zh.wikipedia.org/wiki/珍映 "wikilink")  |
-| 炫晳                                                 |
-| 世訓                                                 |
+| 成員列表                                              |
+| ------------------------------------------------- |
+| 藝名                                                |
+| 漢字                                                |
+| [BX](../Page/李炳坤.md "wikilink")                   |
+| [昇勳](../Page/金昇勳.md "wikilink")                   |
+| 龍熙                                                |
+| [珍映](https://zh.wikipedia.org/wiki/珍映 "wikilink") |
+| 炫晳                                                |
+| 世訓                                                |
 
 ## 活動經歷
 

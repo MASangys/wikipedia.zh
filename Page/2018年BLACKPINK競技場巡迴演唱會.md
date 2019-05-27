@@ -1,11 +1,11 @@
-**2018年BLACKPINK競技場巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK出道後的首場日本巡迴演唱會](../Page/BLACKPINK.md "wikilink")，以宣傳她們出道至今所發行過的音樂專輯，包括《[Blackpink](https://zh.wikipedia.org/wiki/Blackpink_\(迷你專輯\) "wikilink")》、《[Square
-Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》等。巡演於2018年7月24日在日本[大阪城音樂廳開始](https://zh.wikipedia.org/wiki/大阪城音樂廳 "wikilink")，官方定於2018年12月24日於日本[大阪巨蛋結束](../Page/大阪巨蛋.md "wikilink")，總計8場演出。
+**2018年BLACKPINK競技場巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK出道後的首場日本巡迴演唱會](../Page/BLACKPINK.md "wikilink")，以宣傳她們出道至今所發行過的音樂專輯，包括《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》、《[Square
+Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》等。巡演於2018年7月24日在日本[大阪城音樂廳開始](../Page/大阪城音樂廳.md "wikilink")，官方定於2018年12月24日於日本[大阪巨蛋結束](../Page/大阪巨蛋.md "wikilink")，總計8場演出。
 
 ## 背景
 
 2018年3月27日，BLACKPINK所屬日本經紀公司[YGEX宣佈BLACKPINK將舉行出道後的首場日本競技場巡迴演唱會](https://zh.wikipedia.org/wiki/YGEX "wikilink")，名為「BLACKPINK
 Arena Tour
-2018」，並通過官方網站公開演唱會的初始時間表，這場巡演以7月24日在日本[大阪城音樂廳為起點](https://zh.wikipedia.org/wiki/大阪城音樂廳 "wikilink")，先後在福岡國際中心、[千葉](../Page/千葉市.md "wikilink")[幕張展覽館等](../Page/幕張展覽館.md "wikilink")3座城市舉辦6場演唱會\[1\]，而通過此次公演，BLACKPINK將動員6萬6千餘名觀眾。\[2\]
+2018」，並通過官方網站公開演唱會的初始時間表，這場巡演以7月24日在日本[大阪城音樂廳為起點](../Page/大阪城音樂廳.md "wikilink")，先後在福岡國際中心、[千葉](../Page/千葉市.md "wikilink")[幕張展覽館等](../Page/幕張展覽館.md "wikilink")3座城市舉辦6場演唱會\[1\]，而通過此次公演，BLACKPINK將動員6萬6千餘名觀眾。\[2\]
 
 6場演唱會的門票分兩次的FanClub預售（有加入其粉絲俱樂部的會員可優先購買門票\[3\]\[4\]）和6月2日的一般門票銷售\[5\]，共分三次進行販售，釋出的門票均在開賣後全數售罄\[6\]。而由於大量的門票需求，也促使了額外的場次被新增，增加的場次定於千葉的幕張展覽館，演出日期為2018年8月24日\[7\]\[8\]，門票於7月7日銷售。\[9\]
 
@@ -25,17 +25,12 @@ Arena Tour
     Ver.）](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")（日語版）
 4.  [Stay](https://zh.wikipedia.org/wiki/Stay_\(BLACKPINK歌曲\) "wikilink")（日語版）
 5.  Can't Take My Eyes Off
-    You（[Jennie](https://zh.wikipedia.org/wiki/Jennie_\(韓國歌手\) "wikilink")
-    Solo）
-6.  Eyes Closed +
-    （[Rosé](https://zh.wikipedia.org/wiki/Rosé_\(韓國歌手\) "wikilink")
-    Solo）
+    You（[Jennie](../Page/Jennie_\(韓國歌手\).md "wikilink") Solo）
+6.  Eyes Closed + （[Rosé](../Page/Rosé_\(韓國歌手\).md "wikilink") Solo）
 7.  Lemon + Faded +
-    Attention（[Lisa](https://zh.wikipedia.org/wiki/Lisa_\(泰國歌手\) "wikilink")
+    Attention（[Lisa](../Page/Lisa_\(泰國歌手\).md "wikilink")
     Solo）
-8.  Sakurairo
-    Maukoro；（[Jisoo](https://zh.wikipedia.org/wiki/金智秀_\(歌手\) "wikilink")
-    Solo）
+8.  Sakurairo Maukoro；（[Jisoo](../Page/金智秀_\(歌手\).md "wikilink") Solo）
 9.  Partition（舞蹈翻跳）
 10. [So Hot（The Black Label
     Remix）](https://zh.wikipedia.org/wiki/So_Hot#BLACKPINK重新翻唱《So_Hot（The_Black_Label_Remix）》 "wikilink")
@@ -45,7 +40,7 @@ Arena Tour
 14. [Playing with
     Fire](https://zh.wikipedia.org/wiki/Playing_with_Fire_\(BLACKPINK歌曲\) "wikilink")（日語版）
 15. [As If It's Your
-    Last](https://zh.wikipedia.org/wiki/As_If_It's_Your_Last "wikilink")（日語版）
+    Last](../Page/As_If_It's_Your_Last.md "wikilink")（日語版）
 
 <!-- end list -->
 
@@ -73,7 +68,7 @@ Arena Tour
 <td><p>2018年7月24日</p></td>
 <td><p><a href="../Page/大阪市.md" title="wikilink">大阪</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大阪城音樂廳" title="wikilink">大阪城音樂廳</a></p></td>
+<td><p><a href="../Page/大阪城音樂廳.md" title="wikilink">大阪城音樂廳</a></p></td>
 <td><p>75,000[17]</p></td>
 </tr>
 <tr class="even">

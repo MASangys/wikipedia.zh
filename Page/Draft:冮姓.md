@@ -46,7 +46,7 @@ __NOTITLECONVERT__
 
 ## 名人
 
-  - [冮瑞](https://zh.wikipedia.org/wiki/冮瑞 "wikilink")（1958－），遼寧[本溪人](https://zh.wikipedia.org/wiki/本溪 "wikilink")。現任[遼寧省人民政府副省長](https://zh.wikipedia.org/wiki/遼寧省人民政府 "wikilink")。
+  - [冮瑞](../Page/冮瑞.md "wikilink")（1958－），遼寧[本溪人](https://zh.wikipedia.org/wiki/本溪 "wikilink")。現任[遼寧省人民政府副省長](https://zh.wikipedia.org/wiki/遼寧省人民政府 "wikilink")。
   - [冮國寶](https://zh.wikipedia.org/wiki/冮國寶 "wikilink")（1926－1997），遼寧瀋陽人，尚式形意拳傳人。
   - [冮樹革](https://zh.wikipedia.org/wiki/冮樹革 "wikilink")（生卒年不詳），遼寧瀋陽人，[社會學學者](https://zh.wikipedia.org/wiki/社會學 "wikilink")。
   - [冮大林](https://zh.wikipedia.org/wiki/冮大林 "wikilink")（1975－），[黑龍江](https://zh.wikipedia.org/wiki/黑龍江 "wikilink")[哈爾濱人](https://zh.wikipedia.org/wiki/哈爾濱 "wikilink")，基礎教育家。

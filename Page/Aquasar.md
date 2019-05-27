@@ -5,7 +5,7 @@ Aquasar電腦由三個BladeCenter H機箱構成，混合使用基於QSS22
 [Cell與HS](../Page/Cell_\(微處理器\).md "wikilink")22
 Xeon的模塊\[3\]。其[每秒運行6兆次浮點運算](../Page/每秒浮點運算次數.md "wikilink")，計算效率約為每秒450萬次浮點運算／[瓦特](../Page/瓦特.md "wikilink")\[4\]。
 
-第一個Aquasar系統於2010年在[蘇黎世聯邦理工學院投入運營](https://zh.wikipedia.org/wiki/蘇黎世聯邦理工學院 "wikilink")，另一個計劃在[慕尼黑的](../Page/慕尼黑.md "wikilink")[SuperMUC進行](https://zh.wikipedia.org/wiki/SuperMUC "wikilink")。來自超級電腦運算產生的熱量用於溫暖蘇黎世聯邦理工學院校園的建築物\[5\]。
+第一個Aquasar系統於2010年在[蘇黎世聯邦理工學院投入運營](https://zh.wikipedia.org/wiki/蘇黎世聯邦理工學院 "wikilink")，另一個計劃在[慕尼黑的](../Page/慕尼黑.md "wikilink")[SuperMUC進行](../Page/SuperMUC.md "wikilink")。來自超級電腦運算產生的熱量用於溫暖蘇黎世聯邦理工學院校園的建築物\[5\]。
 
 ## 冷卻系統
 

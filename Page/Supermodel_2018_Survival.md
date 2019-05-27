@@ -288,7 +288,7 @@ Brain Massage獎</p></td>
 ## 嘉賓
 
 第10集：[Weki
-Meki](https://zh.wikipedia.org/wiki/Weki_Meki "wikilink")、[MOMOLAND](https://zh.wikipedia.org/wiki/MOMOLAND "wikilink")（祝賀公演）
+Meki](../Page/Weki_Meki.md "wikilink")、[MOMOLAND](../Page/MOMOLAND.md "wikilink")（祝賀公演）
 
 ## 備註
 

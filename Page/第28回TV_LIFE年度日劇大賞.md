@@ -1,13 +1,12 @@
-[第27回](https://zh.wikipedia.org/wiki/第27回TV_LIFE年度日劇大賞 "wikilink") ←
-**第28回** →
+[第27回](../Page/第27回TV_LIFE年度日劇大賞.md "wikilink") ← **第28回** →
 [第29回](https://zh.wikipedia.org/wiki/第29回TV_LIFE年度日劇大賞 "wikilink")
 
 **第28回[TV
-LIFE年度日劇大賞](https://zh.wikipedia.org/wiki/TV_LIFE年度日劇大賞 "wikilink")**是針對2018年播出的連續劇做出的觀眾投票。
+LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2018年播出的連續劇做出的觀眾投票。
 
 本屆獲獎最多的劇集是[TBS電視台的](../Page/TBS電視台.md "wikilink")《[0.1無罪真相2](https://zh.wikipedia.org/wiki/0.1無罪真相 "wikilink")》\[1\]，共獲五獎。
 
-而本屆七個獎項全部由[TBS電視台製作的劇集奪得](../Page/TBS電視台.md "wikilink")，包括《[0.1無罪真相2](https://zh.wikipedia.org/wiki/0.1無罪真相 "wikilink")》、《[UNNATURAL](https://zh.wikipedia.org/wiki/UNNATURAL "wikilink")》和《》。
+而本屆七個獎項全部由[TBS電視台製作的劇集奪得](../Page/TBS電視台.md "wikilink")，包括《[0.1無罪真相2](https://zh.wikipedia.org/wiki/0.1無罪真相 "wikilink")》、《[UNNATURAL](../Page/UNNATURAL.md "wikilink")》和《》。
 
 個人方面，[松本潤首度奪得最佳男主角](https://zh.wikipedia.org/wiki/松本潤 "wikilink")，為第四位獲獎的「[嵐](../Page/嵐.md "wikilink")」的成員；而[石原聰美](../Page/石原聰美.md "wikilink")、[香川照之和](../Page/香川照之.md "wikilink")[木村文乃](../Page/木村文乃.md "wikilink")，分別第二度獲頒最佳女主角、最佳男配角及最佳女配角。
 
@@ -48,7 +47,7 @@ LIFE年度日劇大賞](https://zh.wikipedia.org/wiki/TV_LIFE年度日劇大賞 
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/大叔的愛" title="wikilink">大叔的愛</a>》</p></td>
+<td><p>　《<a href="../Page/大叔的愛.md" title="wikilink">大叔的愛</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -83,12 +82,12 @@ LIFE年度日劇大賞](https://zh.wikipedia.org/wiki/TV_LIFE年度日劇大賞 
 <td></td>
 </tr>
 <tr class="even">
-<td><p>　<a href="https://zh.wikipedia.org/wiki/田中圭" title="wikilink">田中圭</a></p></td>
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/大叔的愛" title="wikilink">大叔的愛</a>》</p></td>
+<td><p>　<a href="../Page/田中圭.md" title="wikilink">田中圭</a></p></td>
+<td><p>　《<a href="../Page/大叔的愛.md" title="wikilink">大叔的愛</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>　<a href="https://zh.wikipedia.org/wiki/岩橋玄樹" title="wikilink">岩橋玄樹</a></p></td>
+<td><p>　<a href="../Page/岩橋玄樹.md" title="wikilink">岩橋玄樹</a></p></td>
 <td><p>　《<a href="https://zh.wikipedia.org/wiki/一定要喜歡社團活動嗎？" title="wikilink">一定要喜歡社團活動嗎？</a>》</p></td>
 <td></td>
 </tr>
@@ -108,13 +107,13 @@ LIFE年度日劇大賞](https://zh.wikipedia.org/wiki/TV_LIFE年度日劇大賞 
 <tbody>
 <tr class="odd">
 <td><p><strong><a href="../Page/石原聰美.md" title="wikilink">石原聰美</a><br />
-《<a href="https://zh.wikipedia.org/wiki/UNNATURAL" title="wikilink">UNNATURAL</a>》</strong></p></td>
+《<a href="../Page/UNNATURAL.md" title="wikilink">UNNATURAL</a>》</strong></p></td>
 <td><p>　<a href="../Page/有村架純.md" title="wikilink">有村架純</a></p></td>
 <td><p>　《》</p></td>
 </tr>
 <tr class="even">
 <td><p>　<a href="../Page/綾瀨遙.md" title="wikilink">綾瀨遙</a></p></td>
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/繼母與女兒的藍調" title="wikilink">繼母與女兒的藍調</a>》</p></td>
+<td><p>　《<a href="../Page/繼母與女兒的藍調.md" title="wikilink">繼母與女兒的藍調</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -123,8 +122,8 @@ LIFE年度日劇大賞](https://zh.wikipedia.org/wiki/TV_LIFE年度日劇大賞 
 <td></td>
 </tr>
 <tr class="even">
-<td><p>　<a href="https://zh.wikipedia.org/wiki/永野芽郁" title="wikilink">永野芽郁</a></p></td>
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/一半，藍色。" title="wikilink">一半，藍色。</a>》</p></td>
+<td><p>　<a href="../Page/永野芽郁.md" title="wikilink">永野芽郁</a></p></td>
+<td><p>　《<a href="../Page/一半，藍色。.md" title="wikilink">一半，藍色。</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -164,7 +163,7 @@ LIFE年度日劇大賞](https://zh.wikipedia.org/wiki/TV_LIFE年度日劇大賞 
 </tr>
 <tr class="even">
 <td><p>　<a href="../Page/林遣都.md" title="wikilink">林遣都</a></p></td>
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/大叔的愛" title="wikilink">大叔的愛</a>》</p></td>
+<td><p>　《<a href="../Page/大叔的愛.md" title="wikilink">大叔的愛</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -204,7 +203,7 @@ LIFE年度日劇大賞](https://zh.wikipedia.org/wiki/TV_LIFE年度日劇大賞 
 </tr>
 <tr class="even">
 <td><p>　<a href="../Page/內田理央.md" title="wikilink">內田理央</a></p></td>
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/大叔的愛" title="wikilink">大叔的愛</a>》</p></td>
+<td><p>　《<a href="../Page/大叔的愛.md" title="wikilink">大叔的愛</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -229,12 +228,12 @@ LIFE年度日劇大賞](https://zh.wikipedia.org/wiki/TV_LIFE年度日劇大賞 
 <tr class="odd">
 <td><p><strong><a href="../Page/岡田健史.md" title="wikilink">岡田健史</a><br />
 《》</strong></p></td>
-<td><p>　<a href="https://zh.wikipedia.org/wiki/清原果耶" title="wikilink">清原果耶</a></p></td>
+<td><p>　<a href="../Page/清原果耶.md" title="wikilink">清原果耶</a></p></td>
 <td><p>　《<a href="../Page/透明的搖籃.md" title="wikilink">透明的搖籃</a>》</p></td>
 </tr>
 <tr class="even">
-<td><p>　<a href="https://zh.wikipedia.org/wiki/金子大地" title="wikilink">金子大地</a></p></td>
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/大叔的愛" title="wikilink">大叔的愛</a>》</p></td>
+<td><p>　<a href="../Page/金子大地.md" title="wikilink">金子大地</a></p></td>
+<td><p>　《<a href="../Page/大叔的愛.md" title="wikilink">大叔的愛</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -243,7 +242,7 @@ LIFE年度日劇大賞](https://zh.wikipedia.org/wiki/TV_LIFE年度日劇大賞 
 <td></td>
 </tr>
 <tr class="even">
-<td><p>　<a href="https://zh.wikipedia.org/wiki/平野紫耀" title="wikilink">平野紫耀</a></p></td>
+<td><p>　<a href="../Page/平野紫耀.md" title="wikilink">平野紫耀</a></p></td>
 <td><p>　《<a href="https://zh.wikipedia.org/wiki/花過天晴～花樣男子_Next_Season～#電視劇" title="wikilink">花樣男子 Next Season</a>》</p></td>
 <td></td>
 </tr>
@@ -291,7 +290,7 @@ LIFE年度日劇大賞](https://zh.wikipedia.org/wiki/TV_LIFE年度日劇大賞 
 <tr class="odd">
 <td><p>　<a href="../Page/無限開關.md" title="wikilink">無限開關</a></p></td>
 <td><p>　Reviva</p></td>
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/大叔的愛" title="wikilink">大叔的愛</a>》</p></td>
+<td><p>　《<a href="../Page/大叔的愛.md" title="wikilink">大叔的愛</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>　<a href="../Page/Hey!_Say!_JUMP.md" title="wikilink">Hey! Say! JUMP</a></p></td>
@@ -301,7 +300,7 @@ LIFE年度日劇大賞](https://zh.wikipedia.org/wiki/TV_LIFE年度日劇大賞 
 <tr class="odd">
 <td><p>　<a href="../Page/米津玄師.md" title="wikilink">米津玄師</a></p></td>
 <td><p>　<a href="../Page/Lemon_(米津玄師歌曲).md" title="wikilink">Lemon</a></p></td>
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/UNNATURAL" title="wikilink">UNNATURAL</a>》</p></td>
+<td><p>　《<a href="../Page/UNNATURAL.md" title="wikilink">UNNATURAL</a>》</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,7 +1,7 @@
 **Arkane
 Studios**是一家法國[遊戲開發商](https://zh.wikipedia.org/wiki/遊戲開發商 "wikilink")，於1999年在法國[里昂成立](../Page/里昂.md "wikilink")。該公司首款遊戲《[地城英雄誌](../Page/地城英雄誌.md "wikilink")》於2002年問世，其後陸續推出《[魔法門
-黑暗彌賽亞](https://zh.wikipedia.org/wiki/魔法門_黑暗彌賽亞 "wikilink")》、《[冤罪殺機](../Page/冤罪殺機.md "wikilink")》、《[獵魂](https://zh.wikipedia.org/wiki/獵魂_\(2017年遊戲\) "wikilink")》等知名作品。2006年，於美國[德克薩斯州的](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[奧斯汀成立一個分部](../Page/奧斯汀.md "wikilink")。\[1\]2010年，被[貝塞斯達軟體的母公司](https://zh.wikipedia.org/wiki/貝塞斯達軟體 "wikilink")[ZeniMax
-Media收購為旗下子公司](https://zh.wikipedia.org/wiki/ZeniMax_Media "wikilink")。\[2\]
+黑暗彌賽亞](https://zh.wikipedia.org/wiki/魔法門_黑暗彌賽亞 "wikilink")》、《[冤罪殺機](../Page/冤罪殺機.md "wikilink")》、《[獵魂](../Page/獵魂_\(2017年遊戲\).md "wikilink")》等知名作品。2006年，於美國[德克薩斯州的](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[奧斯汀成立一個分部](../Page/奧斯汀.md "wikilink")。\[1\]2010年，被[貝塞斯達軟體的母公司](https://zh.wikipedia.org/wiki/貝塞斯達軟體 "wikilink")[ZeniMax
+Media收購為旗下子公司](../Page/ZeniMax_Media.md "wikilink")。\[2\]
 
 ## 歷史
 
@@ -10,7 +10,7 @@ Media收購為旗下子公司](https://zh.wikipedia.org/wiki/ZeniMax_Media "wiki
 [Raphaël_Colantonio,_Gamelab_2017_(35497057481).jpg](https://zh.wikipedia.org/wiki/File:Raphaël_Colantonio,_Gamelab_2017_\(35497057481\).jpg "fig:Raphaël_Colantonio,_Gamelab_2017_(35497057481).jpg")
 
 在1990年代期間，任職於[美商藝電](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")（EA）在法國的工作室，負責處理遊戲的[品質保證與翻譯](https://zh.wikipedia.org/wiki/品質保證 "wikilink")。他曾經手過發行商[Origin
-Systems旗下的一些遊戲](../Page/Origin_Systems.md "wikilink")，例如《》。1990年代末期，隨著[PlayStation主機的推出](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，Colantonio發覺EA的發展目標出現了一些變化，比起Origin
+Systems旗下的一些遊戲](../Page/Origin_Systems.md "wikilink")，例如《》。1990年代末期，隨著[PlayStation主機的推出](../Page/PlayStation.md "wikilink")，Colantonio發覺EA的發展目標出現了一些變化，比起Origin
 Systems公司出品的遊戲，EA對於運動類型的遊戲更感興趣。Colantonio認為待在EA的工作已無法滿足他的創造思維，因而離開了EA。之後進入[英寶格](../Page/英寶格.md "wikilink")（Infogrames）工作的期間，他獲得叔叔的資助，在1999年與其他幾位夥伴一同成立了「Arkane
 Studio」。\[3\]
 
@@ -40,17 +40,17 @@ Smith正式加入Arkane Studio。\[13\]
 ### 2010年以後
 
 2010年8月，工作室被[貝塞斯達軟體的母公司](https://zh.wikipedia.org/wiki/貝塞斯達軟體 "wikilink")[ZeniMax
-Media收購為旗下子公司](https://zh.wikipedia.org/wiki/ZeniMax_Media "wikilink")。\[14\]根據Colantonio在訪談中透露，早在《地城英雄誌》的開發期間就曾經和貝塞斯達軟體進行接洽。之後在工作室為《地城英雄誌》續作尋找發行商的期間，貝塞斯達軟體也曾對這續作抱有興趣，但等到聯繫上Arkane
+Media收購為旗下子公司](../Page/ZeniMax_Media.md "wikilink")。\[14\]根據Colantonio在訪談中透露，早在《地城英雄誌》的開發期間就曾經和貝塞斯達軟體進行接洽。之後在工作室為《地城英雄誌》續作尋找發行商的期間，貝塞斯達軟體也曾對這續作抱有興趣，但等到聯繫上Arkane
 Studios時工作室已經和育碧簽訂開發合約。在2007年以後，貝塞斯達軟體主動前來接洽，希望Arkane
 Studios能製作一款結合第一人稱、動作、角色扮演要素的遊戲，這段時間雙方的互動交流也成為日後合作的契機之一。\[15\]
 
 2011年7月，貝塞斯達軟體宣布了《[冤罪殺機](../Page/冤罪殺機.md "wikilink")》的開發消息，該作是一款第一人稱的動作冒險遊戲，結合超能力與[潛行的遊戲機制](https://zh.wikipedia.org/wiki/隱蔽遊戲 "wikilink")。該作於2012年發售，獲得廣泛好評，\[16\]並且銷量超乎貝塞斯達軟體的預期，讓他們開始考慮推出續作。\[17\]
 
-2015年6月，於[E3展上宣布將推出](https://zh.wikipedia.org/wiki/E3 "wikilink")《[冤罪殺機2](https://zh.wikipedia.org/wiki/冤罪殺機2 "wikilink")》，在前作的基礎上強化了遊戲系統並改成雙主角的故事路線。該作於2016年發售，並獲得普遍正面的評價。\[18\]
+2015年6月，於[E3展上宣布將推出](https://zh.wikipedia.org/wiki/E3 "wikilink")《[冤罪殺機2](../Page/冤罪殺機2.md "wikilink")》，在前作的基礎上強化了遊戲系統並改成雙主角的故事路線。該作於2016年發售，並獲得普遍正面的評價。\[18\]
 
-2016年6月，於[E3展上宣布將推出](https://zh.wikipedia.org/wiki/E3 "wikilink")《[獵魂](https://zh.wikipedia.org/wiki/獵魂_\(2017年遊戲\) "wikilink")》，\[19\]該作是一款帶有恐怖元素的第一人稱射擊遊戲，是過去被中止開發的《[獵魂2](https://zh.wikipedia.org/wiki/獵魂2 "wikilink")》的重啟版本。該作於2017年5月發售。\[20\]
+2016年6月，於[E3展上宣布將推出](https://zh.wikipedia.org/wiki/E3 "wikilink")《[獵魂](../Page/獵魂_\(2017年遊戲\).md "wikilink")》，\[19\]該作是一款帶有恐怖元素的第一人稱射擊遊戲，是過去被中止開發的《[獵魂2](../Page/獵魂2.md "wikilink")》的重啟版本。該作於2017年5月發售。\[20\]
 
-2017年6月，在《[獵魂](https://zh.wikipedia.org/wiki/獵魂_\(2017年遊戲\) "wikilink")》發售的兩個月後，Arkane
+2017年6月，在《[獵魂](../Page/獵魂_\(2017年遊戲\).md "wikilink")》發售的兩個月後，Arkane
 Studios的創辦人Raphaël Colantonio宣布卸任執行長職位，並將管理職務交給Harvey
 Smith。他表示將會多花時間陪伴家人並且思考未來的新方向。\[21\]
 
@@ -119,7 +119,7 @@ Arkane Studios</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/冤罪殺機2" title="wikilink">冤罪殺機2</a></p></td>
+<td><p><a href="../Page/冤罪殺機2.md" title="wikilink">冤罪殺機2</a></p></td>
 <td><p>Microsoft Windows、PlayStation 4、Xbox One</p></td>
 <td></td>
 <td></td>
@@ -127,7 +127,7 @@ Arkane Studios</p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/獵魂_(2017年遊戲)" title="wikilink">獵魂</a></p></td>
+<td><p><a href="../Page/獵魂_(2017年遊戲).md" title="wikilink">獵魂</a></p></td>
 <td><p>第一人稱射擊、<a href="../Page/恐怖遊戲.md" title="wikilink">生存恐怖</a></p></td>
 <td></td>
 <td></td>

@@ -48,7 +48,7 @@ Pro相同的三镜头方案。
 
 ### 华为Mate SE
 
-华为面向[美国市场推出的中低端手机](../Page/美国.md "wikilink")，实为[荣耀](https://zh.wikipedia.org/wiki/荣耀 "wikilink")7X的美国版本，2018年3月发售。该机采用麒麟659芯片，提供4GB内存和64GB存储空间。
+华为面向[美国市场推出的中低端手机](../Page/美国.md "wikilink")，实为[荣耀](../Page/荣耀.md "wikilink")7X的美国版本，2018年3月发售。该机采用麒麟659芯片，提供4GB内存和64GB存储空间。
 
 ### 华为Mate 20
 

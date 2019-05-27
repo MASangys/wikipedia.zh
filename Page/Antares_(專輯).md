@@ -1,4 +1,4 @@
-《**Antares**》，是[加拿大](../Page/加拿大.md "wikilink")[华裔](https://zh.wikipedia.org/wiki/华裔 "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")[吳亦凡的首張個人正規專輯](../Page/吳亦凡.md "wikilink")，由[新視鏡唱片及](https://zh.wikipedia.org/wiki/新視鏡唱片 "wikilink")[環球唱片共同製作與發行](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。2018年10月19日，開放預購以及發行與合唱的先導單曲《Coupe》，並於11月2日通過各大數位音樂網站公開線上音源
+《**Antares**》，是[加拿大](../Page/加拿大.md "wikilink")[华裔](https://zh.wikipedia.org/wiki/华裔 "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")[吳亦凡的首張個人正規專輯](../Page/吳亦凡.md "wikilink")，由[新視鏡唱片及](../Page/新視鏡唱片.md "wikilink")[環球唱片共同製作與發行](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。2018年10月19日，開放預購以及發行與合唱的先導單曲《Coupe》，並於11月2日通過各大數位音樂網站公開線上音源
 \[1\]，且於11月6日在國內全網上線\[2\]。
 
 ## 概要
@@ -31,9 +31,9 @@
 
 ## 發行歷史
 
-| 發行日期       | 發行形式                                   | 製作公司                                                                                                          | 發行公司                                                                                                          |
-| ---------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| 2018年11月2日 | [數位音樂下載](../Page/數位音樂下載.md "wikilink") | [新視鏡唱片](https://zh.wikipedia.org/wiki/新視鏡唱片 "wikilink")/[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink") | [新視鏡唱片](https://zh.wikipedia.org/wiki/新視鏡唱片 "wikilink")/[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink") |
+| 發行日期       | 發行形式                                   | 製作公司                                                                                       | 發行公司                                                                                       |
+| ---------- | -------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| 2018年11月2日 | [數位音樂下載](../Page/數位音樂下載.md "wikilink") | [新視鏡唱片](../Page/新視鏡唱片.md "wikilink")/[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink") | [新視鏡唱片](../Page/新視鏡唱片.md "wikilink")/[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink") |
 
 ## 參考資料
 

@@ -1,10 +1,10 @@
 《**NEW
-LOVE**》是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z的第](../Page/B'z.md "wikilink")21張[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。[2019年](../Page/2019年.md "wikilink")[5月29日由](../Page/5月29日.md "wikilink")[VERMILLION
+LOVE**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z的第](../Page/B'z.md "wikilink")21張[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。[2019年](../Page/2019年.md "wikilink")[5月29日由](../Page/5月29日.md "wikilink")[VERMILLION
 RECORDS於日本發行](../Page/VERMILLION_RECORDS.md "wikilink")\[1\]。
 
 ## 概要
 
-自前作『[DINOSAUR](https://zh.wikipedia.org/wiki/DINOSAUR "wikilink")』以來，睽違1年半的原創專輯。
+自前作『[DINOSAUR](../Page/DINOSAUR.md "wikilink")』以來，睽違1年半的原創專輯。
 
 本作無收錄單曲，是首張B'z未收錄單曲的原創專輯\[2\]。雖然作為在前作專輯之後所發行的音源，存在著被收錄進影像作品『[B'z
 LIVE-GYM Pleasure 2018

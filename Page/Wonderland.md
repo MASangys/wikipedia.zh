@@ -1,4 +1,4 @@
-「**Wonderland**」是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z的主唱](../Page/B'z.md "wikilink")[稻葉浩志在](../Page/稻葉浩志.md "wikilink")[2004年](../Page/2004年.md "wikilink")[7月14日發行的第](https://zh.wikipedia.org/wiki/7月14日 "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+「**Wonderland**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z的主唱](../Page/B'z.md "wikilink")[稻葉浩志在](../Page/稻葉浩志.md "wikilink")[2004年](../Page/2004年.md "wikilink")[7月14日發行的第](https://zh.wikipedia.org/wiki/7月14日 "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 
@@ -27,7 +27,7 @@
 
   - [稻葉浩志](../Page/稻葉浩志.md "wikilink")：[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、全曲[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")・[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")、[吉他](../Page/吉他.md "wikilink")（\#2）、（\#2）、[藍調口琴](../Page/口琴.md "wikilink")（\#3）、[原聲吉他](../Page/原聲吉他.md "wikilink")（\#3）
 
-  - [大賀好修](../Page/大賀好修.md "wikilink")：編曲（\#1）、[滑音管吉他](https://zh.wikipedia.org/wiki/滑音管吉他 "wikilink")（\#1）、原聲吉他（\#1）
+  - [大賀好修](../Page/大賀好修.md "wikilink")：編曲（\#1）、[滑音管吉他](../Page/滑音管吉他.md "wikilink")（\#1）、原聲吉他（\#1）
 
   - ：編曲（\#2.3）
 
@@ -43,7 +43,7 @@
 
   - ：[電吉他](https://zh.wikipedia.org/wiki/電吉他 "wikilink")（\#1.3）
 
-  - [寺島良一](https://zh.wikipedia.org/wiki/寺島良一 "wikilink")：吉他（\#2）
+  - [寺島良一](../Page/寺島良一.md "wikilink")：吉他（\#2）
 
   - ：[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")（\#2）
 

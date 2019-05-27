@@ -224,7 +224,7 @@ House進行活動。還有，[高橋直純曾以支援貝斯手身分參加丸�
 <td><p>僕</p></td>
 <td><p>1996年11月25日</p></td>
 <td><p>21世紀</p></td>
-<td><p><a href="../Page/TBS電視台.md" title="wikilink">TBS電視動畫</a>《<a href="https://zh.wikipedia.org/wiki/逮捕令_(動畫)" title="wikilink">逮捕令</a>》第2代片頭主題曲</p></td>
+<td><p><a href="../Page/TBS電視台.md" title="wikilink">TBS電視動畫</a>《<a href="../Page/逮捕令_(動畫).md" title="wikilink">逮捕令</a>》第2代片頭主題曲</p></td>
 <td><p>第31名</p></td>
 <td><p>[6]</p></td>
 </tr>

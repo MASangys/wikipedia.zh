@@ -2,7 +2,7 @@
 
 ## 游戏
 
-  - [雷莎出击](https://zh.wikipedia.org/wiki/雷莎出击 "wikilink")（1990年，[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")，[艾尼克斯发行](../Page/艾尼克斯.md "wikilink")）
+  - [雷莎出击](../Page/雷莎出击.md "wikilink")（1990年，[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")，[艾尼克斯发行](../Page/艾尼克斯.md "wikilink")）
   - [创世封魔录](https://zh.wikipedia.org/wiki/创世封魔录 "wikilink")（1992年，超级任天堂，艾尼克斯发行）
   - [雷莎出击2
     对沉默的圣战](https://zh.wikipedia.org/wiki/雷莎出击2_对沉默的圣战 "wikilink")（1993年，超级任天堂，艾尼克斯发行）

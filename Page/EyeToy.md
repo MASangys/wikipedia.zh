@@ -66,7 +66,7 @@ Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[麦金�
       - 《》（在欧洲称为SpyToy）
       - 《》
       - 《 [Yetisports Arctic
-        Adventure](https://zh.wikipedia.org/wiki/Yetisports_Arctic_Adventure "wikilink")》（[JoWooD娱乐](https://zh.wikipedia.org/wiki/JoWooD娱乐 "wikilink"))
+        Adventure](https://zh.wikipedia.org/wiki/Yetisports_Arctic_Adventure "wikilink")》（[JoWooD娱乐](../Page/JoWooD娱乐.md "wikilink"))
       - 《 [EyeToy:
         Tales](https://zh.wikipedia.org/wiki/EyeToy:_Tales "wikilink")》
       - 《 [EyeToy:
@@ -79,7 +79,7 @@ Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[麦金�
       - 《 [Rhythmic
         Star](https://zh.wikipedia.org/wiki/Rhythmic_Star "wikilink")》（[南梦宫](../Page/南梦宫.md "wikilink"))
   - 2007
-      - 《[建築師巴布](https://zh.wikipedia.org/wiki/建築師巴布 "wikilink")》（)
+      - 《[建築師巴布](../Page/建築師巴布.md "wikilink")》（)
       - 《 [EyeToy: Astro
         Zoo](https://zh.wikipedia.org/wiki/EyeToy:_Astro_Zoo "wikilink")》
       - 《》（)
@@ -226,8 +226,7 @@ Enhanced”标签。
 
   - 《》（动视， 2004）– 玩家可以捕捉他们的脸的图像并将其映射到他们的角色上。
 
-  - 《》（[JoWooD娱乐](https://zh.wikipedia.org/wiki/JoWooD娱乐 "wikilink")，
-    2005）– EyeToy多人游戏
+  - 《》（[JoWooD娱乐](../Page/JoWooD娱乐.md "wikilink")， 2005）– EyeToy多人游戏
 
   - 《 [Who Wants To Be A Millionaire? Party
     Edition](https://zh.wikipedia.org/wiki/Who_Wants_To_Be_A_Millionaire?_Party_Edition "wikilink")》（Eidos娱乐，晚于2006）
@@ -238,7 +237,7 @@ Enhanced”标签。
 ## Cameo
 
 《EyeToy:
-Cameo》软件可以让玩家创建自定义[头像](https://zh.wikipedia.org/wiki/头像 "wikilink")。它使用了头部扫描技术，可以扫描玩家头部并创建3D立体模型。可以将模型存储在内存卡中，支持Cameo功能的游戏可以使用这些模型来增加游戏内容。《EyeToy:
+Cameo》软件可以让玩家创建自定义[头像](../Page/头像.md "wikilink")。它使用了头部扫描技术，可以扫描玩家头部并创建3D立体模型。可以将模型存储在内存卡中，支持Cameo功能的游戏可以使用这些模型来增加游戏内容。《EyeToy:
 Cameo》的头部扫描技术由授权。
 
 ## 参见

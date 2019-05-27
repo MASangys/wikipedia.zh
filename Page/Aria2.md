@@ -4,7 +4,7 @@ Aria2是一款[自由](../Page/自由软件.md "wikilink")、[跨平台](https:/
 
 不同于[Wget这样的的命令行界面下载器](../Page/Wget.md "wikilink")，Aria2不仅支持BitTorrent，还能够从各种来源多路检索所请求的文件。包括HTTP，HTTPS，FTP和BitTorrent协议。\[1\]aria2使用Metalink数据块的[校验和自动查验BitTorrent下载的数据部分](https://zh.wikipedia.org/wiki/校验和 "wikilink")。
 
-Aria2的另一个特性便是可以使用[JSON-RPC和](https://zh.wikipedia.org/wiki/JSON-RPC "wikilink")[XML-RPC进行HTTP远程下载控制](../Page/XML-RPC.md "wikilink")，\[2\]JSON-RPC接口可通过[WebSocket获得](../Page/WebSocket.md "wikilink")。
+Aria2的另一个特性便是可以使用[JSON-RPC和](../Page/JSON-RPC.md "wikilink")[XML-RPC进行HTTP远程下载控制](../Page/XML-RPC.md "wikilink")，\[2\]JSON-RPC接口可通过[WebSocket获得](../Page/WebSocket.md "wikilink")。
 
 Aria2的初始版本仅支持FTP和HTTP协议，并有基于[GTK+的](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")（GUI），后来被取消。\[3\]
 

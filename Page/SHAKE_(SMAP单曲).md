@@ -25,7 +25,7 @@
   - 《》（精選輯；2001年3月23日發行）
   - 《》（[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")；2005年7月27日發行）
   - 《[SMAP 25
-    YEARS](https://zh.wikipedia.org/wiki/SMAP_25_YEARS "wikilink")》（精選輯；2016年12月21日發行）
+    YEARS](../Page/SMAP_25_YEARS.md "wikilink")》（精選輯；2016年12月21日發行）
 
 ## 參考資料
 

@@ -2,7 +2,7 @@
 
 ## 團隊解散後現況
 
-  - 2017年，Hwan以藝名泰永於[BLACK6IX出道](https://zh.wikipedia.org/wiki/BLACK6IX "wikilink")。
+  - 2017年，Hwan以藝名泰永於[BLACK6IX出道](../Page/BLACK6IX.md "wikilink")。
 
 <!-- end list -->
 

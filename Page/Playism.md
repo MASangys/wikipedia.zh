@@ -7,9 +7,9 @@ Bundle](../Page/Humble_Bundle.md "wikilink")、[GOG.com](../Page/GOG.com.md "wik
 Play](../Page/Google_Play.md "wikilink")、[App
 Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")、[PlayStation
 Store](../Page/PlayStation_Store.md "wikilink")、[Xbox
-Store](https://zh.wikipedia.org/wiki/Xbox_Store "wikilink")、[任天堂Switch等諸多平台](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")。\[2\]\[3\]
+Store](https://zh.wikipedia.org/wiki/Xbox_Store "wikilink")、[任天堂Switch等諸多平台](../Page/任天堂Switch.md "wikilink")。\[2\]\[3\]
 
-不同於[Steam](../Page/Steam.md "wikilink")、[Uplay之類的平台會額外提供一個獨立的客戶端](https://zh.wikipedia.org/wiki/Uplay "wikilink")（[DRM](https://zh.wikipedia.org/wiki/DRM "wikilink")）讓玩家購買與下載遊戲，Playism只有在網站上販售遊戲，玩家要直接從Playism網站下載遊戲（免DRM版）。有些遊戲會額外提供一份Steam版遊戲的序號，讓玩家可以自行到Steam平台下載遊戲。\[4\]
+不同於[Steam](../Page/Steam.md "wikilink")、[Uplay之類的平台會額外提供一個獨立的客戶端](../Page/Uplay.md "wikilink")（[DRM](https://zh.wikipedia.org/wiki/DRM "wikilink")）讓玩家購買與下載遊戲，Playism只有在網站上販售遊戲，玩家要直接從Playism網站下載遊戲（免DRM版）。有些遊戲會額外提供一份Steam版遊戲的序號，讓玩家可以自行到Steam平台下載遊戲。\[4\]
 
 ## 歷史
 
@@ -45,18 +45,16 @@ Sigma》、《巫劍神威控》等作品。\[12\]
   - [青蛙爆破者](https://zh.wikipedia.org/wiki/青蛙爆破者 "wikilink")（Kero
     Blaster）
 
-  - [莫莫多拉：月下遐想](https://zh.wikipedia.org/wiki/莫莫多拉：月下遐想 "wikilink")（Momodora:
-    Reverie Under the Moonlight）
+  - [莫莫多拉：月下遐想](../Page/莫莫多拉：月下遐想.md "wikilink")（Momodora: Reverie Under
+    the Moonlight）
 
   - （Mad Father）
 
-  - [殺戮的天使](https://zh.wikipedia.org/wiki/殺戮的天使 "wikilink")（Angels of
-    Death）
+  - [殺戮的天使](../Page/殺戮的天使.md "wikilink")（Angels of Death）
 
-  - [VA-11
-    HALL-A](https://zh.wikipedia.org/wiki/VA-11_HALL-A "wikilink")
+  - [VA-11 HALL-A](../Page/VA-11_HALL-A.md "wikilink")
 
-  - [返校](https://zh.wikipedia.org/wiki/返校 "wikilink")
+  - [返校](../Page/返校.md "wikilink")
 
   - [Will：美好世界](https://zh.wikipedia.org/wiki/Will：美好世界 "wikilink")
 

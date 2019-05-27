@@ -243,13 +243,13 @@ COMEBACK V LIVE</a></p></td>
 <tr class="odd">
 <td><p>韓國</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon單曲冠軍作品列表" title="wikilink">單曲週榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2018年11月11－17日</p></td>
 <td><p>#4</p></td>
 <td><p>[26]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon單曲冠軍作品列表" title="wikilink">單曲月榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon單曲冠軍作品列表.md" title="wikilink">單曲月榜</a></p></td>
 <td><p>2018年11月</p></td>
 <td><p>#12</p></td>
 <td></td>
@@ -257,7 +257,7 @@ COMEBACK V LIVE</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon單曲冠軍作品列表" title="wikilink">單曲年榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon單曲冠軍作品列表.md" title="wikilink">單曲年榜</a></p></td>
 <td><p>2018年</p></td>
 <td><p>#</p></td>
 <td></td>
@@ -266,14 +266,14 @@ COMEBACK V LIVE</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表" title="wikilink">專輯週榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon專輯冠軍作品列表.md" title="wikilink">專輯週榜</a></p></td>
 <td><p>2018年11月11－17日</p></td>
 <td><p>#1</p></td>
 <td><p>[27]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2018年11月</p></td>
 <td><p>#7（99,983張+）</p></td>
 <td></td>
@@ -281,7 +281,7 @@ COMEBACK V LIVE</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表" title="wikilink">專輯年榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon專輯冠軍作品列表.md" title="wikilink">專輯年榜</a></p></td>
 <td><p>2018年</p></td>
 <td><p>#47（101,747張+）</p></td>
 <td></td>
@@ -308,7 +308,7 @@ COMEBACK V LIVE</a></p></td>
 <tr class="odd">
 <td><p>Friend（先行曲）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon單曲冠軍作品列表" title="wikilink">單曲週榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2018年10月21－27日</p></td>
 <td><p>#23</p></td>
 <td><p>[28]</p></td>

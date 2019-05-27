@@ -7,7 +7,7 @@ Tour，亦是從美國出道的首場迷你巡迴演唱會。
 2018年11月14日[Tiffany
 Young官方網站宣佈](https://zh.wikipedia.org/wiki/黃美英 "wikilink")2019年舉行《[Lips
 On Lips North American Mini Showcase
-Tour](https://zh.wikipedia.org/wiki/Lips_On_Lips_North_American_Mini_Showcase_Tour "wikilink")》\[1\]\[2\]，以[加拿大](../Page/加拿大.md "wikilink")[多倫多為起點陸續於](https://zh.wikipedia.org/wiki/多倫多 "wikilink")[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")、[芝加哥](../Page/芝加哥.md "wikilink")、[明尼亞波利斯](https://zh.wikipedia.org/wiki/明尼亞波利斯 "wikilink")、[西雅圖](../Page/西雅圖.md "wikilink")、[溫哥華](../Page/溫哥華.md "wikilink")、[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")、[洛杉磯等進行巡迴演出](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。\[3\]\[4\]11月16日在官方YouTube釋出宣傳影片。\[5\]
+Tour](../Page/Lips_On_Lips_North_American_Mini_Showcase_Tour.md "wikilink")》\[1\]\[2\]，以[加拿大](../Page/加拿大.md "wikilink")[多倫多為起點陸續於](https://zh.wikipedia.org/wiki/多倫多 "wikilink")[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")、[芝加哥](../Page/芝加哥.md "wikilink")、[明尼亞波利斯](https://zh.wikipedia.org/wiki/明尼亞波利斯 "wikilink")、[西雅圖](../Page/西雅圖.md "wikilink")、[溫哥華](../Page/溫哥華.md "wikilink")、[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")、[洛杉磯等進行巡迴演出](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。\[3\]\[4\]11月16日在官方YouTube釋出宣傳影片。\[5\]
 
 ## 演出時間表
 

@@ -1,5 +1,5 @@
 **賈西·德韋恩·里卡多·安弗莱**（英文：Jahseh Dwayne Ricardo
-Onfroy，），藝名**XXXTentacion**（\[1\]，通常被簡稱為**X**），[美国](../Page/美国.md "wikilink")[饒舌歌手和](../Page/饒舌.md "wikilink")[詞曲作者](../Page/詞曲作家.md "wikilink")。安弗莱是嘻哈行業裡其中一位備受爭議的人物，他因其對年輕粉絲群的影響以及他在短暫職業生涯中的受歡迎程度而被認為留下了“巨大的音樂足跡”\[2\]。安弗莱出生於[佛羅里達州](../Page/佛罗里达州.md "wikilink")[種植園](../Page/种植园_\(佛罗里达州\).md "wikilink")，大部分時間都在[蘭德爾希爾度過](../Page/兰德尔希尔_\(佛罗里达州\).md "wikilink")。他從青少年拘留中心獲釋後開始寫音樂\[3\]，並於2013年6月在[SoundCloud上發行了他的第一首歌曲](../Page/SoundCloud.md "wikilink")\[4\]，名為“News/Flock”。他是SoundCloud風格的說唱歌曲中的一個受歡迎的人物，這是一種[陷阱音樂](https://zh.wikipedia.org/wiki/陷阱音樂 "wikilink")，它採用了低保真音樂和粗糙，刺耳的808大鼓曲風元素\[5\]\[6\]\[7\]
+Onfroy，），藝名**XXXTentacion**（\[1\]，通常被簡稱為**X**），[美国](../Page/美国.md "wikilink")[饒舌歌手和](../Page/饒舌.md "wikilink")[詞曲作者](../Page/詞曲作家.md "wikilink")。安弗莱是嘻哈行業裡其中一位備受爭議的人物，他因其對年輕粉絲群的影響以及他在短暫職業生涯中的受歡迎程度而被認為留下了“巨大的音樂足跡”\[2\]。安弗莱出生於[佛羅里達州](../Page/佛罗里达州.md "wikilink")[種植園](../Page/种植园_\(佛罗里达州\).md "wikilink")，大部分時間都在[蘭德爾希爾度過](../Page/兰德尔希尔_\(佛罗里达州\).md "wikilink")。他從青少年拘留中心獲釋後開始寫音樂\[3\]，並於2013年6月在[SoundCloud上發行了他的第一首歌曲](../Page/SoundCloud.md "wikilink")\[4\]，名為“News/Flock”。他是SoundCloud風格的說唱歌曲中的一個受歡迎的人物，這是一種[陷阱音樂](../Page/陷阱音樂.md "wikilink")，它採用了低保真音樂和粗糙，刺耳的808大鼓曲風元素\[5\]\[6\]\[7\]
 。
 
 隨著他的歌曲“Look At

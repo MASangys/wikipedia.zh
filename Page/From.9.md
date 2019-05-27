@@ -1,8 +1,8 @@
-《[From.9](https://zh.wikipedia.org/wiki/From.9 "wikilink")》為韓國女子團體[fromis_9於](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")2018年10月10日發佈的特別單曲專輯，單曲名稱為《LOVE
+《[From.9](../Page/From.9.md "wikilink")》為韓國女子團體[fromis_9於](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")2018年10月10日發佈的特別單曲專輯，單曲名稱為《LOVE
 BOMB》
 由於成員[張圭悧參加錄製](https://zh.wikipedia.org/wiki/張圭悧 "wikilink")[PRODUCE
-48無法錄製上一張專輯](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")[To.
-Day](https://zh.wikipedia.org/wiki/To._Day "wikilink")，這次公司特別安排單曲迎接[張圭悧的回歸](https://zh.wikipedia.org/wiki/張圭悧 "wikilink")，並錄製了[DKDK九人版本以及](https://zh.wikipedia.org/wiki/DKDK "wikilink")[22세기
+48無法錄製上一張專輯](../Page/PRODUCE_48.md "wikilink")[To.
+Day](../Page/To._Day.md "wikilink")，這次公司特別安排單曲迎接[張圭悧的回歸](https://zh.wikipedia.org/wiki/張圭悧 "wikilink")，並錄製了[DKDK九人版本以及](https://zh.wikipedia.org/wiki/DKDK "wikilink")[22세기
 소녀之九人版本](https://zh.wikipedia.org/wiki/22세기_소녀 "wikilink")。
 
 ## 音源榜排行

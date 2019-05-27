@@ -43,7 +43,7 @@ PocketStation与世嘉的相似，VMU是世嘉为[Dreamcast电子游戏机开发
   - 《Burger Burger 2》\[20\]
   - 《》
   - 《[陆行鸟](../Page/陆行鸟.md "wikilink")》
-  - 《[古惑狼3：扭曲](https://zh.wikipedia.org/wiki/古惑狼3：扭曲 "wikilink")》\[21\]
+  - 《[古惑狼3：扭曲](../Page/古惑狼3：扭曲.md "wikilink")》\[21\]
   - 《》
   - 《》
   - 《》
@@ -89,7 +89,7 @@ PocketStation与世嘉的相似，VMU是世嘉为[Dreamcast电子游戏机开发
   - 《》\[40\]
   - 《Pocket Tuner》\[41\]
   - 《 [Pocketan](https://zh.wikipedia.org/wiki/Pocketan "wikilink")》
-  - 《[流行音乐](https://zh.wikipedia.org/wiki/流行音乐_\(游戏\) "wikilink")》
+  - 《[流行音乐](../Page/流行音乐_\(游戏\).md "wikilink")》
   - 《Pop'n Music 3 Append Disc》
   - 《Pop'n Music 4 Append Disc》
   - 《PoPoRogue》

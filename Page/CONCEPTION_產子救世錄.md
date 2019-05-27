@@ -159,7 +159,7 @@ PLUS產子救世錄》於2019年1月31日發售\[1\]。2018年5月4日宣布動�
 
   - 原作：SPIKE CHUNSOFT《CONCEPTION 產子救世錄》
   - 監督：[元永慶太郎](../Page/元永慶太郎.md "wikilink")
-  - 系列構成：[柿原優子](https://zh.wikipedia.org/wiki/柿原優子 "wikilink")
+  - 系列構成：[柿原優子](../Page/柿原優子.md "wikilink")
   - 角色原案：[大塚真一郎](https://zh.wikipedia.org/wiki/大塚真一郎 "wikilink")
   - 動畫角色設計：奧田陽介
   - 音樂：甲田雅人
@@ -201,7 +201,7 @@ PLUS產子救世錄》於2019年1月31日發售\[1\]。2018年5月4日宣布動�
 <td><p>第1話</p></td>
 <td></td>
 <td><p>我的孩子！？</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柿原優子" title="wikilink">柿原優子</a></p></td>
+<td><p><a href="../Page/柿原優子.md" title="wikilink">柿原優子</a></p></td>
 <td><p>元永慶太郎</p></td>
 <td><p>阿部恒、管振宇、李少雷</p></td>
 <td></td>

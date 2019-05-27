@@ -385,7 +385,7 @@
   - [新傳媒U頻道](../Page/新傳媒U頻道.md "wikilink")：
   - [亞洲新聞台](https://zh.wikipedia.org/wiki/亞洲新聞台 "wikilink")：
   - [HUB娛家戲劇台](https://zh.wikipedia.org/wiki/HUB娛家戲劇台 "wikilink")：
-  - [HUB都會台](https://zh.wikipedia.org/wiki/HUB都會台 "wikilink")：
+  - [HUB都會台](../Page/HUB都會台.md "wikilink")：
   - [佳樂台](https://zh.wikipedia.org/wiki/佳樂台 "wikilink")：
   - [e樂](https://zh.wikipedia.org/wiki/e樂 "wikilink")：
   - [HUB娛家戲劇台](https://zh.wikipedia.org/wiki/HUB娛家戲劇台 "wikilink")：

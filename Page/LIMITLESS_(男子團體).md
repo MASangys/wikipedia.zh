@@ -21,7 +21,7 @@ K](https://zh.wikipedia.org/wiki/Super_Star_K "wikilink")》第二季。
 
 2017年4月，張文福（ONO娛樂練習生）、尹熙錫（[Jellyfish娛樂練習生](../Page/Jellyfish娛樂.md "wikilink")）、成賢宇（THEVIBE
 LABLE練習生）參與《[PRODUCE 101
-第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")》，最終排名分別為第27名、第46名及第61名，未能透過節目出道。
+第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，最終排名分別為第27名、第46名及第61名，未能透過節目出道。
 
 2017年10月，李輝燦參與由[YG娛樂投資的](../Page/YG娛樂.md "wikilink")《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，唯未能通過初選。
 
@@ -33,10 +33,10 @@ LABLE練習生）參與《[PRODUCE 101
 
 ### 綜藝節目
 
-| 日期                     | 频道   | 名稱                                                                          | 參與成員     | 備註 |
-| ---------------------- | ---- | --------------------------------------------------------------------------- | -------- | -- |
-| 2017年4月7日－6月16日        | Mnet | [PRODUCE 101 第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink") | 文福、賢宇、熙錫 |    |
-| 2017年10月29日－2018年1月26日 | JTBC | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")                 | 輝燦       |    |
+| 日期                     | 频道   | 名稱                                                          | 參與成員     | 備註 |
+| ---------------------- | ---- | ----------------------------------------------------------- | -------- | -- |
+| 2017年4月7日－6月16日        | Mnet | [PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")    | 文福、賢宇、熙錫 |    |
+| 2017年10月29日－2018年1月26日 | JTBC | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink") | 輝燦       |    |
 
 ## 參考資料
 

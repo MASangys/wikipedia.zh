@@ -1,5 +1,5 @@
 《**K-POP CHALLENGE <Stage K>**》（），簡稱《**Stage
-K**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC電視台於](../Page/JTBC.md "wikilink")2019年4月7日起推出的[K-Pop舞蹈比賽節目](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，由[全炫茂主持](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[1\]，並由[朴俊炯](https://zh.wikipedia.org/wiki/朴俊炯 "wikilink")（[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）、[Dara及](https://zh.wikipedia.org/wiki/Dara "wikilink")[宥斌共同擔任固定評審](https://zh.wikipedia.org/wiki/宥斌 "wikilink")（K-Leaders）\[2\]。節目主軸為來自世界各地的挑戰者組隊進行[K-Pop舞蹈比賽](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，每集會從四強隊伍中選出一支優勝隊伍。優勝隊伍除了可得到500萬韓元獎金及獎品外，還可獲得與該集主題歌手（Dream
+K**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC電視台於](../Page/JTBC.md "wikilink")2019年4月7日起推出的[K-Pop舞蹈比賽節目](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，由[全炫茂主持](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[1\]，並由[朴俊炯](../Page/朴俊炯.md "wikilink")（[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）、[Dara及](https://zh.wikipedia.org/wiki/Dara "wikilink")[宥斌共同擔任固定評審](https://zh.wikipedia.org/wiki/宥斌 "wikilink")（K-Leaders）\[2\]。節目主軸為來自世界各地的挑戰者組隊進行[K-Pop舞蹈比賽](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，每集會從四強隊伍中選出一支優勝隊伍。優勝隊伍除了可得到500萬韓元獎金及獎品外，還可獲得與該集主題歌手（Dream
 Star）表演合作舞台的機會。
 
 ## 四強隊伍選拔過程
@@ -68,7 +68,7 @@ Star）表演合作舞台的機會。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴俊炯" title="wikilink">朴俊炯</a>（）</p></td>
+<td><p><a href="../Page/朴俊炯.md" title="wikilink">朴俊炯</a>（）</p></td>
 <td></td>
 <td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d成員</a>）</p></td>
 </tr>
@@ -132,7 +132,7 @@ Star）表演合作舞台的機會。
 <tr class="even">
 <td><p>01</p></td>
 <td><p>2019年4月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>[3]<br />
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>[3]<br />
 （My Second Date）</p></td>
 <td></td>
 <td></td>

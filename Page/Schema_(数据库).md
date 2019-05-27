@@ -1,6 +1,6 @@
 **Schema**，翻译为“模式”或“架构”，在[数据库系统中是](https://zh.wikipedia.org/wiki/数据库系统 "wikilink")[形式语言描述的一种结构](../Page/形式语言.md "wikilink")，是对象的集合，\[1\]可包含各种对象如：[表](https://zh.wikipedia.org/wiki/数据库表 "wikilink")、、[关系模型](../Page/关系模型.md "wikilink")、[视图](../Page/视图.md "wikilink")、[索引](https://zh.wikipedia.org/wiki/数据库索引 "wikilink")、[包](../Page/软件包管理系统.md "wikilink")、[存储过程](https://zh.wikipedia.org/wiki/存储过程 "wikilink")、[子程序](../Page/子程序.md "wikilink")、[队列](../Page/队列.md "wikilink")、[触发器](https://zh.wikipedia.org/wiki/触发器_\(数据库\) "wikilink")、[数据类型](https://zh.wikipedia.org/wiki/数据类型 "wikilink")、[序列](../Page/序列.md "wikilink")、、（synonym）、database
 link、[directory](../Page/目录_\(文件系统\).md "wikilink")、[XML
-schema等](https://zh.wikipedia.org/wiki/XML_Schema_语言 "wikilink")。\[2\]\[3\]
+schema等](../Page/XML_Schema_语言.md "wikilink")。\[2\]\[3\]
 
 模式的益处：
 

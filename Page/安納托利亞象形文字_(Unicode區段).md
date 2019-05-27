@@ -1,4 +1,4 @@
-**安納托利亞象形文字**是一個[Unicode區段](https://zh.wikipedia.org/wiki/Unicode區段 "wikilink")，收錄了583個及符號。這種文字系統曾被用來書寫。
+**安納托利亞象形文字**是一個[Unicode區段](../Page/Unicode區段.md "wikilink")，收錄了583個及符號。這種文字系統曾被用來書寫。
 
 ## 區段
 

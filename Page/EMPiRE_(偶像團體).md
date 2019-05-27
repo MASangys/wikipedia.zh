@@ -8,8 +8,7 @@ aW」，成員除了徵選合格者GAMIYASAKI（ガミヤサキ，現YUKA
 EMPiRE）與MOMOKOGUMIinc（モモコグミinc，現YU-Ki
 EMPiRE）之外。還將舉行追加成員徵選\[1\]。
 
-8月23日於舉行的[BiSH活動](https://zh.wikipedia.org/wiki/BiSH "wikilink")「TOKYO
-BiSH
+8月23日於舉行的[BiSH活動](../Page/BiSH.md "wikilink")「TOKYO BiSH
 SHiNE」開演前，成員五人蒙面上場宣布團體名為「EMPiRE」，並表示個人[推特追隨者超過](https://zh.wikipedia.org/wiki/推特 "wikilink")1萬人才公布真實面貌\[2\]。9月4日、YUiNA
 EMPiRE首布公開樣貌\[3\]\[4\]。9月28日，公布全部成員樣貌\[5\]。
 
@@ -34,7 +33,7 @@ EMPiRE首布公開樣貌\[3\]\[4\]。9月28日，公布全部成員樣貌\[5\]�
     EMPiRE」，並與成員進行豪華轎車約會。另還宣布歌迷總稱「Agent」（エージェント），以及表演條約「EMPiRE3條」（「EMPiRE3カ条」）－表演中可拍攝、不能錄影錄音、禁止Lift,
     Dive, surf等危險行為\[14\]。
   - 12月6日 – BiSH、、[GANG
-    PARADE](https://zh.wikipedia.org/wiki/GANG_PARADE "wikilink")、EMPiRE的經紀公司WACK，以及為WACK旗下藝人製作樂曲的所屬公司，推出3周年紀念專輯《WACK
+    PARADE](../Page/GANG_PARADE.md "wikilink")、EMPiRE的經紀公司WACK，以及為WACK旗下藝人製作樂曲的所屬公司，推出3周年紀念專輯《WACK
     & SCRAMBLES WORKS》\[15\]。同日，SoundCloud上架《EMPiRE is COMiNG\[New
     Mix\]》、《アカルイミライ》、《TOKYO
     MOONLiGHT》音源，YouTube公開《アカルイミライ》音樂錄影帶。成立免費歌迷俱樂部「EMPiRE
@@ -614,7 +613,7 @@ AVTD-93976<br />
 </tr>
 <tr class="odd">
 <td><p>ピアス</p></td>
-<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台系列動畫</a>《<a href="https://zh.wikipedia.org/wiki/FAIRY_TAIL_(動畫)" title="wikilink">FAIRY TAIL魔導少年</a>》第3季第2片尾曲</p></td>
+<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台系列動畫</a>《<a href="../Page/FAIRY_TAIL_(動畫).md" title="wikilink">FAIRY TAIL魔導少年</a>》第3季第2片尾曲</p></td>
 <td><p>《<strong>ピアス</strong>》</p></td>
 </tr>
 </tbody>

@@ -1,26 +1,26 @@
-**Jus2**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂於](../Page/JYP娛樂.md "wikilink")2014年推出的7人男子團體[GOT7的分隊](../Page/GOT7.md "wikilink")，由主唱[JB](../Page/林在範.md "wikilink")、主舞[有謙組成](https://zh.wikipedia.org/wiki/金有謙 "wikilink")，有謙擔任隊長。團名Jus2是「Just」與「Two」的合成詞，意思是兩人能將「表演」和「歌曲」都完美展現\[1\]。Jus2為JYPE首度推出的分隊，2019年3月5日以迷你專輯《FOCUS》正式出道。
+**Jus2**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂於](../Page/JYP娛樂.md "wikilink")2014年推出的7人男子團體[GOT7的分隊](../Page/GOT7.md "wikilink")，由主唱[JB](../Page/林在範.md "wikilink")、主舞[有謙組成](../Page/金有謙.md "wikilink")，有謙擔任隊長。團名Jus2是「Just」與「Two」的合成詞，意思是兩人能將「表演」和「歌曲」都完美展現\[1\]。Jus2為JYPE首度推出的分隊，2019年3月5日以迷你專輯《FOCUS》正式出道。
 
 ## 成員列表
 
   - 名字**粗體**為隊長。
 
-| 成員列表\[2\]\[3\]                                         |
-| ------------------------------------------------------ |
-| 藝名                                                     |
-| 藝名                                                     |
-| [JB](../Page/林在範.md "wikilink")                        |
-| [**有謙**](https://zh.wikipedia.org/wiki/金有謙 "wikilink") |
+| 成員列表\[2\]\[3\]                      |
+| ----------------------------------- |
+| 藝名                                  |
+| 藝名                                  |
+| [JB](../Page/林在範.md "wikilink")     |
+| [**有謙**](../Page/金有謙.md "wikilink") |
 
 ## 發展歷程
 
-2019年2月13日，官方公開小分隊[Jus2的預告影像及照片](https://zh.wikipedia.org/wiki/JUS2 "wikilink")，由成員JB、有謙兩人組成，結合GOT7主唱與舞蹈擔當，以迷你專輯《FOCUS》正式出道。2月下旬，陸續發布個人概念照、專輯曲目試聽影片、MV預告，確認以《FOCUS
+2019年2月13日，官方公開小分隊[Jus2的預告影像及照片](../Page/JUS2.md "wikilink")，由成員JB、有謙兩人組成，結合GOT7主唱與舞蹈擔當，以迷你專輯《FOCUS》正式出道。2月下旬，陸續發布個人概念照、專輯曲目試聽影片、MV預告，確認以《FOCUS
 ON
 ME》作為主打曲。3月4日，韓國時間凌晨0時搶先在YouTube公布了主打曲MV\[4\]。5日，韓國時間下午6時公開專輯全音源並發行專輯；晚上8時舉辦LIVE
 PREMIER於V Live直播，正式展開宣傳行程。
 
 除了韓國宣傳行程以外，Jus2在4月10日發行《FOCUS》日本版專輯，並於4月份展開《Jus2 <FOCUS> PREMIERE
 SHOWCASE
-TOUR》於[澳門](../Page/澳門.md "wikilink")、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[臺北](../Page/臺北.md "wikilink")、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")、[雅加達](https://zh.wikipedia.org/wiki/雅加達 "wikilink")、[曼谷及](../Page/曼谷.md "wikilink")[新加坡等](../Page/新加坡.md "wikilink")7個城市、舉辦11場次亞洲巡迴Showcase\[5\]，分別由GOT7成員[Mark](https://zh.wikipedia.org/wiki/段宜恩 "wikilink")、[榮宰](../Page/崔榮宰.md "wikilink")、[BamBam擔任特別MC](../Page/BamBam.md "wikilink")。
+TOUR》於[澳門](../Page/澳門.md "wikilink")、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[臺北](../Page/臺北.md "wikilink")、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")、[雅加達](https://zh.wikipedia.org/wiki/雅加達 "wikilink")、[曼谷及](../Page/曼谷.md "wikilink")[新加坡等](../Page/新加坡.md "wikilink")7個城市、舉辦11場次亞洲巡迴Showcase\[5\]，分別由GOT7成員[Mark](../Page/段宜恩.md "wikilink")、[榮宰](../Page/崔榮宰.md "wikilink")、[BamBam擔任特別MC](../Page/BamBam.md "wikilink")。
 
 ## 音樂作品
 
@@ -28,7 +28,7 @@ TOUR》於[澳門](../Page/澳門.md "wikilink")、[東京](https://zh.wikipedia
 
 #### 迷你專輯
 
-  - [FOCUS](https://zh.wikipedia.org/wiki/FOCUS "wikilink")（2019年3月5日）
+  - [FOCUS](../Page/FOCUS.md "wikilink")（2019年3月5日）
 
 #### 電視原聲帶
 
@@ -39,16 +39,15 @@ TOUR》於[澳門](../Page/澳門.md "wikilink")、[東京](https://zh.wikipedia
 
 #### 迷你專輯
 
-  - [FOCUS -Japan
-    Edition-](https://zh.wikipedia.org/wiki/FOCUS "wikilink")（2019年4月10日）
+  - [FOCUS -Japan Edition-](../Page/FOCUS.md "wikilink")（2019年4月10日）
 
 ## 影視作品
 
 ### 综藝節目
 
-| 年份    | 日期   | 電視台                                                 | 節目名稱                                                        | 集數   | 參演成員 |
-| ----- | ---- | --------------------------------------------------- | ----------------------------------------------------------- | ---- | ---- |
-| 2019年 | 3月9日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[驚人的星期六](https://zh.wikipedia.org/wiki/驚人的星期六 "wikilink")》 | EP49 | 全體   |
+| 年份    | 日期   | 電視台                                                 | 節目名稱                                     | 集數   | 參演成員 |
+| ----- | ---- | --------------------------------------------------- | ---------------------------------------- | ---- | ---- |
+| 2019年 | 3月9日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[驚人的星期六](../Page/驚人的星期六.md "wikilink")》 | EP49 | 全體   |
 
 ### 電台節目
 
@@ -60,10 +59,10 @@ TOUR》於[澳門](../Page/澳門.md "wikilink")、[東京](https://zh.wikipedia
 
 ### 節目主持
 
-|       |       |                                                     |                                                         |                                                     |            |
-| ----- | ----- | --------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------- | ---------- |
-| 年份    | 日期    | 電台                                                  | 節目名稱                                                    | 共同主持藝人                                              | 備註         |
-| 2019年 | 3月10日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》 | [申銀秀](https://zh.wikipedia.org/wiki/申銀秀 "wikilink") | Special MC |
+|       |       |                                                     |                                                         |                                  |            |
+| ----- | ----- | --------------------------------------------------- | ------------------------------------------------------- | -------------------------------- | ---------- |
+| 年份    | 日期    | 電台                                                  | 節目名稱                                                    | 共同主持藝人                           | 備註         |
+| 2019年 | 3月10日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》 | [申銀秀](../Page/申銀秀.md "wikilink") | Special MC |
 
 ## 演唱會及其他演出
 
@@ -100,7 +99,7 @@ TOUR》於[澳門](../Page/澳門.md "wikilink")、[東京](https://zh.wikipedia
 <td><p>2019年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/FOCUS" title="wikilink">FOCUS</a></p></td>
+<td><p><a href="../Page/FOCUS.md" title="wikilink">FOCUS</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>

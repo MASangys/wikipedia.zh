@@ -1,5 +1,5 @@
 《**The Kkondae
-Live**》（），為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[Mnet於](https://zh.wikipedia.org/wiki/Mnet "wikilink")2018年推出的綜藝節目，由[李敬揆](https://zh.wikipedia.org/wiki/李敬揆 "wikilink")、[韓惠珍](https://zh.wikipedia.org/wiki/韓惠珍_\(模特兒\) "wikilink")、[柳炳宰](https://zh.wikipedia.org/wiki/柳炳宰 "wikilink")、[REN](../Page/崔珉起.md "wikilink")（[NU'EST](../Page/NU'EST.md "wikilink")）、等人共同主持\[1\]\[2\]，節目主軸為在日常生活中發現我們體內擁有的老人DNA，並以多方面的觀點進行討論的[韓國國內最初的老人情感綜藝節目](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")\[3\]\[4\]。節目播出期間為2018年9月28日至2018年11月2日\[5\]。
+Live**》（），為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[Mnet於](https://zh.wikipedia.org/wiki/Mnet "wikilink")2018年推出的綜藝節目，由[李敬揆](../Page/李敬揆.md "wikilink")、[韓惠珍](../Page/韓惠珍_\(模特兒\).md "wikilink")、[柳炳宰](../Page/柳炳宰.md "wikilink")、[REN](../Page/崔珉起.md "wikilink")（[NU'EST](../Page/NU'EST.md "wikilink")）、等人共同主持\[1\]\[2\]，節目主軸為在日常生活中發現我們體內擁有的老人DNA，並以多方面的觀點進行討論的[韓國國內最初的老人情感綜藝節目](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")\[3\]\[4\]。節目播出期間為2018年9月28日至2018年11月2日\[5\]。
 
 ## 節目成員
 
@@ -23,17 +23,17 @@ Live**》（），為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikili
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a></p></td>
+<td><p><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/韓惠珍_(模特兒)" title="wikilink">韓惠珍</a></p></td>
+<td><p><a href="../Page/韓惠珍_(模特兒).md" title="wikilink">韓惠珍</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/柳炳宰" title="wikilink">柳炳宰</a></p></td>
+<td><p><a href="../Page/柳炳宰.md" title="wikilink">柳炳宰</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -76,7 +76,7 @@ Live**》（），為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikili
 <td><p>2</p></td>
 <td><p>2018年10月5日</p></td>
 <td><p>、、、、（代班MC）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韓惠珍_(模特兒)" title="wikilink">韓惠珍</a></p></td>
+<td><p><a href="../Page/韓惠珍_(模特兒).md" title="wikilink">韓惠珍</a></p></td>
 <td><p>老人</p></td>
 </tr>
 <tr class="odd">
@@ -89,22 +89,22 @@ Live**》（），為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikili
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2018年10月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>【<a href="https://zh.wikipedia.org/wiki/孝定" title="wikilink">孝定</a>、、<a href="https://zh.wikipedia.org/wiki/YooA" title="wikilink">YooA</a>、<a href="https://zh.wikipedia.org/wiki/Arin" title="wikilink">Arin</a>】</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/孝定" title="wikilink">孝定</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>【<a href="../Page/孝定.md" title="wikilink">孝定</a>、、<a href="../Page/YooA.md" title="wikilink">YooA</a>、<a href="../Page/Arin.md" title="wikilink">Arin</a>】</p></td>
+<td><p><a href="../Page/孝定.md" title="wikilink">孝定</a></p></td>
 <td><p>新苗老人</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>2018年10月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/權赫秀" title="wikilink">權赫秀</a>、<a href="https://zh.wikipedia.org/wiki/鄭珍雲" title="wikilink">鄭珍雲</a>、、<a href="../Page/滑川康男.md" title="wikilink">康男</a>、梁致勝（健身教練）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/權赫秀" title="wikilink">權赫秀</a></p></td>
+<td><p><a href="../Page/權赫秀.md" title="wikilink">權赫秀</a>、<a href="https://zh.wikipedia.org/wiki/鄭珍雲" title="wikilink">鄭珍雲</a>、、<a href="../Page/滑川康男.md" title="wikilink">康男</a>、梁致勝（健身教練）</p></td>
+<td><p><a href="../Page/權赫秀.md" title="wikilink">權赫秀</a></p></td>
 <td><p>老人</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td><p>2018年11月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>【<a href="https://zh.wikipedia.org/wiki/尹智聖" title="wikilink">尹智聖</a>、<a href="https://zh.wikipedia.org/wiki/河成雲" title="wikilink">河成雲</a>、<a href="https://zh.wikipedia.org/wiki/金在奐" title="wikilink">金在奐</a>、<a href="https://zh.wikipedia.org/wiki/李大輝" title="wikilink">李大輝</a>】</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李大輝" title="wikilink">李大輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>【<a href="../Page/尹智聖.md" title="wikilink">尹智聖</a>、<a href="../Page/河成雲.md" title="wikilink">河成雲</a>、<a href="https://zh.wikipedia.org/wiki/金在奐" title="wikilink">金在奐</a>、<a href="../Page/李大輝.md" title="wikilink">李大輝</a>】</p></td>
+<td><p><a href="../Page/李大輝.md" title="wikilink">李大輝</a></p></td>
 <td><p>不是老人</p></td>
 </tr>
 <tr class="odd">

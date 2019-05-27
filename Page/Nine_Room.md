@@ -1,6 +1,6 @@
 《**Nine
 Room**》（，），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN由](../Page/TVN.md "wikilink")2018年10月6日起播出的[週末連續劇](https://zh.wikipedia.org/wiki/tvN週末連續劇 "wikilink")。由《[為純情著迷](../Page/為純情著迷.md "wikilink")》、《[Big
-Man](https://zh.wikipedia.org/wiki/Big_Man "wikilink")》、《[拜託小姐](../Page/拜託小姐.md "wikilink")》的[池英洙導演和](https://zh.wikipedia.org/wiki/池英洙 "wikilink")《[生意之神－客主2015](../Page/生意之神－客主2015.md "wikilink")》、《[自鳴鼓](../Page/自鳴鼓.md "wikilink")》的[鄭成熙作家合作打造](https://zh.wikipedia.org/wiki/鄭成熙 "wikilink")，[金喜善](../Page/金喜善.md "wikilink")、[金英光及](../Page/金英光.md "wikilink")[金海淑主演](../Page/金海淑.md "wikilink")，講述一個惡毒的女死刑犯，與改變她命運的律師，以及背負命運鑰匙的男人之間，復仇、重獲新生的故事。\[1\]\[2\]。愛奇藝台灣站，自10月7日起，每週日一獨家播出。
+Man](../Page/Big_Man.md "wikilink")》、《[拜託小姐](../Page/拜託小姐.md "wikilink")》的[池英洙導演和](https://zh.wikipedia.org/wiki/池英洙 "wikilink")《[生意之神－客主2015](../Page/生意之神－客主2015.md "wikilink")》、《[自鳴鼓](../Page/自鳴鼓.md "wikilink")》的[鄭成熙作家合作打造](https://zh.wikipedia.org/wiki/鄭成熙 "wikilink")，[金喜善](../Page/金喜善.md "wikilink")、[金英光及](../Page/金英光.md "wikilink")[金海淑主演](../Page/金海淑.md "wikilink")，講述一個惡毒的女死刑犯，與改變她命運的律師，以及背負命運鑰匙的男人之間，復仇、重獲新生的故事。\[1\]\[2\]。愛奇藝台灣站，自10月7日起，每週日一獨家播出。
 
 ## 演員陣容
 
@@ -35,7 +35,7 @@ Man](https://zh.wikipedia.org/wiki/Big_Man "wikilink")》、《[拜託小姐](..
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金海淑.md" title="wikilink">金海淑</a><br />
-<small>（青年：<a href="https://zh.wikipedia.org/wiki/鄭侑敏" title="wikilink">鄭侑敏</a>）</p></td>
+<small>（青年：<a href="../Page/鄭侑敏.md" title="wikilink">鄭侑敏</a>）</p></td>
 <td><p>張華娑</p></td>
 <td><p>以「張華娑毒品殺人案」鬧的全國沸沸揚揚，被判死刑的死囚惡女。正當她放棄生命的時候，獲得了美貌與智慧兼具的「乙智海伊」身份活下去的機會。</p></td>
 </tr>
@@ -349,7 +349,7 @@ Man](https://zh.wikipedia.org/wiki/Big_Man "wikilink")》、《[拜託小姐](..
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")
     [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")：《[Ms.Ma，復仇的女神](../Page/Ms.Ma，復仇的女神.md "wikilink")》
   - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[捉迷藏](https://zh.wikipedia.org/wiki/捉迷藏_\(韓國電視劇\) "wikilink")》、《[與神的約定](https://zh.wikipedia.org/wiki/與神的約定 "wikilink")》
+    [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[捉迷藏](https://zh.wikipedia.org/wiki/捉迷藏_\(韓國電視劇\) "wikilink")》、《[與神的約定](../Page/與神的約定.md "wikilink")》
 
 **週末時段劇集**
 
@@ -359,7 +359,7 @@ Man](https://zh.wikipedia.org/wiki/Big_Man "wikilink")》、《[拜託小姐](..
 **週日時段劇集**
 
   - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末連續劇](../Page/MBC週末連續劇.md "wikilink")：《[富家公子](https://zh.wikipedia.org/wiki/富家公子 "wikilink")》、《[我的愛情治癒記](https://zh.wikipedia.org/wiki/我的愛情治癒記 "wikilink")》
+    [週末連續劇](../Page/MBC週末連續劇.md "wikilink")：《[富家公子](../Page/富家公子.md "wikilink")》、《[我的愛情治癒記](../Page/我的愛情治癒記.md "wikilink")》
 
 ## 參考資料
 

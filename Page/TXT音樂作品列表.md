@@ -67,7 +67,7 @@ STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》\[1\]�
 <td><ul>
 <li>發行日期：2019年3月4日</li>
 <li>唱片公司：<a href="../Page/Big_Hit娛樂.md" title="wikilink">Big Hit娛樂</a></li>
-<li>發行公司：、<a href="https://zh.wikipedia.org/wiki/聯眾唱片" title="wikilink">聯眾唱片</a></li>
+<li>發行公司：、<a href="../Page/聯眾唱片.md" title="wikilink">聯眾唱片</a></li>
 <li>發行形式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="https://zh.wikipedia.org/wiki/數位下載" title="wikilink">下載</a>、<a href="https://zh.wikipedia.org/wiki/串流" title="wikilink">串流</a></li>
 </ul></td>
 <td><p>1</p></td>

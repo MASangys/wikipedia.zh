@@ -12,7 +12,7 @@ Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》�
 
 2018年3月25日透過Showcase「[UNVEIL](../Page/UNVEIL.md "wikilink")」正式出道，隔日發行首張迷你專輯《[I
 am
-NOT](https://zh.wikipedia.org/wiki/I_am_NOT_\(Stray_Kids迷你專輯\) "wikilink")》。在隊內的定位是Rap及舞蹈，與Lee
+NOT](../Page/I_am_NOT_\(Stray_Kids迷你專輯\).md "wikilink")》。在隊內的定位是Rap及舞蹈，與Lee
 Know、鉉辰三人是Stray Kids中的Dance Line。
 
 ## 音樂作品
@@ -33,10 +33,10 @@ Kids影視作品列表條目](https://zh.wikipedia.org/wiki/Stray_Kids影視作�
 
 ### 綜藝節目
 
-| 年份    | 日期     | 電視台                                                               | 節目名稱                                                                              | 共同參與團員        | 備註 |
-| ----- | ------ | ----------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------- | -- |
-| 2018年 | 12月25日 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[After School Club](https://zh.wikipedia.org/wiki/After_School_Club "wikilink")》 | 昇玟(MC)        |    |
-| 2019年 | 4月17日  | Celuv.TV                                                          | 《I'm Celuv》                                                                       | 鉉辰、Han、昇玟、I.N |    |
+| 年份    | 日期     | 電視台                                                               | 節目名稱                                                           | 共同參與團員        | 備註 |
+| ----- | ------ | ----------------------------------------------------------------- | -------------------------------------------------------------- | ------------- | -- |
+| 2018年 | 12月25日 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[After School Club](../Page/After_School_Club.md "wikilink")》 | 昇玟(MC)        |    |
+| 2019年 | 4月17日  | Celuv.TV                                                          | 《I'm Celuv》                                                    | 鉉辰、Han、昇玟、I.N |    |
 
 ### 廣播電台
 

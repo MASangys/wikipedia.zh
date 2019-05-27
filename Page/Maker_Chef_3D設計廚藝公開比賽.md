@@ -140,7 +140,7 @@ Maker Chef 第一及第二屆均以製作3D曲奇為比賽題材，參賽者自�
 
   - [3D列印](../Page/3D打印.md "wikilink")
 
-  - [STEM 教育](https://zh.wikipedia.org/wiki/STEM教育 "wikilink")
+  - [STEM 教育](../Page/STEM教育.md "wikilink")
 
   -
 ## 參考資料

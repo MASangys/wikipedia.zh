@@ -1,7 +1,7 @@
-**防彈少年團**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")，由[Jin](../Page/金碩珍.md "wikilink")、[SUGA](../Page/閔玧其.md "wikilink")、[j-hope](https://zh.wikipedia.org/wiki/鄭號錫 "wikilink")、[RM](../Page/金南俊.md "wikilink")、[Jimin](../Page/朴智旻.md "wikilink")、[V](https://zh.wikipedia.org/wiki/金泰亨_\(1995年生\) "wikilink")、[Jung
+**防彈少年團**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")，由[Jin](../Page/金碩珍.md "wikilink")、[SUGA](../Page/閔玧其.md "wikilink")、[j-hope](../Page/鄭號錫.md "wikilink")、[RM](../Page/金南俊.md "wikilink")、[Jimin](../Page/朴智旻.md "wikilink")、[V](https://zh.wikipedia.org/wiki/金泰亨_\(1995年生\) "wikilink")、[Jung
 Kook七名成員組成](../Page/田柾國.md "wikilink")，隸屬[Big
 Hit娛樂經紀公司旗下](../Page/Big_Hit娛樂.md "wikilink")，為[Big
-Hit娛樂第一個獨立製作培養的團體](../Page/Big_Hit娛樂.md "wikilink")，由創辦人兼音樂製作人[房時爀和製作人Pdogg栽培](https://zh.wikipedia.org/wiki/房時爀 "wikilink")。\[1\]\[2\]
+Hit娛樂第一個獨立製作培養的團體](../Page/Big_Hit娛樂.md "wikilink")，由創辦人兼音樂製作人[房時爀和製作人Pdogg栽培](../Page/房時爀.md "wikilink")。\[1\]\[2\]
 防彈少年團在出道前就已經有許多與其他藝人的合作作品，其中包括藝人[李昇基](../Page/李昇基.md "wikilink")、[簡美妍以及同門團體](../Page/簡美妍.md "wikilink")[2AM](../Page/2AM.md "wikilink")，並且在[趙權的SOLO專輯也有合作](../Page/趙權.md "wikilink")。
 
 ## 團體資料
@@ -47,7 +47,7 @@ Scene」。影片中包含全新的Logo，形似門扇的圖案，視訊前半�
 <td><p><a href="../Page/閔玧其.md" title="wikilink">SUGA</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭號錫" title="wikilink">j-hope</a></p></td>
+<td><p><a href="../Page/鄭號錫.md" title="wikilink">j-hope</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金南俊.md" title="wikilink">RM</a><br />
@@ -79,11 +79,11 @@ Scene」。影片中包含全新的Logo，形似門扇的圖案，視訊前半�
 3日至5日，公開七名成員出道概念照，整個團體歷時三年培訓。\[18\] 6月7日，公開出道歌曲〈No More Dream〉第一個預告，[Rap
 Monster唱道](../Page/金南俊.md "wikilink")：「面對偏見和挑戰，我們將為我們這一代和音樂而戰。」\[19\]。12日，首張單曲《[2
 COOL 4
-SKOOL](https://zh.wikipedia.org/wiki/2_COOL_4_SKOOL "wikilink")》發行，以青少年們煩惱的「夢想」為主題。\[20\]。13日，於Mnet《[M\!
+SKOOL](../Page/2_COOL_4_SKOOL.md "wikilink")》發行，以青少年們煩惱的「夢想」為主題。\[20\]。13日，於Mnet《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》第一個出道舞台，防彈少年團正式出道。
-9月3日，防彈少年團第一個專屬綜藝節目《[新人王Channel防彈](https://zh.wikipedia.org/wiki/新人王：防彈少年團－Channel_防彈 "wikilink")》在SBS
+9月3日，防彈少年團第一個專屬綜藝節目《[新人王Channel防彈](../Page/新人王：防彈少年團－Channel_防彈.md "wikilink")》在SBS
 MTV開播。11日，首張迷你專輯《[O\! R U L8,
-2?](https://zh.wikipedia.org/wiki/O!_R_U_L8,_2? "wikilink")》發行，主打歌〈N.O〉傳達出「不要活在別人給予的框架裡，必須自己找尋自己的幸福」的意念\[21\]。11月14日，獲得出道後首座新人獎：[Melon
+2?](../Page/O!_R_U_L8,_2?.md "wikilink")》發行，主打歌〈N.O〉傳達出「不要活在別人給予的框架裡，必須自己找尋自己的幸福」的意念\[21\]。11月14日，獲得出道後首座新人獎：[Melon
 Music Awards最佳新人獎](../Page/甜瓜音樂獎.md "wikilink")。\[22\]
 12月7日，首度進軍日本，在日本涉谷O-WEST舉辦首場日本Showcase。\[23\]
 
@@ -91,11 +91,11 @@ Music Awards最佳新人獎](../Page/甜瓜音樂獎.md "wikilink")。\[22\]
 
 [KOCIS_Korea_Mnet_BTS_01_(12986916653).jpg](https://zh.wikipedia.org/wiki/File:KOCIS_Korea_Mnet_BTS_01_\(12986916653\).jpg "fig:KOCIS_Korea_Mnet_BTS_01_(12986916653).jpg")》上的防彈少年團\]\]
 2月12日，發行第二張迷你專輯《[Skool Luv
-Affair](https://zh.wikipedia.org/wiki/Skool_Luv_Affair "wikilink")》，以青少年的「愛情」為主題，藉著歌詞吶喊：「愛情要火熱，唱歌要直率。」由成員們親自參與製作，透過音樂替同年齡的少年說出心裡話。\[24\]
+Affair](../Page/Skool_Luv_Affair.md "wikilink")》，以青少年的「愛情」為主題，藉著歌詞吶喊：「愛情要火熱，唱歌要直率。」由成員們親自參與製作，透過音樂替同年齡的少年說出心裡話。\[24\]
 5月14日，发行首张特别专辑《[Skool Luv Affair Special
-Addition](https://zh.wikipedia.org/wiki/Skool_Luv_Affair "wikilink")》，主打歌〈Boy
-in luv〉。 8月20日，發行首張正規專輯《[DARK &
-WILD](https://zh.wikipedia.org/wiki/DARK_&_WILD "wikilink")》，主打歌〈Danger〉。\[25\]
+Addition](../Page/Skool_Luv_Affair.md "wikilink")》，主打歌〈Boy in luv〉。
+8月20日，發行首張正規專輯《[DARK &
+WILD](../Page/DARK_&_WILD.md "wikilink")》，主打歌〈Danger〉。\[25\]
 10月17日，以韓國首爾站為起點，之後2014年至2015年期間，分別造訪[日本](../Page/日本.md "wikilink")[神戶](https://zh.wikipedia.org/wiki/神戶 "wikilink")、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[馬尼拉](https://zh.wikipedia.org/wiki/馬尼拉 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[雪梨](https://zh.wikipedia.org/wiki/雪梨 "wikilink")、[墨爾本](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")、[達拉斯](../Page/達拉斯.md "wikilink")、[芝加哥](../Page/芝加哥.md "wikilink")、[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[智利](../Page/智利.md "wikilink")、[香港](../Page/香港.md "wikilink")，完成13國18個城市共8萬名觀眾的世界巡迴演唱會《BTS
 LIVE TRILOGY：EPISODE Ⅱ. THE RED BULLET》。\[26\]
 
@@ -184,20 +184,20 @@ Yourself》新系列故事的首款預告海報，宣告繼「學校三部曲」
 YOURSELF」，而這個主題將持續至2018年。\[70\]
 
 9月5日（韓國時間），防彈少年團公開新專輯《[Love Yourself 承
-'Her'](https://zh.wikipedia.org/wiki/Love_Yourself_承_'Her' "wikilink")》的專輯預告視頻〈Serendipity〉，出道以來首次由成員[Jimin擔任專輯預告視頻主演以及獨唱](../Page/朴智旻.md "wikilink")。\[71\]〈Serendipity〉的陪襯下登場，穿梭在不同空間，給人一種猜不透的神秘氛圍。\[72\]
+'Her'](../Page/Love_Yourself_承_'Her'.md "wikilink")》的專輯預告視頻〈Serendipity〉，出道以來首次由成員[Jimin擔任專輯預告視頻主演以及獨唱](../Page/朴智旻.md "wikilink")。\[71\]〈Serendipity〉的陪襯下登場，穿梭在不同空間，給人一種猜不透的神秘氛圍。\[72\]
 
 9月18日，防彈少年團時隔7個月攜他們最新主題「Love Yourself」的系列首張專輯《[Love Yourself 承
-'Her'](https://zh.wikipedia.org/wiki/Love_Yourself_承_'Her' "wikilink")》回歸韓國樂壇，主打歌为〈DNA〉。專輯除了以4個版本發售外，成員Rap
+'Her'](../Page/Love_Yourself_承_'Her'.md "wikilink")》回歸韓國樂壇，主打歌为〈DNA〉。專輯除了以4個版本發售外，成員Rap
 Monster也親自參與了隱藏曲製作。\[73\]韓國時間18時在官方YOUTUBE頻道公開〈DNA〉音樂錄影帶以8小時5分的用時紀錄成為韓團中用時最短突破千萬點閱率的歌手。\[74\]9月19日，〈DNA〉打進[Spotify的](../Page/Spotify.md "wikilink")「Global
 Top
 50」榜單中排在第50位，是有史以來第一隊打進[Spotify榜單的韓國團體](../Page/Spotify.md "wikilink")。\[75\]
 
 防彈少年團以新專輯《[Love Yourself 承
-'Her'](https://zh.wikipedia.org/wiki/Love_Yourself_承_'Her' "wikilink")》打進美國Billboard「[Billboard
+'Her'](../Page/Love_Yourself_承_'Her'.md "wikilink")》打進美國Billboard「[Billboard
 200](https://zh.wikipedia.org/wiki/Billboard_200 "wikilink")」的第7位，刷新上一張專輯《WINGS》的第26位紀錄外，亦是首位可以連續5張專輯登上「[Billboard
 200](https://zh.wikipedia.org/wiki/Billboard_200 "wikilink")」榜的韓國歌手\[76\]。此外，防彈少年團首次成功以《[Love
 Yourself 承
-'Her'](https://zh.wikipedia.org/wiki/Love_Yourself_承_'Her' "wikilink")》的主打歌〈DNA〉打進「[Billboard
+'Her'](../Page/Love_Yourself_承_'Her'.md "wikilink")》的主打歌〈DNA〉打進「[Billboard
 Hot
 100](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")」的85位，第2個以韓文歌曲打入「[Billboard
 Hot
@@ -211,7 +211,7 @@ FRIENDS」企劃與防彈少年團合作推出全新概念卡通角色系列「[
 [1117_BTS_Dispatch_Photo_Shoot_LA_(cropped).png](https://zh.wikipedia.org/wiki/File:1117_BTS_Dispatch_Photo_Shoot_LA_\(cropped\).png "fig:1117_BTS_Dispatch_Photo_Shoot_LA_(cropped).png")[洛杉磯的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")\]\]
 11月13日，[Big
 Hit娛樂公告隊長](../Page/Big_Hit娛樂.md "wikilink")[金南俊官方藝名由](../Page/金南俊.md "wikilink")「Rap
-Monster」更換成「RM」。原因在於隨著防彈少年團出道時間越長，整體的音樂風格也越來越多樣化。他未來也將會做出更加多元的音樂，不僅限於「Rap」，所以決定更改藝名。11月19日，防彈少年團獲邀出席[2017全美音樂獎頒獎典禮](https://zh.wikipedia.org/wiki/2017年全美音樂獎 "wikilink")，成為首個登上[全美音樂獎的韓國團體](../Page/全美音樂獎.md "wikilink")，並帶來專輯主打曲〈DNA〉的表演舞台。\[81\]
+Monster」更換成「RM」。原因在於隨著防彈少年團出道時間越長，整體的音樂風格也越來越多樣化。他未來也將會做出更加多元的音樂，不僅限於「Rap」，所以決定更改藝名。11月19日，防彈少年團獲邀出席[2017全美音樂獎頒獎典禮](../Page/2017年全美音樂獎.md "wikilink")，成為首個登上[全美音樂獎的韓國團體](../Page/全美音樂獎.md "wikilink")，並帶來專輯主打曲〈DNA〉的表演舞台。\[81\]
 
 12月1日，防彈少年團在2017年[Mnet亞洲音樂大獎捧走年度歌手](../Page/Mnet亞洲音樂大獎.md "wikilink")、最佳音樂錄影帶以及最佳亞洲風尚獎（香港），成功蟬聯年度歌手之餘且因為獲得共三個獎項成為當晚[Mnet亞洲音樂大獎的大贏家](../Page/Mnet亞洲音樂大獎.md "wikilink")。\[82\]12月2日，防彈少年團在2017年[甜瓜音樂獎獲得年度歌曲獎](../Page/甜瓜音樂獎.md "wikilink")、最佳音樂錄影帶、全球藝人獎以及TOP
 10歌手獎，並包括成員[SUGA獲得HOT](../Page/閔玧其.md "wikilink")
@@ -226,18 +226,18 @@ Hot
   - 2018年上半年
 
 1月11日，防彈少年團在第32屆[金唱片獎獲得](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")3個獎項，並首次獲得金唱片大獎。\[86\]1月25日，防彈少年團在第27屆[首爾歌謠大賞獲得](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")2個獎項以及[Big
-Hit娛樂創辦人兼音樂製作人](../Page/Big_Hit娛樂.md "wikilink")[房時爀獲得年度製作人獎](https://zh.wikipedia.org/wiki/房時爀 "wikilink")，並首次獲得首爾歌謠大賞。\[87\]
+Hit娛樂創辦人兼音樂製作人](../Page/Big_Hit娛樂.md "wikilink")[房時爀獲得年度製作人獎](../Page/房時爀.md "wikilink")，並首次獲得首爾歌謠大賞。\[87\]
 
 [방탄소년단(BTS)_180110_제_32회_골든디스크.png](https://zh.wikipedia.org/wiki/File:방탄소년단\(BTS\)_180110_제_32회_골든디스크.png "fig:방탄소년단(BTS)_180110_제_32회_골든디스크.png")獲頒金唱片大獎獎項的[防彈少年團](../Page/防彈少年團.md "wikilink")\]\]
 
 2月6日與9日，防彈少年團〈〉和〈DNA〉分別在[美國唱片業協會獲得金獎認證](../Page/美國唱片業協會.md "wikilink")，成為首個獲得美國唱片業協會認證殊榮的[韓國團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")。\[88\]
 
-3月2日，防彈少年團成員[j-hope推出首張Mixtape](https://zh.wikipedia.org/wiki/鄭號錫 "wikilink")《Hope
+3月2日，防彈少年團成員[j-hope推出首張Mixtape](../Page/鄭號錫.md "wikilink")《Hope
 World》，並成為75個國家的iTunes排行榜一位，是韓國solo歌手專輯的最高紀錄。\[89\]而《Hope
 World》中歌曲〈Daydream〉和〈Airplane〉的音樂錄影帶分別於3月2日和3月7日（韓國時間）發佈。\[90\]3月27日，防彈少年團登上《[韓國富比士](../Page/韩国福布斯名人榜.md "wikilink")》年度名人榜，在2018年排行榜列位第1名並成為首個登上榜首的非三大公司出身韓國團體。\[91\]
 
 4月4日，防彈少年團發佈第三張[日本正規專輯](../Page/日本.md "wikilink")《[Face
-Yourself](https://zh.wikipedia.org/wiki/Face_Yourself "wikilink")》，並成為49個國家的iTunes排行榜一位\[92\]專輯推出當天即時以售出188,085張進佔[Oricon專輯日榜冠軍](../Page/Oricon.md "wikilink")，專輯週榜中則售出282,032張摘下冠軍，成為在日本發行專輯首週銷量最高的韓國團體\[93\]。
+Yourself](../Page/Face_Yourself.md "wikilink")》，並成為49個國家的iTunes排行榜一位\[92\]專輯推出當天即時以售出188,085張進佔[Oricon專輯日榜冠軍](../Page/Oricon.md "wikilink")，專輯週榜中則售出282,032張摘下冠軍，成為在日本發行專輯首週銷量最高的韓國團體\[93\]。
 
 4月6日（[韓國時間](https://zh.wikipedia.org/wiki/韓國 "wikilink")），防彈少年團釋出了〈Euphoria
 : Theme of Love Yourself 起
@@ -255,7 +255,7 @@ Social
 Artist」\[97\][Billboard也在](https://zh.wikipedia.org/wiki/Billboard "wikilink")4月24日宣布防彈少年團將在頒獎典禮演出，並會首次演唱預計5月發行的新歌，「世界級回歸舞台」引起全球歌迷關注。\[98\]
 
 4月27日，防彈少年團釋出世界巡演的首波資訊，本次的世界巡演「Love
-Yourself」，除了首站[首爾外](https://zh.wikipedia.org/wiki/首爾 "wikilink")，也將從9月起陸續造訪[北美及](https://zh.wikipedia.org/wiki/北美 "wikilink")[歐洲主要城市](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。目前已公開的巡演城市，有[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")、[奧克蘭](https://zh.wikipedia.org/wiki/奧克蘭 "wikilink")、[沃斯堡](../Page/沃斯堡.md "wikilink")、[紐華克](https://zh.wikipedia.org/wiki/紐華克 "wikilink")、[芝加哥](../Page/芝加哥.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")[哈密爾頓](https://zh.wikipedia.org/wiki/哈密爾頓 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林及](../Page/柏林.md "wikilink")[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")\[99\]防彈少年團將造訪11個城市，舉辦22場演出。\[100\]
+Yourself」，除了首站[首爾外](../Page/首爾.md "wikilink")，也將從9月起陸續造訪[北美及](https://zh.wikipedia.org/wiki/北美 "wikilink")[歐洲主要城市](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。目前已公開的巡演城市，有[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")、[奧克蘭](https://zh.wikipedia.org/wiki/奧克蘭 "wikilink")、[沃斯堡](../Page/沃斯堡.md "wikilink")、[紐華克](https://zh.wikipedia.org/wiki/紐華克 "wikilink")、[芝加哥](../Page/芝加哥.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")[哈密爾頓](https://zh.wikipedia.org/wiki/哈密爾頓 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林及](../Page/柏林.md "wikilink")[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")\[99\]防彈少年團將造訪11個城市，舉辦22場演出。\[100\]
 
 5月2日，防彈少年團第三張正規專輯《[Love Yourself 轉
 'Tear'](https://zh.wikipedia.org/wiki/Love_Yourself_轉_'Tear' "wikilink")》新歌歌名〈〉曝光，防彈少年團將重返[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")
@@ -300,7 +300,7 @@ Yourself 轉
 200名列第](../Page/公告牌二百强专辑榜.md "wikilink")27名，主打歌〈〉則仍在[Billboard Hot
 100的第](https://zh.wikipedia.org/wiki/告示牌百大單曲榜 "wikilink")65名。\[118\]
 再次刷新自身去年以《[Love Yourself 承
-'Her'](https://zh.wikipedia.org/wiki/Love_Yourself_承_'Her' "wikilink")》及主打歌〈DNA〉連續四週入榜最佳成績，亦再度更新韓國歌手於告示牌創下的最佳紀錄。\[119\]6月29日，防彈少年團被[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《[TIME](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")》列為「於網路最具影響力的25名人」之一，成為連續兩年打入名單的首個韓國團體以及韓國歌手。\[120\]
+'Her'](../Page/Love_Yourself_承_'Her'.md "wikilink")》及主打歌〈DNA〉連續四週入榜最佳成績，亦再度更新韓國歌手於告示牌創下的最佳紀錄。\[119\]6月29日，防彈少年團被[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《[TIME](../Page/時代雜誌.md "wikilink")》列為「於網路最具影響力的25名人」之一，成為連續兩年打入名單的首個韓國團體以及韓國歌手。\[120\]
 
 7月9日，[國際足球總會於](https://zh.wikipedia.org/wiki/國際足球總會 "wikilink")[Instagram選出世界盃足球賽準決賽的背景音樂](../Page/Instagram.md "wikilink")，防彈少年團《[Love
 Yourself 轉
@@ -310,7 +310,7 @@ Hit娛樂宣布防彈少年團將於](../Page/Big_Hit娛樂.md "wikilink")8月�
 'Tear'](https://zh.wikipedia.org/wiki/Love_Yourself_轉_'Tear' "wikilink")》的特別專輯回歸，並指各成員目前正在加緊籌備新專輯中，為了製作出充滿突破性的新曲而努力。\[122\]
 
 7月15日，防彈少年團去年的迷你五輯《[Love Yourself 承
-'Her'](https://zh.wikipedia.org/wiki/Love_Yourself_承_'Her' "wikilink")》的回歸舞台〈Go
+'Her'](../Page/Love_Yourself_承_'Her'.md "wikilink")》的回歸舞台〈Go
 Go〉觀看次數突破1億觀看次數，成為首個以回歸舞台突破1億觀看次數的韓國團體。\[123\]7月15日，防彈少年團正規三輯《[Love
 Yourself 轉
 'Tear'](https://zh.wikipedia.org/wiki/Love_Yourself_轉_'Tear' "wikilink")》以175萬117張的累計銷量摘下「2018上半年專輯榜」冠軍，該專輯也是韓國最具代表性的榜單「[Gaon
@@ -354,7 +354,7 @@ Yourself」企劃即將完結。\[135\]8月10日，防彈少年團的正規三�
 
 8月29日，防彈少年團的〈〉音樂錄影帶以4天23小時的用時紀錄突破1億觀看次數，成為韓國團體中用時最短突破1億觀看次數以及全球用時第四快突破1億觀看次數的韓國歌手。\[143\]8月31日，防彈少年團的特別專輯《Love
 Yourself 結
-'Answer'》首周於韓國錄得86萬8052張銷量，並於2018年[Soribada最佳音樂大獎獲得國際社交媒體藝人獎](https://zh.wikipedia.org/wiki/Soribada最佳音樂大獎 "wikilink")、Soribada本獎以及至高榮譽大獎。\[144\]\[145\]
+'Answer'》首周於韓國錄得86萬8052張銷量，並於2018年[Soribada最佳音樂大獎獲得國際社交媒體藝人獎](../Page/Soribada最佳音樂大獎.md "wikilink")、Soribada本獎以及至高榮譽大獎。\[144\]\[145\]
 
 ### 2018年9月至年末：世界巡演「Love Yourself」，RM首張個人playlist
 
@@ -388,9 +388,9 @@ pt.
 Hit娛樂及](../Page/Big_Hit娛樂.md "wikilink")[环球音乐取消和秋元康合作](https://zh.wikipedia.org/wiki/环球音乐 "wikilink")，不久環球唱片亦順從意見抽起〈Bird〉一曲，以兩首混音歌曲取代。\[152\]
 
 9月20日，防彈少年團去年9月發行的迷你五輯《[Love Yourself 承
-'Her'](https://zh.wikipedia.org/wiki/Love_Yourself_承_'Her' "wikilink")》主打歌〈DNA〉音樂錄影帶突破5億觀看次數，成為韓國團體史上最初以及最快破五億的歌曲。\[153\]〈DNA〉音樂錄影帶歷時366天突破5億觀看次數。\[154\]
+'Her'](../Page/Love_Yourself_承_'Her'.md "wikilink")》主打歌〈DNA〉音樂錄影帶突破5億觀看次數，成為韓國團體史上最初以及最快破五億的歌曲。\[153\]〈DNA〉音樂錄影帶歷時366天突破5億觀看次數。\[154\]
 
-[BTS_on_the_red_carpet_of_Korean_Popular_Culture_&_Arts_Awards_on_October_24,_2018_(2).png](https://zh.wikipedia.org/wiki/File:BTS_on_the_red_carpet_of_Korean_Popular_Culture_&_Arts_Awards_on_October_24,_2018_\(2\).png "fig:BTS_on_the_red_carpet_of_Korean_Popular_Culture_&_Arts_Awards_on_October_24,_2018_(2).png")於2018年[韓國大眾文化藝術獎的紅地毯](https://zh.wikipedia.org/wiki/韓國大眾文化藝術獎 "wikilink")\]\]
+[BTS_on_the_red_carpet_of_Korean_Popular_Culture_&_Arts_Awards_on_October_24,_2018_(2).png](https://zh.wikipedia.org/wiki/File:BTS_on_the_red_carpet_of_Korean_Popular_Culture_&_Arts_Awards_on_October_24,_2018_\(2\).png "fig:BTS_on_the_red_carpet_of_Korean_Popular_Culture_&_Arts_Awards_on_October_24,_2018_(2).png")於2018年[韓國大眾文化藝術獎的紅地毯](../Page/韓國大眾文化藝術獎.md "wikilink")\]\]
 
 10月8日，[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[總統府](https://zh.wikipedia.org/wiki/總統府 "wikilink")[青瓦台宣布將會頒發](../Page/青瓦台.md "wikilink")「文化勳章」於防彈少年團，以表揚防彈少年團對拓展韓流、促進流行文化發展有功。\[155\]防彈少年團是首個獲頒文化勳章的韓國團體，更是年紀最輕的受勳者。\[156\]
 
@@ -418,12 +418,12 @@ LOVE〉的合作舞台。\[169\]
 11月9日(美國時間)，防彈少年團的特別專輯《[Love Yourself 結
 'Answer'](https://zh.wikipedia.org/wiki/Love_Yourself_結_'Answer' "wikilink")》獲得[美國唱片業協會金唱片認證](../Page/美國唱片業協會.md "wikilink")，成為首位獲得該協會金唱片認證專輯的韓國歌手，該專輯主打曲〈〉也同時獲得黃金認證，是防彈少年團第4首黃金認證單曲，而〈〉則獲得了白金單曲認證。\[170\]
 
-[BTS_at_Asia_Artist_Awards_red_carpet_on_November_28,_2018_(1).png](https://zh.wikipedia.org/wiki/File:BTS_at_Asia_Artist_Awards_red_carpet_on_November_28,_2018_\(1\).png "fig:BTS_at_Asia_Artist_Awards_red_carpet_on_November_28,_2018_(1).png")於2018年[亞洲明星盛典頒獎典禮的紅地毯](https://zh.wikipedia.org/wiki/亞洲明星盛典 "wikilink")\]\]
+[BTS_at_Asia_Artist_Awards_red_carpet_on_November_28,_2018_(1).png](https://zh.wikipedia.org/wiki/File:BTS_at_Asia_Artist_Awards_red_carpet_on_November_28,_2018_\(1\).png "fig:BTS_at_Asia_Artist_Awards_red_carpet_on_November_28,_2018_(1).png")於2018年[亞洲明星盛典頒獎典禮的紅地毯](../Page/亞洲明星盛典.md "wikilink")\]\]
 
 11月20日，防彈少年團的首部電影紀錄片《Burn The Stage: The
 Movie》首週觀影人數已經超過140萬人次，打破了紀錄片觀影人數的冠軍成績。\[171\]
 
-11月28日，防彈少年團於2018年[亞洲明星盛典頒獎典禮](https://zh.wikipedia.org/wiki/亞洲明星盛典 "wikilink")，獲頒5個獎項。\[172\]
+11月28日，防彈少年團於2018年[亞洲明星盛典頒獎典禮](../Page/亞洲明星盛典.md "wikilink")，獲頒5個獎項。\[172\]
 12月1日，於2018年[甜瓜音樂獎頒獎典禮](../Page/甜瓜音樂獎.md "wikilink")，獲頒TOP10、最佳嘻哈獎、Kakao
 Hot Star獎、全球藝人獎、網友人氣獎、年度專輯及年度藝人獎共7獎，首次於韓國頒獎典禮上獲頒兩個大賞，成為大贏家。\[173\]
 
@@ -432,14 +432,13 @@ Artist〉中的第8位，更登上〈Top Artist-Duo/Group〉榜單第2，並橫�
 Artist〉、〈Social 50 Artist〉及〈World
 Album〉等榜單的冠軍。\[174\]此外，防彈少年團「LOVE
 YOURSELF」系列的三張專輯《[Love Yourself 承
-'Her'](https://zh.wikipedia.org/wiki/Love_Yourself_承_'Her' "wikilink")》、《[Love
-Yourself 轉
+'Her'](../Page/Love_Yourself_承_'Her'.md "wikilink")》、《[Love Yourself 轉
 'Tear'](https://zh.wikipedia.org/wiki/Love_Yourself_轉_'Tear' "wikilink")》及《[Love
 Yourself 結
 'Answer'](https://zh.wikipedia.org/wiki/Love_Yourself_結_'Answer' "wikilink")》，分別登上年度總結榜單〈Billboard
 200 ALBUMS〉中的150名、101名及85名，創下韓國歌手的紀錄。\[175\]
 
-12月7日，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《[TIME](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")》的「2018年世界最大影響力人物」投票中，防彈少年團獲得9%投票率獲得第一位。\[176\]防彈少年團憑2018年特別四輯《[Love
+12月7日，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《[TIME](../Page/時代雜誌.md "wikilink")》的「2018年世界最大影響力人物」投票中，防彈少年團獲得9%投票率獲得第一位。\[176\]防彈少年團憑2018年特別四輯《[Love
 Yourself 轉
 'Tear'](https://zh.wikipedia.org/wiki/Love_Yourself_轉_'Tear' "wikilink")》入圍了「第61屆格林美獎」的最佳唱片設計包裝獎。\[177\]
 
@@ -458,7 +457,7 @@ Yourself 結
 [190115_BTS_at_the_2019_Seoul_Music_Awards.jpg](https://zh.wikipedia.org/wiki/File:190115_BTS_at_the_2019_Seoul_Music_Awards.jpg "fig:190115_BTS_at_the_2019_Seoul_Music_Awards.jpg")的[防彈少年團](../Page/防彈少年團.md "wikilink")\]\]
 
 1月9日，防彈少年團2017年9月發行的迷你五輯《[Love Yourself 承
-'Her'](https://zh.wikipedia.org/wiki/Love_Yourself_承_'Her' "wikilink")》主打歌〈DNA〉音樂錄影帶突破6億觀看次數，成為韓國團體史上最初以及最快破6億的歌曲。\[184\]〈DNA〉音樂錄影帶歷時1年113天突破6億觀看次數。\[185\]
+'Her'](../Page/Love_Yourself_承_'Her'.md "wikilink")》主打歌〈DNA〉音樂錄影帶突破6億觀看次數，成為韓國團體史上最初以及最快破6億的歌曲。\[184\]〈DNA〉音樂錄影帶歷時1年113天突破6億觀看次數。\[185\]
 
 1月15日，於2019年[首爾歌謠大賞中](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")，防彈少年團一共獲得3個獎項。\[186\]並以特別四輯《[Love
 Yourself 結
@@ -478,8 +477,7 @@ Yourself 轉
 
 <!-- end list -->
 
-  - 2014年《[DARK &
-    WILD](https://zh.wikipedia.org/wiki/DARK_&_WILD "wikilink")》
+  - 2014年《[DARK & WILD](../Page/DARK_&_WILD.md "wikilink")》
   - 2016年《[WINGS](https://zh.wikipedia.org/wiki/WINGS_\(防彈少年團專輯\) "wikilink")》
   - 2018年《[Love Yourself 轉
     'Tear'](https://zh.wikipedia.org/wiki/Love_Yourself_轉_'Tear' "wikilink")》
@@ -490,14 +488,12 @@ Yourself 轉
 
 <!-- end list -->
 
-  - 2013年《[O\! R U L8,
-    2?](https://zh.wikipedia.org/wiki/O!_R_U_L8,_2? "wikilink")》
-  - 2014年《[Skool Luv
-    Affair](https://zh.wikipedia.org/wiki/Skool_Luv_Affair "wikilink")》
+  - 2013年《[O\! R U L8, 2?](../Page/O!_R_U_L8,_2?.md "wikilink")》
+  - 2014年《[Skool Luv Affair](../Page/Skool_Luv_Affair.md "wikilink")》
   - 2015年《[花樣年華 pt.1](../Page/花樣年華_pt.1.md "wikilink")》
   - 2015年《[花樣年華 pt.2](../Page/花樣年華_pt.2.md "wikilink")》
   - 2017年《[Love Yourself 承
-    'Her'](https://zh.wikipedia.org/wiki/Love_Yourself_承_'Her' "wikilink")》
+    'Her'](../Page/Love_Yourself_承_'Her'.md "wikilink")》
 
 <!-- end list -->
 
@@ -520,8 +516,7 @@ Yourself 轉
 
 <!-- end list -->
 
-  - 2013年《[2 COOL 4
-    SKOOL](https://zh.wikipedia.org/wiki/2_COOL_4_SKOOL "wikilink")》
+  - 2013年《[2 COOL 4 SKOOL](../Page/2_COOL_4_SKOOL.md "wikilink")》
 
 ### 日語作品
 
@@ -530,9 +525,8 @@ Yourself 轉
 <!-- end list -->
 
   - 2014年《[WAKE UP](../Page/WAKE_UP_\(防彈少年團專輯\).md "wikilink")》
-  - 2016年《[YOUTH](https://zh.wikipedia.org/wiki/YOUTH_\(防彈少年團專輯\) "wikilink")》
-  - 2018年《[Face
-    Yourself](https://zh.wikipedia.org/wiki/Face_Yourself "wikilink")》
+  - 2016年《[YOUTH](../Page/YOUTH_\(防彈少年團專輯\).md "wikilink")》
+  - 2018年《[Face Yourself](../Page/Face_Yourself.md "wikilink")》
 
 <!-- end list -->
 
@@ -550,7 +544,7 @@ Yourself 轉
   - 2015年《[I NEED U -Japanese
     Ver.-](https://zh.wikipedia.org/wiki/I_NEED_U_\(日語版\) "wikilink")》
   - 2016年《[RUN -Japanese Ver.-](../Page/RUN_\(日語版\).md "wikilink")》
-  - 2017年《[血、汗、淚](https://zh.wikipedia.org/wiki/血、汗、淚 "wikilink")》
+  - 2017年《[血、汗、淚](../Page/血、汗、淚.md "wikilink")》
   - 2017年《[MIC Drop/DNA/Crystal
     Snow](https://zh.wikipedia.org/wiki/MIC_Drop/DNA/Crystal_Snow "wikilink")》
   - 2018年《[FAKE LOVE/Airplane
@@ -562,8 +556,7 @@ Yourself 轉
 
 <!-- end list -->
 
-  - 2017年《[THE BEST OF
-    防彈少年團](https://zh.wikipedia.org/wiki/THE_BEST_OF_防彈少年團 "wikilink")》
+  - 2017年《[THE BEST OF 防彈少年團](../Page/THE_BEST_OF_防彈少年團.md "wikilink")》
 
 ## 影視作品
 
@@ -575,11 +568,11 @@ Yourself 轉
 ### 專屬節目
 
   - 2013：《[新人王：防彈少年團－Channel
-    防彈](https://zh.wikipedia.org/wiki/新人王：防彈少年團－Channel_防彈 "wikilink")》
+    防彈](../Page/新人王：防彈少年團－Channel_防彈.md "wikilink")》
   - 2014：《防彈少年團中國行紀實》
   - 2014：《BTS Lucky Draw》
   - 2014：《[BTS's American Hustle
-    Life](https://zh.wikipedia.org/wiki/BTS's_American_Hustle_Life "wikilink")》
+    Life](../Page/BTS's_American_Hustle_Life.md "wikilink")》
   - 2015：《防彈少年團的福不福》
   - 2015：《Run BTS\!》
   - 2015：《BTS GAYO》
@@ -617,8 +610,7 @@ Yourself 轉
 [File-170529_BTS_at_a_press_conference_for_the_BBMAs_(1).png](https://zh.wikipedia.org/wiki/File:File-170529_BTS_at_a_press_conference_for_the_BBMAs_\(1\).png "fig:File-170529_BTS_at_a_press_conference_for_the_BBMAs_(1).png")》獲頒[最佳社群媒體藝人獎項的](https://zh.wikipedia.org/wiki/告示牌音樂獎最佳社群媒體藝人 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")\]\]
 
 防彈少年團於2017年下旬開始的「LOVE YOURSELF」系列，發行了《[Love Yourself 承
-'Her'](https://zh.wikipedia.org/wiki/Love_Yourself_承_'Her' "wikilink")》、《[Love
-Yourself 轉
+'Her'](../Page/Love_Yourself_承_'Her'.md "wikilink")》、《[Love Yourself 轉
 'Tear'](https://zh.wikipedia.org/wiki/Love_Yourself_轉_'Tear' "wikilink")》及《[Love
 Yourself 結
 'Answer'](https://zh.wikipedia.org/wiki/Love_Yourself_結_'Answer' "wikilink")》三張專輯。\[211\]合共於全球銷量售賣超過550萬，其中《[Love
@@ -636,28 +628,23 @@ Hot
 100排行榜的第](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")10名，首度有韓國團體於該排行中排名Top
 10，後來的《[Love Yourself 結
 'Answer'](https://zh.wikipedia.org/wiki/Love_Yourself_結_'Answer' "wikilink")》主打歌〈〉也登上第11名。\[214\]「LOVE
-YOURSELF」系列除了為防彈少年團帶來龐大的經濟收益，亦為[韓國音樂開拓世界市場](https://zh.wikipedia.org/wiki/韓國 "wikilink")，2018年防彈少年團先後登上《[美國告示牌音樂獎](https://zh.wikipedia.org/wiki/告示牌音樂獎 "wikilink")》、[全美音樂獎](../Page/全美音樂獎.md "wikilink")、首個獲頒文化勳章的韓國偶像團體、參加「[聯合國](https://zh.wikipedia.org/wiki/聯合國 "wikilink")」演講、《TIME》[時代雜誌全球版封面也證明防彈少年團對推動](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")[韓國文化功不可沒](https://zh.wikipedia.org/wiki/韓國 "wikilink")。\[215\]
+YOURSELF」系列除了為防彈少年團帶來龐大的經濟收益，亦為[韓國音樂開拓世界市場](https://zh.wikipedia.org/wiki/韓國 "wikilink")，2018年防彈少年團先後登上《[美國告示牌音樂獎](https://zh.wikipedia.org/wiki/告示牌音樂獎 "wikilink")》、[全美音樂獎](../Page/全美音樂獎.md "wikilink")、首個獲頒文化勳章的韓國偶像團體、參加「[聯合國](https://zh.wikipedia.org/wiki/聯合國 "wikilink")」演講、《TIME》[時代雜誌全球版封面也證明防彈少年團對推動](../Page/時代雜誌.md "wikilink")[韓國文化功不可沒](https://zh.wikipedia.org/wiki/韓國 "wikilink")。\[215\]
 
 [‘LG_Q7_BTS_에디션’_예약_판매_시작_(42773472410)_(cropped).jpg](https://zh.wikipedia.org/wiki/File:‘LG_Q7_BTS_에디션’_예약_판매_시작_\(42773472410\)_\(cropped\).jpg "fig:‘LG_Q7_BTS_에디션’_예약_판매_시작_(42773472410)_(cropped).jpg")\]\]
 
 除了專輯銷量外，防彈少年團也是在[Youtube上發展最為成功的韓國偶像團體](https://zh.wikipedia.org/wiki/Youtube "wikilink")。\[216\]防彈少年團合共擁有16首破億的音樂錄影帶以及1首破億的回歸舞台〈Go
 Go〉，當中歌曲〈DNA〉是韓國偶像團體中觀看次數最多的音樂錄影帶，而且〈DNA〉也是首個突破4億、5億以及6億觀看次數的韓國團體音樂錄影帶。\[217\]今年公開的音樂錄影帶〈〉首日達到4500+萬次的觀看次數，成為[Youtube上全球影片中首日最多觀看次數的音樂錄影帶](https://zh.wikipedia.org/wiki/Youtube "wikilink")，並以4天23小時的用時紀錄突破1億觀看次數，成為全球用時第四快突破1億觀看次數的歌手。\[218\]由2017年9月的迷你五輯〈DNA〉以24天突破1億觀看次數及首日觀看次數2230萬，到2018年5月正規三輯〈〉以8天突破1億觀看次數及首日觀看次數3590萬，2018年8月特別專輯〈〉以4天突破1億觀看次數及首日觀看次數4500+萬。\[219\]此外，〈〉是韓國團體中最多讚好以及留言的音樂錄影帶，分別為842萬個讚好以及240萬則留言。\[220\]「LOVE
 YOURSELF」系列也一直保持著[Youtube上的各種記錄](https://zh.wikipedia.org/wiki/Youtube "wikilink")。\[221\]\[222\]防彈少年團也是第一個擁有16首破億的音樂錄影帶的韓國團體，分別為〈[DOPE](../Page/花樣年華_pt.1.md "wikilink")〉、〈[FIRE](../Page/花樣年華_Young_Forever.md "wikilink")〉、〈〉、〈[Boy
-In
-Luv](https://zh.wikipedia.org/wiki/Skool_Luv_Affair "wikilink")〉、〈〉、〈[Save
-ME](../Page/花樣年華_Young_Forever.md "wikilink")〉、〈〉、〈〉、〈[Danger](https://zh.wikipedia.org/wiki/DARK_&_WILD "wikilink")〉、〈〉、〈[War
-of
-Hormone](https://zh.wikipedia.org/wiki/DARK_&_WILD "wikilink")〉、〈〉、〈〉、〈〉、〈[Just
-One
-Day](https://zh.wikipedia.org/wiki/Skool_Luv_Affair "wikilink")〉、〈[We
-Are Bulletproof
-Pt.2](https://zh.wikipedia.org/wiki/2_COOL_4_SKOOL "wikilink")〉以及回歸舞台〈Go
-Go〉。\[223\]
+In Luv](../Page/Skool_Luv_Affair.md "wikilink")〉、〈〉、〈[Save
+ME](../Page/花樣年華_Young_Forever.md "wikilink")〉、〈〉、〈〉、〈[Danger](../Page/DARK_&_WILD.md "wikilink")〉、〈〉、〈[War
+of Hormone](../Page/DARK_&_WILD.md "wikilink")〉、〈〉、〈〉、〈〉、〈[Just One
+Day](../Page/Skool_Luv_Affair.md "wikilink")〉、〈[We Are Bulletproof
+Pt.2](../Page/2_COOL_4_SKOOL.md "wikilink")〉以及回歸舞台〈Go Go〉。\[223\]
 
-[180125_방탄소년단.jpg](https://zh.wikipedia.org/wiki/File:180125_방탄소년단.jpg "fig:180125_방탄소년단.jpg")的[j-hope](https://zh.wikipedia.org/wiki/鄭號錫 "wikilink")、[Jin](../Page/金碩珍.md "wikilink")、[Jimin](../Page/朴智旻.md "wikilink")\]\]
+[180125_방탄소년단.jpg](https://zh.wikipedia.org/wiki/File:180125_방탄소년단.jpg "fig:180125_방탄소년단.jpg")的[j-hope](../Page/鄭號錫.md "wikilink")、[Jin](../Page/金碩珍.md "wikilink")、[Jimin](../Page/朴智旻.md "wikilink")\]\]
 
 在國際的音樂獎上，防彈少年團先後登上第24屆、第25屆《[美國告示牌音樂獎](https://zh.wikipedia.org/wiki/告示牌音樂獎 "wikilink")》，而兩次也獲頒[最佳社群媒體藝人獎項](https://zh.wikipedia.org/wiki/告示牌音樂獎最佳社群媒體藝人 "wikilink")，成為此獎項設立以來第一個獲獎的亞洲歌手。\[224\]且成功蟬聯[美国](../Page/美国.md "wikilink")[告示牌的](https://zh.wikipedia.org/wiki/告示牌榜单 "wikilink")「Social
-50」78週冠軍，成為記錄保持者。\[225\]2017年，防彈少年團獲邀出席[2017全美音樂獎頒獎典禮](https://zh.wikipedia.org/wiki/2017年全美音樂獎 "wikilink")，成為首個登上[全美音樂獎的亞洲團體](../Page/全美音樂獎.md "wikilink")，而直至2018年更於[全美音樂獎頒獎典禮](../Page/全美音樂獎.md "wikilink")，獲頒最受歡迎社群網站藝人獎，成為了首個於[全美音樂獎獲獎的亞洲團體](../Page/全美音樂獎.md "wikilink")。\[226\]此外，防彈少年團先後於2017年、2018年〈[青少年票選獎](https://zh.wikipedia.org/wiki/青少年票選獎 "wikilink")〉獲得「最佳國際藝人」，而其官方粉絲團「ARMY」也於2017年、2018年〈[青少年票選獎](https://zh.wikipedia.org/wiki/青少年票選獎 "wikilink")〉獲得「最佳粉絲」，成為連續兩年獲得該獎的韓國藝人。\[227\]及後，防彈少年團也於頒獎典禮，獲頒「最佳團體」及「最大粉絲團」兩個獎項。\[228\]歌曲也先後[美國唱片業協會獲得的認證](../Page/美國唱片業協會.md "wikilink")，2017年2月〉和〈DNA〉獲得金獎認證，〈〉於2018年8月也再次獲得金獎認證，直至2018年11月《[Love
+50」78週冠軍，成為記錄保持者。\[225\]2017年，防彈少年團獲邀出席[2017全美音樂獎頒獎典禮](../Page/2017年全美音樂獎.md "wikilink")，成為首個登上[全美音樂獎的亞洲團體](../Page/全美音樂獎.md "wikilink")，而直至2018年更於[全美音樂獎頒獎典禮](../Page/全美音樂獎.md "wikilink")，獲頒最受歡迎社群網站藝人獎，成為了首個於[全美音樂獎獲獎的亞洲團體](../Page/全美音樂獎.md "wikilink")。\[226\]此外，防彈少年團先後於2017年、2018年〈[青少年票選獎](https://zh.wikipedia.org/wiki/青少年票選獎 "wikilink")〉獲得「最佳國際藝人」，而其官方粉絲團「ARMY」也於2017年、2018年〈[青少年票選獎](https://zh.wikipedia.org/wiki/青少年票選獎 "wikilink")〉獲得「最佳粉絲」，成為連續兩年獲得該獎的韓國藝人。\[227\]及後，防彈少年團也於頒獎典禮，獲頒「最佳團體」及「最大粉絲團」兩個獎項。\[228\]歌曲也先後[美國唱片業協會獲得的認證](../Page/美國唱片業協會.md "wikilink")，2017年2月〉和〈DNA〉獲得金獎認證，〈〉於2018年8月也再次獲得金獎認證，直至2018年11月《[Love
 Yourself 結
 'Answer'](https://zh.wikipedia.org/wiki/Love_Yourself_結_'Answer' "wikilink")》更獲得金唱片認證，成為首位獲得金唱片認證專輯的[韓國歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，專輯主打曲〈〉也同時獲得黃金認證，是防彈少年團第4首黃金認證單曲。\[229\]\[230\]
 
@@ -665,8 +652,7 @@ Yourself 結
 
 [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard發表的](../Page/告示牌_\(雜誌\).md "wikilink")「年度榜單」，2018年的「年度榜單」，防彈少年團榮登第8名。\[231\]不只如此，防彈少年團拿下了「年度最佳團體」第2名、「社群50藝人」第1名、「世界專輯藝人」第1名、「獨立藝人」第1名、「最佳
 Billboard 200藝人」第21名。此外，防彈少年團的專輯《[Love Yourself 承
-'Her'](https://zh.wikipedia.org/wiki/Love_Yourself_承_'Her' "wikilink")》、《[Love
-Yourself 轉
+'Her'](../Page/Love_Yourself_承_'Her'.md "wikilink")》、《[Love Yourself 轉
 'Tear'](https://zh.wikipedia.org/wiki/Love_Yourself_轉_'Tear' "wikilink")》及《[Love
 Yourself 結
 'Answer'](https://zh.wikipedia.org/wiki/Love_Yourself_結_'Answer' "wikilink")》，分別登上年度總結榜單「Billboard
@@ -677,18 +663,18 @@ Yourself 轉
 Yourself 結
 'Answer'](https://zh.wikipedia.org/wiki/Love_Yourself_結_'Answer' "wikilink")》排名第2名、第4名，《[Love
 Yourself 承
-'Her'](https://zh.wikipedia.org/wiki/Love_Yourself_承_'Her' "wikilink")》排名第3名、第9名。\[232\]防彈少年團成員[RM以及](../Page/金南俊.md "wikilink")[j-hope的專輯](https://zh.wikipedia.org/wiki/鄭號錫 "wikilink")《mono.》、《Hope
+'Her'](../Page/Love_Yourself_承_'Her'.md "wikilink")》排名第3名、第9名。\[232\]防彈少年團成員[RM以及](../Page/金南俊.md "wikilink")[j-hope的專輯](../Page/鄭號錫.md "wikilink")《mono.》、《Hope
 World》分別登上World Album第9位、第5位及World Album Artist第7位、第6位。\[233\]\[234\]
 而成員[SUGA則獲得World](../Page/閔玧其.md "wikilink") Albums
 Chart第3名，Heatseekers Albums Chart 第5名以及Emerging
 Artists第46名，成為首位進入美國告示牌排行榜的[韓國rapper](https://zh.wikipedia.org/wiki/韓國 "wikilink")。\[235\]\[236\]
 
-在[韓國本土的頒獎典禮方面](https://zh.wikipedia.org/wiki/韓國 "wikilink")，防彈少年團在2016年的[甜瓜音樂獎以及](../Page/甜瓜音樂獎.md "wikilink")[Mnet亞洲音樂大獎首次獲得大賞](../Page/Mnet亞洲音樂大獎.md "wikilink")，分別為「年度最佳專輯獎」以及「年度歌手」。\[237\]其後，也成功於2017年的[甜瓜音樂獎以及](../Page/甜瓜音樂獎.md "wikilink")[Mnet亞洲音樂大獎獲得](../Page/Mnet亞洲音樂大獎.md "wikilink")「年度歌曲獎」以及「年度歌手」，成功蟬聯年度歌手，為[韓國非三大公司出身的團體寫下歷史的新一頁](https://zh.wikipedia.org/wiki/韓國 "wikilink")。\[238\]而於2018年則是防彈少年團獎項大豐收的一年，先後於2018年[Soribada最佳音樂大獎](https://zh.wikipedia.org/wiki/Soribada最佳音樂大獎 "wikilink")、2018年[亞洲明星盛典頒獎典禮](https://zh.wikipedia.org/wiki/亞洲明星盛典 "wikilink")、2018年[MBC
+在[韓國本土的頒獎典禮方面](https://zh.wikipedia.org/wiki/韓國 "wikilink")，防彈少年團在2016年的[甜瓜音樂獎以及](../Page/甜瓜音樂獎.md "wikilink")[Mnet亞洲音樂大獎首次獲得大賞](../Page/Mnet亞洲音樂大獎.md "wikilink")，分別為「年度最佳專輯獎」以及「年度歌手」。\[237\]其後，也成功於2017年的[甜瓜音樂獎以及](../Page/甜瓜音樂獎.md "wikilink")[Mnet亞洲音樂大獎獲得](../Page/Mnet亞洲音樂大獎.md "wikilink")「年度歌曲獎」以及「年度歌手」，成功蟬聯年度歌手，為[韓國非三大公司出身的團體寫下歷史的新一頁](https://zh.wikipedia.org/wiki/韓國 "wikilink")。\[238\]而於2018年則是防彈少年團獎項大豐收的一年，先後於2018年[Soribada最佳音樂大獎](../Page/Soribada最佳音樂大獎.md "wikilink")、2018年[亞洲明星盛典頒獎典禮](../Page/亞洲明星盛典.md "wikilink")、2018年[MBC
 Plus X
 Genie音樂獎](../Page/MBC_Plus_X_Genie音樂獎.md "wikilink")、2018年[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")、2018年[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")、[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")、[首爾歌謠大賞以及](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")[Gaon
 Chart
 K-POP大獎中合共獲得](../Page/Gaon_Chart_K-POP大獎.md "wikilink")46個獎項。\[239\]\[240\]此外，於各個頒獎典禮上也獲得了大賞，例如[Mnet亞洲音樂大獎的](../Page/Mnet亞洲音樂大獎.md "wikilink")「全球年度藝人」、年度專輯」和「年度藝人」，[金唱片獎以及](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")[首爾歌謠大賞的唱片大賞等](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")。\[241\]防彈少年團的音樂無論於國内國外也獲得肯定，去年兩度登上[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard](../Page/告示牌_\(雜誌\).md "wikilink")[Billboard
-200排行榜首](https://zh.wikipedia.org/wiki/Billboard_200 "wikilink")，據[首爾現代研究所去年](https://zh.wikipedia.org/wiki/首爾 "wikilink")12月推估，防彈少年團去年為[韓國經濟貢獻逾](https://zh.wikipedia.org/wiki/韓國 "wikilink")36億美元；此外，2017年赴韓的外籍觀光客中，每13人裡就有1人是衝著防彈少年團而來。\[242\]
+200排行榜首](https://zh.wikipedia.org/wiki/Billboard_200 "wikilink")，據[首爾現代研究所去年](../Page/首爾.md "wikilink")12月推估，防彈少年團去年為[韓國經濟貢獻逾](https://zh.wikipedia.org/wiki/韓國 "wikilink")36億美元；此外，2017年赴韓的外籍觀光客中，每13人裡就有1人是衝著防彈少年團而來。\[242\]
 
 ## 公益活動
 
@@ -717,7 +703,7 @@ Entertainment分別與[美國](https://donate.unicefusa.org/page/contribute/dona
 2018年12月27日，依據聯合國兒童基金會資料顯示，Big Hit
 Entertainment與防彈少年團共同捐贈了12.8769億韓元，以及防彈少年團成員的個人捐款6000萬韓元、Big
 Hit
-Entertainment[房時爀代表獲頒總統表彰時的全數獎金](https://zh.wikipedia.org/wiki/房時爀 "wikilink")1286韓元。防彈少年團粉絲ARMY透過購買相關週邊商品所產生的捐款金額3.1313億韓元、於防彈少年團世界巡演間舉行的現場捐贈活動中共獲得約5200萬韓元的捐款。而捐款金額佔比最大的為「LOVE
+Entertainment[房時爀代表獲頒總統表彰時的全數獎金](../Page/房時爀.md "wikilink")1286韓元。防彈少年團粉絲ARMY透過購買相關週邊商品所產生的捐款金額3.1313億韓元、於防彈少年團世界巡演間舉行的現場捐贈活動中共獲得約5200萬韓元的捐款。而捐款金額佔比最大的為「LOVE
 YOURSELF」系列專輯收益，高達7.1482億韓元，在此項企劃活動一年間所累計的捐款金額已突破18億韓元。\[250\]
 
 ## 出版物

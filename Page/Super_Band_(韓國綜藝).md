@@ -33,7 +33,7 @@ Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")）、[金鐘萬](htt
 <li>With you（自作曲）</li>
 </ul></td>
 <td><ul>
-<li>《<a href="https://zh.wikipedia.org/wiki/陽光先生" title="wikilink">陽光先生</a>》OST Part.7《化為風》</li>
+<li>《<a href="../Page/陽光先生.md" title="wikilink">陽光先生</a>》OST Part.7《化為風》</li>
 </ul></td>
 <td><ul>
 <li></li>
@@ -157,7 +157,7 @@ Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")）、[金鐘萬](htt
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Rose_(樂團)" title="wikilink">The Rose</a></p></td>
+<td><p><a href="../Page/The_Rose_(樂團).md" title="wikilink">The Rose</a></p></td>
 <td><ul>
 <li>樂隊</li>
 <li>Breakeven</li>
@@ -299,7 +299,7 @@ Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")）、[金鐘萬](htt
 <li>Remember</li>
 </ul></td>
 <td><ul>
-<li>《<a href="https://zh.wikipedia.org/wiki/SUPER_STAR_K" title="wikilink">SUPER STAR K</a>》冠軍</li>
+<li>《<a href="../Page/SUPER_STAR_K.md" title="wikilink">SUPER STAR K</a>》冠軍</li>
 </ul></td>
 <td><ul>
 <li></li>
@@ -414,7 +414,7 @@ Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")）、[金鐘萬](htt
 <li>THE VANE（現時為一人樂隊）</li>
 <li>《<a href="https://zh.wikipedia.org/wiki/看見你的聲音" title="wikilink">看見你的聲音</a>》第2季EP11實力者</li>
 <li>《<a href="https://zh.wikipedia.org/wiki/二重唱歌謠祭" title="wikilink">二重唱歌謠祭</a>》20170113</li>
-<li>《<a href="https://zh.wikipedia.org/wiki/救救我" title="wikilink">救救我</a>》、《<a href="../Page/Player_(韓國電視劇).md" title="wikilink">Player</a>》、《<a href="../Page/Item_(電視劇).md" title="wikilink">Item</a>》、《<a href="../Page/悲傷時相愛.md" title="wikilink">悲傷時相愛</a>》OST</li>
+<li>《<a href="../Page/救救我.md" title="wikilink">救救我</a>》、《<a href="../Page/Player_(韓國電視劇).md" title="wikilink">Player</a>》、《<a href="../Page/Item_(電視劇).md" title="wikilink">Item</a>》、《<a href="../Page/悲傷時相愛.md" title="wikilink">悲傷時相愛</a>》OST</li>
 </ul></td>
 <td><p><a href="https://www.instagram.com/bohoonie/?hl=ko">蔡寶勳的Instagram帳戶</a><br />
 <a href="https://www.instagram.com/thevane053/">THE VANE的Instagram帳戶</a></p></td>

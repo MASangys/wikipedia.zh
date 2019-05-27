@@ -1,4 +1,4 @@
-《**O_LOVE**》，[呂薔Amuyi](https://zh.wikipedia.org/wiki/呂薔 "wikilink")
+《**O_LOVE**》，[呂薔Amuyi](../Page/呂薔.md "wikilink")
 個人第二張錄音室專輯，於2018年11月30日正式發行，入圍[最佳國語女歌手獎項](../Page/最佳國語女歌手獎_\(金曲獎\).md "wikilink")。
 
 ## 曲目

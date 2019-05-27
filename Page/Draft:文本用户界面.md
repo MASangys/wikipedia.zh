@@ -29,8 +29,8 @@ types (here ordered in order of decreasing accessibility):
     [emulator](https://zh.wikipedia.org/wiki/仿真器 "wikilink").
     Examples are [xterm](https://zh.wikipedia.org/wiki/Xterm "wikilink")
     for [X Window System](../Page/X_Window系統.md "wikilink") and [win32
-    console](https://zh.wikipedia.org/wiki/Win32控制台 "wikilink") (in a
-    window mode) for [Microsoft
+    console](../Page/Win32控制台.md "wikilink") (in a window mode) for
+    [Microsoft
     Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink").
     This usually supports programs which expect a real text mode
     display, but may run considerably slower. Certain functions of an
@@ -48,21 +48,21 @@ types (here ordered in order of decreasing accessibility):
 
 Under [Linux](../Page/Linux内核.md "wikilink") and other
 [Unix-like](../Page/类Unix系统.md "wikilink") systems, a program easily
-[accommodates](https://zh.wikipedia.org/wiki/故障容許度 "wikilink") to any of
-the three cases because the same interface (namely, [standard
-streams](../Page/標準串流.md "wikilink")) controls the display and keyboard.
-Also,  help to output the text in a way appropriate to the given display
-device and interface to it. See  for a comparison to Windows.
+[accommodates](../Page/故障容許度.md "wikilink") to any of the three cases
+because the same interface (namely, [standard
+streams](../Page/標準串流.md "wikilink")) controls the display and
+keyboard. Also,  help to output the text in a way appropriate to the
+given display device and interface to it. See  for a comparison to
+Windows.
 
 ## On ANSI-compatible terminals
 
 [American National Standards
 Institute](https://zh.wikipedia.org/wiki/美國國家標準協會 "wikilink")
-(ANSI) standard [ANSI
-X3.64](https://zh.wikipedia.org/wiki/ANSI转义序列 "wikilink")
-defines a standard set of [escape
-sequences](https://zh.wikipedia.org/wiki/转义序列 "wikilink") that can be
-used to drive terminals to create TUIs (see [ANSI escape
+(ANSI) standard [ANSI X3.64](../Page/ANSI转义序列.md "wikilink") defines a
+standard set of [escape
+sequences](https://zh.wikipedia.org/wiki/转义序列 "wikilink") that
+can be used to drive terminals to create TUIs (see [ANSI escape
 code](https://zh.wikipedia.org/wiki/ANSI_escape_code "wikilink")).
 Escape sequences may be supported for all three cases mentioned in the
 above section, allowing random
@@ -83,13 +83,13 @@ sequences. However, programmers soon learned that writing data directly
 to the [screen buffer](../Page/帧缓冲器.md "wikilink") was far faster and
 simpler to program, and less error-prone; see  for details. This change
 in programming methods resulted in many DOS TUI programs. The [win32
-console](https://zh.wikipedia.org/wiki/Win32控制台 "wikilink") environment
-is notorious for its emulation of certain EGA/VGA text mode features,
-particularly random access to the text buffer, even if the application
-runs in a window. On the other hand, programs running under Windows
-(both native and DOS applications) have much less control of the display
-and keyboard than Linux and DOS programs can have, because of
-aforementioned win32 console layer.
+console](../Page/Win32控制台.md "wikilink") environment is notorious for
+its emulation of certain EGA/VGA text mode features, particularly random
+access to the text buffer, even if the application runs in a window. On
+the other hand, programs running under Windows (both native and DOS
+applications) have much less control of the display and keyboard than
+Linux and DOS programs can have, because of aforementioned win32 console
+layer.
 
 Most often those programs used a blue background for the main screen,
 with white or yellow characters, although commonly they had also user
@@ -130,11 +130,10 @@ still has its own TUI.
 Since its start, [Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 includes a console to display DOS software. Later versions added the
-[Win32 console](https://zh.wikipedia.org/wiki/Win32控制台 "wikilink") as a
-native interface for [command-line
-interface](../Page/命令行界面.md "wikilink") and TUI programs. The
-console usually opens in window mode, but it can be switched to full,
-true text mode screen and vice versa by pressing the
+[Win32 console](../Page/Win32控制台.md "wikilink") as a native interface
+for [command-line interface](../Page/命令行界面.md "wikilink") and TUI
+programs. The console usually opens in window mode, but it can be
+switched to full, true text mode screen and vice versa by pressing the
 [Alt](https://zh.wikipedia.org/wiki/转换键 "wikilink") and
 [Enter](../Page/回車鍵.md "wikilink") keys together. Full-screen mode is
 not available in Windows Vista and later, but may be used with some

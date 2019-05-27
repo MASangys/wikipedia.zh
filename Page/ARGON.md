@@ -20,7 +20,7 @@ Gon及Jaeun。
 
 ### 出道前
 
-2016年，Jaeun曾以藝名WIN於團體[INX出道](https://zh.wikipedia.org/wiki/INX "wikilink")。
+2016年，Jaeun曾以藝名WIN於團體[INX出道](../Page/INX.md "wikilink")。
 
 2017年，Kain曾在[防彈少年團第二次世界巡迴演唱會](../Page/防彈少年團.md "wikilink")擔任伴舞員\[2\]。
 

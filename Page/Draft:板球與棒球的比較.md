@@ -83,16 +83,15 @@ point](../Page/板球术语列表.md "wikilink") and [short
 leg](https://zh.wikipedia.org/wiki/short_leg "wikilink") may wear leg
 protection underneath their clothing, boxes and helmets but are not
 allowed any gloves\[9\]. In baseball, catchers and first basemen
-normally wear [mitts](https://zh.wikipedia.org/wiki/棒球手套 "wikilink"),
-which have no fingers and are specially designed for each respective
-position. The other fielders wear gloves with fingers. (Early baseball
-was also played bare-handed; gloves were adopted in the later 19th
-century.) This means that the risk of hand injury due to the impact of
-the ball is far higher in cricket. Also, especially in Test cricket, it
-is common for several fielders to be stationed close to the bat (slips,
-short leg, silly point and similar positions) since the likelihood and
-value of dismissing a batsman by a catch in a close fielding position is
-higher.
+normally wear [mitts](../Page/棒球手套.md "wikilink"), which have no fingers
+and are specially designed for each respective position. The other
+fielders wear gloves with fingers. (Early baseball was also played
+bare-handed; gloves were adopted in the later 19th century.) This means
+that the risk of hand injury due to the impact of the ball is far higher
+in cricket. Also, especially in Test cricket, it is common for several
+fielders to be stationed close to the bat (slips, short leg, silly point
+and similar positions) since the likelihood and value of dismissing a
+batsman by a catch in a close fielding position is higher.
 
 Baseball games have far lower scores than cricket matches. The largest
 combined runs total in a single game in the history of Major League
@@ -445,11 +444,11 @@ seriously by batters, and bench-clearing brawls occasionally result when
 one team decides the other is deliberately throwing at its batters.
 Amazingly, in the history of the major league game, only one player has
 ever been killed by a pitched ball striking him in the head ([Ray
-Chapman](https://zh.wikipedia.org/wiki/雷·查普曼 "wikilink") of the
-[Cleveland Indians](https://zh.wikipedia.org/wiki/克里夫蘭印地安人 "wikilink")
-in 1920). This occurred before the invention of the batting helmet and
-was the principal cause for introducing this piece of equipment into the
-game as well as replacing dirty balls and outlawing the spitball.
+Chapman](../Page/雷·查普曼.md "wikilink") of the [Cleveland
+Indians](https://zh.wikipedia.org/wiki/克里夫蘭印地安人 "wikilink") in 1920).
+This occurred before the invention of the batting helmet and was the
+principal cause for introducing this piece of equipment into the game as
+well as replacing dirty balls and outlawing the spitball.
 
 In cricket, bowlers consider the right to hit a batsman as part of their
 armoury; indeed, one of the most common methods of dismissal ([leg
@@ -1131,10 +1130,8 @@ specific substance applied (such as
 that become scuffed or scratched through normal game play are
 immediately removed from play and never reused. The current rules
 regarding the condition of baseballs did not come into effect until
-1920, after the death of [Ray
-Chapman](https://zh.wikipedia.org/wiki/雷·查普曼 "wikilink") from
-being hit with a [Carl
-Mays](https://zh.wikipedia.org/wiki/卡爾·梅斯 "wikilink") spitball.
+1920, after the death of [Ray Chapman](../Page/雷·查普曼.md "wikilink") from
+being hit with a [Carl Mays](../Page/卡爾·梅斯.md "wikilink") spitball.
 Before that point, the rules were similar to those still present in
 cricket. However, the new rules were not consistently enforced for
 several decades afterwards, and several pitchers (most notably [Gaylord
@@ -1204,17 +1201,17 @@ is one of the sports most readily identified with the United States.
 Baseball references abound in [American
 English](../Page/美国英语.md "wikilink"), and the sport is well
 represented in American cinema in numerous [baseball
-movies](https://zh.wikipedia.org/wiki/運動片 "wikilink"). Baseball also
-plays an important cultural role in many parts of Latin America,
-(specifically Cuba, Dominican Republic, Mexico, Puerto Rico and
-Venezuela), as well as in East Asia. Many terms and expressions from the
-sport have entered the English lexicon. Examples are ["getting to first
-base,"](../Page/棒球的性隱喻.md "wikilink") "", "having two strikes against
-him/her", "swinging for the fences", "he struck out", "that's a home
-run", and "[southpaw](../Page/利手.md "wikilink")" (baseball diamonds are
-traditionally built with home plate to the west so hitters do not have
-to fight the setting sun as well as the pitch, a pitcher's left arm is
-always to the south).
+movies](../Page/運動片.md "wikilink"). Baseball also plays an
+important cultural role in many parts of Latin America, (specifically
+Cuba, Dominican Republic, Mexico, Puerto Rico and Venezuela), as well as
+in East Asia. Many terms and expressions from the sport have entered the
+English lexicon. Examples are ["getting to first
+base,"](../Page/棒球的性隱喻.md "wikilink") "", "having two
+strikes against him/her", "swinging for the fences", "he struck out",
+"that's a home run", and "[southpaw](../Page/利手.md "wikilink")"
+(baseball diamonds are traditionally built with home plate to the west
+so hitters do not have to fight the setting sun as well as the pitch, a
+pitcher's left arm is always to the south).
 
 Cricket has an equally strong influence on the culture of many nations,
 mainly [Commonwealth nations](../Page/英联邦.md "wikilink"), including

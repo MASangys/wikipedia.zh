@@ -1,4 +1,4 @@
-**罗伯特·D·卡普兰**（，）是一位美国作家，著作涉及政治、外交事务和旅行。他为[大西洋月刊](https://zh.wikipedia.org/wiki/大西洋_\(雜誌\) "wikilink")、[华盛顿邮报](../Page/华盛顿邮报.md "wikilink")、[纽约时报](../Page/纽约时报.md "wikilink")、[新共和](../Page/新共和.md "wikilink")、[国家利益](../Page/國家利益_\(雜誌\).md "wikilink")、[外交和](https://zh.wikipedia.org/wiki/外交_\(杂志\) "wikilink")[华尔街日报等报纸和出版物工作超过三十年](../Page/华尔街日报.md "wikilink")。
+**罗伯特·D·卡普兰**（，）是一位美国作家，著作涉及政治、外交事务和旅行。他为[大西洋月刊](../Page/大西洋_\(雜誌\).md "wikilink")、[华盛顿邮报](../Page/华盛顿邮报.md "wikilink")、[纽约时报](../Page/纽约时报.md "wikilink")、[新共和](../Page/新共和.md "wikilink")、[国家利益](../Page/國家利益_\(雜誌\).md "wikilink")、[外交和](https://zh.wikipedia.org/wiki/外交_\(杂志\) "wikilink")[华尔街日报等报纸和出版物工作超过三十年](../Page/华尔街日报.md "wikilink")。
 
 卡普兰最具影响力的文章之一是“即将到来的无政府状态”（The Coming
 Anarchy），1994年发表于“[大西洋月刊](https://zh.wikipedia.org/wiki/大西洋月刊 "wikilink")”，评论家将其与[亨廷顿的](../Page/塞繆爾·P·亨廷頓.md "wikilink")“[文明冲突论](https://zh.wikipedia.org/wiki/文明冲突论 "wikilink")”相提并论，因为卡普兰将当代世界的冲突视为原始主义与文明之间的斗争。\[1\]

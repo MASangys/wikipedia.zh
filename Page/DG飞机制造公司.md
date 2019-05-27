@@ -18,8 +18,7 @@ ELAN，DG-300 ELAN和DG-500 ELAN飞机按照协议由ELAN公司，1999年起由�
 Flight建造](https://zh.wikipedia.org/wiki/AMS_Flight "wikilink")。
 这项合作于2004年底结束。
 
-该公司自1980年生产的部分DG-200C采用了[碳纤维增强塑料](https://zh.wikipedia.org/wiki/碳纖維強化聚合物 "wikilink")
-。
+该公司自1980年生产的部分DG-200C采用了[碳纤维增强塑料](../Page/碳纖維強化聚合物.md "wikilink") 。
 [缩略图](https://zh.wikipedia.org/wiki/File:DG_Flugzeugbau_DG-808B.jpg "fig:缩略图")
 1981年，
 [动力滑翔机DG](https://zh.wikipedia.org/wiki/滑翔机 "wikilink")-400的推出，拓展了公司的[产品组合](../Page/投資組合.md "wikilink")。

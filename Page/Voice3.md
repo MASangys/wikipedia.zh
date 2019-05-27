@@ -1,5 +1,5 @@
 《**Voice
-3**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2019年5月11日起播出的[經典系列週末電視劇](https://zh.wikipedia.org/wiki/OCN_Original_Series "wikilink")，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink")》李勝英導演與《[Voice](https://zh.wikipedia.org/wiki/Voice_\(韓國電視劇\) "wikilink")》、《[Voice2](https://zh.wikipedia.org/wiki/Voice2 "wikilink")》馬珍媛作家合作打造。本劇時間點為第二季最後一個案件（英石洞夢想考試院恐怖襲擊事件），真兇方濟水設計引誘姜權酒中心長進入的房間爆炸，而姜權酒中心長生死未卜之後\[1\]。本季描述死守犯罪現場的「112舉報中心黃金時間隊」的成員們，與跨國犯罪組織「Dark
+3**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2019年5月11日起播出的[經典系列週末電視劇](../Page/OCN_Original_Series.md "wikilink")，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink")》李勝英導演與《[Voice](../Page/Voice_\(韓國電視劇\).md "wikilink")》、《[Voice2](../Page/Voice2.md "wikilink")》馬珍媛作家合作打造。本劇時間點為第二季最後一個案件（英石洞夢想考試院恐怖襲擊事件），真兇方濟水設計引誘姜權酒中心長進入的房間爆炸，而姜權酒中心長生死未卜之後\[1\]。本季描述死守犯罪現場的「112舉報中心黃金時間隊」的成員們，與跨國犯罪組織「Dark
 Web」的幕後黑手展開較量，再次敲響網路犯罪的殘酷和黃金時間的重要性。\[2\]\[3\]\[4\]\[5\]\[6\]
 
 台灣地區
@@ -110,7 +110,7 @@ Web」的幕後黑手展開較量，再次敲響網路犯罪的殘酷和黃金�
 
 ## 記事
 
-  - 製作公司與OCN電視台於2018年9月10日確定製作第三季，故[第二季從原本規劃的](https://zh.wikipedia.org/wiki/Voice2 "wikilink")16集，縮短為12集\[9\]。
+  - 製作公司與OCN電視台於2018年9月10日確定製作第三季，故[第二季從原本規劃的](../Page/Voice2.md "wikilink")16集，縮短為12集\[9\]。
 
 ## 參考資料
 

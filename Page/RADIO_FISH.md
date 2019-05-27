@@ -39,7 +39,7 @@ SUMMER**」活動、10月12日，第2張專輯『』發布也被宣布\[7\]。
 HUMAN」榮獲第49屆[日本有線大獎](../Page/日本有線大獎.md "wikilink")・有線话题獎\[8\]、第58屆[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")・企畫獎\[9\]、WebTVAsia
 Awards 2016・年度最佳音樂獎\[10\]獲獎。
 
-11月24日，『[第67回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第67回NHK紅白歌合戰 "wikilink")』的已經確定了很長一段時間的目標第一次出場待決定，據宣布，應該招募舞者在當天的舞台上一起跳舞\[11\]。在12月31日的廣播中，從全國選出了40名舞者，演出以「[醍醐花宴](https://zh.wikipedia.org/wiki/醍醐花宴 "wikilink")」為主題，以“Neo[秀吉](../Page/丰臣秀吉.md "wikilink")”為主題在舞台上\[12\]。[Piko太郎也在今年下半年時尚](https://zh.wikipedia.org/wiki/古坂大魔王 "wikilink")，並且有一段時間NAKATA說，「我沒有認出他的存在」等。白組的[相葉雅紀女士將此稱為](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")「歷史和解」\[13\]。當然這兩個並不是很糟糕，第二天NAKATA在[Twitter上透露](../Page/Twitter.md "wikilink")，秋季已經有一種算法可以用紅白來解決\[14\]。
+11月24日，『[第67回NHK紅白歌合戰](../Page/第67回NHK紅白歌合戰.md "wikilink")』的已經確定了很長一段時間的目標第一次出場待決定，據宣布，應該招募舞者在當天的舞台上一起跳舞\[11\]。在12月31日的廣播中，從全國選出了40名舞者，演出以「[醍醐花宴](https://zh.wikipedia.org/wiki/醍醐花宴 "wikilink")」為主題，以“Neo[秀吉](../Page/丰臣秀吉.md "wikilink")”為主題在舞台上\[12\]。[Piko太郎也在今年下半年時尚](../Page/古坂大魔王.md "wikilink")，並且有一段時間NAKATA說，「我沒有認出他的存在」等。白組的[相葉雅紀女士將此稱為](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")「歷史和解」\[13\]。當然這兩個並不是很糟糕，第二天NAKATA在[Twitter上透露](../Page/Twitter.md "wikilink")，秋季已經有一種算法可以用紅白來解決\[14\]。
 
 在[Google於](../Page/Google.md "wikilink")12月20日發布的國內[YouTube年度趨勢視頻排名的音樂視頻部分](../Page/YouTube.md "wikilink")，1月21日發布的「PERFECT
 HUMAN」現場視頻在4700萬播放中排名第3，MV於4月25日發布，在3700萬場比賽中排名第五\[15\]。還出現在舉行的「**YouTube
@@ -61,7 +61,7 @@ YouTube上的活動將從7月21日開始全面展開。在此之前，從今天�
 10月29日，同樣在[NHK廣播第1頻率節目](https://zh.wikipedia.org/wiki/NHK廣播第1頻率 "wikilink")「」，東方收音機擔任MC、同時也[乃木坂46的](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")[中元日芽香擔任助理MC迎](../Page/中元日芽香.md "wikilink")，新歌「LAST
 NUMBER (feat. 中元日芽香(乃木坂46))」首次發表。它于數位配信11月8日发布\[20\]。
 
-11月29日，发行了两首歌「新时代」，[YouTuber制作的第一首歌曲和](https://zh.wikipedia.org/wiki/YouTuber "wikilink")「O.D.O:Re」，第一首由RIHITO制作的歌曲數位配信发布\[21\]。「新时代」仅限于2018年3月10日之前，在[Google
+11月29日，发行了两首歌「新时代」，[YouTuber制作的第一首歌曲和](../Page/YouTuber.md "wikilink")「O.D.O:Re」，第一首由RIHITO制作的歌曲數位配信发布\[21\]。「新时代」仅限于2018年3月10日之前，在[Google
 Play音樂乐上独家免费发布](../Page/Google_Play音樂.md "wikilink")\[22\]。同样在12月1日，YouTube
 Space Tokyo上有一个发布活动，作为嘉宾，YouTuber的也出现了。
 

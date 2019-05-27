@@ -1,4 +1,4 @@
-《**罪案心理小组X**》（），2018年[中国刑侦剧](https://zh.wikipedia.org/wiki/中国 "wikilink")。本剧改编自作家摸底牌的小说《诡案追凶》，由[张超](../Page/张超_\(歌手\).md "wikilink")、[米露](../Page/米露.md "wikilink")、[李晨浩](../Page/李晨浩.md "wikilink")、[王润泽领衔主演](https://zh.wikipedia.org/wiki/王润泽 "wikilink")\[1\]\[2\]，[搜狐视频于](https://zh.wikipedia.org/wiki/搜狐视频 "wikilink")2018年11月22日首播。\[3\]
+《**罪案心理小组X**》（），2018年[中国刑侦剧](https://zh.wikipedia.org/wiki/中国 "wikilink")。本剧改编自作家摸底牌的小说《诡案追凶》，由[张超](../Page/张超_\(歌手\).md "wikilink")、[米露](../Page/米露.md "wikilink")、[李晨浩](../Page/李晨浩.md "wikilink")、[王润泽领衔主演](https://zh.wikipedia.org/wiki/王润泽 "wikilink")\[1\]\[2\]，[搜狐视频于](../Page/搜狐视频.md "wikilink")2018年11月22日首播。\[3\]
 
 ## 播出时间
 
@@ -14,7 +14,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/搜狐视频" title="wikilink">搜狐视频</a></p></td>
+<td><p><a href="../Page/搜狐视频.md" title="wikilink">搜狐视频</a></p></td>
 <td></td>
 <td><p>2018年11月22日</p></td>
 <td></td>

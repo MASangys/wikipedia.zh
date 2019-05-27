@@ -1,7 +1,7 @@
 **Gala360**是一个关于[全景图片与视频的聚合站](../Page/全景图.md "wikilink")，同时也提供多平台的[app支持](../Page/流動應用程式.md "wikilink")。包括但可能不限于[Oculus
 Rift](../Page/Oculus_Rift.md "wikilink")、[Google
 Cardboard](../Page/Google_Cardboard.md "wikilink")、[Google
-Daydream](https://zh.wikipedia.org/wiki/Google_Daydream "wikilink")、[三星Gear
+Daydream](../Page/Google_Daydream.md "wikilink")、[三星Gear
 VR及](../Page/三星Gear_VR.md "wikilink")[Microsoft
 HoloLens](../Page/Microsoft_HoloLens.md "wikilink")。
 
@@ -9,11 +9,11 @@ HoloLens](../Page/Microsoft_HoloLens.md "wikilink")。
 
 Gala360成立于2016年，美国加州硅谷，为一个全景内容站点，主要由全景照片构成，之后上线了全景视频和虚拟旅行。除了网站内容展示外，也与各[虚拟现实设备合作](../Page/虚拟现实.md "wikilink")，如[頭戴式顯示器的](../Page/頭戴式顯示器.md "wikilink")[Oculus
 Rift或](../Page/Oculus_Rift.md "wikilink")[Google
-Daydream平台](https://zh.wikipedia.org/wiki/Google_Daydream "wikilink")，以app方式提供内容展示\[1\]。
+Daydream平台](../Page/Google_Daydream.md "wikilink")，以app方式提供内容展示\[1\]。
 
 全景内容来自用户投稿，及网站雇佣摄影师团队提供。
 
-除了地球实景的全景内容，Gala360也接纳如[火星全景照片](../Page/火星.md "wikilink")\[2\]，或是[视频游戏](https://zh.wikipedia.org/wiki/游戏内摄影 "wikilink")，如《战神》产生的全景图\[3\]。
+除了地球实景的全景内容，Gala360也接纳如[火星全景照片](../Page/火星.md "wikilink")\[2\]，或是[视频游戏](../Page/游戏内摄影.md "wikilink")，如《战神》产生的全景图\[3\]。
 
 ## 支持平台
 
@@ -22,8 +22,7 @@ Gala360支持以下平台的app应用
   - [Oculus Rift](../Page/Oculus_Rift.md "wikilink")\[4\]
   - Oculus Go
   - [Google Cardboard](../Page/Google_Cardboard.md "wikilink")
-  - [Google
-    Daydream](https://zh.wikipedia.org/wiki/Google_Daydream "wikilink")
+  - [Google Daydream](../Page/Google_Daydream.md "wikilink")
   - [三星Gear VR](../Page/三星Gear_VR.md "wikilink")
   - [Microsoft HoloLens](../Page/Microsoft_HoloLens.md "wikilink")\[5\]
   - 小米VR

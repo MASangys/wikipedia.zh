@@ -1,17 +1,17 @@
 **Tropical**（），是LUK
-Factory旗下的韩国女子音乐团体，分别为：[恩率](https://zh.wikipedia.org/wiki/Bambino "wikilink")、Jeong
+Factory旗下的韩国女子音乐团体，分别为：[恩率](../Page/Bambino.md "wikilink")、Jeong
 Hyun、Joo Eun、Ji Won 四名成員。组合于2018年8月30日携單曲《Mwah》正式出道。
 
 ## 成員資料
 
-| colspan="8" style="" |成員列表                             |
-| ------------------------------------------------------ |
-| 藝名                                                     |
-| 藝名                                                     |
-| [恩率](https://zh.wikipedia.org/wiki/Bambino "wikilink") |
-| Jeong Hyun                                             |
-| Joo Eun                                                |
-| Ji Won                                                 |
+| colspan="8" style="" |成員列表          |
+| ----------------------------------- |
+| 藝名                                  |
+| 藝名                                  |
+| [恩率](../Page/Bambino.md "wikilink") |
+| Jeong Hyun                          |
+| Joo Eun                             |
+| Ji Won                              |
 
 \[1\] \[2\] \[3\] \[4\]
 

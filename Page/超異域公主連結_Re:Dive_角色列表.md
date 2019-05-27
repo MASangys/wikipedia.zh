@@ -510,7 +510,7 @@ Re:Dive](../Page/超異域公主連結_Re:Dive.md "wikilink")**中出現的人�
 <!-- end list -->
 
   -
-    配音：[久野美咲](https://zh.wikipedia.org/wiki/久野美咲 "wikilink")
+    配音：[久野美咲](../Page/久野美咲.md "wikilink")
 
 大招台詞：
 
@@ -596,7 +596,7 @@ Re:Dive](../Page/超異域公主連結_Re:Dive.md "wikilink")**中出現的人�
 <!-- end list -->
 
   -
-    配音：[相坂優歌](https://zh.wikipedia.org/wiki/相坂優歌 "wikilink")
+    配音：[相坂優歌](../Page/相坂優歌.md "wikilink")
 
 <!-- end list -->
 
@@ -644,7 +644,7 @@ Re:Dive](../Page/超異域公主連結_Re:Dive.md "wikilink")**中出現的人�
 
   -
     配音：[優木加奈](../Page/優木加奈.md "wikilink")
-    來自《[闇影詩章](https://zh.wikipedia.org/wiki/闇影詩章 "wikilink")》。
+    來自《[闇影詩章](../Page/闇影詩章.md "wikilink")》。
 
 大招台詞：
 

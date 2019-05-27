@@ -1,5 +1,5 @@
-**ITZY**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂旗下的五人女子團體](../Page/JYP娛樂.md "wikilink")，由五名韓國成員[禮志](https://zh.wikipedia.org/wiki/黃禮志 "wikilink")、[Lia](https://zh.wikipedia.org/wiki/崔智秀 "wikilink")、[留眞](https://zh.wikipedia.org/wiki/申留眞 "wikilink")、[彩領](https://zh.wikipedia.org/wiki/李彩領 "wikilink")、[有娜組成](https://zh.wikipedia.org/wiki/申有娜 "wikilink")，2019年2月12日以首張單曲專輯《[IT'z
-Different](https://zh.wikipedia.org/wiki/IT'z_Different "wikilink")》正式出道\[1\]。在JYP娛樂與[GOT7](../Page/GOT7.md "wikilink")，和前[Wonder
+**ITZY**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂旗下的五人女子團體](../Page/JYP娛樂.md "wikilink")，由五名韓國成員[禮志](../Page/黃禮志.md "wikilink")、[Lia](../Page/崔智秀.md "wikilink")、[留眞](../Page/申留眞.md "wikilink")、[彩領](../Page/李彩領.md "wikilink")、[有娜組成](../Page/申有娜.md "wikilink")，2019年2月12日以首張單曲專輯《[IT'z
+Different](../Page/IT'z_Different.md "wikilink")》正式出道\[1\]。在JYP娛樂與[GOT7](../Page/GOT7.md "wikilink")，和前[Wonder
 Girls的](../Page/Wonder_Girls.md "wikilink")[宥斌](https://zh.wikipedia.org/wiki/宥斌 "wikilink")、[惠林等同為二本部管理藝人及團體](../Page/惠林.md "wikilink")。\[2\]
 
 ## 團體資料
@@ -17,24 +17,23 @@ US.），並把這樣的抱負濃縮成短而有力的口號「有嗎？有啊�
 
   - 名字**粗體**為隊長。
 
-| 成員列表                                                   |
-| ------------------------------------------------------ |
-| 藝名                                                     |
-| 漢字                                                     |
-| [**禮志**](https://zh.wikipedia.org/wiki/黃禮志 "wikilink") |
-| [Lia](https://zh.wikipedia.org/wiki/崔智秀 "wikilink")    |
-| [留眞](https://zh.wikipedia.org/wiki/申留眞 "wikilink")     |
-| [彩領](https://zh.wikipedia.org/wiki/李彩領 "wikilink")     |
-| [有娜](https://zh.wikipedia.org/wiki/申有娜 "wikilink")     |
+| 成員列表                                |
+| ----------------------------------- |
+| 藝名                                  |
+| 漢字                                  |
+| [**禮志**](../Page/黃禮志.md "wikilink") |
+| [Lia](../Page/崔智秀.md "wikilink")    |
+| [留眞](../Page/申留眞.md "wikilink")     |
+| [彩領](../Page/李彩領.md "wikilink")     |
+| [有娜](../Page/申有娜.md "wikilink")     |
 
 ## 發展歷程
 
 ### 2013–2018年：出道前
 
-  - 2013年，[彩領與姊姊](https://zh.wikipedia.org/wiki/李彩領 "wikilink")[李彩演一同參加](../Page/李彩演.md "wikilink")《[K-pop
-    Star
-    3](https://zh.wikipedia.org/wiki/K-pop_Star_3 "wikilink")》，被稱為完全彩姐妹。雖然在《K-pop
-    Star 3》沒有進到總決賽，但最終與[JYP娛樂簽約成為練習生](../Page/JYP娛樂.md "wikilink")。
+  - 2013年，[彩領與姊姊](../Page/李彩領.md "wikilink")[李彩演一同參加](../Page/李彩演.md "wikilink")《[K-pop
+    Star 3](../Page/K-pop_Star_3.md "wikilink")》，被稱為完全彩姐妹。雖然在《K-pop Star
+    3》沒有進到總決賽，但最終與[JYP娛樂簽約成為練習生](../Page/JYP娛樂.md "wikilink")。
   - 2015年，彩領以JYP練習生身份參加了JYP娛樂與Mnet合作的選秀節目《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》\[3\]，成員須在節目裡進行各種唱歌、舞蹈等嚴格訓練爭取出道機會，彩領最終在節目最後一集被淘汰，回到JYP繼續練習。
   - 2017年，留眞以JYP練習生身份參加由YG娛樂社長梁鉉錫推動，《[PRODUCE
     101](../Page/PRODUCE_101.md "wikilink")》PD韓東哲製作的選秀節目《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》。
@@ -53,7 +52,7 @@ US.），並把這樣的抱負濃縮成短而有力的口號「有嗎？有啊�
 1月21日，ITZY官方網站開通，JYP官方YouTube頻道上傳前導影片，公開新女團團名及成員。\[6\]
 
 2月12日，於下午6點正式出道，發行首張單曲專輯《[IT'z
-Different](https://zh.wikipedia.org/wiki/IT'z_Different "wikilink")》，主打歌為《[DALLA
+Different](../Page/IT'z_Different.md "wikilink")》，主打歌為《[DALLA
 DALLA](https://m.youtube.com/watch?v=pNfTK39k55U)》\[7\]\[8\]，其MV在YouTube公開24小時內觀看數便達到了約1710萬，創下韓國組合出道曲MV首日最高觀看數的新紀錄\[9\]。JYP娛樂的前輩們也為她們拍攝祝賀片。\[10\]
 
 2月21日，於音樂節目《[M\!
@@ -83,7 +82,7 @@ DALLA》MV用時57天就突破了一億，成為歷代女團出道曲最快破�
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/IT&#39;z_Different" title="wikilink">IT'z Different</a>》</strong></p>
+<td><p><strong>《<a href="../Page/IT&#39;z_Different.md" title="wikilink">IT'z Different</a>》</strong></p>
 <ul>
 <li>發行日期 ：2019年2月12日</li>
 <li>語言：韓語</li>
@@ -112,7 +111,7 @@ DALLA》MV用時57天就突破了一億，成為歷代女團出道曲最快破�
 <tr class="odd">
 <td><p>2019年</p></td>
 <td><p>2月11日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/IT&#39;z_Different" title="wikilink">IT'z Different</a>》</p></td>
+<td><p>《<a href="../Page/IT&#39;z_Different.md" title="wikilink">IT'z Different</a>》</p></td>
 <td><p>달라달라(DALLA DALLA)[14]</p></td>
 <td><p>달라달라(DALLA DALLA)[15]</p></td>
 <td><p>달라달라(DALLA DALLA)[16]<br />
@@ -137,19 +136,19 @@ DALLA》MV用時57天就突破了一億，成為歷代女團出道曲最快破�
 
 ### 固定綜藝
 
-| 日期                     | 電視台                                     | 節目名稱                                                                    | 參與成員 | 登場集數           | 備註      |
-| ---------------------- | --------------------------------------- | ----------------------------------------------------------------------- | ---- | -------------- | ------- |
-| 2013年11月24日－2014年4月13日 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[K-pop Star 3](https://zh.wikipedia.org/wiki/K-pop_Star_3 "wikilink")》 | 彩領   | 2、7-8、10、13-14 | 出道前選秀節目 |
-| 2015年5月5日－7月7日         | [Mnet](../Page/Mnet媒體.md "wikilink")    | 《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》           | 全集   |                |         |
-| 2017年10月29日－2018年1月26日 | [JTBC](../Page/JTBC.md "wikilink")      | 《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》           | 留眞   |                |         |
-| 2018年12月1日－12月29日      | SBS                                     | 《[The Fan](https://zh.wikipedia.org/wiki/The_Fan "wikilink")》           | 禮志   | 2、5-6          |         |
+| 日期                     | 電視台                                     | 節目名稱                                                          | 參與成員 | 登場集數           | 備註      |
+| ---------------------- | --------------------------------------- | ------------------------------------------------------------- | ---- | -------------- | ------- |
+| 2013年11月24日－2014年4月13日 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[K-pop Star 3](../Page/K-pop_Star_3.md "wikilink")》          | 彩領   | 2、7-8、10、13-14 | 出道前選秀節目 |
+| 2015年5月5日－7月7日         | [Mnet](../Page/Mnet媒體.md "wikilink")    | 《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》 | 全集   |                |         |
+| 2017年10月29日－2018年1月26日 | [JTBC](../Page/JTBC.md "wikilink")      | 《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》 | 留眞   |                |         |
+| 2018年12月1日－12月29日      | SBS                                     | 《[The Fan](https://zh.wikipedia.org/wiki/The_Fan "wikilink")》 | 禮志   | 2、5-6          |         |
 
 ### 嘉賓出演
 
 | 年份    | 日期                                                  | 電視台                                                       | 節目名稱                                                                         | 參與成員        | 登場集數                 | 備註  |
 | ----- | --------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------- | -------------------- | --- |
 | 2017年 | 10月17日                                              | [Mnet](../Page/Mnet媒體.md "wikilink")                      | 《[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》 | 禮志、留眞、彩領、有娜 | 1                    | 出道前 |
-| 2019年 | 2月21日                                               | 《[超級實習生](https://zh.wikipedia.org/wiki/超級實習生 "wikilink")》 | 全員                                                                           | 5           | 未來預告。錄製時出道前幾天、2本部新客戶 |     |
+| 2019年 | 2月21日                                               | 《[超級實習生](../Page/超級實習生.md "wikilink")》                    | 全員                                                                           | 5           | 未來預告。錄製時出道前幾天、2本部新客戶 |     |
 | 3月10日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《[家师父一体](https://zh.wikipedia.org/wiki/家师父一体 "wikilink")》 | 60                                                                           | 特别出演        |                      |     |
 | 3月17日 | 61                                                  |                                                           |                                                                              |             |                      |     |
 
@@ -170,11 +169,11 @@ DALLA》MV用時57天就突破了一億，成為歷代女團出道曲最快破�
 
 ### Showcase
 
-| **日期**                                                                                          | **演唱會站次** | **舉行地點**              |
-| ----------------------------------------------------------------------------------------------- | --------- | --------------------- |
-| 首張單曲《[IT'z Different](https://zh.wikipedia.org/wiki/IT'z_Different "wikilink")》出道Showcase\[19\] |           |                       |
-| 2019年2月12日                                                                                      | 首爾站       | BLUE SQUARE I MARKET廳 |
-|                                                                                                 |           |                       |
+| **日期**                                                                       | **演唱會站次** | **舉行地點**              |
+| ---------------------------------------------------------------------------- | --------- | --------------------- |
+| 首張單曲《[IT'z Different](../Page/IT'z_Different.md "wikilink")》出道Showcase\[19\] |           |                       |
+| 2019年2月12日                                                                   | 首爾站       | BLUE SQUARE I MARKET廳 |
+|                                                                              |           |                       |
 
 ### 其他大型演唱會
 
@@ -213,7 +212,7 @@ DALLA》MV用時57天就突破了一億，成為歷代女團出道曲最快破�
 <td><p>2019年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/IT&#39;z_Different" title="wikilink">IT'z Different</a></p></td>
+<td><p><a href="../Page/IT&#39;z_Different.md" title="wikilink">IT'z Different</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>
@@ -274,7 +273,7 @@ DALLA》MV用時57天就突破了一億，成為歷代女團出道曲最快破�
 [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
 
 1.
-2.  《[超級實習生](https://zh.wikipedia.org/wiki/超級實習生 "wikilink")》第二集透露
+2.  《[超級實習生](../Page/超級實習生.md "wikilink")》第二集透露
 3.
 4.
 5.

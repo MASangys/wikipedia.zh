@@ -1,5 +1,5 @@
 **[Cry me a
-river](https://zh.wikipedia.org/wiki/Cry_Me_A_River_\(茱莉·倫敦1956年的迷你專輯\) "wikilink")**
+river](../Page/Cry_Me_A_River_\(茱莉·倫敦1956年的迷你專輯\).md "wikilink")**
 是[Jive唱片在](https://zh.wikipedia.org/wiki/Jive唱片 "wikilink")2002年11月推出的[當代節奏藍調單曲](https://zh.wikipedia.org/wiki/當代節奏藍調 "wikilink")，[賈斯汀·汀布萊克是](https://zh.wikipedia.org/wiki/賈斯汀·汀布萊克 "wikilink")[填詞人之一](../Page/詞曲作家.md "wikilink")，而單曲則是由[提姆巴蘭所製作](../Page/提姆巴蘭.md "wikilink")。此曲在2002年12月先達到[主流四十強單曲榜第](https://zh.wikipedia.org/wiki/主流四十強單曲榜 "wikilink")37名\[1\]，然後在2003年2月最高達到第3名\[2\]。此曲的銷量已超過120萬次
 \[3\]。
 
@@ -25,7 +25,7 @@ river](https://zh.wikipedia.org/wiki/Cry_Me_A_River_\(茱莉·倫敦1956年的�
 ## 另見
 
   - [What Goes Around... Comes
-    Around](https://zh.wikipedia.org/wiki/What_Goes_Around..._Comes_Around "wikilink")
+    Around](../Page/What_Goes_Around..._Comes_Around.md "wikilink")
 
 ## 外部链接
 

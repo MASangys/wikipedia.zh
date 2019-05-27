@@ -13,7 +13,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/JSF联合打击战斗机.md" title="wikilink">JSF联合打击战斗机</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/1997年电子游戏界" title="wikilink">1997</a></p></td>
+<td><p><a href="../Page/1997年电子游戏界.md" title="wikilink">1997</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 </tr>
 <tr class="even">
@@ -28,7 +28,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2001年电子游戏界" title="wikilink">2001</a></p></td>
+<td><p><a href="../Page/2001年电子游戏界.md" title="wikilink">2001</a></p></td>
 <td><p>Microsoft Windows</p></td>
 </tr>
 <tr class="odd">

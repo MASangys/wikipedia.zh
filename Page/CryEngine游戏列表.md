@@ -35,7 +35,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/孤岛惊魂_本能" title="wikilink">孤岛惊魂 本能</a></p></td>
+<td><p><a href="../Page/孤岛惊魂_本能.md" title="wikilink">孤岛惊魂 本能</a></p></td>
 <td><p>2005</p></td>
 <td><p><a href="../Page/育碧蒙特利尔.md" title="wikilink">育碧蒙特利尔</a></p></td>
 <td><p><a href="../Page/育碧.md" title="wikilink">育碧</a></p></td>
@@ -479,7 +479,7 @@
 <td><p><a href="../Page/家園戰線：革命.md" title="wikilink">家園戰線：革命</a></p></td>
 <td><p>2016</p></td>
 <td><p>Deep Silver Dambuster Studios</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a>, <a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>, <a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a></p></td>
 </tr>
 <tr class="odd">
@@ -490,10 +490,10 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/天国：拯救" title="wikilink">天国：拯救</a>[5]</p></td>
+<td><p><a href="../Page/天国：拯救.md" title="wikilink">天国：拯救</a>[5]</p></td>
 <td><p>2018</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a>, <a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>, <a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a></p></td>
 </tr>
 <tr class="odd">
@@ -504,7 +504,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/獵魂_(2017年遊戲)" title="wikilink">獵魂</a></p></td>
+<td><p><a href="../Page/獵魂_(2017年遊戲).md" title="wikilink">獵魂</a></p></td>
 <td><p>2017</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Bethesda_Softworks" title="wikilink">Bethesda Softworks</a></p></td>
@@ -525,7 +525,7 @@
 <td><p><a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>, <a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/狙击手：幽灵战士3" title="wikilink">狙击手：幽灵战士3</a></p></td>
+<td><p><a href="../Page/狙击手：幽灵战士3.md" title="wikilink">狙击手：幽灵战士3</a></p></td>
 <td><p>2017</p></td>
 <td></td>
 <td><p>City Interactive</p></td>

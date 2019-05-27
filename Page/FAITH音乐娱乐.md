@@ -10,7 +10,7 @@ School股份公司4家在2002年8月合并成为FME股份公司。随后改名FA
 ※截至2019年1月
 
   - [ELEPHANT KASHIMASHI](../Page/ELEPHANT_KASHIMASHI.md "wikilink")
-  - [SHISHAMO](https://zh.wikipedia.org/wiki/SHISHAMO "wikilink")
+  - [SHISHAMO](../Page/SHISHAMO.md "wikilink")
 
 ### 代理
 

@@ -6,7 +6,7 @@ Games或其他廠商的遊戲，並透過Epic Games客戶端下載遊戲。
 ## 簡介
 
 該商城可以透過[網頁瀏覽器或Epic](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")
-Games客戶端來使用。目前除了提供遊戲販售與遊玩之外，暫時沒有其他附加功能（諸如[遊戲成就](https://zh.wikipedia.org/wiki/成就_\(電子遊戲\) "wikilink")、[討論區](https://zh.wikipedia.org/wiki/討論區 "wikilink")、遊戲評價...等等）。\[1\]從2019年1月開始，商店也提供區域定價與退費機制。\[2\]未來商店也計畫提供玩家評價系統，但遊戲開發者可以自行選擇是否要啟用這項功能，以免發生被誤用的情況（例如「[評論轟炸](https://zh.wikipedia.org/wiki/評論轟炸 "wikilink")」）。\[3\][雲端存檔](https://zh.wikipedia.org/wiki/雲端儲存 "wikilink")、成就、[遊戲-{模組}-等功能預計在](../Page/遊戲模組.md "wikilink")2019年內推出，此外也計畫推出不同於「傳統留言版」的社交機制。不過Epic
+Games客戶端來使用。目前除了提供遊戲販售與遊玩之外，暫時沒有其他附加功能（諸如[遊戲成就](https://zh.wikipedia.org/wiki/成就_\(電子遊戲\) "wikilink")、[討論區](https://zh.wikipedia.org/wiki/討論區 "wikilink")、遊戲評價...等等）。\[1\]從2019年1月開始，商店也提供區域定價與退費機制。\[2\]未來商店也計畫提供玩家評價系統，但遊戲開發者可以自行選擇是否要啟用這項功能，以免發生被誤用的情況（例如「[評論轟炸](../Page/評論轟炸.md "wikilink")」）。\[3\][雲端存檔](https://zh.wikipedia.org/wiki/雲端儲存 "wikilink")、成就、[遊戲-{模組}-等功能預計在](../Page/遊戲模組.md "wikilink")2019年內推出，此外也計畫推出不同於「傳統留言版」的社交機制。不過Epic
 Games並不想加入類似「[Steam交換卡片](../Page/Steam.md "wikilink")」的功能，以免出現那種只把虛擬物品的市集交易當作目標的遊戲或投機開發者。\[4\]
 
 Epic
@@ -18,7 +18,7 @@ Games會提供相關補償措施。\[5\]\[6\]
 大逃殺](https://zh.wikipedia.org/wiki/要塞英雄_大逃殺 "wikilink")》。計畫內容是針對那些將遊戲內容進行二次創作的人們（遊戲實況主、遊戲-{模組}-製作者），讓這些創作者可以從創作內容的交易中獲得一部分抽成。遊戲開發者可自行決定與創作者之間的交易分成比例，然後Epic
 Games會額外提供5%的補助。Epic Games認為該計畫有助於開發者推廣自己的遊戲。\[7\]
 
-從2018年12月14日開始，每隔兩週會提供一款商城中的遊戲讓玩家限時免費領取，第一款限時免費遊戲是《[深海迷航](https://zh.wikipedia.org/wiki/深海迷航 "wikilink")》(Subnautica)。\[8\]
+從2018年12月14日開始，每隔兩週會提供一款商城中的遊戲讓玩家限時免費領取，第一款限時免費遊戲是《[深海迷航](../Page/深海迷航.md "wikilink")》(Subnautica)。\[8\]
 
 目前Epic
 games商城对中国大陆锁区，如果使用中国大陆的[VISA信用卡](https://zh.wikipedia.org/wiki/VISA "wikilink")、[paypal支付可能会导致封号](https://zh.wikipedia.org/wiki/paypal "wikilink")。\[9\]
@@ -27,7 +27,7 @@ games商城对中国大陆锁区，如果使用中国大陆的[VISA信用卡](ht
 
 [Sergey_Galyonkin.jpg](https://zh.wikipedia.org/wiki/File:Sergey_Galyonkin.jpg "fig:Sergey_Galyonkin.jpg")
 在Epic
-Games商城出現以前，PC遊戲的[數位發行管道以](https://zh.wikipedia.org/wiki/數位發行 "wikilink")[Valve公司的](https://zh.wikipedia.org/wiki/Valve "wikilink")[Steam平台為主流](../Page/Steam.md "wikilink")，其他諸如[Origin](https://zh.wikipedia.org/wiki/Origin_\(電子遊戲平台\) "wikilink")、[Uplay](https://zh.wikipedia.org/wiki/Uplay "wikilink")、[GOG等平台皆未達到競爭優勢](../Page/GOG.com.md "wikilink")。Valve對於在Steam上架的遊戲一律收取30%的抽成，同時[App
+Games商城出現以前，PC遊戲的[數位發行管道以](https://zh.wikipedia.org/wiki/數位發行 "wikilink")[Valve公司的](https://zh.wikipedia.org/wiki/Valve "wikilink")[Steam平台為主流](../Page/Steam.md "wikilink")，其他諸如[Origin](https://zh.wikipedia.org/wiki/Origin_\(電子遊戲平台\) "wikilink")、[Uplay](../Page/Uplay.md "wikilink")、[GOG等平台皆未達到競爭優勢](../Page/GOG.com.md "wikilink")。Valve對於在Steam上架的遊戲一律收取30%的抽成，同時[App
 Store](../Page/App_Store_\(iOS\).md "wikilink")、[PlayStation
 Store等其他數位平台的抽成比例大多也是如此](../Page/PlayStation_Store.md "wikilink")。2017年8月，Epic
 Games創始人表示30%的抽成已不再合適，他認為即使Valve把抽成降低到8%仍舊能獲取利潤。\[10\]
@@ -45,7 +45,7 @@ Play感到壓力。另一方面，由於[蘋果公司在](https://zh.wikipedia.o
 Games暫時沒有機會在iOS上與其抗衡。\[15\]
 
 早在商城推出之前，其發行策略總監Sergey Galyonkin於2015年建立了[Steam
-Spy網站](https://zh.wikipedia.org/wiki/Steam_Spy "wikilink")，該網站專門透過Steam使用者的公開個人檔案來收集與統計Steam遊戲的銷售數據。當初他只是將這網站當作次要的經營目標，但這些Steam銷售的分析經驗確實帶給他不少幫助，往後在建構Epic
+Spy網站](../Page/Steam_Spy.md "wikilink")，該網站專門透過Steam使用者的公開個人檔案來收集與統計Steam遊戲的銷售數據。當初他只是將這網站當作次要的經營目標，但這些Steam銷售的分析經驗確實帶給他不少幫助，往後在建構Epic
 Games商城時便能採用更益於銷售的策略。\[16\]此外，Epic
 games旗下遊戲《[堡垒之夜](https://zh.wikipedia.org/wiki/堡垒之夜 "wikilink")》的成功也是商城推出的助力之一。\[17\]
 
@@ -65,7 +65,7 @@ Games商城推出更多自家遊戲。這是首次有第三方大廠加入Epic
 Games商城的行列。\[24\]
 
 2019年1月29日，發行商[Deep
-Silver宣布原定要在Steam上發售的](https://zh.wikipedia.org/wiki/Deep_Silver "wikilink")《[戰慄深隧：流亡](https://zh.wikipedia.org/wiki/戰慄深隧：流亡 "wikilink")》將改在Epic
+Silver宣布原定要在Steam上發售的](../Page/Deep_Silver.md "wikilink")《[戰慄深隧：流亡](../Page/戰慄深隧：流亡.md "wikilink")》將改在Epic
 Games商城獨佔發售，獨佔滿一年後才會在Steam與其他PC數位平台發售。在Epic
 Games商城上的定價（美國區）將會比其他數位平台減少10美金。\[25\]
 

@@ -19,8 +19,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     （作詞：michico、作曲：T.Kura, michico）
 3.  BIG CITY RODEO (Instrumental)
 4.  MAD CYCLONE(Instrumental)
-5.  **[日月皆同](https://zh.wikipedia.org/wiki/日月皆同 "wikilink")（English
-    version）**
+5.  **[日月皆同](../Page/日月皆同.md "wikilink")（English version）**
 
 ### DVD
 

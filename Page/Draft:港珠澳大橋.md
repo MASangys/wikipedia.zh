@@ -4,7 +4,7 @@
 
 港珠澳大橋全長55公里，主桥全长约29.6公里。為桥隧結合結構，包括一条长约6.7公里的海底隧道及两個人工岛\[2\]。其中，海中橋隧主體工程（粵港分界線至珠海和澳門口岸段）由粵港澳三地共同出资建設；海中橋隧工程香港段（起自香港國際機場人工島，止於粵港分界線）由香港方面建设，三地口岸和連接線由三地各自建設\[3\]。
 
-[港珠澳大桥管理局是由](https://zh.wikipedia.org/wiki/港珠澳大桥管理局 "wikilink")[香港特别行政区政府](https://zh.wikipedia.org/wiki/香港特别行政区政府 "wikilink")、[广东省人民政府和](../Page/广东省人民政府.md "wikilink")[澳门特别行政区政府举办的事业单位](https://zh.wikipedia.org/wiki/澳门特别行政区政府 "wikilink")，主要承担大桥主体部分的建设、运营、维护和管理的组织实施等工作\[4\]。
+[港珠澳大桥管理局是由](../Page/港珠澳大桥管理局.md "wikilink")[香港特别行政区政府](https://zh.wikipedia.org/wiki/香港特别行政区政府 "wikilink")、[广东省人民政府和](../Page/广东省人民政府.md "wikilink")[澳门特别行政区政府举办的事业单位](https://zh.wikipedia.org/wiki/澳门特别行政区政府 "wikilink")，主要承担大桥主体部分的建设、运营、维护和管理的组织实施等工作\[4\]。
 
 港珠澳大橋啟用後，穿梭香港、珠海、澳門三地的交通時間將銳減，行車時間僅需一小時左右，而且不需要再繞經[虎门大桥](../Page/虎门大桥.md "wikilink")；而港珠澳也會形成「一小時生活圈」，對[粤港澳大灣區發展有象徵意義](https://zh.wikipedia.org/wiki/粤港澳大灣區 "wikilink")。大橋的使用者進入香港後亦可經香港的快速公路，包括[深港西部通道前往](../Page/深港西部通道.md "wikilink")[深圳](../Page/深圳市.md "wikilink")。\[5\]
 
@@ -217,7 +217,7 @@ ND363F驶出红磡码头粤港直通巴士露天車廠，俗稱「金巴」\]\]
 
 大橋建成後，來往香港及澳門的陸上交通時間可以大幅度地減省\[103\]，亦將加強澳門極為發達的[博彩業](https://zh.wikipedia.org/wiki/博彩 "wikilink")，[澳門政府表示歡迎](https://zh.wikipedia.org/wiki/澳門政府 "wikilink")。
 
-正因同樣理由，特別是澳門客流亦增加了前往[香港酒店或](../Page/香港.md "wikilink")[大陸賓館住宿的](https://zh.wikipedia.org/wiki/大陸 "wikilink")[機會成本和](https://zh.wikipedia.org/wiki/機會成本 "wikilink")[選擇](https://zh.wikipedia.org/wiki/選擇 "wikilink")，故此對澳門的酒店業界造成潛藏影響。而[澳門旅遊零售服務業總商會理事長](https://zh.wikipedia.org/wiki/澳門旅遊零售服務業總商會 "wikilink")[葉榮發指](https://zh.wikipedia.org/wiki/葉榮發 "wikilink")，初期不會吸引大量港客使用大橋。[澳門旅遊局局長](https://zh.wikipedia.org/wiki/澳門旅遊局 "wikilink")[文綺華稱](https://zh.wikipedia.org/wiki/文綺華 "wikilink")，據11月訪澳旅客的臨時數據來看，通車的確暫時造出訪澳旅客15%增長的數字，但是更多旅客即日離開。他指開通的同時多了訪澳一天遊。\[104\]不過《[經濟日報](../Page/香港經濟日報.md "wikilink")》再指，有業內人士相信前景，大橋亦可能將香港機場的旅客帶來澳門，反過來影響香港酒店服務業。\[105\]
+正因同樣理由，特別是澳門客流亦增加了前往[香港酒店或](../Page/香港.md "wikilink")[大陸賓館住宿的](https://zh.wikipedia.org/wiki/大陸 "wikilink")[機會成本和](https://zh.wikipedia.org/wiki/機會成本 "wikilink")[選擇](https://zh.wikipedia.org/wiki/選擇 "wikilink")，故此對澳門的酒店業界造成潛藏影響。而[澳門旅遊零售服務業總商會理事長](https://zh.wikipedia.org/wiki/澳門旅遊零售服務業總商會 "wikilink")[葉榮發指](https://zh.wikipedia.org/wiki/葉榮發 "wikilink")，初期不會吸引大量港客使用大橋。[澳門旅遊局局長](https://zh.wikipedia.org/wiki/澳門旅遊局 "wikilink")[文綺華稱](../Page/文綺華.md "wikilink")，據11月訪澳旅客的臨時數據來看，通車的確暫時造出訪澳旅客15%增長的數字，但是更多旅客即日離開。他指開通的同時多了訪澳一天遊。\[104\]不過《[經濟日報](../Page/香港經濟日報.md "wikilink")》再指，有業內人士相信前景，大橋亦可能將香港機場的旅客帶來澳門，反過來影響香港酒店服務業。\[105\]
 
 ### 广东省
 

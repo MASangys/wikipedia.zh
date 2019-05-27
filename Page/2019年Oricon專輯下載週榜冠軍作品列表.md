@@ -17,7 +17,7 @@
 <tr class="odd">
 <td><p>1月7日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a></p></td>
+<td><p><a href="../Page/星野源.md" title="wikilink">星野源</a></p></td>
 <td><p>0.9</p></td>
 <td></td>
 </tr>
@@ -80,7 +80,7 @@
 <tr class="even">
 <td><p>3月11日</p></td>
 <td><p>The Champion</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/催眠麥克風" title="wikilink">麻天狼</a></p></td>
+<td><p><a href="../Page/催眠麥克風.md" title="wikilink">麻天狼</a></p></td>
 <td><p>0.9</p></td>
 <td><p>[7]</p></td>
 </tr>
@@ -94,14 +94,14 @@
 <tr class="even">
 <td><p>3月25日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumika" title="wikilink">Sumika</a></p></td>
+<td><p><a href="../Page/Sumika.md" title="wikilink">Sumika</a></p></td>
 <td><p>0.4</p></td>
 <td><p>[9]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月1日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/瞬間的第六感" title="wikilink">瞬間的第六感</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛繆" title="wikilink">愛繆</a></p></td>
+<td><p><a href="../Page/愛繆.md" title="wikilink">愛繆</a></p></td>
 <td><p>0.1</p></td>
 <td><p>[10]</p></td>
 </tr>

@@ -1,6 +1,6 @@
-《**FRIENDS**》是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z於](../Page/B'z.md "wikilink")[1992年](../Page/1992年.md "wikilink")[12月9日由](../Page/12月9日.md "wikilink")[BMG
+《**FRIENDS**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z於](../Page/B'z.md "wikilink")[1992年](../Page/1992年.md "wikilink")[12月9日由](../Page/12月9日.md "wikilink")[BMG
 ROOMS發行的第](../Page/VERMILLION_RECORDS.md "wikilink")4張迷你專輯。此外，於[1996年](../Page/1996年.md "wikilink")[11月25日發售了本專輯的續編](../Page/11月25日.md "wikilink")《[FRIENDS
-II](https://zh.wikipedia.org/wiki/FRIENDS_II "wikilink")》。
+II](../Page/FRIENDS_II.md "wikilink")》。
 
 ## 作品解說
 
@@ -15,7 +15,7 @@ II](https://zh.wikipedia.org/wiki/FRIENDS_II "wikilink")》。
       -
         [器樂曲](https://zh.wikipedia.org/wiki/器樂 "wikilink")。由[弦樂器演奏](https://zh.wikipedia.org/wiki/弦樂器 "wikilink")。
 2.  SCENE 1. **[曾幾何時的Merry
-    Christmas](https://zh.wikipedia.org/wiki/曾幾何時的Merry_Christmas "wikilink")（）**(5:36)　
+    Christmas](../Page/曾幾何時的Merry_Christmas.md "wikilink")（）**(5:36)　
       -
         [聖誕歌曲](https://zh.wikipedia.org/wiki/聖誕 "wikilink")。因雖非單曲卻在粉絲間擁有高人氣，而成為了經典的聖誕歌曲。
 3.  SCENE 2. **我的罪（）**(4:19)
@@ -28,7 +28,7 @@ II](https://zh.wikipedia.org/wiki/FRIENDS_II "wikilink")》。
       -
         由突然驟變的強烈吉他前奏揭開序幕。在粉絲間擁有高人氣，因上榜粉絲票選前10名，而被收錄進精選輯『[B'z The Best
         "ULTRA
-        Treasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』。2014年在粉絲俱樂部會報實施的「雖然自身還未曾聽過，但夢想總有一天能在[LIVE-GYM上聽到的歌曲](https://zh.wikipedia.org/wiki/LIVE-GYM "wikilink"){{\#tag:ref||group="原文"}}」問卷調查中票選第3名，2017年在同會報實施的「想在LIVE-GYM上聽到的B'z歌曲{{\#tag:ref||group="原文"}}」問卷調查中票選第3名，但在演唱會上自「B'z
+        Treasure"](../Page/B'z_The_Best_"ULTRA_Treasure".md "wikilink")』。2014年在粉絲俱樂部會報實施的「雖然自身還未曾聽過，但夢想總有一天能在[LIVE-GYM上聽到的歌曲](../Page/LIVE-GYM.md "wikilink"){{\#tag:ref||group="原文"}}」問卷調查中票選第3名，2017年在同會報實施的「想在LIVE-GYM上聽到的B'z歌曲{{\#tag:ref||group="原文"}}」問卷調查中票選第3名，但在演唱會上自「B'z
         LIVE-GYM'93 -RUN-」巡演以後未曾演奏。
 6.  SCENE 4. **SEASONS** (1:14)
       -
@@ -57,7 +57,7 @@ II](https://zh.wikipedia.org/wiki/FRIENDS_II "wikilink")》。
 
   - [稻葉浩志](../Page/稻葉浩志.md "wikilink")：[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")
 
-  - [明石昌夫](https://zh.wikipedia.org/wiki/明石昌夫 "wikilink")：[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")、、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")（\#4,6,8除外）
+  - [明石昌夫](../Page/明石昌夫.md "wikilink")：[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")、、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")（\#4,6,8除外）
 
   - ：[爵士鼓](../Page/爵士鼓.md "wikilink")
 

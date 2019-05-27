@@ -83,7 +83,7 @@ Pencil第一代和智能键盘保护盖](../Page/Apple_Pencil.md "wikilink")。
 <tr class="odd">
 <td><p>colspan=2 |處理器</p></td>
 <td><p><a href="../Page/Apple_A7.md" title="wikilink">64位 Apple A7</a> 1.4 Ghz 雙核心</p></td>
-<td><p>64位 <a href="https://zh.wikipedia.org/wiki/Apple_A8X" title="wikilink">Apple A8X</a> 1.5Ghz 三核心</p></td>
+<td><p>64位 <a href="../Page/Apple_A8X.md" title="wikilink">Apple A8X</a> 1.5Ghz 三核心</p></td>
 <td><p>64位 <a href="../Page/Apple_A12_Bionic.md" title="wikilink">Apple A12 Bionic</a> 2.49 GHz 六核心</p></td>
 </tr>
 <tr class="even">

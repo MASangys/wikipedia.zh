@@ -20,10 +20,10 @@ Spark](../Page/Apache_Spark.md "wikilink")，[Apache
 Giraph](../Page/Giraph.md "wikilink")，[Apache
 Hadoop](../Page/Apache_Hadoop.md "wikilink")）集成，支持全局图数据的分析、报告和ETL。\[3\]
 
-JanusGraph通过外部索引存储（[Elasticsearch](https://zh.wikipedia.org/wiki/Elasticsearch "wikilink")，[Solr](../Page/Solr.md "wikilink")，[Lucene](../Page/Lucene.md "wikilink")）支持地理、数字范围和全文搜索。\[4\]
+JanusGraph通过外部索引存储（[Elasticsearch](../Page/Elasticsearch.md "wikilink")，[Solr](../Page/Solr.md "wikilink")，[Lucene](../Page/Lucene.md "wikilink")）支持地理、数字范围和全文搜索。\[4\]
 
 JanusGraph与Apache TinkerPop\[5\]
-图栈（[Gremlin图查询语言](https://zh.wikipedia.org/wiki/Gremlin "wikilink")，[Gremlin图服务器](https://tinkerpop.apache.org/docs/3.3.3/reference/#gremlin-server)，[Gremlin应用](https://tinkerpop.apache.org/docs/3.3.3/reference/#gremlin-applications)）原生集成。\[6\]
+图栈（[Gremlin图查询语言](../Page/Gremlin.md "wikilink")，[Gremlin图服务器](https://tinkerpop.apache.org/docs/3.3.3/reference/#gremlin-server)，[Gremlin应用](https://tinkerpop.apache.org/docs/3.3.3/reference/#gremlin-applications)）原生集成。\[6\]
 
 ## 历史
 

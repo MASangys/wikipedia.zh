@@ -3,7 +3,7 @@
 
 ## 簡介
 
-《魔法少女奈葉Detonation》故事緊接在《[魔法少女奈葉Reflection](https://zh.wikipedia.org/wiki/魔法少女奈葉Reflection "wikilink")》之後，以壞滅的星球（埃爾特利亞）為故事起點，描述居住在該星球上面的科學家女兒琦莉耶，為了拯救病危的父親以及星球再生的契機，逐奔向遙遠的異世界——地球，去尋求「永遠結晶」的存在，雖然姊姊阿米蒂埃曾試圖阻止她，但琦莉耶仍與好友伊莉絲堅持前往，進而與奈葉等人相遇，這份相遇、將關連到兩個世界以及星球的命運之戰緊緊聯繫再一起……？
+《魔法少女奈葉Detonation》故事緊接在《[魔法少女奈葉Reflection](../Page/魔法少女奈葉Reflection.md "wikilink")》之後，以壞滅的星球（埃爾特利亞）為故事起點，描述居住在該星球上面的科學家女兒琦莉耶，為了拯救病危的父親以及星球再生的契機，逐奔向遙遠的異世界——地球，去尋求「永遠結晶」的存在，雖然姊姊阿米蒂埃曾試圖阻止她，但琦莉耶仍與好友伊莉絲堅持前往，進而與奈葉等人相遇，這份相遇、將關連到兩個世界以及星球的命運之戰緊緊聯繫再一起……？
 
 究竟與琦莉耶有著怎樣的因緣？埃爾特里亞星球與地球未來的命運又將如何？
 
@@ -35,7 +35,7 @@
     音響監督：[龜山俊樹](../Page/龜山俊樹.md "wikilink")
     音樂：[中條美沙](https://zh.wikipedia.org/wiki/中條美沙 "wikilink")
     動畫製作：[Seven Arcs
-    Pictures](https://zh.wikipedia.org/wiki/Seven_Arcs_Pictures "wikilink")
+    Pictures](../Page/Seven_Arcs_Pictures.md "wikilink")
     配給：[松竹](../Page/松竹.md "wikilink")
     企畫、製作：NANOHA Detonation PROJECT
 

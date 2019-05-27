@@ -1,4 +1,4 @@
-**KZ8A型電力機車**是[哈薩克斯坦国家铁路及](https://zh.wikipedia.org/wiki/哈薩克斯坦国家铁路 "wikilink")[阿塞拜疆鐵路的](https://zh.wikipedia.org/wiki/阿塞拜疆鐵路 "wikilink")[電力機車車款之一](../Page/電力機車.md "wikilink")，由法国[阿爾斯通公司生产](https://zh.wikipedia.org/wiki/阿爾斯通公司 "wikilink")，屬阿爾斯通第二代“[Prima](../Page/Prima_\(铁路机车\).md "wikilink")”机车技术平台中首款投產的八軸電力機車。機車設計本身為俄羅斯市場度身訂造，但其技術標準可供所有獨聯體國家鐵路通用。KZ8A型电力机车为交流传动的貨運用电力机车，机车持续功率为8800千瓦，最高速度为120公里/小时。
+**KZ8A型電力機車**是[哈薩克斯坦国家铁路及](https://zh.wikipedia.org/wiki/哈薩克斯坦国家铁路 "wikilink")[阿塞拜疆鐵路的](../Page/阿塞拜疆鐵路.md "wikilink")[電力機車車款之一](../Page/電力機車.md "wikilink")，由法国[阿爾斯通公司生产](https://zh.wikipedia.org/wiki/阿爾斯通公司 "wikilink")，屬阿爾斯通第二代“[Prima](../Page/Prima_\(铁路机车\).md "wikilink")”机车技术平台中首款投產的八軸電力機車。機車設計本身為俄羅斯市場度身訂造，但其技術標準可供所有獨聯體國家鐵路通用。KZ8A型电力机车为交流传动的貨運用电力机车，机车持续功率为8800千瓦，最高速度为120公里/小时。
 
 ## 發展歷史
 

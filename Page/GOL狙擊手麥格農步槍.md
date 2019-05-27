@@ -47,7 +47,7 @@ Winchester](../Page/.308_Winchester.md "wikilink")，裝有骨架式槍托。這
     Assault）武器之一。只在聯機模式中登場。型號為狙擊手麥格農型，命名為「GOL
     Magnum」（中文版則命名為「GOL麥格農狙擊步槍」），被歸類為狙擊步槍，發射[.338
     Lapua Magnum子彈](../Page/.338拉普麥格農.md "wikilink")，5+1發彈匣，初始攜彈量為44
-    發，預設瞄準鏡為PKS-07（放大7倍）。多人聯機模式時為「偵察兵」（Recon）的解鎖武器包武器之一，於完成小任務「鷹巢」（獲得狙擊步槍勳帶1次和在裡海或烈焰風暴行動中從塔上以一發殺敵5人）以後才能解鎖，並可以使用變焦視鏡（放大14倍）、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直拉式槍機](../Page/手動槍機.md "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、、[彈道](../Page/弹道学.md "wikilink")（放大40倍）、[测距仪以及七件戰鬥包附件](https://zh.wikipedia.org/wiki/测距仪 "wikilink")（綠點雷射瞄準器、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[PKS-07](https://zh.wikipedia.org/wiki/PKS-07光學狙擊鏡 "wikilink")（放大7倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、獵人（放大20倍）、FLIR（紅外線放大2倍）、CL6X（放大6倍）、JGM-4（放大4倍）、土狼、稜鏡（放大3.4倍）、、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、三光束雷射、HD-33當中之七）配套。
+    發，預設瞄準鏡為PKS-07（放大7倍）。多人聯機模式時為「偵察兵」（Recon）的解鎖武器包武器之一，於完成小任務「鷹巢」（獲得狙擊步槍勳帶1次和在裡海或烈焰風暴行動中從塔上以一發殺敵5人）以後才能解鎖，並可以使用變焦視鏡（放大14倍）、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直拉式槍機](../Page/手動槍機.md "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、、[彈道](../Page/弹道学.md "wikilink")（放大40倍）、[测距仪以及七件戰鬥包附件](https://zh.wikipedia.org/wiki/测距仪 "wikilink")（綠點雷射瞄準器、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[PKS-07](https://zh.wikipedia.org/wiki/PKS-07光學狙擊鏡 "wikilink")（放大7倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、獵人（放大20倍）、FLIR（紅外線放大2倍）、CL6X（放大6倍）、JGM-4（放大4倍）、土狼、稜鏡（放大3.4倍）、、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射、HD-33當中之七）配套。
   - 2015年—《》（Time Crisis 5）：裝上[夜視鏡](../Page/夜視鏡.md "wikilink")，被Wild
     Dog的僱傭兵所使用，其中兩枝分別被兩位主角Luke O'Neil和Marc
     Godart從第4階段第1區的塔上短暫繳用，命名為狙擊步槍（Sniper
@@ -81,7 +81,7 @@ Winchester](../Page/.308_Winchester.md "wikilink")，裝有骨架式槍托。這
   - [FN TSR](https://zh.wikipedia.org/wiki/FN_TSR狙擊步槍 "wikilink")
   - [FN Ballista](../Page/FN弩炮精確狙擊步槍.md "wikilink")
   - [FR-F2](../Page/FR-F2狙擊步槍.md "wikilink")
-  - [IWI DAN](https://zh.wikipedia.org/wiki/IWI_DAN狙擊步槍 "wikilink")
+  - [IWI DAN](../Page/IWI_DAN狙擊步槍.md "wikilink")
   - [JNG-90](../Page/JNG-90狙擊步槍.md "wikilink")
   - [JS 7.62](../Page/JS_7.62毫米狙击步枪.md "wikilink")
   - [Kefefs](https://zh.wikipedia.org/wiki/Kefefs狙擊步槍 "wikilink")
@@ -92,7 +92,7 @@ Winchester](../Page/.308_Winchester.md "wikilink")，裝有骨架式槍托。這
   - [雷明登700](../Page/雷明登700步槍.md "wikilink")
   - [雷明登M24](../Page/M24狙擊手武器系統.md "wikilink")
   - [雷明登M40](../Page/M40狙擊步槍.md "wikilink")
-  - [PGM 338](https://zh.wikipedia.org/wiki/PGM_338狙擊步槍 "wikilink")
+  - [PGM 338](../Page/PGM_338狙擊步槍.md "wikilink")
   - [雷明登SR8](../Page/雷明登SR8狙擊步槍.md "wikilink")
   - [雷明登M40-XS](https://zh.wikipedia.org/wiki/雷明登M40-XS狙擊步槍 "wikilink")
   - [雷明登M2010](../Page/M2010增強型狙擊步槍.md "wikilink")

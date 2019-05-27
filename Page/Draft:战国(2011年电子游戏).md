@@ -1,5 +1,5 @@
 **战国**是一部由[Paradox Development
-Studio制作](https://zh.wikipedia.org/wiki/Paradox_Development_Studio "wikilink")，[Paradox
+Studio制作](../Page/Paradox_Development_Studio.md "wikilink")，[Paradox
 Interactive发行的大战略](../Page/Paradox_Interactive.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。
 
 ## 游戏概况

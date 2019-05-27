@@ -9,13 +9,13 @@
 
 [YouTube_Rewind_2018_and_Baby_dislikes.svg](https://zh.wikipedia.org/wiki/File:YouTube_Rewind_2018_and_Baby_dislikes.svg "fig:YouTube_Rewind_2018_and_Baby_dislikes.svg")
 
-該影片發布後即受到很多評論家、[YouTuber和觀眾的強烈批評](https://zh.wikipedia.org/wiki/YouTuber "wikilink")。許多YouTuber認為它是“有史以來最糟糕的回顧”\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]。影片被批評的地方包括官方請來不隸屬於YouTube的名人如[威爾·史密斯和](../Page/威爾·史密斯.md "wikilink")[Ninja等人出演](../Page/Ninja_\(網絡紅人\).md "wikilink")\[12\]，以及YouTube排除了某些被認為有爭議但對平台產生重大影響的行為，例如[谢恩·多森的一系列關於](../Page/谢恩·多森.md "wikilink")[傑克·保羅的紀錄片](https://zh.wikipedia.org/wiki/傑克·保羅 "wikilink")、[PewDiePie與印度媒體公司](../Page/PewDiePie.md "wikilink")[T-Series爭奪王者寶座](../Page/T-Series.md "wikilink")、[羅根·保羅闖日本自殺森林以及他與](https://zh.wikipedia.org/wiki/羅根·保羅 "wikilink")[KSI的拳擊賽等事件](https://zh.wikipedia.org/wiki/KSIOlajideBT "wikilink")\[13\]\[14\]\[15\]。
+該影片發布後即受到很多評論家、[YouTuber和觀眾的強烈批評](../Page/YouTuber.md "wikilink")。許多YouTuber認為它是“有史以來最糟糕的回顧”\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]。影片被批評的地方包括官方請來不隸屬於YouTube的名人如[威爾·史密斯和](../Page/威爾·史密斯.md "wikilink")[Ninja等人出演](../Page/Ninja_\(網絡紅人\).md "wikilink")\[12\]，以及YouTube排除了某些被認為有爭議但對平台產生重大影響的行為，例如[谢恩·多森的一系列關於](../Page/谢恩·多森.md "wikilink")[傑克·保羅的紀錄片](../Page/傑克·保羅.md "wikilink")、[PewDiePie與印度媒體公司](../Page/PewDiePie.md "wikilink")[T-Series爭奪王者寶座](../Page/T-Series.md "wikilink")、[羅根·保羅闖日本自殺森林以及他與](https://zh.wikipedia.org/wiki/羅根·保羅 "wikilink")[KSI的拳擊賽等事件](../Page/KSIOlajideBT.md "wikilink")\[13\]\[14\]\[15\]。
 
-觀眾在視頻中表達的其他批評包括視頻過度地使用某些網絡趨勢，當中許多被歸類為過時或不受歡迎，例如《[要塞英雄](https://zh.wikipedia.org/wiki/要塞英雄系列 "wikilink")》等\[16\]。影片對社會的評論也受到了極大的批評，有些人認為這些評論是被硬塞進去，使影片顯得突兀。\[17\]其中一個受批評的地方是其為行為健康服務的宣傳，儘管此計劃使該公司出現許多爭議\[18\]。也有人不滿儘管[霍金](https://zh.wikipedia.org/wiki/霍金 "wikilink")、[艾維奇](../Page/艾維奇.md "wikilink")、[XXXTentacion](../Page/XXXTentacion.md "wikilink")、[艾瑞莎·弗蘭克林](../Page/艾瑞莎·弗蘭克林.md "wikilink")、、、[史丹·李和](../Page/史丹·李.md "wikilink")[史蒂芬·海倫伯格等人的死訊對YouTube社群產生了很大的影響](../Page/史蒂芬·海倫伯格.md "wikilink")，但是影片中卻從未提及過\[19\]。亦有人不滿雖然[PewDiePie作為](../Page/PewDiePie.md "wikilink")[Youtube最大頻道](https://zh.wikipedia.org/wiki/在YouTube上訂閱人數最多的用戶列表 "wikilink")，但卻不在影片當中\[20\]\[21\]。
+觀眾在視頻中表達的其他批評包括視頻過度地使用某些網絡趨勢，當中許多被歸類為過時或不受歡迎，例如《[要塞英雄](https://zh.wikipedia.org/wiki/要塞英雄系列 "wikilink")》等\[16\]。影片對社會的評論也受到了極大的批評，有些人認為這些評論是被硬塞進去，使影片顯得突兀。\[17\]其中一個受批評的地方是其為行為健康服務的宣傳，儘管此計劃使該公司出現許多爭議\[18\]。也有人不滿儘管[霍金](https://zh.wikipedia.org/wiki/霍金 "wikilink")、[艾維奇](../Page/艾維奇.md "wikilink")、[XXXTentacion](../Page/XXXTentacion.md "wikilink")、[艾瑞莎·弗蘭克林](../Page/艾瑞莎·弗蘭克林.md "wikilink")、、、[史丹·李和](../Page/史丹·李.md "wikilink")[史蒂芬·海倫伯格等人的死訊對YouTube社群產生了很大的影響](../Page/史蒂芬·海倫伯格.md "wikilink")，但是影片中卻從未提及過\[19\]。亦有人不滿雖然[PewDiePie作為](../Page/PewDiePie.md "wikilink")[Youtube最大頻道](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")，但卻不在影片當中\[20\]\[21\]。
 
 PewDiePie本人亦對此作出評論道：「我很慶幸沒有參與在其中，因為它現在已經變成一條顯得十分尷尬的影片」\[22\]\[23\]，他還補充說：「年度回顧曾經是一個為當年的創作者獻上致意的東西
 \[…\]
-成為其中的一員是一件很酷的事」。除此之外PewDiePie也批評影片中出現廣多的《要塞英雄》和不屬於YouTuber類別的人士，以及未提及那些在YouTube上獲得很多支持的2018年逝者，例如[斯特凡·卡爾·斯蒂芬森等](https://zh.wikipedia.org/wiki/斯特凡·卡爾·斯蒂芬森 "wikilink")\[24\]。
+成為其中的一員是一件很酷的事」。除此之外PewDiePie也批評影片中出現廣多的《要塞英雄》和不屬於YouTuber類別的人士，以及未提及那些在YouTube上獲得很多支持的2018年逝者，例如[斯特凡·卡爾·斯蒂芬森等](../Page/斯特凡·卡爾·斯蒂芬森.md "wikilink")\[24\]。
 
 出現在影片開頭的[馬克斯·布朗利則表示](../Page/馬克斯·布朗利.md "wikilink")：「YouTube年度回顧曾經是一眾YouTuber的重大慶典，也是該年平台上最重要的事件
 \[…\]

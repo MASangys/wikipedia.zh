@@ -14,8 +14,8 @@
   - 2015年
     4月，發布了動作塔防遊戲「ポイッとヒーロー(Poitto Hero)」（中譯：波伊托英雄）
   - 2017年
-    6月發布了與[史克威爾艾尼克斯合作開發的掌上型RPG游戏](../Page/史克威尔艾尼克斯.md "wikilink")「[SINoALICE](https://zh.wikipedia.org/wiki/SINoALICE "wikilink")」
-    同月發布了由[武士道企劃](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink")、製作，Pokelabo開發及配信，基於[戰姬絕唱SYMPHOGEAR世界的RPG遊戲](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")「戰姬絕唱Symphogear
+    6月發布了與[史克威爾艾尼克斯合作開發的掌上型RPG游戏](../Page/史克威尔艾尼克斯.md "wikilink")「[SINoALICE](../Page/SINoALICE.md "wikilink")」
+    同月發布了由[武士道企劃](../Page/武士道_\(公司\).md "wikilink")、製作，Pokelabo開發及配信，基於[戰姬絕唱SYMPHOGEAR世界的RPG遊戲](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")「戰姬絕唱Symphogear
     XD UNLIMITED」
 
 ## 主要經營項目
@@ -28,10 +28,9 @@
 
 ### 正在營運中的遊戲
 
-  - [SINoALICE](https://zh.wikipedia.org/wiki/SINoALICE "wikilink")
+  - [SINoALICE](../Page/SINoALICE.md "wikilink")
   - 戰姬絕唱Symphogear XD UNLIMITED
-  - [趴趴玩偶
-    LoveLive\!](https://zh.wikipedia.org/wiki/趴趴玩偶_LoveLive! "wikilink")
+  - [趴趴玩偶 LoveLive\!](../Page/趴趴玩偶_LoveLive!.md "wikilink")
   - AKB48 舞台鬥者2 戰鬥祭
 
 ### 遊戲營運轉移

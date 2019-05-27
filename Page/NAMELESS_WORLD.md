@@ -4,8 +4,7 @@ WORLD**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipe
 
 ## 簡介
 
-前作《[MUSIC MAN
-SHIP](https://zh.wikipedia.org/wiki/MUSIC_MAN_SHIP "wikilink")》約1年零1個月之後發行。
+前作《[MUSIC MAN SHIP](../Page/MUSIC_MAN_SHIP.md "wikilink")》約1年零1個月之後發行。
 
 收錄了《[只在這裡盛開的花](../Page/只在這裡盛開的花.md "wikilink")》和《[櫻花](../Page/櫻花_\(可苦可樂單曲\).md "wikilink")》兩首[單曲和高中足球的應援歌](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[Starting
 Line](../Page/櫻花_\(可苦可樂單曲\).md "wikilink")》。B面曲中只有《[與未來相繫](../Page/櫻花_\(可苦可樂單曲\).md "wikilink")》（）未收錄。另外重新錄製了《六等星》。

@@ -856,9 +856,9 @@ NEW</p></td>
 | 2011年／[第62回](../Page/第62回NHK紅白歌合戰.md "wikilink")                    | 2 | 白  | [CALL](https://zh.wikipedia.org/wiki/CALL_/_I4U "wikilink")                          | 8/50  | [西野加奈](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")       |
 | 2012年／[第63回](../Page/第63回NHK紅白歌合戰.md "wikilink")                    | 3 | 白  | [777 ～We can sing a song\!～](../Page/777_～We_can_sing_a_song!～.md "wikilink")        | 5/50  | [中島美嘉](../Page/中島美嘉.md "wikilink")                          |
 | 2013年／[第64回](../Page/第64回NHK紅白歌合戰.md "wikilink")                    | 4 | 紅  | [戀歌與雨天](../Page/戀歌與雨天.md "wikilink")                                                 | 11/49 | [福田廣平](../Page/福田廣平.md "wikilink")                          |
-| 2014年／[第65回](https://zh.wikipedia.org/wiki/第65回NHK紅白歌合戰 "wikilink") | 5 | 白  | [說再見之前](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")                              | 4/49  | [E-girls](https://zh.wikipedia.org/wiki/E-girls "wikilink") |
-| 2015年／[第66回](../Page/第66回NHK紅白歌合戰.md "wikilink")                    | 6 | 紅  | [戀歌與雨天](../Page/戀歌與雨天.md "wikilink")                                                 | 13/52 | [星野源](https://zh.wikipedia.org/wiki/星野源 "wikilink")         |
-| 2016年／[第67回](https://zh.wikipedia.org/wiki/第67回NHK紅白歌合戰 "wikilink") | 7 | 白  | [颶風·莉莉，波士頓·瑪麗](../Page/颶風·莉莉，波士頓·瑪麗.md "wikilink")                                   | 3/46  | [E-girls](https://zh.wikipedia.org/wiki/E-girls "wikilink") |
+| 2014年／[第65回](../Page/第65回NHK紅白歌合戰.md "wikilink")                    | 5 | 白  | [說再見之前](../Page/說再見之前.md "wikilink")                                                 | 4/49  | [E-girls](https://zh.wikipedia.org/wiki/E-girls "wikilink") |
+| 2015年／[第66回](../Page/第66回NHK紅白歌合戰.md "wikilink")                    | 6 | 紅  | [戀歌與雨天](../Page/戀歌與雨天.md "wikilink")                                                 | 13/52 | [星野源](../Page/星野源.md "wikilink")                            |
+| 2016年／[第67回](../Page/第67回NHK紅白歌合戰.md "wikilink")                    | 7 | 白  | [颶風·莉莉，波士頓·瑪麗](../Page/颶風·莉莉，波士頓·瑪麗.md "wikilink")                                   | 3/46  | [E-girls](https://zh.wikipedia.org/wiki/E-girls "wikilink") |
 |                                                                     |   |    |                                                                                      |       |                                                             |
 
 ## 綜藝節目

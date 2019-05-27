@@ -16,7 +16,7 @@ WORLD》的專輯封面時，它正成為可以享受新設計的規格。
 初回限定盤以DVD收錄可苦可樂睽違5年再度舉行的學園祭LIVE，於慶應義塾大學舉辨的第57回三田祭前夜祭的現場。
 
 雖自《[MUSIC MAN
-SHIP](https://zh.wikipedia.org/wiki/MUSIC_MAN_SHIP "wikilink")》以來未能取得週間最高排行第1位，但首週銷量11.4萬，比上作多。專輯發售首週自《[CALLING](../Page/CALLING_\(可苦可樂專輯\).md "wikilink")》以來，銷量高於10萬。
+SHIP](../Page/MUSIC_MAN_SHIP.md "wikilink")》以來未能取得週間最高排行第1位，但首週銷量11.4萬，比上作多。專輯發售首週自《[CALLING](../Page/CALLING_\(可苦可樂專輯\).md "wikilink")》以來，銷量高於10萬。
 
 ## 收錄曲目
 
@@ -55,7 +55,7 @@ SHIP](https://zh.wikipedia.org/wiki/MUSIC_MAN_SHIP "wikilink")》以來未能取
 5.  **[hana](https://zh.wikipedia.org/wiki/hana_\(可苦可樂單曲\) "wikilink")**
 6.  **[光](https://zh.wikipedia.org/wiki/ANSWER_\(可苦可樂專輯\) "wikilink")**
 7.  **MC**
-8.  **[信](https://zh.wikipedia.org/wiki/STRAIGHT_\(可苦可樂專輯\) "wikilink")**（）
+8.  **[信](../Page/STRAIGHT_\(可苦可樂專輯\).md "wikilink")**（）
 9.  **[紅線](../Page/湛藍而溫柔.md "wikilink")**（）
 10. **[風](../Page/風_\(可苦可樂單曲\).md "wikilink")**
 11. **MC**

@@ -7,7 +7,7 @@
 ## 研發歷史與設計
 
 在第二次世界大戰以後的時代所研發的HS.820發射的是在瑞士20×139毫米FMK（和FK
-38）的基礎以上加以研發的20×139毫米伊斯帕諾機炮炮彈，並且用以取代以前廣泛使用的所配用的20×110毫米彈藥。該彈藥為二戰以後歐洲設計的兩種20毫米機炮炮彈之一，另一種就是歐瑞康所研發、並且用於類似用途的20×128毫米彈藥。\[2\]HS.820那達到1,100[米／秒](https://zh.wikipedia.org/wiki/米每秒 "wikilink")（3,608.92[英尺／秒](https://zh.wikipedia.org/wiki/英尺每秒 "wikilink")）的高[初速](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")，以及達到1,000發／分鐘、以當時而言可說高的[射速使得它成為了一款強大的武器](https://zh.wikipedia.org/wiki/射速 "wikilink")。儘管如此，不久以後隨即推出的（比如[「亞丁」](https://zh.wikipedia.org/wiki/亞丁轉輪式機炮 "wikilink")、[「德發」](https://zh.wikipedia.org/wiki/德發轉輪式機炮 "wikilink")）展現出比HS.820更高的性能（更大[口徑和](https://zh.wikipedia.org/wiki/口徑 "wikilink")／或更高射速），這也意味著HS.820無法像HS.404那樣在航空器以上獲大量採用。
+38）的基礎以上加以研發的20×139毫米伊斯帕諾機炮炮彈，並且用以取代以前廣泛使用的所配用的20×110毫米彈藥。該彈藥為二戰以後歐洲設計的兩種20毫米機炮炮彈之一，另一種就是歐瑞康所研發、並且用於類似用途的20×128毫米彈藥。\[2\]HS.820那達到1,100[米／秒](https://zh.wikipedia.org/wiki/米每秒 "wikilink")（3,608.92[英尺／秒](https://zh.wikipedia.org/wiki/英尺每秒 "wikilink")）的高[初速](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")，以及達到1,000發／分鐘、以當時而言可說高的[射速使得它成為了一款強大的武器](https://zh.wikipedia.org/wiki/射速 "wikilink")。儘管如此，不久以後隨即推出的（比如[「亞丁」](../Page/亞丁轉輪式機炮.md "wikilink")、[「德發」](../Page/德發轉輪式機炮.md "wikilink")）展現出比HS.820更高的性能（更大[口徑和](https://zh.wikipedia.org/wiki/口徑 "wikilink")／或更高射速），這也意味著HS.820無法像HS.404那樣在航空器以上獲大量採用。
 
 該機炮更廣泛地用作各種、特別是各國海軍所用的防空用途炮架所搭載的武器。伊斯帕諾推出了眾多隨該機炮而研發的各種瞄準系統、供彈和電力迴旋的選裝件。**HS.639-B3**（後來改稱為**GAI-CO1**）是一款單裝炮架，由一具75發[彈鼓所供彈](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，但這對於射速如此之高的機炮而言卻是相當嚴重的供彈限制。衍生型包括：**HS.639-B4**（**GAI-CO3**），在武器頂部裝上了50發彈鼓；**HS.639-B5**（**GAI-CO6**），採用兩具75發彈鼓以延長其可射擊時間。**HS
 665**則是採用相同的彈鼓供彈的三聯裝型。於1970年代中期研發的**HS.666A**（**GAI-DO1**），配備兩門HS.820，採用兩具新型的120發彈箱供彈，架設在系統以上共用的、可以與相關的雷達制導[火控系統聯結起來的液壓式動力平台以上](https://zh.wikipedia.org/wiki/火控系統 "wikilink")。\[3\]
@@ -47,9 +47,9 @@
 
   - [M242巨蝮式鏈炮](../Page/M242巨蝮式鏈炮.md "wikilink")
 
-  - [亞丁轉輪式機炮](https://zh.wikipedia.org/wiki/亞丁轉輪式機炮 "wikilink")
+  - [亞丁轉輪式機炮](../Page/亞丁轉輪式機炮.md "wikilink")
 
-  - [德發轉輪式機炮](https://zh.wikipedia.org/wiki/德發轉輪式機炮 "wikilink")
+  - [德發轉輪式機炮](../Page/德發轉輪式機炮.md "wikilink")
 
   -
 [Category:機炮](https://zh.wikipedia.org/wiki/Category:機炮 "wikilink")

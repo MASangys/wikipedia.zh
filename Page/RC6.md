@@ -1,10 +1,10 @@
 在[密码学中](../Page/密码学.md "wikilink")，**RC6**（**Rivest cipher
-6**）是一个从[RC5衍生而来的](https://zh.wikipedia.org/wiki/RC5 "wikilink")[对称](https://zh.wikipedia.org/wiki/对称密钥加密 "wikilink")[分组加密算法](../Page/分组密码.md "wikilink")。它由[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink")、[Matt
+6**）是一个从[RC5衍生而来的](../Page/RC5.md "wikilink")[对称](https://zh.wikipedia.org/wiki/对称密钥加密 "wikilink")[分组加密算法](../Page/分组密码.md "wikilink")。它由[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink")、[Matt
 Robshaw](https://zh.wikipedia.org/wiki/Matt_Robshaw "wikilink")、Ray
 Sidney以及 Ray
-Sidney设计，用以满足[高级加密标准](../Page/高级加密标准.md "wikilink")（AES）[竞赛的要求](https://zh.wikipedia.org/wiki/高级加密标准评选过程 "wikilink")。这个算法的是当时五个决赛候选算法之一，并且还提交给了[NESSIE和](https://zh.wikipedia.org/wiki/NESSIE "wikilink")[CRYPTREC项目](https://zh.wikipedia.org/wiki/CRYPTREC "wikilink")。这是一个专利算法，专利由[RSA公司申请](https://zh.wikipedia.org/wiki/RSA公司 "wikilink")。
+Sidney设计，用以满足[高级加密标准](../Page/高级加密标准.md "wikilink")（AES）[竞赛的要求](../Page/高级加密标准评选过程.md "wikilink")。这个算法的是当时五个决赛候选算法之一，并且还提交给了[NESSIE和](https://zh.wikipedia.org/wiki/NESSIE "wikilink")[CRYPTREC项目](https://zh.wikipedia.org/wiki/CRYPTREC "wikilink")。这是一个专利算法，专利由[RSA公司申请](https://zh.wikipedia.org/wiki/RSA公司 "wikilink")。
 
-RC6拥有128位的[块大小](https://zh.wikipedia.org/wiki/块大小 "wikilink")，支持128、192、256位乃至2040位的[密钥长度](https://zh.wikipedia.org/wiki/密钥长度 "wikilink")。像[RC5一样](https://zh.wikipedia.org/wiki/RC5 "wikilink")，RC6是可以被参数化的。它也因而支持变长的分组大小、密钥长度以及加密轮数。RC6和RC5在很多方面相似，例如结构、使用基于数据的置换规则、取模加法以及[异或操作](https://zh.wikipedia.org/wiki/异或 "wikilink")。事实上，RC6可以被看做是交织的两组平行的RC5加密。RC6使用了在RC5加密算法中并没有出现的乘法运算，这个运算是为了让置换基于[字中每一位](../Page/字_\(计算机\).md "wikilink")，而不是其中的几位。
+RC6拥有128位的[块大小](../Page/块大小.md "wikilink")，支持128、192、256位乃至2040位的[密钥长度](https://zh.wikipedia.org/wiki/密钥长度 "wikilink")。像[RC5一样](../Page/RC5.md "wikilink")，RC6是可以被参数化的。它也因而支持变长的分组大小、密钥长度以及加密轮数。RC6和RC5在很多方面相似，例如结构、使用基于数据的置换规则、取模加法以及[异或操作](https://zh.wikipedia.org/wiki/异或 "wikilink")。事实上，RC6可以被看做是交织的两组平行的RC5加密。RC6使用了在RC5加密算法中并没有出现的乘法运算，这个运算是为了让置换基于[字中每一位](../Page/字_\(计算机\).md "wikilink")，而不是其中的几位。
 
 ## 加密和解密
 

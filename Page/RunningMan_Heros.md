@@ -1,6 +1,6 @@
 《RunningMan Heroes》為電視動畫[《Running
-Man》動畫版的角色動作手遊](https://zh.wikipedia.org/wiki/Running_Man_\(動畫版\) "wikilink")。遊戲中手遊角色有7個，與[《Running
-Man》相同](https://zh.wikipedia.org/wiki/Running_Man_\(動畫版\) "wikilink")，玩家可以從七個種族的角色中選擇一名，並可以和最多六名的玩家一起進行即時對戰。手遊提供戰鬥到直至剩下最後一人為止的「皇家對戰模式」、分成兩個隊伍一決勝負的「小隊模式」，以及玩家一起協力執行任務的「劇情模式」等豐富的對戰系統。手遊由
+Man》動畫版的角色動作手遊](../Page/Running_Man_\(動畫版\).md "wikilink")。遊戲中手遊角色有7個，與[《Running
+Man》相同](../Page/Running_Man_\(動畫版\).md "wikilink")，玩家可以從七個種族的角色中選擇一名，並可以和最多六名的玩家一起進行即時對戰。手遊提供戰鬥到直至剩下最後一人為止的「皇家對戰模式」、分成兩個隊伍一決勝負的「小隊模式」，以及玩家一起協力執行任務的「劇情模式」等豐富的對戰系統。手遊由
 LINE FRIENDS 開發，NEXON代理，雖然遊戲尚未正式上市，但官方已經於Android系統進行封測。\[1\]
 
 ## 人物

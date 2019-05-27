@@ -24,18 +24,16 @@ industries），包括化工業、石化業、石油和矿物精炼、食品加�
     below. APC is typically implemented using function blocks or custom
     programming capabilities at the DCS level. In some cases, APC
     resides at the supervisory control computer level.
-  - Multivariable
-    [模型預測控制](https://zh.wikipedia.org/wiki/模型預測控制 "wikilink")
-    (MPC) is a popular technology, usually deployed on a supervisory
-    control computer, that identifies important independent and
-    dependent process variables and the dynamic relationships (models)
-    between them, and often uses matrix-math based control and
-    optimization algorithms to control multiple variables
-    simultaneously. One requirement of MPC is that the models must be
-    linear across the operating range of the controller. MPC has been a
-    prominent part of APC ever since supervisory computers first brought
-    the necessary computational capabilities to control systems in the
-    1980s.
+  - Multivariable [模型預測控制](../Page/模型預測控制.md "wikilink") (MPC) is a
+    popular technology, usually deployed on a supervisory control
+    computer, that identifies important independent and dependent
+    process variables and the dynamic relationships (models) between
+    them, and often uses matrix-math based control and optimization
+    algorithms to control multiple variables simultaneously. One
+    requirement of MPC is that the models must be linear across the
+    operating range of the controller. MPC has been a prominent part of
+    APC ever since supervisory computers first brought the necessary
+    computational capabilities to control systems in the 1980s.
   - Nonlinear MPC: Similar to Multivariable MPC in that it incorporates
     dynamic models and matrix-math based control; however, it does not
     have the requirement for model linearity. Nonlinear MPC is capable
@@ -142,8 +140,7 @@ leads to optimization in cost, production and safety.\[1\]
   - BPCS: Basic process control system (see "base-layer")
   - DCS: Distributed control system, often synonymous with BPCS
   - MPO: Manufacturing planning optimization
-  - MPC: Multivariable
-    [模型預測控制](https://zh.wikipedia.org/wiki/模型預測控制 "wikilink")
+  - MPC: Multivariable [模型預測控制](../Page/模型預測控制.md "wikilink")
   - SIS:
   - SME: Subject matter expert
 

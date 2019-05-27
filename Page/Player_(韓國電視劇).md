@@ -1,4 +1,4 @@
-《**Player**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自](https://zh.wikipedia.org/wiki/OCN "wikilink")2018年9月29日起播出的[經典系列週末電視劇](https://zh.wikipedia.org/wiki/OCN_Original_Series "wikilink")。\[1\]是一部關於公認最強的4位高手：天才神騙、萬能黑客、天生打手、最強賽車手，他們組成犯罪收益回購團伙，將不義之財還給社會的故事。
+《**Player**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自](https://zh.wikipedia.org/wiki/OCN "wikilink")2018年9月29日起播出的[經典系列週末電視劇](../Page/OCN_Original_Series.md "wikilink")。\[1\]是一部關於公認最強的4位高手：天才神騙、萬能黑客、天生打手、最強賽車手，他們組成犯罪收益回購團伙，將不義之財還給社會的故事。
 
 本劇首播收視為4.474%(AGB全國)，創下[OCN的劇集首播最高的收視記錄](https://zh.wikipedia.org/wiki/OCN "wikilink")。
 
@@ -117,7 +117,7 @@ Asia於新加坡](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、馬來西
 <td><p>行真集團策劃本部企劃室長。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金聖喆" title="wikilink">金聖喆</a>[9]</p></td>
+<td><p><a href="../Page/金聖喆.md" title="wikilink">金聖喆</a>[9]</p></td>
 <td><p>池成久</p></td>
 <td><p>行真集團理事，會長幼子。性暴力慣犯。</p></td>
 </tr>
@@ -213,7 +213,7 @@ Asia於新加坡](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、馬來西
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/許峻豪" title="wikilink">許峻豪</a></p></td>
+<td><p><a href="../Page/許峻豪.md" title="wikilink">許峻豪</a></p></td>
 <td><p>崔賢基</p></td>
 <td><p>崔秀赫(姜赫利)的爸爸。檢察官。</p></td>
 <td><p>4,5</p></td>

@@ -1,6 +1,6 @@
 《FIFA 19》（英语：FIFA
-19，台湾译作“国际足盟大赛19”）是一款由[EA加拿大](https://zh.wikipedia.org/wiki/EA加拿大 "wikilink")、[EA罗马尼亚开发由](https://zh.wikipedia.org/wiki/EA罗马尼亚 "wikilink")[艺电发行的足球电子游戏](../Page/艺电.md "wikilink")。本作是《[FIFA](https://zh.wikipedia.org/wiki/FIFA "wikilink")》系列的第26部作品。游戏于2018年9月28日于全世界上市。游戏平台为[PlayStation
-4](../Page/PlayStation_4.md "wikilink")，[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")，[Xbox
+19，台湾译作“国际足盟大赛19”）是一款由[EA加拿大](../Page/EA加拿大.md "wikilink")、[EA罗马尼亚开发由](https://zh.wikipedia.org/wiki/EA罗马尼亚 "wikilink")[艺电发行的足球电子游戏](../Page/艺电.md "wikilink")。本作是《[FIFA](https://zh.wikipedia.org/wiki/FIFA "wikilink")》系列的第26部作品。游戏于2018年9月28日于全世界上市。游戏平台为[PlayStation
+4](../Page/PlayStation_4.md "wikilink")，[任天堂Switch](../Page/任天堂Switch.md "wikilink")，[Xbox
 One](../Page/Xbox_One.md "wikilink")，[Xbox
 360](../Page/Xbox_360.md "wikilink")，[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[Microsoft

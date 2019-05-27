@@ -6,9 +6,9 @@ International**於2012年啟播，是[now寬頻電視一條以](https://zh.wikip
   - 2012年10月18日，[now寬頻電視與馬來西亞電訊](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")（Telekom
     Malaysia
     Berhad,TM）簽訂海外播放權，為[now寬頻電視的海外業務發展開創首個里程碑](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")。同年，[Now
-    International於馬來西亞電訊旗下的](https://zh.wikipedia.org/wiki/Now_International "wikilink")[Unifi
+    International於馬來西亞電訊旗下的](../Page/Now_International.md "wikilink")[Unifi
     TV上播放](../Page/Unifi_TV.md "wikilink")\[1\]。並在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Dish
-    Network上播放此頻道](https://zh.wikipedia.org/wiki/Dish_Network "wikilink")。
+    Network上播放此頻道](../Page/Dish_Network.md "wikilink")。
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@ International**於2012年啟播，是[now寬頻電視一條以](https://zh.wikip
   - 新世紀潮爆老友（[ViuTV](../Page/ViuTV.md "wikilink")）
   - 港隊練習生（[ViuTV](../Page/ViuTV.md "wikilink")）
   - 純搞作V（[Now TV](https://zh.wikipedia.org/wiki/Now_TV "wikilink")）
-  - [勇敢說出我愛你](https://zh.wikipedia.org/wiki/勇敢說出我愛你 "wikilink")（台灣偶像劇）
+  - [勇敢說出我愛你](../Page/勇敢說出我愛你.md "wikilink")（台灣偶像劇）
 
 ## 外部鏈接
 

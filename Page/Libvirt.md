@@ -1,4 +1,4 @@
-**libvirt**是一套用于管理[硬件虚拟化的](../Page/硬件虚拟化.md "wikilink")[开源](../Page/开源软件.md "wikilink")[API](../Page/应用程序接口.md "wikilink")、[守护进程与管理工具](../Page/守护进程.md "wikilink")。\[1\]此套组可用于管理[KVM](../Page/基于内核的虚拟机.md "wikilink")、[Xen](../Page/Xen.md "wikilink")、、[QEMU及其他虚拟化技术](../Page/QEMU.md "wikilink")。libvirt内置的API广泛用于云解决方案开发中的[虚拟机监视器编排层](https://zh.wikipedia.org/wiki/Hypervisor "wikilink")（Orchestration
+**libvirt**是一套用于管理[硬件虚拟化的](../Page/硬件虚拟化.md "wikilink")[开源](../Page/开源软件.md "wikilink")[API](../Page/应用程序接口.md "wikilink")、[守护进程与管理工具](../Page/守护进程.md "wikilink")。\[1\]此套组可用于管理[KVM](../Page/基于内核的虚拟机.md "wikilink")、[Xen](../Page/Xen.md "wikilink")、、[QEMU及其他虚拟化技术](../Page/QEMU.md "wikilink")。libvirt内置的API广泛用于云解决方案开发中的[虚拟机监视器编排层](../Page/Hypervisor.md "wikilink")（Orchestration
 Layer）。
 
 ## 内部构造

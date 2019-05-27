@@ -21,7 +21,7 @@ SM-2ER Block IVA所有批次编号都为RIM-156B，RIM-156A升級版，最後取
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://zh.wikipedia.org/wiki/1962年美国三军导弹及无人机命名系统" title="wikilink">型号</a></p></th>
+<th><p><a href="../Page/1962年美国三军导弹及无人机命名系统.md" title="wikilink">型号</a></p></th>
 <th><p>批次</p></th>
 <th><p>注释</p></th>
 </tr>

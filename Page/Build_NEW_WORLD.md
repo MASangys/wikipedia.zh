@@ -14,11 +14,11 @@ NEW WORLD</p></td>
 </table>
 
 《*' Build NEW WORLD
-**》（）是特摄片《[假面騎士Build](https://zh.wikipedia.org/wiki/假面騎士Build "wikilink")》衍生的[錄影帶首映故事系列作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")，**東映VCINEXT*'的名義系列商品之一。為平成[假面骑士系列的第六系列](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")[錄影帶首映作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")。
+**》（）是特摄片《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》衍生的[錄影帶首映故事系列作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")，**東映VCINEXT*'的名義系列商品之一。為平成[假面骑士系列的第六系列](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")[錄影帶首映作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")。
 
 ## 概要
 
-本作品是以『[假面騎士Build](https://zh.wikipedia.org/wiki/假面騎士Build "wikilink")』本篇結尾時所誕生的新世界為後日談的劇情舞台。
+本作品是以『[假面騎士Build](../Page/假面騎士Build.md "wikilink")』本篇結尾時所誕生的新世界為後日談的劇情舞台。
 
 ## 假面騎士Cross-Z
 
@@ -286,7 +286,7 @@ NEW WORLD</p></td>
 
 ## 相關條目
 
-  - 《[假面騎士Build](https://zh.wikipedia.org/wiki/假面騎士Build "wikilink")》
+  - 《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》
 
 ## 註釋
 

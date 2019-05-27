@@ -1,6 +1,7 @@
 JNYBeatz，香港[作曲人](https://zh.wikipedia.org/wiki/作曲人 "wikilink")、[編曲人](https://zh.wikipedia.org/wiki/編曲人 "wikilink")、[音樂監製](https://zh.wikipedia.org/wiki/音樂監製 "wikilink")、[Beatmaker](https://zh.wikipedia.org/wiki/Beatmaker "wikilink")。
-樂隊 [Dusty Bottle](https://zh.wikipedia.org/wiki/Dusty_Bottle "wikilink")
-鍵琴手，於2018年推出個人專輯《Perception》, 2019年推出個人專輯《BEDROOM》 曾與[Eric
+樂隊 [Dusty Bottle](../Page/Dusty_Bottle.md "wikilink")
+鍵琴手，於2018年推出個人專輯《Perception》,
+2019年推出個人專輯《BEDROOM》 曾與[Eric
 Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink"),[Gin
 Lee](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink"),[側田](../Page/側田.md "wikilink"),[Dough-Boy](https://zh.wikipedia.org/wiki/Dough-Boy "wikilink"),[馮允謙](../Page/馮允謙.md "wikilink"),[許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink"),[鄭中基](../Page/鄭中基.md "wikilink"),[黃宇希](https://zh.wikipedia.org/wiki/黃宇希 "wikilink"),[王嘉儀](../Page/王嘉儀.md "wikilink"),[陳凱詠](../Page/陳凱詠.md "wikilink"),[廿四味](../Page/廿四味.md "wikilink"),[龔柯允等歌手合作](https://zh.wikipedia.org/wiki/龔柯允 "wikilink")。
 
@@ -8,9 +9,8 @@ Lee](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink"),[側田](../Page/側田.m
 
 ### 2019
 
-  - [Dusty
-    Bottle](https://zh.wikipedia.org/wiki/Dusty_Bottle "wikilink")-You
-    Don’t Know Me(Remix by JNYBeatz)
+  - [Dusty Bottle](../Page/Dusty_Bottle.md "wikilink")-You Don’t Know
+    Me(Remix by JNYBeatz)
   - [Ghost
     Style](https://zh.wikipedia.org/wiki/Ghost_Style "wikilink")-Always
     (曲,編,監)
@@ -19,9 +19,8 @@ Lee](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink"),[側田](../Page/側田.m
   - [Dough-Boy](https://zh.wikipedia.org/wiki/Dough-Boy "wikilink")-Intro(Guitar)
     Good,Bad\&Ugly
   - JACE [陳凱詠](../Page/陳凱詠.md "wikilink")-想突然(曲,編）
-  - [Dusty
-    Bottle](https://zh.wikipedia.org/wiki/Dusty_Bottle "wikilink")-You
-    don’t know me(曲,編）
+  - [Dusty Bottle](../Page/Dusty_Bottle.md "wikilink")-You don’t know
+    me(曲,編）
   - Shimica [黃宇希](https://zh.wikipedia.org/wiki/黃宇希 "wikilink")-Get Lit
     (曲,編,監)
   - [鄭中基](../Page/鄭中基.md "wikilink")-龍甘威(演唱會Remix)
@@ -49,33 +48,26 @@ Lee](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink"),[側田](../Page/側田.m
     Groove,Shimica 黃宇希-官人我要(PROD.)
   - [Dough-Boy](https://zh.wikipedia.org/wiki/Dough-Boy "wikilink"),Tommy
     Groove,Sean P,Genuiz F-早班火車 (PROD.)
-  - [Dusty
-    Bottle](https://zh.wikipedia.org/wiki/Dusty_Bottle "wikilink")-That
-    Shit Raw
+  - [Dusty Bottle](../Page/Dusty_Bottle.md "wikilink")-That Shit Raw
     feat.[黃宇希](https://zh.wikipedia.org/wiki/黃宇希 "wikilink")(曲,編,監)
-  - [Dusty
-    Bottle](https://zh.wikipedia.org/wiki/Dusty_Bottle "wikilink")-Don’t
-    you know feat.[王嘉儀](../Page/王嘉儀.md "wikilink")(曲,編,監)
-  - [Dusty
-    Bottle](https://zh.wikipedia.org/wiki/Dusty_Bottle "wikilink")-Forever
-    Summer feat.[陳凱詠](../Page/陳凱詠.md "wikilink")(曲,編,監)
-  - [Dusty
-    Bottle](https://zh.wikipedia.org/wiki/Dusty_Bottle "wikilink")-How
-    could you feat.Moon (曲,編,監)
+  - [Dusty Bottle](../Page/Dusty_Bottle.md "wikilink")-Don’t you know
+    feat.[王嘉儀](../Page/王嘉儀.md "wikilink")(曲,編,監)
+  - [Dusty Bottle](../Page/Dusty_Bottle.md "wikilink")-Forever Summer
+    feat.[陳凱詠](../Page/陳凱詠.md "wikilink")(曲,編,監)
+  - [Dusty Bottle](../Page/Dusty_Bottle.md "wikilink")-How could you
+    feat.Moon (曲,編,監)
   - Kevin Boy [李健宏](../Page/李健宏.md "wikilink")-玩X爆香港（曲,編,監）
-  - YANKIDIN[丁可欣](https://zh.wikipedia.org/wiki/丁可欣 "wikilink")-Fly with
-    me(曲,編,監）
-  - YANKIDIN[丁可欣](https://zh.wikipedia.org/wiki/丁可欣 "wikilink")-Candy
-    love 幸福炸藥(JNYBeatz Remix,Feat.AKIKO)
+  - YANKIDIN[丁可欣](../Page/丁可欣.md "wikilink")-Fly with me(曲,編,監）
+  - YANKIDIN[丁可欣](../Page/丁可欣.md "wikilink")-Candy love 幸福炸藥(JNYBeatz
+    Remix,Feat.AKIKO)
   - AKIKO-小野貓(曲,編,監）
-  - [潘伯仲](https://zh.wikipedia.org/wiki/潘伯仲 "wikilink")-犬屋敷(編)
+  - [潘伯仲](../Page/潘伯仲.md "wikilink")-犬屋敷(編)
   - [Dasu](https://zh.wikipedia.org/wiki/Dasu "wikilink")-Wild
     Things(PROD.）
   - Shimica[黃宇希](https://zh.wikipedia.org/wiki/黃宇希 "wikilink")-Shoes
     (PROD.)
   - 叱咤903《嘻呵哈嘿》Feat.Zeca(曲,編,監)
-  - [JNYBeatz](https://zh.wikipedia.org/wiki/JNYBeatz "wikilink") Ablum
-    《Perception》
+  - [JNYBeatz](../Page/JNYBeatz.md "wikilink") Ablum 《Perception》
   - Perception
   - Retro Moments
   - Ain’t Everything

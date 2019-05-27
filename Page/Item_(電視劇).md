@@ -1,9 +1,8 @@
-《**ITEM**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2019年2月11日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")，由《[爸爸，我來伺候你](../Page/爸爸，我來伺候你.md "wikilink")》金成旭、朴美妍導演與《[救救我](https://zh.wikipedia.org/wiki/救救我 "wikilink")》鄭怡道作家合作打造。此劇講述命運交錯的首爾地方檢察官與廣域調查隊犯罪側寫師，在偵辦連續殺人案的過程當中，經歷與多項擁有特殊能力物品有關的離奇事件，從中逐步揭露其背後陰謀，並持續與幕後黑手展開正邪對決的故事。\[1\]\[2\]\[3\]
+《**ITEM**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2019年2月11日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")，由《[爸爸，我來伺候你](../Page/爸爸，我來伺候你.md "wikilink")》金成旭、朴美妍導演與《[救救我](../Page/救救我.md "wikilink")》鄭怡道作家合作打造。此劇講述命運交錯的首爾地方檢察官與廣域調查隊犯罪側寫師，在偵辦連續殺人案的過程當中，經歷與多項擁有特殊能力物品有關的離奇事件，從中逐步揭露其背後陰謀，並持續與幕後黑手展開正邪對決的故事。\[1\]\[2\]\[3\]
 
 台灣由[LINE
-TV](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")、[KKTV](https://zh.wikipedia.org/wiki/KKTV "wikilink")
-、friDay影音、ELTA OTT、[LiTV
-線上影視](https://zh.wikipedia.org/wiki/LiTV_線上影視 "wikilink")，每周二、三
+TV](../Page/LINE_TV.md "wikilink")、[KKTV](../Page/KKTV.md "wikilink")
+、friDay影音、ELTA OTT、[LiTV 線上影視](../Page/LiTV_線上影視.md "wikilink")，每周二、三
 中午12點更新。香港[Viu於每周一](../Page/Viu.md "wikilink")、二深夜更新。
 
 ## 演員陣容
@@ -22,12 +21,12 @@ TV](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")、[KKTV](https://zh.wikipe
 
 ### 姜坤周邊人物
 
-|                                                     |        |                                                                                |
-| --------------------------------------------------- | ------ | ------------------------------------------------------------------------------ |
-| **演員**                                              | **角色** | **介紹**                                                                         |
-| [申隣雅](https://zh.wikipedia.org/wiki/申隣雅 "wikilink") | 姜多仁    | 姜坤的侄女，個性內向、喜歡讀書的十歲女孩。四歲時因交通意外失去雙親受到打擊因而罹患「緘口症」有口難言，與叔叔姜坤住在一起。後來被趙世皇設計成為植物人及去世。 |
-| [李承俊](../Page/李承俊.md "wikilink")                    |        | 姜坤的哥哥，與妻子在車禍中逝世，將女兒托付姜坤。                                                       |
-|                                                     |        |                                                                                |
+|                                  |        |                                                                                |
+| -------------------------------- | ------ | ------------------------------------------------------------------------------ |
+| **演員**                           | **角色** | **介紹**                                                                         |
+| [申隣雅](../Page/申隣雅.md "wikilink") | 姜多仁    | 姜坤的侄女，個性內向、喜歡讀書的十歲女孩。四歲時因交通意外失去雙親受到打擊因而罹患「緘口症」有口難言，與叔叔姜坤住在一起。後來被趙世皇設計成為植物人及去世。 |
+| [李承俊](../Page/李承俊.md "wikilink") |        | 姜坤的哥哥，與妻子在車禍中逝世，將女兒托付姜坤。                                                       |
+|                                  |        |                                                                                |
 
 ### 素英周邊人物
 
@@ -79,7 +78,7 @@ TV](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")、[KKTV](https://zh.wikipe
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金民教" title="wikilink">金民教</a></p></td>
+<td><p><a href="../Page/金民教.md" title="wikilink">金民教</a></p></td>
 <td><p>方學在</p></td>
 <td><p>在押者, 知道ITEM秘密的其中一人。</p></td>
 </tr>
@@ -149,7 +148,7 @@ TV](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")、[KKTV](https://zh.wikipe
 <td><p>刑警影像分析官。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李珠彬" title="wikilink">李珠彬</a></p></td>
+<td><p><a href="../Page/李珠彬.md" title="wikilink">李珠彬</a></p></td>
 <td></td>
 <td><p>會變身的女殺手。</p></td>
 </tr>
@@ -433,7 +432,7 @@ TV](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")、[KKTV](https://zh.wikipe
 ## 同時段競爭作品
 
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[鄰家律師趙德浩2：罪與罰](../Page/鄰家律師趙德浩2：罪與罰.md "wikilink")》、《[各位國民](https://zh.wikipedia.org/wiki/各位國民 "wikilink")》
+    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[鄰家律師趙德浩2：罪與罰](../Page/鄰家律師趙德浩2：罪與罰.md "wikilink")》、《[各位國民](../Page/各位國民.md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")
     [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[獬豸](../Page/獬豸_\(電視劇\).md "wikilink")》
   - [tvN](../Page/TVN.md "wikilink")

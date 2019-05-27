@@ -1,5 +1,5 @@
 **Gritus**（全名：Gritus Technology
-Limited）是一家[香港](../Page/香港.md "wikilink")[初創企業](../Page/初创企业.md "wikilink")，業務圍繞設計、生產及營運新一代[智能售賣機](https://zh.wikipedia.org/wiki/智能販賣機 "wikilink")。
+Limited）是一家[香港](../Page/香港.md "wikilink")[初創企業](../Page/初创企业.md "wikilink")，業務圍繞設計、生產及營運新一代[智能售賣機](../Page/智能販賣機.md "wikilink")。
 
 [GoldenLionPhase2.jpg](https://zh.wikipedia.org/wiki/File:GoldenLionPhase2.jpg "fig:GoldenLionPhase2.jpg")[金獅花園](../Page/金獅花園.md "wikilink")，圖為員工補貨情況。\]\]
 [IHouseBlock4.jpg](https://zh.wikipedia.org/wiki/File:IHouseBlock4.jpg "fig:IHouseBlock4.jpg")[國際生第四宿舍](https://zh.wikipedia.org/wiki/國際生第四宿舍 "wikilink")\]\]
@@ -9,7 +9,7 @@ Limited）是一家[香港](../Page/香港.md "wikilink")[初創企業](../Page/
 ## 歷史
 
 該公司聯合創辦人之一的[李展儂具工商管理及工程學背景](https://zh.wikipedia.org/wiki/李展儂 "wikilink")，曾於2015年經營傳統[自動售賣機公司](https://zh.wikipedia.org/wiki/自動售賣機 "wikilink")，過程中發現傳統售賣機以人手記帳，難以掌握貨品銷售量和補貨時機\[1\]。2017年2月，Gritus
-由三位聯合創辦人（及後增至五位）共同創辦，開始研發並生產具備[雲端後台管理系統的](https://zh.wikipedia.org/wiki/雲端 "wikilink")[智能售賣機](https://zh.wikipedia.org/wiki/智能販賣機 "wikilink")。
+由三位聯合創辦人（及後增至五位）共同創辦，開始研發並生產具備[雲端後台管理系統的](https://zh.wikipedia.org/wiki/雲端 "wikilink")[智能售賣機](../Page/智能販賣機.md "wikilink")。
 
 ### 名字由來
 

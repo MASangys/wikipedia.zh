@@ -1,5 +1,5 @@
 《**偉大的運動場－SKY MUSCLE**》（），簡稱**SKY
-MUSCLE**，為韓國[JTBC電視台於](../Page/JTBC.md "wikilink")2019年推出的試播節目\[1\]，由[俞世潤](https://zh.wikipedia.org/wiki/俞世潤 "wikilink")、[朴娜勑](../Page/朴娜勑.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")（[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）、[權赫秀](https://zh.wikipedia.org/wiki/權赫秀 "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")）、[JooE](https://zh.wikipedia.org/wiki/JooE "wikilink")（[MOMOLAND](https://zh.wikipedia.org/wiki/MOMOLAND "wikilink")）\[2\]及知名健身教練梁致勝等人共同演出，節目主軸為演藝界「運動人代表們」變身為運動教練，與想要進行體力和身材管理的參加者們一起愉快地運動\[3\]\[4\]。
+MUSCLE**，為韓國[JTBC電視台於](../Page/JTBC.md "wikilink")2019年推出的試播節目\[1\]，由[俞世潤](../Page/俞世潤.md "wikilink")、[朴娜勑](../Page/朴娜勑.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")（[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）、[權赫秀](../Page/權赫秀.md "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")）、[JooE](../Page/JooE.md "wikilink")（[MOMOLAND](../Page/MOMOLAND.md "wikilink")）\[2\]及知名健身教練梁致勝等人共同演出，節目主軸為演藝界「運動人代表們」變身為運動教練，與想要進行體力和身材管理的參加者們一起愉快地運動\[3\]\[4\]。
 
 ## 節目成員
 
@@ -26,13 +26,13 @@ MUSCLE**，為韓國[JTBC電視台於](../Page/JTBC.md "wikilink")2019年推出�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/俞世潤" title="wikilink">俞世潤</a></p></td>
+<td><p><a href="../Page/俞世潤.md" title="wikilink">俞世潤</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/喜劇演員.md" title="wikilink">喜劇演員</a>、<a href="https://zh.wikipedia.org/wiki/主持人" title="wikilink">主持人</a>、<a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="https://zh.wikipedia.org/wiki/UV_(男子組合)" title="wikilink">UV成員</a>）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/權赫秀" title="wikilink">權赫秀</a></p></td>
+<td><p><a href="../Page/權赫秀.md" title="wikilink">權赫秀</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a></p></td>
@@ -56,10 +56,10 @@ MUSCLE**，為韓國[JTBC電視台於](../Page/JTBC.md "wikilink")2019年推出�
 <td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女成員</a>）、<a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/JooE" title="wikilink">JooE</a></p></td>
+<td><p><a href="../Page/JooE.md" title="wikilink">JooE</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="https://zh.wikipedia.org/wiki/MOMOLAND" title="wikilink">MOMOLAND成員</a>）</p></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND成員</a>）</p></td>
 </tr>
 </tbody>
 </table>
@@ -100,7 +100,7 @@ MUSCLE**，為韓國[JTBC電視台於](../Page/JTBC.md "wikilink")2019年推出�
 <td><p><a href="../Page/保齡球.md" title="wikilink">保齡球</a></p></td>
 <td><p>韓星</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2018年亞洲運動會保齡球比賽" title="wikilink">2018年亞運會保齡球</a>6人團體賽金牌</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洪允和" title="wikilink">洪允和</a></p></td>
+<td><p><a href="../Page/洪允和.md" title="wikilink">洪允和</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>

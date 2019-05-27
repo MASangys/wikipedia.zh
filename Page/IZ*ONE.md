@@ -1,9 +1,9 @@
 [IZONE_Logo.png](https://zh.wikipedia.org/wiki/File:IZONE_Logo.png "fig:IZONE_Logo.png")
 
 **IZ\*ONE**（；）\[1\]\[2\]是由韓日合作選秀節目《[PRODUCE
-48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》最終決選出線的12名成員所組成，於2018年出道的期間限定之[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。成員均有各自所屬的經紀公司，組合整體所屬的經紀公司則為[Off
+48](../Page/PRODUCE_48.md "wikilink")》最終決選出線的12名成員所組成，於2018年出道的期間限定之[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。成員均有各自所屬的經紀公司，組合整體所屬的經紀公司則為[Off
 The
-Record娛樂](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")。成員依節目名次排列為[張員瑛](../Page/張員瑛.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[曺柔理](https://zh.wikipedia.org/wiki/曺柔理 "wikilink")、[崔叡娜](https://zh.wikipedia.org/wiki/崔叡娜 "wikilink")、[安兪真](https://zh.wikipedia.org/wiki/安兪真 "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")、[權恩妃](https://zh.wikipedia.org/wiki/權恩妃 "wikilink")、[姜惠元](https://zh.wikipedia.org/wiki/姜惠元 "wikilink")、[本田仁美](https://zh.wikipedia.org/wiki/本田仁美 "wikilink")、[金采源](https://zh.wikipedia.org/wiki/金采源 "wikilink")、[金玟周](https://zh.wikipedia.org/wiki/金玟周 "wikilink")、[李彩演](https://zh.wikipedia.org/wiki/李彩演 "wikilink")。活動期為2年6個月\[3\]。
+Record娛樂](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")。成員依節目名次排列為[張員瑛](../Page/張員瑛.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[曺柔理](../Page/曺柔理.md "wikilink")、[崔叡娜](../Page/崔叡娜.md "wikilink")、[安兪真](../Page/安兪真.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[權恩妃](https://zh.wikipedia.org/wiki/權恩妃 "wikilink")、[姜惠元](../Page/姜惠元.md "wikilink")、[本田仁美](../Page/本田仁美.md "wikilink")、[金采源](../Page/金采源.md "wikilink")、[金玟周](https://zh.wikipedia.org/wiki/金玟周 "wikilink")、[李彩演](../Page/李彩演.md "wikilink")。活動期為2年6個月\[3\]。
 
 團名「IZ\*ONE」中的「IZ」代表12名成員，「ONE」代表一體，意思是以全世界粉絲為中心運轉的12色星球，12名少女合為一體的瞬間\[4\]。團體口號是「Eyes
 On Me\!
@@ -17,16 +17,16 @@ On Me\!
   - 出道前：組合轉由新公司負責活動營運、三位日本成員暫停AKB48家族活動專任組合活動
 
 IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目](../Page/真人實境秀.md "wikilink")《[PRODUCE
-48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》成立的，由12名成員組成兩年半的限定女子團體\[6\]，组合于韩国的唱片公司为。节目播出中Pledis娛樂表示将负责组合在韩国的營運，但於9月21日时，组合公告其韩國營運方轉由新成立的Off
+48](../Page/PRODUCE_48.md "wikilink")》成立的，由12名成員組成兩年半的限定女子團體\[6\]，组合于韩国的唱片公司为。节目播出中Pledis娛樂表示将负责组合在韩国的營運，但於9月21日时，组合公告其韩國營運方轉由新成立的Off
 The
 Record娛樂担任\[7\]。AKB48營運方在9月24日公告IZ\*ONE日本成員宮脇咲良、矢吹奈子、本田仁美三人將在参加由宮脇担任Center、其余两人担任前排站位的AKB48第54张单曲《[NO
 WAY
-MAN](https://zh.wikipedia.org/wiki/NO_WAY_MAN "wikilink")》后暫停AKB48家族活動，專注IZ\*ONE團體活動\[8\]。
+MAN](../Page/NO_WAY_MAN.md "wikilink")》后暫停AKB48家族活動，專注IZ\*ONE團體活動\[8\]。
 
-  - 正式出道：首張迷你專輯《[COLOR\*IZ](https://zh.wikipedia.org/wiki/COLOR*IZ "wikilink")》、出道團綜
+  - 正式出道：首張迷你專輯《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》、出道團綜
     、女團最快一位紀錄
 
-10月15日，零時通過官方SNS宣佈IZ\*ONE確定將於29日正式出道，並公開了IZ\*ONE的首張迷你專輯《[COLOR\*IZ](https://zh.wikipedia.org/wiki/COLOR*IZ "wikilink")》的成員個人概念照\[9\]。隔日，公開概念影片《What
+10月15日，零時通過官方SNS宣佈IZ\*ONE確定將於29日正式出道，並公開了IZ\*ONE的首張迷你專輯《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》的成員個人概念照\[9\]。隔日，公開概念影片《What
 IZ your color？》。另外，IZ\*ONE即將推出的實境節目《IZ\*ONE
 CHU》，於10月25日起於Mnet播出。10月29日，於下午6點正式出道，主打歌《La
 Vie en Rose》在各大音源榜中釋出。同日於SHOW-CON中公布粉絲名為“WIZ\*ONE”\[10\]。發行首日就在HANTEO
@@ -50,9 +50,9 @@ Hall举行](https://zh.wikipedia.org/wiki/MEETS_PORT#东京巨蛋城表演厅 "w
 Chart
 音樂大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")，并夺得专辑部门年度新人奖\[26\]。
 
-  - 第二張迷你專輯《[HEART\*IZ](https://zh.wikipedia.org/wiki/HEART*IZ "wikilink")》
+  - 第二張迷你專輯《[HEART\*IZ](../Page/HEART*IZ.md "wikilink")》
 
-3月18日，组合于官方社交媒体公开了新专辑的预告视频，并公布将于4月1日发行第二张迷你专辑《[HEART\*IZ](https://zh.wikipedia.org/wiki/HEART*IZ "wikilink")》\[27\]。3月30日，组合發行官方應援棒，並公開預覽圖。\[28\]4月1日下午6時，公開以《Violeta》为主打的第二張迷你專輯《[HEART\*IZ](https://zh.wikipedia.org/wiki/HEART*IZ "wikilink")》全輯音源，並於同日舉行回歸Showcase。\[29\]专辑销量突破13万张，成功更新韩国的女子组合专辑首周销量纪录。此項紀錄再度被TWICE所超越。\[30\]\[31\]
+3月18日，组合于官方社交媒体公开了新专辑的预告视频，并公布将于4月1日发行第二张迷你专辑《[HEART\*IZ](../Page/HEART*IZ.md "wikilink")》\[27\]。3月30日，组合發行官方應援棒，並公開預覽圖。\[28\]4月1日下午6時，公開以《Violeta》为主打的第二張迷你專輯《[HEART\*IZ](../Page/HEART*IZ.md "wikilink")》全輯音源，並於同日舉行回歸Showcase。\[29\]专辑销量突破13万张，成功更新韩国的女子组合专辑首周销量纪录。此項紀錄再度被TWICE所超越。\[30\]\[31\]
 
   - 首次专场巡迴演唱会\[EYES ON ME\]
 
@@ -76,16 +76,16 @@ Aires](https://zh.wikipedia.org/wiki/Buenos_Aires_\(单曲\) "wikilink")》的�
 | 漢字                                                      |
 | [张员瑛](https://zh.wikipedia.org/wiki/张员瑛 "wikilink")     |
 | [宮脇咲良](../Page/宮脇咲良.md "wikilink")                      |
-| [曺柔理](https://zh.wikipedia.org/wiki/曺柔理 "wikilink")     |
-| [崔叡娜](https://zh.wikipedia.org/wiki/崔叡娜 "wikilink")     |
-| [安兪真](https://zh.wikipedia.org/wiki/安兪真 "wikilink")     |
-| [矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")   |
+| [曺柔理](../Page/曺柔理.md "wikilink")                        |
+| [崔叡娜](../Page/崔叡娜.md "wikilink")                        |
+| [安兪真](../Page/安兪真.md "wikilink")                        |
+| [矢吹奈子](../Page/矢吹奈子.md "wikilink")                      |
 | **[權恩妃](https://zh.wikipedia.org/wiki/權恩妃 "wikilink")** |
-| [姜惠元](https://zh.wikipedia.org/wiki/姜惠元 "wikilink")     |
-| [本田仁美](https://zh.wikipedia.org/wiki/本田仁美 "wikilink")   |
-| [金采源](https://zh.wikipedia.org/wiki/金采源 "wikilink")     |
+| [姜惠元](../Page/姜惠元.md "wikilink")                        |
+| [本田仁美](../Page/本田仁美.md "wikilink")                      |
+| [金采源](../Page/金采源.md "wikilink")                        |
 | [金玟周](https://zh.wikipedia.org/wiki/金玟周 "wikilink")     |
-| [李彩演](https://zh.wikipedia.org/wiki/李彩演 "wikilink")     |
+| [李彩演](../Page/李彩演.md "wikilink")                        |
 
 ## 音樂作品
 
@@ -93,14 +93,14 @@ Aires](https://zh.wikipedia.org/wiki/Buenos_Aires_\(单曲\) "wikilink")》的�
 
 #### 迷你專輯
 
-  - 《[COLOR\*IZ](https://zh.wikipedia.org/wiki/COLOR*IZ "wikilink")》（2018年10月29日）
-  - 《[HEART\*IZ](https://zh.wikipedia.org/wiki/HEART*IZ "wikilink")》（2019年4月1日）
+  - 《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》（2018年10月29日）
+  - 《[HEART\*IZ](../Page/HEART*IZ.md "wikilink")》（2019年4月1日）
 
 ### 日語
 
 #### 单曲
 
-  - 《[想要你說喜歡我](https://zh.wikipedia.org/wiki/想要你說喜歡我 "wikilink")》（）（2019年2月6日）
+  - 《[想要你說喜歡我](../Page/想要你說喜歡我.md "wikilink")》（）（2019年2月6日）
   - 《[Buenos
     Aires](https://zh.wikipedia.org/wiki/Buenos_Aires_\(单曲\) "wikilink")》（2019年6月26日）
 
@@ -115,23 +115,23 @@ Aires](https://zh.wikipedia.org/wiki/Buenos_Aires_\(单曲\) "wikilink")》的�
 
 #### 音樂錄影帶
 
-| 年份    | 發佈日期                                                             | 收录于                                                              | 歌曲             | 備註     |
-| ----- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | -------------- | ------ |
-| 2018年 | 10月29日                                                           | 《[COLOR\*IZ](https://zh.wikipedia.org/wiki/COLOR*IZ "wikilink")》 | La Vie en Rose | \[39\] |
-| 11月8日 | Performance Ver\[40\]                                            |                                                                  |                |        |
-| 2019年 | 1月25日                                                            | 《[想让你说喜欢我](https://zh.wikipedia.org/wiki/想让你说喜欢我 "wikilink")》    | 想让你说喜欢我        | \[41\] |
-| 4月1日  | 《[HEART\*IZ](https://zh.wikipedia.org/wiki/HEART*IZ "wikilink")》 | Violeta                                                          | \[42\]         |        |
+| 年份    | 發佈日期                                          | 收录于                                                           | 歌曲             | 備註     |
+| ----- | --------------------------------------------- | ------------------------------------------------------------- | -------------- | ------ |
+| 2018年 | 10月29日                                        | 《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》                 | La Vie en Rose | \[39\] |
+| 11月8日 | Performance Ver\[40\]                         |                                                               |                |        |
+| 2019年 | 1月25日                                         | 《[想让你说喜欢我](https://zh.wikipedia.org/wiki/想让你说喜欢我 "wikilink")》 | 想让你说喜欢我        | \[41\] |
+| 4月1日  | 《[HEART\*IZ](../Page/HEART*IZ.md "wikilink")》 | Violeta                                                       | \[42\]         |        |
 
 #### 练习室舞蹈影音
 
-| 年份     | 發佈日期                                                               | 專輯/企劃                                                                       | 歌曲                                                 | 參與成員          | 備註                                                                     |
-| ------ | ------------------------------------------------------------------ | --------------------------------------------------------------------------- | -------------------------------------------------- | ------------- | ---------------------------------------------------------------------- |
-| 2018年  | 10月5日                                                              | 《[是我的 (PICK ME)](https://zh.wikipedia.org/wiki/是我的_\(PICK_ME\) "wikilink")》 | 내꺼야 (PICK ME)\[43\]                                | 全體            | 音源為[PRODUCE 48版本](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink") |
-| 10月19日 | 《[30 Girls 6 Concepts](../Page/30_Girls_6_Concepts.md "wikilink")》 | Rumor\[44\]                                                                 | 權恩妃、崔叡娜、李彩演、金采源、金玟周                                | 出道Show-Con特别版 |                                                                        |
-| 11月3日  | 《[COLOR\*IZ](https://zh.wikipedia.org/wiki/COLOR*IZ "wikilink")》   | 라비앙로즈 (La Vie en Rose)\[45\]                                                | 全體                                                 |               |                                                                        |
-| 11月7日  | O' My\!\[46\]                                                      |                                                                             |                                                    |               |                                                                        |
-| 2019年  | 1月4日                                                               | 라비앙로즈 (La Vie en Rose)\[47\]                                                | 2018 [MAMA](../Page/Mnet亞洲音樂大獎.md "wikilink") 表演版本 |               |                                                                        |
-| 4月7日   | 《[HEART\*IZ](https://zh.wikipedia.org/wiki/HEART*IZ "wikilink")》   | Violeta                                                                     | \[48\]                                             |               |                                                                        |
+| 年份     | 發佈日期                                                               | 專輯/企劃                                                    | 歌曲                                                 | 參與成員          | 備註                                                  |
+| ------ | ------------------------------------------------------------------ | -------------------------------------------------------- | -------------------------------------------------- | ------------- | --------------------------------------------------- |
+| 2018年  | 10月5日                                                              | 《[是我的 (PICK ME)](../Page/是我的_\(PICK_ME\).md "wikilink")》 | 내꺼야 (PICK ME)\[43\]                                | 全體            | 音源為[PRODUCE 48版本](../Page/PRODUCE_48.md "wikilink") |
+| 10月19日 | 《[30 Girls 6 Concepts](../Page/30_Girls_6_Concepts.md "wikilink")》 | Rumor\[44\]                                              | 權恩妃、崔叡娜、李彩演、金采源、金玟周                                | 出道Show-Con特别版 |                                                     |
+| 11月3日  | 《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》                      | 라비앙로즈 (La Vie en Rose)\[45\]                             | 全體                                                 |               |                                                     |
+| 11月7日  | O' My\!\[46\]                                                      |                                                          |                                                    |               |                                                     |
+| 2019年  | 1月4日                                                               | 라비앙로즈 (La Vie en Rose)\[47\]                             | 2018 [MAMA](../Page/Mnet亞洲音樂大獎.md "wikilink") 表演版本 |               |                                                     |
+| 4月7日   | 《[HEART\*IZ](../Page/HEART*IZ.md "wikilink")》                      | Violeta                                                  | \[48\]                                             |               |                                                     |
 
 ## 媒体出演
 
@@ -153,7 +153,7 @@ Aires](https://zh.wikipedia.org/wiki/Buenos_Aires_\(单曲\) "wikilink")》的�
 <tr class="odd">
 <td><p>2018年10月25日－11月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/IZ*ONE_CHU" title="wikilink">IZ*ONE CHU</a>》</p></td>
+<td><p>《<a href="../Page/IZ*ONE_CHU.md" title="wikilink">IZ*ONE CHU</a>》</p></td>
 <td><p>全員</p></td>
 <td><p>出道综艺</p></td>
 </tr>
@@ -181,7 +181,7 @@ Aires](https://zh.wikipedia.org/wiki/Buenos_Aires_\(单曲\) "wikilink")》的�
 </tr>
 <tr class="odd">
 <td><p>2019年1月6日、13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
+<td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV</a></p></td>
 <td><p>《初次见面 IZ*ONE的第一步 in 日本》</p></td>
 <td><p>[49]</p></td>
 <td></td>
@@ -199,7 +199,7 @@ SBS Mobidic</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年2月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SHOWROOM" title="wikilink">SHOWROOM</a></p></td>
+<td><p><a href="../Page/SHOWROOM.md" title="wikilink">SHOWROOM</a></p></td>
 <td><p>《IZ*ONE 1st单曲《想让你说喜欢我》发行纪念特番》</p></td>
 <td><p>全員</p></td>
 <td><p>[51]</p></td>
@@ -214,7 +214,7 @@ SBS Mobidic</p></td>
 <tr class="odd">
 <td><p>2019年3月21日 - 4月11日</p></td>
 <td><p>Mnet</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/IZ*ONE_CHU" title="wikilink">IZ*ONE CHU</a> 秘密的朋友》</p></td>
+<td><p>《<a href="../Page/IZ*ONE_CHU.md" title="wikilink">IZ*ONE CHU</a> 秘密的朋友》</p></td>
 <td><p>[53]</p></td>
 <td></td>
 </tr>
@@ -230,9 +230,9 @@ SBS Mobidic</p></td>
 
 ### 固定主持節目
 
-| 日期              | 电视台                                | 节目名称                                                                      | 参与成员 | 备注   |
-| --------------- | ---------------------------------- | ------------------------------------------------------------------------- | ---- | ---- |
-| 2018年11月18日－23日 | [JTBC](../Page/JTBC.md "wikilink") | 《[人工智慧-最完美的A.I.](https://zh.wikipedia.org/wiki/人工智慧-最完美的A.I. "wikilink")》 | 全員   | 試播節目 |
+| 日期              | 电视台                                | 节目名称                                                   | 参与成员 | 备注   |
+| --------------- | ---------------------------------- | ------------------------------------------------------ | ---- | ---- |
+| 2018年11月18日－23日 | [JTBC](../Page/JTBC.md "wikilink") | 《[人工智慧-最完美的A.I.](../Page/人工智慧-最完美的A.I..md "wikilink")》 | 全員   | 試播節目 |
 
 ### 其他综艺节目
 
@@ -259,7 +259,7 @@ SBS Mobidic</p></td>
 <tr class="even">
 <td><p>10月30日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Idol_Room" title="wikilink">Idol Room</a>》</p></td>
+<td><p>《<a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a>》</p></td>
 <td><p>全員</p></td>
 <td><p>出道首个全体综艺</p></td>
 <td></td>
@@ -348,7 +348,7 @@ SBS Mobidic</p></td>
 <td><p>2019年</p></td>
 <td><p>1月29日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Idol_Room" title="wikilink">Idol Room</a>》</p></td>
+<td><p>《<a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a>》</p></td>
 <td><p>10月30日播出部分的未公开画面</p></td>
 <td></td>
 </tr>
@@ -387,7 +387,7 @@ SBS Mobidic</p></td>
 <tr class="even">
 <td><p>4月2日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Idol_Room" title="wikilink">Idol Room</a>》</p></td>
+<td><p>《<a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a>》</p></td>
 <td><p>全員</p></td>
 <td></td>
 <td></td>
@@ -419,7 +419,7 @@ SBS Mobidic</p></td>
 <tr class="even">
 <td><p>4月26日</p></td>
 <td><p>Mnet</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/PRODUCE_X_101" title="wikilink">PRODUCE X 101</a> THE BEGINNING》</p></td>
+<td><p>《<a href="../Page/PRODUCE_X_101.md" title="wikilink">PRODUCE X 101</a> THE BEGINNING》</p></td>
 <td><p>先导集</p></td>
 <td></td>
 <td></td>
@@ -679,8 +679,8 @@ SBS Mobidic</p></td>
 
 | 演出日期          | 活動名稱                                                                                        | 舉行地點                                                                                                                     | 備註           |
 | ------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| 2018年11月28日   | [亞洲明星盛典](https://zh.wikipedia.org/wiki/亞洲明星盛典 "wikilink")                                   | 韓国仁川南洞体育館                                                                                                                | \[71\]       |
-| 2018年12月10日   | [2018 MAMA PREMIERE in KOREA](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink")     | 韓国首尔[东大门设计广场](https://zh.wikipedia.org/wiki/东大门设计广场 "wikilink")                                                          | \[72\]       |
+| 2018年11月28日   | [亞洲明星盛典](../Page/亞洲明星盛典.md "wikilink")                                                      | 韓国仁川南洞体育館                                                                                                                | \[71\]       |
+| 2018年12月10日   | [2018 MAMA PREMIERE in KOREA](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink")     | 韓国首尔[东大门设计广场](../Page/东大门设计广场.md "wikilink")                                                                             | \[72\]       |
 | 2018年12月12日   | [2018 MAMA FAN'S CHOICE in JAPAN](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink") | 日本[埼玉超级竞技场](https://zh.wikipedia.org/wiki/埼玉超级竞技场 "wikilink")                                                            | \[73\]       |
 | 2018年12月14日   | [2018 MAMA in HONG KONG](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink")          | [香港](../Page/香港.md "wikilink")[亚洲国际博览馆](https://zh.wikipedia.org/wiki/亚洲国际博览馆 "wikilink")                                | \[74\]       |
 | 2019年1月6日     | 第33届[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")                                   | 韓国首尔[高尺巨蛋](https://zh.wikipedia.org/wiki/高尺巨蛋 "wikilink")                                                                | \[75\]       |
@@ -719,7 +719,7 @@ SBS Mobidic</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亞洲明星盛典" title="wikilink">亞洲明星盛典</a></p></td>
+<td><p><a href="../Page/亞洲明星盛典.md" title="wikilink">亞洲明星盛典</a></p></td>
 <td><p>新人獎</p></td>
 <td><p>IZ*ONE</p></td>
 <td></td>
@@ -828,13 +828,13 @@ SBS Mobidic</p></td>
 <td><p>2018年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/COLOR*IZ" title="wikilink">COLOR*IZ</a></p></td>
+<td><p><a href="../Page/COLOR*IZ.md" title="wikilink">COLOR*IZ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/HEART*IZ" title="wikilink">HEART*IZ</a></p></td>
+<td><p><a href="../Page/HEART*IZ.md" title="wikilink">HEART*IZ</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>

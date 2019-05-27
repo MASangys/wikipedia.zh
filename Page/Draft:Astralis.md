@@ -1,5 +1,5 @@
 **Astralis**是一只由前[Team
-SoloMid](https://zh.wikipedia.org/wiki/Team_SoloMid "wikilink")/[Questionmark战队成员拥有的](../Page/问号.md "wikilink")[丹麦电子竞技组织](https://zh.wikipedia.org/wiki/丹麦 "wikilink")，经理为弗雷德里克·比斯科夫（Frederik
+SoloMid](../Page/Team_SoloMid.md "wikilink")/[Questionmark战队成员拥有的](../Page/问号.md "wikilink")[丹麦电子竞技组织](https://zh.wikipedia.org/wiki/丹麦 "wikilink")，经理为弗雷德里克·比斯科夫（Frederik
 "realition" Byskov）。其名称使用权由原芬兰反恐精英战队创建人授权。
 
 ## 历史
@@ -75,10 +75,9 @@ NRG, CLG and [SK Gaming](../Page/SK_Gaming.md "wikilink") with the help
 of zonic standing in for IGL karrigan who arrived late to the event.
 They then won best-of-threes vs NRG and CLG. At ECS Season 1 Finals
 Astralis once again uncharacteristically lost to a North American team,
-this time being [Team
-SoloMid](https://zh.wikipedia.org/wiki/Team_SoloMid "wikilink") led by
-Kory “SEMPHIS” Friesen. They went on to face  in the decider match and
-were beaten 0-2.
+this time being [Team SoloMid](../Page/Team_SoloMid.md "wikilink") led
+by Kory “SEMPHIS” Friesen. They went on to face  in the decider match
+and were beaten 0-2.
 
 Astralis went into , the second CS:GO Major of the year with a stand-in
 for Kjaerbye in the form of Lukas “gla1ve” Rossander. This was because

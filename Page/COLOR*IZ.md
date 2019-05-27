@@ -24,18 +24,15 @@ SHOW-CON 〉\[4\]。
 
 主打曲〈La Vie en Rose〉由freemind
 蔡多順负责编舞\[9\]，[CLC曾拍摄过此曲的小样](../Page/CLC.md "wikilink")\[10\]。《被迷住了吧？》（）經過[KBS歌曲審查會議討論後](https://zh.wikipedia.org/wiki/KBS "wikilink")，因為全首歌都是日文歌詞，違反放送審議相關規定，所以無法在KBS電視台以及電台播出。\[11\]《O'
-My\!》成為被用为團体綜艺节目《[IZ\*ONE
-CHU](https://zh.wikipedia.org/wiki/IZ*ONE_CHU "wikilink")》主題曲。
+My\!》成為被用为團体綜艺节目《[IZ\*ONE CHU](../Page/IZ*ONE_CHU.md "wikilink")》主題曲。
 
 ## 曲目
 
 本次專輯共收錄了八首歌曲，曲目包括了《[PRODUCE
-48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》發布的《[是我的 (PICK
-ME)](https://zh.wikipedia.org/wiki/是我的_\(PICK_ME\) "wikilink")》和收錄在《[PRODUCE
-48 -
+48](../Page/PRODUCE_48.md "wikilink")》發布的《[是我的 (PICK
+ME)](../Page/是我的_\(PICK_ME\).md "wikilink")》和收錄在《[PRODUCE 48 -
 FINAL](../Page/PRODUCE_48_-_FINAL.md "wikilink")》中的所有歌曲\[12\]。[IZ\*ONE版本的](../Page/IZ*ONE.md "wikilink")《[是我的
-(PICK
-ME)](https://zh.wikipedia.org/wiki/是我的_\(PICK_ME\) "wikilink")》只收錄於CD中。
+(PICK ME)](../Page/是我的_\(PICK_ME\).md "wikilink")》只收錄於CD中。
 
 ## 音樂現場
 

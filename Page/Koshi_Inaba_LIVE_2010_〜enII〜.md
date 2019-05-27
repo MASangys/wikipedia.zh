@@ -1,5 +1,5 @@
 《**Koshi Inaba LIVE 2010
-〜enII〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z主唱](../Page/B'z.md "wikilink")[稻葉浩志的第](../Page/稻葉浩志.md "wikilink")2張影像作品。[2011年](../Page/2011年.md "wikilink")[2月16日發售](../Page/2月16日.md "wikilink")。
+〜enII〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z主唱](../Page/B'z.md "wikilink")[稻葉浩志的第](../Page/稻葉浩志.md "wikilink")2張影像作品。[2011年](../Page/2011年.md "wikilink")[2月16日發售](../Page/2月16日.md "wikilink")。
 
 ## 内容
 
@@ -37,7 +37,7 @@ Inaba LIVE 2010
 10. **赤い糸**
 11. **Lone Pine**
 12. **この手をとって走り出して**
-13. **LOST〜[Wonderland](https://zh.wikipedia.org/wiki/Wonderland "wikilink")**
+13. **LOST〜[Wonderland](../Page/Wonderland.md "wikilink")**
 14. **[遠くまで](https://zh.wikipedia.org/wiki/遠くまで "wikilink")**
 15. **〜jam〜**（[音樂即興演奏會](../Page/音樂即興.md "wikilink")）
 16. **CAGE FIGHT**
@@ -65,6 +65,5 @@ Inaba LIVE 2010
 [Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink")
 
 1.
-2.  起初標題不詳，但之後在[B'z
-    Party會報誌](https://zh.wikipedia.org/wiki/B'z_Party "wikilink")『be
+2.  起初標題不詳，但之後在[B'z Party會報誌](../Page/B'z_Party.md "wikilink")『be
     with\!』vol.89 中公佈。

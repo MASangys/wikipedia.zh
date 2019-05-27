@@ -66,7 +66,7 @@ Room監製製作。
 <td><p>擔任天氣預報員</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Sleepy_(韓國歌手)" title="wikilink">金成源</a></strong> <a href="https://zh.wikipedia.org/wiki/Sleepy_(韓國歌手)" title="wikilink">（Sleepy）</a></p></td>
+<td><p><strong><a href="../Page/Sleepy_(韓國歌手).md" title="wikilink">金成源</a></strong> <a href="../Page/Sleepy_(韓國歌手).md" title="wikilink">（Sleepy）</a></p></td>
 <td><p>김성원</p></td>
 <td></td>
 <td><p><a href="../Page/饒舌.md" title="wikilink">饒舌歌手</a></p></td>

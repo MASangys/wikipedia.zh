@@ -21,7 +21,7 @@
   - [铜管乐器](../Page/銅管樂器.md "wikilink")：四只 F
     调[法国圆号](../Page/法國號.md "wikilink")，两只 C
     调[小号](../Page/小號.md "wikilink")，三只[长号](../Page/长号.md "wikilink")（两只高音和一只低音）以及[大号](../Page/大号.md "wikilink")。
-  - [打击乐器](../Page/打击乐器.md "wikilink")：[定音鼓](../Page/定音鼓.md "wikilink")，[大鼓](../Page/大鼓.md "wikilink")，[铜钹](https://zh.wikipedia.org/wiki/銅鈸 "wikilink")，[铃鼓](../Page/鈴鼓.md "wikilink")，[三角铁](https://zh.wikipedia.org/wiki/三角铁 "wikilink")，[小鼓](../Page/小鼓.md "wikilink")，木鱼，[木琴](../Page/木琴.md "wikilink")，[响板](../Page/響板.md "wikilink")，[锣](https://zh.wikipedia.org/wiki/锣 "wikilink")，以及铃舌。
+  - [打击乐器](../Page/打击乐器.md "wikilink")：[定音鼓](../Page/定音鼓.md "wikilink")，[大鼓](../Page/大鼓.md "wikilink")，[铜钹](../Page/銅鈸.md "wikilink")，[铃鼓](../Page/鈴鼓.md "wikilink")，[三角铁](https://zh.wikipedia.org/wiki/三角铁 "wikilink")，[小鼓](../Page/小鼓.md "wikilink")，木鱼，[木琴](../Page/木琴.md "wikilink")，[响板](../Page/響板.md "wikilink")，[锣](https://zh.wikipedia.org/wiki/锣 "wikilink")，以及铃舌。
   - [弦乐器](https://zh.wikipedia.org/wiki/弦樂器 "wikilink")：[竖琴](../Page/豎琴.md "wikilink")，第一和第二[小提琴](../Page/小提琴.md "wikilink")，[中提琴](../Page/中提琴.md "wikilink")，[大提琴以及](../Page/大提琴.md "wikilink")[低音提琴](../Page/低音提琴.md "wikilink")。
 
 ## 结构
@@ -78,7 +78,7 @@
     [长号和大号](../Page/长号.md "wikilink")
   - 变奏曲 13
     中板
-    打击乐器（[定音鼓](../Page/定音鼓.md "wikilink")；[大鼓和](../Page/大鼓.md "wikilink")[钹](https://zh.wikipedia.org/wiki/銅鈸 "wikilink")；[铃鼓和](../Page/鈴鼓.md "wikilink")[三角铁](https://zh.wikipedia.org/wiki/三角铁 "wikilink")；[小鼓和木鱼](../Page/小鼓.md "wikilink")；[木琴](../Page/木琴.md "wikilink")；[响板和](../Page/響板.md "wikilink")[锣](https://zh.wikipedia.org/wiki/锣 "wikilink")；铃舌；打击乐器全体)
+    打击乐器（[定音鼓](../Page/定音鼓.md "wikilink")；[大鼓和](../Page/大鼓.md "wikilink")[钹](../Page/銅鈸.md "wikilink")；[铃鼓和](../Page/鈴鼓.md "wikilink")[三角铁](https://zh.wikipedia.org/wiki/三角铁 "wikilink")；[小鼓和木鱼](../Page/小鼓.md "wikilink")；[木琴](../Page/木琴.md "wikilink")；[响板和](../Page/響板.md "wikilink")[锣](https://zh.wikipedia.org/wiki/锣 "wikilink")；铃舌；打击乐器全体)
   - 赋格曲
     非常快速地
 

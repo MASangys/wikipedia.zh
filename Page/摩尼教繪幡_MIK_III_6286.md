@@ -1,5 +1,5 @@
 **摩尼教繪幡編號「
-6286」**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：）是一幅收藏於德國的[摩尼教寺院旗幡](../Page/摩尼教.md "wikilink")，製作於公元10世紀，在20世紀初被[德國吐魯番考察隊發現於新疆](https://zh.wikipedia.org/wiki/德國吐魯番考察隊 "wikilink")[高昌故城](https://zh.wikipedia.org/wiki/高昌故城 "wikilink")。旗幡長45.5釐米、寬16釐米，兩面均有彩繪人像，是獻予去世之摩尼教信徒的喪葬繪幡。
+6286」**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：）是一幅收藏於德國的[摩尼教寺院旗幡](../Page/摩尼教.md "wikilink")，製作於公元10世紀，在20世紀初被[德國吐魯番考察隊發現於新疆](../Page/德國吐魯番考察隊.md "wikilink")[高昌故城](https://zh.wikipedia.org/wiki/高昌故城 "wikilink")。旗幡長45.5釐米、寬16釐米，兩面均有彩繪人像，是獻予去世之摩尼教信徒的喪葬繪幡。
 
 ## 描述
 
@@ -12,7 +12,7 @@
 
 ## 夷數王者像
 
-[Comparison_-_Manichaean_Jesus_1.jpg](https://zh.wikipedia.org/wiki/File:Comparison_-_Manichaean_Jesus_1.jpg "fig:Comparison_-_Manichaean_Jesus_1.jpg")設計的對比圖，左邊為南宋《[夷數佛幀](https://zh.wikipedia.org/wiki/夷數佛幀 "wikilink")》。異同點：1.
+[Comparison_-_Manichaean_Jesus_1.jpg](https://zh.wikipedia.org/wiki/File:Comparison_-_Manichaean_Jesus_1.jpg "fig:Comparison_-_Manichaean_Jesus_1.jpg")設計的對比圖，左邊為南宋《[夷數佛幀](../Page/夷數佛幀.md "wikilink")》。異同點：1.
 紅色金邊的頭光；2.
 披肩長髮、[髭鬚](https://zh.wikipedia.org/wiki/髭 "wikilink")、鬍鬚，二者都沒有佩戴頭飾；3.
 金邊白色罩袍上的四個佩章；4. 都穿紅色長袍；5. 右手結印方式一致；6. 因文化差異導致的坐姿和坐具（蓮花臺、四足寶座）完全不同。\]\]
@@ -20,7 +20,7 @@
 
 夷數在摩尼教中是一位相當重要的神祇，該教創始人[摩尼生長在公元](../Page/摩尼.md "wikilink")3世紀的一個基督教家庭之中，他的父親[跋帝是這派教會的信徒](https://zh.wikipedia.org/wiki/摩尼#家庭 "wikilink")。他們居住在[薩珊王朝統治下的南部](https://zh.wikipedia.org/wiki/薩珊王朝 "wikilink")[美索不達米亞](https://zh.wikipedia.org/wiki/美索不達米亞 "wikilink")，除了浸洗派，那裡還活躍着其他[早期基督教團體如](../Page/早期基督教.md "wikilink")和[馬吉安派](../Page/馬吉安主義.md "wikilink")，摩尼同他們均有過接觸。雖然摩尼在自己的著作中有提及[瑣羅亞斯德和](https://zh.wikipedia.org/wiki/瑣羅亞斯德 "wikilink")[釋迦牟尼](https://zh.wikipedia.org/wiki/釋迦牟尼 "wikilink")，但耶穌才是重點，比如：「耶穌是摩尼的拯救者」（《》）；「摩尼，耶穌基督的使徒」（[摩尼的水晶印章及他在信文中的自稱](../Page/摩尼的水晶印章.md "wikilink")）；「摩尼是耶穌的聖靈」（摩尼的門徒對他的尊稱）。[天主教](../Page/天主教會.md "wikilink")[聖師](../Page/教會聖師.md "wikilink")[奧古斯丁曾經撰文講述摩尼教徒對耶穌的癡迷](https://zh.wikipedia.org/wiki/希波的奧古斯丁 "wikilink")，以及在各種語言的摩尼教經典中都有夷數讚美詩。
 
-綜上所述，可見相較於同出[波斯的](../Page/波斯.md "wikilink")[瑣羅亞斯德教](https://zh.wikipedia.org/wiki/瑣羅亞斯德教 "wikilink")，摩尼教同基督教的淵源實際上更為深厚。[匈牙利亞洲宗教藝術史學家](../Page/匈牙利.md "wikilink")[古樂慈在對比了多幅](../Page/古樂慈.md "wikilink")[地中海地區的早期基督教耶穌畫像後](../Page/地中海.md "wikilink")，發現有兩幅與該像尤其吻合，一幅是來自埃及[西奈半島](../Page/西奈半島.md "wikilink")[聖凱薩琳修道院的公元](https://zh.wikipedia.org/wiki/聖凱薩琳修道院 "wikilink")6世紀鑲嵌畫，位於修道院後堂拱頂上；另一幅是[羅馬](https://zh.wikipedia.org/wiki/羅馬 "wikilink")[聖普正珍大殿穹頂上的鑲嵌畫](https://zh.wikipedia.org/wiki/聖普正珍大殿 "wikilink")，繪製於公元4世紀。此外，古樂慈亦將這幅夷數像同[南宋絹畫掛軸](../Page/南宋.md "wikilink")《[夷數佛幀](https://zh.wikipedia.org/wiki/夷數佛幀 "wikilink")》作了對比，發現這幅出自中國南方沿海地區的絹畫與該夷數像也相當吻合。雖然因所在地不同而導致的文化差異讓二者在圖像藝術風格上大相逕庭，但其主要元素幾乎一致。
+綜上所述，可見相較於同出[波斯的](../Page/波斯.md "wikilink")[瑣羅亞斯德教](https://zh.wikipedia.org/wiki/瑣羅亞斯德教 "wikilink")，摩尼教同基督教的淵源實際上更為深厚。[匈牙利亞洲宗教藝術史學家](../Page/匈牙利.md "wikilink")[古樂慈在對比了多幅](../Page/古樂慈.md "wikilink")[地中海地區的早期基督教耶穌畫像後](../Page/地中海.md "wikilink")，發現有兩幅與該像尤其吻合，一幅是來自埃及[西奈半島](../Page/西奈半島.md "wikilink")[聖凱薩琳修道院的公元](https://zh.wikipedia.org/wiki/聖凱薩琳修道院 "wikilink")6世紀鑲嵌畫，位於修道院後堂拱頂上；另一幅是[羅馬](https://zh.wikipedia.org/wiki/羅馬 "wikilink")[聖普正珍大殿穹頂上的鑲嵌畫](https://zh.wikipedia.org/wiki/聖普正珍大殿 "wikilink")，繪製於公元4世紀。此外，古樂慈亦將這幅夷數像同[南宋絹畫掛軸](../Page/南宋.md "wikilink")《[夷數佛幀](../Page/夷數佛幀.md "wikilink")》作了對比，發現這幅出自中國南方沿海地區的絹畫與該夷數像也相當吻合。雖然因所在地不同而導致的文化差異讓二者在圖像藝術風格上大相逕庭，但其主要元素幾乎一致。
 
 ## 另見
 

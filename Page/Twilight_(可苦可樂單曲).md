@@ -6,7 +6,7 @@ Japan發售](https://zh.wikipedia.org/wiki/Warner_Music_Japan "wikilink")。
 
 是可苦可樂專門為電影《[再一次說愛你](../Page/再一次說愛你.md "wikilink")》所寫的歌曲。是連續3個月宣布新歌的第三首歌。\[1\]
 
-其後於單曲《[奇蹟](https://zh.wikipedia.org/wiki/奇蹟_\(可苦可樂單曲\) "wikilink")》以B面曲發售。
+其後於單曲《[奇蹟](../Page/奇蹟_\(可苦可樂單曲\).md "wikilink")》以B面曲發售。
 
 ## 收錄曲
 

@@ -1,4 +1,4 @@
-**Ethash**是[以太坊上的加密貨幣的](../Page/以太坊.md "wikilink")[共識算法](https://zh.wikipedia.org/wiki/共識算法 "wikilink")，使用使用[工作量証明](https://zh.wikipedia.org/wiki/工作量證明 "wikilink")。\[1\]
+**Ethash**是[以太坊上的加密貨幣的](../Page/以太坊.md "wikilink")[共識算法](https://zh.wikipedia.org/wiki/共識算法 "wikilink")，使用使用[工作量証明](../Page/工作量證明.md "wikilink")。\[1\]
 Ethash也使用Keccak，一種己標準化為[SHA-3的](../Page/SHA-3.md "wikilink")[散列函数](../Page/散列函數.md "wikilink")。
 但Ethash與[SHA-3並不相同](../Page/SHA-3.md "wikilink")，不應將兩者混淆。
 
@@ -20,7 +20,7 @@ Vitalik Buterin的。
 
 ## 抵制ASIC的原因
 
-由於[工作量証明的核心是](https://zh.wikipedia.org/wiki/工作量證明 "wikilink")[Hash運算](../Page/散列函數.md "wikilink")，運算得愈快的[礦工將愈大機會挖掘到新的區塊而獲得更多貨幣收益](https://zh.wikipedia.org/wiki/礦工_\(數位貨幣\) "wikilink")。礦工的挖礦設備亦由CPU演變為GPU，再由GPU演變為ASIC。礦機門檻的提升導致了礦工人數下降，大多數的收益集中於少部份礦工，這種節點的集中與[區塊鏈的原意](https://zh.wikipedia.org/wiki/区块链 "wikilink")[去中心化是相違背的](https://zh.wikipedia.org/wiki/去中心化 "wikilink")。因此，Ethash的計算過程中增加了對內存的要求而抵抗ASIC礦機的優勢。
+由於[工作量証明的核心是](../Page/工作量證明.md "wikilink")[Hash運算](../Page/散列函數.md "wikilink")，運算得愈快的[礦工將愈大機會挖掘到新的區塊而獲得更多貨幣收益](https://zh.wikipedia.org/wiki/礦工_\(數位貨幣\) "wikilink")。礦工的挖礦設備亦由CPU演變為GPU，再由GPU演變為ASIC。礦機門檻的提升導致了礦工人數下降，大多數的收益集中於少部份礦工，這種節點的集中與[區塊鏈的原意](../Page/区块链.md "wikilink")[去中心化是相違背的](https://zh.wikipedia.org/wiki/去中心化 "wikilink")。因此，Ethash的計算過程中增加了對內存的要求而抵抗ASIC礦機的優勢。
 
 ## 参考文献
 

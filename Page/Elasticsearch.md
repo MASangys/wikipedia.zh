@@ -1,5 +1,5 @@
 [Shay_Banon_talking_about_Elasticsearch_at_Berlin_Buzzwords_2010.jpg](https://zh.wikipedia.org/wiki/File:Shay_Banon_talking_about_Elasticsearch_at_Berlin_Buzzwords_2010.jpg "fig:Shay_Banon_talking_about_Elasticsearch_at_Berlin_Buzzwords_2010.jpg")
-**Elasticsearch**是一个基于[Lucene库的](../Page/Lucene.md "wikilink")[搜索引擎](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")。它提供了一个分布式、支持多租户的[全文搜索引擎](../Page/全文檢索.md "wikilink")，具有[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")
+**Elasticsearch**是一个基于[Lucene库的](../Page/Lucene.md "wikilink")[搜索引擎](../Page/搜索引擎.md "wikilink")。它提供了一个分布式、支持多租户的[全文搜索引擎](../Page/全文檢索.md "wikilink")，具有[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")
 Web接口和无模式[JSON文档](../Page/JSON.md "wikilink")。Elasticsearch是用[Java开发的](../Page/Java.md "wikilink")，并在[Apache许可证下作为开源软件发布](../Page/Apache许可证.md "wikilink")。官方客户端在[Java](../Page/Java.md "wikilink")、[.NET](../Page/.NET框架.md "wikilink")（[C\#](../Page/C♯.md "wikilink")）、[PHP](../Page/PHP.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Apache
 Groovy](../Page/Groovy.md "wikilink")、[Ruby和许多其他语言中都是可用的](../Page/Ruby.md "wikilink")。\[1\]根据DB-Engines的排名显示，Elasticsearch是最受欢迎的企业搜索引擎，其次是[Apache
 Solr](https://zh.wikipedia.org/wiki/Apache_Solr "wikilink")，也是基于Lucene。\[2\]

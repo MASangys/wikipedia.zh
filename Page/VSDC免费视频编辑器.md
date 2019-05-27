@@ -5,7 +5,7 @@ LLC](https://zh.wikipedia.org/wiki/Flash-Integro_LLC "wikilink")\[1\]发布的�
 
 ## 布局
 
-[VSDC免费视频编辑器](https://zh.wikipedia.org/wiki/VSDC免费视频编辑器 "wikilink")\[4\]
+[VSDC免费视频编辑器](../Page/VSDC免费视频编辑器.md "wikilink")\[4\]
 不需要任何专用硬件即可正常运行，允许它在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
 2000/2003 / XP / Vista / 7/8/10上运行。
 布局包括时间线区域，场景区域，状态栏，快速访问工具栏，编辑工具（标准工具，纸张工具，布局工具），带媒体库的命令栏（视频和音频效果，过渡），属性窗口和资源窗口。
@@ -48,7 +48,7 @@ VSDC免费视频编辑器提供了将输出文件保存到计算机硬盘驱动�
 / [iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink") /
 [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink") /
 [iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")，手机和智能手机，三星，[HTC](https://zh.wikipedia.org/wiki/HTC "wikilink")，[LG](https://zh.wikipedia.org/wiki/LG "wikilink")，[华为](../Page/华为.md "wikilink")，[谷歌](https://zh.wikipedia.org/wiki/谷歌 "wikilink")，[小米](../Page/小米.md "wikilink")，[OnePlus](https://zh.wikipedia.org/wiki/OnePlus "wikilink")，[索尼PSP](https://zh.wikipedia.org/wiki/索尼PSP "wikilink")，[Play
-Station](https://zh.wikipedia.org/wiki/Play_Station "wikilink")，[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")，[黑莓智能手机](https://zh.wikipedia.org/wiki/黑莓智能手机 "wikilink")，[Zune](../Page/Zune.md "wikilink")，[Archos](https://zh.wikipedia.org/wiki/Archos "wikilink")，
+Station](https://zh.wikipedia.org/wiki/Play_Station "wikilink")，[Xbox](../Page/Xbox.md "wikilink")，[黑莓智能手机](https://zh.wikipedia.org/wiki/黑莓智能手机 "wikilink")，[Zune](../Page/Zune.md "wikilink")，[Archos](https://zh.wikipedia.org/wiki/Archos "wikilink")，
 iRiver，Creative Zen媒体播放器，Windows掌上电脑和其他便携式MP3 / MP4播放器，运动相机（包括GoPro Hero
 4和5）以及所有无人机类型。\[5\]
 

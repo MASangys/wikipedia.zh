@@ -1,7 +1,7 @@
 **华为Mate
 20系列**是由[华为公司设计和销售的Mate系列](https://zh.wikipedia.org/wiki/华为公司 "wikilink")[智能手机](../Page/智能手机.md "wikilink")，也是[华为Mate
-10系列的换代产品](https://zh.wikipedia.org/wiki/华为Mate_10系列 "wikilink")，包括Mate
-20、Mate 20 Pro、Mate 20 X，另有與聯名的手機Porsche Design Mate 20
+10系列的换代产品](../Page/华为Mate_10系列.md "wikilink")，包括Mate 20、Mate 20 Pro、Mate
+20 X，另有與聯名的手機Porsche Design Mate 20
 RS。欧洲版本于2018年10月16日在伦敦发布\[1\]，中国版本于2018年10月26日在中国上海发布\[2\]。
 
 华为Mate

@@ -32,7 +32,7 @@ DBeaver功能包括：
 
   - [Comparison of database
     tools](https://zh.wikipedia.org/wiki/Comparison_of_database_tools "wikilink")
-  - [HeidiSQL](https://zh.wikipedia.org/wiki/HeidiSQL "wikilink")
+  - [HeidiSQL](../Page/HeidiSQL.md "wikilink")
   - [SQuirreL SQL
     Client](https://zh.wikipedia.org/wiki/SQuirreL_SQL_Client "wikilink")
 

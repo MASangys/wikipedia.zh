@@ -4,7 +4,7 @@
 
 2017年3月，ComicFesta在其網站內增設了Anime Zone動畫平台，以提供動畫串流播放服務。\[1\]
 
-除了既有的動畫作品以外，此平台亦有提供《[與僧侶交合的色慾之夜](https://zh.wikipedia.org/wiki/與僧侶交合的色慾之夜 "wikilink")》等原作由該平台母公司旗下服務上刊載的作品所改編而成的動畫，並稱之為「ComicFesta動畫」。\[2\]由於該等原作漫畫包含漫畫、[BL漫畫和](https://zh.wikipedia.org/wiki/BL_\(和製英語\) "wikilink")[成人漫畫作品](https://zh.wikipedia.org/wiki/成人漫畫 "wikilink")，此平台會製作並獨家播放該等作品的[成人向「完全版」動畫](../Page/成人動畫.md "wikilink")。
+除了既有的動畫作品以外，此平台亦有提供《[與僧侶交合的色慾之夜](../Page/與僧侶交合的色慾之夜.md "wikilink")》等原作由該平台母公司旗下服務上刊載的作品所改編而成的動畫，並稱之為「ComicFesta動畫」。\[2\]由於該等原作漫畫包含漫畫、[BL漫畫和](../Page/BL_\(和製英語\).md "wikilink")[成人漫畫作品](https://zh.wikipedia.org/wiki/成人漫畫 "wikilink")，此平台會製作並獨家播放該等作品的[成人向「完全版」動畫](../Page/成人動畫.md "wikilink")。
 
 此平台製作的動畫在Anime
 Zone以外也會在透過各電視台及網絡平台播放通常版或者R-15版。對於此等作品，也有人按其放送的第一套作品來命名並稱之為「**僧侶番**」。\[3\]
@@ -13,26 +13,26 @@ Zone以外也會在透過各電視台及網絡平台播放通常版或者R-15版
 
 ### 原創改編動畫作品一覽
 
-  - [與僧侶交合的色慾之夜](https://zh.wikipedia.org/wiki/與僧侶交合的色慾之夜 "wikilink")
+  - [與僧侶交合的色慾之夜](../Page/與僧侶交合的色慾之夜.md "wikilink")
 
-  - [裙子裡面有怪獸。](https://zh.wikipedia.org/wiki/裙子裡面有怪獸。 "wikilink")
+  - [裙子裡面有怪獸。](../Page/裙子裡面有怪獸。.md "wikilink")
 
-  - [相親對象是強硬問題兒學生](https://zh.wikipedia.org/wiki/相親對象是強硬問題兒學生 "wikilink")
+  - [相親對象是強硬問題兒學生](../Page/相親對象是強硬問題兒學生.md "wikilink")
 
-  - [25歲的女高中生](https://zh.wikipedia.org/wiki/25歲的女高中生 "wikilink")
+  - [25歲的女高中生](../Page/25歲的女高中生.md "wikilink")
 
-  - [甜蜜懲罰～我是看守專用寵物](https://zh.wikipedia.org/wiki/甜蜜懲罰～我是看守專用寵物 "wikilink")
+  - [甜蜜懲罰～我是看守專用寵物](../Page/甜蜜懲罰～我是看守專用寵物.md "wikilink")
 
-  - [天降女子\!～女孩子從2樓…掉了下來\!?～](https://zh.wikipedia.org/wiki/女子掉落在我的寶貝上 "wikilink")
+  - [天降女子\!～女孩子從2樓…掉了下來\!?～](../Page/女子掉落在我的寶貝上.md "wikilink")
 
   -
-  - [就算是爸爸，也想做](https://zh.wikipedia.org/wiki/就算是爸爸，也想做 "wikilink")
+  - [就算是爸爸，也想做](../Page/就算是爸爸，也想做.md "wikilink")
 
-  - [洗屋先生！～我和那傢伙在女浴池！？](https://zh.wikipedia.org/wiki/私密處洗淨屋的工作～和單戀的他在女湯裡～ "wikilink")
+  - [洗屋先生！～我和那傢伙在女浴池！？](../Page/私密處洗淨屋的工作～和單戀的他在女湯裡～.md "wikilink")
 
 ### 非ComicFesta作品一覽
 
-  - [寶石之國](https://zh.wikipedia.org/wiki/寶石之國 "wikilink")
+  - [寶石之國](../Page/寶石之國.md "wikilink")
 
 ## 參考資料
 

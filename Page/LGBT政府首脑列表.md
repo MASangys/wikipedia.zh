@@ -54,7 +54,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李歐·瓦拉德卡" title="wikilink">李歐·瓦拉德卡</a>[4]</p></td>
+<td><p><a href="../Page/李歐·瓦拉德卡.md" title="wikilink">李歐·瓦拉德卡</a>[4]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Leo_Varadkar_2016.jpg" title="fig:150x150像素">150x150像素</a></p></td>
 <td></td>
 <td><p><a href="../Page/爱尔兰总理.md" title="wikilink">爱尔兰总理</a></p></td>
@@ -63,7 +63,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/安娜·布爾納比奇" title="wikilink">安娜·布爾納比奇</a>[5]</p></td>
+<td><p><a href="../Page/安娜·布爾納比奇.md" title="wikilink">安娜·布爾納比奇</a>[5]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Ana_Brnabic,_July_3,_2018.jpg" title="fig:133x133像素">133x133像素</a></p></td>
 <td></td>
 <td><p><a href="../Page/塞尔维亚总理.md" title="wikilink">塞尔维亚总理</a></p></td>
@@ -148,7 +148,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/尼基·文多拉" title="wikilink">尼基·文多拉</a></p></td>
+<td><p><a href="../Page/尼基·文多拉.md" title="wikilink">尼基·文多拉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Nicola_Vendola_daticamera.jpg" title="fig:138x138像素">138x138像素</a></p></td>
 <td><p><a href="../Page/意大利.md" title="wikilink">意大利</a></p></td>
 <td><p><a href="../Page/普利亚大区.md" title="wikilink">普利亚大区区长</a></p></td>

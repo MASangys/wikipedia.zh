@@ -29,7 +29,7 @@ JAPAN旗下](../Page/LDH_\(藝能事務所\).md "wikilink")，由兩位主唱及
 
 <!-- end list -->
 
-  - [世界](https://zh.wikipedia.org/wiki/世界_\(舞者\) "wikilink")
+  - [世界](../Page/世界_\(舞者\).md "wikilink")
     (SEKAI、[1991年](../Page/1991年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")
     - ）隊長、神奈川県、B型
   - [佐藤大樹](../Page/佐藤大樹.md "wikilink")（SATO
@@ -41,7 +41,7 @@ JAPAN旗下](../Page/LDH_\(藝能事務所\).md "wikilink")，由兩位主唱及
   - 瀬口黎弥（SEGUCHI
     LEIYA、[1996年](../Page/1996年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")
     - ）福岡県、A型
-  - [中尾翔太](https://zh.wikipedia.org/wiki/中尾翔太 "wikilink")（NAKAO
+  - [中尾翔太](../Page/中尾翔太.md "wikilink")（NAKAO
     SHOTA、1996年[4月23日](../Page/4月23日.md "wikilink") -
     [2018年](../Page/2018年.md "wikilink")[7月6日](https://zh.wikipedia.org/wiki/7月6日 "wikilink")\[7\]）愛知県、B型
   - 堀夏喜（HORI
@@ -96,7 +96,7 @@ JAPAN旗下](../Page/LDH_\(藝能事務所\).md "wikilink")，由兩位主唱及
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2019年4月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Flying_Fish" title="wikilink">Flying Fish</a></p></td>
+<td><p><a href="../Page/Flying_Fish.md" title="wikilink">Flying Fish</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

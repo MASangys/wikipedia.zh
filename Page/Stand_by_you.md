@@ -34,11 +34,11 @@ Sales榜中，單曲以銷出270,083張的成績取得週榜第1名\[6\]，[日�
 
 ### Stand by you
 
-  - 荒井優希、[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[小畑優奈](https://zh.wikipedia.org/wiki/小畑優奈 "wikilink")、[鎌田菜月](https://zh.wikipedia.org/wiki/鎌田菜月 "wikilink")、[北川綾巴](../Page/北川綾巴.md "wikilink")、[熊崎晴香](https://zh.wikipedia.org/wiki/熊崎晴香 "wikilink")、[佐藤佳穗](https://zh.wikipedia.org/wiki/佐藤佳穗 "wikilink")、[末永櫻花](https://zh.wikipedia.org/wiki/末永櫻花 "wikilink")、[菅原茉椰](https://zh.wikipedia.org/wiki/菅原茉椰 "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、[惣田紗莉渚](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[竹內彩姫](https://zh.wikipedia.org/wiki/竹內彩姫 "wikilink")、[日高優月](https://zh.wikipedia.org/wiki/日高優月 "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、松井珠理奈
+  - 荒井優希、[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[小畑優奈](../Page/小畑優奈.md "wikilink")、[鎌田菜月](../Page/鎌田菜月.md "wikilink")、[北川綾巴](../Page/北川綾巴.md "wikilink")、[熊崎晴香](https://zh.wikipedia.org/wiki/熊崎晴香 "wikilink")、[佐藤佳穗](https://zh.wikipedia.org/wiki/佐藤佳穗 "wikilink")、[末永櫻花](https://zh.wikipedia.org/wiki/末永櫻花 "wikilink")、[菅原茉椰](https://zh.wikipedia.org/wiki/菅原茉椰 "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、[惣田紗莉渚](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[竹內彩姫](https://zh.wikipedia.org/wiki/竹內彩姫 "wikilink")、[日高優月](https://zh.wikipedia.org/wiki/日高優月 "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、松井珠理奈
 
 ### 鄉民們啊
 
-  - 江籠裕奈、大場美奈、小畑優奈、北川綾巴、[北野瑠華](https://zh.wikipedia.org/wiki/北野瑠華 "wikilink")、熊崎晴香、[後藤樂樂](https://zh.wikipedia.org/wiki/後藤樂樂 "wikilink")、菅原茉椰、須田亞香里、惣田紗莉渚、高柳明音、古畑奈和、松井珠理奈
+  - 江籠裕奈、大場美奈、小畑優奈、北川綾巴、[北野瑠華](https://zh.wikipedia.org/wiki/北野瑠華 "wikilink")、熊崎晴香、[後藤樂樂](../Page/後藤樂樂.md "wikilink")、菅原茉椰、須田亞香里、惣田紗莉渚、高柳明音、古畑奈和、松井珠理奈
 
 ### 凍僵之前
 

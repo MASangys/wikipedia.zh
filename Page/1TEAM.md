@@ -16,9 +16,9 @@ Woo、Je Hyun及Jung Hoon。
 
 ### 韓國音樂著作權協會之登記編號
 
-| 成員                                                  | 登記名稱       | 登記編號     |
-| --------------------------------------------------- | ---------- | -------- |
-| [陳成鎬](https://zh.wikipedia.org/wiki/陳成鎬 "wikilink") | BRYAN CHIN | 10006326 |
+| 成員                               | 登記名稱       | 登記編號     |
+| -------------------------------- | ---------- | -------- |
+| [陳成鎬](../Page/陳成鎬.md "wikilink") | BRYAN CHIN | 10006326 |
 
 ## 活動經歷
 
@@ -26,11 +26,11 @@ Woo、Je Hyun及Jung Hoon。
 
 **BC**：
 
-2013年10月21日，以藝名Ra.E於團體[I-REX出道](https://zh.wikipedia.org/wiki/I-REX "wikilink")，可惜在發表出道歌曲\[2\]不久後，團體便解散。
+2013年10月21日，以藝名Ra.E於團體[I-REX出道](../Page/I-REX.md "wikilink")，可惜在發表出道歌曲\[2\]不久後，團體便解散。
 
-[I-REX解散後](https://zh.wikipedia.org/wiki/I-REX "wikilink")，2015年至2016年，曾為[Unicorn作伴舞員](https://zh.wikipedia.org/wiki/Unicorn_\(女子團體\) "wikilink")。
+[I-REX解散後](../Page/I-REX.md "wikilink")，2015年至2016年，曾為[Unicorn作伴舞員](../Page/Unicorn_\(女子團體\).md "wikilink")。
 
-2016年6月18日，以個人練習生身份參與《[少年24](../Page/少年24.md "wikilink")》，成功晉身24強，之後進行為期約一年的劇場公演活動。2017年8月12日，節目舉行總決賽，成功晉身出道組，計畫以[IN2IT出道](https://zh.wikipedia.org/wiki/IN2IT "wikilink")。可惜於同年8月14日，宣布因音樂理念不同，決定退出出道組\[3\]。
+2016年6月18日，以個人練習生身份參與《[少年24](../Page/少年24.md "wikilink")》，成功晉身24強，之後進行為期約一年的劇場公演活動。2017年8月12日，節目舉行總決賽，成功晉身出道組，計畫以[IN2IT出道](../Page/IN2IT.md "wikilink")。可惜於同年8月14日，宣布因音樂理念不同，決定退出出道組\[3\]。
 
 2017年10月29日，以Liveworks
 Company練習生身份參與《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，比賽進行約三個多月，最終排名第15名，未能透過節目出道。

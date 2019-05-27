@@ -4,7 +4,7 @@
 single1date =  | single2 = 雙子座 | single2date =  }} }}
 
 《空手道》
-()是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[安-瑪莉於](https://zh.wikipedia.org/wiki/安-瑪莉_\(英國歌手\) "wikilink")2015年7月10日由Major
+()是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[安-瑪莉於](../Page/安-瑪莉_\(英國歌手\).md "wikilink")2015年7月10日由Major
 Tom's和庇護所唱片發行的首張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
 
 ## 曲目

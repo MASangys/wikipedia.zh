@@ -9,8 +9,7 @@ Junior以[利特](../Page/利特.md "wikilink")、[希澈](../Page/希澈.md "wi
 More
 Time》的MV拍攝及概念照，不參與其餘專輯錄製和唱跳與宣傳活動。所以有八人參與MV，但實際上只有七人參與唱跳演出，而[圭賢因入伍服役](../Page/圭賢.md "wikilink")、[強仁因酒駕自省中](../Page/強仁.md "wikilink")、[晟敏與粉絲溝通不良遭抵制自省中](../Page/晟敏.md "wikilink")，三人均不參與該專輯的錄製與宣傳活動。
 
-2018年9月17日，[Label
-SJ官方公布Super](https://zh.wikipedia.org/wiki/Label_SJ "wikilink")
+2018年9月17日，[Label SJ官方公布Super](../Page/Label_SJ.md "wikilink")
 Junior將於10月8日發行特別迷你專輯回歸歌壇，於9月27日發布先行曲《Animals》的音源及MV；9月27日，官方表示因《Animals》MV製作過程發生問題，將延後發佈MV，音源依原定時間公開；10月1日，《Animals》Visual
 Pack公開。
 
@@ -50,13 +49,13 @@ JUNIOR的歡樂感，令人忍不住隨歌起舞的歌曲。\[5\]
 <tr class="odd">
 <td><p>韓國</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表" title="wikilink">專輯週榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon專輯冠軍作品列表.md" title="wikilink">專輯週榜</a></p></td>
 <td><p>2018年10月7日－10月13日</p></td>
 <td><p>#2</p></td>
 <td><p>[6]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2018年10月</p></td>
 <td><p>#3<br />
 （145,447張）</p></td>

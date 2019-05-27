@@ -1,6 +1,6 @@
 **Cozy城倉**（，），[日本男性](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[漫畫原作者](https://zh.wikipedia.org/wiki/漫畫原作者 "wikilink")。出身於[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")。當初筆名「**♡城倉**（<small></small>）」（《》連載開始時未使用「♡」）。負責漫畫原作時筆名「**森高夕次**（<small></small>）」。
 
-代表作有《》、《》及《》，及擔當漫畫原作的《[錢進球場](https://zh.wikipedia.org/wiki/錢進球場 "wikilink")》、《》。
+代表作有《》、《》及《》，及擔當漫畫原作的《[錢進球場](../Page/錢進球場.md "wikilink")》、《》。
 
 ## 經歷
 
@@ -8,7 +8,7 @@
 Comic
 Superior](../Page/Big_Comic_Superior.md "wikilink")》（[小學館](../Page/小學館.md "wikilink")）雜誌上進行《》的連載。
 
-2013年以其擔任原作的作品《[錢進球場](https://zh.wikipedia.org/wiki/錢進球場 "wikilink")》與作畫[足立刑事同獲第](../Page/足立金太郎.md "wikilink")37屆[講談社漫畫獎的一般部門獎](../Page/講談社漫畫獎.md "wikilink")\[2\]\[3\]。
+2013年以其擔任原作的作品《[錢進球場](../Page/錢進球場.md "wikilink")》與作畫[足立刑事同獲第](../Page/足立金太郎.md "wikilink")37屆[講談社漫畫獎的一般部門獎](../Page/講談社漫畫獎.md "wikilink")\[2\]\[3\]。
 
 ## 人物
 
@@ -53,7 +53,7 @@ Superior](../Page/Big_Comic_Superior.md "wikilink")》（[小學館](../Page/小
 
   - （繪：）
 
-  - （繪：[藤代健](../Page/藤代健.md "wikilink")（版）、[月子](https://zh.wikipedia.org/wiki/月子_\(漫畫家\) "wikilink")（《[Big
+  - （繪：[藤代健](../Page/藤代健.md "wikilink")（版）、[月子](../Page/月子_\(漫畫家\).md "wikilink")（《[Big
     Comic Superior](../Page/Big_Comic_Superior.md "wikilink")》版））
 
   - （繪：）[台灣東販](../Page/台灣東販.md "wikilink")
@@ -77,7 +77,7 @@ Superior](../Page/Big_Comic_Superior.md "wikilink")》（[小學館](../Page/小
 
 他之前在《[週刊少年Champion](../Page/週刊少年Champion.md "wikilink")》（[秋田書店](../Page/秋田書店.md "wikilink")）2007年第34號，以「**森高夕次**」名義發表插圖。
 
-自身擔當原作《[錢進球場](https://zh.wikipedia.org/wiki/錢進球場 "wikilink")》改編電視動畫版第2期決定製作之後，一樣以森高夕次名義作為ED動畫分鏡一職參與\[11\]。
+自身擔當原作《[錢進球場](../Page/錢進球場.md "wikilink")》改編電視動畫版第2期決定製作之後，一樣以森高夕次名義作為ED動畫分鏡一職參與\[11\]。
 
 ## 助手
 

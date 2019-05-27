@@ -21,7 +21,7 @@
 ## 參見
 
   -
-  - [西雅圖橋樑列表](https://zh.wikipedia.org/wiki/西雅圖橋樑列表 "wikilink")
+  - [西雅圖橋樑列表](../Page/西雅圖橋樑列表.md "wikilink")
 
 ## 參考資料
 

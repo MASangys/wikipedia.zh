@@ -1,11 +1,11 @@
-《**HANN**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE](https://zh.wikipedia.org/wiki/\(G\)I-DLE "wikilink")
+《**HANN**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")
 首張數位單曲，於2018年8月14日推出。
 
 ## 簡介
 
 ### 預告
 
-8月1日，CUBE娛樂相關人士表示，[(G)I-DLE](https://zh.wikipedia.org/wiki/\(G\)I-DLE "wikilink")
+8月1日，CUBE娛樂相關人士表示，[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")
 正在加緊籌備專輯中，預計於8月中旬回歸。\[1\]8月5日，官方社群帳號發佈Whistle版本預告。\[2\]8月6日，官方社群帳號宣布，確定將於8月14日攜首張數位單曲《HANN》回歸。\[3\]
 
 ### 正式發行

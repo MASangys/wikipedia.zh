@@ -80,7 +80,7 @@ Fire》上连载\[1\]，全12集[電視動畫版於](https://zh.wikipedia.org/wi
 ### 主题曲
 
   - 片頭曲「」
-    作詞：栁館周平，作曲、編曲：齋藤真也，主唱：勇者小隊（尤夏（[赤尾光](https://zh.wikipedia.org/wiki/赤尾光 "wikilink")）、塞拉（[夏川椎菜](https://zh.wikipedia.org/wiki/夏川椎菜 "wikilink")）、法伊（[小澤亞李](../Page/小澤亞李.md "wikilink")）、梅（[水瀨祈](../Page/水瀨祈.md "wikilink")））
+    作詞：栁館周平，作曲、編曲：齋藤真也，主唱：勇者小隊（尤夏（[赤尾光](../Page/赤尾光.md "wikilink")）、塞拉（[夏川椎菜](../Page/夏川椎菜.md "wikilink")）、法伊（[小澤亞李](../Page/小澤亞李.md "wikilink")）、梅（[水瀨祈](../Page/水瀨祈.md "wikilink")））
   - 片尾曲「Wonder Caravan\!」
     作詞、作曲、編曲：新田目翔，主唱：水瀨祈
 
@@ -131,7 +131,7 @@ Fire》上连载\[1\]，全12集[電視動畫版於](https://zh.wikipedia.org/wi
 <td><p>第4卷</p></td>
 <td></td>
 <td><p>大海、泳衣與討伐惡神～！</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鴻野貴光" title="wikilink">鴻野貴光</a></p></td>
+<td><p><a href="../Page/鴻野貴光.md" title="wikilink">鴻野貴光</a></p></td>
 <td><p>林直孝</p></td>
 <td><p>古川博之<br />
 濱崎徹<br />
@@ -145,8 +145,8 @@ Fire》上连载\[1\]，全12集[電視動畫版於](https://zh.wikipedia.org/wi
 <td></td>
 <td><p>我的勇者大人～！</p></td>
 <td><p>青島崇</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/八谷賢一" title="wikilink">八谷賢一</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山本天志" title="wikilink">山本天志</a></p></td>
+<td><p><a href="../Page/八谷賢一.md" title="wikilink">八谷賢一</a></p></td>
+<td><p><a href="../Page/山本天志.md" title="wikilink">山本天志</a></p></td>
 <td><p>壽夢龍、永山惠<br />
 小菅洋</p></td>
 </tr>
@@ -166,7 +166,7 @@ Fire》上连载\[1\]，全12集[電視動畫版於](https://zh.wikipedia.org/wi
 <td></td>
 <td><p>蘿娜公主和法伊奮鬥記～！</p></td>
 <td><p>杉原研二</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小寺勝之" title="wikilink">小寺勝之</a></p></td>
+<td><p><a href="../Page/小寺勝之.md" title="wikilink">小寺勝之</a></p></td>
 <td><p>村田尚樹</p></td>
 <td><p>黑田和也、細田沙織<br />
 德田夢之介、酒井孝裕<br />
@@ -200,7 +200,7 @@ Level Zero</p></td>
 <td></td>
 <td><p>雪山之夢～！</p></td>
 <td><p>鴻野貴光</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山本天志" title="wikilink">山本天志</a></p></td>
+<td><p><a href="../Page/山本天志.md" title="wikilink">山本天志</a></p></td>
 <td><p>服部益實、永田有香<br />
 片岡惠美子</p></td>
 <td></td>

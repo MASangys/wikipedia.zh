@@ -5,7 +5,7 @@ Roman设计而成的](../Page/Times_New_Roman.md "wikilink")。1996年，Nimbus
 Roman No. 9
 L以[GNU通用公共许可证和](../Page/GNU通用公共许可证.md "wikilink")授权发布\[3\]\[4\]\[5\]\[6\]，也以[Adobe
 Type
-1字体格式成为了](https://zh.wikipedia.org/wiki/PostScript字型 "wikilink")35款[Ghostscript基本字体之一](../Page/Ghostscript.md "wikilink")\[7\]\[8\]。2009年，该字体又以授权发布\[9\]\[10\]\[11\]。因为Nimbus
+1字体格式成为了](../Page/PostScript字型.md "wikilink")35款[Ghostscript基本字体之一](../Page/Ghostscript.md "wikilink")\[7\]\[8\]。2009年，该字体又以授权发布\[9\]\[10\]\[11\]。因为Nimbus
 Roman No. 9
 L是一款[自由字体](../Page/自由软件.md "wikilink")，所以[Debian](../Page/Debian.md "wikilink")、[Ubuntu等主流的](../Page/Ubuntu.md "wikilink")[Linux发行版都有预安装这款字体](../Page/Linux发行版列表.md "wikilink")，它们的[软件包管理系统中也含有这款字体的](../Page/软件包管理系统.md "wikilink")[软件包](https://zh.wikipedia.org/wiki/软件包 "wikilink")\[12\]\[13\]。
 
@@ -34,7 +34,7 @@ New Roman制作而成，所以其字体风格和Times New Roman很相似。
     URW++ Nimbus Roman No. 9 L商业使用版本\]
   - [Ghostscript Git - URW
     fonts](https://git.ghostscript.com/?p=urw-core35-fonts.git)（[Type
-    1格式](https://zh.wikipedia.org/wiki/PostScript字型 "wikilink")、[OTF格式和](../Page/OpenType.md "wikilink")[TTF格式](../Page/TrueType.md "wikilink")）
+    1格式](../Page/PostScript字型.md "wikilink")、[OTF格式和](../Page/OpenType.md "wikilink")[TTF格式](../Page/TrueType.md "wikilink")）
   - [Nimbus Roman No. 9 L-Regular - font
     metrics](https://git.ghostscript.com/?p=urw-core35-fonts.git;a=blob;f=NimbusRoman-Italic.afm)
   - [Ghostscript更新日志](https://web.archive.org/web/20110711092052/http://svn.ghostscript.com/ghostscript/trunk/urw-fonts/ChangeLog)（含Nimbus系列字体）

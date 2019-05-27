@@ -1,5 +1,5 @@
 《**My Little
-Television**》**第二季**（），简称《**MLT2**》（）是现有的TV明星和社会各阶层的专家中选出5位明星展示只属于自己的独特内容，并直接在网上现场直播的[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")1人对决节目，使用[Twitch每两周一次在星期五进行现场直播](https://zh.wikipedia.org/wiki/Twitch "wikilink")，在以偶数（双数）期结尾处会播放暗示下一期出演者的[剪影以引领提高网民的推理和参与度](https://zh.wikipedia.org/wiki/剪影 "wikilink")\[1\]。
+Television**》**第二季**（），简称《**MLT2**》（）是现有的TV明星和社会各阶层的专家中选出5位明星展示只属于自己的独特内容，并直接在网上现场直播的[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")1人对决节目，使用[Twitch每两周一次在星期五进行现场直播](../Page/Twitch.md "wikilink")，在以偶数（双数）期结尾处会播放暗示下一期出演者的[剪影以引领提高网民的推理和参与度](https://zh.wikipedia.org/wiki/剪影 "wikilink")\[1\]。
 
 ## 播出列表
 

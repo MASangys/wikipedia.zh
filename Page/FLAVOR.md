@@ -1,4 +1,4 @@
-**FLAVOR**（）為韓國女子音樂組合[FANATICS的小分隊](https://zh.wikipedia.org/wiki/FANATICS "wikilink")，由[FANATICS成員](https://zh.wikipedia.org/wiki/FANATICS "wikilink")\[1\]\[2\]鍍我、允惠與台灣成員家儀\[3\]\[4\]組成。
+**FLAVOR**（）為韓國女子音樂組合[FANATICS的小分隊](../Page/FANATICS.md "wikilink")，由[FANATICS成員](../Page/FANATICS.md "wikilink")\[1\]\[2\]鍍我、允惠與台灣成員家儀\[3\]\[4\]組成。
 
 ## 歷程
 
@@ -17,7 +17,7 @@
 | ----------------------------------------------------- |
 | 藝名                                                    |
 | 漢字                                                    |
-| [家儀](https://zh.wikipedia.org/wiki/家儀 "wikilink")     |
+| [家儀](../Page/家儀.md "wikilink")                        |
 | **[允惠](https://zh.wikipedia.org/wiki/允惠 "wikilink")** |
 | [鍍我](https://zh.wikipedia.org/wiki/鍍我 "wikilink")     |
 

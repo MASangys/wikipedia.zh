@@ -27,9 +27,9 @@ X**（羅馬字母中的X，英語发音為「ten」，R為[小型大寫字母](
 X{{Smallcaps
 all與iPhone](https://zh.wikipedia.org/wiki/iPhone_XS "wikilink") X
 Max皆為[iPhone
-X的續作](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")，於2018年9月12日在[蘋果園區史蒂夫](https://zh.wikipedia.org/wiki/蘋果園區 "wikilink")·賈伯斯劇院（）上發表，是一部"平價版"\[1\]iPhone\[2\]。螢幕尺寸6.1吋，比iPhone
+X的續作](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")，於2018年9月12日在[蘋果園區史蒂夫](../Page/蘋果園區.md "wikilink")·賈伯斯劇院（）上發表，是一部"平價版"\[1\]iPhone\[2\]。螢幕尺寸6.1吋，比iPhone
 X大，但比iPhone X Max小。防水防塵等級與[iPhone
-8系列相同](https://zh.wikipedia.org/wiki/IPhone_8 "wikilink")。
+8系列相同](../Page/IPhone_8.md "wikilink")。
 
 它有六种颜色可供选择：黑色，白色，蓝色，黄色，珊瑚色和[Product
 Red](../Page/Product_Red.md "wikilink")（红色特别版）。X是继[iPhone
@@ -43,9 +43,8 @@ X可透过两张nano-SIM卡实现双卡功能\[3\]；而在其他地区，可透
 ### 设计
 
 iPhone X沿用[iPhone
-X的](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")[全面屏设计](https://zh.wikipedia.org/wiki/全螢幕手機 "wikilink")，圆角显示屏一直延伸到屏幕边缘。由于搭载[面容
-ID](https://zh.wikipedia.org/wiki/面容_ID "wikilink")，手机正面仍然有“刘海”设计。与iPhone
-X、[XS/XS
+X的](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")[全面屏设计](../Page/全螢幕手機.md "wikilink")，圆角显示屏一直延伸到屏幕边缘。由于搭载[面容
+ID](../Page/面容_ID.md "wikilink")，手机正面仍然有“刘海”设计。与iPhone X、[XS/XS
 Max不同](../Page/IPhone_XS.md "wikilink")，X的机身并未采用不锈钢，而是沿用了[iPhone
 8时代的铝合金](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")+玻璃背板设计。iPhone
 X提供六种颜色，分别是黑色、白色、蓝色、黄色、珊瑚红色以及[Product
@@ -65,7 +64,7 @@ Touch](https://zh.wikipedia.org/wiki/Haptic_Touch "wikilink")”功能弥补三�
 ### 性能
 
 iPhone X搭载有与X/X
-Max相同的[A12仿生芯片](https://zh.wikipedia.org/wiki/Apple_A12_Bionic "wikilink")。该芯片采用7纳米制程，包含有六核[中央处理器与四核](../Page/中央处理器.md "wikilink")[图形处理器](../Page/圖形處理器.md "wikilink")，与[A11仿生相比](https://zh.wikipedia.org/wiki/Apple_A11_Bionic "wikilink")，在能耗控制和图形处理上得到了长足进步。此外，A12仿生还搭载八核心的神经网络引擎，用于运行ARKit和Core
+Max相同的[A12仿生芯片](../Page/Apple_A12_Bionic.md "wikilink")。该芯片采用7纳米制程，包含有六核[中央处理器与四核](../Page/中央处理器.md "wikilink")[图形处理器](../Page/圖形處理器.md "wikilink")，与[A11仿生相比](../Page/Apple_A11_Bionic.md "wikilink")，在能耗控制和图形处理上得到了长足进步。此外，A12仿生还搭载八核心的神经网络引擎，用于运行ARKit和Core
 ML架构，使得iPhone
 X具备了[增强现实](../Page/擴增實境.md "wikilink")、智能HDR等功能。\[5\]iPhone
 X配备3GB[内存](../Page/随机存取存储器.md "wikilink")，电池容量2942mAh，比iPhone 8
@@ -85,7 +84,7 @@ iPhone
 X正面搭载700万像素的原深感摄像头，光圈f/2.2。该原深感摄像头模组包括摄像头、红外镜头、泛光感应元件与点阵投影器，组合实现各种情况下的人脸识别与景深识别。该摄像头支持全部五种人像光效，还支持[动话表情](https://zh.wikipedia.org/wiki/Animoji "wikilink")、拟我表情、智能HDR与视频防抖功能。\[9\]\[10\]
 
 iPhone X的[面容
-ID透过点阵投影器将三万余个肉眼不可见光点投射在使用者面部](https://zh.wikipedia.org/wiki/面容_ID "wikilink")，得到面部三维信息；再由红外镜头、泛光感应元件接收点阵图案并把数据发送至A12处理器中的安全隔区进行比对。借助A12处理器的机器学习能力，它可以学习识别使用者面容变化，从而在使用者佩戴眼镜、帽子或化妆等情况下仍然能够识别。面容
+ID透过点阵投影器将三万余个肉眼不可见光点投射在使用者面部](../Page/面容_ID.md "wikilink")，得到面部三维信息；再由红外镜头、泛光感应元件接收点阵图案并把数据发送至A12处理器中的安全隔区进行比对。借助A12处理器的机器学习能力，它可以学习识别使用者面容变化，从而在使用者佩戴眼镜、帽子或化妆等情况下仍然能够识别。面容
 ID可用于解锁手机、登录和解锁应用、运用[Apple
 Pay在线上或线下支付](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")。\[11\]
 
@@ -111,7 +110,7 @@ Pay在线上或线下支付](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")
 
 由于iPhone XR销量不佳，苹果在2018年底开始向日本的运营商提供补贴以降低透过运营商渠道销售的iPhone
 XR价格。\[13\]在苹果美国和中国大陆官方网站，苹果推出了针对iPhone
-XR的较大力度的以旧换新折扣优惠。\[14\]2019年1月，苹果开始向中国大陆经销商提供补贴，部分第三方渠道如[京东](https://zh.wikipedia.org/wiki/京东 "wikilink")、[拼多多销售的iPhone](https://zh.wikipedia.org/wiki/拼多多 "wikilink")
+XR的较大力度的以旧换新折扣优惠。\[14\]2019年1月，苹果开始向中国大陆经销商提供补贴，部分第三方渠道如[京东](https://zh.wikipedia.org/wiki/京东 "wikilink")、[拼多多销售的iPhone](../Page/拼多多.md "wikilink")
 XR价格下降近千元人民币。\[15\]
 
 2019年4月1日，苹果中国大陆Apple
@@ -158,7 +157,7 @@ A2108（中國大陸、香港、澳門）</p></td>
 </tr>
 <tr class="even">
 <td><p>芯片</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A12_Bionic" title="wikilink">A12仿生芯片配备新一代神经网络引擎</a></p></td>
+<td><p><a href="../Page/Apple_A12_Bionic.md" title="wikilink">A12仿生芯片配备新一代神经网络引擎</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>SIM卡</p></td>
@@ -177,7 +176,7 @@ nano-SIM与eSIM（其余版本）</p></td>
 <td><p>后置相机</p></td>
 <td><p>1200万<a href="../Page/像素.md" title="wikilink">像素廣角鏡頭</a>，f/1.8<a href="../Page/焦比.md" title="wikilink">光圈</a>，5倍數碼變焦，支持<a href="../Page/自动对焦.md" title="wikilink">自动对焦</a>、曝光控制和光學防手震，配備<a href="https://zh.wikipedia.org/wiki/红外截止滤波片" title="wikilink">红外截止滤波片及支持慢速同步模式的原彩</a><a href="../Page/闪光灯.md" title="wikilink">闪光灯</a><br />
 拍照：支持连拍、<a href="../Page/全景图.md" title="wikilink">全景图</a>、、人像模式、智慧HDR<br />
-录像：立體聲錄音，最高支持60<a href="../Page/帧率.md" title="wikilink">fps</a> <a href="https://zh.wikipedia.org/wiki/4K分辨率" title="wikilink">4K</a>-{zh-cn:高清;zh-tw:高畫質}-影片，支持電影級影片防震功能（1080p及720p），可拍摄高达<a href="../Page/1080p.md" title="wikilink">1080p</a> 240 <a href="../Page/帧率.md" title="wikilink">fps的</a><a href="https://zh.wikipedia.org/wiki/慢动作" title="wikilink">慢动作视频</a>，支持配備防震功能的<a href="../Page/縮時攝影.md" title="wikilink">缩时摄影</a></p></td>
+录像：立體聲錄音，最高支持60<a href="../Page/帧率.md" title="wikilink">fps</a> <a href="https://zh.wikipedia.org/wiki/4K分辨率" title="wikilink">4K</a>-{zh-cn:高清;zh-tw:高畫質}-影片，支持電影級影片防震功能（1080p及720p），可拍摄高达<a href="../Page/1080p.md" title="wikilink">1080p</a> 240 <a href="../Page/帧率.md" title="wikilink">fps的</a><a href="../Page/慢动作.md" title="wikilink">慢动作视频</a>，支持配備防震功能的<a href="../Page/縮時攝影.md" title="wikilink">缩时摄影</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>前置相机</p></td>
@@ -209,8 +208,7 @@ X的评价褒贬不一。XR相对合理的价格、多彩的配色与强劲性�
 
 ### 大事记
 
-  - 2018年9月12日，苹果在[苹果园区发布iPhone](https://zh.wikipedia.org/wiki/蘋果園區 "wikilink")
-    X。
+  - 2018年9月12日，苹果在[苹果园区发布iPhone](../Page/蘋果園區.md "wikilink") X。
   - 2018年10月19日，iPhone
     X在美国、澳大利亚、英国、法国、德国、日本、印度、中国大陆、香港、台湾、新加坡、马来西亚、沙特阿拉伯、阿联酋等50个国家或地区开始预购。
   - 2018年10月26日，iPhone X在以上50个国家或地区发售。

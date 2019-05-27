@@ -5,14 +5,13 @@ Anniversary**」（）是日本的女子偶像組合[早安少女組。的第](.
 
   - 「Best\! 早安少女組。20th
     Anniversary」是[早安少女組。出道以來的第](../Page/早安少女組。.md "wikilink")7張精選專輯。與上一張專輯「
-    [⑮ Thank you,
-    too](https://zh.wikipedia.org/wiki/⑮_Thank_you,_too "wikilink")」相距約2年3個月。
+    [⑮ Thank you, too](../Page/⑮_Thank_you,_too.md "wikilink")」相距約2年3個月。
   - 收錄第35張單曲「[結橘未完](../Page/結橘未完.md "wikilink")」至第66張單曲「[自由銀座/自由國度](https://zh.wikipedia.org/wiki/自由銀座/自由國度 "wikilink")」共32張單曲，並且收錄了「I
     surrender 愛されど愛」、「恋してみたくて」二首新曲等。
   - 本作分「初回AB盤」和「通常盤」3種版本。
   - 初回A盤中收錄了於2018年8月12日所舉辦的「rockin'on presents ROCK IN JAPAN FESTIVAL
     2018」及「I surrender 愛されど愛」的藍光影像。
-  - 初回B盤中收錄了已發行單曲「[我什麼都不明白](https://zh.wikipedia.org/wiki/⑮_Thank_you,_too "wikilink")」、[凜冽寒風與單相思](https://zh.wikipedia.org/wiki/凜冽寒風與單相思_/_ENDLESS_SKY_/_One_and_Only "wikilink")、[自由國度以及](https://zh.wikipedia.org/wiki/自由銀座/自由國度 "wikilink")2018年9月26日以[ハロプロ・オールスターズ名義發行的](../Page/早安家族.md "wikilink")[嚮往的Stress-free其他演唱版本](https://zh.wikipedia.org/wiki/YEAH_YEAH_YEAH/嚮往的Stress-free/花、最盛開之時 "wikilink")。
+  - 初回B盤中收錄了已發行單曲「[我什麼都不明白](../Page/⑮_Thank_you,_too.md "wikilink")」、[凜冽寒風與單相思](https://zh.wikipedia.org/wiki/凜冽寒風與單相思_/_ENDLESS_SKY_/_One_and_Only "wikilink")、[自由國度以及](https://zh.wikipedia.org/wiki/自由銀座/自由國度 "wikilink")2018年9月26日以[ハロプロ・オールスターズ名義發行的](../Page/早安家族.md "wikilink")[嚮往的Stress-free其他演唱版本](https://zh.wikipedia.org/wiki/YEAH_YEAH_YEAH/嚮往的Stress-free/花、最盛開之時 "wikilink")。
   - 原訂於3月13日發行，由於製作上的問題延後一個禮拜3月20日發行。
   - 3月20日於公信榜專輯週排行榜取得第1名，是自2003年3月推出原創專輯No. 5以來睽違整整十六年再度拿下週冠。
 
@@ -460,12 +459,12 @@ Anniversary**」（）是日本的女子偶像組合[早安少女組。的第](.
       -
         66th單曲。
 12. **[我什麼都不明白(早安少女組。'15
-    Ver.)](https://zh.wikipedia.org/wiki/⑮_Thank_you,_too "wikilink")**（私のなんにもわかっちゃない(モーニング娘。'15
+    Ver.)](../Page/⑮_Thank_you,_too.md "wikilink")**（私のなんにもわかっちゃない(モーニング娘。'15
     Ver‧)）
     （作詞・作曲：淳君　編曲：大久保薰）
       -
         [⑮ Thank you,
-        too收錄之單曲](https://zh.wikipedia.org/wiki/⑮_Thank_you,_too "wikilink")；包含[鞘師里保](../Page/鞘師里保.md "wikilink")、[鈴木香音在內](../Page/鈴木香音.md "wikilink")，由[早安少女組。'15](../Page/早安少女組。.md "wikilink")13名成員演唱，初次音源化。
+        too收錄之單曲](../Page/⑮_Thank_you,_too.md "wikilink")；包含[鞘師里保](../Page/鞘師里保.md "wikilink")、[鈴木香音在內](../Page/鈴木香音.md "wikilink")，由[早安少女組。'15](../Page/早安少女組。.md "wikilink")13名成員演唱，初次音源化。
 13. **[凜冽寒風與單相思(TYPE
     B)](https://zh.wikipedia.org/wiki/凜冽寒風與單相思_/_ENDLESS_SKY_/_One_and_Only "wikilink")**（冷たい風と片思い(TYPE
     B)）
@@ -506,7 +505,7 @@ Anniversary**」（）是日本的女子偶像組合[早安少女組。的第](.
   - 10期：[飯窪春菜](../Page/飯窪春菜.md "wikilink")、[石田亞佑美](../Page/石田亞佑美.md "wikilink")、[佐藤優樹](../Page/佐藤優樹.md "wikilink")、[工藤遙](../Page/工藤遙.md "wikilink")
   - 11期：[小田櫻](../Page/小田櫻.md "wikilink")
   - 12期：[尾形春水](../Page/尾形春水.md "wikilink")、[野中美希](../Page/野中美希.md "wikilink")、[牧野真莉愛](../Page/牧野真莉愛.md "wikilink")、[羽賀朱音](../Page/羽賀朱音.md "wikilink")
-  - 13期：[加賀楓](https://zh.wikipedia.org/wiki/加賀楓 "wikilink")、[橫山玲奈](https://zh.wikipedia.org/wiki/橫山玲奈 "wikilink")
+  - 13期：[加賀楓](../Page/加賀楓.md "wikilink")、[橫山玲奈](../Page/橫山玲奈.md "wikilink")
   - 14期：[森戶知沙希](../Page/森戶知沙希.md "wikilink")
 
 [Category:早安少女組。音樂專輯](https://zh.wikipedia.org/wiki/Category:早安少女組。音樂專輯 "wikilink")

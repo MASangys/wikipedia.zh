@@ -6,7 +6,7 @@
 
 ## 背景
 
-此曲是關於[背叛及](https://zh.wikipedia.org/wiki/背叛 "wikilink")[寬恕](https://zh.wikipedia.org/wiki/寬恕 "wikilink")\[5\]。他透露：此曲是為了他朋友的[經歷而寫的](../Page/經歷.md "wikilink")\[6\]
+此曲是關於[背叛及](https://zh.wikipedia.org/wiki/背叛 "wikilink")[寬恕](../Page/寬恕.md "wikilink")\[5\]。他透露：此曲是為了他朋友的[經歷而寫的](../Page/經歷.md "wikilink")\[6\]
 。
 
 ## [歌詞譯文](https://zh.wikipedia.org/wiki/歌詞 "wikilink")

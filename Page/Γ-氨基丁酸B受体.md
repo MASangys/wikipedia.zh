@@ -9,7 +9,7 @@ Bowery和他的团队使用放射性标记的[巴氯芬确定其在](https://zh.
 该受体的激活可以刺激K<sup>+</sup>通道的开放，使神经元更接近K<sup>+</sup>的[平衡电位](https://zh.wikipedia.org/wiki/平衡电位 "wikilink")。这降低了动作电位的频率，从而减少了神经递质的释放。因此，GABA<sub>B</sub>受体是抑制性受体。
 
 研究显示通过使用具有[Gi
-/G0α亚基的G蛋白](https://zh.wikipedia.org/wiki/Gi_/G0α亚基 "wikilink")，GABA<sub>B</sub>受体的激活还降低[腺苷酸环化酶和](https://zh.wikipedia.org/wiki/腺苷酸环化酶 "wikilink")[Ca2<sup>+</sup>通道的活性](https://zh.wikipedia.org/wiki/钙通道 "wikilink")。\[4\]
+/G0α亚基的G蛋白](https://zh.wikipedia.org/wiki/Gi_/G0α亚基 "wikilink")，GABA<sub>B</sub>受体的激活还降低[腺苷酸环化酶和](../Page/腺苷酸环化酶.md "wikilink")[Ca2<sup>+</sup>通道的活性](https://zh.wikipedia.org/wiki/钙通道 "wikilink")。\[4\]
 
 GABA<sub>B</sub>受体参与[乙醇](../Page/乙醇.md "wikilink")\[5\]，[γ-羟基丁酸](https://zh.wikipedia.org/wiki/γ-羟基丁酸 "wikilink")（[GHB](../Page/Γ-羟基丁酸.md "wikilink")）\[6\]，并可能在疼痛\[7\]的生理作用。最近的研究表明，这些受体可能发挥更重要的作用。\[8\]
 

@@ -1,24 +1,24 @@
-《**這本BL不得了！**》（）為[日本宙出版從](../Page/日本.md "wikilink")2008年起所發行的[BL作品導覽書](https://zh.wikipedia.org/wiki/BL_\(和製英語\) "wikilink")\[1\]。由讀者及專業人士投票選出BL類型的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[小說各](https://zh.wikipedia.org/wiki/小說 "wikilink")20部並在書中詳細介紹，在每年的12月公布翌年度名單。
+《**這本BL不得了！**》（）為[日本宙出版從](../Page/日本.md "wikilink")2008年起所發行的[BL作品導覽書](../Page/BL_\(和製英語\).md "wikilink")\[1\]。由讀者及專業人士投票選出BL類型的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[小說各](https://zh.wikipedia.org/wiki/小說 "wikilink")20部並在書中詳細介紹，在每年的12月公布翌年度名單。
 
 ## 漫畫獲選名單（僅列出歷屆第一名）
 
 ### 2009至2010年度
 
-  - 2009年度第一名：《[同級生](https://zh.wikipedia.org/wiki/同級生_\(漫畫\) "wikilink")》[中村明日美子](../Page/中村明日美子.md "wikilink")\[2\]
+  - 2009年度第一名：《[同級生](../Page/同級生_\(漫畫\).md "wikilink")》[中村明日美子](../Page/中村明日美子.md "wikilink")\[2\]
   - 2010年度第一名：《愛在絕境重生》[水城雪可奈](../Page/水城雪可奈.md "wikilink")\[3\]
 
 ### 2011至2015年度
 
-  - 2011年度第一名：《[卒業生](https://zh.wikipedia.org/wiki/同級生_\(漫畫\) "wikilink")》中村明日美子\[4\]
+  - 2011年度第一名：《[卒業生](../Page/同級生_\(漫畫\).md "wikilink")》中村明日美子\[4\]
   - 2012年度第一名：《鮫島君和笹原君》[腰乃](https://zh.wikipedia.org/wiki/腰乃 "wikilink")\[5\]
-  - 2013年度第一名：《[空與原](https://zh.wikipedia.org/wiki/同級生_\(漫畫\) "wikilink")》中村明日美子\[6\]
+  - 2013年度第一名：《[空與原](../Page/同級生_\(漫畫\).md "wikilink")》中村明日美子\[6\]
   - 2014年度第一名：《東京心中》[トウテムポール](../Page/圖騰柱_\(漫畫家\).md "wikilink")\[7\]
-  - 2015年度第一名：《[O.B.](https://zh.wikipedia.org/wiki/同級生_\(漫畫\) "wikilink")》中村明日美子\[8\]
+  - 2015年度第一名：《[O.B.](../Page/同級生_\(漫畫\).md "wikilink")》中村明日美子\[8\]
 
 ### 2016至2020年度
 
   - 2016年度第一名：《[10
-    Count](https://zh.wikipedia.org/wiki/10_Count "wikilink")》[寶井理人](https://zh.wikipedia.org/wiki/寶井理人 "wikilink")\[9\]
+    Count](../Page/10_Count.md "wikilink")》[寶井理人](https://zh.wikipedia.org/wiki/寶井理人 "wikilink")\[9\]
   - 2017年度第一名：《憂鬱的早晨》[日高翔子](https://zh.wikipedia.org/wiki/日高翔子 "wikilink")\[10\]
   - 2018年度第一名：《百與卍》[紗久楽さわ](https://zh.wikipedia.org/wiki/紗久楽さわ "wikilink")\[11\]
   - 2019年度第一名：《rumspringa的情景》（ラムスプリンガの情景）[吾妻香夜](https://zh.wikipedia.org/wiki/吾妻香夜 "wikilink")\[12\]

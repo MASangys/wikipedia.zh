@@ -63,7 +63,7 @@
 <!-- end list -->
 
   -
-    聲優：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")，台：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")
+    聲優：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")，台：[馮嘉德](../Page/馮嘉德.md "wikilink")
     第一部的女主角之一，MÄR
     Heaven大國**雷斯特瓦國**公主。14歲。為逃出後母**黛安娜**的控制而離開雷斯塔瓦。在被Chess兵隊追捕時用冰之ARM將自己封印在巴茲利加島的一座古城堡中，被銀太用火之ARM所救出。後加入MÄR隊對抗Chess兵隊。擁有與銀太現實世界的同學小雪一模一樣的相貌，並和小雪有著微妙連繫，在6th戰爭遊戲中被魔術師羅打敗並抓去雷斯特瓦，漫畫版在桃樂斯殺死黛安娜後被救出，並和父親團聚，動畫版中雖被魔術師羅所救，但在第95集發現自己是黛安娜用小雪的靈魂創造的，並且在96集被邪惡水晶球所殺，為了幫助銀太而跟小雪合併而沒復活。MÄR隊的一員，擅長使用冰為武器的冰之使。
     第二部漫畫中以黑影登場，被保護於雷斯特瓦，似乎已成為MÄR Heaven的精神象徵。
@@ -83,7 +83,7 @@
 <!-- end list -->
 
   -
-    聲優：[中島沙樹](../Page/中島沙樹.md "wikilink")，台：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")
+    聲優：[中島沙樹](../Page/中島沙樹.md "wikilink")，台：[馮嘉德](../Page/馮嘉德.md "wikilink")
     第一部的女主角之一，同時有「動畫版中的女主角」的稱號，MÄR
     Heaven惡名昭彰的魔女,17歲。魔法之國卡魯帝亞出身。Chess兵隊皇后－黛安娜的妹妹。在收集散落於MÄR
     Heaven各地的ARM時，遇見來自現實世界的銀太。總是熱情的表現出對銀太的喜愛。在開朗的笑容下，卻背負殺掉親姊姊的悲傷宿命，在成功殺了黛安娜拯救MÄR
@@ -112,7 +112,7 @@
 <!-- end list -->
 
   -
-    聲優：[阪口大助](../Page/阪口大助.md "wikilink")，台：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")
+    聲優：[阪口大助](../Page/阪口大助.md "wikilink")，台：[馮嘉德](../Page/馮嘉德.md "wikilink")
     住在巴茲利加島的少年,14歲。故事開篇時，在銀太幫助下擊退了騷擾他們家的魯加爾兄弟。為了鍛鍊自己成為真正的男子漢而與銀太一同冒險。父親是十字軍成員。夢想是培育出能穿越天空的植物,最後夢想終於得以實現。MÄR隊的一員，使用各式植物種子及武器ARM－戰鬥銀鏟的植物使。
     第二部漫畫中已跟芭諾結婚，在凱伊因承受不住巴波的魔力而瀕臨死亡的時候給了艾爾莎能拯救凱伊的花朵，因而救了凱伊。
     角色名字來源：《[傑克與魔豆](https://zh.wikipedia.org/wiki/傑克與魔豆 "wikilink")》
@@ -262,7 +262,7 @@
 ## 現實世界的人物
 
   -
-    聲優：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")，台：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")
+    聲優：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")，台：[馮嘉德](../Page/馮嘉德.md "wikilink")
     銀太的玩伴和同學。睡覺時，會和**白雪**有所聯結。
     第二部漫畫中伴隨銀太一起登場。
 
@@ -550,7 +550,7 @@ Heaven戰爭結束後潛入銀太父親的軀體，成為國王。 後來被銀�
 <!-- end list -->
 
   -
-    聲優：[佐佐木優子](https://zh.wikipedia.org/wiki/佐佐木優子 "wikilink")，台：[錢欣郁](../Page/錢欣郁.md "wikilink")
+    聲優：[佐佐木優子](../Page/佐佐木優子.md "wikilink")，台：[錢欣郁](../Page/錢欣郁.md "wikilink")
     奇洛姆的姐姐。個性殘酷、歇斯底里、好戰、自我中心，擅自殺掉輸掉的同伴，所以事後被驅逐騎士的行列。在4TH與桃樂絲戰鬥敗北。5TH後在魅影給的生存決鬥與伊安戰鬥，結果慘死。
     角色名字來源：同名童話拉普潔（《[長髮公主](https://zh.wikipedia.org/wiki/長髮公主 "wikilink")》）
 
@@ -631,7 +631,7 @@ Heaven戰爭結束後潛入銀太父親的軀體，成為國王。 後來被銀�
 <!-- end list -->
 
   -
-    聲優：[宇垣秀成](https://zh.wikipedia.org/wiki/宇垣秀成 "wikilink")
+    聲優：[宇垣秀成](../Page/宇垣秀成.md "wikilink")
     芭諾和雷諾的父親。戰爭遊戲第1回合敗給銀太 ，動畫版第97集中被邪惡水晶球殺死，後復活， 。
 
 :; 持有的ARM：
@@ -762,7 +762,7 @@ Heaven戰爭結束後潛入銀太父親的軀體，成為國王。 後來被銀�
 <!-- end list -->
 
   -
-    聲優：[笹本優子](https://zh.wikipedia.org/wiki/笹本優子 "wikilink")，台：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
+    聲優：[笹本優子](../Page/笹本優子.md "wikilink")，台：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
     蓋隆的女兒，16歲，戰爭遊戲第1，3回合和傑克對戰。第一回合戰勝，第3回合敗北。由於在第三回合戰時中了傑克的「魔法的蘑菇」，產生幻覺後發現傑克變的很英俊因而愛上他，在第二部漫畫時和傑克結婚並有了孩子。
 
 :; 持有的ARM：
@@ -832,7 +832,7 @@ Heaven戰爭結束後潛入銀太父親的軀體，成為國王。 後來被銀�
 <!-- end list -->
 
   -
-    聲優：[富坂晶](https://zh.wikipedia.org/wiki/富坂晶 "wikilink")
+    聲優：[富坂晶](../Page/富坂晶.md "wikilink")
     與梅魯可亞一起襲擊銀太與傑克。使用的ARM是彩虹盾牌。
     角色名字來源：九大行星中的「[火星](../Page/火星.md "wikilink")」
 
@@ -894,7 +894,7 @@ Heaven戰爭結束後潛入銀太父親的軀體，成為國王。 後來被銀�
     [氷青](https://zh.wikipedia.org/wiki/氷青 "wikilink") (遊戲)
     坎沛爾底下幽靈Chess的一員，同時也是坎沛爾的秘書，遊戲版中因為身上的幽靈ARM緣故無法說話，後被魅影殺死，動畫版中她的話連斐拉三姊妹也無法違抗，與MÄR戰鬥時因為過度使用ARM，身體被侵蝕而死亡。
   -
-    聲優：[白熊寬嗣](https://zh.wikipedia.org/wiki/白熊寬嗣 "wikilink")(動畫) /
+    聲優：[白熊寬嗣](../Page/白熊寬嗣.md "wikilink")(動畫) /
     [酒井敬幸](https://zh.wikipedia.org/wiki/酒井敬幸 "wikilink")(遊戲)
     幽靈Chess的一員，與帕斯共同行動，動畫版中使用的ARM與帕斯的ARM有連動效果。在莎拉死後，對於同伴的死亡感到恐懼。最後被坎沛爾的ARM所吸收。
 
@@ -923,7 +923,7 @@ Heaven戰爭結束後潛入銀太父親的軀體，成為國王。 後來被銀�
 
   -
     聲優：[門脇舞以](../Page/門脇舞以.md "wikilink")(動畫) /
-    [西川葉月](https://zh.wikipedia.org/wiki/西川葉月 "wikilink")(遊戲)
+    [西川葉月](../Page/西川葉月.md "wikilink")(遊戲)
     幽靈Chess的一員，是斐拉三姊妹的三女，使用的幽靈ARM是無敵小紅帽。動畫版最後被坎沛爾的ARM所吸收，遊戲版最後為了幫助阿爾維斯因而用盡了最後的力量。
 
 ## chess相關

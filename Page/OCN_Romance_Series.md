@@ -48,7 +48,7 @@ Series**（）是[韓國有線頻道](https://zh.wikipedia.org/wiki/韓國 "wiki
 <tr class="even">
 <td><p>2017年11月6日－<br />
 2017年12月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Melo_Holic_愛情中毒" title="wikilink">Melo Holic</a><br />
+<td><p><a href="../Page/Melo_Holic_愛情中毒.md" title="wikilink">Melo Holic</a><br />
 </p></td>
 <td><p>10</p></td>
 <td><p><a href="../Page/鄭允浩.md" title="wikilink">鄭允浩</a>、<a href="../Page/景收真.md" title="wikilink">景收真</a></p></td>
@@ -84,7 +84,7 @@ Series**（）是[韓國有線頻道](https://zh.wikipedia.org/wiki/韓國 "wiki
 <tr class="even">
 <td><p>2018年1月8日－<br />
 2018年2月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/操心" title="wikilink">操心</a><br />
+<td><p><a href="../Page/操心.md" title="wikilink">操心</a><br />
 </p></td>
 <td><p>10</p></td>
 <td><p><a href="../Page/李正信.md" title="wikilink">李正信</a>、<a href="../Page/李烈音.md" title="wikilink">李烈音</a></p></td>
@@ -95,10 +95,10 @@ Series**（）是[韓國有線頻道](https://zh.wikipedia.org/wiki/韓國 "wiki
 <tr class="odd">
 <td><p>2018年2月12日－<br />
 2018年2月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Short_(電視劇)" title="wikilink">Short</a><br />
+<td><p><a href="../Page/Short_(電視劇).md" title="wikilink">Short</a><br />
 </p></td>
 <td><p>4</p></td>
-<td><p><a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a>、<a href="https://zh.wikipedia.org/wiki/呂會鉉" title="wikilink">呂會鉉</a></p></td>
+<td><p><a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a>、<a href="../Page/呂會鉉.md" title="wikilink">呂會鉉</a></p></td>
 <td><p>金正愛</p></td>
 <td><p>金英民</p></td>
 <td><p>特別企劃</p></td>
@@ -106,7 +106,7 @@ Series**（）是[韓國有線頻道](https://zh.wikipedia.org/wiki/韓國 "wiki
 <tr class="even">
 <td><p>2018年3月5日－<br />
 2018年4月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/那個男人_吳秀" title="wikilink">那個男人 吳秀</a><br />
+<td><p><a href="../Page/那個男人_吳秀.md" title="wikilink">那個男人 吳秀</a><br />
 </p></td>
 <td><p>16</p></td>
 <td><p><a href="../Page/李宗泫.md" title="wikilink">李宗泫</a>、<a href="https://zh.wikipedia.org/wiki/金昭誾" title="wikilink">金昭誾</a></p></td>

@@ -43,7 +43,7 @@ Manford被时任总统[贝拉克·奥巴马授予](../Page/贝拉克·奥巴马.
 PFLAG
 National和PFLAG分会网络在地方，州和联邦层面进行宣传，并就各种问题发布了公共政策声明。\[17\]在20世纪90年代早期，马萨诸塞州的PFLAG分会帮助通过了该国的第一个安全学校立法。到20世纪90年代中期，PFLAG帮助通过了教育部的裁决，即保护男女同性恋学生免受基于性取向的骚扰。PFLAG
 National一直在前线帮助废除[不问，不说](https://zh.wikipedia.org/wiki/不问，不说 "wikilink")；在美国争取婚姻平等的斗争中
--包括向美国最高法院提交[法院之友简报](https://zh.wikipedia.org/wiki/法院之友 "wikilink")；\[18\]努力终止所谓的“[转换疗法](https://zh.wikipedia.org/wiki/改變性取向的嘗試 "wikilink")”并打击危险的RFRA（宗教自由恢复）法案等等。
+-包括向美国最高法院提交[法院之友简报](https://zh.wikipedia.org/wiki/法院之友 "wikilink")；\[18\]努力终止所谓的“[转换疗法](../Page/改變性取向的嘗試.md "wikilink")”并打击危险的RFRA（宗教自由恢复）法案等等。
 
 ## 历任主席
 

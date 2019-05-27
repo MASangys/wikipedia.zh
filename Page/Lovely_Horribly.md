@@ -27,7 +27,7 @@ Horribly**》（），為韓國[KBS2於](https://zh.wikipedia.org/wiki/KBS2 "wik
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><br />
-<small>（童年：<a href="https://zh.wikipedia.org/wiki/申隣雅" title="wikilink">申隣雅</a>）</p></td>
+<small>（童年：<a href="../Page/申隣雅.md" title="wikilink">申隣雅</a>）</p></td>
 <td><p>吳乙蕣[3][4]</p></td>
 <td><p>放送界的幽靈作家，她的遭遇很不幸但是她並沒有被挫折打倒，依舊非常積極樂觀，因為她覺得自己是個受人喜愛，也很走運的人。8年前由於無聊寫了獨幕劇劇本，但卻意外獲得了獨幕劇劇本公募最優秀獎，也因此以編劇身份出道，之後一直以電視劇輔助作家的身份努力創作著劇本</p></td>
 </tr>
@@ -169,7 +169,7 @@ Horribly**》（），為韓國[KBS2於](https://zh.wikipedia.org/wiki/KBS2 "wik
 <td><p>裝了義眼的命理師，與弼立的母親熟識</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金芝恩" title="wikilink">金芝恩</a></p></td>
+<td><p><a href="../Page/金芝恩.md" title="wikilink">金芝恩</a></p></td>
 <td><p>李水晶</p></td>
 <td><p>奇恩英的助理編劇，因為《鬼神之戀》的劇本，身邊接二連三地發生了奇怪的事</p></td>
 </tr>
@@ -518,11 +518,11 @@ Horribly**》（），為韓國[KBS2於](https://zh.wikipedia.org/wiki/KBS2 "wik
 ## 同時段競爭作品
 
   - [MBC](../Page/文化廣播公司.md "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[生死決斷羅曼史](https://zh.wikipedia.org/wiki/生死決斷羅曼史 "wikilink")》、《[壞爸爸](https://zh.wikipedia.org/wiki/壞爸爸 "wikilink")》
+    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[生死決斷羅曼史](../Page/生死決斷羅曼史.md "wikilink")》、《[壞爸爸](https://zh.wikipedia.org/wiki/壞爸爸 "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[雖然30但仍17](https://zh.wikipedia.org/wiki/雖然30但仍17 "wikilink")》、《[狐狸新娘星](https://zh.wikipedia.org/wiki/狐狸新娘星 "wikilink")》
+    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[雖然30但仍17](../Page/雖然30但仍17.md "wikilink")》、《[狐狸新娘星](https://zh.wikipedia.org/wiki/狐狸新娘星 "wikilink")》
   - [tvN](../Page/TVN.md "wikilink")
-    [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[一起吃飯吧3：Begins](https://zh.wikipedia.org/wiki/一起吃飯吧3：Begins "wikilink")》、《[百日的郎君](../Page/百日的郎君.md "wikilink")》
+    [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[一起吃飯吧3：Begins](../Page/一起吃飯吧3：Begins.md "wikilink")》、《[百日的郎君](../Page/百日的郎君.md "wikilink")》
   - [JTBC](../Page/JTBC.md "wikilink")
     [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[Beauty
     Inside](https://zh.wikipedia.org/wiki/Beauty_Inside_\(電視劇\) "wikilink")》

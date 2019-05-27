@@ -30,7 +30,7 @@ HITS》，专辑中歌曲《Feel》被[可口可乐起用为广告歌](../Page/�
 
   - [卡莉怪妞](https://zh.wikipedia.org/wiki/卡莉怪妞 "wikilink") （2011年－）
 
-  - [神圣kamattechan](https://zh.wikipedia.org/wiki/神聖かまってちゃん "wikilink")（2010年－）
+  - [神圣kamattechan](../Page/神聖かまってちゃん.md "wikilink")（2010年－）
 
   - （2018年－）
 
@@ -45,7 +45,7 @@ HITS》，专辑中歌曲《Feel》被[可口可乐起用为广告歌](../Page/�
   - [livetune](https://zh.wikipedia.org/wiki/livetune "wikilink")
     （2016年－）
 
-  - [WANIMA](https://zh.wikipedia.org/wiki/WANIMA "wikilink") （2017年－）
+  - [WANIMA](../Page/WANIMA.md "wikilink") （2017年－）
 
   - （2017年－）
 

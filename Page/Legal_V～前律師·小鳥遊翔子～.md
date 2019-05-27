@@ -9,10 +9,10 @@
   - 小鳥遊翔子：[米倉涼子](https://zh.wikipedia.org/wiki/米倉涼子 "wikilink")
   - 青島圭太：[林遣都](../Page/林遣都.md "wikilink")
   - 海崎勇人：[向井理](../Page/向井理.md "wikilink")
-  - 馬場雄一：[荒川良良](https://zh.wikipedia.org/wiki/荒川良良 "wikilink")
+  - 馬場雄一：[荒川良良](../Page/荒川良良.md "wikilink")
   - 伊藤理惠：[安達祐實](../Page/安達祐實.md "wikilink")
   - 茅野明：[三浦翔平](../Page/三浦翔平.md "wikilink")
-  - 大鷹高志：[勝村政信](https://zh.wikipedia.org/wiki/勝村政信 "wikilink")
+  - 大鷹高志：[勝村政信](../Page/勝村政信.md "wikilink")
   - 京極雅彥：
   - 白鳥美奈子：[菜菜緒](../Page/菜菜緒.md "wikilink")
   - 天馬壯一郎：[小日向文世](../Page/小日向文世.md "wikilink")

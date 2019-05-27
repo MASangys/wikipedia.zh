@@ -39,7 +39,7 @@
 ## 轉乘路線
 
   - [京阪電車](https://zh.wikipedia.org/wiki/京阪電車 "wikilink")[京阪本線野江站](../Page/京阪本線.md "wikilink")：步行距離約160公尺
-  - [大阪地下鐵](https://zh.wikipedia.org/wiki/大阪地下鐵 "wikilink")[谷町線](https://zh.wikipedia.org/wiki/谷町線 "wikilink")[野江內代站](https://zh.wikipedia.org/wiki/野江內代站 "wikilink")：步行距離約600公尺
+  - [大阪地下鐵](https://zh.wikipedia.org/wiki/大阪地下鐵 "wikilink")[谷町線](https://zh.wikipedia.org/wiki/谷町線 "wikilink")[野江內代站](../Page/野江內代站.md "wikilink")：步行距離約600公尺
 
 ## 相鄰車站
 

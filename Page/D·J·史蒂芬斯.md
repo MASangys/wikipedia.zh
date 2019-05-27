@@ -15,10 +15,9 @@ style="text-align:center;" colspan="2"| 職業生涯 | 3 || 0 || 5.0 || 42.9 ||
 
 ### NBA季後賽數據統計
 
-|- | align="left" |
-[2018–19](https://zh.wikipedia.org/wiki/2019年NBA季後賽 "wikilink")
-| align="left" | [MEM](../Page/2018-19_曼菲斯灰熊賽季.md "wikilink") | 0 || 0
-|| 0.0 || 0.0 || 0.0 || 0.0 || 0.0 || 0.0 || 0.0 || 0.0 || 0.0 |-
+|- | align="left" | [2018–19](../Page/2019年NBA季後賽.md "wikilink") |
+align="left" | [MEM](../Page/2018-19_曼菲斯灰熊賽季.md "wikilink") | 0 || 0 ||
+0.0 || 0.0 || 0.0 || 0.0 || 0.0 || 0.0 || 0.0 || 0.0 || 0.0 |-
 class="sortbottom" | style="text-align:center;" colspan="2"| 職業生涯 | 0 ||
 0 || 0.0 || 0.0 || 0.0 || 0.0 || 0.0 || 0.0 || 0.0 || 0.0 || 0.0
 

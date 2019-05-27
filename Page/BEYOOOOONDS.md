@@ -1,6 +1,6 @@
 **BEYOOOOONDS**（****），[日本](../Page/日本.md "wikilink")[Hello\!
-Project旗下的一女子偶像團體](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")\[1\]。團體於2018年結成，目前有十二名成員（[CHICA\#TETSU及](https://zh.wikipedia.org/wiki/BEYOOOOONDS "wikilink")[雨之森
-川海皆為原](https://zh.wikipedia.org/wiki/BEYOOOOONDS "wikilink")[Hello\!
+Project旗下的一女子偶像團體](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")\[1\]。團體於2018年結成，目前有十二名成員（[CHICA\#TETSU及](../Page/BEYOOOOONDS.md "wikilink")[雨之森
+川海皆為原](../Page/BEYOOOOONDS.md "wikilink")[Hello\!
 Pro研修生昇格](../Page/Hello!_Pro研修生.md "wikilink")）\[2\]。「BEYOOOOONDS」又分為「CHICA\#TETSU」及「雨之森
 川海」、「Hello\!Project ONLY YOU徵選會」所選出的合格者，共三團\[3\]\[4\]。
 
@@ -327,7 +327,7 @@ Pro研修生昇格](../Page/Hello!_Pro研修生.md "wikilink")）\[2\]。「BEYO
 <td><p>2017年8月11日</p></td>
 <td></td>
 <td><p>誤爆～We Can't Go Back～</p></td>
-<td><p>以一岡伶奈、<a href="https://zh.wikipedia.org/wiki/段原瑠瑠" title="wikilink">段原瑠瑠</a>、<a href="https://zh.wikipedia.org/wiki/川村文乃" title="wikilink">川村文乃</a>、高瀬くるみ、清野桃々姫為名義發行。</p></td>
+<td><p>以一岡伶奈、<a href="../Page/段原瑠瑠.md" title="wikilink">段原瑠瑠</a>、<a href="https://zh.wikipedia.org/wiki/川村文乃" title="wikilink">川村文乃</a>、高瀬くるみ、清野桃々姫為名義發行。</p></td>
 </tr>
 <tr class="even">
 <td></td>

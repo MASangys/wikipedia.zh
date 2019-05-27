@@ -135,8 +135,7 @@ into the second Libyan civil war.
 The second Libyan civil war\[31\]\[32\] is an ongoing conflict among
 rival groups seeking control of the territory of Libya. The conflict has
 been mostly between the government of the [Council of
-Deputies](https://zh.wikipedia.org/wiki/国民代表大会_\(利比亚\) "wikilink") that
-was [elected
+Deputies](../Page/国民代表大会_\(利比亚\).md "wikilink") that was [elected
 democratically](https://zh.wikipedia.org/wiki/Libyan_Council_of_Deputies_election,_2014 "wikilink")
 in 2014 and internationally recognized as the "Libyan Government", also
 known as the "[Tobruk](../Page/图卜鲁格.md "wikilink") government"; and the
@@ -146,10 +145,10 @@ called the "[National Salvation
 Government](https://zh.wikipedia.org/wiki/National_Salvation_Government "wikilink")",
 based in the capital [Tripoli](../Page/的黎波里.md "wikilink"). In December
 2015 these two factions agreed in principle to unite as the [Government
-of National Accord](https://zh.wikipedia.org/wiki/民族團結政府 "wikilink").
-Although the Government of National Accord is now functioning, its
-authority is still unclear as specific details acceptable to both sides
-have not yet been agreed upon.
+of National Accord](../Page/民族團結政府.md "wikilink"). Although the
+Government of National Accord is now functioning, its authority is still
+unclear as specific details acceptable to both sides have not yet been
+agreed upon.
 
 The Tobruk government, strongest in eastern Libya, has the loyalty of
 Haftar's Libyan National Army and has been supported by air strikes by
@@ -187,8 +186,7 @@ Nations](https://zh.wikipedia.org/wiki/联合国 "wikilink") brokered a
 government" arrived in Tripoli.\[41\] On 5 April, the Islamist
 government in western Libya announced that it was suspending operations
 and handing power to the new unity government, officially named the
-"[Government of National
-Accord](https://zh.wikipedia.org/wiki/民族團結政府 "wikilink")",
+"[Government of National Accord](../Page/民族團結政府.md "wikilink")",
 although it was not yet clear whether the new arrangement would
 succeed.\[42\] On 2 July, rival leaders reached an agreement to reunify
 the eastern and western managements of Libya's [National Oil

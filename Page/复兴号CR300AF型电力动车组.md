@@ -4,7 +4,7 @@
 
 CR300系列复兴号动车组（250km/h级）是自CR400系列（350km/h级）、CR200J系列（160km/h级）之后，复兴号动车组的第三个级别。
 
-2018年初，CR300系列复兴号动车组开始设计评审\[2\]，2018年9月末，CR300AF-0001样车制造完成下线。10月17日，0001样车无火回送至[北京环铁试验中心准备进行测试](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")。12月7日，0001号车回送至[成都站](../Page/成都站.md "wikilink")。12月13日，0001号车开始在正处于联调联试期间的[成贵客运专线](https://zh.wikipedia.org/wiki/成贵客运专线 "wikilink")[乐山至](https://zh.wikipedia.org/wiki/乐山站 "wikilink")[兴文段进行测试运行](https://zh.wikipedia.org/wiki/兴文站 "wikilink")。
+2018年初，CR300系列复兴号动车组开始设计评审\[2\]，2018年9月末，CR300AF-0001样车制造完成下线。10月17日，0001样车无火回送至[北京环铁试验中心准备进行测试](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")。12月7日，0001号车回送至[成都站](../Page/成都站.md "wikilink")。12月13日，0001号车开始在正处于联调联试期间的[成贵客运专线](https://zh.wikipedia.org/wiki/成贵客运专线 "wikilink")[乐山至](../Page/乐山站.md "wikilink")[兴文段进行测试运行](https://zh.wikipedia.org/wiki/兴文站 "wikilink")。
 
 ## 車輛構造
 
@@ -169,7 +169,7 @@ ZE xxxx00</p></td>
 
   - [中国动车组列表](https://zh.wikipedia.org/wiki/中国动车组列表 "wikilink")
   - [CR200J型电力动车组](https://zh.wikipedia.org/wiki/CR200J型电力动车组 "wikilink")
-  - [CR300BF型电力动车组](https://zh.wikipedia.org/wiki/复兴号CR300BF型电力动车组 "wikilink")
+  - [CR300BF型电力动车组](../Page/复兴号CR300BF型电力动车组.md "wikilink")
   - [CR400AF型电力动车组](https://zh.wikipedia.org/wiki/CR400AF型电力动车组 "wikilink")
   - [CR400BF型电力动车组](https://zh.wikipedia.org/wiki/CR400BF型电力动车组 "wikilink")
 

@@ -1,7 +1,7 @@
 \== 正好樂團 ==
 
 > (英文:JPM-Just Play
-> music)[臺灣](../Page/臺灣.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，由主唱[正皓玄](https://zh.wikipedia.org/wiki/正皓玄 "wikilink")、吉他手馬蹄楊、貝斯劉傑洛、鼓手陳仁昭四人組成。
+> music)[臺灣](../Page/臺灣.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，由主唱[正皓玄](../Page/正皓玄.md "wikilink")、吉他手馬蹄楊、貝斯劉傑洛、鼓手陳仁昭四人組成。
 
 > 團名由來:2018年相遇的四人暢談甚歡，正好四人都有空，那就組團吧\!於是『正好樂團』成立。
 

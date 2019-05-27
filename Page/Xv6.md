@@ -21,7 +21,7 @@ xv6已被用于许多著名大学的操作系统课程，包括：
 (美国)](../Page/东北大学_\(美国\).md "wikilink")\[6\]，
 [耶鲁大学](../Page/耶鲁大学.md "wikilink")\[7\]，[哥伦比亚大学](../Page/哥伦比亚大学.md "wikilink")\[8\]，
 [约翰·霍普金斯大学](../Page/约翰·霍普金斯大学.md "wikilink")\[9\]，
-[波特蘭州立大學](https://zh.wikipedia.org/wiki/波特蘭州立大學 "wikilink")\[10\]，南方耶稣复临大学\[11\]，[威斯康星大学麦迪逊分校](../Page/威斯康星大学麦迪逊分校.md "wikilink")\[12\]，
+[波特蘭州立大學](../Page/波特蘭州立大學.md "wikilink")\[10\]，南方耶稣复临大学\[11\]，[威斯康星大学麦迪逊分校](../Page/威斯康星大学麦迪逊分校.md "wikilink")\[12\]，
 [宾汉顿大学](../Page/宾汉顿大学.md "wikilink")，[犹他大学](../Page/犹他大学.md "wikilink")\[13\]\[14\]，
 [加利福尼亚州大学欧文分校](../Page/加州大學爾灣分校.md "wikilink")\[15\]，
 [加利福尼亞大學河濱分校](../Page/加利福尼亞大學河濱分校.md "wikilink")\[16\]，[伊利诺伊大学芝加哥分校](https://zh.wikipedia.org/wiki/伊利诺伊大学芝加哥分校 "wikilink")\[17\]，[罗格斯大学](../Page/罗格斯大学.md "wikilink")\[18\]。

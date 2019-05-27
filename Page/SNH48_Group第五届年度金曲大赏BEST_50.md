@@ -13,7 +13,7 @@ Group 2019年春季EP的B50特别纪念版内；小组合奖励机制则与上�
 
 ## 投票资格
 
-投票者需购买SNH48第21张EP[《魔女的诗篇》《天空信》或《终无艳》以获取投票券](https://zh.wikipedia.org/wiki/魔女的诗篇 "wikilink")。其中，精装版专辑每张含3张投票券（60次投票权），标准版、捐赠版每张含1张投票券（20次投票权）。每次投票权可用于票选一首最喜爱歌曲及其表演阵容，或用于在运营方指定的人员范围内票选小组合成员阵容，或转作[第四届风尚大赏投票券之用](https://zh.wikipedia.org/wiki/SNH48_GROUP第四届年度风尚大赏 "wikilink")，但不得同时用于两种及以上用途。\[3\]\[4\]
+投票者需购买SNH48第21张EP[《魔女的诗篇》《天空信》或《终无艳》以获取投票券](../Page/魔女的诗篇.md "wikilink")。其中，精装版专辑每张含3张投票券（60次投票权），标准版、捐赠版每张含1张投票券（20次投票权）。每次投票权可用于票选一首最喜爱歌曲及其表演阵容，或用于在运营方指定的人员范围内票选小组合成员阵容，或转作[第四届风尚大赏投票券之用](https://zh.wikipedia.org/wiki/SNH48_GROUP第四届年度风尚大赏 "wikilink")，但不得同时用于两种及以上用途。\[3\]\[4\]
 
 ## 速报
 
@@ -207,7 +207,7 @@ Group 2019年春季EP的B50特别纪念版内；小组合奖励机制则与上�
 <tr class="even">
 <td><p>22</p></td>
 <td><p>《暴走少女》</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Team_NIII_2nd_Stage“第1人称”公演" title="wikilink">第1人称</a>》</p></td>
+<td><p>《<a href="../Page/Team_NIII_2nd_Stage“第1人称”公演.md" title="wikilink">第1人称</a>》</p></td>
 <td></td>
 <td><p>马玉灵</p></td>
 <td><p>陈珂</p></td>
@@ -481,7 +481,7 @@ Team X</p></td>
 <td><p>《荣耀勋章》</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/BEJ48發行作品列表#宣言" title="wikilink">宣言</a>》</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/莫寒" title="wikilink">莫寒</a></p></td>
+<td><p><a href="../Page/莫寒.md" title="wikilink">莫寒</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -656,7 +656,7 @@ Team B</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/Team_Z_3rd_Stage“三角函数”公演" title="wikilink">三角函数</a>》</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/戴萌" title="wikilink">戴萌</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/莫寒" title="wikilink">莫寒</a></p></td>
+<td><p><a href="../Page/莫寒.md" title="wikilink">莫寒</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -668,14 +668,12 @@ Team B</p></td>
 
   - 宣布开启「SNH48
     Group海外練習生」計劃，SNH48周睿林、SNH48李佳恩、GNZ48徐佳音、SHY48高崇、SHY48王秋茹五名00後新生代成員，前往海外基地接受為期兩年的高水準封閉培訓。
-  - 宣布成立「[IDOLS
-    Ft](https://zh.wikipedia.org/wiki/IDOLS_Ft "wikilink")」，成員由SNH48
+  - 宣布成立「[IDOLS Ft](../Page/IDOLS_Ft.md "wikilink")」，成員由SNH48
     Group在籍的部分成員調整加入，此後將主要通過口袋48等自有渠道，及第三方合作的互聯網互動平台與粉絲互動，實現完全基於互聯網的偶像養成運營模式；而该团亦设立选拔制度，令该团成员有加入或重新加入SNH48、BEJ48及GNZ48的可能。
   - [SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink") Team
     Ft、[SHY48Team](../Page/SHY48.md "wikilink") SIII、SHY48 Team
-    HIII、[CKG48](https://zh.wikipedia.org/wiki/CKG48 "wikilink") Team
-    C、CKG48 Team K解散。
-  - 对[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")、[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")、[SHY48](../Page/SHY48.md "wikilink")、[CKG48在籍成员进行重组](https://zh.wikipedia.org/wiki/CKG48 "wikilink")。
+    HIII、[CKG48](../Page/CKG48.md "wikilink") Team C、CKG48 Team K解散。
+  - 对[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")、[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")、[SHY48](../Page/SHY48.md "wikilink")、[CKG48在籍成员进行重组](../Page/CKG48.md "wikilink")。
   - 開始招募SNH48十二期生、BEJ48七期生、GNZ48七期生、SNH48 Group海外練習生。
   - 对北上广以外分团开启授权[特许经营模式](https://zh.wikipedia.org/wiki/特许经营 "wikilink")。
 
@@ -868,16 +866,16 @@ Dance》金曲大赏特别公演，作为“SNH48小组合竞舞挑战”活动�
     - 姜杉、戚予珠、沈梦瑶、宋昕冉、吴哲晗、易嘉爱、袁一琦、袁雨桢、张丹三、张昕
 2.  《[激流之战](../Page/无尽旋转.md "wikilink")》 -
     姜杉、戚予珠、沈梦瑶、宋昕冉、吴哲晗、易嘉爱、袁一琦、袁雨桢、张丹三、张昕
-3.  《[合理失控](https://zh.wikipedia.org/wiki/Team_G_3rd_Stage「雙面偶像」公演 "wikilink")》
-    - 江真儀、李佳恩、李美琪、李星羽、祁靜、王曉佳、謝天依、楊冰怡、張茜、張怡
+3.  《[合理失控](../Page/Team_G_3rd_Stage「雙面偶像」公演.md "wikilink")》 -
+    江真儀、李佳恩、李美琪、李星羽、祁靜、王曉佳、謝天依、楊冰怡、張茜、張怡
 4.  《[正义之手](../Page/源動力.md "wikilink")》 -
     江真儀、李佳恩、李美琪、李星羽、祁靜、王曉佳、謝天依、楊冰怡、張茜、張怡
 5.  《全部都是你》 - 吴哲晗、袁雨桢
-6.  《[SPY](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「B_A_FIGHTER」公演 "wikilink")》
-    - 宋昕冉、杨冰怡
+6.  《[SPY](../Page/Team_B_3rd_Stage「B_A_FIGHTER」公演.md "wikilink")》 -
+    宋昕冉、杨冰怡
 7.  《浪人琵琶》 - 戚予珠
-8.  《[美杜莎的温柔](https://zh.wikipedia.org/wiki/Team_G_3rd_Stage「雙面偶像」公演 "wikilink")》
-    - 江真仪、李美琪、王晓佳
+8.  《[美杜莎的温柔](../Page/Team_G_3rd_Stage「雙面偶像」公演.md "wikilink")》 -
+    江真仪、李美琪、王晓佳
 9.  《噩梦轮回》 - 张丹三
 10. 《明与暗》 - 沈梦瑶、张昕
 11. 《》＋《》 - 李佳恩、祁静、杨冰怡

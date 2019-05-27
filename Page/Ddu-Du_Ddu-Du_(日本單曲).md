@@ -25,7 +25,7 @@ Ddu-Du》的日語單曲者，將隨機抽選每場場次各100名歌迷，參�
 Japan頻道上公開](../Page/MTV_Japan.md "wikilink")\[14\]，8月17日通過[YouTube官方頻道公開簡短版本的日語版音樂錄影帶](../Page/YouTube.md "wikilink")。\[15\]
 
 發行後則在日本的特定地點開設概念「BLACKPINK Popup Store」，這是繼2017年發行《[As If It's Your
-Last](https://zh.wikipedia.org/wiki/As_If_It's_Your_Last "wikilink")》和2018年發行《Square
+Last](../Page/As_If_It's_Your_Last.md "wikilink")》和2018年發行《Square
 Up》後再次推行這種宣傳模式。快閃店在8月22日至8月26日期間置辦於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[原宿](../Page/原宿.md "wikilink")[竹下通的BOK](../Page/竹下通.md "wikilink")
 Gallery。\[16\]
 
@@ -42,22 +42,22 @@ Gallery。\[16\]
 <!-- end list -->
 
   - CD+數位音源
-    [Jennie版](https://zh.wikipedia.org/wiki/Jennie_\(韓國歌手\) "wikilink")（編號：AVCY-58712）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄5首歌曲的CD。
+    [Jennie版](../Page/Jennie_\(韓國歌手\).md "wikilink")（編號：AVCY-58712）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄5首歌曲的CD。
 
 <!-- end list -->
 
   - CD+數位音源
-    [Lisa版](https://zh.wikipedia.org/wiki/Lisa_\(泰國歌手\) "wikilink")（編號：AVCY-58713）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄5首歌曲的CD。
+    [Lisa版](../Page/Lisa_\(泰國歌手\).md "wikilink")（編號：AVCY-58713）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄5首歌曲的CD。
 
 <!-- end list -->
 
   - CD+數位音源
-    [Jisoo版](https://zh.wikipedia.org/wiki/金智秀_\(歌手\) "wikilink")（編號：AVCY-58714）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄5首歌曲的CD。
+    [Jisoo版](../Page/金智秀_\(歌手\).md "wikilink")（編號：AVCY-58714）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄5首歌曲的CD。
 
 <!-- end list -->
 
   - CD+數位音源
-    [Rosé版](https://zh.wikipedia.org/wiki/Rosé_\(韓國歌手\) "wikilink")（編號：AVCY-58715）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄5首歌曲的CD。
+    [Rosé版](../Page/Rosé_\(韓國歌手\).md "wikilink")（編號：AVCY-58715）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄5首歌曲的CD。
 
 ## 商業成績
 

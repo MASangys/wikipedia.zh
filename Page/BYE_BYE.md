@@ -1,10 +1,10 @@
 《**BYE
-BYE**》是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")[SHISHAMO的第](https://zh.wikipedia.org/wiki/SHISHAMO "wikilink")6张单曲，于2017年8月2日发行。
+BYE**》是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")[SHISHAMO的第](../Page/SHISHAMO.md "wikilink")6张单曲，于2017年8月2日发行。
 
 ## 简介
 
 2017年6月5日，SHISHAMO宣布了新单曲《BYE BYE》将要在8月2日发行，这是继2月发布专辑《[SHISHAMO
-4](https://zh.wikipedia.org/wiki/SHISHAMO_4 "wikilink")》之后的第一张作品。SHISHAMO自2014年的《[你与夏季音乐节](https://zh.wikipedia.org/wiki/你与夏季音乐节 "wikilink")》以来，每年夏季都会发行一张单曲\[1\]。而今年的主题是“炫酷的SHISHAMO”\[2\]\[3\]。乐队在《BYE
+4](../Page/SHISHAMO_4.md "wikilink")》之后的第一张作品。SHISHAMO自2014年的《[你与夏季音乐节](https://zh.wikipedia.org/wiki/你与夏季音乐节 "wikilink")》以来，每年夏季都会发行一张单曲\[1\]。而今年的主题是“炫酷的SHISHAMO”\[2\]\[3\]。乐队在《BYE
 BYE》这首歌曲的编曲中加入了钢琴伴奏，配合低沉的贝司声线和快速的吉他切音，使乐曲带有渐进的[爵士放克特色](https://zh.wikipedia.org/wiki/放克爵士乐 "wikilink")\[4\]。
 
 本张单曲中，《BYE

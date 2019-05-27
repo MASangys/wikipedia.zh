@@ -3,8 +3,8 @@ High**》(王牌大律師)（），為[韓國](https://zh.wikipedia.org/wiki/韓
 Cop
 2](../Page/Mrs._Cop_2.md "wikilink")》的金政賢、金尚浩導演與《[重案組](../Page/重案組_\(韓國電視劇\).md "wikilink")》的朴成鎮作家合作打造。此劇改編自日劇《[Legal
 High](../Page/Legal_High.md "wikilink")》，講述勝訴率100%的律師高泰林和擁有100%正義感的律師徐在仁，以截然不同的性格挑戰殺氣騰騰又充滿笑料的法律故事。\[1\]\[2\]\[3\]\[4\]
-香港地區由[Viu播出](../Page/Viu.md "wikilink")。台灣地區由[KKTV](https://zh.wikipedia.org/wiki/KKTV "wikilink")、[LINE
-TV](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")、[friDay影音每周六日中午](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")12點上架播出。
+香港地區由[Viu播出](../Page/Viu.md "wikilink")。台灣地區由[KKTV](../Page/KKTV.md "wikilink")、[LINE
+TV](../Page/LINE_TV.md "wikilink")、[friDay影音每周六日中午](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")12點上架播出。
 
 ## 演員陣容
 
@@ -28,7 +28,7 @@ TV](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")、[friDay影音每周六�
 <td><p>傲慢十足且無時無刻不在毒舌的勝率100%怪咖律師。在他看來，無論是刑事案還是民事案，沒有打贏的官司都毫無意義可言，只要失敗了一次別說是律師了，連人都不要做算了，雖然其要求的律師費驚人，但卻總是能夠以驚人的實力帶來官司的勝利。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/徐恩秀" title="wikilink">徐恩秀</a><br />
+<td><p><a href="../Page/徐恩秀.md" title="wikilink">徐恩秀</a><br />
 <small>（少年：金多仁）</p></td>
 <td><p>徐在仁</p></td>
 <td><p>在司法研修院成績墊底的新人，正義感十足的菜鳥律師。雖然一心想要當個為委屈的委託人辯護的正義律師，但卻屢屢在現實中碰壁，最終為了委託人以自己的律政人生為擔保，簽約一心只看錢和勝利的高泰林律所。</p></td>
@@ -103,7 +103,7 @@ TV](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")、[friDay影音每周六�
 <td><p>B&amp;G律師事務所的代表。作爲部長檢察官出身的律師建立律師事務所，憑藉特有的親和力和破格性選拔人才，短時間內成長爲業界上位圈的律師事務所的B&amp;G律師事務所的創始人之一。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭尚勳" title="wikilink">鄭尚勳</a></p></td>
+<td><p><a href="../Page/鄭尚勳.md" title="wikilink">鄭尚勳</a></p></td>
 <td><p>尹尚久</p></td>
 <td><p>B&amp;G的律師。意圖擊垮泰林後東山再起，雖然外表看上去很粗鄙，但一喝酒就變成很愛吐苦水的嘮叨的中年男人。</p></td>
 </tr>
@@ -225,12 +225,12 @@ TV](https://zh.wikipedia.org/wiki/LINE_TV "wikilink")、[friDay影音每周六�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴勝泰" title="wikilink">朴勝泰</a></p></td>
+<td><p><a href="../Page/朴勝泰.md" title="wikilink">朴勝泰</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/周錫泰" title="wikilink">周錫泰</a></p></td>
+<td><p><a href="../Page/周錫泰.md" title="wikilink">周錫泰</a></p></td>
 <td><p>劉名碩</p></td>
 <td><p>亮相電視節目的星級律師，徐在仁的老板，第一集被徐在仁暴打。</p></td>
 </tr>

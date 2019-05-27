@@ -1,5 +1,5 @@
 是一款由[Marvelous
-Entertainment開發](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")，由[萬代南夢宮娛樂發行在](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")[任天堂Switch平台上的](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")[模擬經營遊戲](https://zh.wikipedia.org/wiki/模擬經營遊戲 "wikilink")。為[牧場物語與](https://zh.wikipedia.org/wiki/牧場物語系列 "wikilink")[多啦A夢進行聯動合作的遊戲](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")。遊戲於2019年2月的[任天堂直面會上公佈相關消息](https://zh.wikipedia.org/wiki/任天堂直面會 "wikilink")，並於同年4月份確定會於2019年6月13日在[任天堂Switch平台發售](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")。
+Entertainment開發](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")，由[萬代南夢宮娛樂發行在](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")[任天堂Switch平台上的](../Page/任天堂Switch.md "wikilink")[模擬經營遊戲](https://zh.wikipedia.org/wiki/模擬經營遊戲 "wikilink")。為[牧場物語與](https://zh.wikipedia.org/wiki/牧場物語系列 "wikilink")[多啦A夢進行聯動合作的遊戲](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")。遊戲於2019年2月的[任天堂直面會上公佈相關消息](https://zh.wikipedia.org/wiki/任天堂直面會 "wikilink")，並於同年4月份確定會於2019年6月13日在[任天堂Switch平台發售](../Page/任天堂Switch.md "wikilink")。
 
 ## 遊戲相關
 
@@ -11,7 +11,7 @@ Entertainment開發](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wiki
 
 遊戲於2019年2月的任天堂直面會上首度公佈相關消息，在此之前並無任何合作消息。
 
-而本次新作品並非屬於最初所說登陸於[任天堂Switch平台的牧場物語新作](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")\[1\]，該作品另指系列正統新作。
+而本次新作品並非屬於最初所說登陸於[任天堂Switch平台的牧場物語新作](../Page/任天堂Switch.md "wikilink")\[1\]，該作品另指系列正統新作。
 
 此次作品為[牧場物語與](https://zh.wikipedia.org/wiki/牧場物語系列 "wikilink")[多啦A夢兩者作品進行聯動合作的遊戲](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")，公佈後引起媒體關注\[2\]及網上熱議討論。\[3\]
 

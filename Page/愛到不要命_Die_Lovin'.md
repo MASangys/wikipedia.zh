@@ -32,7 +32,7 @@
 <p><a href="https://m.youtube.com/watch?v=D0-clQ5J0XE">不要命</a></p></td>
 <td><center>
 <p>Ares wu</p></td>
-<td><p>feat.<a href="https://zh.wikipedia.org/wiki/J.Sheon" title="wikilink">J.Sheon</a></p></td>
+<td><p>feat.<a href="../Page/J.Sheon.md" title="wikilink">J.Sheon</a></p></td>
 </tr>
 <tr class="even">
 <td><center>

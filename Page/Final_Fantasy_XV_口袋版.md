@@ -1,7 +1,7 @@
 是一款由[史克威尔艾尼克斯開發的](../Page/史克威尔艾尼克斯.md "wikilink")[角色扮演](../Page/電子角色扮演遊戲.md "wikilink")[手機遊戲](../Page/手机游戏.md "wikilink")。遊戲於2018年2月9日在[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android平台開放下載](../Page/Android.md "wikilink")，[Microsoft
 Windows平台於](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")6月6日發行\[1\]\[2\]。本作的HD版本於2018年9月7日登陸[PlayStation
 4與](../Page/PlayStation_4.md "wikilink")[Xbox
-One平台](../Page/Xbox_One.md "wikilink")\[3\]，2018年9月14日登陆[任天堂Switch平台](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")\[4\]。
+One平台](../Page/Xbox_One.md "wikilink")\[3\]，2018年9月14日登陆[任天堂Switch平台](../Page/任天堂Switch.md "wikilink")\[4\]。
 
 ## 情節設定
 
@@ -22,7 +22,7 @@ One的版本會整合所有章節販售](../Page/Xbox_One.md "wikilink")\[7\]。
 
 ## 開發
 
-口袋版的開發是由[史克威尔艾尼克斯與](../Page/史克威尔艾尼克斯.md "wikilink")[樂陞科技和SummerTimeStudio共同開發](../Page/樂陞科技.md "wikilink")\[8\]\[9\]。遊戲開發於《最終幻想XV》發行的第一個[遊戲演示不久](https://zh.wikipedia.org/wiki/遊戲演示 "wikilink")\[10\]，最初於2017年[Gamescom發布第一個預告片](https://zh.wikipedia.org/wiki/Gamescom "wikilink")\[11\]。
+口袋版的開發是由[史克威尔艾尼克斯與](../Page/史克威尔艾尼克斯.md "wikilink")[樂陞科技和SummerTimeStudio共同開發](../Page/樂陞科技.md "wikilink")\[8\]\[9\]。遊戲開發於《最終幻想XV》發行的第一個[遊戲演示不久](https://zh.wikipedia.org/wiki/遊戲演示 "wikilink")\[10\]，最初於2017年[Gamescom發布第一個預告片](../Page/Gamescom.md "wikilink")\[11\]。
 
 ## 評價
 

@@ -1,5 +1,5 @@
 ，是一个由[Respawn
-Entertainment开发](../Page/Respawn_Entertainment.md "wikilink")，由[艺电发行的](../Page/艺电.md "wikilink")[免费](../Page/网络游戏免费模式.md "wikilink")[大逃杀类](https://zh.wikipedia.org/wiki/大逃杀游戏 "wikilink")[多人在线](https://zh.wikipedia.org/wiki/多人在线游戏 "wikilink")[角色扮演](../Page/角色扮演游戏.md "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")，沿用《[泰坦](https://zh.wikipedia.org/wiki/泰坦陨落 "wikilink")》系列的世界观。该游戏于2019年2月4日发布[Microsoft
+Entertainment开发](../Page/Respawn_Entertainment.md "wikilink")，由[艺电发行的](../Page/艺电.md "wikilink")[免费](../Page/网络游戏免费模式.md "wikilink")[大逃杀类](../Page/大逃杀游戏.md "wikilink")[多人在线](https://zh.wikipedia.org/wiki/多人在线游戏 "wikilink")[角色扮演](../Page/角色扮演游戏.md "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")，沿用《[泰坦](https://zh.wikipedia.org/wiki/泰坦陨落 "wikilink")》系列的世界观。该游戏于2019年2月4日发布[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Xbox
 One](../Page/Xbox_One.md "wikilink")
 和[PS4版本](https://zh.wikipedia.org/wiki/PS4 "wikilink")。
@@ -45,18 +45,18 @@ zh-hant:泰坦隕落2;}-](https://zh.wikipedia.org/wiki/泰坦隕落2 "wikilink"
 独立游戏开发商[Respawn
 Entertainment曾制作](../Page/Respawn_Entertainment.md "wikilink")《[-{zh-hans:泰坦天降;
 zh-hant:神兵泰坦;}-](../Page/泰坦天降.md "wikilink")》（2014年）及其续作《[-{zh-hans:泰坦天降2;
-zh-hant:泰坦降臨2;}-](https://zh.wikipedia.org/wiki/泰坦降臨2 "wikilink")》（2016年），并交付[艺电发行](../Page/艺电.md "wikilink")，2017年工作室被艺电收购。《泰坦》系列备受好评，玩家粘度极高，但并未获得预期市场表现。\[2\]
+zh-hant:泰坦降臨2;}-](../Page/泰坦降臨2.md "wikilink")》（2016年），并交付[艺电发行](../Page/艺电.md "wikilink")，2017年工作室被艺电收购。《泰坦》系列备受好评，玩家粘度极高，但并未获得预期市场表现。\[2\]
 
 Respawn在2017年准备着手开发《-{zh-hans:泰坦天降3;
-zh-hant:泰坦降臨3;}-》时，也在密切关注游戏业界的风向，当时适逢《[绝地求生](https://zh.wikipedia.org/wiki/絕地求生 "wikilink")》大热并引领一波[大逃杀游戏的风潮](https://zh.wikipedia.org/wiki/大逃杀游戏 "wikilink")。鉴于将《泰坦》用于[生存游戏模式业已实证可行](../Page/生存遊戲_\(射擊運動\).md "wikilink")，Respawn开始着手研究将其应用于大逃杀的游戏框架。由于大型可操纵机甲元素对于大逃杀中的徒步战斗尤其不利，Respawn抛弃了“泰坦”的设定，并转而依据《泰坦》世界观为《Apex英雄》设计强力角色类。\[3\]此外，Respawn希望充分利用免费盈利模式，并提出了Apex的概念，让工作室专注于强势发布及其后续更新维护。根据Drew
+zh-hant:泰坦降臨3;}-》时，也在密切关注游戏业界的风向，当时适逢《[绝地求生](../Page/絕地求生.md "wikilink")》大热并引领一波[大逃杀游戏的风潮](../Page/大逃杀游戏.md "wikilink")。鉴于将《泰坦》用于[生存游戏模式业已实证可行](../Page/生存遊戲_\(射擊運動\).md "wikilink")，Respawn开始着手研究将其应用于大逃杀的游戏框架。由于大型可操纵机甲元素对于大逃杀中的徒步战斗尤其不利，Respawn抛弃了“泰坦”的设定，并转而依据《泰坦》世界观为《Apex英雄》设计强力角色类。\[3\]此外，Respawn希望充分利用免费盈利模式，并提出了Apex的概念，让工作室专注于强势发布及其后续更新维护。根据Drew
 McCoy的说法，EA对这种方法持怀疑态度，认为它存在风险，但《[堡垒之夜
 大逃杀](../Page/堡垒之夜_大逃杀.md "wikilink")》的成功表明这种模式是可行的。\[4\]Respawn在发布游戏以前一直将《Apex英雄》的开发进度保密，McCoy希望玩家可以自己去尝试、评判游戏，而非盲从游戏论坛风评、营销活动或者其他游戏评测。\[5\]
 
-《Apex英雄》受近十年的多款射击游戏启发，包括[最後一戰系列系列和](../Page/最後一戰系列.md "wikilink")[天命系列](../Page/天命_\(遊戲\).md "wikilink")，它们将引人入胜的战斗系统与不断演变的叙事相结合；[育碧的](../Page/育碧.md "wikilink")《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》和[暴雪的](../Page/暴雪娛樂.md "wikilink")《[鬥陣特攻](../Page/鬥陣特攻.md "wikilink")》运用了角色机制，运用角色类差异使对抗战术互相压制，令游戏能在核心要素的基础上千变万化，极大提高[游戏性](https://zh.wikipedia.org/wiki/游戏性 "wikilink")。\[6\]游戏基于[Source引擎开发](../Page/Source引擎.md "wikilink")，与《泰坦》前作使用同一引擎。\[7\]在推出之前，McCoy承认在游戏开发计划中的确有跨平台联机的计划，目前该功能还在开发中，上线日期还没有确定。不过，由于不同平台系统之间的差别，跨平台进度共享以及跨平台购买这两项功能将无法落实到游戏当中。McCoy还表示未来还会让《Apex英雄》登陆[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，[Android和](../Page/Android.md "wikilink")[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")，但目前尚无相关开发计划。\[8\]
+《Apex英雄》受近十年的多款射击游戏启发，包括[最後一戰系列系列和](../Page/最後一戰系列.md "wikilink")[天命系列](../Page/天命_\(遊戲\).md "wikilink")，它们将引人入胜的战斗系统与不断演变的叙事相结合；[育碧的](../Page/育碧.md "wikilink")《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》和[暴雪的](../Page/暴雪娛樂.md "wikilink")《[鬥陣特攻](../Page/鬥陣特攻.md "wikilink")》运用了角色机制，运用角色类差异使对抗战术互相压制，令游戏能在核心要素的基础上千变万化，极大提高[游戏性](https://zh.wikipedia.org/wiki/游戏性 "wikilink")。\[6\]游戏基于[Source引擎开发](../Page/Source引擎.md "wikilink")，与《泰坦》前作使用同一引擎。\[7\]在推出之前，McCoy承认在游戏开发计划中的确有跨平台联机的计划，目前该功能还在开发中，上线日期还没有确定。不过，由于不同平台系统之间的差别，跨平台进度共享以及跨平台购买这两项功能将无法落实到游戏当中。McCoy还表示未来还会让《Apex英雄》登陆[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，[Android和](../Page/Android.md "wikilink")[任天堂Switch](../Page/任天堂Switch.md "wikilink")，但目前尚无相关开发计划。\[8\]
 
 ### 运营
 
-《Apex英雄》疑似已于3月15日下午起对中国大陆地区锁区（即无法与海外玩家游玩），此前已有外国网友呼吁对中国大陆锁区，成为[PUBG](https://zh.wikipedia.org/wiki/絕地求生 "wikilink")\[9\]之后，第二款锁区的大逃杀游戏，在锁区前，EA已经封锁了35万玩家的账号，其中以中国大陆地区玩家居多，原因皆为这些玩家使用外挂。
+《Apex英雄》疑似已于3月15日下午起对中国大陆地区锁区（即无法与海外玩家游玩），此前已有外国网友呼吁对中国大陆锁区，成为[PUBG](../Page/絕地求生.md "wikilink")\[9\]之后，第二款锁区的大逃杀游戏，在锁区前，EA已经封锁了35万玩家的账号，其中以中国大陆地区玩家居多，原因皆为这些玩家使用外挂。
 
 ## 评价
 

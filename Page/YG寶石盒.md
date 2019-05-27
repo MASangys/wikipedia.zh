@@ -1,56 +1,56 @@
-《**YG寶石盒**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂於](../Page/YG娛樂.md "wikilink")2018年至2019年推出的綜藝節目\[1\]，節目主軸為[YG娛樂練習生選出新男團出道節目](../Page/YG娛樂.md "wikilink")。出道組男團為[TREASURE](https://zh.wikipedia.org/wiki/Treasure_\(組合\) "wikilink")，追加出道組男團為[MAGNUM](https://zh.wikipedia.org/wiki/MAGNUM "wikilink")，兩團合稱為[TREASURE
-13](https://zh.wikipedia.org/wiki/TREASURE_13 "wikilink")，三隊共用的官方粉絲名為TREASURE
-MAKER。\[2\] 預計於2019年5\~7月間出道。
+《**YG寶石盒**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂於](../Page/YG娛樂.md "wikilink")2018年至2019年推出的綜藝節目\[1\]，節目主軸為[YG娛樂練習生選出新男團出道節目](../Page/YG娛樂.md "wikilink")。出道組男團為[TREASURE](../Page/Treasure_\(組合\).md "wikilink")，追加出道組男團為[MAGNUM](../Page/MAGNUM.md "wikilink")，兩團合稱為[TREASURE
+13](../Page/TREASURE_13.md "wikilink")，三隊共用的官方粉絲名為TREASURE MAKER。\[2\]
+預計於2019年5\~7月間出道。
 
 ## 競賽成員
 
 ### TREASURE A：平均練習時間4年，實力最好的7名練習生
 
-| TREASURE A成員                                             |
-| -------------------------------------------------------- |
-| 本名                                                       |
-| 漢字                                                       |
-| [方藝潭](../Page/方藝潭.md "wikilink")                         |
-| 金俊奎                                                      |
-| [崔玹碩](https://zh.wikipedia.org/wiki/崔玹碩 "wikilink")\[3\] |
-| 金道榮                                                      |
-| colspan="7" style= |已淘汰成員                                |
-| [李炳坤](https://zh.wikipedia.org/wiki/李炳坤 "wikilink")      |
-| [金昇勳](https://zh.wikipedia.org/wiki/金昇勳 "wikilink")      |
-| colspan="7" style= |已離開成員                                |
-| 李彌談                                                      |
-|                                                          |
+| TREASURE A成員                          |
+| ------------------------------------- |
+| 本名                                    |
+| 漢字                                    |
+| [方藝潭](../Page/方藝潭.md "wikilink")      |
+| 金俊奎                                   |
+| [崔玹碩](../Page/崔玹碩.md "wikilink")\[3\] |
+| 金道榮                                   |
+| colspan="7" style= |已淘汰成員             |
+| [李炳坤](../Page/李炳坤.md "wikilink")      |
+| [金昇勳](../Page/金昇勳.md "wikilink")      |
+| colspan="7" style= |已離開成員             |
+| 李彌談                                   |
+|                                       |
 
 ### TREASURE B：16至19歲新人練習生
 
-| TREASURE B成員                                             |
-| -------------------------------------------------------- |
-| 本名                                                       |
-| 漢字                                                       |
-| 河潤彬                                                      |
-| 朴志焄                                                      |
-| 尹材赫                                                      |
-| colspan="8" style= |已淘汰成員                                |
-| [王君豪](https://zh.wikipedia.org/wiki/王君豪 "wikilink")\[4\] |
-| 姜碩和                                                      |
-| 張允瑞                                                      |
-| 吉道煥                                                      |
-| [金成淵](https://zh.wikipedia.org/wiki/金成淵 "wikilink")      |
+| TREASURE B成員                          |
+| ------------------------------------- |
+| 本名                                    |
+| 漢字                                    |
+| 河潤彬                                   |
+| 朴志焄                                   |
+| 尹材赫                                   |
+| colspan="8" style= |已淘汰成員             |
+| [王君豪](../Page/王君豪.md "wikilink")\[4\] |
+| 姜碩和                                   |
+| 張允瑞                                   |
+| 吉道煥                                   |
+| [金成淵](../Page/金成淵.md "wikilink")      |
 
 ### TREASURE C：平均13.4歲、年齡段最小的實力派練習生
 
-| TREASURE C成員                                        |
-| --------------------------------------------------- |
-| 本名                                                  |
-| 漢字                                                  |
-| 朴炡宇                                                 |
-| 蘇庭煥                                                 |
-| colspan="8" style= |已淘汰成員                           |
-| 李仁宏                                                 |
-| 鄭俊赫                                                 |
-| 尹施允                                                 |
-| [金宗燮](https://zh.wikipedia.org/wiki/金宗燮 "wikilink") |
-| 金延圭                                                 |
+| TREASURE C成員                     |
+| -------------------------------- |
+| 本名                               |
+| 漢字                               |
+| 朴炡宇                              |
+| 蘇庭煥                              |
+| colspan="8" style= |已淘汰成員        |
+| 李仁宏                              |
+| 鄭俊赫                              |
+| 尹施允                              |
+| [金宗燮](../Page/金宗燮.md "wikilink") |
+| 金延圭                              |
 
 ### TREASURE J：YG分部─YG Japan的練習生\[5\]
 
@@ -121,23 +121,23 @@ MAKER。\[2\] 預計於2019年5\~7月間出道。
 <tr class="even">
 <td><p>8</p></td>
 <td><p>2019年1月4日</p></td>
-<td><p>練習生組1:1淘汰賽（<a href="https://zh.wikipedia.org/wiki/金成淵" title="wikilink">金成淵</a>、李仁宏、鄭俊赫、尹施允、Asahi和Kotaro淘汰）、Treasure5選定<br />
+<td><p>練習生組1:1淘汰賽（<a href="../Page/金成淵.md" title="wikilink">金成淵</a>、李仁宏、鄭俊赫、尹施允、Asahi和Kotaro淘汰）、Treasure5選定<br />
 <a href="https://www.vlive.tv/events/YGTreasureBox/vote">第一輪線上觀眾投票</a>（1/4 (五) 23:00 ~ 1/15 (二) 18:00每天可投7個練習生）</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>2019年1月11日</p></td>
-<td><p>Treasure和練習生小組對決进行半决赛。其中共分为4首歌曲。第一名组全员晋级。第二名组<a href="https://zh.wikipedia.org/wiki/金昇勳" title="wikilink">金昇勳和Keita淘汰</a>。第三名组吉道煥、金延圭和Yoshinori淘汰。第四名组姜碩華、張允瑞、尹材赫和<a href="https://zh.wikipedia.org/wiki/金忠燮" title="wikilink">金忠燮淘汰</a>[8]</p></td>
+<td><p>Treasure和練習生小組對決进行半决赛。其中共分为4首歌曲。第一名组全员晋级。第二名组<a href="../Page/金昇勳.md" title="wikilink">金昇勳和Keita淘汰</a>。第三名组吉道煥、金延圭和Yoshinori淘汰。第四名组姜碩華、張允瑞、尹材赫和<a href="https://zh.wikipedia.org/wiki/金忠燮" title="wikilink">金忠燮淘汰</a>[8]</p></td>
 </tr>
 <tr class="even">
 <td><p>#</p></td>
 <td><p>2019年1月15日</p></td>
-<td><p>線上觀眾投票結束 ( 最高票 Rank1: <a href="../Page/方藝潭.md" title="wikilink">方藝潭</a>、金俊奎、<a href="https://zh.wikipedia.org/wiki/崔玹碩" title="wikilink">崔玹碩</a>、<a href="https://zh.wikipedia.org/wiki/李炳坤" title="wikilink">李炳坤</a>、金道榮、<a href="https://zh.wikipedia.org/wiki/金昇勳" title="wikilink">金昇勳</a>、朴志焄 / Rank2: <a href="../Page/方藝潭.md" title="wikilink">方藝潭</a>、<a href="https://zh.wikipedia.org/wiki/崔玹碩" title="wikilink">崔玹碩</a>、河潤彬、Haruto、金俊奎、Mashiho、朴炡宇 / Rank3: <a href="../Page/方藝潭.md" title="wikilink">方藝潭</a>、河潤彬、Haruto、金俊奎、Mashiho、朴炡禹、蘇庭煥 )</p></td>
+<td><p>線上觀眾投票結束 ( 最高票 Rank1: <a href="../Page/方藝潭.md" title="wikilink">方藝潭</a>、金俊奎、<a href="../Page/崔玹碩.md" title="wikilink">崔玹碩</a>、<a href="../Page/李炳坤.md" title="wikilink">李炳坤</a>、金道榮、<a href="../Page/金昇勳.md" title="wikilink">金昇勳</a>、朴志焄 / Rank2: <a href="../Page/方藝潭.md" title="wikilink">方藝潭</a>、<a href="../Page/崔玹碩.md" title="wikilink">崔玹碩</a>、河潤彬、Haruto、金俊奎、Mashiho、朴炡宇 / Rank3: <a href="../Page/方藝潭.md" title="wikilink">方藝潭</a>、河潤彬、Haruto、金俊奎、Mashiho、朴炡禹、蘇庭煥 )</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>2019年1月18日</p></td>
-<td><p>Treasure11决赛加入2名敗部復活（<a href="https://zh.wikipedia.org/wiki/金昇勳" title="wikilink">金昇勳</a>、尹材赫）, 先公布4位出道成員為：Haruto、<a href="../Page/方藝潭.md" title="wikilink">方藝潭</a>、蘇庭煥、金俊奎</p></td>
+<td><p>Treasure11决赛加入2名敗部復活（<a href="../Page/金昇勳.md" title="wikilink">金昇勳</a>、尹材赫）, 先公布4位出道成員為：Haruto、<a href="../Page/方藝潭.md" title="wikilink">方藝潭</a>、蘇庭煥、金俊奎</p></td>
 </tr>
 <tr class="even">
 <td><p>#</p></td>
@@ -152,12 +152,12 @@ MAKER。\[2\] 預計於2019年5\~7月間出道。
 <tr class="even">
 <td><p>#</p></td>
 <td><p>2019年1月25日</p></td>
-<td><p>公布最終出道成員：<a href="https://zh.wikipedia.org/wiki/崔玹碩" title="wikilink">崔玹碩</a>[11]</p></td>
+<td><p>公布最終出道成員：<a href="../Page/崔玹碩.md" title="wikilink">崔玹碩</a>[11]</p></td>
 </tr>
 <tr class="odd">
 <td><p>#</p></td>
 <td><p>2019年1月28日</p></td>
-<td><p>公布其7人團體名為<a href="https://zh.wikipedia.org/wiki/Treasure_(組合)" title="wikilink">TREASURE</a>[12]</p></td>
+<td><p>公布其7人團體名為<a href="../Page/Treasure_(組合).md" title="wikilink">TREASURE</a>[12]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -169,7 +169,7 @@ MAKER。\[2\] 預計於2019年5\~7月間出道。
 
 ## 最終出道成員
 
-### [TREASURE](https://zh.wikipedia.org/wiki/Treasure_\(組合\) "wikilink")
+### [TREASURE](../Page/Treasure_\(組合\).md "wikilink")
 
 <table>
 <thead>
@@ -188,7 +188,7 @@ MAKER。\[2\] 預計於2019年5\~7月間出道。
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔玹碩" title="wikilink">崔玹碩</a>[13]</p></td>
+<td style="text-align: center;"><p><a href="../Page/崔玹碩.md" title="wikilink">崔玹碩</a>[13]</p></td>
 <td style="text-align: center;"><p>최현석</p></td>
 <td style="text-align: center;"><p>Choi Hyun Suk</p></td>
 <td style="text-align: center;"></td>

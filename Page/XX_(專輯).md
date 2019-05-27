@@ -1,4 +1,4 @@
-《**XX**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER的成員](../Page/WINNER.md "wikilink")[宋旻浩的首張韓語正規專輯](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")，專輯由[Genie音樂發行於](https://zh.wikipedia.org/wiki/Genie音樂 "wikilink")2018年11月26日\[1\]。《XX》歷時兩年製作\[2\]，包含《[Fiancé](https://zh.wikipedia.org/wiki/Fiancé "wikilink")》在內共收錄12首歌曲，均由宋旻浩獨立或合作填詞與作曲，整體曲風以[嘻哈風格為主軸](../Page/嘻哈音樂.md "wikilink")，並揉和了[節奏布鲁斯與](../Page/节奏布鲁斯.md "wikilink")[靈魂樂](../Page/靈魂樂.md "wikilink")\[3\]。
+《**XX**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER的成員](../Page/WINNER.md "wikilink")[宋旻浩的首張韓語正規專輯](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")，專輯由[Genie音樂發行於](../Page/Genie音樂.md "wikilink")2018年11月26日\[1\]。《XX》歷時兩年製作\[2\]，包含《[Fiancé](../Page/Fiancé.md "wikilink")》在內共收錄12首歌曲，均由宋旻浩獨立或合作填詞與作曲，整體曲風以[嘻哈風格為主軸](../Page/嘻哈音樂.md "wikilink")，並揉和了[節奏布鲁斯與](../Page/节奏布鲁斯.md "wikilink")[靈魂樂](../Page/靈魂樂.md "wikilink")\[3\]。
 
 ## 背景及預告
 
@@ -11,7 +11,7 @@ ALBUM」字樣的預告海報，正式宣布宋旻浩將於11月26日發行正�
 
 ## 發行
 
-《XX》由所屬經紀公司YG娛樂策劃並執行製作，由唱片公司[Genie音樂發行](https://zh.wikipedia.org/wiki/Genie音樂 "wikilink")。《XX》的線上音源與實體唱片於不同時間釋出，全專線上音源率先在2018年11月26日下午6時通過[媒體播放器應用程式](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink")[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")、音樂[串流媒體服務平臺](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")[Spotify](../Page/Spotify.md "wikilink")、[Apple
+《XX》由所屬經紀公司YG娛樂策劃並執行製作，由唱片公司[Genie音樂發行](../Page/Genie音樂.md "wikilink")。《XX》的線上音源與實體唱片於不同時間釋出，全專線上音源率先在2018年11月26日下午6時通過[媒體播放器應用程式](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink")[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")、音樂[串流媒體服務平臺](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")[Spotify](../Page/Spotify.md "wikilink")、[Apple
 Music和韓國各大數位音樂網站公開](../Page/Apple_Music.md "wikilink")，實體唱片則在11月20日下午2時起至11月26日公開預售，並定於11月27日正式發行\[10\]。不過這張專輯在販售上設定了限制，《XX》被判定必須年滿19歲才能購買，對此宋旻浩回應「我不想太在意，我努力表現自己想表達的東西，當然歌迷的年齡層也多種多樣，很遺憾被判定為19歲以下禁止收聽」。\[11\]
 
 而專輯的封面、版本及配置細節，據YG娛樂發布的告示中，專輯將以不同形象的「XX: ' (VER.1)」和「XX: '
@@ -25,7 +25,7 @@ ACADEMY）舉行專輯發表會時，宋旻浩承認專輯名稱的含義「沒�
 整張專輯共費時兩年製作，期間於2018年2月依照所屬經紀公司[會長的指示開始正式進入了兩個月的深度寫歌](https://zh.wikipedia.org/wiki/會長 "wikilink")、錄音進程\[15\]\[16\]，據他自己所述「創作的期間不是在工作室就是在家裡，幾乎把一切都投資在這張專輯裡了」，也因此宋旻浩用「《XX》真的是我傾盡靈魂製作出來的」來形容這張專輯「毫無疑問就是最具代表宋旻浩的音樂作品」\[17\]，不過他也坦言在創作期間被[恐慌症所苦](../Page/恐慌症.md "wikilink")，而後透過持續的製作音樂還有繪畫，目前狀態已好轉。\[18\]
 
 《XX》整體曲風以[嘻哈風格為主軸](../Page/嘻哈音樂.md "wikilink")，並揉和了[节奏布鲁斯與](../Page/节奏布鲁斯.md "wikilink")[靈魂樂](../Page/靈魂樂.md "wikilink")\[19\]，以主打歌《Fiancé》為首共收錄了12首歌曲，均由宋旻浩獨立或合作填詞與作曲，他稱「我們經常講這樣的製作系統視為是理所當然的，比起從外部得到歌曲，我更想自己完成」\[20\]，而合作的製作人陣容包括姜旭鎮、Future
-Bounce、Texu、崔來星、等人，伴唱陣容則有[柳炳宰](https://zh.wikipedia.org/wiki/柳炳宰 "wikilink")、[梁東根和YGX新人Blue](../Page/梁東根.md "wikilink").D，藉以提高專輯完成度。\[21\]\[22\]
+Bounce、Texu、崔來星、等人，伴唱陣容則有[柳炳宰](../Page/柳炳宰.md "wikilink")、[梁東根和YGX新人Blue](../Page/梁東根.md "wikilink").D，藉以提高專輯完成度。\[21\]\[22\]
 
 ## 商業成績
 
@@ -36,12 +36,12 @@ Music、Mnet、Bugs Music音源排行榜冠軍\[27\]，海外方面共在11個�
 
 ## 榜單與銷售表現
 
-| 榜單（2018年）                                                                          | 峰值  |
-| ---------------------------------------------------------------------------------- | --- |
-| 法國數位專輯榜（[SNEP](../Page/法國唱片出版業公會.md "wikilink")）\[29\]                             | 115 |
-| 日本數位專輯榜（[公信榜](../Page/Oricon公信榜.md "wikilink")）\[30\]                              | 18  |
-| 韓國專輯榜（[Gaon專輯榜](https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表 "wikilink")）\[31\] | 5   |
-| 美國世界專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）\[32\]                           | 13  |
+| 榜單（2018年）                                                       | 峰值  |
+| --------------------------------------------------------------- | --- |
+| 法國數位專輯榜（[SNEP](../Page/法國唱片出版業公會.md "wikilink")）\[29\]          | 115 |
+| 日本數位專輯榜（[公信榜](../Page/Oricon公信榜.md "wikilink")）\[30\]           | 18  |
+| 韓國專輯榜（[Gaon專輯榜](../Page/2018年Gaon專輯冠軍作品列表.md "wikilink")）\[31\] | 5   |
+| 美國世界專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）\[32\]        | 13  |
 
 週榜單
 
@@ -74,7 +74,7 @@ Music、Mnet、Bugs Music音源排行榜冠軍\[27\]，海外方面共在11個�
 <td></td>
 <td><p>2018年11月26日[35]</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a>、<a href="https://zh.wikipedia.org/wiki/串流媒體" title="wikilink">串流媒體</a></p></td>
-<td><p><a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a>、<a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie音樂</a></p></td>
+<td><p><a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a>、<a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/全球" title="wikilink">全球</a></p></td>

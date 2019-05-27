@@ -1,9 +1,9 @@
 **Outline
 VPN**是一个[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")，用于在多个[云服务上快速部署](../Page/雲端運算.md "wikilink")[Shadowsocks服务器](../Page/Shadowsocks.md "wikilink")\[1\]\[2\]。该软件还包括多平台的[客户端软件](https://zh.wikipedia.org/wiki/客户端 "wikilink")。
-Outline是由[Google创建的](../Page/Google.md "wikilink")[技术孵化器](../Page/企业孵化器.md "wikilink")[Jigsaw开发的](https://zh.wikipedia.org/wiki/Jigsaw "wikilink")。
+Outline是由[Google创建的](../Page/Google.md "wikilink")[技术孵化器](../Page/企业孵化器.md "wikilink")[Jigsaw开发的](../Page/Jigsaw.md "wikilink")。
 
 Outline
-Server不僅可以在私人伺服器中使用，也可以在包括[DigitalOcean](../Page/DigitalOcean.md "wikilink")、[Rackspace](../Page/Rackspace.md "wikilink")、[Google雲端平台和](https://zh.wikipedia.org/wiki/Google雲端平台 "wikilink")[Amazon
+Server不僅可以在私人伺服器中使用，也可以在包括[DigitalOcean](../Page/DigitalOcean.md "wikilink")、[Rackspace](../Page/Rackspace.md "wikilink")、[Google雲端平台和](../Page/Google雲端平台.md "wikilink")[Amazon
 EC2在等雲服務上安裝使用](../Page/Amazon_EC2.md "wikilink")。\[3\]安装時可用[命令行或](../Page/命令行界面.md "wikilink")[圖形界面](../Page/图形用户界面.md "wikilink")（僅限[DigitalOcean](../Page/DigitalOcean.md "wikilink")）。
 
 ## 組成
@@ -31,10 +31,10 @@ Outline使用[Shadowsocks協議在客戶端和伺服器之間的通信](../Page/
 
 Outline是[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")，根據[Apache许可证](../Page/Apache许可证.md "wikilink")
 2.0許可，並由Radically Open
-Security審核，聲稱\[7\]\[8\]不會[記錄用戶的](https://zh.wikipedia.org/wiki/日志文件 "wikilink")[網絡流量](https://zh.wikipedia.org/wiki/網站流量 "wikilink")。Outline
+Security審核，聲稱\[7\]\[8\]不會[記錄用戶的](../Page/日志文件.md "wikilink")[網絡流量](https://zh.wikipedia.org/wiki/網站流量 "wikilink")。Outline
 Server支持無人值守升級。
 
-Outline不是一個[匿名工具](../Page/匿名.md "wikilink")，它沒有提供與[Tor相同程度的匿名保護](../Page/Tor.md "wikilink")（[Tor通過三個](../Page/Tor.md "wikilink")而不僅僅是一個[路由流量](../Page/路由.md "wikilink")，並且還可以防止[瀏覽器指紋識別等攻擊](https://zh.wikipedia.org/wiki/裝置指紋 "wikilink")）。
+Outline不是一個[匿名工具](../Page/匿名.md "wikilink")，它沒有提供與[Tor相同程度的匿名保護](../Page/Tor.md "wikilink")（[Tor通過三個](../Page/Tor.md "wikilink")而不僅僅是一個[路由流量](../Page/路由.md "wikilink")，並且還可以防止[瀏覽器指紋識別等攻擊](../Page/裝置指紋.md "wikilink")）。
 
 ## 評價
 

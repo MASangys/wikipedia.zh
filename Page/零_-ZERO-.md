@@ -3,7 +3,7 @@
 
 ## 概要
 
-是為[劇場版動畫](https://zh.wikipedia.org/wiki/劇場版動畫 "wikilink")《[名偵探柯南：零的執行人](https://zh.wikipedia.org/wiki/名偵探柯南：零的執行人 "wikilink")》而做的主題曲，這是福山首次與《[名偵探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")》做[商業搭配](../Page/商業搭配.md "wikilink")\[1\]。
+是為[劇場版動畫](https://zh.wikipedia.org/wiki/劇場版動畫 "wikilink")《[名偵探柯南：零的執行人](../Page/名偵探柯南：零的執行人.md "wikilink")》而做的主題曲，這是福山首次與《[名偵探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")》做[商業搭配](../Page/商業搭配.md "wikilink")\[1\]。
 
 2018年[4月3日](../Page/4月3日.md "wikilink")，在[GYAO\!先行公開了同年](https://zh.wikipedia.org/wiki/GYAO! "wikilink")3月於[日本武道館的自身即時影像與](../Page/日本武道館.md "wikilink")『柯南』動畫融合的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]。
 
@@ -19,7 +19,7 @@ Animation》中獲得第2名。並且，在同一天的數位單曲榜《Top Dow
 
 1.  **零 -ZERO** (4:14)
       -
-        東宝系映画《[名偵探柯南：零的執行人](https://zh.wikipedia.org/wiki/名偵探柯南：零的執行人 "wikilink")》主題歌。
+        東宝系映画《[名偵探柯南：零的執行人](../Page/名偵探柯南：零的執行人.md "wikilink")》主題歌。
 
 ## 參考
 
@@ -36,7 +36,7 @@ Animation》中獲得第2名。並且，在同一天的數位單曲榜《Top Dow
 <tr class="even">
 <td><p>前作:<br />
 <a href="../Page/倉木麻衣.md" title="wikilink">倉木麻衣</a><br />
-《<a href="https://zh.wikipedia.org/wiki/渡月橋_～想念你～" title="wikilink">渡月橋 ～想念你～</a>》</p></td>
+《<a href="../Page/渡月橋_～想念你～.md" title="wikilink">渡月橋 ～想念你～</a>》</p></td>
 </tr>
 </tbody>
 </table>

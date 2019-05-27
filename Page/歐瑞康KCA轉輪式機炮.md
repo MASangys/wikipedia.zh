@@ -13,7 +13,7 @@ RK、303 RK與304RK型航空機炮的基礎，從而研發出KCA航空機砲。�
 
 KCA炮管長度為1,980毫米（77.95英吋），重量為25千克（55.12磅）。[彈鏈藉由輸彈槽供彈方式](../Page/彈鏈.md "wikilink")，從炮身右側供彈。其電力系統採用了28[伏特](../Page/伏特.md "wikilink")[直流電發火燃氣和飛機提供的](../Page/直流電.md "wikilink")[壓縮空氣以供應其所需的動力](https://zh.wikipedia.org/wiki/壓縮空氣 "wikilink")，它還可用以排除啞火彈藥造成的停射故障，強制使得它發射。主要彈藥裝上一枚360克[彈頭](../Page/彈頭.md "wikilink")，並增加[裝藥量](../Page/裝藥.md "wikilink")，藉以達到高初速和更為筆直的飛行路徑。它可發射各種類型的彈藥，例如：[破片彈](../Page/破片杀伤.md "wikilink")、[高爆彈](https://zh.wikipedia.org/wiki/榴彈 "wikilink")、[穿甲彈和訓練彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")。
 
-它所發射的[彈藥是實際運用的自動武器當中最強大的彈藥之一](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，裝藥與彈頭重量之比大於2，\[1\]比英國[「亞丁」](https://zh.wikipedia.org/wiki/亞丁轉輪式機炮 "wikilink")（ADEN）、法國[「德發」](https://zh.wikipedia.org/wiki/德發轉輪式機炮 "wikilink")（DEFA）轉輪式機炮所發射的30×113毫米機炮炮彈的比值1.5要高，亦因而加重了50％；它可以1,350發／分鐘發射初速達到1,030米／秒（3,379.27英尺／秒）的炮彈，有效射程為2,500米（8,200英尺）。到了1,500公尺的動能仍可與DEFA
+它所發射的[彈藥是實際運用的自動武器當中最強大的彈藥之一](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，裝藥與彈頭重量之比大於2，\[1\]比英國[「亞丁」](../Page/亞丁轉輪式機炮.md "wikilink")（ADEN）、法國[「德發」](../Page/德發轉輪式機炮.md "wikilink")（DEFA）轉輪式機炮所發射的30×113毫米機炮炮彈的比值1.5要高，亦因而加重了50％；它可以1,350發／分鐘發射初速達到1,030米／秒（3,379.27英尺／秒）的炮彈，有效射程為2,500米（8,200英尺）。到了1,500公尺的動能仍可與DEFA
 553彈藥的炮口能量匹敵。
 
 另一款配用該彈藥的的是[A10「雷霆二式」所搭載的](../Page/A-10雷霆二式攻擊機.md "wikilink")[GAU-8复仇者机炮](../Page/GAU-8复仇者机炮.md "wikilink")，對於航空器而言是非常強大的武器，只是GAU-8採用電子擊發、鋁合金彈殼，以及通常用於打擊地面上如[步兵战车的目標](../Page/步兵战车.md "wikilink")。而該機砲卻是對空及對地攻擊的兩用武器。
@@ -21,8 +21,8 @@ KCA炮管長度為1,980毫米（77.95英吋），重量為25千克（55.12磅）
 ## 參見
 
   - [毛瑟MG213轉輪式機炮](../Page/毛瑟MG213轉輪式機炮.md "wikilink")
-  - [亞丁轉輪式機炮](https://zh.wikipedia.org/wiki/亞丁轉輪式機炮 "wikilink")
-  - [德發轉輪式機炮](https://zh.wikipedia.org/wiki/德發轉輪式機炮 "wikilink")
+  - [亞丁轉輪式機炮](../Page/亞丁轉輪式機炮.md "wikilink")
+  - [德發轉輪式機炮](../Page/德發轉輪式機炮.md "wikilink")
   - [GIAT 30機炮](../Page/GIAT_30機炮.md "wikilink")
   - [BK-27機炮](../Page/BK-27機炮.md "wikilink")
   - [GAU-8复仇者机炮](../Page/GAU-8复仇者机炮.md "wikilink")

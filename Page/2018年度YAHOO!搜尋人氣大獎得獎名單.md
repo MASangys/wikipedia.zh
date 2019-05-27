@@ -51,7 +51,7 @@
         one](../Page/The_album_part_one.md "wikilink")》-
         [麥浚龍](../Page/麥浚龍.md "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")
   - 人氣電視劇集主題曲
-      - 《但願人長久》- [菊梓喬](https://zh.wikipedia.org/wiki/菊梓喬 "wikilink")
+      - 《但願人長久》- [菊梓喬](../Page/菊梓喬.md "wikilink")
   - 人氣專輯
       - 《[The album part
         one](../Page/The_album_part_one.md "wikilink")》-
@@ -63,7 +63,7 @@
       - [吳鎮宇](../Page/吳鎮宇.md "wikilink")
       - [古天樂](../Page/古天樂.md "wikilink")
   - 本地新演員
-      - [凌文龍](https://zh.wikipedia.org/wiki/凌文龍 "wikilink")
+      - [凌文龍](../Page/凌文龍.md "wikilink")
   - 本地電影
       - 《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》
       - 《[棟篤特工](https://zh.wikipedia.org/wiki/棟篤特工 "wikilink")》
@@ -111,7 +111,7 @@
   - 圖片搜尋次數最多的香港男藝人
       - [姜濤](../Page/姜濤.md "wikilink")
   - 圖片搜尋次數最多的香港女藝人
-      - [馮盈盈](https://zh.wikipedia.org/wiki/馮盈盈 "wikilink")
+      - [馮盈盈](../Page/馮盈盈.md "wikilink")
   - 最具號召力香港男藝人
       - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
   - 最具號召力香港女藝人

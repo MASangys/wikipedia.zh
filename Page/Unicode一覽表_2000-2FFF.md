@@ -118,7 +118,7 @@
 | U+                                                                                                                |
 | 258x                                                                                                              |
 | 259x                                                                                                              |
-| **[幾何圖形](https://zh.wikipedia.org/wiki/幾何圖形 "wikilink")／Geometric Shapes**                                        |
+| **[幾何圖形](../Page/幾何圖形.md "wikilink")／Geometric Shapes**                                                           |
 | U+                                                                                                                |
 | 25Ax                                                                                                              |
 | 25Bx                                                                                                              |
@@ -222,7 +222,7 @@
 | 2ADx                                                                                                              |
 | 2AEx                                                                                                              |
 | 2AFx                                                                                                              |
-| **[雜項符號和箭頭](https://zh.wikipedia.org/wiki/雜項符號和箭頭 "wikilink")／Miscellaneous Symbols and Arrows**                  |
+| **[雜項符號和箭頭](../Page/雜項符號和箭頭.md "wikilink")／Miscellaneous Symbols and Arrows**                                     |
 | U+                                                                                                                |
 | 2B0x                                                                                                              |
 | 2B1x                                                                                                              |
@@ -281,7 +281,7 @@
 | 2DAx                                                                                                              |
 | 2DCx                                                                                                              |
 | 2DDx                                                                                                              |
-| **[西里爾字母擴展-A](https://zh.wikipedia.org/wiki/西里爾字母擴展-A "wikilink")／Cyrillic Extended-A**                           |
+| **[西里爾字母擴展-A](../Page/西里爾字母擴展-A.md "wikilink")／Cyrillic Extended-A**                                              |
 | U+                                                                                                                |
 | 2DEx                                                                                                              |
 | 2DFx                                                                                                              |

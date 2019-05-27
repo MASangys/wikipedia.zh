@@ -41,7 +41,7 @@ Mansell](https://zh.wikipedia.org/wiki/Jill_Mansell "wikilink")
 ### Uitgeverij L
 
 自2005年起，Uitgeverij L（英語：Publishing House
-L）出版[卡通](../Page/卡通.md "wikilink")、[圖像小說以及](https://zh.wikipedia.org/wiki/視覺文學 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫画 "wikilink")（例如[手塚治虫的作品](../Page/手塚治虫.md "wikilink")）。\[8\]
+L）出版[卡通](../Page/卡通.md "wikilink")、[圖像小說以及](../Page/視覺文學.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫画 "wikilink")（例如[手塚治虫的作品](../Page/手塚治虫.md "wikilink")）。\[8\]
 
 ## 出版品
 

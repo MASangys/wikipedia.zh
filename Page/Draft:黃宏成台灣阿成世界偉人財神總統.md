@@ -4,7 +4,7 @@
 
 ## 早年生涯
 
-黃宏成台灣阿成世界偉人財神總統在1968年（中華民國57年）3月20日生於今[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")\[1\]，畢業於[桃園縣中壢市內壢國民小學](https://zh.wikipedia.org/wiki/桃園市中壢區內壢國民小學 "wikilink")、[桃園縣私立復旦高級中學](../Page/桃園市私立復旦高級中學.md "wikilink")、[東吳大學法律系](../Page/東吳大學_\(臺灣\).md "wikilink")，曾在[美国](../Page/美国.md "wikilink")[維吉尼亞大學拿破崙希爾基金會進修](https://zh.wikipedia.org/wiki/維吉尼亞大學 "wikilink")\[2\]。企管碩士、企業管理專業人\[3\]。他也擔任過中國青年創業協會總會十七屆公關副主委、台北復旦校友會監事\[4\]。曾居[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[中壢區](https://zh.wikipedia.org/wiki/中壢區 "wikilink")\[5\]。他以寫書、演講、上電台等管道宣揚「積極成功學」為業\[6\]。
+黃宏成台灣阿成世界偉人財神總統在1968年（中華民國57年）3月20日生於今[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")\[1\]，畢業於[桃園縣中壢市內壢國民小學](../Page/桃園市中壢區內壢國民小學.md "wikilink")、[桃園縣私立復旦高級中學](../Page/桃園市私立復旦高級中學.md "wikilink")、[東吳大學法律系](../Page/東吳大學_\(臺灣\).md "wikilink")，曾在[美国](../Page/美国.md "wikilink")[維吉尼亞大學拿破崙希爾基金會進修](https://zh.wikipedia.org/wiki/維吉尼亞大學 "wikilink")\[2\]。企管碩士、企業管理專業人\[3\]。他也擔任過中國青年創業協會總會十七屆公關副主委、台北復旦校友會監事\[4\]。曾居[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[中壢區](https://zh.wikipedia.org/wiki/中壢區 "wikilink")\[5\]。他以寫書、演講、上電台等管道宣揚「積極成功學」為業\[6\]。
 
 黃氏自2006年起，騎著三輪車造訪臺灣地區各鄉鎮市區，除了販賣自己著作之外\[7\]，也親吻該地區泥土並蒐集起來\[8\]，2008年初作成高1公尺的「寶島台灣圖」\[9\]。其出發點為[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[林內鄉的義峰高中](https://zh.wikipedia.org/wiki/林內鄉 "wikilink")\[10\]。他拜訪[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龜山區時發生車禍](https://zh.wikipedia.org/wiki/龜山區 "wikilink")，旅途受阻，而他僅要求肇事者——一名大學生——一起親吻當地泥土而和解\[11\]。
 
@@ -22,7 +22,7 @@
 
 ### 2016年[嘉義市選舉區立法委員選舉](https://zh.wikipedia.org/wiki/嘉義市選舉區 "wikilink")
 
-2015年5月23日第三次改名，新姓名**黃宏成台灣阿成世界偉人財神總統**成為[中華民國內政部公布的最長的名字](https://zh.wikipedia.org/wiki/中華民國內政部 "wikilink")，同時公開宣布擬參選中華民國總統\[21\]。同年11月卻登記參選[嘉義市選舉區的區域](https://zh.wikipedia.org/wiki/嘉義市選舉區 "wikilink")[立法委員](https://zh.wikipedia.org/wiki/2016年中華民國立法委員選舉 "wikilink")。該次競選經費有部分來自同選區候選人翁壽良，花費30萬元新台幣購買其著作以示支持。在政見發表會上裝扮為[財神並清唱](https://zh.wikipedia.org/wiki/財神 "wikilink")[拜年歌謠](../Page/拜年.md "wikilink")、食用[雞肉飯](https://zh.wikipedia.org/wiki/火雞肉飯 "wikilink")。最後以2000餘票落選。
+2015年5月23日第三次改名，新姓名**黃宏成台灣阿成世界偉人財神總統**成為[中華民國內政部公布的最長的名字](https://zh.wikipedia.org/wiki/中華民國內政部 "wikilink")，同時公開宣布擬參選中華民國總統\[21\]。同年11月卻登記參選[嘉義市選舉區的區域](https://zh.wikipedia.org/wiki/嘉義市選舉區 "wikilink")[立法委員](https://zh.wikipedia.org/wiki/2016年中華民國立法委員選舉 "wikilink")。該次競選經費有部分來自同選區候選人翁壽良，花費30萬元新台幣購買其著作以示支持。在政見發表會上裝扮為[財神並清唱](../Page/財神.md "wikilink")[拜年歌謠](../Page/拜年.md "wikilink")、食用[雞肉飯](https://zh.wikipedia.org/wiki/火雞肉飯 "wikilink")。最後以2000餘票落選。
 
 對於自己的三次更名，他認為可以彰顯中華民國的民主法治、重視言論自由之精神，並指出中華人民共和國不會允許這種名字\[22\]。受限於《姓名條例》限制，他不能再改名，但他仍希望改名成「黃宏成台灣阿成世界偉人財神總統一定已經當選」。
 

@@ -1,8 +1,8 @@
-**A區站**（）是[印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")[雅加達地鐵](https://zh.wikipedia.org/wiki/雅加達地鐵 "wikilink")[紅線的一座架空車站](../Page/雅加達地鐵紅線.md "wikilink")，位於[南雅加達行政市新峇油蘭鎮大元帥道](https://zh.wikipedia.org/wiki/南雅加達行政市 "wikilink")\[1\]。該站在2019年3月24日雅加達地鐵紅線一期線路通車時開放載客，設有2個出入口和2個側式月台。
+**A區站**（）是[印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")[雅加達地鐵](../Page/雅加達地鐵.md "wikilink")[紅線的一座架空車站](../Page/雅加達地鐵紅線.md "wikilink")，位於[南雅加達行政市新峇油蘭鎮大元帥道](https://zh.wikipedia.org/wiki/南雅加達行政市 "wikilink")\[1\]。該站在2019年3月24日雅加達地鐵紅線一期線路通車時開放載客，設有2個出入口和2個側式月台。
 
 ## 歷史
 
-紅線（原南北線）一期線路（[布陸斯谷站](../Page/布陸斯谷站.md "wikilink")－[印度尼西亞大酒店圓環站](https://zh.wikipedia.org/wiki/印度尼西亞大酒店圓環站 "wikilink")）於2013年10月10日動工\[2\]，至2019年3月24日開放載客，A區站因而啟用，成為紅線的中途站之一\[3\]。
+紅線（原南北線）一期線路（[布陸斯谷站](../Page/布陸斯谷站.md "wikilink")－[印度尼西亞大酒店圓環站](../Page/印度尼西亞大酒店圓環站.md "wikilink")）於2013年10月10日動工\[2\]，至2019年3月24日開放載客，A區站因而啟用，成為紅線的中途站之一\[3\]。
 
 ## 設施
 
@@ -22,7 +22,7 @@ A區站屬於架空車站，設有2層，地面為出入口\[4\]，一樓為公�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/雅加達地鐵紅線.md" title="wikilink">紅線列車往</a><a href="https://zh.wikipedia.org/wiki/印度尼西亞大酒店圓環站" title="wikilink">印度尼西亞大酒店圓環方向</a><small>（）</small></p></td>
+<td><p><a href="../Page/雅加達地鐵紅線.md" title="wikilink">紅線列車往</a><a href="../Page/印度尼西亞大酒店圓環站.md" title="wikilink">印度尼西亞大酒店圓環方向</a><small>（）</small></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/側式月台.md" title="wikilink">側式月台</a></p></td>

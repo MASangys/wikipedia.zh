@@ -18,7 +18,7 @@ TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")*'歷年�
 </tr>
 <tr class="even">
 <td><p>2019年3月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p>YES24 LIVE HALL</p></td>
 </tr>
@@ -32,7 +32,7 @@ TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")*'歷年�
 </table>
 
   - **美國首場巡迴Showcase《[TOMORROW X TOGETHER SHOWCASE: STAR in
-    US](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER_SHOWCASE:_STAR_in_US "wikilink")》**\[2\]
+    US](../Page/TOMORROW_X_TOGETHER_SHOWCASE:_STAR_in_US.md "wikilink")》**\[2\]
 
 <table>
 <tbody>
@@ -95,7 +95,7 @@ TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")*'歷年�
 </tr>
 <tr class="even">
 <td><p>2019年3月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p>Nuri Dream Square 3樓 國際會議室</p></td>
 </tr>

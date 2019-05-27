@@ -10,12 +10,12 @@ recorded = 2016－2018 | genre = | length = 42:54 | label =
     于2018年11月30日由
     [大西洋唱片发行](../Page/大西洋唱片.md "wikilink")。该专辑包含单曲〈〉（由演唱），〈〉（由
     [肖恩·保罗和](../Page/尚恩·保罗.md "wikilink")
-    [安妮·玛丽演唱](https://zh.wikipedia.org/wiki/安-瑪莉_\(英國歌手\) "wikilink")）、〈〉（由
+    [安妮·玛丽演唱](../Page/安-瑪莉_\(英國歌手\).md "wikilink")）、〈〉（由
     [莎拉·拉尔森演唱](../Page/莎拉·拉尔森.md "wikilink")）、〈〉（由
-    [茱莉亚·迈克尔斯演唱](https://zh.wikipedia.org/wiki/茱莉亞·麥可斯 "wikilink")）、〈〉（由
+    [茱莉亚·迈克尔斯演唱](../Page/茱莉亞·麥可斯.md "wikilink")）、〈〉（由
     [黛米·洛瓦托演唱](https://zh.wikipedia.org/wiki/黛米·洛瓦托 "wikilink")) 和〈〉（由
     [玛琳娜·戴曼迪斯和](https://zh.wikipedia.org/wiki/瑪琳娜·戴曼迪斯 "wikilink")
-    [路易斯·冯西演唱](https://zh.wikipedia.org/wiki/路易斯·馮西 "wikilink")）。\[1\]此外，该专辑亦与
+    [路易斯·冯西演唱](../Page/路易斯·馮西.md "wikilink")）。\[1\]此外，该专辑亦与
     [艾丽·高登](../Page/艾丽·高登.md "wikilink")，
     [瑞塔·欧拉](../Page/瑞塔·奥拉.md "wikilink")，，
     [查莉·XCX和](../Page/查莉·XCX.md "wikilink")合作。\[2\]

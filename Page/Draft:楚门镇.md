@@ -22,7 +22,7 @@
 
 ### 位置
 
-楚门镇位于浙江省东南沿海，玉环市中部偏东北，[玉环－楚门半岛](https://zh.wikipedia.org/wiki/楚门－玉环半岛 "wikilink")（一说港北半岛）西部。北接[清港镇](https://zh.wikipedia.org/wiki/清港镇 "wikilink")，南邻[龙溪镇](https://zh.wikipedia.org/wiki/龙溪镇_\(玉环市\) "wikilink")，西隔[漩门湾与](https://zh.wikipedia.org/wiki/漩门湾 "wikilink")[芦浦镇](https://zh.wikipedia.org/wiki/芦浦镇_\(玉环市\) "wikilink")、[玉环经济开发区](https://zh.wikipedia.org/wiki/浙江玉环经济开发区 "wikilink")（漩门二期）相望，东临[沙门镇](../Page/沙门镇.md "wikilink")\[15\]\[16\]\[17\]。镇人民政府驻地距县城11公里\[18\]。全境面积为37.5[平方公里](https://zh.wikipedia.org/wiki/平方千米 "wikilink")\[19\]（田马乡和外塘乡并入前为9.76平方公里\[20\]）。
+楚门镇位于浙江省东南沿海，玉环市中部偏东北，[玉环－楚门半岛](https://zh.wikipedia.org/wiki/楚门－玉环半岛 "wikilink")（一说港北半岛）西部。北接[清港镇](https://zh.wikipedia.org/wiki/清港镇 "wikilink")，南邻[龙溪镇](https://zh.wikipedia.org/wiki/龙溪镇_\(玉环市\) "wikilink")，西隔[漩门湾与](https://zh.wikipedia.org/wiki/漩门湾 "wikilink")[芦浦镇](https://zh.wikipedia.org/wiki/芦浦镇_\(玉环市\) "wikilink")、[玉环经济开发区](../Page/浙江玉环经济开发区.md "wikilink")（漩门二期）相望，东临[沙门镇](../Page/沙门镇.md "wikilink")\[15\]\[16\]\[17\]。镇人民政府驻地距县城11公里\[18\]。全境面积为37.5[平方公里](https://zh.wikipedia.org/wiki/平方千米 "wikilink")\[19\]（田马乡和外塘乡并入前为9.76平方公里\[20\]）。
 
 ### 地形
 

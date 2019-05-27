@@ -118,7 +118,7 @@ Hall in the 2012 war film *[Red Tails](../Page/紅色尾翼.md "wikilink")*.
 He played Dr. Arbuthnot in [Kenneth
 Branagh](../Page/簡尼夫·班納.md "wikilink")'s 2017 adaptation of
 *[Murder on the Orient
-Express](https://zh.wikipedia.org/wiki/東方快車謀殺案_\(2017年電影\) "wikilink")*.\[14\]
+Express](../Page/東方快車謀殺案_\(2017年電影\).md "wikilink")*.\[14\]
 
 ### Recording career
 
@@ -206,7 +206,7 @@ Affair](../Page/婚外情事.md "wikilink")*.\[27\]
 </tr>
 <tr class="odd">
 <td><p>2004</p></td>
-<td><p>''<a href="https://zh.wikipedia.org/wiki/澤西男孩" title="wikilink">Jersey Boys</a></p></td>
+<td><p>''<a href="../Page/澤西男孩.md" title="wikilink">Jersey Boys</a></p></td>
 <td><p>Ensemble</p></td>
 <td><p>October 5, 2004 – January 16, 2005</p></td>
 <td><p>{{tsl|en|La Jolla Playhouse</p></td>
@@ -314,42 +314,42 @@ Affair](../Page/婚外情事.md "wikilink")*.\[27\]
 
 ### Film
 
-| Year | Title                                                                                          | Role                      | Notes |
-| ---- | ---------------------------------------------------------------------------------------------- | ------------------------- | ----- |
-| 2007 | *Scarecrow Joe*                                                                                | Joe                       | Short |
-| 2012 | *[Red Tails](../Page/紅色尾翼.md "wikilink")*\[28\]                                                | Declan 'Winky' Hall       |       |
-| 2015 | *Luna Goes Cruising*                                                                           | Oscar                     | Short |
-| 2017 | *[Murder on the Orient Express](https://zh.wikipedia.org/wiki/東方快車謀殺案_\(2017年電影\) "wikilink")* | Dr. Arbuthnot             |       |
-| TBA  | ''{{tsl|en|Needle in a Timestack                                                               | Needle in a Timestack}}'' |       |
-| TBA  | ''{{tsl|en|Harriet (film)                                                                      | Harriet}}''               |       |
+| Year | Title                                                                       | Role                      | Notes |
+| ---- | --------------------------------------------------------------------------- | ------------------------- | ----- |
+| 2007 | *Scarecrow Joe*                                                             | Joe                       | Short |
+| 2012 | *[Red Tails](../Page/紅色尾翼.md "wikilink")*\[28\]                             | Declan 'Winky' Hall       |       |
+| 2015 | *Luna Goes Cruising*                                                        | Oscar                     | Short |
+| 2017 | *[Murder on the Orient Express](../Page/東方快車謀殺案_\(2017年電影\).md "wikilink")* | Dr. Arbuthnot             |       |
+| TBA  | ''{{tsl|en|Needle in a Timestack                                            | Needle in a Timestack}}'' |       |
+| TBA  | ''{{tsl|en|Harriet (film)                                                   | Harriet}}''               |       |
 
 ### Television
 
-| Year      | Title                                                                                               | Role                      | Notes                                                                                             |
-| --------- | --------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------- |
-| 2003–2006 | *[CSI: Miami](../Page/CSI犯罪現場：邁阿密.md "wikilink")*                                                   | Joseph Kayle              | Recurring role; 9 episodes                                                                        |
-| 2004      | ''{{tsl|en|The Big House (2004 TV series)                                                           | The Big House}}''         | Lamont                                                                                            |
-| 2006      | ''{{tsl|en|Threshold (TV series)                                                                    | Threshold}}''             | Sergeant Adams                                                                                    |
-| 2006      | *[Gilmore Girls](https://zh.wikipedia.org/wiki/奇異果女孩 "wikilink")*                                   | Quentin Walsh             | Episode: "Bridesmaids Revisited"                                                                  |
-| 2006      | ''{{tsl|en|Vanished                                                                                 | Vanished}}''              | Agent Malik Christo                                                                               |
-| 2006      | ''{{tsl|en|Close to Home (2005 TV series)                                                           | Close To Home}}           | Jordan Carter                                                                                     |
-| 2006–2007 | ''{{tsl|en|Big Day                                                                                  | Big Day}}''               | Freddy                                                                                            |
-| 2007      | ''{{tsl|en|The Bill Engvall Show                                                                    | The Bill Engvall Show}}'' | Mr. Pratt                                                                                         |
-| 2007      | *Supreme Courtships*                                                                                | Marcus                    | TV movie                                                                                          |
-| 2008      | *[Grey's Anatomy](../Page/實習醫生_\(電視劇\).md "wikilink")*                                              | P.J. Walling              | Episode: "There's No "I" In Team"                                                                 |
-| 2011      | *[NCIS: Los Angeles](../Page/海军罪案调查处：洛杉矶.md "wikilink")*                                            | FBI Agent Duane Lausten   | Episode: "Archangel"                                                                              |
-| 2011      | ''{{tsl|en|Zeke and Luther                                                                          | Zeke and Luther}}''       | Mr. Arliss Bunnyson                                                                               |
-| 2011      | ''{{tsl|en|Bandwagon (Australian TV series)                                                         | Bandwagon}}''             | Urban Glee performer                                                                              |
-| 2011      | *[Supernatural](../Page/邪恶力量.md "wikilink")*                                                        | Guy                       | Episode: "Season Seven, Time For A Wedding"                                                       |
-| 2011      | *Poe*                                                                                               | Julian 'Jupiter' Noble    | TV movie                                                                                          |
-| 2012      | ''{{tsl|en|House of Lies                                                                            | House of Lies}}''         | James                                                                                             |
-| 2013      | *[Smash](../Page/名聲大噪.md "wikilink")*                                                               | Sam Strickland            | Lead role; 23 episodes                                                                            |
-| 2013      | *[Person of Interest](https://zh.wikipedia.org/wiki/疑犯追踪 "wikilink")*                               | Peter Collier             | Recurring role; 8 episodes                                                                        |
-| 2013–2015 | *[Law & Order: Special Victims Unit](../Page/法律与秩序：特殊受害者.md "wikilink")*                            | Reverend Curtis Scott     | Recurring role; 7 episodes                                                                        |
-| 2014      | *[Gotham](https://zh.wikipedia.org/wiki/高譚_\(電視劇\) "wikilink")*                                     | Ian Hargrove              | Episode: "Harvey Dent"                                                                            |
-| 2016      | *[The Good Wife](../Page/「法」妻.md "wikilink")*                                                       | Barry Pert                | Episode: "Unmanned"                                                                               |
-| 2016      | *Aaron Burr, Sir: Backstage at [Hamilton](../Page/漢密爾頓_\(音樂劇\).md "wikilink") with Leslie Odom Jr.* | Host                      | Web series; 8 episodes                                                                            |
-| 2018      | *[We Bare Bears](../Page/咱们裸熊.md "wikilink")*                                                       | Dr. Leslie (voice)        | Episode: "[More Everyone's Tube](https://zh.wikipedia.org/wiki/熊熊遇見你各集列表 "wikilink")"\[29\]\[30\] |
+| Year      | Title                                                                                               | Role                      | Notes                                                                          |
+| --------- | --------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------ |
+| 2003–2006 | *[CSI: Miami](../Page/CSI犯罪現場：邁阿密.md "wikilink")*                                                   | Joseph Kayle              | Recurring role; 9 episodes                                                     |
+| 2004      | ''{{tsl|en|The Big House (2004 TV series)                                                           | The Big House}}''         | Lamont                                                                         |
+| 2006      | ''{{tsl|en|Threshold (TV series)                                                                    | Threshold}}''             | Sergeant Adams                                                                 |
+| 2006      | *[Gilmore Girls](https://zh.wikipedia.org/wiki/奇異果女孩 "wikilink")*                                   | Quentin Walsh             | Episode: "Bridesmaids Revisited"                                               |
+| 2006      | ''{{tsl|en|Vanished                                                                                 | Vanished}}''              | Agent Malik Christo                                                            |
+| 2006      | ''{{tsl|en|Close to Home (2005 TV series)                                                           | Close To Home}}           | Jordan Carter                                                                  |
+| 2006–2007 | ''{{tsl|en|Big Day                                                                                  | Big Day}}''               | Freddy                                                                         |
+| 2007      | ''{{tsl|en|The Bill Engvall Show                                                                    | The Bill Engvall Show}}'' | Mr. Pratt                                                                      |
+| 2007      | *Supreme Courtships*                                                                                | Marcus                    | TV movie                                                                       |
+| 2008      | *[Grey's Anatomy](../Page/實習醫生_\(電視劇\).md "wikilink")*                                              | P.J. Walling              | Episode: "There's No "I" In Team"                                              |
+| 2011      | *[NCIS: Los Angeles](../Page/海军罪案调查处：洛杉矶.md "wikilink")*                                            | FBI Agent Duane Lausten   | Episode: "Archangel"                                                           |
+| 2011      | ''{{tsl|en|Zeke and Luther                                                                          | Zeke and Luther}}''       | Mr. Arliss Bunnyson                                                            |
+| 2011      | ''{{tsl|en|Bandwagon (Australian TV series)                                                         | Bandwagon}}''             | Urban Glee performer                                                           |
+| 2011      | *[Supernatural](../Page/邪恶力量.md "wikilink")*                                                        | Guy                       | Episode: "Season Seven, Time For A Wedding"                                    |
+| 2011      | *Poe*                                                                                               | Julian 'Jupiter' Noble    | TV movie                                                                       |
+| 2012      | ''{{tsl|en|House of Lies                                                                            | House of Lies}}''         | James                                                                          |
+| 2013      | *[Smash](../Page/名聲大噪.md "wikilink")*                                                               | Sam Strickland            | Lead role; 23 episodes                                                         |
+| 2013      | *[Person of Interest](https://zh.wikipedia.org/wiki/疑犯追踪 "wikilink")*                               | Peter Collier             | Recurring role; 8 episodes                                                     |
+| 2013–2015 | *[Law & Order: Special Victims Unit](../Page/法律与秩序：特殊受害者.md "wikilink")*                            | Reverend Curtis Scott     | Recurring role; 7 episodes                                                     |
+| 2014      | *[Gotham](https://zh.wikipedia.org/wiki/高譚_\(電視劇\) "wikilink")*                                     | Ian Hargrove              | Episode: "Harvey Dent"                                                         |
+| 2016      | *[The Good Wife](../Page/「法」妻.md "wikilink")*                                                       | Barry Pert                | Episode: "Unmanned"                                                            |
+| 2016      | *Aaron Burr, Sir: Backstage at [Hamilton](../Page/漢密爾頓_\(音樂劇\).md "wikilink") with Leslie Odom Jr.* | Host                      | Web series; 8 episodes                                                         |
+| 2018      | *[We Bare Bears](../Page/咱们裸熊.md "wikilink")*                                                       | Dr. Leslie (voice)        | Episode: "[More Everyone's Tube](../Page/熊熊遇見你各集列表.md "wikilink")"\[29\]\[30\] |
 
 ### Awards and nominations
 
@@ -432,7 +432,7 @@ Affair](../Page/婚外情事.md "wikilink")*.\[27\]
 <td><p>{{tsl|en|2018 Teen Choice Awards</p></td>
 <td><p>Teen Choice Awards}}</p></td>
 <td><p>Choice Drama Movie Actor</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/東方快車謀殺案_(2017年電影)" title="wikilink">Murder on the Orient Express</a></p></td>
+<td><p><a href="../Page/東方快車謀殺案_(2017年電影).md" title="wikilink">Murder on the Orient Express</a></p></td>
 </tr>
 </tbody>
 </table>

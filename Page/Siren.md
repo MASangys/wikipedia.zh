@@ -2,14 +2,14 @@
 
 ## 創作背景
 
-9月4日，宣美透過發片記者會表示，此曲與前先〈[Gashina](https://zh.wikipedia.org/wiki/Gashina "wikilink")〉、〈[Heroine](https://zh.wikipedia.org/wiki/Heroine "wikilink")〉兩單曲共組警告三部曲，並表示此曲在[JYP娛樂藝人與製作部門](../Page/JYP娛樂.md "wikilink")（A\&R{{\#tag:ref|根據該公司2017年的財報，該公司A\&R部門負責試鏡、培訓藝人，和製作音樂、影像、訂定藝人風格等工作\[1\]\[2\]。|group="注"}}）組裡成為最後的候選作品，為[Wonder
+9月4日，宣美透過發片記者會表示，此曲與前先〈[Gashina](../Page/Gashina.md "wikilink")〉、〈[Heroine](../Page/Heroine.md "wikilink")〉兩單曲共組警告三部曲，並表示此曲在[JYP娛樂藝人與製作部門](../Page/JYP娛樂.md "wikilink")（A\&R{{\#tag:ref|根據該公司2017年的財報，該公司A\&R部門負責試鏡、培訓藝人，和製作音樂、影像、訂定藝人風格等工作\[1\]\[2\]。|group="注"}}）組裡成為最後的候選作品，為[Wonder
 Girls最後一張專輯](../Page/Wonder_Girls.md "wikilink")《[Why So
 Lonely](../Page/Why_So_Lonely_\(Wonder_Girls單曲\).md "wikilink")》同額競選曲\[3\]。
 
 ## 舞蹈
 
 宣美在此單曲的舞蹈动作多次用到膝蓋。宣美曾经於[JTBC綜藝節目](../Page/JTBC.md "wikilink")《[Idol
-Room](https://zh.wikipedia.org/wiki/Idol_Room "wikilink")》想要捲起褲子展現腿的長與美時，意外顯露膝蓋多處瘀青，引起粉絲們討論\[4\]。而在9月15日MBC電視台播送的《全知干預視角》，宣美在舞蹈練習前摘下了經紀人所戴上的護膝，並表示「上舞台就要讓膝蓋對痛覺感到麻木才行。\[5\]」
+Room](../Page/Idol_Room.md "wikilink")》想要捲起褲子展現腿的長與美時，意外顯露膝蓋多處瘀青，引起粉絲們討論\[4\]。而在9月15日MBC電視台播送的《全知干預視角》，宣美在舞蹈練習前摘下了經紀人所戴上的護膝，並表示「上舞台就要讓膝蓋對痛覺感到麻木才行。\[5\]」
 
 ## 節目放送
 
@@ -20,7 +20,7 @@ US娛樂則發出聲明表示：「宣美於《音樂銀行》事前錄製過程
 
 ### 年末舞台走光事件
 
-宣美在2018年[SBS歌謠大戰表演](../Page/SBS歌謠大戰.md "wikilink")《[Siren](https://zh.wikipedia.org/wiki/Siren "wikilink")》時，疑似因為舞蹈動作太激烈，導致上身肩帶斷裂，令上衣慢慢下滑，最終左胸內衣整個露出\[9\]。而宣美並未因此中斷舞台，敬業完成演出\[10\]。事後，粉絲認為造型師沒能為藝人準備好適當的舞台服\[11\]。
+宣美在2018年[SBS歌謠大戰表演](../Page/SBS歌謠大戰.md "wikilink")《[Siren](../Page/Siren.md "wikilink")》時，疑似因為舞蹈動作太激烈，導致上身肩帶斷裂，令上衣慢慢下滑，最終左胸內衣整個露出\[9\]。而宣美並未因此中斷舞台，敬業完成演出\[10\]。事後，粉絲認為造型師沒能為藝人準備好適當的舞台服\[11\]。
 
 ## 發行與排行
 
@@ -35,17 +35,17 @@ Music等韓國](../Page/NAVER.md "wikilink")7大音樂網站的實時排行榜�
 
 ### 排行榜
 
-| 榜單（2018年）                                                                          | 峰值 |
-| ---------------------------------------------------------------------------------- | -- |
-| 中國巔峰榜·韓國（[QQ音樂](../Page/QQ音乐.md "wikilink")）\[14\]                                 | 1  |
-| KKBOX風雲榜·韓國（[KKBOX](../Page/KKBOX.md "wikilink")）\[15\]                            | 1  |
-| 新加坡（）\[16\]                                                                        | 3  |
-| 韓國（）\[17\]                                                                         | 1  |
-| 韓國（[Gaon單曲榜](https://zh.wikipedia.org/wiki/2018年Gaon單曲冠軍作品列表 "wikilink")）\[18\]    | 1  |
-| 韓國（[Gaon下載榜](https://zh.wikipedia.org/wiki/2018年Gaon數位下載冠軍作品列表 "wikilink")）\[19\]  | 1  |
-| 韓國（[Gaon串流媒體榜](https://zh.wikipedia.org/wiki/2018年Gaon流媒體冠軍作品列表 "wikilink")）\[20\] | 1  |
-| 韓國（Gaon背景音樂榜）\[21\]                                                                | 6  |
-| 韓國（Gaon手機鈴聲榜）\[22\]                                                                | 3  |
+| 榜單（2018年）                                                       | 峰值 |
+| --------------------------------------------------------------- | -- |
+| 中國巔峰榜·韓國（[QQ音樂](../Page/QQ音乐.md "wikilink")）\[14\]              | 1  |
+| KKBOX風雲榜·韓國（[KKBOX](../Page/KKBOX.md "wikilink")）\[15\]         | 1  |
+| 新加坡（）\[16\]                                                     | 3  |
+| 韓國（）\[17\]                                                      | 1  |
+| 韓國（[Gaon單曲榜](../Page/2018年Gaon單曲冠軍作品列表.md "wikilink")）\[18\]    | 1  |
+| 韓國（[Gaon下載榜](../Page/2018年Gaon數位下載冠軍作品列表.md "wikilink")）\[19\]  | 1  |
+| 韓國（[Gaon串流媒體榜](../Page/2018年Gaon流媒體冠軍作品列表.md "wikilink")）\[20\] | 1  |
+| 韓國（Gaon背景音樂榜）\[21\]                                             | 6  |
+| 韓國（Gaon手機鈴聲榜）\[22\]                                             | 3  |
 
 週榜單
 

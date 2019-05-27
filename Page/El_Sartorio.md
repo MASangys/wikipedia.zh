@@ -6,7 +6,7 @@
 
 ## 另见
 
-  - [洞房夜新娘](https://zh.wikipedia.org/wiki/洞房夜新娘 "wikilink")
+  - [洞房夜新娘](../Page/洞房夜新娘.md "wikilink")
 
 ## 参考资料
 

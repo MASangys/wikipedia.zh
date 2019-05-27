@@ -4,8 +4,7 @@ S\&W](../Page/.40_S&W.md "wikilink")[口徑這兩種](https://zh.wikipedia.org/w
 
 CZ P-10
 C具有機械性和熱穩定性[聚合物](../Page/聚合物.md "wikilink")[底把](https://zh.wikipedia.org/wiki/機匣 "wikilink")，並且採用了[玻璃钢和三塊可互換的握把背板加固](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")。\[2\]其[彈匣可向下與](../Page/彈匣.md "wikilink")[CZ
-75
-P-07兼容](https://zh.wikipedia.org/wiki/CZ_75_P-07手槍 "wikilink")，但反之卻不能。\[3\]
+75 P-07兼容](../Page/CZ_75_P-07手槍.md "wikilink")，但反之卻不能。\[3\]
 
 CZ P-10
 C是[格洛克19的直接競爭對手](../Page/格洛克19.md "wikilink")。\[4\]兩款手槍具有非常相似的特性，但格洛克的重量輕便了約為68.0455克（2.4盎司，0.15磅）、要短約2.54毫米（十分之一英寸），並具有不同的握角。\[5\]
@@ -68,7 +67,7 @@ CZ P-10 C被評為“2017年度手槍”獎。\[23\]
     C以及裝上以色列CAA公司生产的Micro-Roni手枪-卡宾枪转换套件衍生型：
       - CZ P-10 C于第三年追加下载内容“暗空行動”（Operation Grim
         Sky）中登场，加装Docter[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")，命名为“P-10C”，被城市戰術反應部隊「暗空」
-        GSUTR（[倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業槍械司令部](https://zh.wikipedia.org/wiki/專業槍械司令部 "wikilink")）的特勤幹員Clash用作她的其中一款副武器。\[24\]
+        GSUTR（[倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業槍械司令部](../Page/專業槍械司令部.md "wikilink")）的特勤幹員Clash用作她的其中一款副武器。\[24\]
           - 雖然該武器在遊戲當中並無生產商，但它被判斷為CZ P-10 C的衍生型。\[25\]\[26\]
       - 裝上CAA Micro-Roni手枪-卡宾枪转换套件的衍生型于第四年追加下载内容“燃烧地平线行动”（Operation
         Burnt Horizon）中登场，命名为“P-10
@@ -78,18 +77,15 @@ CZ P-10 C被評為“2017年度手槍”獎。\[23\]
 
   - [CZ 75手槍](../Page/CZ_75手槍.md "wikilink")
   - [CZ 85手槍](../Page/CZ_85手槍.md "wikilink")
-  - [CZ 75
-    P-01手槍](https://zh.wikipedia.org/wiki/CZ_75_P-01手槍 "wikilink")
-  - [CZ 75
-    P-07手槍](https://zh.wikipedia.org/wiki/CZ_75_P-07手槍 "wikilink")
+  - [CZ 75 P-01手槍](../Page/CZ_75_P-01手槍.md "wikilink")
+  - [CZ 75 P-07手槍](../Page/CZ_75_P-07手槍.md "wikilink")
   - [CZ 75 P-09手槍](../Page/CZ_75_P-09手槍.md "wikilink")
   - [CZ 75 SP-01手槍](../Page/CZ_75_SP-01手槍.md "wikilink")
   - [CZ 75戰術運動型手槍](../Page/CZ_75戰術運動型手槍.md "wikilink")
   - [CZ 97手槍](../Page/CZ_97手槍.md "wikilink")
-  - [CZ 100手槍](https://zh.wikipedia.org/wiki/CZ_100手槍 "wikilink")
+  - [CZ 100手槍](../Page/CZ_100手槍.md "wikilink")
   - [CZ 110手槍](../Page/CZ_110手槍.md "wikilink")
-  - [CZ 2075
-    RAMI手槍](https://zh.wikipedia.org/wiki/CZ_2075_RAMI手槍 "wikilink")
+  - [CZ 2075 RAMI手槍](../Page/CZ_2075_RAMI手槍.md "wikilink")
 
 ## 資料來源
 

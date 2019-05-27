@@ -1,4 +1,4 @@
-**ENERGA反坦克槍榴彈**（）是一款於1950年代初研製、由填充的[空包彈所推動的尾翼穩定式](../Page/空包彈.md "wikilink")[反坦克](../Page/高爆反坦克彈.md "wikilink")[22毫米](https://zh.wikipedia.org/wiki/22毫米槍榴彈 "wikilink")[槍榴彈](../Page/步槍用榴彈.md "wikilink")。**ENERGA**這個名字來自設計它的[列支敦士登的公司](https://zh.wikipedia.org/wiki/列支敦士登 "wikilink")，總部設在[瓦都茲的發明及工商業應用開發研究所](../Page/瓦都茲.md "wikilink")（）。\[1\]
+**ENERGA反坦克槍榴彈**（）是一款於1950年代初研製、由填充的[空包彈所推動的尾翼穩定式](../Page/空包彈.md "wikilink")[反坦克](../Page/高爆反坦克彈.md "wikilink")[22毫米](../Page/22毫米槍榴彈.md "wikilink")[槍榴彈](../Page/步槍用榴彈.md "wikilink")。**ENERGA**這個名字來自設計它的[列支敦士登的公司](https://zh.wikipedia.org/wiki/列支敦士登 "wikilink")，總部設在[瓦都茲的發明及工商業應用開發研究所](../Page/瓦都茲.md "wikilink")（）。\[1\]
 
 該槍榴彈最初於1950年代由[比利时](../Page/比利时.md "wikilink")所生產，並且在歐洲軍隊部署在前線上使用，直到被[M72
 LAW等一次性管射式反坦克](../Page/M72輕型反裝甲武器.md "wikilink")[火箭彈發射器所取代](https://zh.wikipedia.org/wiki/火箭彈發射器 "wikilink")。雖然已不再生產，該槍榴彈的庫存卻仍然存在，ENERGA槍榴彈目前甚至仍然在[第三世界國家服役](../Page/第三世界.md "wikilink")。[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")亦在ENERGA槍榴彈以上，生產了其改進型R1M1。\[2\]
@@ -9,7 +9,7 @@ LAW等一次性管射式反坦克](../Page/M72輕型反裝甲武器.md "wikilink
 
 ## 在美國服役
 
-在[朝鲜战争初期](../Page/朝鲜战争.md "wikilink")，[美军發現他們自](../Page/美军.md "wikilink")[第二次世界大战起採用的](../Page/第二次世界大战.md "wikilink")對[T-34](../Page/T-34坦克.md "wikilink")[中型坦克的正面裝甲無效](../Page/中型坦克.md "wikilink")。這使得從1950年到1960年間，美國啓動了緊急反制措施，採用自行生產的ENERGA版本，即**M28槍榴彈**。\[7\]\[8\]M28最初是由所專有的T119（改進自[M1「加兰德」](../Page/M1加兰德步枪.md "wikilink")）和T120（改進自[M1卡宾枪](../Page/M1卡宾枪.md "wikilink")）兩款發射器所發射的。從1952年9月起，T119很快就被改進的（裝設於M1「加兰德」）所取代。M28最終被美軍以[M31反坦克槍榴彈所取代](https://zh.wikipedia.org/wiki/M31反坦克槍榴彈 "wikilink")，而後者以後亦被[M72
+在[朝鲜战争初期](../Page/朝鲜战争.md "wikilink")，[美军發現他們自](../Page/美军.md "wikilink")[第二次世界大战起採用的](../Page/第二次世界大战.md "wikilink")對[T-34](../Page/T-34坦克.md "wikilink")[中型坦克的正面裝甲無效](../Page/中型坦克.md "wikilink")。這使得從1950年到1960年間，美國啓動了緊急反制措施，採用自行生產的ENERGA版本，即**M28槍榴彈**。\[7\]\[8\]M28最初是由所專有的T119（改進自[M1「加兰德」](../Page/M1加兰德步枪.md "wikilink")）和T120（改進自[M1卡宾枪](../Page/M1卡宾枪.md "wikilink")）兩款發射器所發射的。從1952年9月起，T119很快就被改進的（裝設於M1「加兰德」）所取代。M28最終被美軍以[M31反坦克槍榴彈所取代](../Page/M31反坦克槍榴彈.md "wikilink")，而後者以後亦被[M72
 LAW火箭彈所取代](../Page/M72輕型反裝甲武器.md "wikilink")。而M29
 TP（彈）則仍在使用，直到1961才年由改進的M31 TP所取代。
 
@@ -121,12 +121,12 @@ GR PRAC 75毫米。
   -
   -
   -
-  - [M31反坦克槍榴彈](https://zh.wikipedia.org/wiki/M31反坦克槍榴彈 "wikilink")
+  - [M31反坦克槍榴彈](../Page/M31反坦克槍榴彈.md "wikilink")
 
   -
   -
   -
-  - [STRIM 65槍榴彈](https://zh.wikipedia.org/wiki/STRIM_65槍榴彈 "wikilink")
+  - [STRIM 65槍榴彈](../Page/STRIM_65槍榴彈.md "wikilink")
 
   - [AC58槍榴彈](../Page/AC58槍榴彈.md "wikilink")
 

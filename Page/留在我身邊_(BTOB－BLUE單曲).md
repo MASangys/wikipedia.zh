@@ -1,11 +1,11 @@
-《**留在我身邊**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB子團](../Page/BTOB.md "wikilink")[BTOB－BLUE的首張韓文單曲](https://zh.wikipedia.org/wiki/BTOB－BLUE "wikilink")，於2016年9月19日正式發行。
+《**留在我身邊**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB子團](../Page/BTOB.md "wikilink")[BTOB－BLUE的首張韓文單曲](../Page/BTOB－BLUE.md "wikilink")，於2016年9月19日正式發行。
 
 ## 背景
 
 2016年9月13日，[Cube娛樂宣布子團](../Page/Cube娛樂.md "wikilink")「BTOB－BLUE」成立。\[1\]
 
 2016年9月19日，正式發行首張數位單曲《留在我身邊（내 곁에 서
-있어줘）》，由[黑眼必勝擔綱創作](https://zh.wikipedia.org/wiki/黑眼必勝 "wikilink")，MV由成員[Peniel執導](../Page/辛東根.md "wikilink")，音源公開即空降Monkey3
+있어줘）》，由[黑眼必勝擔綱創作](../Page/黑眼必勝.md "wikilink")，MV由成員[Peniel執導](../Page/辛東根.md "wikilink")，音源公開即空降Monkey3
 1位、Genie、Naver、Mnet2位、Melon3位、Olleh4位、Soribada5位。
 
 2016年9月14日，於MBC《Show\! 音樂中心》進行該次活動的出道演出，亦是唯一一場打歌舞台。
@@ -33,13 +33,13 @@
 
 ### Gaon Chart
 
-| 地區                                                                   | 榜單                                                          | 類型                                              | 停留時間          | 最高位置 | 參考資料  |
-| -------------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------- | ------------- | ---- | ----- |
-| 韓國                                                                   | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年9月18－24日 | \#15 | \[2\] |
-| [單曲月榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink")                      | 2016年9月                                                     | \#78                                            | \[3\]         |      |       |
-| [下載週榜](https://zh.wikipedia.org/wiki/2016年Gaon數位下載冠軍作品列表 "wikilink") | 2016年9月18－24日                                               | \#9（82,241+）                                    | \[4\]         |      |       |
-| [下載月榜](https://zh.wikipedia.org/wiki/2016年Gaon數位下載冠軍作品列表 "wikilink") | 2016年9月                                                     | \#57（101,252+）                                  | \[5\]         |      |       |
-|                                                                      |                                                             |                                                 |               |      |       |
+| 地區                                                | 榜單                                                          | 類型                                              | 停留時間          | 最高位置 | 參考資料  |
+| ------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------- | ------------- | ---- | ----- |
+| 韓國                                                | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年9月18－24日 | \#15 | \[2\] |
+| [單曲月榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink")   | 2016年9月                                                     | \#78                                            | \[3\]         |      |       |
+| [下載週榜](../Page/2016年Gaon數位下載冠軍作品列表.md "wikilink") | 2016年9月18－24日                                               | \#9（82,241+）                                    | \[4\]         |      |       |
+| [下載月榜](../Page/2016年Gaon數位下載冠軍作品列表.md "wikilink") | 2016年9月                                                     | \#57（101,252+）                                  | \[5\]         |      |       |
+|                                                   |                                                             |                                                 |               |      |       |
 
 ### 主要音樂節目榜單排名
 

@@ -31,7 +31,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 12/11-<br />
 25/02</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/貓！全部都係貓" title="wikilink">貓！全部都係貓</a><br />
@@ -87,14 +87,14 @@ Why did you come to Japan? (I)</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 01/10-<br />
 07/01</p></td>
 <td style="text-align: center;"><p><a href="../Page/借宿一宵.md" title="wikilink">借宿一宵</a>（第三季）<br />
 Stay Overnight (Season 3)</p></td>
 <td style="text-align: center;"><p>15</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
 <td style="text-align: center;"></td>
@@ -119,7 +119,7 @@ Colin's Exotic Recipes</p></td>
 Ryan and Victoria's Cooking Adventure</p></td>
 <td style="text-align: center;"><p>13</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>飲食節目</strong></p></td>
 <td style="text-align: center;"></td>
@@ -152,7 +152,7 @@ Ryan and Victoria's Cooking Adventure</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 25/12-<br />
 02/04</p></td>
 <td style="text-align: center;"><p><br />
@@ -205,7 +205,7 @@ University Secrets</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 29/08-<br />
 03/04</p></td>
 <td style="text-align: center;"><p><br />
@@ -225,7 +225,7 @@ Senior</p></td>
 Youth Life</p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>生活資訊節目</strong><br />
 5月1日暫停播映</p></td>
@@ -259,14 +259,14 @@ Youth Life</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 06/09-<br />
 07/03</p></td>
 <td style="text-align: center;"><p><br />
 Art in Progress S2</p></td>
 <td style="text-align: center;"><p>26</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>文化節目</strong><br />
 2月7日暫停播映</p></td>
@@ -279,7 +279,7 @@ Art in Progress S2</p></td>
 Art Of Religious Architecture</p></td>
 <td style="text-align: center;"><p>39</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>文化節目</strong></p></td>
 <td style="text-align: center;"></td>
@@ -312,7 +312,7 @@ Art Of Religious Architecture</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 26/01-<br />
 08/02</p></td>
 <td style="text-align: center;"><p><a href="../Page/粵詞越愛.md" title="wikilink">粵詞越愛</a><br />
@@ -344,7 +344,7 @@ Hong Kong is Singing</p></td>
 Local Gingers</p></td>
 <td style="text-align: center;"><p>26</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>音樂節目</strong><br />
 4月5日及19日暫停播映</p></td>
@@ -378,13 +378,13 @@ Local Gingers</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 全年<br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/快樂童盟.md" title="wikilink">快樂童盟</a><br />
 Joyous Alliance</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：、<a href="https://zh.wikipedia.org/wiki/高露思" title="wikilink">高露思</a>、、<a href="https://zh.wikipedia.org/wiki/星泰宏" title="wikilink">星泰宏</a>、<a href="https://zh.wikipedia.org/wiki/王詠嘉" title="wikilink">王詠嘉</a>、<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a></p></td>
+<td style="text-align: center;"><p>主持：、<a href="https://zh.wikipedia.org/wiki/高露思" title="wikilink">高露思</a>、、<a href="https://zh.wikipedia.org/wiki/星泰宏" title="wikilink">星泰宏</a>、<a href="https://zh.wikipedia.org/wiki/王詠嘉" title="wikilink">王詠嘉</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/joyous-alliance">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>兒童節目</strong></p></td>
 </tr>
@@ -420,7 +420,7 @@ Joyous Alliance</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 16/07-<br />
 23/04</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/瀛知有密" title="wikilink">瀛知有密</a><br />
@@ -470,7 +470,7 @@ Hometown Pride</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 17/10-<br />
 24/04</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/全能科學家" title="wikilink">全能科學家</a><br />
@@ -509,7 +509,7 @@ MUCHAMITASU</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 11/10-<br />
 25/04</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/健康日記" title="wikilink">健康日記</a><br />
@@ -549,14 +549,14 @@ Healthy Hour</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 09/11-<br />
 26/04</p></td>
 <td style="text-align: center;"><p><a href="../Page/Interviu.md" title="wikilink">Interviu</a><br />
 Interviu</p></td>
 <td style="text-align: center;"><p>23<br />
 (143)</p></td>
-<td style="text-align: center;"><p>主持：、、、<a href="https://zh.wikipedia.org/wiki/余采霖" title="wikilink">余采霖</a>、、、</p></td>
+<td style="text-align: center;"><p>主持：、、、<a href="../Page/余采霖.md" title="wikilink">余采霖</a>、、、</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/interviu">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>娛樂訪談節目</strong><br />
 1月18日至2月15日改為20:00-20:15播出，3月1日暫停播映</p></td>
@@ -601,7 +601,7 @@ Something About Khalil</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 10/12-<br />
 22/04</p></td>
 <td style="text-align: center;"><p><br />
@@ -640,7 +640,7 @@ Good Night Show Mirror Go</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 11/12-<br />
 24/04</p></td>
 <td style="text-align: center;"><p><br />
@@ -680,7 +680,7 @@ Good Night Show - The Wreak Station</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 22/11-<br />
 26/04</p></td>
 <td style="text-align: center;"><p><br />
@@ -718,7 +718,7 @@ Good Night Show - Raise Our Voice</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 17/12-<br />
 11/01</p></td>
 <td style="text-align: center;"><p><br />
@@ -732,7 +732,7 @@ Where You Live</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>14/01-<br />
 01/02</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/買樓狂想曲" title="wikilink">買樓狂想#曲</a><br />
+<td style="text-align: center;"><p><a href="../Page/買樓狂想曲.md" title="wikilink">買樓狂想#曲</a><br />
 Rhapsody In Property</p></td>
 <td style="text-align: center;"><p>15</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/火火.md" title="wikilink">火火</a>、<a href="https://zh.wikipedia.org/wiki/陳君浩" title="wikilink">陳君浩</a>、<a href="https://zh.wikipedia.org/wiki/鄧耀鏗" title="wikilink">鄧耀鏗</a>、<a href="https://zh.wikipedia.org/wiki/黃慶利" title="wikilink">黃慶利</a></p></td>
@@ -742,7 +742,7 @@ Rhapsody In Property</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>04/02-<br />
 22/02</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/花姐ERROR遊" title="wikilink">花姐ERROR遊</a><br />
+<td style="text-align: center;"><p><a href="../Page/花姐ERROR遊.md" title="wikilink">花姐ERROR遊</a><br />
 ERROR Crazy Trip</p></td>
 <td style="text-align: center;"><p>15</p></td>
 <td style="text-align: center;"><p>主持：、<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a></p></td>
@@ -755,7 +755,7 @@ ERROR Crazy Trip</p></td>
 <td style="text-align: center;"><p><br />
 First Love Is Yet To Come</p></td>
 <td style="text-align: center;"><p>14</p></td>
-<td style="text-align: center;"><p>主持：、<a href="https://zh.wikipedia.org/wiki/李敏_(演員)" title="wikilink">李敏</a>、、<br />
+<td style="text-align: center;"><p>主持：、<a href="../Page/李敏_(演員).md" title="wikilink">李敏</a>、、<br />
 嘉賓：<a href="../Page/鄭融.md" title="wikilink">鄭融</a>、<a href="../Page/鄺俊宇.md" title="wikilink">鄺俊宇</a>、<a href="../Page/黃真真.md" title="wikilink">黃真真</a>、<a href="https://zh.wikipedia.org/wiki/朱栢康" title="wikilink">朱栢康</a><br />
 旁白：</p></td>
 <td style="text-align: center;"></td>
@@ -881,13 +881,13 @@ Pick Me Up To Malaysia</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 全年-<br />
 22/04</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/有病有真相" title="wikilink">有病有真相</a><br />
 Health Attention</p></td>
 <td style="text-align: center;"><p>78</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/陳啟泰.md" title="wikilink">陳啟泰</a>、<a href="https://zh.wikipedia.org/wiki/李蔓瑩" title="wikilink">李蔓瑩</a>、<br />
+<td style="text-align: center;"><p>主持：<a href="../Page/陳啟泰.md" title="wikilink">陳啟泰</a>、<a href="../Page/李蔓瑩.md" title="wikilink">李蔓瑩</a>、<br />
 嘉賓主持：<a href="../Page/陳嘉容.md" title="wikilink">陳嘉容</a>、、<a href="../Page/曾贊學.md" title="wikilink">曾贊學</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong><br />
@@ -898,7 +898,7 @@ Health Attention</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/口福有真相" title="wikilink">口福有真相</a><br />
 Just Eating Right</p></td>
 <td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/陳啟泰.md" title="wikilink">陳啟泰</a>、<a href="https://zh.wikipedia.org/wiki/李蔓瑩" title="wikilink">李蔓瑩</a>、</p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/陳啟泰.md" title="wikilink">陳啟泰</a>、<a href="../Page/李蔓瑩.md" title="wikilink">李蔓瑩</a>、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong></p></td>
 </tr>
@@ -908,7 +908,7 @@ Just Eating Right</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/啪啪Partner" title="wikilink">啪啪Partner</a><br />
 Pak Pak Partner</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/丁可欣" title="wikilink">丁可欣</a>、<a href="https://zh.wikipedia.org/wiki/朱凱頌" title="wikilink">Picco</a>、<a href="https://zh.wikipedia.org/wiki/呂穎恆" title="wikilink">Vera</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/丁可欣.md" title="wikilink">丁可欣</a>、<a href="https://zh.wikipedia.org/wiki/朱凱頌" title="wikilink">Picco</a>、<a href="https://zh.wikipedia.org/wiki/呂穎恆" title="wikilink">Vera</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong></p></td>
 </tr>
@@ -940,13 +940,13 @@ Pak Pak Partner</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 07/08-<br />
 26/02</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/飛·自由" title="wikilink">飛·自由</a><br />
 Fly Aboard</p></td>
 <td style="text-align: center;"><p>29</p></td>
-<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/梁嘉銘" title="wikilink">Ming仔</a>、<a href="https://zh.wikipedia.org/wiki/余采霖" title="wikilink">余采霖</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/梁嘉銘" title="wikilink">Ming仔</a>、<a href="../Page/余采霖.md" title="wikilink">余采霖</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong><br />
 1月1日暫停播映</p></td>
@@ -991,7 +991,7 @@ Crime</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 15/08-<br />
 27/02</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/喵喵喵" title="wikilink">喵喵喵</a><br />
@@ -1039,7 +1039,7 @@ Boy and Girl Talking Classroom</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 全年-<br />
 </p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/又要威_又要戴頭盔" title="wikilink">又要威 又要戴頭盔</a><br />
@@ -1077,13 +1077,13 @@ Helmet Intercom</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 全年-<br />
 </p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/總有一瓣喺左近" title="wikilink">總有一瓣喺左近</a><br />
 One Beside You 3</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/潘紹聰.md" title="wikilink">潘紹聰</a>、<a href="https://zh.wikipedia.org/wiki/符致逸" title="wikilink">符致逸</a>、、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a>、</p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/潘紹聰.md" title="wikilink">潘紹聰</a>、<a href="../Page/符致逸.md" title="wikilink">符致逸</a>、、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong><br />
 1月11日、2月8日及3月15日暫停播映</p></td>
@@ -1093,7 +1093,7 @@ One Beside You 3</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/總有好運過豬年" title="wikilink">總有好運過豬年</a><br />
 Luck Beside You</p></td>
 <td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/潘紹聰.md" title="wikilink">潘紹聰</a>、<a href="https://zh.wikipedia.org/wiki/符致逸" title="wikilink">符致逸</a>、</p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/潘紹聰.md" title="wikilink">潘紹聰</a>、<a href="../Page/符致逸.md" title="wikilink">符致逸</a>、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong></p></td>
 </tr>
@@ -1127,13 +1127,13 @@ Luck Beside You</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 全年-<br />
 26/04</p></td>
 <td style="text-align: center;"><p><br />
 15 mins Enews</p></td>
 <td style="text-align: center;"><p>794</p></td>
-<td style="text-align: center;"><p>主持：、<a href="https://zh.wikipedia.org/wiki/余采霖" title="wikilink">余采霖</a>、、<a href="https://zh.wikipedia.org/wiki/朱晉傑" title="wikilink">朱晉傑</a>、<a href="https://zh.wikipedia.org/wiki/廖嘉輝" title="wikilink">廖嘉輝</a>、<a href="https://zh.wikipedia.org/wiki/文桂琪" title="wikilink">文桂琪</a>、<a href="https://zh.wikipedia.org/wiki/王凌燕" title="wikilink">王凌燕</a></p></td>
+<td style="text-align: center;"><p>主持：、<a href="../Page/余采霖.md" title="wikilink">余采霖</a>、、<a href="https://zh.wikipedia.org/wiki/朱晉傑" title="wikilink">朱晉傑</a>、<a href="https://zh.wikipedia.org/wiki/廖嘉輝" title="wikilink">廖嘉輝</a>、<a href="https://zh.wikipedia.org/wiki/文桂琪" title="wikilink">文桂琪</a>、<a href="https://zh.wikipedia.org/wiki/王凌燕" title="wikilink">王凌燕</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/15-mins-enews">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>娛樂新聞</strong><br />
 1月1日及3月12日暫停播映，1月2日改為01:15-01:30播出</p></td>
@@ -1166,13 +1166,13 @@ Luck Beside You</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 全年-<br />
 26/04</p></td>
 <td style="text-align: center;"><p><br />
 Girls' Talk</p></td>
 <td style="text-align: center;"><p>525</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/黃心美.md" title="wikilink">黃心美</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、、、、、<a href="https://zh.wikipedia.org/wiki/Artem_Ansheles" title="wikilink">Artem Ansheles</a>、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a>、<a href="../Page/羅彩玲.md" title="wikilink">羅彩玲</a>、<a href="https://zh.wikipedia.org/wiki/羅伊婷" title="wikilink">羅伊婷</a>、<a href="https://zh.wikipedia.org/wiki/李蔓瑩" title="wikilink">李蔓瑩</a>、、、</p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/黃心美.md" title="wikilink">黃心美</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、、、、、<a href="../Page/Artem_Ansheles.md" title="wikilink">Artem Ansheles</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="../Page/羅彩玲.md" title="wikilink">羅彩玲</a>、<a href="../Page/羅伊婷.md" title="wikilink">羅伊婷</a>、<a href="../Page/李蔓瑩.md" title="wikilink">李蔓瑩</a>、、、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>潮流資訊節目</strong><br />
 1月1日及2日暫停播映，3月12日改為翌日00:30-00:45播出</p></td>
@@ -1207,7 +1207,7 @@ Girls' Talk</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 17/11-<br />
 26/01</p></td>
 <td style="text-align: center;"><p><br />
@@ -1225,7 +1225,7 @@ Soul Of Pro Wrestling</p></td>
 Crime Scene Season 1</p></td>
 <td style="text-align: center;"><p>10</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>），原名《》</p></td>
@@ -1263,7 +1263,7 @@ Crime Scene Season 1</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 24/02-<br />
 20/04</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Close噏" title="wikilink">Close噏</a><br />
@@ -1302,7 +1302,7 @@ Movie Bugs</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 04/03-<br />
 24/02</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/罪光燈" title="wikilink">罪光燈</a><br />
@@ -1344,7 +1344,7 @@ Crime</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 29/09-<br />
 23/03</p></td>
 <td style="text-align: center;"><p><br />
@@ -1434,7 +1434,7 @@ School Open Day</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 15/12-<br />
 19/01</p></td>
 <td style="text-align: center;"><p><br />
@@ -1455,7 +1455,7 @@ Super Funny Unit</p></td>
 <td style="text-align: center;"><p>5<br />
 (15)</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>遊戲節目</strong><br />
 2月23日暫停播映，3月2日改為11:00-11:30播出</p></td>
@@ -1539,7 +1539,7 @@ Sing China</p></td>
 評委：<a href="../Page/周杰倫.md" title="wikilink">周杰倫</a>、<a href="../Page/謝霆鋒.md" title="wikilink">謝霆鋒</a>、<a href="../Page/庾澄慶.md" title="wikilink">庾澄慶</a>、<a href="../Page/李健.md" title="wikilink">李健</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>歌唱比賽節目</strong><br />
-外購節目（<a href="../Page/中國.md" title="wikilink">中國</a><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a>），重播<a href="https://zh.wikipedia.org/wiki/ViuTVsix" title="wikilink">ViuTVsix節目</a>（第15期除外），不設粵語配音，第15期（澳門演唱會）於2月6日（星期三）10:00-12:00播出，2月16日改為12:30-14:30播出，2月23日改為13:45-15:45播出，3月2日暫停播映，3月9日改為14:00-16:00播出，5月4日改為12:30-15:30播出，第11期（中秋演唱會）於5月13日（星期一）10:00-12:00播出</p></td>
+外購節目（<a href="../Page/中國.md" title="wikilink">中國</a><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a>），重播<a href="../Page/ViuTVsix.md" title="wikilink">ViuTVsix節目</a>（第15期除外），不設粵語配音，第15期（澳門演唱會）於2月6日（星期三）10:00-12:00播出，2月16日改為12:30-14:30播出，2月23日改為13:45-15:45播出，3月2日暫停播映，3月9日改為14:00-16:00播出，5月4日改為12:30-15:30播出，第11期（中秋演唱會）於5月13日（星期一）10:00-12:00播出</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>11/05</p></td>
@@ -1548,7 +1548,7 @@ Thailand 72 Hours</p></td>
 <td style="text-align: center;"><p>1<br />
 (4)</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">2018年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">2018年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
 <td style="text-align: center;"></td>
@@ -1594,7 +1594,7 @@ Thailand 72 Hours</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>18/05-<br />
 03/08</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/SUPER_TV" title="wikilink">Super TV</a><br />
+<td style="text-align: center;"><p><a href="../Page/SUPER_TV.md" title="wikilink">Super TV</a><br />
 Super TV</p></td>
 <td style="text-align: center;"><p>12</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a></p></td>
@@ -1630,7 +1630,7 @@ Super TV</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 27/10-<br />
 20/04</p></td>
 <td style="text-align: center;"><p><br />
@@ -1679,13 +1679,13 @@ Fashion Interns</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 全年-<br />
 30/03</p></td>
 <td style="text-align: center;"><p><br />
 Happy Family Day</p></td>
 <td style="text-align: center;"><p>157</p></td>
-<td style="text-align: center;"><p>主持：、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃心美.md" title="wikilink">黃心美</a>、、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a>、<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a></p></td>
+<td style="text-align: center;"><p>主持：、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃心美.md" title="wikilink">黃心美</a>、、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/happy-family-day">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>兒童節目</strong></p></td>
 </tr>
@@ -1729,13 +1729,13 @@ Pets and Family</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 22/12-<br />
 16/02</p></td>
 <td style="text-align: center;"><p><br />
 All About Love</p></td>
 <td style="text-align: center;"><p>8</p></td>
-<td style="text-align: center;"><p>演出：<a href="https://zh.wikipedia.org/wiki/強尼" title="wikilink">強尼</a>、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a></p></td>
+<td style="text-align: center;"><p>演出：<a href="https://zh.wikipedia.org/wiki/強尼" title="wikilink">強尼</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
 <td style="text-align: center;"><p><a href="https://viu.tv/encore/all-about-love">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>資訊節目</strong><br />
 1月26日暫停播映</p></td>
@@ -1800,7 +1800,7 @@ Business Talk 2019</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 17/11-<br />
 16/02</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/起底事務所" title="wikilink">起底事務所</a><br />
@@ -1839,7 +1839,7 @@ Insider Scoop!</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 20/10-<br />
 16/02</p></td>
 <td style="text-align: center;"><p><a href="../Page/日本！我來了.md" title="wikilink">你去日本搞乜鬼2</a><br />
@@ -1879,7 +1879,7 @@ Why did you come to Japan? S2</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 15/12-<br />
 23/03</p></td>
 <td style="text-align: center;"><p><a href="../Page/的士Go.md" title="wikilink">的士Go 2</a><br />
@@ -1893,7 +1893,7 @@ Taxi Go 2</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>11/05-<br />
 13/07</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/阿美利堅有外星人" title="wikilink">阿美利堅有外星人2</a><br />
+<td style="text-align: center;"><p><a href="../Page/阿美利堅有外星人.md" title="wikilink">阿美利堅有外星人2</a><br />
 America's Got Alien 2</p></td>
 <td style="text-align: center;"><p>10</p></td>
 <td style="text-align: center;"><p>主持：、<a href="https://zh.wikipedia.org/wiki/卓飛" title="wikilink">卓飛</a></p></td>
@@ -1931,7 +1931,7 @@ America's Got Alien 2</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 28/10-<br />
 10/02</p></td>
 <td style="text-align: center;"><p><br />
@@ -1940,7 +1940,7 @@ Miss DIVA</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/郭偉亮.md" title="wikilink">郭偉亮</a>、<a href="../Page/火火.md" title="wikilink">火火</a>、</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/miss-diva">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>選美/真人秀</strong><br />
-外購節目（<a href="../Page/香港.md" title="wikilink">香港</a><a href="https://zh.wikipedia.org/wiki/耀榮文化" title="wikilink">耀榮文化</a>），1月6日改為00:30-01:30播出，1月20日暫停播映</p></td>
+外購節目（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/耀榮文化.md" title="wikilink">耀榮文化</a>），1月6日改為00:30-01:30播出，1月20日暫停播映</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>07/04-<br />
@@ -1950,7 +1950,7 @@ E-sport</p></td>
 <td style="text-align: center;"><p>2<br />
 (15)</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>真人秀</strong></p></td>
 <td style="text-align: center;"></td>
@@ -1983,7 +1983,7 @@ E-sport</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 30/12-<br />
 24/03</p></td>
 <td style="text-align: center;"><p><a href="../Page/巨門陣.md" title="wikilink">巨門陣</a><br />
@@ -2017,7 +2017,7 @@ E-sport</p></td>
 <td style="text-align: center;"><p>13<br />
 (15)</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 5月5日改為00:30-01:00播出</p></td>
@@ -2057,7 +2057,7 @@ E-sport</p></td>
 </p></td>
 <td style="text-align: center;"><p>6</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 外購節目（<a href="https://zh.wikipedia.org/wiki/澳洲" title="wikilink">澳洲</a><a href="https://zh.wikipedia.org/wiki/九號電視網" title="wikilink">九號電視網</a>），5月5日改為01:05-02:00播出</p></td>
@@ -2093,7 +2093,7 @@ E-sport</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 02/09-<br />
 13/01</p></td>
 <td style="text-align: center;"><p><br />
@@ -2226,7 +2226,7 @@ Taiwan Motel Travelodge</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 07/10-<br />
 06/01</p></td>
 <td style="text-align: center;"><p><br />
@@ -2234,7 +2234,7 @@ Super Funny Unit</p></td>
 <td style="text-align: center;"><p>10<br />
 (15)</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>遊戲節目</strong></p></td>
 <td style="text-align: center;"></td>
@@ -2246,7 +2246,7 @@ Super Funny Unit</p></td>
 Good Job</p></td>
 <td style="text-align: center;"><p>14</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 3月24日、4月7日及14日暫停播映</p></td>
@@ -2280,7 +2280,7 @@ Good Job</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 30/12-<br />
 17/02</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/生活大小事" title="wikilink">生活大小事</a><br />
@@ -2294,11 +2294,11 @@ Everything About Life</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>03/03-<br />
 26/05</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/約咗傅家俊" title="wikilink">約咗傅家俊</a><br />
+<td style="text-align: center;"><p><a href="../Page/約咗傅家俊.md" title="wikilink">約咗傅家俊</a><br />
 Marco Fu And Friends</p></td>
 <td style="text-align: center;"><p>10</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>訪談節目</strong><br />
 3月24日、4月7日及14日暫停播映</p></td>
@@ -2307,11 +2307,11 @@ Marco Fu And Friends</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>02/06-<br />
 25/08</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黑料理" title="wikilink">黑料理</a><br />
+<td style="text-align: center;"><p><a href="../Page/黑料理.md" title="wikilink">黑料理</a><br />
 Dark Cuisine</p></td>
 <td style="text-align: center;"><p>13</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>飲食節目</strong></p></td>
 <td style="text-align: center;"></td>
@@ -2346,11 +2346,11 @@ Dark Cuisine</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>03/03-<br />
 23/06</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/攝·太帥" title="wikilink">攝。太帥</a><br />
+<td style="text-align: center;"><p><a href="../Page/攝·太帥.md" title="wikilink">攝。太帥</a><br />
 I Am A Photographer</p></td>
 <td style="text-align: center;"><p>15</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 3月10日改為14:30-14:55播出，3月24日及4月14日暫停播映</p></td>
@@ -2384,7 +2384,7 @@ I Am A Photographer</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 11/11-<br />
 27/01</p></td>
 <td style="text-align: center;"><p><br />
@@ -2444,7 +2444,7 @@ Art Less Travelled</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 04/11-<br />
 17/02</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/聲畫合拍" title="wikilink">聲畫合拍</a><br />
@@ -2503,13 +2503,13 @@ Made in Hong Kong II</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 30/09-<br />
 24/03</p></td>
 <td style="text-align: center;"><p><br />
 HK Team Up</p></td>
 <td style="text-align: center;"><p>26</p></td>
-<td style="text-align: center;"><p>主持：、、、<a href="https://zh.wikipedia.org/wiki/羅伊婷" title="wikilink">羅伊婷</a></p></td>
+<td style="text-align: center;"><p>主持：、、、<a href="../Page/羅伊婷.md" title="wikilink">羅伊婷</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>兒童節目</strong><br />
 3月24日改為13:30-14:00播出</p></td>
@@ -2555,7 +2555,7 @@ STEM</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 09/12-<br />
 06/01</p></td>
 <td style="text-align: center;"><p><br />
@@ -2616,7 +2616,7 @@ Eco Friendly Eats - Taiwan Edition</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 全年-<br />
 </p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/恐怖醫學" title="wikilink">恐怖醫學</a>（第三輯）<br />
@@ -2782,7 +2782,7 @@ Japan Love Hotel</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a><br />
+<td style="text-align: center;"><p><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a><br />
 21/10-<br />
 13/01</p></td>
 <td style="text-align: center;"><p><br />
@@ -2796,7 +2796,7 @@ Sing Cantonese 2018</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>21/01-<br />
 08/04</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/對不起_標籤你" title="wikilink">對不起 標籤你</a><br />
+<td style="text-align: center;"><p><a href="../Page/對不起_標籤你.md" title="wikilink">對不起 標籤你</a><br />
 Tagger</p></td>
 <td style="text-align: center;"><p>10</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
@@ -2809,11 +2809,11 @@ Tagger</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>15/04-<br />
 01/07</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/精裝送禮仔" title="wikilink">精裝送禮仔</a><br />
+<td style="text-align: center;"><p><a href="../Page/精裝送禮仔.md" title="wikilink">精裝送禮仔</a><br />
 Jing Jong Sung Lai Jai</p></td>
 <td style="text-align: center;"><p>9</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">2017年ViuTV節目</a></span></p>
+<p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 4月22日、5月6日及13日暫停播映</p></td>

@@ -22,7 +22,7 @@ Cy，CY或cy可能指：
     Pub
     10-4和過時的[北大西洋公約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")（
     NATO）[國家代碼](../Page/國家地區代碼.md "wikilink")
-  - cy，[塞浦路斯經濟國家代碼](https://zh.wikipedia.org/wiki/塞浦路斯經濟 "wikilink")[頂級域名](https://zh.wikipedia.org/wiki/頂級域 "wikilink")（[ccTLD](../Page/國家和地區頂級域.md "wikilink")）
+  - cy，[塞浦路斯經濟國家代碼](../Page/塞浦路斯經濟.md "wikilink")[頂級域名](https://zh.wikipedia.org/wiki/頂級域 "wikilink")（[ccTLD](../Page/國家和地區頂級域.md "wikilink")）
   - [國際航空運輸協會](../Page/國際航空運輸協會.md "wikilink")（IATA）航空公司代碼
   - [威爾士語](../Page/威尔士语.md "wikilink")（Welsh language）[ISO
     639-1語言代碼](../Page/ISO_639-1.md "wikilink")

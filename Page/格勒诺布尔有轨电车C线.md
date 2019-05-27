@@ -157,8 +157,8 @@ C线的车辆所为"耶尔"（），位于B线的东端终点站耶尔体育公�
 
 ## 参见
 
-  - [格勒诺布尔有轨电车](https://zh.wikipedia.org/wiki/格勒诺布尔有轨电车 "wikilink")
-  - [格勒诺布尔城市公共交通](https://zh.wikipedia.org/wiki/格勒诺布尔城市公共交通 "wikilink")
+  - [格勒诺布尔有轨电车](../Page/格勒诺布尔有轨电车.md "wikilink")
+  - [格勒诺布尔城市公共交通](../Page/格勒诺布尔城市公共交通.md "wikilink")
   - [格勒诺布尔城市公共交通线路列表](https://zh.wikipedia.org/wiki/格勒诺布尔城市公共交通线路列表 "wikilink")
   - [格勒诺布尔站](../Page/格勒诺布尔站.md "wikilink")
   - [格勒诺布尔](../Page/格勒诺布尔.md "wikilink")

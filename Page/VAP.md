@@ -31,7 +31,7 @@
 
   - （1988～）
 
-  - [池賴廣](https://zh.wikipedia.org/wiki/池賴廣 "wikilink")（2005～）
+  - [池賴廣](../Page/池賴廣.md "wikilink")（2005～）
 
   - 真氣（2011、2017～）
 
@@ -55,8 +55,7 @@
 
   - [Kobasolo](https://zh.wikipedia.org/wiki/Kobasolo "wikilink")（2017～）
 
-  - [Hump
-    Back](https://zh.wikipedia.org/wiki/Hump_Back "wikilink")（2018～）
+  - [Hump Back](../Page/Hump_Back.md "wikilink")（2018～）
 
 ### 過往所屬
 
@@ -130,7 +129,7 @@
 
       - ／&（1986～1989）
 
-  - [ORESAMA](https://zh.wikipedia.org/wiki/ORESAMA "wikilink")（2014，現在是[Lantis所屬](../Page/Lantis.md "wikilink")）
+  - [ORESAMA](../Page/ORESAMA.md "wikilink")（2014，現在是[Lantis所屬](../Page/Lantis.md "wikilink")）
 
 <!-- end list -->
 
@@ -170,8 +169,8 @@
 
   - （2003～2004，現在停止活動）
 
-  - [菊池桃子](https://zh.wikipedia.org/wiki/菊池桃子 "wikilink")（1984～1991，現在是[EPIC
-    Records Japan所屬](https://zh.wikipedia.org/wiki/日本史詩唱片 "wikilink")）
+  - [菊池桃子](../Page/菊池桃子.md "wikilink")（1984～1991，現在是[EPIC Records
+    Japan所屬](https://zh.wikipedia.org/wiki/日本史詩唱片 "wikilink")）
 
       - （1988～1989）
 
@@ -432,7 +431,7 @@
 
   - [森川智之](../Page/森川智之.md "wikilink")（1994～1997）
 
-  - [森川美穗](https://zh.wikipedia.org/wiki/森川美穗 "wikilink")（1985～1990。經歷後來轉屬東芝EMI之後，現在是德間日本傳播所屬）
+  - [森川美穗](../Page/森川美穗.md "wikilink")（1985～1990。經歷後來轉屬東芝EMI之後，現在是德間日本傳播所屬）
 
   - （2000～2001）
 
@@ -592,7 +591,7 @@
 
   - [魔法小天使](../Page/我係小忌廉.md "wikilink")
 
-  - [魔法妖精貝露莎](https://zh.wikipedia.org/wiki/貝露莎 "wikilink")
+  - [魔法妖精貝露莎](../Page/貝露莎.md "wikilink")
 
   -
   -
@@ -716,15 +715,15 @@
 
   - [烏龍麵之國的金色毛毬](../Page/烏龍麵之國的金色毛毬.md "wikilink")
 
-  - [新黑色推銷員](https://zh.wikipedia.org/wiki/黑色推銷員 "wikilink")（時段（[TOKYO
+  - [新黑色推銷員](../Page/黑色推銷員.md "wikilink")（時段（[TOKYO
     MX](../Page/東京都會電視台.md "wikilink")、[BS11](../Page/日本BS放送.md "wikilink")、讀賣電視台）、TOKYO
     MX & [Animax製作](../Page/Animax.md "wikilink")，UHF動畫）
 
   - [三次元女友 REAL GIRL](https://zh.wikipedia.org/wiki/三次元女友 "wikilink")
 
-  - [中間管理錄利根川](https://zh.wikipedia.org/wiki/中間管理錄利根川 "wikilink")
+  - [中間管理錄利根川](../Page/中間管理錄利根川.md "wikilink")
 
-  - [未來的未來](https://zh.wikipedia.org/wiki/未來的未來 "wikilink")\[15\]
+  - [未來的未來](../Page/未來的未來.md "wikilink")\[15\]
 
   - [笑容的代價](../Page/笑容的代價.md "wikilink")（日本電視台、[WOWOW](../Page/WOWOW.md "wikilink")、TOKYO
     MX、讀賣電視台、[東京電視台MediaNet製作](../Page/MediaNet.md "wikilink")，WOWOW、TOKYO
@@ -799,7 +798,7 @@
 <!-- end list -->
 
   -
-  - [大叔的愛](https://zh.wikipedia.org/wiki/大叔的愛 "wikilink")
+  - [大叔的愛](../Page/大叔的愛.md "wikilink")
 
 ### 電影
 
@@ -835,7 +834,7 @@
   - [擁抱太陽的月亮](../Page/擁抱太陽的月亮.md "wikilink")
   - [馬醫](../Page/馬醫.md "wikilink")
 
-### [MBS製作](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")[Dramaism時段](https://zh.wikipedia.org/wiki/Dramaism "wikilink")
+### [MBS製作](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")[Dramaism時段](../Page/Dramaism.md "wikilink")
 
   - [-{咲}--Saki-](https://zh.wikipedia.org/wiki/咲-Saki-#真人作品 "wikilink")（發行）
 
@@ -879,7 +878,7 @@
 
   - [妖精的旋律](../Page/妖精的旋律.md "wikilink")（[AT-X](../Page/AT-X.md "wikilink")）\[21\]
 
-  - [極樂天師](https://zh.wikipedia.org/wiki/極樂天師 "wikilink")（AT-X等有線UHF各局）
+  - [極樂天師](../Page/極樂天師.md "wikilink")（AT-X等有線UHF各局）
 
   - （[CBC](https://zh.wikipedia.org/wiki/CBC電視台_\(日本\) "wikilink")、TBS等台）\[22\]
 
@@ -908,19 +907,19 @@
 
   - （TBS）\[25\]
 
-  - [品酒要在成為夫妻後](https://zh.wikipedia.org/wiki/品酒要在成為夫妻後 "wikilink")（TOKYO
+  - [品酒要在成為夫妻後](../Page/品酒要在成為夫妻後.md "wikilink")（TOKYO
     MX製作、[SUN電視台等台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")）
 
-  - [URAHARA](https://zh.wikipedia.org/wiki/URAHARA "wikilink")（TOKYO
+  - [URAHARA](../Page/URAHARA.md "wikilink")（TOKYO
     MX、[BS富士](../Page/BS富士.md "wikilink")）\[26\]\[27\]
 
   - [琴之森](https://zh.wikipedia.org/wiki/琴之森 "wikilink")（NHK）
 
-  - [後街女孩](https://zh.wikipedia.org/wiki/後街女孩 "wikilink")（[BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")
+  - [後街女孩](../Page/後街女孩.md "wikilink")（[BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")
     & TOKYO MX & MBS & AT-X）\[28\]\[29\]
 
   - [Happy Sugar
-    Life](https://zh.wikipedia.org/wiki/Happy_Sugar_Life "wikilink")（MBS製作，[AnimeismB](../Page/Animeism.md "wikilink")1時段）\[30\]
+    Life](../Page/Happy_Sugar_Life.md "wikilink")（MBS製作，[AnimeismB](../Page/Animeism.md "wikilink")1時段）\[30\]
 
   - （TOKYO MX、[KBS京都等台](https://zh.wikipedia.org/wiki/KBS京都 "wikilink")）
 
@@ -957,7 +956,7 @@
   -
   - [奪橋遺恨](../Page/奪橋遺恨.md "wikilink")（2卷組）
 
-  - [飛俠哥頓](https://zh.wikipedia.org/wiki/飛俠哥頓_\(電影\) "wikilink")\[32\]
+  - [飛俠哥頓](../Page/飛俠哥頓_\(電影\).md "wikilink")\[32\]
 
   - \[33\]
 
@@ -1194,7 +1193,7 @@
 
 20.
 
-21. 與[GENCO共同製作](https://zh.wikipedia.org/wiki/GENCO "wikilink")。
+21. 與[GENCO共同製作](../Page/GENCO.md "wikilink")。
 
 22. 關西圈並未放送。
 

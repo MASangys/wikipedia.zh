@@ -50,7 +50,7 @@ Ft。1月29日，其宣布离开该团体。3月15日，其在团期间主演的
 | 非你不可    | Team XII                                                                |        |             |    |    |
 | 14      | 《[新年這一刻](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#新年這一刻 "wikilink")》 | 新年這一刻  | 選拔組         | ★  |    |
 | 鐘聲過後是樂園 | Team XII                                                                |        |             |    |    |
-| 15      | 《[彼此的未來](https://zh.wikipedia.org/wiki/彼此的未來 "wikilink")》               | 致每个你   | Team XII    |    |    |
+| 15      | 《[彼此的未來](../Page/彼此的未來.md "wikilink")》                                  | 致每个你   | Team XII    |    |    |
 | 16      | 《[夏日檸檬船](https://zh.wikipedia.org/wiki/夏日檸檬船 "wikilink")》               | 夏之色    | Team XII    |    |    |
 | 17      | 《[那不勒斯的黎明](../Page/那不勒斯的黎明.md "wikilink")》                              | 絢麗時代   | Under Girls | ★  |    |
 | 我心翱翔    | SNH48 Group                                                             | ★      |             |    |    |

@@ -8,8 +8,8 @@
 
 ## 參見
 
-  - [喬治·S·戈登](https://zh.wikipedia.org/wiki/喬治·S·戈登 "wikilink")
-  - [肯尼思·賽瑟姆](https://zh.wikipedia.org/wiki/肯尼思·賽瑟姆 "wikilink")
+  - [喬治·S·戈登](../Page/喬治·S·戈登.md "wikilink")
+  - [肯尼思·賽瑟姆](../Page/肯尼思·賽瑟姆.md "wikilink")
 
 ## 參考資料
 

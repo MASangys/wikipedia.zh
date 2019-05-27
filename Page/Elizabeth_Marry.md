@@ -65,7 +65,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <td><center>
 <p>2019年</p>
 <center></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夏空" title="wikilink">夏空</a></p></td>
+<td><p><a href="../Page/夏空.md" title="wikilink">夏空</a></p></td>
 <td><p><a href="../Page/迷迭香.md" title="wikilink">迷迭香</a>（第5週「小夏，哥哥在哪裡？」）</p></td>
 </tr>
 <tr class="odd">
@@ -993,7 +993,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <tr class="even">
 <td><p>2017年12月22 - 24日<br />
 （横濱KAAT神奈川藝術劇場）</p></td>
-<td><p>舞台「<a href="https://zh.wikipedia.org/wiki/文豪Stray_Dogs" title="wikilink">文豪Stray Dogs</a>」</p></td>
+<td><p>舞台「<a href="../Page/文豪Stray_Dogs.md" title="wikilink">文豪Stray Dogs</a>」</p></td>
 <td><p>伴舞團成員</p></td>
 </tr>
 <tr class="odd">
@@ -1069,7 +1069,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <tr class="even">
 <td><p>2018年9月22日 - 10月8日<br />
 （東池袋 <a href="https://zh.wikipedia.org/wiki/Sunshine_Theatre" title="wikilink">Sunshine Theatre</a>）</p></td>
-<td><p>舞台「<a href="https://zh.wikipedia.org/wiki/文豪Stray_Dogs" title="wikilink">文豪Stray Dogs 黑之時代</a>」</p></td>
+<td><p>舞台「<a href="../Page/文豪Stray_Dogs.md" title="wikilink">文豪Stray Dogs 黑之時代</a>」</p></td>
 <td><p>伴舞團成員</p></td>
 </tr>
 <tr class="odd">
@@ -1119,7 +1119,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <tr class="odd">
 <td><p>2019年6月8、9日<br />
 （<a href="../Page/北上市.md" title="wikilink">北上市文化交流Center</a> Sakura Hall）</p></td>
-<td><p>舞台「<a href="https://zh.wikipedia.org/wiki/文豪Stray_Dogs" title="wikilink">文豪Stray Dogs　三社鼎立</a>」</p></td>
+<td><p>舞台「<a href="../Page/文豪Stray_Dogs.md" title="wikilink">文豪Stray Dogs　三社鼎立</a>」</p></td>
 <td><p><a href="../Page/露西·莫德·蒙哥馬利.md" title="wikilink">露西·莫德·蒙哥馬利</a></p></td>
 </tr>
 <tr class="even">
@@ -2137,7 +2137,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <p>2016年12月10日</p>
 <center></td>
 <td><p>PKP 祭典 2016限定 Dance Unit「octave」</p></td>
-<td><p>地點：<a href="../Page/代代木.md" title="wikilink">代代木</a><a href="https://zh.wikipedia.org/wiki/Muse音樂學院" title="wikilink">Muse音樂學院</a></p></td>
+<td><p>地點：<a href="../Page/代代木.md" title="wikilink">代代木</a><a href="../Page/Muse音樂學院.md" title="wikilink">Muse音樂學院</a></p></td>
 </tr>
 <tr class="even">
 <td><center>

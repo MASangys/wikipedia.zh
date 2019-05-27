@@ -12,8 +12,7 @@ Partners](../Page/Culture_Convenience_Club.md "wikilink")（<small></small>）�
 
 2010年12月，投入漫畫產業，漫畫叢書〈Earth Star
 Comics〉正式創刊\[5\]。次年2011年3月，當家漫畫雜誌《月刊[Comic
-Earth
-Star](https://zh.wikipedia.org/wiki/Comic_Earth_Star "wikilink")》創刊號發售。
+Earth Star](../Page/Comic_Earth_Star.md "wikilink")》創刊號發售。
 
 2013年2月，電視動畫《[開漫－啦！](../Page/開漫－啦！.md "wikilink")》主題歌CD「girl meet
 DEADLINE」發售之後，加入音樂製作產業。
@@ -23,8 +22,8 @@ DEADLINE」發售之後，加入音樂製作產業。
 2016年3月，Earth Star進行經紀公司地址的搬遷\[6\]。
 
 2016年7月，Earth Star將動畫製作產業轉交給Top
-Partners旗下另外一間子公司[TOPMARSHAL的新成立商標](https://zh.wikipedia.org/wiki/TOPMARSHAL "wikilink")「[SMIRAL
-animation](https://zh.wikipedia.org/wiki/SMIRAL "wikilink")」負責管理\[7\]。然而，即使管理權轉移之後，Earth
+Partners旗下另外一間子公司[TOPMARSHAL的新成立商標](../Page/TOPMARSHAL.md "wikilink")「[SMIRAL
+animation](../Page/SMIRAL.md "wikilink")」負責管理\[7\]。然而，即使管理權轉移之後，Earth
 Star仍還是繼續參與跟動畫相關諸如一些作品的計劃協力等等（像《》）。
 
 2018年3月31日，Earth Star全面從聲優、藝人經營管理事業撤離\[8\]。而所屬的聲優、藝人隨Earth Star策略改變陸續離所。
@@ -44,8 +43,7 @@ Entertainment**」。7月，經紀公司搬遷至東京都[品川區目黑中心
 
 ## 網路漫畫
 
-  - [Comic Earth
-    Star](https://zh.wikipedia.org/wiki/Comic_Earth_Star "wikilink")
+  - [Comic Earth Star](../Page/Comic_Earth_Star.md "wikilink")
 
 ## 出版事業
 
@@ -59,7 +57,7 @@ Entertainment**」。7月，經紀公司搬遷至東京都[品川區目黑中心
 ### 以前的發行雜誌
 
   - 月刊[Comic Earth
-    Star](https://zh.wikipedia.org/wiki/Comic_Earth_Star "wikilink")（2011年－2014年）
+    Star](../Page/Comic_Earth_Star.md "wikilink")（2011年－2014年）
 
 ## 過去的事業
 
@@ -168,7 +166,7 @@ Entertainment**」。7月，經紀公司搬遷至東京都[品川區目黑中心
 ### 動畫事業
 
   -
-    2016年7月以後的作品請參照「[SMIRAL](https://zh.wikipedia.org/wiki/SMIRAL "wikilink")」。
+    2016年7月以後的作品請參照「[SMIRAL](../Page/SMIRAL.md "wikilink")」。
 
 <!-- end list -->
 
@@ -212,8 +210,7 @@ Entertainment**」。7月，經紀公司搬遷至東京都[品川區目黑中心
 #### 過往所屬藝人
 
   - [鳴海杏子](../Page/鳴海杏子.md "wikilink")（2016年3月31日為止所屬，[自由身](../Page/自由職業.md "wikilink")）
-  - [Earth Star
-    Dream成員](https://zh.wikipedia.org/wiki/Earth_Star_Dream "wikilink")
+  - [Earth Star Dream成員](../Page/Earth_Star_Dream.md "wikilink")
       - （2015年5月16日為止所屬，現在引退）
 
       - 齋藤愛永（2015年6月29日為止所屬，現在引退）
@@ -229,7 +226,7 @@ Entertainment**」。7月，經紀公司搬遷至東京都[品川區目黑中心
 
       - [中島由貴](https://zh.wikipedia.org/wiki/中島由貴 "wikilink")（2018年3月31日為止所屬，現所屬：Beffect）
 
-      - [高尾奏音](https://zh.wikipedia.org/wiki/高尾奏音 "wikilink")（2018年3月31日為止所屬，自由身）
+      - [高尾奏音](../Page/高尾奏音.md "wikilink")（2018年3月31日為止所屬，自由身）
 
       - （2018年3月31日為止所屬，曾入旗下營運的演員養成所）
 

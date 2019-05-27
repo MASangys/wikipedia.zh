@@ -33,12 +33,12 @@ Melody）》應援教學。\[9\] 2月16日，公開主打曲《今晚（With Mel
 Melody）》的Eye contact ver.版本MV。
 
 收錄曲《Purple Rain》曾於2017年8月10日Solo特別企劃《[PIECE OF
-BTOB](https://zh.wikipedia.org/wiki/PIECE_OF_BTOB "wikilink")》發表。
+BTOB](../Page/PIECE_OF_BTOB.md "wikilink")》發表。
 
 收錄曲《ALL DAY》是此前曾於2018年7月25日發行的日語單曲《[Summer
-Diary](https://zh.wikipedia.org/wiki/夏天的日記_\(單曲\) "wikilink")》中發表的歌曲，此次收錄的為韓文版本，韓文版此前亦曾於《[BTOB
+Diary](../Page/夏天的日記_\(單曲\).md "wikilink")》中發表的歌曲，此次收錄的為韓文版本，韓文版此前亦曾於《[BTOB
 TIME -THIS IS
-US-](https://zh.wikipedia.org/wiki/BTOB_TIME_-THIS_IS_US- "wikilink")》首次演唱。\[10\]
+US-](../Page/BTOB_TIME_-THIS_IS_US-.md "wikilink")》首次演唱。\[10\]
 
 ## 曲目
 
@@ -59,8 +59,7 @@ fireBear | length2 = 3:13
 
 | title3 = 你也是？我也是！ ()
 | note3 = Feat. [小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink") of
-[(G)I-DLE](https://zh.wikipedia.org/wiki/\(G\)I-DLE "wikilink") | music3
-= 李旼赫
+[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink") | music3 = 李旼赫
 梁承郁
 fireBear | lyrics3 = 李旼赫
 [田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink") | arranger3 = 梁承郁
@@ -89,17 +88,14 @@ joseph k | length6 = 1:40
 ZTO | lyrics7 = 李旼赫 | arranger7 = 梁承郁
 ZTO | length7 = 3:56
 
-| title8 = [ALL
-DAY](https://zh.wikipedia.org/wiki/夏天的日記_\(單曲\) "wikilink")
-| note8 = KOR ver. | music8 = 李旼赫
+| title8 = [ALL DAY](../Page/夏天的日記_\(單曲\).md "wikilink") | note8 = KOR
+ver. | music8 = 李旼赫
 梁承郁
 DJ AIN | lyrics8 = 李旼赫 | arranger8 = 梁承郁
 DJ AIN | length8 = 3:40
 
-| title9 = [Purple
-Rain](https://zh.wikipedia.org/wiki/PIECE_OF_BTOB "wikilink") | note9 =
-Feat. [CHEEZE](https://zh.wikipedia.org/wiki/CHEEZE "wikilink") | music9
-= Jerry.L
+| title9 = [Purple Rain](../Page/PIECE_OF_BTOB.md "wikilink") | note9 =
+Feat. [CHEEZE](../Page/CHEEZE.md "wikilink") | music9 = Jerry.L
 李旼赫 | lyrics9 = 李旼赫 | arranger9 = Jerry.L
 李旼赫 | length9 = 3:18
 
@@ -295,14 +291,14 @@ With VALO</p></td>
 <tr class="odd">
 <td><p>韓國</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2019年Gaon單曲冠軍作品列表" title="wikilink">單曲週榜</a></p></td>
+<td><p><a href="../Page/2019年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2019年1月13－19日</p></td>
 <td><p>#140</p></td>
 <td><p>[16]</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2019年Gaon專輯冠軍作品列表" title="wikilink">專輯週榜</a></p></td>
+<td><p><a href="../Page/2019年Gaon專輯冠軍作品列表.md" title="wikilink">專輯週榜</a></p></td>
 <td><p>#3</p></td>
 <td><p>[17]</p></td>
 <td></td>
@@ -317,7 +313,7 @@ With VALO</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2019年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="../Page/2019年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2019年1月</p></td>
 <td><p>#9（33,184張+）</p></td>
 <td><p>[19]</p></td>

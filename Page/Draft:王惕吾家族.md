@@ -7,16 +7,16 @@
 
 ## 參見
 
-  - [新竹南園](https://zh.wikipedia.org/wiki/新竹南園 "wikilink")：聯合報系創辦人王惕吾的故居，而「南園」這個名稱是取自王惕吾的父親王芾南先生之名。
+  - [新竹南園](../Page/新竹南園.md "wikilink")：聯合報系創辦人王惕吾的故居，而「南園」這個名稱是取自王惕吾的父親王芾南先生之名。
 
 ## 家庭
 
-王惕吾次女[王效蘭](../Page/王效蘭.md "wikilink")，為《[民生報](../Page/民生報.md "wikilink")》（已經停刊）之創辦人，長子為[王必成](../Page/王必成_\(台灣\).md "wikilink")，次子為[王必立](https://zh.wikipedia.org/wiki/王必立 "wikilink")。
+王惕吾次女[王效蘭](../Page/王效蘭.md "wikilink")，為《[民生報](../Page/民生報.md "wikilink")》（已經停刊）之創辦人，長子為[王必成](../Page/王必成_\(台灣\).md "wikilink")，次子為[王必立](../Page/王必立.md "wikilink")。
 
 -----
 
 **王文杉**（ )(英文:Duncan
-Wang)，現任[聯合報系第三任董事長](https://zh.wikipedia.org/wiki/聯合報系 "wikilink")，為該報系已故創辦人[王惕吾的孫子](../Page/王惕吾.md "wikilink")、《[經濟日報](../Page/經濟日報_\(臺灣\).md "wikilink")》發行人[王必立的兒子](https://zh.wikipedia.org/wiki/王必立 "wikilink")。畢業於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[波士頓大學經濟學系](../Page/波士頓大學.md "wikilink")。曾任：《[聯合報](https://zh.wikipedia.org/wiki/聯合報 "wikilink")》第5任社長（2001年11月2日－2008年10月6日）、[聯合報系總管理處總經理](https://zh.wikipedia.org/wiki/聯合報系 "wikilink")（大約在1996年接任
+Wang)，現任[聯合報系第三任董事長](https://zh.wikipedia.org/wiki/聯合報系 "wikilink")，為該報系已故創辦人[王惕吾的孫子](../Page/王惕吾.md "wikilink")、《[經濟日報](../Page/經濟日報_\(臺灣\).md "wikilink")》發行人[王必立的兒子](../Page/王必立.md "wikilink")。畢業於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[波士頓大學經濟學系](../Page/波士頓大學.md "wikilink")。曾任：《[聯合報](https://zh.wikipedia.org/wiki/聯合報 "wikilink")》第5任社長（2001年11月2日－2008年10月6日）、[聯合報系總管理處總經理](https://zh.wikipedia.org/wiki/聯合報系 "wikilink")（大約在1996年接任
 -
 2011年）。2011年，接任[聯合報系第三任董事長職務迄今](https://zh.wikipedia.org/wiki/聯合報系 "wikilink")。2013年8月1日，[UDN
 TV成立開播](../Page/UDN_TV.md "wikilink")，王文杉兼任[UDN

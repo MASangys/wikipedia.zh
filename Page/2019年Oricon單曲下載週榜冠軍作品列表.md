@@ -128,8 +128,8 @@
 </tr>
 <tr class="odd">
 <td><p>4月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/春日_(爱缪单曲)" title="wikilink">春日</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛繆" title="wikilink">愛繆</a></p></td>
+<td><p><a href="../Page/春日_(爱缪单曲).md" title="wikilink">春日</a></p></td>
+<td><p><a href="../Page/愛繆.md" title="wikilink">愛繆</a></p></td>
 <td><p>2.5</p></td>
 <td><p>[13]</p></td>
 </tr>
@@ -139,7 +139,7 @@
 ## 參見
 
   - [2019年Oricon單曲週榜冠軍作品列表](../Page/2019年Oricon單曲週榜冠軍作品列表.md "wikilink")
-  - [2019年Oricon專輯下載週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2019年Oricon專輯下載週榜冠軍作品列表 "wikilink")
+  - [2019年Oricon專輯下載週榜冠軍作品列表](../Page/2019年Oricon專輯下載週榜冠軍作品列表.md "wikilink")
 
 ## 參考資料
 

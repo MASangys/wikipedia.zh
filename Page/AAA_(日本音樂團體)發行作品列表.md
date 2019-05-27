@@ -324,15 +324,15 @@
 <tr class="odd">
 <td><p>39th</p></td>
 <td><p>2014年2月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Love_(AAA單曲)" title="wikilink">Love</a></p></td>
+<td><p><a href="../Page/Love_(AAA單曲).md" title="wikilink">Love</a></p></td>
 <td><p>4[39]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GOLD_SYMPHONY" title="wikilink">GOLD SYMPHONY</a></p></td>
+<td><p><a href="../Page/GOLD_SYMPHONY.md" title="wikilink">GOLD SYMPHONY</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>40th</p></td>
 <td><p>2014年3月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SHOW_TIME" title="wikilink">SHOW TIME</a></p></td>
+<td><p><a href="../Page/SHOW_TIME.md" title="wikilink">SHOW TIME</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -348,7 +348,7 @@
 <tr class="even">
 <td><p>42nd</p></td>
 <td><p>2014年9月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/說再見之前" title="wikilink">說再見之前</a></p></td>
+<td><p><a href="../Page/說再見之前.md" title="wikilink">說再見之前</a></p></td>
 <td><p>5[41]</p></td>
 <td></td>
 <td></td>
@@ -422,13 +422,13 @@
 <td><p>2016年6月8日</p></td>
 <td><p><a href="../Page/NEW_(AAA單曲).md" title="wikilink">NEW</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/WAY_OF_GLORY" title="wikilink">WAY OF GLORY</a></p></td>
+<td><p><a href="../Page/WAY_OF_GLORY.md" title="wikilink">WAY OF GLORY</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>52th</p></td>
 <td><p>2016年10月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/沒有眼淚的世界" title="wikilink">沒有眼淚的世界</a></p></td>
+<td><p><a href="../Page/沒有眼淚的世界.md" title="wikilink">沒有眼淚的世界</a></p></td>
 <td><p>5</p></td>
 <td></td>
 <td></td>
@@ -436,7 +436,7 @@
 <tr class="odd">
 <td><p>53th</p></td>
 <td><p>2017年2月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MAGIC_(AAA單曲)" title="wikilink">MAGIC</a></p></td>
+<td><p><a href="../Page/MAGIC_(AAA單曲).md" title="wikilink">MAGIC</a></p></td>
 <td><p>3</p></td>
 <td></td>
 <td></td>
@@ -444,7 +444,7 @@
 <tr class="even">
 <td><p>54th</p></td>
 <td><p>2017年7月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/No_Way_Back" title="wikilink">No Way Back</a></p></td>
+<td><p><a href="../Page/No_Way_Back.md" title="wikilink">No Way Back</a></p></td>
 <td><p>3</p></td>
 <td><p><a href="../Page/COLOR_A_LIFE.md" title="wikilink">COLOR A LIFE</a></p></td>
 <td></td>
@@ -452,7 +452,7 @@
 <tr class="odd">
 <td><p>55th</p></td>
 <td><p>2017年10月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LIFE_(AAA單曲)" title="wikilink">LIFE</a></p></td>
+<td><p><a href="../Page/LIFE_(AAA單曲).md" title="wikilink">LIFE</a></p></td>
 <td><p>4</p></td>
 <td></td>
 <td></td>
@@ -532,10 +532,10 @@
 | 6th  | 2011年2月16日 | **[Buzz Communication](../Page/Buzz_Communication.md "wikilink")**（引領風潮）\[49\]                   | 4                                       | [重要的事同步](../Page/重要的事.md "wikilink")                                          | 4張細碟10首單曲+4首原創     |
 | 7th  | 2012年8月22日 | **[777 ～TRIPLE SEVEN～](../Page/777_～TRIPLE_SEVEN～.md "wikilink")**\[50\]                         | 2                                       | [777 ～We can sing a song\!～](../Page/777_～We_can_sing_a_song!～.md "wikilink") | 4張細碟7首單曲+6首原創+1首特別 |
 | 8th  | 2013年9月18日 | **[Eighth Wonder](https://zh.wikipedia.org/wiki/Eighth_Wonder_\(AAA\) "wikilink")**（第八個奇蹟）\[51\] | 1                                       | [戀歌與雨天](../Page/戀歌與雨天.md "wikilink")                                          | 5張細碟9首單曲+5首原創+2首隱藏 |
-| 9th  | 2014年10月1日 | **[GOLD SYMPHONY](https://zh.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")**（黃金樂章）                | 1                                       | [說再見之前](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")                       | 4張細碟6首單曲+4首原創      |
+| 9th  | 2014年10月1日 | **[GOLD SYMPHONY](../Page/GOLD_SYMPHONY.md "wikilink")**（黃金樂章）                                   | 1                                       | [說再見之前](../Page/說再見之前.md "wikilink")                                          | 4張細碟6首單曲+4首原創      |
 | 10th | 2015年9月16日 | **[AAA 10th ANNIVERSARY BEST](../Page/AAA_10th_ANNIVERSARY_BEST.md "wikilink")**                 | 1                                       | [深愛著，卻不能愛同步](../Page/深愛著，卻不能愛.md "wikilink")                                  | 8張細碟8首單曲+2首新曲      |
-| 11th | 2017年2月22日 | **[WAY OF GLORY](https://zh.wikipedia.org/wiki/WAY_OF_GLORY "wikilink")**                        | 1                                       | [MAGIC](https://zh.wikipedia.org/wiki/MAGIC_\(AAA單曲\) "wikilink")             | 3張細碟6首單曲+6首新曲      |
-| 12th | 2018年8月29日 | **[COLOR A LIFE](../Page/COLOR_A_LIFE.md "wikilink")**                                           | 1                                       | [LIFE](https://zh.wikipedia.org/wiki/LIFE_\(AAA單曲\) "wikilink")               | 2張細碟2首單曲           |
+| 11th | 2017年2月22日 | **[WAY OF GLORY](../Page/WAY_OF_GLORY.md "wikilink")**                                           | 1                                       | [MAGIC](../Page/MAGIC_\(AAA單曲\).md "wikilink")                                | 3張細碟6首單曲+6首新曲      |
+| 12th | 2018年8月29日 | **[COLOR A LIFE](../Page/COLOR_A_LIFE.md "wikilink")**                                           | 1                                       | [LIFE](../Page/LIFE_\(AAA單曲\).md "wikilink")                                  | 2張細碟2首單曲           |
 |      |            |                                                                                                  |                                         |                                                                               |                    |
 
 ### 精選專輯
@@ -777,9 +777,9 @@
 | DVD                                                            | 2015年2月25日  | [AAA ARENA TOUR 2014 -Gold Symphony-](../Page/AAA_ARENA_TOUR_2014_-Gold_Symphony-.md "wikilink")                                                          | 1                                       | 演唱會                                                   |
 | DVD                                                            | 2016年1月27日  | [AAA 10th Anniversary SPECIAL 野外LIVE in 富士急高原樂園](../Page/AAA_10th_Anniversary_SPECIAL_野外LIVE_in_富士急高原樂園.md "wikilink")                                    | 2                                       | 演唱會                                                   |
 | DVD                                                            | 2016年3月16日  | [AAA 10th ANNIVERSARY Documentary ～Road of 10th ANNIVERSARY～](../Page/AAA_10th_ANNIVERSARY_Documentary_～Road_of_10th_ANNIVERSARY～.md "wikilink")          | 2                                       | 紀錄片+演唱會                                               |
-| DVD                                                            | 2016年11月9日  | [AAA ARENA TOUR 2016 -LEAP OVER-](https://zh.wikipedia.org/wiki/AAA_ARENA_TOUR_2016_-LEAP_OVER- "wikilink")                                               | 1                                       | 演唱會                                                   |
-| DVD                                                            | 2017年3月22日  | [AAA Special Live 2016 in Dome -FANTASTIC OVER-](https://zh.wikipedia.org/wiki/AAA_Special_Live_2016_in_Dome_-FANTASTIC_OVER- "wikilink")                 | 1                                       | 演唱會                                                   |
-| DVD                                                            | 2018年1月17日  | [AAA DOME TOUR 2017 -WAY OF GLORY-](https://zh.wikipedia.org/wiki/AAA_DOME_TOUR_2017_-WAY_OF_GLORY- "wikilink")                                           | 1                                       | 演唱會                                                   |
+| DVD                                                            | 2016年11月9日  | [AAA ARENA TOUR 2016 -LEAP OVER-](../Page/AAA_ARENA_TOUR_2016_-LEAP_OVER-.md "wikilink")                                                                  | 1                                       | 演唱會                                                   |
+| DVD                                                            | 2017年3月22日  | [AAA Special Live 2016 in Dome -FANTASTIC OVER-](../Page/AAA_Special_Live_2016_in_Dome_-FANTASTIC_OVER-.md "wikilink")                                    | 1                                       | 演唱會                                                   |
+| DVD                                                            | 2018年1月17日  | [AAA DOME TOUR 2017 -WAY OF GLORY-](../Page/AAA_DOME_TOUR_2017_-WAY_OF_GLORY-.md "wikilink")                                                              | 1                                       | 演唱會                                                   |
 | DVD                                                            | 2018年3月28日  | [AAA NEW YEAR PARTY 2018](https://zh.wikipedia.org/wiki/AAA_NEW_YEAR_PARTY_2018 "wikilink")                                                               | 3                                       | 演唱會                                                   |
 | DVD                                                            | 2018年11月7日  | [AAA FAN MEETING ARENA TOUR 2018 〜FAN FUN FAN〜](https://zh.wikipedia.org/wiki/AAA_FAN_MEETING_ARENA_TOUR_2018_〜FAN_FUN_FAN〜 "wikilink")                   | 1                                       | FM+演唱會                                                |
 

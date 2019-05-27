@@ -1,5 +1,5 @@
 ***Partula
-faba***是一种[热带](../Page/热带.md "wikilink")[肺螺类](https://zh.wikipedia.org/wiki/肺螺類 "wikilink")，属于下的一个[亚种](https://zh.wikipedia.org/wiki/亚种 "wikilink")。Partula
+faba***是一种[热带](../Page/热带.md "wikilink")[肺螺类](../Page/肺螺類.md "wikilink")，属于下的一个[亚种](https://zh.wikipedia.org/wiki/亚种 "wikilink")。Partula
 faba分布于[法属波利尼西亚的](https://zh.wikipedia.org/wiki/法属波利尼西亚 "wikilink")[塔哈岛与](https://zh.wikipedia.org/wiki/塔哈岛 "wikilink")[赖阿特阿岛](https://zh.wikipedia.org/wiki/赖阿特阿岛 "wikilink")，是第一种被记录的。\[1\]
 
 ## 保育状态

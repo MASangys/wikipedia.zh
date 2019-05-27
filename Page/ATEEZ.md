@@ -1,4 +1,4 @@
-**ATEEZ**（）是[韓國KQ娛樂旗下的八人](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，於2018年10月24日出道，由弘中、星和、潤浩、呂尚、崔傘、旼琦、[友榮](https://zh.wikipedia.org/wiki/鄭友榮 "wikilink")、鍾浩所组成。
+**ATEEZ**（）是[韓國KQ娛樂旗下的八人](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，於2018年10月24日出道，由弘中、星和、潤浩、呂尚、崔傘、旼琦、[友榮](../Page/鄭友榮.md "wikilink")、鍾浩所组成。
 
 ## 團體資料
 
@@ -10,19 +10,19 @@
 
 ## 成員資料
 
-| 成員列表                                               |
-| -------------------------------------------------- |
-| 藝名                                                 |
-|                                                    |
-| 漢字                                                 |
-| 弘中                                                 |
-| 星和                                                 |
-| 潤浩                                                 |
-| 呂尚                                                 |
-| 崔傘                                                 |
-| 旼琦                                                 |
-| [友榮](https://zh.wikipedia.org/wiki/鄭友榮 "wikilink") |
-| 鍾浩                                                 |
+| 成員列表                            |
+| ------------------------------- |
+| 藝名                              |
+|                                 |
+| 漢字                              |
+| 弘中                              |
+| 星和                              |
+| 潤浩                              |
+| 呂尚                              |
+| 崔傘                              |
+| 旼琦                              |
+| [友榮](../Page/鄭友榮.md "wikilink") |
+| 鍾浩                              |
 
 ## 經歷
 
@@ -118,7 +118,7 @@ Oneo》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告
 
 ## 音樂創作
 
-[社團法人韓國音樂著作權協會(KOMCA)登記之資料](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
+[社團法人韓國音樂著作權協會(KOMCA)登記之資料](../Page/韓國音樂著作權協會.md "wikilink")
 
 | 成員 | 登記名稱 | 登記編號     | 參與歌曲列表 |
 | -- | ---- | -------- | ------ |
@@ -158,11 +158,11 @@ Oneo》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告
 
 ### 廣播節目
 
-| 播出日期        | 電台                                                          | 節目名稱                                                                 | 參與成員 | 備註     |
-| ----------- | ----------------------------------------------------------- | -------------------------------------------------------------------- | ---- | ------ |
-| 2018年11月14日 | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink") | 《[IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink") 》 | 全體   | 看得見的廣播 |
-| 2019年2月4日   | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink") | 《[IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink") 》 | 鍾浩   |        |
-| 2019年2月6日   | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink") | 《[IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink") 》 | 全體   |        |
+| 播出日期        | 電台                                                          | 節目名稱                                              | 參與成員 | 備註     |
+| ----------- | ----------------------------------------------------------- | ------------------------------------------------- | ---- | ------ |
+| 2018年11月14日 | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink") | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") 》 | 全體   | 看得見的廣播 |
+| 2019年2月4日   | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink") | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") 》 | 鍾浩   |        |
+| 2019年2月6日   | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink") | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") 》 | 全體   |        |
 
 ## 廣告拍摄
 

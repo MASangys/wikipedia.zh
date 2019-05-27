@@ -2,7 +2,7 @@
 
 ## 簡介
 
-前作《[Roadmade](https://zh.wikipedia.org/wiki/Roadmade "wikilink")》約1年之後發行。
+前作《[Roadmade](../Page/Roadmade.md "wikilink")》約1年之後發行。
 
 收錄了《[風](../Page/風_\(可苦可樂單曲\).md "wikilink")》、《[希望之歌/太陽](https://zh.wikipedia.org/wiki/希望之歌/太陽 "wikilink")》中的兩首和重新錄製的《[YOU](https://zh.wikipedia.org/wiki/YOU/miss_you "wikilink")》四首[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 

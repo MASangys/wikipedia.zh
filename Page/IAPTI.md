@@ -63,7 +63,7 @@ Rosado)或学者莫娜•贝克(Mona Baker)。\[23\]\[24\] 此外，IAPTI
 
 ## 另见
 
-[国际翻译工作者联合会](https://zh.wikipedia.org/wiki/国际翻译工作者联合会 "wikilink")
+[国际翻译工作者联合会](../Page/国际翻译工作者联合会.md "wikilink")
 
 [Category:Articles_with_Spanish-language_external_links](https://zh.wikipedia.org/wiki/Category:Articles_with_Spanish-language_external_links "wikilink")
 [Category:国际专业协会](https://zh.wikipedia.org/wiki/Category:国际专业协会 "wikilink")

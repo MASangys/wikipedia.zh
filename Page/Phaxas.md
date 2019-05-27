@@ -1,4 +1,4 @@
-***Phaxas***是[刀蟶科之下的一個](https://zh.wikipedia.org/wiki/刀蟶科 "wikilink")[属](https://zh.wikipedia.org/wiki/属 "wikilink")。舊屬[簾蛤目](../Page/簾蛤目.md "wikilink")，今屬[貧齒蛤目](https://zh.wikipedia.org/wiki/貧齒蛤目 "wikilink")。
+***Phaxas***是[刀蟶科之下的一個](https://zh.wikipedia.org/wiki/刀蟶科 "wikilink")[属](https://zh.wikipedia.org/wiki/属 "wikilink")。舊屬[簾蛤目](../Page/簾蛤目.md "wikilink")，今屬[貧齒蛤目](../Page/貧齒蛤目.md "wikilink")。
 
 ## 物種
 

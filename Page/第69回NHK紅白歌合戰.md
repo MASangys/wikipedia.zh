@@ -7,12 +7,11 @@
 以下日期皆为2018年。
 
   - 10月5日，节目日程和播出时间发表\[1\]。本次红白的主題為“歌唱梦想”（），是连续第三年采用该主题。本次第69回红白歌合战是自2010年的[第61回以来](../Page/第61回NHK红白歌合战.md "wikilink")，再次通过国内[卫星电视频道](../Page/卫星电视.md "wikilink")[并机直播](https://zh.wikipedia.org/wiki/同步广播 "wikilink")；同年12月1日开播的[NHK
-    BS4K](https://zh.wikipedia.org/wiki/NHK_BS4K "wikilink")、[NHK
-    BS8K频道亦将进行现场直播](https://zh.wikipedia.org/wiki/NHK_BS8K "wikilink")\[2\]。
-  - 11月9日，主持人名单公布，红组主持人为演員[广濑铃](https://zh.wikipedia.org/wiki/广濑铃 "wikilink")，白组主持人为偶像團體[岚的成员](https://zh.wikipedia.org/wiki/岚 "wikilink")[樱井翔](https://zh.wikipedia.org/wiki/樱井翔 "wikilink")。其中广濑为首次担任红组主持，樱井則次首次单独担任白组主持\[3\]。综合主持人由搞笑艺人[内村光良和NHK新闻主播](https://zh.wikipedia.org/wiki/内村光良 "wikilink")[桑子真帆担任](https://zh.wikipedia.org/wiki/桑子真帆 "wikilink")，这是二人首次連續兩年擔綱红白的主持工作\[4\]。
-  - 11月14日，参演歌手名单公布，此次共有红组的[愛繆](https://zh.wikipedia.org/wiki/愛繆 "wikilink")、[DAOKO](https://zh.wikipedia.org/wiki/DAOKO "wikilink")，白组的[King
-    &
-    Prince](https://zh.wikipedia.org/wiki/King_&_Prince "wikilink")、、共五组艺人首次出场\[5\]。[X
+    BS4K](../Page/NHK_BS4K.md "wikilink")、[NHK
+    BS8K频道亦将进行现场直播](../Page/NHK_BS8K.md "wikilink")\[2\]。
+  - 11月9日，主持人名单公布，红组主持人为演員[广濑铃](https://zh.wikipedia.org/wiki/广濑铃 "wikilink")，白组主持人为偶像團體[岚的成员](https://zh.wikipedia.org/wiki/岚 "wikilink")[樱井翔](https://zh.wikipedia.org/wiki/樱井翔 "wikilink")。其中广濑为首次担任红组主持，樱井則次首次单独担任白组主持\[3\]。综合主持人由搞笑艺人[内村光良和NHK新闻主播](https://zh.wikipedia.org/wiki/内村光良 "wikilink")[桑子真帆担任](../Page/桑子真帆.md "wikilink")，这是二人首次連續兩年擔綱红白的主持工作\[4\]。
+  - 11月14日，参演歌手名单公布，此次共有红组的[愛繆](../Page/愛繆.md "wikilink")、[DAOKO](../Page/DAOKO.md "wikilink")，白组的[King
+    & Prince](../Page/King_&_Prince.md "wikilink")、、共五组艺人首次出场\[5\]。[X
     JAPAN的](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[YOSHIKI与](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")[彩虹乐队的](https://zh.wikipedia.org/wiki/彩虹乐队 "wikilink")[HYDE搭档作为组合首次出场](https://zh.wikipedia.org/wiki/HYDE "wikilink")；与[椎名林檎共同出演特别策划的](../Page/椎名林檎.md "wikilink")[ELEPHANT
     KASHIMASHI主唱](../Page/ELEPHANT_KASHIMASHI.md "wikilink")也首次以个人身份出场。此外，阔别红白舞台16年的[DA
     PUMP此次重回出演阵容](../Page/DA_PUMP.md "wikilink")\[6\]。
@@ -24,12 +23,12 @@
   - 12月18日，公布NHK娱乐节目《》（）的主角小智子，以及該节目中的问题解答者、搞笑艺人[岡村隆史](https://zh.wikipedia.org/wiki/岡村隆史 "wikilink")（[NINETY-NINE](../Page/NINETY-NINE.md "wikilink")）将一同在企划环节出演，这也是冈村自2006年以来再度登上红白舞台\[12\]。
   - 12月19日，嘉宾审查员名单公布\[13\]。同时本次红白的计分方法也一并公布，具体为电视观众、现场观众、现场审查员三方各自计票，对决全部结束后，每一方的胜出者获得一分，总分获得两分即赢得本次红白歌合战的胜利\[14\]。
   - 12月21日，所有参演歌手的曲目确定\[15\]。今年的节目中[Perfume和](https://zh.wikipedia.org/wiki/Perfume "wikilink")[福山雅治将从各自的跨年演唱会现场进行连线演出](../Page/福山雅治.md "wikilink")\[16\]。
-  - 12月22日，公布[石川小百合将与吉他手](../Page/石川小百合.md "wikilink")[布袋寅泰共演](https://zh.wikipedia.org/wiki/布袋寅泰 "wikilink")，这是布袋继[第57回](https://zh.wikipedia.org/wiki/第57回NHK红白歌合战 "wikilink")（2006年）与[今井美树共演以来时隔](https://zh.wikipedia.org/wiki/今井美树 "wikilink")12年再上红白\[17\]。
+  - 12月22日，公布[石川小百合将与吉他手](../Page/石川小百合.md "wikilink")[布袋寅泰共演](../Page/布袋寅泰.md "wikilink")，这是布袋继[第57回](https://zh.wikipedia.org/wiki/第57回NHK红白歌合战 "wikilink")（2006年）与[今井美树共演以来时隔](https://zh.wikipedia.org/wiki/今井美树 "wikilink")12年再上红白\[17\]。
   - 12月25日，公布英国歌手[莎拉·布萊曼将与YOSHIKI合作演出YOSHIKI作词作曲的歌曲](../Page/莎拉·布萊曼.md "wikilink")《Miracle》，这是莎拉自1991年以来时隔27年再度出演红白\[18\]。此外担任X
     JAPAN和[LUNA
     SEA吉他手的](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")[SUGIZO将参演YOSHIKI与HYDE合作演出的歌曲](../Page/SUGIZO.md "wikilink")《Red
     Swan》\[19\]。
-  - 12月25日，公布NHK音乐特别节目《》的成员“源妈妈一家”（[星野源](https://zh.wikipedia.org/wiki/星野源 "wikilink")、[高畑充希](../Page/高畑充希.md "wikilink")、、[三浦大知](https://zh.wikipedia.org/wiki/三浦大知 "wikilink")、[宫野真守](../Page/宮野真守.md "wikilink")）将在企划环节登场\[20\]。
+  - 12月25日，公布NHK音乐特别节目《》的成员“源妈妈一家”（[星野源](../Page/星野源.md "wikilink")、[高畑充希](../Page/高畑充希.md "wikilink")、、[三浦大知](../Page/三浦大知.md "wikilink")、[宫野真守](../Page/宮野真守.md "wikilink")）将在企划环节登场\[20\]。
   - 12月26日，公布歌手[米津玄師作为白组成员](../Page/米津玄師.md "wikilink")，将在家乡[德岛县現場連線演出今年大热的歌曲](../Page/德岛县.md "wikilink")《[Lemon](../Page/Lemon_\(米津玄師歌曲\).md "wikilink")》，这将是米津首次在电视节目中演唱\[21\]。
   - 12月27日，公布各歌手出场顺序\[22\]。
 
@@ -46,7 +45,7 @@
 
 <!-- end list -->
 
-  - [广濑铃](https://zh.wikipedia.org/wiki/广濑铃 "wikilink")（2019年NHK上半期[晨間劇](../Page/連續電視小說.md "wikilink")《[夏空](https://zh.wikipedia.org/wiki/夏空 "wikilink")》主角；首次担当红白主持）
+  - [广濑铃](https://zh.wikipedia.org/wiki/广濑铃 "wikilink")（2019年NHK上半期[晨間劇](../Page/連續電視小說.md "wikilink")《[夏空](../Page/夏空.md "wikilink")》主角；首次担当红白主持）
 
 <!-- end list -->
 
@@ -63,7 +62,7 @@
 <!-- end list -->
 
   - [内村光良](https://zh.wikipedia.org/wiki/内村光良 "wikilink")（搞笑二人組「[小內小南](../Page/小內小南.md "wikilink")」成員，[NHK綜合台綜藝節目](../Page/NHK綜合頻道.md "wikilink")主持人）
-  - [桑子真帆](https://zh.wikipedia.org/wiki/桑子真帆 "wikilink")（[NHK東京播報室播報員](../Page/NHK放送中心.md "wikilink")，NHK綜合台新闻节目主持人）
+  - [桑子真帆](../Page/桑子真帆.md "wikilink")（[NHK東京播報室播報員](../Page/NHK放送中心.md "wikilink")，NHK綜合台新闻节目主持人）
 
 ## 出場歌手
 
@@ -98,7 +97,7 @@
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/DAOKO" title="wikilink">DAOKO</a></p></td>
+<td><p><a href="../Page/DAOKO.md" title="wikilink">DAOKO</a></p></td>
 </tr>
 <tr class="even">
 <td><p>企劃單元：「夢之Kids Show～在平成結束之前～」（嚮導人：<a href="../Page/大野智.md" title="wikilink">大野智</a>、<a href="../Page/室剛.md" title="wikilink">室剛</a>）[25]</p></td>
@@ -114,7 +113,7 @@
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天童芳美" title="wikilink">天童芳美</a></p></td>
+<td><p><a href="../Page/天童芳美.md" title="wikilink">天童芳美</a></p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
@@ -229,19 +228,19 @@
 
 共11人（[五十音順](https://zh.wikipedia.org/wiki/五十音順 "wikilink")）：
 
-  - [阿部貞夫](../Page/阿部貞夫.md "wikilink")：[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")，明年[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[韋駄天～東京奧運故事～](https://zh.wikipedia.org/wiki/韋駄天～東京奧運故事～ "wikilink")》飾演主角・。
+  - [阿部貞夫](../Page/阿部貞夫.md "wikilink")：[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")，明年[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[韋駄天～東京奧運故事～](../Page/韋駄天～東京奧運故事～.md "wikilink")》飾演主角・。
 
-  - [安藤櫻](../Page/安藤櫻.md "wikilink")：演員，本年秋季NHK[晨間劇](../Page/連續電視小說.md "wikilink")《[萬福](https://zh.wikipedia.org/wiki/萬福_\(電視劇\) "wikilink")》飾演主角・福子。
+  - [安藤櫻](../Page/安藤櫻.md "wikilink")：演員，本年秋季NHK[晨間劇](../Page/連續電視小說.md "wikilink")《[萬福](../Page/萬福_\(電視劇\).md "wikilink")》飾演主角・福子。
 
-  - [池江璃花子](https://zh.wikipedia.org/wiki/池江璃花子 "wikilink")：[游泳運動員](../Page/游泳.md "wikilink")，[2018年亞運會上獨得](https://zh.wikipedia.org/wiki/2018年亞運會 "wikilink")6金，是日本泳壇在一屆大赛中奪金最多的運動員。
+  - [池江璃花子](../Page/池江璃花子.md "wikilink")：[游泳運動員](../Page/游泳.md "wikilink")，[2018年亞運會上獨得](https://zh.wikipedia.org/wiki/2018年亞運會 "wikilink")6金，是日本泳壇在一屆大赛中奪金最多的運動員。
 
   - [小平奈緒](../Page/小平奈緒.md "wikilink")：[速度滑冰運動員](../Page/速度滑冰.md "wikilink")，[2018年平昌冬奧会速度滑冰女子](https://zh.wikipedia.org/wiki/2018年冬季奧林匹克運動會競速滑冰比賽 "wikilink")500米項目獲得金牌並打破奧運紀錄。
 
-  - [佐藤健](../Page/佐藤健.md "wikilink")：演員，本年春季NHK晨間劇《[一半，藍色。](https://zh.wikipedia.org/wiki/一半，藍色。 "wikilink")》中飾演萩尾律。
+  - [佐藤健](../Page/佐藤健.md "wikilink")：演員，本年春季NHK晨間劇《[一半，藍色。](../Page/一半，藍色。.md "wikilink")》中飾演萩尾律。
 
   - [出川哲朗](https://zh.wikipedia.org/wiki/出川哲朗 "wikilink")：[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，明年NHK電視節目《超級實驗綜藝很厲害哦！出川先生》主持人。
 
-  - [永野芽郁](https://zh.wikipedia.org/wiki/永野芽郁 "wikilink")：演員，本年春季NHK晨間劇《一半，藍色。》飾演主角・鈴愛。
+  - [永野芽郁](../Page/永野芽郁.md "wikilink")：演員，本年春季NHK晨間劇《一半，藍色。》飾演主角・鈴愛。
 
   - ：[歌舞伎演員](../Page/歌舞伎.md "wikilink")，明年NHK大河劇《韋駄天～東京奧運故事～》飾演主角・[金栗四三](../Page/金栗四三.md "wikilink")。
 
@@ -253,14 +252,14 @@
 
 ### 其他播出平台主持人
 
-  - 电视副声道解说「紅白幕後訪談頻道」（）：[三明治人](https://zh.wikipedia.org/wiki/三明治人 "wikilink")（搞笑二人組）、[渡边直美](https://zh.wikipedia.org/wiki/渡边直美 "wikilink")（搞笑艺人，NHK综艺节目《Shibuya
+  - 电视副声道解说「紅白幕後訪談頻道」（）：[三明治人](../Page/三明治人.md "wikilink")（搞笑二人組）、[渡边直美](https://zh.wikipedia.org/wiki/渡边直美 "wikilink")（搞笑艺人，NHK综艺节目《Shibuya
     Note》、《NAOMI的房间》主持人）、（NHK播報員）
   - 电台解说：、（皆為NHK播報員）
   - BS4K、BS8K特别环节\[33\]主持人：（搞笑二人組成員）、（搞笑三人組成員）、（NHK播報員）
 
 ### 企劃、應援、共演嘉賓
 
-  - [塚地武雅](https://zh.wikipedia.org/wiki/塚地武雅 "wikilink")（搞笑二人組成員）：在與[NHK綜合台綜藝節目](../Page/NHK綜合頻道.md "wikilink")《LIFE\!》的合作企劃中以「烏賊大王」（）的角色亮相。
+  - [塚地武雅](../Page/塚地武雅.md "wikilink")（搞笑二人組成員）：在與[NHK綜合台綜藝節目](../Page/NHK綜合頻道.md "wikilink")《LIFE\!》的合作企劃中以「烏賊大王」（）的角色亮相。
 
   - Fabulous Sisters、BLUE
     TOKYO：[坂本冬美的背景舞者](../Page/坂本冬美.md "wikilink")\[34\]。
@@ -274,7 +273,7 @@
   - 、Sunday老師、虎鬚、機關槍・丹迪、獅子、博士：NHK木偶劇節目《》角色。於企劃單元「夢之Kids
     Show～在平成結束之前～」演出。
 
-  - 汪汪、、小雪（[大角雪](https://zh.wikipedia.org/wiki/大角雪 "wikilink")）：[NHK教育台節目](../Page/NHK教育頻道.md "wikilink")《[躲猫猫！](../Page/躲猫猫！.md "wikilink")》出演者。於企劃單元「夢之Kids
+  - 汪汪、、小雪（[大角雪](../Page/大角雪.md "wikilink")）：[NHK教育台節目](../Page/NHK教育頻道.md "wikilink")《[躲猫猫！](../Page/躲猫猫！.md "wikilink")》出演者。於企劃單元「夢之Kids
     Show～在平成結束之前～」演出。
 
   - 、、、、（Cholome、Moomoo、GalaPico）：[NHK教育台長壽兒童節目](https://zh.wikipedia.org/wiki/NHK教育台 "wikilink")《》出演者。於企劃單元「夢之Kids
@@ -291,7 +290,7 @@
 
   - 小智子、[岡村隆史](https://zh.wikipedia.org/wiki/岡村隆史 "wikilink")（搞笑二人組[NINETY-NINE成員](../Page/NINETY-NINE.md "wikilink")）：NHK綜合台綜藝節目《》出演者。於企劃單元「小智子×紅白」（）登場演出。
 
-  - （[2018年平昌冬奧](https://zh.wikipedia.org/wiki/2018年冬季奥林匹克运动会 "wikilink")[女子冰壺競賽銅牌得主](https://zh.wikipedia.org/wiki/2018年冬季奧林匹克運動會女子冰壺比賽 "wikilink")）：[天童芳美的表演應援者](https://zh.wikipedia.org/wiki/天童芳美 "wikilink")。
+  - （[2018年平昌冬奧](https://zh.wikipedia.org/wiki/2018年冬季奥林匹克运动会 "wikilink")[女子冰壺競賽銅牌得主](../Page/2018年冬季奧林匹克運動會女子冰壺比賽.md "wikilink")）：[天童芳美的表演應援者](../Page/天童芳美.md "wikilink")。
 
   - 、小林航太、村雨辰剛：NHK綜合台迷你節目《》出演者。天童芳美的表演應援者。
 
@@ -310,7 +309,7 @@
   - [DRUM
     TAO](../Page/TAO_\(太鼓樂團\).md "wikilink")：與[冰川清志共同演出](../Page/冰川清志.md "wikilink")\[38\]。
 
-  - [菅原小春](https://zh.wikipedia.org/wiki/菅原小春 "wikilink")：[米津玄師的背景舞者](../Page/米津玄師.md "wikilink")\[39\]。
+  - [菅原小春](../Page/菅原小春.md "wikilink")：[米津玄師的背景舞者](../Page/米津玄師.md "wikilink")\[39\]。
 
   - [高梨沙羅](../Page/高梨沙羅.md "wikilink")（2018年平昌冬奧[女子個人普通跳台滑雪競賽銅牌得主](https://zh.wikipedia.org/wiki/2018年冬季奧林匹克運動會跳台滑雪比賽 "wikilink")）、[伊藤美誠](../Page/伊藤美誠.md "wikilink")（桌球選手）、[平野美宇](../Page/平野美宇.md "wikilink")（桌球選手）：於特別企劃「支持自己走下去的歌」（）以預錄影像登場。
 
@@ -335,14 +334,14 @@
 
   - 、TOMO、JINO、吉田聰、鈴木明男、、Geila Zilkha、ASA-CNANG：MISIA的背景伴奏者。
 
-  - [布袋寅泰](https://zh.wikipedia.org/wiki/布袋寅泰 "wikilink")：於[石川小百合的歌曲中負責演奏電吉他](../Page/石川小百合.md "wikilink")。此次為第二次紅白登場。
+  - [布袋寅泰](../Page/布袋寅泰.md "wikilink")：於[石川小百合的歌曲中負責演奏電吉他](../Page/石川小百合.md "wikilink")。此次為第二次紅白登場。
 
   - ：擔任節目尾聲《[螢之光](../Page/螢之光.md "wikilink")》大合唱的指揮，為連續第二年擔當此工作。
 
 ## 收视率
 
 根据[Video
-Research的统计](../Page/Video_Research.md "wikilink")，本届红白平均收视率较[上届有所提高](https://zh.wikipedia.org/wiki/第68回NHK紅白歌合戰 "wikilink")。其中前半部分（19:15-20:55）的平均收视率为37.7%（日本[关东地方](https://zh.wikipedia.org/wiki/关东地方 "wikilink")，下同），为2002年以来最高；后半（21:00-23:45）为41.5%。\[40\]\[41\]
+Research的统计](../Page/Video_Research.md "wikilink")，本届红白平均收视率较[上届有所提高](../Page/第68回NHK紅白歌合戰.md "wikilink")。其中前半部分（19:15-20:55）的平均收视率为37.7%（日本[关东地方](https://zh.wikipedia.org/wiki/关东地方 "wikilink")，下同），为2002年以来最高；后半（21:00-23:45）为41.5%。\[40\]\[41\]
 
 瞬时收视率最高为当天23:42录得的45.5%，低于前一年的48.4％。歌手方面，最高为大壓軸[南方之星以](../Page/南方之星.md "wikilink")“特别企划”出场时的45.3%；若只统计正式出场歌手出场时的收视率，则瞬时最高收视率为[米津玄师演唱](https://zh.wikipedia.org/wiki/米津玄师 "wikilink")《[Lemon](https://zh.wikipedia.org/wiki/Lemon_\(米津玄师歌曲\) "wikilink")》时的44.6%。\[42\]
 
@@ -414,7 +413,7 @@ Research的统计](../Page/Video_Research.md "wikilink")，本届红白平均收
 
 27. 与其[泰国姊妹团体](../Page/泰国.md "wikilink")[BNK48](../Page/BNK48.md "wikilink")（初次登场）共同演出，分别以[日语和](../Page/日语.md "wikilink")[泰语演唱](../Page/泰语.md "wikilink")。
 
-28. AKB48延續[上屆紅白的作法](https://zh.wikipedia.org/wiki/第68回NHK紅白歌合戰 "wikilink")，從[AKB48集團日本國內各團中選拔](../Page/AKB48集團.md "wikilink")16名成員代表登台演出。出場成員名單：
+28. AKB48延續[上屆紅白的作法](../Page/第68回NHK紅白歌合戰.md "wikilink")，從[AKB48集團日本國內各團中選拔](../Page/AKB48集團.md "wikilink")16名成員代表登台演出。出場成員名單：
 
 29. 于[橫濱體育館举行的單獨跨年演唱會作现场连线演出](../Page/橫濱體育館.md "wikilink")。
 
@@ -423,7 +422,7 @@ Research的统计](../Page/Video_Research.md "wikilink")，本届红白平均收
 31. 曾以[ELEPHANT
     KASHIMASHI主唱身份在上一届](../Page/ELEPHANT_KASHIMASHI.md "wikilink")（2017年）红白登场。
 
-32. 与[布袋寅泰](https://zh.wikipedia.org/wiki/布袋寅泰 "wikilink")（1）共同演出。
+32. 与[布袋寅泰](../Page/布袋寅泰.md "wikilink")（1）共同演出。
 
 33. 用於取代[NHK綜合台](../Page/NHK綜合頻道.md "wikilink")、[NHK World
     Premium等](../Page/NHK_World_Premium.md "wikilink")2電視頻道於20:55-21:00播出的《NHK新闻》。

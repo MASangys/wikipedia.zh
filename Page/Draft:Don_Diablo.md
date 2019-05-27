@@ -20,7 +20,7 @@ of
 Sound、Gatecrasher、Dancevalley、Godskitchen、Impulz、Mysteryland、Creamfields、Haoman
 17、Turnmills、Chasing Summer、Innercity、Northern Lights、Extrema
 Outdoorn、ElectroNation and Razzmatazz及Space in
-Ibiza演出。迪亚布罗也与包括、、[迪波洛](https://zh.wikipedia.org/wiki/迪波洛 "wikilink")、、、、Rox、、在内的制作人合作，混音了[巴士底樂團](../Page/巴士底樂團.md "wikilink")、[Birdy](../Page/Birdy_\(歌手\).md "wikilink")、[泰尼·坦普](../Page/泰尼·坦普.md "wikilink")、[米卡](../Page/米卡_\(歌手\).md "wikilink")、[化學兄弟](../Page/化學兄弟.md "wikilink")、、[街头霸王](../Page/街頭霸王_\(虛擬樂團\).md "wikilink")、、[伊基·波普和](../Page/伊基·波普.md "wikilink")的作品。据北美音乐博客主“The
+Ibiza演出。迪亚布罗也与包括、、[迪波洛](../Page/迪波洛.md "wikilink")、、、、Rox、、在内的制作人合作，混音了[巴士底樂團](../Page/巴士底樂團.md "wikilink")、[Birdy](../Page/Birdy_\(歌手\).md "wikilink")、[泰尼·坦普](../Page/泰尼·坦普.md "wikilink")、[米卡](../Page/米卡_\(歌手\).md "wikilink")、[化學兄弟](../Page/化學兄弟.md "wikilink")、、[街头霸王](../Page/街頭霸王_\(虛擬樂團\).md "wikilink")、、[伊基·波普和](../Page/伊基·波普.md "wikilink")的作品。据北美音乐博客主“The
 Hype Machine”所写，迪亚布罗曾在世界上多次获得“最多次被写入博客的艺术家”称号。\[4\]
 
 2004年，迪亚布罗启动了音乐项目——Divided。此项目有两部热门专辑——《The Music, the

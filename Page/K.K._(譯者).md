@@ -15,7 +15,7 @@ Free）\[3\]，跟產官學界人士合作，打造全臺北市的公共免費Wi
   - 《[星界的戰旗](../Page/星界的戰旗.md "wikilink")》Ⅰ-Ⅳ
   - 《名偵探柯南電影版大百科》
   - 《[空想科學大戰](../Page/空想科學大戰.md "wikilink")》
-  - 《[鼻毛真拳](https://zh.wikipedia.org/wiki/鼻毛真拳 "wikilink")》（第1-19冊）
+  - 《[鼻毛真拳](../Page/鼻毛真拳.md "wikilink")》（第1-19冊）
   - 《魔導具事典》
   - 《[機動戰士Z鋼彈](https://zh.wikipedia.org/wiki/機動戰士Z鋼彈 "wikilink")》小說版（第3-5冊）
   - 《[星之聲](../Page/星之聲.md "wikilink")》小說版（尖端出版，已絕版）
@@ -29,7 +29,7 @@ Free）\[3\]，跟產官學界人士合作，打造全臺北市的公共免費Wi
   - 《水木茂的日本神怪圖鑑》
   - 《槍械魔法異戰》
   - 《[奇諾之旅](https://zh.wikipedia.org/wiki/奇諾之旅 "wikilink")》（第20-21卷）
-  - 《[今天開始靠蘿莉吃軟飯！](https://zh.wikipedia.org/wiki/今天開始靠蘿莉吃軟飯！ "wikilink")》
+  - 《[今天開始靠蘿莉吃軟飯！](../Page/今天開始靠蘿莉吃軟飯！.md "wikilink")》
   - 《三千世界的英雄王》
   - 《艾梅洛閣下II世事件簿》
 

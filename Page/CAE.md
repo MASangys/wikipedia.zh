@@ -9,8 +9,8 @@
 
   - （Columbia Metropolitan Airport）， IATA機場代碼CAE，在美國南卡羅來納州的西哥倫比亞
 
-  - [歐洲區域航空](https://zh.wikipedia.org/wiki/歐洲區域航空 "wikilink")（Régional
-    Compagnie Aérienne Européenne），或為法國航空公司的子公司CAE
+  - [歐洲區域航空](../Page/歐洲區域航空.md "wikilink")（Régional Compagnie Aérienne
+    Européenne），或為法國航空公司的子公司CAE
 
 ## 計算
 
@@ -34,8 +34,8 @@
 
 ## 工程
 
-  - [加拿大工程院](https://zh.wikipedia.org/wiki/加拿大工程院 "wikilink")（Canadian
-    Academy of Engineering），加拿大國家工程學院
+  - [加拿大工程院](../Page/加拿大工程院.md "wikilink")（Canadian Academy of
+    Engineering），加拿大國家工程學院
   - [中國工程院](../Page/中国工程院.md "wikilink")（Chinese Academy of
     Engineering），中華人民共和國國家工程院。
   - [氣動馬達](https://zh.wikipedia.org/wiki/气动马达 "wikilink")（Compressed air

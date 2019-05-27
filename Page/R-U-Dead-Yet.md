@@ -10,7 +10,7 @@ RUDY攻击打开到HTTP服务器的并发POST连接，并延迟将POST请求的�
 
   - [Fork炸弹](../Page/Fork炸弹.md "wikilink")
   - 高轨道离子炮
-  - [LAND攻击](https://zh.wikipedia.org/wiki/LAND攻击 "wikilink")
+  - [LAND攻击](../Page/LAND攻击.md "wikilink")
   - [死亡之Ping](https://zh.wikipedia.org/wiki/死亡之Ping "wikilink")
   - ReDoS
   - Slowloris

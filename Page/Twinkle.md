@@ -6,7 +6,7 @@
 
   - （1948-2015），英国创作型歌手
 
-  - [婷蔻·坎纳](https://zh.wikipedia.org/wiki/婷蔻·坎纳 "wikilink")（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：）
+  - [婷蔻·坎纳](../Page/婷蔻·坎纳.md "wikilink")（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：）
     ，印度电影女演员
 
   - ，真人秀*Sa Re Ga Ma Pa Challenge 2005*中的女选手

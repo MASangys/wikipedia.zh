@@ -1,9 +1,9 @@
 **Razer
-Phone**是[雷蛇公司设计和开发的](https://zh.wikipedia.org/wiki/雷蛇公司 "wikilink")[Android的](../Page/Android.md "wikilink")[智能手机在开始发售](../Page/智能手机.md "wikilink")11月15日，\[1\]该设备主要是为游戏玩家设计的，虽然评论家已经注意到它也适合日常使用。\[2\]
+Phone**是[雷蛇公司设计和开发的](../Page/雷蛇公司.md "wikilink")[Android的](../Page/Android.md "wikilink")[智能手机在开始发售](../Page/智能手机.md "wikilink")11月15日，\[1\]该设备主要是为游戏玩家设计的，虽然评论家已经注意到它也适合日常使用。\[2\]
 
 ## 历史
 
-由于2017年1月收购了[Nextbit](https://zh.wikipedia.org/wiki/Nextbit "wikilink")，\[3\]
+由于2017年1月收购了[Nextbit](../Page/Nextbit.md "wikilink")，\[3\]
 Razer开始开发自己的手机。因此，Razer Phone在设计上与Nextbit
 Robin非常相似。它的指纹扫描仪和前置摄像头的位置是相同的，两个手机都有大的边框，虽然雷蛇手机是機身铝制的，不像Nextbit
 Robin機身塑胶。\[4\]

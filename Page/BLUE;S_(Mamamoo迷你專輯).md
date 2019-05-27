@@ -97,7 +97,7 @@ Bridge World企劃製作，透過Kakao M於2018年11月29日發行，主打曲�
 <p>全球</p></td>
 <td><p>2018年11月29日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rainbow_Bridge_World" title="wikilink">Rainbow Bridge World</a></p></td>
+<td><p><a href="../Page/Rainbow_Bridge_World.md" title="wikilink">Rainbow Bridge World</a></p></td>
 <td><p><a href="../Page/Kakao_M.md" title="wikilink">Kakao M</a></p></td>
 </tr>
 <tr class="even">

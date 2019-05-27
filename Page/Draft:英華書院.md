@@ -565,7 +565,7 @@ Long may thy name on our lips proudly ring.<br />
   - [廖長城](../Page/廖長城.md "wikilink")：前[行政會議成員](../Page/香港特別行政區行政會議.md "wikilink")、[全國政協委員](../Page/中國人民政治協商會議全國委員會香港地區委員.md "wikilink")、[香港科技大學校董會主席](../Page/香港科技大學.md "wikilink")
   - [蘇慶和](../Page/蘇慶和.md "wikilink")：[市區重建局主席](../Page/市區重建局.md "wikilink")、前[領展](https://zh.wikipedia.org/wiki/領展房地產信託基金 "wikilink")[行政總裁](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")\[39\]
   - 鄧炳光：[差餉物業估價署署長](../Page/差餉物業估價署.md "wikilink")
-  - [黃繼兒](https://zh.wikipedia.org/wiki/黃繼兒 "wikilink")：[私隱專員公署](https://zh.wikipedia.org/wiki/私隱專員公署 "wikilink")[個人資料私隱專員](https://zh.wikipedia.org/wiki/個人資料私隱專員 "wikilink")、大律師，[律政司前副法律政策專員](https://zh.wikipedia.org/wiki/律政司 "wikilink")、[法律改革委員會前秘書長](https://zh.wikipedia.org/wiki/法律改革委員會 "wikilink")\[40\]
+  - [黃繼兒](https://zh.wikipedia.org/wiki/黃繼兒 "wikilink")：[私隱專員公署](https://zh.wikipedia.org/wiki/私隱專員公署 "wikilink")[個人資料私隱專員](https://zh.wikipedia.org/wiki/個人資料私隱專員 "wikilink")、大律師，[律政司前副法律政策專員](../Page/律政司.md "wikilink")、[法律改革委員會前秘書長](https://zh.wikipedia.org/wiki/法律改革委員會 "wikilink")\[40\]
   - 陳澤武：[澳門特別行政區行政會委員](../Page/澳門特別行政區行政會.md "wikilink")、[澳門立法會議員](https://zh.wikipedia.org/wiki/澳門立法會 "wikilink")，澳門體育暨奧林匹克委員會理事會秘書長
   - [吳錫輝](https://zh.wikipedia.org/wiki/吳錫輝 "wikilink")：前[廣播處副處長](https://zh.wikipedia.org/wiki/廣播處 "wikilink")\[41\]
   - [潘佩璆](../Page/潘佩璆.md "wikilink")：前[立法會議員（勞工界）](../Page/第四屆香港立法會.md "wikilink")，[香港工會聯合會副理事長](../Page/香港工會聯合會.md "wikilink")，現職[九龍](../Page/九龍.md "wikilink")[觀塘](../Page/觀塘.md "wikilink")[聯合醫院](https://zh.wikipedia.org/wiki/聯合醫院 "wikilink")[精神科副顧問](https://zh.wikipedia.org/wiki/精神科 "wikilink")[醫生](https://zh.wikipedia.org/wiki/醫生 "wikilink")、[香港中文大學精神科學系榮譽臨床副](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")[教授](../Page/教授.md "wikilink")
@@ -597,7 +597,7 @@ Long may thy name on our lips proudly ring.<br />
   - [葉承智](https://zh.wikipedia.org/wiki/葉承智 "wikilink")：[和記港口有限公司集團董事總經理](https://zh.wikipedia.org/wiki/和記港口有限公司 "wikilink")
   - [梁兆邦](https://zh.wikipedia.org/wiki/梁兆邦 "wikilink")：[實惠家居有限公司副行政總裁](https://zh.wikipedia.org/wiki/實惠家居有限公司 "wikilink")
   - [吳智光](https://zh.wikipedia.org/wiki/吳智光 "wikilink")：[新世界第一巴士人力資源及行政總監](../Page/新世界第一巴士.md "wikilink")
-  - [胡景邵](https://zh.wikipedia.org/wiki/胡景邵 "wikilink")：[匯友資本](https://zh.wikipedia.org/wiki/匯友資本 "wikilink")（AID
+  - [胡景邵](../Page/胡景邵.md "wikilink")：[匯友資本](https://zh.wikipedia.org/wiki/匯友資本 "wikilink")（AID
     Partners）首席合夥人，[Investec亞洲董事長](https://zh.wikipedia.org/wiki/Investec "wikilink")。
   - [何啟聰](https://zh.wikipedia.org/wiki/何啟聰 "wikilink")：[瑞信香港認股證及牛熊證銷售主管](https://zh.wikipedia.org/wiki/瑞信 "wikilink")
   - [伍致豐](https://zh.wikipedia.org/wiki/伍致豐 "wikilink")：[超凡集團執行董事](https://zh.wikipedia.org/wiki/超凡集團 "wikilink")
@@ -628,7 +628,7 @@ Long may thy name on our lips proudly ring.<br />
   - [鄒廣榮](../Page/鄒廣榮.md "wikilink")：[香港大學房地產及建設系系主任](https://zh.wikipedia.org/wiki/香港大學房地產及建設系 "wikilink")/講座教授、[科斯產權研究中心主任](https://zh.wikipedia.org/wiki/科斯產權研究中心 "wikilink")、前[香港測量師學會會長](../Page/香港測量師學會.md "wikilink")
   - [羅永生](https://zh.wikipedia.org/wiki/羅永生 "wikilink")：[嶺南大學文化研究系副教授](https://zh.wikipedia.org/wiki/嶺南大學 "wikilink")、香港著名文化研究學者
   - [袁文得](https://zh.wikipedia.org/wiki/袁文得 "wikilink")：[香港大學教育學院副教授](../Page/香港大學.md "wikilink")
-  - [鄺智文](https://zh.wikipedia.org/wiki/鄺智文 "wikilink")：[香港浸會大學歷史系副教授](../Page/香港浸會大學.md "wikilink")，新晉本土歷史學家
+  - [鄺智文](../Page/鄺智文.md "wikilink")：[香港浸會大學歷史系副教授](../Page/香港浸會大學.md "wikilink")，新晉本土歷史學家
   - [張子熙](https://zh.wikipedia.org/wiki/張子熙 "wikilink")：[香港理工大學康復治療科學系副教授](../Page/香港理工大學.md "wikilink")
 
 #### 醫學界
@@ -639,7 +639,7 @@ Long may thy name on our lips proudly ring.<br />
   - [方道生](https://zh.wikipedia.org/wiki/方道生 "wikilink")：前[屯門醫院腦神經外科部門主管](../Page/屯門醫院.md "wikilink")
   - [陳凱旭](https://zh.wikipedia.org/wiki/陳凱旭 "wikilink")：香港皮膚診所主席及醫務總監，[晴報醫心直說和](../Page/晴報.md "wikilink")[頭條日報活出健康美專欄作家](../Page/頭條日報.md "wikilink")
   - [鄭子豐](https://zh.wikipedia.org/wiki/鄭子豐 "wikilink")：東區尤德夫人那打素醫院口腔頜面外科顧問醫生
-  - [曹貴子](https://zh.wikipedia.org/wiki/曹貴子 "wikilink")：兒科醫生，[康健國際](../Page/康健國際.md "wikilink")（3886）創辦人
+  - [曹貴子](../Page/曹貴子.md "wikilink")：兒科醫生，[康健國際](../Page/康健國際.md "wikilink")（3886）創辦人
   - [鄭偉澤](https://zh.wikipedia.org/wiki/鄭偉澤 "wikilink")：[香港執業眼科視光師協會會長](https://zh.wikipedia.org/wiki/香港執業眼科視光師協會 "wikilink")
   - [夏威](https://zh.wikipedia.org/wiki/夏威_\(醫生\) "wikilink")：前[香港大學肝膽胰外科名譽臨床副教授](../Page/香港大學.md "wikilink")、肝膽胰外科權威
 
@@ -676,23 +676,23 @@ Long may thy name on our lips proudly ring.<br />
 
 #### 體育界
 
-| 姓名                                                  | 離校年份 | 運動項目 | 成就／曾效力隊伍                                                                                                                                                  | 簡介                                                        | 參考                       |
-| --------------------------------------------------- | ---- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------ |
-| [李卓耀](https://zh.wikipedia.org/wiki/李卓耀 "wikilink") |      | 羽毛球  |                                                                                                                                                           |                                                           | \[48\]                   |
-| [張家朗](https://zh.wikipedia.org/wiki/張家朗 "wikilink") |      | 劍擊   |                                                                                                                                                           |                                                           | \[49\]                   |
-| [鄭錦興](../Page/鄭錦興.md "wikilink")                    |      | 籃球   |                                                                                                                                                           |                                                           |                          |
-| [陳兆榮](../Page/陳兆榮.md "wikilink")                    | 2011 | 籃球   | [永倫](https://zh.wikipedia.org/wiki/永倫 "wikilink")、[東方](https://zh.wikipedia.org/wiki/東方籃球隊 "wikilink")、[香港代表](../Page/香港男子籃球代表隊.md "wikilink")            |                                                           | \[50\]                   |
-| [陳張敏](../Page/陳張敏.md "wikilink")                    |      | 籃球   |                                                                                                                                                           |                                                           |                          |
-| [惠龍兒](../Page/惠龍兒.md "wikilink")                    |      | 籃球   |                                                                                                                                                           |                                                           |                          |
-| [林凱光](https://zh.wikipedia.org/wiki/林凱光 "wikilink") |      | 籃球   |                                                                                                                                                           |                                                           |                          |
-| [周家駒](https://zh.wikipedia.org/wiki/周家駒 "wikilink") |      | 籃球   |                                                                                                                                                           |                                                           |                          |
-| [周健宏](../Page/周健宏.md "wikilink")                    | 2010 | 籃球   |                                                                                                                                                           | 首位[KBL香港球員](https://zh.wikipedia.org/wiki/KBL "wikilink") | \[51\]\[52\]             |
-| [鄭兆均](../Page/鄭兆均.md "wikilink")                    |      | 足球   | [流浪](../Page/香港流浪足球會.md "wikilink")、[理文](https://zh.wikipedia.org/wiki/理文足球會 "wikilink")                                                                  |                                                           | \[53\]                   |
-| [卓耀國](../Page/卓耀國.md "wikilink")                    | 2011 | 足球   | [流浪](../Page/香港流浪足球會.md "wikilink")、[R\&F富力](https://zh.wikipedia.org/wiki/R&F富力 "wikilink")、[基亞索](../Page/基亞索足球會.md "wikilink")                          |                                                           | \[54\]\[55\]\[56\]\[57\] |
-| [播磨浩謙](../Page/播磨浩謙.md "wikilink")                  | 2012 | 足球   | [傑志](https://zh.wikipedia.org/wiki/傑志 "wikilink")、[夢想FC](https://zh.wikipedia.org/wiki/夢想FC "wikilink")、[凱景](https://zh.wikipedia.org/wiki/凱景 "wikilink") |                                                           | \[58\]                   |
-| [羅曉聰](../Page/羅曉聰.md "wikilink")                    |      | 足球   | [流浪](../Page/香港流浪足球會.md "wikilink")、[南華](https://zh.wikipedia.org/wiki/南華足球隊 "wikilink")、[飛馬](https://zh.wikipedia.org/wiki/香港飛馬足球會 "wikilink")           |                                                           | \[59\]\[60\]             |
-| [王子聰](https://zh.wikipedia.org/wiki/王子聰 "wikilink") |      | 足球   | [理文](https://zh.wikipedia.org/wiki/理文足球會 "wikilink")、[傑志](https://zh.wikipedia.org/wiki/傑志 "wikilink")                                                    |                                                           | \[61\]                   |
-| [王子謙](../Page/王子謙.md "wikilink")                    |      | 足球   | [冠忠南區](https://zh.wikipedia.org/wiki/冠忠南區 "wikilink")                                                                                                     |                                                           | \[62\]                   |
+| 姓名                                 | 離校年份 | 運動項目 | 成就／曾效力隊伍                                                                                                                                                  | 簡介                                                        | 參考                       |
+| ---------------------------------- | ---- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------ |
+| [李卓耀](../Page/李卓耀.md "wikilink")   |      | 羽毛球  |                                                                                                                                                           |                                                           | \[48\]                   |
+| [張家朗](../Page/張家朗.md "wikilink")   |      | 劍擊   |                                                                                                                                                           |                                                           | \[49\]                   |
+| [鄭錦興](../Page/鄭錦興.md "wikilink")   |      | 籃球   |                                                                                                                                                           |                                                           |                          |
+| [陳兆榮](../Page/陳兆榮.md "wikilink")   | 2011 | 籃球   | [永倫](https://zh.wikipedia.org/wiki/永倫 "wikilink")、[東方](../Page/東方籃球隊.md "wikilink")、[香港代表](../Page/香港男子籃球代表隊.md "wikilink")                               |                                                           | \[50\]                   |
+| [陳張敏](../Page/陳張敏.md "wikilink")   |      | 籃球   |                                                                                                                                                           |                                                           |                          |
+| [惠龍兒](../Page/惠龍兒.md "wikilink")   |      | 籃球   |                                                                                                                                                           |                                                           |                          |
+| [林凱光](../Page/林凱光.md "wikilink")   |      | 籃球   |                                                                                                                                                           |                                                           |                          |
+| [周家駒](../Page/周家駒.md "wikilink")   |      | 籃球   |                                                                                                                                                           |                                                           |                          |
+| [周健宏](../Page/周健宏.md "wikilink")   | 2010 | 籃球   |                                                                                                                                                           | 首位[KBL香港球員](https://zh.wikipedia.org/wiki/KBL "wikilink") | \[51\]\[52\]             |
+| [鄭兆均](../Page/鄭兆均.md "wikilink")   |      | 足球   | [流浪](../Page/香港流浪足球會.md "wikilink")、[理文](../Page/理文足球會.md "wikilink")                                                                                     |                                                           | \[53\]                   |
+| [卓耀國](../Page/卓耀國.md "wikilink")   | 2011 | 足球   | [流浪](../Page/香港流浪足球會.md "wikilink")、[R\&F富力](https://zh.wikipedia.org/wiki/R&F富力 "wikilink")、[基亞索](../Page/基亞索足球會.md "wikilink")                          |                                                           | \[54\]\[55\]\[56\]\[57\] |
+| [播磨浩謙](../Page/播磨浩謙.md "wikilink") | 2012 | 足球   | [傑志](https://zh.wikipedia.org/wiki/傑志 "wikilink")、[夢想FC](https://zh.wikipedia.org/wiki/夢想FC "wikilink")、[凱景](https://zh.wikipedia.org/wiki/凱景 "wikilink") |                                                           | \[58\]                   |
+| [羅曉聰](../Page/羅曉聰.md "wikilink")   |      | 足球   | [流浪](../Page/香港流浪足球會.md "wikilink")、[南華](https://zh.wikipedia.org/wiki/南華足球隊 "wikilink")、[飛馬](https://zh.wikipedia.org/wiki/香港飛馬足球會 "wikilink")           |                                                           | \[59\]\[60\]             |
+| [王子聰](../Page/王子聰.md "wikilink")   |      | 足球   | [理文](../Page/理文足球會.md "wikilink")、[傑志](https://zh.wikipedia.org/wiki/傑志 "wikilink")                                                                       |                                                           | \[61\]                   |
+| [王子謙](../Page/王子謙.md "wikilink")   |      | 足球   | [冠忠南區](https://zh.wikipedia.org/wiki/冠忠南區 "wikilink")                                                                                                     |                                                           | \[62\]                   |
 
 ## 關聯學校
 

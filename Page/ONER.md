@@ -33,7 +33,7 @@
 <td><p>隊長、唱歌、RAP、跳舞、吉他</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/木子洋" title="wikilink">木子洋</a></p></td>
+<td><p><a href="../Page/木子洋.md" title="wikilink">木子洋</a></p></td>
 <td><p>李振洋</p></td>
 <td><p>Kwin</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山東" title="wikilink">山東</a></p></td>
@@ -44,7 +44,7 @@
 <td><p>唱歌、跳舞、鋼琴</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/卜凡_(歌手)" title="wikilink">卜 凡</a></p></td>
+<td><p><a href="../Page/卜凡_(歌手).md" title="wikilink">卜 凡</a></p></td>
 <td><p>卜凡凡</p></td>
 <td><p>Katto</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山東" title="wikilink">山東</a></p></td>
@@ -55,7 +55,7 @@
 <td><p>RAP、跳舞、即興饒舌</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/靈超" title="wikilink">靈 超</a></p></td>
+<td><p><a href="../Page/靈超.md" title="wikilink">靈 超</a></p></td>
 <td><p>李英超</p></td>
 <td><p>Didi</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/河北" title="wikilink">河北</a></p></td>

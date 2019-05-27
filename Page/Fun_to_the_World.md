@@ -1,5 +1,5 @@
 《**Fun to the
-World**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MOMOLAND的第四張](https://zh.wikipedia.org/wiki/MOMOLAND "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。此專輯由MLD娛樂在2018年6月26日發行，主打歌為〈BAAM(배앰)〉\[1\]\[2\]。日文版在2018年11月釋出。\[3\]
+World**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MOMOLAND的第四張](../Page/MOMOLAND.md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。此專輯由MLD娛樂在2018年6月26日發行，主打歌為〈BAAM(배앰)〉\[1\]\[2\]。日文版在2018年11月釋出。\[3\]
 
 ## 背景及回歸日程
 
@@ -8,8 +8,7 @@ World**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團
 的個人概念照。\[4\]
 
 6月11日，公開在官方 Facebook 上公開 YEONWOO、Daisy、Ahin、Tae
-Ha、JANE、[珠伊](https://zh.wikipedia.org/wiki/JooE "wikilink")、Nayun
-七位成員的個人概念照。\[5\]
+Ha、JANE、[珠伊](../Page/JooE.md "wikilink")、Nayun 七位成員的個人概念照。\[5\]
 
 6月12日，公開官方 Facebook 上公開了團體概念照。\[6\]
 

@@ -22,7 +22,7 @@ Time》**。\[1\]12月4日宣佈22日加場。\[2\]
 <tbody>
 <tr class="odd">
 <td><p>2017年12月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p>慶熙大學 ─ 和平殿堂</p></td>
 <td><p>加場</p></td>

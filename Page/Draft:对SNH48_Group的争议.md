@@ -1,6 +1,5 @@
-这条目列出与中国女子组合[SNH48及其姐妹组合](https://zh.wikipedia.org/wiki/SNH48 "wikilink")[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")、[SHY48](../Page/SHY48.md "wikilink")、[CKG48及](https://zh.wikipedia.org/wiki/CKG48 "wikilink")[IDOLS
-Ft](https://zh.wikipedia.org/wiki/IDOLS_Ft "wikilink")，即“**SNH48
-Group**”有关的争议事件。
+这条目列出与中国女子组合[SNH48及其姐妹组合](https://zh.wikipedia.org/wiki/SNH48 "wikilink")[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")、[SHY48](../Page/SHY48.md "wikilink")、[CKG48及](../Page/CKG48.md "wikilink")[IDOLS
+Ft](../Page/IDOLS_Ft.md "wikilink")，即“**SNH48 Group**”有关的争议事件。
 
 ## 运营方相关争议
 

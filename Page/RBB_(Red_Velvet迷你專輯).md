@@ -1,5 +1,5 @@
 《**RBB**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
-Velvet的第五張韓語迷你專輯](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")，由[SM
+Velvet的第五張韓語迷你專輯](../Page/Red_Velvet.md "wikilink")，由[SM
 Entertainment企劃並於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2018年11月30日發行。
 
 ## 背景與預告

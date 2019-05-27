@@ -36,7 +36,7 @@ Squad）捕捉蜘蛛人。
 
 #### 動畫電影
 
-  - 《[蜘蛛人：新宇宙](https://zh.wikipedia.org/wiki/蜘蛛人：新宇宙 "wikilink")》，由[史丹·李配音](../Page/史丹·李.md "wikilink")，於[片尾彩蛋中出場](../Page/片尾彩蛋.md "wikilink")。該角色為1967年動畫《蜘蛛人》裡的角色。
+  - 《[蜘蛛人：新宇宙](../Page/蜘蛛人：新宇宙.md "wikilink")》，由[史丹·李配音](../Page/史丹·李.md "wikilink")，於[片尾彩蛋中出場](../Page/片尾彩蛋.md "wikilink")。該角色為1967年動畫《蜘蛛人》裡的角色。
 
 ### 遊戲
 
@@ -57,9 +57,8 @@ Squad）捕捉蜘蛛人。
   - 《[蜘蛛人：驚奇再起2](../Page/蜘蛛人：驚奇再起2_\(遊戲\).md "wikilink")》，由弗瑞德·塔塔薛瑞配音。
   - 《》，由配音。
   - 《》，由凱爾·赫伯特配音。
-  - 《[漫威英雄
-    Online](https://zh.wikipedia.org/wiki/漫威英雄_Online "wikilink")》，由凱爾·赫伯特配音。
-  - 《[蜘蛛俠](https://zh.wikipedia.org/wiki/蜘蛛俠_\(2018年遊戲\) "wikilink")》，由達林·德·保羅配音\[5\]\[6\]。
+  - 《[漫威英雄 Online](../Page/漫威英雄_Online.md "wikilink")》，由凱爾·赫伯特配音。
+  - 《[蜘蛛俠](../Page/蜘蛛俠_\(2018年遊戲\).md "wikilink")》，由達林·德·保羅配音\[5\]\[6\]。
 
 ## 參考文獻
 

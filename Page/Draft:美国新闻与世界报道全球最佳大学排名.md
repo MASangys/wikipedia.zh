@@ -420,7 +420,7 @@ University Ranking**），又名**US News世界大学排名，**由
 <td><p>42</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/巴黎-薩克雷大學" title="wikilink">巴黎薩克雷大學</a></p></td>
+<td><p><a href="../Page/巴黎-薩克雷大學.md" title="wikilink">巴黎薩克雷大學</a></p></td>
 <td></td>
 <td></td>
 <td></td>

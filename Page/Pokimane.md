@@ -1,5 +1,5 @@
 **伊瑪妮·安尼斯**（Imane
-Anys\[1\]，），較廣為人知的是化名**Pokimane**，加拿大[Twitch](https://zh.wikipedia.org/wiki/Twitch_\(網站\) "wikilink")[實況主與](https://zh.wikipedia.org/wiki/網路直播 "wikilink")[YouTuber](https://zh.wikipedia.org/wiki/YouTuber "wikilink")，主要因其在Twitch上的遊戲直播而知名，且多為《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》和《[堡垒之夜
+Anys\[1\]，），較廣為人知的是化名**Pokimane**，加拿大[Twitch](https://zh.wikipedia.org/wiki/Twitch_\(網站\) "wikilink")[實況主與](../Page/網路直播.md "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")，主要因其在Twitch上的遊戲直播而知名，且多為《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》和《[堡垒之夜
 大逃杀](../Page/堡垒之夜_大逃杀.md "wikilink")》。
 
 ## 早年生活
@@ -10,7 +10,7 @@ Anys\[1\]，），較廣為人知的是化名**Pokimane**，加拿大[Twitch](ht
 
 ## Twitch實況
 
-安尼斯己經在[Twitch上](https://zh.wikipedia.org/wiki/Twitch_\(網站\) "wikilink")[直播多年](https://zh.wikipedia.org/wiki/網路直播 "wikilink")\[7\]，其頻道在2017年時有著約45萬名追隨者，使她成為該平台上前一百名擁有最多追隨數的人\[8\]。由於「Pokimane」在2017年的崛起，把安尼斯評為該年度的最佳Twitch實況主\[9\]。肖蒂獎提到之所以能在Twitch上打響名堂，是因為其《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》遊戲實況\[10\]。另外，她也曾在《英雄聯盟》的新模式「閃電急擊」預告片中客串出現\[11\]。
+安尼斯己經在[Twitch上](https://zh.wikipedia.org/wiki/Twitch_\(網站\) "wikilink")[直播多年](../Page/網路直播.md "wikilink")\[7\]，其頻道在2017年時有著約45萬名追隨者，使她成為該平台上前一百名擁有最多追隨數的人\[8\]。由於「Pokimane」在2017年的崛起，把安尼斯評為該年度的最佳Twitch實況主\[9\]。肖蒂獎提到之所以能在Twitch上打響名堂，是因為其《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》遊戲實況\[10\]。另外，她也曾在《英雄聯盟》的新模式「閃電急擊」預告片中客串出現\[11\]。
 
 安尼斯還因其《[堡垒之夜
 大逃杀](../Page/堡垒之夜_大逃杀.md "wikilink")》的實況而聞名，而她最初只把該遊戲當作其中一個贊助商\[12\]。在[E3

@@ -57,7 +57,7 @@ Hip-Hop和Rap排行榜上名列前五，分别排名第3和第2。
 [分）](../Page/Metacritic.md "wikilink") ，表明“普遍赞誉”。
 RapReviews.com对混音带进行了积极的评论，并对其进行评论说：“So Far
 Gone毫无疑问是近期记忆中最具凝聚力，最常见的嘻哈音乐记录之一 - 这几乎与人们对混音带的期望完全相反。” “
-[波士顿环球报”给混音带带来了积极的评分](https://zh.wikipedia.org/wiki/波士頓環球報 "wikilink")，并评论说“他的唯物主义贯穿始终如此（香槟长笛，女孩，黑莓，更多的女孩），但他用柔和的幽默和诚实追逐它。”
+[波士顿环球报”给混音带带来了积极的评分](../Page/波士頓環球報.md "wikilink")，并评论说“他的唯物主义贯穿始终如此（香槟长笛，女孩，黑莓，更多的女孩），但他用柔和的幽默和诚实追逐它。”
 [Pitchfork
 Media对混音带进行了积极的评价](../Page/Pitchfork_Media.md "wikilink")，并表示“So
 far Gone仍然是最强大的可听混音带之一。” [Slant
@@ -66,8 +66,7 @@ Far Gone 是一个非常勇敢的创新，德雷克将标准的金光闪闪的�
 
 ## 曲目列表
 
-积分改编自[Tidal](https://zh.wikipedia.org/wiki/Tidal "wikilink")
-\[5\]和EP班轮笔记。 \[6\]  **笔记**
+积分改编自[Tidal](../Page/Tidal.md "wikilink") \[5\]和EP班轮笔记。 \[6\]  **笔记**
 
   - 由于抽样版税， 表示未经认可的作家
 
@@ -95,7 +94,7 @@ Far Gone 是一个非常勇敢的创新，德雷克将标准的金光闪闪的�
     ”的样本，由丹汉密尔顿撰写，由汉密尔顿，乔弗兰克和雷诺兹执导;并包含部分由Nakia
     Coleman编写的“为男孩做的事”。 \[12\]
   - “不可阻挡的”样本“不可阻挡”，由John Hill ， [Thomas
-    Pentz和Santi](https://zh.wikipedia.org/wiki/迪波洛 "wikilink")
+    Pentz和Santi](../Page/迪波洛.md "wikilink")
     White编写，由Santigold执行。 \[13\]
   - “Uptown”包含由[Billy Joel编写的](../Page/比利·乔尔.md "wikilink")“ Uptown Girl
     ”的元素和摘录。 \[14\]

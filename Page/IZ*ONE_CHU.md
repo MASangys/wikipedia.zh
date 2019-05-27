@@ -32,17 +32,17 @@ CHU**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet�
 ## 第二季《秘密的朋友》
 
   - 前序：從IZ\*One
-    [日本出道](https://zh.wikipedia.org/wiki/想要你說喜歡我 "wikilink")，分兩個分隊在東京、橫濱宣傳，以簡介花絮形式序列，列出團隊成為日本白金唱片藝人後，在東京舉行拍手會，但也見證日本團員（尤其是矢吹奈子）韓語進步神速的成果。
+    [日本出道](../Page/想要你說喜歡我.md "wikilink")，分兩個分隊在東京、橫濱宣傳，以簡介花絮形式序列，列出團隊成為日本白金唱片藝人後，在東京舉行拍手會，但也見證日本團員（尤其是矢吹奈子）韓語進步神速的成果。
   - 回韓後，繼續記錄IZ\*ONE日常工作與合宿生活。
   - 在第一宿舍，權恩妃、金彩元、金珉周、安兪真繼續為奶酪爭吵，姜惠元、崔叡娜卻因為不諳英語（姜惠元可讀出英語，但不能理解或翻譯），在[PS4遊戲遇到鐵板](../Page/PlayStation_4.md "wikilink")。
   - 奈子在第二宿舍沙發底發現3個箱子，第一主軸開始。
   - 主軸：1整天學生－正式回歸前充電時間。12人不論年齡、輩份，成為3年1班同班同學，只可以以「平語」對話，但要找出自己最要好的「密友」。這是因為：以年紀計，老大[權恩妃比](https://zh.wikipedia.org/wiki/權恩妃 "wikilink")[宮脇咲良大幾乎](../Page/宮脇咲良.md "wikilink")3歲，比同公司的[金采源大](../Page/金采源.md "wikilink")5歲，更比老么[張員瑛大幾乎](../Page/張員瑛.md "wikilink")10歲。
   - 「秘密朋友」遊戲：隨機選擇朋友，在對方不發覺的情況下，從計劃開始至錄製完畢，一天內3次，為她做「能感動她的事」。
   - 儲物櫃裡，藏著成員國／高中時期最珍貴的物品，介紹時，發現[宮脇咲良自小學後](../Page/宮脇咲良.md "wikilink")，因為在15歲出道，已沒有在教室學習，或跟同齡朋友玩耍的記憶。
-  - 為宮脇咲良、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")、[本田仁美體驗韓國高中生活](https://zh.wikipedia.org/wiki/本田仁美 "wikilink")，包括參加「才藝表演」，因為日本從小學到高中，都沒有類似場合。
+  - 為宮脇咲良、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[本田仁美體驗韓國高中生活](../Page/本田仁美.md "wikilink")，包括參加「才藝表演」，因為日本從小學到高中，都沒有類似場合。
   - 高中回憶相冊。
   - 放學後，與宮脇咲良、矢吹奈子、本田仁美體驗「即席炒年糕」店，挑戰YouTuber 「大食女王－挑食的太陽」菜單。
-  - 分組課外活動：[塔羅牌](../Page/塔羅牌.md "wikilink")（權恩妃、張員瑛、矢吹奈子）、韓國練歌房（[李彩演](../Page/李彩演.md "wikilink")、本田仁美、[曺柔理](../Page/曺柔理.md "wikilink")、[安兪真](https://zh.wikipedia.org/wiki/安兪真 "wikilink")、金采源）、[網吧](../Page/网吧.md "wikilink")（[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[金玟周](https://zh.wikipedia.org/wiki/金玟周 "wikilink")、[崔叡娜](https://zh.wikipedia.org/wiki/崔叡娜 "wikilink")、[姜惠元](../Page/姜惠元.md "wikilink")）體驗
+  - 分組課外活動：[塔羅牌](../Page/塔羅牌.md "wikilink")（權恩妃、張員瑛、矢吹奈子）、韓國練歌房（[李彩演](../Page/李彩演.md "wikilink")、本田仁美、[曺柔理](../Page/曺柔理.md "wikilink")、[安兪真](../Page/安兪真.md "wikilink")、金采源）、[網吧](../Page/网吧.md "wikilink")（[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[金玟周](https://zh.wikipedia.org/wiki/金玟周 "wikilink")、[崔叡娜](../Page/崔叡娜.md "wikilink")、[姜惠元](../Page/姜惠元.md "wikilink")）體驗
   - 「恐怖校園」藏寶+課室逃脫－「IZ\*One」膽小鬼揭曉（日本Line、金玟周、崔叡娜、曺柔理）。膽子大的是[姜惠元](../Page/姜惠元.md "wikilink")、安兪真、權恩妃、李彩演、張員瑛、金采源。
   - 安兪真[首爾藝高入學日](../Page/首尔公演艺术高中.md "wikilink")，也透露跟同公司師姐－[Fromis
     9白知憲](https://zh.wikipedia.org/wiki/Fromis_9 "wikilink")（沒有出席）是同班同學。同日，也是金玟周轉學開學禮。

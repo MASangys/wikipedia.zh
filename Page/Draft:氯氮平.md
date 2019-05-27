@@ -3,7 +3,7 @@
 它比 典型的抗精神病药物更有效，特别在抗拒治療的病人。\[3\]\[4\]\[5\] 本品可以口服。\[6\]
 
 本品可導致粒细胞缺乏症，可能導致死亡。\[7\] 為减少这种风险，白细胞的數目應定期监测。\[8\] 其他严重的副作用包括
-[癲癇](https://zh.wikipedia.org/wiki/癲癇發作 "wikilink")，[心肌炎](https://zh.wikipedia.org/wiki/心肌炎 "wikilink")，[高血糖](https://zh.wikipedia.org/wiki/高血糖 "wikilink")，而且，可能使因[認知障礙症而精神錯亂的老年人增加的死亡的风险](../Page/失智症.md "wikilink")。\[9\]\[10\]
+[癲癇](../Page/癲癇發作.md "wikilink")，[心肌炎](../Page/心肌炎.md "wikilink")，[高血糖](../Page/高血糖.md "wikilink")，而且，可能使因[認知障礙症而精神錯亂的老年人增加的死亡的风险](../Page/失智症.md "wikilink")。\[9\]\[10\]
 常见副作用包括嗜睡、减少或增加的唾液的分泌、[低血压](../Page/低血壓.md "wikilink")、视力模糊，
 [头晕](../Page/頭暈.md "wikilink")。\[11\]
 有大约有5％的人可能會患上永久性的运动障碍迟发运动障碍。\[12\]
@@ -20,7 +20,7 @@
 这意味着他们没有對至少两个不同的的[抗精神病药物有令人满意的反應](https://zh.wikipedia.org/wiki/抗精神病药 "wikilink")。\[20\]
 它能比第一代抗精神病药物更有效地减少了精神分裂症的症状。它對那些對其他藥物反應不佳的患者有更明顯的效果。\[21\]
 
-在一項2013年的研究中，比較了15種抗精神病藥物治療精神分裂症症狀的有效度，[氯氮平排名第一](https://zh.wikipedia.org/wiki/氯氮平 "wikilink")，並且表現出非常高的療效。
+在一項2013年的研究中，比較了15種抗精神病藥物治療精神分裂症症狀的有效度，[氯氮平排名第一](../Page/氯氮平.md "wikilink")，並且表現出非常高的療效。
 它比[氨磺必利](../Page/氨磺必利.md "wikilink")(排名第二)有效25％，比[奧氮平](../Page/奥氮平.md "wikilink")(排名第三)有效33％，有效程度是[氟哌啶醇](../Page/氟哌啶醇.md "wikilink")，[喹硫平和](../Page/喹硫平.md "wikilink")[阿立哌唑的兩倍](../Page/阿立哌唑.md "wikilink")。\[22\]
 
 然而，氯氮平的作用並非（至少在短期內）反映在整體的衡量標準中，例如能力离开医院和保持就业。
@@ -37,7 +37,7 @@
 [便秘](../Page/便秘.md "wikilink")，尿床，睡眠時[流口水](https://zh.wikipedia.org/wiki/Drooling "wikilink")，[肌肉僵硬](../Page/遲發性肌肉痛.md "wikilink")，昏昏欲睡，[顫抖](../Page/顫抖.md "wikilink")，[姿位性低血压](../Page/姿位性低血壓.md "wikilink")，高血糖和[体重增加的](https://zh.wikipedia.org/wiki/Weight_gain "wikilink")。有風險會发展成[錐體外症候群](https://zh.wikipedia.org/wiki/錐體外症候群 "wikilink")，例如[迟发运动障碍的風險是低于典型的抗精神病药物](https://zh.wikipedia.org/wiki/Tardive_dyskinesia "wikilink")；这可能是由于氯氮平的抗膽鹼的影响。
 患者從另一種抗精神病藥轉用氯氮平後，錐體外系症狀可能會有所減輕。\[26\]
 
-氯氮平携带五个黑箱警告，包括粒细胞缺乏，中央神经系统的抑郁症，[白细胞减少症](../Page/白细胞减少症.md "wikilink")，[粒细胞减少症](../Page/嗜中性白血球低下.md "wikilink")，癫痫症，[骨髓抑制](https://zh.wikipedia.org/wiki/骨髓抑制 "wikilink")，[認知障礙症](../Page/失智症.md "wikilink")，[低血压](../Page/低血壓.md "wikilink")、[心肌炎](https://zh.wikipedia.org/wiki/心肌炎 "wikilink")、[低血压直立性](../Page/姿位性低血壓.md "wikilink")
+氯氮平携带五个黑箱警告，包括粒细胞缺乏，中央神经系统的抑郁症，[白细胞减少症](../Page/白细胞减少症.md "wikilink")，[粒细胞减少症](../Page/嗜中性白血球低下.md "wikilink")，癫痫症，[骨髓抑制](https://zh.wikipedia.org/wiki/骨髓抑制 "wikilink")，[認知障礙症](../Page/失智症.md "wikilink")，[低血压](../Page/低血壓.md "wikilink")、[心肌炎](../Page/心肌炎.md "wikilink")、[低血压直立性](../Page/姿位性低血壓.md "wikilink")
 (可能有[晕厥](../Page/昏厥.md "wikilink"))和[癲癇](../Page/癫痫.md "wikilink")。\[27\]
 癲癇發作閾值的降低可能與劑量相關，並且較少初始的劑量可降低癲癇發作的風險。較少初始的劑量也可降低直立性低血壓和其他不良心血管副作用的風險。\[28\]
 
@@ -59,11 +59,11 @@
 疾病的首要表現是發燒，可能伴有與[上呼吸道](../Page/上呼吸道感染.md "wikilink")，[胃腸道或](../Page/腸胃炎.md "wikilink")[泌尿道感染相關的症狀](../Page/泌尿道感染.md "wikilink")。
 [C-反應蛋白](https://zh.wikipedia.org/wiki/C反應蛋白 "wikilink")(CRP)通常隨著[發燒的發生而增加](https://zh.wikipedia.org/wiki/發燒 "wikilink")，並且心肌酶，[肌鈣蛋白的增加在](https://zh.wikipedia.org/wiki/肌钙蛋白 "wikilink")5天后發生。
 監測指南建議在使用本品開始後的前4週檢查每週的CRP和肌鈣蛋白保持在基線，並觀察患者的疾病症徵和症狀。\[35\]
-[心力衰竭是不太常見的](https://zh.wikipedia.org/wiki/心力衰竭 "wikilink")，但可能隨著[肌鈣蛋白的增加而出現](https://zh.wikipedia.org/wiki/肌鈣蛋白 "wikilink")。最近有一項病例對照研究發現，隨著氯氮平劑量、年齡和[丙戊酸鈉的增加](https://zh.wikipedia.org/wiki/丙戊酸鈉 "wikilink")，氯氮平誘發[心肌炎的風險會增加](https://zh.wikipedia.org/wiki/心肌炎 "wikilink")。\[36\]
+[心力衰竭是不太常見的](https://zh.wikipedia.org/wiki/心力衰竭 "wikilink")，但可能隨著[肌鈣蛋白的增加而出現](https://zh.wikipedia.org/wiki/肌鈣蛋白 "wikilink")。最近有一項病例對照研究發現，隨著氯氮平劑量、年齡和[丙戊酸鈉的增加](https://zh.wikipedia.org/wiki/丙戊酸鈉 "wikilink")，氯氮平誘發[心肌炎的風險會增加](../Page/心肌炎.md "wikilink")。\[36\]
 
 ### 胃肠活動
 
-另一個未被認識而可能危及生命的副作用是胃腸運動減少，可能表現為嚴重的[便秘](../Page/便秘.md "wikilink")，[糞便嵌塞](../Page/糞便.md "wikilink")，麻痺性[腸梗阻](https://zh.wikipedia.org/wiki/腸 "wikilink")，腸梗阻，急性巨結腸，[缺血或](https://zh.wikipedia.org/wiki/缺血 "wikilink")[壞死](https://zh.wikipedia.org/wiki/壞死 "wikilink")。\[37\]
+另一個未被認識而可能危及生命的副作用是胃腸運動減少，可能表現為嚴重的[便秘](../Page/便秘.md "wikilink")，[糞便嵌塞](../Page/糞便.md "wikilink")，麻痺性[腸梗阻](https://zh.wikipedia.org/wiki/腸 "wikilink")，腸梗阻，急性巨結腸，[缺血或](../Page/缺血.md "wikilink")[壞死](https://zh.wikipedia.org/wiki/壞死 "wikilink")。\[37\]
 當使用不透射線標記客觀地測量胃腸功能時，高達80％使用本品的人已經顯示出結腸運動不足。\[38\]
 目前，氯氮平引起的胃腸動力減少死亡率高於粒細胞增多症。\[39\]
 [考科藍的一項研究發現很少有證據可以幫助指導關於由氯氮平和其他抗精神病藥物引起的胃腸動力減少的最佳治療方法](../Page/考科藍.md "wikilink")。\[40\]
@@ -77,7 +77,7 @@
 ### 中枢神经系统
 
 中枢神经系统的副作用包括
-[有睡意](https://zh.wikipedia.org/wiki/昏睡 "wikilink")，[眩晕](../Page/眩暈_\(醫學\).md "wikilink")，[头痛](../Page/頭痛.md "wikilink")，[颤抖](../Page/顫抖.md "wikilink")，[晕厥](../Page/昏厥.md "wikilink")，[睡眠障碍，](../Page/睡眠障碍.md "wikilink")[恶梦，烦躁](../Page/恶梦.md "wikilink")，[运动不能，搅动](../Page/運動功能減退症.md "wikilink")，[癫痫发作](https://zh.wikipedia.org/wiki/癲癇發作 "wikilink")，痙攣，[静坐不能](https://zh.wikipedia.org/wiki/静坐不能 "wikilink")，神志不清，[疲劳](../Page/疲勞.md "wikilink")，[失眠](../Page/失眠.md "wikilink")，[运动机能亢进](https://zh.wikipedia.org/wiki/Hyperkinesia "wikilink")，[虛弱](https://zh.wikipedia.org/wiki/虛弱 "wikilink")，昏睡，[共济失调](../Page/共济失调.md "wikilink")，[説話含糊不清](https://zh.wikipedia.org/wiki/合音_\(語言學\) "wikilink")，[抑郁症](../Page/抑鬱.md "wikilink")，肌陣攣和[焦虑](../Page/焦慮.md "wikilink")。罕見的副作用有[妄想](../Page/妄想.md "wikilink")，[幻覺](../Page/幻觉.md "wikilink")，[譫妄](../Page/譫妄.md "wikilink")，[失憶](../Page/失憶症.md "wikilink")，[性慾增加或減少](../Page/性欲.md "wikilink")，偏執和煩躁，[腦電圖異常](../Page/腦電圖.md "wikilink")，精神病惡化，感覺異常，癲癇持續狀態和強迫性症狀。與其他抗精神病藥類似，氯氮平很少會引起抗精神病藥物惡性症候群。\[43\]
+[有睡意](../Page/昏睡.md "wikilink")，[眩晕](../Page/眩暈_\(醫學\).md "wikilink")，[头痛](../Page/頭痛.md "wikilink")，[颤抖](../Page/顫抖.md "wikilink")，[晕厥](../Page/昏厥.md "wikilink")，[睡眠障碍，](../Page/睡眠障碍.md "wikilink")[恶梦，烦躁](../Page/恶梦.md "wikilink")，[运动不能，搅动](../Page/運動功能減退症.md "wikilink")，[癫痫发作](../Page/癲癇發作.md "wikilink")，痙攣，[静坐不能](../Page/静坐不能.md "wikilink")，神志不清，[疲劳](../Page/疲勞.md "wikilink")，[失眠](../Page/失眠.md "wikilink")，[运动机能亢进](https://zh.wikipedia.org/wiki/Hyperkinesia "wikilink")，[虛弱](../Page/虛弱.md "wikilink")，昏睡，[共济失调](../Page/共济失调.md "wikilink")，[説話含糊不清](https://zh.wikipedia.org/wiki/合音_\(語言學\) "wikilink")，[抑郁症](../Page/抑鬱.md "wikilink")，肌陣攣和[焦虑](../Page/焦慮.md "wikilink")。罕見的副作用有[妄想](../Page/妄想.md "wikilink")，[幻覺](../Page/幻觉.md "wikilink")，[譫妄](../Page/譫妄.md "wikilink")，[失憶](../Page/失憶症.md "wikilink")，[性慾增加或減少](../Page/性欲.md "wikilink")，偏執和煩躁，[腦電圖異常](../Page/腦電圖.md "wikilink")，精神病惡化，感覺異常，癲癇持續狀態和強迫性症狀。與其他抗精神病藥類似，氯氮平很少會引起抗精神病藥物惡性症候群。\[43\]
 
 ### 小便失禁
 
@@ -92,15 +92,15 @@
 
 除高血糖外，氯氮平治療的患者體重經常增加。\[48\] 葡萄糖代謝受損和肥胖已被證明是代謝綜合徵造成的，並有可能增加心血管疾病的風險。
 數據表明氯氮平可能比其他一些第二代[抗精神病藥更容易引起不良代謝作用](https://zh.wikipedia.org/wiki/抗精神病药 "wikilink")。\[49\]
-一項研究表明，[奧氮平和](../Page/奥氮平.md "wikilink")[氯氮平使身體優先從脂肪中獲取能量](https://zh.wikipedia.org/wiki/氯氮平 "wikilink")，而不是碳水化合物，來擾亂新陳代謝。碳水化合物水平仍然很高，身體會產生胰島素抵抗並會引起糖尿病。\[50\]
+一項研究表明，[奧氮平和](../Page/奥氮平.md "wikilink")[氯氮平使身體優先從脂肪中獲取能量](../Page/氯氮平.md "wikilink")，而不是碳水化合物，來擾亂新陳代謝。碳水化合物水平仍然很高，身體會產生胰島素抵抗並會引起糖尿病。\[50\]
 
 ## 相互作用
 
-[氟伏沙明抑制](../Page/氟伏沙明.md "wikilink")[氯氮平的代謝](https://zh.wikipedia.org/wiki/氯氮平 "wikilink")，導致氯氮平在血液的水平顯著增加。\[51\]
+[氟伏沙明抑制](../Page/氟伏沙明.md "wikilink")[氯氮平的代謝](../Page/氯氮平.md "wikilink")，導致氯氮平在血液的水平顯著增加。\[51\]
 
 當[卡馬西平與氯氮平同時服用時](../Page/卡马西平.md "wikilink")，卡馬西平已被證明可顯著降低氯氮平的血漿水平，從而降低氯氮平的作用。\[52\]\[53\]
 應監測患者“開始或增加卡馬西平的氯氮平治療效果降低”。
-如果停用卡馬西平或降低卡馬西平的[劑量](https://zh.wikipedia.org/wiki/劑量 "wikilink")，應監測氯氮平的治療效果。
+如果停用卡馬西平或降低卡馬西平的[劑量](../Page/劑量.md "wikilink")，應監測氯氮平的治療效果。
 有研究建議卡馬西平不要與氯氮平同時使用，因為出現粒細胞增多症的風險增加。\[54\]
 
 已發表的病例報告指出，同時使用[苯二氮卓類藥物和氯氮平可導致嚴重的不良反應](../Page/苯二氮䓬类.md "wikilink")，如[呼吸停止](https://zh.wikipedia.org/wiki/呼吸中止 "wikilink")，[心臟驟停和](../Page/心搏停止.md "wikilink")[猝死](../Page/猝死.md "wikilink")。\[55\]
@@ -144,7 +144,7 @@
 <td><p>10.9</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/5-HT2B受體" title="wikilink">5-HT<sub>2B</sub></a></p></td>
+<td><p><a href="../Page/5-HT2B受體.md" title="wikilink">5-HT<sub>2B</sub></a></p></td>
 <td><p>8.37</p></td>
 <td><p>2.8</p></td>
 </tr>
@@ -174,7 +174,7 @@
 <td><p>60.1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/肾上腺素受体α1A" title="wikilink">α<sub>1A</sub></a></p></td>
+<td><p><a href="../Page/肾上腺素受体α1A.md" title="wikilink">α<sub>1A</sub></a></p></td>
 <td><p>1.62</p></td>
 <td><p>104.8</p></td>
 </tr>

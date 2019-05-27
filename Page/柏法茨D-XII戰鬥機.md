@@ -37,7 +37,7 @@
 
 ## 流行文化
 
-[第一次世界大戰後有](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")175架柏法茨D-XII戰鬥機成為戰勝國的戰利品，美國人霍華德·休斯在1930年拍攝了一部空戰電影[地獄天使](https://zh.wikipedia.org/wiki/地獄天使_\(電影\) "wikilink")，當中就用了柏法茨D-XII戰鬥機作為拍攝道俱。
+[第一次世界大戰後有](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")175架柏法茨D-XII戰鬥機成為戰勝國的戰利品，美國人霍華德·休斯在1930年拍攝了一部空戰電影[地獄天使](../Page/地獄天使_\(電影\).md "wikilink")，當中就用了柏法茨D-XII戰鬥機作為拍攝道俱。
 
 ## 使用國家
 

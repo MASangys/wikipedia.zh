@@ -2,8 +2,8 @@
 
 ## 颜色说明
 
-  - <span style="color:royalblue">品蓝色</span>表示该车型由[惠州交投巴士有限公司](https://zh.wikipedia.org/wiki/惠州交投巴士有限公司 "wikilink")（第一、第二、第三、第六、第九分公司）拥有。
-  - <span style="color:lightgreen">浅绿色</span>表示该车型由[惠州市东江公共汽车运输有限公司](https://zh.wikipedia.org/wiki/惠州市东江公共汽车运输有限公司 "wikilink")（第一、第二、第三、第五公司）或其组成单位拥有。
+  - <span style="color:royalblue">品蓝色</span>表示该车型由[惠州交投巴士有限公司](../Page/惠州交投巴士有限公司.md "wikilink")（第一、第二、第三、第六、第九分公司）拥有。
+  - <span style="color:lightgreen">浅绿色</span>表示该车型由[惠州市东江公共汽车运输有限公司](../Page/惠州市东江公共汽车运输有限公司.md "wikilink")（第一、第二、第三、第五公司）或其组成单位拥有。
   - <span style="color:gold">金色</span>表示该车型由惠州市汽车运输集团有限公司（城郊、博罗、龙门、惠东分公司）拥有。
   - <span style="color:orangered">橙红色</span>表示该车型由惠东县俊鹏公共汽车有限公司拥有。
   - <span style="color:blue">蓝色</span>表示该车型由惠州市惠阳区公共汽车有限公司拥有。
@@ -206,7 +206,7 @@
 
 ## 安凯（HFF）
 
-生产商：[安徽安凯汽车股份有限公司](https://zh.wikipedia.org/wiki/安凯汽车 "wikilink")
+生产商：[安徽安凯汽车股份有限公司](../Page/安凯汽车.md "wikilink")
 
 | 车辆型号 | 购入数量 | 现役数量 | 外观尺寸（mm） | 动力 | 发动机 | 空调厂牌 | 载客量 | 首次登记日期 | 首航日期 | 备注及来源 |
 | ---- | ---- | ---- | -------- | -- | --- | ---- | --- | ------ | ---- | ----- |

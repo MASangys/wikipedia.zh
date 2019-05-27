@@ -1,5 +1,5 @@
 《**Doctor
-Room**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2019年7月19日起播出的[金土連續劇](../Page/SBS金土連續劇.md "wikilink")。由《[清潭洞愛麗絲](../Page/清潭洞愛麗絲.md "wikilink")》、《[聽見你的聲音](../Page/聽見你的聲音.md "wikilink")》、《[皮諾丘](https://zh.wikipedia.org/wiki/皮諾丘_\(電視劇\) "wikilink")》、《[雖然30但仍17](https://zh.wikipedia.org/wiki/雖然30但仍17 "wikilink")》的[趙秀沅導演與](../Page/趙秀沅.md "wikilink")《清潭洞愛麗絲》、《[海德、哲基爾與我](https://zh.wikipedia.org/wiki/海德、哲基爾與我 "wikilink")》的[金智允作家合作打造](https://zh.wikipedia.org/wiki/金智允 "wikilink")，是一部圍繞痛症醫學科醫生和和圍繞著安樂死的爭議的醫學劇。此劇講述因不明原因的急性、慢性疼痛而受苦的患者們的故事，並描寫了尋找神秘疼痛原因的過程。\[1\]\[2\]\[3\]\[4\]
+Room**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2019年7月19日起播出的[金土連續劇](../Page/SBS金土連續劇.md "wikilink")。由《[清潭洞愛麗絲](../Page/清潭洞愛麗絲.md "wikilink")》、《[聽見你的聲音](../Page/聽見你的聲音.md "wikilink")》、《[皮諾丘](../Page/皮諾丘_\(電視劇\).md "wikilink")》、《[雖然30但仍17](../Page/雖然30但仍17.md "wikilink")》的[趙秀沅導演與](../Page/趙秀沅.md "wikilink")《清潭洞愛麗絲》、《[海德、哲基爾與我](https://zh.wikipedia.org/wiki/海德、哲基爾與我 "wikilink")》的[金智允作家合作打造](https://zh.wikipedia.org/wiki/金智允 "wikilink")，是一部圍繞痛症醫學科醫生和和圍繞著安樂死的爭議的醫學劇。此劇講述因不明原因的急性、慢性疼痛而受苦的患者們的故事，並描寫了尋找神秘疼痛原因的過程。\[1\]\[2\]\[3\]\[4\]
 
 ## 演員陣容
 
@@ -30,7 +30,7 @@ Room**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[S
 是輕鬆考上醫學院並一直在大學裡保持成績第一的天才，實力很像理性的媽媽；傾聽患者的話，偶爾流淚的共鳴能力像醫院理事長父親。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李奎炯" title="wikilink">李奎炯</a></p></td>
+<td><p><a href="../Page/李奎炯.md" title="wikilink">李奎炯</a></p></td>
 <td><p>孫石基</p></td>
 <td><p>首爾南部地方檢察廳刑事三部檢察官<br />
 不妥協於任何違反法律的原則主義者，就像電影「黑暗騎士」裡的哈維·丹特一樣，是一個把實現正義視為最高目標的大韓民國檢察官。</p></td>
@@ -414,7 +414,7 @@ Room**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[S
 **週末時段劇集**
 
   - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") [Original
-    Series](https://zh.wikipedia.org/wiki/OCN_Original_Series "wikilink")：
+    Series](../Page/OCN_Original_Series.md "wikilink")：
 
 ## 參考資料
 

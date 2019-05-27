@@ -5,7 +5,7 @@ __TOC__
 \==簡歷==
 
 創立個人烹飪頻道“點 Cook
-Guide”和[臺灣YouTuber](../Page/中華民國.md "wikilink")[阿神合作頻道](https://zh.wikipedia.org/wiki/阿神 "wikilink")“搞神馬”。曾在[日本藍帶修讀](../Page/日本.md "wikilink")，但後來退學。
+Guide”和[臺灣YouTuber](../Page/中華民國.md "wikilink")[阿神合作頻道](../Page/阿神.md "wikilink")“搞神馬”。曾在[日本藍帶修讀](../Page/日本.md "wikilink")，但後來退學。
 
 ## 個人頻道
 
@@ -21,7 +21,7 @@ Guide”已有55萬位訂閱者和近5千萬的觀看次數。
 
 ## 合作頻道
 
-在2016年與遊戲YouTuber[阿神合作頻道](https://zh.wikipedia.org/wiki/阿神 "wikilink")“搞神馬”主要以開箱，勞作，講屁話為主。截至2019年4月，“搞神馬”已有78萬位訂閱者和1.3億的觀看次數。
+在2016年與遊戲YouTuber[阿神合作頻道](../Page/阿神.md "wikilink")“搞神馬”主要以開箱，勞作，講屁話為主。截至2019年4月，“搞神馬”已有78萬位訂閱者和1.3億的觀看次數。
 “搞神馬”是Capsule（日商點子氣囊） 公司的creator\[4\]。
 「搞神馬」在2019年維持每週三、六、日更新影片。
 

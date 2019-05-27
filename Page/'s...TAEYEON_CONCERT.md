@@ -30,7 +30,7 @@ TAEYEON CONCERT》並透露將會有全新舞台，同時也是該巡迴的最�
 </tr>
 <tr class="even">
 <td><p>2018年10月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -86,7 +86,7 @@ TAEYEON CONCERT》並透露將會有全新舞台，同時也是該巡迴的最�
 </tr>
 <tr class="even">
 <td><p>2019年3月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p>首爾蠶室室內體育館</p></td>
 <td><p>安可場</p></td>

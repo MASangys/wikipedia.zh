@@ -1,4 +1,4 @@
-《**P風暴**》（；中国大陆片名《**反貪風暴4**》）是一部於[2019年上映的](../Page/2019年電影.md "wikilink")[香港](https://zh.wikipedia.org/wiki/香港電影 "wikilink")[動作](../Page/香港動作電影.md "wikilink")[犯罪電影](https://zh.wikipedia.org/wiki/犯罪電影 "wikilink")，為[反貪風暴系列電影第四部](https://zh.wikipedia.org/wiki/反貪風暴系列電影 "wikilink")\[1\]\[2\]，由[林德祿执導](../Page/林德祿.md "wikilink")，[古天樂](../Page/古天樂.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[林家棟及](../Page/林家棟.md "wikilink")[周秀娜領銜主演](../Page/周秀娜.md "wikilink")，[張智霖特別演出](../Page/張智霖.md "wikilink")，[凌志華任](https://zh.wikipedia.org/wiki/凌志華 "wikilink")[動作設計](https://zh.wikipedia.org/wiki/武術指導 "wikilink")。本作中P是指[監獄](../Page/監獄.md "wikilink")（Prison），內容涉及[懲教署](../Page/懲教署.md "wikilink")。
+《**P風暴**》（；中国大陆片名《**反貪風暴4**》）是一部於[2019年上映的](../Page/2019年電影.md "wikilink")[香港](https://zh.wikipedia.org/wiki/香港電影 "wikilink")[動作](../Page/香港動作電影.md "wikilink")[犯罪電影](https://zh.wikipedia.org/wiki/犯罪電影 "wikilink")，為[反貪風暴系列電影第四部](../Page/反貪風暴系列電影.md "wikilink")\[1\]\[2\]，由[林德祿执導](../Page/林德祿.md "wikilink")，[古天樂](../Page/古天樂.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[林家棟及](../Page/林家棟.md "wikilink")[周秀娜領銜主演](../Page/周秀娜.md "wikilink")，[張智霖特別演出](../Page/張智霖.md "wikilink")，[凌志華任](https://zh.wikipedia.org/wiki/凌志華 "wikilink")[動作設計](https://zh.wikipedia.org/wiki/武術指導 "wikilink")。本作中P是指[監獄](../Page/監獄.md "wikilink")（Prison），內容涉及[懲教署](../Page/懲教署.md "wikilink")。
 
 2019年4月1日宣佈開拍續作《[G風暴](https://zh.wikipedia.org/wiki/G風暴 "wikilink")》，由古天樂繼續擔任主角\[3\]。
 
@@ -71,7 +71,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/周秀娜.md" title="wikilink">周秀娜</a></strong><br />
-<small>童年：<a href="https://zh.wikipedia.org/wiki/黃雪兒_(童星)" title="wikilink">黃雪兒</a></small></p></td>
+<small>童年：<a href="../Page/黃雪兒_(童星).md" title="wikilink">黃雪兒</a></small></p></td>
 <td><p><strong>廖雨萍</strong></p></td>
 <td><p><strong>Natalie</strong><br />
 護士<br />
@@ -321,7 +321,7 @@
 <td><p>囚犯</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃建東" title="wikilink">黃建東</a></p></td>
+<td><p><a href="../Page/黃建東.md" title="wikilink">黃建東</a></p></td>
 <td></td>
 <td><p>電訊公司員工<br />
 受姚君豪之賄賂追查廖雨萍之手機訊號，以追查所匿藏位置</p></td>

@@ -26,7 +26,7 @@ High**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K
 
   - [朴佑鎭](https://zh.wikipedia.org/wiki/朴佑鎭 "wikilink")
 
-  - [瑟琪](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")
+  - [瑟琪](../Page/瑟琪.md "wikilink")
 
 ## 參賽者
 
@@ -73,7 +73,7 @@ High**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Hoya.md" title="wikilink">Hoya</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/杜娃·黎波" title="wikilink">杜娃·黎波</a>：New Rules</p></td>
+<td><p><a href="../Page/杜娃·黎波.md" title="wikilink">杜娃·黎波</a>：New Rules</p></td>
 <td><p>92</p></td>
 <td><p>92</p></td>
 <td><p>96</p></td>
@@ -191,7 +191,7 @@ ROUND 2
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Hoya.md" title="wikilink">Hoya隊</a></p></td>
-<td><p>The Greatest Show &amp; This is Me 《<a href="https://zh.wikipedia.org/wiki/大娛樂家_(電影)" title="wikilink">大娛樂家 (電影)</a>》OST</p></td>
+<td><p>The Greatest Show &amp; This is Me 《<a href="../Page/大娛樂家_(電影).md" title="wikilink">大娛樂家 (電影)</a>》OST</p></td>
 <td><p>97</p></td>
 <td><p>97</p></td>
 <td><p>100</p></td>

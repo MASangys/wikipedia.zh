@@ -9,7 +9,7 @@ BMG）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink"
 1970年代，赫爾斯塔爾國營工廠研製HMP，並在多年來一直穩步改進。該武器系統的第一個版本，即**HMP250**，能夠裝填250發.50
 BMG[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，並且架接在北約14英吋標準以下。這使得該武器可適用於北約的所有常見的[亞音速](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[固定翼](https://zh.wikipedia.org/wiki/固定翼飛機 "wikilink")[戰鬥机和](https://zh.wikipedia.org/wiki/戰鬥机 "wikilink")[旋翼機系統以上](https://zh.wikipedia.org/wiki/自轉旋翼機 "wikilink")。該武器系統採用電子控制擊發及保險系統，主要用於[密接空中支援](https://zh.wikipedia.org/wiki/密接空中支援 "wikilink")。
 
-在接下來的十多年當中，隨後推出了不同的版本，不同之處僅在於其他版本可裝填更多的彈藥、在筴艙以下裝有附加的收集箱，或是裝填250發彈藥和三枚[70毫米非制導火箭彈的RMP](https://zh.wikipedia.org/wiki/火蛇70航空火箭彈 "wikilink")（全寫：，意為：火箭及機槍筴艙）版本。
+在接下來的十多年當中，隨後推出了不同的版本，不同之處僅在於其他版本可裝填更多的彈藥、在筴艙以下裝有附加的收集箱，或是裝填250發彈藥和三枚[70毫米非制導火箭彈的RMP](../Page/火蛇70航空火箭彈.md "wikilink")（全寫：，意為：火箭及機槍筴艙）版本。
 
 用作武器的重機槍本身裝設在筴艙以內用以保持穩定的軟式槍架系統之上，由此控制和減緩重機槍的[後座力](../Page/後座力.md "wikilink")。這樣就可提高搭載的武器的[精度](../Page/準確與精密.md "wikilink")。而設於重機槍槍架以下的彈箱設計可保證彈鏈平穩滑動，不受[航空器的機動或加速影而留下卡彈或結累污垢的風險](https://zh.wikipedia.org/wiki/航空器 "wikilink")。各款HMP可以容納及發射所有標準的.50
 BMG口徑彈藥。
@@ -110,7 +110,7 @@ LCC於1987年獲得[美国陆军認證](../Page/美国陆军.md "wikilink")；�
 <td><p><a href="../Page/子彈.md" title="wikilink">子彈</a></p></td>
 <td><p><a href="../Page/12.7×99mm_NATO.md" title="wikilink">12.7×99毫米NATO</a>（.50 BMG）</p></td>
 <td><p>12.7×99毫米NATO（.50 BMG）+<br />
-<a href="https://zh.wikipedia.org/wiki/火蛇70航空火箭彈" title="wikilink">70毫米無／可制導航空火箭彈</a></p></td>
+<a href="../Page/火蛇70航空火箭彈.md" title="wikilink">70毫米無／可制導航空火箭彈</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -226,7 +226,7 @@ LCC於1987年獲得[美国陆军認證](../Page/美国陆军.md "wikilink")；�
     MAG的](../Page/FN_MAG通用機槍.md "wikilink")
   - [FN
     M3P](../Page/白朗寧M2重機槍.md "wikilink")[航空型](../Page/航空机关枪.md "wikilink")[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")
-  - [火蛇70航空火箭彈](https://zh.wikipedia.org/wiki/火蛇70航空火箭彈 "wikilink")
+  - [火蛇70航空火箭彈](../Page/火蛇70航空火箭彈.md "wikilink")
 
 ## 注釋、資料來源
 

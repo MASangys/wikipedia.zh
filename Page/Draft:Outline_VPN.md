@@ -3,7 +3,7 @@
 此工具为[多个系统开发了适配](../Page/跨平臺.md "wikilink")[应用](https://zh.wikipedia.org/wiki/客户端 "wikilink")
 。 Outline 是由 \[./https://en.wikipedia.org/wiki/Jigsaw_(company)
 Jigsaw\]
-开发，一个由[谷歌创建的](../Page/Google.md "wikilink")[技术孵化器](../Page/企业孵化器.md "wikilink")。[<sup>\[3\]</sup>](https://zh.wikipedia.org/wiki/Jigsaw "wikilink")
+开发，一个由[谷歌创建的](../Page/Google.md "wikilink")[技术孵化器](../Page/企业孵化器.md "wikilink")。[<sup>\[3\]</sup>](../Page/Jigsaw.md "wikilink")
 
 Outline 服务器支持\[./https://en.wikipedia.org/wiki/Self-hosting
 自托管（self-hosting）\]，同时也支持包括

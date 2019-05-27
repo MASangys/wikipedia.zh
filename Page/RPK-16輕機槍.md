@@ -42,7 +42,7 @@ RPK-16亦採用了全新設計的可拆卸式[機匣蓋](https://zh.wikipedia.or
 
 ## 參考
 
-  - [勇士單兵作戰系統](https://zh.wikipedia.org/wiki/勇士單兵作戰系統 "wikilink")
+  - [勇士單兵作戰系統](../Page/勇士單兵作戰系統.md "wikilink")
 
   - [AK-12](../Page/AK-12突击步枪.md "wikilink")
 
@@ -52,9 +52,9 @@ RPK-16亦採用了全新設計的可拆卸式[機匣蓋](https://zh.wikipedia.or
 
   - [RPK-74](../Page/RPK-74輕機槍.md "wikilink")
 
-  - [RPK-201](https://zh.wikipedia.org/wiki/RPK-201輕機槍 "wikilink")
+  - [RPK-201](../Page/RPK-201輕機槍.md "wikilink")
 
-  - [RPK-203](https://zh.wikipedia.org/wiki/RPK-203輕機槍 "wikilink")
+  - [RPK-203](../Page/RPK-203輕機槍.md "wikilink")
 
   -
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")

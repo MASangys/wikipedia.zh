@@ -1,4 +1,4 @@
-**基于融合以太网的RDMA**（，缩写**RoCE**）是一个网络协议，允许在一个[以太网网络上使用](../Page/以太网.md "wikilink")[远程直接内存访问](https://zh.wikipedia.org/wiki/远程直接内存访问 "wikilink")（RDMA）。RoCE有RoCE
+**基于融合以太网的RDMA**（，缩写**RoCE**）是一个网络协议，允许在一个[以太网网络上使用](../Page/以太网.md "wikilink")[远程直接内存访问](../Page/远程直接内存访问.md "wikilink")（RDMA）。RoCE有RoCE
 v1和RoCE v2两个版本。RoCE
 v1是一个以太网协议，因此允许同一个以太网[广播域中的任意两台主机间进行通信](https://zh.wikipedia.org/wiki/广播域 "wikilink")。RoCE
 v2是一个[网络层协议](../Page/网络层.md "wikilink")，因而RoCE
@@ -6,14 +6,14 @@ v2数据包可以被路由。虽然RoCE协议受益于的特征，但该协议�
 
 ## 背景
 
-网络密集型应用程序（如网络存储或群集计算）需要具有高带宽且低[延迟的网络基础架构](https://zh.wikipedia.org/wiki/延迟_\(工程学\) "wikilink")。RDMA相比其他网络[应用程序接口](../Page/应用程序接口.md "wikilink")（诸如[Berkeley套接字](../Page/Berkeley套接字.md "wikilink")）的优势是更低的延迟、更低的CPU占用，以及更高的带宽。\[5\]RoCE协议有着比其前身协议更低的延迟。\[6\]现有的RoCE
+网络密集型应用程序（如网络存储或群集计算）需要具有高带宽且低[延迟的网络基础架构](../Page/延迟_\(工程学\).md "wikilink")。RDMA相比其他网络[应用程序接口](../Page/应用程序接口.md "wikilink")（诸如[Berkeley套接字](../Page/Berkeley套接字.md "wikilink")）的优势是更低的延迟、更低的CPU占用，以及更高的带宽。\[5\]RoCE协议有着比其前身协议更低的延迟。\[6\]现有的RoCE
 HCA（主机通道适配器）的延迟低至1.3微秒\[7\]\[8\]，而在2011年已知的最低的iWARP HCA的延迟为3微秒。\[9\]
 [缩略图](https://zh.wikipedia.org/wiki/File:RoCE_Header_format.png "fig:缩略图")
 
 ## RoCE v1
 
 RoCE
-v1协议是一个以太网链路层协议，Ethertype为0x8915。它要符合以太网协议的帧长度限制：常规[以太网帧为](../Page/以太网帧格式.md "wikilink")1500字节，[巨型帧为](https://zh.wikipedia.org/wiki/巨型帧 "wikilink")9000字节。
+v1协议是一个以太网链路层协议，Ethertype为0x8915。它要符合以太网协议的帧长度限制：常规[以太网帧为](../Page/以太网帧格式.md "wikilink")1500字节，[巨型帧为](../Page/巨型帧.md "wikilink")9000字节。
 
 ## RoCE v2
 
@@ -25,7 +25,7 @@ ECN位用于标记，CNP\[12\]帧用于送达通知。\[13\]软件对RoCE v2的�
 
 ## RoCE与InfiniBand相比
 
-RoCE定义了如何在[以太网上执行RDMA](../Page/以太网.md "wikilink")，[InfiniBand架构规范则定义了如何在一个](https://zh.wikipedia.org/wiki/InfiniBand "wikilink")[InfiniBand网络上执行RDMA](https://zh.wikipedia.org/wiki/InfiniBand "wikilink")。RoCE预期为将主要面向群集的InfiniBand应用程序带入到一个寻常的以太网融合结构。\[15\]认为，InfiniBand将会继续提供比以太网更高的带宽以及更低的延迟。\[16\]
+RoCE定义了如何在[以太网上执行RDMA](../Page/以太网.md "wikilink")，[InfiniBand架构规范则定义了如何在一个](../Page/InfiniBand.md "wikilink")[InfiniBand网络上执行RDMA](../Page/InfiniBand.md "wikilink")。RoCE预期为将主要面向群集的InfiniBand应用程序带入到一个寻常的以太网融合结构。\[15\]认为，InfiniBand将会继续提供比以太网更高的带宽以及更低的延迟。\[16\]
 
 RoCE与InfiniBand协议之间的技术差异：
 

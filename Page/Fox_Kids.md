@@ -6,7 +6,7 @@ Fox Kids起源於1990年9月8日至2002年9月7日在Fox網絡上播出的節目
 ## 另見
 
   - [4Kids TV](https://zh.wikipedia.org/wiki/4Kids_TV "wikilink")
-  - [Jetix](https://zh.wikipedia.org/wiki/Jetix "wikilink")
+  - [Jetix](../Page/Jetix.md "wikilink")
   - [Vortexx](https://zh.wikipedia.org/wiki/Vortexx "wikilink")
 
 ## 參考資料

@@ -79,7 +79,7 @@ Mili当前由以下六名成员组成：\[4\]
 
 <!-- end list -->
 
-  - 10月：为动画《[时空使徒](https://zh.wikipedia.org/wiki/时空使徒 "wikilink")》创作主题曲《与我共鳴-NENTEN-》
+  - 10月：为动画《[时空使徒](../Page/时空使徒.md "wikilink")》创作主题曲《与我共鳴-NENTEN-》
   - 10月12日：第二张专辑《Miracle Milk》开始发售\[19\]
   - 11月5日-12日：举办巡回演唱
 

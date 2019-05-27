@@ -46,7 +46,7 @@ Live Arcade遊戲」名單中排名第16名\[47\]。本作還獲得電玩雜誌�
 Hatfield）表示：「《特技摩托賽HD》的內容有一卡車那麼多。」並表示本作「真正地活用了Xbox
 Live的機能。」\[49\]。[GameTrailers的編輯認為本作內容豐富](../Page/GameTrailers.md "wikilink")，「物超所值」\[50\]。[Eurogamer的湯姆](../Page/Eurogamer.md "wikilink")·布拉姆威爾（Tom
 Bramwell）表示，「《特技摩托賽HD》能讓人一玩再玩」\[51\]。[Giant
-Bomb的布萊德](https://zh.wikipedia.org/wiki/Giant_Bomb "wikilink")·舒梅克（Daemon
+Bomb的布萊德](../Page/Giant_Bomb.md "wikilink")·舒梅克（Daemon
 Hatfield）則對遊戲的排行榜功能予以高度評價\[52\]。
 
 輿論同時抨擊《特技摩托賽HD》過於陡峭的難度曲線和實用性不足的分享功能。舒梅克表示，他希望這款遊戲的難度「不要一下子增加那麼多」\[53\]。哈特費爾德也在評論內說道，「當你因越不過一座小丘而卡關時，螢幕左上角的摔車計數器會讓你越看越覺得這遊戲逐漸變得令人沮喪而非有趣。」\[54\]。[GameSpot的湯姆](../Page/GameSpot.md "wikilink")·麥克·謝（Tom

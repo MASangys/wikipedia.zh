@@ -6,7 +6,7 @@ proud**》為[日本女歌手](../Page/日本.md "wikilink")[華原朋美的第]
   - 延續前作〈[I
     BELIEVE](../Page/I_BELIEVE.md "wikilink")〉的第二張百萬銷量單曲。為華原最暢銷的單曲。
   - 在創下紀錄的大賣首張專輯《[LOVE
-    BRACE](https://zh.wikipedia.org/wiki/LOVE_BRACE "wikilink")》中，此曲所收錄的為在單曲版末段副歌進行詞曲增加後的「full
+    BRACE](../Page/LOVE_BRACE.md "wikilink")》中，此曲所收錄的為在單曲版末段副歌進行詞曲增加後的「full
     version」。
   - 本作力壓同年[安室奈美惠的](../Page/安室奈美惠.md "wikilink")〈[Don't wanna
     cry](../Page/Don't_wanna_cry.md "wikilink")〉、〈[Chase the

@@ -2,8 +2,8 @@
 
 ## 高雄捷運
 
-[前瞻基礎建設計畫審查期間](https://zh.wikipedia.org/wiki/前瞻基礎建設計畫 "wikilink")[中國國民黨立委以朗讀文章的方式杯葛議事](../Page/中國國民黨.md "wikilink")。
-中國國民黨朗讀的幾篇文章中，不斷提及[高雄捷運是](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")「錯誤的建設」，認為不應該再讓高雄市興建[高雄捷運黃線](../Page/高雄捷運黃線.md "wikilink")。國民黨批評高雄捷運擴建計畫是沒人坐的錢坑計畫\[1\]。高雄市立委[管碧玲認為](../Page/管碧玲.md "wikilink")，現在[台北捷運路網已經建構完整](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")，台北人能夠享受現代化都市的便捷交通服務，但當高雄市民努力爭取捷運路網時，卻被批評為沒人坐的錢坑計畫，叫高雄市民情何以堪？管碧玲強調這是中國國民黨長期以來[重北輕南的](https://zh.wikipedia.org/wiki/重北輕南 "wikilink")「[台北觀點](https://zh.wikipedia.org/wiki/台北觀點 "wikilink")」。\[2\]\[3\]
+[前瞻基礎建設計畫審查期間](../Page/前瞻基礎建設計畫.md "wikilink")[中國國民黨立委以朗讀文章的方式杯葛議事](../Page/中國國民黨.md "wikilink")。
+中國國民黨朗讀的幾篇文章中，不斷提及[高雄捷運是](../Page/高雄捷運.md "wikilink")「錯誤的建設」，認為不應該再讓高雄市興建[高雄捷運黃線](../Page/高雄捷運黃線.md "wikilink")。國民黨批評高雄捷運擴建計畫是沒人坐的錢坑計畫\[1\]。高雄市立委[管碧玲認為](../Page/管碧玲.md "wikilink")，現在[台北捷運路網已經建構完整](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")，台北人能夠享受現代化都市的便捷交通服務，但當高雄市民努力爭取捷運路網時，卻被批評為沒人坐的錢坑計畫，叫高雄市民情何以堪？管碧玲強調這是中國國民黨長期以來[重北輕南的](https://zh.wikipedia.org/wiki/重北輕南 "wikilink")「[台北觀點](https://zh.wikipedia.org/wiki/台北觀點 "wikilink")」。\[2\]\[3\]
 
 ## 五千洞之菊
 

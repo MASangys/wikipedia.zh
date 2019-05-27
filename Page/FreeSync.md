@@ -1,7 +1,7 @@
 **FreeSync**是用于[LCD显示器的自适应同步技术的品牌名称](../Page/液晶显示器.md "wikilink")，其支持动态，旨在减少由于内容的[帧速率未对齐而导致的画面撕裂和延迟](../Page/帧率.md "wikilink")。
 \[1\]
 
-FreeSync由[AMD开发](../Page/超威半导体.md "wikilink")，并于2014年首次发布，与[Nvidia的专有技术](../Page/英伟达.md "wikilink")[G-Sync为竞争关系](https://zh.wikipedia.org/wiki/Nvidia_G-Sync "wikilink")。
+FreeSync由[AMD开发](../Page/超威半导体.md "wikilink")，并于2014年首次发布，与[Nvidia的专有技术](../Page/英伟达.md "wikilink")[G-Sync为竞争关系](../Page/Nvidia_G-Sync.md "wikilink")。
 \[2\]该技术为免版税、免费使用，且没有性能损失。 \[3\]
 
 ## 概述
@@ -19,7 +19,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 
 ## FreeSync 2 HDR
 
-2017年1月，AMD宣布推出第二代FreeSync。技术要求包括：移除最低帧速率、设置屏幕[延迟最大值等](https://zh.wikipedia.org/wiki/延迟_\(工程学\) "wikilink")。FreeSync
+2017年1月，AMD宣布推出第二代FreeSync。技术要求包括：移除最低帧速率、设置屏幕[延迟最大值等](../Page/延迟_\(工程学\).md "wikilink")。FreeSync
 2还支持[宽色域色彩空间](../Page/色域.md "wikilink")（使色彩量增加一倍）和增加的显示亮度，使显卡[驱动程序和应用软件能直接支持](../Page/驱动程序.md "wikilink")显示。显示器的/用于色彩原色和最大/最小亮度的[EDID元数据在写入](../Page/EDID.md "wikilink")[帧缓冲器时用于](../Page/帧缓冲器.md "wikilink")[色调映射环节的调整](../Page/色调映射.md "wikilink")，从而减少操作系统层面[色彩管理以及视频接口电路上的色彩空间和传输功能](../Page/色彩管理.md "wikilink")（EOTF）的处理环节，进而减少输出延迟。
 \[8\] \[9\]
 
@@ -872,7 +872,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[72]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>XUB2395WSU-B1</p></td>
 <td><p>23 in</p></td>
 <td><p>1920 × 1200 (WUXGA)</p></td>
@@ -884,7 +884,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[73][74]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>GB2488HSU-B2</p></td>
 <td><p>24 in</p></td>
 <td><p>1920 × 1080 (<a href="../Page/1080p.md" title="wikilink">1080p</a>)</p></td>
@@ -896,7 +896,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[75]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>G2530HSU-B1</p></td>
 <td><p>25 in</p></td>
 <td><p>1920 × 1080 (<a href="../Page/1080p.md" title="wikilink">1080p</a>)</p></td>
@@ -908,7 +908,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[76]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>B2791HSU-B1</p></td>
 <td><p>27 in</p></td>
 <td><p>1920 × 1080 (<a href="../Page/1080p.md" title="wikilink">1080p</a>)</p></td>
@@ -920,7 +920,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[77]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>GB2788HS-B1</p></td>
 <td><p>27 in</p></td>
 <td><p>1920 × 1080 (<a href="../Page/1080p.md" title="wikilink">1080p</a>)</p></td>
@@ -932,7 +932,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[78]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>B2783QSU-B1</p></td>
 <td><p>27 in</p></td>
 <td><p>2560 × 1440 ()</p></td>
@@ -944,7 +944,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[79][80]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>GB2760QSU-B1</p></td>
 <td><p>27 in</p></td>
 <td><p>2560 × 1440 ()</p></td>
@@ -956,7 +956,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[81][82]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>XUB2792QSU-B1</p></td>
 <td><p>27 in</p></td>
 <td><p>2560 × 1440 ()</p></td>
@@ -968,7 +968,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[83]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>GB2888UHSU</p></td>
 <td><p>28 in</p></td>
 <td><p>3840 × 2160 (UHD 4K)</p></td>
@@ -2695,7 +2695,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[210]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>XUB2395WSU-B1</p></td>
 <td><p>23 in</p></td>
 <td><p>1920 × 1200 (WUXGA)</p></td>
@@ -2707,7 +2707,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[211][212]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>GB2488HSU-B2</p></td>
 <td><p>24 in</p></td>
 <td><p>1920 × 1080 (<a href="../Page/1080p.md" title="wikilink">1080p</a>)</p></td>
@@ -2719,7 +2719,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[213]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>G2530HSU-B1</p></td>
 <td><p>25 in</p></td>
 <td><p>1920 × 1080 (<a href="../Page/1080p.md" title="wikilink">1080p</a>)</p></td>
@@ -2731,7 +2731,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[214]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>B2791HSU-B1</p></td>
 <td><p>27 in</p></td>
 <td><p>1920 × 1080 (<a href="../Page/1080p.md" title="wikilink">1080p</a>)</p></td>
@@ -2743,7 +2743,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[215]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>GB2788HS-B1</p></td>
 <td><p>27 in</p></td>
 <td><p>1920 × 1080 (<a href="../Page/1080p.md" title="wikilink">1080p</a>)</p></td>
@@ -2755,7 +2755,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[216]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>B2783QSU-B1</p></td>
 <td><p>27 in</p></td>
 <td><p>2560 × 1440 ()</p></td>
@@ -2767,7 +2767,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[217][218]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>GB2760QSU-B1</p></td>
 <td><p>27 in</p></td>
 <td><p>2560 × 1440 ()</p></td>
@@ -2779,7 +2779,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[219][220]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>XUB2792QSU-B1</p></td>
 <td><p>27 in</p></td>
 <td><p>2560 × 1440 ()</p></td>
@@ -2791,7 +2791,7 @@ FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂
 <td><p>[221]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/饭山株式会社" title="wikilink">Iiyama</a></p></td>
+<td><p><a href="../Page/饭山株式会社.md" title="wikilink">Iiyama</a></p></td>
 <td><p>GB2888UHSU</p></td>
 <td><p>28 in</p></td>
 <td><p>3840 × 2160 (UHD 4K)</p></td>

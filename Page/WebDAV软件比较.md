@@ -63,7 +63,7 @@
 <td><p><a href="../Page/命令行界面.md" title="wikilink">CLI</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>class="table-rh"  data-darkreader-inline-bgimage="" data-darkreader-inline-bgcolor="" data-darkreader-inline-color="" |<a href="https://zh.wikipedia.org/wiki/GNOME虚拟文件系统" title="wikilink">GVFS</a></p></td>
+<td><p>class="table-rh"  data-darkreader-inline-bgimage="" data-darkreader-inline-bgcolor="" data-darkreader-inline-color="" |<a href="../Page/GNOME虚拟文件系统.md" title="wikilink">GVFS</a></p></td>
 <td><p>GNOME team</p></td>
 <td><p>GNOME</p></td>
 <td></td>

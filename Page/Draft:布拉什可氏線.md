@@ -49,8 +49,7 @@ non-genetic) conditions.\[7\] Examples include:
       -
       - [扁平苔藓](../Page/扁平苔藓.md "wikilink")（lichen planus）
 
-      - [紅斑性狼瘡](https://zh.wikipedia.org/wiki/紅斑性狼瘡 "wikilink")（lupus
-        erythematosus）
+      - [紅斑性狼瘡](../Page/紅斑性狼瘡.md "wikilink")（lupus erythematosus）
 
       - [Chimerism](../Page/嵌合體.md "wikilink")
 

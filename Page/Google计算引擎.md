@@ -1,5 +1,5 @@
 **Google计算引擎**（Google Compute
-Engine，**GCE**）是一项[Google雲端平台的](https://zh.wikipedia.org/wiki/Google雲端平台 "wikilink")[基礎設施即服務](https://zh.wikipedia.org/wiki/基礎設施即服務 "wikilink")（IaaS）组成部分，它基于驱动Google搜索引擎、[Gmail](../Page/Gmail.md "wikilink")、[YouTube和其他服务的全球基础设施](../Page/YouTube.md "wikilink")。Google计算引擎可使用户按需启动[虛擬機器](../Page/虛擬機器.md "wikilink")（VM）。虚拟机可通过标准镜像或用户创建的自定义镜像启动。GCE用户必须先在启动虚拟机前通过基于[OAuth](../Page/开放授权.md "wikilink")
+Engine，**GCE**）是一项[Google雲端平台的](../Page/Google雲端平台.md "wikilink")[基礎設施即服務](https://zh.wikipedia.org/wiki/基礎設施即服務 "wikilink")（IaaS）组成部分，它基于驱动Google搜索引擎、[Gmail](../Page/Gmail.md "wikilink")、[YouTube和其他服务的全球基础设施](../Page/YouTube.md "wikilink")。Google计算引擎可使用户按需启动[虛擬機器](../Page/虛擬機器.md "wikilink")（VM）。虚拟机可通过标准镜像或用户创建的自定义镜像启动。GCE用户必须先在启动虚拟机前通过基于[OAuth](../Page/开放授权.md "wikilink")
 2.0的认证。Google计算引擎可通过开发者控制台、[RESTful
 API或](../Page/表现层状态转换.md "wikilink")[命令行界面](../Page/命令行界面.md "wikilink")（CLI）访问。
 
@@ -22,7 +22,7 @@ Bridge平台逻辑核心](../Page/Sandy_Bridge微架構.md "wikilink")（一个�
 
 ## 持久存储硬盘
 
-每个Google计算引擎实例均使用名为持续存储硬盘的硬盘资源启动。持续存储硬盘为实例提供存储空间并包含自实例启动时的根[文件系统](../Page/文件系统.md "wikilink")。持续存储硬盘可作为原始[块设备使用](../Page/设备文件系统.md "wikilink")。默认情况下，Google计算引擎使用[SCSI接入持续存储硬盘](../Page/小型计算机系统接口.md "wikilink")。持续存储硬盘以一致、可靠的价格提供直接、一致且可靠的存储空间，同时移除了对本地临时磁盘的需求。持续存储硬盘需要在启动实例前创建。一旦其接入实例，硬盘即可被原生文件系统格式化。单一持续存储硬盘可以只读模式接入多个实例。每块持续存储硬盘最多可扩大到10TB。Google计算引擎使用[AES-128-CB加密持续存储硬盘](../Page/高级加密标准.md "wikilink")，这种加密方式在数据离开虚拟机监控尚未到达硬盘前即被应用。Google总是启用硬盘加密且这一过程对Google计算引擎用户透明。持续存储硬盘的完整性通过[HMAC方案保证](https://zh.wikipedia.org/wiki/金鑰雜湊訊息鑑別碼 "wikilink")。
+每个Google计算引擎实例均使用名为持续存储硬盘的硬盘资源启动。持续存储硬盘为实例提供存储空间并包含自实例启动时的根[文件系统](../Page/文件系统.md "wikilink")。持续存储硬盘可作为原始[块设备使用](../Page/设备文件系统.md "wikilink")。默认情况下，Google计算引擎使用[SCSI接入持续存储硬盘](../Page/小型计算机系统接口.md "wikilink")。持续存储硬盘以一致、可靠的价格提供直接、一致且可靠的存储空间，同时移除了对本地临时磁盘的需求。持续存储硬盘需要在启动实例前创建。一旦其接入实例，硬盘即可被原生文件系统格式化。单一持续存储硬盘可以只读模式接入多个实例。每块持续存储硬盘最多可扩大到10TB。Google计算引擎使用[AES-128-CB加密持续存储硬盘](../Page/高级加密标准.md "wikilink")，这种加密方式在数据离开虚拟机监控尚未到达硬盘前即被应用。Google总是启用硬盘加密且这一过程对Google计算引擎用户透明。持续存储硬盘的完整性通过[HMAC方案保证](../Page/金鑰雜湊訊息鑑別碼.md "wikilink")。
 
 2014年6月18日，Google宣布了对[SSD持续存储硬盘的支持](../Page/固态硬盘.md "wikilink")。SSD最多可传递每GB
 30次IOPS，相比标准的持续存储硬盘的写入IOPS提高了20倍，而读取[IOPS更是快了](../Page/IOPS.md "wikilink")100倍。
@@ -34,11 +34,11 @@ Bridge平台逻辑核心](../Page/Sandy_Bridge微架構.md "wikilink")（一个�
 Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")（RHEL）和[Microsoft
 Windows Server 2008
 R2镜像需要额外费用才能使用](../Page/Windows_Server_2008_R2.md "wikilink")。Google计算引擎同时支持基于[Chromium
-OS的轻量级Linux操作系统](../Page/Chromium_OS.md "wikilink")[CoreOS](https://zh.wikipedia.org/wiki/CoreOS "wikilink")。
+OS的轻量级Linux操作系统](../Page/Chromium_OS.md "wikilink")[CoreOS](../Page/CoreOS.md "wikilink")。
 
 ## 机器类型
 
-Google计算引擎使用[KVM作为](../Page/基于内核的虚拟机.md "wikilink")[管理程序](https://zh.wikipedia.org/wiki/Hypervisor "wikilink")，\[3\]同时支持Linux于Windows的客户镜像用于启动基于64位x86架构的虚拟机。虚拟机从有着根文件系统的持续存储硬盘中启动。虚拟机支持的虚拟CPU数、内存大小基于所选择的机器类型。
+Google计算引擎使用[KVM作为](../Page/基于内核的虚拟机.md "wikilink")[管理程序](../Page/Hypervisor.md "wikilink")，\[3\]同时支持Linux于Windows的客户镜像用于启动基于64位x86架构的虚拟机。虚拟机从有着根文件系统的持续存储硬盘中启动。虚拟机支持的虚拟CPU数、内存大小基于所选择的机器类型。
 
 ## 计费及折扣
 

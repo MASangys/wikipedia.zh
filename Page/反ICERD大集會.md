@@ -49,7 +49,7 @@ treaty）\[11\]。[美國雖簽署了公約](https://zh.wikipedia.org/wiki/美�
 
 ### 內部亦現反對意見
 
-不僅馬來社群出現激烈的反對聲浪，執政的希望聯盟內部也有一部分人士反對政府簽署《消除一切形式種族歧視國際公約》。[吉打州州務大臣](https://zh.wikipedia.org/wiki/吉打州 "wikilink")、也是馬哈迪之子的[慕克里就認為ICERD並不符合馬來西亞國情](https://zh.wikipedia.org/wiki/慕克里 "wikilink")，因此反對政府簽署公約\[47\]。他稱ICERD旨在平等少數民族的社會地位，唯在馬來西亞“從主流發展中被邊緣化的卻是佔大多數的族群”，因此沒有必要簽署該公約\[48\]。副部長[馬夫茲則指儘管馬來西亞未曾簽署ICERD](https://zh.wikipedia.org/wiki/馬夫茲 "wikilink")，卻也不曾發生剝削某方或某族的事件，因此應該堅持不簽署ICERD的立場\[49\]。馬來西亞青年及體育部部長、也是[土著團結黨青年團](https://zh.wikipedia.org/wiki/土著團結黨 "wikilink")（Armada）團長的[賽沙迪則表示](https://zh.wikipedia.org/wiki/賽沙迪 "wikilink")，若簽署公約會影響憲法，該團將對政府簽署ICERD持反對立場\[50\]。
+不僅馬來社群出現激烈的反對聲浪，執政的希望聯盟內部也有一部分人士反對政府簽署《消除一切形式種族歧視國際公約》。[吉打州州務大臣](https://zh.wikipedia.org/wiki/吉打州 "wikilink")、也是馬哈迪之子的[慕克里就認為ICERD並不符合馬來西亞國情](https://zh.wikipedia.org/wiki/慕克里 "wikilink")，因此反對政府簽署公約\[47\]。他稱ICERD旨在平等少數民族的社會地位，唯在馬來西亞“從主流發展中被邊緣化的卻是佔大多數的族群”，因此沒有必要簽署該公約\[48\]。副部長[馬夫茲則指儘管馬來西亞未曾簽署ICERD](https://zh.wikipedia.org/wiki/馬夫茲 "wikilink")，卻也不曾發生剝削某方或某族的事件，因此應該堅持不簽署ICERD的立場\[49\]。馬來西亞青年及體育部部長、也是[土著團結黨青年團](https://zh.wikipedia.org/wiki/土著團結黨 "wikilink")（Armada）團長的[賽沙迪則表示](../Page/賽沙迪.md "wikilink")，若簽署公約會影響憲法，該團將對政府簽署ICERD持反對立場\[50\]。
 
 ### 政府態度初見軟化
 
@@ -80,7 +80,7 @@ perisitiwa），以“鼓勵州民踴躍參與ICERD集會、也讓他們擁有�
 
 12月3及4日，[吉隆坡市政局與警方先後宣布將批准集會舉行](../Page/吉隆坡市政局.md "wikilink")\[85\]\[86\]。為了應付該場集會，市政局亦宣布將於12月8日集會當天關閉兩棟位處集會地點的市政局大廈\[87\]，警方也宣布封鎖六條要道讓路集會舉行\[88\]。
 
-12月5日，主辦方聲稱前首相[納吉將會出席集會](https://zh.wikipedia.org/wiki/納吉·阿都拉薩 "wikilink")，首相馬哈迪及公正黨主席安華也“受邀出席”\[89\]。此外，[社交媒體如](https://zh.wikipedia.org/wiki/社交媒體 "wikilink")[Whatsapp亦開始廣傳](https://zh.wikipedia.org/wiki/Whatsapp "wikilink")[雪蘭莪蘇丹](https://zh.wikipedia.org/wiki/雪蘭莪蘇丹 "wikilink")[蘇丹沙拉弗丁及](https://zh.wikipedia.org/wiki/蘇丹沙拉弗丁 "wikilink")[柔佛蘇丹](https://zh.wikipedia.org/wiki/柔佛蘇丹 "wikilink")[蘇丹依布拉欣·依斯邁將出席集會的假消息](https://zh.wikipedia.org/wiki/蘇丹依布拉欣·依斯邁 "wikilink")，雪柔蘇丹皆急速闢謠，駁斥傳言\[90\]。
+12月5日，主辦方聲稱前首相[納吉將會出席集會](https://zh.wikipedia.org/wiki/納吉·阿都拉薩 "wikilink")，首相馬哈迪及公正黨主席安華也“受邀出席”\[89\]。此外，[社交媒體如](https://zh.wikipedia.org/wiki/社交媒體 "wikilink")[Whatsapp亦開始廣傳](https://zh.wikipedia.org/wiki/Whatsapp "wikilink")[雪蘭莪蘇丹](https://zh.wikipedia.org/wiki/雪蘭莪蘇丹 "wikilink")[蘇丹沙拉弗丁及](../Page/蘇丹沙拉弗丁.md "wikilink")[柔佛蘇丹](https://zh.wikipedia.org/wiki/柔佛蘇丹 "wikilink")[蘇丹依布拉欣·依斯邁將出席集會的假消息](https://zh.wikipedia.org/wiki/蘇丹依布拉欣·依斯邁 "wikilink")，雪柔蘇丹皆急速闢謠，駁斥傳言\[90\]。
 
 另一邊廂，[馬來西亞內政部部長](https://zh.wikipedia.org/wiki/馬來西亞內政部 "wikilink")[慕尤丁則發文告表示](../Page/慕尤丁.md "wikilink")，基於政府已經放棄簽署公約，反對者已無需進行集會\[91\]。[人民公正黨主席](https://zh.wikipedia.org/wiki/人民公正黨 "wikilink")[安華也強調在政府放棄簽署ICERD後](../Page/安華.md "wikilink")，巫統和伊斯蘭黨仍以簽署公約將挑動馬來人的情緒為由堅持舉行集會，“顯然是不合理的理由”\[92\]。集會進行前夕，首相馬哈迪在臉書發布短片，稱雖然自己認為無必要集會，但政府“基於民主原則而不阻攔集會進行”\[93\]。希望聯盟其中三個成員黨，即[誠信黨](https://zh.wikipedia.org/wiki/誠信黨 "wikilink")、[人民公正黨及](https://zh.wikipedia.org/wiki/人民公正黨 "wikilink")[土著團結黨也沒有阻止黨員出席該集會](https://zh.wikipedia.org/wiki/土著團結黨 "wikilink")\[94\]。
 
@@ -98,7 +98,7 @@ Zai）稱約有5000名大學生將參與此次集會，因為他們不滿政府�
 
 1時15分，集會者在各自聚集的地點席地進行\[103\]。
 
-約下午2時，[巫統主席](https://zh.wikipedia.org/wiki/巫統 "wikilink")[阿末扎希](../Page/阿末扎希.md "wikilink")、署理主席[莫哈末哈山](https://zh.wikipedia.org/wiki/莫哈末哈山 "wikilink")、副主席[馬哈基爾卡立](https://zh.wikipedia.org/wiki/馬哈基爾卡立 "wikilink")、前首相[納吉](https://zh.wikipedia.org/wiki/納吉·阿都拉薩 "wikilink")、伊斯蘭黨主席[哈迪阿旺陸續抵達集會現場](../Page/哈迪阿旺.md "wikilink")\[104\]\[105\]。2時05分，主辦方聲稱集會人數達到30萬人\[106\]。
+約下午2時，[巫統主席](https://zh.wikipedia.org/wiki/巫統 "wikilink")[阿末扎希](../Page/阿末扎希.md "wikilink")、署理主席[莫哈末哈山](../Page/莫哈末哈山.md "wikilink")、副主席[馬哈基爾卡立](https://zh.wikipedia.org/wiki/馬哈基爾卡立 "wikilink")、前首相[納吉](https://zh.wikipedia.org/wiki/納吉·阿都拉薩 "wikilink")、伊斯蘭黨主席[哈迪阿旺陸續抵達集會現場](../Page/哈迪阿旺.md "wikilink")\[104\]\[105\]。2時05分，主辦方聲稱集會人數達到30萬人\[106\]。
 
 下午2時30分，警方估計現場集會人數大約有五萬人。下午4時半，吉隆坡總警長瑪茲蘭估計集會人數達五萬五千人。網絡媒體《[當今大馬](https://zh.wikipedia.org/wiki/當今大馬 "wikilink")》估計高峰時期集會者多達八萬人。阿末扎希則在致辭時聲稱現場共有50萬人出席集會\[107\]。
 

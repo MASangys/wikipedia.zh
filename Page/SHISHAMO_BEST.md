@@ -1,12 +1,12 @@
 《**SHISHAMO
-BEST**》是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")[SHISHAMO的第](https://zh.wikipedia.org/wiki/SHISHAMO "wikilink")1张[精选专辑](https://zh.wikipedia.org/wiki/精选专辑 "wikilink")，于2019年6月19日发行。
+BEST**》是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")[SHISHAMO的第](../Page/SHISHAMO.md "wikilink")1张[精选专辑](https://zh.wikipedia.org/wiki/精选专辑 "wikilink")，于2019年6月19日发行。
 
 ## 简介
 
 为了纪念SHISHAMO出道5周年，乐队决定发售首张精选专辑《SHISHAMO
-BEST》。收录自2014年第一张单曲《[你与夏季音乐节](https://zh.wikipedia.org/wiki/你与夏季音乐节 "wikilink")》开始至最新单曲《[OH\!](../Page/OH!.md "wikilink")》共9张单曲的主打曲以及热门歌曲《[明天也](https://zh.wikipedia.org/wiki/SHISHAMO_4 "wikilink")》等共13曲\[1\]。
+BEST》。收录自2014年第一张单曲《[你与夏季音乐节](https://zh.wikipedia.org/wiki/你与夏季音乐节 "wikilink")》开始至最新单曲《[OH\!](../Page/OH!.md "wikilink")》共9张单曲的主打曲以及热门歌曲《[明天也](../Page/SHISHAMO_4.md "wikilink")》等共13曲\[1\]。
 
-专辑发售后在2019年9月，SHISHAMO将在[大阪城音樂廳与](https://zh.wikipedia.org/wiki/大阪城音樂廳 "wikilink")[埼玉超級競技場举办](../Page/埼玉超級競技場.md "wikilink")“SHISHAMO
+专辑发售后在2019年9月，SHISHAMO将在[大阪城音樂廳与](../Page/大阪城音樂廳.md "wikilink")[埼玉超級競技場举办](../Page/埼玉超級競技場.md "wikilink")“SHISHAMO
 NO BEST ARENA\!\!\!”演唱会以纪念专辑发售\[2\]。
 
 ## 发行

@@ -4,7 +4,7 @@
 
 原本以夾娃娃機台主起家，並在2017年初開始上傳影片\[3\]，偶爾也分析台灣實境外景綜藝節目之相關統計\[4\]。由於認為做夾娃娃機影音內容者眾，故以另一興趣－棒球出發，於2018年初起上傳第一部[MLB相關影片](../Page/美國職業棒球大聯盟.md "wikilink")。一開始未露臉，而是以使用網路上的照片搭配自己旁白分析相關數據或分享新觀念。2018年8月，由於照片版權問題被大聯盟官方關切，於是改以露臉搭配自行以[小畫家等繪圖軟體繪製球員面相方式介紹](https://zh.wikipedia.org/wiki/小畫家 "wikilink")\[5\]。2018年12月，宣布戒除夾娃娃從此「封爪」\[6\]。
 
-2019年2月受大聯盟官方邀請前往[亞利桑那州參訪多隊春訓](../Page/亞利桑那州.md "wikilink")，其中包括我國[旅美棒球選手](../Page/旅美棒球選手.md "wikilink")[朱立人](https://zh.wikipedia.org/wiki/朱立人 "wikilink")、[日籍旅美選手](../Page/日本.md "wikilink")[平野佳壽](../Page/平野佳壽.md "wikilink")，以及兩屆[美國聯盟最有價值球員得主](../Page/美國職棒大聯盟最有價值球員獎.md "wikilink")[麥可·楚奧特](../Page/麥可·楚奧特.md "wikilink")(Mike
+2019年2月受大聯盟官方邀請前往[亞利桑那州參訪多隊春訓](../Page/亞利桑那州.md "wikilink")，其中包括我國[旅美棒球選手](../Page/旅美棒球選手.md "wikilink")[朱立人](../Page/朱立人.md "wikilink")、[日籍旅美選手](../Page/日本.md "wikilink")[平野佳壽](../Page/平野佳壽.md "wikilink")，以及兩屆[美國聯盟最有價值球員得主](../Page/美國職棒大聯盟最有價值球員獎.md "wikilink")[麥可·楚奧特](../Page/麥可·楚奧特.md "wikilink")(Mike
 Trout)等都接受訪問。
 
 本人為美國職棒[波士頓紅襪隊球迷](../Page/波士頓紅襪.md "wikilink")，[中華職棒則支持](https://zh.wikipedia.org/wiki/中華職業棒球大聯盟 "wikilink")[統一獅隊](../Page/統一獅.md "wikilink")。

@@ -3,12 +3,12 @@ Esport**，以前叫做 **Gamers2**，是西班牙[電子競技組織](../Page/
 [德国](../Page/德国.md "wikilink"),\[1\] 有著*[英雄聯盟](../Page/英雄联盟.md "wikilink")*，
 *[絕對武力:全球攻勢](../Page/反恐精英：全球攻势.md "wikilink")*，
 *[任天堂明星大亂鬥](https://zh.wikipedia.org/wiki/任天堂明星大亂鬥DX "wikilink")，[聖騎士:英雄國度](../Page/聖騎士.md "wikilink")*,
-*[絕地求生](https://zh.wikipedia.org/wiki/絕地求生 "wikilink")*,
+*[絕地求生](../Page/絕地求生.md "wikilink")*,
 *[爐石戰記](https://zh.wikipedia.org/wiki/炉石传说 "wikilink")*,
-[皇室戰爭:部落衝突](https://zh.wikipedia.org/wiki/部落衝突：皇室戰爭 "wikilink")，<span>[火箭聯盟](../Page/火箭聯盟.md "wikilink")*，*[彩虹六號](../Page/虹彩六號：圍攻行動.md "wikilink")，以及</span>*[決勝時刻的比賽隊伍](../Page/決勝時刻系列.md "wikilink")*
+[皇室戰爭:部落衝突](../Page/部落衝突：皇室戰爭.md "wikilink")，<span>[火箭聯盟](../Page/火箭聯盟.md "wikilink")*，*[彩虹六號](../Page/虹彩六號：圍攻行動.md "wikilink")，以及</span>*[決勝時刻的比賽隊伍](../Page/決勝時刻系列.md "wikilink")*
 
 G2
-英雄聯盟的隊伍自2016年起參加 [英雄联盟歐洲錦標賽(LCS)](https://zh.wikipedia.org/wiki/北美地区英雄联盟冠军联赛 "wikilink") 。
+英雄聯盟的隊伍自2016年起參加 [英雄联盟歐洲錦標賽(LCS)](../Page/北美地区英雄联盟冠军联赛.md "wikilink") 。
 此組織正式成立於2013年2月24日。
 
 G2的英雄聯盟隊伍曾經赢得LCS的 2016年春季賽， 2016年夏季賽。
@@ -37,11 +37,10 @@ Gaming](../Page/SK_Gaming.md "wikilink") 獲得了第二名，因而得到了20
 
 G2在2016 EU LCS Spring
 Split 的常規賽中贏得了第一名。在季後賽中，他們擊敗了[Fnatic](../Page/Fnatic.md "wikilink")，接著在荷蘭鹿特丹擊敗了Origen並贏得了2016
-EU
-LCS，因此獲得了[2016年MSI季中邀請賽的參賽資格](https://zh.wikipedia.org/wiki/2016年英雄联盟季中邀请赛 "wikilink")。
+EU LCS，因此獲得了[2016年MSI季中邀請賽的參賽資格](../Page/2016年英雄联盟季中邀请赛.md "wikilink")。
 G2將代表歐洲與其他五支隊伍競爭。 然而，在錦標賽開始前幾週，隊伍去度過了一段漫長的假期，對於即將到來的比賽毫無準備。
 因此輸了10場比賽中的8場，只比排名最差的隊伍多贏了兩場比賽。這還使EU
-LCS失去了在[2016年英雄聯盟世界賽中的第一種子資格](https://zh.wikipedia.org/wiki/英雄联盟2016赛季全球总决赛 "wikilink")。這意味著1號種子歐洲隊在 2016年夏季賽，歐盟LCS 將會被分派在在B小組而不是A小組
+LCS失去了在[2016年英雄聯盟世界賽中的第一種子資格](../Page/英雄联盟2016赛季全球总决赛.md "wikilink")。這意味著1號種子歐洲隊在 2016年夏季賽，歐盟LCS 將會被分派在在B小組而不是A小組
 
 ## 参考文献
 

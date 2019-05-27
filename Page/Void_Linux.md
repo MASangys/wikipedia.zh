@@ -7,7 +7,7 @@ blob之外](https://zh.wikipedia.org/wiki/binary_blob "wikilink")，其基本安
 Void Linux由[NetBSD的前维护者Juan](../Page/NetBSD.md "wikilink") Romero
 Pardines于2008年创立，\[4\]其开始是为了给XBPS包管理器提供测试平台。
 
-在2018年五月，由于项目领导者失联数月，核心开发者将此项目迁移到了新的网站及[代码仓库](https://zh.wikipedia.org/wiki/仓库_\(版本控制\) "wikilink")\[5\]\[6\]
+在2018年五月，由于项目领导者失联数月，核心开发者将此项目迁移到了新的网站及[代码仓库](../Page/仓库_\(版本控制\).md "wikilink")\[5\]\[6\]
 
 ## 特性
 

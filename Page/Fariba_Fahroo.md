@@ -1,13 +1,13 @@
 **Fariba
-Fahroo**是伊朗裔美國數學家，是的項目經理，以前曾是[美国空军研究实验室項目經理](https://zh.wikipedia.org/wiki/美国空军研究实验室 "wikilink")\[1\]。她和在領域發表多篇論文\[2\]\[3\]\[4\]\[5\]\[6\]
+Fahroo**是伊朗裔美國數學家，是的項目經理，以前曾是[美国空军研究实验室項目經理](../Page/美国空军研究实验室.md "wikilink")\[1\]。她和在領域發表多篇論文\[2\]\[3\]\[4\]\[5\]\[6\]
 \[7\] \[8\] \[9\]
-\[10\]。[Ross–Fahroo引理和](https://zh.wikipedia.org/wiki/Ross–Fahroo引理 "wikilink")[Ross–Fahroo擬譜法也是因他們而得名](https://zh.wikipedia.org/wiki/Ross–Fahroo擬譜法 "wikilink")。她和Ross因為在航空力學基礎上的貢獻，在2010年獲得了[美国航天航空学会](../Page/美国航天航空学会.md "wikilink")(AIAA)的力學及飛行控制獎（Mechanics
+\[10\]。[Ross–Fahroo引理和](../Page/Ross–Fahroo引理.md "wikilink")[Ross–Fahroo擬譜法也是因他們而得名](../Page/Ross–Fahroo擬譜法.md "wikilink")。她和Ross因為在航空力學基礎上的貢獻，在2010年獲得了[美国航天航空学会](../Page/美国航天航空学会.md "wikilink")(AIAA)的力學及飛行控制獎（Mechanics
 and Control of Flight Award）\[11\]。
 
 ## 相關條目
 
-  - [Ross–Fahroo擬譜法](https://zh.wikipedia.org/wiki/Ross–Fahroo擬譜法 "wikilink")
-  - [Ross–Fahroo引理](https://zh.wikipedia.org/wiki/Ross–Fahroo引理 "wikilink")
+  - [Ross–Fahroo擬譜法](../Page/Ross–Fahroo擬譜法.md "wikilink")
+  - [Ross–Fahroo引理](../Page/Ross–Fahroo引理.md "wikilink")
   - [平坦擬譜法](../Page/平坦擬譜法.md "wikilink")
 
 ## 部份發表或出版品

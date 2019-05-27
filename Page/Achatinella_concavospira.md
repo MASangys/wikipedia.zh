@@ -1,5 +1,5 @@
 ***Achatinella
-concavospira***是一种分布在[美国](../Page/美国.md "wikilink")[夏威夷的](../Page/夏威夷州.md "wikilink")[肺螺类](https://zh.wikipedia.org/wiki/肺螺類 "wikilink")，属于，该物种是夏威夷[特有种](../Page/特有種.md "wikilink")。
+concavospira***是一种分布在[美国](../Page/美国.md "wikilink")[夏威夷的](../Page/夏威夷州.md "wikilink")[肺螺类](../Page/肺螺類.md "wikilink")，属于，该物种是夏威夷[特有种](../Page/特有種.md "wikilink")。
 
 ## 参考资料
 

@@ -2,9 +2,9 @@
 2K19**》是一款[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，由[Visual
 Concepts開發](../Page/Visual_Concepts.md "wikilink")，[2K
 Sports發行](../Page/2K_Sports.md "wikilink")。《NBA 2K19》是《[NBA
-2K18](https://zh.wikipedia.org/wiki/NBA_2K18 "wikilink")》的續作。遊戲於2018年9月11日在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation
+2K18](../Page/NBA_2K18.md "wikilink")》的續作。遊戲於2018年9月11日在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation
 4](../Page/PlayStation_4.md "wikilink")、[Xbox
-One和](../Page/Xbox_One.md "wikilink")[任天堂Switch平台上推出](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")。本次的中国大陆行货版为PlayStation
+One和](../Page/Xbox_One.md "wikilink")[任天堂Switch平台上推出](../Page/任天堂Switch.md "wikilink")。本次的中国大陆行货版为PlayStation
 4平台独占，此外该版本游戏为系列首次增加中文解说，由知名篮球解说员杨毅、杨建和苏群担任，另外，本作还加入了中国CBA联赛相关内容。\[1\]
 
 一般版封面人物為[揚尼斯·安戴托昆波](https://zh.wikipedia.org/wiki/揚尼斯·安戴托昆波 "wikilink")；20周年版封面人物則為[勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")。

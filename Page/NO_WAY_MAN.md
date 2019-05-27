@@ -3,11 +3,11 @@ MAN**》\[1\]為日本女子偶像團體[AKB48的第](../Page/AKB48.md "wikilink
 
 ## 簡介
 
-本张单曲与前作《[感傷列車](../Page/感傷列車.md "wikilink")》相隔约2个月后发行，是AKB48在2018年发行的第四张单曲。相比前作，选拔成员自16人增加为23人，下尾美羽、菅原茉椰（SKE48）、[本田仁美三人初次进入选拔](https://zh.wikipedia.org/wiki/本田仁美 "wikilink")\[3\]，[岡部麟](https://zh.wikipedia.org/wiki/岡部麟 "wikilink")、[小栗有以](https://zh.wikipedia.org/wiki/小栗有以 "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[白間美瑠](../Page/白間美瑠.md "wikilink")、[瀧野由美子](https://zh.wikipedia.org/wiki/瀧野由美子 "wikilink")、[中井莉加](https://zh.wikipedia.org/wiki/中井莉加 "wikilink")、山内瑞葵是继《[Teacher
-Teacher](https://zh.wikipedia.org/wiki/Teacher_Teacher "wikilink")》后相隔2作、[倉野尾成美是继](https://zh.wikipedia.org/wiki/倉野尾成美 "wikilink")《[Ja-Ba-Ja](https://zh.wikipedia.org/wiki/Ja-Ba-Ja "wikilink")》后相隔3作后进入选拔、[宮崎美穂是继](https://zh.wikipedia.org/wiki/宮崎美穂 "wikilink")《[不需要翅膀](../Page/不需要翅膀.md "wikilink")》后相隔10作、[竹内美宥是继](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")《[永远的压力](https://zh.wikipedia.org/wiki/永远的压力 "wikilink")》后相隔25作重回选拔。前作选拔成员中[大場美奈](../Page/大場美奈.md "wikilink")、[惣田紗莉渚](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[本間日陽](https://zh.wikipedia.org/wiki/本間日陽 "wikilink")、（[松井珠理奈](../Page/松井珠理奈.md "wikilink")）、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")、[吉田朱里在本作未获选拔](../Page/吉田朱里.md "wikilink")。指原莉乃因健康因素未參與MV的拍攝工作\[4\]。
+本张单曲与前作《[感傷列車](../Page/感傷列車.md "wikilink")》相隔约2个月后发行，是AKB48在2018年发行的第四张单曲。相比前作，选拔成员自16人增加为23人，下尾美羽、菅原茉椰（SKE48）、[本田仁美三人初次进入选拔](../Page/本田仁美.md "wikilink")\[3\]，[岡部麟](../Page/岡部麟.md "wikilink")、[小栗有以](../Page/小栗有以.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[白間美瑠](../Page/白間美瑠.md "wikilink")、[瀧野由美子](../Page/瀧野由美子.md "wikilink")、[中井莉加](../Page/中井莉加.md "wikilink")、山内瑞葵是继《[Teacher
+Teacher](../Page/Teacher_Teacher.md "wikilink")》后相隔2作、[倉野尾成美是继](../Page/倉野尾成美.md "wikilink")《[Ja-Ba-Ja](../Page/Ja-Ba-Ja.md "wikilink")》后相隔3作后进入选拔、[宮崎美穂是继](https://zh.wikipedia.org/wiki/宮崎美穂 "wikilink")《[不需要翅膀](../Page/不需要翅膀.md "wikilink")》后相隔10作、[竹内美宥是继](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")《[永远的压力](https://zh.wikipedia.org/wiki/永远的压力 "wikilink")》后相隔25作重回选拔。前作选拔成员中[大場美奈](../Page/大場美奈.md "wikilink")、[惣田紗莉渚](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[本間日陽](../Page/本間日陽.md "wikilink")、（[松井珠理奈](../Page/松井珠理奈.md "wikilink")）、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")、[吉田朱里在本作未获选拔](../Page/吉田朱里.md "wikilink")。指原莉乃因健康因素未參與MV的拍攝工作\[4\]。
 
 本作中，进入《[PRODUCE
-48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》最终评价的8名AKB48家族成员（[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")、本田、宮崎、竹内、[高橋朱里](../Page/高橋朱里.md "wikilink")、下尾、白間）皆获选拔\[5\]。另外作为经由该节目获选成为[IZ\*ONE成员的三名AKB](../Page/IZ*ONE.md "wikilink")48家族成员专任IZ\*ONE前的最后一张单曲，宮脇获选为本作center，两侧则为矢吹与本田\[6\]。宮脇是自《[空有愿望](https://zh.wikipedia.org/wiki/空有愿望 "wikilink")》相隔6作担任单曲center、单独center则是自《[你就是旋律](../Page/你就是旋律.md "wikilink")》相隔11作\[7\]。
+48](../Page/PRODUCE_48.md "wikilink")》最终评价的8名AKB48家族成员（[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、本田、宮崎、竹内、[高橋朱里](../Page/高橋朱里.md "wikilink")、下尾、白間）皆获选拔\[5\]。另外作为经由该节目获选成为[IZ\*ONE成员的三名AKB](../Page/IZ*ONE.md "wikilink")48家族成员专任IZ\*ONE前的最后一张单曲，宮脇获选为本作center，两侧则为矢吹与本田\[6\]。宮脇是自《[空有愿望](https://zh.wikipedia.org/wiki/空有愿望 "wikilink")》相隔6作担任单曲center、单独center则是自《[你就是旋律](../Page/你就是旋律.md "wikilink")》相隔11作\[7\]。
 
 2018年10月25日深夜播出的《》中公开了歌曲\[8\]，次（26）日早于[YouTube公开了MV](../Page/YouTube.md "wikilink")\[9\]。
 
@@ -85,18 +85,17 @@ E收录了手机游戏《AiKaBu》内企画「AiKaBu小分队選抜決定战\!�
   - Team 4：山内瑞葵
   - Team 4／STU48：[岡田奈奈](../Page/岡田奈奈_\(AKB48\).md "wikilink")
   - Team 8／Team
-    A：[岡部麟](https://zh.wikipedia.org/wiki/岡部麟 "wikilink")、[小栗有以](https://zh.wikipedia.org/wiki/小栗有以 "wikilink")、下尾美羽
-  - Team 8／Team
-    K：[倉野尾成美](https://zh.wikipedia.org/wiki/倉野尾成美 "wikilink")
-  - Team 8／Team B：[本田仁美](https://zh.wikipedia.org/wiki/本田仁美 "wikilink")
+    A：[岡部麟](../Page/岡部麟.md "wikilink")、[小栗有以](../Page/小栗有以.md "wikilink")、下尾美羽
+  - Team 8／Team K：[倉野尾成美](../Page/倉野尾成美.md "wikilink")
+  - Team 8／Team B：[本田仁美](../Page/本田仁美.md "wikilink")
   - SKE48 Team E：菅原茉椰、[須田亞香里](../Page/須田亞香里.md "wikilink")
   - NMB48 Team M：[白間美瑠](../Page/白間美瑠.md "wikilink")
   - HKT48 Team
-    H：[指原莉乃](../Page/指原莉乃.md "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")、[田中美久](../Page/田中美久_\(HKT48\).md "wikilink")
+    H：[指原莉乃](../Page/指原莉乃.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[田中美久](../Page/田中美久_\(HKT48\).md "wikilink")
   - HKT48 Team KIV：[宮脇咲良](../Page/宮脇咲良.md "wikilink")
   - NGT48 Team NIII：[荻野由佳](../Page/荻野由佳.md "wikilink")
-  - NGT48 Team G：[中井莉加](https://zh.wikipedia.org/wiki/中井莉加 "wikilink")
-  - STU48：[瀧野由美子](https://zh.wikipedia.org/wiki/瀧野由美子 "wikilink")
+  - NGT48 Team G：[中井莉加](../Page/中井莉加.md "wikilink")
+  - STU48：[瀧野由美子](../Page/瀧野由美子.md "wikilink")
 
 | 第三排 | 菅原 | 下尾 | 倉野尾 | 瀧野  | 岡部 | 中井 | 田中 | 竹内 | 山内 |
 | --- | -- | -- | --- | --- | -- | -- | -- | -- | -- |
@@ -113,7 +112,7 @@ E收录了手机游戏《AiKaBu》内企画「AiKaBu小分队選抜決定战\!�
 
   - Team A：[加藤玲奈](../Page/加藤玲奈_\(AKB48\).md "wikilink")、西川怜
   - Team
-    K：[込山榛香](https://zh.wikipedia.org/wiki/込山榛香 "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")
+    K：[込山榛香](../Page/込山榛香.md "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")
   - Team
     B：[大家志津香](../Page/大家志津香.md "wikilink")、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")、[谷口惠](../Page/谷口惠.md "wikilink")、山邊步夢
   - Team 8／Team B：太田奈緒
@@ -124,14 +123,14 @@ E收录了手机游戏《AiKaBu》内企画「AiKaBu小分队選抜決定战\!�
 
 （中心成員：後藤萌咲、村瀨紗英）
 
-  - Team A：[後藤萌咲](https://zh.wikipedia.org/wiki/後藤萌咲 "wikilink")、千葉惠里
+  - Team A：[後藤萌咲](../Page/後藤萌咲.md "wikilink")、千葉惠里
   - Team
     K：[小嶋真子](../Page/小嶋真子.md "wikilink")、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")
   - Team
     B：[中西智代梨](../Page/中西智代梨.md "wikilink")、[岩立沙穗](../Page/岩立沙穗.md "wikilink")
   - Team 4：[淺井七海](https://zh.wikipedia.org/wiki/淺井七海 "wikilink")
   - 研究生：[佐藤美波](https://zh.wikipedia.org/wiki/佐藤美波 "wikilink")
-  - NMB48 Team BII：[村瀨紗英](https://zh.wikipedia.org/wiki/村瀨紗英 "wikilink")
+  - NMB48 Team BII：[村瀨紗英](../Page/村瀨紗英.md "wikilink")
   - HKT48 Team KIV：[本村碧唯](../Page/本村碧唯.md "wikilink")
   - HKT48 Team
     TII：[村川緋杏](https://zh.wikipedia.org/wiki/村川緋杏 "wikilink")、[荒卷美咲](https://zh.wikipedia.org/wiki/荒卷美咲 "wikilink")
@@ -167,16 +166,14 @@ E收录了手机游戏《AiKaBu》内企画「AiKaBu小分队選抜決定战\!�
   - Team B：福岡聖菜
   - Team 8／Team A：[谷川聖](../Page/谷川聖.md "wikilink")
   - Team 8／Team K：[橫山結衣](https://zh.wikipedia.org/wiki/橫山結衣 "wikilink")
-  - Team 8／Team
-    4：行天優莉奈、[坂口渚沙](https://zh.wikipedia.org/wiki/坂口渚沙 "wikilink")
+  - Team 8／Team 4：行天優莉奈、[坂口渚沙](../Page/坂口渚沙.md "wikilink")
   - 研究生：大盛真歩
   - SKE48 Team KII：太田彩夏
-  - NMB48 Team
-    BII：[太田夢莉](https://zh.wikipedia.org/wiki/太田夢莉 "wikilink")、上西憐
+  - NMB48 Team BII：[太田夢莉](../Page/太田夢莉.md "wikilink")、上西憐
   - HKT48 Team H：豐永阿紀
   - HKT48 Team TII：[松岡花](../Page/松岡花.md "wikilink")、松本日向
   - NGT48 Team NIII：[加藤美南](../Page/加藤美南.md "wikilink")、高倉萌香
-  - NGT48 Team G：[本間日陽](https://zh.wikipedia.org/wiki/本間日陽 "wikilink")
+  - NGT48 Team G：[本間日陽](../Page/本間日陽.md "wikilink")
   - STU48：藪下楓
   - STU48 研究生：中村舞
 
@@ -190,7 +187,7 @@ E收录了手机游戏《AiKaBu》内企画「AiKaBu小分队選抜決定战\!�
   - Team B：久保怜音
   - Team 8／Team K：山田杏華
   - 研究生：矢作萌夏
-  - SKE48 Team KII：[小畑優奈](https://zh.wikipedia.org/wiki/小畑優奈 "wikilink")
+  - SKE48 Team KII：[小畑優奈](../Page/小畑優奈.md "wikilink")
   - SKE48 Team E：末永櫻花
   - NMB48 Team N：[梅山戀和](https://zh.wikipedia.org/wiki/梅山戀和 "wikilink")、
   - HKT48 Team H：渡部愛加里
@@ -204,7 +201,7 @@ E收录了手机游戏《AiKaBu》内企画「AiKaBu小分队選抜決定战\!�
 
 （中心成員：福岡聖菜）
 
-  - Team A：[篠崎彩奈](https://zh.wikipedia.org/wiki/篠崎彩奈 "wikilink")、田口愛佳
+  - Team A：[篠崎彩奈](../Page/篠崎彩奈.md "wikilink")、田口愛佳
   - Team B：福岡聖菜
   - Team 4：淺井七海、山內瑞葵
   - Team 8／Team A：小栗有以
@@ -224,7 +221,7 @@ E收录了手机游戏《AiKaBu》内企画「AiKaBu小分队選抜決定战\!�
 
   - Team A：篠崎彩奈
   - Team
-    K：[市川愛美](https://zh.wikipedia.org/wiki/市川愛美 "wikilink")、[茂木忍](../Page/茂木忍.md "wikilink")
+    K：[市川愛美](../Page/市川愛美.md "wikilink")、[茂木忍](../Page/茂木忍.md "wikilink")
   - Team 8／Team K：中野郁海、小田繪里奈
   - Team 8／Team 4：永野芹佳
   - SKE48 Team E：[淺井裕華](https://zh.wikipedia.org/wiki/淺井裕華 "wikilink")

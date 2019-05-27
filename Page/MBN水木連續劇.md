@@ -52,7 +52,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2018年5月9日－<br />
 2018年6月28日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Rich_Man" title="wikilink">Rich Man</a><br />
+<td style="text-align: center;"><p><a href="../Page/Rich_Man.md" title="wikilink">Rich Man</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/Suho.md" title="wikilink">Suho</a>、<a href="../Page/夏沇秀.md" title="wikilink">夏沇秀</a>、<a href="../Page/吳昶錫.md" title="wikilink">吳昶錫</a>、<a href="../Page/金叡園.md" title="wikilink">金叡園</a></p></td>
@@ -85,7 +85,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2018年10月31日－<br />
 2018年12月20日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/心動警報" title="wikilink">心動警報</a><br />
+<td style="text-align: center;"><p><a href="../Page/心動警報.md" title="wikilink">心動警報</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/尹恩惠.md" title="wikilink">尹恩惠</a>、<a href="../Page/千正明.md" title="wikilink">千正明</a></p></td>
@@ -124,10 +124,10 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年1月2日－<br />
 2019年2.7.</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/最棒的炸雞" title="wikilink">最棒的炸雞</a><br />
+<td style="text-align: center;"><p><a href="../Page/最棒的炸雞.md" title="wikilink">最棒的炸雞</a><br />
 </p></td>
 <td style="text-align: center;"><p>12</p></td>
-<td style="text-align: center;"><p><a href="../Page/朴宣浩.md" title="wikilink">朴宣浩</a>、<a href="../Page/金素慧.md" title="wikilink">金素慧</a>、<a href="https://zh.wikipedia.org/wiki/朱宇宰" title="wikilink">朱宇宰</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朴宣浩.md" title="wikilink">朴宣浩</a>、<a href="../Page/金素慧.md" title="wikilink">金素慧</a>、<a href="../Page/朱宇宰.md" title="wikilink">朱宇宰</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

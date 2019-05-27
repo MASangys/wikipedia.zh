@@ -9,15 +9,13 @@ serieslabel =  | series = | modelnumber = | networks =
 [GSM](../Page/GSM.md "wikilink")、[CDMA2000](../Page/CDMA2000.md "wikilink")、[EV-DO](https://zh.wikipedia.org/wiki/EV-DO "wikilink")、[HSPA+](../Page/演进式HSPA.md "wikilink")、[LTE](https://zh.wikipedia.org/wiki/LTE_\(消歧義\) "wikilink")、[LTE
 Advanced](https://zh.wikipedia.org/wiki/LTE_Advanced "wikilink") |
 released =  | available =  | discontinued = | unitssold = | unitsshipped
-= | predecessor = [iPhone
-X](https://zh.wikipedia.org/wiki/IPhone_X "wikilink") | successor = |
-related = \[\[IPhone_XR|iPhone X
+= | predecessor = [iPhone X](../Page/IPhone_X.md "wikilink") | successor
+= | related = \[\[IPhone_XR|iPhone X
 
 **iPhone X**与**iPhone X
 Max**（羅馬字母中的X，英語发音為「ten」，S為[小型大寫字母](https://zh.wikipedia.org/wiki/小型大寫字母 "wikilink")）是[苹果公司设计](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")、开发与销售的两款智慧手机，作为[iPhone
-X的续作](https://zh.wikipedia.org/wiki/IPhone_X "wikilink")，发布会上连同[iPhone
-X{{Smallcaps
-all一起于](https://zh.wikipedia.org/wiki/IPhone_XR "wikilink")2018年9月12日在[苹果园区史蒂夫](https://zh.wikipedia.org/wiki/苹果园区 "wikilink")·乔布斯剧院（）由[蒂姆·库克发布](https://zh.wikipedia.org/wiki/蒂姆·库克 "wikilink")。\[1\]與iPhone
+X的续作](../Page/IPhone_X.md "wikilink")，发布会上连同[iPhone X{{Smallcaps
+all一起于](../Page/IPhone_XR.md "wikilink")2018年9月12日在[苹果园区史蒂夫](https://zh.wikipedia.org/wiki/苹果园区 "wikilink")·乔布斯剧院（）由[蒂姆·库克发布](https://zh.wikipedia.org/wiki/蒂姆·库克 "wikilink")。\[1\]與iPhone
 X相比，iPhone X
 Max除了擁有較大的螢幕、電池使用時間与雙卡雙待（雙卡雙待只為[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[香港及](../Page/香港.md "wikilink")[澳門地區提供](../Page/澳門.md "wikilink")）外，一切規格皆相同。\[2\]
 
@@ -42,8 +40,8 @@ x
 ### 性能
 
 两款手机均搭载[A12
-仿生芯片](https://zh.wikipedia.org/wiki/Apple_A12_Bionic "wikilink")，拥有六个[中央处理核心](../Page/中央处理器.md "wikilink")、四个[图形处理核心](../Page/圖形處理器.md "wikilink")，比上一代[A11
-仿生芯片能耗更低](https://zh.wikipedia.org/wiki/Apple_A11_Bionic "wikilink")、性能提升15%。此外，A12
+仿生芯片](../Page/Apple_A12_Bionic.md "wikilink")，拥有六个[中央处理核心](../Page/中央处理器.md "wikilink")、四个[图形处理核心](../Page/圖形處理器.md "wikilink")，比上一代[A11
+仿生芯片能耗更低](../Page/Apple_A11_Bionic.md "wikilink")、性能提升15%。此外，A12
 仿生芯片还搭载有[神经网络引擎](../Page/人工神经网络.md "wikilink")，为[机器学习](../Page/机器学习.md "wikilink")、[增强现实](../Page/擴增實境.md "wikilink")、智能[HDR和景深控制等功能提供支持](../Page/高动态范围成像.md "wikilink")。两款手机还搭载有4GB[内存与](../Page/随机存取存储器.md "wikilink")64/256/512GB的可选容量。X电池容量2658[mAh](https://zh.wikipedia.org/wiki/安培小時 "wikilink")，X
 Max电池容量3174mAh，两款机型均支持无线充电和快速充电。
 
@@ -61,7 +59,7 @@ Max的后置镜头支持五种人像光效，最高可拍摄[4K](../Page/4K解�
 
 iPhone X和X
 Max前置700萬畫素的原深感測相機。該系统包括一顆ƒ/2.2的700萬像素摄像头、点阵投影器、红外摄像机与泛光感应元件。前置鏡頭能够支持五种模式的人像光效，并支持-{[Face
-ID](https://zh.wikipedia.org/wiki/面容_ID "wikilink")}-。在识别用户面部时，点阵投影器向用户面部投射超过三万个肉眼不可见光点来绘制用户面部三维模型，再由红外摄像机读取图案，并发送数据到处理器安全隔区进行识别。在A12
+ID](../Page/面容_ID.md "wikilink")}-。在识别用户面部时，点阵投影器向用户面部投射超过三万个肉眼不可见光点来绘制用户面部三维模型，再由红外摄像机读取图案，并发送数据到处理器安全隔区进行识别。在A12
 仿生处理器机器学习能力的支持下，X与X Max的Face ID可实现自适应识别。Face ID可用于解锁手机、登录账号与[Apple
 Pay支付](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")。
 
@@ -123,8 +121,8 @@ A2104（中国大陆、香港、澳门）</p></td>
 </tr>
 <tr class="odd">
 <td><p>晶片</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A12_Bionic" title="wikilink">A12仿生晶片配備新一代神經網路引擎</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A12_Bionic" title="wikilink">A12仿生晶片配備新一代神經網路引擎</a></p></td>
+<td><p><a href="../Page/Apple_A12_Bionic.md" title="wikilink">A12仿生晶片配備新一代神經網路引擎</a></p></td>
+<td><p><a href="../Page/Apple_A12_Bionic.md" title="wikilink">A12仿生晶片配備新一代神經網路引擎</a></p></td>
 </tr>
 <tr class="even">
 <td><p>螢幕尺寸</p></td>
@@ -145,8 +143,8 @@ nano-SIM 與 eSIM（其余版本）</p></td>
 </tr>
 <tr class="odd">
 <td><p>系統</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IOS_12" title="wikilink">iOS 12</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IOS_12" title="wikilink">iOS 12</a></p></td>
+<td><p><a href="../Page/IOS_12.md" title="wikilink">iOS 12</a></p></td>
+<td><p><a href="../Page/IOS_12.md" title="wikilink">iOS 12</a></p></td>
 </tr>
 <tr class="even">
 <td><p>后置相机</p></td>
@@ -224,16 +222,15 @@ iPhone X/X Max改进了自拍算法，会将用户自拍照片中的毛孔、细
 
 ## 關聯項目
 
-  - [iPhone X](https://zh.wikipedia.org/wiki/IPhone_X "wikilink")
-  - [iPhone X{{Smallcaps
-    all](https://zh.wikipedia.org/wiki/IPhone_XR "wikilink")
+  - [iPhone X](../Page/IPhone_X.md "wikilink")
+  - [iPhone X{{Smallcaps all](../Page/IPhone_XR.md "wikilink")
 
 ## 注释
 
 ## 參考文獻
 
 {{S-ttl | title = [iPhone X{{Smallcaps
-all](https://zh.wikipedia.org/wiki/IPhone_XS "wikilink")
+all](../Page/IPhone_XS.md "wikilink")
 \[\[IPhone_XR|iPhone X
 
 [Category:IPhone](https://zh.wikipedia.org/wiki/Category:IPhone "wikilink")

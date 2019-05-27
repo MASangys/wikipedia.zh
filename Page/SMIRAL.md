@@ -1,4 +1,4 @@
-**SMIRAL**（），[日本由](../Page/日本.md "wikilink")[TOPMARSHAL營運的動畫](https://zh.wikipedia.org/wiki/TOPMARSHAL "wikilink")、真人電影媒體公司\[1\]。
+**SMIRAL**（），[日本由](../Page/日本.md "wikilink")[TOPMARSHAL營運的動畫](../Page/TOPMARSHAL.md "wikilink")、真人電影媒體公司\[1\]。
 
 2016年7月成立後，展開動畫、真人作品、音樂及周邊商品的產業與經營。而投入動畫製作的「**SMIRAL animation**」是[Earth
 Star
@@ -36,8 +36,7 @@ SMIRAL animation（<small></small>）名稱使用。
 
 <!-- end list -->
 
-  - [One Room](https://zh.wikipedia.org/wiki/One_Room "wikilink") / Room
-    Mate
+  - [One Room](../Page/One_Room.md "wikilink") / Room Mate
 
   -
   - [不要輸\!\!
@@ -47,7 +46,7 @@ SMIRAL animation（<small></small>）名稱使用。
 
   - （負責BD販售）
 
-  - [海天使的燈火](https://zh.wikipedia.org/wiki/海天使的燈火 "wikilink")
+  - [海天使的燈火](../Page/海天使的燈火.md "wikilink")
 
   - [半獸人的煩惱](https://zh.wikipedia.org/wiki/半獸人的煩惱 "wikilink")
 
@@ -59,10 +58,10 @@ SMIRAL animation（<small></small>）名稱使用。
 
 <!-- end list -->
 
-  - [伊藤潤二驚選集](https://zh.wikipedia.org/wiki/伊藤潤二驚選集 "wikilink")
+  - [伊藤潤二驚選集](../Page/伊藤潤二驚選集.md "wikilink")
 
   -
-  - [敦君與女朋友](https://zh.wikipedia.org/wiki/敦君與女朋友 "wikilink")
+  - [敦君與女朋友](../Page/敦君與女朋友.md "wikilink")
 
   - [平交道時間](https://zh.wikipedia.org/wiki/平交道時間 "wikilink")
 
@@ -70,9 +69,9 @@ SMIRAL animation（<small></small>）名稱使用。
 
   - One Room Second Season
 
-  - [ISLAND](https://zh.wikipedia.org/wiki/ISLAND_\(遊戲\) "wikilink")
+  - [ISLAND](../Page/ISLAND_\(遊戲\).md "wikilink")
 
-  - [狐狸之聲](https://zh.wikipedia.org/wiki/狐狸之聲 "wikilink")
+  - [狐狸之聲](../Page/狐狸之聲.md "wikilink")
 
 ### 真人作品
 

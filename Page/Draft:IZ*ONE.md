@@ -1,9 +1,9 @@
 [IZONE_Logo.png](https://zh.wikipedia.org/wiki/File:IZONE_Logo.png "fig:IZONE_Logo.png")
 
 **IZ\*ONE**（；）\[1\]\[2\]是由韓日合作選秀節目《[PRODUCE
-48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》最終決選出線的12名成員所組成，於2018年出道的期間限定之[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。成員均有各自所屬的經紀公司，組合整體所屬的經紀公司則為[Off
+48](../Page/PRODUCE_48.md "wikilink")》最終決選出線的12名成員所組成，於2018年出道的期間限定之[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。成員均有各自所屬的經紀公司，組合整體所屬的經紀公司則為[Off
 The
-Record娛樂](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")。成員依節目名次排列為[張員瑛](../Page/張員瑛.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[曺柔理](../Page/曺柔理.md "wikilink")、[崔叡娜](https://zh.wikipedia.org/wiki/崔叡娜 "wikilink")、[安兪真](https://zh.wikipedia.org/wiki/安兪真 "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")、[權恩妃](https://zh.wikipedia.org/wiki/權恩妃 "wikilink")、[姜惠元](../Page/姜惠元.md "wikilink")、[本田仁美](../Page/本田仁美.md "wikilink")、[金采源](../Page/金采源.md "wikilink")、[金玟周](https://zh.wikipedia.org/wiki/金玟周 "wikilink")、[李彩演](../Page/李彩演.md "wikilink")。活動期為2年6個月\[3\]。
+Record娛樂](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")。成員依節目名次排列為[張員瑛](../Page/張員瑛.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[曺柔理](../Page/曺柔理.md "wikilink")、[崔叡娜](../Page/崔叡娜.md "wikilink")、[安兪真](../Page/安兪真.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[權恩妃](https://zh.wikipedia.org/wiki/權恩妃 "wikilink")、[姜惠元](../Page/姜惠元.md "wikilink")、[本田仁美](../Page/本田仁美.md "wikilink")、[金采源](../Page/金采源.md "wikilink")、[金玟周](https://zh.wikipedia.org/wiki/金玟周 "wikilink")、[李彩演](../Page/李彩演.md "wikilink")。活動期為2年6個月\[3\]。
 
 團名「IZ\*ONE」中的「IZ」代表12名成員，「ONE」代表一體，意思是以全世界粉絲為中心運轉的12色星球，12名少女合為一體的瞬間\[4\]。團體口號是「Eyes
 On Me\!
@@ -17,7 +17,7 @@ On Me\!
   - 出道前：組合轉由新公司負責活動營運、三位日本成員暫停AKB48家族活動專任組合活動
 
 IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目](../Page/真人實境秀.md "wikilink")《[PRODUCE
-48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》成立的，由12名成員組成兩年半的限定女子團體\[6\]，组合于韩国的唱片公司为。节目播出中Pledis娛樂表示将负责组合在韩国的營運，但於9月21日时，组合公告其韩國營運方轉由新成立的Off
+48](../Page/PRODUCE_48.md "wikilink")》成立的，由12名成員組成兩年半的限定女子團體\[6\]，组合于韩国的唱片公司为。节目播出中Pledis娛樂表示将负责组合在韩国的營運，但於9月21日时，组合公告其韩國營運方轉由新成立的Off
 The
 Record娛樂担任\[7\]。AKB48營運方在9月24日公告IZ\*ONE日本成員宮脇咲良、矢吹奈子、本田仁美三人將在参加由宮脇担任Center、其余两人担任前排站位的AKB48第54张单曲《[NO
 WAY
@@ -62,9 +62,9 @@ Chart
 | [张员瑛](https://zh.wikipedia.org/wiki/张员瑛 "wikilink")     |
 | [宮脇咲良](../Page/宮脇咲良.md "wikilink")                      |
 | [曺柔理](../Page/曺柔理.md "wikilink")                        |
-| [崔叡娜](https://zh.wikipedia.org/wiki/崔叡娜 "wikilink")     |
-| [安兪真](https://zh.wikipedia.org/wiki/安兪真 "wikilink")     |
-| [矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")   |
+| [崔叡娜](../Page/崔叡娜.md "wikilink")                        |
+| [安兪真](../Page/安兪真.md "wikilink")                        |
+| [矢吹奈子](../Page/矢吹奈子.md "wikilink")                      |
 | **[權恩妃](https://zh.wikipedia.org/wiki/權恩妃 "wikilink")** |
 | [姜惠元](../Page/姜惠元.md "wikilink")                        |
 | [本田仁美](../Page/本田仁美.md "wikilink")                      |
@@ -105,13 +105,13 @@ Chart
 
 #### 练习室舞蹈影音
 
-| 年份     | 發佈日期                                                               | 專輯/企劃                                                                       | 歌曲                                                 | 參與成員          | 備註                                                                     |
-| ------ | ------------------------------------------------------------------ | --------------------------------------------------------------------------- | -------------------------------------------------- | ------------- | ---------------------------------------------------------------------- |
-| 2018年  | 10月5日                                                              | 《[是我的 (PICK ME)](https://zh.wikipedia.org/wiki/是我的_\(PICK_ME\) "wikilink")》 | 내꺼야 (PICK ME)\[33\]                                | 全體            | 音源為[PRODUCE 48版本](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink") |
-| 10月19日 | 《[30 Girls 6 Concepts](../Page/30_Girls_6_Concepts.md "wikilink")》 | Rumor\[34\]                                                                 | 權恩妃、崔叡娜、李彩演、金采源、金玟周                                | 出道Show-Con特别版 |                                                                        |
-| 11月3日  | 《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》                      | 라비앙로즈 (La Vie en Rose)\[35\]                                                | 全體                                                 |               |                                                                        |
-| 11月7日  | O' My\!\[36\]                                                      |                                                                             |                                                    |               |                                                                        |
-| 2019年  | 1月4日                                                               | 라비앙로즈 (La Vie en Rose)\[37\]                                                | 2018 [MAMA](../Page/Mnet亞洲音樂大獎.md "wikilink") 表演版本 |               |                                                                        |
+| 年份     | 發佈日期                                                               | 專輯/企劃                                                    | 歌曲                                                 | 參與成員          | 備註                                                  |
+| ------ | ------------------------------------------------------------------ | -------------------------------------------------------- | -------------------------------------------------- | ------------- | --------------------------------------------------- |
+| 2018年  | 10月5日                                                              | 《[是我的 (PICK ME)](../Page/是我的_\(PICK_ME\).md "wikilink")》 | 내꺼야 (PICK ME)\[33\]                                | 全體            | 音源為[PRODUCE 48版本](../Page/PRODUCE_48.md "wikilink") |
+| 10月19日 | 《[30 Girls 6 Concepts](../Page/30_Girls_6_Concepts.md "wikilink")》 | Rumor\[34\]                                              | 權恩妃、崔叡娜、李彩演、金采源、金玟周                                | 出道Show-Con特别版 |                                                     |
+| 11月3日  | 《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》                      | 라비앙로즈 (La Vie en Rose)\[35\]                             | 全體                                                 |               |                                                     |
+| 11月7日  | O' My\!\[36\]                                                      |                                                          |                                                    |               |                                                     |
+| 2019年  | 1月4日                                                               | 라비앙로즈 (La Vie en Rose)\[37\]                             | 2018 [MAMA](../Page/Mnet亞洲音樂大獎.md "wikilink") 表演版本 |               |                                                     |
 
 ## 媒体出演
 
@@ -161,7 +161,7 @@ Chart
 </tr>
 <tr class="odd">
 <td><p>2019年1月6日、13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
+<td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV</a></p></td>
 <td><p>《初次见面 IZ*ONE的第一步 in 日本》</p></td>
 <td><p>[38]</p></td>
 <td></td>
@@ -177,7 +177,7 @@ SBS Mobidic</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年2月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SHOWROOM" title="wikilink">SHOWROOM</a></p></td>
+<td><p><a href="../Page/SHOWROOM.md" title="wikilink">SHOWROOM</a></p></td>
 <td><p>《IZ*ONE 1st单曲《想让你说喜欢我》发行纪念特番》</p></td>
 <td><p>[40]</p></td>
 <td></td>
@@ -233,7 +233,7 @@ SBS Mobidic</p></td>
 <tr class="even">
 <td><p>10月30日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Idol_Room" title="wikilink">Idol Room</a>》</p></td>
+<td><p>《<a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a>》</p></td>
 <td><p>全員</p></td>
 <td><p>出道首个全体综艺</p></td>
 <td></td>
@@ -322,7 +322,7 @@ SBS Mobidic</p></td>
 <td><p>2019年</p></td>
 <td><p>1月29日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Idol_Room" title="wikilink">Idol Room</a>》</p></td>
+<td><p>《<a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a>》</p></td>
 <td><p>10月30日播出部分的未公开画面</p></td>
 <td></td>
 </tr>
@@ -510,8 +510,8 @@ SBS Mobidic</p></td>
 
 | 演出日期        | 活動名稱                                                                                        | 舉行地點                                                                                      | 備註     |
 | ----------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------ |
-| 2018年11月28日 | [亞洲明星盛典](https://zh.wikipedia.org/wiki/亞洲明星盛典 "wikilink")                                   | 韓国仁川南洞体育館                                                                                 | \[55\] |
-| 2018年12月10日 | [2018 MAMA PREMIERE in KOREA](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink")     | 韓国首尔[东大门设计广场](https://zh.wikipedia.org/wiki/东大门设计广场 "wikilink")                           | \[56\] |
+| 2018年11月28日 | [亞洲明星盛典](../Page/亞洲明星盛典.md "wikilink")                                                      | 韓国仁川南洞体育館                                                                                 | \[55\] |
+| 2018年12月10日 | [2018 MAMA PREMIERE in KOREA](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink")     | 韓国首尔[东大门设计广场](../Page/东大门设计广场.md "wikilink")                                              | \[56\] |
 | 2018年12月12日 | [2018 MAMA FAN'S CHOICE in JAPAN](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink") | 日本[埼玉超级竞技场](https://zh.wikipedia.org/wiki/埼玉超级竞技场 "wikilink")                             | \[57\] |
 | 2018年12月14日 | [2018 MAMA in HONG KONG](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink")          | [香港](../Page/香港.md "wikilink")[亚洲国际博览馆](https://zh.wikipedia.org/wiki/亚洲国际博览馆 "wikilink") | \[58\] |
 | 2019年1月6日   | 第33届[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")                                   | 韓国首尔[高尺巨蛋](https://zh.wikipedia.org/wiki/高尺巨蛋 "wikilink")                                 | \[59\] |
@@ -546,7 +546,7 @@ SBS Mobidic</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亞洲明星盛典" title="wikilink">亞洲明星盛典</a></p></td>
+<td><p><a href="../Page/亞洲明星盛典.md" title="wikilink">亞洲明星盛典</a></p></td>
 <td><p>新人獎</p></td>
 <td><p>IZ*ONE</p></td>
 <td></td>

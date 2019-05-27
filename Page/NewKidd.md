@@ -23,11 +23,10 @@ Dream」的意思，是[韓國J](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 
 Hansol曾是[SM
 ROOKIES](../Page/SM_ROOKIES.md "wikilink")，是[NCT的預備成員](../Page/NCT.md "wikilink")，亦曾是[Keyeast練習生](../Page/Keyeast.md "wikilink")。2017年10月，參與《[The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》，最終排名為第6名，成功以限定組合[UNB出道](https://zh.wikipedia.org/wiki/UNB "wikilink")，活動約九個多月，團體於2019年1月解散。
+Unit](../Page/The_Unit.md "wikilink")》，最終排名為第6名，成功以限定組合[UNB出道](../Page/UNB.md "wikilink")，活動約九個多月，團體於2019年1月解散。
 
 2017年4月，Jiann以[RBW練習生身份參與](https://zh.wikipedia.org/wiki/RBW "wikilink")《[PRODUCE
-101
-第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")》，最終排名為第97名，未能透過節目出道。
+101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，最終排名為第97名，未能透過節目出道。
 
 ## 參考文章
 

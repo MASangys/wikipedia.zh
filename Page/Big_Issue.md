@@ -501,12 +501,12 @@ Sunday通信的幕後實權者。身體傷殘後，成爲竊聽、偷拍設備�
 ## 同時段競爭作品
 
   - [KBS](../Page/韓國放送公社.md "wikilink")
-    [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[為何那樣，奉尚先生](https://zh.wikipedia.org/wiki/為何那樣，奉尚先生 "wikilink")》、《[監獄醫生](https://zh.wikipedia.org/wiki/監獄醫生 "wikilink")》
+    [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[為何那樣，奉尚先生](../Page/為何那樣，奉尚先生.md "wikilink")》、《[監獄醫生](../Page/監獄醫生.md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-    [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[春天來了，春天](https://zh.wikipedia.org/wiki/春天來了，春天 "wikilink")》、《[The
-    Banker](https://zh.wikipedia.org/wiki/The_Banker_\(電視劇\) "wikilink")》
+    [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[春天來了，春天](../Page/春天來了，春天.md "wikilink")》、《[The
+    Banker](../Page/The_Banker_\(電視劇\).md "wikilink")》
   - [tvN](../Page/TVN.md "wikilink")
-    [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[觸及真心](../Page/觸及真心.md "wikilink")》、《[她的私生活](https://zh.wikipedia.org/wiki/她的私生活 "wikilink")》
+    [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[觸及真心](../Page/觸及真心.md "wikilink")》、《[她的私生活](../Page/她的私生活.md "wikilink")》
 
 ## 記事
 

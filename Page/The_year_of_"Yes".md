@@ -14,7 +14,7 @@ YES七首歌曲）及專輯預覽，宣佈TWICE將於12月12日下午六點回�
 
 12月3日，釋出專輯預覽圖，並於12月4日開放預購。
 
-12月4日至6日，依次釋出[娜璉](../Page/娜璉.md "wikilink")、[定延](https://zh.wikipedia.org/wiki/定延 "wikilink")、[Momo](../Page/Momo_\(TWICE\).md "wikilink")、[Sana](../Page/Sana_\(TWICE\).md "wikilink")、[志效](../Page/志效.md "wikilink")、[Mina](../Page/Mina_\(TWICE\).md "wikilink")、[多賢](../Page/多賢.md "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink")、[子瑜兩波個人概念照](https://zh.wikipedia.org/wiki/子瑜 "wikilink")。
+12月4日至6日，依次釋出[娜璉](../Page/娜璉.md "wikilink")、[定延](../Page/定延.md "wikilink")、[Momo](../Page/Momo_\(TWICE\).md "wikilink")、[Sana](../Page/Sana_\(TWICE\).md "wikilink")、[志效](../Page/志效.md "wikilink")、[Mina](../Page/Mina_\(TWICE\).md "wikilink")、[多賢](../Page/多賢.md "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink")、[子瑜兩波個人概念照](https://zh.wikipedia.org/wiki/子瑜 "wikilink")。
 
 12月7日，釋出兩張團體概念圖。
 

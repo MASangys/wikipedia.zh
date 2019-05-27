@@ -1,4 +1,4 @@
-**Tateidae科**，是一類有的[微小](https://zh.wikipedia.org/wiki/微小貝 "wikilink")[海螺](https://zh.wikipedia.org/wiki/海螺 "wikilink")，屬於[腹足纲](../Page/腹足纲.md "wikilink")[玉黍螺目](../Page/玉黍螺目.md "wikilink")[截螺總科](https://zh.wikipedia.org/wiki/截螺總科 "wikilink")。
+**Tateidae科**，是一類有的[微小](https://zh.wikipedia.org/wiki/微小貝 "wikilink")[海螺](https://zh.wikipedia.org/wiki/海螺 "wikilink")，屬於[腹足纲](../Page/腹足纲.md "wikilink")[玉黍螺目](../Page/玉黍螺目.md "wikilink")[截螺總科](../Page/截螺總科.md "wikilink")。
 
 ## 分類
 
@@ -94,7 +94,7 @@
 ## 參看
 
   - *[Bostryx](https://zh.wikipedia.org/wiki/Bostryx "wikilink")*
-    ：科[Bostrycinae亞科的](https://zh.wikipedia.org/wiki/Bostrycinae "wikilink")[模式屬](https://zh.wikipedia.org/wiki/模式屬 "wikilink")，[旋蝸牛亞目](https://zh.wikipedia.org/wiki/旋蝸牛亞目 "wikilink")[綵帶螺下目](https://zh.wikipedia.org/wiki/綵帶螺下目 "wikilink")（[Orthalicoidei](https://zh.wikipedia.org/wiki/Orthalicoidei "wikilink")）的成員。
+    ：科[Bostrycinae亞科的](https://zh.wikipedia.org/wiki/Bostrycinae "wikilink")[模式屬](https://zh.wikipedia.org/wiki/模式屬 "wikilink")，[旋蝸牛亞目](../Page/旋蝸牛亞目.md "wikilink")[綵帶螺下目](https://zh.wikipedia.org/wiki/綵帶螺下目 "wikilink")（[Orthalicoidei](https://zh.wikipedia.org/wiki/Orthalicoidei "wikilink")）的成員。
 
 ## 外部連結
 

@@ -31,7 +31,7 @@ Solid由以下几部分组成\[13\]：
 
 ## 参见
 
-  - [星际文件系统](https://zh.wikipedia.org/wiki/星际文件系统 "wikilink")
+  - [星际文件系统](../Page/星际文件系统.md "wikilink")
 
 ## 参考文献
 

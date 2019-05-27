@@ -1,4 +1,4 @@
-**八文字DNA**（，Hachimoji源自日語「八文字」的發音），是一種[人工合成的](https://zh.wikipedia.org/wiki/合成生物學 "wikilink")[核酸類似物](../Page/核酸.md "wikilink")，除含有四種天然DNA中含有的鹼基[腺嘌呤](../Page/腺嘌呤.md "wikilink")（A）、[胸腺嘧啶](../Page/胸腺嘧啶.md "wikilink")（T）、[鳥嘌呤](https://zh.wikipedia.org/wiki/鳥嘌呤 "wikilink")（G）、[胞嘧啶](../Page/胞嘧啶.md "wikilink")（C）外，還含有另外四種天然[DNA中不含有的鹼基](https://zh.wikipedia.org/wiki/DNA "wikilink")[5-氮雜-7-脫氮鳥嘌呤](https://zh.wikipedia.org/wiki/5-氮雜-7-脫氮鳥嘌呤 "wikilink")（P）、[6-氨基-5-硝基吡啶-2-酮](https://zh.wikipedia.org/wiki/6-氨基-5-硝基吡啶-2-酮 "wikilink")（Z）、[異鳥嘌呤](https://zh.wikipedia.org/wiki/異鳥嘌呤 "wikilink")（B）、[1-甲基胞嘧啶](https://zh.wikipedia.org/wiki/1-甲基胞嘧啶 "wikilink")（dS）。八文字DNA中的[鹼基配對除天然DNA的A](https://zh.wikipedia.org/wiki/鹼基對 "wikilink")-T和G-C外，還存在Z-P與dS-B兩種配對方式。八文字DNA也存在對應形式的八文字[RNA](https://zh.wikipedia.org/wiki/RNA "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]。
+**八文字DNA**（，Hachimoji源自日語「八文字」的發音），是一種[人工合成的](https://zh.wikipedia.org/wiki/合成生物學 "wikilink")[核酸類似物](../Page/核酸.md "wikilink")，除含有四種天然DNA中含有的鹼基[腺嘌呤](../Page/腺嘌呤.md "wikilink")（A）、[胸腺嘧啶](../Page/胸腺嘧啶.md "wikilink")（T）、[鳥嘌呤](https://zh.wikipedia.org/wiki/鳥嘌呤 "wikilink")（G）、[胞嘧啶](../Page/胞嘧啶.md "wikilink")（C）外，還含有另外四種天然[DNA中不含有的鹼基](https://zh.wikipedia.org/wiki/DNA "wikilink")[5-氮雜-7-脫氮鳥嘌呤](../Page/5-氮雜-7-脫氮鳥嘌呤.md "wikilink")（P）、[6-氨基-5-硝基吡啶-2-酮](../Page/6-氨基-5-硝基吡啶-2-酮.md "wikilink")（Z）、[異鳥嘌呤](../Page/異鳥嘌呤.md "wikilink")（B）、[1-甲基胞嘧啶](https://zh.wikipedia.org/wiki/1-甲基胞嘧啶 "wikilink")（dS）。八文字DNA中的[鹼基配對除天然DNA的A](https://zh.wikipedia.org/wiki/鹼基對 "wikilink")-T和G-C外，還存在Z-P與dS-B兩種配對方式。八文字DNA也存在對應形式的八文字[RNA](https://zh.wikipedia.org/wiki/RNA "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]。
 
 八文字DNA能存儲比DNA更多的信息，對搜尋[地外生命的研究也有推動作用](https://zh.wikipedia.org/wiki/地外生命 "wikilink")\[6\]\[7\]。
 
@@ -18,19 +18,19 @@ RNA聚合酶能將八文字DNA](https://zh.wikipedia.org/wiki/T7_RNA聚合酶 "w
 [SMILES](https://zh.wikipedia.org/wiki/簡化分子線性輸入規範 "wikilink") \!\! 分子結構
 || [ChemSpider](../Page/ChemSpider.md "wikilink") \!\!
 [PubChem](../Page/PubChem.md "wikilink") |- \! colspan="2"|**P** |
-[5-氮雜-7-脫氮鳥嘌呤](https://zh.wikipedia.org/wiki/5-氮雜-7-脫氮鳥嘌呤 "wikilink")
+[5-氮雜-7-脫氮鳥嘌呤](../Page/5-氮雜-7-脫氮鳥嘌呤.md "wikilink")
 \[14\] | C<sub>5</sub>H<sub>5</sub>N<sub>5</sub>O |  |
 [5-aza-7-deazaguanine.svg](https://zh.wikipedia.org/wiki/File:5-aza-7-deazaguanine.svg "fig:5-aza-7-deazaguanine.svg")
 | [10205066](http://www.chemspider.com/Chemical-Structure.10205066.html)
 | [135600909](https://pubchem.ncbi.nlm.nih.gov/compound/135600909) |- \!
 colspan="2"|**Z** |
-[6-氨基-5-硝基吡啶-2-酮](https://zh.wikipedia.org/wiki/6-氨基-5-硝基吡啶-2-酮 "wikilink")
+[6-氨基-5-硝基吡啶-2-酮](../Page/6-氨基-5-硝基吡啶-2-酮.md "wikilink")
 \[15\] | C<sub>5</sub>H<sub>5</sub>N<sub>3</sub>O<sub>3</sub> |  |
 [6-Amino-5-nitropyridin-2-ol.png](https://zh.wikipedia.org/wiki/File:6-Amino-5-nitropyridin-2-ol.png "fig:6-Amino-5-nitropyridin-2-ol.png")
 | [9357814](http://www.chemspider.com/Chemical-Structure.9357814.html) |
 [11182729](https://pubchem.ncbi.nlm.nih.gov/compound/11182729) |-
 style="border-top:solid \#ccc;" \! colspan="2"|**B**
-|[異鳥嘌呤](https://zh.wikipedia.org/wiki/異鳥嘌呤 "wikilink")
+|[異鳥嘌呤](../Page/異鳥嘌呤.md "wikilink")
 \[16\] | C<sub>5</sub>H<sub>5</sub>N<sub>5</sub>O |  |
 [Isoguanine_vector.svg](https://zh.wikipedia.org/wiki/File:Isoguanine_vector.svg "fig:Isoguanine_vector.svg")
 | [69351](http://www.chemspider.com/Chemical-Structure.69351.html) |

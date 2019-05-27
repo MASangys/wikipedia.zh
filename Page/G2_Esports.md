@@ -1,5 +1,5 @@
 **G2
-Esports**（前稱為**Gamers2**）是一支以[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林為根據地的西班牙](../Page/柏林.md "wikilink")[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")\[1\]，旗下分部有《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》、《[絕對武力：全球攻勢](https://zh.wikipedia.org/wiki/絕對武力：全球攻勢 "wikilink")》、《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》、《[炉石传说](https://zh.wikipedia.org/wiki/炉石传说 "wikilink")》、《[絕地求生](https://zh.wikipedia.org/wiki/絕地求生 "wikilink")》、《[火箭聯盟](../Page/火箭聯盟.md "wikilink")》、《[部落衝突：皇室戰爭](https://zh.wikipedia.org/wiki/部落衝突：皇室戰爭 "wikilink")》、《》、《[要塞英雄](https://zh.wikipedia.org/wiki/堡垒之夜系列 "wikilink")》、《[使命召喚](https://zh.wikipedia.org/wiki/使命召喚系列 "wikilink")》、《[任天堂明星大亂鬥DX](https://zh.wikipedia.org/wiki/任天堂明星大亂鬥DX "wikilink")》和《[虚荣](../Page/虚荣_\(游戏\).md "wikilink")》。
+Esports**（前稱為**Gamers2**）是一支以[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林為根據地的西班牙](../Page/柏林.md "wikilink")[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")\[1\]，旗下分部有《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》、《[絕對武力：全球攻勢](https://zh.wikipedia.org/wiki/絕對武力：全球攻勢 "wikilink")》、《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》、《[炉石传说](https://zh.wikipedia.org/wiki/炉石传说 "wikilink")》、《[絕地求生](../Page/絕地求生.md "wikilink")》、《[火箭聯盟](../Page/火箭聯盟.md "wikilink")》、《[部落衝突：皇室戰爭](../Page/部落衝突：皇室戰爭.md "wikilink")》、《》、《[要塞英雄](../Page/堡垒之夜系列.md "wikilink")》、《[使命召喚](https://zh.wikipedia.org/wiki/使命召喚系列 "wikilink")》、《[任天堂明星大亂鬥DX](https://zh.wikipedia.org/wiki/任天堂明星大亂鬥DX "wikilink")》和《[虚荣](../Page/虚荣_\(游戏\).md "wikilink")》。
 
 ## 英雄聯盟
 
@@ -18,22 +18,21 @@ LCS，該隊伍把自己的名字改為G2 Esports\[8\]。
 
 在升上EU
 LCS的第一季中，G2以黑馬之姿的15-3戰績成為常規賽的第一名\[9\]。到了季後賽，他們先擊敗五屆冠軍[Fnatic](../Page/Fnatic.md "wikilink")，之後再於荷蘭[鹿特丹舉行的冠軍賽打敗](../Page/鹿特丹.md "wikilink")，取得代表歐洲出戰[季中邀請賽的資格](https://zh.wikipedia.org/wiki/2016年英雄聯盟季中邀請賽 "wikilink")，但G2在賽前的幾周內都只在放假，沒有做好充足的準備，招致他們僅以2-8的戰績完成該項系列賽\[10\]。回到EU
-LCS後，G2繼續保持強勢，再次以常規賽首名的姿態晉身季後賽，並在波蘭[克拉科夫擊敗](../Page/克拉科夫.md "wikilink")達成春夏連霸，同時亦得以成為歐洲第一種子出戰[2016赛季全球总决赛](https://zh.wikipedia.org/wiki/英雄联盟2016赛季全球总决赛 "wikilink")，他們被分到A組，但最後亦只取得1-5的慘澹成績，排在小組的最後一名\[11\]。
+LCS後，G2繼續保持強勢，再次以常規賽首名的姿態晉身季後賽，並在波蘭[克拉科夫擊敗](../Page/克拉科夫.md "wikilink")達成春夏連霸，同時亦得以成為歐洲第一種子出戰[2016赛季全球总决赛](../Page/英雄联盟2016赛季全球总决赛.md "wikilink")，他們被分到A組，但最後亦只取得1-5的慘澹成績，排在小組的最後一名\[11\]。
 
 [LCS_Summer_Split_2017_in_Paris.jpg](https://zh.wikipedia.org/wiki/File:LCS_Summer_Split_2017_in_Paris.jpg "fig:LCS_Summer_Split_2017_in_Paris.jpg")舉行的EU
 LCS夏季賽決賽中迎戰\]\] G2自從升進EU
 LCS之後便一直維持在上段班的水平，他們在2017年春季賽奪得冠軍，達成三連霸\[12\]，之後更一路過關斬將至[2017年MSI的決賽](https://zh.wikipedia.org/wiki/2017英雄聯盟季中邀請賽 "wikilink")，惜以1-3敗予[LCK的](https://zh.wikipedia.org/wiki/英雄聯盟韓國冠軍聯賽 "wikilink")[SK
 Telecom
-T1](https://zh.wikipedia.org/wiki/SK_Telecom_T1 "wikilink")\[13\]。夏季賽方面，G2在季後賽決賽橫掃，達成EU
-LCS史上第一次四連霸，並再次以一號種子的姿態晉身世界賽\[14\]。在[2017赛季全球总决赛上](https://zh.wikipedia.org/wiki/英雄联盟2017赛季全球总决赛 "wikilink")，他們雖擁有不會和其他賽區冠軍提前遭運的抽籤優勢，最後卻和當屆冠軍[Samsung
-Galaxy及大熱](https://zh.wikipedia.org/wiki/Gen.G "wikilink")[Royal Never
-Give
+T1](../Page/SK_Telecom_T1.md "wikilink")\[13\]。夏季賽方面，G2在季後賽決賽橫掃，達成EU
+LCS史上第一次四連霸，並再次以一號種子的姿態晉身世界賽\[14\]。在[2017赛季全球总决赛上](../Page/英雄联盟2017赛季全球总决赛.md "wikilink")，他們雖擁有不會和其他賽區冠軍提前遭運的抽籤優勢，最後卻和當屆冠軍[Samsung
+Galaxy及大熱](../Page/Gen.G.md "wikilink")[Royal Never Give
 Up兩支強隊一起被分配到C組](https://zh.wikipedia.org/wiki/皇族電子競技俱樂部 "wikilink")，最後僅能自這兩隊的四場比賽中取得一勝，以3勝3敗的戰績完成小組賽事，雖然表現比上次世界賽大有改善，但仍未能獲得出線資格\[15\]。
 
 2018年春季賽，G2以0-3遭Fnatic於決賽痛宰，無緣連三年征戰MSI；夏季賽更是狀況奇差，不僅例行賽沒能保住前二，更於季後賽第一輪便以0:3的比數敗給了例行賽排名更低的，所幸之後他們在區域選拔賽時狀況回穩，相繼擊敗和，以第三種子的身份代表EU
 LCS出戰\[16\]。在[2018赛季全球总决赛上](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")，他們先在入圍賽以3-1淘汰LAT的Infinity
 eSports CR，並進入至有[Afreeca
-Freecs](https://zh.wikipedia.org/wiki/Afreeca_Freecs "wikilink")、[Flash
+Freecs](../Page/Afreeca_Freecs.md "wikilink")、[Flash
 Wolves和](../Page/閃電狼.md "wikilink")的A組。與上兩次不同的是，G2這次成功突圍小組賽，他們在加賽擊敗Flash
 Wolves得以晉級至八強，之後更在八強賽以3-2爆冷戰勝大熱門[Royal Never Give
 Up](https://zh.wikipedia.org/wiki/皇族電子競技俱樂部 "wikilink")，最終他們在四強被當屆冠軍[Invictus
@@ -592,7 +591,7 @@ Cosmic成員簽約\[35\]。他們在RLCS第三季遭到淘汰後贏得Eleague系
 ## 決勝時刻
 
 2018年10月25日，G2
-Esports公佈他們《[使命召唤：黑色行动4](https://zh.wikipedia.org/wiki/使命召唤：黑色行动4 "wikilink")》的陣容\[40\]。
+Esports公佈他們《[使命召唤：黑色行动4](../Page/使命召唤：黑色行动4.md "wikilink")》的陣容\[40\]。
 
 ### 選手
 

@@ -38,7 +38,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>第二張正規專輯《<strong><a href="https://zh.wikipedia.org/wiki/Noir_(B.A.P專輯)" title="wikilink">NOIR</a></strong>》</p>
+<td><p>第二張正規專輯《<strong><a href="../Page/Noir_(B.A.P專輯).md" title="wikilink">NOIR</a></strong>》</p>
 <ul>
 <li>發行日期：2016年11月7日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -797,7 +797,7 @@
 
 ## 成員創作
 
-### [韓國音樂著作權協會](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
+### [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
 
 | 姓名   | 登記名字 | 編號       | 歌曲列表\[2\]\[3\] |
 | ---- | ---- | -------- | -------------- |

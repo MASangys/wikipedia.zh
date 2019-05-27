@@ -24,8 +24,7 @@ XGBoost最初是一个研究项目，由当时在Distributed (Deep) Machine Lear
 不久之后，相应的Python和R的包被开发出来。现在，许多其他语言如Julia,
 [Scala](../Page/Scala.md "wikilink"), Java等也有对应的包。
 这使得更多的开发者认识了XGBoost，也让其在
-[Kaggle](https://zh.wikipedia.org/wiki/Kaggle "wikilink")
-社区大受欢迎，并用于大量的比赛\[9\]。
+[Kaggle](../Page/Kaggle.md "wikilink") 社区大受欢迎，并用于大量的比赛\[9\]。
 
 它很快就与其他多个软件包一起使用，使其更易于在各自的社区中使用。
 它现在与[Python用户的scikit](../Page/Python.md "wikilink")-learn，以及与[R的Caret集成](../Page/R语言.md "wikilink")。

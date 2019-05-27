@@ -6,7 +6,7 @@
 
 ## 歷史及設計
 
-自1918年，波蘭重新獲得獨立以後，[波蘭陸軍配備了從](https://zh.wikipedia.org/wiki/波蘭陸軍 "wikilink")[各個軍區的](../Page/瓜分波蘭.md "wikilink")[武裝部隊所繼承的各種機槍](../Page/武装力量.md "wikilink")，以及在[第一次世界大战期間用以裝備](../Page/第一次世界大战.md "wikilink")[波蘭藍軍的法國及英國軍隊的裝備](../Page/藍軍_\(波蘭\).md "wikilink")。使用各種各樣的輕機槍，以及它倆每挻機槍所使用的口徑不同的事實，導致部隊訓練和後勤工作成為一項艱鉅的任務。
+自1918年，波蘭重新獲得獨立以後，[波蘭陸軍配備了從](../Page/波蘭陸軍.md "wikilink")[各個軍區的](../Page/瓜分波蘭.md "wikilink")[武裝部隊所繼承的各種機槍](../Page/武装力量.md "wikilink")，以及在[第一次世界大战期間用以裝備](../Page/第一次世界大战.md "wikilink")[波蘭藍軍的法國及英國軍隊的裝備](../Page/藍軍_\(波蘭\).md "wikilink")。使用各種各樣的輕機槍，以及它倆每挻機槍所使用的口徑不同的事實，導致部隊訓練和後勤工作成為一項艱鉅的任務。
 
 在[波蘭—布爾什維克戰爭以後](../Page/波苏战争.md "wikilink")，到了1923年，波蘭軍隊展開了一款新型的制式輕機槍的競標，旨在取代過去所使用的所有的輕機槍型號。競標在並無中標者的情況以下結束以後，第二年波蘭戰爭部購入了12挻[白朗寧M1918自動步槍](../Page/白朗寧自動步槍.md "wikilink")、[路易士機槍](../Page/路易士機槍.md "wikilink")（“Lewis
 Wz.
@@ -45,7 +45,7 @@ Wz.28被用作活動安裝式[航空機槍旳研發基礎](../Page/航空机关�
 
 <File:MWP> Browning wz1928.JPG|擊發機構 <File:MWP> Browning wz1928 2.JPG
 <File:Rkm> wz.28 na motocylku
-sokół.jpg|在[邊車以上使用Wz](https://zh.wikipedia.org/wiki/邊車 "wikilink").
+sokół.jpg|在[邊車以上使用Wz](../Page/邊車.md "wikilink").
 1928的[骑兵](../Page/骑兵.md "wikilink") <File:Soldier> of Polish Infantry
 1939.jpg|使用Wz. 1928的步兵 <File:Zdzisław> de
 Ville.jpg|[波蘭家鄉軍部隊](../Page/波蘭家鄉軍.md "wikilink")所屬，並且裝備了Wz.

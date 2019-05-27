@@ -9,7 +9,7 @@ Conda可安装Python语言的包，\[14\]类似于其他基于Python的跨平台
 一些基于Conda的工具软件：
 
   - Bioconda，用于计算生物学。\[15\]\[16\]
-  - [Anaconda](https://zh.wikipedia.org/wiki/Anaconda_\(Python发行版\) "wikilink")
+  - [Anaconda](../Page/Anaconda_\(Python发行版\).md "wikilink")
   - Miniconda\[17\]
   - Anaconda Repository.\[18\]
 

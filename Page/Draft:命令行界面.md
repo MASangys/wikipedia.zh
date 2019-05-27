@@ -37,10 +37,10 @@ Alternatives to the command line include, but are not limited to
 [menus](../Page/選單.md "wikilink") (see  for example), [keyboard
 shortcuts](../Page/快捷键.md "wikilink"), and various other [desktop
 metaphors](https://zh.wikipedia.org/wiki/桌面比擬 "wikilink") centered on
-the [pointer](https://zh.wikipedia.org/wiki/光标_\(图形用户界面\) "wikilink")
-(usually controlled with a [mouse](../Page/鼠标.md "wikilink")). Examples
-of this include the Windows versions 1, 2, 3, 3.1, and 3.11 (an OS shell
-that runs in DOS), , and Mouse Systems PowerPanel.
+the [pointer](../Page/光标_\(图形用户界面\).md "wikilink") (usually controlled
+with a [mouse](../Page/鼠标.md "wikilink")). Examples of this include the
+Windows versions 1, 2, 3, 3.1, and 3.11 (an OS shell that runs in DOS),
+, and Mouse Systems PowerPanel.
 
 Programs with command-line interfaces are generally easier to automate
 via [scripting](../Page/脚本语言.md "wikilink").
@@ -48,9 +48,8 @@ via [scripting](../Page/脚本语言.md "wikilink").
 Command-line interfaces for software other than operating systems
 include a number of programming languages such as
 [Tcl/Tk](../Page/Tcl.md "wikilink"), [PHP](../Page/PHP.md "wikilink"),
-and others, as well as
-[utilities](https://zh.wikipedia.org/wiki/实用程序 "wikilink") such
-as the [compression](../Page/数据压缩.md "wikilink") utility
+and others, as well as [utilities](../Page/实用程序.md "wikilink") such as
+the [compression](../Page/数据压缩.md "wikilink") utility
 [WinZip](../Page/WinZip.md "wikilink"), and some
 [FTP](../Page/文件传输协议.md "wikilink") and
 [SSH](../Page/Secure_Shell.md "wikilink")/[Telnet](../Page/Telnet.md "wikilink")
@@ -131,9 +130,9 @@ major types of command line interface mechanisms:
 3.  **OS inter-process communication**: Most operating systems support
     means of [inter-process communication](../Page/行程間通訊.md "wikilink")
     (for example; [standard streams](../Page/標準串流.md "wikilink") or
-    [named pipes](https://zh.wikipedia.org/wiki/命名管道 "wikilink")).
-    Command lines from client processes may be redirected to a CLI
-    program by one of these methods.
+    [named pipes](../Page/命名管道.md "wikilink")). Command lines from
+    client processes may be redirected to a CLI program by one of these
+    methods.
 
 Some applications support only a CLI, presenting a CLI prompt to the
 user and acting upon command lines as they are entered. Other programs

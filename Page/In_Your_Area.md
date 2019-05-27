@@ -17,8 +17,7 @@ in Your
 Area」作為起始畫面，接著陸續出現《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》、《[Playing
 with
 Fire](https://zh.wikipedia.org/wiki/Playing_with_Fire_\(BLACKPINK歌曲\) "wikilink")》、《[As
-If It's Your
-Last](https://zh.wikipedia.org/wiki/As_If_It's_Your_Last "wikilink")》、《[Ddu-Du
+If It's Your Last](../Page/As_If_It's_Your_Last.md "wikilink")》、《[Ddu-Du
 Ddu-Du](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du "wikilink")》[音樂錄影帶剪輯的特別片段](../Page/音樂錄影帶.md "wikilink")，以及BLACKPINK官方應援棒出現，影片最終出現一段文字寫著「See
 You Soon in
 Seoul」，向歌迷預示首爾演唱會即將拉開帷幕，同時也公開了演唱會的場次時間表，這場演唱會於2018年11月10日下午6時和11月11日下午5時，為期兩天擇定[首爾奧林匹克體操競技場舉行](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")\[3\]。而據YG娛樂工作人員表示，這次演唱會的概念由BLACKPINK親自參與了設計，包括主題名稱「In
@@ -53,20 +52,20 @@ Area」同名的世界巡迴演唱會，並通過她們的官方粉絲俱樂部�
 
 5.  [口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")
 
-6.  [澄澈](https://zh.wikipedia.org/wiki/澄澈_\(捷德歌曲\) "wikilink")<small>（[捷德](https://zh.wikipedia.org/wiki/捷德 "wikilink")）</small>（翻唱；[Jisoo](https://zh.wikipedia.org/wiki/金智秀_\(歌手\) "wikilink")
+6.  [澄澈](https://zh.wikipedia.org/wiki/澄澈_\(捷德歌曲\) "wikilink")<small>（[捷德](https://zh.wikipedia.org/wiki/捷德 "wikilink")）</small>（翻唱；[Jisoo](../Page/金智秀_\(歌手\).md "wikilink")
     Solo）
 
 7.  <small>（[卡迪·B](../Page/卡迪·B.md "wikilink")）</small> +
     Faded<small>（）</small> +
-    [Attention](https://zh.wikipedia.org/wiki/Attention_\(查理·普斯歌曲\) "wikilink")<small>（[查理·普斯](../Page/查理·普斯.md "wikilink")）</small>（翻跳；[Lisa](https://zh.wikipedia.org/wiki/Lisa_\(泰國歌手\) "wikilink")
+    [Attention](https://zh.wikipedia.org/wiki/Attention_\(查理·普斯歌曲\) "wikilink")<small>（[查理·普斯](../Page/查理·普斯.md "wikilink")）</small>（翻跳；[Lisa](../Page/Lisa_\(泰國歌手\).md "wikilink")
     Solo）
 
 8.  [順其自然](../Page/Let_It_Be.md "wikilink")<small>（[披頭四](../Page/披頭四樂隊.md "wikilink")）</small>
     + You & I<small>（[朴春](../Page/朴春.md "wikilink")）</small> +
-    只看著我<small>（[太陽](../Page/太陽_\(歌手\).md "wikilink")）</small>（翻唱；[Rosé](https://zh.wikipedia.org/wiki/Rosé_\(韓國歌手\) "wikilink")
+    只看著我<small>（[太陽](../Page/太陽_\(歌手\).md "wikilink")）</small>（翻唱；[Rosé](../Page/Rosé_\(韓國歌手\).md "wikilink")
     Solo）
 
-9.  [Solo](https://zh.wikipedia.org/wiki/Solo_\(單曲\) "wikilink")（[Jennie](https://zh.wikipedia.org/wiki/Jennie_\(韓國歌手\) "wikilink")
+9.  [Solo](../Page/Solo_\(單曲\).md "wikilink")（[Jennie](../Page/Jennie_\(韓國歌手\).md "wikilink")
     Solo）
 
 10.
@@ -84,8 +83,7 @@ Area」同名的世界巡迴演唱會，並通過她們的官方粉絲俱樂部�
 
 16. [Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")
 
-17. [As If It's Your
-    Last](https://zh.wikipedia.org/wiki/As_If_It's_Your_Last "wikilink")
+17. [As If It's Your Last](../Page/As_If_It's_Your_Last.md "wikilink")
 
 <!-- end list -->
 
@@ -201,7 +199,7 @@ Area」同名的世界巡迴演唱會，並通過她們的官方粉絲俱樂部�
 </tr>
 <tr class="even">
 <td><p>2018年11月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
 <td><p><a href="../Page/勝利_(歌手).md" title="wikilink">勝利</a>[20]</p></td>
@@ -289,7 +287,7 @@ Area」同名的世界巡迴演唱會，並通過她們的官方粉絲俱樂部�
 </tr>
 <tr class="odd">
 <td><p>2019年2月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/加冷" title="wikilink">加冷</a></p></td>
+<td><p><a href="../Page/加冷.md" title="wikilink">加冷</a></p></td>
 <td></td>
 <td><p><a href="../Page/新加坡室内体育馆.md" title="wikilink">新加坡室內體育館</a></p></td>
 <td></td>
@@ -299,7 +297,7 @@ Area」同名的世界巡迴演唱會，並通過她們的官方粉絲俱樂部�
 <td><p>2019年2月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/莎亚南" title="wikilink">莎亚南</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/美拉华蒂体育馆" title="wikilink">美拉华蒂体育馆</a></p></td>
+<td><p><a href="../Page/美拉华蒂体育馆.md" title="wikilink">美拉华蒂体育馆</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -315,7 +313,7 @@ Area」同名的世界巡迴演唱會，並通過她們的官方粉絲俱樂部�
 <td><p>2019年3月3日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/桃園市" title="wikilink">桃園市</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/國立體育大學綜合體育館" title="wikilink">國立體育大學綜合體育館</a></p></td>
+<td><p><a href="../Page/國立體育大學綜合體育館.md" title="wikilink">國立體育大學綜合體育館</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -331,7 +329,7 @@ Area」同名的世界巡迴演唱會，並通過她們的官方粉絲俱樂部�
 <td><p>2019年4月17日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/論壇體育館" title="wikilink">論壇體育館</a></p></td>
+<td><p><a href="../Page/論壇體育館.md" title="wikilink">論壇體育館</a></p></td>
 <td><p>rowspan="3" </p></td>
 <td><p>15,000[24]</p></td>
 </tr>
@@ -356,7 +354,7 @@ Area」同名的世界巡迴演唱會，並通過她們的官方粉絲俱樂部�
 <td><p><a href="https://zh.wikipedia.org/wiki/紐華克_(紐澤西州)" title="wikilink">紐華克</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/杜娃·黎波" title="wikilink">杜娃·黎波</a>[25]</p></td>
+<td><p><a href="../Page/杜娃·黎波.md" title="wikilink">杜娃·黎波</a>[25]</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
@@ -474,7 +472,7 @@ Area」同名的世界巡迴演唱會，並通過她們的官方粉絲俱樂部�
 <tr class="even">
 <td><p>2019年6月15日</p></td>
 <td><p><a href="../Page/悉尼.md" title="wikilink">悉尼</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/庫多斯銀行體育館" title="wikilink">庫多斯銀行體育館</a></p></td>
+<td><p><a href="../Page/庫多斯銀行體育館.md" title="wikilink">庫多斯銀行體育館</a></p></td>
 <td></td>
 <td><p>—</p></td>
 <td></td>
@@ -583,7 +581,7 @@ Area」同名的世界巡迴演唱會，並通過她們的官方粉絲俱樂部�
 
 <!-- end list -->
 
-  - [BLACKPINK](../Page/BLACKPINK.md "wikilink")（[Jisoo](https://zh.wikipedia.org/wiki/金智秀_\(歌手\) "wikilink")、[Jennie](https://zh.wikipedia.org/wiki/Jennie_\(韓國歌手\) "wikilink")、[Rosé](https://zh.wikipedia.org/wiki/Rosé_\(韓國歌手\) "wikilink")、[Lisa](https://zh.wikipedia.org/wiki/Lisa_\(泰國歌手\) "wikilink")）
+  - [BLACKPINK](../Page/BLACKPINK.md "wikilink")（[Jisoo](../Page/金智秀_\(歌手\).md "wikilink")、[Jennie](../Page/Jennie_\(韓國歌手\).md "wikilink")、[Rosé](../Page/Rosé_\(韓國歌手\).md "wikilink")、[Lisa](../Page/Lisa_\(泰國歌手\).md "wikilink")）
 
 <!-- end list -->
 
@@ -632,7 +630,7 @@ Area」同名的世界巡迴演唱會，並通過她們的官方粉絲俱樂部�
 
 <!-- end list -->
 
-  - [理想國演藝](https://zh.wikipedia.org/wiki/Live_Nation_Entertainment "wikilink")
+  - [理想國演藝](../Page/Live_Nation_Entertainment.md "wikilink")
 
 <!-- end list -->
 

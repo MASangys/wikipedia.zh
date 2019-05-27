@@ -2,7 +2,7 @@
 
 ## 簡介
 
-前作〈[光之畫室](https://zh.wikipedia.org/wiki/光之畫室 "wikilink")〉之後約半年所完成的實體單曲。與前作相同，收錄其他現場演出的音源。包括有同一年舉辦的「Mr.Children
+前作〈[光之畫室](../Page/光之畫室.md "wikilink")〉之後約半年所完成的實體單曲。與前作相同，收錄其他現場演出的音源。包括有同一年舉辦的「Mr.Children
 Hall Tour 2017 ヒカリノアトリエ」三首歌，也收錄ONE OK ROCK的全國巡迴演唱會「ONE OK ROCK 2017
 "Ambitions" JAPAN
 TOUR」中擔任嘉賓演唱的〈[無盡的旅程](../Page/無盡的旅程.md "wikilink")〉一曲音源。此外，2015年秋天舉辦Zepp「Mr.Children

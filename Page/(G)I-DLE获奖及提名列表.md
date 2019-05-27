@@ -1,4 +1,4 @@
-**(G)I-DLE获奖及提名列表**主要列举韩国女子音乐组合[(G)I-DLE出道至今于颁奖典礼](https://zh.wikipedia.org/wiki/\(G\)I-DLE "wikilink")、音乐节目的获奖与提名，关于成员个人的获奖与荣誉详见各自条目。
+**(G)I-DLE获奖及提名列表**主要列举韩国女子音乐组合[(G)I-DLE出道至今于颁奖典礼](../Page/\(G\)I-DLE.md "wikilink")、音乐节目的获奖与提名，关于成员个人的获奖与荣誉详见各自条目。
 
 ## 韩国音乐颁奖典礼
 
@@ -174,7 +174,7 @@
 </tr>
 <tr class="even">
 <td><p>音源本赏</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/I_am" title="wikilink">LATATA</a>》</p></td>
+<td><p>《<a href="../Page/I_am.md" title="wikilink">LATATA</a>》</p></td>
 <td><p>[11]</p></td>
 <td></td>
 <td></td>

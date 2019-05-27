@@ -1,6 +1,6 @@
 《**Show\! Audio
 Jockey**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台播出的](https://zh.wikipedia.org/wiki/tvN "wikilink")[真人實境-{zh-tw:秀;zh-cn:秀;zh-hk:騷}-節目](../Page/真人實境秀.md "wikilink")，由[朴明洙](../Page/朴明洙.md "wikilink")、[成始璄](../Page/成始璄.md "wikilink")、[蘇有珍](../Page/蘇有珍.md "wikilink")、[Boom及](../Page/Boom_\(藝人\).md "wikilink")[MONSTA
-X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[元虎](https://zh.wikipedia.org/wiki/李虎錫 "wikilink")、[民赫](https://zh.wikipedia.org/wiki/李玟爀 "wikilink")、[基賢](https://zh.wikipedia.org/wiki/柳基現 "wikilink")、[周憲共同主演](https://zh.wikipedia.org/wiki/李周憲 "wikilink")。節目形式是明星主持電台節目的綜藝，利用巡回各地的移動式開放錄音室進行電台直播，觀眾可以通過各種平台實時收聽直播，并且在之後播出的電視節目中觀看幕後詳細的準備過程和主持實況\[1\]\[2\]。
+X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[元虎](../Page/李虎錫.md "wikilink")、[民赫](https://zh.wikipedia.org/wiki/李玟爀 "wikilink")、[基賢](../Page/柳基現.md "wikilink")、[周憲共同主演](../Page/李周憲.md "wikilink")。節目形式是明星主持電台節目的綜藝，利用巡回各地的移動式開放錄音室進行電台直播，觀眾可以通過各種平台實時收聽直播，并且在之後播出的電視節目中觀看幕後詳細的準備過程和主持實況\[1\]\[2\]。
 
 ## 節目成員
 
@@ -44,7 +44,7 @@ X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[元虎](https://zh.wiki
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李虎錫" title="wikilink">元虎</a></p></td>
+<td><p><a href="../Page/李虎錫.md" title="wikilink">元虎</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -54,12 +54,12 @@ X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[元虎](https://zh.wiki
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/柳基現" title="wikilink">基賢</a></p></td>
+<td><p><a href="../Page/柳基現.md" title="wikilink">基賢</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李周憲" title="wikilink">周憲</a></p></td>
+<td><p><a href="../Page/李周憲.md" title="wikilink">周憲</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -82,7 +82,7 @@ X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[元虎](https://zh.wiki
       - 上午11時有[成始璄的](../Page/成始璄.md "wikilink")“你的身邊是成始璄”，用戀愛商談和現場歌曲禮物來刺激女心。
       - 下午1時开始播出“朴明洙的輕易秀”，通过市民和[朴明洙進行對決等令人興奮的内容引發笑聲](../Page/朴明洙.md "wikilink")。
       - 下午3時起播出[MONSTA
-        X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[元虎](https://zh.wikipedia.org/wiki/李虎錫 "wikilink")、[民赫](https://zh.wikipedia.org/wiki/李玟爀 "wikilink")、[基賢](https://zh.wikipedia.org/wiki/柳基現 "wikilink")、[周憲主持的](https://zh.wikipedia.org/wiki/李周憲 "wikilink")“MONSTA
+        X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[元虎](../Page/李虎錫.md "wikilink")、[民赫](https://zh.wikipedia.org/wiki/李玟爀 "wikilink")、[基賢](../Page/柳基現.md "wikilink")、[周憲主持的](../Page/李周憲.md "wikilink")“MONSTA
         X的MONSTYLE”，除了MONSTA X的現場，還有刺激唾液腺的吃播等。
   - 電台直播節目表(二)：
       - 上午9時开始播出“朴明洙的輕易秀”，通过市民和[朴明洙進行對決等令人興奮的内容引發笑聲](../Page/朴明洙.md "wikilink")。
@@ -91,7 +91,7 @@ X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[元虎](https://zh.wiki
         BOX”，由音樂問答、對口型秀等組成，預計是直到所有人满足為止不會停止的“注入式”興致秀。
       - 下午3時有[成始璄的](../Page/成始璄.md "wikilink")“你的身邊是成始璄”，用戀愛商談和現場歌曲禮物來刺激女心。
       - 下午5時起播出[MONSTA
-        X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[元虎](https://zh.wikipedia.org/wiki/李虎錫 "wikilink")、[民赫](https://zh.wikipedia.org/wiki/李玟爀 "wikilink")、[基賢](https://zh.wikipedia.org/wiki/柳基現 "wikilink")、[周憲主持的](https://zh.wikipedia.org/wiki/李周憲 "wikilink")“MONSTA
+        X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[元虎](../Page/李虎錫.md "wikilink")、[民赫](https://zh.wikipedia.org/wiki/李玟爀 "wikilink")、[基賢](../Page/柳基現.md "wikilink")、[周憲主持的](../Page/李周憲.md "wikilink")“MONSTA
         X的MONSTYLE”，除了MONSTA X的現場，還有刺激唾液腺的吃播等。
   - 電台直播節目表(三)：
       - 中午12時起是[蘇有珍的](../Page/蘇有珍.md "wikilink")“甜蜜沙龍”，為聽眾提供育兒小竅門，活用地區特產的菜譜等。

@@ -1,4 +1,4 @@
-《**普通Disco**》是生于1993年\[1\]的[up主](https://zh.wikipedia.org/wiki/up主 "wikilink")[ilem于](https://zh.wikipedia.org/wiki/ilem "wikilink")2015年3月21日在[bilibili发布的一首原创中文](https://zh.wikipedia.org/wiki/bilibili "wikilink")[VOCALOID歌曲](../Page/VOCALOID.md "wikilink")\[2\]\[3\]，使用了[洛天依和](../Page/洛天依.md "wikilink")[言和这两个虚拟女性歌手软件](https://zh.wikipedia.org/wiki/言和 "wikilink")\[4\]。此歌曲已成为“VOCALOID传说曲”（播放量超过100万）\[5\]。多家媒体提及此歌曲时都称其为“[二次元神曲](https://zh.wikipedia.org/wiki/二次元 "wikilink")”\[6\]\[7\]\[8\]\[9\]\[10\]。
+《**普通Disco**》是生于1993年\[1\]的[up主](https://zh.wikipedia.org/wiki/up主 "wikilink")[ilem于](https://zh.wikipedia.org/wiki/ilem "wikilink")2015年3月21日在[bilibili发布的一首原创中文](https://zh.wikipedia.org/wiki/bilibili "wikilink")[VOCALOID歌曲](../Page/VOCALOID.md "wikilink")\[2\]\[3\]，使用了[洛天依和](../Page/洛天依.md "wikilink")[言和这两个虚拟女性歌手软件](../Page/言和.md "wikilink")\[4\]。此歌曲已成为“VOCALOID传说曲”（播放量超过100万）\[5\]。多家媒体提及此歌曲时都称其为“[二次元神曲](https://zh.wikipedia.org/wiki/二次元 "wikilink")”\[6\]\[7\]\[8\]\[9\]\[10\]。
 
 ## 表演
 
@@ -8,7 +8,7 @@
 
 2016年1月，此歌曲曾在[酷狗音乐](../Page/酷狗音乐.md "wikilink")“华语新歌榜”上名列榜首。\[15\]
 
-2018年，[汪峰在](../Page/汪峰.md "wikilink")《[歌手2018](https://zh.wikipedia.org/wiki/歌手2018 "wikilink")》的第二期中演唱了此歌曲。\[16\]\[17\]\[18\]\[19\]\[20\]\[21\]\[22\]\[23\]此事在网络上获得了极大关注度。\[24\]
+2018年，[汪峰在](../Page/汪峰.md "wikilink")《[歌手2018](../Page/歌手2018.md "wikilink")》的第二期中演唱了此歌曲。\[16\]\[17\]\[18\]\[19\]\[20\]\[21\]\[22\]\[23\]此事在网络上获得了极大关注度。\[24\]
 
 2018年5月6日，[税子洺与](https://zh.wikipedia.org/wiki/税子洺 "wikilink")[魏允熙在第](https://zh.wikipedia.org/wiki/魏允熙 "wikilink")25届[北京大学生电影节的闭幕式上搭档演唱了此歌曲](../Page/北京大学生电影节.md "wikilink")。\[25\]
 

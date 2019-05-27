@@ -100,7 +100,7 @@ Samsung Galaxy J8 共有3个不同版本的型号，不同地区销售不同型�
 </tr>
 <tr class="even">
 <td><p>CPU</p></td>
-<td><p>1.8 GHz 八核心 <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait</a> 300<br />
+<td><p>1.8 GHz 八核心 <a href="../Page/Krait_(CPU).md" title="wikilink">Krait</a> 300<br />
 1.2 GHz 四核心 {{tsl|en|ARM Cortex-A53</p></td>
 <td><p>Cortex-A53}}</p></td>
 <td></td>

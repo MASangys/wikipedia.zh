@@ -4,7 +4,7 @@
 
 2019年1月13日，中央广播电视总台与[中国移动](https://zh.wikipedia.org/wiki/中国移动 "wikilink")、[华为公司在](https://zh.wikipedia.org/wiki/华为公司 "wikilink")[广东](https://zh.wikipedia.org/wiki/广东 "wikilink")[深圳开展](https://zh.wikipedia.org/wiki/深圳 "wikilink")[5G网络](../Page/5G.md "wikilink")[4K电视传输测试](https://zh.wikipedia.org/wiki/4K "wikilink")。此次测试通过中国移动的5G试验网络，将央视春晚深圳分会场4K超高清信号回传至北京机房，同时将4K超高清北京景观信号传送至位于深圳分会场的总台4K超高清转播车展现实时信号，从而为本届春晚5G技术的应用做好准备\[2\]。1月28日，中央广播电视总台、[中国联通](https://zh.wikipedia.org/wiki/中国联通 "wikilink")、华为公司又在[吉林](https://zh.wikipedia.org/wiki/吉林 "wikilink")[长春启动](https://zh.wikipedia.org/wiki/长春 "wikilink")5G网络[VR实时制作传输测试](../Page/虚拟现实.md "wikilink")\[3\]。
 
-2019年1月17日，[百度与央视联合宣布](../Page/百度.md "wikilink")，百度成为本届春晚的红包赞助商，观众可通过手机百度客户端参与红包互动\[4\]。翌日，央视春晚与[抖音短视频举行发布会](https://zh.wikipedia.org/wiki/抖音短视频 "wikilink")，宣布抖音成为本届春晚的独家社交媒体传播平台\[5\]。
+2019年1月17日，[百度与央视联合宣布](../Page/百度.md "wikilink")，百度成为本届春晚的红包赞助商，观众可通过手机百度客户端参与红包互动\[4\]。翌日，央视春晚与[抖音短视频举行发布会](../Page/抖音短视频.md "wikilink")，宣布抖音成为本届春晚的独家社交媒体传播平台\[5\]。
 
 2019年1月25日，央视宣布了本届春晚的主题，其主题为“奋进新时代、欢度幸福年”，同时在各类别节目方面彰显创新\[6\]。
 
@@ -147,7 +147,7 @@
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
-<td><p>小品《<a href="https://zh.wikipedia.org/wiki/“儿子”来了" title="wikilink">“儿子”来了</a>》</p></td>
+<td><p>小品《<a href="../Page/“儿子”来了.md" title="wikilink">“儿子”来了</a>》</p></td>
 <td><p>表演：<a href="../Page/葛优.md" title="wikilink">葛优</a>、<a href="../Page/蔡明.md" title="wikilink">蔡明</a>、<a href="../Page/潘长江.md" title="wikilink">潘长江</a>、乔杉、翟天临、郭晓小</p></td>
 </tr>
 <tr class="even">
@@ -246,12 +246,12 @@
 <td><p>33</p></td>
 <td><p>特别设计</p></td>
 <td><p>（一）全国道德模范、时代楷模拜年<br />
-（二）<a href="https://zh.wikipedia.org/wiki/四川航空8633号班机事故" title="wikilink">“英雄航班”川航3U8633机组</a></p></td>
+（二）<a href="../Page/四川航空8633号班机事故.md" title="wikilink">“英雄航班”川航3U8633机组</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>34</p></td>
 <td><p>歌舞《点赞新时代》</p></td>
-<td><p>演唱：<a href="https://zh.wikipedia.org/wiki/乌兰图雅" title="wikilink">乌兰图雅</a>（《2018我要上春晚》晋级选手）、师鹏、<a href="../Page/沙溢.md" title="wikilink">沙溢</a>、胡可、云朵、云飞<br />
+<td><p>演唱：<a href="../Page/乌兰图雅.md" title="wikilink">乌兰图雅</a>（《2018我要上春晚》晋级选手）、师鹏、<a href="../Page/沙溢.md" title="wikilink">沙溢</a>、胡可、云朵、云飞<br />
 领舞：张权威、王广成<br />
 表演：陕西省艺术馆民间社团、延安市安塞区民间艺术培训中心、哈尔滨市阿城区文化馆群众舞蹈团、海口市群众艺术馆群星舞蹈团、海口市琼山中学舞蹈团、四川省广安市前锋区宕渠舞蹈队、北京市东城区第二文化馆、北京市延庆区文化馆舞蹈团、山东省招远市实验幼儿园金娃艺术团</p></td>
 </tr>
@@ -330,7 +330,7 @@
 <tr class="even">
 <td><p>44</p></td>
 <td><p><a href="../Page/世界.md" title="wikilink">世界部分国家</a>、<a href="https://zh.wikipedia.org/wiki/国际" title="wikilink">国际组织及内地</a>、<a href="https://zh.wikipedia.org/wiki/港澳台" title="wikilink">港澳台各组织及机构领导人及高层拜年</a></p></td>
-<td><p>俄罗斯总统<a href="../Page/弗拉基米尔·普京.md" title="wikilink">弗拉基米尔·普京</a>、德国总理<a href="https://zh.wikipedia.org/wiki/安格拉·默克尔" title="wikilink">安格拉·默克尔</a>、日本内阁总理大臣<a href="../Page/安倍晋三.md" title="wikilink">安倍晋三</a>、韩国总统<a href="../Page/文在寅.md" title="wikilink">文在寅</a>、<a href="../Page/美国.md" title="wikilink">美国</a><a href="../Page/电影艺术与科学学院.md" title="wikilink">电影艺术与科学学院主席</a><a href="https://zh.wikipedia.org/wiki/谢丽尔·布恩·伊萨克斯" title="wikilink">谢丽尔·布恩·伊萨克斯</a>、<a href="https://zh.wikipedia.org/wiki/香港电影金像奖协会" title="wikilink">香港电影金像奖协会主席</a><a href="https://zh.wikipedia.org/wiki/尔冬升" title="wikilink">尔冬升</a>、<a href="https://zh.wikipedia.org/wiki/台北金马影展执行委员会" title="wikilink">台北金马影展执行委员会主席</a><a href="../Page/李安.md" title="wikilink">李安</a>、<a href="../Page/中国电影家协会.md" title="wikilink">中国电影家协会主席</a><a href="../Page/李雪健.md" title="wikilink">李雪健</a>、香港特别行政区行政长官<a href="https://zh.wikipedia.org/wiki/林郑月娥" title="wikilink">林郑月娥</a>、澳门特别行政区行政长官<a href="../Page/崔世安.md" title="wikilink">崔世安</a>、<a href="../Page/亚洲奥林匹克理事会.md" title="wikilink">亚洲奥林匹克理事会主席艾哈迈德</a>·法赫德·萨巴赫、国务院港澳办主任<a href="https://zh.wikipedia.org/wiki/张晓明" title="wikilink">张晓明</a></p></td>
+<td><p>俄罗斯总统<a href="../Page/弗拉基米尔·普京.md" title="wikilink">弗拉基米尔·普京</a>、德国总理<a href="https://zh.wikipedia.org/wiki/安格拉·默克尔" title="wikilink">安格拉·默克尔</a>、日本内阁总理大臣<a href="../Page/安倍晋三.md" title="wikilink">安倍晋三</a>、韩国总统<a href="../Page/文在寅.md" title="wikilink">文在寅</a>、<a href="../Page/美国.md" title="wikilink">美国</a><a href="../Page/电影艺术与科学学院.md" title="wikilink">电影艺术与科学学院主席</a><a href="../Page/谢丽尔·布恩·伊萨克斯.md" title="wikilink">谢丽尔·布恩·伊萨克斯</a>、<a href="https://zh.wikipedia.org/wiki/香港电影金像奖协会" title="wikilink">香港电影金像奖协会主席</a><a href="https://zh.wikipedia.org/wiki/尔冬升" title="wikilink">尔冬升</a>、<a href="https://zh.wikipedia.org/wiki/台北金马影展执行委员会" title="wikilink">台北金马影展执行委员会主席</a><a href="../Page/李安.md" title="wikilink">李安</a>、<a href="../Page/中国电影家协会.md" title="wikilink">中国电影家协会主席</a><a href="../Page/李雪健.md" title="wikilink">李雪健</a>、香港特别行政区行政长官<a href="https://zh.wikipedia.org/wiki/林郑月娥" title="wikilink">林郑月娥</a>、澳门特别行政区行政长官<a href="../Page/崔世安.md" title="wikilink">崔世安</a>、<a href="../Page/亚洲奥林匹克理事会.md" title="wikilink">亚洲奥林匹克理事会主席艾哈迈德</a>·法赫德·萨巴赫、国务院港澳办主任<a href="https://zh.wikipedia.org/wiki/张晓明" title="wikilink">张晓明</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>45</p></td>
@@ -355,7 +355,7 @@
 
 ### 直播
 
-  - [中央电视台综合频道](../Page/中国中央电视台综合频道.md "wikilink")（CCTV-1）（含[港澳版](https://zh.wikipedia.org/wiki/中国中央电视台综合频道_\(港澳版\) "wikilink")，[now寬頻電視541](https://zh.wikipedia.org/wiki/now_TV "wikilink")、[澳广视71](../Page/澳門廣播電視股份有限公司.md "wikilink")、[港台电视33](https://zh.wikipedia.org/wiki/港台电视33、33A "wikilink")）、[综艺频道](../Page/中国中央电视台综艺频道.md "wikilink")（CCTV-3）、[中文国际频道](../Page/中国中央电视台中文国际频道.md "wikilink")（CCTV-4）、[军事·农业频道](../Page/中国中央电视台军事·农业频道.md "wikilink")（CCTV-7）、[少儿频道](../Page/中国中央电视台少儿频道.md "wikilink")（CCTV-14）、[海外娱乐频道](https://zh.wikipedia.org/wiki/中国中央电视台娱乐频道 "wikilink")（CCTV-娱乐）、[4K超高清频道](../Page/中央广播电视总台4K超高清频道.md "wikilink")（CCTV
+  - [中央电视台综合频道](../Page/中国中央电视台综合频道.md "wikilink")（CCTV-1）（含[港澳版](../Page/中国中央电视台综合频道_\(港澳版\).md "wikilink")，[now寬頻電視541](https://zh.wikipedia.org/wiki/now_TV "wikilink")、[澳广视71](../Page/澳門廣播電視股份有限公司.md "wikilink")、[港台电视33](https://zh.wikipedia.org/wiki/港台电视33、33A "wikilink")）、[综艺频道](../Page/中国中央电视台综艺频道.md "wikilink")（CCTV-3）、[中文国际频道](../Page/中国中央电视台中文国际频道.md "wikilink")（CCTV-4）、[军事·农业频道](../Page/中国中央电视台军事·农业频道.md "wikilink")（CCTV-7）、[少儿频道](../Page/中国中央电视台少儿频道.md "wikilink")（CCTV-14）、[海外娱乐频道](https://zh.wikipedia.org/wiki/中国中央电视台娱乐频道 "wikilink")（CCTV-娱乐）、[4K超高清频道](../Page/中央广播电视总台4K超高清频道.md "wikilink")（CCTV
     UHD）、[CCTV大富](../Page/CCTV大富.md "wikilink")、[全国各地大部分卫星电视频道、地面无线电视频道、公交车移动电视频道](../Page/中华人民共和国电视广播.md "wikilink")：[北京时间](../Page/北京时间.md "wikilink")2019年2月4日20:00。
 
   - [澳視高清台](../Page/澳視高清台.md "wikilink")：[澳門時間](../Page/澳門標準時間.md "wikilink")2019年2月4日20:00。
@@ -388,7 +388,7 @@
 
       - [CCTV大富](../Page/CCTV大富.md "wikilink")：[日本標準時間](../Page/日本標準時間.md "wikilink")2月5日8:30-14:30
 
-  - [八度空间](../Page/八度空间_\(电视台\).md "wikilink")：[马来西亚时间](../Page/马来西亚标准时间.md "wikilink")2019年2月5日8:00-13:30（中插《[八度空间午间新闻](https://zh.wikipedia.org/wiki/八度空间华语新闻 "wikilink")》，录制[央视中文国际频道版本](../Page/中国中央电视台中文国际频道.md "wikilink")）。
+  - [八度空间](../Page/八度空间_\(电视台\).md "wikilink")：[马来西亚时间](../Page/马来西亚标准时间.md "wikilink")2019年2月5日8:00-13:30（中插《[八度空间午间新闻](../Page/八度空间华语新闻.md "wikilink")》，录制[央视中文国际频道版本](../Page/中国中央电视台中文国际频道.md "wikilink")）。
 
   - [北京卫视](../Page/北京卫视.md "wikilink")：2月5日1:00-6:00（录制[央视版本](../Page/中国中央电视台.md "wikilink")）
 
@@ -404,7 +404,7 @@
 
   - [国家版权局称经央视授权](../Page/国家版权局.md "wikilink")，[央视网拥有独家享有通过网络传播本届春晚的权利](../Page/央视网.md "wikilink")，未经授权，禁止任何个人和机构非法传播本届春晚\[12\]。
 
-  - 央视国际网络有限公司授权[爱奇艺](../Page/爱奇艺.md "wikilink")、[优酷](../Page/优酷.md "wikilink")、[快手](https://zh.wikipedia.org/wiki/快手 "wikilink")、[新浪微博](../Page/新浪微博.md "wikilink")、[腾讯音乐](https://zh.wikipedia.org/wiki/腾讯音乐 "wikilink")、[网易云音乐播出](../Page/网易云音乐.md "wikilink")2019年央视春晚节目，所有被授权网站播出的春晚节目皆带有“央视网CCTV.com”的标识\[13\]。
+  - 央视国际网络有限公司授权[爱奇艺](../Page/爱奇艺.md "wikilink")、[优酷](../Page/优酷.md "wikilink")、[快手](../Page/快手.md "wikilink")、[新浪微博](../Page/新浪微博.md "wikilink")、[腾讯音乐](https://zh.wikipedia.org/wiki/腾讯音乐 "wikilink")、[网易云音乐播出](../Page/网易云音乐.md "wikilink")2019年央视春晚节目，所有被授权网站播出的春晚节目皆带有“央视网CCTV.com”的标识\[13\]。
 
   - 境内通过[爱奇艺台湾站即可同步收看直播](../Page/爱奇艺.md "wikilink")。
 

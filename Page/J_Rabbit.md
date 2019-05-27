@@ -286,7 +286,7 @@ One》出道的一支[韓國雙人獨立樂團](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="even">
 <td><p><strong>4th</strong></p></td>
-<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a>《<a href="https://zh.wikipedia.org/wiki/Monstar" title="wikilink">Monstar</a>》Part.4</p>
+<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a>《<a href="../Page/Monstar.md" title="wikilink">Monstar</a>》Part.4</p>
 <ul>
 <li>發行日期：2013年6月8日</li>
 <li>發行公司：</li>
@@ -306,7 +306,7 @@ One》出道的一支[韓國雙人獨立樂團](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="even">
 <td><p><strong>6th</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>《<a href="https://zh.wikipedia.org/wiki/有理的愛情" title="wikilink">有理的愛情</a>》Part.4</p>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>《<a href="../Page/有理的愛情.md" title="wikilink">有理的愛情</a>》Part.4</p>
 <ul>
 <li>發行日期：2015年1月19日</li>
 <li>發行公司：</li>
@@ -503,7 +503,7 @@ One》出道的一支[韓國雙人獨立樂團](https://zh.wikipedia.org/wiki/�
 <td><p>2012年</p></td>
 <td><p>3月16日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS 2TV</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柳喜烈的寫生簿" title="wikilink">柳喜烈的寫生簿</a></p></td>
+<td><p><a href="../Page/柳喜烈的寫生簿.md" title="wikilink">柳喜烈的寫生簿</a></p></td>
 <td><p>EP136[8][9]</p></td>
 </tr>
 <tr class="even">
@@ -558,7 +558,7 @@ One》出道的一支[韓國雙人獨立樂團](https://zh.wikipedia.org/wiki/�
 <tr class="odd">
 <td><p>5月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS 2TV</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柳喜烈的寫生簿" title="wikilink">柳喜烈的寫生簿</a></p></td>
+<td><p><a href="../Page/柳喜烈的寫生簿.md" title="wikilink">柳喜烈的寫生簿</a></p></td>
 <td><p>EP229 追悼歲月號特輯[16]</p></td>
 <td></td>
 </tr>

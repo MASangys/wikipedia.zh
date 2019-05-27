@@ -1,5 +1,5 @@
 **Metapedia**
-是一个电子百科全书，其中包含[极右派](../Page/極右派.md "wikilink")、白人[民族主义](https://zh.wikipedia.org/wiki/白人民族主義 "wikilink")、[白人至上主义](../Page/白人優越主義.md "wikilink")、
+是一个电子百科全书，其中包含[极右派](../Page/極右派.md "wikilink")、白人[民族主义](../Page/白人民族主義.md "wikilink")、[白人至上主义](../Page/白人優越主義.md "wikilink")、
 [反犹太人](../Page/反犹太主义.md "wikilink")、[否认犹太人大屠杀以及](../Page/犹太人大屠杀否定论.md "wikilink")[新纳粹主义的观点](../Page/新納粹主義.md "wikilink")。\[1\]\[2\]\[3\]\[4\]网站自称专注于欧洲文化、[艺术](../Page/西方美术史.md "wikilink")、科学、哲学和政治。其最早的版本为瑞典语版，正式发起于2006年10月26日。英文版于2007年4月28日发起。匈牙利版的文章最多，截至2013年9月27日已达144,189。
 
 ## 运营
@@ -10,12 +10,12 @@ Metapedia由Lagerström和伦纳特·伯格领导，他也运行NFSE Media AB。
 
 ## 参见
 
-  - [另类右派](https://zh.wikipedia.org/wiki/另类右派 "wikilink")
+  - [另类右派](../Page/另类右派.md "wikilink")
   - Gab (社交网络)
   - [保守百科](../Page/保守百科.md "wikilink")
   - [新纳粹主义在瑞典](https://zh.wikipedia.org/wiki/Neo-Nazism_in_Sweden "wikilink")
   - [新右派](../Page/新右派.md "wikilink")
-  - [白人民族主義](https://zh.wikipedia.org/wiki/白人民族主義 "wikilink")
+  - [白人民族主義](../Page/白人民族主義.md "wikilink")
 
 ## 参考文献
 

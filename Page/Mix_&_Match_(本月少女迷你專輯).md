@@ -1,5 +1,5 @@
 《**Mix &
-Match**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[本月少女](https://zh.wikipedia.org/wiki/本月少女 "wikilink")（）在正式出道前第二個小分隊本月少女
+Match**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[本月少女](../Page/本月少女.md "wikilink")（）在正式出道前第二個小分隊本月少女
 **ODD EYE CIRCLE**（）推出的首張迷你專輯，由Kim Lip、眞率及Choerry組成。由Blockberry
 Creative製作，VLENDING及WINDMILL ENT發行，於2017年9月21日推出。此張專輯包括主打歌曲《Girl
 Front》，共收錄五首歌。 10月31日，推出首張迷你專輯改版《Max ＆ Match》，包含主打曲《Sweet Crazy

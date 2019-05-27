@@ -1,5 +1,5 @@
 **CSUR**（ConScript Unicode
-Registry）是一个协调[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")[私人使用区中分配给](https://zh.wikipedia.org/wiki/私人使用区 "wikilink")的[码位的志愿项目](https://zh.wikipedia.org/wiki/码位 "wikilink")。\[1\]这个项目由创立，并由他和[叶密豪维护](https://zh.wikipedia.org/wiki/叶密豪 "wikilink")，然而这个项目已有数年未更新。这个项目与[统一码联盟官方并无关联](https://zh.wikipedia.org/wiki/统一码联盟 "wikilink")。
+Registry）是一个协调[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")[私人使用区中分配给](../Page/私人使用区.md "wikilink")的[码位的志愿项目](https://zh.wikipedia.org/wiki/码位 "wikilink")。\[1\]这个项目由创立，并由他和[叶密豪维护](https://zh.wikipedia.org/wiki/叶密豪 "wikilink")，然而这个项目已有数年未更新。这个项目与[统一码联盟官方并无关联](https://zh.wikipedia.org/wiki/统一码联盟 "wikilink")。
 
 **UCSUR** （Under-ConScript Unicode
 Registry）是一个仿效CSUR，为尚未被CSUR支持的人工文字分配码位的项目。该项目由蕾貝卡·貝滕科特（Rebecca
@@ -80,7 +80,7 @@ CSUR和UCSUR包含了下列文字：
 <td></td>
 <td><p>align="center" data-sort-value="59440" | E830–E88F</p></td>
 <td><p>已废除，因其已被Unicode收录。<br />
-使用<a href="https://zh.wikipedia.org/wiki/德瑟雷特字母_(Unicode区段)" title="wikilink">德瑟雷特字母Unicode区段</a> （U+10400–U+1044F）。</p></td>
+使用<a href="../Page/德瑟雷特字母_(Unicode区段).md" title="wikilink">德瑟雷特字母Unicode区段</a> （U+10400–U+1044F）。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -373,7 +373,7 @@ CSUR和UCSUR包含了下列文字：
   - [Fairfax](https://zh.wikipedia.org/wiki/Fairfax "wikilink")，一款为文字编辑器和终端设计的[等宽字体](../Page/等宽字体.md "wikilink")\[11\]
   - [GNU Unifont](../Page/GNU_Unifont.md "wikilink")\[12\]
 
-曾有用户向Google提议，希望[Noto能支持CSUR和UCSUR](https://zh.wikipedia.org/wiki/Noto "wikilink")，但被拒绝，理由是Noto仅为被Unicode收录的文字提供支持\[13\]。
+曾有用户向Google提议，希望[Noto能支持CSUR和UCSUR](../Page/Noto.md "wikilink")，但被拒绝，理由是Noto仅为被Unicode收录的文字提供支持\[13\]。
 
 ## 参见
 

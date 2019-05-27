@@ -15,7 +15,7 @@ Length = 12分21秒 | Label =
 
 《Paprika》是小学生组合[Foorin的首支音乐作品](https://zh.wikipedia.org/wiki/Foorin "wikilink")，作品名因[红甜椒的可爱造型得名但和音乐内容及主题并无必然的联系](../Page/紅甜椒粉.md "wikilink")。\[5\]
 
-2018年7月19日，[YouTube上首先释出了该单曲的舞蹈音乐录影带](../Page/YouTube.md "wikilink")；随后在8月10日发布了名为“世界观音乐录影带”的视频。单曲由[米津玄师负责词曲制作及音乐制作](https://zh.wikipedia.org/wiki/米津玄师 "wikilink")；舞蹈则由和[菅原小春负责编排](https://zh.wikipedia.org/wiki/菅原小春 "wikilink")。\[6\]
+2018年7月19日，[YouTube上首先释出了该单曲的舞蹈音乐录影带](../Page/YouTube.md "wikilink")；随后在8月10日发布了名为“世界观音乐录影带”的视频。单曲由[米津玄师负责词曲制作及音乐制作](https://zh.wikipedia.org/wiki/米津玄师 "wikilink")；舞蹈则由和[菅原小春负责编排](../Page/菅原小春.md "wikilink")。\[6\]
 
 NHK将在8月到9月期间于其节目《》中播放该单曲。单曲表演的舞台由Foorin的舞蹈构成，同时[2020年夏季奥林匹克运动会吉祥物](../Page/2020年夏季奥林匹克运动会.md "wikilink")[Miraitowa和Someity也会出现](https://zh.wikipedia.org/wiki/Miraitowa和Someity "wikilink")。\[7\]
 同时该单曲也成为NHK的2020年东京奥运会应援曲。\[8\]

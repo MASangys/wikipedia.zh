@@ -22,7 +22,7 @@
 
 第1期乐队以高山和前REV的栗林为中心进行活动。此后加入了部分支援乐手，因对音乐的观点不同，栗林随后退出ZYYG，乐队活动暂时停止。
 
-  - （），担任主唱、作词。出生于[福冈县](../Page/福冈县.md "wikilink")\[7\]。除出道曲外其余全部歌曲作词均为高山。参加Being主办的BAD选拔合格而出道，同期还有前[BAAD](https://zh.wikipedia.org/wiki/BAAD "wikilink")，现[doa的](https://zh.wikipedia.org/wiki/Doa_\(乐团\) "wikilink")[大田紳一郎](https://zh.wikipedia.org/wiki/大田紳一郎 "wikilink")\[8\]。ZYYG解散后为的歌曲《LIVE》作曲。
+  - （），担任主唱、作词。出生于[福冈县](../Page/福冈县.md "wikilink")\[7\]。除出道曲外其余全部歌曲作词均为高山。参加Being主办的BAD选拔合格而出道，同期还有前[BAAD](../Page/BAAD.md "wikilink")，现[doa的](https://zh.wikipedia.org/wiki/Doa_\(乐团\) "wikilink")[大田紳一郎](../Page/大田紳一郎.md "wikilink")\[8\]。ZYYG解散后为的歌曲《LIVE》作曲。
 
   - （），担任贝斯、作曲、编曲。出生于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")。除出道曲外的所有歌曲作曲及编曲。在ZYYG活动同时也以作曲家身份为[ZARD](../Page/ZARD.md "wikilink")、[WANDS](../Page/WANDS.md "wikilink")、、[DEEN](../Page/DEEN.md "wikilink")、[柳原爱子等人提供歌曲](https://zh.wikipedia.org/wiki/柳原爱子_\(歌手\) "wikilink")。
 
@@ -42,7 +42,7 @@ PUNKS》发售后，乐队就再未有亮眼的表现。1999年以音乐理念�
 
   - （），担任吉他、作曲。出生于[兵库县](../Page/兵库县.md "wikilink")。与高山同样担任作曲。此后也为[岸本早未](../Page/岸本早未.md "wikilink")、[竹井詩織里](../Page/竹井詩織里.md "wikilink")、[三枝夕夏
     IN
-    db](https://zh.wikipedia.org/wiki/三枝夕夏_IN_db "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")、[BAND-MAID等进行作曲和编曲的工作](https://zh.wikipedia.org/wiki/BAND-MAID "wikilink")，别名为“ck510”\[11\]。
+    db](https://zh.wikipedia.org/wiki/三枝夕夏_IN_db "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")、[BAND-MAID等进行作曲和编曲的工作](../Page/BAND-MAID.md "wikilink")，别名为“ck510”\[11\]。
 
   - （），担任贝斯。出生于东京都。栗林退出后曾参加了秘密演唱会，而后正式加入乐队\[12\]。
 
@@ -140,7 +140,7 @@ PUNKS》发售后，乐队就再未有亮眼的表现。1999年以音乐理念�
 作曲：栗林誠一郎<br />
 編曲：栗林誠一郎</p></td>
 <td><p>20位</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/郡是" title="wikilink">郡是</a>「YG」广告曲</p></td>
+<td><p><a href="../Page/郡是.md" title="wikilink">郡是</a>「YG」广告曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">

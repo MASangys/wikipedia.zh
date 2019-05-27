@@ -109,10 +109,10 @@ Culture](https://zh.wikipedia.org/wiki/Banana_Culture "wikilink")）旗下男團
 
 ### 電台節目
 
-| 播出日期       | 電視台/ 網絡頻道     | 節目名稱                                                              | 參與成員 | 備註 |
-| ---------- | ------------- | ----------------------------------------------------------------- | ---- | -- |
-| 2019年2月20日 | MBC RADIO     | [IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink") |      |    |
-| 2019年2月28日 | Arirang Radio | SoundK                                                            |      |    |
+| 播出日期       | 電視台/ 網絡頻道     | 節目名稱                                           | 參與成員 | 備註 |
+| ---------- | ------------- | ---------------------------------------------- | ---- | -- |
+| 2019年2月20日 | MBC RADIO     | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |      |    |
+| 2019年2月28日 | Arirang Radio | SoundK                                         |      |    |
 
 ## 公演活動
 

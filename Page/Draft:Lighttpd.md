@@ -23,10 +23,10 @@ Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink").\[6\]
 ## Application support
 
 lighttpd supports the [FastCGI](../Page/FastCGI.md "wikilink"),
-[SCGI](https://zh.wikipedia.org/wiki/简单通用网关接口 "wikilink") and
-[CGI](../Page/通用网关接口.md "wikilink") interfaces to external programs,
-allowing web applications written in any programming language to be used
-with the server. As a particularly popular language,
+[SCGI](../Page/简单通用网关接口.md "wikilink") and
+[CGI](../Page/通用网关接口.md "wikilink") interfaces to external
+programs, allowing web applications written in any programming language
+to be used with the server. As a particularly popular language,
 [PHP](../Page/PHP.md "wikilink") performance has received special
 attention. Lighttpd's FastCGI can be configured to support PHP with
 [opcode caches](../Page/PHP加速軟件.md "wikilink") (like ) properly and
@@ -46,7 +46,7 @@ does not support
 
   - [Load balancing](../Page/负载均衡.md "wikilink")
     [FastCGI](../Page/FastCGI.md "wikilink"),
-    [SCGI](https://zh.wikipedia.org/wiki/简单通用网关接口 "wikilink") and [HTTP
+    [SCGI](../Page/简单通用网关接口.md "wikilink") and [HTTP
     proxy](../Page/代理服务器.md "wikilink") support
   - [`chroot`](../Page/Chroot.md "wikilink") support
   - Web server event mechanism performance – `select()`, `poll()`, and
@@ -61,13 +61,11 @@ does not support
     [OpenSSL](../Page/OpenSSL.md "wikilink").
   - Authentication against an [LDAP](../Page/轻型目录访问协议.md "wikilink")
     server
-  - [RRDtool](https://zh.wikipedia.org/wiki/RRDtool "wikilink")
-    statistics
+  - [RRDtool](../Page/RRDtool.md "wikilink") statistics
   - Rule-based downloading with possibility of a script handling only
     authentication
-  - [Server Side
-    Includes](https://zh.wikipedia.org/wiki/服务器端内嵌 "wikilink")
-    support (but not server-side CGI)\[8\]
+  - [Server Side Includes](../Page/服务器端内嵌.md "wikilink") support (but
+    not server-side CGI)\[8\]
   - Flexible [virtual hosting](../Page/虚拟主机.md "wikilink")
   - Modules support
   - Cache Meta Language (currently being replaced by mod_magnet)\[9\]

@@ -1,12 +1,12 @@
-**Tom-H@ck**（）是[日本的](../Page/日本.md "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")、[編曲家](https://zh.wikipedia.org/wiki/編曲家 "wikilink")。TaWaRa公司的[代表董事](https://zh.wikipedia.org/wiki/代表董事 "wikilink")\[1\]。
+**Tom-H@ck**（）是[日本的](../Page/日本.md "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")、[編曲家](https://zh.wikipedia.org/wiki/編曲家 "wikilink")。TaWaRa公司的[代表董事](../Page/代表董事.md "wikilink")\[1\]。
 
 出生於[宮城縣](../Page/宮城縣.md "wikilink")[石卷市](https://zh.wikipedia.org/wiki/石卷市 "wikilink")，本名為大嶋文博（おおしま
 ともひろ）。
 
 [2009年所發表的歌曲](../Page/2009年.md "wikilink")「[Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")」為其出道作。
 
-[2016年開始作為](../Page/2016年.md "wikilink")「[OxT](https://zh.wikipedia.org/wiki/OxT "wikilink")」和「[MYTH
-& ROID](https://zh.wikipedia.org/wiki/MYTH_&_ROID "wikilink")」的團員持續活動著。
+[2016年開始作為](../Page/2016年.md "wikilink")「[OxT](../Page/OxT.md "wikilink")」和「[MYTH
+& ROID](../Page/MYTH_&_ROID.md "wikilink")」的團員持續活動著。
 
 ## 人物
 
@@ -152,8 +152,7 @@ JAPAN的鼓手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[YOSHIKI的鼓�
       - BGM（yamazoとの共同）
       - 夏色プレゼント（作曲・編曲）
       - 毎日コハルビヨリ（作曲・編曲）
-  - [學園少女突襲者Animation
-    Channel](https://zh.wikipedia.org/wiki/學園少女突襲者 "wikilink")
+  - [學園少女突襲者Animation Channel](../Page/學園少女突襲者.md "wikilink")
       - 未来系ストライカーズ（作曲・編曲）
 
 ### OVA
@@ -196,13 +195,11 @@ JAPAN的鼓手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[YOSHIKI的鼓�
 
 ## 作品
 
-  - **[OxT](https://zh.wikipedia.org/wiki/OxT "wikilink")**
+  - **[OxT](../Page/OxT.md "wikilink")**
 
-※包含了以Tom-H@ck featuring
-[大石昌良為名義發表的作品](https://zh.wikipedia.org/wiki/大石昌良 "wikilink")
+※包含了以Tom-H@ck featuring [大石昌良為名義發表的作品](../Page/大石昌良.md "wikilink")
 
-  - **[MYTH &
-    ROID](https://zh.wikipedia.org/wiki/MYTH_&_ROID "wikilink")**
+  - **[MYTH & ROID](../Page/MYTH_&_ROID.md "wikilink")**
 
 <!-- end list -->
 

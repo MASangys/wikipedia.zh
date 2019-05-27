@@ -1,5 +1,5 @@
 《**FRIENDS
-II**》是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z於](../Page/B'z.md "wikilink")[1996年](../Page/1996年.md "wikilink")[11月25日由](../Page/11月25日.md "wikilink")[Rooms
+II**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z於](../Page/B'z.md "wikilink")[1996年](../Page/1996年.md "wikilink")[11月25日由](../Page/11月25日.md "wikilink")[Rooms
 RECORDS發行的第](../Page/VERMILLION_RECORDS.md "wikilink")5張迷你專輯。成為了4th迷你專輯《[FRIENDS](../Page/FRIENDS_\(B'z專輯\).md "wikilink")》的續編。
 
 ## 概要
@@ -8,7 +8,7 @@ RECORDS發行的第](../Page/VERMILLION_RECORDS.md "wikilink")5張迷你專輯�
 
 根據松本表示「對於B'z而言，迷你專輯即是實驗場。本次成為了一個挑戰B'z迄今為止從未做過類型的音樂企劃{{\#tag:ref||group="原文"}}」，本作有許多不同於以往的B'z作風（成人抒情搖滾）色彩強烈地樂曲，導入[巴薩諾瓦及](../Page/巴薩諾瓦.md "wikilink")[融合爵士樂](https://zh.wikipedia.org/wiki/融合爵士樂 "wikilink")、[雷鬼樂](https://zh.wikipedia.org/wiki/雷鬼樂 "wikilink")，多用了[長笛](https://zh.wikipedia.org/wiki/長笛 "wikilink")、[薩克斯風](../Page/薩克斯風.md "wikilink")、[Fender](../Page/芬達樂器公司.md "wikilink")[電鋼琴](../Page/電鋼琴.md "wikilink")（）及[假音等人聲成為其特徵](https://zh.wikipedia.org/wiki/假音 "wikilink")，松本的吉他聲亦使用了純淨的音色及撥弦技巧、等。
 
-在[LIVE-GYM上除了](https://zh.wikipedia.org/wiki/LIVE-GYM "wikilink")「SNOW」以外的所有樂曲皆未曾演奏。目前，本作是最後一張B'z在日本國內作為[CD發行的迷你專輯作品](../Page/CD.md "wikilink")\[1\]。
+在[LIVE-GYM上除了](../Page/LIVE-GYM.md "wikilink")「SNOW」以外的所有樂曲皆未曾演奏。目前，本作是最後一張B'z在日本國內作為[CD發行的迷你專輯作品](../Page/CD.md "wikilink")\[1\]。
 
 ## 收錄曲
 
@@ -22,7 +22,7 @@ RECORDS發行的第](../Page/VERMILLION_RECORDS.md "wikilink")5張迷你專輯�
         B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』。在年末所播放的『[MUSIC
         STATION SPECIAL](../Page/MUSIC_STATION_SUPER_LIVE.md "wikilink")
         』上，與次曲「傷心」被一同披露。
-        是本作中唯一在[LIVE-GYM上演奏過的樂曲](https://zh.wikipedia.org/wiki/LIVE-GYM "wikilink")，演奏於「B'z
+        是本作中唯一在[LIVE-GYM上演奏過的樂曲](../Page/LIVE-GYM.md "wikilink")，演奏於「B'z
         LIVE-GYM Pleasure 1997 "FIREBALL"」「B'z LIVE-GYM 1998
         "SURVIVE"」「B'z LIVE-GYM 2008 "ACTION"」。
 3.  **傷心** (5:04)
@@ -38,8 +38,7 @@ RECORDS發行的第](../Page/VERMILLION_RECORDS.md "wikilink")5張迷你專輯�
 5.  **sasanqua 〜冬之陽（）**(4:27)
       -
         根據松本表示，其為長編器樂曲。在松本的SOLO專輯『[House Of
-        Strings](https://zh.wikipedia.org/wiki/House_Of_Strings "wikilink")』『[Strings
-        Of My
+        Strings](../Page/House_Of_Strings.md "wikilink")』『[Strings Of My
         Soul](https://zh.wikipedia.org/wiki/Strings_Of_My_Soul "wikilink")』中個別收錄了其他版本。
 6.  **某暗戀（）**(4:03)
       -

@@ -24,7 +24,7 @@ Radio和Spacetoon English。
 
 ## 播出節目
 
-  - *[哆啦A夢2005年版](https://zh.wikipedia.org/wiki/哆啦A夢_\(2005年電視動畫\) "wikilink")*\[2\]
+  - *[哆啦A夢2005年版](../Page/哆啦A夢_\(2005年電視動畫\).md "wikilink")*\[2\]
   - *[趣怪守護仙](https://zh.wikipedia.org/wiki/趣怪守護仙 "wikilink")*\[3\]
   - *[瑪莎與熊](../Page/瑪莎與熊.md "wikilink")*\[4\]
   - *[Trucktown](https://zh.wikipedia.org/wiki/Trucktown "wikilink")*\[5\]

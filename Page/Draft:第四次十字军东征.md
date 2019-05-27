@@ -7,7 +7,7 @@
 
 经此一役，拜占庭帝国覆灭，由此而诞生了数个[殘存國家](../Page/殘存國家.md "wikilink")，其中较著名的有[尼西亚帝国](../Page/尼西亚帝国.md "wikilink")，[特拉比松帝国和](../Page/特拉比松帝国.md "wikilink")[伊庇魯斯專制國](../Page/伊庇魯斯專制國.md "wikilink")。而十字军亦建立了以[拉丁帝国为主导的数个](https://zh.wikipedia.org/wiki/拉丁帝国 "wikilink")[十字军国家](https://zh.wikipedia.org/wiki/十字军国家 "wikilink")，但这些政权的建立迅速导致了拉丁帝国与尼西亚帝国以及保加利亚帝国之间的。尼西亚帝国最终于1261年收复君士坦丁堡，并恢复了拜占庭帝国的统治。
 
-第四次十字军东征是致使[東西教會大分裂不可逆转的重要事件之一](https://zh.wikipedia.org/wiki/東西教會大分裂 "wikilink")，加深了东正教与天主教之间的裂痕。惨痛的战争对已日薄西山的拜占庭帝国造成了不可挽回的打击，并为接下来几个世纪穆斯林征服[安纳托利亚与](https://zh.wikipedia.org/wiki/安纳托利亚 "wikilink")[巴尔干半岛铺平了道路](../Page/巴尔干半岛.md "wikilink")。
+第四次十字军东征是致使[東西教會大分裂不可逆转的重要事件之一](../Page/東西教會大分裂.md "wikilink")，加深了东正教与天主教之间的裂痕。惨痛的战争对已日薄西山的拜占庭帝国造成了不可挽回的打击，并为接下来几个世纪穆斯林征服[安纳托利亚与](https://zh.wikipedia.org/wiki/安纳托利亚 "wikilink")[巴尔干半岛铺平了道路](../Page/巴尔干半岛.md "wikilink")。
 
 ## 背景
 
@@ -358,12 +358,12 @@ in Southern Italy. He died in Nicaea in 1211. In 1205,   the Latin
 Crusaders with his [Cuman](https://zh.wikipedia.org/wiki/库曼人 "wikilink")
 light cavalry.\[72\] On 14 April 1205, one year after the conquest of
 the city,  was decisively defeated and captured at the  by the
-[Bulgarians](https://zh.wikipedia.org/wiki/保加利亞人 "wikilink"). In 1205 or
-1206, the Bulgarian Emperor  mutilated him and left him to die, while
-others suggest he was kept captive in the famous  in the Bulgarian
-capital [Veliko Turnovo](../Page/大特尔诺沃.md "wikilink"), where he died
-under unknown circumstances. The Venetian Doge Dandolo died in May 1205.
-On 4 September 1207, the Bulgarians killed Boniface in an ambush. He was
+[Bulgarians](../Page/保加利亞人.md "wikilink"). In 1205 or 1206, the
+Bulgarian Emperor  mutilated him and left him to die, while others
+suggest he was kept captive in the famous  in the Bulgarian capital
+[Veliko Turnovo](../Page/大特尔诺沃.md "wikilink"), where he died under
+unknown circumstances. The Venetian Doge Dandolo died in May 1205. On 4
+September 1207, the Bulgarians killed Boniface in an ambush. He was
 succeeded by his infant son , who ruled until he reached adulthood but
 was eventually defeated by , the [despot of
 Epirus](../Page/伊庇魯斯專制國.md "wikilink") and a relative of
@@ -386,8 +386,7 @@ foundations. Constantinople was re-captured by the Nicaean Greeks under
 commerce with Venice was re-established.
 
 During the middle of the 15th century, the [Latin
-Church](https://zh.wikipedia.org/wiki/拉丁禮教會 "wikilink") ( [Roman
-Catholic
+Church](../Page/拉丁禮教會.md "wikilink") ( [Roman Catholic
 Church](https://zh.wikipedia.org/wiki/Roman_Catholic_Church "wikilink"))
 tried to organise a new crusade aimed at restoring the Eastern Roman or
 Byzantine Empire, which was gradually being torn down by the advancing

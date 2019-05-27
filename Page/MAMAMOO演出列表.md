@@ -19,7 +19,7 @@ MAMAMOO演出列表*'》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓�
 <tr class="even">
 <td><p>2016年</p></td>
 <td><p>8月13、14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="../Page/奧林匹克公園_(首爾).md" title="wikilink">首爾奧林匹克公園奧林匹克大廳</a></p></td>
 <td><p>7,000[1]</p></td>
@@ -58,7 +58,7 @@ MAMAMOO演出列表*'》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓�
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>8月18、19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="../Page/奧林匹克公園_(首爾).md" title="wikilink">首爾奧林匹克公園奧林匹克大廳</a>[4]</p></td>
 <td><p>10,000[5]</p></td>
@@ -96,7 +96,7 @@ MAMAMOO演出列表*'》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓�
 <tr class="even">
 <td><p>2019年</p></td>
 <td><p>4月19、20、21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/獎忠體育館" title="wikilink">獎忠體育館</a>[8]</p></td>
 </tr>

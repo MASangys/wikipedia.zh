@@ -1,6 +1,6 @@
 《**找到了Stray
 Kids**》（；；）是一部由[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Stray
-Kids出演的](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。2019年3月20日於韓國[Mnet頻道首播](https://zh.wikipedia.org/wiki/Mnet "wikilink")\[1\]，同時間也於日本網路電視台[AbemaTV同步播出](https://zh.wikipedia.org/wiki/AbemaTV "wikilink")\[2\]。
+Kids出演的](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。2019年3月20日於韓國[Mnet頻道首播](https://zh.wikipedia.org/wiki/Mnet "wikilink")\[1\]，同時間也於日本網路電視台[AbemaTV同步播出](../Page/AbemaTV.md "wikilink")\[2\]。
 
 ## 播出時間
 
@@ -31,7 +31,7 @@ Kids出演的](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")[真人實境
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a>(網路)</p></td>
+<td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV</a>(網路)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -73,7 +73,7 @@ Kids特有的「真人實境秀」\[3\]。
 <td><p>第二集</p></td>
 <td><p>2019年3月27日</p></td>
 <td><p>燦的Tour（찬내투어）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>{{·}}<a href="https://zh.wikipedia.org/wiki/窮遊豪華團" title="wikilink">窮遊豪華團</a>（짠내투어）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>{{·}}<a href="../Page/窮遊豪華團.md" title="wikilink">窮遊豪華團</a>（짠내투어）</p></td>
 <td><p>方燦</p></td>
 <td></td>
 </tr>
@@ -89,7 +89,7 @@ Kids特有的「真人實境秀」\[3\]。
 <td><p>第四集</p></td>
 <td><p>2019年4月10日</p></td>
 <td><p>宅西遊記（JYP(집)서유기）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>{{·}}<a href="https://zh.wikipedia.org/wiki/新西遊記" title="wikilink">新西遊記</a>（신서유기）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>{{·}}<a href="../Page/新西遊記.md" title="wikilink">新西遊記</a>（신서유기）</p></td>
 <td><p>I.N</p></td>
 <td></td>
 </tr>

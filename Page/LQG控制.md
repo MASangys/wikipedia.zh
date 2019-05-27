@@ -1,7 +1,7 @@
 **LQG控制**（linear–quadratic–Gaussian
 control）的全名是**線性二次高斯控制**，是[控制理论中的基礎](../Page/控制理论.md "wikilink")[最优控制問題之一](https://zh.wikipedia.org/wiki/最优控制 "wikilink")。此問題和存在[加性高斯白噪声的](../Page/加性高斯白噪声.md "wikilink")[線性系統有關](../Page/線性系統.md "wikilink")。此問題是要找到最佳的輸出回授律，可以讓二次[費用函數的期望值最小化](../Page/最优化.md "wikilink")。其輸出量測假設受到高斯噪声的影響，其初值也是高斯隨機向量。
 
-在「使用線性控制律」的最佳控制假設下，可以用completion-of-squares論述進行推導\[1\]。此控制律即為**LQG控制器**，就是[卡尔曼滤波](../Page/卡尔曼滤波.md "wikilink")（線性二次狀態估測器，LQE）和[LQR控制器的結合](https://zh.wikipedia.org/wiki/LQR控制器 "wikilink")。[分離原理指出狀態估測器和狀態回授可以獨立設計](https://zh.wikipedia.org/wiki/分離原理 "wikilink")。LQG控制可以應用在[线性时不变系统及线性](../Page/线性时不变系统理论.md "wikilink")[時變系統](https://zh.wikipedia.org/wiki/時變系統 "wikilink")，產生容易計算以及實現的線性動態回授控制器。LQG控制器本身是一個類似其受控系統的動態系統，兩者有相同的維度。
+在「使用線性控制律」的最佳控制假設下，可以用completion-of-squares論述進行推導\[1\]。此控制律即為**LQG控制器**，就是[卡尔曼滤波](../Page/卡尔曼滤波.md "wikilink")（線性二次狀態估測器，LQE）和[LQR控制器的結合](../Page/LQR控制器.md "wikilink")。[分離原理指出狀態估測器和狀態回授可以獨立設計](../Page/分離原理.md "wikilink")。LQG控制可以應用在[线性时不变系统及线性](../Page/线性时不变系统理论.md "wikilink")[時變系統](../Page/時變系統.md "wikilink")，產生容易計算以及實現的線性動態回授控制器。LQG控制器本身是一個類似其受控系統的動態系統，兩者有相同的維度。
 
 根據分離原理，在一些範圍較寬可能是非線性的控制器中，LQG控制器仍然是最佳的。也就是說「使用非線性控制架構不一定可以改善費用泛函的期望值」。這個版本的分離原理是[隨機控制的分離原理](https://zh.wikipedia.org/wiki/隨機控制的分離原理 "wikilink")（separation
 principle of stochastic
@@ -73,7 +73,7 @@ gain）矩陣，是由\({\mathbf{}}A(t), B(t), Q(t), R(t)\)及\({\mathbf{}}F\)�
   -
     \({\mathbf{}}K(t) = R^{-1}(t)B^\mathrm T(t)S(t).\)
 
-觀察上述二個矩陣Riccati微分方程，第一個沿時間從前往後算，而第二個是沿時間從後往前算，這稱為「對偶性」。第一個矩陣Riccati微分方程解了線性平方估測問題（LQE），第一個矩陣Riccati微分方程解了[LQR控制器問題](https://zh.wikipedia.org/wiki/LQR控制器 "wikilink")。這二個問題是對偶的，合起來就解了線性平方高斯控制問題（LQG)，因此LQG問題分成了LQE問題以及LQR問題，且可以獨立求解，因此LQG問題是「可分離的」。
+觀察上述二個矩陣Riccati微分方程，第一個沿時間從前往後算，而第二個是沿時間從後往前算，這稱為「對偶性」。第一個矩陣Riccati微分方程解了線性平方估測問題（LQE），第一個矩陣Riccati微分方程解了[LQR控制器問題](../Page/LQR控制器.md "wikilink")。這二個問題是對偶的，合起來就解了線性平方高斯控制問題（LQG)，因此LQG問題分成了LQE問題以及LQR問題，且可以獨立求解，因此LQG問題是「可分離的」。
 
 當\({\mathbf{}}A(t), B(t), C(t), Q(t), R(t)\)和雜訊密度矩陣\(\mathbf{}V(t)\),
 \(\mathbf{}W(t)\)不隨時間變化\({\mathbf{}}t\)，且\({\mathbf{}}T\)趨於無限大時，LQG控制器會變成非時變動態系統。此時上述二個矩陣Riccati微分方程會變成。
@@ -130,7 +130,7 @@ gain）矩陣，是由\({\mathbf{}}A(t), B(t), Q(t), R(t)\)及\({\mathbf{}}F\)�
   -
     \(S_i = A^\mathrm T_i \left( S_{i+1} - S_{i+1}B_i \left( B^\mathrm T_iS_{i+1}B_i+R_i \right)^{-1} B^\mathrm T_i S_{i+1} \right) A_i+Q_i, \quad S_N=F.\)
 
-若問題中所有的矩陣都是非時變的，且時間長度\({\mathbf{}}N\)趨近無窮大，則離散時間的LQG控制器就是非時變的。此時矩陣Riccati差分方程可以用離散時間的取代。可以決定非時變的離散線性二次估測器，以及非時變的離散[LQR控制器](https://zh.wikipedia.org/wiki/LQR控制器 "wikilink")。為了讓費用是有限值，會用\({\mathbf{}}J/N\)來代替\({\mathbf{}}J\)。
+若問題中所有的矩陣都是非時變的，且時間長度\({\mathbf{}}N\)趨近無窮大，則離散時間的LQG控制器就是非時變的。此時矩陣Riccati差分方程可以用離散時間的取代。可以決定非時變的離散線性二次估測器，以及非時變的離散[LQR控制器](../Page/LQR控制器.md "wikilink")。為了讓費用是有限值，會用\({\mathbf{}}J/N\)來代替\({\mathbf{}}J\)。
 
 ## 降階LQG問題
 

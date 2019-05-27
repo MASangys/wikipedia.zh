@@ -88,7 +88,7 @@ Wappy〜**」（）。
 
 ## 緊急告知防災廣播
 
-2013年，稚内市向全部居民無償分發緊急告知防災廣播（[緊急告知FM廣播](https://zh.wikipedia.org/wiki/緊急告知FM廣播 "wikilink")）\[14\]，緊急情況時可收聽FM稚內、[NHK-FM](../Page/NHK-FM頻率.md "wikilink")[旭川](https://zh.wikipedia.org/wiki/NHK旭川放送局 "wikilink")、[NHK第1放送](https://zh.wikipedia.org/wiki/NHK廣播第1頻率 "wikilink")、[NHK第2放送](https://zh.wikipedia.org/wiki/NHK廣播第2頻率 "wikilink")、、\[15\]。
+2013年，稚内市向全部居民無償分發緊急告知防災廣播（[緊急告知FM廣播](https://zh.wikipedia.org/wiki/緊急告知FM廣播 "wikilink")）\[14\]，緊急情況時可收聽FM稚內、[NHK-FM](../Page/NHK-FM頻率.md "wikilink")[旭川](../Page/NHK旭川放送局.md "wikilink")、[NHK第1放送](https://zh.wikipedia.org/wiki/NHK廣播第1頻率 "wikilink")、[NHK第2放送](https://zh.wikipedia.org/wiki/NHK廣播第2頻率 "wikilink")、、\[15\]。
 
 ## 參考資料
 

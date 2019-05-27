@@ -1,19 +1,19 @@
 **gugudan SEMINA / gu9udan
 SEMINA**（[韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink")：구구단
-세미나）是韩国人氣女子音乐团体[gugudan所组成的第二个子团](https://zh.wikipedia.org/wiki/gugudan "wikilink")，成员有[娜英](https://zh.wikipedia.org/wiki/娜英 "wikilink")、[世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")。
+세미나）是韩国人氣女子音乐团体[gugudan所组成的第二个子团](https://zh.wikipedia.org/wiki/gugudan "wikilink")，成员有[娜英](../Page/娜英.md "wikilink")、[世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")。
 
 ## 成员
 
 \*注：**加粗**名字的为队长
 
-| 成員列表                                                       |
-| ---------------------------------------------------------- |
-| 藝名                                                         |
-| 羅馬拼音                                                       |
-| [**NAYOUNG**](https://zh.wikipedia.org/wiki/娜英 "wikilink") |
-| [SEJEONG](https://zh.wikipedia.org/wiki/金世正 "wikilink")    |
-| [MINA](https://zh.wikipedia.org/wiki/康美娜 "wikilink")       |
-|                                                            |
+| 成員列表                                                    |
+| ------------------------------------------------------- |
+| 藝名                                                      |
+| 羅馬拼音                                                    |
+| [**NAYOUNG**](../Page/娜英.md "wikilink")                 |
+| [SEJEONG](https://zh.wikipedia.org/wiki/金世正 "wikilink") |
+| [MINA](https://zh.wikipedia.org/wiki/康美娜 "wikilink")    |
+|                                                         |
 
 ## 音乐作品
 
@@ -36,7 +36,7 @@ SEMINA**（[韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink")：구구단
 <li>專輯銷量:11,225<ref></li>
 <li><p></ref></p></li>
 <li>语言：<a href="../Page/朝鮮語.md" title="wikilink">韩语</a></li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>唱片公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>샘이나（妒忌 / SEMINA）</strong></li>

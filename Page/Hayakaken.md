@@ -117,7 +117,7 @@ Hayakaken分為「無記名式」及「記名式」兩種，無記名卡片僅�
       - [Kitaca](../Page/Kitaca.md "wikilink") -
         [JR北海道](https://zh.wikipedia.org/wiki/JR北海道 "wikilink")
       - [Suica](../Page/Suica.md "wikilink") -
-        [JR東日本](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")、[伊豆急行](https://zh.wikipedia.org/wiki/伊豆急行 "wikilink")、[東京單軌電車等](https://zh.wikipedia.org/wiki/東京單軌電車 "wikilink")
+        [JR東日本](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")、[伊豆急行](../Page/伊豆急行.md "wikilink")、[東京單軌電車等](https://zh.wikipedia.org/wiki/東京單軌電車 "wikilink")
       - [PASMO](../Page/PASMO.md "wikilink") - 首都圏私鐵及巴士業者
       - [TOICA](../Page/TOICA.md "wikilink") -
         [JR東海](https://zh.wikipedia.org/wiki/JR東海 "wikilink")

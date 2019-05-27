@@ -1,4 +1,4 @@
-**dofollow**是[HTML的一个属性](../Page/HTML.md "wikilink")，默认情况下，所有链接都是dofollow链接，除非被手动修改为[nofollow链接或由网站设置自动更改](https://zh.wikipedia.org/wiki/nofollow "wikilink")。[搜索引擎抓取工具](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")，换句话说，它们会继续抓取它们通过标准链接发现的其他页面。通过了解经常链接到哪些网页，搜索引擎可以确定[网站在搜索结果中的](https://zh.wikipedia.org/wiki/网站 "wikilink")[排名](https://zh.wikipedia.org/wiki/排名 "wikilink")。链接只是众多排名因素之一。相比之下，nofollow链接有一些[代码要求](../Page/代码.md "wikilink")[搜索引擎不抓取它们](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")。，特别是如果用户提交或链接到广告。\[1\]
+**dofollow**是[HTML的一个属性](../Page/HTML.md "wikilink")，默认情况下，所有链接都是dofollow链接，除非被手动修改为[nofollow链接或由网站设置自动更改](https://zh.wikipedia.org/wiki/nofollow "wikilink")。[搜索引擎抓取工具](../Page/搜索引擎.md "wikilink")，换句话说，它们会继续抓取它们通过标准链接发现的其他页面。通过了解经常链接到哪些网页，搜索引擎可以确定[网站在搜索结果中的](https://zh.wikipedia.org/wiki/网站 "wikilink")[排名](https://zh.wikipedia.org/wiki/排名 "wikilink")。链接只是众多排名因素之一。相比之下，nofollow链接有一些[代码要求](../Page/代码.md "wikilink")[搜索引擎不抓取它们](../Page/搜索引擎.md "wikilink")。，特别是如果用户提交或链接到广告。\[1\]
 
 ``` text
 <a rel="nofollow" href="http://example.com">范例</a>

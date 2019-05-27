@@ -1,6 +1,6 @@
 《**Vocal
 Play**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Channel
-A於](../Page/Channel_A.md "wikilink")2018年推出的綜藝節目，由[盧洪哲](https://zh.wikipedia.org/wiki/盧洪哲 "wikilink")、[吳尚津等人](https://zh.wikipedia.org/wiki/吳尚津 "wikilink")\[1\]共同主持，節目主軸為不依靠[樂器](https://zh.wikipedia.org/wiki/樂器 "wikilink")，只用人的聲音完成[音樂的](https://zh.wikipedia.org/wiki/音樂 "wikilink")[阿卡貝拉純人聲無](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")[伴奏](https://zh.wikipedia.org/wiki/伴奏 "wikilink")[演唱](https://zh.wikipedia.org/wiki/演唱 "wikilink")[音樂綜藝](https://zh.wikipedia.org/wiki/音樂 "wikilink")\[2\]\[3\]。
+A於](../Page/Channel_A.md "wikilink")2018年推出的綜藝節目，由[盧洪哲](https://zh.wikipedia.org/wiki/盧洪哲 "wikilink")、[吳尚津等人](../Page/吳尚津.md "wikilink")\[1\]共同主持，節目主軸為不依靠[樂器](https://zh.wikipedia.org/wiki/樂器 "wikilink")，只用人的聲音完成[音樂的](https://zh.wikipedia.org/wiki/音樂 "wikilink")[阿卡貝拉純人聲無](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")[伴奏](https://zh.wikipedia.org/wiki/伴奏 "wikilink")[演唱](https://zh.wikipedia.org/wiki/演唱 "wikilink")[音樂綜藝](https://zh.wikipedia.org/wiki/音樂 "wikilink")\[2\]\[3\]。
 
 ## 規則
 
@@ -11,7 +11,7 @@ A於](../Page/Channel_A.md "wikilink")2018年推出的綜藝節目，由[盧洪�
 ### 製作人
 
   - （[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")
-    《[Ah-Choo](https://zh.wikipedia.org/wiki/Lovelyz8 "wikilink")》監製）
+    《[Ah-Choo](../Page/Lovelyz8.md "wikilink")》監製）
 
   -
   - [Muzie](https://zh.wikipedia.org/wiki/Muzie "wikilink")

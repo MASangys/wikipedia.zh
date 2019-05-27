@@ -15,13 +15,13 @@
 <tbody>
 <tr class="odd">
 <td><p>1月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/今夜就这样" title="wikilink">今夜就这样</a></p></td>
+<td><p><a href="../Page/今夜就这样.md" title="wikilink">今夜就这样</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/爱缪" title="wikilink">爱缪</a></p></td>
 <td><p>148.6</p></td>
 </tr>
 <tr class="even">
 <td><p>1月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金盏花_(爱缪单曲)" title="wikilink">金盏花</a></p></td>
+<td><p><a href="../Page/金盏花_(爱缪单曲).md" title="wikilink">金盏花</a></p></td>
 <td><p>165.2[1]</p></td>
 <td></td>
 </tr>
@@ -72,8 +72,8 @@
 
 ## 参见
 
-  - [2019年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2019年Oricon單曲週榜冠軍作品列表 "wikilink")
-  - [2019年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2019年Oricon專輯週榜冠軍作品列表 "wikilink")
+  - [2019年Oricon單曲週榜冠軍作品列表](../Page/2019年Oricon單曲週榜冠軍作品列表.md "wikilink")
+  - [2019年Oricon專輯週榜冠軍作品列表](../Page/2019年Oricon專輯週榜冠軍作品列表.md "wikilink")
 
 ## 参考
 

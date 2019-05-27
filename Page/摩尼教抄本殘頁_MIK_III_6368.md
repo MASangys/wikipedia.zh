@@ -1,5 +1,5 @@
 **摩尼教抄本殘頁編號「
-6368」**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：）是一張收藏於德國的[摩尼教](../Page/摩尼教.md "wikilink")[泥金裝飾手抄本殘頁斷片](../Page/泥金裝飾手抄本.md "wikilink")，繪製於8–9世紀期間，20世紀初被[德國吐魯番考察隊發現於新疆](https://zh.wikipedia.org/wiki/德國吐魯番考察隊 "wikilink")[高昌故城](https://zh.wikipedia.org/wiki/高昌故城 "wikilink")寺院遺址。殘頁長17.2釐米、寬11.2釐米，兩面均繪有插圖，上書文本為[粟特語](https://zh.wikipedia.org/wiki/粟特語 "wikilink")。
+6368」**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：）是一張收藏於德國的[摩尼教](../Page/摩尼教.md "wikilink")[泥金裝飾手抄本殘頁斷片](../Page/泥金裝飾手抄本.md "wikilink")，繪製於8–9世紀期間，20世紀初被[德國吐魯番考察隊發現於新疆](../Page/德國吐魯番考察隊.md "wikilink")[高昌故城](https://zh.wikipedia.org/wiki/高昌故城 "wikilink")寺院遺址。殘頁長17.2釐米、寬11.2釐米，兩面均繪有插圖，上書文本為[粟特語](https://zh.wikipedia.org/wiki/粟特語 "wikilink")。
 
 ## 描述
 

@@ -9,7 +9,7 @@ A至Type C的初回限定盤与通常盤、及劇場盤共7版本发行。
 发表了将自[HKT48毕业的](../Page/HKT48.md "wikilink")[指原莉乃擔任单曲Center](../Page/指原莉乃.md "wikilink")\[3\]。这也是指原初次担任反映[AKB48选拔总选举结果的单曲之外的单曲Center](https://zh.wikipedia.org/wiki/AKB48选拔总选举 "wikilink")\[4\]。
 
 选拔成员人数比前作减少1名，从23人变为22人，[矢作萌夏初次进入选拔名单](https://zh.wikipedia.org/wiki/矢作萌夏 "wikilink")\[5\]，[吉田朱里](../Page/吉田朱里.md "wikilink")（[NMB48](../Page/NMB48.md "wikilink")）自《[感伤列车](https://zh.wikipedia.org/wiki/感伤列车 "wikilink")》后相隔2作、[松井珠理奈](../Page/松井珠理奈.md "wikilink")（[SKE48](../Page/SKE48.md "wikilink")）及[松岡花](../Page/松岡花.md "wikilink")（HKT48）自《[Teacher
-Teacher](https://zh.wikipedia.org/wiki/Teacher_Teacher "wikilink")》后相隔3作、[坂口渚沙自](https://zh.wikipedia.org/wiki/坂口渚沙 "wikilink")《[我们不战斗](https://zh.wikipedia.org/wiki/我们不战斗 "wikilink")》后相隔15作再次进入选拔名单。前作选拔成员中，除了专任[IZ\*ONE活动中的](../Page/IZ*ONE.md "wikilink")[本田仁美](../Page/本田仁美.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[矢吹奈子以外](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")，另有[倉野尾成美](https://zh.wikipedia.org/wiki/倉野尾成美 "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")（2019年5月6日自AKB48毕业）、[宮崎美穗未获选为本作选拔](../Page/宮崎美穗.md "wikilink")。
+Teacher](../Page/Teacher_Teacher.md "wikilink")》后相隔3作、[坂口渚沙自](../Page/坂口渚沙.md "wikilink")《[我们不战斗](https://zh.wikipedia.org/wiki/我们不战斗 "wikilink")》后相隔15作再次进入选拔名单。前作选拔成员中，除了专任[IZ\*ONE活动中的](../Page/IZ*ONE.md "wikilink")[本田仁美](../Page/本田仁美.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[矢吹奈子以外](../Page/矢吹奈子.md "wikilink")，另有[倉野尾成美](../Page/倉野尾成美.md "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")（2019年5月6日自AKB48毕业）、[宮崎美穗未获选为本作选拔](../Page/宮崎美穗.md "wikilink")。
 
 单曲标题公布后，指原在個人[Twitter上调侃](../Page/Twitter.md "wikilink")「果然 越来越有趣了
 秋元老师真的越来越有趣」（；秋元指該曲作詞者兼AKB48總製作人[秋元康](../Page/秋元康.md "wikilink")）“秋元老师难道是辣妹吗”（）\[6\]。歌曲不仅是一首王道的偶像歌曲，也是一首蕴含了离别的寂寞和踏上新的旅程的祝福的信息的歌曲\[7\]。
@@ -68,8 +68,8 @@ yet](../Page/Not_yet.md "wikilink")、公演曲等的服装共3450套（345与�
   - Team 4：山内瑞葵
   - Team 4／STU48：[岡田奈奈](../Page/岡田奈奈_\(AKB48\).md "wikilink")
   - Team 8／Team
-    A：[岡部麟](https://zh.wikipedia.org/wiki/岡部麟 "wikilink")、[小栗有以](https://zh.wikipedia.org/wiki/小栗有以 "wikilink")、下尾美羽
-  - Team 8／Team 4：[坂口渚沙](https://zh.wikipedia.org/wiki/坂口渚沙 "wikilink")
+    A：[岡部麟](../Page/岡部麟.md "wikilink")、[小栗有以](../Page/小栗有以.md "wikilink")、下尾美羽
+  - Team 8／Team 4：[坂口渚沙](../Page/坂口渚沙.md "wikilink")
   - SKE48 Team S：[松井珠理奈](../Page/松井珠理奈.md "wikilink")
   - SKE48 Team E：菅原茉椰、[須田亞香里](../Page/須田亞香里.md "wikilink")
   - NMB48 Team N：[吉田朱里](../Page/吉田朱里.md "wikilink")
@@ -78,8 +78,8 @@ yet](../Page/Not_yet.md "wikilink")、公演曲等的服装共3450套（345与�
     H：[指原莉乃](../Page/指原莉乃.md "wikilink")、[田中美久](../Page/田中美久_\(HKT48\).md "wikilink")
   - HKT48 Team TII：[松岡花](../Page/松岡花.md "wikilink")
   - NGT48 Team NIII：[荻野由佳](../Page/荻野由佳.md "wikilink")
-  - NGT48 Team G：[中井莉加](https://zh.wikipedia.org/wiki/中井莉加 "wikilink")
-  - STU48：[瀧野由美子](https://zh.wikipedia.org/wiki/瀧野由美子 "wikilink")
+  - NGT48 Team G：[中井莉加](../Page/中井莉加.md "wikilink")
+  - STU48：[瀧野由美子](../Page/瀧野由美子.md "wikilink")
 
 ### 我也是偶像\!
 
@@ -94,17 +94,17 @@ yet](../Page/Not_yet.md "wikilink")、公演曲等的服装共3450套（345与�
   - Team
     A：[加藤玲奈](../Page/加藤玲奈_\(AKB48\).md "wikilink")、[鈴木胡桃](https://zh.wikipedia.org/wiki/鈴木胡桃 "wikilink")、[田口愛佳](https://zh.wikipedia.org/wiki/田口愛佳 "wikilink")、[西川怜](https://zh.wikipedia.org/wiki/西川怜 "wikilink")、[前田彩佳](https://zh.wikipedia.org/wiki/前田彩佳 "wikilink")
   - Team
-    K：[込山榛香](https://zh.wikipedia.org/wiki/込山榛香 "wikilink")、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")
+    K：[込山榛香](../Page/込山榛香.md "wikilink")、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")
   - Team
     B：[久保怜音](https://zh.wikipedia.org/wiki/久保怜音 "wikilink")、[谷口惠](../Page/谷口惠.md "wikilink")
   - Team
     4：[浅井七海](https://zh.wikipedia.org/wiki/浅井七海 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")
   - Team 8／Team A：[谷川聖](../Page/谷川聖.md "wikilink")
   - Team 8／Team
-    K：[横山結衣](https://zh.wikipedia.org/wiki/横山結衣 "wikilink")、、[山田菜菜美](../Page/山田菜菜美.md "wikilink")、[倉野尾成美](https://zh.wikipedia.org/wiki/倉野尾成美 "wikilink")
+    K：[横山結衣](https://zh.wikipedia.org/wiki/横山結衣 "wikilink")、、[山田菜菜美](../Page/山田菜菜美.md "wikilink")、[倉野尾成美](../Page/倉野尾成美.md "wikilink")
   - Team 8／Team B：[佐藤栞](https://zh.wikipedia.org/wiki/佐藤栞 "wikilink")、
   - Team 8／Team
-    4：[大西桃香](https://zh.wikipedia.org/wiki/大西桃香 "wikilink")、[行天優莉奈](https://zh.wikipedia.org/wiki/行天優莉奈 "wikilink")
+    4：[大西桃香](../Page/大西桃香.md "wikilink")、[行天優莉奈](https://zh.wikipedia.org/wiki/行天優莉奈 "wikilink")
 
 ### 初戀之門
 
@@ -113,16 +113,16 @@ yet](../Page/Not_yet.md "wikilink")、公演曲等的服装共3450套（345与�
 （中心成員：山下美月）
 
   - Team K：矢作萌夏
-  - Team B：[福岡聖菜](https://zh.wikipedia.org/wiki/福岡聖菜 "wikilink")
+  - Team B：[福岡聖菜](../Page/福岡聖菜.md "wikilink")
   - Team 4：[山內瑞葵](https://zh.wikipedia.org/wiki/山內瑞葵 "wikilink")
   - Team 8／Team
-    A：[岡部麟](https://zh.wikipedia.org/wiki/岡部麟 "wikilink")、[小栗有以](https://zh.wikipedia.org/wiki/小栗有以 "wikilink")、[下尾美羽](https://zh.wikipedia.org/wiki/下尾美羽 "wikilink")
-  - Team 8／Team 4：[坂口渚沙](https://zh.wikipedia.org/wiki/坂口渚沙 "wikilink")
+    A：[岡部麟](../Page/岡部麟.md "wikilink")、[小栗有以](../Page/小栗有以.md "wikilink")、[下尾美羽](https://zh.wikipedia.org/wiki/下尾美羽 "wikilink")
+  - Team 8／Team 4：[坂口渚沙](../Page/坂口渚沙.md "wikilink")
   - NMB48 Team BII：[梅山恋和](https://zh.wikipedia.org/wiki/梅山恋和 "wikilink")
   - HKT48 Team H：[田中美久](../Page/田中美久_\(HKT48\).md "wikilink")
-  - STU48：[瀧野由美子](https://zh.wikipedia.org/wiki/瀧野由美子 "wikilink")
-  - 乃木坂46：[梅澤美波](https://zh.wikipedia.org/wiki/梅澤美波 "wikilink")、[大園桃子](https://zh.wikipedia.org/wiki/大園桃子 "wikilink")、[久保史緒里](https://zh.wikipedia.org/wiki/久保史緒里 "wikilink")、[山下美月](../Page/山下美月.md "wikilink")、[与田祐希](https://zh.wikipedia.org/wiki/与田祐希 "wikilink")
-  - 櫸坂46：[小池美波](https://zh.wikipedia.org/wiki/小池美波 "wikilink")、[小林由依](https://zh.wikipedia.org/wiki/小林由依 "wikilink")、[菅井友香](https://zh.wikipedia.org/wiki/菅井友香 "wikilink")、[鈴本美愉](https://zh.wikipedia.org/wiki/鈴本美愉 "wikilink")、[土生瑞穗](../Page/土生瑞穗.md "wikilink")
+  - STU48：[瀧野由美子](../Page/瀧野由美子.md "wikilink")
+  - 乃木坂46：[梅澤美波](../Page/梅澤美波.md "wikilink")、[大園桃子](https://zh.wikipedia.org/wiki/大園桃子 "wikilink")、[久保史緒里](../Page/久保史緒里.md "wikilink")、[山下美月](../Page/山下美月.md "wikilink")、[与田祐希](https://zh.wikipedia.org/wiki/与田祐希 "wikilink")
+  - 櫸坂46：[小池美波](../Page/小池美波.md "wikilink")、[小林由依](../Page/小林由依.md "wikilink")、[菅井友香](../Page/菅井友香.md "wikilink")、[鈴本美愉](https://zh.wikipedia.org/wiki/鈴本美愉 "wikilink")、[土生瑞穗](../Page/土生瑞穗.md "wikilink")
   - 日向坂46：、、、、
 
 ### 必然性
@@ -137,10 +137,10 @@ yet](../Page/Not_yet.md "wikilink")、公演曲等的服装共3450套（345与�
   - Team 8／Team A：小栗有以
   - SKE48 Team E：須田亞香里
   - HKT48 Team H：指原莉乃
-  - 乃木坂46：[梅澤美波](https://zh.wikipedia.org/wiki/梅澤美波 "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")、[白石麻衣](../Page/白石麻衣.md "wikilink")、[西野七瀨](../Page/西野七瀨.md "wikilink")
+  - 乃木坂46：[梅澤美波](../Page/梅澤美波.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")、[白石麻衣](../Page/白石麻衣.md "wikilink")、[西野七瀨](../Page/西野七瀨.md "wikilink")
     、[堀未央奈](../Page/堀未央奈.md "wikilink")、[山下美月](../Page/山下美月.md "wikilink")
-  - 櫸坂46：[小池美波](https://zh.wikipedia.org/wiki/小池美波 "wikilink")、[小林由依](https://zh.wikipedia.org/wiki/小林由依 "wikilink")、[菅井友香](https://zh.wikipedia.org/wiki/菅井友香 "wikilink")、[長濱禰留](https://zh.wikipedia.org/wiki/長濱禰留 "wikilink")、[土生瑞穗](../Page/土生瑞穗.md "wikilink")、[渡邊理佐](https://zh.wikipedia.org/wiki/渡邊理佐 "wikilink")
-  - IZ\*ONE：[張員瑛](../Page/張員瑛.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[曺柔理](../Page/曺柔理.md "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")、[權恩妃](https://zh.wikipedia.org/wiki/權恩妃 "wikilink")、[本田仁美](../Page/本田仁美.md "wikilink")
+  - 櫸坂46：[小池美波](../Page/小池美波.md "wikilink")、[小林由依](../Page/小林由依.md "wikilink")、[菅井友香](../Page/菅井友香.md "wikilink")、[長濱禰留](../Page/長濱禰留.md "wikilink")、[土生瑞穗](../Page/土生瑞穗.md "wikilink")、[渡邊理佐](https://zh.wikipedia.org/wiki/渡邊理佐 "wikilink")
+  - IZ\*ONE：[張員瑛](../Page/張員瑛.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[曺柔理](../Page/曺柔理.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[權恩妃](https://zh.wikipedia.org/wiki/權恩妃 "wikilink")、[本田仁美](../Page/本田仁美.md "wikilink")
 
 ### 從屋顶呼喊
 

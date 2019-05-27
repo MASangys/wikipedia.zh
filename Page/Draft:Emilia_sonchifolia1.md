@@ -60,7 +60,7 @@ India，[東南亞](https://zh.wikipedia.org/wiki/東南亞 "wikilink") Southeas
 
 ## 生物學和生態學
 
-一點紅在約90天內完成其[生命週期](https://zh.wikipedia.org/wiki/生物生命週期 "wikilink")（包含發芽到凋零的過程）。
+一點紅在約90天內完成其[生命週期](../Page/生物生命週期.md "wikilink")（包含發芽到凋零的過程）。
 
 種子由[瘦果的顏色分兩種](https://zh.wikipedia.org/wiki/瘦果 "wikilink")。\[6\]
 首先，是花頭小花的外圈，產生紅色和棕色的瘦果。

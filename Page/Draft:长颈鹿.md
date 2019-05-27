@@ -755,11 +755,10 @@ appeared in animated films, as minor characters in
 [华特迪士尼公司](../Page/华特迪士尼公司.md "wikilink")'s
 *[狮子王](../Page/狮子王.md "wikilink")* and
 *[小飞象](../Page/小飞象.md "wikilink")*, and in more prominent
-roles in *[野蛮任务](https://zh.wikipedia.org/wiki/野蛮任务 "wikilink")* and in
-the *[馬達加斯加系列電影](https://zh.wikipedia.org/wiki/馬達加斯加系列電影 "wikilink")*
-films.  has been a popular
-[奶嘴](https://zh.wikipedia.org/wiki/奶嘴 "wikilink") since 1961.
-Another famous fictional giraffe is the Toys "R" Us mascot
+roles in *[野蛮任务](../Page/野蛮任务.md "wikilink")* and in the
+*[馬達加斯加系列電影](../Page/馬達加斯加系列電影.md "wikilink")* films.
+has been a popular [奶嘴](https://zh.wikipedia.org/wiki/奶嘴 "wikilink")
+since 1961. Another famous fictional giraffe is the Toys "R" Us mascot
 [玩具反斗城](../Page/玩具反斗城.md "wikilink").\[310\]
 
 The giraffe has also been used for some scientific experiments and

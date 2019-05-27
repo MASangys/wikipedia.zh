@@ -1,4 +1,4 @@
-**林茂县**（），是[马来西亚](../Page/马来西亚.md "wikilink")[森美兰州东南部的一个县](https://zh.wikipedia.org/wiki/森美兰州 "wikilink")。其面积为415.12平方公里\[1\]，人口于2010年为\[2\]。该县北临[芙蓉县](https://zh.wikipedia.org/wiki/芙蓉县 "wikilink")，西临[波德申县](https://zh.wikipedia.org/wiki/波德申县 "wikilink")，东临[淡边县和](https://zh.wikipedia.org/wiki/淡边县 "wikilink")[瓜拉庇劳县](https://zh.wikipedia.org/wiki/瓜拉庇劳县 "wikilink")，南临[马六甲州](https://zh.wikipedia.org/wiki/马六甲州 "wikilink")[亚罗牙也县](../Page/亚罗牙也县.md "wikilink")。林茂县除了县府[林茂外](https://zh.wikipedia.org/wiki/林茂 "wikilink")，还有、、等市镇。
+**林茂县**（），是[马来西亚](../Page/马来西亚.md "wikilink")[森美兰州东南部的一个县](https://zh.wikipedia.org/wiki/森美兰州 "wikilink")。其面积为415.12平方公里\[1\]，人口于2010年为\[2\]。该县北临[芙蓉县](https://zh.wikipedia.org/wiki/芙蓉县 "wikilink")，西临[波德申县](../Page/波德申县.md "wikilink")，东临[淡边县和](../Page/淡边县.md "wikilink")[瓜拉庇劳县](../Page/瓜拉庇劳县.md "wikilink")，南临[马六甲州](https://zh.wikipedia.org/wiki/马六甲州 "wikilink")[亚罗牙也县](../Page/亚罗牙也县.md "wikilink")。林茂县除了县府[林茂外](https://zh.wikipedia.org/wiki/林茂 "wikilink")，还有、、等市镇。
 
 ## 行政区划
 
@@ -146,7 +146,7 @@
 
 #### 高速公路
 
-[南北大道南段有经过林茂县](https://zh.wikipedia.org/wiki/南北大道南段 "wikilink")，目前县内有一个高速公路出入口，即为不叻士宁宜\[11\]。
+[南北大道南段有经过林茂县](../Page/南北大道南段.md "wikilink")，目前县内有一个高速公路出入口，即为不叻士宁宜\[11\]。
 
 ## 参见
 

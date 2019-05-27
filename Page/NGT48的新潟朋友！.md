@@ -63,7 +63,7 @@ friend」，象徵NGT48藉由該節目獲取更多人的支持。
 <td><p>5</p></td>
 <td><p>2月14日</p></td>
 <td><p>東京都・<a href="../Page/原宿.md" title="wikilink">原宿</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/本間日陽" title="wikilink">本間日陽</a>、村雲颯香、奈良未遙</p></td>
+<td><p><a href="../Page/本間日陽.md" title="wikilink">本間日陽</a>、村雲颯香、奈良未遙</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
@@ -88,7 +88,7 @@ friend」，象徵NGT48藉由該節目獲取更多人的支持。
 <td><p>9</p></td>
 <td><p>3月14日</p></td>
 <td><p><a href="../Page/長岡市.md" title="wikilink">長岡市</a></p></td>
-<td><p><a href="../Page/荻野由佳.md" title="wikilink">荻野由佳</a>、西村菜那子、<a href="https://zh.wikipedia.org/wiki/宮島亞彌" title="wikilink">宮島亞彌</a></p></td>
+<td><p><a href="../Page/荻野由佳.md" title="wikilink">荻野由佳</a>、西村菜那子、<a href="../Page/宮島亞彌.md" title="wikilink">宮島亞彌</a></p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
@@ -106,7 +106,7 @@ friend」，象徵NGT48藉由該節目獲取更多人的支持。
 <td><p>12</p></td>
 <td><p>4月4日</p></td>
 <td><p><a href="../Page/三條市.md" title="wikilink">三條市</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中井莉加" title="wikilink">中井莉加</a>、山田野繪、角尤利婭</p></td>
+<td><p><a href="../Page/中井莉加.md" title="wikilink">中井莉加</a>、山田野繪、角尤利婭</p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
@@ -839,12 +839,10 @@ friend」，象徵NGT48藉由該節目獲取更多人的支持。
 
 ## 片尾曲
 
-  - [青春時鐘](https://zh.wikipedia.org/wiki/青春時鐘 "wikilink")（第11集 -
-    第19集、第21集 - 第42集）
-  - [藍天會延續到這世界上的哪裡去呢？](https://zh.wikipedia.org/wiki/藍天會延續到這世界上的哪裡去呢？ "wikilink")（第43集
-    - 第62集）
-  - [春天哪裏來？](https://zh.wikipedia.org/wiki/春天哪裏來？ "wikilink")（第63集 -
-    第84集）
+  - [青春時鐘](../Page/青春時鐘.md "wikilink")（第11集 - 第19集、第21集 - 第42集）
+  - [藍天會延續到這世界上的哪裡去呢？](../Page/藍天會延續到這世界上的哪裡去呢？.md "wikilink")（第43集 -
+    第62集）
+  - [春天哪裏來？](../Page/春天哪裏來？.md "wikilink")（第63集 - 第84集）
   - [獻給世人](../Page/獻給世人.md "wikilink") （第85集 - 第89集、第91・92集、第95回 - ）
   - [直到快要哭泣](../Page/獻給世人.md "wikilink")（第90・93集）
   - [今天輸了也沒關係](../Page/獻給世人.md "wikilink")（第94集）

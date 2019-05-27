@@ -34,7 +34,7 @@ Back**是[日本的](../Page/日本.md "wikilink")3人女性[摇滚乐队](https
 
 ## 经历
 
-乐队最初是作为[Chatmonchy的模仿乐队而在](https://zh.wikipedia.org/wiki/Chatmonchy "wikilink")2009年高校的轻音乐部由林萌萌子、megu和yukki三人组成。
+乐队最初是作为[Chatmonchy的模仿乐队而在](../Page/Chatmonchy.md "wikilink")2009年高校的轻音乐部由林萌萌子、megu和yukki三人组成。
 
 2012年乐队参加了的选拔，通过了第三次筛选。同年8月第一张Demo唱片《say googd bye》发布。
 

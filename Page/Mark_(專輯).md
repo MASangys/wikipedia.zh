@@ -16,7 +16,7 @@ Teaser；6時，全專輯音源正式發行。\[7\]《Gone》的MV邀請[Apink](
 主打歌曲《Gone》是描述在黑暗而孤獨的世界裡，想和深愛的人一起離開到一個不受拘束的地方。以昌燮悲切的歌聲和樂隊的協調融合，讓人聽了彷彿像看了場電影。
 
 收錄曲《隙（틈）》曾於2017年《[BTOB TIME
-～我們的演唱會～](https://zh.wikipedia.org/wiki/BTOB_TIME_～我們的演唱會～ "wikilink")》公開演唱。
+～我們的演唱會～](../Page/BTOB_TIME_～我們的演唱會～.md "wikilink")》公開演唱。
 
 ## 曲目
 
@@ -68,14 +68,14 @@ Teaser；6時，全專輯音源正式發行。\[7\]《Gone》的MV邀請[Apink](
 <tr class="odd">
 <td><p>韓國</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon單曲冠軍作品列表" title="wikilink">單曲週榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2018年12月9－15日</p></td>
 <td><p>#74</p></td>
 <td><p>[9]</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表" title="wikilink">專輯週榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon專輯冠軍作品列表.md" title="wikilink">專輯週榜</a></p></td>
 <td><p>#5</p></td>
 <td><p>[10]</p></td>
 <td></td>
@@ -90,7 +90,7 @@ Teaser；6時，全專輯音源正式發行。\[7\]《Gone》的MV邀請[Apink](
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2018年12月</p></td>
 <td><p>#11（44,773張+）</p></td>
 <td><p><ref>{{cite web|url=<a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;termGbn=month%7Ctitle=2018년">http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;termGbn=month|title=2018년</a> 12월 Album Chart</p></td>

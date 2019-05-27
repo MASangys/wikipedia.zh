@@ -231,14 +231,13 @@ Act](https://zh.wikipedia.org/wiki/Secure_Rural_Schools_and_Community_Self-Deter
 (), which authorizes western counties, including the O\&C counties, to
 receive federal payments to compensate for loss of timber revenue until
 2006. Payments to O\&C counties, which included O\&C revenue as well as
-revenue on [美国国家森林局](https://zh.wikipedia.org/wiki/美国国家森林局 "wikilink")
-land, averaged about $250 million per year from 2000 to
-2006.\[58\]\[59\] The act was extended for one year in 2007, and in
-2008, a four-year extension was included in the
-[經濟穩定緊急法案](../Page/經濟穩定緊急法案.md "wikilink")
-that phased out the program by 2012.\[60\]\[61\] The extension expired
-on September 30, 2011 and the final payment of just over $40 million was
-delivered to the O\&C counties in early 2012.\[62\]
+revenue on [美国国家森林局](../Page/美国国家森林局.md "wikilink") land, averaged about
+$250 million per year from 2000 to 2006.\[58\]\[59\] The act was
+extended for one year in 2007, and in 2008, a four-year extension was
+included in the [經濟穩定緊急法案](../Page/經濟穩定緊急法案.md "wikilink") that phased
+out the program by 2012.\[60\]\[61\] The extension expired on September
+30, 2011 and the final payment of just over $40 million was delivered to
+the O\&C counties in early 2012.\[62\]
 
 In late 2011, Oregon Senators [榮·懷登](../Page/榮·懷登.md "wikilink") and
 [傑夫·默克利](../Page/傑夫·默克利.md "wikilink") proposed legislation to

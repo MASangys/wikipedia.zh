@@ -1,11 +1,10 @@
 《**House Of
-Strings**》是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z的](../Page/B'z.md "wikilink")[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[松本孝弘的第](../Page/松本孝弘.md "wikilink")7張[器樂專輯](https://zh.wikipedia.org/wiki/器樂 "wikilink")。於[2004年](../Page/2004年.md "wikilink")[11月24日發售](../Page/11月24日.md "wikilink")。
+Strings**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z的](../Page/B'z.md "wikilink")[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[松本孝弘的第](../Page/松本孝弘.md "wikilink")7張[器樂專輯](https://zh.wikipedia.org/wiki/器樂 "wikilink")。於[2004年](../Page/2004年.md "wikilink")[11月24日發售](../Page/11月24日.md "wikilink")。
 
 ## 概要
 
 成為了來自由松本以[吉他手為中心](https://zh.wikipedia.org/wiki/吉他手 "wikilink")，為弦樂器演奏者所成立的[唱片公司](../Page/唱片公司.md "wikilink")「[House
-Of
-Strings](https://zh.wikipedia.org/wiki/House_Of_Strings "wikilink")」所發售的首張專輯。
+Of Strings](../Page/House_Of_Strings.md "wikilink")」所發售的首張專輯。
 
 收錄了於2004年7月17、18、20日在[三得利音樂廳所舉行的由松本孝弘與](https://zh.wikipedia.org/wiki/三得利音樂廳 "wikilink")[東京都交響樂團](https://zh.wikipedia.org/wiki/東京都交響樂團 "wikilink")[合作音樂會](https://zh.wikipedia.org/wiki/合作 "wikilink")『都響スペシャル
 Collaboration 2004 松本孝弘「華」』所披露的全10曲，再加上4首在錄音室重新錄製的樂曲。
@@ -14,7 +13,7 @@ Collaboration 2004 松本孝弘「華」』所披露的全10曲，再加上4首�
 
 1.  ****
 2.  **[曾幾何時的Merry
-    Christmas](https://zh.wikipedia.org/wiki/曾幾何時的Merry_Christmas "wikilink")（）**
+    Christmas](../Page/曾幾何時的Merry_Christmas.md "wikilink")（）**
 3.  **[sasanqua〜冬之陽](../Page/FRIENDS_II.md "wikilink")（）**
 4.  **戀歌（）**
 5.  **[\#1090](https://zh.wikipedia.org/wiki/#1090_〜Thousand_Dreams〜 "wikilink")**

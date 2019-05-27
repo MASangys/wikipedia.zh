@@ -10,7 +10,7 @@ GROUP**”的[7SENSES](https://zh.wikipedia.org/wiki/7SENSES "wikilink")、[Blue
 
 #### 概要
 
-该EP为SNH48旗下之国际化小分队7SENSES的出道作品，以“帅气和美貌并重”的女生作为主基调，其收录的五首歌曲则涵盖了包括[陷阱音乐](https://zh.wikipedia.org/wiki/陷阱音乐 "wikilink")、[未来贝斯](https://zh.wikipedia.org/wiki/未来贝斯 "wikilink")、[嘻哈](../Page/嘻哈.md "wikilink")、[放克在内的多种曲风](../Page/放克.md "wikilink")\[2\]。组合的所有成员皆有一首以自己作为中心成员的歌曲，而专辑内收录的歌曲均以其中心成员的个性、特色进行创作，以求展现各个成员的特点。
+该EP为SNH48旗下之国际化小分队7SENSES的出道作品，以“帅气和美貌并重”的女生作为主基调，其收录的五首歌曲则涵盖了包括[陷阱音乐](https://zh.wikipedia.org/wiki/陷阱音乐 "wikilink")、[未来贝斯](../Page/未来贝斯.md "wikilink")、[嘻哈](../Page/嘻哈.md "wikilink")、[放克在内的多种曲风](../Page/放克.md "wikilink")\[2\]。组合的所有成员皆有一首以自己作为中心成员的歌曲，而专辑内收录的歌曲均以其中心成员的个性、特色进行创作，以求展现各个成员的特点。
 
 #### 曲目
 

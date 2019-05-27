@@ -1,7 +1,7 @@
 </ref> | genre =  | occupation =  | instrument =  | years_active =
 2016–至今 | label =  | Associated_acts =  }} **朱利安·斯坎兰**（Julian
 Scanlan，1997年5月1日出生），艺名**Slushii**，是一位美国[洛杉矶的电子舞曲音乐制作人](../Page/洛杉矶.md "wikilink")、声乐家、和唱片骑师。\[1\]他最知名于与萌·莎莉姿（Moe
-Shalizi）旗下的艺人合作，例如[棉花糖](https://zh.wikipedia.org/wiki/棉花糖_\(音乐人\) "wikilink")、和，并获得了知名音乐家和厂牌创始人[史奇雷克斯的支持](../Page/史奇雷克斯.md "wikilink")。\[2\]\[3\]
+Shalizi）旗下的艺人合作，例如[棉花糖](../Page/棉花糖_\(音乐人\).md "wikilink")、和，并获得了知名音乐家和厂牌创始人[史奇雷克斯的支持](../Page/史奇雷克斯.md "wikilink")。\[2\]\[3\]
 
 ## 早期生活
 
@@ -26,7 +26,7 @@ Freeze）发行了7首曲目。\[14\]\[15\]YourEDM给予了9.2分的评价（满
 Me）。\[18\]\[19\]
 
 2017年3月，Slushii发布了新回响贝斯单曲《抓我》（Catch
-Me）。此曲被描述为是一首“乐观、被所启发的重低音歌曲”。\[20\]他随后与未来贝斯DJ[棉花糖合作了单曲](https://zh.wikipedia.org/wiki/棉花糖_\(音乐人\) "wikilink")《》，但这不是他们的首次合作。。\[21\]\[22\]
+Me）。此曲被描述为是一首“乐观、被所启发的重低音歌曲”。\[20\]他随后与未来贝斯DJ[棉花糖合作了单曲](../Page/棉花糖_\(音乐人\).md "wikilink")《》，但这不是他们的首次合作。。\[21\]\[22\]
 
 2017年8月4日，Slushii发布了首支录音室专辑《》，专辑内共有13首歌曲，包括《亲爱的我》（Dear Me）。\[23\]
 
@@ -58,13 +58,13 @@ Me）。此曲被描述为是一首“乐观、被所启发的重低音歌曲”
 4.  Riordan, Kevin. ["He's Got the Beat; Mt. Laurel teen emerges on
     dance music
     scene."](http://www.philly.com/philly/news/local/20140805_He_s_Got_the_Beat.html),
-    *[費城詢問報](https://zh.wikipedia.org/wiki/費城詢問報 "wikilink")*, August 5,
-    2014. Accessed December 5, 2017. "Julian Scanlan, a.k.a. DJ Swoon,
-    is too young to go clubbing - unless he brings his party tunes. The
-    Mount Laurel resident, 17, is a rising Electronic Dance Music (EDM)
-    artist.... A bright and personable fellow who in September will
-    start his senior year at Lenape High School, Scanlan sports a hairdo
-    with green tufts on top."
+    *[費城詢問報](../Page/費城詢問報.md "wikilink")*, August 5, 2014. Accessed
+    December 5, 2017. "Julian Scanlan, a.k.a. DJ Swoon, is too young to
+    go clubbing - unless he brings his party tunes. The Mount Laurel
+    resident, 17, is a rising Electronic Dance Music (EDM) artist.... A
+    bright and personable fellow who in September will start his senior
+    year at Lenape High School, Scanlan sports a hairdo with green tufts
+    on top."
 
 5.  Marcus, Ezra. ["The Sweet and Sour Life of Slushii; We talked to the
     EDM underdog about his love for Skrillex, his struggle with

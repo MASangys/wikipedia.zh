@@ -113,7 +113,7 @@ Figaro\[39\]
 ## 其他心血管手術
 
 卡布羅開創了[三尖瓣瓣膜成形和其他瓣膜手術](https://zh.wikipedia.org/wiki/三尖瓣 "wikilink")，\[43\]\[44\]
-以及[冠狀動脈和](../Page/冠状血管.md "wikilink")[升主動脈瘤的修復](../Page/升主動脈.md "wikilink")，[慢性](../Page/慢性病.md "wikilink")[血栓栓塞性](../Page/血栓闭塞性脉管炎.md "wikilink")[肺動脈高壓的治療技術](https://zh.wikipedia.org/wiki/肺高壓 "wikilink")。\[45\]
+以及[冠狀動脈和](../Page/冠状血管.md "wikilink")[升主動脈瘤的修復](../Page/升主動脈.md "wikilink")，[慢性](../Page/慢性病.md "wikilink")[血栓栓塞性](../Page/血栓闭塞性脉管炎.md "wikilink")[肺動脈高壓的治療技術](../Page/肺高壓.md "wikilink")。\[45\]
 在他的一生中，他做過400多次心臟移植和數千次心臟手術，\[46\]與國外的眾多心臟外科醫生保持聯繫，包括諾曼·沙姆韋，[克里斯蒂安·巴納德](../Page/克里斯蒂安·巴纳德.md "wikilink")（Christiaan
 Neethling Barnard），艾華·史丁森（Edward Stinson，出生於1938 年，現年81歲），布魯斯·雷茨（Bruce
 Reitz是一位美國外科醫生），斯圖亞特·W·賈米森（Stuart Jamieson出生於1947

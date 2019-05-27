@@ -1,8 +1,8 @@
 **Cherry
-Bullet**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂旗下的十人女子組合](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")。成員從2018年11月21日開始依次公開
-。由六名韓國成員[海允](https://zh.wikipedia.org/wiki/海允 "wikilink")、[裕姝](https://zh.wikipedia.org/wiki/裕姝 "wikilink")、[未來](https://zh.wikipedia.org/wiki/金京主 "wikilink")、紫蘿、[智媛](https://zh.wikipedia.org/wiki/智媛 "wikilink")、彩麟，三名日本成員[KOKORO](https://zh.wikipedia.org/wiki/KOKORO "wikilink")、莉美、[MAY](https://zh.wikipedia.org/wiki/MAY_\(Cherry_Bullet\) "wikilink")，以及一名台灣成員[粼粼所組成](https://zh.wikipedia.org/wiki/粼粼 "wikilink")\[1\]\[2\]\[3\]，並由未來擔任隊長。2019年1月21日以首張單曲專輯《[Let's
+Bullet**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂旗下的十人女子組合](../Page/FNC娛樂.md "wikilink")。成員從2018年11月21日開始依次公開
+。由六名韓國成員[海允](../Page/海允.md "wikilink")、[裕姝](../Page/裕姝.md "wikilink")、[未來](../Page/金京主.md "wikilink")、紫蘿、[智媛](../Page/智媛.md "wikilink")、彩麟，三名日本成員[KOKORO](https://zh.wikipedia.org/wiki/KOKORO "wikilink")、莉美、[MAY](../Page/MAY_\(Cherry_Bullet\).md "wikilink")，以及一名台灣成員[粼粼所組成](../Page/粼粼.md "wikilink")\[1\]\[2\]\[3\]，並由未來擔任隊長。2019年1月21日以首張單曲專輯《[Let's
 Play Cherry
-Bullet](https://zh.wikipedia.org/wiki/Let's_Play_Cherry_Bullet "wikilink")》正式出道\[4\]\[5\]。
+Bullet](../Page/Let's_Play_Cherry_Bullet.md "wikilink")》正式出道\[4\]\[5\]。
 
 ## 團體資料
 
@@ -10,20 +10,20 @@ Bullet](https://zh.wikipedia.org/wiki/Let's_Play_Cherry_Bullet "wikilink")》正
 
   - 名字**粗體**為隊長。
 
-| colspan="10" style|成員列表                                               |
-| --------------------------------------------------------------------- |
-| 藝名                                                                    |
-| 漢字                                                                    |
-| [海允](https://zh.wikipedia.org/wiki/海允 "wikilink")                     |
-| [裕姝](https://zh.wikipedia.org/wiki/裕姝 "wikilink")                     |
-| **[未來](https://zh.wikipedia.org/wiki/金京主 "wikilink")**                |
-| 紫蘿                                                                    |
-| [智媛](https://zh.wikipedia.org/wiki/智媛 "wikilink")                     |
-| [KOKORO](https://zh.wikipedia.org/wiki/KOKORO "wikilink")             |
-| 莉美                                                                    |
-| 彩麟                                                                    |
-| [粼粼](https://zh.wikipedia.org/wiki/粼粼 "wikilink")                     |
-| [MAY](https://zh.wikipedia.org/wiki/MAY_\(Cherry_Bullet\) "wikilink") |
+| colspan="10" style|成員列表                                   |
+| --------------------------------------------------------- |
+| 藝名                                                        |
+| 漢字                                                        |
+| [海允](../Page/海允.md "wikilink")                            |
+| [裕姝](../Page/裕姝.md "wikilink")                            |
+| **[未來](../Page/金京主.md "wikilink")**                       |
+| 紫蘿                                                        |
+| [智媛](../Page/智媛.md "wikilink")                            |
+| [KOKORO](https://zh.wikipedia.org/wiki/KOKORO "wikilink") |
+| 莉美                                                        |
+| 彩麟                                                        |
+| [粼粼](../Page/粼粼.md "wikilink")                            |
+| [MAY](../Page/MAY_\(Cherry_Bullet\).md "wikilink")        |
 
 ### 團名由來
 
@@ -36,7 +36,7 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 
   - 2017年8月22日、8月23日、10月4日，按順序公開裕姝、智媛、紫蘿的預告照。
   - 2018年6月15日－8月31日，成員海允出演[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[選秀](https://zh.wikipedia.org/wiki/選秀 "wikilink")[節目](https://zh.wikipedia.org/wiki/節目 "wikilink")《[PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》，進總決賽。最終以第19名落選。
+    48](../Page/PRODUCE_48.md "wikilink")》，進總決賽。最終以第19名落選。
   - 2018年11月20日，FNC官方twitter帳號上，公開了女子組合的組合名稱和Daum Cafe、官方SNS也正式開通。
 
 ### 2019年：出道準備、正式出道
@@ -59,7 +59,7 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/Let&#39;s_Play_Cherry_Bullet" title="wikilink">Let's Play Cherry Bullet</a>》</strong></p>
+<td><p><strong>《<a href="../Page/Let&#39;s_Play_Cherry_Bullet.md" title="wikilink">Let's Play Cherry Bullet</a>》</strong></p>
 <ul>
 <li>發行日期 ：2019年1月21日</li>
 <li>語言：韓語</li>
@@ -80,8 +80,8 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 | 2012年1月17日  | 回想                                                                                      | [Super Junior-K.R.Y](https://zh.wikipedia.org/wiki/Super_Junior-K.R.Y "wikilink") | 智媛    |
 | 2012年11月28日 | [White Love](https://www.youtube.com/watch?v=s0VEbOJi3xY)                               | [Starship Planet](../Page/STARSHIP娛樂.md "wikilink")                               |       |
 | 2017年8月18日  | [LOVE YOURSELF Highlight Reel '起承轉結'](https://www.youtube.com/watch?v=EHdK5U2hf4o&t=1s) | [防彈少年團](../Page/防彈少年團.md "wikilink")                                              | 裕姝、紫蘿 |
-| 2017年11月22日 | [Someone to Love](https://www.youtube.com/watch?v=atm1nif3-s0)                          | [HONEYST](https://zh.wikipedia.org/wiki/HONEYST "wikilink")                       |       |
-| 2018年10月12日 | [一起去看星星吧](https://www.youtube.com/watch?v=rDuB8Irvyhs)                                  | [朴寶劍](https://zh.wikipedia.org/wiki/朴寶劍 "wikilink")                               | 智媛    |
+| 2017年11月22日 | [Someone to Love](https://www.youtube.com/watch?v=atm1nif3-s0)                          | [HONEYST](../Page/HONEYST.md "wikilink")                                          |       |
+| 2018年10月12日 | [一起去看星星吧](https://www.youtube.com/watch?v=rDuB8Irvyhs)                                  | [朴寶劍](../Page/朴寶劍.md "wikilink")                                                  | 智媛    |
 
 ### Cover影音
 
@@ -154,7 +154,7 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.youtube.com/watch?v=glI3uii3X8E">雪人</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭承煥" title="wikilink">鄭承煥</a></p></td>
+<td><p><a href="../Page/鄭承煥.md" title="wikilink">鄭承煥</a></p></td>
 <td><p>海允、紫蘿</p></td>
 <td></td>
 <td></td>
@@ -179,9 +179,9 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 
 ### 固定綜藝
 
-| 日期               | 電視台                                  | 節目名稱                                                                | 參與成員 | 備註        |
-| ---------------- | ------------------------------------ | ------------------------------------------------------------------- | ---- | --------- |
-| 2018年6月15日－8月31日 | [Mnet](../Page/Mnet媒體.md "wikilink") | 《[PRODUCE 48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》 | 海允   | 出道前，選拔生存賽 |
+| 日期               | 電視台                                  | 節目名稱                                             | 參與成員 | 備註        |
+| ---------------- | ------------------------------------ | ------------------------------------------------ | ---- | --------- |
+| 2018年6月15日－8月31日 | [Mnet](../Page/Mnet媒體.md "wikilink") | 《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》 | 海允   | 出道前，選拔生存賽 |
 
 ### 嘉賓出演
 
@@ -272,7 +272,7 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 <tr class="even">
 <td><p>4月16日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Idol_Room" title="wikilink">Idol Room</a>》</p></td>
+<td><p>《<a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a>》</p></td>
 <td><p>KOKORO、粼粼</p></td>
 <td><p>外籍偶像特輯</p></td>
 <td></td>
@@ -321,7 +321,7 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 <tr class="even">
 <td><p>1月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC標準FM" title="wikilink">MBC標準FM</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/IDOL_RADIO" title="wikilink">IDOL RADIO</a>》</p></td>
+<td><p>《<a href="../Page/IDOL_RADIO.md" title="wikilink">IDOL RADIO</a>》</p></td>
 <td><p>V LIVE可視</p></td>
 <td></td>
 <td></td>
@@ -377,7 +377,7 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 <tr class="odd">
 <td><p>4月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC標準FM" title="wikilink">MBC標準FM</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/IDOL_RADIO" title="wikilink">IDOL RADIO</a>》</p></td>
+<td><p>《<a href="../Page/IDOL_RADIO.md" title="wikilink">IDOL RADIO</a>》</p></td>
 <td><p>海允</p></td>
 <td><p>V LIVE可視</p></td>
 <td></td>
@@ -387,9 +387,9 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 
 ### 電視劇
 
-| 年份   | 電視台                                                   | 劇名                                                        | 參與成員 |
-| ---- | ----------------------------------------------------- | --------------------------------------------------------- | ---- |
-| 2017 | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [內衣少女時代](https://zh.wikipedia.org/wiki/內衣少女時代 "wikilink") | 紫蘿   |
+| 年份   | 電視台                                                   | 劇名                                     | 參與成員 |
+| ---- | ----------------------------------------------------- | -------------------------------------- | ---- |
+| 2017 | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [內衣少女時代](../Page/內衣少女時代.md "wikilink") | 紫蘿   |
 
 ### 網絡劇
 
@@ -411,10 +411,10 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 
 ### Showcase
 
-| 日期                                                                                                            | 演唱會站次 | 舉行地點 |
-| ------------------------------------------------------------------------------------------------------------- | ----- | ---- |
-| 單曲專輯《[Let's Play Cherry Bullet](https://zh.wikipedia.org/wiki/Let's_Play_Cherry_Bullet "wikilink")》出道Showcase |       |      |
-| 2019年1月21日                                                                                                    | 首爾站   |      |
+| 日期                                                                                         | 演唱會站次 | 舉行地點 |
+| ------------------------------------------------------------------------------------------ | ----- | ---- |
+| 單曲專輯《[Let's Play Cherry Bullet](../Page/Let's_Play_Cherry_Bullet.md "wikilink")》出道Showcase |       |      |
+| 2019年1月21日                                                                                 | 首爾站   |      |
 
 ### 其他大型演唱會
 
@@ -441,7 +441,7 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 <td><p>2019年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Let&#39;s_Play_Cherry_Bullet" title="wikilink">Let's Play Cherry Bullet</a></p></td>
+<td><p><a href="../Page/Let&#39;s_Play_Cherry_Bullet.md" title="wikilink">Let's Play Cherry Bullet</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>

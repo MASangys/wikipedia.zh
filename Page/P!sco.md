@@ -92,12 +92,12 @@ Dear』紀念逝世的年輕樂迷\[3\]。十二月舉辦感謝祭與再度復�
 
 ### 2018年
 
-三月，與日本知名AV女優『[高橋聖子](https://zh.wikipedia.org/wiki/高橋聖子 "wikilink")』共演，五月發連續發行兩張單曲：動員樂迷拍攝MV的『每當唱這首歌的時候』、首度嘗試[泰文演唱的](https://zh.wikipedia.org/wiki/泰文 "wikilink")『清澈的湖水裡有魚』。而八週年專場在『P\!SCO-8-WE
+三月，與日本知名AV女優『[高橋聖子](../Page/高橋聖子.md "wikilink")』共演，五月發連續發行兩張單曲：動員樂迷拍攝MV的『每當唱這首歌的時候』、首度嘗試[泰文演唱的](https://zh.wikipedia.org/wiki/泰文 "wikilink")『清澈的湖水裡有魚』。而八週年專場在『P\!SCO-8-WE
 ARE P\!SCO』在台中Legacy開演，與酒商合作發行限量的『Pisco Proton x
 P\!SCO』聯名款，而連續兩年的週年專場皆以獨立自主企劃的高規格演出型態大受好評。專場結束後前往日本東京巡演與日本知名樂團『[四星球](https://zh.wikipedia.org/wiki/四星球 "wikilink")』、『PAN』共演，巡迴的最後一場則是與七組日本友團共演的『Asia
 Series』的東京版，P\!SCO除了擔任壓軸以外，吉他手Rachel也與『[JinnyOops\!](https://zh.wikipedia.org/wiki/JinnyOops! "wikilink")』、『[Who
 the
-Bitch](https://zh.wikipedia.org/wiki/Who_the_Bitch "wikilink")』進行難得的跨國合作，P\!SCO也藉著這次巡迴發行日盤『この歌を歌う度に』。在電商蝦皮上成立專屬的PISCOGOODS周邊商城。十一月參與電視節目『[樂團新勢力](https://zh.wikipedia.org/wiki/樂團新勢力 "wikilink")』，十二月與『[NTW新台灣娛樂摔角聯盟](https://zh.wikipedia.org/wiki/NTW新台灣娛樂摔角聯盟 "wikilink")』合作並製作選手的出場曲。
+Bitch](https://zh.wikipedia.org/wiki/Who_the_Bitch "wikilink")』進行難得的跨國合作，P\!SCO也藉著這次巡迴發行日盤『この歌を歌う度に』。在電商蝦皮上成立專屬的PISCOGOODS周邊商城。十一月參與電視節目『[樂團新勢力](../Page/樂團新勢力.md "wikilink")』，十二月與『[NTW新台灣娛樂摔角聯盟](https://zh.wikipedia.org/wiki/NTW新台灣娛樂摔角聯盟 "wikilink")』合作並製作選手的出場曲。
 
 ## 歷任成員
 

@@ -1,5 +1,5 @@
 ***Armillaria
-luteobubalina***（）是[蜜環菌屬的一種](https://zh.wikipedia.org/wiki/蜜環菌屬 "wikilink")[蕈類](../Page/蕈類.md "wikilink")，廣泛分佈於[澳大利亚南部](../Page/澳大利亚.md "wikilink")，亦有[阿根廷與](../Page/阿根廷.md "wikilink")[智利的標本經序列分析後被認為可能屬於本種](../Page/智利.md "wikilink")\[1\]，此[分佈範圍顯示本種是一種相當古老的物種](https://zh.wikipedia.org/wiki/生物地理學 "wikilink")，可能在[岡瓦那大陸分裂以前就已出現](https://zh.wikipedia.org/wiki/岡瓦那大陸 "wikilink")。本種真菌是重要的[植物病原菌](../Page/植物病理學.md "wikilink")，可以感染[桉樹而導致](https://zh.wikipedia.org/wiki/桉樹 "wikilink")[根腐病](https://zh.wikipedia.org/wiki/根腐病 "wikilink")，最終造成，是澳洲的六種蜜環菌屬真菌中分布最廣、致病性最高者。本種的[子實體多在秋季](../Page/子實體_\(真菌\).md "wikilink")（3-4月）出現於受其感染的樹木的基部或其他木質部位，[蕈傘為奶油色至棕黃色](https://zh.wikipedia.org/wiki/蕈傘 "wikilink")，直徑約10公分，[菌柄可高達](https://zh.wikipedia.org/wiki/菌柄 "wikilink")20公分、粗1.5公分，子實體[可食](../Page/食用蕈.md "wikilink")，但需先煮熟以消除苦味。
+luteobubalina***（）是[蜜環菌屬的一種](https://zh.wikipedia.org/wiki/蜜環菌屬 "wikilink")[蕈類](../Page/蕈類.md "wikilink")，廣泛分佈於[澳大利亚南部](../Page/澳大利亚.md "wikilink")，亦有[阿根廷與](../Page/阿根廷.md "wikilink")[智利的標本經序列分析後被認為可能屬於本種](../Page/智利.md "wikilink")\[1\]，此[分佈範圍顯示本種是一種相當古老的物種](https://zh.wikipedia.org/wiki/生物地理學 "wikilink")，可能在[岡瓦那大陸分裂以前就已出現](https://zh.wikipedia.org/wiki/岡瓦那大陸 "wikilink")。本種真菌是重要的[植物病原菌](../Page/植物病理學.md "wikilink")，可以感染[桉樹而導致](https://zh.wikipedia.org/wiki/桉樹 "wikilink")[根腐病](../Page/根腐病.md "wikilink")，最終造成，是澳洲的六種蜜環菌屬真菌中分布最廣、致病性最高者。本種的[子實體多在秋季](../Page/子實體_\(真菌\).md "wikilink")（3-4月）出現於受其感染的樹木的基部或其他木質部位，[蕈傘為奶油色至棕黃色](https://zh.wikipedia.org/wiki/蕈傘 "wikilink")，直徑約10公分，[菌柄可高達](https://zh.wikipedia.org/wiki/菌柄 "wikilink")20公分、粗1.5公分，子實體[可食](../Page/食用蕈.md "wikilink")，但需先煮熟以消除苦味。
 
 本種最早發現在澳大利亚東南部的[桉樹](https://zh.wikipedia.org/wiki/桉樹 "wikilink")[種植園中](https://zh.wikipedia.org/wiki/種植園 "wikilink")，並於1978年被描述發表。被其感染的樹木可能經過多年才會出現明顯症狀，造成人們對此疫病盛行狀況的低估，有研究顯示本種真菌在桉樹林中的傳播，可能與樹木被後留下的殘幹（stump）有關。本種造成的感染至今仍無有效方法防治。[分子系統發生學的研究顯示蜜環菌屬中](https://zh.wikipedia.org/wiki/分子系統發生學 "wikilink")，本種與*A.
 montagnei*的親緣關係最近，而兩者與分布於[巴西的](../Page/巴西.md "wikilink")*A.
@@ -25,7 +25,7 @@ montagnei*樣本的[演化支則與](../Page/演化支.md "wikilink")**互為[�
 
 ### 微觀構造
 
-本種新鮮時[孢子印為白色](../Page/孢子印.md "wikilink")，漸乾燥後則呈乳白色，[擔孢子表面光滑](https://zh.wikipedia.org/wiki/擔孢子 "wikilink")，呈卵形至橢球形，大小約為6.5-7.5微米乘以4.5-5.5微米，[梅澤試劑檢測結果為陰性](../Page/梅澤試劑.md "wikilink")（即不含有[澱粉](https://zh.wikipedia.org/wiki/澱粉 "wikilink")），[擔子為厚壁](https://zh.wikipedia.org/wiki/擔子 "wikilink")、亦呈透明，基部沒有[扣子體](../Page/扣子體.md "wikilink")，一個擔子上通常產生四枚擔孢子，但有時只產生兩枚，（擔子與擔孢子相連的結構）長約4微米。（即位於蕈褶邊緣的）為厚壁且透明，呈棒狀，大小約為15-30乘以6-10微米\[20\]。
+本種新鮮時[孢子印為白色](../Page/孢子印.md "wikilink")，漸乾燥後則呈乳白色，[擔孢子表面光滑](../Page/擔孢子.md "wikilink")，呈卵形至橢球形，大小約為6.5-7.5微米乘以4.5-5.5微米，[梅澤試劑檢測結果為陰性](../Page/梅澤試劑.md "wikilink")（即不含有[澱粉](https://zh.wikipedia.org/wiki/澱粉 "wikilink")），[擔子為厚壁](../Page/擔子.md "wikilink")、亦呈透明，基部沒有[扣子體](../Page/扣子體.md "wikilink")，一個擔子上通常產生四枚擔孢子，但有時只產生兩枚，（擔子與擔孢子相連的結構）長約4微米。（即位於蕈褶邊緣的）為厚壁且透明，呈棒狀，大小約為15-30乘以6-10微米\[20\]。
 
 #### 菌絲索
 
@@ -61,7 +61,7 @@ rot），高度在3公尺以下的[樹皮可能因被感染而壞死褪色](http
 
 ### 控制
 
-控制本種真菌感染的傳統方法包括完整移除被感染的樹木\[59\]，煙燻感染樹木周圍的土壤，或直接向被感染的樹木注射揮發性的燻蒸劑\[60\]，但這些方法的成效不彰，且產生的有毒物質可能影響其他生物，並對施用者有害\[61\]\[62\]。新型的[生物防治方法亦是可以考慮的手段](https://zh.wikipedia.org/wiki/生物防治 "wikilink")，有多篇研究顯示同時在一株桉樹殘幹上接種本種真菌與[雲芝](../Page/雲芝.md "wikilink")、或等其他種，均可減緩本種感染的情況\[63\]\[64\]。
+控制本種真菌感染的傳統方法包括完整移除被感染的樹木\[59\]，煙燻感染樹木周圍的土壤，或直接向被感染的樹木注射揮發性的燻蒸劑\[60\]，但這些方法的成效不彰，且產生的有毒物質可能影響其他生物，並對施用者有害\[61\]\[62\]。新型的[生物防治方法亦是可以考慮的手段](../Page/生物防治.md "wikilink")，有多篇研究顯示同時在一株桉樹殘幹上接種本種真菌與[雲芝](../Page/雲芝.md "wikilink")、或等其他種，均可減緩本種感染的情況\[63\]\[64\]。
 
 ## 註釋
 

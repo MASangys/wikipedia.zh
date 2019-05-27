@@ -17,9 +17,8 @@ re-elected from the Kaski-3 constituency, with 15456 votes.\[4\] Since
 Development Committee of Legislative Parliament of Nepal. He was also
 author of the book (Constituent Assembly, Demmocracy and Re-structuring)
 and (Samriddha Nepal). He was elected as [Member of
-Parliament](https://zh.wikipedia.org/wiki/眾議院_\(尼泊爾\) "wikilink") from
-the [election](https://zh.wikipedia.org/wiki/2017年尼泊尔立法选举 "wikilink")
-held on 26 November 2017.
+Parliament](../Page/眾議院_\(尼泊爾\).md "wikilink") from the
+[election](../Page/2017年尼泊尔立法选举.md "wikilink") held on 26 November 2017.
 
 He involve in Curupption also he curuppted 6 billion Nepalese currency
 while he was minister which was known as a wide-body airbus case
@@ -28,8 +27,7 @@ while he was minister which was known as a wide-body airbus case
 ## Electoral history
 
 At the time of his death, he was [Member of
-Parliament](https://zh.wikipedia.org/wiki/眾議院_\(尼泊爾\) "wikilink"),
-Nepal.
+Parliament](../Page/眾議院_\(尼泊爾\).md "wikilink"), Nepal.
 
   - 2017 House of Representatives Election, Kaski-2**\[5\]**
 

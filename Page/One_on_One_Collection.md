@@ -20,7 +20,7 @@ One on One Collection
 
 ### CD 1（新曲）
 
-新曲收錄由[RubberBand的主音](../Page/RubberBand.md "wikilink")「6號」填詞的新歌「[楊千嬅三二一GO！演唱會](https://zh.wikipedia.org/wiki/楊千嬅三二一GO！演唱會 "wikilink")」主題曲《Wonder
+新曲收錄由[RubberBand的主音](../Page/RubberBand.md "wikilink")「6號」填詞的新歌「[楊千嬅三二一GO！演唱會](../Page/楊千嬅三二一GO！演唱會.md "wikilink")」主題曲《Wonder
 Woman》\[5\]、由[Supper
 Moment作曲的新歌](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")《一二三，三二一》\[6\]及由[黃貫中作曲的新歌](../Page/黃貫中.md "wikilink")《搖滾之母》\[7\]，所有全新歌曲由[王雙駿監製](../Page/王雙駿.md "wikilink")，以及香港[流行樂隊成員有份參與製作](https://zh.wikipedia.org/wiki/流行樂隊 "wikilink")。楊千嬅表示新歌《搖滾之母》是其首次唱[搖滾音樂](https://zh.wikipedia.org/wiki/搖滾音樂 "wikilink")\[8\]。
 

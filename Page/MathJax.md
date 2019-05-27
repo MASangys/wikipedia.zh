@@ -70,7 +70,7 @@ MathJax站点提供了一个内容分发网络（CDN），其中，浏览器可�
 
   - 类别:符号字体
   - Google Chart API
-  - [KaTeX](https://zh.wikipedia.org/wiki/KaTeX "wikilink")
+  - [KaTeX](../Page/KaTeX.md "wikilink")
 
 ## 参考文献
 

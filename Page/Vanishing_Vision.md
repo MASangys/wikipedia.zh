@@ -29,7 +29,7 @@ Me In The Back live音源。
 从1987年表演至1992年
 
 本曲在[BLUE
-BLOOD出现之前一直是演唱会的第一首歌](https://zh.wikipedia.org/wiki/BLUE_BLOOD "wikilink")。最后一次演奏是在1992（第二天）
+BLOOD出现之前一直是演唱会的第一首歌](../Page/BLUE_BLOOD.md "wikilink")。最后一次演奏是在1992（第二天）
 
 3.PHANTOM OF GUILT（5：18）
 
@@ -93,8 +93,7 @@ BLOOD出现之前一直是演唱会的第一首歌](https://zh.wikipedia.org/wik
 
 因此，本曲演奏到一半便突然停止了
 
-1989年的专辑（[BLUE
-BLOOD](https://zh.wikipedia.org/wiki/BLUE_BLOOD "wikilink")）给出了本曲的完整版本
+1989年的专辑（[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")）给出了本曲的完整版本
 
 ## 工作人员
 

@@ -79,7 +79,7 @@ ACP彈匣。它僅有待擊解脫裝置及純雙動操作配置版本。它裝�
 ### P345
 
 P345於2004年推出，它整合了可將保險在保險位置鎖定的內置式[鑰匙鎖](https://zh.wikipedia.org/wiki/鑰匙 "wikilink")、，以及可在除下彈匣時阻擋撞針運動的彈匣切斷裝置。它還具有許多符合[人體工程學的改進](../Page/人因工程学.md "wikilink")，例如新型的聚合物底把設計（比同為雙排式的衍生型P95和P97還要收窄）和剖面較低的保險桿。可是它取消了雙手靈巧的滑套卡榫或彈匣釋放撥桿。該槍的這兩款控件都僅僅為[右利手的射手而設計的](https://zh.wikipedia.org/wiki/右利手 "wikilink")。P345PR型號在底把防塵蓋以上增加了一條整體式[STANAG
-2324皮卡汀尼導軌](../Page/皮卡汀尼導軌.md "wikilink")，這種標準導軌可更廣泛配裝市面上流行的各種[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器等通用手槍附件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。它的設計目的是在各個要求武器具備縝密的保險措施的州份以內合法銷售。P345於2013年停產，並且被新款的[SR45所取代](../Page/儒格SR系列手枪.md "wikilink")。\[14\]
+2324皮卡汀尼導軌](../Page/皮卡汀尼導軌.md "wikilink")，這種標準導軌可更廣泛配裝市面上流行的各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器等通用手槍附件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。它的設計目的是在各個要求武器具備縝密的保險措施的州份以內合法銷售。P345於2013年停產，並且被新款的[SR45所取代](../Page/儒格SR系列手枪.md "wikilink")。\[14\]
 
 ## 圖集
 
@@ -96,13 +96,13 @@ P345於2004年推出，它整合了可將保險在保險位置鎖定的內置式
 
   - [儒格SR系列手枪](../Page/儒格SR系列手枪.md "wikilink")
 
-  - [儒格SR22手枪](https://zh.wikipedia.org/wiki/儒格SR22手枪 "wikilink")
+  - [儒格SR22手枪](../Page/儒格SR22手枪.md "wikilink")
 
   -
   -
   - [儒格標準型手槍](https://zh.wikipedia.org/wiki/儒格標準型手槍 "wikilink")
 
-  - [儒格美国人手枪](https://zh.wikipedia.org/wiki/儒格美国人手枪 "wikilink")
+  - [儒格美国人手枪](../Page/儒格美国人手枪.md "wikilink")
 
   - [M1911手槍](../Page/M1911手槍.md "wikilink")
 

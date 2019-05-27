@@ -455,9 +455,7 @@
   - [陆军游骑兵联队](https://zh.wikipedia.org/wiki/愛爾蘭陸軍遊騎兵 "wikilink")
     （ARW）情报科
 
-**国内警察情报** （
-*[GardaSíochána](https://zh.wikipedia.org/wiki/愛爾蘭和平衛隊 "wikilink")*
-）
+**国内警察情报** （ *[GardaSíochána](../Page/愛爾蘭和平衛隊.md "wikilink")* ）
 
   - 罪案及保安科 （CSB）
       - 特殊侦探单元 （SDU）
@@ -500,10 +498,10 @@
       - 军事情报司令部（JGSDF）
       - 舰队情报司令部（JMSDF）
       - 空中情报联队（JASDF）
-  - [国家公共安全委员会](https://zh.wikipedia.org/wiki/國家公安委員會 "wikilink")
+  - [国家公共安全委员会](../Page/國家公安委員會.md "wikilink")
       - [国家警察局](../Page/警察廳_\(日本\).md "wikilink")
           - NPA安全局
-              - [东京都警察局公安局](https://zh.wikipedia.org/wiki/警視廳公安部 "wikilink")
+              - [东京都警察局公安局](../Page/警視廳公安部.md "wikilink")
               - 县警察局保安局
                   - 公安科
                   - 警察局
@@ -747,14 +745,14 @@
       - 国家问责局（NAB）
       - 巴基斯坦证券交易委员会（SECP）
 
-### [巴勒斯坦国](https://zh.wikipedia.org/wiki/巴勒斯坦 "wikilink")
+### [巴勒斯坦国](../Page/巴勒斯坦.md "wikilink")
 
   - [巴勒斯坦总统府](https://zh.wikipedia.org/wiki/巴勒斯坦总统 "wikilink")
       - 一般情报\[“al-Mukhabarat al-'Amah” -
         “المخابراتالعامة”\]（负责收集巴勒斯坦外交使团的信息和安全）
   - 巴勒斯坦内政部 - 内部安全部队（ISF）
       - 巴勒斯坦预防性安全 \[“Al-'am al-wiqa'i” -
-        “الأمنالوقائي”\]（内部情报组织，其任务是保护[巴勒斯坦国的内部安全](https://zh.wikipedia.org/wiki/巴勒斯坦 "wikilink")）
+        “الأمنالوقائي”\]（内部情报组织，其任务是保护[巴勒斯坦国的内部安全](../Page/巴勒斯坦.md "wikilink")）
   - 巴勒斯坦内政部 - 国家安全部队 （NSF）
       - 军事情报\[“al-Astakhabarat al-'Askariyah” -
         “الاستخباراتالعسكرية”\]（负责收集外部军事情报）
@@ -802,7 +800,7 @@
 
 ### [葡萄牙](../Page/葡萄牙.md "wikilink")
 
-  - [SistemadeInformaçõesdaRepúblicaPortuguesa](https://zh.wikipedia.org/wiki/葡萄牙共和國情報系統 "wikilink")
+  - [SistemadeInformaçõesdaRepúblicaPortuguesa](../Page/葡萄牙共和國情報系統.md "wikilink")
     （SIRP）（葡萄牙共和国情报系统）
       - ServiçodeInformaçõesdeSegurança （SIS）（安全情报局）
       - ServiçodeInformaçõesEstratégicasdeDefesa （SIED）（国防战略情报局）
@@ -1030,8 +1028,7 @@ ServiciuldeProtecţieşiPază，缩写为SPP
   - [特别调查局](https://zh.wikipedia.org/wiki/特别调查局_\(泰国\) "wikilink") （DSI）
     司法部
   - 总理办公室下的内部安全行动司令部 （ISOC）
-  - [犯罪抑制司](https://zh.wikipedia.org/wiki/泰国皇家警察 "wikilink") （CSD）
-    \[17\]和泰国皇家警察特别处
+  - [犯罪抑制司](../Page/泰国皇家警察.md "wikilink") （CSD） \[17\]和泰国皇家警察特别处
 
 ### [火鸡](../Page/土耳其.md "wikilink")
 
@@ -1070,8 +1067,8 @@ ServiciuldeProtecţieşiPază，缩写为SPP
   - 国家调查局 （NBI）
   - 国家财务监督服务  （金融情报室）
   - 外部秘密机构 （ESC）
-  - [乌克兰安全局](https://zh.wikipedia.org/wiki/烏克蘭國家安全局 "wikilink")  Sluzhba
-    Bezpeky Ukrayiny（SBU）
+  - [乌克兰安全局](../Page/烏克蘭國家安全局.md "wikilink")  Sluzhba Bezpeky
+    Ukrayiny（SBU）
 
 ### [阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")
 

@@ -16,7 +16,7 @@
 
 新加坡场：定于3月17日于Zepp@BIGBOX举行《LOVELYZ CONCERT IN SINGAPORE – LOVELYZ 3 OF
 WINTER
-WORLD》\[23\]。演唱会门票于2月23日全面进行贩售。3月18日，[Woollim娱乐宣布Lovelyz新加坡演唱会完美落幕](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[24\]\[25\]\[26\]\[27\]。主办单位策划了许多惊喜活动，而[Kei在成员们和粉丝们的陪同下提前庆祝](https://zh.wikipedia.org/wiki/Kei "wikilink")25岁生日\[28\]\[29\]\[30\]\[31\]。附上新加坡演唱会相关采访\[32\]和现场拍摄照\[33\]\[34\]\[35\]\[36\]\[37\]\[38\]。
+WORLD》\[23\]。演唱会门票于2月23日全面进行贩售。3月18日，[Woollim娱乐宣布Lovelyz新加坡演唱会完美落幕](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[24\]\[25\]\[26\]\[27\]。主办单位策划了许多惊喜活动，而[Kei在成员们和粉丝们的陪同下提前庆祝](../Page/Kei.md "wikilink")25岁生日\[28\]\[29\]\[30\]\[31\]。附上新加坡演唱会相关采访\[32\]和现场拍摄照\[33\]\[34\]\[35\]\[36\]\[37\]\[38\]。
 
 香港场：定于3月23日于皇室堡地下中庭举行《皇室堡 x LOVELYZ 2019 CONCERT IN HONG KONG – LOVELYZ
 3 OF WINTER WORLD》記者會\[39\]。定于3月24日于亚洲国际博览馆 RUNWAY 11举行《LOVELYZ CONCERT
@@ -42,7 +42,7 @@ WORLD》\[54\]。演唱会门票于3月2日全面进行贩售。4月1日，[Wool
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>2月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p>延世大学大讲堂</p></td>
 <td><p>6400</p></td>
@@ -150,7 +150,7 @@ WORLD》\[54\]。演唱会门票于3月2日全面进行贩售。4月1日，[Wool
 <!-- end list -->
 
   - [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")（[Baby
-    Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[智愛](../Page/劉智愛.md "wikilink")、[智秀](../Page/徐智秀.md "wikilink")、[美珠](../Page/李美珠.md "wikilink")、[Kei](https://zh.wikipedia.org/wiki/Kei "wikilink")、[JIN](../Page/Jin_\(Lovelyz\).md "wikilink")、[洙正](https://zh.wikipedia.org/wiki/洙正 "wikilink")、[叡仁](../Page/鄭叡仁.md "wikilink")）
+    Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[智愛](../Page/劉智愛.md "wikilink")、[智秀](../Page/徐智秀.md "wikilink")、[美珠](../Page/李美珠.md "wikilink")、[Kei](../Page/Kei.md "wikilink")、[JIN](../Page/Jin_\(Lovelyz\).md "wikilink")、[洙正](https://zh.wikipedia.org/wiki/洙正 "wikilink")、[叡仁](../Page/鄭叡仁.md "wikilink")）
 
 <!-- end list -->
 

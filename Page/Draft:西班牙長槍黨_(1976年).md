@@ -15,8 +15,7 @@ with other similar groups.\[2\] A prominent member of the party was
 linked with the . This strategy continued in the following
 years,\[3\]\[4\] although the party also participated in elections and
 fully legal activities. In 1980 an "escuadrilla" (squadron) of the party
-killed Juan Carlos García Pérez in
-[線型之都區](https://zh.wikipedia.org/wiki/線型之都區 "wikilink"),
+killed Juan Carlos García Pérez in [線型之都區](../Page/線型之都區.md "wikilink"),
 [马德里](../Page/马德里.md "wikilink").\[5\]
 
 After the electoral defeat in the general elections of 1977, in which
@@ -143,7 +142,7 @@ FE-JONS.\[7\]
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2011年西班牙大选" title="wikilink">2011年西班牙大选</a></p></td>
+<td><p><a href="../Page/2011年西班牙大选.md" title="wikilink">2011年西班牙大选</a></p></td>
 <td><p>2,901</p></td>
 <td><p>0.01</p></td>
 <td><p>-</p></td>

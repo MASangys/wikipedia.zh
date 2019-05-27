@@ -17,8 +17,7 @@
   - 2012年5月25日 - 神がかりクロスハート\!
   - 2013年11月29日 - HHG 女神の終焉
   - 2015年10月30日 - アンラッキーリバース
-  - 2016年12月22日 -
-    [初恋サンカイメ](https://zh.wikipedia.org/wiki/第三次初戀 "wikilink")
+  - 2016年12月22日 - [初恋サンカイメ](../Page/第三次初戀.md "wikilink")
   - 2018年5月25日 - 約束の夏、まほろばの夢
 
 ### ういんどみるOasis
@@ -31,10 +30,9 @@
   - 2012年11月30日 - ウィッチズガーデン
   - 2014年5月30日 - はぴねす\! えもーしょん
   - 2014年11月28日 - 春風センセーション\!
-  - 2016年4月28日 -
-    [ウィザーズコンプレックス](https://zh.wikipedia.org/wiki/Wizards_Complex "wikilink")
+  - 2016年4月28日 - [ウィザーズコンプレックス](../Page/Wizards_Complex.md "wikilink")
   - 2019年2月22日 - [はぴねす\!2 Sakura
-    Celebration](https://zh.wikipedia.org/wiki/Happiness!2_Sakura_Celebration "wikilink")
+    Celebration](../Page/Happiness!2_Sakura_Celebration.md "wikilink")
 
 ## 參考來源
 

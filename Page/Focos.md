@@ -15,7 +15,7 @@ Mode*）。在拍摄时，同时采集两个相距一段距离的镜头信息，
 在iOS
 11中，苹果开放了深度信息接口[API](https://zh.wikipedia.org/wiki/API "wikilink")\[3\]\[4\]，focos调用双镜头生成的，进行更加个性化的调校。除了模拟不同的散景效果外，在2018年7月的更新中，程序还支持在3D模型中设置光源（*3D
 Lighting
-system*），实现后期调节光照的效果\[5\]。除了程序拍摄的图像，也支持系统内置的人像模式拍摄照片的后期修改（需要以[HEIF格式存储](https://zh.wikipedia.org/wiki/高效率图像文件格式 "wikilink")，因为需要深度数据）。
+system*），实现后期调节光照的效果\[5\]。除了程序拍摄的图像，也支持系统内置的人像模式拍摄照片的后期修改（需要以[HEIF格式存储](../Page/高效率图像文件格式.md "wikilink")，因为需要深度数据）。
 
 软件名称 **focos** 来源于 focus + photos 的新造词，保留有前者的发音\[6\]。软件开发者王晓东 *Xiaodong
 Wang* ，同时也是图片相关的**Colorburn**与**MaxCurve**两款软件的作者；两作分别获选2015与2016年度[App
@@ -127,26 +127,25 @@ Focos可以在许多iOS设备上安装，但核心的景深调节功能需要双
         Galaxy Note
         8](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S8 "wikilink")。
       - [Google](../Page/Google.md "wikilink")，在2017年10月，[Pixel
-        2与](https://zh.wikipedia.org/wiki/Pixel_2 "wikilink")**Pixel 2
-        XL**相机程序升级中加入Portrait mode\[12\]，Pixel 2 与衍生机型 XL
-        虽然都是单镜头设计，但是传感器采用[Dual
-        Pixel设计](https://zh.wikipedia.org/wiki/Dual_Pixel "wikilink")，通过比对同一位置的双像素数据差异，并且借由[TensorFlow的](https://zh.wikipedia.org/wiki/TensorFlow "wikilink")[卷积神经网络进行](../Page/卷积神经网络.md "wikilink")[机器学习](../Page/机器学习.md "wikilink")。之后有爱好者提取出该代码，并改写为可在其他部分具有[骁龙处理器的安卓机型上使用的程序](https://zh.wikipedia.org/wiki/骁龙 "wikilink")\[13\]\[14\]。
+        2与](../Page/Pixel_2.md "wikilink")**Pixel 2
+        XL**相机程序升级中加入Portrait mode\[12\]，Pixel 2 与衍生机型
+        XL 虽然都是单镜头设计，但是传感器采用[Dual
+        Pixel设计](../Page/Dual_Pixel.md "wikilink")，通过比对同一位置的双像素数据差异，并且借由[TensorFlow的](../Page/TensorFlow.md "wikilink")[卷积神经网络进行](../Page/卷积神经网络.md "wikilink")[机器学习](../Page/机器学习.md "wikilink")。之后有爱好者提取出该代码，并改写为可在其他部分具有[骁龙处理器的安卓机型上使用的程序](https://zh.wikipedia.org/wiki/骁龙 "wikilink")\[13\]\[14\]。
 
 ## 评价
 
 电影摄影师Tito
 Ferradans认为，现在所处的时代正在经历变革，随着手机处理能力的提升，减小了与传统“好相机”的差距，以使用Focos的iPhone和[Pixel
-2所代表的新世代机型](https://zh.wikipedia.org/wiki/Pixel_2 "wikilink")，让更多普通人可以拍出还不错的作品\[15\]。
+2所代表的新世代机型](../Page/Pixel_2.md "wikilink")，让更多普通人可以拍出还不错的作品\[15\]。
 
 新西兰摄影师Ben Stewart指出，focos为代表的计算摄影带来的重建虚化，挑战了小型相机在这一方面的优势\[16\]。
 
 ## 参见
 
   -
-  - [修飾照片](https://zh.wikipedia.org/wiki/修飾照片 "wikilink")
+  - [修飾照片](../Page/修飾照片.md "wikilink")
 
-  - [高效率图像文件格式](https://zh.wikipedia.org/wiki/高效率图像文件格式 "wikilink") 支持
-    Depth Map 的图像文件格式
+  - [高效率图像文件格式](../Page/高效率图像文件格式.md "wikilink") 支持 Depth Map 的图像文件格式
 
 ## 参考与引用
 

@@ -165,7 +165,7 @@
 <!-- end list -->
 
   - [2001年：《嫁妝一牛車》](https://www.ttv.com.tw/drama08/oxcart/index.htm)
-  - [2018年：《玫瑰玫瑰我愛你》](https://www.ttv.com.tw/writers/writer2/story_01.html)[閱讀時光2](https://zh.wikipedia.org/wiki/閱讀時光2 "wikilink")
+  - [2018年：《玫瑰玫瑰我愛你》](https://www.ttv.com.tw/writers/writer2/story_01.html)[閱讀時光2](../Page/閱讀時光2.md "wikilink")
 
 <!-- end list -->
 

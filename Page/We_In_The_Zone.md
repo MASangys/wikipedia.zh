@@ -1,18 +1,18 @@
 **We In The
 Zone**（），團名有「我們在這兒展現我們獨特的音樂」的意思，是[韓國春娛樂](https://zh.wikipedia.org/wiki/韓國 "wikilink")(Choon
-Entertainment)於2019年推出的五人男子組合，成員包括Jimyoung、Eson、Kyeongheon、[始炫及一位尚未公開的成員](https://zh.wikipedia.org/wiki/金始炫 "wikilink")。
+Entertainment)於2019年推出的五人男子組合，成員包括Jimyoung、Eson、Kyeongheon、[始炫及一位尚未公開的成員](../Page/金始炫.md "wikilink")。
 
 ## 成員資料
 
-|                                                    |
-| -------------------------------------------------- |
-| 成員列表                                               |
-| 藝名                                                 |
-| 漢字                                                 |
-| 志榮                                                 |
-| Eson                                               |
-| 京憲                                                 |
-| [始炫](https://zh.wikipedia.org/wiki/金始炫 "wikilink") |
+|                                 |
+| ------------------------------- |
+| 成員列表                            |
+| 藝名                              |
+| 漢字                              |
+| 志榮                              |
+| Eson                            |
+| 京憲                              |
+| [始炫](../Page/金始炫.md "wikilink") |
 
 ## 經歷
 
@@ -29,11 +29,11 @@ Entertainment)於2019年推出的五人男子組合，成員包括Jimyoung、Eso
 
 ### 綜藝節目
 
-| 播出日期                 | 電視台                                  | 節目名稱                                                                          | 參與成員 | 備註      |
-| -------------------- | ------------------------------------ | ----------------------------------------------------------------------------- | ---- | ------- |
-| 2017年4月7日－6月16日      | [Mnet](../Page/Mnet媒體.md "wikilink") | 《[Produce 101 第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")》 | 始炫   | 因健康問題退出 |
-| 2017年8月10日－8月27日     | IMBC                                 | [4Caris的私生活](https://zh.wikipedia.org/wiki/偶像的私生活 "wikilink")                 | 始炫   |         |
-| 2018年11月3日-2019年2月9日 | MBC                                  | [Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")     | 始炫   | E01-14  |
+| 播出日期                 | 電視台                                  | 節目名稱                                                                      | 參與成員 | 備註      |
+| -------------------- | ------------------------------------ | ------------------------------------------------------------------------- | ---- | ------- |
+| 2017年4月7日－6月16日      | [Mnet](../Page/Mnet媒體.md "wikilink") | 《[Produce 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》                | 始炫   | 因健康問題退出 |
+| 2017年8月10日－8月27日     | IMBC                                 | [4Caris的私生活](../Page/偶像的私生活.md "wikilink")                                | 始炫   |         |
+| 2018年11月3日-2019年2月9日 | MBC                                  | [Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink") | 始炫   | E01-14  |
 
 ## 參考資料
 

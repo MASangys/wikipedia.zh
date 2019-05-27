@@ -1,6 +1,5 @@
 **EVERGLOW**（名字風格：**∑V∑RδLOW**，；），是[樂華娛樂在](../Page/乐华娱乐.md "wikilink")2019年推出的六人女子團體。由五名韩国成员E:U、SIHYEON、MIA、ONDA、AISHA，以及一名中国成员YIREN组成。2019年3月18日，以首张单曲专辑《[ARRIVAL
-OF
-EVERGLOW](https://zh.wikipedia.org/wiki/ARRIVAL_OF_EVERGLOW "wikilink")》正式出道。\[1\]
+OF EVERGLOW](../Page/ARRIVAL_OF_EVERGLOW.md "wikilink")》正式出道。\[1\]
 
 ## 團體資料
 
@@ -41,7 +40,7 @@ Logo中“E”用求和记号希腊字母sigma“∑”的写法代表组合成�
 但之後《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》表示，首輪淘汰者最終不接受轉入普通班訓練的退學方案，曺世林正式终结参与《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》。曺其后与[乐华娱乐签约成为旗下练习生](../Page/乐华娱乐.md "wikilink")。
 
 2018年6月15日，成员金施贤和王怡人以[乐华娱乐练习生身份参与由](../Page/乐华娱乐.md "wikilink")[Mnet和日本](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")[AKB48集團主办的韓日合作選秀節目](../Page/AKB48集團.md "wikilink")《[PRODUCE
-48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》以争取女团出道机会。其中成员金施贤则是继两年前参与[PRODUCE
+48](../Page/PRODUCE_48.md "wikilink")》以争取女团出道机会。其中成员金施贤则是继两年前参与[PRODUCE
 101之后再次出演PRODUCE系列节目](../Page/PRODUCE_101.md "wikilink")。两人在第三次綜合評價排名結果中，分别以第27名和第28名止步总决赛。
 
 ### 2019年：出道准备 正式出道
@@ -53,8 +52,8 @@ RIVER。3月7日，8日及9日，官方释出组合翻跳于1998年至2018年之
 3月12日，释出主打歌 《봉봉쇼콜라 (Bon Bon Chocolat)》的MV预告。\[8\]
 
 3月18日，于下午6点正式出道，发行首张单曲专辑《[ARRIVAL OF
-EVERGLOW](https://zh.wikipedia.org/wiki/ARRIVAL_OF_EVERGLOW "wikilink")》，主打歌为《[봉봉쇼콜라
-(Bon Bon Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》。\[9\]
+EVERGLOW](../Page/ARRIVAL_OF_EVERGLOW.md "wikilink")》，主打歌为《[봉봉쇼콜라 (Bon
+Bon Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》。\[9\]
 
 ## 音樂作品
 
@@ -71,7 +70,7 @@ EVERGLOW](https://zh.wikipedia.org/wiki/ARRIVAL_OF_EVERGLOW "wikilink")》，主
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/ARRIVAL_OF_EVERGLOW" title="wikilink">ARRIVAL OF EVERGLOW</a>》</strong></p>
+<td><p><strong>《<a href="../Page/ARRIVAL_OF_EVERGLOW.md" title="wikilink">ARRIVAL OF EVERGLOW</a>》</strong></p>
 <ul>
 <li>發行日期 ：2019年3月18日</li>
 <li>語言：韓語</li>
@@ -103,7 +102,7 @@ EVERGLOW](https://zh.wikipedia.org/wiki/ARRIVAL_OF_EVERGLOW "wikilink")》，主
 <tr class="odd">
 <td><p>2019年</p></td>
 <td><p>3月18日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/ARRIVAL_OF_EVERGLOW" title="wikilink">ARRIVAL OF EVERGLOW</a>》</p></td>
+<td><p>《<a href="../Page/ARRIVAL_OF_EVERGLOW.md" title="wikilink">ARRIVAL OF EVERGLOW</a>》</p></td>
 <td><p>봉봉쇼콜라(Bon Bon Chocolat)</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=TDpqrZKKBEA">봉봉쇼콜라 (Bon Bon Chocolat)</a>[11]</p></td>
 <td><p>봉봉쇼콜라(Bon Bon Chocolat)[12]<br />
@@ -118,12 +117,12 @@ EVERGLOW](https://zh.wikipedia.org/wiki/ARRIVAL_OF_EVERGLOW "wikilink")》，主
 
 ### 固定綜藝
 
-| 日期                 | 電視台                                                                 | 節目名稱                                                        | 參與成員 | 備註        |
-| ------------------ | ------------------------------------------------------------------- | ----------------------------------------------------------- | ---- | --------- |
-| 2016年1月22日 - 4月1日  | [Mnet](../Page/Mnet媒體.md "wikilink")                                | 《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》          | 施賢   | 出道前       |
-| 2017年2月27日 - 6月27日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                             | 《[美味的烹飪課](https://zh.wikipedia.org/wiki/美味的烹飪課 "wikilink")》 | E:U  | 出道前\[15\] |
-| 2017年7月13日 - 9月29日 | [Mnet](../Page/Mnet媒體.md "wikilink")                                | 《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》     | ONDA | 出道前       |
-| 2018年6月15日 - 8月31日 | 《[PRODUCE 48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》 | 施賢、怡人                                                       | 出道前  |           |
+| 日期                 | 電視台                                              | 節目名稱                                                        | 參與成員 | 備註        |
+| ------------------ | ------------------------------------------------ | ----------------------------------------------------------- | ---- | --------- |
+| 2016年1月22日 - 4月1日  | [Mnet](../Page/Mnet媒體.md "wikilink")             | 《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》          | 施賢   | 出道前       |
+| 2017年2月27日 - 6月27日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")          | 《[美味的烹飪課](https://zh.wikipedia.org/wiki/美味的烹飪課 "wikilink")》 | E:U  | 出道前\[15\] |
+| 2017年7月13日 - 9月29日 | [Mnet](../Page/Mnet媒體.md "wikilink")             | 《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》     | ONDA | 出道前       |
+| 2018年6月15日 - 8月31日 | 《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》 | 施賢、怡人                                                       | 出道前  |           |
 
 ### 嘉賓出演
 
@@ -151,7 +150,7 @@ EVERGLOW](https://zh.wikipedia.org/wiki/ARRIVAL_OF_EVERGLOW "wikilink")》，主
 <td><p>2019年</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/ARRIVAL_OF_EVERGLOW" title="wikilink">ARRIVAL OF EVERGLOW</a>》</p></td>
+<td><p>《<a href="../Page/ARRIVAL_OF_EVERGLOW.md" title="wikilink">ARRIVAL OF EVERGLOW</a>》</p></td>
 </tr>
 <tr class="even">
 <td><ul>
